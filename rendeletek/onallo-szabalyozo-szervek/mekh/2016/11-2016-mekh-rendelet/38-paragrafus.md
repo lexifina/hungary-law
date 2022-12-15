@@ -14,4 +14,6 @@ a) 5–20%-os csökkenése esetén a betárolási díj 50%-át,
 
 b) 20%-nál nagyobb csökkenése esetén a betárolási díj 100%-át
 
+fizeti meg pótdíjként a csökkent betárolási kapacitású időszakra, a szerződött betárolandó és a ténylegesen betárolt gázmennyiségek különbözetére vetítve. Ha a rendszerhasználó bizonyítottan a betárolási kapacitás csökkenése miatt nem tudja feltölteni a lekötött mobilkapacitást, a földgáztárolói engedélyes a nem használt mobilkapacitás és a szerződéses tárolói kapacitásdíj egyharmada szorzatának megfelelő összeget is megfizeti a rendszerhasználónak.
+
 [^129]: A 38. § (1) bekezdés nyitó szövegrésze a 14/2016. (XII. 20.) MEKH rendelet 11. § i) pontja szerint módosított szöveg.

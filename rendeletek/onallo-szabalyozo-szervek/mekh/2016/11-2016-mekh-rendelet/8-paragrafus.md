@@ -18,7 +18,7 @@ d) a Magyar Szénhidrogén Készletező Szövetség, valamint
 
 e) a földgáztermelő
 
-## köteles megfizetni.
+köteles megfizetni.
 
 (3) A (2) bekezdés szerint díjfizetésre kötelezetteket az (1) bekezdésben meghatározott díjakon felül más szállítási rendszerüzemeltetési díjfizetési kötelezettség nem terheli. A 9–21. §-ban meghatározott áralkalmazási feltételek a (4) bekezdés szerinti díjfizetésre kötelezettekre is megfelelően irányadók.
 
@@ -33,6 +33,8 @@ e) a földgáztermelő
 a) lekötött kapacitás visszaadása vagy
 
 b) hosszú távú „használd vagy elveszíted” mechanizmus
+
+esetén a szállítási rendszerüzemeltető az újraértékesített kapacitás mértékére köteles a visszaadásban vagy visszavételben érintett rendszerhasználó számára az eredeti kapacitáslekötésre vonatkozó szállítási kapacitásdíj időarányos részét visszafizetni, legfeljebb az érintett kapacitás újraértékesítéséből származó szállítási kapacitásdíj mértékéig.
 
 [^44]: A 7/B. §-t az 5/2019. (V. 31.) MEKH rendelet 10. §-a iktatta be.
 [^45]: A 8. § (2) bekezdés b) pontját a 7/2017. (VII. 13.) MEKH rendelet 20. § b) pontja hatályon kívül helyezte, újonnan a 4/2018. (VI. 14.) MEKH rendelet 3. §-a iktatta be, szövege a 4/2019. (IV. 12.) MEKH rendelet 8. § a) pontja szerint módosított szöveg.

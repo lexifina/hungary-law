@@ -1,5 +1,3 @@
-## Tájékoztatás jogosulatlan nem téli időszaki kapacitástermék igénybevételről
-
 |  | A | B | C | D | E | F | G | H |
 
 | 1. | Felhasználó | Felhasználót elosztói rendszeren ellátó rendszerhasználó | Rendszerhasználót szállítói rendszeren ellátó rendszerhasználó | Gázátadó állomás | Nem téli fogyasztási időszaki kapacitástermékként elosztói rendszerben lekötött kapacitás | Lekötött éves kapacitás | Lekötött I. negyedéves (október–december) kapacitás | Lekötött II. negyedéves (január–március) kapacitás |

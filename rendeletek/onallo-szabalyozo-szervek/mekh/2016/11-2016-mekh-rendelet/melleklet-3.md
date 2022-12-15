@@ -1,5 +1,3 @@
-## Az újonnan beépíthető fogyasztásmérők
-
 | Méretsor | Névleges kapacitás (m3/h) |
 
 | a) |  |
@@ -17,3 +15,5 @@
 | G-160 | 160 |
 
 3. melléklet a 11/2016. (XI. 14.) MEKH rendelethez
+
+Szállítási kiadási pontokhoz rendelt hőmérsékletmérési pontok

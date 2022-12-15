@@ -12,7 +12,7 @@ b) az egyetemes szolgáltató és
 
 c) a rendszerhasználóként eljáró felhasználó
 
-## köteles megfizetni.
+köteles megfizetni.
 
 (3) A (2) bekezdés szerinti díjfizetésre kötelezetteket a földgáztárolási díjon felül – a 38–40. §-ban meghatározott áralkalmazási feltételeken kívül – más földgáztárolási díj-fizetési kötelezettség nem terheli.
 

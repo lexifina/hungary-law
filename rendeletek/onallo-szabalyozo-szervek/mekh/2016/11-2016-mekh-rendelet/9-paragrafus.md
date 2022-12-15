@@ -1,5 +1,3 @@
-## esetén a szállítási rendszerüzemeltető az újraértékesített kapacitás mértékére köteles a visszaadásban vagy visszavételben érintett rendszerhasználó számára az eredeti kapacitáslekötésre vonatkozó szállítási kapacitásdíj időarányos részét visszafizetni, legfeljebb az érintett kapacitás újraértékesítéséből származó szállítási kapacitásdíj mértékéig.
-
 ## 2. Általános rendelkezések
 
 9. § (1)[^48] A szállítási forgalmi díjat az 1. § (1) bekezdés a) pont aa) alpont aaa), aaf), aag), aaj), aal), aam), aaq) és aca) pontja szerinti átadási-átvételi pontokon mért és a kapcsolódó (elosztó) rendszer üzemeltetője által – az ÜKSZ-ben, illetve a határkeresztező vezetékek esetében a kapcsolódó rendszerüzemeltetővel kötött együttműködési megállapodásban, a szállítóvezeték betáplálási és kiadási pontjaira vonatkozó allokálási szabályok szerint – leosztott földgáz energiamennyisége után kell megfizetni a tárgyhót követő hónapban. Az elszámoláshoz szükséges adatok rögzítésének, átadásának módját az ÜKSZ, illetve az Együttműködési Megállapodás tartalmazza.
@@ -16,7 +14,7 @@ c)[^53] az 1. § (1) bekezdés a) pont aa) alpont aaf) alpontjában meghatározo
 
 d) az 1. § (1) bekezdés a) pont ac) alpont aca) és acb) alpontja szerinti átadási-átvételi pontok esetében az 1. § (1) bekezdés a) pont ac) alpont acb) alpontja szerinti betáplálási pontra
 
-## meghatározott kapacitásdíj alapján kell számítani, figyelemmel a szerződési időszakra és a 12., továbbá a 14–16. §-okban meghatározottakra.
+meghatározott kapacitásdíj alapján kell számítani, figyelemmel a szerződési időszakra és a 12., továbbá a 14–16. §-okban meghatározottakra.
 
 (4)[^54] Az 1. § (1) bekezdés a) pont aa) alpont aaf) alpontja szerinti határkeresztező vezetékhez a fizikai áramlással ellentétes irányú hozzáférés esetében a rendszerhasználónak meg kell fizetni az 1. § (1) bekezdés a) pont aa) alpont aaa) alpontja szerinti kiadási pontokra meghatározott kapacitásdíjat is.
 

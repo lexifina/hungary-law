@@ -18,7 +18,7 @@ d)[^95] 100 m3/h vagy annál nagyobb, de 500 m3/h-nál kisebb névleges (össz)k
 
 e)[^96] 500 m3/h vagy annál nagyobb névleges (össz)kapacitású fogyasztásmérővel rendelkező felhasználó
 
-## szerinti értékesítési kategóriánként állapítja meg.
+szerinti értékesítési kategóriánként állapítja meg.
 
 (2a)[^97] A (2) bekezdés szerinti kategóriába sorolás alapja a felhasználási helyen felszerelt fogyasztásmérő (fogyasztásmérők) túlnyomással korrigált névleges (össz)kapacitása.
 

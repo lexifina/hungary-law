@@ -12,7 +12,7 @@ a) a kiinduló ár százalékban kifejezett részét, melynek alapértéke 0% va
 
 b) a szállítási rendszerüzemeltető által meghatározott abszolút értéket
 
-## kell tekinteni.
+kell tekinteni.
 
 (5) Az aukción nyertes rendszerhasználó az elnyert kapacitás után az adott kapacitásterméknek megfelelő – kedvezmény nyújtása esetén az azzal csökkentett – mindenkor hatályos szállítási kapacitásdíjat és az aukciós díjat köteles megfizetni.
 

@@ -1,5 +1,3 @@
-## a Hivatal határozatában foglalt külön díjat fizeti meg.
-
 ## 22. A rendszerüzemeltetők által nyújtott szolgáltatások díjainak alkalmazási szabályai
 
 ## 58/A. §[^149] A földgázelosztó

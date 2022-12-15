@@ -2,5 +2,7 @@
 
 1. melléklet a 11/2016. (XI. 14.) MEKH rendelethez[^163]
 
+Fogyasztásmérővel nem rendelkező lakások, felhasználási helyek számításba veendő földgázfogyasztása (kWh/hó)
+
 [^162]: A 73. §-t a 3/2020. (III. 25.) MEKH rendelet 4. §-a iktatta be.
 [^163]: Az 1. melléklet a 7/2017. (VII. 13.) MEKH rendelet 19. § w) pontja szerint módosított szöveg.

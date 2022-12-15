@@ -12,7 +12,7 @@ a) 0,5%, ha az adott minőségi mutatószám legalább 5%-kal, de 10%-nál kiseb
 
 b) 1%, ha az adott minőségi mutatószám aktuális értéke legalább 10%-kal
 
-## marad el az adott – (1) bekezdés szerinti – minőségi mutatószám elvárt szintjétől.
+marad el az adott – (1) bekezdés szerinti – minőségi mutatószám elvárt szintjétől.
 
 (4) Ha több minőségi mutatószám esetében is kimutatható a (3) bekezdésben meghatározott mértékű eltérés, a minőségi árengedmény mértékét az (1) bekezdés szerint minden minőségi mutatószám figyelembevételével, összegzéssel kell megállapítani. A minőségi árengedmény alkalmazása az engedélyes számára külön felszólítás nélkül kötelező.
 

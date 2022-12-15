@@ -18,7 +18,7 @@ b) november havi igénybevétel esetén az éves elosztási kapacitásdíjnak a 
 
 c) december havi igénybevétel esetén az éves elosztási kapacitásdíjnak a Hivatal elosztási díjat megállapító határozatában a nem téli fogyasztási időszaki kapacitáslekötés december havi használata esetében meghatározott százalékát
 
-## kell alapul venni.
+kell alapul venni.
 
 (6) Ha a rendszerhasználó az érintett átadási-átvételi ponton október, november és december hónapokban –5,0 °C-nál hidegebb gáznapi középhőmérsékletű gáznapon vagy január, február és március hónapokban az átadási-átvételi ponton földgázt vételez, és a gáznapon mért óracsúcs meghaladja a felhasználó gáznapra vonatkozó téli fogyasztási időszakra lekötött kapacitását, úgy a földgázelosztó jogosult a gáznapra vonatkozó lekötött kapacitás felett igénybe vett (és korábban még nem érvényesített), legnagyobb órai többletkapacitás után – legfeljebb a nem téli fogyasztási időszakra lekötött kapacitás mértékéig – az éves elosztási kapacitásdíjat a 30. § (2) bekezdése szerint érvényesíteni.
 

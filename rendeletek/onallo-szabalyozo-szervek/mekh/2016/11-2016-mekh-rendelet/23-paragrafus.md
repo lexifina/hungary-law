@@ -16,7 +16,7 @@ b)[^104] 22. § (2) bekezdés d) pontja szerinti felhasználó esetén legalább
 
 c)[^105] 22. § (2) bekezdés e) pontja szerinti felhasználó esetén legalább 4750 kWh/h
 
-## kapacitást köteles lekötni, amely minimális lekötést az 33/A. § szerinti, nem téli fogyasztási időszakra lekötött kapacitással rendelkező felhasználók esetén a nem téli fogyasztási időszakra lekötött – nullánál nagyobb – kapacitással csökkentheti.
+kapacitást köteles lekötni, amely minimális lekötést az 33/A. § szerinti, nem téli fogyasztási időszakra lekötött kapacitással rendelkező felhasználók esetén a nem téli fogyasztási időszakra lekötött – nullánál nagyobb – kapacitással csökkentheti.
 
 (2b)[^106] A földgázelosztó a (2a) bekezdésben szereplő feltétel teljesülését az adott gázév április 30-áig ellenőrzi. A 22. § (7) bekezdésében meghatározott díjfizetésre kötelezett a (2a) bekezdésben szereplő feltétel nem teljesülése esetén a (2a) bekezdésben szereplő feltételhez tartozó éves díjat pótdíjként köteles megfizetni a földgázelosztó részére az adott gázév június 30-áig. Az így meghatározott pótdíj és a rendszerhasználó lekötése alapján számlázott kapacitásdíj együttes összege nem haladhatja meg a (2a) bekezdés szerinti kategóriánkénti minimális lekötés alapján meghatározott éves díjat.
 

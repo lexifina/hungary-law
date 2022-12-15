@@ -1,5 +1,3 @@
-## 35. §
-
 ## 19. Egyéb szabályok
 
 36. § (1) A közvilágítási célú fogyasztás elszámolása esetén a közterületeket megvilágító berendezések karbantartási és fenntartási költségeinek – beleértve a világítótestek pótlásának és cseréjének a költségeit is – megfizetése tekintetében az érintett szerződő felek külön megállapodása az irányadó.

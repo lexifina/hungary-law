@@ -12,7 +12,7 @@ c) az 1. § (2) bekezdés 2. pont b) alpontja szerinti fejlesztés esetén,
 
 d) kapacitásnövelés és rákapcsolás esetén
 
-## a Hivatal csatlakozási díjakat megállapító határozata tartalmazza.
+a Hivatal csatlakozási díjakat megállapító határozata tartalmazza.
 
 (2)[^137] A földgázelosztó a csatlakozási díjat a 2021. október 1-jén kezdődő árszabályozási ciklus második gázévétől – gázévente egyszer – a Hivatalnak a földgázelosztási díjat megállapító határozatában foglalt, a működési költségekre vonatkozó kompozit inflációs mutatóval kumuláltan megnövelheti.
 

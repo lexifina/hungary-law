@@ -18,5 +18,7 @@ b) szállítási rendszerüzemeltető számára a rendszerhasználó és
 
 c) földgáztároló számára a rendszerhasználó
 
+a Hivatal határozatában foglalt külön díjat fizeti meg.
+
 [^147]: Az 58. § (1) bekezdése a 3/2021. (IV. 14.) MEKH rendelet 13. §-ával megállapított szöveg.
 [^148]: Az 58. § (2) bekezdés záró szövegrésze a 14/2016. (XII. 20.) MEKH rendelet 11. § l) pontja, a 3/2021. (IV. 14.) MEKH rendelet 14. § j) pontja szerint módosított szöveg.
