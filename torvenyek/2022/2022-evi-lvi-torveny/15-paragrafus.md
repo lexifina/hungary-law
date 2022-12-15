@@ -1,0 +1,7 @@
+## 14. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
+
+15. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 197/C. §-a helyébe a következő rendelkezés lép:
+
+„197/C. § (1) A Tanács elnöke, alelnöke és tagja az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvénnyel megállapított rendelkezéseknek megfelelően, az Európai Bizottság kérésére egyes törvényeknek a kondicionalitási eljárás eredményes lezárása érdekében szükséges módosításáról szóló 2022. évi LVI. törvénnyel megállapított tartalommal és formában először – 2022. november 1. napján fennálló állapot szerint − 2023. január 31-ig tesz vagyonnyilatkozatot, amelyhez csatolja a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek vagyonnyilatkozatát is.
+
+(2) Az európai uniós költségvetési források felhasználásának ellenőrzésével összefüggő egyes, vagyonnyilatkozattal kapcsolatos törvények módosításáról szóló 2022. évi XXXI. törvény hatálybalépése napján folyamatban lévő vagyonnyilatkozattal kapcsolatos eljárásokban az eljárás megindulása napján hatályos szabályokat kell alkalmazni.”
