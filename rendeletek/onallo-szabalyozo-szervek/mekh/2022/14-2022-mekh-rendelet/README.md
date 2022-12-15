@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-14-20-5
 | --- | --- | --- |
 | 2022-12-02 | 2022-14-20-5Z.1 | 14/2022. (XI. 29.) MEKH rendelet |
 | 2022-12-03 | 2022-14-20-5Z.2 | 2010. évi CXXX. törvény |
+| 2022-12-15 | 2022-14-20-5Z.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
