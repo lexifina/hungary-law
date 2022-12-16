@@ -4,7 +4,7 @@ a)[^2] a székesfehérvári stadionrekonstrukciós program keretében a Székesf
 
 b) a székesfehérvári Sóstó Természetvédelmi Terület és a Vidámparki csónakázótó rehabilitációs program megvalósítását szolgáló beruházásokkal
 
-## összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
 
 (2) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
 
