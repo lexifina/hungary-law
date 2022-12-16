@@ -1,8 +1,6 @@
-## 9–10. §[^5]
-
 1. melléklet a 336/2016. (XI. 11.) Korm. rendelethez
 
-## A Beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé nyilvánított hatósági ügyek
+A Beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé nyilvánított hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -41,5 +39,3 @@
 18. azok az 1–17. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzembe helyezéséhez közvetlenül szükségesek,
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
-
-[^5]: A 9–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
