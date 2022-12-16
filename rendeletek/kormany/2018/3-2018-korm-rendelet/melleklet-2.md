@@ -1,5 +1,3 @@
-## A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemében megvalósuló iskolafejlesztések
-
 |  | A | B |
 
 | 1. | A beruházás megnevezése | A beruházás azonosító adatai |
@@ -20,7 +18,7 @@
 
 2. melléklet a 3/2018. (II. 1.) Korm. rendelethez
 
-## A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. környezetvédelmi hatósági eljárások,
 
