@@ -2,7 +2,7 @@
 
 1. melléklet a 49/2015. (III. 12.) Korm. rendelethez
 
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé nyilvánított hatósági eljárások
+A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé nyilvánított hatósági eljárások
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
