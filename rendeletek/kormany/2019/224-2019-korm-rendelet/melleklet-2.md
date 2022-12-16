@@ -1,5 +1,3 @@
-## A beruházással érintett ingatlanok
-
 |  | A | B |
 
 | 1. | A beruházás megnevezése | A beruházás megvalósításának helyszíne |
@@ -10,7 +8,7 @@
 
 2. melléklet a 224/2019. (IX. 25.) Korm. rendelethez
 
-## A Dunakeszin alap- és középfokú oktatási intézmények és kulturális központ létrejöttét célzó beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Dunakeszin alap- és középfokú oktatási intézmények és kulturális központ létrejöttét célzó beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -46,7 +44,7 @@
 
 17. közegészségügyi hatósági eljárások,
 
-18.[^14]
+18.[^15]
 
 19. földvédelmi hatósági eljárások,
 
@@ -54,4 +52,4 @@
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^14]: A 2. melléklet 18. pontját az 513/2021. (IX. 3.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^15]: A 2. melléklet 18. pontját az 513/2021. (IX. 3.) Korm. rendelet 4. §-a hatályon kívül helyezte.

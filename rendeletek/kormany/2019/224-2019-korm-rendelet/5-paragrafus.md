@@ -1,3 +1,3 @@
-5. § (1) A Beruházás építési műszaki ellenőre, akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója, valamint beruházás-lebonyolítója kizárólagos joggal a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság.
+5. §[^1]
 
-(2) Az (1) bekezdés szerinti beruházás-lebonyolítói feladatkörbe az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 43. § (1) bekezdés c)–d), f)–h), j)–k) pontjában foglalt feladatokon túlmenően – az építésügyi szakmagyakorlásra vonatkozó összeférhetetlenségi szabályok betartásával – minden olyan feladat, illetve tevékenység ellátása beletartozik, ami az építési tevékenység szakszerű megvalósításának előkészítésével, ellenőrzésével vagy irányításával kapcsolatos.
+[^1]: Az 5. §-t az 523/2022. (XII. 15.) Korm. rendelet 39. § 31. pontja hatályon kívül helyezte.

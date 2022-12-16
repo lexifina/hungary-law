@@ -1,4 +1,4 @@
-## Az oktatási, művelődési, egészségügyi, szociális, rekreációs, illetve sportlétesítmények és azokhoz kapcsolódó létesítmények elhelyezésére szolgáló terület, illetve a különleges, beépítésre nem szánt terület elhatárolása
+## 1X07601_0
 
 |  | A | B | C |
 
@@ -186,9 +186,11 @@
 
 | 92. |  | 656948,85 | 256441,79 | 656901,31 | 256344,19 |
 
-4. melléklet a 224/2019. (IX. 25.) Korm. rendelethez[^16]
+4. melléklet a 224/2019. (IX. 25.) Korm. rendelethez[^17]
 
 A közlekedési- és közműelhelyezési, hírközlési területek lehatárolása
+
+1X07605_0
 
 |  | A | B |
 
@@ -326,4 +328,4 @@ A közlekedési- és közműelhelyezési, hírközlési területek lehatárolás
 
 | 67. | 036/260 | a teljes telek terület oktatási művelődési, egészségügyi, szociális, rekreációs, illetve sportlétesítmények és azokhoz kapcsolódó létesítmények elhelyezésére szolgáló terület |  |
 
-[^16]: A 4. mellékletet az 513/2021. (IX. 3.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^17]: A 4. mellékletet az 513/2021. (IX. 3.) Korm. rendelet 3. § (3) bekezdése iktatta be.
