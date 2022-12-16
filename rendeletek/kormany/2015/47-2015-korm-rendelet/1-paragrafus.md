@@ -4,7 +4,7 @@ a) az Izsák 1817, 1818, 1819, 1820 helyrajzi számú ingatlanokon, illetve az e
 
 b) a Dunakeszi 2952 helyrajzi számú ingatlanon, illetve az ebből az ingatlanból telekalakítási eljárások jogerős befejezését követően kialakított ingatlanokon
 
-## megvalósuló, iskola építésére irányuló beruházásokkal (a továbbiakban együtt: beruházások) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+megvalósuló, iskola építésére irányuló beruházásokkal (a továbbiakban együtt: beruházások) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
 
 (2) Az (1) bekezdés alkalmazásában a beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek a beruházások megvalósításához és használatbavételéhez szükségesek.
 

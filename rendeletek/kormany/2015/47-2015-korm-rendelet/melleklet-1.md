@@ -2,7 +2,7 @@
 
 1. melléklet a 47/2015. (III. 12.) Korm. rendelethez
 
-## A beruházások megvalósításához szükséges, kiemelt jelentőségű üggyé nyilvánított hatósági eljárások
+A beruházások megvalósításához szükséges, kiemelt jelentőségű üggyé nyilvánított hatósági eljárások
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
