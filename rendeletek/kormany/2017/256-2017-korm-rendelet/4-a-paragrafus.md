@@ -1,1 +1,0 @@
-## 4. § A Beruházás járulékos közbeszerzési szolgáltatója, beruházáslebonyolítója és műszaki ellenőre kizárólagos joggal a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság.

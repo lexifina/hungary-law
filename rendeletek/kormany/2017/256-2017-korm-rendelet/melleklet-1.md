@@ -1,8 +1,8 @@
-## 7. §[^4] E rendeletnek a beruházások megvalósításával összefüggő kormányrendeletek módosításáról szóló 136/2019. (VI. 11.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 4/A. §-át a Módr. hatálybalépésekor[^5] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^5] E rendeletnek a beruházások megvalósításával összefüggő kormányrendeletek módosításáról szóló 136/2019. (VI. 11.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 4/A. §-át a Módr. hatálybalépésekor[^6] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 256/2017. (IX. 5.) Korm. rendelethez
 
-## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. környezetvédelmi hatósági eljárások,
 
@@ -42,5 +42,5 @@
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^4]: A 7. §-t a 136/2019. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
-[^5]: A hatálybalépés időpontja 2019. június 12.
+[^5]: A 7. §-t a 136/2019. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
+[^6]: A hatálybalépés időpontja 2019. június 12.
