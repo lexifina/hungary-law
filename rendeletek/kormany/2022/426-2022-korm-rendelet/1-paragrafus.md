@@ -7,3 +7,7 @@
 (4) 2022. november 1. napjától a BMSK Sport Közhasznú Nonprofit Korlátolt Felelősségű Társaság (székhelye: 1146 Budapest, Istvánmezei út 1–3.; cégjegyzékszáma: 01-09-273409) (a továbbiakban: BMSK Sport Közhasznú Nonprofit Kft.) az NKK Nemzeti Közlekedési Központ Nonprofit Zrt. jogutódja a Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat hatálya alá tartozó, a 4. mellékletben meghatározott projekt, valamint az azokhoz kapcsolódó, jogszabályban és kormányhatározatban rögzített feladatok tekintetében.
 
 (5) 2022. november 1. napjától a Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság (székhelye: 1027 Budapest, Horvát utca 14–26. 8. em. 836.; cégjegyzékszáma: 01-10-141742) (a továbbiakban: Nemzeti Sportügynökség Nonprofit Zrt.) az NKK Nemzeti Közlekedési Központ Nonprofit Zrt. jogutódja a 2023. évi labdarúgó Európa-liga döntőjének budapesti megrendezése, valamint az azokhoz kapcsolódó, jogszabályban és kormányhatározatban rögzített feladatok tekintetében.
+
+(6)[^1] 2022. december 19. napjától a NIF Zrt. az NKK Nemzeti Közlekedési Központ Nonprofit Zrt. jogutódja az NKK Nemzeti Közlekedési Központ Nonprofit Zrt. tulajdonában álló, nem projekthez kapcsolódó, nem selejtezhető immateriális javak és tárgyi eszközök tekintetében.
+
+[^1]: Az 1. § (6) bekezdését az 523/2022. (XII. 15.) Korm. rendelet 37. §-a iktatta be.
