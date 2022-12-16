@@ -14,7 +14,7 @@ e) a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény (a tová
 
 f)[^3] a közúti közlekedésről szóló 1988. évi I. törvény 45/E. § (4) bekezdésében
 
-## meghatározott személy.
+meghatározott személy.
 
 (2)[^4] Az (1) bekezdés a)–c) és f) pontja szerinti kötelezett a felügyeleti díj a)–c) és f) pontja szerinti törvényi rendelkezésben előírtak alapján történő megállapítása érdekében az e rendeletben foglaltak szerint bevallást készít, és megküldi azt a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére. A kötelezett a bevallást elektronikus formában, a Hivatal Energiainformációs Adattára adatgyűjtő alrendszerének útján teljesíti.
 

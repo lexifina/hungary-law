@@ -130,7 +130,7 @@ A) Földgázellátással kapcsolatos hatósági eljárások igazgatási szolgál
 
 | 60. | b) egyéb engedélyes esetében | 1 000 |
 
-| 61. | Fogyasztói korlátozási sorrend |  |
+| 61. | Korlátozási besorolás |  |
 
 | 62. | a) jóváhagyása iránti kérelem elbírálása | 1 000 |
 
@@ -320,6 +320,8 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 57/B. | k) Mérési pont azonosító módosítása | 10 |
 
+| 57/C | l) teljes mértékben integrált villamosenergia-tároló létesítése miatt a működési engedély módosítása iránti kérelem elbírálása | 10 |
+
 | 58 | Engedély visszavonása iránti kérelem elbírálása, kivéve villamosenergia-termelők és villamosenergia-kereskedők esetében | az adott engedély kiadása díjának 50%-a |
 
 | 58/A | Engedély visszavonása iránti kérelem elbírálása villamosenergia-kereskedők esetében | 50 |
@@ -368,7 +370,9 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 80 | f) szervezett villamosenergia-piaci engedélyes esetében | 1 000 |
 
-| 81 | g) közvilágítási üzemeltetési engedélyes esetében | 200 |
+| 80/A | g) villamosenergia-tárolói engedélyes esetében | 300 |
+
+| 81 | h) közvilágítási üzemeltetési engedélyes esetében | 200 |
 
 | 81/A | Engedélyesben történő közvetett befolyásszerzéshez előzetes hozzájárulás iránti kérelem elbírálása (engedélyenként) | 105 |
 
@@ -442,23 +446,23 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 
 | 115 | A kötelező átvételre vagy prémium típusú támogatásra vonatkozó jogosultságot megállapító határozat módosítása |  |
 
-| 116 | a) egyéb állami támogatás változása vagy a helyrajzi szám telephely fizikai változatlansága melletti módosulása miatt | 10 |
+| 116 | a) egyéb állami támogatás változása vagy a helyrajzi szám telephely fizikai változatlansága melletti módosulása miatt | 15 |
 
-| 117 | b) egyéb okból | 55 |
+| 117 | b) egyéb okból | 70 |
 
-| 118 | A megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendelet szerinti új kötelező átvételi jogosultság mértékének megállapítása | 49 |
+| 118 | A megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendelet szerinti új kötelező átvételi jogosultság mértékének megállapítása | 65 |
 
-| 119 | A megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendelet szerinti prémium típusú támogatás mértékének megállapítása | 99 |
+| 119 | A megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló kormányrendelet szerinti prémium típusú támogatás mértékének megállapítása | 130 |
 
-| 120 | Kötelező átvételi vagy Prémium típusú támogatási jogosultság visszavonása | 5 |
+| 120 | Kötelező átvételi vagy prémium típusú támogatási jogosultság visszavonása | 10 |
 
 | 121 | Barna prémiumra jogosultság megállapítása |  |
 
-| 122 | a) 5 MW alatt | 90 |
+| 122 | a) 5 MW alatt | 120 |
 
-| 123 | b) 5 MW-tól | 500 |
+| 123 | b) 5 MW-tól | 670 |
 
-| 124 | Demonstrációs projektté minősítés | 200 |
+| 124 | Demonstrációs projektté minősítés | 265 |
 
 | 125 | A KÁT mérlegkör működtetésének, illetve a KÁT mérlegkör-felelősi feladatok elvégzésének indokolt költségének megállapítása iránti kérelem elbírálása | 50 |
 
@@ -579,6 +583,18 @@ B) Villamosenergia-ellátással kapcsolatos hatósági eljárások igazgatási s
 | 180 | Aggregátor nyilvántartás módosítása névváltozás vagy székhelyváltozás, illetve az ezekből következő cégjegyzékszám- és adószámváltozás esetén | 10 |
 
 | 181 | Aggregátor nyilvántartásból való törlés a tevékenységgel való felhagyás esetén | 50 |
+
+| 182 | Teljes mértékben integrált villamosenergia-tároló létesítésének és működtetésének jóváhagyására irányuló kérelem elbírálása |  |
+
+| 183 | a) 0,5 MW alatti névleges teljesítőképesség esetében | 250 |
+
+| 184 | b) 0,5–4,99 MW tárolói névleges teljesítőképesség esetében | 500 |
+
+| 185 | c) 5–19,99 MW tárolói névleges teljesítőképesség esetében | 1 000 |
+
+| 186 | d) 20–49,99 MW tárolói névleges teljesítőképesség esetében | 2 000 |
+
+| 187 | e) 50 MW vagy annál nagyobb tárolói névleges teljesítőképesség esetében | 2 500 |
 
 C) Távhőellátással kapcsolatos hatósági eljárások igazgatási szolgáltatási díjai:
 
@@ -768,7 +784,7 @@ F) Hulladékgazdálkodási közszolgáltatással kapcsolatos hatósági eljárá
 
 | 2 | A Ht. 47/B. §-a szerinti hulladékgazdálkodási közszolgáltatási díj megállapítása | 150 |
 
-| 3 | Megfelelőségi vélemény kiállítására irányuló eljárás | 100 |
+| 3 | Megfelelőségi vélemény kiállítására irányuló eljárás | 150 |
 
 | 4 | A Ht. 92/H. § (7) bekezdése szerinti szerződés jóváhagyására irányuló eljárás (szerződésenként) | 15 |
 
@@ -794,4 +810,4 @@ G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolg
 
 | 7 | pozitív eredményű költség-haszon elemzés esetén kiadott kötelező határozat végrehajtása alóli felmentési kérelem elbírálása | 200 |
 
-[^28]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a, a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése, a 6/2020. (VI. 29.) MEKH rendelet 3. § e) pontja, a 10/2020. (XI. 4.) MEKH rendelet 2. §-a, a 4/2021. (IV. 14.) MEKH rendelet 2. §-a, a 10/2021. (VIII. 13.) MEKH rendelet 5. §-a, a 2/2022. (III. 16.) MEKH rendelet 1. és 2. §-a szerint módosított szöveg.
+[^28]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a, a 19/2016. (XII. 23.) MEKH rendelet 8. §-a, a 3/2017. (IV. 18.) MEKH rendelet 1. §-a, a 8/2017. (VII. 28.) MEKH rendelet 1. §-a, a 14/2017. (XI. 8.) MEKH rendelet 1. § a)–b) pontja, a 8/2018. (VIII. 23.) MEKH rendelet 1. §-a, a 14/2018. (XII. 19.) MEKH rendelet 1. §-a, az 1/2019. (III. 13.) MEKH rendelet 3. §-a, a 17/2019. (XII. 20.) MEKH rendelet 1. § (2) bekezdése, a 6/2020. (VI. 29.) MEKH rendelet 3. § e) pontja, a 10/2020. (XI. 4.) MEKH rendelet 2. §-a, a 4/2021. (IV. 14.) MEKH rendelet 2. §-a, a 10/2021. (VIII. 13.) MEKH rendelet 5. §-a, a 2/2022. (III. 16.) MEKH rendelet 1. és 2. §-a, a 12/2022. (XI. 15.) MEKH rendelet 1. §-a szerint módosított szöveg.
