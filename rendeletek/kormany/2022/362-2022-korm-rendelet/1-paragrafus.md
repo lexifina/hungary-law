@@ -1,4 +1,4 @@
-1. § (1) Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 11/A. §-a alapján
+1. § (1)[^1] Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 11/A. §-a alapján
 
 a) a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság (székhely: 1134 Budapest, Váci út 45.; cégjegyzékszám: 01-10-044180; adószáma: 11906522-2-41; főtevékenysége: út, autópálya építése),
 
@@ -10,7 +10,7 @@ d) a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbesze
 
 e) a BMSK Sport Közhasznú Nonprofit Korlátolt Felelősségű Társaság (székhely: 1146 Budapest, Istvánmezei út 1–3.; cégjegyzékszám: 01-09-273409; adószáma: 23007266-2-42; főtevékenysége: sportlétesítmény működtetése)
 
-által ellátott állami feladatokat az Építési és Beruházási Minisztérium részére kell átadni.
+által ellátott állami feladatokat és a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság Zrt. által ellátott egyéb tevékenységet – ide nem értve a sportért való kormányzati felelősségi körbe tartozó feladatait – az Építési és Beruházási Minisztérium részére kell átadni.
 
 (2) Az (1) bekezdésben megjelölt gazdasági társaságok által ellátott (1) bekezdés szerinti feladatok átvételének és a gazdasági társaságok megszűnésének időpontja 2023. január 1. napja.
 
@@ -19,3 +19,5 @@ e) a BMSK Sport Közhasznú Nonprofit Korlátolt Felelősségű Társaság (szé
 (4) Az államot az Áht. 11/C. § (2) bekezdése szerinti esetben a miniszter képviseli.
 
 (5) A miniszter 2023. január 1. napjáig intézkedik a (2) bekezdés szerinti feladatok átvételéről.
+
+[^1]: Az 1. § (1) bekezdés záró szövegrésze az 523/2022. (XII. 15.) Korm. rendelet 36. § (1) bekezdése szerint módosított szöveg.
