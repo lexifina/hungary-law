@@ -1,5 +1,3 @@
-4. § (1)[^8] Az 1. § (1) bekezdése szerinti építési beruházással kapcsolatos építési műszaki ellenőri feladatokat, valamint a közbeszerzések lebonyolítását a Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt. (a továbbiakban: BMSK Zrt.) látja el kizárólagos joggal a (2) bekezdésben foglaltak szerint.
+4. §[^8]
 
-(2) A BMSK Zrt. a közbeszerzés lebonyolításának keretében – az ajánlatkérő nevében – közreműködő szervezetként ellátja az 1. § (1) bekezdése szerinti építési beruházással kapcsolatos közbeszerzési eljárások előkészítésével, lebonyolításával és a szerződések előkészítésével kapcsolatos feladatokat.
-
-[^8]: A 4. § (1) bekezdése a 265/2011. (XII. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^8]: A 4. §-t az 523/2022. (XII. 15.) Korm. rendelet 39. § 2. pontja hatályon kívül helyezte.
