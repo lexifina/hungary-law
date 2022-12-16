@@ -20,7 +20,23 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1119/2022. (III. 5.) Korm. határozathoz[^1]
+## 6.[^1] egyetért a szomszédos országokban felmerülő – Magyarország területét közvetlenül érintő – humanitárius katasztrófa kezelésével kapcsolatos feladatok ellátásának 2023. évi folytatása érdekében a Karitatív Tanács szervezeti tagjainak támogatásával;
+
+## 7.[^2] felhívja a pénzügyminisztert, hogy – a miniszterelnök általános helyettese bevonásával – gondoskodjon a 6. pontban meghatározott cél megvalósítása érdekében 1 500 900 000 forint forrás rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 1. Egyházi közfeladatellátáshoz kapcsolódó céltámogatások és karitatív feladatok támogatása jogcím javára;
+
+| Felelős: | pénzügyminiszter a miniszterelnök általános helyettese |
+
+| Határidő: | 2023. január 31. |
+
+## 8.[^3] felhívja a miniszterelnök általános helyettesét, hogy a 6. pontban foglalt cél megvalósítása érdekében, a 7. pontban meghatározott forrás terhére a Karitatív Tanács szervezeti tagjaival szervezetenként 250 000 000 forint támogatási összegben létesítsen támogatási jogviszonyt.
+
+| Felelős: | a miniszterelnök általános helyettese |
+
+| Határidő: | a 7. pontban meghatározott forrás rendelkezésre állását követően azonnal |
+
+1. melléklet az 1119/2022. (III. 5.) Korm. határozathoz[^4]
+
+2X01608M_0
 
 | XI. Miniszterelnökség XLII. A költségvetés közvetlen bevételei és kiadásai ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2022. forintban |
 
@@ -94,4 +110,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. melléklet az 1121/2022. (III. 7.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^1]: A 6. pontot az 1631/2022. (XII. 16.) Korm. határozat bevezetője iktatta be.
+[^2]: A 7. pontot az 1631/2022. (XII. 16.) Korm. határozat bevezetője iktatta be.
+[^3]: A 8. pontot az 1631/2022. (XII. 16.) Korm. határozat bevezetője iktatta be.
+[^4]: Az 1. melléklet az 1121/2022. (III. 7.) Korm. határozat 10. pontja szerint módosított szöveg.
