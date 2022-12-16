@@ -1,5 +1,5 @@
 ## 4. § A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Budapest Főváros Kormányhivatalát vezető kormánymegbízottat jelöli ki.
 
-5. § (1) Az 1. § (1) bekezdése szerinti beruházás hivatalos közbeszerzési tanácsadója, lebonyolítója és építési műszaki ellenőre kizárólagos joggal a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság.
+5. §[^2]
 
-(2) Az (1) bekezdés szerinti lebonyolítói feladatkörbe az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 43. § (1) bekezdés c)–d), f), j) és k) pontjában, valamint az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet 7. § (3) bekezdésében foglalt feladatokon túlmenően – az építésügyi szakmagyakorlásra vonatkozó összeférhetetlenségi szabályok betartásával – minden olyan feladat, illetve tevékenység ellátása beletartozik, ami az építési tevékenység szakszerű megvalósításának előkészítésével, ellenőrzésével vagy irányításával kapcsolatos.
+[^2]: Az 5. §-t az 523/2022. (XII. 15.) Korm. rendelet 39. § 12. pontja hatályon kívül helyezte.

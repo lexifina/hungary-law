@@ -2,7 +2,7 @@
 
 1. melléklet a 132/2015. (V. 27.) Korm. rendelethez
 
-## Az 1. § (1) bekezdése szerinti beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé nyilvánított hatósági eljárások
+Az 1. § (1) bekezdése szerinti beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé nyilvánított hatósági eljárások
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
