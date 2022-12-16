@@ -1,8 +1,6 @@
-## 7. §[^2]
-
 1. melléklet a 372/2017. (XII. 8.) Korm. rendelethez
 
-## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. általános építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -47,5 +45,3 @@
 21. azok az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához és használatbavételéhez szükségesek,
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
-
-[^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
