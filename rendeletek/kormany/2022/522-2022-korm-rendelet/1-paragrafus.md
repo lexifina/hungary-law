@@ -1,3 +1,3 @@
-1. § Az Európa Kulturális Fővárosa 2023 cím viselésével összefüggésben, az Európa Kulturális Fővárosa 2023 programsorozat megrendezéséhez szükséges létesítményfejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint további sajátos szabályok megállapításáról szóló 654/2020. (XII. 23.) Korm. rendelet (a továbbiakban: R.) a következő 17. §-sal egészül ki:
+1. §[^2]
 
-„17. § E rendeletnek az Európa Kulturális Fővárosa 2023 cím viselésével összefüggésben, az Európa Kulturális Fővárosa 2023 programsorozat megrendezéséhez szükséges létesítményfejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint további sajátos szabályok megállapításáról szóló 654/2020. (XII. 23.) Korm. rendelet módosításáról szóló 522/2022. (XII. 14.) Korm. rendelettel (a továbbiakban: Módr3.) módosított 2. mellékletét a Módr3. hatálybalépésekor folyamatban lévő közigazgatási ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

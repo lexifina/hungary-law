@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-522-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-12-15 | 2022-522-20-22.1 | 522/2022. (XII. 14.) Korm. rendelet |
+| 2022-12-16 | 2022-522-20-22.2 | 2010. évi CXXX. törvény |
