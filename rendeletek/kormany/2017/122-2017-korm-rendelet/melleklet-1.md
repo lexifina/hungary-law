@@ -2,7 +2,7 @@
 
 1. melléklet a 122/2017. (VI. 2.) Korm. rendelethez
 
-## A Beruházás megvalósításához szükséges, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházás megvalósításához szükséges, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
