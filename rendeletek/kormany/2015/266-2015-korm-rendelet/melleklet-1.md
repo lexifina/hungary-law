@@ -2,7 +2,7 @@
 
 1. melléklet a 266/2015. (IX. 14.) Korm. rendelethez
 
-## A Közbeszerzési és Ellátási Főigazgatóság irányító- és logisztikai központjának kialakításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+A Közbeszerzési és Ellátási Főigazgatóság irányító- és logisztikai központjának kialakításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
