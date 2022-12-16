@@ -1,5 +1,3 @@
-## A Beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatásához hatáskörrel rendelkező közigazgatási szervek
-
 |  | A | B | C | D |
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
@@ -30,6 +28,6 @@
 
 | 14. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 270/2014. (XI. 4.) Korm. rendelethez[^7]
+2. melléklet a 270/2014. (XI. 4.) Korm. rendelethez[^8]
 
-[^7]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 167. § d) pontja hatályon kívül helyezte.
+[^8]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 167. § d) pontja hatályon kívül helyezte.
