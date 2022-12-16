@@ -6,9 +6,9 @@ a) a közlekedésért felelős miniszter,
 
 b) a területi környezetvédelmi hatóság,
 
-c) a nagyforgalmú közutak intézkedési tervjavaslatai esetén az érintett közút kezelője és a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság,
+c)[^35]
 
-d) a nagyforgalmú vasutak intézkedési tervjavaslatai esetén az érintett vasúti pályahálózat-működtető és a NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság,
+d)[^36]
 
 e) a megyei főépítész és
 
@@ -43,3 +43,5 @@ d) a lakosságnak szóló nyilvános konzultáció tartása esetén annak időpo
 (10) Az intézkedési tervjavaslatok lefolytatott egyeztetéséről a kötelezett önkormányzat, illetve a fő közlekedési létesítmény kötelezettje összefoglalót készít, amivel az intézkedési tervjavaslatot kiegészíti.
 
 [^34]: Az „Az intézkedési tervjavaslatok egyeztetése” alcím (10–12. §) a 209/2021. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^35]: A 10. § (1) bekezdés c) pontját az 523/2022. (XII. 15.) Korm. rendelet 39. § 1. pontja hatályon kívül helyezte.
+[^36]: A 10. § (1) bekezdés d) pontját az 523/2022. (XII. 15.) Korm. rendelet 39. § 1. pontja hatályon kívül helyezte.

@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-280-20-
 | 2020-03-01 | 2004-280-20-22.13 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2021-05-07 | 2004-280-20-22.14 | 209/2021. (IV. 29.) Korm. rendelet |
 | 2022-11-26 | 2004-280-20-22.15 | 466/2022. (XI. 18.) Korm. rendelet |
+| 2022-12-16 | 2004-280-20-22.16 | 523/2022. (XII. 15.) Korm. rendelet |
