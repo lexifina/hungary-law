@@ -1,5 +1,3 @@
-## A Kézilabda Munkacsarnok-fejlesztési Program keretében megvalósuló, nemzetgazdasági szempontból kiemelt jelentőségű Beruházások
-
 |  | A | B |
 
 | 1. | A beruházás megnevezése | A beruházás azonosító adatai |
@@ -40,7 +38,7 @@
 
 2. melléklet a 224/2018. (XI. 29.) Korm. rendelethez
 
-## A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. környezetvédelmi hatósági eljárások,
 

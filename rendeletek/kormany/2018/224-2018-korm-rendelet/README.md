@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-224-20-
 | 2018-12-01 | 2018-224-20-22.2 | 2010: CXXX. törvény |
 | 2020-12-22 | 2018-224-20-22.3 | 617/2020. (XII. 21.) Korm. rendelet |
 | 2021-04-10 | 2018-224-20-22.4 | 173/2021. (IV. 9.) Korm. rendelet |
+| 2022-12-16 | 2018-224-20-22.5 | 523/2022. (XII. 15.) Korm. rendelet |
