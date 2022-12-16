@@ -1,3 +1,3 @@
-11. §[^10]
+11. §[^12]
 
-[^10]: A 11. § a 14. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^12]: A 11. § a 14. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
