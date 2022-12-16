@@ -14,4 +14,6 @@ a) 25 fő női létszám részére legalább 1 WC-fülke,
 
 b) 40 fő férfi létszám részére legalább 1 WC-fülke
 
+létesítése szükséges.
+
 [^7]: A 3/C. §-t az 552/2021. (IX. 28.) Korm. rendelet 1. §-a iktatta be.
