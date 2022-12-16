@@ -36,7 +36,7 @@
 
 2. melléklet a 479/2017. (XII. 28.) Korm. rendelethez
 
-## A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. általános építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
