@@ -1,5 +1,3 @@
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági eljárások és az eljárások lefolytatáshoz hatáskörrel rendelkező közigazgatási szervek
-
 |  | A | B | C | D |
 
 | 1. | Beruházás megnevezése | Beruházás megvalósításának helyszíne | A beruházás megvalósításával kapcsolatos eljárások | Eljáró hatóság |
@@ -26,6 +24,6 @@
 
 | 12. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^40]
+2. melléklet a 364/2011. (XII. 30.) Korm. rendelethez[^38]
 
-[^40]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 43. § c) pontja hatályon kívül helyezte.
+[^38]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 43. § c) pontja hatályon kívül helyezte.
