@@ -2,7 +2,7 @@
 
 1. melléklet a 472/2016. (XII. 23.) Korm. rendelethez
 
-## A Beruházással összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházással összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. környezetvédelmi hatósági eljárások,
 

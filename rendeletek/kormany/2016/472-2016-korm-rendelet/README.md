@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-472-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-12-24 | 2016-472-20-22.1 | 472/2016. (XII. 23.) Korm. rendelet |
+| 2022-12-16 | 2016-472-20-22.2 | 523/2022. (XII. 15.) Korm. rendelet |
