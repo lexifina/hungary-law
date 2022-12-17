@@ -1,0 +1,3 @@
+1. § Az egyes intézmények földgázfelhasználásának szabályozásáról szóló 354/2022. (IX. 19.) Korm. rendelet (a továbbiakban: R.) a következő 5. §-sal egészül ki:
+
+„5. § Az intézmény vezetője, illetve a csatlakozásra jogosult az egyes intézmények földgázfelhasználásának szabályozásáról szóló 354/2022. (IX. 19.) Korm. rendelet módosításáról szóló 528/2022. (XII. 16.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésétől számított tíz napon belül elektronikus vagy postai úton megküldött írásbeli nyilatkozattal tájékoztatja a földgázkereskedőt, ha a 2. § (1) bekezdésétől eltérően a földgáz-kereskedelmi szerződés szerinti minimális földgáz-mennyiséget a Módr. hatálybalépését követően is érvényesíti.”
