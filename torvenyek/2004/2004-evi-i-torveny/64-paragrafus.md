@@ -1,4 +1,4 @@
-64. § (1) A Kormány által külön jogszabályban olimpiai központnak minősített, állami tulajdonban lévő ingatlanok vagyonkezelője köteles e központokat elsődlegesen sportcélokra használni, ezt a célt az olimpiai központok másodlagos használata során sem veszélyeztetheti.
+64. § (1) A Kormány rendeletében olimpiai központnak minősített ingatlanokat elsődlegesen sportcélokra kell használni, ezt a célt az olimpiai központok másodlagos használata sem veszélyeztetheti.
 
 (2) Az olimpiai központok szakmai felügyeletét a MOB és az MPB közreműködésével a sportpolitikáért felelős miniszter látja el.
 

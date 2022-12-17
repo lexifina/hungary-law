@@ -4,19 +4,9 @@
 
 76/B. § (1) A magyarországi sportélet fejlesztése és a sport közösségformáló funkciójának megerősítése céljából az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján az 1. mellékletben meghatározott állami vagy részben állami tulajdonú sportcélú ingatlanok – részben állami tulajdonú sportcélú ingatlanok esetében az állam tulajdonában álló tulajdoni hányad – vagyonkezelőjeként az 1. mellékletben meghatározott jogi személyeket jelöli ki.
 
-(1a) Az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján a Budapest IV. kerület 76561/221 helyrajzi számú ingatlan (a továbbiakban: Ingatlan) üzemeltetéséhez, valamint az Ingatlanon végzett sporttevékenység ellátásához kapcsolódó állami tulajdonú ingó vagyonelemek vagyonkezelőjeként a Vasas Sport Clubot (székhely: Budapest 1139, Fáy utca 58.) jelöli ki.
+(1a) Az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján az 1. mellékletben meghatározott állami vagy részben állami tulajdonú sportcélú ingatlanok – részben állami tulajdonú sportcélú ingatlanok esetében az állam tulajdonában álló tulajdoni hányad – (a továbbiakban: ingatlanok) üzemeltetéséhez, valamint az ingatlanokon végzett sporttevékenység ellátásához kapcsolódó állami tulajdonú ingó vagyonelemek vagyonkezelőjeként az 1. mellékletben meghatározott jogi személyeket jelöli ki.
 
-(1b) Az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 11. § (5) bekezdése alapján
-
-a) a Győr belterület 5761/7 helyrajzi számú ingatlan,
-
-b) a Győr belterület 5761/7/A helyrajzi számú ingatlan,
-
-c) a Győr belterület 5761/7/B helyrajzi számú ingatlan,
-
-d) a Győr belterület 5761/7/C helyrajzi számú ingatlan
-
-[a)–d) pont a továbbiakban együtt: Ingatlanok] üzemeltetéséhez, valamint az Ingatlanokon végzett sporttevékenység ellátásához kapcsolódó állami tulajdonú ingó vagyonelemek vagyonkezelőjeként az ETO Futball Sportszervező és Szolgáltató Korlátolt Felelősségű Társaságot (székhely: 9027 Győr, Nagysándor József utca 31.) jelöli ki.
+(1b) Az (1a) bekezdés szerinti vagyonelemek az 1. mellékletben meghatározott jogi személyek és a tulajdonosi joggyakorló között fennálló vagyonkezelési szerződés hatálya alá kerülnek azzal, hogy az 1. mellékletben meghatározott jogi személyek 60 napon belül kötelesek – a vagyonnyilvántartási szabályoknak megfelelő – írásbeli nyilatkozattal bejelenteni a tulajdonosi joggyakorló felé a fennálló vagyonkezelési szerződése hatálya alá került új vagyonelemeket.
 
 (2) Az (1)–(1b) bekezdésben meghatározott vagyonkezelői jog létesítése ingyenesen történik. A vagyonkezelő a vagyonkezelői jog gyakorlásának ellenértékeként a (3) bekezdés szerint meghatározott vagyonkezelési díjat köteles fizetni.
 
