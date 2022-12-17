@@ -1,0 +1,1 @@
+18. § A budapesti Istvánmező rehabilitációs programjáról, kiemelten a Budapesti Olimpiai Központ integrált rekonstrukciójáról szóló 2012. évi LXXV. törvény (a továbbiakban: 2012. évi LXXV. törvény) 6. § (1) bekezdésében a „Nemzeti Sportközpontok” szövegrész helyébe a „Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság” szöveg lép.

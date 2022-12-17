@@ -1,0 +1,1 @@
+Magyarország Alaptörvényének XX. cikkében foglaltak végrehajtása, valamint az állami sportingatlan-vagyon hatékony, költségtakarékos, értékmegőrző és -növelő, egységes elveken alapuló, a társadalmi igényeknek és elvárásoknak megfelelő kezelése, fenntartása, üzemeltetése és fejlesztése érdekében az Országgyűlés a következő törvényt alkotja:
