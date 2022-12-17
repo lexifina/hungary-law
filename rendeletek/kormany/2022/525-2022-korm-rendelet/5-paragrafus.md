@@ -1,0 +1,5 @@
+5. § (1) A veszélyhelyzet ideje alatt az Étv. 60. § (8) bekezdésétől eltérően az új településfejlesztési tervet és településrendezési tervet legkésőbb 2027. július 1-jéig hatályba kell léptetni, és a 2012. augusztus 6-án hatályos szabályoknak megfelelő településfejlesztési koncepció, integrált településfejlesztési stratégia vagy településrendezési eszközök módosítására 2027. június 30-ig van lehetőség.
+
+(2) Az Étv. 60. § (9) bekezdésétől eltérően 2027. június 30-ig van lehetőség a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet tartalmi követelményeinek figyelembevételével településrendezési eszköz elfogadására.
+
+(3) Az Étv. 60. § (10) bekezdésétől eltérően az új koncepció, stratégia, településrendezési eszközök készítésére irányuló eljárást 2023. december 31-ig önkormányzati döntéssel le kell zárni, amely 2027. június 30-ig maradhat hatályban, és módosításukra eddig az időpontig lehetőség van.

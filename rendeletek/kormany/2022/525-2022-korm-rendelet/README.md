@@ -1,0 +1,9 @@
+# 525/2022. (XII. 16.) Korm. rendelet
+
+az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-525-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2022-12-17 | 2022-525-20-22.1 | 525/2022. (XII. 16.) Korm. rendelet |
