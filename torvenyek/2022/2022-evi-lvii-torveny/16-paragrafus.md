@@ -1,3 +1,1 @@
-16. § A Sporttv. Hatályba léptető és átmeneti rendelkezések alcíme a következő 78/R. §-sal egészül ki:
-
-„78/R. § Az egyes állami sportcélú közfeladatok ellátásának rendjéről és szervezeti kereteiről szóló 2022. évi LVII. törvénnyel (a továbbiakban: Módtv11.) megállapított 76/B. § (1a) és (1b) bekezdése alapján nem szükséges új vagyonkezelési szerződést kötni, a Módtv11. hatálybalépését megelőzően megkötött vagyonkezelési szerződések hatályukban fennmaradnak.”
+### 16. §
