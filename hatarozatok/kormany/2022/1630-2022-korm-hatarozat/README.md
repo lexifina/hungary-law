@@ -1,0 +1,9 @@
+# 1630/2022. (XII. 16.) Korm. határozat
+
+a közszférában alkalmazandó nyugdíjpolitikai elvekről szóló 1700/2012. (XII. 29.) Korm. határozatnak, valamint a közszférában alkalmazandó nyugdíjpolitikai elvekről szóló 1700/2012. (XII. 29.) Korm. határozatnak az egészségügyi ágazatban való végrehajtásáról szóló 1150/2013. (III. 22.) Korm. határozatnak az egészségügyi szolgálati jogviszony tekintetében történő eltérő alkalmazásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1630-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2022-12-18 | 2022-1630-30-22.1 | 1630/2022. (XII. 16.) Korm. határozat |
