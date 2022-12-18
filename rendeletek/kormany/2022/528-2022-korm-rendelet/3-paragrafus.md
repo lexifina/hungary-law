@@ -1,1 +1,3 @@
-3. § Az R. 2. § (1) bekezdésében a „75%-a” szövegrész helyébe a „60%-a” szöveg lép.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
