@@ -1,0 +1,1 @@
+2. § Az R. 1. melléklet 5.1. pontjában foglalt táblázat B:341 mezőjében az „N-(1-carbamoyl-2,2-dimethyl-propyl)-5-(4-fluoropentyl)-2-pent-4-enyl-pyrazole-3-carboxamide” szövegrész helyébe az „N-(1-carbamoyl-2,2-dimethyl-propyl)-5-(4-fluorophenyl)-2-pent-4-enyl-pyrazole-3-carboxamide” szöveg lép.
