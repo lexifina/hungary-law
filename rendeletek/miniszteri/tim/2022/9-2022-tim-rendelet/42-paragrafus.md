@@ -1,3 +1,5 @@
-## 41. §[^53]
+## 41. § Az R8. 23. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-[^53]: A 41. § a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+## (A szakoktató oktatás, valamint járműkezelési, rutin és forgalmi vizsgáztatás közben köteles magánál tartani)
+
+## „b) a járművezetési gyakorlat tantárgy oktatásakor és a gyakorlati vizsgán az a) pontban foglaltakon kívül a jármű forgalmi engedélyét, az érvényes oktatójármű-igazolást és a papíralapú vagy elektronikus vezetési kartont.”

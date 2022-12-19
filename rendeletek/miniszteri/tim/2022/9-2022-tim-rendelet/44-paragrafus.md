@@ -1,3 +1,3 @@
-## 43. §[^55]
+## 43. § Az R8. 27. §-a a következő (3a) bekezdéssel egészül ki:
 
-[^55]: A 43. § a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+## „(3a) Az elméleti vizsgabiztosoknak a vizsgabiztosi tevékenység folytatásához – a (3) bekezdés szerinti követelményeknek való megfelelés érdekében – kétévente továbbképzésen kell részt venniük, és ezt követően sikeres vizsgát kell tenniük.”

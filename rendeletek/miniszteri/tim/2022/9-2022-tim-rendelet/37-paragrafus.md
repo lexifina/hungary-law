@@ -1,3 +1,1 @@
-## 36. §[^48]
-
-[^48]: A 36. § a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+## „(6) A 10. § (2) bekezdésében előírt vezetői engedély helyett egy évig el kell fogadni a feltételként meghatározott kategória megszerzését tanúsító – a vizsgaközpont által kiállított és a közlekedési igazgatási hatóság részére elektronikus úton továbbított –, az e rendeletben előírt valamennyi vizsgakövetelmény teljesítéséről szóló vizsgaigazolást. Az egy évet az adott kategóriára vonatkozó utolsó sikeres vizsga letételének időpontjától kell számítani.”

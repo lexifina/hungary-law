@@ -2,72 +2,50 @@
 
 ## 52. § Hatályát veszti az R8.
 
-a)[^87]
+a) 2. § (1) bekezdés 1. pontjában az „és a „biztonsági ellenőrzés és üzemeltetés” tantárgyak” szövegrész,
 
-b)[^88]
+b) 2. § (1) bekezdés 7. pontjában a „biztonsági ellenőrzés és üzemeltetés vizsga,” szövegrész,
 
-c)[^89]
+c) 2. § (1) bekezdés 26. és 28. pontja,
 
-d)[^90]
+d) 2. § (1) bekezdés 33. pontjában az „aláírását és vizsgaeredményeit is,” szövegrész,
 
-e)[^91]
+e) 9. § (6) és (8) bekezdése,
 
-f)[^92]
+f) 10. § (1) bekezdés g) pontja,
 
-g)[^93]
+g) 10. § (2) bekezdés b) pontjában az „és „C” ” szövegrész,
 
-h)[^94]
+h) 11. § (1) bekezdés f) pontjában a „vagy közvetlenül” szövegrész,
 
-i)[^95]
+i) 11. § (1a) bekezdésében a „ , valamint biztonsági ellenőrzés és üzemeltetés vizsgát” szövegrész,
 
-j)[^96]
+j) 11. § (3) bekezdés d) pontjában a „– külön jogszabály alapján –” szövegrész,
 
-k)[^97]
+k) 11. § (5) bekezdés a) pontjában az „és két éven belül „A1” kategóriára sikeres elméleti vizsgát tett” szövegrész,
 
-l)[^98]
+l) 11. § (5) bekezdése b) pontjában az „és két éven belül „A1” vagy „A2” kategóriára sikeres elméleti vizsgát tett” szövegrész,
 
-m)[^99]
+m) 14. § (8) bekezdése,
 
-n)[^100]
+n) 15. § (2) bekezdés b) pontjában az „a biztonsági ellenőrzés és üzemeltetési,” szövegrész,
 
-o)[^101]
+o) 18. § (4) bekezdés második mondatában, 20. § (2) bekezdés második mondatában és 26. § (2) bekezdés második mondatában az „A” szövegrész,
 
-p)[^102]
+p) a 18. § (4) bekezdés második mondatában, 20. § (2) bekezdés második mondatában a „meghatározottak szerint” szövegrész, valamint 32. § (1) bekezdésében a „meghatározottak szerinti” szövegrész,
 
-q)[^103]
+q) 21. § (3) bekezdése,
 
-r)[^104]
+r) 23. § (1) bekezdés a) pontjában az „és a szakoktatói igazolványát, ez utóbbit köteles jól láthatóan magán viselni,” szövegrész,
 
-s)[^105]
+s) 25. § (3) bekezdés c) pontja,
 
-t)[^106]
+t) 31. § (1) bekezdés a) pontjában az „és szakoktatói vagy a 3. melléklet 2.5 pontjában meghatározott képesítéssel” szövegrész,
 
-u)[^107]
+u) 31.§ (1) bekezdés b) pontja,
 
-v)[^108]
+v) 33/D. § (2) bekezdése, (4) bekezdése és (6) bekezdése,
 
-w)[^109]
+w)[^43]
 
-[^87]: Az 52. § a) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^88]: Az 52. § b) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^89]: Az 52. § c) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^90]: Az 52. § d) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^91]: Az 52. § e) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^92]: Az 52. § f) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^93]: Az 52. § g) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^94]: Az 52. § h) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^95]: Az 52. § i) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^96]: Az 52. § j) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^97]: Az 52. § k) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^98]: Az 52. § l) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^99]: Az 52. § m) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^100]: Az 52. § n) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^101]: Az 52. § o) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^102]: Az 52. § p) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^103]: Az 52. § q) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^104]: Az 52. § r) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^105]: Az 52. § s) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^106]: Az 52. § t) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^107]: Az 52. § u) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^108]: Az 52. § v) pontja a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
-[^109]: Az 51. § w) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^43]: Az 51. § w) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

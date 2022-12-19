@@ -1,3 +1,3 @@
-## 38. §[^50]
+## 38. § Az R8. 14. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-[^50]: A 38. § a 72. § (5) bekezdése alapján 2022. december 19-én lép hatályba.
+## „(5) A vezetői engedély kiadásának feltételéül a jogszabályban meghatározott vizsgáztatási előírásoknak az a vizsgázó tett eleget, aki az egyes kategóriákhoz, kombinált kategóriákhoz a 8. mellékletben előírt vizsgatárgyakból megfelelt vagy azok teljesítése alól e rendelet alapján felmentést kapott. Az adott kategóriás vezetői engedély megszerzésére irányuló, e rendeletben előírt valamennyi vizsgakövetelmény teljesítéséről az utolsó vizsgát követően egy napon belül a vizsgaközpont elektronikus vizsgaigazolás kiállításával és továbbításával adatot szolgáltat a közúti közlekedési nyilvántartó szerv részére. A vizsgaközpont a vizsgázó kérelmére az elektronikus vizsgaigazolásról másodlati példányt állít ki.”
