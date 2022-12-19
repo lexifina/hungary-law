@@ -6,6 +6,8 @@ b) az a) alpont szerinti esetekben az 1700/2012. (XII. 29.) Korm. határozat 1. 
 
 c) az a) alponttól eltérően nem kell alkalmazni az 1700/2012. (XII. 29.) Korm. határozatot – a jogviszonya megszűnéséig – azon egészségügyi szolgálati jogviszonyban álló egészségügyi dolgozó vonatkozásában, aki a rá irányadó öregségi nyugdíjkorhatárt betöltötte, az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerezte, és azért nem rendelkezik a Kormány 1700/2012. (XII. 29.) Korm. határozat 1. pont 1.3. és 1.7. alpontja szerinti egyetértő véleményével, mert a közszférában alkalmazandó nyugdíjpolitikai elvekről szóló 1700/2012. (XII. 29.) Korm. határozat egészségügyi dolgozókra való alkalmazásának felfüggesztéséről szóló 1103/2020. (III. 14.) Korm. határozat alapján mentesült az 1700/2012. (XII. 29.) Korm. határozat 1. pont 1.3. és 1.7. alpontja szerinti véleményeztetési kötelezettség alól.
 
-2. Hatályát veszti a közszférában alkalmazandó nyugdíjpolitikai elvekről szóló 1700/2012. (XII. 29.) Korm. határozat egészségügyi dolgozókra való alkalmazásának felfüggesztéséről szóló 1103/2020. (III. 14.) Korm. határozat.
+2.[^1]
 
 3. Ez a határozat 2022. december 18-án lép hatályba.
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
