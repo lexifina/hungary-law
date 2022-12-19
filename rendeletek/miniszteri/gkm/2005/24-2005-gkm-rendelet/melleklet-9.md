@@ -8,73 +8,69 @@
 
 ## 1.2. Vizsgatárgyak és a gyakorlati vizsgatárgyak vizsgaideje (percben)
 
-|  |  | A | B | C | D |
+|  | A | B | C | D |
 
-|  | 1. |  | B1 | B2 | B3 | B4 | C1 | C2 | C3 | C4 | C5 | C6 | C7 | C8 |  |
+| 1. | Kategória | Elméleti vizsgatárgyak | Gyakorlati vizsgatárgyak vizsgaideje | Megjegyzés |
 
-|  | 2. |  | Elméleti vizsgatárgyak | Gyakorlati vizsgatárgyak vizsgaideje |
+| 2. | Kö | Szü | F1–2 | Mu | Jk | R | F5) |  |
 
-|  | 3. | Kategória | Kö | Szü | F1-2 | Mu | Bü | Jk | R | F3) | Megjegyzés |
+| 3. | 1 | 2 | 1 | 2 | 1 | 3 |
 
-|  | 4. |  |  |  |  |  | 1 | 2 | 1 | 2 | 1 | 2 | 1 | 3 |  |
+| 4. | AM | X | – | – | – | 15 | 10 | – | – | 30 | 20 |  |
 
-|  | 5. | AM | X | – | – | – | – | – | 15 | 10 | – | – | 30 | 20 |  |
+| 5. | A1 | X | – | – | – | 20 | 15 | – | – | 50 | 40 |  |
 
-|  | 6. | A1 | X | – | – | – | – | – | 20 | 15 | – | – | 50 | 40 |  |
+| 6. | A11) | X | – | – | – | – | – | – | – | 50 | 40 |  |
 
-|  | 7. | A11) | X | – | – | – | – | – | – | – | – | – | 50 | 40 |  |
+| 7. | A2 | – | – | – | – | 20 | 15 | – | – | 50 | 40 | 11. § (5) bekezdés a) pont |
 
-|  | 8. | A2 | – | – | – | – | – | – | 20 | 15 | – | – | 50 | 40 | 11. § (5) bekezdés a) pont |
+| 8. | A2 | X | – | – | – | 20 | 15 | – | – | 50 | 40 |  |
 
-|  | 9. | A2 | X | – | – | – | – | – | 20 | 15 | – | – | 50 | 40 |  |
+| 9. | A | – | – | – | – | 20 | 15 | – | – | 50 | 40 | 11. § (5) bekezdés b) pont |
 
-|  | 10. | A | – | – | – | – | – | – | 20 | 15 | – | – | 50 | 40 | 11. § (5) bekezdés b) pont |
+| 10. | A2) | X | – | – | – | 20 | 15 | – | – | 50 | 40 |  |
 
-|  | 11. | A2) | X | – | – | – | – | – | 20 | 17 | – | – | 50 | 40 |  |
+| 11. | B | X | – | – | – | – | – | – | – | 60 | 50 |  |
 
-|  | 12. | B | X | – | – | – | – | – | – | – | – | – | 60 | 50 | 2012. január 1-jétől |
+| 12. | B96 | - | X | - | X | – | – | 30 | 25 | – | – |  |
 
-|  | 13. | B | X | – | – | – | – | – | 20 | 15 | – | – | 50 | 40 | 39. § (2) bekezdés szerint 2011. december 31-ig |
+| 13. | B1 | X | - | - | - | 20 | 15 | – | – | 50 | 40 |  |
 
-|  | 14. | B96 | – | X | – | X | – | – | – | – | –15 | 10 | – | – |  |
+| 14. | BE | X | X | – | X | – | – | 30 | 25 | 50 | 40 |  |
 
-|  | 15. | B1 | X | – | – | – | – | – | 20 | 17 | – | – | 50 | 40 |  |
+| 15. | C1 | X | X | – | X | – | – | 30 | 25 | 60 | 45 |  |
 
-|  | 16. | BE | X | X | – | X | 15 | 10 | – | – | 15 | 10 | 50 | 40 |  |
+| 16. | C | – | – | – | – | – | – | 30 | 25 | 60 | 45 | 11. § (5) bekezdés c) pont |
 
-|  | 17. | C1 | X | X | – | X | 20 | 15 | – | – | 15 | 10 | 60 | 45 |  |
+| 17. | C | X | X | – | X | – | – | 30 | 25 | 60 | 45 |  |
 
-|  | 18. | C | – | – | – | – | 20 | 15 | – | – | 15 | 10 | 60 | 45 | 11. § (5) bekezdés c) pont |
+| 18. | C3) | X | – | – | – | – | – | 30 | 25 | 60 | 45 |  |
 
-|  | 19. | C | X | X | – | X | 20 | 15 | – | – | 15 | 10 | 60 | 45 |  |
+| 19. | C1E | X | X | – | – | – | – | 35 | 30 | 60 | 45 |  |
 
-|  | 20. | C1E | X | X | – | – | 15 | 10 | – | – | 20 | 15 | 60 | 45 |  |
+| 20. | CE | X | X | – | – | – | – | 35 | 30 | 60 | 45 |  |
 
-|  | 21. | CE | X | X | – | – | 15 | 10 | – | – | 20 | 15 | 60 | 45 |  |
+| 21. | D1 | X | – | – | – | – | – | 30 | 25 | 60 | 45 |  |
 
-|  | 22. | D1 | X | – | – | – | 15 | 10 | – | – | 15 | 10 | 60 | 45 |  |
+| 22. | D | X | – | – | – | – | – | 30 | 25 | 105 | 90 |  |
 
-|  | 23. | D | X | – | – | – | 15 | 10 | – | – | 15 | 10 | 105 | 90 |  |
+| 23. | D4) | X | X | – | X | – | – | 30 | 25 | 105 | 90 |  |
 
-|  | 24. | D1E | X | X | – | X | 15 | 10 | – | – | 15 | 10 | 60 | 45 |  |
+| 24. | D1E | X | X | – | X | – | – | 30 | 25 | 60 | 45 |  |
 
-|  | 25. | DE | X | X | – | – | 15 | 10 | – | – | 15 | 10 | 60 | 45 |  |
+| 25. | DE | X | X | – | – | – | – | 35 | 30 | 60 | 45 |  |
 
-|  | 26. | T | X | – | – | X | 20 | 15 | – | – | 15 | 10 | 35 | 25 |  |
+| 26. | T | X | – | – | X | – | – | 30 | 25 | 35 | 25 |  |
 
-|  | 27. | T | – | – | – | – | – | – | – | – | 15 | 10 | 35 | 25 | 11. § (3) bekezdés c) pont |
+| 27. | T | – | – | – | – | – | – | 30 | 25 | 35 | 25 | 11. § (3) bekezdés c) pont |
 
-|  | 28. | K | X | – | – | – | – | – | – | – | – | – | – | – |  |
+| 28. | K | X | – | – | – | – | – | – | – | – | – |  |
 
-|  | 29. | Trolibusz | X | X | X | X | 15 | 10 | – | – | 15 | 10 | 50 | 40 |  |
+| 29. | Tr | X | X | X | X | – | – | 30 | 25 | 50 | 40 |  |
 
-## Kö = Közlekedési alapismeretek. Tartalmaz járművezetés elméleti, valamint az „A”, „A korl.”, „B”, „T” kategóriáknál, továbbá az „A1”, „A2” és
-
-## „B1” kategóriánál szerkezeti és üzemeltetési kérdéseket is.
+## Kö = Közlekedési alapismeretek, amely járművezetés elméleti, valamint az „A1”, „A2”, „A”, „B1”, „B”, „T” kategóriáknál szerkezeti és üzemeltetési ismereteket is tartalmaz.
 
 ## Szü = Szerkezeti és üzemeltetési ismeretek.
-
-## Bü = Biztonsági ellenőrzés és üzemeltetés
 
 ## Jk = Járműkezelési vizsga.
 
@@ -100,13 +96,17 @@
 
 ## 3. A forgalmi vizsga idejébe nem számít bele a kérelmező fogadása, a jármű közúti közlekedésbiztonsággal összefüggő műszaki ellenőrzése, valamint a gyakorlati vizsga eredményének kihirdetése.
 
+## 3) D kategóriára érvényes vezetői engedéllyel
+
+## 4) C kategóriára érvényes vezetői engedély nélkül
+
 ## 1.3. A vizsga értékelése
 
 ## A vizsga eredménye sikeres vizsga esetén: „megfelelt”, jelölése: „M”, sikertelen vizsga esetén „nem felelt meg”, jelölése: bekarikázott „1”-es:
 
 ## Sikertelen a forgalmi vizsga, ha
 
-## a) a vizsgázó a 8.1.2.; 8.2.2.; 8.3.2. pontban meghatározott hibát követ el, vagy
+## a) a vizsgázó az 1.8.2.; 1.8.3., 1.8.4. pontban meghatározott hibát követ el, vagy
 
 ## b) az a) pontban nem említett egyéb hibából – amelyeket a vizsgabiztos egyenként hibavonallal jelöl – tíznél többet követ el.
 
@@ -144,7 +144,7 @@
 
 ## 1.5. A járműkezelési vizsga értékelésének szempontjai
 
-## A vizsgázónak az általa választott járműkezelési minősítő lapon feltüntetett feladatokat kell egymást követő sorrendben végrehajtania. A járműkezelési minősítő lap tartalmazza az egyes részfeladatok esetén a sikertelenséget okozó hibákat, továbbá az összes feladat teljesítése céljából rendelkezésre álló időtartamot.
+## A vizsgázónak a vizsgán biztonsági ellenőrzési, technikai kezelési és manőverezési feladatokat kell egymást követő sorrendben végrehajtania. A járműkezelési minősítő lap tartalmazza az egyes részfeladatok esetén a sikertelenséget okozó hibákat, továbbá az összes feladat teljesítése céljából rendelkezésre álló időtartamot.
 
 ## 1.5.1. „Megfelelt” minősítést kell adni a járműkezelési vizsgán a vizsgázónak, ha a biztonsági ellenőrzési, a technikai kezelési és manőverezési feladatokat a rendelkezésre álló időn belül úgy hajtotta végre, hogy sikertelenséget okozó hibát nem követett el.
 
@@ -170,35 +170,33 @@
 
 ## bb) a meghatározott idő alatt a feladatokat képtelen végrehajtani, függetlenül attól, hogy a már teljesített feladatok végrehajtásakor sikertelenséget okozó hibát nem követett el.
 
-## 1.6. A biztonsági ellenőrzés üzemeltetési vizsga értékelése
-
-## 1.6.1. „Megfelelt” minősítést kell adni a vizsgázónak, ha legalább a szükséges ellenőrzési, karbantartási, szerelési műveleteket képes elvégezni, és a szerszámokat szakszerűen használja, továbbá a vizsgatevékenységgel összefüggő munkavédelmi előírásokat megtartja.
-
-## 1.6.2. „Nem felelt meg” minősítést kell adni a vizsgázónak, ha
-
-## a) a vizsgatételen szereplő feladatot, a szükséges ellenőrzési, karbantartási, szerelési műveleteket nem képes elvégezni;
-
-## b) szerkezeti rongálódást okoz vagy okozna;
-
-## c) a szerszámokat balesetveszélyesen használja;
-
-## d) megszegi a vizsgatevékenységgel kapcsolatos munkavédelmi rendelkezéseket.
+## 1.6.
 
 ## 1.7. A rutin vizsga értékelése
 
-## A vizsgázónak az általa választott rutin minősítő lapon feltüntetett feladatokat kell egymást követő sorrendben végrehajtania.
+## A vizsgázónak a vizsgán biztonsági ellenőrzési, üzemeltetési, rakománybiztonsági vagy utasbiztonsági, valamint technikai kezelési és manőverezési feladatokat kell egymást követő sorrendben végrehajtania.
 
-## A rutin minősítő lap tartalmazza az egyes részfeladatok esetén a sikertelenséget okozó hibákat, továbbá az összes feladat teljesítése céljából rendelkezésre álló időtartamot.
+## 1.7.1. „Megfelelt” minősítést kell adni a vizsgázónak, ha
 
-## 1.7.1. „Megfelelt” minősítést kell adni a vizsgázónak, ha a feladatokat a rendelkezésre álló időn belül úgy hajtotta végre, hogy sikertelenséget okozó hibát nem követett el.
+## a) az ellenőrzési és üzemeltetési feladat végrehajtása során legalább a szükséges ellenőrzési, karbantartási, szerelési műveleteket képes elvégezni, és a szerszámokat szakszerűen használja, továbbá a vizsgatevékenységgel összefüggő munkavédelmi előírásokat megtartja, és;
+
+## b) a technikai kezelési és manőverezési feladatokat a rendelkezésre álló időn belül úgy hajtotta végre, hogy sikertelenséget okozó hibát nem követett el.
 
 ## 1.7.2. „Nem felelt meg” minősítést kell adni a vizsgázónak, ha
 
-## a) bármelyik feladat végrehajtásakor sikertelenséget okozó hibát követett el;
+## a) az ellenőrzési és üzemeltetési feladat vonatkozásában
 
-## b) a meghatározott idő alatt a feladatokat képtelen végrehajtani, függetlenül attól, hogy a már teljesített feladatok végrehajtásakor sikertelenséget okozó hibát nem követett el.
+## aa) a vizsgatételen szereplő feladatot, a szükséges ellenőrzési, karbantartási, szerelési műveleteket nem képes elvégezni;
 
-## Bármely részfeladat teljesítése közben, sikertelen végrehajtást eredményező hiba elkövetése esetén a vizsgát be kell fejezni és a rutin minősítő lapon a feladat melletti felsorolásból az elkövetett hibára vonatkozó szövegrészt alá kell húzni. A sikertelenség okát szükség szerint a „Megjegyzés” rovatában bővebben is lehet indokolni.
+## ab) szerkezeti rongálódást okoz vagy okozna;
+
+## ac) megszegi a vizsgatevékenységgel kapcsolatos munkavédelmi rendelkezéseket.
+
+## b) a technikai kezelési és manőverezési feladatok vonatkozásában
+
+## aa) bármelyik feladat végrehajtásakor sikertelenséget okozó hibát követett el;
+
+## ab) a meghatározott idő alatt a feladatokat képtelen végrehajtani, függetlenül attól, hogy a már teljesített feladatok végrehajtásakor sikertelenséget okozó hibát nem követett el.
 
 ## 1.8. A forgalmi vizsgafeladatok
 
@@ -220,7 +218,7 @@
 
 ## 3. veszélyhelyzetet teremt, vagy balesetet okoz;
 
-## 4. meghatározott feladatot második javítás után sem képes a megfelelő módon végrehajtani;
+## 4. meghatározott feladatot második javítással sem képes a megfelelő módon végrehajtani;
 
 ## 5. elindulás előtt a féklevegő- és fékezőnyomást nem ellenőrzi (légfék vagy levegőrásegítés esetén);
 
@@ -306,7 +304,7 @@
 
 ## 1. a „C”, „D” kategóriák, valamint a „C1E”, „D1E”, „CE”, „DE” kombinált kategóriák esetében a menetíró készüléket nem tudja kezelni, vagy az adatrögzítő lapot nem tudja értelmezni.
 
-## 1.8.3. Az „AM”, „A2”, „A” kategória és az „A1” kategória forgalmi vizsgafeladatai és értékelése
+## 1.8.3. Az „AM”, „A1”, „A2”, „A” kategória forgalmi vizsgafeladatai és értékelése
 
 ## A forgalmi vizsga sikertelenségét okozó hiba
 
@@ -318,7 +316,7 @@
 
 ## 3. veszélyhelyzetet teremt vagy balesetet okoz
 
-## 4. meghatározott feladatot második javítás után sem képes a megfelelő módon végrehajtani;
+## 4. meghatározott feladatot második javítással sem képes a megfelelő módon végrehajtani;
 
 ## 5. az üzemi fék ellenőrzését elmulasztja;
 
@@ -454,6 +452,6 @@
 
 ## 38. a jelzőcsengő megszólalása után nyitott ajtóval indul el a trolibusszal.
 
-9. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^321]
+9. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^346]
 
-[^321]: A 9. mellékletet a 45/2019. (XII. 20.) ITM rendelet 29. § 13. pontja hatályon kívül helyezte.
+[^346]: A 9. mellékletet a 45/2019. (XII. 20.) ITM rendelet 29. § 13. pontja hatályon kívül helyezte.

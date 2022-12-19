@@ -1,4 +1,4 @@
-5. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^305]
+5. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^330]
 
 ## A 2003. év december 1-jét követően oktatásba bevont járművekre vonatkozó előírások
 
@@ -34,7 +34,7 @@ Oldalkocsi nélküli motorkerékpár, amelynek hengerűrtartalma legalább 245 c
 
 a) jellemzők:
 
-aa) legalább 5 személy befogadóképesség,
+aa) legalább 4 személy befogadóképesség,
 
 ab) legalább négyajtós kivitel,
 
@@ -44,7 +44,7 @@ b) kötelező felszerelések és tartozékok:
 
 ba) a járműnek legalább négy ülését fejtámlával kell felszerelni, amennyiben azt a gyári kialakítás lehetővé teszi,
 
-bb) olyan oldalhelyes irányjelző visszajelző, amely az oktatói és a hátsó ülésekről is jól láthatóvá teszi az irányjelző működését,
+bb) oldalhelyes irányjelző visszajelző, amely láthatóvá teszi az irányjelző működését,
 
 bc) kettős pedálrendszer, amely a járművezető melletti ülésből is biztosítja az üzemi pedálokkal elérhető szabályozást. A pótfék hatásosságának el kell érnie az üzemi fék hatásosságának legalább 90%-át,
 
@@ -342,4 +342,4 @@ Az oktatásra használt valamennyi járművet – kétkerekű járműveket kivé
 
 Az „AM” és „A” kategóriás, továbbá az „A1” és „A2” kategóriás gyakorlati képzés főoktatási szakaszában a kísérő szakoktatót szállító személygépkocsi tetőtartóján el kell helyezni a motorosok oktatására figyelmeztető feliratot tartalmazó táblát.
 
-[^305]: Az 5. melléklet a 14/2015. (III. 31.) NFM rendelet 9. § (2) bekezdésével megállapított, a 15/2021. (IV. 9.) ITM rendelet 26. §-a szerint módosított szöveg.
+[^330]: Az 5. melléklet a 14/2015. (III. 31.) NFM rendelet 9. § (2) bekezdésével megállapított, a 15/2021. (IV. 9.) ITM rendelet 26. §-a, a 9/2022. (VIII. 1.) TIM rendelet 50. § b) pontja szerint módosított szöveg.

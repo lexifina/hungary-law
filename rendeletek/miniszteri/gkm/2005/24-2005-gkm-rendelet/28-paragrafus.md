@@ -1,5 +1,8 @@
-28. § (1)[^186] A vizsgabiztos vizsgáztatás közben köteles magánál tartani a vezetői engedélyét (vagy a közlekedési igazgatási hatóság által kiadott, a vezetői engedély kiállítására irányuló kérelem adatlapot, annak adatlapon feltüntetett érvényességi idején belül) és a vizsgabiztosi igazolványát, ez utóbbit köteles jól láthatóan magán viselni.
+28. § (1)[^221] A vizsgabiztos vizsgáztatás közben magánál tartja vizsgabiztosi igazolványát. A vizsgabiztos „T” kategóriás forgalmi vizsgáztatás közben magánál tartja a vezetői engedélyét (vagy a közlekedési igazgatási hatóság által kiadott, a vezetői engedély kiállítására irányuló kérelem adatlapot, annak adatlapon feltüntetett érvényességi idején belül) is.
+
+(1a)[^222] Az elméleti vizsgabiztos vizsgáztatás közben magánál tartja elméleti vizsgabiztosi igazolványát.
 
 (2) Az (1) bekezdésben meghatározott okmányokat az ellenőrzés során az arra jogosult személynek be kell mutatni.
 
-[^186]: A 28. § (1) bekezdése a 15/2021. (IV. 9.) ITM rendelet 21. §-ával megállapított szöveg.
+[^221]: A 28. § (1) bekezdése a 9/2022. (VIII. 1.) TIM rendelet 44. §-ával megállapított szöveg.
+[^222]: A 28. § (1a) bekezdését a 9/2022. (VIII. 1.) TIM rendelet 44. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 ## A közúti járművezetők képzésére vonatkozó részletes eljárási rend
 
-1.[^279] Beiskolázási feltételek
+1.[^301] Beiskolázási feltételek
 
 Ha a képző szerv a jelentkezés időpontjában – az általa vizsgálható okmányok és a tanuló nyilatkozata alapján – megállapította, hogy a tanuló a vizsgára bocsátásra vagy a vezetői engedély kiadására vonatkozó feltételeknek nem felel meg, köteles erről a tényről a tanulót írásban tájékoztatni.
 
@@ -20,17 +20,17 @@ Ha a képző szerv a jelentkezés időpontjában – az általa vizsgálható ok
 
 a „Közlekedési ismeretek” és a „Járművezetés elmélete” tantárgyak oktatására.
 
-2.3. A „Műszaki ismeretek” szakos vagy annak megfelelő képesítés jogosít:
+2.3.[^302] A „Műszaki ismeretek” szakos vagy annak megfelelő képesítés jogosít:
 
-a „Szerkezeti és üzemeltetési ismeretek”, a „Biztonsági ellenőrzés és üzemeltetés”, a „Munkavédelem, tűzvédelem, szállítás” és a „Járművezetés elmélete” tantárgyak oktatására.
+a „Szerkezeti és üzemeltetési ismeretek”, ,a „Munkavédelem, tűzvédelem, szállítás” és a „Járművezetés elmélete” tantárgyak oktatására.
 
-2.4.[^280] A „Járművezetési gyakorlat” szakos képesítés jogosít:
+2.4.[^303] A „Járművezetési gyakorlat” szakos képesítés jogosít:
 
 a járművezetési gyakorlat oktatására (beleértve az „Alapoktatás” biztonsági ellenőrzési feladatainak oktatását is) abban a vezetői engedélyre vonatkozó nemzetközi- és nemzeti kategóriában, amellyel a szakoktató a szakoktatói tanfolyamra jelentkezéskor rendelkezett továbbá a „Járművezetés elmélete” tantárgy oktatására minden kategóriában.
 
 A 2011. december 1. napját megelőzően szerzett „Járművezetési gyakorlat” szakos képesítés – a jogszabályban meghatározott egyéb feltételek teljesítése esetén – azon vezetői engedély kategóriák gyakorlati oktatására jogosít, amelyek megfelelnek a 18. § (3) bekezdés b) pontokban meghatározott feltételeknek.
 
-2.5.[^281] A „Műszaki ismeretek” szakos szakoktatói képesítésnek megfelelő végzettségek
+2.5.[^304] A „Műszaki ismeretek” szakos szakoktatói képesítésnek megfelelő végzettségek
 
 A „Műszaki ismeretek” szakos szakoktatói képesítésnek elfogadhatók az azzal egyenértékű vagy magasabb szintű, az alábbiakban felsorolt végzettségek:
 
@@ -48,7 +48,7 @@ Bármely főiskolán szerzett
 
 – műszaki oktató szakos oklevél.
 
-2.6.[^282] A „Tr” kategóriás járművezető képző tanfolyam elméleti tantárgyait csak a közúti járművezető szakoktatói „Tr” kategóriás kiegészítő képzést és az azt követő vizsgát sikeresen teljesített szakoktató végezheti. A 2019. szeptember 1-jét követően indult közúti járművezető szakoktatói szaktanfolyamon szerzett, csak közúti járművezetői szakoktatói alapképzést és az azt követő vizsgát sikeresen teljesített szakoktató – tevékenységi engedély kiadását követően – közúti járművezetés gyakorlati képzést csak „B” kategóriás járművezető képző tanfolyamon oktathat.
+2.6.[^305] A „Tr” kategóriás járművezető képző tanfolyam elméleti tantárgyait csak a közúti járművezető szakoktatói „Tr” kategóriás kiegészítő képzést és az azt követő vizsgát sikeresen teljesített szakoktató végezheti. A 2019. szeptember 1-jét követően indult közúti járművezető szakoktatói szaktanfolyamon szerzett, csak közúti járművezetői szakoktatói alapképzést és az azt követő vizsgát sikeresen teljesített szakoktató – tevékenységi engedély kiadását követően – közúti járművezetés gyakorlati képzést csak „B” kategóriás járművezető képző tanfolyamon oktathat.
 
 A felsorolt képesítések szakoktatói névjegyzékbe vételre – szakmai előírások tekintetében – jogosítanak.
 
@@ -58,11 +58,11 @@ A nem említett szakképesítések elfogadásáról a közlekedési hatóság eg
 
 3.1. Tárgyi feltételek a képzéshez
 
-3.1.1.[^283] Ügyfélfogadó helyiség
+3.1.1.[^306] Ügyfélfogadó helyiség
 
 A képző szervnek rendelkeznie kell az ügyfélfogadáshoz – az ügyfélfogadás idejében kizárólag a képző szerv (vállalkozás) céljára szolgáló – ügyfélfogadó helyiséggel, amelynek felszereltsége biztosítja az ügyfelek kulturált fogadásának és kiszolgálásának feltételeit. Az ügyfélfogadóban a képző szerv képzési engedélyét és a vállalkozási feltételeit és az írásos tájékoztatót ki kell függeszteni, továbbá a cégtáblán az ügyfélfogadás idejét fel kell tüntetni. Az ügyfélfogadás ideje nem lehet kevesebb hetente összesen 8 óránál, amely 8 órát munkanapokon 8 és 20 óra között kell meghatározni.
 
-3.1.2.[^284] Az elméleti tárgyak oktatásához
+3.1.2.[^307] Az elméleti tárgyak oktatásához
 
 A képző szervnek rendelkeznie kell
 
@@ -78,25 +78,13 @@ b) e-learning esetében
 
 ba) a 16. mellékletben foglaltaknak és az engedélyezett képzésnek megfelelő e-learning rendszerrel.
 
-3.1.3.[^285] A „Szerkezeti és üzemeltetési ismeretek” tantárgy oktatásához
+3.1.3.[^308] A „Szerkezeti és üzemeltetési ismeretek” tantárgy oktatásához
 
 Az „A” és „B” kategóriás, valamint az „A1”, „A2” és „B1” kategóriás tantermi képzést olyan tanteremben kell végezni, amely alkalmas a világító- és jelzőberendezések működőképes modelljének bemutatására.
 
-3.1.4.[^286] A „Biztonsági ellenőrzés és üzemeltetés” tantárgy oktatásához
+3.1.4.[^309]
 
-A „C”, „D”, „T”, „Trolibusz” kategóriás, valamint a „C1”, „D1” „kategóriás, továbbá a „BE”, „CE”, „C1E”, „DE”, „D1E” kombinált kategóriás képzés esetén a képző szervnek rendelkeznie kell az oktatásra kialakított helyiséggel, amelyben el kell helyezni legalább egy darab, az oktatni kívánt kategóriának (kategóriának, kombinált kategóriának) megfelelő típusú üzemképes járművet vagy tanalvázat, továbbá a közlekedésért felelős miniszter által meghatározott tantervi feladatok végrehajtásához szükséges szerszámokat és eszközöket.
-
-A helyiségben oly módon kell elhelyezni az oktatni kívánt járművet vagy tanalvázat, hogy a tantervekben meghatározott létszámú tanulók a bemutatott feladatokat megfigyelhessék, gyakorolhassák.
-
-A helyiségnek meg kell felelnie a munkavédelmi és tűzvédelmi előírásoknak is. Az oktatás ideje alatt gondoskodni kell a motor üzemeltetéséből keletkező gázok elvezetéséről.
-
-A helyiségben el kell helyezni továbbá a tűzvédelmi előírásoknak megfelelő számú és töltetű tűzoltó készüléket, valamint az oktatáshoz szükséges számú, de legalább 1-1 db asztalt és széket.
-
-A helyiség fűtését – minimálisan 18 °C –, világítását és szellőzését biztosítani kell.
-
-A képzésben és vizsgáztatásban résztvevők számára megfelelő WC-t és kézmosási lehetőséget kell biztosítani.
-
-3.1.5.[^287] Az „A”, „B”, „C”, „D”, „AM”, „T”, „Trolibusz” kategóriás, valamint az „A1”, „A2”, „B1”, „C1”, „D1” kategóriás, továbbá a „BE”, „CE”, „C1E”, „DE”, „D1E” kombinált kategóriás képzés esetében a tantervben részletesen meghatározott méretű és kialakítású gyakorlópálya, amely megfelel az alábbi feltételeknek:
+3.1.5.[^310] Az „A”, „B”, „C”, „D”, „AM”, „T”, „Trolibusz” kategóriás, valamint az „A1”, „A2”, „B1”, „C1”, „D1” kategóriás, továbbá a „BE”, „CE”, „C1E”, „DE”, „D1E” kombinált kategóriás képzés esetében a tantervben részletesen meghatározott méretű és kialakítású gyakorlópálya, amely megfelel az alábbi feltételeknek:
 
 Az „A”, „A2”, „Akorl.”, „B”, „C”, „D”, „M”, „AM”, „T”, „Trolibusz” kategóriás, valamint az „A1”, „C1”, „D1” kategóriás, továbbá a „BE”, „CE”, „C1E”, „DE”, „D1E” kombinált kategóriás képzés esetén a tantervben részletesen meghatározott méretű és kialakítású gyakorlópályával, amelynek meg kell felelnie az alábbi feltételeknek:
 
@@ -114,73 +102,79 @@ A járműkezelési és rutinfeladatok oktatásához meghatározott gyakorló pá
 
 A pálya méretének az adott járműkategóriára előírt tantervi és vizsgafeladatok gyakorlására alkalmasnak kell lennie. A kizárólag képzésre használt pálya esetében nem követelmény az összes feladat egyidejű gyakorlási lehetőségének biztosítása. A pálya oktatás közbeni átrendezése megengedett.
 
-3.2.[^288] A tanulók képzése
+3.2.[^311] A tanulók képzése
 
 A tanulókat a közlekedésért felelős miniszter által kiadott, az egyes járműkategóriákra vonatkozó, hatályos Tantervi és Vizsgakövetelmények előírásai szerint kell képezni.
 
 Azokban a közoktatási intézményekben (iskolákban), ahol a közúti járművezető-képzés beépült az iskolai tantervbe, a tanulók vizsgára bocsátásának feltétele, hogy az iskolai tantervet a vizsgaközpont jóváhagyja.
 
-3.2.1.[^289] Az egyes járműkategóriákhoz tartozó oktatási idők és teljesítendő menettávolságok.
+3.2.1.[^312] Az egyes járműkategóriákhoz tartozó oktatási idők és teljesítendő menettávolságok (járművezetési gyakorlat esetén a 3.6 e) pont szerinti percben kifejezett tanóra időtartammal számolva).
 
-Kötelező óraszámok és teljesítendő menettávolságok a közúti járművezető-képző tanfolyamokon
+„Kötelező óraszámok és teljesítendő menettávolságok a közúti járművezető-képző tanfolyamokon
 
-| Kategória | Alapismeretek Elméleti és Bü tantárgyak | Járművezetési gyakorlat | Megjegyzés |
+|  | A | B | C | D |
 
-| Sóra | K | Je | Szü | F 1–2 | Mu | Bü | Sóra | A | F | F/v | F/o | F/h | F/é | F/k | M |  |
+| 1. | Kategória | Alapismeretek Elmélet tantárgyak | Járművezetési gyakorlat | Megjegyzés |
 
-| A1, A2, | 22 | X | X | X | – | – | – | 16 | 6 | 10 | 8 | 2 | – | – | – | 240 |  |
+| 2. |  | ∑óra | K | Je | Szü | F1–2 | Mu | ∑óra | A | F | F/v | F/o | F/é | F/k | R | M |  |
 
-| A11) | 3 | X | X | X | – | – | – | 2 | 1 | 1 | 1 | – | – | – | – | 30 |  |
+| 3. | A1, A2 | 22 | X | X | X | – | – | 16 | 6 | 10 | 8 | 2 | – | – | – | 240 |  |
 
-| A22) | - | - | - | - | – | – | – | 12 | 4 | 8 | 6 | 2 | – | – | – | 180 | 11. § (5) bekezdés |
+| 4. | A11) | 3 | X | X | X | – | – | 2 | 1 | 1 | 1 | – | – | – | – | 30 |  |
 
-| A23) | 3 | X | X | X | - | - | - | 8 | 2 | 6 | 4 | 2 | - | - | - | 120 |  |
+| 5. | A22) | – | – | – | – | – | – | 12 | 4 | 8 | 6 | 2 | – | – | – | 180 | 11. § (5) bekezdés |
 
-| A4) | - | - | - | - | – | – | – | 12 | 4 | 8 | 4 | 4 | – | – | – | 180 | 11. § (5) bekezdés |
+| 6. | A23) | 3 | X | X | X | – | – | 8 | 2 | 6 | 4 | 2 | – | – | – | 120 |  |
 
-| A5) | 3 | X | X | X | - | - | - | 8 | 2 | 6 | 4 | 2 | - | - | - | 120 |  |
+| 7. | A4) | – | – | – | – | – | – | 12 | 4 | 8 | 4 | 4 | – | – | – | 180 | 11. § (5) bekezdés |
 
-| A2) | - | - | - | - | - | - | - | 16 | 6 | 10 | 8 | 2 | - | - | - | 240 | 11. § (5) bekezdés |
+| 8. | A5) | 3 | X | X | X | – | – | 8 | 2 | 6 | 4 | 2 | – | – | – | 120 |  |
 
-| A3) | 3 | X | X | X | - |  | - | 10 | 4 | 6 | 4 | 2 | - | - | - | 150 |  |
+| 9. | A2) | – | – | – | – | – | – | 16 | 6 | 10 | 8 | 2 | – | – | – | 240 | 11. § (5) bekezdés |
 
-| A6) | 22 | X | X | X | – |  | – | 26 | 10 | 16 | 11 | 5 | – | – | – | 390 |  |
+| 10. | A3) | 3 | X | X | X | – | – | 10 | 4 | 6 | 4 | 2 | – | – | – | 150 |  |
 
-| B | 28 | X | X | X | – |  | – | 29 | 9 | 20 | 14 | 4 | – | 2 | – | 580 |  |
+| 11. | A6) | 22 | X | X | X | – | – | 26 | 10 | 16 | 11 | 5 | – | – | – | 390 |  |
 
-| B969) | 6 | - | - | X | - | X | - | 6 | 6 | - | - | - | - | - | - | - |  |
+| 12. | B | 28 | X | X | X | – | – | 29 | 9 | 20 | 14 | 4 | 2 | – | – | 580 |  |
 
-| B1 | 28 | X | X | X | - | - | - | 29 | 9 | 20 | 14 | 4 | - | 2 | - | 348 |  |
+| 13. | B969) | 6 | – | – | X | – | X | 4 | 4 | – | – | – | – | – | 4 | – |  |
 
-| C1 | 80 | X | X | X | – | X | X | 19 | 6 | 13 | 7 | 2 | 2 | 2 | – | 228 |  |
+| 14. | B1 | 28 | X | X | X | – | – | 29 | 9 | 20 | 14 | 4 | 2 | – | – | 348 |  |
 
-| C | 80 | X | X | X | – | X | X | 29 | 6 | 23 | 15 | 4 | 2 | 2 | – | 348 |  |
+| 15. | C1 | 66 | X | X | X | – | X | 16 | – | – | 6 | 4 | 2 | – | 4 | 300 |  |
 
-| C7) | 16 | – | – | – | – | – | X | 14 | 6 | 8 | 4 | 2 | 2 | – | – | 168 | 11. § (5) bekezdés c) pont |
+| 16. | C | 66 | X | X | X | – | X | 16 | – | – | 6 | 4 | 2 | – | 4 | 300 |  |
 
-| D1 | 40 | X | X | X | – | – | X | 29 | 6 | 23 | 15 | 4 | 2 | 2 | – | 348 |  |
+| 17. | C7) |  | – | – | – | – | – | 12 | – | – | 4 | 4 | – | – | 4 | 250 | 11. § (5) bekezdés c) pont |
 
-| D | 28 | X | X | X | – | – | X | 29 | 6 | 23 | 17 | 4 | 2 | – | – | 348 |  |
+| C8) | 52 | X | X | X | – | – | 12 | – | – | 4 | 4 | – | – | 4 | 200 |  |
 
-| BE | 22 | X | X | X | – | X | X | 16 | 6 | 10 | 4 | 4 | 2 | – | – | 192 |  |
+| 18. | D1 | 34 | X | X | X | – | – | 18 | – | – | 6 | 6 | 2 | – | 4 | 390 |  |
 
-| C1E | 20 | X | X | X | – | – | X | 14 | 6 | 8 | 4 | 2 | 2 | – | – | 168 |  |
+| 19. | D | 22 | X | X | X | – | – | 24 | – | – | 14 | 6 | – | – | 4 | 550 |  |
 
-| CE | 20 | X | X | X | – | – | X | 14 | 6 | 8 | 4 | 2 | 2 | – | – | 168 |  |
+| 20. | D10) | 36 | X | X | X | – | X | 36 | – | – | 20 | 10 | 2 | – | 4 | 850 |  |
 
-| D1E | 22 | X | X | X | – | X | X | 14 | 6 | 8 | 4 | 2 | 2 | – | – | 168 |  |
+| 20. | BE | 18 | X | X | X | – | X | 11 | – | – | 4 | 4 | – | – | 3 | 220 |  |
 
-| DE | 20 | X | X | X | – | – | X | 14 | 6 | 8 | 4 | 2 | 2 | – | – | 168 |  |
+| 21. | C1E | 14 | X | X | X | – | – | 12 | – | – | 4 | 4 | – | – | 4 | 250 |  |
 
-| AM | 16 | X | X | – | – | – | – | 10 | 4 | 6 | – | – | – | – | – | 100 |  |
+| 22. | CE | 14 | X | X | X | – | – | 12 | – | – | 4 | 4 | – | – | 4 | 250 |  |
 
-| T | 56 | X | X | X | – | X | X | 24 | 6 | 18 | 9 | 5 | – | – | 4 |  |  |
+| 23. | D1E | 18 | X | X | X | – | X | 12 | – | – | 4 | 4 | – | – | 4 | 250 |  |
 
-| K | 12 | X | – | – | – | – | – | – | – | – | – | – | – | – | – |  |  |
+| 24. | DE | 14 | X | X | X | – | – | 12 | – | – | 4 | 4 | – | – | 4 | 250 |  |
 
-| TR | 102 | X | X | X | X | X | X | 49 | 4 | 45 | 45 | – | – | – | – |  |  |
+| 25. | AM | 16 | X | X | – | – | – | 10 | 4 | 6 | – | – | – | – | – | 100 |  |
 
-| TR8) | 50 | X | X | X | X | X | X | 26 | 4 | 22 | 22 | – | – | – | – |  |  |
+| 26. | T | 46 | X | X | X | – | X | 12 | – | - | 3 | 3 | – | 3 | 3 | – |  |
+
+| 27. | K | 12 | X | – | – | – | – | – | – | – | – | – | – | – | – | – |  |
+
+| 28. | TR | 88 | X | X | X | X | X | 58 | – | – | 45 | – | – | – | 13 | – |  |
+
+| 29. | TR8) | 46 | X | X | X | X | X | 30 | – | - | 22 | – | – | – | 8 | – |  |
 
 | Rövidítések: |  |  |  |  |
 
@@ -190,13 +184,13 @@ Kötelező óraszámok és teljesítendő menettávolságok a közúti járműve
 
 |  | Szü | = Szerkezeti és üzemeltetési ismeretek | F/v | = városi vezetés |
 
-|  | Bü | = Biztonsági ellenőrzés és üzemeltetés | F/o | = országúti vezetés |
-
-|  | Mu | = Munkavédelem, tűzvédelem, szállítás | F/h | = hegyvidéki vezetés |
+|  | Mu | = Munkavédelem, tűzvédelem, szállítás | F/o | = országúti vezetés |
 
 |  | F 1–2 | = F 1–2 számú trolibusz jelzési és forgalmi utasítás | F/é F/k | = éjszakai vezetés = vezetés könnyű terepen |
 
 |  | M | = Menettávolságok kilométerben |  |  |
+
+|  | R | = rutin vizsgára felkészülő vezetés. |  |  |
 
 1) érvényes „B” kategóriás vezetői engedély esetén
 
@@ -216,19 +210,27 @@ Kötelező óraszámok és teljesítendő menettávolságok a közúti járműve
 
 9) „B” kategóriájú járművek nehéz pótkocsival összekapcsolva, feltéve, hogy az így kialakított járműszerelvény legnagyobb megengedett össztömege 3500 kg és 4250 kg közötti
 
-3.2.2.[^290] Tanfolyam megkezdése tantermi elméleti-, valamint csoportos gyakorlati oktatás esetén
+10) „C” kategóriára érvényes vezetői engedély nélkül
 
-Az alapismeretek tantárgyainak összes kötelező (vagy annál több) óraszámán belül az egyes tantárgyak oktatására fordítandó órák számát a közlekedésért felelős miniszter által kiadott tanterv figyelembevételével az iskolavezető határozza meg. A tantárgyi tananyag témakörönkénti felosztása a szakoktató feladata. Az iskolavezető által elkészített tanrendet a tanfolyam kezdetét megelőző legalább 3 munkanappal korábban a vizsgaközpont részére meg kell küldeni. Tanrend változása esetén a Bizonylati album szerinti módosított tanrendet a változás előtt legalább 3 munkanappal korábban a vizsgaközpont részére elektronikus úton meg kell küldeni, illetve egy példányt a tanulmányi naplóhoz csatolni kell. A tanfolyam tantermi oktatásán minden alkalommal jelenléti ívet kell vezetni, melyet az oktatáson részt vevőkkel minden foglalkozáson alá kell íratni. A jelenléti ívet az összes résztvevő aláírása után le kell zárni úgy, hogy arra további aláírás ne kerülhessen, majd a tanulmányi naplóhoz kell csatolni. A továbbiakban, amennyiben nincs változás az egyes tanfolyamok tanrendjében, a tanrenden a foglalkozásokra vonatkozóan csak az oktatás időpontját és óraszámát kell feltüntetni, a tantárgyakat nem kötelező bejegyezni. A tanfolyamon részt vevők névsorát a Bizonylati album szerinti nyomtatványon a tanfolyam első foglalkozását követő 1 munkanapon belül elektronikus úton meg kell küldeni a vizsgaközpont részére, illetve egy példányt a tanulmányi naplóhoz kell csatolni.
+3.2.2.[^313] Tanfolyam megkezdése tantermi elméleti oktatás esetén
 
-A képző szerv – a vállalkozási feltételeinek megfelelően – az előírtnál magasabb óraszámú tanfolyamokat is tarthat. A tanuló számára a képzési rész elvégzése akkor igazolható, ha az egyes tantárgyak tanteremben történő elméleti oktatására vonatkozó kötelező óraszám 10%-ánál kevesebbet hiányzott. Az óraszámok 10%-nál kevesebb hiányzást önálló felkészüléssel is lehet pótolni. Ettől magasabb óraszámú hiányzás esetén a tanuló számára – azon témakörökből, melyeken a tanuló nem vett részt – pótfoglalkozást kell tartani. A pótfoglalkozást a tanrendbe be kell illeszteni, és a tanrend módosítására vonatkozók szerint be kell jelenteni.
+Az iskolavezető által elkészített tanrendet a tanfolyam kezdetét megelőző legalább 3 munkanappal korábban a vizsgaközpont részére meg kell küldeni. Tanrend változása esetén a bizonylati album szerinti módosított tanrendet a változás előtt legalább 3 munkanappal korábban a vizsgaközpont részére elektronikus úton meg kell küldeni, illetve egy példányt a tanulmányi naplóhoz csatolni kell. A tantárgyi tananyag témakörönkénti felosztása a szakoktató feladata.
 
-3.2.3.[^291] Tanfolyam megkezdése e-learning oktatás esetében
+A tanfolyam névsorára azon személy rögzíthető, aki a jelentkezési adatlapot megfelelően kitöltve benyújtotta a vizsgaközpont részére, akinek a jelentkezési adatlap szerinti adatait a képző szerv már elektronikusan megküldte és aki a képzésen való részvétel feltételeit teljesíti. A tanfolyamon részt vevők névsorát a tanfolyam első foglalkozását megelőzően elektronikus úton meg kell küldeni a vizsgaközpont részére, illetve a névsor egy példányt a tanulmányi naplóhoz kell csatolni.
+
+A tanfolyam tantermi oktatásán minden alkalommal jelenléti ívet kell vezetni, melyet az oktatáson részt vevőkkel minden foglalkozáson alá kell íratni. A jelenléti ívet az összes résztvevő aláírása után le kell zárni úgy, hogy arra további aláírás ne kerülhessen, majd a tanulmányi naplóhoz kell csatolni. A tanfolyam tantermi elméleti képzései esetén a foglalkozást tartó szakoktató köteles minden megtartott foglalkozás megkezdését követő 15 percen belül a jelenléti ív adatait elektronikus úton a vizsgaközpont számára megküldeni, illetve a foglalkozásról annak befejezése előtt távozókat a vizsgaközpont részére haladéktalanul elektronikusan bejelenteni.
+
+A képző szerv – a vállalkozási feltételeinek megfelelően – az előírtnál magasabb óraszámú tanfolyamokat is tarthat. A tanulók esetében a képzés elvégzését a közlekedési hatóság és a vizsgaközpont akkor tekinti teljesítettnek, ha a vizsgaközpont részére megküldött tanrend és jelenléti ívek alapján a tanuló a képzés szerinti tantárgy tanteremben történő elméleti oktatási foglalkozásainak összesített, pótfoglalkozások nélküli óraszámával legalább megegyező óraszámú foglalkozáson jelenléti ívvel igazoltan jelen volt. Hiányzás esetén a tanuló számára – azon témakörökből, melyeken a tanuló nem vett részt – pótfoglalkozást kell tartani. A pótfoglalkozást a tanrendbe be kell illeszteni, és a tanrend módosítására vonatkozók szerint be kell jelenteni.
+
+3.2.3.[^314] Tanfolyam megkezdése e-learning oktatás esetében
 
 Az e-learning képzésben részt vevő tanuló adatait, illetve az e-learning képzés azonosító számát a tanulóval kötött szerződés alapján a hozzáférést követően haladéktalanul, de legkésőbb 24 órán belül a vizsgaközpont részére meg kell küldeni.
 
-3.2.4.[^292] Képzés elvégzésének igazolása
+3.2.4.[^315] Képzés elvégzésének igazolása
 
-A vizsgára jelentkezéshez előírt képzési rész (tantárgy) elvégzését tanúsító igazolást az e-learning képzés esetén minden esetben, tantermi képzés esetén a tanuló kérelmére az iskolavezető köteles a befejezést követő 3 munkanapon belül a tanuló részére kiadni, valamint a vizsgaközpont részére elküldeni. Az igazolásnak tartalmaznia kell:
+3.2.4.1. A vizsgára jelentkezéshez e-learning képzés esetén az előírt képzési rész elvégzését tanúsító igazolást az e-learning rendszerű képzést nyújtó képző szerv a 38/A. § (1) bekezdés e) pont szerint, tantermi képzés esetén az előírt képzési rész utolsó foglalkozásának jelenléti ívét a foglalkozást megtartó szakoktató a 3.2.2 pont szerint, de mindkét esetben legkésőbb a vizsgázó vizsgája megkezdése előtt 12 órával köteles a vizsgaközpont részére elektronikus úton elküldeni.
+
+3.2.4.2. Az igazolásnak tartalmaznia kell:
 
 a) a képző szerv azonosító adatait (nevét, címét),
 
@@ -246,15 +248,13 @@ eb) kezdési időpontját,
 
 ec) befejezési időpontját,
 
-f) iskolavezető aláírását,
+f) igazolás kiállításának dátumát.
 
-g) igazolás kiállításának dátumát.
-
-3.3.[^293] „B” kategória 96. kód megszerzésének feltételei
+3.3.[^316] „B” kategória 96. kód megszerzésének feltételei
 
 A 96. kód érvényesítéséhez a jelöltnek rendelkeznie kell „B” kategóriára érvényes vezetői engedéllyel vagy a kód megszerzésére irányuló tanfolyam „B” kategóriával összevontan is végezhető. Összevont tanfolyam esetén a 3.2.1. pontban előírt oktatási órákon a „B” kategórián felül kell a tanulónak részt vennie. Az elméleti vizsgák a „B” kategória elméleti vizsgájával egyidejűleg. A gyakorlati vizsga a „B” kategóriás forgalmi vizsgával együtt is kiírható. Összevont tanfolyam esetén a „B” kategóriás forgalmi vizsga sikeres rutin vizsga nélkül is tehető. Összevont tanfolyam esetén a vizsgázó bármikor lemondhat a 96. kódra vonatkozó igényéről, amely lemondás a „B” kategóriára tett vizsgáit nem érinti. B 96 tanfolyamot az a képző szerv tarthat, aki rendelkezik a közlekedési hatóság engedélyével „BE” kategóriás képzésre.
 
-3.4.[^294] Az együtt tartott tanfolyamok
+3.4.[^317] Az együtt tartott tanfolyamok
 
 Együtt tartott tanfolyami foglalkozásokat a következő kategóriákban lehet szervezni:
 
@@ -274,25 +274,27 @@ Az együtt tartott oktatást külön, kategóriánként kell a tanulmányi napl�
 
 3.5. A gyakorlati oktatás
 
-3.5.1.[^295] Általános előírások
+3.5.1.[^318] Általános előírások
 
-A járművezetési gyakorlat oktatása csak a tanuló nevére kiállított, a vizsgaközpont által hitelesített vezetési karton birtokában kezdhető meg.
+3.5.1.1. A járművezetési gyakorlat oktatása csak a tanuló nevére kiállított, a vizsgaközpont részére elektronikusan bejelentett és a vizsgaközpont által elektronikusan generált egyedi azonosítóval ellátott vezetési karton vagy az elektronikus vezetési karton birtokában kezdhető meg.
 
-A járművezetési gyakorlat oktatása során – a kétkerekű járművek vezetésének oktatását kivéve – egy oktató egyidejűleg csak egy tanuló oktatását végezheti. A kétkerekű járművek vezetésének oktatása során egy oktató egyidejűleg az alapoktatási feladatok oktatásánál maximum három főt, a főoktatásnál maximum két főt oktathat.
+3.5.1.2. A járművezetési gyakorlat oktatása során – a kétkerekű járművek vezetésének oktatását kivéve – egy oktató egyidejűleg csak egy tanuló oktatását végezheti. A kétkerekű járművek vezetésének oktatása során egy oktató egyidejűleg az alapoktatási feladatok oktatásánál maximum három főt, a főoktatásnál maximum két főt oktathat.
 
-A jármű biztonsági ellenőrzésére, technikai kezelésére, valamint a manőverezési feladatok elsajátítására irányuló alapoktatást alapvetően gyakorló pályán kell végezni. Pedagógiai és módszertani szempontok alapján azonban a jármű technikai kezelésének oktatása részben – a szakoktató által elfogadhatónak tekintett forgalmi körülmények mellett – a közúti forgalomban is történhet. A – „B” kategóriás képzés kivételével – a sikeres járműkezelési, vagy rutinvizsga előtt a közúti forgalomban végzett oktatás ideje azonban ilyen esetben is csak az alapoktatás része.
+3.5.1.3. A jármű biztonsági ellenőrzésére, technikai kezelésére, valamint a manőverezési feladatok elsajátítására irányuló alapoktatást – a 6. § (3a) bekezdésében foglaltakat is figyelembe véve – alapvetően gyakorló pályán kell végezni. Pedagógiai és módszertani szempontok alapján azonban a jármű technikai kezelésének oktatása részben – a szakoktató által elfogadhatónak tekintett forgalmi körülmények mellett, valamint a kétkerekű járművek vezetőinek oktatását ide nem értve – a közúti forgalomban is történhet. Ahol ez előírt, sikeres járműkezelési vizsga előtt a közúti forgalomban végzett oktatás ideje azonban ilyen esetben is csak az alapoktatás része.
 
-A főoktatás – „B” kategóriás képzés kivételével” – csak sikeres járműkezelési vagy rutinvizsga után kezdhető el. A vezetési kartonon az alapoktatást és a főoktatást a megfelelő rovatban kell dokumentálni.
+3.5.1.4. A kétkerekű járművek vezetésének oktatása esetén a főoktatás – ahol az értelmezhető – csak sikeres járműkezelési vizsga után kezdhető el.
 
-A járműkezelési vizsga biztonsági ellenőrzési feladatait az alapoktatás során a gyakorlati szakoktatónak – ha erre a feltételek adottak – azon a járművön kell tanítania, amelyen a gyakorlati vezetés oktatása és a járműkezelési vizsga történik.
+3.5.1.5. A gyakorlati oktatást a vezetési kartonon vagy az elektronikus vezetési kartonon kell dokumentálni.
 
-3.5.2.[^296] A kétkerekű járművek vezetőinek oktatása során a tanuló felszerelése:
+3.5.1.6. A járműkezelési- és rutinvizsga biztonsági ellenőrzési feladatokat a gyakorlati oktatás során használt járművön kell tanítani.
+
+3.5.2.[^319] A kétkerekű járművek vezetőinek oktatása során a tanuló felszerelése:
 
 a) bukósisak,
 
 b) szemüveg (a bukósisak kialakításától függően),
 
-c)[^297] protektoros hosszúnadrág (nadrágba vagy nadrágra illeszthető térdprotektorral) és protektoros dzseki (dzsekibe vagy dzsekire illeszthető könyök- és gerincprotektorral),
+c)[^320] protektoros hosszúnadrág (nadrágba vagy nadrágra illeszthető térdprotektorral) és protektoros dzseki (dzsekibe vagy dzsekire illeszthető könyök- és gerincprotektorral),
 
 d) protektoros kesztyű,
 
@@ -302,7 +304,7 @@ f) elöl-hátul „T” betűjelzéssel ellátott, tanulónként eltérő szín�
 
 g) a főoktatás és a vizsga során a tanuló és az oktató közötti kapcsolatot rádió adó-vevő készülékkel kell biztosítani.
 
-3.5.3.[^298] A szakoktatónak a gyakorlati oktatás során törekednie kell arra, hogy a 3.2.1. táblázatban meghatározott menettávolságokat a kötelező óraszámok alatt teljesítse.
+3.5.3.[^321] A szakoktatónak a gyakorlati oktatás során törekednie kell arra, hogy a 3.2.1. táblázatban meghatározott menettávolságokat a kötelező óraszámok alatt teljesítse.
 
 3.5.4. Mobil rádiótelefon használata
 
@@ -362,31 +364,35 @@ Az éjszakai vezetés oktatása – a csillagászati napnyugta és napkelte alap
 
 |  | 16–31-ig | 16–08-ig |
 
-3.6.[^299] Az oktatási idő
+3.6.[^322] Az oktatási idő
 
-Az oktatási idő az alábbi időtartamokat nem haladhatja meg:
+3.6.1. Az oktatási idő az alábbi időtartamokat nem haladhatja meg:
 
-az alapismeretek oktatása során – az e-learning oktatást kivéve – a tanfolyami csoportnak naponta legfeljebb 4 elméleti tanóra tartható (4x45 perc), ami legfeljebb 4 tanóra „biztonsági ellenőrzés és üzemeltetés” foglalkozással (4x50 perc) egészíthető ki;
+a) az alapismeretek oktatása során – az e-learning oktatást kivéve – a tanfolyami csoportnak naponta legfeljebb 4 elméleti tanóra tartható (4×45 perc);
 
-a) a vezetési gyakorlat oktatása során egy tanulónak az alapoktatási szakaszban naponta legfeljebb 2 tanóra tartható;
+b) a vezetési gyakorlat oktatása során egy tanulónak az alapoktatási szakaszban naponta legfeljebb 2 tanóra tartható;
 
-b) a főoktatás során a tanulónak naponta legfeljebb 4 tanóra tartható, amelyet legalább két részben, két tanóra oktatás után minimálisan 1 óra szünet közbeiktatásával kell szervezni;
+c) a főoktatás és rutin vizsgára felkészítő vezetési gyakorlat során a tanulónak naponta legfeljebb 4 tanóra tartható, amelyet legalább két részben, két tanóra oktatás után minimálisan 1 óra szünet közbeiktatásával kell szervezni;
 
-c) az elméleti tantárgyak tantermi tanóráinak időtartama: 45 perc;
+d) az elméleti tantárgyak tantermi tanóráinak időtartama: 45 perc;
 
-d) a gyakorlati tantárgyak tanfolyami tanóráinak időtartama: 50 perc;
+e) a gyakorlati tantárgyak tanfolyami tanóráinak tervezett időtartama: 50 perc;
 
-e) a tanórák között legfeljebb két tanóránként legalább 10 perc szünetet kell tartani.
+f) a tanórák között legfeljebb két tanóránként legalább 10 perc szünetet kell tartani.
 
-A szakoktatók napi és havi megengedett oktatási órakeretébe a vizsgák időtartama nem számít bele. A vizsgákat azonban a havi óraösszesítő megfelelő rovatában fel kell tüntetni.
+Egy tanuló fentiek szerint számított összesített napi oktatási ideje nem haladhatja meg a 4 tanórát.
 
-4.[^300] Mentesítések
+A szakoktatók napi megengedett oktatási órakeretébe a vizsgák időtartama nem számít bele.
 
-Az alább felsorolt képesítéssel rendelkező tanulókat – az „A” és „B” kategória, továbbá az „A1”, „A2” és „B1” kategória kivételével – a tanfolyam adott tantárgyának foglalkozásain a részvétel alól az iskolavezető mentesíti. A vizsgakötelezettség alóli mentesítés kezdeményezése, a felmentés alapjául szolgáló – az iskolavezető által hitelesített – okirat fénymásolatának a jelentkezési laphoz való csatolásával történik. A vizsgakötelezettség alóli mentesítést a kérelemre a vizsgaközpont engedélyezi.
+3.6.2. A vezetési gyakorlati tantárgy foglalkozásainak tényleges időtartama indokolt esetben (pl. a forgalmi körülmények függvényében) eltérhet a jelen pont szerint megtervezett és a vizsgaközpontnak elektronikusan bejelentett időtartamnál. A tényleges időtartam tanóránként ilyen esetekben is legfeljebb 10%-kal lehet hosszabb a 3.6. e) pont szerinti tervezett időtartamnál. A 3.2.1. alpontban előírt oktatási idők teljesítésének számítása során a foglalkozások tényleges, percben kifejezett időtartamát szükséges figyelembe venni.
+
+4.[^323] Mentesítések
+
+Az alább felsorolt képesítéssel rendelkező tanulókat – az „A1”, „A2”, „B1” és „A”, „B”, „AM” kategória kivételével – a tanfolyam adott tantárgyának foglalkozásain a részvétel alól az iskolavezető mentesíti. A vizsgakötelezettség alóli mentesítés kezdeményezését a vizsgázó a képző szerv közreműködésével, elektronikus úton nyújtja be a vizsgaközpont részére. A vizsgakötelezettség alóli mentesítést az elektronikus bejelentés alapján a vizsgaközpont engedélyezi.
 
 4.1. Az egyes kategóriák és egyes tantárgyak hallgatása és vizsgája alól adható felmentések
 
-4.1.1. Mentesítések a „szerkezeti és üzemeltetési ismeretek” és a „biztonsági ellenőrzés és üzemeltetés” tan- és vizsgatárgyakból
+4.1.1.[^324] Mentesítések a „szerkezeti és üzemeltetési ismeretek” tan- és vizsgatárgyakból
 
 – Bármely egyetemen, főiskolán szerzett
 
@@ -464,9 +470,7 @@ Ha a felmentést szervezetten megkérte az iskola, de a vizsgázó a felmentésh
 
 A mentesítési kérelmek elbírálásakor a szakma megnevezését és a szakképesítés szakmai tartalmát kell meghatározónak tekinteni.
 
-4.1.2. A „Biztonsági ellenőrzés és üzemeltetés” vizsgatárgy alóli további mentesítések
-
-A „Biztonsági ellenőrzés és üzemeltetés” vizsgakötelezettség alól mentesül a 11. § (3) bekezdés c) pontja értelmében, aki meglévő „Lassú jármű” vezetői igazolványa alapján mezőgazdasági vontató vezetésére „T” kategóriás vizsgát kíván tenni.
+4.1.2.[^325]
 
 4.1.3. Mentesítések a „Munkavédelem, tűzvédelem, szállítás” tan- és vizsgatárgyból
 
@@ -486,34 +490,37 @@ A „Biztonsági ellenőrzés és üzemeltetés” vizsgakötelezettség alól m
 
 4.1.4. Egyéb mentesítések
 
-4.1.4.1.[^301]
+4.1.4.1.[^326]
 
-4.1.4.2.[^302]
+4.1.4.2.[^327]
 
-4.1.4.3.[^303] A mentesítési kérelmek elbírálásakor a szakma megnevezését és a szakképesítés szakmai tartalmát kell meghatározónak tekinteni.
+4.1.4.3.[^328] A mentesítési kérelmek elbírálásakor a szakma megnevezését és a szakképesítés szakmai tartalmát kell meghatározónak tekinteni.
 
-[^279]: A 3. melléklet 1. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdésével megállapított szöveg.
-[^280]: A 3. melléklet 2. pont 2.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdésével megállapított szöveg.
-[^281]: A 3. melléklet 2. pont 2.5. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
-[^282]: A 3. melléklet 2. pont 2.6. alpontját a 45/2019. (XII. 20.) ITM rendelet 27. § (1) bekezdése iktatta be.
-[^283]: A 3. számú melléklet 3. pont 3.1.1. alpontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^284]: A 3. melléklet 3. pont 3.1.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdésével megállapított szöveg.
-[^285]: A 3. számú melléklet 3. pont 3.1.3. alpontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (2) bekezdésével megállapított, a 14/2015. (III. 31.) NFM rendelet 10. § g) pontja szerint módosított szöveg.
-[^286]: A 3. melléklet 3. pont 3.1.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdésével megállapított, a 14/2015. (III. 31.) NFM rendelet 10. § h) pontja, a 45/2019. (XII. 20.) ITM rendelet 28. § 4. pontja szerint módosított szöveg.
-[^287]: A 3. melléklet 3. pont 3.1.5. alpontja a 14/2015. (III. 31.) NFM rendelet 9. § (1) beekzdésével megállapított szöveg.
-[^288]: A 3. melléklet 3. pont 3.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése, a 74/2016. (XII. 29.) NFM rendelet 14. § c) pontja, az 1/2019. (I. 7.) ITM rendelet 15. § 24. pontja, a 45/2019. (XII. 20.) ITM rendelet 28. § 4. pontja szerint módosított szöveg.
-[^289]: A 3. számú melléklet 3. pont 3.2.1. alpontja a 14/2015. (III. 31.) NFM rendelet 9. § (1) beekzdésével megállapított, az 1/2019. (I. 7.) ITM rendelet 17. §-a szerint módosított szöveg.
-[^290]: A 3. melléklet 3. pont 3.2.2. alpontját az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdése iktatta be, szövege az 1/2019. (I. 7.) ITM rendelet 17. §-ával megállapított, a 45/2019. (XII. 20.) ITM rendelet 28. § 4. pontja szerint módosított szöveg.
-[^291]: A 3. melléklet 3. pont 3.2.3. alpontját az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdése iktatta be, szövege a 45/2013. (VIII. 7.) NFM rendelet 19. § (2) bekezdésével megállapított, az 1/2017. (I. 3.) NFM rendelet 45. § (2) bekezdés a) pontja, az 1/2019. (I. 7.) ITM rendelet 15. § 25. pontja szerint módosított szöveg.
-[^292]: A 3. melléklet 3. pont 3.2.4. alpontját az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdése iktatta be, szövege a 74/2016. (XII. 29.) NFM rendelet 13. § (2) bekezdésével megállapított, nyitó szövegrésze az 1/2019. (I. 7.) ITM rendelet 15. § 1. pontja szerint módosított szöveg.
-[^293]: A 3. melléklet 3. pont 3.3 alpontját az 58/2011. (XI. 24.) NFM rendelet 41. § (5) bekezdése hatályon kívül helyezte, újonnan a 14/2015. (III. 31.) NFM rendelet 9. § (1) bekezdése iktatta be.
-[^294]: A 3. melléklet 3. pont 3.5 alpontja a 14/2015. (III. 31.) NFM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^295]: A 3. melléklet 3. pont 3.5.1. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdésével megállapított, a 2/2014. (I. 24.) NFM rendelet 4. § i) pontja, a 45/2019. (XII. 20.) ITM rendelet 28. § 22. pontja szerint módosított szöveg.
-[^296]: A 3. melléklet 3. pont 3.5.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdésével megállapított szöveg.
-[^297]: A 3. melléklet 3. pont 3.5.2. alpont c) pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^298]: A 3. melléklet 3. pont 3.5.3. alpontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^299]: A 3. melléklet 3. pont 3.6. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdésével megállapított szöveg.
-[^300]: A 3. melléklet 4. pont nyitó szövegrésze az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdésével megállapított, a 45/2013. (VIII. 7.) NFM rendelet 19. § (2) bekezdése, a 14/2015. (III. 31.) NFM rendelet 10. § i) pontja, az 1/2019. (I. 7.) ITM rendelet 15. § 1. pontja szerint módosított szöveg.
-[^301]: A 3. melléklet 4.1.4.1. pontját az 1/2019. (I. 7.) ITM rendelet 16. § b) pontja szerint módosított szöveg.
-[^302]: A 3. melléklet 4.1.4.2. pontját az 1/2019. (I. 7.) ITM rendelet 16. § b) pontja szerint módosított szöveg.
-[^303]: A 3. melléklet 4. pont 4.1.4.3. alpontját a 45/2013. (VIII. 7.) NFM rendelet 19. § (2) bekezdése iktatta be, szövege az 1/2019. (I. 7.) ITM rendelet 17. §-ával megállapított szöveg.
+[^301]: A 3. melléklet 1. pontja az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdésével megállapított szöveg.
+[^302]: A 3. melléklet 2. pont 2.3. alpontja a 9/2022. (VIII. 1.) TIM rendelet 50. § a) pontja szerint módosított szöveg.
+[^303]: A 3. melléklet 2. pont 2.4. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdésével megállapított szöveg.
+[^304]: A 3. melléklet 2. pont 2.5. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése szerint módosított szöveg.
+[^305]: A 3. melléklet 2. pont 2.6. alpontját a 45/2019. (XII. 20.) ITM rendelet 27. § (1) bekezdése iktatta be.
+[^306]: A 3. számú melléklet 3. pont 3.1.1. alpontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^307]: A 3. melléklet 3. pont 3.1.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdésével megállapított szöveg.
+[^308]: A 3. számú melléklet 3. pont 3.1.3. alpontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (2) bekezdésével megállapított, a 14/2015. (III. 31.) NFM rendelet 10. § g) pontja szerint módosított szöveg.
+[^309]: A 3. melléklet 3. pont 3.1.4. alpontját a 9/2022. (VIII. 1.) TIM rendelet 50. § a) pontja hatályon kívül helyezte.
+[^310]: A 3. melléklet 3. pont 3.1.5. alpontja a 14/2015. (III. 31.) NFM rendelet 9. § (1) beekzdésével megállapított szöveg.
+[^311]: A 3. melléklet 3. pont 3.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése, a 74/2016. (XII. 29.) NFM rendelet 14. § c) pontja, az 1/2019. (I. 7.) ITM rendelet 15. § 24. pontja, a 45/2019. (XII. 20.) ITM rendelet 28. § 4. pontja szerint módosított szöveg.
+[^312]: A 3. számú melléklet 3. pont 3.2.1. alpontja a 14/2015. (III. 31.) NFM rendelet 9. § (1) beekzdésével megállapított, az 1/2019. (I. 7.) ITM rendelet 17. §-a, a 9/2022. (VIII. 1.) TIM rendelet 50. § a) pontja szerint módosított szöveg.
+[^313]: A 3. melléklet 3. pont 3.2.2. alpontját az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdése iktatta be, szövege a 9/2022. (VIII. 1.) GKM rendelet 50. § a) pontjával megállapított szöveg.
+[^314]: A 3. melléklet 3. pont 3.2.3. alpontját az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdése iktatta be, szövege a 45/2013. (VIII. 7.) NFM rendelet 19. § (2) bekezdésével megállapított, az 1/2017. (I. 3.) NFM rendelet 45. § (2) bekezdés a) pontja, az 1/2019. (I. 7.) ITM rendelet 15. § 25. pontja szerint módosított szöveg.
+[^315]: A 3. melléklet 3. pont 3.2.4. alpontját az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdése iktatta be, szövege a 9/2022. (VIII. 1.) GKM rendelet 50. § a) pontjával megállapított szöveg.
+[^316]: A 3. melléklet 3. pont 3.3 alpontját az 58/2011. (XI. 24.) NFM rendelet 41. § (5) bekezdése hatályon kívül helyezte, újonnan a 14/2015. (III. 31.) NFM rendelet 9. § (1) bekezdése iktatta be.
+[^317]: A 3. melléklet 3. pont 3.5 alpontja a 14/2015. (III. 31.) NFM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^318]: A 3. melléklet 3. pont 3.5.1. alpontja a 9/2022. (VIII. 1.) TIM rendelet 50. § a) pontjával megállapított szöveg.
+[^319]: A 3. melléklet 3. pont 3.5.2. alpontja az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdésével megállapított szöveg.
+[^320]: A 3. melléklet 3. pont 3.5.2. alpont c) pontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^321]: A 3. melléklet 3. pont 3.5.3. alpontja a 45/2013. (VIII. 7.) NFM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^322]: A 3. melléklet 3. pont 3.6. alpontja a 9/2022. (VIII. 1.) TIM rendelet 50. § a) pontjával megállapított szöveg.
+[^323]: A 3. melléklet 4. pont nyitó szövegrésze az 58/2011. (XI. 24.) NFM rendelet 39. § (3) bekezdésével megállapított, a 45/2013. (VIII. 7.) NFM rendelet 19. § (2) bekezdése, a 14/2015. (III. 31.) NFM rendelet 10. § i) pontja, az 1/2019. (I. 7.) ITM rendelet 15. § 1. pontja, a 9/2022. (VIII. 1.) TIM rendelet 50. § a) pontja szerint módosított szöveg.
+[^324]: A 3. melléklet 4. pont 4.1.1. alpontja a 9/2022. (VIII. 1.) TIM rendelet 50. § a) pontja szerint módosított szöveg.
+[^325]: A 3. melléklet 4. pont 4.1.2. alpontját a 9/2022. (VIII. 1.) TIM rendelet 50. § a) pontja hatályon kívül helyezte.
+[^326]: A 3. melléklet 4.1.4.1. pontját az 1/2019. (I. 7.) ITM rendelet 16. § b) pontja szerint módosított szöveg.
+[^327]: A 3. melléklet 4.1.4.2. pontját az 1/2019. (I. 7.) ITM rendelet 16. § b) pontja szerint módosított szöveg.
+[^328]: A 3. melléklet 4. pont 4.1.4.3. alpontját a 45/2013. (VIII. 7.) NFM rendelet 19. § (2) bekezdése iktatta be, szövege az 1/2019. (I. 7.) ITM rendelet 17. §-ával megállapított szöveg.

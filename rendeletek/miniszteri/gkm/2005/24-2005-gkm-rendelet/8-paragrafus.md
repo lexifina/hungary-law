@@ -1,30 +1,30 @@
 ## A vizsgáztatás általános előírásai
 
-8. § (1)[^55] A tanuló vizsgára bocsátásának feltételeit a vizsgaközpont ellenőrzi.
+8. § (1)[^76] A tanuló vizsgára bocsátásának feltételeit a vizsgaközpont ellenőrzi.
 
-(2)[^56] A közúti járművezetők vizsgáztatását a vizsgaközpont végzi. A vizsgát a vizsgaközpont szervezi. A vizsgára bejelentett tanuló (a továbbiakban: vizsgázó) vizsgáztatásában – a (3) bekezdésben foglaltak kivételével – a közlekedési hatóság vizsgabiztosi névjegyzékében szereplő, a vizsgaközpont által szakmai szempontok figyelembevételével vezényelt vizsgabiztos működik közre.
+(2)[^77] A közúti járművezetők vizsgáztatását a vizsgaközpont végzi. A vizsgát a vizsgaközpont szervezi. A vizsgára bejelentett tanuló (a továbbiakban: vizsgázó) vizsgáztatásában – a (3) bekezdésben foglaltak kivételével – a közlekedési hatóság vizsgabiztosi névjegyzékében szereplő, a vizsgaközpont által szakmai szempontok figyelembevételével vezényelt vizsgabiztos működik közre.
 
-(2a)[^57] Vizsgabiztosi tevékenységet nem végezhet az a szakoktató, aki gyakorlati szakoktatóként tevékenykedik, vagy képző szervvel a járművezetők gyakorlati oktatására irányuló munkaviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban áll.
+(2a)[^78] Vizsgabiztosi tevékenységet nem végezhet az a szakoktató, aki gyakorlati szakoktatóként tevékenykedik, vagy képző szervvel a járművezetők gyakorlati oktatására irányuló munkaviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban áll.
 
-(3)[^58] A vizsgán a vizsgabiztos nem működhet közre, ha:
+(3)[^79] A vizsgán a vizsgabiztos nem működhet közre, ha:
 
-a)[^59] a vizsgázó vagy a b) pontban megjelölt személyek Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) szerinti közeli hozzátartozója,
+a)[^80] a vizsgázó vagy a b) pontban megjelölt személyek Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) szerinti közeli hozzátartozója,
 
 b) ha a képző szervvel – amely a vizsgázót a vizsgára jelentette vagy felkészítette – munkaviszonyban, vagy munkavégzésre irányuló egyéb jogviszonyban áll, vagy a képző szerv tisztségviselője, felügyelőbizottságának tagja, vagy a képző szervben tulajdonrésszel rendelkezik,
 
 c) ha a vizsgázó teljesítményének objektív megítélése egyéb okból nem várható el (elfogultság).
 
-(4)[^60] A vizsgaközpont gondoskodik a vizsgán olyan vizsgabiztos részvételéről, aki a (3) bekezdésben foglaltak figyelembevételével a vizsgát lebonyolítja. A kizárási okot a vizsgabiztos haladéktalanul köteles bejelenteni a vizsgaközpont részére.
+(4)[^81] A vizsgaközpont gondoskodik a vizsgán olyan vizsgabiztos részvételéről, aki a (3) bekezdésben foglaltak figyelembevételével a vizsgát lebonyolítja. A kizárási okot a vizsgabiztos haladéktalanul köteles bejelenteni a vizsgaközpont részére.
 
-(5)[^61] A vizsga érvénytelen, ha a vizsgán a vizsgabiztos a vele szemben fennálló kizárási ok ellenére vizsgáztatott.
+(5)[^82] A vizsga érvénytelen, ha a vizsgán a vizsgabiztos a vele szemben fennálló kizárási ok ellenére vizsgáztatott.
 
-(6)[^62] A vizsgabiztos a vizsga során meggyőződik arról, hogy a vizsgázó a közlekedésért felelős miniszter által tantervi és vizsgakövetelményben előírt ismereteket elsajátította-e.
+(6)[^83] A vizsgabiztos a vizsga során meggyőződik arról, hogy a vizsgázó a közlekedésért felelős miniszter által tantervi és vizsgakövetelményben előírt ismereteket elsajátította-e.
 
-[^55]: A 8. § (1) bekezdése az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése, az 1/2019. (I. 7.) ITM rendelet 15. § 1. pontja szerint módosított szöveg.
-[^56]: A 8. § (2) bekezdése az 1/2019. (I. 7.) ITM rendelet 8. §-ával megállapított szöveg.
-[^57]: A 8. § (2a) bekezdését a 14/2015. (III. 31.) NFM rendelet 5. §-a iktatta be.
-[^58]: A 8. § (3) bekezdése a 85/2009. (XII. 30.) KHEM rendelet 5. § (2) bekezdésével megállapított, nyitó szövegrésze a 45/2013. (VIII. 7.) NFM rendelet 21. § b) pontja szerint módosított szöveg.
-[^59]: A 8. § (3) bekezdés a) pontja az 58/2011. (XI. 24.) NFM rendelet 9. § (2) bekezdésével megállapított, a 12/2014. (III. 14.) NFM rendelet 13. § a) pontja szerint módosított szöveg.
-[^60]: A 8. § (4) bekezdése az 58/2011. (XI. 24.) NFM rendelet 9. § (3) bekezdésével megállapított, az 1/2019. (I. 7.) ITM rendelet 15. § 4. pontja szerint módosított szöveg.
-[^61]: A 8. § (5) bekezdését a 85/2009. (XII. 30.) KHEM rendelet 5. § (2) bekezdése iktatta be, szövege az 58/2011. (XI. 24.) NFM rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^62]: A 8. § (6) bekezdését a 85/2009. (XII. 30.) KHEM rendelet 5. § (2) bekezdése iktatta be, szövege a 45/2019. (XII. 20.) ITM rendelet 28. 5. pontja szerint módosított szöveg.
+[^76]: A 8. § (1) bekezdése az 58/2011. (XI. 24.) NFM rendelet 42. § (1) bekezdése, az 1/2019. (I. 7.) ITM rendelet 15. § 1. pontja szerint módosított szöveg.
+[^77]: A 8. § (2) bekezdése az 1/2019. (I. 7.) ITM rendelet 8. §-ával megállapított szöveg.
+[^78]: A 8. § (2a) bekezdését a 14/2015. (III. 31.) NFM rendelet 5. §-a iktatta be.
+[^79]: A 8. § (3) bekezdése a 85/2009. (XII. 30.) KHEM rendelet 5. § (2) bekezdésével megállapított, nyitó szövegrésze a 45/2013. (VIII. 7.) NFM rendelet 21. § b) pontja szerint módosított szöveg.
+[^80]: A 8. § (3) bekezdés a) pontja az 58/2011. (XI. 24.) NFM rendelet 9. § (2) bekezdésével megállapított, a 12/2014. (III. 14.) NFM rendelet 13. § a) pontja szerint módosított szöveg.
+[^81]: A 8. § (4) bekezdése az 58/2011. (XI. 24.) NFM rendelet 9. § (3) bekezdésével megállapított, az 1/2019. (I. 7.) ITM rendelet 15. § 4. pontja szerint módosított szöveg.
+[^82]: A 8. § (5) bekezdését a 85/2009. (XII. 30.) KHEM rendelet 5. § (2) bekezdése iktatta be, szövege az 58/2011. (XI. 24.) NFM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^83]: A 8. § (6) bekezdését a 85/2009. (XII. 30.) KHEM rendelet 5. § (2) bekezdése iktatta be, szövege a 45/2019. (XII. 20.) ITM rendelet 28. 5. pontja szerint módosított szöveg.
