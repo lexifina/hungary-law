@@ -14,35 +14,11 @@ pénzügyminiszter
 
 Határidő: az adott évi központi költségvetés tervezése során
 
-1.3. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva a központi költségvetés Innovációs és Technológiai Minisztérium fejezet autó-motorsport támogatására szolgáló előirányzata terhére vállalható kötelezettségek felső korlátját az alábbiak szerint állapítja meg:
+1.3.[^1]
 
-a) a 2023. évre 9 900 000 eurónak megfelelő forintösszeg,
+1.4.[^2]
 
-b) a 2024. évre 10 377 000 eurónak megfelelő forintösszeg,
-
-c) a 2025. évre 10 877 310 eurónak megfelelő forintösszeg,
-
-d) a 2026. évre 11 402 080 eurónak megfelelő forintösszeg,
-
-e) a 2027. évre 11 952 515 eurónak megfelelő forintösszeg,
-
-f) a 2028. évre 12 529 882 eurónak megfelelő forintösszeg,
-
-g) a 2029. évre 13 135 509 eurónak megfelelő forintösszeg,
-
-h) a 2030. évre 13 770 791 eurónak megfelelő forintösszeg,
-
-i) a 2031. évre 14 437 193 eurónak megfelelő forintösszeg,
-
-j) a 2032. évre 15 136 250 eurónak megfelelő forintösszeg;
-
-1.4. az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az e határozatban, valamint a MotoGP Határozatban foglaltak végrehajtása érdekében a 2023–2032. évek vonatkozásában összesen legfeljebb 123 518 530 eurónak megfelelő forintösszeg erejéig kötelezettségeket vállaljon;
-
-1.5. úgy dönt, hogy amennyiben a jogtulajdonossal kötött, tíz évre vonatkozó szerződés alapján az első verseny megrendezése a 2024. évben lehetséges, úgy
-
-a) az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva a központi költségvetés Innovációs és Technológiai Minisztérium fejezet autó-motorsport támogatására szolgáló előirányzata terhére vállalható kötelezettségek felső korlátját a 2033. évre 15 869 577 eurónak megfelelő forintösszegben állapítja meg, továbbá
-
-b) az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az e határozatban, valamint a MotoGP Határozatban foglaltak végrehajtása érdekében a 2024–2033. évek vonatkozásában összesen legfeljebb 129 488 107 eurónak megfelelő forintösszeg erejéig kötelezettségeket vállaljon;
+1.5.[^3]
 
 1.6. felhívja az innovációért és technológiáért felelős minisztert, hogy hozzon létre támogatási jogviszonyt a Társasággal a MotoGP Határozat 6. pontjában és az 1.1. alpontban foglalt szerződés megkötése érdekében, figyelemmel az 1.5. alpontban foglaltakra.
 
@@ -50,9 +26,12 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2021. február 28.
 
-2.[^1]
+2.[^4]
 
-3.[^2]
+3.[^5]
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.3. alpontját az 1641/2022. (XII. 19.) Korm. határozat 14. pont c) pontja visszavonta.
+[^2]: Az 1. pont 1.4. alpontját az 1641/2022. (XII. 19.) Korm. határozat 14. pont c) pontja visszavonta.
+[^3]: Az 1. pont 1.5. alpontját az 1641/2022. (XII. 19.) Korm. határozat 14. pont c) pontja visszavonta.
+[^4]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
