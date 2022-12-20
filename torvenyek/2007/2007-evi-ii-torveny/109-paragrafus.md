@@ -34,11 +34,11 @@ a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására 
 
 a) 14. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-„a) tartózkodási engedély átvételére jogosító vízum, amely egyszeri, tartózkodási engedély átvétele céljából történő beutazásra és legfeljebb harminc napos tartózkodásra jogosít a Magyar Köztársaság területén;”;
+„a) tartózkodási engedély átvételére jogosító vízum, amely egyszeri, tartózkodási engedély átvétele céljából történő beutazásra és legfeljebb harminc napos tartózkodásra jogosít a Magyar Köztársaság területén;”;”
 
 b) 15. §-a helyébe a következő rendelkezés lép:
 
-15. § „(1) Tartózkodási engedély átvételére jogosító vízumot az a harmadik országbeli állampolgár kaphat, akinek a részére e törvény alapján tartózkodási engedély kiadását engedélyezték.
+„15. § „(1) Tartózkodási engedély átvételére jogosító vízumot az a harmadik országbeli állampolgár kaphat, akinek a részére e törvény alapján tartózkodási engedély kiadását engedélyezték.
 
 (2) A tartózkodási engedély átvételére jogosító vízum érvénytelen, ha a kiadása alapjául szolgáló tartózkodási engedélyt visszavonták vagy visszavonásának lenne helye.
 
@@ -50,15 +50,15 @@ a) nem felel meg a 13. § (1) bekezdés a), valamint c)–i) pontjaiban foglalt 
 
 b) a tartózkodási jogosultság megszerzése érdekében az eljáró hatósággal hamis adatot, valótlan tényt közölt.
 
-(5) A szezonális munkavállalási vízum, valamint a nemzeti vízum iránti kérelem, illetve a vízum visszavonása tárgyában hozott határozat ellen fellebbezésnek nincs helye.”;
+(5) A szezonális munkavállalási vízum, valamint a nemzeti vízum iránti kérelem, illetve a vízum visszavonása tárgyában hozott határozat ellen fellebbezésnek nincs helye.”;”
 
 c) 17. §-a helyébe a következő rendelkezés lép:
 
-17. § „(1) Tartózkodási engedélyt – ha e törvény másként nem rendelkezik – az a harmadik országbeli állampolgár kaphat, aki eleget tesz a 13. § (1) bekezdés a), valamint c)–i) pontjaiban foglalt feltételeknek, és
+„17. § „(1) Tartózkodási engedélyt – ha e törvény másként nem rendelkezik – az a harmadik országbeli állampolgár kaphat, aki eleget tesz a 13. § (1) bekezdés a), valamint c)–i) pontjaiban foglalt feltételeknek, és
 
 a) nemzeti tartózkodási engedély iránti kérelem esetén rendelkezik érvényes nemzeti vízummal, illetve
 
-b) tartózkodási engedély meghosszabbítása iránti kérelem esetén rendelkezik érvényes tartózkodási engedéllyel.”;
+b) tartózkodási engedély meghosszabbítása iránti kérelem esetén rendelkezik érvényes tartózkodási engedéllyel.”;”
 
 d) 26. § (3) bekezdése helyébe a következő rendelkezés lép:
 

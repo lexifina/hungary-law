@@ -42,6 +42,8 @@ t) a közúti közlekedési nyilvántartásban szereplő személy személyazonos
 
 u) az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 12., 31., 36–40., 48., 49., 51. és 52. cikkéből következően, az (EU) 2019/1896 európai parlamenti és tanácsi rendeletben meghatározott célok érdekében az Európai Határ- és Partvédelmi Ügynökség és állománya, valamint az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 12., 31., 36–40., 48., 49., 51. és 52. cikke alapján felállított állomány tagja
 
+v) az oktatási nyilvántartásról szóló törvény szerinti oktatási nyilvántartás működéséért felelős szerv
+
 részére továbbíthat adatot.
 
 (1a) Az idegenrendészeti hatóság az idegenrendészeti résznyilvántartásokból a Nemzeti Információs Központnak az utasadatok kockázatelemzéséhez, elemzés-értékelés készítéséhez, valamint hírigény teljesítéséhez továbbíthat adatot.
