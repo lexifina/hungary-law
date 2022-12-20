@@ -86,7 +86,9 @@ b) a képzési és személyi törzs.
 
 (5) Az oktatási nyilvántartás egyes szakrendszerei, valamint annak egyes alrendszerei célhoz kötötten, álnevesített formában, szakpolitikai stratégiai döntés-előkészítés, elemzés, tervezés céljából összekapcsolhatók, továbbá az azokban kezelt adatok célhoz kötötten egymás között átadhatók.
 
-(5a) A köznevelés információs rendszerének a (2) bekezdés c)–f) pontja szerinti alrendszereiből, valamint az (1) bekezdés c), g), i) és j pontja szerinti szakrendszerekből az oktatási nyilvántartás működéséért felelős szerv által létrehozott, egyéni szinten, de személyazonosításra alkalmatlan módon meghatározott adatokat tartalmazó kutatói adatbázisok létrehozhatók. Az így létrehozott kutatói adatbázisok tudományos kutatási és statisztikai célból, célhoz kötötten átadhatók tudományos kutatási tevékenységet végző költségvetési szervnek.
+(5a) A köznevelés információs rendszerének a (2) bekezdés c)–f) pontja szerinti alrendszereiből, valamint az (1) bekezdés c), g), i) és j) pontja szerinti szakrendszerekből az oktatási nyilvántartás működéséért felelős szerv által létrehozott, egyéni szinten és álnevesített formában, meghatározott adatokat tartalmazó kutatói adatbázisok létrehozhatók. Az így létrehozott kutatói adatbázisok – a megfelelő adatvédelmi garanciákat tartalmazó együttműködési megállapodásban szabályozva – tudományos kutatási és statisztikai célból, célhoz kötötten átadhatók tudományos kutatási tevékenységet végző költségvetési szervnek és az Nftv. 1. melléklete szerinti felsőoktatási intézménynek.
+
+(5b) Az oktatási nyilvántartás működéséért felelős szerv az (1) bekezdés c) pontja szerinti szakrendszerből statisztikai adatgyűjtés keretében álnevesített formában statisztikai adatbázist hozhat létre, és adhat át a Központi Statisztikai Hivatalnak szakmai feladatellátásához, valamint az oktatásért felelős miniszternek a felsőoktatási intézmények állami finanszírozásával és ágazati irányítással összefüggő feladatai ellátásához.
 
 (6) Az oktatási nyilvántartásban kezelt személyes adatok körét
 

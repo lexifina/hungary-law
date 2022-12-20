@@ -12,9 +12,9 @@
 
 ## 1.1. fenntartójának, tulajdonosának neve, székhelyének címe,
 
-## 1.2. tisztségviselőinek – rektor, kancellár, gazdasági vezető, kollégiumi vezető, szakkollégium képviselője – családi és utóneve,
+## 1.2. tisztségviselőinek – rektor, kancellár, elnök, gazdasági vezető, kollégiumi vezető, szakkollégium képviselője – családi és utóneve,
 
-## 1.3. közhasznú szervezetként való működés esetén a felügyelőbizottság tagjainak családi és utóneve és értesítési címe,
+## 1.3. közhasznú szervezetként való működés esetén a felügyelő bizottság tagjainak családi és utóneve és értesítési címe,
 
 ## 1.4.
 
@@ -26,7 +26,7 @@
 
 ## 2.1. fenntartójának neve, székhelyének címe,
 
-## 2.2. magyarországi képviselőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail);
+## 2.2. magyarországi képviselőjének családi és utóneve, értesítési címe;
 
 ## 2.3. magyarországi képzési helyen történő működéséhez szükséges képzési helyszín biztosításával kapcsolatos együttműködési megállapodásairól az együttműködő egyéni vállalkozó neve, címe, adószáma.
 
@@ -40,13 +40,13 @@
 
 ## 4.1. fenntartójának neve, székhelyének címe,
 
-## 4.2. vezetőjének és a szakkollégium képviselőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail);
+## 4.2. vezetőjének és a szakkollégium képviselőjének családi és utóneve;
 
-## 5. a közösségi felsőoktatási képzési központ képviselőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail).
+## 5. a közösségi felsőoktatási képzési központ képviselőjének családi és utóneve.
 
 ## 6. Az Nftv. 54. §-ában meghatározott szervezet által létesített szakkollégium esetében
 
-## 6.1. a szakkollégium képviselőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail)
+## 6.1. a szakkollégium képviselőjének családi és utóneve
 
 ## 6.2. a szakkollégiumot létesítő szervezet neve, székhelye.
 
@@ -108,13 +108,13 @@
 
 ## IV. Hallgatói személyi törzs
 
-## A hallgatói személyi törzs a 2006. február 1-jén folyamatban lévő, illetve az ezt követően létesített hallgatói vagy doktorjelölti jogviszonnyal rendelkezők, valamint a 2006. február 1-jén vagy azután oklevelet szerzett személyek alábbi személyes adatait tartalmazza:
+## A hallgatói személyi törzs a 2006. február 1-jén – kapcsolódó 2005/2006. tavaszi félévvel – folyamatban lévő, illetve az ezt követően létesített hallgatói vagy doktorjelölti jogviszonnyal rendelkezők, valamint a 2006. február 1-jén – kapcsolódó 2005/2006. tavaszi félévvel – vagy azután oklevelet szerzett személyek alábbi személyes adatait tartalmazza:
 
 ## 1. oktatási azonosító száma, adóazonosító jele,társadalombiztosítási azonosító jele,
 
 ## 2. értesítési címe, elektronikus levélcíme,
 
-## 3. nem magyar állampolgár esetén a Magyarország területén való tartózkodásra jogosító okirat – a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány –, nemzetközi biztosítási okmány adata,
+## 3. nem magyar állampolgár esetén a nemzetközi biztosítási okmány adata,
 
 ## 4. a Magyar igazolvány, Magyar hozzátartozói igazolvány adata,
 

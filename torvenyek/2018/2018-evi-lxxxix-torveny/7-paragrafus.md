@@ -64,6 +64,10 @@ ca) a felnőttképző képviseletére jogosult személy azonosítása céljábó
 
 cb) a közvetlenül a felnőttképző rendelkezésére bocsátott képzési hitelhez kapcsolódóan a képzési hitel folyósítása céljából a felnőttképző fizetési számlájának száma
 
+d) a Hallgatói személyi törzsből a képzési hitelre való jogosultság vizsgálata céljából az igénylőre vonatkozóan a 3. melléklet IV. rész 6. pontjában meghatározott adatokból a hiteligénylés időpontját megelőző két év alatt folytatott képzések kezdő dátuma és a képzések befejezésének dátuma,
+
+e) a tanulói nyilvántartásból a képzési hitelre való jogosultság vizsgálata céljából az igénylőre vonatkozóan a 1. melléklet I. rész d) pontjában meghatározott adatokból a hiteligénylés időpontját megelőző két év alatt folytatott jogviszonyok keletkezésének és megszűnésének ideje
+
 továbbíthatóak a Diákhitel Központnak.
 
 (16) A Felsőoktatási alkalmazotti személyi törzsből továbbítható – az érintetten kívül – a fenntartónak a fenntartói jogok gyakorlásához szükséges valamennyi adat; a Magyar Felsőoktatási Akkreditációs Bizottságnak a szakértői tevékenyég ellátásához szükséges valamennyi adat; a felsőoktatási intézménynek az alkalmazottjával kapcsolatos adatok.
@@ -72,7 +76,7 @@ továbbíthatóak a Diákhitel Központnak.
 
 (18) A Felsőoktatási felvételi alrendszer a személyes adatot – ha az eljárás eredményeként hallgatói jogviszony létesítésére nem kerül sor – az adott felsőoktatási felvételi eljárás jelentkezési határidejétől számított három évig kezeli.
 
-(19) A Hallgatói személyi törzsből továbbítható – az érintetten kívül – a felsőoktatási intézménynek a vele hallgatói jogviszonyban álló személyre vonatkozó, a nála fennálló jogviszonyára vonatkozó valamennyi adat.
+(19) A Hallgatói személyi törzsből továbbítható – az érintetten kívül – a felsőoktatási intézménynek a vele hallgatói jogviszonyban álló személy támogatási idejével összefüggő valamennyi adat, továbbá a nála fennálló jogviszonyára vonatkozó valamennyi adat.
 
 (20) A Hallgatói személyi törzsből továbbíthatók továbbá a Diákhitel Központnak a hallgatói hitelt igényelt személyekhez kapcsolódóan
 
@@ -167,3 +171,5 @@ d) a honosítási határozat sorszáma.
 (37) A Kormány vagy az egyes miniszterek által megkötött megállapodások keretében elérhető kedvezmény igénybevételére történő jogosultság érvényességének megerősítése céljából az oktatási nyilvántartás működéséért felelős szerv a 2. § e) pontja szerinti, a születési időre vonatkozó, valamint az 2. § l) pontja szerinti, oktatási azonosító számára vonatkozó megerősítő adatokat továbbítja jogosultság ellenőrzését végző program és az igénylőfelület működtetését végző szervnek.
 
 (38) Az oktatási nyilvántartás működéséért felelős szerv az oktatási nyilvántartás 3/C. §, 4. § (2) bekezdés a–b) pontja, 4. § (3) bekezdés b) és d) pontja szerinti szakrendszerből személyes adatot továbbít a Nemzeti Köznevelési Portál és a Tankönyvkatalógus működtetéséért felelős szerv részére a tanulók, hallgatók, pedagógusok és oktatók köznevelési és felsőoktatási intézménnyel fennálló aktív jogviszonyának tényére vonatkozóan az ezen portálok szerzői jog által védett tartalmainak jogszerű igénybevétele céljából.
+
+(39) Az oktatási nyilvántartás működéséért felelős szerv a felsőoktatási alkalmazotti személyi törzsben szereplő elektronikus levélcím használatával teljesítheti a miniszter által elrendelt kutatást.

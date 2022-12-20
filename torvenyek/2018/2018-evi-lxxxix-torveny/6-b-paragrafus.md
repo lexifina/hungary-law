@@ -2,6 +2,6 @@
 
 (2) A DPR Hallgatói Kutatás modulja esetében a kötelező intézményi adatszolgáltatás a jogviszonyban álló hallgatók, a Frissdiplomás Kutatás modulja esetében a vizsgált időszakot megelőző első és ötödik év között abszolutóriumot szerzettek körében egységes módszertannal és kérdőívvel végrehajtott önkéntes online kérdőíves vizsgálat alapján történik.
 
-(3) A DPR a felsőoktatási információs rendszerbe adatot közöl a Kormány rendeletében meghatározott módszertan alapján.
+(3)
 
 (4) Az online kérdőíves vizsgálatok eredményeit legalább évente rövidített összefoglaló formájában a felsőoktatási intézmény a honlapján nyilvánosságra hozza.

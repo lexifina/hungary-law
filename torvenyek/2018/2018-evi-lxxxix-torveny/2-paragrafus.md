@@ -27,3 +27,5 @@ l) oktatási azonosító szám,
 m) az azonosításhoz szükséges kapcsolati kódok,
 
 n) a 4. § (1) bekezdése szerinti szakrendszerek 1–6. mellékletben meghatározott adatai.
+
+o) nyilvántartás jogcímének adata.

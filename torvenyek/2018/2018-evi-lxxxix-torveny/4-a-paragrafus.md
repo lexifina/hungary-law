@@ -1,6 +1,6 @@
 4/A. § Az érintett
 
-a) a felsőoktatási információs rendszerben tárolt, 3. melléklet II. része és IV. rész 1–22. pontja szerinti személyes adatainak helyesbítését, az adatkezelés korlátozását, az adatot szolgáltató felsőoktatási intézménytől, a Tempus Közalapítványtól vagy a Klebelsberg Központtól,
+a) a felsőoktatási információs rendszerben tárolt, 3. melléklet II. része és IV. rész 1–22. pontja szerinti személyes adatainak helyesbítését, az adatkezelés korlátozását, – a 4/B. § a) pontjában meghatározott kivétellel – az adatot szolgáltató felsőoktatási intézménytől, a Tempus Közalapítványtól vagy a Klebelsberg Központtól,
 
 b) a felsőoktatási információs rendszerben tárolt, 3. melléklet IV. rész 23. pontja szerinti személyes adatainak helyesbítését, az adatkezelés korlátozását az adatot szolgáltató Diákhitel Központtól,
 
