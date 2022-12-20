@@ -1,0 +1,1 @@
+106. § A 81. § (1) bekezdése, a 83. §, a 86. §, a 89. §, a 90. § (1) bekezdése, a 93–96. §, 100. § (2), (3), (4) és (7) bekezdése, a 101. § (1) és (3) bekezdése, a 102. § (1) bekezdése, a 103. § (1) bekezdése, a 3. melléklet, a 4. melléklet, az 5. melléklet, a 6. melléklet, a 8. melléklet és a 10. melléklet az Alaptörvény 38. cikk (6) bekezdése alapján sarkalatosnak minősül.

@@ -1,0 +1,3 @@
+9. § Az Elismerési törvény 16. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Egészségügyi szakképesítés elismerése esetében az eljáró hatóság – a kérelmező választása alapján – előírja, hogy a szakmai vizsga helyett teljes munkaidőben legfeljebb egy évig vagy ezzel egyenértékű részmunkaidőben, akkreditált egészségügyi szolgáltatónál, illetve akkreditált gyógyszertárban az egészségügyről szóló törvény szerinti felügyelet melletti, a szakképesítésének megfelelő tevékenységet folytasson, ha annak révén is biztosítható, hogy a kérelmező a szakma magyarországi gyakorlásához szükséges szakmai ismeretekkel és nyelvismerettel rendelkezzen.”

@@ -1,0 +1,3 @@
+16. § A 2011. évi CXXXII. törvény a következő 13/A. §-sal egészül ki:
+
+„13/A. § Nemzetbiztonsági ellenőrzéshez nem kötött munkakörben a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 20. § (2) bekezdés c) pontjától eltérően a közalkalmazotti jogviszony létesítésének nem feltétele a magyar állampolgárság vagy a jogszabály szerint a szabad mozgás és tartózkodás jogával rendelkezés, illetve a bevándorolt vagy letelepedett jogállás.”
