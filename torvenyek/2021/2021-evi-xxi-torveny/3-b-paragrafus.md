@@ -1,0 +1,1 @@
+3/B. § Az Ingatlanhányad tekintetében a tulajdonátruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a tulajdonosi joggyakorló készíti el és köti meg az Alapítvánnyal.
