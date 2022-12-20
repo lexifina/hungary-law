@@ -108,7 +108,7 @@ a) 1.2. alpontjában meghatározottaktól eltérően a forrás biztosítása a 2
 
 b) 1.6. alpontjában foglaltaktól eltérően az iparügyekért felelős miniszter által a KEKVA tv. 20. §-a szerinti közfeladat-finanszírozási szerződés keretében kerüljön biztosításra a Széchenyi István Egyetemért Alapítvány részére,
 
-c) visszavonja az 1047/2021. Korm. határozat 1.3., 1.4. és 1.5. alpontját;
+c)[^1]
 
 15. egyetért a stratégailag meghatározott céloknak (többcélú fejlesztések, technológiatranszfer) a Széchenyi István Egyetemért Alapítvány közfeladat-ellátása útján, a Módtv. alapján tulajdonába kerülő TECHTRA Technológiai Transzfer Intézet Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság bevonásával történő végrehajtásával;
 
@@ -123,3 +123,5 @@ c) visszavonja az 1047/2021. Korm. határozat 1.3., 1.4. és 1.5. alpontját;
 | Felelős: | iparügyekért felelős miniszter |
 
 | Határidő: | első alkalommal 2024. február 15. napjáig |
+
+[^1]: A 14. pont c) alpontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
