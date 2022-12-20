@@ -1,54 +1,78 @@
-## módosul.
+## 50. §[^62]
 
-## 51. § Az R8.
+## 51. §[^63]
 
-a) 2. § (1) bekezdés 38. pontjában a „38. tanterv: a képző szerv képzési tevékenységét meghatározó követelményrendszert tartalmazó pedagógiai dokumentum,” szövegrész helyébe a „38. tanterv: a közlekedésért felelős miniszter által kiadott, a képző szerv képzési tevékenységét meghatározó követelményrendszert tartalmazó pedagógiai dokumentum,” szöveg,
+a)[^64]
 
-b) 2. § (1) bekezdés 51. pontjában az „az adott tananyag megértését.” szövegrész helyébe az „az adott tananyag megértését,” szöveg,
+b)[^65]
 
-c) 3. § (1) bekezdésben, a 10. § (2) bekezdés d) pontjában, a 18. § (3) bekezdés b) pont be) alpontjában a „Trolibusz” szövegrész helyébe a „TR” szöveg,
+c)[^66]
 
-d) 3. § (7) és (8) bekezdésében a „képzőszerv” szövegrész helyébe a „képző szerv” szöveg,
+d)[^67]
 
-e) 5. § (1) bekezdésében az „(az ún. „Bizonylati album”-ban szereplő nyomtatványokat)” szövegrész helyébe az „(a bizonylati albumban szereplő nyomtatványokat)” szöveg,
+e)[^68]
 
-f) 6. § (6) bekezdésében a „vezetési gyakorlat tantárgy” szövegrész helyébe a „vezetési gyakorlat tantárgy (ideértve a vezetési gyakorlat tantárgy szimulátoron történő oktatását, valamint a közúti közlekedési szakember képzés járművezetéssel járó oktatási óráit)” szöveg,
+f)[^69]
 
-g) 9. § (7) bekezdésében a „– kérelemre –” szövegrész helyébe az „– elektronikus bejelentés alapján –” szöveg,
+g)[^70]
 
-h) 9. § (7a) bekezdésében a „jelentkezési lapon” szövegrész helyébe a „jelentkezési adatlapon” szöveg, a „8. számú melléklet 6.1.1. pontjában” szövegrész helyébe a „8. számú melléklet 1.4. pontjában” szöveg,
+h)[^71]
 
-i) 10. § (1) bekezdés e) pontjában, 39. § (3) bekezdésében a „jelentkezési lapon” szövegrész helyébe a „jelentkezési adatlapon” szöveg,
+i)[^72]
 
-j) 10. § (3) bekezdésében az „a forgalmi vizsga teljesítéséről szóló vizsgaigazolást.” szövegrész helyébe az „az e rendeletben előírt valamennyi vizsgakövetelmény teljesítéséről szóló vizsgaigazolást.” szöveg,
+j)[^73]
 
-k) 11. § (1) bekezdés f) pontjában a „Bizonylati Album” szövegrész helyébe a „bizonylati album” szöveg,
+k)[^74]
 
-l) 18. § (3) bekezdés be) pontjában, 18. § (5) bekezdésében a „Tr” szövegrész helyébe a „TR” szöveg,
+l)[^75]
 
-m) 21. § (1) bekezdésében az „évenként” szövegrész helyébe a „kétévenként” szöveg, a „venni” szövegrész helyébe a „vennie” szöveg, a „tenni” szövegrész helyébe a „tennie” szöveg,
+m)[^76]
 
-n)[^41]
+n)[^77]
 
-o)[^42]
+o)[^78]
 
-p) 27. § (1) bekezdés a) pontjában a „vizsgabiztosi képesítéssel” szövegrész helyébe a „vizsgabiztosi vagy elméleti vizsgabiztosi képesítéssel” szöveg,
+p)[^79]
 
-q) 27. § (1) bekezdés d) pontjában az „aki érvényes vezetői engedéllyel rendelkezik” szövegrész helyébe az „az elméleti vizsgabiztos kivételével, aki érvényes vezetői engedéllyel rendelkezik” szöveg,
+q)[^80]
 
-r) 27. § (1) bekezdés e) pontjában az „akire nem vonatkozik olyan rendelkezés,” szövegrész helyébe az „az elméleti vizsgabiztos kivételével, akire nem vonatkozik olyan rendelkezés,” szöveg,
+r)[^81]
 
-s) 27. § (1) bekezdés g) pontjában az „aki a vizsgabiztosi képzésre” szövegrész helyébe az „aki a vizsgabiztosi vagy elméleti vizsgabiztosi képzésre” szöveg,
+s)[^82]
 
-t) 27. § (2) bekezdésében a „vizsgabiztosi igazolványt” szövegrész helyébe a „vizsgabiztosi vagy elméleti vizsgabiztosi igazolványt” szöveg,
+t)[^83]
 
-u) 27. § (3) bekezdésében az „évente összesen legalább kétnapos” szövegrész helyébe a „kétévente összesen legalább négynapos” szöveg,
+u)[^84]
 
-v) 32. § (1) bekezdésében az „évenként” szövegrész helyébe a „kétévenként” szöveg,
+v)[^85]
 
-w) az „A „Gépjárművezetői képesítési igazolvány” kiadása, nyilvántartása” alcímben a „ „Gépjárművezetői” szövegrész helyébe a „gépjárművezetői” szöveg és az „igazolvány” ” szövegrész helyébe az „igazolvány” szöveg,
+w)[^86]
 
-x) 41/A. §-ában a „ „Gépjárművezetői” szövegrész helyébe a „gépjárművezetői” szöveg és az „igazolványok” ” szövegrész helyébe az „igazolványok” szöveg
+x)[^87]
 
-[^41]: A 51. § n) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^42]: A 51. § o) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^62]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: Az 51. § nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^64]: Az 51. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^65]: Az 51. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^66]: Az 51. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: Az 51. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: Az 51. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^69]: Az 51. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^70]: Az 51. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: Az 51. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^72]: Az 51. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^73]: Az 51. § j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^74]: Az 51. § k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^75]: Az 51. § l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^76]: Az 51. § m) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: A 51. § n) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: A 51. § o) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: Az 51. § p) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^80]: Az 51. § q) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^81]: Az 51. § r) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^82]: Az 51. § s) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^83]: Az 51. § t) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^84]: Az 51. § u) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^85]: Az 51. § v) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^86]: Az 51. § w) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^87]: Az 51. § x) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

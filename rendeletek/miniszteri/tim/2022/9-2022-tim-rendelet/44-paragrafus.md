@@ -1,3 +1,3 @@
-## 43. § Az R8. 27. §-a a következő (3a) bekezdéssel egészül ki:
+## 43. §[^55]
 
-## „(3a) Az elméleti vizsgabiztosoknak a vizsgabiztosi tevékenység folytatásához – a (3) bekezdés szerinti követelményeknek való megfelelés érdekében – kétévente továbbképzésen kell részt venniük, és ezt követően sikeres vizsgát kell tenniük.”
+[^55]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

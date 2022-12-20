@@ -1,51 +1,72 @@
-## lép.
+## 52. §[^88]
 
-## 52. § Hatályát veszti az R8.
+a)[^89]
 
-a) 2. § (1) bekezdés 1. pontjában az „és a „biztonsági ellenőrzés és üzemeltetés” tantárgyak” szövegrész,
+b)[^90]
 
-b) 2. § (1) bekezdés 7. pontjában a „biztonsági ellenőrzés és üzemeltetés vizsga,” szövegrész,
+c)[^91]
 
-c) 2. § (1) bekezdés 26. és 28. pontja,
+d)[^92]
 
-d) 2. § (1) bekezdés 33. pontjában az „aláírását és vizsgaeredményeit is,” szövegrész,
+e)[^93]
 
-e) 9. § (6) és (8) bekezdése,
+f)[^94]
 
-f) 10. § (1) bekezdés g) pontja,
+g)[^95]
 
-g) 10. § (2) bekezdés b) pontjában az „és „C” ” szövegrész,
+h)[^96]
 
-h) 11. § (1) bekezdés f) pontjában a „vagy közvetlenül” szövegrész,
+i)[^97]
 
-i) 11. § (1a) bekezdésében a „ , valamint biztonsági ellenőrzés és üzemeltetés vizsgát” szövegrész,
+j)[^98]
 
-j) 11. § (3) bekezdés d) pontjában a „– külön jogszabály alapján –” szövegrész,
+k)[^99]
 
-k) 11. § (5) bekezdés a) pontjában az „és két éven belül „A1” kategóriára sikeres elméleti vizsgát tett” szövegrész,
+l)[^100]
 
-l) 11. § (5) bekezdése b) pontjában az „és két éven belül „A1” vagy „A2” kategóriára sikeres elméleti vizsgát tett” szövegrész,
+m)[^101]
 
-m) 14. § (8) bekezdése,
+n)[^102]
 
-n) 15. § (2) bekezdés b) pontjában az „a biztonsági ellenőrzés és üzemeltetési,” szövegrész,
+o)[^103]
 
-o) 18. § (4) bekezdés második mondatában, 20. § (2) bekezdés második mondatában és 26. § (2) bekezdés második mondatában az „A” szövegrész,
+p)[^104]
 
-p) a 18. § (4) bekezdés második mondatában, 20. § (2) bekezdés második mondatában a „meghatározottak szerint” szövegrész, valamint 32. § (1) bekezdésében a „meghatározottak szerinti” szövegrész,
+q)[^105]
 
-q) 21. § (3) bekezdése,
+r)[^106]
 
-r) 23. § (1) bekezdés a) pontjában az „és a szakoktatói igazolványát, ez utóbbit köteles jól láthatóan magán viselni,” szövegrész,
+s)[^107]
 
-s) 25. § (3) bekezdés c) pontja,
+t)[^108]
 
-t) 31. § (1) bekezdés a) pontjában az „és szakoktatói vagy a 3. melléklet 2.5 pontjában meghatározott képesítéssel” szövegrész,
+u)[^109]
 
-u) 31.§ (1) bekezdés b) pontja,
+v)[^110]
 
-v) 33/D. § (2) bekezdése, (4) bekezdése és (6) bekezdése,
+w)[^111]
 
-w)[^43]
-
-[^43]: Az 51. § w) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^88]: Az 52. § nyitó szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^89]: Az 52. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: Az 52. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^91]: Az 52. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^92]: Az 52. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^93]: Az 52. § e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^94]: Az 52. § f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^95]: Az 52. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: Az 52. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: Az 52. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: Az 52. § j) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^99]: Az 52. § k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^100]: Az 52. § l) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^101]: Az 52. § m) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^102]: Az 52. § n) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^103]: Az 52. § o) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^104]: Az 52. § p) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^105]: Az 52. § q) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^106]: Az 52. § r) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^107]: Az 52. § s) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^108]: Az 52. § t) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^109]: Az 52. § u) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^110]: Az 52. § v) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^111]: Az 51. § w) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

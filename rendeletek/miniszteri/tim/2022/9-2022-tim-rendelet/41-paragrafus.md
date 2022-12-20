@@ -1,3 +1,3 @@
-## 40. §[^37]
+## 40. §[^52]
 
-[^37]: A 40. § a 72. § (6) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^52]: A 40. § a 72. § (6) bekezdése alapján 2023. január 1-jén lép hatályba.

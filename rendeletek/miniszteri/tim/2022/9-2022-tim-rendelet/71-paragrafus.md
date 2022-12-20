@@ -1,5 +1,5 @@
-## 70. §[^61]
+## 70. §[^129]
 
 ## 22. A közúti közlekedési ágazatban használt gépek kezelőinek képzéséről és vizsgáztatásáról szóló 54/2021. (XI. 5.) ITM rendelet módosítása
 
-[^61]: A 70. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^129]: A 70. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
