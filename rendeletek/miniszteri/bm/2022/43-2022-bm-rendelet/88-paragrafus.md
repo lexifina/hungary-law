@@ -1,0 +1,7 @@
+## IV. Fejezet
+
+## A MEGKÜLÖNBÖZTETŐ JELZÉST HASZNÁLÓ GÉPJÁRMŰ VEZETÉSÉRE JOGOSÍTÓ ENGEDÉLY KIADÁSA ELŐTTI, ILLETVE AZ ILYEN ENGEDÉLLYEL RENDELKEZŐK ALKALMASSÁGI VIZSGÁLATA
+
+88. §[^88]
+
+[^88]: A 88. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
