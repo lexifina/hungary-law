@@ -22,4 +22,6 @@
 
 (9) A művészeti felsőoktatásban – a 105. § (5) bekezdésében foglaltakon túl – az e törvényben előírt alkalmazási, foglalkoztatási, képesítési feltétel teljesítése szempontjából a doktori fokozattal egyenértékű a jogszabály alapján adományozott díj annak tekintetében, aki a díj tulajdonosa, feltéve hogy az érintett legalább alapképzésben szerzett oklevéllel rendelkezik.
 
+(9a) A művészeti felsőoktatásban az egyetemi tanári munkaköri cím adományozására és az egyetemi tanári munkakörben történő alkalmazásra vonatkozó, a 28. § (5) bekezdésében foglalt feltételeknek megfelel az adott művészeti területen kifejtett művészi munkássága miatt Kossuth-díjban részesített oktató. A cím adományozásával kapcsolatos javaslathoz ebben az esetben a rektornak nem szükséges beszereznie a 69. § (1) bekezdése szerinti szakértői véleményt a MAB-tól.
+
 (10) Az Állami Balettintézet táncművészeti képesítő oklevelével és balettművész oklevelével mesterképzésre lehet jelentkezni.

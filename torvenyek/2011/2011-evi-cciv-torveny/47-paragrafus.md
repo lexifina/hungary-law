@@ -24,6 +24,10 @@ c) azt a félévet sem, amelyet tanulmányai folytatásánál a felsőoktatási 
 
 d) azt a félévet, amelyet a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény (a továbbiakban: a Nemzeti Közszolgálati Egyetemről szóló törvény) 21/A. § (1) bekezdés a), b) és d) pontjában meghatározott jogviszonyban álló hallgató a Nemzeti Közszolgálati Egyetem képzésén vett igénybe.
 
-(7) A magyar állami (rész)ösztöndíjjal támogatott képzésben való részvételt nem zárja ki a felsőoktatásban szerzett fokozat és szakképzettség megléte, azzal, hogy aki egy képzési ciklusban magyar állami (rész)ösztöndíjas képzésben tanulmányokat folytat, ugyanazon képzési ciklusba tartozó további (párhuzamos) képzés folytatása esetén – a 39. § (4a) bekezdése szerint felvett tanárszak kivételével – a támogatási időből félévente a párhuzamosan folytatott állami (rész)ösztöndíjjal támogatott képzések számának megfelelő számú félévet le kell vonni.
+e) azt a félévet, amelyet a hallgató a 39. § (4a) bekezdése szerint felvett tanári mesterszakon vett igénybe, továbbá
+
+f) a nem tanári osztatlan vagy mesterképzési szakkal párhuzamos képzésben vagy a nem tanári osztatlan vagy mesterképzési szakot követően felvett tanári mesterszakon, valamint a 4 féléves tanári mesterszakon igénybe vett félévet.
+
+(7) A magyar állami (rész)ösztöndíjjal támogatott képzésben való részvételt nem zárja ki a felsőoktatásban szerzett fokozat és szakképzettség megléte, azzal, hogy aki egy képzési ciklusban magyar állami (rész)ösztöndíjas képzésben tanulmányokat folytat, ugyanazon képzési ciklusba tartozó további (párhuzamos) képzés folytatása esetén a támogatási időből félévente a párhuzamosan folytatott állami (rész)ösztöndíjjal támogatott képzések számának megfelelő számú félévet le kell vonni.
 
 (8) Ha a hallgató kimerítette az e §-ban meghatározottak szerint rendelkezésére álló támogatási időt, csak önköltséges képzési formában folytathat tanulmányokat a felsőoktatásban.

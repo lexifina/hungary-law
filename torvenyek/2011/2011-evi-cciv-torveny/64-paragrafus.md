@@ -12,11 +12,13 @@
 
 (2) A miniszter felsőoktatás-szervezési feladatai:
 
-a) működteti
+a) a felsőoktatási feladatok ellátása körében szakmailag irányítja
 
-aa) a felsőoktatási információs rendszer működéséért felelős szervet, az oktatási hivatalt, a külföldi bizonyítványok és oklevelek elismeréséért felelős szervet,
+aa) a Kormány rendeletében meghatározottak szerint a felsőoktatási információs rendszer működéséért felelős szervnek, az oktatási hivatalnak, a külföldi bizonyítványok és oklevelek elismeréséért felelős szervnek, valamint
 
-ab) – az Nkt.-ban meghatározottak szerint – az oktatási jogok biztosának hivatalát,
+ab) az Nkt.-ban, valamint miniszteri rendeletben meghatározottak szerint az oktatási jogok biztosa hivatalának
+
+a felsőoktatással összefüggő tevékenységét,
 
 b) meghatározza a pedagógusképzés irányait,
 

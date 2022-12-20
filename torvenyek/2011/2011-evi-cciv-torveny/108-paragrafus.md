@@ -6,7 +6,7 @@
 
 1a. doktori értekezés: a doktorandusz által készített írásmű, alkotás vagy munka, amellyel bizonyítja, hogy a fokozat követelményeihez mért tudományos feladat önálló megoldására képes;
 
-1b. duális képzés: a műszaki, informatika, agrár, természettudomány, egészségtudomány vagy gazdaságtudományok képzési területen indított gyakorlatigényes alapképzési szakon, szociális munka alapképzési szakon, illetve a felsorolt képzési területhez tartozó mesterképzési szakon folytatott képzés azon formája, amelyben a szak – képzési és kimeneti követelményeknek megfelelően meghatározott, teljes idejű, a képzési időszakra, a képzés módszereire, a tanórára, a megszerzett tudás értékelésére egyedi rendelkezéseket tartalmazó – tanterve szerint a gyakorlati képzés a Duális Képzési Tanács által meghatározott keretek között, minősített szervezetnél folyik;
+1b. duális képzés: a műszaki, informatika, agrár, természettudomány, egészségtudomány vagy gazdaságtudományok képzési területen indított gyakorlatigényes alapképzési szakon, diakónia és szociális munka alapképzési szakon, illetve a felsorolt képzési területhez tartozó mesterképzési szakon folytatott képzés azon formája, amelyben a szak – képzési és kimeneti követelményeknek megfelelően meghatározott, teljes idejű, a képzési időszakra, a képzés módszereire, a tanórára, a megszerzett tudás értékelésére egyedi rendelkezéseket tartalmazó – tanterve szerint a gyakorlati képzés a Duális Képzési Tanács által meghatározott keretek között, minősített szervezetnél folyik;
 
 2. egészségügyi alkalmassági vizsgálat: orvosi vizsgálat, amelynek célja annak megállapítása, hogy az egyén testi adottságai és egészségi állapota alapján képes-e felkészülni a választott tevékenység ellátására, ennek során nem kerül-e veszélybe egészsége;
 
@@ -18,7 +18,7 @@
 
 4a. felsőoktatási kutatás-fejlesztési vállalkozási tevékenység: államháztartáson kívülről származó bevételből, megrendelés alapján vagy együttműködés keretében az állami felsőoktatási intézmény alaptevékenységként végzett, a tudományos kutatásról, fejlesztésről és innovációról szóló törvény 3. § 6. pontjában meghatározott innovációs és 11. pontjában meghatározott kutatás-fejlesztési tevékenységek, továbbá ezek résztevékenységei;
 
-5. félév: öt hónapból álló oktatásszervezési időszak; doktori képzés esetén minden év szeptember 1. napjától január 31. napjáig és február 1. napjától augusztus 31. napjáig tartó oktatásszervezési időszak;
+5. félév: legfeljebb öt hónapból álló oktatásszervezési időszak; doktori képzés esetén minden év szeptember 1. napjától január 31. napjáig és február 1. napjától augusztus 31. napjáig tartó oktatásszervezési időszak;
 
 6. fogyatékossággal élő hallgató (jelentkező): aki mozgásszervi, érzékszervi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrum zavarral vagy egyéb pszichés fejlődési zavarral (súlyos tanulási, figyelem- vagy magatartásszabályozási zavarral) küzd;
 
@@ -76,7 +76,7 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 
 27. magyar állami (rész)ösztöndíjjal támogatott képzés: a felsőoktatásban a magyar állami ösztöndíjjal vagy a magyar állami részösztöndíjjal támogatott képzés;
 
-28. mentorprogram: a képzésnek az a sajátos formája, amelyben a hátrányos helyzetű hallgató felkészítéséhez, felkészüléséhez a felsőoktatási intézmény hallgatója, oktatója segítséget nyújt;
+28. mentorprogram: a képzésnek az a sajátos formája, amelyben a hátrányos helyzetű hallgató, tanuló felkészítéséhez, felkészüléséhez a felsőoktatási intézmény hallgatója, oktatója segítséget nyújt;
 
 29. pályaalkalmassági vizsgálat: olyan képességvizsgálat, amelynek keretei között megállapítják, hogy a jelentkező rendelkezik-e azokkal az egyéni képességekkel, tulajdonságokkal, amelyek alkalmassá teszik a képzésben való részvételre, a megszerzett szakképzettségnek megfelelő tevékenység ellátására;
 
@@ -100,7 +100,7 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 
 39. tanegység: egy félév alatt teljesíthető, kredittel elismert tantervi egység vagy tantárgy;
 
-40. tanév: tíz hónapból álló oktatásszervezési időszak; doktori képzés esetén tizenkét hónapból álló oktatásszervezési időszak;
+40. tanév: legalább tíz, legfeljebb tizenkét hónapból álló oktatásszervezési időszak; doktori képzés esetén tizenkét hónapból álló oktatásszervezési időszak;
 
 41. tanóra: a tantervben meghatározott tanulmányi követelmények teljesítéséhez az oktató személyes közreműködését igénylő foglalkozás (előadás, szeminárium, gyakorlat, konzultáció), amelynek időtartama legalább negyvenöt, legfeljebb hatvan perc;
 
@@ -116,10 +116,10 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 
 46. tudományterületek: a bölcsészettudományok, a hittudomány, az agrártudományok, a műszaki tudományok, az orvos- és egészségtudományok, a társadalomtudományok, a természettudományok és a művészetek, amelyek tudományágakra tagozódnak;
 
-47. végbizonyítvány (abszolutórium): a tantervben előírt vizsgák eredményes letételét és – a nyelvvizsga letételének és szakdolgozat (diplomamunka) elkészítésének kivételével – más tanulmányi követelmények teljesítését, illetve a képzési és kimeneti követelményekben előírt kreditpontok megszerzését igazolja, amely minősítés és értékelés nélkül tanúsítja, hogy a hallgató a tantervben előírt tanulmányi és vizsgakövetelménynek mindenben eleget tett;
+47. végbizonyítvány (abszolutórium): a tantervben előírt vizsgák eredményes letételét és – a szakdolgozat (diplomamunka) elkészítésének kivételével – más tanulmányi követelmények teljesítését, illetve a képzési és kimeneti követelményekben előírt kreditpontok megszerzését igazolja, amely minősítés és értékelés nélkül tanúsítja, hogy a hallgató a tantervben előírt tanulmányi és vizsgakövetelménynek mindenben eleget tett;
 
 48. vizsga: az ismeretek, készségek és képességek elsajátításának, megszerzésének – értékeléssel egybekötött – ellenőrzési formája.
 
 49. zárt rendszerű elektronikus távolléti oktatás: a képzés olyan formája, amelyben az elméleti képzési ismeretanyag oktatása digitális tananyaggal, továbbá az oktató és hallgató együttműködése az informatikai hálózaton (internet, intranet) keresztül zárt rendszerű távoktatási képzésmenedzsment-rendszerrel valósul meg, amelynek során az oktató, az oktatásszervező és a képzésben részt vevő hallgató vagy személy közös kommunikációs eszköze a számítógép és az informatikai hálózat, továbbá a zárt rendszerű távoktatási képzésmenedzsment-rendszer és a tanulmányi rendszer;
 
-50. zárt rendszerű távoktatási képzésmenedzsment-rendszer: a képzésben részt vevő személy képzését tervező, szervező és ellenőrző, a képzéshez szükséges digitális tananyagot, valamint kiegészítő ismeretanyagot a képzési program szerint számára eljuttató (webböngészőben megjelenítő), minősített és tanúsított zárt informatikai rendszer, amely a képzésszervezésen túl adatbázisában manipulálhatatlanul rögzíti és értékeli – valamint a tanulmányi rendszer számára közvetíti – a képzésben részt vevő személy képzési programban rögzített előrehaladását, ellenőrző kérdésekre adott válaszait, eredményeit, tevékenységét, és végrehajtja – a képzésben részt vevő személy teljesítményének értékelése alapján – a képzési program szerint lehetséges navigációs kéréseit, továbbá biztosítja az oktató, az oktatásszervező és a képzésben részt vevő hallgató vagy személy interaktív és távolléti kapcsolattal megvalósuló, teljes értékű on-line és off-line együttműködését.
+50. zárt rendszerű távoktatási képzésmenedzsment-rendszer: a képzésben részt vevő személy képzését tervező, szervező és ellenőrző, a képzéshez szükséges digitális tananyagot, videótartalom-kezelő által biztosított tartalmat, valamint kiegészítő ismeretanyagot a képzési program szerint számára eljuttató (webböngészőben megjelenítő), minősített és tanúsított zárt informatikai rendszer, amely a képzésszervezésen túl adatbázisában manipulálhatatlanul rögzíti és értékeli – valamint a tanulmányi rendszer számára közvetíti – a képzésben részt vevő személy képzési programban rögzített előrehaladását, ellenőrző kérdésekre adott válaszait, eredményeit, tevékenységét, és végrehajtja – a képzésben részt vevő személy teljesítményének értékelése alapján – a képzési program szerint lehetséges navigációs kéréseit, továbbá biztosítja az oktató, az oktatásszervező és a képzésben részt vevő hallgató vagy személy interaktív és távolléti kapcsolattal megvalósuló, teljes értékű on-line és off-line együttműködését.

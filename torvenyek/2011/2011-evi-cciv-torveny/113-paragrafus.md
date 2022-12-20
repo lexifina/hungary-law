@@ -1,4 +1,4 @@
-113. § (1) A nyelvvizsga-bizonyítványt az 1993. évi felsőoktatásról szóló törvény rendelkezései alapján az oklevél kiadásának előfeltételeként akkor kell megkövetelni, ha a képzés indításakor annak meglétét előírták.
+113. § (1)
 
 (2) E törvény hatálybalépése után az, aki igazolja, hogy a felsőoktatási intézményben költségtérítéses, önköltséges képzésben szerzett oklevelet, az jogosult igénybe venni a magyar állami (rész)ösztöndíjas hallgatói képzést. Azoknál, akik 2006. január 1-je után – felsőoktatásban 2006. január 1-je előtt szerzett oklevéllel vagy bizonyítvánnyal – kezdenek újabb felsőfokú tanulmányokat és nem tudják igazolni, hogy tanulmányaikat költségtérítés, önköltség fizetése mellett folytatták, – bármely képzési ciklus esetén – azt kell vélelmezni, hogy hét félévet vettek igénybe államilag támogatott képzésként. E vélelemmel szemben a hallgató, a felsőoktatási intézmény és az oktatási hivatal igazolással élhet.
 

@@ -30,7 +30,9 @@ egészségügyi alkalmassági vizsgálatot írhat elő bármelyik képzési szin
 
 (2a) Ha a nem magyar állampolgár magyarországi tanulmányait távolléti oktatás keretében kezdi meg vagy tanulmányait távolléti oktatás keretében folytatja, hallgatói jogviszonyt létesíthet a (2) bekezdés a) pontja szerinti engedély nélkül is. A hallgatónak a távolléti oktatás keretében megkezdett képzésének nem távolléti oktatás keretében történő folytatását megelőzően be kell szereznie a (2) bekezdés a) pontja szerinti engedélyt és a felsőoktatási intézmény részére be kell mutatnia a felvételi eljárás és a beiratkozás során elektronikusan bemutatott iratai közül azokat, amelyeket a felsőoktatási intézmény előír.
 
-(2a) A (2) bekezdés f)–h) pontja nem alkalmazható a szabad mozgás és tartózkodás jogával rendelkező, a bevándorolt vagy a letelepedett jogállású hallgató esetében.
+(2a)
+
+(2b) A (2) bekezdés f)–h) pontja nem alkalmazható a szabad mozgás és tartózkodás jogával rendelkező, a bevándorolt vagy a letelepedett jogállású hallgató esetében.
 
 (3) A 39. § (1) bekezdés f) pontja szerinti – a miniszter által kiírt pályázatot elnyert – személyek a miniszter által meghatározott létszámban jogosultak magyar állami (rész)ösztöndíjjal támogatott képzésben részt venni.
 

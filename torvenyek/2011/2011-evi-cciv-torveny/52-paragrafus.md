@@ -4,7 +4,7 @@
 
 (3) Az alapképzésben és mesterképzésben, illetve az osztatlan képzésben, szakirányú továbbképzésben, felsőoktatási szakképzésben kiállított oklevél – jogszabályban meghatározottak szerint – munkakör betöltésére, tevékenység folytatására jogosít.
 
-(4) A felsőoktatási szakképzésben az oklevél kiadásának előfeltételeként a képzési és kimeneti követelmény előírhatja a nyelvvizsga letételét.
+(4)
 
 (5) A Magyarországon kiadott oklevelek által tanúsított végzettségi szintek angol és latin nyelvű jelölése:
 

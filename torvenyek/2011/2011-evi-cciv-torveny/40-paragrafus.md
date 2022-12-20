@@ -10,16 +10,18 @@ c) feltétele lehet egészségügyi –, szakmai –, pályaalkalmassági vizsg�
 
 d) feltétele lehet gyakorlati vizsga teljesítése.
 
-(3) A felvételi eljárást megelőzően legalább két évvel
+(3) A felvételi eljárást megelőzően legalább két évvel a miniszter a Magyar Közlöny mellékletét képező Hivatalos Értesítőben közzéteszi:
 
-a) a miniszter hivatalos kiadványként közzéteszi a miniszter által vezetett minisztérium honlapján a felsőoktatási intézménybe történő felvételhez egyes alapszakok esetében az érettségi vizsga teljesítésével kapcsolatos követelményeket,
+a) a felsőoktatási intézménybe történő felvételhez egyes alapszakok és osztatlan mesterképzések esetében a felsőoktatási intézmények meghirdetései során figyelembe vehető a felvételi pontszámítás alapjául szolgáló tantárgyak és az érettségi vizsgatárgyak körét,
 
-b) az azonos szakon képzést folytató felsőoktatási intézmények szakonként egységes alkalmassági, szóbeli felvételi vizsgakövetelményeket határozhatnak meg.
+b) azon alapszakok és osztatlan mesterképzések körét, amelyek esetében gyakorlati vizsga szervezhető.
+
+(3a) A felsőoktatási intézmény a felvételi eljárást megelőzően legalább két évvel közzéteszi felvételi követelményeit.
 
 (4) Mesterképzésre az vehető fel, aki legalább alapképzésben fokozatot és szakképzettséget tanúsító oklevelet szerzett.
 
 (5) Szakirányú továbbképzésre az vehető fel, aki alapképzésben vagy mesterképzésben szerzett fokozattal és szakképzettséggel rendelkezik. Szakirányú továbbképzés esetében felvételi előfeltételként meghatározott munkakör betöltése, meghatározott időtartamú szakmai gyakorlat, további szakképzettség megléte is kiköthető.
 
-(6) Doktori képzésre az vehető fel, aki a mesterképzésben szerzett fokozattal és szakképzettséggel, valamint legalább egy „C” típusú középfokú államilag elismert – középfokú (B2 szintű) általános nyelvi, komplex – vagy azzal egyenértékű nyelvvizsgával rendelkezik.
+(6) Doktori képzésre az vehető fel, aki a mesterképzésben szerzett fokozattal és szakképzettséggel, valamint a doktori iskola szabályzatában meghatározott, a tudományterület műveléséhez szükséges idegen nyelvismerettel rendelkezik.
 
 (7) A mesterképzésre, a szakirányú továbbképzésre és a doktori képzésre történő felvétel további feltételeit a felsőoktatási intézmény határozhatja meg, azzal a megkötéssel, hogy azonos felvételi követelményeket köteles alkalmazni, függetlenül attól, hogy a jelentkező mely felsőoktatási intézményben szerezte az oklevelét.

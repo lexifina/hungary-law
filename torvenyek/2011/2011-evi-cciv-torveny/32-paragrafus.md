@@ -14,6 +14,8 @@ címet adományozhat.
 
 (3) A felsőoktatási intézményben oktatói vagy tanári munkakörben foglalkoztatott, kiemelkedő gyakorlati oktató munkát végző oktató, vagy tanár részére a szenátus mestertanári címet adományozhat.
 
+(3a) A felsőoktatási intézmény szervezeti és működési szabályzata megállapíthatja mindazon tevékenységeket, amelyeket a (2) és (3) bekezdés szerinti címmel rendelkező végezhet.
+
 (4) A (2) bekezdésben meghatározott címmel rendelkező személy – kivételesen, a szenátus döntése alapján – tanári munkakörben foglalkoztatható.
 
 (5) A (2)–(3) bekezdésben meghatározott címek adományozásának és visszavonásának feltételeit, az adományozás rendjét, a címmel járó juttatásokat, a cím visszavonásának rendjét a foglalkoztatási követelményrendszerben kell meghatározni.

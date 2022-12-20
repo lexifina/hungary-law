@@ -24,6 +24,8 @@ f) a képzéssel, illetve doktori fokozatszerzéssel kapcsolatos valamennyi okir
 
 (2) A magyar állami (rész)ösztöndíjjal támogatott képzés keretében – jogszabály eltérő rendelkezésének hiányában – a felsőoktatási intézmény nem kérhet igazgatási szolgáltatási díjat (pl. beiratkozási díj).
 
+(2a) Az állam a szakképzésről szóló törvényben meghatározott szakmai képzéshez kapcsolódó első szakképesítés megszerzését az első képesítő vizsga letételéig az általa, illetve közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott, valamint az egyházi felsőoktatási intézményben ingyenesen biztosítja.
+
 (3) Ha magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgató valamely EGT-államban olyan részképzésben vesz részt, amelyben folytatott tanulmányai a hazai felsőoktatási intézmény képzésébe beszámíthatók, a hallgató a külföldi tanulmányok idejére – a (4) bekezdésben meghatározottak szerint – attól a felsőoktatási intézménytől, amellyel hallgatói jogviszonyban áll, ösztöndíjat kaphat.
 
 (4) A hallgató akkor jogosult az (3) bekezdésben meghatározott ösztöndíjra, ha külföldi tanulmányait a felsőoktatási intézmény hozzájárulásával kezdte meg.

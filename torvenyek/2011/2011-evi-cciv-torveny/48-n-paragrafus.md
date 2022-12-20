@@ -2,7 +2,7 @@
 
 a) a külföldi felsőoktatási intézményben folytatott tanulmányokra,
 
-b) nyelvvizsga-bizonyítvány megszerzése érdekében felnőttképzésben folytatott tanulmányokra
+b)
 
 tekintettel.
 
@@ -10,6 +10,6 @@ tekintettel.
 
 a) a külföldi felsőoktatási intézmény és a külföldön folytatott tanulmányok az adott állam joga szerint felsőoktatási intézménynek és felsőfokú képzésnek számítanak,
 
-b) az oklevél kiadásához szükséges nyelvvizsga-bizonyítvány megszerzése érdekében folytatott tanulmányait felnőttképzési jogviszonyban végzi.
+b)
 
 (3)

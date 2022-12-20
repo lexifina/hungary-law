@@ -10,7 +10,7 @@ b) mesterképzésben a képzési és kimeneti követelményekben meghatározott
 
 (2) Az (1) bekezdésben foglaltakat – a záróvizsga kivételével – nem kell alkalmazni, ha a képzés nyelve nem a magyar nyelv.
 
-(3) Az oklevelet az (1) bekezdés szerinti nyelvvizsgát igazoló okirat bemutatásától számított harminc napon belül kell kiállítani és kiadni annak, aki sikeres záróvizsgát tett. Ha a hallgató a záróvizsga időpontjában már bemutatta azt az okiratot, amely az (1) bekezdésben meghatározott követelmények teljesítését igazolja, az oklevelet a sikeres záróvizsga napjától számított harminc napon belül kell kiállítani és kiadni számára.
+(3)
 
 (4) Oklevél kiállítására csak az e törvény hatálya alá tartozó felsőoktatási intézmény jogosult. Az oklevél megnevezést csak a felsőoktatási intézmények által e törvény alapján kiállított szakképzettséget és – a felsőoktatási szakképzés és a szakirányú továbbképzés kivételével – felsőfokú végzettségi szintet, doktori fokozatot igazoló okiratra lehet használni.
 

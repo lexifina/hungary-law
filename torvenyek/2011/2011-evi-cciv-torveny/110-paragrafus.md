@@ -16,7 +16,7 @@
 
 7. a gyakorlati képzés feltételeit, az ahhoz kapcsolódó díjmentes hallgatói juttatásokat, valamint a külső, nem felsőoktatási intézményi keretek között folyó gyakorlati képzés megvalósítására köthető hallgatói megállapodásra, továbbá a hallgatói munkaszerződésre vonatkozó szabályokat,
 
-8. a felvételhez szükséges érettségi vizsga teljesítésével kapcsolatos követelményeket, az érettségi vizsgatárgyakat, a nyelvi követelményeket, a jelentkezők eredményeinek megfeleltetését, a jelentkezések elbírálási rendjét, a többletteljesítmények, beszámítása, a jelentkezők rangsorolásának, valamint felsőoktatási intézménybe való besorolásának elveit és módját a felsőoktatási felvételi tájékoztatás módját, ezen belül a felvételi feltételek, illetve az alkalmassági követelmények a felvételt legalább két évvel megelőzően történő közzétételének rendjét, a felvételi eljárások igazgatási szolgáltatási díjainak mértékét, befizetésének módját és visszatérítésének feltételeit, azon alapszakokat, amelyek esetében a felvétel gyakorlati vizsga, egészségügyi alkalmassági vizsgálat alkalmazásával történik, továbbá azt, hogy a felsőoktatási intézmények milyen feltételekkel szervezhetnek szóbeli felvételi vizsgát,
+8. a felvételhez szükséges érettségi vizsga teljesítésével kapcsolatos követelményeket, az érettségi vizsgatárgyakat, a a jelentkezők eredményeinek megfeleltetését, a jelentkezések elbírálási rendjét, a a jelentkezők rangsorolásának, valamint felsőoktatási intézménybe való besorolásának elveit és módját a felsőoktatási felvételi tájékoztatás módját, ezen belül a felvételi feltételek, illetve az alkalmassági követelmények közzétételének rendjét, a felvételi eljárások igazgatási szolgáltatási díjainak mértékét, befizetésének módját és visszatérítésének feltételeit, azon továbbá azt, hogy a felsőoktatási intézmények milyen feltételekkel szervezhetnek szóbeli felvételi vizsgát,
 
 9. a felvételi eljárás azon feltételeit, amelyek
 
@@ -84,7 +84,7 @@ g) a záróvizsgák szervezésének rendjét és értékelésének elveit,
 
 25. a habilitációs eljárás rendjét,
 
-26. felsőoktatási intézmény volt oktatójának, óraadó oktatójának adományozható címeket, az adományozás feltételeit.
+26. felsőoktatási intézmény oktatójának, óraadó oktatójának – ideértve a volt oktatót és óraadó oktatót is – adományozható címeket, az adományozás feltételeit.
 
 27. a hallgatói hitel igénybevételének feltételeit és eljárási szabályait, a hitelszerződés megkötésének, a hallgatói hitel kamata meghatározásának, igénylésének, folyósításának, törlesztésének, előtörlesztésének, támogatásának, záró elszámolásának, megszűnésének, továbbá felmondásának részletes szabályait, a Diákhitel szervezet éves beszámoló készítésének és könyvvezetésének sajátosságait, valamint a hallgatói hitelrendszer működtetésének részletes szabályait.
 

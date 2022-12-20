@@ -20,7 +20,7 @@
 
 a) a doktori szabályzat alapján előírt kötelezettségek teljesítése;
 
-b) két idegen nyelv a tudományterület műveléséhez szükséges ismeretének a doktori szabályzatban meghatározottak szerinti igazolása, amely siketek esetében a nem magyar jelnyelv ismeretének az igazolásával is történhet;
+b) egy vagy több idegen nyelv a tudományterület műveléséhez szükséges ismeretének a doktori szabályzatban meghatározottak szerinti igazolása, amely siketek esetében a nem magyar jelnyelv ismeretének az igazolásával is történhet;
 
 c) az önálló tudományos munkásság, sporttudományi tevékenység bemutatása cikkekkel, tanulmányokkal vagy más módon, művészeti (DLA-) fokozat megszerzésének feltételeként önálló művészeti alkotótevékenység eredményeinek bemutatása;
 
