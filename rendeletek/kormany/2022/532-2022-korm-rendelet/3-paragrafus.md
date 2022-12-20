@@ -1,0 +1,3 @@
+## 3. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény egyes rendelkezéseinek végrehajtásáról szóló 363/2011. (XII. 30.) Korm. rendelet módosítása
+
+3. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény egyes rendelkezéseinek végrehajtásáról szóló 363/2011. (XII. 30.) Korm. rendelet [a továbbiakban: 363/2011. (XII. 30.) Korm. rendelet] 6. § (3) bekezdésében az „a felsőoktatásért felelős miniszter és a külpolitikáért felelős miniszter” szövegrész helyébe az „a felsőoktatásért felelős miniszter, a külpolitikáért felelős miniszter és a felnőttképzésért felelős miniszter” szöveg lép.
