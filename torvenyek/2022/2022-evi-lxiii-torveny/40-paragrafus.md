@@ -13,15 +13,3 @@ e) 32. § b), c), e), g) és i)–m) pontja az Alaptörvény 45. cikk (5) bekezd
 f) 33. § c) pontja az Alaptörvény T) cikk (1) bekezdése, XXXI. cikk (3) bekezdése, 45. cikk (5) bekezdése, 52. cikk (5) bekezdése és 54. cikk (8) bekezdése alapján
 
 sarkalatosnak minősül.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
