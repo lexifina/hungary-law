@@ -8,6 +8,10 @@
 
 (3a) Az Egyetem egészségügyi feladatellátására tekintettel használatba kapott, a közfeladat-ellátáshoz szükséges állami tulajdonú ingó vagyontárgyak az Egyetem tulajdonába kerülnek.
 
+(3b) A Nemzeti Földalapról szóló törvény szerinti közös tulajdonosi joggyakorlás alatt álló ingatlanokról szóló kormányrendelet szerinti minősítési eljárást követően a Debrecen külterület 01062/2, 015/2, 0212/3, 0212/4, 0319/3, valamint a Kisvárda külterület 0121/7, valamint a Nagykálló külterület 0475, 0488 helyrajzi számú állami tulajdonban lévő ingatlanok Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló kivett alrészletei az 5/A. § szabályai szerint az Egyetem vagyonkezelésébe kerülnek, azzal, hogy a vagyonkezelés kiterjed a telekalakítást követően létrejövő ingatlanokra.
+
+(3c) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, Debrecen belterület 19552 helyrajzi számú állami tulajdonban álló ingatlanból telekmegosztással létrejövő ingatlanokat ingyenesen, nyilvántartási értéken történő átvezetéssel – e §-ban foglaltak alkalmazásával – az Egyetem tulajdonába kell adni, azzal, hogy az Egyetem az ingatlant terhelő kötelezettségeket teljes körűen átvállalja.
+
 (4) A (3) és (3a) bekezdés szerint átszálló ingóságokról és egyéb vagyonelemekről jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok és egyéb vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
 (5) Az ingatlan tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
@@ -22,4 +26,6 @@
 
 (10) Ha az Egyetem a tulajdonába adott üzletrészeket elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítványnak az Egyetem útján ellátott közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladatainak ellátására kell fordítani.
 
-(11) A Debrecen 66003/10 helyrajzi számú ingatlant az állam tulajdonszerzését és a helyrajzi számon folyamatban lévő beruházás megvalósulását követően – az (1)–(10) bekezdés, valamint a 6. § szerint – ingyenesen az Egyetem tulajdonába kell adni.
+(11) A Debrecen 66003/10 helyrajzi számú ingatlant ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kell adni. Az ingatlan tulajdonjogának átruházásával egyidejűleg az ingatlanra megtervezett kézilabda munkacsarnok engedélyes és kiviteli terveit ingyenesen az Egyetem tulajdonába kell adni a beruházás ütemezett megvalósítása céljából.
+
+(12) Az olyan szerződéseket, amelyek ingatlanhoz kapcsolódóan lejáratkor vagyonnövekményt keletkeztetnek a szerződés eredeti szövege szerint a Magyar Állam javára az Egyetem vagyonkezelői jogának kikötése mellett, a fenntartóváltásra tekintettel akképp kell értelmezni, hogy az Egyetem vagyonszerzéséről rendelkeznek a szerződésben vagy szerződésekben szereplő felépítmény jellegű ingatlan, ingatlanok és ingóságok vonatkozásában, ha a vonatkozó ingatlan az Egyetem tulajdonába került.

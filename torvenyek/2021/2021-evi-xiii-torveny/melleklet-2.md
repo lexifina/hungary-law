@@ -322,6 +322,28 @@ kivett beruházási célterület
 
 |
 
+15a.
+
+|
+
+DEBRECEN
+
+|
+
+0204/43
+
+|
+
+1/1
+
+|
+
+kivett közforgalom elől
+
+el nem zárt magánút
+
+|
+
 16
 
 |
