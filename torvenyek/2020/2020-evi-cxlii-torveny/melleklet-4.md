@@ -86,19 +86,11 @@ kivett lakóház, udvar, út
 
 |
 
-BÁRDUDVARNOK
+|
 
 |
 
-0460/28/a
-
 |
-
-1/1
-
-|
-
-legelő és vendégház
 
 |
 

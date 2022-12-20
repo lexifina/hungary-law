@@ -10,7 +10,17 @@
 
 (5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg a közfeladat ellátására rendelkezésre álló, a jogelőd központi költségvetési szerv vagyonkezelésében lévő, valamint a Debreceni Egyetem Agrár Kutatóintézetek és Tangazdaság Karcagi Kutatóintézet által használt állami tulajdonú ingó vagyontárgyak az Egyetem tulajdonába kerülnek.
 
+(5a) Az (1) bekezdés szerinti ingatlanjuttatásra tekintettel a közfeladat ellátására rendelkezésre álló
+
+a) a 2021. január 31-e előtt a Nemzeti Agrárkutatási és Innovációs Központ központi költségvetési szerv vagyonkezelésében volt, az AKI Agrárközgazdasági Intézet Nonprofit Korlátolt Felelősségű Társaság, valamint a Soproni Egyetem feladatellátásához át nem adott ingó vagyontárgyak, valamint
+
+b) a Gödöllő belterület 5880 helyrajzi számú ingatlanban található, illetve ahhoz kapcsolódó ingó vagyontárgyak
+
+az Egyetem tulajdonába kerülnek.
+
 (6) Az (5) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
+
+(6a) Az (5a) bekezdés szerint átszálló ingóságokról az (5a) bekezdés hatályba lépésétől számított 30 napon belül jegyzőkönyvet kell felvenni, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingó vagyonelemek bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
 (7) A 3. mellékletben meghatározott ingatlanok, illetve ingatlanok tulajdoni hányada tulajdonjogát az Egyetem a terhekkel együtt szerzi meg.
 

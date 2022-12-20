@@ -1,3 +1,3 @@
 ## 4. Az Egyetem génmegőrzési tevékenysége
 
-8. §
+### 8. §
