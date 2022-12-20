@@ -6,6 +6,6 @@
 
 (3) Az információbiztonsági felügyelő határozott időtartamra szóló kirendeléséről és a kirendelés visszavonásáról az e-közigazgatásért felelős miniszter gondoskodik. Az információbiztonsági felügyelő tevékenységének szakmai irányítását az e-közigazgatásért felelős miniszter látja el.
 
-(4) Az információbiztonsági felügyelő az e-közigazgatásért felelős miniszter által vezetett minisztérium kormánytisztviselője, akinek a kormányzati szolgálati jogviszonyára a minisztériumban főosztályvezető-helyettesi munkakörben alkalmazott kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
+(4)
 
 (5) Információbiztonsági felügyelőnek az a személy nevezhető ki, aki rendelkezik a feladatellátáshoz szükséges felsőfokú végzettséggel és szakképzettséggel, valamint legalább 3 év vezetői gyakorlattal.
