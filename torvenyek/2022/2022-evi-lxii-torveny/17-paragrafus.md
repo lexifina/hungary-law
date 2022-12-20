@@ -1,0 +1,5 @@
+17. § A közadatok újrahasznosításáról szóló 2012. évi LXIII. törvény a következő 20/B. §-sal egészül ki:
+
+„20/B. § (1) A 9. § (2) és (4) bekezdése hatálya alá nem tartozó kizárólagos újrahasznosítási jogot biztosító azon megállapodás, amelyet közfeladatot ellátó szerv kötött, és amely 2013. július 17-én hatályban volt, a megállapodás lejártakor, de legkésőbb 2043. július 18-án e törvény erejénél fogva megszűnik.
+
+(2) A 9. § (2) és a (4) bekezdése hatálya alá nem tartozó kizárólagos újrahasznosítási jogot biztosító azon megállapodás, amelyet közvállalkozás kötött, és amely 2019. július 16-án már hatályban volt, a megállapodás lejártakor, de legkésőbb 2049. július 17-én e törvény erejénél fogva megszűnik.”
