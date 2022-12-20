@@ -18,6 +18,6 @@ h) 3. melléklet I. Felsőoktatási intézménytörzs fejezet 1.3. pontjában a 
 
 i) 3. melléklet IV. nyitó szövegrészében a „2006. február 1-jén” szövegrész helyébe a „2006. február 1-jén – kapcsolódó 2005/2006. tavaszi félévvel –” szöveg,
 
-j) 3/A. melléklet II. A képzési és személyi törzs fejezet 2. pont d) alpontjában a „tanúsítvány számát.” szövegrész helyébe a „tanúsítvány számát, a tanúsítvány kiállításának helyszínét, időpontját, valamint kiállítójának nevét és beosztását.” szöveg
+j)
 
 lép.

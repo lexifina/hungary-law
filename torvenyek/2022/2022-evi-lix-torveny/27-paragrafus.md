@@ -1,3 +1,1 @@
-27. § Az Nftv. 26. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az oktató – függetlenül attól, hogy hány felsőoktatási intézményben lát el oktatói feladatot – az intézmény működési feltételei meglétének mérlegelése során – zárt rendszerű elektronikus távolléti oktatás kivételével – egy felsőoktatási intézményben vehető figyelembe. Az oktató írásban adott nyilatkozata határozza meg, hogy melyik az a felsőoktatási intézmény, amelyiknél figyelembe lehet őt venni, illetve más felsőoktatási intézmény által meghirdetett, zárt rendszerű elektronikus távolléti oktatással megvalósuló és videótartalom-kezelőt is alkalmazó tantárgy esetén az oktató írásban adott nyilatkozata alapján kreditenként húsz százalékkal elszámolható az oktató rendelkezésre állása az intézmény működési feltételei meglétének mérlegelése során.”
+### 27. §

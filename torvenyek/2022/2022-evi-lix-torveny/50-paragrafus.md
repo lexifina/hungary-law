@@ -1,5 +1,3 @@
-## „48. vizsga: az ismeretek, készségek és képességek elsajátításának, megszerzésének – értékeléssel egybekötött – ellenőrzési formája, amely projektfeladat megvalósításával is teljesíthető;”
-
 50. § Az Nftv. 69. alcíme a következő 114/O. §-sal egészül ki:
 
 „114/O. § (1) E törvénynek az egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő törvények módosításáról szóló 2022. évi LIX. törvénnyel (a továbbiakban: Módtv5.) megállapított 49/A. §-át, valamint módosított 49. § (8) bekezdését, 50. § (1) bekezdését, 51. § (1) és (2) bekezdését – a (2) és (3) bekezdésben meghatározott kivétellel – a tanulmányaikat a 2022/2023. tanévben és azt követően megkezdő hallgatókra kell alkalmazni.

@@ -7,29 +7,3 @@
 ## ”
 
 4. melléklet a 2022. évi LIX. törvényhez
-
-1. A 2020. évi XXXVIII. törvény 3. mellékletében foglalt táblázat a következő 5. sorral egészül ki:
-
-|
-
-|
-
-(A
-
-|
-
-B
-
-|
-
-(1.
-
-|
-
-Gazdasági társaság megnevezése
-
-|
-
-Átadandó állami tulajdonban álló társasági
-
-részesedés/megjelölése)

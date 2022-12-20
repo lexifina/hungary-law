@@ -1,9 +1,3 @@
-## „
-
-## | 5. | ZalaZONE Ipari Park Szolgáltató Zártkörűen Működő Részvénytársaság | 100%
-
-## ”
-
 5. melléklet a 2022. évi LIX. törvényhez
 
 1. A 2021. évi IX. törvény 1. melléklet A) pontjában foglalt táblázat B:17 mező 2. pontja helyébe a következő rendelkezés lép:
