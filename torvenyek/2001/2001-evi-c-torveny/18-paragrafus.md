@@ -6,7 +6,7 @@
 
 a) a szakképzettség az oklevél által tanúsított alapfokozathoz, mesterfokozathoz, felsőfokú szakképzést, felsőoktatási szakképesítést vagy szakirányú továbbképzést tanúsító oklevélhez kapcsolódik, és
 
-b) megállapítható, hogy a kérelmező képzése megfelel a jogszabály által előírt képzési és kimeneti követelményeknek és a hazai képzés rendjének.
+b) megállapítható, hogy a kérelmező képzése megfelel az előírt képzési és kimeneti követelményeknek és a hazai képzés rendjének.
 
 (2) Az eljáró hatóság a szakképzettség elismerését feltételekhez kötheti. Ha a kérelmező képzése és a megfelelő hazai képesítéshez vezető képzés között alapvető különbség van, az eljáró hatóság előírhatja, hogy a kérelmező
 
@@ -19,6 +19,8 @@ c) tegyen szakmai vizsgát [16. § (3) bekezdés],
 d) tegyen eleget más kiegészítő feltételeknek, ha a külföldi képzés rendje eltér a hazai képzés rendjétől, de a különbség hazai felsőoktatási intézményben kiegészítő vizsgák, kiegészítő képzés teljesítésével kiküszöbölhető, illetve
 
 e) tegyen esküt vagy fogadalmat, ha a szakképzettség hazai gyakorlásához ezt jogszabály előírja.
+
+f) az ápoló, az okleveles kiterjesztett hatáskörű ápoló, az orvos, a fogorvos, illetve a gyógyszerész szakképzettségként történő elismerés céljából teljes munkaidőben egy évig vagy ezzel egyenértékű részmunkaidőben, akkreditált egészségügyi szolgáltatónál, illetve akkreditált gyógyszertárban az egészségügyről szóló törvény szerinti felügyelet melletti, a szakképzettségnek megfelelő tevékenységet folytasson.
 
 (3) Szakmai gyakorlat végzése akkor írható elő, ha azt a hazai képzési és kimeneti követelmények az oklevél megszerzésének feltételeként tartalmazzák. A határozatban rendelkezni kell a szakmai gyakorlat időtartamáról, a gyakorlatot szervező intézményről és az intézménynél történő jelentkezés határidejéről.
 

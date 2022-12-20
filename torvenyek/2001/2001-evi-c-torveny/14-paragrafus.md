@@ -10,7 +10,7 @@
 
 (5) Ha külföldi felsőoktatási intézmény Magyarországon rendszeres alapképzést, mesterképzést, szakirányú vagy doktori képzést (önállóan, más szervezet keretében vagy azzal együttműködve, távoktatás keretében vagy más hasonló módon) folytat, akkor oklevelét akkor lehet elismerni, ha hazai működését az oktatási hivatal engedélyezte.
 
-(6) Ha külföldi felsőoktatási intézmény rendszeres alapképzést, szakirányú vagy doktori képzést (önállóan, más szervezet keretében vagy azzal együttműködve, távoktatás keretében vagy más hasonló módon) a székhelyétől eltérő államban folytat, oklevelét akkor lehet elismerni, ha a képzést mindkét államban elismerik.
+(6) Ha külföldi felsőoktatási intézmény rendszeres alapképzést, mesterképzést, szakirányú vagy doktori képzést (önállóan, más szervezet keretében vagy azzal együttműködve, távoktatás keretében vagy más hasonló módon) a székhelyétől eltérő államban folytat, oklevelét akkor lehet elismerni, ha a képzést mindkét államban elismerik.
 
 (7) A külföldi közös fokozatot tanúsító oklevél a 14/A. § (1)–(3) bekezdésének megfelelő alkalmazásával abban az esetben ismerhető el hazai felsőoktatási intézményben megszerezhető felsőfokú végzettségi szintet tanúsító oklevélként, ha
 

@@ -6,13 +6,13 @@
 
 (3) A külföldi oklevelek által tanúsított tudományos fokozat e törvény III. Fejezete szerinti honosítása azon hazai felsőoktatási intézmény feladata, amely a felsőoktatásról szóló törvény (a továbbiakban: Ftv.) szerint a külföldi oklevélnek megfelelő tudományágban vagy művészeti ágban doktori fokozat odaítélésére jogosult.
 
-(4) A kérelmező valamely külföldi képzés sikeres elvégzését tanúsító okiratának hazai felsőoktatási intézményben foglalkoztatott oktató vagy tudományos kutató képesítésként történő, a Harmadik rész szerinti elismerése azon hazai felsőoktatási intézmény feladata, amely a külföldi képzés sikeres elvégzését tanúsító okirattal rendelkező kérelmezőt foglalkoztatni kívánja.
+(4)
 
 (4a) A kérelmező külföldi oklevelének hazai felsőoktatási intézmény oktatói vagy tudományos kutatói munkakörének betöltése céljából a 14/A. § (2) bekezdése szerint hazai mesterfokozatként történő elismerése azon hazai felsőoktatási intézmény feladata, amely a külföldi oklevéllel rendelkező kérelmezőt foglalkoztatni kívánja.
 
 (5)
 
-(6) A külföldi oklevelek által tanúsított hitéleti képzés szakképzettségének elismerése az olyan hazai vallási közösség által fenntartott felsőoktatási intézmény hatásköre, amely a megfelelő hazai oklevél kiállítására jogosult.
+(6) A külföldi oklevelek által tanúsított szakképzettség hitéleti szakon megszerezhető szakképzettségként történő elismerése az olyan hazai vallási közösség által fenntartott felsőoktatási intézmény hatásköre, amely a megfelelő hazai oklevél kiállítására jogosult.
 
 (7) Külföldön folytatott résztanulmányok beszámítása annak az oktatási intézménynek a hatásköre, amelyben a kérelmező a tanulmányait folytatni szándékozik.
 
