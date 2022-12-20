@@ -1,0 +1,1 @@
+8/B. § Az átszálló ingóságokról jegyzőkönyvet kell felvenni a rendelkezés hatályba lépésétől számított 30 napon belül, amelyet az átadó és az átvevő képviseletére jogosult személy ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
