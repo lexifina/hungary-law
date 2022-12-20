@@ -14,5 +14,12 @@
 
 (8)[^2] A 2020/2021. tanévben megkezdett mesterképzésben folytatott tanulmányokra tekintettel meghatározott idegennyelvi követelmény a Mód. Korm. rendelet alapján is teljesíthető.
 
+(9)[^3] Az egyes kormányrendeleteknek a Nemzeti Közszolgálati Egyetem felsőoktatási szakmai tevékenysége elősegítését célzó módosításáról szóló 532/2022. (XII. 19.) Korm. rendelettel (a továbbiakban: MódR.) módosított 2. és 3. mellékletében meghatározott idegennyelvi követelményt a tanulmányaikat a MódR. hatálybalépését[^4] megelőzően megkezdett személyek tekintetében is alkalmazni kell, ha az rájuk nézve kedvezőbb.
+
+(10)[^5] A MódR. által meghatározott 2. melléklet 9–13. alcíme szerinti képzési és kimeneti követelményeket első alkalommal a tanulmányaikat 2023/2024. tanévtől megkezdő személyek tekintetében kell alkalmazni, felmenő rendszerben.
+
 [^1]: A 9. § (7) bekezdését az 544/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be.
 [^2]: A 9. § (8) bekezdését az 544/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be.
+[^3]: A 9. § (9) bekezdését az 532/2022. (XII. 19.) Korm. rendelet 5. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2022. december 20.
+[^5]: A 9. § (10) bekezdését az 532/2022. (XII. 19.) Korm. rendelet 5. §-a iktatta be.

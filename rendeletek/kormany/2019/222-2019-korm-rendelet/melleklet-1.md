@@ -1,8 +1,6 @@
-## 10. §[^3]
-
 1. melléklet a 222/2019. (IX. 25.) Korm. rendelethez
 
-## A VÉGZETTSÉGI SZINTEKET AZ ÁLLAMTUDOMÁNYI KÉPZÉSI TERÜLETEN LEÍRÓ ÁLTALÁNOS JELLEMZŐK, KOMPETENCIÁK
+A VÉGZETTSÉGI SZINTEKET AZ ÁLLAMTUDOMÁNYI KÉPZÉSI TERÜLETEN LEÍRÓ ÁLTALÁNOS JELLEMZŐK, KOMPETENCIÁK
 
 1. Az alapképzésben szerezhető végzettségi szint jellemzői
 
@@ -165,5 +163,3 @@ d) autonómiája és felelőssége
 - Bekapcsolódik kutatási és fejlesztési projektekbe, a projektcsoportban a cél elérése érdekében autonóm módon, a csoport többi tagjával együttműködve mozgósítja elméleti és gyakorlati tudását, képességeit.
 
 - Különböző bonyolultságú és különböző mértékben kiszámítható kontextusokban a módszerek és technikák széles körét alkalmazza önállóan a gyakorlatban.
-
-[^3]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

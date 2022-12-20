@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-222-20-
 | 2019-12-31 | 2019-222-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2020-01-01 | 2019-222-20-22.3 | 2010: CXXX. törvény |
 | 2020-12-03 | 2019-222-20-22.4 | 544/2020. (XII. 2.) Korm. rendelet |
+| 2022-12-20 | 2019-222-20-22.5 | 532/2022. (XII. 19.) Korm. rendelet |

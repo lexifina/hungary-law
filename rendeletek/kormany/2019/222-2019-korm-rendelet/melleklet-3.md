@@ -3120,7 +3120,7 @@
 
 ## 8.2. Idegennyelvi követelmény
 
-## Az alapfokozat megszerzéséhez az Európai Unióban hivatalos idegen nyelvek egyikéből, ukrán, szerb, beás, lovári, orosz vagy kínai nyelvből államilag elismert, legalább középfokú (B2) komplex típusú nyelvvizsga vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
+## Az alapfokozat megszerzéséhez az Európai Unióban hivatalos idegen nyelvek egyikéből, ukrán, szerb, beás, lovári, orosz vagy kínai nyelvből államilag elismert, legalább középfokú (B2) komplex típusú nyelvvizsga vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges. Ettől eltérően az alapfokozat megszerzéséhez a külföldi, azaz magyar állampolgársággal nem rendelkező személyek esetében az alapfokozat megszerzéséhez egy élő idegen nyelvből államilag elismert, legalább középfokú (B2) komplex típusú nyelvvizsga vagy ezzel egyenértékű érettségi bizonyítvány vagy oklevél megszerzése szükséges.
 
 ## 8.3. A szakmai gyakorlat követelményei
 
@@ -3542,7 +3542,7 @@
 
 ## - a szak orientációja: kiegyensúlyozott (40–60%)
 
-## - a szakdolgozat készítéséhez rendelt kreditérték: 14 kredit
+## - a szakdolgozat készítéséhez rendelt kreditérték: 10 kredit
 
 ## - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 12 kredit
 
@@ -3558,73 +3558,91 @@
 
 ## a) tudása
 
-## - Átfogóan ismeri a nemzetközi − Európai Unió, Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO), Egyesült Nemzetek Szervezete (a továbbiakban: ENSZ) − környezetben, háborús és békeműveleti helyzetekben, különböző vallási, etnikai és kulturális területen való feladat-végrehajtás feladatait.
+## – Ismeri a katonai terminológia raj, szakasz, század szintű alapfogalmait, szakkifejezéseit, a térképi ábrázolás szabályait.
 
-## - Átfogó módon rendelkezik az első tiszti beosztás ellátásához szükséges jogi ismeretekkel.
+## – Ismeri az alegység szintű Észak-atlanti Szerződés Szervezete (a továbbiakban: NATO) harcászati egyezményes jeleit, a terep tanulmányozását és értékelését, a parancsnoki tereptájékoztató tartalmát.
 
-## - Behatóan ismeri a harctevékenységi fajtákat, továbbá a harccal kapcsolatos tevékenységek feladatait.
+## – Ismeri a gyalogos lövész harcászat alapjait, sajátosságait nappal és éjszaka, valamint az erők megóvásának rendszabályait.
 
-## - Ismeri az összfegyvernemi harc támogatásának és kiszolgáló támogatásának alapvető feladatait.
+## – Átfogóan ismeri a szakasz szintű harcvezetés okmányrendszerét, azok vezetésének szabályait.
 
-## - Átfogóan ismeri a szakasz (század) szinten az atom, biológiai és vegyi (a továbbiakban: ABV) rendszabályok alkalmazásának rendszerét.
+## – Részletesen ismeri a gyalogos lövész raj és lövész szakasz harc és harccal kapcsolatos tevékenységeit, a harctámogatás és harckiszolgáló támogatások lehetőségeit, rendjét és feladatait.
 
-## - Meghatározó módon ismeri a rögtönzött robbanóeszközök (improvised explosive device - IED) jellemző tulajdonságait és az ellenük való tevékenység rendszabályait.
+## – Átfogóan ismeri a küldetésalapú vezetést, a raj, szakasz vezetésének rendjét a védelmi, a támadó harc megvívásának időszakában.
 
-## - Átfogóan ismeri a szakasz (század) kiképzéséhez szükséges szakmódszertant.
+## – Átfogóan ismeri a nemzetközi − Európai Unió, NATO, Egyesült Nemzetek Szervezete (a továbbiakban: ENSZ) − környezetben, háborús és békeműveleti helyzetekben különböző vallási, etnikai és kulturális területen való feladat-végrehajtás feladatait.
 
-## - Részletekbe menően ismeri a szakasz (század) békevezetési okmányait és az azok vezetéséhez szükséges ismereteket.
+## – Átfogó módon rendelkezik az első tiszti beosztás ellátásához szükséges jogi ismeretekkel.
 
-## - Átfogóan rendelkezik a szakasz (század) rendszeresített fegyverzeti, haditechnikai eszközeinek és harcanyagainak ismeretével.
+## – Behatóan ismeri a harctevékenységi fajtákat, továbbá a harccal kapcsolatos tevékenységek feladatait.
 
-## - Részletekbe menően ismeri szakasz (század) szinten a műszaki-zárási, az erődítési-álcázási, és a robbantási alapismereteket.
+## – Ismeri az összfegyvernemi harc támogatásának és kiszolgáló támogatásának alapvető feladatait.
 
-## - Behatóan ismeri a Magyar Honvédség katasztrófavédelmi feladatai megoldásához való hozzájárulás alegységszintű elméleti és gyakorlati feladatait.
+## – Átfogóan ismeri szakasz (század) szinten az atom, biológiai és vegyi (a továbbiakban együtt: ABV) rendszabályok alkalmazásának rendszerét.
 
-## - Rendelkezik korszerű katonai térképészeti, tereptani és katonaföldrajzi ismeretekkel.
+## – Meghatározó módon ismeri a rögtönzött robbanóeszközök (improvised explosive device – IED) jellemző tulajdonságait és az ellenük való tevékenység rendszabályait.
 
-## - Ismeri a szakasz (század) kommunikációs, híradó és informatikai eszközeit, informatikai alkalmazói feladatait.
+## – Átfogóan ismeri a szakasz (század) kiképzéséhez szükséges szakmódszertant.
 
-## - Ismeri az alapvető egészség- és járványügyi, valamint sebesültellátási feladatokat.
+## – Részletekbe menően ismeri a szakasz (század) békevezetési okmányait és az azok vezetéséhez szükséges ismereteket.
 
-## - Meghatározó módon rendelkezik magabiztos angol katonai szaknyelvi kommunikációs készségekkel.
+## – Átfogóan rendelkezik a szakasz (század) rendszeresített fegyverzeti, haditechnikai eszközeinek és harcanyagainak ismeretével.
 
-## - Átfogóan ismeri a korszerű teljesítményértékelési és a beosztottakat motiváló eljárásokat.
+## – Részletekbe menően ismeri szakasz (század) szinten a műszaki-zárási, az erődítési-álcázási és a robbantási alapismereteket.
 
-## - Alapvetően ismeri a médiával kapcsolatos eljárásokat.
+## – Behatóan ismeri a Magyar Honvédség katasztrófavédelmi feladatai megoldásához való hozzájárulás alegységszintű elméleti és gyakorlati feladatait.
 
-## - Ismeri a Magyar Honvédség haderőnemeinek felépítését és alkalmazásának elveit.
+## – Rendelkezik korszerű katonai térképészeti, tereptani és katonaföldrajzi ismeretekkel.
 
-## - Ismeri általánosan a szárazföldi haderőnem harcászati szintű összfegyvernemi kötelékek összhaderőnemi műveleti környezetben történő alkalmazási elveit.
+## – Ismeri a szakasz (század) kommunikációs, híradó és informatikai eszközeit, informatikai alkalmazói feladatait.
 
-## - Részletekbe menően ismeri a felderített célokra tüzérségi tűz kérését, tüzérségi tűz hatásosságának megfigyelését, a tűz helyesbítését.
+## – Ismeri az alapvető egészség- és járványügyi, valamint sebesültellátási feladatokat.
+
+## – Meghatározó módon rendelkezik magabiztos angol katonai szaknyelvi kommunikációs készségekkel.
+
+## – Átfogóan ismeri a korszerű teljesítményértékelési és a beosztottakat motiváló eljárásokat.
+
+## – Alapvetően ismeri a médiával kapcsolatos eljárásokat.
+
+## – Ismeri a Magyar Honvédség haderőnemeinek felépítését és alkalmazásának elveit.
+
+## – Ismeri általánosan a szárazföldi haderőnem harcászati szintű összfegyvernemi kötelékek összhaderőnemi műveleti környezetben történő alkalmazási elveit.
+
+## – Részletekbe menően ismeri a felderített célokra tüzérségi tűz kérését, tüzérségi tűz hatásosságának megfigyelését, a tűz helyesbítését.
 
 ## b) képességei
 
-## - Képes a harcászati ismereteinek, a szakasz és századszintű harcászat alapfogalmainak, alapelveinek gyakorlati alkalmazására.
+## – Képes a gyalogos lövész alegység részére harcparancs kiadására szóban és terepasztalon.
 
-## - Meghatározó módon rendelkezik a katonai alegység (szakasz) vezetésére alkalmas szakmai tudással.
+## – Képes a gyalogos lövész szakasz adminisztratív és harci menetének, védelmi és támadó harcának megtervezésére, megszervezésére és vezetésére különböző terep- és időjárási viszonyok között.
 
-## - Képes a rábízott alegység békeidőszaki és békétől eltérő körülmények közötti vezetésére.
+## – Képes az egyéni és tűzpár lövész szakgyakorlatok, illetve a gyalogos lövész raj és lövész szakasz kötelék lőgyakorlatok végrehajtására védelemben és támadásban.
 
-## - Képes az első tiszti beosztás ellátásához szükséges jogok, kötelezettségek, parancsadási és fegyelmi jogkörök gyakorlására.
+## – Képes a harcászati ismereteinek, a szakasz és századszintű harcászat alapfogalmainak, alapelveinek gyakorlati alkalmazására.
 
-## - Képes a rábízott alegység (szakasz) készenlétének fenntartására, fokozására vonatkozó rendszabályok betartására és betartatására.
+## – Meghatározó módon rendelkezik a katonai alegység (szakasz) vezetésére alkalmas szakmai tudással.
 
-## - Képes a rábízott alegység harc és harccal kapcsolatos tevékenységének megtervezésére, megszervezésére és vezetésére.
+## – Képes a rábízott alegység békeidőszaki és békétől eltérő körülmények közötti vezetésére.
 
-## - Képes a szakasz kiképzéséhez szükséges szakmódszertani ismeretek alkalmazására.
+## – Képes az első tiszti beosztás ellátásához szükséges jogok, kötelezettségek, parancsadási és fegyelmi jogkörök gyakorlására.
 
-## - Képes a szakasznál rendszeresített fegyverzeti és fegyverzettechnikai eszközök alkalmazására és üzemeltetésére.
+## – Képes a rábízott alegység (szakasz) készenlétének fenntartására, fokozására vonatkozó rendszabályok betartására és betartatására.
 
-## - Képes a terepen való tájékozódásra és a tájékozódást segítő eszközök alkalmazására.
+## – Képes a rábízott alegység harc és harccal kapcsolatos tevékenységének megtervezésére, megszervezésére és vezetésére.
 
-## - Képes más fegyvernemekkel és szakalegységekkel való együttműködésre.
+## – Képes a szakasz kiképzéséhez szükséges szakmódszertani ismeretek alkalmazására.
 
-## - Képes a rögtönzött robbanóeszköz (IED) veszélyes környezetben való kezelésére.
+## – Képes a szakasznál rendszeresített fegyverzeti és fegyverzettechnikai eszközök alkalmazására és üzemeltetésére.
 
-## - Képes a szakasz (század) rendszeresített fegyverzeti és fegyverzettechnikai eszközeinek alkalmazására, üzemeltetésére.
+## – Képes a terepen való tájékozódásra és a tájékozódást segítő eszközök alkalmazására.
 
-## - Képes a szakasz (század) harci és békevezetési okmányainak vezetésére.
+## – Képes más fegyvernemekkel és szakalegységekkel való együttműködésre.
+
+## – Képes a rögtönzött robbanóeszköz (IED) veszélyes környezetben való kezelésére.
+
+## – Képes a szakasz (század) rendszeresített fegyverzeti és fegyverzettechnikai eszközeinek alkalmazására, üzemeltetésére.
+
+## – Képes a szakasz (század) harci és békevezetési okmányainak vezetésére.
 
 ## c) attitűdje
 
@@ -4092,21 +4110,21 @@
 
 ## 8.1.1. A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak felépül:
 
-## - műveltség, kultúra, értékek modul (bölcsészettudomány, társadalomtudomány) 4-8 kredit,
+## – műveltség, kultúra, értékek modul (bölcsészettudomány, társadalomtudomány) 4–8 kredit,
 
-## - államtudományi modul (állam- és jogtudomány, hadtudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5-20 kredit,
+## – államtudományi modul (állam- és jogtudomány, hadtudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5–20 kredit,
 
-## - egyetemi közös közszolgálati gyakorlat 2-4 kredit,
+## – egyetemi közös közszolgálati gyakorlat 2–4 kredit,
 
-## - katonai alapismeretek 8-16 kredit,
+## – általános katonai és gyalogos tiszti felkészítés 28–40 kredit,
 
-## - gazdasági és humán ismeretek 10-14 kredit,
+## – gazdasági és humán ismeretek 10–14 kredit,
 
-## - természettudományos alapismeretek 16-24 kredit,
+## – természettudományos alapismeretek 16–24 kredit,
 
-## - általános és katonai vezetéstudományi alapismeretek 20-24 kredit,
+## – általános és katonai vezetéstudományi alapismeretek 20–24 kredit,
 
-## - hadtudományi alapismeretek (térinformatika, katonai térképészeti ismeretek, a nemzeti katonai értékrend, hagyományok és az egyetemes és magyar hadtörténelem, valamint az összfegyvernemi és fegyvernemi harcászat alapismeretei, haditechnika, katonapedagógia, hadijog, logisztikai ismeretek, testnevelés) 40-60 kredit.
+## – hadtudományi alapismeretek 30–34 kredit.
 
 ## 8.1.2. Sajátos kompetenciákat eredményező, választható specializációk és azok szakterületi ismeretei:
 
@@ -4186,7 +4204,7 @@
 
 ## 8.3. A szakmai gyakorlat követelményei
 
-## Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább nyolc hét időtartamú. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
+## Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább négy hét időtartamú. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
 
 ## 10. KATONAI GAZDÁLKODÁSI ALAPKÉPZÉSI SZAK
 
@@ -4226,59 +4244,77 @@
 
 ## a) tudása
 
-## - Ismeri a harc megvívásával kapcsolatos alapismereteket, annak főbb jellemzőit, a harctámogatás, a harckiszolgáló támogatás, a haderőnemek, a fegyvernemek és szakcsapatok szervezeti felépítését, harceljárásait.
+## – Ismeri a katonai terminológia raj, szakasz, század szintű alapfogalmait, szakkifejezéseit, a térképi ábrázolás szabályait.
 
-## - Rendelkezik alapvető vezetői ismeretekkel, tisztában van a vezetői kompetenciákkal és a beosztottak eredményes irányításához szükséges alapvető ismeretekkel, valamint a beosztottakat motiváló képességekkel.
+## – Ismeri az alegység szintű NATO harcászati egyezményes jeleket, a terep tanulmányozását és értékelését, a parancsnoki tereptájékoztató tartalmát.
 
-## - Ismeri a katonai kommunikáció, hírközlés alapvető elveit és eszközeit, a titokvédelem és információbiztonság szabályait.
+## – Ismeri a gyalogos lövész harcászat alapjait, sajátosságait nappal és éjszaka, valamint az erők megóvásának rendszabályait.
 
-## - Átfogóan ismeri az adott képzési terület tárgykörének alapvető tényeit, irányait és határait.
+## – Átfogóan ismeri a szakasz szintű harcvezetés okmányrendszerét, azok vezetésének szabályait.
 
-## - Ismeri a szakterületéhez kötődő legfontosabb összefüggéseket, elméleteket és az ezeket felépítő fogalomrendszert.
+## – Részletesen ismeri a gyalogos lövész raj és lövész szakasz harc és harccal kapcsolatos tevékenységeit, a harctámogatás és harckiszolgáló támogatások lehetőségeit, rendjét és feladatait.
 
-## - Ismeri a gazdálkodástudomány legalapvetőbb fogalmait, elméleteit, a nemzetgazdasági és nemzetközi összefüggéseit.
+## – Átfogóan ismeri a küldetésalapú vezetést, a raj, szakasz vezetésének rendjét a védelmi, a támadó harc megvívásának időszakában.
 
-## - Elsajátította a gazdaság mikro és makro szerveződési szintjeinek alapvető elméleteit és jellemzőit, birtokában van az alapvető információgyűjtési, matematikai és statisztikai elemzési módszereknek.
+## – Ismeri a harc megvívásával kapcsolatos alapismereteket, annak főbb jellemzőit, a harctámogatás, a harckiszolgáló támogatás, a haderőnemek, a fegyvernemek és szakcsapatok szervezeti felépítését, harceljárásait.
 
-## - Ismeri a pénzügyi és a számviteli alapfogalmakat, a pénzügyi termékeket és piacokat, a számviteli információs rendszert, a beszámoló részeit, valamint az azt alátámasztó könyvelési folyamatokat.
+## – Rendelkezik alapvető vezetői ismeretekkel, tisztában van a vezetői kompetenciákkal és a beosztottak eredményes irányításához szükséges alapvető ismeretekkel, valamint rendelkezik a beosztottakat motiváló képességekkel.
 
-## - Ismeri az államháztartás feladatait és felépítését, a költségvetési gazdálkodás alapvető törvényszerűségeit.
+## – Ismeri a katonai kommunikáció, hírközlés alapvető elveit és eszközeit, a titokvédelem és az információbiztonság szabályait.
 
-## - Ismeri a költségvetési szerveknél a különböző gazdasági folyamatok tervezésének, szervezésének, irányításának, elemzésének és értékelésének módszereit.
+## – Átfogóan ismeri az adott képzési terület tárgykörének alapvető tényeit, irányait és határait.
 
-## - Részletesen ismeri a katonai logisztikai gazdálkodás feladatait, valamint annak eszköz- és információs rendszerét.
+## – Ismeri a szakterületéhez kötődő legfontosabb összefüggéseket, elméleteket és az ezeket felépítő fogalomrendszert.
 
-## - Elsajátította az általános és specifikus katonai pénzügyi, gazdálkodási, vezetői ismereteket.
+## – Ismeri a gazdálkodástudomány legalapvetőbb fogalmait, elméleteit, a nemzetgazdasági és nemzetközi összefüggéseit.
 
-## - Birtokában van azon ismereteknek, amelyek a Magyar Honvédségnél, a nemzetbiztonsági szolgálatoknál és a rendvédelmi feladatokat ellátó szerveknél pénzügyi, számviteli, gazdálkodási, nyilvántartási, elemzési, ellenőrzési feladatok önálló elvégzésére irányulnak.
+## – Elsajátította a gazdaság mikro és makro szerveződési szintjeinek alapvető elméleteit és jellemzőit, birtokában van az alapvető információgyűjtési, matematikai és statisztikai elemzési módszereknek.
 
-## - Ismeri a szakalegységek alaprendeltetéséből fakadó vezetési munkák végrehajtásának feladatait a békeidőszaki honvédelmi, a béketámogató, valamint háborús tevékenységekben.
+## – Ismeri a pénzügyi és a számviteli alapfogalmakat, a pénzügyi termékeket és piacokat, a számviteli információs rendszert, a beszámoló részeit, valamint az azt alátámasztó könyvelési folyamatokat.
 
-## - Birtokában van azon ismeretek körének, amelyek szükségesek az adott és más képzési területen folyó mesterképzésbe való belépéshez.
+## – Ismeri az államháztartás feladatait és felépítését, a költségvetési gazdálkodás alapvető törvényszerűségeit.
+
+## – Ismeri a költségvetési szerveknél a különböző gazdasági folyamatok tervezésének, szervezésének, irányításának, elemzésének és értékelésének módszereit.
+
+## – Részletesen ismeri a katonai logisztikai gazdálkodás feladatait, valamint annak eszköz- és információs rendszerét.
+
+## – Elsajátította az általános és specifikus katonai pénzügyi, gazdálkodási, vezetői ismereteket.
+
+## – Birtokában van azon ismereteknek, amelyek a Magyar Honvédségnél, a nemzetbiztonsági szolgálatoknál és a rendvédelmi feladatokat ellátó szerveknél pénzügyi, számviteli, gazdálkodási, nyilvántartási, elemzési, ellenőrzési feladatok önálló elvégzésére irányulnak.
+
+## – Ismeri a szakalegységek alaprendeltetéséből fakadó vezetési munkák végrehajtásának feladatait a békeidőszaki honvédelmi, a béketámogató, valamint háborús tevékenységekben.
+
+## – Birtokában van azon ismeretek körének, amelyek szükségesek az adott és más képzési területen folyó mesterképzésbe való belépéshez.
 
 ## b) képességei
 
-## - Képes a szakmai terminológia magyar és idegen nyelven történő alkalmazására.
+## – Képes a gyalogos lövész alegység részére harcparancs kiadására szóban és terepasztalon.
 
-## - Képes a munkaköréhez és feladataihoz kapcsolódó jogszabályi háttér értelmezésére és gyakorlati alkalmazására.
+## – Képes a gyalogos lövész szakasz adminisztratív és harci menetének, védelmi és támadó harcának megtervezésére, megszervezésére és vezetésére különböző terep- és időjárási viszonyok között.
 
-## - Képes a munkaköréhez kapcsolódó dokumentumok, nyomtatványok, jegyzőkönyvek, feljegyzések és emlékeztetők önálló elkészítésére, okmányok kitöltésére, a munkaköréhez kapcsolódó események szervezésére, technikai előkészítésére.
+## – Képes az egyéni és tűzpár lövész szakgyakorlatok, illetve a gyalogos lövész raj és lövész szakasz kötelék lőgyakorlatok végrehajtására védelemben és támadásban.
 
-## - Képes a csapatgazdálkodás tervezésére, szervezésére, irányítására és vezetésére.
+## – Képes a szakmai terminológia magyar és idegen nyelven történő alkalmazására.
 
-## - Képes a közgazdasági, szakmai, pedagógiai, vezetéselméleti ismeretek elsajátítására, alkalmazására és beosztottjainak történő átadására.
+## – Képes a munkaköréhez és feladataihoz kapcsolódó jogszabályi háttér értelmezésére és gyakorlati alkalmazására.
 
-## - Képes szakterületén újító és innovatív ötletek megfogalmazására.
+## – Képes a munkaköréhez kapcsolódó dokumentumok, nyomtatványok, jegyzőkönyvek, feljegyzések és emlékeztetők önálló elkészítésére, okmányok kitöltésére, a munkaköréhez kapcsolódó események szervezésére, technikai előkészítésére.
 
-## - Képes pontos és precíz logisztikai, illetve gazdálkodási számvetéseket készíteni.
+## – Képes a csapatgazdálkodás tervezésére, szervezésére, irányítására és vezetésére.
 
-## - Képes a szakterületén alkalmazott nyilvántartó és vezetéstámogató informatikai rendszerek használatára.
+## – Képes a közgazdasági, szakmai, pedagógiai, vezetéselméleti ismeretek elsajátítására, alkalmazására és beosztottjainak történő átadására.
 
-## - Képes beosztottjai általános katonai és szakmai vezetésére, munkájuk hatékony megszervezésére.
+## – Képes szakterületén újító és innovatív ötletek megfogalmazására.
 
-## - Képesek a Magyar Honvédség, a nemzetbiztonsági szolgálatok és a rendvédelmi feladatot ellátó szervek pénzügyi, számviteli, gazdálkodási, nyilvántartási, elemzési és ellenőrzési feladatainak önálló elvégzésére.
+## – Képes pontos és precíz logisztikai, illetve gazdálkodási számvetéseket készíteni.
 
-## - Képes a honvédekkel szemben támasztott mindenkori fizikai és pszichikai követelményeknek megfelelni.
+## – Képes a szakterületén alkalmazott nyilvántartó és vezetéstámogató informatikai rendszerek használatára.
+
+## – Képes beosztottjai általános katonai és szakmai vezetésére, munkájuk hatékony megszervezésére.
+
+## – Képesek a Magyar Honvédség, a nemzetbiztonsági szolgálatok és a rendvédelmi feladatot ellátó szervek pénzügyi, számviteli, gazdálkodási, nyilvántartási, elemzési és ellenőrzési feladatainak önálló elvégzésére.
+
+## – Képes a honvédekkel szemben támasztott mindenkori fizikai és pszichikai követelményeknek megfelelni.
 
 ## c) attitűdje
 
@@ -4426,21 +4462,21 @@
 
 ## 8.1.1. A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak felépül:
 
-## - műveltség, kultúra, értékek modul (bölcsészettudomány, társadalomtudomány) 4-8 kredit,
+## – műveltség, kultúra, értékek modul (bölcsészettudomány, társadalomtudomány) 4–8 kredit,
 
-## - államtudományi modul (állam- és jogtudomány, hadtudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5-20 kredit,
+## – államtudományi modul (állam- és jogtudomány, hadtudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5–20 kredit,
 
-## - egyetemi közös közszolgálati gyakorlat 2-4 kredit,
+## – egyetemi közös közszolgálati gyakorlat 2–4 kredit,
 
-## - katonai alapismeretek 16-24 kredit,
+## – általános katonai és gyalogos tiszti felkészítés 28–40 kredit,
 
-## - közgazdasági és humán ismeretek 20-28 kredit,
+## – közgazdasági és humán ismeretek 20–24 kredit,
 
-## - természettudományos alapismeretek 18-22 kredit,
+## – természettudományos alapismeretek 16–20 kredit,
 
-## - katonai logisztikai szakmai ismertetek 10-18 kredit,
+## – katonai logisztikai szakmai ismertetek 10–18 kredit,
 
-## - gazdálkodási és módszertani ismeretek 48-60 kredit.
+## – gazdálkodási és módszertani ismeretek 40–48 kredit.
 
 ## 8.1.2. A specializációk tudományágai, szakterületei és kreditaránya:
 
@@ -4460,7 +4496,7 @@
 
 ## 8.3. A szakmai gyakorlat követelményei
 
-## Az intézményen kívül teljesítendő szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat időtartama 10 hét. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
+## Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább négy hét időtartamú. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
 
 ## 11. KATONAI INFOKOMMUNIKÁCIÓ ALAPKÉPZÉSI SZAK
 
@@ -4484,7 +4520,7 @@
 
 ## – a szak orientációja: kiegyensúlyozott (40–60%)
 
-## – a szakdolgozat készítéséhez rendelt kreditérték: 14 kredit
+## – a szakdolgozat készítéséhez rendelt kreditérték: 10 kredit
 
 ## – a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 12 kredit
 
@@ -4502,9 +4538,21 @@
 
 ## a) tudása
 
+## – Ismeri a katonai terminológia raj, szakasz, század szintű alapfogalmait, szakkifejezéseit, a térképi ábrázolás szabályait.
+
+## – Ismeri az alegység szintű NATO harcászati egyezményes jeleket, a terep tanulmányozását és értékelését, a parancsnoki tereptájékoztató tartalmát.
+
+## – Ismeri a gyalogos lövész harcászat alapjait, sajátosságait nappal és éjszaka, valamint az erők megóvásának rendszabályait.
+
+## – Átfogóan ismeri a szakasz szintű harcvezetés okmányrendszerét, azok vezetésének szabályait.
+
+## – Részletesen ismeri a gyalogos lövész raj és lövész szakasz harc és harccal kapcsolatos tevékenységeit, a harctámogatás és harckiszolgáló támogatások lehetőségeit, rendjét és feladatait.
+
+## – Átfogóan ismeri a küldetésalapú vezetést, a raj, szakasz vezetésének rendjét a védelmi, a támadó harc megvívásának időszakában.
+
 ## – Ismeri az összfegyvernemi harc megvívásával kapcsolatos alapismereteket, annak főbb jellemzőit, a harctámogatás, a harckiszolgáló támogatás, a haderőnemek és a fegyvernemek szervezeti felépítését, harceljárásait.
 
-## – Rendelkezik vezetői alapismeretekkel, tisztában van a vezetői kompetenciákkal és a beosztottak eredményes irányításához szükséges ismeretekkel, valamint a beosztottakat motiváló képességekkel.
+## – Rendelkezik vezetői alapismeretekkel, tisztában van a vezetői kompetenciákkal és a beosztottak eredményes irányításához szükséges ismeretekkel, valamint rendelkezik a beosztottakat motiváló képességekkel.
 
 ## – Rendelkezik az általános gazdálkodási, jogi, korszerű geoinformációs rendszerek alapjainak ismeretével.
 
@@ -4521,6 +4569,12 @@
 ## – Ismeri az alapvető egészség- és járványügyi, valamint sebesültellátási feladatokat.
 
 ## b) képességei
+
+## – Képes a gyalogos lövész alegység részére harcparancs kiadására szóban és terepasztalon.
+
+## – Képes a gyalogos lövész szakasz adminisztratív és harci menetének, védelmi és támadó harcának megtervezésére, megszervezésére és vezetésére különböző terep- és időjárási viszonyok között,
+
+## – Képes az egyéni és tűzpár lövész szakgyakorlatok, illetve a gyalogos lövész raj és lövész szakasz kötelék lőgyakorlatok végrehajtására védelemben és támadásban.
 
 ## – Képes a szakalegységek vezetésére.
 
@@ -4770,7 +4824,7 @@
 
 ## 8.1. Szakmai jellemzők
 
-## 8.1.1. A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak felépül
+## 8.1.1. A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak felépül:
 
 ## – műveltség, kultúra, értékek modul (bölcsészettudomány, társadalomtudomány) 4–8 kredit,
 
@@ -4778,15 +4832,15 @@
 
 ## – egyetemi közös közszolgálati gyakorlat 2–4 kredit,
 
-## – katonai alapismeretek 14–18 kredit,
+## – általános katonai és gyalogos tiszti felkészítés 28–40 kredit,
 
-## – gazdasági és humán ismeretek 12–20 kredit,
+## – gazdasági és humán ismeretek 12–16 kredit,
 
-## – természettudományos alapismeretek 16–24 kredit,
+## – természettudományos alapismeretek 16–20 kredit,
 
-## – műszaki és elektronikai ismeretek 24–40 kredit,
+## – műszaki és elektronikai ismeretek 24–32 kredit,
 
-## – katonai infokommunikációs szakmai alapismeretek 24–40 kredit.
+## – katonai infokommunikációs szakmai alapismeretek 24–32 kredit.
 
 ## 8.1.2. A specializációk tudományágai, szakterületei és kreditaránya
 
@@ -4818,7 +4872,7 @@
 
 ## 8.3. A szakmai gyakorlat követelményei
 
-## Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább nyolc hét időtartamú. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
+## Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább négy hét időtartamú. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
 
 ## 12. KATONAI LOGISZTIKA ALAPKÉPZÉSI SZAK
 
@@ -4842,7 +4896,7 @@
 
 ## - a szak orientációja: kiegyensúlyozott (40–60%)
 
-## - a szakdolgozat készítéséhez rendelt kreditérték: 14 kredit
+## - a szakdolgozat készítéséhez rendelt kreditérték: 10 kredit
 
 ## - a szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 12 kredit
 
@@ -4858,49 +4912,67 @@
 
 ## a) tudása
 
-## - Ismeri az összfegyvernemi harc megvívásával kapcsolatos alapismereteket, annak főbb jellemzőit, a harctámogatás, a harckiszolgáló támogatás, a haderőnemek, a fegyvernemek és szakcsapatok szervezeti felépítését, harceljárásait.
+## – Ismeri a katonai terminológia raj, szakasz, század szintű alapfogalmait, szakkifejezéseit, a térképi ábrázolás szabályait.
 
-## - Rendelkezik alapvető vezetői ismeretekkel, tisztában van a vezetői kompetenciákkal és a beosztottak eredményes irányításához szükséges alapvető ismeretekkel, valamint a beosztottakat motiváló képességekkel.
+## – Ismeri az alegység szintű NATO harcászati egyezményes jeleket, a terep tanulmányozását és értékelését, a parancsnoki tereptájékoztató tartalmát.
 
-## - Ismeri a katonai kommunikáció, hírközlés alapvető elveit és eszközeit, a titokvédelem és információbiztonság szabályait.
+## – Ismeri a gyalogos lövész harcászat alapjait, sajátosságait nappal és éjszaka, valamint az erők megóvásának rendszabályait.
 
-## - Ismeri a matematika és a mechanika törvényszerűségeit, rendelkezik műszaki alapismeretekkel.
+## – Átfogóan ismeri a szakasz szintű harcvezetés okmányrendszerét, azok vezetésének szabályait.
 
-## - Ismeri a gazdaság és a piacok működésének alapjait, a nemzetgazdaság és a honvédelem kapcsolatrendszerét, a hadiipar működésének törvényszerűségeit.
+## – Részletesen ismeri a gyalogos lövész raj és lövész szakasz harc és harccal kapcsolatos tevékenységeit, a harctámogatás és harckiszolgáló támogatások lehetőségeit, rendjét és feladatait.
 
-## - Részletesen ismeri az általános logisztikai tevékenység egyes műveleteit, folyamatait.
+## – Átfogóan ismeri a küldetésalapú vezetést, a raj, szakasz vezetésének rendjét a védelmi, a támadó harc megvívásának időszakában.
 
-## - Mélyrehatóan ismeri a katonai logisztikai gazdálkodás feladatait, valamint annak eszköz- és információs rendszerét.
+## – Ismeri az összfegyvernemi harc megvívásával kapcsolatos alapismereteket, annak főbb jellemzőit, a harctámogatás, a harckiszolgáló támogatás, a haderőnemek, a fegyvernemek és szakcsapatok szervezeti felépítését, harceljárásait.
 
-## - Rendelkezik a logisztikai alegységek napi feladatainak ellátásához és kiképzéséhez szükséges szakmai és kiképzésmódszertani ismeretekkel.
+## – Rendelkezik alapvető vezetői ismeretekkel, tisztában van a vezetői kompetenciákkal és a beosztottak eredményes irányításához szükséges alapvető ismeretekkel, valamint rendelkezik a beosztottakat motiváló képességekkel.
 
-## - Jártas a Magyar Honvédség logisztikai rendszerének felépítésében, a logisztikai szervezetek feladat- és hatásköreiben, az egységek és alegységek logisztikai szervezeteinek felépítésében és feladataiban.
+## – Ismeri a katonai kommunikáció, hírközlés alapvető elveit és eszközeit, a titokvédelem és az információbiztonság szabályait.
 
-## - Ismeri a békeműveletek rendszerét, a Magyar Honvédség békeműveleti feladatait, valamint az alapvető békefenntartási technikákat.
+## – Ismeri a matematika és a mechanika törvényszerűségeit, rendelkezik műszaki alapismeretekkel.
+
+## – Ismeri a gazdaság és a piacok működésének alapjait, a nemzetgazdaság és a honvédelem kapcsolatrendszerét, a hadiipar működésének törvényszerűségeit.
+
+## – Részletesen ismeri az általános logisztikai tevékenység egyes műveleteit, folyamatait.
+
+## – Mélyrehatóan ismeri a katonai logisztikai gazdálkodás feladatait, valamint annak eszköz- és információs rendszerét.
+
+## – Rendelkezik a logisztikai alegységek napi feladatainak ellátásához és kiképzéséhez szükséges szakmai és kiképzésmódszertani ismeretekkel.
+
+## – Jártas a Magyar Honvédség logisztikai rendszerének felépítésében, a logisztikai szervezetek feladat- és hatásköreiben, az egységek és alegységek logisztikai szervezeteinek felépítésében és feladataiban.
+
+## – Ismeri a békeműveletek rendszerét, a Magyar Honvédség békeműveleti feladatait, valamint az alapvető békefenntartási technikákat.
 
 ## b) képességei
 
-## - Képes a szakmai terminológia magyarul és idegen nyelven történő alkalmazására.
+## – Képes a gyalogos lövész alegység részére harcparancs kiadására szóban és terepasztalon.
 
-## - Képes a munkaköréhez és feladataihoz kapcsolódó jogszabályi háttér értelmezésére és gyakorlati alkalmazására.
+## – Képes a gyalogos lövész szakasz adminisztratív és harci menetének, védelmi és támadó harcának megtervezésére, megszervezésére és vezetésére különböző terep- és időjárási viszonyok között.
 
-## - Képes a munkaköréhez kapcsolódó dokumentumok, nyomtatványok, jegyzőkönyvek, feljegyzések és emlékeztetők önálló elkészítésére, okmányok kitöltésére, a munkaköréhez kapcsolódó események szervezésére, technikai előkészítésére.
+## – Képes az egyéni és tűzpár lövész szakgyakorlatok, illetve a gyalogos lövész raj és lövész szakasz kötelék lőgyakorlatok végrehajtására védelemben és támadásban.
 
-## - Képes a terepen tájékozódni katonai térképek és geoinformációs eszközök segítségével is.
+## – Képes a szakmai terminológia magyar és idegen nyelven történő alkalmazására.
 
-## - Képes a csapatgazdálkodás tervezésére, szervezésére, irányítására és vezetésére.
+## – Képes a munkaköréhez és feladataihoz kapcsolódó jogszabályi háttér értelmezésére és gyakorlati alkalmazására.
 
-## - Képes a logisztikai folyamatok és a Magyar Honvédség logisztikai rendszere közötti kapcsolatok, illetve összefüggések értelmezésére és azok beosztottak felé történő átadására.
+## – Képes a munkaköréhez kapcsolódó dokumentumok, nyomtatványok, jegyzőkönyvek, feljegyzések és emlékeztetők önálló elkészítésére, okmányok kitöltésére, a munkaköréhez kapcsolódó események szervezésére, technikai előkészítésére.
 
-## - Képes szakterületén újító és innovatív ötletek megfogalmazására.
+## – Képes a terepen tájékozódni katonai térképek és geoinformációs eszközök segítségével is.
 
-## - Képes pontos és precíz logisztikai, illetve gazdálkodási számvetéseket készíteni.
+## – Képes a csapatgazdálkodás tervezésére, szervezésére, irányítására és vezetésére.
 
-## - Képes a szakterületén alkalmazott nyilvántartó és vezetéstámogató informatikai rendszerek használatára.
+## – Képes a logisztikai folyamatok és a Magyar Honvédség logisztikai rendszere közötti kapcsolatok, illetve összefüggések értelmezésére és azok beosztottak felé történő átadására.
 
-## - Képes beosztottjai általános katonai és szakmai vezetésére, munkájuk hatékony megszervezésére.
+## – Képes szakterületén újító és innovatív ötletek megfogalmazására.
 
-## - Képes a honvédekkel szemben támasztott mindenkori fizikai és pszichikai követelményeknek megfelelni.
+## – Képes pontos és precíz logisztikai, illetve gazdálkodási számvetéseket készíteni.
+
+## – Képes a szakterületén alkalmazott nyilvántartó és vezetéstámogató informatikai rendszerek használatára.
+
+## – Képes beosztottjai általános katonai és szakmai vezetésére, munkájuk hatékony megszervezésére.
+
+## – Képes a honvédekkel szemben támasztott mindenkori fizikai és pszichikai követelményeknek megfelelni.
 
 ## c) attitűdje
 
@@ -5240,21 +5312,21 @@
 
 ## 8.1.1. A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak felépül:
 
-## - műveltség, kultúra, értékek modul (bölcsészettudomány, társadalomtudomány) 4-8 kredit,
+## – műveltség, kultúra, értékek modul (bölcsészettudomány, társadalomtudomány) 4–8 kredit,
 
-## - államtudományi modul (állam- és jogtudomány, hadtudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5-20 kredit,
+## – államtudományi modul (állam- és jogtudomány, hadtudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5–20 kredit,
 
-## - egyetemi közös közszolgálati gyakorlat 2-4 kredit,
+## – egyetemi közös közszolgálati gyakorlat 2–4 kredit,
 
-## - katonai alapismeretek 16–24 kredit,
+## – általános katonai és gyalogos tiszti felkészítés 28–40 kredit,
 
-## - gazdasági és humán ismeretek 12–20 kredit,
+## – gazdasági és humán ismeretek 12–16 kredit,
 
-## - természettudományos alapismeretek 18–26 kredit,
+## – természettudományos alapismeretek 18–22 kredit,
 
-## - katonai logisztikai alapismeretek 26–34 kredit,
+## – katonai logisztikai alapismeretek 26–30 kredit,
 
-## - logisztikai műveleti felkészítés 22-34 kredit.
+## – logisztikai műveleti felkészítés 22–30 kredit.
 
 ## 8.1.2. A specializációk tudományágai, szakterületei és kreditaránya:
 
@@ -5306,7 +5378,7 @@
 
 ## 8.3. A szakmai gyakorlat követelményei
 
-## Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább nyolc hét időtartamú. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
+## Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább négy hét időtartamú. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat teljesítésének részletes követelményeit a szak tanterve határozza meg.
 
 ## 13. ÁLLAMI LÉGIKÖZLEKEDÉSI ALAPKÉPZÉSI SZAK
 
@@ -5360,37 +5432,55 @@
 
 ## a) tudása
 
-## - Alapvetően ismeri az összfegyvernemi harc megvívásával kapcsolatos alapismereteket, annak főbb jellemzőit, a harctámogatás, a harckiszolgáló támogatás, a haderőnemek és a fegyvernemek szervezeti felépítését, harceljárásait.
+## – Ismeri a katonai terminológia raj, szakasz, század szintű alapfogalmait, szakkifejezéseit, a térképi ábrázolás szabályait.
 
-## - Rendelkezik alapvető vezetői alapismeretekkel, tisztában van a vezetői kompetenciákkal és a beosztottak eredményes irányításához szükséges alapvető ismeretekkel, valamint a beosztottakat motiváló képességekkel.
+## – Ismeri az alegység szintű NATO harcászati egyezményes jeleket, a terep tanulmányozását és értékelését, a parancsnoki tereptájékoztató tartalmát.
 
-## - Rendelkezik az általános gazdálkodási, jogi, korszerű geoinformációs, rádió- és hírközlés ismeretalapjaival.
+## – Ismeri a gyalogos lövész harcászat alapjait, sajátosságait nappal és éjszaka, valamint az erők megóvásának rendszabályait.
 
-## - Ismeri a légiközlekedési terület műveléséhez szükséges általános természettudományos törvényeket, jelenségeket, folyamatokat.
+## – Átfogóan ismeri a szakasz szintű harcvezetés okmányrendszerét, azok vezetésének szabályait.
 
-## - Ismeri az elektrotechnika, a mechanika alapfogalmait, alaptörvényszerűségeit, az alapjelenségek leírásának módját.
+## – Részletesen ismeri a gyalogos lövész raj és lövész szakasz harc és harccal kapcsolatos tevékenységeit, a harctámogatás és harckiszolgáló támogatások lehetőségeit, rendjét és feladatait.
 
-## - Alapvetően ismeri a repüléselmélethez kapcsolódó alapfogalmakat, összefüggéseket.
+## – Átfogóan ismeri a küldetésalapú vezetést, a raj, szakasz vezetésének rendjét a védelmi, a támadó harc megvívásának időszakában.
 
-## - Ismeri a légijárművek szerkezetét, fő rendszereit, berendezéseit, azok funkcióit.
+## – Alapvetően ismeri az összfegyvernemi harc megvívásával kapcsolatos alapismereteket, annak főbb jellemzőit, a harctámogatás, a harckiszolgáló támogatás, a haderőnemek és a fegyvernemek szervezeti felépítését, harceljárásait.
 
-## - Ismeri a NATO összhaderőnemi légi műveletek megvalósításának elveit, a végrehajtásban részt vevő erők, eszközök feladatait.
+## – Rendelkezik alapvető vezetői ismeretekkel, tisztában van a vezetői kompetenciákkal és a beosztottak eredményes irányításához szükséges alapvető ismeretekkel, valamint rendelkezik a beosztottakat motiváló képességekkel.
+
+## – Rendelkezik az általános gazdálkodási, jogi, korszerű geoinformációs, rádió- és hírközlés ismeretalapjaival.
+
+## – Ismeri a légiközlekedési terület műveléséhez szükséges általános természettudományos törvényeket, jelenségeket, folyamatokat.
+
+## – Ismeri az elektrotechnika, a mechanika alapfogalmait, alaptörvényszerűségeit, az alapjelenségek leírásának módját.
+
+## – Alapvetően ismeri a repüléselmélethez kapcsolódó alapfogalmakat, összefüggéseket.
+
+## – Ismeri a légijárművek szerkezetét, fő rendszereit, berendezéseit, azok funkcióit.
+
+## – Ismeri a NATO összhaderőnemi légi műveletek megvalósításának elveit, a végrehajtásban részt vevő erők, eszközök feladatait.
 
 ## b) képességei
 
-## - Képes magas szinten alkalmazni a szakterminológiát magyarul és angolul is.
+## – Képes a gyalogos lövész alegység részére harcparancs kiadására szóban és terepasztalon.
 
-## - Képes idegen nyelvű szakirodalom olvasására, feldolgozására.
+## – Képes a gyalogos lövész szakasz adminisztratív és harci menetének, védelmi és támadó harcának megtervezésére, megszervezésére és vezetésére különböző terep- és időjárási viszonyok között.
 
-## - Képes a munkaköréhez kapcsolódó dokumentumok, nyomtatványok, jegyzőkönyvek, feljegyzések és emlékeztetők önálló elkészítésére, okmányok kitöltésére, a munkaköréhez kapcsolódó események szervezésére, technikai előkészítésére.
+## – Képes az egyéni és tűzpár lövész szakgyakorlatok, illetve a gyalogos lövész raj és lövész szakasz kötelék lőgyakorlatok végrehajtására védelemben és támadásban.
 
-## - Képes a munkájához szükséges módszerek és eljárások kiválasztására, azok egyedi és komplex alkalmazására.
+## – Képes magas szinten alkalmazni a szakterminológiát magyarul és angolul is.
 
-## - Képes a munkájával járó pszichikai és fizikai stresszel szembeni alkalmazkodásra, illetve ismeri a stresszkezelés intézményi és egyéni megoldásait.
+## – Képes idegen nyelvű szakirodalom olvasására, feldolgozására.
 
-## - Képes az együttműködésben folyó munkavégzésre.
+## – Képes a munkaköréhez kapcsolódó dokumentumok, nyomtatványok, jegyzőkönyvek, feljegyzések és emlékeztetők önálló elkészítésére, okmányok kitöltésére, a munkaköréhez kapcsolódó események szervezésére, technikai előkészítésére.
 
-## - A munkaköri feladatainak ellátásához megfelelő kitartással és monotóniatűréssel rendelkezik.
+## – Képes a munkájához szükséges módszerek és eljárások kiválasztására, azok egyedi és komplex alkalmazására.
+
+## – Képes a munkájával járó pszichikai és fizikai stresszel szembeni alkalmazkodásra, illetve ismeri a stresszkezelés intézményi és egyéni megoldásait.
+
+## – Képes az együttműködésben folyó munkavégzésre.
+
+## – A munkaköri feladatainak ellátásához megfelelő kitartással és monotóniatűréssel rendelkezik.
 
 ## c) attitűdje
 
@@ -5650,23 +5740,23 @@
 
 ## 8.1.1. A szakképzettséghez vezető tudományágak, szakterületek, amelyekből a szak felépül:
 
-## - műveltség, kultúra, értékek modul (bölcsészettudomány, társadalomtudomány) 4-8 kredit,
+## – műveltség, kultúra, értékek modul (bölcsészettudomány, társadalomtudomány) 4–8 kredit,
 
-## - államtudományi modul (állam- és jogtudomány, hadtudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5-20 kredit,
+## – államtudományi modul (állam- és jogtudomány, hadtudomány, nemzetközi és fejlődéstanulmányok, információ- és kommunikációelmélet szakterületekből válogatva) 5–20 kredit,
 
-## - egyetemi közös közszolgálati gyakorlat 2-4 kredit,
+## – egyetemi közös közszolgálati gyakorlat 2–4 kredit,
 
-## - katonai alapismeretek 16–24 kredit,
+## – általános katonai és gyalogos tiszti felkészítés 28–40 kredit,
 
-## - gazdasági és humán ismeretek 14–18 kredit,
+## – gazdasági és humán ismeretek 12–16 kredit,
 
-## - természettudományos alapismeretek 22–30 kredit,
+## – természettudományos alapismeretek 18–22 kredit,
 
-## - légiközlekedési alapismeretek 30–38 kredit.
+## – légiközlekedési alapismeretek 30–38 kredit.
 
 ## 8.1.2. A szakirányok tudományágai, szakterületei és kreditaránya:
 
-## A szakirányok kreditaránya további 88-116 kredit
+## A szakirányok kreditaránya további 88–108 kredit
 
 ## a) állami légijármű-vezető szakirány
 
@@ -5698,7 +5788,7 @@
 
 ## 8.3. A szakmai gyakorlat követelményei
 
-## Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább nyolc hét időtartamú. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat részletes követelményeit a szak tanterve határozza meg.
+## Az intézményen kívül teljesítendő egybefüggő szakmai gyakorlat legalább négy hét időtartamú. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat részletes követelményeit a szak tanterve határozza meg.
 
 ## 14. NEMZETKÖZI IGAZGATÁSI ALAPKÉPZÉSI SZAK
 
@@ -5992,74 +6082,8 @@
 
 ## Az abszolutórium megszerzésének feltétele legalább 200 óra szakmai gyakorlat elvégzése. A szakmai gyakorlat kritériumkövetelmény. A szakmai gyakorlat részletes követelményeit a szak tanterve határozza meg.
 
-3. melléklet a 222/2019. (IX. 25.) Korm. rendelethez[^5]
+3. melléklet a 222/2019. (IX. 25.) Korm. rendelethez[^8]
 
 MESTERKÉPZÉSEK ÉS MESTERKÉPZÉSBEN, OSZTATLAN KÉPZÉSBEN SZEREZHETŐ SZAKKÉPZETTSÉGEK JEGYZÉKE
 
-|  | A | B | C | D | E | F | G | H | I | J |
-
-| 1. | Képzési terület | Képzési terület angol nyelvű megnevezése | Felsőoktatási terület | Felsőoktatási terület angol nyelvű megnevezése | Mesterképzési szak | Osztatlan szak | Mesterképzési szak, osztatlan szak angol nyelvű megnevezése | Szakképzettség | Mesterképzésben szerezhető szakképzettség angol nyelvű megnevezése | EKKR és MKKR szint |
-
-| 2. | állam- tudományi | Political Science and Public Governance | állam- tudományi és közigazgatási | Science of Public Governance and Public Administration |  | állam- tudományi | Science in Public Governance | okleveles államtudományi mester | Master in Public Governance | 7 |
-
-| 3. |  |  |  |  | közigazgatási |  | Public Administration | okleveles közigazgatási szakértő | Expert of Public Administration | 7 |
-
-| 4. |  |  |  |  | kiberbiztonsági |  | Cyber Security | okleveles kiberbiztonsági szakértő | Cyber Security Expert | 7 |
-
-| 5. |  |  |  |  | kormányzás és vezetés |  | Government and Leadership | kormányzás- és vezetéstudományok mestere | Master of Studies in Government and Leadership | 7 |
-
-| 6. |  |  |  |  | fejlesztéspolitikai program- menedzsment |  | Development Policy and Program Management | fejlesztéspolitikai program- menedzsment szakértő | Development Policy and Program Management Expert | 7 |
-
-| 7. |  |  |  |  | európai és nemzetközi igazgatás |  | European and International Administration | okleveles európai és nemzetközi igazgatásszervező | European and International Administration Expert | 7 |
-
-| 8. |  |  | rendészeti | Law Enforcement | rendészeti vezető |  | Law Enforcement Management | okleveles rendészeti vezető | Law Enforcement Manager | 7 |
-
-| 9. |  |  |  |  | biztonsági szervező |  | Security Manager | okleveles biztonsági szervező | Security Manager | 7 |
-
-| 10. |  |  |  |  | kriminalisztika |  | Criminalistics | a) okleveles kriminalista, rendészeti szakirányon b) okleveles kriminalista, polgári szakirányon | a) Certified Criminalist in Law Enforcement Specialisation b) Certified Criminalist in Civilian Specialisation | 7 |
-
-| 11. |  |  |  |  | katasztrófa- védelem |  | Disaster Management | okleveles katasztrófavédelmi vezető | Certified Disaster Manager | 7 |
-
-| 12. |  |  | nemzet- biztonsági | National Security | polgári nemzet- biztonsági |  | Civilian National Security Studies | okleveles polgári nemzetbiztonsági vezető szakértő | Senior Expert in Civilian National Security | 7 |
-
-| 13. |  |  |  |  | nemzet- biztonsági |  | National Security Studies | okleveles nemzetbiztonsági szakértő | National Security Expert | 7 |
-
-| 14. |  |  | katonai | Military | katonai vezetői |  | Military Leadership | okleveles katonai vezető | Military Leader | 7 |
-
-| 15. |  |  |  |  | katonai üzemeltetés |  | Military Maintenance | okleveles katonai üzemeltető | Military Maintenance (Technical) Manager | 7 |
-
-| 16. |  |  |  |  | katonai műveleti logisztika |  | Logistics of Military Operations | okleveles összhaderőnemi logisztikai vezető | Joint Logistics Leader | 7 |
-
-| 17. |  |  | nemzetközi és európai közszolgálati | International and European Public Service | nemzetközi közszolgálati kapcsolatok |  | International Public Service Studies | a) okleveles nemzetközi közszolgálati szakértő, nemzetközi közigazgatási tanulmányok szakirányon b) okleveles nemzetközi közszolgálati szakértő, biztonsági tanulmányok szakirányon c) okleveles nemzetközi közszolgálati szakértő, rendészeti tanulmányok szakirányon d) okleveles nemzetközi közszolgálati szakértő, Európa-tanulmányok szakirányon | a) Expert in International Public Service Studies, Specialised in International Public Administration Studies b) Expert in International Public Service Studies, Specialised in Security Studies c) Expert in International Public Service Studies, Specialised in Law Enforcement Studies d) Expert in International Public Service Studies, Specialised in European Studies | 7 |
-
-| 18. |  |  |  |  | International Public Service Relations |  | International Public Service Relations | nemzetközi közszolgálati szakértő | Expert in International Public Service | 7 |
-
-| 19. |  |  |  |  | nemzetközi biztonság- és védelem- politikai |  | International Security and Defence Policy | okleveles nemzetközi biztonság- és védelempolitikai szakértő | Expert in International Security and Defence Policy | 7 |
-
-| 20. |  |  |  |  | nemzetközi vízpolitika és vízdiplomácia |  | International Water Governance and Diplomacy | okleveles nemzetközi vízpolitikai menedzser | International Water Governance Manager | 7 |
-
-A MESTERKÉPZÉSI SZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
-
-1. ÁLLAMTUDOMÁNYI MESTERKÉPZÉSI SZAK OSZTATLAN KÉPZÉS
-
-1. A mesterképzési szak megnevezése: államtudományi (Science of Public Governance)
-
-2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése
-
-- végzettségi szint: mester- (magister, master, rövidítve: MA-) fokozat
-
-- szakképzettség: okleveles államtudományi mester
-
-- a szakképzettség angol nyelvű megjelölése: Master in Public Governance
-
-Az oklevél doktori cím (dr. rer. pol.) használatára jogosít.
-
-3. Képzési terület, az NKE tv. 3. §-ában meghatározott felsőoktatási terület: államtudományi, államtudományi és közigazgatási
-
-4. A képzési idő félévekben: 10 félév
-
-5. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 300 kredit
-
-- a szak orientációja: kiegyensúlyozott (40-60 százalék)
-
-[^5]: A 3. melléklet az 544/2020. (XII. 2.) Korm. rendelet 5. §-a és 7. §-a szerint módosított szöveg.
+[^8]: A 3. melléklet az 544/2020. (XII. 2.) Korm. rendelet 5. §-a és 7. §-a, az 532/2022. (XII. 19.) Korm. rendelet 6. § b) pontja, az 532/2022. (XII. 19.) Korm. rendelet 7. §-a szerint módosított szöveg.
