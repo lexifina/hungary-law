@@ -8,7 +8,7 @@
 
 (5) Az (1) bekezdés szerinti ingatlanjuttatással egyidejűleg az (1) bekezdésben meghatározott feladatok ellátására rendelkezésre álló, az Eszterházy Károly Egyetem mint központi költségvetési szerv vagyonkezelésében lévő, állami tulajdonú ingó vagyontárgyak (a továbbiakban: ingóságok), immateriális javak e törvény erejénél fogva az Egri Főegyházmegye tulajdonába kerülnek.
 
-(6) Az (5) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó Eszterházy Károly Egyetem és az átvevő Egri Főegyházmegye képviseletére jogosult ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, a Számviteli tv. 50. § (4) bekezdése szerinti értékkel.
+(6) Az (5) bekezdés szerint átszálló ingóságokról jegyzőkönyvet kell felvenni, amelyet az átadó Eszterházy Károly Egyetem és az átvevő Egri Főegyházmegye képviseletére jogosult ír alá. Az átszálló ingóságok bekerülési értéke megegyezik az adott vagyonelemre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel.
 
 (7) Az 1. melléklet szerinti ingatlanok vonatkozásában a (2) bekezdés szerinti megállapodás megkötéséig, valamint az (5) bekezdés szerinti ingóságok vonatkozásában a (6) bekezdés szerinti jegyzőkönyv felvételéig az Egri Főegyházmegyét szociális, oktatási, kulturális és hitéleti feladatai mint közfeladatok ellátása érdekében ingyenes használati jog illeti meg.
 

@@ -46,19 +46,11 @@ MEGNEVEZÉS
 
 |
 
-ANDORNAKTÁLYA
+|
 
 |
 
-125/53
-
 |
-
-1/1
-
-|
-
-szántó
 
 |
 
@@ -66,19 +58,11 @@ szántó
 
 |
 
-ANDORNAKTÁLYA
+|
 
 |
 
-0125/116
-
 |
-
-1/1
-
-|
-
-szántó
 
 |
 
@@ -86,19 +70,11 @@ szántó
 
 |
 
-ANDORNAKTÁLYA
+|
 
 |
 
-0134/29
-
 |
-
-1/1
-
-|
-
-gyümölcsös
 
 |
 
@@ -106,25 +82,11 @@ gyümölcsös
 
 |
 
-ANDORNAKTÁLYA
+|
 
 |
 
-0134/32
-
 |
-
-1/1
-
-|
-
-a. gyümölcsös
-
-b. szántó
-
-c. fásított terület
-
-d. erdő
 
 |
 
@@ -260,7 +222,7 @@ ANDORNAKTÁLYA
 
 |
 
-1/1
+20959/20959
 
 |
 
@@ -378,19 +340,11 @@ d. kivett saját használatú út
 
 |
 
-ANDORNAKTÁLYA
+|
 
 |
 
-0210/2
-
 |
-
-1/1
-
-|
-
-szőlő
 
 |
 
@@ -398,19 +352,11 @@ szőlő
 
 |
 
-ANDORNAKTÁLYA
+|
 
 |
 
-0210/11
-
 |
-
-1/1
-
-|
-
-szőlő
 
 |
 
@@ -438,31 +384,11 @@ kivett saját használatú út
 
 |
 
-EGER
+|
 
 |
 
-0377
-
 |
-
-1/1
-
-|
-
-a. erdő
-
-b. kivett épületek, udvar
-
-c. rét
-
-d. szántó
-
-f. gyümölcsös
-
-g. rét
-
-h. rét
 
 |
 
@@ -482,7 +408,9 @@ EGER
 
 |
 
-kivett saját használatú út
+a. kivett saját használatú út
+
+b. kert
 
 |
 
@@ -630,19 +558,11 @@ k. szántó
 
 |
 
-EGER
+|
 
 |
 
-0717/5
-
 |
-
-1/1
-
-|
-
-szántó
 
 |
 
@@ -682,19 +602,11 @@ h. gyümölcsös
 
 |
 
-EGER
+|
 
 |
 
-0718/5
-
 |
-
-1/1
-
-|
-
-szőlő
 
 |
 
@@ -702,19 +614,11 @@ szőlő
 
 |
 
-EGER
+|
 
 |
 
-0718/7
-
 |
-
-1/1
-
-|
-
-szőlő
 
 |
 
@@ -722,19 +626,11 @@ szőlő
 
 |
 
-EGER
+|
 
 |
 
-0718/8
-
 |
-
-1/1
-
-|
-
-szőlő
 
 |
 
@@ -742,19 +638,11 @@ szőlő
 
 |
 
-EGER
+|
 
 |
 
-0718/10
-
 |
-
-1/1
-
-|
-
-szőlő
 
 |
 
