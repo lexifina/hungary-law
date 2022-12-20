@@ -6,4 +6,6 @@ a) a közszféra információinak további felhasználásáról szóló, 2003. n
 
 b) a közszféra információinak további felhasználásáról szóló 2003/98/EK irányelv módosításáról szóló, 2013. június 26-i 2013/37/EU európai parlamenti és tanácsi irányelvnek
 
+c) a nyílt hozzáférésű adatokról és a közszféra információinak további felhasználásáról szóló, 2019. június 20-i (EU) 2019/1024 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.

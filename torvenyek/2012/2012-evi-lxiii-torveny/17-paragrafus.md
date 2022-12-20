@@ -16,6 +16,16 @@ e) a d) pontban meghatározott díj megfizetésének határidejét és módját,
 
 f) a b) pontban meghatározott adatok újrahasznosításának feltételekhez kötése esetén az adatok felhasználásának részletes feltételeit.
 
-(3) A (2) bekezdés f) pontja szerinti feltételek nem korlátozhatják szükségtelenül az újrahasznosítás lehetőségeit, nem szolgálhatnak a verseny korlátozására és nem ütközhetnek az újrahasznosításra vonatkozó, e törvény szerinti egyéb rendelkezésekbe.
+(3) A (2) bekezdés f) pontja szerinti feltételek
 
-(4) A felhasználás feltételeit a közfeladatot ellátó szerv a közadatok újrahasznosítás céljából történő rendelkezésre bocsátására vonatkozó általános szerződési feltételek keretében is meghatározhatja.
+a) kizárólag közérdekű célból állapíthatóak meg;
+
+b) objektívek, arányosak és megkülönböztetéstől mentesek;
+
+c) nem korlátozhatják szükségtelenül az újrahasznosítás lehetőségeit, nem vezethetnek a verseny korlátozására és nem ütközhetnek az újrahasznosításra vonatkozó, az e törvényben meghatározott más rendelkezésekbe.
+
+(4) A közfeladatot ellátó szerv a közadatok újrahasznosítás céljából történő rendelkezésre bocsátás feltételeit – egyedi újrahasznosítási kérelmekhez igazítható módon – általános szerződési feltételekben is meghatározhatja.
+
+(5) A (4) bekezdés szerint meghatározott általános szerződési feltételeket a közfeladatot ellátó szerv elektronikus úton, feldolgozható formában közzéteszi.
+
+(6) Nem kell alkalmazni a 10–14. § rendelkezéseit, ha a közfeladatot ellátó szerv az általa kezelt közadatot újrahasznosítás céljából elektronikus úton bárki számára hozzáférhető módon bocsátja rendelkezésre, és ennek feltételeit a (4) bekezdés szerinti általános szerződési feltételekben olyan módon határozza meg, amely a felek részéről további feltételek meghatározását nem teszi szükségessé.

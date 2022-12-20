@@ -1,6 +1,6 @@
 ## 12/B. A díjazásra vonatkozó különös szabályok
 
-18/C. § (1) A kulturális közadatot kezelő közfeladatot ellátó szerv a kulturális közadat újrahasznosításra történő rendelkezésre bocsátásáért díjat állapíthat meg, a díj mértéke nem haladhatja meg a rendelkezésre bocsátott közadatok gyűjtésének, előállításának, feldolgozásának és terjesztésének legfeljebb öt százalékos nyereséghányaddal megnövelt költségét.
+18/C. § (1) A kulturális közadatot kezelő közfeladatot ellátó szerv a kulturális közadat újrahasznosításra történő rendelkezésre bocsátásáért díjat állapíthat meg azzal, hogy e díj mértéke nem haladhatja meg a rendelkezésre bocsátott közadatok gyűjtésének, sokszorosításának, előállításának, tárolásának, feldolgozásának és terjesztésének észszerű megtérüléssel megnövelt költségét.
 
 (2) Az (1) bekezdés szerinti költségek megállapításánál a díjat megállapító közfeladatot ellátó szerv által alkalmazott számviteli politikát kell alapul venni.
 

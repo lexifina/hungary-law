@@ -4,9 +4,9 @@
 
 ## 7. Az eljárás megindítása, a kérelem előterjesztése
 
-10. § (1) A közadat újrahasznosítás céljára történő rendelkezésre bocsátását az igénylő az e § rendelkezései szerint előterjesztett írásbeli kérelmével kezdeményezheti.
+10. § (1) A közadat újrahasznosítás céljára történő rendelkezésre bocsátását – a 17. § (6) bekezdésében meghatározott eset kivételével – az igénylő a közadatot kezelő közfeladatot ellátó szervnél, vagy annál a szervnél, amely a közadatot kezelő közfeladatot ellátó szervvel való megállapodás alapján jogosult a közadat újrahasznosítás céljából való rendelkezésre bocsátását teljesíteni, az e § rendelkezései szerint előterjesztett írásbeli kérelmével kezdeményezheti. Írásbeli kérelemnek minősül az elektronikus űrlapon benyújtott kérelem is.
 
-(2) A kérelmet a közadatot kezelő közfeladatot ellátó szervnél kell előterjeszteni.
+(2)
 
 (3) A kérelemnek tartalmaznia kell:
 

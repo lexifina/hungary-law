@@ -24,6 +24,16 @@ a közadatot elektronikusan, informatikai eszközökkel automatikusan feldolgozh
 
 (4a) A közfeladatot ellátó szerv a közadat e § szerinti rendelkezésre bocsátásánál törekszik arra, hogy a rendelkezésre bocsátott adatok és leíró adatok megfeleljenek a szoftveres adatfeldolgozás interoperabilitását biztosító hivatalos nyílt szabványoknak.
 
+(4b) A közfeladatot ellátó szerv a nagy értékű adatkészleteket
+
+a) géppel olvasható formában,
+
+b) alkalmazásprogramozási interfészeken keresztül és
+
+c) adott esetben csoportos letöltésre alkalmas módon
+
+köteles rendelkezésre bocsátani.
+
 (5) Az e §-ban foglaltak teljesítése érdekében a közfeladatot ellátó szerv nem köteles
 
 a) közadat előállítására vagy a kérelemnek megfelelő átalakítására, illetve kivonatok készítésére, ha az aránytalan nehézséggel – egy egyszerű műveleten túlmutató erőfeszítéssel – járna,

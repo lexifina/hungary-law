@@ -1,0 +1,1 @@
+3/A. § Újrahasznosítás céljából igényelt közadat, kulturális közadat rendelkezésre bocsátása során a közfeladatot ellátó szerv nem gyakorolhatja a szerzői jogról szóló törvény szerinti, az adatbázis előállítóját megillető jogokat.
