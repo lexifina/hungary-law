@@ -1,4 +1,4 @@
-18. § (1) A rektorhelyettest, a dékánt és a főtitkárt a rektor a Fenntartó előzetes egyetértésével bízza meg.
+18. § (1) A rektorhelyettest, a dékánt, a főtitkárt és a nemzetközi főigazgatót a rektor a Fenntartó előzetes egyetértésével bízza meg.
 
 (2) Rektorhelyettesi, illetve dékáni vezetői megbízást egyetemi tanár és egyetemi docens kaphat.
 

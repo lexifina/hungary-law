@@ -37,3 +37,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-132-00-00
 | 2022-01-01 | 2021. évi CXLVIII. törvény | 2011-132-00-00.30 |
 | 2022-05-25 | 2022. évi IV. törvény | 2011-132-00-00.31 |
 | 2022-11-01 | 2022. évi VII. törvény | 2011-132-00-00.32 |
+| 2022-12-20 | 2022. évi LIX. törvény | 2011-132-00-00.33 |

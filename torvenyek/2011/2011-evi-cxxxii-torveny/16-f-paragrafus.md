@@ -1,0 +1,1 @@
+16/F. § Az Egyetem a szervezeti és működési szabályzatában munkaköröket határozhat meg speciális oktatási, képzési tevékenységre. E munkakörök betöltőit az Egyetem szakjainak akkreditációja során teljes munkaidőben foglalkoztatott oktatóként kell figyelembe venni azzal, hogy e személyeket az Nftv. 9. § (3) bekezdés b) pontja szerinti számítás során figyelmen kívül kell hagyni.
