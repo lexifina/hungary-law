@@ -114,7 +114,7 @@ GYŐR
 
 |
 
-1/1
+1/3
 
 |
 
@@ -1258,4 +1258,24 @@ GYŐR
 
 |
 
-kivett beépítetlen terület”
+kivett beépítetlen terület
+
+|
+
+62.
+
+|
+
+RAJKA
+
+|
+
+0241/5
+
+|
+
+1/1
+
+|
+
+kivett egyéb épület és udvar
