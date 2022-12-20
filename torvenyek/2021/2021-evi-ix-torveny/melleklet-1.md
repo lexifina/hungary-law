@@ -436,13 +436,13 @@ MOL – Új Európa Alapítvány
 
 1. tehetséggondozás, különösen kiemelkedően tehetséges gyermekek, fiatalok, a velük foglalkozó pedagógusok, edzők, médiaszakemberek, valamint tehetségük kiteljesítésének megkönnyítése céljából létrejött közösségek, szervezetek támogatása, munkájuk elismerése a sport, a művészet és a tudomány területén;
 
-2. támogatásközvetítői tevékenység végzése keretében
+2. az alapítók által 50-50%-ban rendelt vagyonból, illetve annak hozamából, továbbá a csatlakozók és adományozók által juttatott vagyonból, illetve ezek hozamából, valamint az Alapítvány egyéb jövedelméből harmadik személy részére történő támogatásnyújtás
 
-a) a gazdaságfejlesztés támogatása, különösen a gazdaságfejlesztési programok, továbbá a versenyképességet, a munkaerőpiacot, a szociális foglalkoztatást fejlesztő tevékenységek, programok támogatása, elősegítése,
+a) a gazdaságfejlesztés támogatása, különösen a gazdaságfejlesztési programok, továbbá a versenyképességet, a munkaerőpiacot, a szociális foglalkoztatást fejlesztő tevékenységek, programok támogatása, elősegítése érdekében,
 
-b) a környezet védelmének elősegítése, különösen környezetvédelmi, fenntarthatósági, klímavédelmi, zöldfelület-védelmi tevékenységek és kutatások elősegítése, támogatása,
+b) a környezet védelmének elősegítése érdekében, különösen környezetvédelmi, fenntarthatósági, klímavédelmi, zöldfelület-védelmi tevékenységek és kutatások elősegítése, támogatása,
 
-c) élsport támogatása;
+c) az élsport támogatása érdekében;
 
 3. karitatív tevékenység, különösen tartósan, súlyosan beteg, ápolásra szoruló személyek – kiemelten gyermekek, fiatalok – valamint közösségeik, az előbbi csoportokat támogató intézményeknek, szervezeteknek támogatása, a betegek, ápolásra szorulók állapotának stabilizálása, javítása, valamint a rehabilitáció biztosítása érdekében, a támogató intézmények szolgáltatási színvonalának növelése, működésük előmozdítása;
 
@@ -660,11 +660,19 @@ c) a felsőoktatási intézmény alaptevékenységéből származó szellemi ér
 
 3. a magyar felsőoktatás gazdasági, társadalmi és nemzetközi kapcsolatainak fejlesztése érdekében
 
-a) oktatási, tudományos kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
+a) oktatási, tudományos, kutatási, hallgatói, tanulói, oktatói, kutatói, tanári támogatási program működtetése,
 
 b) rászorultsági alapú támogatás biztosítása,
 
-c) tehetséggondozó programok működésének támogatása.
+c) tehetséggondozó programok működésének támogatása,
+
+4. a magyar járműipari innováció, valamint fenntartható és biztonságos közlekedés fejlesztése érdekében,
+
+a). oktatási, tudományos, kutatási, hallgatói, tanulói, oktatói, tanári, tehetséggondozó, felnőttképzési támogatói program működtetése,
+
+b) a zöld mobilitáshoz és közlekedésbiztonsághoz kapcsolódó infrastrukturális szervezeti, fejlesztési, és beruházási célok biztosítása, e körben valamennyi kapcsolódó stratégia előkészítése és teljes körű végrehajtása a programok lebonyolításával és projektek megvalósításával,
+
+c) a járműipari innovációk, fejlesztések összehangolásának előmozdítása, megvalósítása, és a kapcsolódó infrastrukturális, szervezeti, fejlesztési és beruházási célok biztosítása, e körben valamennyi kapcsolódó stratégia előkészítése és teljes körű végrehajtása a programok lebonyolításával. és projektek megvalósításával, beleértve az autó-motorsport stratégiáját is, továbbá nemzetközi kapcsolatok fejlesztése
 
 |
 
