@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az elítélt személyek átszállításáról szóló Strasbourgban, 1983. március 21-én kelt Egyezmény, Strasbourgban, 1997. december 18-án kelt Kiegészítő Jegyzőkönyvét módosító Jegyzőkönyv (a továbbiakban: módosító Jegyzőkönyv) kötelező hatályának elismerésére.
