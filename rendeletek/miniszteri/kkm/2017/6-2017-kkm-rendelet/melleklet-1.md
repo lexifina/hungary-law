@@ -1,3 +1,5 @@
-1. melléklet a 6/2017. (VII. 10.) KKM rendelethez[^58]
+1. melléklet a 6/2017. (VII. 10.) KKM rendelethez[^59]
 
-[^58]: Az 1. melléklet a 6/2019. (X. 28.) KKM rendelet 13. §-ával megállapított szöveg.
+Hivatalos és munkanyelvek a bilaterális külképviseleteken és a nem önálló képviseleteken, irodákon
+
+[^59]: Az 1. melléklet a 16/2022. (XII. 20.) KKM rendelet 1. § (1) bekezdésével megállapított szöveg.

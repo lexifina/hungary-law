@@ -1,12 +1,8 @@
-## Hivatalos és munkanyelvek a multilaterális külképviseleteken
-
 |  | A | B | C |
 
-|  | Ország | Külképviselet | Munkanyelv |
+| 1. | Ország | Külképviselet | Munkanyelv |
 
-| 1. | Ausztria | Bécs/EBESZ | angol, francia |
-
-| 2. | Ausztria | Bécs/ENSZ | angol, francia |
+| 2. | Ausztria | Bécs/EBESZ-ENSZ | angol, francia |
 
 | 3. | Belgium | Brüsszel/NATO | angol, francia |
 
@@ -14,8 +10,12 @@
 
 | 5. | Franciaország | Strasbourg/ET Állandó Képviselet | angol, francia |
 
-| 6. | Svájc | Genf ENSZ/WTO | angol, francia |
+| 6. | Olaszország | Róma/FAO melletti Állandó Képviselet | angol, olasz |
 
-| 7. | USA | New York/ENSZ | angol, francia |
+| 7. | Svájc | Genf ENSZ/WTO | angol, francia |
+
+| 8. | USA | New York/ENSZ | angol, francia |
 
 3. melléklet a 6/2017. (VII. 10.) KKM rendelethez
+
+A várakozási idő szempontjából kiemelt állomáshelyek és külképviseletek

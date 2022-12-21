@@ -10,13 +10,13 @@ b)[^6] a pályázat benyújtásakor az előző tartós külszolgálata megszűn�
 
 c) akinek közvetlenül a pályázat benyújtását megelőzően a külképviselet bezárása, átszervezése, illetve létszámcsökkentése miatt megszűnik a tartós külszolgálata, és tartós külszolgálatának időtartama annak megszűnésekor nem éri el a három évet.
 
-(1a)[^7] A miniszter által közvetlenül irányított vagy felügyelt központi hivatali formában működő kormányzati igazgatási szerv kormánytisztviselője, valamint a miniszter által irányított, továbbá a miniszter tulajdonosi joggyakorlása alá tartozó elsődlegesen külgazdasági, így különösen exportösztönzési, külkereskedelem-fejlesztési, beruházásösztönzési, exportfinanszírozási, exporthitelezési, valamint kapcsolódó hitelintézeti feladatokat ellátó gazdasági társaság munkavállalója pályázatot nyújthat be külgazdasági attasé feladatot ellátó diplomata munkakör betöltésére, ha megfelel a 7. § (1), (2) és (7a) bekezdés a) és c) pontja szerinti pályázati feltételeknek, valamint
+(1a)[^7] A miniszter által közvetlenül irányított vagy felügyelt központi hivatali formában működő kormányzati igazgatási szerv kormánytisztviselője, valamint a miniszter által irányított, továbbá a miniszter tulajdonosi joggyakorlása alá tartozó elsődlegesen külgazdasági feladatokat ellátó gazdasági társaság munkavállalója pályázatot nyújthat be külgazdasági attasé feladatot ellátó diplomata munkakör betöltésére, ha megfelel a 7. § (1), (2) és (7a) bekezdés a) és c) pontja szerinti pályázati feltételeknek, valamint
 
 a) írásban vállalja, hogy sikeres pályázat esetén legkésőbb a tartós külszolgálati kihelyezés napjáig eredményes külügyi szakmai vizsgát tesz, és
 
-b) a 3. § (1) bekezdés a)–c) pontjában meghatározott feltételeket a miniszter által közvetlenül irányított vagy felügyelt központi hivatali formában működő kormányzati igazgatási szerv, vagy a miniszter által irányított, továbbá a miniszter tulajdonosi joggyakorlása alá tartozó elsődlegesen külgazdasági, így különösen exportösztönzési, külkereskedelem-fejlesztési, beruházásösztönzési, exportfinanszírozási, exporthitelezési, valamint kapcsolódó hitelintézeti feladatokat ellátó gazdasági társaság munkavállalója állományában teljesítette.
+b)[^8] a 3. § (1) bekezdés a)–c) pontjában meghatározott feltételeket a miniszter által közvetlenül irányított vagy felügyelt központi hivatali formában működő kormányzati igazgatási szerv, vagy a miniszter által irányított, továbbá a miniszter tulajdonosi joggyakorlása alá tartozó elsődlegesen külgazdasági feladatokat ellátó gazdasági társaság munkavállalója állományában teljesítette.
 
-(1b)[^8] Az egységes külképviseleti rendszer adminisztratív-technikai működésével és fenntartásával kapcsolatos feladatokról, valamint egyes kormányrendeletek módosításáról szóló 17/2019. (II. 14.) Korm. rendelet 4. § (1) bekezdése szerinti, a miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaság munkavállalója pályázatot nyújthat be a 7. § (8) bekezdése szerinti munkakör betöltésére.
+(1b)[^9] Az egységes külképviseleti rendszer adminisztratív-technikai működésével és fenntartásával kapcsolatos feladatokról, valamint egyes kormányrendeletek módosításáról szóló 17/2019. (II. 14.) Korm. rendelet 4. § (1) bekezdése szerinti, a miniszter tulajdonosi joggyakorlása alá tartozó gazdasági társaság munkavállalója pályázatot nyújthat be a 7. § (8) bekezdése szerinti munkakör betöltésére.
 
 (2) A várakozási időbe nem számít bele a fizetés nélküli szabadság időtartama.
 
@@ -25,5 +25,6 @@ b) a 3. § (1) bekezdés a)–c) pontjában meghatározott feltételeket a minis
 [^4]: A 2. § a 6/2019. (X. 28.) KKM rendelet 12. § 3. pontja szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdés nyitó szövegrésze a 6/2019. (X. 28.) KKM rendelet 12. § 4–5. pontja szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdés b) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 4. pontja szerint módosított szöveg.
-[^7]: A 3. § (1a) bekezdését a 6/2019. (X. 28.) KKM rendelet 2. §-a iktatta be.
-[^8]: A 3. § (1b) bekezdését a 6/2019. (X. 28.) KKM rendelet 2. §-a iktatta be.
+[^7]: A 3. § (1a) bekezdését a 6/2019. (X. 28.) KKM rendelet 2. §-a iktatta be, szövege a 16/2022. (XII. 20.) KKM rendelet 3. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § (1a) bekezdés b) pontja a 16/2022. (XII. 20.) KKM rendelet 3. § b) pontja szerint módosított szöveg.
+[^9]: A 3. § (1b) bekezdését a 6/2019. (X. 28.) KKM rendelet 2. §-a iktatta be.
