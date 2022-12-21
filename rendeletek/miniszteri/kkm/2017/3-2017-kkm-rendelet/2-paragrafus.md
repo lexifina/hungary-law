@@ -6,6 +6,6 @@ b) a külképviselet élhetőségi besorolása és külpolitikai viszonyrendszer
 
 c) a költségtérítés-szorzókat
 
-## az 1. melléklet tartalmazza.
+az 1. melléklet tartalmazza.
 
 (2) A külképviselet külpolitikai viszonyrendszerben elfoglalt helye, valamint élhetőségi besorolása tekintetében az 1. melléklet összesített, külképviseleti besorolási szorzót állapít meg.

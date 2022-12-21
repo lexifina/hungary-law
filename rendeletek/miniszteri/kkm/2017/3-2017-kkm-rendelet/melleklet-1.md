@@ -1,10 +1,10 @@
 ## 4. § E rendelet rendelkezéseit a hatálybalépésekor munkaviszony keretében tartós külszolgálatot teljesítő kihelyezettek tekintetében is megfelelően alkalmazni kell.
 
-1. melléklet a 3/2017. (II. 28.) KKM rendelethez[^1]
+1. melléklet a 3/2017. (II. 28.) KKM rendelethez[^3]
 
 |  | A | B | C | D | E | F |
 
-|  | Állomáshelyek | Deviza- alapilletmény | Külképviseleti besorolás | Lakhatási költségtérítés szorzó | Vegyes költségtérítés szorzó | Gyermeknevelési költségtérítés szorzó |
+|  | Állomáshelyek | Deviza-alapilletmény | Külképviseleti besorolás | Lakhatási költségtérítés szorzó | Vegyes költségtérítés szorzó | Gyermeknevelési költségtérítés szorzó |
 
 | Nagykövetség |
 
@@ -220,73 +220,73 @@
 
 | 104. | Düsseldorf | 461 120 Ft | 15% | 147% | 24% | 90% |
 
-| 105. | Erbíl | 454 520 Ft | 40% | 163% | 36% | 65% |
+| 105. | Edinburgh | 491 480 Ft | 0% | 255% | 29% | 193% |
 
-| 106. | Eszék | 435 600 Ft | 0% | 106% | 23% | 84% |
+| 106. | Erbíl | 454 520 Ft | 40% | 163% | 36% | 65% |
 
-| 107. | Gdańsk | 404 360 Ft | 20% | 85% | 27% | 85% |
+| 107. | Eszék | 435 600 Ft | 0% | 106% | 23% | 84% |
 
-| 108. | Ho Si Minh-Város | 428 120 Ft | 5% | 151% | 42% | 111% |
+| 108. | Gdańsk | 404 360 Ft | 20% | 85% | 27% | 85% |
 
-| 109. | Hongkong | 499 840 Ft | 5% | 587% | 36% | 185% |
+| 109. | Ho Si Minh-Város | 428 120 Ft | 5% | 151% | 42% | 111% |
 
-| 110. | Innsbruck | 509 960 Ft | 0% | 135% | 23% | 148% |
+| 110. | Hongkong | 499 840 Ft | 5% | 587% | 36% | 185% |
 
-| 111. | Isztambul | 389 840 Ft | 30% | 116% | 25% | 104% |
+| 111. | Innsbruck | 509 960 Ft | 0% | 135% | 23% | 148% |
 
-| 112. | Jekatyerinburg | 448 800 Ft | 15% | 170% | 30% | 198% |
+| 112. | Isztambul | 389 840 Ft | 30% | 116% | 25% | 104% |
 
-| 113. | Kassa | 454 960 Ft | 5% | 94% | 24% | 71% |
+| 113. | Jekatyerinburg | 448 800 Ft | 15% | 170% | 30% | 198% |
 
-| 114. | Kazany | 448 800 Ft | 15% | 170% | 29% | 198% |
+| 114. | Kassa | 454 960 Ft | 5% | 94% | 24% | 71% |
 
-| 115. | Kolozsvár | 421 960 Ft | 20% | 85% | 25% | 125% |
+| 115. | Kazany | 448 800 Ft | 15% | 170% | 29% | 198% |
 
-| 116. | Krakkó | 404 360 Ft | 20% | 85% | 25% | 85% |
+| 116. | Kolozsvár | 421 960 Ft | 20% | 85% | 25% | 125% |
 
-| 117. | Kuangcsou | 496 320 Ft | 10% | 247% | 36% | 185% |
+| 117. | Krakkó | 404 360 Ft | 20% | 85% | 25% | 85% |
 
-| 118. | Lendva | 436 480 Ft | 0% | 85% | 24% | 56% |
+| 118. | Kuangcsou | 496 320 Ft | 10% | 247% | 36% | 185% |
 
-| 119. | Los Angeles | 478 720 Ft | 5% | 260% | 38% | 189% |
+| 119. | Lendva | 436 480 Ft | 0% | 85% | 24% | 56% |
 
-| 120. | Manchester | 491 480 Ft | 0% | 255% | 28% | 193% |
+| 120. | Los Angeles | 478 720 Ft | 5% | 260% | 38% | 189% |
 
-| 121. | Milánó | 468 160 Ft | 0% | 131% | 25% | 101% |
+| 121. | Manchester | 491 480 Ft | 0% | 255% | 28% | 193% |
 
-| 122. | Montreál | 478 720 Ft | 5% | 154% | 40% | 107% |
+| 122. | Milánó | 468 160 Ft | 0% | 131% | 25% | 101% |
 
-| 123. | Mumbai | 438 680 Ft | 15% | 518% | 34% | 84% |
+| 123. | Montreál | 478 720 Ft | 5% | 154% | 40% | 107% |
 
-| 124. | München | 461 120 Ft | 30% | 136% | 25% | 90% |
+| 124. | Mumbai | 438 680 Ft | 15% | 518% | 34% | 84% |
 
-| 125. | New York FK | 511 720 Ft | 30% | 250% | 35% | 247% |
+| 125. | München | 461 120 Ft | 30% | 136% | 25% | 90% |
 
-| 126. | Sanghaj | 496 320 Ft | 10% | 250% | 34% | 185% |
+| 126. | New York FK | 511 720 Ft | 30% | 250% | 35% | 247% |
 
-| 127. | São Paulo | 418 440 Ft | 15% | 171% | 41% | 88% |
+| 127. | Sanghaj | 496 320 Ft | 10% | 250% | 34% | 185% |
 
-| 128. | Stuttgart | 461 120 Ft | 15% | 194% | 25% | 90% |
+| 128. | São Paulo | 418 440 Ft | 15% | 171% | 41% | 88% |
 
-| 129. | Szabadka | 425 480 Ft | 15% | 85% | 24% | 121% |
+| 129. | Stuttgart | 461 120 Ft | 15% | 194% | 25% | 90% |
 
-| 130. | Szentpétervár | 448 800 Ft | 15% | 170% | 26% | 198% |
+| 130. | Szabadka | 425 480 Ft | 15% | 85% | 24% | 121% |
 
-| 131. | Toronto | 478 720 Ft | 10% | 174% | 36% | 107% |
+| 131. | Szentpétervár | 448 800 Ft | 15% | 170% | 26% | 198% |
 
-| 132. | Ungvár | 427 680 Ft | 55% | 85% | 24% | 116% |
+| 132. | Toronto | 478 720 Ft | 10% | 174% | 36% | 107% |
+
+| 133. | Ungvár | 427 680 Ft | 55% | 85% | 24% | 116% |
 
 | Nem önálló képviselet |
 
-| 133. | Abidjan | 494 560 Ft | 15% | 137% | 46% | 185% |
+| 134. | Abidjan | 494 560 Ft | 15% | 137% | 46% | 185% |
 
-| 134. | Besztercebánya | 454 960 Ft | 0% | 94% | 26% | 107% |
+| 135. | Besztercebánya | 454 960 Ft | 0% | 94% | 26% | 107% |
 
-| 135. | Dakar | 460 680 Ft | 15% | 148% | 46% | 185% |
+| 136. | Dakar | 460 680 Ft | 15% | 148% | 46% | 185% |
 
-| 136. | Dakka | 458 040 Ft | 15% | 132% | 34% | 204% |
-
-| 137. | Edinburgh | 491 480 Ft | 0% | 255% | 29% | 193% |
+| 137. | Dakka | 458 040 Ft | 15% | 132% | 34% | 204% |
 
 | 138. | Genf | 560 560 Ft | 0% | 288% | 26% | 165% |
 
@@ -342,4 +342,4 @@
 
 | 164. | Xiamen | 496 320 Ft | 5% | 250% | 34% | 185% |
 
-[^1]: Az 1. melléklet a 32/2021. (X. 6.) KKM rendelet 1. §-ával megállapított, a 4/2022. (III. 25.) KKM rendelet 1. §-a, az 5/2022. (IV. 8.) KKM rendelet 1. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet a 15/2022. (XII. 20.) KKM rendelet 1. §-ával megállapított szöveg.
