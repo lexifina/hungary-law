@@ -10,7 +10,7 @@
 
 ## Felelős: a miniszterelnök általános helyettese
 
-## Határidő: 2021. június 30.
+## Határidő: 2024. június 30.
 
 ## 2. felhívja a pénzügyminisztert, hogy a nemzeti jelentőségű vajdasági magyar intézmények programjai és megkezdett beruházásai finanszírozása érdekében gondoskodjon
 
@@ -29,6 +29,8 @@
 ## a b) alpont tekintetében a 2021. évi központi költségvetés tervezése során
 
 1. melléklet az 1406/2019. (VII. 8.) Korm. határozathoz
+
+9K04553_0
 
 | XV. Pénzügyminisztérium XLII. A költségvetés közvetlen bevételei és kiadásai LXV. Bethlen Gábor Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2019. forintban |
 
@@ -96,4 +98,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1176/2020. (IV. 23.) Korm. határozat 18. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1643/2022. (XII. 21.) Korm. határozat 2. pontja szerint módosított szöveg.
