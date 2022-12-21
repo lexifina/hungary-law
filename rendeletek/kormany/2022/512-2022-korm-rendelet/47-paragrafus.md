@@ -1,0 +1,3 @@
+47. § (1) Ha az audit hatóság ellenőrzési tevékenysége során a költségnyilatkozat korrekciójával járó hibát állapít meg, az igazoló hatóság a soron következő átutalás igénylési dokumentációt vagy éves elszámolást a pénzügyi korrekció összegével csökkentett mértékben nyújtja be az Európai Bizottság részére.
+
+(2) Ha az audit hatóság ellenőrzési tevékenysége során az átutalás igénylési dokumentációban nem elszámolható tételt talál, felkéri a DRP irányító hatóságot, hogy kezdeményezze az átutalás igénylési dokumentáció korrekcióját. Az igazoló hatóság az érintett tételeket kiveszi az éves elszámolásból, valamint a DRP irányító hatóságtól kapott tájékoztatás alapján szükség szerint gondoskodik az átutalás igénylési dokumentáció megfelelő korrekciójáról.

@@ -1,0 +1,1 @@
+48. § A DRP irányító hatóság a rendszerszintű szabálytalanság megállapításáról vagy a rendszerszintű szabálytalanság tudomására jutásáról az audit hatóságot és az igazoló hatóságot öt munkanapon belül értesíti.

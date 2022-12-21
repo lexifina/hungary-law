@@ -1,0 +1,1 @@
+67. § A 27. alcím a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 651/2014/EU bizottsági rendelet módosításáról szóló, 2021. július 23-i 2021/1237/EU bizottsági rendelete hatálya alá tartozó támogatást tartalmaz.
