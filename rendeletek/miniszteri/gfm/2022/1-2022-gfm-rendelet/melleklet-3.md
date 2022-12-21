@@ -38,7 +38,7 @@ II. Tulajdonosi joggyakorló: a Digitális Magyarország Ügynökség Zártkör�
 
 | 2. | Digitális Jólét Nonprofit Korlátolt Felelősségű Társaság | 01-09-986454 | 2026. december 31. |
 
-| 3. | Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság | 01-10-140237 | 2026. december 31. |
+| 3. |  |  |  |
 
 | 4. | Nemzeti Üzleti Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-141870 | 2026. december 31. |
 
@@ -74,4 +74,4 @@ V. Tulajdonosi joggyakorló: N7 Holding Nemzeti Védelmi Ipari Innovációs Zár
 
 VI. Tulajdonosi joggyakorló: Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság
 
-[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése, a 14/2022. (XI. 21.) GFM rendelet 1. § c) pontja és 2. §-a szerint módosított szöveg.
+[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése, a 14/2022. (XI. 21.) GFM rendelet 1. § c) pontja és 2. §-a, a 18/2022. (XII. 20.) GFM rendelet 3. §-a szerint módosított szöveg.
