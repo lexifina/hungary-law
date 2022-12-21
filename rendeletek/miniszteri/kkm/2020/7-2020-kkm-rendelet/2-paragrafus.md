@@ -8,7 +8,7 @@ b) az Európai Unió működéséről szóló Szerződés 107. cikk (2) bekezdé
 
 c) a közlemény 3.1. szakaszának feltételei szerint elfogadott, SA.62526 (2021/N) C(2021) 3360 final számú, 2021. május 6-i európai bizottsági határozattal [a továbbiakban: a 2. § (1) bekezdés c) pontja szerinti versenyképesség-növelő támogatás]
 
-## összhangban nyújtható.
+összhangban nyújtható.
 
 (2) A versenyképesség-növelő támogatás vissza nem térítendő, költségvetési támogatás formájában nyújtható.
 

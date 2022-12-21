@@ -22,7 +22,7 @@ h) a bázislétszámot és
 
 i) a kérelmező valamennyi pénzforgalmi számlájának bankszámlaszámát és az azt vezető hitelintézet nevét
 
-## tartalmazza.
+tartalmazza.
 
 (3) A támogatási kérelemhez mellékelni kell:
 
