@@ -1,0 +1,3 @@
+1. § A külképviseleti biztonsági szolgálat részletes szabályairól szóló 8/2017. (VIII. 3.) KKM rendelet [a továbbiakban: 8/2017. (VIII. 3.) KKM rendelet] 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) E rendelet hatálya – a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény szerinti kulturális diplomata és a kulturális intézet működéséhez kapcsolódó feladatokat ellátó, adminisztratív vagy technikai külszolgálati munkakörbe kihelyezett kormánytisztviselők kivételével – Magyarország diplomáciai és konzuli képviseletein, a nemzetközi szervezetek mellett működő állandó képviseletein, Magyarország kereskedelmi képviseletein (a továbbiakban együtt: külképviselet) tartós külszolgálatot teljesítő kormánytisztviselőkre terjed ki.”
