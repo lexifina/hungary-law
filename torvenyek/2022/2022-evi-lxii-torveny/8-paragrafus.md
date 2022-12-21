@@ -1,3 +1,1 @@
-8. § A közadatok újrahasznosításáról szóló 2012. évi LXIII. törvény 10. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A közadat újrahasznosítás céljára történő rendelkezésre bocsátását – a 17. § (6) bekezdésében meghatározott eset kivételével – az igénylő a közadatot kezelő közfeladatot ellátó szervnél, vagy annál a szervnél, amely a közadatot kezelő közfeladatot ellátó szervvel való megállapodás alapján jogosult a közadat újrahasznosítás céljából való rendelkezésre bocsátását teljesíteni, az e § rendelkezései szerint előterjesztett írásbeli kérelmével kezdeményezheti. Írásbeli kérelemnek minősül az elektronikus űrlapon benyújtott kérelem is.”
+### 8. §
