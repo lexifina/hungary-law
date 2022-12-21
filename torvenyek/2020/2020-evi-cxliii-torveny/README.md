@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2020-143-00-00
 | 2021-05-01 | 2021. évi VIII. törvény | 2020-143-00-00.2 |
 | 2021-06-29 | 2021. évi CI. törvény | 2020-143-00-00.3 |
 | 2022-05-25 | 2022. évi IV. törvény | 2020-143-00-00.4 |
+| 2022-12-21 | 2022. évi LXVIII. törvény | 2020-143-00-00.5 |
