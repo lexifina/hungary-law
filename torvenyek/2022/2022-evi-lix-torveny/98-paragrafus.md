@@ -1,1 +1,1 @@
-98. § A 2021. évi XII. törvény 4. § (6) bekezdésében az „a Számviteli tv. 50. § (4) bekezdése szerinti értékkel” szövegrész helyébe az „átadó szervezet könyveiben szereplő nyilvántartási értékkel” szöveg lép.
+### 98. §

@@ -1,9 +1,3 @@
 ## 12. A Soproni Egyetemért Alapítványról, a Soproni Egyetemért Alapítvány és a Soproni Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVII. törvény módosítása
 
-81. § (1) A Soproni Egyetemért Alapítványról, a Soproni Egyetemért Alapítvány és a Soproni Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVII. törvény (a továbbiakban: 2020. évi XXXVII. törvény) 3. § (12) bekezdése helyébe a következő rendelkezés lép:
-
-„(12) A (12a) bekezdés szerinti eljárásokban hozott döntések véglegessé válását követően az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján az Nftv.-ben meghatározott oktatási, tudományos kutatási feladatok ellátását szolgáló, Sopron, külterület 0516, 0514/1, 0514/2, valamint a 0517/1 helyrajzi számú állami tulajdonban lévő ingatlanok (a továbbiakban: ingatlanok) ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kerülnek, azzal, hogy az Alapítvány az ingatlanokat terhelő kötelezettségeket – ideértve az ingatlanok lőtérként történt használata időszakában bekövetkezett, valamint az ennek kapcsán keletkezett környezetvédelmi kötelezettségek teljesítését is – teljes körűen átvállalja.”
-
-(2) A 2020. évi XXXVII. törvény 3. §-a a következő (12a) bekezdéssel egészül ki:
-
-„(12a) A (12) bekezdésben foglalt ingatlanokat „kivett lőtér” megnevezésű ingatlanként kell nyilvántartásba venni. A művelés alól kivett terület elnevezése változásának átvezetésére irányuló eljárást az MNV Zrt. kérelmére az illetékes ingatlanügyi hatóság folytatja le. A művelés alól kivett terület elnevezése változásának ingatlan-nyilvántartási átvezetésére irányuló kérelemben kizárólag e törvénynek a művelés alól kivett terület elnevezése változását, valamint az ingatlanok helyrajzi számát tartalmazó rendelkezésére kell hivatkozni, további dokumentum benyújtása nem szükséges. Az ingatlanügyi hatóság ügyintézési határideje 15 nap.”
+### 81. §

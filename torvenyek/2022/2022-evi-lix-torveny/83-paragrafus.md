@@ -1,5 +1,1 @@
-83. § A 2020. évi XXXVIII. törvény 2. alcíme a következő 3/D. §-sal egészül ki:
-
-„3/D. § (1) A 3/C. § (1) bekezdésében és a 3. mellékletben foglalt táblázatban meghatározott társasági részesedésnek az Alapítvány tulajdonába adása 3/C. § (3) bekezdése szerinti határidejét megelőzően az érintett gazdasági társaságokkal tulajdonosi ügyletként létrehozott támogatási jogviszony a társasági részesedés tulajdonosa változását követően is fennmarad azzal, hogy a támogatást nyújtó fejezetet irányító szerv a tulajdonos személyében beállt változást követő hatvan napon belül gondoskodik a támogatási jogviszony olyan irányú módosításáról, hogy az megfeleljen az államháztartásról szóló 2011. évi CXCV. törvény 49/B. § (2) bekezdése szerinti ágazati támogatási jogviszonynak.
-
-(2) Alapítói vagyonjuttatásként biztosítani kell az Alapítvány részére az Alapítvány céljainak megvalósításához, közfeladatának ellátásához szükséges további pénzügyi forrásokat, figyelemmel a 3/C. § (1) bekezdése szerinti vagyonjuttatásra.”
+### 83. §

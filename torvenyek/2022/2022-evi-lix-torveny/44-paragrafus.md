@@ -1,3 +1,1 @@
-44. § Az Nftv. 67. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A (3) bekezdés a) és e) pontjában meghatározott eljárásokban, valamint az alap- és mesterképzés, felsőoktatási szakképzés indítása esetén a (3) bekezdés c) pontja szerinti eljárásban − ide nem értve a 15. § (4a) bekezdésének megfelelő felsőoktatási intézmény által a 15. § (1a) bekezdés szerint létesített, valamint azon a képzési területen indítandó mesterképzését, amelyen alapképzés és mesterképzés vagy osztatlan képzés folytatására korábban már jogosultságot szerzett − az oktatási hivatal beszerzi a MAB szakvéleményét. Az oktatási hivatal mesterképzés indítása esetén a (3) bekezdés c) pontja szerinti, valamint a (3) bekezdés e) pontjában meghatározott eljárásban megfogalmazott MAB szakértői véleményéhez kötve van.”
+### 44. §

@@ -1,1 +1,1 @@
-96. § A 2021. évi IX. törvény 13. § (2) bekezdésében az „alapító, illetve a csatlakozó” szövegrész helyébe az „alapító, a csatlakozó, illetve kizárólag a (9) bekezdés szerinti közfeladathoz rendelt vagyonkezelői jog alapítása során a Nemzeti Földügyi Központ” szöveg lép.
+### 96. §

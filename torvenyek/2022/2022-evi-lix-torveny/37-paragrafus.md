@@ -1,3 +1,1 @@
-37. § Az Nftv. a következő 49/A. §-sal egészül ki:
-
-„49/A. § A felsőoktatási intézmény gondoskodik az adott szakon szerezhető szakképzettség gyakorlásához szükséges idegen szaknyelvi ismeretek oktatásáról, a tanterv részeként biztosítja a feltételeket ahhoz, hogy a hallgató megszerezhesse a tantervben meghatározott, az adott szakon szerezhető szakképzettség gyakorlásához szükséges idegen szaknyelvi ismereteket. A felsőoktatási intézmény a tantervben foglaltak szerint biztosítja a tudásmérés lehetőségét a hallgató részére és értékeli az idegen szaknyelvi ismeretek megszerzését. A felsőoktatási intézmény a tantervben meghatározhat az idegen szaknyelvi ismeretként elfogadható államilag elismert nyelvvizsgát vagy más nyelvtudásmérést.”
+### 37. §

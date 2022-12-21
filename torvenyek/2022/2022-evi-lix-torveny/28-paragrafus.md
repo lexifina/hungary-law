@@ -1,3 +1,1 @@
-28. § Az Nftv. 31. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A költségvetési szervnél foglalkoztatott oktató és a kutató hetvenedik életévének betöltéséig foglalkoztatható, a magán és egyházi fenntartású felsőoktatási intézményekben foglalkoztatott oktató és kutató esetében a szervezeti és működési szabályzat foglalkoztatási korhatárt állapíthat meg, amely nem lehet alacsonyabb, mint a költségvetési szervnél foglalkoztatott oktatóra és kutatóra megállapított, e törvény szerinti foglalkoztatási korhatár. Főiskolai, illetve egyetemi tanár esetén a foglalkoztatásra irányuló jogviszony megszüntetésére a rektor jogosult.”
+### 28. §
