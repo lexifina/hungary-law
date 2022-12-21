@@ -1,5 +1,3 @@
-4. § Hatályát veszti a 363/2011. (XII. 30.) Korm. rendelet
+4. §[^4]
 
-a) 3. § (2) és (3) bekezdése, valamint
-
-b) 12. §-a.
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

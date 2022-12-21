@@ -1,7 +1,3 @@
-6. § A 222/2019. (IX. 25.) Korm. rendelet
+6. §[^6]
 
-a) 2. melléklete a 2. melléklet,
-
-b) 3. melléklete a 3. melléklet
-
-szerint módosul.
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
