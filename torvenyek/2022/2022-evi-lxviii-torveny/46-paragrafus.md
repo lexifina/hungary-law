@@ -1,13 +1,3 @@
 ## 14. Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény módosítása
 
-46. § Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény 5/B alcíme a következő 7/D. §-sal egészül ki:
-
-„7/D. § (1) Az állami tulajdonban álló, Budapest XII. kerület, külterület 010503/31 helyrajzi számú ingatlant (a továbbiakban: Ingatlan) az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján, a sport- és kulturális igényeknek megfelelő, nemzetközi színvonalú, összetett szolgáltatásokat biztosítani képes közösségi használatú parkerdő és kiszolgáló épületek, valamint a szükséges infrastruktúra létrehozásának elősegítése érdekében ingyenesen a Budapest Főváros XII. kerület Hegyvidéki Önkormányzat tulajdonába kell adni, azzal a feltétellel, hogy a Budapest Főváros XII. kerület Hegyvidéki Önkormányzat a (2) bekezdés szerinti szerződésben az Ingatlant terhelő kötelezettségeket teljeskörűen átvállalja.
-
-(2) Az (1) bekezdés szerinti tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében az MNV Zrt. készíti elő és köti meg. A szerződésben az Ingatlan forgalmi értékeként az MNV Zrt. által megállapított forgalmi értéket kell megjelölni. A szerződésben rögzíteni kell, hogy az Ingatlan használata során a Budapest Főváros XII. kerület Hegyvidéki Önkormányzat kötelezettsége a környezet- és természetvédelmi szempontok figyelembevétele, különösen a biológiai sokféleség védelme, fenntartása és a jövő nemzedékek számára való megőrzése.
-
-(3) Az (1) bekezdésben meghatározott juttatási cél megvalósítása a környezetvédelmi előírások és a védett természeti területek védettségi szintjének sérelmével nem járhat.
-
-(4) Az Ingatlan vonatkozásában fennálló vagyonkezelői jog – külön elszámolás nélkül – Budapest Főváros XII. kerület Hegyvidéki Önkormányzat tulajdonszerzésével egyidejűleg megszűnik, azzal, hogy az MNV Zrt. és a Budapest Főváros XII. kerület Hegyvidéki Önkormányzat a vagyonkezelői jog megszűnéséből fakadóan az Ingatlan tekintetében egymással szemben követelést semmilyen jogcímen nem támaszthatnak.
-
-(5) Az (1) bekezdés szerinti vagyonjuttatás az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.”
+### 46. §

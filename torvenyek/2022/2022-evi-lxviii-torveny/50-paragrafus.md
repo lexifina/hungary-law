@@ -1,5 +1,3 @@
-## „Az Országgyűlés Hivatala vagy a beruházásokra a Kormány döntésével megbízott állami projektcég (a továbbiakban együtt: Építtető) által a kiemelt nemzeti emlékhely területén és a településkép-védelmi környezetében megvalósított beruházások (a továbbiakban: Beruházások) során létrehozott közmű- és közterületi infrastruktúra elemei a műszaki átadás-átvételi eljárás eredményes lezárását követően ingyenesen, a közmű, illetve a közterület tulajdonosa tulajdonába adhatóak.”
-
 ## 16. Záró rendelkezések
 
 50. § (1) Ez a törvény – a (2)–(4) bekezdésben foglalt kivétellel – kihirdetését követő napon lép hatályba.
