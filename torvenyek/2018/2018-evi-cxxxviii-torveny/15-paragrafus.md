@@ -1,3 +1,3 @@
 ## 7. Módosító rendelkezések
 
-15. §
+### 15. §
