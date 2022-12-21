@@ -26,6 +26,8 @@ j)[^10] Bay Zoltán-díj,
 
 k)[^11] Magyar Űrkutatásért Érdemérem
 
+adományozható.
+
 [^1]: A 2. § (1) bekezdése a 3/2019. (VI. 13.) KKM rendelet 6. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (2) bekezdése a 3/2016. (IV. 21.) KKM rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § (2) bekezdés b) pontját a 6/2020. (II. 28.) KKM rendelet 6. § a) pontja hatályon kívül helyezte.

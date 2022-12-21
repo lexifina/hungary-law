@@ -1,5 +1,3 @@
-## adományozható.
-
 3. § (1)[^12] Miniszteri elismerés adományozását legkésőbb az adományozási alkalmat megelőző 60. napig, a jelölt életútjának, illetve tevékenységének rövid ismertetését tartalmazó, indokolt kezdeményezéssel a minisztérium államtitkára, a közigazgatási államtitkára, helyettes államtitkára és az 1. §-ban meghatározott szerv vezetője kezdeményezheti a miniszternél.
 
 (2) Az (1) bekezdésben meghatározott határidő után beérkezett kezdeményezést a soron következő adományozási alkalomnál lehet figyelembe venni.
