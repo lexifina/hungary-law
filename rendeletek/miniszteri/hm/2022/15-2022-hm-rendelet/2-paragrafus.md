@@ -1,0 +1,1 @@
+2. § A honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet 4. melléklet A) táblázat E:20 mezőjében az „államtitkári főtanácsos (K)” szövegrész helyébe a „vezető kiemelt katonai főreferens (K)” szöveg lép.
