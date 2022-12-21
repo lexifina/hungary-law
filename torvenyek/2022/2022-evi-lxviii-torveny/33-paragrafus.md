@@ -1,0 +1,1 @@
+33. § A 2018. évi CXXXVIII. törvény 4. § (8) bekezdésében a „közműveket” szövegrész helyébe a „városi, elővárosi vagy helyi vasúti pályahálózatot és a vasúti pályahálózat működéséhez szükséges eszközöket, közműveket” szöveg lép.
