@@ -1,1 +1,3 @@
-2. § A KKM rendelet 12/L. § e) pontjában a „2022. december” szövegrész helyébe a „2023. december” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

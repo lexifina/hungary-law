@@ -1,3 +1,3 @@
-1. § A koronavírus-járvány következtében szükségessé vált versenyképesség-növelő támogatásról szóló 7/2020. (IV. 16.) KKM rendelet (a továbbiakban: KKM rendelet) a következő 13/D. §-sal egészül ki:
+1. §[^2]
 
-„13/D. § E rendeletnek a koronavírus-járvány következtében szükségessé vált versenyképesség-növelő támogatásról szóló 7/2020. (IV. 16.) KKM rendelet módosításáról szóló 19/2022. (XII. 20.) KKM rendelettel (a továbbiakban: Módr.3) megállapított 12/L. § e) pontja a Módr.3 hatálybalépése előtt megkötött támogatási szerződések módosítása esetén is alkalmazható azzal, hogy a módosított támogatási szerződésben a kedvezményezettnek vállalnia kell különösen a 12/M. § szerinti kötelező üzemeltetési időszaknak a módosuló beruházás befejezési határidő szerinti megváltoztatását, valamint a benyújtott biztosíték érvényességi idejének a módosított támogatási szerződésben meghatározott időszakra kiterjedő időbeli meghosszabbítását is.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
