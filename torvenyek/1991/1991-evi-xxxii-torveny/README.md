@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-32-00-00
 | 2013-01-01 | 2012. évi CCXI. törvény | 1991-32-00-00.15 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 1991-32-00-00.16 |
 | 2018-01-01 | 2017. évi L. törvény | 1991-32-00-00.17 |
+| 2022-12-22 | 2022. évi LXXVIII. törvény | 1991-32-00-00.18 |

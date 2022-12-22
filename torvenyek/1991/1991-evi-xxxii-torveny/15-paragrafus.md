@@ -1,3 +1,3 @@
 ## Egyéb rendelkezések
 
-15. §
+### 15. §
