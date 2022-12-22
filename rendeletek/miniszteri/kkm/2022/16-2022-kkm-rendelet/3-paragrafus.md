@@ -1,5 +1,3 @@
-3. § Hatályát veszti a 6/2017. (VII. 10.) KKM rendelet
+3. §[^4]
 
-a) 3. § (1a) bekezdés nyitó szövegrészében az „ , így különösen exportösztönzési, külkereskedelem-fejlesztési, beruházásösztönzési, exportfinanszírozási, exporthitelezési, valamint kapcsolódó hitelintézeti” szövegrész,
-
-b) 3. § (1a) bekezdés b) pontjában az „ , így különösen exportösztönzési, külkereskedelem-fejlesztési, beruházásösztönzési, exportfinanszírozási, exporthitelezési, valamint kapcsolódó hitelintézeti” szövegrész.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
