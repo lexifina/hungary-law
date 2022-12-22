@@ -1,1 +1,1 @@
-38. § A KEOA tv. 5. §-ában a „bekezdése és” szövegrész helyébe a „bekezdése, a” szöveg, az „és (5), valamint (7)–(9) bekezdése” szövegrész helyébe a „ , (5) és (7)–(9) bekezdése, valamint a 3/A. §” szöveg lép.
+### 38. §
