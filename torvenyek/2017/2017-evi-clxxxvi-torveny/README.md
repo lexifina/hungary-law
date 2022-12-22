@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-186-00-00
 | 2019-01-02 | 2010. évi CXXX. törvény | 2017-186-00-00.8 |
 | 2019-11-29 | 2019. évi LXXXXII. törvény | 2017-186-00-00.9 |
 | 2020-12-19 | 2020. évi CXLVI. törvény | 2017-186-00-00.10 |
+| 2022-12-22 | 2022. évi LXXV. törvény | 2017-186-00-00.13 |

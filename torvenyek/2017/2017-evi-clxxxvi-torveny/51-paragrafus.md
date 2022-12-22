@@ -1,3 +1,3 @@
 ## 31. A kisajátításról szóló 2007. évi CXXIII. törvény módosítása
 
-51–52. §
+### 51. §
