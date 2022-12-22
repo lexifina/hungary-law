@@ -30,6 +30,8 @@
 
 12. Kulturális örökség elemeinek kutatása: a kulturális örökség elemeire vonatkozó, annak pótolhatatlan forrásértékét feltáró, tudományos módszereket alkalmazó, roncsolásmentes vagy roncsolásos beavatkozással járó eljárás.
 
+12a. Magyar emlékpont: olyan, az egyetemes vagy a nemzeti közemlékezetben kiemelkedő helyet elfoglaló személlyel összefüggésben meghatározó jelentőséggel bíró helyszín, amelyet a Nemzeti Emlékhely és Kegyeleti Bizottság (a továbbiakban: Bizottság) emlékponttá nyilvánít.
+
 13. Megelőző feltárás: írásbeli szerződés alapján, tudományos módszerrel végzett régészeti feladatellátás (régészeti megfigyelés, próbafeltárás, teljes felületű feltárás), amely a földmunkával járó beavatkozások, fejlesztések, beruházások által érintett, nyilvántartott régészeti lelőhelyek feltárására irányul.
 
 14. Mentő feltárás: régészeti emlék vagy lelet régészeti feltáráson kívüli, váratlan előkerülése során alkalmazandó, a közvetlenül érintett elemek szakszerű megmentésére irányuló azonnali beavatkozás.
@@ -58,7 +60,7 @@ e) azon közérdekű célú beruházás, amelynek megvalósítása érdekében a
 
 21. Nemzeti emlékhely: a nemzet történelmében meghatározó jelentőséggel bíró helyszín, amely a magyar nemzet, illetve a magyar és az ország területén élő nemzetiségek összetartozását erősítő és identitásképző jellegénél fogva a nemzet önképében kiemelkedő fontossággal bír, továbbá amely országos jelentőségű állami megemlékezés színhelye lehet, és amelyet az Országgyűlés törvénnyel nemzeti emlékhellyé nyilvánít.
 
-21a. Nemzeti emlékpont: olyan, az egyetemes vagy a nemzeti közemlékezetben kiemelkedő helyet elfoglaló személlyel összefüggésben meghatározó jelentőséggel bíró helyszín, amelyet a Nemzeti Emlékhely és Kegyeleti Bizottság (a továbbiakban: Bizottság) nemzeti emlékponttá nyilvánít.
+21a.
 
 21b. Nevesített műemléki érték: értékmeghatározó szakértői vizsgálat alapján megállapított és közhiteles nyilvántartásban szereplő érték, amely a védetté nyilvánítást megalapozza; a nevesítés a műemléki érték egészére vagy annak egyes elemeire – ideértve alkotórészére, tartozékára, beépített berendezési tárgyaira – terjed ki.
 

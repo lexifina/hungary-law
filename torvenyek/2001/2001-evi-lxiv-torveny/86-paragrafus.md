@@ -6,7 +6,7 @@ a) kiemelten védett műemlék ingatlan esetében, valamint az 1998. január 1-j
 
 b) védetté nyilvánított kulturális javak ellenérték mellett történő tulajdonátruházása esetében.
 
-(1a)
+(1a) A nemzeti emlékhely részét képező ingatlanra a Magyar Államot elővásárlási jog illeti meg. A Magyar Államot nem illeti meg elővásárlási jog, ha az ingatlan tulajdonjogát egyházi jogi személy az érintett egyház belső egyházi jogi személyére ruházza át.
 
 (2) Az elővásárlási jog ingatlan-nyilvántartásba történő bejegyzése érdekében a hatóság megkeresi az ingatlanügyi hatóságot.
 
