@@ -1,0 +1,2343 @@
+# A Kormány 542/2022. (XII. 22.) Korm. rendelete
+
+Magyar Közlöny 2022. évi 212. szám, 2022. december 22. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/LqwsanEPiyzqIbymcqi4639ccf43985ae/dokumentumok/a3ea7fc86cf7a279a7c4a09e240ea1b90a3470bc/letoltes)
+
+---
+
+A Kormány 542/2022. (XII. 22.) Korm. rendelete
+a sportbeli dopping elleni nemzetközi egyezmény I. és II. melléklete módosításának kihirdetéséről
+1. §
+A Kormány e rendelettel felhatalmazást ad a sportbeli dopping elleni nemzetközi egyezmény kihirdetéséről szóló
+99/2007. (V. 8.) Korm. rendelettel kihirdetett, a sportbeli dopping elleni nemzetközi egyezmény (a továbbiakban:
+Egyezmény) I. és II. melléklete módosítása kötelező hatályának elismerésére.
+2. § (1) A Kormány az Egyezmény I. melléklete módosítását e rendelettel kihirdeti.
+(2) A Kormány az Egyezmény II. melléklete módosítását e rendelettel kihirdeti.
+3. § (1) Az Egyezmény I. melléklete módosításának hivatalos magyar nyelvű fordítását az 1. melléklet tartalmazza.
+(2) Az Egyezmény I. melléklete módosításának hiteles angol nyelvű szövegét a 2. melléklet tartalmazza.
+4. § (1) Az Egyezmény II. melléklete módosításának hivatalos magyar nyelvű fordítását a 3. melléklet tartalmazza.
+(2) Az Egyezmény II. melléklete módosításának hiteles angol nyelvű szövegét a 4. melléklet tartalmazza.
+5. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 2–4. § és a 7. §, valamint az 1–4. melléklet 2023. január 1-jén lép hatályba.
+(3) Az Egyezmény módosításokkal egységes szerkezetbe foglalt hiteles szövegének és annak hivatalos magyar nyelvű
+fordításának közzétételéről a sportpolitikáért felelős miniszter gondoskodik.
+6. §
+E rendelet végrehajtásához szükséges intézkedésekről a sportpolitikáért felelős miniszter gondoskodik.
+7. § (1) Hatályát veszti a sportbeli dopping elleni nemzetközi egyezmény I. és II. melléklete módosításának kihirdetéséről
+szóló 537/2020. (XII. 1.) Korm. rendelet.
+(2) Hatályát veszti a sportbeli dopping elleni nemzetközi egyezmény I. melléklete módosításának kihirdetéséről szóló
+730/2021. (XII. 20.) Korm. rendelet.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 542/2022. (XII. 22.) Korm. rendelethez
+„I. melléklet – Tiltólista – Nemzetközi követelmények
+Párizs, 2023. január 1.
+2023. ÉVI TILTÓLISTA
+NEMZETKÖZI DOPPINGELLENES SZABÁLYZAT
+Érvényes 2023. január 1-jétől
+Bevezetés
+A mindenkor hatályos Tiltólista a Nemzetközi Doppingellenes Program részét képező, kötelezően alkalmazandó
+nemzetközi követelmény.
+A Tiltólista tartalmának aktualizálására évente kerül sor, amelyet a WADA által elősegített átfogó konzultációs
+folyamat előz meg. A Tiltólista hatályba lépésének napja 2023. január 1.
+A Tiltólista hivatalos szövegét a WADA gondozza, a szöveg angol és francia nyelven kerül közzétételre. Az angol
+és a francia nyelvű változat közötti bármely eltérés esetén az angol nyelvű szöveg irányadó.
+Versenyidőszakon belül tiltott
+Figyelembe véve egyes sportágakban a WADA által jóváhagyott eltérő időtartamot, a Versenyidőszak azon
+Versenyek kezdetét megelőző nap este 11:59-kor kezdődik, amelyeken a Sportoló részt vesz; az időszak a
+verseny végéig tart, és az adott versenyhez kapcsolódó mintavételi folyamatot is magába foglalja.
+Mindenkor tiltott
+A Nemzetközi Doppingellenes Szabályzat által meghatározott, versenyidőszakon belül és azon kívül is tiltott
+anyagok vagy módszerek.
+Meghatározott és nem meghatározott
+A Nemzetközi Doppingellenes Szabályzat 4.2.2. Cikke alapján „a 10. cikk alkalmazásában minden Tiltott Anyag
+a „meghatározott anyag” kategóriájába tartozik, kivéve, ha a tiltólistán ettől eltérően szerepel. Mindazonáltal a
+Tiltott Módszerek alapesetben nem minősülnek „meghatározott módszernek”, kivéve, ha a tiltólistán kifejezetten
+„meghatározott módszerként” vannak feltüntetve.” Ezen Cikkhez fűzött megjegyzés szerint „a 4.2.2. cikkben
+hivatkozott meghatározott anyagok és módszerek semmiképpen sem tekintendők kevésbé fontosnak vagy
+kevésbé veszélyesnek, mint a többi doppingszer vagy módszer. Mindössze arról van szó, hogy ezek olyan
+szerek, amelyeket a Sportoló nagyobb valószínűséggel használhat más célra is, azaz nem kizárólag a
+sportteljesítmény növelése érdekében.”
+Függőséget okozó szerek
+A Nemzetközi Doppingellenes Szabályzat 4.2.3. Cikkének megfelelően a Függőséget okozó szerek olyan szerek,
+amelyek jellemzője, hogy használatuk a társadalom körében, a sport területén kívül, viszonylag széles körben
+elterjedt. A következőek kerültek kijelölésre Függőséget okozó szerekként: kokain, diamorphine (heroin),
+methylenedioxymethamphetamine (MDMA/ „ecstasy”), tetrahydrocannabinol (THC).
+MINDENKOR (VERSENYIDŐSZAKON BELÜL ÉS KÍVÜL) TILTOTT ANYAGOK
+ÉS MÓDSZEREK
+TILTOTT ANYAGOK
+S0. NEM ENGEDÉLYEZETT SZEREK
+Mindenkor (versenyidőszakon belül és kívül) tiltott anyag.
+A csoportba tartozó tiltott anyagok „meghatározott anyagnak” minősülnek.
+Minden esetben tiltott bármely olyan farmakológiai szer, amely nem szerepel a Lista valamely következő
+részében, és amely jelenleg nem rendelkezik valamely kormányzati szabályozó egészségügyi hatóság humán
+terápiás használatra történő jóváhagyásával (például preklinikai fázisban lévő vegyületek vagy vizsgálati
+készítmények, vagy olyan vizsgálati készítmények, amelyek vizsgálatát félbehagyták, új pszichoaktív anyagok,
+kizárólag állatgyógyászati használatra jóváhagyott készítmények).
+A csoport számos különböző anyagot magába foglal beleértve – de nem kizárólagosan – a BPC-157-et.
+S1. ANABOLIKUS SZEREK
+Mindenkor (versenyidőszakon belül és kívül) tiltott anyag.
+A csoportba tartozó tiltott anyagok „nem meghatározott anyagnak” minősülnek.
+
+Az anabolikus szerek tiltottak.
+1. Anabolikus Androgén Szteroidok (AAS)
+Exogén módon alkalmazva, a teljesség igénye nélkül:
+1-androstenediol (5α-androst-1-ene-3β,17β-diol);
+1-androstenedione (5α-androst-1-ene-3,17-dione);
+1-androsterone (3α-hydroxy-5α-androst-1-ene-17-one);
+1-epiandrosterone (3β-hydroxy-5α-androst-1-ene-17-one);
+1-testosterone (17β-hydroxy-5α-androst-1-en-3-one);
+4-androstenediol (androst-4-ene-3β,17β-diol);
+4-hydroxytestosterone (4,17β-dihydroxyandrost-4-en-3-one);
+5-androstenedione (androst-5-ene-3,17-dione);
+7α-hydroxy-DHEA;
+7β-hydroxy-DHEA;
+7-keto-DHEA;
+17α-methylepithiostanol (epistane);
+19-norandrostenediol (estr-4-ene-3,17-diol);
+19-norandrostenedione (estr-4-ene-3,17-dione);
+androst-4-ene-3,11,17- trione (11-ketoandrostenedione, adrenosterone);
+androstanolone (5α-dihydrotestosterone, 17β-hydroxy-5α-androstan-3-one);
+androstenediol (androst-5-ene-3β,17β-diol);
+androstenedione (androst-4-ene-3,17-dione);
+bolasterone;
+boldenone;
+boldione (androsta-1,4-diene-3,17-dione);
+calusterone;
+clostebol;
+danazol ([1,2]oxazolo[4',5':2,3]pregna-4-en-20-yn-17α -ol);
+dehydrochlormethyltestosterone (4-chloro-17β-hydroxy-17α-methylandrosta-1,4-dien-3-one);
+desoxymethyltestosterone (17α-methyl-5α-androst-2-en-17β-ol és 17α-methyl-5α-androst-3-en-17β-
+ol);
+drostanolone;
+epiandrosterone (3β-hydroxy-5α-androstan-17-one);
+epi-dihydrotestosterone (17β-hydroxy-5β-androstan-3-one);
+epitestosterone;
+ethylestrenol (19-norpregna-4-en-17α-ol);
+fluoxymesterone;
+formebolone;
+furazabol (17α-methyl [1,2,5]oxadiazolo[3',4':2,3]-5α-androstan-17β-ol);
+gestrinone;
+mestanolone;
+mesterolone;
+metandienone (17β-hydroxy-17α-methylandrosta-1,4-dien-3-one);
+metenolone;
+methandriol;
+methasterone (17β-hydroxy-2α,17α-dimethyl-5α-androstan-3-one);
+methyl-1-testosterone (17β-hydroxy-17α-methyl-5α-androst-1-en-3-one);
+methylclostebol;
+methyldienolone (17β-hydroxy-17α-methylestra-4,9-dien-3-one);
+methylnortestosterone (17β-hydroxy-17α-methylestr-4-en-3-one);
+methyltestosterone;
+metribolone (methyltrienolone, 17β-hydroxy-17α-methylestra-4,9,11-trien-3-one);
+mibolerone;
+nandrolone (19-nortestosterone);
+norboletone;
+norclostebol (4-chloro-17β-ol-estr-4-en-3-one);
+norethandrolone;
+oxabolone;
+oxandrolone;
+oxymesterone;
+oxymetholone;
+prasterone (dehydroepiandrosterone, DHEA, 3β-hydroxyandrost-5-en-17-one);
+prostanozol (17β-[(tetrahydropyran-2-yl)oxy]-1'H-pyrazolo[3,4:2,3]-5α-androstane);
+quinbolone;
+
+stanozolol;
+stenbolone;
+testosterone;
+tetrahydrogestrinone (17-hydroxy-18a-homo-19-nor-17α-pregna-4,9,11-trien-3-one);
+tibolone;
+trenbolone (17β-hydroxyestr-4,9,11-trien-3-one);
+illetve egyéb, hasonló kémiai szerkezetű vagy hasonló biológiai hatású szerek.
+2. Egyéb anabolikus szerek
+A teljesség igénye nélkül:
+Clenbuterol, osilodrostat, ractopamin, szelektív androgén receptor modulátorok [SARM-ok, pl. andarine, LGD-
+4033 (ligandrol), enobosarm (ostarine) és RAD140, S-23 és YK-11], zeranol és zilpaterol.
+S2. PEPTIDHORMONOK, NÖVEKEDÉSI FAKTOROK, ROKONVEGYÜLETEK
+ÉS MIMETIKUMOK
+Mindenkor (versenyidőszakon belül és kívül) tiltott anyag.
+A csoportba tartozó tiltott anyagok „nem meghatározott anyagnak” minősülnek.
+Az alábbi szerek, valamint a hasonló kémiai szerkezetű vagy hasonló biológiai hatású egyéb szerek tiltottak:
+1. Erythropoietinek (EPO) és az eritropoiézist befolyásoló szerek
+A teljesség igénye nélkül:
+1.1.Erythropoietin-receptor agonisták, például darbepoetinek (dEPO); erythropoietinek
+(EPO); EPO alapú szerkezetek [pl. EPO-Fc, methoxy polyethylene glycol-epoetin beta (CERA)]; EPO-
+mimetikus szerek és szerkezeteik (pl. CNTO-530, peginesatide).
+1.2. Hipoxia indukált faktor (HIF) aktiváló szerek, pl. kobalt; daprodustat (GSK1278863); IOX2;
+molidustat (BAY 85-3934); roxadustat (FG-4592); vadadustat (AKB-6548); xenon.
+1.3. GATA inhibitorok, pl. K-11706.
+1.4. Növekedési faktor-béta (TGF-ß) jelző inhibitorok, pl. luspatercept; sotatercept.
+1.5. Innate repair receptor agonisták, pl. asialo EPO; carbamylated EPO (CEPO).
+2. Peptid hormonok és az emberi szervezetben való felszabadításukat előidéző faktorok
+2.1. Chorionic gonadotrophin (CG) és luteinizáló hormon (LH) és az emberi szervezetben
+való felszabadításukat előidéző faktorok férfiak esetében, pl. buserelin, deslorelin, gonadorelin,
+goserelin, leuprorelin, nafarelin és triptorelin;
+2.2. Kortikotrofinek és az emberi szervezetben való felszabadításukat előidéző faktorok, pl.
+corticorelin;
+2.3. Növekedési hormon (GH), annak analógjai és töredékei a teljesség igénye nélkül:
+- növekedési hormon analógjai, pl.: lonapegsomatropin, somapacitan és somatrogon;
+- növekedés hormon töredékei, pl.: AOD-9604 és hGH 176-191.
+2.4. Növekedési hormon (GH) emberi szervezetben való felszabadítását előidéző faktorok, a
+teljesség igénye nélkül:
+- növekedési hormont felszabadító hormon (GHRH) és annak analógjai (pl. CJC-
+1293, CJC-1295, sermorelin és tesamorelin);
+- növekedési hormon szekretagógok (GHS) és ennek mimetikumai, [pl. lenomorelin (ghrelin),
+anamorelin, ipamorelin, macimorelin és tabimorelin];
+- GH felszabadító peptidek (GHRP-k), pl. alexamorelin, GHRP-1, GHRP-2 (pralmorelin), GHRP-3,
+GHRP-4, GHRP-5, GHRP-6, és examorelin (hexarelin).
+3. Növekedési faktorok és növekedési faktor modulátorok
+A teljesség igénye nélkül:
+fibroblaszt növekedési faktorok (FGF-ek);
+hepatocita növekedési faktor (HGF);
+inzulin típusú növekedési faktor-1 (IGF-1) és analógjai;
+mechanoszenzitív növekedési faktorok (MGF-k);
+trombocita-eredetű növekedési faktor (PDGF);
+thymosin-β4 és származékai, pl: TB-500;
+vaszkuláris endotél növekedési faktor (VEGF);
+és más növekedési faktorok vagy növekedési faktor modulátorok, amik hatást gyakorolnak az izom, ín
+vagy ínszalag fehérje szintézisére/lebontására, az érképződésre, az energiahasznosításra, a
+regenerálódási képességre vagy az izomrost típus átalakításra.
+
+S3. BÉTA-2 AGONISTÁK
+Mindenkor (versenyidőszakon belül és kívül) tiltott anyag.
+A csoportba tartozó tiltott anyagok „meghatározott anyagnak” minősülnek.
+Az összes szelektív és nem szelektív béta-2 agonista, beleértve minden optikai izomert, tiltott. A teljesség igénye
+nélkül:
+Arformoterol; fenoterol; formoterol; higenamine; indacaterol; levosalbutamol; olodaterol; procaterol; reproterol;
+salbutamol; salmeterol; terbutaline; tretoquinol (trimetoquinol); tulobuterol; vilanterol.
+Kivételek:
+- Inhalált salbutamol: 24 óra alatt legfeljebb 1600 mikrogramm, amelynek megosztott mennyisége 8 órán
+keresztül nem haladhatja meg a 600 mikrogrammot a dózis bármely adagjától kezdődően;
+- Inhalált formoterol: maximális kiadagolt dózis 24 óra alatt legfeljebb 54 mikrogramm;
+- Inhalált salmeterol: 24 óra alatt legfeljebb 200 mikrogramm;
+- Inhalált vilanterol: 24 óra alatt legfeljebb 25 mikrogramm.
+Megjegyzés:
+Ha a salbutamol koncentrációja a vizeletben meghaladja a 1000 ng/ml értéket, vagy a formoterolé a 40 ng/ml
+értéket, azt nem lehet a szer terápiás célú alkalmazásának tekinteni és pozitív vizsgálati eredménynek (AAF)
+tekintendő, hacsak a Sportoló ellenőrzött farmakokinetikai vizsgálattal igazolni nem tudja, hogy a normál értéktől
+eltérő mérési eredmény olyan terápiás célú (inhalált) dózisnak tudható be, amely nem haladta meg a fent megjelölt
+maximális dózist.
+S4. HORMON- ÉS METABOLIKUS MÓDOSÍTÓK
+Mindenkor (versenyidőszakon belül és kívül) tiltott anyag.
+Az S4.1 és az S4.2 alcsoportba tartozó anyagok „meghatározott anyagnak” minősülnek. Az S4.3 és az S4.4
+alcsoportba tartozó anyagok „nem meghatározott anyagnak” minősülnek.
+Az alábbi hormon- és metabolikus módosítók tiltottak:
+4.1. Aromatáz inhibitorok
+A teljesség igénye nélkül:
+2-androstenol (5α-androst-2-en-17-ol);
+2-androstenone (5α-androst-2-en-17-one);
+3-androstenol (5α-androst-3-en-17-ol);
+3-androstenone (5α-androst-3-en-17-one);
+4-androstene-3,6,17 trione (6-oxo);
+aminoglutethimide;
+anastrozole;
+androsta-1,4,6-triene-3,17-dione (androstatrienedione);
+androsta-3,5-diene-7,17-dione (arimistane);
+exemestane;
+formestane;
+letrozole;
+testolactone.
+4.2. Antiösztrogén hatású szerek [antiösztrogének és szelektív ösztrogén-receptor modulátorok (SERM-
+ek)],
+A teljesség igénye nélkül:
+bazedoxifene;
+clomifene;
+cyclofenil;
+fulvestrant;
+ospemifene;
+raloxifene;
+tamoxifen;
+toremifene.
+
+4.3. Aktivin IIB receptor aktivációt gátló szerek
+A teljesség igénye nélkül:
+aktivin A-neutralizáló antitestek; aktivin IIB receptor kompetítorok, úgy mint decoy aktivin receptorok
+(pl. ACE-031);
+anti-aktivin IIB receptor antitestek (pl. bimagrumab);
+miosztatin inhibitorok, úgy mint
+- a miosztatin termelést csökkentő vagy gátló szerek;
+- miosztatin-kötő fehérjék (pl. follisztatin, miosztatin propeptid);
+- miosztatin- vagy prekurzor-neutralizáló antitestek (pl. apitegromab, domagrozumab,
+landogrozumab, stamulumab).
+4.4. Metabolikus módosítók:
+4.4.1. Az AMP-aktivált protein-kináz (AMPK) aktivátorai, pl. AICAR, SR9009; és peroxiszóma
+proliferátor aktivált receptor delta (PPARδ) agonistak, pl. 2-(2methyl-4-((4-methyl-2-(4-
+(trifluoromethyl)phenyl)thiazol-5-yl)methylthio)phenoxy) acetic acid (GW1516, GW501516);
+4.4.2. Inzulinok és inzulin mimetikumok;
+4.4.3. Meldonium;
+4.4.4. Trimetazidine.
+S5. VÍZHAJTÓK ÉS MASZKÍROZÓ SZEREK
+Mindenkor (versenyidőszakon belül és kívül) tiltott anyag.
+A csoportba tartozó tiltott anyagok „meghatározott anyagban” minősülnek.
+Minden vízhajtó és maszkírozó szer, beleértve – ha értelmezhető – minden (pl. d- és l-) optikai izomert, tiltott.
+A teljesség igénye nélkül:
+- Desmopressin; probenecid; plazma expanderek, pl. albumin, dextran, hidroxietil keményítő és mannitol
+intravénás alkalmazása.
+- Acetazolamide; amiloride; bumetanide; canrenone; chlortalidone; etakrinsav (etacrynic acid); furosemide;
+indapamide; metolazone; spironolactone; thiazide-ek, pl. bendroflumethiazide, chlorothiazide és
+hydrochlorothiazide; torasemide; triamterene és vaptanok, pl. tolvaptan.
+Illetve egyéb, hasonló kémiai szerkezetű vagy hasonló biológiai hatású szerek.
+Kivételek:
+- Drospirenone; pamabrom; és szénsav-anhidráz gátlók helyileg történő szemészeti alkalmazása
+(pl. dorzolamide, brinzolamide).
+- A felypressin helyi alkalmazása fogorvosi anesztézia keretében.
+Megjegyzés:
+Ha egy Sportoló Mintájában – helyzettől függően – bármikor vagy Versenyidőszakon belül a küszöbértékkel
+rendelkező következő szerek: formoterol, salbutamol, cathine, ephedrine, methylephedrine és pseudoephedrine
+bármilyen mennyisége kerül kimutatásra vízhajtóval vagy maszkírozó szerrel együtt (kivéve szénsav-anhidráz
+gátlók helyileg történő szemészeti alkalmazása, vagy a felypressin helyi alkalmazása fogászati érzéstelenítés
+keretében) az pozitív vizsgálati eredménynek tekintendő, hacsak a Sportoló a vízhajtóra és maszkírozó anyagra
+vonatkozóan kiadott gyógyászati célú mentesség mellett nem rendelkezik jóváhagyott gyógyászati célú
+mentességgel az adott anyagra vonatkozóan is.
+TILTOTT MÓDSZEREK
+Mindenkor (versenyidőszakon belül és kívül) tiltott módszer
+A csoportba tartozó tiltott módszerek „nem meghatározott módszernek” minősülnek, kivéve az M2.2 alcsoportba
+tartózók, amelyek „meghatározott módszernek” minősülnek.
+M1. A VÉRBE ÉS A VÉR ALKOTÓELEMEIBE TÖRTÉNŐ BEAVATKOZÁS
+Az alábbiak tiltottak:
+1. Bármilyen eredetű autológ, allogén (homológ) vagy heterológ vér-, illetve vörösvérsejtkészítmény
+bármilyen mennyiségben történő beadása vagy visszajuttatása a keringési rendszerbe.
+2. Az oxigénfelvétel, -szállítás vagy -bevitel mesterséges fokozása.
+A teljesség igénye nélkül ideértve:
+A perfluor vegyületeket; az efaproxiralt (RSR13), voxelotor és a módosított hemoglobinkészítményeket,
+pl. hemoglobin-alapú vérpótló készítmények és mikrokapszulázott hemoglobin készítmények, kivéve a belégzés
+útján történő kiegészítő oxigénadást.
+
+3. A vérbe vagy a vér alkotóelemeibe intravaszkuláris úton történő fizikai vagy kémiai beavatkozás bármely
+formája.
+M2. KÉMIAI ÉS FIZIKAI BEAVATKOZÁS
+Az alábbiak tiltottak:
+1. A manipulálás vagy manipulálás kísérlete, a doppingellenőrzés során levett minták integritásának vagy
+érvényességének megváltoztatása céljából.
+Ilyenek a teljesség igénye nélkül:
+A minta helyettesítése és/vagy meghamisítása, pl. proteázok hozzáadása a mintához.
+2. A 12 órás időtartam alatt összesen 100 ml-t meghaladó intravénás infúziók és/vagy injekciók, kivéve a kórházi
+kezelések, sebészeti eljárások vagy klinikai diagnosztikai vizsgálatok során indokoltan kapottakat.
+M3. GÉN- ÉS SEJTDOPPING
+Az alábbi, a sportteljesítmény fokozására alkalmas módszerek tiltottak:
+1. Nukleinsavak vagy nukleinsav-analógok használata, amelyek bármilyen mechanizmus révén a
+génszekvenciákat és/vagy a génkibocsátást megváltoztathatják. Ez magába foglalja a teljesség igénye nélkül a
+génszerkesztés, a géncsendesítés és a génátvitel technológiáját.
+2. Normál vagy genetikailag módosított sejtek alkalmazása.
+VERSENYIDŐSZAKON BELÜL TILTOTT ANYAGOK ÉS MÓDSZEREK
+TILTOTT ANYAGOK
+S6. STIMULÁNSOK
+Versenyidőszakon belül tiltott anyag.
+A csoportba tartozó tiltott anyagok „meghatározott anyagnak” minősülnek, kivéve az S6.A alcsoportba tartozók,
+amelyek „nem meghatározott anyagnak” minősülnek.
+Ebben a részben függőséget okozó szernek minősül: kokain és methylenedioxymethamphetamine
+(MDMA/ „ecstasy”)
+Minden stimuláns, beleértve – ha értelmezhető – minden (pl. d- és l-) optikai izomert, tiltott. Stimulánsok, úgymint:
+a) Nem meghatározott stimulánsok:
+adrafinil;
+amfepramone;
+amfetamine;
+amfetaminil;
+amiphenazole;
+benfluorex;
+benzylpiperazine;
+bromantan;
+clobenzorex;
+cocaine;
+cropropamide;
+crotetamide;
+fencamine;
+fenetylline;
+fenfluramine;
+fenproporex;
+fonturacetam [4-phenylpiracetam (carphedon)];
+furfenorex;
+lisdexamfetamine;
+mefenorex;
+mephentermine;
+mesocarb;
+
+metamfetamine(d-);
+p-methylamfetamine;
+modafinil;
+norfenfluramine;
+phendimetrazine;
+phentermine;
+prenylamine;
+prolintane.
+Az e részben kifejezetten fel nem sorolt stimulánsok a Meghatározott Anyagok közé tartoznak.
+b) Meghatározott stimulánsok:
+A teljesség igénye nélkül:
+3-methylhexan-2-amine (1,2-dimethylpentylamine);
+4-fluoromethylphenidate;
+4-methylhexan-2-amine (methylhexaneamine; 1,3-dimethylamylamine; 1,3-DMAA);
+4-methylpentan-2-amine (1,3-dimethylbutylamine);
+5-methylhexan-2-amine (1,4-dimethylpentylamine; 1,4-dimethylamylamine; 1,4-DMAA);
+Benzfetamine;
+cathine**;
+cathinone és annak analógjai, pl. mephedrone, methedrone, és α - pyrrolidinovalerophenone;
+dimetamfetamine (dimethylamphetamine);
+ephedrine***;
+epinephrine**** (adrenaline);
+etamivan;
+ethylphenidate;
+etilamfetamine;
+etilefrine;
+famprofazone;
+fenbutrazate;
+fencamfamin;
+heptaminol;
+hydrafinil (fluorenol);
+hydroxyamfetamine (parahydroxyamphetamine);
+isometheptene;
+levmetamfetamine;
+meclofenoxate;
+methylenedioxymethamphetamine;
+methylephedrine***;
+methylnaphthidate [((±)-methyl-2-(naphthalen-2-yl)-2-(piperidin-2-yl)acetate]; methylphenidate;
+nikethamide; norfenefrine;
+octodrine (1,5-dimethylhexylamine);
+octopamine;
+oxilofrine (methylsynephrine);
+pemoline;
+pentetrazol;
+phenethylamine és származékai;
+phenmetrazine;
+phenpromethamine;
+propylhexedrine;
+pseudoephedrine*****;
+selegiline;
+sibutramine;
+solriamfetol;
+strychnine;
+tenamfetamine (methylenedioxyamphetamine);
+tuaminoheptane;
+illetve egyéb, hasonló kémiai szerkezetű vagy hasonló biológiai hatású szerek.
+
+Kivételek:
+- Clonidine
+- A bőrgyógyászati, légúti, szemészeti vagy fülészeticélból alkalmazott imidazolineszármazékok (pl.
+brimonidine, clonazoline, fenoxazoline, indanazoline, naphazoline, oxymetazoline, tetryzolyne,
+xylometazoline) és a 2023. évi monitoring programban* szereplő stimulánsok.
+* Bupropion, koffein (caffeine), nikotin (nicotine), phenylephrine, phenylpropanolamine, pipradrol és synephrine:
+Ezek a szerek szerepelnek a 2023. évi monitoring programban, és nem tekinthetők Tiltott Szereknek.
+** Cathine (d-norpseudoephedrine) és annak l-izomere: Tiltott, ha koncentrációja a vizeletben meghaladja a
+milliliterenkénti 5 mikrogrammot.
+*** Ephedrine és a methylephedrine: Tiltott, ha bármelyik koncentrációja a vizeletben meghaladja a milliliterenkénti
+10 mikrogrammot.
+**** Epinephrine (adrenaline): Nem tiltott helyileg, pl. orrban, szemészeti céllal alkalmazva, vagy helyi érzéstelenítő
+szerekkel együtt alkalmazva.
+***** Pseudoephedrine: Tiltott, ha koncentrációja a vizeletben meghaladja a milliliterenkénti 150 mikrogrammot.
+S7. NARKOTIKUMOK
+Versenyidőszakon belül tiltott anyag.
+A csoportba tartozó tiltott anyagok „meghatározott anyagnak” minősülnek.
+Ebben a részben függőséget okozó szernek minősül: diamorphine (heroin)
+Az alábbi narkotikumok, beleértve – ha értelmezhető – minden (pl. d- és l-) optikai izomert, tiltottak:
+buprenorphine;
+dextromoramide;
+diamorphine (heroin);
+fentanyl és származékai;
+hydromorphone;
+methadone;
+morphine;
+nicomorphine;
+oxycodone;
+oxymorphone;
+pentazocine;
+pethidine.
+S8. KANNABINOIDOK
+Versenyidőszakon belül tiltott anyag.
+A csoportba tartozó tiltott anyagok „meghatározott anyagnak” minősülnek.
+Ebben a részben függőséget okozó szernek minősül: tetrahydrocannabinol (THC)
+Minden természetes és szintetikus kannabinoid tiltott, pl.
+- A kannabiszban (hasis, marhuána) és kannabisz termékekben
+- Természetes és szintetikus tetrahydrocannabinol (THC-k)
+- Szintetikus kannabinoidok, amely a THC hatásait utánozza
+Kivételek:
+- Kannabidiol.
+S9. GLÜKOKORTIKOIDOK
+Versenyidőszakon belül tiltott anyag.
+A csoportba tartozó tiltott anyagok „meghatározott anyagnak” minősülnek.
+Minden glükokortikoid injektálható, orális [beleértve a szájnyálkahártyán keresztül (pl. bukkális módon, fogínyen
+keresztül, nyelv alatti módon)], vagy rektális úton történő alkalmazása tiltott.
+A teljesség igénye nélkül:
+beclometasone;
+betamethasone;
+budesonide;
+ciclesonide;
+cortisone;
+deflazacort;
+dexamethasone;
+
+fluocortolone;
+flunisolide;
+fluticasone;
+hydrocortisone;
+methylprednisolone;
+mometasone;
+prednisolone;
+prednisone;
+triamcinolone acetonide.
+Megjegyzés:
+Az egyéb beadási módok (beleértve a belélegzést és a következő helyi alkalmazást: fogászatiintrakanális,
+dermális, intranazális, szemészeti, fülészeti és perianális) nem tiltottak, ha a gyártó engedélyezett dózis-
+tartományán és terápiás javallatain belül alkalmazzák.
+BIZONYOS SPORTÁGAKBAN TILTOTT ANYAGOK
+P1. BÉTA-BLOKKOLÓK
+Bizonyos sportágban tiltott anyagok
+A csoportba tartozó tiltott anyagok „meghatározott anyagnak” minősülnek.
+A béta-blokkolók kizárólag versenyidőszakon belül tiltottak az alábbi sportágakban, valamint versenyidőszakon
+kívül is tiltottak, ahol az külön jelezve van. [*]
+- Íjászat (WA)*
+- Autóverseny (FIA)
+- Biliárd (minden szakág) (WCBS)
+- Darts (WDF)
+- Golf (IGF)
+- Minigolf (WMF)
+- Lövészet (ISSF, IPC)*
+- Síelésen/hódeszkázáson (FIS) belül: síugrás, szabadstílusú síakrobatika/félcső, hódeszka félcső/ugrás
+- Vízalatti sportokon (CMAS)* belül: a szabadmerülés, a szigonyhalászat és a vízalatti céllövészet
+valamennyi ágazatában.
+* Versenyidőszakon kívül is tiltott
+A teljesség igénye nélkül:
+acebutolol;
+alprenolol;
+atenolol;
+betaxolol;
+bisoprolol;
+bunolol;
+carteolol;
+carvedilol;
+celiprolol;
+esmolol;
+labetalol;
+metipranolol;
+metoprolol;
+nadolol;
+nebivolol;
+oxprenolol;
+pindolol;
+propranolol;
+sotalol;
+timolol.”
+
+2. melléklet a …/2022. (… …) Korm. rendelethez
+„Annex I – Prohibited List – International Standard
+Paris, 1 January 2023
+THE 2023 PROHIBITED LIST
+WORLD ANTI-DOPING CODE
+Valid 1 January 2023
+Introduction
+The Prohibited List is a mandatory International Standard as part of the World Anti-Doping Program.
+The List is updated annually following an extensive consultation process facilitated by WADA. The effective date of
+the List is 01 January 2023.
+The official text of the Prohibited List shall be maintained by WADA and shall be published in English and French.
+In the event of any conflict between the English and French versions, the English version shall prevail.
+Below are some terms used in this List of Prohibited Substances and Prohibited Methods.
+Prohibited In-Competition
+Subject to a different period having been approved by WADA for a given sport, the InCompetition period shall in
+principle be the period commencing just before midnight (at 11:59 p.m.) on the day before a Competition in which
+the Athlete is scheduled to participate until the end of the Competition and the Sample collection process.
+Prohibited at all times
+This means that the substance or method is prohibited In- and Out-of-Competition as defined in the Code.
+Specified and non-Specified
+As per Article 4.2.2 of the World Anti-Doping Code, “for purposes of the application of Article 10, all Prohibited
+Substances shall be Specified Substances except as identified on the Prohibited List. No Prohibited Method shall
+be a Specified Method unless it is specifically identified as a Specified Method on the Prohibited List”. As per the
+comment to the article, “the Specified Substances and Methods identified in Article 4.2.2 should not in any way be
+considered less important or less dangerous than other doping substances or methods. Rather, they are simply
+substances and methods which are more likely to have been consumed or used by an Athlete for a purpose other
+than the enhancement of sport performance.”
+Substances of Abuse
+Pursuant to Article 4.2.3 of the Code, Substances of Abuse are substances that are identified as such because they
+are frequently abused in society outside of the context of sport. The following are designated Substances of Abuse:
+cocaine, diamorphine (heroin), methylenedioxymethamphetamine (MDMA/”ecstasy”), tetrahydrocannabinol (THC).
+SUBSTANCES AND METHODS PROHIBITED AT ALL TIMES (IN- AND OUT-OF-COMPETITION)
+PROHIBITED SUBSTANCES
+S0. NON-APPROVED SUBSTANCES
+PROHIBITED AT ALL TIMES (IN- AND OUT-OF-COMPETITION)
+All prohibited substances in this class are Specified Substances.
+Any pharmacological substance which is not addressed by any of the subsequent sections of the List and with no
+current approval by any governmental regulatory health authority for human therapeutic use (e.g. drugs under pre-
+clinical or clinical development or discontinued, designer drugs, substances approved only for veterinary use) is
+prohibited at all times.
+This class covers many different substances including but not limited to BPC-157.
+S1. ANABOLIC AGENTS
+PROHIBITED AT ALL TIMES (IN- AND OUT-OF-COMPETITION)
+All prohibited substances in this class are non-Specified Substances.
+Anabolic agents are prohibited.
+1. Anabolic Androgenic Steroids (AAS)
+When administered exogenously, including but not limited to:
+1-androstenediol (5α -androst-1-ene-3β,17β-diol);
+1-androstenedione (5α -androst-1-ene-3,17-dione);
+1-androsterone (3α-hydroxy-5α -androst-1-ene-17-one);
+2. melléklet az 542/2022. (XII. 22.) Korm. rendelethez
+
+1-epiandrosterone (3β-hydroxy-5α-androst-1-ene-17-one);
+1-testosterone (17β-hydroxy-5α -androst-1-en-3-one);
+4-androstenediol (androst-4-ene-3β,17β-diol);
+4-hydroxytestosterone (4,17β-dihydroxyandrost-4-en-3-one);
+5-androstenedione (androst-5-ene-3,17-dione);
+7α-hydroxy-DHEA;
+7β-hydroxy-DHEA;
+7-keto-DHEA;
+17ɑ-methylepithiostanol (epistane);
+19-norandrostenediol (estr-4-ene-3,17-diol);
+19-norandrostenedione (estr-4-ene-3,17-dione);
+androst-4-ene-3,11,17- trione (11-ketoandrostenedione, adrenosterone);
+androstanolone (5α-dihydrotestosterone, 17β-hydroxy-5α-androstan-3-one);
+androstenediol (androst-5-ene-3β,17β-diol);
+androstenedione (androst-4-ene-3,17-dione);
+bolasterone;
+boldenone;
+boldione (androsta-1,4-diene-3,17-dione);
+calusterone;
+clostebol;
+danazol ([1,2]oxazolo[4',5':2,3]pregna-4-en-20-yn-17α-ol);
+dehydrochlormethyltestosterone (4-chloro-17β-hydroxy-17α-methylandrosta-1,4-dien-3-one);
+desoxymethyltestosterone (17α-methyl-5α -androst-2-en-17β-ol and 17α-methyl-
+5α-androst-3-en-17β-ol);
+drostanolone;
+epiandrosterone (3β-hydroxy-5α-androstan-17-one);
+epi-dihydrotestosterone (17β-hydroxy-5β-androstan-3-one);
+epitestosterone;
+ethylestrenol (19-norpregna-4-en-17α -ol);
+fluoxymesterone;
+formebolone;
+furazabol (17α-methyl [1,2,5]oxadiazolo[3',4':2,3]-5α-androstan-17β -ol); gestrinone;
+mestanolone;
+mesterolone;
+metandienone (17β-hydroxy-17α-methylandrosta-1,4-dien-3-one);
+metenolone;
+methandriol;
+methasterone (17β-hydroxy-2α, 17α-dimethyl-5α -androstan-3-one);
+methyl-1-testosterone (17β-hydroxy-17α-methyl-5α-androst-1-en-3-one); methylclostebol;
+methyldienolone (17β-hydroxy-17α-methylestra-4,9-dien-3-one); methylnortestosterone (17β-
+hydroxy-17α -methylestr-4-en-3-one); methyltestosterone;
+metribolone (methyltrienolone, 17β-hydroxy-17α-methylestra-4,9,11-trien-3-one); mibolerone;
+nandrolone (19-nortestosterone);
+norboletone;
+norclostebol (4-chloro-17β-ol-estr-4-en-3-one);
+norethandrolone;
+oxabolone;
+oxandrolone;
+oxymesterone;
+oxymetholone;
+prasterone (dehydroepiandrosterone, DHEA, 3β-hydroxyandrost-5-en-17-one); prostanozol (17β-
+[(tetrahydropyran-2-yl)oxy]-1'H-pyrazolo[3,4:2,3]-5α-androstane);
+quinbolone;
+stanozolol;
+stenbolone;
+testosterone;
+tetrahydrogestrinone (17-hydroxy-18a-homo-19-nor-17α-pregna-4,9,11-trien-3-one);
+tibolone;
+trenbolone (17β-hydroxyestr-4,9,11-trien-3-one);
+and other substances with a similar chemical structure or similar biological effect(s).
+
+2. Other Anabolic Agents
+Including, but not limited to:
+Clenbuterol, osilodrostat, ractopamine, selective androgen receptor modulators [SARMs, e.g. andarine, LGD-
+4033 (ligandrol), enobosarm (ostarine), RAD140, S-23 and YK-11], zeranol and zilpaterol.
+S2. PEPTIDE HORMONES, GROWTH FACTORS, RELATED SUBSTANCES AND MIMETICS
+PROHIBITED AT ALL TIMES (IN- AND OUT-OF-COMPETITION)
+All prohibited substances in this class are non-Specified Substances.
+The following substances, and other substances with similar chemical structure or similar biological effect(s), are
+prohibited:
+1.Erythropoietins (EPO) and agents affecting erythropoiesis, including, but not limited to:
+1.1 Erythropoietin-Receptor Agonists, e.g.
+Darbepoetins (dEPO); erythropoietins (EPO); EPO based constructs [e.g. EPO-Fc, methoxy
+polyethylene glycol-epoetin beta (CERA)]; EPO-mimetic agents and their constructs (e.g. CNTO-530,
+peginesatide).
+1.2 Hypoxia-inducible factor (HIF) activating agents, e.g. Cobalt; daprodustat (GSK1278863); IOX2;
+molidustat (BAY 85-3934); roxadustat (FG-4592); vadadustat (AKB-6548); xenon.
+1.3 GATA inhibitors, e.g. K-11706.
+1.4 Transforming growth factor-beta (TGF-β) signalling inhibitors, e.g. Luspatercept; sotatercept.
+1.5 Innate repair receptor agonists, e.g. Asialo EPO; carbamylated EPO (CEPO).
+2.Peptide Hormones and their Releasing Factors
+2.1 Chorionic Gonadotrophin (CG) and Luteinizing Hormone (LH) and their releasing factors in males,
+e.g. Buserelin, deslorelin, gonadorelin, goserelin, leuprorelin, nafarelin and triptorelin;
+2.2 Corticotrophins and their releasing factors, e.g. Corticorelin;
+2.3 Growth hormone (GH), its analogues and fragments including, but not limited to:
+- growth hormone analogues, e.g. lonapegsomatropin, somapacitan and somatrogon
+- growth hormone fragments, e.g. AOD-9604 and hGH 176-191.
+2.4 Growth hormone releasing factors, including, but not limited to:
+- growth hormone releasing hormone (GHRH) and their analogues (e.g. CJC-
+1293, CJC-1295, sermorelin and tesamorelin)
+- growth hormone secretagogues (GHS), e.g. lenomorelin (ghrelin) and its mimetics, e.g.
+lenomorelin (ghrelin), anamorelin, ipamorelin, macimorelin and tabimorelin)
+- GH-releasing peptides (GHRPs) [e.g. alexamorelin, GHRP-1, GHRP-2 (pralmorelin), GHRP-3,
+GHRP-4, GHRP-5, GHRP-6, and examorelin (hexarelin)].
+3. Growth Factors and Growth Factor Modulators
+Including, but not limited to:
+Fibroblast Growth Factors (FGFs);
+Hepatocyte Growth Factor (HGF);
+Insulin-like Growth Factor-1 (IGF-1) and its analogues;
+Mechano Growth Factors (MGFs);
+Platelet-Derived Growth Factor (PDGF);
+Thymosin-β4 and its derivatives e.g. TB-500;
+Vascular-Endothelial Growth Factor (VEGF);
+and other growth factors or growth factor modulators affecting muscle, tendon or ligament protein
+synthesis/degradation, vascularisation, energy utilization, regenerative capacity or fibre type switching.
+S3. BETA-2 AGONISTS
+PROHIBITED AT ALL TIMES (IN- AND OUT-OF-COMPETITION)
+All prohibited substances in this class are Specified Substances.
+All selective and non-selective beta-2 agonists, including all optical isomers, are prohibited; Including, but not
+limited to:
+Arformoterol, fenoterol; formoterol; higenamine; indacaterol; levosalbutamol; olodaterol; procaterol; reproterol;
+salbutamol; salmeterol; terbutaline; tretoquinol (trimetoquinol); tulobuterol; vilanterol.
+Exceptions:
+- Inhaled salbutamol: maximum 1600 micrograms over 24 hours in divided doses not to exceed 600
+micrograms over 8 hours starting from any dose;
+- Inhaled formoterol: maximum delivered dose of 54 micrograms over 24 hours;
+
+- Inhaled salmeterol: maximum 200 micrograms over 24 hours;
+- Inhaled vilanterol: maximum 25 microgramms over 24 hours.
+Note:
+The presence in urine of salbutamol in excess of 1000 ng/mL or formoterol in excess of 40 ng/mL is not consistent
+with therapeutic use of the substance and will be considered as an Adverse Analytical Finding (AAF) unless the
+Athlete proves, through a controlled pharmacokinetic study, that the abnormal result was the consequence of a
+therapeutic dose (by inhalation) up to the maximum dose indicated above.
+S4. HORMONE AND METABOLIC MODULATORS
+PROHIBITED AT ALL TIMES (IN- AND OUT-OF-COMPETITION) Prohibited substances in classes S4.1 and
+S4.2 are Specified Substances. Those in classes S4.3 and S4.4 are non-Specified Substances.
+The following hormone and metabolic modulators are prohibited:
+4.1. Aromatase inhibitors
+Including, but not limited to:
+2-androstenol (5α-androst-2-en-17-ol);
+2-androstenone (5α-androst-2-en-17-one);
+3-androstenol (5α-androst-3-en-17-ol);
+3-androstenone (5α-androst-3-en-17-one);
+4-androstene-3,6,17 trione (6-oxo);
+aminoglutethimide;
+anastrozole;
+androsta-1,4,6-triene-3,17-dione (androstatrienedione);
+androsta-3,5-diene-7,17-dione (arimistane);
+exemestane;
+formestane;
+letrozole;
+testolactone.
+4.2. Anti-estrogenic substances [anti-estrogens and selective estrogen receptor modulators (SERMs)]
+Including, but not limited to:
+bazedoxifene;
+clomifene;
+cyclofenil;
+fulvestrant,
+ospemifene;
+raloxifene;
+tamoxifen;
+toremifene.
+4.3. Agents preventing activin receptor IIB activation
+Including, but not limited, to:
+activin A-neutralizing antibodies;
+activin receptor IIB competitors such as decoy activin receptors (e.g. ACE-031);
+anti-activin receptor IIB antibodies (e.g. bimagrumab);
+myostatin inhibitors such as:
+- agents reducing or ablating myostatin expression;
+- myostatin-binding proteins (e.g. follistatin, myostatin propeptide);
+- myostatin- or precursor-neutralizing antibodies (e.g. apitegromab, domagrozumab,
+landogrozumab, stamulumab);
+4.4. Metabolic modulators:
+4.4.1 Activators of the AMP-activated protein kinase (AMPK), e.g. AICAR, SR9009; and Peroxisome
+Proliferator Activated Receptor delta (PPARδ) agonists, e.g. 2-(2-methyl-4-((4-methyl-2-(4-
+(trifluoromethyl)phenyl)thiazol-5-yl)methylthio)phenoxy) acetic acid (GW1516, GW501516);
+4.4.2 Insulins and insulin-mimetics;
+4.4.3 Meldonium;
+4.4.4 Trimetazidine.
+
+S5. DIURETICS AND MASKING AGENTS
+PROHIBITED AT ALL TIMES (IN- AND OUT-OF-COMPETITION)
+All prohibited substances in this class are Specified Substances.
+All diuretics and masking agents, including all optical isomers, e.g. d- and l- where relevant, are prohibited.
+Including, but not limited to:
+- Desmopressin; probenecid; plasma expanders, e.g. intravenous administration of albumin, dextran,
+hydroxyethyl starch and mannitol.
+- Acetazolamide; amiloride; bumetanide; canrenone; chlortalidone; etacrynic acid; furosemide;
+indapamide; metolazone; spironolactone; thiazides, e.g. bendroflumethiazide, chlorothiazide and
+hydrochlorothiazide; torasemide; triamterene and vaptans, e.g. tolvaptan.
+and other substances with a similar chemical structure or similar biological effect(s).
+Exceptions:
+- Drospirenone; pamabrom; and topical ophthalmic administration of carbonic anhydrase inhibitors (e.g.
+dorzolamide, brinzolamide).
+- Local administration of felypressin in dental anaesthesia.
+Note:
+The detection in an Athlete’s Sample at all times or In-Competition, as applicable, of any quantity of the following
+substances subject to threshold limits: formoterol, salbutamol, cathine, ephedrine, methylephedrine and
+pseudoephedrine, in conjunction with a diuretic or masking agent (except topical ophthalmic administration of a
+carbonic anhydrase inhibitor or local administration of felypressin in dental anaesthesia), will be considered as an
+Adverse Analytical Finding (AAF) unless the Athlete has an approved Therapeutic Use Exemption (TUE) for that
+substance in addition to the one granted for the diuretic or masking agent.
+PROHIBITED METHODS
+PROHIBITED AT ALL TIMES (IN- AND OUT-OF-COMPETITION)
+All prohibited methods in this class are non-Specified except methods in M2.2. which are Specified Methods.
+M1. MANIPULATION OF BLOOD AND BLOOD COMPONENTS
+The following are prohibited:
+1. The Administration or reintroduction of any quantity of autologous, allogenic (homologous) or heterologous
+blood, or red blood cell products of any origin into the circulatory system.
+2. Artificially enhancing the uptake, transport or delivery of oxygen.
+Including, but not limited to:
+Perfluorochemicals; efaproxiral (RSR13); voxelotor and modified haemoglobin products, e.g. haemoglobin-based
+blood substitutes and microencapsulated haemoglobin products, excluding supplemental oxygen by inhalation.
+3. Any form of intravascular manipulation of the blood or blood components by physical or chemical means.
+M2. CHEMICAL AND PHYSICAL MANIPULATION
+The following are prohibited:
+1. Tampering, or Attempting to Tamper, to alter the integrity and validity of Samples collected during Doping
+Control.
+Including, but not limited to:
+Sample substitution and/or adulteration, e.g. addition of proteases to Sample.
+2. Intravenous infusions and/or injections of more than a total of 100 mL per 12-hour period except for those
+legitimately received in the course of hospital treatments, surgical procedures or clinical diagnostic investigations.
+
+M3. GENE AND CELL DOPING
+The following, with the potential to enhance sport performance, are prohibited:
+1. The use of nucleic acids or nucleic acid analogues that may alter genome sequences and/or alter gene
+expression by any mechanism. This includes but is not limited to gene editing, gene silencing and gene transfer
+technologies.
+2. The use of normal or genetically modified cells.
+SUBSTANCES AND METHODS
+PROHIBITED IN-COMPETITION
+PROHIBITED SUBSTANCES
+S6. STIMULANTS
+PROHIBITED IN-COMPETITION
+All prohibited substances in this class are Specified Substances except those in S6.A, which are non-Specified
+Substances.
+Substances of Abuse in this section: cocaine and methylenedioxymethamphetamine (MDMA /“ecstasy”)
+All stimulants, including all optical isomers, e.g. d- and l- where relevant, are prohibited. Stimulants include:
+a: Non-Specified Stimulants:
+adrafinil;
+amfepramone;
+amfetamine;
+amfetaminil;
+amiphenazole;
+benfluorex;
+benzylpiperazine;
+bromantan;
+clobenzorex;
+cocaine;
+cropropamide;
+crotetamide;
+fencamine;
+fenetylline;
+fenfluramine;
+fenproporex;
+fonturacetam [4-phenylpiracetam (carphedon)];
+furfenorex;
+lisdexamfetamine;
+mefenorex;
+mephentermine;
+mesocarb;
+metamfetamine(d-);
+p-methylamfetamine ;
+modafinil;
+norfenfluramine;
+phendimetrazine;
+phentermine;
+prenylamine;
+prolintane.
+A stimulant not expressly listed in this section is a Specified Substance.
+b: Specified Stimulants:
+Including, but not limited to:
+3-methylhexan-2-amine (1,2-dimethylpentylamine);
+4-fluoromethylphenidate;
+4-methylhexan-2-amine (methylhexaneamine, 1,3-dimethylamylamine, 1,3 DMAA);
+4-methylpentan-2-amine (1,3-dimethylbutylamine);
+5-methylhexan-2-amine (1,4-dimethylpentylamine, 1,4-dimethylamylamine, 1,4-DMAA);
+
+benzfetamine;
+cathine**;
+cathinone and its analogues, e.g. mephedrone, methedrone, and α - pyrrolidinovalerophenone;
+dimetamfetamine (dimethylamphetamine);
+ephedrine***;
+epinephrine**** (adrenaline);
+etamivan;
+ethylphenidate;
+etilamfetamine;
+etilefrine;
+famprofazone;
+fenbutrazate;
+fencamfamin;
+heptaminol;
+hydrafinil (fluorenol);
+hydroxyamfetamine (parahydroxyamphetamine);
+isometheptene;
+levmetamfetamine;
+meclofenoxate;
+methylenedioxymethamphetamine;
+methylephedrine***;
+methylnaphthidate [((±)-methyl-2-(naphthalen-2-yl)-2-(piperidin-2-yl)acetate];
+methylphenidate;
+nikethamide;
+norfenefrine;
+octodrine (1,5-dimethylhexylamine);
+octopamine;
+oxilofrine (methylsynephrine);
+pemoline;
+pentetrazol;
+phenethylamine and its derivatives;
+phenmetrazine;
+phenpromethamine;
+propylhexedrine;
+pseudoephedrine*****;
+selegiline;
+sibutramine;
+solriamfetol;
+strychnine;
+tenamfetamine (methylenedioxyamphetamine);
+tuaminoheptane;
+and other substances with a similar chemical structure or similar biological effect(s).
+Exceptions:
+- Clonidine
+- Imidazoline derivatives for dermatological, nasal, ophthalmic or otic use (e.g. brimonidine, clonazoline,
+fenoxazoline, indanazoline, naphazoline, oxymetazoline, tetryzoline, xylometazoline) and those stimulants
+included in the 2023 Monitoring Program*.
+* Bupropion, caffeine, nicotine, phenylephrine, phenylpropanolamine, pipradrol, and synephrine: These
+substances are included in the 2023 Monitoring Program, and are not considered Prohibited Substances.
+** Cathine (d-norpseudoephedrine) and its l-isomer: Prohibited when its concentration in urine is greater than 5
+micrograms per millilitre.
+*** Ephedrine and methylephedrine: Prohibited when the concentration of either in urine is greater than 10
+micrograms per millilitre.
+**** Epinephrine (adrenaline): Not prohibited in local administration, e.g. nasal, ophthalmologic, or co-
+administration with local anaesthetic agents.
+***** Pseudoephedrine: Prohibited when its concentration in urine is greater than 150 micrograms per millilitre.
+S7. NARCOTICS
+PROHIBITED IN-COMPETITION
+All prohibited substances in this class are Specified Substances.
+Substance of Abuse in this section: diamorphine (heroin)
+
+The following narcotics, including all optical isomers, e.g. d- and l- where relevant, are prohibited:
+buprenorphine;
+dextromoramide;
+diamorphine (heroin);
+fentanyl and its derivatives;
+hydromorphone;
+methadone;
+morphine;
+nicomorphine;
+oxycodone;
+oxymorphone;
+pentazocine;
+pethidine.
+S8. CANNABINOIDS
+PROHIBITED IN-COMPETITION
+All prohibited substances in this class are Specified Substances.
+Substance of Abuse in this section: tetrahydrocannabinol (THC)
+All natural and synthetic cannabinoids are prohibited e.g.
+ 
+- In cannabis, (hashish, marijuana) and cannabis products
+- Natural and synthetic tetrahydrocannabinols (THCs)
+- Synthetic cannabinoids that mimic the effects of THC
+Exceptions:
+- Cannabidiol.
+S9. GLUCOCORTICOIDS
+PROHIBITED IN-COMPETITION
+All prohibited substances in this class are Specified Substances.
+All glucocorticoids are prohibited when administered by any injectable, oral [including oromucosel (e.g. buccal,
+gingival, sublingual)] or rectal routes.
+Including but not limited to:
+beclometasone;
+betamethasone;
+budesonide;
+ciclesonide;
+cortisone;
+deflazacort;
+dexamethasone;
+fluocortolone;
+flunisolide;
+fluticasone;
+hydrocortisone;
+methylprednisolone;
+mometasone;
+prednisolone;
+prednisone;
+triamcinolone acetonide.
+Note:
+Other routes of administration (including inhaled, and topical: dental-intracanal, dermal, intranasal,
+ophthalmological, otic and perianal) are not prohibited when used within the manufacturer’s licenced doses and
+therapeutic indications.
+
+SUBSTANCES PROHIBITED IN PARTICULAR SPORTS
+P1. BETA-BLOCKERS
+PROHIBITED IN PARTICULAR SPORTS
+All prohibited substances in this class are Specified Substances.
+Beta-blockers are prohibited In-Competition only, in the following sports, and also prohibited Out-of-Competition
+where indicated. [*]
+- Archery (WA)*
+- Automobile (FIA)
+- Billiards (all disciplines) (WCBS)
+- Darts (WDF)
+- Golf (IGF)
+- Mini-Golf (WMF)
+- Shooting (ISSF, IPC)*
+- Skiing/Snowboarding (FIS) in ski jumping, freestyle aerials/halfpipe and snowboard halfpipe/big air
+- Underwater sports (CMAS)* in all subdisciplines of freediving, spearfishing and target shooting
+*Also prohibited Out-of-Competition
+Including, but not limited to:
+acebutolol;
+alprenolol;
+atenolol;
+betaxolol;
+bisoprolol;
+bunolol;
+carteolol;
+carvedilol;
+celiprolol;
+esmolol;
+labetalol;
+metipranolol;
+metoprolol;
+nadolol;
+nebivolol;
+oxprenolol;
+pindolol;
+propranolol;
+sotalol;
+timolol.”
+
+3. melléklet a …/2022. (… …) Korm. rendelethez
+„II. melléklet: Gyógyászati célú mentességekre vonatkozó nemzetközi követelmény Párizs, 2023. január 1.
+ELSŐ RÉSZ: BEVEZETÉS, A SZABÁLYZAT RENDELKEZÉSEI, A NEMZETKÖZI SZABVÁNY
+RENDELKEZÉSEI ÉS FOGALOMMEGHATÁROZÁSOK
+1.0 Bevezetés és hatókör
+A Gyógyászati célú mentességekre vonatkozó nemzetközi szabvány a Nemzetközi doppingellenes program
+részeként kidolgozott, kötelező nemzetközi szabvány.
+A Gyógyászati célú mentességekre vonatkozó nemzetközi szabvány célja megállapítani (a) a gyógyászati célú
+mentesség (avagy TUE) megszerzése érdekében teljesítendő feltételeket, ami megengedi a sportoló mintájában
+tiltott anyag jelenlétét, illetve tiltott anyag vagy tiltott módszer sportoló általi használatát, használatának kísérletét,
+birtoklását és/vagy beadását/alkalmazását vagy beadásának/alkalmazásának kísérletét terápiás okok miatt; (b)
+a TUE-döntések meghozatala és közlése terén a doppingellenes szervezetekre háruló felelősségeket; (c) a TUE
+sportoló általi kérelmezésének folyamatát; (d) azt a folyamatot, amelynek révén a sportoló az egyik
+doppingellenes szervezet által megadott TUE-t elismertetheti másik doppingellenes szervezettel; (e) a TUE-
+döntések WADA általi felülvizsgálatának folyamatát; valamint (f) a TUE-eljárásra vonatkozó szigorú titoktartási
+rendelkezéseket.
+Az e nemzetközi szabványban használt azon szakkifejezések, melyek a Szabályzatban meghatározott
+szakkifejezések, dőlt betűvel vannak szedve. Az e vagy másik nemzetközi szabványban meghatározott
+szakkifejezések aláhúzással vannak jelölve.
+2.0 A Szabályzat rendelkezései
+A 2021. évi Szabályzat következő cikkei közvetlenül a Gyógyászati célú mentességekre vonatkozó nemzetközi
+szabvánnyal kapcsolatosak, ezeket magában a Szabályzatban lehet megtekinteni:
+• A Szabályzat 4.4 cikke – Gyógyászati célú mentesség (TUE engedély)
+• A Szabályzat 13.4 cikke – Gyógyászati célú mentességgel kapcsolatos fellebbezések
+3.0 Fogalommeghatározások és értelmezés
+3.1 A 2021. évi Szabályzatban meghatározott, a Gyógyászati célú mentességekre vonatkozó nemzetközi
+szabványban használt szakkifejezések
+ADAMS: Doppingellenes Adminisztrációs és Irányítási Rendszer: adatok bevitelére, tárolására, megosztására és
+lekérdezésére szolgáló internetes adatbázis-kezelő eszköz, amelynek célja az adatvédelmi jogszabályokkal
+összhangban az érintettek és a WADA doppingellenes tevékenységeinek támogatása.
+Beadás/alkalmazás: Tiltott anyag vagy tiltott módszer más személy általi használatának vagy az arra tett
+kísérletnek az elősegítése, felügyelete, előmozdítása vagy abban más módon történő részvétel. Ez a definíció nem
+terjed ki a tiltott anyagok és tiltott módszerek orvosi személyzet általi, jóhiszemű, ténylegesen és jogszerűen
+gyógyászati vagy egyéb indokolható célra történő használatára és azokra a tevékenységekre, amelyek a
+versenyidőszakon kívüli teszteken nem tiltott anyagokkal kapcsolatosak, kivéve, ha a körülmények összességében
+azt támasztják alá, hogy a tiltott anyagokat ténylegesen nem jogszerű gyógyászati célra, hanem a sportteljesítmény
+növelésére kívánják használni.
+Pozitív vizsgálati eredmény: WADA által akkreditált vagy a WADA által jóváhagyott laboratórium által benyújtott,
+a Laboratóriumokra vonatkozó nemzetközi szabványnak megfelelő jelentés, amely egy mintában tiltott anyag,
+annak metabolitjai vagy markerei jelenlétét állapítja meg, vagy tiltott módszer használatára utaló bizonyítékot talál.
+Doppingellenes szervezet: A WADA vagy a doppingellenőrzési folyamat bármely részének kezdeményezésére,
+végrehajtására vagy végrehajtatására vonatkozó szabályok elfogadásáért felelős aláíró fél. Ide tartozik például a
+Nemzetközi Olimpiai Bizottság, a Nemzetközi Paralimpiai Bizottság, a jelentős sportesemények szervezői, amelyek
+sporteseményeiken teszteket végeznek, a nemzetközi szövetségek és a nemzeti doppingellenes szervezetek.
+Sportoló: A nemzetközi szövetségek meghatározása szerint nemzetközi szintű, illetve a nemzeti doppingellenes
+szervezetek meghatározása szerint nemzeti szintű sporttevékenységet folytató személy. A doppingellenes
+szervezet saját hatáskörében dönthet arról, hogy a doppingellenes szabályokat alkalmazza-e a nem nemzetközi
+vagy nemzeti szintű sportolókra, és hogy ezzel felveszi-e ezeket a sportolókat a „sportoló” definíciójának körébe.
+Azokkal a sportolókkal kapcsolatban, akik sem nemzetközi szintű, sem nemzeti szintű sportolónak nem minősülnek,
+a doppingellenes szervezet az alábbi módokon járhat el: korlátozott körű teszteket végez, vagy egyáltalán nem
+végez teszteket; a mintákat nem elemzi a tiltott anyagok teljes jegyzékére vonatkozóan; korlátozott mértékben vagy
+egyáltalán nem kér be a sportoló tartózkodási helyére vonatkozó információkat; vagy nem ír elő előzetes
+gyógyászati célú mentességet. Ha olyan sportoló követ el a 2.1., 2.3. vagy 2.5. cikk szerinti doppingvétséget, aki
+nemzetközi vagy nemzeti szintnél alacsonyabb szinten versenyez, de a doppingellenes szervezet kiterjesztette rá
+tesztelési hatáskörét, az adott sportolóra a Szabályzatban foglalt következmények alkalmazandók. A 2.8. és a 2.9.
+cikk alkalmazásában, valamint a doppingellenes tájékoztatás és oktatás tekintetében sportolónak minősül bármely
+3. melléklet az 542/2022. (XII. 22.) Korm. rendelethez
+
+sporttevékenységet végző személy, aki a Szabályzatot elfogadó aláíró fél, kormány vagy más sportszervezet
+felügyelete alá tartozik. [Megjegyzés a sportoló fogalmához: A sportoló személyek 5 kategóriába sorolhatók: 1)
+nemzetközi szintű sportolók, 2) nemzeti szintű sportolók, 3) nemzetközi szintű sportolónak vagy nemzeti szintű
+sportolónak nem minősülő személyek, akik felett a nemzetközi szövetség vagy nemzeti doppingellenes szervezet
+(saját döntése alapján) hatáskörrel rendelkezik, 4) szabadidő-sportolók, és 5) azon személyek, akik felett
+nemzetközi szövetségnek vagy nemzeti doppingellenes szervezetnek nincsen hatásköre. A Szabályzat
+doppingellenes rendelkezései minden nemzetközi és nemzeti szintű sportolóra vonatkoznak, azzal, hogy a
+nemzetközi szövetségeknek és a nemzeti doppingellenes szervezeteknek saját doppingellenes szabályaikban
+pontosan rögzíteniük kell a nemzetközi és nemzeti szintű sportoló definícióját.]
+Kísérlet: Szándékos cselekedet, amely lényeges lépést jelent egy olyan megtervezett cselekvésfolyamatban,
+amelynek végső célja doppingvétség elkövetése. A vétségre tett kísérlet mindazonáltal nem minősül
+doppingvétségnek abban az esetben, ha az elkövető személy a kísérlettől még azt megelőzően eláll, hogy azt egy
+abban részt nem vevő harmadik fél felfedezné.
+CAS: A Nemzetközi Sport Döntőbíróság (Court of Arbitration for Sport).
+Szabályzat: A Nemzetközi doppingellenes szabályzat.
+Verseny: Egyetlen futam, mérkőzés, játszma vagy egyedi sportverseny. A verseny fogalmába beletartozik például
+egy kosárlabda mérkőzés vagy az olimpia 100 méteres síkfutásának döntője. Részfutam és más olyan atlétikai
+versenyek esetén, ahol a díjakat napi szinten vagy más alapon adják ki, a verseny és a sportesemény közötti
+különbséget az adott nemzetközi szövetség szabályai határozzák meg.
+Oktatás: Képzési és tanulási folyamat, amelynek során az érintettek megtanulják olyan értékek és
+viselkedésformák átadását és ösztönzését, amelyek segítenek a sport szellemiségének megőrzésében, illetve a
+szándékos és nem szándékos doppingolás megelőzésében.
+Sportesemény: Egyedi versenyekből álló sorozat, amelyet egyetlen döntéshozatali szerv bonyolít le (pl. olimpiai
+játékok, FINA-világbajnokságok vagy pánamerikai játékok).
+Versenyidőszakon belül: A versenyidőszak azon versenyek kezdetét megelőző nap este 11:59-kor kezdődik,
+amelyeken a sportoló részt vesz; az időszak a verseny végéig tart, és az adott versenyhez kapcsolódó mintavételi
+folyamatot is magába foglalja. A WADA mindazonáltal jogosult valamely konkrét sport vonatkozásában
+engedélyezni ettől eltérő meghatározást, amennyiben valamely nemzetközi szövetség megfelelően megindokolja
+ennek szükségességét; a WADA jóváhagyását követően az adott sport tekintetében minden jelentős sportesemény
+szervezője köteles az új definíciót alkalmazni.
+[Megjegyzés a versenyidőszakon belül fogalmához: A versenyidőszakon belül definíciójának egyetemesen
+elfogadott, egységes definíciója nagyobb harmonizációt tesz lehetővé a különböző sportágak versenyzői között,
+csökkenti a bizonytalanságot azzal kapcsolatban, hogy mikor kerül sor versenyidőszakon belüli tesztelésre,
+elkerülhetővé teszi a nem szándékos pozitív vizsgálati eredményeket a versenyek között a sportesemények alatt,
+és segít megelőzni, hogy a versenyidőszakon kívül tiltott anyagok teljesítménynövelő hatása a versenyidőszakra
+átvihető legyen.]
+Nemzetközi sportesemény: Olyan sportesemény vagy verseny, amelynek döntéshozó szerve a Nemzetközi
+Olimpiai Bizottság, a Nemzetközi Paralimpiai Bizottság, valamely nemzetközi szövetség, jelentős sportesemény
+szervezője vagy más nemzetközi sportszervezet, vagy ahol a
+sporteseményre a technikai tisztségviselőket az említett szervezetek jelölik ki.
+Nemzetközi szintű sportoló: Olyan sportoló, aki (az egyes nemzetközi szövetségek által adott meghatározás
+szerint) nemzetközi szintű sportversenyeken vesz részt a Tesztelésre és vizsgálatokra vonatkozó nemzetközi
+szabványnak megfelelően.
+[Megjegyzés a nemzetközi szintű sportoló fogalmához: A Tesztelésre és vizsgálatokra vonatkozó nemzetközi
+szabvány szerint a nemzetközi szövetségnek jogában áll meghatározni azokat a kritériumokat, amelyek alapján
+valamely sportolót nemzetközi szintű sportolónak minősít, például: rangsor, bizonyos nemzetközi
+sporteseményeken való részvétel, az engedély típusa, stb. Ezeket a kritériumokat mindazonáltal egyértelmű és
+tömör formában kell közzétenni annak érdekében, hogy a sportolók gyorsan és könnyen megbizonyosodhassak
+arról, hogy mely időszakban minősülnek nemzetközi szintű sportolónak. Ha például a kritériumok között szerepel a
+nemzetközi sporteseményeken való részvétel, a nemzetközi szövetség köteles közzétenni a nemzetközi
+sportesemények jegyzékét.]
+Nemzetközi szabvány: A Szabályzat támogatása érdekében a WADA által elfogadott szabvány. A nemzetközi
+szabványoknak történő megfelelés – szemben más egyéb követelményeknek, gyakorlatnak vagy eljárásnak való
+megfeleléssel – elegendő bizonyíték annak megállapítására, hogy a nemzetközi szabvány által érintett eljárások
+végrehajtása megfelelő volt-e. A nemzetközi szabványok körébe tartoznak a nemzetközi szabványok értelmében
+kiadott technikai dokumentumok is.
+Jelentős sportesemény szervezője: A nemzeti olimpiai bizottságok és más nemzetközi, több sportágat felölelő
+szervezetek kontinentális Szövetségei, amelyek döntéshozóként működnek kontinentális, regionális és más
+nemzetközi sportesemények során.
+Nemzeti doppingellenes szervezet: Az egyes országok által kijelölt szervezet(ek), amely(ek) nemzeti szinten
+elsődleges hatáskörrel és felelősséggel bír(nak) a doppingellenes szabályok elfogadása és végrehajtása, a
+mintavétel irányítása, a teszteredmények kezelése és az eredménykezelés lebonyolítása terén. Amennyiben erre
+a feladatra az illetékes állami hatóságok nem jelöltek ki külön szervezetet, a feladatot az adott ország nemzeti
+olimpiai bizottsága vagy ez utóbbi által kijelölt szervezet látja el.
+Nemzeti szintű sportoló: Olyan sportoló, aki a nemzeti doppingellenes szervezet meghatározásának megfelelően,
+
+a Tesztelésre és vizsgálatokra vonatkozó nemzetközi szabvány szerint nemzeti szinten versenyez.
+Versenyidőszakon kívül: Minden olyan időszak, amely nem versenyidőszakon belüli időszak.
+Birtoklás: Tényleges, fizikai birtoklás vagy vélelmezett birtoklás (amely csak abban az esetben állapítható meg, ha
+a személy kizárólagos rendelkezéssel bír vagy kizárólagos rendelkezéssel szándékozik bírni valamely tiltott anyag,
+tiltott módszer vagy azon helyiségek felett, amelyekben a tiltott anyag vagy tiltott módszer található); mindazonáltal
+ha az adott személy nem rendelkezik kizárólagosan a tiltott anyag, tiltott módszer vagy azon helyiségek felett,
+amelyekben a tiltott anyag vagy tiltott módszer található, a vélelmezett birtoklást csak akkor állapítják meg, ha a
+személy tudatában volt a tiltott anyag vagy tiltott módszer jelenlétének, és ellenőrzést szándékozott gyakorolni a
+tiltott anyag vagy tiltott módszer felett. Pusztán a birtoklásra hivatkozva mindazonáltal nem állapítható meg a
+doppingvétség, ha a doppingvétségre vonatkozó értesítésnek az adott személy által történő kézhezvételét
+megelőzően az érintett személy tényleges lépéseket tett annak bizonyítására, hogy sohasem kívánta a tiltott
+anyagot vagy tiltott módszert birtokolni, és a birtoklásról a doppingellenes szervezethez intézett bejelentéssel
+kifejezetten lemondott. Az ebben a definícióban szereplő bármely ezzel ellentétes értelmű kifejezéstől eltérően a
+tiltott anyag vagy tiltott módszer (elektronikusan vagy más úton történő) beszerzése a beszerző személy részéről
+minden esetben birtoklásnak minősül.
+[Megjegyzés a birtoklás fogalmához: E definíció értelmében a sportoló gépjárművében talált szteroidok
+doppingvétségnek minősülnek, kivéve, ha a sportoló bizonyítani tudja, hogy a gépjárművet valaki más használta;
+ebben az esetben a doppingellenes szervezetnek bizonyítania kell, hogy – még ha a sportoló nem is rendelkezett
+kizárólagos ellenőrzéssel a gépjármű felett – a szteroidokról tudott és azok felett rendelkezni kívánt. Ehhez
+hasonlóan a sportoló és házastársa közös ellenőrzése alatt álló otthoni gyógyszerszekrényben talált szteroidok
+esetén a doppingellenes szervezetnek kell bizonyítania, hogy a sportoló tudott a
+szekrényben lévő szteroidokról, és hogy azok felett rendelkezni kívánt. A tiltott anyag megvásárlása önmagában
+birtoklásnak minősül például abban az esetben is, ha a termék nem érkezik meg, más személy veszi át vagy
+harmadik fél címére küldik.]
+Tiltólista: A tiltott anyagokat és tiltott módszereket tartalmazó lista.
+Tiltott módszer: A tiltólistán tiltott módszerként szereplő módszer.
+Tiltott anyag: A tiltólistán tiltott anyagként szereplő anyag vagy anyag-kategória.
+Szabadidő-sportoló: Az illetékes nemzeti doppingellenes szervezet által ily módon definiált természetes személy
+azzal a megkötéssel, hogy nem tartoznak ebbe a kategóriába azok a személyek, akik bármely doppingvétség
+elkövetését megelőző 5 (öt) évben nemzetközi szintű sportolók voltak (a nemzetközi szövetség a Tesztelésre és
+vizsgálatokra vonatkozó nemzetközi szabványnak megfelelő definíciója értelmében) vagy nemzeti szintű sportolók
+voltak (az illetékes nemzeti doppingellenes szervezet a Tesztelésre és vizsgálatokra vonatkozó nemzetközi
+szabványnak megfelelő definíciója értelmében), bármely országot képviseltek nyílt kategóriában valamely
+nemzetközi sporteseményen, vagy bármely nemzetközi szövetség vagy nemzeti doppingellenes szervezet által
+működtetett nyilvántartott vizsgálati csoportban vagy a sportoló tartózkodási helyére vonatkozó adatközlésre
+kötelezett csoportban szerepeltek. [Megjegyzés a szabadidő-sportoló fogalmához: A „nyílt kategóriás” kifejezésbe
+nem tartoznak bele olyan versenyek, amelyeken csak junior vagy korosztályos kategóriák indulhatnak.]
+Eredménykezelés: Az Eredménykezelésre vonatkozó nemzetközi szabvány 5. cikke szerinti értesítéstől, vagy
+bizonyos esetekben az Eredménykezelésre vonatkozó nemzetközi szabvány 5. cikkében kifejezetten rögzített, és
+bizonyos körülmények esetén (például atipikus eredmény, sportolói biológiai útlevél, holléti mulasztás*) szükséges,
+az értesítést megelőző lépések megtételétől a vádemelésen át az ügy végleges megoldásáig terjed, ideértve az
+elsőfokú meghallgatási folyamat végét vagy a fellebbezési folyamat végét (ha fellebbezést nyújtottak be).
+Minta: Doppingellenőrzés céljából begyűjtött bármely biológiai anyag.
+[Megjegyzés a minta fogalmához: Esetenként felmerül, hogy a vérminták vétele sérti egyes vallási vagy kulturális
+csoportok meggyőződését. Olyan határozat született, amely szerint ez az állítás alaptalan.]
+Tesztelés: A doppingellenőrzés folyamatának azon része, amely a teszteloszlás-tervezésből, mintavételből,
+mintakezelésből, valamint a minták laboratóriumba történő szállításából áll.
+Gyógyászati célú mentesség (TUE): Gyógyászati célú mentesség (TUE igazolás) esetén a megadott
+betegségben szenvedő sportoló tiltott anyagot vagy tiltott módszert is használhat, de kizárólag abban az esetben,
+ha 4.4 cikkben és a Gyógyászati célú mentességekre vonatkozó nemzetközi szabványban foglalt előírások
+teljesülnek.
+Használat: Bármely tiltott anyag vagy tiltott módszer hasznosítása, alkalmazása, bevétele, injekcióval történő
+beadása vagy bármiféle módon való fogyasztása.
+WADA: Nemzetközi Doppingellenes Ügynökség (World Anti-Doping Agency).
+3.2 A magánélet és a személyes információk védelmére vonatkozó nemzetközi szabványban meghatározott
+szakkifejezések
+Személyes információ(k)/adat(ok): Egy azonosított vagy azonosítható résztvevővel vagy egyéb olyan személlyel
+kapcsolatos információ(k) – korlátozás nélkül ideértve az érzékeny személyes információ(ka)t –, akinek az
+információit kizárólag valamely doppingellenes szervezet doppingellenes tevékenységeinek keretében kezelik.
+[Megjegyzés a személyes információ(k) kifejezéshez: Az értelmezés szerint a személyes információ(k) fogalmába
+korlátozás nélkül beletartoznak a sportoló nevével, születési idejével, kapcsolattartási adataival és sportbeli
+tagságaival, hollétével, megjelölt TUE-ivel (amennyiben van ilyen), doppingteszt-eredményeivel és
+eredménykezelésével kapcsolatos információk (ideértve a fegyelmi meghallgatásokat, fellebbezéseket és
+szankciókat). A személyes információ(k) körébe tartoznak továbbá a más személyekkel – pl. egészségügyi
+szakemberekkel – és a sportolóval a doppingellenes tevékenységekkel összefüggésben együtt dolgozó, őt kezelő
+
+vagy neki segítséget nyújtó más személyekkel kapcsolatos személyes adatok és kapcsolattartási információk is.
+Az ilyen információ(k) személyes információ(k) marad(nak), ami(ke)t kezelése (kezelésük) teljes időtartama alatt e
+nemzetközi szabvány szabályoz, függetlenül attól, hogy az adott személy a szervezett sportban továbbra is részt
+vesz-e.]
+Adatkezelés/kezelés (és hasonló jelentésű társai, kezel és kezelt): Személyes információ(k) gyűjtése, az ahhoz
+(azokhoz) való hozzáférés, megőrzése, tárolása, közlése, átadása, átvitele, módosítása, törlése vagy más módon
+történő felhasználása.
+3.3 A Gyógyászati célú mentességekre vonatkozó nemzetközi szabvánnyal kapcsolatos, meghatározott
+szakkifejezések
+Gyógyászati (célú): Valamely orvosi kezelésre szoruló állapot gyógyhatású szerekkel vagy módszerekkel történő
+kezelésére szolgál vagy azzal kapcsolatos; illetve valamely gyógymód nyújtására vagy az abban való
+segítségnyújtásra szolgál vagy azzal kapcsolatos.
+Gyógyászati célú mentességi bizottság (avagy „TUEC”): Egy doppingellenes szervezet által a TUE-kre irányuló
+kérelmek elbírálására létrehozott testület.
+WADA TUEC: A WADA által más doppingellenes szervezetek TUE-döntéseinek felülvizsgálatára létrehozott
+testület.
+3.4 Értelmezés
+3.4.1 A Gyógyászati célú mentességekre vonatkozó nemzetközi szabvány hivatalos szövege angol és francia
+nyelven kerül megjelentetésre. Az angol és a francia változat közötti bármilyen ellentmondás esetén az angol nyelvű
+változat a mérvadó.
+3.4.2 Csakúgy, mint a Szabályzat, a Gyógyászati célú mentességekre vonatkozó nemzetközi szabvány is az
+arányosság, az emberi jogok elveit és más E – 2021. január 25/10. oldal alkalmazandó jogi alapelveket figyelembe
+véve került megfogalmazásra, és ennek fényében értelmezendő és alkalmazandó.
+3.4.3 A Gyógyászati célú mentességekre vonatkozó nemzetközi szabvány különböző rendelkezéseihez fűzött
+megjegyzések arra használandók, hogy útmutatást adjanak annak értelmezéséhez.
+3.4.4 Hacsak másként nincs meghatározva, a szakaszokra és cikkekre történő hivatkozások a
+Gyógyászati célú mentességekre vonatkozó nemzetközi szabvány szakaszaira és cikkeire hivatkoznak.
+3.4.5 Ahol a Gyógyászati célú mentességekre vonatkozó nemzetközi szabvány a „nap(ok)” kifejezést használja, az
+naptári napot jelent, hacsak másként nincs meghatározva.
+3.4.6 A Gyógyászati célú mentességekre vonatkozó nemzetközi szabvány mellékletei ugyanannyira kötelező
+érvényűek, mint a nemzetközi szabvány többi része.
+MÁSODIK RÉSZ: TUE MEGADÁSÁRA VONATKOZÓ KÖVETELMÉNYEK ÉS ELJÁRÁS
+4.0 TUE beszerzése
+Annak a sportolónak, akinek gyógyászati célból tiltott anyagot vagy tiltott módszert szükséges
+használnia, a szóban forgó anyag vagy módszer használata vagy birtoklása előtt TUE-t kell
+kérelmeznie és beszereznie, kivéve akkor, ha a sportoló a 4.1. cikk szerint visszamenőleges
+hatállyal jogosult TUE-t kérelmezni. A 4.2 cikkben foglalt feltételeknek mindkét esetben
+teljesíteniük kell.
+[Megjegyzés a 4.0 cikkhez: Előfordulhat, hogy egy sportoló egészségi állapota miatt, azt
+megelőzően használ tiltott anyagot vagy alkalmaz tiltott módszert, hogy ezzel doppingvétséget
+valósítana meg. Ebben az esetben a használathoz vagy birtokláshoz nem szükséges TUE,
+elegendő lesz a jövőre vonatkozó TUE-t kérelmeznie.
+4.1 A visszamenőleges hatályú TUE lehetőséget biztosít a sportoló számára, hogy a tiltott anyag
+használatát vagy módszer alkalmazását követően kérelmezzen TUE-t a kérdéses anyag vagy
+módszer tekintetében.
+Egy sportoló ugyanakkor visszamenőleges hatállyal is kérelmezhet TUE-t (de ekkor is teljesítenie
+kell a 4.2 cikkben szereplő feltételeket), ha a következő kivételek bármelyike fennáll:
+
+a) Orvosi kezelésre szoruló állapot sürgősségi vagy sürgős kezelésére volt szükség;
+b) Nem volt elegendő idő, lehetőség, van más kivételes körülmények akadályozták a sportolót
+abban, hogy a mintavétel előtt TUE-kérelmet nyújtson be (vagy hogy a TUEC azt elbírálja);
+c) Bizonyos sportok vagy sportágaknemzeti szinten való előnyben részesítése miatt a sportoló
+nemzeti doppingellenes szervezete nem engedte vagy követelte meg, hogy a sportoló jövőre
+vonatkozó TUE-t kérelmezzen (lásd az 5.1 cikkhez fűzött megjegyzést);
+d) Ha egy doppingellenes szervezet úgy dönt, hogy mintát vesz egy olyan sportolótól, aki nem
+nemzetközi szintű sportoló vagy nemzeti szintű sportoló, és ez a sportoló gyógyászati céllal
+tiltott anyagot vagy tiltott módszert használ, a doppingellenes szervezetnek engedélyeznie
+kell a sportoló számára, hogy visszamenőleges hatályú TUE-t kérelmezzen; vagy
+e) A sportoló versenyen kívüli időszakban – gyógyászati céllal – olyan tiltott anyagot használt,
+ami csak versenyidőszakon belül tiltott.
+[Megjegyzés a 4.1 cikkhez: Valamely visszamenőleges hatályú kivétel teljesítése önmagában
+nem jelenti a TUE szükségszerűmegadását, mindez azt jelenti, hogy a 4.2 cikk alapján bírálható
+el a sportoló kérelme a meghatározott TUE feltételeknek való megfelelés megállapítása
+érdekében.
+[Megjegyzés a 4.1 cikk (c), (d) and (e) pontjaihoz: Nyomatékosan ajánljuk e sportolók számára,
+hogy állítsanak össze és készítsenek elő egy orvosi aktát annak bemutatására, hogy kielégítik a
+4.2 cikkben rögzített TUE-feltételeket, amennyiben egy mintavételt követően visszamenőleges
+hatályú TUE kérelmezése szükséges.]
+[Megjegyzés a 4.1 cikk (e) pontjához: Ez azokat a helyzeteket kívánja megoldani, amikor egy
+sportoló gyógyászati céllal olyan anyagot használ versenyen kívüli időszakban, ami csak
+versenyidőszakon belül tiltott, de mégis fennáll a kockázata annak, hogy az anyag
+versenyidőszakon belül is a szervezetében marad. Az ilyen helyzetekben a doppingellenes
+szervezetnek engedélyeznie kell a sportoló számára, hogy visszamenőleges hatályú TUE-t
+kérelmezzen (ha azt a sportoló előre nem kérelmezte). Ez azt is megpróbálja kiküszöbölni, hogy
+a doppingellenes szervezeteknek olyan előzetes TUE-kérelmeket kelljen elbírálniuk, amik
+szükségtelenek lehetnek.]
+4.2 Egy sportoló akkor (és csak akkor) részesülhet TUE-ben, ha igazolni tudja, hogy
+– a körülmények mérlegelését követően – az alábbi feltételek mindegyike teljesül:
+a) A szóban forgó tiltott anyagra vagy tiltott módszerre egy diagnosztizált, orvosi kezelésre
+szoruló állapot kezeléséhez van szükség, amit releváns klinikai bizonyíték támaszt alá.
+[Megjegyzés a 4.2 cikk (a) pontjához: Előfordulhat, hogy a tiltott anyag vagy tiltott módszer
+használata nem egy önmagában álló kezelés, hanem egy szükséges diagnosztikai vizsgálat
+része.]
+b) A tiltott anyag vagy tiltott módszer gyógyászati célú használata nem fog – a körülmények
+mérlegelését követően – semmilyen plusz teljesítményjavulással járni ahhoz képest, mint
+ami attól lehetne várható, hogy az orvosi kezelésre szoruló állapot kezelését követően
+helyreáll a sportoló normál egészségi állapota.
+[Megjegyzés a 4.2 cikk (b) pontjához: Egy sportoló normál egészségi állapotát egyedileg kell
+meghatározni. Egy konkrét sportoló normál egészségi állapota az az egészségi állapot, ami
+akkor állna fenn, ha nem volna az az orvosi kezelésre szoruló állapot, amihez a sportoló a
+TUE-t kéri.]
+c) A tiltott anyag vagy tiltott módszer az orvosi kezelésre szoruló állapot javallott kezelése, és
+nincs észszerű, engedélyezett gyógyászati alternatíva.
+[Megjegyzés a 4.2 cikk (c) pontjához: Az orvosnak el kell magyaráznia, hogy miért a kiválasztott
+kezelés volt a legmegfelelőbb, pl. a tapasztalatok, mellékhatás-profilok vagy más orvosi
+indokok alapján, ideértve – adott esetben – a földrajzi helyre jellemző orvosi gyakorlatot,
+valamint a gyógyszer elérhetőségét. Továbbá a tiltott anyag vagy tiltott módszer használata
+előtt nem mindig szükséges hatástalannak bizonyuló alternatívákkal próbálkozni.]
+
+d) A tiltott anyag vagy tiltott módszer használatának szükségessége sem részben, sem
+egészben nem egy olyan anyag vagy módszer (TUE nélküli) korábbi használatának
+következménye, ami a használat idején tiltott volt.
+[Megjegyzés a 4.2 cikkhez: A WADA honlapján közzétett „TUE orvosi irányelvek” című
+WADA dokumentumok használandók arra, hogy segítsenek e kritériumoknak konkrét orvosi
+kezelésre szoruló állapotokra vonatkozó alkalmazásában.
+A TUE megadása kizárólag a 4.2 cikkben rögzített feltételek mérlegelésén alapul. Nem kerül
+mérlegelésre, hogy a tiltott anyag vagy tiltott módszer vajon a klinikailag legmegfelelőbb vagy
+legbiztonságosabb-e, illetve hogy annak használata vajon minden joghatóságban
+jogszerű-e.
+Amikor egy nemzetközi szövetség vagy jelentős sportesemény szervezőjének TUEC-je arról
+dönt, hogy elismerjen vagy sem egy másik doppingellenes szervezet által megadott TUE-t
+(lásd a 7. cikket), és amikor a WADA felülvizsgál egy TUE megadására (vagy nem
+megadására) vonatkozó döntést (lásd a 8. cikket), a kérdés ugyanaz lesz, mint egy olyan
+TUEC esetében, ami a 6. cikk szerinti TUE-kérelmet mérlegel, vagyis hogy a sportoló
+igazolta-e, hogy – a körülmények mérlegelését követően – a 4.2 cikkben rögzített feltételek
+mindegyike teljesül?]
+4.3 Kivételes körülmények között, és a jelen Gyógyászati célú mentességekre vonatkozó nemzetközi
+szabvány bármely más rendelkezésétől függetlenül, egy sportoló akkor kérelmezheti és kaphatja
+meg egy tiltott anyag vagy tiltott módszer általa történő gyógyászati célú használatára a
+visszamenőleges hatályú jóváhagyást, ha – a Szabályzat céljára tekintettel – nyilvánvalóan
+méltánytalan lenne nem megadni a visszamenőleges hatályú TUE-t. Nemzetközi szintű sportolók
+és nemzeti szintű sportolók esetében a doppingellenes szervezet csak a WADA előzetes
+jóváhagyásával fogadhatja el egy sportoló visszamenőleges hatályú TUE-re vonatkozó, e cikk
+szerinti kérelmét (és a WADA teljes mértékben a saját belátása szerint érthet egyet a
+doppingellenes szervezet döntésével, vagy utasíthatja el azt).
+Olyan sportolók esetében, akik nem nemzetközi szintű sportolók vagy nemzeti szintű sportolók,
+az érintett doppingellenes szervezet a WADA-val történő előzetes egyeztetés nélkül fogadhatja
+el egy sportoló visszamenőleges hatályú TUE-re vonatkozó, e cikk szerinti kérelmét, azonban a
+WADA bármikor felülvizsgálhatja a doppingellenes szervezet visszamenőleges hatályú TUE
+megadására vonatkozó, e cikk szerinti döntését, és teljes mértékben a saját belátása szerint
+érthet egyet a döntéssel, vagy semmisítheti meg azt.
+A WADA és/vagy egy doppingellenes szervezet által a jelen cikk értelmében hozott bármilyen
+döntés sem doppingvétség miatt induló eljárásban való védekezésként, sem fellebbezés
+formájában, sem máshogy nem támadható meg.
+Egy doppingellenes szervezet által a jelen 4.3 cikk szerint hozott valamennyi döntést, akár
+megadja, akár megtagadja a TUE-t, az 5.5 cikk szerint jelenteni kell az ADAMS-en keresztül.
+[Megjegyzés a 4.3 cikkhez: Az egyértelműség kedvéért a visszamenőleges hatályú jóváhagyás
+még akkor is megadható a 4.3 cikk szerint, ha a 4.2 cikkben szereplő feltételek nem teljesülnek
+(bár az e feltételeknek való megfelelés releváns szempont lesz). Más releváns tényezők közé
+tartozhat korlátozás nélkül, hogy a sportoló miért nem adott be kérelmet előre; a sportoló
+tapasztalata; a sportoló részére korábban nyújtottoktatás; hogy a sportoló bejelentette-e az anyag
+vagy módszer használatát a doppingellenőrzési nyomtatványon; valamint a sportoló TUE-jének
+közelmúltban bekövetkezett lejárata. Döntésének meghozatalakor a WADA – saját belátása
+szerint – konzultálhat a WADA TUEC tagjával (tagjaival).]
+5.0 Doppingellenes szervezetek TUE-felelősségei
+5.1 A Szabályzat 4.4 cikke meghatározza, hogy (a) mely doppingellenes szervezeteknek van jogköre
+TUE-döntéseket hozni; (b) e TUE-döntéseket más doppingellenes szervezeteknek hogyan kell
+elismerni és betartani, valamint (c) a TUE-döntéseket mikor lehet felülvizsgálni és/vagy
+megfellebbezni.
+[Megjegyzés az 5.1 cikkhez: Lásd az 1. mellékletet – A Szabályzat 4.4 cikke szerinti folyamatábra,
+ami összefoglalja a Szabályzat 4.4 cikkének legfontosabb rendelkezéseit.
+Amennyiben a nemzeti szakpolitika követelményei és súlypontjai figyelembevételével valamely
+nemzeti doppingellenes szervezet a teszteloszlás tervezése során prioritást ad bizonyos
+
+sportoknak vagy sportágaknaka többivel szemben (a Tesztelésre és vizsgálatokra vonatkozó
+nemzetközi szabvány 4.4.1 cikkében foglaltak szerint), a nemzeti doppingellenes szervezet
+elutasíthatja a prioritást nem kapott sportok vagy sportágaknémelyikében vagy mindegyikében
+szereplő sportolóktól érkező előzetes TUE-kérelmek mérlegelését, ebben az esetben viszont
+köteles bármely ilyen sportolónak engedélyezni a visszamenőleges hatályú TUE kérelmezését,
+akitől ezt követően vesznek mintát. A nemzeti doppingellenes szervezet bármely ilyen értelmű
+politikáját tegye közzé honlapján az érintett sportolók érdekében.
+A Szabályzat 4.4.2 cikke határozza meg egy nemzeti doppingellenes szervezet hatáskörét, hogy
+TUE-döntéseket hozzon azon sportolók tekintetében, akik nem nemzetközi szintű sportolók.
+Amennyiben vita van arról, hogy melyik nemzeti doppingellenes szervezetnek kell foglalkozni egy
+nem nemzetközi szintű sportoló TUE-kérelmével, a WADA dönt. A WADA döntése végleges,
+ellene fellebbezésnek helye nincs.]
+5.2 Az egyértelműség kedvéért, amikor egy nemzeti doppingellenes szervezet TUE-t ad egy
+sportolónak, az a TUE nemzeti szinten az egész világon érvényes, és nem kell formálisan
+elismertetni másik nemzeti doppingellenes szervezetekkel a 7.0 cikk szerint (például, ha egy
+sportoló TUE-t kap saját nemzeti doppingellenes szervezetétől, majd egy másik nemzeti
+doppingellenes szervezet országában edz vagy versenyez, az a TUE érvényes lesz akkor is, ha
+a sportolót e másik nemzeti doppingellenes szervezet ekkor teszteli).
+5.3 Minden egyes nemzeti doppingellenes szervezet, nemzetközi szövetség és jelentős
+sportesemény szervezője köteles TUEC-et létrehozni annak elbírálására, hogy a TUE-k
+megadására vagy elismerésére vonatkozó kérelmek megfelelnek-e a 4.2 cikkben foglalt
+feltételeknek.
+[Megjegyzés az 5.3 cikkhez: Az egyértelműség kedvéért a 4.1 és 4.3 cikkekben rögzített feltételek
+teljesülését az érintett doppingellenes szervezet a TUEC tagjával (tagjaival) konzultálva
+határozhatja meg.
+Bár egy jelentős sportesemény szervezője dönthet úgy, hogy automatikusan elismeri a már
+meglévő TUE-ket, lennie kell egy mechanizmusnak, amivel a sporteseményen részt vevő
+sportolók új TUE-t szerezhetnek be, amennyiben szükségessé válik. Minden egyes jelentős
+sportesemény szervezője maga dönt arról, hogy e célból saját TUEC-et hoz létre, vagy a feladatot
+inkább kiszervezi egy harmadik féllel kötött megállapodás keretében. A cél mindegyik esetben
+annak biztosítása, hogy az ilyen sporteseményeken versenyző sportolók a versenyzés előtt
+gyorsan és hatékonyan beszerezhessék a TUE-ket.]
+a) A TUEC-ekben legalább 3 (három), a sportolók ápolásában és kezelésében tapasztalattal,
+valamint a klinikai és sportorvoslás és az edzésmedicina alapos ismeretével rendelkező
+orvosnak kell szerepelni. Azokban az esetekben, ahol speciális szakértelemre van szükség
+(például fogyatékkal élő sportolók esetében, ahol az anyag vagy módszer a sportoló
+fogyatékosságával kapcsolatos), legalább 1 (egy) TUEC-tag vagy szakértő rendelkezzen
+ilyen szakértelemmel. 1 (egy) orvos tag töltse be a TUEC elnöki tisztjét.
+b) A döntések pártatlanságának biztosítása érdekében a TUEC minden tagja
+összeférhetetlenségi nyilatkozat és titoktartási megállapodás aláírására köteles (a
+nyilatkozat mintája a WADA honlapján megtalálható).
+5.4 Mindegyik nemzeti doppingellenes szervezet, nemzetközi szövetség és jelentős sportesemény
+szervezője köteles világos folyamatot kialakítani a TUE saját TUEC-jénél történő kérelmezésére,
+ami megfelel a jelen nemzetközi szabvány követelményeinek. E folyamat részleteit emellett
+(legalább) az információnak a honlapja jól látható helyén történő megjelenítése útján köteles
+közzétenni.
+5.5 Mindegyik nemzeti doppingellenes szervezet, nemzetközi szövetség és jelentős sportesemény
+szervezője köteles haladéktalanul bejelenteni (angol vagy francia nyelven) a saját TUEC-jének
+TUE-ket megadó vagy megtagadó döntéseit, valamint más doppingellenes szervezetek TUE-
+döntéseit elismerő vagy elismerését elutasító valamennyi döntését, mégpedig az ADAMS-en
+keresztül, a lehető leghamarabb, de mindenképpen a döntés kézhezvételétől számított 21
+(huszonegy) napon belül. Egy TUE-t elutasító döntésnek tartalmaznia kell az elutasítás
+indoklását. A megadott TUE-ket illetően a bejelentett információknak a következőket kell
+tartalmazni (angol vagy francia nyelven):
+
+a) A sportoló számára megengedett volt-e, hogy a 4.1 cikk szerint visszamenőleges hatállyal
+kérelmezzen TUE-t, valamint az indok(ok) magyarázata, illetve hogy a sportoló számára
+megengedett volt-e, hogy a 4.3 cikk szerint visszamenőleges hatállyal kérelmezzen, és a
+szerint kapott-e TUE-t, valamint az indok(ok) magyarázata;
+b) A jóváhagyott anyagot vagy módszert, az adagolást, a gyakoriságot és az engedélyezett
+alkalmazási módot, a TUE időtartamát (és, ha eltér, a felírt kezelés időtartamát), valamint a
+TUE-vel összefüggésben támasztott esetleges feltételeket; és
+c) A TUE kérelmező nyomtatványt (amennyiben nem elekronikusan került kitöltésre az ADAMS
+rendszerben) és a vonatkozó klinikai információkat, melyek igazolják, hogy az ilyen TUE
+tekintetében a 4.2 cikk feltételei teljesülnek (ehhez kizárólag a WADA, a sportoló nemzeti
+doppingellenes szervezete és nemzetközi szövetsége, valamint az a jelentős sportesemény
+szervezője férhet hozzá, amely azt a sporteseményt szervezi, amin a sportoló versenyezni
+kíván).
+[Megjegyzés az 5.5 cikkhez: Amennyiben rendszeresítve van TUE kérelmező nyomtatvány,
+azt a doppingellenes szervezetek lefordíthatják más nyelvekre, de az eredeti angol vagy
+francia szövegnek a nyomtatványon kell maradnia, és biztosítani kell a tartalom angol vagy
+francia fordítását.
+Biztosítani kell a teljes egészségügyi aktát, beleértve a diagnosztikai teszteket, laboratóriumi
+eredményeket és értékeket, de nem kell lefordítani angolra vagy franciára. Azonban az
+összes kulcsfontosságú információ (beleértve a kulcsfontosságú diagnosztikai teszteket)
+lefordított összefoglalóját be kell vinni az ADAMS rendszerbe, elegendő információval
+ahhoz, hogy egyértelműen fel lehessen állítani a diagnózist. Nyomatékosan ajánlott, hogy
+az összefoglalót egy orvos vagy megfelelő orvosi tudással rendelkező más személy készítse
+annak érdekében, hogy megfelelően megértse és összegezni tudja az orvosi információkat.
+Az érintett doppingellenes szervezet vagy a WADA kérésére részletesebb/teljes körű
+fordításokra is szükség lehet.]
+5.6 Ha egy nemzeti doppingellenes szervezet TUE-t ad egy sportolónak, köteles írásban felhívni a
+figyelmét, hogy (a) a TUE csak országos szinten érvényes, és (b) ha a sportoló nemzetközi szintű
+sportolóvá válik, vagy nemzetközi sporteseményen versenyez, a TUE arra célra nem lesz
+érvényes, kivéve, ha az érintett nemzetközi szövetség vagy jelentős sportesemény szervezője a
+7.0 cikknek megfelelően elismeri. Ezt követően a nemzeti doppingellenes szervezet nyújtson
+segítséget a sportolóknak annak megállapításához, hogy mikor szükséges a TUE-t elismerés
+céljából egy nemzetközi szövetséghez vagy jelentős sportesemény szervezőjéhez benyújtaniuk,
+és az elismertetési folyamat során biztosítson iránymutatást és támogatást a sportolóknak.
+5.7 Mindegyik nemzetközi szövetség és jelentős sportesemény szervezője köteles (legalább a
+honlapja jól látható helyén történő megjelenítés és a WADA részére történő megküldés útján)
+közzétenni és folyamatosan aktualizálni azt az értesítést, amely egyértelműen meghatározza,
+hogy: (1) az illetékessége alá tartozó sportolók közül kik és mikor kötelesek TUE-t kérelmezni
+nála; (2) e kérelem helyett más doppingellenes szervezetek melyik TUE-döntéseit ismeri el
+automatikusan a 7.1 cikk (a) pontjának megfelelően; valamint (3) más doppingellenes
+szervezetek mely TUE-döntéseit kell a 7.1 cikk (b) pontja szerint elismertetésre benyújtani hozzá.
+5.8 Ha egy nemzeti doppingellenes szervezet TUE-t ad egy sportolónak, és a sportoló később
+nemzetközi szintű sportolóvá válik, vagy nemzetközi sporteseményen versenyez, a TUE nem
+lesz érvényes, hacsak és ameddig az érintett nemzetközi szövetség a 7.0 cikknek megfelelően
+el nem ismeri az adott TUE-t. Ha egy nemzetközi szövetség TUE-t ad egy sportolónak, és a
+sportoló ezután a jelentős sportesemény szervezője által szervezett nemzetközi sporteseményen
+versenyez, a TUE nem lesz érvényes, hacsak és ameddig az érintett jelentős sportesemény
+szervezője a 7.0 cikknek megfelelően el nem ismeri az adott TUE-t. Ennek eredményeképpen,
+ha (esettől függően) a nemzetközi szövetség vagy a jelentős sportesemény szervezője elutasítja
+az adott TUE elismerését, akkor (a sportoló felülvizsgálati és fellebbezési jogának függvényében)
+az adott nemzetközi szövetséggel vagy jelentős sportesemény szervezőjével szemben nem lehet
+az adott TUE-re hagyatkozni a TUE-ben említett tiltott anyag vagy tiltott módszer jelenlétének,
+használatának, birtoklásának vagy beadásának/alkalmazásának kimentése érdekében.
+
+6.0 TUE kérelmezési eljárás
+6.1 Annak a sportolónak, akinek TUE-re van szüksége, a lehető leghamarabb kérelmeznie kell azt.
+A kizárólag versenyidőszakon belül tiltott anyagok esetében a vészhelyzet vagy kivételes
+helyzet kivételévek a sportolónak legalább a következő versenye előtt 30 (harminc) nappal kell
+TUE-t kérnie.
+6.2 A sportolónak online vagy a megadott TUE kérelmező nyomtatvány felhasználásával kell (esettől
+függően) a saját nemzeti doppingellenes szervezetéhez, nemzetközi szövetségéhez és/vagy
+jelentős sportesemény szervezőjéhez fordulnia. A doppingellenes szervezetek kötelesek a
+honlapjukon elérhetővé tenni azt a kérelmező nyomtatványt vagy eljárást, amit a sportolókkal
+használtatni akarnak. Amennyiben nyomtatványt használnak, annak a WADA honlapján elérhető
+„TUE Application Form” [TUE kérelmező nyomtatvány] mintán kell alapulnia. A nemzeti
+doppingellenes szervezetek a mintát módosíthatják, hogy további információkat kérjenek be rajta,
+azonban abból szakaszokat vagy tételeket nem távolíthatnak el.
+[Megjegyzés a 6.2 cikkhez: Előfordulhat, hogy a sportoló bizonyos helyzetekben nem tudja,
+melyik nemzeti doppingellenes szervezettől kellene TUE-t kérelmeznie. Ilyen körülmények között
+a sportolónak azon sportszervezet országának nemzeti doppingellenes szervezetével kell
+egyeztetnie, amelyiknél versenyzik (vagy amelyiknek tagja vagy versenyengedélyese), hogy
+megállapítsa, hogy – annak szabályai szerint – az adott nemzeti doppingellenes szervezet TUE-
+illetékessége alá tartozik-e.
+Ha az adott nemzeti doppingellenes szervezet elutasítja a TUE-kérelem elbírálását, mert a
+sportoló nem tartozik a TUE-illetékessége alá, a sportolónak azon ország nemzeti doppingellenes
+szervezetének doppingellenes szabályait kell megtekintenie, amelyikben tartózkodik
+(amennyiben ez eltér).
+Ha a sportoló még mindig nem tartozik az adott nemzeti doppingellenes szervezet TUE-
+illetékessége alá, a sportolónak ekkor az állampolgársága szerinti ország nemzeti doppingellenes
+szervezetének doppingellenes szabályait kell megtekintenie (ha eltér attól, ahol versenyez vagy
+tartózkodik).
+A sportolók a fent említett nemzeti doppingellenes szervezetek bármelyikéhez fordulhatnak, hogy
+segítséget kapjanak annak megállapításához, hogy a nemzeti doppingellenes szervezetnek van-
+e TUE-illetékessége. Abban az esetben, ha a fent említett nemzeti doppingellenes szervezetek
+egyikének sincs TUE-illetékessége, amikor pozitív vizsgálati eredmény születik, a sportolónak
+szokásszerűen meg kell engedni, hogy visszamenőleges hatályú TUE-t kérelmezzen az
+eredménykezelési hatáskörrel rendelkező doppingellenes szervezettől. Lásd még a WADA
+honlapjának orvosi részében a „Where to Apply?” [Hol lehet kérelmezni?] témájáról szóló
+összefoglaló folyamatábrákat.]
+6.3 Egy sportoló nem kérelmezhet TUE-t 1-nél (egynél) több doppingellenes szervezetnél ugyanazon
+tiltott anyag vagy tiltott módszer ugyanazon orvosi kezelésre szoruló állapothoz történő
+használatára vonatkozóan. Egy sportoló úgyszintén nem rendelkezhet egyszerre 1-nél (egynél)
+több TUE-vel ugyanazon tiltott anyag vagy tiltott módszer ugyanazon orvosi kezelésre szoruló
+állapothoz történő használatára vonatkozóan (és bármely ilyen új TUE felváltja az előző TUE-t,
+amit az érintett doppingellenes szervezetnek érvénytelenítenie kell).
+6.4 A sportoló a TUE kérelmet az ADAMS útján vagy a doppingellenes szervezet által megjelölt
+egyéb módon nyújtsa be az érintett doppingellenes szervezethez.
+A kérelemhez csatolni kell az átfogó kórtörténetet, ideértve az eredetileg diagnosztizáló
+orvos(ok)tól származó dokumentációt (ahol lehetséges) és a kérelem szempontjából releváns
+összes vizsgálat, laboratóriumi vizsgálat és képalkotó vizsgálat eredményét. A kérelemnek
+tartalmaznia kell az orvos aláírását az erre kijelölt helyen.
+[Megjegyzés a 6.4 cikkhez: A diagnózissal és a kezeléssel kapcsolatban benyújtott információkra
+a WADA honlapján közzétett, releváns WADA dokumentumok az irányadók.]
+6.5 A sportoló a TUE kérelmet, valamint a doppingellenes szervezethez benyújtott összes anyag és
+információ teljes másolatát őrizze meg.
+6.6 A TUEC kizárólag a helyesen kitöltött, valamennyi vonatkozó dokumentumot mellékletként
+tartalmazó kérelem kézhezvétele után bírálja el a TUE-kérelmet. A hiányos kérelmek kiegészítés
+és ismételt benyújtás céljából visszaküldésre kerülnek a sportolóhoz.
+
+6.7 A TUEC a sportolótól vagy orvosától az általa a sportoló kérelmének elbírálásához szükségesnek
+tartott bármilyen további információt, vizsgálatokat vagy képalkotó vizsgálatokat, vagy egyéb
+információkat bekérhet; és/vagy az általa helyénvalónak ítélt egyéb orvosi vagy tudományos
+szakértők segítségét kérheti.
+6.8 A sportoló részéről a TUE-kérelem elkészítése és a TUEC által kértek szerinti kiegészítése során
+felmerült bármely költséget a sportoló visel.
+6.9 A TUEC a lehető leghamarabb és általában (azaz amennyiben kivételes körülmények nem állnak
+fenn) a hiánytalan kérelem kézhezvételétől számított legfeljebb 21 (huszonegy) napon belül dönt
+a kérelem pozitív vagy negatív elbírálásáról. Valamely sportesemény előtt észszerű idővel
+benyújtott TUE-kérelem esetén a TUEC minden tőle telhetőt köteles megtenni azért, hogy
+döntését a sportesemény kezdete előtt meghozza.
+6.10 A TUEC döntését írásban kell közölni a sportolóval, és azt az ADAMS-en keresztül a WADA és
+más doppingellenes szervezetetek számára is elérhetővé kell tenni az 5.5 cikknek megfelelően.
+6.11 Mindegyik TUE – a TUEC által meghatározott – konkrét ideig érvényes, amelynek végén a TUE
+automatikusan lejár. Ha a sportolónak a lejárat napját követően is folytatnia kell a tiltott anyag
+vagy tiltott módszer használatát, köteles e lejárati nap előtt kellő időben új TUE iránti kérelmet
+benyújtani, hogy a lejárat napja előtt elegendő idő álljon rendelkezésre a kérelemre vonatkozó
+döntéshozatalra.
+[Megjegyzés a 6.11 cikkhez: Ahol alkalmazható, az érvényesség idejével kapcsolatban a WADA
+„TUE Physician Guidelines” [TUE orvosi irányelvek] című dokumentumai legyenek irányadók.]
+6.12 Ha a sportoló nem teljesíti azonnal a TUE-t megadó doppingellenes szervezet által kirótt bármely
+követelményt vagy feltételt, a TUE a lejárat előtt visszavonásra kerül. Egyébiránt a TUE a WADA
+felülvizsgálata vagy fellebbezés nyomán is megsemmisíthető.
+6.13 Amennyiben a szóban forgó tiltott anyagra vonatkozó TUE lejáratát, visszavonását vagy
+megsemmisítését követően nem sokkal pozitív vizsgálati eredmény születik, a pozitív vizsgálati
+eredmény első felülvizsgálatát lebonyolító doppingellenes szervezetnek – az Eredménykezelésre
+vonatkozó nemzetközi szabvány 5.1.1.1 cikkének megfelelően – mérlegelnie kell, hogy az
+eredmény összhangban áll-e a tiltott anyagnak a TUE lejáratát, visszavonását vagy
+megsemmisítését megelőzően történt használatával. Amennyiben igen, az ilyen használat (és a
+tiltott anyag ebből fakadó bármely jelenléte a sportoló mintájában) nem doppingvétség.
+6.14 Abban az esetben, ha a TUE megadását követően a sportolónak a TUE-ben meghatározottól
+lényegesen eltérő adagolással, gyakorisággal, alkalmazási módon vagy időtartamban van
+szüksége a tiltott anyagra vagy tiltott módszerre, fel kell vennie a kapcsolatot az érintett
+doppingellenes szervezettel, amely ekkor eldönti, hogy a sportolónak új TUE-t kell-e kérelmeznie.
+Ha a tiltott anyag vagy tiltott módszer jelenléte, használata, birtoklása vagy beadása/alkalmazása
+nincs összhangban a megadott TUE feltételeivel, az a tény, hogy a sportoló rendelkezik a TUE-
+vel, nem zárja ki a doppingvétség megállapítását.
+[Megjegyzés a 6.14 cikkhez: Ismeretes, hogy bizonyos orvosi kezelésre szoruló állapotok
+esetében az adagolás ingadozhat, különösen a kezelés beállításának korai fázisai alatt, illetve
+olyan betegségeknél, mint az inzulin-dependens cukorbetegség. Az ilyen esetleges ingadozások
+a TUE-ben tekintetbe veendők. Azonban olyan változás esetén, amit a TUE nem vesz tekintetbe,
+a sportolónak kapcsolatba kell lépnie az érintett doppingellenes szervezettel annak megállapítása
+érdekében, hogy szükség van-e új TUE-re.]
+7.0 TUE elismerési eljárás
+7.1 A Szabályzat 4.4 cikke előírja a doppingellenes szervezeteknek más doppingellenes szervezetek
+által megadott, a 4.2 cikk feltételeinek megfelelő TUE-k elismerését. Ennélfogva, ha egy
+nemzetközi szövetség vagy jelentős sportesemény szervezője TUE-követelményeinek hatálya
+alá kerülő sportoló már rendelkezik TUE-vel, nem kell új TUE iránti kérelmet benyújtania a
+nemzetközi szövetséghez vagy a jelentős sportesemény szervezőjéhez. Ehelyett:
+a) A nemzetközi szövetség vagy a jelentős sportesemény szervezője kihirdetheti, hogy a
+Szabályzat 4.4 cikke szerint elfogadott TUE-döntéseket (vagy az ilyen döntések bizonyos
+kategóriáit, pl. a meghatározott doppingellenes szervezetek által vagy konkrét tiltott
+anyagokkal kapcsolatban hozottakat) automatikusan elismeri, feltéve, hogy az ilyen TUE-
+döntéseket az 5.5 cikknek megfelelően bejelentették. Ha TUE-je a TUE-k azon kategóriájába
+
+esik, amiket ily módon automatikusan elismernek a TUE megadása időpontjában, a
+sportolónak nem kell semmilyen további lépést tennie. A TUE automatikus elismerését
+követően, nem képezheti további felülvizsgálat tárgyát a doppingellenes szervezet által.
+[Megjegyzés a 7.1 cikk (a) pontjához: A TUE-döntések automatikus elismerése könnyít a
+sportolók terhein. Mindazonáltal a nemzetközi szövetségeknek és a jelentős
+sportesemények szervezőinek gondosan kell kiválasztaniuk azon doppingellenes
+szervezeteket és/vagy anyagokat, amelyekre vonatkozó döntéseket automatikusan
+elismernek. Ha valamely nemzetközi szövetség vagy jelentős sportesemény szervezője
+hajlandó TUE döntést automatikusan elismerni, akkor a honlapján tegye közzé és
+folyamatosan aktualizálja az olyan doppingellenes szervezetek listáját, amelyek TUE-
+döntéseit automatikusan elismeri, és/vagy azon tiltott anyagok listáját, amelyekre
+vonatkozóan automatikusan elismeri a TUE-döntéseket.
+b) Ilyen automatikus elismerés hiányában a sportolónak kell a megadott TUE elismerésére
+irányuló kérelmet benyújtani a szóban forgó nemzetközi szövetséghez vagy jelentős
+sportesemény szervezőjéhez az ADAMS útján, vagy az adott nemzetközi szövetség vagy
+jelentős sportesemény szervezője által meghatározott más módon.
+[Megjegyzés a 7.1 cikk (b) pontjához: Az elismerés kizárólag a 4.2 cikkben foglalt feltételek
+teljesítésén alapulhat. Ezzel összhangbana TUE időtartama önmagában nem lehet oka az
+elismerés megtagadásának (kivéve, ha az a 4.2 cikkben foglalt feltételek teljesítéséhez
+kapcsolódik). Ahol alkalmazható, a TUE időtartamát a WADA „TUE Physician Guidelines”
+[TUE orvosi
+irányelvek] alapján kell meghatározni.]
+7.2 A TUE elismertetésére irányuló hiányos kérelmek kiegészítés és ismételt benyújtás céljából
+visszaküldésre kerülnek a sportolóhoz. Emellett a TUEC a sportolótól vagy orvosától az általa a
+sportoló TUE elismerésére irányuló kérelme elbírálásához szükségesnek tartott bármilyen
+további információt, vizsgálatokat vagy képalkotó vizsgálatokat, vagy egyéb információkat
+bekérhet; és/vagy az általa helyénvalónak ítélt egyéb orvosi vagy tudományos szakértők
+segítségét kérheti.
+7.3 A sportoló részéről a TUE elismerésére irányuló kérelem elkészítése és a TUEC által kértek
+szerinti kiegészítése során felmerült bármely költséget a sportoló visel.
+7.4 A TUEC a lehető leghamarabb és általában (azaz amennyiben kivételes körülmények nem állnak
+fenn) a hiánytalan elismerési kérelem kézhezvételétől számított legfeljebb 21 (huszonegy) napon
+belül dönt a TUE elismeréséről vagy elutasításáról. Valamely sportesemény előtt észszerű idővel
+benyújtott kérelem esetén a TUEC minden tőle telhetőt köteles megtenni azért, hogy döntését a
+sportesemény kezdete előtt meghozza.
+7.5 A TUEC döntéséről írásban értesítik a sportolót, és azt az ADAMS-en keresztül a WADA és más
+doppingellenes szervezetetek számára is elérhetővé teszik. A TUE elismerését elutasító
+döntésnek tartalmaznia kell az elismerés elutasításának indokolását.
+7.6 Ha egy nemzetközi szövetség úgy dönt, hogy olyan sportolót tesztel, aki nem nemzetközi szintű
+sportoló, el kell ismernie az adott sportoló nemzeti doppingellenes szervezete által adott TUE-t,
+hacsak a sportolónak kérelmeznie nem kell a TUE elismerését az 5.8 és 7.0 cikkek értelmében,
+vagyis azért, mert a sportoló nemzetközi sporteseményen versenyez.
+8.0 A TUE-döntések WADA általi felülvizsgálata
+8.1 A Szabályzat 4.4.6 cikke úgy rendelkezik, hogy a WADA bizonyos esetekben köteles a
+nemzetközi szövetségek TUE-döntéseit felülvizsgálni, továbbá hogy bármely más TUE-döntést
+felülvizsgálhat, minden esetben a 4.1 és 4.2 cikkek szerinti feltételeknek való megfelelés
+megállapítása érdekében. A 4.2 cikk szerinti feltételekkel kapcsolatban a WADA-nak az ilyen
+felülvizsgálatok elvégzésére az 5.3 cikk követelményeinek megfelelő WADA TUEC-et kell
+létrehoznia. Ami a 4.1 cikk szerinti feltételeket illeti, azokat felülvizsgálhatja a WADA (ami – saját
+belátása szerint – konzultálhat a WADA TUEC tagjával (tagjaival)).
+8.2 Minden egyes felülvizsgálati kérelmet írásban kell a WADA elé terjeszteni, és ahhoz mellékelni
+kell a WADA által megállapított kérelmezési díj befizetésének igazolását, valamint a 6.4 cikkben
+meghatározott valamennyi információ (vagy, TUE elutasításának felülvizsgálata esetén, a
+sportoló által az eredeti TUE-kérelemmel összefüggésben benyújtott valamennyi információ)
+
+másolatait. A kérelmet másolatban meg kell küldeni annak a doppingellenes szervezetnek is,
+amelynek döntése a felülvizsgálat tárgyát képezné, továbbá a sportolónak (amennyiben a
+felülvizsgálatot nem ők kérik).
+8.3 Ahol a kérelem olyan TUE-döntés felülvizsgálatára vonatkozik, amelyet a WADA nem köteles
+felülvizsgálni, a WADA-nak tájékoztatnia kell a sportolót arról, amint a kérelem kézhezvételét
+követően megvalósítható, hogy a TUE-döntést felülvizsgálja, vagy nem. Végleges a WADA
+bármely olyan döntése, miszerint a TUE-döntést nem vizsgálja felül, és ellene fellebbezésnek
+helye nincs. Ugyanakkor a TUE-döntés ellen még lehet helye fellebbezésnek a Szabályzat 4.4.7
+cikkében meghatározottak szerint.
+8.4 Abban az esetben, ha a kérelem egy nemzetközi szövetség által hozott olyan TUE-döntés
+felülvizsgálatára irányul, amit a WADA köteles felülvizsgálni, a WADA ettől függetlenül a döntést
+visszaküldheti a nemzetközi szövetséghez (a) tisztázás érdekében (például, ha az indoklás nincs
+egyértelműen kifejtve a döntésben); és/vagy (b) a nemzetközi szövetség általi újbóli elbírálásra
+(például, ha a TUE-t csak azért tagadták meg, mert hiányoztak a 4.2 cikk szerinti feltételek
+teljesülésének igazolásához szükséges orvosi vizsgálatok vagy egyéb információk).
+[Megjegyzés a 8.4 cikkhez: Ha egy nemzetközi szövetség csak azért utasítja el egy nemzeti
+doppingellenes szervezet által megadott TUE elismerését, mert hiányoznak a 4.2 cikk szerinti
+feltételek teljesülésének igazolásához szükséges orvosi vizsgálatok vagy egyéb információk, az
+ügyet nem kell a WADA elé terjeszteni. Ehelyett az akta kerüljön kiegészítésre és ismételt
+benyújtásra a nemzetközi szövetséghez.]
+8.5 Ha egy felülvizsgálati kérelmet a WADA TUEC elé terjesztenek, a WADA TUEC további
+információt kérhet a doppingellenes szervezettől és/vagy a sportolótól, ideértve a 6.7 cikkben
+leírtak szerinti további vizsgálatokat, és/vagy az általa helyénvalónak ítélt egyéb orvosi vagy
+tudományos szakértők segítségét veheti igénybe.
+8.6 A WADA-nak bármely olyan TUE megadását meg kell semmisítenie, amely nem felel meg (esettől
+függően) a 4.1 és 4.2 cikkben szereplő feltételeknek. Ahol a megsemmisített TUE a jövőre
+vonatkozó volt (nem pedig visszamenőleges hatályú TUE), az ilyen megsemmisítés a WADA által
+meghatározott napon lép hatályba (ami nem lehet korábbi, mint a WADA részéről a sportolónak
+küldött értesítés dátuma). A megsemmisítés nem alkalmazható visszamenőleges hatállyal, és a
+sportolónak az ilyen értesítést megelőzően elért eredményeit nem lehet érvényteleníteni. Ha
+azonban a megsemmisített TUE visszamenőleges hatályú TUE volt, annak megsemmisítése is
+visszamenőleges hatályú.
+8.7 A WADA-nak a TUE bármilyen megtagadását meg kell semmisítenie, ha a kérelem megfelel
+(esettől függően) a 4.1 és a 4.2 cikk feltételeinek, azaz meg kell adnia a TUE-t.
+8.8 Amikor a WADA a Szabályzat 4.4.3 cikkéből fakadóan (azaz kötelező felülvizsgálatra) eléje
+terjesztett nemzetközi szövetségi döntést vizsgál felül, előírhatja, hogy a felülvizsgálatban
+„vesztes” doppingellenes szervezet (vagyis azon doppingellenes szervezet, amelynek
+álláspontját nem fogadja el) (a) köteles (adott esetben) a döntést a WADA elé terjesztő fél
+kérelmezési díját megtéríteni; és/vagy (b) köteles a WADA-nál a felülvizsgálat tekintetében
+felmerült, a kérelmezési díj által nem fedezett költségeket megfizetni.
+8.9 Ha a WADA olyan TUE-döntést semmisít meg, amit a WADA saját hatáskörben vont felülvizsgálat
+alá, a WADA előírhatja a döntést meghozó doppingellenes szervezetnek, hogy fizesse meg a
+WADA-nál az adott felülvizsgálat során felmerült költségeket.
+8.10 Adott esetben a WADA a WADA TUEC indokolást is tartalmazó döntését azonnal köteles
+közölni a sportolóval, valamint nemzeti doppingellenes szervezetével és nemzetközi
+szövetségével (továbbá, adott esetben, még a jelentős sportesemény szervezőjével is).
+9.0 Az információk bizalmas jellege
+9.1 A doppingellenes szervezetek által lefolytatott TUE-eljárások során a személyes információk
+kezelésének meg kell felelnie A magánélet és a személyes információk védelmére vonatkozó
+nemzetközi szabványnak. A doppingellenes szervezeteknek gondoskodniuk kell arról, hogy az
+ilyen kezeléshez érvényes jogkörrel vagy jogalappal rendelkezzenek A magánélet és a
+személyes információk védelmére vonatkozó nemzetközi szabvány és az alkalmazandó
+törvények szerint.
+
+9.2 Egy sportolónak a TUE megadására vagy elismerésére vonatkozó kérelmével kapcsolatban a
+doppingellenes szervezeteknek A magánélet és a személyes információk védelmére vonatkozó
+nemzetközi szabvány 7.1 cikke szerint írásban kell közölniük a sportolókkal a következő
+információkat, valamint bármely más releváns információt:
+a) A kérelemmel kapcsolatos valamennyi információ továbbításra kerül a jelen nemzetközi
+szabvány szerint az akta felülvizsgálatára hatáskörrel rendelkező összes TUEC tagjaihoz,
+és – szükség szerint – más független orvosi vagy tudományos szakértőkhöz, valamint a
+TUE-kérelmek kezelésében, felülvizsgálatában vagy fellebbezésében érintett valamennyi
+szükséges munkatárshoz (köztük a WADA személyzetéhez);
+b) A sportolónak fel kell hatalmaznia orvosát (orvosait) arra, hogy kérésre bármely érintett
+TUEC részére kiadhasson (kiadhassanak) bármely ilyen TUEC által a sportoló kérelmének
+mérlegelése és elbírálása érdekében szükségesnek tartott bármilyen egészségügyi
+információt; és
+c) A kérelemről hozott döntést a sportoló felett tesztelési hatáskörrel és/vagy eredménykezelési
+hatáskörrel rendelkező valamennyi doppingellenes szervezet rendelkezésére bocsátják.
+[Megjegyzés a 9.2 cikkhez: Ahol a doppingellenes szervezetek a személyes információknak
+a TUE-folyamattal kapcsolatban történő kezelésébe a sportoló részéről adott beleegyezésre
+támaszkodnak, a TUE megadását vagy elismerését kérelmező sportolónak írásos és
+kifejezett beleegyezését kell adnia az előzőekhez.]
+9.3 A TUE-kérelemmel a szigorú orvosi titoktartás alapelveinek megfelelően kell foglalkozni. Az
+összes érintett TUEC tagjainak, bármely szakvéleményező független szakértőnek és a
+doppingellenes szervezet érintett személyzetének a folyamattal kapcsolatos minden
+tevékenységüket szigorú titoktartás mellett kell folytatniuk, és megfelelő titoktartási
+megállapodást kell aláírniuk. Különösen a következő információkat kell titokban tartaniuk:
+a) A sportoló, valamint a sportoló ápolásában érintett orvos(ok) által átadott valamennyi orvosi
+információ; és
+b) A kérelem valamennyi részlete, beleértve a folyamatban érintett orvos(ok) nevét (neveit) is.
+9.4 Amennyiben a sportoló meg kívánja vonni egy TUEC-től azt a jogot, hogy a nevében bármely
+egészségügyi információt szerezzen be, a sportoló köteles az ilyen jogmegvonásról orvosát
+írásban értesíteni; azzal a feltétellel, hogy e jogmegvonás eredményeképpen a sportoló TUE-re
+vagy egy meglévő TUE elismertetésére irányuló kérelme a jóváhagyás/elismerés megadása
+nélkül visszavontnak minősül.
+9.5 A doppingellenes szervezetek egy sportoló által egy TUE-kérelemmel kapcsolatban benyújtott
+információkat csak a kérelem elbírálására, valamint az esetleges doppingvétségek vizsgálatával
+és az ezzel kapcsolatos eljárásokkal összefüggésben használhatják fel.”
+
+4. melléklet a …/2022. (… …) Korm. rendelethez
+„Annex II – International Standard for Therapeutic Use Exemptions
+Paris, 1 January 2023
+PART ONE: INTRODUCTION, CODE PROVISIONS, INTERNATIONAL
+STANDARD
+PROVISIONS AND DEFINITIONS
+1.0 Introduction and Scope
+The International Standard for Therapeutic Use Exemptions is a mandatory International Standard developed as
+part of the World Anti-Doping Program.
+The purpose of the International Standard for Therapeutic Use Exemptions is to establish (a) the conditions that
+must be satisfied in order for a Therapeutic Use Exemption (or TUE) to be granted, permitting the presence of a
+Prohibited Substance in an Athlete’s Sample or the Athlete’s Use or Attempted Use, Possession and/or
+Administration or Attempted Administration of a Prohibited Substance or Prohibited Method for Therapeutic
+reasons; (b) the responsibilities imposed on Anti- Doping Organizations in making and communicating TUE
+decisions; (c) the process for an Athlete to apply for a TUE; (d) the process for an Athlete to get a TUE granted by
+one Anti-Doping Organization recognized by another Anti-Doping Organization; (e) the process for WADA to review
+TUE decisions; and (f) the strict confidentiality provisions that apply to the TUEprocess.
+Terms used in this International Standard that are defined terms fromthe Code are italicized. Terms that are defined
+in this or another International Standard are underlined.
+2.0 Code Provisions
+The following articles in the 2021 Code are directly relevant to the International Standard for Therapeutic Use
+Exemptions; they can be obtained by referring to the Code itself:
+• Code Article 4.4 Therapeutic Use Exemptions ("TUEs")
+• Code Article 13.4 Appeals Relating to TUEs
+3.0 Definitions and Interpretation
+3.1 Defined terms from the 2021 Code that are used in the International Standard for Therapeutic Use
+Exemptions
+ADAMS: The Anti-Doping Administration and Management System is a Web-based database management tool for
+data entry, storage, sharing, and reporting designed to assist stakeholders and WADA in their anti-doping operations
+in conjunction with data protection legislation.
+Administration: Providing, supplying, supervising, facilitating, or otherwise participating in the Use or Attempted
+Use by another Person of a Prohibited Substance or Prohibited Method. However, this definition shall not include
+the actions of bona fide medical personnel involving a Prohibited Substance or Prohibited Method Used for genuine
+and legal therapeutic purposes or other acceptable justification and shall not include actions involving Prohibited
+Substances which are not prohibited in Out-of-Competition Testing unless the circumstances as a whole
+demonstrate that such Prohibited Substances are not intended for genuine and legal therapeutic purposes or are
+intended to enhance sport performance.
+Adverse Analytical Finding: A report from a WADA-accredited laboratory or other WADA- approved laboratory
+that, consistent with the International Standard for Laboratories, establishes in a Sample the presence of a
+Prohibited Substance or its Metabolites or Markers or evidence of the Use of a ProhibitedMethod.
+Anti-Doping Organization: WADA or a Signatory that is responsible for adopting rules for initiating, implementing
+or enforcing any part of the Doping Control process. This includes, for example, the International Olympic
+Committee, the International Paralympic Committee, other Major Event Organizations that conduct Testing at their
+Events, International Federations, and National Anti-Doping Organizations.
+Athlete: Any Person who competes in sport at the international level (as defined by each International Federation)
+or the national level (as defined by each National Anti-Doping Organization). An Anti-Doping Organization has
+discretion to apply anti-doping rules to an Athlete who is neither an International-Level Athlete nor a National-
+Level Athlete, and thus to bring them within the definition of “Athlete”. In relation to Athletes who are neither
+International-Level nor National-Level Athletes, an Anti-Doping Organization may elect to: conduct limited Testing
+or no Testing at all; analyze Samples for less than the full menu of Prohibited Substances; require limited or no
+whereabouts information; or not require advance TUEs. However, if an Article 2.1, 2.3 or 2.5 anti-doping rule
+violation is committed by any Athlete over whom an Anti-Doping Organization has elected to exercise its authority
+to test and who competes below the international or national level, then the Consequences set forth in the Code
+must be applied. For purposes of Article 2.8 and Article 2.9 and for purposes of anti-doping information and
+4. melléklet az 542/2022. (XII. 22.) Korm. rendelethez
+
+Education, any Person who participates in sport under the authority of any Signatory, government, or other sports
+organization accepting the Code is an Athlete.
+[Comment to Athlete: Individuals who participate in sport may fall in one of five categories:
+1) International-Level Athlete, 2) National-Level Athlete, 3) individuals who are not International or National-Level
+Athletes but over whom the International Federation or National Anti-Doping Organization has chosen to exercise
+authority, 4) Recreational Athlete, and 5) individuals over whom no International Federation or National Anti-Doping
+Organization has, or has chosen to, exercise authority. All International and National-Level Athletes are subject to
+the anti-doping rules of the Code, with the precise definitions of international and national level sport to be set forth
+in the anti-doping rules of the International Federations and National Anti-Doping Organizations.]
+Attempt: Purposely engaging in conduct that constitutes a substantial step in a course of conduct planned to
+culminate in the commission of an anti-doping rule violation. Provided, however, there shall be no anti-doping rule
+violation based solely on an Attempt to commit a violation if the Person renounces the Attempt prior to it being
+discovered by a third party not involved in the Attempt.
+CAS: The Court of Arbitration for Sport.
+Code: The World Anti-Doping Code.
+Competition: A single race, match, game or singular sport contest. For example, a basketball game or the finals
+of the Olympic 100-meter race in athletics. For stage races and other sport contests where prizes are awarded on
+a daily or other interim basis the distinction between a Competition and an Event will be as provided in the rules of
+the applicable International Federation.
+Education: The process of learning to instill values and develop behaviors that foster and protect the spirit of sport,
+and to prevent intentional and unintentional doping.
+Event: A series of individual Competitions conducted together under one ruling body (e.g., the Olympic Games,
+World Championships of an International Federation, or Pan American Games).
+In-Competition: The period commencing at 11:59 p.m. on the day before a Competition in which the Athlete is
+scheduled to participate through the end of such Competition and the Sample collection process related to such
+Competition. Provided, however, WADA may approve, for a particular sport, an alternative definition if an
+International Federation provides a compelling justification that a different definition is necessary for its sport; upon
+such approval by WADA, the alternative definition shall be followed by all Major Event Organizations for that
+particular sport.
+[Comment to In-Competition: Having a universally accepted definition for In-Competition provides
+greater harmonization among Athletes across all sports, eliminates or reduces confusion among
+Athletes about the relevant timeframe for In-Competition Testing, avoids inadvertent Adverse
+Analytical Findings in between Competitions during an Event and assists in preventing any
+potential performance enhancement benefits from substances prohibited Out-of-Competition
+being carried over to the Competition period.]
+International Event: An Event or Competition where the International Olympic Committee, the International
+Paralympic Committee, an International Federation, a Major Event Organization, or another international sport
+organization is the ruling body for the Event or appoints the technical officials for the Event.
+International-Level Athlete: Athletes who compete in sport at the international level, as defined by each
+International Federation, consistent with the International Standard for Testing and Investigations.
+[Comment to International-Level Athlete: Consistent with the International Standard for Testing and Investigations,
+the International Federation is free to determine the criteria it will use to classify Athletes as International-Level
+Athletes, e.g., by ranking, by participation in particular International Events, by type of license, etc. However, it must
+publish those criteria in clear and concise form, so that Athletes are able to ascertain quickly and easily when they
+will become classified as International-Level Athletes. For example, if the criteria include participation in certain
+International Events, then the International Federation must publish a list of those International Events.]
+International Standard: A standard adopted by WADA in support of the Code. Compliance with an International
+Standard (as opposed to another alternative standard, practice or procedure) shall be sufficient to conclude that
+the procedures addressed by the International Standard were performed properly. International Standards shall
+include any Technical Documents issued pursuant to the International Standard.
+Major Event Organizations: The continental associations of National Olympic Committees and other international
+multi-sport organizations that function as the ruling body for any continental, regional or other International Event.
+National Anti-Doping Organization: The entity(ies) designated by each country as possessing the primary
+authority and responsibility to adopt and implement anti-doping rules, direct the collection of Samples, manage test
+results and conduct Results Management at the national level. If this designation has not been made by the
+competent public authority(ies), the entity shall be the country’s National Olympic Committee or itsdesignee.
+National-Level Athlete: Athletes who compete in sport at the national level, as defined by each National Anti-
+Doping Organization, consistent with the International Standard for Testing and Investigations.
+Out-of-Competition: Any period which is not In-Competition.
+Possession: The actual, physical Possession, or the constructive Possession (which shall be found only if the
+Person has exclusive control or intends to exercise control over the Prohibited Substance or Prohibited Method
+or the premises in which a Prohibited Substance or Prohibited Method exists); provided, however, that if the
+Person does not have exclusive control over the Prohibited Substance or Prohibited Method or the premises in
+which a Prohibited Substance or Prohibited Method exists, constructive Possession shall only be found if the Person
+knew about the presence of the Prohibited Substance or Prohibited Method and intended to exercise control over
+
+it. Provided, however, there shall be no anti- doping rule violation based solely on Possession if, prior to receiving
+notification of any kind that the Person has committed an anti-doping rule violation, the Person has taken concrete
+action demonstrating that the Person never intended to have Possession and has renounced Possession by
+explicitly declaring it to an Anti-Doping Organization. Notwithstanding anything to the contrary in this definition,
+the purchase (including by any electronic or other means) of a Prohibited Substance or Prohibited Method
+constitutes Possession by the Person who makes the purchase.
+[Comment to Possession: Under this definition, anabolic steroids found in an Athlete's car would
+constitute a violation unless the Athlete establishes that someone else used the car; in that event,
+the Anti-Doping Organization must establish that, even though the Athlete did not have exclusive
+control over the car, the Athlete knew about the anabolic steroids and intended to have control
+over them. Similarly, in the example of anabolic steroids found in a home medicine cabinet under
+the joint control of an Athlete and spouse, the Anti-Doping Organization must establish that the
+Athlete knew the steroids were in the cabinet and that the Athlete intended to exercise control
+over them. The act of purchasing a Prohibited Substance alone constitutes Possession, even
+where, for example, the product does not arrive, is received by someone else, or is sent to a third-
+party address.]
+Prohibited List: The list identifying the Prohibited Substances and Prohibited Methods.
+Prohibited Method: Any method so described on the Prohibited List.
+Prohibited Substance: Any substance, or class of substances, so described on the Prohibited List.
+Recreational Athlete: A natural Person who is so defined by the relevant National Anti- Doping Organization;
+provided, however, the term shall not include any Person who, within the five (5) years prior to committing any anti-
+doping rule violation, has been an International- Level Athlete (as defined by each International Federation
+consistent with the International Standard for Testing and Investigations) or National-Level Athlete (as defined by
+each National Anti-Doping Organization consistent with the International Standard for Testing and Investigations),
+has represented any country in an International Event in an open category or has been included within any
+Registered Testing Pool or other whereabouts information pool maintained by any International Federation or
+National Anti-DopingOrganization.
+[Comment to Recreational Athlete: The term “open category” ismeant to exclude competition that
+is limited to junior or age group categories.]
+Results Management: The process encompassing the timeframe between notification as per Article 5 of the
+International Standard for Results Management, or in certain cases (e.g., Atypical Finding, Athlete Biological
+Passport, Whereabouts Failure), such pre-notification steps expressly provided for in Article 5 of the International
+Standard for Results Management, through the charge until the final resolution of the matter, including the end of
+the hearing process at first instance or on appeal (if an appeal was lodged).
+Sample or Specimen: Any biological material collected for the purposes of Doping Control. [Comment to Sample
+or Specimen: It has sometimes been claimed that the collection of blood Samples violates the tenets of certain
+religious or cultural groups. It has been determined that there is no basis for any such claim.]
+Testing: The parts of the Doping Control process involving test distribution planning, Sample collection, Sample
+handling, and Sample transport to the laboratory.
+Therapeutic Use Exemption (TUE): A Therapeutic Use Exemption allows an Athlete with a medical condition to
+use a Prohibited Substance or Prohibited Method, but only if the conditions set out in Article 4.4 and the International
+Standard for Therapeutic Use Exemptions are met.
+Use: The utilization, application, ingestion, injection or consumption by any means whatsoever of any Prohibited
+Substance or Prohibited Method.
+WADA: The World Anti-Doping Agency.
+3.2 Defined terms from the International Standard for the Protection of Privacy and Personal Information
+Personal Information: Information, including without limitation Sensitive Personal Information, relating to an
+identified or identifiable Participant or other Person whose information is Processed solely in the context of an Anti-
+Doping Organization’s Anti-Doping Activities.
+[Comment to Personal Information: It is understood that Personal Information includes, but is not
+limited to, information relating to an Athlete’s name, date of birth, contact details and sporting
+affiliations, whereabouts, designated TUEs (if any), anti-doping test results, and Results
+Management (including disciplinary hearings, appeals and sanctions). Personal Information also
+includes personal details and contact information relating to other Persons, such as medical
+professionals and other Persons working with, treating or assisting an Athlete in the context of
+Anti-Doping Activities. Such information remains Personal Information and is regulated by this
+International Standard for the entire duration of its Processing, irrespective of whether the relevant
+individual remains involved in organized sport.]
+Processing (and its cognates, Process and Processed): Collecting, accessing, retaining, storing,
+disclosing, transferring, transmitting, amending, deleting or otherwise making useof Personal
+Information.
+
+3.3 Defined terms specific to the International Standard for Therapeutic UseExemptions
+Therapeutic: Of or relating to the treatment of a medical condition by remedial agents or methods; or providing or
+assisting in a cure.
+Therapeutic Use Exemption Committee (or "TUEC"): The panel established by an Anti- Doping Organization to
+consider applications for TUEs.
+WADA TUEC: The panel established by WADA to review the TUE decisions of other Anti- Doping Organizations.
+3.4 Interpretation
+3.4.1 The official text of the International Standard for Therapeutic Use Exemptions shall be published in English
+and French. In the event of any conflict between the English and French versions, the English version shall prevail.
+3.4.2 Like the Code, the International Standard for Therapeutic Use Exemptions has been drafted giving
+consideration to the principles of proportionality, human rights, and other applicable legal principles. It shall be
+interpreted and applied in that light.
+3.4.3 The comments annotating various provisions of the International Standard for Therapeutic Use Exemptions
+shall be used to guide its interpretation.
+3.4.4 Unless otherwise specified, references to Sections and Articles are references to Sections and Articles of the
+International Standard for Therapeutic Use Exemptions.
+3.4.5 Where the term “days” is used in the International Standard for Therapeutic Use Exemptions, it shall mean
+calendar days unless otherwise specified.
+3.4.6 The Annexes to the International Standard for Therapeutic Use Exemptions have the same mandatory status
+as the rest of the International Standard.
+PART TWO: STANDARDS AND PROCESS FOR GRANTING
+TUES
+4.0 Obtaining a TUE
+An Athlete who needs to Use a Prohibited Substance or Prohibited Method for Therapeutic
+reasons must apply for and obtain a TUE prior to Using or Possessing the substance or method
+in question, unless the Athlete is entitled to apply for a TUE retroactively under Article 4.1. In both
+cases, the Article 4.2 conditions must be satisfied .
+[Comment to Article 4.0: There may be situations where an Athlete has a medical condition and
+is Using or Possessing a Prohibited Substance or Prohibited Method prior to becoming subject
+to anti-doping rules. In that case, such prior Use/Possession does not require a TUE and a
+prospective TUE will be sufficient.]
+4.1 A retroactive TUE provides an Athlete the opportunity to apply for a TUE for a Prohibited
+Substance or Prohibited Method after Using or Possessing the substance or method in question.
+An Athlete may apply retroactively for a TUE (but must still meet the conditions in Article 4.2) if
+any one of the following exceptions applies:
+a) Emergency or urgent treatment of a medical condition was necessary;
+b) There was insufficient time, opportunity or other exceptional circumstances that prevented
+the Athlete from submitting (or the TUEC to consider) an application for the TUE prior to
+Sample collection;
+c) Due to national level prioritization of certain sports or disciplines, the
+Athlete’s National Anti-Doping Organization did not permit or require the Athlete to apply for
+a prospective TUE (see comment to Article 5.1);
+d) If an Anti-Doping Organization chooses to collect a Sample from an Athlete who is not an
+International-Level Athlete or National-Level Athlete, and that Athlete is Using a Prohibited
+Substance or Prohibited Method for Therapeutic reasons, the Anti-Doping Organization
+must permit the Athlete to apply for a retroactive TUE; or
+
+e) The Athlete Used Out-of-Competition, for Therapeutic reasons, a Prohibited Substance that
+is only prohibited In-Competition.
+[Comment to Article 4.1: The fulfillment of one of the retroactive exceptions does not mean
+that a TUE will necessarily be granted; it means that the Athlete’s application may be
+evaluated under Article 4.2 to determine if the specified TUE conditions have been
+satisfied.]
+[Comment to Article 4.1(c), (d) and (e): Such Athletes are strongly advised to have a medical
+file prepared and ready to demonstrate their satisfaction of the TUE conditions set out at
+Article 4.2, in case an application for a retroactive TUE is necessary following Sample
+collection.]
+[Comment to Article 4.1(e): This seeks to address situations where, for Therapeutic reasons,
+an Athlete Uses a substance Out-of-Competition that is only prohibited In-Competition, but
+there is a risk that the substance will remain in their system In-Competition. In such
+situations, the Anti-Doping Organization must permit the Athlete to apply for a retroactive
+TUE (where the Athlete has not applied in advance). This also seeks to prevent Anti-Doping
+Organizations from having to assess advance TUE applications that may not be necessary.]
+4.2 An Athlete may be granted a TUE if (and only if) they can show, on the balance of probabilities,
+that each of the following conditions is met:
+a) The Prohibited Substance or Prohibited Method in question is needed to treat a diagnosed
+medical condition supported by relevant clinical evidence.
+[Comment to Article 4.2(a): The Use of the Prohibited Substance or prohibited Method may
+be part of a necessary diagnostic investigation rather than a treatment per se.]
+b) The Therapeutic Use of the Prohibited Substance or Prohibited Method will not, on the
+balance of probabilities, produce any additional enhancement of performance beyond what
+might be anticipated by a return to the Athlete’s normal state of health following the treatment
+of the medical condition.
+[Comment to Article 4.2(b): An Athlete’s normal state of health will need to be determined
+on an individual basis. A normal state of health for a specific Athlete is their state of health
+but for the medical condition for which the Athlete is seeking a TUE.]
+c) The Prohibited Substance or Prohibited Method is an indicated treatment for the medical
+condition, and there is no reasonable permitted Therapeutic alternative.
+[Comment to Article 4.2(c): The physician must explain why the treatment chosen was the
+most appropriate, e.g. based on experience, side-effect profiles or other medical
+justifications, including, where applicable, geographically specific medical practice, and the
+ability to access the medication. Further, it is not always necessary to try and fail alternatives
+before using the Prohibited Substance or Prohibited Method.]
+d) The necessity for the Use of the Prohibited Substance or Prohibited Method is not a
+consequence, wholly or in part, of the prior Use (without a TUE) of a substance or method
+which was prohibited at the time of such Use.
+[Comment to Article 4.2: The WADA documents titled “TUE Physician Guidelines”, posted
+on WADA’s website, should be used to assist in the application of these criteria in relation
+to particular medical conditions.
+The granting of a TUE is based solely on consideration of the conditions set out in Article
+4.2. It does not consider whether the Prohibited Substance or Prohibited Method is the most
+clinically appropriate or safe, or whether its Use is legal in all jurisdictions.
+When an International Federation or Major Event Organization TUEC is deciding whether or
+not to recognize a TUE granted by another Anti-Doping Organization (see Article 7), and
+when WADA is reviewing a decision to grant (or not to grant) a TUE (see Article 8), the issue
+will be the same as it is for a TUEC that is considering an application for a TUE under Article
+6, i.e., has the Athlete demonstrated on the balance of probabilities that each of the
+conditions set out in Article 4.2 is met?]
+
+4.3 In exceptional circumstances and notwithstanding any other provision in this International
+Standard for Therapeutic Use Exemptions, an Athlete may apply for and be granted retroactive
+approval for their Therapeutic Use of a Prohibited Substance or Prohibited Method if, considering
+the purpose of the Code, it would be manifestly unfair not to grant a retroactive TUE. For
+International-Level Athletes and National-Level Athletes, an Anti-Doping Organization may grant an
+Athlete’s application for a retroactive TUE pursuant to this Article only with the prior approval of
+WADA (and WADA may in its absolute discretion agree with or reject the Anti-Doping
+Organization’s decision).
+For Athletes who are not International-Level Athletes or National-Level Athletes, the relevant Anti-
+Doping Organization may grant an Athlete’s application for a retroactive TUE pursuant to this Article
+without first consulting WADA; however, WADA may at any time review an Anti-Doping
+Organization’s decision to grant a retroactive TUE pursuant to this Article, and may in its absolute
+discretion, agree with or reverse the decision.
+Any decision made by WADA and/or an Anti-Doping Organization under this Article may not be
+challenged either as a defense to proceedings for an anti-doping rule violation, or by way of
+appeal, or otherwise.
+All decisions of an Anti-Doping Organization under this Article 4.3, whether granting or denying a
+TUE, must be reported through ADAMS in accordance with Article 5.5.
+[Comment to Article 4.3: For the avoidance of doubt, retroactive approval may be granted under
+Article 4.3 even if the conditions in Article 4.2 are not met (although satisfaction of such conditions
+will be a relevant consideration). Other relevant factors might include, without limitation, the
+reasons why the Athlete did not apply in advance; the Athlete’s experience; the Education
+previously received by the Athlete; whether the Athlete declared the Use of the substance or
+method on the Doping Control form; and the recent expiration of the Athlete’s TUE. In making its
+decision, WADA may, at its discretion, consult with a member(s) of a WADA TUEC.]
+5.0 TUE Responsibilities of Anti-Doping Organizations
+5.1 Code Article 4.4 specifies (a) which Anti-Doping Organizations have authority to make TUE
+decisions; (b) how those TUE decisions should be recognized and respected by other Anti-
+Doping Organizations; and (c) when TUE decisions may be reviewed and/or appealed.
+[Comment to Article 5.1: See Annex 1 – Code Article 4.4 Flowchart summarizing the key
+provisions of Code Article 4.4.
+Where national policy requirements and imperatives lead a National Anti-Doping Organization to
+prioritize certain sports or disciplines over others in its test distribution planning (as contemplated
+by Article 4.4.1 of the International Standard for Testing and Investigations), the National Anti-
+Doping Organization may decline to consider advance applications for TUEs from Athletes in
+some or all of the non-priority sports or disciplines, but in that case it must permit any such Athlete
+from whom a Sample is subsequently collected to apply for a retroactive TUE. The National Anti-
+Doping Organization should publicize any such policy on its website for the benefit of affected
+Athletes.
+Code Article 4.4.2 specifies the authority of a National Anti-Doping Organization to make TUE
+decisions in respect of Athletes who are not International-Level Athletes. In case of dispute as to
+which National Anti-Doping Organization should deal with the TUE application of an Athlete who
+is not an International-Level Athlete, WADA will decide. WADA’s decision will be final and not
+subject to appeal.]
+5.2 For the avoidance of doubt, when a National Anti-Doping Organization grants a TUE to an Athlete,
+that TUE is valid at national level on a global basis and does not need to be formally recognized
+by other National Anti-Doping Organizations under Article 7.0 (for example, if an Athlete is granted
+a TUE by their National Anti-Doping Organization and then trains or competes in the country of
+another National Anti-Doping Organization, that TUE will be valid if the Athlete is then tested by
+such other National Anti-Doping Organization).
+5.3 Each National Anti-Doping Organization, International Federation and Major Event Organization
+must establish a TUEC to consider whether applications for grant or recognition of TUEs meet
+the conditions set out in Article 4.2.
+
+[Comment to Article 5.3: For the avoidance of doubt, the fulfilment of the conditions set out in
+Articles 4.1 and 4.3 may be determined by the relevant Anti-Doping Organization in consultation
+with a member(s) of the TUEC.
+While a Major Event Organization may choose to recognize pre-existing TUEs automatically,
+there must be a mechanism for Athletes participating in the Event to obtain a new TUE if the need
+arises. It is up to each Major Event Organization whether it sets up its own TUEC for this purpose,
+or rather whether it outsources the task by agreement to a third party. The aim in each case is to
+ensure that Athletes competing in such Events have the ability to obtain TUEs quickly and
+efficiently before they compete.]
+a) TUECs should include at least three (3) physicians with experience in the care and treatment
+of Athletes and a sound knowledge of clinical, sports and exercise medicine. In cases where
+specific expertise is required (for example, for Athletes with impairments where the
+substance or method pertains to the Athlete’s impairment), at least one (1) TUEC member
+or expert should possess such expertise. One (1) physician member should act as chair of
+the TUEC.
+b) In order to ensure impartiality of decisions, all members of the TUEC must sign a conflict of
+interest and confidentiality declaration (a template declaration is available on WADA’s
+website).
+5.4 Each National Anti-Doping Organization, International Federation and Major Event Organization
+must establish a clear process for applying to its TUEC for a TUE that complies with the
+requirements of this International Standard. It must also publish details of that process by (at a
+minimum) posting the information in a conspicuous place on its website.
+5.5 Each National Anti-Doping Organization, International Federation and Major Event Organization
+must promptly report (in English or French) all decisions of its TUEC granting or denying TUEs,
+and all decisions to recognize or refusing to recognize other Anti-Doping Organizations' TUE
+decisions, through ADAMS as soon as possible and in any event within twenty-one (21) days of
+receipt of the decision. A decision to deny a TUE shall include an explanation of the reason(s) for
+the denial. In respect of TUEs granted, the information reported shall include (in English or
+French):
+a) Whether the Athlete was permitted to apply for a TUE retroactively under Article 4.1 and an
+explanation of the reason(s) why, or whether the Athlete was permitted to apply for and was
+granted a TUE retroactively under Article 4.3 and an explanation of the reason(s) why;
+b) The approved substance or method, the dosage(s), frequency, route of Administration
+permitted, the duration of the TUE (and, if different, the duration of prescribed treatment),
+and any conditions imposed in connection with the TUE; and
+c) The TUE application form (if not completed electronically in ADAMS) and the relevant clinical
+information establishing that the Article 4.2 conditions have been satisfied in respect of such
+TUE (for access only by WADA, the Athlete’s National Anti-Doping Organization and
+International Federation, and the Major Event Organization organizing an Event in which the
+Athlete wishes to compete).
+[Comment to Article 5.5: If a TUE application form is used it may be translated into other
+languages by Anti-Doping Organizations, but the original English or French text must remain on
+the form, and an English or French translation of the content must be provided.
+The full medical file, including diagnostic tests, laboratory results and values must be provided,
+but need not be translated into English or French. However, a translated summary of all the key
+information (including key diagnostic tests) must be entered into ADAMS, with sufficient
+information to clearly establish the diagnosis. It is strongly suggested that the summary be
+prepared by a physician or other person with adequate medical knowledge, in order to properly
+understand and summarize the medical information. More detailed/full translations may be
+required by the relevant Anti-Doping Organization or WADA, upon request.]
+5.6 When a National Anti-Doping Organization grants a TUE to an Athlete, it must warn him/her in
+writing that (a) the TUE is valid at national level only, and (b) if the Athlete becomes an
+International-Level Athlete or competes in an International Event, that TUE will not be valid for
+those purposes unless it is recognized by the relevant International Federation or Major Event
+Organization in accordance with Article 7.0. Thereafter, the National Anti-Doping Organization
+should help the Athlete to determine when they need to submit the TUE to an International
+
+Federation or Major Event Organization for recognition, and should guide and support the Athlete
+through the recognition process.
+5.7 Each International Federation and Major Event Organization must publish and keep updated a
+notice (at a minimum, by posting it in a conspicuous place on its website and sending it to WADA)
+that sets out clearly (1) which Athletes under its jurisdiction are required to apply to it for a TUE,
+and when; (2) which TUE decisions of other Anti-Doping Organizations it will automatically
+recognize in lieu of such application, in accordance with Article 7.1(a); and (3) which TUE
+decisions of other Anti-Doping Organizations will have to be submitted to it for recognition, in
+accordance with Article 7.1(b).
+5.8 If a National Anti-Doping Organization grants a TUE to an Athlete and the Athlete subsequently
+becomes an International-Level Athlete or competes in an International Event, the TUE will not
+be valid unless and until the relevant International Federation recognizes that TUE in accordance
+with Article 7.0. If an International Federation grants a TUE to an Athlete and the Athlete then
+competes in an International Event organized by a Major Event Organization, the TUE will not be
+valid unless and until the relevant Major Event Organization recognizes that TUE in accordance
+with Article 7.0. As a result, if the International Federation or Major Event Organization (as
+applicable) declines to recognize that TUE, then (subject to the Athlete’s rights of review and
+appeal) that TUE may not be relied upon to excuse the presence, Use, Possession or
+Administration of the Prohibited Substance or Prohibited Method mentioned in the TUE vis-à-vis
+that International Federation or Major Event Organization.
+6.0 TUE Application Process
+6.1 An Athlete who needs a TUE should apply as soon as possible. For substances prohibited In-
+Competition only, the Athlete should apply for a TUE at least thirty (30) days before their next
+Competition, unless it is an emergency or exceptional situation.
+6.2 The Athlete should The Athlete should apply to their National Anti-Doping Organization,
+International Federation and/or a Major Event Organization (as applicable), online or using the
+TUE application form provided. Anti-Doping Organizations shall make the application form or
+process they want Athletes to use available on their websites. If an application form is used, itmust
+be based on the “TUE Application Form” template available on WADA’s website. The template
+may be modified by Anti-Doping Organizations to include additional requests for information, but
+no sections or items may be removed.
+[Comment to Article 6.2: In certain situations, an Athlete may not know which National Anti-
+Doping Organization they should apply to for a TUE. In such circumstances, the Athlete should
+consult the National Anti-Doping Organization of the country of the sport organization for which
+they compete (or with which they are a member or license holder), to determine if they fall within
+that National Anti-Doping Organization’s TUE jurisdiction, according to their rules.
+If that National Anti-Doping Organization refuses to evaluate the TUE application because the
+Athlete does not fall within its TUE jurisdiction, the Athlete should consult the anti-doping rules of
+the National Anti-Doping Organization of the country in which they reside (if different).
+If the Athlete still does not fall within that National Anti-Doping Organization’s TUE jurisdiction, the
+Athlete should then consult the anti-doping rules of the National Anti-Doping Organization of their
+country of citizenship (if different from where they compete or reside).
+Athletes may contact any of the above-referenced National Anti-Doping Organizations for
+assistance with determining whether the National Anti-Doping Organization has TUE jurisdiction.
+In the event that none of the above-mentioned National Anti-Doping Organizations have TUE
+jurisdiction, where there is an Adverse Analytical Finding, the Athlete should ordinarily be
+permitted to apply for a retroactive TUE from the Anti-Doping Organization that has Results
+Management authority. See also the summary flowcharts on “Where to Apply?” in the medical
+section of WADA’s website.]
+6.3 An Athlete may not apply to more than one (1) Anti-Doping Organization for a TUE for the Use of
+the same Prohibited Substance or Prohibited Method for the same medical condition. Nor may an
+Athlete have more than one (1) TUE at a time for the Use of the same Prohibited Substance or
+Prohibited Method for the same medical condition (and any such new TUE will supersede the
+previous TUE, which should be cancelled by the relevant Anti-Doping Organization).
+6.4 The Athlete should submit the TUE application to the relevant Anti-Doping Organization via
+ADAMS or as otherwise specified by the Anti-Doping Organization. The application must be
+
+accompanied by a comprehensive medical history, including documentation from the original
+diagnosing physician(s) (where possible) and the results of all relevant examinations, laboratory
+investigations and imaging studies relevant to the application. The application must include the
+physician’s signature, in the designated area.
+[Comment to Article 6.4: The information submitted in relation to the diagnosis and treatment
+should be guided by the relevant WADA documents posted on WADA’s website.]
+6.5 The Athlete should keep a complete copy of the TUE application form and of all materials and
+information submitted to their Anti-Doping Organization.
+6.6 A TUE application will only be considered by the TUEC following the receipt of a properly
+completed application, accompanied by all relevant documents. Incomplete applications will be
+returned to the Athlete for completion and re-submission.
+6.7 The TUEC may request from the Athlete or their physician any additional information,
+examinations or imaging studies, or other information that it deems necessary in order to consider
+the Athlete’s application; and/or it may seek the assistance of such other medical or scientific
+experts as it deems appropriate.
+6.8 Any costs incurred by the Athlete in making the TUE application and in supplementing it as
+required by the TUEC are the responsibility of the Athlete.
+6.9 The TUEC shall decide whether or not to grant the application as soon as possible, and usually
+(i.e., unless exceptional circumstances apply) within no more than twenty-one (21) days of receipt
+of a complete application. Where a TUE application is made in a reasonable time prior to an
+Event, the TUEC must use its best endeavors to issue its decision before the start of the Event.
+6.10 The TUEC’s decision must be communicated in writing to the Athlete and must be made available
+to WADA and to other Anti-Doping Organizations via ADAMS, in accordance with Article 5.5.
+6.11 Each TUE will have a specified duration, as decided by the TUEC, at the end of which the TUE
+will expire automatically. If the Athlete needs to continue to Use the Prohibited Substance or
+Prohibited Method after the expiry date, they must submit an application for a new TUE well in
+advance of that expiry date, so that
+there is sufficient time for a decision to be made on the application before the expiry date.
+[Comment to Article 6.11: Where applicable, the duration of validity should be guided by the
+WADA documents titled “TUE Physician Guidelines”.]
+6.12 A TUE will be withdrawn prior to expiry if the Athlete does not promptly comply with any
+requirements or conditions imposed by the Anti-Doping Organization granting the TUE.
+Alternatively a TUE may be reversed upon review by WADA or on appeal.
+6.13 Where an Adverse Analytical Finding is issued shortly after a TUE for the Prohibited Substance
+in question has expired or has been withdrawn or reversed, the Anti-Doping Organization
+conducting the initial review of the Adverse Analytical Finding, in accordance with Article 5.1.1.1
+of the International Standard for Results Management shall consider whether the finding is
+consistent with Use of the Prohibited Substance prior to the expiry, withdrawal or reversal of the
+TUE. If so, such Use (and any resulting presence of the Prohibited Substance in the Athlete’s
+Sample) is not an anti-doping rule violation.
+6.14 In the event that, after their TUE is granted, the Athlete requires a materially different dosage,
+frequency, route or duration of Administration of the Prohibited Substance or Prohibited Method
+to that specified in the TUE, they must contact the relevant Anti-Doping Organization, who will
+then determine whether the Athlete needs to apply for a new TUE. If the presence, Use,
+Possession or Administration of the Prohibited Substance or Prohibited Method is not consistent
+with the terms of the TUE granted, the fact that the Athlete has the TUE will not prevent the finding
+of an anti-doping rule violation.
+[Comment to Article 6.14: It is recognized that for certain medical conditions, dosages may
+fluctuate, particularly during the early stages of the establishment of a treatment regime or for a
+condition such as insulin-dependent diabetes. Such potential fluctuations should be accounted
+for in the TUE. However, in the event of a change that is not accounted for in the TUE, the Athlete
+must contact the relevant Anti-Doping Organization to determine whether a new TUE is required.]
+
+7.0 TUE Recognition Process
+7.1 Code Article 4.4 requires Anti-Doping Organizations to recognize TUEs granted by other Anti-
+Doping Organizations that satisfy the Article 4.2 conditions. Therefore, if an Athlete who becomes
+subject to the TUE requirements of an International Federation or Major Event Organization
+already has a TUE, they should not submit an application for a new TUE to the International
+Federation or Major Event Organization. Instead:
+a) The International Federation or Major Event Organization may publish notice that it will
+automatically recognize TUE decisions made pursuant to Code Article 4.4 (or certain
+categories of such decisions, e.g., those made by specified Anti-Doping Organizations, or
+those relating to particular Prohibited Substances), provided that such TUE decisions have
+been reported in accordance with Article 5.5. If the Athlete’s TUE falls into a category of
+TUEs that are automatically recognized in this way at the time the TUE is granted, they do
+not need to take any further action. The TUE may not be subject to further review by the
+Anti-Doping Organization once automatically recognized.
+[Comment to Article 7.1(a): Automatic recognition of TUE decisions can ease the burden on
+Athletes. Nevertheless, International Federations and Major Event Organizations should
+carefully select the Anti-Doping Organizations and/or substances for which they will
+automatically recognize. If an International Federation or Major EventOrganization is willing
+to grant automatic recognition of TUE decisions, it should publish on its website and keep
+updated a list of Anti-Doping Organizations whose TUE decisions it will recognize
+automatically, and/or a list of those Prohibited Substances for which TUE decisions will be
+recognized automatically.]
+b) In the absence of such automatic recognition, the Athlete shall submit a request for
+recognition of the granted TUE to the International Federation or Major Event Organization
+in question, either via ADAMS or as otherwise specified by that International Federation or
+Major Event Organization.
+[Comment to Article 7.1(b): Recognition is based solely on satisfaction of the Article 4.2
+conditions. Accordingly, TUE duration alone is not a reason to deny recognition (unless it
+relates to satisfaction of the Article 4.2 conditions). Where applicable, TUE duration should
+be guided by the WADA TUE Physician Guidelines.]
+7.2 Incomplete requests for recognition of a TUE will be returned to the Athlete for completion and re-
+submission. In addition, the TUEC may request from the Athlete or their physician any additional
+information, examinations or imaging studies, or other information that it deems necessary in
+order to consider the Athlete’s request for recognition of the TUE; and/or it may seek the
+assistance of such other medical or scientific experts as it deems appropriate.
+7.3 Any costs incurred by the Athlete in making the request for recognition of the TUE and in
+supplementing it as required by the TUEC are the responsibility of the Athlete.
+7.4 The TUEC shall decide whether or not to recognize the TUE as soon as possible, and usually
+(i.e., unless exceptional circumstances apply) within no more than twenty-one (21) days of receipt
+of a complete request for recognition. Where the request is made a reasonable time prior to an
+Event, the TUEC must use its best endeavors to issue its decision before the start of the Event.
+7.5 The TUEC’s decision will be notified in writing to the Athlete and will be made available to WADA
+and to other Anti-Doping Organizations via ADAMS. A decision not to recognize a TUE must
+include an explanation of the reason(s) for
+the non-recognition.
+7.6 If an International Federation chooses to test an Athlete who is not an International-Level Athlete,
+it must recognize a TUE granted by that Athlete’s National Anti-Doping Organization unless the
+Athlete is required to apply for recognition of the TUE pursuant to Articles 5.8 and 7.0, i.e. because
+the Athlete is competing in an International Event.
+8.0 Review of TUE Decisions by WADA
+8.1 Code Article 4.4.6 provides that WADA, in certain cases, must review TUE decisions of
+International Federations, and that it may review any other TUE decisions, in each case to
+determine compliance with the Article 4.1 and 4.2 conditions. In relation to the Article 4.2
+conditions, WADA shall establish a WADA TUEC that meets the requirements of Article 5.3 to
+
+carry out such reviews. In relation to the Article 4.1 conditions, these can be reviewed by WADA
+(which may, at its discretion, consult with a member(s) of a WADA TUEC).
+8.2 Each request for review must be submitted to WADA in writing and must be accompanied by
+payment of the application fee established by WADA, as well as copies of all of the information
+specified in Article 6.4 (or, in the case of review of a TUE denial, all of the information that the
+Athlete submitted in connection with the original TUE application). The request must be copied to
+the Anti-Doping Organization whose decision would be the subject of the review, and to the
+Athlete (if they are not requesting the review).
+8.3 Where the request is for review of a TUE decision that WADA is not obliged to review, WADA
+shall advise the Athlete as soon as practicable following receipt of the request whether or not it
+will review the TUE decision. Any decision by WADA not to review the TUE decision is final and
+may not be appealed. However, the TUE decision may still be appealable, as set out in Code
+Article 4.4.7.
+8.4 Where the request is for review of a TUE decision of an International Federation that WADA is
+obliged to review, WADA may nevertheless refer the decision back to the International Federation
+(a) for clarification (for example, if the reasons are not clearly set out in the decision); and/or (b)
+for re-consideration by the International Federation (for example, if the TUE was only denied
+because medical tests or other information required to demonstrate satisfaction of the Article 4.2
+conditions were missing).
+[Comment to Article 8.4: If an International Federation refuses to recognize a TUE granted by a
+National Anti-Doping Organization only because medical tests or other information required to
+demonstrate satisfaction of the Article 4.2 conditions are missing, the matter should not be
+referred to WADA. Instead, the file should be completed and re-submitted to the International
+Federation.]
+8.5 Where a request for review is referred to the WADA TUEC, the WADA TUEC may seek additional
+information from the Anti-Doping Organization and/or the Athlete, including further studies as
+described in Article 6.7, and/or it may obtain the assistance of other medical or scientific experts
+as it deems appropriate.
+8.6 WADA shall reverse any grant of a TUE that does not comply with the Article 4.1 and 4.2
+conditions (as applicable). Where the TUE reversed was a prospective TUE (rather than a
+retroactive TUE), such reversal shall take effect upon the date specified by WADA (which shall
+not be earlier than the date of WADA’s notification to the Athlete). The reversal shall not apply
+retroactively and the Athlete’s results prior to such notification shall not be Disqualified. Where the
+TUE reversed was a retroactive TUE, however, the reversal shall also be retroactive.
+8.7 WADA shall reverse any denial of a TUE where the TUE application met the Article 4.1 and 4.2
+conditions (as applicable), i.e., it shall grant the TUE.
+8.8 Where WADA reviews a decision of an International Federation that has been referred to it
+pursuant to Code Article 4.4.3 (i.e., a mandatory review), it may require whichever Anti- Doping
+Organization “loses” the review (i.e., the Anti-Doping Organization whose view it does not uphold)
+(a) to reimburse the application fee to the party that referred the decision to WADA (if applicable);
+and/or (b) to pay the costs incurred by WADA in respect of that review, to the extent they are not
+covered by the application fee.
+8.9 Where WADA reverses a TUE decision that WADA has decided in its discretion to review, WADA
+may require the Anti-Doping Organization that made the decision to pay the costs incurred by
+WADA in respect of that review.
+8.10 If applicable, WADA shall communicate the reasoned decision of the WADA TUEC promptly to
+the Athlete and to their National Anti-Doping Organization and International Federation (and, if
+applicable, the Major Event Organization).
+9.0 Confidentiality of Information
+9.1 The Processing of Personal Information during the TUE process by Anti-Doping Organizations
+shall comply with the International Standard for the Protection of Privacy and Personal
+Information. Anti-Doping Organizations shall ensure that they have a valid legal authority or basis
+for such Processing, in accordance with the International Standard for the Protection of Privacy
+and Personal Information and applicable laws.
+
+9.2 Anti-Doping Organizations shall communicate in writing the following information to Athletes as
+well as any other relevant information in accordance with Article 7.1 of the International Standard
+for the Protection of Privacy and Personal Information in connection with an Athlete’s application
+for the grant or recognition of a TUE:
+a) All information pertaining to the application will be transmitted to members of all TUECs with
+authority under this International Standard to review the file and, as required, other
+independent medical or scientific experts, and to all necessary staff (including WADA staff)
+involved in the management, review or appeal of TUE applications;
+b) The Athlete must authorize their physician(s) to release to any relevant TUEC upon request
+any health information that any such TUEC deems necessary in order to consider and
+determine the Athlete’s application; and
+c) The decision on the application will be made available to all Anti-Doping Organizations with
+Testing authority and/or Results Management authority over the Athlete.
+[Comment to Article 9.2: Where Anti-Doping Organizations are relying upon the Athlete’s consent
+to Process Personal Information in connection with the TUE process, the Athlete applying for the
+grant or recognition of a TUE shall provide written and explicit consent to the foregoing.]
+9.3 The TUE application shall be dealt with in accordance with the principles of strict medical
+confidentiality. The members of all relevant TUECs, any consulted independent experts and
+the relevant staff of the Anti-Doping Organization shall conduct all of their activities relating to
+the process in strict confidence and shall sign appropriate confidentiality agreements. In
+particular, they shall keep the following information confidential:
+a) All medical information provided by the Athlete and physician(s) involved in the Athlete’s
+care; and
+b) All details of the application, including the name of the physician(s) involved in the process.
+9.4 Should the Athlete wish to revoke the right of a TUEC to obtain any health information on their
+behalf, the Athlete shall notify their physician in writing of such revocation; provided that, as a
+result of that revocation, the Athlete’s application for a TUE or for recognition of an existing TUE
+will be deemed withdrawn without approval/recognition having been granted.
+9.5 Anti-Doping Organizations shall only use information submitted by an Athlete in connection with
+a TUE application to evaluate the application andin the context of potential anti-doping rule
+violation investigations and proceedings.”
