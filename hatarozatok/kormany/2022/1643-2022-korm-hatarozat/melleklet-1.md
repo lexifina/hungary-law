@@ -24,6 +24,8 @@
 
 ## f) egyetért azzal, hogy a belügyminiszter az e) alpont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az érintett önkormányzatok számára.
 
-## 2. A vajdasági magyarság nemzeti jelentőségű fejlesztései és programjai támogatásához szükséges forrás biztosításáról szóló 1406/2019. (VII. 8.) Korm. határozat 1. pontjában a „2021. június 30.” szövegrész helyébe a „2024. június 30.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1643/2022. (XII. 21.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
