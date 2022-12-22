@@ -1,1 +1,3 @@
-3. § Hatályát veszti a Rendelet 3. melléklet II. pontjában foglalt táblázat 3. sora.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

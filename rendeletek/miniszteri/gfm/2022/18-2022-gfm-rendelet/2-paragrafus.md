@@ -1,1 +1,3 @@
-2. § A Rendelet 1. melléklet VI. pontjában az „Építési és Beruházási Minisztérium” szövegrész helyébe az „Építési és Közlekedési Minisztérium” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
