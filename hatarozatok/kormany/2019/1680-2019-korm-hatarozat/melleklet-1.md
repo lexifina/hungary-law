@@ -84,13 +84,13 @@
 
 ## 8. a beruházások előkészítésének kormányzati felelőseként
 
-## a) az 1. pont a) alpont aa)–ad) alpontja és az 1. pont d) alpont da) alpontja szerinti beruházások tekintetében az innovációért és technológiáért felelős minisztert,
+## a)[^4] az 1. pont a) alpont aa)–ad) alpontja és az 1. pont d) alpont da) alpontja szerinti beruházások tekintetében a kultúráért és innovációért felelős minisztert,
 
 ## b) az 1. pont b) alpontja szerinti beruházás tekintetében az emberi erőforrások miniszterét
 
 ## jelöli ki;
 
-## 9. az 1. pont szerinti beruházások megvalósítójaként a Beruházási Ügynökséget jelöli ki;
+## 9.[^5] az 1. pont a)–c) alpontja szerinti beruházások megvalósítójaként a Beruházási Ügynökséget, az 1. pont d) alpont da) pontja szerinti beruházás megvalósítójaként a Debreceni Egyetemet jelöli ki;
 
 ## 10. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az érintett miniszterek bevonásával az 1. pont szerinti beruházások megvalósítására lefolytatott feltételes közbeszerzési eljárások eredménye alapján készítsen előterjesztést a Kormány részére a beruházások megvalósításáról, a kivitelezésekhez kapcsolódó kötelezettségvállalási összegek és a kifizetések ütemezésének, továbbá az innovációért és technológiáért felelős miniszter és az emberi erőforrások minisztere közreműködésével az üzemeltetési költségek, valamint a létrejövő vagyonelemek vagyonkezelőire és üzemeltetőire vonatkozó javaslat bemutatásával;
 
@@ -129,6 +129,8 @@
 ## Határidő: a 2021–2024. évi központi költségvetés tervezése során
 
 1. melléklet az 1680/2019. (XII. 5.) Korm. határozathoz
+
+9K08355_0
 
 | XV. Pénzügyminisztérium |
 
@@ -197,3 +199,5 @@
 [^1]: A 4. pont e) alpontját az 1521/2020. (VIII. 14.) Korm. határozat 1. pont h) alpontja visszavonta.
 [^2]: A 6. pont az 1521/2020. (VIII. 14.) Korm. határozat 2. pontjával megállapított szöveg.
 [^3]: A 7. pont c) alpontja az 1521/2020. (VIII. 14.) Korm. határozat 3. pontjával megállapított szöveg.
+[^4]: A 8. pont a) alpontja az 1662/2022. (XII. 22.) Korm. határozat a) pontja szerint módosított szöveg.
+[^5]: A 9. pont az 1662/2022. (XII. 22.) Korm. határozat b) pontja szerint módosított szöveg.
