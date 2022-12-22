@@ -1,3 +1,1 @@
-2. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény a következő 36/C. §-sal egészül ki:
-
-„36/C. § Az egyes törvények bürokráciacsökkentéssel és jogharmonizációval összefüggő módosításáról szóló 2022. évi LXXV. törvénnyel (a továbbiakban: Módtv1.) megállapított 22. § (6) bekezdésében, 35/F. § (3) bekezdésében, 35/I. § (1) bekezdésében, 35/J. § (2) bekezdésében és 35/M. § (1) bekezdésében foglaltakat a 2023. január 1. napján már kezelt adatok vonatkozásában is alkalmazni kell.”
+### 2. §
