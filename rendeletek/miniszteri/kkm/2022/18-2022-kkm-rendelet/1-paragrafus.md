@@ -1,3 +1,3 @@
-1. § A külképviselet által foglalkoztatott munkavállalóval és a külképviselet által foglalkoztatott házastárssal kötött munkaszerződés részletes szabályairól szóló 10/2017. (VIII. 7.) KKM rendelet [a továbbiakban: 10/2017. (VIII. 7.) KKM rendelet] 1. §-a a következő (3) bekezdéssel egészül ki:
+1. §[^2]
 
-„(3) A kulturális diplomata, valamint a kulturális intézet működéséhez kapcsolódó feladatokat ellátó, adminisztratív vagy technikai külszolgálati munkakörbe kihelyezett kormánytisztviselő, illetve a külképviselet által a kulturális intézet működéséhez kapcsolódó feladatok ellátása érdekében foglalkoztatott munkavállaló, valamint házastárs esetében a külképviselet-vezető e rendeletben meghatározott jogköreit a kulturális intézetigazgató gyakorolja.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
