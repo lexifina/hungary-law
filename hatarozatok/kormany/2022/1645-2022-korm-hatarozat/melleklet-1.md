@@ -16,38 +16,12 @@
 
 | Határidő: | a projekt pénzügyi zárását követő 60 napon belül |
 
-## 2. A közúti infrastruktúra-fejlesztésekhez szükséges kötelezettségvállalásokról szóló 1503/2022. (X. 19.) Korm. határozat [a továbbiakban: 1503/2022. (X. 19.) Korm. határozat] 1. pontja a következő 1.6. alponttal egészül ki:
+## 2.[^1]
 
-## [1. A Kormány, tekintettel]
+## 3.[^2]
 
-## „1.6. a Dunakiliti – Dobrohošt (Doborgaz) közötti gyalogos – kerékpáros Duna-híd és a hozzá vezető szakaszok, műtárgyak megvalósításához szükséges egyes intézkedésekről szóló 1645/2022. (XII. 21.) Korm. határozatra”
+1. melléklet az 1645/2022. (XII. 21.) Korm. határozathoz[^3]
 
-## [– (a továbbiakban együtt: kormányhatározatok) a következőkről dönt.]
-
-## 3. Az 1503/2022. (X. 19.) Korm. határozat 1. melléklete helyébe az 1. melléklet lép.
-
-1. melléklet az 1645/2022. (XII. 21.) Korm. határozathoz
-
-„1. melléklet az 1503/2022. (X. 19.) Korm. határozathoz
-
-A kötelezettségvállalás mértéke a Közúti infrastruktúra-fejlesztések előirányzaton
-
-adatok forintban
-
-|  | A | B | C | D | E | F |
-
-| 1. | Kapcsolódó kormányhatározat száma | 2022. évi költségvetési év | 2023. évi költségvetési év | 2024. évi költségvetési év | 2025. évi költségvetési év | Összesen |
-
-| 2. | 1502/2022. (X. 19.) Korm. határozat 5. pont a), b) és d) alpontja | 900 000 000 | 19 305 000 000 | 27 995 000 000 | 0 | 48 200 000 000 |
-
-| 3. | 1501/2022. (X. 19.) Korm. határozat 3. pontja | 0 | 600 000 000 | 2 200 000 000 | 0 | 2 800 000 000 |
-
-| 4. | 1527/2022. (XI. 2.) Korm. határozat 1. pont a) alpontja | 0 | 575 000 000 | 600 000 000 | 375 000 000 | 1 550 000 000 |
-
-| 5. | 1528/2022. (XI. 2.) Korm. határozat 1. pont b) alpont ba) és bb) pontja | 1 600 000 000 | 2 900 000 000 | 0 | 0 | 4 500 000 000 |
-
-| 6. | 1599/2022. (XII. 1.) Korm. határozat 1. pont f) alpont fa) és fb) pontja | 0 | 180 000 000 | 340 000 000 | 0 | 520 000 000 |
-
-| 7. | 1645/2022. (XII. 21.) Korm. határozat 1. pont c. alpontja |  |  | 502 381 618 |  | 502 381 618 |
-
-”
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
