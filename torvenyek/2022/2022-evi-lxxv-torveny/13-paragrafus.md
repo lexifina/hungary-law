@@ -1,0 +1,3 @@
+13. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 71. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha az ajánlatkérő megállapítja, hogy az ajánlattevő vagy részvételre jelentkező az alkalmasság igazolásához olyan gazdasági szereplő kapacitásaira támaszkodik, vagy olyan alvállalkozót nevezett meg, amely a 62. § (1) bekezdése szerinti, vagy – ha az ajánlatkérő előírta – a 63. § szerinti kizáró ok hatálya alatt áll, akkor a kizáró okkal érintett gazdasági szereplő kizárása mellett hiánypótlás keretében felhívja az ajánlattevőt vagy részvételre jelentkezőt a kizárt helyett szükség esetén más gazdasági szereplő megnevezésére, kivéve ha az ajánlat vagy a részvételi jelentkezés a 73. § (1) bekezdés c) pontja szerint érvénytelen.”
