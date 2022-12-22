@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-124-00-00
 | 2021-07-09 | 2021. évi LXVIII. törvény | 1997-124-00-00.21 |
 | 2022-03-21 | 2022. évi I. törvény | 1997-124-00-00.22 |
 | 2022-05-25 | 2022. évi IV. törvény | 1997-124-00-00.23 |
+| 2022-12-22 | 2022. évi LXXVIII. törvény | 1997-124-00-00.24 |
