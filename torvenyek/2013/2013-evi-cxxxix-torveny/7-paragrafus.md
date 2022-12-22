@@ -1,1 +1,1 @@
-7. § A gazdasági társaságokról szóló törvény (a továbbiakban: Gt.) rendelkezéseit az MNB tekintetében az e törvényben meghatározott eltérésekkel kell alkalmazni.
+7. § A Polgári Törvénykönyvről szóló törvény (a továbbiakban: Ptk.) rendelkezéseit az MNB tekintetében az e törvényben meghatározott eltérésekkel kell alkalmazni.

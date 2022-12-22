@@ -6,6 +6,6 @@
 
 (4) Az MNB alkalmazottai közül az MNB elnöke által kijelölt személy jogosult elektronikus úton a tőzsdei forgalmat figyelemmel kísérni, feljegyzést készíteni, az esetlegesen észlelt szabálytalanság rövid kivizsgálása érdekében technikai szünetet kérni, helyszíni jegyzőkönyvet felvenni.
 
-(5) Az MNB alkalmazottai közül az MNB elnöke, vagy – az elnök kijelölése alapján – a 4. § (9) bekezdésében meghatározott feladatot felügyelő alelnök által kijelölt személy jogosult a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek igazgatósági ülésein, közgyűlésein, ügyvezető testületének és a legfőbb szervének hatáskörét gyakorló testület ülésein jelen lenni.
+(5) Az MNB megbízólevéllel kijelölt alkalmazottja a 39. §-ban meghatározott törvények hatálya alá tartozó szervezetek igazgatósági, igazgatótanácsi, felügyelő- vagy ellenőrző bizottsági ülésein, közgyűlésein, ügyvezető testületének, illetve az ügyvezetés ellenőrzését megvalósító testületének és a legfőbb szervének hatáskörét gyakorló testület ülésein jelen lehet.
 
 (6) Az MNB az értékpapírok nyomdai úton történő előállítására vonatkozó jogszabályban előírt kötelezettségek ellenőrzése keretében, az ott meghatározott körben és módon a Nemzetbiztonsági Szakszolgálattal mint szakhatósággal együttműködve jár el.

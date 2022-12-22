@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-139-00-00
 | 2022-08-06 | 2022. évi XX. törvény | 2013-139-00-00.52 |
 | 2022-11-01 | 2022. évi XXXI. törvény | 2013-139-00-00.54 |
 | 2022-12-15 | 2022. évi LVI. törvény | 2013-139-00-00.55 |
+| 2022-12-22 | 2022. évi LXXVII. törvény | 2013-139-00-00.58 |

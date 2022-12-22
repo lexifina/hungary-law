@@ -18,7 +18,7 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 
 2. (3) bekezdése az (EU) 2017/1129 európai parlamenti és tanácsi rendeletnek az értékpapírokra vonatkozó nyilvános ajánlattételkor vagy értékpapíroknak a szabályozott piacra történő bevezetésekor közzéteendő tájékoztató formátuma, tartalma, ellenőrzése és jóváhagyása tekintetében történő kiegészítéséről, valamint a 809/2004/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2019. március 14-i (EU) 2019/980 bizottsági rendelet,
 
-3. (4) bekezdése a Közösségben történő határokon átnyúló fizetésekről és a 2560/2001/EK rendelet hatályon kívül helyezéséről szóló, 2009. szeptember 16-i 924/2009/EK európai parlamenti és tanácsi rendelet 9., 10., 12. és 13. cikkének,
+3.
 
 4. (5) bekezdése a hitelminősítő intézetekről szóló 2009. szeptember 16-i 1060/2009/EK európai parlamenti és tanácsi rendelet 22. cikk (1) bekezdése és 25a. cikke,
 
@@ -57,6 +57,8 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 21. (34) bekezdése a pénzügyi szolgáltatási ágazatban a fenntarthatósággal kapcsolatos közzétételekről szóló, 2019. november 27-i (EU) 2019/2088 európai parlamenti és tanácsi rendelet
 
 22. (35) bekezdése a befektetési vállalkozásokra vonatkozó prudenciális követelményekről, valamint az 1093/2010/EU, az 575/2013/EU, a 600/2014/EU és a 806/2014/EU rendelet módosításáról szóló, 2019. november 27-i (EU) 2019/2033 európai parlamenti és tanácsi rendelet
+
+23. (39) bekezdése az (EU) 2021/1230 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 

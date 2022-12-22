@@ -6,9 +6,19 @@
 
 (4) A (3) bekezdés alkalmazása során – a 39. §-ban meghatározott törvények ekként meghatározott személyeken túl – vezető állású személynek minősül az önkéntes kölcsönös biztosító pénztár, valamint a magánnyugdíjpénztár vezető tisztségviselője, ügyvezetője és ügyvezető-helyettese is, továbbá a független biztosításközvetítői tevékenység irányítását végző személy.
 
-(5) A kiszabható bírság mértéke a Hpt. 184. §-ában meghatározott szabálysértés esetén és a Bszt. 164. § alapján az engedély nélkül befolyásoló részesedést szerző jogi személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszközt hitelintézeti engedély hiányában végző vállalkozás tekintetében 1 555 850 000 Ft-ig vagy a jogsértést megállapító határozat meghozatalát megelőző üzleti év 89. § (3) bekezdés b) és d) pontja szerinti nettó árbevételének 10 százalékáig, de legfeljebb a jogsértésből származó haszon vagy elkerült veszteség – amennyiben meghatározható – kétszereséig terjedhet. Ha a jogi személy anyavállalat vagy egy anyavállalat leányvállalata, amelynek a számvitelről szóló 2000. évi C. törvény értelmében összevont pénzügyi beszámolót kell készítenie, akkor a bruttó bevétel az anyavállalat konszolidált beszámolója alapján számított, tárgyévet megelőző üzleti évi bruttó bevétele.
+(5) A kiszabható bírság mértéke a Hpt. 184. §-ában és a Bszt. 164. §-ában meghatározott szabálysértés esetén, továbbá az engedély nélkül befolyásoló részesedést szerző jogi személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszközt hitelintézeti engedély hiányában végző vállalkozás tekintetében
 
-(6) A kiszabható bírság mértéke a Hpt. 184. §-ában és a Bszt. 164. §-ában meghatározott szabálysértés esetén az engedély nélkül befolyásoló részesedést szerző természetes személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszköz gyűjtését végző természetes személy esetében 1 555 850 000 Ft, de legfeljebb a jogsértésből származó haszon vagy – ha az meghatározható – az azzal elkerült veszteség kétszerese.
+a) 1 555 850 000 forintig, vagy
+
+b) a jogsértést megállapító határozat meghozatalát megelőző üzleti év 89. § (3) bekezdés b) és d) pontja szerinti nettó árbevételének 10 százalékáig
+
+terjedhet.
+
+(5a) Ha a jogsértésből származó haszon vagy elkerült veszteség összege meghatározható, a kiszabható maximális bírság mértéke annak kétszerese, azzal, hogy a bírság mértékét minden esetben az (5) és e bekezdés alapján meghatározott magasabb összegű bírsághatárra figyelemmel kell megállapítani.
+
+(5b) Ha a jogi személy olyan anyavállalat vagy egy anyavállalat olyan leányvállalata, amelynek a számvitelről szóló 2000. évi C. törvény értelmében összevont pénzügyi beszámolót kell készítenie, akkor az (5) bekezdés szerinti nettó árbevétel az anyavállalat konszolidált beszámolója alapján számított, tárgyévet megelőző üzleti évi nettó árbevétele.
+
+(6) A kiszabható bírság mértéke a Hpt. 184. §-ában és a Bszt. 164. §-ában meghatározott szabálysértés esetén, továbbá az engedély nélkül befolyásoló részesedést szerző természetes személy, valamint betétgyűjtést vagy más visszafizetendő pénzeszköz gyűjtését végző természetes személy esetében 1 555 850 000 forint vagy – amennyiben meghatározható – a jogsértésből származó haszon vagy az azzal elkerült veszteség kétszerese, azzal hogy a bírság mértékét minden esetben a magasabb összegű bírsághatárra figyelemmel kell megállapítani.
 
 (7) A pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény 14/A. §-ában, 36/A. § (1)–(3) bekezdésében és 36/B. §-ában a pénzforgalmi szolgáltató számára előírt kötelezettség megszegése, elkerülése, elmulasztása, késedelmes vagy hiányos teljesítése esetén az MNB a 88. §-ban meghatározott jogkövetkezményeket alkalmazza.
 

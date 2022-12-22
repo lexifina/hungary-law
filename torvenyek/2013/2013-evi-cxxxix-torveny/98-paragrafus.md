@@ -1,4 +1,4 @@
-98. § (1) A Pénzügyi Békéltető Testület háromtagú tanácsban (a továbbiakban: tanács) jár el, kivéve az ötvenezer forintot meg nem haladó összegre vonatkozó vagy egyszerű megítélésű fogyasztói kérelmeket jelentő, valamint méltányossági kérelmet tartalmazó ügyeket, amelyeknél egy testületi tag is eljárhat. Ahol e törvény eljáró tanácsot vagy annak elnökét említi, azon az egyedül eljáró testületi tagot is érteni kell.
+98. § (1) A Pénzügyi Békéltető Testület – a Pénzügyi Békéltető Testület elnöke mérlegelése alapján – háromtagú tanácsban vagy egy testületi taggal jár el az ügy bonyolultságától, a szükséges szakértelemtől és az érvényesíteni kívánt igény összegétől függően. E törvénynek az eljáró tanácsra vagy annak elnökére vonatkozó szabályai az egyedül eljáró testületi tag esetében is alkalmazandók.
 
 (2) A tanács tagjainak kijelölésére a Pénzügyi Békéltető Testület működési rendjében meghatározottak szerint kerül sor.
 

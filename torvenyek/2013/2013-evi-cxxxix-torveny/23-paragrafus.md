@@ -10,7 +10,7 @@
 
 (5) A feltehetően hamis (a továbbiakban: hamisgyanús) bankjegy és érme semmilyen jogcímen nem fogadható el, ide nem értve a 24. § (3) bekezdésében foglaltakat.
 
-(6) A nehezen felismerhető, valamint a sérült bankjegyet és érmét fizetési művelet során elfogadni nem kötelező.
+(6) Az emlékérme, valamint a nehezen felismerhető, sérült bankjegy, érme, fizetési művelet során történő elfogadása elutasítható.
 
 (7) Az MNB a nehezen felismerhető, valamint a sérült bankjegyet és érmét – a (8) bekezdésben meghatározottak szerint – törvényes fizetőeszközre névértéken költségmentesen átváltja. Az MNB e kötelezettsége ellátásához közreműködőt vehet igénybe.
 

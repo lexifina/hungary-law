@@ -12,6 +12,8 @@ nem szabályozott kérdésekben az általános közigazgatási rendtartásról s
 
 1. az alapelvek szerepére, a jogszerűség elvére, a hivatalbóliság elvére, a hatékonyság elvére, az ügyfélre vonatkozó alapelvekre, a jóhiszeműség elvére és a bizalmi elvre,
 
+1a. az ügyféli jogutódlás szabályaira,
+
 2. az eljárási képességre és a képviseletre,
 
 2a. a 15. § (2) bekezdésében meghatározott eljárási kötelezettségre,

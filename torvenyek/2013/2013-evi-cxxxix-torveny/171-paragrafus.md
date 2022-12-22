@@ -18,7 +18,7 @@ e) a magyar és a külföldi törvényes fizetőeszközök hamisítás elleni v�
 
 f) a 24. § (5) bekezdése szerint adatszolgáltatásra kötelezett szervezetek körét, az adatszolgáltatás módját és tartalmát,
 
-g) a forgalomban lévő törvényes fizetőeszközről, továbbá az MNB által forgalomból bevont, de törvényes fizetőeszközre átváltható bankjegyről és érméről utánzat készítésének vagy készíttetésének engedélyezési feltételeit, valamint az utánzat előállításával, nyilvántartásával, őrzésével és megsemmisítésével kapcsolatos követelményeket,
+g) a forgalomban lévő törvényes fizetőeszközről, továbbá az MNB által forgalomból bevont bankjegyről és érméről utánzat készítésének vagy készíttetésének engedélyezési feltételeit, valamint az utánzat előállításával, nyilvántartásával, őrzésével és megsemmisítésével kapcsolatos követelményeket,
 
 h) az euróutánzatokra – ideértve az euróérmékhez hasonló érmeket és zsetonokat is – vonatkozó előírásokat a szankciókra vonatkozó szabályok kivételével, az euroérmékhez hasonló érmekről és zsetonokról szóló, 2004. december 6-i 2182/2004/EK tanácsi rendelet előírásainak figyelembevételével,
 
@@ -36,60 +36,52 @@ kc) a rendszerszintű likviditási kockázatok csökkentése érdekében szüks�
 
 kd)
 
-(2) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy az MNB 4. § (5) bekezdésében és 27. § (2) bekezdésében foglalt feladatai körében rendeletben szabályozza
+(2) Felhatalmazást kap az MNB elnöke, hogy a 4. § (2) és (5) bekezdésében foglalt feladatai körében rendeletben szabályozza
 
-a) a fizetési forgalomban a fizetési megbízások lebonyolításának, továbbá a fizetési módok részletes szabályait,
+a) a készpénzforgalmazás feltételeit,
 
-b) a készpénzforgalmazás feltételeit,
+b) a pénzfeldolgozási tevékenység szabályait.
 
-c) a pénzfeldolgozási tevékenység szabályait és
+(3) Felhatalmazást kap az MNB elnöke, hogy a 4. § (5) bekezdésében foglalt feladatai körében rendeletben szabályozza
 
-d) a fizetési rendszer működtetése tevékenységre vonatkozó részletes szabályokat.
+a) a fizetési forgalomban a fizetési megbízások lebonyolításának és a fizetési módok részletes szabályait,
 
-(3) Felhatalmazást kap a Magyar Nemzeti Bank elnöke, hogy az MNB 4. § (5) bekezdésében és a 28. § (1) és (2) bekezdésében foglalt feladatai körében rendeletben szabályozza
+b) a központi értéktári tevékenységet végző szervezet vonatkozásában
 
-a) a fizetési rendszer működtetése tevékenységet végző szervezetek üzletszabályzatának tartalmi és formai követelményeit és a tevékenység végzéséhez szükséges szabályzatokra vonatkozó követelményeket;
+ba) az üzletszabályzat tartalmi és formai követelményeit,
 
-b) a Tpt. szerinti elszámolóházi tevékenységet végző szervezet üzletszabályzatának tartalmi és formai követelményeit, továbbá
+bb) az ügyfelekkel való jogviszony keletkezésére, megszűnésére vonatkozó szabályokat,
 
-ba) az ügyfelekkel való jogviszony keletkezésére, megszűnésére vonatkozó szabályokat,
+bc) az ügyfelekkel szemben meghatározandó pénzügyi és technikai feltételeket,
 
-bb) az ügyfelekkel szemben meghatározandó pénzügyi és technikai feltételeket,
+bd) a kiegyenlítés rendjét,
 
-bc) az elszámolás és a teljesítés rendjét,
+be) a kockázatok kezelésének szabályait,
 
-bd) a kockázatok kezelésének szabályait,
+bf) a kötelező biztosíték képzésének, felhasználásának szabályait,
 
-be) a kötelező biztosíték képzésének, felhasználásának szabályait,
+bg) a garanciaalapok képzésének, igénybevételének, kezelésének szabályait, és
 
-bf) a garanciaalapok képzésének, igénybevételének, kezelésének szabályait és
+bh) a szolgáltatást igénybe vevők részére felszámított díjak megállapításának alapelveit;
 
-bg) a szolgáltatást igénybe vevők részére felszámított díjak megállapításának alapelveit;
-
-c) a központi értéktár esetében
+c) a központi szerződő fél tevékenységet végző szervezet esetében
 
 ca) az ügyfelekkel való jogviszony keletkezésére, megszűnésére vonatkozó szabályokat,
 
 cb) az ügyfelekkel szemben meghatározandó pénzügyi és technikai feltételeket,
 
-cc) a szolgáltatást igénybe vevők részére felszámított díjak megállapításának alapelveit és
+cc) a központi szerződő fél által garantált ügyletek teljesítéséhez kapcsolódó kötelezettségvállalás szabályait,
 
-cd) a kockázatok kezelésének szabályait;
+cd) a kockázatok kezelésének szabályait,
 
-d) a központi szerződő fél tevékenységet végző szervezet esetében
+ce) a kötelező biztosítékok képzésének, felhasználásának szabályait,
 
-da) az ügyfelekkel való jogviszony keletkezésére, megszűnésére vonatkozó szabályokat,
+cf) a garanciaalapok képzésének, igénybevételének, kezelésének szabályait,
 
-db) az ügyfelekkel szemben meghatározandó pénzügyi és technikai feltételeket,
+cg) a szolgáltatást igénybe vevők részére felszámított díjak megállapításának alapelveit, és
 
-dc) a központi szerződő fél által garantált ügyletek teljesítéséhez kapcsolódó kötelezettségvállalás szabályait,
+ch) az elszámolás és teljesítés rendjét,
 
-dd) a kockázatok kezelésének szabályait,
+d) a fizetési rendszer működtetésére vonatkozó részletes szabályokat, és
 
-de) a kötelező biztosítékok képzésének, felhasználásának szabályait,
-
-df) a garanciaalapok képzésének, igénybevételének, kezelésének szabályait és
-
-dg) a szolgáltatást igénybe vevők részére felszámított díjak megállapításának alapelveit és
-
-dh) elszámolás és teljesítés rendjét.
+e) a fizetési rendszer működtetését végző szervezetek üzletszabályzatának tartalmi és formai követelményeit, valamint a tevékenység végzéséhez szükséges szabályzatokra vonatkozó követelményeket.

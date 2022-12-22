@@ -6,7 +6,7 @@
 
 (3) A bejelentés olyan körülményre hívja fel az MNB figyelmét, amely alapján megalapozottan feltehető a 39. §-ban meghatározott személy vagy szervezet működésére vonatkozó törvényben vagy egyéb jogszabályban meghatározott – fogyasztóvédelmi rendelkezések körébe nem tartozó – rendelkezés megsértése. A bejelentés javaslatot is tartalmazhat.
 
-(4) Az MNB a bejelentés beérkezésétől számított tizenöt napon belül megvizsgálja a bejelentést.
+(4) Az MNB a bejelentés beérkezésétől számított harminc napon belül elbírálja a bejelentést.
 
 (5) Ha a (4) bekezdésben meghatározott vizsgálatot követően a (3) bekezdésben meghatározott rendelkezés megsértése valószínűsíthető, az MNB megindítja a 48. § (1) bekezdés b) vagy d) pontjában meghatározott eljárást.
 

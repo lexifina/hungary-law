@@ -2,9 +2,9 @@
 
 35. § (1) Az MNB meghatározza, és évente felülvizsgálja a Magyarországon székhellyel rendelkező,
 
-a) globálisan rendszerszinten jelentős hitelintézetek és befektetési vállalkozások körét összevont alapon, valamint
+a) globálisan rendszerszinten jelentős hitelintézetek körét összevont alapon, valamint
 
-b) egyéb rendszerszinten jelentős hitelintézetek és befektetési vállalkozások körét egyedi, szubkonszolidált vagy összevont alapon,
+b) egyéb rendszerszinten jelentős hitelintézetek körét egyedi, szubkonszolidált vagy összevont alapon,
 
 és folyamatosan figyelemmel kíséri azok működését.
 

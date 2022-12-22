@@ -8,7 +8,7 @@
 
 (4) Az MNB a devizatartalék kezelésével és az árfolyampolitika végrehajtásával kapcsolatban devizaműveleteket végez.
 
-(5) Az MNB felvigyázza a fizetési és elszámolási, valamint az értékpapír-elszámolási rendszereket, ennek keretében felvigyázza a rendszer, valamint a központi szerződő fél tevékenységét végző szervezet tevékenységét e rendszerek biztonságos és hatékony működése, továbbá a pénzforgalom zavartalan lebonyolítása érdekében. Ezen jogkörében, valamint a 171. § (2) bekezdésében meghatározott jogalkotási jogkörében részt vesz a fizetési és elszámolási, valamint az értékpapír-elszámolási rendszerek kialakításában.
+(5) Az MNB felvigyázza a fizetési és elszámolási, valamint az értékpapír-elszámolási rendszereket, ennek keretében felvigyázza a rendszer, valamint a központi szerződő fél tevékenységét végző szervezet tevékenységét e rendszerek biztonságos és hatékony működése, továbbá a pénzforgalom zavartalan lebonyolítása érdekében. Ezen jogkörében, valamint a 171. § (3) bekezdésében meghatározott jogalkotási jogkörében részt vesz a fizetési és elszámolási, valamint az értékpapír-elszámolási rendszerek kialakításában.
 
 (6) Az MNB feladatai ellátásához és az Európai Unió működéséről szóló szerződéshez fűzött, a Központi Bankok Európai Rendszere és az Európai Központi Bank Alapokmányáról szóló (4.) Jegyzőkönyv (a továbbiakban: Alapokmány) 5. cikkében meghatározott az EKB-val szemben fennálló statisztikai adatszolgáltatási kötelezettség teljesítéséhez statisztikai információkat gyűjt és hoz nyilvánosságra.
 

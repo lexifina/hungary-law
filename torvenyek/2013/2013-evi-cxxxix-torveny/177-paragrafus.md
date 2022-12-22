@@ -1,6 +1,6 @@
 177. § (1) A 2013. szeptember 30-án a PSZÁF vagyonkezelésében lévő állami vagyon – a (2) bekezdésben meghatározott kivétellel – e törvény erejénél fogva ingyenesen az MNB tulajdonába kerül, amely az MNB eredménytartalékát növeli.
 
-(2) A 2013. szeptember 30-án a PSZÁF vagyonkezelésében lévő állami tulajdonú ingatlanok e törvény erejénél fogva ingyenesen az MNB vagyonkezelésébe kerülnek. A vagyonkezelői jogviszonyra a továbbiakban a Magyar Nemzeti Vagyonkezelő Zrt. által kötött vagyonkezelési szerződésekre vonatkozó jogszabályi rendelkezéseket kell alkalmazni.
+(2)
 
 (3) 2013. október 1-jétől a Hitelintézeti Felszámoló Nonprofit Kft. üzletrésze feletti tulajdonosi jogokat az állam nevében az MNB gyakorolja.
 

@@ -1,1 +1,1 @@
-29. § Az euroátutalások és -beszedések technikai és üzleti követelményeinek megállapításáról és a 924/2009/EK rendelet módosításáról szóló 2012. március 14-i 260/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: a 260/2012/EU európai parlamenti és tanácsi rendelet) 10. cikke szerinti illetékes hatóságként az MNB látja el a 260/2012/EU európai parlamenti és tanácsi rendelet végrehajtásából eredő feladatokat.
+### 29. §

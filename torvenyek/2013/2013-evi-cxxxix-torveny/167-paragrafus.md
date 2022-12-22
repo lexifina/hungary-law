@@ -8,4 +8,4 @@
 
 (4) Ha a díjfizetésre kötelezett nem tesz eleget a (2)–(3) bekezdésben foglalt kötelezettségének, az MNB ellenőrzési eljárást indít.
 
-(5) Bevallás benyújtására nem köteles a tőkepiaci függő ügynök, a független pénzpiaci közvetítő és a független biztosításközvetítő.
+(5) Bevallást alapdíjak vonatkozásában nem kell teljesíteni. Változó díj fizetésére nem kötelezettek nem kötelesek bevallást benyújtani.

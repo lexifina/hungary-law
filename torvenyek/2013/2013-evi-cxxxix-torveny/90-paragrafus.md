@@ -14,7 +14,7 @@ e) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében elő
 
 f) az (EU) 2019/1238 európai parlamenti és tanácsi rendelet szerinti „páneurópai egyéni nyugdíjtermék” vagy „PEPP” megjelölést viselő termékek nyilvántartásba vétel nélkül történő kínálásának, illetve forgalmazásának gyanúja esetén.
 
-(2) Az (1) bekezdés a)–d) és f) pontjában meghatározott piacfelügyeleti eljárásban az ügyintézési határidő az ellenőrzés hivatalból történő megindításának napjától számított
+(2) Az (1) bekezdés a)–f) pontjában meghatározott piacfelügyeleti eljárásban az ügyintézési határidő az ellenőrzés hivatalból történő megindításának napjától számított
 
 a) hat hónap a hatósági ellenőrzési eljárás lefolytatására, továbbá
 
@@ -38,7 +38,7 @@ b) a (2) bekezdés b) pontjában meghatározott hatósági eljárás során hozo
 
 c) a piacfelügyeleti eljárással kapcsolatos bírósági eljárás – ideértve a rendkívüli jog- és perorvoslati eljárást is – jogerős befejezéséig kezelheti, ha az MNB döntését közigazgatási perben megtámadták vagy az MNB büntetőeljárást kezdeményezett.
 
-(6)
+(6) Az MNB az (1) bekezdésben foglaltak esetén piacfelügyeleti eljárás helyett felügyeleti ellenőrzést is folytathat. A piacfelügyeleti rendelkezések vizsgálatára indított felügyeleti ellenőrzés során a 91. § (1) bekezdésében foglaltakat alkalmazni kell.
 
 (7)
 

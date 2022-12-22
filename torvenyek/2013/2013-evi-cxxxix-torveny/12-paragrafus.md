@@ -14,7 +14,7 @@ b) az MNB alelnökei.
 
 a) a Monetáris Tanács és a Pénzügyi Stabilitási Tanács által hozott döntések végrehajtásának irányítása,
 
-b) az MNB számviteli beszámolójának megállapítása, az osztalék fizetéséről való döntés meghozatala, továbbá az üzletvezetésről és az MNB vagyoni helyzetéről szóló, a részvényesnek küldendő jelentés tervezetének jóváhagyása,
+b) az MNB számviteli beszámolójának megállapítása, a 166. § (1a) bekezdése szerinti osztalék fizetéséről való döntés meghozatala, továbbá az üzletvezetésről és az MNB vagyoni helyzetéről szóló, a részvényesnek küldendő jelentés tervezetének jóváhagyása,
 
 c) az MNB szervezetével és belső irányításával összefüggő kérdések jóváhagyása,
 
@@ -29,3 +29,11 @@ g) a 159. §-ban foglaltakkal kapcsolatos döntések meghozatala.
 (5) A Monetáris Tanács bármely, a hatáskörébe tartozó kérdés eldöntésére felhatalmazhatja az igazgatóságot. Az így meghozott döntéseivel kapcsolatban az igazgatóság beszámol a Monetáris Tanácsnak. Az MNB elnöke a (4) bekezdésben meghatározottakon túl bármely, a hatáskörébe tartozó kérdést döntésre az igazgatóság elé terjeszthet.
 
 (6) Az igazgatóság határozatait a jelenlévők egyszerű többségével hozza. Szavazategyenlőség esetén az elnök, akadályoztatása esetén az elnök által kijelölt igazgatósági tag szavazata dönt. Az igazgatóság határozatképes, ha tagjai közül legalább ketten jelen vannak.
+
+(7) Az MNB elnöke rendeletben határozza meg azt az MNB által alkalmazott, az MNB szervezeti és működési szabályzata szerint vezetői hatáskörrel rendelkező személyt vagy az MNB szervét, akire (amelyre)
+
+a) a 4. § (2) bekezdésében meghatározott feladatkörben a forgalomban lévő magyar törvényes fizetőeszközről, valamint az MNB által forgalomból bevont bankjegyről és érméről utánzat készítésének és készíttetésének engedélyezésével és ellenőrzésével, és
+
+b) a 4. § (6) bekezdése szerinti feladatkörben eljárva kibocsátott MNB rendeletben foglaltak megtartásának ellenőrzésével
+
+kapcsolatos hatósági eljárásokban a hatáskörgyakorlási jogot átruházza.

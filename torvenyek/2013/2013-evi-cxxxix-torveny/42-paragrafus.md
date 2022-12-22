@@ -12,7 +12,15 @@ e) felügyeli a pénzügyi piacok működését a 39. §-ban meghatározott tör
 
 f) segíti az Országos Betétbiztosítási Alap igazgatótanácsa működését, annak döntései előkészítését és végrehajtását,
 
-g) piacfelügyeleti eljárást indít az engedély nélkül vagy bejelentés hiányában végzett tevékenység észlelése esetén; a bennfentes kereskedelem vagy piacbefolyásolás (a továbbiakban ideértve a 1031/2010/EU bizottsági rendelet 37–42. cikkében írt bennfentes kereskedelmet, illetve piaci manipulációt) gyanúja esetén; a bennfentes személyre vonatkozó bejelentési és közzétételi kötelezettségre vonatkozó szabályok ellenőrzése céljából; továbbá a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése céljából,
+g) piacfelügyeleti eljárást indít
+
+ga) az engedély nélkül vagy bejelentés hiányában végzett tevékenység észlelése esetén;
+
+gb) a bennfentes kereskedelem, a bennfentes információ jogosulatlan közzététele vagy piacbefolyásolás (a továbbiakban ideértve az 1031/2010/EU bizottsági rendelet 37–42. cikke szerinti bennfentes kereskedelmet, és piaci manipulációt) gyanúja esetén;
+
+gc) a vezetői feladatokat ellátó személyekre és a velük szoros kapcsolatban álló személyekre vonatkozó bejelentési kötelezettségre vonatkozó szabályok ellenőrzése céljából; továbbá
+
+gd) a 236/2012/EU európai parlamenti és tanácsi rendelet 5–8. cikkében előírt bejelentési és közzétételi kötelezettségre és 12–14. cikkében előírt fedezetlen ügyletek korlátozására vonatkozó szabályok ellenőrzése céljából,
 
 h) együttműködik a külföldi pénzügyi felügyeleti hatóságokkal, különösen az EGT államainak pénzügyi felügyeleti hatóságaival,
 

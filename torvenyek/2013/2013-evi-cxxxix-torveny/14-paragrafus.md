@@ -4,7 +4,7 @@
 
 (2) Az MNB belső ellenőrzési szervezete – a (3) bekezdésben foglalt korlátozással – a felügyelőbizottság, a felügyelőbizottság hatáskörébe nem tartozó feladatok tekintetében az igazgatóság irányítása alá tartozik. Amennyiben az igazgatóság az irányítási jogkörének gyakorlása során olyan vizsgálati megállapításról szerez tudomást, amely a felügyelőbizottság hatáskörébe tartozik, akkor erről a megállapításról haladéktalanul tájékoztatást ad a felügyelőbizottságnak.
 
-(3) A felügyelőbizottság ellenőrzési hatásköre nem terjed ki a 4. § (1)–(9) bekezdésében meghatározott feladatokra, illetve azoknak az MNB eredményére gyakorolt hatására. A felügyelőbizottság a Gt.-ben a számvitelről szóló törvény szerinti beszámolóval összefüggésben előírt jelentését ezen korlátozásoknak megfelelően készíti el.
+(3) A felügyelőbizottság ellenőrzési hatásköre nem terjed ki a 4. § (1)–(9) bekezdésében meghatározott feladatokra, illetve azoknak az MNB eredményére gyakorolt hatására. A felügyelőbizottság Ptk.-ban a számvitelről szóló törvény szerinti beszámolóval összefüggésben előírt jelentését ezen korlátozásoknak megfelelően készíti el.
 
 (4) A felügyelőbizottság tagjai:
 

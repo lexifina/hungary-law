@@ -2,7 +2,7 @@
 
 (2) A Pénzügyi Békéltető Testület elnökét az MNB elnöke nevezi ki hat évre.
 
-(3) A Pénzügyi Békéltető Testület elnökének tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó, MNB-től származó havi bére a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset nyolcszorosa.
+(3) A Pénzügyi Békéltető Testület elnökének tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó, MNB-től származó havi alapbére a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset nyolcszorosa.
 
 (4) A Pénzügyi Békéltető Testület elnökének megbízatása és az MNB-vel fennálló munkaviszonya megszűnik
 

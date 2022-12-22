@@ -4,11 +4,13 @@
 
 (2) Az MNB elnöke az (1) bekezdés szerinti rendeletében
 
-a) a Magyarország területén hitel- és pénzkölcsön nyújtási tevékenység keretében természetes személlyel kötött szerződések tekintetében
+a) a Magyarország területén hitel- és pénzkölcsön nyújtási, valamint pénzügyi lízing tevékenység keretében természetes személlyel kötött szerződések tekintetében
 
 aa) az ingatlan-, illetve gépjárműhitelek és pénzügyi lízingügyletek maximális hitelfedezeti arányára,
 
-ab) a jövedelemarányos törlesztőrészlet legfelső mértékére, valamint
+ab) a jövedelemarányos törlesztőrészlet legfelső mértékére,
+
+ac) a hitel-, illetve lízingtartozás jövedelem arányában megengedett maximális mértékére, valamint
 
 b) hitelintézetek és befektetési vállalkozások tekintetében a Magyarország területén elhelyezkedő lakóingatlanok és kereskedelmi
 

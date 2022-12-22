@@ -12,7 +12,7 @@ bc) kötelezi intézkedési terv kidolgozására és végrehajtására, akár a 
 
 bd) előírja rendkívüli, illetve visszamenőleges adatszolgáltatás teljesítését,
 
-be) elrendeli a forgalomban lévő törvényes fizetőeszközről, valamint az MNB által forgalomból bevont, de törvényes fizetőeszközre beváltható bankjegyről és érméről engedély nélkül készített utánzatok megsemmisítését,
+be) elrendeli a forgalomban lévő törvényes fizetőeszközről, valamint az MNB által forgalomból bevont bankjegyről és érméről engedély nélkül készített utánzatok megsemmisítését,
 
 bf) bírságot szab ki, vagy
 
