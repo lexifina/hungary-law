@@ -1,0 +1,1 @@
+2. § A 2022. június 30. napjáig folyósított költségvetési támogatások tekintetében az Ávr. 98. § (3) bekezdésében foglalt ügyleti kamat számításakor a 2021. július 1-jét követő minden naptári félév teljes idejére a 2021. július 1. napján érvényes jegybanki alapkamat az irányadó, kivéve, ha az Ávr. 98. § (3) bekezdése szerint számított ügyleti kamat mértéke ennél alacsonyabb.
