@@ -1,1 +1,3 @@
-1. § Hatályát veszti a külgazdasági és külügyminiszter által adományozható elismerésekről szóló 1/2014. (VII. 30.) KKM rendelet 12. § (1) bekezdésében a „– minisztérium állományába nem tartozó –” szövegrész.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
