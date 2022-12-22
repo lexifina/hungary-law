@@ -1,7 +1,3 @@
-3. § Hatályát veszti a 8/2017. (VIII. 3.) KKM rendelet
+3. §[^4]
 
-a) 3. § 1. pontjában a „ , távolléte esetén a biztonságtechnikai felelős helyettesíti”,
-
-b) 3. § 3. pontjában a „ , távolléte esetén a biztonsági felelős helyettesíti”
-
-szövegrész.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
