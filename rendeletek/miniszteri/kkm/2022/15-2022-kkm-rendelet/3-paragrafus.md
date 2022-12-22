@@ -1,5 +1,3 @@
-3. § Hatályát veszti a külképviseletek besorolásáról, valamint a tartós külszolgálaton lévőknek járó deviza-alapilletmény és költségtérítés kiszámításának részletes szabályairól szóló 3/2017. (II. 28.) KKM rendelet
+3. §[^3]
 
-a) 1. § (1) bekezdésében az „és kormányzati ügykezelőkre” szövegrész,
-
-b) 1. § (2) bekezdésében az „és kormányzati ügykezelőkre” szövegrész.
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
