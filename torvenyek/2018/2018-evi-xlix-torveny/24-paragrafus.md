@@ -1,3 +1,3 @@
 ## 12. Módosító rendelkezések
 
-24. §
+### 24. §

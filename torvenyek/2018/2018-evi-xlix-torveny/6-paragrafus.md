@@ -4,4 +4,4 @@
 
 (3) A szerződés átruházása esetén az átvevő személyt további közbeszerzési kötelezettség nem terheli, és a tervek felhasználási jogának átruházása esetén az átvevő személyt további tervpályázati vagy közbeszerzési kötelezettség nem terheli.
 
-(4) Az (1)–(3) bekezdésben meghatározott rendelkezéseket kell megfelelően alkalmazni a 3. § (1) bekezdése szerinti, a magyar állam 100%-os tulajdonában álló nonprofit gazdasági társaság és annak 100%-os tulajdonában álló nonprofit gazdasági társaság közötti szerződés átruházásra is.
+(4) Az (1)–(3) bekezdésben meghatározott rendelkezéseket kell megfelelően alkalmazni a 3. § (1) bekezdése szerinti, a magyar állam 100%-os tulajdonában álló gazdasági társaság, annak 100%-os tulajdonában álló gazdasági társaság, illetve költségvetési szerv közötti szerződés átruházásra is.
