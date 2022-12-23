@@ -2,7 +2,7 @@
 
 1. melléklet a 453/2015. (XII. 28.) Korm. rendelethez
 
-## A Gyöngyöshalászon megvalósuló ipari telephely létesítésével összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+A Gyöngyöshalászon megvalósuló ipari telephely létesítésével összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
