@@ -2,7 +2,7 @@
 
 1. melléklet a 202/2014. (VIII. 14.) Korm. rendelethez
 
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
+A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
 
 ## Az 1. § (1) bekezdésében foglalt beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek:
 
