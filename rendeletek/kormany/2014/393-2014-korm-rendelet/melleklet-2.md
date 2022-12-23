@@ -1,5 +1,3 @@
-## A HCM 1890 Kft. Miskolc területén megvalósuló új gyártóüzemének megvalósításával összefüggő nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások és az eljárások lefolytatására hatáskörrel rendelkező hatóságok
-
 |  | A | B | C | D |
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos eljárások | Eljáró hatóság |
