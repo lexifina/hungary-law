@@ -1,4 +1,4 @@
-## 82. §[^257] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 15/2022. (I. 20.) Korm. rendelettel (a továbbiakban: Módr74.) megállapított 2. mellékletében foglalt táblázat 84. sorát a Módr74. hatálybalépésekor[^258] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 82. §[^258] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 15/2022. (I. 20.) Korm. rendelettel (a továbbiakban: Módr74.) megállapított 2. mellékletében foglalt táblázat 84. sorát a Módr74. hatálybalépésekor[^259] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^257]: A 82. §-t a 15/2022. (I. 20.) Korm. rendelet 1. §-a iktatta be.
-[^258]: A hatálybalépés időpontja 2022. január 21.
+[^258]: A 82. §-t a 15/2022. (I. 20.) Korm. rendelet 1. §-a iktatta be.
+[^259]: A hatálybalépés időpontja 2022. január 21.
