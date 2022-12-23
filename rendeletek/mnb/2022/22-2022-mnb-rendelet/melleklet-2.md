@@ -1,18 +1,12 @@
-2. melléklet a 22/2022. (VI. 11.) MNB rendelethez[^5]
+2. melléklet a 22/2022. (VI. 11.) MNB rendelethez
 
-## A jelzáloghitel-finanszírozás megfelelési mutató számításának módja
+A jelzáloghitel-finanszírozás megfelelési mutató számításának módja
 
 1. A jelzáloghitel-finanszírozás megfelelési mutató az ingatlanon alapított jelzálogjog – ideértve az önálló zálogjogot – fedezete mellett nyújtott hitelek vagy pénzkölcsönök fedezete mellett bevont források és az 1 éven túli hátralévő lejáratú lakossági jelzáloghitel-állomány hányadosaként számítandó ki.
 
-2. A jelzáloghitel-finanszírozás megfelelési mutató számlálójában az alábbi források vehetők figyelembe:
+2.[^9] A jelzáloghitel-finanszírozás megfelelési mutató számlálójában az alábbi források vehetők figyelembe:
 
-a) a hitelintézeti csoport jelzálog-hitelintézet tagja által
-
-aa) 2023. szeptember 30-ig kibocsátott,
-
-ab) 2023. szeptember 30-át követően kibocsátott, tőzsdére bevezetett
-
-jelzáloglevél-állomány,
+a) a hitelintézeti csoport jelzálog-hitelintézet tagja által kibocsátott jelzáloglevél-állomány,
 
 b) a kapott refinanszírozási jelzáloghitelek,
 
@@ -68,13 +62,13 @@ ZRF: zöld refinanszírozási jelzáloghitel a fedezetül szolgáló különvál
 
 ZTF: az összesen rendes fedezetként rendelkezésre álló zöld jelzáloghitelek és zöld refinanszírozási hitelek állományának és a kibocsátott zöld jelzáloglevelek névértékének hányadosa.
 
-12.
+12.[^10]
 
-13.
+13.[^11]
 
-14.
+14.[^12]
 
-15.
+15.[^13]
 
 16. A jelzáloghitel-finanszírozás megfelelési mutató nevezője az éven túli hátralévő lejáratú, lakossági jelzáloghitel-állomány könyv szerinti nettó értéke.
 
@@ -82,4 +76,8 @@ ZTF: az összesen rendes fedezetként rendelkezésre álló zöld jelzáloghitel
 
 18. Az önálló zálogjog adásvétele, valamint az ennek kapcsán fennálló visszavásárlási vételár esetén a zöld refinanszírozási jelzáloghitelre vonatkozó rendelkezések megfelelően alkalmazandók.
 
-[^5]: A 2. melléklet 12–15. pontja a 4. § (2) bekezdése alapján 2023. október 1-jén lép hatályba.
+[^9]: A 2. melléklet 2. pontja az 58/2022. (XII. 22.) MNB rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^10]: A 2. melléklet 12. pontja az 58/2022. (XII. 22.) MNB rendelet 1. § (3) bekezdése alapján nem lép hatályba.
+[^11]: A 2. melléklet 13. pontja az 58/2022. (XII. 22.) MNB rendelet 1. § (3) bekezdése alapján nem lép hatályba.
+[^12]: A 2. melléklet 14. pontja az 58/2022. (XII. 22.) MNB rendelet 1. § (3) bekezdése alapján nem lép hatályba.
+[^13]: A 2. melléklet 15. pontja az 58/2022. (XII. 22.) MNB rendelet 1. § (3) bekezdése alapján nem lép hatályba.

@@ -16,7 +16,7 @@
 
 8. refinanszírozási jelzáloghitel: a Jht. 5. § (1) bekezdése szerinti pénzkölcsönnyújtás;
 
-9. tőzsde: a tőkepiacról szóló 2001. évi CXX. törvény 5. § (1) bekezdés 122. pontjában meghatározott vállalkozás;
+9.[^2]
 
 10. visszavásárlási vételár: a Jht. 8. § (5) bekezdése szerinti fogalom;
 
@@ -26,4 +26,5 @@
 
 13. zöld refinanszírozási jelzáloghitel: olyan refinanszírozási jelzáloghitel, amely fedezetéül szolgáló különvált jelzálogjogok zöld jelzáloghitelek biztosítékai.
 
-[^1]: A 2. § 1. pontja a 4. § (2) bekezdése alapján 2023. október 1-jén lép hatályba.
+[^1]: A 2. § 1. pontja az 58/2022. (XII. 22.) MNB rendelet 1. § (5) bekezdése alapján nem lép hatályba.
+[^2]: A 2. § 9. pontját az 58/2022. (XII. 22.) MNB rendelet 1. § (4) bekezdés a) pontja hatályon kívül helyezte.
