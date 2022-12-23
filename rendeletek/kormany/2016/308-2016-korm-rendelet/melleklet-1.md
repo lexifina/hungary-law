@@ -1,8 +1,8 @@
-## 8. §[^11] E rendeletnek a Módr.-rel megállapított 4/A. §-át és 5/A. §-át a Módr. hatálybalépésekor[^12] folyamatban lévő közigazgatási hatósági eljárásokban is alkalmazni kell.
+## 8. §[^12] E rendeletnek a Módr.-rel megállapított 4/A. §-át és 5/A. §-át a Módr. hatálybalépésekor[^13] folyamatban lévő közigazgatási hatósági eljárásokban is alkalmazni kell.
 
 1. melléklet a 308/2016. (X. 13.) Korm. rendelethez
 
-## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -50,5 +50,5 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^11]: A 8. §-t a 257/2017. (IX. 5.) Korm. rendelet 3. §-a iktatta be.
-[^12]: A hatálybalépés időpontja 2017. szeptember 6.
+[^12]: A 8. §-t a 257/2017. (IX. 5.) Korm. rendelet 3. §-a iktatta be.
+[^13]: A hatálybalépés időpontja 2017. szeptember 6.
