@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-225-20-
 | 2018-01-01 | 2013-225-20-22.10 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2020-03-01 | 2013-225-20-22.11 | 361/2019. (XII. 30.) Korm. rendelet |
 | 2020-07-31 | 2013-225-20-22.12 | 72/2015. (III. 30.) Korm. rendelet |
+| 2022-12-23 | 2013-225-20-22.13 | 72/2015. (III. 30.) Korm. rendelet |
