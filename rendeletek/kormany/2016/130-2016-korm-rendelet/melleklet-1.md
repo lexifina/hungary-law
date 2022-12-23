@@ -2,7 +2,7 @@
 
 1. melléklet a 130/2016. (VI. 7.) Korm. rendelethez
 
-## A Beruházással összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek:
+A Beruházással összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek:
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
