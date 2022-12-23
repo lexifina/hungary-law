@@ -2,7 +2,7 @@
 
 1. melléklet a 22/2017. (II. 2.) Korm. rendelethez
 
-## Az 1. § (1) bekezdése szerinti beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek:
+Az 1. § (1) bekezdése szerinti beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek:
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
