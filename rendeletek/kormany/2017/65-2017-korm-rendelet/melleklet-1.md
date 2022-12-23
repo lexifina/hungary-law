@@ -2,7 +2,7 @@
 
 1. melléklet a 65/2017. (III. 20.) Korm. rendelethez
 
-## Az 1. §-ban foglalt beruházásokkal összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági eljárások
+Az 1. §-ban foglalt beruházásokkal összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági eljárások
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
