@@ -1,0 +1,1 @@
+2. § 2022. december 27. napjával a BMSK Zrt. tételes jegyzőkönyv felvétele mellett az e rendeletben meghatározottak szerint átadásra kerülő Feladatok vonatkozásában az azokhoz kapcsolódó valamennyi iratot és adatot átadja, a feladatellátáshoz szükséges vagy azt előmozdító valamennyi adatbázishoz való hozzáférést biztosítja a Nemzeti Sportügynökség Nonprofit Zrt. részére.
