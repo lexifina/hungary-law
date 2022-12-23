@@ -2,7 +2,7 @@
 
 1. melléklet a 131/2017. (VI. 8.) Korm. rendelethez
 
-## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági eljárások
+A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági eljárások
 
 1. általános építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
