@@ -6,6 +6,6 @@ b) a Martonvásár város külterületén az ingatlan-nyilvántartás szerinti M
 
 c) a Martonvásár város belterületén az ingatlan-nyilvántartás szerinti Martonvásár 174, 175, 176, 211, 274 helyrajzi számok alatt elhelyezkedő ingatlan (Brunszvik kastély parkja) területén agrár-innovációs, kutatás-fejlesztési beruházásokkal
 
-## (a továbbiakban együtt: Beruházás) kapcsolatos, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+(a továbbiakban együtt: Beruházás) kapcsolatos, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
 
 (2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
