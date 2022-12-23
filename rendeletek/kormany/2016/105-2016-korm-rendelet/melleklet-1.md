@@ -1,8 +1,8 @@
-## 8. §[^6] E rendeletnek a nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 106/2019. (V. 8.) Korm. rendelettel (a továbbiakban: MódR.) megállapított 1. § (1) bekezdését a MódR. hatálybalépésekor[^7] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 8. §[^7] E rendeletnek a nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 106/2019. (V. 8.) Korm. rendelettel (a továbbiakban: MódR.) megállapított 1. § (1) bekezdését a MódR. hatálybalépésekor[^8] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 105/2016. (V. 13.) Korm. rendelethez
 
-## A Budapest XI. kerület Kopaszi-gát környezetében megvalósuló ingatlanfejlesztési beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Budapest XI. kerület Kopaszi-gát környezetében megvalósuló ingatlanfejlesztési beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -48,5 +48,5 @@
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^6]: A 8. §-t a 106/2019. (V. 8.) Korm. rendelet 2. §-a iktatta be.
-[^7]: A hatálybalépés időpontja 2019. május 9.
+[^7]: A 8. §-t a 106/2019. (V. 8.) Korm. rendelet 2. §-a iktatta be.
+[^8]: A hatálybalépés időpontja 2019. május 9.
