@@ -2,7 +2,7 @@
 
 1. melléklet a 143/2014. (IV. 30.) Korm. rendelethez
 
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
+A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
 
 ## Az 1. § (1) bekezdésben foglalt beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek:
 
