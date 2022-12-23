@@ -274,17 +274,7 @@
 
 | Határidő: | 2023. június 30. |
 
-## 5. Hatályát veszti
-
-## 5.1. a Magyar–Szlovén Kisebbségi Vegyes Bizottság XII. ülésén elfogadott ajánlások jóváhagyásáról szóló 1326/2012. (IX. 7.) Korm. határozat,
-
-## 5.2. a Magyar–Szlovén Kisebbségi Vegyes Bizottság XIII. ülésén elfogadott és fenntartott ajánlások jóváhagyásáról szóló 1720/2013. (X. 11.) Korm. határozat,
-
-## 5.3. a Magyar–Szlovén Kisebbségi Vegyes Bizottság XV. ülésén elfogadott és fenntartott ajánlások jóváhagyásáról szóló 1266/2016. (VI. 7.) Korm. határozat,
-
-## 5.4. a Magyar–Szlovén Kisebbségi Vegyes Bizottság XVI. ülésén fenntartott és elfogadott ajánlások jóváhagyásáról szóló 1075/2017. (II. 13.) Korm. határozat, valamint
-
-## 5.5. a Magyar–Szlovén Kormányközi Kisebbségi Vegyes Bizottság XVII. ülésén fenntartott és elfogadott ajánlások jóváhagyásáról szóló 1150/2018. (III. 26.) Korm. határozat.
+## 5.[^1]
 
 1. melléklet a 1647/2022. (XII. 22.) Korm. határozathoz
 
@@ -413,3 +403,5 @@ A KVB javasolja a szlovén félnek a kétnyelvű nevelő-oktató intézményekre
 23. A KVB javasolja a szlovén félnek, hogy a 2. Számú Lendvai Kétnyelvű Általános Iskolára (sajátos nevelési igényű tanulókat nevelő-oktató iskola) vonatkozóan fontolja meg egy alkalmazott oktatási szintű program megvalósítására irányuló munkaterv elfogadását.
 
 24. A KVB javasolja a magyar félnek, hogy vizsgálja meg a Rába-vidéken működő települési nemzetiségi önkormányzatok számára további források növelésének lehetőségét.
+
+[^1]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
