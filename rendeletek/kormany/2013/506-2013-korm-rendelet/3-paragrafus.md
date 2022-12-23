@@ -1,5 +1,3 @@
-## 2. §[^2] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
-
 3. § (1)[^3]
 
 (2)[^4]
@@ -18,7 +16,6 @@ b) beruházással összefüggésben településképi bejelentési eljárásnak n
 
 c) beruházással összefüggésben nem kell építészeti-műszaki tervtanácsi véleményt beszerezni.
 
-[^2]: A 2. § a 72/2015. (III. 30.) Korm. rendelet 67. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
 [^3]: A 3. § (1) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 115. § b) pontja hatályon kívül helyezte.
 [^4]: A 3. § (2) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 221. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^5]: A 3. § (3) bekezdése a 458/2017. (XII. 28.) Korm. rendelet 113. §-ával megállapított szöveg.
