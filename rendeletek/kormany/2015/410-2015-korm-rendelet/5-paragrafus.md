@@ -1,1 +1,3 @@
-## 4. § A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként Budapest Főváros Kormányhivatalát vezető kormánymegbízottat jelöli ki.
+5. §[^10]
+
+[^10]: Az 5. §-t a 411/2021. (VII. 12.) Korm. rendelet 3. §-a hatályon kívül helyezte.

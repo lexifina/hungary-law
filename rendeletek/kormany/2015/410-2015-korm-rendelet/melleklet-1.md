@@ -1,6 +1,6 @@
 1. melléklet a 410/2015. (XII. 15.) Korm. rendelethez
 
-## A Beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé nyilvánított hatósági eljárások
+A Beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé nyilvánított hatósági eljárások
 
 1. építésügyi és építésfelügyeleti hatósági eljárások,
 
@@ -26,7 +26,7 @@
 
 12. bányahatósági engedélyezési eljárások,
 
-13.[^14] tűzvédelmi hatósági eljárások,
+13.[^15] tűzvédelmi hatósági eljárások,
 
 14. élelmiszerlánc-felügyeleti eljárás,
 
@@ -36,4 +36,4 @@
 
 17. az 1–16. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^14]: Az 1. melléklet 13. pontja a 271/2016. (IX. 1.) Korm. rendelet 76. § (2) bekezdése szerint módosított szöveg.
+[^15]: Az 1. melléklet 13. pontja a 271/2016. (IX. 1.) Korm. rendelet 76. § (2) bekezdése szerint módosított szöveg.

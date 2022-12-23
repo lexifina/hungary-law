@@ -1,3 +1,3 @@
-## 3. §[^8]
+4. §[^9] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
 
-[^8]: A 3. §-t a 458/2017. (XII. 28.) Korm. rendelet 217. § c) pontja hatályon kívül helyezte.
+[^9]: A 4. § az 546/2022. (XII. 22.) Korm. rendelet 92. § a) és b) pontja szerint módosított szöveg.
