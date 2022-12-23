@@ -1,5 +1,3 @@
-## A Beruházásokkal érintett ingatlanok
-
 |  | A | B |
 
 | 1. | Beruházás megnevezése | Beruházás azonosító adatai (ingatlan-nyilvántartás szerinti helyrajzi szám) |
@@ -12,7 +10,7 @@
 
 | 5. | Országos Reumatológiai és Fizioterápiás Intézet (ORFI): a) a Lukács épület műemlékvédelmi homlokzat- és tetőszerkezet-rekonstrukciója, osztályok komfortosítása, b) Esplanade épület VI. emelet felújítása, a III., IV. és V. emelet komfortosítása, c) a Központi Szakambulancia és Rendelőintézet A és B épületek homlokzati felújítása és nyílászárócsere, d) új egészségturisztikai tömb építése. | Budapest belterület 14481 belterület 14493 belterület 14519/2 |
 
-| 6. | Országos Korányi Pulmonológiai Intézet (OKPI): a) új aktív tömb (műtőblokkal, új intenzív egységgel, intenzív terápiás részleggel) felépítése, b) új bronchológiai laboratórium, non invazív lélegeztetési egység, kemoterápiás kezelő, légzésfunkciós laboratórium kialakítása, c) új patológiai laboratórium, betegfelvételi tüdőosztály, tüdőosztályok és mellkassebészeti osztály kialakítása, d) a B épület felújítása, e) a műemléki védettséget élvező A-B hall rész felújítása, f) az intézmény közműhálózatának felújítása. | Budapest belterület 10886/33 |
+| 6. | Országos Korányi Pulmonológiai Intézet (OKPI): a) új aktív tömb (műtőblokkal, új intenzív egységgel, intenzív terápiás részleggel) felépítése, b) új bronchológiai laboratórium, non invazív lélegeztetési egység, kemoterápiás kezelő, légzésfunkciós laboratórium kialakítása, c) új patológiai laboratórium, betegfelvételi tüdőosztály, tüdőosztályok és mellkassebészeti osztály kialakítása, d) e) a műemléki védettséget élvező A-B hall rész felújítása, f) az intézmény közműhálózatának felújítása. | Budapest belterület 10886/33 |
 
 | 7. | Dél-pesti Centrumkórház – Országos Hematológiai és Infektológiai Intézet: a) új kórházi tömb építése a Szent István Kórház telephelyen, a megmaradó épületek felújítása, b) az új kórházi tömb építési területén lévő épületek bontása, az ott működő osztályok átmeneti átköltöztetése a Szent László Kórház és a Merényi Gusztáv Kórház telephelyekre, c) Szent László Kórház telephelyen az új kórházi tömbbe történő visszaköltöztetést követően a krónikus és rehabilitációs ellátást szolgáló épületek felújítása. | Budapest belterület 38288 belterület 38239 belterület 38283/5 belterület 38283/6 belterület 38283/7 belterület 38283/8 |
 
@@ -20,9 +18,9 @@
 
 | 9. | Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézet: a) a Fiumei úti telephelyen működő osztályok többségének átköltöztetése a Dél-pesti Centrumkórházba, b) az a) pontban nem említett többi telephelyen komfortosítás, c) új épületek építése, d) régi épületek felújítása. | Budapest belterület 33125 belterület 33591 belterület 33625 belterület 33641 belterület 34720 |
 
-| 10. | Jahn Ferenc Dél-pesti Kórház és Rendelőintézet: a) új műtéti, diagnosztikai és járóbeteg-szakellátási tömbépület kialakítása, b) egynapos sebészeti részleg, sürgősségi osztály bővítése, c) bölcsőde, óvoda kialakítása, d) régi épületek műszaki felújítása és komfortosítása, e) a csepeli rehabilitációs-krónikus telephely, valamint a járóbeteg-szakrendelői telephelyek felújítása, komfortosítása, f) a csepeli telephelyen új hospice osztály kialakítása. | Budapest belterület 182640/1 belterület 182640/2 belterület 210336 belterület 170424/2 Gyál belterület 2617 |
+| 10. | Jahn Ferenc Dél-pesti Kórház és Rendelőintézet: a) új műtéti, diagnosztikai és járóbeteg-szakellátási tömbépület kialakítása, b) egynapos sebészeti részleg, sürgősségi osztály bővítése, c) bölcsőde, óvoda kialakítása, d) e) f) a csepeli telephelyen új hospice osztály kialakítása. | Budapest belterület 182640/1 belterület 182640/2 belterület 210336 Gyál belterület 2617 |
 
-| 11. | Bajcsy-Zsilinszky Kórház és Rendelőintézet: a) a központi telephelyen új tömbépület építése, meglévő épületek átalakítása, bővítése, b) a X. kerületi járóbeteg-szakrendelő átköltöztetése a fő telephelyen kialakított új épületbe, c) a XVII. kerületi szakrendelő felújítása és bővítése, d) a monori és a gyömrői járóbeteg-szakrendelők felújítása, e) a központi telephelyen kazánház-átépítés, energetikai rekonstrukció, f) műszaki állagjavító munkálatok, komfortosítás, g) sürgősségi osztály fejlesztése, h) a Gizella és a Paula telephelyen: energetikai rekonstrukció, komfortosítás, gépészeti felújítás, állagjavítás és funkcionális bővítés. | Budapest belterület 39135 belterület 41062/1 belterület 40578 belterület 125393/13 belterület 40579 Monor belterület 5279/6 belterület 5279/8 belterület 5279/11 Gyömrő belterület 8 belterület 9 |
+| 11. | Bajcsy-Zsilinszky Kórház és Rendelőintézet: a) a központi telephelyen új tömbépület építése, meglévő épületek átalakítása, bővítése, b) a X. kerületi járóbeteg-szakrendelő átköltöztetése a fő telephelyen kialakított új épületbe, c) a XVII. kerületi szakrendelő felújítása és bővítése, d) a monori és a gyömrői járóbeteg-szakrendelők felújítása, e) f) g) sürgősségi osztály fejlesztése, h) | Budapest belterület 39135 belterület 40578 belterület 40579 Monor belterület 5279/6 belterület 5279/8 belterület 5279/11 Gyömrő belterület 8 belterület 9 |
 
 | 12. | Országos Sportegészségügyi Intézet (OSEI): az Intézet végleges elhelyezése a Budapest XI., Karolina út 27. szám alatti ingatlanban, az épület felújítása, átalakítása. | Budapest belterület 4618/6 |
 
@@ -30,19 +28,19 @@
 
 | 14. | Országos Klinikai Idegtudományi Intézet (OKITI): a) új tömb építése, hybrid műtő létrehozása, b) a régi épületekben műszaki felújítás, c) gőzellátó – elektromos rendszer felújítása, komfortosítás. | Budapest belterület 31571/2 |
 
-| 15. | Szent Margit Kórház: a) A-B-C épületek (műtőblokk, kórtermek, konyhaüzem) felújítása, komfortosítása, b) új D épületszárny kialakítása az új műveseállomás és krónikus osztály elhelyezése céljából. | Budapest belterület 16237/1 belterület 62447 belterület 16247/2 |
+| 15. | Szent Margit Kórház: a) b) új D épületszárny kialakítása az új műveseállomás és krónikus osztály elhelyezése céljából. | Budapest belterület 62447 belterület 16247/2 |
 
 | 16. | Pest Megyei Flór Ferenc Kórház (Kistarcsa): a) konyhaüzem felújítása, b) energetikai korszerűsítéshez kapcsolódó felújítások (függönyfal, csővezetékek, villamosság), c) liftek cseréje, d) közüzemi úthálózat felújítása, e) új járóbeteg-szakrendelő épület építése, f) új belgyógyászati épület építése, g) az A és B épületek felújítása, komfortosítása. | Kistarcsa belterület 3144/2 belterület 3144/16 |
 
 | 17. | Uzsoki Utcai Kórház: a) klimatizálás és erősáramú betáplálás bővítése, b) új klinikai és rehabilitációs tömb építése, c) a Hungária körúti rehabilitációs osztályok fő telephelyre költöztetése, d) régi épületek felújítása és komfortosítása, e) parkolóház építése, f) raktárbázis kialakítása, g) energetikai rekonstrukció, h) épületbontások. | Budapest belterület 31524 belterület 32272 belterület 31644 |
 
-| 18. | Toldy Ferenc Kórház (Cegléd): a) új belgyógyászati szárny építése, b) telephelyek összevonásával új, többszintes járóbeteg-szakrendelő létesítése, c) a városi szakrendelő, valamint a tüdőgondozó beköltöztetése az új épületbe, a fő telephelyre, d) sürgősségi osztály bővítése, e) régi épületek felújítása, komfortosítása, f) energetikai beruházás. | Cegléd belterület 161 belterület 4068/2 belterület 4075/1 belterület 160 belterület 488 |
+| 18. | Toldy Ferenc Kórház (Cegléd): a) új belgyógyászati szárny építése, b) telephelyek összevonásával új, többszintes járóbeteg-szakrendelő létesítése, c) a városi szakrendelő, valamint a tüdőgondozó beköltöztetése az új épületbe, a fő telephelyre, d) sürgősségi osztály bővítése, e) f) energetikai beruházás. | Cegléd belterület 161 belterület 4068/2 belterület 160 belterület 488 |
 
 | 19. | Törökbálinti Tüdőgyógyintézet: a) a rendelőintézet beruházásának befejezése, b) meglévő épületek komfortosítása, c) kert és belső úthálózat, kültéri parkoló megújítása. | Törökbálint belterület 22 |
 
 | 20. | Nagykőrösi Rehabilitációs Szakkórház és Rendelőintézet: a) meglévő épületek műszaki fejlesztése, b) gyógyfürdő- és egészségturisztikai beruházás. | Nagykőrös belterület 3394/4 belterület 3394/2 belterület 3394/3 |
 
-| 21. | Jávorszky Ödön Kórház (Vác): a) új járóbetegszakrendelő-tömb építése, b) régi kórházi tömb műszaki felújítása, komfortosítása. | Vác belterület 365/5 belterület 365/7 belterület 365/10 belterület 365/3 belterület 365/8 belterület 365/11 belterület 365/6 belterület 365/9 |
+| 21. | Jávorszky Ödön Kórház (Vác): a) új járóbetegszakrendelő-tömb építése, b) | Vác belterület 365/5 belterület 365/7 belterület 365/10 belterület 365/3 belterület 365/8 belterület 365/11 belterület 365/9 |
 
 | 22. | Szent Kozma és Damján Rehabilitációs Szakkórház (Visegrád): a) új diagnosztikai épület építése, b) a főépület földszintjén a betegellátó osztályok és a kiszolgáló egységek felújítása, c) konyhaüzem felújítása, d) a főépülethez új éttermi szárny hozzáépítése, e) a hozzáépített épületrészben új kórtermek kialakítása, f) új kórházi fogadóépület építése, g) közműfelújítások, h) parkoló és közlekedőutak felújítása és kialakítása, külső tereprendezés és parkosítás, i) energetikai korszerűsítés. | Visegrád külterület 041/1 külterület 042 külterület 043 belterület 1288/1 belterület 1293 belterület 1294 belterület 1295 belterület 1296 |
 
@@ -86,9 +84,9 @@
 
 | 42. | Egykori Schöpf-Merei Kórház Vázsonyi Vilmos Idősek Otthona: a Semmelweis Egyetem Gyógyszerésztudományi Karának fejlesztési projektje, ennek részeként a Hőgyes-Schöpf-Merei gyógyszerkutatási centrum kialakítása. | Budapest belterület 36873 belterület 36873/0/A/1 belterület 36873/0/B/1 belterület 36873/0/C/1 belterület 36873/0/A/2 |
 
-| 43. | Semmelweis Egyetem, Egészségtudományi Kar: a Kar Vas utcai tömbjének fejlesztése, ami magában foglalja a Hagyományos Kínai Orvoslás Részleg kialakítását. | Budapest belterület 36498 |
+| 43. |  |  |
 
-| 44. | Semmelweis Egyetem Egészségügyi Közszolgálati Kar: az Egészségügyi Menedzserképző Központ épületének felújítása, infrastruktúra-fejlesztése. | Budapest belterület 10733/12 belterület 9520 |
+| 44. |  |  |
 
 | 45. | Semmelweis Egyetem, Külső Klinikai Tömb: a) a Semmelweis Egyetem Külső Klinikai Tömb klinikáinak a Korányi tömbhöz kapcsolódó felújítása, b) Semmelweis Egyetem Pulmonológiai Klinika beköltöztetése. | Budapest belterület 36177/1 belterület 36164 |
 
@@ -170,7 +168,7 @@
 
 | 84. | Herceghalom kutatólabor kialakítása | Herceghalom belterület 267/2 belterület 268 |
 
-3. melléklet a 98/2017. (IV. 27.) Korm. rendelethez[^19]
+3. melléklet a 98/2017. (IV. 27.) Korm. rendelethez[^20]
 
 A 4/B. § szerinti beruházások során az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának szükséges időtartama
 
@@ -180,4 +178,4 @@ A 4/B. § szerinti beruházások során az építési tevékenység költséghat
 
 | 2. | A 2. mellékletben foglalt táblázat 41. és 42. sorában megjelölt ingatlanon megvalósuló beruházás | Budapest IX. kerület, belterület 36868, 36873, 36873/0/A/1, 36873/0/B/1, 36873/0/C/1, 36873/0/A/2 helyrajzi számú ingatlan | Budapest 36863, 36850/2, 36930/2 helyrajzi számú ingatlan | 2022. 01. 01. – 2025. 12. 31. |
 
-[^19]: A 3. mellékletet az 521/2021. (IX. 6.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^20]: A 3. mellékletet az 521/2021. (IX. 6.) Korm. rendelet 4. § (2) bekezdése iktatta be.

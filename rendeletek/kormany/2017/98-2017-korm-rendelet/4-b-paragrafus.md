@@ -1,4 +1,4 @@
-4/B. §[^8] (1) A 2. mellékletben foglalt táblázat 41. és 42. sorában megjelölt ingatlanokon megvalósuló beruházásra (e § alkalmazásában a továbbiakban együtt: Beruházás) irányuló közbeszerzési eljárásoknál az építtető – a 322/2015. (X. 30.) Korm. rendelet 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet a 322/2015. (X. 30.) Korm. rendelet 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
+4/B. §[^9] (1) A 2. mellékletben foglalt táblázat 41. és 42. sorában megjelölt ingatlanokon megvalósuló beruházásra (e § alkalmazásában a továbbiakban együtt: Beruházás) irányuló közbeszerzési eljárásoknál az építtető – a 322/2015. (X. 30.) Korm. rendelet 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet a 322/2015. (X. 30.) Korm. rendelet 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
 
 (2) A Beruházás során érintett Budapest, belterület 36868 helyrajzi számú ingatlanokra, illetve a Budapest, belterület 36873 helyrajzi számú ingatlan tekintetében, a 36873/0/A/1, 36873/0/B/1, 36873/0/C/1, 36873/0/A/2 albetétek tekintetében meghatározott sajátos beépítési szabályok:
 
@@ -48,4 +48,4 @@ g) bővítés, átalakítás és rendeltetésmódosítás esetén a parkolófér
 
 (11) A Beruházás során a szükséges közműellátás a telkek egyesítése után is biztosítható több betáplálási ponton.
 
-[^8]: A 4/B. §-t az 521/2021. (IX. 6.) Korm. rendelet 2. §-a iktatta be.
+[^9]: A 4/B. §-t az 521/2021. (IX. 6.) Korm. rendelet 2. §-a iktatta be.

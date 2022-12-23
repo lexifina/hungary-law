@@ -1,4 +1,4 @@
-4/C. §[^9] (1) A 2. mellékletben foglalt táblázat 46. sorában megjelölt ingatlanon megvalósuló beruházásra (e § alkalmazásában a továbbiakban: Beruházás) irányuló közbeszerzési eljárásoknál az építtető – a 322/2015. (X. 30.) Korm. rendelet 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet a 322/2015. (X. 30.) Korm. rendelet 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
+4/C. §[^10] (1) A 2. mellékletben foglalt táblázat 46. sorában megjelölt ingatlanon megvalósuló beruházásra (e § alkalmazásában a továbbiakban: Beruházás) irányuló közbeszerzési eljárásoknál az építtető – a 322/2015. (X. 30.) Korm. rendelet 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet a 322/2015. (X. 30.) Korm. rendelet 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
 
 (2) A Beruházás során érintett Budapest, belterület 36771/14 helyrajzi számú ingatlanra meghatározott sajátos beépítési szabályok:
 
@@ -32,4 +32,4 @@ f) új épület vagy meglévő épület bővítésének építési helyén a meg
 
 (7) Bővítés, átalakítás és rendeltetésmódosítás esetén a parkolóférőhelyek száma meghatározásának alapját a teljes ellátandó rendeltetés képezi, de csak a keletkező többlet személygépjármű elhelyezési kötelezettséget kell – a (6) bekezdésben meghatározott mértékben – biztosítani.
 
-[^9]: A 4/C. §-t az 521/2021. (IX. 6.) Korm. rendelet 2. §-a iktatta be.
+[^10]: A 4/C. §-t az 521/2021. (IX. 6.) Korm. rendelet 2. §-a iktatta be.
