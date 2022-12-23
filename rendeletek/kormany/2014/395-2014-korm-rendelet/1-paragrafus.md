@@ -6,7 +6,7 @@ b) park, valamint
 
 c) mélygarázs
 
-## kialakítására irányuló beruházásokkal (a továbbiakban együtt: Beruházások) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+kialakítására irányuló beruházásokkal (a továbbiakban együtt: Beruházások) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
 
 (2)[^2] Az (1) bekezdés alkalmazásában a Beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek a Beruházások megvalósításához, működésének megkezdéséhez és használatbavételéhez, valamint a Beruházással érintett ingatlanokon álló közterületi szobrok bontásához és azok azonos helyen vagy más ingatlanokon való felállításához szükségesek.
 

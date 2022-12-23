@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-395-20-
 | 2018-04-10 | 2014-395-20-22.11 | 497/2016. (XII. 28.) Korm. rendelet |
 | 2020-03-01 | 2014-395-20-22.12 | 361/2019. (XII. 30.) Korm. rendelet |
 | 2021-07-16 | 2014-395-20-22.13 | 420/2021. (VII. 15.) Korm. rendelet |
+| 2022-12-23 | 2014-395-20-22.14 | 72/2015. (III. 30.) Korm. rendelet |
