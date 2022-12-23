@@ -2,7 +2,7 @@
 
 1. melléklet a 95/2016. (V. 2.) Korm. rendelethez
 
-## Az Európa Center Miskolc Beruházó és Szolgáltató Kft. Szirmabesenyő külterületén és az Európa Center Miskolc Üzleti és Logisztikai Ipari Parkban megvalósuló beruházásának megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+Az Európa Center Miskolc Beruházó és Szolgáltató Kft. Szirmabesenyő külterületén és az Európa Center Miskolc Üzleti és Logisztikai Ipari Parkban megvalósuló beruházásának megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
