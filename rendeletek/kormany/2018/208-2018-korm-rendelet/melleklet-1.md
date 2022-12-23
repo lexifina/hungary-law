@@ -2,7 +2,7 @@
 
 1. melléklet a 208/2018. (XI. 10.) Korm. rendelethez
 
-## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű ügyekké nyilvánított közigazgatási hatósági ügyek
+A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű ügyekké nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
