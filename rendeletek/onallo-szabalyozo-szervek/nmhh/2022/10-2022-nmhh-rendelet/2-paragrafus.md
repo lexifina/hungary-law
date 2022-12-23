@@ -1,0 +1,1 @@
+2. § Hatályát veszti a közszolgálati médiaszolgáltatások digitális vételének biztosítása érdekében adható állami támogatás és az azzal összefüggő adatszolgáltatás, adatkezelés rendjéről szóló 4/2013. (I. 18.) NMHH rendelet.
