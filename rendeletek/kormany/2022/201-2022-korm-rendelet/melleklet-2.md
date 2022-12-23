@@ -1,5 +1,3 @@
-## A Projekttel érintett települések
-
 |  | A | B |
 
 | 1. | Projekt megnevezése | Projekttel érintett települések |
@@ -8,7 +6,7 @@
 
 2. melléklet a 201/2022. (VI. 7.) Korm. rendelethez
 
-## A Projekttel összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Projekttel összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
 
