@@ -1,3 +1,0 @@
-1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a Környezet és Energia Operatív Program KEOP-2012-5.6.0 kódszámú, „Központi költségvetési szervek energiahatékonysági beruházásai” című projekthez kapcsolódó, a fővárosi és megyei kormányhivatalok által megvalósítandó beruházásokkal összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
-
-(2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni azokat a közigazgatási hatósági ügyeket, amelyek a beruházás megvalósításához, használatbavételéhez és a működés megkezdéséhez közvetlenül szükségesek.
