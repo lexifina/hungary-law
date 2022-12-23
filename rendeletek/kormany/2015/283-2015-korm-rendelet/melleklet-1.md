@@ -1,8 +1,8 @@
-## 7. §[^3] E rendeletnek az OBO Bettermann Hungary Kft. és a Bettermann Ingatlankezelő Kft. Bugyi külterületén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 283/2015. (IX. 25.) Korm. rendelet módosításáról szóló 134/2020. (IV. 17.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 1. § (1) bekezdését a Módr1. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^4] E rendeletnek az OBO Bettermann Hungary Kft. és a Bettermann Ingatlankezelő Kft. Bugyi külterületén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 283/2015. (IX. 25.) Korm. rendelet módosításáról szóló 134/2020. (IV. 17.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 1. § (1) bekezdését a Módr1. hatálybalépésekor[^5] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 283/2015. (IX. 25.) Korm. rendelethez
 
-## Az OBO Bettermann Hungary Kft. és a Bettermann Ingatlankezelő Kft. Bugyi külterületén megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+Az OBO Bettermann Hungary Kft. és a Bettermann Ingatlankezelő Kft. Bugyi külterületén megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -50,5 +50,5 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^3]: A 7. §-t a 134/2020. (IV. 17.) Korm. rendelet 2. §-a iktatta be.
-[^4]: A hatálybalépés időpontja 2020. április 18.
+[^4]: A 7. §-t a 134/2020. (IV. 17.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A hatálybalépés időpontja 2020. április 18.
