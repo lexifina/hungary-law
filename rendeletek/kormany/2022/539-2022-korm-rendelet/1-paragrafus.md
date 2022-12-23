@@ -1,0 +1,3 @@
+1. § Az egyes egészségügyi ellátásokhoz való hatékonyabb hozzáférést elősegítő veszélyhelyzeti intézkedésekről szóló 417/2022. (X. 27.) Korm. rendelet a következő 2/A. §-sal egészül ki:
+
+„2/A. § A Gytv. 25. § (2e) bekezdése alapján engedélyezett gyógyszer – a járványügyi készültség bevezetéséről szóló 283/2020. (VI. 17.) Korm. rendelet szerint elrendelt egészségügyi válsághelyzet (a továbbiakban: egészségügyi válsághelyzet) megszűnése esetén – a gyógyszer lejárati idejéig adományozható, a betegek számára hozzáférhetővé tehető, illetve alkalmazható, feltéve, hogy a gyógyszer az egészségügyi válsághelyzet megszűnése előtt Magyarországra behozatalra került.”
