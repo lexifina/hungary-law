@@ -24,11 +24,11 @@ végezték.
 
 (9)[^11] Építési engedély iránti kérelem és ugyanezen építési engedély alapján létesített elektronikus hírközlési építmény használatbavételéhez szükséges engedély iránti kérelem
 
-a) 2022. június 1. napja és 2022. december 31. napja között a 9. § (2) bekezdése vagy a 9. § (3) bekezdése szerint nyújtható be;
+a)[^12] 2022. június 1. napja és 2023. április 2. napja között a 9. § (2) bekezdése vagy a 9. § (3) bekezdése szerint nyújtható be;
 
-b) 2023. január 1. napjától a 9. § (3) bekezdése szerint nyújtható be.
+b)[^13] 2023. április 3. napjától a 9. § (3) bekezdése szerint nyújtható be.
 
-(10)[^12] Bontási engedély iránti kérelem 2027. december 31. napjáig a 9. § (2) bekezdése alapján nyújtható be, ha
+(10)[^14] Bontási engedély iránti kérelem 2027. december 31. napjáig a 9. § (2) bekezdése alapján nyújtható be, ha
 
 a) a kérelem nem nagy sebességű elektronikus hírközlő hálózat bontására irányul, és
 
@@ -37,4 +37,6 @@ b) a bontandó hálózat vonatozásában a Hírközlés Hálózati Nyilvántart�
 [^9]: A 33. § (7) bekezdését a 4/2021. (V. 10.) NMHH rendelet 1. §-a iktatta be.
 [^10]: A 33. § (8) bekezdését az 5/2021. (VI. 16.) NMHH rendelet 2. §-a iktatta be.
 [^11]: A 33. § (9) bekezdését az 5/2021. (VI. 16.) NMHH rendelet 2. §-a iktatta be, szövege a 6/2022. (VIII. 25.) NMHH rendelet 5. §-ával megállapított szöveg.
-[^12]: A 33. § (10) bekezdését a 6/2022. (VIII. 25.) NMHH rendelet 5. §-a iktatta be.
+[^12]: A 33. § (9) bekezdés a) pontja a 10/2022. (XII. 22.) NMHH rendelet 1. § a) pontja szerint módosított szöveg.
+[^13]: A 33. § (9) bekezdés b) pontja a 10/2022. (XII. 22.) NMHH rendelet 1. § b) pontja szerint módosított szöveg.
+[^14]: A 33. § (10) bekezdését a 6/2022. (VIII. 25.) NMHH rendelet 5. §-a iktatta be.

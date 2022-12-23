@@ -10,7 +10,7 @@ ba) a hírközlési e-építési napló alkalmazásban, valamint
 
 bb) az e-közmű alkalmazásban
 
-## végzi.
+végzi.
 
 (2) Az építésfelügyeleti hatósági ellenőrzés során a Hatóság vizsgálja
 

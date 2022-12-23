@@ -14,6 +14,6 @@ e) engedély hatálya meghosszabbítása iránti engedélyezési és
 
 f) építési engedély-módosítási
 
-## eljárás.
+eljárás.
 
 (2) Az eljárásokért a Hatóság részére a Nemzeti Média- és Hírközlési Hatóság egyes eljárásainak igazgatási szolgáltatási díjairól és a díjfizetés módjáról szóló 5/2011. (X. 6.) NMHH rendeletben (a továbbiakban: Díjrendelet) meghatározott igazgatási szolgáltatási díjat kell fizetni.

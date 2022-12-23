@@ -16,7 +16,7 @@ c) a közreműködők építményeinek, valamint vizek, vízi létesítmények k
 
 d) új közreműködők, új ingatlanok bevonásával nem jár,
 
-## az (1) bekezdéstől eltérően elegendő a Hatóságot nyilatkozattételi űrlap benyújtásával értesíteni, azzal, hogy egyidejűleg az építtető az eltérést a hírközlési e-naplóba haladéktalanul bejegyezi.
+az (1) bekezdéstől eltérően elegendő a Hatóságot nyilatkozattételi űrlap benyújtásával értesíteni, azzal, hogy egyidejűleg az építtető az eltérést a hírközlési e-naplóba haladéktalanul bejegyezi.
 
 (6) Az (5) bekezdés szerinti eltérés esetén a Hatóság a hírközlési e-naplóba történő dokumentum feltöltésével nyilatkozik az eltérés tudomásulvételéről, vagy az építési engedély módosítására irányuló kérelem benyújtására hívja fel az építtetőt.
 
