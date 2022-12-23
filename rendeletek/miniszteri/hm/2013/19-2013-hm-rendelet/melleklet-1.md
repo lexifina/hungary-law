@@ -1,6 +1,6 @@
-## 42. §[^91] E rendeletnek a honvédelmi miniszter feladatkörébe tartozó egyes miniszteri rendeletek módosításáról szóló 4/2022. (II. 17.) HM rendelettel megállapított 18. § (2) bekezdését és 34/D. §-át 2022. január 1-jétől kell alkalmazni.
+## 42. §[^95] E rendeletnek a honvédelmi miniszter feladatkörébe tartozó egyes miniszteri rendeletek módosításáról szóló 4/2022. (II. 17.) HM rendelettel megállapított 18. § (2) bekezdését és 34/D. §-át 2022. január 1-jétől kell alkalmazni.
 
-1. melléklet a 19/2013. (IX. 6.) HM rendelethez[^92]
+1. melléklet a 19/2013. (IX. 6.) HM rendelethez[^96]
 
 ……………………………………….
 
@@ -74,7 +74,7 @@ járásra kényszerülök*.
 
 ___________________________
 
-1 Az egyes költségtérítésekről szóló 19/2013. (IX. 6.) HM rendelet 19. § (1)–(3) bekezdése szerint szolgálat érdekében áthelyezettek vagy 24. §-a szerint vezényeltek.
+1Az egyes költségtérítésekről szóló 19/2013. (IX. 6.) HM rendelet 19. § (1)–(3) bekezdése szerint szolgálat érdekében áthelyezettek vagy 24. §-a szerint vezényeltek.
 
 2 Az egyes költségtérítésekről szóló 19/2013. (IX. 6.) HM rendelet 1. § (1) bekezdés 11. pontja szerinti vonzáskörzet.
 
@@ -256,5 +256,5 @@ aláírás
 
 ** A felesleges szövegrészek kihúzandók!
 
-[^91]: A 42. §-t a 4/2022. (II. 17.) HM rendelet 15. §-a iktatta be.
-[^92]: Az 1. melléklet a 26/2016. (XII. 22.) HM rendelet 23. §-ával megállapított, a 10/2017. (VIII. 31.) HM rendelet 52. § b) és c) pontja, a 17/2020. (XII. 12.) HM rendelet 29. § b) pontja szerint módosított szöveg.
+[^95]: A 42. §-t a 4/2022. (II. 17.) HM rendelet 15. §-a iktatta be.
+[^96]: Az 1. melléklet a 26/2016. (XII. 22.) HM rendelet 23. §-ával megállapított, a 10/2017. (VIII. 31.) HM rendelet 52. § b) és c) pontja, a 17/2020. (XII. 12.) HM rendelet 29. § b) pontja szerint módosított szöveg.

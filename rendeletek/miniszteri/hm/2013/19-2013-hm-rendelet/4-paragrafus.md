@@ -8,4 +8,7 @@
 
 ## általános szabályai
 
+4. §[^16] Az e Fejezet szerinti juttatásokra nem jogosult az a honvéd tisztjelölt és az a honvéd altiszt-jelölt, valamint az állománynak a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 46. § (1) bekezdés c) pontja alá tartozó azon tagja, aki nem a HM képzési igényeihez kapcsolódóan hajt végre szolgálati kiküldetést.
+
 [^15]: A 3/A. §-t a 24/2013. (XII. 20.) HM rendelet 23. §-a iktatta be.
+[^16]: A 4. § a 26/2016. (XII. 22.) HM rendelet 12. §-ával megállapított, a 16/2022. (XII. 22.) HM rendelet 6. § a) pontja szerint módosított szöveg.

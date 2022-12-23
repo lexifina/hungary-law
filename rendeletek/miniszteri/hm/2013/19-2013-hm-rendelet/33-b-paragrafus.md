@@ -10,17 +10,17 @@ b) akinek a határozott idejű honvédelmi alkalmazotti, közalkalmazotti jogvis
 
 c) akinek jogviszonya a tárgyév közben
 
-ca)[^67] a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény (a továbbiakban: Haj. tv.) 16. § (16) bekezdése, 21. § (2) bekezdés a)–c), és f)–h) pontja alapján,
+ca)[^71] a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény (a továbbiakban: Haj. tv.) 16. § (16) bekezdése, 21. § (2) bekezdés a)–c), és f)–h) pontja alapján,
 
 cb) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 22. § (16) bekezdése, 25. § (2) bekezdés a)–c), f) és g) pontja alapján, vagy
 
 cc) nem megfelelő munkavégzése vagy – nem egészségügyi okkal összefüggő – alkalmatlansága miatt felmentéssel
 
-## szűnik meg, vagy
+szűnik meg, vagy
 
 d) aki a tárgyéven belül harminc napnál hosszabb időt tölt fizetés nélküli szabadságon, kivéve, ha azt a (4) bekezdésben felsorolt okok miatt vette igénybe.
 
-(3)[^68] Ha a Haj. tv. hatálya alá tartozó munkáltatók közötti, illetve a Haj. tv. 21. § (2) bekezdés b) pont bb) alpontja szerinti áthelyezést követően a honvédelmi alkalmazott, közalkalmazott továbbra is e rendelet hatálya alá tartozik, esetében az időarányosítás nem alkalmazható.
+(3)[^72] Ha a Haj. tv. hatálya alá tartozó munkáltatók közötti, illetve a Haj. tv. 21. § (2) bekezdés b) pont bb) alpontja szerinti áthelyezést követően a honvédelmi alkalmazott, közalkalmazott továbbra is e rendelet hatálya alá tartozik, esetében az időarányosítás nem alkalmazható.
 
 (4) A ruházati költségtérítés kifizetésének időpontjában gyermekgondozás, valamint tartósan beteg gyermek gondozása, felügyelete, valamint közeli hozzátartozó otthoni ápolása miatt fizetés nélküli szabadságon tartózkodó, a tárgyévben ruházati költségtérítésben nem részesült, teljes munkaidőben foglalkoztatott honvédelmi alkalmazott, közalkalmazott ruházati költségtérítése
 
@@ -32,5 +32,5 @@ b) a teljes összeg felének megfelelő összegű, ha munkába lépése a tárgy
 
 (6) Nem jogosult ruházati költségtérítésre az a honvédelmi alkalmazott, közalkalmazott, aki egész évben fizetés nélküli szabadságát tölti.
 
-[^67]: A 33/B. § (2) bekezdés c) pont ca) alpontja a 17/2020. (XII. 12.) HM rendelet 28. § b) pontja szerint módosított szöveg.
-[^68]: A 33/B. § (3) bekezdése a 17/2020. (XII. 12.) HM rendelet 28. § c) pontja szerint módosított szöveg.
+[^71]: A 33/B. § (2) bekezdés c) pont ca) alpontja a 17/2020. (XII. 12.) HM rendelet 28. § b) pontja szerint módosított szöveg.
+[^72]: A 33/B. § (3) bekezdése a 17/2020. (XII. 12.) HM rendelet 28. § c) pontja szerint módosított szöveg.
