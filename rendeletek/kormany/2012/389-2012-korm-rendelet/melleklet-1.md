@@ -2,7 +2,7 @@
 
 1. melléklet a 389/2012. (XII. 19.) Korm. rendelethez
 
-## A beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
+A beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
 
 1. Vízügyi hatósági eljárások,
 
