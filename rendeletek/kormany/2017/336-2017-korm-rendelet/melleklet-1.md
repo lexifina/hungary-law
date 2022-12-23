@@ -1,8 +1,6 @@
-## 7. §[^1]
-
 1. melléklet a 336/2017. (XI. 9.) Korm. rendelethez
 
-## Az 1. § (1) bekezdése szerinti beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+Az 1. § (1) bekezdése szerinti beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -53,5 +51,3 @@
 24. azok az 1–23. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 25. az 1–24. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
-
-[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
