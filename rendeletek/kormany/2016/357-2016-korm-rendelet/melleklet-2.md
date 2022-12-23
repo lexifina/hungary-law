@@ -1,5 +1,3 @@
-## A Szabadtéri Néprajzi Múzeum Erdély tájegységének létrehozására irányuló egyes beruházások azonosító adatai
-
 ## Az 1. § (1) bekezdése szerinti beruházások megvalósításával érintett, az ingatlan-nyilvántartás szerint Szentendre város közigazgatási területén elhelyezkedő, következő helyrajzi számú földrészletek:
 
 |  | A |
@@ -82,7 +80,7 @@
 
 2. melléklet a 357/2016. (XI. 18.) Korm. rendelethez
 
-## A Szabadtéri Néprajzi Múzeum Erdély tájegységének létrehozására irányuló egyes beruházásokkal összefüggő kiemelt jelentőségű ügyek
+A Szabadtéri Néprajzi Múzeum Erdély tájegységének létrehozására irányuló egyes beruházásokkal összefüggő kiemelt jelentőségű ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
