@@ -2,7 +2,7 @@
 
 1. melléklet a 248/2016. (VIII. 17.) Korm. rendelethez
 
-## A Tura város területén megvalósuló beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+A Tura város területén megvalósuló beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
