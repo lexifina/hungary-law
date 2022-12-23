@@ -1,6 +1,6 @@
-## 4/A. §[^4] A Beruházással összefüggésben az előzetes régészeti dokumentáció elkészítésére a Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság, a szükséges további régészeti előkészítés – megelőző feltárás, régészeti megfigyelés – elvégzésére a Budapesti Történeti Múzeum jogosult.
+## 4/A. §[^5] A Beruházással összefüggésben az előzetes régészeti dokumentáció elkészítésére a Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság, a szükséges további régészeti előkészítés – megelőző feltárás, régészeti megfigyelés – elvégzésére a Budapesti Történeti Múzeum jogosult.
 
-4/B. §[^5] (1) Az 1. § (1) bekezdése szerinti ingatlanokon a beépítés szabályait a (2) és (3) bekezdés állapítja meg, azzal, hogy
+4/B. §[^6] (1) Az 1. § (1) bekezdése szerinti ingatlanokon a beépítés szabályait a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
 a) az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -12,5 +12,5 @@ b) ha a hatályos településrendezési terv és az OTÉK a beépítés (2) és 
 
 (4) Az OTÉK 42. §-ában meghatározott, gépjárművek elhelyezésére vonatkozó követelményeket azzal az eltéréssel kell alkalmazni, hogy a gépkocsi-parkolóhelyek kialakításánál az 1. § (1) bekezdése szerinti ingatlanok együttesén létesülő építmények és önálló rendeltetési egységek közül csak az állandó üzemű, épület- és pályaüzemeltetéssel közvetlenül összefüggő területek rendeltetésszerű használatához előírt számú parkolóhelyet kell biztosítani. A kizárólag autó-motorsport versenyekkel és a versenypálya hasznosításával kapcsolatos gépkocsiparkolóhely-igényt a kialakult állapotnak megfelelően ideiglenes parkolóhelyekkel, az 1. § (1) bekezdése szerinti ingatlanokon kívüli területek bevonásával is ki lehet elégíteni, továbbá autóbusz-várakozóhelyet nem kell biztosítani.
 
-[^4]: A 4/A. §-t az 522/2021. (IX. 6.) Korm. rendelet 3. §-a iktatta be.
-[^5]: A 4/B. §-t az 522/2021. (IX. 6.) Korm. rendelet 3. §-a iktatta be.
+[^5]: A 4/A. §-t az 522/2021. (IX. 6.) Korm. rendelet 3. §-a iktatta be.
+[^6]: A 4/B. §-t az 522/2021. (IX. 6.) Korm. rendelet 3. §-a iktatta be.
