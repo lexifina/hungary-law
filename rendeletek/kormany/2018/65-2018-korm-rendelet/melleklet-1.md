@@ -1,8 +1,8 @@
-## 6. §[^2] E rendeletnek a nyergesújfalui ipari park bővítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 65/2018. (IV. 4.) Korm. rendelet módosításáról szóló 233/2019. (X. 4.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését a Módr. hatálybalépésekor[^3] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 6. §[^3] E rendeletnek a nyergesújfalui ipari park bővítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 65/2018. (IV. 4.) Korm. rendelet módosításáról szóló 233/2019. (X. 4.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését a Módr. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 65/2018. (IV. 4.) Korm. rendelethez
 
-## Az 1. § (1) bekezdése szerinti beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+Az 1. § (1) bekezdése szerinti beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi és hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -52,5 +52,5 @@
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^2]: A 6. §-t a 233/2019. (X. 4.) Korm. rendelet 2. §-a iktatta be.
-[^3]: A hatálybalépés időpontja 2019. október 5.
+[^3]: A 6. §-t a 233/2019. (X. 4.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2019. október 5.
