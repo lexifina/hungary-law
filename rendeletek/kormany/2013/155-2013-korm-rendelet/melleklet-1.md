@@ -2,7 +2,7 @@
 
 1. melléklet a 155/2013. (V. 24.) Korm. rendelethez
 
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
+A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
 
 1. Útügyi hatósági engedélyezési eljárások
 
