@@ -1,8 +1,8 @@
-## 7. §[^2] E rendeletnek a Dunamelléki Református Egyházkerület Székház és Konferencia Központ épületének felújításával, átalakításával és a hozzá kapcsolódó Ráday Felsőoktatási Diákotthon újjáépítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 78/2020. (III. 31.) Korm. rendelet módosításáról szóló 169/2022. (IV. 28.) Korm. rendelettel (a továbbiakban: Módr1.) módosított 1. § (4) bekezdését a Módr1. hatálybalépésekor[^3] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^3] E rendeletnek a Dunamelléki Református Egyházkerület Székház és Konferencia Központ épületének felújításával, átalakításával és a hozzá kapcsolódó Ráday Felsőoktatási Diákotthon újjáépítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 78/2020. (III. 31.) Korm. rendelet módosításáról szóló 169/2022. (IV. 28.) Korm. rendelettel (a továbbiakban: Módr1.) módosított 1. § (4) bekezdését a Módr1. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 78/2020. (III. 31.) Korm. rendelethez
 
-## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -46,5 +46,5 @@
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^2]: A 7. §-t a 169/2022. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
-[^3]: A hatálybalépés időpontja 2022. április 29.
+[^3]: A 7. §-t a 169/2022. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2022. április 29.
