@@ -1,1 +1,3 @@
-## 2. § A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Jász-Nagykun-Szolnok Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
+3. §[^3]
+
+[^3]: A 3. §-t a 458/2017. (XII. 28.) Korm. rendelet 350. §-a hatályon kívül helyezte.
