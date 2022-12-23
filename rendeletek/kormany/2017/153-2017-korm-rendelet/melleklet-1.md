@@ -2,7 +2,7 @@
 
 1. melléklet a 153/2017. (VI. 12.) Korm. rendelethez
 
-## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi engedélyezési és tudomásulvételi hatósági eljárások,
 
