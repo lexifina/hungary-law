@@ -1,8 +1,8 @@
-## 9. §[^12] Az Erzsébet Táborok infrastrukturális fejlesztésére irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 266/2017. (IX. 11.) Korm. rendelet módosításáról szóló 265/2019. (XI. 14.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. § (1) bekezdését a Módr2. hatálybalépésekor[^13] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 9. §[^15] Az Erzsébet Táborok infrastrukturális fejlesztésére irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 266/2017. (IX. 11.) Korm. rendelet módosításáról szóló 265/2019. (XI. 14.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. § (1) bekezdését a Módr2. hatálybalépésekor[^16] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 266/2017. (IX. 11.) Korm. rendelethez
 
-## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -50,5 +50,5 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^12]: A 9. §-t a 265/2019. (XI. 14.) Korm. rendelet 3. §-a iktatta be.
-[^13]: A hatálybalépés időpontja 2019. november 15.
+[^15]: A 9. §-t a 265/2019. (XI. 14.) Korm. rendelet 3. §-a iktatta be.
+[^16]: A hatálybalépés időpontja 2019. november 15.
