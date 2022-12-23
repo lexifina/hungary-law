@@ -1,1 +1,3 @@
-## célzó beruházásokkal összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek a Betegápoló Irgalmasrend tulajdonában vagy használatában lévő ingatlanok bővítési, energiahatékonysági, kialakítási és komplex felújítási munkálatok – különösen műszaki, gépészeti korszerűsítés és homlokzat-felújítás – megvalósításához, az átadásához és a működés megkezdéséhez szükségesek.
+2. §[^1] A Kormány az 1. § szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Budapest Főváros Kormányhivatalát vezető főispánt jelöli ki.
+
+[^1]: A 2. § az 546/2022. (XII. 22.) Korm. rendelet 122. § a) és b) pontja szerint módosított szöveg.

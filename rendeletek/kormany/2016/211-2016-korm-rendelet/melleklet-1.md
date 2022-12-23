@@ -1,4 +1,4 @@
-## 6. §[^3] E rendeletnek a fővárosi és megyei kormányhivatalok hatásköreinek változásával összefüggő egyes kormányrendeletek módosításáról szóló 196/2020. (V. 12.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 3/A. §-át a Módr. hatálybalépésekor[^4] folyamatban lévő ügyekben is alkalmazni kell.
+## 6. §[^4] E rendeletnek a fővárosi és megyei kormányhivatalok hatásköreinek változásával összefüggő egyes kormányrendeletek módosításáról szóló 196/2020. (V. 12.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 3/A. §-át a Módr. hatálybalépésekor[^5] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 211/2016. (VII. 21.) Korm. rendelethez
 
@@ -18,7 +18,7 @@
 
 7. útügyi hatósági eljárások,
 
-8.[^5] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+8.[^6] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 9. műszaki biztonsági engedélyezési eljárások,
 
@@ -34,6 +34,6 @@
 
 15. az 1–14. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^3]: A 6. §-t a 196/2020. (V. 12.) Korm. rendelet 8. § (2) bekezdése iktatta be.
-[^4]: A hatálybalépés időpontja 2020. május 13.
-[^5]: Az 1. melléklet 8. pontja a 380/2016. (XII. 2.) Korm. rendelet 113. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^4]: A 6. §-t a 196/2020. (V. 12.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^5]: A hatálybalépés időpontja 2020. május 13.
+[^6]: Az 1. melléklet 8. pontja a 380/2016. (XII. 2.) Korm. rendelet 113. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
