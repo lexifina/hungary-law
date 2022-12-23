@@ -1,5 +1,3 @@
-## Az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyek tárgyát képező beruházások
-
 |  | A | B |
 
 | 1. | Beruházás megnevezése | Beruházás azonosító adatai |
@@ -18,7 +16,7 @@
 
 2. melléklet az 5/2017. (I. 12.) Korm. rendelethez
 
-## A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -58,11 +56,11 @@
 
 19. közegészségügyi hatósági eljárások,
 
-19a.[^13] a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos eljárások,
+19a.[^14] a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos eljárások,
 
-20.[^14] azok az 1–19a. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+20.[^15] azok az 1–19a. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^13]: A 2. melléklet 19a. pontját a 20/2020. (II. 19.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^14]: A 2. melléklet 20. pontja a 20/2020. (II. 19.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^14]: A 2. melléklet 19a. pontját a 20/2020. (II. 19.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^15]: A 2. melléklet 20. pontja a 20/2020. (II. 19.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
