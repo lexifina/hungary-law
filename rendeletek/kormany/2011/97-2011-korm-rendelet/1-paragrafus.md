@@ -14,7 +14,7 @@ a) a külön jogszabályban meghatározott építészet-műszaki tervpályázati
 
 b) az általános építésügyi hatósági eljárást megelőző tervtanácsi véleményezési
 
-## eljárást nem kell lefolytatni.
+eljárást nem kell lefolytatni.
 
 (8)[^4]
 

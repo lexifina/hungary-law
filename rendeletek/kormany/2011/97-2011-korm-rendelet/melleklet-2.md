@@ -1,5 +1,3 @@
-## A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező közigazgatási szervek
-
 |  | A | B | C | D |
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Eljáró hatóság |
