@@ -2,7 +2,7 @@
 
 1. melléklet a 429/2015. (XII. 23.) Korm. rendelethez
 
-## A KNORR-BREMSE Vasúti Jármű Rendszerek Hungária Korlátolt Felelősségű Társaság Budapesten megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+A KNORR-BREMSE Vasúti Jármű Rendszerek Hungária Korlátolt Felelősségű Társaság Budapesten megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
