@@ -14,7 +14,7 @@ f) a Budapest XII. kerület 010503/10 helyrajzi szám,
 
 g) a Budapest II. kerület 11512/7 helyrajzi szám
 
-## alatt nyilvántartott ingatlanokon (a továbbiakban együtt: Ingatlanok), a Vasas Sport Club létesítményfejlesztési programjának megvalósításához szükséges intézkedésekről szóló 1073/2016. (II. 25.) Korm. határozat 1. pontjával összhangban megvalósuló, valamint az a) pontban megjelölt helyrajzi szám tekintetében az Illovszky Rudolf Stadionnak a Nemzeti Stadionfejlesztési Program keretében történő fejlesztése megvalósításához szükséges felújítási és építési beruházásokkal (a továbbiakban együtt: Beruházás) függenek össze.
+alatt nyilvántartott ingatlanokon (a továbbiakban együtt: Ingatlanok), a Vasas Sport Club létesítményfejlesztési programjának megvalósításához szükséges intézkedésekről szóló 1073/2016. (II. 25.) Korm. határozat 1. pontjával összhangban megvalósuló, valamint az a) pontban megjelölt helyrajzi szám tekintetében az Illovszky Rudolf Stadionnak a Nemzeti Stadionfejlesztési Program keretében történő fejlesztése megvalósításához szükséges felújítási és építési beruházásokkal (a továbbiakban együtt: Beruházás) függenek össze.
 
 (2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
 

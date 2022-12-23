@@ -1,8 +1,6 @@
-## 10. §[^6]
-
 1. melléklet a 198/2016. (VII. 13.) Korm. rendelethez
 
-## A Beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. általános építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -42,7 +40,7 @@
 
 19. területrendezési hatósági eljárások,
 
-20.[^7]
+20.[^8]
 
 21. rendészeti hatósági eljárások,
 
@@ -52,5 +50,4 @@
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^6]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 1. melléklet 20. pontját a 271/2016. (IX. 1.) Korm. rendelet 79. § (2) bekezdése hatályon kívül helyezte.
+[^8]: Az 1. melléklet 20. pontját a 271/2016. (IX. 1.) Korm. rendelet 79. § (2) bekezdése hatályon kívül helyezte.

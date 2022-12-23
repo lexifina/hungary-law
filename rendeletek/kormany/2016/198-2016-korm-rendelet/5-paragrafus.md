@@ -1,5 +1,5 @@
-5. § (1)[^5] A Kormány a Beruházás és a Budapest XIII. kerület 26085/1123 helyrajzi szám alatt nyilvántartott ingatlan tekintetében a beépítés szabályait a telekre és az azon található, illetve elhelyezésre kerülő építményekre vonatkozóan a (2) bekezdés szerint állapítja meg. Az ingatlan telkére hatályos településrendezési tervet a (2) bekezdésben meghatározott sajátos szabályok szerinti eltéréssel kell alkalmazni, azzal, hogy ha a településrendezési terv a (2) bekezdés szerinti sajátos szabályokkal ellentétes vagy azokkal nem összeegyeztethető előírást tartalmaz, akkor azt nem lehet alkalmazni.
+5. § (1)[^6] A Kormány a Beruházás és a Budapest XIII. kerület 26085/1123 helyrajzi szám alatt nyilvántartott ingatlan tekintetében a beépítés szabályait a telekre és az azon található, illetve elhelyezésre kerülő építményekre vonatkozóan a (2) bekezdés szerint állapítja meg. Az ingatlan telkére hatályos településrendezési tervet a (2) bekezdésben meghatározott sajátos szabályok szerinti eltéréssel kell alkalmazni, azzal, hogy ha a településrendezési terv a (2) bekezdés szerinti sajátos szabályokkal ellentétes vagy azokkal nem összeegyeztethető előírást tartalmaz, akkor azt nem lehet alkalmazni.
 
 (2) Az (1) bekezdés szerinti telken a létesítményekhez szükséges parkolók 100%-ban a felszínen elhelyezhetők.
 
-[^5]: Az 5. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 79. §-a szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 79. §-a szerint módosított szöveg.
