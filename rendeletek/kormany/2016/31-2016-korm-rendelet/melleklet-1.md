@@ -1,4 +1,4 @@
-## 7. §[^3] E rendeletnek a Rácalmás városban megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 31/2016. (II. 25.) Korm. rendelet és az Iváncsa község külterületén megvalósuló ipari park fejlesztéssel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 359/2020. (VII. 23.) Korm. rendelet módosításáról szóló 342/2021. (VI. 15.) Korm. rendelettel (a továbbiakban: Mód1.) megállapított 1. § (1) bekezdését a Mód1. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^4] E rendeletnek a Rácalmás városban megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 31/2016. (II. 25.) Korm. rendelet és az Iváncsa község külterületén megvalósuló ipari park fejlesztéssel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 359/2020. (VII. 23.) Korm. rendelet módosításáról szóló 342/2021. (VI. 15.) Korm. rendelettel (a továbbiakban: Mód1.) megállapított 1. § (1) bekezdését a Mód1. hatálybalépésekor[^5] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 31/2016. (II. 25.) Korm. rendelethez
 
@@ -48,5 +48,5 @@
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^3]: A 7. §-t a 342/2021. (VI. 15.) Korm. rendelet 1. §-a iktatta be.
-[^4]: A hatálybalépés időpontja 2021. július 1.
+[^4]: A 7. §-t a 342/2021. (VI. 15.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A hatálybalépés időpontja 2021. július 1.
