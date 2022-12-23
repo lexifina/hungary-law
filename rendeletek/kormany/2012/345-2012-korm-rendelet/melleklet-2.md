@@ -1,6 +1,6 @@
 2. melléklet a 345/2012. (XII. 6.) Korm. rendelethez
 
-## A beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
+A beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
 
 1. Útügyi hatósági engedélyezési eljárások,
 

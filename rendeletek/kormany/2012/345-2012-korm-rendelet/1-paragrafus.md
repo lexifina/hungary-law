@@ -4,7 +4,7 @@
 
 (2)[^4]
 
-(3)[^5] A Kormány az 1. melléklet 1.2.3., 3.2.1–3.2.4., valamint 3.2.7–3.2.17. pontjában meghatározott intermodális fejlesztésekkel összefüggő közigazgatási hatósági ügyekben koordinációs feladatokat ellátó kormánymegbízottként az intermodális csomópont fekvése szerint illetékes megyei kormányhivatalt vezető kormánymegbízottat jelöli ki.
+(3)[^5] A Kormány az 1. melléklet 1.2.3., 3.2.1–3.2.4., valamint 3.2.7–3.2.17. pontjában meghatározott intermodális fejlesztésekkel összefüggő közigazgatási hatósági ügyekben koordinációs feladatokat ellátó főispánként az intermodális csomópont fekvése szerint illetékes megyei kormányhivatalt vezető főispánt jelöli ki.
 
 (4)[^6] A Kormány az 1. melléklet 1.2.49. pontja szerinti beruházások esetén a 2. melléklet 1. pontja szerinti közigazgatási hatósági ügyben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
 
@@ -20,7 +20,7 @@
 [^2]: Az 1. § (1) bekezdése a 236/2020. (V. 26.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (1a) bekezdését a 210/2021. (IV. 29.) Korm. rendelet 1. §-a iktatta be.
 [^4]: Az 1. § (2) bekezdését a 236/2020. (V. 26.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
-[^5]: Az 1. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 62. § a) pontja hatályon kívül helyezte, újonnan a 289/2018. (XII. 21.) Korm. rendelet 23. §-a iktatta be, szövege a 236/2020. (V. 26.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 62. § a) pontja hatályon kívül helyezte, újonnan a 289/2018. (XII. 21.) Korm. rendelet 23. §-a iktatta be, szövege a 236/2020. (V. 26.) Korm. rendelet 4. § (2) bekezdésével megállapított, az 546/2022. (XII. 22.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. § (4) bekezdését újonnan a 289/2018. (XII. 21.) Korm. rendelet 23. §-a iktatta be, szövege a 14/2019. (II. 11.) Korm. rendelet 1. §-a, a 236/2020. (V. 26.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (5) bekezdése a 458/2017. (XII. 28.) Korm. rendelet 62. § b) pontja, a 236/2020. (V. 26.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^8]: Az 1. § (6) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 62. § c) pontja hatályon kívül helyezte, újonnan a 236/2020. (V. 26.) Korm. rendelet 4. § (3) bekezdése iktatta be, szövege a 68/2022. (II. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
