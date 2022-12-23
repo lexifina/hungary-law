@@ -2,7 +2,7 @@
 
 1. melléklet a 213/2016. (VII. 21.) Korm. rendelethez
 
-## A Xellia Gyógyszervegyészeti Korlátolt Felelősségű Társaság Budapest területén megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Xellia Gyógyszervegyészeti Korlátolt Felelősségű Társaság Budapest területén megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
