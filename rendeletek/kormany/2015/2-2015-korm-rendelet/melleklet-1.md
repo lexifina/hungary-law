@@ -2,6 +2,8 @@
 
 1. melléklet a 2/2015. (I. 22.) Korm. rendelethez[^9]
 
+A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező hatóságok
+
 [^7]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 374/2015. (XII. 2.) Korm. rendelet 3. §-a iktatta be.
 [^8]: A hatálybalépés időpontja 2015. december 3.
 [^9]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 72. §-ával megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban levő ügyekben is alkalmazni kell.
