@@ -2,7 +2,7 @@
 
 1. melléklet a 153/2016. (VI. 13.) Korm. rendelethez
 
-## Az M-FlexiLog Korlátolt Felelősségű Társaság Békéscsaba területén megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+Az M-FlexiLog Korlátolt Felelősségű Társaság Békéscsaba területén megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
