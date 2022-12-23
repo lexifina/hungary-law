@@ -2,7 +2,7 @@
 
 1. melléklet a 114/2016. (VI. 1.) Korm. rendelethez
 
-## A Samsung SDI Magyarország Gyártó és Értékesítő Zártkörűen Működő Részvénytársaság Göd területén megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Samsung SDI Magyarország Gyártó és Értékesítő Zártkörűen Működő Részvénytársaság Göd területén megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
