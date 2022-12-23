@@ -1,6 +1,6 @@
-## 9. §[^10] A Debrecen megyei jogú város külterületén, az Észak-Nyugati Gazdasági Övezetben ipari telephely kialakításával és a területen megvalósuló munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 58/2018. (III. 26.) Korm. rendelet módosításáról szóló 225/2019. (IX. 25.) Korm. rendelettel (a továbbiakban: Módr4.) megállapított 1. mellékletet a Módr4. hatálybalépésekor[^11] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 9. §[^11] A Debrecen megyei jogú város külterületén, az Észak-Nyugati Gazdasági Övezetben ipari telephely kialakításával és a területen megvalósuló munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 58/2018. (III. 26.) Korm. rendelet módosításáról szóló 225/2019. (IX. 25.) Korm. rendelettel (a továbbiakban: Módr4.) megállapított 1. mellékletet a Módr4. hatálybalépésekor[^12] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-1. melléklet az 58/2018. (III. 26.) Korm. rendelethez[^12]
+1. melléklet az 58/2018. (III. 26.) Korm. rendelethez[^13]
 
 I. A Beruházásokkal érintett, Debrecen megyei jogú város közigazgatási területén elhelyezkedő ingatlanok helyrajzi számai:
 
@@ -8,6 +8,6 @@ I. A Beruházásokkal érintett, Debrecen megyei jogú város közigazgatási te
 
 II. A Beruházásokkal érintett, Balmazújváros város közigazgatási területén elhelyezkedő ingatlanok helyrajzi számai:
 
-[^10]: A 9. §-t a 225/2019. (IX. 25.) Korm. rendelet 1. §-a iktatta be.
-[^11]: A hatálybalépés időpontja 2019. szeptember 26.
-[^12]: Az 1. melléklet a 225/2019. (IX. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^11]: A 9. §-t a 225/2019. (IX. 25.) Korm. rendelet 1. §-a iktatta be.
+[^12]: A hatálybalépés időpontja 2019. szeptember 26.
+[^13]: Az 1. melléklet a 225/2019. (IX. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
