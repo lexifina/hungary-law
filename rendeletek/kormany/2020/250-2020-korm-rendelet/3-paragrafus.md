@@ -1,5 +1,3 @@
-## 2. § A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Budapest Főváros Kormányhivatalát vezető kormánymegbízottat jelöli ki.
-
 3. § (1) Az 1. mellékletben foglalt táblázat 2–5. sora szerinti beruházással összefüggésben
 
 a) településképi véleményezési eljárást nem kell lefolytatni,

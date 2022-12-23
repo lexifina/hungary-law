@@ -1,5 +1,3 @@
-## Budapest Főváros XXIII. kerület Soroksár Önkormányzata fejlesztési programja keretében megvalósuló beruházások
-
 |  | A | B |
 
 | 1. | A beruházás megnevezése | A beruházás azonosító adatai |
@@ -20,7 +18,7 @@
 
 2. melléklet a 250/2020. (V. 28.) Korm. rendelethez
 
-## A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
