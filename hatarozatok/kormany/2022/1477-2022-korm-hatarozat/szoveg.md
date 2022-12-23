@@ -30,16 +30,16 @@ b) a program pénzügyi lebonyolítása során legyen figyelemmel arra, hogy a 3
 
 | Határidő: | a program lezárultáig minden naptári negyedév végén |
 
-6.[^4] felhívja a pénzügyminisztert, hogy a 2023. évben – a gazdaságfejlesztési miniszter kezdeményezése alapján – gondoskodjon a mikro-, kis- és középvállalkozások energiahatékonyságot célzó beruházások program feltételei szerint meghatározott mértékű önerejének biztosítása érdekében legfeljebb 25 000 000 000 forint biztosításáról a XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Energiaintenzív vállalatok támogatása alcím javára;
+6.[^4] felhívja a pénzügyminisztert, hogy a 2023. évben – a gazdaságfejlesztési miniszter kezdeményezése alapján – az 1. pont szerinti célok megvalósítása érdekében gondoskodjon az energiaintenzív kkv-k működési költségeinek finanszírozása és a kkv-k energiahatékonyságát célzó beruházások program feltételei szerint meghatározott mértékű önerejének biztosítása érdekében mindösszesen legfeljebb 70 000 000 000 forint forrás biztosításáról az energiaintenzív kkv-k működési költségeinek finanszírozását szolgáló előirányzat javára;
 
 | Felelős: | pénzügyminiszter gazdaságfejlesztési miniszter |
 
 | Határidő: | a felmerülés ütemében |
 
-7.[^5] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a 2023. évben a XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Energiaintenzív vállalatok támogatása alcím terhére vállalható kötelezettségek felső korlátját 24 987 500 000 forintban állapítja meg.
+7.[^5] egyetért az 1. pont szerinti támogatási program támogatási időszakának meghosszabbításával és kedvezményezetti körének a szálláshely-szolgáltatás és vendéglátás ágazatokban működő kkv-kra történő kiterjesztésével.
 
 [^1]: A 2. pont az 1597/2022. (XII. 1.) Korm. határozat a) pontja szerint módosított szöveg.
 [^2]: A 4. pont az 1597/2022. (XII. 1.) Korm. határozat a) pontja szerint módosított szöveg.
 [^3]: Az 5. pont az 1597/2022. (XII. 1.) Korm. határozat a) pontja szerint módosított szöveg.
-[^4]: A 6. pontot az 1511/2022. (X. 24.) Korm. határozat 3. pontja iktatta be, szövege az 1597/2022. (XII. 1.) Korm. határozat b) pontja szerint módosított szöveg.
-[^5]: A 7. pontot az 1511/2022. (X. 24.) Korm. határozat 3. pontja iktatta be.
+[^4]: A 6. pontot az 1511/2022. (X. 24.) Korm. határozat 3. pontja iktatta be, szövege az 1679/2022. (XII. 23.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: A 7. pontot az 1511/2022. (X. 24.) Korm. határozat 3. pontja iktatta be, szövege az 1679/2022. (XII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
