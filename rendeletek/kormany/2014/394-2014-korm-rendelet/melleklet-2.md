@@ -1,5 +1,3 @@
-## A Beruházások megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatásához hatáskörrel rendelkező közigazgatási szervek
-
 |  | A | B | C | D |
 
 | 1. | Beruházások megnevezése | Beruházások azonosítója | A Beruházások megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
