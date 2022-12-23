@@ -4,7 +4,7 @@ a)[^1] a Kisvárda külterületén elhelyezkedő, az ingatlan-nyilvántartás sz
 
 b)[^2] a Fényeslitke külterületén elhelyezkedő, az ingatlan-nyilvántartás szerinti 028/59 helyrajzi számon nyilvántartott földrészleten, illetve az ezen földrészletből telekalakítási eljárás véglegessé válását követően kialakított földrészleten megvalósításra kerülő logisztikai központ létesítésére, illetve az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló
 
-## beruházásokkal (a továbbiakban együtt: Beruházások) függenek össze.
+beruházásokkal (a továbbiakban együtt: Beruházások) függenek össze.
 
 (2) Az (1) bekezdés alkalmazásában a Beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
 

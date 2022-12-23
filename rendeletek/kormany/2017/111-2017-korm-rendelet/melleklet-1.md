@@ -1,8 +1,8 @@
-## 7. §[^4] E rendeletnek a Fényeslitke külterületén logisztikai központ létesítésére, valamint Kisvárda külterületén kóser fóliasátor termelési felületének bővítésére irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 111/2017. (IV. 28.) Korm. rendelet módosításáról szóló 296/2018. (XII. 21.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdés b) pontját a Módr. hatálybalépésekor[^5] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^5] E rendeletnek a Fényeslitke külterületén logisztikai központ létesítésére, valamint Kisvárda külterületén kóser fóliasátor termelési felületének bővítésére irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 111/2017. (IV. 28.) Korm. rendelet módosításáról szóló 296/2018. (XII. 21.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdés b) pontját a Módr. hatálybalépésekor[^6] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 111/2017. (IV. 28.) Korm. rendelethez
 
-## A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -54,5 +54,5 @@
 
 25. az 1–24. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^4]: A 7. §-t a 296/2018. (XII. 21.) Korm. rendelet 2. §-a iktatta be.
-[^5]: A hatálybalépés időpontja: 2018. december 22.
+[^5]: A 7. §-t a 296/2018. (XII. 21.) Korm. rendelet 2. §-a iktatta be.
+[^6]: A hatálybalépés időpontja: 2018. december 22.
