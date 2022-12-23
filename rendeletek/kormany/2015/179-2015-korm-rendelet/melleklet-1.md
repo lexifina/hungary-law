@@ -2,7 +2,7 @@
 
 1. melléklet a 179/2015. (VII. 7.) Korm. rendelethez
 
-## A TISZA-TK PROJEKT Kft. Tiszapüspöki területén megvalósuló gabonafeldolgozó üzemének megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+A TISZA-TK PROJEKT Kft. Tiszapüspöki területén megvalósuló gabonafeldolgozó üzemének megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
