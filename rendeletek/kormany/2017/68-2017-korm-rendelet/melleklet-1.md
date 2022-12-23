@@ -2,7 +2,7 @@
 
 1. melléklet a 68/2017. (III. 23.) Korm. rendelethez
 
-## A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. környezetvédelmi hatósági eljárások,
 
