@@ -1,0 +1,125 @@
+# A Kormány 576/2022. (XII. 23.) Korm. rendelete
+
+Magyar Közlöny 2022. évi 214. szám, 2022. december 23. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/CjSRMlaee3dVChJUCvt363a21e31055aa/dokumentumok/0d313604c7235103baba9c0cda1f79cf2bfcaa84/letoltes)
+
+---
+
+A Kormány 576/2022. (XII. 23.) Korm. rendelete
+az útdíjrendszerek üzemeltetésével összefüggő szabályok veszélyhelyzet ideje alatti eltérő alkalmazásáról
+A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi
+és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint
+ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és
+egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet ideje alatt
+az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény
+(a továbbiakban: Útdíjtv.), valamint a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.)
+rendelkezéseit az útdíjbevétel, az útdíjellenőrzési rendszer működtetése és fenntartása tekintetében,
+az e rendeletben foglalt eltérésekkel kell alkalmazni.
+2. § (1) Az Útdíjtv. 2. §-ában foglaltaktól eltérően a törvény alkalmazásában az útdíjból származó bevétel az útdíjakból
+származó valamennyi bevételnek az útdíjszedési, egyetemes útdíjszolgáltatói, útdíjellenőrzési, útdíjellenőrzés-
+támogatói rendszer működtetése és fenntartása, valamint az azokhoz kapcsolódó – különösen műszaki szakmai,
+pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosításával kapcsolatban felmerült indokolt
+költségekkel – a Kormány által rendeletben meghatározottak alapján – csökkentett összege.
+
+(2) Az Útdíjtv. 13. § (2) bekezdésétől eltérően az útdíjból származó bevétel vagy az e bevétel értékével megegyező
+összeg – ide nem értve az Útdíjtv. 13. § (3) bekezdésben foglalt külsőköltség díjbevételt – az alábbi sorrend
+figyelembevételével használható fel:
+a) az útdíjellenőrzési rendszer működtetése és fenntartása, valamint az azokhoz kapcsolódó – különösen
+műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosítása,
+b) a díjköteles országos közúthálózat üzemeltetése és fenntartása, valamint az azokhoz kapcsolódó – különösen
+műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosítása,
+c) az egyéb országos közúthálózati elemek üzemeltetése és fenntartása, valamint az azokhoz kapcsolódó
+– különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosítása,
+d) a közúti közlekedési infrastruktúrával összefüggő egyéb állami feladatok, valamint az azokhoz kapcsolódó
+– különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosítása,
+e) a koncessziós szerződés keretében üzemeltetett útszakaszok rendelkezésre állási díja fizetésének,
+f) az országos közúthálózati elemek meglévő kapacitásának bővítése és új hálózati elemek kiépítése
+érdekében.
+(3) Az Útdíjtv. 13. § (3) bekezdésétől eltérően az útdíjból származó bevételből a külsőköltség díjbevétel az alábbi
+sorrend figyelembevételével használható fel:
+a) a hatékony árképzés elősegítése,
+b) a közúti közlekedésnek tulajdonítható környezetszennyezés forrásnál való csökkentése,
+c) a közúti közlekedésnek tulajdonítható környezetszennyezés hatásainak a szennyezés forrásánál történő
+enyhítése,
+d) a járművek szén-dioxid-kibocsátásának mérséklése és energiahatékonyságának javítása és ellenőrzése,
+e) a közúti közlekedés biztonságának javítása,
+f) a közlekedők által igénybe vehető alternatív infrastruktúra fejlesztése, illetve a meglévő kapacitás növelése,
+g) a transzeurópai közlekedési hálózat támogatása,
+h) a logisztikai tevékenység optimalizálása,
+i) a biztonságos parkolóhelyek biztosítása
+érdekében.
+(4) Az Útdíjtv. 27. §-ában foglaltaktól eltérően az útdíjból származó bevétel vagy az e bevétel értékével megegyező
+összeg felhasználására vonatkozó adatokat a (2) bekezdésben meghatározott célok finanszírozását szolgáló
+költségvetési előirányzat kezelője köteles a honlapján hozzáférhetővé tenni, illetve az Útdíjtv. felhatalmazása
+alapján kiadott rendelet szerint létrehozott Társadalmi Egyeztető Szervezet részére – kérés esetén – megküldeni.
+(5) Az Útdíjtv. 28. § (2) bekezdésében foglaltaktól eltérően felhatalmazást kap az útdíjfizetési-szolgáltatásért
+felelős miniszter, hogy rendeletben határozza meg az útdíjszedő által az útdíjszolgáltatóknak fizetendő átalány-
+költségtérítés mértékét és számításának módját, és az egyetemes útdíjszolgáltató által a bevallási közreműködők és
+a viszonteladók részére fizetendő átalány-költségtérítés mértékét és számításának módját.
+(6) Az Útdíjtv. 28/A. §-ában foglaltaktól eltérően felhatalmazást kap a közlekedésért felelős miniszter, hogy
+a) rendeletben állapítsa meg az útdíjfizetési-szolgáltatásért felelős miniszterrel egyetértésben a törvény hatálya
+alá tartozó, díjfizetési kötelezettséggel érintett utakat és díjköteles elemi útszakaszokat, valamint az Útdíjtv.
+6. § (2a) bekezdése szerinti útdíjköteles elemi útszakaszok körét, továbbá az ezen útdíjköteles elemi
+útszakaszokon az úthasználati jogosultság keletkezésének és fennállásának különös szabályait;
+b) rendeletben állapítsa meg az államháztartásért felelős miniszterrel, és az útdíjfizetési-szolgáltatásért felelős
+miniszterrel egyetértésben – a Kormány által rendeletben megállapított díjpolitikai alapelvek alapján –
+az útdíjköteles elemi útszakaszok használatáért fizetendő útdíj – beleértve az infrastruktúradíjat és
+a külsőköltség-díjat – alapmértékét;
+c) rendeletben állapítsa meg az útdíjfizetési-szolgáltatásért felelős miniszterrel egyetértésben az úttestbe
+épített áthajtásos tömegmérő pontok működtetésének részletszabályait;
+d) rendeletben állapítsa meg a felügyeleti szerv nyilvántartás vezetésével kapcsolatos jogaira és
+kötelezettségeire, valamint a nyilvántartás vezetésére vonatkozó eljárási szabályokat;
+e) rendeletben állapítsa meg a Kormány által megállapított egyes díjkategóriákban tartozó gépjárművek
+díjszedési környezetvédelmi besorolását;
+f) rendeletben jelölje ki a tanúsító szervet.
+
+3. § (1) A Kkt. 33/A. § (5) bekezdésében foglaltaktól eltérően a használati díjból származó bevétel a Kkt. 32. §
+(4) bekezdésében meghatározott célokra, valamint a közlekedési infrastruktúra fejlesztésében állami feladatokat
+ellátó közútfejlesztési gazdasági társaság más forrásból meg nem térülő működési költségeinek fedezetét biztosító,
+továbbá a Kkt. 29. § (1) bekezdése szerinti építtetői feladatok ellátása körében az országos közutak felújítását és
+fejlesztését szolgáló projektek megvalósítását biztosító támogatás nyújtására használható fel.
+(2) A Kkt. 33/A. § (6) bekezdésében foglaltaktól eltérően a Kkt. 33/A. § (1) bekezdésében meghatározott díjak
+beszedésének feladatait, a használati díjak megfizetéséhez kapcsolódó, jogszabályban meghatározott korrekciós
+szolgáltatásokat, szolgáltatásjellegű feladatokat, valamint a díjellenőrzési létesítmények üzemeltetését,
+működtetését az útdíjszolgáltatási gazdasági társaság látja el. E feladatai ellátása tekintetében az útdíjszolgáltatási
+gazdasági társaság jogosult a közúti közlekedési nyilvántartás adataihoz a közúti közlekedési nyilvántartásról szóló
+törvényben foglaltak szerint hozzáférni. Ennek végrehajtása érdekében az útdíjszolgáltatási gazdasági társaság által
+nyújtott szolgáltatások biztosítására vonatkozó szerződés megkötésével kapcsolatos feladatokat az útdíjfizetési-
+szolgáltatásért felelős miniszter látja el.
+(3) A Kkt. 33/B. § (1) bekezdésében foglaltaktól eltérően a használati díjfizetéssel érintett országos közutakat – ideértve
+erre irányuló szerződés esetén a Kkt. 33. § (1) bekezdés a) pontja szerinti kezelő által működtetett országos
+közutat is – vagy azok egyes szakaszait, a használati díj, ennek megfizetése elmaradása esetén a pótdíjat vagy
+meghatározásának módját, valamint a fizetés módját és feltételeit – a Kormány által jóváhagyott elvek alapján –
+a közlekedésért felelős miniszter az útdíjfizetési-szolgáltatásért felelős miniszterrel és az államháztartásért felelős
+miniszterrel egyetértésben, rendeletben állapítja meg.
+(4) A Kkt. 47. §-ában foglaltaktól eltérően a törvény alkalmazásában a használati díjból származó bevétel a használati
+díjakból, pótdíjakból, valamint egyéb eljárási jellegű díjakból származó valamennyi bevételnek az útdíjszolgáltatási
+gazdasági társaság a (2) bekezdésben meghatározott feladatainak ellátásával összefüggésben felmerült
+– a Kormány által rendeletben meghatározottak alapján – indokolt költségeivel csökkentett összege.
+(5) A Kkt. 48. § (3) bekezdésétől eltérően felhatalmazást kap az útdíjfizetési-szolgáltatásért felelős miniszter, hogy
+rendeletben állapítsa meg az útdíjszolgáltatási gazdasági társaság által a viszonteladóknak fizetendő átalány-
+költségtérítés mértékét és számításának módját.
+(6) A Kkt. 48. § (3) bekezdés a) pont 36. alpontjában foglaltaktól eltérően felhatalmazást kap a Kormány, hogy
+a használati díjból származó bevétel központi költségvetésbe történő befizetésének rendjét, részletes szabályait,
+továbbá az elszámolás számviteli szabályait rendeletben határozza meg.
+(7) A Kkt. 48. § (3) bekezdésének g) pontjában foglaltaktól eltérően felhatalmazást kap a közlekedésért felelős miniszter,
+hogy az államháztartásért felelős miniszterrel és az útdíjfizetési-szolgáltatásért felelős miniszterrel egyetértésben,
+rendeletben állapítsa meg
+a) a díjfizetéssel érintett országos közutakat – ideértve az erre irányuló koncessziós szerződés alapján
+működtetett országos közutat is – vagy azok egyes szakaszait,
+b) a Kkt. 33/A. § szerinti használati díjat, a használati díj megfizetésének elmaradása esetén kiszabható pótdíjat,
+valamint a pótdíj megfizetésének elmaradása esetén kiszabható többletpótdíjat vagy meghatározásának
+módját,
+c) a Kkt. 33/B. § (5) bekezdése szerinti pótdíjfizetési felszólítás kézbesítésére vonatkozó szabályokat,
+d) a díjfizetés módját és feltételeit,
+e) a Kkt. 33/A. §-a szerinti időtartamot.
+(8) A Kkt. 32. § (4) bekezdésében foglaltaktól eltérően a Kkt. 8. § (1) bekezdés a) pontja 3. alpontjában, a Kkt. 11. §
+(2) bekezdésében, a Kkt. 34. § (1) bekezdésében, valamint más jogszabályban meghatározott, az országos
+közúthálózat üzemeltetésére, fenntartására és fejlesztésére, a díjpolitika megalapozására vonatkozó állami feladatok
+pénzügyi forrásait a központi költségvetésről szóló törvényben kell megállapítani.
+4. §
+Ez a rendelet 2023. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
