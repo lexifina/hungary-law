@@ -1,0 +1,57 @@
+# A Kormány 566/2022. (XII. 23.) Korm. rendelete
+
+Magyar Közlöny 2022. évi 213. szám, 2022. december 23. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/yGMiBETeAaFnLxOy0SR663a0e0cb95949/dokumentumok/b2e2e376de8053eb6eb3b6c72f1c59b59cc61fb3/letoltes)
+
+---
+
+A Kormány 566/2022. (XII. 23.) Korm. rendelete
+egyes közigazgatási hatósági eljárásokkal összefüggő szabályok megállapításáról
+A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi
+és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) Ha a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény szerinti kármentesítési eljárás során
+meghozott, beavatkozást elrendelő határozatban vagy az egyes közigazgatási hatósági eljárásokkal összefüggő
+szabályok megállapításáról szóló 286/2021. (V. 27.) Korm. rendelet alapján meghozott határozatban a beavatkozás
+elvégzésére megállapított határidő – a beavatkozási munkákon felül ideértve a beavatkozási záródokumentáció
+benyújtását is – az e rendelet hatálybalépésétől számított két éven belül jár le, akkor a beavatkozás kötelezettje
+a (3) bekezdésben megjelölt személyek értesítése mellett a környezetvédelmi hatóságtól kérelmezheti
+a határidőknek további, legfeljebb két évvel történő meghosszabbítását.
+(2) Ha a vízgazdálkodásról szóló 1995. évi LVII. törvény szerinti – az (1) bekezdésben meghatározott kármentesítési
+eljáráshoz kapcsolódó – vízjogi létesítési engedélyben megállapított határidő az e rendelet hatálybalépésétől
+számított két éven belül jár le, akkor az engedély jogosultja a (3) bekezdésben megjelölt személyek értesítése
+mellett a vízügyi hatóságtól kérelmezheti a határidőknek további, legfeljebb két évvel történő meghosszabbítását.
+(3) Az (1) és (2) bekezdés szerinti értesítés esetén a kérelem benyújtásához nem szükséges az ingatlan tulajdonosának,
+továbbá az (1) bekezdés szerinti kötelezettel vagy a (2) bekezdés szerinti engedély jogosultjával szerződéses vagy
+egyéb jogviszonyban álló érdekelt félnek (a továbbiakban együtt: érdekelt fél) a hozzájárulása.
+(4) Az (1) és a (2) bekezdés szerinti határidő-hosszabbítás iránti kérelmet az érdekelt fél is előterjeszthet. Ha ugyanazon
+beavatkozási kötelezettség, illetve ugyanazon vízjogi létesítési kötelezettség tekintetében a kötelezett vagy jogosult
+és az érdekelt fél is határidő-hosszabbítás iránti kérelmet terjeszt elő, kizárólag a kötelezett vagy jogosult kérelme
+bírálható el.
+(5) Az (1) és a (2) bekezdés szerinti határidő-hosszabbítás megállapítása iránti eljárásban a végleges döntéssel
+megállapított beavatkozás alapjául szolgáló kármentesítési és vízjogi tényállás tisztázásának, a döntéssel elbírált
+szakkérdések, engedélyezési feltételek értékelésének nincs helye. Az eljárás során a hatóság kizárólag azt
+vizsgálja, hogy a kérelem az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény és e rendelet szerinti
+feltételeknek megfelel-e.
+(6) Az eljárás kiterjedhet az (1) és (2) bekezdésben foglalt időponton túl lejáró beavatkozási vagy monitoring-határidők,
+továbbá vízjogi engedélyben vagy kötelezésben foglalt határidők (a továbbiakban: ráépülő határidők) módosítására
+is, feltéve, hogy ezek a beavatkozást elrendelő határozat alapján az (1) és (2) bekezdés szerinti határidő-
+hosszabbítással érintett kötelezettségre épülnek, és határidő-hosszabbítás esetén nem válnának betarthatóvá.
+
+A ráépülő határidők meghosszabbításának szükségességét a hatóság erre irányuló kifejezett kérelem hiányában,
+hivatalból is vizsgálja és dönt ezek tárgyában.
+(7) A határidő-hosszabbítás iránti eljárásban
+a) az ügyintézési határidő öt nap,
+b) szakhatóság nem működik közre,
+c) illeték- és igazgatási szolgáltatási díj (a továbbiakban együtt: díj) fizetésének nincs helye, és a díjon felül
+felmerülő eljárási költséget a hatóság viseli.
+(8) A határidő-hosszabbítás megállapítására irányuló kérelemnek helyt adó döntéssel szemben felügyeleti eljárásnak
+nincs helye, és az a bíróság előtt nem támadható meg.
+(9) A kármentesítésre kötelezettel szemben a beavatkozási kötelezettségek e rendelet alapján történő elmaradása
+miatt – a döntés véglegessé válása és a határidő-hosszabbítás lejárta közötti időszakra vonatkozóan – kártérítési
+felelősség nem érvényesíthető. A kötelezettnek a már fennálló, a kármentesítéssel összefüggő magánjogi
+jogviszonyaiban jogosultságai nem változnak, és kötelezettségei – az e rendeletben meghatározottakat is
+figyelembe véve – nem válhatnak terhesebbé.
+2. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
