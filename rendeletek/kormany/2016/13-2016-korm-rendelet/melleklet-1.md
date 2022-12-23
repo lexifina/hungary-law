@@ -1,8 +1,8 @@
-## 7. §[^3] A HELL cégcsoport Szikszó területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 13/2016. (II. 9.) Korm. rendelet módosításáról szóló 113/2020. (IV. 14.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 1. § (1) bekezdését a Módr1. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^4] A HELL cégcsoport Szikszó területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 13/2016. (II. 9.) Korm. rendelet módosításáról szóló 113/2020. (IV. 14.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 1. § (1) bekezdését a Módr1. hatálybalépésekor[^5] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 13/2016. (II. 9.) Korm. rendelethez
 
-## A HELL cégcsoport Szikszó területén megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági eljárások
+A HELL cégcsoport Szikszó területén megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -52,5 +52,5 @@
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^3]: A 7. §-t a 113/2020. (IV. 14.) Korm. rendelet 2. §-a iktatta be.
-[^4]: A hatálybalépés időpontja 2020. április 15.
+[^4]: A 7. §-t a 113/2020. (IV. 14.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A hatálybalépés időpontja 2020. április 15.
