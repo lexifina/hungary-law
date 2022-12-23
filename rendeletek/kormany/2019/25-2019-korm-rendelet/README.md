@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-25-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2019-02-28 | 2019-25-20-22.1 | 25/2019. (II. 27.) Korm. rendelet |
+| 2022-12-23 | 2019-25-20-22.2 | 546/2022. (XII. 22.) Korm. rendelet |

@@ -2,7 +2,7 @@
 
 1. melléklet a 25/2019. (II. 27.) Korm. rendelethez
 
-## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági és tudomásulvételi eljárások,
 
