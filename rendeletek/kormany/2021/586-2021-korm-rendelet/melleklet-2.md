@@ -1,5 +1,3 @@
-## A Budapesti Agglomerációhoz tartozó Pest megyei településeken működő köznevelési intézmények infrastrukturális fejlesztései és a beruházások helyszínei
-
 |  | A | B | C |
 
 | 1. | Település/Intézmény | Fejlesztés | Fejlesztés helyszíne |
@@ -38,7 +36,7 @@
 
 2. melléklet az 586/2021. (X. 14.) Korm. rendelethez
 
-## A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
