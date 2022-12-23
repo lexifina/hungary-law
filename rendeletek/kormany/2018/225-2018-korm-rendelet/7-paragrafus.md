@@ -1,4 +1,4 @@
-## 7. §[^5] Az eredeti architektúra visszaállítása érdekében az eredeti építészeti arculat – Fellner Sándor 1903-as tervei alapján történő homlokzat- és tetőrekonstrukció, a Szentháromság tér (Budapest I. kerület, belterület 6531 helyrajzi szám), valamint a Fortuna köz (Budapest I. kerület, belterület 6592 helyrajzi szám) területén az elbontott rizalitok visszaépítése –, valamint ezzel összefüggésben a korszerű munkakörülményeket biztosító épületbelső kialakítása érdekében elkészítendő új tervek szerint megvalósuló Beruházással érintett építmények, önálló rendeltetési egységek esetében az országos településrendezési és építési követelményekről szóló kormányrendeletet és a hatályos településrendezési tervet a következő eltérésekkel kell alkalmazni, valamint a következő építési követelményeket kell érvényesíteni:
+## 7. §[^6] Az eredeti architektúra visszaállítása érdekében az eredeti építészeti arculat – Fellner Sándor 1903-as tervei alapján történő homlokzat- és tetőrekonstrukció, a Szentháromság tér (Budapest I. kerület, belterület 6531 helyrajzi szám), valamint a Fortuna köz (Budapest I. kerület, belterület 6592 helyrajzi szám) területén az elbontott rizalitok visszaépítése –, valamint ezzel összefüggésben a korszerű munkakörülményeket biztosító épületbelső kialakítása érdekében elkészítendő új tervek szerint megvalósuló Beruházással érintett építmények, önálló rendeltetési egységek esetében az országos településrendezési és építési követelményekről szóló kormányrendeletet és a hatályos településrendezési tervet a következő eltérésekkel kell alkalmazni, valamint a következő építési követelményeket kell érvényesíteni:
 
 a) a Beruházás keretében megvalósuló új önálló rendeltetési egységek rendeltetésszerű használatához személygépkocsi elhelyezését nem kell biztosítani,
 
@@ -28,7 +28,7 @@ m) terepszint feletti parkolóhely a belső udvaron létesíthető,
 
 n) az 1. § (1) bekezdése szerinti ingatlanokon álló építmény gépjárművel való megközelítése nem korlátozott,
 
-o)[^6] a szintterületi mutató megengedett legnagyobb mértékére és a közhasználat céljára átadandó területekre vonatkozó, településrendezési tervben rögzített előírásokat nem kell alkalmazni,
+o)[^7] a szintterületi mutató megengedett legnagyobb mértékére és a közhasználat céljára átadandó területekre vonatkozó, településrendezési tervben rögzített előírásokat nem kell alkalmazni,
 
 p) az 1. § (1) bekezdése szerinti ingatlanokon álló valamennyi épületen tetőablak és tetőbevilágítási lehetőség létesíthető,
 
@@ -38,5 +38,5 @@ r) az 1. § (1) bekezdése szerinti ingatlanokon a burkolt felületek aránya ne
 
 s) az 1. § (1) bekezdése szerinti ingatlanok vonatkozásában építési helynek kell tekinteni a telekhatár- rendezéssel kialakuló telket.
 
-[^5]: A 7. § nyitó szövegrésze a 420/2021. (VII. 15.) Korm. rendelet 100. § a) pontja szerint módosított szöveg.
-[^6]: A 7. § o) pontja a 420/2021. (VII. 15.) Korm. rendelet 100. § b) pontja szerint módosított szöveg.
+[^6]: A 7. § nyitó szövegrésze a 420/2021. (VII. 15.) Korm. rendelet 100. § a) pontja szerint módosított szöveg.
+[^7]: A 7. § o) pontja a 420/2021. (VII. 15.) Korm. rendelet 100. § b) pontja szerint módosított szöveg.

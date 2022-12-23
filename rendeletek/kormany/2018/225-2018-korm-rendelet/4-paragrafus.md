@@ -1,5 +1,3 @@
-## jelöli ki.
-
 4. § (1) A Beruházással összefüggésben
 
 a) nem kell építészeti-műszaki tervtanácsi véleményt beszerezni,
