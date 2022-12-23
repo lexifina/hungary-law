@@ -2,7 +2,7 @@
 
 1. melléklet az 504/2020. (XI. 17.) Korm. rendelethez
 
-## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. örökségvédelmi hatósági engedélyezési és bejelentési eljárások,
 
