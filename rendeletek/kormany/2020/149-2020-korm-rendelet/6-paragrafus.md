@@ -2,7 +2,7 @@
 
 a) az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
-b)[^1] ha a hatályos településrendezési terv és az OTÉK a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
+b)[^2] ha a hatályos településrendezési terv és az OTÉK a beépítés (2) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
 
 (2) Az 1. § (1) bekezdése szerinti ingatlanra meghatározott sajátos beépítési szabályok és egyedi építési követelmények:
 
@@ -18,4 +18,4 @@ e) új épület építése esetén nem szükséges környezettűrő, nagy lombko
 
 f) az építési hely az érintett ingatlan teljes területe.
 
-[^1]: A 6. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 107. §-a szerint módosított szöveg.
+[^2]: A 6. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 107. §-a szerint módosított szöveg.
