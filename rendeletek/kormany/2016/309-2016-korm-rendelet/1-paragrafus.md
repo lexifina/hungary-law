@@ -6,7 +6,7 @@ b) a Csörsz utcai oktatási és sportlétesítmény kialakítására irányuló
 
 c) a Velencei vízisport-telep, a Velence, 1111 helyrajzi számú ingatlanon,
 
-## illetve ezen ingatlanokból telekalakítási eljárások véglegessé válását követően kialakított ingatlanokon megvalósuló beruházásokkal összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+illetve ezen ingatlanokból telekalakítási eljárások véglegessé válását követően kialakított ingatlanokon megvalósuló beruházásokkal összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
 
 (2) Az (1) bekezdés alkalmazásában a beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek az (1) bekezdés szerinti beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
 
