@@ -1,0 +1,3 @@
+2. § A 18/2017. (XII. 21.) KKM rendelet 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A tananyagot és a vizsgakérdéseket a minisztérium tananyag kidolgozásáért felelős szervezeti egységei (a továbbiakban: tantárgyfelelős szervezeti egységek) állítják össze. A tananyagot és a vizsgakérdéseket a tantárgyfelelős szervezeti egységek szükség szerint aktualizálják. A tananyagot és a vizsgakérdéseket a tantárgyfelelős szervezeti egység által kidolgozott és gondozott tananyag-, illetve vizsgarész vonatkozásában a tantárgyfelelős szervezeti egységet közvetlenül irányító politikai vagy szakmai felsővezető hagyja jóvá.”
