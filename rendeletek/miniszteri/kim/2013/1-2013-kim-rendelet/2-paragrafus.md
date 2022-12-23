@@ -6,7 +6,10 @@ a) a rendészetért felelős miniszter a rendészeti felsőoktatás és külön 
 
 b) a honvédelemért felelős miniszter a katonai felsőoktatás és külön a nemzetbiztonsági felsőoktatás katonai területe
 
+c)[^4] a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter a nemzetbiztonsági felsőoktatás polgári területe
+
 tekintetében beiskolázási tervet készít szak, szakirány képzés szintje, munkarendje és finanszírozási forma szerinti bontásban, melyet eljuttat az Egyetem részére.
 
 [^2]: Az 1. § a 2/2021. (II. 12.) MvM rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § záró szövegrésze a 2/2021. (II. 12.) MvM rendelet 7. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § c) pontját a 19/2022. (XII. 22.) MVM rendelet 1. §-a iktatta be.
