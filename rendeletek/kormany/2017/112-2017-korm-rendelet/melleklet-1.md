@@ -1,8 +1,8 @@
-## 7. §[^3] A Nádudvaron megvalósuló feldolgozóipari beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 112/2017. (IV. 28.) Korm. rendelet módosításáról szóló 177/2018. (X. 1.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését a Módr. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^4] A Nádudvaron megvalósuló feldolgozóipari beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 112/2017. (IV. 28.) Korm. rendelet módosításáról szóló 177/2018. (X. 1.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését a Módr. hatálybalépésekor[^5] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 112/2017. (IV. 28.) Korm. rendelethez
 
-## Az 1. § (1) bekezdése szerinti beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+Az 1. § (1) bekezdése szerinti beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -50,5 +50,5 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^3]: A 7. §-t a 177/2018. (X. 1.) Korm. rendelet 2. §-a iktatta be.
-[^4]: A hatálybalépés időpontja 2018. október 2.
+[^4]: A 7. §-t a 177/2018. (X. 1.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A hatálybalépés időpontja 2018. október 2.
