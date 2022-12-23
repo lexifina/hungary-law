@@ -2,7 +2,7 @@
 
 1. melléklet a 80/2016. (IV. 12.) Korm. rendelethez
 
-## A CSABAcast Könnyűfémöntöde Kft. Apc község területén megvalósuló beruházásának megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+A CSABAcast Könnyűfémöntöde Kft. Apc község területén megvalósuló beruházásának megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
