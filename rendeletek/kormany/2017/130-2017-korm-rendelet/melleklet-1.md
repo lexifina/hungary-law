@@ -1,8 +1,8 @@
-## 10. §[^4] E rendeletnek a fővárosi és megyei kormányhivatalok hatásköreinek változásával összefüggő egyes kormányrendeletek módosításáról szóló 196/2020. (V. 12.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 2. § (1) bekezdését a Módr. hatálybalépésekor[^5] folyamatban lévő ügyekben is alkalmazni kell.
+## 10. §[^5] E rendeletnek a fővárosi és megyei kormányhivatalok hatásköreinek változásával összefüggő egyes kormányrendeletek módosításáról szóló 196/2020. (V. 12.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 2. § (1) bekezdését a Módr. hatálybalépésekor[^6] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 130/2017. (VI. 8.) Korm. rendelethez
 
-## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -52,5 +52,5 @@
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^4]: A 10. §-t a 196/2020. (V. 12.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^5]: A hatálybalépés időpontja 2020. május 13.
+[^5]: A 10. §-t a 196/2020. (V. 12.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^6]: A hatálybalépés időpontja 2020. május 13.
