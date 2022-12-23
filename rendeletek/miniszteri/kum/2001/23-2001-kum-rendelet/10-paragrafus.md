@@ -4,6 +4,8 @@
 
 (2) A rendelet 6. §-ában meghatározott külföldi részére a vízum kiadására a látogatót fogadó külképviselet vagy annak küldő állama szóbeli jegyzékében előterjesztett kérelmére kerül sor.
 
-(3) A rendelet 8. §-ában meghatározott külföldiek részére a vízum kiadására a Külügyminisztérium illetékes osztályának vagy a külképviseletnek a javaslata alapján kerül sor.
+(3)[^9] A rendelet 8. §-ában meghatározott külföldiek részére a vízum kiadására a minisztérium illetékes osztályának vagy a külképviseletnek a javaslata alapján kerül sor.
 
 (4) Az (1) és (2) bekezdésben meghatározott szóbeli jegyzék, valamint a (3) bekezdésben szereplő javaslat a Tv. 4. § (1) bekezdése d) pontja szerinti feltételek igazolását pótolja.
+
+[^9]: A 10. § (3) bekezdése a 20/2022. (XII. 22.) KKM rendelet 2. § b) pontja szerint módosított szöveg.

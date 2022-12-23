@@ -1,1 +1,3 @@
-## 17. § A Külügyminisztérium az e rendelet alapján általa és a külképviseletek által kiadott vízumokról a Tv. 79. § (1) bekezdésében meghatározott adatok közlésével tájékoztatja a központi adatkezelő szervet. A kiadott tartózkodásra jogosító engedélyekről a Tv. 81. § (1) bekezdésében meghatározott adatokkal értesíti a központi adatkezelő szervet.
+18. §[^15] A minisztérium konzuli feladatot ellátó szervezeti egysége jár el a rendelet hatálya alá tartozó külföldiek beutazását és tartózkodását érintő engedélyezési ügyekben, ha e rendelet másként nem rendelkezik.
+
+[^15]: A 18. § a 20/2022. (XII. 22.) KKM rendelet 2. § b) pontja szerint módosított szöveg.

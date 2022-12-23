@@ -1,1 +1,3 @@
-## 6. § A 3. § a) pontjában és a 4. § a) pontjában meghatározott személyhez magáncélból utazó vízumkötelezett külföldi részére a Külügyminisztérium vagy – a Külügyminisztérium engedélyével – a külképviselet udvariassági láttamozású magáncélú vízumot adhat ki. E személy részére a vízum kiadása a viszonosságtól függően díjmentes. A viszonosság kérdésében a Külügyminisztérium konzuli feladatot ellátó szervezeti egységének vezetője nyilatkozik.
+7. §[^7] A külföldi állam vagy a nemzetközi szervezet megbízásából ad hoc diplomáciai megbízással Magyarországra utazó személy és családtagja – útiokmánya típusától függően – diplomáciai vagy szolgálati láttamozású hivatalos díjmentes vízumot kaphat.
+
+[^7]: A 7. § a 20/2022. (XII. 22.) KKM rendelet 2. § a) pontja szerint módosított szöveg.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-23-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2002-01-01 | 2001-23-20-27.1 | 23/2001. (XII. 27.) KüM rendelet |
+| 2022-12-23 | 2001-23-20-27.2 | 20/2022. (XII. 22.) KKM rendelet |
