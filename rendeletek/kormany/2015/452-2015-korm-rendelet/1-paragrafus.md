@@ -6,7 +6,7 @@ b)[^1] a Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó é
 
 c)[^2]
 
-## az Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztéssel (a továbbiakban együtt: Beruházás) függenek össze.
+az Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztéssel (a továbbiakban együtt: Beruházás) függenek össze.
 
 (2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek a Beruházás megvalósításához, használatbavételéhez, illetve üzembe helyezéséhez szükségesek.
 
