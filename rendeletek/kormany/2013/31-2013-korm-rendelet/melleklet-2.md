@@ -1,5 +1,3 @@
-## Az IBIDEN Hungary Kft. Dunavarsány város területén megvalósuló, kipufogórendszerekhez kapcsolódó újgenerációs termékek gyártását eredményező beruházásával kapcsolatos kiemelt jelentőségű ügyek és az azokban eljáró hatóságok
-
 |  |  | A | B | C | D |
 
 |  | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos eljárások | Eljáró hatóság |
