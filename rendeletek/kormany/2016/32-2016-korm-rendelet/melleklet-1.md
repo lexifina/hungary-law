@@ -1,4 +1,4 @@
-## 11. §[^6] E rendeletnek az újfehértói sportcentrum beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 32/2016. (II. 25.) Korm. rendelet módosításáról szóló 282/2021. (V. 26.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. §-át a Módr2. hatálybalépésekor[^7] folyamatban lévő ügyekben is alkalmazni kell.
+## 11. §[^7] E rendeletnek az újfehértói sportcentrum beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 32/2016. (II. 25.) Korm. rendelet módosításáról szóló 282/2021. (V. 26.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. §-át a Módr2. hatálybalépésekor[^8] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 32/2016. (II. 25.) Korm. rendelethez
 
@@ -42,5 +42,5 @@
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^6]: A 11. §-t a 282/2021. (V. 26.) Korm. rendelet 1. §-a iktatta be.
-[^7]: A hatálybalépés időpontja 2021. május 27.
+[^7]: A 11. §-t a 282/2021. (V. 26.) Korm. rendelet 1. §-a iktatta be.
+[^8]: A hatálybalépés időpontja 2021. május 27.
