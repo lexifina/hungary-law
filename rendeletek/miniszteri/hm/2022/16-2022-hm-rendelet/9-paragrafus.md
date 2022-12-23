@@ -1,0 +1,1 @@
+9. § Az R2. 1. § 4. pontjában a „40 km, és a szolgálati hely szerinti település a járat üzemeltetője által közzétett menetrend szerint a tömegközlekedési eszközzel legfeljebb egy óra alatt megközelíthető” szövegrész helyébe a „40 km” szöveg lép.
