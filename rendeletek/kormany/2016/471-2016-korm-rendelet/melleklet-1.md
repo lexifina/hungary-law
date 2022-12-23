@@ -2,7 +2,7 @@
 
 1. melléklet a 471/2016. (XII. 23.) Korm. rendelethez
 
-## Az 1. § (1) bekezdése szerinti beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+Az 1. § (1) bekezdése szerinti beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
