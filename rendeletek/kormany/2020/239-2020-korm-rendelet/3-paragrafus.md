@@ -1,5 +1,3 @@
-## jelöli ki.
-
 3. § (1) A Beruházással összefüggésben
 
 a) építészeti-műszaki tervtanácsi véleményt nem kell beszerezni,

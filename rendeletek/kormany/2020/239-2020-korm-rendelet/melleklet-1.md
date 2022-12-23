@@ -1,8 +1,8 @@
-## 9. §[^10] E rendeletnek az Állatorvostudományi Egyetem kampuszának komplex infrastrukturális fejlesztése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az eljáró hatóságok kijelöléséről szóló 239/2020. (V. 26.) Korm. rendelet, továbbá a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet módosításáról szóló 621/2021. (XI. 8.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését, 1/A. §-át, 2. §-át, 5. § (2) és (4)–(6) bekezdését, 5/A. §-át a Módr. hatálybalépésekor[^11] folyamatban levő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 9. §[^11] E rendeletnek az Állatorvostudományi Egyetem kampuszának komplex infrastrukturális fejlesztése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint az eljáró hatóságok kijelöléséről szóló 239/2020. (V. 26.) Korm. rendelet, továbbá a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 299/2017. (X. 17.) Korm. rendelet módosításáról szóló 621/2021. (XI. 8.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését, 1/A. §-át, 2. §-át, 5. § (2) és (4)–(6) bekezdését, 5/A. §-át a Módr. hatálybalépésekor[^12] folyamatban levő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 239/2020. (V. 26.) Korm. rendelethez
 
-## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -50,5 +50,5 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^10]: A 9. §-t a 621/2021. (XI. 8.) Korm. rendelet 6. §-a ikktatta be.
-[^11]: A hatálybalépés időpontja 2021. november 9.
+[^11]: A 9. §-t a 621/2021. (XI. 8.) Korm. rendelet 6. §-a ikktatta be.
+[^12]: A hatálybalépés időpontja 2021. november 9.
