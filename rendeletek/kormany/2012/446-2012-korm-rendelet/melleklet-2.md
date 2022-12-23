@@ -1,5 +1,3 @@
-## A Bridgestone Tatabánya Termelő Kft. Tatabányai Ipari Parkban megvalósuló
-
 ## új személygépkocsi gumiabroncs gyártó üzemének beruházásával kapcsolatos kiemelt jelentőségű ügyek és az azokban eljáró hatóságok
 
 |  | A | B | C | D |
