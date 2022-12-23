@@ -2,7 +2,7 @@
 
 1. melléklet a 107/2016. (V. 13.) Korm. rendelethez
 
-## A Linamar Hungary Autóipari és Gépgyártó Zártkörűen Működő Részvénytársaság beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Linamar Hungary Autóipari és Gépgyártó Zártkörűen Működő Részvénytársaság beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
