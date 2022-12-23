@@ -2,7 +2,7 @@
 
 1. melléklet a 278/2016. (IX. 15.) Korm. rendelethez
 
-## A Vecsés város külterületén megvalósuló ingatlanfejlesztési beruházással összefüggő közigazgatási hatósági üggyé nyilvánított eljárások
+A Vecsés város külterületén megvalósuló ingatlanfejlesztési beruházással összefüggő közigazgatási hatósági üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
