@@ -2,7 +2,7 @@
 
 1. melléklet a 308/2019. (XII. 17.) Korm. rendelethez
 
-## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
 
