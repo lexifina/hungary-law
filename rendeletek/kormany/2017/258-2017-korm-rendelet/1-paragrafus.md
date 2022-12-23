@@ -6,7 +6,7 @@ b) zöldségszárító üzem, valamint
 
 c) paradicsomsűrítmény-üzem
 
-## létesítésére irányuló beruházásokkal (a továbbiakban együtt: Beruházások) függenek össze.
+létesítésére irányuló beruházásokkal (a továbbiakban együtt: Beruházások) függenek össze.
 
 (2) Az (1) bekezdés alkalmazásában a Beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
 
