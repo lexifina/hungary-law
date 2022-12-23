@@ -1,5 +1,3 @@
-## A Beruházással érintett, 1. § (1) bekezdése szerinti ingatlanok
-
 |  | A | B |
 
 | 1. | Település | Ingatlan helyrajzi száma |

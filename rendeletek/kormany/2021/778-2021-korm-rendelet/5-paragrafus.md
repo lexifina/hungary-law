@@ -1,1 +1,0 @@
-## 4. § A Kormány a Beruházással összefüggő kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Győr-Moson-Sopron Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.

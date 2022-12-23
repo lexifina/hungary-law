@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-778-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-12-24 | 2021-778-20-22.1 | 778/2021. (XII. 23.) Korm. rendelet |
+| 2022-12-23 | 2021-778-20-22.2 | 546/2022. (XII. 22.) Korm. rendelet |
