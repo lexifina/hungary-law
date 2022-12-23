@@ -1,12 +1,10 @@
-## Tűzoltólaktanyák kialakításával összefüggő projektek
-
 |  | A | B | C |
 
 |  | Felhívás azonosító jele | Beruházások megnevezése | Beruházások megvalósításának helyszíne |
 
-| 1. | KEHOP-1.6.0-15-2016-00005 | Gyöngyös tűzoltóság | Gyöngyös, Bethlen Gábor utca, 2740/62 helyrajzi számú ingatlan |
+| 1. |  |  |  |
 
-| 2. | KEHOP-1.6.0-15-2016-00015 | Kiskőrös tűzoltóság | Kiskőrös, Dózsa György út, 104/9 helyrajzi számú ingatlan |
+| 2. |  |  |  |
 
 | 3. | KEHOP-1.6.0-15-2016-00012 | Kecskemét tűzoltóság | Kecskemét, 8550/29 helyrajzi számú ingatlan |
 
@@ -14,13 +12,13 @@
 
 | 5. | KEHOP-1.6.0-15-2016-00014 | Pécs II. tűzoltóság | Pécs, Megyeri út, 3685/35 helyrajzi számú ingatlan, illetve az ezen ingatlanból telekalakítási eljárás jogerős befejezését követően kialakított ingatlan |
 
-| 6. | KEHOP-1.6.0-15-2016-00011 | Fehérgyarmat tűzoltóság | Fehérgyarmat, Kiss Ernő u. 4–6. szám alatti ingatlan |
+| 6. |  |  |  |
 
 | 7. | KEHOP-1.6.0-15-2016-00019 | Piliscsaba tűzoltóság | Piliscsaba, Fő út 2., 1602/4, 1602/4/A, 085/9, valamint 080/13 helyrajzi számú ingatlanok; Piliscsaba lőtér 080/4 helyrajzi számú ingatlan |
 
 2. melléklet a 260/2016. (VIII. 31.) Korm. rendelethez
 
-## A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
