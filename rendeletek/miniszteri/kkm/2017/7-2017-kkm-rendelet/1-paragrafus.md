@@ -6,6 +6,6 @@ a) Magyarország diplomáciai és konzuli képviseleteire, a nemzetközi szervez
 
 b) a külképviselet által foglalkoztatott házastársra [az a) és b) pont a továbbiakban együtt: kiküldött]
 
-## terjed ki.
+terjed ki.
 
 (2) A rendelet hatálya nem terjed ki a Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: EU ÁK) tartós külszolgálatra kihelyezett kormánytisztviselőkre és kormányzati ügykezelőkre, valamint az EU ÁK által foglalkoztatott házastársra.

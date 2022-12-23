@@ -1,5 +1,3 @@
-## nem számolható el.
-
 ## 5. Az utazás módjára vonatkozó szabályok
 
 6. § (1) Az ideiglenes kiküldetés során repülőgéppel történő utazás esetén a külképviselet-vezető
@@ -8,7 +6,7 @@ a) négy óra repülési időt meghaladó repülőút esetén az állami vezető
 
 b) egyéb esetben turistaosztályra szóló repülőjegy
 
-## igénybevételére jogosult.
+igénybevételére jogosult.
 
 (2) Az (1) bekezdés alá nem tartozó kiküldött minden esetben az (1) bekezdés b) pontja szerinti repülőjegy igénybevételére jogosult.
 
@@ -18,7 +16,7 @@ a) a külképviselet-vezető I. osztályú;
 
 b) a kiküldött II. osztályú
 
-## menetjegy igénybevételére jogosult.
+menetjegy igénybevételére jogosult.
 
 (4) Hálókocsi, hálókabin igénybevételére – ha az utazás időtartama és az indulás időpontja együttesen indokolja – minden kiküldött jogosult.
 

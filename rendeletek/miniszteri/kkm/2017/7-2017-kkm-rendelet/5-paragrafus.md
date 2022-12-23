@@ -24,7 +24,7 @@ c) hivatali reprezentációs költség, valamint
 
 d) hivatalos kiadás bizonylattal igazolt költségének összegével arányos mértékben a pénzváltás költsége
 
-## számolható el.
+számolható el.
 
 (5) Az ideiglenes kiküldetés során felmerülő
 
@@ -35,3 +35,5 @@ b) telefon-, mobiltelefon-, internetdíj,
 c) egyéb fogyasztási költség, valamint
 
 b) ruházatmosatási és vasalási költség
+
+nem számolható el.
