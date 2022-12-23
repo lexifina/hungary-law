@@ -44,7 +44,7 @@ A Dunakeszin alap- és középfokú oktatási intézmények és kulturális köz
 
 17. közegészségügyi hatósági eljárások,
 
-18.[^15]
+18.[^16]
 
 19. földvédelmi hatósági eljárások,
 
@@ -52,4 +52,4 @@ A Dunakeszin alap- és középfokú oktatási intézmények és kulturális köz
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^15]: A 2. melléklet 18. pontját az 513/2021. (IX. 3.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^16]: A 2. melléklet 18. pontját az 513/2021. (IX. 3.) Korm. rendelet 4. §-a hatályon kívül helyezte.

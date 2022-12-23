@@ -1,8 +1,8 @@
-5/A. §[^2] (1) Az 1. mellékletben foglalt táblázat 2. sorában megjelölt ingatlanokat érintő beruházások esetében a 3. mellékletben foglalt táblázat B és C oszlopában megjelölt telkekre és telekrészekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
+5/A. §[^3] (1) Az 1. mellékletben foglalt táblázat 2. sorában megjelölt ingatlanokat érintő beruházások esetében a 3. mellékletben foglalt táblázat B és C oszlopában megjelölt telkekre és telekrészekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
 
-a)[^3] a hatályos településrendezési terv és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni,
+a)[^4] a hatályos településrendezési terv és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
-b)[^4] amennyiben a hatályos településrendezési terv a beépítés és az egyedi építési követelmények a (2)–(5) bekezdésben meghatározott sajátos szabályaival ellentétesek, vagy azokkal össze nem egyeztethető előírást tartalmaznak, akkor a településrendezési tervet nem lehet alkalmazni, továbbá
+b)[^5] amennyiben a hatályos településrendezési terv a beépítés és az egyedi építési követelmények a (2)–(5) bekezdésben meghatározott sajátos szabályaival ellentétesek, vagy azokkal össze nem egyeztethető előírást tartalmaznak, akkor a településrendezési tervet nem lehet alkalmazni, továbbá
 
 c) az érintett területre a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 29. §-át, valamint 40. §-át nem kell alkalmazni.
 
@@ -46,6 +46,6 @@ e) az épületmagasság megengedett legnagyobb mértéke 5 méter.
 
 (5) A (4) bekezdés szerinti tereprendezés és mélyalapozás építési engedélyezési dokumentációjának az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 8. mellékletében foglaltakon túl tartalmaznia kell talajvédelmi tervet.
 
-[^2]: Az 5/A. §-t a 201/2020. (V. 13.) Korm. rendelet 1. §-a iktatta be.
-[^3]: Az 5/A. § (1) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 106. § a) pontja szerint módosított szöveg.
-[^4]: Az 5/A. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 106. § b) pontja szerint módosított szöveg.
+[^3]: Az 5/A. §-t a 201/2020. (V. 13.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 5/A. § (1) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 106. § a) pontja szerint módosított szöveg.
+[^5]: Az 5/A. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 106. § b) pontja szerint módosított szöveg.

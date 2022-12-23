@@ -186,7 +186,7 @@
 
 | 92. |  | 656948,85 | 256441,79 | 656901,31 | 256344,19 |
 
-4. melléklet a 224/2019. (IX. 25.) Korm. rendelethez[^17]
+4. melléklet a 224/2019. (IX. 25.) Korm. rendelethez[^18]
 
 A közlekedési- és közműelhelyezési, hírközlési területek lehatárolása
 
@@ -328,4 +328,4 @@ A közlekedési- és közműelhelyezési, hírközlési területek lehatárolás
 
 | 67. | 036/260 | a teljes telek terület oktatási művelődési, egészségügyi, szociális, rekreációs, illetve sportlétesítmények és azokhoz kapcsolódó létesítmények elhelyezésére szolgáló terület |  |
 
-[^17]: A 4. mellékletet az 513/2021. (IX. 3.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^18]: A 4. mellékletet az 513/2021. (IX. 3.) Korm. rendelet 3. § (3) bekezdése iktatta be.
