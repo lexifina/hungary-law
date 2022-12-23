@@ -1,0 +1,3 @@
+1. § A rangadományozás és ranghasználat részletes szabályairól szóló 6/2016. (X. 12.) KKM rendelet 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A kormánytisztviselő kormányzati szolgálati jogviszonyának fenntartása mellett a munkáltatói jogkör gyakorlója engedélyével más kormányzati igazgatási, illetve közigazgatási szervvel történő jogviszony létesítés, fizetés nélküli, szabadság, tartós külszolgálati vagy kormányzati kirendelés esetén meglévő diplomáciai rangját megtartja, az előmeneteli rendben történő előrehaladásra, illetve a rang használatára azonban csak a kihelyező vezető ezirányú döntése esetén van lehetőség.”
