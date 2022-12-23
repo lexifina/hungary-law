@@ -14,6 +14,8 @@ e) a minősített adatokat kezelő elektronikus rendszerek üzemeltetéséhez sz
 
 f) az Európai Unió (a továbbiakban: EU) minősített adatkezeléshez szükséges akkreditációjának a megszerzése,
 
-g) a Védett Külügyi Hálózat (a továbbiakban: VKH) és az Optonet Üzemeltetés biztonsági szabályzatának elkészítése,
+g)[^2] a VKH és az Optonet Üzemeltetés biztonsági szabályzatának elkészítése,
 
 h) vészhelyzeti biztonsági és evakuációs terv elkészítése.
+
+[^2]: Az 5. § g) pontja a 25/2022. (XII. 22.) KKM rendelet 2. §-a szerint módosított szöveg.

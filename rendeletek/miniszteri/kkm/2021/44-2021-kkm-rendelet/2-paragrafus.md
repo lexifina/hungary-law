@@ -1,5 +1,3 @@
-## a KKM mint kihelyező szerv által tartós külszolgálatra kihelyezett kormánytisztviselői útján látja el.
-
 ## 2. § Az 1. § (2) bekezdésében meghatározott munkakörök bármelyikét betöltő kormánytisztviselő tekintetében – a kihelyező okiratban rögzítettek szerint –
 
 a) a munkáltató kormányzati igazgatási szerv a KKM,
