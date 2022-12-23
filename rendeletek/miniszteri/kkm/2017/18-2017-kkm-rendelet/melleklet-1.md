@@ -1,6 +1,6 @@
 1. melléklet a 18/2017. (XII. 21.) KKM rendelethez
 
-## A külügyi szakmai vizsgáról készített jegyzőkönyv adattartalma
+A külügyi szakmai vizsgáról készített jegyzőkönyv adattartalma
 
 1. A vizsgázó személyes adatai:
 
