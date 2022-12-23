@@ -16,8 +16,8 @@ c) biztosítani kell a szomszédos telkek látványának megőrzését.
 
 (3) A Beruházással összefüggésben az 1. § (1) bekezdése szerinti ingatlan vonatkozásában a területrendezési tervek készítésének és alkalmazásának kiegészítő szabályozásáról szóló 9/2019. (VI. 14.) MvM rendelet általános mezőgazdasági terület övezetére vonatkozó
 
-a)[^1] 13. §-át azzal az eltéréssel kell alkalmazni, hogy a telek a településrendezési tervben különleges sportolási célú területbe sorolható, valamint
+a)[^2] 13. §-át azzal az eltéréssel kell alkalmazni, hogy a telek a településrendezési tervben különleges sportolási célú területbe sorolható, valamint
 
 b) 15. §-át és 16. § a) pontját azzal az eltéréssel kell alkalmazni, hogy a telken sportolási, kulturális célú épület elhelyezhető oly módon, hogy a sajátos beépítési szabályok tekintetében a 7. § irányadó, és az épület a szomszédos telkek benapozottságát és mezőgazdasági hasznosítását nem akadályozhatja.
 
-[^1]: A 6. § (3) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
+[^2]: A 6. § (3) bekezdés a) pontja a 420/2021. (VII. 15.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
