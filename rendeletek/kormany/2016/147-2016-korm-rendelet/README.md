@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-147-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-06-14 | 2016-147-20-22.1 | 147/2016. (VI. 13.) Korm. rendelet |
+| 2022-12-23 | 2016-147-20-22.2 | 546/2022. (XII. 22.) Korm. rendelet |

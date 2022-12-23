@@ -2,7 +2,7 @@
 
 1. melléklet a 147/2016. (VI. 13.) Korm. rendelethez
 
-## Az 1. § (1) bekezdése szerinti fejlesztések megvalósításával összefüggő, kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+Az 1. § (1) bekezdése szerinti fejlesztések megvalósításával összefüggő, kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. környezetvédelmi hatósági eljárások,
 
