@@ -6,6 +6,6 @@ a) a Beruházás megvalósításához, használatbavételéhez és üzemeltetés
 
 b) a Beruházáshoz közvetlenül kapcsolódó útépítési, közműcsatlakozási és -fejlesztési munkák megvalósításához
 
-## szükségesek.
+szükségesek.
 
 (3) A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást. A Beruházás helyszíne az (1) bekezdésben meghatározott ingatlan területe.

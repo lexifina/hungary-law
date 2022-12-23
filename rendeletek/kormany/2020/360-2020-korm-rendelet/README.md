@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-360-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-07-24 | 2020-360-20-22.1 | 360/2020. (VII. 23.) Korm. rendelet |
+| 2022-12-23 | 2020-360-20-22.2 | 546/2022. (XII. 22.) Korm. rendelet |
