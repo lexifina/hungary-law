@@ -1,1 +1,3 @@
-## 2. § A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyek koordinációjára feladat- és hatáskörrel rendelkező kormánymegbízottként a Budapest Főváros Kormányhivatalát vezető kormánymegbízottat jelöli ki.
+3. §[^5]
+
+[^5]: A 3. §-t a 458/2017. (XII. 28.) Korm. rendelet 208. § c) pontja hatályon kívül helyezte.

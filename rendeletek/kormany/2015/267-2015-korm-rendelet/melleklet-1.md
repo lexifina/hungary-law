@@ -2,7 +2,7 @@
 
 1. melléklet a 267/2015. (IX. 14.) Korm. rendelethez
 
-## Az új budapesti konferencia-központ megvalósításával összefüggő kiemelt jelentőségű ügyekké nyilvánított közigazgatási hatósági eljárások
+Az új budapesti konferencia-központ megvalósításával összefüggő kiemelt jelentőségű ügyekké nyilvánított közigazgatási hatósági eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -20,7 +20,7 @@
 
 8. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
 
-9.[^5] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+9.[^6] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 10. műszaki biztonsági hatósági engedélyezési eljárások,
 
@@ -48,4 +48,4 @@
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^5]: Az 1. melléklet 9. pontja a 380/2016. (XII. 2.) Korm. rendelet 104. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^6]: Az 1. melléklet 9. pontja a 380/2016. (XII. 2.) Korm. rendelet 104. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
