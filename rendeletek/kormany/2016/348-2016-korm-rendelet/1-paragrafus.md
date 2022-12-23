@@ -4,13 +4,15 @@ a)[^1] a Göd közigazgatási területén lévő, az ingatlan-nyilvántartás sz
 
 b)[^2] a Dunakeszi külterületén lévő, az ingatlan-nyilvántartás szerinti 08, 014/1, 015/12, 015/13, 015/4, 015/5, 015/6, 015/7, 016/7, 016/9, 028/9, 028/10, 030/258, 030/259, 030/261, 030/262, 030/265, 030/267, 030/268, 030/271, 030/274, 030/277, 030/280, 031/2, 032/37, 032/39, 032/41, 032/43, 032/45, 032/47, 032/49, 032/51, 032/53, 032/55, 032/57, 032/59, 032/61, 032/63, 032/65, 032/67, 032/69, 032/71, 032/73, 032/75, 032/77, 032/79, 032/81, 032/83, 032/85, 032/87, 032/89, 032/91, 033/1, 034/25, 034/26, 034/28, 034/29, 034/33, 034/34, 034/37, 034/38, 034/41, 034/42, 034/44, 034/45, 034/47, 034/48, 034/49, 034/51, 034/52, 034/54, 034/56, 034/58, 034/60, 034/62, 034/64, 034/66, 034/68, 034/70, 034/72, 034/74, 034/76, 034/78, 034/80, 034/82, 034/84, 034/86, 07/168, 07/171, 07/173, 07/175, 07/177, 07/179, 07/180, 07/182, 07/181, 07/184, 07/185, 07/186, 07/187, 07/188, 07/189, 07/190, 07/191, 07/192, 07/194, 07/196, 07/198, 07/200, 07/202, 07/204, 07/206, 07/208, 07/210, 07/212, 07/214, 07/216, 07/218, 07/223, 07/77, 07/78, 07/79, 07/80, 07/81, 07/82, 07/83, 04/2, 06, 09/1, 017/3, 034/24, 034/36, 034/40, 034/50, 034/53, 028/8, 028/11, 016/6 helyrajzi számon nyilvántartott földrészleteken, valamint az ezen földrészletekből telekalakítási eljárások véglegessé válását követően kialakított földrészleteken megvalósításra kerülő M2 autópálya Dunakeszi északi csomópont és 2. sz. főút közötti összekötő út megépítésével összefüggő infrastruktúra fejlesztésére irányuló beruházásokkal
 
-## függenek össze.
+függenek össze.
 
 (2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
 
 a) a beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához, valamint
 
 b) a beruházásokhoz közvetlenül kapcsolódó útépítési, közműcsatlakozási és -fejlesztési, valamint egyéb munkák megvalósításához
+
+szükségesek.
 
 [^1]: Az 1. § (1) bekezdés a) pontja a 458/2017. (XII. 28.) Korm. rendelet 299. §-a szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés b) pontja a 458/2017. (XII. 28.) Korm. rendelet 299. §-a szerint módosított szöveg.
