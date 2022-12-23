@@ -1,1 +1,3 @@
-1. § A pénzügyminiszter feladatkörét érintő ágazati honvédelmi feladatokról szóló 10/2020. (X. 21.) PM rendelet (a továbbiakban: R.) 1. melléklete helyébe az 1. melléklet lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
