@@ -2,7 +2,7 @@
 
 1. melléklet a 290/2016. (IX. 22.) Korm. rendelethez
 
-## A Hatvanban megvalósuló beruházással összefüggő közigazgatási hatósági üggyé nyilvánított eljárások
+A Hatvanban megvalósuló beruházással összefüggő közigazgatási hatósági üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
