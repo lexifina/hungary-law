@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-132-20-
 | 2017-06-09 | 2017-132-20-22.1 | 132/2017. (VI. 8.) Korm. rendelet |
 | 2017-06-10 | 2017-132-20-22.2 | 2010: CXXX. törvény |
 | 2018-01-01 | 2017-132-20-22.3 | 458/2017. (XII. 28.) Korm. rendelet |
+| 2022-12-23 | 2017-132-20-22.4 | 546/2022. (XII. 22.) Korm. rendelet |
