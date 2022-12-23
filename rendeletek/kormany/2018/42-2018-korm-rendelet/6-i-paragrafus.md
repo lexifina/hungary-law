@@ -1,3 +1,9 @@
-## 6/H. §[^17] Az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendelet hatálya nem terjed ki a Beruházás keretében megvalósuló, időszakos használatú sportcélú épületekre és az egyes épületeken belüli önálló rendeltetési egységekre.
+## 6/H. §[^18] Az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendelet hatálya nem terjed ki a Beruházás keretében megvalósuló, időszakos használatú sportcélú épületekre és az egyes épületeken belüli önálló rendeltetési egységekre.
 
-[^17]: A 6/H. §-t a 239/2018. (XII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+6/I. §[^19] (1) A Kormány a Beruházás során a 4. mellékletben foglalt táblázat 3–44. sorában meghatározott ingatlanokon, valamint az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon az építési tevékenység elvégzéséhez szükséges ingyenes közterület használatának feltétlenül szükséges időtartamát 2021. január 1-jétől számított 45 hónapban határozza meg.
+
+(2) A Kormány a Beruházás során a 4. mellékletben foglalt táblázat 45–62. sorában meghatározott ingatlanokon, valamint az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokon az építési tevékenység elvégzéséhez szükséges ingyenes közterület használatának feltétlenül szükséges időtartamát a Kemény Ferenc Sportlétesítmény-fejlesztési Programmal, valamint egyéb dél-pesti és észak-csepeli beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről, valamint az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet módosításáról szóló 42/2018. (III. 13.) Korm. rendelet módosításáról szóló 554/2022. (XII. 22.) Korm. rendelet hatálybalépésétől[^20] számított 45 hónapban határozza meg.
+
+[^18]: A 6/H. §-t a 239/2018. (XII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^19]: A 6/I. §-t a 729/2020. (XII. 31.) Korm. rendelet 2. §-a iktatta be, szövege az 554/2022. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^20]: A hatálybalépés időpontja 2022. december 23.
