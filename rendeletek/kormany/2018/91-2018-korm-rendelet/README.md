@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-91-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-04-26 | 2018-91-20-22.1 | 91/2018. (IV. 25.) Korm. rendelet |
+| 2022-12-23 | 2018-91-20-22.2 | 546/2022. (XII. 22.) Korm. rendelet |
