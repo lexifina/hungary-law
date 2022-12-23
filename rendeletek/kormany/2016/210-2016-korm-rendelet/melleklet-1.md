@@ -1,6 +1,6 @@
-## 12. §[^30] E rendeletnek az egyes kiemelt beruházásokhoz kapcsolódó kormányrendeletek módosításáról szóló 792/2021. (XII. 27.) Korm. rendelettel (a továbbiakban: Módr4.) megállapított 5/B. § (3) és (4) bekezdését, valamint 1. mellékletét a Módr4. hatálybalépésekor[^31] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 12. §[^31] E rendeletnek az egyes kiemelt beruházásokhoz kapcsolódó kormányrendeletek módosításáról szóló 792/2021. (XII. 27.) Korm. rendelettel (a továbbiakban: Módr4.) megállapított 5/B. § (3) és (4) bekezdését, valamint 1. mellékletét a Módr4. hatálybalépésekor[^32] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-1. melléklet a 210/2016. (VII. 21.) Korm. rendelethez[^32]
+1. melléklet a 210/2016. (VII. 21.) Korm. rendelethez[^33]
 
 1. A Budai Palotanegyed fenntartható fejlesztését, valamint tervszerű és egységes szemléletű helyreállítását szolgáló, kiemelten közérdekű beruházások felsorolása
 
@@ -78,6 +78,6 @@
 
 | 6. | A Magyar Nemzeti Levéltár épületének rekonstrukciója és bővítése | Budapest I. kerület, belterület 6627 és 6628 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6563, 6622 és 6632 helyrajzi számú ingatlan | 2021. 01. 01. – 2026. 12. 31. |
 
-[^30]: A 12. §-t a 792/2021. (XII. 27.) Korm. rendelet 6. §-a iktatta be.
-[^31]: A hatálybalépés időpontja 2021. december 27.
-[^32]: Az 1. melléklet a 792/2021. (XII. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^31]: A 12. §-t a 792/2021. (XII. 27.) Korm. rendelet 6. §-a iktatta be.
+[^32]: A hatálybalépés időpontja 2021. december 27.
+[^33]: Az 1. melléklet a 792/2021. (XII. 27.) Korm. rendelet 7. §-ával megállapított szöveg.

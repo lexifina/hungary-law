@@ -4,7 +4,7 @@ a) a Budai Palotanegyed területén lévő ingatlanokon megvalósuló, a Nemzeti
 
 b) a Budai Várnegyed területén megvalósuló, az 1. melléklet 2. pontjában meghatározott beruházásokkal
 
-## (a továbbiakban együtt: Beruházások) összefüggő, a 2. mellékletben meghatározott közigazgatási hatósági ügyeket.
+(a továbbiakban együtt: Beruházások) összefüggő, a 2. mellékletben meghatározott közigazgatási hatósági ügyeket.
 
 (2) Az (1) bekezdés alkalmazásában a Beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek
 
