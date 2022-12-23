@@ -14,6 +14,6 @@ c) III. osztályú titkári rangban négy év,
 
 d) II. osztályú titkári rangban öt év
 
-## elteltével a soron következő rangba lép.
+elteltével a soron következő rangba lép.
 
 (4) A kihelyező szervvel ismételten kormányzati szolgálati jogviszonyt létesítő kormánytisztviselő korábbi legmagasabb diplomáciai rangját kapja, kivéve, ha a (3) bekezdés alapján adományozható rang számára kedvezőbb.

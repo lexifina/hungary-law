@@ -1,5 +1,3 @@
-## kihelyezett kormánytisztviselő és kormányzati ügykezelő (a továbbiakban: kihelyezett) részére történő rangadományozásra és ranghasználat engedélyezésére terjed ki, ide nem értve a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvényben (a továbbiakban: Külszoltv.) a köztársasági elnök hatáskörébe utalt rangadományozások körét.
-
 ## 2. A diplomáciai rangok, valamint az első diplomáciai rang adományozása
 
 2. § (1) A kormánytisztviselő részére a külpolitikáért felelős miniszter, az EU ÁK vonatkozásában az európai uniós ügyek koordinációjáért felelős miniszter adományozhat rangot meghatározott feltételek fennállása esetén.
