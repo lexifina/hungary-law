@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-655-20-
 | 2020-12-24 | 2020-655-20-22.1 | 655/2020. (XII. 23.) Korm. rendelet |
 | 2021-07-16 | 2020-655-20-22.2 | 420/2021. (VII. 15.) Korm. rendelet |
 | 2021-12-31 | 2020-655-20-22.3 | 808/2021. (XII. 28.) Korm. rendelet |
+| 2022-12-23 | 2020-655-20-22.4 | 546/2022. (XII. 22.) Korm. rendelet |

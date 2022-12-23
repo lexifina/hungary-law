@@ -1,8 +1,8 @@
-## 13. §[^7] E rendeletnek az egyes beruházásokkal összefüggő kormányrendeletek módosításáról szóló 808/2021. (XII. 28.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 6. § (2) bekezdését, 7. § (1a) és (1b) bekezdését, valamint 3. mellékletét a Módr. hatálybalépésekor[^8] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 13. §[^8] E rendeletnek az egyes beruházásokkal összefüggő kormányrendeletek módosításáról szóló 808/2021. (XII. 28.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 6. § (2) bekezdését, 7. § (1a) és (1b) bekezdését, valamint 3. mellékletét a Módr. hatálybalépésekor[^9] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 655/2020. (XII. 23.) Korm. rendelethez
 
-## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -44,5 +44,5 @@
 
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^7]: A 13. §-t a 808/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
-[^8]: A hatálybalépés időpontja 2021. december 31.
+[^8]: A 13. §-t a 808/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^9]: A hatálybalépés időpontja 2021. december 31.
