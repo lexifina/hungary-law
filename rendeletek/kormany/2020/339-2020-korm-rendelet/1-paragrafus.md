@@ -10,7 +10,7 @@ c)[^2] a 2. melléklet 8. pontja szerinti közigazgatási hatósági ügyekben e
 
 d)[^3] a 2. melléklet 10. és 11. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Pest Megyei Kormányhivatalt
 
-## jelöli ki.
+jelöli ki.
 
 (3) Az (1) bekezdés alkalmazásában a Beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
 

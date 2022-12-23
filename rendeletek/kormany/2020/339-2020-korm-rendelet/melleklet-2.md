@@ -1,5 +1,3 @@
-## Az 1. § (1) bekezdése szerinti Beruházások
-
 |  | A | B | C | D |
 
 | 1. | A beruházás megnevezése | A beruházás megvalósításának helyszíne | A beruházás helyszínének közvetlen környezete | A beruházás megvalósításához szükséges közterület-használat időtartama |
@@ -14,7 +12,7 @@
 
 2. melléklet a 339/2020. (VII. 10.) Korm. rendelethez
 
-## A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
