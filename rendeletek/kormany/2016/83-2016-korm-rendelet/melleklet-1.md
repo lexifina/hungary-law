@@ -2,7 +2,7 @@
 
 1. melléklet a 83/2016. (IV. 12.) Korm. rendelethez
 
-## Söpte külterületén megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+Söpte külterületén megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
 
 1. örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások,
 
