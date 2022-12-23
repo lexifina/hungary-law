@@ -1,8 +1,6 @@
-## 6. §[^2]
-
 1. melléklet a 484/2017. (XII. 28.) Korm. rendelethez
 
-## Az 1. § szerinti beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+Az 1. § szerinti beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. az elektronikus hírközlési építmények elhelyezésével és az elektronikus hírközlési építményekkel kapcsolatos hatósági eljárások,
 
@@ -57,5 +55,3 @@
 26. azok az 1–25. pontban nem szereplő hatósági eljárások, amelyek az 1. § szerinti beruházások megvalósításához, használatbavételéhez és üzembe helyezéséhez szükségesek,
 
 27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések felülvizsgálatára, módosítására irányuló hatósági eljárások.
-
-[^2]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
