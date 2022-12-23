@@ -2,7 +2,7 @@
 
 1. melléklet a 375/2016. (XI. 29.) Korm. rendelethez
 
-## Az 1. §-ban foglalt beruházásokkal összefüggő, kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek:
+Az 1. §-ban foglalt beruházásokkal összefüggő, kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek:
 
 1. környezetvédelmi hatósági eljárások,
 

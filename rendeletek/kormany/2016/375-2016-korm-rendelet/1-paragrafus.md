@@ -11,3 +11,5 @@ d) a Mária Magdolna Plébániatemplom és Plébánia épületének felújítás
 e) a Botfai Erdődy-Hűvös-kastély műemléképületének felújításával és korszerűsítésével, zarándokszállás kialakításra irányuló, Zalaegerszeg 14018 helyrajzi számú, természetben a 8900 Zalaegerszeg, Várberki u. 13. szám alatti ingatlanon,
 
 f) meglévő parkoló átalakításával parkolóház építésére irányuló, Zalaegerszeg 3629/2 helyrajzi számú ingatlanon
+
+megvalósuló beruházásokkal összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.

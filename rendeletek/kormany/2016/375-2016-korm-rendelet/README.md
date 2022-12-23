@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-375-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-11-30 | 2016-375-20-22.1 | 375/2016. (XI. 29.) Korm. rendelet |
+| 2022-12-23 | 2016-375-20-22.2 | 546/2022. (XII. 22.) Korm. rendelet |
