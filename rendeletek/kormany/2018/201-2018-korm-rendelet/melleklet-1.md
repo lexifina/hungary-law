@@ -1,8 +1,6 @@
-## 8–9. §[^3]
+1. melléklet a 201/2018. (X. 30.) Korm. rendelethez[^6]
 
-1. melléklet a 201/2018. (X. 30.) Korm. rendelethez[^4]
-
-## A Beruházásokkal érintett ingatlanok
+A Beruházásokkal érintett ingatlanok
 
 1. Az 1. § (1) bekezdés a) pontja szerinti beruházás megvalósításával érintett ingatlanok:
 
@@ -12,5 +10,4 @@ b) Fertőrákos külterület 0220, 0221/5, 0222/7, 0223/5, 0224/4, 0234, valamin
 
 2. Az 1. § (1) bekezdés b) pontja szerinti beruházás megvalósításával érintett ingatlanok: Sopron belterület 7020/2, 7022, 7023/1 és 7023/2 helyrajzi számú ingatlanok, illetve ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanok.
 
-[^3]: A 8–9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet a 301/2020. (VI. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet a 301/2020. (VI. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
