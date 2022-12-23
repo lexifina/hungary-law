@@ -1,5 +1,3 @@
-## 33. §[^110]
-
 34. § (1)[^111] Kérelemre, egyebekben változatlan feltétekkel ugyanazt a lakást határozatlan időtartamra kell bérbe adni, ha a 30. § (1) bekezdés szerinti feltétel bekövetkezéséig szóló lakásbérleti szerződés azért szűnik meg, mert a honvédelmi szervezet állományába tartozó bérlő
 
 a) hivatásos katonai szolgálati viszonya felmentéssel azért került megszüntetésre, mert
@@ -48,7 +46,6 @@ i)[^113] honvédelmi szervvel fennálló szolgálati jogviszonya, kormányzati s
 
 (6)[^117] A szerződéses katona halála esetén az (5) bekezdésben foglaltakat akkor lehet alkalmazni, ha az elhunyt bérlő a szerződéses katonai szolgálatban legalább 10 évet eltöltött. A „Hősi halottá” nyilvánított szerződéses katona halála esetén az (5) bekezdésben foglaltak a szerződéses katonai szolgálatban eltöltött időtől függetlenül alkalmazhatóak. E feltételek hiányában a lakást – kérelemre – legfeljebb két év határozott időtartamra lehet bérbe adni a halál bekövetkezésekor ténylegesen együtt élő özvegy, illetve a túlélő élettárs részére.
 
-[^110]: A 33. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
 [^111]: A 34. § (1) bekezdése a 22/2013. (X. 7.) HM rendelet 7. § (1) bekezdésével megállapított, nyitó szövegrésze a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
 [^112]: A 34. § (1) bekezdés g) pontja a 8/2020. (V. 27.) HM rendelet 5. § f) pontja szerint módosított szöveg.
 [^113]: A 34. § (1) bekezdés i) pontját a 8/2020. (V. 27.) HM rendelet 1. §-a iktatta be, szövege a 9/2021. (III. 2.) HM rendelet 24. § b) pontja szerint módosított szöveg.

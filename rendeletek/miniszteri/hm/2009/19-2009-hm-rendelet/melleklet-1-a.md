@@ -1,5 +1,3 @@
-## A helyi lakásgazdálkodási szervek és az azokhoz utalt települések
-
 | Helyi lakásgazdálkodási szerv | Utalt település |
 
 | 1. Debrecen helyőrség-parancsnokság | Erdőbénye, |
@@ -174,9 +172,9 @@
 
 |  | Verőce |
 
-1/A. melléklet a 19/2009. (XII. 29.) HM rendelethez[^435]
+1/A. melléklet a 19/2009. (XII. 29.) HM rendelethez[^437]
 
-## A lakáskiürítési és cseretérítés megállapítása szempontjából kiemelt települések jegyzéke
+A lakáskiürítési és cseretérítés megállapítása szempontjából kiemelt települések jegyzéke
 
 1. Balatonkenese
 
@@ -214,4 +212,4 @@
 
 18. Veszprém
 
-[^435]: Az 1/A. mellékletet a 15/2015. (XII. 21.) HM rendelet 28. § (1) bekezdése iktatta be.
+[^437]: Az 1/A. mellékletet a 15/2015. (XII. 21.) HM rendelet 28. § (1) bekezdése iktatta be.

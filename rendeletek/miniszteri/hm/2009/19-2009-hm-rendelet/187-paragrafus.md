@@ -1,10 +1,8 @@
-## 179–186. §
-
 ## XIII. Fejezet
 
 ## MUNKÁLTATÓI KÖLCSÖN
 
-187. §[^261] (1) Munkáltatói kölcsön adható az igénylőnek:
+187. §[^263] (1) Munkáltatói kölcsön adható az igénylőnek:
 
 a) a tulajdonába kerülő, természetes személy, gazdálkodó szerv, önkormányzat tulajdonában vagy a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló 2018. évi CIII. törvényben lebonyolító által a bérlő vagy közeli hozzátartozója részére értékesített lakás (a továbbiakban: eszközkezelői lakás) vásárlásához, cseréjéhez,
 
@@ -32,4 +30,4 @@ b) az (1) bekezdés c), f) és g) pontja szerinti esetekben a lakás legalább 5
 
 (4) Munkáltatói kölcsön legfeljebb két alkalommal nyújtható, ideértve a kiegészítő kölcsönt is.
 
-[^261]: A 187. § a 9/2021. (III. 2.) HM rendelet 15. §-ával megállapított szöveg.
+[^263]: A 187. § a 9/2021. (III. 2.) HM rendelet 15. §-ával megállapított szöveg.

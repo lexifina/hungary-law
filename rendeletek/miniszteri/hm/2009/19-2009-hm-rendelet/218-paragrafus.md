@@ -1,4 +1,4 @@
-218. §[^337] (1) A helyi lakásgazdálkodási szerv az albérleti díj hozzájárulásra való jogosultság fennállását szükség szerint, de évente legalább egy alkalommal ellenőrzi.
+218. §[^339] (1) A helyi lakásgazdálkodási szerv az albérleti díj hozzájárulásra való jogosultság fennállását szükség szerint, de évente legalább egy alkalommal ellenőrzi.
 
 (2) Az ellenőrzés során a helyi lakásgazdálkodási szerv a kormánytisztviselői illetményalap változásából eredő különbözettel történő kiegészítés vagy csökkentés érdekében eljár, továbbá a 217. § (1) bekezdésében megjelölt megszüntető okok vonatkozásában a támogatott személyt 30 napos határidővel nyilatkozattételre hívja fel.
 
@@ -8,13 +8,13 @@
 
 (5) A 217. § (1) bekezdés e), i) és j) pontja szerinti megszüntető ok bekövetkezése esetén a munkáltatói jogkört gyakorló munkahelyi vezető a helyi lakásgazdálkodási szerv egyidejű tájékoztatása mellett önállóan intézkedik a hozzájárulás megszüntetésére. Ugyanígy kell eljárnia, ha a 217. § (1) bekezdés b)–d) és f)–h) pontjában megjelölt ok bekövetkezéséről a helyi lakásgazdálkodási szerv értesítését megelőzően szerez tudomást.
 
-(6)[^338] A lakásépítéshez munkáltatói kölcsönben részesített személy részére – feltéve, hogy egyéb megszüntető ok nem következett be – a támogatás nyújtása előtt már megállapított hozzájárulást a használatbavételi (lakhatási) engedély megszerzésének vállalt időpontjáig, de legfeljebb a támogatási megállapodás megkötésétől számított egy évig még folyósítani kell. Ugyanígy kell eljárni akkor, ha a hozzájárulásban részesülő személy házastársa, élettársa részére nyújtott a honvédelmi szervezet munkáltatói kölcsönt, vissza nem térítendő juttatást vagy egyszeri pénzbeli támogatást.
+(6)[^340] A lakásépítéshez munkáltatói kölcsönben részesített személy részére – feltéve, hogy egyéb megszüntető ok nem következett be – a támogatás nyújtása előtt már megállapított hozzájárulást a használatbavételi (lakhatási) engedély megszerzésének vállalt időpontjáig, de legfeljebb a támogatási megállapodás megkötésétől számított egy évig még folyósítani kell. Ugyanígy kell eljárni akkor, ha a hozzájárulásban részesülő személy házastársa, élettársa részére nyújtott a honvédelmi szervezet munkáltatói kölcsönt, vissza nem térítendő juttatást vagy egyszeri pénzbeli támogatást.
 
-(7)[^339] A lakásvásárláshoz munkáltatói kölcsönben részesült személyt a lakáscélú támogatás odaítélését követő hónap utolsó napjáig még megilleti a részére a támogatás nyújtása előtt már megállapított hozzájárulás. Ugyanígy kell eljárni akkor, ha a hozzájárulásban részesülő személy házastársa, élettársa részére nyújtott a honvédelmi szervezet munkáltatói kölcsönt, vissza nem térítendő juttatást vagy egyszeri pénzbeli támogatást.
+(7)[^341] A lakásvásárláshoz munkáltatói kölcsönben részesült személyt a lakáscélú támogatás odaítélését követő hónap utolsó napjáig még megilleti a részére a támogatás nyújtása előtt már megállapított hozzájárulás. Ugyanígy kell eljárni akkor, ha a hozzájárulásban részesülő személy házastársa, élettársa részére nyújtott a honvédelmi szervezet munkáltatói kölcsönt, vissza nem térítendő juttatást vagy egyszeri pénzbeli támogatást.
 
-(8)[^340] A HM rendelkezésű lakás juttatásában részesült személyt az albérleti díj hozzájárulással bérelt lakás (lakrész, szállodai vagy szállodai jellegű szoba) bérleti szerződésében kikötött felmondási időre, de legfeljebb a HM rendelkezésű lakás bérlőjéül történő kijelölést követő hónap végéig illeti meg a hozzájárulás. Ugyanígy kell eljárni akkor is, ha a jogosult házastársa (élettársa) részére juttat a honvédelmi szervezet HM rendelkezésű lakást.
+(8)[^342] A HM rendelkezésű lakás juttatásában részesült személyt az albérleti díj hozzájárulással bérelt lakás (lakrész, szállodai vagy szállodai jellegű szoba) bérleti szerződésében kikötött felmondási időre, de legfeljebb a HM rendelkezésű lakás bérlőjéül történő kijelölést követő hónap végéig illeti meg a hozzájárulás. Ugyanígy kell eljárni akkor is, ha a jogosult házastársa (élettársa) részére juttat a honvédelmi szervezet HM rendelkezésű lakást.
 
-[^337]: A 218. § a 10/2014. (VII. 25.) HM rendelet – a 26/2016. (XII. 22.) HM rendelet 27. § (1) bekezdése szerint módosított – 57. §-ával megállapított szöveg.
-[^338]: A 218. § (6) bekezdése a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
-[^339]: A 218. § (7) bekezdése a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
-[^340]: A 218. § (8) bekezdése a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^339]: A 218. § a 10/2014. (VII. 25.) HM rendelet – a 26/2016. (XII. 22.) HM rendelet 27. § (1) bekezdése szerint módosított – 57. §-ával megállapított szöveg.
+[^340]: A 218. § (6) bekezdése a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^341]: A 218. § (7) bekezdése a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^342]: A 218. § (8) bekezdése a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.

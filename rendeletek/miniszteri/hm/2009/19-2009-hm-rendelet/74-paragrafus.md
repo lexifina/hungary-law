@@ -4,16 +4,16 @@
 
 (3) A megfelelő elhelyezésre jogosult részére – kérelmére – a HM központi lakásgazdálkodási szerv engedélyével az (1) bekezdés szerinti lakás más településen is bérbe adható, ha az lakásgazdálkodási érdeket nem sért. Ha azonban a lakás a lakásgazdálkodási szerv illetékességébe utalt településen van, a központi lakásgazdálkodási szerv engedélye nem szükséges.
 
-(4)[^175] Ha az elhelyezésre jogosult jogcím nélküli lakáshasználó által használt lakás az elhelyezési igénynek megfelelő szobaszámú vagy annál legfeljebb egy lakószobával nagyobb, akkor az így használt lakás is bérbe adható, ha az nem sérti a lakásgazdálkodási érdekeket. Ha a jogcím nélkül használt lakás az (1) bekezdésben meghatározott mértéknél több mint egy lakószobával nagyobb, a lakás megfelelő elhelyezés címén a közigazgatási államtitkár előzetes hozzájárulásával adható bérbe.
+(4)[^176] Ha az elhelyezésre jogosult jogcím nélküli lakáshasználó által használt lakás az elhelyezési igénynek megfelelő szobaszámú vagy annál legfeljebb egy lakószobával nagyobb, akkor az így használt lakás is bérbe adható, ha az nem sérti a lakásgazdálkodási érdekeket. Ha a jogcím nélkül használt lakás az (1) bekezdésben meghatározott mértéknél több mint egy lakószobával nagyobb, a lakás megfelelő elhelyezés címén a közigazgatási államtitkár előzetes hozzájárulásával adható bérbe.
 
 (5) Megfelelő elhelyezésként lehetőség szerint önkormányzati tulajdonú lakást kell adni; ilyenkor a bérlőkijelölés (kiválasztás) csak a bérlő (bérlőtársak), a vele együtt költözők megnevezésére és a bérbeadás határozatlan időtartamra szóló jellegére tartalmazhat kikötést.
 
 (6) HM rendelkezésű önkormányzati lakás hiányában a jogcím nélküli használók elhelyezését lehetőség szerint az e célra kijelölt állami tulajdonú HM vagyonkezelésű lakóépületben lévő lakásokkal kell megoldani. A vállalkozói HM rendelkezésű lakást megfelelő elhelyezés címén nem lehet bérbe adni.
 
-(7)[^176] A megfelelő elhelyezésre nem jogosult személy részére – különösen akkor, ha háztartásában 18. életévét be nem töltött gyermeke vagy tartósan fogyatékos hozzátartozója ellátásáról gondoskodik – kivételes méltányosságból legfeljebb másfél szobás lakás adható elhelyezésként, ha a 9. § (1) bekezdésében foglalt, lakásjuttatást kizáró ok esetében nem áll fent. A lakás a helyi lakásgazdálkodási szerv illetékességi területéhez tartozó, utalt településen vagy méltányolható kérelem alapján, a HM központi lakásgazdálkodási szerv engedélyével, az ország más településén is lehet.
+(7)[^177] A megfelelő elhelyezésre nem jogosult személy részére – különösen akkor, ha háztartásában 18. életévét be nem töltött gyermeke vagy tartósan fogyatékos hozzátartozója ellátásáról gondoskodik – kivételes méltányosságból legfeljebb másfél szobás lakás adható elhelyezésként, ha a 9. § (1) bekezdésében foglalt, lakásjuttatást kizáró ok esetében nem áll fent. A lakás a helyi lakásgazdálkodási szerv illetékességi területéhez tartozó, utalt településen vagy méltányolható kérelem alapján, a HM központi lakásgazdálkodási szerv engedélyével, az ország más településén is lehet.
 
-(8)[^177] Ha a jogcím nélküli használó a honvédelmi szervezet állományába tartozó személy, részére a lakás a 30. § (1) bekezdés szerinti feltétel bekövetkezéséig adható bérbe.
+(8)[^178] Ha a jogcím nélküli használó a honvédelmi szervezet állományába tartozó személy, részére a lakás a 30. § (1) bekezdés szerinti feltétel bekövetkezéséig adható bérbe.
 
-[^175]: A 74. § (4) bekezdése a 4/2022. (II. 17.) HM rendelet 1. §-ával megállapított szöveg.
-[^176]: A 74. § (7) bekezdése a 15/2015. (XII. 21.) HM rendelet 9. §-ával megállapított szöveg.
-[^177]: A 74. § (8) bekezdése a 15/2015. (XII. 21.) HM rendelet 9. §-ával megállapított, a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^176]: A 74. § (4) bekezdése a 4/2022. (II. 17.) HM rendelet 1. §-ával megállapított szöveg.
+[^177]: A 74. § (7) bekezdése a 15/2015. (XII. 21.) HM rendelet 9. §-ával megállapított szöveg.
+[^178]: A 74. § (8) bekezdése a 15/2015. (XII. 21.) HM rendelet 9. §-ával megállapított, a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.

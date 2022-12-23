@@ -1,3 +1,3 @@
-## 189. §[^268]
+190. §[^271]
 
-[^268]: A 189. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^271]: A 190. §-t a 15/2015. (XII. 21.) HM rendelet 30. § i) pontja hatályon kívül helyezte.

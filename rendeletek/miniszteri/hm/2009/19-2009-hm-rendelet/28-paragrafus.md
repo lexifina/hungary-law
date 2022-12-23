@@ -1,5 +1,3 @@
-## 27. §[^92]
-
 ## A bérlő kijelölése és kiválasztása
 
 28. § (1) A HM rendelkezésű lakás juttatásáról a lakásgazdálkodási szerv bérlőkijelölés vagy bérlőkiválasztás formájában értesíti
@@ -24,7 +22,6 @@ e) az esetleges egyéb érdekelteket.
 
 (6) A HM központi lakásgazdálkodási szerv vezetőjének előzetes engedélyével a házfelügyelői vagy a gondnoki feladat, illetőleg a szolgáltatási szerződés megszűnéséig, mint feltétel bekövetkezéséig szólóan külön megállapodással, térítésmentesen bérlőkiválasztási jogot lehet elismerni a helyi lakóházkezelő szerv (Szolgáltató) javára azokra a HM vagyonkezelésben lévő lakásokra, amelyek a kezelői tevékenység elvégzéséhez szükségesek. A bérlőkiválasztási jog gyakorlása során a 8. § és a 19. § (4) bekezdés rendelkezéseit nem kell alkalmazni.
 
-[^92]: A 27. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
 [^93]: A 28. § (1) bekezdés b) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
 [^94]: A 28. § (1) bekezdés d) pontját a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 17–18. §-át.
 [^95]: A 28. § (3) bekezdése a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése, a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.

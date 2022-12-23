@@ -1,3 +1,3 @@
-## 211. §[^319]
+211/A. §[^322]
 
-[^319]: A 211. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (2) bekezdése hatályon kívül helyezte.
+[^322]: A 211/A. §-t a 15/2015. (XII. 21.) HM rendelet 20. §-a iktatta be, hatályon kívül helyezte a 22/2018. (XII. 28.) HM rendelet 5. §-a.

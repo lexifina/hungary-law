@@ -1,5 +1,3 @@
-## 1. §[^1]
-
 ## A rendelet hatálya
 
 2. § (1) A rendelet alkalmazási köre kiterjed
@@ -14,7 +12,7 @@ bb) honvédelmi alkalmazottjára, közalkalmazottjára,
 
 bc) munkavállalójára,
 
-## kivéve, ha a bb) és bc) alpont szerinti alkalmazottak esetében jogszabály eltérően rendelkezik,
+kivéve, ha a bb) és bc) alpont szerinti alkalmazottak esetében jogszabály eltérően rendelkezik,
 
 c)[^4] a honvédelemért felelős miniszter által vezetett minisztérium (a továbbiakban: HM) rendelkezése alatt lévő (a továbbiakban: HM rendelkezésű) lakásra és szükséglakásra, nem lakás céljára szolgáló, bérbeadás útján hasznosított helyiségre, valamint honvédségi szállóra és garzonházra,
 
@@ -30,7 +28,6 @@ a)[^8] a hivatásos állománynak arra a korábbi tagjára, aki a honvédek jog�
 
 b)[^9] a hivatásos, a hivatásos állományból szolgálati nyugállományba helyezett katonának, valamint az állomány hősi halott tagjának özvegyére, az 5. § (1) bekezdés c) pontja szerinti feltétekkel rendelkező túlélő élettársára, továbbá a hősi halott saját háztartásában eltartott gyermekére.
 
-[^1]: Az 1. §-t a 22/2013. (X. 7.) HM rendelet 27. § a) pontja hatályon kívül helyezte.
 [^2]: A 2. § (1) bekezdés a) pontja a 7/2022. (IV. 14.) HM rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § (1) bekezdés b) pontja a 9/2021. (III. 2.) HM rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § (1) bekezdés c) pontja a 22/2018. (XII. 28.) HM rendelet 4. § c) pontja szerint módosított szöveg.

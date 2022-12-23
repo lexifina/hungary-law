@@ -6,7 +6,7 @@
 
 (3) A helyőrségi és a keretgazda lakásbizottság legalább 3 tagból áll.
 
-(4)[^366] A helyőrségi bizottságot a helyőrségben és lakásgazdálkodás szempontjából utalt helyőrségekben (településeken) elhelyezett, illetve Budapesten a keretgazdához tartozó katonai szervezetek parancsnokaiból és személyügyi szerveinek vezetőiből kell megalakítani. Az illetékességi területén működő, a Honvédelmi Érdekegyeztető Fórum munkájában részt vevő katonai, honvédelmi alkalmazotti és közalkalmazotti érdek-képviseleti szervek egy-egy tagot jelölhetnek a bizottságba.
+(4)[^368] A helyőrségi bizottságot a helyőrségben és lakásgazdálkodás szempontjából utalt helyőrségekben (településeken) elhelyezett, illetve Budapesten a keretgazdához tartozó katonai szervezetek parancsnokaiból és személyügyi szerveinek vezetőiből kell megalakítani. Az illetékességi területén működő, a Honvédelmi Érdekegyeztető Fórum munkájában részt vevő katonai, honvédelmi alkalmazotti és közalkalmazotti érdek-képviseleti szervek egy-egy tagot jelölhetnek a bizottságba.
 
 (5) Ha a helyőrséghez, illetve a keretgazdához lakásgazdálkodás szempontjából csak egy katonai szervezet tartozik, a bizottságot a katonai szervezet parancsnokából, személyügyi szervének vezetőjéből és az ellátást végző pénzügyi szerv vezetőjéből kell megalakítani.
 
@@ -14,9 +14,9 @@
 
 (7) A bizottság megalakításáért az önálló lakásgazdálkodást folytató helyőrség parancsnoka, a keretgazda katonai szervezet parancsnok, ha a lakáskeret-gazdálkodást több katonai szervezet együtt végzi, a legmagasabb szintű katonai szervezet parancsnoka a felelős.
 
-(8)[^367] A bizottság alakuló ülésén saját tagjai közül elnököt választ. A titkári teendők ellátására a helyőrségi lakásgazdálkodási előadót, illetve a keretgazda lakásbizottságnál arra alkalmas személyt kell – feladatainak munkaköri leírásban történő rögzítésével – kijelölni.
+(8)[^369] A bizottság alakuló ülésén saját tagjai közül elnököt választ. A titkári teendők ellátására a helyőrségi lakásgazdálkodási előadót, illetve a keretgazda lakásbizottságnál arra alkalmas személyt kell – feladatainak munkaköri leírásban történő rögzítésével – kijelölni.
 
 (9) Ha a beosztás megszűnése vagy visszahívás miatt a bizottsági tagság megszűnik, 30 napon belül új tagot kell választani, illetve kijelölni.
 
-[^366]: A 229. § (4) bekezdése a 8/2020. (V. 27.) HM rendelet 5. § n) pontja szerint módosított szöveg.
-[^367]: A 229. § (8) bekezdése a 4/2012. (IV. 5.) HM rendelet 17. §-ával megállapított szöveg.
+[^368]: A 229. § (4) bekezdése a 8/2020. (V. 27.) HM rendelet 5. § n) pontja szerint módosított szöveg.
+[^369]: A 229. § (8) bekezdése a 4/2012. (IV. 5.) HM rendelet 17. §-ával megállapított szöveg.

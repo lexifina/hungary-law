@@ -1,4 +1,4 @@
-218/A. §[^341] (1) A 7. § (4) bekezdésben megállapított feltételek hiányában, kérelemre az új szolgálati helyen történő szolgálat alatt is továbbfolyósítható a lakáslízinghez korábban ugyanarra a lakásra megállapított albérleti díj hozzájárulás, ha
+218/A. §[^343] (1) A 7. § (4) bekezdésben megállapított feltételek hiányában, kérelemre az új szolgálati helyen történő szolgálat alatt is továbbfolyósítható a lakáslízinghez korábban ugyanarra a lakásra megállapított albérleti díj hozzájárulás, ha
 
 a) a hivatásos és szerződéses katona eltérő vonzáskörzetben lévő szolgálati helyre történt kinevezésére, áthelyezésére, más szervhez egy évet meghaladó határozott vagy határozatlan időtartamra vezénylésére szolgálati érdekből, nem a saját kérelmére került sor,
 
@@ -14,4 +14,4 @@ a) az (1) bekezdés b) pontja szerinti engedélyét visszavonta, vagy
 
 b) az (1) bekezdés c) pontja szerinti valamely feltétel már nem áll fenn.
 
-[^341]: A 218/A. §-t a 15/2015. (XII. 21.) HM rendelet 24. §-a iktatta be.
+[^343]: A 218/A. §-t a 15/2015. (XII. 21.) HM rendelet 24. §-a iktatta be.

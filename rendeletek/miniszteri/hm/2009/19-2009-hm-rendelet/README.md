@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-19-20-1
 | 2021-03-15 | 2009-19-20-15.23 | 9/2021. (III. 2.) HM rendelet |
 | 2022-02-18 | 2009-19-20-15.24 | 4/2022. (II. 17.) HM rendelet |
 | 2022-08-20 | 2009-19-20-15.25 | 7/2022. (IV. 14.) HM rendelet |
+| 2022-12-23 | 2009-19-20-15.26 | 16/2022. (XII. 22.) HM rendelet |
