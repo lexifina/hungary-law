@@ -1,8 +1,8 @@
-## 9. §[^16] E rendeletnek az egyes beruházásokkal összefüggő kormányrendeletek módosításáról szóló 525/2021. (IX. 8.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 2. § e)–h) pontját, 2/A. §-át, 3. § (1) bekezdés d) és e) pontját, 3. § (8) és (10) bekezdését, valamint 4. § (4) bekezdését a Módr2. hatálybalépésekor[^17] folyamatban lévő eljárásokban is alkalmazni kell.
+## 9. §[^17] E rendeletnek az egyes beruházásokkal összefüggő kormányrendeletek módosításáról szóló 525/2021. (IX. 8.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 2. § e)–h) pontját, 2/A. §-át, 3. § (1) bekezdés d) és e) pontját, 3. § (8) és (10) bekezdését, valamint 4. § (4) bekezdését a Módr2. hatálybalépésekor[^18] folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 370/2020. (VII. 30.) Korm. rendelethez
 
-## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -62,5 +62,5 @@
 
 29. az 1–28. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^16]: A 9. §-t az 525/2021. (IX. 8.) Korm. rendelet 14. §-a iktatta be.
-[^17]: A hatálybalépés időpontja 2021. szeptember 9.
+[^17]: A 9. §-t az 525/2021. (IX. 8.) Korm. rendelet 14. §-a iktatta be.
+[^18]: A hatálybalépés időpontja 2021. szeptember 9.
