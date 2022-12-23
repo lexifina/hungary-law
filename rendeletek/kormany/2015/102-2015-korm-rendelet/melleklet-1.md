@@ -2,7 +2,7 @@
 
 1. melléklet a 102/2015. (IV. 20.) Korm. rendelethez
 
-## Az INTERSPAN Faipari Korlátolt Felelősségű Társaság Vásárosnamény területén megvalósuló falemezgyártó üzemének megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+Az INTERSPAN Faipari Korlátolt Felelősségű Társaság Vásárosnamény területén megvalósuló falemezgyártó üzemének megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
