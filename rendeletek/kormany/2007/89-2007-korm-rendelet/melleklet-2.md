@@ -1,5 +1,3 @@
-## A kiemelt jelentőségű ügyekhez tartozó létesítmények, a megvalósításukhoz szükséges hatósági engedélyek és eljárások lefolytatására hatáskörrel rendelkező közigazgatási szervek
-
 |  | A | B | C | D |
 
 | 1. | Létesítmény | Létesítmény azonosító adatai | A beruházás megvalósításához szükséges engedélyek | Eljáró engedélyező hatóság |

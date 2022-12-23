@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-89-20-2
 | 2017-07-01 | 2007-89-20-22.20 | 380/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2007-89-20-22.21 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2020-03-01 | 2007-89-20-22.22 | 361/2019. (XII. 30.) Korm. rendelet |
+| 2022-12-23 | 2007-89-20-22.23 | 308/2013. (VIII. 15.) Korm. rendelet |

@@ -1,5 +1,3 @@
-## 1/A. §[^5] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Budapest Főváros Kormányhivatalát vezető kormánymegbízottat jelöli ki.
-
 2. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
 (2) Az e rendelet hatálybalépését megelőzően indult közigazgatási hatósági eljárásokat e rendelet hatálybalépése nem érinti.
@@ -10,7 +8,6 @@
 
 (5)[^10] Az illetékes megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság a Módr2. hatályba lépését[^11] megelőzően nála indult, első fokú határozat, szakhatósági állásfoglalás vagy előzetes szakhatósági állásfoglalás kiadásával még le nem zárt ügyeket átteszi a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatósághoz.
 
-[^5]: Az 1/A. §-t a 308/2013. (VIII. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 72/2015. (III. 30.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 114. §-át.
 [^6]: A 2. § (3) bekezdését a 358/2013. (X. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^7]: A hatálybalépés időpontja 2013. október 14.
 [^8]: A 2. § (4) bekezdését a 229/2014. (IX. 5.) Korm. rendelet 10. §-a iktatta be.
