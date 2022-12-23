@@ -1,1 +1,0 @@
-## 2. § A Kormány az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
