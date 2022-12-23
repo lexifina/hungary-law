@@ -1,6 +1,6 @@
 1. melléklet a 92/2017. (IV. 10.) Korm. rendelethez
 
-## A zalaegerszegi járműipari tesztpálya projekt beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A zalaegerszegi járműipari tesztpálya projekt beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
