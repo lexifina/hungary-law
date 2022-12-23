@@ -136,7 +136,7 @@ Ha a Zálogtárgyként lekötött ingatlanra bármilyen ügyben végrehajtási j
 
 11.1. A Kamattámogatásra való jogosultság megszűnése, illetve az Adós / Adósok Kamattámogatás-visszafizetési kötelezettségének bármilyen okból történő bekövetkezése esetén az Adós / Adósok a Kölcsönszerződés szerinti szerződéses ügyleti kamat megfizetésére köteles / kötelesek.
 
-11.2. Ha az Adósnak / Adósoknak a Kölcsönszerződés szerinti Kölcsön és az ahhoz kapcsolódó Kamattámogatás igénybevételéhez szükséges feltételek meglétével kapcsolatos, a Hitelező vagy az igénybevétel feltételeire vonatkozó igazolást kibocsátó részére tett nyilatkozata valótlan adatot tartalmaz, akkor a folyósított összeget az igénybevétel napjától a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:48. § (1) bekezdése szerint számított kamatával együtt köteles / kötelesek visszafizetni. A támogatás visszavonásának napjától kezdődően az Adós / Adósok a Kölcsönszerződés szerinti szerződéses ügyleti kamat mindenkori hatályos mértékét köteles / kötelesek megfizetni a Hitelezőnek.
+11.2. Ha az Adósnak/Adósoknak a Kölcsönszerződés szerinti Kölcsön és az ahhoz kapcsolódó Kamattámogatás igénybevételéhez szükséges feltételek meglétével kapcsolatos, a Hitelező vagy az igénybevétel feltételeire vonatkozó igazolást kibocsátó részére tett nyilatkozata valótlan adatot tartalmaz, akkor a folyósított összeget az igénybevétel napjától jogszabály szerint számított kamatával együtt köteles / kötelesek visszafizetni. A támogatás visszavonásának napjától kezdődően az Adós/Adósok a Kölcsönszerződés szerinti szerződéses ügyleti kamat mindenkori hatályos mértékét köteles/kötelesek megfizetni a Hitelezőnek.
 
 11.3. Ha az Adós / Adósok bármelyike a Kölcsönszerződés saját magára vonatkozóan történő megszüntetését kezdeményezi, és a kölcsönkérelem benyújtásakor a Rendeletben foglalt feltétel személyére vonatkozóan teljesült, az Adóst / Adósokat Kamattámogatás-visszafizetési kötelezettség nem terheli, azonban a kötelemben maradó Adós / Adósok a Kamattámogatásra a Kölcsönszerződés módosítását követően − a Kölcsönszerződésben megjelölt kivétellel − nem jogosult / jogosultak.[^10.]
 
@@ -198,7 +198,7 @@ V. Hiteles kiadmány
 
 Az Adós / Adósok és a Zálogkötelezett / Zálogkötelezettek /, valamint a Haszonélvező / Haszonélvezők (a továbbiakban: Ügyfél) akként rendelkeznek, hogy jelen közjegyzői okiratról hiteles kiadmány, másolat és bizonyítvány az Ügyfélnek, továbbá a Hitelezőnek és a Zálogjogosultnak adható ki.
 
-[^24]: Az 1. mellékletet a 21/2020. (XII. 31.) IM rendelet 2. §-a iktatta be, szövege a 2/2021. (III. 29.) IM rendelet 1. §-ával megállapított, a 16/2021. (XII. 1.) IM rendelet 2. §-a szerint módosított szöveg.
+[^24]: Az 1. mellékletet a 21/2020. (XII. 31.) IM rendelet 2. §-a iktatta be, szövege a 2/2021. (III. 29.) IM rendelet 1. §-ával megállapított, a 16/2021. (XII. 1.) IM rendelet 2. §-a, a 32/2022. (XII. 22.) IM rendelet 2. §-a szerint módosított szöveg.
 [^1.]: Az okiratminta kitöltése során tartalmi változtatásnak vagy kiegészítésnek nincs helye, annak szövege csak annyiban bővíthető, amennyiben a szöveg bővítését az okiratminta pontozott vonal használatával megengedi. A / jellel jelölt vagylagosság esetén kizárólag a megfelelő fordulatot kell feltüntetni, a többi törlendő. Az okiratmintából csak azok a szövegrészek hagyhatók el, amelyek elhagyását az okiratminta megengedi.
 [^2.]: Több adós esetén többször feltüntethető.
 [^3.]: Kizárólag több jogosult félként való részvétele esetén kell feltüntetni.
