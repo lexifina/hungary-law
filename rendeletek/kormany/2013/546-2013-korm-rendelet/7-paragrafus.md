@@ -1,3 +1,3 @@
-7. §[^27]
+7. §[^28]
 
-[^27]: A 7. §-t a 458/2017. (XII. 28.) Korm. rendelet 121. § e) pontja hatályon kívül helyezte.
+[^28]: A 7. §-t a 458/2017. (XII. 28.) Korm. rendelet 121. § e) pontja hatályon kívül helyezte.

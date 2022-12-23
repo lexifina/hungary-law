@@ -1,6 +1,6 @@
-## 15. §[^38] E rendeletnek a Liget Budapest projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 546/2013. (XII. 30.) Korm. rendelet és az anyakönyvvezető és az anyakönyvi szervek eljárásáról és kijelöléséről, valamint az anyakönyvezéshez szükséges képesítési feltételekről szóló 174/2017. (VI. 30.) Korm. rendelet módosításáról szóló 102/2022. (III. 10.) Korm. rendelet (a továbbiakban: Módr5.) megállapított 4/A. § (6a) bekezdését a Módr5. hatálybalépésekor[^39] folyamatban lévő és a megismételt eljárásokban is alkalmazni kell.
+## 15. §[^39] E rendeletnek a Liget Budapest projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 546/2013. (XII. 30.) Korm. rendelet és az anyakönyvvezető és az anyakönyvi szervek eljárásáról és kijelöléséről, valamint az anyakönyvezéshez szükséges képesítési feltételekről szóló 174/2017. (VI. 30.) Korm. rendelet módosításáról szóló 102/2022. (III. 10.) Korm. rendelet (a továbbiakban: Módr5.) megállapított 4/A. § (6a) bekezdését a Módr5. hatálybalépésekor[^40] folyamatban lévő és a megismételt eljárásokban is alkalmazni kell.
 
-1. melléklet az 546/2013. (XII. 30.) Korm. rendelethez[^40]
+1. melléklet az 546/2013. (XII. 30.) Korm. rendelethez[^41]
 
 A Liget Budapest projekt keretében megvalósuló egyes beruházásokkal összefüggő kiemelt jelentőségű ügyek
 
@@ -20,7 +20,7 @@ A Liget Budapest projekt keretében megvalósuló egyes beruházásokkal összef
 
 8. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
 
-9.[^41] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+9.[^42] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 10. műszaki biztonsági hatósági engedélyezési eljárások,
 
@@ -50,7 +50,7 @@ A Liget Budapest projekt keretében megvalósuló egyes beruházásokkal összef
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^38]: A 15. §-t a 102/2022. (III. 10.) Korm. rendelet 2. §-a iktatta be.
-[^39]: A hatálybalépés időpontja 2022. március 11.
-[^40]: Az 1. melléklet a 373/2015. (XII. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^41]: Az 1. melléklet 9. pontja a 380/2016. (XII. 2.) Korm. rendelet 63. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^39]: A 15. §-t a 102/2022. (III. 10.) Korm. rendelet 2. §-a iktatta be.
+[^40]: A hatálybalépés időpontja 2022. március 11.
+[^41]: Az 1. melléklet a 373/2015. (XII. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^42]: Az 1. melléklet 9. pontja a 380/2016. (XII. 2.) Korm. rendelet 63. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.

@@ -1,4 +1,4 @@
-4. §[^20] (1) Az 1. § (1) bekezdés b) pontja szerinti ingatlanon megvalósuló beruházás esetében a beépítés szabályait a (2)–(6) bekezdés, valamint a 4/A. § állapítja meg, azzal, hogy
+4. §[^21] (1) Az 1. § (1) bekezdés b) pontja szerinti ingatlanon megvalósuló beruházás esetében a beépítés szabályait a (2)–(6) bekezdés, valamint a 4/A. § állapítja meg, azzal, hogy
 
 a) a Városligeti Építési Szabályzat és az OTÉK előírásait a (2)–(6) bekezdésben, valamint a 4/A. §-ban foglalt eltérésekkel kell alkalmazni, és
 
@@ -28,4 +28,4 @@ g) szintterületi mutató megengedett legnagyobb mértéke: 0,3 m2/m2.
 
 (6) Teraszok létesíthetőek vízáteresztő szilárd burkolattal is.
 
-[^20]: A 4. §-t a 458/2017. (XII. 28.) Korm. rendelet 121. § c) pontja hatályon kívül helyezte, újonnan a 442/2020. (IX. 29.) Korm. rendelet 3. §-a iktatta be.
+[^21]: A 4. §-t a 458/2017. (XII. 28.) Korm. rendelet 121. § c) pontja hatályon kívül helyezte, újonnan a 442/2020. (IX. 29.) Korm. rendelet 3. §-a iktatta be.

@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-546-20-
 | 2020-09-30 | 2013-546-20-22.14 | 442/2020. (IX. 29.) Korm. rendelet |
 | 2021-07-16 | 2013-546-20-22.15 | 373/2015. (XII. 2.) Korm. rendelet |
 | 2022-03-11 | 2013-546-20-22.16 | 102/2022. (III. 10.) Korm. rendelet |
+| 2022-12-23 | 2013-546-20-22.17 | 72/2015. (III. 30.) Korm. rendelet |
