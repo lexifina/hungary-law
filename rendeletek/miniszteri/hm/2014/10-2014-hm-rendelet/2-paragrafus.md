@@ -1,6 +1,6 @@
 ## 2. Lakáspénz
 
-## 2. §[^3] Lakáspénz folyósítható
+## 2. §[^4] Lakáspénz folyósítható
 
 a) szállodai vagy apartman jellegű kereskedelmi szálláshely bérletéhez,
 
@@ -8,4 +8,4 @@ b) lakás bérletéhez, az állami tulajdonú, HM vagyonkezelői jogú lakás ki
 
 c) lakás lízingbe adásra jogosult, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezettől (a továbbiakban: gazdálkodó szervezet) való lízingjéhez.
 
-[^3]: A 2. § a 22/2018. (XII. 28.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § a 22/2018. (XII. 28.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.

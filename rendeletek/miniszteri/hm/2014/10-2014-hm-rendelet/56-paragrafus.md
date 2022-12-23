@@ -1,3 +1,3 @@
-## 55. §[^80]
+56. §[^113]
 
-[^80]: Az 55. § a 26/2016. (XII. 22.) HM rendelet 27. § (2) bekezdése alapján nem lép hatályba.
+[^113]: Az 56–57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

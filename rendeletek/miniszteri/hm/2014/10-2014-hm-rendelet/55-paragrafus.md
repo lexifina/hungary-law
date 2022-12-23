@@ -1,3 +1,3 @@
-## 45–54. §[^79]
+55. §[^112]
 
-[^79]: A 45–54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^112]: Az 55. § a 26/2016. (XII. 22.) HM rendelet 27. § (2) bekezdése alapján nem lép hatályba.

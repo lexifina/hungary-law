@@ -22,19 +22,20 @@ g) 8 fő együttlakó személy esetén 4 lakószoba,
 
 h) 8-nál több együttlakó személy esetén legalább 4,5 lakószoba
 
-## azzal, hogy két félszoba egy lakószobának felel meg;
+azzal, hogy két félszoba egy lakószobának felel meg;
 
 3. szolgálati hely szerinti település: az a belföldi település, ahol az állomány tagja a katonai szolgálatot az egy évet meg nem haladó időtartamú vezénylés esetét kivéve, ellátja;
 
-4. szolgálati hely szerinti település vonzáskörzete: az a település, amelynek a szolgálati hely szerinti településtől közforgalom számára nyitott, szilárd burkolatú úton mért távolsága legfeljebb 40 km, és a szolgálati hely szerinti település a járat üzemeltetője által közzétett menetrend szerint a tömegközlekedési eszközzel legfeljebb egy óra alatt megközelíthető;
+4.[^1] szolgálati hely szerinti település vonzáskörzete: az a település, amelynek a szolgálati hely szerinti településtől közforgalom számára nyitott, szilárd burkolatú úton mért távolsága legfeljebb 40 km;
 
-5.[^1] helyőrségi szálló: a honvédelmi szervezet intézményi területén belül elkerített, közterületről önállóan megközelíthető vagy az intézményi területen kívül elhelyezkedő, állami tulajdonú HM vagyonkezelői jogú vagy a honvédelmi szervezet által bérelt olyan szállóépület, épületrész, kivételesen HM rendelkezésű lakás, amelyben a szállodai jelleggel berendezett szobákban a fekvőhelyek száma szerinti férőhelyek (a továbbiakban együtt: szálló férőhely) vannak;
+5.[^2] helyőrségi szálló: a honvédelmi szervezet intézményi területén belül elkerített, közterületről önállóan megközelíthető vagy az intézményi területen kívül elhelyezkedő, állami tulajdonú HM vagyonkezelői jogú vagy a honvédelmi szervezet által bérelt olyan szállóépület, épületrész, kivételesen HM rendelkezésű lakás, amelyben a szállodai jelleggel berendezett szobákban a fekvőhelyek száma szerinti férőhelyek (a továbbiakban együtt: szálló férőhely) vannak;
 
-6.[^2] az állomány tagja: a hivatásos és a szerződéses katona, a honvéd tisztjelölt kivételével;
+6.[^3] az állomány tagja: a hivatásos és a szerződéses katona, a honvéd tisztjelölt kivételével;
 
 7. az állomány egyedülálló tagja: az állomány olyan tagja, aki nem él házastársi vagy élettársi kapcsolatban vagy saját háztartásában nem gondoskodik olyan gyermek eltartásáról, aki után családi pótlékban részesül;
 
 8. közeli hozzátartozó: a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozó, továbbá az élettárs, bejegyzett élettárs, valamint mindezek egyeneságbeli rokona.
 
-[^1]: Az 1. § 5. pontja a 22/2018. (XII. 28.) HM rendelet 7. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § 6. pontja a 7/2022. (IV. 14.) HM rendelet 24. §-ával megállapított szöveg.
+[^1]: Az 1. § 4. pontja a 16/2022. (XII. 22.) HM rendelet 9. §-a szerint módosított szöveg.
+[^2]: Az 1. § 5. pontja a 22/2018. (XII. 28.) HM rendelet 7. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 6. pontja a 7/2022. (IV. 14.) HM rendelet 24. §-ával megállapított szöveg.
