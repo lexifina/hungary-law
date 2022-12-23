@@ -1,5 +1,3 @@
-## A Beruházás területi lehatárolása a terület határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátáival
-
 |  | A | B |
 
 | 1 | X (Keleti) | Y (Északi) |
@@ -22,7 +20,7 @@
 
 2. melléklet az 55/2021. (II. 9.) Korm. rendelethez
 
-## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 

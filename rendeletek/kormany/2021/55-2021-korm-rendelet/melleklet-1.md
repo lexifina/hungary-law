@@ -1,3 +1,5 @@
 ## 11. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet az 55/2021. (II. 9.) Korm. rendelethez
+
+A Beruházás területi lehatárolása a terület határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátáival
