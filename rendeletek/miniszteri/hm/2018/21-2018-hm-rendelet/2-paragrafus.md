@@ -18,7 +18,7 @@
 
 ## 5. pótlékalap: illetménypótlék számításának a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény (a továbbiakban: Haj.tv.) 69. §-a szerinti alapja,
 
-## 6. személyügyi szerv vezetője: a honvédelmi szervezet személyügyi feladatok végrehajtásáért felelős szervezeti elemének vezetője, vagy – ennek hiányában – a központi személyügyi szerv vezetője által kijelölt szakmai elöljáró vagy felettes.
+## 6. személyügyi szerv vezetője: a honvédelmi szervezet személyügyi feladatok végrehajtásáért felelős szervezeti elemének vezetője, vagy – ennek hiányában – a központi személyügyi szerv vezetője által kijelölt szakmai elöljáró vagy felettes.”
 
 2. § (1) A honvédelmi alkalmazotti jogviszony tekintetében az egészségügyi, a közoktatási, a kutatási, a kulturális, a közművelődési és a közgyűjteményi ágazati jogszabályok eltérő rendelkezéseket is megállapíthatnak.
 

@@ -1,5 +1,3 @@
-## A honvédelmi alkalmazotti fizetési osztályok első fizetési fokozata szerinti garantált illetmények havi összege forintban, valamint a fizetési fokozatokhoz tartozó legkisebb szorzószámok
-
 |  | A | B | C | D | E | F | G | H | I | J | K |
 
 | 1 | Fizetési foko- zatok | Fizetési osztályok |  |
@@ -41,3 +39,5 @@
 | 19 | 17. | 1,3300 | 1,4625 | 1,4925 | 1,5250 | 1,5475 | 1,7875 | 1,8325 | 2,0150 | 2,0575 | 2,0825 |
 
 4. melléklet a 21/2018. (XII. 28.) HM rendelethez
+
+A honvédelmi alkalmazottak honvédelmi illetménykiegészítésének szorzószámai az egyes fizetési osztályokban és fizetési fokozatokban

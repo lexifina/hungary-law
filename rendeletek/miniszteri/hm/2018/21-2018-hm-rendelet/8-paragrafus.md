@@ -6,7 +6,7 @@ b) olyan gazdasági társaságnál, amelynél a tulajdonosi jog gyakorlója a mi
 
 c) az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c) pontja szerinti gazdasági társaságnál
 
-## állt folyamatosan munkaviszonyban, feltéve, hogy a honvédelmi alkalmazott ez idő alatt rendelkezett a honvédelmi alkalmazotti jogviszonyában betöltendő munkaköréhez szükséges iskolai végzettséggel vagy képesítéssel.
+állt folyamatosan munkaviszonyban, feltéve, hogy a honvédelmi alkalmazott ez idő alatt rendelkezett a honvédelmi alkalmazotti jogviszonyában betöltendő munkaköréhez szükséges iskolai végzettséggel vagy képesítéssel.
 
 (2)[^11]
 

@@ -16,7 +16,7 @@ b) nyilvános könyvtár esetében a Kultv. 54. § (3) bekezdésében,
 
 c) közlevéltár esetében az Ltv. 14. § (1) bekezdésében
 
-## meghatározott típusa,
+meghatározott típusa,
 
 4. kulturális szakfeladat: a kulturális intézmény alaptevékenysége ellátására irányuló feladat,
 

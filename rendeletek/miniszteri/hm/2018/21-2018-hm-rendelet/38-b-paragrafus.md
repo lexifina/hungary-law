@@ -10,7 +10,7 @@ a) munkanapon a tizennégy órától másnap reggel hat óráig,
 
 b) heti pihenőnapon és munkaszüneti napon a nulla órától huszonnégy óráig
 
-## tartó időszakban.
+tartó időszakban.
 
 (3) A (2) bekezdés szerinti ügyelet időtartamából
 
@@ -26,7 +26,7 @@ a) a heti pihenőnapon és munkaszüneti napon a reggel hat órától huszonkét
 
 b) bármely nap a huszonkét órától másnap reggel hat óráig tartó időszakban mérhető időtartamú munkavégzéssel járó ügyeletet
 
-## teljesít.
+teljesít.
 
 (5) Nem illeti meg a szakképző intézmény alkalmazottját az (1) bekezdés a) vagy b) pontja szerinti esetben ellátott ügyelet után pihenőidő, ha az ügyelet időtartama alatt nem kellett munkát végezni.
 

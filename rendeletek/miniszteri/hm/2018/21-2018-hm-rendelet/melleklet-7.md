@@ -1,5 +1,3 @@
-## A kulturális pótlék mértéke a pótlékalap százalékában
-
 |  | A | B | C | D | E | F | G | H | I | J | K |
 
 | 1. | Fizetési fokozatok | Fizetési osztályok |
@@ -40,7 +38,7 @@
 
 | 19. | 17 | 71 | 87 | 91 | 95 | 109 | 175 | 187 | 215 | 242 | 274 |
 
-7. melléklet a 21/2018. (XII. 28.) HM rendelethez[^66]
+7. melléklet a 21/2018. (XII. 28.) HM rendelethez[^69]
 
 Az MH EK-nál rendszeresíthető munkakörök megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke
 
@@ -272,4 +270,4 @@ Az MH EK-nál rendszeresíthető munkakörök megnevezése, fizetési osztályok
 
 | 113 | egészségügyi kisegítő | * |  |  |  |  |  |  |  |  |  |  |
 
-[^66]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 8/2021. (II. 27.) HM rendelet 6. § (2) bekezdése iktatta be.
+[^69]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 8/2021. (II. 27.) HM rendelet 6. § (2) bekezdése iktatta be.

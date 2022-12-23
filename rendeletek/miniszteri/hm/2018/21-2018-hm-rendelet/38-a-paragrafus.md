@@ -1,4 +1,4 @@
-## 12/A. [^41] A honvédségi szakképző intézményben foglalkoztatottakra vonatkozó különös szabályok
+## 12/A. [^44] A honvédségi szakképző intézményben foglalkoztatottakra vonatkozó különös szabályok
 
 38/A. § (1) Intézményvezetői pótlékra jogosult az a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) 40. § (1) bekezdés a)–d) pontja szerinti munkakörben foglalkoztatott honvédelmi alkalmazott (ezen alcím alkalmazásában a továbbiakban: szakképző intézmény alkalmazottja), aki intézményvezetői megbízással rendelkezik. Az intézményvezetői pótlék havi mértéke a pótlékalap 360–720%-a.
 
@@ -10,4 +10,4 @@
 
 (5) Az (1)–(4) bekezdés szerinti sávokon belül a pótlékok személyenkénti konkrét mértékét a munkáltatói jogkört gyakorló állapítja meg.
 
-[^41]: A 12/A. alcímet (38/A–38/B. §) a 13/2020. (X. 14.) HM rendelet 54. §-a iktatta be.
+[^44]: A 12/A. alcímet (38/A–38/B. §) a 13/2020. (X. 14.) HM rendelet 54. §-a iktatta be.

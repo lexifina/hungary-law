@@ -1,3 +1,5 @@
-6. melléklet a 21/2018. (XII. 28.) HM rendelethez[^65]
+6. melléklet a 21/2018. (XII. 28.) HM rendelethez[^68]
 
-[^65]: A 6. mellékletet újonnan az 5/2021. (I. 18.) HM rendelet 14. § (2) bekezdése iktatta be.
+A kulturális pótlék mértéke a pótlékalap százalékában
+
+[^68]: A 6. mellékletet újonnan az 5/2021. (I. 18.) HM rendelet 14. § (2) bekezdése iktatta be.
