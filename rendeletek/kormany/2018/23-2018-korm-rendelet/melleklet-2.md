@@ -1,34 +1,34 @@
 |  | A | B |
 
-| 1. | A beruházás megvalósításának helyszíne | Koordinációra kijelölt kormánymegbízott |
+| 1. | A beruházás megvalósításának helyszíne | Koordinációra kijelölt főispán |
 
-| 2. | Budapest közigazgatási területén elhelyezkedő, 74351 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 2. | Budapest közigazgatási területén elhelyezkedő, 74351 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-| 3. | Budapest közigazgatási területén elhelyezkedő, 74348 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 3. | Budapest közigazgatási területén elhelyezkedő, 74348 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-| 4. | Budapest közigazgatási területén elhelyezkedő, 74352 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 4. | Budapest közigazgatási területén elhelyezkedő, 74352 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-| 5. | Budapest közigazgatási területén elhelyezkedő, 74332 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 5. | Budapest közigazgatási területén elhelyezkedő, 74332 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-| 6. | Budapest közigazgatási területén elhelyezkedő, 74350 helyrajzi számú ingatlan | Budapest Fővárosi Kormányhivatalát vezető kormánymegbízott |
+| 6. | Budapest közigazgatási területén elhelyezkedő, 74350 helyrajzi számú ingatlan | Budapest Fővárosi Kormányhivatalát vezető főispán |
 
-| 7. | Budapest közigazgatási területén elhelyezkedő, 75100/2 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 7. | Budapest közigazgatási területén elhelyezkedő, 75100/2 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-| 8. | Budapest közigazgatási területén elhelyezkedő, 75100/7 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 8. | Budapest közigazgatási területén elhelyezkedő, 75100/7 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-| 9. | Budapest közigazgatási területén elhelyezkedő, 75100/6 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 9. | Budapest közigazgatási területén elhelyezkedő, 75100/6 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-| 10. | Budapest közigazgatási területén elhelyezkedő, 76491/8 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 10. | Budapest közigazgatási területén elhelyezkedő, 76491/8 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-| 11. | Budapest közigazgatási területén elhelyezkedő, 75845 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető kormánymegbízott |
+| 11. | Budapest közigazgatási területén elhelyezkedő, 75845 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-| 12. | Kisvárda közigazgatási területén elhelyezkedő, 3188/1 helyrajzi számú ingatlan | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető kormánymegbízott |
+| 12. | Kisvárda közigazgatási területén elhelyezkedő, 3188/1 helyrajzi számú ingatlan | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető főispán |
 
-| 13. | Hajdúböszörmény közigazgatási területén elhelyezkedő, 7828 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+| 13. | Hajdúböszörmény közigazgatási területén elhelyezkedő, 7828 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető főispán |
 
-| 14. | Hajdúböszörmény közigazgatási területén elhelyezkedő, 7830 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+| 14. | Hajdúböszörmény közigazgatási területén elhelyezkedő, 7830 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető főispán |
 
-| 15. | Hajdúböszörmény közigazgatási területén elhelyezkedő, 829/13 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+| 15. | Hajdúböszörmény közigazgatási területén elhelyezkedő, 829/13 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető főispán |
 
 | 16. |  |  |
 
@@ -48,27 +48,27 @@
 
 | 24. |  |  |
 
-| 25. | Vác közigazgatási területén elhelyezkedő, 4165/5 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
+| 25. | Vác közigazgatási területén elhelyezkedő, 4165/5 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető főispán |
 
-| 26. | Vác közigazgatási területén elhelyezkedő, 4164 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
+| 26. | Vác közigazgatási területén elhelyezkedő, 4164 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető főispán |
 
-| 27. | Győr közigazgatási területén elhelyezkedő, 5474/1 helyrajzi számú ingatlan | Győr-Moson-Sopron Megyei Kormányhivatalt vezető kormánymegbízott |
+| 27. | Győr közigazgatási területén elhelyezkedő, 5474/1 helyrajzi számú ingatlan | Győr-Moson-Sopron Megyei Kormányhivatalt vezető főispán |
 
-| 28. | Győr közigazgatási területén elhelyezkedő, 5474/2 helyrajzi számú ingatlan | Győr-Moson-Sopron Megyei Kormányhivatalt vezető kormánymegbízott |
+| 28. | Győr közigazgatási területén elhelyezkedő, 5474/2 helyrajzi számú ingatlan | Győr-Moson-Sopron Megyei Kormányhivatalt vezető főispán |
 
-| 29. | Hajdúnánás közigazgatási területén elhelyezkedő, 763/4 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+| 29. | Hajdúnánás közigazgatási területén elhelyezkedő, 763/4 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető főispán |
 
-| 30. | Hajdúnánás közigazgatási területén elhelyezkedő, 763/3 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+| 30. | Hajdúnánás közigazgatási területén elhelyezkedő, 763/3 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető főispán |
 
-| 31. | Hajdúnánás közigazgatási területén elhelyezkedő, 774 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+| 31. | Hajdúnánás közigazgatási területén elhelyezkedő, 774 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető főispán |
 
-| 32. | Hajdúnánás közigazgatási területén elhelyezkedő, 0855/9 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+| 32. | Hajdúnánás közigazgatási területén elhelyezkedő, 0855/9 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető főispán |
 
 | 33. |  |  |
 
 2. melléklet a 23/2018. (II. 20.) Korm. rendelethez
 
-## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
