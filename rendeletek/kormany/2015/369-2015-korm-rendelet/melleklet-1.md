@@ -2,7 +2,7 @@
 
 1. melléklet a 369/2015. (XII. 2.) Korm. rendelethez
 
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
+A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
 
 ## Az 1. § (1) bekezdésében foglalt beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek:
 
@@ -26,7 +26,7 @@
 
 10. útügyi hatósági eljárások,
 
-11.[^4] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+11.[^5] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 12. műszaki biztonsági engedélyezési eljárások,
 
@@ -46,4 +46,4 @@
 
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^4]: Az 1. melléklet 11. pontja a 380/2016. (XII. 2.) Korm. rendelet 105. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^5]: Az 1. melléklet 11. pontja a 380/2016. (XII. 2.) Korm. rendelet 105. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
