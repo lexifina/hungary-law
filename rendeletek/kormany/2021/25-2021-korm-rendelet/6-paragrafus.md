@@ -1,5 +1,3 @@
-## figyelembevétele nélkül elhelyezhető.
-
 6. § (1) Az 1. § (1) bekezdése szerinti ingatlanon a parkoló- és várakozóhelyek kialakításánál az építmények, illetve önálló rendeltetési egységek rendeltetésszerű használatához az OTÉK
 
 a) 42. § (4) bekezdés a) pontjában meghatározott számú autóbusz-várakozóhely,

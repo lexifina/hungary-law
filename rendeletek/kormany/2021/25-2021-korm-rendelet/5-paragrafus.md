@@ -35,3 +35,5 @@ fc) a telek be nem építhető és közcélú zöldfelületi része,
 fd) a tervezett gyalogoskapcsolat,
 
 fe) a tervezett közforgalmú vasúti nyomvonal
+
+figyelembevétele nélkül elhelyezhető.
