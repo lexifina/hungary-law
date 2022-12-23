@@ -2,7 +2,7 @@
 
 1. melléklet a 299/2015. (X. 15.) Korm. rendelethez
 
-## A Dispomedicor Zrt. Tiszafüred területén megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+A Dispomedicor Zrt. Tiszafüred területén megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
