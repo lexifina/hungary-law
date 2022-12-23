@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-49-20-2
 | 2018-11-30 | 2015-49-20-22.5 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2020-02-01 | 2015-49-20-22.6 | 8/2020. (I. 31.) Korm. rendelet |
 | 2022-12-16 | 2015-49-20-22.7 | 523/2022. (XII. 15.) Korm. rendelet |
+| 2022-12-23 | 2015-49-20-22.8 | 72/2015. (III. 30.) Korm. rendelet |
