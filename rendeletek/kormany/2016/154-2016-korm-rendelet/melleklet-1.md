@@ -1,8 +1,6 @@
-## 7. §[^2]
-
 1. melléklet a 154/2016. (VI. 13.) Korm. rendelethez
 
-## A Spinto Hungária Kft. Miskolc területén megvalósuló beruházásának megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Spinto Hungária Kft. Miskolc területén megvalósuló beruházásának megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -49,5 +47,3 @@
 22. azok az 1–21. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához, használatbavételéhez, üzembe helyezéséhez, üzemeltetéséhez és működtetéséhez szükségesek,
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
-
-[^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
