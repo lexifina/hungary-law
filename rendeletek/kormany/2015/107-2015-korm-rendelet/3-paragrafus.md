@@ -1,5 +1,3 @@
-## jelöli ki.
-
 ## 3. § Az 1. § (1) bekezdése szerinti beruházásokkal összefüggésben
 
 a) nem kell építészeti-műszaki tervtanácsi véleményt beszerezni,
