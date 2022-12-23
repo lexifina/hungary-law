@@ -1,8 +1,8 @@
-## 7. §[^3] E rendeletnek a Jászfényszarun megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 252/2015. (IX. 8.) Korm. rendelet módosításáról szóló 302/2015. (X. 15.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését a Módr. hatálybalépésekor[^4] folyamatban lévő ügyekben is alkalmazni kell.
+## 7. §[^4] E rendeletnek a Jászfényszarun megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 252/2015. (IX. 8.) Korm. rendelet módosításáról szóló 302/2015. (X. 15.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését a Módr. hatálybalépésekor[^5] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet a 252/2015. (IX. 8.) Korm. rendelethez
 
-## A jászfényszarui ipari telephely kialakításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+A jászfényszarui ipari telephely kialakításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -48,5 +48,5 @@
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^3]: A 7. §-t a 302/2015. (X. 15.) Korm. rendelet 2. §-a iktatta be.
-[^4]: A hatálybalépés időpontja 2015. október 16.
+[^4]: A 7. §-t a 302/2015. (X. 15.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A hatálybalépés időpontja 2015. október 16.
