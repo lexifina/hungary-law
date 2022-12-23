@@ -1,5 +1,3 @@
-## A Tokaj-Zemplén Térség Fejlesztési Program keretében megvalósítandó nemzetgazdasági szempontból kiemelt jelentőségű beruházások
-
 |  | A | B |
 
 | 1. | A beruházás megnevezése | A beruházás megvalósításának helyszíne |
@@ -10,6 +8,6 @@
 
 | 4. | Sátoraljaújhely, Nemzeti Összetartozás hídja, Szárhegy és Várhegy közötti függőhíd építése | Sátoraljaújhely külterület 0177/22, 0177/21 helyrajzi számú ingatlanok |
 
-3. melléklet az 589/2021. (X. 20.) Korm. rendelethez[^3]
+3. melléklet az 589/2021. (X. 20.) Korm. rendelethez[^4]
 
-[^3]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
