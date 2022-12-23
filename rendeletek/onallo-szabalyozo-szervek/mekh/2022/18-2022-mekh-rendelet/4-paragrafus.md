@@ -1,3 +1,3 @@
-4. § A Rendelet a következő 3/A. §-sal egészül ki:
+4. §[^5]
 
-„3/A. § Ha a villamosenergia-termelés megkezdésére vonatkozó, a Korm. rendelet 6. § (2) és (2a) bekezdése alapján megállapított határidő a 3. § alapján megtartottnak minősül, akkor megtartottnak minősül az adott támogatási jogosultsághoz tartozó kiserőművi összevont engedélyben megállapított kivitelezési határidő is.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

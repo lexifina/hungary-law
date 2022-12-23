@@ -1,3 +1,3 @@
-5. § A Rendelet 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(2) Ez a rendelet 2024. január 1-jén hatályát veszti.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
