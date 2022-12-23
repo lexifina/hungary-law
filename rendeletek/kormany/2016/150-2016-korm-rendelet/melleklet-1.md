@@ -2,7 +2,7 @@
 
 1. melléklet a 150/2016. (VI. 13.) Korm. rendelethez
 
-## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű hatósági ügyek
+A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű hatósági ügyek
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
