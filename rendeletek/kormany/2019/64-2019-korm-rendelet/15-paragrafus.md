@@ -1,3 +1,3 @@
-## 14. §[^31] A helyi településrendezési terv alapján előírt infrastruktúra-fejlesztések elmaradása a Beruházással összefüggő fejlesztés keretében megvalósított épületekre vonatkozó építési és használatbavételi engedély kiadásának nem lehet a feltétele.
+## 14. §[^32] A helyi településrendezési terv alapján előírt infrastruktúra-fejlesztések elmaradása a Beruházással összefüggő fejlesztés keretében megvalósított épületekre vonatkozó építési és használatbavételi engedély kiadásának nem lehet a feltétele.
 
-[^31]: A 14. § a 604/2021. (X. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^32]: A 14. § a 604/2021. (X. 29.) Korm. rendelet 7. §-ával megállapított szöveg.

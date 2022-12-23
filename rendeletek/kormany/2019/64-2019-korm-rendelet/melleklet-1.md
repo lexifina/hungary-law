@@ -1,8 +1,8 @@
-## 19. §[^36] E rendeletnek a 2022. évi férfi kézilabda Európa-bajnokság Budapesten való megrendezéséhez szükséges létesítményfejlesztés kiemelt budapesti fejlesztéssé, valamint a beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, továbbá a beruházással kapcsolatos sajátos szabályok megállapításáról szóló 64/2019. (III. 27.) Korm. rendelet módosításáról szóló 685/2021. (XII. 7.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 9. § (2a) bekezdését a Módr3. hatálybalépésekor[^37] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 19. §[^37] E rendeletnek a 2022. évi férfi kézilabda Európa-bajnokság Budapesten való megrendezéséhez szükséges létesítményfejlesztés kiemelt budapesti fejlesztéssé, valamint a beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, továbbá a beruházással kapcsolatos sajátos szabályok megállapításáról szóló 64/2019. (III. 27.) Korm. rendelet módosításáról szóló 685/2021. (XII. 7.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 9. § (2a) bekezdését a Módr3. hatálybalépésekor[^38] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 64/2019. (III. 27.) Korm. rendelethez
 
-## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -52,5 +52,5 @@
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^36]: A 19. §-t a 685/2021. (XII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^37]: A hatálybalépés időpontja 2021. december 8.
+[^37]: A 19. §-t a 685/2021. (XII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^38]: A hatálybalépés időpontja 2021. december 8.
