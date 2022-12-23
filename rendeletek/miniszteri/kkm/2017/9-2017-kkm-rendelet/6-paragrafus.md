@@ -12,4 +12,6 @@
 
 (6) A kötetlen munkarendben foglalkoztatott kihelyezett köteles munkaköre jellegéből adódó feladatok ellátása érdekében a külképviselet-vezető által meghatározott időpontban és helyen személyesen megjelenni és egyes munkafolyamatokat a külképviselet épületében ellátni.
 
-(7) A külképviselet-vezető és a kötetlen munkarendben foglalkoztatott kihelyezett köteles – a kötetlen munkarend jellegére figyelemmel – a kiadott feladatok, illetve a vezetői utasítás meghatározása, illetve annak ellátása során a Kttv. szerinti jóhiszeműség és tisztesség elvét szem előtt tartani.
+(7)[^6] A külképviselet-vezető és a kötetlen munkarendben foglalkoztatott kihelyezett köteles – a kötetlen munkarend jellegére figyelemmel – a kiadott feladatok, illetve a vezetői utasítás meghatározása, illetve annak ellátása során a Kit. szerinti jóhiszeműség és tisztesség elvét szem előtt tartani.
+
+[^6]: A 6. § (7) bekezdése a 23/2022. (XII. 22.) KKM rendelet 3. § c) pontja szerint módosított szöveg.
