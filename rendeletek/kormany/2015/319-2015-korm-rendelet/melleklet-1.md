@@ -1,8 +1,8 @@
-## 8. §[^10] A Magyar Művészeti Akadémia Művészetelméleti és Módszertani Kutatóintézetének megvalósítását szolgáló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről, valamint a Magyar Művészeti Akadémia Székháza kialakítását szolgáló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 319/2015. (X. 30.) Korm. rendelet módosításáról szóló 131/2016. (VI. 7.) Korm. rendelettel megállapított 4/A. §-át a folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 8. §[^11] A Magyar Művészeti Akadémia Művészetelméleti és Módszertani Kutatóintézetének megvalósítását szolgáló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről, valamint a Magyar Művészeti Akadémia Székháza kialakítását szolgáló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 319/2015. (X. 30.) Korm. rendelet módosításáról szóló 131/2016. (VI. 7.) Korm. rendelettel megállapított 4/A. §-át a folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 319/2015. (X. 30.) Korm. rendelethez
 
-## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -44,4 +44,4 @@
 
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^10]: A 8. §-t a 131/2016. (VI. 7.) Korm. rendelet 10. §-a iktatta be.
+[^11]: A 8. §-t a 131/2016. (VI. 7.) Korm. rendelet 10. §-a iktatta be.
