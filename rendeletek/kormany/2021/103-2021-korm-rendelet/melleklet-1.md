@@ -1,8 +1,8 @@
-## 9. §[^2] E rendeletnek az egyes kulturális beruházásokkal kapcsolatos kormányrendeletek módosításáról szóló 495/2021. (VIII. 16.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 5. § (2) bekezdés d) pontját a Módr. hatálybalépésekor[^3] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 9. §[^3] E rendeletnek az egyes kulturális beruházásokkal kapcsolatos kormányrendeletek módosításáról szóló 495/2021. (VIII. 16.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 5. § (2) bekezdés d) pontját a Módr. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 103/2021. (III. 3.) Korm. rendelethez
 
-## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -42,5 +42,5 @@
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^2]: A 9. §-t a 495/2021. (VIII. 16.) Korm. rendelet 4. §-a iktatta be.
-[^3]: A hatálybalépés időpontja 2021. augusztus 17.
+[^3]: A 9. §-t a 495/2021. (VIII. 16.) Korm. rendelet 4. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2021. augusztus 17.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-103-20-
 | --- | --- | --- |
 | 2021-03-04 | 2021-103-20-22.1 | 103/2021. (III. 3.) Korm. rendelet |
 | 2021-08-17 | 2021-103-20-22.2 | 495/2021. (VIII. 16.) Korm. rendelet |
+| 2022-12-23 | 2021-103-20-22.3 | 546/2022. (XII. 22.) Korm. rendelet |

@@ -1,5 +1,3 @@
-## jelöli ki.
-
 3. § (1) A Beruházással összefüggésben
 
 a) nincs helye településképi véleményezési eljárásnak,
