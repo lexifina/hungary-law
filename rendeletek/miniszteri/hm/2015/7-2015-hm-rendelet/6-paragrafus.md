@@ -52,7 +52,7 @@ a) a (4) bekezdés szerinti utasítás módosítása, és
 
 b) az állomány tagjának szolgálati beosztásából való felfüggesztése
 
-## esetén.
+esetén.
 
 (7a)[^25] A munkáltatói jogkört gyakorló vezető az (1) bekezdés alapján megállapított munkaerő-piaci pótlékot
 

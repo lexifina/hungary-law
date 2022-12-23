@@ -14,7 +14,7 @@ c)[^138] repülőműszaki beosztás ellátására történő vezénylés esetén
 
 d)[^139] a jogosultsági feltételeknek való megfelelés esetén a különleges műveleti tevékenységért járó fokozott igénybevételi pótlék
 
-## állapítható meg.
+állapítható meg.
 
 (4)[^140] Az állomány tagja részére a Hjt.vhr. 1. § 10. pont i) és j) alpontja szerinti külföldi szolgálata ideje alatt – a Hjt.-ben és miniszteri rendeletben szabályozott jogosultsági feltételeknek való megfelelés esetén – csak a STANAG 6001 pótlék és – a 6. § alapján pótlékra jogosítóként meghatározott beosztás betöltése esetén – a munkaerő-piaci pótlék, valamint külföldön folytatott tényleges repülőhajózó tevékenység esetén a repülési tevékenységért járó veszélyességi pótlék állapítható meg.
 

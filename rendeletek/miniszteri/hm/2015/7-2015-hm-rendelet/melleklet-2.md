@@ -1,4 +1,4 @@
-## A repülési tevékenységért járó veszélyességi pótlék havi mértéke a honvédelmi illetményalap százalékában meghatározva
+## 5K08278A_0
 
 |  | A | B | C | D | E |
 
@@ -15,3 +15,5 @@
 | 6 | A légijármű üzemeltetésében résztvevő további gépszemélyzet | 206 | 165 | 116 |
 
 2. melléklet a 7/2015. (VI. 22.) HM rendelethez
+
+A repülőgép berepülési tevékenységért járó veszélyességi pótlék mértéke berepült gépenként a honvédelmi illetményalap százalékában meghatározva

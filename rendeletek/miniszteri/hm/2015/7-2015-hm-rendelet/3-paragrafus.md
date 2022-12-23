@@ -1,5 +1,3 @@
-## szerinti rendelkezési állományba került áthelyezésre.
-
 ## 3. Az illetménypótlékok általános szabályai
 
 3. § (1) Az illetménypótlék az állomány tagjának az illetménypótlékra jogosító szolgálati tevékenység esetén a tevékenység tényleges kifejtésének idejére, az illetménypótlékra jogosító beosztás esetén – a 6. § (6) bekezdése szerinti eset kivételével – a beosztás betöltésének idejére jár.

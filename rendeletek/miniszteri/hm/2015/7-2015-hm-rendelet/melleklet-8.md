@@ -1,5 +1,3 @@
-## Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 1. melléklete szerinti egészségügyi munkakörök és az egészségügyi katonai beosztások megnevezésének megfeleltetése
-
 |  | A | B |
 
 | 1. | Egészségügyi munkakörök megnevezése egészségügyi munkakör-csoportok szerinti bontásban | Egészségügyi szolgálati beosztások megnevezése |

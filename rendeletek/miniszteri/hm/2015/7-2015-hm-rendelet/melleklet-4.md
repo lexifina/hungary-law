@@ -1,5 +1,3 @@
-## Az oktatói tevékenységért járó fokozott igénybevételi pótlék havi mértéke a honvédelmi illetményalap százalékában meghatározva
-
 |  | A | B | C | D | E | F | G |
 
 | 1 | Oktatói fokozat/beosztás | 1. pótlékfokozat | 2. pótlékfokozat | 3. pótlékfokozat |
@@ -15,3 +13,5 @@
 | 6 | Egyetemi tanár | 0–5 év | 166,7–199,6 | 6–10 év | 200,6–233,5 | 10 év felett | 234,5–267,4 |
 
 4. melléklet a 7/2015. (VI. 22.) HM rendelethez
+
+A repülőhajózók és ejtőernyősök egyszeri pénzjuttatásának évenkénti alapösszege a kifizetés időpontjában érvényes honvédelmi illetményalap százalékában meghatározva

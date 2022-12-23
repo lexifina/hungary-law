@@ -6,4 +6,6 @@ a) a 31. § szerinti esetben a pótlékra jogosító beosztásokról, és
 
 b) a 32. § szerinti esetben a pótlékra jogosító tevékenységek elvégzéséről
 
+az állományilletékes parancsnok által írásban kijelölt személy által vezetett részletes nyilvántartás.
+
 [^53]: A 32. §-t a 13/2020. (X. 14.) HM rendelet 36. §-a iktatta be.

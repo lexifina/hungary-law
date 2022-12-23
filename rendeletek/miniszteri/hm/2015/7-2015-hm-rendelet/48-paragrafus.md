@@ -1,5 +1,3 @@
-## 47. §[^70]
-
 ## 29. Az egészségügyi dolgozók kiegészítő illetménye
 
 48. § (1)[^71] Az állománynak az MH EK állományában munkaköri feladatként az Eütev. 11/A. § (5) és (6) bekezdése hatálya alá tartozó tagja (ezen alcím alkalmazásában a továbbiakban: egészségügyi dolgozó) az Eütev. 16. § (7) bekezdése alapján havonta kiegészítő illetményre jogosult, amelynek összegét az érintett részére egészségügyi dolgozók kiegészítő illetménye címén kell megállapítani.
@@ -38,7 +36,6 @@ c) a Hjt. 147. § (1) bekezdés d) pontja szerinti fenyítés időtartamára.
 
 (12)[^75] Az (1)–(11) bekezdés szerinti kiegészítő illetmény megállapítása, illetve a már megállapított kiegészítő illetmény felülvizsgálata során a 48/B. § (1) bekezdése szerinti kiegészítő illetmény összegét nem kell figyelembe venni.
 
-[^70]: A 47. §-t a 20/2018. (XII. 28.) HM rendelet 105. § b) pontja hatályon kívül helyezte.
 [^71]: A 48. § (1) bekezdése a 13/2021. (VII. 15.) HM rendelet 22. §-ával megállapított szöveg.
 [^72]: A 48. § (1a) bekezdését a 17/2017. (XII. 18.) HM rendelet 2. §-a iktatta be.
 [^73]: A 48. § (10a) bekezdését a 25/2016. (XII. 22.) HM rendelet 81. §-a iktatta be.

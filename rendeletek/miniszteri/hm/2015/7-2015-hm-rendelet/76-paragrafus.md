@@ -28,7 +28,7 @@ a) az adott évfolyamon járó alapilletményre a következő évfolyam első sz
 
 b) az adott szemeszteren neki biztosított tanulmányi díjra a következő szemeszterének
 
-## megkezdését megelőző napig jogosult.
+megkezdését megelőző napig jogosult.
 
 (7) A (6) bekezdés b) pontjától eltérően a honvéd tisztjelölt tanulmányi díjra a nyolcadik szemeszter esetén a Hjt. 225. § (1) bekezdése szerinti szerződéses szolgálati viszonya megszűnésének napjáig jogosult.
 

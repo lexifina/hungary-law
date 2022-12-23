@@ -1,5 +1,3 @@
-## 48/A. §
-
 ## 29/B. [^77] Az egészségügyi dolgozók bérkiegészítése miatti kiegészítő illetmény
 
 48/B. § (1)[^78] Az állománynak az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet (a továbbiakban: Korm. R.) 2/B. § d) és e) pontja hatálya alá tartozó tagja (ezen alcím alkalmazásában a továbbiakban: egészségügyi dolgozó) a 48. § szerinti kiegészítő illetményen felül havonta kiegészítő illetményre jogosult, amelyet egészségügyi dolgozók bérkiegészítése miatti kiegészítő illetmény címén kell részére megállapítani.
@@ -40,7 +38,7 @@ ga) 2/A. § (4) bekezdése szerinti állomány és a Korm. R. 2. § (1b) bekezd�
 
 gb) 2/A. § (5) bekezdése szerinti állomány esetében a Korm. R. 8. melléklete szerinti garantált illetmény- vagy bérnövekmény-tábla szerinti összeg 2022. január 1-jei változásából eredő növekmény
 
-## együttes összegével.
+együttes összegével.
 
 (1b)[^91] Az (1a) bekezdés b) pontjának végrehajtása során 2017. november 1-jei illetmény-növekményként az orvosok és fogorvosok esetében havi bruttó 50 000 Ft-ot, a gyógyszerészek esetében a Korm. R. 5. mellékletében a H fizetési osztályhoz tartozó összegeket kell figyelembe venni.
 
@@ -57,6 +55,8 @@ a) 2/A. § (4) bekezdése szerinti állomány alatt a Korm. R. 2/B. § d) pontja
 b) 2. § (1b) bekezdése szerinti védőnők alatt a Korm. R. 2/B. § d) pontja szerinti védőnőket,
 
 c) 2/A. § (5) bekezdése szerinti állomány alatt a Korm. R. 2/B. § e) pontja szerinti állományt
+
+kell érteni.
 
 [^77]: A 29/B. alcímet (48/B. §) a 16/2016. (VIII. 31.) HM rendelet 11. §-a iktatta be.
 [^78]: A 48/B. § (1) bekezdése a 13/2021. (VII. 15.) HM rendelet 23. § (1) bekezdésével megállapított szöveg.

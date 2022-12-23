@@ -1,5 +1,3 @@
-## kell érteni.
-
 ## 29/C. [^95] A legénységi kiegészítő illetmény
 
 48/C. § (1) A legénységi állomány tagja – a (2) bekezdésben foglalt kivétellel – legénységi kiegészítő illetményre jogosult.

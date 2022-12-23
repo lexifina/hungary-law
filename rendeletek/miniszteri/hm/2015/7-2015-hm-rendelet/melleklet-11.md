@@ -1,4 +1,4 @@
-## A munkaerőpiaci kiegészítő illetmény összege
+## 0X00189_0
 
 |  | A | B | C | D | E | F | G | H |
 
@@ -49,5 +49,7 @@
 | 23. | 20. besorolási kategória | vezérezredes | 133 800 | 136 030 | 138 260 | 136 030 | 138 260 | 140 490 |
 
 11. melléklet a 7/2015. (VI. 22.) HM rendelethez[^248]
+
+Meghatározott vezénylő zászlósi beosztásokhoz tartozó munkaerőpiaci kiegészítő illetmény összege
 
 [^248]: A 11. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § d) pontja iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 48. §-a szerint módosított szöveg.

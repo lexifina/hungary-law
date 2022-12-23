@@ -1,5 +1,3 @@
-## utolsó napjáig kell visszafizetni.
-
 ## 42. A visszailleszkedési támogatás
 
 66. §[^162] (1) A visszailleszkedési támogatás összegének megállapításakor a felmentési idő vagy a lejáró szerződés utolsó napján érvényes távolléti díjat kell alapul venni.

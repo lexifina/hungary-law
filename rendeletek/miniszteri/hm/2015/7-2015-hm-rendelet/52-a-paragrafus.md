@@ -6,12 +6,14 @@ a) altiszt esetében 4,95–6,60,
 
 b) tiszt esetében 6,25–10,60
 
-## közötti szorzószámok szorzataként állapítható meg.
+közötti szorzószámok szorzataként állapítható meg.
 
 (2) Az (1) bekezdés szerinti miniszteri döntés hiányában az alapilletményt
 
 a) az első szolgálati beosztásba történő kinevezés nélkül vezényeltek esetében a Hjt. 123. § (5) bekezdés b) pontja,
 
 b) az első szolgálati beosztásba kinevezett vezényeltek esetében a vezénylést megelőző napon betöltött beosztás besorolása
+
+figyelembevételével kell megállapítani.
 
 [^134]: A 32/A. alcímet (52/A. §) a 10/2017. (VIII. 31.) HM rendelet 63. §-a iktatta be.

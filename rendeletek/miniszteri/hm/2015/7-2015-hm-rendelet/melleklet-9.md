@@ -1,6 +1,6 @@
 9. melléklet a 7/2015. (VI. 22.) HM rendelethez[^246]
 
-## A honvéd altiszt-jelölt ösztöndíja
+A honvéd altiszt-jelölt ösztöndíja
 
 I. Az alapösztöndíj szorzószáma havonta
 

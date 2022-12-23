@@ -10,6 +10,8 @@ a) az általa korábban betöltött vezetői beosztásból a számára megtervez
 
 b) az egy évet meghaladó korábbi külföldi szolgálatra vezénylést követően a számára megtervezett hazai nem vezetői beosztásba áthelyezését megelőzően átmenetileg a Hjt. 46. § (1) bekezdés f) pontja
 
+szerinti rendelkezési állományba került áthelyezésre.
+
 [^10]: A 2/A. §-t a 9/2016. (VI. 29.) HM rendelet 10. §-a iktatta be.
 [^11]: A 2/A. § (1) bekezdése a 20/2018. (XII. 28.) HM rendelet 97. §-ával megállapított szöveg.
 [^12]: A 2/A. § (2) bekezdése a 20/2018. (XII. 28.) HM rendelet 104. § 4. és 5. pontja szerint módosított szöveg.

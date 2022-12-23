@@ -9,3 +9,5 @@
 a) repülő beosztást betöltő és repülő kiképzést végrehajtó légijármű-vezető és légijármű fedélzeti személyzetébe tartozó egyéb (a továbbiakban együtt: repülőhajózó), és
 
 b) külföldön repülőhajózó képzésen résztvevő, de nem repülőhajózó beosztást betöltő
+
+tagja.

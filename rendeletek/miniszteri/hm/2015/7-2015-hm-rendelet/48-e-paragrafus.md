@@ -1,5 +1,3 @@
-## kell érteni.
-
 ## 29/E. [^117] A munkaerőpiaci kiegészítő illetmény
 
 48/E. § (1) Az állomány azon tagja, aki alapilletményre jogosult, és az alapilletménye az 1. § (1) bekezdése szerint vagy a Hjt. 5. melléklete szerint kerül megállapításra, havonta munkaerőpiaci kiegészítő illetményre jogosult.

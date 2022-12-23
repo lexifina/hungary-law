@@ -10,4 +10,6 @@ a) a Hjt. 73. § (5) bekezdése szerinti esetben a megszűnő szerződéses szol
 
 b) a Hjt. 73. § (6) bekezdése szerinti esetben a megszűnő hivatásos szolgálati viszony
 
+utolsó napjáig kell visszafizetni.
+
 [^161]: A 65. § a 10/2017. (VIII. 31.) HM rendelet 66. §-ával megállapított szöveg.

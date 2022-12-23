@@ -1,5 +1,3 @@
-## Meghatározott vezénylő zászlósi beosztásokhoz tartozó munkaerőpiaci kiegészítő illetmény összege
-
 |  | A | B |
 
 | 1. | Vezénylő zászlósi beosztások megnevezése | Munkaerőpiaci kiegészítő illetmény összege (Ft) |
@@ -18,7 +16,7 @@
 
 12. melléklet a 7/2015. (VI. 22.) HM rendelethez[^249]
 
-## Eltérő illetménymegállapításra jogosító szolgálati beosztások
+Eltérő illetménymegállapításra jogosító szolgálati beosztások
 
 1. Legalább ezredes rendfokozattal rendszeresített vezetői, valamint a HM altiszti főreferens beosztás
 

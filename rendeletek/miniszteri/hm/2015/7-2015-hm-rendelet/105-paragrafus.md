@@ -8,7 +8,7 @@ c) 48/G. §-át 2020. július 1-jétől,
 
 d) 1. § (3), (3a) és (4) bekezdését 2020. szeptember 1-jétől
 
-## kell alkalmazni.
+kell alkalmazni.
 
 (2) E rendeletnek a Módr.8.-cal megállapított 50. alcímét a 2020. január 1-jén folyamatban lévő és azt követően megkezdődött hagyatéki eljárások tekintetében is alkalmazni kell.
 

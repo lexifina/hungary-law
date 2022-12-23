@@ -8,7 +8,7 @@ a)[^15] a Hjt.vhr. 120/E. § (1) és (1a) bekezdése szerinti esetben a 19. § (
 
 b)[^16] a Hjt.vhr. 120/F. § (1) bekezdése szerinti esetben a 19. § (4) vagy (5) bekezdése és a 20. § (1) bekezdése szerinti fokozott igénybevételi pótlék, valamint az ügyeleti tevékenységért, a gyakorlaton végzett tevékenységért, az egészségügyi ügyelet ellátásáért járó fokozott igénybevételi pótlék és az ugyanezen tevékenységek időtartamát érintő túlszolgálatért járó ellentételezés – ideértve a túlszolgálat szabadidővel vagy túlszolgálati díjjal történő megváltását is –
 
-## azonos időszakra együttesen is megállapítható.
+azonos időszakra együttesen is megállapítható.
 
 (4)[^17] Az állománynak a Hjt.vhr. 15. melléklet 5. pontja szerinti fegyveres vagy nemzetközi kötelezettségen alapuló készenléti szolgálatot teljesítő, egyúttal a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti feladatokban közreműködő tagja esetében a fegyveres vagy nemzetközi kötelezettségen alapuló készenléti tevékenységért járó fokozott igénybevételi pótlék és az állomány tagjára irányadó szolgálatteljesítési időn kívülre elrendelt és teljesített túlszolgálat után járó túlszolgálati ellentételezés azonos időszakra együttesen is megállapítható, ha esetében a Hjt. 237/A. § (1) bekezdése alapján a Hjt. 247/H. § alkalmazása nem kerül felfüggesztésre.
 

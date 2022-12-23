@@ -24,7 +24,7 @@ b) honvéd altisztjelölt esetében az alapösztöndíj, az alapösztöndíj-kie
 
 c) a szolgálati járandóságban részesülő önkéntes tartalékos katona esetében a szolgálati helye szerinti állománytáblában vagy munkaköri jegyzékben rendszeresített szolgálati beosztásához tartozó besorolási osztálynak és besorolási kategóriának megfelelően számított alapilletmény
 
-## összegét kell figyelembe venni.
+összegét kell figyelembe venni.
 
 (4)[^203] Huzamos, kivételesen kiemelkedő szolgálati feladatellátás és a szolgálat iránti elkötelezettség elismeréseként a teljesítményjuttatás együttes éves összege a miniszter döntése alapján a (2) bekezdés b) pontja szerinti mértéket további legfeljebb egy havi távolléti díj összegével meghaladhatja.
 

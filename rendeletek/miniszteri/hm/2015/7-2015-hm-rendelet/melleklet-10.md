@@ -4,4 +4,6 @@
 
 10. melléklet a 7/2015. (VI. 22.) HM rendelethez[^247]
 
+A munkaerőpiaci kiegészítő illetmény összege
+
 [^247]: A 10. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § c) pontja iktatta be.

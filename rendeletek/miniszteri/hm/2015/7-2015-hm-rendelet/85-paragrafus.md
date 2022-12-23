@@ -1,5 +1,3 @@
-## 84. §[^204]
-
 85. § (1) Az állomány azon tagja esetében, akinek a Hjt. hatálybalépése előtti jogszabályok szerint a szolgálati idejét vagy annak egy részét szorzószámok alkalmazásával számították, a jubileumi jutalomra jogosító szolgálati idő elérése napjának azt a napot kell tekinteni, amelyik napon a jubileumi jutalomra való jogosultsághoz szükséges szolgálati időt a szorzószámok alkalmazásával történő számítással együtt eléri.
 
 (2) A Hjt. 247/K. § (6) bekezdésének alkalmazásakor a 2015. július 1-jétől megvalósuló illetményfejlesztésre figyelemmel megállapított illetményt úgy kell meghatározni, hogy a külföldi szolgálatot megelőzően betöltött beosztás – külszolgálat megkezdését megelőző napon érvényes – besorolásának alapulvételével kell a 2015. július 1-jén érvényes szabályok szerint kiszámítani a jubileumi jutalom szempontjából irányadó illetményt, és ez utóbbi alapján kell a jubileumi jutalom felszámítási alapját képező távolléti díj összegét meghatározni.
@@ -10,5 +8,4 @@
 
 (5) Az állomány 2015. július 1-jén a Hjt. 2015. június 30-án hatályos 147. § (1) bekezdés d) pontja szerinti beosztási illetmény csökkentés fenyítés hatálya alatt álló tagja esetében a kiszabott fenyítést a fenyítés időtartamának 2015. június 30-át követő időszakában – a korábban határozattal elbírált fegyelemsértés vonatkozásában újabb fegyelmi határozat kiadása nélkül – úgy kell végrehajtani, hogy a fenyítés hatályának végéig a Hjt. 122. § (1) bekezdés szerinti elemekből álló összilletményt havonta csökkenteni kell a 2015. június hónapra a beosztási illetmény csökkentés fenyítés figyelmen kívül hagyásával kiszámított összilletmény és a fenyítés miatt megállapított összilletmény különbözetével.
 
-[^204]: A 84. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^205]: A 85. § (4) bekezdése a 13/2015. (XII. 3.) HM rendelet 4. § f) pontja szerint módosított szöveg.

@@ -48,7 +48,7 @@ ga) 2/A. § (4) bekezdése szerinti egészségügyi munkakör-csoportba sorolt b
 
 gb) 2/A. § (5) bekezdése szerinti egészségügyi munkakör-csoportba sorolt beosztást betöltő, az (1) bekezdés hatálya alá tartozó állomány esetében a Korm. R. 8. melléklete szerinti garantált illetmény- vagy bérnövekmény-tábla szerinti összeg 2022. január 1-jei változásából eredő növekmény
 
-## együttes összege határozza meg.
+együttes összege határozza meg.
 
 (3a)[^114] A (3) bekezdés c) pontjának végrehajtása során 2017. november 1-jei illetmény-növekményként az orvosok és fogorvosok esetében havi bruttó 50 000 Ft-ot, a gyógyszerészek esetében a Korm. R. 5. mellékletében a H fizetési osztályhoz tartozó összegeket kell figyelembe venni.
 
@@ -65,6 +65,8 @@ a) 2/A. § (4) bekezdése szerinti állomány alatt a Korm. R. 2/B. § d) pontja
 b) 2. § (1b) bekezdése szerinti védőnők alatt a Korm. R. 2/B. § d) pontja szerinti védőnőket,
 
 c) 2/A. § (5) bekezdése szerinti állomány alatt a Korm. R. 2/B. § e) pontja szerinti állományt
+
+kell érteni.
 
 [^102]: A 29/D. alcímet (48/D. §) a 25/2016. (XII. 22.) HM rendelet 83. §-a iktatta be.
 [^103]: A 48/D. § (1) bekezdés b) pontja a 13/2021. (VII. 15.) HM rendelet 30. § d) pontja szerint módosított szöveg.
