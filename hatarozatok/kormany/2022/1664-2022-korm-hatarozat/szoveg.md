@@ -10,4 +10,6 @@ c) felhívja a miniszterelnök általános helyettesét, hogy a Feladat megvaló
 
 | Határidő: | azonnal |
 
-2. A Kárpát-medencei óvodafejlesztési program negyedik üteméről szóló 1150/2021. (III. 31.) Korm. határozat 2. pontjában a „13 470 969 109 forint” szövegrész helyébe a „13 020 969 109 forint” szöveg, a „13 464 236 991 forint” szövegrész helyébe a „13 014 236 991 forint” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
