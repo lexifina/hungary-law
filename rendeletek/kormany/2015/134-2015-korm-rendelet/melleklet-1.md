@@ -2,7 +2,7 @@
 
 1. melléklet a 134/2015. (V. 27.) Korm. rendelethez
 
-## Az ALUMETAL GROUP HUNGARY Kft. Komárom területén megvalósuló beruházásának megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+Az ALUMETAL GROUP HUNGARY Kft. Komárom területén megvalósuló beruházásának megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
