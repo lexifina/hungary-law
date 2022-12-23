@@ -68,7 +68,7 @@ fa) felügyeleti díjakat,
 
 fb) igazgatási szolgáltatási díjakat,
 
-fc)[^45] kiszabott bírságokat, csökkentve az 5. § (8) bekezdése szerint eredménytartalékba helyezett összeggel.
+fc)[^45] kiszabott bírságokat.
 
 (8)[^46] A pénzügyi műveletek realizált nyereségeként kell kimutatni az értékpapírok – kivéve az MNB részesedések – értékesítésének árfolyamnyereségét, a kapott (járó) osztalékot, valamint a Tv. szerint a pénzügyi műveletek bevételeibe tartozó, az (1)–(7) bekezdésbe nem sorolt és az eredménykimutatásban külön tételként fel nem tüntetett bevételeket.
 
@@ -83,5 +83,5 @@ fc)[^45] kiszabott bírságokat, csökkentve az 5. § (8) bekezdése szerint ere
 [^42]: A 8. § (7) bekezdése a 242/2003. (XII. 17.) Korm. rendelet 4. §-ának (4) bekezdésével megállapított szöveg, e módosító rendelet 10. §-ának (1) és (2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban előírásait a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
 [^43]: A 8. § (7) bekezdés c) pontja a 445/2017. (XII. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^44]: A 8. § (7) bekezdés f) pontját az 518/2013. (XII. 30.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^45]: A 8. § (7) bekezdés f) pontja fc) alpontja a 445/2017. (XII. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^45]: A 8. § (7) bekezdés f) pont fc) alpontja az 547/2022. (XII. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^46]: A 8. § (8) bekezdését a 242/2003. (XII. 17.) Korm. rendelet 4. §-ának (4) bekezdése iktatta be, szövege a 445/2017. (XII. 27.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
