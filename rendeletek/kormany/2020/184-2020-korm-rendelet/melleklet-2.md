@@ -1,5 +1,3 @@
-## A Beruházásokkal érintett, 1. § (1) bekezdés b) pontja szerinti helyrajzi számok
-
 |  | A | B |
 
 | 1. | Település | Helyrajzi szám |
@@ -464,7 +462,7 @@
 
 2. melléklet a 184/2020. (V. 6.) Korm. rendelethez
 
-## A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
