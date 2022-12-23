@@ -26,7 +26,7 @@
 
 | 1. | Békéscsabai Jókai Színház | Békéscsaba Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
-| 2. | Budaörsi Latinovits Színház | Budaörs Város Önkormányzata | 2022. december 31. |
+| 2. | Budaörsi Latinovits Színház | Budaörs Város Önkormányzata | 2024. december 31. |
 
 | 3. | Csokonai Színház | Debrecen Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
@@ -42,7 +42,7 @@
 
 | 9. | Móricz Zsigmond Színház Nonprofit Korlátolt Felelősségű Társaság | Nyíregyháza Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
-| 10. | Zenthe Ferenc Színház Nonprofit Korlátolt Felelősségű Társaság | Salgótarján Megyei Jogú Város Önkormányzata | 2022. december 31. |
+| 10. | Zenthe Ferenc Színház Nonprofit Korlátolt Felelősségű Társaság | Salgótarján Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
 | 11. | Soproni Petőfi Színház (Pro Kultúra Sopron Nonprofit Korlátolt Felelősségű Társaság) | Sopron Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
@@ -50,7 +50,7 @@
 
 | 13. | Szolnoki Szigligeti Színház Nonprofit Korlátolt Felelősségű Társaság | Szolnok Megyei Jogú Város Önkormányzata | 2026. december 31. |
 
-| 14. | Weöres Sándor Színház Nonprofit Korlátolt Felelősségű Társaság | Szombathely Megyei Jogú Város Önkormányzata | 2022. december 31. |
+| 14. | Weöres Sándor Színház Nonprofit Korlátolt Felelősségű Társaság | Szombathely Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
 | 15. | Tatabánya Megyei Jogú Város Jászai Mari Színház, Népszínház | Tatabánya Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
@@ -60,7 +60,7 @@
 
 | 18. | Hevesi Sándor Színház | Zalaegerszeg Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
-| 19. | Szegedi Nemzeti Színház | Szeged Megyei Jogú Város Önkormányzata | 2022. december 31. |
+| 19. | Szegedi Nemzeti Színház | Szeged Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
 | 20. | Gárdonyi Géza Színház | Eger Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
@@ -80,8 +80,8 @@
 
 | 28. | Harlekin Bábszínház | Eger Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
-| 29. | Mesebolt Bábszínház | Szombathely Megyei Jogú Város Önkormányzata | 2022. december 31. |
+| 29. | Mesebolt Bábszínház | Szombathely Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
-| 30. | Kövér Béla Bábszínház | Szeged Megyei Jogú Város Önkormányzata | 2022. december 31. |
+| 30. | Kövér Béla Bábszínház | Szeged Megyei Jogú Város Önkormányzata | 2024. december 31. |
 
-[^1]: Az 1. melléklet az 1392/2021. (VI. 22.) Korm. határozat 2. pontja, az 1945/2021. (XII. 21.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1392/2021. (VI. 22.) Korm. határozat 2. pontja, az 1945/2021. (XII. 21.) Korm. határozat 2. pontja, az 1673/2022. (XII. 23.) Korm. határozat 2. pontja szerint módosított szöveg.
