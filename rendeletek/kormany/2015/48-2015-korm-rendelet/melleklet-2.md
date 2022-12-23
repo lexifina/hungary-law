@@ -1,5 +1,3 @@
-## A Beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező hatóságok
-
 |  | A | B | C | D |
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |

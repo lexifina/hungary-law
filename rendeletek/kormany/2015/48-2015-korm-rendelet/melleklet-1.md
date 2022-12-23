@@ -2,6 +2,8 @@
 
 1. melléklet a 48/2015. (III. 12.) Korm. rendelethez[^12]
 
+A Beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező hatóságok
+
 [^10]: A 9. §-t a 289/2015. (X. 7.) Korm. rendelet 3. §-a iktatta be.
 [^11]: A hatálybalépés időpontja 2015. október 8.
 [^12]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 74. §-ával megállapított szöveg. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban levő ügyekben is alkalmazni kell.
