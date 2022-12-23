@@ -1,28 +1,28 @@
 |  | A | B | C |
 
-| 1 | A beruházás megnevezése | A beruházás megvalósítása által érintett település | Koordinációra kijelölt kormánymegbízott |
+| 1 | A beruházás megnevezése | A beruházás megvalósítása által érintett település | Koordinációra kijelölt főispán |
 
-| 2 | Komárom közigazgatási területén megvalósuló fejlesztéshez szükséges víziközmű-beruházás | Komárom Tata Naszály Almásfüzitő | Komárom-Esztergom Megyei Kormányhivatalt vezető kormánymegbízott |
+| 2 | Komárom közigazgatási területén megvalósuló fejlesztéshez szükséges víziközmű-beruházás | Komárom Tata Naszály Almásfüzitő | Komárom-Esztergom Megyei Kormányhivatalt vezető főispán |
 
-| 3 | Göd közigazgatási területén megvalósuló fejlesztéshez szükséges víziközmű-beruházás | Göd Sződliget Vác Dunakeszi Sződ | Pest Megyei Kormányhivatalt vezető kormánymegbízott |
+| 3 | Göd közigazgatási területén megvalósuló fejlesztéshez szükséges víziközmű-beruházás | Göd Sződliget Vác Dunakeszi Sződ | Pest Megyei Kormányhivatalt vezető főispán |
 
-| 4 | Szikszó közigazgatási területén megvalósuló fejlesztéshez szükséges víziközmű-beruházások | Arnót Felsőzsolca Onga Szikszó | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető kormánymegbízott |
+| 4 | Szikszó közigazgatási területén megvalósuló fejlesztéshez szükséges víziközmű-beruházások | Arnót Felsőzsolca Onga Szikszó | Borsod-Abaúj-Zemplén Megyei Kormányhivatalt vezető főispán |
 
-| 5. | Iváncsa és térsége fejlesztéséhez szükséges víziközmű-beruházások | Iváncsa Ercsi Adony Pusztaszabolcs | Fejér Megyei Kormányhivatalt vezető kormánymegbízott |
+| 5. | Iváncsa és térsége fejlesztéséhez szükséges víziközmű-beruházások | Iváncsa Ercsi Adony Pusztaszabolcs | Fejér Megyei Kormányhivatalt vezető főispán |
 
-| 6. | Tatabánya–Oroszlány–Tata és térsége víziközmű-hálózatának komplex előkészítése, fejlesztése, hatékonyságának növelése és rekonstrukciója | Tatabánya Tata Szomód Vértesszőlős Környe Kecskéd Oroszlány Vértessomló | Komárom-Esztergom Megyei Kormányhivatalt vezető kormánymegbízott |
+| 6. | Tatabánya–Oroszlány–Tata és térsége víziközmű-hálózatának komplex előkészítése, fejlesztése, hatékonyságának növelése és rekonstrukciója | Tatabánya Tata Szomód Vértesszőlős Környe Kecskéd Oroszlány Vértessomló | Komárom-Esztergom Megyei Kormányhivatalt vezető főispán |
 
-| 7. | A kelet-balatoni térség víziközmű-hálózatának fejlesztéséhez szükséges beruházások | Balatonakarattya Balatonvilágos Balatonfüred Balatonfőkajár | Somogy Megyei Kormányhivatalt vezető kormánymegbízott |
+| 7. | A kelet-balatoni térség víziközmű-hálózatának fejlesztéséhez szükséges beruházások | Balatonakarattya Balatonvilágos Balatonfüred Balatonfőkajár | Somogy Megyei Kormányhivatalt vezető főispán |
 
-| 8. | Litér községben megvalósuló kommunális vízközműfejlesztéssel összefüggő feladatok elvégzése | Litér | Veszprém Megyei Kormányhivatalt vezető kormánymegbízott |
+| 8. | Litér községben megvalósuló kommunális vízközműfejlesztéssel összefüggő feladatok elvégzése | Litér | Veszprém Megyei Kormányhivatalt vezető főispán |
 
-| 9. | Jászfényszaru Ipari Park teljes közműfejlesztése | Jászfényszaru | Jász-Nagykun-Szolnok Megyei Kormányhivatalt vezető kormánymegbízott |
+| 9. | Jászfényszaru Ipari Park teljes közműfejlesztése | Jászfényszaru | Jász-Nagykun-Szolnok Megyei Kormányhivatalt vezető főispán |
 
-| 10. | Debrecen Déli és Észak-Nyugati Gazdasági Övezet fejlesztése I. | Balmazújváros Hajdúböszörmény Hajdúnánás Görbeháza Hajdúdorog | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+| 10. | Debrecen Déli és Észak-Nyugati Gazdasági Övezet fejlesztése I. | Balmazújváros Hajdúböszörmény Hajdúnánás Görbeháza Hajdúdorog | Hajdú-Bihar Megyei Kormányhivatalt vezető főispán |
 
-| 11. | Debrecen Déli és Észak-Nyugati Gazdasági Övezet fejlesztése II. | Debrecen | Hajdú-Bihar Megyei Kormányhivatalt vezető kormánymegbízott |
+| 11. | Debrecen Déli és Észak-Nyugati Gazdasági Övezet fejlesztése II. | Debrecen | Hajdú-Bihar Megyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 323/2020. (VII. 1.) Korm. rendelethez[^25]
+3. melléklet a 323/2020. (VII. 1.) Korm. rendelethez[^26]
 
 A Beruházással érintett, 1. § (3) bekezdése szerinti ingatlanok
 
@@ -38,4 +38,4 @@ A Beruházással érintett, 1. § (3) bekezdése szerinti ingatlanok
 
 | 5. | Vác | 0389/1, 0389/3, 0405/1, 0406/2, 0412/2, 0414, 0415/1, 0415/2, 0417/6, 0420/24, 0432, 0442, 1830/6, 4552/9, 4552/12, 5680/21, 5680/24, 5749, 5768, 5779/15, 22315, 22390, 22403 |
 
-[^25]: A 3. mellékletet a 437/2022. (XI. 2.) Korm. rendelet 7. §-a iktatta be.
+[^26]: A 3. mellékletet a 437/2022. (XI. 2.) Korm. rendelet 7. §-a iktatta be.
