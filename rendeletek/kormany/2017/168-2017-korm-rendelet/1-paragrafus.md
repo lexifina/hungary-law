@@ -6,7 +6,7 @@ b) a Járdányi Paulovics István Romkert fejlesztésére,
 
 c) az Ady tér és környezetének rehabilitációjára
 
-## irányuló beruházásokkal (a továbbiakban együtt: Beruházások) függenek össze.
+irányuló beruházásokkal (a továbbiakban együtt: Beruházások) függenek össze.
 
 (2) Az (1) bekezdés alkalmazásában a Beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
 
