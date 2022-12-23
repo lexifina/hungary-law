@@ -2,7 +2,7 @@
 
 1. melléklet a 483/2015. (XII. 29.) Korm. rendelethez
 
-## A MASTER GOOD Termelő és Kereskedelmi Korlátolt Felelősségű Társaság Kisvárdán megvalósuló beruházásának megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági eljárások
+A MASTER GOOD Termelő és Kereskedelmi Korlátolt Felelősségű Társaság Kisvárdán megvalósuló beruházásának megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
