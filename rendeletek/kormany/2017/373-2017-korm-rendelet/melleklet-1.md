@@ -2,7 +2,7 @@
 
 1. melléklet a 373/2017. (XII. 8.) Korm. rendelethez
 
-## Az 1. § (1) bekezdése szerinti Beruházásokkal összefüggő nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+Az 1. § (1) bekezdése szerinti Beruházásokkal összefüggő nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági eljárások,
 
