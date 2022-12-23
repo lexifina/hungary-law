@@ -1,0 +1,3 @@
+11. § (1) E rendelet 3. §-ában foglaltakat azon 2023. január 1-jén folyamatban levő fejlesztés tekintetében is alkalmazni kell, amelybe a miniszter jogutódként belép.
+
+(2) A 3. § (1) bekezdésében megjelölt fejlesztésekhez szükséges, 2022. december 31-én a NIF Nemzeti Infrastruktúra Fejlesztő Zártkörűen működő Részvénytársaság vagyonkezelésében vagy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság közvetlen kezelésében lévő, állami tulajdonú vagyonelemek 2023. január 1-jével a minisztérium tulajdonosi joggyakorlása alá kerülnek. A tulajdonosi joggyakorló személyében történt változást a minisztérium kérelmére kell az ingatlan-nyilvántartásban átvezetni.
