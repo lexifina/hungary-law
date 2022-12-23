@@ -4,7 +4,7 @@
 
 (3)[^1]
 
-(4)[^2] A Kormány az (1) bekezdés szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Fejér Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
+(4)[^2] A Kormány az (1) bekezdés szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Fejér Megyei Kormányhivatalt vezető főispánt jelöli ki.
 
 [^1]: Az 1. § (3) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 119. § a) pontja hatályon kívül helyezte.
-[^2]: Az 1. § (4) bekezdése a 72/2015. (III. 30.) Korm. rendelet 69. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
+[^2]: Az 1. § (4) bekezdése a 72/2015. (III. 30.) Korm. rendelet 69. § (1) bekezdésével megállapított, az 546/2022. (XII. 22.) Korm. rendelet 46. § a) pontja szerint módosított szöveg.
