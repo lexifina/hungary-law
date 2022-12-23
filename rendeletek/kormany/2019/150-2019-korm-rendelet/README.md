@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-150-20-
 | 2020-05-13 | 2019-150-20-22.4 | 361/2019. (XII. 30.) Korm. rendelet |
 | 2021-02-06 | 2019-150-20-22.5 | 51/2021. (II. 5.) Korm. rendelet |
 | 2021-07-16 | 2019-150-20-22.6 | 420/2021. (VII. 15.) Korm. rendelet |
+| 2022-12-23 | 2019-150-20-22.7 | 546/2022. (XII. 22.) Korm. rendelet |

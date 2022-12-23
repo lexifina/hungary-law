@@ -1,8 +1,8 @@
-## 10. §[^7] E rendeletnek a Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programjának megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 150/2019. (VI. 25.) Korm. rendelet módosításáról szóló 51/2021. (II. 5.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. § (1) bekezdését a Módr2. hatálybalépésekor[^8] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 10. §[^8] E rendeletnek a Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programjának megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 150/2019. (VI. 25.) Korm. rendelet módosításáról szóló 51/2021. (II. 5.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 1. § (1) bekezdését a Módr2. hatálybalépésekor[^9] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 150/2019. (VI. 25.) Korm. rendelethez
 
-## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -56,5 +56,5 @@
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^7]: A 10. §-t az 51/2021. (II. 5.) Korm. rendelet 3. §-a iktatta be.
-[^8]: A hatálybalépés időpontja 2021. február 6.
+[^8]: A 10. §-t az 51/2021. (II. 5.) Korm. rendelet 3. §-a iktatta be.
+[^9]: A hatálybalépés időpontja 2021. február 6.
