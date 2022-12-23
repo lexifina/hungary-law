@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-333-20-
 | 2016-11-09 | 2016-333-20-22.1 | 333/2016. (XI. 8.) Korm. rendelet |
 | 2018-01-01 | 2016-333-20-22.2 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2020-07-31 | 2016-333-20-22.3 | 371/2020. (VI. 30.) Korm. rendelet |
+| 2022-12-23 | 2016-333-20-22.4 | 371/2020. (VI. 30.) Korm. rendelet |
