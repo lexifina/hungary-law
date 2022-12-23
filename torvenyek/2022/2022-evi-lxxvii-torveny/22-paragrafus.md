@@ -1,7 +1,1 @@
-22. § Az MNB tv. 150. §-a a következő (3)–(5) bekezdéssel egészül ki:
-
-„(3) Az MNB az (1) bekezdés szerinti titkot átadhatja a feladatkörében eljáró könyvvizsgálói közfelügyeleti feladatokat ellátó hatóságnak. E tekintetben a közfelügyeleti hatáskört gyakorló személyeket titoktartási kötelezettség terheli.
-
-(4) A pénzügyi közvetítőrendszer felügyeleti feladatainak ellátása során az MNB a felügyelt intézménynek a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény 3. § (1) bekezdés a) pontja szerinti jogszabályi kötelezettségen alapuló könyvvizsgálata elvégzésére hatályos megbízással rendelkező kamarai tag könyvvizsgáló személy, illetve könyvvizsgáló cég részére kezdeményezheti az (1) bekezdés szerinti titkot tartalmazó, rendelkezésére álló adatok, információk átadását, amennyiben mérlegelése alapján úgy ítéli meg, hogy azok a könyvvizsgálat elvégzése szempontjából jelentőséggel bírnak. E tekintetben a könyvvizsgáló személyt és a könyvvizsgáló cég képviselőit, valamint alkalmazottait titoktartási kötelezettség terheli.
-
-(5) Az MNB az (1) bekezdés szerinti titkot átadhatja a Magyar Könyvvizsgálói Kamara részére, amennyiben adott könyvvizsgálóval, könyvvizsgáló céggel szembeni fegyelmi vagy kamarai minőségellenőrzési eljárás lefolytatására kéri fel, továbbá ezen eljárásokban a tényállás megállapítása céljából.”
+### 22. §
