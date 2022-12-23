@@ -1,8 +1,8 @@
-## 11. §[^16] E rendeletnek a Debrecenben megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 75/2015. (III. 30.) Korm. rendelet módosításáról szóló 323/2022. (VIII. 18.) Korm. rendelettel (a továbbiakban: Módr5.) módosított 3. § (7) és (8) bekezdését, valamint megállapított 3. § (11) bekezdését a Módr5. hatálybalépésekor[^17] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 11. §[^17] E rendeletnek a Debrecenben megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 75/2015. (III. 30.) Korm. rendelet módosításáról szóló 323/2022. (VIII. 18.) Korm. rendelettel (a továbbiakban: Módr5.) módosított 3. § (7) és (8) bekezdését, valamint megállapított 3. § (11) bekezdését a Módr5. hatálybalépésekor[^18] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-1. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^18]
+1. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^19]
 
-## A beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+A beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -58,6 +58,6 @@
 
 27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^16]: A 11. §-t a 323/2022. (VIII. 18.) Korm. rendelet 2. §-a iktatta be.
-[^17]: A hatálybalépés időpontja 2022. augusztus 19.
-[^18]: Az 1. melléklet a 660/2021. (XI. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^17]: A 11. §-t a 323/2022. (VIII. 18.) Korm. rendelet 2. §-a iktatta be.
+[^18]: A hatálybalépés időpontja 2022. augusztus 19.
+[^19]: Az 1. melléklet a 660/2021. (XI. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
-4. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^21]
+4. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^22]
 
-## A beruházás megvalósításához kapcsolódó, építési joggal érintett ingatlanrészek területi lehatárolása a terület határpontjainak Egységes Országos Vetületi Rendszerben (EOV) megadott koordinátáival
+A beruházás megvalósításához kapcsolódó, építési joggal érintett ingatlanrészek területi lehatárolása a terület határpontjainak Egységes Országos Vetületi Rendszerben (EOV) megadott koordinátáival
 
 1.
 
@@ -116,4 +116,4 @@
 
 | 4 | 240212.9254 | 843420.2901 |
 
-[^21]: A 4. mellékletet a 16/2022. (I. 20.) Korm. rendelet 4. §-a iktatta be, szövege a 48/2022. (II. 17.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^22]: A 4. mellékletet a 16/2022. (I. 20.) Korm. rendelet 4. §-a iktatta be, szövege a 48/2022. (II. 17.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
