@@ -1,5 +1,5 @@
-## 77. §[^220] A 2021/2022. tanév tekintetében a felsőoktatási intézmény a 61. § (8) bekezdése szerinti döntését az Nftv. 117/H. § (2) bekezdése szerinti fenntartói döntést követően haladéktalanul, de legkésőbb 2022. augusztus 31-éig hozza meg.
-
 1. melléklet a 87/2015. (IV. 9.) Korm. rendelethez
 
-[^220]: A 77. §-t a 276/2022. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+A felsőoktatási intézmény és a közösségi felsőoktatási képzési központ nyilvántartásba vételének, létesítésének és működésének minimális (kötelező) feltételei[^237]
+
+[^237]: Az 1. melléklet címe a 345/2015. (XI. 19.) Korm. rendelet 89. § 13. pontja szerint módosított szöveg.

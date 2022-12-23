@@ -1,4 +1,4 @@
-## 13. [^119] Oktatók, kutatók, tanárok oktatási azonosító száma
+## 13. [^132] Oktatók, kutatók, tanárok oktatási azonosító száma
 
 33. § (1) Annak az oktatói, kutatói, tanári jogviszonyt első alkalommal létesítő oktatónak, kutatónak, tanárnak (e §-ban a továbbiakban együtt: oktató), aki nem rendelkezik oktatási azonosító számmal, a Hivatal a bejelentéstől számított tizenöt napon belül oktatási azonosító számot képez, és erről a felsőoktatási intézményt értesíti.
 
@@ -10,4 +10,4 @@
 
 (5) Annak a volt oktatónak a kérelmére, aki már nem áll foglalkoztatotti jogviszonyban felsőoktatási intézménnyel, a Hivatal az oktatási azonosító számról igazolást állít ki. A kérelemben meg kell adni a kérelmező nevét, születési nevét, születési helyét és idejét, anyja születési nevét. Ha a volt oktatónak az adataiban a foglalkoztatotti jogviszonya megszűnése óta változás állt be, a jogviszony megszűnésének időpontja szerinti adatokat is meg kell adnia.
 
-[^119]: A 13. alcím (33. §) a 191/2019. (VII. 30.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^132]: A 13. alcím (33. §) a 191/2019. (VII. 30.) Korm. rendelet 62. §-ával megállapított szöveg.

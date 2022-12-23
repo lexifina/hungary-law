@@ -1,6 +1,6 @@
-## 12. [^117] Hallgatók, doktorjelöltek oktatási azonosító száma
+## 12. [^130] Hallgatók, doktorjelöltek oktatási azonosító száma
 
-32. §[^118] (1) Annak a hallgatói, doktorjelölti jogviszonyt első alkalommal létesítő személynek, aki nem rendelkezik oktatási azonosító számmal, a Hivatal a bejelentéstől számított tizenöt napon belül oktatási azonosító számot hoz létre, amelyről a felsőoktatási intézményt értesíti.
+32. §[^131] (1) Annak a hallgatói, doktorjelölti jogviszonyt első alkalommal létesítő személynek, aki nem rendelkezik oktatási azonosító számmal, a Hivatal a bejelentéstől számított tizenöt napon belül oktatási azonosító számot hoz létre, amelyről a felsőoktatási intézményt értesíti.
 
 (2) Annak a hallgatói, doktorjelölti jogviszonyt létesítő személynek, aki rendelkezik oktatási azonosító számmal, újabb oktatási azonosító szám nem adható ki.
 
@@ -12,5 +12,5 @@
 
 (6) Annak a volt hallgatónak, doktorjelöltnek a kérelmére, aki már nem áll jogviszonyban felsőoktatási intézménnyel, a Hivatal az oktatási azonosító számról igazolást állít ki. A kérelemben meg kell adni a kérelmező nevét, születési nevét, születési helyét és idejét, anyja születési nevét. Ha a volt hallgatónak, doktorjelöltnek az adataiban a hallgatói, doktorjelölti jogviszonya megszűnése óta változás állt be, a jogviszony megszűnésének időpontja szerinti adatokat is meg kell adnia.
 
-[^117]: A 12. alcím (32. §) a 191/2019. (VII. 30.) Korm. rendelet 61. §-ával megállapított szöveg.
-[^118]: [A 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés g) pontjával elrendelt módosítás, amely szerint a 32. § (7) bekezdése hatályát veszti, nem vezethető át.]
+[^130]: A 12. alcím (32. §) a 191/2019. (VII. 30.) Korm. rendelet 61. §-ával megállapított szöveg.
+[^131]: [A 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés g) pontjával elrendelt módosítás, amely szerint a 32. § (7) bekezdése hatályát veszti, nem vezethető át.]

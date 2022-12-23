@@ -20,7 +20,7 @@ f)[^31] a felsőoktatási intézmény keretében működő vagy az Nftv. 54. §-
 
 g)[^32] a közösségi felsőoktatási képzési központ esetén annak képviselője
 
-## jelenti be.
+jelenti be.
 
 (4)[^33] A kérelemhez mellékelni kell az adat vagy az adatváltozás tényét igazoló dokumentumokat. Nyilvántartásba vett szakirányú továbbképzés képzési és kimeneti követelményeinek módosítása esetén mellékelni kell a módosított képzési és kimeneti követelményeket, továbbá a képzést folytató többi felsőoktatási intézmény támogató véleményét a módosításról. A módosítás nem irányulhat a képzés nevének, szakképzettségének, képzési területének, képzési idejének vagy kreditszámának a változására. A módosítási kérelem benyújtására a 22. § (1) bekezdésében meghatározott határidők az irányadóak. A szakirányú továbbképzés képzési és kimeneti követelményeinek módosítása esetén a 22. § (3) bekezdésében foglaltakat is alkalmazni kell.
 

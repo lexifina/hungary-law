@@ -4,7 +4,7 @@ a) felsőoktatási intézmény keretében működő vagy az Nftv. 54. §-ában m
 
 b) diákotthon keretében működő szakkollégium esetében a diákotthon vagy annak fenntartója
 
-## kérelmezi.
+kérelmezi.
 
 (2) A kérelemhez mellékelni kell
 

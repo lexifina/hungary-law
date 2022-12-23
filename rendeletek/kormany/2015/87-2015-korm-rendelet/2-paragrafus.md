@@ -6,7 +6,7 @@ a) ha nem költségvetési szervként működik, a Hivatal által vezetett nyilv
 
 b) ha költségvetési szervként működik, a törzskönyvi nyilvántartásba vétellel
 
-## válik jogi személlyé.
+válik jogi személlyé.
 
 (3)[^1]
 

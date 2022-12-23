@@ -8,7 +8,7 @@ b) a felsőoktatási intézmény megszüntetése feltételeinek fennállásáró
 
 c) a fenntartói joggyakorlás megszűnéséről szóló döntés meghozatalát
 
-## követő tizenöt napon belül.
+követő tizenöt napon belül.
 
 (2) A felsőoktatási intézmény fenntartója az (1) bekezdés a) pontja szerinti kérelméhez mellékeli
 

@@ -2,6 +2,6 @@
 
 (2) A felsőoktatási intézmény az oktatónak, kutatónak, tanárnak a FIR-ben nyilvántartott személyes és jogviszony adataiban bekövetkezett változását a felsőoktatási intézmény által üzemeltetett nyilvántartó rendszerben történt átvezetést követő tizenöt napon belül bejelenti a FIR-be.
 
-(3)[^115] Ha az oktató, kutató, tanár foglalkoztatása megszűnik, a felsőoktatási intézmény a jogviszony megszűnésének adatait a megszűnést követő tizenöt napon belül bejelenti a FIR-be.
+(3)[^128] Ha az oktató, kutató, tanár foglalkoztatása megszűnik, a felsőoktatási intézmény a jogviszony megszűnésének adatait a megszűnést követő tizenöt napon belül bejelenti a FIR-be.
 
-[^115]: A 29. § (3) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 60. §-ával megállapított szöveg.
+[^128]: A 29. § (3) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 60. §-ával megállapított szöveg.

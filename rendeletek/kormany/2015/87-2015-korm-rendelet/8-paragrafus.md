@@ -16,7 +16,7 @@ e) a gyakorló köznevelési intézménnyé nyilvánítás feltételei,
 
 f) az alap-, mester- valamint doktori képzés folytatásának tárgyi és személyi feltételei, szakirányú továbbképzés és felsőoktatási szakképzés folytatásával összefüggő akkreditációs szempontok
 
-## tekintetében előírtak igazolására.
+tekintetében előírtak igazolására.
 
 (3) A Hivatal a (2) bekezdés f) pontja vonatkozásában beszerzi a Magyar Felsőoktatási Akkreditációs Bizottság szakértői véleményét.
 

@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-87-20-2
 | 2022-07-01 | 2015-87-20-22.30 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2022-07-30 | 2015-87-20-22.31 | 276/2022. (VII. 29.) Korm. rendelet |
 | 2022-09-01 | 2015-87-20-22.32 | 345/2015. (XI. 19.) Korm. rendelet |
+| 2022-12-23 | 2015-87-20-22.34 | 550/2022. (XII. 22.) Korm. rendelet |
