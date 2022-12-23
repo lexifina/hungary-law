@@ -4,6 +4,6 @@ a) a Békéscsaba közigazgatási területén elhelyezkedő, az ingatlan-nyilvá
 
 b) a Szeghalom közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Szeghalom 2208 helyrajzi szám alatt nyilvántartott földrészleten, illetve az ebből a földrészletből telekalakítási eljárások jogerős befejezését követően kialakított földrészleteken
 
-## megvalósításra kerülő üzem és az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházással (a továbbiakban együtt: Beruházások) függenek össze.
+megvalósításra kerülő üzem és az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházással (a továbbiakban együtt: Beruházások) függenek össze.
 
 (2) Az (1) bekezdés alkalmazásában a Beruházásokkal összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági eljárásokat, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.

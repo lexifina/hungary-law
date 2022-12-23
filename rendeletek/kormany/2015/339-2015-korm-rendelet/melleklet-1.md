@@ -2,7 +2,7 @@
 
 1. melléklet a 339/2015. (XI. 10.) Korm. rendelethez
 
-## A CSABA METÁL Zrt. Békéscsaba és Szeghalom területén megvalósuló beruházásainak megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+A CSABA METÁL Zrt. Békéscsaba és Szeghalom területén megvalósuló beruházásainak megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
