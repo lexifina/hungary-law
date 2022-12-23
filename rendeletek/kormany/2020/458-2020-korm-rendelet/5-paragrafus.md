@@ -1,1 +1,0 @@
-## 4. § A Kormány az 1. § (1) bekezdése szerinti közigazgatási hatósági ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Budapest Főváros Kormányhivatalát vezető kormánymegbízottat jelöli ki.

@@ -5,3 +5,5 @@
 a) a Beruházás engedélyezéséhez, megvalósításához, használatbavételéhez és üzemeltetésének beindításához,
 
 b) a Beruházáshoz közvetlenül kapcsolódó – az emlékmű kialakításához és üzemeltetéséhez, valamint a biztonságos megközelítéséhez szükséges – út-, járda- és műtárgyépítési, közműcsatlakozási és -fejlesztési munkák megvalósításához
+
+szükségesek.
