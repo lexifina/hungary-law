@@ -1,5 +1,3 @@
-## A Budapest XI. kerület belterület 952/4 helyrajzi számú telek területén ingatlanrész építésre és földhőhasznosítási célra használható részének területe határpontjainak lehatárolása az Egységes Országos Vetületi Rendszerben megadott koordinátáival
-
 |  | A | B |
 
 | 1. | Y | X |
@@ -34,6 +32,6 @@
 
 | 16. | 234860.37 | 646928.75 |
 
-3. melléklet a 262/2021. (V. 20.) Korm. rendelethez[^6]
+3. melléklet a 262/2021. (V. 20.) Korm. rendelethez[^8]
 
-[^6]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

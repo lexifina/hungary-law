@@ -1,8 +1,6 @@
-## 11–12. §[^5]
-
 1. melléklet a 262/2021. (V. 20.) Korm. rendelethez
 
-## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -51,5 +49,3 @@
 23. azok az 1–22. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, melyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
-
-[^5]: A 11–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
