@@ -5,3 +5,5 @@
 a) a beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához, valamint
 
 b) a beruházáshoz közvetlenül kapcsolódó útépítési, közmű-csatlakozási és -fejlesztési, valamint egyéb munkák megvalósításához
+
+szükségesek.

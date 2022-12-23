@@ -1,5 +1,3 @@
-## A beruházás által érintett települések
-
 |  | A | B | C |
 
 | 1. | Projekt azonosító száma | Projekt címe és tartalma | Érintett települések |
@@ -96,7 +94,7 @@
 
 2. melléklet a 149/2016. (VI. 13.) Korm. rendelethez
 
-## A Vízvisszatartás és tájhasználat-váltás tervezése az Ős-Dráva Programban című, KEHOP-1.3.0-15-2016-00014 azonosító számú projekt megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű közigazgatási hatósági ügyek
+A Vízvisszatartás és tájhasználat-váltás tervezése az Ős-Dráva Programban című, KEHOP-1.3.0-15-2016-00014 azonosító számú projekt megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű közigazgatási hatósági ügyek
 
 1. vízügyi és vízvédelmi hatósági eljárások,
 
@@ -112,7 +110,7 @@
 
 7. útügyi hatósági eljárások,
 
-8.[^5] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+8.[^6] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 9. hírközlési hatósági eljárások,
 
@@ -136,4 +134,4 @@
 
 19. az 1–18. pontokban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^5]: A 2. melléklet 8. pontja a 380/2016. (XII. 2.) Korm. rendelet 110. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^6]: A 2. melléklet 8. pontja a 380/2016. (XII. 2.) Korm. rendelet 110. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
