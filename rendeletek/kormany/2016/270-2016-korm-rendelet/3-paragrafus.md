@@ -1,6 +1,4 @@
-## 2. § A Kormány az 1. § szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó kormánymegbízottként a Bács-Kiskun Megyei Kormányhivatalt vezető kormánymegbízottat jelöli ki.
-
-3. § (1)–(2)[^1]
+3. § (1)–(2)[^2]
 
 (3) Az 1. § szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – nyolc nap.
 
@@ -16,4 +14,4 @@ c) nem kell építészeti-műszaki tervtanácsi véleményt beszerezni.
 
 (6) Az 1. § szerinti közigazgatási hatósági ügyekben hirdetményi úton történő közlés esetén a döntés közlésének napja a hirdetmény kifüggesztését követő nap.
 
-[^1]: A 3. § (1)–(2) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 274. §.a hatályon kívül helyezte.
+[^2]: A 3. § (1)–(2) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 274. §.a hatályon kívül helyezte.
