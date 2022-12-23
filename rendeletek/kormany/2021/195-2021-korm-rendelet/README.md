@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-195-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-04-27 | 2021-195-20-22.1 | 195/2021. (IV. 26.) Korm. rendelet |
+| 2022-12-23 | 2021-195-20-22.2 | 546/2022. (XII. 22.) Korm. rendelet |
