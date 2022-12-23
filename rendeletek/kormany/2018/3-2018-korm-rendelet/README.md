@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-3-20-22
 | 2021-04-30 | 2018-3-20-22.4 | 206/2021. (IV. 29.) Korm. rendelet |
 | 2021-08-19 | 2018-3-20-22.5 | 166/2020. (IV. 30.) Korm. rendelet |
 | 2022-12-16 | 2018-3-20-22.6 | 523/2022. (XII. 15.) Korm. rendelet |
+| 2022-12-23 | 2018-3-20-22.7 | 206/2021. (IV. 29.) Korm. rendelet |
