@@ -2,7 +2,7 @@
 
 1. melléklet a 33/2015. (II. 25.) Korm. rendelethez
 
-## A Párizs Property Kft. Budapest területén megvalósuló szállodájának megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+A Párizs Property Kft. Budapest területén megvalósuló szállodájának megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
