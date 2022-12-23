@@ -1,8 +1,8 @@
-## 9. §[^8] A Robert Bosch Korlátolt Felelősségű Társaság Budapest területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 212/2016. (VII. 21.) Korm. rendelet módosításáról szóló 291/2019. (XII. 5.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 1. § (1) bekezdését a Módr3. hatálybalépésekor[^9] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 9. §[^9] A Robert Bosch Korlátolt Felelősségű Társaság Budapest területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 212/2016. (VII. 21.) Korm. rendelet módosításáról szóló 291/2019. (XII. 5.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 1. § (1) bekezdését a Módr3. hatálybalépésekor[^10] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 212/2016. (VII. 21.) Korm. rendelethez
 
-## A Robert Bosch Korlátolt Felelősségű Társaság Budapest területén megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Robert Bosch Korlátolt Felelősségű Társaság Budapest területén megvalósuló beruházásával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -50,5 +50,5 @@
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^8]: A 9. §-t a 291/2019. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
-[^9]: A hatálybalépés időpontja 2019. december 6.
+[^9]: A 9. §-t a 291/2019. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
+[^10]: A hatálybalépés időpontja 2019. december 6.
