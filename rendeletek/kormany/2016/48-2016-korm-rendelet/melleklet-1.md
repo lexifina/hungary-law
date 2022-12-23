@@ -2,7 +2,7 @@
 
 1. melléklet a 48/2016. (III. 10.) Korm. rendelethez
 
-## A FAG Magyarország Kft. Debrecen város területén megvalósuló beruházásának megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
+A FAG Magyarország Kft. Debrecen város területén megvalósuló beruházásának megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított eljárások
 
 1. építésügyi és építésfelügyeleti hatósági engedélyezési és tudomásulvételi eljárások,
 
