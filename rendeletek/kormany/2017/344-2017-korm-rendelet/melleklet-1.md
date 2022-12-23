@@ -1,8 +1,8 @@
-## 9. §[^8] E rendeletnek az egyes gazdaságfejlesztési tárgyú kormányrendeletek módosításáról szóló 47/2021. (II. 5.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 1. § (1) bekezdését, 4/A. §-át és 2. mellékletét a Módr3. hatálybalépésekor[^9] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 9. §[^9] E rendeletnek az egyes gazdaságfejlesztési tárgyú kormányrendeletek módosításáról szóló 47/2021. (II. 5.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 1. § (1) bekezdését, 4/A. §-át és 2. mellékletét a Módr3. hatálybalépésekor[^10] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 344/2017. (XI. 15.) Korm. rendelethez
 
-## Az 1. § (1) bekezdése szerinti beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+Az 1. § (1) bekezdése szerinti beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -52,5 +52,5 @@
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^8]: A 9. §-t a 47/2021. (II. 5.) Korm. rendelet 3. §-a iktatta be.
-[^9]: A hatálybalépés időpontja 2021. február 6.
+[^9]: A 9. §-t a 47/2021. (II. 5.) Korm. rendelet 3. §-a iktatta be.
+[^10]: A hatálybalépés időpontja 2021. február 6.

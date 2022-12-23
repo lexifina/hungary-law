@@ -1,4 +1,4 @@
-4/A. §[^3] (1) Az 1. § (1) bekezdésében meghatározott földrészletek közül a 2. mellékletben megjelölt, az Egységes Országos Vetületi Rendszerben megadott koordináták (a továbbiakban: EOV koordináták) által lehatárolt ingatlanrészen megvalósuló beépítés szabályait a (2)–(6) bekezdés állapítja meg azzal, hogy
+4/A. §[^4] (1) Az 1. § (1) bekezdésében meghatározott földrészletek közül a 2. mellékletben megjelölt, az Egységes Országos Vetületi Rendszerben megadott koordináták (a továbbiakban: EOV koordináták) által lehatárolt ingatlanrészen megvalósuló beépítés szabályait a (2)–(6) bekezdés állapítja meg azzal, hogy
 
 a) a hatályos településrendezési eszközök és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2)–(6) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -34,4 +34,4 @@ a) – az OTÉK 4. számú melléklete szerint meghatározott számú – szemé
 
 b) autóbusz-várakozóhelyet nem kell biztosítani.
 
-[^3]: A 4/A. §-t a 47/2021. (II. 5.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 4/A. §-t a 47/2021. (II. 5.) Korm. rendelet 2. §-a iktatta be.
