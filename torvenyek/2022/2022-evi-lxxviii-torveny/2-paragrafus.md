@@ -1,7 +1,3 @@
 ## 2. Az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény módosítása
 
-2. § Az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény (a továbbiakban: Eftv.) 10. §-a helyébe a következő rendelkezés lép:
-
-„10. § (1) A Kormány jogosult a jogi személyiséggel rendelkező vallási közösségeket, belső egyházi jogi személyeket közcélú tevékenységük folytatásához szükséges ingatlan megszerzésében segíteni.
-
-(2) Ha a belső egyházi jogi személy állami tulajdonú ingatlant ingyenesen kap vagy kapott tulajdonba, beleértve az Etv. 2. § (2) bekezdés c)–e) pontjában meghatározott célt szolgáló, valamint az Etv. 17. § (2) bekezdése szerinti szakrális ingatlanokat is, különösen, ha az ingatlanra vonatkozóan az Ehtv. 19/B. § (3) bekezdése szerinti támogatásban részesül vagy részesült, magyarországi működésének a megszűnése esetén az ingatlan tulajdonjoga és az ingatlanhoz kapcsolódó közcélú tevékenység ellátásának kötelezettsége az érintett, az Ehtv. 7. § (2) bekezdés b)–d) pontjában meghatározott egyház magyarországi legfőbb képviseleti szerve (a továbbiakban: az egyház magyarországi legfőbb képviseleti szerve) által megjelölt magyarországi belső egyházi jogi személyére, az egyház magyarországi legfőbb képviseleti szerve eltérő rendelkezése hiányában az ingatlan fekvése szerint területi illetékességgel rendelkező magyarországi belső egyházi jogi személyére száll át. Az érdekelt magyarországi belső egyházi jogi személy tulajdonjogát az ingatlan-nyilvántartást vezető hatóság az érintett egyház magyarországi legfőbb képviseleti szervének nyilatkozata alapján bejegyzi.”
+### 2. §

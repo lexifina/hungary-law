@@ -1,3 +1,1 @@
-4. § Az Eftv. 13. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az egyházakat érintő egyes törvények módosításáról szóló 2022. évi LXXVIII. törvény (a továbbiakban: Módtv2.) hatálybalépésekor a Módtv2.-vel megállapított 11/A. § (1) bekezdése szerinti egyházi fenntartó birtokában álló vagyonelemekre a szerződést – az egyházi fenntartó erre vonatkozó igénye alapján – haladéktalanul, de legkésőbb a nevelési, illetve tanév kezdetéig kell megkötni. Az erre vonatkozó igényt legkésőbb 2023. február 28-ig be kell jelenteni. A 11/A. § (2) és (3) bekezdésében foglaltakat ebben az esetben is alkalmazni kell.”
+### 4. §

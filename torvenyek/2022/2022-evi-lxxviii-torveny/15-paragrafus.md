@@ -1,7 +1,3 @@
 ## 4. A Pázmány Péter Katolikus Egyetem által ellátott oktatási feladatok elősegítése céljából, a Magyar Katolikus Püspöki Konferencia részére történő ingyenes vagyonjuttatásról szóló 2020. évi XVI. törvény módosítása
 
-15. § A Pázmány Péter Katolikus Egyetem által ellátott oktatási feladatok elősegítése céljából, a Magyar Katolikus Püspöki Konferencia részére történő ingyenes vagyonjuttatásról szóló 2020. évi XVI. törvény (a továbbiakban: PPKE tv.) a következő 1/A. §-sal egészül ki:
-
-„1/A. § (1) Az Nvtv. 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése alapján az állam tulajdonában lévő, az ingatlan-nyilvántartás szerinti Budapest VIII. kerület belterület 36561/0/A helyrajzi számú, természetben az 1088 Budapest, Pollack Mihály tér alatt található ingatlan (a továbbiakban: Ingatlan) a PPKE által ellátott oktatási, kutatási, kulturális és hitéleti feladatok elősegítése céljából ingyenesen, valamint per-, teher- és igénymentesen – ide nem értve az 1/B. § (1) bekezdése szerinti használati jogot – 2026. március 31. napjával az MKPK tulajdonába kerül.
-
-(2) Az (1) bekezdés szerinti vagyonjuttatás során az Nvtv. 6. § (1) bekezdésében foglaltakat nem kell alkalmazni.”
+### 15. §
