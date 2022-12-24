@@ -1,19 +1,14 @@
 1. § (1)[^1]
 
-(2) A 22/2022. (VI. 11.) MNB rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A hitelintézet jelzáloghitel-finanszírozás megfelelési mutatójának mindenkor el kell érnie a 0,25-os szintet.”
+(2)[^2]
 
 (3) A 22/2022. (VI. 11.) MNB rendelet 2. melléklete az 1. melléklet szerint módosul.
 
-(4) Hatályát veszti a 22/2022. (VI. 11.) MNB rendelet
+(4)[^3]
 
-a) 2. § 9. pontja,
-
-b) 4. § (1) bekezdésében az „– a (2) bekezdésben foglaltak kivételével –” szövegrész,
-
-c) 4. § (2) bekezdése.
-
-(5) Nem lép hatályba a 22/2022. (VI. 11.) MNB rendelet 2. § 1. pontja.
+(5)[^4]
 
 [^1]: Az 1. § (1) bekezdése a 4. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^2]: Az 1. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. § (4) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. § (5) bekezdése a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

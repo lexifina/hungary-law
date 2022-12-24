@@ -1,23 +1,17 @@
 1. melléklet az 58/2022. (XII. 22.) MNB rendelethez
 
-1. A 22/2022. (VI. 11.) MNB rendelet 2. melléklet 2. pontja helyébe a következő rendelkezés lép:
+1.[^7]
 
-„2. A jelzáloghitel-finanszírozás megfelelési mutató számlálójában az alábbi források vehetők figyelembe:
+2.[^8]
 
-a) a hitelintézeti csoport jelzálog-hitelintézet tagja által kibocsátott jelzáloglevél-állomány,
+3.[^9]
 
-b) a kapott refinanszírozási jelzáloghitelek,
+4.[^10]
 
-c) a Jht. 8. § (4) bekezdése szerinti önálló zálogjog értékesítése okán fennálló visszavásárlási vételártartozás.”
+5.[^11]
 
-2.[^3]
-
-3.[^4]
-
-4.[^5]
-
-5. Nem lép hatályba a 22/2022. (VI. 11.) MNB rendelet 2. melléklet 12–15. pontja.
-
-[^3]: Az 1. melléklet 2. pontja a 4. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^4]: Az 1. melléklet 3. pontja a 4. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^5]: Az 1. melléklet 4. pontja a 4. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^7]: Az 1. melléklet 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 1. melléklet 2. pontja a 4. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^9]: Az 1. melléklet 3. pontja a 4. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^10]: Az 1. melléklet 4. pontja a 4. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^11]: Az 1. melléklet 5. pontja a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
