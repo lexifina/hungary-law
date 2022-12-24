@@ -1,5 +1,3 @@
-4. § A Korm. rendelet a következő 78. §-sal egészül ki:
+4. §[^5]
 
-„78. § (1) E rendeletnek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet módosításáról szóló 550/2022. (XII. 22.) Korm. rendelettel (a továbbiakban: Mód2r.) megállapított 18. § (4) bekezdés e) és f) pontját, 18. § (6), (8), (11) és (12) bekezdését, 19. § (6) bekezdését, 20. § (3a)–(3e), (4), (4a) és (5) bekezdését, 21. § (5) és (5a) bekezdését, 21/E. §-át és 21/F. §-át a Mód2r. hatálybalépése után kezdeményezett szaklétesítések és szakindítások esetében kell alkalmazni.
-
-(2) Az Nftv. 16/A. § (1) bekezdése alapján a miniszter által hivatalos kiadványként közzétett hitéleti képzési és kimeneti követelményeket és a hitéleti szakokat a Mód2r. hatálybalépésekor a Hivatal hivatalból nyilvántartásba veszi.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
