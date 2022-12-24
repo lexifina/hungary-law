@@ -1,3 +1,3 @@
-1. § A gazdaság újraindítása érdekében meghozandó, az építőipari ellátásbiztonság szempontjából stratégiai jelentőségű nyersanyagok és termékek kivitelével kapcsolatos regisztrációs eljárásról és egyéb intézkedésekről szóló 402/2021. (VII. 8.) Korm. rendelet 2. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(A bejelentés tartalmazza)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
