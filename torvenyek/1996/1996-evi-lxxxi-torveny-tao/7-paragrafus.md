@@ -60,7 +60,7 @@ kb) a személyi jövedelemadóról szóló törvény szerinti munkásszállás b
 
 kc) az adózó által a munkavállalói számára bérlakás céljából épített és e tevékenységet közvetlenül szolgáló hosszú élettartamú szerkezetű épület bekerülési értékeként, a bekerülési értékének növekményeként kimutatott összeg a beruházás, felújítás befejezésének adóévében,
 
-l) az adózó választása szerint az elektromos töltőállomás bekerülési értéke, de legfeljebb az elektromos töltőállomás bekerülési értéke és az elektromos töltőállomás által a beruházás befejezésének adóévét követő 3 éves időszak alatt elért (elérhető), az adózó becslése szerinti, az elektromos töltőállomás pozitív működési eredménye közötti különbözet, a beruházás befejezésének adóévében figyelemmel a (31)–(32) bekezdésre,
+l) az adózó választása szerint az elektromos töltőállomás bekerülési értéke a beruházás befejezésének adóévében figyelemmel a (31) bekezdésre,
 
 ly) a kisajátítás, valamint a kisajátítási tervben szereplő ingatlanra megkötött adásvétel során kapott ellenérték és az érintett eszköz könyv szerinti értéke közötti pozitív különbözet az adózás előtti eredményben való megjelenése adóévében,
 
@@ -240,6 +240,6 @@ arányára figyelemmel meghatározott összeget veheti figyelembe az (1) bekezd�
 
 (30) Az (1) bekezdés k) pont kc) alpontja akkor alkalmazható, ha az épület olyan legalább heti 36 órás munkaidőben foglalkoztatott munkavállaló és ennek vele együtt lakó közeli hozzátartozója elhelyezésére szolgál, akinek nincs lakóhelye azon a településen, ahol a munkahelye van, továbbá, akinek lakóhelye és a munkahelye legalább 60 kilométerre van egymástól, vagy akinek a munkahelye és lakóhelye közötti, naponta, tömegközlekedési eszközzel történő oda- és visszautazás ideje a 3 órát meghaladja. Az (1) bekezdés k) pont kc) alpontja nem alkalmazható, ha az adózó kapcsolt vállalkozásának minősülő munkavállalóját, ennek hozzátartozóját szállásolja el.
 
-(31) Amennyiben az (1) bekezdés l) pontja szerinti csökkentés összege meghaladja az elektromos töltőállomás bekerülési értéke és az elektromos töltőállomás által a beruházás befejezésének adóévét követő 3 éves időszak alatt ténylegesen elért pozitív működési eredmény különbözetének összegét, az (1) bekezdés l) pontja szerinti, az adózás előtti eredmény csökkentéseként elszámolt összeg az állami adó- és vámhatósághoz benyújtott önellenőrzéssel pótlékmentesen módosítható.
+(31) Az (1) bekezdés l) pontja szerinti összeg 19. § szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályaival összhangban nyújtható.
 
-(32) Az (1) bekezdés l) pontja szerint elektromos töltőállomásonként érvényesített összeg 19. § szerinti adókulccsal számított értéke nem lehet több 20 millió eurónak a 19. § szerinti adókulccsal számított értékének megfelelő forintösszegnél.
+(32)

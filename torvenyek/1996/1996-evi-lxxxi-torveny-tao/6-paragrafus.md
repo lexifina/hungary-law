@@ -12,7 +12,19 @@
 
 (3b) A csoportos társasági adóalany megszűnik a megszüntetése napján, valamint azt a napot megelőző napon, amelyen megszűnése hiányában már nem lenne legalább két tagja.
 
-(3c) Az adózó csoporttagsága megszűnik adókötelezettsége megszűnése, kilépése és a csoportos társasági adóalany megszűnése napján, valamint azon a napon, amelyet követő naptól már nem felel meg a tagságára előírt összes feltételnek.
+(3c) Az adózó csoporttagsága megszűnik
+
+a) adókötelezettsége megszűnése napján,
+
+b) kilépése napján,
+
+c) a csoportos társasági adóalany megszűnése napján,
+
+d) azon a napon, amelyet követő naptól már nem felel meg a tagságára előírt összes feltételnek,
+
+e) végelszámolása, felszámolása, kényszertörlési eljárása kezdő időpontját megelőző nappal,
+
+f) megszűnése napján, ha az adózó végelszámolási vagy felszámolási eljárás nélkül szűnik meg.
 
 (3d) Ha a (3b) és (3c) bekezdés szerinti megszűnés időpontja nem az üzleti év utolsó napjára esik, akkor a megszűnés napja – a (3b) és (3c) bekezdésben foglaltaktól eltérően – a megszűnés napját magában foglaló üzleti évet megelőző üzleti év utolsó napja. Ha a megszűnés napját magában foglaló üzleti évet megelőző üzleti év utolsó napján a csoportos társasági adóalany, illetve a csoporttagság még nem állt fenn, akkor úgy kell tekinteni, hogy a csoportos társasági adóalany, illetve a csoporttagság nem jött létre. Ha a csoportos társasági adóalany, illetve a csoporttagság nem az üzleti év utolsó napján szűnik meg, akkor a megszűnés napját követő nappal a csoporttagoknak, illetve az érintett csoporttagnak önálló adóéve kezdődik.
 
