@@ -19,3 +19,5 @@ lehet előterjeszteni.
 (5) Az igazolási kérelem előterjesztése és a kérelem alapján megismételt eljárási cselekmény határidejének elmulasztása miatt nincs helye igazolásnak.
 
 (6) Ha az adóhatóság az igazolási kérelemnek helyt ad, az elmulasztott határnapot vagy határidőt megtartottnak tekinti, ezért ha szükséges, a döntését módosítja vagy visszavonja, illetve egyes eljárási cselekményeket megismétel.
+
+(7) Az igazolási kérelmet elutasító döntéssel szembeni fellebbezésre nyitva álló határidő elmulasztása esetén nincs helye igazolásnak.
