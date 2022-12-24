@@ -70,4 +70,6 @@ d) a KÖFOP-1.0.0-VEKOP-15-2016-00040 azonosító számú projektben vállalt m�
 
 | Határidő: | folyamatos |
 
-2. visszavonja az elektronikus ügyintézés földügyi igazgatásban való bevezetésének előkészítése érdekében szükséges intézkedésekről szóló 1264/2015. (IV. 30.) Korm. határozatot.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
