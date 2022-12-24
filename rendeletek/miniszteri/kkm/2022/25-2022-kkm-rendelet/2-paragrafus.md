@@ -1,1 +1,3 @@
-2. § A Magyarország Európai Unió melletti Állandó Képviseletén a biztonsági, informatikai és dokumentumbiztonsági feladatok ellátásának egyes kérdéseiről szóló 44/2021. (XII. 20.) KKM rendelet 5. § g) pontjában a „Védett Külügyi Hálózat (a továbbiakban: VKH)” szövegrész helyébe a „VKH” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
