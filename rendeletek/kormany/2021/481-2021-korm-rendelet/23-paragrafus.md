@@ -1,5 +1,3 @@
-## 22. § Az EGT és Norvég Finanszírozási Mechanizmusok 2014–2021 előirányzat a 121/2021. (III. 10.) Korm. rendelet szerint használható fel.
-
 ## 11. Az Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2014–2020 előirányzat és az Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2021–2027 előirányzat felhasználási szabályai
 
 23. § (1) Az Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2014–2020 előirányzat és az Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2021–2027 előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzatok) célja a CEF projektek, valamint azok koordinálásával összefüggő elszámolható és az európai uniós forrásból nem fedezett, el nem számolható, azonban a projektek lebonyolításához és a projektek fenntartási időszakához kötődő kötelezettségek teljesítéséhez elengedhetetlen tevékenységek kiadásai fedezetének biztosítása, így különösen
@@ -24,7 +22,7 @@ a) a végrehajtó szerv,
 
 b) az Európai Támogatásokat Auditáló Főigazgatóság,
 
-c)[^18] a Technológiai és Ipari Minisztérium, valamint a Kulturális és Innovációs Minisztérium mint tagállami kedvezményezett.
+c)[^26] a Technológiai és Ipari Minisztérium, valamint a Kulturális és Innovációs Minisztérium mint tagállami kedvezményezett.
 
 (4) Az előirányzatok terhére megállapított támogatás támogatási szerződéssel bocsátható a kedvezményezett rendelkezésére, a támogatásra vonatkozó egyedi feltételek meghatározása mellett.
 
@@ -36,4 +34,4 @@ c)[^18] a Technológiai és Ipari Minisztérium, valamint a Kulturális és Inno
 
 (8) Szállítói előleg a kedvezményezett és a szállító közötti szerződés összege 30%-áig biztosítható a szállító részére, a szállítói előlegnek közvetlenül a szállító fizetési számlájára történő folyósítással.
 
-[^18]: A 23. § (3) bekezdés c) pontja a 258/2022. (VII. 20.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^26]: A 23. § (3) bekezdés c) pontja a 258/2022. (VII. 20.) Korm. rendelet 9. §-a szerint módosított szöveg.

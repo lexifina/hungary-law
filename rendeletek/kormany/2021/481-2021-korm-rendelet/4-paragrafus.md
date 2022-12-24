@@ -10,7 +10,7 @@
 
 (5) A követelés behajthatatlanná történő minősítéséről a kötelezettségvállaló, a közreműködő szervezet vagy a mezőgazdasági és vidékfejlesztési támogatási szerv gondoskodik.
 
-(6)[^2] Országos kihatású projekt esetén a vonatkozó előirányzat felhasználásának folyamatát, ellenőrzését és a kapcsolattartás módját a Versenyképes Közép-Magyarország Operatív Program irányító hatósága és a projekt szakmai tartalmáért felelős irányító hatóság között létrejövő megállapodásban kell rögzíteni.
+(6)[^9] Országos kihatású projekt esetén a vonatkozó előirányzat felhasználásának folyamatát, ellenőrzését és a kapcsolattartás módját a Versenyképes Közép-Magyarország Operatív Program irányító hatósága és a projekt szakmai tartalmáért felelős irányító hatóság között létrejövő megállapodásban kell rögzíteni.
 
 (7) Az országos kihatású projekt részére nyújtandó támogatás kifizetése céljából a projekt szakmai tartalmáért felelős irányító hatóság olyan átutalást teljesíthet a kedvezményezett vagy a szállító részére, amely esetén a folyósítás évében történő visszapótlás a Versenyképes Közép-Magyarország Operatív Program előirányzat terhére, az érintett operatív program javára lehetséges.
 
@@ -28,4 +28,4 @@ vonatkozásában a fejezetet irányító szerv vezetője vagy az általa írásb
 
 (10) A fejezeti likviditást biztosító átcsoportosítás a kezelő szervek adatszolgáltatása alapján történik.
 
-[^2]: A 4. § (6) bekezdése a 658/2021. (XI. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^9]: A 4. § (6) bekezdése a 658/2021. (XI. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.

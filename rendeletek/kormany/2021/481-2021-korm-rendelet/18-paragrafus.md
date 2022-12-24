@@ -1,6 +1,6 @@
 18. § (1) A projekt önerő- és előkészítési támogatás (e § alkalmazásában a továbbiakban együtt: támogatás) támogatási formája vissza nem térítendő támogatás. Az előkészítési támogatás formája – ha az a közvetlen irányítású uniós program terhére elszámolható – visszatérítendő támogatás.
 
-(2)[^16] A támogatás egyedi döntéssel pályázati úton vagy pályázati rendszeren kívül nyújtott támogatás formájában nyújtható.
+(2)[^23] A támogatás egyedi döntéssel pályázati úton vagy pályázati rendszeren kívül nyújtott támogatás formájában nyújtható.
 
 (3) A támogatás éves ütemezésben, a megítélt éves támogatási összeg 100%-át kitevő támogatási előlegként kerül kifizetésre. A támogatás éves összegét támogatói okirat határozza meg.
 
@@ -28,4 +28,4 @@ j) gazdasági társaság
 
 részesülhet a közvetlen irányítású uniós program támogatásra számot tartó projektje megvalósításához.
 
-[^16]: A 18. § (2) bekezdése a 46/2022. (II. 17.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^23]: A 18. § (2) bekezdése a 46/2022. (II. 17.) Korm. rendelet 14. §-ával megállapított szöveg.

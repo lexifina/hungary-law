@@ -1,6 +1,6 @@
 ## 55. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 481/2021. (VIII. 13.) Korm. rendelethez[^33]
+1. melléklet a 481/2021. (VIII. 13.) Korm. rendelethez[^42]
 
 Kezelő szervi kijelölés
 
@@ -66,4 +66,4 @@ Kezelő szervi kijelölés
 
 | 30 | Transznacionális és Interregionális Együttműködés (2021–2027) | európai uniós források felhasználásáért felelős miniszter |
 
-[^33]: Az 1. melléklet a 258/2022. (VII. 20.) Korm. rendelet 8. §-ával megállapított, az 519/2022. (XII. 13.) Korm. rendelet 4. §-a és 5. § a) pontja szerint módosított szöveg.
+[^42]: Az 1. melléklet a 258/2022. (VII. 20.) Korm. rendelet 8. §-ával megállapított, az 519/2022. (XII. 13.) Korm. rendelet 4. §-a és 5. § a) pontja szerint módosított szöveg.
