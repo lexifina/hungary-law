@@ -1,1 +1,3 @@
-3. § A 7/2017. (VIII. 3.) KKM rendelet 4. § (1) bekezdésében a „külképviselet-vezető” szövegrész helyébe a „kiküldetést elrendelő vezető” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
