@@ -30,4 +30,6 @@
 
 15. a 2. mellékletben foglalt táblázat F:3 mezője alapján az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, 2022/C 131 I/01 számú európai bizottsági közlemény 2.1. szakasza szerinti támogatás
 
+nyújtható.
+
 [^4]: A 3. § a 7/2022. (X. 26.) PM rendelet 1. §-ával megállapított szöveg.
