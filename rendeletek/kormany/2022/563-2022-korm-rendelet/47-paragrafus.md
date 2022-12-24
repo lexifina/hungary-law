@@ -1,0 +1,1 @@
+47. § A projektgazda és a program operátor – a programkomponens operátor adatszolgáltatása alapján – a támogatási intézkedés befejezését követően a fenntartási időszak alatt évente fenntartási jelentést készít a IX. Fejezet rendelkezései szerint.

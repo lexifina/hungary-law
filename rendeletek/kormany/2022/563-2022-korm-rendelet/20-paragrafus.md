@@ -1,0 +1,3 @@
+20. § (1) Folyamatos elbírálású pályázati felhívás esetén, ha a támogatásra rendelkezésre álló kötelezettségvállalási keret kimerül vagy annak kimerülése valószínűsíthető, a Nemzeti Irányító Hatóság a benyújtási határidő letelte előtt a benyújtás lehetőségét felfüggesztheti vagy a pályázatot lezárhatja, és az erről szóló tájékoztatást az együttműködési program hivatalos honlapján közzéteszi.
+
+(2) Ha a felfüggesztés időpontja előtt beérkezett támogatási igényekről hozott döntést követően a támogatásra rendelkezésre álló keret nem merült ki, a felfüggesztést meg lehet szüntetni és új benyújtási határidőt lehet meghatározni.

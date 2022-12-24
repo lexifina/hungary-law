@@ -1,0 +1,1 @@
+5. § A pályázatok értékelésében, a programok és a projektek végrehajtásában, a hitelesítési, igazolási és ellenőrzési tevékenységekben részt vevő szervek és személyek a megismert pályázatokat az értékelésre, továbbá a Svájci Hozzájárulásra vonatkozó előírások szerinti célra használhatják fel.

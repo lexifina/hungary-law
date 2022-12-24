@@ -1,0 +1,1 @@
+74. § A svájci hatóságok részére benyújtott visszatérítési kérelmek kizárólag olyan összeget tartalmazhatnak, amely kifizetett és hitelesített költségekből áll, illetve amelyeket előlegigénylések, számlák vagy egyéb, gazdasági eseményt hitelesen dokumentáló bizonylatok támasztanak alá, és amelyek a támogatási intézkedés keretében elszámolható költségnek minősülnek.

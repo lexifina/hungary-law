@@ -1,0 +1,1 @@
+53. § A svájci hatóságok az együttműködési program, a tematikus területek vagy egyes támogatási intézkedések végrehajtása során és azt követően is értékelhetik az intézkedések mikénti végrehajtását. Az együttműködési program végrehajtása során végzett értékelések esetében a Nemzeti Irányító Hatóság biztosítja az értékeléshez szükséges információt és támogatást.

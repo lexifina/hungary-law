@@ -1,0 +1,3 @@
+69. § (1) Ha a svájci hatóságok visszafizetési kötelezettséget állapítanak meg Magyarországgal szemben és a visszafizetési kötelezettség alapját képező szabálytalanságban érintett összeg behajtása nem lehetséges, akkor a szabálytalanságért felelős, illetve annak hiányában a szabálytalanul felhasznált forrást folyósító fejezet költségvetéséből kell az érintett összeget az igazoló hatóság által meghatározott pénzforgalmi számlára és határidőben visszapótolni.
+
+(2) Ha a szabálytalanságban érintett összeget a támogatási intézkedés zárásáig nem sikerült behajtani, a behajtásra tett kísérletek és intézkedések valamennyi dokumentációját legalább az együttműködési program zárását követő 10. év végéig támogatási intézkedésenkénti bontásban meg kell őrizni.

@@ -1,0 +1,1 @@
+99. § A program operátor és a projektgazda a program, vagy a projekt fizikai megvalósítását követően a támogatási szerződésben meghatározottak szerint megőrzi a program, vagy a projekt eredményeit fenntartani és fenntartási kötelezettségeit teljesíti a fenntartási időszak alatt.

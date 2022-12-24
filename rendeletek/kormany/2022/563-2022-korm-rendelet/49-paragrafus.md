@@ -1,0 +1,1 @@
+49. § A Nemzeti Irányító Hatóság az éves ülésre az együttműködési programról éves programjelentést készít, amelyet legkésőbb a jelentéstételi időszakot követő év április 30. napjáig benyújt a svájci hatóságok részére. Az éves programjelentést a Nemzeti Irányító Hatóság és a svájci hatóságok az éves ülésen vitatják meg és fogadják el.

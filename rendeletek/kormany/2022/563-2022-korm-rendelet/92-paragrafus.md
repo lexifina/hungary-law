@@ -1,0 +1,1 @@
+92. § A Nemzeti Irányító Hatóság a szabálytalansági eljárást lezáró döntést megküldi papír alapon a kedvezményezettnek a szabálytalansági eljárást lezáró döntés meghozatalától számított 2 munkanapon belül.

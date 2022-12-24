@@ -1,0 +1,1 @@
+58. § Az európai uniós források felhasználásért felelős miniszter a támogatási intézkedések előkészítése és végrehajtása során biztosítja, hogy a kedvezményezettek részére a támogatási összegek kifizetéséhez szükséges összeg rendelkezésre álljon.

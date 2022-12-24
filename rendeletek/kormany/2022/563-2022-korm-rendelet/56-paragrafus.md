@@ -1,0 +1,1 @@
+56. § Az együttműködési program keretében megvalósuló programokkal vagy projektekkel összefüggésben a lebonyolításban részt vevők a keletkező dokumentumokat a támogatási intézkedés befejezését követően 10 évig megőrzik.

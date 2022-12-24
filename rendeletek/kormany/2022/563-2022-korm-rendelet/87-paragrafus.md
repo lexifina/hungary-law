@@ -1,0 +1,1 @@
+87. § A szabálytalansági eljárás megindításáról a Nemzeti Irányító Hatóság az eljárás megindításától számított 5 munkanapon belül – a szabálytalansági gyanú ismertetésével – írásban tájékoztatja a kedvezményezettet.
