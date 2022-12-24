@@ -1,1 +1,3 @@
-3. § A 18/2017. (XII. 21.) KKM rendelet 4. § (5) bekezdésében a „diplomata munkakörben” szövegrész helyébe a „diplomata vagy vezetői munkakörben” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
