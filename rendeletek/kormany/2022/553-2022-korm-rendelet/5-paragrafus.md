@@ -1,1 +1,3 @@
-5. § A Magyar Labdarúgó Szövetség Budapesti Pályafejlesztési Programjának megvalósításával kapcsolatos egyes feladatok ellátásáról szóló 478/2017. (XII. 28.) Korm. rendelet 1. § (1) bekezdésében a „BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság” szövegrész helyébe a „Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság” szöveg lép.
+5. §[^2]
+
+[^2]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

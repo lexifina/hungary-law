@@ -1,1 +1,3 @@
-4. § A Magyar Olimpiai Bizottság által kiemelt sportágak sportlétesítmény-fejlesztésének megvalósításával kapcsolatos egyes feladatok ellátásáról szóló 208/2016. (VII. 21.) Korm. rendelet 1. § (1) bekezdésében a „BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság” szövegrész helyébe a „Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság” szöveg lép.
+4. §[^1]
+
+[^1]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
