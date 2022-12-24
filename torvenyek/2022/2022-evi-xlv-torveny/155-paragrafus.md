@@ -1,8 +1,8 @@
 ## 33. Az Európai Unió jogának való megfelelés
 
-155. § (1)
+155. § (1) E törvény 15. § (2) bekezdése, 31. §-a az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet szerinti támogatást tartalmaz.
 
-(2)
+(2) E törvény 18. § (2) bekezdése, 19. §–20. §-a, 32. §-a, 2. melléklete az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, 2022/C 131 I/01 számú európai bizottsági közlemény 2.1. szakaszának szabályai és a támogatási programot jóváhagyó SA.103089 számú határozatban és az azt módosító európai bizottsági határozatokban foglalt rendelkezések szerinti támogatást tartalmaz.
 
 (3)
 
