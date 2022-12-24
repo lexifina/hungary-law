@@ -1,9 +1,5 @@
 ## 122. A Betegápoló Irgalmasrend épületeinek felújítását célzó beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 211/2016. (VII. 21.) Korm. rendelet módosítása
 
-122. § A Betegápoló Irgalmasrend épületeinek felújítását célzó beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 211/2016. (VII. 21.) Korm. rendelet 2. §-ában
+122. §[^257]
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
-
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg
-
-lép.
+[^257]: A 122. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

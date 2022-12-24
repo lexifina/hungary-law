@@ -2,12 +2,14 @@
 
 137. § A Biatorbágy területén mezőgazdasági gépgyártó üzem megvalósítására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 347/2016. (XI. 17.) Korm. rendelet 2. §-ában
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^290]
 
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^291]
 
-c)[^139]
+c)[^292]
 
 lép.
 
-[^139]: A 137. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^290]: A 137. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^291]: A 137. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^292]: A 137. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

@@ -2,12 +2,12 @@
 
 60. § A Wuppermann Hungary Kft. Győr-Gönyűi Kikötőben megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 266/2014. (X. 21.) Korm. rendelet
 
-a) a 2. § (1) bekezdésében a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg, a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg és a „kormánymegbízott” szövegrész helyébe a „főispán” szöveg,
+a)[^116]
 
-b)[^83]
+b)[^117]
 
-c) 2. § (2) bekezdésében a „kormánymegbízott” szövegrész helyébe a „főispán” szöveg és a „kormánymegbízottak” szövegrészek helyébe a „főispánok” szöveg
+c)[^118]
 
-lép.
-
-[^83]: A 60. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^116]: A 60. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^117]: A 60. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^118]: A 60. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -2,12 +2,14 @@
 
 215. § Az Alsózsolcán megvalósuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 62/2018. (III. 28.) Korm. rendelet 2. §-ában
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^484]
 
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^485]
 
-c)[^199]
+c)[^486]
 
 lép.
 
-[^199]: A 215. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^484]: A 215. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^485]: A 215. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^486]: A 215. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

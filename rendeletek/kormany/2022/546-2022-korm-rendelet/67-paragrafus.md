@@ -2,13 +2,14 @@
 
 67. § A Millenáris területén megvalósítandó egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 395/2014. (XII. 31.) Korm. rendelet
 
-a) 2. §-ában a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg és a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+a)[^132]
 
-b)[^92]
+b)[^133]
 
-c)[^93]
+c)[^134]
 
 lép.
 
-[^92]: A 67. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^93]: A 67. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^132]: A 67. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^133]: A 67. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^134]: A 67. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

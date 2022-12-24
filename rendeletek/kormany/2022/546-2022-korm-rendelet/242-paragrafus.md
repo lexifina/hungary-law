@@ -2,12 +2,14 @@
 
 242. § A Szegedi Szerb Oktatási Központ épületének bővítésével és homlokzatának felújításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 206/2020. (V. 15.) Korm. rendelet 2. §-ában
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^540]
 
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^541]
 
-c)[^217]
+c)[^542]
 
 lép.
 
-[^217]: A 242. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^540]: A 242. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^541]: A 242. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^542]: A 242. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

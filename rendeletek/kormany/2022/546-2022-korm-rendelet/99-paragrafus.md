@@ -2,12 +2,14 @@
 
 99. § A HELL cégcsoport Szikszó területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 13/2016. (II. 9.) Korm. rendelet 2. §-ában
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^202]
 
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^203]
 
-c)[^114]
+c)[^204]
 
 lép.
 
-[^114]: A 99. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^202]: A 99. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^203]: A 99. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^204]: A 99. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

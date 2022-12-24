@@ -1,1 +1,3 @@
-182. § Hatályát veszti a Modern Városok Program keretében egyes turisztikai és városfejlesztési célra irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 202/2017. (VII. 10.) Korm. rendelet 1. mellékletében foglalt táblázat 3. sora.
+182. §[^405]
+
+[^405]: A 182. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

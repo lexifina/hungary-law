@@ -2,13 +2,14 @@
 
 255. § A balatonfüredi kézilabda-csarnok megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 352/2020. (VII. 16.) Korm. rendelet
 
-a)[^226]
+a)[^559]
 
-b) 3. §-ában a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg és a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^560]
 
-c)[^227]
+c)[^561]
 
 lép.
 
-[^226]: A 255. § a) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^227]: A 255. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^559]: A 255. § a) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^560]: A 255. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^561]: A 255. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

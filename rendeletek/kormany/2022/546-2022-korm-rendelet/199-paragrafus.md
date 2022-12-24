@@ -1,9 +1,5 @@
 ## 197. Az Országos Széchényi Könyvtár archívumainak elhelyezését szolgáló archivális és szolgáltató raktárainak megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 373/2017. (XII. 8.) Korm. rendelet módosítása
 
-199. § Az Országos Széchényi Könyvtár archívumainak elhelyezését szolgáló archivális és szolgáltató raktárainak megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 373/2017. (XII. 8.) Korm. rendelet 3. §-ában
+199. §[^444]
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
-
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg
-
-lép.
+[^444]: A 199. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

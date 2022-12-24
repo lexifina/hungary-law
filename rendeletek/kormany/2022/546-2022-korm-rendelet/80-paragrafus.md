@@ -1,9 +1,5 @@
 ## 80. A Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma létrehozását célzó beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 228/2015. (VIII. 7.) Korm. rendelet módosítása
 
-80. § A Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma létrehozását célzó beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 228/2015. (VIII. 7.) Korm. rendelet 2. §-ában
+80. §[^163]
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
-
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg
-
-lép.
+[^163]: A 80. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

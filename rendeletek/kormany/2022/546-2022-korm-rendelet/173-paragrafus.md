@@ -2,12 +2,14 @@
 
 173. § A jánossomorjai építőanyag-gyártó beruházás kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 142/2017. (VI. 9.) Korm. rendelet 2. §-ában
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^384]
 
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^385]
 
-c)[^169]
+c)[^386]
 
 lép.
 
-[^169]: A 173. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^384]: A 173. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^385]: A 173. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^386]: A 173. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

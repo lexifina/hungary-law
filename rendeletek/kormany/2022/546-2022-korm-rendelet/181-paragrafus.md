@@ -2,12 +2,14 @@
 
 181. § A Modern Városok Program keretében egyes turisztikai és városfejlesztési célra irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 202/2017. (VII. 10.) Korm. rendelet
 
-a) 2. §-ában a „kormánymegbízottakat” szövegrész helyébe a „főispánokat” szöveg és a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^402]
 
-b) 1. mellékletében foglalt táblázat C:1–C:2, C:4–C:7, C:9–C:23 mezőjében a „kormánymegbízott” szövegrész helyébe a „főispán” szöveg,
+b)[^403]
 
-c)[^174]
+c)[^404]
 
 lép.
 
-[^174]: A 181. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^402]: A 181. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^403]: A 181. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^404]: A 181. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

@@ -2,13 +2,14 @@
 
 284. § A Budapesti Agglomerációhoz tartozó Pest megyei településeken működő köznevelési intézmények infrastrukturális fejlesztéseivel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 586/2021. (X. 14.) Korm. rendelet
 
-a)[^244]
+a)[^614]
 
-b) 2. §-ában a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg és a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^615]
 
-c)[^245]
+c)[^616]
 
 lép.
 
-[^244]: A 284. § a) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^245]: A 284. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^614]: A 284. § a) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^615]: A 284. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^616]: A 284. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

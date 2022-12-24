@@ -2,10 +2,11 @@
 
 282. § A Hortobágyi Deportálások Emlékhelye beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 359/2021. (VI. 24.) Korm. rendelet
 
-a) 3. § (1) bekezdésében a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg és a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+a)[^610]
 
-b)[^242]
+b)[^611]
 
 lép.
 
-[^242]: A 282. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^610]: A 282. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^611]: A 282. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

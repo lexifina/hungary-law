@@ -2,12 +2,14 @@
 
 233. § A Dunakeszi Járási Hivatal új irodaépület és kormányablak kialakításával kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 308/2019. (XII. 17.) Korm. rendelet 2. §-ában
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^525]
 
-b) a „kormánymegbízottat” szövegrész helyébe „főispánt” szöveg
+b)[^526]
 
-c)[^212]
+c)[^527]
 
 lép.
 
-[^212]: A 233. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^525]: A 233. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^526]: A 233. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^527]: A 233. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

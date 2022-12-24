@@ -2,12 +2,14 @@
 
 195. § A Kecskemét közigazgatási területén megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 336/2017. (XI. 9.) Korm. rendelet 2. §-ában
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^436]
 
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^437]
 
-c)[^185]
+c)[^438]
 
 lép.
 
-[^185]: A 195. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^436]: A 195. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^437]: A 195. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^438]: A 195. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

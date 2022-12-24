@@ -2,12 +2,14 @@
 
 144. § A Szentes területén élelmiszeripari kapacitásbővítésre irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 403/2016. (XII. 5.) Korm. rendelet 2. §-ában
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^309]
 
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^310]
 
-c)[^145]
+c)[^311]
 
 lép.
 
-[^145]: A 144. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^309]: A 144. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^310]: A 144. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^311]: A 144. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

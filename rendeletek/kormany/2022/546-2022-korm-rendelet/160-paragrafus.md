@@ -2,12 +2,14 @@
 
 160. § A Komárom területén bioüzemanyag-előállító üzem kapacitásbővítésére irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 73/2017. (III. 31.) Korm. rendelet 2. §-ában
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^350]
 
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^351]
 
-c)[^158]
+c)[^352]
 
 lép.
 
-[^158]: A 160. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^350]: A 160. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^351]: A 160. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^352]: A 160. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

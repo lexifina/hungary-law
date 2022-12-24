@@ -2,12 +2,14 @@
 
 138. § A Göd város infrastrukturális fejlesztésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 348/2016. (XI. 17.) Korm. rendelet 2. §-ában
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^293]
 
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^294]
 
-c)[^140]
+c)[^295]
 
 lép.
 
-[^140]: A 138. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^293]: A 138. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^294]: A 138. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^295]: A 138. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

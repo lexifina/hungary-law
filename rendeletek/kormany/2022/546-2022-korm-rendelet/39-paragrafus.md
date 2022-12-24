@@ -2,13 +2,14 @@
 
 39. § A Normafa Park történelmi sportterület megvalósításához szükséges közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 294/2013. (VII. 26.) Korm. rendelet
 
-a) 3. §-ában a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg és a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+a)[^72]
 
-b)[^55]
+b)[^73]
 
-c)[^56]
+c)[^74]
 
 lép.
 
-[^55]: A 39. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^56]: A 39. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^72]: A 39. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^73]: A 39. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^74]: A 39. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

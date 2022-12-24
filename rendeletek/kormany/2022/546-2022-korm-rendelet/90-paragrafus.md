@@ -2,12 +2,14 @@
 
 90. § A CSABA METÁL Zrt. Békéscsabán és Szeghalmon megvalósuló beruházásaival összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 339/2015. (XI. 10.) Korm. rendelet 2. §-ában
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^181]
 
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^182]
 
-c)[^108]
+c)[^183]
 
 lép.
 
-[^108]: A 90. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^181]: A 90. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^182]: A 90. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^183]: A 90. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

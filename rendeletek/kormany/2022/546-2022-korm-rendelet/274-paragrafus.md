@@ -2,12 +2,14 @@
 
 274. § A debreceni velodrom beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 77/2021. (II. 19.) Korm. rendelet 2. §-ában
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^593]
 
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^594]
 
-c)[^236]
+c)[^595]
 
 lép.
 
-[^236]: A 274. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^593]: A 274. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^594]: A 274. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^595]: A 274. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

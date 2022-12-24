@@ -2,13 +2,14 @@
 
 35. § A Szegedi Tudományos Park kialakításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről, valamint egyes kormányrendeletek módosításáról szóló 225/2013. (VI. 24.) Korm. rendelet
 
-a) 2. §-ában a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg és a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+a)[^60]
 
-b)[^47]
+b)[^61]
 
-c)[^48]
+c)[^62]
 
 lép.
 
-[^47]: A 35. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^48]: A 35. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^60]: A 35. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: A 35. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^62]: A 35. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

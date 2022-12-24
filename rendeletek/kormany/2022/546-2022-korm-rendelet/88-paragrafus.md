@@ -2,12 +2,14 @@
 
 88. § A Dispomedicor Zrt. Tiszafüred területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 299/2015. (X. 15.) Korm. rendelet 2. §-ában
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^177]
 
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^178]
 
-c)[^107]
+c)[^179]
 
 lép.
 
-[^107]: A 88. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^177]: A 88. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^178]: A 88. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^179]: A 88. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

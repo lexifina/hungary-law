@@ -2,12 +2,14 @@
 
 150. § A Kecskemét területén autóipari alkatrészgyártó üzem megvalósítására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 14/2017. (I. 24.) Korm. rendelet 2. §-ában
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^322]
 
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^323]
 
-c)[^149]
+c)[^324]
 
 lép.
 
-[^149]: A 150. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^322]: A 150. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^323]: A 150. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^324]: A 150. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

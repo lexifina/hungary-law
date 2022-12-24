@@ -2,10 +2,11 @@
 
 283. § A Recski Nemzeti Emlékpark fejlesztését célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 360/2021. (VI. 24.) Korm. rendelet
 
-a) 3. § (1) bekezdésében a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg és a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+a)[^612]
 
-b)[^243]
+b)[^613]
 
 lép.
 
-[^243]: A 283. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^612]: A 283. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^613]: A 283. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

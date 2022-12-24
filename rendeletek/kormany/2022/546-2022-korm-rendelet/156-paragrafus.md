@@ -2,12 +2,14 @@
 
 156. § Az Eger Déli Iparterület fejlesztésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 64/2017. (III. 20.) Korm. rendelet 2. §-ában
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^340]
 
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^341]
 
-c)[^155]
+c)[^342]
 
 lép.
 
-[^155]: A 156. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^340]: A 156. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^341]: A 156. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^342]: A 156. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

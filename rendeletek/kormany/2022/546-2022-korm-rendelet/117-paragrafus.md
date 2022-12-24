@@ -2,12 +2,14 @@
 
 117. § Az M-FlexiLog Korlátolt Felelősségű Társaság Békéscsaba területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 153/2016. (VI. 13.) Korm. rendelet 2. §-ában
 
-a) a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg,
+a)[^248]
 
-b) a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+b)[^249]
 
-c)[^128]
+c)[^250]
 
 lép.
 
-[^128]: A 117. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^248]: A 117. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^249]: A 117. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^250]: A 117. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

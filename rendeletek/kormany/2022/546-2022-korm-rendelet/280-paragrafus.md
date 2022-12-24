@@ -2,10 +2,11 @@
 
 280. § A Dél-budai Centrumkórház létesítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 262/2021. (V. 20.) Korm. rendelet
 
-a) 2. § (1) bekezdésében a „kormánymegbízottként” szövegrész helyébe a „főispánként” szöveg és a „kormánymegbízottat” szövegrész helyébe a „főispánt” szöveg,
+a)[^605]
 
-b)[^240]
+b)[^606]
 
 lép.
 
-[^240]: A 280. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^605]: A 280. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^606]: A 280. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
