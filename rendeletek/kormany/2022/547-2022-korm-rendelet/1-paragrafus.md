@@ -1,3 +1,3 @@
-1. § A Magyar Nemzeti Bank éves beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 221/2000. (XII. 19.) Korm. rendelet (a továbbiakban: Rendelet) 5. § (8) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(8) Az eredménytartalékba kell helyezni – a Tv. előírásain túlmenően – a jegyzett tőke szintje alá csökkenő saját tőke fedezetére átutalt, a központi költségvetés által az MNB tv. 166. § (3) bekezdése szerint, közvetlenül az eredménytartalék javára megtérített összeget, valamint a részvényes által az eredménytartalék javára nyújtott tőkejuttatást.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
