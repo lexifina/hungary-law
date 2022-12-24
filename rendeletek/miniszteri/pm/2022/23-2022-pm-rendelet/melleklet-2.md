@@ -1,0 +1,15 @@
+## A Rendelet 1. mellékletében foglalt táblázat 4. sora helyébe a következő rendelkezés lép:
+
+|  | (A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
+
+| 1. | Áht. Azonosító | Címnév | Alcímnév | Jogcímcsoport név | Jogcímnév | Előirányzat célja | Kifizetésben részesülők köre | Támogatás biztosításának módja | Támogatási előleg | Rendelkezésre bocsátás módja | Visszafizetés határideje | Biztosíték | Kezelő szerv | Lebonyolító szerv | Európai uniós forrásból finanszírozott költségvetési támogatás közreműködő szervezete) |
+
+## „
+
+| 4. | 367162 |  | A 2007–2013. évek közötti operatív programok visszaforgó pénzeszközeinek felhasználása és kezelése | Az előirányzat fedezetet nyújt 1. a Kecskemét Fejlődéséért Alap előkészítési feladatairól szóló 1154/2016. (III. 25.) Korm. határozatban foglaltak végrehajtására, 2. a 2007–2013. évek közötti operatív programok visszaforgó pénzeszközei terhére hozott Kormánydöntések végrehajtására, 3. a hazai kis- és középvállalkozási szektor – elsősorban középvállalkozások – pénzügyi ismereteinek, önálló külső finanszírozási képességének növelésére, környezettudatos szemléletének növelésére, tőzsdei és nemzetközi piacokon történő jelenlétének erősítésére, valamint nemzetközi hálózatosodásuk elősegítésére az ún. ELITE program hazai implementálásával és felhasználásával, 4. a kis- és középvállalkozások tőzsdei bevezetésének vissza nem térítendő támogatására, 5. az 1–4. pontba nem tartozó egyéb városfejlesztést, kis- és középvállalkozás-fejlesztést szolgáló célok finanszírozására, 6. a gazdasági stratégia megvalósítását segítő, gazdaságfejlesztési célú támogatásokra 7. az 1–6. pontban foglaltak végrehajtásához és a fennálló vagy keletkező követelések kezeléséhez kapcsolódó működési és működtetési költségekre. | helyi önkormányzat, alapkezelő, gazdasági társaság, nonprofit szervezet, kamara, egyetem, közfeladatot ellátó közérdekű vagyonkezelő alapítvány | 1. Egyedi döntés vagy jogszabály alapján, pályázati rendszeren kívül – támogatási szerződéssel vagy támogatói okirattal. 2. Egyedi döntés alapján, pályázat útján – támogatási szerződéssel vagy támogatói okirattal. 3. Ávr. 101/A. §-a alapján támogatói okirattal. 4. Kifizetés visszterhes polgári jogi szerződés alapján is lehetséges. | előleg biztosítható | egyösszegű kifizetéssel, részletekben történő kifizetéssel – időarányosan vagy teljesítésarányosan | a támogatási szerződésben meghatározott határidőig | Biztosíték lehet: a) a kedvez-ményezett valamennyi – jogszabály alapján beszedési megbízással megterhelhető – fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozata, b) zálogjog, c) garancia, d) kezesség, e) óvadék. | a Nemzeti Fejlesztési Ügynökség megszüntetésével összefüggő egyes kérdésekről szóló 475/2013. (XII. 17.) Korm. rendeletben meghatározott feladatkörei ellátásával összefüggésben az MFB Magyar Fejlesztési Bank | igénybe vehető | – |
+
+## ”
+
+2. melléklet a 23/2022. (XII. 23.) PM rendelethez[^10]
+
+[^10]: A 2. melléklet a 10. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
