@@ -2,7 +2,7 @@
 
 5. § (1) Hozzájárulás-köteles a légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) szerinti légi személyszállítási tevékenység.
 
-(2)[^6] A hozzájárulás fizetésére kötelezett az az Lt. szerinti földi kiszolgálást végző gazdálkodó szervezet, amely az utas- és poggyászkezelési tevékenységet látja el.
+(2)[^7] A hozzájárulás fizetésére kötelezett az az Lt. szerinti földi kiszolgálást végző gazdálkodó szervezet, amely az utas- és poggyászkezelési tevékenységet látja el.
 
 (3) A hozzájárulás alapja az (1) bekezdés szerinti légi személyszállítási tevékenység keretében, a (2) bekezdés szerinti földi kiszolgálást végző gazdálkodó szervezet által kiszolgált légi jármű belföldről induló utasainak száma, a tranzit utasokat kivéve.
 
@@ -24,4 +24,4 @@ b) az a) pontban meghatározottakon kívüli országokba végső úti céllal re
 
 (10) A hozzájárulásból származó bevétel az államháztartás központi alrendszerének bevétele.
 
-[^6]: Az 5. § (2) bekezdése a 257/2022. (VII. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^7]: Az 5. § (2) bekezdése a 257/2022. (VII. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
