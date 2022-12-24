@@ -14,7 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 2. mellékletében foglalt táblázat D:43b mezőjében a „3,37” szövegrész helyébe a „3,42” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1663/2022. (XII. 22.) Korm. határozathoz
 
@@ -23,3 +23,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás/ összköltség (bruttó, forint) | Hatályos támogatási összeg (bruttó, forint) | Hatályos összköltség (bruttó, forint) | EFOP 2. prioritás terhére történő többletforrás legfeljebb (bruttó, forint) | Projekt megnövelt támogatási összege legfeljebb (bruttó, forint) | Projekt megnövelt összköltsége legfeljebb (bruttó, forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-2.2.0-16-2016-00005 | Pszichiátriai ellátórendszer strukturált fejlesztése – szakellátások minőségének és hozzáférésének javítása | Országos Kórházi Főigazgatóság | 2 300 000 000 | 3 363 080 349 | 3 818 501 709 | 50 746 185 | 3 413 826 534 | 3 869 247 894 | A Projekt célja a pszichiátria és addiktológiai szakellátások minőségének, valamint az azokhoz való hozzáférés javítása és ezáltal a lakosság mentális egészségi állapotának fejlesztése, összhangban az Egészséges Magyarország 2014−2020 egészségügyi ágazati stratégia célkitűzéseivel. Speciális célok továbbá: pszichiátriai és addiktológiai betegek lakossághoz közeli egészségügyi ellátásához való hozzáférésének javítása, a pszichiátriai és addiktológiai fekvőbeteg szakellátás lehetséges lerövidítése, kiváltása, a gondozóintézeti gondozás ellátási minőségének és hatékonyságának javítása, valamint a humán kompetenciák fejlesztése. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
