@@ -1,3 +1,3 @@
-1. § A kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának részletes szabályairól szóló 9/2017. (VIII. 3.) KKM rendelet [a továbbiakban: 9/2017. (VIII. 3.) KKM rendelet] a következő 1/A. §-sal egészül ki:
+1. §[^2]
 
-„1/A. § A kulturális diplomata, valamint a kulturális intézet működéséhez kapcsolódó feladatokat ellátó, adminisztratív vagy technikai külszolgálati munkakörbe kihelyezett kormánytisztviselő esetében a külképviselet-vezető e rendeletben meghatározott jogköreit a kulturális intézetigazgató gyakorolja.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
