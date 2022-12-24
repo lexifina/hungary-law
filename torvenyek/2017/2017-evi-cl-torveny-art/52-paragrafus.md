@@ -24,6 +24,6 @@ g) az adózó az Európai Unió más tagállamában illetőséggel bíró gazdas
 
 (4) A bevallással még le nem fedett időszakról soron kívüli adóbevallást tesz
 
-a) a csoportos általános forgalmi adóalanyiságot, illetve a csoporthoz csatlakozást engedélyező határozat véglegessé válásától számított harminc napon belül a csoporttag az általános forgalmi adójáról,
+a) a csoportos általános forgalmi adóalanyiság létrejöttétől, illetve a csoporthoz csatlakozástól számított harminc napon belül a csoporttag az általános forgalmi adójáról,
 
 b) a csoportazonosító szám törlése esetén, a csoportképviselő – a törlő határozat véglegessé válásától számított harminc napon belül – a csoport általános forgalmi adójáról.
