@@ -1,0 +1,1 @@
+4. § Az Mt. 53. § (1) és (2) bekezdését az R. 4. §-a alapján elrendelt felszámolási eljárásban azzal az eltéréssel kell alkalmazni, hogy a munkáltató a felszámolási eljárás befejezéséig jogosult a munkavállalót más munkáltatónál foglalkoztatni.

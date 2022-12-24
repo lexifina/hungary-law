@@ -1,0 +1,3 @@
+2. § (1) A Btv. 3. §-át és 6. § (2) bekezdését az R. 4. §-a alapján elrendelt felszámolási eljárással összefüggésben benyújtott támogatás iránti kérelem vonatkozásában azzal az eltéréssel kell alkalmazni, hogy az ideiglenes vagyonfelügyelő, illetve a felszámoló a támogatás iránti kérelmeket összevont – egyösszegű – kérelemként (a továbbiakban: összevont támogatás iránti kérelem), elektronikus úton az e célra rendszeresített informatikai rendszer mellőzésével is benyújthatja az állami foglalkoztatási szervhez
+
+(2) Az összevont támogatás iránti kérelemben a kérelemmel érintett munkavállalók adatait nem kell feltüntetni.
