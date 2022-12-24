@@ -1,3 +1,5 @@
-2. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^79]
+2. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^80]
 
-[^79]: A 2. mellékletet a 140/2019. (VI. 14.) Korm. rendelet 4. §-a iktatta be.
+A bérkompenzáció fajlagos összegei
+
+[^80]: A 2. mellékletet a 140/2019. (VI. 14.) Korm. rendelet 4. §-a iktatta be.

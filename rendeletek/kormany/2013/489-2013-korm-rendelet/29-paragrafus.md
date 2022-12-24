@@ -14,13 +14,15 @@ a) 2019. január–június hónapokra jutó időarányos részét 2019 júliusá
 
 b) 2019. július–december hónapokra jutó időarányos részét havonta, havi egyenlő részletekben,
 
-## hivatalból, erre irányuló külön határozat meghozatala nélkül folyósítja, kivéve, ha a bérkompenzációról a fenntartó az igazgatósághoz intézett írásbeli nyilatkozatával lemondott.
+hivatalból, erre irányuló külön határozat meghozatala nélkül folyósítja, kivéve, ha a bérkompenzációról a fenntartó az igazgatósághoz intézett írásbeli nyilatkozatával lemondott.
 
 (6) A bérkompenzáció
 
 a)[^55] felhasználására a jogosultság alapjául szolgáló támogatásra vonatkozó, a Kvtv2. 2. és 8. mellékletében meghatározott szabályokat,
 
 b) elszámolására, ellenőrzésére és visszafizetésére e rendelet szabályait
+
+kell alkalmazni.
 
 [^52]: A 9/A. alcímet a 140/2019. (VI. 14.) Korm. rendelet 2. §-a iktatta be.
 [^53]: A 29. §-t a 419/2015. (XII. 23.) Korm. rendelet 48. § c) pontja hatályon kívül helyezte, újonnan a 140/2019. (VI. 14.) Korm. rendelet 2. §-a iktatta be.

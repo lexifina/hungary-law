@@ -1,10 +1,10 @@
-38. §[^76] (1)[^77] A Kvtv3. 41. § (1) bekezdés a) pontja, valamint 2. melléklet III. pont 3. alpont a) pontja alapján bölcsőde, mini bölcsőde támogatása jogcímen 2020. április 1-jén vagy azt követően támogatásban részesülő fenntartót – ha a támogatás biztosításának Kvtv3. szerinti egyéb feltételei az e szakasz szerinti támogatás folyósításának időpontjában is fennállnak – a bölcsőde, mini bölcsőde támogatása jogcímen finanszírozott létszámként figyelembe vett
+38. §[^77] (1)[^78] A Kvtv3. 41. § (1) bekezdés a) pontja, valamint 2. melléklet III. pont 3. alpont a) pontja alapján bölcsőde, mini bölcsőde támogatása jogcímen 2020. április 1-jén vagy azt követően támogatásban részesülő fenntartót – ha a támogatás biztosításának Kvtv3. szerinti egyéb feltételei az e szakasz szerinti támogatás folyósításának időpontjában is fennállnak – a bölcsőde, mini bölcsőde támogatása jogcímen finanszírozott létszámként figyelembe vett
 
 a) felsőfokú végzettségű kisgyermeknevelők és szaktanácsadók után 66 000 forint/számított létszám/év,
 
 b) a bölcsődei dajkák, középfokú végzettségű kisgyermeknevelők és szaktanácsadók után 486 000 forint/számított létszám/év
 
-## kiegészítő támogatás (a továbbiakban együtt: bölcsődei kiegészítő támogatás) illeti meg. Ha a bölcsődei, mini bölcsődei ellátást nem egész évben nyújtják, a támogatás a működés megkezdését követő hónap első napjától, illetve a megszűnés hónapjának utolsó napjáig időarányosan jár.
+kiegészítő támogatás (a továbbiakban együtt: bölcsődei kiegészítő támogatás) illeti meg. Ha a bölcsődei, mini bölcsődei ellátást nem egész évben nyújtják, a támogatás a működés megkezdését követő hónap első napjától, illetve a megszűnés hónapjának utolsó napjáig időarányosan jár.
 
 (2) Az igazgatóság a bölcsődei kiegészítő támogatást a fenntartó a 2020. évi működési támogatását megállapító határozatban vagy – ha azt már e rendelet hatálybalépése előtt meghozták – 2020. május 15-éig, hivatalból állapítja meg, kivéve, ha a fenntartó a bölcsődei kiegészítő támogatásról az igazgatósághoz intézett írásbeli nyilatkozatával lemondott.
 
@@ -14,7 +14,7 @@ a) 2020. január – 2020. június hónapokra járó összegét 2020 júniusába
 
 b) 2020. július – 2020. december hónapokra havonta járó összegét havonta,
 
-## a 2020. évi támogatások folyósításával egyidejűleg folyósítja.
+a 2020. évi támogatások folyósításával egyidejűleg folyósítja.
 
 (4) A minisztérium a bölcsődei kiegészítő támogatás forrását a 14. § (1) bekezdésében meghatározottak szerint biztosítja az igazgatóságok részére.
 
@@ -24,5 +24,5 @@ b) 2020. július – 2020. december hónapokra havonta járó összegét havonta
 
 (7) A bölcsődei kiegészítő támogatás után a Kvtv3. 41. § (2) bekezdése szerinti támogatás nem vehető igénybe.
 
-[^76]: A 38. §-t az 55/2020. (III. 20.) Korm. rendelet 1. §-a iktatta be.
-[^77]: A 38. § (1) bekezdése a 309/2020. (VI. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^77]: A 38. §-t az 55/2020. (III. 20.) Korm. rendelet 1. §-a iktatta be.
+[^78]: A 38. § (1) bekezdése a 309/2020. (VI. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.

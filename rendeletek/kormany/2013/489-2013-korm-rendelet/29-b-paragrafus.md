@@ -16,7 +16,7 @@ a) 2020. január–július hónapokra jutó időarányos részét 2020 júliusá
 
 b) 2020. augusztus–december hónapokra jutó időarányos részét havonta, havi egyenlő részletekben
 
-## folyósítja.
+folyósítja.
 
 (7) A miniszter a 2020. évi bérkompenzáció július havi forrását 2020. július 8-áig biztosítja az igazgatóságok részére.
 
@@ -25,5 +25,7 @@ b) 2020. augusztus–december hónapokra jutó időarányos részét havonta, ha
 a) felhasználására a jogosultság alapjául szolgáló támogatásra vonatkozó, a Kvtv3. 2. és 8. mellékletében meghatározott szabályokat,
 
 b) elszámolására, ellenőrzésére és visszafizetésére e rendelet szabályait
+
+kell alkalmazni.
 
 [^57]: A 9/C. alcímet (29/B. §) a 309/2020. (VI. 30.) Korm. rendelet 3. §-a iktatta be.

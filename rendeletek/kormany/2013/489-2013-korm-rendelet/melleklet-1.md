@@ -1,6 +1,6 @@
 1. melléklet a 489/2013. (XII. 18.) Korm. rendelethez
 
-## A támogatás iránti kérelem, a kérelem módosítása, a pótigény, a lemondás és az elszámolás benyújtására szolgáló adatlapok és elektronikus formanyomtatványok kötelező adattartalma
+A támogatás iránti kérelem, a kérelem módosítása, a pótigény, a lemondás és az elszámolás benyújtására szolgáló adatlapok és elektronikus formanyomtatványok kötelező adattartalma
 
 1. A fenntartóval és a szolgáltatóval kapcsolatos adatok:
 

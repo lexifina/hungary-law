@@ -1,5 +1,3 @@
-## A 2020. évi bérkompenzáció fajlagos összegei
-
 |  | A | B |
 
 | 1. | Kvtv3. 2. és 8. melléklete szerinti jogcímek | Kiegészítő támogatás összege/év |
@@ -50,7 +48,7 @@
 
 | 24. | 8. melléklet II. fejezetében meghatározott mesterfokozatú végzettségű mesterpedagógus vagy kutatótanár kategóriába sorolt pedagógusok kiegészítő támogatása | 103 000 forint/fő/év |
 
-4. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^81]
+4. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^82]
 
 A 2022. évi bérkompenzáció fajlagos összegei
 
@@ -146,4 +144,4 @@ A 2022. évi bérkompenzáció fajlagos összegei
 
 | 45. | 9. melléklet 5.1. Biztos Kezdet Gyerekház fenntartóját megillető költségvetési támogatás | 1 083 000 forint/Gyerekház |
 
-[^81]: A 4. mellékletet a 11/2022. (I. 14.) Korm. rendelet 2. §-a iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 137. § c) pontja szerint módosított szöveg.
+[^82]: A 4. mellékletet a 11/2022. (I. 14.) Korm. rendelet 2. §-a iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 137. § c) pontja szerint módosított szöveg.
