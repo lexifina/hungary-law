@@ -44,7 +44,7 @@ j) a Tao. tv. 24/B. § (1) bekezdése szerinti jóváírásra tekintettel az ad�
 
 k) a kisajátítás, valamint a kisajátítási tervben szereplő ingatlanra megkötött adásvétel során kapott ellenérték és az érintett eszköz könyv szerinti értéke közötti pozitív különbözet az adózás előtti eredményben való megjelenése adóévében,
 
-l) az adózó választása szerint az elektromos töltőállomás bekerülési érték, de legfeljebb az elektromos töltőállomás bekerülési értéke és az elektromos töltőállomás által a beruházás befejezésének adóévét követő 3 éves időszak alatt elért (elérhető), az adózó bekerüléskori becslése szerinti, az elektromos töltőállomás pozitív működési eredménye közötti különbözet összege, a beruházás befejezésének adóévében, figyelemmel a (13)–(17) bekezdésekre.
+l) az adózó választása szerint az elektromos töltőállomás bekerülési értéke a beruházás befejezésének adóévében, figyelemmel a (14)–(16) bekezdésekre.
 
 m) a korábbi adóévek negatív adóalapjából – a (18) és (19) bekezdésben foglaltakat figyelembe véve – az adózó döntése szerinti összeg.
 
@@ -66,15 +66,15 @@ m) a korábbi adóévek negatív adóalapjából – a (18) és (19) bekezdésbe
 
 (12) Abban az esetben, ha a részesedés nyilvántartásból történő kivezetése újabb kedvezményezett átalakulás vagy kedvezményezett részesedéscsere következtében történő részesedésszerzés miatt következik be, az adózónak nem kell a (2) bekezdés d) és e) pontjában foglaltakat alkalmaznia. Az utóbbi részesedés szerzésére tekintettel adózás előtti eredmény csökkentésként számításba vett összegként kell azonban figyelembe vennie a korábbi kedvezményezett átalakulás vagy kedvezményezett részesedéscsere alapján érvényesített adózás előtti eredménycsökkentésből azt a részt, amelyet növelésként még nem vett számításba.
 
-(13) Amennyiben a (3) bekezdés l) pontja szerinti csökkentés összege meghaladja az elektromos töltőállomás bekerülési értéke és az elektromos töltőállomás által a beruházás befejezésének adóévét követő 3 éves időszak alatt ténylegesen elért pozitív működési eredmény különbözetének összegét, a (3) bekezdés l) pontja szerinti, az adózás előtti eredmény csökkentéseként elszámolt összeg az állami adó- és vámhatósághoz benyújtott önellenőrzéssel pótlékmentesen módosítható.
+(13)
 
-(14) Az adóalany a (3) bekezdés l) pontjának alkalmazása során az elektromos töltőállomás bekerülési értékeként veheti figyelembe a Tao. tv. 4. § 23. pontja szerinti kapcsolt vállalkozása által a Tao. tv. 7. § (1) bekezdés l) pontja szerint nem érvényesített összeget, amennyiben az adóbevallás benyújtásáig rendelkezik az érintett kapcsolt vállalkozása írásos nyilatkozatával, amely szerint a kapcsolt vállalkozás a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezményt nem érvényesíti, és amely tartalmazza a beruházás befejezésének adóévét követő 3 éves időszak alatt az elektromos töltőállomás által elért üzemi eredményről.
+(14) Az adóalany a (3) bekezdés l) pontjának alkalmazása során az elektromos töltőállomás bekerülési értékeként veheti figyelembe a Tao. tv. 4. § 23. pontja szerinti kapcsolt vállalkozása által a Tao. tv. 7. § (1) bekezdés l) pontja szerint nem érvényesített összeget, amennyiben az adóbevallás benyújtásáig rendelkezik az érintett kapcsolt vállalkozása írásos nyilatkozatával, amely szerint a kapcsolt vállalkozás a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezményt nem érvényesíti.
 
-(15) A (3) bekezdés l) pontjában meghatározott kedvezmény a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26. 1–78. o.) I. és II. fejezete és 56. cikke hatálya alá tartozó támogatásnak minősül.
+(15) A (3) bekezdés l) pontja szerinti összeg 7. § (1) bekezdés szerinti adókulccsal számított értéke az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül, amely az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló 2013. december 18-i 1407/2013/EU bizottsági rendelet szabályaival összhangban nyújtható.
 
 (16) A (3) bekezdés l) pontja szerinti kedvezmény és a Tao. tv. 7. § (1) bekezdés l) pontja szerinti kedvezmény nem érvényesíthető ugyanazon elektromos töltőállomás bekerülési értéke alapján.
 
-(17) A (3) bekezdés l) pontja szerint elektromos töltőállomásonként érvényesített összeg 7. § (1) bekezdése szerinti adókulccsal számított értéke nem lehet több 20 millió eurónak a 7. § (1) bekezdése szerinti adókulccsal számított értékének megfelelő forintösszegnél.
+(17)
 
 (18) Amennyiben az (1) bekezdés szerinti adóalap bármely adóévben negatív, ezzel az összeggel az adózó a következő öt adóévben döntése szerinti megosztásban csökkentheti az (1) bekezdés szerinti pozitív adóalapot, feltéve, hogy a negatív adóalap a rendeltetésszerű joggyakorlás elvének betartásával keletkezett. A korábbi adóévek negatív adóalapja legfeljebb a felhasználása (az adózás előtti eredmény csökkentéseként történő elszámolása) nélkül számított adóévi adóalap 50 százalékáig számolható el az adózás előtti eredmény csökkentéseként.
 
