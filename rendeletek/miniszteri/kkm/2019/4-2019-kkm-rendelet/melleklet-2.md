@@ -38,8 +38,8 @@
 
 | 14 | 394117 |  | Hungary Helps Ügynökség Nonprofit Zrt. szakmai feladatainak ellátása | Az előirányzat fedezetet biztosít a Hungary Helps Zrt. szakmai feladatainak ellátására. A költségvetési támogatás a támogatási igény benyújtásakor már megkezdett vagy megvalósult tevékenységre is nyújtható. | Hungary Helps Zrt. | pályázati rendszeren kívül kérelemre hozott egyedi döntés alapján, támogatási szerződéssel | biztosítható | egy összegben vagy részletekben, időarányos vagy teljesítésarányos kifizetéssel | támogatási szerződés szerint | Ávr. 84. § (2) bekezdése alapján, a költségvetési támogatás összegét meghaladó biztosítéki értékig vagy összeghatár megjelölése nélkül |  |  |  |
 
-2. melléklet a 4/2019. (VI. 14.) KKM rendelethez[^50]
+2. melléklet a 4/2019. (VI. 14.) KKM rendelethez[^77]
 
 A XLVII. Gazdaság-újraindítási Alap fejezet 2022. évi költségvetési kiadási előirányzatainak feladatterve a külügyi fejezeti kezelésű előirányzatokra vonatkozóan
 
-[^50]: A 2. melléklet a 3/2021. (II. 5.) KKM rendelet 4. § b) pontjával megállapított, a 3/2022. (II. 22.) KKM rendelet 3. § k)–l) pontja és 4. § b) pontja, a 11/2022. (IX. 12.) KKM rendelet 5. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^77]: A 2. melléklet a 3/2021. (II. 5.) KKM rendelet 4. § b) pontjával megállapított, a 3/2022. (II. 22.) KKM rendelet 3. § k)–l) pontja és 4. § b) pontja, a 11/2022. (IX. 12.) KKM rendelet 5. § (1) bekezdés b) pontja, a 26/2022. (XII. 23.) KKM rendelet 14. § (1) bekezdés a) pontja szerint módosított szöveg.

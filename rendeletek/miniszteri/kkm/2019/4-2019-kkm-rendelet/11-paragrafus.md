@@ -1,4 +1,4 @@
-11. §[^21] E rendelet 11–40/J. §-a alkalmazásában:
+11. §[^27] E rendelet 11–40/J. §-a alkalmazásában:
 
 1. acélipar: a 651/2014/EU bizottsági rendelet 2. cikk 43. pontja szerinti ipar,
 
@@ -12,7 +12,7 @@
 
 6. bioüzemanyag: a 651/2014/EU bizottsági rendelet 2. cikk 111. pontja szerinti üzemanyag,
 
-6a.[^22] dedikált infrastruktúra: olyan infrastruktúra, amely ex-ante módon meghatározhatóan az érintett vállalkozás igényeihez igazítottan jön létre,
+6a.[^28] dedikált infrastruktúra: olyan infrastruktúra, amely ex-ante módon meghatározhatóan az érintett vállalkozás igényeihez igazítottan jön létre,
 
 7. elsődleges mezőgazdasági termelés: a 702/2014/EU bizottsági rendelet 2. cikk (5) bekezdése szerinti tevékenység,
 
@@ -24,7 +24,7 @@
 
 11. független harmadik fél: olyan vállalkozás, amely nem minősül egy másik meghatározott vállalkozás vonatkozásában a 651/2014/EU bizottsági rendelet I. melléklet 3. cikk (2) bekezdése szerinti partnervállalkozásnak vagy (3) bekezdése szerinti kapcsolt vállalkozásnak,
 
-11a.[^23] határon átnyúló együttműködésben érintett és a világjárvány miatt nehéz helyzetbe került magyar vállalkozások: azon Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező vállalkozások, melyek tevékenységük során határon átnyúló együttműködésben is érintettek és tevékenységük, illetve az általuk megvalósítani tervezett beruházások a világjárvány miatt veszélybe kerültek,
+11a.[^29] határon átnyúló együttműködésben érintett és a világjárvány miatt nehéz helyzetbe került magyar vállalkozások: azon Magyarországon székhellyel, telephellyel vagy fiókteleppel rendelkező vállalkozások, melyek tevékenységük során határon átnyúló együttműködésben is érintettek és tevékenységük, illetve az általuk megvalósítani tervezett beruházások a világjárvány miatt veszélybe kerültek,
 
 12. immateriális javak: a 651/2014/EU bizottsági rendelet 2. cikk 30. pontja szerinti javak,
 
@@ -38,7 +38,7 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 15. ipari kutatás: a 651/2014/EU bizottsági rendelet 2. cikk 85. pontja szerinti tervezett kutatás vagy kritikus vizsgálat,
 
-15a.[^24] kikötői infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 157. pontja szerinti infrastruktúra,
+15a.[^30] kikötői infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 157. pontja szerinti infrastruktúra,
 
 16. kis- és középvállalkozás: a 651/2014/EU bizottsági rendelet I. melléklete szerint meghatározott vállalkozás,
 
@@ -76,7 +76,7 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 33. növénykárosító: a 702/2014/EU bizottsági rendelet 2. cikk (18) bekezdése szerinti kártevő,
 
-33a.[^25] repülőtéri infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 144. pontja szerinti infrastruktúra,
+33a.[^31] repülőtéri infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 144. pontja szerinti infrastruktúra,
 
 34. saját forrás: a kedvezményezett által a beruházáshoz igénybe vett, állami forrásnak nem minősülő forrás,
 
@@ -98,8 +98,8 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 43. új gazdasági tevékenység végzésére irányuló induló beruházás: az a tárgyi eszközök vagy immateriális javak beszerzésére irányuló beruházás, amely új létesítmény létrehozatalát vagy meglévő létesítmény tevékenységének olyan új tevékenységgel történő bővítését eredményezi, amely nem minősül a korábban végzett tevékenységgel azonos vagy hasonló tevékenységnek, valamint az olyan létesítmény eszközeinek független harmadik fél beruházó általi felvásárlása is, amely létesítmény bezárásra került vagy bezárásra került volna, feltéve, hogy az új vagy a megvásárolt eszközökkel végzett tevékenység nem minősül az adott létesítményben a korábban végzett tevékenységgel azonos, vagy ahhoz hasonló tevékenységnek.
 
-[^21]: A 11. § nyitó szövegrésze a 11/2022. (IX. 12.) KKM rendelet 6. § d) pontja szerint módosított szöveg.
-[^22]: A 11. § 6a. pontját a 11/2022. (IX. 12.) KKM rendelet 2. § (1) bekezdése iktatta be.
-[^23]: A 11. § 11a. pontját a 8/2020. (VI. 12.) KKM rendelet 2. §-a iktatta be.
-[^24]: A 11. § 15a. pontját a 11/2022. (IX. 12.) KKM rendelet 2. § (2) bekezdése iktatta be.
-[^25]: A 11. § 33a. pontját a 11/2022. (IX. 12.) KKM rendelet 2. § (3) bekezdése iktatta be.
+[^27]: A 11. § nyitó szövegrésze a 11/2022. (IX. 12.) KKM rendelet 6. § d) pontja szerint módosított szöveg.
+[^28]: A 11. § 6a. pontját a 11/2022. (IX. 12.) KKM rendelet 2. § (1) bekezdése iktatta be.
+[^29]: A 11. § 11a. pontját a 8/2020. (VI. 12.) KKM rendelet 2. §-a iktatta be.
+[^30]: A 11. § 15a. pontját a 11/2022. (IX. 12.) KKM rendelet 2. § (2) bekezdése iktatta be.
+[^31]: A 11. § 33a. pontját a 11/2022. (IX. 12.) KKM rendelet 2. § (3) bekezdése iktatta be.

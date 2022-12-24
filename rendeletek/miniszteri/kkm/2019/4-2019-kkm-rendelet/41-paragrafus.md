@@ -1,4 +1,4 @@
-## 41. §[^42] A miniszter feladat- és hatáskörébe tartozó, a kereskedelemfejlesztéssel, illetve a közép-európai területi fókuszú kereskedelmi és regionális gazdaságfejlesztéssel összefüggő feladatainak körében az alább felsorolt feladatokat:
+## 41. §[^63] A miniszter feladat- és hatáskörébe tartozó, a kereskedelemfejlesztéssel, illetve a közép-európai területi fókuszú kereskedelmi és regionális gazdaságfejlesztéssel összefüggő feladatainak körében az alább felsorolt feladatokat:
 
 1. a miniszter segítése a külgazdasági tevékenység ellátásában,
 
@@ -80,13 +80,13 @@
 
 40. a határon túli gazdaságfejlesztési programok lebonyolításában és ellenőrzésében való közreműködés,
 
-40a. [^43] a külkereskedelmi szakemberképzés kialakítása és a képzési program koordinálása által a hazai vállalatok exportpiaci sikerességének támogatása,
+40a. [^64] a külkereskedelmi szakemberképzés kialakítása és a képzési program koordinálása által a hazai vállalatok exportpiaci sikerességének támogatása,
 
-40b. [^44] a miniszter szakmai irányítása és felügyelete mellett a Magyar Állam tulajdonában álló Airbus A330-243F típusú szállítógép (MSN1578) hasznosításával összefüggő feladatok ellátása,
+40b. [^65] a miniszter szakmai irányítása és felügyelete mellett a Magyar Állam tulajdonában álló Airbus A330-243F típusú szállítógép (MSN1578) hasznosításával összefüggő feladatok ellátása,
 
-41. [^45] külgazdasági támogatási programok, különösen a Külpiaci Növekedési Támogatási Program végrehajtásának szakmai támogató szervként történő segítése, valamint a miniszter által meghatározott egyéb feladatok végrehajtása
+41. [^66] külgazdasági támogatási programok, különösen a Külpiaci Növekedési Támogatási Program végrehajtásának szakmai támogató szervként történő segítése, valamint a miniszter által meghatározott egyéb feladatok végrehajtása
 
-[^42]: A 41. § záró szövegrésze a 8/2019. (XII. 18.) KKM rendelet 1. § b) pontja szerint módosított szöveg.
-[^43]: A 41. § 40a. pontját a 3/2022. (II. 22.) KKM rendelet 2. §-a iktatta be.
-[^44]: A 41. § 40b. pontját a 3/2022. (II. 22.) KKM rendelet 2. §-a iktatta be.
-[^45]: A 41. § 41. pontja a 31/2021. (VIII. 31.) KKM rendelet 33. §-ával megállapított szöveg.
+[^63]: A 41. § záró szövegrésze a 8/2019. (XII. 18.) KKM rendelet 1. § b) pontja szerint módosított szöveg.
+[^64]: A 41. § 40a. pontját a 3/2022. (II. 22.) KKM rendelet 2. §-a iktatta be.
+[^65]: A 41. § 40b. pontját a 3/2022. (II. 22.) KKM rendelet 2. §-a iktatta be.
+[^66]: A 41. § 41. pontja a 31/2021. (VIII. 31.) KKM rendelet 33. §-ával megállapított szöveg.

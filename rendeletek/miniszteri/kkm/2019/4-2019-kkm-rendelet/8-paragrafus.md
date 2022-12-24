@@ -1,0 +1,3 @@
+8. §[^23] E rendelet alapján regionális beruházási támogatás esetén 2023. december 31-ig, mezőgazdasági termékek feldolgozásával és a mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás és elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás esetén 2023. június 30-ig, mezőgazdasági csekély összegű támogatás esetén 2028. június 30-ig, csekély összegű támogatás, a – regionális beruházási támogatás kivételével – 651/2014/EU bizottsági rendelet szerinti támogatás esetén 2024. június 30-ig lehet támogatási döntést hozni.
+
+[^23]: A 8. § a 26/2022. (XII. 23.) KKM rendelet 5. §-ával megállapított szöveg.
