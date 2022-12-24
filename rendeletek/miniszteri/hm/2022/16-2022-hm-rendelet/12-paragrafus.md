@@ -1,1 +1,3 @@
-12. § Az R3. 26. § (4) bekezdésében a „Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ)” szövegrész helyébe a „KNBSZ” szöveg lép.
+12. §[^13]
+
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
