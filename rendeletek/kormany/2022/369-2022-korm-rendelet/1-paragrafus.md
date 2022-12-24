@@ -12,4 +12,6 @@ c) ha a b) pont szerinti szabadság nem elegendő, a 2023. évben esedékes szab
 
 (4) A (3) bekezdés és a 3. § (1) bekezdése nem alkalmazandó azokra a napokra, amikor a foglalkoztatott a jogviszonyára irányadó jogszabály alapján mentesül a rendelkezésre állási, illetve a munkavégzési kötelezettség alól.
 
-(5) Ha a foglalkoztatott jogviszonya az igazgatási szünet alatt szűnik meg, és a foglalkoztatott nem rendelkezik igénybe vehető szabadsággal az igazgatási szünet időtartamára vonatkozóan, a foglalkoztatott mentesül a rendelkezésre állási, valamint a munkavégzési kötelezettség teljesítése alól, azzal, hogy a mentesülés időtartamára a foglalkoztatott az illetményével megegyező összegű díjazásra – külön megállapodás nélkül – jogosult.
+(5)[^2] Ha a foglalkoztatott jogviszonya az igazgatási szünet alatt, vagy az igazgatási szünet előtt megtett jognyilatkozat alapján az igazgatási szünetet követően szűnik meg, és a foglalkoztatott nem rendelkezik elegendő kiadható szabadsággal az igazgatási szünet időtartamára vonatkozóan, a foglalkoztatott a szabadságként ki nem adható munkanapok tekintetében mentesül a rendelkezésre állási, valamint a munkavégzési kötelezettség teljesítése alól azzal, hogy a mentesülés időtartamára az illetményével megegyező összegű díjazásra – külön megállapodás nélkül – jogosult.
+
+[^2]: Az 1. § (5) bekezdése az 565/2022. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
