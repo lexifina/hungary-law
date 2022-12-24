@@ -1,1 +1,3 @@
-2. § Hatályát veszti a közszolgálati médiaszolgáltatások digitális vételének biztosítása érdekében adható állami támogatás és az azzal összefüggő adatszolgáltatás, adatkezelés rendjéről szóló 4/2013. (I. 18.) NMHH rendelet.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
