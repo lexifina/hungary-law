@@ -1,0 +1,1 @@
+16. § A miniszter a 8. § (1) bekezdésében és 12. § (1) bekezdésében meghatározott feladata ellátása során megkereséssel fordulhat bármely állami szervhez, amely a megkeresést 5 napon belül köteles teljesíteni.
