@@ -1,3 +1,3 @@
-1. § A diplomáciai vagy a nemzetközi jogon alapuló egyéb kiváltságot és mentességet élvező személyek be- és kiutazása, magyarországi tartózkodása egyes szabályainak megállapításáról szóló 23/2001. (XII. 27.) KüM rendelet 2. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„2. § Az e rendelet hatálya alá tartozó külföldi Magyarországra – ha nemzetközi szerződés másként nem rendelkezik – a külpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) vagy Magyarország diplomáciai vagy konzuli képviselete (a továbbiakban: külképviselet) által kiadott vízummal utazhat be, illetve a minisztérium által kiadott tartózkodási engedéllyel tartózkodhat Magyarországon.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
