@@ -1,14 +1,23 @@
-34. § (1)[^73] A 33/A. § (1) bekezdése szerinti eseteket kivéve a 4. melléklet 4. sorában meghatározott szervezet a sportesemény rendezési jogának elnyerése esetén támogatási kérelmet nyújthat be – legkésőbb a sportesemény időpontját megelőző év március 1-jéig – a miniszter részére. A támogatási kérelmet a 6. melléklet szerinti nyomtatvány alkalmazásával kell postai és elektronikus úton megküldeni.
+34. § A sportiskolák részére nyújtott költségvetési támogatás a következő célokra fordítható:
 
-(2) A miniszter – egyedi kérelemre – a 32. § (1) bekezdése szerinti sportesemény esetén eltekinthet a regisztrációs kérelem benyújtásától, és a támogatási kérelem az (1) bekezdés szerinti határidőt követően is benyújtható, ha:
+a) a köznevelési típusú sportiskolákban használandó, sportszövetségi jóváhagyással rendelkező sportági tantervek elkészítése,
 
-a) a sportesemény rendezési jogára vonatkozó pályázat az (1) bekezdés szerinti határidő lejártát követően kerül kiírásra,
+b) a sportági sportnevelési modultantervek nyomtatott és elektronikus formában történő kiadása,
 
-b) az adott nemzetközi szövetség előzetes írásbeli egyeztetést követően a sportesemény megrendezésére kéri fel a 4. melléklet 4. sorában meghatározott szervezetet, vagy
+c) a sportági tantervekhez kapcsolódó módszertani kézikönyvek nyomtatott és elektronikus formában történő kiadása,
 
-c) a sportesemény kiemelkedő sportszakmai jelentőségű.
+d) a sportiskolai rendszer köznevelési intézménytípusaiban alkalmazandó sportpedagógiai és sportpszichológiai koncepció kidolgozása,
 
-(3)[^74] Ha az évenként megrendezendő Világkupa rendezési jogára vonatkozóan pályázat nem kerül kiírásra, a sportszövetségnek kizárólag a 6. melléklet szerinti támogatási kérelmet kell postai és elektronikus úton megküldenie a minisztérium részére a sportrendezvény időpontját megelőző év március 1-jéig.
+e) kiemelt és modelliskolák (referenciaiskolák), valamint a rendszerbe folyamatosan bekapcsolódó intézmények és szakmai műhelyek munkája,
 
-[^73]: A 34. § (1) bekezdése a 282/2018. (XII. 21.) Korm. rendelet 6. §-ával megállapított, a 472/2020. (X. 29.) Korm. rendelet 18. § (1) bekezdés h) pontja és 19. § a) pontja, az 565/2020. (XII. 8.) Korm. rendelet 27. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^74]: A 34. § (3) bekezdése a 472/2020. (X. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+f) a sportiskolai kerettanterv megvalósításához kapcsolódó versenyeztetéssel, edzőtáboroztatással kapcsolatos költségek támogatása,
+
+g) a sportiskolai kerettanterv megvalósításában közreműködő pedagógusok programmal kapcsolatos többletfeladatainak – a számvitelről szóló törvény szerinti – bérköltsége, bérrel kapcsolatos munkaadót terhelő járulékai,
+
+h) a sportiskolai kerettanterv megvalósítását segítő eszközbeszerzés,
+
+i) egyéb, a sportiskolai programhoz közvetlenül kapcsolódó feladatok,
+
+j) egységes informatikai rendszer működtetése, fejlesztése, valamint
+
+k) egyesületi jellegű sportiskolák szakmai feladatainak ellátása.

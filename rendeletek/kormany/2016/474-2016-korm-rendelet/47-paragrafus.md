@@ -1,4 +1,4 @@
-## 16. Sportegészségügyi ellátás támogatása
+## 16.[^98] Sportegészségügy, sporttudomány támogatása
 
 ## 47. § A Sportegészségügyi ellátás támogatása előirányzat terhére nyújtott támogatás az alábbi költségekre fordítható:
 
@@ -27,3 +27,5 @@ k) gyógyszerek, gyógyászati segédeszközök beszerzéséhez, szolgáltatáso
 l) az olimpiai, paralimpiai és a Speciális Világjátékokra való felkészüléssel, az élsportolók kiemelt ellátásával kapcsolatos sportegészségügyi feladatok megvalósításához, különös tekintettel a betegirányítási feladatokat ellátó telefonos ügyfélszolgálati rendszer működtetésére,
 
 m) egyéb, a sportegészségüggyel összefüggő feladatok ellátásához.
+
+[^98]: A 16. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 17. §-ával megállapított szöveg.

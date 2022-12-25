@@ -1,6 +1,6 @@
-## 11. Országos sportági szakszövetségek akadémia rendszerének kialakítása, továbbá az MLSZ feladatainak támogatása
+## 11.[^84] A Magyar Labdarúgó Szövetség feladatainak támogatása
 
-## 42. §[^78] Az Országos sportági szakszövetségek akadémia rendszerének kialakítása, továbbá az MLSZ feladatainak támogatása előirányzat szerinti költségvetési támogatás a Magyar Labdarúgó Szövetség alapszabályában és stratégiájában nevesített feladatainak és programjainak végrehajtásával, ideértve
+42. §[^85] A Magyar Labdarúgó Szövetség feladatainak támogatása előirányzat szerinti költségvetési támogatás a Magyar Labdarúgó Szövetség alapszabályában és stratégiájában nevesített feladatainak és programjainak végrehajtásával, ideértve
 
 a) a szabadidős labdarúgás fejlesztésével és népszerűsítésével,
 
@@ -24,4 +24,5 @@ j) az a)–i) pontok szerinti feladatok ellátásával összefüggő irányítá
 
 összefüggő költségekre használható fel.
 
-[^78]: A 42. § a 472/2020. (X. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^84]: A 11. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^85]: A 42. § a 472/2020. (X. 29.) Korm. rendelet 11. §-ával megállapított, nyitó szövegrésze az 552/2022. (XII. 22.) Korm. rendelet 24. § n) pontja szerint módosított szöveg.

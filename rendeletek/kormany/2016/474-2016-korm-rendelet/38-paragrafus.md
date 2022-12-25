@@ -1,5 +1,9 @@
-## 37. § A kedvezményezett szervezet a támogatási szerződésben megállapított elszámolási határidőig a miniszter részére megküldi a sportesemény szakmai értékelését is.
+38. § (1) A sportinformációs rendszer szakmai ügyvitel- és rendszerszervezésével, továbbfejlesztésével kapcsolatos feladatok keretében támogatható a rendszer adattörzs bővítéséhez és frissítéséhez kapcsolódó feladatok folyamatos ellátása, ennek keretében
 
-38. § (1) A 32. § (1) bekezdése szerinti sportesemények körébe nem tartozó, azonban sportszakmai szempontból kiemelkedő jelentőségű hazai rendezésű, nemzetközi sportesemények rendezésével összefüggő költségek fedezetéhez a miniszter a Versenysport támogatása előirányzat terhére költségvetési támogatást nyújthat.
+a) a funkcionalitás javítása és az esetleges redundanciák kiküszöbölését célzó informatikai-paraméterezési feladatok elvégzése,
 
-(2) A miniszter a 32. § (1) bekezdése szerinti sportesemények körébe nem tartozó, azonban sportszakmai szempontból kiemelkedő jelentőségű hazai rendezésű, nemzetközi sportesemények teljes költségvetésének legfeljebb huszonöt százalékát kitevő saját forrás biztosítását írhatja elő.
+b) a rendszer használatába bevont szervezetek adminisztrátori struktúrájának kialakítása,
+
+c) a rendszer széles körben történő megismeréséhez és használatához szükséges kommunikációs és disszeminációs, különösen médiakampányok lebonyolítása, és
+
+d) a sportinformációs rendszer támogatása, valamint jogszabálykövetési feladatok ellátása.

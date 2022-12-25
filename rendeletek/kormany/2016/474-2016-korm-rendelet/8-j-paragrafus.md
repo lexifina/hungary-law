@@ -4,6 +4,9 @@
 
 (3) A támogatást nyújtó és a kedvezményezett a támogatással kapcsolatos iratokat a támogatás odaítélésétől számított tíz évig megőrzi.
 
-(4) A közlemény 58. pontjára figyelemmel a támogatást nyújtó átadja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Európai Bizottság megkeresésének megválaszolásához szükséges összesített adatokat.
+(4)[^20] A közlemény 81. pontjára figyelemmel a támogatást nyújtó átadja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Európai Bizottság megkeresésének megválaszolásához szükséges összesített adatokat.
 
-(5) A támogatás az 50/A. § (2) bekezdése szerinti költségekhez nyújtható.
+(5)[^21] A támogatás az 50/B. § szerinti költségekhez nyújtható.
+
+[^20]: A 8/J. § (4) bekezdése az 552/2022. (XII. 22.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^21]: A 8/J. § (5) bekezdése az 552/2022. (XII. 22.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.

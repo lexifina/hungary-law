@@ -1,20 +1,5 @@
-33. § (1)[^63] A sportrendezvény rendezési jogára vonatkozó pályázat benyújtási határidejét megelőzően legalább negyvenöt nappal, de legkésőbb a sportrendezvény időpontját megelőző év március 1-jéig, a 4. melléklet 4. sorában meghatározott szervezet – a 33/A. § (1) bekezdésében meghatározott esetet kivéve – a sportesemény megrendezésének szándékát és az előirányzat terhére nyújtandó költségvetési támogatás iránti kérelmét tartalmazó regisztrációs kérelmet nyújt be a miniszter részére. A regisztrációs kérelmet az 5. melléklet szerinti formanyomtatvány alkalmazásával kell postai és elektronikus úton megküldeni.
+33. § (1) Az előirányzat terhére támogathatóak a sportakadémiákról szóló kormányrendelet szerinti, államilag elismert sportakadémiák, módszertani központok, kiemelt régiós alközpontok, továbbá országos sportági szakszövetségek, jogi személyek és a működésükkel összefüggő sportlétesítmény-fejlesztési és fenntartási feladatok ellátása, a minőségi élutánpótlás-nevelést megalapozó tehetség-kiválasztáshoz, és gondozáshoz, folyamatos nyomon követéshez, sportszakmai felkészítéshez, versenyeztetéshez, és a felkészüléshez szükséges sportegészségügyi, sporttudományi háttér, valamint komplex módon a tankötelezettség teljesítésén keresztül a sportolói kettős életpálya modell.
 
-(2) A miniszter a regisztrációs kérelmet annak kézhezvételétől számított harminc napon belül elbírálja, dönt annak nyilvántartásba vételéről vagy elutasításáról, amelyről a 4. melléklet 4. sorában meghatározott szervezetet értesíti. Ha a regisztrációs kérelem kiegészítésre vagy kijavításra szorul, azt a miniszter hiánypótlás végett a kérelmező sportszövetségnek legfeljebb tizenöt napos határidő kitűzésével visszaküldi.
+(2) Az előirányzat terhére támogathatóak az államilag elismert sportakadémiai rendszer minőségbiztosítás alapú működése érdekében az államilag elismert sportakadémiai rendszerrel együttműködésben álló határon túli sportszervezetek, jogi személyek.
 
-(3) A miniszter a regisztrációs kérelem nyilvántartásba vételét elutasítja, ha
-
-a) nem a 4. melléklet 4. sorában meghatározott szervezet nyújtotta be, vagy
-
-b) nem a 32. § (1) bekezdése szerinti sportesemény megrendezésének szándékát tartalmazza, vagy
-
-c) a regisztrációs kérelem a 4. melléklet 4. sorában meghatározott szervezet hibájából hiányosan került benyújtásra és a hiánypótlás nem vezetett eredményre, vagy
-
-d) a regisztrációs kérelem benyújtására az (1) bekezdés szerinti határidő elteltét követően került sor.
-
-(4)[^64]
-
-(5) A regisztrációs kérelem nyilvántartásba vétele a miniszter részére fizetési kötelezettségvállalást nem jelent.
-
-[^63]: A 33. § (1) bekezdése a 472/2020. (X. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^64]: A 33. § (4) bekezdését a 282/2018. (XII. 21.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+(3) Az előirányzat terhére támogatható a sportolói életpálya bevezetése és fenntartása, a sporttehetségek kiválasztásának és folyamatos nyomon követési rendszerének kiépítése érdekében a kiemelt utánpótlás-nevelési központok akadémiai rendszerű fejlesztése, az ezzel összefüggő sportlétesítmény-fejlesztési és fenntartási feladatok ellátása, mindezek keretében biztosítva az emelt szintű szakmai képzést és a felkészüléshez szükséges sportegészségügyi, sporttudományi hátteret, a minőségi élutánpótlás-nevelést megalapozó tehetség-kiválasztást és gondozást, sportszakmai felkészítést, versenyeztetést, továbbá intézményesített kapcsolatot, átjárhatóságot a köznevelés intézményrendszerével a fokozott sporttevékenységgel együtt járó terhelés, időbeosztás rugalmas kialakítása céljából.

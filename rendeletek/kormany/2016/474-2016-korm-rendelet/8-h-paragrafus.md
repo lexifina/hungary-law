@@ -1,3 +1,3 @@
-8/H. § (1) A mezőgazdasági termékek feldolgozásával vagy forgalmazásával foglalkozó vállalkozások számára az 8/G. § (1) bekezdése szerinti maximális támogatástartalommal nyújtható támogatás, ha a támogatás mértéke nem függ a mezőgazdasági termék elsődleges termelője részére történő teljes vagy részleges átadásától, és a támogatás mértékét nem az elsődleges termelőktől beszerzett vagy az érintett vállalkozások által forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg.
+8/H. §[^18]
 
-(2) A mezőgazdasági termékek feldolgozásával vagy forgalmazásával foglalkozó vállalkozások számára nyújtott támogatás mértéke az (1) bekezdéstől eltérően meghatározható az elsődleges termelőktől beszerzett vagy az elsődleges termelők által forgalomba hozott termékek ára vagy mennyisége alapján, ha a kérdéses termékeket az elsődleges termelő nem élelmiszeripari célokra vagy egyáltalán nem hozta volna forgalomba.
+[^18]: A 8/H. §-t az 552/2022. (XII. 22.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 18. Diák- és hallgatói sport támogatása
+## 18.[^102]
 
 ## 49. § A Diák- és hallgatói sport támogatása előirányzat terhére nyújtott költségvetési támogatás tekintetében:
 
@@ -8,27 +8,28 @@ b) a munkaviszonyban, a munkavégzésre irányuló egyéb jogviszonyban foglalko
 
 c) sportfelszerelés, sporteszközök, sportág specifikus technikai eszközök, a sporttevékenységhez közvetlenül kapcsolódó sportruházat biztosításával kapcsolatos költségek,
 
-d)[^98] a kedvezményezett sporttevékenységével kapcsolatos belföldi utazás és külföldi versenyekre való utazás költségei,
+d)[^103] a kedvezményezett sporttevékenységével kapcsolatos belföldi utazás és külföldi versenyekre való utazás költségei,
 
 e) a sportesemény szervezésével összefüggő étkezés költségei,
 
 f) a sportesemény szervezésével összefüggő frissítők költségei,
 
-g)[^99] a Magyar Diáksport Szövetség által szervezett felmenő rendszerű diákolimpiai versenyeken és egyéb programokon kiemelkedően szereplő iskolák, szervezetek, pedagógusok, sportszakemberek és diákok, valamint a diáksport területén hosszú időn keresztül eredményes tevékenységet kifejtő személyek jutalmazásának költségei,
+g)[^104] a Magyar Diáksport Szövetség által szervezett felmenő rendszerű diákolimpiai versenyeken és egyéb programokon kiemelkedően szereplő iskolák, szervezetek, pedagógusok, sportszakemberek és diákok, valamint a diáksport területén hosszú időn keresztül eredményes tevékenységet kifejtő személyek jutalmazásának költségei,
 
 h) a hazai és külföldi versenyeken, edzőtáborokban, más szakmai programokon való részvétel költségei,
 
-i)[^100] a versenyrendezés (beleértve a jogdíjakat is) és más szakmai programok, rendezvények, képzések, továbbképzések megrendezésének költségei,
+i)[^105] a versenyrendezés (beleértve a jogdíjakat is) és más szakmai programok, rendezvények, képzések, továbbképzések megrendezésének költségei,
 
 j) a sportszervezet tulajdonában, vagyonkezelésében lévő, vagy az általa bérelt vagy más jogcímen használt, a felkészülésre vagy edzőtáborozásra szolgáló sportlétesítmény fenntartásával, működtetésével összefüggő költségek,
 
 k) pálya- és létesítménybérleti, -használati díjak
 
-l)[^101] az iskolai sport monitoring és nevezési rendszer működtetésének és fejlesztésének költségei
+l)[^106] az iskolai sport monitoring és nevezési rendszer működtetésének és fejlesztésének költségei
 
 számolhatók el.
 
-[^98]: A 49. § d) pontja a 472/2020. (X. 29.) Korm. rendelet 14. § (1) bekezdésével megálapított szöveg.
-[^99]: A 49. § g) pontja a 472/2020. (X. 29.) Korm. rendelet 14. § (2) bekezdésével megálapított szöveg.
-[^100]: A 49. § i) pontja a 472/2020. (X. 29.) Korm. rendelet 14. § (3) bekezdésével megálapított szöveg.
-[^101]: A 49. § l) pontját a 472/2020. (X. 29.) Korm. rendelet 14. § (4) bekezdése iktatta be.
+[^102]: A 18. alcím címét az 552/2022. (XII. 22.) Korm. rendelet 25. § h) pontja hatályon kívül helyezte.
+[^103]: A 49. § d) pontja a 472/2020. (X. 29.) Korm. rendelet 14. § (1) bekezdésével megálapított szöveg.
+[^104]: A 49. § g) pontja a 472/2020. (X. 29.) Korm. rendelet 14. § (2) bekezdésével megálapított szöveg.
+[^105]: A 49. § i) pontja a 472/2020. (X. 29.) Korm. rendelet 14. § (3) bekezdésével megálapított szöveg.
+[^106]: A 49. § l) pontját a 472/2020. (X. 29.) Korm. rendelet 14. § (4) bekezdése iktatta be.

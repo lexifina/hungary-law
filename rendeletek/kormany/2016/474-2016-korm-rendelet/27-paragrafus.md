@@ -4,7 +4,7 @@
 
 a) felfüggeszti vagy visszavonja a Gerevich Aladár-sportösztöndíját annak
 
-aa) a versenyzőnek, akivel szemben a doppingellenes tevékenység szabályairól szóló kormányrendelet alapján doppingeljárás megindítására kerül sor vagy a lefolytatott doppingeljárás eredményeként jogerős eltiltás büntetés kerül kiszabásra, vagy akinek a válogatott kerettagsága megszűnik,
+aa)[^72] a versenyzőnek, akivel szemben a doppingellenes tevékenység szabályairól szóló kormányrendelet alapján doppingeljárás megindítására kerül sor – ideértve a versenyző pozitív vizsgálati eredményről szóló értesítését is –, vagy a lefolytatott doppingeljárás eredményeként jogerős eltiltás büntetés kerül kiszabásra, vagy akinek a válogatott kerettagsága megszűnik,
 
 ab) a sportszakembernek, akivel szemben a doppingellenes tevékenység szabályairól szóló kormányrendelet alapján doppingeljárás megindítására kerül sor vagy a lefolytatott doppingeljárás eredményeként jogerős eltiltás büntetés kerül kiszabásra, vagy akinek a versenyzőt felkészítő jogosultsága megszűnik,
 
@@ -31,3 +31,5 @@ a) a doppingszabályzat megsértése, a doppingellenes feladatok teljesítésén
 b) a doppingvétséget a sportág utánpótláskorú versenyzőjének sérelmére követik el, vagy
 
 c) a doppingvétséget a sportbeli dopping elleni nemzetközi egyezmény kihirdetéséről szóló kormányrendeletben foglalt, tiltott szereket és módszereket meghatározó jegyzékben szereplő anabolikus szerekkel, peptid hormonokkal (ennek mimetikumaival és analógjaival) vagy antiösztrogén szerekkel összefüggésben követik el.
+
+[^72]: A 27. § (1) bekezdés a) pont aa) alpontja az 552/2022. (XII. 22.) Korm. rendelet 24. § k) pontja szerint módosított szöveg.

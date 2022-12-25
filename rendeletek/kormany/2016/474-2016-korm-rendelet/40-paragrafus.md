@@ -1,1 +1,3 @@
-## 39. § A kedvezményezett szervezet a 32. § (3) bekezdése és a 38. § (2) bekezdése szerinti önrész rendelkezésre állását legkésőbb a szerződés megkötéséig igazolni köteles.
+40. §[^82]
+
+[^82]: A 40. § az 552/2022. (XII. 22.) Korm. rendelet 12. §-a alapján hatályát vesztette.
