@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-46-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-12-24 | 2022-46-20-0A.1 | 46/2022. (XII. 23.) BM rendelet |
+| 2022-12-25 | 2022-46-20-0A.2 | 2010. évi CXXX. törvény |
