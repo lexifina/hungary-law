@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-2-20-8O
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2022-12-24 | 2022-2-20-8O.1 | 2/2022. (XII. 23.) KIM rendelet |
+| 2022-12-25 | 2022-2-20-8O.2 | 2010. évi CXXX. törvény |
