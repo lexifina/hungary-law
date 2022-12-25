@@ -1,1 +1,3 @@
-7. § Az R2. 5. § (2) bekezdésében a „január 9-én” szövegrész helyébe a „február 1-jén” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
