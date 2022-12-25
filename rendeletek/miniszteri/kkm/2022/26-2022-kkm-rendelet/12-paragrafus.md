@@ -1,3 +1,3 @@
-12. § A KKM rendelet 45. § c) pontja helyébe a következő rendelkezés lép:
+12. §[^14]
 
-(E rendelet)
+[^14]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

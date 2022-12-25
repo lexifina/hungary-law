@@ -1,19 +1,23 @@
 16. § Hatályát veszti a KKM rendelet
 
-a)[^6]
+a)[^19]
 
-b) 3. § (3) bekezdése,
+b)[^20]
 
-c) 45. § e) és g) pontja,
+c)[^21]
 
-d)[^7]
+d)[^22]
 
-e) 3. melléklete,
+e)[^23]
 
-f) 4. mellékletében foglalt táblázat 5. sora, valamint
+f)[^24]
 
-g)[^8]
+g)[^25]
 
-[^6]: A 16. § a) pontja a 17. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^7]: A 16. § d) pontja a 17. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^8]: A 16. § g) pontja a 17. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^19]: A 16. § a) pontja a 17. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^20]: A 16. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 16. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 16. § d) pontja a 17. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^23]: A 16. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 16. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 16. § g) pontja a 17. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
