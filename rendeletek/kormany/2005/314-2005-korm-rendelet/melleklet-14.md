@@ -88,6 +88,6 @@
 
 ## Amennyiben az adatlap bármely pontjára vonatkozóan az eljárásban egyébként benyújtott dokumentáció részletesebb információt tartalmaz, kérjük az adott pontban jelezni.
 
-14. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^333]
+14. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^337]
 
-[^333]: A 14. számú mellékletet újonan a 302/2020. (VI. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 45. § c) pontja szerint módosított szöveg.
+[^337]: A 14. számú mellékletet újonan a 302/2020. (VI. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 45. § c) pontja szerint módosított szöveg.
