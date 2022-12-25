@@ -6,6 +6,6 @@ a) az (EU) 2018/574 bizottsági végrehajtási rendelet (a továbbiakban: Végre
 
 b) az (EU) 2018/576 bizottsági végrehajtási határozat (a továbbiakban: Végrehajtási Határozat)
 
-## végrehajtásával összefüggő, tagállami szabályozási hatáskörbe tartozó rendelkezéseket állapít meg.
+végrehajtásával összefüggő, tagállami szabályozási hatáskörbe tartozó rendelkezéseket állapít meg.
 
 (2) E rendelet alkalmazásában a Végrehajtási Rendeletben és a Végrehajtási Határozatban alkalmazott fogalmakat irányadónak kell tekinteni.
