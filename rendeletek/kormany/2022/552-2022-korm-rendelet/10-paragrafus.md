@@ -1,0 +1,7 @@
+10. § (1) Az R. 26. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A támogató – a felhasználási időszakban vagy a beszámoló benyújtását követően, legkésőbb a beszámoló elfogadását követő öt éven belül, de a 17. § (1) bekezdés 11a. pontjában meghatározott beruházási célú költségvetési támogatás esetén tizenöt évig bármikor – a felhasználás helyszínén ellenőrizheti a költségvetési támogatás felhasználását. Ha költségvetési támogatás ellenőrzése során a támogató megállapítja, hogy a kedvezményezett a támogatási szerződésben foglaltaknak – továbbá beruházási célú költségvetési támogatás esetén a 17. § (1) bekezdés 11. pontja szerint vállalt sportcélú használatnak – nem tesz eleget, a támogatási összeg teljes vagy részleges visszafizetését, ügyleti kamattal együtt előírhatja. Az ügyleti kamat számításának kezdő időpontja a költségvetési támogatás folyósításának napja.”
+
+(2) Az R. 26. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) Ha a támogatás nem kerül teljes mértékben felhasználásra, a fel nem használt összeget a kedvezményezett legkésőbb a szakmai és pénzügyi beszámoló benyújtásával egyidejűleg visszafizeti a támogató részére a támogatási szerződés nyilvántartási- vagy iktatószámára és a támogatási szerződésben meghatározott államháztartási azonosítóra (a továbbiakban: Áht. azonosító) történő hivatkozással, valamint az Egységes Rovat Azonosító feltüntetésével és a 29. § (1) bekezdése szerinti lemondó nyilatkozat megküldésével.”
