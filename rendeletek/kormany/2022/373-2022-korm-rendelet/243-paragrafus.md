@@ -1,3 +1,3 @@
-243. §[^70]
+243. §[^71]
 
-[^70]: A 243. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: A 243. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -54,7 +54,7 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 3.1. azonosító
 
-3.2.[^72] kedvezményezett azonosító
+3.2.[^73] kedvezményezett azonosító
 
 3.3. konzorciumi tagok:
 
@@ -100,7 +100,7 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 5.3. alvállalkozó azonosító
 
-6.[^73] Jogi személyek (kedvezményezett, konzorciumi tag, szállító, alvállalkozó releváns adatai):
+6.[^74] Jogi személyek (kedvezményezett, konzorciumi tag, szállító, alvállalkozó releváns adatai):
 
 6.1. név
 
@@ -122,13 +122,13 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 8. Tényleges tulajdonosokra vonatkozó adatok:
 
-8.1.[^74] kedvezményezett tényleges tulajdonosának vezetékneve
+8.1.[^75] kedvezményezett tényleges tulajdonosának vezetékneve
 
-8.2.[^75] kedvezményezett tényleges tulajdonosának keresztneve
+8.2.[^76] kedvezményezett tényleges tulajdonosának keresztneve
 
-8.3.[^76] kedvezményezett tényleges tulajdonosának születési dátuma
+8.3.[^77] kedvezményezett tényleges tulajdonosának születési dátuma
 
-8.4.[^77] kedvezményezett tényleges tulajdonosának adószáma
+8.4.[^78] kedvezményezett tényleges tulajdonosának adószáma
 
 8.5. szállító tényleges tulajdonosának vezetékneve
 
@@ -136,9 +136,9 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 8.7. szállító tényleges tulajdonosának születési dátuma
 
-[^72]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 3. pont 3.2. alpontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
-[^73]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 6. pontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
-[^74]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 8. pont 8.1. alpontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
-[^75]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 8. pont 8.2. alpontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
-[^76]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 8. pont 8.3. alpontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
-[^77]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 8. pont 8.4. alpontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
+[^73]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 3. pont 3.2. alpontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
+[^74]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 6. pontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
+[^75]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 8. pont 8.1. alpontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
+[^76]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 8. pont 8.2. alpontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
+[^77]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 8. pont 8.3. alpontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
+[^78]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 8. pont 8.4. alpontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
