@@ -1,7 +1,3 @@
-3. § A 314/2005. (XII. 25.) Korm. rendelet
+3. §[^4]
 
-a) 5. § (2) bekezdés c) pont ca) alpontjában a „cb) és cc)” szövegrész helyébe a „cb)–cd)” szöveg,
-
-b) 10. § (4) bekezdés a) pontjában a „cb)” szövegrész helyébe a „cb)–cd)” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
