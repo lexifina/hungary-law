@@ -1,0 +1,1 @@
+8. § A Hivatal a Ht. 53/N. § (2) bekezdése szerinti módszertani útmutatóban (a továbbiakban: módszertani útmutató) határozza meg az indokolt költségként nem elismerhető költségeket, valamint a módszertani útmutatóban meghatározott számítási módszer alapján meghatározott mértékig elismerhető költségeket.

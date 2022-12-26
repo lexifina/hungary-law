@@ -1,0 +1,3 @@
+5. § (1) A Hivatal a 4. §-ban foglaltakra és a jogszabályokban rögzített minőségi és mennyiségi követelményeknek megfelelő műszaki tartalomra figyelemmel, a koncessziós társaságnál és a koncesszori alvállalkozóknál az állami hulladékgazdálkodási közfeladat ellátásával kapcsolatban felmerült, a számviteli szabályoknak megfelelően nyilvántartott és a Hivatal részére teljesített adatszolgáltatásban feltüntetett bevételek, költségek és ráfordítások vizsgálatával határozza meg az indokolt költséget.
+
+(2) A Hivatal a hatósági árak és díjak indokoltságát az indokolt költség meghatározása során nem vizsgálja.

@@ -1,0 +1,1 @@
+7. § Ha jogszabály eltérően nem rendelkezik, a Hivatal az indokolt költség meghatározásakor költségcsökkentő tényezőként veszi figyelembe a koncessziós társaság és a koncesszori alvállalkozók állami hulladékgazdálkodási közfeladat ellátásából származó díjbevételén kívüli, állami hulladékgazdálkodási közfeladat ellátásából származó egyéb bevételeiből megtérülő költségeit.
