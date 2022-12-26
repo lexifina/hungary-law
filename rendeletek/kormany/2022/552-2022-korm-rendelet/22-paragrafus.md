@@ -1,1 +1,3 @@
-22. § Az R. 4. melléklete helyébe az 1. melléklet lép.
+22. §[^23]
+
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

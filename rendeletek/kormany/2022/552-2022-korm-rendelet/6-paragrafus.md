@@ -1,3 +1,3 @@
-6. § Az R. 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(1) A miniszter a támogatási kérelemről – kivéve a tárgyévet követő évekre benyújtott, kiemelt nemzetközi és egyéb hazai rendezésű sport- és sportdiplomáciai események megrendezésére irányuló támogatási kérelmeket – annak kézhezvételétől számított huszonegy napon belül dönt.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

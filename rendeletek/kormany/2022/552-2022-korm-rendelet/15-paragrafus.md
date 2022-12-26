@@ -1,3 +1,3 @@
-15. § Az R. 11. alcím címe helyébe a következő cím lép:
+15. §[^16]
 
-„11. A Magyar Labdarúgó Szövetség feladatainak támogatása”
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

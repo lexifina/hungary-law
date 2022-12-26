@@ -1,37 +1,47 @@
 24. § Az R.
 
-a) 1/A. §-ában a „támogatási szerződés megkötéséhez” szövegrész helyébe a „támogatási szerződés megkötéséhez vagy támogatói okirat kiadásához (a támogatási szerződés és támogatói okirat a továbbiakban együtt: támogatási szerződés)” szöveg,
+a)[^25]
 
-b) 8/F. § (1) bekezdésében a „8–14.” szövegrész helyébe a „8–18.” szöveg,
+b)[^26]
 
-c) 8/J. § (4) bekezdésében az „58.” szövegrész helyébe a „81.” szöveg,
+c)[^27]
 
-d) 8/G. § (1) bekezdésében az „az 500 000” szövegrész helyébe az „a 2 millió” szöveg,
+d)[^28]
 
-e) 8/J. § (5) bekezdésében az „50/A. § (2) bekezdése” szövegrész helyébe az „50/B. §” szöveg,
+e)[^29]
 
-f)[^6]
+f)[^30]
 
-g) 13. § (1) bekezdésében a „címre és formában” szövegrész helyébe a „címre, módon és formában” szöveg,
+g)[^31]
 
-h) 17. § (1) bekezdés 4. pontjában az „útján is teljesíthető” szövegrész helyébe az „útján beszerzett, a kedvezményezett által hitelesített dokumentummal is teljesíthető” szöveg,
+h)[^32]
 
-i)[^7]
+i)[^33]
 
-j) 22. § (2) bekezdésében a „történő beszámolót” szövegrész helyébe a „történő szakmai és pénzügyi beszámolót” szöveg,
+j)[^34]
 
-k) 27. § (1) bekezdés a) pont aa) alpontjában a „kerül sor vagy” szövegrész helyébe a „kerül sor – ideértve a versenyző pozitív vizsgálati eredményről szóló értesítését is –, vagy” szöveg,
+k)[^35]
 
-l) 28. § (6) bekezdésében a „minisztérium 10032000-01220328-50000005 számú fejezeti kezelésű előirányzat felhasználási keretszámlára” szövegrész helyébe a „minisztérium által megjelölt számlára” szöveg,
+l)[^36]
 
-m)[^8]
+m)[^37]
 
-n) 42. §-ában az „Az Országos sportági szakszövetségek akadémia rendszerének kialakítása, továbbá az MLSZ” szövegrész helyébe az „A Magyar Labdarúgó Szövetség” szöveg,
+n)[^38]
 
-o) 44. § (2) bekezdésében a „7. melléklet szerinti pontérték-táblázat” szövegrész helyébe a „sportági eredményesség” szöveg
+o)[^39]
 
-lép.
-
-[^6]: A 24. § f) pontja a 27. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^7]: A 24. § i) pontja a 27. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^8]: A 24. § m) pontja a 27. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^25]: A 24. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 24. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 24. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 24. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 24. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 24. § f) pontja a 27. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^31]: A 24. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 24. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 24. § i) pontja a 27. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^34]: A 24. § j) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 24. § k) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 24. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 24. § m) pontja a 27. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^38]: A 24. § n) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^39]: A 24. § o) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

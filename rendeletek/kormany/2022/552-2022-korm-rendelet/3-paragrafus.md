@@ -1,7 +1,6 @@
-3. § (1)[^1]
+3. § (1)[^3]
 
-(2) Az R. 9. §-a a következő (3) bekezdéssel egészül ki:
+(2)[^4]
 
-„(3) Az (1) bekezdés szerint kezelt előirányzatokból nyújtott költségvetési támogatásokkal kapcsolatos feladatok ellátásával a minisztérium a Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaságot (a továbbiakban: NSÜ NZrt.) lebonyolító szervként megbízhatja.”
-
-[^1]: A 3. § (1) bekezdése a 27. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^3]: A 3. § (1) bekezdése a 27. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^4]: A 3. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

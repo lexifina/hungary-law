@@ -1,26 +1,35 @@
 25. § Hatályát veszti az R.
 
-a) 8/G. § (1) bekezdésében az „ , a (2) bekezdésben meghatározott kivétellel” szövegrész,
+a)[^40]
 
-b) 8/H. §-a,
+b)[^41]
 
-c) 7. alcím címében az „és a támogatói okirat” szövegrész,
+c)[^42]
 
-d) 17. § (1) bekezdésében a „vagy a támogatói okirat (a továbbiakban együtt: támogatási szerződés)” szövegrész,
+d)[^43]
 
-e) 30. § (1) és (2) bekezdésében az „és a 4/a.” szövegrész,
+e)[^44]
 
-f) 30. § (3) bekezdésében az „– a 4/a. melléklet szerinti előirányzat kivételével –” szövegrész,
+f)[^45]
 
-g) 3/A., 12., 14. és 15. alcíme,
+g)[^46]
 
-h) 18. alcím címe,
+h)[^47]
 
-i) 4/a. és 7. melléklete,
+i)[^48]
 
-j)[^9]
+j)[^49]
 
-k)[^10]
+k)[^50]
 
-[^9]: A 25. § j) pontja a 27. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^10]: A 25. § k) pontja a ... alapján 2023. január 1-jén lép hatályba.
+[^40]: A 25. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 25. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 25. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^43]: A 25. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^44]: A 25. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 25. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: A 25. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 25. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 25. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 25. § j) pontja a 27. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^50]: A 25. § k) pontja a ... alapján 2023. január 1-jén lép hatályba.

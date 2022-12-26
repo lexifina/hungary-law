@@ -1,3 +1,3 @@
-16. § Az R. 13. alcím címe helyébe a következő cím lép:
+16. §[^17]
 
-„13. A Sporteredmények, sportszakmai tevékenység, sportteljesítmények elismerése”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

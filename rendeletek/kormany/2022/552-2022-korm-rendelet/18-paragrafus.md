@@ -1,3 +1,3 @@
-18. § Az R. 17. alcím címe helyébe a következő cím lép:
+18. §[^19]
 
-„17. Sport népszerűsítésével, diák- és szabadidősporttal kapcsolatos támogatások”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

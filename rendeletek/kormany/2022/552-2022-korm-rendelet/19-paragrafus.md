@@ -1,3 +1,3 @@
-19. § Az R. 50. § (5) bekezdése a következő c) ponttal egészül ki:
+19. §[^20]
 
-(Vissza kell vonni a támogatást, ha)
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
