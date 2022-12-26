@@ -8,11 +8,11 @@
 
 4. a kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás esetén vállalkozásonként meghaladja a 2 millió eurónak megfelelő forintösszeget,
 
-5.[^205]
+5.[^206]
 
-5a.[^206] közösségvezérelt helyi fejlesztési projektben vagy a mezőgazdaság termelékenységét és fenntarthatóságát célzó európai innovációs partnerség operatív csoportjának projektjében részt vevő kis- és középvállalkozásnál felmerült egyes költségekhez nyújtott támogatás esetén vállalkozásonként és beruházási projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
+5a.[^207] közösségvezérelt helyi fejlesztési projektben vagy a mezőgazdaság termelékenységét és fenntarthatóságát célzó európai innovációs partnerség operatív csoportjának projektjében részt vevő kis- és középvállalkozásnál felmerült egyes költségekhez nyújtott támogatás esetén vállalkozásonként és beruházási projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
 
-5b.[^207] közösségvezérelt helyi fejlesztési projektekből vagy a mezőgazdaság termelékenységét és fenntarthatóságát célzó európai innovációs partnerség operatív csoportjának projektjeiből részesülő kis- és középvállalkozásoknak nyújtott korlátozott összegű támogatás esetén meghaladja a 36/B. § (2) bekezdése szerinti összeget,
+5b.[^208] közösségvezérelt helyi fejlesztési projektekből vagy a mezőgazdaság termelékenységét és fenntarthatóságát célzó európai innovációs partnerség operatív csoportjának projektjeiből részesülő kis- és középvállalkozásoknak nyújtott korlátozott összegű támogatás esetén meghaladja a 36/B. § (2) bekezdése szerinti összeget,
 
 6. kockázatfinanszírozási támogatás esetén végső kedvezményezettenként meghaladja a 15 millió eurónak megfelelő forintösszeget,
 
@@ -60,17 +60,17 @@ f) kutatási tevékenységet előkészítő megvalósíthatósági tanulmányhoz
 
 22. energetikai célú infrastruktúrához nyújtott beruházási támogatás esetén vállalkozásonként és beruházásonként meghaladja az 50 millió eurónak megfelelő forintösszeget,
 
-23.[^208] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 150 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente meghaladja az 75 millió eurónak megfelelő forintösszeget,
+23.[^209] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 150 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente meghaladja az 75 millió eurónak megfelelő forintösszeget,
 
-24.[^209] sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás esetén meghaladja a 30 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja a 100 millió eurónak megfelelő forintösszeget,
+24.[^210] sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás esetén meghaladja a 30 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja a 100 millió eurónak megfelelő forintösszeget,
 
-24a.[^210] sportlétesítményekre nyújtott működési támogatás esetén létesítményenként évente meghaladja a 2 millió eurónak megfelelő forintösszeget,
+24a.[^211] sportlétesítményekre nyújtott működési támogatás esetén létesítményenként évente meghaladja a 2 millió eurónak megfelelő forintösszeget,
 
 25. helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás esetén meghaladja egyazon infrastruktúra esetén a 10 millió eurónak megfelelő forintösszeget vagy a 20 millió eurónak megfelelő forintösszeget meghaladó összköltséget.
 
-(2)[^211] A szélessávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a projekt teljes költsége meghaladja a 100 millió eurónak megfelelő forintösszeget, vagy pénzügyi eszköz formájában odaítélt támogatás esetén ha a kedvezményezettnek nyújtott teljes finanszírozás névértéke bármely projekt esetén meghaladja a 150 millió eurót.
+(2)[^212] A szélessávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a projekt teljes költsége meghaladja a 100 millió eurónak megfelelő forintösszeget, vagy pénzügyi eszköz formájában odaítélt támogatás esetén ha a kedvezményezettnek nyújtott teljes finanszírozás névértéke bármely projekt esetén meghaladja a 150 millió eurót.
 
-(3)[^212] A belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a projekt elszámolható költsége meghaladja
+(3)[^213] A belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a projekt elszámolható költsége meghaladja
 
 a) a 40 millió eurónak vagy
 
@@ -78,17 +78,17 @@ b) – a transzeurópai közlekedési hálózat fejlesztésére vonatkozó unió
 
 megfelelő forintösszeget. Ha a projekt kotrást is tartalmaz, jelen bekezdés alkalmazásában az adott belvízi kikötőben egy naptári éven belül végrehajtott összes kotrási tevékenység tekintendő a projekt részének.
 
-(4)[^213] A regionális városfejlesztési támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a városfejlesztési projektnek biztosított teljes beruházás meghaladja a 20 millió eurónak megfelelő forintösszeget.
+(4)[^214] A regionális városfejlesztési támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a városfejlesztési projektnek biztosított teljes beruházás meghaladja a 20 millió eurónak megfelelő forintösszeget.
 
-(5)[^214] Előzetesen be kell jelenteni az Európai Bizottság részére azt a kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatást tartalmazó programot, amely esetén az erre a támogatási kategóriára eső éves átlagos költségvetés meghaladja a 150 millió eurónak megfelelő forintösszeget.
+(5)[^215] Előzetesen be kell jelenteni az Európai Bizottság részére azt a kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatást tartalmazó programot, amely esetén az erre a támogatási kategóriára eső éves átlagos költségvetés meghaladja a 150 millió eurónak megfelelő forintösszeget.
 
-[^205]: A 23. § (1) bekezdés 5. pontját a 679/2021. (XII. 3.) Korm. rendelet 34. § c) pontja hatályon kívül helyezte.
-[^206]: A 23. § (1) bekezdés 5a. pontját a 679/2021. (XII. 3.) Korm. rendelet 19. § (1) bekezdése iktatta be.
-[^207]: A 23. § (1) bekezdés 5b. pontját a 679/2021. (XII. 3.) Korm. rendelet 19. § (1) bekezdése iktatta be.
-[^208]: A 23. § (1) bekezdés 23. pontja a 305/2016. (X. 13.) Korm. rendelet 5. §-ával megállapított, a 365/2017. (XII. 5.) Korm. rendelet 20. § 6. pontja szerint módosított szöveg.
-[^209]: A 23. § (1) bekezdés 24. pontja a 365/2017. (XII. 5.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^210]: A 23. § (1) bekezdés 24a. pontját a 365/2017. (XII. 5.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^211]: A 23. § (2) bekezdése a 679/2021. (XII. 3.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^212]: A 23. § (3) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^213]: A 23. § (4) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^214]: A 23. § (5) bekezdését a 679/2021. (XII. 3.) Korm. rendelet 19. § (3) bekezdése iktatta be.
+[^206]: A 23. § (1) bekezdés 5. pontját a 679/2021. (XII. 3.) Korm. rendelet 34. § c) pontja hatályon kívül helyezte.
+[^207]: A 23. § (1) bekezdés 5a. pontját a 679/2021. (XII. 3.) Korm. rendelet 19. § (1) bekezdése iktatta be.
+[^208]: A 23. § (1) bekezdés 5b. pontját a 679/2021. (XII. 3.) Korm. rendelet 19. § (1) bekezdése iktatta be.
+[^209]: A 23. § (1) bekezdés 23. pontja a 305/2016. (X. 13.) Korm. rendelet 5. §-ával megállapított, a 365/2017. (XII. 5.) Korm. rendelet 20. § 6. pontja szerint módosított szöveg.
+[^210]: A 23. § (1) bekezdés 24. pontja a 365/2017. (XII. 5.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^211]: A 23. § (1) bekezdés 24a. pontját a 365/2017. (XII. 5.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^212]: A 23. § (2) bekezdése a 679/2021. (XII. 3.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^213]: A 23. § (3) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^214]: A 23. § (4) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^215]: A 23. § (5) bekezdését a 679/2021. (XII. 3.) Korm. rendelet 19. § (3) bekezdése iktatta be.

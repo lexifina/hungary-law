@@ -1,6 +1,6 @@
 103/U. § (1) A támogatás keretében
 
-1. [^360] a 103/I. § (3) bekezdés a)–d) pontja szerinti költség, valamint a megvalósíthatósági tanulmány költsége – ideértve, ha a megvalósíthatósági tanulmány eredménye alapján nem merül fel a 103/I. § (3) bekezdés a) és b) pont szerinti költség –,
+1. [^369] a 103/I. § (3) bekezdés a)–d) pontja szerinti költség, valamint a megvalósíthatósági tanulmány költsége – ideértve, ha a megvalósíthatósági tanulmány eredménye alapján nem merül fel a 103/I. § (3) bekezdés a) és b) pont szerinti költség –,
 
 2. a 103/R. § (1) bekezdés d) pontjához kapcsolódó beruházás keretében felmerülő költség,
 
@@ -34,7 +34,7 @@ c) felszín alatti vagy felszíni víztestet nem érintő újrahasznosított ví
 
 (4) Nem nyújtható támogatás
 
-a) [^361]
+a) [^370]
 
 b) termelési jog, támogatási jogosultság, egynyári növény vásárlása, illetve telepítése finanszírozásához,
 
@@ -44,5 +44,5 @@ d) az uniós szabványoknak való megfelelést szolgáló beruházás finanszír
 
 e) állatok vásárlásának finanszírozásához a 103/R. § (1) bekezdés e) és f) pontjához kapcsolódó beruházás kivételével.
 
-[^360]: A 103/U. § (1) bekezdés 1. pontja a 409/2016. (XII. 13.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^361]: A 103/U. § (4) bekezdés a) pontját a 305/2016. (X. 13.) Korm. rendelet 19. § g) pontja hatályon kívül helyezte.
+[^369]: A 103/U. § (1) bekezdés 1. pontja a 409/2016. (XII. 13.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^370]: A 103/U. § (4) bekezdés a) pontját a 305/2016. (X. 13.) Korm. rendelet 19. § g) pontja hatályon kívül helyezte.

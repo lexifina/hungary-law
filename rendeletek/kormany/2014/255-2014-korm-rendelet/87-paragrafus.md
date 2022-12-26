@@ -1,4 +1,4 @@
-87. §[^291] (1) Támogatás nyújtható vezetékes széles sávú hálózat kiépítéséhez a háztartások és a társadalmi-gazdasági fókuszpontok csatlakoztatására olyan területeken, ahol nincs olyan már meglévő hálózat, vagy ahol valószínűsíthető, hogy a tervezett támogatási intézkedés közzétételétől számított három éven belül, vagy a támogatott hálózat kiépítéséhez szükséges időn, de legalább a támogatott hálózat kiépítésének várható megkezdésétől számított két éven belül nem helyeznek üzembe olyan, hitelt érdemlően kiépíteni tervezett hálózatot, amely megbízhatóan képes legalább
+87. §[^300] (1) Támogatás nyújtható vezetékes széles sávú hálózat kiépítéséhez a háztartások és a társadalmi-gazdasági fókuszpontok csatlakoztatására olyan területeken, ahol nincs olyan már meglévő hálózat, vagy ahol valószínűsíthető, hogy a tervezett támogatási intézkedés közzétételétől számított három éven belül, vagy a támogatott hálózat kiépítéséhez szükséges időn, de legalább a támogatott hálózat kiépítésének várható megkezdésétől számított két éven belül nem helyeznek üzembe olyan, hitelt érdemlően kiépíteni tervezett hálózatot, amely megbízhatóan képes legalább
 
 a) 30 Mbps vagy
 
@@ -12,4 +12,4 @@ letöltési sebességet biztosítani.
 
 (4) A (3) bekezdés szerinti támogatott hálózatnak a már meglévő vagy hitelt érdemlően tervezett hálózatokhoz képest legalább kétszeres letöltési és feltöltési sebességet kell biztosítania, és képesnek kell lennie legalább 1 Gbps letöltési sebesség megbízható biztosítására.
 
-[^291]: A 87. § a 679/2021. (XII. 3.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^300]: A 87. § a 679/2021. (XII. 3.) Korm. rendelet 28. §-ával megállapított szöveg.

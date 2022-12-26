@@ -1,4 +1,4 @@
-67/A. §[^264] (1) A 67. § (4) bekezdésétől eltérően az elszámolható költség a nagyobb energiahatékonyság eléréséhez szükséges teljes beruházási költség, ha a beruházás
+67/A. §[^266] (1) A 67. § (4) bekezdésétől eltérően az elszámolható költség a nagyobb energiahatékonyság eléréséhez szükséges teljes beruházási költség, ha a beruházás
 
 a) lakóépületekben,
 
@@ -20,4 +20,4 @@ b) az épületet használók elektromos gépjárműveinek feltöltésére szolg�
 
 c) az épület digitalizációját – elsősorban az épület okosfunkció-fogadási alkalmasságának növelését – célzó beruházások költségeivel, így különösen adathálózatok esetén, az épületen vagy az épülethez tartozó telken belül a passzív hálózat vagy a strukturált kábelezés költségeivel.
 
-[^264]: A 67/A. §-t a 679/2021. (XII. 3.) Korm. rendelet 25. §-a iktatta be.
+[^266]: A 67/A. §-t a 679/2021. (XII. 3.) Korm. rendelet 25. §-a iktatta be.
