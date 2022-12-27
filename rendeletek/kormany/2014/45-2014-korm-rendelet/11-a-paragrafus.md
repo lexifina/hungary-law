@@ -1,4 +1,4 @@
-## 6/A.[^40] Az online piacokon kötött szerződésekre vonatkozó egyedi kiegészítő tájékoztatási követelmények
+## 6/A.[^42] Az online piacokon kötött szerződésekre vonatkozó egyedi kiegészítő tájékoztatási követelmények
 
 ## 11/A. § Online piaci szolgáltatóval kötött szerződés esetén azt megelőzően, hogy a fogyasztót a szerződés vagy ajánlat kötné, az online piac szolgáltatója a belső piacon az üzleti vállalkozások fogyasztókkal szemben folytatott tisztességtelen kereskedelmi gyakorlatairól, valamint a 84/450/EGK tanácsi irányelv, a 97/7/EK, a 98/27/EK és a 2002/65/EK európai parlamenti és tanácsi irányelvek, valamint a 2006/2004/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2005. május 11-i 2005/29/EK parlamenti és tanácsi irányelv sérelme nélkül köteles világos és közérthető, az alkalmazott távollévők közötti kommunikációt lehetővé tévő eszköznek megfelelő módon tájékoztatni a fogyasztót
 
@@ -10,4 +10,4 @@ c) arról, hogy ha az árukat, szolgáltatásokat vagy digitális tartalmat kín
 
 d) arról, hogy a szerződéssel kapcsolatos kötelezettségek hogyan oszlanak meg árukat, szolgáltatásokat vagy digitális tartalmat kínáló harmadik fél és az online piac szolgáltatója között, és hogy ez nem érinti az online piac szolgáltató vagy a harmadik fél vállalkozás szerződés szerinti kötelezettségeit.
 
-[^40]: A 6/A. alcímet (11/A. §) a 712/2020. (XII. 30.) Korm. rendelet 7. §-a iktatta be.
+[^42]: A 6/A. alcímet (11/A. §) a 712/2020. (XII. 30.) Korm. rendelet 7. §-a iktatta be.

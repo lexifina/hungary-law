@@ -24,7 +24,7 @@ h)[^29] digitális elemeket tartalmazó áruk, digitális tartalom és digitáli
 
 i)[^30] digitális elemeket tartalmazó áru, digitális tartalom és digitális szolgáltatás bármilyen vonatkozó kompatibilitásáról és interoperabilitásáról a vállalkozástól észszerűen elvárható ismereteknek megfelelően;
 
-j) a békéltető testülethez fordulás lehetőségéről, a vállalkozás székhelye szerint illetékes békéltető testület nevéről és székhelyének postai címéről.
+j)[^31] a békéltető testülethez fordulás lehetőségéről, a békéltető testület nevéről és székhelyének postai címéről.
 
 (2) A vállalkozást nem terheli az (1) bekezdésben meghatározott tájékoztatási kötelezettség azon információk vonatkozásában, amelyek a körülmények alapján nyilvánvalóak.
 
@@ -35,3 +35,4 @@ j) a békéltető testülethez fordulás lehetőségéről, a vállalkozás szé
 [^28]: A 9. § (1) bekezdés e) pontja a 712/2020. (XII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^29]: A 9. § (1) bekezdés h) pontja a 712/2020. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^30]: A 9. § (1) bekezdés i) pontja a 712/2020. (XII. 30.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^31]: A 9. § (1) bekezdés j) pontja az 531/2022. (XII. 19.) Korm. rendelet 8. §-ával megállapított szöveg.

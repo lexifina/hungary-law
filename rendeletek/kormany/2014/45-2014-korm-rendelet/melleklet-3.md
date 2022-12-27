@@ -1,5 +1,3 @@
-## Elállási-/Felmondásinyilatkozat-minta
-
 ## (csak a szerződéstől való elállási szándék esetén töltse ki és juttassa vissza)
 
 ## Címzett [ide a vállalkozásnak a nevét, postai címét és elektronikus levelezési címét kell beillesztenie]:
@@ -16,35 +14,35 @@
 
 ## Kelt
 
-3. melléklet a 45/2014. (II. 26.) Korm. rendelethez
+3. melléklet a 45/2014. (II. 26.) Korm. rendelethez[^83]
 
-## A kellékszavatosságról, a termékszavatosságról és a jótállásról szóló mintatájékoztató
+A kellékszavatosságról, a termékszavatosságról és a jótállásról szóló mintatájékoztató
 
 1. Kellékszavatosság
 
-Milyen esetben élhet Ön a kellékszavatossági jogával?
+## Milyen esetben élhet Ön a kellékszavatossági jogával?
 
-Ön a ...[^81] hibás teljesítése esetén a vállalkozással szemben kellékszavatossági igényt érvényesíthet a Polgári Törvénykönyv szabályai szerint.
+## Ön a(z) …………………………… hibás teljesítése esetén a vállalkozással szemben kellékszavatossági igényt érvényesíthet a Polgári Törvénykönyv szabályai szerint.
 
-Milyen jogok illetik meg Önt kellékszavatossági igénye alapján?
+## Milyen jogok illetik meg Önt kellékszavatossági igénye alapján?
 
-Ön – választása szerint–az alábbi kellékszavatossági igényekkel élhet:
+## Ön – választása szerint – az alábbi kellékszavatossági igényekkel élhet:
 
-Kérhet kijavítást vagy kicserélést, kivéve, ha az ezek közül az Ön által választott igény teljesítése lehetetlen vagy a vállalkozás számára más igénye teljesítéséhez képest aránytalan többletköltséggel járna. Ha a kijavítást vagy a kicserélést nem kérte, illetve nem kérhette, úgy igényelheti az ellenszolgáltatás arányos leszállítását vagy a hibát a vállalkozás költségére Ön is kijavíthatja, illetve mással kijavíttathatja vagy – végső esetben – a szerződéstől is elállhat.
+## Kérhet kijavítást vagy kicserélést, kivéve, ha az ezek közül az Ön által választott igény teljesítése lehetetlen vagy a vállalkozás számára más igénye teljesítéséhez képest aránytalan többletköltséggel járna. Ha a kijavítást vagy a kicserélést nem kérte, illetve nem kérhette, úgy igényelheti az ellenszolgáltatás arányos leszállítását, vagy a hibát a vállalkozás költségére Ön is kijavíthatja, illetve mással kijavíttathatja, vagy – végső esetben – a szerződéstől is elállhat. Fogyasztó és vállalkozás közötti – ingó dolognak minősülő áru adásvételére, digitális tartalom szolgáltatására vagy digitális szolgáltatások nyújtására irányuló – szerződés esetén Ön a kellékszavatossági jogai gyakorlása keretében a hibát a vállalkozás költségére maga nem javíthatja ki, illetve mással sem javíttathatja ki azt.
 
-Választott kellékszavatossági jogáról egy másikra is áttérhet, az áttérés költségét azonban Ön viseli, kivéve, ha az indokolt volt, vagy arra a vállalkozás adott okot.
+## Választott kellékszavatossági jogáról egy másikra is áttérhet, az áttérés költségét azonban Ön viseli, kivéve, ha az indokolt volt, vagy arra a vállalkozás adott okot.
 
-Milyen határidőben érvényesítheti Ön kellékszavatossági igényét?
+## Milyen határidőben érvényesítheti Ön kellékszavatossági igényét?
 
-Ön köteles a hibát annak felfedezése után haladéktalanul, de nem később, mint a hiba felfedezésétől számított kettő hónapon belül közölni. Ugyanakkor felhívom a figyelmét, hogy a szerződés teljesítésétől számított két éves elévülési határidőn túl kellékszavatossági jogait már nem érvényesítheti. Használt dolog esetén ez a határidő....[^82], de legfeljebb egy év.
+## Ön köteles a hibát annak felfedezése után haladéktalanul, de nem később, mint a hiba felfedezésétől számított kettő hónapon belül közölni. Ugyanakkor felhívom a figyelmét, hogy a szerződés teljesítésétől számított két éves elévülési határidőn túl kellékszavatossági jogait már nem érvényesítheti. Használt dolog esetén ez a határidő ……………………………, de legalább egy év.
 
-Kivel szemben érvényesítheti kellékszavatossági igényét?
+## Kivel szemben érvényesítheti kellékszavatossági igényét?
 
-Ön a vállalkozással szemben érvényesítheti kellékszavatossági igényét.
+## Ön a vállalkozással szemben érvényesítheti kellékszavatossági igényét.
 
-Milyen egyéb feltétele van kellékszavatossági jogai érvényesítésének?
+## Milyen egyéb feltétele van kellékszavatossági jogai érvényesítésének?
 
-A teljesítéstől számított hat hónapon belül a kellékszavatossági igénye érvényesítésének a hiba közlésén túl nincs egyéb feltétele, ha Ön igazolja, hogy a terméket, illetve a szolgáltatást a ....[^83] vállalkozás nyújtotta. A teljesítéstől számított hat hónap eltelte után azonban már Ön köteles bizonyítani, hogy az Ön által felismert hiba már a teljesítés időpontjában is megvolt.
+## A teljesítéstől számított egy éven belül a kellékszavatossági igénye érvényesítésének a hiba közlésén túl nincs egyéb feltétele, ha Ön igazolja, hogy a terméket, illetve a szolgáltatást a(z) ……………………………… vállalkozás nyújtotta. A teljesítéstől számított egy év eltelte után azonban már Ön köteles bizonyítani, hogy az Ön által felismert hiba már a teljesítés időpontjában is megvolt.
 
 2. Termékszavatosság
 
@@ -98,9 +96,7 @@ A vállalkozás jótállási kötelezettsége alól csak abban az esetben mentes
 
 Felhívom a figyelmét, hogy ugyanazon hiba miatt kellékszavatossági és jótállási igényt, illetve termékszavatossági és jótállási igényt egyszerre, egymással párhuzamosan nem érvényesíthet, egyébként viszont Önt a jótállásból fakadó jogok az 1. és a 2. pontban meghatározott jogosultságoktól függetlenül megilletik.
 
-[^81]: a vállalkozás nevének beillesztése
-[^82]: két évnél rövidebb határidő esetén beillesztendő
-[^83]: a vállalkozás nevének beillesztése
+[^83]: A 3. melléklet szövege az 531/2022. (XII. 19.) Korm. rendelet 10. §-ával módosított szöveg.
 [^84]: a megfelelő jogszabályhely megjelölése szükséges
 [^85]: jelölje meg a megfelelőt
 [^86]: a vállalkozás nevének beillesztése

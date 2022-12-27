@@ -4,15 +4,15 @@
 
 (2) A fogyasztó az (1) bekezdés szerinti elállási vagy felmondási jogát
 
-a)[^46] áru adásvételére irányuló szerződés esetén
+a)[^48] áru adásvételére irányuló szerződés esetén
 
-aa)[^47] az árunak,
+aa)[^49] az árunak,
 
-ab)[^48] több áru adásvételekor, ha az egyes áruk szolgáltatása eltérő időpontban történik,az utoljára szolgáltatott árunak,
+ab)[^50] több áru adásvételekor, ha az egyes áruk szolgáltatása eltérő időpontban történik,az utoljára szolgáltatott árunak,
 
-ac)[^49] több tételből vagy darabból álló áru esetén az utoljára szolgáltatott tételnek vagy darabnak,
+ac)[^51] több tételből vagy darabból álló áru esetén az utoljára szolgáltatott tételnek vagy darabnak,
 
-ad)[^50] ha a árut meghatározott időszakon belül rendszeresen kell szolgáltatni, az első szolgáltatásnak,
+ad)[^52] ha a árut meghatározott időszakon belül rendszeresen kell szolgáltatni, az első szolgáltatásnak,
 
 a fogyasztó vagy az általa megjelölt, a fuvarozótól eltérő harmadik személy általi átvételének napjától;
 
@@ -20,14 +20,14 @@ b) szolgáltatás nyújtására irányuló szerződés esetében a szerződés m
 
 számított tizennégy napon belül gyakorolhatja.
 
-(3)[^51] A (2) bekezdés a) pontjában foglaltak nem érintik a fogyasztó azon jogát, hogy az e §-ban meghatározott elállási jogát a szerződés megkötésének napja és a áru átvételének napja közötti időszakban is gyakorolja.
+(3)[^53] A (2) bekezdés a) pontjában foglaltak nem érintik a fogyasztó azon jogát, hogy az e §-ban meghatározott elállási jogát a szerződés megkötésének napja és a áru átvételének napja közötti időszakban is gyakorolja.
 
-(4)[^52] Ha a szerződés megkötésére a fogyasztó tett ajánlatot, a fogyasztót a szerződés megkötése előtt megilleti az ajánlat visszavonásának joga, ami a szerződés megkötésére kiterjedő ajánlati kötöttséget megszünteti.
+(4)[^54] Ha a szerződés megkötésére a fogyasztó tett ajánlatot, a fogyasztót a szerződés megkötése előtt megilleti az ajánlat visszavonásának joga, ami a szerződés megkötésére kiterjedő ajánlati kötöttséget megszünteti.
 
-[^46]: A 20. § (2) bekezdés a) pontja a 712/2020. (XII. 30.) Korm. rendelet 16. § 16. pontja szerint módosított szöveg.
-[^47]: A 20. § (2) bekezdés a) pont aa) alpontja a 712/2020. (XII. 30.) Korm. rendelet 16. § 17. pontja szerint módosított szöveg.
-[^48]: A 20. § (2) bekezdés a) pont ab) alpontja a 712/2020. (XII. 30.) Korm. rendelet 16. § 18–20. pontja szerint módosított szöveg.
-[^49]: A 20. § (2) bekezdés a) pont ac) alpontja a 712/2020. (XII. 30.) Korm. rendelet 16. § 21. pontja szerint módosított szöveg.
-[^50]: A 20. § (2) bekezdés a) pont ad) alpontja a 712/2020. (XII. 30.) Korm. rendelet 16. § 22. pontja szerint módosított szöveg.
-[^51]: A 20. § (3) bekezdése a 712/2020. (XII. 30.) Korm. rendelet 16. § 23. pontja szerint módosított szöveg.
-[^52]: A 20. § (4) bekezdését a 107/2017. (IV. 28.) Korm. rendelet 6. §-a iktatta be.
+[^48]: A 20. § (2) bekezdés a) pontja a 712/2020. (XII. 30.) Korm. rendelet 16. § 16. pontja szerint módosított szöveg.
+[^49]: A 20. § (2) bekezdés a) pont aa) alpontja a 712/2020. (XII. 30.) Korm. rendelet 16. § 17. pontja szerint módosított szöveg.
+[^50]: A 20. § (2) bekezdés a) pont ab) alpontja a 712/2020. (XII. 30.) Korm. rendelet 16. § 18–20. pontja szerint módosított szöveg.
+[^51]: A 20. § (2) bekezdés a) pont ac) alpontja a 712/2020. (XII. 30.) Korm. rendelet 16. § 21. pontja szerint módosított szöveg.
+[^52]: A 20. § (2) bekezdés a) pont ad) alpontja a 712/2020. (XII. 30.) Korm. rendelet 16. § 22. pontja szerint módosított szöveg.
+[^53]: A 20. § (3) bekezdése a 712/2020. (XII. 30.) Korm. rendelet 16. § 23. pontja szerint módosított szöveg.
+[^54]: A 20. § (4) bekezdését a 107/2017. (IV. 28.) Korm. rendelet 6. §-a iktatta be.
