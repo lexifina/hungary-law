@@ -4,7 +4,7 @@
 
 ## 1. A törvény hatálya
 
-1. § (1) E törvényt a Magyarországon gyártott vagy forgalomba hozott, valamint forgalmazott termékek magyarországi székhelyű gyártójára, importőrére, forgalmazójára, valamint a gyártó magyarországi székhelyű meghatalmazott képviselőjére kell alkalmazni.
+1. § (1) E törvényt a Magyarországon gyártott vagy forgalomba hozott, valamint forgalmazott termékek gyártójára, importőrére, forgalmazójára, logisztikai szolgáltatójára, valamint a gyártó meghatalmazott képviselőjére kell alkalmazni.
 
 (2) E törvény rendelkezéseit alkalmazni kell a szolgáltatás nyújtása során, azzal összefüggésben forgalmazott termékre is.
 

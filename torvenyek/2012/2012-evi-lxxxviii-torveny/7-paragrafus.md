@@ -8,7 +8,7 @@
 
 (2) A gyártó feladata elkészíteni a termékre a jogszabályban előírt műszaki dokumentációt, elvégezni vagy elvégeztetni az alkalmazandó megfelelőségértékelési eljárásokat.
 
-(3) Amennyiben jogszabály előírja, a CE megfelelőségi jelölés feltüntetését megelőzően a gyártó vagy a megfelelőségértékelő szervezet kiállítja a megfelelőséget igazoló dokumentumot.
+(3) Amennyiben jogszabály előírja, a CE-jelölés feltüntetését megelőzően a gyártó vagy a megfelelőségértékelő szervezet kiállítja a megfelelőséget igazoló dokumentumot.
 
 (4) A gyártó a (2) bekezdésben meghatározott műszaki dokumentációt, valamint az 5. § (3) bekezdése szerinti megfelelőséget igazoló dokumentumokat jogszabályban meghatározott ideig vagy amennyiben ezt jogszabály nem határozza meg, akkor a termék forgalomba hozatalától számított 5 évig köteles megőrizni.
 

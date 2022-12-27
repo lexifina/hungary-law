@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-88-00-00
 | 2020-03-01 | 2019. évi CX. törvény | 2012-88-00-00.8 |
 | 2021-01-01 | 2020. évi CLXVIII. törvény | 2012-88-00-00.9 |
 | 2021-07-16 | 2020. évi XLI. törvény | 2012-88-00-00.10 |
+| 2022-12-27 | 2022. évi LXI. törvény | 2012-88-00-00.12 |

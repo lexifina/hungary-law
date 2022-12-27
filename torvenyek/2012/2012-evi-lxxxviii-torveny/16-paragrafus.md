@@ -18,4 +18,4 @@ terjedhet.
 
 (6) Amennyiben a piacfelügyeleti hatóság az Európai Unió más tagállamában vagy az Európai Gazdasági Térségről szóló megállapodásban részes más államban gyártott termék forgalomból történő kivonásáról dönt, úgy köteles a rendelkezésre álló elérhetőségen az eljárás során ismertté vált gyártót a döntés meghozatalát követő 3 napon belül írásban tájékoztatni.
 
-(7) A piacfelügyeleti hatóság a fogyasztók, felhasználók testi épségének, egészségének védelme érdekében, továbbá a fogyasztók, felhasználók széles körét érintő kárral fenyegető veszély elhárítása érdekében az ügydöntő határozat meghozataláig terjedő időtartamra azonnal végrehajtható végzésben elrendelheti a 15. § (2) bekezdés a), b), c) és g) pontjában foglalt jogkövetkezmények alkalmazását.
+(7) A piacfelügyeleti hatóság a fogyasztók, felhasználók testi épségének, egészségének védelme érdekében, továbbá a fogyasztók, felhasználók széles körét érintő kárral fenyegető veszély elhárítása érdekében az ügydöntő határozat meghozataláig terjedő időtartamra azonnal végrehajtható végzésben elrendelheti a 15. § (9) bekezdés a), b), c) és g) pontjában foglalt jogkövetkezmények alkalmazását.
