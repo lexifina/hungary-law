@@ -168,7 +168,7 @@ j) az új tárolási engedélyes kijelölésére,
 
 17. az ásványi nyersanyag és geotermikus energiavagyon nyilvántartására,
 
-18. a 26/A. § (4) bekezdése szerinti kitermelési határidő meghosszabbítása esetén fizetendő térítés mértékének és a megfizetés módjának megállapítására,
+18. a bányatelek megállapítására és módosítására, a 26/A. § (4) bekezdése szerinti kitermelési határidő meghosszabbítására, a 26/A. § (4) bekezdése szerinti kitermelési határidő meghosszabbítása esetén fizetendő térítés mértékének és a megfizetés módjának megállapítására,
 
 19. a használaton kívüli bányászati célú mélyfúrások nyilvántartására, azok kockázatelemzésére, besorolására, valamint a céltartalék képzésére,
 
