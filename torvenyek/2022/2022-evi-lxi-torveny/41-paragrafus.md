@@ -13,15 +13,3 @@ d) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó 
 való megfelelést szolgálja.
 
 (2) E törvény a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
