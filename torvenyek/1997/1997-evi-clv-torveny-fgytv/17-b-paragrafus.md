@@ -54,8 +54,12 @@ g) a feladatkörrel rendelkező fogyasztóvédelmi szervek, békéltető testül
 
 h) az ügyfélszolgálata elérhetőségére és működésére vonatkozó információkat;
 
-i) az üzletszabályzatát, egyéb általános szerződési feltételeit.
+i) az üzletszabályzatát és az egyéb általános szerződési feltételeit;
+
+j) az üzletszabályzat, egyéb általános szerződési feltétel módosításáról szóló közérthető tájékoztatót.
 
 (10) A (9) bekezdés d) pontja szerinti alkalmazandó díj mértékét felhasználói kategóriánként és településenkénti bontásban kell hozzáférhetővé tenni.
 
 (11) A (9) bekezdés d) és e) pontja szerinti rendeleteket, továbbá i) pontja szerinti üzletszabályzatokat és általános szerződési feltételeket a szövegben való kereshetőség biztosításával, a hatályos időállapotok elhatárolásával kell hozzáférhetővé tenni 5 évre visszamenőleg.
+
+(12) A (9) bekezdés j) pontja szerinti, az üzletszabályzat és az általános szerződési feltétel módosításáról szóló közérthető tájékoztatót a vállalkozás az ügyfélszolgálatán is hozzáférhetővé teszi, továbbá – amennyiben a vállalkozás a fogyasztóval történő kapcsolattartás keretében azzal rendelkezik – a fogyasztó elektronikus levélcímére is megküldi.

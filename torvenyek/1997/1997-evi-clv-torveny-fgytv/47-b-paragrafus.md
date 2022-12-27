@@ -20,4 +20,4 @@ e) kerüli a szükségtelen károkozást,
 
 f) hatósági tanú közreműködését kéri.”
 
-47/B. §
+### 47/B. §

@@ -4,4 +4,4 @@ a) a kérelemmel érintett vállalkozás nevét, valamint ha a fogyasztó rendel
 
 b) a feltételezett jogsértéssel érintett üzlet címét vagy a kifogásolt magatartás elkövetésének helyét,
 
-c) a beadvány tárgyának rövid leírását a rendelkezésre álló dokumentumokkal alátámasztva, ideértve különösen a vállalkozásnak a fogyasztó megkeresésére adott válaszlevelét, a szóbeli panaszról felvett jegyzőkönyvet, vagy postai úton benyújtott panasz esetében a feladás igazolását szolgáló dokumentumot.
+c) a kérelem tárgyának rövid leírását a rendelkezésre álló dokumentumokkal alátámasztva, ideértve különösen a vállalkozásnak a fogyasztó megkeresésére adott válaszlevelét, a szóbeli panaszról felvett jegyzőkönyvet, postai vagy elektronikus úton benyújtott panasz esetében a feladás igazolását szolgáló dokumentumot.

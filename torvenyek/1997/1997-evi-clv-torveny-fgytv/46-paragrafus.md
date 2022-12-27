@@ -1,4 +1,4 @@
-46. § (1)
+46. § (1) A fogyasztóvédelmi hatóság eljárása megindításának feltétele, hogy a fogyasztó az érintett vállalkozással közvetlenül megkísérelje a vitás ügy rendezését.
 
 (2) A fogyasztóvédelmi hatóság eljárásában az általuk védett fogyasztói érdekek védelme körében az ügyfél jogai illetik meg
 

@@ -6,4 +6,4 @@
 
 ## A fogyasztóvédelem állami intézményrendszere
 
-39/A. §
+### 39/A. §

@@ -28,4 +28,4 @@ a) a békéltető testületi tagságra benyújtott pályázat részeként,
 
 b) megbízatásának tartama alatt a békéltető testület elnöke, a békéltető testület elnöke tekintetében a fogyasztóvédelemért felelős miniszter írásbeli felhívására a felhívástól számított tizenöt munkanapon belül, vagy ha ez e határidőn belül az érintetten kívül álló ok miatt nem lehetséges, az ok megszűnését követően haladéktalanul.
 
-(5) A 21. § (3) bekezdésében foglalt feltétel teljesülésének vizsgálata érdekében a békéltető testületi tagok kiválasztására irányuló pályázat során a tagnak jelölt személy életkorát hatósági igazolvánnyal igazolja.
+(5) A 21. § (4) bekezdésében foglalt feltétel teljesülésének vizsgálata érdekében a békéltető testületi tagok kiválasztására irányuló pályázat során a tagnak jelölt személy az életkorát hatósági igazolvánnyal igazolja.

@@ -2,7 +2,7 @@
 
 ## A fogyasztóvédelmi hatóság eljárása
 
-45/A. § (1) A fogyasztóvédelmi hatóság ellenőrzi – a szerződés létrejöttére, érvényességére, joghatásaira és megszűnésére vonatkozó rendelkezések kivételével –
+45/A. § (1) Törvény eltérő rendelkezése hiányában a fogyasztóvédelmi hatóság ellenőrzi – a szerződés létrejöttére, érvényességére, joghatásaira és megszűnésére vonatkozó rendelkezések kivételével –
 
 a) a forgalmazással, szolgáltatásnyújtással,
 
