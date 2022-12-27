@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-47-00-00
 | 2020-01-17 | 2019. évi LXVII. törvény | 2008-47-00-00.16 |
 | 2020-12-12 | 2020. évi CXXXVI. törvény | 2008-47-00-00.17 |
 | 2022-05-28 | 2020. évi CXXXVI. törvény | 2008-47-00-00.18 |
+| 2022-12-27 | 2022. évi LXI. törvény | 2008-47-00-00.20 |

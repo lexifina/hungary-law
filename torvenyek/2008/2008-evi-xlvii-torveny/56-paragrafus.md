@@ -20,53 +20,53 @@ Tisztességtelen kereskedelmi gyakorlatok
 
 3. Minőségi jelzés, bizalmi jegy vagy hasonló megkülönböztető jelölés jogosulatlan feltüntetése.
 
-4. Annak valótlan állítása, hogy a vállalkozást, annak kereskedelmi gyakorlatát vagy áruját valamely közigazgatási hatóság, közigazgatási jogkör gyakorlására feljogosított szerv vagy erre feljogosított magánjogi jogi személy engedélyezte, jóváhagyta vagy elismerte, vagy ilyen állítás az engedélyezési, jóváhagyási, illetve elismerési feltételeknek való megfelelés nélkül.
+4. Annak valótlan állítása, hogy a vállalkozást, annak kereskedelmi gyakorlatát vagy termékét valamely közigazgatási hatóság, közigazgatási jogkör gyakorlására feljogosított szerv vagy erre feljogosított magánjogi jogi személy engedélyezte, jóváhagyta vagy elismerte, vagy ilyen állítás az engedélyezési, jóváhagyási, illetve elismerési feltételeknek való megfelelés nélkül.
 
-5. Áru meghatározott áron való vásárlására felhívás annak elhallgatásával, hogy a vállalkozásnak alapos oka van azt feltételezni, hogy az adott vagy azt helyettesítő árut a kínált áron nem fogja tudni – az árura, a vonatkozó kereskedelmi kommunikáció hatókörére és az ajánlati árra figyelemmel – megfelelő időtartamig és mennyiségben szolgáltatni vagy más vállalkozástól beszerezni (csalogató reklám).
+5. Termék meghatározott áron való vásárlására felhívás annak elhallgatásával, hogy a vállalkozásnak alapos oka van azt feltételezni, hogy az adott vagy azt helyettesítő terméket a kínált áron nem fogja tudni – az árura, a vonatkozó kereskedelmi kommunikáció hatókörére és az ajánlati árra figyelemmel – megfelelő időtartamig és mennyiségben szolgáltatni vagy más vállalkozástól beszerezni (csalogató reklám).
 
-6. Áru meghatározott áron való vásárlására felhívás, majd
+6. Termék meghatározott áron való vásárlására felhívás, majd
 
-a) a felhívásban szereplő áru fogyasztóknak való bemutatásának visszautasítása,
+a) a felhívásban szereplő termék fogyasztóknak való bemutatásának visszautasítása,
 
-b) az árura vonatkozó megrendelés felvételének vagy az áru ésszerű időben való szolgáltatásának visszautasítása, vagy
+b) a termékre vonatkozó megrendelés felvételének vagy a termék ésszerű időben való szolgáltatásának visszautasítása, vagy
 
 c) hibás példány bemutatása
 
-egy másik áru eladásösztönzésének a szándékával (bait-and-switch reklám).
+egy másik termék eladásösztönzésének a szándékával (bait-and-switch reklám).
 
-7. A fogyasztó azonnali döntéshozatalra késztetése céljából annak valótlan állítása, hogy az áru csak nagyon korlátozott ideig áll rendelkezésre, vagy bizonyos feltételek mellett csak nagyon korlátozott ideig áll rendelkezésre, és ezáltal a fogyasztó megfosztása a tájékozott döntéshez szükséges időtől és alkalomtól.
+7. A fogyasztó azonnali döntéshozatalra késztetése céljából annak valótlan állítása, hogy a termék csak nagyon korlátozott ideig áll rendelkezésre, vagy bizonyos feltételek mellett csak nagyon korlátozott ideig áll rendelkezésre, és ezáltal a fogyasztó megfosztása a tájékozott döntéshez szükséges időtől és alkalomtól.
 
 8. Az értékesítést követően teljesítendő szolgáltatás vállalása úgy, hogy a szerződés megkötése előtt a vállalkozás nem a letelepedésének helye szerinti tagállam hivatalos nyelvén tart kapcsolatot a fogyasztóval, majd – anélkül, hogy a szerződéskötés előtt erre a fogyasztó figyelmét egyértelműen felhívta volna – a szolgáltatásnak kizárólag egy ettől eltérő nyelven való elérhetővé tétele.
 
-9. Annak valótlan állítása vagy olyan hamis benyomás keltése – akár önmagában az árunak a kereskedelmi gyakorlatban való megjelenítése által –, hogy az áru jogszerűen forgalmazható.
+9. Annak valótlan állítása vagy olyan hamis benyomás keltése – akár önmagában a terméknek a kereskedelmi gyakorlatban való megjelenítése által –, hogy a termék jogszerűen forgalmazható.
 
 10. A fogyasztók törvényes jogainak olyanként való bemutatása, mintha azok a vállalkozás ajánlatának sajátosságai lennének.
 
-11. Az írott vagy elektronikus médiában szerkesztői tartalom használata az áru értékesítésének vagy más módon történő igénybevételének előmozdítására úgy, hogy ezért a vállalkozás ellenszolgáltatást nyújtott, ez azonban nem tűnik ki egyértelműen a tartalomból vagy a fogyasztó számára egyértelműen felismerhető képi vagy akusztikus elemekből (szerkesztői tartalomnak álcázott reklám).
+11. Az írott vagy elektronikus médiában szerkesztői tartalom használata a termék értékesítésének vagy más módon történő igénybevételének előmozdítására úgy, hogy ezért a vállalkozás ellenszolgáltatást nyújtott, ez azonban nem tűnik ki egyértelműen a tartalomból vagy a fogyasztó számára egyértelműen felismerhető képi vagy akusztikus elemekből (szerkesztői tartalomnak álcázott reklám).
 
-12. Valótlan tény állítása a fogyasztó vagy családja személyes biztonsága fenyegetettségének természetére és mértékére vonatkozóan, arra az esetre, ha a fogyasztó nem vásárolja meg az árut.
+12. Valótlan tény állítása a fogyasztó vagy családja személyes biztonsága fenyegetettségének természetére és mértékére vonatkozóan, arra az esetre, ha a fogyasztó nem vásárolja meg a terméket.
 
-13. Meghatározott vállalkozás által előállított áruhoz hasonló áru reklámozása olyan szándékosan megtévesztő módon, hogy a fogyasztó azt gondolhatja, hogy az árut – a valóságtól eltérően – ugyanaz a vállalkozás állította elő.
+13. Meghatározott vállalkozás által előállított termékhez hasonló termék reklámozása olyan szándékosan megtévesztő módon, hogy a fogyasztó azt gondolhatja, hogy a terméket – a valóságtól eltérően – ugyanaz a vállalkozás állította elő.
 
-14. Piramis-elvre épülő olyan eladásösztönző rendszer létrehozása, működtetése vagy támogatása, ahol a fogyasztó azzal a lehetőséggel számol, hogy – elsősorban további fogyasztóknak a rendszerbe való beléptetéséből, és kevésbé az áruk értékesítéséből vagy fogyasztásából eredően – valamilyen juttatásban részesülhet.
+14. Piramis-elvre épülő olyan eladásösztönző rendszer létrehozása, működtetése vagy támogatása, ahol a fogyasztó azzal a lehetőséggel számol, hogy – elsősorban további fogyasztóknak a rendszerbe való beléptetéséből, és kevésbé a termékek értékesítéséből vagy fogyasztásából eredően – valamilyen juttatásban részesülhet.
 
 15. Annak valótlan állítása, hogy a vállalkozás felhagy a tevékenységével vagy áthelyezi az üzletét.
 
-16. Annak állítása, hogy az áru megkönnyíti a szerencsejátékokban való nyerést.
+16. Annak állítása, hogy a termék megkönnyíti a szerencsejátékokban való nyerést.
 
-17. Annak valótlan állítása, hogy az áru alkalmas betegségek, illetve az emberi szervezet működési zavarai vagy rendellenességei gyógyítására.
+17. Annak valótlan állítása, hogy a termék alkalmas betegségek, illetve az emberi szervezet működési zavarai vagy rendellenességei gyógyítására.
 
-18. Téves tényszerű információ közlése a piaci feltételekről vagy az áru fellelhetőségének lehetőségeiről azzal a szándékkal, hogy a fogyasztót az árunak a szokásos piaci feltételeknél kedvezőtlenebb feltételek melletti megvételére, illetve igénybevételére bírja rá.
+18. Téves tényszerű információ közlése a piaci feltételekről vagy a termék fellelhetőségének lehetőségeiről azzal a szándékkal, hogy a fogyasztót a terméknek a szokásos piaci feltételeknél kedvezőtlenebb feltételek melletti megvételére, illetve igénybevételére bírja rá.
 
 19. A kereskedelmi gyakorlat keretében verseny vagy díj meghirdetése anélkül, hogy a meghirdetett díjak vagy azok helyett más ésszerű megfelelő kiosztásra kerülne.
 
-20. Az áru „ingyenes”, „díjtalan”, „térítésmentes” vagy hasonló jelzőkkel való leírása, ha a fogyasztónak a kereskedelmi gyakorlatban való részvétellel és az áru birtokbavételével, illetve fuvarozásával összefüggő elkerülhetetlen költségeken felül bármit is fizetnie kell.
+20. A termék „ingyenes”, „díjtalan”, „térítésmentes” vagy hasonló jelzőkkel való leírása, ha a fogyasztónak a kereskedelmi gyakorlatban való részvétellel és a termék birtokbavételével, illetve fuvarozásával összefüggő elkerülhetetlen költségeken felül bármit is fizetnie kell.
 
 21. A reklámanyagban számla vagy más hasonló, fizetési felszólítást tartalmazó dokumentum küldése azt a hamis benyomást keltve a fogyasztóban, hogy már megrendelte a reklámozott árut.
 
 22. Annak valótlan állítása vagy olyan hamis benyomás keltése, hogy a vállalkozás nem a saját vállalkozásával, gazdasági tevékenységével vagy szakmájával összefüggő célból jár el, vagy egyébként hamisan fogyasztóként való fellépés.
 
-23. Olyan hamis benyomás keltése, hogy az áruval kapcsolatban az értékesítést követően teljesítendő szolgáltatás biztosított az értékesítés helyétől eltérő tagállamban.
+23. Olyan hamis benyomás keltése, hogy a termékkel kapcsolatban az értékesítést követően teljesítendő szolgáltatás biztosított az értékesítés helyétől eltérő tagállamban.
 
 24. Olyan benyomás keltése a fogyasztóban, hogy nem hagyhatja el az üzlethelyiséget, amíg nem köt szerződést.
 
@@ -76,11 +76,11 @@ egy másik áru eladásösztönzésének a szándékával (bait-and-switch rekl�
 
 27. Biztosítási szerződésen alapuló követelést érvényesíteni kívánó fogyasztótól olyan iratok bemutatásának megkövetelése, amelyek a követelés megalapozottságának megítélése szempontjából ésszerűen nem tekinthetők lényegesnek, vagy a fogyasztó vonatkozó írásbeli megkeresésére a válaszadás rendszeres elmulasztása azzal a céllal, hogy ez visszatartsa a fogyasztót szerződéses jogainak gyakorlásától.
 
-28. Reklámban gyermekkorúak közvetlen felszólítása a reklámozott áru megvételére, illetve igénybevételére vagy arra, hogy győzzék meg szüleiket vagy más felnőttet, hogy vásárolja meg számukra a reklámozott árut.
+28. Reklámban gyermekkorúak közvetlen felszólítása a reklámozott termék megvételére, illetve igénybevételére vagy arra, hogy győzzék meg szüleiket vagy más felnőttet, hogy vásárolja meg számukra a reklámozott terméket.
 
-29. Azonnali vagy halasztott fizetés követelése a vállalkozás által szállított vagy nyújtott áruért, illetve az áru visszaszolgáltatásának vagy megőrzésének követelése, ha azt a fogyasztó nem rendelte meg (nem kért értékesítés), kivéve, ha a szerződésnek megfelelő helyettesítő áruról van szó.
+29. Azonnali vagy halasztott fizetés követelése a vállalkozás által szállított vagy nyújtott termékért, illetve a termék visszaszolgáltatásának vagy megőrzésének követelése, ha azt a fogyasztó nem rendelte meg (nem kért értékesítés), kivéve, ha a szerződésnek megfelelő helyettesítő áruról van szó.
 
-30. A fogyasztó kifejezetten arról való tájékoztatása, hogy ha nem vásárolja meg az adott árut, veszélybe kerül a vállalkozás vagy alkalmazottja munkája vagy megélhetése.
+30. A fogyasztó kifejezetten arról való tájékoztatása, hogy ha nem vásárolja meg az adott terméket, veszélybe kerül a vállalkozás vagy alkalmazottja munkája vagy megélhetése.
 
 31. Olyan hamis benyomás keltése, hogy a fogyasztó már megnyert, meg fog nyerni, vagy meghatározott cselekmény megtétele révén fog megnyerni egy nyereményt (díjat, jutalmat vagy azzal egyenértékű egyéb előnyt), miközben valójában nincs ilyen nyeremény, vagy a nyeremény érvényesítése, illetve igénybevétele a fogyasztó számára meghatározott pénzösszeg megfizetéséhez vagy költségek viseléséhez kötött.
 

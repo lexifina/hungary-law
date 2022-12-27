@@ -1,6 +1,6 @@
 ## Általános rendelkezések
 
-1. § (1) Ez a törvény állapítja meg az áruhoz kapcsolódó, a kereskedelmi ügylet lebonyolítását megelőzően, annak során és azt követően a fogyasztóval szemben alkalmazott kereskedelmi gyakorlatokra, valamint az ilyen kereskedelmi gyakorlat tekintetében alkalmazott magatartási kódexekre vonatkozó követelményeket, és az azok megsértésével szembeni eljárás szabályait.
+1. § (1) Ez a törvény állapítja meg a termékhez kapcsolódó, a kereskedelmi ügylet lebonyolítását megelőzően, annak során és azt követően a fogyasztóval szemben alkalmazott kereskedelmi gyakorlatokra, valamint az ilyen kereskedelmi gyakorlat tekintetében alkalmazott magatartási kódexekre vonatkozó követelményeket, és az azok megsértésével szembeni eljárás szabályait.
 
 (2) E törvény hatálya arra a kereskedelmi gyakorlatra terjed ki, amely Magyarország területén valósul meg, továbbá arra is, amely Magyarország területén bárkit fogyasztóként érint.
 
@@ -18,7 +18,7 @@ a) pénzügyi és kiegészítő pénzügyi szolgáltatás, biztosítási, biztos
 
 b) ingatlanokra vonatkozóan,
 
-c) az áru egészségügyi vonatkozásaival vagy biztonságosságával összefüggő követelmények érvényesítése céljából,
+c) a termék egészségügyi vonatkozásaival vagy biztonságosságával összefüggő követelmények érvényesítése céljából,
 
 d) a környezet védelmével összefüggő követelmények érvényesítése céljából, vagy
 
@@ -28,4 +28,4 @@ e) a külföldi bizonyítványok és oklevelek elismeréséről szóló törvén
 
 a) ez kötelező európai uniós jogi aktus végrehajtásához szükséges, vagy
 
-b) azt valamely, egyes árukra vagy azok meghatározott csoportjára vonatkozó kötelező európai uniós jogi aktus kifejezetten megengedi.
+b) azt valamely, egyes termékre vagy azok meghatározott csoportjára vonatkozó kötelező európai uniós jogi aktus kifejezetten megengedi.

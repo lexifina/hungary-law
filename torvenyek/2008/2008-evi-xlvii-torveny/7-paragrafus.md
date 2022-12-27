@@ -22,11 +22,11 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 
 (5) Vásárlásra felhívás esetén jelentős információ:
 
-a) az áru lényeges jellemzői, az alkalmazott kommunikációs eszköznek megfelelő mértékben,
+a) a termék lényeges jellemzői, az alkalmazott kommunikációs eszköznek megfelelő mértékben,
 
 b) a vállalkozás neve és címe azonosításra alkalmas módon, illetve annak a vállalkozásnak az azonosításra alkalmas neve és címe, amelynek a javára a kereskedelmi gyakorlat megvalósítója eljár,
 
-c) az általános forgalmi adót és egyéb kötelező terheket is magában foglaló ár, illetve díj vagy – amennyiben az áru jellegéből adódóan az árat, illetve díjat nem lehet ésszerűen előre megállapítani – az ár, illetve díj megállapításának módja, valamint az összes járulékos költség, így különösen fuvardíj, szállítási vagy postaköltség, illetve amennyiben e költségeket nem lehet ésszerűen előre megállapítani, annak feltüntetése, hogy ilyen további költségek merülhetnek fel,
+c) az általános forgalmi adót és egyéb kötelező terheket is magában foglaló ár, illetve díj vagy – amennyiben a termék jellegéből adódóan az árat, illetve díjat nem lehet ésszerűen előre megállapítani – az ár, illetve díj megállapításának módja, valamint az összes járulékos költség, így különösen fuvardíj, szállítási vagy postaköltség, illetve amennyiben e költségeket nem lehet ésszerűen előre megállapítani, annak feltüntetése, hogy ilyen további költségek merülhetnek fel,
 
 d) a fizetés, a szállítás és a teljesítés feltételei, ha azok eltérnek a szakmai gondosság által támasztott követelményektől,
 

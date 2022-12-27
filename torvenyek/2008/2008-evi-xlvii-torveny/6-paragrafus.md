@@ -1,8 +1,8 @@
 6. § (1) Megtévesztő az a kereskedelmi gyakorlat, amely valótlan információt tartalmaz, vagy valós tényt – figyelemmel megjelenésének valamennyi körülményére – olyan módon jelenít meg, hogy megtéveszti vagy alkalmas arra, hogy megtévessze a fogyasztót az alábbiak közül egy vagy több tényező tekintetében, és ezáltal a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg, vagy erre alkalmas:
 
-a) az áru létezése, természete, figyelembe véve a termék megnevezésére vonatkozó jogszabályi előírásokat is,
+a) a termék létezése, természete, figyelembe véve a termék megnevezésére vonatkozó jogszabályi előírásokat is,
 
-b) az áru lényeges jellemzői, így különösen
+b) a termék lényeges jellemzői, így különösen
 
 ba) kivitelezése, összetétele, műszaki jellemzői, tartozékai,
 
@@ -26,23 +26,23 @@ bj) az egészségre gyakorolt hatása, vagy
 
 bk) tesztelése, ellenőrzöttsége vagy annak eredménye,
 
-c) az áru ára, illetve díja, az ár, illetve díj megállapításának módja, különleges árkedvezmény vagy árelőny megléte,
+c) a termék ára, illetve díja, az ár, illetve díj megállapításának módja, különleges árkedvezmény vagy árelőny megléte,
 
-d) az áru igénybevételéhez kapcsolódó adómentesség, adókedvezmény vagy más adóelőny,
+d) a termék igénybevételéhez kapcsolódó adómentesség, adókedvezmény vagy más adóelőny,
 
-e) az áruhoz kapcsolódóan valamely szolgáltatás, alkatrész, csere vagy javítás szükségessége,
+e) a termékhez kapcsolódóan valamely szolgáltatás, alkatrész, csere vagy javítás szükségessége,
 
-f) az áruhoz kapcsolódóan biztosított ügyfélszolgálat és panaszkezelés,
+f) a termékhez kapcsolódóan biztosított ügyfélszolgálat és panaszkezelés,
 
 g) a vállalkozás vagy képviselőjének személye, jellemzői és jogai, így különösen az ilyen minősége, a jogállása, társulásokban való részvétele és kapcsolatai, vagyona, szellemi alkotásokon fennálló jogai és kereskedelmi tulajdonjoga, engedélye, képesítései, díjai és kitüntetései,
 
-h) a vállalkozás kötelezettségvállalásának mértéke, a kereskedelmi gyakorlat indítékai, az értékesítési folyamat természete, a szponzorálásra, a vállalkozás vagy az áru jóváhagyására vonatkozó bármely állítás vagy jelzés, vagy
+h) a vállalkozás kötelezettségvállalásának mértéke, a kereskedelmi gyakorlat indítékai, az értékesítési folyamat természete, a szponzorálásra, a vállalkozás vagy a termék jóváhagyására vonatkozó bármely állítás vagy jelzés, vagy
 
 i) a fogyasztó jogai, illetve a fogyasztót az ügylet folytán esetlegesen terhelő hátrányos jogkövetkezmények kockázata.
 
 (2) Megtévesztő kereskedelmi gyakorlat továbbá
 
-a) az a kereskedelmi gyakorlat, amely más vállalkozással, illetve annak cégnevével, árujával, árujelzőjével vagy egyéb megjelölésével való összetévesztésre vezethet,
+a) az a kereskedelmi gyakorlat, amely más vállalkozással, illetve annak cégnevével, termékével, árujelzőjével vagy egyéb megjelölésével való összetévesztésre vezethet,
 
 b) az olyan magatartási kódexben foglalt követelmény be nem tartása, amelynek a vállalkozás alávetette magát, amennyiben a vállalkozás
 

@@ -1,6 +1,6 @@
 ## Felelősség a tisztességtelen kereskedelmi gyakorlat tilalmának megsértése miatt
 
-9. § (1) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértéséért felel az a vállalkozás, amelynek a kereskedelmi gyakorlattal érintett áru értékesítése, eladásának ösztönzése közvetlenül érdekében áll.
+9. § (1) A tisztességtelen kereskedelmi gyakorlat tilalmának megsértéséért felel az a vállalkozás, amelynek a kereskedelmi gyakorlattal érintett termék értékesítése, eladásának ösztönzése közvetlenül érdekében áll.
 
 (2) Az (1) bekezdés szerinti vállalkozás felel akkor is, ha a kereskedelmi gyakorlatot szerződés alapján más személy valósítja meg a vállalkozás érdekében vagy javára.
 
