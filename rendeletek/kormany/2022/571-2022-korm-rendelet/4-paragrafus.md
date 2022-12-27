@@ -1,7 +1,3 @@
-## „g) a 48/A. és az 51–69. alcím szerinti támogatás esetén 2022. december 31-ig”
+4. §[^5]
 
-## (lehet támogatási döntést hozni.)
-
-4. § A 255/2014. (X. 10.) Korm. rendelet 24. §-a a következő h) ponttal egészül ki:
-
-(E rendelet alapján)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-6. § A 255/2014. (X. 10.) Korm. rendelet 85/U. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+6. §[^7]
 
-„85/U. § (1) A támogatás támogatástartalma a közlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve, a (2) bekezdésben meghatározott kivétellel – nem haladhatja meg a 2 000 000 eurónak megfelelő forintösszeget.
-
-(2) A mezőgazdasági termékek elsődleges termelésével foglalkozó vállalkozások esetén az e tevékenységekhez összesen nyújtott támogatás támogatástartalma a közlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 250 000 eurónak megfelelő forintösszeget. A halászati és akvakultúra-ágazathoz tartozó vállalkozások esetén az e tevékenységekhez összesen nyújtott támogatás támogatástartalma a közlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
