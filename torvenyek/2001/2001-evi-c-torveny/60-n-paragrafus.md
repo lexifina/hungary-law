@@ -1,4 +1,4 @@
-60/N. § (1) Az 1. § (6) bekezdésében szereplő rendelkezések elfogadása előtt a jogalkotónak a következőket kell mérlegelnie:
+60/N. § (1) Az 1. § (6) bekezdésében szereplő rendelkezések elfogadása előtt a rendelkezések előkészítőjének a következőket kell mérlegelnie:
 
 a) a kitűzött közérdekű célokhoz kapcsolódó kockázatok jellege;
 
@@ -12,7 +12,7 @@ e) kevésbé korlátozó eszközök használatának lehetősége a közérdekű 
 
 f) az új vagy módosított rendelkezések hatása a szakmához való hozzáférést vagy annak gyakorlását korlátozó egyéb rendelkezésekkel együtt.
 
-(2) A jogalkotó az alábbi elemeket is mérlegeli, ha azok a bevezetendő vagy a módosított rendelkezés jellege és tartalma szempontjából relevánsak:
+(2) A rendelkezések előkészítője az alábbi elemeket is mérlegeli, ha azok a bevezetendő vagy a módosított rendelkezés jellege és tartalma szempontjából relevánsak:
 
 a) a kapcsolat a szakma által felölelt vagy annak fenntartott tevékenységek köre és a szükséges szakmai képesítés között;
 
@@ -26,7 +26,7 @@ e) az autonómia mértéke egy szabályozott szakma gyakorlása során, valamint
 
 f) a tudományos és technológiai fejlődés, amely ténylegesen csökkentheti vagy növelheti a szakemberek és a fogyasztók közötti információs aszimmetriát.
 
-(3) Az (1) bekezdés f) pontjának alkalmazása során a jogalkotó
+(3) Az (1) bekezdés f) pontjának alkalmazása során a rendelkezések előkészítője
 
 a) értékeli az új vagy módosított rendelkezés által a követelmények közül eggyel vagy többel együttesen kifejtett hatásokat, valamint
 
@@ -56,8 +56,8 @@ bk) a rögzített minimális és maximális díjszabási követelményeket;
 
 bl) a reklámozásra vonatkozó követelményeket.
 
-(4) Új követelmények bevezetése, illetve a meglévő követelmények módosítása előtt a jogalkotó biztosítja, hogy az e törvényben foglaltak szerinti, a szolgáltatások ideiglenes vagy alkalmi nyújtásával kapcsolatos sajátos követelmények megfeleljenek az arányosság elvének.
+(4) Új követelmények bevezetése, illetve a meglévő követelmények módosítása előtt a rendelkezések előkészítője biztosítja, hogy az e törvényben foglaltak szerinti, a szolgáltatások ideiglenes vagy alkalmi nyújtásával kapcsolatos sajátos követelmények megfeleljenek az arányosság elvének.
 
 (5) A (3) bekezdésben foglaltakat nem kell alkalmazni az európai uniós jognak megfelelően alkalmazott, a hatályos foglalkoztatási szabályok és feltételek betartását célzó intézkedésekre.
 
-(6) Amennyiben az (1)–(5) bekezdésben szereplő rendelkezések az egészségügyi szakmák szabályozását érintik és betegbiztonsági vonatkozással bírnak, a jogalkotó figyelembe veszi az emberi egészség magas szintű védelmének célját.
+(6) Amennyiben az (1)–(5) bekezdésben szereplő rendelkezések az egészségügyi szakmák szabályozását érintik és betegbiztonsági vonatkozással bírnak, a rendelkezések előkészítője figyelembe veszi az emberi egészség magas szintű védelmének célját.
