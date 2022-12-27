@@ -4,4 +4,4 @@
 
 ## A Nemzeti Média- és Hírközlési Hatóság
 
-9. §
+### 9. §

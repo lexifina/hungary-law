@@ -4,4 +4,4 @@
 
 ## Hírközlési és Média Biztos
 
-126. §
+### 126. §
