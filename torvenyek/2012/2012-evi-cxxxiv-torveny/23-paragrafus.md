@@ -2,9 +2,9 @@
 
 a) az engedély kiadása után merül fel olyan tény, adat vagy körülmény, amely miatt az engedélykérelem elutasításának lett volna helye;
 
-b) a dohánytermék-kiskereskedő a dohánytermék-kereskedelmi tevékenységgel összefüggő szabályokat legalább három alkalommal olyan súlyosan megsértette, hogy az a tevékenysége folytatását nem teszi lehetővé, feltéve, hogy a jogsértés tényéről a Hatóság jogerős határozatot hozott, és e jogkövetkezmény alkalmazásának lehetőségére őt a Hatóság előzetesen figyelmeztette;
+b) a dohánytermék-kiskereskedő a dohánytermék-kereskedelmi tevékenységgel összefüggő szabályokat legalább három alkalommal olyan súlyosan megsértette, hogy az a tevékenysége folytatását nem teszi lehetővé, feltéve, hogy a jogsértés tényéről a Hatóság végleges határozatot hozott, és e jogkövetkezmény alkalmazásának lehetőségére őt a Hatóság előzetesen figyelmeztette;
 
-c) a dohánytermék-kiskereskedő 1 éven belül legalább három különböző alkalommal a dohánytermék-kiskereskedelmi tevékenységgel összefüggő szabályokat megsértette, feltéve, hogy a jogsértés tényéről a Hatóság jogerős határozatot hozott, és az első jogsértést követő 365 napon belül a harmadik jogsértés is megvalósul, függetlenül attól, hogy a jogsértések tényét a Hatóság mikor állapítja meg, illetve határozata mikor válik jogerőssé;
+c) a dohánytermék-kiskereskedő 1 éven belül legalább három különböző alkalommal a dohánytermék-kiskereskedelmi tevékenységgel összefüggő szabályokat megsértette, feltéve, hogy a jogsértés tényéről a Hatóság végleges határozatot hozott, és az első jogsértést követő 365 napon belül a harmadik jogsértés is megvalósul, függetlenül attól, hogy a jogsértések tényét a Hatóság mikor állapítja meg, illetve határozata mikor válik véglegessé;
 
 d) a dohánytermék-kiskereskedő a Hatóság felhívása ellenére sem közli a tevékenységével összefüggő adatokat;
 
@@ -14,17 +14,17 @@ f) a dohánytermék-kiskereskedő a dohánytermék-kiskereskedelmi tevékenység
 
 (2) A Hatóság – e törvény eltérő rendelkezése hiányában – a dohánytermék-kiskereskedelmi tevékenység folytatására vonatkozó engedélyt visszavonja, ha
 
-a) a dohánytermék-kiskereskedő 1 éven belül legalább három alkalommal e törvénynek a fiatalkorúak különös védelmére vonatkozó szabályait megsértette, feltéve, hogy a jogsértés tényéről a Hatóság jogerős határozatot hozott, és az első jogsértést követő 365 napon belül a harmadik jogsértés is megvalósul, függetlenül attól, hogy a jogsértések tényét a Hatóság mikor állapítja meg, illetve határozata mikor válik jogerőssé;
+a) a dohánytermék-kiskereskedő 1 éven belül legalább három alkalommal e törvénynek a fiatalkorúak különös védelmére vonatkozó szabályait megsértette, feltéve, hogy a jogsértés tényéről a Hatóság végleges határozatot hozott, és az első jogsértést követő 365 napon belül a harmadik jogsértés is megvalósul, függetlenül attól, hogy a jogsértések tényét a Hatóság mikor állapítja meg, illetve határozata mikor válik véglegessé;
 
-b) a dohánytermék-kiskereskedő által üzemeltetett dohányboltban a dohányáruk reklámozásának tilalmára vonatkozó szabályokat 1 éven belül legalább három különböző alkalommal megsértették, feltéve, hogy a jogsértés tényéről a Hatóság jogerős határozatot hozott, és az első jogsértést követő 365 napon belül a harmadik jogsértés is megvalósul, függetlenül attól, hogy a jogsértések tényét a Hatóság mikor állapítja meg, illetve határozata mikor válik jogerőssé;
+b) a dohánytermék-kiskereskedő által üzemeltetett dohányboltban a dohányáruk reklámozásának tilalmára vonatkozó szabályokat 1 éven belül legalább három különböző alkalommal megsértették, feltéve, hogy a jogsértés tényéről a Hatóság végleges határozatot hozott, és az első jogsértést követő 365 napon belül a harmadik jogsértés is megvalósul, függetlenül attól, hogy a jogsértések tényét a Hatóság mikor állapítja meg, illetve határozata mikor válik véglegessé;
 
-c) a dohánytermék-kiskereskedő a Hatóság hatósági intézkedése ellenére a jogszabálysértő állapotot nem szünteti meg;
+c)
 
-d) a dohánytermék-kiskereskedő a dohánytermék-kiskereskedelmi tevékenységet az engedély kézhezvételétől számított 90 napon belül nem kezdi meg;
+d) a dohánytermék-kiskereskedő a dohánytermék-kiskereskedelmi tevékenységet az engedély közlésétől számított 90 napon belül nem kezdi meg;
 
 e) a dohánytermék-kiskereskedő tevékenységét az engedélyben foglalt telephelytől eltérő helyen is folytatja – ide nem értve a 11. § (3) bekezdésében foglaltakat –;
 
-f) a dohánytermék-kiskereskedő a dohányboltban (elkülönített helyen) olyan terméket értékesít, vagy olyan szolgáltatást nyújt, amely termék értékesítését, vagy szolgáltatás nyújtását e törvény nem teszi lehetővé;
+f)
 
 g) a dohánytermék-kiskereskedelmi jogosultság megszűnt.
 

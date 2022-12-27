@@ -1,6 +1,6 @@
 24/C. § Felhatalmazást kap a Kormány, hogy
 
-a) az e törvényben nem szabályozott, a dohánytermék-kiskereskedelmi tevékenység biztonságos, szakszerű lebonyolításához szükséges személyi, tárgyi és gazdasági feltételeket,
+a)
 
 b)
 
@@ -10,7 +10,7 @@ d)
 
 e) a koncessziós szerződés módosítására vonatkozó eljárási szabályokat a dohányboltok nyitvatartási ideje tekintetében
 
-f) a 4. § (2) bekezdésében, a 10. § (1) és (4) bekezdésében, a 10/B. § (5) bekezdésében, a 13. § (14) bekezdésében, a 16/B. §-ban, a 22. § (2) bekezdésében, a 24/A. §-ban valamint a 24/B. § (2) bekezdésében meghatározott feladatok ellátására köteles minisztert vagy központi kormányzati igazgatási szervet
+f) a 4. § (2) bekezdésében, a 10. § (1) és (4) bekezdésében, a 10/B. § (5) bekezdésében, a 24/A. § (2)–(5), (8), (9), (11) és (13) bekezdésében meghatározott feladatok ellátására köteles minisztert vagy központi kormányzati igazgatási szervet,
 
 g) a 24/H. § szerinti kompenzáció igénylésére, elbírálására és kifizetésére irányuló eljárás részletes szabályait,
 

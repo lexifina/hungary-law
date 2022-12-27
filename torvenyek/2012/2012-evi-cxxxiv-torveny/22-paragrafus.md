@@ -16,6 +16,6 @@ b) gazdasági társaság esetében – ideértve az egyéni vállalkozót is –
 
 terjedő bírsággal sújtja. Különös méltánylást érdemlő esetben a Hatóság a bírságot 50%-kal mérsékelheti.
 
-(4) A bírság együttesen, illetve a 23. § rendelkezései szerint hozott intézkedés mellett is kiszabható.
+(4) A bírság együttesen, illetve a 23. § és a 23/C. § rendelkezései szerint hozott intézkedés mellett is kiszabható.
 
-(5) A (2)–(3) bekezdés szerinti bírságot a kötelezett a döntés véglegessé válásától számított 15 napon belül köteles megfizetni a Hatóság számlájára. A bírság megfizetésének módjára az adóigazgatási eljárás részletszabályairól szóló kormányrendeletnek az adófizetésre vonatkozó rendelkezései az irányadóak.
+(5) Az e törvény szerinti bírságot a kötelezett a döntés véglegessé válásától számított 15 napon belül köteles megfizetni a Hatóság számlájára. A bírság megfizetésének módjára az adóigazgatási eljárás részletszabályairól szóló kormányrendeletnek az adófizetésre vonatkozó rendelkezései az irányadóak.

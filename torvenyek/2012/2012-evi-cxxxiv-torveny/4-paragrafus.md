@@ -1,4 +1,4 @@
-4. § (1) Az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter (a továbbiakban: miniszter) ellátja a dohánytermék-kiskereskedelmi tevékenység szervezésének szakmai irányítását, melynek során mindenkor – e törvény alapvető céljának – a fiatalkorúak védelmének elsődlegessége alapján kell tevékenykednie.
+4. § (1)
 
 (2) A kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv
 
@@ -12,6 +12,8 @@ d) ellátja a koncessziós szerződésekkel összefüggő követeléskezelési f
 
 e) kijelöli a 10. § (1) bekezdés szerinti, a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyt.
 
+(2a) A dohánytermék-kiskereskedelmi tevékenység szakmai felügyeletét a Hatóság látja el, amelynek során mindenkor – e törvény alapvető céljának – a fiatalkorúak védelmének elsődlegessége alapján kell tevékenykednie.
+
 (3) A Hatóság
 
 a) előmozdítja a dohánytermék-kiskereskedelem szervezett működését, szakmai állásfoglalásokat bocsát ki,
@@ -22,7 +24,7 @@ c) ellátja a dohánytermék-kiskereskedelem engedélyezésével, a dohányterm�
 
 d) ellátja a dohánytermék-kiskereskedelem hatósági felügyeletével és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésével kapcsolatos feladatokat,
 
-e) gyakorolja a dohánytermék-kiskereskedelem és a dohány-kiskereskedelmi ellátási jogosultság átengedéséről szóló pályázat kiírásához, elbírálásához, továbbá a dohánytermék-kiskereskedelmi, dohány-kiskereskedelmi ellátási tevékenység gyakorlására jogosító koncessziós szerződés megkötéséhez, módosításához, megszüntetéséhez előzetes hozzájárulási megadásához kapcsolódó jogkört,
+e)
 
 f) végzi a dohánytermék-nagykereskedőknek a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvény szerinti hatósági ellenőrzésével, felügyeletével kapcsolatos feladatokat,
 
@@ -36,7 +38,7 @@ j) fogadja a Hatóság elnökének a dohánytermék-kiskereskedelmi tevékenysé
 
 k) a dohánytermékek árainak közzététele érdekében jogszabályban meghatározottak szerint a szolgáltatott árbejelentéseket rendszerezi, feldolgozza és honlapján közzéteszi, és
 
-l) a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyek kötelezettségeit ellenőrzi.
+l) a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személyekről közhiteles nyilvántartást vezet és kötelezettségeik teljesítését ellenőrzi,
 
 m) eljár a jogosulatlan dohánytermék-kiskereskedelmi tevékenységet folytatókkal szemben.
 

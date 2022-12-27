@@ -4,9 +4,9 @@ a) „Nemzeti Dohánybolt” felirat;
 
 b) olyan kör alakú jelzés, amelynek átmérője legalább 40 centiméter, és amelyen fehér alapon fekete vagy piros nyomtatással megjelenítésre kerül a következő szám: „18”, azzal, hogy a kör alakú jelzés külső kerületén legalább egy 4 cm vastagságú külső, piros gyűrű látszik;
 
-c) a dohánybolt nyitvatartására és üzemeltetőjére vonatkozó, jogszabályban meghatározott adatok;
+c) a dohánybolt nyitvatartására vonatkozó adatok és az üzemeltető gazdasági társaság vagy egyéni vállalkozó neve és székhelye és
 
-d) a koncessziós szerződésben meghatározott, a dohányboltra utaló egységes jelzés.
+d) a koncessziós szerződésben vagy a dohánytermék-kiskereskedelmi tevékenység folytatására feljogosított személy kijelölési okiratában meghatározott, dohányboltra utaló egységes jelzés.
 
 (1a) A dohánybolt külső felületén meg lehet jeleníteni a jogszabály alapján dohányboltban forgalmazható termék, termékek forgalmazása esetén az ilyen termékre, termékekre utaló feliratot vagy ábrát azzal, hogy a (2) bekezdésben foglaltakat mindenkor alkalmazni kell. Ugyancsak megjeleníthető az (1) bekezdésben felsorolt, valamint az e bekezdés alapján megjeleníthető adatok idegen nyelvű megfelelője is.
 

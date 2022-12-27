@@ -46,6 +46,8 @@ dd) jövedéki engedélyes kereskedő;
 
 15. jogosulatlan dohánytermék kiskereskedelem: az 1. § (1) bekezdés szerinti termékek e törvény szerinti dohánytermék-kiskereskedelmi tevékenység folytatására jogosító engedély nélküli vagy a 10. § (1) bekezdés szerinti feljogosítás hiányában történő értékesítése; továbbá olyan termék értékesítése, amelynek a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló kormányrendelet alapján, Magyarországon történő forgalomba hozatala tilos.
 
+16. dohánytermék-kiskereskedelmi tevékenységet végző személy: a dohánytermék-kiskereskedő, a 10. § (1) bekezdés szerinti, a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személy és a 13. § (8a) bekezdése szerinti helyettes gyakorló.
+
 (2) E törvény alkalmazásában
 
 a) a füst nélküli dohánytermék,
@@ -70,4 +72,4 @@ a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalma
 
 1. CÍM
 
-A miniszter jogai és feladatai
+A miniszter, valamint a Hatóság jogai és feladatai

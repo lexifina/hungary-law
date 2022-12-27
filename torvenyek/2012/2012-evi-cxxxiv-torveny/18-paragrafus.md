@@ -1,4 +1,4 @@
-18. § (1) A Hatóság dohánytermék-kiskereskedelmi ügyben – az e törvényben meghatározott eltérésekkel – az általános közigazgatási rendtartásról szóló törvény szerint jár el azzal, hogy fizetési kedvezmény engedélyezésének nincs helye. A bírság végrehajtására az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló törvény rendelkezései az irányadóak.
+18. § (1) A Hatóság dohánytermék-kiskereskedelmi ügyben – az e törvényben valamint a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvényben meghatározott eltérésekkel – az általános közigazgatási rendtartásról szóló törvény szerint jár el.
 
 (2)
 

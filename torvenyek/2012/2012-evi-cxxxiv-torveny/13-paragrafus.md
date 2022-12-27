@@ -20,13 +20,13 @@ b) a kérelmezőnek 30 napon túli lejáratú, állami adóhatóság által beha
 
 c) a kérelmező a jogszabályban meghatározott feltételeknek nem felel meg.
 
-d) a Hatóság a kérelem benyújtását megelőző 5 éven belül a kérelmezővel szemben a 22. §-ban foglaltak szerint véglegesen 1 millió forintot meghaladó bírságot, vagy 200 ezer – magánszemély esetén 100 ezer – forintot meghaladó mértékű eljárási bírságot szabott ki.
+d) a kérelem benyújtását megelőző öt éven belül a kérelmezővel szemben a 22. §-ban foglaltak szerint véglegesen 1 millió forintot meghaladó bírságot vagy 200 ezer – természetes személy esetén 100 ezer – forintot meghaladó mértékű eljárási bírságot szabtak ki.
 
 (6) Az engedély kizárólag az abban meghatározott jogosultra és időtartamra, az abban foglalt feltételekkel és az engedélyben meghatározott dohányboltra vagy üzletre (elkülönített helyre) vonatkozik. Az engedély – ha a törvény másként nem rendelkezik – másra át nem ruházható. Ha az engedély jogosultja a dohánytermékek értékesítésére munkavállalót (megbízottat) alkalmaz, akkor biztosítania kell és felel azért, hogy a munkavállaló (megbízott) az engedélyben foglaltaknak megfelelően jár el.
 
-(7) Az engedély jogosultja a dohánytermék-kiskereskedelmi tevékenység körébe tartozó, az engedély kiadásánál figyelembe vett tény, vagy körülmény változásáról a Hatóságot tizenöt napon belül köteles értesíteni.
+(7) Az engedély jogosultja a dohánytermék-kiskereskedelmi tevékenység körébe tartozó, az engedély kiadásánál figyelembe vett tény vagy körülmény változását tizenöt napon belül bejelenti a Hatósághoz. Az engedély jogosultja a tevékenység végzési helyének módosítási szándéka esetén legalább harminc nappal a tevékenység végzési helyének tervezett megváltoztatását megelőzően kéri az engedély módosítását a Hatóságtól.
 
-(7a) A Hatóság az engedélyes kérelmére a Hatóság elnökének a dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó engedélyezés és ellenőrzés szabályairól szóló rendeletében meghatározott feltételek szerint engedélyezi a dohánytermék-kiskereskedelmi tevékenység szüneteltetését.
+(7a) A Hatóság az engedély jogosultja kérelmére a Hatóság elnökének a dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó engedélyezés és ellenőrzés szabályairól szóló rendeletében meghatározott feltételek szerint engedélyezi a dohánytermék-kiskereskedelmi tevékenység szüneteltetését.
 
 (8) A dohánytermék-kiskereskedelmi tevékenység jogosultjának örököse akkor válik a koncessziós szerződésből eredő jogok gyakorlására és kötelezettségek teljesítésére jogosulttá, illetve kötelezetté, ha
 
@@ -38,14 +38,34 @@ c) a tevékenység folytatására vonatkozó igényét az örökös kinyilvání
 
 d) a tevékenység folytatására vonatkozó jogszabályban, valamint az örökhagyóra irányadó dohánytermék-kiskereskedelmi jogosultság átengedéséről szóló pályázat kiírásában írt egyéb feltételeknek az örökös is megfelel.
 
+(8a) Ha a dohánytermék-kiskereskedelmi tevékenység jogosultjának kizárólag kiskorú örököse van, a kiskorú örökös abban az esetben válik a 18. életévének betöltését követően a koncessziós szerződésből eredő jogok gyakorlására és kötelezettségek teljesítésére jogosulttá, illetve kötelezetté, ha a koncessziós szerződésből eredő jogok és kötelezettségek gyakorlását nagykorúvá válásáig tőle
+
+a) végintézkedésen alapuló öröklés esetében az örökhagyó végrendeletében megjelölt nagykorú személy, ennek hiányában
+
+b) törvényes képviselője, vagy
+
+c) ha a törvényes képviselője teljes bizonyító erejű magánokiratban tett és a Hatóság számára benyújtott nyilatkozattal nem vállalja, a kiskorú örököst a törvényes öröklési rendben követő nagykorú személy
+
+[a továbbiakban az a)–c) pont együtt: helyettes gyakorló] teljes bizonyító erejű magánokiratba foglalt megállapodással átvállalja.
+
+(8b) A (8) bekezdés c) pontja szerinti nyilatkozatban a helyettes gyakorló személyét is meg kell jelölni.
+
+(8c) A kiskorú örökös esetén a (8) bekezdés a), b) és d) pontja szerinti feltételeket a helyettes gyakorlónak kell teljesítenie.
+
+(8d) A helyettes gyakorló részére a dohánytermék-kiskereskedelmi tevékenység folytatása a kiskorú örökös nagykorúvá válásától számított hatvanadik napig terjedő időtartamra, vagy ha a koncessziós szerződés hatálya előbb megszűnik, akkor annak megszűnéséig a (8) bekezdés a)–d) pontjában foglaltak – a (8b)–(8c) bekezdésben foglalt eltérésekkel történő – teljesítése esetén a Hatóság elnökének a dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó engedélyezés és ellenőrzés egyes szabályairól szóló rendeletében meghatározott feltételek szerint engedélyezhető. A kiskorú örökös nagykorúvá válását követően harminc napon belül köteles engedélyt kérni és a (8) bekezdés a), b) és d) pontja szerinti feltételeket igazolni.
+
+(8e) A 14. §-ban foglaltaktól eltérően nem szűnik meg a dohánytermék-kiskereskedelmi jogosultság és nem kell új koncessziós pályázatot kiírni, ha a dohánytermék-kiskereskedelmi tevékenységet a helyettes gyakorló folytatta, és a (8f) bekezdés alapján új helyettes gyakorló kerül kijelölésre.
+
+(8f) Ha a (8d) bekezdés szerinti engedély hatálya a kiskorú örökös nagykorúvá válásáig megszűnik, akkor a Hatóság felhívásától számított hatvan napon belül a (8a), a (8c) és a (8d) bekezdésben foglaltak szerint új helyettes gyakorló jelölhető ki.
+
 (9) A (8) bekezdés alkalmazása során azt a tényt, hogy a kérelmező örökös, a hagyatéki eljárás befejezéséig közokiratba foglalt nyilatkozattal kell igazolni. Több örökös esetén további feltétel, hogy az örökösök a jogok gyakorlásáról és a kötelezettségek teljesítéséről közokiratba foglalt megállapodást kössenek, és az állam felé a kötelezettségek teljesítésére közokiratba foglalt nyilatkozattal egyetemleges felelősséget vállaljanak.
 
 (10) A (8) bekezdés alkalmazása során a tevékenység folytatására vonatkozó igényt az örökhagyó halálát követő 90 napon belül be kell jelenteni a Hatósághoz, valamint a 8. § (1) bekezdésében meghatározott személyhez, amely esetben a koncessziós szerződés hatálya fennmarad azzal, hogy ha az örökhagyó halálától számított két éven belül a hagyaték átszállását igazoló jogerős közokiratot az örökös nem nyújtja be, vagy e közokiratból a kérelmező öröklési jogosultsága nem derül ki, a koncessziós szerződés hatálya megszűnik. Ha az örökös kérelme az e bekezdésben foglaltaknak megfelel, a Hatóság az örökhagyó részére kibocsátott engedélyt módosítja, feljogosítva a kérelmezőt a dohánytermék-kiskereskedelmi jogosultság további gyakorlására, ellenkező esetben az engedély hatályát veszti.
 
 (11) Az egyéni vállalkozó a 8. § (1) bekezdésében meghatározott személynél kezdeményezheti a koncessziós szerződés módosítását, ha a tevékenységét a továbbiakban az (1) bekezdés b) pontja szerinti formában kívánja folytatni, és a tevékenység ekként történő folytatása a jogszabályban foglalt feltételeknek megfelel. Ebben az esetben az egyéni vállalkozói jogviszony megszüntetése és az (1) bekezdés b) pontja szerinti jogviszony létrehozása, továbbá a tevékenység megszüntetésével és új formában történő folytatásával kapcsolatos elszámolás rendezése céljából a jogosult a dohánytermék-kiskereskedelmi tevékenységét legfeljebb három hónapos időtartamra szüneteltetheti azt követően, hogy ezen igényét a 8. § (1) bekezdésében meghatározott személy felé bejelentette, és igénye elfogadásáról a 8. § (1) bekezdésében meghatározott személy a kérelmezőt tájékoztatta.
 
-(12) E törvény és a Ktv. rendelkezéseinek alkalmazása során a dohánytermék-kiskereskedelmi tevékenységet folytató egyéni vállalkozóra a koncessziós társaságra vonatkozó rendelkezéseket megfelelően alkalmazni kell.
+(12) E törvény és a Ktv. rendelkezéseinek alkalmazása során a dohánytermék-kiskereskedőnek minősülő egyéni vállalkozóra a koncessziós társaságra vonatkozó rendelkezéseket megfelelően alkalmazni kell.
 
 (13) Ha a koncessziós társaság nem az e törvényben kifejezetten megengedett módon alakul át, e társasággal megkötött koncessziós szerződés az átalakulás napjával hatályát veszti.
 
-(14) E § rendelkezéseit – ha e törvény alapján dohánytermékek kiskereskedelmét végzi – a (4) és a (7a) bekezdést kivéve a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által a 10. § (1) bekezdése szerint külön feljogosított személyre nem kell alkalmazni.
+(14) E § rendelkezéseit – ha e törvény alapján dohánytermékek kiskereskedelmét végzi – a (4), (4a) és a (7a) bekezdést kivéve a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv által a 10. § (1) bekezdése szerint külön feljogosított személyre nem kell alkalmazni.
