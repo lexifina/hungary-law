@@ -12,5 +12,7 @@ d)[^2]
 
 e) a fogyasztóvédelemért felelős minisztert (a továbbiakban: miniszter)
 
+jelöli ki.
+
 [^1]: Az 1. § a 360/2019. (XII. 30.) Korm. rendelet 163. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^2]: Az 1. § d) pontját az 500/2021. (VIII. 18.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
