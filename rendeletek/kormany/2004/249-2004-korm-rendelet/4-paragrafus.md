@@ -1,6 +1,6 @@
 4. § (1)[^11] A vállalkozás a fogyasztó jótállási igényéről jegyzőkönyvet köteles felvenni, amelyben rögzíti:
 
-a)[^12] a fogyasztó nevét, címét, valamint nyilatkozatát arról, hogy hozzájárul a jegyzőkönyvben rögzített adatainak a rendeletben meghatározottak szerinti kezeléséhez,
+a)[^12] a fogyasztó nevét, címét,
 
 b) a fogyasztó által érvényesíteni kívánt igényt,
 
@@ -27,7 +27,7 @@ h)[^15] az arról szóló tájékoztatást, hogy fogyasztói jogvita esetén a f
 (6)[^20] A vállalkozás a fogyasztó jótállási igényéről felvett jegyzőkönyvet az annak felvételétől számított három évig köteles megőrizni, és azt az ellenőrző hatóság kérésére bemutatni.
 
 [^11]: A 4. § (1) bekezdés nyitó szövegrésze a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés a) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
-[^12]: A 4. § (1) bekezdés a) pontja a 97/2014. (III. 25.) Korm. rendelet 3. § (7) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^12]: A 4. § (1) bekezdés a) pontja az 531/2022. (XII. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^13]: A 4. § (1) bekezdés c) pontja a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^14]: A 4. § (1) bekezdés g) pontja a 97/2014. (III. 25.) Korm. rendelet 3. § (8) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^15]: A 4. § (1) bekezdés h) pontját a 97/2014. (III. 25.) Korm. rendelet 3. § (9) bekezdése iktatta be, szövege a 270/2020. (VI. 12.) Korm. rendelet 8. §-a szerint módosított szöveg.
