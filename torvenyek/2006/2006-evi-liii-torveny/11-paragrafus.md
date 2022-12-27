@@ -2,7 +2,7 @@
 
 11. § (1) Törvény vagy kormányrendelet kiemelten közérdekű beruházássá nyilváníthat közfeladat ellátásával összefüggő, kiemelten fontos közérdekű cél, így különösen
 
-a) energetikai, közlekedésfejlesztési, környezetvédelmi, vízügyi és vízvédelmi, katasztrófavédelmi, honvédelmi, nemzetbiztonsági, közigazgatási, illetve
+a) energetikai, energiahordozók kitermeléséhez kapcsolódó bányászati, közlekedésfejlesztési, környezetvédelmi, vízügyi és vízvédelmi, katasztrófavédelmi, honvédelmi, nemzetbiztonsági, közigazgatási, illetve
 
 b) oktatási, egészségügyi, kutatás-fejlesztési, kulturális, szociális, örökségvédelmi, sport, városfejlesztési
 

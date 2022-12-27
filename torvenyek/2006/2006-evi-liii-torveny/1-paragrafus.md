@@ -20,6 +20,8 @@ h) nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minős
 
 i) az épített környezet alakításáról és védelméről szóló törvény szerinti rozsdaövezeti akcióterületen megvalósítandó, valamint a rozsdaövezeti akcióterület fejlesztésének előkészítését szolgáló vagy azt elősegítő,
 
+j) szénhidrogén-kutatáshoz és -termeléshez kapcsolódó
+
 nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósítására, valamint az azokkal összefüggő, a Kormány által rendeletben meghatározott közigazgatási hatósági ügyekben (a továbbiakban: kiemelt jelentőségű ügy) indult eljárásokra és e törvény szerinti egyéb eljárásokra terjed ki.
 
 (1a) A kisajátításról szóló törvény hatálya alá tartozó kisajátítási eljárás nem nyilvánítható kiemelt jelentőségű üggyé.
