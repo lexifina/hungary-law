@@ -1,0 +1,5 @@
+## „d) a szabadforgalomba bocsátott jövedéki termék belföldről, kereskedelmi céllal másik tagállamba történő szállítása esetén a terméket feladó adóraktár engedélyes, jövedéki engedélyes kereskedő, bejegyzett feladó, kisüzemi bortermelő vagy eseti igazolt feladó, a szállítás 62. § (12) bekezdése szerinti befejezését követően,”
+
+45. § A jövedéki adóról szóló 2016. évi LXVIII. törvény 18. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Szabadforgalomba bocsátott jövedéki termék másik tagállamból, kereskedelmi céllal belföldre történő szállítása esetén az adófizetésre kötelezett személy a termékek feladását megelőzően a belföldön keletkező adófizetési kötelezettségnek megfelelő összegben jövedéki biztosítékot nyújt. E fejezet alkalmazásában szabadforgalomba bocsátott jövedéki termék másik tagállamból, kereskedelmi céllal belföldre történő szállításának minősül a töltőfolyadék, az új dohánytermék-kategóriák, a füst nélküli dohánytermék, a hevített termék és a dohányzást helyettesítő nikotintartalmú termék kereskedelmi célú belföldre szállítása is.”
