@@ -34,6 +34,6 @@ f) statisztikai adatokat gyűjt a koncessziós eljárásokról, a koncessziós s
 
 g) előzetes egyetértési jogot gyakorol az állam nevében történő koncessziós pályázat kiírása, ajánlattételi felhívás, ajánlattételi eljárás, valamint a koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Ktv.) 10/A. §-a szerinti eljárás lefolytatása, továbbá a koncessziós szerződés megkötése, a koncessziós szerződés módosítása, az állam nevében történő megszüntetése tekintetében.
 
-(5) Az (EU) 2018/574 bizottsági végrehajtási rendelet 3. cikk (1) bekezdése szerinti azonosítókibocsátó a Hatóság.
+(5) A dohánytermékek nyomonkövethetőségi rendszerének létrehozására és működtetésére vonatkozó műszaki előírásokról szóló, 2017. december 15-i (EU) 2018/574 bizottsági végrehajtási rendelet (a továbbiakban: Végrehajtási Rendelet) 3. cikk (1) bekezdése szerinti azonosítókibocsátó a Hatóság. A Hatóság mint azonosítókibocsátó látja el a Végrehajtási Rendelet 9. cikke szerinti csomagolási egység szintű és 13. cikke szerinti gyűjtőcsomagolás szintű egyedi azonosító (a továbbiakban: egyedi azonosító) létrehozásával és kibocsátásával kapcsolatos feladatokat.
 
 (6) A Hatóság látja el az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) 22/B. § (1) bekezdés a) pontja szerinti nemzeti kiberbiztonsági tanúsító hatóság feladatait.
