@@ -12,7 +12,7 @@ b)[^32] élelmiszerrel rendeltetésszerűen érintkezésbe kerülő termékek es
 
 c)[^33] uniós termésnövelő anyag esetében a növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatalt,
 
-d)[^34] gyógyszer, gyógyszernek nem minősülő gyógyhatású készítmény, orvostechnikai eszközök és in vitro diagnosztikai orvostechnikai eszközök esetében az OGYÉI-t,
+d)[^34] gyógyszer, gyógyszernek nem minősülő gyógyhatású készítmény, orvostechnikai eszközök és in vitro diagnosztikai orvostechnikai eszközök, valamint elektronikus cigaretták és egyéb jogszabályban meghatározott, dohányterméknek nem minősülő kapcsolódó termékek esetében az OGYÉI-t,
 
 e)[^35] bányászati alkalmazásra szánt gépek, berendezések, külfejtésben alkalmazott rakodógépek bányamentő és egyéni önmentő készülékek, oxigénpalackok és a bányákba szánt robbanásbiztos berendezések esetében az SZTFH-t,
 
@@ -41,7 +41,7 @@ n)[^41] a kiberbiztonsági tanúsítással rendelkező vagy kiberbiztonsági tan
 [^31]: A 10. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 218. § (2) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés c) pontja szerint módosított szöveg.
 [^32]: A 10. § (1) bekezdés b) pontját a 379/2016. (XII. 2.) Korm. rendelet 221. § (4) bekezdése hatályon kívül helyezte, újonnan a 246/2020. (V. 28.) Korm. rendelet 6. § (3) bekezdése iktatta be.
 [^33]: A 10. § (1) bekezdés c) pontját a 146/2014. (V. 5.) Korm. rendelet 37. § b) pontja hatályon kívül helyezte, újonnan a 316/2022. (VIII. 16.) Korm. rendelet 2. §-a iktatta be.
-[^34]: A 10. § (1) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 221. § (2) bekezdésével megállapított, a 164/2020. (IV. 30.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^34]: A 10. § (1) bekezdés d) pontja az 531/2022. (XII. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^35]: A 10. § (1) bekezdés e) pontja a 162/2017. (VI. 28.) Korm. rendelet 49. §-a, a 736/2021. (XII. 21.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^36]: A 10. § (1) bekezdés f) pontja a 146/2014. (V. 5.) Korm. rendelet 36. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés d) pontja szerint módosított szöveg.
 [^37]: A 10. § (1) bekezdés g) pontja a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés e) pontja szerint módosított szöveg.

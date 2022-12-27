@@ -20,7 +20,7 @@ c) az EK-megfelelőségi nyilatkozatot nem vagy nem megfelelően készítették 
 
 d) a műszaki dokumentáció nem elérhető vagy hiányos,
 
-## kötelezi az érintett gazdasági szereplőt a jogsértés megszüntetésére és a játék megfelelőségének biztosítására.
+kötelezi az érintett gazdasági szereplőt a jogsértés megszüntetésére és a játék megfelelőségének biztosítására.
 
 (7) A piacfelügyeleti hatóság mindaddig jogosult a szükséges intézkedéseket fenntartani és a forgalomba hozatalt megtiltani, amíg a játék nem felel meg az R3. követelményeinek.
 

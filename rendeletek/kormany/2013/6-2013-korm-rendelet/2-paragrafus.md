@@ -36,7 +36,7 @@ o)[^10] a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ).
 
 (3)[^12] A fogyasztóvédelemért felelős miniszter feladatai ellátásához vizsgáló laboratóriummal rendelkezik, amely elvégzi vagy megbízás alapján más laboratóriummal elvégezteti a piacfelügyeleti tevékenységével kapcsolatos vizsgálatokat.
 
-(4)[^13] A mutatványos berendezések biztonságosságáról szóló miniszteri rendelet szerinti berendezésekkel és létesítményekkel kapcsolatos piacfelügyeleti ellenőrzéssel kapcsolatos eljárásokban a Kormány piacfelügyeleti hatóságként a fővárosi és megyei kormányhivatalt jelöli ki.
+(4)[^13] Az egyes szórakoztatási célú berendezések, létesítmények és ideiglenes szerkezetek, valamint szórakoztatási célú sporteszközök biztonságosságáról szóló miniszteri rendelet szerinti berendezések és létesítmények piacfelügyeleti ellenőrzésével kapcsolatos eljárásokban a Kormány piacfelügyeleti hatóságként a fővárosi és megyei kormányhivatalt jelöli ki.
 
 (5)[^14] Az (EU) 2019/1009 európai parlamenti és tanácsi rendelet 2. cikk 2. pontja szerinti uniós termésnövelő anyag (a továbbiakban: uniós termésnövelő anyag) piacfelügyeleti ellenőrzésével kapcsolatos eljárásokban a Kormány piacfelügyeleti hatóságként a NÉBIH-et és a növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatalt jelöli ki.
 
@@ -50,5 +50,5 @@ o)[^10] a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ).
 [^10]: A 2. § (1) bekezdés o) pontját a 736/2021. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
 [^11]: A 2. § (2) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 40. és 41. §-a szerint módosított szöveg.
 [^12]: A 2. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^13]: A 2. § (4) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 5. §-a iktatta be, szövege a 30/2020. (II. 29.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg.
+[^13]: A 2. § (4) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 5. §-a iktatta be, szövege az 531/2022. (XII. 19.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^14]: A 2. § (5) bekezdését a 316/2022. (VIII. 16.) Korm. rendelet 1. § (2) bekezdése iktatta be.

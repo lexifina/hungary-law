@@ -10,7 +10,7 @@ b) a Bernben az 1980. évi május hó 9. napján kelt Nemzetközi Vasúti Fuvaro
 
 c) a Genfben 2000. május 26. napján kelt, a Veszélyes Áruk Nemzetközi Belvízi Szállításáról szóló Európai Megállapodás (ADN) kihirdetéséről szóló 2009. évi III. törvénnyel kihirdetett ADN Megállapodáshoz csatolt Szabályzat (a továbbiakban: ADN)
 
-## vonatkozó előírásainak és az R2.-ben megállapított követelményeknek, akkor figyelmeztetést tartalmazó döntésében haladéktalanul felhívja a gazdasági szereplőt valamennyi szükséges kiigazító intézkedés megtételére, hogy a szállítható nyomástartó berendezés megfeleljen az említett követelményeknek, vagy – az előírásuktól függően és a kockázat jellegével arányosan – ésszerű határidőn belül kivonja a szállítható nyomástartó berendezést a forgalomból vagy azt visszahívja. A piacfelügyeleti hatóság intézkedéséről tájékoztatja a szállítható nyomástartó berendezés megfelelőségét tanúsító bejelentett szervezetet.
+vonatkozó előírásainak és az R2.-ben megállapított követelményeknek, akkor figyelmeztetést tartalmazó döntésében haladéktalanul felhívja a gazdasági szereplőt valamennyi szükséges kiigazító intézkedés megtételére, hogy a szállítható nyomástartó berendezés megfeleljen az említett követelményeknek, vagy – az előírásuktól függően és a kockázat jellegével arányosan – ésszerű határidőn belül kivonja a szállítható nyomástartó berendezést a forgalomból vagy azt visszahívja. A piacfelügyeleti hatóság intézkedéséről tájékoztatja a szállítható nyomástartó berendezés megfelelőségét tanúsító bejelentett szervezetet.
 
 (3) A gazdasági szereplő köteles minden megfelelő kiigazító intézkedést meghozni az általa a belső piacon forgalmazott szállítható nyomástartó berendezés tekintetében.
 
@@ -42,7 +42,7 @@ b) az ADR, a RID és az ADN vonatkozó előírásainak és az R2.-ben megállap�
 
 c) a műszaki dokumentáció nem elérhető, vagy hiányos,
 
-## kötelezi az érintett gazdasági szereplőt a jogsértés megszüntetésére és a szállítható nyomástartó berendezés megfelelőségének biztosítására.
+kötelezi az érintett gazdasági szereplőt a jogsértés megszüntetésére és a szállítható nyomástartó berendezés megfelelőségének biztosítására.
 
 (11) Ha a jelölést jogosulatlanul feltüntető érintett gazdasági szereplő határidőben nem tesz eleget a kötelezésnek, a piacfelügyeleti hatóság megtiltja vagy korlátozza a szállítható nyomástartó berendezés forgalomba hozatalát, szállítását, üzembe helyezését vagy használatát, illetve intézkedik a visszahívás, vagy a forgalomból történő kivonás iránt.
 

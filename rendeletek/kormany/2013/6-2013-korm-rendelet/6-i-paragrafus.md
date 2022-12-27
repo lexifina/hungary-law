@@ -22,6 +22,6 @@ h) az R4. alapján a nem automatikus működésű mérlegeken feltüntetendő in
 
 i) az R4.-ben előírt egyéb követelmény nem teljesül,
 
-## figyelmeztetést tartalmazó döntésében felhívja az érintett gazdasági szereplőt, hogy pótolja a hiányosságot.
+figyelmeztetést tartalmazó döntésében felhívja az érintett gazdasági szereplőt, hogy pótolja a hiányosságot.
 
 (4) Ha a megfelelés (3) bekezdésben meghatározott hiánya továbbra is fennáll, a piacfelügyeleti hatóság minden intézkedést megtesz a forgalmazott, nem automatikus működésű mérleg korlátozására, betiltására, gondoskodik visszahívásáról vagy piaci forgalomból történő kivonásáról.
