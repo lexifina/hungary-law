@@ -2,8 +2,4 @@
 
 ## k) ha a 13. § (8d) bekezdése szerinti kiskorú örökös nagykorúvá válását követően a dohánytermék-kiskereskedelmi tevékenységet nem folytatja.”
 
-29. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 15/D. § (1) bekezdése helyébe a következő rendelkezés lép, és a 15/D. § a következő (1a) bekezdéssel egészül ki:
-
-„(1) A dohánytermék-kiskereskedő valamennyi általa forgalmazott dohánytermékből – a szivarokat, az új dohánytermék-kategóriákat, valamint a füst nélküli dohánytermékeket kivéve – típusonként, márkajelzésenként, valamint – ha ilyen van – a márkajelzések minden alfajtája után egyet-egyet a dohányboltban a pultvonal felett, illetve az elkülönített helyen belül a fogyasztók számára jól láthatóan megjelenít. Ettől eltérően a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló kormányrendeletben meghatározott, kötelezően alkalmazandó színű (egységes) csomagolásban forgalomba kerülő dohánytermék vonatkozásában elegendő az adott márkajelzés egy alfajtáját kihelyezni. A szivarok kivételével minden olyan dohánytermék, amelynek csomagolása kombinált egészségvédő figyelmeztetést tartalmaz, csak úgy helyezhető az értékesítési csatornába (polchelyre), hogy a kombinált egészségvédő figyelmeztetés a fogyasztó felé láthatóvá váljon; minden egyéb esetben a terméket a csomagolás előlapjával kell megjeleníteni.
-
-(1a) A dohányboltban a pultvonal felett, illetve az elkülönített helyen belül a fogyasztók számára jól láthatóan kizárólag dohánytermék jeleníthető meg.”
+### 29. §
