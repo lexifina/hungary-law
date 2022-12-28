@@ -444,7 +444,7 @@
 
 | 3 | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | 10032000-00290050-00000000 |
 
-| 4 | Emberi Erőforrások Minisztériuma | 10032000-01425190-00000000 |
+| 4 | Belügyminisztérium | 10032000-01483305 |
 
 | 4a | Országos Kórházi Főigazgatóság | 10032000-00362241-00000000 |
 
@@ -456,7 +456,7 @@
 
 | 8 | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 10027006-00302852-00000000 |
 
-| 9 | Csongrád Megyei Kormányhivatal | 10028007-00302584-00000000 |
+| 9 | Csongrád-Csanád Megyei Kormányhivatal | 10028007-00302584-00000000 |
 
 | 10 | Fejér Megyei Kormányhivatal | 10029008-00305350-00000000 |
 
@@ -488,4 +488,4 @@
 
 | 24 | Zala Megyei Kormányhivatal | 10049006-00303066-00000000 |
 
-[^14]: A 2. melléklet a 38/2018. (X. 31.) EMMI rendelet 13. §-ával megállapított, a 21/2021. (VI. 8.) EMMI rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^14]: A 2. melléklet a 38/2018. (X. 31.) EMMI rendelet 13. §-ával megállapított, a 21/2021. (VI. 8.) EMMI rendelet 10. § (1) bekezdése, az 52/2022. (XII. 27.) BM rendelet 18. §-a szerint módosított szöveg.
