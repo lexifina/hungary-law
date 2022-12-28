@@ -1,0 +1,1 @@
+16. § A 39/2018. (XII. 13.) AM rendelet 16/E. § (1) bekezdésében a „2022. támogatási év II. és III. negyedévére” szövegrész helyébe a „2022. támogatási év II., III. és IV. tárgynegyedévére, valamint a 2023. támogatási év I., II. és III. tárgynegyedévére” szöveg lép.
