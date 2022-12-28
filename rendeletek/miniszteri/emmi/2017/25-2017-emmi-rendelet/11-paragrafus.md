@@ -1,4 +1,4 @@
-11. § (1)[^10] A vezetőképzést
+11. § (1)[^11] A vezetőképzést
 
 a) a Semmelweis Egyetem önálló szervezeti egysége,
 
@@ -6,7 +6,7 @@ b) a Pázmány Péter Katolikus Egyetem, illetve
 
 c) a Károli Gáspár Református Egyetem
 
-## [a továbbiakban az a)–c) pontban foglaltak együtt: képzésszervező] végzi.
+[a továbbiakban az a)–c) pontban foglaltak együtt: képzésszervező] végzi.
 
 (2) A képzésszervező
 
@@ -56,4 +56,4 @@ g) a képzési, valamint a vizsgadíjat és
 
 h) a képzési és vizsgaszabályzatot.
 
-[^10]: A 11. § (1) bekezdése a 31/2018. (IX. 25.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^11]: A 11. § (1) bekezdése a 31/2018. (IX. 25.) EMMI rendelet 4. §-ával megállapított szöveg.

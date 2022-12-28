@@ -1,5 +1,3 @@
-## köteles.
-
 7. § (1) Az alap vezetőképzésre kötelezett:
 
 a) alapozó képzésének időtartama 80 óra, amelyből 30 óra az elméleti és 50 óra a gyakorlati képzés;

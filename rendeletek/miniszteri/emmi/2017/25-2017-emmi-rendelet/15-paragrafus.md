@@ -13,3 +13,5 @@ b) „jól megfelelt”,
 c) „megfelelt” vagy
 
 d) „nem felelt meg”
+
+lehet.
