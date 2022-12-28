@@ -1,8 +1,6 @@
-## 14. §[^5]
-
 1. melléklet a 15/2015. (III. 13.) EMMI rendelethez
 
-## A szakértői szakterületek és szakirányok
+A szakértői szakterületek és szakirányok
 
 1. tanügyigazgatás szakterület,
 
@@ -67,5 +65,3 @@
 10. iskolai könyvtár szakterület,
 
 11. pedagógiai-szakmai ellenőrzés és pedagógusminősítés szakterület.
-
-[^5]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

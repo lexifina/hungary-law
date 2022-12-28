@@ -1,5 +1,3 @@
-## A Magyar Államkincstárnál vezetett bankszámlák, amelyekre az igazgatási szolgáltatási díjat be kell fizetni
-
 ## Oktatási Hivatal 10032000-00282637-00000000 pénzforgalmi jelzőszámú bankszámla.
 
 4. melléklet a 15/2015. (III. 13.) EMMI rendelethez

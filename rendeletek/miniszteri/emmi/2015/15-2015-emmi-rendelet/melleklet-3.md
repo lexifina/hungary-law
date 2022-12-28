@@ -11,3 +11,5 @@
 | 5 | A vizsgaelnöki tevékenységet végzők tapasztalatai | 1 tanóra (45 perc) | konzultáció |
 
 3. melléklet a 15/2015. (III. 13.) EMMI rendelethez
+
+A Magyar Államkincstárnál vezetett bankszámlák, amelyekre az igazgatási szolgáltatási díjat be kell fizetni
