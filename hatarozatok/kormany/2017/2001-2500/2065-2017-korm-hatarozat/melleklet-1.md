@@ -1,4 +1,4 @@
-## 1. egyetért az 1. melléklet szerinti sportinfrastruktúra-fejlesztési, turisztikai és egyéb kiemelt fejlesztési beruházások megvalósításával, ezért az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § hatálya alá tartozó támogatást nyújt az 1. mellékletben meghatározott célokra, az 1. mellékletben nevesített kedvezményezettek részére, az ott meghatározott összegben;
+## 1.[^1] egyetért az 1. melléklet szerinti sportinfrastruktúra-fejlesztési, turisztikai és egyéb kiemelt fejlesztési beruházások megvalósításával, valamint műkődési célú kiadások finanszírozásával, ezért az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a hatálya alá tartozó támogatást nyújt az 1. mellékletben meghatározott célokra, az 1. mellékletben nevesített kedvezményezettek részére, az ott meghatározott összegben;
 
 ## 2. felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy a fejlesztésekhez szükséges költségvetési forrásokat a 2017. évben biztosítsák;
 
@@ -18,7 +18,7 @@
 
 ## Határidő: azonnal
 
-1. melléklet a 2065/2017. (XII. 27.) Korm. határozathoz
+1. melléklet a 2065/2017. (XII. 27.) Korm. határozathoz[^2]
 
 | Sor- szám | A fejlesztés megnevezése | A támogatás célja | A támogatás összege (Ft) | Kedvezményezett |
 
@@ -118,8 +118,11 @@
 
 | 48. | Alsózsolcai Közösségi Sport Club fejlesztésének támogatása | Alsózsolcai Közösségi Sport Club fejlesztésének támogatása | 40 000 000 | Magyar Labdarúgó Szövetség |
 
-| 49. | Fradiváros II. ütem | Fradiváros II. ütem | 15 000 000 000 | Ferencvárosi Torna Club |
+| 49. | Fradiváros II. ütem és műkődési célú kiadások | Fradiváros II. ütem | 15 000 000 000 | Ferencvárosi Torna Club |
 
 | 50. | Káptalanfüredi gyermek- és utánpótlás tábor fejlesztése | Káptalanfüredi gyermek- és utánpótlás tábor fejlesztése | 2 200 000 000 | Budapest Főváros VIII. kerület Önkormányzata |
 
 | 51. | Pannon Információbiztonsági Központ létrehozása | Pannon Információbiztonsági Központ létrehozása | 800 000 000 | Pannon Térség Fejlesztéséért Nonprofit Kft. |
+
+[^1]: Az 1. pont az 1684/2022. (XII. 28.) Korm. határozat 3. pontjával megállapított szöveg.
+[^2]: Az 1. melléklet az 1684/2022. (XII. 28.) Korm. határozat 4. pontja szerint módosított szöveg.
