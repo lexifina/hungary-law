@@ -32,7 +32,7 @@ a) 2023. február 28-ig intézményi és fenntartói szintű elemzéseket kész�
 
 b) 2023. február 28-ig tanulói szintű elemzéseket készít, és azokat a honlapján az Nkt. 80. § (3) bekezdésében szereplő mérési azonosító felhasználásával honlapján hozzáférhetővé teszi;
 
-c) 2023. március 31-ig országos elemzést készít, és megküldi az oktatásért felelős miniszternek.
+c)[^2] 2023. március 31-ig országos elemzést készít, és megküldi a köznevelésért felelős miniszternek.
 
 (8) A Hivatal az (1) bekezdés b) és c) pontjában meghatározott mérések intézményi szintű, az adott nyelvi szint teljesítéséről szóló összesített adatait 2022. június 30-ig a honlapján nyilvánosságra hozza.
 
@@ -41,3 +41,5 @@ c) 2023. március 31-ig országos elemzést készít, és megküldi az oktatás�
 (10) Az általános iskolai feladatellátásban részt vevő nevelési-oktatási intézmények a nyolcadik évfolyamos tanulóik számára – a felnőttoktatásban tanulók kivételével – 2021. szeptember 20. és 2021. október 11. között megszervezik az Nkt. 80. § (1a) bekezdése alapján a pályaválasztást megalapozó kompetenciák vizsgálatát a Hivatal által elkészített – és informatikai rendszerének közvetítésével az iskolák számára elérhetővé tett – digitális mérő- és támogatóeszközökkel, a Hivatal által kiadott eljárásrend alkalmazásával.
 
 (11) A 2021/2022. tanévben az Nkt. 80. § (9) bekezdése és a szakképzésről szóló 2019. évi LXXX. törvény 35. § (5) bekezdése alapján országos mérés, értékelés keretében a tanulók fizikai állapotának és edzettségének vizsgálatát az iskolák – az 1–4. évfolyamon, valamint a felnőttoktatásban tanulók kivételével – a nappali rendszerű iskolai oktatásban részt vevő tanulók esetében megszervezik. A mérés eredményeit az érintett iskolák 2022. június 15-ig feltöltik a Nemzeti Egységes Tanulói Fittségi Teszt rendszerbe.
+
+[^2]: A 11. § (7) bekezdés c) pontja az 52/2022. (XII. 27.) BM rendelet 34. §-a szerint módosított szöveg.
