@@ -96,6 +96,6 @@
 
 ## 1Újravetés, újratelepítés, vagy másodvetés esetén meg kell adni az újravetett, újratelepített, vagy másodvetett növénykultúrát is.
 
-3. melléklet a 27/2014. (XI. 25.) FM rendelethez[^90]
+3. melléklet a 27/2014. (XI. 25.) FM rendelethez[^91]
 
-[^90]: A 3. melléklet a 35/2017. (VII. 6.) FM rendelet 16. § (2) bekezdésével megállapított, a 9/2018. (VII. 2.) AM rendelet 9. §-a, a 43/2021. (XI. 29.) AM rendelet 5. §-a szerint módosított szöveg.
+[^91]: A 3. melléklet a 35/2017. (VII. 6.) FM rendelet 16. § (2) bekezdésével megállapított, a 9/2018. (VII. 2.) AM rendelet 9. §-a, a 43/2021. (XI. 29.) AM rendelet 5. §-a szerint módosított szöveg.
