@@ -14,7 +14,7 @@ e) a vágóhídra leadott állatoknál a törött végtagú állatok aránya ál
 
 a) a szolgáltató állatorvos igazolásának egy eredeti példányát az (1) bekezdés a)–d) pontjában meghatározott feltételek teljesítéséről, és
 
-b)[^14] a vágóhídnak és a létesítmény felügyeletét ellátó hatósági vagy jogosult állatorvosnak a törött végtagú állatok (1) bekezdés e) pontjában meghatározott arányára vonatkozó igazolásának eredeti példányát is, amely tartalmazza a levágott baromfi 1. melléklet szerinti megnevezését, darabszámát, a vágási életkort (napokban, házi tyúk esetében élethétben) és vágásának időpontját.
+b)[^18] a vágóhídnak és a létesítmény felügyeletét ellátó hatósági vagy jogosult állatorvosnak a törött végtagú állatok (1) bekezdés e) pontjában meghatározott arányára vonatkozó igazolásának eredeti példányát is, amely tartalmazza a levágott baromfi 1. melléklet szerinti megnevezését, darabszámát, a vágási életkort (napokban, házi tyúk esetében élethétben) és vágásának időpontját.
 
 (3) A támogatás mértéke:
 
@@ -36,4 +36,4 @@ h) növendék kacsa esetén 4666,2 Ft állategységenként,
 
 i) növendék pulyka esetén 2556,4 Ft állategységenként.
 
-[^14]: A 8. § (2) bekezdés b) pontja a 26/2019. (VI. 7.) AM rendelet 12. § e) pontja szerint módosított szöveg.
+[^18]: A 8. § (2) bekezdés b) pontja a 26/2019. (VI. 7.) AM rendelet 12. § e) pontja szerint módosított szöveg.

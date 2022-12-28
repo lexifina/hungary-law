@@ -1,6 +1,6 @@
 3. §[^1] E rendelet szerinti támogatásra az a jogi személy, egyéb gazdálkodó szervezet, valamint a családi gazdaságokról szóló törvény szerinti mezőgazdasági őstermelő és az őstermelők családi gazdaságának képviselője, (a továbbiakban együtt: igénylő) jogosult, aki vagy amely
 
-a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) 28. § (3) bekezdése szerinti nyilvántartásba vételi kötelezettségének eleget tett vagy legkésőbb a támogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét a Tv. alapján vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben,
+a)[^2] a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) 28. § (3) bekezdése szerinti nyilvántartásba vételi kötelezettségének eleget tett, és a Tv. 28. § (3a) bekezdésének megfelelően a támogatási kérelem benyújtásakor az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben nyilvántartásba vett ügyfélként szerepel,
 
 b) a támogatási kérelem benyújtásának időpontjában
 
@@ -31,3 +31,4 @@ k) a 2. § (1) bekezdése szerinti állatjóléti előírás módosulása eseté
 l) a b)–k) pontban foglaltakról a támogatási kérelem benyújtásával egyidejűleg nyilatkozik.
 
 [^1]: A 3. § nyitó szövegrésze a 28/2021. (VIII. 18.) AM rendelet 29. §-a szerint módosított szöveg.
+[^2]: A 3. § a) pontja a 160/2022. (XII. 27.) AM rendelet 3. §-ával megállapított szöveg.

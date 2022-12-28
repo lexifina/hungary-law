@@ -22,7 +22,7 @@
 
 | 11. | növendék pulyka (vegyesivar) | 16,1 |  |
 
-6. melléklet a 11/2019. (IV. 1.) AM rendelethez[^48]
+6. melléklet a 11/2019. (IV. 1.) AM rendelethez[^46]
 
 A baromfiállományban a mellsérülés megelőzéséhez szükséges feltételek
 
@@ -146,4 +146,4 @@ ec) Istálló- és kifutófelület biztosítása
 
 |  | 5. | 17 hetes korig | 0,65 | 0,4 | 20 | 4 |
 
-[^48]: A 6. melléklet a 26/2019. (VI. 7.) AM rendelet 12. § l)–m) pontja szerint módosított szöveg.
+[^46]: A 6. melléklet a 26/2019. (VI. 7.) AM rendelet 12. § l)–m) pontja szerint módosított szöveg.
