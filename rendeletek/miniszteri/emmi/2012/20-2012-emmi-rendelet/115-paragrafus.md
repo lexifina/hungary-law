@@ -1,6 +1,6 @@
-## 32. [^290] A bizonyítványnyomtatványok, tanúsítványnyomtatványok kezelése
+## 32. [^297] A bizonyítványnyomtatványok, tanúsítványnyomtatványok kezelése
 
-115. § (1)[^291] Az iskola az üres bizonyítvány-nyomtatványokat, tanúsítványnyomtatványokat köteles zárt helyen úgy elhelyezni, hogy ahhoz csak az igazgató vagy az általa megbízott személy férhessen hozzá.
+115. § (1)[^298] Az iskola az üres bizonyítvány-nyomtatványokat, tanúsítványnyomtatványokat köteles zárt helyen úgy elhelyezni, hogy ahhoz csak az igazgató vagy az általa megbízott személy férhessen hozzá.
 
 (2) Az iskola az elrontott és nem helyesbíthető, továbbá a kicserélt bizonyítványról jegyzőkönyvet készít, és a bizonyítványt megsemmisíti.
 
@@ -14,5 +14,5 @@ c) az elrontott és megsemmisített bizonyítványokról, tanúsítványokról
 
 nyilvántartást vezet.
 
-[^290]: A 32. alcím címe a 22/2013. (III. 22.) EMMI rendelet 21. §-ával megállapított szöveg.
-[^291]: A 115. § (1) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § h) pontja szerint módosított szöveg.
+[^297]: A 32. alcím címe a 22/2013. (III. 22.) EMMI rendelet 21. §-ával megállapított szöveg.
+[^298]: A 115. § (1) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § h) pontja szerint módosított szöveg.

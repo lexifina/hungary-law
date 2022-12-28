@@ -1,10 +1,10 @@
 68. § (1) A vizsgázó az írásbeli válaszok kidolgozásának megkezdése előtt mindegyik átvett feladatlapon feltünteti a nevét, a vizsganap dátumát, a tantárgy megnevezését. Vázlatot, jegyzetet csak ezeken a lapokon lehet készíteni.
 
-(2)[^220] A vizsgázó számára az írásbeli feladatok megválaszolásához rendelkezésre álló idő tantárgyanként általános iskolában és szakiskolában maximum, középiskolában minimum hatvan perc.
+(2)[^225] A vizsgázó számára az írásbeli feladatok megválaszolásához rendelkezésre álló idő tantárgyanként általános iskolában és szakiskolában maximum, középiskolában minimum hatvan perc.
 
 (3) Ha az írásbeli vizsgát bármilyen rendkívüli esemény megzavarja, az emiatt kiesett idővel a vizsgázó számára rendelkezésre álló időt meg kell növelni.
 
-(4)[^221] A sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási nehézséggel küzdő vizsgázó szakértői bizottság szakértői véleményével megalapozott kérésére, az igazgató engedélye alapján
+(4)[^226] A sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási nehézséggel küzdő vizsgázó szakértői bizottság szakértői véleményével megalapozott kérésére, az igazgató engedélye alapján
 
 a) a sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási nehézséggel küzdő vizsgázó számára az írásbeli feladatok megválaszolásához rendelkezésre álló időt legfeljebb harminc perccel meg kell növelni,
 
@@ -12,11 +12,11 @@ b) a sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási neh
 
 c) a sajátos nevelési igényű, a beilleszkedési, tanulási, magatartási nehézséggel küzdő vizsgázó írásbeli vizsga helyett szóbeli vizsgát tehet,
 
-d)[^222]
+d)[^227]
 
-(5)[^223]
+(5)[^228]
 
-[^220]: A 68. § (2) bekezdése a 24/2017. (X. 3.) EMMI rendelet 14. § 2. pontja szerint módosított szöveg.
-[^221]: A 68. § (4) bekezdés nyitó szövegrésze a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 12. pontja szerint módosított szöveg.
-[^222]: A 68. § (4) bekezdés d) pontját a 22/2013. (III. 22.) EMMI rendelet 40. § g) pontja hatályon kívül helyezte.
-[^223]: A 68. § (5) bekezdését a 22/2013. (III. 22.) EMMI rendelet 40. § g) pontja hatályon kívül helyezte.
+[^225]: A 68. § (2) bekezdése a 24/2017. (X. 3.) EMMI rendelet 14. § 2. pontja szerint módosított szöveg.
+[^226]: A 68. § (4) bekezdés nyitó szövegrésze a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 12. pontja szerint módosított szöveg.
+[^227]: A 68. § (4) bekezdés d) pontját a 22/2013. (III. 22.) EMMI rendelet 40. § g) pontja hatályon kívül helyezte.
+[^228]: A 68. § (5) bekezdését a 22/2013. (III. 22.) EMMI rendelet 40. § g) pontja hatályon kívül helyezte.

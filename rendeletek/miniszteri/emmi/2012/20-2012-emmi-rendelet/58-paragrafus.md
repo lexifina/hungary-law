@@ -12,7 +12,7 @@ d) a kötelességszegés ténye nem bizonyítható, vagy
 
 e) nem bizonyítható, hogy a kötelességszegést a tanuló követte el.
 
-(3)[^206] A fegyelmi határozatot a kihirdetést követő hét napon belül írásban meg kell küldeni az ügyben érintett feleknek, kiskorú fél esetén a szülőjének.
+(3)[^211] A fegyelmi határozatot a kihirdetést követő hét napon belül írásban meg kell küldeni az ügyben érintett feleknek, kiskorú fél esetén a szülőjének.
 
 (4) Megrovás és szigorú megrovás fegyelmi büntetés esetén a határozatot nem kell írásban megküldeni, ha a fegyelmi büntetést a tanuló – kiskorú tanuló esetén a szülő is – tudomásul vette, a határozat megküldését nem kéri, és eljárást megindító kérelmi jogáról lemondott.
 
@@ -22,4 +22,4 @@ e) nem bizonyítható, hogy a kötelességszegést a tanuló követte el.
 
 (7) A fegyelmi határozat záró része tartalmazza a határozat meghozatalának helyét és idejét, a határozatot hozó aláírását és a hivatali beosztásának megjelölését. Ha első fokon a nevelőtestület jár el, a határozatot a nevelőtestület nevében az írja alá, aki a tárgyalást vezette, továbbá a nevelőtestület egy kijelölt, a tárgyaláson végig jelen lévő tagja.
 
-[^206]: Az 58. § (3) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 13. pontja szerint módosított szöveg.
+[^211]: Az 58. § (3) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 13. pontja szerint módosított szöveg.

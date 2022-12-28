@@ -1,5 +1,3 @@
-## 184/T. § Az oktatásért felelős miniszter hatáskörébe tartozó szakképesítések megfeleltetését a 10. melléklet határozza meg.
-
 ## XXI. Fejezet
 
 ## NEMZETKÖZI VONATKOZÁSÚ ÉS VEGYES RENDELKEZÉSEK

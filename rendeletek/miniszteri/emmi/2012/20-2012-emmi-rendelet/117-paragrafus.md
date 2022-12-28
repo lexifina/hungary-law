@@ -1,12 +1,10 @@
-## 116. § Az iskola az elveszett, megsemmisült üres bizonyítványnyomtatvány, tanúsítvány érvénytelenségéről szóló közlemény közzétételét kezdeményezi az oktatásért felelős miniszter által vezetett minisztérium hivatalos lapjában, megjelölve az adott bizonyítványnyomtatvány egyedi azonosításához szükséges adatokat és az érvénytelenség időpontját.
-
 ## VIII. Fejezet
 
 ## A NEVELÉSI-OKTATÁSI INTÉZMÉNYBEN MŰKÖDŐ EGYEZTETŐ FÓRUMOK
 
 ## 33. A nevelőtestület
 
-117. § (1)[^292] A nevelőtestület, a feladatkörébe tartozó ügyek előkészítésére vagy eldöntésére tagjaiból – meghatározott időre vagy alkalmilag – bizottságot hozhat létre, valamint egyes jogköreinek gyakorlását átruházhatja a szakmai munkaközösségre, az iskolaszékre vagy a diákönkormányzatra. Az átruházott jogkör gyakorlója a nevelőtestületet tájékoztatni köteles – a nevelőtestület által meghatározott időközönként és módon – azokról az ügyekről, amelyekben a nevelőtestület megbízásából eljár. Ezeket a rendelkezéseket nem lehet alkalmazni a pedagógiai program, az SZMSZ és a házirend elfogadására.
+117. § (1)[^300] A nevelőtestület, a feladatkörébe tartozó ügyek előkészítésére vagy eldöntésére tagjaiból – meghatározott időre vagy alkalmilag – bizottságot hozhat létre, valamint egyes jogköreinek gyakorlását átruházhatja a szakmai munkaközösségre, az iskolaszékre vagy a diákönkormányzatra. Az átruházott jogkör gyakorlója a nevelőtestületet tájékoztatni köteles – a nevelőtestület által meghatározott időközönként és módon – azokról az ügyekről, amelyekben a nevelőtestület megbízásából eljár. Ezeket a rendelkezéseket nem lehet alkalmazni a pedagógiai program, az SZMSZ és a házirend elfogadására.
 
 (2) Nevelőtestületi értekezletet kell összehívni
 
@@ -34,7 +32,7 @@ e) külön jogszabályban meghatározott ügyekben
 
 ki kell kérni.
 
-(5)[^293] A tanítási évben nevelőtestületi értekezleten el kell végezni az adott intézményre vonatkozó, az országos kompetenciamérés, a nyelvi mérés, a lemorzsolódással veszélyeztetett tanulókkal kapcsolatos támogató rendszer, valamint a tanulók fizikai állapotának és edzettségének mérési adatait tartalmazó informatikai alapú diagnosztikus értékelő rendszer (a továbbiakban: NETFIT) szerinti fizikai fittségi mérések legutolsó rendelkezésre álló adatainak elemzését, értékelését.
+(5)[^301] A tanítási évben nevelőtestületi értekezleten el kell végezni az adott intézményre vonatkozó, az országos kompetenciamérés, a nyelvi mérés, a lemorzsolódással veszélyeztetett tanulókkal kapcsolatos támogató rendszer, valamint a tanulók fizikai állapotának és edzettségének mérési adatait tartalmazó informatikai alapú diagnosztikus értékelő rendszer (a továbbiakban: NETFIT) szerinti fizikai fittségi mérések legutolsó rendelkezésre álló adatainak elemzését, értékelését.
 
-[^292]: A 117. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 10. §-ával megállapított, a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 19. pontja szerint módosított szöveg.
-[^293]: A 117. § (5) bekezdését a 34/2019. (XII. 30.) EMMI rendelet 9. §-a iktatta be.
+[^300]: A 117. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 10. §-ával megállapított, a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 19. pontja szerint módosított szöveg.
+[^301]: A 117. § (5) bekezdését a 34/2019. (XII. 30.) EMMI rendelet 9. §-a iktatta be.

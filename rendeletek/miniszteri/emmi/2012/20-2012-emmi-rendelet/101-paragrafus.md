@@ -1,6 +1,6 @@
 101. § (1) A pedagógus a tanórai foglalkozásokról az órarendnek megfelelően osztálynaplót vezet.
 
-(2)[^280] Az osztálynaplóban fel kell tüntetni az iskola nevét, OM azonosítóját és címét, az osztály megnevezését, a napló megnyitásának és lezárásának időpontját, a kiállító osztályfőnök és az igazgató aláírását, papíralapú nyomtatvány esetén az iskola körbélyegzőjének lenyomatát is.
+(2)[^287] Az osztálynaplóban fel kell tüntetni az iskola nevét, OM azonosítóját és címét, az osztály megnevezését, a napló megnyitásának és lezárásának időpontját, a kiállító osztályfőnök és az igazgató aláírását, papíralapú nyomtatvány esetén az iskola körbélyegzőjének lenyomatát is.
 
 (3) A naplót az iskolai nevelés-oktatás nyelvén kell vezetni.
 
@@ -40,4 +40,4 @@ d) a közösségi szolgálat teljesítésével kapcsolatos adatokat
 
 tartalmazza.
 
-[^280]: A 101. § (2) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § g) pontja szerint módosított szöveg.
+[^287]: A 101. § (2) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § g) pontja szerint módosított szöveg.

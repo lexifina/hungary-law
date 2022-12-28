@@ -1,8 +1,8 @@
 ## 8. Az egész napos iskola
 
-19. § (1)[^65] Egész napos iskolai nevelés-oktatást akkor szervezhet az általános iskola, ha szükség esetén másik osztály indításával, ha pedig ez nem oldható meg, az érintett tanuló, kiskorú tanuló esetén a szülő egyetértésével a tanuló másik iskolába történő átvételével gondoskodnak annak a tanulónak az ellátásáról, aki – kiskorú tanuló esetén akinek a szülei – nem kívánja ezt az ellátást igénybe venni. Egész napos iskolai nevelés és oktatás esetében a kötelező tanórai és egyéb foglalkozásokat a délelőtti és délutáni időszakra egyenletesen szétosztva, egymást váltva, a tanulók arányos terhelését figyelembe véve kell megszervezni.
+19. § (1)[^69] Egész napos iskolai nevelés-oktatást akkor szervezhet az általános iskola, ha szükség esetén másik osztály indításával, ha pedig ez nem oldható meg, az érintett tanuló, kiskorú tanuló esetén a szülő egyetértésével a tanuló másik iskolába történő átvételével gondoskodnak annak a tanulónak az ellátásáról, aki – kiskorú tanuló esetén akinek a szülei – nem kívánja ezt az ellátást igénybe venni. Egész napos iskolai nevelés és oktatás esetében a kötelező tanórai és egyéb foglalkozásokat a délelőtti és délutáni időszakra egyenletesen szétosztva, egymást váltva, a tanulók arányos terhelését figyelembe véve kell megszervezni.
 
-(2)[^66]
+(2)[^70]
 
 (3) Az egész napos iskolai nevelés-oktatás keretében kell biztosítani
 
@@ -16,5 +16,5 @@ c) a felzárkóztatással és a tehetséggondozással kapcsolatos feladatok ell�
 
 (5) E szakasz rendelkezéseit az iskolaotthonos nevelés-oktatásra kifutó rendszerben kell alkalmazni.
 
-[^65]: A 19. § (1) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 6. pontja szerint módosított szöveg.
-[^66]: A 19. § (2) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § b) pontja hatályon kívül helyezte.
+[^69]: A 19. § (1) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^70]: A 19. § (2) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § b) pontja hatályon kívül helyezte.

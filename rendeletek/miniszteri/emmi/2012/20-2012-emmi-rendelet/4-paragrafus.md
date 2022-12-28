@@ -18,7 +18,7 @@ g) a vezetők és az iskolaszék, az óvodaszék, a kollégiumi szék, az intéz
 
 h) a nevelőtestület feladatkörébe tartozó ügyek átruházására, továbbá a feladatok ellátásával megbízott beszámolására vonatkozó rendelkezéseket,
 
-i)[^18] a külső kapcsolatok rendszerét, formáját és módját, beleértve a pedagógiai szakszolgálatokkal, a pedagógiai szakmai szolgáltatokkal, a gyermekjóléti szolgálattal, valamint az iskola-egészségügyi ellátást, illetve a tartós gyógykezelés alatt álló gyermek, tanuló egészségügyi ellátását biztosító egészségügyi szolgáltatóval való kapcsolattartást,
+i)[^19] a külső kapcsolatok rendszerét, formáját és módját, beleértve a pedagógiai szakszolgálatokkal, a pedagógiai szakmai szolgáltatokkal, a gyermekjóléti szolgálattal, valamint az iskola-egészségügyi ellátást, illetve a tartós gyógykezelés alatt álló gyermek, tanuló egészségügyi ellátását biztosító egészségügyi szolgáltatóval való kapcsolattartást,
 
 j) az ünnepélyek, megemlékezések rendjét, a hagyományok ápolásával kapcsolatos feladatokat,
 
@@ -34,7 +34,7 @@ o) annak meghatározását, hogy hol, milyen időpontban lehet tájékoztatást 
 
 p) azokat az ügyeket, amelyekben a szülői szervezetet, közösséget az SZMSZ véleményezési joggal ruházza fel,
 
-q)[^19] a nevelési-oktatási intézményben a tanulóval szemben lefolytatásra kerülő fegyelmi eljárást megelőző egyeztető eljárás, valamint a tanulóval szemben lefolytatásra kerülő fegyelmi eljárás részletes szabályait,
+q)[^20] a nevelési-oktatási intézményben a tanulóval szemben lefolytatásra kerülő fegyelmi eljárást megelőző egyeztető eljárás, valamint a tanulóval szemben lefolytatásra kerülő fegyelmi eljárás részletes szabályait,
 
 r) az elektronikus úton előállított papíralapú nyomtatványok hitelesítésének rendjét,
 
@@ -54,7 +54,7 @@ c) a diákönkormányzat, a diákképviselők, valamint az iskolai vezetők köz
 
 d) az iskolai sportkör, valamint az iskola vezetése közötti kapcsolattartás formáit és rendjét,
 
-e)[^20] szakiskola és szakgimnázium esetén a gyakorlati képzést folytatókkal és szervezőkkel való kapcsolattartás formáit és rendjét,
+e)[^21] szakiskola és szakgimnázium esetén a gyakorlati képzést folytatókkal és szervezőkkel való kapcsolattartás formáit és rendjét,
 
 f) a gyermekek, tanulók egészségét veszélyeztető helyzetek kezelésére irányuló eljárásrendet,
 
@@ -68,9 +68,9 @@ tartalmazza.
 
 (5) Ha iskolaszék, óvodaszék, kollégiumi szék nem működik, az SZMSZ elfogadásakor az óvodai, iskolai, kollégiumi szülői szervezet, közösség véleményét kell beszerezni.
 
-(6)[^21] A közös igazgatású köznevelési intézmény és az általános művelődési központ SZMSZ-e tartalmazza a működés közös szabályait és – intézményegységenként külön-külön – az egyes intézményegységek működését meghatározó előírásokat.
+(6)[^22] A közös igazgatású köznevelési intézmény és az általános művelődési központ SZMSZ-e tartalmazza a működés közös szabályait és – intézményegységenként külön-külön – az egyes intézményegységek működését meghatározó előírásokat.
 
-[^18]: A 4. § (1) bekezdés i) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^19]: A 4. § (1) bekezdés q) pontja a 22/2013. (III. 22.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^20]: A 4. § (2) bekezdés e) pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 1. pontja szerint módosított szöveg.
-[^21]: A 4. § (6) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^19]: A 4. § (1) bekezdés i) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^20]: A 4. § (1) bekezdés q) pontja a 22/2013. (III. 22.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^21]: A 4. § (2) bekezdés e) pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 1. pontja szerint módosított szöveg.
+[^22]: A 4. § (6) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 2. pontja szerint módosított szöveg.

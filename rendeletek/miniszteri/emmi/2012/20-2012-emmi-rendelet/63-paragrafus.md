@@ -8,9 +8,9 @@
 
 (2) Ha a gyermeket nevelő óvodapedagógus a gyermek iskolába lépéshez szükséges fejlettségének elérése érdekében indokoltnak tartja, az óvoda vezetője tájékoztatja a szülőt az Nkt. 72. § (1) bekezdés a) pontjában foglalt kötelességekről, továbbá a kötelességek nem megfelelő teljesítéséből eredő következményekről, valamint az Nkt. 72. § (4) bekezdésében foglalt jogokról.
 
-(3)[^210] Amennyiben a szülő az óvoda döntésében foglaltaknak önként nem tesz eleget, az óvoda vezetője az Nkt. 72. § (1) bekezdés a) pontjában, valamint (4) bekezdésében foglaltak alapján a szülői egyet nem értést alátámasztó nyilatkozat megküldésével értesíti a gyermek lakóhelye szerint illetékes kormányhivatalt.
+(3)[^215] Amennyiben a szülő az óvoda döntésében foglaltaknak önként nem tesz eleget, az óvoda vezetője az Nkt. 72. § (1) bekezdés a) pontjában, valamint (4) bekezdésében foglaltak alapján a szülői egyet nem értést alátámasztó nyilatkozat megküldésével értesíti a gyermek lakóhelye szerint illetékes kormányhivatalt.
 
-(4)[^211] Az óvoda a gyermek értelmi, lelki, szociális és testi fejlődésének eredményét – szükség szerint, de legalább nevelési évenként kétszer – a 93/A. § szerinti dokumentációban rögzíti.
+(4)[^216] Az óvoda a gyermek értelmi, lelki, szociális és testi fejlődésének eredményét – szükség szerint, de legalább nevelési évenként kétszer – a 93/A. § szerinti dokumentációban rögzíti.
 
-[^210]: A 63. § (3) bekezdése az 51/2016. (XII. 29.) EMMI rendelet 6. § 4. pontja, a 14/2020. (IV. 16.) EMMI rendelet 1. § e) pontja szerint módosított szöveg.
-[^211]: A 63. § (4) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^215]: A 63. § (3) bekezdése az 51/2016. (XII. 29.) EMMI rendelet 6. § 4. pontja, a 14/2020. (IV. 16.) EMMI rendelet 1. § e) pontja szerint módosított szöveg.
+[^216]: A 63. § (4) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 6. §-ával megállapított szöveg.

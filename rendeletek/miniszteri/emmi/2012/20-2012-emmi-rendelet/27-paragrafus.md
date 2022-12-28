@@ -4,9 +4,9 @@
 
 a) az általános iskolai tanulmányi eredmények (a továbbiakban: tanulmányi eredmények), vagy
 
-b)[^112] gimnázium, szakgimnázium esetén a tanulmányi eredmények és a központilag kiadott egységes feladatlapokkal megszervezett írásbeli vizsga (a továbbiakban: központi írásbeli vizsga) eredménye, vagy
+b)[^117] gimnázium, szakgimnázium esetén a tanulmányi eredmények és a központilag kiadott egységes feladatlapokkal megszervezett írásbeli vizsga (a továbbiakban: központi írásbeli vizsga) eredménye, vagy
 
-c)[^113] gimnázium, szakgimnázium esetén a tanulmányi eredmények, a központi írásbeli vizsga és a szóbeli vizsga eredményei
+c)[^118] gimnázium, szakgimnázium esetén a tanulmányi eredmények, a központi írásbeli vizsga és a szóbeli vizsga eredményei
 
 alapján dönthet.
 
@@ -14,8 +14,8 @@ alapján dönthet.
 
 (4) Ha a középfokú iskola nemzetiségi nevelés-oktatást folytat, a hozzá jelentkező tanulók szövegértési kompetenciáinak a vizsgálatához a központi írásbeli vizsga magyar nyelvi feladatlapjai helyett helyben készített nemzetiségi nyelvű szövegértési feladatsort használhat.
 
-(5)[^114] Ha a középfokú iskola a művészeti vagy testnevelés tanulmányi területen hirdet felvételt, a (2) bekezdésben meghatározottak mellett további képességek, készségek meglétét is vizsgálhatja.
+(5)[^119] Ha a középfokú iskola a művészeti vagy testnevelés tanulmányi területen hirdet felvételt, a (2) bekezdésben meghatározottak mellett további képességek, készségek meglétét is vizsgálhatja.
 
-[^112]: A 27. § (2) bekezdés b) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 7. pontja szerint módosított szöveg.
-[^113]: A 27. § (2) bekezdés c) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 7. pontja szerint módosított szöveg.
-[^114]: A 27. § (5) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 5. pontja szerint módosított szöveg.
+[^117]: A 27. § (2) bekezdés b) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 7. pontja szerint módosított szöveg.
+[^118]: A 27. § (2) bekezdés c) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 7. pontja szerint módosított szöveg.
+[^119]: A 27. § (5) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 5. pontja szerint módosított szöveg.

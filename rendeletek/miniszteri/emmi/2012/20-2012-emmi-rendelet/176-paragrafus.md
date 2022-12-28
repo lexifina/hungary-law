@@ -1,16 +1,16 @@
-## 71. [^509] Az Arany János Tehetséggondozó Program
+## 71. [^531] Az Arany János Tehetséggondozó Program
 
-176. § (1)[^510] Az Arany János Tehetséggondozó Programban azok a gimnáziumok, szakgimnáziumok és kollégiumok vehetnek részt, amelyek közösen vállalják a program célkitűzéseinek a megvalósítását, valamint céljuk esélyt teremteni a felsőoktatásba történő bejutásra azoknak a hátrányos helyzetű tanulóknak, akik az Arany János Tehetséggondozó Programban való részvétel nélkül nem vagy csak aránytalan nehézséggel kezdhetnék meg tanulmányaikat a felsőoktatásban.
+176. § (1)[^532] Az Arany János Tehetséggondozó Programban azok a gimnáziumok, szakgimnáziumok és kollégiumok vehetnek részt, amelyek közösen vállalják a program célkitűzéseinek a megvalósítását, valamint céljuk esélyt teremteni a felsőoktatásba történő bejutásra azoknak a hátrányos helyzetű tanulóknak, akik az Arany János Tehetséggondozó Programban való részvétel nélkül nem vagy csak aránytalan nehézséggel kezdhetnék meg tanulmányaikat a felsőoktatásban.
 
 (2) Az Arany János Tehetséggondozó Programban részt vevő kollégium kiválasztása a 174. § (2)–(5) bekezdésben foglalt eljárással történik. A pedagógiai program tervezetét az Arany János Tehetséggondozó Program követelményeivel összehangolva kell benyújtani, majd nyertes pályázat esetén annak megfelelően módosítani. A kollégium fenntartói jogának átadása esetén a 174. § (6) bekezdésben foglaltak az irányadók.
 
-(3)[^511] A (2) bekezdésben foglalt eljárásba bevont döntés-előkészítő bizottság háromtagú, amelybe az oktatásért felelős miniszter delegál egy tagot, az Arany János Tehetséggondozó Program tanácsadó testületének egy tagját és az Arany János Tehetséggondozó Program Intézményei Egyesületének az elnökét.
+(3)[^533] A (2) bekezdésben foglalt eljárásba bevont döntés-előkészítő bizottság háromtagú, amelybe a miniszter delegál egy tagot, az Arany János Tehetséggondozó Program tanácsadó testületének egy tagját és az Arany János Tehetséggondozó Program Intézményei Egyesületének az elnökét.
 
 (4) Az Arany János Tehetséggondozó Programba a tanév rendjéről szóló miniszteri rendeletben meghatározottak szerint bekapcsolódhat, aki
 
-a)[^512] tanulói jogviszonyban áll és a gimnázium vagy szakgimnázium kilencedik évfolyamára jelentkezik abban a tanévben, amelyben a pályázat meghirdetésre kerül, és
+a)[^534] tanulói jogviszonyban áll és a gimnázium vagy szakgimnázium kilencedik évfolyamára jelentkezik abban a tanévben, amelyben a pályázat meghirdetésre kerül, és
 
-b)[^513] a ba)–bf) alpontokban meghatározott valamelyik feltételnek megfelel:
+b)[^535] a ba)–bf) alpontokban meghatározott valamelyik feltételnek megfelel:
 
 ba) rendszeres gyermekvédelmi kedvezményben részesül,
 
@@ -24,33 +24,35 @@ be) lakóhelye, ennek hiányában tartózkodási helye a kedvezményezett telep�
 
 bf) lakóhelye, ennek hiányában tartózkodási helye nem kedvezményezett, de a települési lakónépességi adatok alapján ötezer főt meg nem haladó állandó lakosságszámmal rendelkező településen található és a programba történő jelentkezés időpontjában a szociális igazgatásról és a szociális ellátásokról szóló 1993. évi III. törvény 45. § (1) bekezdés a)–d) pontjában foglalt valamelyik célra nyújtott települési támogatásban vagy a jelentkezés időpontját megelőző 6 hónapon belül rendkívüli települési támogatásban részesül.
 
-(5)[^514] A 174. § (8) bekezdésében és a (4) bekezdésben foglalt, a tanulói pályázatok benyújtásával kapcsolatos eljárást a hivatal szakértők bevonásával ellenőrzi. Ha a szakmai ellenőrzés tanügy-igazgatási szabálytalanságokat tár fel, a hivatal hatósági ellenőrzést végez.
+(5)[^536] A 174. § (8) bekezdésében és a (4) bekezdésben foglalt, a tanulói pályázatok benyújtásával kapcsolatos eljárást a hivatal szakértők bevonásával ellenőrzi. Ha a szakmai ellenőrzés tanügy-igazgatási szabálytalanságokat tár fel, a hivatal hatósági ellenőrzést végez.
 
-(6)[^515] Az Arany János Kollégiumi Programban, az Arany János Kollégiumi-Szakközépiskolai Programban és az Arany János Tehetséggondozó Programban részt vevő kollégiumok köréből felmenő rendszerben kikerülhet az az intézmény, amely
+(6)[^537] Az Arany János Kollégiumi Programban, az Arany János Kollégiumi-Szakközépiskolai Programban és az Arany János Tehetséggondozó Programban részt vevő kollégiumok köréből felmenő rendszerben kikerülhet az az intézmény, amely
 
-a)[^516] az oktatásért felelős miniszter által kiadott és közzétett, A kollégiumi nevelés országos alapprogramjában az Arany János Tehetséggondozó Programot, az Arany János Kollégiumi Programot, az Arany János Kollégiumi-Szakközépiskolai Programot megvalósító köznevelési intézmények számára meghatározott követelményeknek nem tesz eleget,
+a)[^538] a miniszter által kiadott és közzétett, A kollégiumi nevelés országos alapprogramjában az Arany János Tehetséggondozó Programot, az Arany János Kollégiumi Programot, az Arany János Kollégiumi-Szakközépiskolai Programot megvalósító köznevelési intézmények számára meghatározott követelményeknek nem tesz eleget,
 
 b) vonatkozásában a hatóság a programok megvalósításával összefüggő súlyos szabálytalanságot állapít meg vagy
 
 c) jogutód nélkül megszűnik.
 
-(7)[^517] A (6) bekezdés a)–b) pontjában foglaltak tekintetében az Arany János Tehetséggondozó Program tanácsadó testületének egy tagja, az Arany János Kollégiumi Program és az Arany János Kollégiumi-Szakközépiskolai Program mentori tanácsadó testületének tagja és a Kollégiumi Szakmai és Érdekvédelmi Szövetség tagja külön-külön tesz javaslatot az oktatásért felelős miniszternek, aki a javaslat kézhezvételét vagy a még szükséges adatok tíz napon belül történő beszerzését követően tizenöt napon belül döntést hoz a programokból történő kikerülésről. Az oktatásért felelős miniszter a szakképzésért és felnőttképzésért felelős miniszter egyetértésével dönthet továbbá arról, hogy a programból kikerült intézmény feladatát a megye más nevelési-oktatási intézménye számára pályázati úton lehetővé teszi.
+(7)[^539] A (6) bekezdés a) és b) pontjában foglaltak tekintetében az Arany János Tehetséggondozó Program tanácsadó testületének egy tagja, az Arany János Kollégiumi Program és az Arany János Kollégiumi-Szakközépiskolai Program mentori tanácsadó testületének tagja és a Kollégiumi Szakmai és Érdekvédelmi Szövetség tagja külön-külön tesz javaslatot a miniszternek, aki a javaslat kézhezvételét vagy a még szükséges adatok tíz napon belül történő beszerzését követően tizenöt napon belül döntést hoz a programokból történő kikerülésről. A miniszter a szakképzésért felelős miniszter és a felnőttképzésért felelős miniszter egyetértésével dönthet továbbá arról, hogy a programból kikerült intézmény feladatát a megye más nevelési-oktatási intézménye számára pályázati úton lehetővé teszi.
 
-(8)[^518] A fenntartó illetménypótlékot állapít meg a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 16. § (9) bekezdésében foglaltak alapján
+(8)[^540] A fenntartó illetménypótlékot állapít meg a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 16. § (9) bekezdésében foglaltak alapján
 
-a) az Arany János Tehetséggondozó Program és az Arany János Kollégiumi Program esetében az Arany János Programok megvalósítását szolgáló támogatás és ösztöndíjtámogatás rendjéről és feltételeiről szóló kormányrendeletben, az oktatásért felelős miniszter által kiadott és közzétett, A kollégiumi nevelés országos alapprogramjában, valamint a Kerettanterv az Arany János Tehetséggondozó Programhoz, a Kerettanterv az Arany János Kollégiumi Programhoz dokumentumokban,
+a)[^541] az Arany János Tehetséggondozó Program és az Arany János Kollégiumi Program esetében az Arany János Programok megvalósítását szolgáló támogatás és ösztöndíjtámogatás rendjéről és feltételeiről szóló kormányrendeletben, a miniszter által kiadott és közzétett, A kollégiumi nevelés országos alapprogramjában, valamint a Kerettanterv az Arany János Tehetséggondozó Programhoz, a Kerettanterv az Arany János Kollégiumi Programhoz dokumentumokban,
 
-b) az Arany János Kollégiumi – Szakközépiskolai Program esetében az oktatásért felelős miniszter által kiadott és közzétett, A kollégiumi nevelés országos alapprogramjában
+b)[^542] az Arany János Kollégiumi – Szakközépiskolai Program esetében a miniszter által kiadott és közzétett, A kollégiumi nevelés országos alapprogramjában
 
 foglalt követelmények megvalósítását végző pedagógusok számára.
 
-[^509]: A 71. alcím (176. §) a 45/2014. (X. 27.) EMMI rendelet 47. §-ával megállapított szöveg.
-[^510]: A 176. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 38. pont a) alpontja szerint módosított szöveg.
-[^511]: A 176. § (3) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 21. pont a) alpontja szerint módosított szöveg.
-[^512]: A 176. § (4) bekezdés a) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 38. pont b) alpontja szerint módosított szöveg.
-[^513]: A 176. § (4) bekezdés b) pontja a 20/2019. (VIII. 30.) EMMI rendelet 19. §-ával megállapított szöveg.
-[^514]: A 176. § (5) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 35. pont a) alpontja szerint módosított szöveg.
-[^515]: A 176. § (6) bekezdés nyitó szövegrésze a 20/2016. (VIII. 24.) EMMI rendelet 27. § 38. pont c) alpontja szerint módosított szöveg.
-[^516]: A 176. § (6) bekezdés a) pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 21. pont b) alpontja szerint módosított szöveg.
-[^517]: A 176. § (7) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 22. §-ával megállapított, a 31/2020. (VIII. 31.) EMMI rendelet 19. § 21. pont c) alpontja és 20. § (1) bekezdés 35. pont b) alpontja szerint módosított szöveg.
-[^518]: A 176. § (8) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^531]: A 71. alcím (176. §) a 45/2014. (X. 27.) EMMI rendelet 47. §-ával megállapított szöveg.
+[^532]: A 176. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 38. pont a) alpontja szerint módosított szöveg.
+[^533]: A 176. § (3) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 21. pont a) alpontja, az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.
+[^534]: A 176. § (4) bekezdés a) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 38. pont b) alpontja szerint módosított szöveg.
+[^535]: A 176. § (4) bekezdés b) pontja a 20/2019. (VIII. 30.) EMMI rendelet 19. §-ával megállapított szöveg.
+[^536]: A 176. § (5) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 35. pont a) alpontja szerint módosított szöveg.
+[^537]: A 176. § (6) bekezdés nyitó szövegrésze a 20/2016. (VIII. 24.) EMMI rendelet 27. § 38. pont c) alpontja szerint módosított szöveg.
+[^538]: A 176. § (6) bekezdés a) pontja a 31/2020. (VIII. 31.) EMMI rendelet 19. § 21. pont b) alpontja, az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.
+[^539]: A 176. § (7) bekezdése az 52/2022. (XII. 27.) BM rendelet 23. §-ával megállapított szöveg.
+[^540]: A 176. § (8) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^541]: A 176. § (8) bekezdés a) pontja az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.
+[^542]: A 176. § (8) bekezdés b) pontja az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.

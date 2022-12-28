@@ -1,4 +1,4 @@
-125. § (1)[^327] Egyedi elnevezésként bármilyen megnevezés adható, ha az nem megtévesztő vagy a használatát más jogszabály nem tiltja. Az egyedi elnevezés a köznevelési intézmény hivatalos nevében az ellátott feladatokat tükröző jogszabály szerinti megnevezések előtt áll, és elősegíti a köznevelési intézmény azonosítását és más, azonos vagy hasonló tevékenységet folytató intézménytől való megkülönböztetését.
+125. § (1)[^335] Egyedi elnevezésként bármilyen megnevezés adható, ha az nem megtévesztő vagy a használatát más jogszabály nem tiltja. Az egyedi elnevezés a köznevelési intézmény hivatalos nevében az ellátott feladatokat tükröző jogszabály szerinti megnevezések előtt áll, és elősegíti a köznevelési intézmény azonosítását és más, azonos vagy hasonló tevékenységet folytató intézménytől való megkülönböztetését.
 
 (2) Egyedi elnevezésként
 
@@ -16,7 +16,7 @@ f) fenntartó neve,
 
 g) mese-, mitológiai szereplő, irodalmi alak neve,
 
-h)[^328] kifejezés vagy mozaikszó
+h)[^336] kifejezés vagy mozaikszó
 
 adható.
 
@@ -26,8 +26,8 @@ adható.
 
 (5) A felsőoktatási intézmény nevelési-oktatási intézményének a nevében fel kell tüntetni a felsőoktatási intézmény hivatalos nevét vagy annak elfogadott rövidítését.
 
-(6)[^329]
+(6)[^337]
 
-[^327]: A 125. § (1) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 11. § d) pontja szerint módosított szöveg.
-[^328]: A 125. § (2) bekezdés h) pontja a 45/2014. (X. 27.) EMMI rendelet 29. §-ával megállapított szöveg.
-[^329]: A 125. § (6) bekezdését a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 24. pontja hatályon kívül helyezte.
+[^335]: A 125. § (1) bekezdése a 36/2012. (XI. 14.) EMMI rendelet 11. § d) pontja szerint módosított szöveg.
+[^336]: A 125. § (2) bekezdés h) pontja a 45/2014. (X. 27.) EMMI rendelet 29. §-ával megállapított szöveg.
+[^337]: A 125. § (6) bekezdését a 31/2020. (VIII. 31.) EMMI rendelet 20. § (1) bekezdés 24. pontja hatályon kívül helyezte.

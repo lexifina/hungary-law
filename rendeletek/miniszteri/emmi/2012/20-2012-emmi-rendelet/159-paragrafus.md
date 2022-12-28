@@ -1,22 +1,22 @@
-159. § (1)[^453] A kiegészítő nemzetiségi nyelvoktatás megszervezése előtt a tankerületi központ beszerzi az érintett országos nemzetiségi önkormányzat, annak nemleges válasza esetén az érintett területi nemzetiségi önkormányzat, annak nemleges válasza esetén az érintett települési nemzetiségi önkormányzat állásfoglalását arról, hogy kíván-e a kiegészítő nemzetiségi oktatási feladatok ellátására iskolát létesíteni és fenntartani.
+159. § (1)[^469] A kiegészítő nemzetiségi nyelvoktatás megszervezése előtt a tankerületi központ beszerzi az érintett országos nemzetiségi önkormányzat, annak nemleges válasza esetén az érintett területi nemzetiségi önkormányzat, annak nemleges válasza esetén az érintett települési nemzetiségi önkormányzat állásfoglalását arról, hogy kíván-e a kiegészítő nemzetiségi oktatási feladatok ellátására iskolát létesíteni és fenntartani.
 
 (2) Amennyiben az (1) bekezdés szerinti nemzetiségi önkormányzatok egyike sem kíván iskolát létesíteni, a tankerületi központ szervezi meg a nemzetiségi anyanyelv és a nemzetiségi népismeret oktatását.
 
-(3)[^454] Az érintett nemzetiségi önkormányzatok az (1) bekezdésben meghatározott sorrendben dönthetnek úgy is, hogy a kiegészítő nemzetiségi nyelvoktatás feladatait iskola létesítésével, az általuk fenntartott iskola tagintézményeként vagy utazó pedagógusi hálózat működtetésével szervezik meg. Ha a nevelés-oktatás nem nemzetiségi önkormányzat fenntartásában lévő iskolában működik, a nemzetiségi önkormányzat az iskola fenntartójával megállapodásban rendezi az együttműködés kérdéseit vagy az utazó pedagógussal történő feladatellátás keretében megvalósuló együttműködést.
+(3)[^470] Az érintett nemzetiségi önkormányzatok az (1) bekezdésben meghatározott sorrendben dönthetnek úgy is, hogy a kiegészítő nemzetiségi nyelvoktatás feladatait iskola létesítésével, az általuk fenntartott iskola tagintézményeként vagy utazó pedagógusi hálózat működtetésével szervezik meg. Ha a nevelés-oktatás nem nemzetiségi önkormányzat fenntartásában lévő iskolában működik, a nemzetiségi önkormányzat az iskola fenntartójával megállapodásban rendezi az együttműködés kérdéseit vagy az utazó pedagógussal történő feladatellátás keretében megvalósuló együttműködést.
 
-(4)[^455] A kiegészítő nemzetiségi nyelvoktatásban való részvétel céljából létesített vendégtanulói jogviszony
+(4)[^471] A kiegészítő nemzetiségi nyelvoktatásban való részvétel céljából létesített vendégtanulói jogviszony
 
 a) az általános iskolában vagy középfokú iskolában folytatott tanulmányok mellett létesített vendégtanulói jogviszony,
 
-b)[^456] kizárólagosan a kiegészítő nemzetiségi nyelvoktatásban való részvétel céljából létesített vendégtanulói jogviszony
+b)[^472] kizárólagosan a kiegészítő nemzetiségi nyelvoktatásban való részvétel céljából létesített vendégtanulói jogviszony
 
 lehet.
 
-(5)[^457] Az iskola a tankötelezettségét nála teljesítő kiskorú tanuló szülője, a tanuló tizennegyedik életévétől a szülő és a tanuló közös kérelme alapján nem tagadhatja meg, hogy a tanuló vendégtanulóként másik iskolában kiegészítő nemzetiségi nyelvoktatásban vegyen részt.
+(5)[^473] Az iskola a tankötelezettségét nála teljesítő kiskorú tanuló szülője, a tanuló tizennegyedik életévétől a szülő és a tanuló közös kérelme alapján nem tagadhatja meg, hogy a tanuló vendégtanulóként másik iskolában kiegészítő nemzetiségi nyelvoktatásban vegyen részt.
 
-(6)[^458] A tanuló kérheti a kiegészítő nemzetiségi nyelvoktatásban szerzett osztályzatainak rögzítését a törzslapon és a bizonyítványban, abban az iskolában, ahol tankötelezettségét teljesíti, vagy a tankötelezettség megszűnését követően nappali rendszerben a tanulmányait folytatja, feltéve, ha a vendégtanulói jogviszonyban és a tanulói jogviszonyban folytatott tanulmányok azonos évfolyamra esnek. Ebben az esetben alkalmazni kell az e rendelet vendégtanulókkal kapcsolatos rendelkezéseit, és a tanulót – kérelemre – fel kell menteni az idegen nyelv tanulása alól.
+(6)[^474] A tanuló kérheti a kiegészítő nemzetiségi nyelvoktatásban szerzett osztályzatainak rögzítését a törzslapon és a bizonyítványban, abban az iskolában, ahol tankötelezettségét teljesíti, vagy a tankötelezettség megszűnését követően nappali rendszerben a tanulmányait folytatja, feltéve, ha a vendégtanulói jogviszonyban és a tanulói jogviszonyban folytatott tanulmányok azonos évfolyamra esnek. Ebben az esetben alkalmazni kell az e rendelet vendégtanulókkal kapcsolatos rendelkezéseit, és a tanulót – kérelemre – fel kell menteni az idegen nyelv tanulása alól.
 
-(7)[^459] Ha a kiegészítő nemzetiségi nyelvoktatásban részt vevő tanuló nem áll tanulói jogviszonyban másik iskolával, vagy osztályzatainak iskolai tanulmányaiba való beszámítását nem kéri, részére a kiegészítő nemzetiségi nyelvoktatásban elért osztályzatairól külön bizonyítványt kell kiállítani, és e követelmények tekintetében külön kell dönteni az iskola magasabb évfolyamába lépésről.
+(7)[^475] Ha a kiegészítő nemzetiségi nyelvoktatásban részt vevő tanuló nem áll tanulói jogviszonyban másik iskolával, vagy osztályzatainak iskolai tanulmányaiba való beszámítását nem kéri, részére a kiegészítő nemzetiségi nyelvoktatásban elért osztályzatairól külön bizonyítványt kell kiállítani, és e követelmények tekintetében külön kell dönteni az iskola magasabb évfolyamába lépésről.
 
 (8) Annak a kérelmére, aki az iskolai tanulmányokon kívül folytatott kiegészítő nemzetiségi tanulmányok keretében befejezte
 
@@ -24,13 +24,13 @@ a) a nyolcadik vagy a tizenkettedik évfolyamot, az adott évfolyam bizonyítvá
 
 b) a tizenkettedik évfolyamot, engedélyezni kell, hogy a nemzetiség nyelvéből és nemzetiségi népismeretből érettségi vizsgát tegyen.
 
-(9)[^460] A kiegészítő nemzetiségi óvodai nevelésben való részvétel céljából a szülő írásos nyilatkozata alapján az intézmény kiegészítő nemzetiségi óvodai jogviszonyt létesít a gyermek számára. E jogviszony létesítéséről az intézmény írásban értesíti azt az óvodát, amely óvodai jogviszony keretében a gyermeket neveli, vagy amelybe felvételt nyert.
+(9)[^476] A kiegészítő nemzetiségi óvodai nevelésben való részvétel céljából a szülő írásos nyilatkozata alapján az intézmény kiegészítő nemzetiségi óvodai jogviszonyt létesít a gyermek számára. E jogviszony létesítéséről az intézmény írásban értesíti azt az óvodát, amely óvodai jogviszony keretében a gyermeket neveli, vagy amelybe felvételt nyert.
 
-[^453]: A 159. § (1) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 25. pont a) pontja szerint módosított szöveg.
-[^454]: A 159. § (3) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 25. pont b) pontja szerint módosított szöveg.
-[^455]: A 159. § (4) bekezdés nyitó szövegrésze a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 25. pont c) pontja szerint módosított szöveg.
-[^456]: A 159. § (4) bekezdés b) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 25. pont d) pontja szerint módosított szöveg.
-[^457]: A 159. § (5) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 25. pont e) pontja szerint módosított szöveg.
-[^458]: A 159. § (6) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 25. pont e) pontja szerint módosított szöveg.
-[^459]: A 159. § (7) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 25. pont f) pontja szerint módosított szöveg.
-[^460]: A 159. § (9) bekezdését a 37/2021. (VIII. 31.) EMMI rendelet 14. §-a iktatta be.
+[^469]: A 159. § (1) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 25. pont a) pontja szerint módosított szöveg.
+[^470]: A 159. § (3) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 25. pont b) pontja szerint módosított szöveg.
+[^471]: A 159. § (4) bekezdés nyitó szövegrésze a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 25. pont c) pontja szerint módosított szöveg.
+[^472]: A 159. § (4) bekezdés b) pontja a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 25. pont d) pontja szerint módosított szöveg.
+[^473]: A 159. § (5) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 25. pont e) pontja szerint módosított szöveg.
+[^474]: A 159. § (6) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 25. pont e) pontja szerint módosított szöveg.
+[^475]: A 159. § (7) bekezdése a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 25. pont f) pontja szerint módosított szöveg.
+[^476]: A 159. § (9) bekezdését a 37/2021. (VIII. 31.) EMMI rendelet 14. §-a iktatta be.

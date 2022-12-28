@@ -16,7 +16,7 @@ d) a gyermekek, tanulók szüleire, törvényes képviselőire (a továbbiakban 
 
 e)[^2] a fővárosi és megyei kormányhivatalokra (a továbbiakban: kormányhivatal),
 
-f) az oktatásért felelős miniszter köznevelési feladatkörében eljáró, kormányrendeletben kijelölt központi hivatalára (a továbbiakban: hivatal),
+f)[^3] a köznevelésért felelős miniszternek (a továbbiakban: miniszter) a Kormány rendeletében kijelölt központi hivatalára (a továbbiakban: hivatal),
 
 g) a köznevelési intézmények intézményfenntartóira,
 
@@ -24,8 +24,9 @@ h) a pedagógiai szakszolgálat keretében ellátott szakértői bizottsági tev
 
 i) a névhasználatra vonatkozó rendelkezések tekintetében a pedagógiai szakszolgálati intézményekre, a pedagógiai-szakmai szolgáltató intézményekre és a többcélú köznevelési intézményekre is,
 
-j)[^3] az Nkt. 93/A. § (1) bekezdés b) pontjában meghatározott természetes és jogi személyekre.
+j)[^4] az Nkt. 93/A. § (1) bekezdés b) pontjában meghatározott természetes és jogi személyekre.
 
 [^1]: Az 1. § a) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 1. pontja szerint módosított szöveg.
 [^2]: Az 1. § e) pontja a 22/2013. (III. 22.) EMMI rendelet 1. §-ával megállapított, a 14/2020. (IV. 16.) EMMI rendelet 2. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § j) pontját a 20/2019. (VIII. 30.) EMMI rendelet 3. §-a iktatta be.
+[^3]: Az 1. § f) pontja az 52/2022. (XII. 27.) BM rendelet 21. §-ával megállapított szöveg.
+[^4]: Az 1. § j) pontját a 20/2019. (VIII. 30.) EMMI rendelet 3. §-a iktatta be.
