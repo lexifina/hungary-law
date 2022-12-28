@@ -1,6 +1,6 @@
 2. § Az Egyezmény eredeti angol nyelvű szövege és annak hivatalos magyar nyelvű fordítása a következő:
 
-,,CONVENTION ON NUCLEAR SAFETY
+„,,CONVENTION ON NUCLEAR SAFETY
 
 PREAMBLE
 
@@ -812,4 +812,4 @@ Letéteményes
 
 Hiteles szövegek
 
-Ezen Egyezmény eredeti példányát, amelynek angol, arab, francia, kínai, orosz és spanyol szövege egyaránt hiteles, a letéteményesnél kell elhelyezni, aki ennek hiteles másolatait megküldi a Szerződő Feleknek.''
+Ezen Egyezmény eredeti példányát, amelynek angol, arab, francia, kínai, orosz és spanyol szövege egyaránt hiteles, a letéteményesnél kell elhelyezni, aki ennek hiteles másolatait megküldi a Szerződő Feleknek.''”
