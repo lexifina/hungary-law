@@ -32,7 +32,7 @@
 
 2. számú melléklet a 41/2008. (IV. 3.) FVM rendelethez[^40]
 
-## Támogatási kérelem adattartalma
+Támogatási kérelem adattartalma
 
 1. A termeltető azonosító adatai:
 
