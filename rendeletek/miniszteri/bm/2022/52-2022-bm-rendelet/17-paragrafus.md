@@ -1,0 +1,1 @@
+17. § A kábítószer-függőséget gyógyító kezelés, kábítószer-használatot kezelő más ellátás vagy megelőző-felvilágosító szolgáltatás szabályairól szóló 42/2008. (XI. 14.) EüM–SZMM együttes rendelet 4. § (3) bekezdésében az „az igazságügyi és rendészeti” szövegrész helyébe az „a büntetés-végrehajtásért felelős” szöveg lép.
