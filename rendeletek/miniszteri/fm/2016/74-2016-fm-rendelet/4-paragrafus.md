@@ -1,5 +1,3 @@
-## 3. §[^5] E rendelet alapján a tárgyévben nyújtható támogatás keretösszege legfeljebb 450 millió forint.
-
 ## 4. A támogatás igénybevételének feltételei
 
 4. § (1) Támogatás igénybevételére az az állattartó jogosult, aki vagy amely
@@ -36,7 +34,7 @@ a) anyajuh minden megkezdett ötven egyedszáma után egy tenyészkos,
 
 b) anyakecske minden megkezdett ötven egyedszáma után egy tenyészbak
 
-## tenyésztésbe állításához igényelhet támogatást.
+tenyésztésbe állításához igényelhet támogatást.
 
 (4) Ha a bejelentett tenyészetben lévő anyajuh vagy anyakecske egyedszáma nem éri el az ötvenet, akkor egy tenyészkos, illetve egy tenyészbak tenyésztésbe állításához igényelhető támogatás.
 
@@ -44,6 +42,5 @@ b) anyakecske minden megkezdett ötven egyedszáma után egy tenyészbak
 
 (6) Egy állattartó egy támogatási időszakban egy támogatási kérelmet nyújthat be.
 
-[^5]: A 3. § a 66/2019. (XII. 30.) AM rendelet 5. §-ával megállapított szöveg.
 [^6]: A 4. § (1) bekezdés b) pont ba) alpontját a 43/2017. (IX. 5.) FM rendelet 21. §-a hatályon kívül helyezte.
 [^7]: A 4. § (3) bekezdése a 43/2017. (IX. 5.) FM rendelet 19. §-ával megállapított szöveg.

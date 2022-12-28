@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-74-20-1
 | 2021-04-15 | 2016-74-20-11.11 | 65/2020. (XII. 17.) AM rendelet |
 | 2022-01-01 | 2016-74-20-11.12 | 65/2020. (XII. 17.) AM rendelet |
 | 2022-09-01 | 2016-74-20-11.13 | 26/2022. (VIII. 31.) AM rendelet |
+| 2022-12-28 | 2016-74-20-11.14 | 158/2022. (XII. 27.) AM rendelet |

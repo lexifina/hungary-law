@@ -1,6 +1,6 @@
 ## 6b.[^18] Válságtámogatás
 
-6/D. § (1) Az állattartó – a 2. § (1) bekezdésében foglaltaktól eltérően – a 2022. október 1. és október 31. között benyújtott támogatási kérelme alapján kizárólag az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatás (a továbbiakban: válságtámogatás) igénybevételére jogosult, amely válságtámogatás iránti kérelem ügyfélkapus azonosítást követően az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
+6/D. § (1)[^19] Az állattartó – a 2. § (1) bekezdésében foglaltaktól eltérően – a 2022. október 1. és október 31., 2023. április 1. és április 30., valamint 2023. október 1. és október 31. között benyújtott támogatási kérelme alapján kizárólag az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatás (a továbbiakban: válságtámogatás) igénybevételére jogosult, amely válságtámogatás iránti kérelem ügyfélkapus azonosítást követően az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
 (2) A válságtámogatás iránti kérelem vonatkozásában nem kell alkalmazni a 2. § (4) és (6)–(8) bekezdésében, a 4. § (1) bekezdés b) pont bd) alpontjában, a 6. § (2) bekezdésében és a 6/A–6/C. §-ban foglaltakat.
 
@@ -37,3 +37,4 @@ c) az állatfajonként igényelt állatlétszámot.
 (8) A válságtámogatás iránti kérelem benyújtása esetén a Kincstár megkeresésére a Magyar Juh- és Kecsketenyésztők Szövetsége adatot szolgáltat az 5. § (2) bekezdés b)–g) pontjában foglaltakról.
 
 [^18]: A 6b. alcímet (6/D–6/E. §) a 26/2022. (VIII. 31.) AM rendelet 17. §-a iktatta be.
+[^19]: A 6/D. § (1) bekezdése a 158/2022. (XII. 27.) AM rendelet 12. § b) pontja szerint módosított szöveg.

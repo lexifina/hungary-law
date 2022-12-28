@@ -8,7 +8,7 @@ c)[^13] 2021. október 1. és október 31. között benyújtott átmeneti támog
 
 d)[^14] 2022. április 1. és április 30. között benyújtott átmeneti támogatás iránti kérelmekről legkésőbb 2022. június 30-áig
 
-## dönt.
+dönt.
 
 (2)[^15] A támogatás keretösszege
 

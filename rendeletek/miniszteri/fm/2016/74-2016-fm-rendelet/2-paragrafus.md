@@ -6,7 +6,7 @@ a) tenyészkos- vagy tenyészbaknevelő központi telepről, illetve származás
 
 b) állattartó általi, saját állományból – támogatási időszakban – történő tenyésztésbe állítása
 
-## esetén az állattartó vissza nem térítendő mezőgazdasági csekély összegű támogatás (a továbbiakban: támogatás) igénybevételére jogosult.
+esetén az állattartó vissza nem térítendő mezőgazdasági csekély összegű támogatás (a továbbiakban: támogatás) igénybevételére jogosult.
 
 (2) A támogatás összege a saját állományból származó és a támogatási időszakban tenyésztésbe állított apaállat esetén az a)–c) pontokban foglaltak szerint kerül megállapításra, míg a támogatási időszakban megvásárolt és tenyésztésbe állított apaállat esetén az apaállat ellenértékének 75%-a, de legfeljebb
 
@@ -16,7 +16,7 @@ b) az „A” törzskönyvben nyilvántartott tenyészkosonként, illetve tenyé
 
 c) a „K” köztenyésztésre használható besorolást kapott tenyészkosonként, illetve tenyészbakonként 90 000 forint
 
-## azzal, hogy a támogatás nem haladhatja meg az állattartó és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás részére rendelkezésre álló szabad csekély összegű támogatási keretet.
+azzal, hogy a támogatás nem haladhatja meg az állattartó és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás részére rendelkezésre álló szabad csekély összegű támogatási keretet.
 
 (3) A támogatási időszakban megvásárolt és tenyésztésbe állított apaállat esetén a (2) bekezdés szerinti mérték alkalmazása során, ha az állattartó az általános forgalmi adóról szóló 2007. évi CXXVII. törvény értelmében
 
@@ -24,7 +24,7 @@ a) általános forgalmi adó (a továbbiakban: ÁFA) levonására jogosult, akko
 
 b) ÁFA levonására nem jogosult, akkor a bruttó vételár
 
-## kerül figyelembevételre.
+kerül figyelembevételre.
 
 (4)[^4] Az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon az adott üzleti évben, valamint az azt megelőző két üzleti év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (5)–(6) bekezdésében foglaltakat, illetve a II. mellékletében meghatározott felső határt.
 
