@@ -1,0 +1,92 @@
+# A Kormány 596/2022. (XII. 28.) Korm. rendelete
+
+Magyar Közlöny 2022. évi 218. szám, 2022. december 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/C3ZiiJhSj6O0GufofpBR63a61e47de15f/dokumentumok/29d2e1f29792faf30a1ae2978d6374e111c42e25/letoltes)
+
+---
+
+A Kormány 596/2022. (XII. 28.) Korm. rendelete
+a 30 év alatti anyák kedvezményéről
+A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi
+és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. § (1) Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek
+magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes
+veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet ideje alatt a 30. életévét
+be nem töltött, gyermeket vállaló nő (a továbbiakban: fiatal anya) a személyi jövedelemadóról szóló 1995. évi
+CXVII. törvény (a továbbiakban: Szja tv.) 29. §-a szerint meghatározott összevont adóalapját az e rendelet szerinti
+30 év alatti anyák kedvezményével csökkenti. A 30 év alatti anyák kedvezménye a négy vagy több gyermeket nevelő
+anyák kedvezményét és a 25 év alatti fiatalok kedvezményét követően, de a személyi kedvezményt, az első házasok
+kedvezményét és a családi kedvezményt megelőző sorrendben érvényesíthető. E rendelet alkalmazásában fiatal
+anya az, akinek családi kedvezményre való jogosultsága magzatára, vér szerinti vagy örökbe fogadott gyermekére
+tekintettel a 30. életéve betöltését megelőző napig megnyílik.
+(2) A 30 év alatti anyák kedvezményére jogosult az a fiatal anya, aki
+a) az Szja tv. 29/A. § (3) bekezdés a) pontja szerint a vér szerinti vagy örökbe fogadott gyermekére tekintettel,
+vagy
+b) az Szja tv. 29/A. § (3) bekezdés b) pontja szerinti magzatra tekintettel
+családi kedvezmény érvényesítésére jogosult.
+(3) A 30 év alatti anyák kedvezménye a fiatal anya által a jogosultsági hónapokban megszerzett (munkaviszonyból
+származó jövedelem esetében a jogosultsági hónapokra elszámolt), összevont adóalapba tartozó,
+a) az Szja tv. 3. § 21. pontja szerint bérnek minősülő jövedelme,
+b) az a) pontban nem említett nem önálló tevékenységből származó jövedelmeinek összege, ide nem értve
+a munkaviszony megszüntetésére tekintettel kapott végkielégítés törvényben előírt mértéket meghaladó
+összegét,
+
+c) önálló tevékenységből származó jövedelmei közül
+ca) a vállalkozói jövedelem szerinti adózást alkalmazó egyéni vállalkozó vállalkozói kivétje,
+átalányadózás esetén az átalányban megállapított jövedelme;
+cb) a mezőgazdasági őstermelő e tevékenységéből származó jövedelme;
+cc) az európai parlamenti képviselő e tevékenységéből származó jövedelme;
+cd) a helyi önkormányzati képviselő e tevékenységéből származó jövedelme;
+ce) a választott könyvvizsgáló e tevékenységéből származó jövedelme;
+cf) a magánszemély által nem egyéni vállalkozóként kötött, díjazás ellenében történő munkavégzésre
+irányuló más szerződés alapján folytatott tevékenységéből származó jövedelme,
+de adóévenként legfeljebb a jogosultsági hónapok számának és a teljes munkaidőben alkalmazásban állók
+Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző év július hónapjára vonatkozó
+nemzetgazdasági szintű bruttó átlagkeresetének szorzata.
+(4) Jogosultsági hónapként az a hónap vehető figyelembe, amelyben a fiatal anya családi kedvezményre való
+jogosultsága a (2) bekezdés szerint fennáll, de legkorábban a 25. életéve betöltésének hónapját követő hónap.
+A kedvezmény legfeljebb annak az évnek az utolsó jogosultsági hónapjáig érvényesíthető, amely évben a fiatal anya
+betölti a 30. életévét.
+(5) Amennyiben a 30 év alatti anyák kedvezményére való jogosultság az adóév egészében nem áll fenn, és
+a jogosultsági hónapokban megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelem
+másként nem állapítható meg, azt az ilyen címen megszerzett adóévi jövedelemnek a jogosultsági hónapokkal
+arányos részeként kell figyelembe venni.
+2. § (1) A 30 év alatti anyák kedvezményére jogosult fiatal anya az adóelőleg-megállapítására kötelezett kifizető részére
+tett adóelőleg-nyilatkozatban nyilatkozik a kedvezmény érvényesítéséről. A 30 év alatti anyák kedvezményére
+jogosult fiatal anya elsőként a 25. életéve betöltése hónapját követő hónapra vonatkozóan tehet e kedvezmény
+érvényesítése érdekében adóelőleg-nyilatkozatot. Az adóelőleg-nyilatkozat tartalmazza a nyilatkozó magánszemély
+nevét és adóazonosító jelét, a nyilatkozó magánszemély részére bevételt juttató kifizető, munkáltató nevét
+(elnevezését) és adószámát, a gyermek nevét és adóazonosító jelét, magzat (ikermagzat) esetében a várandósság
+tényére vonatkozó kijelentést. A fiatal anya a kedvezmény érvényesítésére vonatkozó nyilatkozatát visszavonja,
+ha a visszavonás hiányában az adóév egészére vonatkozóan keletkező befizetési különbözet a 10 ezer forintot
+meghaladná. Ha a fiatal anya nem tesz visszavonó nyilatkozatot, és a visszavonás hiányában keletkező befizetési
+különbözet az adóévben a 10 ezer forintot meghaladja, a befizetési különbözet után a fiatal anya az adóévre
+vonatkozó bevallásában külön feltüntetve 12 százalék különbözeti bírságot állapít meg, amelyet a személyi
+jövedelemadó-fizetési kötelezettségre vonatkozó rendelkezések szerint fizet meg.
+(2) A 30 év alatti anyák kedvezményét érvényesítő fiatal anya a családi kedvezményről abban az esetben is tehet
+adóelőleg-nyilatkozatot a munkáltató, az összevont adóalapba tartozó rendszeres bevételt juttató kifizető részére,
+ha a 30 év alatti anyák kedvezményének érvényesítése miatt az adóelőleg-alapja nullára csökken. A családi
+kedvezményről tett adóelőleg-nyilatkozat szerinti családi kedvezmény adóelőleg-alap terhére nem érvényesíthető
+értékének az Szja tv. 8. §-a szerinti adó mértékével meghatározott összege a társadalombiztosítás ellátásaira
+jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény szerinti szabályok alkalmazásával
+családi járulékkedvezményként vehető igénybe.
+(3) Az adóelőleg-megállapításra kötelezett kifizető a levont adóelőlegről a fiatal anyának kiadott igazolásban feltünteti
+a 30 év alatti anyák kedvezményét is.
+3. §
+Az adózás rendjéről szóló 2017. évi CL. törvény 50. § (2) bekezdése szerinti bevallásban a kifizető feltünteti
+a természetes személy tekintetében a 30 év alatti anyák kedvezménye érvényesítéséhez szükséges következő
+adatokat:
+a) a jogosult születési idejét,
+b) a természetes személy családi kedvezményre való jogosultságának az Szja tv. 29/A. § (3) bekezdés a) pontja
+vagy b) pontja szerinti jogcímét,
+c) a magzat kivételével a gyermek nevét, adóazonosító jelét, várandósság esetén ennek tényét,
+d) a kedvezmény alapját képező jövedelmeket jogcímenként.
+
+4. §
+Ez a rendelet 2023. január 1-jén lép hatályba.
+5. §
+Az e rendelet szerinti kedvezmény abban az esetben illeti meg a fiatal anyát, ha magzatára, vér szerinti vagy örökbe
+fogadott gyermekére tekintettel a családi kedvezményre való jogosultsága 2022. december 31-ét követően nyílik
+meg.
+ Orbán Viktor s. k.,
+ miniszterelnök
