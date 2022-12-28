@@ -1,3 +1,3 @@
-107/C. §[^367]
+107/C. §[^370]
 
-[^367]: A 107/C. §-t a 17/2002. (XII. 20.) ESZCSM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 36/2018. (X. 12.) EMMI rendelet 6. § c) pontja.
+[^370]: A 107/C. §-t a 17/2002. (XII. 20.) ESZCSM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 36/2018. (X. 12.) EMMI rendelet 6. § c) pontja.

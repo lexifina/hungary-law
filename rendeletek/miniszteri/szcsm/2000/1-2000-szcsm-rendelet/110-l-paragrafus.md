@@ -4,7 +4,7 @@
 
 a) a foglalkoztatott személy fizikai, mentális állapotának, készségeinek, jártasságainak, munkavégző képességének jellemzőit,
 
-b)[^405] fejlesztési jogviszony esetében az Szt. 99/C. § (4) bekezdés a) pontja szerinti dokumentumokat,
+b)[^409] fejlesztési jogviszony esetében az Szt. 99/C. § (4) bekezdés a) pontja szerinti dokumentumokat,
 
 c) az ellátásban részesülő állapotának megfelelő foglalkoztatási célokat, feladatokat és azok megvalósításának módszereit,
 
@@ -24,4 +24,4 @@ személyes egyeztetése alapján készül el.
 
 (4) Az egyéni foglalkoztatási terv alapján elért eredményeket a (3) bekezdés szerinti személyek évente értékelik, és szükség esetén módosítják az egyéni foglalkoztatási tervet.
 
-[^405]: A 110/L. § (2) bekezdés b) pontja a 4/2019. (II. 27.) EMMI rendelet 17. §-ával megállapított szöveg.
+[^409]: A 110/L. § (2) bekezdés b) pontja a 4/2019. (II. 27.) EMMI rendelet 17. §-ával megállapított szöveg.

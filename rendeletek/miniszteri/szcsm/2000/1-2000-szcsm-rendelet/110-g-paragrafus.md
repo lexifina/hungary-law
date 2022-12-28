@@ -1,15 +1,15 @@
 ## A támogatott lakhatás szolgáltatásai és személyi feltételei
 
-110/G. § (1)[^397] Az esetvitelt biztosító munkatársat a támogatott lakhatás fenntartója biztosítja. Amennyiben a szolgáltatás személyi feltételeinek előírásai lehetővé teszik, az esetvitelt az intézményvezető is elláthatja.
+110/G. § (1)[^401] Az esetvitelt biztosító munkatársat a támogatott lakhatás fenntartója biztosítja. Amennyiben a szolgáltatás személyi feltételeinek előírásai lehetővé teszik, az esetvitelt az intézményvezető is elláthatja.
 
 (2) Az intézmény vezetője minden igénybevevő számára kijelöli az esetvitelért felelős személyt (a továbbiakban: esetfelelős).
 
-(3)[^398] Az esetfelelős az ellátást igénybevevő egyéni szolgáltatási tervében meghatározott célokért és tevékenységekért felelős. Egy esetfelelőshöz egyszerre huszonnégy ellátott tartozhat.
+(3)[^402] Az esetfelelős az ellátást igénybevevő egyéni szolgáltatási tervében meghatározott célokért és tevékenységekért felelős. Egy esetfelelőshöz egyszerre huszonnégy ellátott tartozhat.
 
 (4) Az esetfelelős kompetenciájának ki kell terjednie az igénybevevő képességeiről, nehézségeiről, mindennapi életéről, az általa ténylegesen igényelt segítségről szóló szolgáltatási terv elkészítésére, az egyéni esetkezelésre, a döntéseinek támogatására, a segítői munkát végző csoport munkájának koordinálására.
 
-(5)[^399]
+(5)[^403]
 
-[^397]: A 110/G. § (1) bekezdése az 1/2017. (II. 14.) EMMI rendelet 59. § q) pontja szerint módosított szöveg.
-[^398]: A 110/G. § (3) bekezdése a 7/2018. (II. 5.) EMMI rendelet 18. § o) pontja szerint módosított szöveg.
-[^399]: A 110/G. § (5) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § r) pontja hatályon kívül helyezte.
+[^401]: A 110/G. § (1) bekezdése az 1/2017. (II. 14.) EMMI rendelet 59. § q) pontja szerint módosított szöveg.
+[^402]: A 110/G. § (3) bekezdése a 7/2018. (II. 5.) EMMI rendelet 18. § o) pontja szerint módosított szöveg.
+[^403]: A 110/G. § (5) bekezdését az 1/2017. (II. 14.) EMMI rendelet 59. § r) pontja hatályon kívül helyezte.
