@@ -20,7 +20,7 @@ g) 26/2002. (V. 14.) EüM rendelet 11. §-a és 3. számú melléklete,
 
 h) 6/2002. (IX. 26.) ESZCSM rendelet
 
-## a hatályát veszti, azonban rendelkezéseit az e rendelet hatálybalépésekor működési engedéllyel vagy ideiglenes működési engedéllyel rendelkező egészségügyi szolgáltatók tekintetében – külön jogszabály eltérő rendelkezése hiányában – alkalmazni kell.
+a hatályát veszti, azonban rendelkezéseit az e rendelet hatálybalépésekor működési engedéllyel vagy ideiglenes működési engedéllyel rendelkező egészségügyi szolgáltatók tekintetében – külön jogszabály eltérő rendelkezése hiányában – alkalmazni kell.
 
 (4)[^52]
 

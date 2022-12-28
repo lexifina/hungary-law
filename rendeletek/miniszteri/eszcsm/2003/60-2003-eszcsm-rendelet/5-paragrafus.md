@@ -30,7 +30,7 @@ bi)[^29] a betegek otthonában a kórházi ellátást kiváltó szakápolási fe
 
 bj) a kizárólag egészségügyi szakdolgozó által nyújtott ellátást végző egészségügyi szolgáltató esetén az adott egészségügyi szakma vagy szakképesítés
 
-## elnevezés használatára jogosult;
+elnevezés használatára jogosult;
 
 c)[^30] a fekvőbeteg-szakellátás körében
 
@@ -44,7 +44,7 @@ cd)[^32] ha az egészségügyi szolgáltató a cc) alpont szerinti tevékenység
 
 ce)[^33] ha azt az orvostudományi vagy egészségtudományi képzést folytató egyetem részeként látja el, a klinika
 
-## elnevezés használatára jogosult;
+elnevezés használatára jogosult;
 
 d)[^34] amennyiben egy szakterületen legalább 5 napon keresztül napi 6 órában biztosítja a 4. § (1) bekezdése szerinti feltételeket – azzal, hogy csak a beteg nappali elhelyezésére szolgáló helyiség biztosítása szükséges –, a nappali kórház elnevezés használatára jogosult;
 

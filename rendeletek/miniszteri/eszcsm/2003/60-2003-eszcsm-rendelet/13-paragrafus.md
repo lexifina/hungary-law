@@ -4,7 +4,7 @@ a) azoknak a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatókn
 
 b) az a) pont alá nem tartozó, fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatóknak 2012. július 1-jéig
 
-## kell bejelenteniük.
+kell bejelenteniük.
 
 (2)[^56]
 

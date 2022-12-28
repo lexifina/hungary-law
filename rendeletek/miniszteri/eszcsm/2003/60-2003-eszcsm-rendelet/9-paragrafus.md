@@ -6,7 +6,7 @@ a) eseti szakellátása és a krónikus betegek folyamatos gondozása az által�
 
 b) speciális szaktudást, illetve eszközöket igénylő szakellátása a speciális járóbeteg-szakellátás
 
-## keretében történik.
+keretében történik.
 
 (3) A diagnosztikai szakellátás a 2. mellékletben szakmánként meghatározott progresszivitási szinteken történik.
 
