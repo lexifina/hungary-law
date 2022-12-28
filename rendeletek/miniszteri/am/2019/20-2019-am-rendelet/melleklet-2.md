@@ -1,5 +1,3 @@
-## A tárgyévben szárítmány-előállítás céljára felhasznált hőenergia-mennyiség kiszámításának képlete
-
 ## FHM= (h1×ÁF1) + (h2×ÁF2) + ... + (hn×ÁFn)
 
 ## ahol
@@ -11,3 +9,5 @@
 ## ÁF: adott elszámolási időszaki átlagos fűtőérték
 
 2. melléklet a 20/2019. (V. 27.) AM rendelethez
+
+A támogatható gyógynövények jegyzéke

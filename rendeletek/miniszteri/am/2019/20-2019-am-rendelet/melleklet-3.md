@@ -1,5 +1,3 @@
-## A támogatható gyógynövények jegyzéke
-
 |  | A | B |
 
 | 1. | Megnevezés magyarul | Megnevezés latinul |
@@ -33,3 +31,5 @@
 | 15. | Fekete nadálytőlevél | Symphyti folium |
 
 3. melléklet a 20/2019. (V. 27.) AM rendelethez
+
+A támogatható fűszernövények jegyzéke

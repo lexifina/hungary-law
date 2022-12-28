@@ -1,5 +1,3 @@
-## A támogatható fűszernövények jegyzéke
-
 |  | A | B |
 
 | 1. | Megnevezés magyarul | Megnevezés latinul |
