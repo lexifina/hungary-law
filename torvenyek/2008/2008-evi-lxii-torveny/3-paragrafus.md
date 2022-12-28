@@ -18,7 +18,7 @@ Bearing in mind that physical protection is of vital importance for the protecti
 
 Having in mind the purposes and principles of the Charter of the United Nations concerning the maintenance of international peace and security and the promotion of goodneighbourliness and friendly relations and co-operation among States,
 
-Considering that under the terms of paragraph 4 of Article 2 of the Charter of the United Nations, „All members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations,”
+Considering that under the terms of paragraph 4 of Article 2 of the Charter of the United Nations, „All members shall refrain in their international relations from the threat or use of force against the territorial integrity or political independence of any state, or in any other manner inconsistent with the Purposes of the United Nations,
 
 Recalling the Declaration on Measures to Eliminate International Terrorism, annexed to General Assembly resolution 49/60 of 9 December 1994,
 
@@ -358,7 +358,7 @@ c) meg kell tennie a nukleáris anyagok és nukleáris létesítmények fizikai 
 
 3. Az 1. és 2. pontban foglalt kötelezettségek megvalósításához minden egyes szerződő államnak, az Egyezmény más rendelkezéseinek sérelme nélkül, az ésszerűség és a gyakorlati megvalósíthatóság határain belül alkalmaznia kell a Nukleáris Anyagok és Nukleáris Létesítmények Fizikai Védelmének alábbi Alapelveit:
 
-„A” ALAPELV: Az állam felelőssége
+A” ALAPELV: Az állam felelőssége
 
 Egy államon belül teljes mértékben az illető állam felelős a fizikai védelmi rendszer létesítéséért, megvalósításáért és fenntartásáért.
 

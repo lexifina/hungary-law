@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-62-00-00
 | --- | --- | --- |
 | 2008-12-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2008-62-00-00.3 |
 | 2016-05-08 | Nemzeti Jogszabálytár (egységes szerkezet) | 2008-62-00-00.4 |
+| 2022-12-28 | 2022. évi LXXI. törvény | 2008-62-00-00.5 |

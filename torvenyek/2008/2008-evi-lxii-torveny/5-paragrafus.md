@@ -6,6 +6,6 @@
 
 (4) E törvény 4. §-a a kihirdetését követő második hónap első napján lép hatályba, és az azt követő napon hatályát veszti.
 
-(5) E törvény végrehajtásához szükséges intézkedésekről az Országos Atomenergia Hivatal felügyeletét ellátó miniszter gondoskodik.
+(5) Az e törvény végrehajtásához szükséges intézkedésekről a Kormány és az Országos Atomenergia Hivatal együttesen gondoskodik.
 
-(6) Felhatalmazást kap az Országos Atomenergia Hivatal felügyeletét ellátó miniszter, hogy az Egyezménynek az Egyezmény módosításával egységes szerkezetbe foglalt, hiteles angol nyelvű szövegét és annak magyar nyelvű hivatalos fordítását a Magyar Közlönyben közzétegye.
+(6)
