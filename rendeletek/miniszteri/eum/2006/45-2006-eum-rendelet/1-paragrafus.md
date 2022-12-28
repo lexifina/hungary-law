@@ -1,0 +1,3 @@
+1. §[^1] E rendelet alkalmazásában várólista protokoll az egészségügyi ellátásnak a várólista alapján nyújtható ellátások részletes szabályairól szóló 287/2006. (XII. 23.) Korm. rendelet (a továbbiakban: kormányrendelet) szerinti várólista, az intézményi előjegyzési lista (a továbbiakban: előjegyzési lista) vagy betegfogadási lista alapján történő igénybevételére vonatkozó – az egészségügyért felelős miniszter rendeletében közzétett – orvos-szakmai szabályok összessége.
+
+[^1]: Az 1. § a 11/2014. (II. 24.) EMMI rendelet 42. §-ával megállapított, az 52/2022. (XII. 27.) BM rendelet 12. §-a szerint módosított szöveg.

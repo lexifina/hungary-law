@@ -4,7 +4,7 @@ a) az ellátás javallatait és ellenjavallatait,
 
 b)[^8] a várólistára, előjegyzési listára és a betegfogadási listára való fel- és az arról való lekerülés egészségi állapotbeli feltételeit
 
-## az adott ellátásra vonatkozó várólista protokoll tartalmazza.
+az adott ellátásra vonatkozó várólista protokoll tartalmazza.
 
 (2) A várólista protokollt úgy kell kidolgozni, hogy abból egyértelműen megállapítható legyen az adott beteg
 
