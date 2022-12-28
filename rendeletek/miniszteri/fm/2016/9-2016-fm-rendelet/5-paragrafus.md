@@ -8,7 +8,7 @@ a)[^21] a növényegészségügyi megelőzés támogatása vonatkozásában kiz�
 
 b)[^22] a növényegészségügyi felszámolás támogatása vonatkozásában kizárólag a kifizetési kérelem benyújtásának időpontját megelőzően
 
-## a tárgyévben a gépi bérmunka-szolgáltatást végző által a szőlőtermelő vagy az igénylésre felhatalmazott termelői szerveződés nevére kiállított és pénzügyileg rendezett számlához kapcsolódóan a gépi bérmunka-szolgáltatást végző nevére kiállított, a gépi bérmunka-szolgáltatás keretében felhasznált növényvédőszer megvásárlását igazoló számla használható fel.
+a tárgyévben a gépi bérmunka-szolgáltatást végző által a szőlőtermelő vagy az igénylésre felhatalmazott termelői szerveződés nevére kiállított és pénzügyileg rendezett számlához kapcsolódóan a gépi bérmunka-szolgáltatást végző nevére kiállított, a gépi bérmunka-szolgáltatás keretében felhasznált növényvédőszer megvásárlását igazoló számla használható fel.
 
 (4)[^23] A (3) bekezdés szerinti, gépi bérmunka-szolgáltatást végző által kiállított számlán – a növényvédőszer költségének kivételével – a 7. § (2) és (3) bekezdésében foglalt számlaadatokat kell feltüntetni.
 

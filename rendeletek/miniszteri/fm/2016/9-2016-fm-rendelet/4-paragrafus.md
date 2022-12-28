@@ -36,7 +36,7 @@ a) a szőlőtermelőnek az (1) bekezdés c)–g) pontjában,
 
 b) az igénylésre felhatalmazott termelői szerveződésnek az (1) bekezdés d), e) és g) pontjában
 
-## foglalt feltételek teljesüléséről.
+foglalt feltételek teljesüléséről.
 
 (4) Támogatás nem nyújtható a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-ei 1308/2013/EU európai parlamenti és tanácsi rendeletben (a továbbiakban: 1308/2013/EU rendelet) megállapított valamely tiltás vagy korlátozás megszegésével, még akkor sem, ha az ilyen tiltások és korlátozások kizárólag az 1308/2013/EU rendeletben előírt uniós támogatásokra vonatkoznak.
 

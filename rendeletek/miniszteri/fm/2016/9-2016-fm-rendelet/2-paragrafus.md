@@ -6,7 +6,7 @@ a) növényegészségügyi megelőzés, illetve
 
 b) növényegészségügyi felszámolás
 
-## elvégzéséhez.
+elvégzéséhez.
 
 (2)[^8] Az (1) bekezdés alkalmazásában, ha a szőlőtermelő vagy a termelői szerveződésben tagsággal rendelkező szőlőtermelő támogatás igénylésére irányuló felhatalmazásával nem szőlőtermelőként támogatást igénylő termelői szerveződés (a továbbiakban: igénylésre felhatalmazott termelői szerveződés) az általános forgalmi adóról szóló törvény (a továbbiakban: ÁFA törvény) értelmében
 
@@ -14,7 +14,7 @@ a) általános forgalmi adó (a továbbiakban: ÁFA) levonására jogosult, akko
 
 b) ÁFA levonására nem jogosult, akkor a bruttó vételár
 
-## kerül figyelembevételre.
+kerül figyelembevételre.
 
 (3) A (2) bekezdésben foglaltak alapul vételével a szőlőtermelő által tárgyévben igénybe vehető támogatás összege
 

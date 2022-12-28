@@ -1,5 +1,3 @@
-## Támogatás összege és mértéke körülhatárolt területen található szőlőültetvényen elvégzett növényegészségügyi felszámolás esetén
-
 | A | B | C | D |
 
 | Hasznosítás kódja | Szőlőültetvény hasznosítása | Támogatás összege (Ft/ha) | Támogatás mértéke (%) |

@@ -6,7 +6,7 @@ a) a növényvédelmi hatóság határozatának keltezése előtti időszakban e
 
 b)[^37] a növényvédelmi hatóság határozatának keltezése és a kifizetési kérelem benyújtásának időpontja közötti időszakban elvégzett növényegészségügyi felszámolás alapján a növényegészségügyi felszámolás
 
-## támogatásáról szóló döntés hozható meg.
+támogatásáról szóló döntés hozható meg.
 
 (3)[^38] Ha a támogatás igénylésére felhatalmazott termelői szerveződés és az érintett termelői szerveződésben tagsággal rendelkező szőlőtermelő is benyújt kifizetési kérelmet, akkor ugyanazon szőlőültetvény vonatkozásában a szőlőtermelő által benyújtott kifizetési kérelem elutasításra kerül.
 

@@ -1,5 +1,3 @@
-## Támogatás összege és mértéke nem körülhatárolt területen található szőlőültetvényen elvégzett növényegészségügyi megelőzés esetén
-
 | A | B | C | D |
 
 | Hasznosítás kódja | Szőlőültetvény hasznosítása | Támogatás összege (Ft/ha) | Támogatás mértéke (%) |
@@ -17,5 +15,7 @@
 | 6. | Szőlőoltvány-iskolában nevelt és szőlőültetvény létesítésére alkalmas ültetési anyag | legfeljebb 12 000 forint |
 
 1b. melléklet a 9/2016. (II. 15.) FM rendelethez[^44]
+
+Támogatás összege és mértéke körülhatárolt területen található szőlőültetvényen elvégzett növényegészségügyi felszámolás esetén
 
 [^44]: Az 1b. melléklet a 35/2018. (XII. 6.) AM rendelet 27. § (2) bekezdésével megállapított, a 42/2020. (VIII. 19.) AM rendelet 14. § b) pontja szerint módosított szöveg.
