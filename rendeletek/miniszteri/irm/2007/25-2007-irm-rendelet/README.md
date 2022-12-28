@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-25-20-1
 | 2020-06-01 | 2007-25-20-1U.22 | 8/2020. (IV. 8.) BM rendelet |
 | 2021-08-01 | 2007-25-20-1U.23 | 23/2021. (VII. 29.) BM rendelet |
 | 2022-01-01 | 2007-25-20-1U.24 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2022-12-28 | 2007-25-20-1U.25 | 46/2021. (XII. 22.) BM rendelet |

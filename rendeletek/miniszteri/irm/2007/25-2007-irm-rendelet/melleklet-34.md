@@ -170,4 +170,4 @@
 
 34. melléklet a 25/2007. (V. 31.) IRM rendelethez[^92]
 
-[^92]: A 34. mellékletet a 69/2013. (XII. 11.) BM rendelet 3. § e) pontja iktatta be, szövege a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés r) pontjával megállapított, az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése, a 27/2019. (VI. 28.) BM rendelet 5. § e) pontja szerint módosított szöveg.
+[^92]: A 34. mellékletet a 69/2013. (XII. 11.) BM rendelet 3. § e) pontja iktatta be, szövege a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés r) pontjával megállapított, az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése, a 27/2019. (VI. 28.) BM rendelet 5. § e) pontja, az 52/2022. (XII. 27.) BM rendelet 13. § b) pontja szerint módosított szöveg.
