@@ -1,7 +1,3 @@
 ## 5. A fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény módosítása
 
-19. § A fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény (a továbbiakban: Fttv.) 4. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A kereskedelmi gyakorlat megítélése során az olyan fogyasztó magatartását kell alapul venni, aki észszerűen tájékozottan, az adott helyzetben általában elvárható figyelmességgel és körültekintéssel jár el, figyelembe véve az adott kereskedelmi gyakorlat, illetve termék nyelvi, kulturális és szociális – különösen családi kapcsolatokkal összefüggő – vonatkozásait is. Ha a kereskedelmi gyakorlat a fogyasztók egy meghatározott csoportjára irányul, az adott csoport tagjaira általánosan jellemző magatartást kell figyelembe venni.
-
-(2) Ha a kereskedelmi gyakorlat csak a fogyasztóknak egy, az adott gyakorlat vagy az annak alapjául szolgáló termék vonatkozásában koruk, hiszékenységük, szellemi vagy fizikai fogyatkozásuk miatt különösen kiszolgáltatott, egyértelműen azonosítható csoportja magatartásának torzítására alkalmas, és ez a kereskedelmi gyakorlat megvalósítója által észszerűen előre látható, a gyakorlatot az érintett csoport tagjaira általánosan jellemző magatartás szempontjából kell értékelni. Ha a kereskedelmi kommunikáció a családi kapcsolatot, a családi közösséget hangsúlyosan megjeleníti, e bekezdés alkalmazása szempontjából egyértelműen azonosítható csoportnak tekinthető az ilyen kereskedelmi kommunikációval megszólított családtagok köre.”
+### 19. §
