@@ -1,3 +1,3 @@
-## 4. §[^10]
+5. §[^11]
 
-[^10]: A 4. §-t a 38/2008. (X. 3.) EüM rendelet 7. § (3) bekezdésének b) pontja hatályon kívül helyezte.
+[^11]: Az 5. §-t a 25/2010. (V. 12) EüM rendelet 3. § (2) bekezdés b) pontja hatályon kívül helyezte.

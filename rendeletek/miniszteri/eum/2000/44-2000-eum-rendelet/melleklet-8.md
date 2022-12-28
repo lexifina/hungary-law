@@ -1,8 +1,8 @@
-8. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^54]
+8. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^59]
 
-## A veszélyes anyagok magyarországi jegyzéke egyes tételeinek adattartalma
+A veszélyes anyagok magyarországi jegyzéke egyes tételeinek adattartalma
 
-1.[^55] Azonosítási jel
+1.[^60] Azonosítási jel
 
 2. Anyag kémiai megnevezése
 
@@ -14,5 +14,5 @@
 
 6. Az 1272/2008/EK európai parlamenti és tanácsi rendelet szerinti óvintézkedésre utaló P mondat (mondatok) száma (számai)
 
-[^54]: A 8. számú melléklet a 25/2010. (V. 12.) EüM rendelet 1. § (10) bekezdésével megállapított szöveg.
-[^55]: A 8. számú melléklet 1. pontja a 23/2015. (IV. 28.) EMMI rendelet 29. § b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^59]: A 8. számú melléklet a 25/2010. (V. 12.) EüM rendelet 1. § (10) bekezdésével megállapított szöveg.
+[^60]: A 8. számú melléklet 1. pontja a 23/2015. (IV. 28.) EMMI rendelet 29. § b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 17. § (2) bekezdés c) pontja szerint módosított szöveg.

@@ -46,7 +46,7 @@ i)[^20] az a)–h) pont hatálya alá nem tartozó esetekben, bármely kérelmez
 
 (10)[^30] A mérgezési esetbejelentések teljesítését a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) ellenőrzi.
 
-(11) A heveny mérgezési esetek magas szintű, egységes és szakszerű ellátásának biztosítására az egészségügyi miniszter által kijelölt egészségügyi szolgáltatóknál diagnosztikai és terápiás információs egységet kell szervezni. A kijelölt egészségügyi szolgáltató és az ETTSZ között biztosítani kell a folyamatos, azonnali információ-adás lehetőségét.
+(11)[^31] A heveny mérgezési esetek magas szintű, egységes és szakszerű ellátásának biztosítására az egészségügyért felelős miniszter által kijelölt egészségügyi szolgáltatóknál diagnosztikai és terápiás információs egységet kell szervezni. A kijelölt egészségügyi szolgáltató és az ETTSZ között biztosítani kell a folyamatos, azonnali információ-adás lehetőségét.
 
 [^13]: A 7. § a 26/2007. (VI. 7.) EüM rendelet 1. §-ával megállapított, valamint a 38/2008. (X. 3.) EüM rendelet 7. § (4) bekezdésének d) pontja, a 25/2010. (V. 12.) EüM rendelet 2. § b) pontja szerint módosított szöveg.
 [^14]: A 8. § (1) bekezdése a 25/2010. (V. 12.) EüM rendelet 1. § (7) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 17. § (1) bekezdés d) pontja szerint módosított szöveg.
@@ -66,3 +66,4 @@ i)[^20] az a)–h) pont hatálya alá nem tartozó esetekben, bármely kérelmez
 [^28]: A 8. § (8a) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 39. § (2) bekezdése iktatta be.
 [^29]: A 8. § (9) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 17. § (1) bekezdés g) pontja szerint módosított szöveg.
 [^30]: A 8. § (10) bekezdése a 28/2017. (X. 25.) EMMI rendelet 16. §-ával megállapított szöveg.
+[^31]: A 8. § (11) bekezdése az 52/2022. (XII. 27.) BM rendelet 6. §-a szerint módosított szöveg.
