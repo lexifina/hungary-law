@@ -1,4 +1,4 @@
-## 45. §[^188] A pedagógiai szakszolgálati intézményben az intézményvezetői pályázattal összefüggésben a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet (a továbbiakban: EMMI rendelet) 189–191. §-aiban foglaltakat kell alkalmazni az alábbi eltérésekkel:
+## 45. §[^189] A pedagógiai szakszolgálati intézményben az intézményvezetői pályázattal összefüggésben a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló 20/2012. (VIII. 31.) EMMI rendelet (a továbbiakban: EMMI rendelet) 189–191. §-aiban foglaltakat kell alkalmazni az alábbi eltérésekkel:
 
 a) a nevelőtestület alatt a szakalkalmazotti értekezlet kell érteni,
 
@@ -8,4 +8,4 @@ c) a szakalkalmazotti értekezlet és az alkalmazotti közösség véleményét 
 
 d) a részértekezletek az intézmény vezetésére vonatkozó program és a szakmai helyzetelemzésre épülő fejlesztési elképzelések támogatásáról vagy elutasításáról szóló, titkos szavazással kialakított véleménye csak valamennyi részértekezlet lebonyolítása után összesíthető és hozható nyilvánosságra.
 
-[^188]: A 45. § a 8/2014. (I. 30.) EMMI rendelet 25. §-ával megállapított szöveg.
+[^189]: A 45. § a 8/2014. (I. 30.) EMMI rendelet 25. §-ával megállapított szöveg.

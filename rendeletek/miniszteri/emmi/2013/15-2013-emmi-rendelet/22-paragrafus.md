@@ -4,6 +4,6 @@
 
 (3) Ha a gyermek, tanuló enyhe értelmi fogyatékos, illetve egyéb pszichés fejlődési zavarral küzd, a szakértői véleményt az első hivatalból történő felülvizsgálat után addig a tanévig, amelyben a tanuló a tíz éves életkort betölti minden második, azt követően és egyéb fogyatékosság, valamint autizmus spektrum zavar esetében, illetve ha a tanuló beilleszkedési, tanulási, magatartási nehézséggel küzd, addig a tanévig, amelyben a tanuló a tizenhatodik életévét betölti, minden harmadik tanévben hivatalból felül kell vizsgálni.
 
-(4)[^106] Amennyiben a szakértői vélemény elkészítésére a 4. § (2a) bekezdésében meghatározottak szerint került sor, a szakértői vélemény első hivatalból történő felülvizsgálatát a 12. § (2) bekezdés a) pontja alapján kell elvégezni a végrehajtás megkezdését követő első tanév során. A szakértői véleményt az első hivatalból történő felülvizsgálat után addig, amíg a gyermek korai fejlesztés és gondozásban részesül, minden második tanévben hivatalból felül kell vizsgálni.
+(4)[^107] Amennyiben a szakértői vélemény elkészítésére a 4. § (2a) bekezdésében meghatározottak szerint került sor, a szakértői vélemény első hivatalból történő felülvizsgálatát a 12. § (2) bekezdés a) pontja alapján kell elvégezni a végrehajtás megkezdését követő első tanév során. A szakértői véleményt az első hivatalból történő felülvizsgálat után addig, amíg a gyermek korai fejlesztés és gondozásban részesül, minden második tanévben hivatalból felül kell vizsgálni.
 
-[^106]: A 22. § (4) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 37. §-a iktatta be.
+[^107]: A 22. § (4) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 37. §-a iktatta be.

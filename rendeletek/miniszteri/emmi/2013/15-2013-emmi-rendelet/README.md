@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-15-20-5
 | 2020-09-01 | 2013-15-20-5H.14 | 14/2020. (IV. 16.) EMMI rendelet |
 | 2021-09-01 | 2013-15-20-5H.15 | 37/2021. (VIII. 31.) EMMI rendelet |
 | 2022-01-01 | 2013-15-20-5H.16 | 37/2021. (VIII. 31.) EMMI rendelet |
+| 2022-12-28 | 2013-15-20-5H.18 | 52/2022. (XII. 27.) BM rendelet |
