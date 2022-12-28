@@ -1,5 +1,3 @@
-## történik, az NSZI erről értesíti a felnőttképzési államigazgatási szervet, amely az Fktv. 20. §-ában meghatározottak szerint ellenőrzést folytathat, és jogkövetkezményt alkalmazhat.
-
 ## 3. A záróvizsga
 
 5. § (1) A képzésben részt vevő személy a képzés végén záróvizsgát tesz.
@@ -12,7 +10,7 @@ b) gyakorlati vagy
 
 c) írásbeli
 
-## vizsgafeladatokból áll.
+vizsgafeladatokból áll.
 
 (3) A képző a záróvizsgát a képzés utolsó napját követő 60 napon belül köteles megszervezni. A záróvizsga időpontjáról a képző legalább 30 nappal korábban írásban tájékoztatja a képzésben részt vevő személyt.
 

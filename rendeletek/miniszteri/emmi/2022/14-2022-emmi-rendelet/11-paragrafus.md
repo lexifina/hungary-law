@@ -1,5 +1,3 @@
-## vizsgázónként.
-
 ## 5. A záróvizsga dokumentumai
 
 11. § (1) A záróvizsga dokumentumai a jegyzőkönyv és a tanúsítvány.

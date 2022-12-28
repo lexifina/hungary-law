@@ -11,3 +11,5 @@ c) tárgyi feltételekkel,
 d) tematika oktatásával vagy
 
 e) képesítésű oktató, tréner, tereptanár részvételével
+
+történik, az NSZI erről értesíti a felnőttképzési államigazgatási szervet, amely az Fktv. 20. §-ában meghatározottak szerint ellenőrzést folytathat, és jogkövetkezményt alkalmazhat.

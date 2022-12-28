@@ -8,7 +8,7 @@ b) megfelelt vagy
 
 c) nem felelt meg
 
-## minősítéssel értékeli.
+minősítéssel értékeli.
 
 (2) A vizsgázó záróvizsgája sikertelen, ha bármelyik (írásbeli, gyakorlati, szóbeli) vizsgafeladat „nem felelt meg” minősítéssel zárul. Sikertelen vizsga esetén a vizsgázó javítóvizsgát tehet.
 

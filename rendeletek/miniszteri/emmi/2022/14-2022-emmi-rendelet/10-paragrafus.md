@@ -9,3 +9,5 @@ a) az elnök esetében 2 százaléka,
 b) a vizsgabizottság tagja esetében 1,5 százaléka,
 
 c) a jegyzőkönyvvezető esetében 1,3 százaléka
+
+vizsgázónként.
