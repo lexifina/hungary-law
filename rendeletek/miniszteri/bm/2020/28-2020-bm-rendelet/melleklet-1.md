@@ -2,7 +2,7 @@
 
 1. melléklet a 28/2020. (VII. 17.) BM rendelethez
 
-## Szakmai követelmények és képzési témakörök
+Szakmai követelmények és képzési témakörök
 
 I. Feladatprofil
 
