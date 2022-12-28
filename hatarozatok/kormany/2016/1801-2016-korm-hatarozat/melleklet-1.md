@@ -1,4 +1,4 @@
-## 1. egyetért az 1. melléklet szerinti sportinfrastruktúra-fejlesztési és egyéb fejlesztési beruházások megvalósításával, ezért az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § hatálya alá tartozó támogatást nyújt az 1. mellékletben meghatározott célokra, az 1. mellékletben nevesített kedvezményezettek részére, az ott meghatározott összegben;
+## 1.[^1] egyetért az 1. melléklet szerinti sportinfrastruktúra-fejlesztési és egyéb fejlesztési beruházások megvalósításával, valamint műkődési célú kiadások finanszírozásával, ezért az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a hatálya alá tartozó támogatást nyújt az 1. mellékletben meghatározott célokra, az 1. mellékletben nevesített kedvezményezettek részére, az ott meghatározott összegben;
 
 ## 2. felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy a fejlesztésekhez szükséges költségvetési forrásokat a 2016. évben biztosítsák;
 
@@ -18,7 +18,7 @@
 
 ## Határidő: 2016. december 30.
 
-1. melléklet az 1801/2016. (XII. 20.) Korm. határozathoz[^1]
+1. melléklet az 1801/2016. (XII. 20.) Korm. határozathoz[^2]
 
 | A fejlesztés megnevezése | A támogatás célja | A támogatás összege (millió Ft) | Kedvezményezett |
 
@@ -82,6 +82,7 @@
 
 | Vasas létesítményfejlesztési programjának többlettámogatása | az Illovszky Stadion rekonstrukciós többletmunkálatainak támogatása, valamint az egyéb vagyonkezelésben lévő ingatlanok rekonstrukciójának támogatása | 5 400 | Vasas Sport Club |
 
-| Népliget rekonstrukciója | Fradiváros I. ütem | 10 000 | Ferencvárosi Torna Club |
+| Népliget rekonstrukciója és a Ferencvárosi Torna Club működésének támogatása | Fradiváros I. ütem és műkődési célú kiadások | 10 000 | Ferencvárosi Torna Club |
 
-[^1]: Az 1. melléklet az 1251/2017. (V. 5.) Korm. határozat 9. pontja, az 1278/2017. (VI. 2.) Korm. határozat 7. pontja, az 1313/2017. (VI. 8.) Korm. határozat 8. pontja, a 2014/2017. (XII. 22.) Korm. határozat 8. pontja, az 1189/2019. (IV. 5.) Korm. határozat 10. pontja, az 1832/2020. (XI. 20.) Korm. határozat 8. pontja, az 1053/2022. (II. 10.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1684/2022. (XII. 28.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 1. melléklet az 1251/2017. (V. 5.) Korm. határozat 9. pontja, az 1278/2017. (VI. 2.) Korm. határozat 7. pontja, az 1313/2017. (VI. 8.) Korm. határozat 8. pontja, a 2014/2017. (XII. 22.) Korm. határozat 8. pontja, az 1189/2019. (IV. 5.) Korm. határozat 10. pontja, az 1832/2020. (XI. 20.) Korm. határozat 8. pontja, az 1053/2022. (II. 10.) Korm. határozat 3. pontja, az 1684/2022. (XII. 28.) Korm. határozat 2. pontja szerint módosított szöveg.
