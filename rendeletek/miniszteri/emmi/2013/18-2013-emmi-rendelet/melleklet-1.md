@@ -1,6 +1,4 @@
-## 13–14. §[^19]
-
-1. melléklet a 18/2013. (III. 5.) EMMI rendelethez[^20]
+1. melléklet a 18/2013. (III. 5.) EMMI rendelethez[^21]
 
 Az egészségügyi szakmai irányelv szerkezeti felépítése
 
@@ -62,5 +60,4 @@ Az egészségügyi szakmai irányelv szerkezeti felépítése
 
 |  | 1. Alkalmazást segítő dokumentumok |
 
-[^19]: A 13–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: Az 1. melléklet a 31/2016. (X. 12.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^21]: Az 1. melléklet a 31/2016. (X. 12.) EMMI rendelet 3. §-ával megállapított szöveg.
