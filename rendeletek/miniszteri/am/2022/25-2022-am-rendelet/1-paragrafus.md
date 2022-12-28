@@ -30,4 +30,6 @@ c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 12. vadgazdálkodás: a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 40. §-a szerinti tevékenység;
 
-13. válságtámogatás: az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, 2022. március 23-i 2022/C 131 I/01 számú európai bizottsági közlemény (a továbbiakban: közlemény) 2.1. szakasza szerint nyújtott támogatás.
+13.[^1] válságtámogatás: az állami támogatásokra vonatkozó, az Ukrajna elleni orosz invázióval összefüggésben a gazdaság támogatását célzó ideiglenes válságkeret című, 2022. október 28-i 2022/C 426/01 számú európai bizottsági közlemény (a továbbiakban: közlemény) 2.1. szakasza szerint nyújtott támogatás.
+
+[^1]: Az 1. § 13. pontja a 161/2022. (XII. 27.) AM rendelet 4. § a) pontja szerint módosított szöveg.
