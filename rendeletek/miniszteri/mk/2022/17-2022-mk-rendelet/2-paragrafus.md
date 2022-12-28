@@ -18,7 +18,9 @@
 
 7. 21. sora alapján az Állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID-19-járvánnyal összefüggésben való támogatása céljából című, 2020. március 19-i 2020/C 91 I/01 számú európai bizottsági közlemény (a továbbiakban: átmeneti közlemény) 3.13. szakasza szerinti fenntartható helyreállításra irányuló beruházási támogatás;
 
-8. 21. sora alapján az Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából című, 2022. március 24-i 2022/C 131 I/01 számú európai bizottsági közlemény (a továbbiakban: válságközlemény) 2.1. szakasza szerinti válságtámogatás;
+8. [^1] 4–16., 19., 21., 23–24. és 27–28. sora alapján az SA.103089 (2022/N) számú, valamint az azt módosító európai bizottsági határozatokban foglaltakkal összhangban „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz invázióval összefüggésben a gazdaság támogatását célzó ideiglenes válságkeret” című, 2022/C 426/01 számú európai bizottsági közlemény (a továbbiakban: válságközlemény) 2.1. szakasza szerinti válságtámogatás;
+
+8a. [^2] 23. sora alapján a 651/2014/EU bizottsági rendelet 56a. cikke szerinti regionális repülőterekre irányuló támogatás;
 
 9. 24. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezéshez nyújtott támogatás
 
@@ -64,7 +66,7 @@
 
 19. 4. sora alapján a 360/2012/EU bizottsági rendelet szerinti csekély összegű közszolgáltatási támogatás;
 
-20. 4. és 6. sora alapján – a G:6 mező alapján kifizetésben részesülő végső kedvezményezettek részére – a válságközlemény 2.1. szakasza szerinti válságtámogatás;
+20. [^3] 4–6. sora alapján – a G:6 mező alapján kifizetésben részesülő végső kedvezményezettek részére – az SA.103089 (2022/N) számú, valamint az azt módosító európai bizottsági határozatokban foglaltakkal összhangban a válságközlemény 2.1. szakasza szerinti válságtámogatás;
 
 21. 6. sora alapján – a G:6 mező alapján kifizetésben részesülő végső kedvezményezettek részére – a 702/2014/EU bizottsági rendelet 14. cikke szerinti elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás;
 
@@ -73,3 +75,7 @@
 ## nyújtható.
 
 (4) A miniszter felelősségi körébe tartozó feladatok ellátásához szükséges fordítási tevékenységet az Országos Fordító és Fordításhitelesítő Iroda Zártkörűen Működő Részvénytársaság végzi.
+
+[^1]: A 2. § (2) bekezdés 8. pontja a 20/2022. (XII. 27.) MK rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (2) bekezdés 8a. pontját a 20/2022. (XII. 27.) MK rendelet 2. §-a iktatta be.
+[^3]: A 2. § (3) bekezdés 20. pontja a 20/2022. (XII. 27.) MK rendelet 3. §-ával megállapított szöveg.
