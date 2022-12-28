@@ -8,7 +8,7 @@
 
 a) telephelyének vizsgálatához és értékeléséhez, telephely jellemzőinek és alkalmasságának megállapításához,
 
-b) létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, üzemen kívül helyezéséhez, megszüntetéséhez
+b) létesítéséhez, bővítéséhez, üzembe helyezéséhez, üzemeltetéséhez, tervezett üzemidején túli üzemeltetéséhez, tervezett üzemidőn túli üzemeltetést követő további üzemeltetéséhez, üzemen kívül helyezéséhez, megszüntetéséhez
 
 szükséges nukleáris biztonsági engedélyezés;
 
@@ -120,6 +120,6 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (9) A nukleáris létesítménnyel, valamint annak építményeivel összefüggő valamennyi, az engedélyezési eljárásban felmerült adat nyilvánosságra hozatalát az eljáró hatóság megtagadhatja, amennyiben az adat nyilvánosságra hozatala nemzetbiztonsági vagy honvédelmi érdeket, a közbiztonságot, Magyarország külügyi tevékenységét, külügyi kapcsolatait, nemzetközi szervezetekkel való kapcsolatait sérti vagy veszélyezteti, szellemi tulajdonhoz való jogot sért, vagy ha az adat nyilvánosságra hozatala a hatásterületet érintően a környezet védelmi szintjének csökkenésével járna. A nyilvánosságra hozatal megtagadható továbbá abban az esetben is, ha az bírósági, illetve más hatósági eljárás lefolytatását veszélyezteti, kivéve, ha az eljáró bíróság, hatóság engedélyezi az adat nyilvánosságra hozatalát.
 
-(10) Üzleti titok megismerésére az engedélyesen és az eljáró bíróságon, hatóságon, illetve adatmegismerésre jogosult egyéb hatóságon kívül más nem jogosult.
+(10) Üzleti titok megismerésére az engedélyesen és az eljáró bíróságon, hatóságon, szakhatóságon, adatmegismerésre jogosult egyéb hatóságon, továbbá a nukleáris létesítmények és radioaktívhulladék-tárolók biztonsági övezetén belül folytatott engedélyköteles tevékenység esetén az érintett nukleáris létesítmények és radioaktívhulladék-tárolók engedélyesén kívül más nem jogosult.
 
 (11) Üzleti titoknak minősül e törvény alkalmazásában minden olyan, az engedélyezési eljárásban felmerült adat, tény, információ, amelynek nyilvánosságra hozatala az engedélyes jogos érdekét – így különösen pénzügyi, gazdasági vagy piaci érdekét – sértené vagy veszélyeztetné, így különösen az engedélyezési eljárással érintett know-how, szellemi alkotás, találmány, illetve szabadalom körébe tartozó jog sérelmét okozná.

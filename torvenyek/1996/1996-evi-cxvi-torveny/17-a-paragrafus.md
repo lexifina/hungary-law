@@ -22,7 +22,7 @@ f) az atomkárért való felelősséggel
 
 összefüggésben;
 
-5. előkészíti a 4. pont a) és b) alpontjához kapcsolódó nemzetközi kötelezettség alapján teljesítendő nemzeti jelentéseket;
+5. előkészíti a 4. pont a) és b) alpontjához kapcsolódó nemzetközi kötelezettség alapján teljesítendő nemzeti jelentéseket és gondoskodik a jelentéstételi kötelezettség teljesítéséről a Nemzetközi Atomenergia Ügynökséghez;
 
 6. előkészíti a 2009/71/Euratom tanácsi irányelv végrehajtásáról szóló jelentést;
 

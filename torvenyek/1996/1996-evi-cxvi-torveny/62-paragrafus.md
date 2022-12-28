@@ -16,9 +16,11 @@ b) engedélyezi, hogy a 40. § (1) bekezdése szerint kijelölt szerv megkösse 
 
 c) nyilvántartja és kezeli a 40. § (1) bekezdése szerint kijelölt szerv által kötött szerződéseket,
 
-d) előkészíti és a miniszter elé terjeszti a Központi Nukleáris Pénzügyi Alap költségvetési előirányzatát érintő előirányzat-módosítást, továbbá
+d) előkészíti és a miniszter elé terjeszti a Központi Nukleáris Pénzügyi Alap költségvetési előirányzatát érintő előirányzat-módosítást,
 
-e) megvizsgálja, és egyetértése esetén a (6) bekezdés szerinti testület előzetes állásfoglalásával együtt jóváhagyásra a miniszter elé terjeszti a Központi Nukleáris Pénzügyi Alapból finanszírozandó tevékenységek közép- és hosszú távú terveit, és ezek részeként a befizetési kötelezettségekre vonatkozó javaslatokat, továbbá az éves munkaprogramokat és beszámolókat.
+e) megvizsgálja, és egyetértése esetén a (6) bekezdés szerinti testület előzetes állásfoglalásával együtt jóváhagyásra a miniszter elé terjeszti a Központi Nukleáris Pénzügyi Alapból finanszírozandó tevékenységek közép- és hosszú távú terveit, és ezek részeként a befizetési kötelezettségekre vonatkozó javaslatokat, továbbá az éves munkaprogramokat és beszámolókat, továbbá
+
+f) a Központi Nukleáris Pénzügyi Alap Szakbizottság előzetes állásfoglalásával együtt a miniszter elé terjeszti a társulások számára a 10/A. § (2) bekezdése szerint adható támogatás felhasználási költségtervét jóváhagyásra.
 
 (5) A (4) bekezdés e) pontja szerinti dokumentumok miniszterhez való felterjesztéséhez csatolni kell az atomenergia-felügyeleti szerv előzetes szakmai értékelését is.
 

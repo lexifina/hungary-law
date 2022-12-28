@@ -20,7 +20,7 @@ h) a 20. § (1) bekezdése szerinti feladatokat ellátó szervnek az atomenergia
 
 i) a 15. §-ban meghatározott bírság mértékét, a bírság kiszabásának szempontjait;
 
-j) a 34. § szerinti biztonsági övezettel kapcsolatos előírásokat;
+j) a 34. § szerinti biztonsági övezettel és a kutatási védőidommal kapcsolatos előírásokat;
 
 k) a hiányzó, a talált, valamint a lefoglalt nukleáris és más radioaktív anyagokkal kapcsolatos bejelentések és intézkedések, továbbá a nukleáris vagy más radioaktív anyagokkal kapcsolatos egyéb bejelentést követő intézkedések részletes szabályait;
 
@@ -30,7 +30,7 @@ m) az országos sugárzási helyzet és radioaktív anyagkoncentrációk ellenő
 
 n)
 
-o) a 10/A. § alapján létrejött társulások számára a Központi Nukleáris Pénzügyi Alapból nyújtható támogatás felosztásának módjára, folyósítására, a támogatási szerződés tartalmára, a társulások tájékoztatási és ellenőrzési célú tevékenységére, a tároló engedélyesének ezt elősegítő kötelezettségeire, valamint a kiégett üzemanyag támogatás szempontjából való minősítésére vonatkozó szabályokat;
+o) a 10/A. § alapján létrejött társulások számára a Központi Nukleáris Pénzügyi Alapból nyújtható támogatás felosztásának módjára, a támogatás lehívására, folyósítására és elszámolására vonatkozó szabályokat, a támogatási szerződés tartalmára, a társulások tájékoztatási és ellenőrzési célú tevékenységére, a tároló engedélyesének ezt elősegítő kötelezettségeire, valamint a kiégett üzemanyag támogatás szempontjából való minősítésére vonatkozó szabályokat;
 
 p) a radioaktív hulladékok és a kiégett üzemanyagok országhatáron át történő szállításának engedélyezését és az engedélyezéshez való hozzájárulást;
 

@@ -25,3 +25,5 @@ a) a nukleáris létesítmények nukleáris biztonságát, a nukleáris biztons�
 b) a radioaktívhulladék-tároló biztonsági követelményeinek teljesülését, a kockázat mértékét, az üzemeltetési engedély hatályba lépését követően a teljes üzemidő alatt
 
 Időszakos Biztonsági Felülvizsgálat keretében – figyelembe véve az üzemi tapasztalatokat és a biztonsággal kapcsolatos új ismereteket – rendszeres időközönként teljes körűen elemeznie, értékelnie kell.
+
+(4) A nukleáris létesítmény és a radioaktívhulladék-tároló felügyeletének ellátásához az atomenergia-felügyeleti szerv közvetlen és folyamatos táv-adatszolgáltatást is igénybe vehet.

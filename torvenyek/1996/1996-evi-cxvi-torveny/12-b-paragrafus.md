@@ -52,11 +52,7 @@ i) a hivatalból indított eljárásban.
 
 a) százötven nap a 17. § (2) bekezdés 3. pontja szerinti építési engedélyezési eljárások közül a konténment engedélyezési eljárásban,
 
-b) negyvenkét nap
-
-ba) a nukleáris biztonság szempontjából sajátos olyan építmények esetében, amelyek a nukleáris létesítmény vagy a radioaktív hulladéktároló létesítéséhez szükségesek, de nincs szerepük a létesítmény üzemeltetésében,
-
-bb) azon építmények esetében, amelyek vagy amelyeknek egyes részei a biztonsági övezethez tartoznak, de nincs szerepük a létesítmény üzemeltetésében, valamint
+b) negyvenkét nap a nukleáris biztonság szempontjából sajátos olyan építmények esetében, amelyek a nukleáris létesítmény vagy a radioaktívhulladék-tároló létesítéséhez szükségesek, de nincs szerepük a létesítmény üzemeltetésében,
 
 c) hatvan nap az a) és b) pont kivételével a 17. § (2) bekezdés 3. pontjában meghatározott egyéb hatósági engedélyezési eljárásokban,
 

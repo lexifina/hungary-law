@@ -4,7 +4,7 @@ a) a tárolónak helyt adó település vagy települések, és az azzal terüle
 
 b) a tároló létesítését szolgáló engedélyezett telephely-kiválasztási helyszíni kutatófúrások által érintett települések lakosságát a törvényben előírt tájékoztatási kötelezettségének ott meghatározott módon történő ellátása mellett az ellenőrzési és információs célú önkormányzati társulások (a továbbiakban: társulás) útján is rendszeresen tájékoztathatja.
 
-(2) A társulásoknak a tárolóhoz vagy a tervezett tárolóhoz kötötten a Központi Nukleáris Pénzügyi Alapból támogatás adható. Támogatás tárolónként, vagy tervezett tárolónként csak egy ellenőrzési és információs célú önkormányzati társulásnak adható. A támogatás tájékoztatási, ellenőrzési, működési és településfejlesztési célokra használható fel.
+(2) A társulásoknak a tárolóhoz vagy a tervezett tárolóhoz kötötten a Központi Nukleáris Pénzügyi Alapból támogatás adható. Támogatás tárolónként, vagy tervezett tárolónként csak egy társulásnak adható. A támogatás tájékoztatási, ellenőrzési, működési és településfejlesztési célokra használható fel. A felhalmozási és működési célú támogatás elszámolásának részletszabályait a Központi Nukleáris Pénzügyi Alapból az ellenőrzési és információs célú önkormányzati társulásoknak nyújtott támogatások szabályairól szóló kormányrendelet határozza meg.
 
 (3) A társulás a helyi önkormányzatokról szóló törvényben meghatározott szabályok szerint jön létre. A (2) bekezdés szerinti támogatás a társulásnak csak akkor adható, ha:
 
@@ -18,4 +18,4 @@ c) a társulás a tag helyi önkormányzatok önként vállalt tájékoztatási 
 
 (5) A telephely-kiválasztási kutatásokat szolgáló felszín alatti kutatólaboratórium létesítésének megkezdésekor a társulás csak akkor részesülhet támogatásban, ha az (1) bekezdés a) pontjában, valamint a (3) bekezdés a) és c) pontjában meghatározott feltételeknek megfelel.
 
-(6) A támogatás esedékes részösszegének lehívását a társulásoknak nyújtott támogatásokról szóló jogszabályban meghatározott feltételek teljesülése esetén a tároló engedélyese kezdeményezi. A lehívás alapján a Központi Nukleáris Pénzügyi Alap kezelője a támogatás részösszegét közvetlenül a társulásnak utalja át.
+(6) A támogatási összeg lehívását a Központi Nukleáris Pénzügyi Alapból az ellenőrzési és információs célú önkormányzati társulásoknak nyújtott támogatások szabályairól szóló kormányrendeletben meghatározott feltételek teljesülése esetén a támogatással érintett társulás kezdeményezi. A lehívás alapján a Központi Nukleáris Pénzügyi Alap kezelője a támogatás összegét a társulásnak utalja át.
