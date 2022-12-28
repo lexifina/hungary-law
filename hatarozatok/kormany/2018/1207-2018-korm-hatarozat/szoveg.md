@@ -48,14 +48,9 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2018. október 31.
 
-8. felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gondoskodjon az 5. pontban meghatározott ingatlan adásvétel útján – forgalmi értéken, de legfeljebb 304 800 000 forint összegen – történő állami tulajdonba kerüléséről;
+8.[^1]
 
-Felelős: nemzeti fejlesztési miniszter
+9.[^2]
 
-Határidő: a forrás rendelkezésre állását követően azonnal
-
-9. felhívja a nemzetgazdasági minisztert, hogy a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az állami vagyonnal kapcsolatos kiadások cím, 1. Ingatlanokkal és ingóságokkal kapcsolatos kiadások, 1. Ingatlan-beruházások, ingatlanvásárlás jogcímcsoport, 1. Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai jogcím javára gondoskodjon a 8. pontban rögzített ingatlan adásvételhez szükséges többletforrás biztosításáról.
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: a felmerülés ütemében
+[^1]: A 8. pontot az 1686/2022. (XII. 28.) Korm. határozat 4. pontja visszavonta.
+[^2]: A 9. pontot az 1686/2022. (XII. 28.) Korm. határozat 4. pontja visszavonta.
