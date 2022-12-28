@@ -4,7 +4,7 @@ a) 110 kg alatti sertés esetén legalább 0,715 m2,
 
 b) 110 kg feletti sertés esetén legalább 1,1 m2
 
-## nagyságú férőhelyet jelent állategyedenként, és rendelkezik az istállók méretére vonatkozó alaprajzzal, vagy az állattartó telep fekvése szerint illetékes általános építésügyi hatóság által kiadott, az istállóméretre vonatkozó hatósági bizonyítvánnyal.
+nagyságú férőhelyet jelent állategyedenként, és rendelkezik az istállók méretére vonatkozó alaprajzzal, vagy az állattartó telep fekvése szerint illetékes általános építésügyi hatóság által kiadott, az istállóméretre vonatkozó hatósági bizonyítvánnyal.
 
 (2) Támogatás kizárólag istállóban tartott sertések esetében nyújtható.
 
@@ -18,7 +18,7 @@ b) az istálló méretére vonatkozó alaprajz vagy
 
 c) az állattartó telep fekvése szerint illetékes általános építésügyi hatóságnak az istálló méretére vonatkozó hatósági bizonyítványa
 
-## alapján vizsgálja.
+alapján vizsgálja.
 
 (5) A kifizetési kérelemhez csatolni kell
 

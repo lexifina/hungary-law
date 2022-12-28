@@ -12,7 +12,7 @@ d) az almozás,
 
 e) a megfelelő mikroklíma
 
-## biztosítására.
+biztosítására.
 
 (2)[^2] E rendelet alapján támogatás adott támogatási évre vonatkozóan legfeljebb 7 milliárd forint összegig állapítható meg.
 

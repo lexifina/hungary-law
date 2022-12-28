@@ -7,3 +7,5 @@ a) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vi
 b) az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló, 2014–2020 időszakra vonatkozó európai uniós iránymutatás I. és III. részének, illetve II. részének az állatjóléti kötelezettségvállalások teljesítéséhez nyújtott támogatásról szóló 1.1.5.2 alfejezete;
 
 c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.

@@ -14,7 +14,7 @@ cb) bérhizlalóként vagy bérnevelőként,
 
 cc) bérhízlaltatóként vagy bérneveltetőként
 
-## történő meghatározását;
+történő meghatározását;
 
 d) a tartási hely azonosítót vagy azonosítókat;
 
