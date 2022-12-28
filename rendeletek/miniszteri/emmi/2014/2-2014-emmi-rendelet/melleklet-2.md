@@ -1,28 +1,26 @@
-## Az egységes egészségügyi ágazati humánerőforrás-monitoringrendszer adattartalmához kapcsolódó adatszolgáltatók és az adatszolgáltatás gyakorisága
-
 |  | A | B | C |
 
 | 1. | Adatkör | Adatszolgáltató | Gyakoriság |
 
-| 2. | Az Eütv. 114. § (2) bekezdés a) pontja szerinti adatok | ÁEEK | folyamatos, a változást követően haladéktalanul |
+| 2. | Az Eütv. 114. § (2) bekezdés a) pontja szerinti adatok | OKFŐ | folyamatos, a változást követően haladéktalanul |
 
-| 3. | Az Eütv. 114. § (2) bekezdés b) pontja szerinti adatok | ÁEEK | havonta |
+| 3. | Az Eütv. 114. § (2) bekezdés b) pontja szerinti adatok | OKFŐ | havonta |
 
-| 4. | Az Eütv. 114. § (2) bekezdés c) pontja szerinti adatok | ÁEEK | havonta |
+| 4. | Az Eütv. 114. § (2) bekezdés c) pontja szerinti adatok | OKFŐ | havonta |
 
 | 5. | Az Eütv. 114. § (2) bekezdés d) pontja szerinti adatok | Oktatási Hivatal | félévente |
 
-| 6. | Az Eütv. 114. § (2) bekezdés e) pontja szerinti adatok | ÁEEK | havonta |
+| 6. | Az Eütv. 114. § (2) bekezdés e) pontja szerinti adatok | OKFŐ | havonta |
 
 | 7. | Az Eütv. 114. § (2) bekezdés f) pontja szerinti adatok | egyetemek | félévente |
 
 | 8. | Az Eütv. 114. § (2) bekezdés g) pontja szerinti adatok | egyetemek | félévente |
 
-| 9. | Az Eütv. 114. § (2) bekezdés h) pontja szerinti adatok közül az egészségügyi szakdolgozók továbbképzéseire vonatkozó adatok | ÁEEK | havonta |
+| 9. | Az Eütv. 114. § (2) bekezdés h) pontja szerinti adatok közül az egészségügyi szakdolgozók továbbképzéseire vonatkozó adatok | OKFŐ | havonta |
 
 | 10. | Az Eütv. 114. § (2) bekezdés h) pontja szerinti adatok közül az orvosok, fogorvosok és gyógyszerészek továbbképzéseire vonatkozó adatok | egyetemek | havonta |
 
-| 11. | Az Eütv. 114. § (2) bekezdés i) pontja szerinti adatok | ÁEEK | negyedévente |
+| 11. | Az Eütv. 114. § (2) bekezdés i) pontja szerinti adatok | OKFŐ | negyedévente |
 
 | 12. | Az Eütv. 114. § (2) bekezdés j) pontja szerinti adatok | Nemzeti Foglalkoztatási Szolgálat | havonta |
 
@@ -30,7 +28,7 @@
 
 | 14. | Az Eütv. 114. § (2) bekezdés k) pontja szerinti adatok | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | negyedévente |
 
-| 15. | Az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítésekhez kapcsolódó bér- és létszám-statisztikai adatok | ÁEEK | évente |
+| 15. | Az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítésekhez kapcsolódó bér- és létszám-statisztikai adatok | OKFŐ | évente |
 
 | 16. | Az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítésekhez kapcsolódó egészségügyi állás- és létszámkimutatásra vonatkozó adatok | Központi Statisztikai Hivatal | évente |
 
@@ -44,7 +42,7 @@
 
 2. melléklet a 2/2014. (I. 16.) EMMI rendelethez
 
-## Az éves beszámoló kötelező tartalma
+Az éves beszámoló kötelező tartalma
 
 1. Tartalomjegyzék
 
