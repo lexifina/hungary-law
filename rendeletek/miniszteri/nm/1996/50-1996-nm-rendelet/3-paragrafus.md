@@ -12,7 +12,7 @@ d) az elmulasztott díjfizetés pótlására vonatkozó felhívásra az Itv. 73/
 
 e) a mulasztási bírságra az Itv. 82. §-ában foglaltakat
 
-## kell megfelelően alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
+kell megfelelően alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.
 
 (3)[^14]
 

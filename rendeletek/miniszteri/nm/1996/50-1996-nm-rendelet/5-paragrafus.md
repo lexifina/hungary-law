@@ -10,6 +10,8 @@ a) az orvostechnikai eszközökről, a 2001/83/EK irányelv, a 178/2002/EK rende
 
 b) az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 rendelet 104. cikkének
 
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
 [^22]: A 4. §-t a 14/2004. (III. 4.) ESZCSM rendelet 3. §-a ikatta a szövegbe.
 [^23]: Az 5. §-t a 35/2021. (VIII. 16.) EMMI rendelet 1. §-a iktatta be.
 [^24]: A hatálybalépés időpontja 2021. augusztus 17.

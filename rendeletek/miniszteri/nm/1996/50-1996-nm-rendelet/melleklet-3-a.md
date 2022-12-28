@@ -2,7 +2,7 @@
 
 | 1. | Intézmény | Számlaszám |
 
-| 2. | Emberi Erőforrások Minisztériuma | 10032000-01425190-00000000 |
+| 2. | Belügyminisztérium | 10032000-01483305 |
 
 | 3. | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | 10032000-00290050-00000000 |
 

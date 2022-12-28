@@ -1,3 +1,5 @@
+## 2X03224M_0
+
 | I. | Kábítószerekkel és pszichotróp anyagokkal, illetve új pszichoaktív anyagokkal kapcsolatos igazgatási szolgáltatások |  |
 
 | I.1. | Gyógyászati tevékenységi engedély első kiadása, felújítása | 300 000 Ft |
