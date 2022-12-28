@@ -1,6 +1,6 @@
 2. § Az egyezmény hivatalos magyar és angol nyelvű szövege a következő:
 
-,,
+„,,
 
 Közös egyezmény
 
@@ -1424,4 +1424,4 @@ The original of this Convention of which the Arabic, Chinese, English, French, R
 
 In witness whereof the undersigned, being duly authorized to that effect, have signed this convention.
 
-Done at Vienna on the fifth day of September, one thousand nine hundred and ninety-seven.''
+Done at Vienna on the fifth day of September, one thousand nine hundred and ninety-seven.''”
