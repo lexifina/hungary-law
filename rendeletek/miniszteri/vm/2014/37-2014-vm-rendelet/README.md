@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-37-20-2
 | 2020-08-20 | 2014-37-20-2Y.12 | 41/2020. (VIII. 19.) AM rendelet |
 | 2021-04-15 | 2014-37-20-2Y.13 | 18/2021. (IV. 14.) AM rendelet |
 | 2022-07-18 | 2014-37-20-2Y.14 | 18/2022. (VII. 13.) AM rendelet |
+| 2022-12-28 | 2014-37-20-2Y.15 | 35/2018. (XII. 6.) AM rendelet |
