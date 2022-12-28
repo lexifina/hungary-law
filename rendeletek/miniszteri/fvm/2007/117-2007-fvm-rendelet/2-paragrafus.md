@@ -12,6 +12,8 @@ b) a gyümölcs szaporítóanyagok előállításáról és forgalomba hozatalá
 
 c) a szőlő szaporítóanyagok előállításáról, minősítéséről és forgalomba hozataláról szóló 87/2006. (XII. 28.) FVM rendelet 8. számú melléklete alapján meghatározott
 
+növényegészségügyi vizsgálatokhoz [a továbbiakban az a)–c) pontok együtt: támogatott növényegészségügyi szolgáltatás].
+
 [^1]: Az 1. § a 42/2020. (VIII. 19.) AM rendelet 4. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdése a 6/2015. (III. 10.) FM rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § (2) bekezdése a 42/2020. (VIII. 19.) AM rendelet 1. §-ával megállapított szöveg.
