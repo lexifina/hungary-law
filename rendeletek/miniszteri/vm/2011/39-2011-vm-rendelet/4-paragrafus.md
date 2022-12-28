@@ -26,11 +26,11 @@ f)[^48] a 2. § (8d) bekezdésében foglalt támogatások igénybevételének jo
 
 g)[^49] a 2. § (8e) bekezdése szerinti kamattámogatás igénybevétele esetén a hitelkérelméhez kapcsolódóan csatolja
 
-ga) a földművelésügyi igazgatási hatáskörben eljáró megyei kormányhivatalnak az aszálykárra vonatkozó igazolását vagy
+ga)[^50] a földművelésügyi igazgatási hatáskörben eljáró megyei kormányhivatalnak a 2022. évi aszálykárra vonatkozó igazolását vagy
 
 gb) az igénylőlap benyújtását megelőző fél évnél nem régebbi kiállítási dátumú, a TIR-ben elérhető, 1350 számú Tenyészet Igazoló Lap másolati példányát, és nyilatkozik arról, hogy a kérelem benyújtásakor az azon szereplő adatok a valóságnak megfelelnek.
 
-(2)[^50] Az (1) bekezdés e) és g) pontjában foglalt feltétel fennállásának ellenőrzését a KAVOSZ Zrt. végzi. A támogatás halmozódása a Törvény szerinti jogosulatlanul igénybe vett támogatásra vonatkozó szankciók alkalmazását vonja maga után.
+(2)[^51] Az (1) bekezdés e) és g) pontjában foglalt feltétel fennállásának ellenőrzését a KAVOSZ Zrt. végzi. A támogatás halmozódása a Törvény szerinti jogosulatlanul igénybe vett támogatásra vonatkozó szankciók alkalmazását vonja maga után.
 
 [^42]: A 3. § a 6/2017. (II. 13.) FM rendelet 13. §-ával megállapított, a 37/2018. (XII. 10.) AM rendelet 10. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^43]: A 4. § (1) bekezdés nyitó szövegrésze a 77/2015. (XII. 1.) FM rendelet 13. § (10) bekezdés b) pontja szerint módosított szöveg.
@@ -40,4 +40,5 @@ gb) az igénylőlap benyújtását megelőző fél évnél nem régebbi kiállí
 [^47]: A 4. § (1) bekezdés e) pontja a 49/2021. (XII. 28.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^48]: A 4. § (1) bekezdés f) pontja a 49/2021. (XII. 28.) AM rendelet 3. § (2) bekezdése iktatta be.
 [^49]: A 4. § (1) bekezdés g) pontját a 34/2022. (X. 28.) AM rendelet 2. §-a iktatta be.
-[^50]: A 4. § (2) bekezdése a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése, a 34/2022. (X. 28.) AM rendelet 5. § d) pontja szerint módosított szöveg.
+[^50]: A 4. § (1) bekezdés g) pont ga) alpontja a 161/2022. (XII. 27.) AM rendelet 2. § b) pont ba) alpontja szerint módosított szöveg.
+[^51]: A 4. § (2) bekezdése a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése, a 34/2022. (X. 28.) AM rendelet 5. § d) pontja szerint módosított szöveg.
