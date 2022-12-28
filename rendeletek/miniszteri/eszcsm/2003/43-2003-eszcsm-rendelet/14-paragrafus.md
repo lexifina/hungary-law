@@ -2,6 +2,6 @@
 
 14. § (1) Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
 
-(2)–(5)[^19]
+(2)–(5)[^20]
 
-[^19]: A 14. § (2)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 78. pontja hatályon kívül helyezte.
+[^20]: A 14. § (2)–(5) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 78. pontja hatályon kívül helyezte.

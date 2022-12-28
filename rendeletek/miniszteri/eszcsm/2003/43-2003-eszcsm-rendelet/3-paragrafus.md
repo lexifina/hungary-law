@@ -14,7 +14,7 @@ c) az 5. § (3) bekezdésében foglalt belső szabályzatokban, valamint
 
 d) más jogszabályok által előírt belső szabályzatokban [a továbbiakban a)–d) pont alattiak együtt: intézeti szabályzatok]
 
-## kell meghatározni.
+kell meghatározni.
 
 (4) Az egyházi gyógyintézetek működési rendjét a jogszabályok keretei között a fenntartó egyház szabályai határozzák meg.
 

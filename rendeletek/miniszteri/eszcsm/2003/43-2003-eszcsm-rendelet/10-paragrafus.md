@@ -52,6 +52,6 @@ h) a szervezeti és működési szabályzatában meghatározott további feladat
 
 (5) A szervezeti és működési szabályzatban további vezetőhelyettesi munkakörök is kialakíthatóak.
 
-(6)[^10] Az orvosigazgató, az ápolási igazgató, valamint az (5) bekezdés alapján megbízott vezetőhelyettes feladatainak ellátásával valamely szakmai osztály vezetője – az (1) bekezdés b) pontjában meghatározott esetben valamely szakrendelés vezetője – is megbízható.
+(6)[^11] Az orvosigazgató, az ápolási igazgató, valamint az (5) bekezdés alapján megbízott vezetőhelyettes feladatainak ellátásával valamely szakmai osztály vezetője – az (1) bekezdés b) pontjában meghatározott esetben valamely szakrendelés vezetője – is megbízható.
 
-[^10]: A 10. § (6) bekezdése a 60/2003. (X. 20.) ESZCSM rendelet 13. § b) pontjával megállapított szöveg.
+[^11]: A 10. § (6) bekezdése a 60/2003. (X. 20.) ESZCSM rendelet 13. § b) pontjával megállapított szöveg.
