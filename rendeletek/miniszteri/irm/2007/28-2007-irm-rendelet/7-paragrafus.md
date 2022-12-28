@@ -14,5 +14,7 @@ e) a mulasztási bírságra az Itv. 82. §-ában foglaltakat,
 
 f) a behajtásra az Itv. 88. §-át
 
+kell alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon e jogszabály tekintetében igazgatási szolgáltatási díjat kell érteni.
+
 [^16]: A 6. § a 38/2017. (XII. 27.) BM rendelet 11. §-ával megállapított szöveg.
 [^17]: A 7. § c) pontja a 49/2021. (XII. 22.) BM rendelet 2. §-ával megállapított szöveg.

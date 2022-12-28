@@ -16,7 +16,7 @@ e) a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízu
 
 f)[^7] a nemzeti letelepedési engedély kiadására és külön jogszabályban meghatározott esetben a nemzeti letelepedési engedély meghosszabbítására irányuló eljárás díját,
 
-## ha a kérelmet a konzuli tisztviselőnél terjesztik elő.
+ha a kérelmet a konzuli tisztviselőnél terjesztik elő.
 
 (4) A bejelentési kötelezettségek teljesítése díjmentes.
 

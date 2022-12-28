@@ -1,6 +1,6 @@
 2. melléklet a 28/2007. (V. 31.) IRM rendelethez[^25]
 
-## Az egyes eljárások díja
+Az egyes eljárások díja
 
 I. Vízumdíjak
 
