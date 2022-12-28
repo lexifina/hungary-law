@@ -1,5 +1,3 @@
-## 26. §
-
 ## 7. A szaktanácsadói névjegyzék
 
 27. § (1)[^37] A szaktanácsadói névjegyzékre az kérheti felvételét, aki a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 6. mellékletében meghatározott feltételeknek megfelel, pedagógus szakvizsgával rendelkezik és
@@ -8,7 +6,7 @@ a) köznevelési intézményben pedagógus-munkakörben legalább tízéves szak
 
 b) a nemzetiségi nevelés-oktatásban pedagógus munkakörben legalább ötéves szakmai gyakorlatot, továbbá bármilyen köznevelési intézményben további ötéves szakmai gyakorlatot
 
-## szerzett.
+szerzett.
 
 (2)[^38]
 

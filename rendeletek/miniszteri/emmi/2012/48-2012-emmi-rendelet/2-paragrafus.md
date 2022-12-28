@@ -2,7 +2,7 @@
 
 (2)[^11]
 
-(3)[^12] A pedagógiai-szakmai szolgáltatások országosan egységes pedagógiai szakmai irányítását a Hivatal közreműködésével az oktatásért felelős miniszter (a továbbiakban: miniszter) látja el.
+(3)[^12] A pedagógiai-szakmai szolgáltatások országosan egységes pedagógiai szakmai irányítását a Hivatal közreműködésével a köznevelésért felelős miniszter (a továbbiakban: miniszter) látja el.
 
 (4)[^13] Az országos pedagógiai-szakmai szolgáltatásokat, az e rendeletben meghatározottak szerint a Hivatal látja el.
 
@@ -14,7 +14,7 @@
 
 [^10]: A 2. § (1) bekezdése a 26/2015. (V. 22.) EMMI rendelet 3. §-ával megállapított szöveg.
 [^11]: A 2. § (2) bekezdését a 26/2015. (V. 22.) EMMI rendelet 17. § d) pontja hatályon kívül helyezte.
-[^12]: A 2. § (3) bekezdése a 26/2015. (V. 22.) EMMI rendelet 4. §-ával megállapított, a 45/2016. (XII. 28.) EMMI rendelet 4. § a) pontja, a 31/2020. (VIII. 31.) EMMI rendelet 24. § a) pontja szerint módosított szöveg.
+[^12]: A 2. § (3) bekezdése a 26/2015. (V. 22.) EMMI rendelet 4. §-ával megállapított, a 45/2016. (XII. 28.) EMMI rendelet 4. § a) pontja, a 31/2020. (VIII. 31.) EMMI rendelet 24. § a) pontja, az 52/2022. (XII. 27.) BM rendelet 26. §-a szerint módosított szöveg.
 [^13]: A 2. § (4) bekezdése a 26/2015. (V. 22.) EMMI rendelet 16. § b) pontja, a 31/2020. (VIII. 31.) EMMI rendelet 25. § b) pont ba) alpontja szerint módosított szöveg.
 [^14]: A 2. § (4a) bekezdését a 26/2015. (V. 22.) EMMI rendelet 5. §-a iktatta be.
 [^15]: A 2. § (5) bekezdése a 26/2015. (V. 22.) EMMI rendelet 6. §-ával megállapított, a 45/2016. (XII. 28.) EMMI rendelet 4. § b)–c) pontja, a 46/2016. (XII. 28.) EMMI rendelet 2. §-a, a 31/2020. (VIII. 31.) EMMI rendelet 25. § b) pont bb) alpontja szerint módosított szöveg.
