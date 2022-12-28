@@ -1,15 +1,13 @@
-## lép.
-
 42. § Hatályát veszti a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény
 
-a) 4. § (1) bekezdése,
+a)
 
-b) 4. § (3) bekezdés e) pontja,
+b)
 
 c)
 
-d) 23. § (2) bekezdés c) pontja,
+d)
 
-e) 23. § (2) bekezdés f) pontja,
+e)
 
-f) 24/C. § a) pontja.
+f)

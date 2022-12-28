@@ -2,4 +2,4 @@
 
 a)
 
-b) 13. § r) pontjában a „kód” szövegrész.
+b)

@@ -1,3 +1,1 @@
-25. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 11. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A (2) és (3) bekezdésben meghatározott esetben a dohánytermékek értékesítési helyén az 1. § (1) bekezdés b)–h) pontjában felsorolt termékek kiskereskedelme is folytatható, továbbá a (2) bekezdésben meghatározott esetben a Hatóság elnökének a kizárólag dohányboltban forgalmazható termékeken kívül dohányboltban forgalmazható termékekről és nyújtható szolgáltatásokról szóló rendelete szerinti termékek is forgalmazhatóak és szolgáltatások is nyújthatóak.”
+### 25. §
