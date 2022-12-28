@@ -16,7 +16,7 @@ f) szakmai e-learning és szakmai blended-learning esetén az ismeretek számonk
 
 g) szakmai terepgyakorlati továbbképzés esetén a számonkérésről készült jegyzőkönyvet
 
-## tartalmazza.
+tartalmazza.
 
 (3)[^52] A továbbképzés szervezője – az (1)–(2) bekezdésben meghatározottakon túl – minden megszervezett továbbképzés esetében elektronikusan nyilvántartja a továbbképzésről kiadott és sorszámmal ellátott igazolásokat.
 

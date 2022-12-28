@@ -6,7 +6,7 @@
 
 (1c)[^35] A továbbképzési programok minősítését és pontértékeinek meghatározását a Testület az Ügyrendjében és e rendeletben meghatározottak szerint végzi. Az egyházi módszertani kijelöléssel rendelkező egyház, illetve képző intézménye a szociális továbbképzési programjába beépíti a vallási, világnézeti elkötelezettségének megfelelő ismereteket. A minősített továbbképzési programok pontértékét a vallási, világnézeti elkötelezettségnek megfelelő ismeretek jellegétől és mennyiségétől függetlenül kell megállapítani, a képzés e része tekintetében a Testület az eljárásában csak azt vizsgálja, hogy biztosítottak-e a képzés tárgyi feltételei.
 
-(2)[^36] A minősített kötelező és a minősített munkakörhöz kötött továbbképzési programok – ideértve a felülvizsgálat eredményeként módosított továbbképzési programokat – meghirdetését és közzétételét a szociál- és nyugdíjpolitikáért felelős miniszter, valamint a gyermekek és az ifjúság védelméért felelős miniszter hagyja jóvá.
+(2)[^36] A minősített kötelező és a minősített munkakörhöz kötött továbbképzési programok – ideértve a felülvizsgálat eredményeként módosított továbbképzési programokat – meghirdetését és közzétételét a szociális szolgáltatások tekintetében a szociálpolitikáért felelős miniszter, a gyermekek napközbeni ellátása és a területi gyermekvédelmi szakszolgáltatás örökbefogadással összefüggő feladatai tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter, egyéb gyermekjóléti és gyermekvédelmi szolgáltató tevékenység esetén a gyermekek és az ifjúság védelméért felelős miniszter hagyja jóvá.
 
 (2a)[^37] A Testület a pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló kormányrendelet alapján pedagógus-továbbképzésként akkreditált, továbbá az egészségügyi szakdolgozók továbbképzésének szabályairól szóló miniszteri rendelet alapján egészségügyi továbbképzésként nyilvántartásba vett továbbképzések esetén egyszerűsített minősítést végez, melynek során a program továbbképzési pontértékét határozza meg.
 
@@ -22,7 +22,7 @@ d) szakmai blended-learning és
 
 e) szakmai terepgyakorlati továbbképzés
 
-## esetén.
+esetén.
 
 (3a)[^39] A minősítés egy évre érvényes
 
@@ -32,7 +32,7 @@ b) külföldi vagy hazai tanulmányút és
 
 c) szakmai műhely
 
-## esetén.
+esetén.
 
 (4)[^40] A továbbképzési program minősítése a program benyújtásával egyidejűleg kérhető. A minősítési kérelmet elektronikusan, az NSZI honlapján és a Szociális Ágazati Portálon közzétett formátumban kell a Testület részére benyújtani.
 
@@ -58,7 +58,7 @@ b) a megszervezésre került szakmai e-learningről a 3. számú melléklet szer
 
 c) a megszervezésre nem került továbbképzési programról a 4. számú melléklet szerinti adattartalommal a tárgyévet követő év február 28-áig
 
-## elektronikusan beszámol, illetve elektronikusan bejelentést tesz az NSZI részére.
+elektronikusan beszámol, illetve elektronikusan bejelentést tesz az NSZI részére.
 
 (9)[^48]
 
@@ -68,7 +68,7 @@ c) a megszervezésre nem került továbbképzési programról a 4. számú mell�
 [^33]: A 4. § (1a) bekezdését a 41/2012. (XI. 28.) EMMI rendelet 4. § (2) bekezdése iktatta be, szövege a 2/2021. (I. 18.) EMMI rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^34]: A 4. § (1b) bekezdését a 7/2018. (II. 5.) EMMI rendelet 30. §-a iktatta be, szövege a 2/2021. (I. 18.) EMMI rendelet 8. § (1) bekezdésével megállapított, a 36/2021. (VIII. 26.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
 [^35]: A 4. § (1c) bekezdését a 2/2021. (I. 18.) EMMI rendelet 8. § (2) bekezdése iktatta be.
-[^36]: A 4. § (2) bekezdése a 2/2021. (I. 18.) EMMI rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^36]: A 4. § (2) bekezdése a 2/2021. (I. 18.) EMMI rendelet 8. § (3) bekezdésével megállapított, az 52/2022. (XII. 27.) BM rendelet 5. § a) pontja szerint módosított szöveg.
 [^37]: A 4. § (2a) bekezdését a 7/2018. (II. 5.) EMMI rendelet 31. §-a iktatta be, szövege a 2/2021. (I. 18.) EMMI rendelet 16. § b) pontja szerint módosított szöveg.
 [^38]: A 4. § (3) bekezdését újonnan a 25/2017. (X. 18.) EMMI rendelet 23. § (7) bekezdése iktatta be.
 [^39]: A 4. § (3a) bekezdését a 25/2017. (X. 18.) EMMI rendelet 23. § (7) bekezdése iktatta be, szövege a 2/2021. (I. 18.) EMMI rendelet 16. § c) pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@ b) a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézm�
 
 c) a javítóintézetek rendtartásáról szóló 1/2015. (I. 14.) EMMI rendelet
 
-## alapján;
+alapján;
 
 3. személyes gondoskodást végző személy: az a személy, aki
 

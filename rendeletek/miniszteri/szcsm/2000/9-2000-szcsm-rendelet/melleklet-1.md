@@ -1,4 +1,4 @@
-1. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^92]
+1. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^101]
 
 Sorszám: ............/............
 
@@ -46,4 +46,4 @@ P. H.
 
 a továbbképzés szervezőjének cégszerű aláírása
 
-[^92]: Az 1. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésével megállapított, a 25/2017. (X. 18.) EMMI rendelet 23. § (16) bekezdése szerint módosított szöveg.
+[^101]: Az 1. számú melléklet a 12/2006. (XII. 27.) SZMM rendelet 11. § (1) bekezdésével megállapított, a 25/2017. (X. 18.) EMMI rendelet 23. § (16) bekezdése szerint módosított szöveg.

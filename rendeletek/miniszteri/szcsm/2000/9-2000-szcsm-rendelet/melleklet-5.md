@@ -28,6 +28,6 @@
 
 ## a továbbképzés szervezőjének cégszerű aláírása
 
-5. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^101]
+5. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^110]
 
-[^101]: Az 5. számú mellékletet a 25/2017. (X. 18.) EMMI rendelet 25. § g) pontja hatályon kívül helyezte.
+[^110]: Az 5. számú mellékletet a 25/2017. (X. 18.) EMMI rendelet 25. § g) pontja hatályon kívül helyezte.

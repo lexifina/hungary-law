@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-9-20-85
 | 2022-01-01 | 2000-9-20-85.28 | 7/2018. (II. 5.) EMMI rendelet |
 | 2022-03-29 | 2000-9-20-85.29 | 2/2021. (I. 18.) EMMI rendelet |
 | 2022-07-16 | 2000-9-20-85.30 | 25/2020. (VII. 30.) EMMI rendelet |
+| 2022-12-28 | 2000-9-20-85.32 | 52/2022. (XII. 27.) BM rendelet |

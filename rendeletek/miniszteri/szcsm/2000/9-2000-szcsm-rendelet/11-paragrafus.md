@@ -1,3 +1,3 @@
-## 10. §[^60]
+11. §[^65]
 
-[^60]: A 10. §-t a 24/2010. (XII. 30.) NEFMI rendelet 6. § (3) bekezdése hatályon kívül helyezte.
+[^65]: A 11. §-t a 2/2021. (I. 18.) EMMI rendelet 17. §-a hatályon kívül helyezte.
