@@ -1,13 +1,23 @@
-## 6a.[^8] Átmeneti támogatás
+## 6a.[^8] Válságtámogatás
 
-6/A. § (1) A kérelmező 2020. február 1. és február 28. között benyújtott támogatási kérelmére jóváhagyott támogatás a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatásnak (a továbbiakban: átmeneti támogatás) minősül.
+6/A. § (1) A kérelmező állattartó – a 2. § (1) bekezdésében foglaltaktól eltérően – a 2023. február 1. és 28. között benyújtott támogatási kérelme alapján kizárólag az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatás (a továbbiakban: válságtámogatás) igénybevételére jogosult, amely az elektronikus űrlapkitöltő felületen keresztül nyújtható be a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
-(2) Az átmeneti támogatásra a 2–6. §-ban foglaltakat az ezen alcímben megállapított eltérésekkel kell alkalmazni.
+(2) A válságtámogatás iránti kérelem vonatkozásában nem kell alkalmazni a 2. § (5) bekezdésében, a 4. § (1) bekezdés d) pont dc) alpontjában és e) pontjában foglaltakat.
 
-(3) A Kincstár az átmeneti támogatás tekintetében a 20/2020. (VI. 19.) AM rendelet 2. § (2) bekezdése szerinti támogatási feltétel teljesülését a rendelkezésére álló adatok, nyilatkozatok alapján vizsgálja, illetve a 20/2020. (VI. 19.) AM rendelet 3. § (4) bekezdésében foglalt nyilatkozattartalmaknak való megfelelést a 37/2011. (III. 22.) Korm. rendelet 11/A. § (2) bekezdése alapján tett nyilatkozatok és átmeneti támogatást nyújtó, más szervhez intézett megkeresés útján ellenőrzi.
+(3) Az (1) bekezdés szerinti válságtámogatás igénybevételére az az állattartó jogosult, aki a válságtámogatás iránti kérelem benyújtásával egyidejűleg nyilatkozik
 
-(4) Nem minősül átmeneti támogatásnak a kérelmezőnek az (1) bekezdés szerinti időszakban benyújtott támogatási kérelmére megállapított támogatási összeg, ha az átmeneti támogatás összege meghaladja a kérelmezőnek a 20/2020. (VI. 19.) AM rendelet 3. § (1) bekezdés a) pontjában meghatározott szabad átmeneti támogatási keretét.
+a) a 25/2022. (VIII. 31.) AM rendelet hatálya alá nem tartozó támogatási program vagy egyedi támogatás alapján általa a 25/2022. (VIII. 31.) AM rendelet 1. § 7. pontja szerinti vállalkozásnak (a továbbiakban: kapcsolt vállalkozás) minősülő vállalkozások által korábban már igénybe vett egyéb válságtámogatás összegéről euróban kifejezve,
 
-(5) A kérelmező átmeneti támogatásként legfeljebb az (1) bekezdésben meghatározott időszakban – a mezőgazdasági csekély összegű támogatás iránt – benyújtott kérelmére meghozott elsőfokú támogatási döntésben megállapított támogatási összegre jogosult.
+b) arról, hogy a vállalkozása kapcsolt vállalkozásnak minősül-e,
 
-[^8]: A 6a. alcímet (6/A. §) a 41/2020. (VIII. 19.) AM rendelet 23. §-a iktatta be.
+c) a kapcsolt vállalkozások nevéről, adóazonosító számáról és ügyfél-azonosítójáról, valamint
+
+d) arról, hogy a gazdasági nehézsége összefüggésben áll az Oroszország és Ukrajna közötti konfliktussal.
+
+(4) Az állattartó (1) bekezdés alapján benyújtott válságtámogatás iránti kérelme – az 5. § (3) bekezdésében foglaltaktól eltérően – tartalmazza
+
+a) az állattartó azonosító adatait (név, ügyfél-azonosító) és
+
+b) a (3) bekezdésben foglalt nyilatkozatokat.
+
+[^8]: A 6a. alcím (6/A-6/B. §-t) a 158/2022. (XII. 27.) AM rendelet 19. §-ával megállapított szöveg.
