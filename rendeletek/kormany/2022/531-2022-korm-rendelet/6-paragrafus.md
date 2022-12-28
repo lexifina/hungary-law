@@ -1,3 +1,3 @@
-6. § Az R2. 10. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+6. §[^6]
 
-(A vámhatóság a nem megfelelő vagy okmányhiányos importtermék esetén, telefaxon vagy elektronikus levélben haladéktalanul értesíti a feladat- és hatáskörrel rendelkező piacfelügyeleti hatóságot, így különösen:)
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

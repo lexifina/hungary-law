@@ -1,3 +1,3 @@
-## „w) a békéltető testülethez fordulás lehetőségéről, a békéltető testület nevéről és székhelyének postai címéről.”
+10. §[^10]
 
-10. § Az R3. 3. melléklete az 1. melléklet szerint módosul.
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

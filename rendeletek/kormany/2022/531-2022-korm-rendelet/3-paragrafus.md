@@ -1,5 +1,5 @@
 ## 2. Az egyes javító-karbantartó szolgáltatásokra vonatkozó kötelező jótállásról szóló 249/2004. (VIII. 27.) Korm. rendelet módosítása
 
-3. § Az egyes javító-karbantartó szolgáltatásokra vonatkozó kötelező jótállásról szóló 249/2004. (VIII. 27.) Korm. rendelet 4. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+3. §[^3]
 
-(A vállalkozás a fogyasztó jótállási igényéről jegyzőkönyvet köteles felvenni, amelyben rögzíti:)
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
