@@ -1,5 +1,3 @@
-## A gyógyszertörzs adatállományának leírása
-
 ## 1.1 VERZIOK Tábla
 
 | Név | Leírás | Hivatkozás |
@@ -280,9 +278,9 @@
 
 | EUPONTOK EUPONTOK BNOKODOK GYOGYSZ EUPONTOK SZAKVKODOK EUPONTOK KIINTOR | ID ID ID ID ID ID ID ID | EUHOZZAR BNOHOZZAR BNOHOZZAR EUHOZZAR SZAKVHOZZAR SZAKVHOZZAR KIINTHOZZAR KIINTHOZZAR | EUPONT_ID EUPONT_ID BNO_ID GYOGYSZ_ID EUPONT_ID SZAKV_ID EUPONT_ID KIINT_ID |
 
-3. számú melléklet az 53/2007. (XII. 7.) EüM rendelethez[^48]
+3. számú melléklet az 53/2007. (XII. 7.) EüM rendelethez[^49]
 
-## Az EESZT elektronikus vény egyedi azonosító és csoportazonosító vonalkódjának műszaki leírása
+Az EESZT elektronikus vény egyedi azonosító és csoportazonosító vonalkódjának műszaki leírása
 
 1. Az elektronikus recept azonosítója egy 18 szám-karaktert tartalmazó azonosító.
 
@@ -298,4 +296,4 @@ A kód értékét alfanumerikusan is fel kell tüntetni, szabad szemmel jól olv
 
 2.4. Méret: szélesség legalább 50 mm, magasság 8–12 mm.
 
-[^48]: A 3. számú mellékletet a 25/2018. (VII. 31.) EMMI rendelet 7. §-a iktatta be, szövege az 5. § b) pontja szerint módosított szöveg.
+[^49]: A 3. számú mellékletet a 25/2018. (VII. 31.) EMMI rendelet 7. §-a iktatta be, szövege az 5. § b) pontja szerint módosított szöveg.

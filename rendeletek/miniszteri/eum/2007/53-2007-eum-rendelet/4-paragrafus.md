@@ -6,7 +6,7 @@ b)[^13] papíralapú vény esetén „extra vonalkód” képzésére és vényr
 
 c) a közgyógyellátás igényléséhez szükséges külön jogszabály szerinti orvosi igazolás előállítására és kinyomtatására,
 
-d)[^14] a külön jogszabály alapján – a minőségi és hatékony gyógyszerrendelés mutatójaként – az egészségügyi miniszter által naptári féldévente meghatározott célérték megjelenítésére, továbbá annak megjelenítésére, hogy az adott gyógyszer rendelése a külön jogszabály szerint értékelés alá eső ATC csoportba tartozik-e és amennyiben igen, úgy az egy napi terápiára számolt támogatása a célérték alá, vagy fölé esik,
+d)[^14] a külön jogszabály alapján – a minőségi és hatékony gyógyszerrendelés mutatójaként – az egészségügyért felelős miniszter által naptári féldévente meghatározott célérték megjelenítésére, továbbá annak megjelenítésére, hogy az adott gyógyszer rendelése a külön jogszabály szerint értékelés alá eső ATC csoportba tartozik-e és amennyiben igen, úgy az egy napi terápiára számolt támogatása a célérték alá, vagy fölé esik,
 
 e)[^15] olyan figyelmeztető szöveg megjelenítésére, amely jelzi – minden hónap 1. napjától – hogy új gyógyszertörzs van érvényben és figyelmeztet a frissítés szükségességére,
 
@@ -100,7 +100,7 @@ bc) emelt támogatással,
 
 bd) közgyógyellátás jogcímén
 
-## rendelhető;
+rendelhető;
 
 c) közgyógyellátási keretre való elszámolhatóság szempontjából
 
@@ -126,7 +126,7 @@ gc) amennyiben az szakorvosi javaslatra rendelhető, úgy ennek tényét, valami
 
 [^12]: A 4. § (1) bekezdésének bevezető szövegrésze a 9/2009. (IV. 8.) EüM rendelet 4. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (2) bekezdése alapján a 2009. április 8. napján forgalomban lévő, a jogszabályi követelményeknek megfelelő vények időbeli korlátozás nélkül felhasználhatók; (5) bekezdése alapján a 2009. április 8. napján hatályos rendelkezések alapján már minősített szoftver 2009. július 1-jétől akkor alkalmazható, ha a szoftver szerzői vagy felhasználási jogaival rendelkező szervezet az új szabályozás kapcsán szükséges szoftvermódosítás teljesítéséről 2009. június 30-áig nyilatkozatot nyújt be az Egészségbiztosítási Felügyelethez.
 [^13]: A 4. § (1) bekezdés b) pontja a 25/2018. (VII. 31.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^14]: A 4. § (1) bekezdés d) pontját a 46/2008. (XII. 3.) EüM rendelet 1. §-a iktatta be, szövege a 41/2014. (VI. 30.) EMMI rendelet 19. § c) pontja szerint módosított szöveg.
+[^14]: A 4. § (1) bekezdés d) pontját a 46/2008. (XII. 3.) EüM rendelet 1. §-a iktatta be, szövege a 41/2014. (VI. 30.) EMMI rendelet 19. § c) pontja, az 52/2022. (XII. 27.) BM rendelet 15. §-a szerint módosított szöveg.
 [^15]: A 4. § (1) bekezdés e) pontját a 46/2008. (XII. 3.) EüM rendelet 1. §-a iktatta be.
 [^16]: A 4. § (1) bekezdésének f) pontját a 9/2009. (IV. 8.) EüM rendelet 4. § (2) bekezdése iktatta be. E módosító rendelet 5. § (2) bekezdése alapján a 2009. április 8. napján forgalomban lévő, a jogszabályi követelményeknek megfelelő vények időbeli korlátozás nélkül felhasználhatók; (5) bekezdése alapján a 2009. április 8. napján hatályos rendelkezések alapján már minősített szoftver 2009. július 1-jétől akkor alkalmazható, ha a szoftver szerzői vagy felhasználási jogaival rendelkező szervezet az új szabályozás kapcsán szükséges szoftvermódosítás teljesítéséről 2009. június 30-áig nyilatkozatot nyújt be az Egészségbiztosítási Felügyelethez.
 [^17]: A 4. § (1) bekezdésének g) pontját a 9/2009. (IV. 8.) EüM rendelet 4. § (2) bekezdése iktatta be. E módosító rendelet 5. § (2) bekezdése alapján a 2009. április 8. napján forgalomban lévő, a jogszabályi követelményeknek megfelelő vények időbeli korlátozás nélkül felhasználhatók; (5) bekezdése alapján a 2009. április 8. napján hatályos rendelkezések alapján már minősített szoftver 2009. július 1-jétől akkor alkalmazható, ha a szoftver szerzői vagy felhasználási jogaival rendelkező szervezet az új szabályozás kapcsán szükséges szoftvermódosítás teljesítéséről 2009. június 30-áig nyilatkozatot nyújt be az Egészségbiztosítási Felügyelethez.

@@ -1,6 +1,6 @@
-1. számú melléklet az 53/2007. (XII. 7.) EüM rendelethez[^46]
+1. számú melléklet az 53/2007. (XII. 7.) EüM rendelethez[^47]
 
-## Az extra vonalkód adattartalma és műszaki leírása
+Az extra vonalkód adattartalma és műszaki leírása
 
 1. Az „extra vonalkód” adattartalma:
 
@@ -116,4 +116,4 @@ mc) Amennyiben a h) pont szerinti orvos pecsétszáma hat számjegyű és els�
 
 4. Az „extra vonalkód” műszaki leírása: Code–128 jelkép MSZ EN 799:2001 számú szabvány 4.6 pontja alapján a jelkép méreteit és tűréseit az adott alkalmazási környezet határozza meg. A megfelelő leolvashatóság érdekében – figyelembe véve az olvashatóságot és a dekódolhatóságot – az X=0,33–0,495 mm közötti modulméret javasolt. Ugyancsak az alkalmazási környezet alapján a javasolt minimális vonalmagasság 12 mm (MSZ EN 799:2001 számú szabvány 4.6 pontja alapján). A jelkép előtt és mögött megjelenő világos nyugalmi mező X=0,33 mm esetén minimum 3,4 mm (MSZ EN 799:2001 számú szabvány 4.6.3.1 pontja alapján). A vonalkódba bekódolt adatok szemmel olvasható módon történő feltüntetése az adott alkalmazási környezetben tiltott.
 
-[^46]: Az eredeti melléklet megjelölését 1. számú mellékletre változatta és szövegét megállapította a 46/2008. (XII. 3.) EüM rendelet 5. § (1) bekezdése. Az 1. számú melléklet a 9/2009. (IV. 8.) EüM rendelet 4. § (3) bekezdése, a 38/2009. (XI. 6.) EüM rendelet 6. § (7) bekezdése, a 4/2010. (VIII. 12.) NEFMI rendelet 3. § (3) bekezdés a)–b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 57. § c)–d) pontja szerint módosított szöveg.
+[^47]: Az eredeti melléklet megjelölését 1. számú mellékletre változatta és szövegét megállapította a 46/2008. (XII. 3.) EüM rendelet 5. § (1) bekezdése. Az 1. számú melléklet a 9/2009. (IV. 8.) EüM rendelet 4. § (3) bekezdése, a 38/2009. (XI. 6.) EüM rendelet 6. § (7) bekezdése, a 4/2010. (VIII. 12.) NEFMI rendelet 3. § (3) bekezdés a)–b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 57. § c)–d) pontja szerint módosított szöveg.
