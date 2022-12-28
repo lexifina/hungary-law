@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-94-20-2
 | 2021-12-31 | 2013-94-20-2Y.20 | 49/2021. (XII. 28.) AM rendelet |
 | 2022-01-01 | 2013-94-20-2Y.21 | 50/2021. (XII. 29.) AM rendelet |
 | 2022-09-01 | 2013-94-20-2Y.22 | 26/2022. (VIII. 31.) AM rendelet |
+| 2022-12-28 | 2013-94-20-2Y.23 | 158/2022. (XII. 27.) AM rendelet |
