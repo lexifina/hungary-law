@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-41-20-7
 | 2021-04-15 | 2019-41-20-7R.7 | 18/2021. (IV. 14.) AM rendelet |
 | 2021-07-17 | 2019-41-20-7R.8 | 25/2021. (VII. 14.) AM rendelet |
 | 2022-09-01 | 2019-41-20-7R.9 | 26/2022. (VIII. 31.) AM rendelet |
+| 2022-12-28 | 2019-41-20-7R.10 | 158/2022. (XII. 27.) AM rendelet |
