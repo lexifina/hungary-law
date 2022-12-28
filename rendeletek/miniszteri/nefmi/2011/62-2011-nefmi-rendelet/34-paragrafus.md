@@ -1,5 +1,3 @@
-## megfelelő összeget a felszólítás kézhezvételétől számított 15 napon belül átutalni a módszertani központ részére.
-
 34. § (1)[^92] Az elszámolások szabályszerűségét a módszertani központ megvalósítási szakaszonként legalább egy alkalommal a tolmácsszolgálat címén, illetve szükség szerint a fenntartó székhelyén ellenőrzi (a továbbiakban: pénzügyi ellenőrzés). A pénzügyi ellenőrzést a finanszírozási szerződés évközi megszűnése esetén a megszűnéstől számított 60 napon belül kell lefolytatni. A pénzügyi ellenőrzés kiterjed a felhasználás jogszerűségének vizsgálatára is.
 
 (2) A módszertani központ a pénzügyi ellenőrzésről jegyzőkönyvet készít.

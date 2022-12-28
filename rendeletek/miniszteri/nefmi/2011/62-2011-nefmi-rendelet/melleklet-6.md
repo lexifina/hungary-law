@@ -1,5 +1,3 @@
-## A tolmácsszolgálatok kiegészítő támogatás igénybevételére jogosító térítésmentes jelnyelvi tolmácsolási óraszámai
-
 |  | A | B |
 
 | 1. | A tolmácsszolgálatnál az alaptámogatás terhére munkaviszony keretében jelnyelvi tolmács végzettséggel rendelkező alkalmazottak együttes heti munkaideje órában | A tolmácsszolgálat kiegészítő támogatásra jogosító minimális havi térítésmentes jelnyelvi tolmácsolási óraszáma |

@@ -12,6 +12,8 @@ a) második felszólítás esetén az ellenőrzéssel érintett tolmácsszolgál
 
 b) minden további felszólítás esetén az ellenőrzéssel érintett tolmácsszolgálat támogatására a finanszírozási szerződésben meghatározott, az érintett megvalósítási szakaszra vonatkozó alaptámogatás 4%-ának
 
+megfelelő összeget a felszólítás kézhezvételétől számított 15 napon belül átutalni a módszertani központ részére.
+
 [^87]: A 33. § (1) bekezdése a 11/2015. (II. 25.) EMMI rendelet 9. §-ával megállapított, a 17/2021. (V. 18.) EMMI rendelet 25. § 16. pontja szerint módosított szöveg.
 [^88]: A 33. § (2) bekezdése a 17/2021. (V. 18.) EMMI rendelet 20. §-ával megállapított szöveg.
 [^89]: A 33. § (3) bekezdése a 17/2021. (V. 18.) EMMI rendelet 20. §-ával megállapított szöveg.

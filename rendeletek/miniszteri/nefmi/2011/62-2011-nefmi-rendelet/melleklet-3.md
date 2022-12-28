@@ -1,5 +1,3 @@
-## A tolmácsszolgálat minimálisan szükséges helyiségei és tárgyi eszközei
-
 ## A) Helyiségek
 
 ## 1. legalább 10 m2 alapterületű várószoba,

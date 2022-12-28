@@ -1,6 +1,6 @@
 1. melléklet a 62/2011. (XI. 10.) NEFMI rendelethez
 
-## A tolmácsszolgálat szolgáltatási rendjének tartalma
+A tolmácsszolgálat szolgáltatási rendjének tartalma
 
 1.[^103] a tolmácsszolgálat megnevezése, címe, postacíme, vezetékes telefonszáma, mobiltelefonszáma, elektronikus levélcíme (e-mail címe), videoüzenet fogadására és küldésére alkalmas készülékének elérhetősége, külön megjelölve a készenléti idő alatt használható elérhetőségeket,
 

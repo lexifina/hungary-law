@@ -1,5 +1,3 @@
-## időarányosan kerül megállapításra.
-
 47. §[^99] (1) A térítésmentes jelnyelvi tolmácsszolgáltatás támogatásának 2018. április 1-jétől kezdődő finanszírozási időszaka, valamint 2020. április 1-jétől kezdődő megvalósítási szakasza 2021. augusztus 31-éig tart.
 
 (2) A térítésmentes jelnyelvi tolmácsszolgáltatás támogatásának igénybevételére irányuló pályázatot a 2021. évben a módszertani központ – a 10. § (3) bekezdésétől eltérően – 2021. július 15-éig írja ki.

@@ -16,5 +16,7 @@ a) alaptámogatást az ok megszűnését követő 10 napon belül,
 
 b) kiegészítő támogatást a következő hónapban folyósított kiegészítő támogatással egyidejűleg
 
+kell folyósítani.
+
 [^80]: A 31. § (1) bekezdése a 17/2021. (V. 18.) EMMI rendelet 18. §-ával megállapított szöveg.
 [^81]: A 31. § (2) bekezdése a 17/2021. (V. 18.) EMMI rendelet 18. §-ával megállapított szöveg.

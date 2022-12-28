@@ -1,5 +1,3 @@
-## kell folyósítani.
-
 ## 13. Elszámolás és ellenőrzés
 
 32. § (1)[^82] A fenntartó a finanszírozási időszak alatt minden év augusztus 15-éig június 30-ai fordulónappal, tolmácsszolgálatonként részletes, a támogatás felhasználásának és a tevékenység megvalósításának szakmai vonatkozásait is tartalmazó elszámolást nyújt be a módszertani központhoz az igénybe vett alap- és kiegészítő támogatásról.
