@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-29-20-0
 | 2021-01-21 | 2003-29-20-0M.17 | 2/2021. (I. 18.) EMMI rendelet |
 | 2021-09-18 | 2003-29-20-0M.18 | 2/2021. (I. 18.) EMMI rendelet |
 | 2022-09-02 | 2003-29-20-0M.19 | 1/2022. (IX. 1.) KIM rendelet |
+| 2022-12-28 | 2003-29-20-0M.20 | 52/2022. (XII. 27.) BM rendelet |

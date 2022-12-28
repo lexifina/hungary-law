@@ -1,6 +1,4 @@
-## történik, a miniszter a folyamatban lévő képzést azonnali hatállyal felfüggeszti, új tanfolyam megkezdését nem hagyja jóvá, és a tanfolyamszervezési egyedi azonosító számot visszavonja.
-
-14/E. §[^48] (1) A miniszter egyedi döntés alapján a 14/A. § (1) bekezdése alapján bevont örökbefogadói tanfolyamot szervezőnek az örökbefogadói tanfolyam EKP szerinti lebonyolításához ütemezetten működési támogatást nyújt.
+14/E. §[^54] (1) A miniszter egyedi döntés alapján a 14/A. § (1) bekezdése alapján bevont örökbefogadói tanfolyamot szervezőnek az örökbefogadói tanfolyam EKP szerinti lebonyolításához ütemezetten működési támogatást nyújt.
 
 (2) A tanfolyamszervező a tárgyévi támogatás igénybevételéhez a tárgyévet megelőző év december 10-éig támogatási kérelmet nyújt be a miniszterhez. A támogatási kérelemnek – negyedéves bontásban – tartalmaznia kell az igényelt támogatás naptári évének egészére vonatkozó EKP szerinti képzési tervet.
 
@@ -20,4 +18,4 @@ b) 14 és 18 fő közötti résztvevő esetén 980 000 forint.
 
 (8) A tanfolyamszervező a támogatói okiratban foglaltak szerint a támogatási előleggel a tárgyévet követő év január 31-éig számol el.
 
-[^48]: A 14/E. §-t a 35/2020. (X. 5.) EMMI rendelet 10. §-a iktatta be.
+[^54]: A 14/E. §-t a 35/2020. (X. 5.) EMMI rendelet 10. §-a iktatta be.

@@ -8,7 +8,7 @@ a)[^12] a 2. § (2) bekezdés a) pontja szerint bejelentett tanfolyam esetében 
 
 b)[^13] az örökbefogadói tanfolyam esetében a gyermek- és ifjúságpolitikáért felelős miniszter (a továbbiakban: miniszter)
 
-## jóváhagyott.
+jóváhagyott.
 
 (4)[^14] A 2. § (2) bekezdés a) pontja szerint bejelentett tanfolyamon való részvételről kiadott igazolás és tanúsítvány másolatát a tanfolyamot szervező megküldi az Intézetnek. A tanúsítványokat az Intézet nyilvántartásba veszi és sorszámmal látja el.
 

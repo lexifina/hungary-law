@@ -1,6 +1,4 @@
-## történik, a KOP-képzésért felelős szerv a folyamatban lévő képzést felfüggeszti és kezdeményezi a miniszteri kijelölés visszavonását.
-
-8/D. §[^28] (1) A KOP-képzésben az vehet részt, aki
+8/D. §[^30] (1) A KOP-képzésben az vehet részt, aki
 
 a) a 4–6. § szerinti döntés-előkészítő programot és a 8. § szerinti nevelőszülői tanfolyamot eredményesen elvégezte vagy
 
@@ -16,7 +14,7 @@ c) „megfelelt” vagy
 
 d) „nem felelt meg”
 
-## lehet.
+lehet.
 
 (3) A KOP-képzés végén a képzésben részt vevő záróvizsgát tesz.
 
@@ -30,4 +28,4 @@ c) a 8. számú melléklet 2. táblázat B:1, E:1 és F:1 mezőjében meghatáro
 
 d) elkészített és a záróvizsga napját legalább 30 nappal megelőzően a KOP-képzésért felelős szerv, vagy – ha a képzésben képző szervezetnél vesz részt – a képző szervezet részére egy legalább 5, legfeljebb 10 oldalas esetelemzést megküldött.
 
-[^28]: A 8/D. §-t a 48/2015. (X. 28.) EMMI rendelet 10. §-a iktatta be.
+[^30]: A 8/D. §-t a 48/2015. (X. 28.) EMMI rendelet 10. §-a iktatta be.

@@ -1,6 +1,6 @@
-1. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez[^56]
+1. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez[^62]
 
-## A döntés-előkészítő program részletes tematikája
+A döntés-előkészítő program részletes tematikája
 
 1. A tanfolyam célja, hogy a résztvevők
 
@@ -122,4 +122,4 @@
 
 4.1. Egyéni vagy csoportos összegző beszélgetés.
 
-[^56]: Az 1. számú melléklet a 6/2015. (I. 28.) EMMI rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^62]: Az 1. számú melléklet a 6/2015. (I. 28.) EMMI rendelet 24. § (1) bekezdésével megállapított szöveg.

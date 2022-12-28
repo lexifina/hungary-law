@@ -10,7 +10,7 @@ a)[^4] a helyettes szülői és a nevelőszülői tanfolyamot megelőző dönté
 
 b)[^5]
 
-## írásban bejelenti.
+írásban bejelenti.
 
 (2a)[^6] A (2) bekezdés szerinti bejelentésnek tartalmaznia kell
 

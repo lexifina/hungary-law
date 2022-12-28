@@ -1,6 +1,6 @@
 2. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez
 
-## A helyettes szülői tanfolyam részletes tematikája
+A helyettes szülői tanfolyam részletes tematikája
 
 I. A tanfolyam célja
 
