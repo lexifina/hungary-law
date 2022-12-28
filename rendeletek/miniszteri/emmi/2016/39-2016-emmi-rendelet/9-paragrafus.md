@@ -8,7 +8,7 @@ b) természetes személy ágazati felhasználó esetében a működtető által 
 
 c) érintett esetében a működtető által biztosított elektronikus felületen, a Kormány által kötelezően biztosított azonosítási szolgáltatás útján
 
-## történik.
+történik.
 
 (3) A működtető az ágazati felhasználó (2) bekezdés a) vagy b) pontja szerinti azonosítását követően az EESZT minden egyes szolgáltatásának használatát megelőzően ellenőrzi, hogy az ágazati felhasználó
 

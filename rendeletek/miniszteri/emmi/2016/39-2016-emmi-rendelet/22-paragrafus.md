@@ -14,7 +14,7 @@ e) a 2. § (1) bekezdésében meghatározott szervezet 2017. március 1. napjái
 
 f)[^19] a 2. § (1a) bekezdése szerinti egészségügyi szolgáltató 2020. január 1-jéig
 
-## köteles teljesíteni.
+köteles teljesíteni.
 
 (2) Az Eüak. 35/B. § (1) bekezdés a) pontja szerinti csatlakozott egészségügyi szolgáltató a 12. §-ban és a 19. §-ban meghatározott adatszolgáltatási kötelezettségének
 
@@ -22,7 +22,7 @@ a) a közfinanszírozott egészségügyi ellátások tekintetében 2017. novembe
 
 b) a nem közfinanszírozott egészségügyi ellátások tekintetében 2018. november 1. napjától
 
-## köteles eleget tenni.
+köteles eleget tenni.
 
 (3) A törzsadatot tartalmazó nyilvántartás vezetője vagy kódtörzs közzétevője a 13. §-ban meghatározott közzétételi kötelezettségét legkésőbb 2017. március 1. napjától köteles teljesíteni. Ha az EESZT megfelelő működéséhez szükséges törzsadat szolgáltatását az arra kötelezett nem tudja közvetlenül az EESZT szolgáltatásának igénybevételével teljesíteni, a működtető – megállapodás alapján – ideiglenes jelleggel átvállalhatja az adatszolgáltatással kapcsolatos kötelezettségéhez kapcsolódó technikai műveletek elvégzését, de az adatszolgáltatás tartalmát illetően a felelősség továbbra is a nyilvántartást vezető vagy a kódtörzset közzétevő szervezetet terheli. Az erre vonatkozó megállapodás időtartama nem lehet tizenkettő hónapnál hosszabb.
 

@@ -8,7 +8,7 @@ b) adatainak meghatározott ágazati felhasználó általi megismerésére vonat
 
 c) a működtető által meghatározott kategóriákba sorolt adatainak megismerésére vonatkozóan
 
-## teheti meg.
+teheti meg.
 
 (1a)[^13] Az érintett az önrendelkezési nyilvántartásban az Eüak. 35/H. § (1) bekezdésében meghatározott nyilatkozata keretében rendelkezést tehet adatainak a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében kijelölt nemzeti kapcsolattartó szerv általi továbbíthatóságára vonatkozóan.
 

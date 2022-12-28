@@ -1,5 +1,3 @@
-## Központi eseménykatalógus számára szolgáltatandó adatok
-
 ## A központi eseménykatalógus számára az alábbi események e mellékletben meghatározott adatait, az esemény időpontját, a csatlakozó adatkezelő informatikai rendszerében való rögzítés időpontját és az esemény rögzítéséért felelős személy azonosítóját kell közölni.
 
 |  | A | B | C |
@@ -116,7 +114,7 @@
 
 2. melléklet a 39/2016. (XII. 21.) EMMI rendelethez
 
-## A törzsadat-nyilvántartásban közzéteendő törzsadatok és az EESZT útján a csatlakozó adatkezelő saját szolgáltatásán keresztül elérhető nyilvántartások
+A törzsadat-nyilvántartásban közzéteendő törzsadatok és az EESZT útján a csatlakozó adatkezelő saját szolgáltatásán keresztül elérhető nyilvántartások
 
 1. egészségügyi szolgáltatók, az általuk végezhető, engedélyezett szakmák és működési engedélyek nyilvántartása
 

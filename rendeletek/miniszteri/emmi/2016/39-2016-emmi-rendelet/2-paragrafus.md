@@ -4,7 +4,7 @@
 
 a)[^1] a Nemzeti Egészségbiztosítási Alapkezelő,
 
-b)[^2] az Emberi Erőforrások Minisztériuma,
+b)[^2]
 
 c)[^3] a Nemzeti Népegészségügyi Központ.
 
@@ -29,7 +29,7 @@ c) a csatlakozás folyamatát, pontos rendjét meghatározó dokumentumokat, és
 d) a követelmények ellenőrzésének menetét.
 
 [^1]: A 2. § (1) bekezdés a) pontja a 23. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § (1) bekezdés b) pontja a 23. § (2) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdés b) pontját az 52/2022. (XII. 27.) BM rendelet 31. §-a hatályon kívül helyezte.
 [^3]: A 2. § (1) bekezdés c) pontját a 24. § hatályon kívül helyezte, újonnan a 38/2018. (X. 31.) EMMI rendelet 26. §-a iktatta be.
 [^4]: A 2. § (1a) bekezdését a 23/2019. (X. 15.) EMMI rendelet 1. §-a iktatta be.
 [^5]: A 2. § (2) bekezdés nyitó szövegrésze a 23/2019. (X. 15.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.

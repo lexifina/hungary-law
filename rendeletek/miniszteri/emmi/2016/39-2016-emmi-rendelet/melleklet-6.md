@@ -1,10 +1,8 @@
-## Jelentéstételi és adatszolgáltatási kötelezettségek
-
 ## Az Eüak. 15. §-a szerinti mikrobiológiai laboratórium vizsgálatának eredményéről teljesítendő jelentés.
 
 6. melléklet a 39/2016. (XII. 21.) EMMI rendelethez[^32]
 
-## EESZT csatlakozáshoz használt informatikai rendszerek felhasználási területei
+EESZT csatlakozáshoz használt informatikai rendszerek felhasználási területei
 
 I. Szakmai tevékenység szerinti felhasználási területek
 

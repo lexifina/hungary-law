@@ -12,7 +12,7 @@ d) a 20. §-ban meghatározott, jelentéstételi és adatszolgáltatási kötele
 
 e)[^11] a 20/A. §-ban meghatározott adatszolgáltatást
 
-## kell az üzemszünet esetén annak végét, üzemvar esetén annak tényleges megszűnését követő négy napon belül teljesítenie.
+kell az üzemszünet esetén annak végét, üzemvar esetén annak tényleges megszűnését követő négy napon belül teljesítenie.
 
 (2) Az EESZT üzemszünete vagy üzemzavara idejére eső adatszolgáltatási kötelezettség elmulasztása esetén nem alkalmazható hátrányos jogkövetkezmény, ha a kötelezett adatszolgáltatási kötelezettségét az (1) bekezdésben meghatározottak szerint teljesíti.
 
