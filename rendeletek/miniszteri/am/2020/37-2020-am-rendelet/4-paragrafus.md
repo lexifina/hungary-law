@@ -1,12 +1,10 @@
-## 3. § Az átmeneti támogatás tárgyévre meghatározott keretösszege legfeljebb 250 millió forint.
+## 4.[^16] A válságtámogatás igénybevételének feltételei
 
-## 4. Az átmeneti támogatás igénybevételének feltételei
-
-## 4. § Az átmeneti támogatás igénybevételére az a kérelmező jogosult, aki vagy amely
+4. §[^17] A válságtámogatás igénybevételére az a kérelmező jogosult, aki vagy amely
 
 a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 28. § (3) bekezdése szerinti nyilvántartásba vételi kötelezettségének eleget tett, és a 28. § (3a) bekezdésének megfelelően a támogatási kérelem benyújtásakor az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben kérelemre nyilvántartásba vett ügyfélként szerepel;
 
-b)[^8] a területet a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 44. § (7) bekezdésében meghatározott jogcímen jogszerűen használja;
+b)[^18] a területet a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 44. § (7) bekezdésében meghatározott jogcímen jogszerűen használja;
 
 c) a támogatási kérelem benyújtásának időpontjában
 
@@ -14,20 +12,22 @@ ca) nem áll felszámolási, végelszámolási, kényszertörlési eljárás vag
 
 cb) megfelel az államháztartásról szóló 2011. évi CXCV. törvény 50. § (1) bekezdés a) és c) pontjában foglalt követelményeknek, és
 
-cc)[^9] vállalja, hogy a támogatott tevékenységét legalább tárgyév december 31-éig folytatja; valamint
+cc)[^19] vállalja, hogy a támogatott tevékenységét legalább tárgyév december 31-éig folytatja; valamint
 
-d) a támogatási kérelem benyújtásával egyidejűleg nyilatkozik
+d)[^20] a támogatási kérelem benyújtásával egyidejűleg nyilatkozik
 
-da)[^10] arról, hogy közép-, illetve nagyvállalkozóként 2019. december 31-én nem minősült nehéz helyzetben lévő vállalkozásnak, vagy arról, hogy mikro- és kisvállalkozásként nem részesült az „Iránymutatás a nehéz helyzetben lévő, nem pénzügyi vállalkozásoknak nyújtott megmentési és szerkezetátalakítási állami támogatásról” című, 2014. július 31-i 2014/C 246/01 számú bizottsági közlemény szerinti megmentési támogatásban vagy szerkezetátalakítási támogatásban,
+da) a 25/2022. (VIII. 31.) AM rendelet hatálya alá nem tartozó támogatási program vagy egyedi támogatás alapján kapcsolt vállalkozásnak minősülő vállalkozások által korábban már igénybe vett egyéb válságtámogatás összegéről euróban kifejezve,
 
-db) a 20/2020. (VI. 19.) AM rendelet hatálya alá nem tartozó támogatási program vagy egyedi támogatás alapján általa és a vele kapcsolt vállalkozásnak minősülő vállalkozások által korábban már igénybe vett egyéb átmeneti támogatás összegéről euróban kifejezve,
+db) arról, hogy a vállalkozása kapcsolt vállalkozásnak minősül-e,
 
-dc) arról, hogy a vállalkozása kapcsolt vállalkozásnak minősül-e,
+dc) a kapcsolt vállalkozások nevéről, adóazonosító számáról és ügyfél-azonosítójáról,
 
-dd) a kapcsolt vállalkozások adatairól (név, adószám vagy adóazonosító jel, ügyfél-azonosító),
+dd) arról, hogy a gazdasági nehézsége összefüggésben áll az Oroszország és Ukrajna közötti konfliktussal és
 
 de) a c) pontban foglaltakról.
 
-[^8]: A 4. § b) pontja a 9/2021. (III. 12.) AM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^9]: A 4. § c) pont cc) alpontja a 21/2021. (V. 20.) AM rendelet 11. § b) pontja szerint módosított szöveg.
-[^10]: A 4. § d) pont da) alpontja a 9/2021. (III. 12.) AM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^16]: A 4. alcím címe a 158/2022. (XII. 27.) AM rendelet 26. § a) pontja szerint módosított szöveg.
+[^17]: A 4. § nyitó szövegrésze a 158/2022. (XII. 27.) AM rendelet 26. § a) pontja szerint módosított szöveg.
+[^18]: A 4. § b) pontja a 9/2021. (III. 12.) AM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^19]: A 4. § c) pont cc) alpontja a 21/2021. (V. 20.) AM rendelet 11. § b) pontja szerint módosított szöveg.
+[^20]: A 4. § d) pontja a 158/2022. (XII. 27.) AM rendelet 23. §-ával megállapított szöveg.
