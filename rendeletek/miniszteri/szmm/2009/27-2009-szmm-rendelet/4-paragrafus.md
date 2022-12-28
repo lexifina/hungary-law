@@ -1,4 +1,4 @@
-4. § (1)[^7] A szociál- és nyugdíjpolitikáért felelős miniszter pályázat útján a kutyát kiképző szervezetek, illetve a segítő kutyák alkalmazásának elősegítésével foglalkozó szervezetek közül közreműködő szervezetet jelöl ki, amely
+4. § (1)[^7] A szociálpolitikáért felelős miniszter pályázat útján a kutyát kiképző szervezetek, illetve a segítő kutyák alkalmazásának elősegítésével foglalkozó szervezetek közül közreműködő szervezetet jelöl ki, amely
 
 a) honlapján közzéteszi
 
@@ -16,6 +16,6 @@ d)[^8] a kutyát kiképző szervezetek kiképzői számára fényképes segítő
 
 (3) A közreműködő szervezet kijelölése öt évre szól. Ugyanazon szervezet több alkalommal is kijelölhető közreműködő szervezetnek.
 
-[^7]: A 4. § (1) bekezdés nyitó szövegrésze a 9/2016. (V. 12.) EMMI rendelet 10. § d) pontja szerint módosított szöveg.
+[^7]: A 4. § (1) bekezdés nyitó szövegrésze a 9/2016. (V. 12.) EMMI rendelet 10. § d) pontja, az 52/2022. (XII. 27.) BM rendelet 19. §-a szerint módosított szöveg.
 [^8]: A 4. § (1) bekezdés d) pontját a 9/2016. (V. 12.) EMMI rendelet 4. §-a iktatta be.
 [^9]: A 4. § (2) bekezdése a 9/2016. (V. 12.) EMMI rendelet 4. § (2) bekezdésével megállapított szöveg.

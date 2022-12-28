@@ -6,7 +6,7 @@ b) a kutyát kiképző szervezet által delegált tagból,
 
 c) – ha a fogyatékossággal élő személy vagy törvényes képviselője kéri – az általuk megjelölt, a fogyatékossággal élő személy fogyatékosságának vagy betegségének megfelelő szakterületen működő érdekvédelmi szervezetet által delegált tagból
 
-## áll.
+áll.
 
 (2)[^12] Az (1) bekezdés a) és b) pontja szerinti vizsgabizottsági tagnak az Országos Képzési Jegyzékben szereplő habilitációs kutyakiképző szakképesítéssel és legalább 5 éves, a segítő kutyák kiképzésében, illetve vizsgáztatásában szerzett szakmai gyakorlattal kell rendelkeznie.
 
