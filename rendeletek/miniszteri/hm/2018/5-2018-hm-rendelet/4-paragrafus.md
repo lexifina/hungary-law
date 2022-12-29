@@ -22,8 +22,8 @@ f) olyan feltétellel, amely az európai uniós jog megsértését eredményezi,
 
 g) csekély összegű (de minimis) támogatásban részesülő vállalkozás kivételével azon szervezet részére, amelynek az Európai Bizottság által hozott, európai uniós versenyjogi értelemben vett állami támogatás visszafizettetésére irányuló, Magyarországnak címzett határozat alapján fennálló visszafizetési kötelezettsége van,
 
-h)[^2] csekély összegű támogatás kivételével nehéz helyzetben lévő vállalkozás részére, kivéve azt a vállalkozást, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és 2021. június 30. között nehéz helyzetbe került.
+h)[^3] csekély összegű támogatás kivételével nehéz helyzetben lévő vállalkozás részére, kivéve azt a vállalkozást, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és 2021. június 30. között nehéz helyzetbe került.
 
 i) kultúrát és kulturális örökség megőrzését előmozdító támogatásban részesülő vállalkozás esetén nyomtatott vagy elektronikus formában közzétett sajtótermék és magazin kiadására.
 
-[^2]: A 4. § (2) bekezdés h) pontja a 6/2021. (I. 28.) HM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 4. § (2) bekezdés h) pontja a 6/2021. (I. 28.) HM rendelet 1. §-ával megállapított szöveg.

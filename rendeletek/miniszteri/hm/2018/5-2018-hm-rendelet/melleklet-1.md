@@ -1,8 +1,6 @@
-## 17. §[^8]
+1. melléklet az 5/2018. (III. 8.) HM rendelethez[^12]
 
-1. melléklet az 5/2018. (III. 8.) HM rendelethez[^9]
-
-A XIII. Honvédelmi Minisztérium fejezet 2021. évi költségvetési kiadási előirányzatainak feladatterve
+A XIII. Honvédelmi Minisztérium fejezet 2022. évi költségvetési kiadási előirányzatainak feladatterve
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -40,5 +38,8 @@ A XIII. Honvédelmi Minisztérium fejezet 2021. évi költségvetési kiadási e
 
 | 17. | 388040 |  |  |  | Honvédelmi Tanács és a Kormány speciális működési feltételeinek biztosítása | A speciális objektumok üzemeltetése, a védelmi igazgatás infokommunikációs rendszerének működtetése, fenntartása, fejlesztése, a NATO Válságreagálási Rendszerrel összhangban álló Nemzeti Intézkedési Rendszer működtetése, és a különleges jogrendben történő vezetési feltételek biztosítása. | Költségvetési szervek, fejezeti kezelésű előirányzatok és központi kezelésű előirányzatok | előirányzat- átcsoportosí- tással |  | A honvédelmi miniszter által előkészített kormányhatározat alapján történő végleges átcsoportosítás, egy összegben vagy részletekben, időarányosan vagy teljesítésarányosan. |  |  |  |  |  |
 
-[^8]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: Az 1. melléklet a 6/2021. (I. 28.) HM rendelet 2. §-ával megállapított, az 1/2022. (I. 7.) HM rendelet 1. §-a szerint módosított szöveg.
+| 18. | 397762 |  |  | Magyar Védelmi Exportügynökség Zrt. támogatása | A HM tulajdonosi joggyakorlása alá tartozó gazdasági társaság működésének támogatása. | Magyar Védelmi Exportügynökség Zrt. | támogatói okirat alapján | nyújtható | egy összegben | kötelezettség- vállalási dokumentumban meghatározott határidőig | az Ávr. 84. § (2) bekezdés a) pontja szerinti felhatalmazó nyilatkozat |  |  |  |
+
+| 19. | 384139 |  |  | Védelmi Beszerzési Ügynökség Zrt. (VBÜ) támogatása | A HM tulajdonosi joggyakorlása alá tartozó gazdasági társaság működésének támogatása. | Védelmi Beszerzési Ügynökség Zrt. | támogatói okirat alapján | nyújtható | egy összegben | kötelezettség- vállalási dokumentumban meghatározott határidőig | az Ávr. 84. § (2) bekezdés a) pontja szerinti felhatalmazó nyilatkozat |  |  |  |
+
+[^12]: Az 1. melléklet a 6/2021. (I. 28.) HM rendelet 2. §-ával megállapított, az 1/2022. (I. 7.) HM rendelet 1. §-a, a 25/2022. (XII. 28.) HM rendelet 3. §-a és 4. § (2) bekezdése szerint módosított szöveg.

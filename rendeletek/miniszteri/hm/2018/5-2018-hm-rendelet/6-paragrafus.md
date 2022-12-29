@@ -8,8 +8,11 @@ a) beruházási támogatás esetében meghaladja a projektenként 150 millió eu
 
 b) működési támogatás esetében meghaladja a vállalkozásonként évente 75 millió eurónak megfelelő forintösszeget.
 
-(4) A támogatást nyújtó köteles adatot szolgáltatni a Támogatásokat Vizsgáló Iroda részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából a 7–12. § hatálya alá tartozó, 500 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásról.
+(4)[^4] A támogatást nyújtó köteles adatot szolgáltatni a Támogatásokat Vizsgáló Iroda részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából a 7–12. § hatálya alá tartozó, az Atr. 2. § 6c. pontja szerinti halászati állami támogatás esetén a 30 000 eurónak, elsődleges mezőgazdasági termelés támogatása esetén a 60 000 eurónak, egyéb esetben pedig az 500 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásról.
 
 (5) A (4) bekezdés szerinti adatszolgáltatás módjára, az adatszolgáltatással érintett adatok körére és azok közzétételére az Atr. 18/A–18/D. §-át kell alkalmazni.
 
-(6) E rendelet alapján az 1407/2013/EU bizottsági rendelet és a 651/2014/EU bizottsági rendelet 53. cikke szerinti támogatások esetén 2021. június 30-ig lehet támogatási döntést hozni.
+(6)[^5] E rendelet alapján az 1407/2013/EU bizottsági rendelet és a 651/2014/EU bizottsági rendelet 53. cikke szerinti támogatások esetén 2024. június 30-ig lehet támogatási döntést hozni.
+
+[^4]: A 6. § (4) bekezdése a 25/2022. (XII. 28.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 6. § (6) bekezdése a 25/2022. (XII. 28.) HM rendelet 1. § (2) bekezdésével megállapított szöveg.

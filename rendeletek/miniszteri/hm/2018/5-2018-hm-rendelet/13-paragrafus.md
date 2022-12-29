@@ -1,8 +1,6 @@
-## számolható el.
+13. § (1)[^6] Az 1. mellékletben foglalt táblázat
 
-13. § (1)[^3] Az 1. mellékletben foglalt táblázat
-
-a)[^4] G:5 mezője szerinti kedvezményezettek közül
+a)[^7] G:5 mezője szerinti kedvezményezettek közül
 
 aa) a Magyar Hadtudományi Társaság,
 
@@ -24,11 +22,11 @@ ai) a 39M Lövész Egyesület,
 
 aj) a Centenáriumi Hadtörténeti Egyesület, valamint
 
-b)[^5] G:6 mező 2. pontja szerinti gazdasági társaság
+b)[^8] G:6 mező 2. pontja szerinti gazdasági társaság
 
-## részére nyújtott támogatás a 651/2014/EU bizottsági rendelet szerinti kulturális támogatás.
+részére nyújtott támogatás a 651/2014/EU bizottsági rendelet szerinti kulturális támogatás.
 
-(2)[^6] Az 1. mellékletben foglalt táblázat G:5 mezője szerinti kedvezményezettek közül a Budapesti Honvéd Sportegyesület, valamint a G:6 mező 1. pontja szerinti gazdasági társaság részére nyújtott támogatás az 1407/2013/EU bizottsági rendelet szerinti csekély összegű (de minimis) támogatás.
+(2)[^9] Az 1. mellékletben foglalt táblázat G:5 mezője szerinti kedvezményezettek közül a Budapesti Honvéd Sportegyesület, valamint a G:6 mező 1. pontja szerinti gazdasági társaság részére nyújtott támogatás az 1407/2013/EU bizottsági rendelet szerinti csekély összegű (de minimis) támogatás.
 
 (3) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű (de minimis) támogatás bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
@@ -46,7 +44,7 @@ b)[^5] G:6 mező 2. pontja szerinti gazdasági társaság
 
 (10) A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű (de minimis) támogatások támogatástartalmáról.
 
-[^3]: A 13. § (1) bekezdése a 3/2019. (II. 7.) HM rendelet 1. §-ával megállapított szöveg.
-[^4]: A 13. § (1) bekezdés a) pont nyitó szövegrésze a 6/2021. (I. 28.) HM rendelet 3. § b) pontja szerint módosított szöveg.
-[^5]: A 13. § (1) bekezdés b) pontja a 6/2021. (I. 28.) HM rendelet 3. § c) pontja szerint módosított szöveg.
-[^6]: A 13. § (2) bekezdése a 3/2019. (II. 7.) HM rendelet 1. §-ával megállapított, a 6/2021. (I. 28.) HM rendelet 3. § b)–c) pontja szerint módosított szöveg.
+[^6]: A 13. § (1) bekezdése a 3/2019. (II. 7.) HM rendelet 1. §-ával megállapított szöveg.
+[^7]: A 13. § (1) bekezdés a) pont nyitó szövegrésze a 6/2021. (I. 28.) HM rendelet 3. § b) pontja szerint módosított szöveg.
+[^8]: A 13. § (1) bekezdés b) pontja a 6/2021. (I. 28.) HM rendelet 3. § c) pontja szerint módosított szöveg.
+[^9]: A 13. § (2) bekezdése a 3/2019. (II. 7.) HM rendelet 1. §-ával megállapított, a 6/2021. (I. 28.) HM rendelet 3. § b)–c) pontja szerint módosított szöveg.
