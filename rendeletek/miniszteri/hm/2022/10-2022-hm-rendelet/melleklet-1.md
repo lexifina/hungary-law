@@ -1,5 +1,3 @@
-## 4. §[^1]
-
 1. melléklet a 10/2022. (IV. 28.) HM rendelethez
 
 A Magyar Honvédség Öltözködési Szabályzata
@@ -22,7 +20,7 @@ I. FEJEZET
 
 4. A gyakorló öltözet
 
-4.1. A gyakorló öltözet a honvédelmi szervezetek tényleges állományának alapruházata békeidőben és békétől eltérő időszakban egyaránt. A gyakorló öltözetet viseli a hivatásos, a szerződéses, a honvéd tisztjelölt és a honvéd altiszt-jelölt állomány az MH feladatát képező műveletek, gyakorlatok, valamint kiképzési tevékenységek során, a próbaidős szerződéses állomány a próbaidő alatt, a tényleges szolgálatot teljesítő önkéntes tartalékos katona felkészítés, megelőző védelmi helyzet és rendkívüli állapot idején, továbbá a hadkötelezettség bevezetése után a hadköteles katona, a többletkötelezettséget vállaló honvédelmi alkalmazott.
+4.1.[^3] A gyakorló öltözet a honvédelmi szervezetek tényleges állományának alapruházata békeidőben és békétől eltérő időszakban egyaránt. A gyakorló öltözetet viseli a hivatásos, a szerződéses, a honvéd tisztjelölt és a honvéd altiszt-jelölt állomány az MH feladatát képező műveletek, gyakorlatok, valamint kiképzési tevékenységek során, a próbaidős szerződéses állomány a próbaidő alatt, a tényleges szolgálatot teljesítő önkéntes tartalékos katona felkészítés, továbbá a hadkötelezettség bevezetése után a hadköteles katona, a többletkötelezettséget vállaló honvédelmi alkalmazott.
 
 4.2. A gyakorló öltözetet viselheti műveleti területen a rendvédelmi feladatokat ellátó szerv tagja, ha hivatalos kiküldetésben az MH érdekében végez tevékenységet.
 
@@ -3638,4 +3636,4 @@ viselendő.
 
 237. A kötött téli kesztyű – mind a kihordás alatt lévő 90 M és 2000 M általános, a 93 M ejtőernyős és repülőszerelő, repülőműszaki, mind a 15 M gyakorló öltözetekhez – 2025. december 31-ig viselhető.
 
-[^1]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet 4. pont 4.1. alpontja a 29/2022. (XII. 28.) HM rendelet 2. §-a szerint módosított szöveg.
