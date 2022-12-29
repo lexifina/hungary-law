@@ -1,3 +1,5 @@
 ## 3. A személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet módosítása
 
-3. § A személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet 1. § (2) bekezdésében, 20. § (3) bekezdésében, 30. § (1) bekezdésében, 39. § (4) bekezdésében, 39/E. §-ában, 39/M. §-ában, 51. § (1) bekezdésében, 79. § (1) és (2) bekezdésében, 101/A. § (3) bekezdésében, 103/A. § (2) és (3) bekezdésében, 105. § (3) bekezdésében, 110/B. § (3) bekezdés a) és b) pontjában, 110/B. § (5) bekezdésében, 110/C. § (3) bekezdés a) és b) pontjában, 110/I. § (3) bekezdésében, 111/A. § (4) bekezdésében a „szociál- és nyugdíjpolitikáért” szövegrész helyébe a „szociálpolitikáért” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

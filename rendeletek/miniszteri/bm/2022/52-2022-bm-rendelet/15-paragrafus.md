@@ -1,3 +1,5 @@
 ## 14. A gyógyszerrendeléshez használandó számítógépes program minősítésének szabályairól szóló 53/2007. (XII. 7.) EüM rendelet módosítása
 
-15. § A gyógyszerrendeléshez használandó számítógépes program minősítésének szabályairól szóló 53/2007. (XII. 7.) EüM rendelet 4. § (1) bekezdés d) pontjában az „egészségügyi” szövegrész helyébe az „egészségügyért felelős” szöveg lép.
+15. §[^16]
+
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
