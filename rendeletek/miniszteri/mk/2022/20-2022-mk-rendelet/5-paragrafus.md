@@ -1,3 +1,3 @@
-5. § A Rendelet 41. § (1) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(1) A regionális repülőterekhez nyújtott támogatás beruházási és működési támogatásként nyújtható.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

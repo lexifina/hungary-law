@@ -1,3 +1,3 @@
-8. § A Rendelet 48. §-a a következő (4) bekezdéssel egészül ki:
+8. §[^9]
 
-„(4) A támogatás azonos vagy részben azonos elszámolható költségekre nem halmozható a válságközlemény 2.1. szakasza szerinti válságtámogatással.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
