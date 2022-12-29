@@ -1,1 +1,3 @@
-10. § Hatályát veszti a 11/2019. (IV. 1.) AM rendelet 3a. alcíme.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

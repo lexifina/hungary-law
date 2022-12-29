@@ -1,1 +1,3 @@
-8. § A 11/2019. (IV. 1.) AM rendelet 2. melléklete az 1. melléklet szerint módosul.
+8. §[^8]
+
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
