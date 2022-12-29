@@ -1,6 +1,6 @@
 15. melléklet a 45/2016. (XI. 29.) NGM rendelethez
 
-## A hivatalos zár előállításáról vezetett nyilvántartás adattartalma (zártípusonként)
+A hivatalos zár előállításáról vezetett nyilvántartás adattartalma (zártípusonként)
 
 1. Nyitókészlet
 
@@ -37,5 +37,3 @@
 4. Zárókészlet
 
 4.1. mennyisége (darab)
-
-4.2. sorszámtartománya (-tól-ig)

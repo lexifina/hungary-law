@@ -1,6 +1,6 @@
 5. melléklet a 45/2016. (XI. 29.) NGM rendelethez
 
-## Nyilvántartásba vett felhasználó által vezetett nyilvántartás adattartalma
+Nyilvántartásba vett felhasználó által vezetett nyilvántartás adattartalma
 
 1. Termék (egyéb ellenőrzött ásványolaj, megfigyelt termék, valamint denaturált termék a teljes denaturálás típusa szerinti részletezésben)
 

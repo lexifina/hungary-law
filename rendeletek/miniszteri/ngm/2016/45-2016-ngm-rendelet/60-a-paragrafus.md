@@ -4,4 +4,6 @@ a) harmadik országba történő kiszállítás esetén az Európai Unió vámte
 
 b) tagállamba kiszállítás esetén az adóraktár engedélyese a termék címzett által történő átvételéről szóló dokumentum
 
+igazolja.
+
 [^78]: A 60/A. §-t a 23/2020. (XII. 30.) PM rendelet 1. §-a iktatta be.

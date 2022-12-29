@@ -1,6 +1,6 @@
 2. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^154]
 
-## Felhasználói engedélyes által vezetett nyilvántartás adattartalma
+Felhasználói engedélyes által vezetett nyilvántartás adattartalma
 
 1. Termék
 

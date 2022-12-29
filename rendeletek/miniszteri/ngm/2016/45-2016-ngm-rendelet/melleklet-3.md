@@ -1,6 +1,6 @@
 3. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^155]
 
-## Jövedéki engedélyes kereskedői nyilvántartás és a belőle teljesítendő adatszolgáltatás adattartalma (jövedéki termékenként)
+Jövedéki engedélyes kereskedői nyilvántartás és a belőle teljesítendő adatszolgáltatás adattartalma (jövedéki termékenként)
 
 A „*” jelzéssel ellátott adatokról kell adatszolgáltatást teljesíteni.
 
@@ -38,7 +38,7 @@ Ha egy pont jelzéssel van megjelölve, valamennyi alszámos bontására is vona
 
 4.5.1. adóköteles többlet
 
-4.5.2. nem adóköteles többlet
+4.5.2. nemadóköteles többlet
 
 4.6. Egyéb készletnövekedés
 

@@ -1,6 +1,6 @@
 6. melléklet a 45/2016. (XI. 29.) NGM rendelethez
 
-## A légiutas-ellátási tevékenységet végző személy által vezetendő nyilvántartás adattartalma
+A légiutas-ellátási tevékenységet végző személy által vezetendő nyilvántartás adattartalma
 
 1. Nyitókészlet
 

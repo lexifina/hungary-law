@@ -22,7 +22,7 @@ d) a (3) bekezdés c)–d) pontja szerinti nem jövedéki termékkészlet és
 
 e) zárjegykészlet
 
-## [az a)–e) pontok e rendelet alkalmazásában együtt adóraktári készlettípusok].
+[az a)–e) pontok e rendelet alkalmazásában együtt adóraktári készlettípusok].
 
 (2)[^26] Az adóraktár engedélyese a jövedéki termék mennyiségéről telephelyenként és adóraktári készlettípusonként vezetett, az 1. melléklet szerinti adatokat tartalmazó nyilvántartást – a gyártási hulladék, a Jöt. 3. § (3) bekezdés 22. pontja szerinti sörnek minősülő, erjesztést követően előállított még nem késztermék és az aroma kivételével – a jövedéki adó alapjául meghatározott mértékegységben, az energiaterméknél legalább három tizedesjegy, az üzemanyagok adaléka esetében legalább négy tizedesjegy, az alkoholterméknél legalább négy tizedesjegy, a sör, az egyéb csendes és habzó erjesztett ital, a habzóbor és a köztes alkoholtermék esetében legalább két tizedesjegy pontossággal vezeti.
 

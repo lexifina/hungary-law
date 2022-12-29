@@ -1,6 +1,6 @@
 7. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^160]
 
-## Termék tulajdonságaiból adódó elismert mennyiségű hiány
+Termék tulajdonságaiból adódó elismert mennyiségű hiány
 
 1. Tárolás
 

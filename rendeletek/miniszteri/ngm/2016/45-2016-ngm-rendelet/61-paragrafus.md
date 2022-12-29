@@ -1,5 +1,3 @@
-## igazolja.
-
 ## 23. Elismert mennyiségű hiány, többlet
 
 61. § (1)[^79] A Jöt. 9. § (4) bekezdés b) pontja szerinti elismert mennyiségű hiány a tényleges hiánynak legfeljebb a 7. mellékletben meghatározott mértéke.

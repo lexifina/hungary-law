@@ -1,6 +1,6 @@
 11. melléklet a 45/2016. (XI. 29.) NGM rendelethez
 
-## Jelölt gázolaj adófizetési kötelezettség alóli mentesülést eredményező kiszolgálása és gázolaj utáni adó-visszaigénylés bizonylatának adattartalma
+Jelölt gázolaj adófizetési kötelezettség alóli mentesülést eredményező kiszolgálása és gázolaj utáni adó-visszaigénylés bizonylatának adattartalma
 
 1. Bizonylat sorszáma
 

@@ -10,7 +10,7 @@ a) szúrópróbaszerű, amely teljes körű külső termékvizsgálatból és a 
 
 b) adminisztratív, amely a vezetni rendelt nyilvántartás és a készletbevallás vizsgálatából
 
-## áll.
+áll.
 
 (5) Amennyiben az egyszerűsített ellenőrzés alkalmazása során a készletbevallás és a vezetni rendelt nyilvántartás adatai között bármilyen eltérés tapasztalható, tételes ellenőrzést kell tartani.
 

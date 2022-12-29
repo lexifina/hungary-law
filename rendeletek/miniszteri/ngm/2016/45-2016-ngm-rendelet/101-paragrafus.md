@@ -4,7 +4,7 @@ a) az Európai Unió területén előállított alapanyagból gyártott és a fe
 
 b) ettől eltérő termék
 
-## bontásban kell szerepeltetnie, elkülönített tárolást azonban nem kell alkalmaznia.
+bontásban kell szerepeltetnie, elkülönített tárolást azonban nem kell alkalmaznia.
 
 (2) Az adóraktár engedélyese a bioetanol célra előállított 2207 10 00 KN-kódú, legalább 99 térfogatszázalék etil-alkohol-tartalmú alkoholtermék gyártásához felhasznált alapanyag fajtájáról és az Európai Unió területén történt előállításáról alkoholtermék- és bioetanol-szállítmányonként nyilatkozatot állít ki az E85 terméket előállító adóraktár engedélyese számára, és azt, valamint a fenntarthatósági igazolást, továbbá – bioetanol szállítása esetén – az alkoholtermék denaturálásáról felvett jegyzőkönyv másolatát átadja a beszerző adóraktár engedélyese részére.
 

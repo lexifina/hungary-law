@@ -1,6 +1,6 @@
 9. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^161]
 
-## Jegyzőkönyv csővezetéken szállított energiatermék átadásáról-átvételéről
+Jegyzőkönyv csővezetéken szállított energiatermék átadásáról-átvételéről
 
 1. Az átadó vagy feladó
 

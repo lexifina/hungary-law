@@ -1,5 +1,3 @@
-## 7. §[^13]
-
 ## 3. Jövedéki biztosíték
 
 8. § (1) A jövedéki biztosíték összegének elfogadását vagy módosítását az állami adó- és vámhatóság internetes honlapján közzétett nyomtatványon kell kérelmezni.
@@ -40,5 +38,4 @@ e) a (6) bekezdés szerinti kötelezettségvállalást.
 
 (14) A kezességvállalás alapján elkülönített biztosítékösszeg felszabadításáról az állami adó- és vámhatóság elektronikus értesítést küld a kezességvállaló részére.
 
-[^13]: A 7. §-t a 47/2017. (XII. 27.) NGM rendelet 14. § 3. pontja hatályon kívül helyezte.
 [^14]: A 8. § (13) bekezdése az 5/2017. (III. 30.) NGM rendelet 32. § a) pontja alapján nem lép hatályba.

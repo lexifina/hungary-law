@@ -10,7 +10,7 @@ a) e-TKO esetében az AHK-szám,
 
 b) üzemszünet alatt kiállított okmány esetében a feladó által az okmányhoz rendelt helyi hivatkozási szám
 
-## azonosítja az okmányt.
+azonosítja az okmányt.
 
 (2) Az e-TKO tervezetében kiegészítő adatként meg kell adni
 

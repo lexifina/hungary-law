@@ -1,5 +1,3 @@
-## 50. §
-
 ## 18. Kötelező érvényű KN-kód besorolás
 
 51. § (1) A kötelező érvényű KN-kód besorolás iránti kérelem a 12. mellékletben meghatározott adattartalmú, az állami adó- és vámhatóság által rendszeresített nyomtatványon nyújtható be.

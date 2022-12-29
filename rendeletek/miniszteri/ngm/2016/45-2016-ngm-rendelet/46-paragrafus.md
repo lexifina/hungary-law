@@ -14,7 +14,7 @@ bc) a hitelesített szállítótartályban mért térfogat és a tényleges alko
 
 bd) nem hitelesített tartály alkalmazása esetén a töltéshez használt hitelesített átfolyásmérőn mért térfogat – figyelembe véve a méréskori hőmérsékletet – és a tényleges alkoholtartalom alapján
 
-## kell megállapítani.
+kell megállapítani.
 
 (2) Szeszből hideg úton előállított alkoholtermék mennyiségét
 
@@ -30,7 +30,7 @@ bc) a hitelesített szállítótartályban mért térfogat és a tényleges alko
 
 bd) nem hitelesített tartály alkalmazása esetén a töltéshez használt hitelesített átfolyásmérőn mért térfogat – figyelembe véve a méréskori hőmérsékletet – és a tényleges alkoholtartalom alapján
 
-## kell megállapítani.
+kell megállapítani.
 
 (3) Ha az (1) és (2) bekezdés szerinti esetben a mérőeszköz a mérési eredmény 20 °C hőmérsékletre történő átszámítására nem alkalmas, etil-alkohol és víz elegye mennyiségének mérése esetén a 20 °C hőmérsékletre történő átszámítást a hivatalos szeszátszámítási táblázatok alkalmazásával kell elvégezni.
 

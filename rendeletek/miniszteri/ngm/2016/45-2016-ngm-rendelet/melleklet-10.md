@@ -1,6 +1,6 @@
 10. melléklet a 45/2016. (XI. 29.) NGM rendelethez
 
-## Repülőgép-üzemanyag adófizetési kötelezettség alóli mentesülést eredményező kiszolgálása és repülőgép-üzemanyag utáni adó-visszaigénylés bizonylatának adattartalma
+Repülőgép-üzemanyag adófizetési kötelezettség alóli mentesülést eredményező kiszolgálása és repülőgép-üzemanyag utáni adó-visszaigénylés bizonylatának adattartalma
 
 1. Bizonylat sorszáma
 

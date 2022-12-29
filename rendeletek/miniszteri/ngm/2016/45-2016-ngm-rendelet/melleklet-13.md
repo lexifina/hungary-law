@@ -1,6 +1,6 @@
 13. melléklet a 45/2016. (XI. 29.) NGM rendelethez[^162]
 
-## Jövedéki engedélyes kereskedő és jövedéki kiskereskedő által forgalmazható üzemanyag minőségi követelményei
+Jövedéki engedélyes kereskedő és jövedéki kiskereskedő által forgalmazható üzemanyag minőségi követelményei
 
 1. Benzin
 
@@ -376,6 +376,8 @@
 
 2.1. A dízelgépjármű-hajtóanyag általánosan érvényes követelményei és vizsgálati módszerei
 
+## 7K35985N_7
+
 |  | A | B | C | D | E |
 
 | 1. | A dízelgépjármű-hajtóanyag általánosan érvényes követelményei és vizsgálati módszerei |
@@ -475,6 +477,8 @@
 3.1. 2710 12 31 KN-kód szerinti repülőbenzin
 
 3.1.1. A repülőbenzinek minőségi követelményei és vizsgálati módszerei
+
+## 7K35985N_9
 
 |  | A | B | C | D | E | F | G |
 
@@ -886,6 +890,8 @@
 
 6.1. LPG üzemanyag minőségi követelményei és vizsgálati módszerei
 
+## 7K35985N_18
+
 |  | A | B | C | D | E |
 
 | 1. | LPG üzemanyag minőségi követelményei és vizsgálati módszerei |
@@ -938,30 +944,8 @@
 
 | 19. | Vitás esetben, ha egy paraméterhez több vizsgálati módszer van megadva, és van aláhúzással jelölt (döntő) módszer, akkor azt kell alkalmazni. |
 
-Üzemeltetés szempontjából legfeljebb 2000 mg/kg metanol hozzáadása megengedett.
+## Üzemeltetés szempontjából legfeljebb 2000 mg/kg metanol hozzáadása megengedett.
 
 6.2. Évszakhoz kötött gőznyomás- (túlnyomás-) határértékek 40 °C-on
-
-|  | A | B | C |
-
-| 1. | Évszakhoz kötött gőznyomás- (túlnyomás-) határértékek 40 °C-on |
-
-| 2. | Fokozat | Legalább | 150 kPa-nak megfelelő hőmérséklet |
-
-| kPa |
-
-| 3. | A | 950 | -10 |
-
-| 4. | B | 800 | -5 |
-
-| 5. | C | 700 | 0 |
-
-| 6. | D | 500 | 10 |
-
-| 7. | E | 275 | 20 |
-
-| 8. | november 15-től február utolsó napjáig: B fokozat |
-
-| 9. | március 1-jétől november 14-ig: E fokozat |
 
 [^162]: A 13. melléklet az 5/2017. (III. 30.) NGM rendelet 31. § (5) bekezdése, a 47/2017. (XII. 27.) NGM rendelet 12. § (3) bekezdése szerint módosított szöveg.

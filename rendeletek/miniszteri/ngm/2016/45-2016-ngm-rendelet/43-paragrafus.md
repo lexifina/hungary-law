@@ -20,13 +20,15 @@ ae)[^63] a Jöt. 72. § (3) bekezdése szerinti adatszolgáltatás,
 
 af)[^64] az 58. § szerinti bizonylat
 
-## megküldése,
+megküldése,
 
 b) az állami adó- és vámhatóság által biztosított információs rendszeren keresztül intézhető
 
 ba) az a) pont alá tartozó, vagy
 
 bb) az elektronikusan intézhető, a) pont alá nem tartozó egyéb
+
+jövedéki ügyek.
 
 [^61]: A 43. § a) pont ab) alpontja az 5/2017. (III. 30.) NGM rendelet 14. §-ával megállapított szöveg.
 [^62]: A 43. § a) pont ac) alpontja az 5/2017. (III. 30.) NGM rendelet 14. §-ával megállapított szöveg.

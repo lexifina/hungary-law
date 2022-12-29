@@ -1,6 +1,6 @@
 12. melléklet a 45/2016. (XI. 29.) NGM rendelethez
 
-## Kötelező érvényű KN-kód besorolás iránti kérelem adattartalma
+Kötelező érvényű KN-kód besorolás iránti kérelem adattartalma
 
 1. Kérelmező
 

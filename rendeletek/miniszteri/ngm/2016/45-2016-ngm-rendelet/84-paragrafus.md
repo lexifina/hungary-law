@@ -6,7 +6,7 @@ b)[^103] a Jöt. 117. § (1) bekezdés b) pontja szerinti mezőgazdasági termel
 
 c) a Jöt. 117. § (1) bekezdés c) pontja szerinti mezőgazdasági termelő vonatkozásában a halastóra kiadott – a halastó területi adatait is tartalmazó – vízjogi üzemeltetési engedély meglétét és a halgazdálkodási tevékenység folytatását illetően a halastó vízjogi üzemeltetési engedélyét kibocsátó, területileg illetékes vízügyi hatóság (a továbbiakban: vízügyi hatóság)
 
-## által a munkaműveletek elvégzésének igazolásául – az állami adó- és vámhatóság elektronikus úton megküldött megkeresésére – rendelkezésre bocsátott információk alapján vizsgálja.
+által a munkaműveletek elvégzésének igazolásául – az állami adó- és vámhatóság elektronikus úton megküldött megkeresésére – rendelkezésre bocsátott információk alapján vizsgálja.
 
 (2)[^104] A NAK és a vízügyi hatóság a mezőgazdasági munka elvégzésének igazolása céljából a mezőgazdaságilag meg nem munkált termőföldterületekről, halastóterületekről nyilvántartást vezet, amely nyilvántartásból szolgáltatja az (1) bekezdés a) és c) pontja szerinti információkat az állami adó- és vámhatóság részére. Amennyiben a nyilvántartás nem tartalmazza az állami adó- és vámhatóság megkeresésével érintett termőföldterületet vagy annak egy részét, úgy a nyilvántartásban nem szereplő termőföldterületet a jövedékiadó-visszatérítés szempontjából megmunkáltnak kell tekinteni, kivéve, ha ennek ellenkezője hitelt érdemlően a hatóság tudomására jutott.
 

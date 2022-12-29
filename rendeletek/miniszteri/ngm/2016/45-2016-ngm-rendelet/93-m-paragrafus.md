@@ -8,7 +8,7 @@ a) az 5000 db/óra kapacitás alatti csomagológéppel történő zárjegyfelhel
 
 b) az 5000 db/óra kapacitást elérő csomagológéppel történő zárjegyfelhelyezés esetén 0,75%-a
 
-## számolható el a zárjegykészlet igazolt csökkenéseként.
+számolható el a zárjegykészlet igazolt csökkenéseként.
 
 (3a)[^119] Dohánygyártmány esetében a zárjegykészlet igazolt csökkenéseként a (3) bekezdés szerint elszámolható mennyiséget az elszámolási időszakban termék-előállításhoz felhasznált dohánygyártmány zárjegy mennyiségéhez (darabszámhoz) képest kell megállapítani függetlenül azok fajtájától (típusaitól).
 

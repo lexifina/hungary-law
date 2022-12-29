@@ -6,7 +6,7 @@ a) a Magyar Honvédség (a továbbiakban: MH) kötelékébe tartozó légijárm�
 
 b) az Észak-atlanti Szerződés részes államainak és az 1995. évi CII. törvényben kihirdetett Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői kötelékébe tartozó légijárműbe történő kiszolgálását a kölcsönös logisztikai segítségnyújtás NATO szabványos előírásairól szóló STANAG 2034 „ANNEX A” melléklet szerinti, szabályszerűen kitöltött feltöltési bizonylattal
 
-## dokumentálva számolja el.
+dokumentálva számolja el.
 
 (2) A Jöt. 112. § (1) bekezdés a) pontja szerinti felhasználás esetén a rendőrség adóraktári engedéllyel rendelkező szervezeti egysége a repülőgép-üzemanyagnak a rendőrség kötelékébe tartozó légijárműbe történő kiszolgálását a rendőrség vonatkozó belső rendelkezéseinek és a vonatkozó jövedéki előírásoknak megfelelően kiállított számviteli bizonylattal dokumentálva számolja el.
 

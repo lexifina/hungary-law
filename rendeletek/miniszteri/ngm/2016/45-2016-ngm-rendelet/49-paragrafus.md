@@ -1,5 +1,3 @@
-## 48. §[^70]
-
 ## 16. Szemledíj, költségtérítés
 
 49. § (1) A Jöt. 85. §-a szerinti szemledíj összege szemlekérelmenként 5000 forint. A szemledíj készpénzben is megfizethető, melyről az állami adó- és vámhatóság nyugtát állít ki. A szemledíjat az köteles megfizetni, aki az eljárást kérelmezte.
@@ -22,7 +20,6 @@
 
 (10)[^74] A lefoglalt dolognak az állami adó- és vámhatóság által üzemeltetett raktárban történt tárolásáért – a Jöt. 102. § (4) bekezdése szerinti esetben és időszakra – megkezdett naponként és 10 kilogrammonként 220 forint tárolási költséget kell fizetni.
 
-[^70]: A 48. §-t a 47/2017. (XII. 27.) NGM rendelet 14. § 13. pontja hatályon kívül helyezte.
 [^71]: A 49. § (5) bekezdése a 15/2018. (XII. 18.) PM rendelet 7. § 4. pontja szerint módosított szöveg.
 [^72]: A 49. § (6) bekezdése az 5/2017. (III. 30.) NGM rendelet 15. §-ával megállapított szöveg.
 [^73]: A 49. § (7) bekezdése a 47/2017. (XII. 27.) NGM rendelet 6. §-ával megállapított szöveg.

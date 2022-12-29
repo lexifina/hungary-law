@@ -10,7 +10,7 @@ d) a 17. §-ban és
 
 e) a 21–22. §-ban
 
-## meghatározott követelményeket.
+meghatározott követelményeket.
 
 (2) Az (1) bekezdés szerinti adóraktár engedélyese esetében
 

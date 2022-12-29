@@ -28,7 +28,7 @@ ec) harmadik országba kiszállított,
 
 ed) más telephelyre kiszállított,
 
-## fel nem használt zárjegy mennyiségét (zárókészlet);
+fel nem használt zárjegy mennyiségét (zárókészlet);
 
 f) az elszámolási időszakban keletkezett zárjegyhiányt.
 
