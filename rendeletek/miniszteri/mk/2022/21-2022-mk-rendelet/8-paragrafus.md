@@ -1,0 +1,1 @@
+8. § Hatályát veszti a Terrorelhárítási Információs és Bűnügyi Elemző Központ és az utasadat szolgáltatója közötti kapcsolattartás, valamint az adatátadás módjának szabályozásáról szóló 28/2016. (VII. 15.) BM rendelet.
