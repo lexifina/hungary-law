@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-259-20-
 | 2022-11-01 | 2022-259-20-22.7 | 2022. évi VI. törvény |
 | 2022-11-22 | 2022-259-20-22.8 | 470/2022. (XI. 21.) Korm. rendelet |
 | 2022-12-13 | 2022-259-20-22.9 | 520/2022. (XII. 13.) Korm. rendelet |
+| 2022-12-29 | 2022-259-20-22.10 | 584/2022. (XII. 28.) Korm. rendelet |
