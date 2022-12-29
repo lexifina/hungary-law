@@ -1,0 +1,1 @@
+7. § Az Országgyűlés jóváhagyja, hogy az államháztartásért felelős miniszter – a Gst. 11. § (1) bekezdésében foglalt felhatalmazás alapján – a Kincstári Egységes Számla folyamatos likviditása érdekében 489 000,0 millió forint összegű devizakötvény kibocsátást hajtott végre és 1 253 905,6 millió forint összeggel csökkentette a kincstárjegyek állományát.
