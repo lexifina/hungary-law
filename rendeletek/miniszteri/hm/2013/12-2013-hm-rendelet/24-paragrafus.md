@@ -1,10 +1,10 @@
-## 23. §[^73] Avatási segélyre jogosult altiszti állományba vételekor a honvéd altiszt-jelölt. Az avatási segély összege a felszámítási alap 48%-a, amelyet az avatást megelőző napon kell kifizetni.
+## 23. §[^78] Avatási segélyre jogosult altiszti állományba vételekor a honvéd altiszt-jelölt. Az avatási segély összege a felszámítási alap 48%-a, amelyet az avatást megelőző napon kell kifizetni.
 
 ## 13. Nyugállományúak egyszeri pénzbeli támogatása
 
 24. § (1) Egy alkalommal, kérelemre egyszeri pénzbeli támogatás nyújtható annak a nyugállományú katonának, akinek szociális helyzete és egészségi állapota alapján idősek otthonában történő ellátása indokolt, és erről maga gondoskodik.
 
-(2)[^74] Az egyszeri pénzbeli támogatás mértéke az idősek otthona által megállapított egyszeri hozzájárulás 70%-a, de legfeljebb a felszámítási alap hatvanszorosa.
+(2)[^79] Az egyszeri pénzbeli támogatás mértéke az idősek otthona által megállapított egyszeri hozzájárulás 70%-a, de legfeljebb a felszámítási alap hatvanszorosa.
 
 (3) A (2) bekezdéstől eltérően az idősek otthona által megállapított egyszeri hozzájárulás teljes mértékben átvállalható, ha a bérlő a HM rendelkezésű lakás bérletét közös megegyezéssel megszünteti és kiürítési térítésben nem részesül.
 
@@ -28,8 +28,8 @@ d) az életkorát, valamint
 
 e) a katonai érdemeinek felsorolását.
 
-(6)[^75] Az egyszeri pénzbeli támogatás mértékéről vagy a kérelem elutasításáról szakértői munkacsoport javaslata alapján az MH központi személyügyi szervének vezetője dönt. Az egyszeri támogatás igénybevételéről a nyugállományú katona, a HM pénzügyi feladatokat ellátó központi szervezete és az idősek otthona megállapodást köt, amelyet az MH központi személyügyi szervének vezetője, valamint a HM vagyonfelügyeleti feladatokat ellátó szervének vezetője záradékkal lát el.
+(6)[^80] Az egyszeri pénzbeli támogatás mértékéről vagy a kérelem elutasításáról szakértői munkacsoport javaslata alapján az MH központi személyügyi szervének vezetője dönt. Az egyszeri támogatás igénybevételéről a nyugállományú katona, a HM pénzügyi feladatokat ellátó központi szervezete és az idősek otthona megállapodást köt, amelyet az MH központi személyügyi szervének vezetője, valamint a HM vagyonfelügyeleti feladatokat ellátó szervének vezetője záradékkal lát el.
 
-[^73]: A 23. § a 6/2015. (VI. 22.) HM rendelet 2. § a) pontja, a 12/2018. (VII. 27.) HM rendelet 32. § j) pontja, a 7/2022. (IV. 14.) HM rendelet 13. § d) pontja szerint módosított szöveg.
-[^74]: A 24. § (2) bekezdése a 6/2015. (VI. 22.) HM rendelet 2. § c) pontja, a 12/2018. (VII. 27.) HM rendelet 32. § k) pontja szerint módosított szöveg.
-[^75]: A 24. § (6) bekezdése a 17/2020. (XII. 12.) HM rendelet 12. §-ával megállapított szöveg.
+[^78]: A 23. § a 6/2015. (VI. 22.) HM rendelet 2. § a) pontja, a 12/2018. (VII. 27.) HM rendelet 32. § j) pontja, a 7/2022. (IV. 14.) HM rendelet 13. § d) pontja szerint módosított szöveg.
+[^79]: A 24. § (2) bekezdése a 6/2015. (VI. 22.) HM rendelet 2. § c) pontja, a 12/2018. (VII. 27.) HM rendelet 32. § k) pontja szerint módosított szöveg.
+[^80]: A 24. § (6) bekezdése a 17/2020. (XII. 12.) HM rendelet 12. §-ával megállapított szöveg.
