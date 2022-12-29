@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-22-20-1
 | 2019-08-31 | 2016-22-20-15.4 | 9/2019. (VIII. 30.) HM rendelet |
 | 2020-12-13 | 2016-22-20-15.5 | 17/2020. (XII. 12.) HM rendelet |
 | 2022-08-20 | 2016-22-20-15.6 | 7/2022. (IV. 14.) HM rendelet |
+| 2022-12-29 | 2016-22-20-15.7 | 20/2018. (XII. 28.) HM rendelet |
