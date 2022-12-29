@@ -22,23 +22,23 @@ d)[^18]
 
 a) nem az Európai Unió (a továbbiakban: EU), az Európai Gazdasági Térség (a továbbiakban: EGT), vagy a Gazdasági Együttműködési és Fejlesztési Szervezet tagállamában, vagy nem olyan államban rendelkezik adóilletőséggel, mellyel Magyarországnak kettős adózás elkerüléséről szóló egyezménye van;
 
-b) a 6. § (4) bekezdés a) pontja szerinti továbbképzések szervezésével és lebonyolításával kapcsolatban megszerzett jövedelme az EU-, EGT-tagállamon kívüli adóilletősége szerinti országban kedvezményesebben adózna – figyelembe véve a jövedelemre kifizetett végleges, adó-visszatérítések után kifizetett adót -, mint ahogy a gazdasági szereplő az adott országból származó belföldi forrású jövedelme után adózna;
+b)[^19] a 6. § (4) bekezdése szerinti továbbképzések szervezésével és lebonyolításával kapcsolatban megszerzett jövedelme az EU-, EGT-tagállamon kívüli adóilletősége szerinti országban kedvezményesebben adózna – figyelembe véve a jövedelemre kifizetett végleges, adó-visszatérítések után kifizetett adót -, mint ahogy a gazdasági szereplő az adott országból származó belföldi forrású jövedelme után adózna;
 
 c) olyan nem szabályozott tőzsdén jegyzett társaság, amelynek a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 3. § 38. pontja szerinti tényleges tulajdonosa nem megismerhető; vagy
 
 d) szervezetben közvetetten vagy közvetlenül több mint 25%-os tulajdoni résszel vagy szavazati joggal rendelkezik olyan jogi személy vagy jogi személyiség nélküli szervezet, amelynek tekintetében az a)–c) pontokban meghatározott feltételek fennállnak. Ha a több mint 25%-os tulajdoni résszel vagy szavazati hányaddal rendelkező gazdasági társaság társulásként adózik, akkor az ilyen társulás tulajdonos társaságaira vonatkozóan kell a (2) bekezdés a) pontja szerinti feltételt megfelelően alkalmazni.
 
-(3) Az (1) bekezdés d) pontja szerinti szervezetek e minőségükben kizárólag saját tagjaik számára és ingyenesen nyújthatnak kreditpontos továbbképzést.
+(3)[^20]
 
 (4) A továbbképző szervezet az (5) és (6) bekezdés szerinti kreditpont-minősítési kérelmet a nyilvántartásba vételt végző szervezethez az egységes Kormányzati Portálon közzétett tájékoztatóban foglaltak szerint elektronikus úton nyújthatja be.
 
 (5) A kreditpont-minősítési kérelemnek tartalmaznia kell:
 
-a)[^19] a továbbképző szervezet nevét, székhelyét, levelezési címét, a felnőttképzők nyilvántartásába történő felvétele során képzett nyilvántartásba vételi számát, cégjegyzékszámát, adószámát, honlapjának címét, hivatalos képviselőjének és a továbbképzéssel összefüggő kapcsolattartásra kijelölt személynek vagy oktatásszervezőnek a nevét, beosztását, telefonszámát, elektronikus elérhetőségét, valamint a továbbképző szervezet (1) bekezdés c) vagy d) pontja szerinti típusát,
+a)[^21] a továbbképző szervezet nevét, székhelyét, levelezési címét, a felnőttképzők nyilvántartásába történő felvétele során képzett nyilvántartásba vételi számát, cégjegyzékszámát, adószámát, honlapjának címét, hivatalos képviselőjének és a továbbképzéssel összefüggő kapcsolattartásra kijelölt személynek vagy oktatásszervezőnek a nevét, beosztását, telefonszámát, elektronikus elérhetőségét,
 
 b) a minősítésre benyújtott továbbképzési program címét, szakterületét, a továbbképzés formáját, a továbbképzés időtartamát, az elszámolhatóság kérelmezett időszakát, a továbbképzési program jellegét, a kapcsolódó információs segédanyag bemutatását, a továbbképzésen oktatók név szerinti felsorolását, valamint a továbbképzési program szakmai tartalmának, tematikájának bemutatását legalább 2000, legfeljebb 12000 karakter terjedelemben,
 
-c)[^20] a továbbképző szervezet továbbképzési tevékenységével összefüggésben a továbbképző szervezet szakmai, különös tekintettel a pénzügyi, számviteli vagy adózási oktatási területen folytatott tevékenységének rövid bemutatását legfeljebb 9000 karakter terjedelemben, a továbbképzés lebonyolításához szükséges tárgyi, technikai feltételek és az oktatással kapcsolatos nyilvántartási rendszer leírását, a továbbképző szervezet által az oktatásszervezés területén alkalmazott minőségirányítási rendszer leírását, valamint a továbbképző szervezet (1) bekezdés a) pontja szerinti oktatóinak név szerinti felsorolását és szakmai, oktatási tevékenységük bemutatását,
+c)[^22] a továbbképző szervezet továbbképzési tevékenységével összefüggésben a továbbképző szervezet szakmai, különös tekintettel a pénzügyi, számviteli vagy adózási oktatási területen folytatott tevékenységének rövid bemutatását legfeljebb 9000 karakter terjedelemben, a továbbképzés lebonyolításához szükséges tárgyi, technikai feltételek és az oktatással kapcsolatos nyilvántartási rendszer leírását, a továbbképző szervezet által az oktatásszervezés területén alkalmazott minőségirányítási rendszer leírását, valamint a továbbképző szervezet (1) bekezdés a) pontja szerinti oktatóinak név szerinti felsorolását és szakmai, oktatási tevékenységük bemutatását,
 
 d) ha a kreditpont-minősítési kérelem elektronikus továbbképzési formában megvalósuló továbbképzési program minősítésére irányul, az elektronikus továbbképzés programjához való hozzáférési azonosítót.
 
@@ -54,7 +54,7 @@ d) a továbbképzési program elektronikus továbbképzési formában tervezett 
 
 (7) A továbbképző szervezetnek a kreditpont-minősítési kérelem benyújtásakor igazolnia kell, hogy:
 
-a)[^21] a felnőttképzési törvény szerinti felnőttképző,
+a)[^23] a felnőttképzési törvény szerinti felnőttképző,
 
 b) megfelel a (2) bekezdésben foglalt feltételeknek,
 
@@ -70,7 +70,7 @@ cd) a továbbképző szervezetnél oktatást vállalnak.
 
 (8) A (7) bekezdés c) pontja szerinti feltételeket az adott továbbképzési évben első alkalommal benyújtott kreditpont-minősítési kérelem benyújtása során kell igazolni, amennyiben azok adattartalma az adott továbbképzési év során nem változott, és erről a továbbképző szervezet a továbbképzési év során benyújtott további kreditpont-minősítési kérelemben nyilatkozatot tesz.
 
-(9)[^22] A 6. § (4) bekezdése szerinti akkreditált szervezetnek a kreditpont-minősítési eljárás során az (1) bekezdés a) pontja és c) pont ca) alpontja, az (5) bekezdés c) pontja és a (7) bekezdés a) és b) pontja szerinti feltételeket nem kell igazolnia.
+(9)[^24] A 6. § (4) bekezdése szerinti akkreditált szervezetnek a kreditpont-minősítési eljárás során az (1) bekezdés a) pontja és c) pont ca) alpontja, az (5) bekezdés c) pontja és a (7) bekezdés a) és b) pontja szerinti feltételeket nem kell igazolnia.
 
 [^13]: A 7/A. §-t a 719/2021. (XII. 20.) Korm. rendelet 11. §-a iktatta be.
 [^14]: A 8. § (1) bekezdés b) pontját a 616/2020. (XII. 21.) Korm. rendelet 26. § 1. pontja hatályon kívül helyezte, újonnan a 719/2021. (XII. 20.) Korm. rendelet 12. § (1) bekezdése iktatta be.
@@ -78,7 +78,9 @@ cd) a továbbképző szervezetnél oktatást vállalnak.
 [^16]: A 8. § (1) bekezdés c) pont cb) alpontját a 616/2020. (XII. 21.) Korm. rendelet 26. § 2. pontja hatályon kívül helyezte, újonnan a 719/2021. (XII. 20.) Korm. rendelet 12. § (2) bekezdése iktatta be.
 [^17]: A 8. § (1) bekezdés c) pont cd) alpontja a 616/2020. (XII. 21.) Korm. rendelet 25. § 2. pontja szerint módosított szöveg.
 [^18]: A 8. § (1) bekezdés d) pontját a 616/2020. (XII. 21.) Korm. rendelet 26. § 3. pontja hatályon kívül helyezte.
-[^19]: A 8. § (5) bekezdés a) pontja a 616/2020. (XII. 21.) Korm. rendelet 25. § 3. pontja szerint módosított szöveg.
-[^20]: A 8. § (5) bekezdés c) pontja a 719/2021. (XII. 20.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^21]: A 8. § (7) bekezdés a) pontja a 616/2020. (XII. 21.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^22]: A 8. § (9) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 29. §-a iktatta be, szövege a 616/2020. (XII. 21.) Korm. rendelet 25. § 4. pontja szerint módosított szöveg.
+[^19]: A 8. § (2) bekezdés b) pontja a 603/2022. (XII. 28.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg.
+[^20]: A 8. § (3) bekezdését a 603/2022. (XII. 28.) Korm. rendelet 16. § (2) bekezdés 1. pontja hatályon kívül helyezte.
+[^21]: A 8. § (5) bekezdés a) pontja a 616/2020. (XII. 21.) Korm. rendelet 25. § 3. pontja, a 603/2022. (XII. 28.) Korm. rendelet 16. § (2) bekezdés 2. pontja szerint módosított szöveg.
+[^22]: A 8. § (5) bekezdés c) pontja a 719/2021. (XII. 20.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^23]: A 8. § (7) bekezdés a) pontja a 616/2020. (XII. 21.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^24]: A 8. § (9) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 29. §-a iktatta be, szövege a 616/2020. (XII. 21.) Korm. rendelet 25. § 4. pontja szerint módosított szöveg.

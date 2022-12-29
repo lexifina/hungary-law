@@ -1,14 +1,12 @@
-## 16. §[^33]
-
 1. melléklet a 263/2018. (XII. 20.) Korm. rendelethez
 
-## Az adótanácsadói, az adószakértői és az okleveles adószakértői igazolvány tartalmi követelményei
+Az adótanácsadói, az adószakértői és az okleveles adószakértői igazolvány tartalmi követelményei
 
 Az adótanácsadói, az adószakértői és az okleveles adószakértői igazolvány az alábbi adatokat tartalmazza:
 
 1. Kibocsátó szervezet megnevezése: „Pénzügyminisztérium”
 
-2. Igazolvány megnevezése: „Adótanácsadói/adószakértői/okleveles adószakértői[^34] igazolvány”
+2. Igazolvány megnevezése: „Adótanácsadói/adószakértői/okleveles adószakértői[^36] igazolvány”
 
 3. Nyilvántartási szám
 
@@ -32,5 +30,4 @@ Az adótanácsadói, az adószakértői és az okleveles adószakértői igazolv
 
 10. Kibocsátó aláírása, bélyegzője
 
-[^33]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^34]: A nyilvántartásba vett szakterületnek megfelelő megnevezést kell feltüntetni.
+[^36]: A nyilvántartásba vett szakterületnek megfelelő megnevezést kell feltüntetni.
