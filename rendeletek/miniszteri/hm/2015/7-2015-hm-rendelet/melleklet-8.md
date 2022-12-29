@@ -250,6 +250,6 @@
 
 | 125. | 5.7. Munkavezető, foglalkozásvezető | kiemelt főtiszt, egészségügyi főtiszt, főtiszt, egészségügyi tiszt, tiszt, beosztott tiszt |
 
-8. melléklet a 7/2015. (VI. 22.) HM rendelethez[^245]
+8. melléklet a 7/2015. (VI. 22.) HM rendelethez[^249]
 
-[^245]: A 8. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § a) pontja iktatta be, hatályon kívül helyezte a 7/2022. (IV. 14.) HM rendelet 27. §-a.
+[^249]: A 8. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § a) pontja iktatta be, hatályon kívül helyezte a 7/2022. (IV. 14.) HM rendelet 27. §-a.

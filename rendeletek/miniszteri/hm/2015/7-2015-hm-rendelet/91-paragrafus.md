@@ -1,6 +1,6 @@
-91. §[^213] (1) E rendeletnek a Módr.-rel megállapított 35. § (1) bekezdés a) pont ab) alpontját és b) pontját 2016. január 1-jétől kell alkalmazni.
+91. §[^217] (1) E rendeletnek a Módr.-rel megállapított 35. § (1) bekezdés a) pont ab) alpontját és b) pontját 2016. január 1-jétől kell alkalmazni.
 
-(2) Az állomány (1) bekezdés alapján fokozott igénybevételi pótlékra jogosult tagja részére a 2016. január 1-jétől a Módr. hatálybalépéséig[^214] esedékes – ki nem fizetett – fokozott igénybevételi pótlékot legkésőbb a Módr. hatálybalépését követő hónapra járó illetménnyel együtt kell kifizetni.
+(2) Az állomány (1) bekezdés alapján fokozott igénybevételi pótlékra jogosult tagja részére a 2016. január 1-jétől a Módr. hatálybalépéséig[^218] esedékes – ki nem fizetett – fokozott igénybevételi pótlékot legkésőbb a Módr. hatálybalépését követő hónapra járó illetménnyel együtt kell kifizetni.
 
-[^213]: A 91. §-t a 9/2016. (VI. 29.) HM rendelet 19. §-a iktatta be.
-[^214]: A hatálybalépés időpontja 2016. július 1.
+[^217]: A 91. §-t a 9/2016. (VI. 29.) HM rendelet 19. §-a iktatta be.
+[^218]: A hatálybalépés időpontja 2016. július 1.

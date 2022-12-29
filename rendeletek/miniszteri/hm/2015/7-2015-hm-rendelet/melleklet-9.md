@@ -1,4 +1,4 @@
-9. melléklet a 7/2015. (VI. 22.) HM rendelethez[^246]
+9. melléklet a 7/2015. (VI. 22.) HM rendelethez[^250]
 
 A honvéd altiszt-jelölt ösztöndíja
 
@@ -40,4 +40,4 @@ III. Tanulmányi pótlék szorzószáma havonta, a honvéd altiszt-jelölt előz
 
 IV. Egyéb pótlék a honvédelmi illetményalap százalékában
 
-[^246]: A 9. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § b) pontja iktatta be.
+[^250]: A 9. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § b) pontja iktatta be.

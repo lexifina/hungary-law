@@ -2,7 +2,7 @@
 
 ## 41. A szerződés-hosszabbítási díj
 
-65. §[^161] (1) A szerződés-hosszabbítási díj összegét a szerződés-hosszabbítást megelőző szerződésben vállalt szolgálati idő utolsó napján érvényes távolléti díj alapján kell kiszámítani.
+65. §[^165] (1) A szerződés-hosszabbítási díj összegét a szerződés-hosszabbítást megelőző szerződésben vállalt szolgálati idő utolsó napján érvényes távolléti díj alapján kell kiszámítani.
 
 (2) A szerződés-hosszabbítási díjat
 
@@ -12,4 +12,4 @@ b) a Hjt. 73. § (6) bekezdése szerinti esetben a megszűnő hivatásos szolgá
 
 utolsó napjáig kell visszafizetni.
 
-[^161]: A 65. § a 10/2017. (VIII. 31.) HM rendelet 66. §-ával megállapított szöveg.
+[^165]: A 65. § a 10/2017. (VIII. 31.) HM rendelet 66. §-ával megállapított szöveg.
