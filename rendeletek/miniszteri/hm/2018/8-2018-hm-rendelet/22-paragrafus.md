@@ -4,7 +4,7 @@
 
 a) a külföldi szolgálat megkezdésétől a lakóingatlan átvételének napjáig, de legfeljebb a kiutazástól számított 31 napra, és
 
-b)[^48] szükség esetén a külföldi szolgálat befejezésekor, a kiköltözés feladatainak végrehajtása érdekében a lakásbérleti szerződés megszűnésétől vagy a bérleti szerződés megszűnése előtt a lakóingatlan állomány tagja általi indokolt elhagyásától a végleges hazautazásig terjedő időre, de legfeljebb a bérleti szerződés megszűnésétől vagy a bérleti szerződés megszűnése előtt a lakóingatlan indokolt elhagyásától számított 15 napra azzal, hogy az ideiglenes elhelyezés időtartamára az állomány tagja részére lakhatási átalány-költségtérítés és vegyes átalány-költségtérítés nem folyósítható.
+b)[^52] szükség esetén a külföldi szolgálat befejezésekor, a kiköltözés feladatainak végrehajtása érdekében a lakásbérleti szerződés megszűnésétől vagy a bérleti szerződés megszűnése előtt a lakóingatlan állomány tagja általi indokolt elhagyásától a végleges hazautazásig terjedő időre, de legfeljebb a bérleti szerződés megszűnésétől vagy a bérleti szerződés megszűnése előtt a lakóingatlan indokolt elhagyásától számított 15 napra azzal, hogy az ideiglenes elhelyezés időtartamára az állomány tagja részére lakhatási átalány-költségtérítés és vegyes átalány-költségtérítés nem folyósítható.
 
 (2) Az (1) bekezdéstől eltérően az illetékes logisztikai ellátó szerv vezetője indokolt esetben, a szociális, illetve gazdaságossági szempontok figyelembevételével az állomány tagja kérelmére engedélyezheti az ideiglenes elhelyezés
 
@@ -14,4 +14,4 @@ b) folyamatos felügyeletre szoruló, családi átalány-költségtérítésre j
 
 (3) A Honvédség az ideiglenes elhelyezés biztosítása esetén az állomány tagja kiutazása előtt gondoskodik az ideiglenes elhelyezésként szolgáló szállás lefoglalásáról.
 
-[^48]: A 22. § (1) bekezdése b) pontja a 2/2019. (I. 31.) HM rendelet 37. § 10. pontja szerint módosított szöveg.
+[^52]: A 22. § (1) bekezdése b) pontja a 2/2019. (I. 31.) HM rendelet 37. § 10. pontja szerint módosított szöveg.

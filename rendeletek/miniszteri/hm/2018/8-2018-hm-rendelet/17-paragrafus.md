@@ -20,10 +20,12 @@ d) az első kiutazáskor és a végleges hazautazáskor megállapított szállí
 
 a) a személyi ingóság és a lakásberendezés szállításának költsége, ha a Honvédség a szállításhoz térítésmentesen szállítókapacitást biztosít, és
 
-b) a lakásberendezés szállításának költsége a HM megfelelő hatáskörrel rendelkező szakmai elöljárója, illetve szakmai felettese által – a Hvt. 52. § (2) bekezdése alapján – kiadott szakutasításban foglaltaknak megfelelően berendezett lakóingatlan bérlése vagy a 20. § (2) bekezdés b) pontja esetén.
+b)[^37] a lakásberendezés szállításának költsége a HM megfelelő hatáskörrel rendelkező szakmai elöljárója, illetve szakmai felettese által – a Hvt. 18. § (2) bekezdése alapján – kiadott szakutasításban foglaltaknak megfelelően berendezett lakóingatlan bérlése vagy a 20. § (2) bekezdés b) pontja esetén.
 
 (4) A Honvédség térítésmentes szállítókapacitást a személyiingóság-szállítási és lakásberendezés-szállítási normaösszegek alapját képező súlyhatárokig nyújt. Indokolt esetben az illetékes logisztikai ellátó szerv vezetője a súlyhatárok kétszereséig engedélyezheti a szállítókapacitás bővítését, ha az a Honvédség részére közvetlen többletköltség-kihatással nem jár.
 
 (5) A (2) bekezdésen felül a repülőgépen történő első kiutazás és végleges hazautazás alkalmával a Honvédség terhére a repülőtársaság által személyenként biztosított súlyhatáron felül 20-20 kg, súlyhatár hiányában személyenként összesen 40-40 kg súly számolható el.
 
 (6) Ha a személyi ingóság szállítása konténerrel történik, és a számlázás alapját a szállítótérfogat képezi, a tényleges számla szerinti összeg, legfeljebb azonban a személyi ingóság-szállítási normaösszeg számolható el.
+
+[^37]: A 17. § (3) bekezdés b) pontja a 26/2022. (XII. 28.) HM rendelet 2. § 3. pontja szerint módosított szöveg.

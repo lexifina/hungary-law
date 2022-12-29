@@ -2,7 +2,7 @@
 
 ## 41. Szállás
 
-72. §[^123] (1) Az állomány tagja és családi átalány-költségtérítésre jogosító hozzátartozója elhelyezését elsősorban
+72. §[^127] (1) Az állomány tagja és családi átalány-költségtérítésre jogosító hozzátartozója elhelyezését elsősorban
 
 a) a fogadó fél által rendelkezésre bocsátott szálláson, vagy
 
@@ -28,4 +28,4 @@ b) az (1) bekezdés szerinti esetekben az állomány tagja szolgálati célú te
 
 (8) A (2) és (7) bekezdés szerinti költségek számla vagy a fogadó fél hivatalos igazolása alapján számolhatóak el. A (2), a (6) és a (7) bekezdés szerinti elszámolásnál a 76–77. §-t is figyelembe kell venni.
 
-[^123]: A 72. § a 17/2020. (XII. 12.) HM rendelet 44. §-ával megállapított szöveg.
+[^127]: A 72. § a 17/2020. (XII. 12.) HM rendelet 44. §-ával megállapított szöveg.

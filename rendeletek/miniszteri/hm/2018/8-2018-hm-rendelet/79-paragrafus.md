@@ -6,12 +6,12 @@
 
 79. § (1) A honvéd tisztjelöltre és a honvéd altiszt-jelöltre e rendeletnek az állomány tagjára vonatkozó rendelkezéseit az e Fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
 
-(2)[^133] A honvéd tisztjelölt esetében nem alkalmazható a II., a III., a IV., az V. és a XIII. Fejezet.
+(2)[^137] A honvéd tisztjelölt esetében nem alkalmazható a II., a III., a IV., az V. és a XIII. Fejezet.
 
-(3)[^134] A honvéd altiszt-jelölt esetében nem alkalmazható a II., a III., a IV., az V., a VI. és a XIII. Fejezet.
+(3)[^138] A honvéd altiszt-jelölt esetében nem alkalmazható a II., a III., a IV., az V., a VI. és a XIII. Fejezet.
 
-(4)[^135] Ahol e rendelet az utazási költségtérítésekkel kapcsolatban az állomány tagjának szabadságáról rendelkezik, azon a honvéd tisztjelölt esetében a szolgálatteljesítési és rendelkezésre állási kötelezettség alóli mentesítést kell érteni.
+(4)[^139] Ahol e rendelet az utazási költségtérítésekkel kapcsolatban az állomány tagjának szabadságáról rendelkezik, azon a honvéd tisztjelölt esetében a szolgálatteljesítési és rendelkezésre állási kötelezettség alóli mentesítést kell érteni.
 
-[^133]: A 79. § (2) bekezdése a 7/2022. (IV. 14.) HM rendelet 33. § (1) bekezdésével megállapított szöveg.
-[^134]: A 79. § (3) bekezdését a 7/2022. (IV. 14.) HM rendelet 33. § (2) bekezdése iktatta be.
-[^135]: A 79. § (4) bekezdését a 7/2022. (IV. 14.) HM rendelet 33. § (2) bekezdése iktatta be.
+[^137]: A 79. § (2) bekezdése a 7/2022. (IV. 14.) HM rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^138]: A 79. § (3) bekezdését a 7/2022. (IV. 14.) HM rendelet 33. § (2) bekezdése iktatta be.
+[^139]: A 79. § (4) bekezdését a 7/2022. (IV. 14.) HM rendelet 33. § (2) bekezdése iktatta be.
