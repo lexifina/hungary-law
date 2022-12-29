@@ -1,4 +1,4 @@
-3. §[^3] (1) Az 1. § b) és c) pontja szerinti foglalkoztató szervezetnél
+3. §[^6] (1) Az 1. § b) és c) pontja szerinti foglalkoztató szervezetnél
 
 a) a gazdasági vezető,
 
@@ -32,4 +32,4 @@ b) ha a jogviszony betöltőjét külszolgálatra jelölik vagy helyezik ki.
 
 (3) Az 1. § b) és c) pontja szerinti foglalkoztató szervezetnél a nemzetbiztonsági ellenőrzés kezdeményezésére jogosult kijelöli az Nbtv. 74. § i) pont io) alpontja szerinti jogviszonyt betöltők körét.
 
-[^3]: A 3. § a 2/2022. (I. 27.) KKM rendelet 4. §-ával megállapított szöveg.
+[^6]: A 3. § a 2/2022. (I. 27.) KKM rendelet 4. §-ával megállapított szöveg.
