@@ -1,3 +1,5 @@
 ## 9. A szőlőültetvényeken megvalósuló növényegészségügyi védekezés támogatásáról szóló 9/2016. (II. 15.) FM rendelet módosítása
 
-10. § A szőlőültetvényeken megvalósuló növényegészségügyi védekezés támogatásáról szóló 9/2016. (II. 15.) FM rendelet 3. § (1) bekezdésében a „240 millió forint” szövegrész helyébe a „40 millió forint” szöveg lép.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

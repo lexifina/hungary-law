@@ -1,1 +1,3 @@
-27. § Hatályát veszti a 37/2020. (VII. 10.) AM rendelet 1. § 1. pontja.
+27. §[^28]
+
+[^28]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

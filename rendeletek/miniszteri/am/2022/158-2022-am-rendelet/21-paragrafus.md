@@ -1,1 +1,3 @@
-21. § Hatályát veszti a 41/2019. (VIII. 30.) AM rendelet 6a. alcíme.
+21. §[^22]
+
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

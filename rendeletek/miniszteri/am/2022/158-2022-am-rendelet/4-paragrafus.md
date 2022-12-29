@@ -1,3 +1,5 @@
 ## 4. A mikro-, kis- és középvállalkozások hitelezésének elősegítése érdekében a kezességvállalási díjak költségvetési támogatásáról szóló 94/2013. (X. 10.) VM rendelet módosítása
 
-4. § A mikro-, kis- és középvállalkozások hitelezésének elősegítése érdekében a kezességvállalási díjak költségvetési támogatásáról szóló 94/2013. (X. 10.) VM rendelet 7/F. § (1) bekezdésében a „2022. december 31.” szövegrész helyébe a „2023. december 31.” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

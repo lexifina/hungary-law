@@ -1,1 +1,3 @@
-8. § Hatályát veszti az 54/2014. (IV. 29.) VM rendelet 6a. alcíme.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
