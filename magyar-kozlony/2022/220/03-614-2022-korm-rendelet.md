@@ -1,0 +1,1063 @@
+# A Kormány 614/2022. (XII. 29.) Korm. rendelete
+
+Magyar Közlöny 2022. évi 220. szám, 2022. december 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/QBtX1KkIggzxfEb5vS0s63ab423ce9373/dokumentumok/09e9d8765f6e8986ff869a305f492695e6e30aee/letoltes)
+
+---
+
+A Kormány 614/2022. (XII. 29.) Korm. rendelete
+a honvédelemről és a Magyar Honvédségről szóló törvény egyes rendelkezéseinek végrehajtásáról
+A Kormány
+a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 110. § (1) bekezdés 1., 3., 4., 16–18., 20.,
+22–24. pontjában,
+a 8. és 9. § tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 30. pontjában,
+a 17. § tekintetében a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 111. § c) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+I. Fejezet
+ÁLTALÁNOS RENDELKEZÉSEK
+1. Értelmező rendelkezések
+1. §
+E rendelet alkalmazásában
+1. hibrid fenyegetés: katonai és nem katonai erőknek, eszközöknek, képességeknek vagy eljárásoknak
+komplex és koordinált, egyidejű vagy meghatározott szekvencia szerinti alkalmazása, amely veszélyezteti
+az állampolgárok biztonságát azáltal, hogy állami vagy nem állami intézmények működését, az általuk
+ellátott funkciók, döntéshozatali folyamatok részleges vagy teljes megzavarását, időleges vagy végleges
+megszűnését okozza vagy okozhatja,
+2. honvédelmi igazgatás infokommunikációs rendszere: a K-600/KTIR Hírközlési és Informatikai Rendszer,
+amely a Kormány speciális működési feltételeit, valamint a honvédelmi igazgatás szervei által folytatott
+döntés-előkészítés és döntéshozatal informatikai támogatását biztosító hírközlési és informatikai rendszer,
+3. meghagyási névjegyzék: a meghagyásba bevont szerv megnevezését, meghagyási kategóriáját, székhelyét,
+telephelyét, illetve fióktelepének pontos címét, a meghagyással kapcsolatos feladatok elvégzéséért felelős
+személy nevét és elérhetőségét, a meghagyásra kijelölt munkakörök megnevezését, azonos munkakörök
+mennyiségét és az adott munkakörök közül meghagyásra tervezettek számát, valamint a munkakört betöltő
+hadkötelesnek a honvédelmi adatkezelésekről szóló törvény szerinti adatait tartalmazó jegyzék,
+4. polgári felkészültség: a honvédelemben közreműködő szervek honvédelmi feladatai ellátása körében
+végrehajtott, e rendelet szerinti követelmények teljesítése érdekében végzett tevékenysége, melynek célja
+a katonai műveletek polgári képességekkel történő támogatása.
+II. Fejezet
+A HONVÉDELEM IRÁNYÍTÁSA, A MAGYAR HONVÉDSÉG IRÁNYÍTÁSA ÉS VEZETÉSE
+2. A honvédelemért felelős miniszter feladat- és hatásköre
+2. § (1) A honvédelemért felelős miniszter (a továbbiakban: miniszter) felelős az ország honvédelmére és a válságkezelés
+katonai feladatai végrehajtására, a Magyar Honvédség (a továbbiakban: Honvédség) irányítására és vezetésére,
+továbbá a Honvédség személyi állományára vonatkozó jogszabályok tervezeteinek előkészítéséért. A miniszter
+a honvédelmi szabályozásért viselt felelőssége körében előkészíti különösen
+a) a honvédelemre és a Honvédségre vonatkozó,
+b) a hadiállapot idején, a hadiállapot kihirdetésének Kormány általi kezdeményezését, vagy a honvédelmi
+válsághelyzet elrendelését követően alkalmazható szabályokra vonatkozó,
+c) az egyes honvédelmi kötelezettségek teljesítésére, az azokkal kapcsolatos katonai igazgatási feladatokra
+vonatkozó,
+d) a honvédelmi célú, továbbá a szolgálati viszonnyal összefüggő nyilvántartás vezetésére, adatkezelésre
+vonatkozó,
+e) a szolgálati céllal Magyarországon tartózkodó külföldi fegyveres erők, valamint a Magyarország területén
+felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartására, valamint jogállásukra
+vonatkozó,
+
+f) a honvédek jogállására vonatkozó,
+g) a hadkötelezettek jogállására vonatkozó,
+h) a honvédelmi alkalmazottak jogviszonyára vonatkozó,
+i) a hadigondozásra vonatkozó,
+j) a honvédelmi ágazat államháztartás működési rendjétől eltérő szabályait meghatározó, vagy ahhoz
+kapcsolódó,
+k) a védelmi és biztonsági beszerzésekre, védelmi fejlesztésekre irányadó, továbbá a NATO Biztonsági
+Beruházási Program keretében megvalósuló beszerzésekre vonatkozó,
+l) a honvédelmi szervezetek közegészségügyi-járványügyi, környezetvédelmi, munkavédelmi, sugárvédelmi és
+tűzvédelmi követelményektől eltérő szabályaira vonatkozó és
+m) a honvédelmi ágazatra vonatkozó építési
+jogszabályokat.
+(2) A miniszter az ország honvédelméért – ideértve a válságkezelés katonai feladatai végrehajtását is – viselt felelősségi
+körében
+a) irányítja Magyarország fegyveres védelmi tervének előkészítését, folyamatos korszerűsítését,
+b) engedélyezi a Honvédségnek a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény
+(a továbbiakban: Hvt.) 60. § (2) bekezdésében meghatározott létszámot vagy időtartamot meghaladóan
+a Hvt. 59. §-a szerinti közreműködői feladatok végrehajtására történő igénybevételét,
+c) együttműködik a Magyar Szabványügyi Testülettel és a Kormány érintett tagjaival a katonai szabványok
+kidolgozásában, gondoskodik az egységes védelmi előírások és szabványosítási egyezmények előkészítéséről
+és végrehajtásáról,
+d) irányítja a Honvédség és a Katonai Nemzetbiztonsági Szolgálat által működtetett felderítő rendszert és
+az ezzel összefüggő kormányzati tájékoztatást,
+e) biztosítja a hivatali szervezetek működési sajátosságaiból eredő eltérésekkel a miniszter által vezetett
+minisztériumnak (a továbbiakban: minisztérium) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény
+(a továbbiakban: Kit.) 3. § (7) bekezdés a) és b) pontja szerinti, az általa kijelölt szakmai felsővezetője útján
+a minisztériumban és a miniszter közvetlen alárendeltségébe tartozó szervezeteknél szolgálatot teljesítő
+honvédek vonatkozásában a Honvéd Vezérkar főnöke hatáskörében meghozott szakmai döntések
+érvényesülését,
+f) irányítja a honvédelmi válsághelyzetre történő felkészülést, valamint a honvédelmi válsághelyzetben
+a honvédelmi szervezetek által ellátandó feladatok végrehajtását,
+g) irányítja a katonai és a katonai nemzetbiztonsági kibertér műveleti felkészülést és a kibertér műveleti
+feladatok végrehajtását,
+h) irányítja a honvédelmi létfontosságú rendszerek és létesítmények védelmével kapcsolatos feladatokat,
+valamint előkészíti az ezzel kapcsolatos szabályozókat,
+i) irányítja a befogadó nemzeti támogatással kapcsolatos feladatokat,
+j) irányítja a hibrid fenyegetésekkel szembeni nemzeti ellenálló képességre és védelemre, valamint a polgári
+felkészültségre vonatkozó feladatokat,
+k) irányítja a fegyveres összeütközések időszakában végrehajtandó polgári védelmi felkészítés honvédelmi
+feladatait,
+l) irányítja a Nemzeti Katonai Stratégia előkészítését,
+m) felel a Magyarország NATO Központi Rejtjel Elosztó Felügyelet, valamint a Magyarország NATO Központi
+Nyilvántartó feladatainak ellátásáért,
+n) dönt a 6. § (5) bekezdése szerinti feladatnak a 6. § (5)–(6) bekezdése szerinti személyek tekintetében történő
+végrehajtásáról,
+o) gondoskodik a 6. § (5) bekezdése szerinti személyek vonatkozásában a Honvédségnek a felkészített erőkkel
+védett személyek személykísérésében való részvétele egyeztetéséről és végrehajtásának elrendeléséről.
+(3) A miniszter a Honvédség irányításáért, ezen belül törvényes működéséért viselt felelőssége körében
+a) meghatározza a Honvédség vezetési szintjeit, köztük a feladat- és hatáskörmegosztás elveit,
+b) meghatározza a központi gazdálkodás ellátási-utaltsági rendjét, a beszerzések és az ellenőrzések rendszerét,
+c) meghatározza az ügykezelés rendjét, az információbiztonságra vonatkozó követelményeket,
+d) törvényességi felügyeletet gyakorol a honvédelmi szervezetek működése felett,
+e) felel a Hvt. 4. § (1) bekezdése szerinti határozati javaslatok és a Hvt. 6. § (5) bekezdése szerinti beszámoló
+előkészítéséért, a más jogszabályokban előírt beszámolási kötelezettség teljesítéséért,
+
+f) a Honvéd Vezérkar főnöke felterjesztése alapján jóváhagyja a Hvt. 14. § (2) bekezdése szerinti speciális
+irányításban érintett honvédségi szervezetek, valamint a Honvéd Vezérkar és a Honvédség más magasabb
+szintű parancsnokságának, továbbá a szakképzésről szóló 2019. évi LXXX. törvény 27. § (1) bekezdés
+b) pontja szerinti – honvédelmi szervezetnek nem minősülő – honvédségi szakképző intézmény szervezeti és
+működési szabályzatát,
+g) gondoskodik a Magyar Honvédség Kormányzati Célú Elkülönült Hírközlő Hálózat fejlesztéséről,
+működtetésétől, megállapítja a Honvédség feladatainak teljesítése szempontjából fontos híradó, informatikai
+szolgáltatások és információvédelmi feladatrendszer működőképességének biztosítása érdekében szükséges
+együttműködési feladatokat,
+h) meghatározza a Honvédség toborzási alapelveit, feladatrendszerét, önkéntes tartalékos rendszerének, tiszt-
+és altisztképzésének, a köznevelési és szakképzési rendszerének, valamint a kadétrendszer alapvető irányait,
+i) az önkéntes tartalékos rendszer részeként meghatározza különösen a területvédelmi ezredek feladatait,
+működését, szervezeti felépítését, területi elhelyezkedését, továbbá az irányításukra és vezetésükre
+vonatkozó alapelveket,
+j) meghatározza a honvédelmi ágazat sajtókommunikációs tevékenységét.
+(4) A miniszter a háborúkban elesett katonák és polgári áldozatok emlékének megörökítéséről, valamint sírjaik jogi
+helyzetéről szóló nemzetközi megállapodások vagy szerződések magyarországi végrehajtásáról a jogszabályok
+figyelembevétele mellett gondoskodik.
+3. § (1) A miniszter ellenőrzi a Kormány által meghatározott rendben és a Kormány által kijelölt szerveknél a honvédelmi
+feladatokra való felkészülést és a honvédelmi feladatok végrehajtását.
+(2) Az (1) bekezdés szerinti ellenőrzést a minisztérium honvédelmi igazgatási feladatokat ellátó szervezeti egységének
+vezetője által kijelölt bizottság folytatja le – a védelmi és biztonsági igazgatás területi és helyi szabályairól szóló
+427/2022. (X. 28.) Korm. rendelet 6. § (1) bekezdésére is figyelemmel – a védelmi és biztonsági igazgatás központi
+szervével összehangolt módon, az érintett szervek bevonásával, ennek keretében a bizottság vizsgálja és értékeli
+a) a honvédelmi feladatok végrehajtására kialakított szervezeti és működési rendet,
+b) a honvédelmi tárgyú intézkedési terveket,
+c) a honvédelmi tárgyú döntések jogszerűségét,
+d) a honvédelmi tárgyú gyakorlatok és felkészítések végrehajtását,
+e) a honvédelmi felkészülés támogatására biztosított központi pénzügyi források felhasználásának
+jogszerűségét és célszerűségét,
+f) a honvédelmi igazgatás infokommunikációs rendszere működőképességét és alkalmazását.
+(3) Az (1) és (2) bekezdés szerinti szervek körébe az önálló szabályozó szervek és az autonóm államigazgatási szervek
+nem vonhatók be.
+3. A miniszter közvetlen alárendeltségébe tartozó honvédelmi szervezetek feladat- és hatáskörei
+4. § (1) A miniszter közvetlen alárendeltségébe tartozó honvédelmi szervezetek részt vesznek
+a) az ország honvédelmére és a válságkezelés katonai feladataira vonatkozó döntések előkészítésében,
+b) a Honvédség irányítására vonatkozó döntések előkészítésében, a döntések végrehajtásában,
+c) a honvédelemmel kapcsolatos központi közigazgatási feladatok ellátásában,
+d) a honvédelmi szervezetek feletti miniszteri törvényességi felügyeleti jogkör gyakorlásában,
+e) a lakosság honvédelmi célú tájékoztatásában,
+f) a honvédelmi szervezetek feladataihoz szükséges feltételek biztosításában,
+g) a jogszabályban, közjogi szervezetszabályozó eszközben vagy a miniszter által meghatározott feladatokban.
+(2) Az (1) bekezdés szerinti, e célra létrehozott honvédelmi szervezetek katonadiplomáciai feladatot láthatnak el.
+4. Az egyes honvédelmi szervezetek speciális irányítása
+5. §
+A Hvt. 14. § (2) bekezdése szerinti honvédelmi szervezet hadrendi elemmé minősítése tekintetében a Honvéd
+Vezérkar főnöke egyeztet a honvédelmi szervezet alapító okiratában a miniszter által a Hvt. 14. § (2) bekezdése
+szerint kijelölt személlyel.
+
+5. A Honvéd Vezérkar főnökének feladat- és hatásköre
+6. § (1) A Honvéd Vezérkar főnöke a katonai szakmai követelmények érvényre juttatása érdekében szakmai irányítási
+jogkörében felelős
+a) a Honvédség alkalmazásával kapcsolatos feladatok végrehajtásáért,
+b) a Honvédség készenléte fenntartásáért és fokozásáért,
+c) a Honvédség kiegészítéséért,
+d) a Honvédség közreműködői feladatainak végrehajtásáért,
+e) a Honvédség kiképzésével és a felkészítésével kapcsolatos feladatok végrehajtásáért,
+f) a nemzeti doktrínarendszer összehangolásával és az egyes nemzeti doktrínák fejlesztésével kapcsolatos
+feladatok végrehajtásáért,
+g) a katonai fegyelemért,
+h) a Honvédség személyi állománya vonatkozásában a személyügyi igazgatási és a humánszolgálati rendszer
+működtetéséért,
+i) a Honvédség egészségügyi szakfeladatainak ellátásáért,
+j) a Honvédség működtetéséért és fenntartásáért,
+k) a műveleti tapasztalat-feldolgozó rendszer működtetéséért, a szakmai feladatokat ellátó szervezet
+kijelöléséért, illetve a szervezet feladat- és hatáskörének meghatározásáért.
+(2) A Honvéd Vezérkar főnöke szakmai irányítási jogkörét közvetlenül vagy a Honvéd Vezérkar szervezeti és működési
+szabályzatában kijelölt elöljáró útján gyakorolja.
+(3) A (2) bekezdéstől eltérően Honvéd Vezérkar főnöke az (1) bekezdés h) pontja szerinti jogkörét a központi
+személyügyi szerv vezetője útján gyakorolja.
+(4) A (2) bekezdéstől eltérően Honvéd Vezérkar főnöke az (1) bekezdés i) pontja szerinti jogkörét a Honvédség
+egészségügyi főnöke útján gyakorolja.
+(5) A Honvéd Vezérkar főnöke – a Honvédség alaprendeltetése szerinti feladatai ellátásának elsődlegességét
+szem előtt tartva –
+a) a köztársasági elnök,
+b) az Országgyűlés elnöke,
+c) a Kit. 3. § (3) bekezdése szerinti politikai felsővezető,
+d) a kormánybiztos,
+e) a Kormány egyedi döntésével rendkívül indokolt esetben kijelölt személy,
+f) az a)–d) pontban meghatározott személy általi igénybevétel esetén az a)–d) pontban meghatározott személy
+házas- vagy élettársa és gyermeke
+részére biztosítja a Honvédségnek a felkészített erőkkel védett személyek személykísérésében való részvételéhez
+szükséges személyi és technikai feltételeket.
+(6) Az (5) bekezdés a)–d) pontja szerinti személyek által küldöttségük tagjaként meghatározott személyek is jogosultak
+az (5) bekezdés szerinti technikai feltételek igénybevételére.
+(7) Az (5) és (6) bekezdés szerinti feladat végrehajtásának forrásigénye – a (8) bekezdésben foglaltak kivételével –
+a„XIII. Honvédelmi Minisztérium”fejezetben kerül biztosításra.
+(8) Az (5) bekezdés szerinti feltételek (5) bekezdés f) pontja szerinti személyek általi igénybevételének (a továbbiakban:
+egyéb kísérési feladat) végrehajtása költségét az (5) bekezdés a)–e) pontjában meghatározott személyek
+foglalkoztatását biztosító költségvetési szerv (a továbbiakban: indító szervezet) a „XIII. Honvédelmi Minisztérium”
+fejezetnek megtéríti.
+(9) Az indító szervezet gondoskodik az egyéb kísérési feladat végrehajtási költségének megtérítéséről az azt igénybe
+vevő személlyel szemben a saját belső szabályai szerint.
+7. § (1) A Honvéd Vezérkar főnöke a katonai-szakmai követelmények érvényre juttatása érdekében, szakmai irányítási
+jogkörében
+ 1. felel a nemzetközi szerződésekből és nemzetközi megállapodásokból eredő katonai kötelezettségek
+teljesítéséért,
+ 2. felel az ország fegyveres védelmi tervének előkészítéséért,
+ 3. felel a Honvédség hadrendjének kidolgozásáért,
+ 4. intézkedik az ország területének légvédelmi készenléti erőkkel való oltalmazása érdekében,
+
+ 5. jogszabály eltérő rendelkezése hiányában engedélyezi a Honvédség Hvt. 59. §-a szerinti közreműködői
+feladatokban történő részvételét,
+
+6. felel a Magyar Honvédség Műveleti Vezetési Rendszere működtetéséért, fejlesztéséért, működési
+feltételei biztosításával kapcsolatos feladatok végrehajtásáért, az ehhez szükséges infrastruktúra és
+infokommunikációs rendszer üzemeltetéséért,
+ 7. közreműködik a Honvédség feladatainak teljesítése szempontjából fontos közlekedési hálózat, a híradó,
+az informatikai és az információvédelmi feladatrendszer, a légi, sugárfigyelő, jelző- és riasztási rendszerek,
+valamint az energetikai hálózatok elemei közül a létfontosságú rendszerek és létesítmények védelmében,
+ 8. vezeti a Honvédség haderőtervezéssel és képességfejlesztéssel kapcsolatos feladatainak végrehajtását,
+az állománytáblákkal kapcsolatos feladatok végrehajtását, javaslatot tesz a miniszter részére a Honvédség
+fejlesztésére, létszámára, állományarányaira, szervezetére, felszerelésére, a békeidejű működéshez
+a normákon alapuló vagy szükséges erőforrásokra, az ország területének honvédelmi célú előkészítésére,
+ 9. irányítja – a Katonai Nemzetbiztonsági Szolgálat kivételével – a képzések összehangolt tervezését és
+végrehajtását,
+10. felel az operatív belső kontrollrendszer és az integritásirányítási rendszer Honvédségnél történő kialakításáért
+és működtetéséért,
+11. javaslatot tesz a minisztérium vagyonkezelésében lévő ingatlan és ingó vagyontárgy honvédelmi célra
+feleslegessé nyilvánítására,
+12. felel az önkéntes tartalékos rendszer tiszt- és altisztképzésével, szakkiképzési és távoktatási rendszerével,
+motivációs és ösztöndíjrendszerével, a kadétrendszerhez kapcsolódó képzésekkel, a hadtudományi kutatás-
+fejlesztéssel összefüggő katonai követelmények meghatározásával és a honvédségi szervezetek tudományos
+tevékenységével, valamint a katonai pályára irányítással, a honvédelmi neveléssel, a katonai emlékhely- és
+hadisírgondozással kapcsolatos honvédségi feladatok végrehajtásáért,
+13. irányítja a Honvédség logisztikai és gazdálkodási rendszerét, tervezi és szervezi a honvédelmi szervezetek
+logisztikai és egészségügyi biztosítását, javaslatokat tesz a személyi állomány megfelelő élet-, szolgálati és
+munkakörülményeinek biztosítására,
+14. javaslatot tesz a főbb haditechnikai eszközök korszerűsítésére, próbahasználatot engedélyez, elrendeli
+a csapatpróbát, kiadja az alkalmazásba vételi és a kivonási határozatot, megtervezteti az eszköztartalékokat,
+valamint azok lépcsőzését és felhasználási lehetőségeit,
+15. javaslatot dolgoz ki a Szent Korona veszélyeztetettsége esetén alkalmazandó eljárási szabályokra és a Honvéd
+Koronaőrség feladataira,
+16. egyetértési jogot gyakorol a Nemzeti Közszolgálati Egyetem képzési programjának honvédelemmel
+kapcsolatos katonai-szakmai követelményei vonatkozásában,
+17. felel a katonai szakképesítések katonai-szakmai követelményeinek meghatározásáért,
+18. felel az ügykezelés rendjére vonatkozó követelmények kidolgozásáért,
+19. felel az információbiztonságra vonatkozó követelmények kidolgozásáért,
+20. felel az európai fegyverzetkorlátozási, leszerelési, valamint nemzetközi biztonságpolitikai egyezményekből
+eredő fegyverzet-ellenőrzési feladatok tervezéséért, összehangolásáért és végrehajtásáért,
+21. felel a Honvédség kiberműveleti tevékenységének tervezéséért, vezetéséért és fejlesztési irányainak
+meghatározásáért, irányítja a katonai műveletek kibertámogatásához szükséges honvédségi feladatokat,
+22. meghatározza a Honvédség készenléte fenntartásának és fokozásának rendjét, a Kormánynak a Honvédség
+készenléte fokozását elrendelő döntése esetén, a miniszter által meghatározottak szerint, intézkedik
+a Honvédség egésze és az egyes honvédségi szervezetek készenlétének fokozására,
+23. irányítja a hatáskörébe tartozó elismerésekkel, kulturális, rekreációs, valamint a szociális és kegyeleti
+gondoskodási tevékenységével kapcsolatos feladatok végrehajtását,
+24. irányítja a katonai légiforgalmi irányító és a légvédelmi irányító szolgálatokat,
+25. felel a légi kutató-mentő szolgálat létrehozásáért és fenntartásáért,
+26. dönt a hadfelszerelés rendszeresítéséről,
+27. irányítja a katonai meteorológiai tevékenységet,
+28. irányítja a Honvédség hatáskörébe utalt beszerzéseket,
+29. irányítja a Honvédség hatáskörébe utalt hadfelszerelés-fejlesztési, haditechnikai és kutatás-fejlesztési-
+innovációs feladatok végrehajtását,
+30. felel a szabványosítási, egységesítési és katonai minőségügyi feladatok végrehajtásáért,
+
+31. irányítja a Honvédség képesség- és hadfelszerelés fejlesztési programjainak és projektjeinek katonai szakmai
+előkészítését, tervezését, azoknak a Honvédségnél történő végrehajtását,
+32. gyakorolja a Honvédség vezetési, hírközlő és informatikai rendszereinek hálózatfelügyeleti és
+hálózatgazdálkodási jogosítványait,
+33. irányítja a honvédségi alkalmazói követelmények kidolgozását a HM Költségvetés Gazdálkodási Információs
+Rendszer fejlesztése vonatkozásában.
+(2) A Honvéd Vezérkar főnöke – a 2. § (3) bekezdés f) pontja kivételével – jóváhagyja a közvetlen szolgálati
+alárendeltségébe tartozó honvédségi szervezetek szervezeti és működési szabályzatát. E jogkörét másra nem
+ruházhatja át.
+(3) A Honvéd Vezérkar főnöke a feladat- és hatáskörébe tartozó ügyekben képviseli a Honvédséget, gyakorolja
+a jogszabályokban és a közjogi szervezetszabályozó eszközökben hatáskörébe utalt jogköröket.
+(4) A Honvéd Vezérkar főnöke feladatai vonatkozásában felelős
+a) az erőforrás-tervezéshez szükséges alapadatok biztosításáért,
+b) a Honvédség működésével kapcsolatos infrastrukturális-elhelyezési igények meghatározásáért,
+c) a felső szintű tervezés feladataihoz szükséges alapadatok biztosításáért,
+d) a hadfelszerelés-fejlesztés feladataihoz kapcsolódó alapadatok meghatározásáért.
+(5) A Honvéd Vezérkar főnöke a Honvédség szakmai irányítási jogkörében a miniszter részére terjeszti fel a katonai-
+szakmai követelmények érvényre juttatása érdekében szükséges jogszabály vagy közjogi szervezetszabályozó
+eszköz módosítására, illetve a Honvédség szervezeti felépítésének módosítására irányuló javaslatait.
+6. A Honvéd Vezérkar
+8. § (1) A Honvéd Vezérkar az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9/A. § (3) bekezdése
+szerinti középirányító szerve az alárendeltségébe tartozó – költségvetési szervként működő – honvédségi
+szervezeteknek.
+(2) A Honvéd Vezérkar az (1) bekezdés szerinti középirányító szervként – ha törvény vagy kormányrendelet eltérően
+nem rendelkezik –
+a) az Áht. 9. § b) pontjában,
+b) az Áht. 9. § d) pontjában,
+c) az Áht. 9. § e) pontjában és
+d) az Áht. 9. § g)–i) pontjában
+meghatározott irányítási hatásköröket gyakorolja.
+(3) A Honvéd Vezérkar az (1) bekezdés szerinti középirányító szervként az alárendelt költségvetési szerv
+tevékenységének törvényességi és szakszerűségi ellenőrzését gyakorolja.
+7. A Honvédség más magasabb szintű parancsnokságai
+9. § (1) A Honvédség hadrendje szerinti más magasabb szintű parancsnokság irányítja az alárendeltségébe tartozó
+honvédségi szervezetek tevékenységét.
+(2) Az önkéntes tartalékosok felkészítését végző, a Honvédség hadrendje szerinti más magasabb szintű parancsnokság
+szervezeti felépítése többszintű, központi és területi elvű vezetési funkciót ellátó és egyéb szaktevékenységet
+folytató szervezeti elemekre tagozódhat.
+(3) A Honvédség hadrendje szerinti más magasabb szintű parancsnokság parancsnoka – a 2. § (3) bekezdés f) pontja
+és a 7. § (2) bekezdése szerinti honvédségi szervezetek kivételével – jóváhagyja az alárendeltségébe tartozó
+honvédségi szervezetek szervezeti és működési szabályzatát. E jogkörét másra nem ruházhatja át.
+(4) A Honvédség hadrendje szerinti más magasabb szintű parancsnokság az Áht. szerinti középirányító szerve
+az alárendeltségébe tartozó – költségvetési szervként működő – honvédségi szervezeteknek.
+(5) A Honvédség hadrendje szerinti más magasabb szintű parancsnokság a (4) bekezdés szerinti középirányító
+szervként – ha törvény vagy kormányrendelet eltérően nem rendelkezik –
+a) az Áht. 9. § b) pontjában,
+b) az Áht. 9. § d) pontjában,
+c) az Áht. 9. § e) pontjában és
+d) az Áht. 9. § g)–i) pontjában
+meghatározott irányítási hatásköröket gyakorolja.
+
+8. A szolgálati elöljárókra, hivatali felettesekre, szakmai elöljárókra, szakmai felettesekre vonatkozó
+előírások, valamint a Honvédség szakmai irányítási rendszere
+10. § (1) A katonai szolgálati viszonyban álló vezető a katonai szolgálati viszonyban álló alárendelteknek szolgálati elöljárója
+vagy szakmai elöljárója, a más jogviszonyban álló alárendelteknek hivatali felettese vagy szakmai felettese.
+(2) A nem katonai szolgálati viszonyban álló vezető a neki alárendelteknek hivatali felettese vagy szakmai felettese.
+(3) A szakmai felettes vagy szakmai elöljáró a szakmai irányítási jogkörében eljárva
+a) a feladat- és hatáskörét érintő előterjesztések, döntések tervezetét véleményezi,
+b) a feladat- és hatáskörét érintő előterjesztések és döntések előkészítése és végrehajtása során a honvédelmi
+szervezetektől információkat kér, és részükre a szükséges információkat biztosítja,
+c) előkészíti a jogszabályok, a közjogi szervezetszabályozó eszközök, a belső rendelkezések és egyéb döntések
+tervezetét,
+d) ellenőrzi a honvédelmi szervezeteknek a szakterületéhez tartozó tevékenységét, valamint
+e) szakterületéhez tartozó tevékenységére vonatkozó egységes gyakorlat kialakítása érdekében dönt
+a végrehajtás során felmerült vitás kérdésekben, szakmai állásfoglalás kiadásával biztosítja az egységes
+végrehajtást.
+(4) A minisztérium a Kit. 3. § (3) bekezdés d) pontja szerinti politikai felsővezetője, a minisztérium a Kit. 3. § (7) bekezdés
+a) és b) pontja szerinti szakmai felsővezetője és a Honvéd Vezérkar főnöke szakterületükön szakmai felettesként,
+illetve szakmai elöljáróként szakmai irányítást gyakorolnak. Érintettség esetén a szakmai irányítási aktusaik
+tervezeteit kölcsönösen egyeztetik.
+(5) Azon (4) bekezdés szerinti személy, akinek feladata kizárólag a miniszternek a Kormány tagjainak feladat- és
+hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 112. § 4–6. pontja szerinti feladat- és hatásköre gyakorlásában
+való közreműködés, szakterületükön szakmai felettesként, illetve szakmai elöljáróként szakmai irányítást nem
+gyakorolnak.
+(6) A miniszter hivatali felettese a honvédelmi szervezetek teljes személyi állományának.
+9. A Magyar Honvédség Műveleti Vezetési Rendszere speciális működési feltételei
+11. § (1) A Magyar Honvédség Műveleti Vezetési Rendszere speciális működési feltételeit akkor kell biztosítani, ha
+a döntéshozatal feltételei, az irányítási és vezetési rendszer működése békeidőszaki rendben nem biztosítható, vagy
+a békeidőszaki vezetési objektum veszélyeztetettsége olyan mértékű, hogy az irányítás és vezetés feltételei nem
+biztosíthatók. Ilyen esetben a Honvédség stratégiai és műveleti szintű vezetési elemei a békeidőszaki objektumtól
+eltérő helyen működnek, ahol biztosítani kell az irányítás és vezetés biztonsági feltételeit.
+(2) A Magyar Honvédség Műveleti Vezetési Rendszere speciális működésének infokommunikációs támogatását
+a Magyar Honvédség Kormányzati Célú Elkülönült Hírközlő Hálózat rendszerei, továbbá bérelt rendszerek
+biztosítják, melyek szolgáltatása valamennyi honvédelmi szervezetre kiterjed.
+III. Fejezet
+EGYES KÖZPONTI ÁLLAMIGAZGATÁSI SZERVEK HONVÉDELMI TEVÉKENYSÉGE
+10. Az irányítás és vezetés rendje
+12. § (1) A Kormány a honvédelmi feladatok végrehajtására sajátos irányítási és vezetési rendszert működtet, melynek részei
+a) a központi államigazgatási szervek, az autonóm államigazgatási szervek és az önálló szabályozó szervek
+kivételével,
+b) a területi védelmi és biztonsági igazgatási szervek és a helyi védelmi és biztonsági igazgatási szervek,
+c) a honvédelmi felkészítés egyes feladataiban részt vevők,
+d) a Kit. 8–10. §-a alapján létrehozott szervek.
+(2) Az (1) bekezdés szerinti szerveknél – az (1) bekezdés d) pontja kivételével – honvédelemmel foglalkozó szervezeti
+egységet kell kijelölni.
+
+11. Egyes központi államigazgatási szervek vezetőinek honvédelmi igazgatási feladatai
+13. §
+Az autonóm államigazgatási szerv és az önálló szabályozó szerv kivételével a központi államigazgatási szervek
+vezetője a feladat- és hatásköre szerint
+a) gondoskodik a honvédelmi feladatoknak a központi államigazgatási szerven belüli tervezéséről, kialakításáról
+és működtetéséről,
+b) végzi a befogadó nemzeti támogatással kapcsolatos teendőket,
+c) kialakítja a nemzetgazdasági erőforrások honvédelmi célú tartalékolásának feltételeit, rendjét, ágazati
+tervező szervként közreműködik a gazdaságfelkészítés rendszerében,
+d) végzi az ország területének műveleti előkészítéséből adódó feladatait,
+e) kialakítja a központi államigazgatási szervnél a honvédelmi felkészülés irányítási, szervezeti, működési
+rendszerét és rendjét, gondoskodik azok feltételei meglétéről,
+f) közreműködik a védelmi és biztonsági igazgatási szervek felügyeletének ellátásában,
+g) közreműködik a központi államigazgatási szervet érintő honvédelmi feladatok gyakorlásában, részt vesz
+a gyakorlatokon való részvétel tervezésében,
+h) beszámol a miniszternek a tárgyévet megelőző év honvédelmi feladatainak végrehajtásáról,
+i) évente a honvédelmi felkészítés egyes kérdéseiről szóló kormányhatározatban meghatározott határidőig
+megküldi a miniszternek a feladattervben meghatározott feladatok végrehajtásáról és az e célra jóváhagyott
+költségvetési források felhasználásáról szóló beszámolót, valamint a honvédelmi felkészítés következő évi
+feladattervének összeállításához szükséges javaslatait és a szükséges költségvetési igényeket,
+j) gondoskodik a lakosság ellátásához és a katonai műveletek támogatásához elengedhetetlen ágazati
+rendszerek, létesítmények ellenállóképességéről a hibrid fenyegetésekkel szemben,
+k) együttműködik a minisztériummal a polgári felkészültséggel kapcsolatos tervek kidolgozásában,
+pontosításában, valamint a végrehajtás időszakában a részt vevő szervezetek tevékenységének
+az összehangolásában, részt vesz a polgári felkészültséggel kapcsolatos feladatok tervezését és végrehajtását
+támogató tárcaközi tudásbázis létrehozásában, működtetésében,
+l) ellátja a meghagyással kapcsolatos feladatokat,
+m) végzi a jogszabályban vagy közjogi szervezetszabályozó eszközben részére megállapított honvédelmi
+feladatokat.
+IV. Fejezet
+A POLGÁRI FELKÉSZÜLTSÉG KÖVETELMÉNYEI ÉS A HONVÉDELMI FELKÉSZÍTÉS KÖLTSÉGEI
+12. A polgári felkészültség követelményei
+14. § (1) A polgári felkészültség feladatai a Hvt. 1. § (7) bekezdésében foglaltak figyelembevételével, a védelmi és biztonsági
+tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény (a továbbiakban: Vbö.) 42. § (2) bekezdése szerinti
+feladatok eredményes ellátása érdekében különösen az alábbi szakterületi követelmények teljesítését foglalják
+magukban:
+a) a Vbö. 42. § (2) bekezdés a) pontja szerinti feladattal összefüggésben a honvédelmi feladatok végrehajtására
+sajátos irányítási és vezetési rendszer létrehozása és működőképességének fenntartása,
+b) a Vbö. 42. § (2) bekezdés b) pontja szerinti feladattal összefüggésben a honvédségi létesítményekben,
+a Honvédség illetve a szövetséges katonai erők által igénybe vett objektumokban és területeken a hálózati
+elektromos áram és a vezetékes gázellátás korlátozás nélküli felhasználásának, valamint a hajtó- és
+kenőanyagok Honvédség részére történő rendelkezésre állásának biztosítása, stratégiai készletek képzése,
+c) a Vbö. 42. § (2) bekezdés c) pontja szerinti feladattal összefüggésben a katonai erők gyülekezési és települési
+körleteinek, felvonulási útvonalainak és a műveleti terület rendvédelmi biztosítása,
+d) a Vbö. 42. § (2) bekezdés d) pontja szerinti feladattal összefüggésben a Honvédség és a szövetséges katonai
+erők ivóvíz és élelmiszer ellátásának szerződés szerinti, vagy gazdasági-anyagi szolgáltatás alapján történő
+biztosítása,
+e) a Vbö. 42. § (2) bekezdés e) pontja szerinti feladattal összefüggésben a Honvédség és a szövetséges katonai
+erők állományának egészségügyi ellátása, figyelembe véve a fegyveres összeütközések következtében
+jellemzően kialakuló sérüléseket,
+
+f) a Vbö. 42. § (2) bekezdés f) pontja szerinti feladattal összefüggésben a Honvédség és a szövetséges katonai
+erők nyilvános elektronikus hírközlő hálózatokhoz történő hozzáférésének biztosítása, valamint
+g) a Vbö. 42. § (2) bekezdés g) pontja szerinti feladattal összefüggésben a közlekedési és szállítási infrastruktúra
+folyamatos üzemeltetésének biztosítása, ide értve a közutak, a vasúti pálya és állomások, a légtér és
+a repülőterek, valamint a vízi szállítási útvonalak és kikötők, a szállítóeszközök honvédelmi szükségletek
+alapján történő igénybevétele elsődlegességének a biztosítását.
+(2) A polgári felkészültséget a honvédelmi felkészülés részeként, a miniszter koordinálásával, a magán- és a nem
+kormányzati szektor megfelelő szintű bevonásával úgy kell megvalósítani, hogy
+a) a polgári felkészültség (1) bekezdés szerinti követelményei és feladatai jelenjenek meg a Vbö. 22. §
+(1) bekezdés d) pontja szerinti tervezési dokumentumokban,
+b) a katonai műveletek támogatásához elengedhetetlen ágazati rendszerek működőképessége fenntartható
+és fejleszthető legyen annak érdekében, hogy magas szinten ellenállóképesek legyenek a hibrid
+fenyegetésekkel szemben,
+c) az ágazatok országos és területi szintű, védelmi jellegű tervei, valamint az ezek végrehajtása érdekében
+kiadott intézkedések a minősített adatok védelmére vonatkozó szabályok megtartása mellett legyenek
+megfelelően összehangolva a vonatkozó katonai tervekkel.
+(3) A polgári felkészültség feladatainak végrehajtását a miniszter által vezetett minisztérium honvédelmi igazgatási
+feladatokat ellátó szervezeti egysége által kialakított tudásbázis támogatja, amelybe erre irányuló megkeresés
+alapján a védelmi és biztonsági igazgatás központi és területei szervei információkat biztosítanak.
+(4) A polgári felkészültség követelményeit rögzíteni kell a NATO Válságreagálási Rendszerével összhangban álló
+Nemzeti Intézkedési Rendszer intézkedéseiben.
+(5) A polgári felkészültség követelményeinek figyelembevételével, a honvédelmi felkészítés keretében rendszeresen
+gyakorlatot, felkészítő foglalkozást kell tartani.
+(6) A polgári felkészültségre vonatkozó, a nemzetközi szervezetekben képviselendő nemzeti álláspontot a miniszter
+a védelmi és biztonsági igazgatás központi szervének bevonásával dolgozza ki, és a külpolitikáért felelős miniszter
+egyetértésével terjeszti a Kormány elé.
+13. A honvédelmi felkészítés költségei
+15. § (1) A Hvt. 6. § (3) bekezdés b) pontja alapján a„XIII. Honvédelmi Minisztérium”fejezetben
+a) a „Honvédelmi felkészülés központi és területi kiadásai” jogcímen kell tervezni a több ágazatot érintő
+honvédelmi felkészülés előirányzatait, a NATO Válságreagálási Rendszerrel összhangban álló nemzeti
+intézkedési rendszer feltételeinek biztosításához, valamint a területi és helyi védelmi és biztonsági igazgatási
+szervek honvédelmi feladatainak végrehajtásához szükséges költségeket,
+b) a „Kormány speciális működési feltételeinek biztosítása kiadásai” jogcímen kell tervezni a Kormány
+válsághelyzeti és különleges jogrendi működéséhez szükséges speciális infrastrukturális és
+infokommunikációs feltételek biztosításához szükséges költségeket.
+(2) Az (1) bekezdés szerinti költségvetési előirányzatok elosztásáról a Kormány a honvédelmi felkészítés éves
+feladatainak meghatározásával egyidejűleg rendelkezik. Az ezzel összefüggő szakmai koordinációt a minisztérium
+honvédelmi igazgatási feladatokat ellátó szervezeti egysége végzi, együttműködésben a védelmi és biztonsági
+igazgatás központi szervével.
+V. Fejezet
+A HONVÉDELEMBEN KÖZREMŰKÖDŐ SZERVEK FELADAT- ÉS HATÁSKÖREI
+14. Az együttműködés rendje
+16. § (1) A honvédelemben közreműködő szervek biztosítják a honvédelmi feladatok végrehajtásához szükséges személyi és
+tárgyi feltételeket, ennek érdekében
+a) intézkedési tervet készítenek a honvédelmi feladatok végrehajtására a Kormány, a feladat- és hatáskör szerinti
+miniszter, a területi védelmi bizottság, a helyi védelmi bizottság és a polgármester rendelkezései szerint,
+b) kialakítják a honvédelmi feladataik ellátásához szükséges szervezeti és működési rendet,
+c) részt vesznek a honvédelmi felkészítés kormányzati, területi feladattervében meghatározott gyakorlatokon,
+
+d) működtetik az eseményfigyelő- és jelzőrendszert,
+e) végzik a meghagyással kapcsolatos feladatokat,
+f) gyakoroltatják a honvédelmi feladatok végrehajtását, részt vesznek az ehhez szükséges képzéseken,
+felkészítéseken,
+g) megőrzik a honvédelmi rendeltetésű eszközöket, berendezéseket, dolgokat,
+h) ellátják azokat a honvédelmi feladatokat, amelyeket részükre jogszabály, közjogi szervezetszabályozó eszköz
+vagy az irányításukat végző szerv vezetője meghatároz.
+(2) Az (1) bekezdés f) pontja szerinti képzéseket, felkészítéseket a Nemzeti Közszolgálati Egyetem Hadtudományi
+és Honvédtisztképző Kara által szervezett honvédelmi igazgatási tanfolyamok és szakirányú képzések keretében
+kell végrehajtani. A honvédelmi feladatok végrehajtásában érintett személyek képzéseken, felkészítéseken való
+részvételét a honvédelemben közreműködő szerv vezetője tervezi és biztosítja.
+(3) A honvédelemben közreműködő szervek az (1) bekezdésben meghatározott feladataik végrehajtása során
+együttműködnek a miniszter által a Hvt. 9. § (2) bekezdése szerint hozzájuk kijelölt honvédelmi összekötővel, amely
+együttműködés keretében a honvédelemben közreműködő szervek
+a) tájékoztatják a honvédelmi összekötőt a honvédelmi felkészülésük helyzetéről, az ennek keretében
+végrehajtott feladatokról, a honvédelmi feladatok végrehajtására kialakított személyi és tárgyi feltételekről,
+eljárásaikról,
+b) lehetővé teszik a honvédelmi összekötő számára a honvédelmi felkészülésük érdekében kidolgozott
+dokumentumaikba történő betekintést,
+c) biztosítják a szervezetükben a honvédelmi feladatok ellátására kijelölt személyek és a honvédelmi összekötő
+közötti közvetlen szakmai kapcsolatot.
+VI. Fejezet
+A KATONAI IGAZGATÁSI SZERVEK MEGNEVEZÉSE ÉS ILLETÉKESSÉGE
+15. A Honvédség katonai igazgatási és központi adatfeldolgozó szerve
+17. §
+A Kormány a Honvédség katonai igazgatási és központi adatfeldolgozó szervének a Magyar Honvédség
+Katonai Igazgatási és Központi Nyilvántartó Parancsnokságot jelöli ki, amelynek illetékessége a Hvt. 67. §-ában
+meghatározott feladatai vonatkozásában az ország egész területére kiterjed.
+16. A hadkiegészítő és toborzó központok
+18. §
+A Hvt. 68. §-ában meghatározott feladataik ellátása vonatkozásában a hadkiegészítő és toborzó központok
+illetékessége a következő:
+a) az 1. Hadkiegészítő és Toborzó Központ illetékessége kiterjed Budapest főváros és Pest vármegye
+közigazgatási területére,
+b) a 2. Hadkiegészítő és Toborzó Központ illetékessége kiterjed Borsod-Abaúj-Zemplén vármegye, Hajdú-Bihar
+vármegye és Szabolcs-Szatmár-Bereg vármegye közigazgatási területére,
+c) a 3. Hadkiegészítő és Toborzó Központ illetékessége kiterjed Fejér vármegye, Komárom-Esztergom vármegye
+és Tolna vármegye közigazgatási területére,
+d) a 4. Hadkiegészítő és Toborzó Központ illetékessége kiterjed Heves vármegye, Nógrád vármegye és
+Jász-Nagykun-Szolnok vármegye közigazgatási területére,
+e) az 5. Hadkiegészítő és Toborzó Központ illetékessége kiterjed Bács-Kiskun vármegye, Békés vármegye és
+Csongrád-Csanád vármegye közigazgatási területére,
+f) a 6. Hadkiegészítő és Toborzó Központ illetékessége kiterjed Győr-Moson-Sopron vármegye, Vas vármegye és
+Veszprém vármegye közigazgatási területére,
+g) a 7. Hadkiegészítő és Toborzó Központ illetékessége kiterjed Baranya vármegye, Somogy vármegye és Zala
+vármegye közigazgatási területére.
+
+17. A hadkiegészítő és toborzó irodák, valamint a toborzó pontok
+19. § (1) A Hvt. 69. §-ában meghatározott feladataik ellátása vonatkozásában a hadkiegészítő és toborzó irodák illetékessége
+a következő:
+ 1. az 1. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Budapest főváros közigazgatási területére,
+ 2. a 2. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Pest vármegye közigazgatási területére,
+ 3. a 3. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Hajdú-Bihar vármegye közigazgatási területére,
+ 4. a 4. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Borsod-Abaúj-Zemplén vármegye közigazgatási
+területére,
+ 5. az 5. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Szabolcs-Szatmár-Bereg vármegye közigazgatási
+területére,
+ 6. a 6. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Fejér vármegye közigazgatási területére,
+ 7. a 7. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Komárom-Esztergom vármegye közigazgatási
+területére,
+ 8. a 8. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Tolna vármegye közigazgatási területére,
+ 9. a 9. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Jász-Nagykun-Szolnok vármegye közigazgatási
+területére,
+10. a 10. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Heves vármegye közigazgatási területére,
+11. a 11. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Nógrád vármegye közigazgatási területére,
+12. a 12. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Csongrád-Csanád vármegye közigazgatási
+területére,
+13. a 13. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Bács-Kiskun vármegye közigazgatási területére,
+14. a 14. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Békés vármegye közigazgatási területére,
+15. a 15. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Veszprém vármegye közigazgatási területére,
+16. a 16. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Győr-Moson-Sopron vármegye közigazgatási
+területére,
+17. a 17. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Vas vármegye közigazgatási területére,
+18. a 18. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Somogy vármegye közigazgatási területére,
+19. a 19. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Baranya vármegye közigazgatási területére,
+20. a 20. Hadkiegészítő és Toborzó Iroda illetékessége kiterjed Zala vármegye közigazgatási területére.
+(2) A hadkiegészítő és toborzó központok, valamint a hadkiegészítő és toborzó irodák feladatainak támogatására
+toborzó pontok működhetnek.
+VII. FEJEZET
+BEHÍVÁSI AKADÁLYOK
+18. Behívási akadályok
+20. § (1) A Hvt. 37. § (2) bekezdése alapján nem hívható be katonai szolgálatra,
+a) aki katonai szolgálatra alkalmatlan,
+b) aki saját háztartásában három vagy ennél több kiskorú vér szerinti, örökbe fogadott, mostoha vagy nevelt
+gyermek eltartásáról gondoskodik,
+c) aki a vele közös háztartásban élő állandó ápolásra, vagy gondozásra szoruló egyenes ági rokonát vagy
+házastársát, élettársát egyedül ápolja, gondozza,
+d) aki a vele közös háztartásban élő kiskorú gyermekét egyedül tartja el,
+e) akit országgyűlési, európai parlamenti vagy helyi önkormányzati képviselőjelöltként, polgármesterjelöltként,
+főpolgármester-jelöltként, vármegyei közgyűlés elnökjelöltjeként, nemzetiségi önkormányzati
+képviselőjelöltként nyilvántartásba vettek a jelöltsége fennállásáig,
+f) akit országgyűlési, európai parlamenti vagy helyi önkormányzati képviselőként, polgármesterként,
+alpolgármesterként, főpolgármesterként, főpolgármester-helyettesként, alpolgármesterként, vármegyei
+közgyűlés elnökeként, vármegyei közgyűlés alelnökeként, nemzetiségi önkormányzati képviselőként
+megválasztottak, a mandátuma vagy megbízatása fennállásáig,
+
+g) aki honvédelmi szervezet hivatásos, szerződéses vagy önkéntes tartalékos állományú tagja, vagy aki
+a miniszter által vezetett minisztériumban kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban
+vagy munkaviszonyban áll,
+h) aki az Országgyűlési Őrség, polgári nemzetbiztonsági szolgálat vagy rendvédelmi szerv hivatásos, vagy
+szerződéses állományú tagja,
+i) akinek közös háztartásban élő házastársa, élettársa katonai szolgálatot teljesít, amennyiben közös
+háztartásban élő kiskorú gyermeket nevelnek,
+j) aki a korábban hatályos szabályok szerint a polgári szolgálat időtartamát már teljesítette,
+k) aki fegyver nélküli katonai szolgálat iránti kérelmet nyújtott be, annak végleges elbírálásáig,
+l) aki a hadiállapot Kormány általi kezdeményezését megelőzően személy gondnokául ki lett jelölve,
+m) aki 3 évet meghaladó szabadságelvonással járó büntetést tölt, illetve aki 5 évet meghaladó
+szabadságvesztéssel fenyegetett bűncselekmény elkövetése miatt büntetőeljárás hatálya alatt áll, a jogerős
+döntésig,
+n) akit állam elleni bűncselekmény miatt bármilyen tartamú szabadságvesztésre ítéltek.
+(2) Az (1) bekezdés b) pontjának alkalmazása szempontjából nevelt gyermek az, akit a hadköteles legalább egy éve
+tart el saját háztartásában.
+VIII. Fejezet
+A MEGHAGYÁSSAL KAPCSOLATOS ELJÁRÁS ÉS ELLENŐRZÉS
+19. A meghagyás előkészítése
+21. § (1) A területi védelmi bizottság meghagyásba bevont szervként a honvédelmi feladat ellátásában – jogszabály, hatósági
+határozat vagy szerződés alapján – közreműködő szervet jelöl ki a Hvt. 1. melléklete szerinti III. kategóriába.
+(2) A területi védelmi bizottság illetékességi területén a Hvt. 1. melléklete szerinti III. kategória szerint meghagyásba
+bevont szervnek az jelölhető ki, amely nélkülözhetetlen a honvédelmi igazgatás területi irányításához, vezetéséhez,
+a területi és helyi közigazgatás működőképességének biztosításához, valamint a lakosság ellátási feladatokhoz,
+továbbá nem tartozik a Hvt. 1. melléklete szerinti II. kategóriába.
+(3) Az (1) bekezdés szerinti meghagyásba bevont szerv megszűnése, vagy honvédelmi feladatainak megszűnése
+esetén a területi védelmi bizottság – az (1) bekezdésben meghatározott módon – a meghagyásba történő bevonás
+megszüntetéséről dönt.
+(4) A területi védelmi bizottság a végleges határozatot megküldi a Honvédség katonai igazgatási és központi
+adatfeldolgozó szerve részére, valamint a meghagyásba bevont szerv székhelye szerinti település, fővárosi kerület
+polgármesterének is.
+22. § (1) A meghagyásba bevont szerv kijelöli a meghagyás előkészítésével és végrehajtásával kapcsolatos feladatok
+ellátásáért felelős személyt.
+(2) A meghagyásba bevont szerv köteles kijelölni a meghagyási névjegyzék előkészítése érdekében a meghagyással
+érintett munkaköröket. Meghagyással érintett munkakörként a honvédelem irányításához, vezetéséhez,
+a törvényhozás, az igazságszolgáltatás, a közigazgatás, valamint a gazdaság működőképességének biztosításához,
+a honvédelmi, a rendvédelmi feladatok megvalósulásához, a védelmi fejlesztéshez, a hadiipari termeléshez,
+a legfontosabb lakosságellátási feladatokhoz nélkülözhetetlen munkakörben, beosztásban, álláshelyen ellátandó
+feladat jelölhető ki.
+(3) A munkakör kijelölését a meghagyásba bevont szerv a kijelölő iratban indokolni köteles.
+(4) A Hvt. 1. melléklete szerinti III. kategóriába tartozó szerv egy adott munkakör esetében – amennyiben az adott
+munkakörből több is van – legfeljebb az érintett munkakörök 60%-át jelölheti ki meghagyásra.
+(5) A (4) bekezdésben meghatározottnál nagyobb arányban kizárólag a miniszter egyedi engedélye alapján jelölhet ki
+munkakört.
+(6) Az (5) bekezdésben meghatározott egyedi engedély iránti kérelmet a miniszterhez címezve a Honvéd Vezérkar
+főnöke részére kell megküldeni.
+(7) A miniszter az (5) bekezdés szerinti döntéséről írásban tájékoztatja a kérelmezőt, a meghagyásba vonó területi
+védelmi bizottságot és a Honvéd Vezérkar főnökét.
+
+(8) A meghagyási névjegyzéken a Honvédségnél, a rendvédelmi szerveknél, a nemzetbiztonsági szolgálatoknál és
+az Országgyűlési Őrségnél foglalkoztatott hadkötelesek munkakörét nem kell feltüntetni.
+(9) Ha a hadköteles
+a) a munkakörváltozás okán meghagyásra a továbbiakban már nem tervezhető, vagy
+b) a meghagyási névjegyzéken szerepel, de nem dolgozik a meghagyásra kijelölt munkakörben,
+és a Honvéd Vezérkar főnöke elrendeli a hadköteles törlését a meghagyási névjegyzékből, a meghagyásba bevont
+szerv az érintett meghagyási névjegyzékben szereplő adatait haladéktalanul, de legkésőbb 30 napon belül törli.
+20. A meghagyás előkészítésének ellenőrzése
+23. § (1) A Honvéd Vezérkar főnöke – a (2) bekezdésben meghatározott kivétellel – ellenőrzi, hogy a meghagyásba bevont
+szerv a meghagyás előkészítésével kapcsolatos feladatait a jogszabályban meghatározott szabályok szerint látja-e el.
+(2) A területi védelmi bizottság által meghagyásba bevont szerv (1) bekezdés szerinti ellenőrzését a területi védelmi
+bizottság végzi. A területi védelmi bizottság az ellenőrzés során azt is vizsgálja, hogy a bevonás jogszabályban
+meghatározott feltételei fennállnak-e.
+(3) Az ellenőrzést az általános közigazgatási rendtartásról szóló törvény hatósági ellenőrzésre vonatkozó szabályai
+szerint kell végrehajtani.
+(4) Helyszíni ellenőrzést a Honvéd Vezérkar főnöke vagy a területi védelmi bizottság által kijelölt személy is végezhet.
+A helyszíni ellenőrzésre kijelölt személy ellenőrzési jogosultságát megbízólevéllel köteles igazolni.
+(5) Ha az ellenőrzés eredményeként megállapításra kerül, hogy a meghagyásba bevont szerv a meghagyás
+előkészítésével kapcsolatos feladatait nem vagy nem a jogszabályban meghatározott szabályok szerint teljesítette,
+az általános közigazgatási rendtartásról szóló törvényben foglalt intézkedéseken túl a Honvéd Vezérkar főnöke vagy
+a (2) bekezdésben meghatározott hatóság rendelkezhet a meghagyásra kijelölt munkakör kijelölésének törléséről.
+A végleges döntést közölni kell a Honvédség katonai igazgatási és központi adatfeldolgozó szervével is.
+(6) Ha a területi védelmi bizottság az ellenőrzés során megállapítja, hogy az általa meghagyásba bevont szerv
+meghagyásba történő bevonásának a jogszabályban meghatározott feltételei nem állnak fenn, a meghagyásba
+történő bevonás megszüntetéséről dönt. A végleges döntést közölni kell a Honvédség katonai igazgatási és
+központi adatfeldolgozó szervével is.
+(7) Az (1)–(6) bekezdésben foglaltak nem alkalmazhatók, ha a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény
+19. § n) pontja szerinti együttműködési megállapodás ettől eltérően rendelkezik.
+21. A meghagyás végrehajtásával kapcsolatos feladatok ellenőrzése
+24. § (1) A Honvéd Vezérkar főnöke ellenőrzi, hogy a meghagyási névjegyzéken szereplő hadkötelesek meghagyása
+a jogszabályban meghatározott szabályok szerint történik.
+(2) Az ellenőrzést a területi védelmi bizottság által meghagyásba bevont szervek esetében a területi védelmi bizottság
+is elvégezheti.
+(3) Az ellenőrzést az általános közigazgatási rendtartásról szóló törvény hatósági ellenőrzésre vonatkozó szabályai
+szerint kell végrehajtani.
+(4) Helyszíni ellenőrzést a Honvéd Vezérkar főnöke vagy a területi védelmi bizottság által kijelölt személy is végezhet.
+A helyszíni ellenőrzésre kijelölt személy ellenőrzési jogosultságát megbízólevéllel köteles igazolni.
+(5) Ha az ellenőrzés eredményeként megállapításra kerül, hogy a meghagyási névjegyzéken szereplő hadköteles nem
+dolgozik a meghagyásra kijelölt munkakörben, a Honvéd Vezérkar főnöke a hadköteles adatainak a meghagyási
+névjegyzékből való törlését rendeli el. A döntést közölni kell a Honvédség katonai igazgatási és központi
+adatfeldolgozó szervével is.
+(6) Ha a Honvéd Vezérkar főnöke, vagy a (2) bekezdésben meghatározott hatóság az ellenőrzés során megállapítja,
+hogy a területi védelmi bizottság által kijelölt meghagyásba bevont szerv meghagyásba történő bevonásának
+a jogszabályban meghatározott feltételei nem állnak fenn, a Honvéd Vezérkar főnöke a meghagyásba történő
+bevonás megszüntetéséről dönt. A döntést közölni kell a Honvédség katonai igazgatási és központi adatfeldolgozó
+szervével is.
+(7) Az (1)–(6) bekezdésben foglaltak nem alkalmazhatók, ha a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény
+19. § n) pontja szerinti együttműködési megállapodás ettől eltérően rendelkezik.
+
+22. Elektronikus adatszolgáltatás
+25. § (1) A meghagyásba bevont szerv a meghagyási névjegyzéknek a Honvédség katonai igazgatási és központi
+adatfeldolgozó szerve részére történő továbbítását az 1. mellékletben meghatározott követelmények szerinti
+formátumban, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi
+CCXXII. törvényben (a továbbiakban: Eüsztv.) meghatározott elektronikus kapcsolattartás útján, vagy az elektronikus
+adathordozó postai úton történő megküldésével teljesítheti.
+(2) A postai úton történő adatszolgáltatás során fel kell tüntetni a meghagyásba bevont szerv megnevezését,
+körbélyegzőjének lenyomatát, képviselőjének aláírását, továbbá az adatszolgáltatás okát és idejét.
+(3) Elektronikus kapcsolattartás útján történő adatszolgáltatás esetén, ha nem az adatszolgáltatásra kötelezett,
+hanem az általa erre felhatalmazott személy teljesíti az adatszolgáltatást, postai úton az arra rendszeresített
+formanyomtatványon előzetes meghatalmazást kell küldenie a felhatalmazott személyről, amely visszavonásig
+érvényes, és tartalmazza a felhatalmazott személy azonosításához szükséges adatokat. A formanyomtatvány
+adattartalmára vonatkozó követelményeket a 2. melléklet tartalmazza.
+(4) A (3) bekezdés szerinti meghatalmazást az adatszolgáltatásra kötelezett az Eüsztv. szerinti rendelkezési nyilvántartás
+útján is megteheti. Ebben az esetben a Honvédség katonai igazgatási és központi adatfeldolgozó szerve
+a rendelkezési nyilvántartásban ellenőrzi az érvényes rendelkezés meglétét.
+(5) Az (1)–(4) bekezdésben foglaltak nem alkalmazhatók, ha a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény
+19. § n) pontja szerinti együttműködési megállapodás ettől eltérően rendelkezik.
+IX. Fejezet
+A LÉGIRIASZTÁS RENDSZERE
+23. A légiriasztási rendszer kialakításának elvei, a légiriasztási rendszer követelményei, a felkészülés
+időszakában a kialakításért, fejlesztésért viselt felelősség
+26. § (1) Légitámadás esetére az államnak a személyi veszteségek és az anyagi károk csökkentése, megelőzése, az élet- és
+vagyonmentés céljából riasztási és tájékoztatási rendszert (a továbbiakban: légiriasztási rendszer) kell fenntartania.
+(2) A légiriasztási rendszert úgy kell kialakítani és készenlétben tartani, hogy az az ország egész területén képes legyen
+a riasztásra.
+(3) A lakosság tájékoztatásáért, szükség esetén a riasztásáért felelős szervek és személyek úgy kötelesek eljárni, hogy
+megfelelően szolgálják a lakosság gyors tájékoztatását és riasztását.
+(4) A légiriasztási közlemények lakosság részére történő közzétételét a jogszabályban kijelölt elektronikus hírközlési
+szolgáltató és médiaszolgáltató, műsorcsatornáin a műsorszóró hálózatra telepített Országos Légiriasztási Rendszer
+alkalmazásával kell végrehajtani.
+24. A légiriasztás végrehajtásában érintett szervek és személyek feladatai
+27. §
+A miniszter
+a) kijelöli a Honvédségnek az ország területe légvédelmi készenléti erőkkel történő oltalmazásáért felelős
+honvédségi szervezetet (a továbbiakban: kijelölt katonai szervezet),
+b) gondoskodik a kijelölt katonai szervezet és a Belügyminisztérium Országos Katasztrófavédelmi
+Főigazgatósága (a továbbiakban: BM OKF), továbbá a Médiaszolgáltatás-támogató és Vagyonkezelő Alap
+(a továbbiakban: MTVA) közötti összeköttetés létesítéséről és fenntartásáról,
+c) a minisztérium honvédelmi igazgatási feladatokat ellátó szervezeti egysége útján
+ca) koordinálja a légiriasztási rendszer kialakításával és fenntartásával kapcsolatos feladatokat,
+cb) kapcsolatot tart a légiriasztás rendszerének fenntartását és működtetését ellátó honvédelemben
+közreműködő szervekkel, koordinálja a honvédelmi felkészülés időszakában a szervezetek közötti
+együttműködést,
+cc) közreműködik a műsorszóró hálózatra telepített Országos Légiriasztási Rendszer üzempróbái
+tapasztalatainak feldolgozásában,
+
+cd) biztosítja a légiriasztási rendszer fenntartásában és működtetésében közreműködő szervezeteknek
+a honvédelmi felkészülés időszakában a védelmi és biztonsági igazgatást érintő hazai és nemzetközi
+válságkezelési gyakorlatokon való részvételt.
+28. §
+A katasztrófák elleni védekezésért felelős miniszter
+a) irányítja a légiriasztással kapcsolatos polgári védelmi feladatok végrehajtását,
+b) a BM OKF útján biztosítja a légierő ügyeletes parancsnokától érkező, vagy a médiaszolgáltatók által sugárzott
+légiriasztási jelzés továbbítását a hivatásos katasztrófavédelmi szervek részére,
+c) kidolgozza a honvédelmi felkészítés éves feladattervében szereplő, a fegyveres összeütközések időszakában
+végrehajtandó polgári védelmi feladatokat,
+d) gondoskodik a települések riasztását szolgáló berendezések telepítésével, működtetésével, karbantartásával,
+időszakos hangos próbájával kapcsolatos feladatok végrehajtásáról, a lakosság felkészítéséről, a légiriasztás
+elrendelése után a lakosság magatartására vonatkozó szabályok megismertetéséről,
+e) a katasztrófavédelem riasztási rendszerében gondoskodik a lakosság légiriasztásáról,
+f) a fejezet költségvetésének tervezése során gondoskodik az a)–e) pont szerinti feladatok végrehajtásának
+fedezetéről.
+29. §
+Az elektronikus hírközlésért felelős miniszter
+a) együttműködik a Nemzeti Média- és Hírközlési Hatósággal a médiaszolgáltatók és az elektronikus hírközlési
+szolgáltatók légiriasztásra történő felkészítésének szervezési és technikai feltételei biztosításában, a technikai
+rendszer korszerűsítésében, a működőképesség rendszeres ellenőrzésében,
+b) közreműködik a légiriasztásban érintett szervezetek elektronikus hírközléssel kapcsolatos honvédelmi
+felkészítésében,
+c) együttműködik a Nemzeti Média- és Hírközlési Hatósággal és a miniszterrel a rádió- és televízióadók
+légiriasztási rendszerbe történő bevonására vonatkozó követelmények kidolgozásában és esetenkénti
+felülvizsgálatában,
+d) a költségvetés tervezése során gondoskodik az a)–c) pont szerinti feladatok végrehajtásának fedezetéről.
+30. §
+A Nemzeti Média- és Hírközlési Hatóság
+a) hatáskörében végzi a légiriasztási rendszer működtetésével, fenntartásával, korszerűsítésével kapcsolatos
+tervezési és szervezési feladatokat,
+b) együttműködik a miniszterrel, az elektronikus hírközlésért felelős miniszterrel, a BM OKF-fel, a Terrorelhárítási
+Központtal (a továbbiakban: TEK) és az MTVA-val,
+c) az MTVA-val egyeztetve szervezi és felügyeli a műsorszóró hálózatra telepített átkapcsoló rendszer
+üzempróbáit,
+d) felügyeli az átkapcsoló rendszerbe bevont médiaszolgáltatók és elektronikus hírközlési szolgáltatók
+légiriasztással kapcsolatos tevékenységét,
+e) kijelöli a riasztás feladatainak végrehajtásában részt vevő médiaszolgáltatókat és elektronikus hírközlési
+szolgáltatókat, meghatározza feladataikat, és biztosítja az átkapcsoló rendszerbe történő bevonásuk
+technikai feltételeit,
+f) javaslatot tesz az átkapcsoló rendszer fejlesztésére,
+g) gondoskodik a médiaszolgáltatók és elektronikus hírközlési szolgáltatók légiriasztásra történő felkészítésének
+szervezési és technikai feltételeiről, a technikai rendszer korszerűsítéséről, a működőképesség rendszeres
+ellenőrzéséről az érintett szervekkel egyeztetett műsoridőben,
+h) végzi – a miniszterrel egyetértésben – a légiriasztásban érintett szervezetek elektronikus hírközléssel
+kapcsolatos honvédelmi felkészítését,
+i) vezeti és koordinálja – a miniszterrel egyetértésben – a légiriasztási rendszert érintő rombolások,
+üzemkiesések helyreállításával összefüggő döntések végrehajtását,
+j) a költségvetés tervezése során gondoskodik az a)–i) pont szerinti feladatok végrehajtásának fedezetéről.
+
+31. §
+A BM OKF
+a) előkészíti a lakosság riasztásához szükséges okmányokat, a veszély jellegére utaló tájékoztatót és
+a követendő magatartási szabályokat tartalmazó közleményt,
+b) a fővárosi és vármegyei katasztrófavédelmi igazgatóságok útján szervezi a lakosság riasztásának,
+tájékoztatásának területi, helyi feladatait,
+c) végrehajtja a kijelölt katonai szervezettel kötött együttműködési megállapodásban foglaltakat,
+d) folyamatos készenléti szolgálatot működtet a légiriasztás elrendelésének, feloldásának vételére,
+e) a légierő ügyeletes parancsnokával folytatott egyeztetés után – a fővárosi és vármegyei katasztrófavédelmi
+igazgatóságok útján – tájékoztatja a lakosságot a légitámadás következményeinek károsító hatásairól,
+az azok ellen való védekezésről és a légiriadó feloldását követően tanúsítandó magatartási szabályokról.
+32. §
+A kijelölt katonai szervezet vezetője
+a) a BM OKF-fel, továbbá az MTVA-val kötött együttműködési megállapodásban meghatározza
+az együttműködés rendjét, a légiriasztás elemeit, a légiriasztás elrendelésére és feloldására jogosult
+személyeket, az összeköttetés rendjét, a légiriasztásban érintett szervezetek feladatait, a légiriasztással
+kapcsolatos okmányok tárolására és kezelésére vonatkozó szabályokat, a légiriasztás feltételrendszerére és
+fejlesztésére vonatkozó szabályokat,
+b) az a) pont szerinti együttműködési megállapodás végrehajtása érdekében kidolgozza, és az a) pontban
+meghatározott szervek rendelkezésére bocsátja a légiriasztás elrendelésére, feloldására vonatkozó értesítés
+okmányait,
+c) ügyeleti szolgálat útján biztosítja a légiriasztás elrendelését, feloldását,
+d) nemzetközi megállapodás alapján együttműködik más államok légvédelmi oltalmazásért felelős katonai
+vezetőivel.
+33. §
+Az MTVA
+a) a légiriasztás elrendelésének vagy feloldásának vételére folyamatos ügyeleti szolgáltatást működtet,
+b) gondoskodik a légiriasztás jelzésére vagy feloldására szolgáló okmányok őrzéséről, a közlés feltételeinek
+megteremtéséről és technikai végrehajtásáról,
+c) az adás megszakításával haladéktalanul közli a légiriasztásra vagy annak feloldására vonatkozó jelzést,
+d) végzi a rádió- és televízióadók légiriasztási közlemény adására történő központi átkapcsolását,
+visszakapcsolását a kiépített műszaki rendszerben azzal, hogy az átkapcsolási rendszer katasztrófák elleni
+védekezés során, valamint terrortámadás jelentős és közvetlen veszélye, terrortámadás bekövetkezése
+esetén is felhasználható a lakosság riasztására,
+e) gondoskodik a légiriasztással kapcsolatos közlemények közzétételéről, közreműködik a lakosságra vonatkozó
+magatartási szabályok ismertetésében.
+25. A légiriasztás elrendelése és feloldása
+34. §
+Légitámadás vagy annak közvetlen veszélye esetén a légierő ügyeletes parancsnoka elrendeli a légiriasztást, a BM
+OKF-fel történt egyeztetést követően pedig feloldja azt.
+35. §
+A légiriasztásra vonatkozó, a légierő ügyeletes parancsnokától érkező jelzés vételét követően
+a) az Országos Légiriasztási Rendszer MTVA-nál elhelyezett eszközén és
+b) a polgári védelem riasztási rendszere helyi riasztási eszközein
+a légiriasztást azonnal végre kell hajtani.
+36. § (1) A légiriasztásra vonatkozó, a légierő ügyeletes parancsnokától érkező jelzés vételét követően az MTVA
+adáslebonyolító helyiségéből a légiriadó elrendelése vagy feloldása a 3. melléklet 2. pontja szerint történik.
+(2) A légiriasztás jele a katasztrófavédelem rendszerében a 3. melléklet 1.1. pontjában meghatározott jelzés.
+(3) A légiriasztás feloldásának jele a katasztrófavédelem rendszerében a 3. melléklet 1.2. pontjában meghatározott
+jelzés.
+
+26. A légiriasztási rendszer használata katasztrófavédelmi riasztási célból
+37. § (1) A légiriasztási rendszer keretében elvégezhető az ország egész területén a lakosság katasztrófa riasztása
+is, ez azonban nem veszélyeztetheti a 26. § (1) és (2) bekezdése szerinti feladatok elvégzését. A légiriasztási
+rendszernek a lakosság katasztrófa riasztására történő felhasználása esetén nem alkalmazható a 27. §, a 31. §, a 32. §,
+a 34. §, a 35. §, a 36. § (1) bekezdése, valamint a 3. és a 4. melléklet.
+(2) A lakosság katasztrófa riasztását a BM OKF főigazgatója által kijelölt személy rendelheti el és oldhatja fel, amelyről
+értesíti a légierő ügyeletes parancsnokát.
+(3) A BM OKF a légiriasztási rendszernek a lakosság katasztrófa riasztására történő felhasználása esetén az ügyeleti
+szolgálata útján – a (2) bekezdésben meghatározott döntést követően – továbbítja az MTVA részére a 31. §
+a) pontjában meghatározott közleményt.
+27. A légiriasztási rendszer használata terrorelhárítási riasztási célból
+38. § (1) A légiriasztási rendszer keretében elvégezhető az ország egész területén terrortámadás jelentős és közvetlen
+veszélye vagy terrortámadás bekövetkezése esetén a lakosság riasztása és tájékoztatása is, ez azonban nem
+veszélyeztetheti a 26. § (1) és (2) bekezdése szerinti feladatok elvégzését. A légiriasztási rendszernek a terrortámadás
+jelentős és közvetlen veszélye, vagy terrortámadás bekövetkezése esetén a lakosság riasztására történő
+felhasználása során nem alkalmazható a 27. §, a 31. §, a 32. §, a 34. §, a 35. §, a 36. § (1) bekezdése, valamint a 3. és
+a 4. melléklet.
+(2) Terrortámadás jelentős és közvetlen veszélye, terrortámadás bekövetkezése esetén a lakosság tájékoztatását,
+szükség esetén a riasztását a TEK főigazgatója vagy az általa kijelölt személy rendelheti el és oldhatja fel, amelyről
+értesíti a légierő ügyeletes parancsnokát.
+39. § (1) A TEK
+a) előkészíti a lakosság tájékoztatásához, szükség esetén a riasztásához szükséges okmányokat, a terrortámadás
+jelentős és közvetlen veszélyével vagy a terrortámadással kapcsolatos közlendőket,
+b) terrortámadás jelentős és közvetlen veszélye vagy terrortámadás bekövetkezése esetén, a lakosság
+tájékoztatása, szükség esetén a riasztása céljából az ügyeleti szolgálata útján – a 36. §-ban meghatározott
+döntést követően – továbbítja az MTVA részére az a) pontban meghatározott közlendőket,
+c) végrehajtja a kijelölt katonai szervezettel kötött együttműködési megállapodásban foglaltakat.
+(2) A kijelölt katonai szervezet vezetője a TEK-kel, továbbá az MTVA-val kötött együttműködési megállapodásban
+meghatározza az együttműködés rendjét, a terrortámadás jelentős és közvetlen veszélye, terrortámadás
+bekövetkezése esetén a lakossági tájékoztatás, szükség esetén a riasztás elemeit, a riasztás elrendelésére és
+feloldására jogosult személyeket, az összeköttetés rendjét, a riasztásban érintett szervezetek feladatait, a riasztással
+kapcsolatos okmányok tárolására és kezelésére vonatkozó szabályokat, a riasztás feltételrendszerére és fejlesztésére
+vonatkozó szabályokat.
+X. Fejezet
+A HONVÉDSÉG EGÉSZSÉGÜGYI VÁLSÁGHELYZETTEL ÖSSZEFÜGGŐ FELADATOKBAN TÖRTÉNŐ
+KÖZREMŰKÖDÉSE
+28. Egyes egészségügyi válságkezelési szabályok
+40. § (1) A Honvédség – figyelemmel a Hvt. 59. § (1) bekezdés m) pontjára – közreműködik az egészségügyi válsághelyzettel
+kapcsolatos, a (2) és az (5) bekezdés szerinti feladatok ellátásában.
+(2) A Honvédség támogatja az egészségügyi válsághelyzettel összefüggő rendvédelmi intézkedések végrehajtása
+során az általános rendőrségi feladatok ellátására létrehozott szervet (a továbbiakban: rendőrség) és a hivatásos
+katasztrófavédelmi szervet szakfeladatainak ellátásában, ennek során
+a) ellátja egyes kijelölt létesítmények őrzését, védelmét,
+b) közreműködik a védelmi intézkedések betartásának ellenőrzésében, valamint
+c) közterületi járőrszolgálatot lát el.
+
+(3) A Honvédség a (2) bekezdés b) és c) pontja szerinti közreműködői és támogatói feladatokat a (4) bekezdésben
+meghatározott személyi kör iránymutatása alapján önállóan vagy a rendőrséggel együtt látja el.
+(4) A (2) bekezdés a) pontja szerinti őrzés-védelmi feladatot az egészségügyi válsághelyzet ideje alatt – a Hvt. 110. §
+(1) bekezdés 9. pontja alapján kiadott kormányrendeletben nem szabályozott esetben – a Honvédség önállóan vagy
+a rendőrséggel együtt
+a) a Kormány honvédelemért felelős tagjának döntése vagy
+b) a Kormány katasztrófák elleni védekezésért felelős tagjának felkérése
+alapján, az a) pont szerinti döntésben, valamint a b) pont szerinti felkérésben megjelölt létesítmény vonatkozásában
+– kapacitásai és az egyéb, az egészségügyi válsághelyzetben ellátandó feladatai teljesíthetősége figyelembevétele
+mellett – látja el.
+(5) A Honvédség az egészségügyi válsághelyzet ideje alatt a (2) bekezdésben meghatározott feladatokon túl
+közreműködik az egészségügyi válsághelyzet elhárításában kapacitásai, valamint az egyéb, az egészségügyi
+válsághelyzet ideje alatt ellátandó feladatai teljesíthetősége figyelembevétele mellett.
+41. §
+Az egészségügyi válsághelyzet ideje alatt a honvédek jogállásáról szóló 2012. évi CCV. törvény XXI/B. Fejezete,
+valamint a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény VI/A. Fejezete szerinti szabályokat
+alkalmazni kell.
+XI. Fejezet
+A KATONAI KIBERTÉR MŰVELETI FELADATOKRÓL
+29. Katonai kibertér műveleti együttműködés
+42. §
+A katonai kibertér műveleti erők a Honvédség műveleteket támogató információs rendszerek üzemeltetésével,
+a kibertér műveleti feladatok ellátásával, az ezekhez kapcsolódó feladatokra való kiképzéssel, gyakorlatokkal és
+felkészítéssel, továbbá elemző és szakértő tevékenységgel, valamint a feladatok ellátásának szakmai irányításával
+foglalkozó szervezetei és személyi állománya.
+43. § (1) A Magyarország kiberterének védelmére kijelölt, vagy abban közreműködő állami szervek a Honvédség katonai
+kibertér műveleti erőkkel a Hvt.-ben foglalt feladataik ellátása során együttműködnek. Az együttműködés keretében
+a katonai kibertér műveleti erők az állami szerv kijelölt kapcsolattartója útján tartanak kapcsolatot.
+(2) A kapcsolattartás érdekében a Honvédség katonai kibertér műveleti erői az (1) bekezdés szerinti állami szervet
+a kapcsolattartó kijelölése érdekében megkeresik, amely megkeresésnek az állami szerv 8 napon belül eleget tesz.
+(3) A kijelölt kapcsolattartó személyében történt változást az (1) bekezdés szerinti állami szerv haladéktalanul közli
+a Honvédség katonai kibertér műveleti erők kijelölt kapcsolattartójával.
+44. §
+A Hvt. 88. § (1) bekezdésében szereplő feladatok végrehajtása érdekében – a jogszabályban meghatározott
+elektronikus információbiztonsági feladatokra és a Hvt. 17. § (5) bekezdésére figyelemmel – a Honvédség
+katonai kibertér műveleti erőkkel együttműködnek az állami és önkormányzati szervek elektronikus
+információbiztonságáról szóló 2013. évi L. törvény 19. § (1) bekezdésében meghatározott eseménykezelő központ,
+a honvédelmi és a katasztrófavédelmi feladatok ellátásában közreműködésre kötelezett elektronikus hírközlési
+szolgáltatók, valamint a kormányzati célú hálózat működtetője, különösen a honvédelmi válsághelyzetben és
+a különleges jogrend idején alkalmazandó intézkedési terv kidolgozása és a felkészülési feladatok végrehajtása
+céljából.
+45. §
+A honvédelmi létfontosságú elektronikus információs rendszerelemeket üzemeltető szervezetek együttműködnek
+a Honvédség katonai kibertér műveleti erőkkel annak érdekében, hogy honvédelmi válsághelyzetben és különleges
+jogrendben – a Kormány ezirányú döntése alapján – a katonai kibertér műveleti erők közreműködhessenek
+az érintett infrastruktúrák védelmében.
+46. §
+A katonai kibertér műveleti erők a Hvt.-ben meghatározott feladataikra történő eredményes felkészülés érdekében
+a honvédelmi szervezetek – ide nem értve a Katonai Nemzetbiztonsági Szolgálatot – számára gyakorlatokat
+szerveznek, valamint ilyeneken részt vesznek.
+
+XII. Fejezet
+ZÁRÓ RENDELKEZÉSEK
+30. Hatályba léptető rendelkezés
+47. §
+Ez a rendelet 2023. január 1-jén lép hatályba.
+31. Hatályon kívül helyező rendelkezés
+48. §
+Hatályát veszti a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető
+intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.)
+Korm. rendelet.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 614/2022. (XII. 29.) Korm. rendelethez
+Meghagyási névjegyzék formátumára vonatkozó követelmények
+1. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben
+meghatározott elektronikus kapcsolattartás útján, formanyomtatvánnyal, csatolmányaként a munkakörökre és
+a munkaköröket betöltő, hadkötelezettség alá tartozó személyekre vonatkozóan táblázatkezelő alkalmazással
+készített dokumentumokkal (2. pont 2.2. és 2.3. alpontjában meghatározott adatállományok).
+2. Az adatállományok elektronikus adathordozón, postai úton történő megküldésével „csv” formátumban. Minden
+mező után pontosvessző következik, akkor is, ha nincs benne adat.
+2.1. Az első adatállomány egy szöveges állomány („csv”), melyben az első sor a szervezet adatait pontosvesszővel
+elválasztva a következők szerint tartalmazza:
+2.1.1. jogszabályban kijelölt szervezet esetén:
+2.1.1.1. szerv megnevezése,
+2.1.1.2. meghagyási kategória,
+2.1.1.3. meghagyási alkategória,
+2.1.1.4. szerv székhelye,
+2.1.1.5. szerv címe,
+2.1.1.6. felelős személy neve,
+2.1.1.7. felelős személy telefonszáma,
+2.1.1.8. felelős személy e-mail-címe,
+2.1.1.9. központi hivatallá nyilvánítást tartalmazó jogszabály (központi hivatal esetén),
+2.1.1.10. honvédelmi feladat ellátására kijelölő jogszabály (18. alkategória esetén),
+2.1.1.11. bírósági határozat száma a nyilvántartásba vételről (19. alkategória esetén).
+2.1.2. egyedileg kijelölt egyéni vállalkozó esetén:
+2.1.2.1. meghagyási kategória,
+2.1.2.2. a kijelölő határozat száma, kiállítója,
+2.1.2.3. az egyéni vállalkozó neve, címe, adószáma, telefonszáma, e-mail-címe,
+2.1.2.4. ha a felelős személy nem az egyéni vállalkozó, a felelős (kapcsolattartó) személy neve,
+telefonszáma, e-mail-címe.
+2.1.3. egyedileg kijelölt szervezet esetén:
+2.1.3.1. meghagyási kategória,
+2.1.3.2. a kijelölő határozat száma, kiállítója,
+2.1.3.3. a szervezet megnevezése, székhelye, kijelölt telephelye vagy fióktelepe, adószáma,
+2.1.3.4. a felelős (kapcsolattartó) személy neve, telefonszáma, e-mail-címe.
+
+2.2. A második adatállomány a következő adatokat tartalmazza 1-1 munkakörre vonatkozóan, soronként:
+2.2.1. meghagyásra kijelölt munkakörök megnevezése,
+2.2.2. azonos munkakörök mennyisége (munkakörönként),
+2.2.3. azonos munkakörök közül meghagyásra tervezettek száma (munkakörönként).
+2.3. A harmadik adatállomány soronként tartalmazza a meghagyásra tervezett személyek adatait a következő
+sorrendben:
+2.3.1. születési családi név,
+2.3.2. születési 1. utónév,
+2.3.3. születési 2. utónév,
+2.3.4. házassági családi név,
+2.3.5. házassági 1. utónév,
+2.3.6. házassági 2. utónév,
+2.3.7. anyja születési családi neve,
+2.3.8. anyja születési 1. utóneve,
+2.3.9. anyja születési 2. utóneve,
+2.3.10. születési idő (év, hónap, nap formátumban),
+2.3.11. születési hely,
+2.3.12. munkakör.
+3. Az adatállományok elektronikus adathordozón, postai úton történő megküldésével „MS Excel” formátumban.
+Amennyiben a 2. pontban meghatározott formátumot nem lehet előállítani, akkor a meghagyási névjegyzéket
+„MS Excel” formátumban, egy munkafüzetben, adatállományonként külön-külön munkalapon kell elkészíteni.
+A munkalapok tartalma megegyezik a 2. pontban meghatározott adatállományok adattartalmával.
+4. Az 1. és 2. pontban meghatározott adatállományokra vonatkozóan: A megadott meghagyásra kijelölt munkakörök
+megnevezésében a szervezetben elfoglalt hierarchiát, illetve a szervezeti elem megnevezését nem kell feltüntetni.
+Egy sor csak egy meghagyott személy adatait tartalmazhatja. A személy előneveit, címeit az adatszolgáltatásban
+nem szabad feltüntetni. A harmadik adatállományban a személyeknél a munkakörök megnevezése kizárólag
+a második adatállományban megadott meghagyásra kijelölt munkakörök megnevezésének egyikét tartalmazhatja.
+Az adatszolgáltatás Windows karakterkódolással (1250-es kódlap) kerül teljesítésre.
+2. melléklet a 614/2022. (XII. 29.) Korm. rendelethez
+A meghatalmazási formanyomtatvány adattartalma
+1. A meghatalmazásban szereplő adatok egyéni vállalkozó esetén a következők:
+1.1. egyéni vállalkozó neve,
+1.2. egyéni vállalkozó címe,
+1.3. egyéni vállalkozó adószáma,
+1.4. adatszolgáltató személy megadott e-mail-címe,
+1.5. – ha az adatszolgáltató személy nem az egyéni vállalkozó – az adatszolgáltató neve.
+2. A meghatalmazásban szereplő adatok szervezet esetén a következők:
+2.1. cég megnevezése,
+2.2. a cég rövidített megnevezése (ha szükséges),
+2.3. székhelye,
+2.4. adószáma,
+2.5. adatszolgáltató személyre vonatkozóan:
+2.6. megadott e-mail-cím,
+2.7. név.
+
+3. melléklet a 614/2022. (XII. 29.) Korm. rendelethez
+A légiriadó elrendelésének és feloldásának jelzése a polgári védelmi és az Országos Légiriasztási
+Rendszerben
+1. A polgári védelmi rendszer hangjelzései (szirénajelek, jelzések)
+1.1. Légiriasztás elrendelésekor leadásra kerülő hangjelzés
+1.1.1. A jelzés megnevezése: LÉGIRIADÓ
+1.1.2. A jelzés leírása: háromszor egymás után megismételt, 30 másodpercig tartó, váltakozó
+hangmagasságú (280 Hz és 400 Hz közötti) szirénahang, 30 másodperces szünettel.
+1.2. Légiriasztás feloldásakor leadásra kerülő hangjelzés
+1.2.1. A jelzés megnevezése: LÉGIRIADÓ ELMÚLT
+1.2.2. A jelzés leírása: kétszer egymás után megismételt 30 másodpercig tartó egyenletes hangmagasságú
+(400 Hz) szirénahang, a jelzések közötti 30 másodperces szünettel.
+1.2.3. A riadó elmúlt jelzés a légiriadó, valamint a katasztrófariadó jelzés feloldására is vonatkozik.
+2. A riasztásnak a műsorszóró hálózatra telepített Országos Légiriasztási Rendszerben történő megjelenítése
+2.1. A légiriasztás hangban és képben történő megjelenítése a rendszer vevőberendezéseinek átkapcsolásához,
+illetve visszakapcsoláshoz szükséges időtartamok figyelembevételével, az elrendelés és feloldás esetén is
+azonos, a 2.3. és a 2.4. alpontban rögzített rend szerint történik.
+2.2. A légiriasztás elrendelése és feloldása a televízió- és rádióadásokban egyidejűleg kerül megjelenítésre.
+2.3. A kisugárzott hang
+2.3.1. A légiriasztási közérdekű közlemény közzététele szirénahanggal kezdődik, majd 30 másodperc
+elteltével, halkabb szirénahanggal a háttérben, 5 másodperces megszakítássokkal háromszor
+egymás után hallható a légiriadó elrendelésének, illetve lefújásának 4. melléklet szerinti szövege.
+A szöveg elhangzását követően a szirénahang továbbra is hallható, és 30 másodperc alatt teljesen
+elhalkul.
+2.3.2. A szirénahang a közlemény szövegének megfelelően, a légiriasztás elrendelésének és feloldásának
+2.3.1. pont szerinti részével összhangban váltakozó vagy állandó hangmagasságú.
+2.4. A kisugárzott kép
+2.4.1. A képernyő felső harmadában, középen Magyarország címere, középső harmadában, középen
+a „LÉGIRIADÓ” felirat olvasható. A felirat előtt és után egy-egy repülőgép körvonala látható.
+A képernyő alsó harmadában megjelenített szövegsáv bal oldalán, jobbra dőlő fekete csíkozás,
+középen a légiriasztás elrendelésének, illetve feloldásának 4. melléklet szerinti szövege olvasható.
+A légiriasztás szövege, az egyidejűleg hallható szöveggel szinkronban háromszor, fekete
+nagybetűkkel jelenik meg. A sugárzott kép feliratai, valamint a repülőgépek körvonalai ütemezetten
+halványulnak el és válnak ismét láthatóvá (pulzálnak).
+2.4.2. A „LÉGIRIADÓ” felirat, a repülőgépek és a szövegsáv narancssárga színű. A címer, a felirat,
+a repülőgépek körvonalai és a szövegsáv mögötti háttér fekete színű.
+
+4. melléklet a 614/2022. (XII. 29.) Korm. rendelethez
+A légiriadó elrendelésének és feloldásának szövege
+1. Magyarország egész területére
+1.1. légiriadó elrendelése:
+„ADÁSUNKAT MEGSZAKÍTJUK
+ADÁSUNKAT MEGSZAKÍTJUK
+FIGYELEM! FIGYELEM!
+AZ ORSZÁG EGÉSZ TERÜLETÉRE LÉGIRIADÓ!
+AZ ORSZÁG EGÉSZ TERÜLETÉRE LÉGIRIADÓ!”
+1.2. légiriadó feloldása:
+„ADÁSUNKAT MEGSZAKÍTJUK
+ADÁSUNKAT MEGSZAKÍTJUK
+FIGYELEM! FIGYELEM!
+LÉGIRIADÓ ELMÚLT!
+LÉGIRIADÓ ELMÚLT!”
+2. A veszélyeztetett területre
+2.1. légiriadó elrendelése:
+„ADÁSUNKAT MEGSZAKÍTJUK
+ADÁSUNKAT MEGSZAKÍTJUK
+FIGYELEM! FIGYELEM!
+DUNÁNTÚL! DUNÁNTÚL!”
+vagy
+„DUNA–TISZA KÖZE! TISZÁNTÚL!
+DUNA–TISZA KÖZE! TISZÁNTÚL!
+LÉGIRIADÓ! LÉGIRIADÓ!”
+2.2. légiriadó feloldása:
+„ADÁSUNKAT MEGSZAKÍTJUK
+ADÁSUNKAT MEGSZAKÍTJUK
+FIGYELEM! FIGYELEM!
+DUNÁNTÚL! DUNÁNTÚL!”
+vagy
+„DUNA–TISZA KÖZE! TISZÁNTÚL!
+DUNA–TISZA KÖZE! TISZÁNTÚL!
+LÉGIRIADÓ ELMÚLT!
+LÉGIRIADÓ ELMÚLT!”
