@@ -1,5 +1,3 @@
-## 4. §[^27]
-
 5. §[^28] (1)[^29] A könyvviteli szolgáltatás végzésére jogosító engedélyt kérelme esetén meg kell adni minden olyan természetes személynek, aki megfelel a számviteli törvény 151. §-a (5) bekezdésének b) pontja szerinti feltételeknek.
 
 (2)[^30] Az engedély iránti kérelmet az 1. számú mellékletben meghatározott adattartalommal a 10/C. §-ban meghatározottak szerint kell megküldeni a nyilvántartásba vételt végző szervezet részére. A kérelem benyújtásával egyidejűleg a kérelmezőnek igazolnia kell, hogy
@@ -30,7 +28,6 @@ b) az igazgatási szolgáltatási díjat megfizette.
 
 (11)[^41] Ha a 8. § (1a) bekezdése szerinti igazolvány elveszett, ellopták, megsemmisült, illetve megrongálódott, a nyilvántartásba vett személy 30 napon belül köteles ezt az 1. számú mellékletben meghatározott adattartalommal bejelenteni a nyilvántartásba vételt végző szervezetnek a 10/C. §-ban meghatározottak szerint, a (2a) bekezdés szerinti igazolványkép megküldésével a (2) bekezdés b) pontjában foglaltak igazolása mellett. Megrongálódás esetén a fentieken túlmenően a megrongálódott igazolványt is meg kell küldeni, amelyet a nyilvántartásba vételt végző szervezet haladéktalanul megsemmisít.
 
-[^27]: A 4. §-t a 226/2013. (VI. 24.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
 [^28]: Az 5. § a 182/2009. (IX. 10.) Korm. rendelet 270. § (6) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni
 [^29]: Az 5. § (1) bekezdése a 307/2009. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^30]: Az 5. § (2) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.

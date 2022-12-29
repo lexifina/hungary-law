@@ -1,6 +1,6 @@
 11. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^212]
 
-## IGAZOLÁS
+IGAZOLÁS
 
 a könyvviteli szolgáltatást végzők kötelező szakmai továbbképzésének teljesítéséről és a továbbképzésbe számítandó kreditpontok megszerzéséről
 

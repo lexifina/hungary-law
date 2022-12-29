@@ -38,7 +38,7 @@ a) a (8) bekezdés szerinti szervezet a (8) bekezdés a)–c) pontjában,
 
 b) a (8a) bekezdés szerinti gazdálkodó a (8a) bekezdés a)–c) pontjában
 
-## foglaltak, valamint az igazgatási szolgáltatási díj megfizetésének igazolásával, a 12. számú mellékletben meghatározott adattartalommal nyújthatja be a nyilvántartásba vételt végző szervezetnek.
+foglaltak, valamint az igazgatási szolgáltatási díj megfizetésének igazolásával, a 12. számú mellékletben meghatározott adattartalommal nyújthatja be a nyilvántartásba vételt végző szervezetnek.
 
 (10)[^127] A szakmai szervezet és a szakmai szerveződést működtető gazdálkodó a (7) bekezdés szerinti szakmai konzultáción, képzésen, szakmai rendezvényen történő részvételi jogosultságról igazolást állít ki a továbbképzésre kötelezett részére, amelyet a továbbképzésre kötelezett hozzájárulása esetén neve, anyja neve, születési ideje és regisztrációs száma megadásával a továbbképzési évet követő január 31-ig bejelent a nyilvántartásba vételt végző szervezetnek az egységes Kormányzati Portálon közzétett tájékoztató szerint. A (7) bekezdés szerinti legfeljebb 2 kreditpont a továbbképzésre kötelezett továbbképzési kötelezettségébe a szakmai szervezet és a szakmai szerveződést működtető gazdálkodó bejelentése alapján számítható be.
 

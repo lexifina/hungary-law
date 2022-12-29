@@ -12,7 +12,7 @@ d) egyéb szervezeti (nonprofit), vagy egyéb szervezeti szakon megszerzett mér
 
 e) Nemzetközi Pénzügyi Beszámolási Standardok [International Financial Reporting Standards (IFRS)] (a továbbiakban: IFRS) szakon megszerzett mérlegképes könyvelői szakképesítést igazol, akkor IFRS szakterületet
 
-## kell a nyilvántartásban megjelölni.
+kell a nyilvántartásban megjelölni.
 
 (2)[^11]
 

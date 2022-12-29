@@ -1,6 +1,6 @@
 12. számú melléklet a 93/2002. (V. 5.) Korm. rendelethez[^217]
 
-## ADATLAP a szakmai szervezeti minősítési eljárás iránti kérelemhez
+ADATLAP a szakmai szervezeti minősítési eljárás iránti kérelemhez
 
 Az adatlap kötelező tartalmi elemei a következők:
 
