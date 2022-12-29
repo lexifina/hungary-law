@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-295-20-
 | 2022-08-24 | 2022-295-20-22.1 | 295/2022. (VIII. 9.) Korm. rendelet |
 | 2022-09-07 | 2022-295-20-22.2 | 2022. évi VI. törvény |
 | 2022-11-01 | 2022-295-20-22.3 | 2022. évi VI. törvény |
+| 2022-12-29 | 2022-295-20-22.4 | 599/2022. (XII. 28.) Korm. rendelet |

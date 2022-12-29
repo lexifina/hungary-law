@@ -4,8 +4,10 @@
 
 (3) A kérelem benyújtásakor igazolni kell az egyetemes szolgáltatásra vonatkozó jogviszony fennállását, vagy ha az egyetemes szolgáltatási jogviszony alapján történt már számlakibocsátás, akkor az utolsó számla teljesítését.
 
-(4) A kérelem benyújtásával a jogosult, illetve a jogosulttal egy háztartásban élő, gyógyászati segédeszközt napi rendszerességgel használó személy hozzájárul a kérelemben megadott személyes adatainak az egyetemes szolgáltató, valamint a Nemzeti Egészségbiztosítási Alapkezelő részére történő továbbításához.
+(4)[^8] A kérelem benyújtásával a jogosult, illetve a jogosulttal egy háztartásban élő, gyógyászati segédeszközt napi rendszerességgel használó személy hozzájárul a kérelemben megadott személyes adatainak az egyetemes szolgáltató, a Nemzeti Egészségbiztosítási Alapkezelő, valamint az érintett finanszírozott egészségügyi szolgáltató részére történő továbbításához.
 
 (5) A kedvezményre való jogosultság megállapítására irányuló kérelem a kedvezményes év folyamán bármikor benyújtható.
 
 (6) A kedvezmény a végleges határozat szerinti időponttól jár.
+
+[^8]: Az 5. § (4) bekezdése az 599/2022. (XII. 28.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

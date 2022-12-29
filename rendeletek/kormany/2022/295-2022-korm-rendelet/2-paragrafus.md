@@ -2,10 +2,16 @@
 
 ## 2. § E rendelet alkalmazásában
 
-1. gyógyászati segédeszköz: a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet szerinti – társadalombiztosítási támogatással rendelt – elektromos kerekesszék, elektromos moped, hálózati áramról működő oxigén koncentrátor,
+1.[^2] gyógyászati segédeszköz:
+
+a) a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet szerinti – társadalombiztosítási támogatással rendelt – elektromos kerekesszék, elektromos moped, hálózati áramról működő oxigénkoncentrátor,
+
+b) az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 48/A. §-a, illetve 48/B. §-a szerinti, a jogosult kérelmében megjelölt egészségügyi szolgáltató által kihelyezésre került otthoni tartós gépi lélegeztetést biztosító lélegeztető gép,
 
 2. háztartás: a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 4. § (1) bekezdés f) pontja szerinti háztartás,
 
 3. jogosult: olyan egyetemes szolgáltatás keretében vételező lakossági fogyasztó, aki vagy akivel egy háztartásban élő személy gyógyászati segédeszközt napi rendszerességgel használ,
 
 4. kedvezmény: a jogosult részére az e rendelet szerint határozatban megállapított, az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet 2. § (1) bekezdésében meghatározott mennyiségen felül biztosított villamosenergia-mennyiség.
+
+[^2]: A 2. § 1. pontja az 599/2022. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
