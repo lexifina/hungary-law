@@ -1,0 +1,3 @@
+## 2. A veszélyhelyzet ideje alatt az egyetemes szolgáltatásra jogosultak körének meghatározásáról szóló 217/2022. (VI. 17.) Korm. rendelettel kapcsolatos egyes rendelkezésekről szóló 281/2022. (VIII. 1.) Korm. rendelet módosítása
+
+4. § A veszélyhelyzet ideje alatt az egyetemes szolgáltatásra jogosultak körének meghatározásáról szóló 217/2022. (VI. 17.) Korm. rendelettel kapcsolatos egyes rendelkezésekről szóló 281/2022. (VIII. 1.) Korm. rendelet 11. § (4) bekezdésében az „az ESZ-rendelet 2. § (2) bekezdése szerinti versenypiaci ár” szövegrész helyébe az „a lakossági ESZ-rendelet 5. § (2) bekezdése szerinti versenypiaci költségeket tükröző ár” szöveg lép.
