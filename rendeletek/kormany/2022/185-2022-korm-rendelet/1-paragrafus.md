@@ -1,0 +1,3 @@
+1. §[^2] A 2022. május 25-én kihirdetett veszélyhelyzet ideje alatt a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény (a továbbiakban: Ksztv.), a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.), a munka törvénykönyvéről szóló 2012. évi I. törvény, valamint a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) rendelkezéseit a 2–3/B. §-ban foglalt eltérésekkel kell alkalmazni.
+
+[^2]: Az 1. § az 585/2022. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
