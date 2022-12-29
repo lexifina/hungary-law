@@ -1,5 +1,3 @@
-## A Beruházás megvalósításának helyszíne, valamint a Beruházással összefüggő kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispán
-
 |  | A | B | C |
 
 | 1. | A Beruházás megnevezése | A Beruházás megvalósításának helyszíne | Koordinációra kijelölt főispán |
@@ -8,7 +6,7 @@
 
 3. melléklet a 314/2022. (VIII. 11.) Korm. rendelethez
 
-## A Budapest XIV. kerület, belterület 31267/132, 31267/133, 31267/134 és 31267/135 helyrajzi számú telkek, valamint az azokból telekalakítás során kialakításra kerülő telkek területén ingatlanrészek területi lehatárolása a területek határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátáival
+A Budapest XIV. kerület, belterület 31267/132, 31267/133, 31267/134 és 31267/135 helyrajzi számú telkek, valamint az azokból telekalakítás során kialakításra kerülő telkek területén ingatlanrészek területi lehatárolása a területek határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátáival
 
 1.
 

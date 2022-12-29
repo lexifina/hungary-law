@@ -94,6 +94,8 @@ b) csak személygépjárművek számára létesített terepszint alatti parkoló
 
 34. az egyes építési telkekre vonatkozóan az épület legmagasabb pontja az adott telekre vonatkozóan az épületmagasság megengedett legnagyobb mértékét maximum 8 méterrel haladhatja meg.
 
+35.[^1] a beruházással érintett ingatlanok gépjárművel történő közvetlen megközelítésére szolgáló közterületeket a használatbavételi engedély iránti kérelem benyújtásáig kialakítható gépjármű-közlekedésre alkalmassá kell tenni.
+
 (4) A 3. mellékletben foglalt 1. táblázatban megjelölt földrészletre meghatározott sajátos beépítési szabályok és egyedi építési követelmények:
 
 a) a terepszint feletti beépítés legnagyobb mértéke 70%,
@@ -289,3 +291,5 @@ c) a telekre előírt zöldfelület biztosítása esetén zöldfelületet azzal 
 a) a 2. melléklet B:2 mezőjében megjelölt telkeken, illetve az azokból telekalakítással kialakításra kerülő telkeken lévő fás szárú növények kivágása esetén azok pótlásáról a telkek adottságainak mértékéig az egyes telkeken belül kialakításra kerülő zöldfelületeken, legkésőbb az utolsó ütemben megvalósuló épület használatbavételi engedélyének véglegessé válásáig kell gondoskodni,
 
 b) amennyiben a fás szárú növény pótlása az ingatlan adottsága miatt nem, vagy csak részben teljesíthető, a pótlást a Budapest Főváros Kormányhivatala által kijelölt, Budapest ugyanazon kerületében elhelyezkedő másik ingatlanon kell teljesíteni.
+
+[^1]: Az 5. § (3) bekezdés 35. pontját a 612/2022. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
