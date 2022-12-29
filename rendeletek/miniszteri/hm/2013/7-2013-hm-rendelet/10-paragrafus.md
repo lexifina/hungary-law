@@ -16,7 +16,7 @@ a)[^30] honvéd altiszt-jelölt esetében az alapösztöndíj, az alapösztönd�
 
 b) a szolgálati járandóságban részesülő önkéntes tartalékos katona esetében a szolgálati helye szerinti állománytáblában vagy munkaköri jegyzékben rendszeresített szolgálati beosztásához tartozó besorolási osztálynak és besorolási kategóriának megfelelően számított alapilletmény
 
-## összegét kell figyelembe venni.
+összegét kell figyelembe venni.
 
 (5) A temetési segély összegét az (1) bekezdés b) pontjába tartozók részére a (3) bekezdés figyelembevételével kell meghatározni, azzal, hogy nettó illetmény számításánál a közeli hozzátartozó illetményéről, munkabéréről vagy egyéb rendszeres jövedeleméről kiállított okmányban (a továbbiakban együtt: jövedelemigazolás) foglaltakat kell figyelembe venni. Ha a közeli hozzátartozó a kérelméhez nem nyújt be jövedelemigazolást vagy abból nem állapítható meg egyértelműen a jövedelem és a temetési költség összege, a közeli hozzátartozó részére a (3) bekezdésben meghatározott alacsonyabb temetési segély összeget kell biztosítani.
 

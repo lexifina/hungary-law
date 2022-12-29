@@ -36,7 +36,7 @@ b) a Honvédséget a sírhely karbantartásával, gondozásával kapcsolatos kö
 
 (8) A „Katonai szolgálat halottjává” nyilvánított elhunyt esetén a temetési hely feletti rendelkezési jog a temetést követően átszáll az intézkedésre jogosult közeli hozzátartozóra.
 
-(9)[^18] A minősítésre jogosult parancsnok és a honvédelmi szervezet vezetője a honvéd, közalkalmazott, honvédelmi alkalmazott és kormánytisztviselő, honvédelmi területen vagy a honvédelem érdekében politikai vagy szakmai felsővezetőként – korábban állami vezetőként – tevékenykedő személy, valamint nyugállományú katona, nyugdíjas kormánytisztviselő és honvédségi nyugdíjas elhalálozása esetén temetéskor és évfordulós koszorúzások alkalmával koszorút és sírcsokrot vásárolhat.
+(9)[^18] A minősítésre jogosult parancsnok és a honvédelmi szervezet vezetője a honvéd, honvédelmi alkalmazott és kormánytisztviselő, honvédelmi területen vagy a honvédelem érdekében politikai vagy szakmai felsővezetőként – korábban állami vezetőként – tevékenykedő személy, valamint nyugállományú katona, nyugdíjas kormánytisztviselő és honvédségi nyugdíjas elhalálozása esetén temetéskor és évfordulós koszorúzások alkalmával koszorút és sírcsokrot vásárolhat.
 
 [^12]: A 4. § (1) bekezdés e) pontja a 22/2021. (XI. 5.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^13]: A 4. § (1) bekezdés f) pontja a 22/2021. (XI. 5.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
@@ -44,4 +44,4 @@ b) a Honvédséget a sírhely karbantartásával, gondozásával kapcsolatos kö
 [^15]: A 4. § (1) bekezdés h) pontját a 16/2018. (IX. 27.) 2. § (2) bekezdése iktatta be.
 [^16]: A 4. § (4) bekezdése a 22/2021. (XI. 5.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^17]: A 4. § (7) bekezdése a 22/2021. (XI. 5.) HM rendelet 11. § c) pontja szerint módosított szöveg.
-[^18]: A 4. § (9) bekezdését a 11/2015. (IX. 28.) HM rendelet 1. §-a iktatta be, szövege a 22/2021. (XI. 5.) HM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^18]: A 4. § (9) bekezdését a 11/2015. (IX. 28.) HM rendelet 1. §-a iktatta be, szövege a 22/2021. (XI. 5.) HM rendelet 4. § (3) bekezdésével megállapított, a 18/2022. (XII. 28.) HM rendelet 2. § a) pontja szerint módosított szöveg.

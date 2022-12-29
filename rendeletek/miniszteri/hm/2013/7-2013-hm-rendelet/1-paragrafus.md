@@ -2,7 +2,7 @@
 
 1. § (1) E rendelet alkalmazásában:
 
-a)[^1] honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 80. § 13. pontja szerinti szervezet, valamint a honvédelemért felelős miniszter (a továbbiakban: miniszter) fenntartói irányítása alá tartozó, a Hvt. 80. § 13. pontja szerinti honvédelmi szervezetnek nem minősülő szakképző intézmény,
+a)[^1] honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 3. § 14. pontja szerinti szervezet, valamint a honvédelemért felelős miniszter (a továbbiakban: miniszter) fenntartói irányítása alá tartozó, a Hvt. 3. § 14. pontja szerinti honvédelmi szervezetnek nem minősülő szakképző intézmény,
 
 b) Hősök Parcellája: a Budapest, Fiumei úti temető 52-es parcellája,
 
@@ -28,7 +28,7 @@ gb) aki a honvédelmi szervezettel fennálló jogviszonyának megszűnése és n
 
 (5)[^7] E rendelet alkalmazásában a felszámítási alap 38 650 forint.
 
-[^1]: Az 1. § (1) bekezdés a) pontja a 22/2021. (XI. 5.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (1) bekezdés a) pontja a 18/2022. (XII. 28.) HM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés e) pontja a 22/2021. (XI. 5.) HM rendelet 11. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés f) pontja a 22/2021. (XI. 5.) HM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés g) pont nyitó szövegrésze a 22/2021. (XI. 5.) HM rendelet 11. § b) pontja szerint módosított szöveg.

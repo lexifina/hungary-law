@@ -12,7 +12,7 @@ bb) a Honvédség katonai igazgatási és központi adatfeldolgozó szervezetén
 
 bc) a nyugállományú katonák érdekében tevékenykedő civil szervezet vezetője a Honvédség katonai igazgatási és központi adatfeldolgozó szervezetének útján
 
-## tehet javaslatot.
+tehet javaslatot.
 
 (2) A minősítésre vonatkozó javaslat tartalmazza:
 
