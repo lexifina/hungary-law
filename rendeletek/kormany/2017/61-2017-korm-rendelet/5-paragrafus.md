@@ -56,7 +56,7 @@
 
 28.[^23] a turisztikai szempontból jelentős rendezvények rendezvényszervezőiből, a logisztikai, katasztrófavédelmi, közlekedési, rendészeti és egyéb, a rendezvények szervezésében érintett hatósági személyek képviselőiből álló szakmai testületet kér fel, amely koordinálja és szakmai szempontból támogatja a belföldi és nemzetközi turisztikai vonzerő szempontjából kiemelt rendezvényeket, erre vonatkozóan javaslatokat tesz,
 
-29.[^24] gondoskodik a rendezvénykoordinációs feladatok ellátásáról, működteti a szakmai testület munkáját segítő Nemzeti Rendezvénykoordinációs Központot; egyes, a fenti célok, stratégiai szempontok szerint kiemelt rendezvények, rendezvénysorozatok, évadok megszervezését saját hatáskörben tervezi és valósítja meg, továbbá gondoskodik a hatáskörébe utalt rendezvények teljes körű lebonyolításáról,
+29.[^24] gondoskodik a rendezvénykoordinációs feladatok ellátásáról, működteti a szakmai testület munkáját segítő Nemzeti Rendezvénykoordinációs Központot;
 
 30.[^25] más szervezetekkel együttműködve gondoskodik a nemzeti ünnepek megszervezéséről és lebonyolításáról,
 
@@ -114,7 +114,7 @@
 [^21]: Az 5. § (1) bekezdés 26. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 454/2017. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^22]: Az 5. § (1) bekezdés 27. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 198/2019. (VIII. 1.) Korm. rendelet 23. §-ával megállapított szöveg.
 [^23]: Az 5. § (1) bekezdés 28. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^24]: Az 5. § (1) bekezdés 29. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 278/2021. (V. 26.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^24]: Az 5. § (1) bekezdés 29. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege az 591/2022. (XII. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^25]: Az 5. § (1) bekezdés 30. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
 [^26]: Az 5. § (1) bekezdés 31. pontját újonnan az 579/2021. (X. 12.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^27]: Az 5. § (1) bekezdés 32. pontját a 12/2018. (II. 6.) Korm. rendelet 1. §-a iktatta be.
