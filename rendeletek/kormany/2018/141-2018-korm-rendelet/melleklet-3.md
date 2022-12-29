@@ -236,8 +236,10 @@
 
 | 109. | Szeletgyártó üzem létrehozására és a meglévő telephely termelési és raktárkapacitásának bővítésére irányuló beruházás Dunakeszi és Szada területén | Dunakeszi belterület 7779, valamint Szada belterület 4307/3, 4307/7, 4307/4, 4308/27, 4307/12, 4333/24, 4308/26, 4307/11 helyrajzi számú ingatlanok | Pest Megyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^324]
+| 110. | Gyártókapacitás létrehozására irányuló beruházás Vácrátót külterületén | Vácrátót külterület 038/18 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^325]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^324]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^325]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
