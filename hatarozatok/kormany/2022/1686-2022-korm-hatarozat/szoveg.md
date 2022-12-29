@@ -14,4 +14,6 @@ A Kormány az egyes nevelési-oktatási intézményeknek új feladatellátási h
 
 | Határidő: | az Ingatlan állami tulajdonba kerülését és állami vagyon-nyilvántartásba vételét követően azonnal |
 
-4. visszavonja az 1207/2018. (IV. 5.) Korm. határozat 8. és 9. pontját.
+4.[^1]
+
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
