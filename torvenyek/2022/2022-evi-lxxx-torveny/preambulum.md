@@ -1,0 +1,1 @@
+Az Országgyűlés a Nemzeti Média- és Hírközlési Hatóság 2021. évi egységes költségvetéséről szóló 2020. évi CXXXII. törvényben meghatározott költségvetések végrehajtásáról a következő törvényt alkotja.
