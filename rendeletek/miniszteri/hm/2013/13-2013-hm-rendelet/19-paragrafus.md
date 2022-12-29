@@ -20,9 +20,9 @@ a külföldi féllel kötött megállapodásban meghatározott időtartamban.
 
 a) a 12. § (1) bekezdés a) és b) pontja szerinti igényjogosult, és
 
-b) a fel nem használt férőhelyekre a 12. § (1) bekezdés d) és g)–k) pontja szerinti igényjogosult
+b)[^93] a fel nem használt férőhelyekre a 12. § (1) bekezdés d) és g)–k) pontja szerinti igényjogosult
 
-## gyermeke. A résztvevők életkorát és az üdülés időtartamát nemzetközi keretszerződés határozza meg. A gyermek igényjogosultságát azon honvédelmi szervezet igazolja, amellyel az igényjogosult szülő szolgálati viszonyban, kormányzati szolgálati és közalkalmazotti, honvédelmi alkalmazotti jogviszonyban, illetve munkaviszonyban áll.
+gyermeke. A résztvevők életkorát és az üdülés időtartamát nemzetközi keretszerződés határozza meg. A gyermek igényjogosultságát azon honvédelmi szervezet igazolja, amellyel az igényjogosult szülő szolgálati viszonyban, kormányzati szolgálati és közalkalmazotti, honvédelmi alkalmazotti jogviszonyban, illetve munkaviszonyban áll.
 
 (4) Az (1) bekezdés szerinti üdülés térítési díját a 2. melléklet határozza meg, a (2) és a (3) bekezdés szerinti üdülés térítési díját a fogadó ország üdültetési szervezete állapítja meg.
 
@@ -31,3 +31,4 @@ b) a fel nem használt férőhelyekre a 12. § (1) bekezdés d) és g)–k) pont
 [^90]: A 19. § (1) bekezdés a) pontja a 6/2016. (IV. 15.) HM rendelet 16. § g) pontja szerint módosított szöveg.
 [^91]: A 19. § (2) bekezdés a) pontja a 6/2016. (IV. 15.) HM rendelet 10. §-ával megállapított szöveg.
 [^92]: A 19. § (3) bekezdés záró szövegrésze az 5/2019. (IV. 11.) HM rendelet 9. § i) pontja szerint módosított szöveg.
+[^93]: [A 19. § (3) bekezdés b) pontjában a 21/2022. (XII. 28.) HM rendelet 2. § c) pontja által elrendelt módosítás, amely szerint a „közalkalmazotti, honvédelmi alkalmazotti” szövegrész helyébe a „honvédelmi alkalmazotti” szöveg lép, nem vezethető át.]

@@ -1,5 +1,3 @@
-## 17. §[^83]
-
 ## 9. A napi pihenés és intézménylátogatás
 
 18. § (1)[^84] A 12. § (1) bekezdés a)–m) pontja szerinti igényjogosult és családtagjai az MH regenerálódást segítő és rekreációt végző szervezetében és az MH regenerálódást és kiképzést végző szervezetében, azok szabad kapacitása terhére, térítésmentesen napi pihenésre és intézménylátogatásra jogosultak. Napi pihenésre és intézménylátogatásra jogosult a 12. § (1) bekezdés a) pontja szerinti feltétellel rendelkező honvéd tisztjelölt is.
@@ -14,7 +12,6 @@
 
 (6)[^89] Külön megállapodás alapján megrendelt rendezvény keretében érkező nem igényjogosult igénylőt a napi belépésre vonatkozó díjak nem terhelik.
 
-[^83]: A 17. §-t a 6/2016. (IV. 15.) HM rendelet 17. § d) pontja hatályon kívül helyezte.
 [^84]: A 18. § (1) bekezdése a 7/2022. (IV. 14.) HM rendelet 14. §-ával megállapított szöveg.
 [^85]: A 18. § (2) bekezdése a 19/2018. (XII. 20.) HM rendelet 9. §-ával megállapított szöveg.
 [^86]: A 18. § (3) bekezdése a 4/2017. (IV. 28.) HM rendelet 12. § (1) bekezdésével megállapított szöveg.

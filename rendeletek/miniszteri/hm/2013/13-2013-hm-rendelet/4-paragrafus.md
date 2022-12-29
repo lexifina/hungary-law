@@ -16,7 +16,7 @@ f) ejtőernyős, és
 
 g) búvár
 
-## beosztást betöltő tagja, térítési díj nélkül, az MH regenerálódást és kiképzést végző szervezetének mátraházai telephelyén, elő- vagy utószezonban, egybefüggő 13 vendégéjszaka időtartamban.
+beosztást betöltő tagja, térítési díj nélkül, az MH regenerálódást és kiképzést végző szervezetének mátraházai telephelyén, elő- vagy utószezonban, egybefüggő 13 vendégéjszaka időtartamban.
 
 (2) A kondicionáló-kiképzési rendezvény a harcászati repülőhajózó állomány részére évente, a szállító repülőhajózó, a harci- és a szállító helikopterhajózó, a kiképző repülőhajózó, a fedélzet-technikus, az ejtőernyős, valamint a búvár állomány részére 2 évente, és lehetőség szerint téli időjárási viszonyok között kerül végrehajtásra, az (1) bekezdés a)–f) pontja szerinti állomány esetén az állami célú légiközlekedésben folytatott szakszolgálati tevékenység repülőegészségi feltételeiről szóló 22/2005. (VI. 14.) HM–EüM együttes rendeletben meghatározott, érvényes repülőorvosi szakvélemény függvényében.
 

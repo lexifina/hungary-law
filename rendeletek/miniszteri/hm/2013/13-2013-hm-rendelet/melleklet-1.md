@@ -1,6 +1,6 @@
-## 29. §[^125] A 20. § (2) bekezdése alkalmazásában a tisztjelöltek esetében illetménynek kell tekinteni a tisztjelöltet 2022. augusztus 20. előtt megillető ösztöndíjat is.
+## 29. §[^126] A 20. § (2) bekezdése alkalmazásában a tisztjelöltek esetében illetménynek kell tekinteni a tisztjelöltet 2022. augusztus 20. előtt megillető ösztöndíjat is.
 
-1. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^126]
+1. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^127]
 
 1. Igényjogosulti térítési díjak az MH regenerálódást segítő és rekreációt végző szervezetében
 
@@ -75,6 +75,8 @@
 | 8. | Gyermek kategória – 16–18 (25) éves kor között (a felnőtt térítés 80%-a) | 480 | 720 |
 
 1d. Napi belépő és havi bérlet az MH regenerálódást segítő és rekreációt végző szervezetében (bruttó térítési díj)
+
+## 9K02119_4
 
 |  | A | B | C | D | E | F |
 
@@ -204,5 +206,5 @@
 
 |  | 3. | Gyermektábor 12–16. életév között | 2835 |
 
-[^125]: A 29. §-t a 7/2022. (IV. 14.) HM rendelet 15. §-ával megállapított szöveg.
-[^126]: Az 1. melléklet az 5/2019. (IV. 11.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^126]: A 29. §-t a 7/2022. (IV. 14.) HM rendelet 15. §-ával megállapított szöveg.
+[^127]: Az 1. melléklet az 5/2019. (IV. 11.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.

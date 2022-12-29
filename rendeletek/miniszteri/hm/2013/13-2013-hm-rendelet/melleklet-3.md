@@ -1,5 +1,3 @@
-## Külföldi csoportos üdülés térítési díjai
-
 |  | A | B |
 
 | 1. | Üdülés formája | Nettó térítési díj (Ft/fő/éjszaka) |
@@ -8,7 +6,7 @@
 
 | 3. | Nemzetközi – CLIMS – csoportos csereüdülés | 9000+utazási költség |
 
-3. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^127]
+3. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^128]
 
 |  | A | B | C |
 
@@ -24,4 +22,4 @@
 
 | 6. | 425 001 Ft felett | 100% | „E” |
 
-[^127]: A 3. mellékletet az 5/2019. (IV. 11.) HM rendelet 8. § (2) bekezdése iktatta be.
+[^128]: A 3. mellékletet az 5/2019. (IV. 11.) HM rendelet 8. § (2) bekezdése iktatta be.

@@ -6,7 +6,7 @@ a)[^44] a 8. § (1) bekezdés a), b) és c) pontja szerinti állomány tekintet�
 
 b) a Katonai Nemzetbiztonsági Szolgálat vonatkozásában a 8. § (1) bekezdés a), b) és c) pontja szerinti állomány tekintetében a Katonai Nemzetbiztonsági Szolgálat főigazgatója
 
-## állapítja meg.
+állapítja meg.
 
 (3)[^45] A (2) bekezdés szerinti döntés rendelkezhet arról, hogy a 8. § (1) bekezdése szerinti állomány tagja a honvédelmi szervezetek kiemelt feladataiban való részvételt követően
 
@@ -26,7 +26,7 @@ a) az igényjogosult és a (3) bekezdés a) pontjában megnevezett személyek t�
 
 b) a (3) bekezdés b) pontjában felsorolt személyek az 1. melléklet 2. pontjában szereplő hétközi-hétvégi igényjogosulti térítési díj megfizetésével
 
-## vehetik igénybe.
+vehetik igénybe.
 
 (7)[^47] A különleges regeneráló pihenés elő-, utó- és főszezonban vehető igénybe, az adott évre kijelölt turnusok alapján.
 

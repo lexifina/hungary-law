@@ -8,7 +8,7 @@ b)[^48] a legalább 6 hónap tényleges szolgálatot teljesített önkéntes tar
 
 c) a honvéd tisztjelölt és a honvéd altiszt-jelölt, az utolsó tanévük megkezdése évének július 1-jétől,
 
-d)[^49] a honvédelmi szervezetnél foglalkoztatott kormánytisztviselő, közalkalmazott, honvédelmi alkalmazott, munkavállaló, ha a honvédelmi szervezetnél legalább 1 év kormányzati szolgálati jogviszonnyal, közalkalmazotti, honvédelmi alkalmazotti jogviszonnyal, illetve munkaviszonnyal rendelkezik,
+d)[^49] a honvédelmi szervezetnél foglalkoztatott kormánytisztviselő, honvédelmi alkalmazott, munkavállaló, ha a honvédelmi szervezetnél legalább 1 év kormányzati szolgálati jogviszonnyal, honvédelmi alkalmazotti jogviszonnyal, illetve munkaviszonnyal rendelkezik,
 
 e)[^50] azon gazdálkodó szervezet munkavállalója, amely állami tulajdonú részesedése felett az államot megillető tulajdonosi jogokat és kötelezettségeket a miniszter gyakorolja, ha legalább 1 év munkaviszonnyal rendelkezik, kivéve az önkéntes védelmi tartalékos katonát,
 
@@ -44,10 +44,10 @@ c) az MH regenerálódást segítő és rekreációt végző szervezete által �
 
 (4)[^59] A (3) bekezdést az (1) bekezdés b) és g)–m) pontja szerinti igényjogosultak esetén azzal az eltéréssel kell alkalmazni, hogy főszezonban csak a szabad férőhely terhére jogosultak rekreációs szolgáltatás igénybevételére.
 
-(5)[^60] Ha a honvédelmi szervezetnél foglalkoztatott kormánytisztviselő, közalkalmazott, honvédelmi alkalmazott, munkavállaló jogviszonya a Hjt. 68/B. § (4) bekezdése alapján, egészségkárosodási keresetkiegészítésre való jogosulttá válásával egyidejűleg létesült, az (1) bekezdés d) pontja szerinti időtartamba a jogviszony létesítését megelőzően szolgálati viszonyban töltött időt is be kell számítani.
+(5)[^60] Ha a honvédelmi szervezetnél foglalkoztatott kormánytisztviselő, honvédelmi alkalmazott, munkavállaló jogviszonya a Hjt. 68/B. § (4) bekezdése alapján, egészségkárosodási keresetkiegészítésre való jogosulttá válásával egyidejűleg létesült, az (1) bekezdés d) pontja szerinti időtartamba a jogviszony létesítését megelőzően szolgálati viszonyban töltött időt is be kell számítani.
 
 [^48]: A 12. § (1) bekezdés b) pontja a 19/2018. (XII. 20.) HM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^49]: A 12. § (1) bekezdés d) pontja az 5/2019. (IV. 11.) HM rendelet 9. § a) és i) pontja szerint módosított szöveg.
+[^49]: A 12. § (1) bekezdés d) pontja az 5/2019. (IV. 11.) HM rendelet 9. § a) és i) pontja, a 21/2022. (XII. 28.) HM rendelet 2. § a) és c) pontja szerint módosított szöveg.
 [^50]: A 12. § (1) bekezdés e) pontja a 19/2018. (XII. 20.) HM rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^51]: A 12. § (1) bekezdés j) pontja a 25/2016. (XII. 22.) HM rendelet 59. § (1) bekezdésével megállapított szöveg.
 [^52]: A 12. § (1) bekezdés k) pontja a 25/2016. (XII. 22.) HM rendelet 59. § (1) bekezdésével megállapított szöveg.
@@ -58,4 +58,4 @@ c) az MH regenerálódást segítő és rekreációt végző szervezete által �
 [^57]: A 12. § (3) bekezdés a) pontja az 5/2019. (IV. 11.) HM rendelet 9. § j) pontja szerint módosított szöveg.
 [^58]: A 12. § (3a) bekezdését a 19/2018. (XII. 20.) HM rendelet 5. § (4) bekezdése iktatta be, szövege az 5/2019. (IV. 11.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^59]: A 12. § (4) bekezdése a 19/2018. (XII. 20.) HM rendelet 5. § (5) bekezdésével megállapított szöveg.
-[^60]: A 12. § (5) bekezdéséta 25/2016. (XII. 22.) HM rendelet 59. § (3) bekezdése iktatta be, szövege az 5/2019. (IV. 11.) HM rendelet 9. § a) pontja szerint módosított szöveg.
+[^60]: A 12. § (5) bekezdéséta 25/2016. (XII. 22.) HM rendelet 59. § (3) bekezdése iktatta be, szövege az 5/2019. (IV. 11.) HM rendelet 9. § a) pontja, a 21/2022. (XII. 28.) HM rendelet 2. § a) pontja szerint módosított szöveg.

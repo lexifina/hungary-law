@@ -12,7 +12,7 @@
 
 3. főszezon: az iskolai tanév befejezését követő első turnus első napjától az iskolai tanév kezdetét megelőző utolsó turnus utolsó napjáig terjedő, naptári napban meghatározott időszak,
 
-4.[^4] honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja szerinti honvédelmi szervezet, valamint a honvédelemért felelős miniszter (a továbbiakban: miniszter) fenntartói irányítása alá tartozó köznevelési intézmény,
+4.[^4] honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 3. § 14. pontja szerinti honvédelmi szervezet, valamint a honvédelemért felelős miniszter (a továbbiakban: miniszter) fenntartói irányítása alá tartozó, a Hvt. 3. § 14. pontja szerinti honvédelmi szervezetnek nem minősülő szakképző intézmény,
 
 5.[^5] honvédségi nyugdíjas: a honvédelmi szervezettől nyugállományba vonult korábbi kormánytisztviselő, kormányzati ügykezelő (a továbbiakban együtt: kormánytisztviselő), köztisztviselő, közalkalmazott, honvédelmi alkalmazott, munkavállaló, vagy polgári alkalmazott, kinevezett polgári alkalmazott,
 
@@ -37,7 +37,7 @@
 [^1]: Az 1. § (1) bekezdés 1. pontja a 6/2016. (IV. 15.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés 2a. pontját a 4/2017. (IV. 28.) HM rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 19/2018. (XII. 20.) HM rendelet 14. §-a.
 [^3]: Az 1. § (1) bekezdés 2b. pontját a 4/2017. (IV. 28.) HM rendelet 1. § (1) bekezdése iktatta be.
-[^4]: Az 1. § (1) bekezdés 4. pontja az 5/2019. (IV. 11.) HM rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. § (1) bekezdés 4. pontja a 21/2022. (XII. 28.) HM rendelet 1. §-ával megállapított szöveg.
 [^5]: Az 1. § (1) bekezdés 5. pontja a 6/2016. (IV. 15.) HM rendelet 16. § a) pontja, az 5/2019. (IV. 11.) HM rendelet 9. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. § (1) bekezdés 5a. pontját a 4/2017. (IV. 28.) HM rendelet 1. § (2) bekezdése iktatta be, szövege a 19/2018. (XII. 20.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (1) bekezdés 5b. pontját a 19/2018. (XII. 20.) HM rendelet 1. § (2) bekezdése iktatta be.

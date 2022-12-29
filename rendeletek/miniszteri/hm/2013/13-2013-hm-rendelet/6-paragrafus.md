@@ -10,7 +10,7 @@ c)[^18]
 
 d) a honvéd altiszt-jelölt,
 
-e)[^19] a honvédelmi szervezetnél foglalkoztatott kormánytisztviselő, közalkalmazott, honvédelmi alkalmazott, munkavállaló, és
+e)[^19] a honvédelmi szervezetnél foglalkoztatott kormánytisztviselő, honvédelmi alkalmazott, munkavállaló, és
 
 f) azon gazdálkodó szervezet munkavállalója, amely állami tulajdonú részesedése felett az államot megillető tulajdonosi jogokat és kötelezettségeket a miniszter gyakorolja.
 
@@ -28,7 +28,7 @@ f) azon gazdálkodó szervezet munkavállalója, amely állami tulajdonú része
 
 [^17]: A 6. § (1) bekezdése a 19/2018. (XII. 20.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^18]: A 6. § (1) bekezdés c) pontját a 7/2022. (IV. 14.) HM rendelet 17. §-a hatályon kívül helyezte.
-[^19]: A 6. § (1) bekezdés e) pontja az 5/2019. (IV. 11.) HM rendelet 9. § a) pontja szerint módosított szöveg.
+[^19]: A 6. § (1) bekezdés e) pontja az 5/2019. (IV. 11.) HM rendelet 9. § a) pontja, a 21/2022. (XII. 28.) HM rendelet 2. § a) pontja szerint módosított szöveg.
 [^20]: A 6. § (1a) bekezdését a 19/2018. (XII. 20.) HM rendelet 2. § (2) bekezdése iktatta be.
 [^21]: A 6. § (3) bekezdése a 19/2018. (XII. 20.) HM rendelet 2. § (3) bekezdésével megállapított, az 5/2019. (IV. 11.) HM rendelet 9. § b) pontja szerint módosított szöveg.
 [^22]: A 6. § (3a) bekezdése a 19/2018. (XII. 20.) HM rendelet 2. § (3) bekezdésével megállapított szöveg.

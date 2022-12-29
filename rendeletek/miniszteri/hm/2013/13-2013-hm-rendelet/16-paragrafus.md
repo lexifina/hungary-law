@@ -16,7 +16,7 @@ a)[^77] az (1) bekezdés a) pontja esetén az igénybevétel napját megelőző 
 
 b)[^78] az (1) bekezdés b) pontja esetén az MH regenerálódást segítő és rekreációt végző szervezetének
 
-## küldik meg.
+küldik meg.
 
 (4a)[^79] Az igényjogosultak, valamint az igényjogosulti körbe nem tartozó személyek hétközi vagy hétvégi pihenés igénybe vétele iránti kérelmüket az (1) bekezdés a) pontja esetén az MH középszintű vezető szervének, illetve az MH szolgáltatásokat koordináló szervezetnek küldik meg.
 
