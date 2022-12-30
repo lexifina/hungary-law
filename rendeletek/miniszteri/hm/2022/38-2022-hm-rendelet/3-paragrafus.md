@@ -1,0 +1,3 @@
+3. § Az R. 20. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A védelmi és biztonsági igazgatás központi szervétől, a KKB-tól, a KKB NVK-tól, valamint annak működése eléréséig a hivatásos katasztrófavédelmi szervtől, a védelmi igazgatás területi szerveitől vagy a kormányügyelettől érkező, a katasztrófavédelmi feladatokban való közreműködésre történő felkérés, illetve a honvédségi közreműködés várható szükségességére vonatkozó riasztás esetén a HM Ügyelet (a továbbiakban: HM Ü) haladéktalanul értesíti a HM VPVFÁT-ot, az ügyeletes HM-beli felsővezetőt, a HM HOT vezető helyettest, továbbá tájékoztatja az MH Központi Ügyeletet (a továbbiakban: MH KÜ).”
