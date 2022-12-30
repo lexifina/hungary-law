@@ -1,7 +1,3 @@
-## lép.
+3. §[^4]
 
-3. § Hatályát veszti az R.
-
-a) 2. § (6) bekezdése,
-
-b) 87/A. §-a.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
