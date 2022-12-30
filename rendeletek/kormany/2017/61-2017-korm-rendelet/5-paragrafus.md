@@ -18,7 +18,7 @@
 
 9. meghatározza és végrehajtja a kapcsolódó hazai rendezvényszervezési és koordinálási tevékenységet,
 
-10.[^12]
+10.[^12] ellátja a hivatásturisztikai feladatokat,
 
 11. figyelemmel kíséri az Európai Unió turisztikai és vendéglátóipari tárgyú jogalkotását és kezdeményezéseit,
 
@@ -60,11 +60,11 @@
 
 30.[^25] más szervezetekkel együttműködve gondoskodik a nemzeti ünnepek megszervezéséről és lebonyolításáról,
 
-31.[^26] együttműködik a Magyar Kongresszusi Iroda Nonprofit Korlátolt Felelősségű Társasággal,
+31.[^26]
 
 32.[^27] a tulajdonosi joggyakorlása alá tartozó, 100%-ban állami tulajdonú gazdasági társaság útján kidolgozza a magyar divat- és designipari stratégiát, koordinálja és összehangolja a belföldi és a külföldi regionális divat- és designipari megjelenéseket, szakmai koordinációt végez és javaslatokat fogalmaz meg a divat- és designipar területén működő hazai szervezetek között az egységes szakmai módszertanok érvényesítése érdekében,
 
-33.[^28] a 8., 21., 24., 43. és 46. pontban meghatározott, valamint egyéb értékesítési, marketing- és kommunikációs tevékenységéhez és az egyes nemzeti rendezvények megszervezéséhez kapcsolódó feladatait elsősorban egy, a tulajdonosi joggyakorlása alá tartozó gazdasági társaság útján látja el, érvényt szerezve a turisztikai ügynökség éves üzleti tervében megfogalmazott turizmusszakmai és marketingstratégiai céljainak, biztosítva a Turizmus 2.0 célrendszerének megvalósulását,
+33.[^28] a 8., 10., 21., 24., 29., 43. és 46. pontban felsorolt, valamint egyéb értékesítési, marketing- és kommunikációs tevékenységéhez kapcsolódó feladatait elsősorban egy, a tulajdonosi joggyakorlása alá tartozó gazdasági társaság útján látja el, érvényt szerezve a turisztikai ügynökség éves üzleti tervében megfogalmazott turizmusszakmai és marketingstratégiai céljainak, biztosítva a Turizmus 2.0 célrendszerének megvalósulását,
 
 34.[^29] a 14. ponttól eltérően a turisztikai térségekben megvalósítandó fejlesztési feladatokhoz kapcsolódó szakmai koordinációt a tulajdonosi joggyakorlása alá tartozó, 100%-ban állami tulajdonú, a Kormány egyedi határozatában kijelölt gazdasági társaság útján látja el.
 
@@ -102,7 +102,7 @@
 [^9]: Az 5. § (1) bekezdés 2. pontját az 579/2021. (X. 12.) Korm. rendelet 6. §-a hatályon kívül helyezte.
 [^10]: Az 5. § (1) bekezdés 4. pontja a 239/2022. (VI. 30.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
 [^11]: Az 5. § (1) bekezdés 8. pontja a 278/2021. (V. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^12]: Az 5. § (1) bekezdés 10. pontját a 13/2020. (II. 7.) Korm. rendelet 118. § 2. pontja hatályon kívül helyezte.
+[^12]: Az 5. § (1) bekezdés 10. pontját a 13/2020. (II. 7.) Korm. rendelet 118. § 2. pontja hatályon kívül helyezte, újonnan a 619/2022. (XII. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^13]: Az 5. § (1) bekezdés 13. pontja a 278/2021. (V. 26.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^14]: Az 5. § (1) bekezdés 15. pontját a 239/2022. (VI. 30.) Korm. rendelet 32. §-a hatályon kívül helyezte.
 [^15]: Az 5. § (1) bekezdés 16. pontja az 579/2021. (X. 12.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
@@ -116,9 +116,9 @@
 [^23]: Az 5. § (1) bekezdés 28. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
 [^24]: Az 5. § (1) bekezdés 29. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege az 591/2022. (XII. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^25]: Az 5. § (1) bekezdés 30. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^26]: Az 5. § (1) bekezdés 31. pontját újonnan az 579/2021. (X. 12.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^26]: Az 5. § (1) bekezdés 31. pontját a 619/2022. (XII. 29.) Korm. rendelet 3. §-a hatályon kívül helyezte.
 [^27]: Az 5. § (1) bekezdés 32. pontját a 12/2018. (II. 6.) Korm. rendelet 1. §-a iktatta be.
-[^28]: Az 5. § (1) bekezdés 33. pontját a 12/2018. (II. 6.) Korm. rendelet 1. §-a iktatta be, szövege a 239/2022. (VI. 30.) Korm. rendelet 31. § (4) bekezdésével megállapított szöveg.
+[^28]: Az 5. § (1) bekezdés 33. pontja a 619/2022. (XII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^29]: Az 5. § (1) bekezdés 34. pontját az 51/2019. (III. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege az 579/2021. (X. 12.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^30]: Az 5. § (1) bekezdés 35. pontját a 278/2021. (V. 26.) Korm. rendelet 2. §-a iktatta be.
 [^31]: Az 5. § (1) bekezdés 36. pontját a 278/2021. (V. 26.) Korm. rendelet 2. §-a iktatta be, szövege az 579/2021. (X. 12.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
