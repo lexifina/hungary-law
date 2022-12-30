@@ -10,7 +10,7 @@ ab) a Mészáros Lázár-ösztöndíjas hallgató tekintetében a Magyar Honvéd
 
 b) hallgató: az a nagykorú személy, aki nem katonai vagy rendvédelmi felsőfokú tanulmányokban vagy a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.) 10. §-a szerinti szakmajegyzékben szereplő, államilag elismert szakma megszerzésére irányuló szakképzésben vesz részt,
 
-c) honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 13. pontja szerint ekként meghatározott fogalom,
+c)[^1] honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerint ekként meghatározott fogalom,
 
 d) honvédségi ösztöndíjas hallgató: a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 2. § 12b. pontja szerinti személy,
 
@@ -27,3 +27,5 @@ i) önkéntes tartalékos ösztöndíjas: az a honvédségi ösztöndíjas hallg
 j) szakmai felelős: a szakmacsoporton belül a képzési követelmények meghatározásáért felelős honvédelmi szervezet,
 
 k) tanulmányi támogatás: a honvédelmi szervezet által ösztöndíjszerződés alapján nyújtott hozzájárulás.
+
+[^1]: Az 1. § c) pontja a 39/2022. (XII. 29.) HM rendelet 1. §-ával megállapított szöveg.

@@ -18,7 +18,7 @@ g) hazai iskolarendszerű szakmai oktatásban tanulmányokat folytató, tanulói
 
 h) folyamatos tanulmányok folytatását – kivéve a 6. § (6) bekezdése szerinti halasztás esetét – vállalja,
 
-i)[^1] vállalja, hogy – az 5/A. §-ban foglalt halasztás kivételével – a tanulói vagy a hallgatói jogviszony megszűnését követő legfeljebb 3 hónapon belül az MH-val szerződéses szolgálati viszonyt létesít, és a szolgálati viszonyát legalább az ösztöndíj folyósításával megegyező ideig fenntartja, és
+i)[^2] vállalja, hogy – az 5/A. §-ban foglalt halasztás kivételével – a tanulói vagy a hallgatói jogviszony megszűnését követő legfeljebb 3 hónapon belül az MH-val szerződéses szolgálati viszonyt létesít, és a szolgálati viszonyát legalább az ösztöndíj folyósításával megegyező ideig fenntartja, és
 
 j) nem részesül az önkéntes tartalékos ösztöndíjban.
 
@@ -26,4 +26,4 @@ j) nem részesül az önkéntes tartalékos ösztöndíjban.
 
 (3) Nem köthető ösztöndíjszerződés azzal a hallgatóval, aki korábban részesült az ösztöndíjban, továbbá akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős befejezéséig.
 
-[^1]: Az 5. § (1) bekezdés i) pontja a 4/2022. (II. 17.) HM rendelet 28. §-ával megállapított szöveg.
+[^2]: Az 5. § (1) bekezdés i) pontja a 4/2022. (II. 17.) HM rendelet 28. §-ával megállapított szöveg.
