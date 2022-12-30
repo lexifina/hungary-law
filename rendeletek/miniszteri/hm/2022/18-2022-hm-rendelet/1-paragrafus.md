@@ -1,3 +1,3 @@
-1. § A kegyeleti gondoskodásról és az ehhez kapcsolódó egyes szociális feladatokról szóló 7/2013. (VII. 25.) HM rendelet (a továbbiakban: R.) 1. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
