@@ -1,0 +1,1 @@
+A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 78. § (1a) bekezdés c) pontjában kapott felhatalmazás alapján, az Alaptörvény 18. cikk (2) bekezdésében és a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 112. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
