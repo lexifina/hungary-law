@@ -1,3 +1,3 @@
-2. § A 259/2022. (VII. 21.) Korm. rendelet 7/H. §-a a következő (7) bekezdéssel egészül ki:
+2. §[^2]
 
-„(7) Az az (1) bekezdés szerinti lakossági fogyasztó, aki az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet, valamint a veszélyhelyzet ideje alatt az egyetemes szolgáltatásra jogosultak körének meghatározásáról szóló 217/2022. (VI. 17.) Korm. rendelettel kapcsolatos egyes rendelkezésekről szóló 281/2022. (VIII. 1.) Korm. rendelet módosításáról szóló 584/2022. (XII. 28.) Korm. rendelet [a továbbiakban: 584/2022. (XII. 28.) Korm. rendelet] hatálybalépését megelőző napon hatályos, határozott időtartamra kötött földgáz-kereskedelmi szerződéssel rendelkezik, jogosult 30 napos felmondási idővel felmondani a földgáz-kereskedelmi szerződését az egyoldalú jognyilatkozattal történő megszüntetéshez kapcsolódó hátrányos jogkövetkezmények alkalmazása nélkül. Az (1) bekezdés szerinti lakossági fogyasztó egyebekben köteles a felmondás benyújtásakor még nem teljesített szerződéses feltételeket teljesíteni.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
