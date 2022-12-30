@@ -1,1 +1,3 @@
-2. § Hatályát veszti a Magyar Honvédség belföldi futárszolgálati tevékenységéről szóló 6/2003. (II. 7.) HM rendelet 8. § (2) bekezdése.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

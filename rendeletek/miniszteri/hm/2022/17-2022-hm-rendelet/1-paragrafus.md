@@ -1,1 +1,3 @@
-1. § A Magyar Honvédség belföldi futárszolgálati tevékenységéről szóló 6/2003. (II. 7.) HM rendelet 13. § (1) bekezdésében az „a Magyar Honvédség hivatásos és szerződéses állományú katonái, valamint az önkéntes jelentkezés alapján tartalékos katonai szolgálatot teljesítők kártérítési felelősségének egyes szabályairól szóló 18/2006. (VI. 27.) HM rendeletben” szövegrész helyébe az „a kártérítési felelősségről, valamint egyes meg nem térülő károk leírásának és törlésének szabályairól szóló 10/2013. (VIII. 12.) HM rendeletben” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
