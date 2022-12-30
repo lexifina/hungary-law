@@ -1,3 +1,5 @@
 ## 5. A könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet módosítása
 
-9. § Hatályát veszti a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet 10/C. § (1) és (3) bekezdésében az „ , a 4., a 10., a 12. és a 13.” szövegrész.
+9. §[^9]
+
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
