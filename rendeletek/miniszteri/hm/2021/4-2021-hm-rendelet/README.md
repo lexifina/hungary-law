@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-4-20-15
 | --- | --- | --- |
 | 2021-01-19 | 2021-4-20-15.1 | 4/2021. (I. 18.) HM rendelet |
 | 2021-01-20 | 2021-4-20-15.2 | 2010: CXXX. törvény |
+| 2022-12-30 | 2021-4-20-15.3 | 36/2022. (XII. 29.) HM rendelet |

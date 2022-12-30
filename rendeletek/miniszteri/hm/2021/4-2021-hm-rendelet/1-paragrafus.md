@@ -18,6 +18,8 @@ d) a honvédelmi szervezet vagyoni értékű joga érvényesítésének elmulasz
 
 e) a honvédelmi szervezetre ellenszolgáltatás nélkül háruló olyan vagyoni kötelezettség, amely abból keletkezett, hogy a honvédelmi szervezetnek a honvédelmi alkalmazott vétkes magatartása miatt többletköltséget kellett fizetnie,
 
-2. honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésről szóló 2011. évi CXIII. törvény 80. § 13. pontja szerinti szervezet,
+2.[^1] honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti szervezet,
 
 3. igényérvényesítő: a honvédelmi szervezettel szembeni kártérítési igény (a továbbiakban: kárigény) elbírálását kérelmező honvédelmi alkalmazott és hozzátartozója.
+
+[^1]: Az 1. § 2. pontja a 36/2022. (XII. 29.) HM rendelet 1. §-ával megállapított szöveg.
