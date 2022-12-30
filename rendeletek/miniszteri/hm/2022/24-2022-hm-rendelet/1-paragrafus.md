@@ -1,3 +1,3 @@
-1. § A pénzösszeg juttatás és a Széchenyi Pihenő Kártya juttatás biztosításáról szóló 22/2016. (XII. 21.) HM rendelet (a továbbiakban: R.) 1. §-a a következő a) ponttal egészül ki:
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
