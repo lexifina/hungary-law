@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-1-20-15
 | 2015-12-23 | 2009-1-20-15.6 | 19/2015. (XII. 22.) HM rendelet |
 | 2016-09-01 | 2009-1-20-15.7 | 16/2016. (VIII. 31.) HM rendelet |
 | 2018-06-30 | 2009-1-20-15.8 | 9/2018. (VI. 29.) HM rendelet |
+| 2022-12-30 | 2009-1-20-15.9 | 31/2022. (XII. 29.) HM rendelet |

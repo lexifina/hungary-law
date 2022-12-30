@@ -1,4 +1,4 @@
-36/E. §[^43] (1) Átszervezés miatt a honvédelmi szervezetnél bekövetkező jogutódlás esetén a munkavédelmi képviselők megválasztásáig, de legfeljebb a honvédelmi szervezet megszűnésétől számított hat hónapig a munkavédelmi képviselő jogosítványait a jogelőd szervezeteknél korábban megválasztott, a jogutódlást követően állományban lévő valamennyi munkavédelmi képviselő jogosult gyakorolni.
+36/E. §[^45] (1) Átszervezés miatt a honvédelmi szervezetnél bekövetkező jogutódlás esetén a munkavédelmi képviselők megválasztásáig, de legfeljebb a honvédelmi szervezet megszűnésétől számított hat hónapig a munkavédelmi képviselő jogosítványait a jogelőd szervezeteknél korábban megválasztott, a jogutódlást követően állományban lévő valamennyi munkavédelmi képviselő jogosult gyakorolni.
 
 (2) Ha az átszervezéssel érintett honvédelmi szervezetnél munkavédelmi bizottság működött, az egyesülés, összevonás esetén az ideiglenes munkavédelmi bizottság munkájában a korábban megválasztott munkavédelmi képviselő részt vesz. A honvédelmi szervezet szétválása, kiválása esetén az (1) bekezdésben meghatározott jogosítványokat a munkavédelmi képviselő, illetve a szétválással, kiválással létrejött honvédelmi szervezeteknél a munkavédelmi bizottság által megválasztott munkavédelmi képviselők közül kijelölt munkavállaló ideiglenes munkavédelmi képviselőként gyakorolja.
 
@@ -8,4 +8,4 @@
 
 (5) A jogutód honvédelmi szervezet paritásos testülete működésében delegált tagként részt vevő személyt legkésőbb a jogutódlás bekövetkezésének időpontjáig a jogelőd honvédelmi szervezetnél működő munkavédelmi bizottság jelöli ki a jogutódlással érintett munkavédelmi képviselők közül. A jogelőd honvédelmi szervezet munkavédelmi bizottsága a delegálásról írásban tájékoztatja a jogutód honvédelmi szervezet állományilletékes parancsnokát és munkavédelmi bizottságát.
 
-[^43]: A 36/E. §-t a 9/2018. (VI. 29.) HM rendelet 5. § (2) bekezdése iktatta be.
+[^45]: A 36/E. §-t a 9/2018. (VI. 29.) HM rendelet 5. § (2) bekezdése iktatta be.

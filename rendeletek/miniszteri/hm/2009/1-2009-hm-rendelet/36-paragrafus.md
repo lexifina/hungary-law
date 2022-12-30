@@ -1,6 +1,6 @@
 ## A munkavédelmi érdekképviselet, érdekegyeztetés
 
-36. §[^38] (1) A honvédelmi szervezet munkavállalóival, valamint a munkavédelmi érdekképviselettel kapcsolatos tájékoztatási, tanácskozási, valamint érdekegyeztetési kötelezettség teljesítéséért az állományilletékes parancsnok a felelős.
+36. §[^40] (1) A honvédelmi szervezet munkavállalóival, valamint a munkavédelmi érdekképviselettel kapcsolatos tájékoztatási, tanácskozási, valamint érdekegyeztetési kötelezettség teljesítéséért az állományilletékes parancsnok a felelős.
 
 (2) Az intézményi gazdálkodás körébe nem tartozó eszközök, veszélyes anyagok és keverékek, valamint az infrastrukturális, a logisztikai gazdálkodás körébe tartozó létesítmények és eszközök, továbbá az infrastrukturális gazdálkodás köréből kivett létesítmények és eszközök létesítéssel, rendszeresítéssel, valamint a központi ellátás körébe tartozó munkaeszköz-ellátással kapcsolatos tájékoztatási, tanácskozási – beleértve az egyeztetést és a javaslattételt is – kötelezettségeket a rendszeresítésért felelős, valamint az üzemeltetésért felelős teljesíti.
 
@@ -10,4 +10,4 @@
 
 (5) Ha a munkavédelmi képviselő, illetve a munkavédelmi bizottság az állományilletékes parancsnok döntésével nem ért egyet, kérheti az egyeztetés megismétlését, vagy közvetlenül a munkavédelmi hatósághoz fordulhat állásfoglalásért.
 
-[^38]: A 36. § a 9/2018. (VI. 29.) HM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^40]: A 36. § a 9/2018. (VI. 29.) HM rendelet 5. § (1) bekezdésével megállapított szöveg.

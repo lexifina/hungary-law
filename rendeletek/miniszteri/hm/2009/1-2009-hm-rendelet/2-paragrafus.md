@@ -20,7 +20,7 @@
 
 10. haditechnikai eszköz: a honvédelmi szervezet állománytáblájában (munkaköri jegyzékében) szükségletként előírt hadfelszerelés, katonai rendeltetésű eszköz, amely a felkészítéshez, kiképzéshez, a katonai műveletek végrehajtásához, támogatásához, kiszolgálásához szükséges,
 
-11. használó honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 42. § (2) bekezdése alapján ingatlant használó honvédelmi szervezet,
+11.[^4] használó honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 53. § (3) bekezdése alapján ingatlant használó honvédelmi szervezet,
 
 12. honvédelmi szervezetek: az 1. § (1) bekezdés a)–e) pontja szerinti szervezetek,
 
@@ -30,7 +30,7 @@
 
 15. laktanya- vagy objektumparancsnok: összevont laktanyai elhelyezés esetén az MH létesítményben ingatlant használó honvédelmi szervezetek közül a laktanya- vagy objektumparancsnoki feladatok ellátására kijelölt parancsnok, vezető,
 
-16. munkavállaló: a honvédelmi szervezetnél tényleges szolgálatot teljesítő katona, valamint a foglalkoztatott kormánytisztviselő, kormányzati ügykezelő, közalkalmazott és a munka törvénykönyvének hatálya alá tartozó személy,
+16.[^5] munkavállaló: a honvédelmi szervezetnél tényleges szolgálatot teljesítő katona, valamint a foglalkoztatott kormánytisztviselő, kormányzati ügykezelő és a munka törvénykönyvének hatálya alá tartozó személy,
 
 17. munkavédelmi hatóság: a katonai munkavédelmi hatóság kijelöléséről, valamint sajátos feladatairól és hatásköreinek ellátásáról szóló 502/2017. (XII. 29.) Korm. rendelet 2. §-a szerint kijelölt hatóság,
 
@@ -49,3 +49,5 @@
 24. veszélyes haditechnikai eszköz: olyan haditechnikai eszköz, amely használata során az állomány egészsége, testi épsége – megfelelő védelem hiányában – károsító hatásnak lehet kitéve.
 
 [^3]: A 2. § a 9/2018. (VI. 29.) HM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 2. § 11. pontja a 31/2022. (XII. 29.) HM rendelet 1. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § 16. pontja a 31/2022. (XII. 29.) HM rendelet 1. § b) pontja szerint módosított szöveg.

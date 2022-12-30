@@ -1,6 +1,6 @@
 1. melléklet az 1/2009. (I. 30.) HM rendelethez
 
-## A Szervezeti Munkavédelmi Szabályzat (SzMvSz) felépítése, tartalmi követelményei
+A Szervezeti Munkavédelmi Szabályzat (SzMvSz) felépítése, tartalmi követelményei
 
 1. A szervezet besorolása, az SzMvSz hatálya
 
@@ -10,7 +10,7 @@
 
 2.2. A beosztott parancsnokok, munkahelyi vezetők munkavédelemmel kapcsolatos feladat- és hatásköre.
 
-2.3.[^52] A munkavédelmi feladatok ellátásáért felelősök feladat- és hatásköre.
+2.3.[^56] A munkavédelmi feladatok ellátásáért felelősök feladat- és hatásköre.
 
 2.4. A munkáltatói munkavédelmi szabályozás tartalma.
 
@@ -84,11 +84,11 @@
 
 7.7. Balesetek, foglalkozási megbetegedések, fokozott expozíciós esetek.
 
-7.8.[^53] MH létesítmények, építmények, munkaeszközök, hadfelszerelés üzembe helyezése.
+7.8.[^57] MH létesítmények, építmények, munkaeszközök, hadfelszerelés üzembe helyezése.
 
 8. Záró rendelkezések
 
 9. Mellékletek, függelékek
 
-[^52]: Az 1. melléklet 2. pont 2.3. alpontja a 19/2015. (XII. 22.) HM rendelet 3. § c) pontja szerint módosított szöveg.
-[^53]: Az 1. melléklet 7. pont 7.8. alpontja a 9/2018. (VI. 29.) HM rendelet 7. § a) pontja szerint módosított szöveg.
+[^56]: Az 1. melléklet 2. pont 2.3. alpontja a 19/2015. (XII. 22.) HM rendelet 3. § c) pontja szerint módosított szöveg.
+[^57]: Az 1. melléklet 7. pont 7.8. alpontja a 9/2018. (VI. 29.) HM rendelet 7. § a) pontja szerint módosított szöveg.

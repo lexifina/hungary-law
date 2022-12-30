@@ -1,6 +1,6 @@
 2. melléklet az 1/2009. (I. 30.) HM rendelethez
 
-## A tervezett létesítmény, épület engedélyezési tervéhez melléklendő üzemelés-biztonsági terv tartalmi elemei
+A tervezett létesítmény, épület engedélyezési tervéhez melléklendő üzemelés-biztonsági terv tartalmi elemei
 
 1. A létesítmény, épület:
 

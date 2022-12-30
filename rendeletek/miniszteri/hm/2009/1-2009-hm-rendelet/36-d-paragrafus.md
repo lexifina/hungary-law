@@ -1,4 +1,4 @@
-36/D. §[^42] (1) Paritásos testületet honvédelmi szervezet szinten kell létrehozni és működtetni.
+36/D. §[^44] (1) Paritásos testületet honvédelmi szervezet szinten kell létrehozni és működtetni.
 
 (2) A paritásos testület vezetését a munkáltató által kijelölt parancsnokhelyettes látja el.
 
@@ -10,4 +10,4 @@
 
 (6) A paritásos testület az Mvt. 70/B. § (7) bekezdése szerinti feladatokon túl, felkérés esetén véleményt, igényt, javaslatot fogalmaz meg a 36/F. § (8) bekezdésében foglaltak teljesítéséhez.
 
-[^42]: A 36/D. §-t a 9/2018. (VI. 29.) HM rendelet 5. § (2) bekezdése iktatta be.
+[^44]: A 36/D. §-t a 9/2018. (VI. 29.) HM rendelet 5. § (2) bekezdése iktatta be.

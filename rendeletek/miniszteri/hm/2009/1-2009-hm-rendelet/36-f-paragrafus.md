@@ -1,4 +1,4 @@
-36/F. §[^44] (1) Az elöljáró parancsnok Központi Munkavédelmi Bizottságot (a továbbiakban: KMB) hoz létre és működtet. Az elöljáró parancsnok meghatározza a KMB működési rendjét, ügyrendjét, valamint biztosítja a KMB működésének feltételeit.
+36/F. §[^46] (1) Az elöljáró parancsnok Központi Munkavédelmi Bizottságot (a továbbiakban: KMB) hoz létre és működtet. Az elöljáró parancsnok meghatározza a KMB működési rendjét, ügyrendjét, valamint biztosítja a KMB működésének feltételeit.
 
 (2) Az (1) bekezdésben foglaltakon túlmenően az üzemeltetésért felelős honvédelmi szervezetnél Logisztikai Munkavédelmi Bizottságot (a továbbiakban: LMB) kell létrehozni és működtetni. Az üzemeltetésért felelős meghatározza az LMB működési rendjét, ügyrendjét, valamint biztosítja az LMB működésének feltételeit.
 
@@ -42,4 +42,4 @@ b) javaslatot tesz az MH egészére vagy jelentős részére hatással bíró ha
 
 c) állást foglal a munkavédelmet érintő ágazati szabályozási koncepciókról.
 
-[^44]: A 36/F. §-t a 9/2018. (VI. 29.) HM rendelet 5. § (2) bekezdése iktatta be.
+[^46]: A 36/F. §-t a 9/2018. (VI. 29.) HM rendelet 5. § (2) bekezdése iktatta be.

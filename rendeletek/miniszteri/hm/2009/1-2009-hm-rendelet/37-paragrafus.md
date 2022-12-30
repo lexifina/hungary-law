@@ -1,6 +1,6 @@
 ## A munkavédelem hatósági felügyelete
 
-37. § (1)[^45] A munkavédelmi bírságból befolyt összeg a miniszter – a munkavédelmi bírságot kiszabó munkavédelmi hatóság javaslatán alapuló – rendelkezése szerint az egészséget nem veszélyeztető és biztonságos munkavégzés céljainak támogatására használható fel.
+37. § (1)[^47] A munkavédelmi bírságból befolyt összeg a miniszter – a munkavédelmi bírságot kiszabó munkavédelmi hatóság javaslatán alapuló – rendelkezése szerint az egészséget nem veszélyeztető és biztonságos munkavégzés céljainak támogatására használható fel.
 
 (2) Az egészséget nem veszélyeztető és biztonságos munkavégzés céljai különösen:
 
@@ -12,7 +12,7 @@ c) az Európai Közösség munkavédelmi előírásainak megfelelő, a megelőz�
 
 d) a NATO-ban alkalmazott, az egészséget nem veszélyeztető és biztonságos munkakörülmények, eljárások harmonizálása, átvétele, egységesítése lehetőségeinek kutatása.
 
-(3)[^46] A munkabiztonsági hatóság által kiszabott munkavédelmi bírságot a HM Magyar Államkincstárnál vezetett 10023002-01780499-00000000 számú számlájára, a munkaegészségügyi hatóság által kiszabott munkavédelmi bírságot az MH egészségügyi feladatokat ellátó központi szerve Magyar Államkincstárnál vezetett 10023002-00290469-00000000 számú számlájára kell befizetni.
+(3)[^48] A munkabiztonsági hatóság által kiszabott munkavédelmi bírságot a HM Magyar Államkincstárnál vezetett 10023002-01780499-00000000 számú számlájára, a munkaegészségügyi hatóság által kiszabott munkavédelmi bírságot az MH egészségügyi feladatokat ellátó központi szerve Magyar Államkincstárnál vezetett 10023002-00290469-00000000 számú számlájára kell befizetni.
 
-[^45]: A 37. § (1) bekezdése a 9/2018. (VI. 29.) HM rendelet 7. § h) pontja szerint módosított szöveg.
-[^46]: A 37. § (3) bekezdése a 16/2016. (VIII. 31.) HM rendelet 1. §-ával megállapított szöveg.
+[^47]: A 37. § (1) bekezdése a 9/2018. (VI. 29.) HM rendelet 7. § h) pontja szerint módosított szöveg.
+[^48]: A 37. § (3) bekezdése a 16/2016. (VIII. 31.) HM rendelet 1. §-ával megállapított szöveg.

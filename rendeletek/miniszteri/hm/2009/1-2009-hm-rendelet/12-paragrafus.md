@@ -4,7 +4,7 @@
 
 (3) A bizottságba a használó honvédelmi szervezet képviselőin túl az MH létesítmény üzemeltetését végző gazdálkodó szervezet és a befogadó honvédelmi szervezet képviselőjét is be kell vonni.
 
-(4)[^15] A (2) bekezdés szerinti vizsgálat során a bizottság az építmények, a beépített, és a telepített technológiák, munkaeszközök, hadfelszerelés, biztonsági berendezések alkalmasságát a funkcionális működés egészére kiterjedően vizsgálja.
+(4)[^17] A (2) bekezdés szerinti vizsgálat során a bizottság az építmények, a beépített, és a telepített technológiák, munkaeszközök, hadfelszerelés, biztonsági berendezések alkalmasságát a funkcionális működés egészére kiterjedően vizsgálja.
 
 (5) A vizsgálatok végrehajtása során az üzemelés-biztonsági tervben meghatározott paraméterek, határértékek teljesítését a kivitelező mérési jegyzőkönyvekkel, minősítő iratokkal, tanúsítványokkal köteles igazolni, melyeket az átadási dokumentáció részeként kell kezelni.
 
@@ -16,4 +16,4 @@
 
 (9) A veszélyes MH létesítmények, építmények, technológiák, munkahelyek körét, – a vonatkozó jogszabályi követelmények és a (6) bekezdés szerinti kockázatértékelés alapján – továbbá az egészséget nem veszélyeztető és biztonságos használat és üzemeltetés sajátos követelményeit, szabályait a használó honvédelmi szervezet állományilletékes parancsnoka határozza meg.
 
-[^15]: A 12. § (4) bekezdése a 9/2018. (VI. 29.) HM rendelet 7. § a) pontja szerint módosított szöveg.
+[^17]: A 12. § (4) bekezdése a 9/2018. (VI. 29.) HM rendelet 7. § a) pontja szerint módosított szöveg.

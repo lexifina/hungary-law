@@ -1,4 +1,4 @@
-36/C. §[^41] (1) A munkavállalók képviseletét legalább egy-egy fővel, a 3. mellékletben foglaltak figyelembevételével kell biztosítani a honvédelmi szervezetnél.
+36/C. §[^43] (1) A munkavállalók képviseletét legalább egy-egy fővel, a 3. mellékletben foglaltak figyelembevételével kell biztosítani a honvédelmi szervezetnél.
 
 (2) A tényleges állomány képviseletét a szervezeti létszámarányoknak megfelelően, lehetőség szerint állománycsoportonként kell biztosítani.
 
@@ -10,4 +10,4 @@
 
 (6) A munkavédelmi bizottság tárgyalásán – a munkavédelmi bizottság kezdeményezése szerint – a munkáltató által kijelölt döntésre jogosult vezető, illetve a honvédelmi szervezet vezénylő zászlósa köteles részt venni.
 
-[^41]: A 36/C. §-t a 9/2018. (VI. 29.) HM rendelet 5. § (2) bekezdése iktatta be.
+[^43]: A 36/C. §-t a 9/2018. (VI. 29.) HM rendelet 5. § (2) bekezdése iktatta be.
