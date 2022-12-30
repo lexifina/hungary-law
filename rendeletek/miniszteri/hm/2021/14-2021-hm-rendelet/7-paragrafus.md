@@ -11,3 +11,5 @@
 a) egyéni menetparancs esetén a menetparancsban birtokosként megjelölt személy, a vele utazó személy vagy a kérelemben megjelölt ügyintéző,
 
 b) csoportos menetparancs esetén a csapat, egység, alegység, kontingens parancsnok vagy az általuk meghatalmazott személy
+
+aláírása ellenében kerül kiadásra.
