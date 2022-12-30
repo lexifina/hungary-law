@@ -18,6 +18,7 @@ d) ki kell kötni, hogy bármely részlet megfizetésének elmulasztása esetén
 
 (6) A halasztásról, illetve a részletfizetésről – a (7) bekezdésben foglaltak kivételével – az állományilletékes parancsnok dönt a (2)–(5) bekezdésben foglaltak alapján.
 
-(7) A jogerős bírósági határozattal megállapított kártérítés halasztásáról, illetve részletekben történő fizetéséről – a Polgári perrendtartásról szóló 1952. évi III. törvény 217. § (3) bekezdésében foglalt eseten kívül – utólag a miniszter dönt.
+(7)[^25] A jogerős bírósági határozattal megállapított kártérítés halasztásáról, illetve részletekben történő fizetéséről – a polgári perrendtartásról szóló 2016. évi CXXX. törvény 344. § (2)–(4) bekezdésében foglalt eseten kívül – utólag a miniszter dönt.
 
 [^24]: A 18. § (5) bekezdés a) pontja a 17/2020. (XII. 12.) HM rendelet 8. § d) pontja szerint módosított szöveg.
+[^25]: A 18. § (7) bekezdése a 33/2022. (XII. 29.) HM rendelet 1. § c) pontja szerint módosított szöveg.

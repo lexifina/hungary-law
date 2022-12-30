@@ -1,5 +1,3 @@
-## Szolgálati betegségek a Honvédségben
-
 |  | A | B |
 
 |  | A szolgálati betegség megnevezése | A szolgálati tevékenység |
