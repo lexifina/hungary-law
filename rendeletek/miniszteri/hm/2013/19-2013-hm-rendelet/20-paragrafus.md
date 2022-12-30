@@ -1,6 +1,6 @@
 ## 10. Az áthelyezéssel összefüggő költözködési költségtérítés
 
-20. § (1)[^48] Az állomány áthelyezett tagját az átköltözéssel felmerülő kiadásai megtérítésére, költözködési költségtérítés címén
+20. § (1)[^49] Az állomány áthelyezett tagját az átköltözéssel felmerülő kiadásai megtérítésére, költözködési költségtérítés címén
 
 a) a bútorok és az egyéb ingóságok – az átköltözés időpontjában érvényes lakóhely vagy tartózkodási hely szerinti lakcím és az átköltözést követően lakóhelynek vagy tartózkodási helynek minősülő lakcím közötti – szállítási költségének megtérítése,
 
@@ -14,10 +14,10 @@ illeti meg.
 
 (3) Az állományilletékes parancsnok engedélyezheti a költözködési költségtérítés folyósítását akkor is, ha az állomány tagja nem az új szolgálatteljesítési helyével azonos településre, hanem annak vonzáskörzetébe költözik. Az engedélyezés a honvédelmi szervezet részére többletköltséggel nem járhat akkor sem, ha később az állomány tagja átköltözik arra a településre, ahová a szolgálatteljesítési helye szerint eredetileg is költöznie kellett volna.
 
-(4)[^49] Honvédségi szálláshelyen – ideértve a helyőrségi szállóként hasznosított állami tulajdonú, HM vagyonkezelői jogú lakást is – történő elhelyezés esetén költözködési költségtérítés címén legfeljebb 200 kg ingóság szállítási költsége számolható el.
+(4)[^50] Honvédségi szálláshelyen – ideértve a helyőrségi szállóként hasznosított állami tulajdonú, HM vagyonkezelői jogú lakást is – történő elhelyezés esetén költözködési költségtérítés címén legfeljebb 200 kg ingóság szállítási költsége számolható el.
 
-(5)[^50] Az állományilletékes parancsnok engedélyezheti a szállítási költség és a költözködési átalány folyósítását akkor is, ha az állomány tagja az áthelyezést követően igénybe vett honvédségi szálláshelyről az új szolgálatteljesítési helyével azonos településre vagy annak vonzáskörzetébe költözik, és az (1) bekezdés a) pontja szerinti szállítási költséget a honvédségi szálláshelyre történő költözésekor nem számolta el.
+(5)[^51] Az állományilletékes parancsnok engedélyezheti a szállítási költség és a költözködési átalány folyósítását akkor is, ha az állomány tagja az áthelyezést követően igénybe vett honvédségi szálláshelyről az új szolgálatteljesítési helyével azonos településre vagy annak vonzáskörzetébe költözik, és az (1) bekezdés a) pontja szerinti szállítási költséget a honvédségi szálláshelyre történő költözésekor nem számolta el.
 
-[^48]: A 20. § (1) bekezdése a 26/2016. (XII. 22.) HM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^49]: A 20. § (4) bekezdése a 26/2016. (XII. 22.) HM rendelet 17. § (2) bekezdésével megállapított szöveg.
-[^50]: A 20. § (5) bekezdését a 26/2016. (XII. 22.) HM rendelet 17. § (3) bekezdése iktatta be.
+[^49]: A 20. § (1) bekezdése a 26/2016. (XII. 22.) HM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^50]: A 20. § (4) bekezdése a 26/2016. (XII. 22.) HM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^51]: A 20. § (5) bekezdését a 26/2016. (XII. 22.) HM rendelet 17. § (3) bekezdése iktatta be.

@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-19-20-1
 | 2022-02-18 | 2013-19-20-15.19 | 4/2022. (II. 17.) HM rendelet |
 | 2022-08-20 | 2013-19-20-15.20 | 7/2022. (IV. 14.) HM rendelet |
 | 2022-12-23 | 2013-19-20-15.21 | 16/2022. (XII. 22.) HM rendelet |
+| 2022-12-30 | 2013-19-20-15.22 | 20/2018. (XII. 28.) HM rendelet |

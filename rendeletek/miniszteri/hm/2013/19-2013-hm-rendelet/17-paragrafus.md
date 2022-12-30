@@ -1,6 +1,6 @@
 ## 7. A munkába járáshoz kapcsolódó helyi utazási költségek megtérítése
 
-## 17. §[^42] Az állomány tagja, a honvédelmi alkalmazott és a közalkalmazott a szolgálatteljesítési helyen és a lakóhelyen vagy a tartózkodási helyen a munkába járáshoz vásárolt helyi havi bérlet árának miniszteri utasításban meghatározott mértékű megtérítésére jogosult. A költségtérítés kifizetése utólag,
+17. §[^43] Az állomány tagja és a honvédelmi alkalmazott a szolgálatteljesítési helyen és a lakóhelyen vagy a tartózkodási helyen a munkába járáshoz vásárolt helyi havi bérlet árának miniszteri utasításban meghatározott mértékű megtérítésére jogosult. A költségtérítés kifizetése utólag,
 
 a) a papíralapú bérlet leadása,
 
@@ -10,4 +10,4 @@ c) – a Katonai Nemzetbiztonsági Szolgálat személyi állománya kivételéve
 
 ellenében teljesíthető.
 
-[^42]: A 17. § a 13/2021. (VII. 15.) HM rendelet 16. §-ával megállapított szöveg.
+[^43]: A 17. § a 13/2021. (VII. 15.) HM rendelet 16. §-ával megállapított, nyitó szövegrésze a 34/2022. (XII. 29.) HM rendelet 4. § 12. pontja szerint módosított szöveg.

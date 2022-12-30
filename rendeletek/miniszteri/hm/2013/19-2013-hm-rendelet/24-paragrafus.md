@@ -1,6 +1,6 @@
 ## 13. A vezényléssel kapcsolatos költségtérítések
 
-24. §[^58] (1) A szolgálatteljesítési helyétől, a lakóhelyétől és a tartózkodási helyétől eltérő belföldi településre
+24. §[^59] (1) A szolgálatteljesítési helyétől, a lakóhelyétől és a tartózkodási helyétől eltérő belföldi településre
 
 a) az állomány képzésben való részvétel vagy szolgálati feladat ellátása céljából vezényelt tagja,
 
@@ -14,7 +14,7 @@ részére a felmerülő költségeket az 5–7. § és a 10–14. § alkalmazás
 
 (3) 12 hónapot meghaladó belföldi képzésre vezénylés esetén az állomány tagja részére írásbeli kérelme alapján a 20–22. § szerinti költségtérítések folyósítását kell engedélyezni.
 
-(4)[^59] Az e § szerinti juttatásokra nem jogosult az állomány Hjt. 46. § (1) bekezdés c) pontja alá tartozó azon tagja, valamint az a honvéd tisztjelölt, aki nem a HM képzési igényeihez kapcsolódóan vesz részt belföldi képzésben.
+(4)[^60] Az e § szerinti juttatásokra nem jogosult az állomány Hjt. 46. § (1) bekezdés c) pontja alá tartozó azon tagja, valamint az a honvéd tisztjelölt, aki nem a HM képzési igényeihez kapcsolódóan vesz részt belföldi képzésben.
 
-[^58]: A 24. § a 26/2016. (XII. 22.) HM rendelet 19. §-ával megállapított szöveg.
-[^59]: A 24. § (4) bekezdése a 7/2022. (IV. 14.) HM rendelet 21. § a) pontja szerint módosított szöveg.
+[^59]: A 24. § a 26/2016. (XII. 22.) HM rendelet 19. §-ával megállapított szöveg.
+[^60]: A 24. § (4) bekezdése a 7/2022. (IV. 14.) HM rendelet 21. § a) pontja szerint módosított szöveg.

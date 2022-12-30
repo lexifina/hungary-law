@@ -1,4 +1,4 @@
-## 37. §[^87] E rendeletnek az egyes juttatási tárgyú honvédelmi miniszteri rendeletek módosításáról szóló 26/2016. (XII. 22.) HM rendelettel (a továbbiakban: R.) megállapított 24. §-a alkalmazása során úgy kell eljárni, hogy a 6 hónapot meghaladó vezénylések, beiskolázások és más munkáltatónál történő átmeneti foglalkoztatások esetén a 12. § (1) bekezdése szerinti utazási költségtérítések elszámolására az R. hatálybalépését[^88] követően végrehajtott utazásokkal összefüggésben kerülhet sor.
+## 37. §[^97] E rendeletnek az egyes juttatási tárgyú honvédelmi miniszteri rendeletek módosításáról szóló 26/2016. (XII. 22.) HM rendelettel (a továbbiakban: R.) megállapított 24. §-a alkalmazása során úgy kell eljárni, hogy a 6 hónapot meghaladó vezénylések, beiskolázások és más munkáltatónál történő átmeneti foglalkoztatások esetén a 12. § (1) bekezdése szerinti utazási költségtérítések elszámolására az R. hatálybalépését[^98] követően végrehajtott utazásokkal összefüggésben kerülhet sor.
 
-[^87]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 26/2016. (XII. 22.) HM rendelet 22. §-a iktatta be.
-[^88]: A hatálybalépés napja 2017. január 1.
+[^97]: A 37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 26/2016. (XII. 22.) HM rendelet 22. §-a iktatta be.
+[^98]: A hatálybalépés napja 2017. január 1.
