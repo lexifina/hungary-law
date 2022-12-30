@@ -1,6 +1,6 @@
 2. melléklet az 5/2015. (I. 29.) Korm. rendelethez
 
-## Az 5000 m2 alapterületet meghaladó kereskedelmi építmények kérelméhez kapcsolódó hatástanulmány tartalmi elemei
+Az 5000 m2 alapterületet meghaladó kereskedelmi építmények kérelméhez kapcsolódó hatástanulmány tartalmi elemei
 
 1. a kereskedelmi építmény tervezett profilja főbb árucsoportok szerint;
 
@@ -28,18 +28,18 @@
 
 13. a megnövekedett járműforgalom hatása a lakosságot érintő közlekedési eredetű zajterhelésre;
 
-14.[^19] a kereskedelmi építmény közlekedési kapcsolataira vonatkozó műszaki tervek, a tervezett kapcsolatok forgalmi méretezése, közúti biztonsági hatásvizsgálat és közúti biztonsági audit;
+14.[^20] a kereskedelmi építmény közlekedési kapcsolataira vonatkozó műszaki tervek, a tervezett kapcsolatok forgalmi méretezése, közúti biztonsági hatásvizsgálat és közúti biztonsági audit;
 
-15.[^20] a közlekedési hatásvizsgálatnak ki kell térnie a kereskedelmi építmény közlekedési kapcsolatainak megvalósításához tartozó értékelemzés bemutatására és részletes költség-haszon elemzésre;
+15.[^21] a közlekedési hatásvizsgálatnak ki kell térnie a kereskedelmi építmény közlekedési kapcsolatainak megvalósításához tartozó értékelemzés bemutatására és részletes költség-haszon elemzésre;
 
-16.[^21] a közlekedési hatásvizsgálatnak ki kell terjednie a kereskedelmi építmény működésével kapcsolatos közúti forgalomból származó, a közutak műszaki állapotára, a közlekedésre gyakorolt hatására, és annak függvényében a közutak felújítására, illetve fejlesztésére;
+16.[^22] a közlekedési hatásvizsgálatnak ki kell terjednie a kereskedelmi építmény működésével kapcsolatos közúti forgalomból származó, a közutak műszaki állapotára, a közlekedésre gyakorolt hatására, és annak függvényében a közutak felújítására, illetve fejlesztésére;
 
-17.[^22] a közlekedési hatásvizsgálatnak ki kell terjednie arra, hogy hogyan biztosítják a biztonságos gyalogos és a kerékpáros megközelíthetőséget, továbbá a környezetkímélő közösségi közlekedési eszközzel történő megközelítést;
+17.[^23] a közlekedési hatásvizsgálatnak ki kell terjednie arra, hogy hogyan biztosítják a biztonságos gyalogos és a kerékpáros megközelíthetőséget, továbbá a környezetkímélő közösségi közlekedési eszközzel történő megközelítést;
 
-18.[^23] a közlekedési kapcsolatok által érintett állami és önkormányzati tulajdonú területeken megvalósítandó közvilágítás kiépítésére vonatkozó tervek, illetve a közvilágítás üzemeltetésére vonatkozó kötelezettségvállalási nyilatkozat.
+18.[^24] a közlekedési kapcsolatok által érintett állami és önkormányzati tulajdonú területeken megvalósítandó közvilágítás kiépítésére vonatkozó tervek, illetve a közvilágítás üzemeltetésére vonatkozó kötelezettségvállalási nyilatkozat.
 
-[^19]: A 2. melléklet 14. pontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^20]: A 2. melléklet 15. pontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^21]: A 2. melléklet 16. pontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^22]: A 2. melléklet 17. pontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^23]: A 2. melléklet 18. pontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^20]: A 2. melléklet 14. pontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^21]: A 2. melléklet 15. pontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^22]: A 2. melléklet 16. pontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^23]: A 2. melléklet 17. pontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^24]: A 2. melléklet 18. pontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (3) bekezdése iktatta be.

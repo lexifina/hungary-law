@@ -10,7 +10,7 @@ c) településrendezési, valamint
 
 d) településfejlesztési
 
-## közvetlen és közvetett hatása összességében kedvező.
+közvetlen és közvetett hatása összességében kedvező.
 
 (2) A Kormányhivatal az (1) bekezdés szerinti követelményeknek való megfelelést az Étv. 57/D. §-ban meghatározott Bizottság (a továbbiakban: Bizottság) véleményének mérlegelésével állapítja meg.
 
