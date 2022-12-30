@@ -1,0 +1,95 @@
+# A Kormány 1695/2022. (XII. 30.) Korm. határozata
+
+Magyar Közlöny 2022. évi 223. szám, 2022. december 30. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/1wWVkhx685UFaLxQwcPq63ac9c6719f4e/dokumentumok/758f6de6b7720030c18525a2c675f9cbf2350874/letoltes)
+
+---
+
+A Kormány 1695/2022. (XII. 30.) Korm. határozata
+a Nemzeti Vallásturizmus Intézkedési Terv elfogadásáról és a megvalósításához szükséges egyéb
+intézkedésekről
+1. A Kormány
+1.1. megtárgyalta és elfogadta a részére bemutatott Nemzeti Vallásturizmus Intézkedési Tervet (a továbbiakban:
+Intézkedési Terv);
+1.2. felhívja a miniszterelnök általános helyettesét, hogy – a Bethlen Gábor Alapkezelő Zártkörűen Működő
+Részvénytársaság bevonásával – gondoskodjon az Intézkedési Tervben megfogalmazott célok eléréséről és
+feladatok megvalósításáról;
+Felelős: a miniszterelnök általános helyettese
+Határidő: folyamatos
+1.3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva
+elrendeli a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény (a továbbiakban:
+Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok
+alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoportnak az 5. Vallásturisztikai
+támogatások jogcímmel történő kiegészítését;
+Felelős: pénzügyminiszter
+Határidő: 2023. február 1.
+1.4. felhívja a pénzügyminisztert, hogy – a miniszterelnök általános helyettese bevonásával – gondoskodjon
+az 1. pont 1.2. alpontban megállapított feladatok megvalósítása érdekében 5 947 330 800 forint
+rendelkezésére állásáról, az alábbi ütemezés szerint:
+1.4.1. a 2023. évben a Kvtv. 1. melléklet
+a) XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok
+alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport,
+5. Vallásturisztikai támogatások jogcím javára 421 252 600 forint,
+b) LXV. Bethlen Gábor Alap fejezet, 5. Működtetési célú kifizetések cím javára
+623 000 000 forint,
+1.4.2. a 2024. évi központi költségvetés
+a) XI. Miniszterelnökség fejezet, Vallásturisztikai támogatások finanszírozását szolgáló
+előirányzat javára 471 282 600 forint,
+b) LXV. Bethlen Gábor Alap fejezet javára 507 000 000 forint,
+1.4.3. a 2025. évi központi költségvetés
+a) XI. Miniszterelnökség fejezet, Vallásturisztikai támogatások finanszírozását szolgáló
+előirányzat javára 221 132 600 forint,
+b) LXV. Bethlen Gábor Alap fejezet javára 483 000 000 forint,
+1.4.4. a 2026. évi központi költségvetés
+a) XI. Miniszterelnökség fejezet, Vallásturisztikai támogatások finanszírozását szolgáló
+előirányzat javára 221 132 600 forint,
+b) LXV. Bethlen Gábor Alap fejezet javára 423 000 000 forint,
+1.4.5. a 2027. évi központi költségvetés
+a) XI. Miniszterelnökség fejezet, Vallásturisztikai támogatások finanszírozását szolgáló
+előirányzat javára 221 132 600 forint,
+b) LXV. Bethlen Gábor Alap fejezet javára 423 000 000 forint,
+1.4.6. a 2028. évi központi költségvetés
+a) XI. Miniszterelnökség fejezet, Vallásturisztikai támogatások finanszírozását szolgáló
+előirányzat javára 221 132 600 forint,
+b) LXV. Bethlen Gábor Alap fejezet javára 423 000 000 forint,
+
+1.4.7. a 2029. évi központi költségvetés
+a) XI. Miniszterelnökség fejezet, Vallásturisztikai támogatások finanszírozását szolgáló
+előirányzat javára 221 132 600 forint,
+b) LXV. Bethlen Gábor Alap fejezet javára 423 000 000 forint,
+1.4.8. a 2030. évi központi költségvetés
+a) XI. Miniszterelnökség fejezet, Vallásturisztikai támogatások finanszírozását szolgáló
+előirányzat javára 221 132 600 forint,
+b) LXV. Bethlen Gábor Alap fejezet javára 423 000 000 forint;
+Felelős: pénzügyminiszter
+a miniszterelnök általános helyettese
+Határidő: az 1.4.1. alpont tekintetében 2023. március 31.
+az 1.4.2–1.4.8. alpont tekintetében az adott évi központi költségvetés tervezése során
+1.5. felhívja a miniszterelnök általános helyettesét, hogy az Intézkedési Terv megvalósítása során felmerülő
+turizmust érintő átfogó szakmai kérdések esetén egyeztessen a Miniszterelnöki Kabinetirodát vezető
+miniszterrel;
+Felelős: a miniszterelnök általános helyettese
+Miniszterelnöki Kabinetirodát vezető miniszter
+Határidő: folyamatos
+1.6. felhívja a miniszterelnök általános helyettesét, hogy vizsgálja meg a vallásturizmussal kapcsolatos
+jogszabályokat és készítsen jelentést a Kormány részére a szükséges módosításokról;
+Felelős: a miniszterelnök általános helyettese
+Határidő: 2023. március 31.
+1.7. felhívja a miniszterelnök általános helyettesét, hogy háromévente készítsen jelentést a Kormány részére
+az 1. pontban foglaltak megvalósításának bemutatása érdekében, továbbá szükség esetén a jelentésben
+foglaltakra figyelemmel vizsgálja felül az Intézkedési Tervet és nyújtson be róla előterjesztést a Kormány
+részére.
+Felelős: miniszterelnök általános helyettese
+Határidő: a 2022–2025 évekről 2026. március 31., azt követően az adott hároméves ciklust követő évben
+március 31.
+2. A Nemzeti Turizmusfejlesztési Stratégia 2030 felülvizsgálatáról szóló 1348/2021. (VI. 3.) Korm. határozatban
+a „Felelős: a miniszterelnök kabinetfőnöke” szövegrész helyébe a „Felelős: Miniszterelnöki Kabinetirodát vezető
+miniszter, – a vallási turizmussal kapcsolatos feladatok tekintetében – a miniszterelnök általános helyettese” szöveg
+lép.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Salgó László Péter.
+A szerkesztőség címe: 1051 Budapest, Nádor utca 22.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a http://www.magyarkozlony.hu
+honlapon érhető el.
