@@ -1,1 +1,3 @@
-2. § Hatályát veszti az R. 1. melléklet 4. pont 4.1 alpontjában a „megelőző védelmi helyzet és rendkívüli állapot idején,” szövegrész.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
