@@ -1,6 +1,6 @@
 2. melléklet a 9/2020. (VI. 10.) HM rendelethez
 
-## A 2. § (2) bekezdése szerinti nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
+A 2. § (2) bekezdése szerinti nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
 
 1. Honvédelmi Minisztérium:
 

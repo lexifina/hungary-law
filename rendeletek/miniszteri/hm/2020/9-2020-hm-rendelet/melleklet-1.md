@@ -1,8 +1,6 @@
-## 6. §[^1]
-
 1. melléklet a 9/2020. (VI. 10.) HM rendelethez
 
-## A 2. § (1) bekezdése szerinti nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
+A 2. § (1) bekezdése szerinti nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
 
 1. Honvédelmi Minisztérium:
 
@@ -77,5 +75,3 @@
 4.7. az állandó személyi védelemben részesülő állami vezetők állami légi járművel történő szállításában közvetlenül részt vevő gépszemélyzeti beosztás,
 
 4.8. olyan külföldi szolgálat teljesítése, amely esetében a fogadó fél igényli a személyi biztonsági tanúsítvány meglétét.
-
-[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

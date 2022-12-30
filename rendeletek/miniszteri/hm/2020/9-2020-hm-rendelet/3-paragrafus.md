@@ -27,3 +27,5 @@ l) a futárszolgálatot ellátó,
 m) az adatvédelmi felügyeleti feladatokat ellátó és
 
 n) az I. osztályú biztonsági területen feladatot ellátó
+
+tisztség, álláshely, munkakör, illetve szolgálati beosztás betöltésére irányuló foglalkoztatási jogviszony vagy a Polgári Törvénykönyvről szóló törvény rendelkezésein alapuló szerződéses jogviszony az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak minősül.
