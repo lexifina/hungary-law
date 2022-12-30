@@ -40,6 +40,6 @@
 
 20.
 
-21.
+21. 343. § (3) bekezdésében a „2023” szövegrész helyébe a „2024” szöveg,
 
-22.
+22. 350. § (4) bekezdésében a „2022” szövegrész helyébe a „2023” szöveg
