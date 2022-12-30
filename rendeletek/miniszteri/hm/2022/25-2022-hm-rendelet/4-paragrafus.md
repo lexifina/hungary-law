@@ -1,7 +1,9 @@
-4. § (1) A HM rendelet 1. §-ában a „hatálya” szövegrész helyébe a „hatálya – az állami sport célú támogatásokra vonatkozó előirányzatok kivételével –” szöveg lép.
+4. § (1)[^4]
 
-(2) A HM rendelet 1. mellékletében foglalt táblázat címében a „2021.” szövegrész helyébe a „2022.” szöveg lép.
+(2)[^5]
 
-(3)[^1]
+(3)[^6]
 
-[^1]: A 4. § (3) bekezdése az 5. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^4]: A 4. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. § (3) bekezdése az 5. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
