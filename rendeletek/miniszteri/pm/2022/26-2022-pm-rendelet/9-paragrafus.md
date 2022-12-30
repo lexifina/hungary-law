@@ -1,3 +1,3 @@
-9. §[^7]
+9. §[^9]
 
-[^7]: A 9. § a 14. § (3) bekezdés alapján 2023. február 13-án lép hatályba.
+[^9]: A 9. § a 14. § (3) bekezdés alapján 2023. február 13-án lép hatályba.

@@ -1,3 +1,3 @@
-4. § A 45/2016. (XI. 29.) NGM rendelet 14. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
+4. §[^4]
 
-(A készletbevallás tartalmazza)
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
