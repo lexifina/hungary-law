@@ -1,4 +1,4 @@
-27. § (1) A HM katasztrófavédelmi tevékenységét koordináló és válságkezelésért felelős önálló szervezeti egysége a felkészülés és a megelőzés időszakában
+27. § (1)[^23] A HM védelmi igazgatási feladatokért és válságkezelésért, valamint a HM katasztrófavédelmi tevékenységének koordinációjáért felelős önálló szervezeti egysége a felkészülés és a megelőzés időszakában
 
 a) felelős a Kat. 82. § (3) bekezdése szerinti miniszteri rendelet tervezetének szakmai előkészítéséért – a HM veszélyes katonai objektum felügyeleti hatósági feladatokat ellátó önálló szervezeti egysége bevonásával –,
 
@@ -16,23 +16,17 @@ g) koordinálja a KKB-val és annak szerveivel való kapcsolattartást, képvise
 
 h) végzi a katasztrófavédelmi gyakorlatok tervezésének és végrehajtásának minisztériumi szintű koordinációs feladatait,
 
-i) koordinálja a HM HOÁT KKB tagságából adódó honvédelmi ágazati katasztrófavédelmi feladatokat, és
+i) koordinálja a HM VPVFÁT KKB tagságából adódó védelmi igazgatási és honvédelmi ágazati katasztrófavédelmi feladatokat,
 
-j) biztosítja a HM HOT és a katasztrófavédelmi feladatokban való honvédségi közreműködés HM-en belüli feladatait végző válságkezelési csoport működtetéséhez szükséges feltételeket.
+j) biztosítja a HM HOT és a katasztrófavédelmi feladatokban való honvédségi közreműködés HM-en belüli feladatait végző válságkezelési csoport működtetéséhez szükséges feltételeket,
 
-(2) A HM védelmi igazgatási feladatokat ellátó önálló szervezeti egysége a felkészülés és a megelőzés időszakában
+k) szakmai segítséget nyújt a védelmi igazgatás területi szervei részére intézkedési tervek kidolgozásához,
 
-a) koordinálja a HM HOÁT KKB tagságából adódó védelmi igazgatási feladatokat,
+l) a hivatásos katasztrófavédelmi szervvel együttműködve részt vesz a védelmi igazgatás területi szerveinek elnökei részére szervezett komplex védelmi igazgatási továbbképzések megszervezésében, végrehajtásában,
 
-b) szakmai segítséget nyújt a védelmi igazgatás területi szervei részére intézkedési tervek kidolgozásához,
+m) javaslatot tesz a HM VPVFÁT részére a központi államigazgatási szervekkel való védelmi igazgatási szakmai kapcsolattartás rendjére.
 
-c) a hivatásos katasztrófavédelmi szervvel együttműködve részt vesz a védelmi igazgatás területi szerveinek elnökei részére szervezett komplex védelmi igazgatási továbbképzések megszervezésében, végrehajtásában,
-
-d) javaslatot tesz a HM HOÁT részére a központi államigazgatási szervekkel való védelmi igazgatási szakmai kapcsolattartás rendjére,
-
-e) meghatározott állományának készenléti vagy ügyeleti szolgálatba vezénylésével biztosítja a HM HOT aktivizálhatóságát és annak működését, és
-
-f) közreműködik a HM HOT-ba vezényelhető állomány katasztrófavédelmi szakmai felkészítésében.
+(2)[^24]
 
 (3) A Magyar Honvédség Parancsnokságának (a továbbiakban: MHP) az MHP IMK működtetéséért felelős önálló szervezeti egysége a felkészülés és a megelőzés időszakában
 
@@ -55,3 +49,6 @@ a) végzi az ágazati objektumok veszélyességi minősítésének nyilvántart�
 b) működteti az ágazati veszélyes anyag és veszélyes objektum adatbázist.
 
 (5) A (4) bekezdés b) pontja szerinti adatbázis felhasználhatóságát a HM veszélyes katonai objektum felügyeleti hatósági feladatokat ellátó önálló szervezeti egysége biztosítja az MHP-nak az MHP IMK működtetéséért felelős önálló szervezeti egysége és az ÁIK-ot működtető honvédségi szervezet részére.
+
+[^23]: A 27. § (1) bekezdése a 38/2022. (XII. 29.) HM rendelet 6. §-ával megállapított szöveg.
+[^24]: A 27. § (2) bekezdését a 38/2022. (XII. 29.) HM rendelet 8. § a) pontja hatályon kívül helyezte.

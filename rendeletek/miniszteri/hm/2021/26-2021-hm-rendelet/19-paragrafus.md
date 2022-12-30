@@ -1,5 +1,3 @@
-## 18. § A KKB Tudományos Tanácsába és annak Nukleárisbaleset-elhárítási Műszaki Tudományos Szekciójába ágazati szakértőt a KKB-nek, a KKB Titkárságának vagy a KKB Tudományos Tanácsának felkérése esetén a HM HOÁT jelöl ki.
-
 ## 6. Katasztrófavédelmi riasztás, aktivizálás
 
 ## 19. § A HKR riasztása történhet

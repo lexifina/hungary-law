@@ -1,4 +1,4 @@
-9. § (1) Az MHP IMK a HKR aktivizálása esetén részleges vagy teljes állománnyal az MH PK intézkedése alapján, a HM HOÁT egyidejű tájékoztatása mellett kerül aktivizálásra.
+9. § (1)[^9] Az MHP IMK a HKR aktivizálása esetén részleges vagy teljes állománnyal az MH PK intézkedése alapján, a HM VPVFÁT egyidejű tájékoztatása mellett kerül aktivizálásra.
 
 (2) Az MHP IMK váltásvezető feladatait, valamint az MHP IMK szakmai feladatait az MH PK által kijelölt személyek látják el.
 
@@ -23,3 +23,5 @@ h) időszakos és eseti jelentések formájában információt biztosít a HM HO
 i) a várható és kialakult helyzettel kapcsolatos információk folyamatos és kölcsönös rendelkezésre állása érdekében összekötőt biztosít a KKB NVK-ba, és
 
 j) előkészíti az MH PK katasztrófák elleni védekezéssel kapcsolatos döntéseit.
+
+[^9]: A 9. § (1) bekezdése a 38/2022. (XII. 29.) HM rendelet 7. § d) pontja szerint módosított szöveg.

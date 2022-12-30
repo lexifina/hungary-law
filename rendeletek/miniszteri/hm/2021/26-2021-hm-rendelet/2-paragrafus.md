@@ -1,5 +1,3 @@
-## 1. § E rendelet hatálya a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény (a továbbiakban: Hvt.) 80. § 13. pontja szerinti honvédelmi szervezetre (a továbbiakban: honvédelmi szervezet), valamint a honvédelemért felelős miniszter (a továbbiakban: miniszter) által az állam nevében alapított, honvédelmi szervezetnek nem minősülő többcélú szakképző intézményre terjed ki.
-
 ## 2. § E rendelet alkalmazásában
 
 a) HKR: honvédelmi katasztrófavédelmi rendszer, amely az országos katasztrófavédelmi rendszer részét képező, a honvédelmi ágazat katasztrófavédelmi feladatainak irányítására, végrehajtására, valamint az országos katasztrófavédelmi feladatokban való közreműködés érdekében létrehozott, a Magyar Honvédség (a továbbiakban: MH) meglévő képességein alapuló, kijelölt szervezeti elemekből felépülő, ideiglenes szervezet,

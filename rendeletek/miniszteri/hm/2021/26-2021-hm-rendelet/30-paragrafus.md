@@ -1,6 +1,6 @@
 ## 11. A katasztrófavédelemmel kapcsolatos képzés, felkészítés, kiképzés
 
-30. § (1) A HM HOÁT irányítást gyakorol a HM HOT felkészítése, kiképzése, továbbképzése, valamint gyakorlatokon történő részvétele felett.
+30. § (1)[^26] A HM VPVFÁT irányítást gyakorol a HM HOT felkészítése, kiképzése, továbbképzése, valamint gyakorlatokon történő részvétele felett.
 
 (2) Az MH PK
 
@@ -13,3 +13,5 @@ c) biztosítja az országos katasztrófavédelmi rendszer, nemzetközi katasztr�
 d) jóváhagyja az MHP-nak az MHP IMK működtetéséért felelős önálló szervezeti egysége által az MHP IMK katasztrófavédelmi felkészítésére vonatkozó felkészítési tervét.
 
 (3) A katasztrófavédelmi felkészítés és kiképzés kiterjed a katasztrófavédelmi munkavédelem és balesetelhárítás különös szabályaira is.
+
+[^26]: A 30. § (1) bekezdése a 38/2022. (XII. 29.) HM rendelet 7. § d) pontja szerint módosított szöveg.
