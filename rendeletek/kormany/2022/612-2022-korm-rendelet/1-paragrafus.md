@@ -1,3 +1,3 @@
-1. § A Budapest XIV. kerületében komplex ingatlanfejlesztésre, illetve az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekű beruházássá nyilvánításáról szóló 314/2022. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 5. § (3) bekezdése a következő 35. ponttal egészül ki:
+1. §[^2]
 
-(A 2. mellékletben foglalt táblázat B:2 mezőjében megjelölt telkekre és az azokból telekalakítással kialakításra kerülő telkekre meghatározott sajátos beépítési szabályok és egyedi építési követelmények:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
