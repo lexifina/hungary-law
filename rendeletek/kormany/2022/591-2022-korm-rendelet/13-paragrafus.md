@@ -1,5 +1,3 @@
-## „29. gondoskodik a rendezvénykoordinációs feladatok ellátásáról, működteti a szakmai testület munkáját segítő Nemzeti Rendezvénykoordinációs Központot;”
-
 ## 7. Átmeneti rendelkezések
 
 13. § (1) A Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: Nemzeti Sportügynökség) 1. § (1) bekezdésének, valamint a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság (a továbbiakban: MTÜ) 1. § (2) bekezdésének hatálya alá tartozó feladatait 2023. január 1-jétől az NRÜ Zrt. veszi át.
