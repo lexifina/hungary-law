@@ -24,6 +24,6 @@
 
 | falusi szálláshely | Egyéb szálláshely |
 
-4. melléklet a 239/2009. (X. 20.) Korm. rendelethez[^93]
+4. melléklet a 239/2009. (X. 20.) Korm. rendelethez[^95]
 
-[^93]: A 4. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 262. § (3) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § q) pontja.
+[^95]: A 4. mellékletet a 351/2010. (XII. 30.) Korm. rendelet 262. § (3) bekezdése iktatta be, hatályon kívül helyezte a 137/2012. (VI. 29.) Korm. rendelet 97. § q) pontja.
