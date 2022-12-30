@@ -2,7 +2,8 @@
 
 (2)[^76]
 
-(3) Ha a felsőoktatási intézmény a beiratkozáskor – a jelentkezéshez benyújtott egyszerű másolatok eredeti példányának vizsgálatakor – megállapítja, hogy a felvételi eredményének megállapítását befolyásoló valótlan adatszolgáltatás történt, a felsőoktatási intézmény vezetője a felvételről szóló döntést megsemmisíti.
+(3)[^77] Ha a felsőoktatási intézmény a beiratkozáskor megállapítja, hogy a felvételi eredményének megállapítását befolyásoló valótlan adatszolgáltatás történt, a felsőoktatási intézmény vezetője a felvételről szóló döntést megsemmisíti.
 
 [^75]: A 13. § (1) bekezdése a 661/2020. (XII. 24.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^76]: A 13. § (2) bekezdését a 339/2022. (IX. 7.) Korm. rendelet 23. § 16. pontja hatályon kívül helyezte.
+[^77]: A 13. § (3) bekezdése a 617/2022. (XII. 29.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.

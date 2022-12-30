@@ -1,4 +1,4 @@
-15. § (1)[^79] Alapképzésre és osztatlan képzésre történő jelentkezés esetén e rendeletben meghatározott eltéréssel a jelentkező teljesítményét felvételi összpontszámmal kell értékelni, amelyet az alábbiak szerint kell számítani:
+15. § (1)[^80] Alapképzésre és osztatlan képzésre történő jelentkezés esetén e rendeletben meghatározott eltéréssel a jelentkező teljesítményét felvételi összpontszámmal kell értékelni, amelyet az alábbiak szerint kell számítani:
 
 a) a tanulmányi pontok és az érettségi pontok összeadásával, vagy
 
@@ -14,9 +14,9 @@ a) a középiskolai osztályzatai és az érettségi vizsgákon elért százalé
 
 b) a jelentkezés feltételéül meghatározott érettségi vizsgaeredményei alapján legfeljebb 200 érettségi pontot;
 
-c)[^80] az emelt szinten teljesített érettségi vizsgákért, vagy a felsőoktatási felvételi szakmai vizsgákért legfeljebb 100 érettségi többletpontot;
+c)[^81] az emelt szinten teljesített érettségi vizsgákért, vagy a felsőoktatási felvételi szakmai vizsgákért legfeljebb 100 érettségi többletpontot;
 
-d)[^81]
+d)[^82]
 
 e) az esélyegyenlőség biztosítása érdekében a 24. §-ban meghatározott többletpontokat;
 
@@ -26,12 +26,12 @@ szerezhet.
 
 (4) A (3) bekezdés c)–f) pontja alapján adható többletpontok összege legfeljebb 100 pont lehet. A jelentkező abban az esetben is csak 100 pontra jogosult, ha a különböző jogcímek alapján elért többletpontjainak az összege ezt meghaladná.
 
-(5)[^82] Ha egy jelentkező több olyan szakra, képzésre, intézménybe jelentkezik, ahol azonosak a szóbeli alkalmassági vizsga követelményei, vagy ahol ugyanazon érettségi tárgyhoz felsőoktatási felvételi szakmai vizsgát tesz, a szóbeli alkalmassági vizsgát vagy felsőoktatási felvételi szakmai vizsgát csak egyszer, a jelentkezéskor meghatározott elbírálási sorrendben előbb jelzett intézményben, szakon kell letenni. Ezekben az esetekben a vizsga eredményét a többi intézményben, szakon is el kell fogadni.
+(5)[^83] Ha egy jelentkező több olyan szakra, képzésre, intézménybe jelentkezik, ahol azonosak a szóbeli alkalmassági vizsga követelményei, vagy ahol ugyanazon érettségi tárgyhoz felsőoktatási felvételi szakmai vizsgát tesz, a szóbeli alkalmassági vizsgát vagy felsőoktatási felvételi szakmai vizsgát csak egyszer, a jelentkezéskor meghatározott elbírálási sorrendben előbb jelzett intézményben, szakon kell letenni. Ezekben az esetekben a vizsga eredményét a többi intézményben, szakon is el kell fogadni.
 
-(6)[^83]
+(6)[^84]
 
-[^79]: A 15. § (1) bekezdés nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 81. § 1. pontja szerint módosított szöveg.
-[^80]: A 15. § (3) bekezdés c) pontja az 59/2016. (III. 25.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
-[^81]: A 15. § (3) bekezdés d) pontját a 661/2020. (XII. 24.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
-[^82]: A 15. § (5) bekezdése az 59/2016. (III. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^83]: A 15. § (6) bekezdését a 13/2020. (II. 7.) Korm. rendelet 82. § (2) bekezdés 1. pontja hatályon kívül helyezte.
+[^80]: A 15. § (1) bekezdés nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 81. § 1. pontja szerint módosított szöveg.
+[^81]: A 15. § (3) bekezdés c) pontja az 59/2016. (III. 25.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^82]: A 15. § (3) bekezdés d) pontját a 661/2020. (XII. 24.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
+[^83]: A 15. § (5) bekezdése az 59/2016. (III. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^84]: A 15. § (6) bekezdését a 13/2020. (II. 7.) Korm. rendelet 82. § (2) bekezdés 1. pontja hatályon kívül helyezte.

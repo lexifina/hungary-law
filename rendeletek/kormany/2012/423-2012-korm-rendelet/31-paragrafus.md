@@ -1,11 +1,11 @@
 31. § (1) A Hivatal a jelentkezők központi nyilvántartását elektronikus formában hozza létre és vezeti.
 
-(2)[^167] Ha a jelentkező a felvételi eljárás során olyan okiratot mutat be, amelyben szereplő személyes adatai az okirat kiállítását követően megváltoztak, a bekövetkezett változást köteles a Tájékoztatóban meghatározottak szerint igazolni.
+(2)[^168] Ha a jelentkező a felvételi eljárás során olyan okiratot mutat be, amelyben szereplő személyes adatai az okirat kiállítását követően megváltoztak, a bekövetkezett változást köteles a Tájékoztatóban meghatározottak szerint igazolni.
 
-(3)[^168] Az érettségi vizsgára vonatkozó adatokat a Hivatal – a személyes adatok kezelésére vonatkozó jogszabályok keretei között – a köznevelési intézménytől, a köznevelés információs rendszeréből elektronikusan szerzi be. Az így beszerzett adatok valódiságáért az azt szolgáltató szerv felel.
+(3)[^169] Az érettségi vizsgára vonatkozó adatokat a Hivatal – a személyes adatok kezelésére vonatkozó jogszabályok keretei között – a köznevelési intézménytől, a köznevelés információs rendszeréből elektronikusan szerzi be. Az így beszerzett adatok valódiságáért az azt szolgáltató szerv felel.
 
-(4)[^169] A nyelvvizsga letételét igazoló okirat hitelességének megállapítására vonatkozó adatokat a Hivatal a nyelvvizsga-bizonyítványt kiállító vizsgaközponttól elektronikusan szerzi be. Az így beszerzett adatok valódiságáért az azt szolgáltató szerv felel.
+(4)[^170] A nyelvvizsga letételét igazoló okirat hitelességének megállapítására vonatkozó adatokat a Hivatal a nyelvvizsga-bizonyítványt kiállító vizsgaközponttól elektronikusan szerzi be. Az így beszerzett adatok valódiságáért az azt szolgáltató szerv felel.
 
-[^167]: A 31. § (2) bekezdése a 746/2021. (XII. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^168]: A 31. § (3) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 46. § 21. pontja szerint módosított szöveg.
-[^169]: A 31. § (4) bekezdését a 442/2016. (XII. 16.) Korm. rendelet 27. §-a iktatta be.
+[^168]: A 31. § (2) bekezdése a 746/2021. (XII. 21.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^169]: A 31. § (3) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 46. § 21. pontja szerint módosított szöveg.
+[^170]: A 31. § (4) bekezdését a 442/2016. (XII. 16.) Korm. rendelet 27. §-a iktatta be.
