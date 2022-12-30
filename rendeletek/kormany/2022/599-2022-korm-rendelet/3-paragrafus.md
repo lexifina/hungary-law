@@ -1,7 +1,3 @@
-3. § Az R.
+3. §[^4]
 
-a) 4. § (2) és (6) bekezdésében a „Nemzeti Egészségbiztosítási Alapkezelő” szövegrész helyébe a „Nemzeti Egészségbiztosítási Alapkezelő, valamint az érintett finanszírozott egészségügyi szolgáltató” szöveg,
-
-b) 5. § (4) bekezdésében a „valamint a Nemzeti Egészségbiztosítási Alapkezelő” szövegrész helyébe az „a Nemzeti Egészségbiztosítási Alapkezelő, valamint az érintett finanszírozott egészségügyi szolgáltató” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

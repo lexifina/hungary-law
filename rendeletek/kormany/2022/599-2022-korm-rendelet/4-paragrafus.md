@@ -1,3 +1,3 @@
-4. § Az R. a következő 11/A. §-sal egészül ki:
+4. §[^5]
 
-„11/A. § E rendeletnek az egyes fogyasztók által használt gyógyászati segédeszközök villamosenergia-fogyasztásának támogatásáról szóló 295/2022. (VIII. 9.) Korm. rendelet módosításáról szóló 599/2022. (XII. 28.) Korm. rendelettel megállapított 2. § 1. pont b) alpontja szerinti gyógyászati segédeszközt használó jogosult vagy a jogosulttal egy háztartásban élő személy a kedvezményre a kérelem benyújtásától visszamenőleg 2022. augusztus 24. napjától jogosult, amennyiben a kérelmét 2023. január 31-ig benyújtja.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

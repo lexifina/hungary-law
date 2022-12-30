@@ -1,3 +1,3 @@
-1. § Az egyes fogyasztók által használt gyógyászati segédeszközök villamosenergia-fogyasztásának támogatásáról szóló 295/2022. (VIII. 9.) Korm. rendelet (a továbbiakban: R.) 2. § 1. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
