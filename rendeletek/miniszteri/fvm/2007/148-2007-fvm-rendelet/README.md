@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-148-20-
 | 2021-08-21 | 2007-148-20-82.47 | 28/2021. (VIII. 18.) AM rendelet |
 | 2021-11-30 | 2007-148-20-82.48 | 64/2020. (XII. 16.) AM rendelet |
 | 2022-01-01 | 2007-148-20-82.49 | 64/2020. (XII. 16.) AM rendelet |
+| 2022-12-30 | 2007-148-20-82.50 | 159/2022. (XII. 27.) AM rendelet |

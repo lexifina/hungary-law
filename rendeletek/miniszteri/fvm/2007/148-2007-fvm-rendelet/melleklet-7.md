@@ -1,6 +1,6 @@
-7. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^127]
+7. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^144]
 
-## Állatorvosi igazolás a vemhes üszőre vonatkozóan az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján igényelt támogatáshoz
+Állatorvosi igazolás a vemhes üszőre vonatkozóan az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján igényelt támogatáshoz
 
 1. Állattartó adatai
 
@@ -18,4 +18,4 @@
 
 8. Keltezés, a szolgáltató állatorvos aláírása és bélyegzője.
 
-[^127]: A 7. számú mellékletet a 78/2016. (XII. 12.) FM rendelet 7. § (2) bekezdése iktatta be.
+[^144]: A 7. számú mellékletet a 78/2016. (XII. 12.) FM rendelet 7. § (2) bekezdése iktatta be.
