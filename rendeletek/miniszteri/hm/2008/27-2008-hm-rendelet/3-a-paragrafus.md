@@ -1,7 +1,0 @@
-3/A. §[^6] (1) A Honvédség központi személyügyi szerve az üres vagy megüresedő munkakörbe történő kinevezés érdekében megvizsgálja, hogy van-e olyan, a honvédek jogállásáról szóló 2012. évi CCV. törvény 46. § (1) bekezdés r) vagy s) pontja szerint rendelkezési állományba tartozó katona (a továbbiakban: tartalékállományba tartozó katona), akinek iskolai végzettsége, szakképzettsége, szakképesítése alapján az üres vagy megüresedő közalkalmazotti munkakör felajánlható.
-
-(2) A Honvédség központi személyügyi szerve tájékoztatja a tartalékállományba tartozó katonát az iskolai végzettségének és szakképzettségének, szakképesítésének megfelelő üres vagy megüresedő közalkalmazotti munkakörről. A tartalékállományba tartozó katona a tájékoztatás közlésétől számított 2 munkanapon belül írásban nyilatkozik a munkakörben történő továbbfoglalkoztatási lehetőség igénybevételéről. Ha a tartalékállományba tartozó katona a határidő leteltéig a nyilatkozattételt elmulasztja, azt úgy kell tekinteni, mintha a továbbfoglalkoztatási lehetőséget nem veszi igénybe.
-
-(3) A továbbfoglalkoztatását kérő tartalékállományba tartozó katonáról a Honvédség központi személyügyi szerve tájékoztatja a munkáltatót. Ha a tartalékállományba tartozó katona az (1) bekezdés szerinti munkakör ellátására alkalmas, a munkáltató kinevezi, feltéve, hogy a kinevezést megelőző napon szolgálati viszonya megszűnik.
-
-[^6]: A 3/A. §-t újonnan a 9/2013. (VIII. 12.) HM rendelet 286. §-a iktatta be.

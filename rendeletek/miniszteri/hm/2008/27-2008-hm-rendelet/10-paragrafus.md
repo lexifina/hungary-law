@@ -1,1 +1,0 @@
-## 9. § A Kjt. 24. § (1) bekezdésében foglaltak abban az esetben is irányadók, ha a közalkalmazott hivatásos vagy szerződéses állományú katonát helyettesít. Ebben az esetben a helyettesítés akkor rendelhető el, amennyiben a szolgálati beosztás nem igényel kifejezetten katonai képesítést.
