@@ -168,7 +168,7 @@
 
 | 84. | Herceghalom kutatólabor kialakítása | Herceghalom belterület 267/2 belterület 268 |
 
-3. melléklet a 98/2017. (IV. 27.) Korm. rendelethez[^20]
+3. melléklet a 98/2017. (IV. 27.) Korm. rendelethez[^24]
 
 A 4/B. § szerinti beruházások során az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának szükséges időtartama
 
@@ -178,4 +178,4 @@ A 4/B. § szerinti beruházások során az építési tevékenység költséghat
 
 | 2. | A 2. mellékletben foglalt táblázat 41. és 42. sorában megjelölt ingatlanon megvalósuló beruházás | Budapest IX. kerület, belterület 36868, 36873, 36873/0/A/1, 36873/0/B/1, 36873/0/C/1, 36873/0/A/2 helyrajzi számú ingatlan | Budapest 36863, 36850/2, 36930/2 helyrajzi számú ingatlan | 2022. 01. 01. – 2025. 12. 31. |
 
-[^20]: A 3. mellékletet az 521/2021. (IX. 6.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^24]: A 3. mellékletet az 521/2021. (IX. 6.) Korm. rendelet 4. § (2) bekezdése iktatta be.

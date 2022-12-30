@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-98-20-2
 | 2021-05-21 | 2017-98-20-22.6 | 119/2018. (VII. 2.) Korm. rendelet |
 | 2021-09-07 | 2017-98-20-22.7 | 521/2021. (IX. 6.) Korm. rendelet |
 | 2022-12-23 | 2017-98-20-22.8 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2022-12-30 | 2017-98-20-22.10 | 617/2022. (XII. 29.) Korm. rendelet |

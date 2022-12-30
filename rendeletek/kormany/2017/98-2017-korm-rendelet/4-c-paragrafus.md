@@ -30,6 +30,9 @@ e) egy kerékpár elhelyezését kell biztosítani igazgatási, ellátó, szolg�
 
 f) új épület vagy meglévő épület bővítésének építési helyén a meglévő gépjárművárakozó-helyek megszüntethetők, azzal, hogy azok eltérő helyen történő biztosítása nem szükséges.
 
+(6a)[^11] A Beruházással érintett ingatlan vonatkozásában személygépjármű-tárolás épületen kívül is megengedett.
+
 (7) Bővítés, átalakítás és rendeltetésmódosítás esetén a parkolóférőhelyek száma meghatározásának alapját a teljes ellátandó rendeltetés képezi, de csak a keletkező többlet személygépjármű elhelyezési kötelezettséget kell – a (6) bekezdésben meghatározott mértékben – biztosítani.
 
 [^10]: A 4/C. §-t az 521/2021. (IX. 6.) Korm. rendelet 2. §-a iktatta be.
+[^11]: A 4/C. § (6a) bekezdését a 617/2022. (XII. 29.) Korm. rendelet 20. §-a iktatta be.
