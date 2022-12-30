@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-235-20-
 | 2021-08-19 | 2019-235-20-22.14 | 501/2021. (VIII. 18.) Korm. rendelet |
 | 2021-10-28 | 2019-235-20-22.15 | 633/2020. (XII. 22.) Korm. rendelet |
 | 2022-07-01 | 2019-235-20-22.16 | 239/2022. (VI. 30.) Korm. rendelet |
+| 2022-12-30 | 2019-235-20-22.17 | 633/2020. (XII. 22.) Korm. rendelet |
