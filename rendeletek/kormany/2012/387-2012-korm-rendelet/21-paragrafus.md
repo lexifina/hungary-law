@@ -10,7 +10,7 @@ a) doktori fokozattal rendelkezik, és a tudományos fokozat megszerzése óta �
 
 b) hazai vagy külföldi felsőoktatási intézményben legalább nyolc féléven keresztül látott el oktatói feladatot;
 
-c)[^36] tudományos alkotással történő habilitáció esetén rendszeres, magas szintű szakirodalmi tevékenységet folytat, amelyet rangos nemzetközi, lektorált, a szakterületen mértékadóként elismert folyóiratokban megjelent cikkek és ugyanilyen helyeken megjelenő – az Adatbázis alapján vizsgált – hivatkozások igazolnak, emellett előadásokkal, eredményei ismertetésével rendszeresen részt vesz nemzetközi és hazai tudományos rendezvényeken;
+c)[^38] tudományos alkotással történő habilitáció esetén rendszeres, magas szintű szakirodalmi tevékenységet folytat, amelyet rangos nemzetközi, lektorált, a szakterületen mértékadóként elismert folyóiratokban megjelent cikkek és ugyanilyen helyeken megjelenő – az Adatbázis alapján vizsgált – hivatkozások igazolnak, emellett előadásokkal, eredményei ismertetésével rendszeresen részt vesz nemzetközi és hazai tudományos rendezvényeken;
 
 d) műszaki alkotásra épülő habilitáció esetén rendszeres, magas szintű alkotótevékenységet folytat, amelyet megvalósult szabadalmak, tervek, valamint lektorált folyóiratcikkek és ezekre kapott hivatkozások igazolnak; a habilitáló előadásokkal, eredményei ismertetésével rendszeresen részt vesz nemzetközi és hazai szakmai rendezvényeken; nemzetközileg is kiemelkedő gyakorlati eredményeinek pozitív hazai és nemzetközi szakmai visszhangja nyomtatott formában is megjelent;
 
@@ -20,4 +20,4 @@ e) művészeti alkotásra épülő habilitáció esetén alkotásai országosan 
 
 (4) A habilitált doktor cím a pályázó doktori fokozatának megfelelő tudományágban nyerhető el. A kérelmező doktori fokozatának tudományágától eltérő tudományágban akkor kérhető a habilitációs eljárás megindítása, ha a kérelmezőnek a tudományos fokozat megszerzése óta kifejtett tevékenysége ezt indokolja.
 
-[^36]: A 21. § (2) bekezdés c) pontja a 345/2015. (XI. 19.) Korm. rendelet 31. § 2. pontja szerint módosított szöveg.
+[^38]: A 21. § (2) bekezdés c) pontja a 345/2015. (XI. 19.) Korm. rendelet 31. § 2. pontja szerint módosított szöveg.

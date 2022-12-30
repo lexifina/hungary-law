@@ -18,15 +18,11 @@ e)[^5] az adott felsőoktatási intézményben, teljes munkaidőben, munkaviszon
 
 (5) A (3) bekezdés a)–d) pontjában foglalt feltételek teljesítése mellett törzstag lehet továbbá kutatóintézetben, teljes munkaidőben, munkaviszonyban vagy közalkalmazotti jogviszonyban foglalkoztatott – Magyar Tudományos Akadémia doktora címmel rendelkező – tudományos tanácsadó vagy kutatóprofesszor is, amennyiben a felsőoktatási intézmény a kutatóintézettel erre vonatkozó megállapodást kötött. Közülük legfeljebb két tag vehető figyelembe a 2. § (1) bekezdésében meghatározott törzstagok tekintetében, a 2. § (2) bekezdésében meghatározott törzstagok tekintetében tudományáganként egy tag vehető figyelembe.
 
-(6)[^6] A (3) bekezdés a)–d) pontjában foglalt feltételek teljesítése mellett törzstag lehet továbbá az a személy is, aki a Magyar Művészeti Akadémia (a továbbiakban: MMA) akadémikusa vagy az MMA nem akadémikus köztestületi tagja, ha
-
-a) megfelel a Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény 8/A. § (1) bekezdés a) és b) pontjában meghatározott feltételeknek, és
-
-b) a felsőoktatási intézménnyel vagy az azzal megállapodást kötő kutatóintézettel teljes munkaidőben munkaviszonyban vagy közalkalmazotti jogviszonyban áll.
+(6)[^6]
 
 [^1]: A 2. § (2) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 25. §-ával megállapított szöveg.
 [^2]: A 2. § (3) bekezdés a) pontja a 121/2013. (IV. 26.) Korm. rendelet 26. §-ával megállapított szöveg.
 [^3]: A 2. § (3) bekezdés b) pontja a 121/2013. (IV. 26.) Korm. rendelet 26. §-ával megállapított, a 345/2015. (XI. 19.) Korm. rendelet 31. § 1. pontja, a 266/2016. (VIII. 31.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (3) bekezdés d) pontja a 266/2016. (VIII. 31.) Korm. rendelet 9. § b)–c) pontja szerint módosított szöveg.
 [^5]: A 2. § (3) bekezdés e) pontja a 266/2016. (VIII. 31.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.
-[^6]: A 2. § (6) bekezdését az 577/2021. (X. 12.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 2. § (6) bekezdését az 577/2021. (X. 12.) Korm. rendelet 1. §-a iktatta be, a 617/2022. (XII. 29.) Korm. rendelet 9. §-a hatályon kívül helyezte.
