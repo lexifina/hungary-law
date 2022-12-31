@@ -1,7 +1,3 @@
-5. § A 148/2007. (XII. 8.) FVM rendelet 7. §-a a következő (2c)–(2e) bekezdéssel egészül ki:
+5. §[^5]
 
-„(2c) A 2023. évben rendelkezésre álló keret összege 11 900 millió forint, amelyből 2400 millió forintot a baromfi ágazatban, 8100 millió forintot az egyéb állattenyésztési ágazatban, 1400 millió forintot a vemhes üszők állat-egészségügyi szolgáltatására, gyógykezelésére és immunizálására kell felhasználni, azzal, hogy a C001 technikai kódú állat-egészségügyi szolgáltatások vonatkozásában legfeljebb 5500 millió forint fizethető ki. A C001 technikai kódú állat-egészségügyi szolgáltatásokra rendelkezésre álló támogatási keret kimerülése esetén a baromfi, az egyéb állattenyésztési ágazatra vagy a vemhes üszőkre megállapított szabad támogatási keret terhére támogatási összeg nem csoportosítható át. Ha a baromfi ágazatban vagy az egyéb állattenyésztési ágazatban megállapított támogatás mértéke meghaladja az adott ágazatra a 2023. évben rendelkezésre álló keretből felhasználható összeget, akkor a 2023. évben elvégzett szolgáltatásokra vonatkozóan benyújtott támogatási kérelmekben foglalt jogos igények az e bekezdésben meghatározott más ágazatokban felhasználható keretek terhére is teljesíthetőek.
-
-(2d) A (2c) bekezdésben foglaltakon túl a C002 technikai kódú állat-egészségügyi szolgáltatások vonatkozásában legfeljebb 600 millió forint használható fel.
-
-(2e) A (2c) és (2d) bekezdés szerinti keretösszegek terhére a 2023. évben elvégzett szolgáltatásokra benyújtott támogatási kérelmekben foglalt jogos igények teljesíthetőek.”
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,18 +1,20 @@
 8. § A 148/2007. (XII. 8.) FVM rendelet
 
-a) 3. § (1) bekezdés a) pontjában a „3–33. sorában” szövegrész helyébe a „2–27. és 29. sorában” szöveg,
+a)[^8]
 
-b) 3. § (1) bekezdés b) pontjában a „34–35. sorában” szövegrész helyébe a „28. sorában” szöveg,
+b)[^9]
 
-c)[^1]
+c)[^10]
 
-d)[^2]
+d)[^11]
 
-e) 6. § (6) bekezdés a) pontjában a „4. §-ban, az 5. § (5) és (7) bekezdésében” szövegrész helyébe a „3. § (3a) bekezdésében, a 4. §-ban, az 5. § (5), (7)–(10) bekezdésében” szöveg,
+e)[^12]
 
-f) 5. számú melléklet 8.3. pontjában az „1537 Budapest Pf. 397.” szövegrész helyébe az „1525 Budapest, Pf. 30.” szöveg
+f)[^13]
 
-lép.
-
-[^1]: A 8. § c) pontja a 10. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^2]: A 8. § d) pontja a 10. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^8]: A 8. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 8. § c) pontja a 10. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^11]: A 8. § d) pontja a 10. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^12]: A 8. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 8. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

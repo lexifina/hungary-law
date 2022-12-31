@@ -1,3 +1,3 @@
-6. § A 148/2007. (XII. 8.) FVM rendelet a következő 23. §-sal egészül ki:
+6. §[^6]
 
-„23. § Az e rendeletnek az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet módosításáról szóló 159/2022. (XII. 27.) AM rendelettel megállapított 3. § (1) és (3a) bekezdését, 4. § (3)–(3c) bekezdését, 5. § (7a), (7b), (9) és (10) bekezdését, 6. § (5) bekezdését, 6. § (6) bekezdés a) pontját és (6b) bekezdését, 7. § (2c)–(2e) bekezdését, 1. és 2. számú mellékletét, valamint 4–6. számú mellékletét a 2023. január 1-jétől benyújtott kérelmekre kell alkalmazni.”
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

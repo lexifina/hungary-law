@@ -1,3 +1,3 @@
-1. § Az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet [a továbbiakban: 148/2007. (XII. 8.) FVM rendelet] 3. §-a a következő (3a) bekezdéssel egészül ki:
+1. §[^1]
 
-„(3a) A támogatás nem vehető igénybe olyan létesítmény esetében, amely kizárólag a fertőző állatbetegségekről és egyes állategészségügyi jogi aktusok módosításáról és hatályon kívül helyezéséről szóló, 2016. március 9-i (EU) 2016/429 európai parlamenti és tanácsi rendelet 4. cikk 49. pontja szerinti összegyűjtési műveleteket végez.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

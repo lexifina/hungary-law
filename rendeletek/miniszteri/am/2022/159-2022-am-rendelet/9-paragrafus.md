@@ -1,1 +1,3 @@
-9. § Hatályát veszti a 148/2007. (XII. 8.) FVM rendelet 6. § (7) bekezdésében a „de legkésőbb tárgyhónapot követő hónap utolsó napjáig” szövegrész.
+9. §[^14]
+
+[^14]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
