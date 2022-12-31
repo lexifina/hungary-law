@@ -1,9 +1,10 @@
-## 7. § Az e rendelet szerinti kötelezettségének teljesítése során az adózó – választása szerint – az összehasonlíthatóság javítása érdekében a Tao. törvény 31. § (2) bekezdés b) pontja szerinti iránymutatásban nevesített, illetve abban nem nevesített kiigazításokat alkalmazhat azzal, hogy az adózó az elvégzett kiigazításokat köteles megfelelő módon dokumentálni, ideértve annak indokolását is, hogy az alkalmazott kiigazítás milyen módon szolgálja az összehasonlíthatóság javítását.
+## 6/A.[^18] Adatszolgáltatás az ellenőrzött ügyletekről
 
-8. § (1) Az adózó e rendelet szerinti nyilvántartása a Tao. törvény 18. § (9) bekezdésében foglaltakkal összhangban tartalmazza a szokásos piaci ártartományt (jövedelmezőséget) a következő körülmények együttes fennállása esetén:
+8. §[^19] (1) A Tao. törvény szerint az éves társaságiadó-bevallásában a szokásos piaci ár meghatározásával összefüggésben az állami adó- és vámhatóság részére adatszolgáltatásra kötelezett adózó e kötelezettségét e rendelet szerint teljesíti, ha kapcsolt vállalkozásával kötött hatályos szerződése vagy a Tao. törvény 18. § (6) és (7) bekezdése szerinti ügylet alapján az adóévben teljesítés történt. Ha az adózó kapcsolt vállalkozásával a kapcsolt vállalkozási jogviszonyuk keletkezését megelőzően kötött szerződést, az e rendelet szerinti adatszolgáltatást akkor köteles teljesíteni, ha a szerződés bármely lényeges feltételét módosítják, vagy olyan változás következik be, amelyet független felek az ár meghatározásánál érvényesítenek vagy érvényesítenének.
 
-a) az adózó a szokásos piaci ár meghatározása során a 6. § d)–e) pontja szerinti forrást veszi figyelembe,
+(2) Nem terheli az e rendelet szerinti adatszolgáltatási kötelezettség az 1. § (2) bekezdés e)–g) pontja szerint a nyilvántartási kötelezettség alól mentesülő ügyletet.
 
-b) a nyilvántartás elkészítése során az összehasonlító elemzés legalább 10 vállalat legalább három pénzügyi évének adatait vagy több mint 30 megfigyelést vesz figyelembe, vagy az összehasonlító minta terjedelme meghaladja a 15 százalékpontot.
+(3) Az 1. § (2) bekezdés a), c) és d) pontja szerint a nyilvántartási kötelezettség alól mentesülő ügylet esetében az adatszolgáltatás kizárólag a 8/A. § (2) bekezdése és a (3) bekezdés a)–d) pontja szerinti adatokra terjed ki.
 
-(2) Amennyiben az (1) bekezdés a) pontja szerint eljáró adózó az összehasonlító elemzés eredményeként adódó minta minden egyes eleme vonatkozásában funkcionális elemzést végzett, és ennek, valamint az összehasonlíthatóságot meghatározó további tényezők vizsgálata eredményének e rendelet szerinti nyilvántartásban megfelelő módon történő dokumentálásával kétséget kizáró módon igazolta, hogy az ellenőrzött ügylet és az összehasonlított ügylet összehasonlítható, továbbá az összehasonlíthatóság megállapítását kizáró hiányosság nem áll fenn, akkor az (1) bekezdés szerinti rendelkezéseket nem kell alkalmaznia.
+[^18]: A 6/A. alcím címét a 27/2022. (XII. 28.) PM rendelet 3. §-a iktatta be.
+[^19]: A 8. § a 27/2022. (XII. 28.) PM rendelet 4. §-ával megállapított szöveg.

@@ -7,3 +7,5 @@ b) a Tanácsnak és a tagállamok kormányainak a Tanács keretében ülésező 
 c) a Bizottság Európai Parlamentnek, a Tanácsnak és az európai gazdasági és szociális Bizottságnak az EU közös transzferárfóruma által 2009 áprilisa és 2010 júniusa között végzett munkáról és a kapcsolódó javaslatokról szóló közleményének az alacsony hozzáadott értékű, csoporton belüli szolgáltatásokról szóló iránymutatásának és
 
 d) a Bizottság Európai Parlamentnek, a Tanácsnak és az európai gazdasági és szociális Bizottságnak az EU közös transzferárfóruma által 2010 júliusa és 2012 augusztusa között végzett munkáról és a kapcsolódó javaslatokról szóló közleményének a kis- és középvállalkozásokról és a transzferárképzésről szóló jelentésének
+
+való megfelelést szolgálja.

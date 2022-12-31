@@ -1,6 +1,10 @@
 ## 4. A nyilvántartás tartalma
 
-4. § (1) Az adózó a nyilvántartást – figyelemmel a (7) bekezdésben foglaltakra is – adóévenként készíti el. A nyilvántartás fődokumentumból és helyi dokumentumból áll.
+4. § (1)[^6] Az adózó az e rendelet szerinti nyilvántartási kötelezettsége alapján – figyelemmel a (7) bekezdésben foglaltakra is – adóévenként az alábbi nyilvántartásokat készíti el:
+
+a) fődokumentum és
+
+b) – ellenőrzött ügyletenként, illetve az (5) bekezdés alapján összevont ügyletenként – helyi dokumentum.
 
 (2) A fődokumentum legalább az alábbiakat tartalmazza:
 
@@ -48,7 +52,7 @@ eb) a csoport hatályos egyoldalú szokásos piaci ár-megállapítási megálla
 
 f) a fődokumentum elkészítésének időpontját.
 
-(3) A helyi dokumentum legalább az alábbiakat tartalmazza:
+(3)[^7] A helyi dokumentum adózószintű közös része legalább az alábbiakat tartalmazza:
 
 a) az adózó ügyvezetése (menedzsmentje) felépítésének bemutatását, szervezeti ábráját, azon személyek megnevezését, akiknek az ügyvezetés jelentést tesz és azon országok megnevezését, ahol e személyek a központi irodájukat fenntartják;
 
@@ -56,17 +60,19 @@ b) az adózó üzleti vállalkozásának, tevékenységének és stratégiáján
 
 c) az adózó legfontosabb versenytársainak felsorolását;
 
-d) az egyes ellenőrzött ügyletekre, illetve egyes összevont ellenőrzött ügyletekre vonatkozó – (4) bekezdés szerinti – adatokat;
+d)[^8]
 
-e) azoknak a hatályos egy-, két- vagy többoldalú, szokásos piaci ár-megállapítási megállapodásoknak, valamint más adózási megállapodásoknak (ideértve többek között a feltételes adómegállapítási határozatokat) a másolatát, amelyet nem az állami adó- és vámhatóság adott ki, és amelyek az adózó nyilvántartási kötelezettség alá eső ellenőrzött ügyleteire vonatkoznak; és
+e)[^9] azoknak a hatályos egy-, két- vagy többoldalú, szokásos piaci ár-megállapítási megállapodásoknak, valamint más adózási megállapodásoknak (ideértve többek között a feltételes adómegállapítási határozatokat) a másolatát, amelyet nem az adópolitikáért felelős miniszter vagy az állami adó- és vámhatóság adott ki, és amelyek az adózó nyilvántartási kötelezettség alá eső ellenőrzött ügyleteire vonatkoznak; és
 
 f) a helyi dokumentum elkészítésének időpontját.
 
-(4) A nyilvántartás ellenőrzött ügyletenként, illetve az (5) bekezdés alapján összevont ügyletenként a következőket tartalmazza:
+(3a)[^10] A helyi dokumentum adózószintű közös részét adóévente egyszer kell elkészíteni.
+
+(4)[^11] A helyi dokumentum ügyleti szintű része a következőket tartalmazza:
 
 a) az ellenőrzött ügylet bemutatását (például gyártási szolgáltatások beszerzése, termékek beszerzése, termékek eladása, szolgáltatások nyújtása, kölcsönnyújtás, pénzügyi és teljesítési garanciák biztosítása, immateriális javak licencbe adása) és a környezet, érintett piac bemutatását, amelyben az ügylet létrejön;
 
-b)[^2] az ellenőrzött ügyletben részes más kapcsolt vállalkozások elnevezését, székhelyét, belföldi illetve külföldi adószámát, ennek hiányában cégjegyzékszámát (nyilvántartási számát) és a cégjegyzéket (nyilvántartást) vezető bíróság (hatóság) megnevezését és székhelyét, a kapcsolt vállalkozási viszony alapjának megjelölését;
+b)[^12] az ellenőrzött ügyletben részes más kapcsolt vállalkozások elnevezését, székhelyét, belföldi illetve külföldi adószámát, ennek hiányában cégjegyzékszámát (nyilvántartási számát) és a cégjegyzéket (nyilvántartást) vezető bíróság (hatóság) megnevezését és székhelyét, a kapcsolt vállalkozási viszony alapjának megjelölését;
 
 c) az ellenőrzött ügylet alapján az adóévben teljesített, illetve járó fizetések összegét, legalább az ügyletben résztvevő felek szerinti bontásban;
 
@@ -90,15 +96,17 @@ l) annak részletes bemutatását, hogy az ellenőrzött ügyletek során a kiv�
 
 m) a szokásos piaci ár-megállapítási módszer alkalmazása során felhasznált pénzügyi információk összefoglalását;
 
-n) annak lényegre törő bemutatását, hogy a szokásos piaci ár-megállapítási módszer alkalmazása során felhasznált pénzügyi adatok hogyan köthetők az adózó beszámolójában foglalt adatokhoz; és
+n)[^13] annak lényegre törő bemutatását, hogy a szokásos piaci ár-megállapítási módszer alkalmazása során felhasznált pénzügyi adatok hogyan köthetők az adózó számviteli információs rendszeréhez, így különösen a beszámolójában foglalt adatokhoz, a főkönyvi számlákhoz, a költséghelyekhez, a költségviselőkhöz, a profitcentrumokhoz vagy a munkaszámokhoz, továbbá – adott esetben – a költségek több fél közötti felosztásának módját, a felosztási kulcsokat; és
 
 o) az ellenőrzött ügylet tárgyában folyamatban lévő vagy lezárt, a szokásos piaci ár megállapításával összefüggő bírósági, hatósági eljárással kapcsolatban a bíróság, a hatóság megnevezését, székhelyét (külföldi állam esetén annak megnevezését is), az ügy számát, az eljárás megkezdésének és lezárásának időpontját, a jóváhagyásra benyújtott, a hatóság által vitatott vagy a megállapított (jóváhagyott) szokásos piaci árat.
 
-(5) Az ellenőrzött ügyletek (4) bekezdés szerinti bemutatása az adózó választása szerint összevontan is teljesíthető, ha az összevonás az összehasonlíthatóságot nem veszélyezteti, és a szerződések
+(5)[^14] Az ellenőrzött ügyletek (4) bekezdés szerinti bemutatása az adózó választása szerint összevontan is teljesíthető, ha az összevonás az – írásban, szóban vagy ráutaló magatartással meghatározott szerződéses feltételek, a termékek, áruk vagy szolgáltatások jellemzői, a felek által ellátott funkciók, alkalmazott eszközök és vállalt kockázatok, a gazdasági körülmények és az üzleti stratégiák alapján megállapított – összehasonlíthatóságot nem veszélyezteti, és a szerződések
 
 a) tárgya azonos, továbbá teljesítésük minden lényeges feltétele előre rögzített és azonos, vagy a feltételek között az eltérések nem jelentősek, vagy
 
 b) egymással szorosan összefüggnek.
+
+(5a)[^15] Nem vonható össze a beszerzés a beszerzett anyagokból gyártott termékek értékesítésével, továbbá a ráfordításokat érintő ügylet az elsősorban bevételeket érintő ügylettel.
 
 (6) Az adózó az (5) bekezdés szerinti összevonást köteles a helyi dokumentumban megindokolni.
 
@@ -114,7 +122,16 @@ b) egymással szorosan összefüggnek.
 
 (12) Az adózó az adómegállapításhoz való jog elévülési idején belül, de legkésőbb az adó- és vámhatóság ellenőrzésének megkezdéséig módosíthatja nyilvántartását, ha feltárja, hogy a nyilvántartást nem a jogszabályoknak megfelelően készítette el, vagy a nyilvántartásban az adóalapot, az adót, a szokásos piaci árat, a szokásos piaci ár-tartományt (jövedelmezőséget) érintő hibát észlel. A módosító dokumentum tartalmazza a módosítással érintett nyilvántartás megnevezését, a módosítást és annak dátumát. A módosítást a nyilvántartás esedékességének eredeti időpontjában hatályos szabályok szerint kell elvégezni. Nincs helye módosításnak, ha az adózó az e rendeletben megengedett választási lehetőséggel jogszerűen élt, és ezt a módosítással változtatná meg.
 
-(13)[^3] A nyilvántartás, módosítás és az azt alátámasztó dokumentáció nem magyar nyelven is elkészíthető.
+(13)[^16] A nyilvántartás, módosítás és az azt alátámasztó dokumentáció nem magyar nyelven is elkészíthető.
 
-[^2]: A 4. § (4) bekezdés b) pontja az 52/2017. (XII. 29.) NGM rendelet 21. § 2. pontja szerint módosított szöveg.
-[^3]: A 4. § (13) bekezdése az 52/2017. (XII. 29.) NGM rendelet 21. § 3. pontja szerint módosított szöveg.
+[^6]: A 4. § (1) bekezdése a 27/2022. (XII. 28.) PM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: A 4. § (3) bekezdés nyitó szövegrésze a 27/2022. (XII. 28.) PM rendelet 6. § c) pontja szerint módosított szöveg.
+[^8]: A 4. § (3) bekezdés d) pontját a 27/2022. (XII. 28.) PM rendelet 7. §-a hatályon kívül helyezte.
+[^9]: A 4. § (3) bekezdés e) pontja a 27/2022. (XII. 28.) PM rendelet 6. § a) pontja szerint módosított szöveg.
+[^10]: A 4. § (3a) bekezdését a 27/2022. (XII. 28.) PM rendelet 1. § (3) bekezdése iktatta be.
+[^11]: A 4. § (4) bekezdés nyitó szövegrésze a 27/2022. (XII. 28.) PM rendelet 6. § d) pontja szerint módosított szöveg.
+[^12]: A 4. § (4) bekezdés b) pontja az 52/2017. (XII. 29.) NGM rendelet 21. § 2. pontja szerint módosított szöveg.
+[^13]: A 4. § (4) bekezdés n) pontja a 27/2022. (XII. 28.) PM rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^14]: A 4. § (5) bekezdése a 27/2022. (XII. 28.) PM rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^15]: A 4. § (5a) bekezdését a 27/2022. (XII. 28.) PM rendelet 1. § (6) bekezdése iktatta be.
+[^16]: A 4. § (13) bekezdése az 52/2017. (XII. 29.) NGM rendelet 21. § 3. pontja szerint módosított szöveg.
