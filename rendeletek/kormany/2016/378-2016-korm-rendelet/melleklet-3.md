@@ -214,14 +214,14 @@
 
 | 73. | Veszprém | 9837 |
 
-| 74. | Visegrád | 353 |
+| 74. |  |  |
 
-| 75. | Visegrád | 354 |
+| 75. |  |  |
 
-| 76. | Visegrád | 1503 |
+| 76. |  |  |
 
 | 77. | Zsira | 563/1 |
 
 | 78. | Zsira | 563/2 |
 
-[^37]: A 3. mellékletet a 250/2018. (XII. 17.) Korm. rendelet 3. §-a iktatta be.
+[^37]: A 3. mellékletet a 250/2018. (XII. 17.) Korm. rendelet 3. §-a iktatta be, szövege a 411/2021. (VII. 12.) Korm. rendelet 4. §-a szerint módosított szöveg.
