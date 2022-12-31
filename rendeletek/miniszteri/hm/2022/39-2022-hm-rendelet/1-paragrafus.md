@@ -1,3 +1,3 @@
-1. § Az egyes honvédelmi ösztöndíjakról szóló 16/2021. (VIII. 11.) HM rendelet 1. § c) pontja helyébe a következő rendelkezés lép.
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
