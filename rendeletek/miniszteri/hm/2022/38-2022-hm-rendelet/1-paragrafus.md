@@ -1,3 +1,3 @@
-1. § A honvédelmi ágazat katasztrófák elleni védekezésének irányításáról és feladatairól szóló 26/2021. (XII. 17.) HM rendelet (a továbbiakban: R.) 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) A HKR rendeltetése a honvédelmi ágazatot érintő katasztrófa, súlyos szerencsétlenség esetén a veszélyeztetett személyi állomány és vagyoni javak megóvása, mentése, a következmények hatásainak csökkentése, ágazaton belüli felszámolása, valamint a Kormány döntése, a védelmi és biztonsági igazgatás központi szerve, a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság (a továbbiakban: KKB) vagy a KKB Nemzeti Veszélyhelyzet-kezelési Központja (a továbbiakban: KKB NVK), valamint a védelmi és biztonsági igazgatási szervek felkérése alapján közreműködés a hazai és nemzetközi katasztrófavédelmi feladatok végrehajtásában.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

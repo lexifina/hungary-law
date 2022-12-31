@@ -1,5 +1,3 @@
-8. § Hatályát veszti az R.
+8. §[^9]
 
-a) 27. § (2) bekezdése,
-
-b) 34. §-a.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

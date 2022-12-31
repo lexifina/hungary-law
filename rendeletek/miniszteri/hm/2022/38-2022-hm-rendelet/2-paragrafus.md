@@ -1,3 +1,3 @@
-2. § Az R. 17. § (2) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(2) A KKB NVK-ba delegált ágazati szakértői feladatok ellátására a HM védelmi igazgatási feladatokért és válságkezelésért, valamint a HM katasztrófavédelmi tevékenységének koordinációjáért felelős önálló szervezeti egységéből kijelölt személy kerülhet vezénylésre.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
