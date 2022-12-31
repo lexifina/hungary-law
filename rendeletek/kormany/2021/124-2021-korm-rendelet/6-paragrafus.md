@@ -1,5 +1,3 @@
-## hulladékgazdálkodási igazgatási feladatokat.
-
 ## 4. A hulladékgazdálkodási hatóság feladatai
 
 6. § (1) A minisztériumi hulladékgazdálkodási hatóság az országos hulladékgazdálkodási hatóság bevonásával látja el a Ht. 78/B. § (2) bekezdés 3–5., 9–14., 16–18., 20–22. és 24. pontjában meghatározott feladatokat.

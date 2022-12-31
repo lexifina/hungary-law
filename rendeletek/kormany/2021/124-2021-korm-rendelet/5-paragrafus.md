@@ -5,3 +5,5 @@
 a) a területi hulladékgazdálkodási hatóság és az országos hulladékgazdálkodási hatóság felügyeletével, szakmai irányításával, a Ht.-ben meghatározott országos szintű hulladékgazdálkodási feladatok koordinációjával kapcsolatos,
 
 b) a környezetvédelmi termékdíjról szóló törvényben az állami hulladékgazdálkodást közvetítő szervezet számára meghatározott
+
+hulladékgazdálkodási igazgatási feladatokat.

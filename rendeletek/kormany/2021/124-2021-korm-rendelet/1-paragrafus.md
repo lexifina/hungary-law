@@ -6,7 +6,7 @@ a) a megyei kormányhivatalt (a továbbiakban: területi hulladékgazdálkodási
 
 b) a hulladékgazdálkodásért felelős miniszter (a továbbiakban: miniszter) által kijelölt szervezeti egységet (a továbbiakban: minisztériumi hulladékgazdálkodási hatóság)
 
-## jelöli ki.
+jelöli ki.
 
 (2) A területi hulladékgazdálkodási hatóság illetékessége a székhelye szerinti megyére terjed ki azzal az eltéréssel, hogy a Pest Megyei Kormányhivatal illetékessége Pest megyére és Budapest főváros területére terjed ki.
 

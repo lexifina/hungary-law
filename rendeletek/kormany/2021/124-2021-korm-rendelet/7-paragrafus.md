@@ -6,4 +6,6 @@
 
 (3) Az (1) és (2) bekezdés szerinti eljárásban hozott határozatot a megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal közölni kell.
 
-(4) Az országos hulladékgazdálkodási hatóság, illetve a területi hulladékgazdálkodási hatóság a hulladék mintázásához, illetve bevizsgálásához a környezetvédelmi és természetvédelmi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 71/2015. (III. 30.) Korm. rendelet 2. melléklete szerinti laboratóriumot bevonhatja.
+(4)[^3] Az országos hulladékgazdálkodási hatóság, illetve a területi hulladékgazdálkodási hatóság a hulladék mintázásához, illetve bevizsgálásához a környezetvédelmi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 624/2022. (XII. 30.) Korm. rendelet 7. melléklete szerinti laboratóriumot bevonhatja.
+
+[^3]: A 7. § (4) bekezdése a 624/2022. (XII. 30.) Korm. rendelet 21. § (3) bekezdése szerint módosított szöveg.
