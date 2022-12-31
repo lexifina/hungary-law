@@ -1,0 +1,1 @@
+3. § A kormányrendelettel hatáskörébe utalt ügyekben környezetvédelmi hatóságként járási illetékességgel a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási környezetvédelmi hatóság) jár el.

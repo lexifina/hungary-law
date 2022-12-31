@@ -1,0 +1,1 @@
+6. § Budapest Főváros Kormányhivatala jár el országos illetékességgel a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény (a továbbiakban: Kvt.) 66. § (1b) bekezdése szerinti esetben.
