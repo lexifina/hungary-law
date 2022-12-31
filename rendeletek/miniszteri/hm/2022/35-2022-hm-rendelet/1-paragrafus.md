@@ -1,1 +1,3 @@
-1. § A honvédelmi miniszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 9/2020. (VI. 10.) HM rendelet 1. §-ában az „a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 80. § 14. pontja” szövegrész helyébe az „a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 15. pontja” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
