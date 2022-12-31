@@ -1,0 +1,1 @@
+6. § Hatályát veszti a XLVII. Gazdaság-újraindítási Alap fejezetnek a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter irányítása alá tartozó központi kezelésű előirányzatai felhasználásáról szóló 9/2021. (VI. 28.) NVTNM rendelet.

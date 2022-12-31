@@ -1,0 +1,1 @@
+1. § E rendelet hatálya a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezetnek a gazdaságfejlesztési miniszter irányítása alatt álló központi kezelésű kiadási előirányzataira (a továbbiakban: előirányzatok) terjed ki.
