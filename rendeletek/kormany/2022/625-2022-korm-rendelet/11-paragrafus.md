@@ -1,0 +1,1 @@
+11. § Ha a természetes környezet megőrzésére szánt takarmánynövény-vetőmagkeverékek kereskedelmi célú begyűjtésére vonatkozó tevékenység engedélyezése több területi természetvédelmi hatóság illetékességi területéhez tartozik, az engedélyező hatóság az országos természetvédelmi hatóság.

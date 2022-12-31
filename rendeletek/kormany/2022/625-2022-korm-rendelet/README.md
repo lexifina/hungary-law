@@ -1,0 +1,9 @@
+# 625/2022. (XII. 30.) Korm. rendelet
+
+a természetvédelmi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-625-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2022-12-31 | 2022-625-20-22.1 | 625/2022. (XII. 30.) Korm. rendelet |

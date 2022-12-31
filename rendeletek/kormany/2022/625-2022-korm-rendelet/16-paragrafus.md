@@ -1,0 +1,1 @@
+16. § A területi természetvédelmi hatóság a 3. mellékletében meghatározott szakkérdéseket is vizsgálja, ha a 3. melléklet szerinti természetvédelemmel összefüggő eljárásokban a 3. mellékletben megjelölt feltételek fennállnak.
