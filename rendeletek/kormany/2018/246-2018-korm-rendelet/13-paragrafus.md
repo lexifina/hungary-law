@@ -14,7 +14,7 @@ e) – szükség esetén – a Törvény 6. § (6) bekezdése szerinti minősít
 
 f) a bejelentéssel összefüggő eljárás során alkalmazott jogszabályi rendelkezésekre való hivatkozást
 
-## tartalmazza.
+tartalmazza.
 
 (2) Ha a tiltó döntés meghozatalára a Törvény 9. § (2) bekezdés b) pontja alapján kerül sor, az egyszerűsített indokolás
 
@@ -22,7 +22,7 @@ a) a külföldi befektetői minőséget és a bejelentési kötelezettségnek a 
 
 b) az (1) bekezdés a)–f) pontjában meghatározott elemeket
 
-## tartalmazza.
+tartalmazza.
 
 (3) A tiltó döntéshez fűzött egyszerűsített indokolás minősített adatot nem tartalmazhat.
 

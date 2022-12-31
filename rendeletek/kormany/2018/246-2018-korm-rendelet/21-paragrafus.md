@@ -15,3 +15,5 @@ b) a bírságfizetésre kötelezettnek
 ba) az 1. melléklet hatálya alá tartozó tevékenységének mibenlétét, valamint
 
 bb) a Törvényben, illetve az e rendeletben meghatározott eljárások során vagy más hivatalos forrásból megismert vagyoni helyzetét
+
+kell figyelembe venni.

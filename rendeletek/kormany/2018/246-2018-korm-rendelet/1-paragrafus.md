@@ -6,4 +6,6 @@ a) a Magyarország biztonsági érdekét sértő külföldi befektetések ellen�
 
 b) a Törvény tekintetében az (EU) 2019/452 európai parlamenti és tanácsi rendeletben a tagállamok számára meghatározott jogosultságok gyakorlására, illetve kötelezettségek teljesítésére
 
+a polgári nemzetbiztonsági szolgálatok irányításáért felelős minisztert (a továbbiakban: miniszter) jelöli ki.
+
 [^1]: Az 1. § a 802/2021. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.

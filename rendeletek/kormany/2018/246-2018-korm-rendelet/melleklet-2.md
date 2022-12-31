@@ -1,15 +1,3 @@
-## A TÖRVÉNYBEN MEGHATÁROZOTT TEVÉKENYSÉGI KÖRÖKÖN BELÜL BEJELENTÉSI KÖTELEZETTSÉG ALÁ TARTOZÓ TEVÉKENYSÉGEK
-
-## 1. A fegyver- és lőszergyártás, valamint az engedélyköteles haditechnikai eszközök előállítása körében bejelentési kötelezettség alá tartozó tevékenységek
-
-## 1. A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvényben (a továbbiakban: Ftv.) meghatározott lőfegyvernek, lőfegyverdarabnak, a muzeális lőszer kivételével a lőszernek, valamint a flóberttölténynek az Ftv. 2. § 20. pontja szerinti gyártása.
-
-## 2. A haditechnikai tevékenység engedélyezésének és a vállalkozások tanúsításának részletes szabályairól szóló 156/2017. (VI. 16.) Korm. rendelet (a továbbiakban: Hkr.) 1. mellékletében meghatározott – az 1. pont, valamint a 3. alcím 1. pontjának hatálya alá nem tartozó – eszköznek a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény (a továbbiakban: Httv.) 1. § d) pontja szerinti gyártása, ide nem értve a Hkr. 1. melléklet XXV. Fejezet „1. Kényszerítő eszközök:” pontjában meghatározott eszközök gyártását.
-
-## 2. A kettős felhasználású termék előállítása körében bejelentési kötelezettség alá tartozó tevékenységek
-
-## 1. A kettős felhasználású termékek kivitelére, transzferjére, brókertevékenységére és tranzitjára vonatkozó közösségi ellenőrzési rendszer kialakításáról szóló, 2009. május 5-i 428/2009/EK tanácsi rendelet I. MELLÉKLETÉBEN meghatározott termék előállítása.
-
 ## 3. A haditechnikai tevékenység engedélyezésének és a vállalkozások tanúsításának részletes szabályairól szóló kormányrendeletben meghatározott titkosszolgálati eszközök előállítása körében bejelentési kötelezettség alá tartozó tevékenységek
 
 ## 1. A Hkr. 1. melléklet XXVI. FEJEZETÉBEN meghatározott eszköznek a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény 1. § d) pontja szerinti gyártása.
@@ -20,9 +8,9 @@
 
 ## 2. A Hpt. 3. § (2) bekezdés b) pontja szerinti fizetési rendszer működtetése, ide nem értve a kizárólag készpénz-helyettesítő fizetési eszközökkel végzett fizetési műveletek tekintetében történő működtetést.
 
-## 5.[^11] A villamos energiáról szóló törvény hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek
+## 5.[^12] A villamos energiáról szóló törvény hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek
 
-## Az ezen alcímben meghatározott tevékenység kizárólag abban az esetben tartozik bejelentés alá, ha azt a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény (a továbbiakban: Lrtv.) 1. § f) pontja szerinti létfontosságú rendszerelem közvetlen igénybevétele útján végzik.
+## Az ezen alcímben meghatározott tevékenység kizárólag abban az esetben tartozik bejelentés alá, ha azt a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény (a továbbiakban: Lrtv.) 1. § j) pontja szerinti létfontosságú rendszerelem közvetlen igénybevétele útján végzik.
 
 ## 1. A villamos energiának a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET) 3. § 1. pontja szerinti átvitele.
 
@@ -32,9 +20,9 @@
 
 ## 4. A villamos energiának a legalább 50 MW névleges teljesítőképességű erőműre vonatkozó működési engedéllyel rendelkező termelési engedélyes részéről történő, a VET 3. § 57. pontja szerinti termelése.
 
-## 6.[^12] A földgázellátásról szóló törvény hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek
+## 6.[^13] A földgázellátásról szóló törvény hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek
 
-## Az ezen alcímben meghatározott tevékenység kizárólag abban az esetben tartozik bejelentés alá, ha azt az Lrtv. 1. § f) pontja szerinti létfontosságú rendszerelem közvetlen igénybevétele útján végzik.
+## Az ezen alcímben meghatározott tevékenység kizárólag abban az esetben tartozik bejelentés alá, ha azt az Lrtv. 1. § j) pontja szerinti létfontosságú rendszerelem közvetlen igénybevétele útján végzik.
 
 ## 1. A földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET) 3. § 24. pontja szerinti földgázelosztás.
 
@@ -44,9 +32,9 @@
 
 ## 4. A GET 3. § 52. pontja szerinti rendszerirányítás.
 
-## 7.[^13] A víziközmű-szolgáltatásról szóló törvény hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek
+## 7.[^14] A víziközmű-szolgáltatásról szóló törvény hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek
 
-## Az ezen alcímben meghatározott tevékenység kizárólag abban az esetben tartozik bejelentés alá, ha azt az Lrtv. 1. § f) pontja szerinti létfontosságú rendszerelem közvetlen igénybevétele útján végzik.
+## Az ezen alcímben meghatározott tevékenység kizárólag abban az esetben tartozik bejelentés alá, ha azt az Lrtv. 1. § j) pontja szerinti létfontosságú rendszerelem közvetlen igénybevétele útján végzik.
 
 ## 1. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény (a továbbiakban: Vszktv.) 2. § 13. pontja szerinti kiszervezés.
 
@@ -54,17 +42,17 @@
 
 ## 8. Az elektronikus hírközlésről szóló törvény hatálya alá tartozó szolgáltatások körében bejelentési kötelezettség alá tartozó tevékenységek
 
-## 1. Olyan – az elektronikus hírközlésről szóló 2003. évi C. törvény 188. § 13. pontja szerinti – elektronikus hírközlési szolgáltatás nyújtása, amely szolgáltatás nyújtása érdekében üzemeltetett elektronikus hírközlő hálózatban az infokommunikációs technológiák ágazathoz kapcsolódó létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 249/2017. (IX. 5.) Korm. rendelet alapján kijelölt nemzeti létfontosságú rendszerelem vagy európai létfontosságú rendszerelem található.
+## 1.[^15] Olyan – az elektronikus hírközlésről szóló 2003. évi C. törvény 188. § 16. pontja szerinti – elektronikus hírközlési szolgáltatás nyújtása, amely szolgáltatás nyújtása érdekében üzemeltetett elektronikus hírközlő hálózatban az infokommunikációs technológiák ágazathoz kapcsolódó létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 249/2017. (IX. 5.) Korm. rendelet alapján kijelölt nemzeti létfontosságú rendszerelem vagy európai létfontosságú rendszerelem található.
 
 ## 9. Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény hatálya alá tartozó elektronikus információs rendszerek kialakítása, fejlesztése vagy működtetése körében bejelentési kötelezettség alá tartozó tevékenységek
 
 ## 1. Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) 1. § (1) bekezdés 14b. pontjában meghatározott elektronikus információs rendszer létrehozásában, üzemeltetésében, auditálásában, karbantartásában vagy javításában való, az Ibtv. 11. § (1) bekezdés k) pontja szerinti közreműködés.
 
-## 2. Az Ibtv. 1. § (1) bekezdés 9. pontjában meghatározott biztonsági esemény kivizsgálásában való, az Ibtv. 11. § (6) bekezdése szerinti részvétel.
+## 2.[^16] Az Ibtv. 1. § (1) bekezdés 9. pontjában meghatározott biztonsági esemény kivizsgálásában való részvétel.
 
 ## 3. Az Ibtv. 1. § (1) bekezdés 41. pontjában meghatározott sérülékenységvizsgálatnak az Ibtv. 18. § (3) bekezdése szerinti elvégzése.
 
-## 10.[^14] A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény szerinti biztosítási és viszontbiztosítási tevékenység, valamint a biztosítási tevékenységgel közvetlenül összefüggő tevékenységek körében bejelentési kötelezettség alá tartozó tevékenységek
+## 10.[^17] A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény szerinti biztosítási és viszontbiztosítási tevékenység, valamint a biztosítási tevékenységgel közvetlenül összefüggő tevékenységek körében bejelentési kötelezettség alá tartozó tevékenységek
 
 ## 1. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a továbbiakban: Bit.) szerinti biztosítási és viszontbiztosítási tevékenység.
 
@@ -84,7 +72,7 @@ A TÖRVÉNY 7. § (2) BEKEZDÉSÉVEL ÉRINTETT TEVÉKENYSÉGEK ENGEDÉLYEZÉSÉR
 
 4. A flóberttöltény Ftv. 3. § (1) bekezdés a) pontja szerinti gyártásának engedélyezésére irányuló eljárás.
 
-5. A Hkr. 1. mellékletében meghatározott – a 2. alcím 1. pontjának hatálya alá nem tartozó – eszköznek a haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény (a továbbiakban: Httv.) 1. § d) pontja szerinti gyártása, ide nem értve a Hkr. 1. melléklet XXV. Fejezet „1. Kényszerítő eszközök:” pontjában meghatározott eszközök gyártását.
+5.[^18] A Hkr. 1. mellékletében meghatározott – a 2. alcím 1. pontjának hatálya alá nem tartozó – eszköznek a Httv. 1. § d) pontja szerinti gyártása, ide nem értve a Hkr. 1. melléklet XXV. Fejezet „1. Kényszerítő eszközök:” pontjában meghatározott eszközök gyártását.
 
 2. A haditechnikai tevékenység engedélyezésének és a vállalkozások tanúsításának részletes szabályairól szóló kormányrendeletben meghatározott titkosszolgálati eszközök előállítása körében bejelentési kötelezettség alá tartozó tevékenységekkel összefüggésben
 
@@ -98,7 +86,10 @@ A TÖRVÉNY 7. § (2) BEKEZDÉSÉVEL ÉRINTETT TEVÉKENYSÉGEK ENGEDÉLYEZÉSÉR
 
 3. A kiszervezés előzetes engedélyezése.
 
-[^11]: Az 1. melléklet 5. alcím nyitó szövegrésze a 802/2021. (XII. 28.) Korm. rendelet 6. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^12]: Az 1. melléklet 6. alcím nyitó szövegrésze a 802/2021. (XII. 28.) Korm. rendelet 6. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^13]: Az 1. melléklet 7. alcím nyitó szövegrésze a 802/2021. (XII. 28.) Korm. rendelet 6. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^14]: Az 1. melléklet 10. alcímét a 648/2021. (XI. 30.) Korm. rendelet 6. §-a iktatta be.
+[^12]: Az 1. melléklet 5. alcím nyitó szövegrésze a 802/2021. (XII. 28.) Korm. rendelet 6. § (1) bekezdés d) pontja, a 610/2022. (XII. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet 6. alcím nyitó szövegrésze a 802/2021. (XII. 28.) Korm. rendelet 6. § (1) bekezdés e) pontja, a 610/2022. (XII. 28.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^14]: Az 1. melléklet 7. alcím nyitó szövegrésze a 802/2021. (XII. 28.) Korm. rendelet 6. § (1) bekezdés e) pontja, a 610/2022. (XII. 28.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^15]: Az 1. melléklet 8. alcím 1. pontja a 610/2022. (XII. 28.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^16]: Az 1. melléklet 9. alcím 2. pontja a 610/2022. (XII. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^17]: Az 1. melléklet 10. alcímét a 648/2021. (XI. 30.) Korm. rendelet 6. §-a iktatta be.
+[^18]: A 2. melléklet 1. alcím 5. pontja a 610/2022. (XII. 28.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
