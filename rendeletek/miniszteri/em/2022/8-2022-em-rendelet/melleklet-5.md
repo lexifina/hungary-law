@@ -1,3 +1,3 @@
-5. melléklet a 8/2022. (XII. 28.) EM rendelethez[^8]
+5. melléklet a 8/2022. (XII. 28.) EM rendelethez[^10]
 
-[^8]: Az 5. melléklet a 6. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^10]: Az 5. melléklet a 6. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

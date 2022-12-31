@@ -1,3 +1,3 @@
-7. melléklet a 8/2022. (XII. 28.) EM rendelethez[^10]
+7. melléklet a 8/2022. (XII. 28.) EM rendelethez[^12]
 
-[^10]: A 7. melléklet a 6. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^12]: A 7. melléklet a 6. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
