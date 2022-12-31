@@ -1,6 +1,0 @@
-## 39. §[^94] A területi természetvédelmi hatóság által folytatott természetvédelmi hatósági eljárás, szakhatósági közreműködés vagy szakkérdés vizsgálata során, ha a döntéshez vagy a tényállás tisztázásához olyan adat, illetve tény ismerete szükséges, amellyel állami alaptevékenysége köréhez kapcsolódóan a területi természetvédelmi hatóság illetékességi területén működő NPI vagy a Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaság rendelkezik, a területi természetvédelmi hatóság megkeresi az említett szervet.
-
-40. §[^95]
-
-[^94]: A 39. § a 379/2016. (XII. 2.) Korm. rendelet 293. § (14) bekezdésével megállapított szöveg.
-[^95]: A 40. §-t a 379/2016. (XII. 2.) Korm. rendelet 293. § (19) bekezdés i) pontja hatályon kívül helyezte.
