@@ -1,0 +1,1 @@
+1. § Az egyes gazdasági társaságoknak a védelmi és biztonsági tevékenységek összehangolásáról szóló törvény szerinti ellátási kötelezettségeiről szóló 407/2022. (X. 24.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
