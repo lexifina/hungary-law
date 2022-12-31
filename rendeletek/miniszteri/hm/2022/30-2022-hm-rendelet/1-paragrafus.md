@@ -1,1 +1,3 @@
-1. § Hatályát veszti a honvédelmi ágazatban foglalkoztatottak közalkalmazotti jogviszonyával összefüggő egyes kérdések rendezéséről szóló 27/2008. (XII. 31.) HM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
