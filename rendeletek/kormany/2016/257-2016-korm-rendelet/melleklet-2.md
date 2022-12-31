@@ -32,6 +32,6 @@
 
 | 13. | hagyatéki leltár rendszer | Kincstár | Kincstár | Kincstár | Kincstár |
 
-2. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^56]
+2. melléklet a 257/2016. (VIII. 31.) Korm. rendelethez[^57]
 
-[^56]: A 2. mellékletet a 717/2021. (XII. 20.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.
+[^57]: A 2. mellékletet a 717/2021. (XII. 20.) Korm. rendelet 19. § b) pontja hatályon kívül helyezte.

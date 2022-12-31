@@ -26,7 +26,10 @@ f) h) pontja szerinti szakrendszer esetében az igazságügyért felelős minisz
 
 (5)[^17] A 3. § (2) bekezdés g) pontja szerinti szakrendszer személyes adatot nem tartalmazó adattartalmát az önkormányzati ASP rendszerhez a 6. § (1) bekezdés a) pontja szerint csatlakozott önkormányzat jegyzője közvetlen adatkapcsolat útján továbbíthatja a kereskedelmi nyilvántartásokat tartalmazó országos nyilvántartás részére.
 
+(6)[^18] A kereskedelemről szóló 2005. évi CLXIV. törvény 6/H. §-a szerinti adatátadás a 3. § (2) bekezdés g) pontja szerinti szakrendszeren keresztül is teljesíthető. A statisztikai célra térítésmentesen leválogatott adatokat a Kincstár továbbítja a Központi Statisztikai Hivatal számára.
+
 [^14]: A 3/A. §-t a 235/2019. (X. 15.) Korm. rendelet 18. § (1) bekezdése iktatta be.
 [^15]: A 4. § (2) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^16]: A 4. § (3) bekezdése a 148/2018. (VIII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^17]: A 4. § (5) bekezdését a 445/2020. (X. 1.) Korm. rendelet 21. §-a iktatta be.
+[^18]: A 4. § (6) bekezdését a 662/2021. (XI. 30.) Korm. rendelet 1. §-a iktatta be.
