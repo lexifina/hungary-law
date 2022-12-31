@@ -582,9 +582,11 @@
 
 | 12. | Formaldehid | 50-00-0 | 1,5 mg/l (kioldódási határérték) polimer játékanyagokban 0,1 ml/m3 (kibocsátási határérték) gyantával összeragasztott fa játékanyagokban 30 mg/kg (tartalomra vonatkozó határérték) textil játékanyagokban 30 mg/kg (tartalomra vonatkozó határérték) bőr játékanyagokban 30 mg/kg (tartalomra vonatkozó határérték) papír játékanyagokban 10 mg/kg (tartalomra vonatkozó határérték) vízalapú játékanyagokban. |
 
+| 13. | Anilin | 62-53-3 | 30 mg/kg reduktív hasítást követően, textil és bőr játékanyagokban 10 mg/kg szabad anilinként ujjfestékekben 30 mg/kg reduktív hasítást követően ujjfestékekben |
+
 3. melléklet a 38/2011. (X. 5.) NGM rendelethez
 
-## EK–MEGFELELŐSÉGI NYILATKOZAT
+EK–MEGFELELŐSÉGI NYILATKOZAT
 
 1. a játék(ok) egyedi azonosítója;
 

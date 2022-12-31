@@ -1,5 +1,3 @@
-## 24. §[^16]
-
 ## 14. Az Európai Unió jogának való megfelelés
 
 25. §[^17] (1) Ez a rendelet a játékok biztonságáról szóló, 2009. június 18-i 2009/48/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
@@ -40,7 +38,8 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (18)[^32] Ez a rendelet a játékok biztonságáról szóló 2009/48/EK európai parlamenti és tanácsi irányelv II. mellékletének az allergén illatanyagok játékokban való jelenlétének tilalma tekintetében történő módosításáról szóló, 2020. december 11-i (EU) 2020/2089 bizottsági irányelvnek való megfelelést szolgálja.
 
-[^16]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(19)[^33] Ez a rendelet a 2009/48/EK európai parlamenti és tanácsi irányelvnek az egyes játékokban található anilinre vonatkozó egyedi határértékek tekintetében történő módosításáról szóló, 2021. június 3-i (EU) 2021/903 bizottsági irányelvnek való megfelelést szolgálja.
+
 [^17]: A 25. § a 26/2012. (VIII. 23.) NGM rendelet 2. §-ával megállapított szöveg.
 [^18]: A 25. § (4) bekezdését a 7/2016. (II. 22.) NGM rendelet 10. § (1) bekezdése iktatta be.
 [^19]: A 25. § (5) bekezdését a 7/2016. (II. 22.) NGM rendelet 10. § (1) bekezdése iktatta be.
@@ -57,3 +56,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^30]: A 25. § (16) bekezdését a 29/2021. (VI. 30.) ITM rendelet 1. § (2) bekezdése iktatta be.
 [^31]: A 25. § (17) bekezdését a 29/2021. (VI. 30.) ITM rendelet 1. § (3) bekezdése iktatta be.
 [^32]: A 25. § (18) bekezdését a 29/2021. (VI. 30.) ITM rendelet 1. § (4) bekezdése iktatta be.
+[^33]: A 25. § (19) bekezdését a 30/2022. (XII. 30.) GFM rendelet 1. §-a iktatta be.

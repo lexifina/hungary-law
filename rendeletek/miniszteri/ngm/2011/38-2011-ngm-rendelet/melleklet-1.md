@@ -1,8 +1,6 @@
-## 26. §[^33]
-
 1. melléklet a 38/2011. (X. 5.) NGM rendelethez
 
-## A rendelet szempontjából játéknak nem minősülő termékek
+A rendelet szempontjából játéknak nem minősülő termékek
 
 1. Ünnepségeken és rendezvényeken használatos dísztárgyak.
 
@@ -61,5 +59,3 @@
 23. Játék gőzgépek.
 
 24. Parittyák és csúzlik.
-
-[^33]: A 26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,6 +1,6 @@
 4. melléklet a 38/2011. (X. 5.) NGM rendelethez
 
-## MŰSZAKI DOKUMENTÁCIÓ
+MŰSZAKI DOKUMENTÁCIÓ
 
 ## A 16. §-ban meghatározott műszaki dokumentációnak, amennyiben az értékelés szempontjából releváns, különösen az alábbiakat kell tartalmaznia:
 

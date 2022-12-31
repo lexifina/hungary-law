@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-38-20-2
 | 2021-07-01 | 2011-38-20-2X.17 | 29/2021. (VI. 30.) ITM rendelet |
 | 2021-07-16 | 2011-38-20-2X.18 | 25/2020. (VII. 3.) ITM rendelet |
 | 2022-07-05 | 2011-38-20-2X.19 | 29/2021. (VI. 30.) ITM rendelet |
+| 2022-12-31 | 2011-38-20-2X.20 | 30/2022. (XII. 30.) GFM rendelet |

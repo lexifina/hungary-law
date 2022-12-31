@@ -1,5 +1,3 @@
-## 21. §
-
 ## 12. Átmeneti rendelkezések
 
 22. § (1) E rendelet hatálybalépése előtt a gyermekjátékszerek biztonsági követelményeiről, vizsgálatáról és tanúsításáról szóló 24/1998. (IV. 29.) IKIM–NM együttes rendelet alapján forgalomba hozott játékok továbbra is forgalmazhatók.

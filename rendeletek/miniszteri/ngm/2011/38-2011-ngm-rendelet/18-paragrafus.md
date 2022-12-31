@@ -1,3 +1,3 @@
-## 17. §[^9]
+18. §[^10]
 
-[^9]: A 17. §-t a 25/2019. (VIII. 26.) ITM rendelet 10. §-a hatályon kívül helyezte.
+[^10]: A 18. §-t a 25/2019. (VIII. 26.) ITM rendelet 10. §-a hatályon kívül helyezte.
