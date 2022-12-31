@@ -86,4 +86,6 @@ b) LXV. Bethlen Gábor Alap fejezet javára 423 000 000 forint;
 
 | Határidő: | a 2022–2025 évekről 2026. március 31., azt követően az adott hároméves ciklust követő évben március 31. |
 
-2. A Nemzeti Turizmusfejlesztési Stratégia 2030 felülvizsgálatáról szóló 1348/2021. (VI. 3.) Korm. határozatban a „Felelős: a miniszterelnök kabinetfőnöke” szövegrész helyébe a „Felelős: Miniszterelnöki Kabinetirodát vezető miniszter, – a vallási turizmussal kapcsolatos feladatok tekintetében – a miniszterelnök általános helyettese” szöveg lép.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
