@@ -1,3 +1,3 @@
-20. § A Rendelet 4/C. §-a a következő (6a) bekezdéssel egészül ki:
+20. §[^23]
 
-„(6a) A Beruházással érintett ingatlan vonatkozásában személygépjármű-tárolás épületen kívül is megengedett.”
+[^23]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,11 +1,11 @@
 14. § Az Fkr.
 
-a)[^7]
+a)[^14]
 
-b) 15/B. §-ában a „szerint a 14. § (5) bekezdésében, illetve a 23. § (1) bekezdésében megállapított ponthatár és 400 pont között arányosan kell megállapítani” szövegrész helyébe az „alapján kell megállapítani, amelyért legfeljebb 400 pont adható” szöveg,
+b)[^15]
 
-c) 62. § (2) bekezdésében az „és 34. §” szövegrész helyébe a „ , 23. § (1), (3), (4) bekezdését és 34. §” szöveg
+c)[^16]
 
-lép.
-
-[^7]: A 14. § a) pontja a 29. § (3) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
+[^14]: A 14. § a) pontja a 29. § (3) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
+[^15]: A 14. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 14. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

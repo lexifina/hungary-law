@@ -1,3 +1,3 @@
-21. §[^13]
+21. §[^24]
 
-[^13]: A 21. § a 29. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^24]: A 21. § a 29. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
