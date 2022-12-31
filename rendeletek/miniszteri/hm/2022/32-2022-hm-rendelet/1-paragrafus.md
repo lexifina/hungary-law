@@ -1,1 +1,3 @@
-1. § A Magyar Honvédség légvédelmi készenléti repüléseiről szóló 7/2009. (VI. 11.) HM rendelet 2. § a) pontjában az „a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvényben” szövegrész helyébe az „a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvényben” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
