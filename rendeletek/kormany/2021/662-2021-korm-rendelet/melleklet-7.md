@@ -1,3 +1,3 @@
-7. melléklet a 662/2021. (XI. 30.) Korm. rendelethez[^12]
+7. melléklet a 662/2021. (XI. 30.) Korm. rendelethez[^11]
 
-[^12]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
