@@ -1,5 +1,5 @@
-## 310.[^311]
+## 310.[^310]
 
 317. §
 
-[^311]: A 310. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^310]: A 310. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

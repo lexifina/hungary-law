@@ -1,5 +1,5 @@
-## 288.[^289]
+## 288.[^288]
 
 295. §
 
-[^289]: A 288. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^288]: A 288. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

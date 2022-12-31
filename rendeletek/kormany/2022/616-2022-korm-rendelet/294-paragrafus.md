@@ -1,5 +1,5 @@
-## 287.[^288]
+## 287.[^287]
 
 294. §
 
-[^288]: A 287. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^287]: A 287. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

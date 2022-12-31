@@ -1,5 +1,5 @@
-## 316.[^317]
+## 316.[^316]
 
 323. §
 
-[^317]: A 316. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^316]: A 316. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

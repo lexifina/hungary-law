@@ -1,5 +1,5 @@
-## 238.[^239]
+## 238.[^238]
 
 244. §
 
-[^239]: A 238. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^238]: A 238. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

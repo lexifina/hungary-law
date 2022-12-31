@@ -1,5 +1,5 @@
-## 300.[^301]
+## 300.[^300]
 
 307. §
 
-[^301]: A 300. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^300]: A 300. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

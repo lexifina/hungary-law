@@ -1,1 +1,3 @@
-204. § Hatályát veszti a 400 m2-nél nagyobb bruttó alapterületű kereskedelmi építményekre vonatkozó előzetes szakhatósági állásfoglalás kiadása iránti kérelem tartalmi követelményeinek, az eljárásban közreműködő Bizottság működésének egyes szabályairól szóló 5/2015. (I. 29.) Korm. rendelet 4. § (2) bekezdésében az „elnöke az építésügyért felelős miniszter által kijelölt személy” szövegrész.
+204. §[^199]
+
+[^199]: A 204. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

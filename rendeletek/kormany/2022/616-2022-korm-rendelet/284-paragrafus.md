@@ -1,5 +1,5 @@
-## 278.[^279]
+## 278.[^278]
 
 284. §
 
-[^279]: A 278. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^278]: A 278. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

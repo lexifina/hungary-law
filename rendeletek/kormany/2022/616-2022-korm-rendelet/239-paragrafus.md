@@ -1,5 +1,5 @@
-## 234.[^235]
+## 234.[^234]
 
 239. §
 
-[^235]: A 234. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^234]: A 234. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

@@ -1,5 +1,5 @@
-## 285.[^286]
+## 285.[^285]
 
 292. §
 
-[^286]: A 285. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^285]: A 285. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

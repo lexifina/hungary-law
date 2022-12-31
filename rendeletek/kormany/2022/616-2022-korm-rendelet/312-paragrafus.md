@@ -1,5 +1,5 @@
-## 305.[^306]
+## 305.[^305]
 
 312. §
 
-[^306]: A 305. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^305]: A 305. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.

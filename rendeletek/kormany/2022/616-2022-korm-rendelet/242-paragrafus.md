@@ -1,5 +1,5 @@
-## 237.[^238]
+## 237.[^237]
 
 242. §
 
-[^238]: A 237. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^237]: A 237. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
