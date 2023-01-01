@@ -12,7 +12,7 @@ ba) az azt észlelő orvost és a bejelentő orvost,
 
 bb) a központi pénzügyi szervezetet, illetve
 
-bc)[^2] a társadalombiztosítási kifizetőhelyet, ennek hiányában az egészségbiztosítási pénztári feladatkörben eljáró fővárosi és megyei kormányhivatalt.
+bc)[^2] a társadalombiztosítási kifizetőhelyet, ennek hiányában az egészségbiztosítási pénztári feladatkörben eljáró fővárosi és vármegyei kormányhivatalt.
 
 [^1]: A 6. § (1) bekezdése a 410/2022. (X. 24.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^2]: A 6. § (3) bekezdés b) pont bc) alpontja a 360/2019. (XII. 30.) Korm. rendelet 189. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^2]: A 6. § (3) bekezdés b) pont bc) alpontja a 360/2019. (XII. 30.) Korm. rendelet 189. §-a, a 410/2022. (X. 24.) Korm. rendelet 11. §-a szerint módosított szöveg.
