@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-49-20-2
 | 2014-09-05 | 2007-49-20-22.15 | 27/2013. (II. 7.) Korm. rendelet |
 | 2014-12-16 | 2007-49-20-22.16 | 326/2014. (XII. 15.) Korm. rendelet |
 | 2018-07-19 | 2007-49-20-22.17 | 27/2013. (II. 7.) Korm. rendelet |
+| 2023-01-01 | 2007-49-20-22.18 | 615/2022. (XII. 29.) Korm. rendelet |

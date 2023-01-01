@@ -8,7 +8,7 @@ b)[^6] az 1080/2006/EK rendelet 16. cikkében foglalt feladat ellátásával meg
 
 c)[^7] közös igazoló hatóság: Magyar Államkincstár;
 
-d)[^8] közös ellenőrzési hatóság: a az Európai Támogatásokat Auditáló Főigazgatóság;
+d)[^8]
 
 e)[^9] nemzeti hatóság: a külgazdasági ügyekért felelős miniszter.
 
@@ -18,7 +18,7 @@ a)[^11] a közös irányító hatóság: a külgazdasági ügyekért felelős mi
 
 b)[^12] a közös igazoló hatóság: Magyar Államkincstár;
 
-c)[^13] a közös ellenőrzési hatóság: az Európai Támogatásokat Auditáló Főigazgatóság;
+c)[^13]
 
 d)[^14] az előcsatlakozási támogatási eszköz (IPA) létrehozásáról szóló 1085/2006/EK tanácsi rendelet végrehajtásáról szóló, 2007. június 12-i 718/2007/EK bizottsági rendelet 108. cikkében foglalt feladatellátásával megbízott szerv: Széchenyi Programiroda;
 
@@ -36,7 +36,7 @@ c)[^19] nemzeti hatóság: a külgazdasági ügyekért felelős miniszter.
 
 a)[^21] a nemzeti hatóság: a külgazdasági ügyekért felelős miniszter;
 
-b)[^22] az ellenőri csoport magyar tagja: az Európai Támogatásokat Auditáló Főigazgatóság;
+b)[^22]
 
 c)[^23] az 1080/2006/EK rendelet 16. cikkében foglalt feladat ellátásával megbízott szerv: Széchenyi Programiroda.
 
@@ -54,27 +54,27 @@ b)[^28] a nemzeti kapcsolattartó pont: a területfejlesztés stratégiai tervez
 
 c)[^29] az 1080/2006/EK rendelet 16. cikkében foglalt feladat ellátásával megbízott szerv: a Széchenyi Programiroda;
 
-d) az ellenőri csoport magyar tagja: az Európai Támogatásokat Auditáló Főigazgatóság.
+d)[^30]
 
-(7)[^30] Az 1. § (3) bekezdés m) pontjában meghatározott program vonatkozásában
+(7)[^31] Az 1. § (3) bekezdés m) pontjában meghatározott program vonatkozásában
 
 a) az ex-ante hozzájárulás biztosítója: a településfejlesztésért és településrendezésért felelős miniszter;
 
-b)[^31] a nemzeti kapcsolattartó pont: a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság;
+b)[^32] a nemzeti kapcsolattartó pont: a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság;
 
-c)[^32] az 1080/2006/EK rendelet 16. cikkében foglalt feladat ellátásával megbízott szerv: a Széchenyi Programiroda;
+c)[^33] az 1080/2006/EK rendelet 16. cikkében foglalt feladat ellátásával megbízott szerv: a Széchenyi Programiroda;
 
-d) az ellenőri csoport magyar tagja: az Európai Támogatásokat Auditáló Főigazgatóság.
+d)[^34]
 
 [^5]: A 3. § (1) bekezdés a) pontja a 27/2013. (II. 7.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 127/2018. (VII. 18.) Korm. rendelet 2. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdés b) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^7]: A 3. § (1) bekezdés c) pontja a 113/2011. (VII. 7.) Korm. rendelet 38. §-a szerint módosított szöveg.
-[^8]: A 3. § (1) bekezdés d) pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (5) bekezdése szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdés d) pontját a 615/2022. (XII. 29.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
 [^9]: A 3. § (1) bekezdés e) pontját az 550/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése iktatta be, szövege a 27/2013. (II. 7.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 127/2018. (VII. 18.) Korm. rendelet 2. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^10]: A 3. § (2) bekezdése a 35/2008. (II. 23.) Korm. rendelet 51. § (4) bekezdésével megállapított szöveg.
 [^11]: A 3. § (2) bekezdés a) pontja a 27/2013. (II. 7.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 127/2018. (VII. 18.) Korm. rendelet 2. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^12]: A 3. § (2) bekezdés b) pontja a 113/2011. (VII. 7.) Korm. rendelet 38. §-a szerint módosított szöveg.
-[^13]: A 3. § (2) bekezdés c) pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (5) bekezdése szerint módosított szöveg.
+[^13]: A 3. § (2) bekezdés c) pontját a 615/2022. (XII. 29.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
 [^14]: A 3. § (2) bekezdés d) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^15]: A 3. § (2) bekezdés e) pontját az 550/2013. (XII. 30.) Korm. rendelet 28. § (2) bekezdése iktatta be, szövege a 27/2013. (II. 7.) Korm. rendelet 5. § (4) bekezdésével megállapított, a 127/2018. (VII. 18.) Korm. rendelet 2. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^16]: A 3. § új (3) bekezdését a 35/2008. (II. 23.) Korm. rendelet 51. § (5) bekezdése iktatta be, egyidejűleg az eredeti (3)–(5) bekezdés számozását (4)–(6) bekezdésre változtatva.
@@ -83,7 +83,7 @@ d) az ellenőri csoport magyar tagja: az Európai Támogatásokat Auditáló Fő
 [^19]: A 3. § (3) bekezdés c) pontját az 550/2013. (XII. 30.) Korm. rendelet 28. § (3) bekezdése iktatta be, szövege a 27/2013. (II. 7.) Korm. rendelet 5. § (6) bekezdésével megállapított, a 127/2018. (VII. 18.) Korm. rendelet 2. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^20]: A 3. § eredeti (3) bekezdésének számozását a 35/2008. (II. 23.) Korm. rendelet 51. § (5) bekezdése (4) bekezdésre változtatta.
 [^21]: A 3. § (4) bekezdés a) pontja a 27/2013. (II. 7.) Korm. rendelet 5. § (7) bekezdésével megállapított, a 127/2018. (VII. 18.) Korm. rendelet 2. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^22]: A 3. § (4) bekezdésének b) pontja a 35/2008. (II. 23.) Korm. rendelet 51. § (6) bekezdésével megállapított, a 210/2010. (VI. 30.) Korm. rendelet 15. § (5) bekezdése szerint módosított szöveg.
+[^22]: A 3. § (4) bekezdés b) pontját a 615/2022. (XII. 29.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
 [^23]: A 3. § (4) bekezdés c) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
 [^24]: A 3. § eredeti (4) bekezdésének számozását a 35/2008. (II. 23.) Korm. rendelet 51. § (5) bekezdése (5) bekezdésre változtatta.
 [^25]: A 3. § (5) bekezdés a) pontja az 550/2013. (XII. 30.) Korm. rendelet 29. § b) pontja, a 127/2018. (VII. 18.) Korm. rendelet 2. § (1) bekezdés e) pontja szerint módosított szöveg.
@@ -91,6 +91,8 @@ d) az ellenőri csoport magyar tagja: az Európai Támogatásokat Auditáló Fő
 [^27]: A 3. § (6) bekezdése a 154/2012. (VII. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^28]: A 3. § (6) bekezdés b) pontja a 326/2014. (XII. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^29]: A 3. § (6) bekezdés c) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
-[^30]: A 3. § (7) bekezdését a 154/2012. (VII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^31]: A 3. § (7) bekezdés b) pontja a 107/2013. (IV. 5.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg.
-[^32]: A 3. § (7) bekezdés c) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
+[^30]: A 3. § (6) bekezdés d) pontját a 615/2022. (XII. 29.) Korm. rendelet 6. § d) pontja hatályon kívül helyezte.
+[^31]: A 3. § (7) bekezdését a 154/2012. (VII. 12.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^32]: A 3. § (7) bekezdés b) pontja a 107/2013. (IV. 5.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^33]: A 3. § (7) bekezdés c) pontja a 161/2014. (VI. 30.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
+[^34]: A 3. § (7) bekezdés d) pontját a 615/2022. (XII. 29.) Korm. rendelet 6. § e) pontja hatályon kívül helyezte.
