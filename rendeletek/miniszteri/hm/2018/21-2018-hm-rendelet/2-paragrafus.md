@@ -22,6 +22,7 @@
 
 2. § (1) A honvédelmi alkalmazotti jogviszony tekintetében az egészségügyi, a közoktatási, a kutatási, a kulturális, a közművelődési és a közgyűjteményi ágazati jogszabályok eltérő rendelkezéseket is megállapíthatnak.
 
-(2) A honvédelmi alkalmazotti jogviszony tekintetében a honvédelmi ágazatban foglalkoztatottak közalkalmazotti jogviszonyával összefüggő egyes kérdések rendezéséről szóló 27/2008. (XII. 31.) HM rendelet nem alkalmazható.
+(2)[^2]
 
 [^1]: Az 1. § az 5/2021. (I. 18.) HM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (2) bekezdését a 28/2022. (XII. 28.) HM rendelet 2. §-a hatályon kívül helyezte.

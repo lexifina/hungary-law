@@ -1,1 +1,0 @@
-## 9. § A gyakornoki idővel kapcsolatban a munkáltató alaptevékenysége ellátásával összefüggő munkakörnek a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) és (2) bekezdésében meghatározott feladatok ellátásához közvetlenül kapcsolódó munkakörök minősülnek.

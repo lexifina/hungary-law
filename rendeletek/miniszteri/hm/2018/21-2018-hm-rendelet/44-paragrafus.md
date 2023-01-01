@@ -1,3 +1,3 @@
-## 43/A. §[^54] A Haj.tv. 99/A. § (1) bekezdésében érintett honvédelmi alkalmazottnak a honvédelmi továbbképzési kötelezettségét első alkalommal 2021. évben kell teljesítenie.
+## 43/A. §[^56] A Haj.tv. 99/A. § (1) bekezdésében érintett honvédelmi alkalmazottnak a honvédelmi továbbképzési kötelezettségét első alkalommal 2021. évben kell teljesítenie.
 
-[^54]: A 43/A. §-t a 13/2020. (X. 14.) HM rendelet 56. §-a iktatta be.
+[^56]: A 43/A. §-t a 13/2020. (X. 14.) HM rendelet 56. §-a iktatta be.

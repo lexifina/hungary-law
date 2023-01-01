@@ -1,4 +1,4 @@
-8. §[^10] (1) Nem kell próbaidőt megállapítani akkor, ha a honvédelmi alkalmazott a kinevezését megelőző egy évben
+8. §[^11] (1) Nem kell próbaidőt megállapítani akkor, ha a honvédelmi alkalmazott a kinevezését megelőző egy évben
 
 a) honvédelmi szervezetnél,
 
@@ -8,7 +8,7 @@ c) az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2) bekezdés c
 
 állt folyamatosan munkaviszonyban, feltéve, hogy a honvédelmi alkalmazott ez idő alatt rendelkezett a honvédelmi alkalmazotti jogviszonyában betöltendő munkaköréhez szükséges iskolai végzettséggel vagy képesítéssel.
 
-(2)[^11]
+(2)[^12]
 
-[^10]: A 8. § az 5/2021. (I. 18.) HM rendelet 4. §-ával megállapított szöveg.
-[^11]: A 8. § (2) bekezdését a 8/2021. (II. 27.) HM rendelet 8. §-a hatályon kívül helyezte.
+[^11]: A 8. § az 5/2021. (I. 18.) HM rendelet 4. §-ával megállapított szöveg.
+[^12]: A 8. § (2) bekezdését a 8/2021. (II. 27.) HM rendelet 8. §-a hatályon kívül helyezte.

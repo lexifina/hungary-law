@@ -1,4 +1,4 @@
-1. melléklet a 21/2018. (XII. 28.) HM rendelethez[^66]
+1. melléklet a 21/2018. (XII. 28.) HM rendelethez[^68]
 
 1. A honvédelmi alkalmazotti munkakörök, a vezetői megbízással ellátható magasabb vezetői és vezetői beosztások megnevezése, fizetési osztályokba sorolása és a vezetői pótlék mértéke, a kulturális szakmai és kulturális működéstámogató munkakörök, valamint az MH EK-nál rendszeresíthető munkakörök kivételével
 
@@ -264,7 +264,7 @@
 
 | 2. | Nemzeti könyvtár, felsőoktatási könyvtár, országos szakkönyvtár | mesterfokozatú végzettség és szakirányú szakképzettség vagy jogász vagy közgazdász szakképzettség | tárgyalásszintű idegennyelv-ismeret | végzettségének, szakképzettségének vagy az intézmény alaptevékenységének megfelelő jogviszonyban legalább ötéves szakmai gyakorlatot szerzett, valamint a megbízás időpontjában vezetői gyakorlattal is rendelkeznie kell | végzettségének és szakképzettségének vagy az intézmény alaptevékenységének megfelelő, kiemelkedő szakmai vagy szakirányú tudományos tevékenységet végez, amelynek igazolása történhet kutatási, publikációs vagy oktatási munkák bemutatásával, továbbá projektben való részvétel igazolásával |
 
-| 3. | Megyei hatókörű városi könyvtár és szakkönyvtár | szakirányú felsőfokú végzettség és szakképzettség, vagy nem szakirányú felsőfokú végzettség és szakképzettség és segédkönyvtáros szakképzettség | tárgyalásszintű idegennyelv-ismeret | végzettségének, szakképzettségének vagy az intézmény alaptevékenységének megfelelő jogviszonyban legalább ötéves szakmai gyakorlatot szerzett, valamint a megbízás időpontjában vezetői gyakorlattal is rendelkeznie kell | végzettségének és szakképzettségének vagy az intézmény alaptevékenységének megfelelő, kiemelkedő szakmai vagy szakirányú tudományos tevékenységet végez, amelynek igazolása történhet kutatási, publikációs vagy oktatási munkák bemutatásával, továbbá projektben való részvétel igazolásával |
+| 3. | Vármegyei hatókörű városi könyvtár és szakkönyvtár | szakirányú felsőfokú végzettség és szakképzettség, vagy nem szakirányú felsőfokú végzettség és szakképzettség és segédkönyvtáros szakképzettség | tárgyalásszintű idegennyelv-ismeret | végzettségének, szakképzettségének vagy az intézmény alaptevékenységének megfelelő jogviszonyban legalább ötéves szakmai gyakorlatot szerzett, valamint a megbízás időpontjában vezetői gyakorlattal is rendelkeznie kell | végzettségének és szakképzettségének vagy az intézmény alaptevékenységének megfelelő, kiemelkedő szakmai vagy szakirányú tudományos tevékenységet végez, amelynek igazolása történhet kutatási, publikációs vagy oktatási munkák bemutatásával, továbbá projektben való részvétel igazolásával |
 
 | 4. | Városi könyvtár | szakirányú felsőfokú végzettség és szakképzettség, vagy nem szakirányú felsőfokú végzettség és szakképzettség és segédkönyvtáros szakképzettség | tárgyalásszintű idegennyelv-ismeret | végzettségének, szakképzettségének vagy az intézmény alaptevékenységének megfelelő jogviszonyban legalább ötéves szakmai gyakorlatot szerzett | – |
 
@@ -494,4 +494,4 @@
 
 | 16. | Közművelődési tevékenység | tudományos kutató |
 
-[^66]: Az 1. melléklet az 5/2021. (I. 18.) HM rendelet 14. § (1) bekezdésével megállapított, a 8/2021. (II. 27.) HM rendelet 6. § (1) bekezdése szerint módosított szöveg.
+[^68]: Az 1. melléklet az 5/2021. (I. 18.) HM rendelet 14. § (1) bekezdésével megállapított, a 8/2021. (II. 27.) HM rendelet 6. § (1) bekezdése, a 28/2022. (XII. 28.) HM rendelet 1. § b) pontja szerint módosított szöveg.
