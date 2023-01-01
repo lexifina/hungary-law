@@ -1,4 +1,4 @@
-2. melléklet a 28/2007. (V. 31.) IRM rendelethez[^25]
+2. melléklet a 28/2007. (V. 31.) IRM rendelethez[^26]
 
 Az egyes eljárások díja
 
@@ -156,12 +156,12 @@ V. A szabad mozgás és tartózkodás jogával rendelkező személyek részére
 
 VI. Egyéb igazgatási szolgáltatási díjak
 
-| 1. Meghívólevél hatósági záradékkal történő ellátására irányuló eljárás díja | 16 000 Ft |
+| 1. | Ft |
 
-| 2. Az idegenrendészeti hatóság elektronikus információs rendszerén keresztül igényelt meghívólevél hatósági záradékkal történő ellátására irányuló eljárás díja | 9 000 Ft |
+| 2. | Ft |
 
 | 3. Fellebbezési kérelem díja | 47 000 Ft |
 
 | 4. Hatósági bizonyítvány kiállításának díja | 3 000 Ft” |
 
-[^25]: A 2. melléklet az 1/2011. (II. 18.) BM rendelet 3. §-ával megállapított, a 27/2011. (VIII. 24.) BM rendelet 6. §-a, a 23/2016. (VI. 29.) BM rendelet 14. § (1)–(2) bekezdése, a 38/2017. (XII. 27.) BM rendelet 13. §-a, a 35/2018. (XII. 21.) BM rendelet 9. §-a, a 23/2021. (VII. 29.) BM rendelet 13. §-a, a 49/2021. (XII. 22.) BM rendelet 3. §-a szerint módosított szöveg.
+[^26]: A 2. melléklet az 1/2011. (II. 18.) BM rendelet 3. §-ával megállapított, a 27/2011. (VIII. 24.) BM rendelet 6. §-a, a 23/2016. (VI. 29.) BM rendelet 14. § (1)–(2) bekezdése, a 38/2017. (XII. 27.) BM rendelet 13. §-a, a 35/2018. (XII. 21.) BM rendelet 9. §-a, a 23/2021. (VII. 29.) BM rendelet 13. §-a, a 49/2021. (XII. 22.) BM rendelet 3. §-a, a 61/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
