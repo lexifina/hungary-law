@@ -12,4 +12,4 @@ dr. Nagy Ádámot az Innovációs és Technológiai Minisztérium helyettes áll
 
 kinevezem.
 
-[^1]: A 47/2022. (VI. 11.) ME határozat alapján dr. Nagy Ádám tekintetében akként módosul, hogy az „Innovációs és Technológiai Minisztérium” megnevezés helyett a „Technológiai és Ipari Minisztérium” megnevezést kell érteni. A 105/2022. (XII. 13.) ME határozat alapján dr. Nagy Ádám tekintetében akként módosul, hogy a „Technológiai és Ipari Minisztérium” megnevezés helyett a „Miniszterelnöki Kabinetiroda” megnevezést kell érteni.
+[^1]: A 47/2022. (VI. 11.) ME határozat alapján dr. Nagy Ádám tekintetében akként módosul, hogy az „Innovációs és Technológiai Minisztérium” megnevezés helyett a „Technológiai és Ipari Minisztérium” megnevezést kell érteni. A 105/2022. (XII. 13.) ME határozat alapján dr. Nagy Ádám tekintetében akként módosul, hogy a „Technológiai és Ipari Minisztérium” megnevezés helyett a „Miniszterelnöki Kabinetiroda” megnevezést kell érteni. A 119/2022. (XII. 23.) ME határozat alapján dr. Nagy Ádám tekintetében akként módosul, hogy a „Miniszterelnöki Kabinetiroda” megnevezés helyett a „Gazdaságfejlesztési Minisztérium” megnevezést kell érteni.
