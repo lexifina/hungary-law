@@ -6,7 +6,7 @@
 
 (2) A Honvédség főparancsnokának lobogója a köztársasági elnök által használt címert a csapatzászló elemeivel ötvözi.
 
-(3) A csapatzászlóra elismerésként ünnepélyes alkalmakkor a honvédelemért felelős miniszter vagy a Magyar Honvédség parancsnoka zászlószalagot köthet.
+(3) A csapatzászlóra elismerésként ünnepélyes alkalmakkor a honvédelemért felelős miniszter vagy a Honvéd Vezérkar főnöke zászlószalagot köthet.
 
 (4) A Honvédség hadihajói az állami felségjog jelzésére hadilobogót használnak. A hadihajók árbocjelvénye az árbocszalag, a rangidős parancsnoki lengő és a miniszteri lengő.
 

@@ -8,7 +8,7 @@ b) az a) pont szerinti feladatokkal összefüggésben a folyamatban lévő, kibe
 
 c) a Magyarország biztonságát, honvédelmi érdekeit, illetve szövetségesi kötelezettségeit sértő vagy fenyegető rendszerekkel szembeni katonai kibertér műveleti fellépést.
 
-(2) Az (1) bekezdés a) pontja szerinti katonai feladatok ellátásának védelme kapcsán felmerülő részfeladatokat a Magyar Honvédség parancsnoka határozza meg.
+(2) Az (1) bekezdés a) pontja szerinti katonai feladatok ellátásának védelme kapcsán felmerülő részfeladatokat a Honvéd Vezérkar főnöke határozza meg.
 
 (3) Az (1) bekezdés b) és c) pontja szerinti feladatok szakmai koordinációjáért – a kapcsolódó közjogi döntések keretei között – az ügyeletes kibervédelmi parancsnok felel.
 
@@ -18,9 +18,9 @@ a) az intézkedések végrehajtását a (3) bekezdés szerinti parancsnok, vagy 
 
 b) az alkalmazott intézkedésnek a folyamatban lévő támadással arányosnak kell lennie és az a támadás megszakításán túli eredményre, sérelemre nem vezethet,
 
-c) a szükséges intézkedések végrehajtásáról azonnal tájékoztatni kell a honvédelemért felelős minisztert, a Magyar Honvédség parancsnokát, valamint a KNBSZ kibertér műveleti szakfeladatokra kijelölt szervezeti egységét,
+c) a szükséges intézkedések végrehajtásáról azonnal tájékoztatni kell a honvédelemért felelős minisztert, a Honvéd Vezérkar főnökét, valamint a KNBSZ kibertér műveleti szakfeladatokra kijelölt szervezeti egységét,
 
-d) a támadás megszakítását követően meg kell vizsgálni a védelem fokozásához szükséges további intézkedések körét, illetve az ország védelmével összefüggő további döntések szükségességét a Magyar Honvédség parancsnokának történő egyidejű jelentéssel.
+d) a támadás megszakítását követően meg kell vizsgálni a védelem fokozásához szükséges további intézkedések körét, illetve az ország védelmével összefüggő további döntések szükségességét a Honvéd Vezérkar főnökének történő egyidejű jelentéssel.
 
 (5) A (4) bekezdés c) pontja szerinti értesítés esetén a KNBSZ kibertér műveleti szakfeladatokra kijelölt szervezeti egysége azonnal értesíti Magyarország jogszabályban kijelölt kibervédelmi szervezeteit.
 

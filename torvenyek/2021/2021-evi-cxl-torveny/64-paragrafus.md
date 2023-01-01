@@ -1,8 +1,8 @@
 ## 35. A honvédségi szervezet vezetése
 
-64. § (1) A Magyar Honvédség parancsnoka szolgálati elöljárója, hivatali felettese a Honvédségnél szolgálatot teljesítő, illetve foglalkoztatott személyi állománynak.
+64. § (1) A Honvéd Vezérkar főnöke szolgálati elöljárója, hivatali felettese a Honvédségnél szolgálatot teljesítő, illetve foglalkoztatott személyi állománynak.
 
-(2) A Magyar Honvédség parancsnoka vezetési jogkörében
+(2) A Honvéd Vezérkar főnöke vezetési jogkörében
 
 a) kidolgozza az ország fegyveres védelmi tervét és előterjeszti a honvédelmért felelős miniszternek,
 
@@ -26,4 +26,4 @@ j) gyakorolja a jogszabályokban, közjogi szervezetszabályozó eszközökben s
 
 (3) A (2) bekezdésben foglalt jogosítványok gyakorlása nem érintheti a honvédelemért felelős miniszter irányítói jogkörében foglaltakat.
 
-(4) A Magyar Honvédség parancsnoka a honvédségi szervezetek költségvetési gazdálkodását az államháztartásról szóló törvény rendelkezései szerint irányítja.
+(4) A Honvéd Vezérkar főnöke a honvédségi szervezetek költségvetési gazdálkodását az államháztartásról szóló törvény rendelkezései szerint irányítja.

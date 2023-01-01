@@ -1,4 +1,4 @@
-100. § (1) Akinek a honvéd e fejezet szerinti kényszerítő eszköz alkalmazása alapvető jogát sértette, illetve jogát vagy jogos érdekét érintette, az állományilletékes parancsnok útján panasszal fordulhat a Magyar Honvédség parancsnokához.
+100. § (1) Akinek a honvéd e fejezet szerinti kényszerítő eszköz alkalmazása alapvető jogát sértette, illetve jogát vagy jogos érdekét érintette, az állományilletékes parancsnok útján panasszal fordulhat a Honvéd Vezérkar főnökéhez.
 
 (2) Az (1) bekezdés szerinti panasz elbírálása során a 87. §-ban foglaltak szerint kell eljárni.
 

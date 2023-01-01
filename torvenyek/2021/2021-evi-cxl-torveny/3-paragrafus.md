@@ -30,7 +30,7 @@
 
 14. honvédelmi szervezet: a honvédelemért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó szervezetek, a honvédségi szervezet, valamint az e törvényben meghatározott feladatai tekintetében a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ),
 
-15. honvédségi szervezet: a Magyar Honvédség Parancsnoksága, valamint az alárendeltségébe tartozó katonai szervezetek,
+15. honvédségi szervezet: a Honvéd Vezérkar, valamint az alárendeltségébe tartozó katonai szervezetek,
 
 16. információs művelet: a Honvédség erői és műveletei számára kedvező információs környezet kialakítására, valamint a műveleti területen lévő személyek és azok csoportjai információ-ellátottságának módosítására irányuló szervezett és rendszerszerűen felépített tevékenységek összessége,
 

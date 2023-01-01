@@ -1,3 +1,11 @@
 ## 58. Átmeneti rendelkezések
 
-112. § A 9. § (3) bekezdését a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény módosításáról szóló 2016. évi CXXXIII. törvény hatálybalépésekor el nem évült követelésekre is alkalmazni kell.
+112. § Ahol kormányrendelet, miniszteri rendelet, közjogi szervezetszabályozó eszköz vagy a 18. § szerinti belső rendelkezés
+
+a) a Magyar Honvédség Parancsnokságát említi, azon a Honvéd Vezérkart,
+
+b) a Magyar Honvédség parancsnokát vagy helyettesét említi, azon a Honvéd Vezérkar főnökét, illetve helyettesét,
+
+c) a Magyar Honvédség Parancsnoksága törzsfőnökét említi, azon a Honvéd Vezérkar törzsigazgatóját
+
+kell érteni.

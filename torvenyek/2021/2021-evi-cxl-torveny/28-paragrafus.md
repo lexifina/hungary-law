@@ -10,6 +10,6 @@ b) a hadköteles személyes megjelenéssel történő szolgálatteljesítés ter
 
 (4) Az elsőfokú Bizottság orvos tagjait a hadkiegészítő központ vezetőjének megkeresése alapján az orvost foglalkoztató egészségügyi intézet vezetője, illetve a katonai szolgálatteljesítés tervezésének helye szerint illetékes egészségügyi államigazgatási szerv jelöli ki.
 
-(5) A másodfokú Bizottság elnöke a Magyar Honvédség parancsnoka által kijelölt katona, tagja a Honvédség központi egészségügyi szervezetének alkalmasságot vizsgáló orvosa, pszichológusa és a hadkiegészítő központ alkalmasságot vizsgáló szakfőorvosa.
+(5) A másodfokú Bizottság elnöke a Honvéd Vezérkar főnöke által kijelölt katona, tagja a Honvédség központi egészségügyi szervezetének alkalmasságot vizsgáló orvosa, pszichológusa és a hadkiegészítő központ alkalmasságot vizsgáló szakfőorvosa.
 
 (6) A másodfokú Bizottság munkájában a Honvédség katonai igazgatási és központi adatfeldolgozó szervének vezetője által kijelölt kisegítő személyek vesznek részt.

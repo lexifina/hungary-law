@@ -1,6 +1,6 @@
 15. § (1) A honvédelmi szervezetek személyi állományára vonatkozó – a Honvédség védelmi képességének, hadrafoghatóságának biztosításával összefüggő – adatok honvédelmi és nemzetbiztonsági érdekből a keletkezésüktől számított harminc évig nem nyilvánosak. Ezen adatok megismerését a fenti érdekek mérlegelésével
 
-a) a honvédségi szervezet tekintetében a Magyar Honvédség parancsnoka,
+a) a honvédségi szervezet tekintetében a Honvéd Vezérkar főnöke,
 
 b) a KNBSZ tekintetében a KNBSZ főigazgatója vagy
 
@@ -12,7 +12,7 @@ engedélyezheti.
 
 (3) A honvédelmi szervezet felépítésére, működésére, haditechnikai eszközeire és anyagaira, valamint hadfelszerelésére vonatkozó adatok honvédelmi és nemzetbiztonsági érdekből a keletkezésüktől számított harminc évig nem nyilvánosak. Ezen adatok megismerését a fenti érdekek mérlegelésével
 
-a) a honvédségi szervezet tekintetében a Magyar Honvédség parancsnoka,
+a) a honvédségi szervezet tekintetében a Honvéd Vezérkar főnöke,
 
 b) a KNBSZ tekintetében a KNBSZ főigazgatója vagy
 

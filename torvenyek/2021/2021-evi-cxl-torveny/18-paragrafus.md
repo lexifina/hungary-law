@@ -6,7 +6,7 @@
 
 a) valamennyi honvédelmi szervezetre kiterjedő hatállyal – a KNBSZ kivételével – a honvédelemért felelős miniszter által vezetett minisztérium közigazgatási államtitkára,
 
-b) kizárólag a honvédségi szervezetekre kiterjedő hatállyal a Magyar Honvédség parancsnoka és helyettese, a Magyar Honvédség Parancsnokságának törzsfőnöke, szemlélője és csoportfőnöke, illetve – a Kormány rendeletében meghatározott esetben – a főnök, valamint más magasabb parancsokság jogállású honvédségi szervezet vezetője
+b) kizárólag a honvédségi szervezetekre kiterjedő hatállyal a Honvéd Vezérkar főnöke és helyettese, a Honvéd Vezérkar törzsigazgatója és csoportfőnöke, illetve – a Kormány rendeletében meghatározott esetben – a főnök, valamint más magasabb parancsokság jogállású honvédségi szervezet vezetője
 
 jogosult.
 
@@ -16,6 +16,6 @@ jogosult.
 
 (5) A honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában közzétett vagy a közölt belső rendelkezés jogszabálysértés miatti megsemmisítése esetén a megsemmisítést is közölni kell a honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában.
 
-(6) A honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában a Magyar Honvédség parancsnokának intézkedése szerint a szövetséges fegyveres erők közös parancsnokságai által kiadott parancsok és intézkedések is közzétehetők.
+(6) A honvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában a Honvéd Vezérkar főnökének intézkedése szerint a szövetséges fegyveres erők közös parancsnokságai által kiadott parancsok és intézkedések is közzétehetők.
 
 (7) A honvédelemért felelős miniszter bármely belső rendelkezést közjogi szervezetszabályozó eszközben hatályon kívül helyezhet.

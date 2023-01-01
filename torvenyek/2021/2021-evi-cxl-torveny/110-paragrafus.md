@@ -28,7 +28,7 @@
 
 13. a határátlépéssel járó csapatmozgások engedélyezésére vonatkozó kormányzati feladatokat, a Kormány hatáskörébe tartozó határátlépéssel járó csapatmozgások engedélyezésével kapcsolatos részletes eljárási szabályokat,
 
-14. a Honvédség személyi állományának kártalanítására vonatkozó esetköröket, valamint a kártalanítással kapcsolatos feladatokat,
+14.
 
 15. a honvédelmi létfontosságú rendszerelemek azonosításának, kijelölésének és védelmének szabályait,
 

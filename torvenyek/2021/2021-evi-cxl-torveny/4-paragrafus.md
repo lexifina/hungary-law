@@ -8,4 +8,4 @@
 
 (2) Az Országgyűlés honvédelemmel foglalkozó állandó bizottsága folyamatosan figyelemmel kíséri a Honvédség feladatainak megvalósítását, felkészültsége és felszereltsége színvonalát, a rendelkezésre bocsátott anyagi erőforrások felhasználását.
 
-(3) Az Országgyűlés honvédelemmel foglalkozó állandó bizottsága a Magyar Honvédség parancsnokának jelölt személyt kinevezése előtt meghallgatja, és alkalmasságáról véleményt nyilvánít.
+(3) Az Országgyűlés honvédelemmel foglalkozó állandó bizottsága a Honvéd Vezérkar főnökének jelölt személyt kinevezése előtt meghallgatja, és alkalmasságáról véleményt nyilvánít.

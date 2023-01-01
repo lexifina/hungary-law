@@ -2,7 +2,7 @@
 
 5. § (1) A köztársasági elnök a honvédelemért felelős miniszter előterjesztésére
 
-a) kinevezi és felmenti a Magyar Honvédség parancsnokát,
+a) kinevezi és felmenti a Honvéd Vezérkar főnökét,
 
 b) okirattal csapatzászlót adományoz.
 

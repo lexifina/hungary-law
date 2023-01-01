@@ -1,6 +1,6 @@
 ## 36. A honvédségi szervezet létrehozása és megszüntetése
 
-65. § (1) Honvédségi szervezet megszűnését vagy a feladatrendszerének változását nem eredményező átszervezését – a 14. § (2) bekezdésének hatálya alá tartozó honvédségi szervezetek kivételével – a Magyar Honvédség parancsnoka is elrendelheti.
+65. § (1) Honvédségi szervezet megszűnését vagy a feladatrendszerének változását nem eredményező átszervezését – a 14. § (2) bekezdésének hatálya alá tartozó honvédségi szervezetek kivételével – a Honvéd Vezérkar főnöke is elrendelheti.
 
 (2) A honvédségi szervezet felépítését, a béke- és hadiszervezetekben rendszeresíthető beosztások számát, rendszeresített technikai eszközeit az állománytáblában kell meghatározni.
 

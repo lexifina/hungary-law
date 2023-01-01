@@ -14,9 +14,9 @@ d) a katonai rendészeti ellenőrző áteresztő pontok működtetése, az igazo
 
 e) a honvédelmi szervezet tevékenységével összefüggő forgalomszabályozás,
 
-f) a honvédelmi szervezet – a honvédelemért felelős miniszter által vezetett minisztérium politikai és szakmai felsővezetői, valamint a Magyar Honvédség parancsnoka által meghatározott – rendezvényeinek rendészeti biztosítása,
+f) a honvédelmi szervezet – a honvédelemért felelős miniszter által vezetett minisztérium politikai és szakmai felsővezetői, valamint a Honvéd Vezérkar főnöke által meghatározott – rendezvényeinek rendészeti biztosítása,
 
-g) a honvédelemért felelős miniszter által vezetett minisztérium politikai felsővezetőinek, szakmai felsővezetőinek, a Magyar Honvédség parancsnoka és helyettesei, valamint kijelölt vendégeik személyi kísérésének biztosítása,
+g) a honvédelemért felelős miniszter által vezetett minisztérium politikai felsővezetőinek, szakmai felsővezetőinek, a Honvéd Vezérkar főnöke és helyettesei, valamint kijelölt vendégeik személyi kísérésének biztosítása,
 
 h) a honvédelmi szervezetek érték- és pénzszállításai kísérésének fegyveres biztosítása,
 

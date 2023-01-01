@@ -1,6 +1,6 @@
 ## 27. A fegyver nélküli katonai szolgálat engedélyezése
 
-42. § (1) A fegyver nélküli katonai szolgálat engedélyezése iránti kérelmet a katonai szolgálatteljesítés tervezésének várható időpontjáról történt tájékoztatás szerinti időpontig lehet benyújtani. Ez a határidő jogvesztő.
+42. § (1) A fegyver nélküli katonai szolgálat engedélyezése iránti kérelmet a katonai szolgálatteljesítés tervezésének várható időpontjáról történt tájékoztatástól a tájékoztatásban megjelölt időpontig lehet benyújtani. Ez a határidő jogvesztő.
 
 (2) A kérelmet a Honvédség katonai igazgatási és központi adatfeldolgozó szervének a vezetőjéhez kell benyújtani. Az a hadköteles, akinek a fegyver nélküli katonai szolgálat teljesítésére irányuló kérelmét elutasították, újabb kérelmet nem nyújthat be.
 

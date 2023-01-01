@@ -8,7 +8,7 @@ c) közalkalmazott,
 
 d) honvédelmi alkalmazott,
 
-e) a rendvédelmi szervek hivatásos, valamint
+e) a rendvédelmi szervek hivatásos és szerződéses, valamint
 
 f) rendészeti igazgatási alkalmazott
 

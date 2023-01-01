@@ -4,7 +4,7 @@ Jegyzék a meghagyásba tartozó munkakörökről és a meghagyásba bevont szer
 
 1. I. kategória
 
-1.1. a köztársasági elnök, az országgyűlési, európai parlamenti képviselő, főpolgármester, polgármester, önkormányzati képviselő, a megyei vagy fővárosi közgyűlés elnöke, tagja,
+1.1. a köztársasági elnök, az országgyűlési, európai parlamenti képviselő, főpolgármester, polgármester, önkormányzati képviselő, a vármegyei vagy fővárosi közgyűlés elnöke, tagja,
 
 1.2. az Alkotmánybíróság elnöke és tagjai,
 
@@ -48,9 +48,9 @@ Jegyzék a meghagyásba tartozó munkakörökről és a meghagyásba bevont szer
 
 2.10. a Ksztv. szerinti központi kormányzati igazgatási szerv, az önálló szabályozó szerv és az autonóm államigazgatási szerv,
 
-2.11. a fővárosi és megyei kormányhivatalok, valamint ezek járási és fővárosi kerületi hivatalai,
+2.11. a fővárosi és vármegyei kormányhivatalok, valamint ezek járási és fővárosi kerületi hivatalai,
 
-2.12. a körjegyzőség, a polgármesteri hivatalok (a képviselő-testület hivatala, a megyei jogú város kerületi hivatala, a fővárosi kerületi képviselő-testület hivatala), a megyei közgyűlés hivatala, a főpolgármesteri hivatal (a fővárosi közgyűlés hivatala), az önkormányzati hatósági igazgatási társulások,
+2.12. a körjegyzőség, a polgármesteri hivatalok (a képviselő-testület hivatala, a megyei jogú város kerületi hivatala, a fővárosi kerületi képviselő-testület hivatala), a vármegyei közgyűlés hivatala, a főpolgármesteri hivatal (a fővárosi közgyűlés hivatala), az önkormányzati hatósági igazgatási társulások,
 
 2.13. a Médiaszolgáltatás Támogató- és Vagyonkezelő Alap, a Magyar Rádió Zártkörűen Működő Részvénytársaság, a Duna Televízió Zártkörűen Működő Részvénytársaság, a Magyar Távirati Iroda Zártkörűen Működő Részvénytársaság, a Magyar Televízió Zártkörűen Működő Részvénytársaság,
 
