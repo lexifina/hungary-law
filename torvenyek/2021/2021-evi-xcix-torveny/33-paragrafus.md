@@ -1,1 +1,1 @@
-33. § A közjegyzőkről szóló 1991. évi XLI. törvénynek a közjegyzői működés formájára vonatkozó rendelkezéseit akként kell alkalmazni, hogy a tevékenységét egyénileg folytató közjegyző 2022. december 31-éig a tevékenységét a közjegyzőkről szóló 1991. évi XLI. törvény 2021. december 31-én hatályos rendelkezései szerint tovább folytathatja egyénileg.
+### 33. §
