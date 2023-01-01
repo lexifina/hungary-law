@@ -1,6 +1,6 @@
 52/A. § (1) Az 51. § (2) bekezdése szerinti nyilvános pályázat nyertesei jogosultak a miniszter által adományozott civil közösségi szolgáltató központ cím viselésére a (4) bekezdésben meghatározott szerződés időszaka alatt.
 
-(2) Minden megyében, valamint a fővárosban a pályázaton nyertes civil szervezet működteti a civil közösségi szolgáltató központot, nyújt szolgáltatást, és a támogatási időszak alatt használhatja a civil közösségi szolgáltató központ megnevezést.
+(2) Minden vármegyében, valamint a fővárosban a pályázaton nyertes civil szervezet működteti a civil közösségi szolgáltató központot, nyújt szolgáltatást, és a támogatási időszak alatt használhatja a civil közösségi szolgáltató központ megnevezést.
 
 (3) A civil közösségi szolgáltató központ az 51. § és 52. § szerinti szolgáltatásokat ellenszolgáltatás nélkül nyújtja. Az 56. § (1) bekezdés l) pontja szerinti költségvetési támogatásra a miniszter által jóváhagyott egyedi támogatási kérelmek alapján történhet kötelezettségvállalás.
 
