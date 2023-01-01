@@ -1,0 +1,1 @@
+1. § A kényszergyógykezelés és az ideiglenes kényszergyógykezelés végrehajtásáról, valamint az Igazságügyi Megfigyelő és Elmegyógyító Intézet feladatairól szóló 13/2014. (XII. 16.) IM rendelet 12. § (1) bekezdésében a „mindenkori legkisebb öregségi nyugdíj” szövegrész helyébe a „szociális vetítési alap” szöveg lép.
