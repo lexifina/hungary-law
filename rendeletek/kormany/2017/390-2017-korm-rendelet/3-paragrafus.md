@@ -42,7 +42,7 @@ ad) a (3) bekezdés a) pontja szerinti tevékenységgel,
 
 ae) a helyi, kistérségi, regionális foglalkoztatási program elkészítésével
 
-## kapcsolatos;
+kapcsolatos;
 
 b) l) pontja szerinti szakterület körébe a gondozási szükséglet megállapítása során a személyes gondoskodás igénybevételével kapcsolatos eljárásokban közreműködő szakértőkre, szakértői szervekre vonatkozó részletes szabályokról szóló 340/2007. (XII. 15.) Korm. rendelet szerinti;
 
@@ -50,7 +50,7 @@ c) m) pontja szerinti szakterület körébe a fogyatékos személyek alapvizsgá
 
 d) n) pontja szerinti szakterület körébe a komplex minősítési eljárás során a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet szerinti
 
-## szociális szakértői feladatok ellátása tartozik.
+szociális szakértői feladatok ellátása tartozik.
 
 (3) Az Országos Szociálpolitikai Szakértői Névjegyzékben szereplő szakértő tevékenysége kiterjedhet különösen
 

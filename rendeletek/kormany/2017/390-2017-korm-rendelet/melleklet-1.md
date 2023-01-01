@@ -1,8 +1,6 @@
-## 16. §[^4]
-
 1. melléklet a 390/2017. (XII. 13.) Korm. rendelethez
 
-## Bejelentés gyermekvédelmi szakértői/szociálpolitikai szakértői tevékenység folytatásáról
+Bejelentés gyermekvédelmi szakértői/szociálpolitikai szakértői tevékenység folytatásáról
 
 1. A bejelentés oka
 
@@ -123,5 +121,3 @@ Kelt:
 .....................................................
 
 bejelentő aláírása
-
-[^4]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

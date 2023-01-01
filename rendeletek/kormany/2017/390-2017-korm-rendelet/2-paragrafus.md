@@ -40,6 +40,8 @@ r) gyermekvédelmi és gyámügyi igazgatás.
 
 a) az (1) bekezdés a)–j) pontja szerinti szakterület esetében a Gyvt. hatálya alá tartozó gyermekjóléti, gyermekvédelmi ellátásokkal kapcsolatos pályázat értékelésére, a pályázatot elbíráló bizottság érdemi munkájában történő részvételre, az elbírált pályázat megvalósításának figyelemmel kísérésére, monitorozására, a pályázatban vállaltak végrehajtásának ellenőrzésére,
 
-b) az (1) bekezdés n) pontja szerinti szakterület esetében a gyermekjóléti, gyermekvédelmi szolgáltatások, intézmények minőségügyi rendszerével, illetve minőségbiztosításával kapcsolatos feladatok ellátására, illetve a gyermekvédelmi szolgáltatásokkal összefüggő elemzési, tervezési, fejlesztési feladatok ellátására, ennek keretében tanácsadásra, valamint a megyei gyermekvédelmi koncepció elkészítésében, felülvizsgálatában, véleményezésében történő részvételre,
+b)[^1] az (1) bekezdés n) pontja szerinti szakterület esetében a gyermekjóléti, gyermekvédelmi szolgáltatások, intézmények minőségügyi rendszerével, illetve minőségbiztosításával kapcsolatos feladatok ellátására, illetve a gyermekvédelmi szolgáltatásokkal összefüggő elemzési, tervezési, fejlesztési feladatok ellátására, ennek keretében tanácsadásra, valamint a vármegyei gyermekvédelmi koncepció elkészítésében, felülvizsgálatában, véleményezésében történő részvételre,
 
 c) az (1) bekezdés r) pontja szerinti szakterület esetében a gyermekjóléti, gyermekvédelmi ellátást érintő szolgáltatói nyilvántartásba történő bejegyzéssel összefüggő szakértői közreműködésre.
+
+[^1]: A 2. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 265. § a) pontja szerint módosított szöveg.
