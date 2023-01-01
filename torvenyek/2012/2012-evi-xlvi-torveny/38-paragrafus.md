@@ -20,13 +20,13 @@ f) határozza meg a magyarországi hivatalos földrajzi nevek megállapításán
 
 g) állapítsa meg az e törvényben meghatározott bírságok kiszabására kijelölt szerveket, a kiszabható bírságok mértékét és a bírság kiszabásának feltételeit és módját,
 
-h) jelölje ki a honvédelem térképészeti támogatásáért felelős szervet, továbbá határozza meg a hatósági feladatait és hatáskörét,
+h) jelölje ki a honvédelmi térképészeti hatósági feladatokért felelős szervet, továbbá határozza meg a hatósági feladatait és hatáskörét,
 
 i) állapítsa meg az egyéb célú földmérési és térképészeti tevékenység végzésének részletes szabályait és követelményrendszerét,
 
 j) jelölje ki a geodéziai tervezői és geodéziai szakértői minősítő és a nyilvántartást vezető szervet, határozza meg a minősítés feltételeit és a minősítéssel kapcsolatos eljárás részletes szabályait,
 
-k) állapítsa meg a honvédelem térképészeti támogatásáért felelős szerv hatáskörébe tartozó hatósági eljárások részletes szabályait.
+k) állapítsa meg a honvédelmi térképészeti hatósági feladatokért felelős szerv hatáskörébe tartozó hatósági eljárások részletes szabályait.
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben a 6. § (8a) bekezdése szerinti intézkedéseket összehangolt védelmi tevékenység elrendelése esetén bevezesse.
 
@@ -76,7 +76,7 @@ e)
 
 (4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy
 
-a) a felelősségi körébe tartozó földmérési és térképészeti ágazati irányítási feladatokat és hatásköröket, valamint a felelősségi körébe tartozó földmérési és térképészeti tevékenység végzésének rendjét,
+a) a honvédelem térképészeti támogatásáért felelős szervet, a felelősségi körébe tartozó földmérési és térképészeti ágazati irányítási feladatokat és hatásköröket, valamint a felelősségi körébe tartozó közfeladatként ellátott földmérési és térképészeti tevékenység végzésének rendjét,
 
 b) a honvédelmi célú térképi adatbázisok vonatkoztatási és vetületi rendszerét, alapadat-tartalmát, létrehozásának, felújításának, kezelésének, fenntartásának és felhasználásának módját, valamint az állami átvétel és adatszolgáltatás rendjét,
 

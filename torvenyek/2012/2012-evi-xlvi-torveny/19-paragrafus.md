@@ -36,9 +36,9 @@ c) a Mezőgazdasági Parcella Azonosító Rendszer alapadatainak és tematikus i
 
 d) kormányzati és közigazgatási célú feladatok támogatására.
 
-(7) Bármely távérzékelési adat a földmérési és térinformatikai államigazgatási szerv – a honvédelemért felelős miniszter hatáskörébe tartozó adatok esetén a honvédelem térképészeti támogatásáért felelős szerv – által elvégzett állami átvételt követően válik az állami távérzékelési alapadatbázis részévé.
+(7) Bármely távérzékelési adat a földmérési és térinformatikai államigazgatási szerv – a honvédelemért felelős miniszter hatáskörébe tartozó adatok esetén a honvédelmi térképészeti hatósági feladatokért felelős szerv – által elvégzett állami átvételt követően válik az állami távérzékelési alapadatbázis részévé.
 
-(8) Minden, az adatállománnyal rendelkezni jogosult köteles átadni (a megrendelőnek történő átadását követő tizenöt napon belül) a földmérési és térinformatikai államigazgatási szervnek a részben vagy egészében közpénzből előállított, az állami távérzékelési adatbázis adattartalmát érintő adatnak egy, az eredetivel megegyező példányát. Ez alól kizárólag a honvédelmi célokra készült távérzékelési adatok jelentenek kivételt.
+(8) Minden, az adatállománnyal rendelkezni jogosult köteles átadni (a megrendelőnek történő átadását követő tizenöt napon belül) a földmérési és térinformatikai államigazgatási szervnek a részben vagy egészében közpénzből előállított, az állami távérzékelési adatbázis adattartalmát érintő adatnak egy, az eredetivel megegyező példányát. Ez alól kizárólag a honvédelmi célokra készült távérzékelési adatok jelentenek kivételt. A földmérési és térinformatikai államigazgatási szerv köteles a NAVÜ-t az adatállomány kézhezvételét követő 15 napon belül a kézhezvételről értesíteni. A NAVÜ jogosult az adatállomány átadását kérni a tájékoztatástól számított 30 napon belül.
 
 (8a) A (8) bekezdés szerint átadott adatokat a földmérési és térinformatikai államigazgatási szerv az állami átvételig az állami távérzékelési adatbázisban, de attól elkülönítve tárolja, kezeli és szolgáltatja.
 
