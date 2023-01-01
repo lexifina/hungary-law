@@ -1,5 +1,3 @@
-## Tűzvédelmi hatósági, szakhatósági eljárások és szolgáltatások díjai
-
 | Sor- szám | Eljárás megnevezése | Díjak mértéke forintban |
 
 | 1. | Számítógépes szimulációs programmal végzett, egyedileg tervezett megoldás jóváhagyására indított eljárás | 50 000 |
@@ -32,44 +30,44 @@ A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és terü
 
 | 1. | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | 10023002-00283494-00000000 |
 
-| 2. | Baranya Megyei Katasztrófavédelmi Igazgatóság | 10024003-00283559-00000000 |
+| 2. | Baranya Vármegyei Katasztrófavédelmi Igazgatóság | 10024003-00283559-00000000 |
 
-| 3. | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság | 10025004-00283566-00000000 |
+| 3. | Bács-Kiskun Vármegyei Katasztrófavédelmi Igazgatóság | 10025004-00283566-00000000 |
 
-| 4. | Békés Megyei Katasztrófavédelmi Igazgatóság | 10026005-00283573-00000000 |
+| 4. | Békés Vármegyei Katasztrófavédelmi Igazgatóság | 10026005-00283573-00000000 |
 
-| 5. | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | 10027006-00283580-00000000 |
+| 5. | Borsod-Abaúj-Zemplén Vármegyei Katasztrófavédelmi Igazgatóság | 10027006-00283580-00000000 |
 
-| 6. | Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
+| 6. | Csongrád-Csanád Vármegyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
 
-| 7. | Fejér Megyei Katasztrófavédelmi Igazgatóság | 10029008-00283607-00000000 |
+| 7. | Fejér Vármegyei Katasztrófavédelmi Igazgatóság | 10029008-00283607-00000000 |
 
 | 8. | Fővárosi Katasztrófavédelmi Igazgatóság | 10023002-00319566-00000000 |
 
-| 9. | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | 10033001-00283614-00000000 |
+| 9. | Győr-Moson-Sopron Vármegyei Katasztrófavédelmi Igazgatóság | 10033001-00283614-00000000 |
 
-| 10. | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | 10034002-00283621-00000000 |
+| 10. | Hajdú-Bihar Vármegyei Katasztrófavédelmi Igazgatóság | 10034002-00283621-00000000 |
 
-| 11. | Heves Megyei Katasztrófavédelmi Igazgatóság | 10035003-00283638-00000000 |
+| 11. | Heves Vármegyei Katasztrófavédelmi Igazgatóság | 10035003-00283638-00000000 |
 
-| 12. | Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság | 10045002-00283683-00000000 |
+| 12. | Jász-Nagykun-Szolnok Vármegyei Katasztrófavédelmi Igazgatóság | 10045002-00283683-00000000 |
 
-| 13. | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság | 10036004-00283645-00000000 |
+| 13. | Komárom-Esztergom Vármegyei Katasztrófavédelmi Igazgatóság | 10036004-00283645-00000000 |
 
-| 14. | Nógrád Megyei Katasztrófavédelmi Igazgatóság | 10037005-00283652-00000000 |
+| 14. | Nógrád Vármegyei Katasztrófavédelmi Igazgatóság | 10037005-00283652-00000000 |
 
-| 15. | Pest Megyei Katasztrófavédelmi Igazgatóság | 10023002-00283669-00000000 |
+| 15. | Pest Vármegyei Katasztrófavédelmi Igazgatóság | 10023002-00283669-00000000 |
 
-| 16. | Somogy Megyei Katasztrófavédelmi Igazgatóság | 10039007-00283762-00000000 |
+| 16. | Somogy Vármegyei Katasztrófavédelmi Igazgatóság | 10039007-00283762-00000000 |
 
-| 17. | Szabolcs-Szatmár-Bereg Megyei Katasztrófavédelmi Igazgatóság | 10044001-00283676-00000000 |
+| 17. | Szabolcs-Szatmár-Bereg Vármegyei Katasztrófavédelmi Igazgatóság | 10044001-00283676-00000000 |
 
-| 18. | Tolna Megyei Katasztrófavédelmi Igazgatóság | 10046003-00283690-00000000 |
+| 18. | Tolna Vármegyei Katasztrófavédelmi Igazgatóság | 10046003-00283690-00000000 |
 
-| 19. | Vas Megyei Katasztrófavédelmi Igazgatóság | 10047004-00283700-00000000 |
+| 19. | Vas Vármegyei Katasztrófavédelmi Igazgatóság | 10047004-00283700-00000000 |
 
-| 20. | Veszprém Megyei Katasztrófavédelmi Igazgatóság | 10048005-00283717-00000000 |
+| 20. | Veszprém Vármegyei Katasztrófavédelmi Igazgatóság | 10048005-00283717-00000000 |
 
-| 21. | Zala Megyei Katasztrófavédelmi Igazgatóság | 10049006-00283724-00000000 |
+| 21. | Zala Vármegyei Katasztrófavédelmi Igazgatóság | 10049006-00283724-00000000 |
 
-[^3]: A 2. melléklet a 39/2020. (XI. 4.) BM rendelet 10. §-a szerint módosított szöveg.
+[^3]: A 2. melléklet a 39/2020. (XI. 4.) BM rendelet 10. §-a, a 48/2022. (XII. 27.) BM rendelet 10. §-a szerint módosított szöveg.
