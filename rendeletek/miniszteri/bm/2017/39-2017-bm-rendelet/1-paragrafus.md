@@ -18,7 +18,7 @@ cb) az elítélt vagy a kényszergyógykezelt meghatározott bíróság, ügyés
 
 cc) az elítélt vagy az egyéb jogcímen fogvatartott kérelmére és költségére történő előállítás
 
-## során felmerült költség megtérítésére kell alkalmazni.
+során felmerült költség megtérítésére kell alkalmazni.
 
 (2) E rendelet alkalmazásában
 

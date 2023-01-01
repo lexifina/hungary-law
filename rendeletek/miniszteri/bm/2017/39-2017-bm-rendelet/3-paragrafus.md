@@ -1,5 +1,3 @@
-## további összeget kell költségként megállapítani.
-
 3. § (1) A 2. § (1) bekezdés b) pontja és a 2. § (2) bekezdés a) pontja szerinti esetekben a költségtérítés megállapítása során
 
 a) minden megkezdett órát egész óraként kell figyelembe venni, valamint
@@ -16,6 +14,6 @@ b) az elővezetett, illetve az előállított személy megtalálásának helye �
 
 c) az elrendelő határozatot kibocsátó hatóság vagy bíróság (a továbbiakban együtt: elrendelő szerv) által meghatározott, az elővezetésre, illetve előállításra megjelölt hely
 
-## között ténylegesen megtett távolságot kell figyelembe venni.
+között ténylegesen megtett távolságot kell figyelembe venni.
 
 (4) Ha az elővezetés, illetve az előállítás eredményes végrehajtása érdekében az érintett visszatartására kerül sor, a kiindulási hely, a visszatartás helye, valamint az elővezetés, illetve az előállítás helye között ténylegesen megtett távolság a megállapítandó kilométerszámba beleszámít.
