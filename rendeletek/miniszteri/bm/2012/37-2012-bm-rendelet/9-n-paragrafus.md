@@ -1,4 +1,4 @@
-## 9/N.[^26] Idősekért díj
+## 9/N.[^27] Idősekért díj
 
 9/N. § (1) Az Idősekért díj az idősek emberi méltósága, anyagi, fizikai, lelki egészsége, jóléte, az időskori aktivitás megőrzése érdekében kifejtett munka, valamint az idősgondozás területén az ápolásra szoruló idősek életminőségének, méltóságának, tartalmas mindennapjainak érdekében végzett kiemelkedő tevékenység elismerésére adományozható.
 
@@ -10,4 +10,4 @@
 
 (5) Az Idősekért díjhoz pénzjutalom jár. A Idősekért díjjal járó pénzjutalom mértéke az illetményalap nyolcszorosának megfelelő összeg.
 
-[^26]: A 9/N. alcímet (9/N. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^27]: A 9/N. alcímet (9/N. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.

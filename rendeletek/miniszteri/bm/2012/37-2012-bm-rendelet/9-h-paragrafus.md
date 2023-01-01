@@ -1,4 +1,4 @@
-## 9/H.[^20] Eötvös József-díj (köznevelési tagozat)
+## 9/H.[^21] Eötvös József-díj (köznevelési tagozat)
 
 9/H. § (1) Az Eötvös József-díj azoknak a kiemelkedő munkát végző pedagógusoknak adományozható, akik nevelő-oktató munkájuk során életpályájukkal kifejezték elkötelezettségüket a pedagógus élethivatás mellett.
 
@@ -10,4 +10,4 @@
 
 (5) Az Eötvös József-díjhoz pénzjutalom jár. Az Eötvös József-díjjal járó pénzjutalom mértéke az illetményalap tízszeresének megfelelő összeg.
 
-[^20]: A 9/H. alcímet (9/H. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^21]: A 9/H. alcímet (9/H. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.

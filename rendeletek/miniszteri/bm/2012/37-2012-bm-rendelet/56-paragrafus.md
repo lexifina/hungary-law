@@ -2,6 +2,6 @@
 
 (2) A kitüntetés visszavonását, címtől való megfosztását kell kezdeményezni attól, aki arra érdemtelenné vált. Az érdemtelenség megállapításának van helye a személyi állomány tagjával szemben, ha a foglalkoztatási jogviszonya megszüntetésére fegyelmi ok miatt, a szolgálati viszony keretében betöltött szolgálati beosztás ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltással, szolgálati viszony megszüntetésével, lefokozással, a kifogásolható életvitel megállapításával került sor.
 
-(3)[^113]
+(3)[^114]
 
-[^113]: Az 56. § (3) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 12. pontja hatályon kívül helyezte.
+[^114]: Az 56. § (3) bekezdését az 51/2014. (XI. 26.) BM rendelet 17. § (2) bekezdés 12. pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-## 9/P.[^28] Szent Kristóf a Gyermekekért díj
+## 9/P.[^29] Szent Kristóf a Gyermekekért díj
 
 9/P. § (1) A Szent Kristóf a Gyermekekért díj a gyermekvédelem, gyermek- és ifjúságügy területén végzett kiemelkedő szakmai tevékenység elismerésére adományozható.
 
@@ -10,4 +10,4 @@
 
 (5) A Szent Kristóf a Gyermekekért díjhoz pénzjutalom jár. A Szent Kristóf a Gyermekekért díjjal járó pénzjutalom mértéke az illetményalap nyolcszorosának megfelelő összeg.
 
-[^28]: A 9/P. alcímet (9/P. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^29]: A 9/P. alcímet (9/P. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.

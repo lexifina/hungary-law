@@ -1,4 +1,4 @@
-## 9/Q.[^29] Esélyteremtésért díj
+## 9/Q.[^30] Esélyteremtésért díj
 
 9/Q. § (1) Az Esélyteremtésért díj az esélyteremtés terén elért kiemelkedő eredmények, valamint a hátrányos helyzetű társadalmi csoportokhoz tartozó személyek jogainak érvényesítéséhez és e jogok, valamint az emberi méltóság védelmében való fellépés, és a védelem minél szélesebb körű érvényesítése és népszerűsítése területén végzett kiemelkedő tevékenységért adományozható.
 
@@ -12,4 +12,4 @@
 
 (6) Az Esélyteremtésért díjhoz pénzjutalom jár. Az Esélyteremtésért díjjal járó pénzjutalom mértéke az illetményalap nyolcszorosának megfelelő összeg.
 
-[^29]: A 9/Q. alcímet (9/Q. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^30]: A 9/Q. alcímet (9/Q. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.

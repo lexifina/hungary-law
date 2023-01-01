@@ -1,4 +1,4 @@
-## 31/B.[^77] Pro Vita oklevél
+## 31/B.[^78] Pro Vita oklevél
 
 36/B. § (1) Pro Vita oklevél adományozható:
 
@@ -12,4 +12,4 @@ b) az élő önkéntes szerv- vagy szövetdonornak.
 
 (4) A Pro Vita oklevéllel díjazott az adományozást igazoló oklevelet kap.
 
-[^77]: A 31/B. alcímet (36/B. §-t) a 39/2022. (XI. 22.) BM rendelet 7. §-a iktatta be.
+[^78]: A 31/B. alcímet (36/B. §-t) a 39/2022. (XI. 22.) BM rendelet 7. §-a iktatta be.

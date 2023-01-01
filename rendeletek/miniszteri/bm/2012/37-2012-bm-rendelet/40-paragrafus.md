@@ -4,10 +4,10 @@
 
 a) a területi szerv vagy azzal azonos jogállású szerv vezetője által adott jutalom esetén annak kétszerese,
 
-b)[^84] az országos parancsnok, a Nemzeti Védelmi Szolgálat, a Terrorelhárítási Központ és az Országos Idegenrendészeti Főigazgatóság főigazgatója által adott jutalom esetén a háromszorosa,
+b)[^85] az országos parancsnok, a Nemzeti Védelmi Szolgálat, a Terrorelhárítási Központ és az Országos Idegenrendészeti Főigazgatóság főigazgatója által adott jutalom esetén a háromszorosa,
 
 c) az államtitkárok által adott jutalom esetén a négyszerese.
 
 (2) A nettó összeg alatt a személyi jövedelemadó és a munkavállalót terhelő járulékok levonása utáni összeget kell érteni.
 
-[^84]: A 40. § (1) bekezdés b) pontja az 58/2016. (XII. 22.) BM rendelet 31. §-a, a 27/2019. (VI. 28.) BM rendelet 25. § d) pontja szerint módosított szöveg.
+[^85]: A 40. § (1) bekezdés b) pontja az 58/2016. (XII. 22.) BM rendelet 31. §-a, a 27/2019. (VI. 28.) BM rendelet 25. § d) pontja szerint módosított szöveg.
