@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-180-20-
 | 2020-07-31 | 2007-180-20-22.15 | 370/2014. (XII. 30.) Korm. rendelet |
 | 2021-06-06 | 2007-180-20-22.16 | 302/2021. (VI. 1.) Korm. rendelet |
 | 2021-06-22 | 2007-180-20-22.17 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2023-01-01 | 2007-180-20-22.18 | 616/2022. (XII. 29.) Korm. rendelet |
