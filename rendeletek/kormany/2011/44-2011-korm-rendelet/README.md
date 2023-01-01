@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-44-20-2
 | 2020-04-15 | 2011-44-20-22.12 | 76/2020. (III. 31.) Korm. rendelet |
 | 2021-01-01 | 2011-44-20-22.13 | 649/2020. (XII. 23.) Korm. rendelet |
 | 2021-05-21 | 2011-44-20-22.14 | 76/2020. (III. 31.) Korm. rendelet |
+| 2023-01-01 | 2011-44-20-22.15 | 569/2022. (XII. 23.) Korm. rendelet |
