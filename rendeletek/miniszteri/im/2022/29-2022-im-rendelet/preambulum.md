@@ -1,0 +1,1 @@
+A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény 75. § c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
