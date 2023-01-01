@@ -1,5 +1,3 @@
-## segítségével ellenőrzi.
-
 8. § (1) Az erdészeti hatóság a hatósági ellenőrzés során próbavásárlást végezhet.
 
 (2) A próbavásárláshoz az erdészeti hatóság közreműködő személyt vehet igénybe.

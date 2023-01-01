@@ -8,12 +8,13 @@
 
 a) az ellenőrző szervezetek elismerésének visszavonásáról szóló bizottsági határozatokat azok beérkezését követően haladéktalanul,
 
-b) az illegális fakitermelés kockázatával kapcsolatosan az ország területére vonatkozóan kidolgozott éves statisztikai adatokat megyei vagy egyéb területi bontásban évente április 30-ig, továbbá
+b)[^3] az illegális fakitermelés kockázatával kapcsolatosan az ország területére vonatkozóan kidolgozott éves statisztikai adatokat vármegyei vagy egyéb területi bontásban évente április 30-ig, továbbá
 
 c) a faanyag kereskedelmi lánccal kapcsolatosan végzett ellenőrzések végrehajtásának összefoglaló eredményeit évente április 30-ig
 
-## a honlapján közzéteszi.
+a honlapján közzéteszi.
 
 (4) A 995/2010/EU európai parlamenti és tanácsi rendelet 13. cikkében meghatározott, a faanyag kereskedelmi lánc szereplői részére történő technikai segítségnyújtást és információs útmutatást az erdészeti hatóság – a faanyag kereskedelmi lánc valamennyi szereplőjének érdekét, valamint a fenntartható erdőgazdálkodásból és a fatermesztésből származó fatermék előállításának és forgalmazásának elősegítését szem előtt tartva – tájékoztatások, képzések és oktatás biztosításával teljesíti.
 
 [^2]: A 10. § (2) bekezdése a 111/2020. (IV. 14.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^3]: A 10. § (3) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 267. §-a szerint módosított szöveg.

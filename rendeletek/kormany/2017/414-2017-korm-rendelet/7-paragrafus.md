@@ -20,4 +20,6 @@ i) talajminta-vizsgálat, és
 
 j)[^1] más ország hatóságai felé tett megkeresés keretében szolgáltatott adatok
 
+segítségével ellenőrzi.
+
 [^1]: A 7. § j) pontja a 14. § (1) bekezdése szerint módosított szöveg.

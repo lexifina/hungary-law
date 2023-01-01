@@ -1,5 +1,3 @@
-## megfelelő hivatkozásával kell meghatározni a szállítójegyen.
-
 ## 2. A faanyag kereskedelmi lánc ellenőrzése
 
 3. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc felügyeletével kapcsolatos hatósági feladatainak ellátása keretében, az Evt. 90/C. § (2) bekezdés b) és c) pontjában meghatározott ellenőrzések biztosítása érdekében, faanyag kereskedelmi lánc felügyeleti információs rendszert hoz létre és működtet, amely tartalmazza

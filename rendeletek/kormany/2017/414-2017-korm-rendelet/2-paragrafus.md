@@ -21,3 +21,5 @@ b) a Magyarországon már forgalomba hozott erdei faválaszték forgalmazása so
 ba) a kitermelés helyének, és
 
 bb) az erdei faválaszték feletti rendelkezési jogosultságot megalapozó irat és a forgalomba helyező, vagy előző forgalmazó
+
+megfelelő hivatkozásával kell meghatározni a szállítójegyen.
