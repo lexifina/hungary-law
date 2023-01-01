@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-20-20-6
 | --- | --- | --- |
 | 1992-11-15 | 1992-20-20-6D.1 | 20/1992. (XI. 6.) KTM rendelet |
 | 2017-06-10 | 1992-20-20-6D.2 | 32/2017. (VI. 9.) FM rendelet |
+| 2023-01-01 | 1992-20-20-6D.3 | 45/2022. (XII. 27.) AM rendelet |

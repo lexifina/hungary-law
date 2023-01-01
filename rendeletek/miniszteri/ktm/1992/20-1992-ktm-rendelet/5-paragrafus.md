@@ -10,7 +10,7 @@ Melléklet a 20/1992. (XI. 6.) KTM rendelethez[^4]
 
 A Pilisi Tájvédelmi Körzet bővítésének ingatlan-nyilvántartási helyrajzi számai
 
-PEST MEGYE
+PEST VÁRMEGYE
 
 Budakalász
 
@@ -44,11 +44,11 @@ Szentendre
 
 0437/22
 
-KOMÁROM-ESZTERGOM MEGYE
+KOMÁROM-ESZTERGOM VÁRMEGYE
 
 Kesztölc
 
 064—071/2
 
 [^3]: A 4. § a 32/2017. (VI. 9.) FM rendelet 1. §-a szerint módosított szöveg.
-[^4]: A Melléklet a 24/1996. (X. 9.) KTM rendelet 5. §-ának b) pontja szerinti szöveg.
+[^4]: A Melléklet a 45/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
