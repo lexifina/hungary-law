@@ -18,6 +18,8 @@ g) az Európai Parlament és a Tanács 2019. november 27-i (EU) 2019/2034 irány
 
 h) az Európai Parlament és a Tanács 2019. június 20-i (EU) 2019/1160 irányelve a 2009/65/EK és a 2011/61/EU irányelvnek a kollektív befektetési vállalkozások határokon átnyúló forgalmazása tekintetében történő módosításáról.
 
+i) az Európai Parlament és a Tanács 2021. december 15-i (EU) 2021/2261 irányelve a 2009/65/EK irányelvnek a kiemelt információkat tartalmazó dokumentumok átruházható értékpapírokkal foglalkozó kollektív befektetési vállalkozások (ÁÉKBV) alapkezelő társaságai általi használata tekintetében történő módosításáról.
+
 (2) E törvény
 
 a) a Bizottság 2010. július 1-jei, a 2009/65/EK európai parlamenti és tanácsi irányelvnek a kiemelt befektetői információk tekintetében, valamint a papírtól eltérő tartós adathordozón vagy weboldalon rendelkezésre bocsátott kiemelt befektetői információk vagy tájékoztató esetében teljesítendő különleges feltételek tekintetében történő végrehajtásáról szóló, 583/2010/EU rendeletének,

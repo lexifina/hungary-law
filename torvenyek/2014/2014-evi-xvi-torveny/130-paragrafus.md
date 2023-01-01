@@ -23,3 +23,5 @@ e) a befektetési alap kockázat- és nyereségprofilját, beleértve a megfelel
 (5) A kiemelt befektetői információt a jegyzési időszak kezdete előtt legalább 7 nappal megelőzően tartós adathordozón vagy honlapon a befektetők rendelkezésére kell bocsátani, kérésre nyomtatott példányát díjmentesen szerződéskötéskor át kell adni a befektetőknek, és a folyamatos forgalmazás alatt közzé kell tenni. A kiemelt befektetői információnak naprakésznek kell lennie.
 
 (6) A kiemelt befektetői információ részletes tartalma, formája, közzététele tekintetében a Bizottság 583/2010/EU rendeletének rendelkezéseit is figyelembe kell venni.
+
+(7) Ha a kiemelt befektetői információt tartalmazó dokumentum megfelel az 1286/2014/EU rendelet kiemelt információkat tartalmazó dokumentumokra irányadó követelményeknek, akkor teljesíti az (1)–(6) bekezdésben foglalt feltételeket.
