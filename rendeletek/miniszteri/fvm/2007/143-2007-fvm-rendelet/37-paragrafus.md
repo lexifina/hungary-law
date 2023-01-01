@@ -2,7 +2,7 @@
 
 ## intézkedések
 
-## 37. §[^79] A magas patogenitású madárinfluenza vagy annak gyanúja megállapítása esetén, a vágóhidakon, állategészségügyi határállomásokon vagy szállítóeszközön a megyei kormányhivatal az alábbi kiegészítő intézkedéseket rendeli el:
+37. §[^81] A magas patogenitású madárinfluenza vagy annak gyanúja megállapítása esetén, a vágóhidakon, állategészségügyi határállomásokon vagy szállítóeszközön a vármegyei kormányhivatal az alábbi kiegészítő intézkedéseket rendeli el:
 
 a) a baromfi vagy más, fogságban tartott szárnyas vágóhídra történő beszállításának megtiltása a 46. §-ban meghatározott módon elvégzett takarítási, fertőtlenítési eljárás befejezését követő 24 óráig;
 
@@ -14,4 +14,4 @@ d) a 8. § (2) bekezdésében meghatározott intézkedések alkalmazása a fert�
 
 e) amennyiben a járványügyi nyomozás és a 34. §-ban meghatározott további vizsgálatok másképp nem indokolják, a származási gazdaságban a 11. §-ban meghatározott intézkedések alkalmazása.
 
-[^79]: A 37. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja szerint módosított szöveg.
+[^81]: A 37. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontja, a 102/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 5. §[^12] A madárinfluenza bejelentési kötelezettség alá tartozó betegség. A betegség vagy gyanújának észlelése esetén az állatbetegségek bejelentésének rendjéről szóló miniszteri rendelet előírásait is alkalmazni kell.
+## 5. §[^13] A madárinfluenza bejelentési kötelezettség alá tartozó betegség. A betegség vagy gyanújának észlelése esetén az állatbetegségek bejelentésének rendjéről szóló miniszteri rendelet előírásait is alkalmazni kell.
 
-6. § (1)[^13] A madárinfluenza járványnak a hatósági főállatorvos által
+6. § (1)[^14] A madárinfluenza járványnak a hatósági főállatorvos által
 
 a) gazdaságokban,
 
@@ -10,7 +10,7 @@ c) szállítóeszközökön,
 
 d) állategészségügyi határállomásokon,
 
-e)[^14] a baromfi vagy más, fogságban tartott madarak behozatalára vonatkozó közösségi szabályoknak megfelelően működő karantén-létesítményekben vagy -központokban
+e)[^15] a baromfi vagy más, fogságban tartott madarak behozatalára vonatkozó közösségi szabályoknak megfelelően működő karantén-létesítményekben vagy -központokban
 
 ## megállapított kitörése esetében az 1. számú mellékletben meghatározottakat az igazgatóság jelenti az Országos Járványvédelmi Központnak.
 
@@ -20,6 +20,6 @@ e)[^14] a baromfi vagy más, fogságban tartott madarak behozatalára vonatkozó
 
 (4) Az országos főállatorvos az emlősökön madárinfluenza vírus tekintetében végzett megfigyelés eredményeit jelenti a Bizottságnak.
 
-[^12]: Az 5. § a 42/2010. (IV. 22.) FVM rendelet 3. §-ával megállapított szöveg.
-[^13]: A 6. § (1) bekezdése a 42/2010. (IV. 22.) FVM rendelet 13. § d) pontja szerint módosított szöveg.
-[^14]: [A 6. § (1) bekezdés e) pontjában a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontjával elrendelt módosítás, amely szerint az „az igazgatóság” szövegrész helyébe az „a megyei kormányhivatal” szöveg lép, nem vezethető át.]
+[^13]: Az 5. § a 42/2010. (IV. 22.) FVM rendelet 3. §-ával megállapított szöveg.
+[^14]: A 6. § (1) bekezdése a 42/2010. (IV. 22.) FVM rendelet 13. § d) pontja szerint módosított szöveg.
+[^15]: [A 6. § (1) bekezdés e) pontjában a 42/2017. (VIII. 17.) FM rendelet 102. § d) pontjával elrendelt módosítás, amely szerint az „az igazgatóság” szövegrész helyébe az „a megyei kormányhivatal” szöveg lép, nem vezethető át.]
