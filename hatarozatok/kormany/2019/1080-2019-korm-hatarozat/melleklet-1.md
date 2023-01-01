@@ -10,11 +10,7 @@
 
 ## Határidő: a 2021. és 2022. évi központi költségvetés tervezése során
 
-## 4. az 1. és 2. pont végrehajtása érdekében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím, 52. Légiközlekedési terep és akadály részadatbázisainak létrehozása és aktualizálása jogcímcsoporttal történő kiegészítését;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: 2019. március 15.
+## 4.[^1]
 
 ## 5. egyetért azzal, hogy a részadatbázis háromévente végrehajtandó aktualizálásához szükséges forrásokról a 2023. évtől kezdve a mindenkori éves központi költségvetésről szóló törvény rendelkezzen;
 
@@ -61,3 +57,5 @@ A légiközlekedési terep és akadály adatbázis egyes részadatbázisai aktua
 | 7. | Pécs–Pogány Repülőtér (Terület 2) | 11 900 000 forint | – |
 
 | 8. | Sármellék Nemzetközi Repülőtér (Terület 2) | – | 9 900 000 forint |
+
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
