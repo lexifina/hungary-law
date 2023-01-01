@@ -1,0 +1,3 @@
+29. §[^29] Az egyes régészeti lelőhelyek védetté nyilvánításáról szóló 81/2013. (XII. 23.) BM rendelet 14. §-ában védetté nyilvánított 47894 nyilvántartási számú, a 15. §-ában védetté nyilvánított 68273 nyilvántartási számú, valamint a 16. §-ában védetté nyilvánított 21996 nyilvántartási számú régészeti lelőhelyek együttes megközelíthetőségét biztosító régészeti védőövezetnek jelölöm ki a Dunaújváros (Fejér vármegye), 3650, a Kisapostag (Fejér vármegye), 043/1, a 043/2 és a 061 helyrajzi számú ingatlanokat.
+
+[^29]: A 29. § a 13/2022. (XII. 27.) ÉKM rendelet 1. § b) pontja szerint módosított szöveg.
