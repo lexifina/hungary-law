@@ -1,6 +1,6 @@
 ## 9. A műszaki biztonsági hatóság kijelölése
 
-13. § (1)[^37] A Kormány – a (3) és (5) bekezdésben foglalt kivétellel – műszaki biztonsági hatóságként az 1. melléklet szerinti, műszaki biztonsági feladatkörben eljáró fővárosi és megyei kormányhivatalt jelöli ki.
+13. § (1)[^37] A Kormány – a (3) és (5) bekezdésben foglalt kivétellel – műszaki biztonsági hatóságként az 1. melléklet szerinti, műszaki biztonsági feladatkörben eljáró fővárosi és vármegyei kormányhivatalt jelöli ki.
 
 (2) Az (1) bekezdés szerinti hatóság
 
@@ -22,7 +22,7 @@ fb) a villamos energiáról szóló törvény szerint a hálózati csatlakozás 
 
 fc) a víziközmű-szolgáltatásról szóló törvény szerint az ivóvíz-bekötővezeték vagy szennyvíz-bekötővezeték üzembe helyezésének víziközmű-szolgáltató általi
 
-## megtagadása esetén az üzembe helyezés elrendelésével kapcsolatos feladatokat,
+megtagadása esetén az üzembe helyezés elrendelésével kapcsolatos feladatokat,
 
 g)[^43] eljár a cseppfolyós propán-, butángázok és ezek elegyei forgalmazására szolgáló szállítható nyomástartó berendezések kivételével a gázpalackokkal kapcsolatos rendkívüli események kivizsgálásával kapcsolatos hatósági eljárásokban,
 
@@ -58,7 +58,7 @@ m)[^52] a villamos energiáról szóló törvény szerint a bejelentett és jogo
 
 n)[^53] a mutatványos berendezések biztonságosságáról szóló miniszteri rendelet szerinti I. és II. veszélyességi osztályba tartozó mutatványos berendezések biztonságos üzemeltetésével kapcsolatos oktatásra történő feljogosításával
 
-## kapcsolatos eljárásokban.
+kapcsolatos eljárásokban.
 
 (4) A (3) bekezdés a) és b) pontjában foglalt nyilvántartás – a természetes személyazonosító és a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
@@ -66,9 +66,9 @@ n)[^53] a mutatványos berendezések biztonságosságáról szóló miniszteri r
 
 (6) A műszaki biztonsági hatóság a műszaki-biztonsági szakhatósági közreműködést igénylő ügyben az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére 6 hónapig felhasználható, előzetes szakhatósági állásfoglalást ad ki.
 
-(7) A mérésügyi és műszaki biztonsági tevékenységért jogszabály alapján befizetett igazgatási szolgáltatási díjbevétel 50%-a a fővárosi és megyei kormányhivatalokat, 50%-a Budapest Főváros Kormányhivatalát illetik meg. Budapest Főváros Kormányhivatala a díjbevételt a tárgyhónapot követő hónap 25. napjáig utalja át a jogosultak részére.
+(7)[^54] A mérésügyi és műszaki biztonsági tevékenységért jogszabály alapján befizetett igazgatási szolgáltatási díjbevétel 50%-a a fővárosi és vármegyei kormányhivatalokat, 50%-a Budapest Főváros Kormányhivatalát illetik meg. Budapest Főváros Kormányhivatala a díjbevételt a tárgyhónapot követő hónap 25. napjáig utalja át a jogosultak részére.
 
-[^37]: A 13. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (5) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^37]: A 13. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 157. § (5) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.
 [^38]: A 13. § (2) bekezdés b) pontját a 190/2020. (V. 7.) Korm. rendelet 15. §-a hatályon kívül helyezte.
 [^39]: A 13. § (2) bekezdés c) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (10) bekezdésével megállapított szöveg.
 [^40]: A 13. § (2) bekezdés d) pontja a 218/2017. (VII. 31.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
@@ -85,3 +85,4 @@ n)[^53] a mutatványos berendezések biztonságosságáról szóló miniszteri r
 [^51]: A 13. § (3) bekezdés k) pontja a 447/2021. (VII. 26.) Korm. rendelet 6. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^52]: A 13. § (3) bekezdés m) pontját a 218/2017. (VII. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^53]: A 13. § (3) bekezdés n) pontját a 198/2019. (VIII. 1.) Korm. rendelet 16. §-a iktatta be.
+[^54]: A 13. § (7) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 240. § a) pontja szerint módosított szöveg.

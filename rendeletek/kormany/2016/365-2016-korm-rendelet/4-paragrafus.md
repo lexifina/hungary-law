@@ -32,7 +32,7 @@ k) az egyes veszélyes anyagok elektromos és elektronikus berendezésekben val�
 
 l) mérőedényként használt palackok méréstechnikai követelményeinek
 
-## ellenőrzésére terjed ki.
+ellenőrzésére terjed ki.
 
 (3)[^30]
 

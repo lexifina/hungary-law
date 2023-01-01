@@ -30,7 +30,7 @@ b) 1. § (1) bekezdés k) pontjában meghatározott tevékenység, valamint
 
 c) 1. § (1) bekezdés p)–q) pontjában meghatározott tevékenység
 
-## tekintetében.
+tekintetében.
 
 (3a)[^26] Budapest Főváros Kormányhivatala (3) bekezdés c) pontjában foglalt feladatkörének ellátásához a kulturális javak forgalmával kapcsolatos, a kulturális javak hatóságát érintő szakkérdésekben a kulturális javak hatósága szakmai támogatást nyújt.
 
