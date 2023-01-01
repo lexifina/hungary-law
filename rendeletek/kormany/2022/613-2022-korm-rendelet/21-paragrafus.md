@@ -1,0 +1,1 @@
+21. § A Kvtv. 10. mellékletének 4.4.1 pontjától eltérően a támogatás a 2021. december hónapot érintő közüzemi díjak helyett a 2022. december hónapot érintő közüzemi díjak 2023. január 31-ig történő kifizetésére használható fel.

@@ -1,0 +1,3 @@
+13. § (1) A Kvtv. 26. § (2) bekezdésében és (4)–(6) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy a címrendi meghatározásokban a XVII. Technológiai és Ipari Minisztérium fejezet helyett a XVII. Energiaügyi Minisztérium fejezetet kell érteni.
+
+(2) A Kvtv. 26. § (7) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az energiapolitikáért felelős miniszternek biztosított jogkör a XVII. Technológiai és Ipari Minisztérium fejezet, 21. cím, 3. alcím, 1. A TIM tulajdonosi joggyakorlásával kapcsolatos bevételek jogcímcsoport helyett a XVII. Energiaügyi Minisztérium fejezet, 21. cím, 3. alcím, 1. Az EM tulajdonosi joggyakorlásával kapcsolatos bevételek jogcímcsoportra vonatkozik.

@@ -1,0 +1,1 @@
+6. § A Kvtv. 4. § (1) bekezdésétől eltérően – a Kvtv. 4. § (1) bekezdésében meghatározottakon túl – Céltartalék szolgál a Nemzetbiztonsági Operatív Törzs javaslata vagy az Ukrajnában kialakult fegyveres konfliktussal összefüggésben felmerült kiadások teljesítéséről rendelkező jogszabály, illetve kormányhatározat alapján felmerülő kifizetésekre.
