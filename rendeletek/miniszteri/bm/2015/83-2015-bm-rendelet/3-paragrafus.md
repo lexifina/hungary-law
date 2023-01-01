@@ -6,6 +6,6 @@ a) az elővezetendő személy meg nem találása esetén a kiindulási hely és 
 
 b) az útbaindítással történő elővezetés esetén a kiindulási hely és az útbaindítás helye közötti távolság
 
-## figyelembevételével kell megállapítani.
+figyelembevételével kell megállapítani.
 
 (3) Több személy azonos helyről ugyanazon elrendelő szerv elé történő együttes elővezetése esetén a megtérítendő költség az elővezetett személyek között egyenlően oszlik meg.
