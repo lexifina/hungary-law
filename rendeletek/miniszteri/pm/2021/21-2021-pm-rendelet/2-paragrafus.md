@@ -1,1 +1,0 @@
-## 1. § A Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.) 1. mellékletében meghatározott, a pénzügyminiszter irányítása alá tartozó központi kezelésű előirányzatok felhasználási szabályait az 1–11. melléklet tartalmazza.
