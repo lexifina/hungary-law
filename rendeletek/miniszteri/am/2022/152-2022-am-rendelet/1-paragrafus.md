@@ -1,0 +1,1 @@
+1. § A méhállomány egészségügyi kondíciójának megőrzéséhez igénybe vehető csekély összegű támogatásról szóló 29/2019. (VI. 20.) AM rendelet 4. § (1) bekezdés c) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
