@@ -1,5 +1,3 @@
-## Pécs (Sopianae) ókeresztény temetője világörökségi helyszín és védőövezete területi lehatárolása és elhelyezkedése
-
 ## A világörökségi terület határolópontjai
 
 |  | A | B | C | D |
@@ -14,7 +12,7 @@
 
 2. melléklet a 17/2018. (II. 14.) Korm. rendelethez
 
-## Pécs (Sopianae) ókeresztény temetője világörökségi terület világörökségi kezelési terve
+Pécs (Sopianae) ókeresztény temetője világörökségi terület világörökségi kezelési terve
 
 1. Alapadatok
 
@@ -252,7 +250,7 @@ d) a szervizkönyv adatainak alkalmazását a világörökségi terület állapo
 
 a) a sírépítmények területére;
 
-b) a világörökségi helyszín egyéb, a sírépítményekkel összefüggésben álló épületeire, a székesegyházra, a püspöki palotára, a plébánia épületére, a volt megyei könyvtárra, a Szent István térre.
+b)[^1] a világörökségi helyszín egyéb, a sírépítményekkel összefüggésben álló épületeire, a székesegyházra, a püspöki palotára, a plébánia épületére, a volt vármegyei könyvtárra, a Szent István térre.
 
 4.1.1.4. A világörökségi helyszín épületei 4.1.1.3. pontban felsorolt elemei tekintetében a 4.1.1.2. pont szerinti évi rendszeres ellenőrzés, a történeti értékű műrészletek kiemelt vizsgálatával kiterjed
 
@@ -366,7 +364,7 @@ ld) a hypogaeumot magába foglaló vasbeton szerkezetnek az épületgépészetet
 
 m) A XXVII. számú (festetlen) – nem látogatható (feltárás után visszatemetett) – sírkamra publikációkban történő bemutatása és a lelőhely megjelölése a nagyközönség számára.
 
-n) A XVI. számú sírépítmény bemutathatóságának vizsgálata a megyei könyvtár épületének új funkciója meghatározásától függően.
+n)[^2] A XVI. számú sírépítmény bemutathatóságának vizsgálata a vármegyei könyvtár épületének új funkciója meghatározásától függően.
 
 o) A XXII. számú sírépítmény bemutathatóságának és a Cella Septichora Látogatóközponttal való összekapcsolhatóságának vizsgálata előzetes részletes dokumentáció alapján, a Szent István tér tervezett feltárásához és a világörökségi előterjesztésben nevesített emlékek körének kiegészítéséhez kapcsolódóan.
 
@@ -422,7 +420,7 @@ a világörökségi terület bővítéséhez kapcsolódóan.
 
 5. Társadalmi-szakmai részvétel a kezelési terv alkalmazása során
 
-5.1. A kezelési tervben foglaltak végrehajtását támogató, a területen érintett országos szervek, megyei szervezetek és intézmények, illetve a helyi érdekeltek közötti kommunikáció, érdekegyeztetés és konszenzusteremtés lehetőségét az UNESCO Magyar Nemzeti Bizottságáról szóló 17/2012. (II. 16.) Korm. rendelet 11. § (1) bekezdés g) pontja szerinti szakbizottság biztosítja.
+5.1.[^3] A kezelési tervben foglaltak végrehajtását támogató, a területen érintett országos szervek, vármegyei szervezetek és intézmények, illetve a helyi érdekeltek közötti kommunikáció, érdekegyeztetés és konszenzusteremtés lehetőségét az UNESCO Magyar Nemzeti Bizottságáról szóló 17/2012. (II. 16.) Korm. rendelet 11. § (1) bekezdés g) pontja szerinti szakbizottság biztosítja.
 
 5.2. A kezelési terv végrehajtásában érintett helyi érdekeltek az 1. mellékletben meghatározott terület ingatlantulajdonosai, a területen illetékes hatóságok és államigazgatási szervek, a települési önkormányzat, a Pécsi Egyházmegye, valamint a területen tevékenységet folytató, a kiemelkedő egyetemes érték megőrzéséhez kapcsolódó célra alakult civil szervezetek, vállalkozók, illetve gazdálkodó szervek közül a világörökségi gondnokság által meghatározott érintettek.
 
@@ -457,3 +455,7 @@ együttműködésében történik a rájuk vonatkozó jogszabályok által megha
 7.3.1. A világörökségi gondnokság az 1.2. pont szerinti attribútumok részletes kifejtésére alapozott éves állapotjelentést készít az éves jelentéstételi kötelezettségének teljesítéséhez.
 
 7.3.2. Amennyiben a világörökségi gondnokság a stratégiai vagy a horizontális célok elérését figyelő monitoringrendszerben az értékek tendenciózus vagy hirtelen jelentős romlását észleli, azonnal cselekvési tervet kell készítenie a káros folyamatok megállítása érdekében.
+
+[^1]: A 2. melléklet 4.1.1.3. pont b) alpontja a 616/2022. (XII. 29.) Korm. rendelet 284. §-a szerint módosított szöveg.
+[^2]: A 2. melléklet 4.1.4. pont n) alpontja a 616/2022. (XII. 29.) Korm. rendelet 284. §-a szerint módosított szöveg.
+[^3]: A 2. melléklet 5.1. pontja a 616/2022. (XII. 29.) Korm. rendelet 284. §-a szerint módosított szöveg.
