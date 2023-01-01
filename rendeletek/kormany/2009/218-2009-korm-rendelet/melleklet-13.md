@@ -1,5 +1,3 @@
-## Az országos és kiemelt térségi területrendezési tervek készítéséhez szükséges adatbázisok és adatok
-
 |  | A | B | C | D | E |
 
 | 1. | Adatbázis | Réteg | Attribútum | Formátum | Egyéb |
@@ -20,6 +18,8 @@
 
 | 9. | MePAR | HMKÁ védett tájképi elemek | a) kiterjedéssel rendelkező HMKÁ védett tájelemek, b) pontszerű HMKÁ védett tájelemek | SHP shape |  |
 
-13. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^118]
+13. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^162]
 
-[^118]: A 13. mellékletet a 334/2017. (XI. 9.) Korm. rendelet 2. § b) pontja iktatta be, szövege a 38/2020. (III. 10.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+A vármegyei területrendezési tervek készítéséhez szükséges adatbázisok és adatok
+
+[^162]: A 13. mellékletet a 334/2017. (XI. 9.) Korm. rendelet 2. § b) pontja iktatta be, szövege a 38/2020. (III. 10.) Korm. rendelet 4. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.

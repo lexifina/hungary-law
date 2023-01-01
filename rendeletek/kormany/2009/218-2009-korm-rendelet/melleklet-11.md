@@ -1,6 +1,6 @@
-11. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^116]
+11. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^157]
 
-## A területrendezési tervek véleményezésére jogosult szervek
+A területrendezési tervek véleményezésére jogosult szervek
 
 1. A miniszterek közül a(az):
 
@@ -74,7 +74,7 @@ b) Országos Atomenergia Hivatal;
 
 10. az érintett területi államigazgatási szervek közül:
 
-a) fővárosi és megyei kormányhivatal
+a)[^158] fővárosi és vármegyei kormányhivatal
 
 aa) állami főépítészi hatáskörében,
 
@@ -94,9 +94,9 @@ b) a működési területével érintett nemzeti park igazgatóság,
 
 c) a működési területével érintett vízügyi igazgatóság,
 
-11. a szomszédos megyei önkormányzatok;
+11.[^159] a szomszédos vármegyei önkormányzatok;
 
-12. az érintett megyei önkormányzat;
+12.[^160] az érintett vármegyei önkormányzat;
 
 13. érintettsége esetén a fővárosi önkormányzat;
 
@@ -106,4 +106,7 @@ c) a működési területével érintett vízügyi igazgatóság,
 
 16. az érintett települési önkormányzatok.
 
-[^116]: A 11. melléklet a 360/2019. (XII. 30.) Korm. rendelet 76. § a) pontjával megállapított, a 825/2021. (XXII. 28.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^157]: A 11. melléklet a 360/2019. (XII. 30.) Korm. rendelet 76. § a) pontjával megállapított, a 825/2021. (XXII. 28.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^158]: A 11. melléklet 10. pont a) alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
+[^159]: A 11. melléklet 11. pontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
+[^160]: A 11. melléklet 12. pontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
