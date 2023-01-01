@@ -28,4 +28,13 @@ c) szükség esetén rendelkezik a gyám felmentéséről.
 
 (8) Ha a bíróság úgy rendelkezett, hogy a szülői felügyeletet megszüntető határozatának hatálya kihat a később született gyermekre is, a gyámhivatal megvizsgálja annak lehetőségét, hogy a gyermek másik szülője tudja-e a jövőben gyakorolni szülői felügyeleti jogát. Ha a másik szülő szülői felügyeleti jogának gyakorlása akadályozott, a gyámhivatal megvizsgálja, hogy a gyermek nevelésbe vételének vagy örökbefogadásának feltételei fennállnak-e.
 
+(9)[^85] Ha a szülői felügyeleti jog a Ptk. 4:186. § (1) bekezdés d) pontjára tekintettel szünetel és utóbb a szülői felügyeleti jog szünetelésére okot adó körülmény megszűnt, a gyámhivatal
+
+a) megállapítja a bíróság döntése alapján kizárólagos szülői felügyeletet gyakorló szülő szülői felügyeleti joga feléledését,
+
+b) felhívja az a) pont szerinti szülőt a bíróság döntésének megfelelő szülői felügyelet gyakorlására, és
+
+c) kötelezi a gyermeket gondozó szülőt a gyermek meghatározott időn belüli átadására az a) pont szerinti szülőnek.
+
 [^84]: A 19. § (1) bekezdés c) pontja a 393/2017. (XII. 13.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^85]: A 19. § (9) bekezdését a 629/2022. (XII. 30.) Korm. rendelet 4. §-a iktatta be.

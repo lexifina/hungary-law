@@ -2,7 +2,7 @@
 
 a) az ítélőképessége birtokában lévő gyermek: az a kiskorú, aki életkorának és értelmi, érzelmi fejlettségének megfelelően képes – meghallgatása során – az őt érintő tények és döntések lényegi tartalmát megérteni, várható következményeit belátni,
 
-b)[^2] törvényes képviselő: a szülői felügyeletet közösen gyakorló mindkét szülő, a szülői felügyeletet egyedül gyakorló egyik szülő, a gyám és a gondnok,
+b)[^2] törvényes képviselő: a szülői felügyeletet közösen gyakorló mindkét szülő, a szülői felügyeletet egyedül gyakorló egyik szülő, a törvényes képviselet teljes körű vagy részleges gyakorlására a szülők megállapodása alapján jogosult szülő, a vagyonkezelés és a gyermek vagyoni ügyeiben a törvényes képviselet teljes körű vagy részleges gyakorlására a bíróság által feljogosított különélő szülő, a gyám és a gondnok,
 
 c) háztartás: az egy lakásban életvitelszerűen együtt élő személyek,
 
@@ -12,12 +12,12 @@ e)[^3] környezettanulmány (helyzetértékelés): az általános közigazgatás
 
 f)[^4] szokásos tartózkodási hely: ahol az érintett személy életvitelszerűen tartózkodik,
 
-g)[^5] gyámhivatal: a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala.
+g)[^5] gyámhivatal: a fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala.
 
 h)[^6] településszintű lakóhely: a polgárok személyi adatainak és lakcímének nyilvántartásában a bejelentett település nevével (a fővárosban a kerülettel) megjelölt lakóhely.
 
-[^2]: A 2. § b) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^2]: A 2. § b) pontja a 629/2022. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^3]: A 2. § e) pontját a 315/2005. (XII. 25.) Korm. rendelet 2. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^4]: A 2. § f) pontját a 251/2006. (XII. 6.) Korm. rendelet 5. §-a iktatta be. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^5]: A 2. § g) pontját a 174/2012. (VII. 26.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § g) pontját a 174/2012. (VII. 26.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 25. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
 [^6]: A 2. § h) pontját a 235/2017. (VIII. 18.) Korm. rendelet 5. §-a iktatta be.

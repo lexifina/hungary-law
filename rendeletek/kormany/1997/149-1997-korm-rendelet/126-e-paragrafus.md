@@ -27,13 +27,3 @@ f) az előzetes jognyilatkozat szempontjából jelentőséggel bíró egyéb té
 (3) Az előzetes jognyilatkozat bejegyzése iránti gyámhivatali megkeresés tartalmazza
 
 a) az eljáró gyámhivatal megnevezését,
-
-b) az eljáró gyámhivatal székhelyét,
-
-c) a csatolt előzetes jognyilatkozatot és az előzetes jognyilatkozatot tett személy bejegyzés iránti kérelmét tartalmazó gyámhivatali jegyzőkönyv számát, keltét,
-
-d) az előzetes jognyilatkozatot tett személy természetes személyazonosító adatait és lakcímét,
-
-e) a kérelem keltének helyét, valamint idejét, és
-
-f) az eljáró gyámhivatal kiadmányozásra jogosult vezetőjének vagy ügyintézőjének aláírását.

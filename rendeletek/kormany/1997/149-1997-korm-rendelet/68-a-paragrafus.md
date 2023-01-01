@@ -1,6 +1,6 @@
-## Kiegészítő pénzbeli ellátás[^521]
+## Kiegészítő pénzbeli ellátás[^528]
 
-68/A. §[^522]
+68/A. §[^529]
 
-[^521]: A 68/A. §-t megelőző alcímet az 57/2006. (III. 21.) Korm. rendelet 7. §-a iktatta be, szövege a 98/2013. (III. 29.) Korm. rendelet 9. §-ával megállapított, a 179/2019. (VII. 18.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
-[^522]: A 68/A. §-t az 57/2006. (III. 21.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 98/2013. (III. 29.) Korm. rendelet 24. § (1) bekezdés c) pontja.
+[^528]: A 68/A. §-t megelőző alcímet az 57/2006. (III. 21.) Korm. rendelet 7. §-a iktatta be, szövege a 98/2013. (III. 29.) Korm. rendelet 9. §-ával megállapított, a 179/2019. (VII. 18.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
+[^529]: A 68/A. §-t az 57/2006. (III. 21.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 98/2013. (III. 29.) Korm. rendelet 24. § (1) bekezdés c) pontja.
