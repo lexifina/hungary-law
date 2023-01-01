@@ -1,1 +1,3 @@
-## 11. § Ha a jegyző a birtokvédelmi eljárást az eljárási határidőn belül nem folytatja le, az illetékes fővárosi és megyei kormányhivatal – az arról történő tudomásszerzést követő nyolc napon belül – határozatával másik jegyzőt jelöl ki a birtokvédelmi eljárás lefolytatására, és ezzel egyidejűleg fegyelmi eljárást kezdeményez a mulasztó jegyző ellen a polgármesternél.
+12. §[^9] A fővárosi és vármegyei kormányhivatal határozata a jegyző birtokvédelmi határozata elleni jogorvoslatban támadható meg.
+
+[^9]: A 12. § a 616/2022. (XII. 29.) Korm. rendelet 205. §-a szerint módosított szöveg.

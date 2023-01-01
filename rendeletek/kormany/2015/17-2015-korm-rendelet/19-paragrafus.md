@@ -10,7 +10,7 @@ c) az ügy tárgyának megjelölését,
 
 d) a rendelkező részben
 
-da)[^7] a döntést, a jogorvoslat lehetőségéről, benyújtásának helyéről és a határidejéről való tájékoztatást,
+da)[^11] a döntést, a jogorvoslat lehetőségéről, benyújtásának helyéről és a határidejéről való tájékoztatást,
 
 db) a kérelemnek helyt adó határozat esetén a kötelezettség teljesítése elmaradásának jogkövetkezményeit,
 
@@ -28,7 +28,7 @@ ed) az eljáró szerv hatáskörét és illetékességét megállapító jogszab
 
 f) a határozathozatal helyét és idejét,
 
-g)[^8] a határozat kiadmányozójának nevét, aláírását vagy elektronikus aláírását és az eljáró szerv bélyegzőlenyomatát vagy elektronikus bélyegzőjét.
+g)[^12] a határozat kiadmányozójának nevét, aláírását vagy elektronikus aláírását és az eljáró szerv bélyegzőlenyomatát vagy elektronikus bélyegzőjét.
 
-[^7]: A 19. § d) pont da) alpontja a 668/2020. (XII. 28.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^8]: A 19. § g) pontja a 477/2016. (XII. 27.) Korm. rendelet 78. § (4) bekezdésével megállapított szöveg.
+[^11]: A 19. § d) pont da) alpontja a 668/2020. (XII. 28.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^12]: A 19. § g) pontja a 477/2016. (XII. 27.) Korm. rendelet 78. § (4) bekezdésével megállapított szöveg.

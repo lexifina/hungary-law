@@ -1,5 +1,3 @@
-## 12. § A fővárosi és megyei kormányhivatal határozata a jegyző birtokvédelmi határozata elleni jogorvoslatban támadható meg.
-
 ## 7. A tényállás tisztázása
 
 13. § (1) A birtokvita eldöntéséhez szükséges tényállás megállapítása során a jegyző a felek által előterjesztett, valamint a bizonyítási eljárás során megismert bizonyítékokat szabadon mérlegeli.
