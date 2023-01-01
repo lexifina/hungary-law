@@ -1,0 +1,3 @@
+1. §[^2] A fogyasztóvédelmi hatóság által a fogyasztóvédelemről szóló 1997. évi CLV. törvény 47. § (1) bekezdés i) pontja, valamint a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény 15. § (2) bekezdés h) pontja alapján kiszabott bírságot a Pest Vármegyei Kormányhivatal (a továbbiakban: kormányhivatal) Magyar Államkincstárnál – a 10023002-01040030-00000000 számlaszámon – vezetett bírság és egyéb központosított bevételek beszedési számlájára kell befizetni.
+
+[^2]: Az 1. § a 210/2018. (XI. 20.) Korm. rendelet 6. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 142. §-a szerint módosított szöveg.
