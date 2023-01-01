@@ -1,6 +1,6 @@
-7. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^91]
+7. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^102]
 
-## A szakpolitikai intézkedéssel megvalósuló energiamegtakarítás kiszámításának módszerei és elvei
+A szakpolitikai intézkedéssel megvalósuló energiamegtakarítás kiszámításának módszerei és elvei
 
 1. Az energiahatékonyságról szóló 2015. évi LVII. törvény 13. § (1) bekezdés b)-h) pontja szerinti szakpolitikai intézkedéssel megvalósuló energiamegtakarítás kiszámításához a kötelezett fél, a résztvevő, a megbízott fél vagy a végrehajtó hatóság az alábbi módszerek egyikét alkalmazhatja:
 
@@ -100,4 +100,4 @@ korábbi, függetlenül ellenőrzött energiafejlesztések eredményeire tett hi
 
 6.5. a számítás módja, beleértve az alkalmazott árrugalmasságot és megállapításának módját.
 
-[^91]: A 7. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^102]: A 7. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.

@@ -1,5 +1,3 @@
-## 7/C. §[^18]
-
 7/D. § (1) A Nemzeti Energetikusi Hálózat közintézményekkel kapcsolatos feladatai körében
 
 a) a közintézmények számára ingyenes energetikai tanácsadást biztosít,
@@ -14,7 +12,7 @@ e)[^20] szakmai segítséget nyújt a közintézményi tulajdonban és használa
 
 f)[^21] közreműködik a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület használóinak energiahatékonysági szemléletformálásában,
 
-g) közreműködik a megyei területfejlesztési program kidolgozásában,
+g)[^22] közreműködik a vármegyei területfejlesztési program kidolgozásában,
 
 h) megkeresés esetén közreműködik energiabeszerzési szerződések megkötésénél,
 
@@ -22,16 +20,16 @@ i) megkeresés esetén a közintézmény érdekében tanácsot ad energiabeszerz
 
 j) megkeresés esetén szakmai támogatást nyújt energetikai beszerzések esetén.
 
-(2)[^22]
+(2)[^23]
 
-(3)[^23]
+(3)[^24]
 
-(4)[^24]
+(4)[^25]
 
-[^18]: A 7/C. §-t a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
 [^19]: A 7/D. § (1) bekezdés d) pontja a 80/2019. (IV. 15.) Korm. rendelet 39. § b) pontja szerint módosított szöveg.
 [^20]: A 7/D. § (1) bekezdés e) pontja a 80/2019. (IV. 15.) Korm. rendelet 39. § b)–c) pontja szerint módosított szöveg.
 [^21]: A 7/D. § (1) bekezdés f) pontja a 80/2019. (IV. 15.) Korm. rendelet 39. § b) pontja szerint módosított szöveg.
-[^22]: A 7/D. § (2) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
-[^23]: A 7/D. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
-[^24]: A 7/D. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^22]: A 7/D. § (1) bekezdés g) pontja a 616/2022. (XII. 29.) Korm. rendelet 210. §-a szerint módosított szöveg.
+[^23]: A 7/D. § (2) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^24]: A 7/D. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^25]: A 7/D. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 142. § (3) bekezdés b) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.

@@ -1,5 +1,3 @@
-## Az energetikai auditálási tevékenység folytatásához szükséges képesítési követelmények
-
 |  | A | B | C |
 
 | 1. | Képzési terület megnevezése | Mesterképzési szak/Osztatlan szak megnevezése | Mesterképzésben/osztatlan képzésben szerzett szakképzettségek megnevezése |
@@ -26,7 +24,7 @@
 
 | 12. | Agrár | Mezőgazdasági és élelmiszeripari gépészmérnöki | okleveles mezőgazdasági és élelmiszeripari gépészmérnök vagy ezzel egyenértékű szakképzettség |
 
-12. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^96]
+12. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^107]
 
 Az energetikai auditálási tevékenység folytatásához szükséges szakmai gyakorlati idő meghatározása
 
@@ -38,4 +36,4 @@ Az energetikai auditálási tevékenység folytatásához szükséges szakmai gy
 
 | 3. | Alapképzésben szerzett energetikai mérnök, vagy gépészmérnök, vagy villamosmérnök, vagy építészmérnök, vagy építőmérnök, vagy előzőekkel egyenértékű szakképzettség esetén | 8 év |
 
-[^96]: A 12. mellékletet a 393/2016. (XII. 5.) Korm. rendelet 15. § (4) bekezdése iktatta be.
+[^107]: A 12. mellékletet a 393/2016. (XII. 5.) Korm. rendelet 15. § (4) bekezdése iktatta be.

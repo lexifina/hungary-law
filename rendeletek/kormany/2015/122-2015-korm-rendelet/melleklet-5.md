@@ -1,6 +1,6 @@
 5. melléklet a 122/2015. (V. 26.) Korm. rendelethez
 
-## A végfelhasználási energiamegtakarítás számítási alapját képező energiamennyiség kiszámítására vonatkozó számítási módszer, valamint a végfelhasználási energiamegtakarítás mértékének csökkentésére vonatkozó szabályok
+A végfelhasználási energiamegtakarítás számítási alapját képező energiamennyiség kiszámítására vonatkozó számítási módszer, valamint a végfelhasználási energiamegtakarítás mértékének csökkentésére vonatkozó szabályok
 
 1. A végfelhasználási energiamegtakarítás számítási alapját képező energiamennyiség megállapításakor a bázisévekben értékesített energiamennyiségből részben vagy teljesen kihagyható a közlekedésben felhasznált energiavolumen.
 

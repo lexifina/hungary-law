@@ -4,4 +4,6 @@
 
 ## 2.[^2]
 
+2. §
+
 [^2]: A 2. alcímet (2. §) a 715/2020. (XII. 30.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.

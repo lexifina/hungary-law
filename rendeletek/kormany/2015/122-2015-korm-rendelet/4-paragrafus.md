@@ -1,5 +1,3 @@
-## 3. §
-
 ## 4. A nagy hatásfokú kapcsolt energiatermelés és a hatékony távfűtés, távhűtésmegvalósíthatósági potenciáljának átfogó értékelése és az intézményi szintű költség-haszon elemzés
 
 4. § (1)[^4] A fűtés és hűtés hatékonysági potenciálja átfogó értékelésének kötelező tartalmi elemeit a 3. melléklet tartalmazza.

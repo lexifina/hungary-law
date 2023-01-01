@@ -1,6 +1,6 @@
 ## 11. Az energetikai auditálási tevékenység folytatásának egyes szabályai
 
-14. § (1)[^40] Az energetikai auditor vagy energetikai auditáló szervezet általi auditálás esetén az energetikai auditáló szervezet felelős
+14. § (1)[^41] Az energetikai auditor vagy energetikai auditáló szervezet általi auditálás esetén az energetikai auditáló szervezet felelős
 
 a) a jogszabályi előírásoknak való megfelelésért,
 
@@ -14,4 +14,4 @@ c) a valós állapotnak megfelelő tartalomért.
 
 (4) Az energetikai auditor, illetve energetikai auditáló szervezet általi auditálás esetén az energetikai auditor és az energetikai auditáló szervezet is köteles az energetikai auditot, valamint az azt alátámasztó dokumentációt (számítást) a megbízónak történő átadástól számított 10 évig megőrizni.
 
-[^40]: A 14. § (1) bekezdése a 393/2016. (XII. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^41]: A 14. § (1) bekezdése a 393/2016. (XII. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
