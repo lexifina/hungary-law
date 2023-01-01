@@ -2,7 +2,7 @@
 
 ## ingatlan-nyilvántartási helyrajzi számai
 
-## Veszprém megye
+## Veszprém vármegye
 
 ## Doba
 
