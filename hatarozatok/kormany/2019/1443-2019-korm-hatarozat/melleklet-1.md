@@ -4,21 +4,7 @@
 
 ## 3. a Beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés b), c), k), l), n), o) és p) pontja szerinti előkészítési fázisaira – a kifizetéshez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 638 226 000 forint forrást biztosít a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére azzal, hogy az előkészítési fázisokat legkésőbb 2021. november 1. napjáig kell megvalósítani;
 
-## 4.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, a Beruházás előkészítési feladatainak finanszírozása érdekében – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és a kincstári díjakkal együtt – összesen 638 226 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelési előirányzatok cím, 28. Gazdasági társaságok által ellátott feladatok támogatása alcím javára az 1. melléklet szerint, elszámolási, valamint a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
-
-## A fel nem használt rész visszafizetése tekintetében
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: 2022. május 31.
+## 4.[^1]
 
 ## 5. egyetért azzal, hogy
 
@@ -33,6 +19,8 @@
 ## 7. egyetért azzal, hogy a Beruházással létrejövő létesítmény vagyonkezelője és üzemeltetője a Honvéd Együttes Művészeti Nonprofit Korlátolt Felelősségű Társaság legyen.
 
 1. melléklet az 1443/2019. (VII. 26.) Korm. határozathoz
+
+9K05395_0
 
 | XV. Pénzügyminisztérium |
 
@@ -104,5 +92,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
-[^1]: A 4. pont az 1600/2021. (VIII. 16.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^2]: A 6. pontot az 1600/2021. (VIII. 16.) Korm. határozat 4. pont a) alpontja visszavonta.

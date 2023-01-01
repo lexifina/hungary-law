@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1443-30
 | --- | --- | --- |
 | 2019-07-26 | 2019-1443-30-22.1 | 1443/2019. (VII. 26.) Korm. határozat |
 | 2021-08-16 | 2019-1443-30-22.2 | 1600/2021. (VIII. 16.) Korm. határozat |
+| 2023-01-01 | 2019-1443-30-22.3 | 2011: CXCV. törvény |
