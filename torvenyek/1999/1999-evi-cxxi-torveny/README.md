@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-121-00-00
 | 2022-01-01 | 2021. évi XXXIX. törvény | 1999-121-00-00.33 |
 | 2022-05-25 | 2022. évi IV. törvény | 1999-121-00-00.34 |
 | 2022-07-28 | 2022. évi XXIV. törvény | 1999-121-00-00.35 |
+| 2023-01-01 | 2022. évi XXII. törvény | 1999-121-00-00.36 |

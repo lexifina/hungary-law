@@ -12,10 +12,10 @@ c) kézműipari tevékenység: az a tevékenység, amely a gazdálkodó szerveze
 
 d)
 
-e) országos gazdasági érdek-képviseleti szervezet: gazdasági érdek-képviseleti célra létrehozott olyan egyesület, illetve egyesületek szövetsége, amelynek legalább 10 megyére vagy legalább 9 megyére és a fővárosra kiterjedően van tagsága;
+e) országos gazdasági érdek-képviseleti szervezet: gazdasági érdek-képviseleti célra létrehozott olyan egyesület, illetve egyesületek szövetsége, amelynek legalább 10 vármegyére vagy legalább 9 vármegyére és a fővárosra kiterjedően van tagsága;
 
 f) képviseletre jogosult természetes személy: az egyéni vállalkozó, a gazdálkodó szervezet tagja (részvényese), vezető tisztségviselője, illetőleg alkalmazottja, továbbá az egyéni vállalkozó alkalmazottja és segítő családtagja;
 
 g) gazdasági kamara: a kereskedelmi és iparkamara területi és országos szervezetei, továbbá az agrárkamara;
 
-h) területi gazdasági kamaraterületi gazdasági kamara>: a megyei (fővárosi) és a megyeszékhelyen kívüli megyei jogú városi kamara.
+h) területi gazdasági kamaraterületi gazdasági kamara>: a vármegyei (fővárosi) és a vármegyeszékhelyen kívüli megyei jogú városi kamara.

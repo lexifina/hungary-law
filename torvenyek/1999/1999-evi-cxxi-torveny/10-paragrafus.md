@@ -16,7 +16,7 @@ f) együttműködnek a fogyasztóvédelmi hatósággal és a Gazdasági Versenyh
 
 g) minősítő és ellenőrzési rendszereket működtetnek;
 
-h) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) alapján törvényességi felügyeleti eljárást kezdeményezhetnek, illetve a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál (a továbbiakban: járási hivatal) az egyéni vállalkozói tevékenység megszüntetését kezdeményezhetik és a járási hivatal az egyéni vállalkozói tevékenység megszüntetéséről az egyéni vállalkozó székhelye szerinti jegyzőt értesíti,
+h) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) alapján törvényességi felügyeleti eljárást kezdeményezhetnek, illetve a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalánál (a továbbiakban: járási hivatal) az egyéni vállalkozói tevékenység megszüntetését kezdeményezhetik és a járási hivatal az egyéni vállalkozói tevékenység megszüntetéséről az egyéni vállalkozó székhelye szerinti jegyzőt értesíti,
 
 i) működtetik a fogyasztóvédelemről szóló 1997. évi CLV. törvény alapján működő békéltető testületeket;
 
