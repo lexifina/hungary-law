@@ -65,3 +65,9 @@ kell figyelembe venni.
 (26) Ha az érintett jogviszonya 2019. december 1. után jött létre, a (25) bekezdés alkalmazása során a kinevezési okirata szerinti illetményét kell figyelembe venni.
 
 (27) Az érintett (15) bekezdés alapján megállapított illetménye és az érintettnek a 2020. január–április hónap után az ugyanazon munkáltatótól származó illetménye közötti különbözetet az érintett 2020. májusi illetményével egyidejűleg kell kifizetni.
+
+(28) E törvénynek az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2022. évi LXXIV. törvénnyel (a továbbiakban: Módtv.) megállapított 10. § (5) bekezdését a Módtv. hatálybalépését követő igényérvényesítés esetén kell alkalmazni.
+
+(29) A köztisztviselő a 2022. augusztus 2. és 2022. december 31. között született vagy örökbefogadott gyermeke után a Módtv. hatálybalépésétől számított két hónapon belül jogosult a 47. § (11a) bekezdése szerinti apai munkaidő-kedvezményt igénybe venni.
+
+(30) Ha a köztisztviselő gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, a szülői szabadságot – a köztisztviselő kérésének megfelelő időpontban – legkésőbb 2023. június 30-ig kell kiadni.

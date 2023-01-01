@@ -68,4 +68,22 @@ m) a munkáltató engedélye alapján,
 
 n) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra.
 
-(12) A (11) bekezdés n) pontja szerinti esetben a köztisztviselőt a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a köztisztviselő legalább öt munkanappal korábban tájékoztatja a munkáltatót.
+o) a súlyos egészségi okból gondozásra szoruló hozzátartozójának vagy a köztisztviselővel közös háztartásban élő személynek nyújtott személyes gondozás céljából évente legfeljebb öt munkanapra.
+
+(11a) Mentesül az apa a rendelkezésre állási és a munkavégzési kötelezettségének teljesítése alól legkésőbb
+
+a) a gyermeke születését követő, vagy
+
+b) gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő
+
+második hónap végéig két munkanapra.
+
+(11b) A (11a) bekezdés szerinti munkaidő-kedvezmény az apát akkor is megilleti, ha a gyermek halva születik vagy meghal.
+
+(11c) Nem jogosult az apa a (11a) bekezdés szerinti munkaidő-kedvezményre, ha a 63. § (12) vagy (12a) bekezdése alapján tíz munkanap pótszabadságra jogosult.
+
+(11d) A (11a) bekezdés szerinti munkaidő-kedvezményt a jogosult kérésének megfelelő időpontban, legfeljebb két részletben kell biztosítani.
+
+(12) A (11) bekezdés n) pontja szerinti esetben a köztisztviselőt a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni a rendelkezésre állási, illetve munkavégzési kötelezettség teljesítése alól. Az igénybevételről a köztisztviselő legalább öt munkanappal korábban tájékoztatja a munkáltatót.
+
+(13) A (11) bekezdés o) pontja szerinti esetben a köztisztviselőt a kérésének megfelelő időpontban – a gondozás indokoltságáról szóló igazolás bemutatását követően –, legfeljebb két részletben kell mentesíteni a rendelkezésre állási, illetve munkavégzési kötelezettség teljesítése alól. A gondozás indokoltságát a gondozásra szoruló személy kezelőorvosa igazolja.

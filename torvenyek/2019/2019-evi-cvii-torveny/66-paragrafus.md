@@ -14,7 +14,7 @@
 
 (7) A köztisztviselő a gyermeke harmadik életéve betöltéséig – a gyermek gondozása céljából – fizetés nélküli szabadságra jogosult, amelyet a köztisztviselő kérésének megfelelő időpontban kell kiadni.
 
-(8) A köztisztviselő – örökbe fogadott gyermeke gondozása céljából – a gyermek gondozásba történő kihelyezésének kezdő időpontjától számított három évig, de legfeljebb a gyermek tankötelezetté válásának időpontjáig fizetés nélküli szabadságra jogosult, amelyet a köztisztviselő kérésének megfelelő időpontban kell kiadni.
+(8) A köztisztviselő – örökbe fogadott gyermeke gondozása céljából – az örökbefogadást engedélyező határozat véglegessé válásának időpontjától számított három évig, de legfeljebb a gyermek tankötelezetté válásának időpontjáig fizetés nélküli szabadságra jogosult, amelyet a köztisztviselő kérésének megfelelő időpontban kell kiadni.
 
 (9) Az (1)–(8) bekezdésben meghatározott szabadság megszűnik
 

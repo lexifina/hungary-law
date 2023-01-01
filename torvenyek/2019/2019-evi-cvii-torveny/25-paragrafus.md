@@ -14,7 +14,7 @@ e) munkaidejét,
 
 f) közszolgálati jogviszonya kezdetének napját,
 
-g) közszolgálati jogviszonya időtartamát,
+g) közszolgálati jogviszonya – határozott időre létesített közszolgálati jogviszony esetén a jogviszony 23. § (3) bekezdése figyelembevételével meghatározott – időtartamát,
 
 h) próbaidejének kezdő és befejező napját,
 
@@ -32,8 +32,12 @@ i) foglalkoztató különleges jogállású szerv és szervezeti egység megneve
 
 (7) A kinevezésben – a 28. § (4) bekezdésében, a 37. §-ban és a 38. § (5) bekezdésében meghatározott eset, valamint a (10) bekezdés kivételével – a közszolgálati jogviszony létesítésekor legalább három, de legfeljebb hat hónapig terjedő próbaidőt kell kikötni.
 
+(7a) A határozott idejű közszolgálati jogviszony meghosszabbítása esetén azonos vagy hasonló feladatkörben történő foglalkoztatás esetén újabb próbaidő nem köthető ki.
+
 (8) A próbaidő nem hosszabbítható meg.
 
 (9) A próbaidő alatt a közszolgálati jogviszonyt bármelyik fél indokolás nélkül azonnali hatállyal megszüntetheti.
 
 (10) A három hónapnál rövidebb idejű kinevezés esetén a felek megállapodhatnak a próbaidő kikötéséről azzal, hogy a próbaidő legfeljebb a határozott idejű kinevezés időtartamának a fele lehet.
+
+(11) A próbaidő leghosszabb tartamát a (10) bekezdés alá nem tartozó, legfeljebb tizenkét hónapra létesített közszolgálati jogviszony esetén – a (7) bekezdésben foglaltak figyelembevételével – arányosan kell megállapítani. Ennek során a 64. § (19) bekezdését kell alkalmazni.

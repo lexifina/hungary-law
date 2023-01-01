@@ -1,6 +1,6 @@
 ### 64. § [A szabadság kiadása]
 
-(1) A szabadságot az esedékességének évében kell kiadni és kivenni.
+(1) A szabadságot – a 63. § (12)–(14) bekezdése szerinti pótszabadság, valamint a 66/A. § szerinti szabadság kivételével – az esedékességének évében kell kiadni és kivenni.
 
 (2) A munkáltató
 
@@ -24,11 +24,11 @@ nem biztosítható.
 
 (5) A szabadság felével a köztisztviselő rendelkezik.
 
-(6) A pótszabadság – a 63. § (9), (12)–(14) bekezdése szerinti pótszabadság kivételével – abban az esetben adható ki és vehető igénybe, ha az alapszabadság már kiadásra került.
+(6) A pótszabadság – a 63. § (9), (12)–(14) bekezdése, valamint a 66/A. § szerinti pótszabadság kivételével – abban az esetben adható ki és vehető igénybe, ha az alapszabadság már kiadásra került.
 
 (7) A munkáltató a köztisztviselőt – a (3) bekezdésben foglaltakra figyelemmel – megfelelő időn belül tájékoztatja a még igénybe nem vett szabadság mértékéről és az igénybevétel lehetőségének határidejéről.
 
-(8) A munkáltató a köztisztviselő már megkezdett szabadságát kivételesen fontos érdekből megszakíthatja. Ebben az esetben a szabadság alatti tartózkodási helyről a munkahelyre, illetve a visszautazással, valamint a munkával töltött idő a szabadságba nem számít be. A köztisztviselőnek a megszakítással összefüggésben felmerült kárát, illetve költségeit a különleges jogállású szerv köteles megtéríteni.
+(8) A munkáltató a köztisztviselő már megkezdett szabadságát – a 66/A. § szerinti szabadság kivételével – kivételesen fontos érdekből megszakíthatja. Ebben az esetben a szabadság alatti tartózkodási helyről a munkahelyre, illetve a visszautazással, valamint a munkával töltött idő a szabadságba nem számít be. A köztisztviselőnek a megszakítással összefüggésben felmerült kárát, illetve költségeit a különleges jogállású szerv köteles megtéríteni.
 
 (9) A szabadság kiadásánál a munkarend (munkaidő-beosztás) szerinti munkanapokat kell figyelembe venni.
 
@@ -38,7 +38,7 @@ nem biztosítható.
 
 (12) A szabadság megváltásával kapcsolatos köztisztviselői igény elévülése a közszolgálati jogviszony megszűnésének napján kezdődik.
 
-(13) A közszolgálati jogviszony megszűnése és megszüntetése esetén, ha a munkáltató az arányos szabadságot nem adta ki, az arányos szabadságot – ha a köztisztviselőnek van fennmaradó szabadsága – a jogviszony megszűnését követő 40. napon kell megváltani, kivéve, ha a közszolgálati jogviszony megszűnését vagy megszüntetését követően létrehozott jogviszonyt a 37. § (5) bekezdése vagy a 38. § (5) bekezdése alapján folyamatosnak kell tekinteni.
+(13) A közszolgálati jogviszony megszűnése és megszüntetése esetén, ha a munkáltató az arányos szabadságot – a 66/A. § szerinti szabadság kivételével – nem adta ki, az arányos szabadságot – ha a köztisztviselőnek van fennmaradó szabadsága – a jogviszony megszűnését követő 40. napon kell megváltani, kivéve, ha a közszolgálati jogviszony megszűnését vagy megszüntetését követően létrehozott jogviszonyt a 37. § (5) bekezdése vagy a 38. § (5) bekezdése alapján folyamatosnak kell tekinteni.
 
 (14) Annak a köztisztviselőnek, akinek a munkaidő-beosztása nem biztosít hetenként két pihenőnapot, úgy kell számítani a szabadságát, hogy azonos naptári időszakra (hétre) mentesüljön a munkavégzés alól, mint az ötnapos munkahéttel dolgozók.
 

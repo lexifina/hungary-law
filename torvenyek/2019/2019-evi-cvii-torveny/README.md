@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-107-00-00
 | 2022-07-28 | 2022. évi XXIV. törvény | 2019-107-00-00.11 |
 | 2022-10-11 | 2022. évi XXVII. törvény | 2019-107-00-00.12 |
 | 2022-10-13 | 2022. évi XXIX. törvény | 2019-107-00-00.13 |
+| 2023-01-01 | 2022. évi LXXIV. törvény | 2019-107-00-00.14 |

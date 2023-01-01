@@ -33,3 +33,13 @@ j) biztosítani annak lehetőségét, hogy a köztisztviselő érdekképviseleti
 (4) A munkáltató köteles ingyenesen biztosítani a köztisztviselő alkalmassági vizsgálatát a munkába lépést megelőzően és a közszolgálati jogviszony fennállása alatt.
 
 (5) A különleges jogállású szerv hivatali szervezetének vezetője köteles az e törvényben meghatározott kérdésekben, valamint az általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben közszolgálati szabályzatot kiadni.
+
+(6) A különleges jogállású szerv hivatali szervezetének vezetője közszolgálati szabályzatban határozza meg
+
+a) a közszolgálati jogviszony létesítéséhez kapcsolódóan a köztisztviselőt terhelő kötelezettségeket,
+
+b) a munkáltatói jogkör gyakorlóját a kinevezéssel kapcsolatban és a közszolgálati jogviszony fennállása alatt a kinevezéstől eltérő ideiglenes foglalkoztatás megállapításával kapcsolatban terhelő kötelezettségekre vonatkozó részletes szabályokat,
+
+c) a részmunkaidőben történő foglalkoztatás lehetőségével összefüggő munkáltatói kötelezettségeket, valamint az atipikus foglalkoztatási formákhoz kapcsolódó tájékoztatási kötelezettségeket,
+
+d) az atipikus foglalkoztatási formára való áttérés köztisztviselő általi kezdeményezésére és a kérelem elbírálására vonatkozó szabályokat.

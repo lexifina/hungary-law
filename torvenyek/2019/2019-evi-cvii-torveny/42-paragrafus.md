@@ -18,6 +18,8 @@ g) a hozzátartozó otthoni gondozása céljából kapott fizetés nélküli sza
 
 h) az unoka gondozása céljából igénybe vett fizetés nélküli szabadság
 
+i) a 47. § (11) bekezdés o) pontja és (11a) bekezdése szerinti mentesülés, valamint a 66/A. § szerinti szabadság
+
 időtartama alatt.
 
 (2) Az (1) bekezdés szerinti védelem alkalmazása szempontjából a felmentés közlésének időpontja az irányadó.

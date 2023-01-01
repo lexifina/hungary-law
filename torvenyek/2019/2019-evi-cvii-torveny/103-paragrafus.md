@@ -8,6 +8,8 @@
 
 1. álláshely: a különleges jogállású szervnél rendelkezésre álló humánerőforrás feladatközpontú elosztásának eszköze;
 
+1a. apa: a Ptk. szerint szülői felügyelettel rendelkező apai jogállású férfi vagy örökbefogadó férfi;
+
 2. beosztás szerinti heti munkaidő: a hétre elrendelt rendes munkaidő;
 
 3. beosztás szerinti napi munkaidő: a munkanapra elrendelt rendes munkaidő;
@@ -20,7 +22,7 @@
 
 7. fogyatékkal élő gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra;
 
-8. gyermek: a családok támogatására vonatkozó szabályok szerinti saját háztartásban nevelt vagy gondozott gyermek;
+8. gyermek: a családok támogatásáról szóló törvény szerinti saját háztartásban nevelt vagy gondozott gyermek, ideértve, ha a különélő szülők a közös szülői felügyelet gyakorlásakor a gyermeket saját háztartásukban egymást felváltva, azonos időtartamban nevelik, gondozzák;
 
 9. gyermekét egyedül nevelő köztisztviselő: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa;
 
