@@ -1,6 +1,6 @@
 12. melléklet a 443/2013. (XI. 27.) Korm. rendelethez
 
-## A határon átnyúló fémkereskedelmi tevékenységet folytató fémkereskedő fémkereskedelmi tevékenységéről szóló eseti napi bejelentés adattartalma
+A határon átnyúló fémkereskedelmi tevékenységet folytató fémkereskedő fémkereskedelmi tevékenységéről szóló eseti napi bejelentés adattartalma
 
 1. Főlap (a bejelentő adatai):
 

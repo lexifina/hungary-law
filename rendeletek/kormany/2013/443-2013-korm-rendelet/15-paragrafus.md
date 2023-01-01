@@ -14,7 +14,7 @@ c) együttműködik az ellenőrzést végzőkkel és részükre a szükséges fe
 
 (4)[^34] Figyelemmel a Fémtv. 14. § (2b) bekezdésében meghatározottakra, a zár alá vett dolgok tárolásával érintett fémkereskedő az árverés, elektronikus árverés során köteles a fémkereskedelmi hatósággal együttműködni.
 
-(5)[^35] A Fémtv. 4. § (11) bekezdése alapján a NAV megyei (fővárosi) adó- és vámigazgatósága, valamint a Kiemelt Adó- és Vámigazgatóság felkéri az illetékességi területén tevékenységet végző, sorsolással kiválasztott fémkereskedő(ke)t, hogy szolgáltasson adatot a fémkereskedelmi engedélyköteles anyagok fajtái szerint a jogi személyek által értékesített fémkereskedelmi engedélyköteles anyagok vételárával kapcsolatosan.
+(5)[^35] A Fémtv. 4. § (11) bekezdése alapján a NAV vármegyei (fővárosi) adó- és vámigazgatósága, valamint a Kiemelt Adó- és Vámigazgatóság felkéri az illetékességi területén tevékenységet végző, sorsolással kiválasztott fémkereskedő(ke)t, hogy szolgáltasson adatot a fémkereskedelmi engedélyköteles anyagok fajtái szerint a jogi személyek által értékesített fémkereskedelmi engedélyköteles anyagok vételárával kapcsolatosan.
 
 [^34]: A 15. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 467. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^35]: A 15. § (5) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 43. § c) pontja szerint módosított szöveg.
+[^35]: A 15. § (5) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 43. § c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 170. §-a szerint módosított szöveg.

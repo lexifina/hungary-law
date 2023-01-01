@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-443-20-
 | 2016-07-01 | 2013-443-20-22.9 | 136/2016. (VI. 13.) Korm. rendelet |
 | 2018-01-01 | 2013-443-20-22.10 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2021-01-15 | 2013-443-20-22.11 | 713/2020. (XII. 30.) Korm. rendelet |
+| 2023-01-01 | 2013-443-20-22.12 | 486/2015. (XII. 29.) Korm. rendelet |

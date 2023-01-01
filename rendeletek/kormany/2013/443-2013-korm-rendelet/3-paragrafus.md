@@ -26,7 +26,7 @@ f) mellékletként az átadott fémkereskedelmi engedélyköteles anyagról beaz
 
 (7) A Fémtv. 3. § (6) bekezdésében meghatározott írásbeli szerződés a telephely fenntartása nélkül fémkereskedelmi tevékenységet folytató fémkereskedővel nem köthető.
 
-(8)[^6] A fémkereskedelmi hatóság a NAV illetékes megyei (fővárosi) adó- és vámigazgatóságainak elérhetőségét honlapján közzéteszi.
+(8)[^6] A fémkereskedelmi hatóság a NAV illetékes vármegyei (fővárosi) adó- és vámigazgatóságainak elérhetőségét honlapján közzéteszi.
 
 (9) A Fémtv. 3. § (7) bekezdésében meghatározott bejelentésben a fémkereskedőre vonatkozó adatok megadása során a beazonosítás érdekében a fémkereskedő telephelye engedélyszámát meg kell adni. A fémkereskedők adatai a fémkereskedelmi hatóság honlapján, a Fémtv. 4. § (10) bekezdésében meghatározott közhiteles nyilvántartásban elérhetőek.
 
@@ -60,5 +60,5 @@ b) a fémkereskedő engedélyének (telephely engedélyének) számát, kivéve 
 [^3]: A 3. § (3) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 41. § a) pontja hatályon kívül helyezte.
 [^4]: A 3. § (4) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 43. § a) pontja, a 713/2020. (XII. 30.) Korm. rendelet 40. § b) pontja szerint módosított szöveg.
 [^5]: A 3. § (6) bekezdés a) pontja a 713/2020. (XII. 30.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^6]: A 3. § (8) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § (8) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 43. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 170. §-a szerint módosított szöveg.
 [^7]: A 3. § (13) bekezdés nyitó szövegrésze a 713/2020. (XII. 30.) Korm. rendelet 40. § c) pontja szerint módosított szöveg.

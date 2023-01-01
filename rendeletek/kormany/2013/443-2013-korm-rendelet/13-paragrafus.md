@@ -14,13 +14,13 @@
 
 (6) A fémkereskedő a telephelyen tárolt, raktározott fémkereskedelmi engedélyköteles anyagok beszerzésére vonatkozó okiratokat – ideértve az anyagkísérő okmányokat, pótlapokat, szállítólevelet – és nyilvántartásokat köteles a helyszínen másolatban őrizni.
 
-(7)[^32] A fémkereskedő a fémkereskedelmi engedélyköteles anyagok mérlegeléséhez csak a mérésügyi feladatkörében eljáró fővárosi és megyei kormányhivatal által hitelesített mérleget használhat. A fémkereskedő az anyagmozgatást szolgáló technikai eszközöket és személyzetet köteles biztosítani a fémkereskedelmi hatóság ellenőrzése során.
+(7)[^32] A fémkereskedő a fémkereskedelmi engedélyköteles anyagok mérlegeléséhez csak a mérésügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal által hitelesített mérleget használhat. A fémkereskedő az anyagmozgatást szolgáló technikai eszközöket és személyzetet köteles biztosítani a fémkereskedelmi hatóság ellenőrzése során.
 
 (8) Az ellenőrzést végző fémkereskedelmi hatóság köteles jegyzőkönyvben rögzíteni, ha az ellenőrzés során a mérőeszköz mérési pontatlansága az 5%-ot meghaladja.
 
-(9)[^33] A fémkereskedelmi hatóság a jegyzőkönyvben foglalt eltérés okainak kivizsgálása céljából 8 napon belül megkeresi a mérésügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt, akinek végleges döntéséig a mérlegelő-berendezés nem használható.
+(9)[^33] A fémkereskedelmi hatóság a jegyzőkönyvben foglalt eltérés okainak kivizsgálása céljából 8 napon belül megkeresi a mérésügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatalt, akinek végleges döntéséig a mérlegelő-berendezés nem használható.
 
 [^30]: A 12/A. §-t a 713/2020. (XII. 30.) Korm. rendelet 39. § (3) bekezdése iktatta be.
 [^31]: A 13. § (1) bekezdése a 713/2020. (XII. 30.) Korm. rendelet 39. § (4) bekezdésével megállapított szöveg.
-[^32]: A 13. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 235. § a) pontja szerint módosított szöveg.
-[^33]: A 13. § (9) bekezdése a 70/2015. (III. 30.) Korm. rendelet 235. § b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 468. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^32]: A 13. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 235. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 170. §-a szerint módosított szöveg.
+[^33]: A 13. § (9) bekezdése a 70/2015. (III. 30.) Korm. rendelet 235. § b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 468. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 170. §-a szerint módosított szöveg.

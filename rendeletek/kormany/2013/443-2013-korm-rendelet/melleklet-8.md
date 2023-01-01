@@ -1,6 +1,6 @@
 8. melléklet a 443/2013. (XI. 27.) Korm. rendelethez
 
-## A hasznosító által teljesítendő eseti adatszolgáltatás
+A hasznosító által teljesítendő eseti adatszolgáltatás
 
 1. Főlap (a hasznosító adatai):
 

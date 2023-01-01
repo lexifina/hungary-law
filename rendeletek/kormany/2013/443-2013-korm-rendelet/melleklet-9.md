@@ -1,6 +1,6 @@
 9. melléklet a 443/2013. (XI. 27.) Korm. rendelethez
 
-## Írásbeli nyilatkozat tartalmi követelményei
+Írásbeli nyilatkozat tartalmi követelményei
 
 1. A fémkereskedő
 

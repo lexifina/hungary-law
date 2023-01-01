@@ -1,6 +1,6 @@
 2. melléklet a 443/2013. (XI. 27.) Korm. rendelethez
 
-## A fémkereskedelmi engedély iránti kérelem adattartalma
+A fémkereskedelmi engedély iránti kérelem adattartalma
 
 ## A kérelem benyújtásának időpontja:
 

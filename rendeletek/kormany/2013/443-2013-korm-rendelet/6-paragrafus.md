@@ -14,7 +14,7 @@ a) a fémkereskedelmi engedély visszavonásával és a tevékenység megszűné
 
 b) az engedély érvényességének lejártával
 
-## egyidejűleg 30 napos határidő tűzése mellett felszólítja a fémkereskedőt az engedély visszavonásakor készleten lévő fémkereskedelmi engedélyköteles anyag – saját tulajdonként történő – értékesítésére vagy más, fémkereskedelmi engedéllyel rendelkező telephelyen történő tárolásra.
+egyidejűleg 30 napos határidő tűzése mellett felszólítja a fémkereskedőt az engedély visszavonásakor készleten lévő fémkereskedelmi engedélyköteles anyag – saját tulajdonként történő – értékesítésére vagy más, fémkereskedelmi engedéllyel rendelkező telephelyen történő tárolásra.
 
 (6)[^17] A fémkereskedő köteles leadni a fémkereskedelmi engedélyt, illetve a betétlapo(ka)t az engedélyező vámszerv részére
 
@@ -23,6 +23,8 @@ a) jogutód nélküli megszűnését,
 b) az engedély érvényességének lejártát, vagy
 
 c) az engedély visszavonásáról szóló határozat véglegessé válását
+
+követő 5 munkanapon belül.
 
 [^14]: A 6. § (2a) bekezdését a 136/2016. (VI. 13.) Korm. rendelet 9. §-a iktatta be.
 [^15]: A 6. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 467. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

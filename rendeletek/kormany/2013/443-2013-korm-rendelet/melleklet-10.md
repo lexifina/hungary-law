@@ -1,6 +1,6 @@
 10. melléklet a 443/2013. (XI. 27.) Korm. rendelethez
 
-## Adatszolgáltatás az eltulajdonított fémkereskedelmi engedélyköteles anyaggal kapcsolatosan
+Adatszolgáltatás az eltulajdonított fémkereskedelmi engedélyköteles anyaggal kapcsolatosan
 
 1. Státusz [ ] eltulajdonított [ ] megtalált
 

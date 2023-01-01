@@ -1,6 +1,6 @@
 4. melléklet a 443/2013. (XI. 27.) Korm. rendelethez
 
-## A fémkereskedelmi tevékenységről szóló napi bejelentés adattartalma
+A fémkereskedelmi tevékenységről szóló napi bejelentés adattartalma
 
 1. Főlap (a bejelentő adatai):
 
@@ -34,13 +34,13 @@ e) az eladó címe:
 
 f) az eladó adószáma vagy adóazonosítója:
 
-g)[^44] természetes személy esetében a személyazonosságot igazoló hatósági okmány száma:
+g)[^50] természetes személy esetében a személyazonosságot igazoló hatósági okmány száma:
 
 h) a számla vagy a kísérő okmány száma:
 
 i) mért mennyiség (kg):
 
-j)[^45] természetes személy eladó esetén a bruttó vételár:
+j)[^51] természetes személy eladó esetén a bruttó vételár:
 
 k) visszaigazolás száma:
 
@@ -66,5 +66,5 @@ h) mért mennyiség (kg):
 
 i) szállítóeszköz azonosítója:
 
-[^44]: A 4. melléklet 2. pont g) alpontja a 713/2020. (XII. 30.) Korm. rendelet 40. § f) pontja szerint módosított szöveg.
-[^45]: A 4. melléklet 2. pont j) alpontja a 713/2020. (XII. 30.) Korm. rendelet 40. § g) pontja szerint módosított szöveg.
+[^50]: A 4. melléklet 2. pont g) alpontja a 713/2020. (XII. 30.) Korm. rendelet 40. § f) pontja szerint módosított szöveg.
+[^51]: A 4. melléklet 2. pont j) alpontja a 713/2020. (XII. 30.) Korm. rendelet 40. § g) pontja szerint módosított szöveg.
