@@ -12,6 +12,6 @@ c) gépjárműhasználatnál a menetlevél, a jogszabályokban meghatározott ü
 
 d) egyéb kiadásoknál a vonatkozó számlák és a feladathoz kapcsolódást igazoló analitikus kimutatások
 
-## képezik.
+képezik.
 
 (3) A tételes nyilvántartás alapján a felügyeletet ellátó rendőri szerv a költségeket a felmerülését követő hónap tizedik napjáig határozatban állapítja meg.
