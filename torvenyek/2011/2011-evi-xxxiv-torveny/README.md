@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-34-00-00
 | 2020-01-01 | 2019. évi CV. törvény | 2011-34-00-00.11 |
 | 2020-06-10 | 2020. évi XLVII. törvény | 2011-34-00-00.12 |
 | 2021-01-01 | 2020. évi CLXIX. törvény | 2011-34-00-00.13 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2011-34-00-00.14 |
