@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-150-20-
 | 2018-01-01 | 2006-150-20-22.23 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2020-03-01 | 2006-150-20-22.24 | 380/2016. (XII. 2.) Korm. rendelet |
 | 2020-09-11 | 2006-150-20-22.25 | 428/2020. (IX. 10.) Korm. rendelet |
+| 2023-01-01 | 2006-150-20-22.26 | 546/2022. (XII. 22.) Korm. rendelet |

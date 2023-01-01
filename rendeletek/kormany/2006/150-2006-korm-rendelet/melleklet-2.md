@@ -40,6 +40,6 @@
 
 | 4. | csapadékvízgyűjtő csatorna | Veszprém (43-T- 0, 43-O-0 sz. csatornák) | vízjogi engedély |
 
-2. számú melléklet a 150/2006. (VII. 21.) Korm. rendelethez[^11]
+2. számú melléklet a 150/2006. (VII. 21.) Korm. rendelethez[^13]
 
-[^11]: A 2. számú mellékletet a 458/2017. (XII. 28.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte.
+[^13]: A 2. számú mellékletet a 458/2017. (XII. 28.) Korm. rendelet 3. § c) pontja hatályon kívül helyezte.
