@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-126-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-06-01 | 2015-126-20-22.1 | 126/2015. (V. 27.) Korm. rendelet |
+| 2023-01-01 | 2015-126-20-22.2 | 616/2022. (XII. 29.) Korm. rendelet |
