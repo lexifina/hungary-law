@@ -1,10 +1,10 @@
 ## 3. CÍM
 
-## HÁZI SEGÍTSÉGNYÚJTÁS[^112]
+## HÁZI SEGÍTSÉGNYÚJTÁS[^116]
 
-25. § (1)[^113] A házi segítségnyújtás olyan szolgáltatás, amely az igénybe vevő önálló életvitelének fenntartását – szükségleteinek megfelelően – lakásán, lakókörnyezetében biztosítja.
+25. § (1)[^117] A házi segítségnyújtás olyan szolgáltatás, amely az igénybe vevő önálló életvitelének fenntartását – szükségleteinek megfelelően – lakásán, lakókörnyezetében biztosítja.
 
-(2)[^114] A házi segítségnyújtás hozzájárul ahhoz, hogy az ellátást igénybe vevő fizikai, mentális, szociális szükséglete
+(2)[^118] A házi segítségnyújtás hozzájárul ahhoz, hogy az ellátást igénybe vevő fizikai, mentális, szociális szükséglete
 
 a) saját környezetében,
 
@@ -14,18 +14,18 @@ c) meglévő képességeinek fenntartásával, felhasználásával, fejlesztés�
 
 biztosított legyen.
 
-(3)[^115] Az Szt. 63. § (3) és (4) bekezdése szerinti, a központi költségvetésről szóló törvényben meghatározott támogatásra jogosító tevékenységeket és résztevékenységeket az 5. számú melléklet tartalmazza.
+(3)[^119] Az Szt. 63. § (3) és (4) bekezdése szerinti, a központi költségvetésről szóló törvényben meghatározott támogatásra jogosító tevékenységeket és résztevékenységeket az 5. számú melléklet tartalmazza.
 
-(3a)[^116]
+(3a)[^120]
 
-(3b)[^117] Egy ellátott esetében azon napok számának, amelyen számára személyi gondozást is nyújtottak, éves átlagban el kell érnie az összes gondozási nap legalább 50%-át.
+(3b)[^121] Egy ellátott esetében azon napok számának, amelyen számára személyi gondozást is nyújtottak, éves átlagban el kell érnie az összes gondozási nap legalább 50%-át.
 
-(4)[^118] A házigondozó a házi segítségnyújtás során együttműködik az egészségügyi és szociális alap- és szakellátást nyújtó intézményekkel.
+(4)[^122] A házigondozó a házi segítségnyújtás során együttműködik az egészségügyi és szociális alap- és szakellátást nyújtó intézményekkel.
 
-[^112]: A 25. §-t megelőző cím a 2/2006. (IV. 14.) ICSSZEM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^113]: A 25. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 29. § e) pontja szerint módosított szöveg.
-[^114]: A 25. § (2) bekezdés nyitó szövegrésze az 55/2015. (XI. 30.) EMMI rendelet 29. § f) pontja szerint módosított szöveg.
-[^115]: A 25. § (3) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^116]: A 25. § (3a) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 21. § (2) bekezdése iktatta be, hatályon kívül helyezte a 7/2018. (II. 5.) EMMI rendelet 19. § b) pontja.
-[^117]: A 25. § (3b) bekezdését a 40/2016. (XII. 21.) EMMI rendelet 2. §-a iktatta be.
-[^118]: A 25. § (4) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 7. §-ának (2) bekezdésével megállapított szöveg.
+[^116]: A 25. §-t megelőző cím a 2/2006. (IV. 14.) ICSSZEM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^117]: A 25. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 29. § e) pontja szerint módosított szöveg.
+[^118]: A 25. § (2) bekezdés nyitó szövegrésze az 55/2015. (XI. 30.) EMMI rendelet 29. § f) pontja szerint módosított szöveg.
+[^119]: A 25. § (3) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^120]: A 25. § (3a) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 21. § (2) bekezdése iktatta be, hatályon kívül helyezte a 7/2018. (II. 5.) EMMI rendelet 19. § b) pontja.
+[^121]: A 25. § (3b) bekezdését a 40/2016. (XII. 21.) EMMI rendelet 2. §-a iktatta be.
+[^122]: A 25. § (4) bekezdése a 4/2004. (I. 28.) ESZCSM rendelet 7. §-ának (2) bekezdésével megállapított szöveg.

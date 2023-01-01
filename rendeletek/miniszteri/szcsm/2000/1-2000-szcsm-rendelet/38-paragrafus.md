@@ -1,3 +1,3 @@
-38. §[^151]
+38. §[^155]
 
-[^151]: A 38. §-t és az azokat megelőző 5. Címet és alcímet a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének j)–k) pontja hatályon kívül helyezte.
+[^155]: A 38. §-t és az azokat megelőző 5. Címet és alcímet a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (4) bekezdésének j)–k) pontja hatályon kívül helyezte.

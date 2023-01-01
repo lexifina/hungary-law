@@ -1,5 +1,5 @@
-42. § (1)[^219] Ha e rendelet másként nem rendelkezik, a bentlakásos intézményi lakószobában legfeljebb négy személy helyezhető el. Négynél több személyt egy lakószobában csak kivételesen indokolt esetben, valamint soron kívüli elhelyezésre vonatkozó igény esetén lehet elhelyezni, figyelemmel az Szt. 92/K. § (5) bekezdésében megállapított korlátra.
+42. § (1)[^223] Ha e rendelet másként nem rendelkezik, a bentlakásos intézményi lakószobában legfeljebb négy személy helyezhető el. Négynél több személyt egy lakószobában csak kivételesen indokolt esetben, valamint soron kívüli elhelyezésre vonatkozó igény esetén lehet elhelyezni, figyelemmel az Szt. 92/K. § (5) bekezdésében megállapított korlátra.
 
 (2) Házaspárok (élettársak) elhelyezésére külön lakószobát kell biztosítani.
 
-[^219]: A 42. § (1) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 6. §-a szerint módosított szöveg.
+[^223]: A 42. § (1) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 6. §-a szerint módosított szöveg.

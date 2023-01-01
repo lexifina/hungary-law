@@ -1,3 +1,3 @@
-17. §[^82]
+17. §[^86]
 
-[^82]: A 17. §-t a 3/2008. (IV. 15.) SZMM rendelet 14. § (1) bekezdésének a) pontja hatályon kívül helyezte.
+[^86]: A 17. §-t a 3/2008. (IV. 15.) SZMM rendelet 14. § (1) bekezdésének a) pontja hatályon kívül helyezte.

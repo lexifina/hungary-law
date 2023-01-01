@@ -1,6 +1,6 @@
-## Egyéb feltételek[^79]
+## Egyéb feltételek[^83]
 
-15. §[^80] (1) A szociális szolgáltatásnak a következő, a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet alkalmazása során nem ágazatinak minősülő feltételeknek is meg kell felelnie:
+15. §[^84] (1) A szociális szolgáltatásnak a következő, a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet alkalmazása során nem ágazatinak minősülő feltételeknek is meg kell felelnie:
 
 a) szociális étkeztetés esetén az élelmiszer-higiénia és élelmiszer-biztonság jogszabályi követelményei,
 
@@ -54,5 +54,5 @@ c) amelyben korábban is szociális intézmény működött, a korábbi engedél
 
 (7) A tűzvédelmi feltételek vizsgálatát az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendelet szabályozza.
 
-[^79]: A 15. §-t megelőző alcímet a 7/2018. (II. 5.) EMMI rendelet 5. §-a iktatta be.
-[^80]: A 15. §-t a 3/2008. (IV. 15.) SZMM rendelet 14. § (1) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 7/2018. (II. 5.) EMMI rendelet 5. §-a iktatta be.
+[^83]: A 15. §-t megelőző alcímet a 7/2018. (II. 5.) EMMI rendelet 5. §-a iktatta be.
+[^84]: A 15. §-t a 3/2008. (IV. 15.) SZMM rendelet 14. § (1) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 7/2018. (II. 5.) EMMI rendelet 5. §-a iktatta be.

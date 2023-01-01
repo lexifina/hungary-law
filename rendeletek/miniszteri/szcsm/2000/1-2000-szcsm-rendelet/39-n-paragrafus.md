@@ -1,4 +1,4 @@
-39/N. §[^208] (1) A szenvedélybetegek közösségi ellátásában és alacsonyküszöbű ellátásában – a (2) bekezdés szerinti kivétellel – csak olyan személy foglalkoztatható, akit a foglalkoztatás kezdő időpontjában a munkáltató bejelentett a szenvedélybetegek közösségi ellátása képzésre vagy a szenvedélybetegek alacsonyküszöbű ellátása képzésre, és azt a foglalkoztatás kezdő időpontjától számított két éven belül elvégzi.
+39/N. §[^212] (1) A szenvedélybetegek közösségi ellátásában és alacsonyküszöbű ellátásában – a (2) bekezdés szerinti kivétellel – csak olyan személy foglalkoztatható, akit a foglalkoztatás kezdő időpontjában a munkáltató bejelentett a szenvedélybetegek közösségi ellátása képzésre vagy a szenvedélybetegek alacsonyküszöbű ellátása képzésre, és azt a foglalkoztatás kezdő időpontjától számított két éven belül elvégzi.
 
 (2) Az (1) bekezdés szerinti képzés elvégzése alól mentesül
 
@@ -6,4 +6,4 @@ a) a szenvedélybeteg gondozó OKJ 55 762 05, az addiktológus szakorvos, a pszi
 
 b) az a személy, aki szenvedélybetegek közösségi ellátásában vagy alacsonyküszöbű ellátásában egy évnél hosszabb foglalkoztatotti jogviszonnyal rendelkezik.
 
-[^208]: A 39/N. §-t a 4/2020. (II. 6.) EMMI rendelet 6. §-a iktatta be.
+[^212]: A 39/N. §-t a 4/2020. (II. 6.) EMMI rendelet 6. §-a iktatta be.

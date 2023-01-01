@@ -328,8 +328,8 @@
 
 |  | segítő | 2 fő |
 
-3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^450]
+3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^463]
 
 A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimum előírásai
 
-[^450]: A 3. számú melléklet a 4/2020. (II. 6.) EMMI rendelet 14. § (2) bekezdésével megállapított, az 1/2021. (I. 7.) EMMI rendelet 11. § b) pontja és 12. §-a, a 62/2021. (XII. 29.) EMMI rendelet 13. §-a szerint módosított szöveg.
+[^463]: A 3. számú melléklet a 80/2022. (XII. 30.) BM rendelet 16. §-ával megállapított szöveg.

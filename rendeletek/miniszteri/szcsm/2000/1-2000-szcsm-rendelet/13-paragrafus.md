@@ -8,8 +8,8 @@ b) az intézmény feladatainak ellátására vonatkozó szakmai program megvaló
 
 c) az intézmény működésének általános feltételeit, a tárgyi, a személyi, a működési, illetve a szakmai feltételeket,
 
-d)[^76] a gondozási tervek hatékonyságát, eredményességét, összhangban az intézményben folyó ápolási-gondozási munkával,
+d)[^80] a gondozási tervek hatékonyságát, eredményességét, összhangban az intézményben folyó ápolási-gondozási munkával,
 
 e) az intézmény szerepét a helyi szociális ellátórendszerben, valamint az ellátotti szükségletek alakulásának ismert tendenciáit.
 
-[^76]: A 13. § d) pontja a 9/2009. (IV. 11.) SZMM rendelet 11. § (4) bekezdésének ba) alpontja szerint módosított szöveg.
+[^80]: A 13. § d) pontja a 9/2009. (IV. 11.) SZMM rendelet 11. § (4) bekezdésének ba) alpontja szerint módosított szöveg.
