@@ -2,7 +2,7 @@
 
 1. számú melléklet a 216/2000. (XII. 11.) Korm. rendelethez[^34]
 
-## A kockázati tőkealap mérlegének tagolása
+A kockázati tőkealap mérlegének tagolása
 
 ## ESZKÖZÖK
 

@@ -2,7 +2,7 @@
 
 2. számú melléklet a 216/2000. (XII. 11.) Korm. rendelethez[^37]
 
-## A kockázati tőkealap eredménykimutatásának tagolása
+A kockázati tőkealap eredménykimutatásának tagolása
 
 01. Értékesítés nettó árbevétele
 

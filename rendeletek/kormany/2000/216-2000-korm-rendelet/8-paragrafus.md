@@ -20,7 +20,7 @@ g)[^22] a kockázati tőkealap megalakulásának időpontját és működési id
 
 h)[^23] a külföldi kockázati tőkebefektetéseket földrajzilag elhatárolt piacok szerinti bontásban,
 
-i)[^24] a belföldi kockázati tőkebefektetéseket megyénkénti bontásban,
+i)[^24] a belföldi kockázati tőkebefektetéseket vármegyénkénti bontásban,
 
 j)[^25] a más alapokkal közös befektetések fajtáit, értékét, mértékét és az ahhoz kapcsolódó hozamfizetési feltételeket,
 
@@ -42,7 +42,7 @@ o)[^30] a kockázati tőkealap-kezelő nevét, címét és azt, hogy milyen más
 [^21]: A 8. § új f) pontját a 239/2003. (XII. 17.) Korm. rendelet 2. §-a iktatta a szövegbe, egyidejűleg az eredeti f)–h) pont jelölését g)–i) pontra változtatta. E módosító rendelet 5. §-a alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell, a 2003. évi üzleti évről készített beszámolóra lehet alkalmazni.
 [^22]: A 8. § eredeti f) pontjának jelölését a 239/2003. (XII. 17.) Korm. rendelet 2. §-a g) pontra változtatta, szövege a 334/2005. (XII. 29.) Korm. rendelet 37. § (3) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^23]: A 8. § eredeti g) pontjának jelölését a 239/2003. (XII. 17.) Korm. rendelet 2. §-a h) pontra változtatta.
-[^24]: A 8. § eredeti h) pontjának jelölését a 239/2003. (XII. 17.) Korm. rendelet 2. §-a i) pontra változtatta.
+[^24]: A 8. § eredeti h) pontjának jelölését a 239/2003. (XII. 17.) Korm. rendelet 2. §-a i) pontra változtatta. A 8. § i) pontja a 616/2022. (XII. 29.) Korm. rendelet 37. §-a szerint módosított szöveg.
 [^25]: A 8. § j) pontját a 334/2005. (XII. 29.) Korm. rendelet 35. §-a iktatta be. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^26]: A 8. § k) pontját a 334/2005. (XII. 29.) Korm. rendelet 35. §-a iktatta be. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^27]: A 8. § l) pontját a 334/2005. (XII. 29.) Korm. rendelet 35. §-a iktatta be. E módosító rendelet 37. § (1) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni.
