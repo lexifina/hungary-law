@@ -1,8 +1,6 @@
-## 8. §[^19]
-
 1. melléklet a 231/2010. (VIII. 18.) Korm. rendelethez
 
-## A csemegeszőlő és alanyszőlő telepítése iránti kérelem tartalmi elemei[^20]
+A csemegeszőlő és alanyszőlő telepítése iránti kérelem tartalmi elemei[^20]
 
 1. A kérelmező azonosító adatai:
 
@@ -54,7 +52,6 @@
 
 7. A kérelmező aláírása.
 
-[^19]: A 8. §-t a 379/2016. (XII. 2.) Korm. rendelet 160. § (6) bekezdése hatályon kívül helyezte.
 [^20]: Az 1. melléklet címe a 360/2019. (XII. 30.) Korm. rendelet 81. § (4) bekezdés g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^21]: Az 1. melléklet 1.2. pontja az 57/2014. (III. 4.) Korm. rendelet 10. §-a szerint módosított szöveg.
 [^22]: Az 1. melléklet 4.2. pontja az 57/2014. (III. 4.) Korm. rendelet 10. §-a szerint módosított szöveg.

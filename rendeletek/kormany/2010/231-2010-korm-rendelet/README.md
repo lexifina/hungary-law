@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-231-20-
 | 2017-02-03 | 2010-231-20-22.8 | 20/2017. (II. 2.) Korm. rendelet |
 | 2020-01-01 | 2010-231-20-22.9 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-03-01 | 2010-231-20-22.10 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2023-01-01 | 2010-231-20-22.11 | 360/2019. (XII. 30.) Korm. rendelet |
