@@ -10,6 +10,6 @@
 
 (5) A 13. § (6) bekezdése és a 44. § a) pontja 2022. július 1-jén lép hatályba.
 
-(6) A 11. § (2) és (8) bekezdése és a 21. § (2) bekezdése 2023. január 1-jén lép hatályba.
+(6) A 11. § (2) bekezdése és a 21. § (2) bekezdése 2023. január 1-jén lép hatályba.
 
 (7) A 6. § (2) bekezdése 2023. június 25-én lép hatályba.
