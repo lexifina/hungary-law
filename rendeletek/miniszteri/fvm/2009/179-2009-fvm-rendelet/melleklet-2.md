@@ -1,5 +1,3 @@
-## A fertőző szivacsos agyvelőbántalmak felderítésére szolgáló monitoring rendszer, valamint a vágóhíd és az állattartó nyilvántartási kötelezettsége
-
 ## I. Monitoring vizsgálat szarvasmarhák esetén
 
 ## 1. A mintavétel szabályai
@@ -10,17 +8,17 @@
 
 ## 2.1. A BSE-re minden, a 999/2001/EK rendelet III. melléklete A. fejezete I.2. pontjában meghatározott korú (eltérő rendelkezés hiányában 24 hónaposnál idősebb), kényszervágott, klinikai tünetek miatt elkülönítetten levágott, illetve valamely betegségtől való mentesítési program keretében levágott és klinikai tüneteket is mutató, elkülönítetten levágott szarvasmarhát meg kell vizsgálni.
 
-## 2.2.[^96] A 999/2001/EK rendelet III. melléklet A. fejezet I. 2. 2.2. pontjában említett szarvasmarhák közül BSE-re minden harmadik országban, illetve Romániában, Bulgáriában vagy Horvátországban született 30 hónaposnál idősebb, rendes vágással levágott és emberi fogyasztásra szánt szarvasmarhát (beleértve valamely mentesítési program keretében levágott, klinikailag egészséges egyedeket is) meg kell vizsgálni.
+## 2.2.[^99] A 999/2001/EK rendelet III. melléklet A. fejezet I. 2. 2.2. pontjában említett szarvasmarhák közül BSE-re minden harmadik országban, illetve Romániában, Bulgáriában vagy Horvátországban született 30 hónaposnál idősebb, rendes vágással levágott és emberi fogyasztásra szánt szarvasmarhát (beleértve valamely mentesítési program keretében levágott, klinikailag egészséges egyedeket is) meg kell vizsgálni.
 
-## 2.3.[^97] A BSE felderítésére irányuló monitoring vizsgálatot a vágóhídon kívül, az állattartó által rendes vágással saját fogyasztásra levágott és az állatorvosnak bejelentett, harmadik országban, illetve Romániában, Bulgáriában vagy Horvátországban született 30 hónaposnál idősebb szarvasmarhák esetében is el kell végezni.
+## 2.3.[^100] A BSE felderítésére irányuló monitoring vizsgálatot a vágóhídon kívül, az állattartó által rendes vágással saját fogyasztásra levágott és az állatorvosnak bejelentett, harmadik országban, illetve Romániában, Bulgáriában vagy Horvátországban született 30 hónaposnál idősebb szarvasmarhák esetében is el kell végezni.
 
 ## 3. Monitoring vizsgálat az elhullott, illetve leölt szarvasmarhák esetében
 
 ## BSE-re minden 24 hónaposnál idősebb, a 999/2001/EK rendelet III. melléklete A. fejezete I.3.1. pontjában meghatározott elhullott vagy leölt szarvasmarhát meg kell vizsgálni.
 
-## 4.[^98] Monitoring vizsgálat egyéb szarvasmarhák esetében
+## 4.[^101] Monitoring vizsgálat egyéb szarvasmarhák esetében
 
-## A megyei kormányhivatal indokolt esetben a NÉBIH-hel történő egyeztetést követően egyéb szarvasmarhák diagnosztikai célú leölését is elrendelheti, ha ezt tudományos tények indokolják.
+## A vármegyei kormányhivatal indokolt esetben a NÉBIH-hel történő egyeztetést követően egyéb szarvasmarhák diagnosztikai célú leölését is elrendelheti, ha ezt tudományos tények indokolják.
 
 ## 5. Intézkedések a mintavételt követően
 
@@ -42,17 +40,17 @@
 
 ## 2.1. Az emberi fogyasztás céljából levágott, a 999/2001/EK rendelet III. melléklete A. fejezete II.2.a. pontjában meghatározott korú (eltérő előírás hiányában 18 hónaposnál idősebb vagy legalább kettő, az ínyen áttört, állandó metszőfoggal rendelkező) juhok esetében minden egyedet TSE felderítésére irányuló monitoring vizsgálatnak kell alávetni.
 
-## 2.2.[^99] Az emberi fogyasztás céljából levágott kecskék esetében mindaddig nem kell TSE felderítésre irányuló monitoring vizsgálatot végezni, amíg az anyalétszám el nem éri a 999/2001/EK rendelet III. melléklet A. fejezet II. 2. b) pontjában meghatározott létszámot. Az előbbi irányszám elérését követően minden vágóhídon levágott, a 999/2001/EK rendeletben meghatározott életkorú kecskét vizsgálni kell.
+## 2.2.[^102] Az emberi fogyasztás céljából levágott kecskék esetében mindaddig nem kell TSE felderítésre irányuló monitoring vizsgálatot végezni, amíg az anyalétszám el nem éri a 999/2001/EK rendelet III. melléklet A. fejezet II. 2. b) pontjában meghatározott létszámot. Az előbbi irányszám elérését követően minden vágóhídon levágott, a 999/2001/EK rendeletben meghatározott életkorú kecskét vizsgálni kell.
 
 ## 2.3. Az állattartó által saját fogyasztásra levágott és az állatorvosnak bejelentett, a 999/2001/EK rendelet III. melléklete A. fejezete II.2.a. pontjában meghatározott korú (eltérő előírás hiányában 18 hónaposnál idősebb vagy legalább kettő, az ínyen áttört, állandó metszőfoggal rendelkező) juhok esetén is TSE felderítésére irányuló monitoring vizsgálatot kell végezni. Az állattartó által saját fogyasztásra levágott kecskék esetében csak a 2.2. pontban meghatározott anyalétszám elérése esetén kell TSE felderítésére irányuló vizsgálatot végezni.
 
-## 2.4.[^100] A megyei kormányhivatal a mintákat a 999/2001/EK rendelet III. melléklete A. fejezete II. 4. pontja szerint gyűjti.
+## 2.4.[^103] A vármegyei kormányhivatal a mintákat a 999/2001/EK rendelet III. melléklete A. fejezete II. 4. pontja szerint gyűjti.
 
 ## 3. Monitoring vizsgálat az elhullott vagy leölt juhok és kecskék esetében
 
-## 3.1.[^101] A 999/2001/EK rendelet III. melléklet A. fejezet II. 4. pontjában meghatározott korú (eltérő rendelkezés hiányában 18 hónaposnál idősebb vagy legalább kettő, az ínyen áttört, állandó metszőfoggal rendelkező) elhullott, illetve leölt juhokat és kecskéket a NÉBIH által meghatározott mintaszámok szerint kell vizsgálni. A 999/2001/EK rendelet III. melléklet A. fejezet II. 3. pontjában szereplő táblázatok alapján a NÉBIH mindkét állatfajra külön országos és megyei mintaszámokat határoz meg.
+## 3.1.[^104] A 999/2001/EK rendelet III. melléklet A. fejezet II. 4. pontjában meghatározott korú (eltérő rendelkezés hiányában 18 hónaposnál idősebb vagy legalább kettő, az ínyen áttört, állandó metszőfoggal rendelkező) elhullott, illetve leölt juhokat és kecskéket a NÉBIH által meghatározott mintaszámok szerint kell vizsgálni. A 999/2001/EK rendelet III. melléklet A. fejezet II. 3. pontjában szereplő táblázatok alapján a NÉBIH mindkét állatfajra külön országos és vármegyei mintaszámokat határoz meg.
 
-## 3.2. A mintákat minden megyében a 999/2001/EK rendelet III. melléklete A. fejezete II.4. pontjában előírt szabályok szerint kell gyűjteni.
+## 3.2.[^105] A mintákat minden vármegyében a 999/2001/EK rendelet III. melléklete A. fejezete II.4. pontjában előírt szabályok szerint kell gyűjteni.
 
 ## 4. Montoring vizsgálat TSE-vel fertőzött állományok esetében
 
@@ -60,7 +58,7 @@
 
 ## 5. Monitoring vizsgálat egyéb juhok és kecskék esetében
 
-## 5.1.[^102] A megyei kormányhivatal a NÉBIH-hel történő egyeztetést követően egyéb juhok és kecskék diagnosztikai célú leölését is elrendelheti, ha ezt tudományos tények indokolják.
+## 5.1.[^106] A vármegyei kormányhivatal a NÉBIH-hel történő egyeztetést követően egyéb juhok és kecskék diagnosztikai célú leölését is elrendelheti, ha ezt tudományos tények indokolják.
 
 ## 6. A mintavételt követő intézkedések
 
@@ -76,9 +74,9 @@
 
 ## 7.2. A genotípus meghatározására irányuló vizsgálatokat olyan laboratórium hajthatja végre, amely rendelkezik e vizsgálatok elvégzésére vonatkozó akkreditációval.
 
-## 7.3.[^103] A 999/2001/EK rendelet III. melléklete A. fejezete II. 8.2. pontjában előirt monitoring rendszerű vizsgálatok részletes szabályait a NÉBIH határozza meg.
+## 7.3.[^107] A 999/2001/EK rendelet III. melléklete A. fejezete II. 8.2. pontjában előirt monitoring rendszerű vizsgálatok részletes szabályait a NÉBIH határozza meg.
 
-## III.[^104] Monitoring vizsgálat egyéb állatfajok esetén
+## III.[^108] Monitoring vizsgálat egyéb állatfajok esetén
 
 ## A TSE-re fogékony egyéb állatfajok esetén monitoring vizsgálatot a NÉBIH által előírtak szerint kell végezni. A vizsgálatokat elsősorban veszettség gyanúja miatt – de TSE-re gyanúsnak nem minősülő – a területi laboratóriumba beküldött és veszettségvizsgálatra negatív állatok között kell végezni. A vizsgálati módszer lehet kórszövettan, gyorsteszt, ezek kombinációja, illetve az EU referencia laboratórium által ajánlott egyéb módszer.
 
@@ -88,23 +86,23 @@
 
 ## 1. Minden a 999/2001/EK rendelet III. melléklete A. fejezetének I.2.1. pontjában meghatározott korú, rendes vágás során levágott szarvasmarha száma, ezen belül lehetőség szerint a mentesítési programok keretében levágott, klinikailag egészséges állatok száma;
 
-## 2. A 999/2001/EK rendelet III. melléklete A. fejezetének I.2.1. pontjában meghatározott korú, rendes vágás során levágott szarvasmarhák száma összesen és származási megyénkénti bontásban;
+## 2.[^109] A 999/2001/EK rendelet III. melléklete A. fejezetének I.2.1. pontjában meghatározott korú, rendes vágás során levágott szarvasmarhák száma összesen és származási vármegyénkénti bontásban;
 
-## 3. A 24 hónaposnál idősebb korú kényszervágott szarvasmarhák száma összesen és származási megyénkénti bontásban;
+## 3.[^110] A 24 hónaposnál idősebb korú kényszervágott szarvasmarhák száma összesen és származási vármegyénkénti bontásban;
 
-## 4. Az klinikai tünetek miatt elkülönítetten levágott, 24 hónaposnál idősebb korú szarvasmarhák száma összesen és származási megyénkénti bontásban;
+## 4.[^111] Az klinikai tünetek miatt elkülönítetten levágott, 24 hónaposnál idősebb korú szarvasmarhák száma összesen és származási vármegyénkénti bontásban;
 
-## 5. A 18 hónaposnál idősebb korú, rendes vágás során levágott juhok száma összesen és származási megyénkénti bontásban;
+## 5.[^112] A 18 hónaposnál idősebb korú, rendes vágás során levágott juhok száma összesen és származási vármegyénkénti bontásban;
 
-## 6. A 18 hónaposnál idősebb korú, kényszervágott, vagy klinikai tünetek miatt elkülönítetten levágott juhok száma összesen és származási megyénkénti bontásban;
+## 6.[^113] A 18 hónaposnál idősebb korú, kényszervágott, vagy klinikai tünetek miatt elkülönítetten levágott juhok száma összesen és származási vármegyénkénti bontásban;
 
-## 7. A 18 hónaposnál idősebb korú, rendes vágás során levágott kecskék száma összesen és származási megyénkénti bontásban;
+## 7.[^114] A 18 hónaposnál idősebb korú, rendes vágás során levágott kecskék száma összesen és származási vármegyénkénti bontásban;
 
-## 8. A 18 hónaposnál idősebb korú, kényszervágott, vagy klinikai tünetek miatt elkülönítetten levágott kecskék száma összesen és származási megyénkénti bontásban.
+## 8.[^115] A 18 hónaposnál idősebb korú, kényszervágott, vagy klinikai tünetek miatt elkülönítetten levágott kecskék száma összesen és származási vármegyénkénti bontásban.
 
 ## V. Az állattartó által vezetendő nyilvántartás
 
-## 1.[^105] A 19. § (3) bekezdésének a) pontjában előírt folyamatos nyilvántartásnak adott időszakra legalább az alábbi adatokat kell tartalmaznia:
+## 1.[^116] A 19. § (3) bekezdésének a) pontjában előírt folyamatos nyilvántartásnak adott időszakra legalább az alábbi adatokat kell tartalmaznia:
 
 ## 1. 1. a 24 hónaposnál idősebb korú, elhullott szarvasmarhák száma,
 
@@ -114,9 +112,9 @@
 
 ## 1. 4. a 24 hónaposnál idősebb korú, klinikailag nem egészséges, valamely mentesítési program keretében levágott szarvasmarhák száma,
 
-## 1. 5.[^106] a rendes vágásra küldött szarvasmarhák száma, ezen belül a mentesítési program keretében levágott és klinikailag egészséges egyedek száma harmadik országból, illetve Romániából, Bulgáriából vagy Horvátországból származó állatok esetén a 30 hónaposnál idősebb szarvasmarhák esetében,
+## 1. 5.[^117] a rendes vágásra küldött szarvasmarhák száma, ezen belül a mentesítési program keretében levágott és klinikailag egészséges egyedek száma harmadik országból, illetve Romániából, Bulgáriából vagy Horvátországból származó állatok esetén a 30 hónaposnál idősebb szarvasmarhák esetében,
 
-## 1.6.[^107] a rendes vágással saját fogyasztás céljára levágott szarvasmarhák száma harmadik országban, illetve Romániában, Bulgáriában vagy Horvátországban született állatok esetén a 30 hónaposnál idősebb szarvasmarhák esetében,
+## 1.6.[^118] a rendes vágással saját fogyasztás céljára levágott szarvasmarhák száma harmadik országban, illetve Romániában, Bulgáriában vagy Horvátországban született állatok esetén a 30 hónaposnál idősebb szarvasmarhák esetében,
 
 ## 1. 7. az importált szarvasmarhák száma, születési ideje (év, hó), az importálás ideje (év, hó), az elhullásuk, vágóhídra küldésük, illetve belföldön történő értékesítésük vagy exportálásuk ideje (év, hó).
 
@@ -140,15 +138,25 @@
 
 2. számú melléklet a 179/2009. (XII. 29.) FVM rendelethez
 
-[^96]: Az 1. számú melléklet I. fejezet 2. pont 2.2. alpontja a 32/2014. (XII. 9.) FM rendelet 14. § (4) bekezdésével megállapított szöveg.
-[^97]: Az 1. számú melléklet I. fejezet 2. pont 2.3. alpontja a 32/2014. (XII. 9.) FM rendelet 14. § (4) bekezdésével megállapított szöveg.
-[^98]: Az 1. számú melléklet I. fejezet 4. pontja a 142/2011. (XII. 23.) VM rendelet 6. § (2) bekezdés b) pontja, a 70/2013. (VII. 31.) VM rendelet 115. § s) pontja, a 42/2017. (VIII. 17.) FM rendelet 143. § 2. pontja szerint módosított szöveg.
-[^99]: Az 1. számú melléklet II. fejezet 2. pont 2.2. alpontja a 32/2014. (XII. 9.) FM rendelet 14. § (4) bekezdésével megállapított szöveg.
-[^100]: Az 1. számú melléklet II. fejezet 2. pont 2.4. alpontja a 142/2011. (XII. 23.) 6. § (2) bekezdés b) pontja, a 42/2017. (VIII. 17.) FM rendelet 143. § 2. pontja szerint módosított szöveg.
-[^101]: Az 1. számú melléklet II. fejezet 3. pont 3.1. alpontja a 32/2014. (XII. 9.) FM rendelet 14. § (4) bekezdésével megállapított szöveg.
-[^102]: Az 1. számú melléklet II. fejezet 5. pont 5.1. alpontja a 142/2011. (XII. 23.) VM rendelet 6. § (2) bekezdés b) pontja, a 70/2013. (VII. 31.) VM rendelet 115. § s) pontja, a 42/2017. (VIII. 17.) FM rendelet 143. § 2. pontja szerint módosított szöveg.
-[^103]: Az 1. számú melléklet II. fejezet 7. pont 7.3. alpontja a 70/2013. (VII. 31.) VM rendelet 115. § d) pontja szerint módosított szöveg.
-[^104]: Az 1. számú melléklet III. fejezete a 70/2013. (VII. 31.) VM rendelet 115. § d) pontja szerint módosított szöveg.
-[^105]: Az 1. számú melléklet V. fejezet 1. pontja a 142/2011. (XII. 23.) VM rendelet 4. §-ával megállapított szöveg.
-[^106]: Az 1. számú melléklet V. fejezet 1. pont 1.5. alpontja a 32/2014. (XII. 9.) FM rendelet 14. § (4) bekezdésével megállapított szöveg.
-[^107]: Az 1. számú melléklet V. fejezet 1. pont 1.6. alpontja a 32/2014. (XII. 9.) FM rendelet 14. § (4) bekezdésével megállapított szöveg.
+A feldolgozott állati eredetű fehérjék, illetve egyéb állati eredetű anyagok takarmányozási célú felhasználásának korlátozása
+
+[^99]: Az 1. számú melléklet I. fejezet 2. pont 2.2. alpontja a 32/2014. (XII. 9.) FM rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^100]: Az 1. számú melléklet I. fejezet 2. pont 2.3. alpontja a 32/2014. (XII. 9.) FM rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^101]: Az 1. számú melléklet I. fejezet 4. pontja a 142/2011. (XII. 23.) VM rendelet 6. § (2) bekezdés b) pontja, a 70/2013. (VII. 31.) VM rendelet 115. § s) pontja, a 42/2017. (VIII. 17.) FM rendelet 143. § 2. pontja, a 118/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint szerint módosított szöveg.
+[^102]: Az 1. számú melléklet II. fejezet 2. pont 2.2. alpontja a 32/2014. (XII. 9.) FM rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^103]: Az 1. számú melléklet II. fejezet 2. pont 2.4. alpontja a 142/2011. (XII. 23.) 6. § (2) bekezdés b) pontja, a 42/2017. (VIII. 17.) FM rendelet 143. § 2. pontja, a 118/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint szerint módosított szöveg.
+[^104]: Az 1. számú melléklet II. fejezet 3. pont 3.1. alpontja a 32/2014. (XII. 9.) FM rendelet 14. § (4) bekezdésével megállapított, a 118/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^105]: Az 1. számú melléklet II. 3. pont 3.2. alpontja a 118/2022. (XII. 27.) AM rendelet 1. § h) pontja szerint módosított szöveg.
+[^106]: Az 1. számú melléklet II. fejezet 5. pont 5.1. alpontja a 142/2011. (XII. 23.) VM rendelet 6. § (2) bekezdés b) pontja, a 70/2013. (VII. 31.) VM rendelet 115. § s) pontja, a 42/2017. (VIII. 17.) FM rendelet 143. § 2. pontja, a 118/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^107]: Az 1. számú melléklet II. fejezet 7. pont 7.3. alpontja a 70/2013. (VII. 31.) VM rendelet 115. § d) pontja szerint módosított szöveg.
+[^108]: Az 1. számú melléklet III. fejezete a 70/2013. (VII. 31.) VM rendelet 115. § d) pontja szerint módosított szöveg.
+[^109]: Az 1. számú melléklet IV. pont 2. alpontja a 118/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^110]: Az 1. számú melléklet IV. pont 3. alpontja a 118/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^111]: Az 1. számú melléklet IV. pont 4. alpontja a 118/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^112]: Az 1. számú melléklet IV. pont 5. alpontja a 118/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^113]: Az 1. számú melléklet IV. pont 6. alpontja a 118/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^114]: Az 1. számú melléklet IV. pont 7. alpontja a 118/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^115]: Az 1. számú melléklet IV. pont 8. alpontja a 118/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^116]: Az 1. számú melléklet V. fejezet 1. pontja a 142/2011. (XII. 23.) VM rendelet 4. §-ával megállapított szöveg.
+[^117]: Az 1. számú melléklet V. fejezet 1. pont 1.5. alpontja a 32/2014. (XII. 9.) FM rendelet 14. § (4) bekezdésével megállapított szöveg.
+[^118]: Az 1. számú melléklet V. fejezet 1. pont 1.6. alpontja a 32/2014. (XII. 9.) FM rendelet 14. § (4) bekezdésével megállapított szöveg.

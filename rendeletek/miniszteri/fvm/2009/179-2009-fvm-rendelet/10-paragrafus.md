@@ -10,7 +10,7 @@ c) a levágott szarvasmarhákból és juhokból – a hatósági állatorvos ál
 
 d) a már vizsgálatra került állat testének felhasználására előírt korlátozásokat betartani,
 
-e) az 1. számú melléklet IV. pontjában előírtak szerint a származási megye szerinti bontásban nyilvántartást vezetni
+e)[^25] az 1. számú melléklet IV. pontjában előírtak szerint a származási vármegye szerinti bontásban nyilvántartást vezetni
 
 ea) a 999/2001/EK rendelet III. melléklete A. fejezetének I. 2. pontjában meghatározott életkorú, rendes vágás során levágott, kényszervágott vagy egyéb okból elkülönítetten levágott szarvasmarhák számáról,
 
@@ -21,3 +21,5 @@ eb) a 999/2001/EK rendelet III. melléklete A. fejezetének II. 4. pontjában me
 a) a koponyaüregbe vezetett eszközzel a nyúltvelő roncsolása (pálcázás),
 
 b) a koponyaüregbe gáz juttatása.
+
+[^25]: A 10. § (1) bekezdés e) pont nyitó szövegrésze a 118/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.

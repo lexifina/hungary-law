@@ -1,8 +1,8 @@
 ## A TSE gyanúja esetén alkalmazandó intézkedések
 
-15. § (1)[^27] A megyei kormányhivatal TSE gyanúja esetén a 999/2001/EK rendelet 12. cikke, illetve a III. fejezetben foglalt szabályok szerint jár el.
+15. § (1)[^30] A vármegyei kormányhivatal TSE gyanúja esetén a 999/2001/EK rendelet 12. cikke, illetve a III. fejezetben foglalt szabályok szerint jár el.
 
-(2)[^28] BSE vagy súrlókór gyanújának észlelése esetén, amennyiben valószínűsíthető, hogy az állat nem a jelenlegi tartási helyen fertőződött meg, a megyei kormányhivatal e rendelet előírásai szerint intézkedik a fertőződés feltételezett helye szerinti állomány forgalmi korlátozás alá helyezéséről.
+(2)[^31] BSE vagy súrlókór gyanújának észlelése esetén, amennyiben valószínűsíthető, hogy az állat nem a jelenlegi tartási helyen fertőződött meg, a vármegyei kormányhivatal e rendelet előírásai szerint intézkedik a fertőződés feltételezett helye szerinti állomány forgalmi korlátozás alá helyezéséről.
 
 (3) A TSE-re gyanús állat, illetve az egyéb idegrendszeri tüneteket mutató kérődző egész teste SRM-nek minősül, és azt a 3. számú mellékletben előírtaknak megfelelően ártalmatlanítani kell.
 
@@ -12,5 +12,5 @@ a) a TSE gyanúja a klinikai vizsgálat eredménye és az egyéb rendelkezésre 
 
 b) az elvégzett laboratóriumi vizsgálatok negatív eredménnyel zárultak.
 
-[^27]: A 15. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 115. § j) pontja, a 42/2017. (VIII. 17.) FM rendelet 143. § 2. pontja szerint módosított szöveg.
-[^28]: A 15. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 115. § j) pontja, a 42/2017. (VIII. 17.) FM rendelet 143. § 10. pontja szerint módosított szöveg.
+[^30]: A 15. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 115. § j) pontja, a 42/2017. (VIII. 17.) FM rendelet 143. § 2. pontja, a 118/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^31]: A 15. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 115. § j) pontja, a 42/2017. (VIII. 17.) FM rendelet 143. § 10. pontja, a 118/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
