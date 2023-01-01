@@ -58,7 +58,7 @@
 
 2. számú melléklet a 241/2009. (X. 29.) Korm. rendelethez
 
-## A tematikus téradatokra vonatkozó téradattémák
+A tematikus téradatokra vonatkozó téradattémák
 
 1. Statisztikai egységek a térinformatika vonatkozásában
 
@@ -100,9 +100,9 @@ Mezőgazdasági eszközök és termelőlétesítmények (ideértve az öntözőr
 
 A népesség földrajzi eloszlása – ideértve a népességi jellemzőket és a tevékenységi szinteket is – statisztikai elemzési egységek (hálótérképek, régiók, közigazgatási egységek) alapján összesítve.
 
-11. Területgazdálkodási, -korlátozási, -szabályozási övezetek és adatszolgáltató egységek
+11.[^2] Területgazdálkodási, -korlátozási, -szabályozási övezetek és adatszolgáltató egységek
 
-A) A területrendezési tervek szerinti térségi övezetek határai: az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvényben lehatárolt országos övezetek, a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvényben lehatárolt kiemelt térségi övezetek, a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvényben lehatárolt kiemelt térségi övezetek, valamint a megyei területrendezési tervekben lehatárolt térségi övezetek.
+A) A területrendezési tervek szerinti térségi övezetek határai: az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvényben lehatárolt országos övezetek, a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvényben lehatárolt kiemelt térségi övezetek, a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvényben lehatárolt kiemelt térségi övezetek, valamint a vármegyei területrendezési tervekben lehatárolt térségi övezetek.
 
 B) A nemzetközi, illetve európai szinten irányított, szabályozott vagy adatszolgáltatási egységként kijelölt területek.
 
@@ -139,3 +139,5 @@ Energiaforrások, ideértve különösen a szénhidrogéneket, vízenergiát, bi
 19. Ásványi nyersanyagok
 
 Ásványi nyersanyagok, ideértve különösen a fémek érceit, az ipari ásványokat, valamint adott esetben ideértve a nyersanyag kiterjedésére vonatkozó mélységi, illetve magassági információkat.
+
+[^2]: A 2. melléklet 11. pontja a 616/2022. (XII. 29.) Korm. rendelet 105. §-a szerint módosított szöveg.
