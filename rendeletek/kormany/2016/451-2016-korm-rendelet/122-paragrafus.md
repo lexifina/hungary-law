@@ -6,7 +6,7 @@
 
 a) az elektronikus dokumentum szöveges és ábrázolt tartalmát,
 
-b)[^136] kiadmányozott dokumentum esetén a záradékban az eredeti iratot kiadmányozó személy, valamint az elektronikus ügyintézést biztosító szerv nevének szöveges megjelenítését és egyértelműen beazonosítható módon az aláírás időpontját, elektronikus bélyegzővel ellátott elektronikus dokumentum esetén a bélyegzőhöz tartozó tanúsítvány szerint a bélyegző létrehozóját meghatározó adatokat,
+b)[^140] kiadmányozott dokumentum esetén a záradékban az eredeti iratot kiadmányozó személy, valamint az elektronikus ügyintézést biztosító szerv nevének szöveges megjelenítését és egyértelműen beazonosítható módon az aláírás időpontját, elektronikus bélyegzővel ellátott elektronikus dokumentum esetén a bélyegzőhöz tartozó tanúsítvány szerint a bélyegző létrehozóját meghatározó adatokat,
 
 c) záradékban az elektronikus dokumentum azonosítására vagy a másolat készítésére vonatkozó azon adatokat, amelyek az a) pont szerinti tartalomból nem állapíthatóak meg, de a másolatot kérő erre vonatkozóan megfelelő adatot szolgáltatott,
 
@@ -22,4 +22,4 @@ f) a másolat hitelesítésének módja szerint a másolatkészítő szervezet e
 
 (5) A másolatkészítő a másolat elkészítését megelőzően köteles ellenőrizni azt, hogy az eredeti elektronikus irat az aláírás és a másolatkészítés időpontja között megváltozott-e, továbbá, hogy az aláírás időpontjában az azt hitelessé tevő tanúsítvány érvényes volt-e. A (2) bekezdés c) pontja szerinti adatok tartalmazzák a sértetlenség ellenőrzését igazoló, valamint a hitelesség ellenőrzését lehetővé tevő információkat.
 
-[^136]: A 122. § (2) bekezdés b) pontja a 179/2018. (X. 2.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^140]: A 122. § (2) bekezdés b) pontja a 179/2018. (X. 2.) Korm. rendelet 18. §-ával megállapított szöveg.

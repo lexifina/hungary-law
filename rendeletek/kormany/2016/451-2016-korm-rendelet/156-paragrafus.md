@@ -1,10 +1,7 @@
-## 155/C. §[^230] Az E-ügyintézési tv. 42/B. §-ában foglaltakat 2023. január 31-ig a pénzmosás és terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 1. § (1) bekezdése a) és b) pontja szerinti szolgáltatókra lehet csak alkalmazni.
-
 ## 39. Az Európai Unió jogának való megfelelés
 
-156. §[^231] (1) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 6–8. cikkeinek és 15. cikk (7) bekezdésének, valamint az illetékes hatóságok által a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv alapján elektronikusan aláírt dokumentumok országhatáron átnyúló feldolgozására vonatkozó minimumkövetelményekről szóló 2011/130/EU határozat módosításáról szóló 2014/148/EU bizottsági végrehajtási határozatban meghatározott szabványformátumokra vonatkozó rendelkezéseknek való megfelelést szolgálja.
+156. §[^241] (1) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 6–8. cikkeinek és 15. cikk (7) bekezdésének, valamint az illetékes hatóságok által a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv alapján elektronikusan aláírt dokumentumok országhatáron átnyúló feldolgozására vonatkozó minimumkövetelményekről szóló 2011/130/EU határozat módosításáról szóló 2014/148/EU bizottsági végrehajtási határozatban meghatározott szabványformátumokra vonatkozó rendelkezéseknek való megfelelést szolgálja.
 
 (2) E rendelet 154/B. §-ának a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-[^230]: A 155/C. §-t a 717/2021. (XII. 20.) Korm. rendelet 20. § (17) bekezdése iktatta be.
-[^231]: A 156. § a 323/2018. (XII. 28.) Korm. rendelet 60. §-ával megállapított szöveg.
+[^241]: A 156. § a 323/2018. (XII. 28.) Korm. rendelet 60. §-ával megállapított szöveg.

@@ -10,7 +10,7 @@ a) a SZEÜSZ-ökre és KEÜSZ-ökre vonatkozó jogszabályok megalkotásának, m
 
 b) az elektronikus ügyintézést érintő jogszabálytervezetek véleményezése;
 
-c)[^162] a SZEÜSZ-ök, a KEÜSZ-ök, az elektronikusan intézhető ügyek és az elektronikus ügyintézést biztosító szervek nyilvántartása;
+c)[^169] a SZEÜSZ-ök, a KEÜSZ-ök, az elektronikusan intézhető ügyek és az elektronikus ügyintézést biztosító szervek nyilvántartása;
 
 d) a SZEÜSZ-ök és KEÜSZ-ök ellenőrzése;
 
@@ -26,4 +26,4 @@ i) műszaki irányelvek elfogadása;
 
 j) az együttműködő szervek az E-ügyintézési tv.-ben szabályozott tevékenységeinek felügyelete.
 
-[^162]: A 135. § c) pontja a 179/2018. (X. 2.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^169]: A 135. § c) pontja a 179/2018. (X. 2.) Korm. rendelet 26. §-ával megállapított szöveg.

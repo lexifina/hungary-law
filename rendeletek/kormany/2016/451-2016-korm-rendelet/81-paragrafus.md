@@ -1,4 +1,4 @@
-## Kormányzati elektronikus aláírás és aláírás-ellenőrzési szolgáltatás[^53]
+## Kormányzati elektronikus aláírás és aláírás-ellenőrzési szolgáltatás[^57]
 
 81. § (1) A szolgáltatás keretében a szolgáltató biztosítja az elektronikus dokumentumon elhelyezett elektronikus aláírás, elektronikus bélyegző érvényességének ellenőrzését.
 
@@ -22,4 +22,4 @@ ellenőrzi.
 
 (5) A szolgáltató biztosítja az illetékes hatóságok által a belső piaci szolgáltatásokról szóló 2006/123/EK európai parlamenti és tanácsi irányelv alapján elektronikusan aláírt dokumentumok országhatáron átnyúló feldolgozására vonatkozó minimumkövetelményekről szóló 2011/130/EU határozat módosításáról szóló 2014/148/EU bizottsági végrehajtási határozatban meghatározott szabványformátumok feldolgozására vonatkozó rendelkezéseknek történő megfelelést.
 
-[^53]: A 81. §-t megelőző alcím címe a 717/2021. (XII. 20.) Korm. rendelet 20. § (7) bekezdésével megállapított szöveg.
+[^57]: A 81. §-t megelőző alcím címe a 717/2021. (XII. 20.) Korm. rendelet 20. § (7) bekezdésével megállapított szöveg.
