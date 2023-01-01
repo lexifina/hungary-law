@@ -1,13 +1,1 @@
 108. § E törvény 43. §-a az információs rendszerek elleni támadásokról és a 2005/222/IB tanácsi kerethatározat felváltásáról szóló 2013. augusztus 12-i 2013/40/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
