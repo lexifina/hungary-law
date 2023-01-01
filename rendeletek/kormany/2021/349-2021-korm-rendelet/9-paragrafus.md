@@ -1,4 +1,4 @@
-## 8. §[^6]
+## 8. §[^5]
 
 ## 5. Jelölési követelmények
 
@@ -8,4 +8,4 @@ a) a termékre vonatkozó megfelelő hulladékgazdálkodási lehetőségekről, 
 
 b) a műanyagnak a termékben való jelenlétéről, az adott termékből keletkező hulladék elhagyásának vagy a termék hulladékként való ártalmatlanítása más nem megfelelő módja által a környezetre gyakorolt negatív hatásról.
 
-[^6]: A 8. § a 19. § (6) bekezdése alapján 2025. január 1-jén lép hatályba.
+[^5]: A 8. § a 19. § (6) bekezdése alapján 2025. január 1-jén lép hatályba.

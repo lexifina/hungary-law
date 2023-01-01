@@ -1,5 +1,3 @@
-## 4. §[^1]
+## 4. § Tilos az 1. melléklet 1.2. pontjában felsorolt egyszer használatos műanyagtermékeket díjmentesen rendelkezésre bocsátani a fogyasztó számára az értékesítéskor.
 
 ## 4. Termékkövetelmények
-
-[^1]: A 4. § a 19. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
