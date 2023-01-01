@@ -1,3 +1,1 @@
-11. §[^11]
-
-[^11]: A 11. § a 20. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+11. § A katonai munkavédelmi hatóság kijelöléséről, valamint sajátos feladatairól és hatásköreinek ellátásáról szóló 502/2017. (XII. 29.) Korm. rendelet 6. § (3) bekezdés b) pont bc) alpontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
