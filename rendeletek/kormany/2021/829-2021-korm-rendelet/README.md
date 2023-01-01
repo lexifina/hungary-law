@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-829-20-
 | --- | --- | --- |
 | 2021-12-29 | 2021-829-20-22.1 | 829/2021. (XII. 28.) Korm. rendelet |
 | 2021-12-30 | 2021-829-20-22.2 | 2010: CXXX. törvény |
+| 2023-01-01 | 2021-829-20-22.3 | 546/2022. (XII. 22.) Korm. rendelet |
