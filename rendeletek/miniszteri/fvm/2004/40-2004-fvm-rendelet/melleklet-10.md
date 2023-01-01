@@ -1,4 +1,4 @@
-10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^121]
+10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^122]
 
 I. RÉSZ
 
@@ -28,7 +28,7 @@ I. RÉSZ
 
 | 7. | Lolium x hybridum Hausskn | Hibrid perje | TP 4/2, 2019.3.19. |
 
-| 8. | Pisum sativum L. (partim) | Takarmányborsó | TP 7/2 Rev. 3., 2020.3.6. |
+| 8. | Pisum sativum L. (partim) | Takarmányborsó | TP 7/2 Rev. 3 Corr., 2020.3.16. |
 
 | 8/a. | Vicia sativa L. | Takarmánybükköny | TP 32/1, 2016.4.19. |
 
@@ -38,7 +38,7 @@ I. RÉSZ
 
 | 9/a. | Brassica napus L. var. napobrassica (L.) Rchb. | Karórépa | TP 89/1, 2015.3.11. |
 
-| 10. | Cannabis sativa L. | Kender | TP 276/1 Partial rev., 2018.3.21. |
+| 10. | Cannabis sativa L. | Kender | TP 276/2, 2022.2.1. |
 
 | 10/a. | Gossypium spp. | Gyapot | TP 88/2, 2020.12.11. |
 
@@ -54,7 +54,7 @@ I. RÉSZ
 
 | 16. | Oryza sativa L. | Rizs | TP 16/3, 2015.10.1. |
 
-| 17. | Secale cereale L. | Rozs | TP 58/1 2002. 10. 31. |
+| 17. | Secale cereale L. | Rozs | TP 58/1 Rev., 2022.4.27. |
 
 | 17/a. | Sorghum bicolor (L.) Moench subsp. bicolor | Cirok | TP 122/1, 2019.3.19. |
 
@@ -62,7 +62,7 @@ I. RÉSZ
 
 | 17/c. | Sorghum bicolor (L.) Moench subsp. bicolor × Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse | A Sorghum bicolor subsp. bicolor és a Sorghum bicolor subsp. drummondii keresztezéséből származó hibridek | TP 122/1, 2019.3.19. |
 
-| 18. | xTriticosecale Wittm. ex A. Camus | A Triticum nemzetség valamely fajának és a Secale nemzetség valamely fajának keresztezéséből származó hibridek | TP 121/2rev.1. 2011. 2. 16. |
+| 18. | xTriticosecale Wittm. ex A. Camus | A Triticum nemzetség valamely fajának és a Secale nemzetség valamely fajának keresztezéséből származó hibridek | TP 121/3, 2022.4.27. |
 
 | 19. | Triticum aestivum L. subsp. aestivum | Búza | TP 3/5, 2019.3.19. |
 
@@ -79,6 +79,18 @@ I. RÉSZ
 | 25. | Glycine max (L.) Merr. | Szója | TP/80/1 2017. 3. 15. |
 
 | 26. | Sinapis alba L. | Fehér mustár | TP/179/1, 2017. 3. 15. |
+
+| 27. | Dactylis glomerata L. | Csomós ebír | TP 31/1, 2021.3.25. |
+
+| 28. | Medicago sativa L. | Kékvirágú lucerna | TP 6/1 2021.12.22. |
+
+| 29. | Medicago x varia T. Martyn | Tarkavirágú lucerna | TP 6/1 2021.12.22. |
+
+| 30. | Phleum nodosum L. | Kis komócsin | TP 34/1 2021.12.22. |
+
+| 31. | Phleum pratense L. | Mezei komócsin | TP 34/1 2021.12.22. |
+
+| 32. | Trifolium pratense L. | Vöröshere | TP 5/1 2021.12.22. |
 
 II. RÉSZ
 
@@ -102,7 +114,7 @@ II. RÉSZ
 
 | 7. | Bromus sitchensis Trin. | Alaszkai rozsnok | TG/180/3 2001. 4. 4. |
 
-| 8. | Dactylis glomerata L. | Csomós ebír | TG/31/8 2002. 4. 17. |
+| 8. |  |  |  |
 
 | 9. |  |  |  |
 
@@ -110,25 +122,25 @@ II. RÉSZ
 
 | 11. | xFestulolium Asch. et Graebn. | A Festuca nemzetség valamely fajának és a Lolium nemzetség valamely fajának keresztezéséből származó hibridek. | TG/243/1 2008. 4. 9. |
 
-| 12. | Phleum nodosum L. | Kis komócsin | TG/34/7, 2020.12.17. |
+| 12. |  |  |  |
 
-| 13. | Phleum pratense L. | Gumós komócsin | TG/34/7, 2020.12.17. |
+| 13. |  |  |  |
 
 | 14. |  |  |  |
 
 | 15. | Lotus corniculatus L. | Szarvaskerep | TG/193/1 2008. 4. 9. |
 
-| 16. | Lupinus albus L. | Fehér csillagfürt | TG/66/4 2004. 3. 31. |
+| 16. | Lupinus albus L. | Fehérvirágú csillagfürt | TG/66/4 2004. 3. 31. |
 
 | 17. | Lupinus angustifolius L. | Keskenylevelű csillagfürt | TG/66/4 2004. 3. 31. |
 
-| 18. | Lupinus luteus L. | Sárga csillagfürt | TG/66/4 2004. 3. 31. |
+| 18. | Lupinus luteus L. | Sárgavirágú csillagfürt | TG/66/4 2004. 3. 31. |
 
-| 19. | Medicago sativa L. | Lucerna | TG/6/5 2005. 4. 6. |
+| 19. |  |  |  |
 
-| 20. | Medicago x varia T. Martyn | Tarkavirágú lucerna | TG/6/5 2005. 4. 6. |
+| 20. |  |  |  |
 
-| 21. | Trifolium pratense L. | Vöröshere | TG/5/8, 2020.12.17. |
+| 21. |  |  |  |
 
 | 22. | Trifolium repens L. | Fehérhere | TG/38/7 2003. 4. 9. |
 
@@ -182,4 +194,4 @@ II. RÉSZ
 
 III. RÉSZ
 
-[^121]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (1) bekezdése, a 36/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése, 3. §-a, a 48/2021. (XII. 21.) AM rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^122]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (1) bekezdése, a 36/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése, 3. §-a, a 48/2021. (XII. 21.) AM rendelet 2. § (1) bekezdése, a 37/2022. (XII. 6.) AM rendelet 2. § (1) bekezdése és 3. §-a szerint módosított szöveg.

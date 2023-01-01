@@ -70,6 +70,8 @@
 
 35.[^111] a 2003/90/EK és a 2003/91/EK irányelvnek a mezőgazdasági növényfajok és a zöldségfajok egyes fajtáinak vizsgálatára vonatkozó előírások, valamint a 2003/90/EK irányelvnek egyes növények botanikai nevei tekintetében történő módosításáról szóló, 2021. május 6-i (EU) 2021/746 bizottsági végrehajtási irányelv
 
+36.[^112] a 2003/90/EK és a 2003/91/EK irányelvnek a mezőgazdasági növényfajok és a zöldségfajok egyes fajtáinak vizsgálatára vonatkozó előírások tekintetében történő módosításáról szóló, 2022. június 9-i (EU) 2022/905 bizottsági végrehajtási irányelv.
+
 [^102]: A 30. § a 105/2012. (X. 11.) VM rendelet 3. §-ával megállapított szöveg.
 [^103]: A 30. § 27. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.
 [^104]: A 30. § 28. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.
@@ -80,3 +82,4 @@
 [^109]: A 30. § 33. pontját a 44/2019. (IX. 20.) AM rendelet 1. §-a iktatta be.
 [^110]: A 30. § 34. pontját a 36/2020. (VI. 29.) AM rendelet 1. §-a iktatta be.
 [^111]: A 30. § 35. pontját a 48/2021. (XII. 21.) AM rendelet 1. §-a iktatta be
+[^112]: A 30. § 36. pontját a 37/2022. (XII. 6.) AM rendelet 1. §-a iktatta be.
