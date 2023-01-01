@@ -54,7 +54,7 @@ e) annak a jogi személynek vagy jogi személyiség nélküli szervezetnek a nev
 
 f) a felszámoló gazdasági társaságnál foglalkoztatott szakirányú szakképzettséggel rendelkezők, ezenkívül a közgazdászok, jogi szakvizsgát tett jogászok, a Magyar Könyvvizsgálói Kamaránál bejegyzett és könyvvizsgálói igazolvánnyal rendelkező könyvvizsgálók
 
-fa) természetes személyazonosító adatait, lakcímét vagy a személyi adat- és lakcímnyilvántartásba bejelentett értesítési címét,
+fa) természetes személyazonosító adatait, lakcímét,
 
 fb) szakképzettségét,
 

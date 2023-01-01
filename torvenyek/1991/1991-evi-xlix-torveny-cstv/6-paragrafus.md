@@ -8,7 +8,7 @@
 
 (1d) Az (1c) szerinti nyilvántartást vezető szervezettől bármely, az e törvény szerinti gazdálkodó szervezet – igazgatási szolgáltatási díj ellenében – igazolást kérhet arról, hogy nincs ellene benyújtva jogerősen még el nem bírált csődeljárás vagy felszámolási eljárás iránti kérelem, továbbá nincs vele szemben kezdeményezett és jogerősen még el nem rendelt felszámolás.
 
-(1e) A bíróság és a felszámoló szervezet az e törvényben meghatározott feladatai és intézkedései ellátásához a polgárok személyi, lakcím és értesítési cím adatait tartalmazó nyilvántartást kezelő szervtől
+(1e) A bíróság és a felszámoló szervezet az e törvényben meghatározott feladatai és intézkedései ellátásához a polgárok személyi, lakcím adatait tartalmazó nyilvántartást kezelő szervtől
 
 a) az adós vezető tisztségviselője, volt vezető tisztségviselője,
 

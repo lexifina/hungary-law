@@ -15,3 +15,9 @@ b) a 6/A. § vagy a 38/A. § alapján felfüggesztett felszámolási eljárást 
 c) a felszámoló köteles beszerezni a bűnügyi hitelezői igénybejelentés alapjául szolgáló határozatot, valamint értesíteni az állami adó- és vámhatóságot, hogy a bűnügyi hitelezői igénybejelentés végrehajtására a felszámolási eljárásban kerül sor.
 
 (6) A közérdekű nyugdíjas szövetkezet és a kisgyermekkel otthon lévők szövetkezete tagjai védelméről szóló 2022. évi XXVI. törvénnyel (a továbbiakban: 2022. évi XXVI. törvény) megállapított 57. § (2) bekezdés a) pont ac) alpontját a folyamatban lévő felszámolási eljárásokban a 2022. évi XXVI. törvény hatálybalépése után esedékessé vált kifizetésekre kell alkalmazni, kivéve, ha a felszámoló a 2022. évi XXVI. törvény hatálybalépése napjáig a zárómérleget már benyújtotta.
+
+(7) E törvénynek az egyes gazdasági tárgyú törvények, valamint egyes vagyongazdálkodást és postaügyet érintő törvények módosításáról szóló 2022. évi LXVIII. törvénnyel (a továbbiakban: 2022. évi LXVIII. törvény) megállapított rendelkezéseit – a (8) és (9) bekezdés szerinti kivétellel – e rendelkezések hatálybalépését követően kezdeményezett csődeljárásokban és felszámolási eljárásokban kell alkalmazni.
+
+(8) E törvénynek a 2022. évi LXVIII. törvénnyel megállapított 27/A. § (11) bekezdését, 27/A. § (11b)–(11c) bekezdését, 66. § (3) bekezdését, 79/A. § (7) bekezdését abban a felszámolási eljárásban kell alkalmazni, amelyben a felszámoló felmentésére a 2022. évi LXVIII. törvény hatálybalépését követően került sor.
+
+(9) E törvénynek a 2022. évi LXVIII. törvénnyel megállapított 10. § (2) bekezdés b) pontját a 2022. évi LXVIII. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
