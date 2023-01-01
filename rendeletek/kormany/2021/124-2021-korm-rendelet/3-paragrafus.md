@@ -14,11 +14,11 @@ f) a Ht. 73. § (1) bekezdésében foglalt hulladékgazdálkodási hatóságkén
 
 g) a Ht. 78/B. § (2) bekezdés 15., 22., 23. pontjában, valamint hatásköréhez kapcsolódóan az 1., 2., 30–32. pontjában foglalt hulladékgazdálkodási hatóságként,
 
-h)[^1] a Ht. 86. § (1) bekezdésében foglalt hulladékgazdálkodási hatóságként, ha a bírság jogalapja a d) és j) pontban meghatározott hatáskörhöz tartozó jogsértés,
+h)[^6] a Ht. 86. § (1) bekezdésében foglalt hulladékgazdálkodási hatóságként, ha a bírság jogalapja a d) és j) pontban meghatározott hatáskörhöz tartozó jogsértés,
 
 i) hulladékgazdálkodási szakkérdés vizsgálata során, ha az engedélyező hatóság az országos környezetvédelmi és természetvédelmi hatóság.
 
-j)[^2] az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló 349/2021. (VI. 22.) Korm. rendelet 14. §-ában és 16. §-ában meghatározott hulladékgazdálkodási hatóságként.
+j)[^7] az egyes műanyagtermékek környezetre gyakorolt hatásának csökkentéséről szóló 349/2021. (VI. 22.) Korm. rendelet 14. §-ában és 16. §-ában meghatározott hulladékgazdálkodási hatóságként.
 
 (2) A minisztériumi hulladékgazdálkodási hatóság hatáskörébe tartozik
 
@@ -30,5 +30,5 @@ hulladékgazdálkodási hatóságként.
 
 (3) A területi hulladékgazdálkodási hatóság, illetve az országos hulladékgazdálkodási hatóság a piacfelügyeletre, a tanúsításra, a megfelelőségre és a minőségbiztosításra vonatkozó végrehajtási jogszabályokban meghatározott hatáskörébe tartozó kérdéseket vizsgálja a Ht. 78/B. § (2) bekezdés 7., 8., 19. pontja szerinti feladatkörében.
 
-[^1]: A 3. § (1) bekezdés h) pontja a 349/2021. (VI. 22.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^2]: A 3. § (1) bekezdés j) pontját a 349/2021. (VI. 22.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^6]: A 3. § (1) bekezdés h) pontja a 349/2021. (VI. 22.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^7]: A 3. § (1) bekezdés j) pontját a 349/2021. (VI. 22.) Korm. rendelet 24. § (2) bekezdése iktatta be.
