@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-120-00-00
 | 2020-07-01 | 2019. évi CXXII. törvény | 2005-120-00-00.27 |
 | 2022-01-01 | 2021. évi CXXXI. törvény | 2005-120-00-00.28 |
 | 2022-09-01 | 2022. évi XIII. törvény | 2005-120-00-00.29 |
+| 2023-01-01 | 2022. évi XLV. törvény | 2005-120-00-00.30 |
