@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-283-20-
 | 2018-01-01 | 2015-283-20-22.2 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2020-04-18 | 2015-283-20-22.3 | 134/2020. (IV. 17.) Korm. rendelet |
 | 2022-12-23 | 2015-283-20-22.4 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2023-01-01 | 2015-283-20-22.5 | 546/2022. (XII. 22.) Korm. rendelet |
