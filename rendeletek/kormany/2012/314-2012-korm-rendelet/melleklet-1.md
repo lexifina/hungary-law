@@ -6,7 +6,7 @@ A MEGALAPOZÓ VIZSGÁLAT TARTALMI KÖVETELMÉNYEI
 
 1.1. Településhálózati összefüggések, a település helye a településhálózatban, térségi kapcsolatok
 
-1.2. A területfejlesztési dokumentumokkal (Országos Területfejlesztési Koncepcióval és a területileg releváns megyei, valamint térségi területfejlesztési koncepciókkal és programokkal) való összefüggések vizsgálata
+1.2.[^117] A területfejlesztési dokumentumokkal (Országos Területfejlesztési Koncepcióval és a területileg releváns vármegyei, valamint térségi területfejlesztési koncepciókkal és programokkal) való összefüggések vizsgálata
 
 1.3. A területrendezési tervekkel való összefüggések vizsgálata
 
@@ -30,7 +30,7 @@ A MEGALAPOZÓ VIZSGÁLAT TARTALMI KÖVETELMÉNYEI
 
 1.7.2. Térbeli-társadalmi rétegződés, konfliktusok, érdekviszonyok
 
-1.7.3.[^117] Települési identitást erősítő tényezők (történeti és kulturális adottságok, társadalmi élet, szokások, hagyományok, nemzetiségi kötődés, civil szerveződések, vallási közösségek stb.)
+1.7.3.[^118] Települési identitást erősítő tényezők (történeti és kulturális adottságok, társadalmi élet, szokások, hagyományok, nemzetiségi kötődés, civil szerveződések, vallási közösségek stb.)
 
 1.8. A település humán infrastruktúrája
 
@@ -66,7 +66,7 @@ A MEGALAPOZÓ VIZSGÁLAT TARTALMI KÖVETELMÉNYEI
 
 1.10.7. Energiagazdálkodás
 
-1.11.[^118] Településüzemeltetési szolgáltatások, okos város települési szolgáltatások
+1.11.[^119] Településüzemeltetési szolgáltatások, okos város települési szolgáltatások
 
 1.12. A táji és természeti adottságok vizsgálata
 
@@ -274,5 +274,6 @@ A település problémáinak és értékeinek összefoglalója térképi formáb
 
 3.3.3. egyéb szempontból beavatkozást igénylő területek lehatárolása, térképi ábrázolása és helyzetelemzése (potenciális akcióterületek)
 
-[^117]: Az 1. melléklet 1.7.3. pontja a 297/2013. (VII. 29.) Korm. rendelet 84. § b) pontja szerint módosított szöveg.
-[^118]: Az 1. melléklet 1.11. pontja az 56/2017. (III. 20.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^117]: Az 1. melléklet 1.2. pontja a 616/2022. (XII. 29.) Korm. rendelet 145. §-a szerint módosított szöveg.
+[^118]: Az 1. melléklet 1.7.3. pontja a 297/2013. (VII. 29.) Korm. rendelet 84. § b) pontja szerint módosított szöveg.
+[^119]: Az 1. melléklet 1.11. pontja az 56/2017. (III. 20.) Korm. rendelet 5. §-ával megállapított szöveg.

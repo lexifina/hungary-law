@@ -60,7 +60,7 @@ kell igazolnia a szakági munkarész felelős tervezőjének.
 
 (11)[^45] A települési önkormányzat a záró szakmai vélemény megkérésével egyidejűleg nyilatkozik az OTÉK 10/A. §-ában foglaltak részéről való teljesítéséről.
 
-(12)[^46] Az állami főépítészi hatáskörben eljáró fővárosi és megyei kormányhivatal a (10) és (11) bekezdésben foglaltak meglétét érdemben vizsgálja, és a településrendezési eszköz elfogadásához egyetértő záró szakmai véleményt akkor ad, ha az OTÉK 10/A. §-a szerinti követelmények teljesítését megalapozottnak tartja.
+(12)[^46] Az állami főépítészi hatáskörben eljáró fővárosi és vármegyei kormányhivatal a (10) és (11) bekezdésben foglaltak meglétét érdemben vizsgálja, és a településrendezési eszköz elfogadásához egyetértő záró szakmai véleményt akkor ad, ha az OTÉK 10/A. §-a szerinti követelmények teljesítését megalapozottnak tartja.
 
 [^37]: A 11. § (1) bekezdés nyitó szövegrésze a 400/2016. (XII. 5.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
 [^38]: A 11. § (4) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
@@ -71,4 +71,4 @@ kell igazolnia a szakági munkarész felelős tervezőjének.
 [^43]: A 11. § (9) bekezdését a 269/2019. (XI. 19.) Korm. rendelet 3. §-a iktatta be.
 [^44]: A 11. § (10) bekezdését a 269/2019. (XI. 19.) Korm. rendelet 3. §-a iktatta be.
 [^45]: A 11. § (11) bekezdését a 269/2019. (XI. 19.) Korm. rendelet 3. §-a iktatta be.
-[^46]: A 11. § (12) bekezdését a 269/2019. (XI. 19.) Korm. rendelet 3. §-a iktatta be.
+[^46]: A 11. § (12) bekezdését a 269/2019. (XI. 19.) Korm. rendelet 3. §-a iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 145. §-a szerint módosított szöveg.
