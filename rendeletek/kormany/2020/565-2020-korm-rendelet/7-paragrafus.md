@@ -1,7 +1,0 @@
-7. § (1)[^9] Ha a miniszter, a kormánybiztos és a sportpolitikáért felelős miniszter az esemény magyarországi megrendezésével egyetért, a kormánybiztos, a miniszter, a sportpolitikáért felelős miniszter és a kormányzati kommunikációért felelős miniszter a pályázattal kapcsolatban a Kormány részére előterjesztést készít. Az előterjesztés tartalmazza az esemény előzetes költségtervét évenkénti bontásban, valamint sportesemény esetén a sportesemény tervezett évében megrendezésre kerülő támogatási igényű kiemelt nemzetközi sporteseményekről szóló összefoglaló táblázatot is.
-
-(2) Az előterjesztésben be kell mutatni a garancia nyújtására vonatkozó követelményeket, és az előterjesztés mellékletét képezi a garancianyilatkozatok magyar és a pályázat hivatalos nyelvű szövege is. Az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló kormányrendelet szabályait a garanciák kiadása tekintetében nem kell alkalmazni.
-
-(3) Nincs szükség a Kormány döntésére, ha az 1. § (1) bekezdés g) és i) pontja szerinti eseményhez igényelt támogatás az ötvenmillió forintot nem haladja meg, és az esemény kapcsán garancia nyújtása nem szükséges. Ebben az esetben a miniszter a kormánybiztos egyetértésével foglal állást arról, hogy az esemény rendezési jogának megpályázásával, illetve az esemény megrendezésével egyetért-e.
-
-[^9]: A 7. § (1) bekezdése az 553/2021. (IX. 28.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.

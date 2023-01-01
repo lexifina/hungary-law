@@ -1,1 +1,0 @@
-## 17. § A támogatási szerződésben elő kell írni, hogy a kedvezményezett a sportesemény stratégiát köteles megvalósítani, és a támogatást a sportesemény stratégia részét képező költségtervnek megfelelően köteles felhasználni.
