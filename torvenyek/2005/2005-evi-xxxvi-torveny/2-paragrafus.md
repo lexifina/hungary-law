@@ -582,6 +582,8 @@ BÍRÓSÁGI VAGY BÍRÓSÁGON KÍVÜLI IRAT KÜLFÖLDÖN TÖRTÉNŐ KÉZBESÍTÉ
 
 1. jogsegélykérelem:
 
+5M03466_0
+
 |
 
 KÉRELEM – REQUEST
@@ -699,6 +701,10 @@ Aláírás és/vagy bélyegző / Signature and / or stamp
 TANÚSÍTVÁNY
 
 2. kézbesítési tanúsítvány:
+
+5M03467_0
+
+|
 
 |
 
@@ -904,6 +910,8 @@ A KÉZBESÍTENDŐ IRAT RÖVID LEÍRÁSA
 
 3. a kézbesítendő irat rövid leírása:
 
+5M03468_0
+
 |
 
 A KÉZBESÍTENDŐ IRAT RÖVID LEÍRÁSA
@@ -1008,7 +1016,7 @@ Time-limits stated in the document:**
 
 |
 
-* Adott esetben az irat megküldésében érdekelt személy kiléte és címe / If appropriate, identity and address of the person interested in the transmission of the document
+*Adott esetben az irat megküldésében érdekelt személy kiléte és címe / If appropriate, identity and address of the person interested in the transmission of the document
 
 ** a nem kívánt rész törlendő / Delete if inappropriate
 

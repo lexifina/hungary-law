@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-36-00-00
 | --- | --- | --- |
 | 2007-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2005-36-00-00.3 |
 | 2018-01-01 | 2017. évi XXVIII. törvény | 2005-36-00-00.4 |
+| 2023-01-01 | 2022. évi LIV. törvény | 2005-36-00-00.5 |
