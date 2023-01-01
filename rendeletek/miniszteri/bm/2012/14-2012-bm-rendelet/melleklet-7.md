@@ -1,6 +1,6 @@
 7. melléklet a 14/2012. (III. 30.) BM rendelethez[^42]
 
-## A Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai szolgálati igazolványának leírása
+A Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai szolgálati igazolványának leírása
 
 1. Az igazolvány felépítése:
 

@@ -12,7 +12,7 @@ e)[^29] a megrongálódás, valamint adatváltozás miatt cserére szoruló szol
 
 f)[^30] azon rendvédelmi tisztjelölttől, akinek a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározottak szerint szünetel a rendvédelmi tisztjelölti szolgálati jogviszonya – a szünetelés idejére – a szünetelést megelőző utolsó munkanapon
 
-## visszavonja.
+visszavonja.
 
 (2)[^31] A hivatásos állományból felfüggesztett és a szolgálati jogviszonyát szüneteltető hivatásos állományú, valamint a rendvédelmi tisztjelölti szolgálati jogviszonyát szüneteltető rendvédelmi tisztjelölt visszavont szolgálati igazolványát a helyi személyügyi szerv a visszavonás idejére elhelyezi az érintett személyi anyagában. A felfüggesztés, illetve a szolgálati jogviszony szünetelésének megszüntetését követő első munkanapon a helyi személyügyi szerv visszaadja a visszavont szolgálati igazolványt a hivatásos állományúnak, vagy ha a 3. § (3) bekezdésben meghatározott, a visszavonás ideje alatt bekövetkezett ok miatt a szolgálati igazolvány cseréje válik szükségessé, gondoskodik a cseréről.
 

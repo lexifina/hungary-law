@@ -1,6 +1,6 @@
 6. melléklet a 14/2012. (III. 30.) BM rendelethez[^41]
 
-## Az Alkotmányvédelmi Hivatal hivatásos állományú tagjai szolgálati igazolványának leírása
+Az Alkotmányvédelmi Hivatal hivatásos állományú tagjai szolgálati igazolványának leírása
 
 1. Az igazolvány felépítése:
 

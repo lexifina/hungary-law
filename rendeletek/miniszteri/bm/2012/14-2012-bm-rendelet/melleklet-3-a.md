@@ -1,6 +1,6 @@
 3/A. melléklet a 14/2012. (III. 30.) BM rendelethez[^39]
 
-## A Rendőrségről szóló törvényben meghatározott idegenrendészeti szerv hivatásos állományú dolgozói munkáltatói igazolványának leírása
+A Rendőrségről szóló törvényben meghatározott idegenrendészeti szerv hivatásos állományú dolgozói munkáltatói igazolványának leírása
 
 1. A rendőrség idegenrendészeti szervének hivatásos állományú tagjai szolgálati igazolványának (e melléklet alkalmazásában a továbbiakban: igazolvány) felépítése és megjelenése:
 

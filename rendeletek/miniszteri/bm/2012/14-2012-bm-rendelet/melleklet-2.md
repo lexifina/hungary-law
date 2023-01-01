@@ -1,6 +1,6 @@
 2. melléklet a 14/2012. (III. 30.) BM rendelethez
 
-## A Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél szolgálatot teljesítő hivatásos állományúak szolgálati igazolványának leírása
+A Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnél szolgálatot teljesítő hivatásos állományúak szolgálati igazolványának leírása
 
 1. A rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve hivatásos állományú tagjai szolgálati igazolványának (e melléklet alkalmazásában a továbbiakban: igazolvány) felépítése és megjelenése:
 

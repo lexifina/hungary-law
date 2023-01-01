@@ -1,6 +1,6 @@
 8. melléklet a 14/2012. (III. 30.) BM rendelethez[^43]
 
-## A tisztjelölt szolgálati igazolványának leírása
+A tisztjelölt szolgálati igazolványának leírása
 
 1. A tisztjelölt szolgálati igazolványának (e melléklet alkalmazásában a továbbiakban: igazolvány) felépítése és megjelenése: Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, többrétegű, az általános rendőrségi feladatok ellátására létrehozott szervnél vagy az idegenrendészeti szervnél tisztjelölti szolgálatot teljesítő tisztjelölt esetében kék színű címsorban sötétkék, a hivatásos katasztrófavédelmi szervnél tisztjelölti szolgálatot teljesítő tisztjelölt esetében piros színű címsorban sötétlila felirattal ellátott holografikus biztonsági elemet tartalmazó műanyag kártyaigazolvány.
 

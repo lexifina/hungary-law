@@ -2,7 +2,7 @@
 
 1. melléklet a 14/2012. (III. 30.) BM rendelethez[^38]
 
-## A Rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szervnél szolgálatot teljesítő hivatásos állományúak szolgálati igazolványának leírása
+A Rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szervnél szolgálatot teljesítő hivatásos állományúak szolgálati igazolványának leírása
 
 1. Az általános rendőrségi feladatok ellátására létrehozott szerv hivatásos állományának tagjai szolgálati igazolványának (e melléklet alkalmazásában a továbbiakban: igazolvány) felépítése és megjelenése:
 
@@ -38,43 +38,43 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID–1 méretű, töb
 
 | 8. |  | 301. | Budapesti Rendőr-főkapitányság |
 
-| 9. |  | 302. | Baranya Megyei Rendőr-főkapitányság |
+| 9. |  | 302. | Baranya Vármegyei Rendőr-főkapitányság |
 
-| 10. |  | 303. | Bács-Kiskun Megyei Rendőr-főkapitányság |
+| 10. |  | 303. | Bács-Kiskun Vármegyei Rendőr-főkapitányság |
 
-| 11. |  | 304. | Békés Megyei Rendőr-főkapitányság |
+| 11. |  | 304. | Békés Vármegyei Rendőr-főkapitányság |
 
-| 12. |  | 305. | Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság |
+| 12. |  | 305. | Borsod-Abaúj-Zemplén Vármegyei Rendőr-főkapitányság |
 
-| 13. |  | 306. | Csongrád-Csanád Megyei Rendőr-főkapitányság |
+| 13. |  | 306. | Csongrád-Csanád Vármegyei Rendőr-főkapitányság |
 
-| 14. |  | 307. | Fejér Megyei Rendőr-főkapitányság |
+| 14. |  | 307. | Fejér Vármegyei Rendőr-főkapitányság |
 
-| 15. |  | 308. | Győr-Moson-Sopron Megyei Rendőr-főkapitányság |
+| 15. |  | 308. | Győr-Moson-Sopron Vármegyei Rendőr-főkapitányság |
 
-| 16. |  | 309. | Hajdú-Bihar Megyei Rendőr-főkapitányság |
+| 16. |  | 309. | Hajdú-Bihar Vármegyei Rendőr-főkapitányság |
 
-| 17. |  | 310. | Heves Megyei Rendőr-főkapitányság |
+| 17. |  | 310. | Heves Vármegyei Rendőr-főkapitányság |
 
-| 18. |  | 316. | Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság |
+| 18. |  | 316. | Jász-Nagykun-Szolnok Vármegyei Rendőr-főkapitányság |
 
-| 19. |  | 311. | Komárom-Esztergom Megyei Rendőr-főkapitányság |
+| 19. |  | 311. | Komárom-Esztergom Vármegyei Rendőr-főkapitányság |
 
-| 20. |  | 312. | Nógrád Megyei Rendőr-főkapitányság |
+| 20. |  | 312. | Nógrád Vármegyei Rendőr-főkapitányság |
 
-| 21. |  | 313. | Pest Megyei Rendőr-főkapitányság |
+| 21. |  | 313. | Pest Vármegyei Rendőr-főkapitányság |
 
-| 22. |  | 314. | Somogy Megyei Rendőr-főkapitányság |
+| 22. |  | 314. | Somogy Vármegyei Rendőr-főkapitányság |
 
-| 23. |  | 315. | Szabolcs-Szatmár-Bereg Megyei Rendőr-főkapitányság |
+| 23. |  | 315. | Szabolcs-Szatmár-Bereg Vármegyei Rendőr-főkapitányság |
 
-| 24. |  | 317. | Tolna Megyei Rendőr-főkapitányság |
+| 24. |  | 317. | Tolna Vármegyei Rendőr-főkapitányság |
 
-| 25. |  | 318. | Vas Megyei Rendőr-főkapitányság |
+| 25. |  | 318. | Vas Vármegyei Rendőr-főkapitányság |
 
-| 26. |  | 319. | Veszprém Megyei Rendőr-főkapitányság |
+| 26. |  | 319. | Veszprém Vármegyei Rendőr-főkapitányság |
 
-| 27. |  | 320. | Zala Megyei Rendőr-főkapitányság |
+| 27. |  | 320. | Zala Vármegyei Rendőr-főkapitányság |
 
 [^37]: A 12. §-t a 27/2019. (VI. 28.) BM rendelet 21. §-a iktatta be.
-[^38]: Az 1. melléklet a 31/2012. (VI. 28.) BM rendelet 23. §-a, a 43/2012. (VIII. 23.) BM rendelet 18. §-a, az 50/2012. (X. 11.) BM rendelet 4. § (3) bekezdése, a 37/2015. (VI. 16.) BM rendelet 59. § (1) és (3) bekezdése, a 37/2016. (IX. 1.) BM rendelet 7. §-a, az 58/2016. (XII. 22.) BM rendelet 30. §-a, a 39/2020. (XI. 4.) BM rendelet 9. § a) pontja szerint módosított szöveg.
+[^38]: Az 1. melléklet a 31/2012. (VI. 28.) BM rendelet 23. §-a, a 43/2012. (VIII. 23.) BM rendelet 18. §-a, az 50/2012. (X. 11.) BM rendelet 4. § (3) bekezdése, a 37/2015. (VI. 16.) BM rendelet 59. § (1) és (3) bekezdése, a 37/2016. (IX. 1.) BM rendelet 7. §-a, az 58/2016. (XII. 22.) BM rendelet 30. §-a, a 39/2020. (XI. 4.) BM rendelet 9. § a) pontja, a 45/2022. (XII. 20.) BM rendelet 64. §-a szerint módosított szöveg.

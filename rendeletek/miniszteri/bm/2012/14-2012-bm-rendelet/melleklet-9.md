@@ -1,6 +1,6 @@
 9. melléklet a 14/2012. (III. 30.) BM rendelethez[^44]
 
-## A Terrorelhárítási Információs és Bűnügyi Elemző Központ hivatásos állományú tagjai szolgálati igazolványának leírása
+A Terrorelhárítási Információs és Bűnügyi Elemző Központ hivatásos állományú tagjai szolgálati igazolványának leírása
 
 1. Az igazolvány felépítése:
 

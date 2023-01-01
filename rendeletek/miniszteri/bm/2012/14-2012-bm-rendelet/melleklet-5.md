@@ -1,6 +1,6 @@
 5. melléklet a 14/2012. (III. 30.) BM rendelethez[^40]
 
-## A hivatásos katasztrófavédelmi szerv hivatásos állományú tagjai szolgálati igazolványának leírása
+A hivatásos katasztrófavédelmi szerv hivatásos állományú tagjai szolgálati igazolványának leírása
 
 1. A katasztrófavédelem hivatásos állományú tagjai szolgálati igazolványának (e melléklet alkalmazásában a továbbiakban: igazolvány) felépítése és megjelenése:
 
@@ -28,42 +28,42 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID–1 méretű, piro
 
 | 5. |  | 505. | Fővárosi Katasztrófavédelmi Igazgatóság |
 
-| 6. |  | 510. | Baranya Megyei Katasztrófavédelmi Igazgatóság |
+| 6. |  | 510. | Baranya Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 7. |  | 511. | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság |
+| 7. |  | 511. | Bács-Kiskun Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 8. |  | 512. | Békés Megyei Katasztrófavédelmi Igazgatóság |
+| 8. |  | 512. | Békés Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 9. |  | 513. | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság |
+| 9. |  | 513. | Borsod-Abaúj-Zemplén Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 10. |  | 514. | Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság |
+| 10. |  | 514. | Csongrád-Csanád Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 11. |  | 515. | Fejér Megyei Katasztrófavédelmi Igazgatóság |
+| 11. |  | 515. | Fejér Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 12. |  | 516. | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság |
+| 12. |  | 516. | Győr-Moson-Sopron Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 13. |  | 517. | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság |
+| 13. |  | 517. | Hajdú-Bihar Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 14. |  | 518. | Heves Megyei Katasztrófavédelmi Igazgatóság |
+| 14. |  | 518. | Heves Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 15. |  | 519. | Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság |
+| 15. |  | 519. | Jász-Nagykun-Szolnok Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 16. |  | 520. | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság |
+| 16. |  | 520. | Komárom-Esztergom Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 17. |  | 521. | Nógrád Megyei Katasztrófavédelmi Igazgatóság |
+| 17. |  | 521. | Nógrád Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 18. |  | 522. | Pest Megyei Katasztrófavédelmi Igazgatóság |
+| 18. |  | 522. | Pest Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 19. |  | 523. | Somogy Megyei Katasztrófavédelmi Igazgatóság |
+| 19. |  | 523. | Somogy Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 20. |  | 524. | Szabolcs-Szatmár-Bereg Megyei Katasztrófavédelmi Igazgatóság |
+| 20. |  | 524. | Szabolcs-Szatmár-Bereg Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 21. |  | 525. | Tolna Megyei Katasztrófavédelmi Igazgatóság |
+| 21. |  | 525. | Tolna Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 22. |  | 526. | Vas Megyei Katasztrófavédelmi Igazgatóság |
+| 22. |  | 526. | Vas Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 23. |  | 527. | Veszprém Megyei Katasztrófavédelmi Igazgatóság |
+| 23. |  | 527. | Veszprém Vármegyei Katasztrófavédelmi Igazgatóság |
 
-| 24. |  | 528. | Zala Megyei Katasztrófavédelmi Igazgatóság |
+| 24. |  | 528. | Zala Vármegyei Katasztrófavédelmi Igazgatóság |
 
-[^40]: Az 5. melléklet a 39/2020. (XI. 4.) BM rendelet 9. § b) pontja szerint módosított szöveg.
+[^40]: Az 5. melléklet a 39/2020. (XI. 4.) BM rendelet 9. § b) pontja, a 45/2022. (XII. 20.) BM rendelet 64. §-a szerint módosított szöveg.

@@ -1,6 +1,6 @@
 4. melléklet a 14/2012. (III. 30.) BM rendelethez
 
-## A büntetés-végrehajtási szervezet hivatásos állományú tagjai szolgálati igazolványának leírása
+A büntetés-végrehajtási szervezet hivatásos állományú tagjai szolgálati igazolványának leírása
 
 1. Az igazolvány felépítése:
 

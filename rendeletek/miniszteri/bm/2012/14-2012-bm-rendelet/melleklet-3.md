@@ -1,6 +1,6 @@
 3. melléklet a 14/2012. (III. 30.) BM rendelethez
 
-## A Rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervnél szolgálatot teljesítő hivatásos állományúak szolgálati igazolványának leírása
+A Rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervnél szolgálatot teljesítő hivatásos állományúak szolgálati igazolványának leírása
 
 1. A rendőrség terrorizmust elhárító szerve hivatásos állományú tagjai szolgálati igazolványának (e melléklet alkalmazásában a továbbiakban: igazolvány) felépítése és megjelenése:
 
