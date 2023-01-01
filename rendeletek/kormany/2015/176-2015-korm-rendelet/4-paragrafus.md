@@ -34,29 +34,29 @@ d) a közlekedési hatóság nyilatkozatát arra vonatkozóan, hogy a jármű me
 
 a) a főváros területe,
 
-b) a megye egész területe,
+b)[^13] a vármegye egész területe,
 
-c) a megye területe, az engedélyben megjelölt települések területének a kivételével,
+c)[^14] a vármegye területe, az engedélyben megjelölt települések területének a kivételével,
 
 d) a megyei jogú város területe, vagy
 
 e) meghatározott település, vagy települések területe.
 
-(8) Ha a vállalkozás működési területe a megye egész területére szól, a közlekedési hatóság – a vállalkozás kérelemére – a vállalkozás egyes személygépkocsijainak a működési területét azok engedélykivonatában a (7) bekezdés c), d) vagy e) pontjában megjelölt kisebb területre határozza meg.
+(8)[^15] Ha a vállalkozás működési területe a vármegye egész területére szól, a közlekedési hatóság – a vállalkozás kérelemére – a vállalkozás egyes személygépkocsijainak a működési területét azok engedélykivonatában a (7) bekezdés c), d) vagy e) pontjában megjelölt kisebb területre határozza meg.
 
 (9) Személytaxival a működési területén kívül – az általa szállított utas visszaszállítását kivéve – utas csak írásbeli előrendelés alapján és csak a személytaxi működési területén levő úticéllal vehető fel.
 
-(10)[^13] Ha a helyi önkormányzat (a fővárosban a fővárosi önkormányzat) közigazgatási területén – rendeletében – meghatározott feltételekhez kötötte a személytaxi-szolgáltatatást folytató vállalkozások működését, a tevékenységi engedély e területre csak abban az esetben adható ki, ha a helyi önkormányzat vagy az általa megbízott közlekedésszervező igazolja, hogy a vállalkozás megfelel a helyi önkormányzat rendeletében meghatározott feltételeknek is.
+(10)[^16] Ha a helyi önkormányzat (a fővárosban a fővárosi önkormányzat) közigazgatási területén – rendeletében – meghatározott feltételekhez kötötte a személytaxi-szolgáltatatást folytató vállalkozások működését, a tevékenységi engedély e területre csak abban az esetben adható ki, ha a helyi önkormányzat vagy az általa megbízott közlekedésszervező igazolja, hogy a vállalkozás megfelel a helyi önkormányzat rendeletében meghatározott feltételeknek is.
 
-(11)[^14] A személytaxi-szolgáltatásra kiadott tevékenységi engedélyben meghatározott működési terület a vállalkozás kérelmére több megye területére is kiterjedhet, vagy utólag kiterjesztésre kerülhet. A kiterjedés vagy kiterjesztés iránti kérelmet – ha olyan területre is vonatkozik, amelyre a helyi önkormányzat feltételeket határozott meg, az önkormányzat vagy az általa megbízott közlekedésszervező előzetes igazolásával együtt – a tevékenységi engedélyt kiállító közlekedési hatósághoz kell benyújtani. Ha a vállalkozás és a vállalkozás által üzemben tartott személygépkocsi az adott területre kiadott önkormányzati rendeletben foglaltaknak is megfelel, a közlekedési hatóságnak a vállalkozás működési területét a vállalkozás kérelmében foglaltak szerint kell meghatároznia, továbbá a vállalkozás tevékenységi engedélyében maghatározott működési területet ennek figyelembe vételével kell kiegészítenie, és erről a kiterjedés vagy kiterjesztés szerint illetékes közlekedési hatóságot egyidejűleg értesítenie kell.
+(11)[^17] A személytaxi-szolgáltatásra kiadott tevékenységi engedélyben meghatározott működési terület a vállalkozás kérelmére több vármegye területére is kiterjedhet, vagy utólag kiterjesztésre kerülhet. A kiterjedés vagy kiterjesztés iránti kérelmet – ha olyan területre is vonatkozik, amelyre a helyi önkormányzat feltételeket határozott meg, az önkormányzat vagy az általa megbízott közlekedésszervező előzetes igazolásával együtt – a tevékenységi engedélyt kiállító közlekedési hatósághoz kell benyújtani. Ha a vállalkozás és a vállalkozás által üzemben tartott személygépkocsi az adott területre kiadott önkormányzati rendeletben foglaltaknak is megfelel, a közlekedési hatóságnak a vállalkozás működési területét a vállalkozás kérelmében foglaltak szerint kell meghatároznia, továbbá a vállalkozás tevékenységi engedélyében maghatározott működési területet ennek figyelembe vételével kell kiegészítenie, és erről a kiterjedés vagy kiterjesztés szerint illetékes közlekedési hatóságot egyidejűleg értesítenie kell.
 
-(12)[^15] Ha a vállalkozás a működési területének valamely részén már nem felel meg a jogszabályi rendelkezéseknek, a tevékenységi engedélyt kiadó közlekedési hatóság törli ezeket a működési területeket a tevékenységi engedélyből és az engedélykivonatból. Ha a vállalkozás összes működési területét törölni kell, és a tevékenységi engedélybe új működési terület bejegyzésének feltételei sem állnak fenn, akkor a közlekedési hatóság a tevékenységi engedélyt visszavonja.
+(12)[^18] Ha a vállalkozás a működési területének valamely részén már nem felel meg a jogszabályi rendelkezéseknek, a tevékenységi engedélyt kiadó közlekedési hatóság törli ezeket a működési területeket a tevékenységi engedélyből és az engedélykivonatból. Ha a vállalkozás összes működési területét törölni kell, és a tevékenységi engedélybe új működési terület bejegyzésének feltételei sem állnak fenn, akkor a közlekedési hatóság a tevékenységi engedélyt visszavonja.
 
 (13) A személygépkocsis személyszállító szolgáltatásra kiadott tevékenységi engedély alapján e szolgáltatás az ország egész területén végezhető.
 
-(14)[^16] Személyszállító szolgáltatásra vonatkozó tevékenységi engedély nélkül végezhet személygépkocsis személyszállító szolgáltatást az a vállalkozás, amely rendelkezik autóbusszal díj ellenében végzett személyszállítási tevékenységre vonatkozó érvényes közúti személyszállítási engedéllyel, amennyiben kizárólag az autóbusszal általa nyújtott közúti közlekedési szolgáltatáshoz közvetlenül kapcsolódóan nyújtja a személygépkocsis személyszállító szolgáltatást. Az ilyen vállalkozásra, a tevékenységi engedélyre, továbbá a tevékenységi engedély kiadásának feltételeire, kiadására és visszavonására a 4. § (2)–(13) bekezdésében, az 5. § (1) bekezdésében, a 6–8. §-ban, a 12. §-ban, a 13. §-ban, a 15. § (1)–(7) bekezdésében, az 1. és a 2. mellékletben meghatározott rendelkezések helyett a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendelet rendelkezéseit kell megfelelően alkalmazni.
+(14)[^19] Személyszállító szolgáltatásra vonatkozó tevékenységi engedély nélkül végezhet személygépkocsis személyszállító szolgáltatást az a vállalkozás, amely rendelkezik autóbusszal díj ellenében végzett személyszállítási tevékenységre vonatkozó érvényes közúti személyszállítási engedéllyel, amennyiben kizárólag az autóbusszal általa nyújtott közúti közlekedési szolgáltatáshoz közvetlenül kapcsolódóan nyújtja a személygépkocsis személyszállító szolgáltatást. Az ilyen vállalkozásra, a tevékenységi engedélyre, továbbá a tevékenységi engedély kiadásának feltételeire, kiadására és visszavonására a 4. § (2)–(13) bekezdésében, az 5. § (1) bekezdésében, a 6–8. §-ban, a 12. §-ban, a 13. §-ban, a 15. § (1)–(7) bekezdésében, az 1. és a 2. mellékletben meghatározott rendelkezések helyett a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendelet rendelkezéseit kell megfelelően alkalmazni.
 
-(15)[^17] A személyszállító szolgáltatás nyújtása során a jármű más célra nem használható.
+(15)[^20] A személyszállító szolgáltatás nyújtása során a jármű más célra nem használható.
 
 [^6]: A 4. § (1) bekezdése a 8/2016. (II. 9.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^7]: A 4. § (2) bekezdése a 394/2022. (X. 19.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
@@ -65,8 +65,11 @@ e) meghatározott település, vagy települések területe.
 [^10]: A 4. § (5b) bekezdését a 394/2022. (X. 19.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^11]: A 4. § (5c) bekezdését a 394/2022. (X. 19.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^12]: A 4. § (6) bekezdése a 416/2020. (VIII. 30.) Korm. rendelet 1. §-ával megállapított, a 394/2022. (X. 19.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
-[^13]: A 4. § (10) bekezdése a 394/2022. (X. 19.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
-[^14]: A 4. § (11) bekezdése a 394/2022. (X. 19.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
-[^15]: A 4. § (12) bekezdése a 394/2022. (X. 19.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^16]: A 4. § (14) bekezdését a 8/2016. (II. 9.) Korm. rendelet 14. § (3) bekezdése iktatta be, szövege a 394/2022. (X. 19.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
-[^17]: A 4. § (15) bekezdését a 394/2022. (X. 19.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^13]: A 4. § (7) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 215. § a) pontja szerint módosított szöveg.
+[^14]: A 4. § (7) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 215. § a) pontja szerint módosított szöveg.
+[^15]: A 4. § (8) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 215. § a) pontja szerint módosított szöveg.
+[^16]: A 4. § (10) bekezdése a 394/2022. (X. 19.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^17]: A 4. § (11) bekezdése a 394/2022. (X. 19.) Korm. rendelet 24. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 215. § a) pontja szerint módosított szöveg.
+[^18]: A 4. § (12) bekezdése a 394/2022. (X. 19.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^19]: A 4. § (14) bekezdését a 8/2016. (II. 9.) Korm. rendelet 14. § (3) bekezdése iktatta be, szövege a 394/2022. (X. 19.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^20]: A 4. § (15) bekezdését a 394/2022. (X. 19.) Korm. rendelet 4. § (4) bekezdése iktatta be.

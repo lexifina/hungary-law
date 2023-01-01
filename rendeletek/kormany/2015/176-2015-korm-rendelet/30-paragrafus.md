@@ -1,3 +1,3 @@
-30. §[^75]
+30. §[^79]
 
-[^75]: A 28–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^79]: A 28–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

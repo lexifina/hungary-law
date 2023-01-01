@@ -6,7 +6,7 @@
 
 (3) A személyszállító vezetői igazolványt a közlekedési hatóság a 11. § (3) vagy (5) bekezdése szerinti vizsgaigazolásnak az érvényességi idejére, de legfeljebb öt évre adja ki.
 
-(4)[^32] A kérelmet a közlekedési hatóság elutasítja, ha a személygépkocsi vezetője
+(4)[^36] A kérelmet a közlekedési hatóság elutasítja, ha a személygépkocsi vezetője
 
 a) az 5. § (2) bekezdés b) pontjában meghatározottaknak – a személyszállító vezetői igazolvány meglétének kivételével – nem felel meg,
 
@@ -34,14 +34,14 @@ d) a személygépkocsi vezető arcképmását, valamint
 
 e) személytaxi-vezetői igazolvány esetén az igazolvány területi hatályát is.
 
-(6)[^33] A személyszállító vezetői igazolvány jogosultja a közlekedési hatóságnál a változástól számított 15 napon belül bejelenti az (5) bekezdés b) és e) pontja szerinti adatokban bekövetkezett változásokat.
+(6)[^37] A személyszállító vezetői igazolvány jogosultja a közlekedési hatóságnál a változástól számított 15 napon belül bejelenti az (5) bekezdés b) és e) pontja szerinti adatokban bekövetkezett változásokat.
 
-(7)[^34] A (6) bekezdés szerinti bejelentés alapján a közlekedési hatóság a személyszállító vezetői igazolvány
+(7)[^38] A (6) bekezdés szerinti bejelentés alapján a közlekedési hatóság a személyszállító vezetői igazolvány
 
 a) visszavonásáról intézkedik, ha az igazolvány kiadásának feltételei a továbbiakban nem állnak fenn, vagy
 
 b) bevonásával egyidejűleg új személyszállító vezetői igazolványt ad ki, ha annak adataiban változás következett be, és az igazolvány kiadásának feltételei továbbra is fennállnak.
 
-[^32]: A 14. § (4) bekezdése a 394/2022. (X. 19.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^33]: A 14. § (6) bekezdése a 394/2022. (X. 19.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^34]: A 14. § (7) bekezdése a 394/2022. (X. 19.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^36]: A 14. § (4) bekezdése a 394/2022. (X. 19.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^37]: A 14. § (6) bekezdése a 394/2022. (X. 19.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^38]: A 14. § (7) bekezdése a 394/2022. (X. 19.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.

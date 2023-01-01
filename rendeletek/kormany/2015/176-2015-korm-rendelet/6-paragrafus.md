@@ -1,6 +1,6 @@
 ## 4. Személyes megbízhatóság
 
-6. §[^21] (1) A személyes megbízhatóság követelményének a vállalkozás szakmai irányítója abban az esetben nem felel meg, ha
+6. §[^24] (1) A személyes megbízhatóság követelményének a vállalkozás szakmai irányítója abban az esetben nem felel meg, ha
 
 a) korábban olyan személyszállító szolgáltatást folytató vállalkozás szakmai irányítója volt, amelynél a vezetők személyi feltételeire, az áralkalmazásra, a nyugtaadási kötelezettségre, valamint a helyi önkormányzat által kiadott rendelet alapján közterületen kijelölt taxiállomás (a továbbiakban: taxiállomás) használatára vonatkozó rendelkezéseket megsértették, és ezért a tevékenységet engedélyező hatóság a vállalkozás tevékenységi engedélyét visszavonta, és a vállalkozást a tevékenység gyakorlásától meghatározott időre eltiltotta, a döntésben foglalt időtartam leteltéig,
 
@@ -20,4 +20,4 @@ h) mint járművezetőt az engedély iránti kérelem benyújtását megelőző 
 
 (2) Az 5. § (1) bekezdésében foglaltaktól eltérően az (1) bekezdés a)–f) és h) pontjában meghatározott feltételek teljesülését az engedélyező közlekedési hatóság a rendelkezésére álló adatok alapján ellenőrzi.
 
-[^21]: A 6. § a 394/2022. (X. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^24]: A 6. § a 394/2022. (X. 19.) Korm. rendelet 6. §-ával megállapított szöveg.

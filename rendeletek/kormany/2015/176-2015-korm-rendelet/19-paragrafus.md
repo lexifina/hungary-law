@@ -4,6 +4,6 @@
 
 19. § (1) Az infokommunikációs eszközön keresztül megrendelt személyszállítási szolgáltatásokra az e rendeletben meghatározott rendelkezéseket alkalmazni kell.
 
-(2)[^46]
+(2)[^50]
 
-[^46]: A 19. § (2) bekezdését a 394/2022. (X. 19.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte.
+[^50]: A 19. § (2) bekezdését a 394/2022. (X. 19.) Korm. rendelet 25. § c) pontja hatályon kívül helyezte.

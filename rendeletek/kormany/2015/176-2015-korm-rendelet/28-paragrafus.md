@@ -1,5 +1,5 @@
 ## 22. Módosító rendelkezések
 
-28. §[^73]
+28. §[^77]
 
-[^73]: A 28–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: A 28–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,6 +1,6 @@
 ## 13. A tevékenységi engedély, valamint a személyszállító vezetői igazolvány visszavonása
 
-15. §[^35] (1) A közlekedési hatóság a vállalkozás tevékenységi engedélyét visszavonja, és a tevékenység gyakorlásától a vállalkozást két évre eltiltja, ha a vállalkozás – anélkül, hogy a szünetelést a megkülönböztető rendszámtábla egyidejű letétbe helyezése mellett a közlekedési hatóságnak bejelentette volna – az engedélyezett tevékenységet legalább egy éven át nem gyakorolja.
+15. §[^39] (1) A közlekedési hatóság a vállalkozás tevékenységi engedélyét visszavonja, és a tevékenység gyakorlásától a vállalkozást két évre eltiltja, ha a vállalkozás – anélkül, hogy a szünetelést a megkülönböztető rendszámtábla egyidejű letétbe helyezése mellett a közlekedési hatóságnak bejelentette volna – az engedélyezett tevékenységet legalább egy éven át nem gyakorolja.
 
 (2) Amennyiben véglegessé vált hatósági döntés egy éven belül legalább két alkalommal megállapítja, hogy a vállalkozás megsértette a személyszállító szolgáltatás végzésére vonatkozó jogszabályban meghatározott vagy a személyszállítási szolgáltatással összefüggő nyugtaadási kötelezettségre vonatkozó rendelkezéseket, a közlekedési hatóság a vállalkozás tevékenységi engedélyét visszavonja, és – a jogsértés súlyosságától és a jogsértő cselekmények elkövetésének gyakoriságától függően – a tevékenység gyakorlásától a vállalkozást legfeljebb három évre eltiltja.
 
@@ -26,4 +26,4 @@ bb) egy éven belül ismételten megsértette a 21. § (3) bekezdésében foglal
 
 c) visszavonja, és a személytaxi vezetőjét három évre eltiltja a tevékenység végzésétől, ha járművezetőként felelősségét az e rendeletben meghatározott tevékenység engedély nélküli végzéséért véglegessé vált hatósági döntés megállapította.
 
-[^35]: A 15. § a 394/2022. (X. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^39]: A 15. § a 394/2022. (X. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
