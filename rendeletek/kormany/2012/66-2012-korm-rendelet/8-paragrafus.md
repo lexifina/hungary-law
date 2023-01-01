@@ -1,4 +1,4 @@
-8. § (1)[^50] Az engedélyesnek
+8. § (1)[^58] Az engedélyesnek
 
 a) az engedélyben foglalt adatokban tervezett változás,
 
@@ -8,12 +8,12 @@ c) a rendészeti szempontból előírt biztonsági, biztonságtechnikai berendez
 
 d) új telephely, üzemrész tevékenységi körbe vonása, valamint
 
-e)[^51] a tevékenységi engedélyben nem szereplő, újabb, az 1. melléklet és az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendelet szerinti anyag, vagy új gyógyszerforma tevékenységi körbe vonása
+e)[^59] a tevékenységi engedélyben nem szereplő, újabbellenőrzött anyag, vagy új gyógyszerforma tevékenységi körbe vonása
 
-előtt az engedély módosítását kell kérnie a tervezett változások indokolásával és annak dokumentálásával, illetve feldolgozás esetén a kiinduló anyag és az előállított terméknek az 1. melléklet és az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendelet szerinti hatóanyagra számított tervezett mennyiségének a megadásával.
+előtt az engedély módosítását kell kérnie a tervezett változások indokolásával és annak dokumentálásával, illetve feldolgozás esetén a kiinduló anyag és az előállított terméknek az ellenőrzött anyagnak minősülő hatóanyagra számított tervezett mennyiségének a megadásával.
 
-(2)[^52]
+(2)[^60]
 
-[^50]: A 8. § (1) bekezdés záró szövegrésze a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^51]: A 8. § (1) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 83. §-ával megállapított, a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^52]: A 8. § (2) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 57. §-a hatályon kívül helyezte.
+[^58]: A 8. § (1) bekezdés záró szövegrésze a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja, a 607/2022. (XII. 28.) Korm. rendelet 10. § 8. pontja szerint módosított szöveg.
+[^59]: A 8. § (1) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 83. §-ával megállapított, a 607/2022. (XII. 28.) Korm. rendelet 10. § 7. pontja szerint módosított szöveg.
+[^60]: A 8. § (2) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 57. §-a hatályon kívül helyezte.

@@ -122,7 +122,7 @@
 
 | 1. Mákszalma (M) gyártásához |  |
 
-| ............... megye |  |
+| ............... megye[^177] |  |
 
 | ............... megye |  |
 
@@ -178,6 +178,7 @@
 
 | Összes mákszalma (C) AOA (kg) |  |
 
-10. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^156]
+10. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^178]
 
-[^156]: A 10. melléklet a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés o) pontja, a 162/2018. (IX. 10.) Korm. rendelet 20. § e) pontja, a 271/2020. (VI. 12.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^177]: [A 9. mellékletben foglalt táblázatban a 616/2022. (XII. 29.) Korm. rendelet 138. § b) pontja által elrendelt módosítás, amely szerint a megyei szövegrészek helyébe vármegyei lép, nem vezethető át.]
+[^178]: A 10. melléklet a 379/2016. (XII. 2.) Korm. rendelet 199. § (8) bekezdés o) pontja, a 162/2018. (IX. 10.) Korm. rendelet 20. § e) pontja, a 271/2020. (VI. 12.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
