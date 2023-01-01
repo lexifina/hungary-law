@@ -10,7 +10,7 @@ c)[^4] örökségvédelmi igazgatási feladatok jogi támogatása munkakörben f
 
 d)[^5] az Éhk. 2. melléklet c) pontja szerinti feladatokat ellátó kormánytisztviselő.
 
-## [az a)–d) pontban foglaltak a továbbiakban együtt: kormánytisztviselő].
+[az a)–d) pontban foglaltak a továbbiakban együtt: kormánytisztviselő].
 
 (1a)[^6] A kormánytisztviselő építésügyi vizsga kötelezettsége megszűnik, ha a rá irányadó öregségi nyugdíjkorhatár eléréséhez öt évnél rövidebb idő van hátra.
 

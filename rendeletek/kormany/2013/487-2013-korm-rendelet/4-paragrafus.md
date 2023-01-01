@@ -50,7 +50,7 @@ a)[^33] az (5) bekezdés a) pontja és az (5a) bekezdés a) pontja szerinti ép�
 
 b) az (5) bekezdés b) pontja szerinti tananyagot,
 
-## amelyeket a tárgyévet megelőző év november 30-áig a miniszter által működtetett e-epites.hu honlapon közzé kell tenni.
+amelyeket a tárgyévet megelőző év november 30-áig a miniszter által működtetett e-epites.hu honlapon közzé kell tenni.
 
 (7)[^34] A (6) bekezdés szerinti vizsgaszabályzatot és tananyagot minden év november 30-áig felül kell vizsgálni. A felülvizsgált vizsgaszabályzat és tananyag (6) bekezdés szerinti közzétételét követő 60. naptól már a felülvizsgált vizsgaszabályzatot és tananyagot kell alkalmazni.
 

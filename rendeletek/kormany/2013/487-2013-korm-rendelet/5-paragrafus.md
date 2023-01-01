@@ -12,7 +12,7 @@ ba) legalább 5 éves hatósági, vagy
 
 bb) legalább 5 éves műemlékvédelmi
 
-## gyakorlattal,
+gyakorlattal,
 
 c) az 1. melléklet B) és C) pontjában, valamint a 2. melléklet B) és C) pontjában foglalt témakörök tekintetében az oktatott témakörrel, illetve a vizsgakövetelménnyel összefüggő szakmai gyakorlattal és
 

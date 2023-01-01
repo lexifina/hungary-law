@@ -20,11 +20,11 @@ c)[^17] az 1. § (1) bekezdés c) pontja szerinti kormánytisztviselőnek az 1. 
 
 d)[^18] az 1. § (1) bekezdés d) pontja szerinti kormánytisztviselőnek az 1. melléklet B) és C) pontjában
 
-## foglalt témakörökből kell szakmai továbbképzést teljesítenie.
+foglalt témakörökből kell szakmai továbbképzést teljesítenie.
 
 (5)[^19] A továbbképzési programot évente a tematikában meghatározott témakörök alapján kell elkészíteni. Az építésügyi vizsgával vagy az annak letétele alóli mentességgel nem rendelkező kormánytisztviselő az első szakmai továbbképzési időszakát a 3. § (2) bekezdése szerint teljesíti. Az építésügyi vizsgával vagy az annak letétele alóli mentességgel rendelkező kormánytisztviselő az első szakmai továbbképzési időszakát a (4) bekezdés szerinti tartalmú továbbképzéssel teljesíti, amely a közszolgálati tisztviselők továbbképzéséről szóló kormányrendeletben meghatározott 96 tanulmányi pontnak felel meg.
 
-(6)[^20] A (4) bekezdés a) és d) pontja szerinti szakmai továbbképzést az építésügyi és örökségvédelmi feladatkörében eljáró Budapest Főváros Kormányhivatala, az építésügyi hatáskörében eljáró megyei kormányhivatal a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: LTK) bevonásával szervezi.
+(6)[^20] A (4) bekezdés a) és d) pontja szerinti szakmai továbbképzést az építésügyi és örökségvédelmi feladatkörében eljáró Budapest Főváros Kormányhivatala, az építésügyi hatáskörében eljáró vármegyei kormányhivatal a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: LTK) bevonásával szervezi.
 
 (6a)[^21] A (4) bekezdés b)–c) pontja szerinti szakmai továbbképzést a miniszter szervezi.
 
@@ -41,6 +41,6 @@ d)[^18] az 1. § (1) bekezdés d) pontja szerinti kormánytisztviselőnek az 1. 
 [^17]: A 2. § (4) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 126. § (4) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^18]: A 2. § (4) bekezdés d) pontját a 668/2020. (XII. 28.) Korm. rendelet 37. § (2) bekezdése iktatta be.
 [^19]: A 2. § (5) bekezdése a 38/2015. (III. 11.) Korm. rendelet 25. § (15) bekezdés a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 126. § (4) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^20]: A 2. § (6) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 37. § (3) bekezdésével megállapított szöveg.
+[^20]: A 2. § (6) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 37. § (3) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 172. §-a szerint módosított szöveg.
 [^21]: A 2. § (6a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 25. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 253. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^22]: A 2. § (7) bekezdése a 38/2015. (III. 11.) Korm. rendelet 25. § (6) bekezdésével megállapított, a 482/2016. (XII. 28.) Korm. rendelet 46. § b) pontja, a 13/2019. (II. 11.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
