@@ -448,44 +448,44 @@
 
 | 4a | Országos Kórházi Főigazgatóság | 10032000-00362241-00000000 |
 
-| 5 | Bács-Kiskun Megyei Kormányhivatal | 10025004-00299657-00000000 |
+| 5 | Bács-Kiskun Vármegyei Kormányhivatal | 10025004-00299657-00000000 |
 
-| 6 | Baranya Megyei Kormányhivatal | 10024003-00301019-00000000 |
+| 6 | Baranya Vármegyei Kormányhivatal | 10024003-00301019-00000000 |
 
-| 7 | Békés Megyei Kormányhivatal | 10026005-00299578-00000000 |
+| 7 | Békés Vármegyei Kormányhivatal | 10026005-00299578-00000000 |
 
-| 8 | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 10027006-00302852-00000000 |
+| 8 | Borsod-Abaúj-Zemplén Vármegyei Kormányhivatal | 10027006-00302852-00000000 |
 
-| 9 | Csongrád-Csanád Megyei Kormányhivatal | 10028007-00302584-00000000 |
+| 9 | Csongrád-Csanád Vármegyei Kormányhivatal | 10028007-00302584-00000000 |
 
-| 10 | Fejér Megyei Kormányhivatal | 10029008-00305350-00000000 |
+| 10 | Fejér Vármegyei Kormányhivatal | 10029008-00305350-00000000 |
 
 | 11 | Budapest Főváros Kormányhivatala | 10023002-00301253-00000000 |
 
-| 12 | Győr-Moson-Sopron Megyei Kormányhivatal | 10033001-00299633-00000000 |
+| 12 | Győr-Moson-Sopron Vármegyei Kormányhivatal | 10033001-00299633-00000000 |
 
-| 13 | Hajdú-Bihar Megyei Kormányhivatal | 10034002-00301954-00000000 |
+| 13 | Hajdú-Bihar Vármegyei Kormányhivatal | 10034002-00301954-00000000 |
 
-| 14 | Heves Megyei Kormányhivatal | 10035003-00299619-00000000 |
+| 14 | Heves Vármegyei Kormányhivatal | 10035003-00299619-00000000 |
 
-| 15 | Jász-Nagykun-Szolnok Megyei Kormányhivatal | 10045002-00301947-00000000 |
+| 15 | Jász-Nagykun-Szolnok Vármegyei Kormányhivatal | 10045002-00301947-00000000 |
 
-| 16 | Komárom-Esztergom Megyei Kormányhivatal | 10036004-00304270-00000000 |
+| 16 | Komárom-Esztergom Vármegyei Kormányhivatal | 10036004-00304270-00000000 |
 
-| 17 | Nógrád Megyei Kormányhivatal | 10037005-00299547-00000000 |
+| 17 | Nógrád Vármegyei Kormányhivatal | 10037005-00299547-00000000 |
 
-| 18 | Pest Megyei Kormányhivatal | 10023002-00332873-00000000 |
+| 18 | Pest Vármegyei Kormányhivatal | 10023002-00332873-00000000 |
 
-| 19 | Somogy Megyei Kormányhivatal | 10039007-00301129-00000000 |
+| 19 | Somogy Vármegyei Kormányhivatal | 10039007-00301129-00000000 |
 
-| 20 | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal | 10044001-00302285-00000000 |
+| 20 | Szabolcs-Szatmár-Bereg Vármegyei Kormányhivatal | 10044001-00302285-00000000 |
 
-| 21 | Tolna Megyei Kormányhivatal | 10046003-00306014-00000000 |
+| 21 | Tolna Vármegyei Kormányhivatal | 10046003-00306014-00000000 |
 
-| 22 | Vas Megyei Kormányhivatal | 10047004-00299523-00000000 |
+| 22 | Vas Vármegyei Kormányhivatal | 10047004-00299523-00000000 |
 
-| 23 | Veszprém Megyei Kormányhivatal | 10048005-00299516-00000000 |
+| 23 | Veszprém Vármegyei Kormányhivatal | 10048005-00299516-00000000 |
 
-| 24 | Zala Megyei Kormányhivatal | 10049006-00303066-00000000 |
+| 24 | Zala Vármegyei Kormányhivatal | 10049006-00303066-00000000 |
 
-[^14]: A 2. melléklet a 38/2018. (X. 31.) EMMI rendelet 13. §-ával megállapított, a 21/2021. (VI. 8.) EMMI rendelet 10. § (1) bekezdése, az 52/2022. (XII. 27.) BM rendelet 18. §-a szerint módosított szöveg.
+[^14]: A 2. melléklet a 38/2018. (X. 31.) EMMI rendelet 13. §-ával megállapított, a 21/2021. (VI. 8.) EMMI rendelet 10. § (1) bekezdése, a 48/2022. (XII. 27.) BM rendelet 6. § b) pontja, az 52/2022. (XII. 27.) BM rendelet 18. §-a szerint módosított szöveg.
