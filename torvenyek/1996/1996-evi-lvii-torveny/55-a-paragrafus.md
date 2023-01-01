@@ -16,7 +16,7 @@ da) az adat megismerésének hiánya megakadályozná az ügyfél törvényben b
 
 db) az érintett adat védelmét szabályozó külön törvényben az adat megismerésére meghatározott különös feltételek fennállnak,
 
-e) a Gazdasági Versenyhivatal, az Európai Bizottság, valamint a tagállami versenyhatóságok belső iratait, ideértve az 1/2003/EK tanácsi rendelet 11., 12., 14. és 22. cikke szerinti iratokat, valamint a Gazdasági Versenyhivatal és az Európai Bizottság, illetve a más tagállami versenyhatóságok közti, vagy az utóbbiak egymás közötti levelezését, kivéve azt az iratot vagy abban szereplő adatot, amely a tényállás megállapításakor bizonyítékként került felhasználására, ha az ilyen irat vagy adat megismerésének hiánya megakadályozná az ügyfél törvényben biztosított jogainak gyakorlását,
+e) a Gazdasági Versenyhivatal, az Európai Bizottság, valamint a tagállami versenyhatóságok, valamint az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóságok belső iratait, ideértve az 1/2003/EK tanácsi rendelet 11., 12., 14. és 22. cikke szerinti iratokat, valamint a Gazdasági Versenyhivatal és az Európai Bizottság, illetve a más tagállami versenyhatóságok vagy az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóságok közti, vagy ezek egymás közötti levelezését, kivéve azt az iratot vagy abban szereplő adatot, amely a tényállás megállapításakor bizonyítékként került felhasználására, ha az ilyen irat vagy adat megismerésének hiánya megakadályozná az ügyfél törvényben biztosított jogainak gyakorlását,
 
 f) e törvény eltérő rendelkezése hiányában, a 65/B. § vagy a 65/C. § hatálya alá tartozó kutatási másolatot, köztes munkamásolatot, illetve vizsgálati munkamásolatot.
 

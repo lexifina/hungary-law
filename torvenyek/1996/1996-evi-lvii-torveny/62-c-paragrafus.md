@@ -6,4 +6,4 @@
 
 (3) A fizetési kedvezményre vonatkozó szabályokat kell megfelelően alkalmazni meghatározott cselekmény teljesítésére irányuló kötelezettség esetén is.
 
-(4) A teljesítési határidő lejárta után az ügyfél – feltéve, hogy a végrehajtást még nem rendelték el – a (2) bekezdésben meghatározott okból igazolási kérelem egyidejű benyújtásával kérhet fizetési kedvezményt. Ha a vizsgáló, illetve az eljáró versenytanács elutasítja az igazolási kérelmet és a fizetési kedvezmény iránti kérelmet, egyidejűleg dönt a végrehajtás elrendeléséről is.
+(4) A teljesítési határidő lejárta után az ügyfél – feltéve, hogy a végrehajtást még nem rendelték el – a (2) bekezdésben meghatározott okból igazolási kérelem egyidejű benyújtásával kérhet fizetési kedvezményt. Az igazolási kérelem, illetve a fizetési kedvezmény iránti kérelem elutasítása esetén a vizsgáló dönt a végrehajtás elrendeléséről is.

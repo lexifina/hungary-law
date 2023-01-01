@@ -36,11 +36,13 @@ a) a 67. § (2), (3) vagy (5) bekezdése alapján vizsgálatot rendel el,
 
 b) megállapítja, hogy a bejelentésben foglalt, illetve a bejelentés alapján lefolytatott eljárásban beszerzett adatok alapján a versenyfelügyeleti eljárás megindításának a 67. § (2), (3) vagy (5) bekezdésében meghatározott feltételei nem állnak fenn,
 
-c) az eljárást megszünteti, ha a bejelentésben foglaltak tekintetében
+c) az eljárást megszünteti, ha
 
-ca) a bejelentettel szemben már versenyfelügyeleti eljárás van folyamatban, vagy
+ca) a bejelentésben foglaltak tekintetében a bejelentettel szemben már versenyfelügyeleti eljárás van folyamatban,
 
 cb) a Gazdasági Versenyhivatal a bejelentésben foglaltakat – a bejelentésben foglaltakkal azonos tényállás és változatlan jogi szabályozás mellett – már elbírálta, vagy
+
+cc) a bejelentő a bejelentést visszavonta, vagy
 
 d) hatáskör hiányában a bejelentést átteszi a hatáskörrel és illetékességgel rendelkező hatósághoz.
 

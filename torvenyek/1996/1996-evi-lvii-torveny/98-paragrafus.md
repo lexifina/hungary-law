@@ -8,13 +8,13 @@
 
 (3) E törvény
 
-a) 1. § (2) bekezdése, 33. § (1) és (2a) bekezdése, 36. § (1) bekezdés e) pontja, 43/H. § (11) bekezdése, 80/A. § (1) bekezdése, 80/B. §-a, 80/C. §-a, 80/D. § (1)–(3) bekezdése, 80/E. §-a és 80/F. §-a a Szerződés 81. és 82. cikkében meghatározott versenyszabályok végrehajtásáról szóló, 2002. december 16-i 1/2003/EK tanácsi rendeletnek,
+a) 1. § (2) bekezdése, 33. § (1) és (2a) bekezdése, 36. § (1) bekezdés e) pontja, 43/H. § (11) bekezdése, 80/A. § (1) bekezdése, 80/B. §-a, 80/C. §-a, 80/D. § (1)–(3) bekezdése, 80/E. §-a, 80/F. §-a és 80/I–80/K. §-a a Szerződés 81. és 82. cikkében meghatározott versenyszabályok végrehajtásáról szóló, 2002. december 16-i 1/2003/EK tanácsi rendeletnek,
 
-b) 36. § (1) bekezdés e) pontja, 80/A. § (2) bekezdése, 80/D. § (4)–(7) bekezdése és 80/F. §-a a vállalkozások közötti összefonódások ellenőrzéséről szóló, 2004. január 20-i 139/2004/EK tanácsi rendeletnek,
+b) 36. § (1) bekezdés e) pontja, 80/A. § (2) bekezdése, 80/D. § (4)–(7) bekezdése, 80/F. §-a és 80/I–80/K. §-a a vállalkozások közötti összefonódások ellenőrzéséről szóló, 2004. január 20-i 139/2004/EK tanácsi rendeletnek,
 
 c) 43/H. § (12) bekezdése és XI/B. Fejezete – a Gazdasági Versenyhivatal feladatkörében és eljárásában – a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendeletnek,
 
-d)
+d) 33. § (2d) bekezdése, 36. § (1) bekezdés e) pontja, 55/A. § (1) bekezdés e) pontja, 80/D. § (4a) bekezdése és 80/Q–80/S. §-a a digitális ágazat vonatkozásában a versengő és tisztességes piacokról, valamint az (EU) 2019/1937 és az (EU) 2020/1828 irányelv módosításáról (digitális piacokról szóló jogszabály) szóló, 2022. szeptember 14-i (EU) 2022/1925 európai parlamenti és tanácsi rendeletnek
 
 a végrehajtásához szükséges rendelkezéseket állapít meg.
 

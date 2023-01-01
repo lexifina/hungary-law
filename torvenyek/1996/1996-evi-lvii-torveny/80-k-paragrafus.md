@@ -8,7 +8,7 @@
 
 (5) Az (1) vagy (2) bekezdés szerinti megkeresés alapján elrendelt végrehajtás eredményeként beszedett összeg a megkereső versenyhatóság bevétele.
 
-(6) A Gazdasági Versenyhivatal az e § szerinti intézkedéseivel kapcsolatban felmerülő költségeit levonhatja a megkereső versenyhatóság nevében behajtott bírságból vagy eljárási bírságból. Ha a bírság e költségeket nem fedezi, a Gazdasági Versenyhivatal kérheti költségeinek megtérítését a megkereső versenyhatóságtól.
+(6) A Gazdasági Versenyhivatal nem kérheti az e § szerinti intézkedéseivel kapcsolatban felmerülő költségeinek megtérítését a megkereső versenyhatóságtól.
 
 (7) A Gazdasági Versenyhivatal az e § szerinti intézkedéseivel kapcsolatban felmerülő költségeinek megtérítésére a végrehajtás alá vont vállalkozást is kötelezheti.
 

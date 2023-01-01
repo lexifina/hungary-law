@@ -16,7 +16,7 @@ a) nem nyilvánvaló, hogy az összefonódás az érintett piacon nem eredménye
 
 b) az összefonódás-bejelentés nem felel meg a 43/J. § (1) bekezdésében foglalt követelményeknek vagy – a 24. § (1) bekezdése szerinti összefonódás esetén – a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 171. §-a alapján be kell szerezni a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa (a továbbiakban: Médiatanács) szakhatósági állásfoglalását, és nem áll rendelkezésre a Médiatanács olyan előzetes szakhatósági hozzájárulása, amely az összefonódást feltétel és kötelezettség előírása nélkül engedélyezi.
 
-(5) A vizsgáló – az eljáró versenytanáccsal egyetértésben – végzéssel elrendeli a bejelentésköteles összefonódás vizsgálatát akkor is, ha a valószínűsíthetően az összefonódás-vizsgálati küszöbértéket elérő nem bejelentett összefonódás tekintetében nem nyilvánvaló, hogy az érintett piacon nem eredményezi a verseny jelentős mértékű csökkenését.
+(5) A vizsgáló – az eljáró versenytanáccsal egyetértésben – végzéssel elrendeli a 24. § (4) bekezdése szerinti összefonódás vizsgálatát akkor is, ha a valószínűsíthetően az összefonódás-vizsgálati küszöbértéket elérő nem bejelentett összefonódás tekintetében nem nyilvánvaló, hogy az érintett piacon nem eredményezi a verseny jelentős mértékű csökkenését.
 
 (5a) A vizsgáló – az eljáró versenytanáccsal egyetértésben – végzéssel elrendeli a 25/B. § (1) bekezdése szerinti összefonódás vizsgálatát, ha nem nyilvánvaló, hogy az érintett piacon nem eredményezi a verseny jelentős mértékű csökkenését.
 

@@ -6,7 +6,7 @@ b) a IV., illetve az V. Fejezet rendelkezéseibe ütköző magatartás elkövet�
 
 c) összefonódás vizsgálatára irányuló eljárás esetén
 
-ca) a csak a 24. § (4) bekezdése szerint bejelentésköteles összefonódás vagy a 25/B. § (1) bekezdése szerinti összefonódás végrehajtása óta hat hónap,
+ca) a 24. § (4) bekezdése vagy a 25/B. § (1) bekezdése szerinti összefonódás végrehajtása óta hat hónap,
 
 cb) a ca) alpont hatálya alá nem tartozó esetben az összefonódás végrehajtása óta öt év,
 

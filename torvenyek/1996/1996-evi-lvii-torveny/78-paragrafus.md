@@ -46,7 +46,7 @@ b) attól aktívan távol tartotta magát a vizsgálat megkezdése előtt.
 
 (7) Az (5)–(6b) bekezdésben meghatározott végzés ellen önálló jogorvoslatnak van helye.
 
-(8) A kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvénynek a hatósági ellenőrzést végző szervek részéről a bírságtól való eltekintésre vonatkozó rendelkezései a versenyfelügyeleti eljárásban nem alkalmazhatók. Az említett törvény szerinti mikro-, kis- vagy középvállalkozással (a továbbiakban együtt: kis- vagy középvállalkozás) szemben az első esetben előforduló jogsértés esetén az eljáró versenytanács bírság kiszabása helyett figyelmeztetést is alkalmazhat, ha a vállalkozásnak az eljárás során tanúsított magatartása alapján alaposan feltételezhető, hogy a vállalkozás jövőbeni magatartásának jogszerűsége, az újabb jogsértés elkövetésétől való tartózkodása így is biztosítható.
+(8) A Kkvt.-nek a hatósági ellenőrzést végző szervek részéről a bírságtól való eltekintésre vonatkozó rendelkezései a versenyfelügyeleti eljárásban nem alkalmazhatók. A Kkvt. szerinti mikro-, kis- vagy középvállalkozással (a továbbiakban együtt: kis- vagy középvállalkozás) szemben az első esetben előforduló jogsértés esetén az eljáró versenytanács bírság kiszabása helyett figyelmeztetést is alkalmazhat, ha a vállalkozásnak az eljárás során tanúsított magatartása alapján alaposan feltételezhető, hogy a vállalkozás jövőbeni magatartásának jogszerűsége, az újabb jogsértés elkövetésétől való tartózkodása így is biztosítható.
 
 (9) Az eljáró versenytanács nem tekinthet el a bírságtól a (8) bekezdés alapján, ha
 
