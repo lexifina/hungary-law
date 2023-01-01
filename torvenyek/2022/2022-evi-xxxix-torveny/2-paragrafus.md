@@ -4,11 +4,7 @@
 
 ## „10. adatvédelmi incidens: az adatbiztonság olyan sérelme, amely jogellenes cselekmény vagy véletlen folytán az információ – ideértve a továbbított, tárolt vagy más módon kezelt személyes adatok – megsemmisülését, elvesztését, megváltoztatását, az azokhoz való helytelen vagy jogosulatlan hozzáférést, valamint azok (indokolatlan vagy) jogosulatlan közlését vagy felhasználását eredményezi. Az adatvédelmi incidens érintheti az adatok bizalmas jellegét, hozzáférhetőségét és sértetlenségét.”
 
-(2) Az Aktv 4. § (3) bekezdése a következő 19. ponttal egészül ki:
-
-(E törvény II. Fejezete alkalmazásában)
-
-## „19. közös ellenőrzés: olyan közigazgatási vizsgálat, amelyet a magyar hatáskörrel rendelkező hatóság más tagállam hatáskörrel rendelkező hatóságával közösen folytat le egy vagy több olyan személyhez kapcsolódóan, akinek vagy amelynek ellenőrzéséhez az érintett tagállamok hatáskörrel rendelkező hatóságának közös vagy egymást kiegészítő érdeke fűződik.”
+(2)
 
 (3) Az Aktv. 4. §-a a következő (3a) bekezdéssel egészül ki:
 
