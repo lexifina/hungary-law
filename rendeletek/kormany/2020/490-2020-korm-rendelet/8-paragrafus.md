@@ -24,7 +24,7 @@ k) a klienskoordináció, valamint
 
 l) a pszichológiai szolgáltatás
 
-## szolgáltatási modulokat biztosítja.
+szolgáltatási modulokat biztosítja.
 
 (2) Siketvak személy esetén az elemi rehabilitációs szolgáltató az (1) bekezdésben foglaltakon túl
 
@@ -34,7 +34,7 @@ b) a hallástréning, valamint
 
 c) az alternatív kommunikációs eszközök, módszerek használata
 
-## szolgáltatási modulokat biztosítja.
+szolgáltatási modulokat biztosítja.
 
 (3) A módszertani központ az (1) és (2) bekezdésben foglaltakon túl a pályázati kiírásban egyéb speciális szolgáltatási modul biztosítását is előírhatja.
 
@@ -48,6 +48,6 @@ b) az (1) bekezdés b) pontjában foglalt szolgáltatás esetén elemi rehabilit
 
 c) az (1) bekezdés c)–j) és l) pontjában foglalt szolgáltatások esetén a módszertani központ által meghatározott mértékű
 
-## szolgáltatási óraszám korlátozás figyelembevételével jár el.
+szolgáltatási óraszám korlátozás figyelembevételével jár el.
 
 (6) Ha az elemi rehabilitációs szolgáltató nem rendelkezik megfelelő kapacitással a szolgáltatási modulok biztosítására, tájékoztatja az igénybevevőt a szükséges szolgáltatási modulok biztosítására alkalmas elemi rehabilitációs szolgáltatókról.

@@ -1,4 +1,4 @@
-19. § (1)[^4] A térítésmentes elemi rehabilitációs szolgáltatás támogatására szolgáló összegnek a módszertani központ részére történő biztosításáról a szociálpolitikáért felelős miniszter a módszertani központtal minden év február 10-éig együttműködési megállapodást köt.
+19. § (1)[^7] A térítésmentes elemi rehabilitációs szolgáltatás támogatására szolgáló összegnek a módszertani központ részére történő biztosításáról a szociálpolitikáért felelős miniszter a módszertani központtal minden év február 10-éig együttműködési megállapodást köt.
 
 (2) A módszertani központ a támogatási szerződésben meghatározott teljes támogatási összeget a támogatási szerződés megkötésétől számított 15 napon belül folyósítja a fenntartó részére.
 
@@ -16,4 +16,6 @@ c) a fenntartó vagy az elemi rehabilitációs szolgáltató nem biztosítja a m
 
 d) az elemi rehabilitációs szolgáltató nem nyújt térítésmentes elemi rehabilitációs szolgáltatást, a szolgáltatás nyújtásának folytatásáig,
 
-[^4]: A 19. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 204. §-a szerint módosított szöveg.
+a módszertani központ az esedékes támogatás folyósítását felfüggeszti.
+
+[^7]: A 19. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 204. §-a szerint módosított szöveg.
