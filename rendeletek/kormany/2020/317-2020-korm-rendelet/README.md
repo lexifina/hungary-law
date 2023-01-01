@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-317-20-
 | 2020-09-02 | 2020-317-20-22.4 | 2010: CXXX. törvény |
 | 2021-03-01 | 2020-317-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2021-03-02 | 2020-317-20-22.6 | 2010: CXXX. törvény |
+| 2023-01-01 | 2020-317-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
