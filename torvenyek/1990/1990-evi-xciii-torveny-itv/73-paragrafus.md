@@ -18,7 +18,7 @@ bb) az eljáró hatóság felhívására
 
 kell megfizetni a (2)–(4), a (4a), a (7) és (8) bekezdésben foglaltak kivételével.
 
-(2) A fővárosi és megyei kormányhivatalnál, járási (fővárosi kerületi) hivatalnál és a kormányablaknál nem elektronikus úton kezdeményezett közigazgatási hatósági eljárás illetékét – ha jogszabály másként nem rendelkezik –
+(2) A fővárosi és vármegyei kormányhivatalnál, járási (fővárosi kerületi) hivatalnál és a kormányablaknál nem elektronikus úton kezdeményezett közigazgatási hatósági eljárás illetékét – ha jogszabály másként nem rendelkezik –
 
 a) az eljárás megindítását megelőzően készpénz-átutalási megbízás útján, vagy
 
@@ -30,7 +30,7 @@ bb) bankkártyával vagy
 
 bc) házipénztárba készpénzzel, vagy
 
-c) az eljárás megindítását megelőzően átutalással, az átutalás közlemény rovatában a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben meghatározott adatok feltüntetésével
+c) az eljárás megindítását megelőzően átutalással, az átutalás közlemény rovatában a fővárosi és vármegyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben meghatározott adatok feltüntetésével
 
 kell megfizetni az adópolitikáért felelős miniszter rendeletében megjelölt számla javára azzal, hogy a házipénztárba fizetett illetéket készpénz-átutalási megbízással a járási hivatal és a kormányablak naponta fizeti meg az említett számla javára.
 

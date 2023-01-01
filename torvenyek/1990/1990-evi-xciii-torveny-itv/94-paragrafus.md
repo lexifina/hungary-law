@@ -11,3 +11,5 @@ b) az illetékbélyeg elválasztott részekből van összeillesztve, vagy olyan 
 c) az ügyfélnek adóhatóság által nyilvántartott köztartozása van.
 
 (4) A (3) bekezdés a) és b) pontjában említett esetekben az illetékbélyeget – ha már felragasztották, az irattal együtt – elismervény ellenében vissza kell tartani, és szükség esetén a felelősségre vonást kezdeményezni kell. Az elismervényen fel kell tüntetni az ügyfél személyazonosításra alkalmas adatait, a visszatartott illetékbélyeg címletét és az illetékbélyeg beszerzésének helyét.
+
+(5) Az illetékbélyeg értékének visszatérítésére irányuló kérelem 2029. december 31-éig terjeszthető elő. E határidő jogvesztő, igazolási kérelem előterjesztésének nincs helye.

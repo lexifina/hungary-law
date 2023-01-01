@@ -4,7 +4,7 @@ a) a tudományos, művészeti, oktatási, közművelődési, közjóléti célra
 
 b) a lakóház építésére alkalmas telektulajdonnak (tulajdoni hányadnak), valamint ilyen ingatlanon alapított vagyoni értékű jognak a megszerzése, ha a megajándékozott az ingatlanon a szerződés illetékkiszabásra történő bemutatásától számított 4 éven belül lakóházat épít, és a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. A megajándékozott lakóházépítési szándékáról legkésőbb az illetékfizetési meghagyás véglegessé válásáig nyilatkozhat az állami adóhatóságnál;
 
-c) az olyan ajándék megszerzése, amely után az ajándékozót vagy a megajándékozottat személyi jövedelemadó, szociális hozzájárulási adó fizetési kötelezettség terheli, a munkavállalói értékpapír-juttatási program keretében megszerzett értékpapír, a Munkavállalói Résztulajdonosi Program keretében megszerzett értékpapír, üzletrész, tagi részesedés, a Munkavállalói Résztulajdonosi Programról szóló törvény szerinti KMRP szervezet működésére fordítható vissza nem térítendő vagyoni hozzájárulás, továbbá a dolgozói üzletrészként, dolgozói részvényként személyi jövedelemadót nem viselő módon a társas vállalkozástól megszerzett üzletrész, részvény;
+c)
 
 d) lakástulajdon kezelői jogának ingyenes megszerzése;
 
@@ -24,7 +24,7 @@ k) a munkáltató által a munkavállaló számára adott olyan ingyenes juttat�
 
 l) hitelintézet, befektetési szolgáltató, pénzügyi vállalkozás pénzügyi szolgáltatásból, kiegészítő pénzügyi szolgáltatásból, befektetési szolgáltatásból vagy azt kiegészítő szolgáltatásból származó 10 000 forintot meg nem haladó követelésének elengedése, feltéve, hogy az elengedéssel a hitelintézetnek, befektetési szolgáltatónak, pénzügyi vállalkozásnak az adott szolgáltatásból származó követelése a magánszeméllyel szemben végérvényesen megszűnik;
 
-m) a közüzemi (vezetékes gáz-, áram-, távhő-szolgáltatási, víz- és csatornahasználati, szemétszállítási, központi fűtési) díjtartozásnak a szolgáltató általi elengedése, feltéve, hogy a magánszemély kötelezett (adós) és vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme nem haladja meg a mindenkori öregségi nyugdíjminimum összegének kétszeresét;
+m) a közüzemi (vezetékes gáz-, áram-, távhő-szolgáltatási, víz- és csatornahasználati, szemétszállítási, központi fűtési) díjtartozásnak a szolgáltató általi elengedése, feltéve, hogy a magánszemély kötelezett (adós) és vele közös háztartásban élő hozzátartozójának egy főre eső jövedelme nem haladja meg a szociális vetítési alap összegének kétszeresét;
 
 n) a 18. § (2) bekezdése alapján a visszterhes vagyonátruházási illeték tárgyát nem képező ingó vagyontárgyaknak térítésmentes eszközátruházás keretében történő, gazdálkodó szervezet általi megszerzése, illetve a követelés gazdálkodó szervezetek közötti ajándékozás – ideértve a követelés-elengedést és a tartozásátvállalást is – útján történő megszerzése;
 
@@ -46,9 +46,21 @@ v) a házastársi vagyonközösség megszüntetéséből származó vagyonszerz�
 
 w) az ajándékozó testvére által megszerzett ajándék;
 
+x) az állami vagyonról szóló 2007. évi CVI. törvény 42/O. § (2) bekezdés b) pontja szerinti ingyenes átruházáson alapuló tulajdonszerzés.
+
 z) összeghatárra tekintet nélkül a természetes személyek bíróságon kívüli vagy bírósági adósságrendezési eljárásában a hitelezők által adós javára elengedett követelés, továbbá az adósságtörlesztési határozatban és a mentesítési határozatban az az összeg, amit nem kell az adósnak a hitelezők számára megfizetnie;
 
 zs) az egyes fogyasztói kölcsönszerződésekből eredő követelések forintra átváltásával kapcsolatos kérdések rendezéséről szóló törvény rendelkezéseinek végrehajtásával összefüggésben megszűnt kötelezettség.
+
+(1a) Mentes az ajándékozási illeték alól:
+
+a) az olyan ajándék megszerzése, amely után az ajándékozót vagy a megajándékozottat személyi jövedelemadó, szociális hozzájárulási adó fizetési kötelezettség terheli,
+
+b) a munkavállalói értékpapír-juttatási program keretében megszerzett értékpapír, a Munkavállalói Résztulajdonosi Program keretében megszerzett értékpapír, üzletrész, tagi részesedés,
+
+c) a Munkavállalói Résztulajdonosi Programról szóló törvény szerinti KMRP szervezet, vagy ilyen szervezetet kezelő vagyonkezelő alapítvány részére teljesített, a vagyonjuttatónál a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 3. melléklet B) rész 26. pontjában foglaltaknak megfelelő juttatás,
+
+d) a dolgozói üzletrészként, dolgozói részvényként személyi jövedelemadót nem viselő módon a társas vállalkozástól megszerzett üzletrész, részvény.
 
 (2a) Az (1) bekezdés b) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 

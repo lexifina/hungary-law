@@ -4,7 +4,7 @@
 
 67. § (1) Egyes közigazgatási hatósági eljárásokért, illetőleg egyes intézmények igazgatási jellegű szolgáltatásának igénybevételéért, továbbá egyes bírósági eljárási cselekményekért (szolgáltatásokért) – a (2) bekezdésben és a 2. mellékletben meghatározottak kivételével – díjat kell fizetni.
 
-(2) A fővárosi és megyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok mentesülnek az (1) bekezdésben meghatározott díjfizetési kötelezettség alól a fővárosi és megyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok által lefolytatott hatósági eljárásokban.
+(2) A fővárosi és vármegyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok mentesülnek az (1) bekezdésben meghatározott díjfizetési kötelezettség alól a fővárosi és vármegyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok által lefolytatott hatósági eljárásokban.
 
 (3) A fizetendő díj mértékét úgy kell megállapítani, hogy az az adott eljárással kapcsolatban az eljáró hatóságnál felmerülő és másra át nem hárítható valamennyi költségre fedezetet biztosítson. Változó költségigényű eljárások (szolgáltatások) esetében a díj összegét átalány jelleggel kell meghatározni.
 

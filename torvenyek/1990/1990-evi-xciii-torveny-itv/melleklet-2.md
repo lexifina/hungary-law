@@ -318,7 +318,7 @@ a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó term�
 
 a) a települési önkormányzat jegyzője vagy
 
-b) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala
+b) a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala
 
 által a szociális rászorultság fennállásáról kiállított igazolás, valamint a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás kiállítása
 
