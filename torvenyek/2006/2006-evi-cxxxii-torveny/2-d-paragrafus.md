@@ -10,7 +10,11 @@ b) az egészségügyi szolgáltató által hitelintézetnél lekötött és elk�
 
 Az egyes biztosítékformák külön-külön vagy együttesen is alkalmazhatók.
 
-(4)–(6)
+(4)
+
+(5)
+
+(6)
 
 (7) A vagyoni biztosíték megállapítására vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg.
 

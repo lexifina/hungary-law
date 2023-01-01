@@ -4,7 +4,9 @@
 
 a) a 3. § (1) bekezdés a), b) és d) pontja szerinti kapacitások felhasználásával nyújtott egészségügyi szakellátások,
 
-b)–c)
+b)
+
+c)
 
 d) a 16. § (7) bekezdésében meghatározott kapacitáson nyújtott szakellátás,
 

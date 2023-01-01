@@ -20,11 +20,15 @@
 
 (10) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi LXXIX. törvénnyel megállapított 2/B. § (1) bekezdését a hatálybalépését megelőzően megkötött szerződésekre nem kell alkalmazni.
 
-(11)–(12)
+(11)
+
+(12)
 
 (13) Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 7. § (11) bekezdését az annak hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.
 
-(14)–(15)
+(14)
+
+(15)
 
 (15a)
 

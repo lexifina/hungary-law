@@ -1,1 +1,1 @@
-1–2. számú melléklet a 2006. évi CXXXII. törvényhez
+1. számú melléklet a 2006. évi CXXXII. törvényhez
