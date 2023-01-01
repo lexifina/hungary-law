@@ -2,7 +2,7 @@
 
 34. § (1) Étkezéstérítésre kötelezett beosztásban szolgálatot teljesítőnek, illetve ilyen munkakörben munkát végzőnek minősülnek az MH katonai szervezeteinél
 
-a)[^109] az élelmezési szakterület vezetéséért felelős tiszt, altiszt, honvédelmi alkalmazott, közalkalmazott,
+a)[^122] az élelmezési szakterület vezetéséért felelős tiszt, altiszt, honvédelmi alkalmazott,
 
 b) az ellátó-, logisztikai tiszt, altiszt, beosztott altiszt, élelmezési ellátó szakasz-, illetve rajparancsnok,
 
@@ -30,14 +30,15 @@ m) a felszolgáló, pincér, illetve szakmunkás (élm.),
 
 n) a konyhai-étkezdei anyag-előkészítő, kisegítő és segédmunkás
 
-## beosztású vagy munkakörű, vagy legalább négy órában e feladatkörben rendszeresen foglalkoztatott személyi állomány.
+beosztású vagy munkakörű, vagy legalább négy órában e feladatkörben rendszeresen foglalkoztatott személyi állomány.
 
 (2) Az étkezéstérítésre kötelezett személyek az I. számú élelmezési norma szerinti ebédétkezést térítés ellenében kötelesek igénybe venni.
 
 (3) Az (1) és (2) bekezdés alapján étkezéstérítésre kötelezett személy térítési díja az I. számú élelmezési norma ebédétkezés nyersanyag-költségének bruttó összege.
 
-(4) A 6. § (1) bekezdés a) pontja, valamint az e rendelet alapján egyéb jogcímen térítésmentes természetbeni ellátásra jogosultak mentesülnek az étkezéstérítési kötelezettség alól.
+(4)[^123] Az e rendelet alapján egyéb jogcímen térítésmentes természetbeni ellátásra jogosultak mentesülnek az étkezéstérítési kötelezettség alól.
 
 (5) Azon személyek térítési kötelezettségét, akik élelmezési gazdálkodást nem folytató katonai szervezetnél töltenek be étkezéstérítésre kötelezett beosztást, az állományilletékes parancsnok vagy a munkáltatói jogkör gyakorlója a vezénylési időszakra külön parancsban vagy határozatban állapítja meg.
 
-[^109]: A 34. § (1) bekezdés a) pontja a 8/2019. (VII. 4.) HM rendelet 11. § 33. pontja szerint módosított szöveg.
+[^122]: A 34. § (1) bekezdés a) pontja a 27/2022. (XII. 28.) HM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^123]: A 34. § (4) bekezdése a 27/2022. (XII. 28.) HM rendelet 17. § (2) bekezdésével megállapított szöveg.

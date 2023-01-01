@@ -1,5 +1,3 @@
-## az ott étkező igényjogosultak létszáma után főétkezésenként.
-
 ## III. Fejezet
 
 ## AZ ÜZEMI ÉTKEZTETÉS SZABÁLYAI
@@ -10,7 +8,7 @@
 
 a) a személyi állomány bármely katonai szervezet által üzemeltetett étkezdében,
 
-b)[^106] a személyi állomány közeli hozzátartozója az (5) bekezdésben meghatározottak szerint, és
+b)[^119] a személyi állomány közeli hozzátartozója az (5) bekezdésben meghatározottak szerint, és
 
 c) a honvédelmi szervezetektől nyugdíjba, nyugállományba vonult személyek és azok közeli hozzátartozói az (5) bekezdésben meghatározottak szerint.
 
@@ -32,12 +30,12 @@ f) fizetés vagy illetmény nélküli szabadságon vannak, vagy
 
 g) táppénzben részesülnek.
 
-(4)[^107]
+(4)[^120]
 
 (5) Az (1) bekezdés b) és c) pontjában meghatározott jogosultaknak a természetbeni ebéd igénybevételét és az ebéd helyben fogyasztását vagy elvitelét – a konyha és étkezde teljesítőképességét és a személyzet létszámát figyelembe véve – az étkezdét üzemeltető katonai szervezet parancsnoka, vezetője engedélyezi.
 
-(6)[^108] A munkahelyi étkezést igénybe vevő állomány térítését – a béren kívüli juttatásokra vonatkozó szabályok figyelembevételével – úgy kell megállapítani, hogy az tartalmazza az élelmezéshez felhasznált nyersanyag, valamint energia költségének mértékét. A katonai szervezetek által üzemeltetett étkezdékben az üzemiétkezés-térítés rendjét és a térítési díjakat – az államháztartás számviteléről szóló kormányrendelet előírásaira tekintettel, összhangban az 5. § (2) bekezdésében foglaltakra – a HM KÁT határozza meg.
+(6)[^121] A munkahelyi étkezést igénybe vevő állomány térítését – a béren kívüli juttatásokra vonatkozó szabályok figyelembevételével – úgy kell megállapítani, hogy az tartalmazza az élelmezéshez felhasznált nyersanyag, valamint energia költségének mértékét. A katonai szervezetek által üzemeltetett étkezdékben az üzemiétkezés-térítés rendjét és a térítési díjakat – az államháztartás számviteléről szóló kormányrendelet előírásaira tekintettel, összhangban az 5. § (2) bekezdésében foglaltakra – a HM KÁT határozza meg.
 
-[^106]: A 33. § (1) bekezdés b) pontja a 8/2019. (VII. 4.) HM rendelet 11. § 32. pontja szerint módosított szöveg.
-[^107]: A 33. § (4) bekezdését a 12/2019. (XII. 10.) HM rendelet 9. §-a hatályon kívül helyezte.
-[^108]: A 33. § (6) bekezdése a 12/2019. (XII. 10.) HM rendelet 8. § c) és d) pontja szerint módosított szöveg.
+[^119]: A 33. § (1) bekezdés b) pontja a 8/2019. (VII. 4.) HM rendelet 11. § 32. pontja szerint módosított szöveg.
+[^120]: A 33. § (4) bekezdését a 12/2019. (XII. 10.) HM rendelet 9. §-a hatályon kívül helyezte.
+[^121]: A 33. § (6) bekezdése a 12/2019. (XII. 10.) HM rendelet 8. § c) és d) pontja szerint módosított szöveg.
