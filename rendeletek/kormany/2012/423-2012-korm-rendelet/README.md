@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-423-20-
 | 2022-09-01 | 2012-423-20-22.41 | 520/2021. (IX. 6.) Korm. rendelet |
 | 2022-09-08 | 2012-423-20-22.42 | 339/2022. (IX. 7.) Korm. rendelet |
 | 2022-12-30 | 2012-423-20-22.45 | 617/2022. (XII. 29.) Korm. rendelet |
+| 2023-01-01 | 2012-423-20-22.44 | 661/2020. (XII. 24.) Korm. rendelet |

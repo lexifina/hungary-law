@@ -12,7 +12,7 @@ b) az adott képzési területen képzést folytató felsőoktatási intézmény
 
 a)[^18] azt, hogy milyen érettségi vizsgatárgyból kell emelt szintű érettségi vizsgát teljesíteni felvételi követelményként és a pontszámítás feltételeként;
 
-b)[^19] a felvétel és a pontszámítás feltételéül meghatározott, az adott évi felvételi eljárásokat legalább két évvel megelőzően, valamint a két évvel későbbi felvételi eljárásokra vonatkozóan a 2. mellékletben felsorolt érettségi vizsgatárgyak közül meghatározott – és a minisztérium hivatalos lapjában nyilvánosságra hozott – érettségi vizsgatárgyakat;
+b)[^19] a felvétel és a pontszámítás feltételéül meghatározott, az adott évi felvételi eljárásokat legalább két évvel megelőzően, valamint a két évvel későbbi felvételi eljárásokra vonatkozóan a 2. mellékletben felsorolt érettségi vizsgatárgyak közül meghatározott – és a minisztérium honlapján nyilvánosságra hozott – érettségi vizsgatárgyakat;
 
 c) az adott képzési területen képzést folytató felsőoktatási intézmények által a felvétel feltételéül meghatározott, az adott évi felvételi eljárásokat legalább két évvel megelőzően közölt, az 1. mellékletben szakos bontásban meghatározott szóbeli alkalmassági vizsgakövetelményeket;
 
@@ -26,6 +26,6 @@ e)[^20] az adott képzési területen képzést folytató felsőoktatási intéz
 
 [^17]: A 6. § (1) bekezdése az 59/2016. (III. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^18]: A 6. § (2) bekezdés a) pontja a 351/2020. (VII. 16.) Korm. rendelet 4. § 1. pontja, a 661/2020. (XII. 24.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
-[^19]: A 6. § (2) bekezdés b) pontja a 661/2020. (XII. 24.) Korm. rendelet 21. § e) pontja szerint módosított szöveg.
+[^19]: A 6. § (2) bekezdés b) pontja a 661/2020. (XII. 24.) Korm. rendelet 21. § e) pontja, az 533/2022. (XII. 19.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^20]: A 6. § (2) bekezdés e) pontja a 345/2015. (XI. 19.) Korm. rendelet 47. § 1. pontja szerint módosított szöveg.
 [^21]: A 6. § (4) bekezdését az 59/2016. (III. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be.
