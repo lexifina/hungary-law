@@ -1,3 +1,1 @@
-11. §[^3]
-
-[^3]: A 11. § a 7. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+11. § Az 1. mellékletben foglalt táblázat B:16 és B:17 mezőjében a „Jász-Nagykun-Szolnok Megyei” szövegrész helyébe a „Jász-Nagykun-Szolnok Vármegyei” szöveg lép.
