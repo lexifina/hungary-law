@@ -1,10 +1,10 @@
-23/D. § (1)[^122] A Diákhitel szervezet a képzési hitel kamatelemeit a 6. § alapján állapítja meg. Ha ezek összege meghaladja a kötött felhasználású hallgatói hitel ügyfél által fizetendő kamatlábát, az azt meghaladó részt az állam a központi költségvetés terhére, kamattámogatás formájában átvállalja a hitelfelvevőtől.
+23/D. § (1)[^124] A Diákhitel szervezet a képzési hitel kamatelemeit a 6. § alapján állapítja meg. Ha ezek összege meghaladja a kötött felhasználású hallgatói hitel ügyfél által fizetendő kamatlábát, az azt meghaladó részt az állam a központi költségvetés terhére, kamattámogatás formájában átvállalja a hitelfelvevőtől.
 
 (2) A képzési hitel törlesztését a tanulói jogviszony, illetve a felnőttképzési jogviszony megszűnését követő harmadik hónap elteltével egyenlő összegű (annuitásos) törlesztőrészlet számítási módszere alapján kell megkezdeni. A törlesztés időtartamát a hitelfelvevő a képzési hitelre vonatkozó szerződés megkötésekor választhatja meg években úgy, hogy az legalább egy és legfeljebb tíz év lehet, amelybe nem számít bele a szünetelés időtartama. A képzési hitelhez kapcsolódóan a törlesztés mérséklése nem kezdeményezhető.
 
-(3)[^123] A veszélyhelyzet következtében felvehető hallgatói hitelszerződések kivételével a Diákhitel szervezettel kötött hitelszerződés alapján fennálló törlesztési kötelezettség szünetel
+(3)[^125] A veszélyhelyzet következtében felvehető hallgatói hitelszerződések kivételével a Diákhitel szervezettel kötött hitelszerződés alapján fennálló törlesztési kötelezettség szünetel
 
-a)[^124] a szakképző intézmény által szervezett szakmai oktatáshoz vagy szakmai képzéshez kapcsolódóan igényelt képzési hitel esetében, ha a képzésben részt vevő a tanulói jogviszony, illetve a felnőttképzési jogviszony megszűnését követő első év utolsó napjáig felsőoktatási intézménnyel szakképzettség megszerzése céljából hallgatói jogviszonyt létesít,
+a)[^126] a szakképző intézmény által szervezett szakmai oktatáshoz vagy szakmai képzéshez kapcsolódóan igényelt képzési hitel esetében, ha a képzésben részt vevő a tanulói jogviszony, illetve a felnőttképzési jogviszony megszűnését követő első év utolsó napjáig felsőoktatási intézménnyel szakképzettség megszerzése céljából hallgatói jogviszonyt létesít,
 
 b) ha a hallgatói jogviszony megszűnését követő első év utolsó napjáig szakképző intézménnyel szakma megszerzése céljából tanulói jogviszonyt vagy felnőttképzési jogviszonyt létesít.
 
@@ -22,9 +22,9 @@ c) a 16. § (2a) bekezdése szerinti egészségkárosodás alapján benyújtott 
 
 (7) A képzési hitelt igénybe vevő nő a 18/A–18/D. § szerinti gyermektámogatást a képzési hitel folyósítását követően született vagy örökbe fogadott gyermek esetében veheti igénybe.
 
-(8)[^125] A szabad felhasználású képzési hitellel kapcsolatosan felmerülő azon hitelezési veszteségeket, amelyekre az érintett hitelszerződés engedményezésekor kapott vételár és a szabad felhasználású képzési hiteltermékre képzett kockázati céltartalék-állomány a felmerülés naptári negyedévében nem nyújt fedezetet, továbbá a kockázati prémiumból képződő bevételen felül szükséges további céltartalékképzés összegét az államháztartásért felelős miniszter a központi költségvetés terhére naptári negyedévente a Diákhitel Központ számára megtéríti.
+(8)[^127] A szabad felhasználású képzési hitellel kapcsolatosan felmerülő azon hitelezési veszteségeket, amelyekre az érintett hitelszerződés engedményezésekor kapott vételár és a szabad felhasználású képzési hiteltermékre képzett kockázati céltartalék-állomány a felmerülés naptári negyedévében nem nyújt fedezetet, továbbá a kockázati prémiumból képződő bevételen felül szükséges további céltartalékképzés összegét az államháztartásért felelős miniszter a központi költségvetés terhére naptári negyedévente a Diákhitel Központ számára megtéríti.
 
-[^122]: A 23/D. § (1) bekezdése a 721/2021. (XII. 20.) Korm. rendelet 7. § d) és 8. § f) pontja szerint módosított szöveg.
-[^123]: A 23/D. § (3) bekezdés nyitó szövegrésze a 311/2021. (VI. 7.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^124]: A 23/D. § (3) bekezdés a) pontja a 721/2021. (XII. 20.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
-[^125]: A 23/D. § (8) bekezdését a 721/2021. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
+[^124]: A 23/D. § (1) bekezdése a 721/2021. (XII. 20.) Korm. rendelet 7. § d) és 8. § f) pontja szerint módosított szöveg.
+[^125]: A 23/D. § (3) bekezdés nyitó szövegrésze a 311/2021. (VI. 7.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^126]: A 23/D. § (3) bekezdés a) pontja a 721/2021. (XII. 20.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^127]: A 23/D. § (8) bekezdését a 721/2021. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
