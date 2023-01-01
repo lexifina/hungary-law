@@ -1,4 +1,4 @@
-22/C. § (1) A bíróság a kapcsolattartásra vonatkozó határozat végrehajtásának elrendelése tárgyában szükség esetén meghallgatást tart. A meghallgatásra szabályszerűen megidézetteknek a távolmaradása a meghallgatás megtartását és a végrehajtás elrendelése tárgyában való döntés meghozatalát nem gátolja. A bíróság az általa szükségesnek talált bizonyítást hivatalból is elrendelheti. A kérelem elbírálása során a bíróság soron kívül jár el.
+22/C. § (1) A bíróság a kapcsolattartásra vonatkozó határozat végrehajtásának elrendelése tárgyában szükség esetén meghallgatást tart. A meghallgatásra szabályszerűen megidézetteknek a távolmaradása a meghallgatás megtartását és a végrehajtás elrendelése tárgyában való döntés meghozatalát nem gátolja. Bizonyítás felvételének – amelyet a bíróság hivatalból is elrendelhet – csak akkor van helye, ha a kérelem e nélkül nem bírálható el. A kérelem elbírálása során a bíróság soron kívül jár el.
 
 (2) Ha a bíróság megállapítja, hogy a kérelmezett megszegte a kapcsolattartásra vonatkozó határozatban foglaltakat, elrendeli a végrehajtást. A bíróság a végrehajtást elrendelő végzésben a kérelmezettet felhívja, hogy
 
