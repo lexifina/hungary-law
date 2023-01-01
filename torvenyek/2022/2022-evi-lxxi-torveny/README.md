@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-71-00-00
 | 2022-12-28 | 2022. évi LXXI. törvény | 2022-71-00-00.0 (közlönyállapot) |
 | 2022-12-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-71-00-00.1 |
 | 2022-12-29 | 2010. évi CXXX. törvény | 2022-71-00-00.2 |
+| 2023-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2022-71-00-00.3 |
