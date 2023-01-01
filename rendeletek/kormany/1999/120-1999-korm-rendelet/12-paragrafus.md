@@ -1,5 +1,3 @@
-## 11. §[^31]
-
 ## Záró rendelkezések
 
 12. § (1)[^32] A közcélú vízilétesítményekre, vízimunkákra és vízhasználatokra vonatkozó külön jogszabály[^33] alapján végzett vízügyi hatósági ellenőrzés során – a jogszabályban meghatározott egyéb szempontok mellett – vizsgálni kell:
@@ -12,7 +10,6 @@ c) a Vgtv. 8. § (1) bekezdésére figyelemmel és e rendelet 4. §-a szerinti e
 
 (2)[^34] Az (1) bekezdésben érintett felülvizsgálatot a vízügyi hatósági ellenőrzés keretében végzett ellenőrzések során – az adott felügyeleti kategóriára figyelemmel – folyamatosan, de legkésőbb e rendelet hatálybalépéstől számított két éven belül kell elvégezni.
 
-[^31]: A 11. §-t az 527/2013. (XII. 30.) Korm. rendelet 12. § (6) bekezdése hatályon kívül helyezte.
 [^32]: A 12. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 171. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^33]: Lásd a 72/1996. (V. 22.) Korm. rendelet 21. §-át.
 [^34]: A 12. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 171. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

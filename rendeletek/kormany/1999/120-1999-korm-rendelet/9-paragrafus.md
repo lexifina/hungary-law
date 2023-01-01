@@ -14,7 +14,7 @@ b) az a) pont szerint minősített (osztályba sorolt) területek nádállomány
 
 (5)[^28] A nádaratás csak vegetációs időn kívül és csak úgy végezhető, hogy a nádas termőképessége és állománya ne károsodjon. A nádas égetése csak kivételesen, a környezetvédelmi és természetvédelmi és egyéb jogszabályok előírásaira figyelemmel, illetve a jogszabály szerint szükséges hatósági engedélyekkel végezhető.
 
-(6)[^29] Az (5) bekezdés szerinti engedélyezési eljárásra természeti, illvetve védett természeti területen a természetvédelmi hatóság, egyéb területeken a területileg illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala rendelkezik hatáskörrel, amennyiben arról kormányrendelet másként nem rendelkezik.
+(6)[^29] Az (5) bekezdés szerinti engedélyezési eljárásra természeti, illvetve védett természeti területen a természetvédelmi hatóság, egyéb területeken a területileg illetékes fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala rendelkezik hatáskörrel, amennyiben arról kormányrendelet másként nem rendelkezik.
 
 (7)[^30] Védett és egyéb természeti területeken – a környezetvédelmi és vízgazdálkodási követelmények mellett – a nádgazdálkodás csak a természet védelméről szóló külön jogszabályban meghatározott előírások szerint, a természetvédelmi hatóság engedélyével folytatható.
 
@@ -31,5 +31,5 @@ b) az a) pont szerint minősített (osztályba sorolt) területek nádállomány
 [^26]: A 9. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 172. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^27]: A 9. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 172. §-a hatályon kívül helyezte, újonnan a 232/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
 [^28]: A 9. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 171–172. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^29]: A 9. § (6) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^29]: A 9. § (6) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 21. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^30]: A 9. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 171. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

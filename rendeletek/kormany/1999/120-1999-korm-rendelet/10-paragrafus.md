@@ -12,7 +12,7 @@ c) a zárt rendszerű csapadékvíz-csatornák,
 
 d) a tározók, záportározók, szivattyútelepek és egyéb műtárgyak
 
-## fenntartásával gondoskodik arról, hogy azok az önkormányzat jogszabályban meghatározott, helyi vízkárelhárítási és vízrendezési feladatainak ellátása során, a tervezett funkció ellátására alkalmasak legyenek.
+fenntartásával gondoskodik arról, hogy azok az önkormányzat jogszabályban meghatározott, helyi vízkárelhárítási és vízrendezési feladatainak ellátása során, a tervezett funkció ellátására alkalmasak legyenek.
 
 (2) A fenntartási feladatok során – ideértve a melléklet szerinti munkákat is – gondoskodni kell különösen
 
