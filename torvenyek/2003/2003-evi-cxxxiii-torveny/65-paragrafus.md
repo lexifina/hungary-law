@@ -2,4 +2,4 @@
 
 1. az ingatlanvállalkozás-felügyeleti hatóságot rendeletben kijelölje,
 
-2. a jegyző társasházak feletti törvényességi felügyelete eljárási szabályait rendeletben állapítsa meg.
+2. a jegyző társasházak feletti törvényességi felügyelete eljárási szabályait rendeletben állapítsa meg,

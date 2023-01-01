@@ -26,4 +26,6 @@ a közgyűlés által erre kijelölt szerv (a továbbiakban: kijelölt szerv) r�
 
 a) e személy a (2) bekezdés b) pontjában foglalt kötelezettségének az ismételt szabályszerű felhívástól számított tizenöt napon belül nem tesz eleget és nem bizonyítja, hogy a kötelezettség elmulasztása rajta kívül álló ok következménye,
 
-b) ha a kizáró ok fennállását a közgyűlés az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalma alapján megállapítja.
+b) ha a kizáró ok fennállását a közgyűlés az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalma alapján megállapítja,
+
+d) az ingatlanvállalkozás-felügyeleti hatóság a tisztségviselőt a szolgáltatási tevékenység folytatásától eltiltotta.
