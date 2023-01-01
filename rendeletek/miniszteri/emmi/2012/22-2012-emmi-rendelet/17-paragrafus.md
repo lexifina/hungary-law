@@ -8,6 +8,8 @@ b) az irányelvnek a szakmai képesítések elismeréséről szóló 2005/36/EK 
 
 c)[^60] a szakmák új szabályozásának elfogadását megelőző arányossági tesztről szóló, 2018. június 28-i (EU) 2018/958 európai parlamenti és tanácsi irányelv 7. cikk (4) bekezdésének
 
+való megfelelést szolgálja.
+
 [^58]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 13/2020. (III. 25.) EMMI rendelet 2. §-a iktatta be.
 [^59]: A 17. § a 34/2015. (VI 30.) EMMI rendelet 24. §-ával megállapított szöveg.
 [^60]: A 17. § c) pontját az 57/2021. (XII. 27.) EMMI rendelet 5. §-a iktatta be, szövege a 28/2022. (VIII. 25.) BM rendelet 28. § f) pontja szerint módosított szöveg.

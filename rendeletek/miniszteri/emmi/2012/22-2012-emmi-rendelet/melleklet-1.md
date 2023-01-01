@@ -1,5 +1,3 @@
-## való megfelelést szolgálja.
-
 1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^61]
 
 1. Szakorvosi alap szakképesítések

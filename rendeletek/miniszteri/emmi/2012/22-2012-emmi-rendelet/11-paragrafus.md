@@ -16,7 +16,7 @@ b) nappali tagozatos képzés keretében doktori fokozat megszerzésének ideje 
 
 c) újabb alap, vagy ráépített szakképesítés teljesítésének ideje alatt
 
-## az egyetem döntése alapján részmunkaidőben is teljesíthetők.
+az egyetem döntése alapján részmunkaidőben is teljesíthetők.
 
 (4)[^26] Egy szakorvosjelölt a szakképzésben egyidejűleg egy – a (3) bekezdés c) pontja szerinti esetben legfeljebb két – szakma vonatkozásában vehet részt.
 

@@ -1,5 +1,3 @@
-## 2 hónap sürgősségi betegellátó osztályon, valamint 2 hét mentőszolgálatnál töltött gyakorlat során megszerezhető kompetenciák
-
 |  | A | B | C | D |
 
 | 1. | Kompetencia megnevezése | Szintezés | Elvégzett tevékenység, beavatkozás megnevezése, száma | Egyetemi klinikán kívül, akkreditált képzőhelyen is elvégezhető |
@@ -69,5 +67,7 @@
 | 32. | Laboratóriumi leletek értékelése |  | x |  |  |  | – | – |
 
 1b. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^63]
+
+1 hónap intenzív terápiás osztályon töltött gyakorlat során megszerezhető kompetenciák
 
 [^63]: Az 1b. mellékeltet a 28/2022. (VIII. 25.) BM rendelet 27. § (3) bekezdése iktatta be.

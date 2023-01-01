@@ -8,7 +8,7 @@ b)[^3]
 
 c) a (4a) bekezdés szerinti esetben szakfogorvosi oklevéllel rendelkezők
 
-## szerezhetnek.
+szerezhetnek.
 
 (2) Az általános orvosi oklevéllel rendelkező orvosok által megszerezhető alap szakképesítések megszerzésének képzési követelményeit a 2. melléklet tartalmazza.
 

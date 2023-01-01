@@ -14,7 +14,7 @@ a) közforgalmú gyógyszertár vezetése esetén a gyógyszertár üzemeltetés
 
 b) intézeti gyógyszertár vezetése esetén a kórházi, klinikai szakgyógyszerészet szakterületen szerzett szakképesítés
 
-## feleltethető meg.
+feleltethető meg.
 
 (6)[^16] Az (5) bekezdés a) pontjában foglalt szakképesítésnek felel meg – a 7a. mellékletben meghatározott szakgyógyszerészi szakképesítések mellett – a 2015. július 16. napját követően és a MódR. hatálybalépése[^17] előtt a gyógyszerellátási szakgyógyszerészet szakterületen megszerezhető szakgyógyszerészi szakképesítés.
 
