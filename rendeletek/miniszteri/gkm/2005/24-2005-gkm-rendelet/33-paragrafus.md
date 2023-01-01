@@ -1,6 +1,6 @@
-## Közúti közlekedési szakemberek szaktanfolyami képzése és vizsgáztatása[^235]
+## Közúti közlekedési szakemberek szaktanfolyami képzése és vizsgáztatása[^236]
 
-33. §[^236] (1) Szaktanfolyami képzésre az jelentkezhet, aki a Kkt. 19. § (5) bekezdés szerinti, valamint a jelentkezésre vonatkozóan e rendeletben, valamint a jogszabályban rögzített feltételeknek megfelel. A szaktanfolyami képzést követő vizsgára az bocsátható, aki megfelel a jogszabályban meghatározott feltételeknek.
+33. §[^237] (1) Szaktanfolyami képzésre az jelentkezhet, aki a Kkt. 19. § (5) bekezdés szerinti, valamint a jelentkezésre vonatkozóan e rendeletben, valamint a jogszabályban rögzített feltételeknek megfelel. A szaktanfolyami képzést követő vizsgára az bocsátható, aki megfelel a jogszabályban meghatározott feltételeknek.
 
 (2) A vizsgát a vizsgaközpont által – szakmai szempontok figyelembevételével – kijelölt független vizsgabiztos vagy vizsgabizottság előtt kell teljesíteni. A vizsgabizottság elnökének és tagjának kijelölése a kijelöléssel érintett vizsgára szól. A vizsgabizottság elnöke és tagja felelős a vizsga szabályos és zavartalan lefolytatásáért.
 
@@ -14,5 +14,5 @@
 
 (7) A szaktanfolyami képzésre és vizsgáztatásra a tanfolyami képzésre és vizsgáztatásra vonatkozó hatályos jogszabályi rendelkezések mellett a szaktanfolyami képzés tekintetében a közlekedésért felelős miniszter, a szaktanfolyami vizsgáztatás tekintetében a vizsgaközpont által a képzés, vizsgáztatás tárgykörében jogszabály alapján kiadott szabályzatait alkalmazni kell.
 
-[^235]: A 33. §-t megelőző alcím a 85/2009. (XII. 30.) KHEM rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^236]: A 33. § a 9/2022. (VIII. 1.) TIM rendelet 45. §-ával megállapított szöveg.
+[^236]: A 33. §-t megelőző alcím a 85/2009. (XII. 30.) KHEM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^237]: A 33. § a 9/2022. (VIII. 1.) TIM rendelet 45. §-ával megállapított szöveg.

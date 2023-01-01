@@ -1,4 +1,4 @@
-39/A. §[^291] (1) A közlekedési hatósági jogalkalmazással összefüggő egyes közlekedési tárgyú miniszteri rendeletek módosításáról szóló 9/2022. (VIII. 1.) TIM rendeletnek (a továbbiakban: Módr.2.) e rendeletre vonatkozó módosító rendelkezéseit azon vizsgázó esetében, aki 2022. december 19-ét megelőzően az adott kategória megszerzéséhez előírt „Biztonsági ellenőrzés és üzemeltetés” vagy „Rutin” vizsgakötelezettség közül az egyiket nem teljesítette, azzal az eltéréssel kell alkalmazni, hogy 2022. december 19-től a „Rutin” vizsgakötelezettséget köteles teljesíteni.
+39/A. §[^292] (1) A közlekedési hatósági jogalkalmazással összefüggő egyes közlekedési tárgyú miniszteri rendeletek módosításáról szóló 9/2022. (VIII. 1.) TIM rendeletnek (a továbbiakban: Módr.2.) e rendeletre vonatkozó módosító rendelkezéseit azon vizsgázó esetében, aki 2022. december 19-ét megelőzően az adott kategória megszerzéséhez előírt „Biztonsági ellenőrzés és üzemeltetés” vagy „Rutin” vizsgakötelezettség közül az egyiket nem teljesítette, azzal az eltéréssel kell alkalmazni, hogy 2022. december 19-től a „Rutin” vizsgakötelezettséget köteles teljesíteni.
 
 (2) A Módr.2.-vel megállapított 6. § (7) bekezdését azzal az eltéréssel kell alkalmazni, hogy a szakoktató a 2022. december havi óra- és vizsgaösszesítő lapot 2022. december 18. napjáig küldi meg a közlekedésért felelős miniszter által a bizonylati albumban meghatározott módon a vizsgaközpontnak elektronikus úton.
 
@@ -38,4 +38,4 @@ b) a 2022. december 19. és 2023. január 8. napja közötti időszakban a járm
 
 (11) A vizsgaközpont vezetője a 2022. december 19. és 2023. január 31. közötti időszakban a vizsgaközpont honlapján közzétett közleményben meghatározott naptári napokra vonatkozóan rendelhet el rendkívüli vizsgára jelentkezési, vizsgáztatási, illetve vizsgaigazolás-kiállítási szünetet.
 
-[^291]: A 39/A. §-át a 9/2022. (VIII. 1.) TIM rendelet 49. §-a iktatta be.
+[^292]: A 39/A. §-át a 9/2022. (VIII. 1.) TIM rendelet 49. §-a iktatta be.

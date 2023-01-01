@@ -4,7 +4,7 @@ a) az e-learning képzés teljesítését az e-learning rendszerű képzést ny�
 
 b) a tantermi képzés teljesítését a képző szerv a vizsgaközpontnak elektronikusan bejelentett jelenléti ívek alapján
 
-## igazolja.
+igazolja.
 
 (2) A vezetési gyakorlat tantárgy képzésének a vizsgaszabályzatban meghatározott mértékű teljesítését a képző szerv az elektronikusan bejelentett gyakorlati oktatások alapján igazolja.
 

@@ -1,6 +1,6 @@
-## Az akkreditációs eljárás[^282]
+## Az akkreditációs eljárás[^283]
 
-38. §[^283] (1) A közlekedési hatóság évente legalább egy alkalommal – a Közlekedési Szakértői Testület akkreditációs eljárás követelményeinek meghatározására, az akkreditációs jog visszavonására irányuló, a közlekedésért felelős miniszter részére benyújtott javaslata alapján – pályázatot hirdet az e-learning rendszerű képzésben alkalmazható zárt rendszerű távoktatási képzésmenedzsment-rendszer (a továbbiakban: Rendszer), az e-learning rendszerű képzéshez szükséges digitális tananyagok (a továbbiakban: Tananyag), a közúti járművezetők és a közúti közlekedési szakemberek képzésénél és vizsgáztatásánál alkalmazott, a járművek és járműszerelvények technikai kezelése, a forgalmi helyzetek és a járművezetési veszélyhelyzetek gyakorlására alkalmas szimulátorok (a továbbiakban: Szimulátor) és az elektronikus vezetési karton vezetésére szolgáló alkalmazás és a kapcsolódó informatikai rendszer (a továbbiakban: elektronikus vezetési karton rendszer) tanúsításának, minősítésének megszerzésére.
+38. §[^284] (1) A közlekedési hatóság évente legalább egy alkalommal – a Közlekedési Szakértői Testület akkreditációs eljárás követelményeinek meghatározására, az akkreditációs jog visszavonására irányuló, a közlekedésért felelős miniszter részére benyújtott javaslata alapján – pályázatot hirdet az e-learning rendszerű képzésben alkalmazható zárt rendszerű távoktatási képzésmenedzsment-rendszer (a továbbiakban: Rendszer), az e-learning rendszerű képzéshez szükséges digitális tananyagok (a továbbiakban: Tananyag), a közúti járművezetők és a közúti közlekedési szakemberek képzésénél és vizsgáztatásánál alkalmazott, a járművek és járműszerelvények technikai kezelése, a forgalmi helyzetek és a járművezetési veszélyhelyzetek gyakorlására alkalmas szimulátorok (a továbbiakban: Szimulátor) és az elektronikus vezetési karton vezetésére szolgáló alkalmazás és a kapcsolódó informatikai rendszer (a továbbiakban: elektronikus vezetési karton rendszer) tanúsításának, minősítésének megszerzésére.
 
 (2) A pályázati kiírásokat a közlekedési hatóság a közlekedésért felelős miniszter által vezetett minisztérium honlapján közzéteszi. A pályázat benyújtásának határideje a kiírástól számított 30 nap, a pályázathoz mellékelni kell az igazgatási szolgáltatási díj befizetéséről szóló igazolást.
 
@@ -44,5 +44,5 @@ cc) az adatvédelmi és adatbiztonsági követelményeknek.
 
 (11) A közlekedésért felelős miniszter az akkreditált Rendszer, Tananyag, Szimulátor és elektronikus vezetési kartonrendszer listáját és akkreditációs számát honlapján közzéteszi.
 
-[^282]: Az „Az akkreditációs eljárás” alcím címe a 45/2019. (XII. 20.) ITM rendelet 25. §-ával megállapított szöveg.
-[^283]: A 38. §-t a 85/2009. (XII. 30.) KHEM rendelet 21. § (2) bekezdése hatályon kívül helyezte, újonnan a 45/2019. (XII. 20.) ITM rendelet 25. §-a iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 47. §-ával megállapított szöveg.
+[^283]: Az „Az akkreditációs eljárás” alcím címe a 45/2019. (XII. 20.) ITM rendelet 25. §-ával megállapított szöveg.
+[^284]: A 38. §-t a 85/2009. (XII. 30.) KHEM rendelet 21. § (2) bekezdése hatályon kívül helyezte, újonnan a 45/2019. (XII. 20.) ITM rendelet 25. §-a iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 47. §-ával megállapított szöveg.

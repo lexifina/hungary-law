@@ -1,6 +1,6 @@
-## A gépjárművezetői képesítési igazolvány kiadása, nyilvántartása[^264]
+## A gépjárművezetői képesítési igazolvány kiadása, nyilvántartása[^265]
 
-33/F. §[^265] (1) Az e fejezet szerinti sikeres vizsga esetén a vizsgázó részére – hatályos vezetői engedély megléte esetén – a vizsgaközpont a 14. számú melléklet szerinti, a 95. harmonizált uniós kódot tartalmazó, öt évig hatályos gépjárművezetői képesítési igazolványt állít ki és azt hivatalos iratként, vagy a vizsgaközpont kijelölt ügyfélszolgálatán keresztül személyes átvétellel bocsátja a vizsgázó rendelkezésére.
+33/F. §[^266] (1) Az e fejezet szerinti sikeres vizsga esetén a vizsgázó részére – hatályos vezetői engedély megléte esetén – a vizsgaközpont a 14. számú melléklet szerinti, a 95. harmonizált uniós kódot tartalmazó, öt évig hatályos gépjárművezetői képesítési igazolványt állít ki és azt hivatalos iratként, vagy a vizsgaközpont kijelölt ügyfélszolgálatán keresztül személyes átvétellel bocsátja a vizsgázó rendelkezésére.
 
 (2) A gépjárművezetői képesítési igazolvány tulajdonosa a vizsgaközpontnál az a)–c) pontban meghatározott körülmény bekövetkezésétől számított 15 napon belül köteles bejelenteni, ha a részére kiadott gépjárművezetői képesítési igazolvány
 
@@ -16,5 +16,5 @@ c) bármely bejegyzett adata megváltozott, ide nem értve a gépjárművezetői
 
 (5) A gépjárművezetői képesítési igazolványon a kiadásának időpontjában fennálló lakcímadat és a vezetői engedély száma kerül feltüntetésre. Ezen adatok megváltozása nem érinti a kiadott gépjárművezetői képesítési igazolvány érvényességét. A vezetői engedély cseréjét követően a gépjárművezetői képesítési igazolványra utaló 95. harmonizált uniós kódot is tartalmazó vezetői engedély önállóan, a korábbi vezetői engedély számát tartalmazó gépjárművezetői képesítési igazolvány az új vezetői engedéllyel együttesen igazolja a 33/A. §-ban meghatározott követelményeknek való megfelelést.
 
-[^264]: A 33/F. §-t megelőző alcímet a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 51. § w) pontja szerint módosított szöveg.
-[^265]: A 33/F. §-t a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 46. §-ával megállapított szöveg.
+[^265]: A 33/F. §-t megelőző alcímet a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 51. § w) pontja szerint módosított szöveg.
+[^266]: A 33/F. §-t a 38/2007. (III. 28.) GKM rendelet 4. §-a iktatta be, szövege a 9/2022. (VIII. 1.) TIM rendelet 46. §-ával megállapított szöveg.

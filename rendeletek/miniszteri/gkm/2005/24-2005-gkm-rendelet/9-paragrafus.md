@@ -6,7 +6,7 @@ b) a közlekedésért felelős miniszter által, valamint
 
 c) a vizsgaközpont által a vizsgaszabályzatban
 
-## meghatározott követelményrendszer szerint kell lefolytatni.
+meghatározott követelményrendszer szerint kell lefolytatni.
 
 (2)[^86] A vizsgáztatás során a képzésre előírt – a 3., és 5. mellékletben meghatározott – szakmai feltételeket a vizsgáztatás sajátosságainak megfelelően kell alkalmazni.
 
