@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-27-20-1
 | 2016-07-01 | 2007-27-20-1U.8 | 23/2016. (VI. 29.) BM rendelet |
 | 2017-01-01 | 2007-27-20-1U.9 | 58/2016. (XII. 22.) BM rendelet |
 | 2019-07-01 | 2007-27-20-1U.10 | 58/2016. (XII. 22.) BM rendelet |
+| 2023-01-01 | 2007-27-20-1U.11 | 11/2024. (II. 29.) BM rendelet |

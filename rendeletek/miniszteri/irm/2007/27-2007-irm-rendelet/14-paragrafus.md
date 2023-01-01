@@ -1,3 +1,3 @@
-14. § (1)–(2)[^24]
+14. § (1)–(2)[^26]
 
-[^24]: A 14. § (1)–(2) bekezdését a 8/2015. (III. 24.) BM rendelet 16. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^26]: A 14. § (1)–(2) bekezdését a 8/2015. (III. 24.) BM rendelet 16. § (2) bekezdés a) pontja hatályon kívül helyezte.
