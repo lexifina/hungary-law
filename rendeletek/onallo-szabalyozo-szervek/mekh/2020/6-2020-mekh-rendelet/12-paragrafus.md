@@ -1,3 +1,3 @@
-## 11. §[^11]
+## 11. § Az R3. 3. §-a a következő (2) bekezdéssel egészül ki:
 
-[^11]: A 11. § a 14. § (3) bekezdése alapján 2023. január 1-jén lép hatályba.
+## „(2) Az energetikai szakreferens igénybevételére kötelezett gazdálkodó szervezet villamosenergia-felhasználásának figyelemmel kísérése, az indokolatlan fogyasztások feltárása és az energiamegtakarítási lehetőségek azonosítása érdekében köteles almérőt felszerelni, ahol az e rendeletben meghatározott almérővel már mért fogyasztású berendezések figyelmen kívül hagyása mellett az egy betáplálási ponton keresztül megtáplált és technológiai sorba állított berendezések (különösen: gép, gépsor, gyártósor, üzemcsarnok, illetve épület) esetében a beépített legnagyobb egyidejű teljesítményigény meghaladja a 100 kW-ot.”
