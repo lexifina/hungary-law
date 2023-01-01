@@ -1,4 +1,4 @@
-4/A. § (1) Az általános rendőrségi feladatok ellátására létrehozott szerv központi szervre (a továbbiakban: központi szerv), megyei (fővárosi) rendőr-főkapitányságokra, rendőrkapitányságokra és határrendészeti kirendeltségekre tagozódik. Egyes feladatok ellátására törvény vagy kormányrendelet más rendőri szervet is létrehozhat.
+4/A. § (1) Az általános rendőrségi feladatok ellátására létrehozott szerv központi szervre (a továbbiakban: központi szerv), vármegyei (fővárosi) rendőr-főkapitányságokra, rendőrkapitányságokra és határrendészeti kirendeltségekre tagozódik. Egyes feladatok ellátására törvény vagy kormányrendelet más rendőri szervet is létrehozhat.
 
 (2) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv szervezeti egységeként kormányrendelet kirendeltséget hozhat létre.
 

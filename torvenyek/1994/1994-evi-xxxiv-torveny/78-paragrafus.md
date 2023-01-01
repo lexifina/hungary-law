@@ -10,6 +10,6 @@ d) az idegenrendészeti szervnél a főigazgató
 
 által kijelölt szervezeti egység kezeli és dolgozza fel.
 
-(2) A kirendeltség adatait a kirendeltség vezetője, a megyei (fővárosi) rendőr-főkapitányság adatait a rendőrfőkapitány, a rendőrkapitányság, határrendészeti kirendeltség adatait a rendőrkapitány, valamint a határrendészeti kirendeltség vezetője által kijelölt szervezeti egység kezeli és dolgozza fel.
+(2) A kirendeltség adatait a kirendeltség vezetője, a vármegyei (fővárosi) rendőr-főkapitányság adatait a rendőrfőkapitány, a rendőrkapitányság, határrendészeti kirendeltség adatait a rendőrkapitány, valamint a határrendészeti kirendeltség vezetője által kijelölt szervezeti egység kezeli és dolgozza fel.
 
 (3) A rendőrség szervei a hatáskörükbe és illetékességükbe tartozó bűnüldözési, rendészeti, határrendészeti és közigazgatási ügyekben adatkezelést végeznek.

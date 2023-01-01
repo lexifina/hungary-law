@@ -1,4 +1,4 @@
-10. § (1) A rendőrkapitány, a megyék (főváros) tekintetében a rendőrfőkapitány és az illetékességi területen működő önkormányzatok, a közbiztonsággal összefüggő feladatok ellátásának társadalmi segítésére és ellenőrzésére — a közbiztonság fenntartásában érintett állami és egyesületek bevonásával — bűnmegelőzési és közbiztonsági bizottságot hozhatnak létre. A bizottság elnökét, tagjait együttesen bízzák meg az önkormányzat képviselő-testülete megbízatásának időtartamára.
+10. § (1) A rendőrkapitány, a vármegyék (főváros) tekintetében a rendőrfőkapitány és az illetékességi területen működő önkormányzatok, a közbiztonsággal összefüggő feladatok ellátásának társadalmi segítésére és ellenőrzésére — a közbiztonság fenntartásában érintett állami és egyesületek bevonásával — bűnmegelőzési és közbiztonsági bizottságot hozhatnak létre. A bizottság elnökét, tagjait együttesen bízzák meg az önkormányzat képviselő-testülete megbízatásának időtartamára.
 
 (2) A bizottság maga állapítja meg működésének részletes eljárási szabályait. A működéséhez szükséges költségeket a rendőrség és az önkormányzatok külön közigazgatási szerződésben rögzített arányban viselik.
 
