@@ -1,3 +1,5 @@
-4. melléklet az 542/2022. (XII. 22.) Korm. rendelethez[^8]
+## 2X09637.pdf
 
-[^8]: A 4. melléklet az 5. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+4. melléklet az 542/2022. (XII. 22.) Korm. rendelethez
+
+2X09650.pdf

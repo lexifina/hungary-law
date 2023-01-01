@@ -1,3 +1,3 @@
-2. §[^1]
+2. § (1) A Kormány az Egyezmény I. melléklete módosítását e rendelettel kihirdeti.
 
-[^1]: A 2. § az 5. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+(2) A Kormány az Egyezmény II. melléklete módosítását e rendelettel kihirdeti.
