@@ -14,7 +14,7 @@ vonatkozásában információt ad.
 
 (4) Az OBA a (2) bekezdésben meghatározott adatokat kizárólag feladatainak ellátása érdekében használhatja fel.
 
-(5) A tagintézetek betétbiztosítással kapcsolatos kötelezettségeinek teljesítését – ideértve az adatoknak az OBA kifizető rendszerének megfelelő rendelkezésre állását és a betétek személyenként történő összevonását – a Felügyelet a helyszínen ellenőrzi. Az OBA ellenőrzéssel kapcsolatos javaslatát a Felügyelet figyelembe veszi az éves ellenőrzési tervének kialakításakor.
+(5) A tagintézetek betétbiztosítással kapcsolatos kötelezettségeinek teljesítését – ideértve az adatoknak az OBA kifizető rendszerének megfelelő rendelkezésre állását és a betétek személyenként történő összevonását is – a Felügyelet a helyszínen vagy helyszínen kívül ellenőrzi. A Felügyelet az ellenőrzés során az OBA – Felügyelet által meghatározott módon történő – közreműködését is igénybe veheti, az OBA ezen ellenőrzés keretében a Felügyelet felé intézkedési javaslattal élhet. Az OBA ellenőrzéssel kapcsolatos javaslatát a Felügyelet figyelembe veszi az éves ellenőrzési tervének kialakításakor.
 
 (6) A tagintézet köteles a betétekre és a betétesekre vonatkozó azonosító adatokat oly módon nyilvántartani, hogy azok a kártalanítás végrehajtása céljából, az OBA által kérteknek megfelelően az OBA kérésére három munkanapon belül átadhatóak legyenek.
 
@@ -22,4 +22,4 @@ vonatkozásában információt ad.
 
 (8)
 
-(9) Kártalanítás esetén a hitelintézet a 213. § (3) bekezdésben meghatározott feltétel teljesülésének ellenőrzése érdekében haladéktalanul megkeresi a számlával, betéttel rendelkező helyi önkormányzatokat. A helyi önkormányzat a kincstár által kiállított igazolást megküldi a hitelintézet részére és a hitelintézet ennek alapján átadja az OBA-nak a betétbiztosítás alá tartozó helyi önkormányzatok betétállományára vonatkozó adatokat.
+(9) A hitelintézet a 213. § (3) bekezdésében meghatározott feltétel teljesülését a Magyar Államkincstár által a tárgyévet megelőző év szeptember 30. napjáig honlapján közzétett adatbázisból minden évben ellenőrzi. A hitelintézet a betétállományában nyilvántartja azokat a betéteket, amelyek a 213. § (3) bekezdésben meghatározott feltételnek megfelelően az OBA által biztosítottak.

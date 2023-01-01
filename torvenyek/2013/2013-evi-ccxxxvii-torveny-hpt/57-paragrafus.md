@@ -42,7 +42,11 @@ pusztán e jellemzőik miatt nem tekintendők beágyazott származtatott ügylet
 
 a) ha egy instrumentumot csak részben ismernek el szavatoló tőke elemként, akkor a teljes instrumentum szavatoló tőkéből származó követelésnek tekintendő,
 
-b) az 575/2013/EU rendeletben meghatározott járulékos tőkeelemből eredő tartozást a Cstv. 57. § (1) bekezdés h) pontjában meghatározott tartozás kielégítését követően szükséges kielégíteni.
+b) szavatoló tőke instrumentumnak nem minősülő alárendelt adósság instrumentumokat az 575/2013/EU rendeletben meghatározott járulékos tőkeelemből eredő tartozást megelőzően és a Cstv. 57. § (1) bekezdés h) pontjában meghatározott tartozás kielégítését követően szükséges kielégíteni,
+
+c) az 575/2013/EU rendeletben meghatározott kiegészítő alapvető tőkeelemből eredő tartozást az elsődleges alapvető tőkeelemből eredő tartozást megelőzően, valamint a járulékos tőkeelemből eredő tartozást követően szükséges kielégíteni.
+
+(2a) Az (1) bekezdéstől eltérően a Cstv. 57. § (1) bekezdés h) pont ha) alpontjába sorolódnak a hitelintézet legalább többségi befolyással rendelkező, természetes személynek nem minősülő tagjainak a hitelintézettel szemben fennálló, az OBA által biztosított, kártalanítási kötelezettséget meghaladó betételhelyezésből eredő követelések.
 
 (3) A felszámolás során tartott egyezségi tárgyaláson az állam és az OBA képviselője – az általuk biztosított betétek tekintetében és értékében – hitelezőként vesznek részt, jogosultak megtenni az egyezség létrejöttéhez szükséges engedményeket.
 

@@ -34,7 +34,7 @@ b) a hitelintézetek éves beszámoló készítési és könyvvezetési kötelez
 
 kártalanítási kötelezettség alá tartozó részének (a továbbiakban: díjfizetési alap) 0,3%-a.
 
-(2a) A díjfizetési alap meghatározásánál nem kell figyelembe venni a helyi önkormányzatok betéteit, valamint százezer eurónál nagyobb összegben azokat a betéteket, amelyekre a 214/A. § alapján magasabb kártalanítási összeghatár vonatkozik.
+(2a) A díjfizetési alap meghatározásánál nem kell figyelembe venni százezer eurónál nagyobb összegben azokat a betéteket, amelyekre a 214/A. § alapján magasabb kártalanítási összeghatár vonatkozik.
 
 (3) Az éves befizetés összegét a hitelintézet minden évben negyedéves részletekben, legkésőbb a tárgynegyedév tizenötödik napjáig köteles befizetni az OBA pénzforgalmi számlájára.
 

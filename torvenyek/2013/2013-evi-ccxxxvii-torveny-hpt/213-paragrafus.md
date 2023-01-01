@@ -22,11 +22,11 @@ j) a befektetési vállalkozás, a tőzsdetag, az árutőzsdei szolgáltató,
 
 k) a kötelező vagy önkéntes betétbiztosítási, intézményvédelmi, befektetővédelmi alap, illetve a Pénztárak Garancia Alapja,
 
-l)–m)
+l)
 
-n)
+m)
 
-betéteire, valamint a felsoroltak külföldi megfelelőinek betéteire.
+n) betéteire, valamint a felsoroltak külföldi megfelelőinek betéteire.
 
 (2) Az OBA által nyújtott biztosítás nem terjed ki az olyan betétre, amelyről bíróság jogerős ítélettel megállapította, hogy az abban elhelyezett összeg pénzmosásból származik, valamint a hitelintézet szavatoló tőkéjére, továbbá a hitelintézet által kibocsátott hitelviszonyt megtestesítő értékpapírra és saját váltóra.
 

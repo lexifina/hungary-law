@@ -18,4 +18,10 @@ b) a jogszabály által nyilvánosságra hozni rendelt adatokat.
 
 (3) A pénzügyi intézmény – ha törvény ettől eltérően nem rendelkezik – a szerződés megkötése előtt az ügyfelet arról tájékoztatja, ha a szerződéssel kapcsolatos jogvita esetén nem a magyar jog alkalmazását, illetve nem magyar bíróság kizárólagos joghatóságát kötik ki.
 
-(4)–(7)
+(4)
+
+(5)
+
+(6)
+
+(7)

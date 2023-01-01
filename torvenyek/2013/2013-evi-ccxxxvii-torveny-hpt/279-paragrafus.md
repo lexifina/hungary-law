@@ -8,7 +8,23 @@
 
 (3) A pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződésben egyértelműen meg kell határozni a kamatot, díjat és minden egyéb költséget vagy feltételt, ideértve a késedelmes teljesítés jogkövetkezményeit és a szerződést biztosító mellékkötelezettségek érvényesítésének módját, következményeit is.
 
-(4)–(12)
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+(12)
 
 (13) A fogyasztónak nyújtott hitelről szóló törvény hatálya alá nem tartozó pénzügyi és kiegészítő pénzügyi szolgáltatásra irányuló szerződések esetén kamatot, díjat vagy egyéb szerződési feltételt csak akkor lehet egyoldalúan, az ügyfél számára kedvezőtlenül módosítani, ha a szerződés ezt a pénzügyi intézmény számára – külön pontban – egyértelműen meghatározott feltételek, illetve körülmények esetére lehetővé teszi. A szerződés kamatot, díjat érintő – az ügyfél számára kedvezőtlen – módosítását a módosítás hatálybalépését tizenöt nappal megelőzően, közzé kell tenni, elektronikus kereskedelmi szolgáltatás nyújtása esetén az ügyfelek számára folyamatosan és könnyen hozzáférhető módon, elektronikus úton is elérhetővé kell tenni.
 
