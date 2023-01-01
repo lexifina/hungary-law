@@ -4,6 +4,7 @@
 
 (2)[^1] E rendelet alkalmazásában szerzői jogi jogvitás ügy az Szjt.-ben szabályozott szerzői, szomszédos és adatbázis-előállítói jogok érvényesítésével összefüggő bármely jogvita.
 
-(3) E rendelet alkalmazásában a felhasználási jog gyakorlásával kapcsolatos kérdésnek számít az Szjt.-ben szabályozott vagyoni jog gyakorlásával kapcsolatos kérdés.
+(3)[^2] E rendelet alkalmazásában a szerzői jog gyakorlásával kapcsolatos kérdésnek számít az Szjt.-ben szabályozott jogok gyakorlásával kapcsolatos kérdés.
 
 [^1]: Az 1. § (2) bekezdése a 270/2002. (XII. 20.) Korm. rendelet 10. § (3) bekezdésének a) pontjával megállapított szöveg.
+[^2]: Az 1. § (3) bekezdése az 548/2022. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
