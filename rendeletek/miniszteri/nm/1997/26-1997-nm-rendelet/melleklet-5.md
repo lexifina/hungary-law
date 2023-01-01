@@ -1,6 +1,6 @@
 5. számú melléklet a 26/1997. (IX. 3.) NM rendelethez
 
-## Az iskolafogászati tevékenységet végző fogászati asszisztens feladatai
+Az iskolafogászati tevékenységet végző fogászati asszisztens feladatai
 
 1. Segíti az orvost szervező, egészségnevelő, gyógyító, megelőző munkájában, elvégzi az előírt adminisztrációt.
 

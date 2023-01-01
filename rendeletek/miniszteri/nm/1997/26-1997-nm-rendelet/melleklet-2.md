@@ -120,7 +120,7 @@
 
 2. számú melléklet a 26/1997. (IX. 3.) NM rendelethez[^18]
 
-## A nevelési-oktatási intézmény orvosa által ellátandó iskola-egészségügyi feladatok
+A nevelési-oktatási intézmény orvosa által ellátandó iskola-egészségügyi feladatok
 
 1. A gyermekek, tanulók egészségi állapotának vizsgálata, követése
 

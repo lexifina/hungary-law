@@ -1,6 +1,6 @@
 4. számú melléklet a 26/1997. (IX. 3.) NM rendelethez
 
-## Az iskolafogászati tevékenységet ellátó fogorvos feladatai
+Az iskolafogászati tevékenységet ellátó fogorvos feladatai
 
 1. A körzetéhez tartozó gyermekeket – egyénileg és csoportosan – fogászati gondozásban részesíti, a preventív és terápiás ellátást a szükségleteknek megfelelően végzi.
 

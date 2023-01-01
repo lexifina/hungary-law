@@ -1,6 +1,6 @@
 3. számú melléklet a 26/1997. (IX. 3.) NM rendelethez[^24]
 
-## A nevelési-oktatási intézmény védőnője által önállóan ellátandó feladatok
+A nevelési-oktatási intézmény védőnője által önállóan ellátandó feladatok
 
 1. Az éves munkatervhez a védőnői feladatok összeállítása, egyeztetése a nevelési-oktatási intézmény egészségnevelési programjában meghatározott feladatok figyelembevételével.
 
