@@ -4,7 +4,7 @@ a) az eljárási cselekményeken való megjelenésével kapcsolatos úti- és sz
 
 b) a telefon, telefax, postai, leírási, másolási és egyéb indokolt és szükséges költségek
 
-## megtérítésére jogosult.
+megtérítésére jogosult.
 
 (2) Az ügyvéd úti- és szállásköltségének megtérítésére a tanúk költségtérítéséről szóló 14/2008. (VI. 27.) IRM rendelet 2. és 4. §-ában foglalt rendelkezéseket kell megfelelően alkalmazni azzal, hogy útiköltség akkor illeti meg, ha olyan eljárási cselekményen vesz részt, amelyet nem az irodájának, alirodájának vagy fiókirodájának székhelyén tartanak.
 
