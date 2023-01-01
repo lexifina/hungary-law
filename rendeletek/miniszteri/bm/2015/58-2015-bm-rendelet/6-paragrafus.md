@@ -10,7 +10,7 @@ b) katasztrófavédelmi szolgálati jármű esetében piros, sárga, zöld,
 
 c)[^8] büntetés-végrehajtási szolgálati jármű esetében piros, sárga, szürke
 
-## fényvisszaverő jelzéssel is.
+fényvisszaverő jelzéssel is.
 
 (4) Külön jogszabály alapján szolgálati járműre felszerelt megkülönböztető fény- és hangjelzést adó készülék tekintetében a fényhatások többféle módon is elérhetőek. Az azonos működési elvű fényforrások számának a szolgálati jármű két oldalán meg kell egyezniük egymással és azokat a szolgálati járműre szimmetrikusan kell felhelyezni. E szabályozás alól kivételt képez az első- és hátsó szélvédő mögött vagy a szolgálati jármű tetején elhelyezett 1-1 db kiegészítő fényforrás.
 

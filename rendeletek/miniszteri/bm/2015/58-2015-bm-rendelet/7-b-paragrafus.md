@@ -36,7 +36,7 @@ c) a szolgálati járművet üzemeltető szerv és annak irányítását ellát�
 
 d) a rendszerüzemeltetésből eredő feladatai ellátása keretében az informatikai rendszer infrastruktúra-üzemeltetője, a Nemzeti Infokommunikációs Zrt.
 
-## fér hozzá.
+fér hozzá.
 
 (5) A hozzáférés jogosultság-kiosztás alapján kerül korlátozásra, és a Belügyminisztérium informatikai biztonsági felügyelője vagy a jogosultságot kérelmező személy munkáltatója által kijelölt vezető által jóváhagyásra.
 
@@ -66,8 +66,13 @@ g)[^12] az 5000 km éves futásteljesítményt a felmentést megelőző három �
 
 h)[^13] a 100 üzemóra éves teljesítményt a felmentést megelőző három év átlagában el nem érő jármű.
 
+i)[^14] a műszakilag nem, vagy nem gazdaságosan kivitelezhető telematikaieszköz-elhelyezéssel érintett szolgálati jármű
+
+esetében, ha azt a feladat jellege szükségessé teszi.
+
 [^9]: A 7/A. §-t a 20/2018. (VI. 29.) BM rendelet 6. §-a iktatta be.
 [^10]: A 7/B. §-t az 5/2020. (III. 10.) BM rendelet 2. §-a iktatta be.
 [^11]: A 7/B. § (10) bekezdés f) pontját a 34/2020. (IX. 16.) BM rendelet 3. §-a iktatta be.
 [^12]: A 7/B. § (10) bekezdés g) pontját a 34/2020. (IX. 16.) BM rendelet 3. §-a iktatta be.
 [^13]: A 7/B. § (10) bekezdés h) pontját a 34/2020. (IX. 16.) BM rendelet 3. §-a iktatta be.
+[^14]: A 7/B. § (10) bekezdés i) pontját a 72/2022. (XII. 27.) BM rendelet 1. §-a iktatta be.
