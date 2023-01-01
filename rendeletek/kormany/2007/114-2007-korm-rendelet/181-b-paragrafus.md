@@ -1,10 +1,10 @@
-## A biometrikus adatkezelés szabályai[^565]
+## A biometrikus adatkezelés szabályai[^584]
 
-181/B. §[^566] (1) A kishatárforgalmi engedély kiadása iránti kérelem benyújtása során a Tv. 96/A. §-ában meghatározott biometrikus azonosítókat a konzuli tisztviselő rögzíti.
+181/B. §[^585] (1) A kishatárforgalmi engedély kiadása iránti kérelem benyújtása során a Tv. 96/A. §-ában meghatározott biometrikus azonosítókat a konzuli tisztviselő rögzíti.
 
-(2)[^567] A tartózkodási engedély iránti kérelem benyújtása során a Tv. 96. § (1) bekezdés j) pontjában meghatározott biometrikus azonosítókat külképviseleten történő kérelmezés esetén a konzuli tisztviselő, Magyarország területén történő kérelmezés esetén a regionális igazgatóság rögzíti.
+(2)[^586] A tartózkodási engedély iránti kérelem benyújtása során a Tv. 96. § (1) bekezdés j) pontjában meghatározott biometrikus azonosítókat külképviseleten történő kérelmezés esetén a konzuli tisztviselő, Magyarország területén történő kérelmezés esetén a regionális igazgatóság rögzíti.
 
-(3)[^568] A Kormány a kishatárforgalmi engedéllyel, a tartózkodási engedéllyel, az ideiglenes letelepedési engedéllyel, a nemzeti letelepedési engedéllyel, az EK letelepedési engedéllyel és a bevándorlási vagy letelepedési engedély okmány cseréjével vagy pótlásával összefüggésben
+(3)[^587] A Kormány a kishatárforgalmi engedéllyel, a tartózkodási engedéllyel, az ideiglenes letelepedési engedéllyel, a nemzeti letelepedési engedéllyel, az EK letelepedési engedéllyel és a bevándorlási vagy letelepedési engedély okmány cseréjével vagy pótlásával összefüggésben
 
 a) a nemzeti dokumentum-aláíró hatósági (DS), az országos ellenőrző-hitelesítő hatósági (CVCA) és a nemzeti dokumentumellenőrző-hitelesítő hatósági (DV) feladatok ellátására a Főigazgatóságot,
 
@@ -14,42 +14,42 @@ jelöli ki.
 
 (4) Az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély, illetve az EK letelepedési engedély iránti kérelem benyújtása során, illetve a bevándorlási vagy letelepedési engedély okmány cseréjére vagy pótlására irányuló kérelem átvétele során a Tv. 99. § (1) bekezdés k) pontjában meghatározott biometrikus azonosítókat a regionális igazgatóság rögzíti.
 
-(4a)[^569] A 93. § (1a) és (1b) bekezdése szerinti esetben a Tv. 99. § (1) bekezdés k) pontjában meghatározott biometrikus azonosítókat a konzuli tisztviselő rögzíti.
+(4a)[^588] A 93. § (1a) és (1b) bekezdése szerinti esetben a Tv. 99. § (1) bekezdés k) pontjában meghatározott biometrikus azonosítókat a konzuli tisztviselő rögzíti.
 
-(5)[^570] A Főigazgatóság végzi a kishatárforgalmi engedéllyel, a tartózkodási engedéllyel, az ideiglenes letelepedési engedéllyel, a nemzeti letelepedési engedéllyel, az EK letelepedési engedéllyel és a bevándorlási vagy letelepedési engedély okmány cseréjével vagy pótlásával összefüggésben az okmány megszemélyesítését és a biometrikus azonosítót tartalmazó tároló elem (a továbbiakban: tároló elem) adatokkal történő feltöltését.
+(5)[^589] A Főigazgatóság végzi a kishatárforgalmi engedéllyel, a tartózkodási engedéllyel, az ideiglenes letelepedési engedéllyel, a nemzeti letelepedési engedéllyel, az EK letelepedési engedéllyel és a bevándorlási vagy letelepedési engedély okmány cseréjével vagy pótlásával összefüggésben az okmány megszemélyesítését és a biometrikus azonosítót tartalmazó tároló elem (a továbbiakban: tároló elem) adatokkal történő feltöltését.
 
-(6)[^571] A Főigazgatóság nemzeti dokumentum-aláíró hatóságként
+(6)[^590] A Főigazgatóság nemzeti dokumentum-aláíró hatóságként
 
 a) létrehozza és kiadja a dokumentum-aláíró tanúsítványt, és elhelyezi azt a tároló elemben,
 
 b) létrehozza és kezeli – a tároló elemmel ellátott kishatárforgalmi engedély, tartózkodási engedély, ideiglenes letelepedési engedély, nemzeti letelepedési engedély, EK letelepedési engedély, illetve bevándorlási vagy letelepedési engedély okmányok ellenőrzése céljából – a Nemzetközi Polgári Repülési Szervezet (a továbbiakban: ICAO) összes tagországa nemzeti dokumentum-aláíró hatóságának tanúsítványait és visszavonási listáit tartalmazó tanúsítványt és visszavonási listatárat.
 
-(7)[^572] Az idegenrendészetért és menekültügyért felelős miniszter országos aláíró hitelesítő hatóságként
+(7)[^591] Az idegenrendészetért és menekültügyért felelős miniszter országos aláíró hitelesítő hatóságként
 
 a) kiadja az országos aláírás-hitelesítő tanúsítványt,
 
 b) az általa kibocsátott tanúsítványokat és az azokhoz kapcsolódó visszavonási listákat elektronikus dokumentum formájában a külpolitikáért felelős miniszter útján eljuttatja a többi ICAO tagország országos aláíró hitelesítő hatóságához.
 
-(8)[^573] A Főigazgatóság országos ellenőrzőhitelesítő hatóságként
+(8)[^592] A Főigazgatóság országos ellenőrzőhitelesítő hatóságként
 
 a) tanúsítványt bocsát ki a nemzeti dokumentumellenőrző-hitelesítő hatóság számára,
 
 b) tanúsítványt ad ki a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására feljogosított külföldi hatóságok ellenőrző eszközei számára tanúsítványt kibocsátó külföldi dokumentumellenőrző-hitelesítő hatóságok számára.
 
-(9)[^574] A Főigazgatóság nemzeti dokumentumellenőrző-hitelesítő hatóságként biztosítja a kishatárforgalmi engedély, a tartózkodási engedély, az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély, illetve az EK letelepedési engedély, illetve a bevándorlási vagy letelepedési engedély okmányban elektronikusan tárolt, bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult magyar hatóságok ellenőrző eszközei számára a hozzáféréshez szükséges tanúsítványok kiállítását.
+(9)[^593] A Főigazgatóság nemzeti dokumentumellenőrző-hitelesítő hatóságként biztosítja a kishatárforgalmi engedély, a tartózkodási engedély, az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély, illetve az EK letelepedési engedély, illetve a bevándorlási vagy letelepedési engedély okmányban elektronikusan tárolt, bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult magyar hatóságok ellenőrző eszközei számára a hozzáféréshez szükséges tanúsítványok kiállítását.
 
 (10) A kishatárforgalmi engedély, a tartózkodási engedély, az ideiglenes letelepedési engedély, a nemzeti letelepedési engedély, illetve az EK letelepedési engedély, illetve a bevándorlási vagy letelepedési engedély okmánnyal rendelkező harmadik országbeli állampolgár a biometrikus adatokat tartalmazó tároló elem adatainak ellenőrzését az okmány érvényességi ideje alatt bármikor kérheti a regionális igazgatóságon.
 
-(11)[^575] Az idegenrendészetért és menekültügyért felelős miniszter a (8) bekezdésben foglaltak kivételével a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult külföldi hatóságok számára a magyar tartózkodási engedélyek vonatkozásában dokumentumellenőrző-hitelesítő tanúsítványt (DV tanúsítvány) bocsát ki, valamint a külföldi tartózkodási engedélyek tekintetében a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult hazai hatóság ellenőrző rendszerei számára biztosítja a kiolvasáshoz szükséges ellenőrző rendszer tanúsítványt (IS tanúsítvány), továbbá a tartózkodási engedélyek tekintetében ellátja a tagállami tanúsítványcserével és tanúsítvány felülhitelesítéssel kapcsolatos Single Point of Contact (SPOC) feladatait.
+(11)[^594] Az idegenrendészetért és menekültügyért felelős miniszter a (8) bekezdésben foglaltak kivételével a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult külföldi hatóságok számára a magyar tartózkodási engedélyek vonatkozásában dokumentumellenőrző-hitelesítő tanúsítványt (DV tanúsítvány) bocsát ki, valamint a külföldi tartózkodási engedélyek tekintetében a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult hazai hatóság ellenőrző rendszerei számára biztosítja a kiolvasáshoz szükséges ellenőrző rendszer tanúsítványt (IS tanúsítvány), továbbá a tartózkodási engedélyek tekintetében ellátja a tagállami tanúsítványcserével és tanúsítvány felülhitelesítéssel kapcsolatos Single Point of Contact (SPOC) feladatait.
 
-[^565]: A 181/B. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
-[^566]: A 181/B. §-t a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
-[^567]: A 181/B. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^568]: A 181/B. § (3) bekezdése a 304/2019. (XII. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^569]: A 181/B. § (4a) bekezdését a 130/2012. (VI. 26.) Korm. rendelet 5. §-a iktatta be.
-[^570]: A 181/B. § (5) bekezdése a 304/2019. (XII. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^571]: A 181/B. § (6) bekezdése a 304/2019. (XII. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^572]: A 181/B. § (7) bekezdése a 304/2019. (XII. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^573]: A 181/B. § (8) bekezdés nyitó szövegrésze a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés d) pontja szerint módosított szöveg.
-[^574]: A 181/B. § (9) bekezdése a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés d) pontja szerint módosított szöveg.
-[^575]: A 181/B. § (11) bekezdését a 696/2021. (XII. 13.) Korm. rendelet 8. §-a iktatta be.
+[^584]: A 181/B. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
+[^585]: A 181/B. §-t a 290/2010. (XII. 21.) Korm. rendelet 75. §-a iktatta be.
+[^586]: A 181/B. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^587]: A 181/B. § (3) bekezdése a 304/2019. (XII. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^588]: A 181/B. § (4a) bekezdését a 130/2012. (VI. 26.) Korm. rendelet 5. §-a iktatta be.
+[^589]: A 181/B. § (5) bekezdése a 304/2019. (XII. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^590]: A 181/B. § (6) bekezdése a 304/2019. (XII. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^591]: A 181/B. § (7) bekezdése a 304/2019. (XII. 12.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^592]: A 181/B. § (8) bekezdés nyitó szövegrésze a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^593]: A 181/B. § (9) bekezdése a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^594]: A 181/B. § (11) bekezdését a 696/2021. (XII. 13.) Korm. rendelet 8. §-a iktatta be.

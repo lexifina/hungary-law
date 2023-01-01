@@ -1,6 +1,6 @@
-## Külföldre utazási korlátozás[^498]
+## Külföldre utazási korlátozás[^508]
 
-## 145. §[^499] A Tv. 66. § (1) és (4) bekezdésében meghatározott értesítést és úti okmányt a harmadik országbeli állampolgárral szembeni büntetőjogi büntetés vagy intézkedés, büntetőeljárási kényszerintézkedés, illetve egyéb korlátozás elrendelésének helye szerint illetékes regionális igazgatóságnak kell megküldeni, amely intézkedik
+## 145. §[^509] A Tv. 66. § (1) és (4) bekezdésében meghatározott értesítést és úti okmányt a harmadik országbeli állampolgárral szembeni büntetőjogi büntetés vagy intézkedés, büntetőeljárási kényszerintézkedés, illetve egyéb korlátozás elrendelésének helye szerint illetékes regionális igazgatóságnak kell megküldeni, amely intézkedik
 
 a) a külföldre utazási korlátozás nyilvántartásba történő bejegyzése, illetve törlése,
 
@@ -10,5 +10,5 @@ c) a Tv. 86. §-ban meghatározott esetben az úti okmány visszavonása
 
 érdekében.
 
-[^498]: A 145. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 70. §-a iktatta be, szövege a 409/2012. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.
-[^499]: A 145. § a 409/2012. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^508]: A 145. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 70. §-a iktatta be, szövege a 409/2012. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^509]: A 145. § a 409/2012. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-40. §[^135]
+40. §[^137]
 
-[^135]: A 40. §-t a 113/2016. (V. 30.) Korm. rendelet 56. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^137]: A 40. §-t a 113/2016. (V. 30.) Korm. rendelet 56. § (5) bekezdés b) pontja hatályon kívül helyezte.

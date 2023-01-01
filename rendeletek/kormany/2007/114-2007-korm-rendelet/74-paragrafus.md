@@ -1,8 +1,8 @@
-## 73. §[^264] Az emberkereskedelem áldozatává vált, tartózkodási engedéllyel ellátott harmadik országbeli állampolgár (a továbbiakban: az emberkereskedelem áldozatává vált harmadik országbeli állampolgár) alapvető létfenntartási feltételeinek megteremtéséhez a Főigazgatóság ellátásokkal és támogatással járul hozzá.
+## 73. §[^270] Az emberkereskedelem áldozatává vált, tartózkodási engedéllyel ellátott harmadik országbeli állampolgár (a továbbiakban: az emberkereskedelem áldozatává vált harmadik országbeli állampolgár) alapvető létfenntartási feltételeinek megteremtéséhez a Főigazgatóság ellátásokkal és támogatással járul hozzá.
 
-74. §[^265] (1)[^266] Megilletik
+74. §[^271] (1)[^272] Megilletik
 
-a)[^267]
+a)[^273]
 
 b) az emberkereskedelem áldozatává vált harmadik országbeli állampolgárt a személyes gondoskodás körébe tartozó ellátások és a pénzbeli támogatás.
 
@@ -12,10 +12,10 @@ a) a közösségi vagy annak megfelelő szálláson való elhelyezés és ellát
 
 b) az egészségügyi ellátás.
 
-(3)[^268] A közösségi szállásról vagy befogadó állomásról való kiköltözést követően az emberkereskedelem áldozatává vált harmadik országbeli állampolgár – rászorultsága esetén – kérelme alapján, a tartózkodási engedély első alkalommal történő kiállítását követő tizenkét hónapon keresztül havonta folyósított támogatást kaphat, amelynek mértéke a foglalkoztatást helyettesítő támogatás összege.
+(3)[^274] A közösségi szállásról vagy befogadó állomásról való kiköltözést követően az emberkereskedelem áldozatává vált harmadik országbeli állampolgár – rászorultsága esetén – kérelme alapján, a tartózkodási engedély első alkalommal történő kiállítását követő tizenkét hónapon keresztül havonta folyósított támogatást kaphat, amelynek mértéke a foglalkoztatást helyettesítő támogatás összege.
 
-[^264]: A 73. § a 221/2013. (VI. 24.) Korm. rendelet 15. §-ával megállapított, a 113/2016. (V. 30.) Korm. rendelet 56. § (1) bekezdés b) pontja, a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés h) pontja szerint módosított szöveg.
-[^265]: A 74. § a 221/2013. (VI. 24.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^266]: A 74. § (1) bekezdése a 62/2016. (III. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^267]: A 74. § (1) bekezdés a) pontját a 113/2016. (V. 30.) Korm. rendelet 56. § (3) bekezdés a) pontja hatályon kívül helyezte.
-[^268]: A 74. § (3) bekezdése a 62/2016. (III. 31.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^270]: A 73. § a 221/2013. (VI. 24.) Korm. rendelet 15. §-ával megállapított, a 113/2016. (V. 30.) Korm. rendelet 56. § (1) bekezdés b) pontja, a 126/2019. (V. 30.) Korm. rendelet 13. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^271]: A 74. § a 221/2013. (VI. 24.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^272]: A 74. § (1) bekezdése a 62/2016. (III. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^273]: A 74. § (1) bekezdés a) pontját a 113/2016. (V. 30.) Korm. rendelet 56. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^274]: A 74. § (3) bekezdése a 62/2016. (III. 31.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.

@@ -1,11 +1,11 @@
-79. § (1)[^284] Ha az emberkereskedelem áldozatává vált harmadik országbeli állampolgár nem áll társadalombiztosítási jogviszonyban, betegsége esetén a 138. §-ban meghatározott egészségügyi szolgáltatásokat jogosult térítésmentesen igénybe venni.
+79. § (1)[^290] Ha az emberkereskedelem áldozatává vált harmadik országbeli állampolgár nem áll társadalombiztosítási jogviszonyban, betegsége esetén a 138. §-ban meghatározott egészségügyi szolgáltatásokat jogosult térítésmentesen igénybe venni.
 
-(2)[^285] A közösségi szálláson tartózkodó emberkereskedelem áldozatává vált harmadik országbeli állampolgár háziorvosi ellátása a közösségi szálláson történik.
+(2)[^291] A közösségi szálláson tartózkodó emberkereskedelem áldozatává vált harmadik országbeli állampolgár háziorvosi ellátása a közösségi szálláson történik.
 
-(3)[^286] A közösségi szálláson kívül lakó emberkereskedelem áldozatává vált harmadik országbeli állampolgár a szálláshelye szerinti – területi ellátási kötelezettséggel egészségügyi szolgáltatást nyújtó – háziorvosnál jogosult ellátásra.
+(3)[^292] A közösségi szálláson kívül lakó emberkereskedelem áldozatává vált harmadik országbeli állampolgár a szálláshelye szerinti – területi ellátási kötelezettséggel egészségügyi szolgáltatást nyújtó – háziorvosnál jogosult ellátásra.
 
 (4) Az egészségügyi szakellátást a területi ellátási kötelezettséggel működő egészségügyi szolgáltatónál lehet igénybe venni.
 
-[^284]: A 79. § (1) bekezdése a 113/2016. (V. 30.) Korm. rendelet 56. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^285]: A 79. § (2) bekezdése a 113/2016. (V. 30.) Korm. rendelet 56. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^286]: A 79. § (3) bekezdése a 113/2016. (V. 30.) Korm. rendelet 56. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^290]: A 79. § (1) bekezdése a 113/2016. (V. 30.) Korm. rendelet 56. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^291]: A 79. § (2) bekezdése a 113/2016. (V. 30.) Korm. rendelet 56. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^292]: A 79. § (3) bekezdése a 113/2016. (V. 30.) Korm. rendelet 56. § (1) bekezdés f) pontja szerint módosított szöveg.

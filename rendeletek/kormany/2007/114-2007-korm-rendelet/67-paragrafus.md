@@ -1,11 +1,3 @@
-67. § (1) A meghívólevél iránti kérelmet el kell utasítani, ha a kérelmező
+67. §[^209]
 
-a) nem rendelkezik a kötelezettségvállalás teljesítéséhez szükséges feltételekkel;
-
-b) a korábbi meghívás alkalmával a meghívólevélben vállalt kötelezettségeit nem teljesítette;
-
-c) kérelmében hamis adatot vagy valótlan tényt közölt.
-
-(2)[^208] A meghívót tájékoztatni kell arról, hogy a meghívólevél önmagában nem jogosítja a harmadik országbeli állampolgárt Magyarország területére történő beutazásra.
-
-[^208]: A 67. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^209]: A 67. §-t a 628/2022. (XII. 30.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.

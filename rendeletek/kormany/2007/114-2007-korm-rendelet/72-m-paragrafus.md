@@ -1,4 +1,4 @@
-## A Fehér Kártya kiadására vonatkozó szabályok[^262]
+## A Fehér Kártya kiadására vonatkozó szabályok[^268]
 
 72/M. § (1) A Fehér Kártya kiadására vagy meghosszabbítására irányuló eljárásban a Tv. 13. § (1) bekezdés d) pontjában foglalt feltétel fennállása igazolható
 
@@ -32,4 +32,4 @@ c) egyéb hitelt érdemlő módon.
 
 (4) A Fehér Kártya kiadására és meghosszabbítására irányuló eljárásban a magyarországi megélhetés igazoltnak tekinthető, ha a harmadik országbeli állampolgár havi jogszerű jövedelme a beutazást megelőző legalább 6 hónapban a 2000 EUR összeget eléri vagy meghaladja, amely összegű jövedelemmel a magyarországi tartózkodás ideje alatt mindvégig rendelkeznie kell.
 
-[^262]: A „A Fehér Kártya kiadására vonatkozó szabályok” alcímet (72/M. §) a 696/2021. (XII. 13.) Korm. rendelet 3. §-a iktatta be.
+[^268]: A „A Fehér Kártya kiadására vonatkozó szabályok” alcímet (72/M. §) a 696/2021. (XII. 13.) Korm. rendelet 3. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 61. § Amennyiben a beutazás és tartózkodás célja kutatás, a harmadik országbeli állampolgár a Tv. 13. § (1) bekezdés d) pontjában foglalt feltétel fennállását a kutatószervezettel kötött fogadási megállapodással igazolhatja.
 
-61/A. §[^202] (1) Ha a beutazás és tartózkodás célja gyakornoki tevékenység, a harmadik országbeli állampolgár a Tv. 13. § (1) bekezdés d) pontjában, valamint a 22/D. § (1) bekezdésében foglalt feltételek fennállását az alábbiakkal igazolhatja:
+61/A. §[^204] (1) Ha a beutazás és tartózkodás célja gyakornoki tevékenység, a harmadik országbeli állampolgár a Tv. 13. § (1) bekezdés d) pontjában, valamint a 22/D. § (1) bekezdésében foglalt feltételek fennállását az alábbiakkal igazolhatja:
 
 a) külön törvényben jóváhagyott fogadó szervezettel kötött gyakornoki szerződéssel, és
 
@@ -24,4 +24,4 @@ f) azt, hogy a fogadó szervezet a harmadik országbeli állampolgár Magyarorsz
 
 (3) A regionális igazgatóság a gyakornoki tevékenység céljából kiadott tartózkodási engedélyt a II. melléklet 2. pontja szerinti formában és adattartalommal állítja ki. A regionális igazgatóság a tartózkodási engedély okmány hátoldali „Megjegyzések” rovatába a következő adatokat tünteti fel: „Gyakornok [munkáltató neve]-nál/nél/Entitled to training at [name of company]”.
 
-[^202]: A 61/A. §-t a 411/2017. (XII. 15.) Korm. rendelet 23. §-a iktatta be.
+[^204]: A 61/A. §-t a 411/2017. (XII. 15.) Korm. rendelet 23. §-a iktatta be.

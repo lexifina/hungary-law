@@ -1,3 +1,3 @@
-92. §[^309]
+92. §[^315]
 
-[^309]: A 92. §-t a 417/2012. (XII. 29.) Korm. rendelet 66. §-a hatályon kívül helyezte.
+[^315]: A 92. §-t a 417/2012. (XII. 29.) Korm. rendelet 66. §-a hatályon kívül helyezte.

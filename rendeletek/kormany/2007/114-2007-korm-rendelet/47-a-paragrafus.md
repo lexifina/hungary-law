@@ -1,4 +1,4 @@
-47/A. §[^158] (1) A harmadik országbeli állampolgár az álláskeresési vagy vállalkozásindítási célú tartózkodási engedély iránti kérelmét a szálláshelye szerint illetékes regionális igazgatóságon terjesztheti elő a külön jogszabály által e célra rendszeresített formanyomtatványon, a kutatási vagy tanulmányi célú tartózkodási engedélye érvényességi idejének lejártát megelőző tizenöt nappal.
+47/A. §[^160] (1) A harmadik országbeli állampolgár az álláskeresési vagy vállalkozásindítási célú tartózkodási engedély iránti kérelmét a szálláshelye szerint illetékes regionális igazgatóságon terjesztheti elő a külön jogszabály által e célra rendszeresített formanyomtatványon, a kutatási vagy tanulmányi célú tartózkodási engedélye érvényességi idejének lejártát megelőző tizenöt nappal.
 
 (2) A Tv. 22/C. §-a szerinti tartózkodási engedély iránti kérelem előterjesztésekor a kérelmezőnek mellékelnie kell:
 
@@ -20,4 +20,4 @@ c) a cégbíróság által érkeztetett cég bejegyzése iránti kérelem, amely
 
 (4) Ha a felsőfokú végzettséget tanúsító oklevél, bizonyítvány vagy a képesítés megszerzéséről szóló egyéb tanúsítvány, illetve a kutató szervezet által a kutatási tevékenység befejezéséről kiállított igazolás nem áll a harmadik országbeli állampolgár rendelkezésére a kérelem előterjesztésekor, az idegenrendészeti hatóság ezen irat pótlására – legalább húsz napos határidő tűzésével – felhívja a harmadik országbeli állampolgárt.
 
-[^158]: A 47/A. §-t a 411/2017. (XII. 15.) Korm. rendelet 19. §-a iktatta be.
+[^160]: A 47/A. §-t a 411/2017. (XII. 15.) Korm. rendelet 19. §-a iktatta be.
