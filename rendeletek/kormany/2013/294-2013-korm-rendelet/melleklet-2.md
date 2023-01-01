@@ -38,6 +38,6 @@
 
 | 19. | üzletek működési engedélyezési eljárása | Budapest Főváros XII. kerület Hegyvidéki Önkormányzat jegyzője |
 
-2. melléklet a 294/2013. (VII. 26.) Korm. rendelethez[^19]
+2. melléklet a 294/2013. (VII. 26.) Korm. rendelethez[^21]
 
-[^19]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 97. § d) pontja hatályon kívül helyezte.
+[^21]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 97. § d) pontja hatályon kívül helyezte.
