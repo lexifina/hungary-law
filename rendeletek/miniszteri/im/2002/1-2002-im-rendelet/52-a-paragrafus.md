@@ -22,7 +22,7 @@ b)[^157] a végrehajtási költség összegének a végrehajtó elszámolási sz
 
 c)[^158] a díjjegyzék jogerőssé válásáról történő értesülést követő 8 napon belül
 
-## kell kiállítani.
+kell kiállítani.
 
 (3) A költség megfizetésének időpontjaként azt a napot kell a bizonylaton feltüntetni, amelyen a pénzösszeget a végrehajtó átvette, illetve amelyen azt – a (2) bekezdés c) pontjában foglalt esetben pedig az utolsó részletet – a végrehajtó elszámolási számláján jóváírták.
 

@@ -1,5 +1,3 @@
-## 57. §[^163]
-
 ## Harmadik Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
@@ -24,7 +22,6 @@
 
 (9)[^171] E rendeletnek a Módrendelettel megállapított 49. § (3) bekezdését a Módrendelet hatálybalépésekor[^172] folyamatban lévő végrehajtási eljárásokban is alkalmazni kell abban az esetben, ha a Módrendelet hatálybalépését követően postán vagy átutalással a végrehajtóhoz érkezett összeg rendeltetése nem állapítható meg.
 
-[^163]: Az 57. §-t a 18/2021. (XII. 23.) IM rendelet 6. § o) pontja hatályon kívül helyezte.
 [^164]: Az 58. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 110. pontja hatályon kívül helyezte.
 [^165]: Az 58. § (4) bekezdése a 4/2004. (II. 27.) IM rendelet 1. § (8) bekezdésével megállapított szöveg.
 [^166]: Az 58. § (5) bekezdését a 40/2011. (XII. 30.) KIM rendelet 20. § (2) bekezdése iktatta be.

@@ -1,6 +1,6 @@
 7. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^237]
 
-## A végrehajtási lap kiállítása helyetti bírósági letiltó végzés kibocsátása iránti kérelem nyomtatványának adattartalma
+A végrehajtási lap kiállítása helyetti bírósági letiltó végzés kibocsátása iránti kérelem nyomtatványának adattartalma
 
 1. Az adóssal kapcsolatos adatok:
 

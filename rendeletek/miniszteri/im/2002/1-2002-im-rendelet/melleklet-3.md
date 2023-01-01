@@ -1,5 +1,3 @@
-## A bírósági végrehajtók irattári terve
-
 | Irattári tételszám | Az irattári tétel megnevezése | Selej- tezési idő (években) | Levél- tárba történő átadás ideje (években) |
 
 | 1 | Behajtással befejezett ügyek, illetve azok az ügyek, amelyekben a teljesítést a végrehajtást kérő bejelentette, illetve elengedte | 40 | 0 |
@@ -26,7 +24,7 @@
 
 3. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^175]
 
-## A pénzkövetelés behajtására szolgáló végrehajtási lap kiállítása iránti kérelem nyomtatványának adattartalma
+A pénzkövetelés behajtására szolgáló végrehajtási lap kiállítása iránti kérelem nyomtatványának adattartalma
 
 1. Az adóssal kapcsolatos adatok:
 

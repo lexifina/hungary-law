@@ -1,6 +1,6 @@
 4. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^193]
 
-## A meghatározott cselekmény végrehajtására szolgáló végrehajtási lap kiállítása iránti kérelem nyomtatványának adattartalma
+A meghatározott cselekmény végrehajtására szolgáló végrehajtási lap kiállítása iránti kérelem nyomtatványának adattartalma
 
 1. A kötelezettel kapcsolatos adatok:
 

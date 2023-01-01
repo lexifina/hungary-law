@@ -1,6 +1,6 @@
 11. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^271]
 
-## A végrehajtási záradék kiállítása helyetti átutalási végzés kibocsátása iránti kérelem nyomtatványának adattartalma
+A végrehajtási záradék kiállítása helyetti átutalási végzés kibocsátása iránti kérelem nyomtatványának adattartalma
 
 1. Az adóssal kapcsolatos adatok:
 

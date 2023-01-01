@@ -1,6 +1,6 @@
 6. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^223]
 
-## A meghatározott cselekmény végrehajtására szolgáló, törvényben meghatározott okiratok végrehajtási záradékkal történő ellátása iránti kérelem nyomtatványának adattartalma
+A meghatározott cselekmény végrehajtására szolgáló, törvényben meghatározott okiratok végrehajtási záradékkal történő ellátása iránti kérelem nyomtatványának adattartalma
 
 1. A kötelezettel kapcsolatos adatok:
 

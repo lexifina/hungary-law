@@ -1,6 +1,6 @@
 5. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^208]
 
-## A pénzkövetelés behajtására szolgáló, törvényben meghatározott okirat végrehajtási záradékkal történő ellátása iránti kérelem nyomtatványának adattartalma
+A pénzkövetelés behajtására szolgáló, törvényben meghatározott okirat végrehajtási záradékkal történő ellátása iránti kérelem nyomtatványának adattartalma
 
 1. Az adóssal kapcsolatos adatok:
 

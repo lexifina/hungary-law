@@ -1,6 +1,6 @@
 9. számú melléklet az 1/2002. (I. 17.) IM rendelethez[^254]
 
-## A végrehajtási lap kiállítása helyetti, gyermektartásdíj és szüléssel járó költség behajtására szolgáló bírósági letiltó végzés kibocsátása iránti kérelem nyomtatványának adattartalma
+A végrehajtási lap kiállítása helyetti, gyermektartásdíj és szüléssel járó költség behajtására szolgáló bírósági letiltó végzés kibocsátása iránti kérelem nyomtatványának adattartalma
 
 1. Az adóssal kapcsolatos adatok:
 
