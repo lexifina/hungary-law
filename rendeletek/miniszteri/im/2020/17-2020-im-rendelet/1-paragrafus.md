@@ -12,7 +12,7 @@ d) a viszontkereset-levelet a 4. mellékletben,
 
 e) a beszámítást tartalmazó iratot az 5. mellékletben
 
-## meghatározott nyomtatványon is előterjesztheti.
+meghatározott nyomtatványon is előterjesztheti.
 
 (2) Ha a fél a polgári perrendtartásról szóló törvény szerint jogi képviselő nélkül jár el,
 
@@ -29,3 +29,5 @@ e) a munkaügyi per megindítására szolgáló keresetlevelet a 10. mellékletb
 f) a végrehajtási per (végrehajtás megszüntetése és korlátozása iránt indított per, végrehajtási igényper, végrehajtási eljárásba történő bekapcsolódás engedélyezése iránt indított per) megindítására szolgáló keresetlevelet a 11. mellékletben,
 
 g) a jegyző birtokvédelmi ügyben hozott határozatának megváltoztatása iránti per megindítására szolgáló keresetlevelet a 12. mellékletben
+
+meghatározott nyomtatványon is előterjesztheti.

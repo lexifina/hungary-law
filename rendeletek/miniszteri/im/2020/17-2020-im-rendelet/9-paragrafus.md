@@ -10,6 +10,6 @@ c) okirattal vagy tárgyi bizonyítási eszközzel történő bizonyítás irán
 
 d) egyéb bizonyítás iránti indítványt kíván tenni, azt a 18. mellékletben
 
-## meghatározott pótlap nyomtatványon kell előterjesztenie.
+meghatározott pótlap nyomtatványon kell előterjesztenie.
 
 (2) Ha a fél a közigazgatási perben a közigazgatási perrendtartásról szóló törvény szerint jogi képviselő nélkül jár el, és több tanúbizonyítási, szakértő alkalmazása iránti, okirattal vagy tárgyi bizonyítási eszközzel történő bizonyítás iránti indítványt kíván tenni, illetve okiratot vagy tárgyi bizonyítási eszközt kíván rendelkezésre bocsátani, vagy egyéb bizonyítás iránti indítványt kíván tenni, azt az (1) bekezdésben meghatározottak szerint további, a 15. mellékletben, a 21. mellékletben, a 17. mellékletben vagy a 18. mellékletben meghatározott pótlapon kell előterjesztenie.

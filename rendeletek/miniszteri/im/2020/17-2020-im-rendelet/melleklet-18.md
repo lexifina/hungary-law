@@ -1,12 +1,12 @@
 18. melléklet a 17/2020. (XII. 23.) IM rendelethez
 
-## Egyéb bizonyítás indítványozása iránti pótlap nyomtatvány
+Egyéb bizonyítás indítványozása iránti pótlap nyomtatvány
 
 PÓTLAP
 
-EGYÉB BIZONYÍTÁS INDÍTVÁNYOZÁSA[^708]
+EGYÉB BIZONYÍTÁS INDÍTVÁNYOZÁSA[^720]
 
-1. A pótlap sorszáma:[^709]
+1. A pótlap sorszáma:[^721]
 
 2. Az egyéb bizonyítási indítvány
 
@@ -40,5 +40,5 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________
 
-[^708]: Egyéb bizonyítási indítvány lehet pl. a szemle tartására irányuló indítvány, amikor a perben jelentős tény megállapításához helyszín, tárgy, személy közvetlen megvizsgálása, megtekintése szükséges, továbbá a más bíróságnál, közjegyzőnél, más hatóságnál, közigazgatási szervnél vagy valamely szervezetnél lévő irat, illetve adat beszerzése iránti indítvány. Ha több egyéb bizonyítási indítványt tesz, a további bizonyítási indítványát további pótlapo(ko)n terjesztheti elő.
-[^709]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.
+[^720]: Egyéb bizonyítási indítvány lehet pl. a szemle tartására irányuló indítvány, amikor a perben jelentős tény megállapításához helyszín, tárgy, személy közvetlen megvizsgálása, megtekintése szükséges, továbbá a más bíróságnál, közjegyzőnél, más hatóságnál, közigazgatási szervnél vagy valamely szervezetnél lévő irat, illetve adat beszerzése iránti indítvány. Ha több egyéb bizonyítási indítványt tesz, a további bizonyítási indítványát további pótlapo(ko)n terjesztheti elő.
+[^721]: A csatolt pótlapok számának függvényében az egyes pótlapokat sorszámmal kell ellátni. Itt kell megjelölni az adott pótlap sorszámát.

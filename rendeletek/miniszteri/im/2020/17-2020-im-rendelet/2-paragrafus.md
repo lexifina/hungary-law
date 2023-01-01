@@ -1,1 +1,0 @@
-## meghatározott nyomtatványon is előterjesztheti.
