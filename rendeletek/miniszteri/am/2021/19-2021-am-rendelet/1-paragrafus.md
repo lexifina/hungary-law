@@ -6,7 +6,7 @@
 
 2. fenntartó: a nemzeti köznevelési törvény 4. § 9. pontja szerinti, valamint a szakképzési törvény 25. § (1) és (2) bekezdése szerinti természetes vagy jogi személy;
 
-3. megyei kormányhivatal: a mezőgazdasági és vidékfejlesztési támogatásokkal összefüggő területi kezelésű kérelemkezelési, helyszíni ellenőrzési, megyei ügyfélszolgálati – a mezőgazdasági és vidékfejlesztési szervvel kötött megállapodás alapján átruházott – feladatkörében eljáró megyei kormányhivatal;
+3.[^1] vármegyei kormányhivatal: a mezőgazdasági és vidékfejlesztési támogatásokkal összefüggő területi kezelésű kérelemkezelési, helyszíni ellenőrzési, vármegyei ügyfélszolgálati – a mezőgazdasági és vidékfejlesztési szervvel kötött megállapodás alapján átruházott – feladatkörében eljáró vármegyei kormányhivatal;
 
 4. natúr termék: ízesítés és hozzáadott cukor vagy édesítő nélküli folyadék tej vagy tejtermék;
 
@@ -14,11 +14,11 @@
 
 6. óvodás: a nemzeti köznevelési törvény 7. § (1) bekezdés a) pontja szerinti vagy a szakképzési törvény 18. §-a szerinti intézményben óvodai nevelésben részt vevő gyermek;
 
-7.[^1]
+7.[^2]
 
-8.[^2]
+8.[^3]
 
-9.[^3]
+9.[^4]
 
 10. szállító: az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcsök és zöldségek, a banán és a tej oktatási intézményekben való biztosításához nyújtott uniós támogatás tekintetében történő kiegészítéséről és a 907/2014/EU rendelet módosításáról szóló, 2016. november 3-i 2017/40/EU felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: 2017/40/EU felhatalmazáson alapuló bizottsági rendelet) 5. cikk (2) bekezdés c) pontja szerinti tejfeldolgozással, illetve tejtermeléssel foglalkozó, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 
@@ -34,9 +34,10 @@ d) adott tanév március 1. és április 30. közötti időszaka és
 
 e) adott tanév május 1. és július 31. közötti időszaka;
 
-12.[^4] végső kedvezményezettek: az óvoda- és iskolatej programban részt vevő óvodások, általános iskolai tanulók együttesen.
+12.[^5] végső kedvezményezettek: az óvoda- és iskolatej programban részt vevő óvodások, általános iskolai tanulók együttesen.
 
-[^1]: Az 1. § 7. pontját a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.
-[^2]: Az 1. § 8. pontját a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.
-[^3]: Az 1. § 9. pontját a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.
-[^4]: Az 1. § 12. pontja a 14/2022. (III. 30.) AM rendelet 30. §-ával megállapított szöveg.
+[^1]: Az 1. § 3. pontja a 156/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 7. pontját a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.
+[^3]: Az 1. § 8. pontját a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.
+[^4]: Az 1. § 9. pontját a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.
+[^5]: Az 1. § 12. pontja a 14/2022. (III. 30.) AM rendelet 30. §-ával megállapított szöveg.

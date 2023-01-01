@@ -10,7 +10,7 @@ c) „I/b. zsíros/félzsíros ízesített tej”: a Magyar Élelmiszerkönyv k�
 
 d) „I/b. zsírszegény ízesített tej”: a MÉ 13. melléklet B. rész 1.1.1. pontja szerint ízesített tejkészítmények azzal a feltétellel, hogy az ízesített késztermékben – az 1308/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (5) bekezdésének megfelelően – a tejhányad legalább 90% (m/m) legyen, továbbá azzal a feltétellel, hogy a MÉ 13. számú melléklet B. rész 1.3. pontja szerinti zsírszegény kategóriába esik, és megfelel a 2017/40/EU felhatalmazáson alapuló bizottsági rendelet 10. cikk (2) bekezdésében foglalt feltételnek;
 
-e)[^5] „I/c. natúr joghurt” és „I/c. natúr kefir”: a MÉ 13. melléklet B. rész 2.1.1.3.1. és 2.1.1.3.2. pontjában meghatározott élőflórás savanyú natúr tejkészítmény (natúr joghurt és kefir), amely – az 1308/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (5) bekezdésének megfelelően – 100 tömegszázalékban tartalmaz tejet;
+e)[^6] „I/c. natúr joghurt” és „I/c. natúr kefir”: a MÉ 13. melléklet B. rész 2.1.1.3.1. és 2.1.1.3.2. pontjában meghatározott élőflórás savanyú natúr tejkészítmény (natúr joghurt és kefir), amely – az 1308/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (5) bekezdésének megfelelően – 100 tömegszázalékban tartalmaz tejet;
 
 f) „I/c. gyümölcsleves/ízesített joghurt”: a MÉ 13. melléklet B. rész 2.1.2. pontjában meghatározott élőflórás savanyú tejkészítmény, amely gyümölcslével vagy egyéb ízesítőanyaggal ízesített, és – az 1308/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (5) bekezdésének megfelelően – legalább 90 tömegszázalékban tartalmaz tejet, valamint megfelel a 2017/40/EU felhatalmazáson alapuló bizottsági rendelet 10. cikk (2) bekezdésében foglalt feltételnek;
 
@@ -36,4 +36,6 @@ c) 1 kg kiszállított „I/c. natúr joghurt” és „I/c. natúr kefir”, �
 
 d) 1 kg kiszállított „II. gyümölcsdarabos joghurt”: 0,87 liter
 
-[^5]: A 4. § (1) bekezdés e) pontja a 14/2022. (III. 30.) AM rendelet 42. §-a szerint módosított szöveg.
+tejegyenértéknek felel meg.
+
+[^6]: A 4. § (1) bekezdés e) pontja a 14/2022. (III. 30.) AM rendelet 42. §-a szerint módosított szöveg.

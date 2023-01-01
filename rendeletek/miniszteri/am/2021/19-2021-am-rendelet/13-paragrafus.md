@@ -12,7 +12,7 @@ e) a szállítani tervezett termékek termékkategóriánkénti adatainak kimuta
 
 f) tanév megjelölése,
 
-g) feladatellátási helyenként az átvevő feladatellátási helyének neve, OM azonosítója, az Oktatási Hivatal nyilvántartása szerinti feladatellátási hely azonosítója, pontos címe, megyéje, települése,
+g)[^18] feladatellátási helyenként az átvevő feladatellátási helyének neve, OM azonosítója, az Oktatási Hivatal nyilvántartása szerinti feladatellátási hely azonosítója, pontos címe, vármegyéje, települése,
 
 h) feladatellátási helyenként az ellátni kívánt végső kedvezményezettek száma végső kedvezményezett típusonként,
 
@@ -36,7 +36,7 @@ q) iratmegőrzési hely meghatározása,
 
 r) nyilatkozat arra vonatkozóan, hogy a kérelmező, illetve a fenntartó a szerződés teljesítésétől elállhat, ha a Kincstár a vonatkozó szerződést nem hagyja jóvá.
 
-(2)[^17] Az (1) bekezdés szerinti adatokat tartalmazó szállítási szerződés mintát és azok mellékleteit, valamint a 10. § (6) bekezdése szerinti szállítási szerződés módosítás kötelező tartalmi elemeit magában foglaló mintát és azok mellékleteit a Kincstár a honlapján közleményben teszi közzé.
+(2)[^19] Az (1) bekezdés szerinti adatokat tartalmazó szállítási szerződés mintát és azok mellékleteit, valamint a 10. § (6) bekezdése szerinti szállítási szerződés módosítás kötelező tartalmi elemeit magában foglaló mintát és azok mellékleteit a Kincstár a honlapján közleményben teszi közzé.
 
 (3) A szállítási szerződésben a végső kedvezményezettek számát az ellátni kívánt nevelési-oktatási intézmények alapító okiratában megjelölt keretlétszám figyelembevételével, vagy ha a szerződés megkötésekor a nevelési-oktatási intézménybe beiratkozott végső kedvezményezettek száma a keretlétszámnál kevesebb, a nevelési-oktatási intézménybe a szállítási szerződés megkötését követő tanév első évfolyamára beíratott végső kedvezményezetteknek, valamint a szállítási szerződés megkötésének tanévében az első és az utolsó előtti évfolyamra járó végső kedvezményezetteknek a szállítási szerződés megkötésekor fennálló számának alapulvételével kell meghatározni.
 
@@ -50,4 +50,5 @@ r) nyilatkozat arra vonatkozóan, hogy a kérelmező, illetve a fenntartó a sze
 
 (8) A kérelmező, illetve a fenntartó a szerződés teljesítésétől elállhat, ha a Kincstár a vonatkozó szerződést nem hagyta jóvá.
 
-[^17]: A 13. § (2) bekezdése a 14/2022. (III. 30.) AM rendelet 35. §-ával megállapított szöveg.
+[^18]: A 13. § (1) bekezdés g) pontja a 156/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^19]: A 13. § (2) bekezdése a 14/2022. (III. 30.) AM rendelet 35. §-ával megállapított szöveg.

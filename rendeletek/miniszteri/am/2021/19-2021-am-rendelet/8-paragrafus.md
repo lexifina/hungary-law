@@ -8,7 +8,7 @@ a) a 9. § (1) bekezdése szerinti, a programban történő részvételének el�
 
 b) a 14. § (8) bekezdése szerinti szállítási szerződés jóváhagyása iránti kérelmét – és az aláírt szállítási szerződést szkennelt formában – ügyfélkapus azonosítást követően, a Kincstár által erre a célra rendszeresített elektronikus felületen
 
-## nyújtja be a Kincstárhoz.
+nyújtja be a Kincstárhoz.
 
 (2) Az a kérelmező jogosult az (1) bekezdés szerinti kérelem benyújtására, amely a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) szerinti nyilvántartásba vételi kötelezettségének eleget tett, és a kérelem benyújtásakor az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben kérelemre nyilvántartásba vett ügyfélként szerepel.
 

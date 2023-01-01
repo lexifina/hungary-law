@@ -1,5 +1,3 @@
-## tejegyenértéknek felel meg.
-
 ## 5. Minőségi követelmények, szállítási és tárolási követelmények
 
 5. § (1) A program keretében kizárólag olyan termék osztható ki, amelynek a minőségi, élelmiszer-biztonsági jellemzője, gyártási folyamata, csomagolása, jelölése, szállítási, tárolási és kiosztási körülménye megfelel a hatályos európai uniós és hazai jogszabályi előírásoknak.
@@ -10,7 +8,7 @@ a) pasztőrözött vagy
 
 b) ultramagas hőmérsékleten hőkezelt (UHT)
 
-## lehet.
+lehet.
 
 (3) A szállítást napi rendszerességgel kell végezni. A napi szállítástól eltérni az ellátott nevelési-oktatási intézmény helyi adottságainak, valamint a kiszállított termék tárolási követelményeinek függvényében lehet, amennyiben azt a nevelési-oktatási intézmény infrastrukturális feltételei, valamint a kérelmező logisztikai és disztribúciós lehetősége indokolja.
 
