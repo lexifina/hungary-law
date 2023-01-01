@@ -21,3 +21,5 @@ b) lemond a vitás kérdés rendezéséhez kapcsolódó minden egyéb jogorvosla
 (8) Amennyiben a kölcsönös egyeztető eljárásban az érintett államok illetékes hatóságai nem jutnak megállapodásra a vitás kérdés rendezésének módjáról, akkor e tényről a magyar illetékes hatóság tájékoztatja az érintett személyt, ismertetve a megállapodás meghiúsulásának általános okait.
 
 (9) Ha a vitás kérdés bármilyen okból megszűnik, akkor a kölcsönös egyeztető eljárás alapján folytatott valamennyi eljárást azonnali hatállyal meg kell szüntetni. A magyar illetékes hatóság a megszűnés megállapításáról és annak okáról soron kívül végzéssel tájékoztatja az érintett személyt, amely végzés ellen fellebbezésnek helye nincs. A magyar illetékes hatóság ezzel egyidejűleg az eljárás megszűnéséről tájékoztatja a többi érintett állam illetékes hatóságait is.
+
+(10) Az érintett személy a magyar illetékes hatóság (9) bekezdés szerinti, eljárást megszüntető végzésével szemben bírósághoz fordulhat.

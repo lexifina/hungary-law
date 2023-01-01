@@ -20,6 +20,8 @@
 
 9. vállalatcsoport: tulajdonjog vagy ellenőrzés révén egymással kapcsolatban álló vállalkozások olyan együttese, amely az alkalmazandó számviteli alapelvek szerint a pénzügyi beszámolás céljára összevont (konszolidált) éves beszámolót készít, vagy ilyen kötelezettsége állna fenn, ha a vállalkozások bármelyikében fennálló tulajdoni részesedésekkel nyilvános értékpapírtőzsdén kereskedés folyna.
 
+10. adatvédelmi incidens: az adatbiztonság olyan sérelme, amely jogellenes cselekmény vagy véletlen folytán az információ – ideértve a továbbított, tárolt vagy más módon kezelt személyes adatok – megsemmisülését, elvesztését, megváltoztatását, az azokhoz való helytelen vagy jogosulatlan hozzáférést, valamint azok (indokolatlan vagy) jogosulatlan közlését vagy felhasználását eredményezi. Az adatvédelmi incidens érintheti az adatok bizalmas jellegét, hozzáférhetőségét és sértetlenségét.
+
 (2) E törvény II. és III. Fejezete alkalmazásában:
 
 1. CCN-hálózat: a közös kommunikációs hálózaton (CCN) alapuló, a hatáskörrel rendelkező hatóságok között a vám- és adóügyek területén teljes körű elektronikus információtovábbításhoz az Európai Unió által kifejlesztett közös felület;
@@ -85,6 +87,46 @@ e) a magyar jogszabályok alkalmazásában az a)–d) pont hatálya alá nem tar
 17. ingatlan hasznosításából származó jövedelem: az ingatlan birtoklásának, használatának átengedéséből és hasznainak szedéséből, az ingatlan feletti rendelkezési jog gyakorlásából származó jövedelem (így különösen az ingatlan értékesítéséből, bérbeadásából, haszonbérbe adásából, az ingatlanra vonatkozó vagyoni értékű jog ellenérték fejében történő alapításából, az arról való lemondásból, illetve a joggyakorlás átengedéséből származó jövedelem);
 
 18. központi adattár: az adózás területén való közigazgatási együttműködésről és a 77/799/EGK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU tanácsi irányelv 21. cikk (5) bekezdése alapján és ezen irányelv 26. cikk (2) bekezdése szerinti eljárással összhangban az Európai Bizottság által létrehozott, a határokon átnyúló feltételes adómegállapításra és szokásos piaci ár megállapítására vonatkozó határozatokkal kapcsolatos információk rögzítésére szolgáló központi adatbázis.
+
+(3a) A II/A. fejezet alkalmazásában:
+
+1. Adatszolgáltatási időszak: az 5. melléklet I/C/6. pontja szerinti időszak;
+
+2. Adatszolgáltatásra nem kötelezett platformüzemeltető: az 5. melléklet I/A/3. pontja szerinti Platformüzemeltető;
+
+3. Adatszolgáltatásra kötelezett platformüzemeltető: az 5. melléklet I/A/4. pontja szerinti Platformüzemeltető;
+
+4. Adóazonosító szám: az 5. melléklet I/C/3. pontja szerinti szám;
+
+5. Automatikus információcsere: az Adatszolgáltatásra kötelezett platformüzemeltető által az állami adó- és vámhatóság részére szolgáltatott, az Adatszolgáltatási időszakra vonatkozó információk előzetes megkeresés nélküli, előre meghatározott időszakonként történő rendszeres közlése más tagállam hatáskörrel rendelkező hatóságával;
+
+6. Ellenérték: az 5. melléklet I/A/10. pontja szerinti ellenérték;
+
+7. Elsődleges cím: az 5. melléklet I/C/5. pontja szerinti cím;
+
+8. Érintett tevékenység: az 5. melléklet I/A/8. pontja szerinti tevékenység;
+
+9. Értékesítő: az 5. melléklet I/B/1. pontja szerinti Értékesítő;
+
+10. Hatáskörrel rendelkező hatóságok közötti hatályos elismert megállapodás: az 5. melléklet I/A/7. pontja szerinti megállapodás;
+
+11. HÉA azonosító szám: az 5. melléklet I/C/4. pontja szerinti szám;
+
+12. Jelentendő értékesítő: az 5. melléklet I/B/3. pontja szerinti értékesítő;
+
+13. Központi nyilvántartás: az Európai Bizottság által létrehozott és működtetett központi adatbázis, amely az Adatszolgáltatásra nem kötelezett platformüzemeltetőkre vonatkozó információkat, valamint az 5. melléklet I/A/4. pont b) alpontjában meghatározott Adatszolgáltatásra kötelezett platformüzemeltetők által bejelentett adatokat tartalmazza;
+
+14. Közvetített ingatlan: az 5. melléklet I/C/7. pontja szerinti ingatlan;
+
+15. Nem Jelentendő értékesítő: az 5. melléklet I/B/4. pontja szerinti értékesítő;
+
+16. Pénzforgalmi jelzőszám: az 5. melléklet I/C/8. pontja szerinti jelzőszám;
+
+17. Platform: az 5. melléklet I/A/1. pontja szerinti Platform;
+
+18. Platformüzemeltető: az 5. melléklet I/A/2. pontja szerinti Platformüzemeltető;
+
+19. Szervezet: az 5. melléklet I/C/1. pontja szerinti Szervezet.
 
 (4) E törvény III. Fejezete alkalmazásában
 

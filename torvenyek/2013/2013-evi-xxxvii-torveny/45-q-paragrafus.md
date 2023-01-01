@@ -1,0 +1,1 @@
+45/Q. § Felhatalmazást kap a Kormány, hogy a 12/A. §-ban meghatározott közös ellenőrzés, valamint a 21/A. § (8) bekezdésében meghatározott mentesítési eljárás részletes szabályait rendeletben határozza meg.

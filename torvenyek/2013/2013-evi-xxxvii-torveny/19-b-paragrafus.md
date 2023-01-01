@@ -1,4 +1,4 @@
-19/B. § (1) A magyar hatáskörrel rendelkező hatóság automatikus információcsere keretében a 2017. január 1-je után kiadott, módosított vagy meghosszabbított feltételes adómegállapításra, valamint szokásos piaci ár megállapítására vonatkozó határozatoknak a (4) bekezdésben meghatározott adatait a határozatok kiadása, módosítása vagy meghosszabbítása napjának naptári félévét követő három hónapon belül közli a többi tagállam hatáskörrel rendelkező hatóságával.
+19/B. § (1) A magyar hatáskörrel rendelkező hatóság automatikus információcsere keretében a feltételes adómegállapításra, valamint a szokásos piaci ár megállapítására vonatkozó határozatoknak a (4) bekezdésben meghatározott adatait a határozatok kiadása, módosítása vagy meghosszabbítása napját követően haladéktalanul, de legkésőbb e nap naptári félévét követő három hónapon belül közli a többi tagállam hatáskörrel rendelkező hatóságával.
 
 (2) Az (1) bekezdés feltételes adómegállapítás esetében a következő feltételek együttes fennállása, illetve a szokásos piaci ármegállapítás vonatkozásában az a) és d) pontok együttes fennállása esetében nem alkalmazandó, ha:
 
@@ -20,7 +20,7 @@ b) ha a határozat kizárólag természetes személy adókötelezettségének va
 
 1. az adózó (kérelmező), illetve az adózói csoport (kérelmezői csoport) neve;
 
-2. a határozatnak a kérelemmel érintett gazdasági tevékenység, ügylet vagy ügyletsorozat általános jellegű leírását tartalmazó összefoglalása, amely nem eredményezheti üzleti, ipari, szakmai titok, kereskedelmi folyamat, vagy a magyar jogrendbe ütköző információ felfedését;
+2. a határozatnak a kérelemmel érintett gazdasági tevékenység, ügylet vagy ügyletsorozat leírását tartalmazó összefoglalása, valamint a hatáskörrel rendelkező hatóságot egy potenciális adózási kockázat értékelésében segítő egyéb információk, amelyek nem eredményezhetik üzleti, ipari, szakmai titok, kereskedelmi folyamat, vagy a magyar jogrendbe ütköző információ felfedését;
 
 3. a határozat kiadásának, módosításának vagy meghosszabbításának időpontja;
 

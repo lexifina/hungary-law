@@ -1,0 +1,3 @@
+21/H. § (1) A 21/A. § (1), (3) és (6) bekezdése szerinti bejelentési, változás-bejelentési, a 21/B. § (1)–(2) bekezdése szerinti adatszolgáltatási és bejelentési, valamint a 21/C. § szerinti nyilvántartási kötelezettség elmulasztása, késedelmes, hibás, valótlan tartalmú vagy hiányos teljesítése esetén az állami adó- és vámhatóság a bejelentésre, adatszolgáltatásra, nyilvántartásra kötelezettet 2 millió forintig terjedő mulasztási bírsággal sújthatja.
+
+(2) Az (1) bekezdés alapján nincs helye mulasztási bírság kiszabásának, ha a bejelentésre, változás-bejelentésre, adatszolgáltatásra kötelezett mulasztását, késedelmét, hibás, valótlan tartalmú vagy hiányos teljesítését annak igazolásával menti ki, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható.

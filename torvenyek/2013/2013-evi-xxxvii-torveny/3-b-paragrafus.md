@@ -1,0 +1,3 @@
+3/B. § (1) Az e törvény szerinti adatszolgáltatás és bármely formában történő információcsere során az állami adó- és vámhatóság vagy az adópolitikáért felelős miniszter által közölt, szerzett vagy továbbított információ adótitoknak minősül.
+
+(2) E törvény eltérő rendelkezése hiányában, az állami adó- és vámhatóság a II., a II/A., az V/B., az V/D., valamint az V/F. fejezet szerint közölt, szerzett vagy továbbított információt az 5. § alapján az adómegállapítási jogsegély hatálya alá tartozó adóknak megfelelő magyar adók, továbbá az általános forgalmi adó és más közvetett adók megállapítása és végrehajtása céljából, valamint a 15. § (2) bekezdés b), illetve c) pontjában meghatározott célokra használhatja fel.
