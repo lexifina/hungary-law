@@ -1,3 +1,7 @@
 ## 9. A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény módosítása
 
-27. §
+27. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Kbftv.) 103. § (2) bekezdés helyébe a következő rendelkezés lép, továbbá a 103. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2) A nyílt végű befektetési jegyek nyilvános forgalomba hozatalának feltétele, hogy a befektetési alapkezelő a forgalomba hozatali eljárást megelőzően a Felügyelet által jóváhagyott, a 3. melléklet I. Fejezet szerinti kezelési szabályzatot, az 5. mellékletben foglaltaknak megfelelő tartalommal összeállított tájékoztatót, a 130. § szerinti kiemelt befektetői információt vagy helyette a (2a) bekezdés alapján alkalmazott a lakossági befektetési csomagtermékekkel, illetve biztosítási alapú befektetési termékekkel kapcsolatos kiemelt információkat tartalmazó dokumentumokról szóló, 2014. november 26-i 1286/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1286/2014/EU rendelet) szerinti kiemelt információkat tartalmazó dokumentumot, valamint a 104. § szerinti hirdetményt tegyen közzé. Semmis a befektetési jegy jegyzése, ha – a 105. § (1) bekezdésben foglalt kivétellel – a befektetési jegyet a Felügyelet által jóváhagyott tájékoztató, kezelési szabályzat, kiemelt befektetői információ, kiemelt információkat tartalmazó dokumentum vagy hirdetmény hiányában hozták nyilvánosan forgalomba.
+
+(2a) Nem kell a (2) bekezdés szerinti kiemelt befektetői információt elkészíteni, ha a befektetési alapkezelő az 1286/2014/EU rendelet szerinti kiemelt információkat tartalmazó dokumentumot állít elő.”
