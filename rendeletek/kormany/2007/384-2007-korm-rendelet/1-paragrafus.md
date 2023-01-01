@@ -12,7 +12,7 @@ bb)[^3] a védelmi és biztonsági célú beszerzésekről szóló törvény, va
 
 bc)[^4] a közbeszerzésekről szóló törvény és a védelmi és biztonsági célú beszerzésekről szóló törvény végrehajtására kiadott Korm. rendeletek
 
-## alapján lefolytatott közbeszerzési és beszerzési eljárás;
+alapján lefolytatott közbeszerzési és beszerzési eljárás;
 
 c) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam;
 

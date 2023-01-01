@@ -12,7 +12,7 @@ c) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv es
 
 d)[^20] az idegenrendészeti szerv esetében az idegenrendészeti szerv főigazgatója
 
-## rendszeresítési eljárást kezdeményez.
+rendszeresítési eljárást kezdeményez.
 
 (2)[^21] A rendőrség (1) bekezdés szerinti vezetője a nem rendszeresített kényszerítő eszköz beszerzésének szükségességéről – a beszerzési eljárás megindítását megelőzően – írásban tájékoztatja a minisztert, és értesítést küldhet a rendőrség (1) bekezdés szerinti másik vezetője, valamint a társszervek vezetői részére.
 

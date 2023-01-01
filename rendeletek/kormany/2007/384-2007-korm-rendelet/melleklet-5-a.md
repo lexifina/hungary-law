@@ -10,9 +10,9 @@
 
 ## Egyéb közölnivaló (ha szükséges)
 
-5/A. melléklet a 384/2007. (XII. 23.) Korm. rendelethez[^78]
+5/A. melléklet a 384/2007. (XII. 23.) Korm. rendelethez[^81]
 
-## BELÜGYMINISZTÉRIUM
+BELÜGYMINISZTÉRIUM
 
 ## HATÁROZAT
 
@@ -34,4 +34,4 @@ I. Az alkalmazásba vételi javaslat adatai
 
 II. Az alkalmazásba vétellel kapcsolatos döntés
 
-[^78]: Az 5/A. mellékletet a 118/2017. (V. 29.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^81]: Az 5/A. mellékletet a 118/2017. (V. 29.) Korm. rendelet 8. § (2) bekezdése iktatta be.

@@ -1,6 +1,6 @@
-4. melléklet a 384/2007. (XII. 23.) Korm. rendelethez[^76]
+4. melléklet a 384/2007. (XII. 23.) Korm. rendelethez[^79]
 
-## BELÜGYMINISZTÉRIUM HATÁROZAT rendszeresítésről
+BELÜGYMINISZTÉRIUM HATÁROZAT rendszeresítésről
 
 I. Rendszeresítési javaslat adatai
 
@@ -28,4 +28,4 @@ II. A szakértői bizottságra vonatkozó adatok
 
 III. A rendszeresítéssel kapcsolatos döntés
 
-[^76]: A 4. melléklet a 167/2009. (VIII. 26.) Korm. rendelet 15. § (2) bekezdésével megállapított, a 361/2010. (XII. 30.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^79]: A 4. melléklet a 167/2009. (VIII. 26.) Korm. rendelet 15. § (2) bekezdésével megállapított, a 361/2010. (XII. 30.) Korm. rendelet 17. §-a szerint módosított szöveg.

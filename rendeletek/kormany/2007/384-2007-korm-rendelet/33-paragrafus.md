@@ -1,10 +1,7 @@
-## 32. §[^68]
-
 ## Záró rendelkezések
 
 33. § (1) Ez a rendelet 2008. január 1-jén lép hatályba.
 
-(2)[^69]
+(2)[^72]
 
-[^68]: A 32. §-t a 34. § hatályon kívül helyezte.
-[^69]: A 33. § (2) bekezdését a 167/2009. (VIII. 26.) Korm. rendelet 16. § (2) bekezdése hatályon kívül helyezte.
+[^72]: A 33. § (2) bekezdését a 167/2009. (VIII. 26.) Korm. rendelet 16. § (2) bekezdése hatályon kívül helyezte.
