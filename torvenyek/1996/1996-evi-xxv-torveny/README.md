@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-25-00-00
 | 2015-12-24 | 2015. évi CCXXVI. törvény | 1996-25-00-00.28 |
 | 2016-07-01 | 2015. évi CCXI. törvény | 1996-25-00-00.29 |
 | 2018-01-01 | 2017. évi CXXX. törvény | 1996-25-00-00.30 |
+| 2023-01-01 | 2022. évi XXII. törvény | 1996-25-00-00.31 |

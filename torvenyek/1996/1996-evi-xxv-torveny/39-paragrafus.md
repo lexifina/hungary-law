@@ -56,4 +56,4 @@ Az alapvető lakossági szolgáltatások
 
 26. A megváltozott munkaképességűeket foglalkoztató akkreditált szervezettel érvényben lévő szerződésből eredő kötelezettségek (Flt.)
 
-27. Megyei önkormányzat esetében minden olyan feladat, amelyet törvény kötelező feladatként meghatároz.
+27. Vármegyei önkormányzat esetében minden olyan feladat, amelyet törvény kötelező feladatként meghatároz.
