@@ -16,4 +16,6 @@ d) a jelöltek szakképzésében részt vevő, a szakképzésre akkreditált els
 
 e)[^1] az Országos Kórházi Főigazgatóságra (a továbbiakban: OKFŐ)
 
+terjed ki.
+
 [^1]: Az 1. § e) pontja az 529/2020. (XI. 28.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
