@@ -271,21 +271,3 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 117. Segélyhívás: személyközi hírközlési szolgáltatások segítségével egy végfelhasználó és a segélyszolgálati állomás között a készenléti segélyszolgálatoktól veszélyhelyzeti segítség kérése és igénybevétele céljából folytatott kommunikáció, ideértve az e-segélyhívást is.
 
 118. Sikertelen hívás: minden olyan telefonhívás (beleértve a beszédalapú – akár hagyományos, akár IP-alapú – telefonálást, az üzenetrögzítővel való kapcsolatot, a konferenciahívást és az adathívást) vagy kiegészítő szolgáltatás (beleértve a hívástovábbítást és hívásátirányítást), amelynél a hálózati kapcsolat sikeresen létrejött, de a hívás megválaszolatlan maradt (nem fogadott vagy elutasított hívás), illetve hálózatkezelői beavatkozás miatt a létrejött kapcsolat automatikusan azonnali bontásra került (foglalt, kikapcsolt vagy más okból nem elérhető állomás hívása).
-
-119. SMS: rövid, szöveges üzenetszolgáltatás.
-
-120. Segélyszolgálati állomás (közbiztonsági válaszpont): konkrét helyszín, ahol segélyhívási célú közlések hatóság vagy valamely, a tagállam által elismert magánszervezet felelősségi körébe tartozó első fogadása történik.
-
-121. SIM-kártya: az előfizető mobil rádiótelefon-hálózaton belüli azonosítását szolgáló adatokat, illetve a mobil rádiótelefon-szolgáltatás igénybevételéhez szükséges információkat tartalmazó kártya vagy beépített modul. A beépített modul tartalma távolról beállítható és módosítható is lehet (eSIM).
-
-122. Számfüggő személyközi hírközlési szolgáltatás: olyan személyközi hírközlési szolgáltatás, amelynél a kapcsolat kiosztott számozási erőforrások, nemzeti vagy nemzetközi számozási tervben szereplő hívószám vagy hívószámok igénybevételével valósul meg, vagy amely kommunikációt tesz lehetővé nemzeti, illetve nemzetközi számozási tervben szereplő hívószámra vagy hívószámokra.
-
-123. Számfüggetlen személyközi hírközlési szolgáltatás: olyan személyközi hírközlési szolgáltatás, amelynél a kapcsolat nem kiosztott számozási erőforrások, nem a nemzeti vagy nemzetközi számozási tervben szereplő hívószám vagy hívószámok igénybevételével valósul meg és amely nem tesz lehetővé kommunikációt nemzeti, illetve nemzetközi számozási tervben szereplő hívószámra vagy hívószámokra.
-
-124. Személyközi hírközlési szolgáltatás: olyan, más részére általában díjazás ellenében elektronikus hírközlő hálózatokon nyújtott szolgáltatás, amely véges számú személy közötti közvetlen, interaktív információcserét tesz lehetővé, és amelyben a kommunikációt kezdeményező vagy az abban részt vevő személyek határozzák meg az információcserében résztvevő fogadót, illetve fogadókat. Nem minősülnek személyközi hírközlési szolgáltatásnak azok a szolgáltatások, amelyek a személyközi, interaktív kommunikációt egy másik szolgáltatáshoz szorosan kapcsolódó, csekély jelentőségű, csupán kiegészítő funkcióként teszik lehetővé.
-
-125. Transznacionális piac: az Európai Unióra vagy annak jelentős részére kiterjedő, a Kódex 65. cikke szerinti eljárásban meghatározott, egynél több tagállamban elhelyezkedő piac.
-
-126. Tartós adathordozó: a technológia adott fejlettségi szintjén elérhető olyan eszköz, illetve platform, amely lehetővé teszi az adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését. Ilyen eszköz különösen a papír, az USB-kulcs, a CD-ROM, a DVD-ROM, a memóriakártya, a számítógép merevlemeze, az elektronikus levél, illetve az elektronikus tárhely.
-
-127. Titkos információgyűjtés, illetve leplezett eszközök alkalmazása: az elektronikus hírközlő hálózaton és elektronikus hírközlő eszközökkel az elektronikus hírközlési tevékenység során, illetve azzal összefüggésben keletkezett, továbbított információk, adatok kiválasztása, kicsatolása, technikai eszközzel történő rögzítése és megismerése az arra jogosult szervek által.

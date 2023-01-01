@@ -4,4 +4,6 @@
 
 (3) A Hatóság jogelődje nyilvántartásait átvezeti és a nyilvántartások hiányainak pótlása iránt intézkedik.
 
-(4)–(5)
+(4)
+
+(5)

@@ -8,13 +8,23 @@ b) biztosítja, hogy a polgárok megfelelő tájékoztatást kapjanak a „112�
 
 c) a feladat- és hatáskörét érintő szakági területen széles társadalmi, iparági érdeket megjelenítő, vagy tudományos tevékenységet végző szervezetekkel kialakítandó közvetlen együttműködésre irányuló partnerségi, együttműködési megállapodásokkal gondoskodik az infokommunikációs stratégiai célkitűzések érvényre jutásáról;
 
-d)–f)
+d)
 
-g)–h)
+e)
+
+f)
+
+g)
+
+h)
 
 i)
 
-j)–l)
+j)
+
+k)
+
+l)
 
 m)
 
