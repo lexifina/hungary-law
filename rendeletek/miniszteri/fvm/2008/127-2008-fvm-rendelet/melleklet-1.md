@@ -1,6 +1,6 @@
 1. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez
 
-## A víziállat-tenyésztő vállalkozások és az engedéllyel rendelkező feldolgozólétesítmények hatósági nyilvántartásában megkövetelt információk
+A víziállat-tenyésztő vállalkozások és az engedéllyel rendelkező feldolgozólétesítmények hatósági nyilvántartásában megkövetelt információk
 
 I. RÉSZ
 

@@ -14,7 +14,7 @@ c) halászati témában dr. univ, PhD vagy kandidátusi fokozatot szerzett, vagy
 
 d)[^29] felsőfokú állattenyésztő szakon szerzett, felsőfokú halászati szakirányú képzést igazoló végzettséggel vagy agrármérnök képesítéssel, és tízéves halászati munkakörben eltöltött igazolt szakmai gyakorlattal rendelkezik,
 
-## és a NÉBIH által szervezett képesítő víziállat-egészségügyi tanfolyam elvégezését követően eredményes vizsgát tett.
+és a NÉBIH által szervezett képesítő víziállat-egészségügyi tanfolyam elvégezését követően eredményes vizsgát tett.
 
 (3)[^30] Az (1) bekezdés szerinti kockázatalapú állat-egészségügyi felügyeleti rendszer az alábbiak kimutatására irányul:
 

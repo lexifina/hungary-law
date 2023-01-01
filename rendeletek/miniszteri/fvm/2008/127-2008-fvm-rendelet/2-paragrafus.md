@@ -30,6 +30,8 @@ d) a 2006/88/EK tanácsi irányelvnek a felügyeleti és felszámolási programo
 
 e)[^3] a 2010/221/EU bizottsági határozattal
 
+együttesen kell alkalmazni.
+
 [^1]: A 2. § (5) bekezdése a 106/2009. (VIII. 14.) FVM rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § (5) bekezdés a) pontját a 32/2014. (XII. 9.) FM rendelet 10. § a) pontja hatályon kívül helyezte.
 [^3]: A 2. § (5) bekezdés e) pontját a 32/2014. (XII. 9.) FM rendelet 8. § (1) bekezdése iktatta be.

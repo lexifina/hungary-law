@@ -20,7 +20,7 @@
 
 9. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez[^162]
 
-## Állattartói nyilatkozat halak előkészítés nélkül, emberi fogyasztás céljából és emberi fogyasztást megelőző, előkészítés céljából történő belföldi forgalomba hozatalához (Élelmiszerláncra vonatkozó információ)
+Állattartói nyilatkozat halak előkészítés nélkül, emberi fogyasztás céljából és emberi fogyasztást megelőző, előkészítés céljából történő belföldi forgalomba hozatalához (Élelmiszerláncra vonatkozó információ)
 
 Sorszám:
 
@@ -78,7 +78,7 @@ h) Az állatoknak adott, 0 napnál nagyobb élelmezés-egészségügyi várakoz�
 
 | … |  |  |  |
 
-Az állatgyógyászati termékekről szóló 128/2009. (X. 6.) FVM rendelet 11. § (5) bekezdése szerint amennyiben a felhasznált gyógyszeren nincs feltüntetve a kezelendő állatfajra vonatkozó élelmezés-egészségügyi várakozási idő, az állatorvos által előírt élelmezés-egészségügyi várakozási idő nem lehet kevesebb, mint halhús esetében 500 napfok.
+## Az állatgyógyászati termékekről szóló 128/2009. (X. 6.) FVM rendelet 11. § (5) bekezdése szerint amennyiben a felhasznált gyógyszeren nincs feltüntetve a kezelendő állatfajra vonatkozó élelmezés-egészségügyi várakozási idő, az állatorvos által előírt élelmezés-egészségügyi várakozási idő nem lehet kevesebb, mint halhús esetében 500 napfok.
 
 i) A hús biztonságát érintő betegségek előfordulása (pl. előfordult-e az állományban szállítás előtti időszakban megbetegedés)
 

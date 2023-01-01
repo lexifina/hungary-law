@@ -1,5 +1,3 @@
-## Jegyzékbe foglalt betegségek
-
 | EGZOTIKUS BETEGSÉGEK |
 
 |  | BETEGSÉG | FOGÉKONY FAJOK |

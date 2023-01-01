@@ -18,13 +18,13 @@
 
 ## 1.2. Az 1.1. pont a) alpontjában említett biológiai biztonsági intézkedések legalább a következőket tartalmazzák:
 
-## a)[^142] a betegség bejelentése a hatósági állatorvos, a járási hivatal vagy a megyei kormányhivatal felé kötelező, beleértve a gyanú bejelentését is,
+## a)[^142] a betegség bejelentése a hatósági állatorvos, a járási hivatal vagy a vármegyei kormányhivatal felé kötelező, beleértve a gyanú bejelentését is,
 
 ## b)[^143] a NÉBIH-ben a betegséggel kapcsolatos hatékony vizsgálat elvégzését, annak jelentését és különösen az alábbiakat lehetővé tévő, a betegség korai kimutatására vonatkozó országos rendszer működik:
 
 ## 1. egy betegség, új betegség, vagy megnövekedett mértékű pusztulás gyanújára utaló klinikai tünetek gyors felismerése a gazdaságokban vagy puhatestű-tenyésztési területeken és a vadon élő állatok között,
 
-## 2.[^144] az esemény gyors közlése a hatósági állatorvos, a járási hivatal vagy megyei kormányhivatal felé abból a célból, hogy a diagnosztikai vizsgálat minimális késedelemmel megkezdődjön.
+## 2.[^144] az esemény gyors közlése a hatósági állatorvos, a járási hivatal vagy vármegyei kormányhivatal felé abból a célból, hogy a diagnosztikai vizsgálat minimális késedelemmel megkezdődjön.
 
 ## 1.3. Az 1.2. pont b) alpontjában említett, a betegség korai kimutatására vonatkozó rendszernek legalább a következőket kell tartalmaznia:
 
@@ -80,7 +80,7 @@
 
 ## 2.3. Az az övezet, ahol az utolsó ismert klinikai előfordulást a betegségtől mentes státus alkalmazási időpontját megelőző 10 éven belül észlelték, vagy ahol a célzott felügyeletet megelőző fertőzöttségi állapot – például a betegség klinikai kifejeződéséhez vezető feltételek hiánya miatt – nem ismert, betegségtől mentesnek nyilvánítható, ha az I. rész 2. pontjában található követelményeknek értelemszerűen megfelel.
 
-## 2.4.[^149] Amennyiben az a betegségek behurcolásának megelőzése érdekében szükséges, az egy területi egységen belül elhelyezkedő valamennyi gazdaságot vagy puhatestű-tenyésztési területet a megyei kormányhivatal által bevezetett további intézkedéseknek kell alávetni. Ezen intézkedések magukban foglalhatják a területi egység körül egy megfigyelési program végrehajtására szolgáló pufferzóna létrehozását, valamint a lehetséges kórokozó-hordozók vagy kórokozó-átvivők behatolása elleni további védekezés kialakítását.
+## 2.4.[^149] Amennyiben az a betegségek behurcolásának megelőzése érdekében szükséges, az egy területi egységen belül elhelyezkedő valamennyi gazdaságot vagy puhatestű-tenyésztési területet a vármegyei kormányhivatal által bevezetett további intézkedéseknek kell alávetni. Ezen intézkedések magukban foglalhatják a területi egység körül egy megfigyelési program végrehajtására szolgáló pufferzóna létrehozását, valamint a lehetséges kórokozó-hordozók vagy kórokozó-átvivők behatolása elleni további védekezés kialakítását.
 
 ## 3. Egy vagy több olyan önálló gazdaságból álló területi egység, ahol az egészségi állapota az adott betegséggel kapcsolatban független a környező természetes vizek egészségi állapotától
 
@@ -102,7 +102,7 @@
 
 ## 3.5. A területi egységnek értelemszerűen meg kell felelnie az I. rész 2. pontjában megállapított követelményeknek.
 
-## 3.6.[^150] Amennyiben az a betegségek behurcolásának megelőzése érdekében szükséges, a területi egységet a megyei kormányhivatal által meghatározott további intézkedéseknek kell alávetni. Az ilyen intézkedések magukban foglalhatják a lehetséges kórokozó-hordozók vagy kórokozó-átvivők behatolása elleni további védekezés kialakítását.
+## 3.6.[^150] Amennyiben az a betegségek behurcolásának megelőzése érdekében szükséges, a területi egységet a vármegyei kormányhivatal által meghatározott további intézkedéseknek kell alávetni. Az ilyen intézkedések magukban foglalhatják a lehetséges kórokozó-hordozók vagy kórokozó-átvivők behatolása elleni további védekezés kialakítását.
 
 ## 3.7.[^151] A 3.2. pont a) alpontjára vonatkozó végrehajtási szabályok a 182/2011/EU rendelet 5. és 11. cikkében meghatározott eljárással összhangban kerülnek megállapításra.
 
@@ -112,7 +112,7 @@
 
 ## 4.2. Az a gazdaság, amely tevékenységének megszakítását követően betegségtől mentes minősítésű területi egységből származó tenyésztett víziállatokkal kezdi újra tevékenységét, és amely megfelel az e rész 3.1. pontja a) alpontjában és 3.2–3.6. pontjában szereplő követelményeknek, a jóváhagyáshoz szükséges mintavétel elvégzése nélkül betegségtől mentes minősítést kaphat, feltéve hogy:
 
-## a)[^152] a gazdaság működésének utolsó négy évére vonatkozó egészségügyi háttere a megyei kormányhivatal számára ismeretes; ha azonban az érintett gazdaság négy évnél kevesebb ideje működik, a működése tényleges időtartamát kell figyelembe venni,
+## a)[^152] a gazdaság működésének utolsó négy évére vonatkozó egészségügyi háttere a vármegyei kormányhivatal számára ismeretes; ha azonban az érintett gazdaság négy évnél kevesebb ideje működik, a működése tényleges időtartamát kell figyelembe venni,
 
 ## b) a gazdaságban a 3. számú mellékletben felsorolt betegségek tekintetében állat-egészségügyi intézkedéseket nem hajtottak végre, és a gazdaságban e betegségeknek nincsenek előzményei,
 
@@ -120,14 +120,14 @@
 
 5. számú melléklet a 127/2008. (IX. 29.) FVM rendelethez
 
-[^142]: A 4. számú melléklet I. rész 1.2. pont a) alpontja a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 34. § 2. és 9. pontja szerint módosított szöveg.
+[^142]: A 4. számú melléklet I. rész 1.2. pont a) alpontja a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 34. § 2. és 9. pontja, a 111/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^143]: A 4. számú melléklet I. rész 1.2. pont b) alpontja az 51/2013. (VI. 17.) VM rendelet 17. § c) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § c) pontjával elrendelt módosítás, amely szerint a „az MgSzH-ban” szövegrész helyébe az „a NÉBIH-ben” szöveg lép, nem vezethető át.]
-[^144]: A 4. számú melléklet I. Rész 1. pont 1.2. pont b) alpont 2. alpontja a 8/2016. (II. 11.) FM rendelet 5. §-ával megállapított szöveg.
+[^144]: A 4. számú melléklet I. Rész 1. pont 1.2. pont b) alpont 2. alpontja a 8/2016. (II. 11.) FM rendelet 5. §-ával megállapított, a 111/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^145]: A 4. számú melléklet I. rész 1.3. pont c) alpontja az 51/2013. (VI. 17.) VM rendelet 17. § d) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § d) pontjával elrendelt módosítás, amely szerint a „az MgSzH” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]
 [^146]: [A 46/2015. (VIII. 7.) FM rendelet 34. § 2. pontjával elrendelt módosítás, amely szerint a 4. számú melléklet I. Rész 1. fejezet 2. pontjában az „az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szövegrész helyébe az „a megyei kormányhivatal” szöveg lép, valamint a 34. § 9. pontjával elrendelt módosítás, amely szerint a 4. számú melléklet I. Rész 1. pont 2. pontjában az „a járási főállatorvos” szövegrész helyébe az „a járási hivatal” szöveg lép, nem vezethető át.]
 [^147]: A 4. számú melléklet I. rész 2. pont első bekezdés b) pontja a 32/2014. (XII. 9.) FM rendelet 9. § a) pontja szerint módosított szöveg.
 [^148]: A 4. számú melléklet II. rész 1.5. pontja az 51/2013. (VI. 17.) VM rendelet 17. § k) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § j) pontjával elrendelt módosítás, amely szerint az „az MgSzH Központnak” szövegrész helyébe az „a NÉBIH-nek” szöveg lép, nem vezethető át.]
-[^149]: A 4. számú melléklet II. rész 2.4. pontja a 46/2015. (VIII. 7.) FM rendelet 34. § 2. pontja szerint módosított szöveg.
-[^150]: A 4. számú melléklet II. rész 3.6. pontja a 46/2015. (VIII. 7.) FM rendelet 34. § 2. pontja szerint módosított szöveg.
+[^149]: A 4. számú melléklet II. rész 2.4. pontja a 46/2015. (VIII. 7.) FM rendelet 34. § 2. pontja, a 111/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^150]: A 4. számú melléklet II. rész 3.6. pontja a 46/2015. (VIII. 7.) FM rendelet 34. § 2. pontja, a 111/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^151]: A 4. számú melléklet II. rész 3. pont 3.7.alpontja a 32/2014. (XII. 9.) FM rendelet 9. § a) pontja szerint módosított szöveg.
-[^152]: A 4. számú melléklet II. rész 4.2. pont a) alpontja a 46/2015. (VIII. 7.) FM rendelet 34. § 2. pontja szerint módosított szöveg.
+[^152]: A 4. számú melléklet II. rész 4.2. pont a) alpontja a 46/2015. (VIII. 7.) FM rendelet 34. § 2. pontja, a 111/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

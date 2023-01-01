@@ -1,5 +1,3 @@
-## a puhatestű-tenyésztési terület esetében is alkalmazni kell.
-
 ## XI. Fejezet
 
 ## ÁTMENETI ÉS ZÁRÓ RENDELKEZÉSEK

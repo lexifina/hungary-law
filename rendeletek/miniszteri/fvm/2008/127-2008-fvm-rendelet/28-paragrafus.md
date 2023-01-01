@@ -14,12 +14,12 @@ b) a gazdaságban megjelent betegség lehetséges eredete, annak megállapítás
 
 c) azon víziállatok ikrái, ivadékai, járművek, anyagok, személyek, amelyek/akik valószínűleg be- vagy kihurcolták a fertőzést az érintett gazdaságokba vagy gazdaságokból.
 
-(3)[^72] Amennyiben az (1) bekezdésben előírt járványügyi vizsgálat kimutatja, hogy a betegséget behurcolhatták egy vagy több gazdaságba vagy nem zárt vizek területére, a megyei kormányhivatal a 27. §-ban előírt intézkedéseket alkalmazza e gazdaságokra vagy nem zárt vizekre.
+(3)[^72] Amennyiben az (1) bekezdésben előírt járványügyi vizsgálat kimutatja, hogy a betegséget behurcolhatták egy vagy több gazdaságba vagy nem zárt vizek területére, a vármegyei kormányhivatal a 27. §-ban előírt intézkedéseket alkalmazza e gazdaságokra vagy nem zárt vizekre.
 
-(4)[^73] Nagyobb vízgyűjtő medencék esetében a megyei kormányhivatal határozhat úgy, hogy a 27. § alkalmazását a fertőzésre gyanús gazdaságot körülvevő kisebb területre korlátozza, amennyiben úgy véli, hogy ez a kisebb terület elég nagy annak biztosításához, hogy a betegség ne terjedjen el.
+(4)[^73] Nagyobb vízgyűjtő medencék esetében a vármegyei kormányhivatal határozhat úgy, hogy a 27. § alkalmazását a fertőzésre gyanús gazdaságot körülvevő kisebb területre korlátozza, amennyiben úgy véli, hogy ez a kisebb terület elég nagy annak biztosításához, hogy a betegség ne terjedjen el.
 
 (5) Amennyiben szükséges, az országos főállatorvos tájékoztatja a szomszédos tagállamok vagy harmadik országok illetékes hatóságait a betegség gyanújáról.
 
 [^71]: A 28. § (1) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 34. § 10. pontja szerint módosított szöveg.
-[^72]: A 28. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 34. § 2. pontja szerint módosított szöveg.
-[^73]: A 28. § (4) bekezdése a 46/2015. (VIII. 7.) FM rendelet 34. § 2. pontja szerint módosított szöveg.
+[^72]: A 28. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 34. § 2. pontja, a 111/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^73]: A 28. § (4) bekezdése a 46/2015. (VIII. 7.) FM rendelet 34. § 2. pontja, a 111/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

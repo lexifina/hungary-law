@@ -1,5 +1,3 @@
-## együttesen kell alkalmazni.
-
 ## Fogalommeghatározások
 
 3. § (1) E rendelet alkalmazásában:
@@ -97,6 +95,8 @@ d) a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az �
 e)[^11] a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény,
 
 f)[^12] az állati eredetű élelmiszerek forgalomba hozatalának és az értékesítés helyén történő élelmiszer-előállításnak élelmiszer-higiéniai feltételeiről szóló 64/2007. (VII. 23.) FVM–EüM együttes rendelet
+
+szerinti fogalommeghatározásokat is alkalmazni kell.
 
 [^4]: A 3. § (1) bekezdés 3. pontja a 46/2015. (VIII. 7.) FM rendelet 27. § (1) bekezdésével megállapított szöveg.
 [^5]: A 3. § (1) bekezdés 7. pontja a 32/2014. (XII. 9.) FM rendelet 8. § (3) bekezdésével megállapított szöveg.

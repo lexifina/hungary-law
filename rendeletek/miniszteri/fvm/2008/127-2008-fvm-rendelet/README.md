@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-127-20-
 | 2015-08-15 | 2008-127-20-82.7 | 46/2015. (VIII. 7.) FM rendelet |
 | 2016-02-19 | 2008-127-20-82.8 | 106/2009. (VIII. 14.) FVM rendelet |
 | 2021-09-03 | 2008-127-20-82.9 | 29/2021. (VIII. 31.) AM rendelet |
+| 2023-01-01 | 2008-127-20-82.10 | 46/2015. (VIII. 7.) FM rendelet |

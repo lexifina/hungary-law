@@ -12,6 +12,6 @@ b) a tenyésztett víziállatok betegségei tekintetében az élelmiszerlánc-fe
 
 c) a víziállatok egyes betegségeinek gyanúja vagy kitörése esetén alkalmazandó védelmi minimumintézkedéseket
 
-## állapítja meg.
+állapítja meg.
 
 (2) Az e rendeletben foglalt hatósági feladatokat az állat- egészségügyi és élelmiszer-ellenőrző szolgálat látja el.

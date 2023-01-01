@@ -2,7 +2,7 @@
 
 ## és a kezdeti védelmi intézkedések
 
-27. § (1)[^62] Amennyiben a megyei kormányhivatal a 3. számú mellékletben felsorolt egzotikus vagy nem egzotikus betegség gyanúját állapítja meg az országban, övezetben vagy területi egységben, és az a 2. számú melléklet A. részében említett, I. vagy III. kategóriájú egészségügyi státusszal rendelkezik, az adott betegség tekintetében:
+27. § (1)[^62] Amennyiben a vármegyei kormányhivatal a 3. számú mellékletben felsorolt egzotikus vagy nem egzotikus betegség gyanúját állapítja meg az országban, övezetben vagy területi egységben, és az a 2. számú melléklet A. részében említett, I. vagy III. kategóriájú egészségügyi státusszal rendelkezik, az adott betegség tekintetében:
 
 a)[^63] az ország, az övezet vagy a területi egység mentességét felfüggeszti, és a járási hivatal által elvégzendő járványügyi vizsgálatot rendel el,
 
@@ -22,7 +22,7 @@ c) a b) pontban előírt vizsgálat eredményének megérkezéséig:
 
 (4)[^70] A járványvédelmi intézkedéseket az adott betegségre fogékony vagy kórokozó-átvivő fajhoz tartozótól eltérő víziállatok esetében csak a 35. § (3) bekezdésében foglaltak szerint kell alkalmazni.
 
-[^62]: A 27. § (1) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 34. § 2. pontja szerint módosított szöveg.
+[^62]: A 27. § (1) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 34. § 2. pontja, a 111/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^63]: A 27. § (1) bekezdés a) pontja a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 34. § 9. pontja szerint módosított szöveg.
 [^64]: A 27. § (1) bekezdés b) pontja a 106/2009. (VIII. 14.) FVM rendelet 15. § (3) bekezdése, a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 34. § 9. pontja szerint módosított szöveg.
 [^65]: A 27. § (1) bekezdés c) pont 1. alpontja a 151/2012. (XII. 29.) VM rendelet 29. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 34. § 9. pontja szerint módosított szöveg.

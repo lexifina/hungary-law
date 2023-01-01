@@ -1,6 +1,6 @@
 ## Védelmi minimumintézkedések nem egzotikus betegségeknek a tenyésztett víziállatokban való jelenlétének megerősítése esetén
 
-39. § (1)[^95] Amennyiben az ország, egy övezet vagy területi egység a 3. számú mellékletben felsorolt nem egzotikus betegségtől mentesnek minősül, és a betegséget a megyei kormányhivatal a 27. § (1) bekezdésének b) pontjában meghatározott NRL vizsgálat eredménye alapján megállapította az országban, egy övezetben vagy területi egységben, az országos főállatorvos döntése alapján
+39. § (1)[^95] Amennyiben az ország, egy övezet vagy területi egység a 3. számú mellékletben felsorolt nem egzotikus betegségtől mentesnek minősül, és a betegséget a vármegyei kormányhivatal a 27. § (1) bekezdésének b) pontjában meghatározott NRL vizsgálat eredménye alapján megállapította az országban, egy övezetben vagy területi egységben, az országos főállatorvos döntése alapján
 
 a) a betegségtől mentes státus visszanyerése érdekében a 31–38. § szerinti intézkedéseket kell alkalmazni, vagy
 
@@ -22,7 +22,7 @@ b) a betegséggel fertőzött más övezetbe vagy területi egységbe történő
 
 (4) Amennyiben az országos főállatorvos úgy dönt, hogy nem szükséges intézkedni a betegségtől mentes státus visszanyerése érdekében, a 40. §-t kell alkalmazni.
 
-[^95]: A 39. § (1) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 34. § 2. pontja szerint módosított szöveg.
+[^95]: A 39. § (1) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 34. § 2. pontja, a 111/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^96]: A 39. § (1) bekezdés b) pontja az 51/2013. (VI. 17.) VM rendelet 17. § h) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 99. § g) pontjával elrendelt módosítás, amely szerint az „az MgSzH Központ” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]
 [^97]: A 39. § (1a) bekezdését a 32/2014. (XII. 9.) FM rendelet 8. § (26) bekezdése iktatta be.
 [^98]: A 39. § (2) bekezdése a 32/2014. (XII. 9.) FM rendelet 8. (26) bekezdésével megállapított, a 46/2015. (VIII. 7.) FM rendelet 34. § 9. pontja szerint módosított szöveg.
