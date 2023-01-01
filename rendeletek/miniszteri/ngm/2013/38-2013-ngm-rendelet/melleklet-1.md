@@ -1796,11 +1796,11 @@ IX. FEJEZET
 
 | b) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások fedezetének jóváírása | T3312 | – | K3657 |
 
-| c) Közteher és egyéb fizetési kötelezettség (munkáltatót terhelő, munkavállalótól levont adó és járulékok stb.) teljesítése | T3672 | – | K3312 |
+| c) Közteher és egyéb fizetési kötelezettség (különösen munkáltatót terhelő, munkavállalótól levont adó és járulékok) teljesítése | T3672 | – | K3312 |
 
-| d) A nettósítás során a helyi önkormányzatokat megillető támogatásból levont forgótőke visszapótlás kiutalása a megyei igazgatóságok forgótőke elszámolási számláira | T3672 | – | K3312 |
+| d) A nettósítás során a helyi önkormányzatokat megillető támogatásból levont forgótőke visszapótlás kiutalása a vármegyei igazgatóságok forgótőke elszámolási számláira | T3672 | – | K3312 |
 
-| e) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások részének kiutalása a megyei igazgatóságok forgótőke elszámolási számláira | T3657 | – | K3312 |
+| e) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások részének kiutalása a vármegyei igazgatóságok forgótőke elszámolási számláira | T3657 | – | K3312 |
 
 | f) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások részének kiutalása a helyi önkormányzatok fizetési számláira | T3657 | – | K3312 |
 
@@ -1808,25 +1808,25 @@ IX. FEJEZET
 
 | 2. Kapcsolódó tétel: Amennyiben az önkormányzatok közteher és egyéb fizetési kötelezettség (munkáltatót terhelő, munkavállalótól levont adó és járulékok stb.) teljesítéséhez megelőlegezés szükséges, annak elszámolása a VII. fejezet C) Államháztartáson belüli megelőlegezések elszámolása cím szerint történik. |
 
-| 3. Nettó finanszírozás elszámolása a Kincstárnál pénzügyi számvitel szerint |
+| 3. Nettó finanszírozás elszámolása a Kincstárnál a pénzügyi számvitel szerint |
 
-| a) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások forgótőke elszámolási számláin történő jóváírásának elszámolása (megyei igazgatóság által teljesített rész) | T3312 | – | K3657 |
+| a) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások forgótőke elszámolási számláin történő jóváírásának elszámolása (vármegyei igazgatóság által teljesített rész) | T3312 | – | K3657 |
 
-| b) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások kifizetésének elszámolása a jogosult felé (megyei igazgatóság által teljesített rész) | T3657 | – | K3312 |
+| b) Megelőlegezett, kifizetőt terhelő társadalombiztosítási és családtámogatási ellátások kifizetésének elszámolása a jogosult felé (vármegyei igazgatóság által teljesített rész) | T3657 | – | K3312 |
 
 ## D) Nettó finanszírozáshoz kapcsolódó forgótőke elszámolása
 
-| 1. A megyei igazgatóságok nettó finanszírozáshoz kapcsolódó forgótőke elszámolása a Kincstárnál a pénzügyi számvitel szerint |
+| 1. A vármegyei igazgatóságok nettó finanszírozáshoz kapcsolódó forgótőke elszámolása a Kincstárnál a pénzügyi számvitel szerint |
 
 | a) Forgótőke feltöltési kötelezettség jóváírása | T3312 | – | K3674 |
 
-| b) A havi nettósítás során a helyi önkormányzatokat megillető támogatásból levont forgótőke visszapótlás átutalása a megyei igazgatóságok forgótőke elszámolási számláira | T3312 | – | K3674 |
+| b) A havi nettósítás során a helyi önkormányzatokat megillető támogatásból levont forgótőke visszapótlás átutalása a vármegyei igazgatóságok forgótőke elszámolási számláira | T3312 | – | K3674 |
 
-| c) A helyi önkormányzat, helyi önkormányzat irányítása alá tartozó költségvetési szerv által a megyei igazgatóságok forgótőke elszámolási számláira beutalt (havi vagy negyedéves) forgótőke összegének jóváírása | T3312 | – | K3674 |
+| c) A helyi önkormányzat, helyi önkormányzat irányítása alá tartozó költségvetési szerv által a vármegyei igazgatóságok forgótőke elszámolási számláira beutalt (havi vagy negyedéves) forgótőke összegének jóváírása | T3312 | – | K3674 |
 
 | d) Visszajáró forgótőke helyi önkormányzat, helyi önkormányzat irányítása alá tartozó költségvetési szerv részére történő átutalásának elszámolása | T3674 | – | K3312 |
 
-| e) A forgótőke havi felhasználásának (munkabér, levonások, letiltások stb. elutalása jogosult részére) elszámolása | T3674 | – | K3312 |
+| e) A forgótőke havi felhasználásának (különösen munkabér, levonások, letiltások elutalása a jogosult részére) elszámolása | T3674 | – | K3312 |
 
 | f) Év végén a forgótőke összegének visszautalása a helyi önkormányzat, helyi önkormányzat irányítása alá tartozó költségvetési szerv részére | T3674 | – | K3312 |
 
@@ -3102,4 +3102,4 @@ G) Központi kezelésű előirányzat, fejezeti kezelésű előirányzat esetén
 
 | 3. Kapcsolódó tételek: a fejezeti kezelésű előirányzat, központi kezelésű előirányzat korrigált záró pénzkészletének elszámolása az e fejezet C) cím 20–22. pontja szerint [megjegyzés: az új fejezetet irányító szervnek a fentiek szerint nyilvántartásba vett adatokról adatot kell szolgáltatni az időközi mérlegjelentés C) űrlapján] |
 
-[^2]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a, a 43/2017. (XII. 20.) NGM rendelet 1. § 1–2. pontja és 2. §-a, a 11/2018. (XI. 5.) PM rendelet 1. §-a, a 16/2019. (XII. 7.) PM rendelet 2. § 1–2. pontja, a 14/2020. (XII. 28.) PM rendelet 1. §-a, a 9/2021. (VIII. 5.) PM rendelet 1. §-a, a 9/2022. (XII. 9.) PM rendelet 1. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a, a 43/2017. (XII. 20.) NGM rendelet 1. § 1–2. pontja és 2. §-a, a 11/2018. (XI. 5.) PM rendelet 1. §-a, a 16/2019. (XII. 7.) PM rendelet 2. § 1–2. pontja, a 14/2020. (XII. 28.) PM rendelet 1. §-a, a 9/2021. (VIII. 5.) PM rendelet 1. §-a, a 9/2022. (XII. 9.) PM rendelet 1. § 1-2. pontja szerint módosított szöveg.

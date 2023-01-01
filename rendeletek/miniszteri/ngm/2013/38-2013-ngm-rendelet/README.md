@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-38-20-2
 | 2021-01-01 | 2013-38-20-2X.13 | 37/2014. (XII. 10.) NGM rendelet |
 | 2022-01-01 | 2013-38-20-2X.14 | 37/2014. (XII. 10.) NGM rendelet |
 | 2022-12-10 | 2013-38-20-2X.15 | 37/2014. (XII. 10.) NGM rendelet |
+| 2023-01-01 | 2013-38-20-2X.16 | 37/2014. (XII. 10.) NGM rendelet |
