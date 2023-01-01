@@ -48,11 +48,13 @@ db) a 16. § (1) bekezdés ca), cb), cf) alpontjában, f), g), i), k) pontjában
 
 dc) a 23. § c), f) és g) pontjában meghatározott adatok;
 
-e) a rendészeti feladatokat ellátó személyek és a személy- és vagyonvédelmi tevékenység hatósági engedélyezése és ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
+e) a rendészeti feladatokat ellátó személyek ellenőrzése, valamint a személy- és vagyonvédelmi tevékenység hatósági engedélyezése és ellenőrzése során a közbiztonsági feltételek vizsgálata céljából
 
-ea) a 11. § (1) bekezdés c) pont ca), cb), cf) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok, valamint
+ea) a 11. § (1) bekezdés c) pont ca), cb), cf) alpontjában, e), f), h), i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
 
-eb) a 16. § (1) bekezdés c) pont ca), cb), cf) alpontjában, f), g), i), k) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok;
+eb) a 16. § (1) bekezdés c) pont ca), cb), cf) alpontjában, f), g), i), k) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok, valamint
+
+ec) a 23. § c) pont ca) alpontjában és k) pontjában meghatározott adatok;
 
 f) a légi közlekedés biztonságának ellenőrzése céljából
 
@@ -167,6 +169,8 @@ ca) a 11. § (1) bekezdés c)–l) pontjában és (2) bekezdésében meghatároz
 cb) ha az érintett személlyel szemben kényszergyógykezelést rendeltek el, a 16. § (1) bekezdés c)–l) pontjában és (2) bekezdés m) pontjában meghatározott adatok,
 
 cc) ha az érintett személlyel szemben letartóztatást, bűnügyi felügyeletet, távoltartást vagy előzetes kényszergyógykezelést rendeltek el, a 23. § c) és h) pontjában meghatározott adatok.
+
+d) a büntetés-végrehajtási bírói előterjesztések, a speciális részlegre helyezés, a kapcsolattartás engedélyezése, az intézet elhagyásával járó kapcsolattartási formák engedélyezése körében hozott döntés megalapozása, valamint a biztonsági előírások meghatározása céljából az elítélttel és az egyéb jogcímen fogvatartottal szemben a fogvatartás alatt megindult újabb büntetőeljárásra vonatkozóan a 23. § c)−k) pontjában meghatározott adatokat átvenni.
 
 (8a) A pártfogó felügyelői szolgálat a közérdekű munka és a pártfogó felügyelet végrehajtása céljából jogosult közvetlen hozzáféréssel átvenni a közérdekű munka, illetve pártfogó felügyelet hatálya alatt álló személy következő adatait:
 

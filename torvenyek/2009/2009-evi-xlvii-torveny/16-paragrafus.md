@@ -66,11 +66,11 @@ f) a javítóintézetből történő ideiglenes elbocsátás napját, az ideigle
 
 g) a javítóintézeti nevelésből elbocsátás napját,
 
-h) a közérdekű munka teljesítésének vagy végrehajthatósága megszűnésének napját,
+h) a közérdekű munka teljesítésének napját,
 
 i) a pénzbüntetés teljesítésének napját,
 
-j) a közérdekű munka vagy a pénzbüntetés szabadságvesztésre, valamint a pénzbüntetés közérdekű munkára történő átváltoztatásáról szóló határozat számát és jogerőre emelkedésének napját, az eljárt bíróság megnevezését és az így kiszabott büntetés mértékét,
+j) a közérdekű munka vagy a pénzbüntetés végrehajthatósága megszűnésének tényét, a végrehajthatóság megszűnését megállapító határozat számát és jogerőre emelkedésének a napját, az eljárt bíróság megnevezését, valamint a közérdekű munka vagy a pénzbüntetés szabadságvesztésre, illetve a pénzbüntetés közérdekű munkára történő átváltoztatásáról szóló határozat számát és jogerőre emelkedésének napját, az eljárt bíróság megnevezését és az így kiszabott büntetés mértékét,
 
 k) a közügyektől eltiltás, a foglalkozástól eltiltás, a járművezetéstől eltiltás, a kiutasítás, a kitiltás, a sportrendezvények látogatásától való eltiltás leteltének napját, a járművezetéstől eltiltás végrehajtását befolyásoló tényeket és ezek fennállásának időtartamát,
 
