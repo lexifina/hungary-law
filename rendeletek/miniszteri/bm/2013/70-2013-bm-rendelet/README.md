@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-70-20-0
 | 2013-12-20 | 2013-70-20-0A.2 | 2010: CXXX. törvény |
 | 2013-12-31 | 2013-70-20-0A.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-01-01 | 2013-70-20-0A.4 | 2010: CXXX. törvény |
+| 2023-01-01 | 2013-70-20-0A.5 | 12/2022. (XII. 27.) ÉKM rendelet |

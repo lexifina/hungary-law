@@ -1,3 +1,5 @@
-## 43. § Az Országos Műemléki Felügyelőség 671/5/1991. számú határozatával védetté nyilvánított, Kőszeg (Vas megye),
+44. §[^30] Az egyes műemlékek védetté nyilvánításáról, illetőleg műemléki védettség megszüntetéséről szóló
 
-## 3204 helyrajzi számú ingatlan műemléki védettségét – a műemléki érték megsemmisülésére tekintettel – megszüntetem.
+12/1999. (VIII. 18.) NKÖM rendelettel védetté nyilvánított, Leányvár (Komárom-Esztergom vármegye), 474/1 helyrajzi számú ingatlan műemléki védettségét – a műemléki érték megsemmisülésére tekintettel – megszüntetem.
+
+[^30]: A 44. § a 12/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.

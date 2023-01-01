@@ -4,6 +4,6 @@
 
 ## X: 260827
 
-2. melléklet a 70/2013. (XII. 16.) BM rendelethez[^3]
+2. melléklet a 70/2013. (XII. 16.) BM rendelethez[^41]
 
-[^3]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
