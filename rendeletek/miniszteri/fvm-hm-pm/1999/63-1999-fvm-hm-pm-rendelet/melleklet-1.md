@@ -1,8 +1,8 @@
-## 21. §[^57] Az ingatlanügyi hatóságok bevételét képező egyes igazgatási szolgáltatási díjak megosztását szabályozó és a földmérési és térképészeti tevékenység végzéséhez szükséges szakképzettségről szóló miniszteri rendeletek módosításáról szóló 19/2020. (XII. 12.) MvM rendelettel [a továbbiakban: 19/2020. (XII. 12.) MvM rendelet] megállapított 5. § (6) bekezdése szerinti szakmai ütemtervet a 2020. évre vonatkozóan a 19/2020. (XII. 12.) MvM rendelet hatálybalépését[^58] követő 60. napig kell elkészíteni.
+## 21. §[^58] Az ingatlanügyi hatóságok bevételét képező egyes igazgatási szolgáltatási díjak megosztását szabályozó és a földmérési és térképészeti tevékenység végzéséhez szükséges szakképzettségről szóló miniszteri rendeletek módosításáról szóló 19/2020. (XII. 12.) MvM rendelettel [a továbbiakban: 19/2020. (XII. 12.) MvM rendelet] megállapított 5. § (6) bekezdése szerinti szakmai ütemtervet a 2020. évre vonatkozóan a 19/2020. (XII. 12.) MvM rendelet hatálybalépését[^59] követő 60. napig kell elkészíteni.
 
-1. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^59]
+1. számú melléklet a 63/1999. (VII. 21.) FVM–HM–PM együttes rendelethez[^60]
 
-## Igazgatási szolgáltatási díjak
+Igazgatási szolgáltatási díjak
 
 1. Másolat a vízszintes és magassági alaphálózati pontok, az országos GPS hálózati pontok, valamint egyéb vízszintes és magassági pontok adatairól
 
@@ -20,7 +20,7 @@
 
 | 16. | A vízszintes, illetve magassági alapponthálózat pontjaira vonatkozó nyilvántartási pontvázlat | szelvény | 400 |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) A 11–12. tételszám szerinti adatokat csak hitelesített formában lehet szolgáltatni.
 
@@ -62,7 +62,7 @@ g) Az adatszolgáltatás papír adathordozóra történik. Ettől eltérő adath
 
 | 27. | Nemzetközi szelvényezésű UTM vetületű topográfiai térkép 1:25 000, 1:50 000, 1:100 000, 1:200 000, 1:250 000 méretarányban | szelvény | 750 | – | – |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) Az ingatlan-nyilvántartási térképszelvényekről készített másolat díja a 21–1. tételtől a 22–3. tételig a díjtételek kétszerese.
 
@@ -118,7 +118,7 @@ földmérési munkarészekről
 
 | 39. |  |  |  |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) A 31. tételszámú térképmásolat (helyszínrajz) adatszolgáltatási díjtétele magában foglalja az érintett földrészlet környezetének ábrázolását, és igény esetén a vonatkozó területi adatok feltüntetését is. Amennyiben a helyszínrajz (1 dm2-en belül) több érintett földrészletet területi adattal együtt ábrázol, az adatszolgáltatási díj az első földrészletnél a teljes díjtétel, minden továbbinál az eredeti díj 50%-a.
 
@@ -168,7 +168,7 @@ f) Az adatszolgáltatás papír adathordozóra történik. Ettől eltérő adath
 
 | 41–43. |  | 50 ha felett– 100 ha-ig | 9 000 |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) Az összevont díjtételek a földminősítési térkép és az alappontok adatainak szolgáltatását is magukba foglalják.
 
@@ -202,7 +202,7 @@ fényképezéssel kapcsolatos hatósági eljárás díjai
 
 | 52–2. | Mérőkamarás légifelvétel titokvédelmi ellenőrzése | felvétel | 100 |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) Állami alapmunka végzés kivételével légifelvételről csak másolat adható ki.
 
@@ -213,6 +213,8 @@ c) Az igénylő a költségére beszerzett adatoknak az adatszolgáltató által
 d) A nagyfelbontású űrfelvételek, valamint távérzékelt adatok szolgáltatásáért fizetendő díjat a Földmérési és térinformatikai államigazgatási szerv, illetve a HM Zrínyi Nonprofit Kft. állapítja meg.
 
 5a. Digitális légi távérzékelési adatbázisok igazgatási szolgáltatási díjai
+
+## 0X09376M_5
 
 | Tételszám | A szolgáltatott adat (termék) megnevezése | Egység | Díjtétel (Ft) |
 
@@ -278,7 +280,7 @@ d) A nagyfelbontású űrfelvételek, valamint távérzékelt adatok szolgáltat
 
 | 54-25. | tiff formátumú színes 0,4 m/px terepi felbontású és 2 pixel vagy az alatti középhibájú ortofotó, ha a felvétel az adatszolgáltatást megelőző ötödik éven túl, de tizedik éven belül készült és az adatszolgáltatás legalább 70 000 km2 területről történik | km2 | 600 Ft |
 
-Megjegyzés: Az 54-1–54-25. sorokban szereplőektől eltérő műszaki paraméterekkel rendelkező vagy eltérő fájl formátumban szolgáltatandó, az adatbázisban szereplő adatok nem szolgáltathatóak állami alapadatként.
+## Megjegyzés: Az 54-1–54-25. sorokban szereplőektől eltérő műszaki paraméterekkel rendelkező vagy eltérő fájl formátumban szolgáltatandó, az adatbázisban szereplő adatok nem szolgáltathatóak állami alapadatként.
 
 6. Adatfelhasználási díj a nyilvántartási, térinformatikai és tervezési rendszerek állami alapadat tartalmáért
 
@@ -302,7 +304,7 @@ Megjegyzés: Az 54-1–54-25. sorokban szereplőektől eltérő műszaki paramé
 
 | 62–4. |  | 24 001 km2 fölött | 10 |
 
-Megjegyzés:
+## Megjegyzés:
 
 a) A táblázat 61–1.–61–3. díjtételeit sávosan és közigazgatási egységenként, a 62–1.–62–4. díjtételeit sávosan kell alkalmazni.
 
@@ -338,7 +340,7 @@ d) A nyilvántartási és térinformatikai rendszerek aktualizálása érdekébe
 
 | 74. | Transzformációs paraméterek |  | 1 200 |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) A táblázat díjtételeit közigazgatási egységenként külön kell kezelni, és sávosan kell alkalmazni.
 
@@ -370,7 +372,7 @@ h) A Magyar Közigazgatási Határok adatbázisából történő, cm élességű
 
 | 8–14. | 10 000 pont felett |  | 65 |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) A táblázat díjtételeit településenként külön kell kezelni, és sávosan kell alkalmazni.
 
@@ -398,7 +400,7 @@ e) A korábban megvásárolt teljes adatállomány időközi változásokkal val
 
 | 9–6. | 1:250 000 méretarányú topográfiai térképszelvény | 130 000 | 15 000 | 150 000 | 15 000 | 310 000 |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) A fizetendő díjak területarányosan csökkennek, ha a szelvény területét a rajz nem tölti ki.
 
@@ -432,7 +434,7 @@ Az állami alapadatok felhasználásával készített térképek kiadásához az
 
 | 109. | 1:400 000–1:500 000 | Természetbeni 1 km2 | 1 |
 
-Megjegyzések:
+## Megjegyzések:
 
 a) A másolatok sokszorosítását az 1:10 000 méretarányú állami topográfiai térképszelvény felhasználása esetén a térképészetért felelős miniszter engedélyezi. Az adatfelhasználás módjáról és feltételeiről a Földmérési és térinformatikai államigazgatási szervvel szerződést kell kötni.
 
@@ -448,6 +450,6 @@ f) Domborzatrajzot tartalmazó kiadvány esetén a vonatkozó díjtételt 20%-ka
 
 g) Digitális formában történő forgalmazásért a vonatkozó díjtételt 50%-kal növelni kell.
 
-[^57]: A 21. §-t a 19/2020. (XII. 12.) MvM rendelet 8. §-a iktatta be.
-[^58]: A hatálybalépés időpontja 2020. december 20.
-[^59]: Az 1. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 9. § (2) bekezdés g)–i) pontja, a 29/2015. (VI. 5.) FM rendelet 2. § (1) bekezdés k) pontja, a 2/2016. (I. 7.) FM rendelet 5. § (1) bekezdése és a 6. § 4., 8–10. pontja, a 42/2017. (VIII. 17.) FM rendelet 17. § f)–i) pontja, a 19/2020. (XII. 12.) MvM rendelet 10. § g) pontja és 11. § h) pontja szerint módosított szöveg.
+[^58]: A 21. §-t a 19/2020. (XII. 12.) MvM rendelet 8. §-a iktatta be.
+[^59]: A hatálybalépés időpontja 2020. december 20.
+[^60]: Az 1. számú melléklet a 161/2004. (XI. 8.) FVM–HM–PM együttes rendelet 10. §-ának (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 9. § (2) bekezdés g)–i) pontja, a 29/2015. (VI. 5.) FM rendelet 2. § (1) bekezdés k) pontja, a 2/2016. (I. 7.) FM rendelet 5. § (1) bekezdése és a 6. § 4., 8–10. pontja, a 42/2017. (VIII. 17.) FM rendelet 17. § f)–i) pontja, a 19/2020. (XII. 12.) MvM rendelet 10. § g) pontja és 11. § h) pontja szerint módosított szöveg.

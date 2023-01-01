@@ -1,3 +1,3 @@
-## 13. §[^29]
+14. §[^31]
 
-[^29]: A 13. §-t újonnan a 2/2016. (I. 7.) FM rendelet 2. §-a iktatta be, hatályon kívül helyezte e módosító rendelet 7. § a) pontja.
+[^31]: A 14. §-t a 15/2014. (II. 25.) VM rendelet 7. §-a hatályon kívül helyezte.
