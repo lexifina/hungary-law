@@ -4,7 +4,9 @@
 
 (3) A 64/A. § (4) bekezdésben meghatározott időtartamot jelen törvény hatálybalépését követően kell számítani, és az időtartam számításánál e törvény hatálybalépése előtti időszakot nem kell figyelembe venni.
 
-(4)–(5)
+(4)
+
+(5)
 
 (6)
 

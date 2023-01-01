@@ -4,7 +4,9 @@
 
 a) figyelmeztetést alkalmazhat, ha a pénztár a jóváhagyott pénzügyi tervétől vagy alapszabályától eltérő gazdálkodást folytat, vagy nem felel meg a tárgyi, illetve személyi feltételeknek;
 
-b)–c)
+b)
+
+c)
 
 d) új pénzügyi terv kidolgozását írhatja elő;
 

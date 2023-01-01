@@ -32,7 +32,7 @@ n) a pénztár képviseletének módját, a hatáskörök átruházásának mód
 
 o) a közgyűlés összehívásának módját;
 
-p) a közgyűlés (ha van: a részközgyűlés, illetve küldöttközgyűlés) működését, küldöttközgyűlés esetén a küldöttek megválasztásának szabályait;
+p) a közgyűlés (ha van: a részközgyűlés, illetve a küldöttközgyűlés) működését, küldöttközgyűlés esetén a küldöttek megválasztásának szabályait, az elektronikus hírközlő eszköz vagy más személyazonosítást lehetővé tevő elektronikus eszköz útján való tanácskozás és döntéshozatal szabályait;
 
 r) azon esetek meghatározását, amelyeknél a határozathozatalhoz minősített többség szükséges;
 
@@ -45,3 +45,5 @@ u) mindazt, amit a törvény vagy a törvény felhatalmazása alapján kiadott j
 (2) A tagsági kört a társulási elv [3. § (7) bekezdés] betartásával kell meghatározni.
 
 (3) A módosított alapszabályt – a módosítások megjelölésével – a közgyűlés időpontját követő 30 napon belül meg kell küldeni a bíróságnak és a Felügyeletnek.
+
+(4) Internetes honlappal rendelkező pénztár az alapszabályát honlapján közzéteszi.

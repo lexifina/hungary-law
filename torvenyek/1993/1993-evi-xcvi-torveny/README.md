@@ -44,3 +44,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-96-00-00
 | 2021-01-01 | 2020. évi CLII. törvény | 1993-96-00-00.73 |
 | 2021-12-01 | 2021. évi XCIX. törvény | 1993-96-00-00.74 |
 | 2022-05-25 | 2022. évi IV. törvény | 1993-96-00-00.75 |
+| 2023-01-01 | 2022. évi LXIX. törvény | 1993-96-00-00.76 |

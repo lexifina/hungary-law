@@ -1,6 +1,8 @@
 ## A Felügyelet intézkedési és bírságolási jogköre
 
-65. § (1)–(2)
+65. § (1)
+
+(2)
 
 (3) A Felügyelet a pénztár kötelezettségeinek teljesítése, a pénztártagok érdekeinek védelme, valamint a pénztártevékenységre vonatkozó jogszabályi előírások betartása érdekében a következő intézkedéseket – akár együttesen is – alkalmazhatja:
 

@@ -1,3 +1,3 @@
 ## A nemek közötti megkülönböztetés tilalma
 
-18/A. §
+### 18/A. §

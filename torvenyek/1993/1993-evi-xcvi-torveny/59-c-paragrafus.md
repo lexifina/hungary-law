@@ -20,7 +20,9 @@ h) az éves beszámolók.
 
 a) természetes személyazonosító adatok,
 
-b)–c)
+b)
+
+c)
 
 d) lakcím (tartózkodási hely),
 

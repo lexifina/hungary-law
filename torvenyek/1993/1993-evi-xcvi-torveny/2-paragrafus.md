@@ -32,7 +32,7 @@ g) pénztári befizetések kedvezménye: a személyi jövedelemadóról szóló 
 
 h) elektronikus irat: olyan bizonylat, amely megfelel az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben foglalt rendelkezéseknek;
 
-i) elektronikus irat használata: amennyiben a pénztár alapszabálya ezt lehetővé teszi, a pénztártag teljes bizonyító erejű magánokiratba foglalt nyilatkozatban kérheti a pénztártól, hogy a pénztár a részére átadandó dokumentumokat (nyilatkozatokat, igazolásokat) elektronikus iratként küldje meg részére;
+i) elektronikus irat használata: amennyiben a pénztár alapszabálya ezt lehetővé teszi, a pénztártag kérheti a pénztártól, hogy a pénztár a részére átadandó dokumentumokat (nyilatkozatokat, igazolásokat) elektronikus iratként küldje meg részére;
 
 j) nyílt pénztár: az a pénztár, amely a lehetséges pénztártagok körét – a területi pénztár működési területének meghatározása kivételével – nem korlátozza;
 
@@ -128,7 +128,9 @@ a) szociális kockázat: gyermek születésével, beiskolázásával, egészség
 
 b) időszaki járadék: a pénztártag részére nyújtott rendszeres pénzbeli szolgáltatás, amely az alapszabályban meghatározott esetekben és feltételek szerint határozott időtartamig, illetve legfeljebb a kiváltó esemény megszűnéséig tart;
 
-c)–d)
+c)
+
+d)
 
 (8) E törvény alkalmazásában a 3. § (2) bekezdésének b) pontjában és a 36. § (1) bekezdésében, illetve azok alapján meghatározott alapok tartaléknak minősülnek.
 
