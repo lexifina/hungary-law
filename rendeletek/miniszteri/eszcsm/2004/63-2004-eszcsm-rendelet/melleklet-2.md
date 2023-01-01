@@ -1,7 +1,5 @@
 ## A 0 Hz–300 GHz frekvenciájú elektromos, mágneses és elektromágneses terek lakosságra vonatkozó egészségügyi határértékei
 
-## A 0 Hz–300 GHz frekvenciájú elektromos, mágneses és elektromágneses terek lakosságra vonatkozó egészségügyi határértékei
-
 ## 1. Alapkorlátok az elektromos, mágneses és elektromágneses terekre (0 Hz–300 GHz)
 
 | Frekvenciatartomány | Mágneses indukció (mT) | Áramsűrűség (mA/m2) (effektív érték) | Egésztest átlagos SAR (W/kg) | Helyi SAR (fej és törzs) (W/kg) | Helyi SAR (végtagok) (W/kg) | Teljesítmény- sűrűség S (W/m2) |
@@ -93,8 +91,6 @@
 ## A 10 MHz–110 MHz-es frekvenciatartományban bármelyik végtagon átfolyó áram nem lehet több 45 mA-nél.
 
 2. számú melléklet a 63/2004. (VII. 26.) ESZCSM rendelethez
-
-Több frekvencián sugárzó forrásokról származó expozíció
 
 Több frekvencián sugárzó forrásokról származó expozíció
 

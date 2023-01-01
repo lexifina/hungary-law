@@ -1,6 +1,6 @@
 ## 3. § A 0 Hz–300 GHz frekvenciájú elektromos, mágneses és elektromágneses terek lakosságra vonatkozó egészségügyi határértékeit az 1. számú melléklet tartalmazza.
 
-4. § (1)[^1] A lakosság expozíciójának várható mértékét, a vonatkoztatási határértékek betartását a sugár-egészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalok (a továbbiakban: kormányhivatal) méréssel ellenőrzik a Nemzeti Média és Hírközlési Hatósággal együttműködve, ha
+4. § (1)[^1] A lakosság expozíciójának várható mértékét, a vonatkoztatási határértékek betartását a sugár-egészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatalok (a továbbiakban: kormányhivatal) méréssel ellenőrzik a Nemzeti Média és Hírközlési Hatósággal együttműködve, ha
 
 a) számítások alapján a vonatkoztatási szint túllépése valószínűsíthető,
 
@@ -24,5 +24,5 @@ A mérési jegyzőkönyvet és az értékelést az üzembe helyezést követő 3
 
 (4) Amennyiben a mért mennyiségek értéke nagyobb, mint a vonatkoztatási határérték, akkor kiértékelést kell végezni annak megállapítására, hogy az expozíciós szintek alatta vannak-e az alapkorlátoknak. Lokális expozíció esetében közvetlenül a helyi alapkorlátoknak való megfelelést kell vizsgálni, a vonatkoztatási határértékek nem alkalmazhatók.
 
-[^1]: A 4. § (1) bekezdése a 44/2016. (XII. 28.) EMMI rendelet 42. §-ával megállapított szöveg.
+[^1]: A 4. § (1) bekezdése a 44/2016. (XII. 28.) EMMI rendelet 42. §-ával megállapított ,a 45/2022. (XII. 20.) BM rendelet 35. §-a szerint módosított szöveg.
 [^2]: A 4. § (2) bekezdése a 44/2016. (XII. 28.) EMMI rendelet 42. §-ával megállapított szöveg.

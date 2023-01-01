@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-63-20-0
 | 2011-03-31 | 2004-63-20-0M.3 | 10/2011. (III. 30.) NEFMI rendelet |
 | 2015-04-29 | 2004-63-20-0M.4 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2017-01-05 | 2004-63-20-0M.5 | 44/2016. (XII. 28.) EMMI rendelet |
+| 2023-01-01 | 2004-63-20-0M.6 | 44/2016. (XII. 28.) EMMI rendelet |
