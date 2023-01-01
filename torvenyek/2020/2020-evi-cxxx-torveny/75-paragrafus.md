@@ -20,6 +20,10 @@ h) a házastárs vagy élettárs külszolgálata miatt kapott illetmény nélkü
 
 i) a szolgálati jogviszony szünetelésének
 
+j) a 85. § (1) bekezdés m) és p) pontjában meghatározott távollét,
+
+k) az apasági és a szülői szabadság
+
 időtartama alatt.
 
 (2) Az (1) bekezdés szerinti védelem alkalmazása szempontjából a felmentés közlésének időpontja az irányadó.

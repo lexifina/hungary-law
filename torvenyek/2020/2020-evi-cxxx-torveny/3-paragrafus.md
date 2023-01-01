@@ -8,6 +8,8 @@
 
 3. alapvető munkáltatói jog: a kinevezés, a jogviszony-megszüntetés, a fegyelmi, a méltatlansági és a kártérítési eljárás, valamint a sérelemdíj megfizetésére irányuló eljárás megindítása, a fegyelmi büntetés, a kártérítés, a sérelemdíj, az összeférhetetlenség megállapítása, a kinevezés tartalmának módosítása;
 
+3a. apa: a Ptk. szerint apai jogállású férfi, vagy az örökbefogadó férfi;
+
 4. azonos besorolású munkakör: az a munkakör, amely a betöltött munkakörrel azonos besorolási osztályba és besorolási kategóriába tartozik, továbbá azonos szervezeti szinten helyezkedik el;
 
 5. azonos vezetői munkakör: az a vezetői munkakör, amelynek besorolási kategóriája megegyezik a betöltött munkakör besorolási kategóriájával;
@@ -28,7 +30,9 @@
 
 13. fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra;
 
-14. gyermek: a családok támogatására vonatkozó szabályok szerinti saját háztartásban nevelt vagy gondozott gyermek;
+13a. gondozást végző foglalkoztatott: az a foglalkoztatott, aki a kezelőorvos által igazolt súlyos egészségügyi okból jelentős gondozásra vagy támogatásra szoruló hozzátartozójának, vagy a foglalkoztatottal közös háztartásban élő személynek személyes gondozást vagy támogatást nyújt;
+
+14. gyermek: a családok támogatásáról szóló törvény szerinti saját háztartásban nevelt vagy gondozott gyermek, ideértve, ha a különélő szülők a közös szülői felügyelet gyakorlásakor a gyermeket saját háztartásukban egymást felváltva, azonos időtartamban nevelik vagy gondozzák, valamint a 13. pont szerinti fogyatékos gyermeket is;
 
 15. gyermekét egyedül nevelő foglalkoztatott: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált vagy házastársától külön él és nincs élettársa;
 

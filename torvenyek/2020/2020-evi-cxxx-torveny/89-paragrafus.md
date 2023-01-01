@@ -24,7 +24,7 @@ b) nemzetiségi szószóló,
 
 c) főpolgármester, főpolgármester-helyettes,
 
-d) megyei közgyűlés elnöke, alelnöke,
+d) vármegyei közgyűlés elnöke, alelnöke,
 
 e) polgármester, alpolgármester,
 

@@ -32,6 +32,10 @@ n) a munkáltatói jogkör gyakorlója engedélye alapján,
 
 o) az egészségkárosodási ellátásra jogosultság megállapítására irányuló eljárás alatt az eljárás során elfogadott munkakörbe helyezéséig, vagy ha erre nem kerül sor, az egészségkárosodási ellátásra jogosultság tárgyában hozott döntés meghozataláig.
 
-(2) A rendelkezésre állási, illetve munkavégzési kötelezettség alóli (1) bekezdés szerinti mentesülés esetében – törvény eltérő rendelkezése hiányában – a foglalkoztatott a távollét idejére távolléti díjra jogosult.
+p) a súlyos egészségi okból gondozásra szoruló hozzátartozója, vagy a foglalkoztatottal közös háztartásban élő személy személyes gondozása nyújtása céljából évente legfeljebb öt munkanapra.
+
+(2) A rendelkezésre állási, illetve munkavégzési kötelezettség alóli mentesülés (1) bekezdés a)–o) pontja szerinti esetében – törvény eltérő rendelkezése hiányában – a foglalkoztatott a távollét idejére távolléti díjra jogosult.
 
 (3) Az (1) bekezdés m) pontja szerinti esetben az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül kell a foglalkoztatottat mentesíteni a kérésének megfelelő időpontban. Az igénybevételről a foglalkoztatott legalább öt munkanappal korábban tájékoztatja a munkáltatói jogkör gyakorlóját.
+
+(4) Az (1) bekezdés p) pontja szerinti esetben a gondozás indokoltságát a gondozásra szoruló személy kezelőorvosa igazolja.

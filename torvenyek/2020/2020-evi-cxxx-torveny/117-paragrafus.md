@@ -2,7 +2,7 @@
 
 (1) A szabadságot – a (2)–(5) bekezdésben foglalt kivétellel – megváltani nem lehet.
 
-(2) A szolgálati jogviszony megszűnése, megszüntetése esetén, ha a munkáltatói jogkör gyakorlója az arányos szabadságot nem adta ki, az arányos szabadságot (ha a foglalkoztatottnak van fennmaradó szabadsága) meg kell váltani.
+(2) A szolgálati jogviszony megszűnése, megszüntetése esetén, ha a munkáltatói jogkör gyakorlója az arányos szabadságot nem adta ki, az arányos szabadságot (ha a foglalkoztatottnak van fennmaradó szabadsága) – az apasági és a szülői szabadságot kivéve – meg kell váltani.
 
 (3) Az 57. § szerinti kirendelés, vezénylés esetén a kirendelés, vezénylés időtartama alatt a foglalkoztatott részére a kirendelés, vezénylés helye szerinti szervnél kell kiadni a szabadságot. Más kirendelés, vezénylés esetén a ki nem adott időarányos tárgyévi szabadság megváltását illetően úgy kell eljárni, mintha az érintett szolgálati jogviszonya megszűnt volna.
 

@@ -372,7 +372,7 @@ Befektetésből származó jövedelem
 
 Gazdasági társaságból származó jövedelem
 
-Szociális vagy munkanélküli ellátás
+Szociális vagy álláskeresési ellátás
 
 Ösztöndíj
 

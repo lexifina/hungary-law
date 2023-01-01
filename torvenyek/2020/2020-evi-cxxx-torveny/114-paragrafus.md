@@ -14,7 +14,7 @@ c) a szabadságot az esedékességet követő év júniusának utolsó napjáig 
 
 (4) A (2) és (3) bekezdés szerinti határidőt követően a szabadság nem adható ki és nem vehető igénybe, a szabadság nem halmozódhat.
 
-(5) Az (1)–(4) bekezdés nem vonatkozik a 122. § szerinti pótszabadságra.
+(5) Az (1)–(4) bekezdés nem vonatkozik a 122. § és 122/A. § szerinti pótszabadságra.
 
 (6) A (2) bekezdés a) pontjában meghatározott szolgálati érdeknek minősül különösen
 

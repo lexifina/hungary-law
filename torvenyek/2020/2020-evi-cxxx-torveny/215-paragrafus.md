@@ -6,6 +6,16 @@
 
 (1) A foglalkoztatott a szolgálati jogviszonyból származó igényének érvényesítése érdekében, ha e törvény eltérően nem rendelkezik – a (3) és (4) bekezdésben meghatározott esetek kivételével az igény érvényesítésére vonatkozó elévülési időn belül – közvetlenül bírósághoz fordulhat.
 
+(1a) Ha a foglalkoztatott a bíróság előtt – indokolással alátámasztva – arra hivatkozik, hogy a szolgálati viszonyát ténylegesen
+
+a) a 49/A. § szerinti részmunkaidő,
+
+b) a 85. § (1) bekezdés p) pontja szerinti munkaidő-kedvezmény, vagy
+
+c) a 122. § szerinti apasági szabadság vagy a 122/A. § szerinti szülői szabadság
+
+igénylése vagy igénybevétele miatt szüntették meg, a munkáltató köteles bizonyítani, hogy a szolgálati viszony megszüntetésére nem ebből az okból került sor.
+
 (2) A munkáltatói jogkör gyakorlójának mérlegelési jogkörébe tartozó döntése ellen a foglalkoztatott bírósághoz akkor fordulhat, ha e törvény megengedi.
 
 (3) A keresetet a sérelmezett munkáltatói intézkedésről szóló irat közlésétől számított harminc napon belül lehet a bírósághoz benyújtani
@@ -33,6 +43,8 @@ j) a sérelemdíj megfizetése ügyében hozott határozattal;
 k) az egészségkárosodási ellátásra jogosultság tárgyában hozott NAV vezetői döntéssel
 
 kapcsolatos ügyekben.
+
+(3a) A 49/A. § (2) bekezdése szerinti munkáltató hozzájáruló nyilatkozatának pótlása iránti perben a bíróság soron kívül jár el.
 
 (4) Megállapodás megtámadása esetén a keresetlevelet a megtámadás eredménytelenségének 21. § (9) bekezdése szerinti megállapításától számított harminc napon belül lehet előterjeszteni.
 

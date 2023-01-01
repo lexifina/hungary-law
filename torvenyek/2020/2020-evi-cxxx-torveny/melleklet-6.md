@@ -4,8 +4,6 @@ Vezetői munkakörök alapilletménye
 
 |
 
-A
-
 |
 
 B

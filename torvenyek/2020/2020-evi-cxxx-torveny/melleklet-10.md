@@ -53,3 +53,21 @@ II.
 3. iskolarendszeren kívüli oktatás keretében szerzett szakképesítése(i), valamint meghatározott munkakör betöltésére jogosító okiratok adatai
 
 4. tudományos fokozata
+
+5. idegennyelv-ismerete
+
+6. képzésre, továbbképzésre, vezetőképzésre, átképzésre vonatkozó adatai
+
+III. A korábbi foglalkoztatásra vonatkozó adatok
+
+1. a munkahely megnevezése
+
+2. jogviszony típusának megnevezése
+
+3. beosztás
+
+4. besorolás
+
+5. munkakör
+
+6. jogviszony kezdő és befejező dátuma
