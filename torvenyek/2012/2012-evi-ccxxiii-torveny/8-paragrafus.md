@@ -1,4 +1,4 @@
-8. § A Be. 21. § (5) bekezdése alkalmazásában a törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a megye, illetve a főváros területére kiterjedő illetékességgel az 1978. évi IV. törvény szerinti következő bűncselekmények esetén is:
+8. § A Be. 21. § (5) bekezdése alkalmazásában a törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a vármegye, illetve a főváros területére kiterjedő illetékességgel az 1978. évi IV. törvény szerinti következő bűncselekmények esetén is:
 
 a) a magántitok jogosulatlan megismerése,
 
