@@ -12,7 +12,7 @@
 
 6. 18. § (2) bekezdés b) pontjában az „a lakóhelye” szövegrész helyébe az „az életvitelszerű lakáshasználata helye” szöveg és az „azon a” szövegrész helyébe az „olyan” szöveg,
 
-7. 18. § (2) bekezdés b) pontjában a „földrajzi árujelzéssel, továbbá eredetmegjelöléssel ellátott termék előállítása és feldolgozása” szövegrész helyébe az „oltalom alatt álló földrajzi jelzéssel vagy eredetmegjelöléssel (a továbbiakban együtt: oltalom alatt álló földrajzi árujelzővel) ellátott termék előállítása” szöveg,
+7.
 
 8. 18. § (3) bekezdésében a „hányadának” szövegrész helyébe a „hányada egészének vagy egy részének” szöveg,
 
@@ -36,7 +36,7 @@
 
 18. 46. § (3) bekezdés a) pontjában az „a föld fekvése szerinti településen az előhaszonbérleti joga gyakorlását megelőzően legalább 3 éve állattartó telepet üzemeltető azon” szövegrész helyébe a „az előhaszonbérleti joga gyakorlását megelőzően legalább 3 éve a föld fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 20 km távolságra fekvő településen állattartó telepet üzemeltető” szöveg,
 
-19. 46. § (3) bekezdés b) pontjában a „földrajzi árujelzéssel, továbbá eredetmegjelöléssel ellátott termék előállítása és feldolgozása,” szövegrész helyébe az „oltalom alatt álló földrajzi árujelzővel ellátott termék előállítása” szöveg,
+19.
 
 20. 47. § (1) bekezdésében a „közlését” szövegrész helyébe a „hatósági jóváhagyásának kezdeményezését” szöveg,
 
