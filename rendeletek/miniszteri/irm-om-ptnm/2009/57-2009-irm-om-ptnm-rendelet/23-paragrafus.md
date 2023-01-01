@@ -1,29 +1,18 @@
-23. § (1) A hivatásos állomány tagja időszakos egészségi, illetve pszichikai alkalmassági vizsgálatát első fokon az alapellátó orvos, illetve az alapellátó pszichológus végzi.
+23. § (1)[^36]
 
-(2) A hivatásos állomány tagja időszakos egészségi és pszichikai alkalmassági vizsgálatát másodfokon
+(2)[^37]
 
-a)[^76]
+(3)[^38]
 
-b)[^77]
+(4)[^39]
 
-c)[^78]
+(4a)[^40]
 
-d)[^79] az Országgyűlési Őrségnél – a rendőrséggel kötött megállapodás alapján –, térítés ellenében az ORFK
+(5)[^41] Ha a hivatásos állomány tagja az egészségi, illetve pszichikai alkalmassági vizsgálaton első fokon alkalmatlan minősítést kap, az alapellátó orvos haladéktalanul kezdeményezi a másodfokú egészségi, illetve pszichikai alkalmassági vizsgálat lefolytatását. Az alkalmatlanság másodfokú megállapítása esetén az alapellátó orvos az alkalmasság felülvizsgálatára irányuló eljárást (a továbbiakban: FÜV eljárás) kezdeményez.
 
-végzi.
-
-(3) A hivatásos állomány tagja időszakos egészségi alkalmasságát az áltata ellátott szolgálati beosztásra tekintettel kell elbírálni. Az időszakos egészségi alkalmassági vizsgálaton – a 7. § (1) bekezdésében meghatározott dokumentumokon túl – be kell mutatni a kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgálatokról és a szűrővizsgálatok igazolásáról szóló jogszabályban meghatározott rendszerességgel elvégzett népegészségügyi célú, célzott szűrővizsgálat eredményét.
-
-(4)[^80] Ha a hivatásos állomány tagja az időszakos egészségi vagy pszichikai alkalmassági vizsgálaton alkalmatlan vagy ideiglenesen alkalmatlan minősítést kap, az alapellátó orvos vagy az alapellátó pszichológus intézkedik a hivatásos állomány tagja gondozásba vételére, valamint, ha a hivatásos állomány tagja egészségi, illetve pszichikai állapota indokolja, a szükséges kiegészítő-, és szakvizsgálatok elvégzésére. Az alapellátó pszichológus az elvégzett pszichikai alkalmassági vizsgálatok eredményéről minden esetben tájékoztatja az alapellátó orvost.
-
-(4a)[^81] Ideiglenesen alkalmatlan minősítés esetén a minősítésben meghatározott időpontban az alkalmassági vizsgálatot ismételten el kell végezni. Ebben az esetben a közvetlen szolgálati elöljáró intézkedik az érintett vizsgálaton történő megjelenésére. Az ismételt alkalmassági vizsgálaton ideiglenesen alkalmatlan minősítés nem hozható.
-
-(5)[^82] Ha a hivatásos állomány tagja az egészségi, illetve pszichikai alkalmassági vizsgálaton első fokon alkalmatlan minősítést kap, az alapellátó orvos haladéktalanul kezdeményezi a másodfokú egészségi, illetve pszichikai alkalmassági vizsgálat lefolytatását. Az alkalmatlanság másodfokú megállapítása esetén az alapellátó orvos az alkalmasság felülvizsgálatára irányuló eljárást (a továbbiakban: FÜV eljárás) kezdeményez.
-
-[^76]: A 23. § (2) bekezdés a) pontját a 45/2020. (XII. 16.) BM rendelet 113. § k) pontja hatályon kívül helyezte.
-[^77]: A 23. § (2) bekezdés b) pontját a 45/2020. (XII. 16.) BM rendelet 113. § k) pontja hatályon kívül helyezte.
-[^78]: A 23. § (2) bekezdés c) pontját a 45/2020. (XII. 16.) BM rendelet 113. § k) pontja hatályon kívül helyezte.
-[^79]: A 23. § (2) bekezdés d) pontját a 10/2010. (XII. 22.) BM rendelet 6. § a) pontja hatályon kívül helyezte, újonnan az 56/2012. (XI. 22.) BM rendeleet 157. § (1) bekezdése iktatta be.
-[^80]: A 23. § (4) bekezdése a 67/2011. (XII. 30.) BM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^81]: A 23. § (4a) bekezdését a 67/2011. (XII. 30.) BM rendelet 12. § (2) bekezdése iktatta be.
-[^82]: A 24. § (5) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § p) pontja szerint módosított szöveg.
+[^36]: A 23. § (1) bekezdését a 43/2022. (XII. 19.) BM rendelet 119. § 21. pontja hatályon kívül helyezte.
+[^37]: A 23. § (2) bekezdését a 43/2022. (XII. 19.) BM rendelet 119. § 21. pontja hatályon kívül helyezte.
+[^38]: A 23. § (3) bekezdését a 43/2022. (XII. 19.) BM rendelet 119. § 21. pontja hatályon kívül helyezte.
+[^39]: A 23. § (4) bekezdése a 43/2022. (XII. 19.) BM rendelet 119. § 21. pontja hatályon kívül helyezte.
+[^40]: A 23. § (4a) bekezdését a 67/2011. (XII. 30.) BM rendelet 12. § (2) bekezdése iktatta be, a 43/2022. (XII. 19.) BM rendelet 119. § 21. pontja hatályon kívül helyezte.
+[^41]: A 24. § (5) bekezdése a 67/2011. (XII. 30.) BM rendelet 24. § p) pontja szerint módosított szöveg.

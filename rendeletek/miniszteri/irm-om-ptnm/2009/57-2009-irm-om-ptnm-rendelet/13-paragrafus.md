@@ -1,3 +1,3 @@
-## 12. §[^37]
+13. §[^24]
 
-[^37]: A 12. §-t a 45/2020. (XII. 16.) BM rendelet 113. § d) pontja hatályon kívül helyezte.
+[^24]: A 13. §-t megelőző „A fizikai alkalmassági minősítések” alcím címét és a 13. §-t a 45/2020. (XII. 16.) BM rendelet 113. § e) pontja hatályon kívül helyezte.

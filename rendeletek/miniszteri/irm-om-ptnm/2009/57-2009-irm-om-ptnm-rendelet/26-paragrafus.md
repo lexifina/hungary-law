@@ -1,31 +1,3 @@
-## A próbaidőre kinevezettek véglegesítése, valamint más rendvédelmi feladatokat ellátó szervtől
+26. §[^44]
 
-## vagy a Magyar Honvédség állományából áthelyezés előtti alkalmassági vizsgálat[^92]
-
-26. § (1)[^93] A próbaidőre kinevezettek véglegesítése előtti alkalmassági vizsgálat során az orvos, illetve a pszichológus értékeli a kinevezés, illetve véglegesítés előtti alkalmassági vizsgálat során keletkezett leleteket és a tanulmányi idő, illetve a próbaidő alatt előfordult betegségeket. Az orvos, illetve a pszichológus intézkedik az alkalmasság megállapításához szükséges kiegészítő vizsgálatok elvégzésére, és ennek figyelembevételével dönt az alkalmasságáról.
-
-(2) A próbaidőre kinevezett véglegesítése előtti alkalmassági vizsgálatát – a másodfokú vizsgálat lehetőségét is figyelembe véve – úgy kell elvégezni, hogy a végleges döntést még a próbaidő lejárta előtt meghozható legyen.
-
-(3)[^94] A rendvédelmi feladatokat ellátó szervek közötti, valamint a Magyar Honvédség állományából áthelyezést megelőzően a vizsgálatot végző orvos, illetve pszichológus a rendelkezésre álló egészségi, pszichológiai dokumentáció és saját vizsgálata alapján dönt az egészségi alkalmasságról.
-
-(4) Az (1)–(3) bekezdés szerinti egészségi és pszichikai alkalmassági vizsgálatot első fokon a szolgálati hely, illetve a leendő szolgálati hely alapellátó orvosa, illetve alapellátó pszichológusa végzi.
-
-(5) Az (1)–(3) bekezdés szerinti egészségi és pszichikai alkalmassági vizsgálatot másodfokon
-
-a)[^95] az Országgyűlési Őrség esetében az MH Honvédkórház,
-
-b)[^96]
-
-végzi.
-
-(6)[^97] A próbaidőre kinevezettek véglegesítése, illetve a rendvédelmi feladatokat ellátó szervek közötti, valamint a Magyar Honvédség állományából áthelyezés előtti fizikai alkalmassági vizsgálatot – ha az érintett nem rendelkezik egy éven belüli, az új beosztásnak megfelelő „Fizikailag alkalmas” minősítéssel – a fogadó szerv, illetve a szolgálati hely testnevelési vagy sportszakmai szakképzettséggel rendelkező munkatársa végzi.
-
-(7)[^98] A próbaidőre kinevezettek véglegesítése, valamint a rendvédelmi feladatokat ellátó szervek közötti és a Magyar Honvédség állományából áthelyezés előtti alkalmassági vizsgálat során csak alkalmas, vagy alkalmatlan minősítés adható.
-
-[^92]: A 26. §-t megelőző alcím a 37/2015. (VI. 16.) BM rendelet 43. § (2) bekezdés a) pontja, a 45/2020. (XII. 16.) BM rendelet 113. § m) pontja szerint módosított szöveg.
-[^93]: A 26. § (1) bekezdése a 45/2020. (XII. 16.) BM rendelet 113. § m) pontja szerint módosított szöveg.
-[^94]: A 26. § (3) bekezdése a 37/2015. (VI. 16.) BM rendelet 43. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^95]: A 26. § (5) bekezdés a) pontja a 67/2011. (XII. 30.) BM rendelet 23. § m) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § m) pontja, a 45/2020. (XII. 16.) BM rendelet 113. § n) pontja szerint módosított szöveg.
-[^96]: A 26. § (5) bekezdés b) pontját a 45/2020. (XII. 16.) BM rendelet 113. § o) pontja hatályon kívül helyezte.
-[^97]: A 26. § (6) bekezdése a 37/2015. (VI. 16.) BM rendelet 43. § (2) bekezdés a) pontja, a 45/2020. (XII. 16.) BM rendelet 113. § m) pontja szerint módosított szöveg.
-[^98]: A 26. § (7) bekezdése a 37/2015. (VI. 16.) BM rendelet 43. § (2) bekezdés a) pontja, a 45/2020. (XII. 16.) BM rendelet 113. § m) pontja szerint módosított szöveg.
+[^44]: Az „A próbaidőre kinevezettek véglegesítése, valamint más rendvédelmi feladatokat ellátó szervtől vagy a Magyar Honvédség állományából áthelyezés előtti alkalmassági vizsgálat” alcím címét és a 26. §-t a 43/2022. (XII. 19.) BM rendelet 119. § 23. pontja hatályon kívül helyezte.

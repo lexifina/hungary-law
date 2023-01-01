@@ -1,8 +1,6 @@
-## 36–38. §[^120]
+38/A. §[^57] (1)[^58] A hivatásos állomány FÜV határozatban megállapított egészségi, pszichikai, fizikai alkalmatlanság miatt nyugállományba helyezett, szolgálati járandóságra jogosult tagja, amennyiben a jogviszony megszüntetésekor a Hszt. 257. §-a szerinti minősítő határozattal rendelkezett, kérelmezheti az alkalmatlanság megállapítását megalapozó baleset, betegség szolgálati kötelmekkel összefüggő jellegének megállapítását.
 
-38/A. §[^121] (1)[^122] A hivatásos állomány FÜV határozatban megállapított egészségi, pszichikai, fizikai alkalmatlanság miatt nyugállományba helyezett, szolgálati járandóságra jogosult tagja, amennyiben a jogviszony megszüntetésekor a Hszt. 257. §-a szerinti minősítő határozattal rendelkezett, kérelmezheti az alkalmatlanság megállapítását megalapozó baleset, betegség szolgálati kötelmekkel összefüggő jellegének megállapítását.
-
-(2)[^123] A kérelmet a nyugállományba helyezés előtti utolsó szolgálai hely vezetőjéhez írásban kell benyújtani. A kérelemnek tartalmaznia kell a hivatásos szolgálati viszonyban töltött idő alatt bekövetkezett, a Hszt. 257. §-a szerinti minősítő határozattal szolgálati kötelmekkel összefüggőnek minősített baleset, betegség rövid leírását, és csatolni kell hozzá a minősítő határozatot.
+(2)[^59] A kérelmet a nyugállományba helyezés előtti utolsó szolgálai hely vezetőjéhez írásban kell benyújtani. A kérelemnek tartalmaznia kell a hivatásos szolgálati viszonyban töltött idő alatt bekövetkezett, a Hszt. 257. §-a szerinti minősítő határozattal szolgálati kötelmekkel összefüggőnek minősített baleset, betegség rövid leírását, és csatolni kell hozzá a minősítő határozatot.
 
 (3) Az illetékes rendvédelmi szerv vezetője a kérelem kézhezvételétől számított 8 munkanapon belül intézkedik a kérelem és mellékletei, valamint az érintett személy teljes egészségügyi dokumentációja, így különösen egészségügyi törzskönyv, FÜV határozat, orvosszakértői bizottság szakvéleménye, kórházi zárójelentés, szakorvosi vizsgálati eredmény FÜV bizottsághoz történő továbbítására.
 
@@ -20,7 +18,6 @@ b) „Az alkalmatlanság megállapítását megalapozó baleset, betegség szolg
 
 (8) A II. fokú FÜV bizottság az I. fokú FÜV bizottság határozatát helybenhagyja, vagy megváltoztatja. A II. fokú FÜV bizottság véleménye ellen nincs helye fellebbezésnek.
 
-[^120]: A 36–38. §-t a 70/2011. (XII. 30.) BM rendelet 36. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 33. § (3) pontját.
-[^121]: A 38/A. §-t a 67/2011. (XII. 30.) BM rendelet 14. §-a iktatta be.
-[^122]: A 38/A. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 43. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^123]: A 38/A. § (2) bekezdése a 37/2015. (VI. 16.) BM rendelet 43. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^57]: A 38/A. §-t a 67/2011. (XII. 30.) BM rendelet 14. §-a iktatta be.
+[^58]: A 38/A. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 43. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^59]: A 38/A. § (2) bekezdése a 37/2015. (VI. 16.) BM rendelet 43. § (2) bekezdés d) pontja szerint módosított szöveg.

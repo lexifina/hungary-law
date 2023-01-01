@@ -1,23 +1,3 @@
-## Az időszakos alkalmassági vizsgálatok
+22. §[^35]
 
-22. § (1)[^71] A szolgálati viszony fennállása alatt a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 106. §-ában meghatározottak szerint az alkalmassági követelményeknek megfelelés rendszeres ellenőrzése érdekében – figyelembe véve a személyek életkori, élettani állapotát – el kell végezni a hivatásos állomány tagja rendszeres időszakos alkalmassági vizsgálatát, ennek keretében
-
-a) évenként egészségi alkalmassági,
-
-b)[^72] kétévenként pszichikai alkalmassági,
-
-c) évenként fizikai alkalmassági
-
-vizsgálatát.
-
-(1a)[^73]
-
-(2)[^74] Ha a hivatásos állomány tagja a Hszt. 86. § (5) bekezdésének alkalmazása során nem hivatásos munkakörben kerül foglalkoztatásra, akkor időszakos alkalmassági vizsgálatát – a nem hivatásos munkakörre tekintettel – a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló a foglalkoztatáspolitikáért felelős miniszter rendeletében foglaltak alapján kell végezni.
-
-(3)[^75] A hivatásos állomány tagja az alkalmassági vizsgálatokon a közvetlen szolgálati elöljáró által meghatározott helyen és időben köteles megjelenni.
-
-[^71]: A 22. § (1) bekezdés nyitó szövegrésze a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 6. § (2) bekezdése, a 37/2015. (VI. 16.) BM rendelet 43. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^72]: A 22. § (1) bekezdés b) pontja az 56. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
-[^73]: A 22. § (1a) bekezdését a 10/2010. (XII. 22.) BM rendelet 3. §-a iktatta be, hatályon kívül helyezte a 45/2020. (XII. 16.) BM rendelet 113. § j) pontja.
-[^74]: A 22. § új (2) bekezdését a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 3. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatta. A 22. § (2) bekezdése a 76/2015. (XII. 22.) BM rendelet 4. §-a szerint módosított szöveg.
-[^75]: A 22. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 3. §-a.
+[^35]: Az „Az időszakos alkalmassági vizsgálatok” alcím címét és a 22. §-t a 43/2022. (XII. 19.) BM rendelet 119. § 21. pontja hatályon kívül helyezte.
