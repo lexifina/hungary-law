@@ -2,7 +2,7 @@
 
 1. melléklet a 19/2021. (X. 29.) SZTFH rendelethez
 
-## A szervező személyi megfelelőségének igazolásához szükséges kérelemhez csatolandó okiratok és egyéb adatok
+A szervező személyi megfelelőségének igazolásához szükséges kérelemhez csatolandó okiratok és egyéb adatok
 
 1. Okiratok
 

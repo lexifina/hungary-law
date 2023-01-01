@@ -1,6 +1,6 @@
 2. melléklet a 19/2021. (X. 29.) SZTFH rendelethez
 
-## A szervező személyi megfelelőségének megállapításáról kiállított hatósági bizonyítvány adattartalma
+A szervező személyi megfelelőségének megállapításáról kiállított hatósági bizonyítvány adattartalma
 
 1. Kiállító hatóság elnevezése.
 

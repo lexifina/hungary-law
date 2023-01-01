@@ -2,6 +2,8 @@
 
 5. § (1) A személyi megfelelőség körében figyelembe vett tény, körülmény változását a szerencsejáték-szervező a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon harminc napon belül bejelenti.
 
-(2) A személyi megfelelőség meghosszabbítására irányuló kérelmet a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon nyújtja be a szerencsejáték-felügyeleti hatósághoz.
+(2)[^2] A személyi megfelelőség meghosszabbítására irányuló kérelmet a szerencsejáték-szervező a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon nyújtja be a szerencsejáték-felügyeleti hatósághoz.
 
 (3) A szervező a személyi megfelelőségének ismételt megállapítására irányuló kérelméhez csatolja a személyi megfelelőség igazolásához szükséges, 1. mellékletben meghatározott okiratokat, valamint a létesítő okiratot, és megadja az 1. mellékletben meghatározott adatokat.
+
+[^2]: Az 5. § (2) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 9. §-a szerint módosított szöveg.
