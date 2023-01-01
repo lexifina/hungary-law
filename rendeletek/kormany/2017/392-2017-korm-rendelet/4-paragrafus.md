@@ -8,7 +8,7 @@ b) a megkülönböztetett védelmet igénylő barlangok esetében ennek a tényn
 
 c) a környezeti ártalmak által közvetlenül veszélyeztetett barlangok esetében a veszélyeztetettség tényének – amelynek fennállásáról az igazgatóság a tudomására jutást követő 8 napon belül köteles meggyőződni – az igazgatóság által történt megállapítását követő 30 napon
 
-## belül kell elkészíteni.
+belül kell elkészíteni.
 
 (3) Az igazgatóság a természeti állapotfelvételt és a kezelési tervet szükség szerint, de legalább tízévente felülvizsgálja.
 

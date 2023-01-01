@@ -1,12 +1,10 @@
-## adatait tartalmazza.
-
 3. § (1) A Nyilvántartás a barlangra vonatkozó, az 1. melléklet szerinti
 
 a) alapadatokból,
 
 b) az alapadatokhoz kapcsolódó mellékletekből
 
-## áll.
+áll.
 
 (2) A Nyilvántartásban szereplő bejegyzések, valamint a barlangok állapotának dokumentálása és a barlangokra vonatkozó intézkedések megalapozása érdekében a miniszter gyűjti:
 
