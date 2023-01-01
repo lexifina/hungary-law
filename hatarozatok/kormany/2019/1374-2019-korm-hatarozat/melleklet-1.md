@@ -4,35 +4,9 @@
 
 ## 3. a Beruházásoknak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés a), b), h), k), n), o) és p) pontja szerinti előkészítési fázisaira – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 471 040 000 forintot biztosít a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy az előkészítési fázisokat legkésőbb 2020. december 31-ig kell megvalósítani;
 
-## 4. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 38. Egyes önkormányzatok csapadékvíz-gazdálkodását segítő beruházások feladatainak támogatása címmel és a 2. mellékletben meghatározott alcímekkel történő kiegészítését;
+## 4.[^1]
 
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## 5. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva, a Beruházások 3. pont szerinti előkészítési fázisainak finanszírozása érdekében – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére a Kvtv. 1. melléklet
-
-## a) IX. Helyi önkormányzatok támogatásai fejezet, 38. Egyes önkormányzatok csapadékvíz-gazdálkodását segítő beruházások feladatainak támogatása cím 2. melléklet szerinti alcímei javára összesen 448 654 000 forint,
-
-## b) XIV. Belügyminisztérium fejezet, 17. Vízügyi Igazgatóságok cím javára összesen 22 386 000 forint
-
-## egyszeri átcsoportosítását rendeli el, a 3. melléklet szerint, elszámolási, valamint a fel nem használt rész tekintetében – a b) alpont esetében a Beruházás Előkészítési Alapba történő – visszafizetési kötelezettséggel;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## Az elszámolás és a fel nem használt rész visszafizetése tekintetében
-
-## Felelős: belügyminiszter
-
-## Határidő: a 9. pont a) alpontja szerinti jelentés tudomásulvételét követő 15 napon belül
+## 5.[^2]
 
 ## 6. a Beruházások helyszíneit, előkészítőit, megvalósítóit, valamint a létrejövő vagyonelemek vagyonkezelőit és üzemeltetőit az 1. mellékletben foglaltak szerint hagyja jóvá;
 
@@ -54,6 +28,8 @@
 
 ## Határidő: 2021. január 31.
 
-1. melléklet az 1374/2019. (VI. 25.) Korm. határozathoz[^1]
+1. melléklet az 1374/2019. (VI. 25.) Korm. határozathoz[^3]
 
-[^1]: Az 1. melléklet az 1625/2021. (IX. 3.) Korm. határozat 2. pontja, az 1914/2021. (XII. 15.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. melléklet az 1625/2021. (IX. 3.) Korm. határozat 2. pontja, az 1914/2021. (XII. 15.) Korm. határozat 4. pontja szerint módosított szöveg.
