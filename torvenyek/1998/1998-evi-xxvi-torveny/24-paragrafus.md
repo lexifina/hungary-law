@@ -2,4 +2,4 @@
 
 ## ORSZÁGOS FOGYATÉKOSÜGYI TANÁCS
 
-24–25. §
+### 24. §

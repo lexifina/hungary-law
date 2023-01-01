@@ -6,7 +6,7 @@
 
 (2) A Program előkészítéséről és annak Országgyűlési határozat tervezet formájában az Országgyűlés elé történő terjesztéséről – a szociálpolitikáért felelős miniszter útján – a Kormány gondoskodik.
 
-(2a) Az Országos Fogyatékosságügyi Tanács részt vesz a Program előkészítésében, és figyelemmel kíséri annak végrehajtását.
+(2a) Az alapvető jogok biztosa a 2007. évi XCII. törvénnyel kihirdetett, a Fogyatékossággal élő személyek jogairól szóló egyezményben meghatározott független mechanizmus érvényesülése érdekében részt vesz a Program előkészítésében, és figyelemmel kíséri annak végrehajtását.
 
 (3) A Program az alábbiakat tartalmazza:
 
