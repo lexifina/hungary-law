@@ -24,12 +24,12 @@ e) az országos belföldi tudakozó szolgáltatás nyújtásához szükséges ad
 
 (4) A kormányzati célú hírközlési szolgáltatást egyéni előfizetőként nem lehet igénybe venni.
 
-(5)[^46]
+(5)[^50]
 
-(6)[^47]
+(6)[^51]
 
-(7)[^48]
+(7)[^52]
 
-[^46]: A 8. § (5) bekezdését a 81/2019. (IV. 18.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
-[^47]: A 8. § (6) bekezdését a 169/2013. (V. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be, hatályon kívül helyezte a 81/2019. (IV. 18.) Korm. rendelet 14. § b) pontja.
-[^48]: A 8. § (7) bekezdését a 169/2013. (V. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be, hatályon kívül helyezte a 81/2019. (IV. 18.) Korm. rendelet 14. § b) pontja.
+[^50]: A 8. § (5) bekezdését a 81/2019. (IV. 18.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
+[^51]: A 8. § (6) bekezdését a 169/2013. (V. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be, hatályon kívül helyezte a 81/2019. (IV. 18.) Korm. rendelet 14. § b) pontja.
+[^52]: A 8. § (7) bekezdését a 169/2013. (V. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be, hatályon kívül helyezte a 81/2019. (IV. 18.) Korm. rendelet 14. § b) pontja.

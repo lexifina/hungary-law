@@ -4,13 +4,13 @@
 
 ## b) A katonai nemzetbiztonsági műveleti hálózat esetében a Katonai Nemzetbiztonsági Szolgálat.
 
-## c)[^143] A honvédelemért felelős miniszter által működtetett Magyar Honvédség Kormányzati Célú Elkülönült Hírközlő Hálózat.
+## c)[^153] A honvédelemért felelős miniszter által működtetett Magyar Honvédség Kormányzati Célú Elkülönült Hírközlő Hálózat.
 
-## d)[^144] A terrorizmust elhárító szerv (Terrorelhárítási Központ) által használt elektronikus hírközlő hálózat esetében a rendészetért felelős miniszter.
+## d)[^154] A terrorizmust elhárító szerv (Terrorelhárítási Központ) által használt elektronikus hírközlő hálózat esetében a rendészetért felelős miniszter.
 
-## e)[^145] A külpolitikáért felelős miniszter által diplomáciai információs célokra használt hálózat esetében a külpolitikáért felelős miniszter.
+## e)[^155] A külpolitikáért felelős miniszter által diplomáciai információs célokra használt hálózat esetében a külpolitikáért felelős miniszter.
 
-3. melléklet a 346/2010. (XII. 28.) Korm. rendelethez[^146]
+3. melléklet a 346/2010. (XII. 28.) Korm. rendelethez[^156]
 
 ## EDR VPN gazda szervezetek és EDR felhasználók
 
@@ -98,7 +98,7 @@ I. Központi finanszírozásúak
 
 | 11.2. |  |
 
-| 11.3. A fővárosi és megyei kormányhivatalban működő közlekedési igazgatási szervezeti egységek. | X |
+| 11.3. A fővárosi és vármegyei kormányhivatalban működő közlekedési igazgatási szervezeti egységek. | X |
 
 | 12. Nemzeti Média- és Hírközlési Hatóság /NMHH VPN/ | X | 12.1. Nemzeti Média- és Hírközlési Hatóság | X |
 
@@ -124,7 +124,7 @@ II. Egyedi finanszírozásúak
 
 | 3. Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság (Paks II. Zrt.-VPN) | X | 3.1. Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság |  |
 
-[^143]: A 2. melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § a) pontja szerint módosított szöveg.
-[^144]: A 2. melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § b) pontja szerint módosított szöveg.
-[^145]: A 2. melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § c) pontja szerint módosított szöveg.
-[^146]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (1) bekezdése, (2) bekezdés a)–b) pontja, a 85/2017. (IV. 10.) Korm. rendelet 5. §-a, a 361/2017. (XI. 30.) Korm. rendelet 1. §-a, a 162/2018. (IX. 10.) Korm. rendelet 16. §-a, a 81/2019. (IV. 18.) Korm. rendelet 13. § d)–e) pontja, a 126/2019. (V. 30.) Korm. rendelet 16. §-a, a 70/2021. (II. 19.) Korm. rendelet 6. §-a, a 717/2021. (XII. 20.) Korm. rendelet 6. § (1)–(2) bekezdése, a 239/2022. (VI. 30.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^153]: A 2. melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § a) pontja szerint módosított szöveg.
+[^154]: A 2. melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § b) pontja szerint módosított szöveg.
+[^155]: A 2. melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § c) pontja szerint módosított szöveg.
+[^156]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (1) bekezdése, (2) bekezdés a)–b) pontja, a 85/2017. (IV. 10.) Korm. rendelet 5. §-a, a 361/2017. (XI. 30.) Korm. rendelet 1. §-a, a 162/2018. (IX. 10.) Korm. rendelet 16. §-a, a 81/2019. (IV. 18.) Korm. rendelet 13. § d)–e) pontja, a 126/2019. (V. 30.) Korm. rendelet 16. §-a, a 70/2021. (II. 19.) Korm. rendelet 6. §-a, a 717/2021. (XII. 20.) Korm. rendelet 6. § (1)–(2) bekezdése, a 239/2022. (VI. 30.) Korm. rendelet 13. §-a, a 409/2022. (X. 24.) Korm. rendelet 10. §-a szerint módosított szöveg.
