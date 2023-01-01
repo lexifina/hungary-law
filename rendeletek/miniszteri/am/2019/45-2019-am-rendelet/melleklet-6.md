@@ -1,6 +1,6 @@
 6. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
-## A ponty, fogassüllő, harcsa, sebes pisztráng, szivárványos pisztráng törzskönyve és tenyésztési főkönyve vezetésének és származási igazolása kiállításának szabályai
+A ponty, fogassüllő, harcsa, sebes pisztráng, szivárványos pisztráng törzskönyve és tenyésztési főkönyve vezetésének és származási igazolása kiállításának szabályai
 
 ## 1 A ponty, fogassüllő, harcsa, sebes pisztráng, szivárványos pisztráng törzskönyve, illetve tenyésztési főkönyve vezetésére vonatkozó követelmények
 

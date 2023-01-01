@@ -1,6 +1,6 @@
 19. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
-## A magyar ebfajta törzskönyve vezetésének és származási igazolása kiállításának szabályai
+A magyar ebfajta törzskönyve vezetésének és származási igazolása kiállításának szabályai
 
 1. A magyar ebfajta törzskönyve vezetésére vonatkozó követelmények
 

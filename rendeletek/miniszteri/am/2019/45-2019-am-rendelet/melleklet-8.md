@@ -1,6 +1,6 @@
 8. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
-## A mesterséges termékenyítő állomás üzemeltetéséhez szükséges tárgyi és műszaki feltételek
+A mesterséges termékenyítő állomás üzemeltetéséhez szükséges tárgyi és műszaki feltételek
 
 1. A mesterséges termékenyítő állomásnak rendelkeznie kell
 

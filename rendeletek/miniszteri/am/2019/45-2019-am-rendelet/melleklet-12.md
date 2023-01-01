@@ -1,6 +1,6 @@
 12. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
-## A spermatételt a forgalmazás során kísérő tanúsítvány adattartalma
+A spermatételt a forgalmazás során kísérő tanúsítvány adattartalma
 
 1. A forgalmazott spermatételt kísérő, a mesterséges termékenyítő állomás vagy a spermatároló központ által kiállított tanúsítványnak legalább a következő adatokat kell tartalmaznia:
 

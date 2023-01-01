@@ -1,6 +1,6 @@
 5. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
-## A keresztezési, illetve hibridizációs programban részt vevő baromfi tenyésztési főkönyve vezetésének és származási igazolása kiállításának szabályai
+A keresztezési, illetve hibridizációs programban részt vevő baromfi tenyésztési főkönyve vezetésének és származási igazolása kiállításának szabályai
 
 1. A keresztezési, illetve hibridizációs programban részt vevő baromfi tenyésztési főkönyve vezetésére vonatkozó követelmények
 

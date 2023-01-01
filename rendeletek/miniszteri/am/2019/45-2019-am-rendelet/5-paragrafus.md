@@ -20,7 +20,7 @@ e) ponty, fogassüllő, harcsa, sebes pisztráng, szivárványos pisztráng tör
 
 f) mézelő méh törzskönyve és származási igazolása esetén a 7. melléklet
 
-## tartalmazza.
+tartalmazza.
 
 (3) Valamennyi állatfaj esetén
 

@@ -1,6 +1,6 @@
 3. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
-## Az önálló névvel elismert keresztezési, illetve hibridizációs programokban részt vevő házi nyúl és csincsilla tenyésztési főkönyve vezetésének és származási igazolása kiállításának szabályai
+Az önálló névvel elismert keresztezési, illetve hibridizációs programokban részt vevő házi nyúl és csincsilla tenyésztési főkönyve vezetésének és származási igazolása kiállításának szabályai
 
 1. Az önálló névvel elismert keresztezési, illetve hibridizációs programokban részt vevő házi nyúl és csincsilla tenyésztési főkönyve vezetésére vonatkozó követelmények
 

@@ -1,6 +1,6 @@
 13. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
-## Az Európai Unió más tagállamába vagy harmadik országba történő szállítás esetén a termelőtelep azonosító számának képzése
+Az Európai Unió más tagállamába vagy harmadik országba történő szállítás esetén a termelőtelep azonosító számának képzése
 
 ## Az Európai Unió más tagállamába vagy harmadik országba történő szállítás esetén a termelőtelep
 

@@ -1,6 +1,6 @@
 10. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
-## Az embrióátültető állomás üzemeltetéséhez tárgyi és műszaki szükséges feltételek
+Az embrióátültető állomás üzemeltetéséhez tárgyi és műszaki szükséges feltételek
 
 1. Az embrióátültető állomásnak olyan berendezésekkel kell rendelkeznie, amelyek alkalmasak az embriók vizsgálatára, előkészítésére, csomagolására, így legalább egy munkaasztallal, egy mikroszkóppal és egy kriotechnikai berendezéssel.
 

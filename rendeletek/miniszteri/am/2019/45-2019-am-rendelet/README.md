@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-45-20-7
 | 2020-02-07 | 2019-45-20-7R.5 | 1/2020. (II. 6.) AM rendelet |
 | 2020-09-28 | 2019-45-20-7R.6 | 46/2020. (IX. 23.) AM rendelet |
 | 2020-12-05 | 2019-45-20-7R.7 | 1/2020. (II. 6.) AM rendelet |
+| 2023-01-01 | 2019-45-20-7R.8 | 46/2020. (IX. 23.) AM rendelet |

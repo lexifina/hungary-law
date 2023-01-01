@@ -1,6 +1,6 @@
 16. melléklet a 45/2019. (IX. 25.) AM rendelethez[^4]
 
-## Védett őshonos és veszélyeztetett mezőgazdasági állatfajták
+Védett őshonos és veszélyeztetett mezőgazdasági állatfajták
 
 1. Védett őshonos mezőgazdasági állatfajták
 

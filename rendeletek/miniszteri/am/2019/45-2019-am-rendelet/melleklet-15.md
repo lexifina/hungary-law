@@ -1,5 +1,3 @@
-## A baromfikeltető állomás ellenőrzéséhez szükséges mintavétel és a minősítés szabályai
-
 ## 1. A keltetésre alkalmas tojás és naposbaromfi tétel, minta és csomagolási egység
 
 ## 1.1. Keltetésre alkalmas tojás és naposbaromfi tételnek minősül az az azonos fajú, fajtájú és egyidejű átadás-átvételre szánt, egy származási igazolással, illetve szállítólevéllel ellátott, csomagolt tojás, vagy ugyanilyen, de egy leszedésből származó naposbaromfi mennyiség.
@@ -60,7 +58,7 @@
 
 15. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
-## A méhanyanevelő telepi napló tartalma
+A méhanyanevelő telepi napló tartalma
 
 1. A méhanyanevelő telepi naplónak legalább az alábbi adatokat kell tartalmaznia:
 

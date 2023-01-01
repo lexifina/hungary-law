@@ -1,6 +1,6 @@
 11. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
-## A spermatároló központ üzemeltetéséhez szükséges tárgyi és műszaki feltételek
+A spermatároló központ üzemeltetéséhez szükséges tárgyi és műszaki feltételek
 
 1. A spermatároló központnak rendelkeznie kell
 

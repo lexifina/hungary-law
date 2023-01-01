@@ -1,6 +1,6 @@
 20. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
-## A magyar ebfajták teljesítményvizsgálati szabályzatára vonatkozó követelmények
+A magyar ebfajták teljesítményvizsgálati szabályzatára vonatkozó követelmények
 
 1. A magyar ebfajták teljesítményvizsgálati szabályzatának összeállításakor a fajta származási országának követelményrendszerét kell figyelembe venni.
 

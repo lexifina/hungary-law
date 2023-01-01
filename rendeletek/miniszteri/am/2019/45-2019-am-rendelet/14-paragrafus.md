@@ -12,6 +12,6 @@ d) a tartási, gondozási, valamint az (1) bekezdésben meghatározott költség
 
 e) a fedeztetési díjak mértéke
 
-## figyelembevételével.
+figyelembevételével.
 
 (3) A (2) bekezdés alapján fizetendő díj a NÉBIH saját bevételének minősül, amelyet az apaállat-gazdálkodás céljára kell fordítani.

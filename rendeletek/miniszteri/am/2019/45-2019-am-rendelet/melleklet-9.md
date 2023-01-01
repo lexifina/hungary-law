@@ -1,6 +1,6 @@
 9. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
-## A mesterséges termékenyítésre használt szarvasmarha és sertés apaállatokra, továbbá azok spermájára vonatkozó követelmények
+A mesterséges termékenyítésre használt szarvasmarha és sertés apaállatokra, továbbá azok spermájára vonatkozó követelmények
 
 1. A mesterséges termékenyítő állomásokra, a mesterséges termékenyítési engedéllyel rendelkező tenyészbikákra és tenyészkanokra vonatkozó állategészségügyi követelmények
 

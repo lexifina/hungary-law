@@ -1,6 +1,6 @@
 2. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
-## A házi nyúl, a csincsilla, az emu és a strucc törzskönyve vezetésének és származási igazolása kiállításának szabályai
+A házi nyúl, a csincsilla, az emu és a strucc törzskönyve vezetésének és származási igazolása kiállításának szabályai
 
 1. A házi nyúl, a csincsilla, az emu és a strucc törzskönyve vezetésére vonatkozó követelmények
 

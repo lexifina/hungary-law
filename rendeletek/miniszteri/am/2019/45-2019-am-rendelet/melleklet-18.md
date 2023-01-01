@@ -1,5 +1,3 @@
-## A tenyésztésbe vont, a törzskönyv fő részébe sorolt nőivarú egyedek száma alapján a védett őshonos mezőgazdasági és a veszélyeztetett mezőgazdasági fajtákra, valamint a magyar ebfajtákra meghatározott fenyegetettségi szintek
-
 |  | A | B | C | D |
 
 | 1. | Mezőgazdasági haszonállat | „kritikus” fenyegetettségi szint egyedszáma | „védendő” fenyegetettségi szint egyedszáma | „megőrzendő” fenyegetettségi szint egyedszáma |
@@ -22,7 +20,7 @@
 
 18. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
-## Magyar ebfajták
+Magyar ebfajták
 
 ## Magyar ebfajtának a következő ebfajták minősülnek:
 

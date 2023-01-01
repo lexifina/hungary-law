@@ -1,6 +1,6 @@
 7. melléklet a 45/2019. (IX. 25.) AM rendelethez
 
-## A mézelő méh törzskönyve vezetésének és származási igazolása kiállításának szabályai
+A mézelő méh törzskönyve vezetésének és származási igazolása kiállításának szabályai
 
 1. A mézelő méh törzskönyve vezetésére vonatkozó követelmények
 

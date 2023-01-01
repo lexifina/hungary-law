@@ -6,7 +6,7 @@ a) valamely tenyésztőszervezet törzskönyvében vagy tenyésztési főkönyv�
 
 b) a szaporítóanyagok behozatalára vonatkozó előírások, és az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusai által megkövetelt dokumentációval rendelkező, az Európai Unió más tagállamából vagy harmadik országból beszállított
 
-## keltető- vagy tenyésztojás használható fel.
+keltető- vagy tenyésztojás használható fel.
 
 (2) A belföldön forgalomba hozott keltető- és tenyésztojásoknak az adott fajta tenyésztési programjában meghatározott jelöléssel kell rendelkezniük, és az egyedi jelölésüket a termelőtelepen kell elvégezni.
 
