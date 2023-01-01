@@ -1,3 +1,3 @@
-9. melléklet a 277/2021. (V. 26.) Korm. rendelethez[^42]
+9. melléklet a 277/2021. (V. 26.) Korm. rendelethez[^41]
 
-[^42]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

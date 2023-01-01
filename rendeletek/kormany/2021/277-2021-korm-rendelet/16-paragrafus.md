@@ -20,7 +20,7 @@
 
 (10)[^25]
 
-(11)[^26]
+(11) Az R1. 38. számú melléklete helyébe a 11. melléklet lép.
 
 [^15]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^16]: A 16. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -33,4 +33,3 @@
 [^23]: A 16. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^24]: A 16. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^25]: A 16. § (10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 16. § (11) bekezdése a 24. § (3) bekezdése alapján 2023. január 1-jén lép hatályba.
