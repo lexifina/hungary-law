@@ -2,100 +2,52 @@
 
 Az ítélőtáblák illetékességi területe
 
-1. FŐVÁROSI ÍTÉLŐTÁBLA
+1. Fővárosi Ítélőtábla
 
-|
+1.1. Budapest főváros
 
-Budapest főváros
+1.2. Nógrád vármegye
 
-|
+1.3. Pest vármegye
 
-Nógrád megye
+2. Szegedi Ítélőtábla
 
-|
+2.1. Csongrád-Csanád vármegye
 
-Pest megye
+2.2. Bács-Kiskun vármegye
 
-2. SZEGEDI ÍTÉLŐTÁBLA
+2.3. Békés vármegye
 
-|
+2.4. Jász-Nagykun-Szolnok vármegye
 
-Csongrád-Csanád megye
+3. Pécsi Ítélőtábla
 
-Jász-Nagykun-Szolnok megye
+3.1. Baranya vármegye
 
-|
+3.2. Somogy vármegye
 
-Bács-Kiskun megye
+3.3. Tolna vármegye
 
-|
+3.4. Zala vármegye
 
-Békés megye
+4. Debreceni Ítélőtábla
 
-3. PÉCSI ÍTÉLŐTÁBLA
+4.1. Hajdú-Bihar vármegye
 
-|
+4.2. Borsod-Abaúj-Zemplén vármegye
 
-Baranya megye
+4.3. Szabolcs-Szatmár-Bereg vármegye
 
-|
+4.4. Heves vármegye
 
-Somogy megye
+5. Győri Ítélőtábla
 
-|
+5.1. Fejér vármegye
 
-Tolna megye
+5.2. Győr-Moson-Sopron vármegye
 
-|
+5.3. Komárom-Esztergom vármegye
 
-Zala megye
+5.4. Vas vármegye
 
-|
-
-|
-
-4. DEBRECENI ÍTÉLŐTÁBLA
-
-|
-
-Hajdú-Bihar megye
-
-|
-
-Borsod-Abaúj-Zemplén megye
-
-|
-
-Szabolcs-Szatmár-Bereg megye
-
-|
-
-Heves megye
-
-|
-
-|
-
-5. GYŐRI ÍTÉLŐTÁBLA
-
-|
-
-Fejér megye
-
-|
-
-Győr-Moson-Sopron megye
-
-|
-
-Komárom-Esztergom megye
-
-|
-
-Vas megye
-
-|
-
-Veszprém megye
-
-|
+5.5. Veszprém vármegye

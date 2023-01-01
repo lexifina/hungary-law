@@ -2,100 +2,52 @@
 
 A törvényszékek katonai tanácsai és illetékességi területük
 
-1. FŐVÁROSI TÖRVÉNYSZÉK KATONAI TANÁCSA
+1. Fővárosi Törvényszék Katonai Tanácsa
 
-|
+1.1. Budapest főváros
 
-Budapest főváros
+1.2. Fejér vármegye
 
-|
+1.3. Heves vármegye
 
-Fejér megye
+1.4. Jász-Nagykun-Szolnok vármegye
 
-|
+1.5. Komárom-Esztergom vármegye
 
-Heves megye
+1.6. Nógrád vármegye
 
-|
+1.7. Pest vármegye
 
-Jász-Nagykun-Szolnok megye
+2. Szegedi Törvényszék Katonai Tanácsa
 
-|
+2.1. Bács-Kiskun vármegye
 
-Komárom-Esztergom megye
+2.2. Békés vármegye
 
-|
+2.3. Csongrád-Csanád vármegye
 
-Nógrád megye
+3. Győri Törvényszék Katonai Tanácsa
 
-|
+3.1. Győr-Moson-Sopron vármegye
 
-Pest megye
+3.2. Vas vármegye
 
-|
+3.3. Veszprém vármegye
 
-|
+4. Debreceni Törvényszék Katonai Tanácsa
 
-2. SZEGEDI TÖRVÉNYSZÉK KATONAI TANÁCSA
+4.1. Borsod-Abaúj-Zemplén vármegye
 
-|
+4.2. Hajdú-Bihar vármegye
 
-Bács-Kiskun megye
+4.3. Szabolcs-Szatmár-Bereg vármegye
 
-|
+5. Kaposvári Törvényszék Katonai Tanácsa
 
-Békés megye
+5.1. Baranya vármegye
 
-|
+5.2. Somogy vármegye
 
-Csongrád-Csanád megye
+5.3. Tolna vármegye
 
-3. GYŐRI TÖRVÉNYSZÉK KATONAI TANÁCSA
-
-|
-
-Győr-Moson-Sopron megye
-
-|
-
-Vas megye
-
-|
-
-Veszprém megye
-
-4. DEBRECENI TÖRVÉNYSZÉK KATONAI TANÁCSA
-
-|
-
-Borsod-Abaúj-Zemplén megye
-
-|
-
-Hajdú-Bihar megye
-
-|
-
-Szabolcs-Szatmár-Bereg megye
-
-5. KAPOSVÁRI TÖRVÉNYSZÉK KATONAI TANÁCSA
-
-|
-
-Baranya megye
-
-|
-
-Somogy megye
-
-|
-
-Tolna megye
-
-|
-
-Zala megye
-
-|
-
-|
+5.4. Zala vármegye
