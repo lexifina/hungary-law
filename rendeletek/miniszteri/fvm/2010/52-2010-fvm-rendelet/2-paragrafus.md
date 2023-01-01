@@ -20,21 +20,21 @@
 
 10. Végső fogyasztó: a 178/2002/EK rendelet 3. cikkének 18. pontja szerint végső fogyasztónak minősülő fogyasztó;
 
-11.[^5] Régión belüli: a kistermelő gazdaságának helye, illetve – a 3. § (3) bekezdésének rendelkezését figyelembe véve – a termék-előállítás helye szerinti megyében lévő, valamint budapesti;
+11.[^6] Régión belüli: a kistermelő gazdaságának helye, illetve – a 3. § (3) bekezdésének rendelkezését figyelembe véve – a termék-előállítás helye szerinti vármegyében lévő, valamint budapesti;
 
-12.[^6] Gazdaság helye: az élelmiszer-termelő állat tartásával és az élelmezés céljára termesztett növények termesztésével összefüggő gazdasági udvar, illetve a termék előállítás helye;
+12.[^7] Gazdaság helye: az élelmiszer-termelő állat tartásával és az élelmezés céljára termesztett növények termesztésével összefüggő gazdasági udvar, illetve a termék előállítás helye;
 
-13.[^7] Falusi vendégasztal: falusias, tanyasias vagy vidéki környezetben a házi élelmiszerekhez és gasztronómiai hagyományokhoz kapcsolódó tevékenységek bemutatása, és az elkészített élelmiszerek felkínálása helyben fogyasztásra a gazdaság helyén;
+13.[^8] Falusi vendégasztal: falusias, tanyasias vagy vidéki környezetben a házi élelmiszerekhez és gasztronómiai hagyományokhoz kapcsolódó tevékenységek bemutatása, és az elkészített élelmiszerek felkínálása helyben fogyasztásra a gazdaság helyén;
 
-14.[^8] Rendezvény: a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet (a továbbiakban: 210/2009. (IX. 29.) Korm. rendelet) 28. §-ának a) pontja szerinti fogalom;
+14.[^9] Rendezvény: a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet (a továbbiakban: 210/2009. (IX. 29.) Korm. rendelet) 28. §-ának a) pontja szerinti fogalom;
 
-15.[^9] Biztonságos hőkezelés: az a hőkezelési eljárás (sütés, főzés), amely legalább 2 percen át tartó 72 °C-os maghőmérsékletet, vagy az étel minden pontján legalább 75 °C-t biztosít.
+15.[^10] Biztonságos hőkezelés: az a hőkezelési eljárás (sütés, főzés), amely legalább 2 percen át tartó 72 °C-os maghőmérsékletet, vagy az étel minden pontján legalább 75 °C-t biztosít.
 
-16.[^10] Engedélyezett ideiglenes árusító hely: olyan időszakos árusító hely, amelynek működését a terület használatára jogosult engedélyezte.
+16.[^11] Engedélyezett ideiglenes árusító hely: olyan időszakos árusító hely, amelynek működését a terület használatára jogosult engedélyezte.
 
-[^5]: A 2. § 11. pontja a 4/2010. (VII. 5.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § 12. pontja a 4/2010. (VII. 5.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § 13. pontja a 4/2010. (VII. 5.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^8]: A 2. § 14. pontja a 42/2017. (VIII. 17.) FM rendelet 156. § a) pontja szerint módosított szöveg.
-[^9]: A 2. § 15. pontját a 4/2010. (VII. 5.) VM rendelet 2. § (2) bekezdése iktatta be.
-[^10]: A 2. § 16. pontját a 20/2021. (V. 17.) AM rendelet 15. § (1) bekezdése iktatta be.
+[^6]: A 2. § 11. pontja a 4/2010. (VII. 5.) VM rendelet 2. § (1) bekezdésével megállapított, a 122/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
+[^7]: A 2. § 12. pontja a 4/2010. (VII. 5.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § 13. pontja a 4/2010. (VII. 5.) VM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § 14. pontja a 42/2017. (VIII. 17.) FM rendelet 156. § a) pontja szerint módosított szöveg.
+[^10]: A 2. § 15. pontját a 4/2010. (VII. 5.) VM rendelet 2. § (2) bekezdése iktatta be.
+[^11]: A 2. § 16. pontját a 20/2021. (V. 17.) AM rendelet 15. § (1) bekezdése iktatta be.

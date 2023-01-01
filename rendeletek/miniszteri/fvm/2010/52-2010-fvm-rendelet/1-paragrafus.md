@@ -1,10 +1,10 @@
-1. §[^1] (1) E rendeletet azon tevékenységekre kell alkalmazni, amelynek során a kistermelő
+1. §[^2] (1) E rendeletet azon tevékenységekre kell alkalmazni, amelynek során a kistermelő
 
-a)[^2] az 1. melléklet A. része szerinti kis mennyiségű, általa megtermelt alaptermékkel vagy általa betakarított, összegyűjtött vadon termő alaptermékkel közvetlenül a végső fogyasztót, illetve a régión belüli vagy a gazdaság helyétől légvonalban számítva legfeljebb 40 km távolságon belüli kiskereskedelmi vagy vendéglátó, illetve közétkeztetési létesítményt (a továbbiakban együtt: vendéglátó létesítmény) látja el,
+a)[^3] az 1. melléklet A. része szerinti kis mennyiségű, általa megtermelt alaptermékkel vagy általa betakarított, összegyűjtött vadon termő alaptermékkel közvetlenül a végső fogyasztót, illetve a régión belüli vagy a gazdaság helyétől légvonalban számítva legfeljebb 40 km távolságon belüli kiskereskedelmi vagy vendéglátó, illetve közétkeztetési létesítményt (a továbbiakban együtt: vendéglátó létesítmény) látja el,
 
-b)[^3] az 1. melléklet A. része szerinti kis mennyiségű, általa megtermelt alaptermékből előállított élelmiszerrel közvetlenül a végső fogyasztót, illetve a régión belüli vagy a gazdaság helyétől légvonalban számítva legfeljebb 40 km távolságon belüli kiskereskedelmi vagy vendéglátó létesítményt látja el,
+b)[^4] az 1. melléklet A. része szerinti kis mennyiségű, általa megtermelt alaptermékből előállított élelmiszerrel közvetlenül a végső fogyasztót, illetve a régión belüli vagy a gazdaság helyétől légvonalban számítva legfeljebb 40 km távolságon belüli kiskereskedelmi vagy vendéglátó létesítményt látja el,
 
-c)[^4] az 1. melléklet A. része szerinti kis mennyiségű, általa jogszerűen kifogott hallal, közvetlenül a végső fogyasztót, illetve a régión belüli vagy a gazdaság helyétől légvonalban számítva legfeljebb 40 km távolságon belüli kiskereskedelmi vagy vendéglátó létesítményt látja el,
+c)[^5] az 1. melléklet A. része szerinti kis mennyiségű, általa jogszerűen kifogott hallal, közvetlenül a végső fogyasztót, illetve a régión belüli vagy a gazdaság helyétől légvonalban számítva legfeljebb 40 km távolságon belüli kiskereskedelmi vagy vendéglátó létesítményt látja el,
 
 d) falusi vendégasztalt üzemeltet,
 
@@ -14,7 +14,7 @@ e) az 1. melléklet B. részében meghatározott szolgáltatásokat végez magá
 
 (3) A rendeletet nem kell alkalmazni az élelmiszerek magánháztartásban és saját fogyasztásra történő termelése és előállítása során.
 
-[^1]: Az 1. § a 4/2010. (VII. 5.) VM rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés a) pontja a 20/2021. (V. 17.) AM rendelet 15. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (1) bekezdés b) pontja a 20/2021. (V. 17.) AM rendelet 15. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^4]: Az 1. § (1) bekezdés c) pontja a 20/2021. (V. 17.) AM rendelet 15. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^2]: Az 1. § a 4/2010. (VII. 5.) VM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés a) pontja a 20/2021. (V. 17.) AM rendelet 15. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (1) bekezdés b) pontja a 20/2021. (V. 17.) AM rendelet 15. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (1) bekezdés c) pontja a 20/2021. (V. 17.) AM rendelet 15. § (3) bekezdés a) pontja szerint módosított szöveg.

@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-52-20-8
 | 2017-07-01 | 2010-52-20-82.10 | 4/2010. (VII. 5.) VM rendelet |
 | 2017-08-18 | 2010-52-20-82.11 | 42/2017. (VIII. 17.) FM rendelet |
 | 2021-05-22 | 2010-52-20-82.12 | 20/2021. (V. 17.) AM rendelet |
+| 2023-01-01 | 2010-52-20-82.13 | 60/2023. (XI. 15.) AM rendelet |

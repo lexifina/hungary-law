@@ -37,3 +37,5 @@
 | állatorvos |
 
 4. melléklet az 52/2010. (IV. 30.) FVM rendelethez
+
+Kis mennyiségű alaptermék termelésre és az ahhoz kapcsolódó műveletekre vonatkozó előírások
