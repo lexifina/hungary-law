@@ -6,7 +6,7 @@
 
 (2) A Kamara feladatait:
 
-a) a megyékben és a fővárosban működő területi szervezetei (a továbbiakban: területi szervezet), valamint
+a) a vármegyékben és a fővárosban működő területi szervezetei (a továbbiakban: területi szervezet), valamint
 
 b) országos szervezete
 
