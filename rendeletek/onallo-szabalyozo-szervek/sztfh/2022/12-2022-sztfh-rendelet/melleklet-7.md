@@ -1,6 +1,6 @@
 7. melléklet a 12/2022. (I. 28.) SZTFH rendelethez
 
-## Építési tevékenység megkezdésére, illetve az adatok változására vonatkozó bejelentés adattartalma
+Építési tevékenység megkezdésére, illetve az adatok változására vonatkozó bejelentés adattartalma
 
 1. A bejelentés jogcíme (bejelentés vagy adatváltozás).
 

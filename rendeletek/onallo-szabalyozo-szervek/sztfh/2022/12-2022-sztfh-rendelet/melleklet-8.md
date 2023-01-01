@@ -1,6 +1,6 @@
 8. melléklet a 12/2022. (I. 28.) SZTFH rendelethez
 
-## A 3. melléklet 2. pontjában meghatározott építési tevékenység befejezésére vonatkozó bejelentés adattartalma
+A 3. melléklet 2. pontjában meghatározott építési tevékenység befejezésére vonatkozó bejelentés adattartalma
 
 1. Az építtető megnevezése.
 

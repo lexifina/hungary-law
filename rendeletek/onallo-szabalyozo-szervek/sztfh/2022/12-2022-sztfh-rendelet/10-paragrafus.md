@@ -6,4 +6,6 @@
 
 (3) A bontási és rendeltetésmegváltoztatási engedély két évig hatályos. A bontási és rendeltetésmegváltoztatási engedély a hatályossága alatt a hatályának lejárta előtt előterjesztett kérelemre egy alkalommal egy évvel meghosszabbítható, ha az engedély megadásakor fennálló szabályok vagy kötelező hatósági előírások nem módosultak, vagy ha a módosítások az engedély tartalmát nem érintik.
 
-(4) A végleges használatbavételi vagy fennmaradási engedély határozatlan ideig hatályos.
+(4)[^6] A végleges használatbavételi vagy fennmaradási engedély határozatlan ideig hatályos. A használatbavételi engedély hatályát veszti, ha a sajátos építmény bontását megkezdik.
+
+[^6]: A 10. § (4) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 27. § a) pontja szerint módosított szöveg.

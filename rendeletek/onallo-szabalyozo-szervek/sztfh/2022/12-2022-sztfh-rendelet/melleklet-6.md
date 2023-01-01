@@ -1,6 +1,6 @@
 6. melléklet a 12/2022. (I. 28.) SZTFH rendelethez
 
-## A bejelentés adattartalma
+A bejelentés adattartalma
 
 1. Adószámmal rendelkező építtető esetében az építtető adószáma.
 

@@ -1,6 +1,6 @@
 1. melléklet a 12/2022. (I. 28.) SZTFH rendelethez
 
-## A bányafelügyelet építésügyi hatósági engedélyéhez kötött sajátos építmények
+A bányafelügyelet építésügyi hatósági engedélyéhez kötött sajátos építmények
 
 1. A szilárdásvány-bányászat területén a terület-igénybevétellel járó bányászati sajátos építmények:
 

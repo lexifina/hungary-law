@@ -6,7 +6,7 @@ a) a bányafelügyelet engedélyéhez kötött építési tevékenység esetébe
 
 b) bejelentéshez kötött építési tevékenység esetében a bejelentésre
 
-## vonatkozó szabályokat kell alkalmazni a (2) és (3) bekezdésben foglalt eltérésekkel.
+vonatkozó szabályokat kell alkalmazni a (2) és (3) bekezdésben foglalt eltérésekkel.
 
 (2) A bányafelügyelet az engedélyt megadja, ha
 

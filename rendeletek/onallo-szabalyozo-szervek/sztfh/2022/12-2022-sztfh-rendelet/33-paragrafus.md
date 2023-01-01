@@ -4,4 +4,6 @@
 
 (2) Az (1) bekezdésben meghatározott építési tevékenység a bejelentés megtételétől számított egy évig folytatható.
 
-(3) Az építtető haladéktalanul köteles bejelenteni a bányafelügyeletnek az (1) bekezdésben meghatározott építési tevékenység befejezését.
+(3)[^8]
+
+[^8]: A 33. § (3) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 28. § d) pontja hatályon kívül helyezte.

@@ -16,6 +16,6 @@ b) módosított műszaki tervrészletet,
 
 c) a műszaki leírás változása esetén módosított műszaki leírást
 
-## kell mellékelni.
+kell mellékelni.
 
 (3) A bányafelügyelet teljes körű műszaki tervdokumentáció elkészítésére kötelezi az építtetőt, ha a tervezett módosítás az engedélyezett műszaki tervdokumentáció több részletére terjed ki.

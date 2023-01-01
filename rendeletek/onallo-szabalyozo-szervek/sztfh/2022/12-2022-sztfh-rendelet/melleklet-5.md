@@ -104,7 +104,7 @@
 
 5. melléklet a 12/2022. (I. 28.) SZTFH rendelethez
 
-## A szakhatósági megkereséshez csatolandó műszaki dokumentáció tartalmi követelményei
+A szakhatósági megkereséshez csatolandó műszaki dokumentáció tartalmi követelményei
 
 1. Adószámmal rendelkező építtető esetében az építtető adószáma.
 

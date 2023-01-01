@@ -1,5 +1,3 @@
-## 1. § A rendelet hatálya az 1–3. mellékletben felsorolt sajátos építmény (a továbbiakban: sajátos építmény) építésügyi hatósági eljárására és az annak lefolytatásához szükséges műszaki dokumentáció tartalmi követelményeire, valamint a sajátos építmény építésügyi hatósági ellenőrzésére és kötelezési eljárásaira terjed ki.
-
 ## 2. Értelmező rendelkezések
 
 ## 2. § E rendelet alkalmazásában
