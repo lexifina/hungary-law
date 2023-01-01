@@ -26,7 +26,7 @@ f)[^48] a 2. § (8d) bekezdésében foglalt támogatások igénybevételének jo
 
 g)[^49] a 2. § (8e) bekezdése szerinti kamattámogatás igénybevétele esetén a hitelkérelméhez kapcsolódóan csatolja
 
-ga)[^50] a földművelésügyi igazgatási hatáskörben eljáró megyei kormányhivatalnak a 2022. évi aszálykárra vonatkozó igazolását vagy
+ga)[^50] a földművelésügyi igazgatási hatáskörben eljáró vármegyei kormányhivatalnak a 2022. évi aszálykárra vonatkozó igazolását vagy
 
 gb) az igénylőlap benyújtását megelőző fél évnél nem régebbi kiállítási dátumú, a TIR-ben elérhető, 1350 számú Tenyészet Igazoló Lap másolati példányát, és nyilatkozik arról, hogy a kérelem benyújtásakor az azon szereplő adatok a valóságnak megfelelnek.
 
@@ -40,5 +40,5 @@ gb) az igénylőlap benyújtását megelőző fél évnél nem régebbi kiállí
 [^47]: A 4. § (1) bekezdés e) pontja a 49/2021. (XII. 28.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^48]: A 4. § (1) bekezdés f) pontja a 49/2021. (XII. 28.) AM rendelet 3. § (2) bekezdése iktatta be.
 [^49]: A 4. § (1) bekezdés g) pontját a 34/2022. (X. 28.) AM rendelet 2. §-a iktatta be.
-[^50]: A 4. § (1) bekezdés g) pont ga) alpontja a 161/2022. (XII. 27.) AM rendelet 2. § b) pont ba) alpontja szerint módosított szöveg.
+[^50]: A 4. § (1) bekezdés g) pont ga) alpontja a 161/2022. (XII. 27.) AM rendelet 2. § b) pont ba) és bb) alpontja szerint módosított szöveg.
 [^51]: A 4. § (2) bekezdése a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése, a 34/2022. (X. 28.) AM rendelet 5. § d) pontja szerint módosított szöveg.
