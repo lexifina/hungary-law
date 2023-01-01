@@ -1,0 +1,3 @@
+## 1. A Minősített Közösségi Színtér Cím, a Minősített Közművelődési Intézmény Cím és a Közművelődési Minőség Díj
+
+1. § A kultúráért felelős miniszter (a továbbiakban: miniszter) Minősített Közösségi Színtér Címet, Minősített Közművelődési Intézmény Címet (a továbbiakban együtt: Cím) adományoz azoknak a közösségi színtereknek és közművelődési intézményeknek (a továbbiakban együtt: közművelődési szervezetek), valamint Közművelődési Minőség Díjat (a továbbiakban: Díj) adományoz azoknak a közművelődési intézményeknek (a továbbiakban: intézmény), amelyek a közművelődés minőségfejlesztésének alkalmazásával kiemelkedő teljesítményt értek el.
