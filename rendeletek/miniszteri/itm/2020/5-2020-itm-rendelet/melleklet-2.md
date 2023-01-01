@@ -1,4 +1,4 @@
-2. melléklet az 5/2020. (II. 6.) ITM rendelethez
+2. melléklet az 5/2020. (II. 6.) ITM rendelethez[^14]
 
 ## Szálló- és rostszerkezetű porok koncentrációi mg/m3-ben
 
@@ -16,7 +16,7 @@
 
 | 5. | Tridimit |  | 0,1 | EU6 |
 
-| 6. | Keményfaporok | 3 |  | EU6 |
+| 6. | Keményfaporok | 2 |  | EU6 |
 
 | 7. | Pamut, gyapot (nyers) | 1,5 |  |  |
 
@@ -61,3 +61,5 @@
 |  | 10. | Különleges alkalmazásra szánt rostüveg – mikroszálak (E-üveg mikroszálak) | 0,3 | k(1B) |  | T |
 
 |  | 11. | Tűzálló kerámia rostok (Refrakter kerámia rostok – RCF) | 0,3 | k(1B) | EU6 | T |
+
+[^14]: A 2. melléklet a 6/2020. (II. 7.) ITM rendelet 12. § c) pontja szerint módosított szöveg.

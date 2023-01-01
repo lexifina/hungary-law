@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-5-20-7Q
 | 2020-02-07 | 2020-5-20-7Q.1 | 5/2020. (II. 6.) ITM rendelet |
 | 2020-02-08 | 2020-5-20-7Q.2 | 2010: CXXX. törvény |
 | 2021-07-27 | 2020-5-20-7Q.3 | 32/2021. (VII. 26.) ITM rendelet |
+| 2023-01-01 | 2020-5-20-7Q.4 | 6/2020. (II. 7.) ITM rendelet |

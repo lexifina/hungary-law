@@ -1,4 +1,4 @@
-7. melléklet az 5/2020. (II. 6.) ITM rendelethez[^15]
+7. melléklet az 5/2020. (II. 6.) ITM rendelethez[^16]
 
 ## Az egészségügyi ágazat, a temetkezés és balzsamozás területén a formaldehid expozíciója
 
@@ -28,4 +28,4 @@
 
 | 7. | T | Azok az anyagok, amelyek egészségkárosító hatása TARTÓS expozíciót követően jelentkezik. |
 
-[^15]: A 7. mellékletet a 32/2021. (VII. 26.) ITM rendelet 23. §-a iktatta be.
+[^16]: A 7. mellékletet a 32/2021. (VII. 26.) ITM rendelet 23. §-a iktatta be.
