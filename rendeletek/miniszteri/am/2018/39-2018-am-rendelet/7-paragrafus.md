@@ -1,4 +1,4 @@
-7. § (1) A teljes negyedévre vonatkozó támogatás kifizetése iránti kérelmet az ügyfél egy alkalommal, a Kincstár által a (2) bekezdésben meghatározott adattartalommal rendszeresített és a Kincstár honlapján közleményben közzétett nyomtatványon a negyedévet követő hónap utolsó napjáig nyújthatja be a jogosult lakóhelye vagy székhelye szerint illetékes megyei kormányhivatalhoz. A kifizetési kérelem benyújtására nyitva álló időszakot a sertéseknek a számlán, felvásárlási jegyen vagy belső bizonylaton feltüntetett értékesítési időpontja, ennek hiányában a számla, felvásárlási jegy vagy belső bizonylat teljesítésének időpontja határozza meg.
+7. § (1)[^4] A teljes negyedévre vonatkozó támogatás kifizetése iránti kérelmet az ügyfél egy alkalommal, a Kincstár által a (2) bekezdésben meghatározott adattartalommal rendszeresített és a Kincstár honlapján közleményben közzétett nyomtatványon a negyedévet követő hónap utolsó napjáig nyújthatja be a jogosult lakóhelye vagy székhelye szerint illetékes vármegyei kormányhivatalhoz. A kifizetési kérelem benyújtására nyitva álló időszakot a sertéseknek a számlán, felvásárlási jegyen vagy belső bizonylaton feltüntetett értékesítési időpontja, ennek hiányában a számla, felvásárlási jegy vagy belső bizonylat teljesítésének időpontja határozza meg.
 
 (2) Az igénylő kifizetési kérelme az alábbi adatokat tartalmazza:
 
@@ -41,3 +41,5 @@ dc) az ügyfél a támogatási igénnyel érintett tevékenységre vonatkozóan 
 e) az állattartó telep fekvése szerint illetékes járási hivatalnak az állategészségügyi nyilvántartási kötelezettségek igénylő általi teljesítéséről szóló igazolását, és
 
 f) az állattartó telep fekvése szerint illetékes járási hivatalnak az állategészségügyi és állatvédelmi szabályok igénylő általi betartásáról szóló, igazolását.
+
+[^4]: A 7. § (1) bekezdése a 151/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.

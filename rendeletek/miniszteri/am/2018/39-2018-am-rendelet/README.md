@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-39-20-7
 | 2022-01-01 | 2018-39-20-7R.11 | 18/2021. (IV. 14.) AM rendelet |
 | 2022-09-01 | 2018-39-20-7R.12 | 26/2022. (VIII. 31.) AM rendelet |
 | 2022-12-28 | 2018-39-20-7R.13 | 158/2022. (XII. 27.) AM rendelet |
+| 2023-01-01 | 2018-39-20-7R.14 | 151/2022. (XII. 27.) AM rendelet |

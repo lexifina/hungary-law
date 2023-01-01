@@ -1,4 +1,4 @@
-6. § (1) A támogatási kérelmet a 4. §-ban meghatározott feltételeknek megfelelő igénylő a támogatási évet megelőző év december 15-től december 31-ig a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és a honlapján közzétett, a (2) bekezdés szerinti adattartalmú nyomtatványon nyújthatja be a lakóhelye vagy székhelye szerint illetékes megyei kormányhivatalhoz.
+6. § (1)[^3] A támogatási kérelmet a 4. §-ban meghatározott feltételeknek megfelelő igénylő a támogatási évet megelőző év december 15-től december 31-ig a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és a honlapján közzétett, a (2) bekezdés szerinti adattartalmú nyomtatványon nyújthatja be a lakóhelye vagy székhelye szerint illetékes vármegyei kormányhivatalhoz.
 
 (2) Az igénylő támogatási kérelme az alábbi adatokat és dokumentumokat tartalmazza:
 
@@ -33,3 +33,5 @@ b) az állattartó telep fekvése szerint illetékes járási hivatal igazolás�
 (8) A Kincstár a támogatási kérelemről az ott megjelölt, tervezett állatlétszám alapján jóváhagyott állatlétszámra vonatkozóan hoz döntést.
 
 (9) A támogatási évben az (1) bekezdés szerinti támogatási kérelemben megjelölt sertések vonatkozásában a támogatási kérelem benyújtása előtt megkezdett tevékenység nem támogatható.
+
+[^3]: A 6. § (1) bekezdése a 151/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.

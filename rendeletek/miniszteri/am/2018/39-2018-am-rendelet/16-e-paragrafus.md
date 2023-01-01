@@ -1,10 +1,10 @@
-## 3b.[^10] Válságtámogatás
+## 3b.[^12] Válságtámogatás
 
-16/E. § (1)[^11] Az igénylő a 14. § (1) bekezdés a) és b) pontja szerinti állatjóléti intézkedések tekintetében a 2022. támogatási év II., III. és IV. tárgynegyedévére, valamint a 2023. támogatási év I., II. és III. tárgynegyedévére – a 14. § (1) bekezdésében foglaltaktól eltérően – kizárólag az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatás (a továbbiakban: válságtámogatás) igénybevételére jogosult.
+16/E. § (1)[^13] Az igénylő a 14. § (1) bekezdés a) és b) pontja szerinti állatjóléti intézkedések tekintetében a 2022. támogatási év II., III. és IV. tárgynegyedévére, valamint a 2023. támogatási év I., II. és III. tárgynegyedévére – a 14. § (1) bekezdésében foglaltaktól eltérően – kizárólag az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatás (a továbbiakban: válságtámogatás) igénybevételére jogosult.
 
 (2) A válságtámogatás iránti kérelem a 2022. támogatási év II. negyedéve tekintetében 2022. szeptember 7. és 21. között, a 2022. támogatási év III. negyedéve tekintetében 2022. október 1. és 31. között ügyfélkapus azonosítást követően, az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Kincstárhoz a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
-(2a)[^12] A válságtámogatás iránti kérelem
+(2a)[^14] A válságtámogatás iránti kérelem
 
 a) a 2022. támogatási év IV. negyedéve tekintetében 2023. január 15. és február 15. között,
 
@@ -40,6 +40,6 @@ bd) arról, hogy a gazdasági nehézsége összefüggésben áll az Oroszország
 
 (8) A válságtámogatás iránti kérelem legkésőbb a (2) bekezdésben meghatározott benyújtási határidő végéig az elektronikus űrlapkitöltő felületen keresztül módosítható. Módosítás esetén az utolsó válságtámogatás iránti kérelmet kell elbírálni. A válságtámogatás iránti kérelem benyújtásának időpontja az utolsó módosító kérelem benyújtásának időpontja.
 
-[^10]: A 3b. alcímet (16/E–16/F. §) a 26/2022. (VIII. 31.) AM rendelet 18. §-a iktatta be.
-[^11]: A 16/E. § (1) bekezdése a 158/2022. (XII. 27.) AM rendelet 16. §-a szerint módosított szöveg.
-[^12]: A 16/E. § (2a) bekezdését a 158/2022. (XII. 27.) AM rendelet 14. §-a iktatta be.
+[^12]: A 3b. alcímet (16/E–16/F. §) a 26/2022. (VIII. 31.) AM rendelet 18. §-a iktatta be.
+[^13]: A 16/E. § (1) bekezdése a 158/2022. (XII. 27.) AM rendelet 16. §-a szerint módosított szöveg.
+[^14]: A 16/E. § (2a) bekezdését a 158/2022. (XII. 27.) AM rendelet 14. §-a iktatta be.
