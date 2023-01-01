@@ -1,0 +1,3 @@
+2/A. §[^4] A gépjárművek kötelező felelősségbiztosítása alapján az 1991. július 1. napja előtt bekövetkezett káreseményekkel kapcsolatban az államot terhelő, forintban megállapított keresetpótló baleseti kártérítési járadékok, valamint a forintban megállapított költségpótló baleseti kártérítési járadékok 2023. január 1-jétől kezdődő jogosultsági időszakokra esedékes összegei – a 2022. december hónapra esedékes járadékösszeghez képest – a nyugellátások és egyes más ellátások 2023. január havi emeléséről szóló kormányrendeletben meghatározott nyugdíjemeléssel megegyező mértékben emelkednek.
+
+[^4]: A 2/A. §-t a 40/2012. (XII. 20.) NGM rendelet 1. §-a iktatta be, szövege a 24/2022. (XII. 28.) PM rendelet 1. §-ával megállapított szöveg.
