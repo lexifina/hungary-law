@@ -4,7 +4,7 @@
 
 a) bejegyzés a közjegyzőhelyettesek és közjegyzőjelöltek kamarai névjegyzékébe, törlés e névjegyzékekből, kivéve, ha a törlésre a közjegyzői fegyelmi bíróságnak a 72. § (2) bekezdésnek e) pontja szerinti jogerős határozata alapján kerül sor,
 
-b) a közjegyzői iroda alapítási engedélyének megadása iránti eljárás,
+b) a közjegyzői iroda alapítási engedélyének, a tagság létesítése iránti engedélynek a megadása, valamint ezen engedélyek visszavonása iránti eljárás,
 
 c) felvétel a közjegyzői irodák kamarai nyilvántartásába, törlés a nyilvántartásból, kivéve, ha a törlésre a cégbíróságnak a közjegyzői irodát a cégjegyzékből törlő jogerős határozata alapján kerül sor, valamint
 

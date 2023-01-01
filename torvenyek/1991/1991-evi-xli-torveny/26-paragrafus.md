@@ -6,7 +6,7 @@ b) büntetlen előéletű,
 
 c) olyan okleveles jogász szakképzettséggel rendelkezik, amely a jogi szakvizsga előfeltételének megfelel, és
 
-d) igazolja, hogy a kamara területén működő közjegyzővel közjegyzőjelölti munkakör betöltésére munkaszerződést kötött,
+d) igazolja, hogy a kamara területén működő közjegyző közjegyzői irodájával közjegyzőjelölti munkakör betöltésére munkaszerződést kötött,
 
 e) nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt.
 

@@ -6,6 +6,6 @@ b) az Európai Unió valamely tagállamának, az Európai Gazdasági Térségrő
 
 c) büntetlen előéletű,
 
-d) igazolja, hogy a kamara területén működő közjegyzővel közjegyzői irodai ügyintézői munkakör betöltésére munkaszerződést kötött, és
+d) igazolja, hogy a kamara területén működő közjegyző közjegyzői irodájával közjegyzői irodai ügyintézői munkakör betöltésére munkaszerződést kötött, és
 
 e) nem áll cselekvőképességet érintő gondnokság vagy támogatott döntéshozatal hatálya alatt.

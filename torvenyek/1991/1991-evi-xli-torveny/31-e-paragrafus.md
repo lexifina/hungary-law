@@ -4,4 +4,6 @@
 
 (3) A közjegyzői iroda üzletszerű gazdasági tevékenységet csak a közjegyzői tevékenység elősegítésére folytathat.
 
-(4) A közjegyzői iroda tagjának a közjegyzői (közjegyzőhelyettesi, közjegyzőjelölti) minőségére tekintettel rendelkezésre álló adatok csak a közjegyzői hatáskörbe tartozó eljárás során és annak céljára használhatók fel, az adatokhoz egyéb célból történő hozzáférés tilos.
+(4) A közjegyzői iroda tagjának a közjegyzői (közjegyzőhelyettesi) minőségére tekintettel rendelkezésre álló adatok csak a közjegyzői hatáskörbe tartozó eljárás során és annak céljára használhatók fel, az adatokhoz egyéb célból történő hozzáférés tilos.
+
+(5) A 6. § szerint a közjegyzőt illető összegek és azok járulékai a közjegyzői iroda bevételét képezik, és a közjegyzői iroda a jogosultja ezek biztosítékainak is. A (4) bekezdés rendelkezései nem korlátozzák az ezen összegek, járulékaik és biztosítékaik nyilvántartásához és érvényesítéséhez szükséges adatkezelést.

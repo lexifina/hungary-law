@@ -1,6 +1,6 @@
 31/F. § (1) A közjegyzői irodai tagsági jogviszony megszűnik:
 
-a) a közjegyző tag szolgálatának megszűnésével, kivéve a (2) bekezdésben foglalt esetet,
+a) a közjegyző tag szolgálatának megszűnésével, kivéve a (2) bekezdésben és az (5a) bekezdésben foglalt esetet,
 
 b) a tag halálával,
 

@@ -16,6 +16,8 @@ f) a helyettesítési díj mértékét, elszámolásának rendjét, vagy azt, ho
 
 g) az arról való rendelkezést, hogy a helyettes a helyettesített közjegyző, illetve annak közjegyzői irodája eszközeit milyen mértékben és milyen ellentételezésért használhatja.
 
+(2a) Ha az állandó helyettesítési megállapodás másként nem rendelkezik, az állandó helyettes a helyettesített közjegyző közjegyzői irodája keretében folytatja a helyettesítési tevékenységet.
+
 (3) Az állandó helyettesítés tartama alatt a helyettesített közjegyző munkavállalói felett a munkáltatói jogkört az állandó helyettes gyakorolja azzal, hogy a munkaviszony létesítéséről, illetve megszüntetéséről csak a helyettesített közjegyző előzetes írásbeli engedélye alapján intézkedhet. Az állandó helyettesítés időtartama alatt a helyettesített közjegyző alkalmazásában álló közjegyzőhelyettes és közjegyzőjelölt szakmai képzéséről a helyettesített közjegyző költségére az állandó helyettes gondoskodik. Az e bekezdésben foglaltakkal ellentétes megállapodás semmis.
 
 (4) Az állandó helyettesítési megállapodás megszűnik

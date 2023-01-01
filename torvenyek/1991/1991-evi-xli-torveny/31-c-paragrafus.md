@@ -4,7 +4,7 @@
 
 a) a közjegyzői iroda nevét és székhelyét,
 
-b) a közjegyzői iroda tagjait nevük és lakóhelyük feltüntetésével; a közjegyző tag esetében székhelyét és hivatali helyiségének (a 30. §-a szerinti irodájának) címét is, közjegyzőhelyettes és közjegyzőjelölt tag esetében az őt alkalmazó közjegyző nevét és székhelyét is,
+b) a közjegyzői iroda tagjait nevük és lakóhelyük feltüntetésével; a közjegyző tag esetében székhelyét és hivatali helyiségének (a 30. §-a szerinti irodájának) címét is, közjegyzőhelyettes tag esetében az őt alkalmazó közjegyző nevét és székhelyét is,
 
 c) az irodavezető közjegyző tag nevét és székhelyét, több irodavezető esetén az irodavezetés és képviselet szabályait,
 

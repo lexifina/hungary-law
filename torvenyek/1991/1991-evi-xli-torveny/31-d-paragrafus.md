@@ -1,10 +1,12 @@
 31/D. § (1) A közjegyzői iroda alapításához a területi kamara elnökségének az engedélye szükséges (alapítási engedély), az engedélyezés iránti kérelmet az alapító okirat elfogadásától számított 8 napon belül kell a területi kamara elnökségéhez előterjeszteni. Így kell eljárni a közjegyzői irodai tagság létesítése esetén is.
 
-(2) A területi kamara elnöksége a közjegyzői iroda részére az alapítási engedélyt két hónapon belül megadja, ha
+(2) A területi kamara elnöksége a közjegyzői iroda részére az alapítási engedélyt 15 napon belül megadja, ha
 
 a) alapító okirata megfelel az irányadó jogszabályoknak,
 
 b) tagja megfelel a közjegyzői irodai tagságra e törvényben meghatározott követelményeknek.
+
+(2a) Ha a területi kamara elnöksége az alapítási engedély iránti kérelmet határidőben nem bírálja el, az alapítási engedélyt megadottnak kell tekinteni. A hiánypótlás időtartama a határidőbe nem számít bele. A hiánypótlásra meghatározott határidő 30 napnál hosszabb nem lehet.
 
 (3) A területi kamara elnöksége a (2) bekezdésben foglalt eljárása során megvizsgálja az alapító okiratban foglaltakat – szükség esetén a helyszínen – ellenőrzi az alapító okiratban foglalt adatok valódiságát.
 
