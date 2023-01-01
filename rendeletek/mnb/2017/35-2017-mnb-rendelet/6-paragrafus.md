@@ -8,7 +8,7 @@
 
 (2) A pénzforgalmi szolgáltató az (1) bekezdésben foglaltaktól eltérően az azonnali átutalás teljesítéséből rá háruló feladatok teljesítésére, beleértve a fizetési művelet összegének terhelési vagy jóváírási értéknappal való ellátását is, – törvény vagy e rendelet eltérő rendelkezése hiányában – folyamatosan, minden naptári napon 0 órától 24 óráig tartó munkanapot tart.
 
-(3)[^5]
+(3)[^7]
 
 (4) A végső benyújtási vagy végső beérkezési határidő és a záró időpont között a pénzforgalmi szolgáltatóhoz beérkezett fizetési megbízásokat és fizetési műveleteket, valamint a nem munkanapon beérkezett fizetési megbízásokat és fizetési műveleteket a következő munkanapon átvettnek kell tekinteni, az ezek teljesítéséből rá háruló feladatokat – ha az ügyfél későbbi határidőt nem jelöl meg, vagy e rendelet eltérően nem rendelkezik – a pénzforgalmi szolgáltató legkésőbb ezen a következő munkanapon teljesíti.
 
@@ -16,7 +16,7 @@
 
 (6) Azonnali átutalási megbízás esetében az (1) bekezdésben foglaltaktól eltérően a fizető fél pénzforgalmi szolgáltatója a munkanap záró időpontjától eltérő végső benyújtási határidőt nem állapíthat meg.
 
-(7) A pénzforgalmi szolgáltató – a (8) és (9) bekezdésben foglaltak kivételével – a munkanap kezdő és záró időpontjaként a fizetési megbízás, illetve a beérkezett fizetési művelet átvételére és a jóváírás teljesítésére eltérő időpontokat jelölhet meg, és ezen belül a munkanap záró időpontját a keretszerződésben meghatározott szempontok – így különösen a fizetési mód altípusa, a devizanem, a konverzió szükségessége – alapján eltérően is meghatározhatja.
+(7)[^8] A pénzforgalmi szolgáltató – a (8) és (9) bekezdésben foglaltak kivételével – a munkanap kezdő és záró időpontjaként a fizetési megbízás, illetve a beérkezett fizetési művelet átvételére és a jóváírására eltérő időpontokat jelölhet meg, és ezen belül a munkanap záró időpontját a keretszerződésben meghatározott szempontok – így különösen a fizetési mód altípusa, a devizanem, a konverzió szükségessége – alapján eltérően is meghatározhatja.
 
 (8) Azonnali átutalás teljesítésére a munkanap záró időpontja minden naptári napon 24:00 óra.
 
@@ -28,4 +28,5 @@ b) későbbi időpontot a munkanap záró időpontjaként
 
 nem határozhat meg.
 
-[^5]: A 6. § (3) bekezdését a 23/2022. (VI. 17.) MNB rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^7]: A 6. § (3) bekezdését a 23/2022. (VI. 17.) MNB rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^8]: A 6. § (7) bekezdése az 57/2022. (XII. 22.) MNB rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
