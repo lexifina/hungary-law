@@ -1,3 +1,3 @@
-## 13–17. §[^9]
+18. §[^18]
 
-[^9]: A 13–17. §-t a 2/2016. (I. 15.) EMMI rendelet 1. § a) pontja hatályon kívül helyezte.
+[^18]: A 18. §-t a 44/2009. (XII. 18.) EüM rendelet 13. §-a hatályon kívül helyezte, e módosító rendelet 18. § (1) bekezdése alapján a 2010. január 1-je után indult vagy megismételt eljárásokban kell alkalmazni.
