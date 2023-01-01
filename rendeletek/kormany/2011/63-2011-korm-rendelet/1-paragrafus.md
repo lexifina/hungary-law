@@ -10,6 +10,7 @@ b) az Alkotmányvédelmi Hivatal főigazgatója,
 
 c) a Terrorelhárítási Központ főigazgatója,
 
-d) az érintett külképviselet székhelye szerint illetékes megyei (fővárosi) rendőrfőkapitány.
+d)[^2] az érintett külképviselet székhelye szerint illetékes vármegyei (fővárosi) rendőrfőkapitány.
 
 [^1]: Az 1. § (1) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 122. §-a szerint módosított szöveg.
