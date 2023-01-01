@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-375-20-
 | 2022-01-02 | 2021-375-20-22.10 | 2010: CXXX. törvény |
 | 2022-07-01 | 2021-375-20-22.11 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-07-02 | 2021-375-20-22.12 | 2010: CXXX. törvény |
+| 2023-01-01 | 2021-375-20-22.13 | 2010: CXXX. törvény |
