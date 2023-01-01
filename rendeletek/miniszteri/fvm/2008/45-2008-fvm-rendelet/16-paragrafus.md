@@ -4,4 +4,6 @@ a) a növénykárosítókkal szembeni védekező intézkedésekről, a 228/2013/
 
 b) a növénykárosítókkal szembeni védekező intézkedésekről szóló (EU) 2016/2031 európai parlamenti és tanácsi rendelet egységes végrehajtási feltételeinek megállapításáról, valamint a 690/2008/EK bizottsági rendelet hatályon kívül helyezéséről és az (EU) 2018/2019 bizottsági végrehajtási rendelet módosításáról szóló, 2019. november 28-i 2019/2072/EU bizottsági végrehajtási rendelet
 
+végrehajtásához szükséges rendelkezéseket állapítja meg.
+
 [^45]: A 16. §-t a 35/2020. (VI. 29.) AM rendelet 14. §-a iktatta be.

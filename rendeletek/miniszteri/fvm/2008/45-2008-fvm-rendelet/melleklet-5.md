@@ -84,6 +84,8 @@ a dísznövény szaporítóanyagok szerződéses termeltetéséhez
 
 Bejelentem, hogy az alábbi termelők dísznövény szaporítóanyag termesztést végeznek számomra a pótlapok szerinti növényekből és darabszámban. A csatolt pótlapok száma: .................... db. Kérem, hogy a szaporítóanyagok éves szemléjét elvégezni szíveskedjenek.
 
+4K03611_1
+
 | Sorszám | Termelő | Termesztésbe vont területek* | Szerződéskötés éve |
 
 | neve | címe | helység és hrsz. | nagyság (m2) |  |

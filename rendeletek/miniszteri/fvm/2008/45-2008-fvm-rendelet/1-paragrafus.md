@@ -14,6 +14,6 @@ d) olyan növények bizonyos fajainak vagy csoportjainak vetőmagjára, amelyet 
 
 e) a kísérleti vagy tudományos célra, nemesítési anyagnak vagy a genetikai sokszínűség megőrzése céljára szánt dísznövény szaporítóanyagra.
 
-(3)[^1] A dísznövény szaporítóanyag minőségi kérdései vonatkozásában a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), illetve a növénytermesztési hatáskörben eljáró megyei kormányhivatal a felelős hatóság.
+(3)[^1] A dísznövény szaporítóanyag minőségi kérdései vonatkozásában a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), illetve a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal a felelős hatóság.
 
-[^1]: Az 1. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 92. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 109. § a) pontja, a 46/2020. (IX. 23.) AM rendelet 12. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 92. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 109. § a) pontja, a 46/2020. (IX. 23.) AM rendelet 12. § a) pontja, a 106/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
