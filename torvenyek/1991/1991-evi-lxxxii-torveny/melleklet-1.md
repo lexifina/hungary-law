@@ -1,0 +1,121 @@
+1. melléklet az 1991. évi LXXXII. törvényhez
+
+A cégautóadó havi mértékei
+
+|
+
+|
+
+A
+
+|
+
+B
+
+|
+
+C
+
+|
+
+D
+
+|
+
+1
+
+|
+
+Teljesítmény (kW)
+
+|
+
+„0”–„4” környezetvédelmi osztályjelzések esetén
+
+|
+
+„6”–„10” környezetvédelmi osztályjelzések esetén
+
+|
+
+„5”; „14–15” környezetvédelmi osztályjelzések esetén
+
+|
+
+2
+
+|
+
+0–50
+
+|
+
+30 500 forint
+
+|
+
+16 000 forint
+
+|
+
+14 000 forint
+
+|
+
+3
+
+|
+
+51–90
+
+|
+
+41 000 forint
+
+|
+
+20 000 forint
+
+|
+
+16 000 forint
+
+|
+
+4
+
+|
+
+91–120
+
+|
+
+61 000 forint
+
+|
+
+41 000 forint
+
+|
+
+20 000 forint
+
+|
+
+5
+
+|
+
+120 felett
+
+|
+
+81 000 forint
+
+|
+
+61 000 forint
+
+|
+
+41 000 forint
