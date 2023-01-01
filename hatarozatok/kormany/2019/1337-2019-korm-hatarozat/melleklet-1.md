@@ -2,13 +2,7 @@
 
 ## 2. egyetért azzal, hogy a Beruházás legfeljebb 937 737 000 forint összegű központi költségvetési támogatással kerüljön megvalósításra;
 
-## 3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva a Beruházás megvalósítása érdekében 197 131 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 11. Sportlétesítmények fejlesztése és fenntartása jogcímcsoport, 2. Állami, önkormányzati és egyéb sportlétesítmények fejlesztése, fenntartása jogcím terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 63. Határon túli sportinfrastruktúra fejlesztések támogatása jogcímcsoport javára, az 1. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
+## 3.[^1]
 
 ## 4. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával a Beruházás megvalósítása érdekében gondoskodjon a 2020. évben 740 606 000 forint forrás rendelkezésre állásáról a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezetben;
 
@@ -30,72 +24,7 @@
 
 ## Határidő: a Beruházás megvalósításához igazodóan
 
-1. melléklet az 1337/2019. (VI. 5.) Korm. határozathoz
+1. melléklet az 1337/2019. (VI. 5.) Korm. határozathoz[^2]
 
-| XX. Emberi Erőforrások Minisztériuma |
-
-| ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA |
-
-| Költségvetési év: 2019. |
-
-| forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 24 |  |  |  |  |  | Sportlétesítmények fejlesztése és kezelése |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  | 11 |  |  |  |  |  | Sportlétesítmények fejlesztése és fenntartása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 277145 |  |  |  |  | 2 |  |  |  |  |  | Állami, önkormányzati és egyéb sportlétesítmények fejlesztése, fenntartása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -197 131 000 |  |  |  |
-
-| 372551 |  |  |  | 63 |  |  |  |  |  | Határon túli sportinfrastruktúra fejlesztések támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 197 131 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |
-
-| forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |
-
-| forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 24 |  |  |  |  |  | Sportlétesítmények fejlesztése és kezelése |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  | 11 |  |  |  |  |  | Sportlétesítmények fejlesztése és fenntartása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 277145 |  |  |  |  | 2 |  |  |  |  |  | Állami, önkormányzati és egyéb sportlétesítmények fejlesztése, fenntartása |  |  |  |  |  |  |  |  | -197 131 000 |  |  |  |
-
-| 372551 |  |  |  | 63 |  |  |  |  |  | Határon túli sportinfrastruktúra fejlesztések támogatása |  |  |  |  |  |  |  |  | 197 131 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |
-
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-|  |  | időarányos |  |  |  |  |  |  |  |  |  |
-
-|  | teljesítésarányos |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár | 1 példány | egyéb: |  | azonnal |  | 197 131 000 |  |  | 197 131 000 |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
