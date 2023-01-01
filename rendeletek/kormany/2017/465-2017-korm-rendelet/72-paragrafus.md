@@ -1,4 +1,4 @@
-72. §[^60] A telefonos ügyféltájékoztató és ügyintéző rendszere útján, az adózó vagy képviselője telefonon előterjesztett kérelme alapján az állami adó- és vámhatóság
+72. §[^62] A telefonos ügyféltájékoztató és ügyintéző rendszere útján, az adózó vagy képviselője telefonon előterjesztett kérelme alapján az állami adó- és vámhatóság
 
 1. az adózó – állami adó- és vámhatóságnál közvetlenül bejelentendő törzsadataira vonatkozó – egyedi bejelentéseivel, változás bejelentéseivel kapcsolatban jár el,
 
@@ -34,4 +34,4 @@
 
 17. fogadja az adózói minősítéssel kapcsolatos kifogást, és intézkedik annak elbírálása iránt.
 
-[^60]: A 72. § a 260/2019. (XI. 7.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^62]: A 72. § a 260/2019. (XI. 7.) Korm. rendelet 11. §-ával megállapított szöveg.
