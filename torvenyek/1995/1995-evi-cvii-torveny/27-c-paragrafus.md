@@ -1,0 +1,1 @@
+27/C. § Az Országos Parancsnokság szervezeti egységének vezetője a biztonsági kockázatelemzés keretében együttműködő fogvatartottnak a Bv. tv. 165. §-a szerint jutalomban részesítését kezdeményezheti vagy őt közvetlenül pénzjutalomban részesítheti.

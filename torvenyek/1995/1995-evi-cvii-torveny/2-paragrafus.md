@@ -6,4 +6,6 @@
 
 (4)
 
-(5) Az Országos Parancsnokság, a büntetés-végrehajtási intézetek és intézmények, továbbá a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaságok és költségvetési szervek (a továbbiakban együtt: bv. szervek) jogi személyek.
+(5) Az Országos Parancsnokság, a büntetés-végrehajtási intézetek és intézmények, továbbá a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaságok és költségvetési szervek (a továbbiakban együtt: bv. szervek) a (6) bekezdésben foglalt kivétellel jogi személyek.
+
+(6) A helyi jogállású büntetés-végrehajtási intézetek az agglomerációs központok önálló feladat- és hatáskörrel, valamint állománytáblázattal rendelkező telephelyei.

@@ -8,7 +8,7 @@
 
 a) előkészíti az országos parancsnok utasításait, parancsait és előterjesztéseit;
 
-b) felügyeli, ellenőrzi és szakmailag irányítja a bv. szervek szolgálati feladatainak a végrehajtását, így különösen a fogvatartás biztonságával, a fogvatartottak reintegrációjával, foglalkoztatásával, egészségügyi ellátásával, szállításával és nyilvántartásával, szabadulásra felkészítés körében a gondozással és a szabadságvesztésből szabadultak utógondozásával, valamint a büntetés-végrehajtási pártfogó felügyelői feladatok végrehajtásával kapcsolatos tevékenységet;
+b) felügyeli, ellenőrzi, támogatja és szakmailag irányítja a bv. szervek szolgálati feladatainak a végrehajtását, így különösen a fogvatartás biztonságával, a fogvatartottak reintegrációjával, foglalkoztatásával, egészségügyi ellátásával, szállításával és nyilvántartásával, szabadulásra felkészítés körében a gondozással és a szabadságvesztésből szabadultak utógondozásával, valamint a büntetés-végrehajtási pártfogó felügyelői feladatok végrehajtásával kapcsolatos tevékenységet;
 
 c) bv. szervezet költségvetésének keretei között biztosítja a bv. szervek feladatainak ellátásához szükséges feltételeket;
 

@@ -3,3 +3,5 @@
 (2) A fogvatartott szabadulásakor a kapcsolattartó adatait a kapcsolattartók nyilvántartásából törölni kell.
 
 (3) A 28/B. § (2) bekezdésében meghatározott adatokat a fogvatartott szabadulásakor a nyilvántartásból törölni kell.
+
+(4) A fogvatartottal szemben indult újabb büntetőeljárásra vonatkozó adatokat a fogvatartotti nyilvántartásból törölni kell, ha a fogvatartottat felmentették vagy vele szemben a büntetőeljárást megszüntették.

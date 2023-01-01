@@ -18,7 +18,9 @@ e) lőfegyver, illetőleg robbanóanyag jogosulatlan, erőszakos megszerzésére
 
 f) a bv. szerv ellen elkövetett fegyveres támadás elhárítására;
 
-g)–h)
+g)
+
+h)
 
 i) a fogvatartott erőszakos kiszabadításának a megakadályozására;
 

@@ -1,3 +1,5 @@
-## Titoktartási kötelezettség
+## Biometrikus személyazonosítás és titoktartási kötelezettség
 
-12. § A bv. szervezet személyi állományának tagja a minősített adatot, valamint a tudomására jutott magántitkot köteles megtartani. A titoktartási kötelezettség alól jogszabály, valamint jogszabály felhatalmazása alapján, az abban megjelölt személy felmentést adhat.
+12. § (1) A bv. szervezet személyi állományába tartozó tagjának az arcképmása az intézkedés jogszerűségének megállapítása, az intézetben megvalósuló jogsértés elkövetőjének azonosítása céljából, az intézetben telepített elektronikus megfigyelési eszköznek arcképfelismerő rendszerrel való összekapcsolása során felhasználható. E célból az intézet a bv. szervezet személyi állományába tartozó tagjának az arcképmását a szolgálati jogviszony kezdetétől annak megszűnéséig kezeli.
+
+(2) A bv. szervezet személyi állományának tagja jogviszonyának fennállása alatt és annak megszűnését követően is titokként megőrzi a tevékenységével, annak ellátásával kapcsolatban tudomására jutott személyes adatot, minősített adatot, illetve törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatot, valamint minden olyan adatot, tényt vagy körülményt, amelyet a bv. szervezet nem köteles törvény előírásai szerint a nyilvánosság számára hozzáférhetővé tenni.
