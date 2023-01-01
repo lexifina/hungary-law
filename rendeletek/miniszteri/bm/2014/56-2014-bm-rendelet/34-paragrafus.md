@@ -6,7 +6,7 @@ a) elsősorban a rendőrség orvosi szolgálata, ennek hiányában
 
 b) – szerződés alapján – az állami, önkormányzati egészségügyi szolgálat
 
-## útján biztosítja.
+útján biztosítja.
 
 (2) Az orvos munkanapokon a fogdában kialakított egészségügyi helyiségben a szükséges ideig rendelést tart.
 
@@ -26,7 +26,7 @@ d) rögzíti a kábítószer-fogyasztásra, egyéb szenvedélybetegségekre, ill
 
 (6) Amennyiben az ellátáshoz szükséges, az orvos a fogvatartott egészségi állapotával kapcsolatos, a fogvatartást megelőző időszakban keletkezett, a fogvatartottra vonatkozó egészségügyi dokumentációt beszerzi.
 
-(7)[^10] A fiatalkorú orvosi vizsgálatát akkor is el kell végezni, ha ezt
+(7)[^12] A fiatalkorú orvosi vizsgálatát akkor is el kell végezni, ha ezt
 
 a) az eljárás alá vont személy,
 
@@ -34,9 +34,9 @@ b) az eljárás alá vont személy képviselője vagy
 
 c) a kirendelt ügyvédje
 
-## kérelmezi.
+kérelmezi.
 
-(8)[^11] Az (1) bekezdés szerinti orvosi vizsgálat következtetéseit írásban kell rögzíteni.
+(8)[^13] Az (1) bekezdés szerinti orvosi vizsgálat következtetéseit írásban kell rögzíteni.
 
-[^10]: A 34. § (7) bekezdését a 28/2019. (VII. 9.) BM rendelet 3. § (1) bekezdése iktatta be.
-[^11]: A 34. § (8) bekezdését a 28/2019. (VII. 9.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^12]: A 34. § (7) bekezdését a 28/2019. (VII. 9.) BM rendelet 3. § (1) bekezdése iktatta be.
+[^13]: A 34. § (8) bekezdését a 28/2019. (VII. 9.) BM rendelet 3. § (1) bekezdése iktatta be.

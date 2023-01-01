@@ -1,4 +1,4 @@
-17. §[^9] (1) A fogvatartott fogdán történő elhelyezése során a Bv. tv.-nek az egyes fogvatartások végrehajtására előírt elkülönítési szabályait alkalmazni kell.
+17. §[^11] (1) A fogvatartott fogdán történő elhelyezése során a Bv. tv.-nek az egyes fogvatartások végrehajtására előírt elkülönítési szabályait alkalmazni kell.
 
 (2) Az őrizet végrehajtása során az (1) bekezdésben meghatározott szabályok alkalmazása mellett el kell különíteni
 
@@ -8,4 +8,4 @@ b) a büntetőeljárásban vagy a szabálysértési eljárásban őrizetbe vett 
 
 (3) Az (1) és (2) bekezdés alkalmazásában a szabálysértési eljárásban őrizetbe vett fiatalkorú alatt érteni kell a tizennyolcadik életévét betöltött, de huszonegyedik életévét be nem töltött személyt is, ha a cselekmény elkövetésekor tizennyolcadik életévét még nem töltötte be.
 
-[^9]: A 17. § a 28/2019. (VII. 9.) BM rendelet 2. §-ával megállapított szöveg.
+[^11]: A 17. § a 28/2019. (VII. 9.) BM rendelet 2. §-ával megállapított szöveg.

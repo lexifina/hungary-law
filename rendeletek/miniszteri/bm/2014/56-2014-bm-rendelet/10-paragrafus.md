@@ -4,14 +4,14 @@
 
 10. § (1) A fogvatartott fogdán kívüli kísérését és őrzését
 
-a)[^3] büntetőeljárásban őrizetbe vett, letartóztatott személy, valamint nyomozási cselekmény elvégzése érdekében kiadott elítélt és javítóintézeti nevelés alatt álló fiatalkorú esetén a fogvatartottal kapcsolatos eljárást folytató nyomozó hatóság,
+a)[^5] büntetőeljárásban őrizetbe vett, letartóztatott személy, valamint nyomozási cselekmény elvégzése érdekében kiadott elítélt és javítóintézeti nevelés alatt álló fiatalkorú esetén a fogvatartottal kapcsolatos eljárást folytató nyomozó hatóság,
 
 b) szabálysértési őrizetes, közbiztonsági őrizetes, valamint a büntetés-végrehajtási őrizetbe vett elítélt esetén a fogvatartásért felelős által kijelölt rendőri szerv,
 
 c) bíróság vagy ügyészség által elrendelt fogvatartás esetén a fogvatartást végrehajtó szerv
 
-## hajtja végre.
+hajtja végre.
 
 (2) A fogvatartottnak a fogdából történő kiadása, valamint a fogdába történő visszafogadása előtt a fogvatartott ruházatát át kell vizsgálni.
 
-[^3]: A 10. § (1) bekezdés a) pontja a 21/2018. (VI. 29.) BM rendelet 23. § a) pontja szerint módosított szöveg.
+[^5]: A 10. § (1) bekezdés a) pontja a 21/2018. (VI. 29.) BM rendelet 23. § a) pontja szerint módosított szöveg.

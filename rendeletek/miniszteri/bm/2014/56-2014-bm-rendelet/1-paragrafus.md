@@ -14,5 +14,7 @@ e)[^2] a szabálysértésekről, a szabálysértési eljárásról és a szabál
 
 f) a Rendőrségről szóló 1994. évi XXXIV. törvény szerinti közbiztonsági őrizet
 
+rendőrségi fogdán történő végrehajtása során kell alkalmazni.
+
 [^1]: Az 1. § b) pontja a 21/2018. (VI. 29.) BM rendelet 19. §-ával megállapított szöveg.
 [^2]: Az 1. § e) pontja a 21/2018. (VI. 29.) BM rendelet 24. §-a szerint módosított szöveg.

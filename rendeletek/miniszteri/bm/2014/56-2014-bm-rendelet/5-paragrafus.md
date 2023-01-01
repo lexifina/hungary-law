@@ -20,7 +20,7 @@ g) a látogatás,
 
 h) a telefonbeszélgetés
 
-## időpontját.
+időpontját.
 
 (2) A takarodó és az ébresztő között legalább 8 óra folyamatos pihenőidőt kell biztosítani.
 
@@ -38,6 +38,6 @@ b) a fogdában tartott ellenőrzés, szemle,
 
 c) rendkívüli esemény
 
-## miatt lehet.
+miatt lehet.
 
 (7) A zárkán belül ellenőrzést 22.00 órától 06.00 óráig csak különösen indokolt esetben szabad tartani.
