@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1774-30
 | 2019-12-23 | 2019-1774-30-22.1 | 1774/2019. (XII. 23.) Korm. határozat |
 | 2021-08-18 | 2019-1774-30-22.2 | 1616/2021. (VIII. 18.) Korm. határozat |
 | 2021-12-20 | 2019-1774-30-22.3 | 1930/2021. (XII. 20.) Korm. határozat |
+| 2023-01-01 | 2019-1774-30-22.4 | 2011: CXCV. törvény |
