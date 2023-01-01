@@ -1,4 +1,4 @@
-48/C. § (1) A regionális fejlesztési tanács a tervezési-statisztikai régióra vonatkozóan az érintett megyei önkormányzatokkal egyeztetve regionális környezetvédelmi programot készít.
+48/C. § (1) A regionális fejlesztési tanács a tervezési-statisztikai régióra vonatkozóan az érintett vármegyei önkormányzatokkal egyeztetve regionális környezetvédelmi programot készít.
 
 (2) A regionális környezetvédelmi program tartalmazza a 48/B. § (2) bekezdésben foglaltaknak megfelelően azokat a célokat és intézkedéseket, amelyek elérése, illetve megvalósítása regionális szinten hatékony és indokolt.
 

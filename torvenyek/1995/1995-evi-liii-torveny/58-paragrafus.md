@@ -6,7 +6,7 @@
 
 a) a települési önkormányzat által véglegesen kiszabott környezetvédelmi bírság teljes összege,
 
-b) az illetékes környezetvédelmi hatóság által a települési önkormányzat területén véglegesen kiszabott környezetvédelmi bírságok összegének harminc százaléka a veszélyhelyzet kihirdetését megalapozó eseménnyel összefüggésben véglegesen kiszabott környezetvédelmi bírságok kivételével,
+b) az illetékes környezetvédelmi hatóság által a települési önkormányzat területén véglegesen kiszabott környezetvédelmi bírságok összegének harminc százaléka a veszélyhelyzet kihirdetését megalapozó eseménnyel összefüggésben véglegesen kiszabott környezetvédelmi bírságok, valamint a települési önkormányzattal szemben kiszabott bírságok kivételével,
 
 c) a környezetterhelési díjak és az igénybevételi járulékok külön törvényben meghatározott része,
 

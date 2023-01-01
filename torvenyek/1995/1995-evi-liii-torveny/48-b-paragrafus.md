@@ -1,4 +1,4 @@
-48/B. § (1) Átfogó környezetvédelmi terv az e törvényben szabályozott országos [40. §] és területi (regionális [48/C. §], megyei [48/D. §] és települési [48/E. §]) környezetvédelmi program.
+48/B. § (1) Átfogó környezetvédelmi terv az e törvényben szabályozott országos [40. §] és területi (regionális [48/C. §], vármegyei [48/D. §] és települési [48/E. §]) környezetvédelmi program.
 
 (2) Az átfogó környezetvédelmi terv tartalmazza:
 
