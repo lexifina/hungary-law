@@ -36,7 +36,7 @@
 
 5. számú melléklet a 3/2002. (II. 8.) SZCSM–EüM együttes rendelethez
 
-## A munkahelyen a munkavégzés során a dolgozót érő zaj egyenértékű A-hangnyomásszint értékei
+A munkahelyen a munkavégzés során a dolgozót érő zaj egyenértékű A-hangnyomásszint értékei
 
 1. Fokozott figyelmet igénylő munkavégzés során a dolgozót érő zaj egyenértékű A-hangnyomásszintje – egyéni hallásvédő eszköz alkalmazása nélkül sem – haladhatja meg az alábbi értékeket:
 
