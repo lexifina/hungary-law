@@ -1,0 +1,3 @@
+1. §[^1] A területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény (a továbbiakban: Tkmtv.) 2. §-a szerinti esetben a jogszabályban meghatározott díjat a fővárosi és vármegyei kormányhivatalnak (a továbbiakban: kormányhivatal) a kincstárnál vezetett, az 1. mellékletben meghatározott számlájára kell megfizetni. A fizetési megbízás közlemény rovatában fel kell tüntetni a hatósági eljárás megnevezését, illetve – ha rendelkezésre áll – az azonosítóját.
+
+[^1]: Az 1. § a 21/2022. (XII. 28.) MVM rendelet 6. § a) pontja szerint módosított szöveg.

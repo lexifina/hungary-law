@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-41-20-2
 | --- | --- | --- |
 | 2014-01-01 | 2013-41-20-2T.1 | 41/2013. (XII. 31.) KIM rendelet |
 | 2014-02-15 | 2013-41-20-2T.2 | 8/2014. (II. 12.) KIM rendelet |
+| 2023-01-01 | 2013-41-20-2T.3 | 21/2022. (XII. 28.) MVM rendelet |
