@@ -38,6 +38,6 @@ q) tájékoztatást ad az erre irányuló kérelmet benyújtó választópolgár
 
 r) a szavazóköri jegyzőkönyvek második példányait megküldi a HVI-nek, továbbá
 
-s)[^8] a választási iratokat a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy befejezése után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti.
+s)[^10] a választási iratokat a szavazást követő kilencvenedik napig megőrzi; a szavazást követő kilencvenedik napot követő munkanapon, illetve büntetőeljárás esetén az ügy befejezése után a választási iratokat – a jegyzőkönyvek kivételével – megsemmisíti.
 
-[^8]: A 17. § s) pontja a 16/2018. (VI. 22.) IM rendelet 17. §-a szerint módosított szöveg.
+[^10]: A 17. § s) pontja a 16/2018. (VI. 22.) IM rendelet 17. §-a szerint módosított szöveg.

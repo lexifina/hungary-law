@@ -10,7 +10,7 @@ a) a választási célú dedikált informatikai eszközök,
 
 b) az elektronikus anyakönyvi rendszer informatikai eszközrendszere (a továbbiakban: CSAK),
 
-c) a fővárosi és megyei kormányhivatalok, és azok kirendeltségeiként működő járási (fővárosi kerületi) hivatalok (a továbbiakban együtt: kormányhivatal) informatikai eszközei,
+c)[^1] a fővárosi és vármegyei kormányhivatalok, és azok kirendeltségeiként működő járási (fővárosi kerületi) hivatalok (a továbbiakban együtt: kormányhivatal) informatikai eszközei,
 
 d) az okmányirodák, valamint az okmányirodai funkciókat is ellátó kormányablakok (a továbbiakban együtt: okmányiroda) informatikai eszközei,
 
@@ -19,3 +19,5 @@ e) a külképviseletek informatikai eszközei és
 f) az a)–e) pontban meghatározott informatikai eszközöket összekötő adatátviteli hálózatok.
 
 (3) A választási alkalmazói rendszerek elemei lehetnek különösen: a szavazókörök kezelését, a névjegyzékek vezetését, az ajánlás-ellenőrzést, a jelöltek és jelölő szervezetek nyilvántartását, a szavazatösszesítést, az eredménymegállapítást, a logisztikai és pénzügyi lebonyolítást, valamint a választási szervek közötti kommunikációt támogató alkalmazói szoftverrendszerek.
+
+[^1]: A 2. § (2) bekezdés c) pontja a 42/2022. (XII. 28.) IM rendelet 8. § a) pontja szerint módosított szöveg.

@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1-20-06
 | 2019-03-07 | 2018-1-20-06.5 | 2010: CXXX. törvény |
 | 2019-12-24 | 2018-1-20-06.6 | 34/2019. (XII. 23.) IM rendelet |
 | 2022-10-25 | 2018-1-20-06.7 | 26/2018. (IX. 7.) IM rendelet |
+| 2023-01-01 | 2018-1-20-06.8 | 42/2022. (XII. 28.) IM rendelet |

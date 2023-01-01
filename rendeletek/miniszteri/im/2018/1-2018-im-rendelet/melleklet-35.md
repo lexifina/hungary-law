@@ -1,5 +1,5 @@
 ## 8K29619Y.pdf
 
-35. melléklet az 1/2018. (I. 3.) IM rendelethez[^34]
+35. melléklet az 1/2018. (I. 3.) IM rendelethez[^46]
 
-[^34]: A 35. melléklet a 23/2022. (X. 24.) IM rendelet 2. §-ával megállapított szöveg.
+[^46]: A 35. melléklet a 42/2022. (XII. 28.) IM rendelet 7. § (12) bekezdésével megállapított szöveg.

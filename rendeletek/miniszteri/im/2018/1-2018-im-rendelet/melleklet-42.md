@@ -40,7 +40,7 @@
 
 ## *** A lakóhely, annak hiányában a tartózkodási hely címe.
 
-42. melléklet az 1/2018. (I. 3.) IM rendelethez[^41]
+42. melléklet az 1/2018. (I. 3.) IM rendelethez[^53]
 
 Külképviseleti névjegyzék az országgyűlési képviselők időközi választásán
 
@@ -94,4 +94,4 @@ ORSZÁGGYŰLÉSI KÉPVISELŐK IDŐKÖZI VÁLASZTÁSA
 
 ** A születési nevet csak abban az esetben kell feltüntetni, ha eltér a viselt névtől.
 
-[^41]: A 42. mellékletet a 34/2019. (XII. 23.) IM rendelet 2. § (2) bekezdése iktatta be.
+[^53]: A 42. mellékletet a 34/2019. (XII. 23.) IM rendelet 2. § (2) bekezdése iktatta be.

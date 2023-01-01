@@ -66,6 +66,6 @@
 
 |  | 6. | A mozgóurnát igénylő választópolgárok jegyzékén és pótlapjain lévő aláírások száma” |  |
 
-41. melléklet az 1/2018. (I. 3.) IM rendelethez[^40]
+41. melléklet az 1/2018. (I. 3.) IM rendelethez[^52]
 
-[^40]: A 41. mellékletet a 34/2019. (XII. 23.) IM rendelet 2. § (2) bekezdése iktatta be.
+[^52]: A 41. mellékletet a 34/2019. (XII. 23.) IM rendelet 2. § (2) bekezdése iktatta be.
