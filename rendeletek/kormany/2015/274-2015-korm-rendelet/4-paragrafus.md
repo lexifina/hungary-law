@@ -1,5 +1,3 @@
-## a családi vagyonfelügyelőt 8 napon belül írásban értesíti.
-
 4. § (1) A támogatott halála esetén a törlesztési támogatásra az elhunyt támogatott olyan természetes személy örököse jogosult, aki
 
 a) a törlesztési támogatással érintett kölcsön fedezetéül szolgáló lakóingatlanát – a pénzügyi lízingszerződés esetét kivéve – megörökölte és

@@ -34,13 +34,13 @@ g) az adós és az adóstárs adóazonosító jelét a főhitelező számára be
 
 h) az adós és az adóstárs hozzájárul ahhoz, hogy a 14. § (1) bekezdése szerinti adatait, valamint a törlesztési támogatásra vonatkozó információkat a törlesztési támogatás szabályszerű igénybevételének ellenőrzése céljából a főhitelező átadja
 
-ha)[^1] a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakóingatlan fekvése szerint illetékes megyei kormányhivatal, Pest megye vagy a főváros területén fekvő támogatott lakóingatlan esetében Budapest Főváros Kormányhivatala (a továbbiakban együtt: kormányhivatal),
+ha)[^1] a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakóingatlan fekvése szerint illetékes vármegyei kormányhivatal, Pest vármegye vagy a főváros területén fekvő támogatott lakóingatlan esetében Budapest Főváros Kormányhivatala (a továbbiakban együtt: kormányhivatal),
 
 hb) a Magyar Államkincstár központja (a továbbiakban: kincstár), valamint
 
 hc) bírósági adósságrendezési eljárás esetén a családi vagyonfelügyelő
 
-## részére,
+részére,
 
 i) az adós és az adóstárs nyilatkozik arról, hogy jelen rendelet szerinti törlesztési támogatást még nem vett igénybe.
 
@@ -54,4 +54,4 @@ i) az adós és az adóstárs nyilatkozik arról, hogy jelen rendelet szerinti t
 
 (6) Amennyiben a támogatott az egyezségben foglalt fizetési kötelezettségeinek 60 napot meghaladóan felszólítás ellenére nem tesz eleget, az ezt követő hónap első napjától részére a törlesztési támogatás nem nyújtható. Erről az adóst és az adóstársat a törlesztési támogatás igénybevételéről szóló szerződés megkötésekor igazoltan tájékoztatni kell.
 
-[^1]: A 2. § (1) bekezdés h) pont ha) alpontja a 360/2019. (XII. 30.) Korm. rendelet 145. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^1]: A 2. § (1) bekezdés h) pont ha) alpontja a 360/2019. (XII. 30.) Korm. rendelet 145. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 220. §-a szerint módosított szöveg.
