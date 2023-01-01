@@ -1,5 +1,3 @@
-## A 4. § (4) bekezdéséhez kapcsolódó elemzéshez szükséges adatok
-
 |  | E rendelet 2. § (1) bekezdés a)–e) pontja szerinti tevékenységek megvalósítása nélkül | E rendelet 2. § (1) bekezdés a)–e) pontja szerinti tevékenységek megvalósításával támogatás nélkül | E rendelet 2. § (1) bekezdés a)–e) pontja szerinti tevékenységek megvalósításával támogatással |
 
 | Foglalkoztatottak létszáma fő |  |  |  |
@@ -12,7 +10,7 @@
 
 3. melléklet a 7/2015. (III. 11.) FM rendelethez
 
-## A kifizetési kérelem adattartalma és a csatolandó mellékletek
+A kifizetési kérelem adattartalma és a csatolandó mellékletek
 
 1. Az ügyfél azonosítására szolgáló adatok.
 

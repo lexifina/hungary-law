@@ -4,7 +4,7 @@
 
 (2) A támogatási kérelemhez mellékelni kell
 
-a)[^19] az állattartó telep fekvése szerint illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állat-egészségügyi hatáskörében eljáró járási hivatala (a továbbiakban: járási hivatal) igazolásának eredeti példányát az ügyfél által – a támogatási kérelem benyújtásának időpontjáig – az adott tartási hely a TIR-be bejelentett tenyészkoca férőhely kapacitása alapján megállapított maximálisan tarható tenyészkoca létszámról darabszámban kifejezve,
+a)[^19] az állattartó telep fekvése szerint illetékes vármegyei kormányhivatal élelmiszerlánc-biztonsági és állat-egészségügyi hatáskörében eljáró járási hivatala (a továbbiakban: járási hivatal) igazolásának eredeti példányát az ügyfél által – a támogatási kérelem benyújtásának időpontjáig – az adott tartási hely a TIR-be bejelentett tenyészkoca férőhely kapacitása alapján megállapított maximálisan tarható tenyészkoca létszámról darabszámban kifejezve,
 
 b) a 2. § (5) bekezdés b) pont bd) alpontja szerinti tagságról szóló igazolás eredeti példányát.
 
@@ -17,7 +17,7 @@ b) a 2. § (5) bekezdés b) pont bd) alpontja szerinti tagságról szóló igazo
 (6)[^23] A Kincstár a támogatási kérelemről az abban megjelölt, tervezett állatlétszám alapján jóváhagyott állatlétszámra vonatkozóan hoz döntést.
 
 [^18]: A 4. § (1) bekezdése a 92/2015. (XII. 23.) FM rendelet 7. § c) pontja, a 88/2016. (XII. 29.) FM rendelet 78. § a) pontja szerint módosított szöveg.
-[^19]: A 4. § (2) bekezdés a) pontja a 25/2016. (IV. 11.) FM rendelet 39. § a) pontja, az 51/2016. (VII. 21.) FM rendelet 20. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 211. § a) pontja szerint módosított szöveg.
+[^19]: A 4. § (2) bekezdés a) pontja a 25/2016. (IV. 11.) FM rendelet 39. § a) pontja, az 51/2016. (VII. 21.) FM rendelet 20. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 211. § a) pontja, a 140/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
 [^20]: A 4. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 35. § (1) bekezdésével megállapított szöveg.
 [^21]: A 4. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 211. § b) pontja szerint módosított szöveg.
 [^22]: A 4. § (5) bekezdését az 51/2016. (VII. 21.) FM rendelet 21. §-a hatályon kívül helyezte.

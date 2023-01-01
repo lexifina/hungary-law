@@ -14,7 +14,7 @@ e) a takarmányozáshoz ivóvíz minőségű víz
 
 (a továbbiakban együtt: tevékenység)
 
-## biztosítására.
+biztosítására.
 
 (2) Az (1) bekezdésben felsorolt tevékenységek együttesen vagy külön-külön is támogathatóak.
 

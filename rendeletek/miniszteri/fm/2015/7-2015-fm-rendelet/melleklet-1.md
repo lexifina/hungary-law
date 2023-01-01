@@ -2,7 +2,7 @@
 
 1. melléklet a 7/2015. (III. 11.) FM rendelethez
 
-## A támogatási kérelem adattartalma
+A támogatási kérelem adattartalma
 
 1. Az ügyfél azonosítására szolgáló adatok.
 
