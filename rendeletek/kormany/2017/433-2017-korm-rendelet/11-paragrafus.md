@@ -30,7 +30,7 @@ a)[^25] nemzetgazdasági szempontból kiemelt jelentőségű beruházással öss
 
 b) az a) pontba nem tartozó esetekben az erdőtervezési körzet területén
 
-## bármely arra alkalmas földterületen végre lehet hajtani.
+bármely arra alkalmas földterületen végre lehet hajtani.
 
 (6) Az Evt. 83/A. § szerinti igénybevétel engedélyezése iránti kérelemhez – a (7) bekezdésben foglalt kivétellel – csatolni kell:
 

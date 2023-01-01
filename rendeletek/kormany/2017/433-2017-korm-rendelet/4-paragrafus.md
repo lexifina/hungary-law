@@ -1,5 +1,3 @@
-## részvételével erdőrészletszintű egyeztető tárgyalást tart.
-
 4. § (1)[^15] Az NFK a Natura 2000 területen előforduló élővilágra vonatkozó adatok alapján a körzeti erdőtervezés során megvizsgálja a tervezett erdőterv (a továbbiakban: erdőterv tervezet) szerinti erdőgazdálkodás hatását az adott Natura 2000 terület jelölésének alapjául szolgáló fajok és élőhelytípusok természetvédelmi helyzetére (Natura 2000 elővizsgálat).
 
 (2) A Natura 2000 területen előforduló élővilágra vonatkozó adatok különösen:

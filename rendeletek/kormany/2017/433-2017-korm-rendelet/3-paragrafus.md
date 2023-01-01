@@ -32,7 +32,7 @@ bc) a természetességi állapot, valamint
 
 bd) a faállománytípus
 
-## adataiba.
+adataiba.
 
 (4)[^10] Az NFK a védett természeti területre és Natura 2000 területre vonatkozó, (1) bekezdés c) pontja szerinti tervjavaslatot elektronikus úton megküldi a működési terület szerint érintett védett természeti terület természetvédelmi kezeléséért felelős szervnek.
 
@@ -46,7 +46,7 @@ b) az eljárás során érintett egyéb ügyfelek, valamint
 
 c) az érintett hatóságok
 
-## által, a körzeti erdőtervezési eljárás megindításától számított 15 napon belül írásban tett észrevételei alapján átdolgozza.
+által, a körzeti erdőtervezési eljárás megindításától számított 15 napon belül írásban tett észrevételei alapján átdolgozza.
 
 (7) Ha az erdőgazdálkodás üzemmódjának arányára vonatkozó, az Evt. 10. § (1) bekezdése szerinti előírás a körzeti erdőtervezési eljárás megkezdésekor nem teljesül, akkor az állam 100%-os tulajdonában álló erdők területén gazdálkodók a körzeti erdőtervezési eljárás megindításától számított 15 napon belül kérelmet nyújtanak be az erdőgazdálkodás üzemmódjának módosítására.
 
@@ -64,7 +64,7 @@ d) 23. § (6) bekezdés b)–d) pontja, illetve
 
 e) 23/A. §-a
 
-## szerinti eljárások a körzeti erdőtervezési eljárással egyesíthetőek.
+szerinti eljárások a körzeti erdőtervezési eljárással egyesíthetőek.
 
 (10)[^13] Az NFK az Evt. 38. § (2) bekezdés e) pont ef) alpontjában foglalt adatokat és korlátozásokat – a védett természeti terület természetvédelmi kezeléséért felelős szerv adatszolgáltatása alapján – a körzeti erdőtervezési eljárás során hivatalból törölheti az Adattárból.
 
@@ -79,6 +79,8 @@ ba) erdőtulajdonosok,
 bb) egyéb ügyfelek, valamint
 
 c) az erdő rendeltetése szerint érintett hatóságok
+
+részvételével erdőrészletszintű egyeztető tárgyalást tart.
 
 [^8]: A 3. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 53. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^9]: A 3. § (3) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 53. § b) pontja, a 29/2020. (II. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

@@ -24,6 +24,6 @@ c) a tárgyévben befejezésre tervezett és
 
 d) a tárgyévben lejáró befejezési határidős
 
-## erdősítések műszaki átvételét.
+erdősítések műszaki átvételét.
 
 (4) A többéves folyamatos erdősítések műszaki átvétel keretében történő ellenőrzését az erdészeti hatóság kockázatelemzés alapján végzi.

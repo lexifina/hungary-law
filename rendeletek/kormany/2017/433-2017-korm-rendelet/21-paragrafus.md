@@ -12,7 +12,7 @@ ac) a mezőgazdasági és vidékfejlesztési támogatási szerv által még nem 
 
 ad) az erdőgazdálkodói nyilvántartásban már szereplő személy vagy szervezet esetén az Evt. 18. § (7) bekezdés a) pont ab)–af) és ah) alpontjaiban, illetve az Evt. 18. § (7) bekezdés b) pontjának bb)–bf) alpontjaiban
 
-## foglalt adatok kivételével,
+foglalt adatok kivételével,
 
 b) a kérelemhez csatolt dokumentumok földrészletenkénti felsorolása,
 

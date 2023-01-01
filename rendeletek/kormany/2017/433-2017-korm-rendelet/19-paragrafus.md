@@ -14,7 +14,7 @@ f) k) pontjában foglalt adatait a műszaki átvételi jegyzőkönyvek adatai al
 
 g) l) pontjában foglalt adatait a tárgyban hozott előző döntése alapján, az erdőfelújítási biztosítéknyújtás teljesítésével összhangban
 
-## – a változások nyomon követhetőségének biztosítása mellett – jegyzi be, módosítja vagy törli.
+– a változások nyomon követhetőségének biztosítása mellett – jegyzi be, módosítja vagy törli.
 
 (2) Az Adattárba való bejegyzés közvetlenül csak az Evt. 38. § (2) bekezdés d) pontjában foglalt adatok tekintetében kezdeményezhető bejelentés útján.
 

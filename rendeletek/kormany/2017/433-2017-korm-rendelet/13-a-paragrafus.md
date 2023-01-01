@@ -8,7 +8,7 @@ b) aktualizált változatát a körzeti erdőtervezés megkezdésének évében,
 
 c)[^31] erdőrészletenként részletezett állapot- és tervadatokkal kiegészített, aktualizált változatát – legkésőbb – az Evt. 41. § (1) bekezdése szerinti bejelentéskor
 
-## nyújtja be az erdészeti hatósághoz.
+nyújtja be az erdészeti hatósághoz.
 
 (2) Az erdőgazdálkodó az átalakítási és erdőfelújítási tervet
 

@@ -6,7 +6,7 @@ a) szemle másolatként az Evt. 18. § (7) bekezdés a) pont aa), ad), ag) és a
 
 b) teljes másolatként az adatszolgáltatás időpontjában az Evt. 18. § (7) bekezdése szerint nyilvántartott
 
-## adatok adhatók ki.
+adatok adhatók ki.
 
 (3) Teljes másolat kizárólag az adatszolgáltatási kérelemben foglalt erdőnek minősülő föld erdőgazdálkodója részére adható ki.
 
