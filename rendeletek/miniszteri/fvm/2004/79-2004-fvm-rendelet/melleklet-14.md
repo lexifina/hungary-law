@@ -134,6 +134,6 @@
 
 | faja | ivara | db | azonosító jel száma |
 
-14. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^265]
+14. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^267]
 
-[^265]: A Vhr. 14. számú melléklete az 50/2021. (XII. 29.) AM rendelet 5. §-ával megállapított szöveg.
+[^267]: A Vhr. 14. számú melléklete az 50/2021. (XII. 29.) AM rendelet 5. §-ával megállapított szöveg.

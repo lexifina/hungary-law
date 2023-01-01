@@ -1,5 +1,5 @@
 ## (A Vtv. 91. §-ához)
 
-93. §[^231]
+93. §[^233]
 
-[^231]: A Vhr. 93. §-át a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 7. pontja hatályon kívül helyezte.
+[^233]: A Vhr. 93. §-át a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 7. pontja hatályon kívül helyezte.

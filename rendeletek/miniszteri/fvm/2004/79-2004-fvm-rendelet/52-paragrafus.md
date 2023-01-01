@@ -2,11 +2,11 @@
 
 (1a)[^122] A vadászati engedély kiváltása
 
-a) megkezdett harminc naponként tízezer forint,
+a)[^123] megkezdett harminc naponként harmincezer forint,
 
-b) egy évre százezer forint.
+b)[^124] egy évre kétszázezer forint.
 
-(1b)[^123] A fel nem használt vadászati engedély nem váltható vissza. A vadászati engedély elvesztése, megsemmisülése esetén a pótlásként kiadott engedély után a teljes összeget kell ismételten megfizetni.
+(1b)[^125] A fel nem használt vadászati engedély nem váltható vissza. A vadászati engedély elvesztése, megsemmisülése esetén a pótlásként kiadott engedély után a teljes összeget kell ismételten megfizetni.
 
 (2) A vadászati engedéllyel rendelkező vadász a vadászati tevékenységet csak abban az esetben kezdheti meg, ha a vadászattal érintett vadászterület kódszámát a vadászatra jogosult a vadászati engedélybe bejegyezte.
 
@@ -16,4 +16,6 @@ b) egy évre százezer forint.
 
 [^121]: A Vhr. 52. §-a a 24/2017. (V. 17.) FM rendelet 15. §-ával megállapított szöveg.
 [^122]: A Vhr. 52. § (1a) bekezdését a 43/2018. (XII. 20.) AM rendelet 1. §-a iktatta be.
-[^123]: A Vhr. 52. § (1b) bekezdését a 43/2018. (XII. 20.) AM rendelet 1. §-a iktatta be.
+[^123]: A Vhr. 52. § (1a) bekezdés a) pontja a 36/2022. (XI. 29.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^124]: A Vhr. 52. § (1a) bekezdés b) pontja a 36/2022. (XI. 29.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^125]: A Vhr. 52. § (1b) bekezdését a 43/2018. (XII. 20.) AM rendelet 1. §-a iktatta be.
