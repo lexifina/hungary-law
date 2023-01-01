@@ -8,4 +8,6 @@ b) egészségügyi intézményben következett be, a fogvatartottat kezelő oszt
 
 c) a bv. intézetben vagy a munkáltatás helyén következett be, a bv. orvos
 
+végzi a halottvizsgálatot.
+
 [^12]: A 18. § a) pontja a 14/2020. (X. 30.) IM rendelet 2. § f) pontja szerint módosított szöveg.
