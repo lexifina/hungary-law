@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-145-20-
 | 2021-03-01 | 1999-145-20-22.26 | 95/2021. (II. 27.) Korm. rendelet |
 | 2021-07-16 | 1999-145-20-22.27 | 379/2013. (X. 25.) Korm. rendelet |
 | 2021-12-23 | 1999-145-20-22.28 | 717/2021. (XII. 20.) Korm. rendelet |
+| 2023-01-01 | 1999-145-20-22.30 | 38/2015. (III. 11.) Korm. rendelet |

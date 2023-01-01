@@ -28,7 +28,7 @@ b) a temetési hely, sírjel nem felel meg a szabályzat előírásainak.
 
 (7)[^27] Ha a rendelkezési jog azért szűnik meg, mert a jogosult a holttestet más temetési helyen kívánja eltemetni, a jogosult részére a megfizetett megváltási díj időarányos részét vissza kell téríteni.
 
-(8)[^28] Műemléki védelem alatt álló temetőben, temetőrészen, illetve műemlék sírjel, síremlék, sírépítmény vagy azok védett csoportja, együttese esetében a rendelkezési jog (5) bekezdés szerinti megszűnésétől számított 15 napon belül a temető üzemeltetője erről értesítést küld a fővárosi és megyei kormányhivatal örökségvédelmi feladatkörében eljáró járási (fővárosi kerületi) hivatalának.
+(8)[^28] Műemléki védelem alatt álló temetőben, temetőrészen, illetve műemlék sírjel, síremlék, sírépítmény vagy azok védett csoportja, együttese esetében a rendelkezési jog (5) bekezdés szerinti megszűnésétől számított 15 napon belül a temető üzemeltetője erről értesítést küld a fővárosi és vármegyei kormányhivatal örökségvédelmi feladatkörében eljáró járási (fővárosi kerületi) hivatalának.
 
 [^22]: A 18. § (1) bekezdése a 121/2005. (VI. 28.) Korm. rendelet 5. §-ának (1) bekezdésével megállapított szöveg.
 [^23]: A 18. § (2) bekezdése a 379/2013. (X. 25.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
@@ -36,4 +36,4 @@ b) a temetési hely, sírjel nem felel meg a szabályzat előírásainak.
 [^25]: A 18. § (4) bekezdése a 121/2005. (VI. 28.) Korm. rendelet 5. §-ának (2) bekezdésével megállapított szöveg.
 [^26]: A 18. § (5a) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^27]: A 18. § (7) bekezdése a 379/2013. (X. 25.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^28]: A 18. § (8) bekezdését a 38/2015. (III. 11.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 36. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 80. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^28]: A 18. § (8) bekezdését a 38/2015. (III. 11.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 36. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 80. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 35. §-a szerint módosított szöveg.

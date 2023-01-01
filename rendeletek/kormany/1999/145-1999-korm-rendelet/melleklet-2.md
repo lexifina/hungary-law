@@ -1,6 +1,6 @@
 2. melléklet a 145/1999. (X. 1.) Korm. rendelethez[^133]
 
-## A Tv. 28/B. § (2) bekezdése szerint számlázható egyéb tevékenységek:
+A Tv. 28/B. § (2) bekezdése szerint számlázható egyéb tevékenységek:
 
 1. Temetési hely díja
 
