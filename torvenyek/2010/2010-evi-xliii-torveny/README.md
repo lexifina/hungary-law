@@ -57,3 +57,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-43-00-00
 | 2022-06-18 | 2022. évi VII. törvény | 2010-43-00-00.50 |
 | 2022-10-11 | 2022. évi XXVII. törvény | 2010-43-00-00.52 |
 | 2022-11-01 | 2021. évi XCIII. törvény | 2010-43-00-00.51 |
+| 2023-01-01 | 2022. évi XLIV. törvény | 2010-43-00-00.53 |

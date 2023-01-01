@@ -38,6 +38,8 @@ d) a Nemzeti Adatvédelmi és Információszabadság Hatóság, és
 
 e) a Nemzeti Választási Iroda.
 
+f) az Európai Támogatásokat Auditáló Főigazgatóság.
+
 (5) Rendvédelmi szerv
 
 a) a rendőrség,
