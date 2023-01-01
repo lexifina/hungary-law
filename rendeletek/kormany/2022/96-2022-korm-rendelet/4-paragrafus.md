@@ -8,6 +8,6 @@ a) a rendezett munkaügyi kapcsolatok – a foglalkoztatás-felügyeleti hatós�
 
 b) nem áll jogerős végzéssel elrendelt végelszámolás, felszámolás alatt, ellene jogerős végzéssel elrendelt csődeljárás vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárás nincs folyamatban.
 
-(4)[^2] A munkaadó nem jogosult támogatásra annak az ukrán állampolgárnak a foglalkoztatása után, akinek a kérelem benyújtását megelőző 365 napon belüli, az 1. § b) pontja szerinti foglalkoztatása a 90 napot elérte. Az időtartam számítása során az egyes munkaviszonyok időtartamát össze kell számítani.
+(4)[^3] A munkaadó nem jogosult támogatásra annak az ukrán állampolgárnak a foglalkoztatása után, akinek a kérelem benyújtását megelőző 365 napon belüli, az 1. § b) pontja szerinti foglalkoztatása a 90 napot elérte. Az időtartam számítása során az egyes munkaviszonyok időtartamát össze kell számítani.
 
-[^2]: A 4. § (4) bekezdését a 109/2022. (III. 12.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 4. § (4) bekezdését a 109/2022. (III. 12.) Korm. rendelet 1. §-a iktatta be.

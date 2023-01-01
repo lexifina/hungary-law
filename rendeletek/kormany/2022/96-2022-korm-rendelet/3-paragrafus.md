@@ -1,5 +1,3 @@
-## 2. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 72/H. § (3a) bekezdés j) pontjától eltérően az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) szakhatóságként nem működik közre az összevont kérelmezési eljárásban a 2022. február 24-én vagy azt követően Magyarország területére érkezett ukrán állampolgár kérelme ügyében.
-
 3. § (1) A külgazdasági és külügyminiszter a harmadik országbeli állampolgárok magyarországi foglalkoztatásával összefüggő feladat- és hatáskörében
 
 a) tájékoztatást nyújt az ukrán állampolgár részére a munkavállalás lehetőségeiről az országhatáron belül kijelölt segítségpontoknál,
