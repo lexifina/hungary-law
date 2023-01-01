@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-333-20-
 | 2018-01-01 | 2016-333-20-22.2 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2020-07-31 | 2016-333-20-22.3 | 371/2020. (VI. 30.) Korm. rendelet |
 | 2022-12-23 | 2016-333-20-22.4 | 371/2020. (VI. 30.) Korm. rendelet |
+| 2023-01-01 | 2016-333-20-22.5 | 371/2020. (VI. 30.) Korm. rendelet |
