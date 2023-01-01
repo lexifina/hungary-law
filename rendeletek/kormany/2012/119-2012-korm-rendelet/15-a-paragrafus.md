@@ -1,4 +1,4 @@
-15/A. §[^29] (1)[^30] A bírságot megállapító határozat (a továbbiakban: határozat) – az Mötv. 141. § (5) bekezdésében foglaltakon túlmenően – tartalmazza
+15/A. §[^52] (1)[^53] A bírságot megállapító határozat (a továbbiakban: határozat) – az Mötv. 141. § (5) bekezdésében foglaltakon túlmenően – tartalmazza
 
 a) a határozat végrehajtásával összefüggésben
 
@@ -32,5 +32,5 @@ dd) a döntés kiadmányozójának aláírását és
 
 de) hivatalos bélyegzőlenyomatát.
 
-[^29]: A 15/A. §-t a 127/2013. (IV. 30.) Korm. rendelet 5. §-a iktatta be.
-[^30]: A 15/A. § (1) bekezdés nyitó szövegrésze a 61/2015. (III. 24.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^52]: A 15/A. §-t a 127/2013. (IV. 30.) Korm. rendelet 5. §-a iktatta be.
+[^53]: A 15/A. § (1) bekezdés nyitó szövegrésze a 61/2015. (III. 24.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
