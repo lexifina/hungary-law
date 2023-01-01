@@ -2,4 +2,4 @@
 
 ## HATÁLYUKAT VESZTŐ JOGSZABÁLYOK
 
-### 67–68. §
+### 67. §

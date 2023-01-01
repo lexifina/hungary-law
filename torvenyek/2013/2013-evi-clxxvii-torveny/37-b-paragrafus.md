@@ -1,0 +1,1 @@
+37/B. § A Ptk.-nak az egyes igazságügyi tárgyú törvények módosításáról szóló 2022. évi LV. törvénnyel módosított 4:181. § (3) bekezdését a 2023. január 1-jén folyamatban lévő ügyekben is alkalmazni kell.
