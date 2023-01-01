@@ -4,7 +4,7 @@ a) a tervezett mezőgazdasági terület talajának és talajvizének az 1. szám
 
 b) a mezőgazdasági felhasználás előtt a kijuttatandó szennyvíznek, szennyvíziszapnak, szennyvíziszap komposztnak a 2. számú mellékletben foglalt jellemzőit
 
-## kell meghatározni.
+kell meghatározni.
 
 (2)[^22] A talajvédelmi hatóság a talaj, a talajvíz, a szennyvíz, a szennyvíziszap, illetve a szennyvíziszap komposzt vizsgálatát – a 10. § (1) bekezdésének f) pontjában foglaltak figyelembevételével – a földtani közeg és a felszín alatti víz szennyezéssel szembeni védelméhez szükséges határértékekről és a szennyezések méréséről szóló miniszteri rendeletben[^23] (a továbbiakban: R.) meghatározott jellemzőkre is kiterjesztheti az abban foglalt (B) szennyezettségi határértéknek megfelelő egyedi határérték megállapításával.
 

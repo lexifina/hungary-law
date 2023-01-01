@@ -52,7 +52,7 @@
 
 2. számú melléklet az 50/2001. (IV. 3.) Korm. rendelethez[^62]
 
-## Szennyvíz, szennyvíziszap, szennyvíziszap komposzt vizsgálandó komponensei
+Szennyvíz, szennyvíziszap, szennyvíziszap komposzt vizsgálandó komponensei
 
 ## és egyéb jellemzői mezőgazdasági felhasználás előtt
 

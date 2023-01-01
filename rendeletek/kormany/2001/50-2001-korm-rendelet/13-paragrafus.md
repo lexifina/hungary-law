@@ -10,7 +10,7 @@ a) szennyvíziszap esetében a (2) bekezdésben meghatározott számítások ala
 
 b)[^44] szennyvíziszap komposzt esetében a 4. § (5) bekezdése szerinti egyszerűsített talajvédelmi tervben
 
-## kell meghatározni.
+kell meghatározni.
 
 (5)[^45] A szennyvíz, szennyvíziszap, szennyvíziszap komposzt mezőgazdasági felhasználása során úgy kell eljárni, hogy az ne eredményezze a talajban a 3. számú mellékletben meghatározott határértéknél, felszín alatti vízben – a 10. § (1) bekezdés f) pontjában meghatározott eltérés figyelembevételével – a 6. § (2) bekezdés szerinti külön jogszabályban meghatározott (B) szennyezettségi határértéknél kedvezőtlenebb állapotot.
 
