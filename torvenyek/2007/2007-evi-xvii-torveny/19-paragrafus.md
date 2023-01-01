@@ -1,12 +1,12 @@
 ## A hatáskörrel rendelkező hatóság feladatai
 
-19. § (1) A hatáskörrel rendelkező hatóság a kölcsönös megfeleltetés körébe tartozó ellenőrzéseket végez.
+19. § (1) A hatáskörrel rendelkező hatóság a kölcsönös megfeleltetés és a feltételesség körébe tartozó ellenőrzéseket végez.
 
 (2) A hatáskörrel rendelkező hatóság az ellenőrzések eredményeiről a mezőgazdasági és vidékfejlesztési támogatási szervet a (3)–(5) bekezdésben foglaltaknak megfelelően tájékoztatja.
 
-(3) A mezőgazdasági és vidékfejlesztési támogatási szerv és a hatáskörrel rendelkező hatóság vagy a mezőgazdasági és vidékfejlesztési támogatási szerv felé ellenőrzési eredményeket szolgáltató szerv a kölcsönös megfeleltetés keretében történő ellenőrzések ellátásával, valamint az adatok kölcsönös átadásával kapcsolatos részletes feltételekről írásban állapodnak meg. Az írásbeli megállapodásnak tartalmaznia kell különösen:
+(3) A mezőgazdasági és vidékfejlesztési támogatási szerv és a hatáskörrel rendelkező hatóság vagy a mezőgazdasági és vidékfejlesztési támogatási szerv felé ellenőrzési eredményeket szolgáltató szerv a kölcsönös megfeleltetés és a feltételesség keretében történő ellenőrzések ellátásával, valamint az adatok kölcsönös átadásával kapcsolatos részletes feltételekről írásban állapodnak meg. Az írásbeli megállapodásnak tartalmaznia kell különösen:
 
-a) a hatáskörrel rendelkező hatóság által a kölcsönös megfeleltetés körébe tartozó feltételek ellenőrzésének a körét;
+a) a hatáskörrel rendelkező hatóság által a kölcsönös megfeleltetés és a feltételesség körébe tartozó feltételek ellenőrzésének a körét;
 
 b) az ellenőrzés során alkalmazandó mintavétel módját;
 
@@ -16,7 +16,7 @@ d) a hatáskörrel rendelkező hatóság által kiállítandó ellenőrzési jeg
 
 (4) A (3) bekezdésben meghatározott adatcsere kapcsán a mezőgazdasági és vidékfejlesztési támogatási szerv által működtetett integrált informatikai rendszer, valamint nyilvántartási rendszerek kód- és törzsadatait kell alkalmazni, különös tekintettel a kiválasztásra kerülő ügyfelek azonosítására.
 
-(5) A hatáskörrel rendelkező hatóság a kölcsönös megfeleltetés körébe tartozó ellenőrzésekhez kapcsolódó nyilvántartási rendszereit a mezőgazdasági és vidékfejlesztési támogatási szerv által működtetett ügyfél-nyilvántartási rendszerhez kapcsolódva úgy alakítja ki, hogy az ügyfél azonosításához kapcsolódó e törvény szerinti adatokat az ügyfél-nyilvántartási rendszer tartja nyilván.
+(5) A hatáskörrel rendelkező hatóság a kölcsönös megfeleltetés és a feltételesség körébe tartozó ellenőrzésekhez kapcsolódó nyilvántartási rendszereit a mezőgazdasági és vidékfejlesztési támogatási szerv által működtetett ügyfél-nyilvántartási rendszerhez kapcsolódva úgy alakítja ki, hogy az ügyfél azonosításához kapcsolódó e törvény szerinti adatokat az ügyfél-nyilvántartási rendszer tartja nyilván.
 
 (6) A mezőgazdasági és vidékfejlesztési támogatási szerv ellenőrzésére jogosult szervek ellenőrzik a (3) bekezdésben foglaltak szerinti megállapodásban foglaltak teljesítését.
 

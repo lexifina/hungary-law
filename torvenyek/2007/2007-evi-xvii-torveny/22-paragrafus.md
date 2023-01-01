@@ -6,7 +6,7 @@
 
 22. § (1) A mezőgazdasági és vidékfejlesztési támogatási szerv a hatáskörébe tartozó feladatok végrehajtásához:
 
-a) az ügyfél természetes személyazonosító adatait, lakcímadatait, ügyfél-azonosítóját,
+a) az ügyfél természetes személyazonosító adatait, lakcímadatait, elektronikus levelezési címét, ügyfél-azonosítóját,
 
 b) az egyes intézkedésekben való részvétellel összefüggő eljárás során az ügyfélre vonatkozóan keletkezett adatokat,
 

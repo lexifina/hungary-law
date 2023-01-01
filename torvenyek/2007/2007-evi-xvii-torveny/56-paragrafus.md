@@ -10,6 +10,8 @@ d) a döntését közhiteles nyilvántartás adatainak – a 29/A. § (3) bekezd
 
 e) a kérelmet a (2) bekezdés b), c), f) vagy n) pontjában meghatározott indokkal utasítja vissza.
 
+f) a kérelemnek maradéktalanul helyt adott.
+
 (2) A kérelmet vissza kell utasítani, ha:
 
 a) a kérelmet a keret kimerülését követően nyújtották be;
@@ -18,7 +20,7 @@ b) a kérelem nem a jogszabályban meghatározott módon, illetve nem az arra re
 
 c) az eljárást megindító kérelmet az igény érvényesítésére jogosult eredeti aláírásával nem hitelesítette, kivéve az ügyfélkapun keresztül történő kérelembenyújtást;
 
-d) a kérelmet nem az igény érvényesítésére jogosult személy terjesztette elő;
+d) a kérelmet az ügyfél nevében előterjesztő képviselő képviseleti joga a kérelem benyújtásakor nem került megfelelően igazolásra;
 
 e) a kérelem a benyújtási időszakot megelőzően került benyújtásra, vagy elkésett;
 
@@ -30,7 +32,7 @@ h) a kérelem nem tartalmaz olyan adatot, dokumentumot, amely a kérelem benyúj
 
 i) ha a támogatást igénylő, a pénzügyi következményekkel járó intézkedésekben való részvétel iránti kérelmet, felszámolási, végelszámolási vagy adósságrendezési eljárás alatt álló ügyfél nyújtotta be, kivéve, ha jogszabály ettől eltérően rendelkezik;
 
-j) amennyiben az intézkedésre vonatkozó jogszabály alapján a kérelmet nyomtatványon kell benyújtani, és az eljárás megindítására irányuló kérelem nem tartalmazza a főlapot vagy az intézkedésben való részvételre vonatkozó jogszabályban meghatározott betétlapokat, vagy bármelyiket az igény érvényesítésére jogosult aláírásával a nyomtatványon megjelölt helyen nem hitelesítette;
+j) amennyiben az intézkedésre vonatkozó jogszabály alapján a kérelmet nyomtatványon kell benyújtani, és az eljárás megindítására irányuló kérelem nem tartalmazza a főlapot vagy az intézkedésben való részvételre vonatkozó jogszabályban meghatározott betétlapokat, vagy papír alapú benyújtás esetén bármelyiket az igény érvényesítésére jogosult aláírásával a nyomtatványon megjelölt helyen nem hitelesítette;
 
 k)
 

@@ -1,6 +1,6 @@
 ## A törvény hatálya
 
-10. § (1) A Magyarország területén székhellyel, telephellyel, lakóhellyel, szokásos tartózkodási hellyel rendelkező vagy egyébként itt tartózkodó és gazdasági (termelő, szolgáltató, üzemi, üzleti) tevékenységet folytató természetes személy, jogi személy, egyéb szervezet egyes intézkedésekben való részvételének rendjére, valamint az ezzel összefüggő mezőgazdasági támogatási eljárásban részt vevő vagy érintett személyre, szervezetre e törvény rendelkezéseit kell alkalmazni.
+10. § (1) A Magyarország területén székhellyel, telephellyel, lakóhellyel, szokásos tartózkodási hellyel rendelkező gazdasági (termelő, szolgáltató, üzemi, üzleti) tevékenységet folytató természetes személy, jogi személy, egyéb szervezet egyes intézkedésekben való részvételének rendjére, valamint az ezzel összefüggő mezőgazdasági támogatási eljárásban részt vevő vagy érintett személyre, szervezetre e törvény rendelkezéseit kell alkalmazni.
 
 (2) E törvény rendelkezéseit kell alkalmazni továbbá az Európai Unió bármely tagállamában székhellyel, telephellyel rendelkező jogi személyre, illetve egyéb szervezetre, továbbá az Európai Unió bármely tagállamában lakóhellyel, szokásos tartózkodási hellyel rendelkező arra a természetes személyre, aki (amely) Magyarországon gazdasági (termelő, szolgáltató, üzemi, üzleti) tevékenységet folytat, és a vonatkozó jogszabályok alapján:
 

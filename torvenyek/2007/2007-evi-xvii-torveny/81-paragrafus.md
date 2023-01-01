@@ -66,7 +66,7 @@ rendeletben állapítsa meg.
 
 a) a (3) bekezdés a) pontja alá nem tartozó egyes intézkedések igénybevételével, az ahhoz kapcsolódó adatszolgáltatással, eljárásokkal kapcsolatos részletes, valamint az intézkedésekben való részvétellel kapcsolatos általános szabályokat,
 
-b) a mezőgazdasági vagyoni értékű jogok kiosztásának részletes szabályait, illetve nemzeti tartalékának mértékét,
+b) a mezőgazdasági vagyoni értékű jogok megállapításának részletes szabályait,
 
 c) a mezőgazdasági és vidékfejlesztési szaktanácsadási rendszer felállítására, működésére, a területi szaktanácsadási központként végzett tevékenység engedélyezésére, valamint a szaktanácsadók képzettségére vonatkozó részletes szabályokat,
 
@@ -84,20 +84,30 @@ i) a VINGIS-hez kapcsolódó adatszolgáltatás részletes szabályait,
 
 j) a szakrendszerek kialakításának részletes szabályait,
 
-k) a kölcsönös megfeleltetés körébe tartozó ellenőrzések lefolytatásával, valamint a jogkövetkezmények alkalmazásával kapcsolatos szabályokat,
+k) a kölcsönös megfeleltetés és a feltételesség körébe tartozó ellenőrzések lefolytatásával, valamint a jogkövetkezmények alkalmazásával kapcsolatos szabályokat,
 
-l) a kölcsönös megfeleltetés végrehajtásához kialakítandó nyilvántartások részletes szabályait,
+l) a kölcsönös megfeleltetés és a feltételesség végrehajtásához kialakítandó nyilvántartások részletes szabályait,
 
 m) a (3) bekezdés h) pontja alá nem tartozó elektronikus úton teljesítendő kérelem-, pályázatbenyújtás, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat,
 
-n) a (3) bekezdés i) pontja alá nem tartozó mesterséges körülmények megállapításának eseteit,
+n) a (3) bekezdés i) pontja alá nem tartozó mesterséges körülmények megállapításának egyes eseteit,
 
 o) az ügyfél-nyilvántartás módját és feltételeit, továbbá az ügyfél-nyilvántartással kapcsolatos eljárás részletes szabályait,
 
 p) a tevékenységihely-nyilvántartás módját és feltételeit, továbbá a tevékenységihely-nyilvántartással kapcsolatos eljárás részletes szabályait
+
+q) a területi monitoringrendszer működtetésével kapcsolatos szabályokat;
+
+r) támogatási jogosultságok felső határának megállapítása, és az országos tartalékával összefüggő részletes szabályait;
+
+s) a területi monitoringrendszer kapcsán a helyszíni ellenőrzések mintakiválasztásával, lebonyolításával, tartalmával, az ellenőrzési jelentés részleteivel kapcsolatos szabályokat
+
+t) a kamarai meghatalmazás létrehozására, megszűnésére, annak módjára, a kamarai meghatalmazás tartalmára, a nyilvántartás adataira vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a miniszter, hogy a nemzeti hatáskörbe tartozó mezőgazdasági, halászati, erdészeti és agrár- és vidékfejlesztési állami támogatás igénybevételére vonatkozó, törvényben vagy kormányrendeletben nem szabályozott feltételeket rendeletben állapítsa meg.
 
 (6) Felhatalmazást kap a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter, hogy a társadalompolitika összehangolásáért felelős miniszterrel egyetértésben rendeletben állapítsa meg a közösségi bormarketing támogatások igénybevételének szabályait.
+
+(6) Felhatalmazást kap a gazdaságfejlesztésért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel egyetértésben az Agrár Széchenyi Kártya Program működésének és igénybevételének szabályait rendeletben állapítsa meg.

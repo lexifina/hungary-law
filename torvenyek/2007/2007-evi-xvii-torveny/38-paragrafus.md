@@ -34,4 +34,4 @@ d) az elektronikus úton benyújtott kérelmek kivételével az ügyfél aláír
 
 (8c) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfél támogatási jogosultságát megszünteti, ha az ügyfél az intézkedésben jogosulatlanul vett részt.
 
-(9)
+(9) E törvény eltérő rendelkezése hiányában a hivatalból indult eljárásokra a kérelemre indult eljárásra vonatkozó szabályokat kell alkalmazni.

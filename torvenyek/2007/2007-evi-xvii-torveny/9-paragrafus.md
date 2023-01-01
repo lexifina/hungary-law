@@ -16,7 +16,7 @@
 
 7. gondatlanság: a mezőgazdasági és vidékfejlesztési intézkedésekkel összefüggésben gondatlannak minősül az ügyfél, illetve az általa igénybevett közreműködője, képviselője magatartása, amennyiben az a 27. pont szerint nem minősíthető szándékos magatartásnak;
 
-8. hatáskörrel rendelkező hatóság: a kölcsönös megfeleltetés körébe tartozó előírások és követelmények ellenőrzését, igazolását végző közigazgatási szerv;
+8. hatáskörrel rendelkező hatóság: a kölcsönös megfeleltetés és a feltételesség körébe tartozó előírások és követelmények ellenőrzését, igazolását végző közigazgatási szerv;
 
 9. igazoló hatóság: az 1198/2006/EK tanácsi rendelet 58. cikk (1) bekezdés b) pontja szerinti szervezet;
 
@@ -52,7 +52,7 @@ c) a 717/2014/EU bizottsági rendelet szerinti halászati csekély összegű tá
 
 19. mezőgazdasági támogatási eljárás: mezőgazdasági, halászati, erdészeti és vadgazdálkodási és agrár-vidékfejlesztési támogatásokhoz és egyéb intézkedésekhez kapcsolódó, e törvény hatálya alá tartozó eljárás;
 
-20. monitoring: az 1698/2005/EK tanácsi rendelet, az 1974/2006/EK bizottsági rendelet, valamint a 498/2007/EK bizottsági rendelet szerint meghatározott mutatókra vonatkozóan végrehajtott, az intézkedések megkezdésekor, valamint a célkitűzéseikhez viszonyított előrehaladásának, hatásának rendszeres vizsgálata;
+20. monitoring: az 1698/2005/EK tanácsi rendelet, az 1974/2006/EK bizottsági rendelet, valamint a 498/2007/EK bizottsági rendelet szerint meghatározott mutatókra vonatkozóan végrehajtott, az intézkedések megkezdésekor, valamint a célkitűzéseikhez viszonyított előrehaladásának, hatásának rendszeres vizsgálata, valamint a 2021/2115/EU európai parlamenti és a tanácsi rendelet 132. cikk szerinti eljárás;
 
 21. monitoring-adatgyűjtés: az 1698/2005/EK tanácsi rendelet, az 1974/2006/EK bizottsági rendelet, az 1198/2006/EK tanácsi rendelet, valamint a 498/2007/EK bizottsági rendelet szerint meghatározott mutatókra vonatkozóan végrehajtott, az intézkedések megkezdésekor, valamint a célkitűzéseikhez viszonyított előrehaladásának, hatásának mérésére szolgáló adatok rendszeres gyűjtése;
 
@@ -75,6 +75,12 @@ c) a 717/2014/EU bizottsági rendelet szerinti halászati csekély összegű tá
 30. üzemzavar: az ügyfél és a mezőgazdasági és vidékfejlesztési támogatási szerv, valamint a mezőgazdasági és vidékfejlesztési támogatási szerv és egyéb szervek közötti elektronikus úton történő kapcsolattartása során felmerült, az elektronikus kapcsolattartás eszközéül használt informatikai rendszer átmeneti vagy tartós olyan meghibásodása, valamint olyan karbantartásának időtartama, ami miatt az informatikai rendszerek nem tudják biztosítani az elektronikus tájékoztatást, az elektronikus úton történő kapcsolattartást, valamint az elektronikus irat feltöltését, letöltését, továbbítását;
 
 31. vagyoni értékű támogatási jogosultság: a közvetlen támogatási intézkedések keretében az ügyfél számára megállapított olyan vagyoni értékű jog, amelynek azonosítását és nyilvántartását jogszabály írja elő.
+
+32. feltételesség: a közvetlen mezőgazdasági támogatások, valamint egyes vidékfejlesztési támogatások igénylése esetén betartandó, az Európai Parlament és Tanács 2021/2115/EU rendelet 12. cikke és III. melléklete szerinti egységes feltételrendszer;
+
+33. kamarai meghatalmazás: a jogszabályban meghatározott feltételekkel létrejött, képviseleti jogot létesítő jognyilatkozat, amely alapján a Magyar Agrár- Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK) az agrár-, illetve vidékfejlesztési támogatások igénybevételével összefüggő elektronikus ügyintézés során technikai közreműködőként az ügyfelek képviseletében eljárhat;
+
+34. mobilGazda alkalmazás: a mezőgazdasági és vidékfejlesztési támogatási szerv által az ügyfelek számára biztosított, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 25. §-a szerinti, valós idejű és közvetlen kommunikációs lehetőséget biztosító, hatékonyabb ügyintézést célzó interaktív alkalmazás.
 
 (2) Az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer (a továbbiakban: ügyfél-nyilvántartási rendszer) a mezőgazdasági és vidékfejlesztési támogatási szerv és az élelmiszerlánc-felügyeleti szerv hatáskörébe tartozó eljárásokban részt vevő ügyfelek azonosítását és törzsadatainak nyilvántartását szolgáló rendszer, amely tekintetében a törvény, valamint a törvény végrehajtására kiadott jogszabályok alkalmazásában:
 

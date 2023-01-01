@@ -18,6 +18,8 @@ g) monitoring adat-nyilvántartási rendszer,
 
 h) Tevékenységihely-nyilvántartási Rendszer [az a)–h) pontok a továbbiakban együtt: nyilvántartási rendszerek].
 
+i) képzettségi nyilvántartási rendszer.
+
 (1a) Ahol e törvény közhiteles nyilvántartásban szereplő adatról rendelkezik, ilyen adat esetében az ellenkező bizonyításáig vélelmezni kell annak jóhiszeműségét, aki az adott nyilvántartásban szereplő közhiteles adatokban bízva jogot szerez. Az ellenkező bizonyításáig a mezőgazdasági és vidékfejlesztési támogatási szerv által vezetett nyilvántartásba bejegyzett adatról vélelmezni kell, hogy az fennáll, a nyilvántartásból törölt adatról vélelmezni kell, hogy nem áll fenn. Senki sem hivatkozhat arra, hogy a nyilvántartásba bejegyzett adatot nem ismeri, kivéve, ha a nyilvántartásba bejegyzett adat személyes adatnak vagy törvény által védett titoknak minősül, és megismerhetőségének törvényi feltételei nem állnak fenn.
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv a nyilvántartási rendszerek működtetéséhez kapcsolódó adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
@@ -108,13 +110,23 @@ h) Tevékenységihely-nyilvántartási Rendszer [az a)–h) pontok a továbbiakb
 
 42. a szőlőültetvények országos térinformatikai nyilvántartásából.
 
+43. a Kármegállapítási Munkafolyamatokat Támogató Rendszerből (KMTR),
+
+44. a vízjogi engedélyekkel és víztestek állapotával kapcsolatos adatbázisokból (OVF),
+
+45. a Földmegfigyelési Információs Rendszerből (FIR),
+
+46. az Elektronikus Gazdálkodási Naplóból (webGN),
+
+47. a gyümölcsültetvény-kataszterből.
+
 (3a) A mezőgazdasági és vidékfejlesztési támogatási szerv a személyiadat- és lakcímnyilvántartásból a (3) bekezdésben meghatározott feladata ellátása céljából az ügyfél-nyilvántartási rendszerben nyilvántartott természetes személy ügyfél természetes személyazonosító adatai, állampolgársága, lakóhelyének címe, elhalálozására vonatkozó adata igénylésére jogosult, amely adatokat természetes személyazonosító adattal, a lakóhely címével, illetve kapcsolati kód alkalmazásával igényelheti.
 
 (3b) A Központi Ügyfél-regisztrációs Nyilvántartást kezelő szerv az adatkezelő szerv megkeresésére annak törvényben rögzített feladatai ellátása érdekében elektronikus úton adatot szolgáltat azon természetes személyek személyazonosító adataira, állampolgárságára, elektronikus levélcímére, ügyfélkapu-azonosítójára vonatkozó adatokról, akik ügyfélkaput létesítettek, továbbá az ügyfélkapu-létesítés időpontjára vonatkozó adatokról. Ügyfélkapu megszüntetése esetén a Központi Ügyfél-regisztrációs Nyilvántartást kezelő szerv az adatkezelő szerv megkeresésére elektronikus úton a tárhely címzéséhez szükséges adatokat szolgáltatja.
 
 (4) Az adatkezelő szerv az ügyfélre vonatkozó támogatási adatokat egymással, valamint az e törvény alapján átvett adatokkal a feladatkörében végzendő ellenőrzés céljából köteles összevetni, illetve felhasználhatja.
 
-(5) A mezőgazdasági és vidékfejlesztési támogatási szerv a kölcsönös megfeleltetés körébe tartozó ellenőrzésekhez kapcsolódó nyilvántartási rendszerek működtetése érdekében a hatáskörrel rendelkező hatóság részére a 26. § (1) bekezdés b) pontja szerinti nyilvántartási rendszerekben szereplő adatokat az ellenőrzések lefolytatásához és kiértékeléséhez szükséges mértékben átadja.
+(5) A mezőgazdasági és vidékfejlesztési támogatási szerv a kölcsönös megfeleltetés és a feltételesség körébe tartozó ellenőrzésekhez kapcsolódó nyilvántartási rendszerek működtetése érdekében a hatáskörrel rendelkező hatóság részére a 26. § (1) bekezdés b) pontja szerinti nyilvántartási rendszerekben szereplő adatokat az ellenőrzések lefolytatásához és kiértékeléséhez szükséges mértékben átadja.
 
 (6) Az (1) és (3) bekezdés szerinti nyilvántartásokban feltüntetett adatokkal szemben a bizonyítás azt terheli, aki az adatok helyességét, valósággal egyezőségét vitatja.
 

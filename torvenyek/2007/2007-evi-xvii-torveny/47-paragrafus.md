@@ -8,4 +8,4 @@
 
 (5) Az ellenőrzés a kérelem, azok mellékletei és az üggyel összefüggő más iratok átvizsgálásával, távérzékeléssel, laboratóriumi vizsgálattal, helyszíni ellenőrzés keretében történhet. E vizsgálati módszerek külön-külön, de együttesen is alkalmazhatók.
 
-(6) Az (5) bekezdés alkalmazásában távérzékeléses ellenőrzésnek minősül az űr- és légi felvételek adatainak kiértékelésével lefolytatott ellenőrzés.
+(6) Az (5) bekezdés alkalmazásában távérzékeléses ellenőrzésnek minősül az űr- és légi felvételek, valamint – jogszabályban meghatározottak szerint – a területi monitoringrendszer adatainak kiértékelésével lefolytatott ellenőrzés.

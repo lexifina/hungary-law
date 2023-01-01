@@ -6,7 +6,7 @@
 
 2. az 1698/2005/EK rendeletben előírt vidékfejlesztési támogatásra történő átmenet szabályainak megállapításáról szóló, 2006. szeptember 5-i 1320/2006/EK bizottsági rendelet;
 
-3. a mezőgazdasági termékek után járó export-visszatérítési rendszer alkalmazása közös részletes szabályainak megállapításáról szóló, 2009. július 7-i 612/2009/EK bizottsági rendelet,
+3. a mezőgazdasági termékek után járó export-visszatérítési rendszer alkalmazása közös részletes szabályainak megállapításáról szóló, 2009. július 7-i 612/2009/EK bizottsági rendelet;
 
 4. az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet;
 
@@ -40,8 +40,10 @@
 
 19. az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. december 16. 1388/2014/EU bizottsági rendelet;
 
-20. az Európai Unió működéséről szóló szerződés 108. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2015. július 13-i 2015/1589/EU tanácsi rendelet
+20. az Európai Unió működéséről szóló szerződés 108. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2015. július 13-i 2015/1589/EU tanácsi rendelet;
 
-21. az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) és az Európai Mezőgazdasági Garanciaalapból (EMGA) 2021-ben és 2022-ben nyújtandó támogatásokra vonatkozó egyes átmeneti rendelkezések megállapításáról és az 1305/2013/EU, az 1306/2013/EU és az 1307/2013/EU rendeletnek a források és a 2021-ben és 2022-ben való alkalmazás tekintetében, valamint az 1308/2013/EU rendeletnek a források és az ilyen támogatások 2021-re és 2022-re vonatkozó elosztása tekintetében történő módosításáról szóló, 2020. december 23-i 2020/2220 európai parlamenti és tanácsi rendelet
+21. az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) és az Európai Mezőgazdasági Garanciaalapból (EMGA) 2021-ben és 2022-ben nyújtandó támogatásokra vonatkozó egyes átmeneti rendelkezések megállapításáról és az 1305/2013/EU, az 1306/2013/EU és az 1307/2013/EU rendeletnek a források és a 2021-ben és 2022-ben való alkalmazás tekintetében, valamint az 1308/2013/EU rendeletnek a források és az ilyen támogatások 2021-re és 2022-re vonatkozó elosztása tekintetében történő módosításáról szóló, 2020. december 23-i 2020/2220 európai parlamenti és tanácsi rendelet;
 
-végrehajtásához szükséges rendelkezéseket állapít meg.
+22. a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EU rendelet hatályon kívül helyezéséről szóló 2021/2115/EU parlamenti és tanácsi rendelet;
+
+23. a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló 2021/2116/EU parlamenti és tanácsi rendelet

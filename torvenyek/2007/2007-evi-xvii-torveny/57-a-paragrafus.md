@@ -6,7 +6,7 @@
 
 (1b)
 
-(1c) A fellebbezést a döntés közlésétől számított 15 napon belül lehet előterjeszteni a mezőgazdasági és vidékfejlesztési támogatási szervnél. Ha a fellebbezést a miniszternél nyújtják be, akkor a miniszter a fellebbezést megküldi a mezőgazdasági és vidékfejlesztési támogatási szerv részére. Elkésettség címén a fellebbezés nem utasítható el, ha a fellebbezésre jogosult a fellebbezési határidőben a fellebbezést az elbírálására jogosult szervnél terjeszti elő.
+(1c) A fellebbezést a döntés közlésétől számított 15 napon belül – a fellebbezéssel érintett kérelem benyújtásának módjával azonos módon – lehet előterjeszteni a mezőgazdasági és vidékfejlesztési támogatási szervnél. Ha a fellebbezést a miniszternél nyújtják be, akkor a miniszter a fellebbezést megküldi a mezőgazdasági és vidékfejlesztési támogatási szerv részére. Elkésettség címén a fellebbezés nem utasítható el, ha a fellebbezésre jogosult a fellebbezési határidőben a fellebbezést az elbírálására jogosult szervnél terjeszti elő.
 
 (1d) A fellebbezésre jogosult a fellebbezési határidőn belül a fellebbezési jogáról legalább teljes bizonyító erejű magánokiratban visszavonhatatlanul lemondhat.
 
@@ -26,6 +26,8 @@ e) a fellebbezést, ha a benyújtott fellebbezésben nem azonosítható be a fel
 
 f) a (2) bekezdés megsértésével benyújtott fellebbezést.
 
+g) a nem a jogszabályban meghatározott módon, vagy a választott kapcsolattartási formának megfelelően benyújtott fellebbezést.
+
 (3) A fellebbezést az ügy összes iratával a fellebbezés beérkezésének napjától számított harminc napon belül kell felterjeszteni a miniszterhez, kivéve, ha a fellebbezést a felterjesztést megelőzően visszavonták, vagy a fellebbezés visszautasításának van helye, továbbá ha a fellebbezés alapján a mezőgazdasági és vidékfejlesztési támogatási szerv megállapítja, hogy döntése jogszabályt sért, és erre tekintettel a döntését kijavítja, módosítja vagy visszavonja. A fellebbezést a mezőgazdasági és vidékfejlesztési támogatási szerv az ügy összes iratával együtt terjeszti fel és a fellebbezésről kialakított álláspontjáról is nyilatkozik.
 
 (3a) A mezőgazdasági és vidékfejlesztési támogatási szerv a fellebbezés esetén a nem jogszabálysértő döntést akkor is visszavonhatja, illetve a fellebbezésben foglaltaknak megfelelően módosíthatja, ha a kérelemben foglaltakkal egyetért, feltéve, hogy az ügyben nincs ellenérdekű ügyfél.
@@ -34,7 +36,7 @@ f) a (2) bekezdés megsértésével benyújtott fellebbezést.
 
 (4) A miniszter a jogorvoslati eljárás során hozott döntését az ügy összes iratának beérkezését követő hatvan napon belül hozza meg, amely határidő az évente legfeljebb négy alkalommal előterjeszthető kérelmek vonatkozásában további hatvan nappal meghosszabbítható.
 
-(5) A fellebbezésben hivatkozott új tényt, új bizonyítékot a döntéshozatal során a miniszter csak abban az esetben veheti figyelembe, ha az ügyfél igazolni tudja, valamint az ügy körülményeiből megállapítható, hogy az ügyfél az új tényről, bizonyítékról az intézkedésben való részvételre vonatkozó kérelme benyújtásakor rajta kívül álló okból nem tudott.
+(5) A fellebbezésben hivatkozott új tényt, új bizonyítékot a döntéshozatal során a miniszter akkor veszi figyelembe, ha az ügyfél igazolja, vagy az ügy körülményeiből megállapítható, hogy az ügyfél az új tényről, bizonyítékról az intézkedésben való részvételre vonatkozó kérelme benyújtásakor rajta kívül álló okból nem tudott, vagy nem volt tudomása arról, hogy ezen új ténynek, új bizonyítéknak az intézkedésben való részvétel szempontjából jelentősége van.
 
 (5a) Az (5) bekezdést az EMVA és az EHA terhére nyújtott támogatások tekintetében nem kell alkalmazni.
 

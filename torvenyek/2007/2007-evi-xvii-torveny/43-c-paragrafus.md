@@ -14,4 +14,4 @@ b) egyéb esetben jelzi a mulasztást a szerv vezetőjének, aki tizenöt napon 
 
 a megkeresés teljesítéséről.
 
-(5) A megkeresést kizárólag elektronikus levél útján vagy egyéb elektronikus úton – elsődlegesen hivatali kapun keresztül – lehet megküldeni, továbbá a mezőgazdasági és vidékfejlesztési támogatási szerv és a végrehajtásban közreműködő szerv a megkeresés során elektronikus levél útján vagy egyéb elektronikus úton tartanak kapcsolatot egymással, amely tekintetében biztosítják a kézhezvétel visszaigazolását.
+(5) A megkeresést kizárólag hivatali kapun keresztül lehet megküldeni, továbbá a mezőgazdasági és vidékfejlesztési támogatási szerv és a végrehajtásban közreműködő szerv a megkeresés során hivatali kapu útján tartanak kapcsolatot egymással, amely tekintetében biztosítják a kézhezvétel visszaigazolását.

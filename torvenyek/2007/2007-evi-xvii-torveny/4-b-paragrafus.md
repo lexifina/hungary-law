@@ -26,6 +26,6 @@ kell teljesíteni.
 
 (7) A megkeresés teljesítésének (6) bekezdés szerinti elmaradásából eredő többletköltségeket a megkeresett szerv téríti meg.
 
-(8) Az (1) bekezdés a) pontja szerinti esetekben a megkeresést kizárólag elektronikus levél útján vagy egyéb elektronikus úton lehet megküldeni, amely tekintetében biztosítják a kézhezvétel visszaigazolását.
+(8) Az (1) bekezdés a) pontja szerinti esetekben a megkeresést kizárólag a megkeresett szerv vagy személy olyan hivatalos elektronikus elérhetőségén lehet megküldeni, amely tekintetében biztosítják a kézhezvétel visszaigazolását.
 
-(9) Az (1) bekezdés b) pontja szerinti hatóságok a megkeresés során elektronikus levél útján vagy egyéb elektronikus úton tartanak kapcsolatot egymással, amely tekintetében biztosítják a kézhezvétel visszaigazolását.
+(9) Az (1) bekezdés b) pontja szerinti hatóságok a megkeresés során hivatali kapun keresztül tartanak kapcsolatot egymással, amely tekintetében biztosítják a kézhezvétel visszaigazolását.

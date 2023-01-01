@@ -6,6 +6,6 @@
 
 (3) A 28. § (3) bekezdés a) pont aj) alpontjában és b) pont bl) alpontjában meghatározott fizetési számlaszám bejelentéséhez az ügyfél nevére szóló fizetési számlaszám létezését igazoló két hónapnál nem régebbi fizetési számlakivonat másolatát, vagy két hónapnál nem régebbi fizetési számlaszerződés másolatát vagy a számlát vezető pénzforgalmi szolgáltatónak a kérelem benyújtási időpontját megelőző két hónapnál nem régebbi nyilatkozatát vagy annak másolatát kell csatolni, amely tartalmazza az ügyfél azonosításához szükséges adatokat, valamint az ügyfél nevére szóló fizetési számlaszámot.
 
-(4) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfél-nyilvántartási rendszer részeként, a törvény hatálya alá tartozó eljárások végrehajtásához szükséges mértékben nyilvántartja az ügyfelek fióktelepeit, termelőegységeit, a gazdálkodás végzésének helyeit.
+(4) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfél-nyilvántartási rendszer részeként, a törvény hatálya alá tartozó eljárások végrehajtásához szükséges mértékben nyilvántartja az ügyfelek fióktelepeit.
 
 (5) A mezőgazdasági és vidékfejlesztési támogatási szerv és a élelmiszerlánc-felügyeleti szerv az ügyfelekre – beleértve a mezőgazdasági termelőket, valamint a mezőgazdasági üzemeket is – vonatkozó, közösségi jogi aktusok szerinti nyilvántartásról szakrendszer keretében gondoskodik.

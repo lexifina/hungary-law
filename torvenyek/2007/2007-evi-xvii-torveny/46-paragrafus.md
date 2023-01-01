@@ -1,6 +1,6 @@
 ## Az intézkedésekkel összefüggő egyes ellenőrzések
 
-46. § (1) E törvény ellenőrzésre vonatkozó rendelkezéseit a mezőgazdasági és vidékfejlesztési támogatási szervnek a kérelemmel kapcsolatos adminisztratív és helyszíni ellenőrzésével, a helyszíni szemlével összefüggő eljárásban, valamint abban az esetben kell alkalmazni, ha a mezőgazdasági és vidékfejlesztési támogatási szerv eljárása során egyidejűleg, mint hatáskörrel rendelkező hatóság, a kölcsönös megfeleltetés körébe tartozó helyszíni ellenőrzést hajt végre (a továbbiakban együttesen: ellenőrzés).
+46. § (1) E törvény ellenőrzésre vonatkozó rendelkezéseit a mezőgazdasági és vidékfejlesztési támogatási szervnek a kérelemmel kapcsolatos adminisztratív és helyszíni ellenőrzésével, a helyszíni szemlével összefüggő eljárásban, valamint abban az esetben kell alkalmazni, ha a mezőgazdasági és vidékfejlesztési támogatási szerv eljárása során egyidejűleg, mint hatáskörrel rendelkező hatóság, a kölcsönös megfeleltetés és a feltételesség körébe tartozó helyszíni ellenőrzést hajt végre (a továbbiakban együttesen: ellenőrzés).
 
 (2) Az ellenőrzés során vizsgálni kell, hogy a kérelemben, a pályázatban, illetve a döntést követően a határozatban, illetve a hatósági szerződésben foglalt adatok, tények, körülmények megfelelnek-e a valóságnak, az intézkedésben való részvétel feltételeit megállapító jogszabályban, illetve a pályázati felhívást tartalmazó közleményben foglaltaknak.
 

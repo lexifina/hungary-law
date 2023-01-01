@@ -8,6 +8,10 @@
 
 (4) A mezőgazdasági és vidékfejlesztési támogatási szerv eljárásában olyan bizonyíték használható fel, amely alkalmas a tényállás tisztázására.
 
+(4a) Az ügyfél által a kizárólag a mobilGazda alkalmazáson keresztül benyújtott adatot, megfelelő minőségű képfelvételt a mezőgazdasági és vidékfejlesztési támogatási szerv a tényállás tisztázásához bizonyítékként használja fel.
+
+(4b) A tényállás tisztázásának szempontjából, a mobilGazda alkalmazáson keresztül beküldött képek és a helyszíni ellenőrzésen vagy szemlén felvett adatok ütközése esetén a helyszíni ellenőrzés vagy szemle adatai az irányadók.
+
 (5) A mezőgazdasági és vidékfejlesztési támogatási szerv szabadon választja meg az alkalmazandó bizonyítási eszközt. Törvény előírhatja, hogy a mezőgazdasági és vidékfejlesztési támogatási szerv a határozatát kizárólag valamely bizonyítási eszközre alapozza, továbbá jogszabály meghatározott ügyekben kötelezővé teheti valamely bizonyítási eszköz alkalmazását, illetve előírhatja valamely szerv véleményének a kikérését.
 
 (6) A mezőgazdasági és vidékfejlesztési támogatási szerv a bizonyítékokat egyenként és összességükben értékeli, és az ezen alapuló meggyőződése szerint állapítja meg a tényállást.

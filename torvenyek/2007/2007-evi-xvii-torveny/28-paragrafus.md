@@ -30,7 +30,7 @@ ab) állampolgárságát,
 
 ac) adózás rendjéről szóló törvény szerinti adóazonosító jelét,
 
-ad) lakóhelyét (egyéni vállalkozó esetében székhelyét),
+ad) lakóhelyét (egyéni vállalkozó esetében székhelyét is),
 
 ae) kiskorú, illetve cselekvőképtelen vagy korlátozottan cselekvőképes nagykorú esetében törvényes képviselője születési családi- és utónevét, anyja születési családi- és utónevét, születési helyét, idejét és lakóhelyét,
 
@@ -80,7 +80,7 @@ bn) családi mezőgazdasági társaság minőségét,
 
 c) külföldi természetes személy vagy külföldi nem természetes személy esetén az a) és b) pontban foglalt adatok mellett a magyar adóazonosító számát és az illetékessége szerinti állam hatósága által megállapított adóazonosító számát,
 
-d) az a)–c) pontban foglalt adatok mellett a magyarországi kézbesítési meghatalmazottjának nevét és lakóhelyét (székhelyét) is a pénzügyi következményekkel járó intézkedésben részt vevő, Magyarországon lakóhellyel vagy telephellyel nem rendelkező természetes személy vagy nem természetes személy esetében.
+d) az a)–c) pontban foglalt adatok mellett a magyarországi kézbesítési meghatalmazottjának nevét és levelezési címét is a pénzügyi következményekkel járó intézkedésben részt vevő, Magyarországon lakóhellyel vagy telephellyel nem rendelkező természetes személy vagy nem természetes személy esetében.
 
 (3a) Az ügyfélnek elektronikus úton történő kérelem benyújtása esetén a kérelem benyújtásakor kérelemre nyilvántartásba vett ügyfélnek kell lennie.
 

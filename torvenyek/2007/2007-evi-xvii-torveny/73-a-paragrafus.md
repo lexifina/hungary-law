@@ -1,6 +1,12 @@
 ## Nem teljesítési bírság
 
-73/A. § (1) A közvetlen támogatási rendszer keretében közösségi jogi aktus felhatalmazása vagy 2015-től kezdődően ezen támogatási konstrukciót felváltó nemzeti támogatás alapján egyes, jogszabályban meghatározott szerkezetátalakítási intézkedésekben való részvétel feltétele az ügyfél jogszabályban meghatározottak szerinti mértékű élőmunka-ráfordítás biztosítását, továbbá az előírt elismert tevékenységből származó árbevételi, képzési és beruházási kötelezettség teljesítését tartalmazó kötelezettségvállalása.
+73/A. § (1) Jogszabályban meghatározott, nemzeti forrásból folyósított szerkezetátalakítási intézkedésekben való részvétel feltétele az ügyfél
+
+a) jogszabályban meghatározott mértékű élőmunka-ráfordítás biztosítását, továbbá
+
+b) az előírt elismert tevékenységből származó árbevételi, képzési és beruházási kötelezettség teljesítését
+
+tartalmazó kötelezettségvállalása.
 
 (2) Az (1) bekezdésben vállalt kötelezettség megszegése esetén az ügyfelet – a (7) bekezdésben foglaltakra is figyelemmel – a mulasztással arányos, euróban megállapított nem teljesítési bírsággal kell sújtani. Jogszabály eltérő rendelkezése hiányában az átváltásra a közösségi forrásból nyújtandó közvetlen támogatásokra vonatkozó szabályokat kell megfelelően alkalmazni.
 
