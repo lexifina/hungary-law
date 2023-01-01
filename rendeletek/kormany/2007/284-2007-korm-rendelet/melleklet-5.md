@@ -1,5 +1,3 @@
-## Fokozottan zajos területek övezeti besorolása
-
 | Övezet | LAM mértékadó A-hangnyomásszint |
 
 | Nappal (06–22 h) | Éjszaka (22–06 h) |
@@ -20,7 +18,7 @@
 
 5. számú melléklet a 284/2007. (X. 29.) Korm. rendelethez[^61]
 
-## Üzemi vagy szabadidős zajforrás mérési jegyzőkönyvének tartalmi követelményei
+Üzemi vagy szabadidős zajforrás mérési jegyzőkönyvének tartalmi követelményei
 
 Joghatással járó zajmérés mérési jegyzőkönyvének a következőket kell tartalmaznia:
 

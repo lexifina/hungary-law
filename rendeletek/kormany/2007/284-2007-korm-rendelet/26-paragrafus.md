@@ -16,7 +16,7 @@ d) a környezeti rezgésforrás által okozott rezgésterhelési határérték t
 
 e) a jogszabályban vagy hatósági határozatban foglalt kötelezettségek megszegése esetén a 3. számú melléklet 4. pontja
 
-## alapján állapítja meg (a továbbiakban: zaj- és rezgésbírság).
+alapján állapítja meg (a továbbiakban: zaj- és rezgésbírság).
 
 (2) Az (1) bekezdés a)–d) pontja szerinti bírság az intézkedési terv végrehajtásának ideje alatt nem szabható ki.
 

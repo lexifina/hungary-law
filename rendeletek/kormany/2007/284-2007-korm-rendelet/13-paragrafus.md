@@ -6,7 +6,7 @@ a) egyes építési időszakokra, ha a kibocsátási határérték-kérelem szer
 
 b) építkezés közben előforduló, előre nem tervezhető, határérték feletti zajterhelést okozó
 
-## építőipari tevékenységre.
+építőipari tevékenységre.
 
 (2) A kérelemben meg kell jelölni a határérték túllépés okát, a felmentéssel érintett időszak kezdő és végnapját, a zajcsökkentés érdekében tervezett intézkedéseket és azok várható eredményeit.
 

@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-284-20-
 | 2019-04-11 | 2007-284-20-22.15 | 61/2019. (III. 26.) Korm. rendelet |
 | 2020-01-01 | 2007-284-20-22.16 | 427/2015. (XII. 23.) Korm. rendelet |
 | 2020-03-01 | 2007-284-20-22.17 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2023-01-01 | 2007-284-20-22.18 | 360/2019. (XII. 30.) Korm. rendelet |

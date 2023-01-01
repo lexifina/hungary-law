@@ -1,5 +1,3 @@
-## A települési önkormányzat jegyzőjének hatáskörébe tartozó zaj- és rezgésvédelmi ügyek[^59]
-
 ## A gazdasági tevékenységek statisztikai osztályozása NACE Rev. 2. rendszerének létrehozásáról és a 3073/90/EGK tanácsi rendelet, valamint egyes meghatározott statisztikai területekre vonatkozó EK-rendeletek módosításáról szóló 1893/2006/EK európai parlamenti és tanácsi rendelet szerint:
 
 ## 41 épületek építése
@@ -28,7 +26,7 @@
 
 2. számú melléklet a 284/2007. (X. 29.) Korm. rendelethez
 
-## Az engedélyezési terv zaj és rezgés elleni védelmi dokumentációjának tartalmi követelményei
+Az engedélyezési terv zaj és rezgés elleni védelmi dokumentációjának tartalmi követelményei
 
 1. Az üzemi és szabadidős zajforrás létesítésekor készítendő terv zajvédelmi dokumentációjában
 
@@ -107,5 +105,3 @@ A zajvédelmi munkarészt részletes számítással kell megalapozni.
 7.6. részletes számítással kell megalapozni a zajvédelmi munkarész vagy szakvélemény megállapításait,
 
 7.7. alkalmazni kell e melléklet 3. pontjában foglaltakat is.
-
-[^59]: Az 1. számú melléklet címe az 51/2013. (II. 25.) Korm. rendelet 14. §-a szerint módosított szöveg.

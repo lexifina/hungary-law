@@ -8,7 +8,7 @@ a) üzemi vagy szabadidős zajforrások esetében, amelyeknek az 5. § (3) bekez
 
 b) zajkibocsátási határértékkel rendelkező üzemi és szabadidős zajforrások esetében, ahol a határértéket megállapító határozatban megadott védendő objektumok üdülőterületen, különleges területen helyezkednek el,
 
-## a 10. § (1) bekezdésben foglalt zajkibocsátási határérték megállapítása iránti kérelmet a rendelet hatálybalépésétől számított 1 éven belül kell benyújtani a környezetvédelmi hatósághoz.
+a 10. § (1) bekezdésben foglalt zajkibocsátási határérték megállapítása iránti kérelmet a rendelet hatálybalépésétől számított 1 éven belül kell benyújtani a környezetvédelmi hatósághoz.
 
 (3) A (2) bekezdés alapján benyújtott kérelemre megállapított zajkibocsátási határérték teljesítési határideje 2012. január 1.
 

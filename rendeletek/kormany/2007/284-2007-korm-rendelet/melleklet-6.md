@@ -1,6 +1,6 @@
 6. számú melléklet a 284/2007. (X. 29.) Korm. rendelethez[^62]
 
-## Környezeti rezgésforrás mérési jegyzőkönyvének tartalmi követelményei
+Környezeti rezgésforrás mérési jegyzőkönyvének tartalmi követelményei
 
 A rezgésmérést dokumentáló jegyzőkönyvnek legalább a következő adatokat kell tartalmaznia:
 

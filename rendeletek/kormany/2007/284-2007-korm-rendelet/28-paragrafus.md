@@ -14,5 +14,7 @@ a) az eseti méréssel vizsgált zajforrások vonatkozásában a 26. § (1) beke
 
 b) folyamatos zajméréssel vizsgált zajforrások vonatkozásában a 26. § (1) bekezdése aa) és ab) pontja, valamint a 3. melléklet 4.1. pontjának c) és d) alpontja
 
+szerinti jogsértések vonatkozásában a zajbírságot a környezetvédelmi hatóság az üzemeltető éves adatszolgáltatása, valamint a rendelkezésére álló egyéb bizonyítékok alapján állapítja meg.
+
 [^47]: A 28. § a 427/2015. (XII. 23.) Korm. rendelet 8. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 11. §-át.
 [^48]: A 28. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 200. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

@@ -1,20 +1,24 @@
 3. számú melléklet a 284/2007. (X. 29.) Korm. rendelethez[^60]
 
-## A zaj-, illetve rezgésvédelmi bírság kiszabására vonatkozó számítási szabályok
+A zaj-, illetve rezgésvédelmi bírság kiszabására vonatkozó számítási szabályok
 
 1. Az üzemi vagy szabadidős zajforrás által okozott határérték túllépés miatti zajbírság
 
 1.1. Üzemi vagy szabadidős zajforrás által lakóterületen, vegyes területen, különleges területek közül az oktatási létesítmények területén vagy gazdasági területen a védendő homlokzatok előtt okozott zajkibocsátási határérték-túllépés esetén a zajbírságot az – 1.4. pontban foglalt kivétellel – alábbi összefüggéssel kell kiszámítani:
 
+## 9K01685N_0
+
 |  | (1.1. összefüggés) |
 
-,ahol:
+## ,ahol:
 
-– B: az üzemi vagy szabadidős zajforrás Ft-ban kifejezett zajbírsága,
+## – B: az üzemi vagy szabadidős zajforrás Ft-ban kifejezett zajbírsága,
 
-– TÜK: a zajkibocsátási határérték legnagyobb túllépésének mértékszáma dB-ben,
+## – TÜK: a zajkibocsátási határérték legnagyobb túllépésének mértékszáma dB-ben,
 
-– N: a zajkibocsátási határérték túllépésével érintett védendő homlokzat mögött elhelyezkedő zajtól védendő helyiségek száma,
+## – N: a zajkibocsátási határérték túllépésével érintett védendő homlokzat mögött elhelyezkedő zajtól védendő helyiségek száma,
+
+## 9K01685N_1
 
 |  | ; ha N < 15 db, egyébként CA=1 | (1.2. összefüggés) |
 
@@ -22,31 +26,35 @@
 
 1.2. Üzemi vagy szabadidős zajforrás által temetőben, üdülőterületen, zöldterületen, különleges területek közül az egészségügyi területeken okozott zajkibocsátási határérték-túllépés esetén a zajbírságot – 1.4. pontban foglalt kivétellel – az alábbi összefüggéssel kell meghatározni:
 
+## 9K01685N_2
+
 |  | (1.4. összefüggés) |
 
-,ahol
+## ,ahol
 
-– B: az üzemi vagy szabadidős zajforrás Ft-ban kifejezett zajbírsága,
+## – B: az üzemi vagy szabadidős zajforrás Ft-ban kifejezett zajbírsága,
 
-– TÜK: a zajkibocsátási határérték legnagyobb túllépésének mértékszáma dB-ben,
+## – TÜK: a zajkibocsátási határérték legnagyobb túllépésének mértékszáma dB-ben,
 
-– CB: az 1.3. összefüggés szerinti módosító tényező.
+## – CB: az 1.3. összefüggés szerinti módosító tényező.
 
 1.3. Üzemi vagy szabadidős zajforrás által a védendő helyiségekben okozott határérték-túllépés esetén a zajbírság összegét az alábbi összefüggéssel kell meghatározni:
 
+## 9K01685N_3
+
 |  | (1.5. összefüggés) |
 
-,ahol:
+## ,ahol:
 
-– B: az üzemi vagy szabadidős zajforrás Ft-ban kifejezett zajbírsága,
+## – B: az üzemi vagy szabadidős zajforrás Ft-ban kifejezett zajbírsága,
 
-– TÜK: a zajterhelési határérték legnagyobb túllépésének mértékszáma dB-ben,
+## – TÜK: a zajterhelési határérték legnagyobb túllépésének mértékszáma dB-ben,
 
-– N: a zajterhelési határérték túllépésével érintett védendő helyiségek száma,
+## – N: a zajterhelési határérték túllépésével érintett védendő helyiségek száma,
 
-– CA: az 1.2. összefüggés szerinti módosító tényező,
+## – CA: az 1.2. összefüggés szerinti módosító tényező,
 
-– CB: az 1.3 összefüggés szerinti módosító tényező.
+## – CB: az 1.3 összefüggés szerinti módosító tényező.
 
 1.4. A 28. § (3) bekezdésében felsorolt jogsértések vonatkozásában a zajbírság megállapításának módját az 1.4.1.–1.4.3. alpont tartalmazza.
 
@@ -106,19 +114,19 @@ ahol
 
 Környezeti rezgésforrás által okozott rezgésterhelési határértéket túllépés esetén, a bírság összegét az alábbi összefüggéssel kell kiszámítani:
 
-(3. összefüggés)
+## (3. összefüggés)
 
-ahol
+## ahol
 
-– B: a rezgésbírság Ft-ban megállapított összege,
+## – B: a rezgésbírság Ft-ban megállapított összege,
 
-– k: napszaktól függő tényező:
+## – k: napszaktól függő tényező:
 
-nappal megállapított túllépés esetén: k =1,
+## nappal megállapított túllépés esetén: k =1,
 
-éjszaka megállapított túllépés esetén: k =2
+## éjszaka megállapított túllépés esetén: k =2
 
-– N: azon védendő helyiségek száma, ahol a rezgésterhelési határérték nem teljesül.
+## – N: azon védendő helyiségek száma, ahol a rezgésterhelési határérték nem teljesül.
 
 4. Jogszabályban vagy hatósági határozatban foglalt kötelezettség megszegése esetén fizetendő bírság
 
