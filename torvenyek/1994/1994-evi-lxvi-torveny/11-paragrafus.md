@@ -34,7 +34,7 @@ j) a kölcsönvevő vagy a szolgáltatást igénybevevő felszámolójának azon
 
 k) a munkavállaló, az iskolaszövetkezet, kisgyermekkel otthon lévők szövetkezete vagy a nyugdíjas szövetkezet tagjának nevét, születési nevét, anyja nevét, születési helyét és idejét, társadalombiztosítási azonosító jelét, adóazonosító jelét, lakcímét, a kölcsönzés vagy a szolgáltatás nyújtás időszakát, munkakörét vagy feladatát,
 
-l) az elmaradt kölcsönzési díjra vagy szolgáltatási díjra vonatkozó adatokat, a támogatásnak a Gazdaságvédelmi Foglalkoztatási Alap bérgarancia alaprészéből igényelhető összegét.
+l) az elmaradt kölcsönzési díjra vagy szolgáltatási díjra vonatkozó adatokat, a támogatásnak az Alap bérgarancia alaprészéből igényelhető összegét.
 
 (2) A kölcsönbeadó, illetve az iskolaszövetkezet, kisgyermekkel otthon lévők szövetkezete, nyugdíjas szövetkezet az (1) és (1a) bekezdés szerinti kérelmet a magyarországi szokásos munkavégzési hellyel rendelkező azon munkavállalója tekintetében terjesztheti elő, akire nézve nem áll fenn a 2. § (2) bekezdés b) vagy c) pontja szerinti kizáró ok.
 

@@ -32,4 +32,4 @@ k) a munkavállaló nevét, születési nevét, anyja nevét, születési helyé
 
 l) a munkavállaló elmaradt bérére vonatkozó adatokat
 
-m) a munkavállaló elmaradt bérének a Gazdaságvédelmi Foglalkoztatási Alap bérgarancia alaprészéből igényelhető összegére vonatkozó adatokat.
+m) a munkavállaló elmaradt bérének az Alap bérgarancia alaprészéből igényelhető összegére vonatkozó adatokat.
