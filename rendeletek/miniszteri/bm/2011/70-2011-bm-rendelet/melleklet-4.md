@@ -1,6 +1,6 @@
 4. melléklet a 70/2011. (XII. 30.) BM rendelethez
 
-## A tervezett létesítmény, épület engedélyezési tervéhez mellékelendő munkavédelmi biztonsági terv tartalmi elemei
+A tervezett létesítmény, épület engedélyezési tervéhez mellékelendő munkavédelmi biztonsági terv tartalmi elemei
 
 1. A létesítmény, épület:
 

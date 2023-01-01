@@ -1,6 +1,6 @@
-2. melléklet a 70/2011. (XII. 30.) BM rendelethez[^71]
+2. melléklet a 70/2011. (XII. 30.) BM rendelethez[^74]
 
-## A munkavédelmi szabályzat kötelező tartalmi elemei
+A munkavédelmi szabályzat kötelező tartalmi elemei
 
 I. Fejezet Általános rendelkezések
 
@@ -126,4 +126,4 @@ XI. Fejezet A munkaegészségügyi feladatok ellátásának rendje
 
 XII. Fejezet A munkavédelmi érdekképviselet
 
-[^71]: A 2. melléklet a 71/2013. (XII. 16.) BM rendelet 10. § i) pontja szerint módosított szöveg.
+[^74]: A 2. melléklet a 71/2013. (XII. 16.) BM rendelet 10. § i) pontja szerint módosított szöveg.

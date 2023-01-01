@@ -38,7 +38,7 @@ b) kiképzési terv, napirend szerint előírt gyakorlati foglalkozásokon, a fi
 
 c) a rendvédelmi szervek tömegkapcsolatainak erősítése céljából a rendvédelmi szerv által szervezett sportversenyeken, speciális rendezvényeken, bemutatókon
 
-## érte, illetve azzal összefüggésben keletkezett vagy jelentősen súlyosbodott,
+érte, illetve azzal összefüggésben keletkezett vagy jelentősen súlyosbodott,
 
 17. tényleges szolgálatellátás során bekövetkezett baleset, betegség: a 16. pont a) alpontjában szereplő esetek kivételével a 16. pont szerinti baleset, betegség.
 

@@ -8,11 +8,11 @@
 
 (5) A határozat rendelkező része a sérült személyére és szolgálati helyére, a baleset helyére és idejére vonatkozó adatokon, továbbá az állományilletékes parancsnok baleset minősítésére vonatkozó döntésén kívül a jogorvoslati felhívást is tartalmazza. Az indokolásban meg kell határozni azokat a körülményeket és jogszabályokat, amelyek a baleset bekövetkezése és a hivatásos szolgálat ellátása közötti összefüggést alátámasztják vagy kizárják, a bekövetkezett sérülést és ha a szolgálattal összefüggő jelleg megállapítható, a sérült közrehatását. Az állományilletékes parancsnok a határozatát 5 napon belül közli a sérülttel és megküldi az alapellátó orvosnak.
 
-(6)[^35] A munkabaleset vagy a szolgálati kötelmekkel összefüggő baleset esetén, ha maradandó károsodás vélelmezhető, az alapellátó orvos köteles a balesetet szenvedett személyt a rehabilitációs feladatkörében eljáró fővárosi és megyei kormányhivatal elé rendelni a baleseti egészségkárosodás mértékének megállapítása érdekében.
+(6)[^35] A munkabaleset vagy a szolgálati kötelmekkel összefüggő baleset esetén, ha maradandó károsodás vélelmezhető, az alapellátó orvos köteles a balesetet szenvedett személyt a rehabilitációs feladatkörében eljáró fővárosi és vármegyei kormányhivatal elé rendelni a baleseti egészségkárosodás mértékének megállapítása érdekében.
 
 (7) Az állományilletékes parancsnok köteles felhívni az érintett figyelmét arra, hogy ha a balesetével kapcsolatban kára keletkezett, kárigényét a balesetminősítő határozat kézhezvételétől számított 30 napon belül hivatásos állomány tagja a 10. melléklet, munkavállaló a 11. melléklet vagy a 11/A. melléklet szerinti nyomtatványon terjesztheti elő.
 
 [^32]: A 23. § a 71/2013. (XII. 16.) BM rendelet 7. §-ával megállapított szöveg.
 [^33]: [A 23. § (3) bekezdésének a 37/2015. (VI. 16.) BM rendelet 51. § c) pontjával elrendelt módosítása, amely szerint az „a rendvédelmi szervet irányító miniszter” szövegrész helyébe az „az elbíráló személy” szöveg lép, nem vezethető át.]
 [^34]: A 23. § (4) bekezdése az 55/2016. (XII. 22.) BM rendelet 5. § a) pontja szerint módosított szöveg.
-[^35]: A 23. § (6) bekezdése a 11/2015. (III. 31.) BM rendelet 10. § b) pontja szerint módosított szöveg.
+[^35]: A 23. § (6) bekezdése a 11/2015. (III. 31.) BM rendelet 10. § b) pontja, az 51/2022. (XII. 27.) BM rendelet 1. § a) pontja szerint módosított szöveg.

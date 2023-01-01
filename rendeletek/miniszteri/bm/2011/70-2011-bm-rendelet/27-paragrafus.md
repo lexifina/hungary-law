@@ -10,7 +10,7 @@ b) halálos kimenetelű vagy ugyanazon a munkahelyen a személyi állomány 5 va
 
 c) fokozott expozíció esetén az érintett személyt vizsgálatra beküldő alapellátó orvos a lelet kézhezvételétől számított 24 órán belül
 
-## bejelentőlapon teszi meg.
+bejelentőlapon teszi meg.
 
 (4) A bejelentést meg kell ismételni, ha a korábban keresőképesként bejelentett személy keresőképtelenné vált. Tanulói, hallgatói jogviszonyban lévő személy esetén a gyakorlati képzés helyén működő alapellátó orvos végzi a bejelentést, aki ezzel egy időben értesíti az oktatási intézményt.
 

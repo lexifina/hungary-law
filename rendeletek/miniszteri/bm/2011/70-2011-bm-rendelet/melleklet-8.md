@@ -1,6 +1,8 @@
+## A nyomtatvány valamennyi, szöveges rovatát számítógéppel vagy nyomtatott betűvel kell kitölteni. A kódnégyzetekbe (a továbbiakban: négyzet) – a kivizsgálás tényeinek megfelelő – kódszámot (a továbbiakban: szám) kell beírni.
+
 ## 1. A szerv megnevezése
 
-## Annak az önálló egységnek a megnevezését kell beírni, amelynek az állományába a sérült tartozott, vagy – vezénylés esetén – ahol tevékenységét végezte. A szerv megnevezése után következő 3 négyzet a területi azonosításra (pl. megye) szolgál és a számítógépes feldolgozást segíti.
+## Annak az önálló egységnek a megnevezését kell beírni, amelynek az állományába a sérült tartozott, vagy – vezénylés esetén – ahol tevékenységét végezte. A szerv megnevezése után következő 3 négyzet a területi azonosításra (pl. vármegye) szolgál és a számítógépes feldolgozást segíti.
 
 ## 2. A sérült születési ideje
 
@@ -520,9 +522,9 @@
 
 ## A megfelelő válasz aláhúzásával vagy aláírásával a sérült tölti ki. „Nem ért egyet” vélemény esetén a sérült ez irányú indoklását a jegyzőkönyvhöz csatolni kell. Új elemként jelenik meg a sérült aláírásánál az aláírás dátuma.
 
-8. melléklet a 70/2011. (XII. 30.) BM rendelethez[^77]
+8. melléklet a 70/2011. (XII. 30.) BM rendelethez[^80]
 
-## A hivatásos állomány tagja baleset-minősítő határozatának kötelező adattartalma
+A hivatásos állomány tagja baleset-minősítő határozatának kötelező adattartalma
 
 1. Szerv neve, címe, elérhetősége
 
@@ -548,7 +550,7 @@
 
 12. Bekövetkezett baleset időpontjának megjelölése (év, hó nap)
 
-13.[^78] Baleset minősítése (szolgálati kötelmekkel összefüggő/nem összefüggő, szolgálatellátás során/szolgálatellátással összefüggésben)
+13.[^81] Baleset minősítése (szolgálati kötelmekkel összefüggő/nem összefüggő, szolgálatellátás során/szolgálatellátással összefüggésben)
 
 14. Jogorvoslat
 
@@ -562,5 +564,5 @@
 
 19. Készített példány meghatározása
 
-[^77]: A 8. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés e) pontjával megállapított szöveg.
-[^78]: A 8. melléklet 13. pontja az 55/2016. (XII. 22.) BM rendelet 5. § d) pontja szerint módosított szöveg.
+[^80]: A 8. melléklet a 71/2013. (XII. 16.) BM rendelet 9. § (2) bekezdés e) pontjával megállapított szöveg.
+[^81]: A 8. melléklet 13. pontja az 55/2016. (XII. 22.) BM rendelet 5. § d) pontja szerint módosított szöveg.

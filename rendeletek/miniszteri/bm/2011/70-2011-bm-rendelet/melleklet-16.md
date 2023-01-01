@@ -1,6 +1,6 @@
-16. melléklet a 70/2011. (XII. 30.) BM rendelethez[^88]
+16. melléklet a 70/2011. (XII. 30.) BM rendelethez[^91]
 
-## Értesítés kötelező adattartalma
+Értesítés kötelező adattartalma
 
 1. Szerv neve, címe
 
@@ -16,4 +16,4 @@
 
 7. Melléklet
 
-[^88]: A 16. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés g) pontja iktatta be.
+[^91]: A 16. mellékletet a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés g) pontja iktatta be.

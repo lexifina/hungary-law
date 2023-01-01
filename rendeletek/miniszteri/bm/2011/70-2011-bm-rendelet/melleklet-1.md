@@ -1,10 +1,6 @@
-## 35–36. §[^69]
+1. melléklet a 70/2011. (XII. 30.) BM rendelethez[^73]
 
-1. melléklet a 70/2011. (XII. 30.) BM rendelethez[^70]
-
-## A munkavédelmi szakképesítésű személyek és a munkavédelmi felügyeletet ellátó
-
-személyek létszáma, a szakképesítési követelmények és a munkavégzés napi időtartama
+A munkavédelmi szakképesítésű személyek és a munkavédelmi felügyeletet ellátó személyek létszáma, a szakképesítési követelmények és a munkavégzés napi időtartama
 
 1. A munkavédelmi felügyelet és szakirányítás személyi feltételei
 
@@ -26,19 +22,19 @@ személyek létszáma, a szakképesítési követelmények és a munkavégzés n
 
 | 1. | Szervezeti egység | Megnevezés | Munkavédelmi szakképesítés | Fő/ munkaidő |
 
-| 2. | Budapesti és megyei rendőr-főkapitányságok, valamint az általános rendőrségi feladatok ellátására létrehozott szerv ezekkel azonos jogállású szervei a Készenléti Rendőrség | munkavédelmi felügyelő | felsőfokú | 1/teljes* |
+| 2. | Budapesti és vármegyei rendőr-főkapitányságok, valamint az általános rendőrségi feladatok ellátására létrehozott szerv ezekkel azonos jogállású szervei a Készenléti Rendőrség | munkavédelmi felügyelő | felsőfokú | 1/teljes* |
 
 | 3. | Készenléti Rendőrség | munkavédelmi felügyelő | felsőfokú | 2/teljes* |
 
 | 4. | Készenléti Rendőrség | munkavédelmi felügyelő | középfokú | 1/rész* |
 
-| 5. | Megyei Katasztrófavédelmi Igazgatóságok | munkavédelmi felügyelő | közép vagy felsőfokú | 1/rész* |
+| 5. | Vármegyei Katasztrófavédelmi Igazgatóságok | munkavédelmi felügyelő | közép vagy felsőfokú | 1/rész* |
 
 | 6. | Fővárosi Katasztrófavédelmi Igazgatóság | munkavédelmi felügyelő | közép és felsőfokú | 1/teljes* 2/rész* |
 
 | 7. | BV Fővárosi Intézet és Országos BV intézetek | munkavédelmi felügyelő | közép és felsőfokú | 2/teljes* |
 
-| 8. | Megyei BV Intézetek | munkavédelmi felügyelő | középfokú | 1/rész/teljes* |
+| 8. | Vármegyei BV Intézetek | munkavédelmi felügyelő | középfokú | 1/rész/teljes* |
 
 | 9. | BV Intézmények | munkavédelmi felügyelő | középfokú | 1/rész* |
 
@@ -84,7 +80,6 @@ Ahol felsőfokú munkavédelmi szakképesítésű személy alkalmazása kötelez
 
 4. Az 1. pontban foglalt táblázat 3-5. sorában meghatározott szervek esetében indokolt, hogy a főfelügyelők – a munkavédelmi szakképzettség mellett – az adott rendvédelmi szervnek megfelelő felsőfokú szakmai végzettséggel is rendelkezzenek.
 
-* A 3. pontban meghatározottak szerint, a kötelezően foglalkoztatandó szakember mellett munkavállalói létszámhoz igazítandó azzal, hogy minden megyében és megyei jogállású szervnél kötelező felsőfokú végzettségű munkavédelmi szakember foglalkoztatása.
+* A 3. pontban meghatározottak szerint, a kötelezően foglalkoztatandó szakember mellett munkavállalói létszámhoz igazítandó azzal, hogy minden vármegyében és vármegyei jogállású szervnél kötelező felsőfokú végzettségű munkavédelmi szakember foglalkoztatása.
 
-[^69]: A 35–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^70]: Az 1. melléklet a 43/2012. (VIII. 23.) BM rendelet 17. §-a, a 29/2016. (VII. 15.) BM rendelet 12. §-a szerint módosított, a 27/2019. (VI. 28.) BM rendelet 19. §-a, a 18/2020. (VI. 30.) BM rendelet 4. §-a szerint módosított szöveg.
+[^73]: Az 1. melléklet a 43/2012. (VIII. 23.) BM rendelet 17. §-a, a 29/2016. (VII. 15.) BM rendelet 12. §-a szerint módosított, a 27/2019. (VI. 28.) BM rendelet 19. §-a, a 18/2020. (VI. 30.) BM rendelet 4. §-a, az 51/2022. (XII. 27.) BM rendelet 1. § b)-d) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-12. melléklet a 70/2011. (XII. 30.) BM rendelethez[^83]
+12. melléklet a 70/2011. (XII. 30.) BM rendelethez[^86]
 
-## Bejelentőlap kötelező adattartalma foglalkozási megbetegedésről (mérgezésről), fokozott expozícióról
+Bejelentőlap kötelező adattartalma foglalkozási megbetegedésről (mérgezésről), fokozott expozícióról
 
 1. Rendvédelmi szerv neve
 
@@ -44,4 +44,4 @@
 
 14. Kelt (helységnév, év, hó, nap); alapellátó orvos aláírása, orvosi pecsét helye
 
-[^83]: A 12. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés c) pontja iktatta be.
+[^86]: A 12. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 71/2013. (XII. 16.) BM rendelet 9. § (3) bekezdés c) pontja iktatta be.
