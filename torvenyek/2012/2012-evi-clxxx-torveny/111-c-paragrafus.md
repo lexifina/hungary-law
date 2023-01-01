@@ -1,4 +1,4 @@
-111/C. § (1) Ha feltehető, hogy a tagállami ítélet alapján a magyar bírósági határozatban kiszabott olyan szabadságvesztés büntetésből történt feltételes szabadságra bocsátás megszüntetése, felfüggesztett szabadságvesztés végrehajtásának elrendelése, továbbá javító intézeti nevelésből történő ideiglenes elbocsátás vagy próbára bocsátás megszüntetése indokolt, amely végrehajtásának átadására nem került sor,
+111/C. § (1) Ha feltehető, hogy a tagállami ítélet alapján a magyar bírósági határozatban kiszabott olyan szabadságvesztés büntetésből történt feltételes szabadságra bocsátás megszüntetése, felfüggesztett szabadságvesztés végrehajtásának elrendelése, továbbá javítóintézeti nevelésből történő ideiglenes elbocsátás vagy próbára bocsátás megszüntetése indokolt, amely végrehajtásának átadására nem került sor,
 
 a) a bíróság,
 

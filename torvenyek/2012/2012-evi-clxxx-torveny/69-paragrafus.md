@@ -1,6 +1,6 @@
 ## 36/C. Ellenőrzött szállítás
 
-69. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtása iránt előterjesztett eljárási jogsegély iránti megkeresés teljesítésére a megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel.
+69. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtása iránt előterjesztett eljárási jogsegély iránti megkeresés teljesítésére a vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel.
 
 (2) Az ellenőrzött szállítás végrehajtására a tagállammal kötött eseti megállapodás alapján kerülhet sor. Az eseti megállapodást a rendőrség vagy a Nemzeti Adó- és Vámhivatal ellenőrzött szállítás végrehajtására jogszabályban kijelölt szerve készíti elő.
 

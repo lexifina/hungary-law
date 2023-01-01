@@ -16,7 +16,7 @@ c) a jogsegély alapjául szolgáló bűncselekmény jogi minősítéséről és
 
 d) arról, hogy az átmenő átszállítás alapját képező jogsegély teljesítését a végrehajtó állam engedélyezte.
 
-(4) Az (1) bekezdésben megjelölt tájékoztatás
+(4) Az (3) bekezdésben megjelölt tájékoztatás
 
 a) az európai elfogatóparancs,
 

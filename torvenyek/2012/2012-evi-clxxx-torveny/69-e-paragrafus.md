@@ -2,7 +2,7 @@
 
 69/E. § (1) Az elektronikus hírközlési szolgáltatás útján, illetve információs rendszeren folytatott kommunikációnak az érintett személy tudta nélkül, leplezett módon történő megismerése és rögzítése végett előterjesztett eljárási jogsegély iránti megkeresést az ügyészség a Be. leplezett eszközök alkalmazására vonatkozó szabályai szerint hajtja végre.
 
-(2) A megkeresés teljesítésére a megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel. Ha a megkeresés teljesítésére illetékességgel rendelkező ügyészség nem állapítható meg, a teljesítésre a Fővárosi Főügyészség rendelkezik illetékességgel.
+(2) A megkeresés teljesítésére a vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel. Ha a megkeresés teljesítésére illetékességgel rendelkező ügyészség nem állapítható meg, a teljesítésre a Fővárosi Főügyészség rendelkezik illetékességgel.
 
 (3) Az eljárási jogsegély iránti megkeresés akkor teljesíthető, ha a tagállami hatóság a saját államának joga szerint engedéllyel rendelkezik.
 
@@ -20,7 +20,7 @@ b) ha annak technikai feltételei biztosíthatók, közvetlen továbbítással, 
 
 (8) Ha a tagállam fizetési műveletek megfigyelése céljából bocsátott ki eljárási jogsegély iránti megkeresést, az ügyészség a megkeresést az (1)–(6) bekezdés megfelelő alkalmazásával teljesíti azzal, hogy
 
-a) a teljesítésre a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet végző szervezet székhelye szerinti megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel és illetékességgel,
+a) a teljesítésre a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet végző szervezet székhelye szerinti vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel és illetékességgel,
 
 b) a Be. 217. § (1) bekezdésében meghatározottak szerint a fizetési műveletek teljesítésének felfüggesztése csak a tagállam kérésére írható elő, és
 
