@@ -1,3 +1,3 @@
-8. melléklet a 662/2021. (XI. 30.) Korm. rendelethez[^12]
+8. melléklet a 662/2021. (XI. 30.) Korm. rendelethez[^14]
 
-[^12]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

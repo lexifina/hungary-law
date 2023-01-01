@@ -1,3 +1,3 @@
-6. melléklet a 662/2021. (XI. 30.) Korm. rendelethez[^10]
+6. melléklet a 662/2021. (XI. 30.) Korm. rendelethez[^12]
 
-[^10]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
