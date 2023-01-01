@@ -2,6 +2,6 @@
 
 (2) A nemleges megállapítási eljárás költségeit a kérelmező viseli.
 
-(3) Az 58. § (2)–(4) bekezdéseit a nemleges megállapítási eljárásban is alkalmazni kell.
+(3) Az 58. § (1a)–(4) bekezdését a nemleges megállapítási eljárásban is alkalmazni kell.
 
 (4) Az 58/A. § rendelkezéseit a nemleges megállapítási eljárásban is alkalmazni kell.

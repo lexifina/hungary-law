@@ -2,4 +2,4 @@
 
 ## A MINTAOLTALOM MEGSZŰNÉSE
 
-25. §
+### 25. §
