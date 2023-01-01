@@ -1,4 +1,4 @@
-## 22/A.[^52] Járási veszélyelhárítási terv
+## 22/A.[^57] Járási veszélyelhárítási terv
 
 31/A. § (1) Járási veszélyelhárítási tervet készít a helyi védelmi bizottság az illetékességi területén fennálló veszélyelhárítási feladatok összehangolására a hivatásos katasztrófavédelmi szerv helyi szervének közreműködésével.
 
@@ -8,4 +8,4 @@
 
 (4) A járási veszélyelhárítási tervet a helyi védelmi bizottság hagyja jóvá a hivatásos katasztrófavédelmi szerv területi szerve vezetőjének egyetértésével.
 
-[^52]: A 22/A. alcímet (31/A. §-t) a 408/2022. (X. 24.) Korm. rendelet 7. §-a iktatta be.
+[^57]: A 22/A. alcímet (31/A. §-t) a 408/2022. (X. 24.) Korm. rendelet 7. §-a iktatta be.

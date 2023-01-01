@@ -7,3 +7,7 @@ b) Lechner Tudásközpont Nonprofit Kft.,
 c) Nemzeti Adó- és Vámhivatal,
 
 d) Rádiós Segélyhívó és Infokommunikációs Országos Egyesület.
+
+e)[^17] a rendészetért felelős miniszter által irányított minisztérium vagy munkaszervezet.
+
+[^17]: A 4/F. § e) pontját a 628/2022. (XII. 30.) Korm. rendelet 18. §-a iktatta be.

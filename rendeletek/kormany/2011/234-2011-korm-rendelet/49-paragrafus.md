@@ -1,4 +1,4 @@
-49. § (1)[^70] A területi védelmi bizottság elnöke
+49. § (1)[^76] A területi védelmi bizottság elnöke
 
 a) értékeli a kialakult helyzetet és meghatározza a kitelepítéssel kapcsolatos feladatokat,
 
@@ -8,13 +8,13 @@ c) utasítja a helyi védelmi bizottságokat a szükséges kitelepítési felada
 
 d) meghatározza a különböző ágazatok területi szintű szerveinek a kitelepítéssel kapcsolatos feladatait és koordinálja azok végrehajtását,
 
-e)[^71] amennyiben a kitelepítés megye, főváros határán kívülre történik, felveszi a kapcsolatot az illetékes területi védelmi bizottság elnökével,
+e)[^77] amennyiben a kitelepítés vármegye, főváros határán kívülre történik, felveszi a kapcsolatot az illetékes területi védelmi bizottság elnökével,
 
 f) veszélyhelyzetben elrendeli a vasúti, közúti, vízi, légi szállítások biztosítása érdekében a javítókapacitások, valamint az állomások, kikötők, repülőterek, raktárak igénybevételét vagy használatának korlátozását,
 
 g) összehangolja a polgári védelmi szervezetek és a kitelepítésben részt vevő szervek, társadalmi és karitatív szervezetek tevékenységét,
 
-h)[^72] feldolgozza, értékeli, összegzi és a Kormány számára a katasztrófák elleni védekezésért felelős miniszter útján felterjeszti a beérkező jelentéseket.
+h)[^78] feldolgozza, értékeli, összegzi és a Kormány számára a katasztrófák elleni védekezésért felelős miniszter útján felterjeszti a beérkező jelentéseket.
 
 (2) A helyi védelmi bizottság elnöke
 
@@ -22,11 +22,11 @@ a) szükség esetén utasítja a kitelepítés irányítása során a polgármes
 
 b) összehangolja a társadalmi és karitatív szervezetek tevékenységét,
 
-c) felveszi a kapcsolatot az illetékes helyi védelmi bizottság elnökével, amennyiben a kitelepítés a helyi védelmi bizottság honvédelmi körzetén kívülre, de a megyehatáron belül történik.
+c)[^79] felveszi a kapcsolatot az illetékes helyi védelmi bizottság elnökével, amennyiben a kitelepítés a helyi védelmi bizottság honvédelmi körzetén kívülre, de a vármegyehatáron belül történik.
 
 (3) A polgármester
 
-a)[^73] intézkedik a lakosság, az intézmények, a gazdálkodó szervezetek, a szállító eszközök tulajdonosainak riasztására és tájékoztatására,
+a)[^80] intézkedik a lakosság, az intézmények, a gazdálkodó szervezetek, a szállító eszközök tulajdonosainak riasztására és tájékoztatására,
 
 b) intézkedik a lakosság kitelepítésére, a létfenntartáshoz szükséges anyagi, kulturális javak, az állatállomány, az ellátásukhoz szükséges takarmány és egyéb anyagok elszállítására,
 
@@ -56,7 +56,7 @@ jd) a szállító eszközök számáról,
 
 k) intézkedik az ingatlanok átvizsgálására, az ingatlanok biztonságos hátrahagyása szabályainak betartására,
 
-l)[^74] intézkedik a kötelezés ellenére lakóhelyén maradó személyekkel szembeni rendvédelmi intézkedés foganatosítására,
+l)[^81] intézkedik a kötelezés ellenére lakóhelyén maradó személyekkel szembeni rendvédelmi intézkedés foganatosítására,
 
 m) intézkedik a hajléktalanok felkutatására,
 
@@ -74,9 +74,9 @@ r) összehangolja a társadalmi és karitatív szervezetek tevékenységét.
 
 a) irányítja a hivatásos katasztrófavédelmi szerv területi szerve lakosságvédelmi tervező munkáját,
 
-b) több megyét érintően koordinálja a nemzetgazdaság és más szempontból fontos vagyontárgyak, valamint a létfenntartáshoz szükséges anyagi javak védelmére vonatkozó feladatok végrehajtását,
+b)[^82] több vármegyét érintően koordinálja a nemzetgazdaság és más szempontból fontos vagyontárgyak, valamint a létfenntartáshoz szükséges anyagi javak védelmére vonatkozó feladatok végrehajtását,
 
-c) összehangolja az országhatáron, illetve megyehatárokon át történő kitelepítés katasztrófavédelmi feladatait.
+c)[^83] összehangolja az országhatáron, illetve vármegyehatárokon át történő kitelepítés katasztrófavédelmi feladatait.
 
 (5) A hivatásos katasztrófavédelmi szerv területi szerve
 
@@ -104,8 +104,11 @@ f) létrehozza a szükséges adatbázisokat, gondoskodik naprakészen tartásukr
 
 g) közreműködik a kitelepítés helyi feladatainak végrehajtásában.
 
-[^70]: A 49. § (1) bekezdés nyitó szövegrésze a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
-[^71]: A 49. § (1) bekezdés e) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
-[^72]: A 49. § (1) bekezdés h) pontja a 74/2012. (IV. 13.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^73]: A 49. § (3) bekezdés a) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés h) pontja szerint módosított szöveg.
-[^74]: A 49. § (3) bekezdés l) pontja a 408/2022. (X. 24.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
+[^76]: A 49. § (1) bekezdés nyitó szövegrésze a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
+[^77]: A 49. § (1) bekezdés e) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja, a 616/2022. (XII. 29.) Korm. rendelet 127. § c) pontja szerint módosított szöveg. [A 49. § (1) bekezdés e) pontban a 616/2022. (XII. 29.) Korm. rendelet 127. § a) pontja által elrendelt módosítás, amely szerint a "megyei" szövegrész helyébe "vármegyei" szöveg lép, nem vezethető át.]
+[^78]: A 49. § (1) bekezdés h) pontja a 74/2012. (IV. 13.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^79]: A 49. § (2) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 127. § d) pontja szerint módosított szöveg.
+[^80]: A 49. § (3) bekezdés a) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^81]: A 49. § (3) bekezdés l) pontja a 408/2022. (X. 24.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
+[^82]: A 49. § (4) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 127. § b) pontja szerint módosított szöveg.
+[^83]: A 49. § (4) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 127. § e) pontja szerint módosított szöveg.

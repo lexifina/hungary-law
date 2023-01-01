@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-234-20-
 | 2022-01-01 | 2011-234-20-22.21 | 375/2021. (VI. 30.) Korm. rendelet |
 | 2022-04-08 | 2011-234-20-22.22 | 138/2022. (IV. 7.) Korm. rendelet |
 | 2022-11-01 | 2011-234-20-22.23 | 408/2022. (X. 24.) Korm. rendelet |
+| 2023-01-01 | 2011-234-20-22.25 | 616/2022. (XII. 29.) Korm. rendelet |

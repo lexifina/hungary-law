@@ -1,44 +1,44 @@
-## a) A megyei, fővárosi katasztrófavédelmi igazgatóságok, székhelyük és illetékességi területük
+## a) A vármegyei, fővárosi katasztrófavédelmi igazgatóságok, székhelyük és illetékességi területük
 
 ## 1. Fővárosi Katasztrófavédelmi Igazgatóság, székhelye Budapest, illetékességi területe a főváros közigazgatási területe,
 
-## 2. Baranya Megyei Katasztrófavédelmi Igazgatóság, székhelye Pécs, illetékességi területe Baranya megye közigazgatási területe,
+## 2. Baranya Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Pécs, illetékességi területe Baranya vármegye közigazgatási területe,
 
-## 3. Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság, székhelye Kecskemét, illetékességi területe Bács-Kiskun megye közigazgatási területe,
+## 3. Bács-Kiskun Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Kecskemét, illetékességi területe Bács-Kiskun vármegye közigazgatási területe,
 
-## 4. Békés Megyei Katasztrófavédelmi Igazgatóság, székhelye Békéscsaba, illetékességi területe Békés megye közigazgatási területe,
+## 4. Békés Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Békéscsaba, illetékességi területe Békés vármegye közigazgatási területe,
 
-## 5. Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság, székhelye Miskolc, illetékességi területe Borsod-Abaúj-Zemplén megye közigazgatási területe,
+## 5. Borsod-Abaúj-Zemplén Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Miskolc, illetékességi területe Borsod-Abaúj-Zemplén vármegye közigazgatási területe,
 
-## 6. Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság, székhelye Szeged, illetékességi területe Csongrád-Csanád megye közigazgatási területe,
+## 6. Csongrád-Csanád Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Szeged, illetékességi területe Csongrád-Csanád vármegye közigazgatási területe,
 
-## 7. Fejér Megyei Katasztrófavédelmi Igazgatóság, székhelye Székesfehérvár, illetékességi területe Fejér megye közigazgatási területe,
+## 7. Fejér Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Székesfehérvár, illetékességi területe Fejér vármegye közigazgatási területe,
 
-## 8. Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság, székhelye Győr, illetékességi területe Győr-Moson-Sopron megye közigazgatási területe,
+## 8. Győr-Moson-Sopron Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Győr, illetékességi területe Győr-Moson-Sopron vármegye közigazgatási területe,
 
-## 9. Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság, székhelye Debrecen, illetékességi területe Hajdú-Bihar megye közigazgatási területe,
+## 9. Hajdú-Bihar Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Debrecen, illetékességi területe Hajdú-Bihar vármegye közigazgatási területe,
 
-## 10. Heves Megyei Katasztrófavédelmi Igazgatóság, székhelye Eger, illetékességi területe Heves megye közigazgatási területe,
+## 10. Heves Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Eger, illetékességi területe Heves vármegye közigazgatási területe,
 
-## 11. Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság, székhelye Szolnok, illetékességi területe Jász-Nagykun-Szolnok megye közigazgatási területe,
+## 11. Jász-Nagykun-Szolnok Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Szolnok, illetékességi területe Jász-Nagykun-Szolnok vármegye közigazgatási területe,
 
-## 12. Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság, székhelye Tatabánya, illetékességi területe Komárom-Esztergom megye közigazgatási területe,
+## 12. Komárom-Esztergom Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Tatabánya, illetékességi területe Komárom-Esztergom vármegye közigazgatási területe,
 
-## 13. Nógrád Megyei Katasztrófavédelmi Igazgatóság, székhelye Salgótarján, illetékességi területe Nógrád megye közigazgatási területe,
+## 13. Nógrád Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Salgótarján, illetékességi területe Nógrád vármegye közigazgatási területe,
 
-## 14. Pest Megyei Katasztrófavédelmi Igazgatóság, székhelye Budapest, illetékességi területe Pest megye közigazgatási területe,
+## 14. Pest Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Budapest, illetékességi területe Pest vármegye közigazgatási területe,
 
-## 15. Somogy Megyei Katasztrófavédelmi Igazgatóság, székhelye Kaposvár, illetékességi területe Somogy megye közigazgatási területe,
+## 15. Somogy Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Kaposvár, illetékességi területe Somogy vármegye közigazgatási területe,
 
-## 16. Szabolcs-Szatmár-Bereg Megyei Katasztrófavédelmi Igazgatóság, székhelye Nyíregyháza, illetékességi területe Szabolcs-Szatmár-Bereg megye közigazgatási területe,
+## 16. Szabolcs-Szatmár-Bereg Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Nyíregyháza, illetékességi területe Szabolcs-Szatmár-Bereg vármegye közigazgatási területe,
 
-## 17. Tolna Megyei Katasztrófavédelmi Igazgatóság, székhelye Szekszárd, illetékességi területe Tolna megye közigazgatási területe,
+## 17. Tolna Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Szekszárd, illetékességi területe Tolna vármegye közigazgatási területe,
 
-## 18. Vas Megyei Katasztrófavédelmi Igazgatóság, székhelye Szombathely, illetékességi területe Vas megye közigazgatási területe,
+## 18. Vas Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Szombathely, illetékességi területe Vas vármegye közigazgatási területe,
 
-## 19. Veszprém Megyei Katasztrófavédelmi Igazgatóság, székhelye Veszprém, illetékességi területe Veszprém megye közigazgatási területe,
+## 19. Veszprém Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Veszprém, illetékességi területe Veszprém vármegye közigazgatási területe,
 
-## 20. Zala Megyei Katasztrófavédelmi Igazgatóság, székhelye Zalaegerszeg, illetékességi területe Zala megye közigazgatási területe.
+## 20. Zala Vármegyei Katasztrófavédelmi Igazgatóság, székhelye Zalaegerszeg, illetékességi területe Zala vármegye közigazgatási területe.
 
 ## b) A hivatásos katasztrófavédelmi szerv területi jogállású szervei
 
@@ -48,15 +48,15 @@
 
 ## c) A katasztrófavédelmi kirendeltségek
 
-|  | Megye |  | Katasztrófavédelmi kirendeltség |
+|  | Vármegye |  | Katasztrófavédelmi kirendeltség |
 
-|  | Bács-Kiskun megye | 1. | Baja |
+|  | Bács-Kiskun vármegye | 1. | Baja |
 
 |  |  | 2. | Kecskemét |
 
 |  |  | 3. | Kiskunhalas |
 
-|  | Baranya megye | 4. | Mohács |
+|  | Baranya vármegye | 4. | Mohács |
 
 |  |  | 5. | Pécs |
 
@@ -64,13 +64,13 @@
 
 |  |  | 7. | Szigetvár |
 
-|  | Békés megye | 8. | Békéscsaba |
+|  | Békés vármegye | 8. | Békéscsaba |
 
 |  |  | 9. | Orosháza |
 
 |  |  | 10. | Szeghalom |
 
-|  | Borsod-Abaúj-Zemplén megye | 11. | Encs |
+|  | Borsod-Abaúj-Zemplén vármegye | 11. | Encs |
 
 |  |  | 12. | Kazincbarcika |
 
@@ -78,15 +78,15 @@
 
 |  |  | 14. | Tiszaújváros |
 
-|  | Csongrád-Csanád megye | 15. | Szeged |
+|  | Csongrád-Csanád vármegye | 15. | Szeged |
 
 |  |  | 16. | Szentes |
 
-|  | Fejér megye | 17. | Dunaújváros |
+|  | Fejér vármegye | 17. | Dunaújváros |
 
 |  |  | 18. | Székesfehérvár |
 
-|  | Győr-Moson-Sopron megye | 19. | Győr |
+|  | Győr-Moson-Sopron vármegye | 19. | Győr |
 
 |  |  | 20. | Kapuvár |
 
@@ -94,17 +94,17 @@
 
 |  |  | 22. | Sopron |
 
-|  | Hajdú-Bihar megye | 23. | Debrecen |
+|  | Hajdú-Bihar vármegye | 23. | Debrecen |
 
 |  |  | 24. | Hajdúnánás |
 
 |  |  | 25. | Püspökladány |
 
-|  | Heves megye | 26. | Eger |
+|  | Heves vármegye | 26. | Eger |
 
 |  |  | 27. | Gyöngyös |
 
-|  | Jász-Nagykun-Szolnok megye | 28. | Jászberény |
+|  | Jász-Nagykun-Szolnok vármegye | 28. | Jászberény |
 
 |  |  | 29. | Karcag |
 
@@ -112,15 +112,15 @@
 
 |  |  | 31. | Szolnok |
 
-|  | Komárom-Esztergom megye | 32. | Esztergom |
+|  | Komárom-Esztergom vármegye | 32. | Esztergom |
 
 |  |  | 33. | Tatabánya |
 
-|  | Nógrád megye | 34. | Balassagyarmat |
+|  | Nógrád vármegye | 34. | Balassagyarmat |
 
 |  |  | 35. | Salgótarján |
 
-|  | Pest megye | 36. | Cegléd |
+|  | Pest vármegye | 36. | Cegléd |
 
 |  |  | 37. | Érd |
 
@@ -130,7 +130,7 @@
 
 |  |  | 40. | Vác |
 
-|  | Somogy megye | 41. | Barcs |
+|  | Somogy vármegye | 41. | Barcs |
 
 |  |  | 42. | Kaposvár |
 
@@ -138,7 +138,7 @@
 
 |  |  | 44. | Siófok |
 
-|  | Szabolcs-Szatmár-Bereg megye | 45. | Fehérgyarmat |
+|  | Szabolcs-Szatmár-Bereg vármegye | 45. | Fehérgyarmat |
 
 |  |  | 46. | Kisvárda |
 
@@ -146,25 +146,25 @@
 
 |  |  | 48. | Nyíregyháza |
 
-|  | Tolna megye | 49. | Dombóvár |
+|  | Tolna vármegye | 49. | Dombóvár |
 
 |  |  | 50. | Paks |
 
 |  |  | 51. | Szekszárd |
 
-|  | Vas megye | 52. | Körmend |
+|  | Vas vármegye | 52. | Körmend |
 
 |  |  | 53. | Sárvár |
 
 |  |  | 54. | Szombathely |
 
-|  | Veszprém megye | 55. | Ajka |
+|  | Veszprém vármegye | 55. | Ajka |
 
 |  |  | 56. | Pápa |
 
 |  |  | 57. | Veszprém |
 
-|  | Zala megye | 58. | Keszthely |
+|  | Zala vármegye | 58. | Keszthely |
 
 |  |  | 59. | Nagykanizsa |
 
@@ -180,6 +180,6 @@
 
 |  |  | 65. | Dél-budai |
 
-2. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^118]
+2. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^131]
 
-[^118]: A 2. melléklet a 268/2019. (XI. 19.) Korm. rendelet 6. § (1)–(2) bekezdése, a 408/2022. (X. 24.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^131]: A 2. melléklet a 268/2019. (XI. 19.) Korm. rendelet 6. § (1)–(2) bekezdése, a 408/2022. (X. 24.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
