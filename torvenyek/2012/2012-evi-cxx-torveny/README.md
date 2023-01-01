@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-120-00-00
 | 2021-01-01 | 2020. évi XLIII. törvény | 2012-120-00-00.19 |
 | 2021-08-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2012-120-00-00.20 |
 | 2022-05-25 | 2022. évi IV. törvény | 2012-120-00-00.21 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2012-120-00-00.22 |
