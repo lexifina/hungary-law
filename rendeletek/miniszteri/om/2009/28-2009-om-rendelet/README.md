@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-28-20-2
 | 2011-09-23 | 2009-28-20-2L.3 | 31/2011. (IX. 22.) BM rendelet |
 | 2013-07-30 | 2009-28-20-2L.4 | 37/2013. (VII. 29.) BM rendelet |
 | 2021-01-05 | 2009-28-20-2L.5 | 47/2020. (XII. 28.) BM rendelet |
+| 2023-01-01 | 2009-28-20-2L.6 | 47/2020. (XII. 28.) BM rendelet |
