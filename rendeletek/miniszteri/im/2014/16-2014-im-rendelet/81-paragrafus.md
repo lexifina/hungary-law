@@ -1,4 +1,4 @@
-## 49. [^100] Az elítélt előállítása és jelenlétének telekommunikációs eszköz útján történő biztosítása büntetőügyben
+## 49. [^102] Az elítélt előállítása és jelenlétének telekommunikációs eszköz útján történő biztosítása büntetőügyben
 
 81. § (1) Büntetőügyben a bíróság, az ügyészség és a nyomozó hatóság idézése vagy értesítése, továbbá a közvetítő értesítése alapján a bv. intézet az elítéltet a tárgyalásra, meghallgatásra, nyilvános ülésre, ülésre az idézésben, az értesítésben vagy az előállításra vonatkozó intézkedésben megjelölt helyre és időpontban előállítja.
 
@@ -22,4 +22,6 @@ b) az elítélt részére engedélyezett félbeszakítás vagy
 
 c) a büntetés végrehajtását kizáró ok felmerülése
 
-[^100]: A 49. alcím (81–82. §) a 14/2018. (VI. 15.) IM rendelet 13. §-ával megállapított szöveg.
+miatt nem tudja teljesíteni, erről a bíróságot, az ügyészséget, a nyomozó hatóságot, illetve a közvetítőt haladéktalanul – indokolt esetben rövid úton is – értesíti.
+
+[^102]: A 49. alcím (81–82. §) a 14/2018. (VI. 15.) IM rendelet 13. §-ával megállapított szöveg.

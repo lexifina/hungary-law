@@ -1,6 +1,6 @@
 3. melléklet a 16/2014. (XII. 19.) IM rendelethez
 
-## A zárka és a lakóhelyiség berendezései, felszerelési tárgyai
+A zárka és a lakóhelyiség berendezései, felszerelési tárgyai
 
 1. Személyenként:
 

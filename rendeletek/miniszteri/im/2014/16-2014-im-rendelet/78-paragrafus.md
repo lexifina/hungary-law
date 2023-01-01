@@ -1,13 +1,15 @@
-## 77. §[^95] Ha az elítélt súlyos betegségben szenved és kérelmet nem terjesztett elő, a félbeszakításra a bv. intézet parancsnoka, továbbá a BVEK főigazgatója, illetve az IMEI főigazgató főorvosa is javaslatot tehet.
+## 77. §[^97] Ha az elítélt súlyos betegségben szenved és kérelmet nem terjesztett elő, a félbeszakításra a bv. intézet parancsnoka, továbbá a BVEK főigazgatója, illetve az IMEI főigazgató főorvosa is javaslatot tehet.
 
 ## 46. A szabadságvesztés félbeszakítása hivatalból
 
 ## 78. § A bv. intézet a szabadságvesztés végrehajtásának félbeszakítására
 
-a)[^96] a bíróságnak a Be. 644. § (5) bekezdése, vagy a Be. 659. § (7) bekezdése alapján hozott határozata, vagy
+a)[^98] a bíróságnak a Be. 644. § (5) bekezdése, vagy a Be. 659. § (7) bekezdése alapján hozott határozata, vagy
 
-b)[^97] az igazságügyért felelős miniszternek a Bv. tv. 45. § (9) bekezdése alapján hozott döntése
+b)[^99] az igazságügyért felelős miniszternek a Bv. tv. 45. § (9) bekezdése alapján hozott döntése
 
-[^95]: A 77. § a 14/2020. (X. 30.) IM rendelet 3. § b) pontja szerint módosított szöveg.
-[^96]: A 78. § a) pontja a 31/2015. (X. 30.) IM rendelet 5. §-a, a 14/2018. (VI. 15.) IM rendelet 19. § 18. pontja szerint módosított szöveg.
-[^97]: A 78. § b) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 19. pontja szerint módosított szöveg.
+alapján intézkedik.
+
+[^97]: A 77. § a 14/2020. (X. 30.) IM rendelet 3. § b) pontja szerint módosított szöveg.
+[^98]: A 78. § a) pontja a 31/2015. (X. 30.) IM rendelet 5. §-a, a 14/2018. (VI. 15.) IM rendelet 19. § 18. pontja szerint módosított szöveg.
+[^99]: A 78. § b) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 19. pontja szerint módosított szöveg.

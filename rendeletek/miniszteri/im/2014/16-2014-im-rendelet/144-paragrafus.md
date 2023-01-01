@@ -6,6 +6,6 @@
 
 (3) A nyomozásra kiadott elítélt szabadulásának az esedékessége előtt a bv. intézet értesíti a kikérő szervet, hogy a megadott határidőre gondoskodjék az elítélt visszaszállításáról.
 
-(4)[^206] Az elítélt szabadulás céljából történő – a lakcíméhez vagy tényleges tartózkodási helyéhez közelebb eső – bv. intézetbe történő szállítását hivatalból vagy kérelemre méltányosságból a BVOP illetékes szervezeti egysége engedélyezheti.
+(4)[^211] Az elítélt szabadulás céljából történő – a lakcíméhez vagy tényleges tartózkodási helyéhez közelebb eső – bv. intézetbe történő szállítását hivatalból vagy kérelemre méltányosságból a BVOP illetékes szervezeti egysége engedélyezheti.
 
-[^206]: A 144. § (4) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 31. pontja szerint módosított szöveg.
+[^211]: A 144. § (4) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 31. pontja szerint módosított szöveg.

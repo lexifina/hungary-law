@@ -1,5 +1,3 @@
-## végrehajtására terjed ki.
-
 ## 2. § E rendelet alkalmazásában
 
 1. biztonsági részleg: a büntetés-végrehajtás országos parancsnoka (a továbbiakban: országos parancsnok) normatív utasításában kijelölt büntetés-végrehajtási intézetnek (a továbbiakban: bv. intézet) az e célra kialakított, biztonsági zárkákból és a hozzájuk tartozó helyiségekből álló, elkülönített része, ahová a jogszabályban meghatározott feltételek fennállása esetén az elítélt végrehajtási fokozattól függetlenül helyezhető el;

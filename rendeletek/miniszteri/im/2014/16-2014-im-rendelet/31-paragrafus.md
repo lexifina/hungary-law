@@ -4,7 +4,7 @@ a) a Bv. tv. 92. § (2) bekezdésében meghatározott elítélt esetében a kivi
 
 b) a Bv. tv. 95. § (4) bekezdése szerinti elítélt esetében az elítélt befogadó részlegen való tartózkodása alatt a BFB
 
-## megállapítja az ilyen jellegű bűncselekményekkel kapcsolatosan a visszaesési kockázati értéket.
+megállapítja az ilyen jellegű bűncselekményekkel kapcsolatosan a visszaesési kockázati értéket.
 
 (2) Ha az (1) bekezdés szerinti kockázati érték közepes vagy magas, az elítélt részére önkéntes részvételi alapon fel kell ajánlani a visszaesés valószínűségét csökkentő terápián való részvételt.
 

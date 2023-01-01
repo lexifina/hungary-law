@@ -8,6 +8,6 @@ a) a művelődési, a szabadidős, a sport, továbbá az egyéniesített személ
 
 b) a bűncselekmény következményeinek felismerése, az azért való felelősségvállalás, az okozott sérelmek helyreállítása érdekében a jóvátételt célzó
 
-## programokon való részvétel lehetőségét.
+programokon való részvétel lehetőségét.
 
 (3) Ha az elítélt a Bv. tv. 184. § (4) bekezdése szerinti oktatás, szakképzés költségeihez önkéntesen hozzájárul, a hozzájárulás mértékét képzési megállapodásban kell rögzíteni.

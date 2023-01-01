@@ -1,6 +1,6 @@
 2. melléklet a 16/2014. (XII. 19.) IM rendelethez
 
-## Az elítélt egyéni felszerelése
+Az elítélt egyéni felszerelése
 
 1. Étkezési felszerelés:
 

@@ -1,6 +1,6 @@
 6. melléklet a 16/2014. (XII. 19.) IM rendelethez
 
-## Az elítéltek egy napra eső élelmezési normája
+Az elítéltek egy napra eső élelmezési normája
 
 1. nem dolgozó elítélt részére 9 200–10 000 kJ;
 

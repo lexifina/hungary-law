@@ -10,4 +10,6 @@
 
 ## 5/B.[^11]
 
+10/C. §
+
 [^11]: Az 5/B. alcímet (10/C. §) a 24/2016. (XII. 23.) IM rendelet 12. §-a iktatta be, hatályon kívül helyezte a 18/2020. (XII. 29.) IM rendelet 9. §-a.

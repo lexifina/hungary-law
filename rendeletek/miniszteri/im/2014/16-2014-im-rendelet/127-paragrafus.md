@@ -18,6 +18,6 @@ g) sportolásra alkalmas területet,
 
 h) kondicionáló termet
 
-## kell kialakítani.
+kell kialakítani.
 
 (2) A kijelölt bv. intézetekben az elítéltek iskolai oktatásához, szakképzéséhez tantermet kell létesíteni.

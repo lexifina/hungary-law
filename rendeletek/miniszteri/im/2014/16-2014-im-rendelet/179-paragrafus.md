@@ -20,9 +20,9 @@ b) a személyes szükségleteire fordítható összeget – a jogszabályban meg
 
 (6) A bv. intézet biztosítja annak a lehetőségét, hogy az elzárásra ítélt a saját ruházatát kimoshassa és az ehhez szükséges mosószert saját költségére beszerezhesse.
 
-(7)[^228] A bv. intézet a Bv. tv. 278. § c) és d) pontjában meghatározott feltétel bekövetkezése esetén előterjesztést tesz a bv. bírónak az elzárás végrehajthatósága megszűnésének megállapítására.
+(7)[^233] A bv. intézet a Bv. tv. 278. § c) és d) pontjában meghatározott feltétel bekövetkezése esetén előterjesztést tesz a bv. bírónak az elzárás végrehajthatósága megszűnésének megállapítására.
 
-(8)[^229] A bv. intézet a befogadáskor a külföldi elítéltnél lévő, külföldi állam által kiállított úti okmányt átveszi, és megküldi az elsőfokon eljárt bíróság székhelye szerint illetékes idegenrendészeti hatóságnak, ha a külföldi elítéltet kiutasítás büntetésre is ítélték, egyéb esetben azt letétbe helyezi.
+(8)[^234] A bv. intézet a befogadáskor a külföldi elítéltnél lévő, külföldi állam által kiállított úti okmányt átveszi, és megküldi az elsőfokon eljárt bíróság székhelye szerint illetékes idegenrendészeti hatóságnak, ha a külföldi elítéltet kiutasítás büntetésre is ítélték, egyéb esetben azt letétbe helyezi.
 
-[^228]: A 179. § (7) bekezdését a 20/2020. (XII. 30.) IM rendelet 102. §-a iktatta be.
-[^229]: A 179. § (8) bekezdését a 12/2022. (IV. 26.) IM rendelet 52. §-a iktatta be.
+[^233]: A 179. § (7) bekezdését a 20/2020. (XII. 30.) IM rendelet 102. §-a iktatta be.
+[^234]: A 179. § (8) bekezdését a 12/2022. (IV. 26.) IM rendelet 52. §-a iktatta be.

@@ -1,6 +1,6 @@
 5. melléklet a 16/2014. (XII. 19.) IM rendelethez
 
-## A biztonsági zárka berendezése, felszerelése és az elítéltnél tartható tárgyak
+A biztonsági zárka berendezése, felszerelése és az elítéltnél tartható tárgyak
 
 1. Állandó berendezési és felszerelési tárgyak:
 

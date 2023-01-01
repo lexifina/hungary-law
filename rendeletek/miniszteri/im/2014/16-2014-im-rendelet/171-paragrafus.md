@@ -1,4 +1,4 @@
-## 170. §[^226] A bv. intézet a befogadáskor a külföldi elítéltnél lévő, külföldi állam által kiállított úti okmányt átveszi, és megküldi az elsőfokon eljárt bíróság székhelye szerint illetékes idegenrendészeti hatóságnak.
+## 170. §[^231] A bv. intézet a befogadáskor a külföldi elítéltnél lévő, külföldi állam által kiállított úti okmányt átveszi, és megküldi az elsőfokon eljárt bíróság székhelye szerint illetékes idegenrendészeti hatóságnak.
 
 171. § (1) A külföldi elítélt a részére érkezett csomag vám- és postaköltségét, valamint az egyéb költségeket maga viseli, e költségek megfizetését az illetékes külképviselet átvállalhatja. Ha a külföldi elítélt letéti pénzzel nem rendelkezik és a költségeket az illetékes külképviselet sem biztosítja, a bv. intézet a költségeket megelőlegezheti, ha a tartozás megfizetését a külföldi elítélt vállalja.
 
@@ -8,4 +8,4 @@
 
 (4) Az illetékes külképviselethez írt vagy az onnan érkező levelek tekintetében a hatóságokkal, nemzetközi szervezetekkel és a védővel való levelezés szabályait kell alkalmazni.
 
-[^226]: A 170. § a 12/2022. (IV. 26.) IM rendelet 51. §-ával megállapított szöveg.
+[^231]: A 170. § a 12/2022. (IV. 26.) IM rendelet 51. §-ával megállapított szöveg.

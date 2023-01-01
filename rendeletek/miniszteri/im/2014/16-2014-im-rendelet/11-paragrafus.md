@@ -1,5 +1,3 @@
-## 10/C. §
-
 ## 6. A bv. intézet rendje és biztonsága szempontjából jelentős adatok rögzítése a fogvatartotti nyilvántartásban és a bejelentő védelme
 
 11. § (1) Az elítéltre és az egyéb jogcímen fogvatartottra vonatkozó, a bv. intézet rendje és biztonsága szempontjából jelentős tényre vagy körülményre utaló adatot tartalmazó bejelentést a bv. intézet a bejelentő megjelölésével a fogvatartotti nyilvántartásban rögzíti.

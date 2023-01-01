@@ -16,10 +16,10 @@ b) olyan szabadságvesztés végrehajtásra érkezik értesítés, amely a szaba
 
 c) a folyamatosan töltött szabadságvesztések esetén a soron következő szabadságvesztés végrehajtási fokozata eltér az előzőtől.
 
-d)[^39] az elítélt a bv. intézet rendjét súlyosan megsérti.
+d)[^41] az elítélt a bv. intézet rendjét súlyosan megsérti.
 
 (4) Ha a Bv. tv. 93. § (3) bekezdésében foglalt vizsgálat és a (3) bekezdésben szereplő eljárás várhatóan két hónapon belül történik, úgy lehetőség szerint a két vizsgálatot egyidejűleg kell a KKMI-ben elvégezni.
 
 (5) A rezsimbe sorolás felülvizsgálata során annak súlyosbítása korlátlanul, enyhítése csak a fokozatosság elvének figyelembevételével rendelhető el.
 
-[^39]: A 37. § (3) bekezdés d) pontját a 12/2022. (IV. 26.) IM rendelet 44. §-a iktatta be.
+[^41]: A 37. § (3) bekezdés d) pontját a 12/2022. (IV. 26.) IM rendelet 44. §-a iktatta be.

@@ -4,8 +4,8 @@
 
 a) a szabadságvesztésből szabadulás, illetve a feltételes szabadságra bocsátás, vagy
 
-b)[^223] a letartóztatása megszüntetése
+b)[^228] a letartóztatása megszüntetése
 
 napján a javítóintézetnek – előzetesen egyeztetett időpontban – a fiatalkorút átadja, vagy oda átszállítja.
 
-[^223]: A 161. § b) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 46. pontja szerint módosított szöveg.
+[^228]: A 161. § b) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 46. pontja szerint módosított szöveg.
