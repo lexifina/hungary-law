@@ -1,6 +1,6 @@
 ## 3. A kormányhivatalok feladatai
 
-3. § (1) A fővárosi és megyei kormányhivatal (a továbbiakban együtt: kormányhivatal) a választási feladatok ellátása érdekében a területi választási iroda, illetve a Fővárosi Választási Iroda (a továbbiakban együtt: TVI), valamint a helyi választási iroda (a továbbiakban: HVI) vezetője számára – megállapodás alapján – biztosítja
+3. § (1)[^4] A fővárosi és vármegyei kormányhivatal (a továbbiakban együtt: kormányhivatal) a választási feladatok ellátása érdekében a területi választási iroda, illetve a Fővárosi Választási Iroda (a továbbiakban együtt: TVI), valamint a helyi választási iroda (a továbbiakban: HVI) vezetője számára – megállapodás alapján – biztosítja
 
 a) a megfelelő számú, a kormányhivatallal kormányzati szolgálati jogviszonyban álló személy választási iroda tagjává történő megbízásának lehetőségét, valamint
 
@@ -22,10 +22,11 @@ b) a választási informatikai hálózat eléréséhez szükséges eszközöket,
 
 c) az a) és b) pontban foglaltak igénybevételéhez szükséges kiemelt rendelkezésre állást.
 
-(4)[^3] A (3) bekezdésben foglaltak különösen az ajánlóív-nyomtatás, az ajánlás-ellenőrzés, a szavazásnapi napközbeni részvételi adatok és a szavazóköri jegyzőkönyvek adatainak rögzítési feladataira terjedhetnek ki.
+(4)[^5] A (3) bekezdésben foglaltak különösen az ajánlóív-nyomtatás, az ajánlás-ellenőrzés, a szavazásnapi napközbeni részvételi adatok és a szavazóköri jegyzőkönyvek adatainak rögzítési feladataira terjedhetnek ki.
 
 (5) A választási iroda és a kormányhivatal együttműködik a választási feladatok határidőre történő elvégzése érdekében. A választási feladatok határidőre történő elvégzése elsőbbséget élvez a kormányhivatal egyéb feladataival szemben.
 
 (6) A választási iroda tagjává történő megbízása esetén a kormányhivatallal kormányzati szolgálati jogviszonyban álló személy is a választási iroda tagjával megegyező díjazásra jogosult.
 
-[^3]: A 3. § (4) bekezdése a 15/2021. (XI. 29.) IM rendelet 9. §-ával megállapított szöveg.
+[^4]: A 3. § (1) bekezdés nyitó szövegrésze a 42/2022. (XII. 28.) IM rendelet 12. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (4) bekezdése a 15/2021. (XI. 29.) IM rendelet 9. §-ával megállapított szöveg.

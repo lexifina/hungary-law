@@ -24,11 +24,11 @@ g) átveszi a jelölő szervezet bejelentését tartalmazó nyomtatványokat, az
 
 h) az informatikai rendszerben regisztrálja a jelölő szervezet képviseletében nyilatkozattételre jogosultak adatait,
 
-i)[^13] a civil szervezetek országos névjegyzékében ellenőrzi a jelölő szervezet létezését, bejelentett adatait és azt, hogy a választás kitűzésekor a bírósági nyilvántartásban jogerősen szerepelt-e, továbbá nemzetiségi jelölő szervezet esetén a bíróság megkeresése útján ellenőrzi a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény (a továbbiakban: Nektv.) 2. § 14. pontjában foglalt feltétel teljesülését,
+i)[^15] a civil szervezetek országos névjegyzékében ellenőrzi a jelölő szervezet létezését, bejelentett adatait és azt, hogy a választás kitűzésekor a bírósági nyilvántartásban jogerősen szerepelt-e, továbbá nemzetiségi jelölő szervezet esetén a bíróság megkeresése útján ellenőrzi a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény (a továbbiakban: Nektv.) 2. § 14. pontjában foglalt feltétel teljesülését,
 
-j) megállapítja és közzéteszi a megyei lista, valamint közzéteszi a területi nemzetiségi lista és a főpolgármester-jelölt állításához szükséges ajánlások számát,
+j)[^16] megállapítja és közzéteszi a vármegyei lista, valamint közzéteszi a területi nemzetiségi lista és a főpolgármester-jelölt állításához szükséges ajánlások számát,
 
-k)[^14] átveszi az ajánlóív iránti igényt tartalmazó nyomtatványt, azt ellenőrzi és az informatikai rendszerben rögzíti; ha az ajánlóív iránti igény nem teljesíthető, haladéktalanul határozatot hoz az ajánlóív kiadásának megtagadásáról, és azt átadja vagy megküldi az igénylőnek; a nyomtatvány benyújtásáról átvételi elismervényt ad ki,
+k)[^17] átveszi az ajánlóív iránti igényt tartalmazó nyomtatványt, azt ellenőrzi és az informatikai rendszerben rögzíti; ha az ajánlóív iránti igény nem teljesíthető, haladéktalanul határozatot hoz az ajánlóív kiadásának megtagadásáról, és azt átadja vagy megküldi az igénylőnek; a nyomtatvány benyújtásáról átvételi elismervényt ad ki,
 
 l) az informatikai rendszerből kinyomtatja és átadás-átvételi jegyzőkönyvvel átadja az igénylő részére az ajánlóíveket,
 
@@ -48,7 +48,7 @@ p) az ajánlóíveken adott ajánlásokat – a TVB döntésének előkészíté
 
 pa) az ajánlóíven az ajánlást gyűjtő polgár és a választópolgár valamennyi szükséges adata fel van-e tüntetve,
 
-pb)[^15] az ajánlást gyűjtő polgár adatai – az ajánlóív kiadása és leadása közötti időszak bármely napjára vonatkozóan – megegyeznek-e a polgárok személyi és lakcímadatait tartalmazó nyilvántartásban, az útiokmány-nyilvántartásban vagy a vezetőiengedély-nyilvántartásban szereplő adataival,
+pb)[^18] az ajánlást gyűjtő polgár adatai – az ajánlóív kiadása és leadása közötti időszak bármely napjára vonatkozóan – megegyeznek-e a polgárok személyi és lakcímadatait tartalmazó nyilvántartásban, az útiokmány-nyilvántartásban vagy a vezetőiengedély-nyilvántartásban szereplő adataival,
 
 pc) létezik-e – az ajánlóív kiadása és leadása közötti időszak bármely napjára vonatkozóan – választópolgár az adott személyi azonosítóval,
 
@@ -78,7 +78,7 @@ v) a bírság kiszabásáról hozott határozat adatait az NVI elnökének inté
 
 w) ellátja a listák, jelöltek nyilvántartásával kapcsolatos feladatokat,
 
-x) előterjeszti a TVB részére a megyei listás, illetve a főpolgármesteri, továbbá a területi nemzetiségi önkormányzati szavazólap tervezetét annak adattartalma jóváhagyása céljából,
+x)[^19] előterjeszti a TVB részére a vármegyei listás, illetve a főpolgármesteri, továbbá a területi nemzetiségi önkormányzati szavazólap tervezetét annak adattartalma jóváhagyása céljából,
 
 y) gondoskodik a központi nyomtatványok átvételéről, az ezekkel kapcsolatos ügyviteli feladatok ellátásáról, továbbá
 
@@ -86,7 +86,7 @@ z) tájékoztatja a HVI-ket a szavazólap elkészülte után bekövetkező vált
 
 (2) A TVI vezetője – a Ve.-ben foglalt feladatain túl –
 
-a)[^16] megszervezi az OEVI-k és a HVI-k vezetőinek képzését,
+a)[^20] megszervezi az OEVI-k és a HVI-k vezetőinek képzését,
 
 b) meghatározza a központilag biztosított kellékek szállításának és átvételének rendjét,
 
@@ -94,7 +94,9 @@ c) elkészíti az üzemzavar esetére irányadó intézkedési tervet, és
 
 d) kiadja a jegyzőkönyvek és a településen települési nemzetiségi önkormányzati választást nem tartó nemzetiség szavazatait tartalmazó szállítóborítékok továbbításával kapcsolatos utasítását.
 
-[^13]: A 9. § (1) bekezdés i) pontja a 15/2021. (XI. 29.) IM rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^14]: A 9. § (1) bekezdés k) pontja a 15/2021. (XI. 29.) IM rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^15]: A 9. § (1) bekezdés p) pont pb) alpontja a 15/2021. (XI. 29.) IM rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^16]: A 9. § (2) bekezdés a) pontja a 15/2021. (XI. 29.) IM rendelet 19. § b) pontja szerint módosított szöveg.
+[^15]: A 9. § (1) bekezdés i) pontja a 15/2021. (XI. 29.) IM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^16]: A 9. § (1) bekezdés j) pontja a 42/2022. (XII. 28.) IM rendelet 12. § b) pontja szerint módosított szöveg.
+[^17]: A 9. § (1) bekezdés k) pontja a 15/2021. (XI. 29.) IM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^18]: A 9. § (1) bekezdés p) pont pb) alpontja a 15/2021. (XI. 29.) IM rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^19]: A 9. § (1) bekezdés x) pontja a 42/2022. (XII. 28.) IM rendelet 12. § c) pontja szerint módosított szöveg.
+[^20]: A 9. § (2) bekezdés a) pontja a 15/2021. (XI. 29.) IM rendelet 19. § b) pontja szerint módosított szöveg.

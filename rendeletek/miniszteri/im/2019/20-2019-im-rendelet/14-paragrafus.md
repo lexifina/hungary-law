@@ -16,11 +16,11 @@ f) előkészíti az országos nemzetiségi önkormányzati képviselők megbíz�
 
 g) tájékoztatást ad az erre irányuló kérelmet benyújtó választópolgár számára arról, hogy az adatai szerepelnek-e az általa ellenőrzött ajánlások között,
 
-h)[^22] gondoskodik a választási iratok biztonságos tárolásáról; a szavazást követő kilencvenedik napot követő munkanapon megsemmisíti a szavazóköri névjegyzékkel kapcsolatos kérelmek, valamint az azok elbírálása során keletkezett döntések, a szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok jegyzékének elektronikus példányát, a nemzetiségi megfigyelők nyilvántartott személyes adatait, az ajánlóíveket és az ajánlóívekről az informatikai rendszerbe rögzített adatokat,
+h)[^29] gondoskodik a választási iratok biztonságos tárolásáról; a szavazást követő kilencvenedik napot követő munkanapon megsemmisíti a szavazóköri névjegyzékkel kapcsolatos kérelmek, valamint az azok elbírálása során keletkezett döntések, a szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok jegyzékének elektronikus példányát, a nemzetiségi megfigyelők nyilvántartott személyes adatait, az ajánlóíveket és az ajánlóívekről az informatikai rendszerbe rögzített adatokat,
 
 i) fogadja a szavazóköri és eredményjegyzőkönyvek első példányát, azokat a szavazást követő kilencvenedik nap elteltével, illetve büntetőeljárás esetén az ügy jogerős lezárása után átadja a Magyar Nemzeti Levéltárnak.
 
-j)[^23] az informatikai rendszerben rögzíti az országos nemzetiségi listán szereplő jelölt lemondását a jelöltségről.
+j)[^30] az informatikai rendszerben rögzíti az országos nemzetiségi listán szereplő jelölt lemondását a jelöltségről.
 
-[^22]: A 14. § h) pontja a 15/2021. (XI. 29.) IM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^23]: A 14. § j) pontját a 15/2021. (XI. 29.) IM rendelet 16. § (2) bekezdése iktatta be.
+[^29]: A 14. § h) pontja a 15/2021. (XI. 29.) IM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^30]: A 14. § j) pontját a 15/2021. (XI. 29.) IM rendelet 16. § (2) bekezdése iktatta be.

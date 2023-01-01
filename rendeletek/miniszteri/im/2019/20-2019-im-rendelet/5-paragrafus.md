@@ -30,7 +30,7 @@ i) helyben szokásos módon közzéteszi a HVB ülésének várható időpontjá
 
 j) megállapítja és helyben szokásos módon közzéteszi a polgármesterjelölt, valamint az egyéni listás vagy egyéni választókerületi jelölt állításához szükséges ajánlások számát, közzéteszi a települési nemzetiségi önkormányzati jelölt állításához szükséges ajánlások számát,
 
-k)[^4] átveszi az ajánlóív iránti igényt tartalmazó nyomtatványt, azt ellenőrzi, a nyomtatvány benyújtásáról átvételi elismervényt ad ki, továbbá az igénybejelentő nyomtatványt az informatikai rendszerben regisztrálja; ha az ajánlóív iránti igény nem teljesíthető, haladéktalanul határozatot hoz az ajánlóív kiadásának megtagadásáról, és azt átadja vagy megküldi az igénylőnek,
+k)[^6] átveszi az ajánlóív iránti igényt tartalmazó nyomtatványt, azt ellenőrzi, a nyomtatvány benyújtásáról átvételi elismervényt ad ki, továbbá az igénybejelentő nyomtatványt az informatikai rendszerben regisztrálja; ha az ajánlóív iránti igény nem teljesíthető, haladéktalanul határozatot hoz az ajánlóív kiadásának megtagadásáról, és azt átadja vagy megküldi az igénylőnek,
 
 l) az informatikai rendszerből kinyomtatja és átadás-átvételi jegyzőkönyvvel átadja az igénylő részére az ajánlóíveket,
 
@@ -50,7 +50,7 @@ a) az ajánlóíveken adott ajánlásokat – a HVB döntésének előkészíté
 
 aa) az ajánlóíven az ajánlást gyűjtő polgár és a választópolgár valamennyi szükséges adata fel van-e tüntetve,
 
-ab)[^5] az ajánlást gyűjtő polgár adatai – az ajánlóív kiadása és leadása közötti időszak bármely napjára vonatkozóan – megegyeznek-e a polgárok személyi és lakcímadatait tartalmazó nyilvántartásban, az útiokmány-nyilvántartásban vagy a vezetőiengedély-nyilvántartásban szereplő adataival,
+ab)[^7] az ajánlást gyűjtő polgár adatai – az ajánlóív kiadása és leadása közötti időszak bármely napjára vonatkozóan – megegyeznek-e a polgárok személyi és lakcímadatait tartalmazó nyilvántartásban, az útiokmány-nyilvántartásban vagy a vezetőiengedély-nyilvántartásban szereplő adataival,
 
 ac) létezik-e – az ajánlóív kiadása és leadása közötti időszak bármely napjára vonatkozóan – választópolgár az adott személyi azonosítóval,
 
@@ -70,9 +70,9 @@ e) az egyéni választókerületi jelöltek bejelentésére nyitva álló határ
 
 f) előkészíti a jelöltek, kompenzációs listák sorsolását, a sorsolás eredményét rögzíti az informatikai rendszerben,
 
-g)[^6] a Ve. 153–154. §-a szerint, bejelentett igény alapján, az adatszolgáltatási díj megfizetésének igazolását követően a szavazóköri névjegyzékben szereplő választópolgárok adatait átadja az igénylőnek,
+g)[^8] a Ve. 153–154. §-a szerint, bejelentett igény alapján, az adatszolgáltatási díj megfizetésének igazolását követően a szavazóköri névjegyzékben szereplő választópolgárok adatait átadja az igénylőnek,
 
-h)[^7] a nemzetiségi önkormányzati választáson az adott nemzetiség szavazóköri névjegyzékében szereplő választópolgárok adatait a Ve.-ben meghatározottak szerint átadja
+h)[^9] a nemzetiségi önkormányzati választáson az adott nemzetiség szavazóköri névjegyzékében szereplő választópolgárok adatait a Ve.-ben meghatározottak szerint átadja
 
 ha) a települési nemzetiségi önkormányzati jelölt számára ajánlóívet igénylő jelölő szervezetnek, illetve
 
@@ -98,15 +98,15 @@ q) a szavazóköri névjegyzék lezárását követően kinyomtatja a szavazók�
 
 r) a szavazást megelőző napon előkészíti és tételenként – átvételi elismervénnyel – átadja az SZSZB elnöke vagy helyettese részére a szavazás lebonyolításához szükséges nyomtatványokat, iratokat, bélyegzőt és egyéb kellékeket, valamint
 
-s)[^8] átvezeti a szavazólap elkészülte után bekövetkező változásokat a szavazólapokon, vagy az átvezetés szükségességéről tájékoztatja az SZSZB-t,
+s)[^10] átvezeti a szavazólap elkészülte után bekövetkező változásokat a szavazólapokon, vagy az átvezetés szükségességéről tájékoztatja az SZSZB-t,
 
-t)[^9] a megismételt szavazásról értesítőt nyomtat az informatikai rendszerből, és annak megküldésével tájékoztatja a szavazóköri névjegyzékben szereplő választópolgárokat.
+t)[^11] a megismételt szavazásról értesítőt nyomtat az informatikai rendszerből, és annak megküldésével tájékoztatja a szavazóköri névjegyzékben szereplő választópolgárokat.
 
 (3) A HVI vezetője – a Ve.-ben foglalt feladatain túl – a kinyomtatott szavazóköri névjegyzékeket és a mozgóurnát igénylő választópolgárok kinyomtatott jegyzékét az utolsó oldalon aláírásával és bélyegzőlenyomattal hitelesíti, továbbá a nyomtatásról és a hitelesítésről, valamint a szavazóköri jegyzőkönyvek kinyomtatásáról az informatikai rendszer útján tájékoztatja az NVI-t.
 
-[^4]: Az 5. § (1) bekezdés k) pontja a 15/2021. (XI. 29.) IM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 5. § (2) bekezdés a) pont ab) alpontja a 15/2021. (XI. 29.) IM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^6]: Az 5. § (2) bekezdés g) pontja a 15/2021. (XI. 29.) IM rendelet 19. § a) pontja szerint módosított szöveg.
-[^7]: Az 5. § (2) bekezdés h) pont nyitó szövegrésze a 15/2021. (XI. 29.) IM rendelet 19. § a) pontja szerint módosított szöveg.
-[^8]: Az 5. § (2) bekezdés s) pontja a 15/2021. (XI. 29.) IM rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^9]: Az 5. § (2) bekezdés t) pontját a 15/2021. (XI. 29.) IM rendelet 10. § (4) bekezdése iktatta be.
+[^6]: Az 5. § (1) bekezdés k) pontja a 15/2021. (XI. 29.) IM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (2) bekezdés a) pont ab) alpontja a 15/2021. (XI. 29.) IM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (2) bekezdés g) pontja a 15/2021. (XI. 29.) IM rendelet 19. § a) pontja szerint módosított szöveg.
+[^9]: Az 5. § (2) bekezdés h) pont nyitó szövegrésze a 15/2021. (XI. 29.) IM rendelet 19. § a) pontja szerint módosított szöveg.
+[^10]: Az 5. § (2) bekezdés s) pontja a 15/2021. (XI. 29.) IM rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (2) bekezdés t) pontját a 15/2021. (XI. 29.) IM rendelet 10. § (4) bekezdése iktatta be.
