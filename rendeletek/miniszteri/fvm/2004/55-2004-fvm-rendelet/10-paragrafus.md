@@ -6,7 +6,7 @@ b) a 2. számú mellékletben meghatározott feltételeknek megfelelő, az Euró
 
 c) a rendeltetési hely szerinti állattartó telepen,
 
-## azzal, hogy a származási és a rendeltetési karanténközpontok állattartó telepei, a határállomások, valamint az a) pontban meghatározott karanténközpontok között történő szállítás során teljesíteni kell a külön jogszabály által meghatározott különleges biztosítékot.
+azzal, hogy a származási és a rendeltetési karanténközpontok állattartó telepei, a határállomások, valamint az a) pontban meghatározott karanténközpontok között történő szállítás során teljesíteni kell a külön jogszabály által meghatározott különleges biztosítékot.
 
 (2) Ha a határállomási állatorvos elrendeli az állat karanténba helyezését, akkor az általa megállapított kockázattól függően a karanténozás
 
@@ -16,7 +16,7 @@ b) a rendeltetési állattartó telepen, vagy
 
 c) a rendeltetési állattartó telep közelében lévő karanténközpontban
 
-## történhet.
+történhet.
 
 (3) Az (1) bekezdés a) és b) pontjában meghatározott karanténközpontnak meg kell felelnie a 2. számú mellékletben foglalt feltételeknek. A karanténközpont különböző állatfajokra történő jóváhagyásának feltételeit külön jogszabály állapítja meg.
 

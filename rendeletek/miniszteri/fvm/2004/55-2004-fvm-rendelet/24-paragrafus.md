@@ -4,4 +4,6 @@ a) a 92/65/EGK tanácsi irányelvnek az engedélyezett szervezetek, intézménye
 
 b) a kutyák, macskák és görények Unióba történő behozatalára, valamint ötnél több kutya, macska és görény Unióba történő, nem kereskedelmi célú mozgására engedéllyel rendelkező harmadik országok és területek jegyzékének, továbbá az ezen állatok Unióba történő behozatalára és nem kereskedelmi célú mozgására vonatkozó bizonyítványminta megállapításáról szóló, 2011. december 15-i 2011/874/EU bizottsági végrehajtási határozat I. mellékletében
 
+meghatározott mintáknak megfelelő, 2014. december 28-ig kiállított állategészségügyi bizonyítvánnyal hozhatók be Magyarországra.
+
 [^33]: A 24. §-t a 21/2015. (IV. 30.) FM rendelet 16. § (2) bekezdése iktatta be.

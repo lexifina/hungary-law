@@ -1,6 +1,6 @@
 2. számú melléklet az 55/2004. (IV. 24.) FVM rendelethez
 
-## A karanténközpont jóváhagyásának feltételei
+A karanténközpont jóváhagyásának feltételei
 
 1. A karanténközpontnak meg kell felelnie az 1. számú melléklet 1.2., 1.4., 1.5., 1.7., 1.8. és 1.9. alpontjaiban foglalt követelményeknek.
 

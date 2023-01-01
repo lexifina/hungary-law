@@ -1,8 +1,6 @@
-## meghatározott mintáknak megfelelő, 2014. december 28-ig kiállított állategészségügyi bizonyítvánnyal hozhatók be Magyarországra.
-
 1. számú melléklet az 55/2004. (IV. 24.) FVM rendelethez
 
-## Az állategészségügyi határállomás jóváhagyásának feltételei
+Az állategészségügyi határállomás jóváhagyásának feltételei
 
 1. Az állategészségügyi határállomásnak rendelkeznie kell:
 

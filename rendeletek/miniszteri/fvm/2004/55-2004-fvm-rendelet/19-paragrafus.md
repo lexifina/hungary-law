@@ -1,4 +1,4 @@
-19. § (1)[^25] Ha az állat forgalomba hozatalának helye szerint illetékes megyei kormányhivatal az elvégzett ellenőrzés alapján megállapítja, hogy a 91/496/EGK irányelv szerinti előírásoknak egy másik tagállam állategészségügyi határállomásán nem tesznek eleget
+19. § (1)[^25] Ha az állat forgalomba hozatalának helye szerint illetékes vármegyei kormányhivatal az elvégzett ellenőrzés alapján megállapítja, hogy a 91/496/EGK irányelv szerinti előírásoknak egy másik tagállam állategészségügyi határállomásán nem tesznek eleget
 
 a) a minisztérium haladéktalanul kapcsolatba lép az adott tagállam illetékes hatóságával,
 
@@ -10,15 +10,15 @@ d) a minisztérium kezdeményezheti az Európai Bizottságnál, hogy küldjön e
 
 e) a minisztérium kezdeményezheti az érintett tagállamnál, hogy fokozza az ellenőrzést az adott állategészségügyi határállomáson vagy karanténközpontban,
 
-f)[^27] a megyei kormányhivatal fokozhatja az ilyen helyről származó állatok ellenőrzését,
+f)[^27] a vármegyei kormányhivatal fokozhatja az ilyen helyről származó állatok ellenőrzését,
 
 g) a minisztérium kezdeményezheti az Európai Bizottságnál a megfelelő intézkedés megtételét.
 
 (2) Ha a forgalomba hozatal szerint illetékes tagállam az elvégzett ellenőrzés alapján úgy ítéli meg, hogy az e rendelet előírásainak valamely magyar állategészségügyi határállomáson nem tesznek eleget és felveszi a kapcsolatot a minisztériummal, a minisztérium minden szükséges intézkedést megtesz, valamint tájékoztatja az illetékes tagállamot a végrehajtott ellenőrzés jellegéről, a döntésről és annak okáról.
 
-(3)[^28] Ha a forgalomba hozatal szerint illetékes tagállam a (2) bekezdés szerinti tájékoztatás alapján azt valószínűsíti, hogy az adott intézkedés nem megfelelő, a két tagállam illetékes hatóságai – Magyarország részéről a minisztérium – közösen keresnek megoldást a helyzetre, amely kiterjedhet Magyarországon lefolytatott egyeztető megbeszélésre is. Ilyen esetben az Európai Bizottság által küldött ellenőrző csoport a minisztériummal együttműködve ellenőrzést végezhet az érintett helyszínen. Az Európai Bizottság vizsgálatának eredményéig a megyei kormányhivatal a forgalomba hozatal szerint illetékes tagállam kérésére köteles fokozni az adott állategészségügyi határállomáson vagy karanténközpontban az ellenőrzést.
+(3)[^28] Ha a forgalomba hozatal szerint illetékes tagállam a (2) bekezdés szerinti tájékoztatás alapján azt valószínűsíti, hogy az adott intézkedés nem megfelelő, a két tagállam illetékes hatóságai – Magyarország részéről a minisztérium – közösen keresnek megoldást a helyzetre, amely kiterjedhet Magyarországon lefolytatott egyeztető megbeszélésre is. Ilyen esetben az Európai Bizottság által küldött ellenőrző csoport a minisztériummal együttműködve ellenőrzést végezhet az érintett helyszínen. Az Európai Bizottság vizsgálatának eredményéig a vármegyei kormányhivatal a forgalomba hozatal szerint illetékes tagállam kérésére köteles fokozni az adott állategészségügyi határállomáson vagy karanténközpontban az ellenőrzést.
 
-[^25]: A 19. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 68. § d) pontja szerint módosított szöveg.
+[^25]: A 19. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 68. § d) pontja, a 85/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
 [^26]: A 19. § (1) bekezdés b) pontja az 5/2012. (II. 10.) VM rendelet 14. § a) pontja szerint módosított szöveg.
-[^27]: A 19. § (1) bekezdés f) pontja a 42/2017. (VIII. 17.) FM rendelet 68. § c) pontja szerint módosított szöveg.
-[^28]: A 19. § (3) bekezdése az 5/2012. (II. 10.) VM rendelet 14. § a) és c) pontja, a 42/2017. (VIII. 17.) FM rendelet 68. § c) pontja szerint módosított szöveg.
+[^27]: A 19. § (1) bekezdés f) pontja a 42/2017. (VIII. 17.) FM rendelet 68. § c) pontja, a 85/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^28]: A 19. § (3) bekezdése az 5/2012. (II. 10.) VM rendelet 14. § a) és c) pontja, a 42/2017. (VIII. 17.) FM rendelet 68. § c) pontja, a 85/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

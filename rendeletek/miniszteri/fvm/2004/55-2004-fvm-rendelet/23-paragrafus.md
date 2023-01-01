@@ -8,7 +8,7 @@ b) a 90/425/EGK irányelv A. mellékletének I. pontjában felsorolt külön kö
 
 c) a 92/65/EGK tanácsi irányelvnek a kutyák, macskák és görények Unión belüli kereskedelmére és Unióba való behozatalára irányadó állat-egészségügyi követelmények tekintetében történő módosításáról szóló, 2013. június 12-i 2013/31/EU irányelvnek
 
-## való megfelelést szolgálja.
+való megfelelést szolgálja.
 
 (2) Ez a rendelet a kutyák, macskák és görények behozatalára engedéllyel rendelkező területek és harmadik országok jegyzékének, továbbá az ezen állatok behozatalára vonatkozó bizonyítványminta megállapításáról szóló, 2013. október 21-i 2013/519/EU bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 

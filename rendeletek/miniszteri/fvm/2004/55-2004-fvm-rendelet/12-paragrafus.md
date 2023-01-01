@@ -6,7 +6,7 @@ b) az állat karanténozása vagy a szállítmány elkülönítése, illetve
 
 c) ha az állategészségügyi és állatvédelmi szempontból lehetséges, akkor az állatszállítmány – harmadik országokból az Európai Unió területére behozni kívánt termékek állategészségügyi ellenőrzésének szabályairól szóló miniszteri rendelet 1. számú mellékletében meghatározott területen kívülre történő – visszaküldése
 
-## iránt intézkedhet.
+iránt intézkedhet.
 
 (2) Az (1) bekezdés c) pontja szerinti esetben a határállomási állatorvos köteles
 
