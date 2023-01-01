@@ -1,5 +1,3 @@
-## Tételek és normatívák a helyi önkormányzati képviselők és a polgármesterek, valamint a nemzetiségi önkormányzati képviselők általános választásán
-
 | 1. | Jogcím | Normatíva |  |  |
 
 | 2. | Kód | Név | Egység | Ft/egység |
@@ -210,33 +208,33 @@
 
 | 105. | 31101 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség OEVI-nél. |  |  |
 
-| 106. | MEGYEI KIADÁSOK |
+| 106. | VÁRMEGYEI KIADÁSOK |
 
 | 107. | 1. DOLOGI KIADÁSOK |
 
 | 108. | 131 | TVI választás előkészítésével és folyamatos működésével összefüggő kiadásai. |  |  |
 
-| 109. | 13101 | TVI dologi kiadásai megyénként. | 1 | 200 000 |
+| 109. | 13101 | TVI dologi kiadásai vármegyénként. | 1 | 200 000 |
 
 | 110. | 13102 | A TVI oktatással összefüggő kiadásai, HVI-nként. | 1 | 20 000 |
 
-| 111. | 13103 | Pénzügyi és logisztikai feladatok ellátása, megyénként. | 1 | 150 000 |
+| 111. | 13103 | Pénzügyi és logisztikai feladatok ellátása, vármegyénként. | 1 | 150 000 |
 
-| 112. | 13104 | Ajánlóívek nyomtatása tényleges igénybevétel alapján (laponként) megyék részére. | 1 | 25 |
+| 112. | 13104 | Ajánlóívek nyomtatása tényleges igénybevétel alapján (laponként) vármegyék részére. | 1 | 25 |
 
 | 113. | 132 | A TVI infrastrukturális feltételeihez kapacitás kiegészítése. |  |  |
 
-| 114. | 13201 | A TVI infrastrukturális feltételeihez kapacitás kiegészítés, megyénként. | 1 | 350 000 |
+| 114. | 13201 | A TVI infrastrukturális feltételeihez kapacitás kiegészítés, vármegyénként. | 1 | 350 000 |
 
 | 115. | 133 | Étkezési ellátás költségei. |  |  |
 
 | 116. | 13301 | TVI ellátási költsége alapján fizetendő ÁFA. | 1 | 13 500 |
 
-| 117. | 13302 | TVB választási ellátás költsége alapján fizetendő ÁFA megyénként. | 1 | 8 500 |
+| 117. | 13302 | TVB választási ellátás költsége alapján fizetendő ÁFA vármegyénként. | 1 | 8 500 |
 
 | 118. | 134 | Szavazással, eredmény-megállapítással összefüggő kiadások |  |  |
 
-| 119. | 13401 | A TVI és TVB kiadásai megyénként. | 1 | 50 000 |
+| 119. | 13401 | A TVI és TVB kiadásai vármegyénként. | 1 | 50 000 |
 
 | 120. | 135 | A választópolgárok ajánlásával kapcsolatos adatigénylések megválaszolásával összefüggő költségek. |  |  |
 
@@ -272,7 +270,7 @@
 
 | 136. | 23405 | TVI további 5 tagjának díja. | 5 | 160 000 |
 
-| 137. | 23406 | További TVI tagok díja pénzügyi ellenőrzési feladatok ellátására. (Települések száma a megyében szorozva a szavazókörök számával, szorzatérték alapján sávosan.) |  |  |
+| 137. | 23406 | További TVI tagok díja pénzügyi ellenőrzési feladatok ellátására. (Települések száma a vármegyében szorozva a szavazókörök számával, szorzatérték alapján sávosan.) |  |  |
 
 | 138. | 2340601 | –35 000 | 1 | 160 000 |
 
@@ -292,11 +290,11 @@
 
 | 146. | 23601 | TVB 3 választott tagjának díja. | 3 | 50 000 |
 
-| 147. | 23602 | TVB választott és megbízott tagjainak választási ellátási költsége megyénként. | 1 | 31 500 |
+| 147. | 23602 | TVB választott és megbízott tagjainak választási ellátási költsége vármegyénként. | 1 | 31 500 |
 
 | 148. | 3. MUNKAADÓT TERHELŐ FIZETÉSI KÖTELEZETTSÉG |
 
-| 149. | 331 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség megyénél. |  |  |
+| 149. | 331 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség vármegyénél. |  |  |
 
 | 150. | 33101 | HVI vezetők díja utáni munkaadókat terhelő járulékok és szociális hozzájárulási adófizetési kötelezettség. |  |  |
 
@@ -318,7 +316,7 @@
 
 | 159. | 35105 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség NVI-nél. |  |  |
 
-2. melléklet a 22/2019. (VII. 31.) IM rendelethez
+2. melléklet a 22/2019. (VII. 31.) IM rendelethez[^5]
 
 Tételek és normatívák a helyi önkormányzati képviselők és polgármesterek, valamint a nemzetiségi önkormányzati képviselők megismételt általános választásán
 
@@ -502,25 +500,25 @@ Tételek és normatívák a helyi önkormányzati képviselők és polgármester
 
 | 90. | 31101 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség OEVI-nél. |  |  |
 
-| 91. | MEGYEI KIADÁSOK |
+| 91. | VÁRMEGYEI KIADÁSOK |
 
 | 92. | 1. DOLOGI KIADÁSOK |
 
 | 93. | 131 | TVI választás előkészítésével és folyamatos működésével összefüggő kiadásai. |  |  |
 
-| 94. | 13101 | TVI dologi kiadásai megyénként. | 1 | 50 000 |
+| 94. | 13101 | TVI dologi kiadásai vármegyénként. | 1 | 50 000 |
 
-| 95. | 13103 | Pénzügyi és logisztikai feladatok ellátása, megyénként. | 1 | 50 000 |
+| 95. | 13103 | Pénzügyi és logisztikai feladatok ellátása, vármegyénként. | 1 | 50 000 |
 
 | 96. | 133 | Étkezési ellátás költségei. |  |  |
 
 | 97. | 13301 | TVI ellátási költsége alapján fizetendő ÁFA. | 1 | 3 375 |
 
-| 98. | 13302 | TVB választási ellátás költsége alapján fizetendő ÁFA megyénként. | 1 | 2 125 |
+| 98. | 13302 | TVB választási ellátás költsége alapján fizetendő ÁFA vármegyénként. | 1 | 2 125 |
 
 | 99. | 134 | Szavazással, eredmény-megállapítással összefüggő kiadások |  |  |
 
-| 100. | 13401 | A TVI és TVB kiadásai megyénként. | 1 | 10 000 |
+| 100. | 13401 | A TVI és TVB kiadásai vármegyénként. | 1 | 10 000 |
 
 | 101. | 2. SZEMÉLYI JUTTATÁSOK |
 
@@ -554,14 +552,16 @@ Tételek és normatívák a helyi önkormányzati képviselők és polgármester
 
 | 116. | 23601 | TVB 3 választott tagjának díja. | 3 | 50 000 |
 
-| 117. | 23602 | TVB választott és megbízott tagjainak választási ellátási költsége megyénként. | 1 | 7 875 |
+| 117. | 23602 | TVB választott és megbízott tagjainak választási ellátási költsége vármegyénként. | 1 | 7 875 |
 
 | 118. | 3. MUNKAADÓT TERHELŐ FIZETÉSI KÖTELEZETTSÉG |
 
-| 119. | 331 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség megyénél. |  |  |
+| 119. | 331 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség vármegyénél. |  |  |
 
 | 120. | 33101 | HVI vezetők díja utáni munkaadókat terhelő járulékok és szociális hozzájárulási adófizetési kötelezettség. |  |  |
 
 | 121. | 33104 | TVI és TVB tag díja utáni munkaadókat terhelő járulékok és szociális hozzájárulási adófizetési kötelezettség. |  |  |
 
 | 122. | 33105 | TVI és TVB étkezési ellátás után fizetendő munkáltatót terhelő járulékok és szociális hozzájárulási adó. |  |  |
+
+[^5]: A 2. melléklet a 42/2022. (XII. 28.) IM rendelet 13. § 12-18. pontja szerint módosított szöveg.

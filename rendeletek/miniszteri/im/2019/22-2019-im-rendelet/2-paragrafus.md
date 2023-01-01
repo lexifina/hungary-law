@@ -12,7 +12,7 @@ a) a központi névjegyzék szavazást megelőző harmincharmadik napi,
 
 b) megismételt szavazás esetén a megismételtetett szavazáshoz összeállított szavazóköri névjegyzék szavazásnapi
 
-## adatai szerint kell megállapítani.
+adatai szerint kell megállapítani.
 
 (4) Megismételt szavazás esetén a 2. melléklet szerinti normatívákat a szavazásban érintett választási szervek részére, a megismételtetett szavazásban érintett szavazóköri, települési, területi adatok szerint kell biztosítani, szavazási naponként.
 
