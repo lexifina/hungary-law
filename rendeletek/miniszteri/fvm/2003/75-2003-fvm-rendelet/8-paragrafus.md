@@ -10,20 +10,20 @@ c)[^29] a minősítői számára biztosítja a minősítéshez jogszabályban el
 
 d) nyilvántartja a minősítőket, valamint tevékenységüket és rendszeresen ellenőrzi ezek feltételeit, továbbá biztosítja a dokumentált belső ellenőrzést és a minősítőkre vonatkozó felelősségvállalást;
 
-e)[^30] a Pest Megyei Kormányhivatalnak nyolc napon belül jelentést tesz a működésében, a minősítő tevékenységének személyi és a tárgyi feltételeiben történt változásról, valamint a vele szerződéses jogviszonyban álló vágóhídnak a működési engedélyben rögzített állapottól való eltéréséről;
+e)[^30] a Pest Vármegyei Kormányhivatalnak nyolc napon belül jelentést tesz a működésében, a minősítő tevékenységének személyi és a tárgyi feltételeiben történt változásról, valamint a vele szerződéses jogviszonyban álló vágóhídnak a működési engedélyben rögzített állapottól való eltéréséről;
 
 f) biztosítja a minősítők külön jogszabályokban meghatározott adatszolgáltatását;
 
 g) a minősítő engedélyének felfüggesztése vagy visszavonása esetén negyvennyolc órán belül átveszi a korábbi minősítésekre vonatkozó nyilvántartásokat, dokumentumokat, valamint a minősítő és hitelesítő bélyegzőket.
 
-(2)[^31] A minősítő szervezet az általa használt bélyegzőket köteles nyilvántartani és azokkal a Pest Megyei Kormányhivatalnak elszámolni. A használhatatlanná vált vagy a használaton kívüli bélyegzőket a minősítő szervezet köteles a Pest Megyei Kormányhivatalnak nyolc napon belül – a (3) bekezdés szerinti bejelentéssel egyidejűleg – jegyzőkönyv ellenében visszaszolgáltatni. A Pest Megyei Kormányhivatal a visszaadott bélyegzőket a beszolgáltató minősítő szervezet új minősítői részére díjmentesen visszaadja.
+(2)[^31] A minősítő szervezet az általa használt bélyegzőket köteles nyilvántartani és azokkal a Pest Vármegyei Kormányhivatalnak elszámolni. A használhatatlanná vált vagy a használaton kívüli bélyegzőket a minősítő szervezet köteles a Pest Vármegyei Kormányhivatalnak nyolc napon belül – a (3) bekezdés szerinti bejelentéssel egyidejűleg – jegyzőkönyv ellenében visszaszolgáltatni. A Pest Vármegyei Kormányhivatal a visszaadott bélyegzőket a beszolgáltató minősítő szervezet új minősítői részére díjmentesen visszaadja.
 
-(3)[^32] A minősítő szervezet a (2) bekezdésben megjelölt nyilvántartás alapján a bélyegzők használatáról az első használatbavétel alkalmával, valamint évente kötelezően tételes jelentést készít a Pest Megyei Kormányhivatal részére, ezenkívül a bélyegző használatában bekövetkezett változást és a bélyegző használhatatlanná válását nyolc napon belül bejelenti.
+(3)[^32] A minősítő szervezet a (2) bekezdésben megjelölt nyilvántartás alapján a bélyegzők használatáról az első használatbavétel alkalmával, valamint évente kötelezően tételes jelentést készít a Pest Vármegyei Kormányhivatal részére, ezenkívül a bélyegző használatában bekövetkezett változást és a bélyegző használhatatlanná válását nyolc napon belül bejelenti.
 
 [^26]: A 7. § a 177/2004. (XII. 30.) FVM rendelet 2. §-ával megállapított szöveg.
 [^27]: A 8. § (1) bekezdésének a) pontja a 132/2007. (XI. 8.) FVM rendelet 5. §-ával megállapított szöveg.
 [^28]: A 8. § (1) bekezdésének b) pontja a 132/2007. (XI. 8.) FVM rendelet 5. §-ával megállapított szöveg.
 [^29]: A 8. § (1) bekezdés c) pontja az 1/2019. (I. 15.) AM rendelet 14. §-ával megállapított szöveg.
-[^30]: A 8. § (1) bekezdés e) pontja a 132/2007. (XI. 8.) FVM rendelet 5. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 50. § (1) bekezdés j) pontja szerint módosított szöveg.
-[^31]: A 8. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 50. § (1) bekezdés d) és k) pontja szerint módosított szöveg.
-[^32]: A 8. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 50. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^30]: A 8. § (1) bekezdés e) pontja a 132/2007. (XI. 8.) FVM rendelet 5. §-ával megállapított, a 42/2017. (VIII. 17.) FM rendelet 50. § (1) bekezdés j) pontja, a 77/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^31]: A 8. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 50. § (1) bekezdés d) és k) pontja, a 77/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^32]: A 8. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 50. § (1) bekezdés e) pontja, a 77/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
