@@ -1,0 +1,1 @@
+4. § Hatályát veszti az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet szerint egyetemes szolgáltatás keretében vételezett villamos energia lakossági piaci árának meghatározásáról szóló 7/2022. (VII. 21.) MEKH rendelet.
