@@ -1,6 +1,6 @@
 ## 2. Mentesség
 
-4. §[^6] (1) PRRS-től mentes a sertés, ha
+4. §[^7] (1) PRRS-től mentes a sertés, ha
 
 a) az állatból a betegség vírusa vagy annak genomja nem mutatható ki,
 
@@ -50,8 +50,10 @@ c) a kislétszámú állományok 99%-a mentes.
 
 (8) PRRS-től mentes az a járás, amely megfelel a (6) bekezdésben foglalt feltételeknek.
 
-(9) PRRS-től mentes az a megye, amelynek területén valamennyi járás mentes.
+(9)[^8] PRRS-től mentes az a vármegye, amelynek területén valamennyi járás mentes.
 
-(10) PRRS-től mentes az a régió, amelynek területén valamennyi megye mentes.
+(10)[^9] PRRS-től mentes az a régió, amelynek területén valamennyi vármegye mentes.
 
-[^6]: A 4. § az 5/2020. (III. 20.) AM rendelet 7. §-ával megállapított szöveg.
+[^7]: A 4. § az 5/2020. (III. 20.) AM rendelet 7. §-ával megállapított szöveg.
+[^8]: A 4. § (9) bekezdése a 137/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^9]: A 4. § (10) bekezdése a 137/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.

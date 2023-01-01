@@ -4,7 +4,7 @@
 
 1. kislétszámú állomány: legfeljebb száz sertésből álló állomány;
 
-2. mentes terület: a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által a sertés reprodukciós zavarokkal és légzőszervi tünetekkel járó szindrómájától (a továbbiakban: PRRS) mentesnek minősített egy vagy több járás vagy megye területe;
+2.[^2] mentes terület: a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által a sertés reprodukciós zavarokkal és légzőszervi tünetekkel járó szindrómájától (a továbbiakban: PRRS) mentesnek minősített egy vagy több járás vagy vármegye területe;
 
 3. nagylétszámú állomány: több mint száz sertésből álló állomány;
 
@@ -25,3 +25,4 @@
 11. vakcinázott tenyészsertés: a jóváhagyott Nemzeti Mentesítési Terv szerint bármely engedélyezett vakcinával immunizált tenyészállat.
 
 [^1]: Az 1. § az 5/2020. (III. 20.) AM rendelet 5. §-ával megállapított szöveg.
+[^2]: Az 1. § 2. pontja a 137/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
