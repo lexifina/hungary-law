@@ -1,6 +1,18 @@
+| A | B | C |
+
+| Frekvenciatartomány | Állandósult érintési áram, AL(IC) [mA] (effektív érték) | Indukált végtagáram bármely végtagban, AL(IL) [mA] (effektív érték) |
+
+| 1. | 100 kHz ≤ f < 10 MHz | 40 | — |
+
+| 2. | 10 MHz ≤ f ≤ 110 MHz | 40 | 100 |
+
+## Megjegyzés a 2.5. táblázathoz:
+
+## Az [AL(IL)]2 értékét hatperces időtartamra kell átlagolni.
+
 4. melléklet a 33/2016. (XI. 29.) EMMI rendelethez
 
-## A kockázatértékelés jóváhagyásának kötelezettségével érintett tevékenységi körök
+A kockázatértékelés jóváhagyásának kötelezettségével érintett tevékenységi körök
 
 1. Villamoshálózatok üzemeltetése, 100 kV fölött, illetve 100 A nominális terhelés fölött
 

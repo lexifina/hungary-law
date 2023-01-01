@@ -2,7 +2,7 @@
 
 1. melléklet a 33/2016. (XI. 29.) EMMI rendelethez
 
-## AZ ELEKTROMÁGNESES TEREKNEK VALÓ EXPOZÍCIÓVAL KAPCSOLATOS FIZIKAI MENNYISÉGEK
+AZ ELEKTROMÁGNESES TEREKNEK VALÓ EXPOZÍCIÓVAL KAPCSOLATOS FIZIKAI MENNYISÉGEK
 
 A következő fizikai mennyiségek szolgálnak az elektromágneses tereknek való expozíció leírására:
 

@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-33-20-5
 | 2016-11-30 | 2016-33-20-5H.1 | 33/2016. (XI. 29.) EMMI rendelet |
 | 2017-04-01 | 2016-33-20-5H.2 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2018-11-01 | 2016-33-20-5H.3 | 38/2018. (X. 31.) EMMI rendelet |
+| 2023-01-01 | 2016-33-20-5H.4 | 54/2022. (XII. 27.) BM rendelet |

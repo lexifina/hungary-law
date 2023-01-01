@@ -206,13 +206,13 @@ A 6 GHz feletti frekvenciákra vonatkozó egészségügyi határértékek (2.3. 
 
 | 3. | a végtagokra vonatkozó helyi SAR-ként kifejezett expozíciós határértékek a végtagokban keletkező helyi termikus stresszhez kapcsolódóan | 20 Wkg–1 |
 
-Megjegyzés a 2.1. táblázathoz:
+## Megjegyzés a 2.1. táblázathoz:
 
-A helyi átlagos SAR értékeléséhez egy összefüggő testszövet 10 grammját kell figyelembe venni, az így kapott legnagyobb SAR-értéket kell alkalmazni az expozíció becslésére. E 10 g szövetnek nagyjából homogén elektromos tulajdonságú, összefüggő szövettömegnek kell lennie. Az összefüggő szövettömeg meghatározását illetően elismert, hogy az felhasználható a számítógépes dozimetriában, de nehézségeket okozhat a közvetlen fizikai mérésekben. E célra egyszerű geometriai forma – pl. kocka alakú szövettömeg – is használható.
+## A helyi átlagos SAR értékeléséhez egy összefüggő testszövet 10 grammját kell figyelembe venni, az így kapott legnagyobb SAR-értéket kell alkalmazni az expozíció becslésére. E 10 g szövetnek nagyjából homogén elektromos tulajdonságú, összefüggő szövettömegnek kell lennie. Az összefüggő szövettömeg meghatározását illetően elismert, hogy az felhasználható a számítógépes dozimetriában, de nehézségeket okozhat a közvetlen fizikai mérésekben. E célra egyszerű geometriai forma – pl. kocka alakú szövettömeg – is használható.
 
-Érzékelési határértékek a 0,3 GHz és 6 GHz közötti frekvenciatartományban
+## Érzékelési határértékek a 0,3 GHz és 6 GHz közötti frekvenciatartományban
 
-Ezek az érzékelési határértékek (2.2. táblázat) a fej impulzusos mikrohullámú sugárzásnak való expozíciója által a hallásra gyakorolt hatások elkerülésére vonatkoznak.
+## Ezek az érzékelési határértékek (2.2. táblázat) a fej impulzusos mikrohullámú sugárzásnak való expozíciója által a hallásra gyakorolt hatások elkerülésére vonatkoznak.
 
 2.2. táblázat: Érzékelési határértékek a 0,3 GHz és 6 GHz közötti elektromágneses terek expozíciója esetében
 
@@ -222,9 +222,9 @@ Ezek az érzékelési határértékek (2.2. táblázat) a fej impulzusos mikrohu
 
 | 1. | 0,3 ≤ f ≤ 6 GHz | 10 mJkg–1 |
 
-Megjegyzés a 2.2. táblázathoz:
+## Megjegyzés a 2.2. táblázathoz:
 
-A helyi fajlagos energiaelnyelés számításakor átlagosan 10 grammnyi testszövetet kell figyelembe venni.
+## A helyi fajlagos energiaelnyelés számításakor átlagosan 10 grammnyi testszövetet kell figyelembe venni.
 
 2.3. táblázat: Egészségügyi határértékek a 6 GHz és 300 GHz közötti elektromágneses terek expozíciója esetében
 
@@ -234,13 +234,13 @@ A helyi fajlagos energiaelnyelés számításakor átlagosan 10 grammnyi testsz�
 
 | 1. | 6 GHz ≤ f ≤ 300 GHz | 50 Wm–2 |
 
-Megjegyzés a 2.3. táblázathoz:
+## Megjegyzés a 2.3. táblázathoz:
 
-A teljesítménysűrűséget 20 cm2-es expozíciós területre kell átlagolni. Az 1 cm2-re átlagolt, térbeli teljesítménysűrűség maximuma nem lépheti túl az 50 Wm–2 érték húszszorosát. A 6 és 10 GHz közötti teljesítménysűrűséget bármely hatperces időtartamra kell átlagolni. 10 GHz felett a teljesítménysűrűséget bármely 68/f1,05 perces időtartamra kell átlagolni (ahol f a frekvencia, GHz-ben kifejezve), a frekvencia növekedésével fokozatosan csökkenő behatolási mélységek kompenzálása érdekében.
+## A teljesítménysűrűséget 20 cm2-es expozíciós területre kell átlagolni. Az 1 cm2-re átlagolt, térbeli teljesítménysűrűség maximuma nem lépheti túl az 50 Wm–2 érték húszszorosát. A 6 és 10 GHz közötti teljesítménysűrűséget bármely hatperces időtartamra kell átlagolni. 10 GHz felett a teljesítménysűrűséget bármely 68/f1,05 perces időtartamra kell átlagolni (ahol f a frekvencia, GHz-ben kifejezve), a frekvencia növekedésével fokozatosan csökkenő behatolási mélységek kompenzálása érdekében.
 
-Beavatkozási szintek (AL)
+## Beavatkozási szintek (AL)
 
-Az alábbi fizikai mennyiségek és értékek a beavatkozási szintek meghatározására szolgálnak, ezek nagyságát úgy állapították meg, hogy egy egyszerűsített értékeléssel biztosítva legyen a vonatkozó expozíciós határértékeknek való megfelelés, illetve elérésükkor életbe kell léptetni az 5. §-ban előírt védelmi vagy megelőző intézkedéseket:
+## Az alábbi fizikai mennyiségek és értékek a beavatkozási szintek meghatározására szolgálnak, ezek nagyságát úgy állapították meg, hogy egy egyszerűsített értékeléssel biztosítva legyen a vonatkozó expozíciós határértékeknek való megfelelés, illetve elérésükkor életbe kell léptetni az 5. §-ban előírt védelmi vagy megelőző intézkedéseket:
 
 a) az időben változó elektromos terek E térerősségére vonatkozó AL(E) értékek, a 2.4. táblázatban foglaltak szerint,
 
@@ -276,7 +276,7 @@ Az AL(E) és AL(B) értékeket a teljesítménysűrűségi értékek SAR érték
 
 | 6. | 6 ≤ f≤ 300 GHz | 1,4 × 102 | 4,5 × 10–1 | 50 |
 
-Megjegyzés a 2.4. táblázathoz:
+## Megjegyzés a 2.4. táblázathoz:
 
 a) f a frekvencia hertzben (Hz) kifejezett értéke
 
@@ -289,15 +289,3 @@ c) az AL(E) és AL(B) értékek a munkavállaló fizikai pozíciójára számít
 d) a teljesítménysűrűséget 20 cm2-es expozíciós területre kell átlagolni. Az 1 cm2-re átlagolt, térbeli teljesítménysűrűség maximuma nem lépheti túl az 50 Wm–2 érték húszszorosát. A 6 és 10 GHz közötti teljesítménysűrűséget bármely hatperces időtartamra kell átlagolni. 10 GHz felett a teljesítménysűrűséget bármely 68/f1,05 perces időtartamra kell átlagolni (ahol f a frekvencia, GHz-ben kifejezve), a frekvencia növekedésével fokozatosan csökkenő behatolási mélységek kompenzálása érdekében.
 
 2.5. táblázat: Beavatkozási szintek az állandósult érintési áramokra és indukált végtagáramokra vonatkozóan
-
-| A | B | C |
-
-| Frekvenciatartomány | Állandósult érintési áram, AL(IC) [mA] (effektív érték) | Indukált végtagáram bármely végtagban, AL(IL) [mA] (effektív érték) |
-
-| 1. | 100 kHz ≤ f < 10 MHz | 40 | — |
-
-| 2. | 10 MHz ≤ f ≤ 110 MHz | 40 | 100 |
-
-Megjegyzés a 2.5. táblázathoz:
-
-Az [AL(IL)]2 értékét hatperces időtartamra kell átlagolni.

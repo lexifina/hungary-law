@@ -30,4 +30,6 @@ b) az egészségügyi határértékeket (2. melléklet, 1.1. táblázat és 3. m
 
 c) az 5. § (7) bekezdésével összhangban intézkedést hoztak.
 
-(9) A munkáltató az 5. § (1) bekezdésében foglaltak sérelme nélkül az irányadó expozíciós határértékektől való eltérés engedélyezését kérheti a sugár-egészségügyi feladatkörében eljáró fővárosi és megyei kormányhivataltól (a továbbiakban: kormányhivatal), ha a rendelkezésre álló legkorszerűbb műszaki és szervezési intézkedések mindegyikét végrehajtotta, figyelembe vette a munkahely, a munkaeszközök, illetve a munka gyakorlati vonatkozásainak egyedi jellemzőit, és bizonyítja, hogy a munkavállalók védve vannak az egészségkárosító hatásokkal és biztonsági kockázatokkal szemben.
+(9)[^1] A munkáltató az 5. § (1) bekezdésében foglaltak sérelme nélkül az irányadó expozíciós határértékektől való eltérés engedélyezését kérheti a sugár-egészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivataltól (a továbbiakban: kormányhivatal), ha a rendelkezésre álló legkorszerűbb műszaki és szervezési intézkedések mindegyikét végrehajtotta, figyelembe vette a munkahely, a munkaeszközök, illetve a munka gyakorlati vonatkozásainak egyedi jellemzőit, és bizonyítja, hogy a munkavállalók védve vannak az egészségkárosító hatásokkal és biztonsági kockázatokkal szemben.
+
+[^1]: A 3. § (9) bekezdése az 54/2022. (XII. 27.) BM rendelet 6. §-a szerint módosított szöveg.
