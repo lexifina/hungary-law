@@ -2,7 +2,7 @@
 
 ## Kockázatbecslés és -meghatározás
 
-4. § (1)[^18] Minden olyan tevékenység esetében, amelynek során feltételezhető a munkavállaló rákkeltővel történő expozíciója, a munkáltató köteles kockázatbecslést végezni, így
+4. § (1)[^19] Minden olyan tevékenység esetében, amelynek során feltételezhető a munkavállaló rákkeltővel történő expozíciója, a munkáltató köteles kockázatbecslést végezni, így
 
 a) a veszélyt és a veszélyeztetetteket azonosítani,
 
@@ -24,22 +24,22 @@ c) a munkavállaló bőrébe vagy bőrén át a munkavállaló szervezetébe fel
 
 d) külön jogszabályban meghatározott anyagok esetében biológiai monitorozás elvégzéséről (a szervezetbe jutott rákkeltők mennyiségének, a dolgozó vegyi anyaggal történt terhelésének becsléséről),
 
-e)[^19]
+e)[^20]
 
 f) a tevékenység során az 5. § (8) bekezdésében meghatározott munkaidő szerinti foglalkoztatásról,
 
 g) a tevékenységhez minimálisan szükséges munkavállalói létszám meghatározásáról.
 
-(3)[^20] A munkáltató – amennyiben a fővárosi és megyei kormányhivatal mint munkavédelmi hatóság (a továbbiakban: munkavédelmi hatóság) indokolt esetben nem ír elő nagyobb gyakoriságot – a kockázatbecslést legalább kétévenként megismételteti. A honvédelemért felelős miniszter által vezetett minisztérium (a továbbiakban: HM) és a Magyar Honvédség (a továbbiakban: MH) alárendeltségébe tartozó katonai szervezeteknél az MH szakhatóságai – a munkavédelmi hatóság tájékoztatása mellett – jogosultak a kockázatbecslés elrendelésére.
+(3)[^21] A munkáltató – amennyiben a fővárosi és vármegyei kormányhivatal mint munkavédelmi hatóság (a továbbiakban: munkavédelmi hatóság) indokolt esetben nem ír elő nagyobb gyakoriságot – a kockázatbecslést legalább kétévenként megismételteti. A honvédelemért felelős miniszter által vezetett minisztérium (a továbbiakban: HM) és a Magyar Honvédség (a továbbiakban: MH) alárendeltségébe tartozó katonai szervezeteknél az MH szakhatóságai – a munkavédelmi hatóság tájékoztatása mellett – jogosultak a kockázatbecslés elrendelésére.
 
 (4) A kockázatbecslést meg kell ismételni minden olyan változás esetében, amely hatással lehet a munkavállalók rákkeltővel történő expozíciójára.
 
-(5)[^21] A kockázatbecslést, illetőleg a kockázatkezelésre vonatkozó intézkedéseket írásban kell dokumentálni. A HM és az MH vonatkozásában a szolgáltatott adatok titokvédelmét a munkavédelmi hatóság biztosítja, melyet az adatszolgáltató jogosult ellenőrizni. Ennek elmaradása esetén az adatszolgáltatást a titokvédelmi követelmények biztosításáig az adatszolgáltató felfüggesztheti.
+(5)[^22] A kockázatbecslést, illetőleg a kockázatkezelésre vonatkozó intézkedéseket írásban kell dokumentálni. A HM és az MH vonatkozásában a szolgáltatott adatok titokvédelmét a munkavédelmi hatóság biztosítja, melyet az adatszolgáltató jogosult ellenőrizni. Ennek elmaradása esetén az adatszolgáltatást a titokvédelmi követelmények biztosításáig az adatszolgáltató felfüggesztheti.
 
-(6)[^22] A munkavédelmi hatóság kérésére a munkáltató köteles a kockázat-becslés és a kockázatkezelés során birtokába jutott valamennyi adatot, információt átadni.
+(6)[^23] A munkavédelmi hatóság kérésére a munkáltató köteles a kockázat-becslés és a kockázatkezelés során birtokába jutott valamennyi adatot, információt átadni.
 
-[^18]: A 4. § (1) bekezdése a 6/2020. (II. 7.) ITM rendelet 3. §-ával megállapított szöveg.
-[^19]: A 4. § (2) bekezdés e) pontját a 6/2020. (II. 7.) ITM rendelet 10. § b) pontja hatályon kívül helyezte.
-[^20]: A 4. § (3) bekezdése a 9/2015. (III. 31.) NGM rendelet 18. §-ával megállapított, a 22/2020. (VI. 29.) ITM rendelet 11. §-a szerint módosított szöveg.
-[^21]: A 4. § (5) bekezdése a 9/2015. (III. 31.) NGM rendelet 19. § a) pontja szerint módosított szöveg.
-[^22]: A 4. § (6) bekezdése a 9/2015. (III. 31.) NGM rendelet 19. § a) pontja szerint módosított szöveg.
+[^19]: A 4. § (1) bekezdése a 6/2020. (II. 7.) ITM rendelet 3. §-ával megállapított szöveg.
+[^20]: A 4. § (2) bekezdés e) pontját a 6/2020. (II. 7.) ITM rendelet 10. § b) pontja hatályon kívül helyezte.
+[^21]: A 4. § (3) bekezdése a 9/2015. (III. 31.) NGM rendelet 18. §-ával megállapított, a 22/2020. (VI. 29.) ITM rendelet 11. §-a, a 28/2022. (XII. 30.) GFM rendelet 8. §-a szerint módosított szöveg.
+[^22]: A 4. § (5) bekezdése a 9/2015. (III. 31.) NGM rendelet 19. § a) pontja szerint módosított szöveg.
+[^23]: A 4. § (6) bekezdése a 9/2015. (III. 31.) NGM rendelet 19. § a) pontja szerint módosított szöveg.
