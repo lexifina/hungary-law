@@ -1,12 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetésének címrendjét 2019. május 2-ai fordulónappal az 1. melléklet szerint módosítja;
-
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: 2019. május 2.
+## 1.[^1]
 
 ## 2. felhívja az emberi erőforrások miniszterét, hogy gondoskodjon a Magyar Államkincstárnál
 
@@ -44,4 +36,7 @@
 
 ## Határidő: 2019. június 30.
 
-1. melléklet az 1213/2019. (IV. 18.) Korm. határozathoz
+1. melléklet az 1213/2019. (IV. 18.) Korm. határozathoz[^2]
+
+[^1]: Az 1. pont. a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
