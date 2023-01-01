@@ -36,9 +36,9 @@
 
 ## 2.4. a kérelmező aláíróhelye.
 
-7. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^274]
+7. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^279]
 
-## A családi pótlék folyósításáról történő lemondó nyilatkozat adattartalma
+A családi pótlék folyósításáról történő lemondó nyilatkozat adattartalma
 
 1. A családi pótlékban részesülőre vonatkozó adatok
 
@@ -100,4 +100,4 @@
 
 3.8. tanúk személyazonosságát igazoló okmány típusa, száma
 
-[^274]: A 7. számú mellékletet a 21/2004. (II. 13.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, újból hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 18. § (2) bekezdés c) pontja, újonnan a 417/2015. (XII. 23.) Korm. rendelet 21. § (1) bekezdése iktatta be.
+[^279]: A 7. számú mellékletet a 21/2004. (II. 13.) Korm. rendelet 9. §-a hatályon kívül helyezte, újonnan a 340/2008. (XII. 30.) Korm. rendelet 9. § (1) bekezdése iktatta be, újból hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 18. § (2) bekezdés c) pontja, újonnan a 417/2015. (XII. 23.) Korm. rendelet 21. § (1) bekezdése iktatta be.

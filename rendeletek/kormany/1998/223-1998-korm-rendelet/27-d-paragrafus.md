@@ -1,3 +1,3 @@
-## 27/C. §[^235]
+27/D. §[^240]
 
-[^235]: A 27/C. §-t a 211/1999. (XII. 26.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 394/2007. (XII. 27.) Korm. rendelet 19. § (1) bekezdése a) pontjának af) alpontja.
+[^240]: A 27/D. §-t a 211/1999. (XII. 26.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének n) pontja.

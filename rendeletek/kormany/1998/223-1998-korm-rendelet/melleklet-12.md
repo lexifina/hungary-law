@@ -2,52 +2,52 @@
 
 ## A családtámogatási ellátásokkal kapcsolatos, az 1/B. § (2) bekezdés b) pont ba) alpontja szerinti eljárás lefolytatására
 
-## a) a Győr-Moson-Sopron Megyei Kormányhivatal az illetékes, ha az ügyfél lakcíme, ennek hiányában utolsó magyarországi lakcíme
+## a) a Győr-Moson-Sopron Vármegyei Kormányhivatal az illetékes, ha az ügyfél lakcíme, ennek hiányában utolsó magyarországi lakcíme
 
 ## aa) Budapest Főváros,
 
-## ab) Győr-Moson-Sopron megye,
+## ab) Győr-Moson-Sopron vármegye,
 
-## ac) Komárom-Esztergom megye, vagy
+## ac) Komárom-Esztergom vármegye, vagy
 
-## ad) Pest megye;
+## ad) Pest vármegye;
 
-## b) a Vas Megyei Kormányhivatal az illetékes, ha az ügyfél lakcíme, ennek hiányában utolsó magyarországi lakcíme
+## b) a Vas Vármegyei Kormányhivatal az illetékes, ha az ügyfél lakcíme, ennek hiányában utolsó magyarországi lakcíme
 
-## ba) Baranya megye,
+## ba) Baranya vármegye,
 
-## bb) Bács-Kiskun megye,
+## bb) Bács-Kiskun vármegye,
 
-## bc) Borsod-Abaúj-Zemplén megye,
+## bc) Borsod-Abaúj-Zemplén vármegye,
 
-## bd) Békés megye,
+## bd) Békés vármegye,
 
-## be) Csongrád-Csanád megye,
+## be) Csongrád-Csanád vármegye,
 
-## bf) Hajdú-Bihar megye,
+## bf) Hajdú-Bihar vármegye,
 
-## bg) Heves megye,
+## bg) Heves vármegye,
 
 ## bh) Fejér megye,
 
-## bi) Jász-Nagykun-Szolnok megye,
+## bi) Jász-Nagykun-Szolnok vármegye,
 
-## bj) Nógrád megye,
+## bj) Nógrád vármegye,
 
-## bk) Somogy megye,
+## bk) Somogy vármegye,
 
-## bl) Szabolcs-Szatmár-Bereg megye,
+## bl) Szabolcs-Szatmár-Bereg vármegye,
 
-## bm) Tolna megye,
+## bm) Tolna vármegye,
 
-## bn) Vas megye,
+## bn) Vas vármegye,
 
-## bo) Veszprém megye, vagy
+## bo) Veszprém vármegye, vagy
 
-## bp) Zala megye
+## bp) Zala vármegye
 
 ## közigazgatási területén van.
 
-12. melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^279]
+12. melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^284]
 
-[^279]: A 12. mellékletet a 449/2016. (XII. 19.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^284]: A 12. mellékletet a 449/2016. (XII. 19.) Korm. rendelet 14. § (2) bekezdése iktatta be.

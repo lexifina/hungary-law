@@ -1,6 +1,6 @@
-8. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^275]
+8. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^280]
 
-## A szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletek hatálya alá tartozó személyek családtámogatási ellátásra való jogosultságának megállapításához szükséges formanyomtatvány adattartalma
+A szociális biztonsági rendszerek koordinációjáról szóló közösségi rendeletek hatálya alá tartozó személyek családtámogatási ellátásra való jogosultságának megállapításához szükséges formanyomtatvány adattartalma
 
 1. A kérelmezővel kapcsolatos adatok:
 
@@ -48,4 +48,4 @@
 
 3.5.2 életvitelszerű tartózkodási helye.
 
-[^275]: A 8. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 17. § e) pontjával megállapított szöveg.
+[^280]: A 8. számú mellékletet a 340/2008. (XII. 30.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 17. § e) pontjával megállapított szöveg.
