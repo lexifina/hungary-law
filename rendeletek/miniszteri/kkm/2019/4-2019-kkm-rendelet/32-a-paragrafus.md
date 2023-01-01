@@ -1,4 +1,4 @@
-32/A. §[^40] (1) Az uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás (a 32/A–32/C. § alkalmazásában a továbbiakban: támogatás) akkor nyújtható, ha a beruházás
+32/A. §[^33] (1) Az uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás (a 32/A–32/C. § alkalmazásában a továbbiakban: támogatás) akkor nyújtható, ha a beruházás
 
 a) az uniós szabvány túlteljesítése révén lehetővé teszi a kedvezményezett számára a tevékenységéből eredő környezetvédelmi szint emelését, függetlenül az alkalmazandó uniós szabványoknál szigorúbb, kötelező nemzeti szabványok meglététől,
 
@@ -10,4 +10,4 @@ d) meglévő közúti, vasúti, belvízi vagy tengeri jármű felújítására i
 
 (2) Az (1) bekezdés a) és b) pontja szerinti támogatás nem nyújtható már elfogadott, de még hatályba nem lépett uniós szabványnak való megfelelés érdekében megvalósított beruházáshoz.
 
-[^40]: A 32/A. §-t a 26/2022. (XII. 23.) KKM rendelet 9. §-a iktatta be.
+[^33]: A 32/A. §-t a 26/2022. (XII. 23.) KKM rendelet 9. §-a iktatta be.

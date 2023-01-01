@@ -1,4 +1,4 @@
-12. § (1)[^32] Mezőgazdasági termékek feldolgozásával és a mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás, valamint elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás, valamint a 651/2014/EU bizottsági rendelet szerinti támogatás – a 651/2014/EU bizottsági rendelet 22., 32. és 53. cikke szerinti támogatás kivételével – csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében vagy a 702/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
+12. § (1)[^25] Mezőgazdasági termékek feldolgozásával és a mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás, valamint elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás, valamint a 651/2014/EU bizottsági rendelet szerinti támogatás – a 651/2014/EU bizottsági rendelet 22., 32. és 53. cikke szerinti támogatás kivételével – csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében vagy a 702/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
 
 (2) Regionális beruházási támogatás esetén a projekt megkezdésének napja
 
@@ -22,4 +22,4 @@ azzal, hogy nem tekintendő a beruházás megkezdésének a földterület megvá
 
 (4) Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi regionális beruházási támogatást, ha a támogatás összege meghaladja egy 100 millió euró elszámolható költségű beruházás esetében a 16. §-ban meghatározott mechanizmusnak megfelelően kiszámított összeget.
 
-[^32]: A 12. § (1) bekezdése a 26/2022. (XII. 23.) KKM rendelet 7. §-ával megállapított szöveg.
+[^25]: A 12. § (1) bekezdése a 26/2022. (XII. 23.) KKM rendelet 7. §-ával megállapított szöveg.

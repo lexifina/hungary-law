@@ -1,4 +1,4 @@
-32/H. §[^47] (1) Az energetikai célú infrastruktúrához nyújtott beruházási támogatás (e § alkalmazásában a továbbiakban: támogatás) az Atr. 25. § (1) bekezdése szerinti támogatott területeken energetikai célú infrastruktúra létrehozásához, korszerűsítéséhez és bővítéséhez nyújtható.
+32/H. §[^40] (1) Az energetikai célú infrastruktúrához nyújtott beruházási támogatás (e § alkalmazásában a továbbiakban: támogatás) az Atr. 25. § (1) bekezdése szerinti támogatott területeken energetikai célú infrastruktúra létrehozásához, korszerűsítéséhez és bővítéséhez nyújtható.
 
 (2) A támogatás összege nem haladhatja meg az elszámolható költségek és a támogatott infrastruktúra működési eredménye közötti különbséget.
 
@@ -16,4 +16,4 @@ kell levonni az elszámolható költségekből.
 
 (6) Nem nyújtható támogatás villamosenergia- és gáztározó projektekhez, valamint kőolaj-infrastruktúrához kapcsolódó beruházáshoz.
 
-[^47]: A 32/H. §-t a 26/2022. (XII. 23.) KKM rendelet 9. §-a iktatta be.
+[^40]: A 32/H. §-t a 26/2022. (XII. 23.) KKM rendelet 9. §-a iktatta be.

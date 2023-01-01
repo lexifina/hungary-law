@@ -1,4 +1,4 @@
-10/A. §[^25] (1) A közszolgáltatásért járó ellentételezés (e § alkalmazásában a továbbiakban: támogatás) kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett részére nyújtható.
+10/A. §[^18] (1) A közszolgáltatásért járó ellentételezés (e § alkalmazásában a továbbiakban: támogatás) kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett részére nyújtható.
 
 (2) A támogatás csak olyan mértékben korlátoztathatja a versenyt, amely mindenképpen szükséges a feladat hatékony ellátásához.
 
@@ -10,4 +10,4 @@
 
 (6) A 2012/21/EU bizottsági határozat alapján támogatás kizárólag a támogatható tevékenység tekintetében megbízási aktussal rendelkező kedvezményezett részére nyújtható.
 
-[^25]: A 10/A. §-t a 26/2022. (XII. 23.) KKM rendelet 6. §-a iktatta be.
+[^18]: A 10/A. §-t a 26/2022. (XII. 23.) KKM rendelet 6. §-a iktatta be.

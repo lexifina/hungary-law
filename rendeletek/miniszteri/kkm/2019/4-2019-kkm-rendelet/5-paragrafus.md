@@ -1,4 +1,4 @@
-5. § (1)[^15] Nem ítélhető meg e rendelet alapján
+5. § (1)[^8] Nem ítélhető meg e rendelet alapján
 
 a) a 651/2014/EU bizottsági rendelet vagy a 702/2014/EU bizottsági rendelet szerinti támogatás azon szervezet részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező, Magyarországnak címzett határozatának nem tett eleget,
 
@@ -8,9 +8,9 @@ c) a 651/2014/EU bizottsági rendelet szerinti támogatás az Atr. 6. § (4a)–
 
 (2) Nem ítélhető meg e rendelet alapján
 
-a)[^16] a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez csekély összegű támogatás, mezőgazdasági csekély összegű támogatás, közszolgáltatásért járó ellentételezés, mezőgazdasági termékek feldolgozásával és mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás, valamint elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás, valamint a 651/2014/EU bizottsági rendelet 14., 18., 19., 29., 36., 37., 38., 41., 45., 48., 49., 53., 55., 56. cikke szerinti támogatás,
+a)[^9] a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez csekély összegű támogatás, mezőgazdasági csekély összegű támogatás, közszolgáltatásért járó ellentételezés, mezőgazdasági termékek feldolgozásával és mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás, valamint elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás, valamint a 651/2014/EU bizottsági rendelet 14., 18., 19., 29., 36., 37., 38., 41., 45., 48., 49., 53., 55., 56. cikke szerinti támogatás,
 
-b)[^17] elsődleges mezőgazdasági termeléshez csekély összegű támogatás, mezőgazdasági termékek feldolgozásával és mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás, csekély összegű támogatás, csekély összegű közszolgáltatási támogatás, közszolgáltatásért járó ellentételezés, valamint a 651/2014/EU bizottsági rendelet 14., 19., 22., 41., 53., 55., 56. cikke szerinti támogatás,
+b)[^10] elsődleges mezőgazdasági termeléshez csekély összegű támogatás, mezőgazdasági termékek feldolgozásával és mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás, csekély összegű támogatás, csekély összegű közszolgáltatási támogatás, közszolgáltatásért járó ellentételezés, valamint a 651/2014/EU bizottsági rendelet 14., 19., 22., 41., 53., 55., 56. cikke szerinti támogatás,
 
 c) a 651/2014/EU bizottsági rendelet, a 702/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet és az 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatás mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny vállalkozás részére, ha
 
@@ -32,12 +32,12 @@ i) az erdészeti ágazat számára mezőgazdasági termékek feldolgozásával �
 
 j) nagyvállalkozásnak mezőgazdasági termékek feldolgozásával és mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás, valamint elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás,
 
-k)[^18] a 651/2014/EU bizottsági rendelet és a 702/2014/EU bizottsági rendelet szerinti támogatás a 651/2014/EU bizottsági rendelet 4. cikkében vagy a 702/2014/EU bizottsági rendelet 4. cikkében rögzített bejelentési határértéket meghaladó mértékben.
+k)[^11] a 651/2014/EU bizottsági rendelet és a 702/2014/EU bizottsági rendelet szerinti támogatás a 651/2014/EU bizottsági rendelet 4. cikkében vagy a 702/2014/EU bizottsági rendelet 4. cikkében rögzített bejelentési határértéket meghaladó mértékben.
 
-(3)[^19] Nem minősül exporttámogatásnak az olyan támogatás, amellyel a kereskedelmi vásárokon való részvétel költségeihez vagy olyan tanulmányok vagy tanácsadói szolgáltatások költségeihez járulnak hozzá, amelyek valamely új vagy már meglévő terméknek egy új piacra történő bevezetéséhez szükségesek.
+(3)[^12] Nem minősül exporttámogatásnak az olyan támogatás, amellyel a kereskedelmi vásárokon való részvétel költségeihez vagy olyan tanulmányok vagy tanácsadói szolgáltatások költségeihez járulnak hozzá, amelyek valamely új vagy már meglévő terméknek egy új piacra történő bevezetéséhez szükségesek.
 
-[^15]: Az 5. § (1) bekezdése a 14/2020. (IX. 16.) KKM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^16]: Az 5. § (2) bekezdés a) pontja a 26/2022. (XII. 23.) KKM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^17]: Az 5. § (2) bekezdés b) pontja a 26/2022. (XII. 23.) KKM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^18]: Az 5. § (2) bekezdés k) pontját a 14/2020. (IX. 16.) KKM rendelet 2. § (3) bekezdése iktatta be.
-[^19]: Az 5. § (3) bekezdését a 26/2022. (XII. 23.) KKM rendelet 3. § (2) bekezdése iktatta be.
+[^8]: Az 5. § (1) bekezdése a 14/2020. (IX. 16.) KKM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (2) bekezdés a) pontja a 26/2022. (XII. 23.) KKM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (2) bekezdés b) pontja a 26/2022. (XII. 23.) KKM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (2) bekezdés k) pontját a 14/2020. (IX. 16.) KKM rendelet 2. § (3) bekezdése iktatta be.
+[^12]: Az 5. § (3) bekezdését a 26/2022. (XII. 23.) KKM rendelet 3. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-36/A. §[^49] (1) A kutatási infrastruktúrához nyújtott beruházási támogatás (e § alkalmazásában a továbbiakban: támogatás) keretében az immateriális javak és a tárgyi eszközök költsége számolható el.
+36/A. §[^42] (1) A kutatási infrastruktúrához nyújtott beruházási támogatás (e § alkalmazásában a továbbiakban: támogatás) keretében az immateriális javak és a tárgyi eszközök költsége számolható el.
 
 (2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
 
@@ -10,4 +10,4 @@
 
 (6) A támogatási intenzitás túllépésének elkerülése érdekében ellenőrzési és visszakövetelési mechanizmust kell alkalmazni.
 
-[^49]: A 36/A. §-t a 26/2022. (XII. 23.) KKM rendelet 10. §-a iktatta be.
+[^42]: A 36/A. §-t a 26/2022. (XII. 23.) KKM rendelet 10. §-a iktatta be.

@@ -1,4 +1,4 @@
-32/F. §[^45] (1) A 32/E. § (4) bekezdésétől eltérően az elszámolható költség a nagyobb energiahatékonyság eléréséhez szükséges teljes beruházási költség, ha a beruházás
+32/F. §[^38] (1) A 32/E. § (4) bekezdésétől eltérően az elszámolható költség a nagyobb energiahatékonyság eléréséhez szükséges teljes beruházási költség, ha a beruházás
 
 a) lakóépületekben,
 
@@ -20,4 +20,4 @@ b) az épületet használók elektromos gépjárműveinek feltöltésére szolg�
 
 c) az épület digitalizációját – elsősorban az épület okosfunkció-fogadási alkalmasságának növelését – célzó beruházások költségeivel, így különösen adathálózatok esetén, az épületen vagy az épülethez tartozó telken belül a passzív hálózat vagy a strukturált kábelezés költségeivel.
 
-[^45]: A 32/F. §-t a 26/2022. (XII. 23.) KKM rendelet 9. §-a iktatta be.
+[^38]: A 32/F. §-t a 26/2022. (XII. 23.) KKM rendelet 9. §-a iktatta be.
