@@ -1,3 +1,1 @@
-3. §[^1]
-
-[^1]: A 3. § a 10. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+3. § A miniszter az 1. § (1) és (2) bekezdése és a 2. § szerinti közfeladatot a Nemzeti Kommunikációs Hivatal (a továbbiakban: Hivatal) útján látja el. A Hivatal ezen feladatellátása során költségvetési támogatások nyújtására jogosult.

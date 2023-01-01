@@ -30,4 +30,6 @@ d) a magyar közönséget vonzó online és helyszíni jelenlét megteremtését
 
 e) a hazai kulturális, gasztronómiai hagyományok és értékek hangsúlyozását és innovatív módon történő bemutatását.
 
-(3) Az NRÜ Zrt. a 6. § szerinti – a Hivatal 3. § (1) bekezdése szerinti közfeladat ellátásával összefüggő – szakmai feladatait e rendelet, az állami sport célú támogatások felhasználásáról és elosztásáról szóló 474/2016. (XII. 27.) Korm. rendelet 474/2016. (XII. 27.) Korm. rendelet, a Nemzeti Kommunikációs Hivatal jogállásáról és a kormányzati kommunikációs beszerzésekről szóló 162/2020. (IV. 30.) Korm. rendelet (a továbbiakban: NKOH rendelet), a sportról szóló 2004. évi I. törvény (a továbbiakban: Stv.), valamint az államháztartás működésére vonatkozó jogszabályok előírásai szerint látja el.
+(3)[^3] Az NRÜ Zrt. a 6. § szerinti – a Hivatal 3. § (1) bekezdése szerinti közfeladat ellátásával összefüggő – szakmai feladatait e rendelet, a 474/2016. (XII. 27.) Korm. rendelet 474/2016. (XII. 27.) Korm. rendelet, a Nemzeti Kommunikációs Hivatal jogállásáról és a kormányzati kommunikációs beszerzésekről szóló 162/2020. (IV. 30.) Korm. rendelet (a továbbiakban: NKOH rendelet), a sportról szóló 2004. évi I. törvény (a továbbiakban: Stv.), valamint az államháztartás működésére vonatkozó jogszabályok előírásai szerint látja el.
+
+[^3]: Az 5. § (3) bekezdése a 11. § (3) bekezdése szerint módosított szöveg.

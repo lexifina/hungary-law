@@ -1,3 +1,1 @@
-9. §[^6]
-
-[^6]: A 9. § a 10. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+9. § Az NRÜ Zrt. az érintett sportszövetség delegáltjainak sportszakmai közreműködésével látja el a kiemelt sportesemény megrendezéséhez szükséges létesítmények rendelkezésre állásának – ideértve különösen a pályázat benyújtása előtt annak – biztosítását, hogy a létesítmény a kiemelt sportesemény tervezett időpontjában szabadon rendelkezésre álljon.
