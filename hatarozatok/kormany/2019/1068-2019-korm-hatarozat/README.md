@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1068-30
 | --- | --- | --- |
 | 2019-02-27 | 2019-1068-30-22.1 | 1068/2019. (II. 27.) Korm. határozat |
 | 2019-02-28 | 2019-1068-30-22.2 | 2010: CXXX. törvény |
+| 2023-01-01 | 2019-1068-30-22.3 | 2011: CXCV. törvény |
