@@ -24,7 +24,7 @@
 
 2. számú melléklet a 19/2002. (III. 8.) FVM rendelethez
 
-## A mentesítés lehetséges módjai
+A mentesítés lehetséges módjai
 
 1. Szelekciós mentesítés:
 
