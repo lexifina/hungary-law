@@ -2,7 +2,7 @@
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | NETI Informatikai Tanácsadó Korlátolt Felelősségű Társaság | 01-09-264449 | 2026. december 31. |
+| 1. | Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-142172 | 2026. december 31. |
 
 3. melléklet az 1/2022. (V. 26.) GFM rendelethez[^5]
 
@@ -64,6 +64,10 @@ IV. Tulajdonosi joggyakorló: Nemzeti Sportügynökség Nonprofit Zártkörűen 
 
 | 1. | N.S. Média és Vagyonkezelő Korlátolt Felelősségű Társaság | 01-09-404379 | 2026. december 31. |
 
+| 2. | Diósgyőri Stadionrekonstrukciós Korlátolt Felelősségű Társaság | 05-09-026953 | 2026. december 31. |
+
+| 3. | Haladás Sportkomplexum Fejlesztő Nonprofit Korlátolt Felelősségű Társaság | 18-09-112060 | 2026. december 31. |
+
 V. Tulajdonosi joggyakorló: N7 Holding Nemzeti Védelmi Ipari Innovációs Zártkörűen Működő Részvénytársaság
 
 |  | A | B | C |
@@ -74,4 +78,4 @@ V. Tulajdonosi joggyakorló: N7 Holding Nemzeti Védelmi Ipari Innovációs Zár
 
 VI. Tulajdonosi joggyakorló: Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság
 
-[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése, a 14/2022. (XI. 21.) GFM rendelet 1. § c) pontja és 2. §-a, a 18/2022. (XII. 20.) GFM rendelet 3. §-a szerint módosított szöveg.
+[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése, a 14/2022. (XI. 21.) GFM rendelet 1. § c) pontja és 2. §-a, a 18/2022. (XII. 20.) GFM rendelet 3. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a szerint módosított szöveg.

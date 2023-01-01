@@ -102,13 +102,7 @@ IX. Tulajdonosi joggyakorló: Országos Vízügyi Főigazgatóság
 
 | 2. | VIZITERV Environ Környezetvédelmi és Vízügyi Tervező, Tanácsadó és Szolgáltató Korlátolt Felelősségű Társaság | 15-09-070444 | 2026. december 31. |
 
-X. Tulajdonosi joggyakorló: Nemzeti Sportközpontok
-
-|  | A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
-
-| 1. | Haladás Sportkomplexum Fejlesztő Nonprofit Korlátolt Felelősségű Társaság | 18-09-112060 | 2026. december 31. |
+X.
 
 XI. Tulajdonosi joggyakorló: Szabadtéri Néprajzi Múzeum
 
@@ -118,7 +112,7 @@ XI. Tulajdonosi joggyakorló: Szabadtéri Néprajzi Múzeum
 
 | 1. | Skanzenért Nonprofit Korlátolt Felelősségű Társaság | 13-09-189484 | 2026. december 31. |
 
-XII. Tulajdonosi joggyakorló: Somogy Megyei Kormányhivatal
+XII. Tulajdonosi joggyakorló: Somogy Vármegyei Kormányhivatal
 
 |  | A | B | C |
 
@@ -188,4 +182,12 @@ XVIII. Tulajdonosi joggyakorló: Magyar Nemzeti Múzeum
 
 XIX. Tulajdonosi joggyakorló: Nemzetbiztonsági Szakszolgálat
 
-[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a, a 17/2022. (XII. 13.) GFM rendelet 1. §-a szerint módosított szöveg.
+|  | A | B | C |
+
+|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
+
+| 1. | NETI Informatikai Tanácsadó Korlátolt Felelősségű Társaság | 01-09-264449 | 2026. december 31. |
+
+XX. Tulajdonosi joggyakorló: Nemzeti Kommunikációs Hivatal
+
+[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a, a 17/2022. (XII. 13.) GFM rendelet 1. §-a, a 21/2022. (XII. 27.) GFM rendelet 1. §-a, a 22/2022. (XII. 27.) GFM rendelet 1. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a szerint módosított szöveg.
