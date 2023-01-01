@@ -1,4 +1,4 @@
-28. § (1) A Szellemi Tulajdon Nemzeti Hivatala mintaoltalmi ügyekben folyó eljárásában megfelelően alkalmazni kell a szabadalmi törvénynek a Szellemi Tulajdon Nemzeti Hivatala előtti eljárásra vonatkozó általános szabályait, ideértve a szabadalmi lajstromra, valamint a hatósági tájékoztatásra vonatkozó szabályokat is, az alábbi eltérésekkel:
+28. § (1) A Szellemi Tulajdon Nemzeti Hivatala mintaoltalmi ügyekben folyó eljárásában alkalmazni kell a szabadalmi törvénynek a Szellemi Tulajdon Nemzeti Hivatala előtti eljárásra vonatkozó általános szabályait, ideértve a bejelentési nyilvántartásra, a szabadalmi lajstromra, valamint a hatósági tájékoztatásra vonatkozó szabályokat is, az alábbi eltérésekkel:
 
 a) a Szellemi Tulajdon Nemzeti Hivatala által kitűzött határidő legalább egy, de legfeljebb három hónapos lehet;
 

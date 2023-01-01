@@ -12,4 +12,4 @@ e) a minta egységes-e;
 
 f) az elsőbbséget szabályszerűen igényelték-e a mintára és a bejelentőt megilleti-e az igényelt elsőbbség;
 
-g) a bejelentést új tartalom bevitelével nem változtatták-e meg úgy, hogy a tárgya bővebb lett annál, mint amit a bejelentés napján benyújtott bejelentésben feltártak.
+g) a bejelentést nem változtatták-e meg úgy, hogy a tárgya bővebb lett annál, mint amit a bejelentés napján benyújtott bejelentésben feltártak.

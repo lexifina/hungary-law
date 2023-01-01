@@ -6,7 +6,7 @@
 
 (3) A bejelentést csak a felhívásban határozottan megjelölt és kellően kifejtett okok alapján lehet elutasítani.
 
-(4) Ha a bejelentő a felhívásra a kitűzött határidőben nem válaszol, illetve a bejelentést nem osztja meg, a mintaoltalmi bejelentést visszavontnak kell tekinteni.
+(4) Ha a bejelentő a felhívásra a kitűzött határidőben nem válaszol, a mintaoltalmi bejelentést visszavontnak kell tekinteni.
 
 (5) Ha a minta és a mintaoltalmi bejelentés megfelel a vizsgálat körébe tartozó valamennyi követelménynek, a Szellemi Tulajdon Nemzeti Hivatala a bejelentés tárgyára mintaoltalmat ad.
 
