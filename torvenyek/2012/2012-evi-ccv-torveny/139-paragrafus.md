@@ -2,7 +2,7 @@
 
 139. § (1) A miniszter „Hősi halottá” nyilváníthatja az állomány elhunyt tagját, ha az életét a szolgálati kötelezettség teljesítése során, vagy azzal összefüggésben feláldozza.
 
-(2) A miniszter, és a Magyar Honvédség parancsnoka az állomány elhunyt tagját a „Magyar Honvédség halottjává” nyilváníthatja szolgálati viszonyának fennállása alatt a honvédelem érdekében kifejtett kimagasló érdemeire figyelemmel.
+(2) A miniszter, és a Honvéd Vezérkar főnöke az állomány elhunyt tagját a „Magyar Honvédség halottjává” nyilváníthatja szolgálati viszonyának fennállása alatt a honvédelem érdekében kifejtett kimagasló érdemeire figyelemmel.
 
 (3) A munkáltatói jogkört gyakorló az állomány azon elhunyt tagját, akit az (1) vagy a (2) bekezdés alapján nem minősítettek, a „Katonai szolgálat halottjává” nyilváníthatja.
 

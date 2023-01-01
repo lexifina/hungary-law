@@ -14,6 +14,6 @@ b) szellemi tevékenység, valamint közérdekű önkéntes tevékenység végz�
 
 (6) Az (5) bekezdés szerinti összeférhetetlenség alól a munkáltatói jogkört gyakorló felmentést adhat.
 
-(7) A honvédelmi egészségügyi szolgáltató vezetője, a honvédelmi egészségügyi szolgáltató szervezeti egység vezetője és a felügyeleti helyettes az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet kizárólag a védelem-egészségügy körében, továbbá a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezhet.
+(7) A honvédelmi egészségügyi szolgáltató vezetője az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet kizárólag a védelem-egészségügy körében, továbbá a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezhet.
 
 (8) Ha az Eszjtv. és felhatalmazása alapján kiadott jogszabály az Eszjtv. 4. §-a szerinti összeférhetetlenségi rendelkezéseit feloldó vagy enyhítő szabályt állapít meg, úgy azt az egészségügyi munkakörű katonára is alkalmazni kell.

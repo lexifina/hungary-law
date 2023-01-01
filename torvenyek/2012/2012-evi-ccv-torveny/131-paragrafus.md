@@ -14,7 +14,7 @@ e) a katonai fogdán végrehajtani rendelt szabadságvesztés büntetés
 
 időtartama alatt.
 
-(2) A munkáltatói jogkört gyakorló az (1) bekezdésben meghatározott esetekben az illetmény 50%-ot meghaladó mértékű, de legfeljebb az öregségi nyugdíj jogszabályban meghatározott mindenkori legkisebb összegét (a továbbiakban: nyugdíjminimum) meghaladó részének visszatartásáról is dönthet, ha
+(2) A munkáltatói jogkört gyakorló az (1) bekezdésben meghatározott esetekben az illetmény 50%-ot meghaladó mértékű, de legfeljebb a szociális vetítési alap összegét meghaladó részének visszatartásáról is dönthet, ha
 
 a) az állomány tagjának letartóztatását, olyan bűnügyi felügyeletét, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el vagy előzetes kényszergyógykezelését a bíróság meghosszabbítja,
 
@@ -24,7 +24,7 @@ c) az állomány tagja vezető beosztást tölt be, vagy
 
 d) az állomány tagjának az illetmény visszatartását megalapozó magatartása ismétlődő jellegű vagy a szolgálati beosztásával közvetlenül összefügg.
 
-(3) Az (1) és a (2) bekezdéstől eltérően az illetménynek a nyugdíjminimum összegét meghaladó részét kell visszatartani
+(3) Az (1) és a (2) bekezdéstől eltérően az illetménynek a szociális vetítési alap összegét meghaladó részét kell visszatartani
 
 a) a szolgálatra méltatlanság megállapítását megalapozó határozat kézbesítésétől,
 

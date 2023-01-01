@@ -4,17 +4,17 @@
 
 237/J. § (1) E fejezet alkalmazásában
 
-a) egészségügyi munkakörű katona: a honvédelmi egészségügyi szolgáltatónál vagy a KNBSZ-nél szolgálatot teljesítő, az 1. § (1) bekezdése hatálya alá tartozó, az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 4. § a) pontja szerinti egészségügyi dolgozó és az Eütev. 4. § c) pontja szerinti rezidens,
+a) egészségügyi munkakörű katona: az Eütv. 155. § (19) bekezdés b) pontja szerinti honvédelmi egészségügyi szolgáltatónál (a továbbiakban: honvédelmi egészségügyi szolgáltató) vagy a KNBSZ-nél szolgálatot teljesítő, az 1. § (1) bekezdése hatálya alá tartozó, az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény (a továbbiakban: Eütev.) 4. § a) pontja szerinti egészségügyi dolgozó és az Eütev. 4. § c) pontja szerinti rezidens,
 
-b) egészségügyi tevékenység: az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 3. § y) pontjában meghatározott tevékenység,
+b) egészségügyi tevékenység: az Eütv. 3. § y) pontjában meghatározott tevékenység,
 
 c) magasabb vezető:
 
-ca) a honvédelmi egészségügyi szolgáltató vezetője, a honvédelmi egészségügyi szolgáltató alapító okiratában meghatározott, közfinanszírozott területi ellátási kötelezettséggel rendelkező szervezeti egység (a továbbiakban: honvédelmi egészségügyi szolgáltató szervezeti egység) vezetője, valamint
+ca) a honvédelmi egészségügyi szolgáltató vezetője, valamint
 
-cb) a honvédelmi egészségügyi szolgáltató vezetőjének a helyettese és gazdasági helyettese, a honvédelmi egészségügyi szolgáltató gazdasági igazgatója, a honvédelmi egészségügyi szolgáltató szervezeti egység vezetőjének a Hvt. 16. § (3) bekezdése szerinti helyettese (a továbbiakban: a felügyeleti helyettes), a honvédelmi egészségügyi szolgáltató szervezeti egység orvosigazgatója (szakmai főigazgató-helyettese), ápolási igazgatója,
+cb) a honvédelmi egészségügyi szolgáltató vezetőjének a helyettese és gazdasági helyettese,
 
-d) vezető: a c) pontban foglaltakat ide nem értve a honvédelmi egészségügyi szolgáltató szervezeti elemének vezetője és annak helyettese, valamint a főgyógyszerész.
+d) vezető: a c) pontban foglaltakat kivéve a honvédelmi egészségügyi szolgáltató szervezeti elemének vezetője és annak helyettese.
 
 (2) Az egészségügyi munkakörű katona tekintetében e törvényt az e fejezetben foglalt eltérésekkel, megfelelően kell alkalmazni.
 

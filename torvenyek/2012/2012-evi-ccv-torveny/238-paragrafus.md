@@ -116,6 +116,8 @@ h) a XXI/B. Fejezet szerinti különös szabályok alkalmazásának bevezetésé
 
 46. a honvéd tisztjelölt alapilletményének évfolyamonkénti eltérő mértékét, a tanulmányi díjának mértékét, az illetménypótlék összegét és az egyéb juttatások körét.
 
+47. a KNBSZ hivatásos állománya – 194/A. § (1) bekezdése szerinti – szolgálati igazolványának, valamint jelvényének rendszeresítésével és kiadásának rendjével összefüggő szabályokat.
+
 (3) Felhatalmazást kap a miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg
 
 a) azon fertőző betegségek körét, amelyek esetén kötelező védőoltás elrendelésének van helye a megbetegedési veszély miatt, a szolgálati beosztáshoz, illetve a szolgálati feladatokhoz kapcsolódóan, és

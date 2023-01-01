@@ -14,6 +14,6 @@ c) szolgálati viszonya a kötelezően szolgálati viszonyban töltendő idő le
 
 (4) A megtérítési kötelezettség érvényesítésének eljárási szabályait, ideértve a halasztás engedélyezését, a megtérítési kötelezettség alóli mentesítés, és a fizetési könnyítés feltételeit miniszteri rendelet határozza meg.
 
-(4a) A Magyar Honvédség parancsnoka a honvédelmi szervezetnek az állomány tagjával szemben fennálló, tanulmányi támogatásra vonatkozó megtérítési kötelezettségből származó követelését a kötelezett kérelmére, részben vagy egészben elengedheti, ha a kötelezett igazolja, hogy a tanulmányi támogatás visszafizetése családi, vagyoni, jövedelmi vagy szociális körülményeire figyelemmel aránytalanul súlyos megterhelést jelentene.
+(4a) A Honvéd Vezérkar főnöke a honvédelmi szervezetnek az állomány tagjával szemben fennálló, tanulmányi támogatásra vonatkozó megtérítési kötelezettségből származó követelését a kötelezett kérelmére, részben vagy egészben elengedheti, ha a kötelezett igazolja, hogy a tanulmányi támogatás visszafizetése családi, vagyoni, jövedelmi vagy szociális körülményeire figyelemmel aránytalanul súlyos megterhelést jelentene.
 
 (5) A tiszti állomány továbbképzését – ha jogszabály eltérően nem rendelkezik – az NKE biztosítja.

@@ -10,6 +10,12 @@ c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összev
 
 2. altiszti állomány tagja: az a katona, aki az 1. melléklet szerinti altiszti vagy zászlósi (a továbbiakban együtt: altiszti) rendfokozatot visel,
 
+2a. apa: a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerint szülői felügyelettel rendelkező
+
+a) apai jogállású férfi, vagy
+
+b) örökbefogadó férfi,
+
 3. azonos beosztás: az a státusz, amely
 
 a) általános előmeneteli rendben azonos rendfokozattal rendszeresített,
@@ -18,7 +24,7 @@ b) speciális előmeneteli rendben azonos elérhető rendfokozatú,
 
 c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összevetése alapján azonosnak minősül,
 
-4. átszervezés: az Országgyűlés, a Kormány, a honvédelemért felelős miniszter (a továbbiakban: miniszter), valamint a Magyar Honvédség parancsnokának a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 65. § (1) bekezdése szerinti döntése alapján a névváltoztatás kivételével minden olyan változás, amelynek következtében egyes szolgálati beosztások létesülnek, módosulnak vagy megszűnnek,
+4. átszervezés: az Országgyűlés, a Kormány, a honvédelemért felelős miniszter (a továbbiakban: miniszter), valamint a Honvéd Vezérkar főnökének a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 65. § (1) bekezdése szerinti döntése alapján a névváltoztatás kivételével minden olyan változás, amelynek következtében egyes szolgálati beosztások létesülnek, módosulnak vagy megszűnnek,
 
 5. előkészítő vagy befejező tevékenység: minden olyan feladat ellátása, amelyet az állomány tagja szolgálati beosztásához kapcsolódóan, szokás szerint és rendszeresen, külön utasítás nélkül köteles elvégezni,
 
@@ -26,7 +32,7 @@ c) az előmeneteli rendek közötti váltás esetén az a) és b) pontok összev
 
 7. fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra,
 
-8. gyermek: a családok támogatására vonatkozó szabályok szerinti saját háztartásban nevelt vagy gondozott gyermek,
+8. gyermek: a családok támogatásáról szóló törvény szerinti saját háztartásban nevelt vagy gondozott gyermek, ideértve, ha a különélő szülők a közös szülői felügyelet gyakorlásakor a gyermeket saját háztartásukban egymást felváltva, azonos időtartamban nevelik, gondozzák,
 
 9. gyermekét egyedül nevelő: az állomány azon tagja, aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált, házastársától külön él, vagy nincs élettársa,
 

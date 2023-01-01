@@ -6,4 +6,6 @@
 
 (2a) A 4/A. § (2) bekezdés b) és c) pontja esetén a (2) bekezdés szerinti járandóságok megállapítására – ha jogszabály eltérően nem rendelkezik – a központi személyügyi szerv vezetője jogosult.
 
+(2b) Az állomány szülői szabadságra, vagy apasági szabadságra jogosult tagja részére a (2) bekezdésben meghatározott időpontban igazolást kell kiadni a kiadott szülői szabadság, vagy apasági szabadság tartamáról, ebben fel kell tüntetni a korábbi munkáltató által kiadott szülői szabadság, vagy apasági szabadság tartamát is.
+
 (3) A szolgálati viszony megszűnésekor, megszüntetésekor miniszteri rendeletben meghatározott esetekben és feltételekkel az állomány tagja megtérítési kötelezettséggel tartozik, és elhelyezkedésének elősegítése érdekében szakmai át-, vagy továbbképzési támogatásban részesíthető.

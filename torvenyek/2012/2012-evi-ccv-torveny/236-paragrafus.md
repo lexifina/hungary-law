@@ -12,11 +12,11 @@ c) őr-, ügyeleti, készenléti és futárszolgálatot, katonai rendészeti szo
 
 d) kijelölés alapján alegység-parancsnoki feladatokat ellátni,
 
-e) megelőző védelmi helyzetben és rendkívüli állapot idején egyéb katonai feladat ellátására,
+e)
 
 f) közreműködni a honvédelmi nevelés programjának megvalósításában,
 
-g) a Magyar Honvédség parancsnoka által elrendelt feladatokat ellátni,
+g) a Honvéd Vezérkar főnöke által elrendelt feladatokat ellátni,
 
 h) a minősített adat védelmére vonatkozó szabályokat betartani, és
 

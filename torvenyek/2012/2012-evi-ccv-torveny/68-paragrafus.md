@@ -6,7 +6,7 @@ a) a szolgálat felső korhatárának elérésekor azzal, hogy a katonai bíró 
 
 b) a jogszabályban előírt képzési kötelezettség önhibából történő nem teljesítése esetén,
 
-c) országgyűlési képviselővé, európai parlamenti képviselővé, főpolgármesterré, főpolgármester-helyettessé, megyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, társadalmi megbízatású polgármesterré, alpolgármesterré, helyi önkormányzati képviselővé és nemzetiségi önkormányzati képviselővé történt megválasztásakor,
+c) országgyűlési képviselővé, európai parlamenti képviselővé, főpolgármesterré, főpolgármester-helyettessé, vármegyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, társadalmi megbízatású polgármesterré, alpolgármesterré, helyi önkormányzati képviselővé és nemzetiségi önkormányzati képviselővé történt megválasztásakor,
 
 d) – az 58/A. §-ban foglaltak kivételével – politikai szolgálati jogviszonyba történő kinevezésével,
 

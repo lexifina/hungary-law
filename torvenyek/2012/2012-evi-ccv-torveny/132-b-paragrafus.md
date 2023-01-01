@@ -1,3 +1,3 @@
 ## 75/B. Egyes felsővezetői juttatások
 
-132/B. § A Magyar Honvédség parancsnoka közigazgatási államtitkári, a Magyar Honvédség parancsnokának helyettese helyettes államtitkári vezetői juttatásokra jogosult.
+132/B. § A Honvéd Vezérkar főnöke közigazgatási államtitkári, a Honvéd Vezérkar főnökének helyettese helyettes államtitkári vezetői juttatásokra jogosult.
