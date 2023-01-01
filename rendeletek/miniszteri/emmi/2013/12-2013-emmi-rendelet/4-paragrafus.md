@@ -6,7 +6,7 @@ a) akkreditáció és
 
 b) külföldön kiállított nyelvvizsga-bizonyítványok honosítása
 
-## kapcsán a 2. mellékletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+kapcsán a 2. mellékletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
 (2) A nyelvvizsga rendelet szerinti akkreditáció megújítására irányuló eljárásért a 3. mellékletben meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj megállapítása a kérelem benyújtását megelőző két évben a vizsgaközpont által szervezett vizsgák száma alapján történik.
 

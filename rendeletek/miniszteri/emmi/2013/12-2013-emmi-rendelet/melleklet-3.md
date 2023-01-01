@@ -1,5 +1,3 @@
-## Az államilag elismert nyelvvizsgarendszer működésével kapcsolatos közigazgatási hatósági eljárásokhoz kapcsolódó igazgatási szolgáltatási díjak
-
 |  | A | B |
 
 | 1 | Az eljárás megnevezése | A fizetendő igazgatási szolgáltatási díj mértéke |
@@ -16,6 +14,6 @@
 
 | 7 | Igazolás nyilvántartásban szereplő adatról | 3 000 Ft |
 
-3. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^20]
+3. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^19]
 
-[^20]: A 3. mellékletet a 10/2014. (II. 24.) EMMI rendelet 3. §-a iktatta be.
+[^19]: A 3. mellékletet a 10/2014. (II. 24.) EMMI rendelet 3. §-a iktatta be.

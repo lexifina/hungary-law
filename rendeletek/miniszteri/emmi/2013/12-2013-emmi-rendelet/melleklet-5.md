@@ -14,7 +14,7 @@
 
 | 7. | Szakértői eljárás díja | 25 000 Ft | 25 000 Ft |
 
-5. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^22]
+5. melléklet a 12/2013. (II. 12.) EMMI rendelethez[^21]
 
 |  | A | B | C |
 
@@ -44,7 +44,7 @@
 
 | 13. | Budapesti Építész Kamara | Forint pénzforgalmi számla | Kereskedelmi és Hitelbank Zrt., 10200902-32712786-00000000 |
 
-| 14. | Budapesti és Pest Megyei Mérnöki Kamara | Forint pénzforgalmi számla | Budapest Bank Zrt., 10102086-68836102-00000000 |
+| 14. | Budapesti és Pest Vármegyei Mérnöki Kamara | Forint pénzforgalmi számla | Budapest Bank Zrt., 10102086-68836102-00000000 |
 
 | 15. | Budapesti Gazdasági Egyetem | Forint pénzforgalmi számla | OTP Bank Nyrt., 11784009-22236775-00000000 |
 
@@ -140,7 +140,7 @@
 
 | 61. | Pécsi Tudományegyetem | Forint pénzforgalmi számla | OTP Bank Nyrt., 11731001-23135378-00000000 |
 
-| 62. | Pest Megyei Kormányhivatal | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10023002-00299671-00000000 |
+| 62. | Pest Vármegyei Kormányhivatal | Előirányzat-felhasználási keretszámla | Magyar Államkincstár, 10023002-00299671-00000000 |
 
 | 63. | Pünkösdi Teológiai Főiskola | Forint pénzforgalmi számla | Kereskedelmi és Hitelbank Zrt., 10401921-00026624-00000002 |
 
@@ -180,4 +180,4 @@
 
 | 81. | Tokaj-Hegyalja Egyetem | Forint pénzforgalmi számla | Takarékbank Zrt., 50463684-10008078-00000000 |
 
-[^22]: Az 5. mellékletet az 5/2017. (IV. 20.) EMMI rendelet 3. §-a iktatta be, szövege a 3/2018. (I. 23.) EMMI rendelet 5. § (3) bekezdésével megállapított, a 39/2019. (X. 22.) ITM rendelet 1. §-a, az 1/2022. (IX. 1.) KIM rendelet 9. és 11. §-a szerint módosított szöveg.
+[^21]: Az 5. mellékletet az 5/2017. (IV. 20.) EMMI rendelet 3. §-a iktatta be, szövege a 3/2018. (I. 23.) EMMI rendelet 5. § (3) bekezdésével megállapított, a 39/2019. (X. 22.) ITM rendelet 1. §-a, az 1/2022. (IX. 1.) KIM rendelet 9. és 11. §-a, a 9/2022. (XII. 28.) KIM rendelet 1. §-a szerint módosított szöveg.
