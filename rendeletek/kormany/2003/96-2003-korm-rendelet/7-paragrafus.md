@@ -14,7 +14,7 @@ c) ha az a) pont szerinti fekvőbeteg-szakellátást nyújtó, valamint fekvő- 
 
 d) ha a fekvőbeteg-szakellátást nyújtó, valamint fekvő- és járóbeteg-szakellátást – a diagnosztikai szolgáltatást is ideértve – egyidejűleg nyújtó közreműködő és személyes közreműködő egészségügyi szolgáltató emellett önálló járóbeteg-szakellátást is nyújt, az önálló járóbeteg-szakellátás tekintetében a járási hivatal
 
-## jogosult.
+jogosult.
 
 (3)[^34] Ha az egészségügyi szolgáltató nem rendelkezik telephellyel, a működési engedélyt – (2) bekezdés b) pontja szerinti hatáskörében eljárva – az egészségügyi szolgáltató székhelye szerint illetékes járási hivatal adja ki.
 

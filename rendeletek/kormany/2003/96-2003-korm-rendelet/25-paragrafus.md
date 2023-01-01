@@ -12,7 +12,7 @@
 
 (6)[^171] Az egyes egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 107/2012. (VI. 1.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 15/A. §-t a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény 7. § (2) bekezdése alapján indult és a Módr2. 3. §-ának a hatálybalépésekor[^172] folyamatban lévő eljárásokkal kapcsolatban is alkalmazni kell.
 
-(7)[^173] A (3) bekezdéstől eltérően a hajléktalanok ellátását biztosító, valamint a rendvédelmi szervek és a Nemzeti Adó- és Vámhivatal egészségügyi szolgáltatói, a vasutas igényjogosultakat ellátó egészségügyi szolgáltatók által, továbbá az orvostudományi egyetemeken az orvosképzés keretében nyújtott, területi ellátási kötelezettség nélküli háziorvosi ellátás nyújtására működési engedély adható.
+(7)[^173] A (3) bekezdéstől eltérően a hajléktalanok ellátását biztosító, valamint a rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal és a Magyar Honvédség egészségügyi szolgáltatói, a vasutas igényjogosultakat ellátó egészségügyi szolgáltatók által, továbbá az orvostudományi egyetemeken az orvosképzés keretében nyújtott, területi ellátási kötelezettség nélküli háziorvosi ellátás nyújtására működési engedély adható.
 
 (8)[^174] A (7) bekezdés szerinti rendelkezést a 2012. július 1-jén folyamatban lévő eljárások esetén is alkalmazni kell.
 
@@ -25,7 +25,7 @@
 [^170]: A 25. § (5) bekezdését a 13/2012. (II. 14.) Korm. rendelet 20. §-a iktatta be.
 [^171]: A 25. § (6) bekezdését a 107/2012. (VI. 1.) Korm. rendelet 4. §-a iktatta be.
 [^172]: A hatálybalépés időpontja 2012. június 1.
-[^173]: A 25. § (7) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 30. §-a iktatta be, szövege a 366/2012. (XII. 17.) Korm. rendelet 35. §-a, a 364/2014. (XII. 30.) Korm. rendelet 57. § g) pontja, a 204/2016. (VII. 21.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^173]: A 25. § (7) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 30. §-a iktatta be, szövege a 366/2012. (XII. 17.) Korm. rendelet 35. §-a, a 364/2014. (XII. 30.) Korm. rendelet 57. § g) pontja, a 204/2016. (VII. 21.) Korm. rendelet 4. §-a, az 570/2022. (XII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^174]: A 25. § (8) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 30. §-a iktatta be.
 [^175]: A 25. § (9) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 30. §-a iktatta be.
 [^176]: A 25. § (10) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 32. §-a iktatta be, szövege a 162/2018. (IX. 10.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.

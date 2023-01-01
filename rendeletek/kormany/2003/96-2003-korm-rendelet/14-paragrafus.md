@@ -32,7 +32,7 @@ e) a gépjármű aktív vagy tartalék jellege,
 
 f) betegszállító jármű esetén az egyszerre szállítható beteg személyek száma és a rögzített ülések száma,
 
-## azzal, hogy ha a változás érinti az alkalmazott mentőegység típusát, illetve az alkalmazott betegszállító jármű típusát, akkor az (1) bekezdésben foglaltak szerint kell eljárni.
+azzal, hogy ha a változás érinti az alkalmazott mentőegység típusát, illetve az alkalmazott betegszállító jármű típusát, akkor az (1) bekezdésben foglaltak szerint kell eljárni.
 
 (3b)[^112] Az egészségügyi szolgáltató által a (3a) bekezdés alapján bejelentett változás hatósági nyilvántartásba vételéről a működési engedélyt kiadó egészségügyi államigazgatási szerv 8 napon belül tájékoztatja a bejelentőt és a Nemzeti Egészségbiztosítási Alapkezelőt. Az egészségügyi szolgáltató által a (3a) bekezdés alapján bejelentett új mentőjármű, illetve betegszállító jármű szakmai minimumfeltételeknek való megfelelőségét a működési engedélyt kiadó egészségügyi államigazgatási szerv a nyilvántartásba vételt követő 60 napon belül ellenőrzi.
 
