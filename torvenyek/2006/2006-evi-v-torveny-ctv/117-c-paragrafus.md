@@ -11,3 +11,5 @@ c) a kényszertörlési eljárás megszüntetésére előírt illetékét megfiz
 d) érvényes adószámmal rendelkezik.
 
 (3) Ha a kényszertörlési eljárásra a 116. § (1) bekezdés a) pontjában meghatározott okból került sor, a cégbíróság a cég továbbműködése feltételeinek fennállására tekintettel a megszűntnek nyilvánítással kapcsolatosan a cégjegyzékbe bejegyzett adatokat is törli.
+
+(4) A kényszertörlési eljárás megszüntetése iránti kérelmet visszautasító, valamint elutasító végzéssel szemben fellebbezésnek van helye.

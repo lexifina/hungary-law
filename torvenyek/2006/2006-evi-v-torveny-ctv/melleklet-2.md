@@ -146,7 +146,13 @@
 
 ## 10. végrehajtói iroda esetén a Magyar Bírósági Végrehajtói Kar alapítási, a cégbejegyzést követően az alapító okiratának, illetve cégadatának módosítási engedélye;
 
-## 11. közjegyzői iroda esetén a területi kamara elnökségének alapítási engedélye.
+## 11. közjegyzői iroda esetén
+
+## a) a területi kamara elnökségének alapítási engedélye, kivéve, ha az alapítási engedélyt megadottnak kell tekinteni, utóbbi esetben a tagok erről szóló, legalább teljes bizonyító erejű magánokiratba foglalt nyilatkozata;
+
+## b) a helyettes irodavezető bejegyzése esetén a területi kamara elnökségének a helyettes irodavezető kijelöléséről szóló határozata;
+
+## c) a helyettes irodavezető törlése esetén a területi kamara elnökségének a helyettes irodavezetői megbízásnak a megszüntetéséről és a közjegyzői iroda képviseletére jogosult személy kijelöléséről szóló határozata.
 
 ## III. Átalakulás bejegyzéséhez szükséges további okiratok:
 
@@ -184,7 +190,7 @@
 
 ## fc) a határokon átnyúló műveletben részt vevő társaság vezető tisztségviselőjének nyilatkozata, több részt vevő társaság esetén a vezető tisztségviselők közös nyilatkozata arról, hogy a munkavállalóknak a jogutód társaság döntéshozatali rendjébe történő bevonásának szabályairól – az európai részvénytársaságról szóló törvényben meghatározott határidőn belül – a különleges tárgyaló testülettel megállapodás nem jött létre.
 
-## 9. a határokon átnyúló egyesülés útján magyarországi székhellyel létrejövő társaság bejegyzéséhez
+## 9. a határokon átnyúló művelet útján magyarországi székhellyel létrejövő társaság bejegyzéséhez
 
 ## a) az I. és II. pontban, valamint a 2. számú mellékletben meghatározott okiratok,
 

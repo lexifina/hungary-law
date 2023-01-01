@@ -124,6 +124,10 @@ b) az önálló bírósági végrehajtó tag (tagok) szavazati jogának terjedel
 
 (12) Közjegyzői iroda esetében
 
-a) tagok nevét, lakóhelyét, a közjegyző tag esetében a hivatali helyiségének (irodájának) címét is,
+a) a tagok nevét, lakóhelyét, a közjegyző tag esetében a hivatali helyiségének (irodájának) címét is,
 
-b) a közjegyző tag (tagok) szavazati jogának terjedelmét.
+b) a közjegyző tag (tagok) szavazati jogának terjedelmét, valamint
+
+c) a helyettes irodavezető nevét, lakóhelyét, születési idejét, anyja születési nevét, valamint e tisztségét, e jogviszonya keletkezésének időpontját, továbbá azt a tényt, ha a helyettes irodavezető közjegyzői aláírás-hitelesítéssel ellátott címpéldánya vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett aláírás-mintája benyújtásra került.
+
+(13) A helyettes irodavezető bejegyzése iránti változásbejegyzési kérelemnek – a területi kamara elnökségének határozata alapján – a cégjegyzékbe bejegyzett irodavezető törlésére irányuló kérelmet is tartalmaznia kell. A helyettes irodavezető cégjegyzékből való törlésére irányuló változásbejegyzési kérelemnek tartalmaznia kell – a területi kamara elnökségének határozata alapján – a közjegyzői iroda képviseletére a továbbiakban jogosult személy cégjegyzékbe bejegyzendő adatait is.

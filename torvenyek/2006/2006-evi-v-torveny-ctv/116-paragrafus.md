@@ -32,6 +32,8 @@ A kényszertörlési eljárás megindítását elrendelő végzés ellen fellebb
 
 (9) Ha e törvény eltérően nem rendelkezik, a cégbíróság általános intézkedési kötelezettségének határideje tizenöt munkanap.
 
+(10) Ha e fejezet rendelkezése szerint a cégbíróság által hozott végzéssel szemben fellebbezésnek van helye, a másodfokú bíróság a fellebbezést 30 munkanapon belül bírálja el.
+
 2. CÍM
 
 A KÉNYSZERTÖRLÉS LEFOLYTATÁSA, CÉGBÍRÓSÁG ÁLTAL LEFOLYTATOTT VAGYONFELMÉRÉS

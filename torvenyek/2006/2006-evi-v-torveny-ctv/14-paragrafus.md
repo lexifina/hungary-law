@@ -4,6 +4,8 @@
 
 (3)
 
-(4)–(5)
+(4)
+
+(5)
 
 (6) Az eltiltott személyekre vonatkozó adatok ingyenes céginformációként – külön jogszabályban meghatározott módon – keresőprogram segítségével, csoportosított lekérdezés útján ismerhetőek meg.

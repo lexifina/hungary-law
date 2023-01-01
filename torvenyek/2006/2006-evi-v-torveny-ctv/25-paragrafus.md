@@ -44,7 +44,9 @@ u) ha a cég tagja (tulajdonosa) a Magyar Állam, az állam tulajdonosi jogait g
 
 v) azt a tényt, ha a cég tagja, képviseletére jogosult személy eltiltás hatálya alatt áll; az eltiltás kezdetét és végét,
 
-z) azt a tényt, hogy a cég tagja e jogállását bizalmi vagyonkezelőként szerezte meg.
+z) azt a tényt, hogy a cég tagja e jogállását bizalmi vagyonkezelőként szerezte meg,
+
+zs) a cég Európai Unió más tagállamában bejegyzett fióktelepe esetén a fióktelep nevét, további megnevezés esetén e megnevezéseit, székhelyét, nyilvántartásba vételének napját, ha ilyen adattal rendelkezik, működése megkezdésének napját.
 
 (1a) A cégbíróság hivatalból jegyzi be az EUID-val rendelkező cég cégjegyzékébe a cég Európai Unió más tagállamában bejegyzett fióktelepét, ha a tagállami cégnyilvántartások összekapcsolására szolgáló rendszeren keresztül értesítést kap a fióktelep bejegyzéséről.
 

@@ -6,4 +6,6 @@
 
 (4) Ha a cégiratban a jogszabályban előírt, illetve a cégjegyzék adattartalmát meghaladó személyes adat kerül feltüntetésre, a cégiratot szerkesztő jogi képviselő köteles felhívni a természetes személy figyelmét arra, hogy a személyes adatának az okiratban való feltüntetéséhez való hozzájárulása egyben azzal is jár, hogy az a cégiratok nyilvánosságának elve alapján bárki számára megismerhetővé válik.
 
-(5)–(6)
+(5)
+
+(6)

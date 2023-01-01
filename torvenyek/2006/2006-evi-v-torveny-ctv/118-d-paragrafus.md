@@ -12,7 +12,7 @@
 
 (7) A perfelvétel során további írásbeli perfelvétel elrendelésének nincs helye, és a tárgyalási időköz nyolc nap. A tárgyalás kitűzésére vonatkozó határidő egy hónap.
 
-(8) A követelés jogosultja a pert azon eltiltott vezető tisztségviselővel, illetve taggal szemben indíthatja meg, akivel szemben a cégbíróság a 117/F. § (2) bekezdése szerinti jogkövetkezményt is alkalmazta.
+(8) A követelés jogosultja a pert azon eltiltott személlyel szemben indíthatja meg, akivel szemben a cégbíróság a 117/F. § (2) bekezdése szerinti jogkövetkezményt is alkalmazta.
 
 (9) Ha több jogosult terjeszt elő az (1) bekezdés szerinti marasztalási keresetet, a bíróság a pereket egyesíti.
 
