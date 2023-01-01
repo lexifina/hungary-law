@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-280-20-
 | 2016-09-30 | 2016-280-20-22.2 | 2010: CXXX. törvény |
 | 2019-06-01 | 2016-280-20-22.3 | 80/2019. (IV. 15.) Korm. rendelet |
 | 2020-09-01 | 2016-280-20-22.4 | 401/2020. (VIII. 17.) Korm. rendelet |
+| 2023-01-01 | 2016-280-20-22.5 | 616/2022. (XII. 29.) Korm. rendelet |

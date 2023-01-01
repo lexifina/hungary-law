@@ -1,6 +1,6 @@
 2. melléklet a 280/2016. (IX. 21.) Korm. rendelethez
 
-## Alapvető felhasználóként történő kijelölés során figyelembe veendő létesítmények
+Alapvető felhasználóként történő kijelölés során figyelembe veendő létesítmények
 
 1. A Vet. szerinti hálózati engedélyes rendszerirányítást, üzemirányítást, illetve üzemzavar elhárítást végző létesítménye.
 
@@ -10,7 +10,7 @@
 
 4. Kiemelt jelentőségű honvédelmi létesítmény.
 
-5. A BM OKF, a megyei (fővárosi) katasztrófavédelmi irányító központ, és a megyei (fővárosi) védelmi bizottság működési helye.
+5.[^8] A BM OKF, a vármegyei (fővárosi) katasztrófavédelmi irányító központ, és a vármegyei (fővárosi) védelmi bizottság működési helye.
 
 6. A katasztrófavédelmi és rendvédelmi szervek különleges jogrend időszaki üzemanyag igényét biztosító, illetve a nemzeti stratégiai tartalékot kezelő társaság üzemanyag töltőállomásai közül, katasztrófavédelmi kirendeltségenként egy töltőállomás.
 
@@ -23,3 +23,5 @@
 10. Mélyművelésű bánya és radioaktív hulladéktároló.
 
 11. Kényszeráramú szennyvízszállítást és szennyvíztisztítást biztosító létesítmény, valamint árvíz és belvízvédekezés idején belvízmentesítést szolgáló szivattyútelepe.
+
+[^8]: A 2. melléklet 5. pontja a 616/2022. (XII. 29.) Korm. rendelet 237. § a) pontja szerint módosított szöveg.
