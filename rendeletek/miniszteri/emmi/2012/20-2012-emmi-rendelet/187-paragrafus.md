@@ -7,5 +7,3 @@ aa) a közös igazgatású köznevelési intézmény és az általános művelő
 ab) az igazgatótanács létrehozásának és működésének szabályait,
 
 ac) ha működik, a vezetői és szakértői testületek létrehozásának, működésének szabályait, jogkörét,
-
-b) az intézményegység munkáját az intézményegység vezetője irányítja, intézményegység-vezetői megbízást a közös igazgatású köznevelési intézmény és az általános művelődési központ igazgatója is kaphat.

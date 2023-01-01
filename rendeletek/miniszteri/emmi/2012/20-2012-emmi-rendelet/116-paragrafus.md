@@ -1,3 +1,5 @@
-116. §[^299] Az iskola az elveszett, megsemmisült üres bizonyítványnyomtatvány, tanúsítvány érvénytelenségéről szóló közlemény közzétételét kezdeményezi a miniszter által vezetett minisztérium hivatalos lapjában, megjelölve az adott bizonyítványnyomtatvány egyedi azonosításához szükséges adatokat és az érvénytelenség időpontját.
+116. §[^299] (1) Az iskola az elveszett, megsemmisült üres bizonyítványnyomtatvány, tanúsítvány érvénytelenségéről szóló közlemény közzétételét kezdeményezi a miniszter által vezetett minisztérium honlapján, megjelölve az adott bizonyítványnyomtatvány egyedi azonosításához szükséges adatokat és az érvénytelenség időpontját.
 
-[^299]: A 116. § az 52/2022. (XII. 27.) BM rendelet 24. § a) pontja szerint módosított szöveg.
+(2) Az (1) bekezdés szerint közzétett közleményt a miniszter minősített elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja.
+
+[^299]: A 116. § a 44/2022. (XII. 19.) BM rendelet 2. §-ával megállapított szöveg.

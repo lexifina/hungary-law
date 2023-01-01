@@ -38,15 +38,15 @@ a) az intézményben dolgozó óvoda- vagy iskolapszichológus,
 
 b) az iskola-egészségügyi szolgálat, továbbá
 
-c) amennyiben működik és szükséges, a helyi vagy megyei Kábítószerügyi Egyeztető Fórum
+c)[^350] amennyiben működik és szükséges, a helyi vagy vármegyei Kábítószerügyi Egyeztető Fórum
 
 véleményét.
 
-(9)[^350] A nevelési-oktatási intézményekben megvalósuló teljes körű egészségfejlesztés módszertani útmutatóját az egészségfejlesztésért felelős országos intézet dolgozza ki.
+(9)[^351] A nevelési-oktatási intézményekben megvalósuló teljes körű egészségfejlesztés módszertani útmutatóját az egészségfejlesztésért felelős országos intézet dolgozza ki.
 
 (10) Az alapfokú művészeti iskolában az (1)–(9) bekezdés rendelkezéseit nem kell alkalmazni.
 
-(11)[^351] A nevelési-oktatási intézményben elektroakusztikus eszköz igénybevétele mellett tartott tanítási órán, egyéb foglalkozáson, valamint a nevelési-oktatási intézményben vagy a nevelési-oktatási intézmény által szervezett elektroakusztikus hangosítású rendezvényen (a továbbiakban: elektroakusztikus hangosítású rendezvény), amelyen gyermekek, tanulók is részt vesznek, a gyermekek, tanulók zajvédelmére különös figyelmet kell fordítani. Az olyan elektroakusztikus hangosítású rendezvényen, amelyen
+(11)[^352] A nevelési-oktatási intézményben elektroakusztikus eszköz igénybevétele mellett tartott tanítási órán, egyéb foglalkozáson, valamint a nevelési-oktatási intézményben vagy a nevelési-oktatási intézmény által szervezett elektroakusztikus hangosítású rendezvényen (a továbbiakban: elektroakusztikus hangosítású rendezvény), amelyen gyermekek, tanulók is részt vesznek, a gyermekek, tanulók zajvédelmére különös figyelmet kell fordítani. Az olyan elektroakusztikus hangosítású rendezvényen, amelyen
 
 a) 0–6 év közötti gyermekek, tanulók vesznek részt, a hangnyomásszint nem haladhatja meg az Laeq M30 75 dB értéket,
 
@@ -54,7 +54,7 @@ b) 6 és 14 év közötti gyermekek, tanulók vesznek részt, a hangnyomásszint
 
 c) 14 és 18 év közötti gyermekek, tanulók vesznek részt, a hangnyomásszint nem haladhatja meg az Laeq M30 90 dB értéket.
 
-(12)[^352] Az Laeq M30 75–90 dB hangnyomásszint közötti elektroakusztikus hangosítású rendezvényen biztosítani kell, hogy a közönség a hangsugárzókat 3 méteren belül ne tudja megközelíteni.
+(12)[^353] Az Laeq M30 75–90 dB hangnyomásszint közötti elektroakusztikus hangosítású rendezvényen biztosítani kell, hogy a közönség a hangsugárzókat 3 méteren belül ne tudja megközelíteni.
 
 [^341]: A 128. § (1) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 12. pont a) alpontja szerint módosított szöveg.
 [^342]: A 128. § (3) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 11. § (1) bekezdésével megállapított szöveg.
@@ -65,6 +65,7 @@ c) 14 és 18 év közötti gyermekek, tanulók vesznek részt, a hangnyomásszin
 [^347]: A 128. § (4) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 19. § 12. pont b) alpontja szerint módosított szöveg.
 [^348]: A 128. § (7) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 11. § (2) bekezdésével megállapított, a 37/2021. (VIII. 31.) EMMI rendelet 23. § (1) bekezdés 19. pontja szerint módosított szöveg.
 [^349]: A 128. § (8) bekezdése a 31/2020. (VIII. 31.) EMMI rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^350]: A 128. § (9) bekezdése a 45/2014. (X. 27.) EMMI rendelet 31. §-ával megállapított szöveg.
-[^351]: A 128. § (11) bekezdését a 37/2021. (VIII. 31.) EMMI rendelet 10. § (2) bekezdése iktatta be.
-[^352]: A 128. § (12) bekezdését a 37/2021. (VIII. 31.) EMMI rendelet 10. § (2) bekezdése iktatta be.
+[^350]: A 128. § (8) bekezdés c) pontja a 45/2022. (XII. 20.) BM rendelet 65. § a) pontja szerint módosított szöveg.
+[^351]: A 128. § (9) bekezdése a 45/2014. (X. 27.) EMMI rendelet 31. §-ával megállapított szöveg.
+[^352]: A 128. § (11) bekezdését a 37/2021. (VIII. 31.) EMMI rendelet 10. § (2) bekezdése iktatta be.
+[^353]: A 128. § (12) bekezdését a 37/2021. (VIII. 31.) EMMI rendelet 10. § (2) bekezdése iktatta be.

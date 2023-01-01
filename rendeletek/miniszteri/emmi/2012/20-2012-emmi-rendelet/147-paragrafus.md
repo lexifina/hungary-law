@@ -1,4 +1,4 @@
-147. § (1) A hivatal minden év július 20-ig a következő évre szóló országos pedagógiai-szakmai ellenőrzési tervet (a továbbiakban: ellenőrzési terv) készít megyei bontásban. A hivatal az ellenőrzési tervet úgy állítja össze, hogy az ellenőrzés ötévente egy alkalommal minden intézmény minden pedagógusára kiterjedjen. A hivatal július 31-ig az általa működtetett informatikai támogató rendszer útján értesíti az ellenőrzési tervben szereplő pedagógusokat, intézményvezetőket és intézményeket.
+147. § (1)[^429] A hivatal minden év július 20-ig a következő évre szóló országos pedagógiai-szakmai ellenőrzési tervet (a továbbiakban: ellenőrzési terv) készít vármegyei bontásban. A hivatal az ellenőrzési tervet úgy állítja össze, hogy az ellenőrzés ötévente egy alkalommal minden intézmény minden pedagógusára kiterjedjen. A hivatal július 31-ig az általa működtetett informatikai támogató rendszer útján értesíti az ellenőrzési tervben szereplő pedagógusokat, intézményvezetőket és intézményeket.
 
 (2) A munkáltató, az intézményvezető köteles az ellenőrzés feltételeit biztosítani. Az ellenőrzés által érintett időt az ellenőrzött személy tekintetében munkaidőként kell figyelembe venni.
 
@@ -12,15 +12,16 @@
 
 (7) Az ellenőrzésben érintett pedagógus, szakértő, valamint az érintett intézmény vezetője haladéktalanul köteles értesíteni a hivatalt minden olyan körülményről, amely az ellenőrzés lebonyolítását akadályozza vagy veszélyezteti. Az időpontot és a szakértők kijelölését az érintettek kezdeményezésére a hivatal módosíthatja, amelyről haladéktalanul értesíti az érintetteket. Ha a pedagógus, az intézményvezető neki fel nem róható okból nem tud részt venni a rá vonatkozó ellenőrzésben, a hivatal új időpontot jelöl ki a számára. E szabály alkalmazásában a pedagógusnak, az intézményvezetőnek fel nem róható ok minden olyan, a részvételt gátló esemény, körülmény, amelynek bekövetkezése nem vezethető vissza a pedagógus, az intézményvezető szándékos vagy gondatlan magatartására.
 
-(7a)[^428] Az ellenőrzést vezető szakértő az ellenőrzés időpontja előtt legalább tizenöt nappal felveszi a kapcsolatot az érintett intézmény vezetőjével és egyeztetik az ellenőrzés ütemezésével és tartalmával kapcsolatos részleteket.
+(7a)[^430] Az ellenőrzést vezető szakértő az ellenőrzés időpontja előtt legalább tizenöt nappal felveszi a kapcsolatot az érintett intézmény vezetőjével és egyeztetik az ellenőrzés ütemezésével és tartalmával kapcsolatos részleteket.
 
-(8)[^429] Az ellenőrzést vezető szakértő a látogatást követő szakértői egyeztetésnek megfelelően, az ellenőrzést követő tizenöt napon belül elkészíti az ellenőrzés tapasztalatait tartalmazó szakértői értékelést az informatikai támogató rendszerben.
+(8)[^431] Az ellenőrzést vezető szakértő a látogatást követő szakértői egyeztetésnek megfelelően, az ellenőrzést követő tizenöt napon belül elkészíti az ellenőrzés tapasztalatait tartalmazó szakértői értékelést az informatikai támogató rendszerben.
 
-(9)[^430] Az ellenőrzésben érintett személy, az intézményellenőrzés esetén az intézményvezető számára az ellenőrzés eredménye a (8) bekezdésben meghatározott határidő lejártától az informatikai támogató rendszer útján elérhető válik.
+(9)[^432] Az ellenőrzésben érintett személy, az intézményellenőrzés esetén az intézményvezető számára az ellenőrzés eredménye a (8) bekezdésben meghatározott határidő lejártától az informatikai támogató rendszer útján elérhető válik.
 
-(10)[^431] Az intézményi látogatást követően a (8) bekezdés szerinti szakértői értékelés rögzítésének határidejéig az ellenőrzésben részt vett személy, továbbá intézményellenőrzés esetén az intézmény vezetője a nevelőtestülettel egyeztetve értékelőlapot tölthet ki a szakértőkről a hivatal által működtetett informatikai támogató rendszerben. A hivatal az értékelőlapot a szakértői tevékenység egységes értékelési szempontjai alapján állítja össze. A hivatal a szakértőkről készült értékelőlapok tartalmáról minden év november 30-ig összesítő kimutatást készít, melyet az informatikai támogató rendszerben elérhetővé tesz a szakértő számára.
+(10)[^433] Az intézményi látogatást követően a (8) bekezdés szerinti szakértői értékelés rögzítésének határidejéig az ellenőrzésben részt vett személy, továbbá intézményellenőrzés esetén az intézmény vezetője a nevelőtestülettel egyeztetve értékelőlapot tölthet ki a szakértőkről a hivatal által működtetett informatikai támogató rendszerben. A hivatal az értékelőlapot a szakértői tevékenység egységes értékelési szempontjai alapján állítja össze. A hivatal a szakértőkről készült értékelőlapok tartalmáról minden év november 30-ig összesítő kimutatást készít, melyet az informatikai támogató rendszerben elérhetővé tesz a szakértő számára.
 
-[^428]: A 147. § (7a) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 10. §-a iktatta be.
-[^429]: A 147. § (8) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 13. § 16. pont 16.1. alpontja szerint módosított szöveg.
-[^430]: A 147. § (9) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 13. § 16. pont 16.2. alpontja szerint módosított szöveg.
-[^431]: A 147. § (10) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 9. §-ával megállapított, a 34/2019. (XII. 30.) EMMI rendelet 13. § 16. pont 16.3. alpontja szerint módosított szöveg.
+[^429]: A 147. § (1) bekezdése a 45/2022. (XII. 20.) BM rendelet 65. § a) pontja szerint módosított szöveg.
+[^430]: A 147. § (7a) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 10. §-a iktatta be.
+[^431]: A 147. § (8) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 13. § 16. pont 16.1. alpontja szerint módosított szöveg.
+[^432]: A 147. § (9) bekezdése a 34/2019. (XII. 30.) EMMI rendelet 13. § 16. pont 16.2. alpontja szerint módosított szöveg.
+[^433]: A 147. § (10) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 9. §-ával megállapított, a 34/2019. (XII. 30.) EMMI rendelet 13. § 16. pont 16.3. alpontja szerint módosított szöveg.
