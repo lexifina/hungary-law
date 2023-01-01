@@ -1,6 +1,6 @@
 3/A. §[^24] (1) Lejárt eltarthatósági idejű készítmény a minőség ellenőrzése nélkül nem hozható forgalomba és nem használható fel. A minőség-ellenőrzési vizsgálatot a forgalmazónak vagy a tétel tulajdonosának kell elvégeztetnie. Amennyiben a minőség-ellenőrzési vizsgálatok eredményei alapján a készítmény eredeti rendeltetésének megfelelően nem használható fel, a készítményt hulladéknak kell tekinteni.
 
-(2)[^25] Amennyiben a minőség-ellenőrzés eredményei alapján a készítmény megfelel a címke előírásainak, a megvizsgált tétel további 1 évig forgalomba hozható és felhasználható. A tétel tulajdonosa vagy a forgalmazó köteles a vizsgálattal kapcsolatos dokumentumokat kérésre a vevő vagy hatósági ellenőrzéskor a megyei kormányhivatal rendelkezésére bocsátani.
+(2)[^25] Amennyiben a minőség-ellenőrzés eredményei alapján a készítmény megfelel a címke előírásainak, a megvizsgált tétel további 1 évig forgalomba hozható és felhasználható. A tétel tulajdonosa vagy a forgalmazó köteles a vizsgálattal kapcsolatos dokumentumokat kérésre a vevő vagy hatósági ellenőrzéskor a vármegyei kormányhivatal rendelkezésére bocsátani.
 
 (3) A címkén feltüntetett hatóanyag-tartalom csökkenése esetén
 
@@ -11,4 +11,4 @@ b) az EK-műtrágyát hulladéknak kell tekinteni, ha a csökkent hatóanyag-tar
 (4) Az azonosíthatatlanná vált termék kezelésére a veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól szóló jogszabály rendelkezéseit kell alkalmazni.
 
 [^24]: A 3/A. §-t a 18/2017. (IV. 11.) FM rendelet 9. §-a iktatta be.
-[^25]: A 3/A. § (2) bekezdése a 20/2021. (V. 17.) AM rendelet 13. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^25]: A 3/A. § (2) bekezdése a 20/2021. (V. 17.) AM rendelet 13. § (3) bekezdés b) pontja, a 94/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@ a) a gyártó,
 
 b) nem Magyarországon történő előállítás esetén az első magyarországi forgalomba hozó
 
-## a kereskedelmi név, a pontos összetétel, a foszfor vegyület, az EK-műtrágya típusa és a gyártó feltüntetésével köteles bejelenteni a Nemzeti Élelmiszerlánc-biztonsági Hivatalnak (a továbbiakban: NÉBIH).
+a kereskedelmi név, a pontos összetétel, a foszfor vegyület, az EK-műtrágya típusa és a gyártó feltüntetésével köteles bejelenteni a Nemzeti Élelmiszerlánc-biztonsági Hivatalnak (a továbbiakban: NÉBIH).
 
 (2)[^3] A bejelentés mellékleteként be kell nyújtani a 2003/2003/EK európai parlamenti és tanácsi rendelet 27. cikke szerinti magas nitrogéntartalmú ammónium-nitrát műtrágyákra vonatkozó, 6 hónapnál nem régebbi vizsgálati eredményt (a továbbiakban: vizsgálati eredmény). A vizsgálati eredmény másolatát minden további műtrágyaszállítmányhoz biztosítani kell, valamint a szabad forgalomba bocsátás vámeljárás kezdeményezése esetén a Nemzeti Adó- és Vámhivatal részére is be kell mutatni.
 
