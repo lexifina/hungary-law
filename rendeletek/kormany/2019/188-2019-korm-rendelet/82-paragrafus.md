@@ -18,4 +18,6 @@ a) szakirányú felsőfokú végzettséggel, középfokú szakképzettséget tan
 
 b) az adott halfajta tenyésztőszervezete által igazolt, legalább 3 év halkeltetői szakmai gyakorlattal
 
+kell rendelkeznie.
+
 [^19]: A 82. § (3) bekezdése a 13/2020. (II. 7.) Korm. rendelet 140. § (2) bekezdésével megállapított szöveg.

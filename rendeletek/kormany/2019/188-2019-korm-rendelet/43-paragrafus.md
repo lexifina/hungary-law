@@ -4,7 +4,7 @@ a) szarvasmarha, sertés, juh és kecske esetében az (EU) 2016/1012 európai pa
 
 b) a ló és a szamár esetében az élő lóféléknek, valamint a lófélék spermájának, petesejtjeinek és embrióinak az Unióba történő belépésére vonatkozó feltételekről szóló, 2018. április 12-i (EU) 2018/659 bizottsági végrehajtási rendeletben megállapított azonosító okmánynak
 
-## kell kísérnie.
+kell kísérnie.
 
 (2) A harmadik országból behozott, a 2016/1012/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó állatfajok tenyészállatait vagy – a keltetőtojás kivételével – szaporítóanyagait származási igazolásnak kell kísérnie.
 
@@ -13,3 +13,5 @@ b) a ló és a szamár esetében az élő lóféléknek, valamint a lófélék s
 a) a származási ország,
 
 b) a tenyészállat vagy – a keltetőtojás kivételével – a szaporítóanyag faja és fajtája, valamint mennyisége
+
+megnevezésével írásban értesíteni kell a NÉBIH-et. Az értesítéshez mellékelni kell az (1) és (2) bekezdés szerinti kísérőokmányt.

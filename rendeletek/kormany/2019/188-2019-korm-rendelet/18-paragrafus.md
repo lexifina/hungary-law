@@ -1,5 +1,3 @@
-## a miniszter felfüggeszti a tenyésztőszervezet működését, és az eset körülményeit mérlegelve a jogsértő állapot megszüntetéséhez szükséges időtartamú, de legfeljebb 180 napos határidőt tűz a szabályszerű működés helyreállítására.
-
 18. § (1) A miniszter a tenyésztőszervezet elismerését visszavonja, ha a tenyésztőszervezet
 
 a) a figyelmeztetést tartalmazó döntésben történt felhívás ellenére sem állítja helyre határidőben a szabályszerű működését;

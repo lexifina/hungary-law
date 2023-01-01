@@ -1,1 +1,0 @@
-## keresztül kell eleget tenni.

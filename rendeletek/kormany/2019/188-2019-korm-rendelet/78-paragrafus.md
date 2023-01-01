@@ -28,5 +28,7 @@ a) szakirányú felsőfokú végzettséggel, középfokú szakképzettséget tan
 
 b) az adott méhfajta tenyésztőszervezete által igazolt, legalább 3 év méhészeti szakmai gyakorlattal
 
+kell rendelkeznie.
+
 [^16]: A 78. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 200. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^17]: A 78. § (4) bekezdése a 13/2020. (II. 7.) Korm. rendelet 140. § (1) bekezdésével megállapított szöveg.

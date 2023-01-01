@@ -1,5 +1,3 @@
-## részére be kell jelenteni.
-
 42. § (1) A tenyészállat és szaporítóanyag 40. és 41. § szerinti behozatalához szükséges bejelentést a tenyészállat tulajdonosának kell benyújtania.
 
 (2) A bejelentésnek tartalmaznia kell

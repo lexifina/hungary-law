@@ -4,7 +4,7 @@ a) szolgáltatásként,
 
 b) saját állományban tulajdonosként, az állat tartójaként, illetve alkalmazottként
 
-## adatszolgáltatási kötelezettség teljesítésével végezhet.
+adatszolgáltatási kötelezettség teljesítésével végezhet.
 
 (2) Az (1) bekezdés a) pontja szerinti tevékenységet
 
@@ -14,7 +14,7 @@ b) e tevékenységre vonatkozó képesítéssel rendelkező személy
 
 [a továbbiakban az a) és b) pont alattiak együtt: inszeminátor]
 
-## végezhet.
+végezhet.
 
 (3) A szakmai névjegyzékbe történő bejegyzés iránti kérelem esetén
 

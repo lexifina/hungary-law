@@ -13,3 +13,5 @@ b) a tenyésztőszervezettel kötött együttműködési szerződést.
 a) állatorvos,
 
 b) e tevékenységre vonatkozó embriológiai-embrióátültetési képesítéssel rendelkező személy
+
+végezhet.

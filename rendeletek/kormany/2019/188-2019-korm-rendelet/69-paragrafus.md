@@ -5,3 +5,5 @@
 a) szarvasmarhasperma esetében a FELIR-ALI-n,
 
 b) lósperma esetében a FELIR-OLIR-en
+
+keresztül kell eleget tenni.
