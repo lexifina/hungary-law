@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-315-20-
 | --- | --- | --- |
 | 2020-01-16 | 2019-315-20-22.1 | 315/2019. (XII. 18.) Korm. rendelet |
 | 2020-03-01 | 2019-315-20-22.2 | 30/2020. (II. 29.) Korm. rendelet |
+| 2023-01-01 | 2019-315-20-22.3 | 30/2020. (II. 29.) Korm. rendelet |
