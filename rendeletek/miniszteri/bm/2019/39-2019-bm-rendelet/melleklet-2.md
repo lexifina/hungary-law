@@ -1,5 +1,3 @@
-## A közegészségügyi feladatokat ellátó személyek létszáma, a szakképesítési követelmények és a munkavégzés napi időtartama a Főigazgatóság által fenntartott intézményeknél
-
 |  | A | B | C | D | E |
 
 | 1 | Szerv | Megnevezés | Szakképesítés | Létszám (fő) | Munkaidő |
@@ -10,7 +8,7 @@
 
 2. melléklet a 39/2019. (XI. 15.) BM rendelethez
 
-## Szempontrendszer a Főigazgatóság személyi állományával kapcsolatos éves közegészségügyi-járványügyi tevékenység helyzetértékeléshez
+Szempontrendszer a Főigazgatóság személyi állományával kapcsolatos éves közegészségügyi-járványügyi tevékenység helyzetértékeléshez
 
 1. A közegészségügyi szakképesítésű szakemberek foglalkoztatásának helyzete.
 

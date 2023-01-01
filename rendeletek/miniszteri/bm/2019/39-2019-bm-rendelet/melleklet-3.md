@@ -1,6 +1,6 @@
 3. melléklet a 39/2019. (XI. 15.) BM rendelethez
 
-## Szempontrendszer az őrzött szállásokon és a Főigazgatóság által fenntartott intézményekben elhelyezett személyekkel kapcsolatos éves közegészségügyi-járványügyi tevékenység helyzetértékeléshez
+Szempontrendszer az őrzött szállásokon és a Főigazgatóság által fenntartott intézményekben elhelyezett személyekkel kapcsolatos éves közegészségügyi-járványügyi tevékenység helyzetértékeléshez
 
 1. Kimutatás egészségügyi és pszichológiai tevékenységről
 
