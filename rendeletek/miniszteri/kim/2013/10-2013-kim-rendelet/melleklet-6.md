@@ -138,11 +138,11 @@ A teljesítményértékelés teljes folyamatára érvényes megállapítás, hog
 
 A teljesítményértékelés másik meghatározó szereplője és alanya az értékelt személy, a közszolgálati tisztviselő. A közszolgálati tisztviselő teljesítményértékeléssel kapcsolatos jogait és kötelezettségeit a Kttv., a Korm. rendelet, valamint a Rendelet előírásai határozzák meg. Ezek betartásán felül a közszolgálati tisztviselő aktivitására, együttműködési készségére, pozitív hozzáállására is szükség van a sikeres teljesítményértékeléshez.
 
-2.1.3. Közigazgatási szerv vezetője, valamint a kormánymegbízott
+2.1.3. Közigazgatási szerv vezetője, valamint a főispán
 
 A közigazgatási szerv vezetője – át nem ruházható hatáskörben – belső szabályzatban dönt az általa vezetett szerv vonatkozásában a teljesítményértékelés ajánlott elemeinek alkalmazásáról, valamint az alkalmazni rendelt ajánlott elemek köréről.
 
-Ettől eltérően a fővárosi és megyei kormányhivatal esetében az ajánlott elemek alkalmazásáról – a szakigazgatási szerv vezetőinek, valamint a járási hivatalvezetők véleményének a kikérésével – a kormánymegbízott dönt.
+Ettől eltérően a fővárosi és vármegyei kormányhivatal esetében az ajánlott elemek alkalmazásáról – a szakigazgatási szerv vezetőinek, valamint a járási hivatalvezetők véleményének a kikérésével – a főispán dönt.
 
 2.1.4. Magyar Kormánytisztviselői Kar, munkavállalói érdekképviseleti szerv
 
@@ -172,7 +172,7 @@ Amennyiben a közigazgatási szerv a személyügyi központ által üzemeltetett
 
 2.2. A teljesítményértékelés felügyelete, országos szintű irányítása
 
-2.2.1. A Kttv. 130. § (8) bekezdése alapján a személyügyi központ vezetője – a helyi önkormányzatok tekintetében a fővárosi és megyei kormányhivatalok útján – ellenőrzi a teljesítményértékelésre, a minősítésre vonatkozó szabályok és módszertani előírások betartását.
+2.2.1. A Kttv. 130. § (8) bekezdése alapján a személyügyi központ vezetője – a helyi önkormányzatok tekintetében a fővárosi és vármegyei kormányhivatalok útján – ellenőrzi a teljesítményértékelésre, a minősítésre vonatkozó szabályok és módszertani előírások betartását.
 
 2.2.2. Az operatív feladatok vonatkozásában országos hatáskörrel rendelkező személyügyi központ a teljesítményértékelés működtetése kapcsán a következő feladatokat látja el:
 
@@ -550,4 +550,4 @@ c) A TÉR rendszer offline használata
 
 A rendszer „egygépes”, hálózat nélkül is működő verziója. A közszolgálati tisztviselők vonatkozásában nem választható.
 
-[^2]: A 6. melléklet a 12/2019. (IV. 12.) IM rendelet 4. §-a, a 19/2022. (IX. 26.) IM rendelet 2. §-a szerint módosított szöveg.
+[^2]: A 6. melléklet a 12/2019. (IV. 12.) IM rendelet 4. §-a, a 19/2022. (IX. 26.) IM rendelet 2. §-a, a 36/2022. (XII. 27.) IM rendelet 1. § a) és b) pontja szerint módosított szöveg.
