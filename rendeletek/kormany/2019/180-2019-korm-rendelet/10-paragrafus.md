@@ -1,5 +1,3 @@
-## 9. §[^12]
-
 ## 8. Záró rendelkezések
 
 10. § (1) Ez a rendelet – a (2)–(4) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
@@ -10,6 +8,5 @@
 
 (4)[^14] A 4. § (5) bekezdése 2020. július 1-jén lép hatályba.
 
-[^12]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^13]: A 10. § (3) bekezdése a 267/2019. (XI. 19.) Korm. rendelet 27. §-ával megállapított szöveg.
 [^14]: A 10. § (4) bekezdése a 267/2019. (XI. 19.) Korm. rendelet 27. §-ával megállapított szöveg.
