@@ -24,6 +24,12 @@ i) – törvény eltérő rendelkezése hiányában – a kiállító szóbeli n
 
 (3) A teljes bizonyító erejű magánokirat az ellenkező bizonyításáig teljes bizonyító erővel bizonyítja, hogy az okirat aláírója az abban foglalt nyilatkozatot megtette, illetve elfogadta vagy magára kötelezőnek ismerte el.
 
+(3a) Az (1) bekezdés f) és g) pontja szerinti magánokirat az ellenkező bizonyításáig teljes bizonyító erővel bizonyítja a nyilatkozat megtétele idejében a nyilatkozatot tevő személynek az E-ügyintézési tv. szerinti szerepkörét, ha a szerepkört
+
+a) a szerepkör-tanúsító szolgáltató szerepkör-tanúsítványban igazolta vagy
+
+b) az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás igazolása tartalmazza.
+
 (4) A teljes bizonyító erejű magánokirat valódiságát csak akkor kell bizonyítani, ha azt az ellenfél kétségbe vonja, vagy a valódiság bizonyítását a bíróság szükségesnek találja.
 
 (5) Ha a teljes bizonyító erejű magánokiraton szereplő aláírás valódisága nem vitás vagy bizonyított, illetve a legalább fokozott biztonságú elektronikus aláírás vagy bélyegző vagy zárt rendszerben alkalmazott bizalmi szolgáltatás keretében a kiállító saját kezű aláírására egyértelműen visszavezethető adatok ellenőrzésének eredményéből más nem következik, az aláírást vagy a bélyegzőt megelőző szöveget – elektronikus okirat esetén az aláírt vagy bélyegzővel ellátott adatokat – az ellenkező bizonyításáig meg nem hamisítottnak kell tekinteni, kivéve, ha az okiratnak olyan rendellenességei vagy hiányai vannak, amelyek e vélelmet megdöntik.

@@ -1,6 +1,6 @@
 ### 516. § [Soronkívüliség]
 
-(1) A megszüntetett munkaviszony helyreállítására irányuló perben, valamint a felszámolás alatt álló munkáltatóval szembeni igény elbírálása esetén a bíróság soron kívül jár el.
+(1) A megszüntetett munkaviszony helyreállítására irányuló perben, az Mt. 61. § (6) bekezdése szerint a munkáltató hozzájáruló nyilatkozatának pótlása iránti perben, valamint a felszámolás alatt álló munkáltatóval szembeni igény elbírálása esetén a bíróság soron kívül jár el.
 
 (2) Soron kívüli eljárás esetén, a perfelvétel során
 
