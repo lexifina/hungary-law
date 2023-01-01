@@ -12,4 +12,4 @@
 
 a) az újabb megismételt közgyűlésen az Integrációs Szervezet képviselője személyesen is részt vett, és
 
-b) ha az integrált hitelintézet rendelkezik honlappal, legalább honlapján, valamint egy országos napilapban és egy, a szövetkezeti formában működő integrált hitelintézet székhelye szerinti megyei napilapban legalább az újabb megismételt közgyűlés előtt 3 nappal meghirdették az újabb megismételt közgyűlés helyét, idejét és napirendjét, valamint az arról szóló tájékoztatást, hogy a jelenlévők legalább kétharmadának szavazatával érvényes döntés hozható.
+b) ha az integrált hitelintézet rendelkezik honlappal, legalább honlapján, valamint egy országos napilapban és egy, a szövetkezeti formában működő integrált hitelintézet székhelye szerinti vármegyei napilapban legalább az újabb megismételt közgyűlés előtt 3 nappal meghirdették az újabb megismételt közgyűlés helyét, idejét és napirendjét, valamint az arról szóló tájékoztatást, hogy a jelenlévők legalább kétharmadának szavazatával érvényes döntés hozható.
