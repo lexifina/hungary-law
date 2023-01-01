@@ -1,5 +1,3 @@
-## 1. § E rendelet hatálya a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és fővárosi, megyei katasztrófavédelmi igazgatóságok (a továbbiakban együtt: eljáró hatóság) hatáskörébe tartozó vízügyi, vízvédelmi hatósági és szakhatósági eljárásokra, valamint az eljáró hatóságok igazgatási jellegű szolgáltatásaira terjed ki.
-
 2. § (1) Az eljáró hatóság eljárása során – (5) bekezdésben foglalt kivétellel – az 1. mellékletben meghatározott mértékű igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni.
 
 (2) Az elvi vízjogi engedély esetében a díjat műszaki megoldásonként kell megfizetni.
@@ -8,6 +6,6 @@
 
 (4) Szennyvíz előtisztításhoz szükséges, egyedileg tervezett berendezés víziközműbe történő bekötésének engedélyezése esetében a díjfizetés alapja a beruházásnak az engedélyes által meghatározott bruttó létesítési költsége.
 
-(5)[^1]
+(5)[^2]
 
-[^1]: A 2. § (5) bekezdését a 42/2017. (XII. 29.) BM rendelet 11. §-a hatályon kívül helyezte.
+[^2]: A 2. § (5) bekezdését a 42/2017. (XII. 29.) BM rendelet 11. §-a hatályon kívül helyezte.

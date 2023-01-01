@@ -15,3 +15,5 @@ f) 78. § (1)–(3) bekezdésében, valamint 87. § (1) bekezdésében foglaltak
 g) 82. § (1) bekezdésében foglaltakat a díjfizetés elmulasztására és a mulasztási bírságra,
 
 h) 86. §-ában foglaltakat az elévülés tekintetében
+
+megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon az eljárásra illetékes és hatáskörrel rendelkező hatóságot, ahol illetéket említ, azon díjat, ahol leletet említ, azon jegyzőkönyvet kell érteni.

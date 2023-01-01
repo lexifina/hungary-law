@@ -1,5 +1,3 @@
-## Az igazgatási szolgáltatási díjköteles vízügyi és vízvédelmi hatósági eljárások, illetve az igazgatási szolgáltatási díj mértéke
-
 |  | A | B |
 
 | 1. | Az igazgatási szolgáltatási díjköteles vízügyi és vízvédelmi hatósági eljárások sorszáma és megnevezése | Igazgatási szolgáltatási díj mértéke (Ft) |
@@ -176,6 +174,8 @@
 
 | 84. | 16. Igazolás kiadása pályázati eljárás keretében igényelt támogatásokhoz | 10 000 |
 
-2. melléklet a 13/2015. (III. 31.) BM rendelethez[^5]
+2. melléklet a 13/2015. (III. 31.) BM rendelethez[^6]
 
-[^5]: A 2. melléklet a 36/2018. (XII. 21.) BM rendelet 6. § (1) bekezdésével megállapított, a 43/2019. (XII. 14.) BM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+Az igazgatási szolgáltatási díjköteles vízügyi és vízvédelmi szakhatósági eljárások, illetve az igazgatási szolgáltatási díj mértéke
+
+[^6]: A 2. melléklet a 36/2018. (XII. 21.) BM rendelet 6. § (1) bekezdésével megállapított, a 43/2019. (XII. 14.) BM rendelet 3. § (1) bekezdése szerint módosított szöveg.

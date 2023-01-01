@@ -1,1 +1,0 @@
-## megfelelően kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon az eljárásra illetékes és hatáskörrel rendelkező hatóságot, ahol illetéket említ, azon díjat, ahol leletet említ, azon jegyzőkönyvet kell érteni.
