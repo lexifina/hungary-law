@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-95-20-2
 | 2015-04-01 | 2013-95-20-2Y.3 | 15/2015. (III. 31.) FM rendelet |
 | 2017-01-01 | 2013-95-20-2Y.4 | 15/2015. (III. 31.) FM rendelet |
 | 2020-11-18 | 2013-95-20-2Y.5 | 89/2016. (XII. 29.) FM rendelet |
+| 2023-01-01 | 2013-95-20-2Y.6 | 15/2015. (III. 31.) FM rendelet |
