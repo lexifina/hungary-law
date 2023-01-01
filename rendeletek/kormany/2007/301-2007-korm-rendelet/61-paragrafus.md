@@ -1,6 +1,6 @@
 ## A személyes költségmentesség engedélyezése a Tv. által szabályozott eljárásokban
 
-61. §[^155] (1) A menekültügyi hatóság a menedékjogot élvező személy kérelmére teljes vagy részleges költségmentességét engedélyezhet.
+61. §[^160] (1) A menekültügyi hatóság a menedékjogot élvező személy kérelmére teljes vagy részleges költségmentességét engedélyezhet.
 
 (2) A részleges költségmentesség a menedékjogot élvező személyt valamely eljárási költségfajta vagy az eljárási költségek meghatározott százalékának viselése alól mentesíti.
 
@@ -12,4 +12,4 @@
 
 (6) A menedékjogot élvező személy a kérelmében a jövedelemigazoláson túl további olyan körülményeket jelölhet meg, amelyek alapján a menekültügyi hatóság költségmentességben részesítheti.
 
-[^155]: A 61. §-t és az azt megelőző alcímet a 113/2016. (V. 30.) Korm. rendelet 77. § (3) bekezdés f) pontja hatályon kívül helyezte, újonnan a 411/2017. (XII. 15.) Korm. rendelet 46. §-a iktatta be.
+[^160]: A 61. §-t és az azt megelőző alcímet a 113/2016. (V. 30.) Korm. rendelet 77. § (3) bekezdés f) pontja hatályon kívül helyezte, újonnan a 411/2017. (XII. 15.) Korm. rendelet 46. §-a iktatta be.

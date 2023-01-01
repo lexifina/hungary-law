@@ -1,16 +1,14 @@
-## 61/D–61/N. §[^159]
-
 ## VI. Fejezet
 
 ## A MENEKÜLTÜGYI ELJÁRÁS ÁLTALÁNOS SZABÁLYAI
 
 ## Az elismerés iránti kérelem benyújtása
 
-62. § (1)[^160] Az írásban benyújtott kérelmet az elismerését kérőnek saját kezűleg alá kell írnia.
+62. § (1)[^177] Az írásban benyújtott kérelmet az elismerését kérőnek saját kezűleg alá kell írnia.
 
 (2) Ha a Tv. vagy e rendelet írásbeliséget követel meg, és az elismerését kérő írásképtelen, az elismerését kérő nyilatkozatát és az írásképtelenség tényét jegyzőkönyvbe kell foglalni.
 
-(3)[^161]
+(3)[^178]
 
 (4) A szóbeli kérelemről készült jegyzőkönyvben rögzíteni kell:
 
@@ -20,7 +18,7 @@ b) az elismerését kérő rendelkezésére álló, a személyazonosságát igaz
 
 c) az elismerés iránti kérelmet.
 
-(5)[^162] Az elismerését kérőnek elismerés iránti kérelméhez mellékelnie kell a Tv. 41. § (1) bekezdés a) pontjában meghatározott iratokat, valamint át kell adnia a Tv. 41. § (1) bekezdés b) pontjában meghatározott okmányait.
+(5)[^179] Az elismerését kérőnek elismerés iránti kérelméhez mellékelnie kell a Tv. 41. § (1) bekezdés a) pontjában meghatározott iratokat, valamint át kell adnia a Tv. 41. § (1) bekezdés b) pontjában meghatározott okmányait.
 
 (6) Családtagok közös kérelmezése esetén a jegyzőkönyvnek a (4) bekezdésben meghatározott adatokat minden családtagra vonatkozóan tartalmaznia kell.
 
@@ -28,10 +26,9 @@ c) az elismerés iránti kérelmet.
 
 (8) A menekültügyi hatóság a fogva tartott külföldi számára a kérelem benyújtásának lehetőségét a fogva tartás helyén biztosítja.
 
-(9)[^163] A menekültügyi hatóság a Tv. 35. § (5) bekezdése szerinti esetben ügygondnok kirendelése iránt a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: gyámhivatal) keresi meg.
+(9)[^180] A menekültügyi hatóság a Tv. 35. § (5) bekezdése szerinti esetben ügygondnok kirendelése iránt a fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát (a továbbiakban: gyámhivatal) keresi meg.
 
-[^159]: A 61/D–61/N. §-t a 113/2016. (V. 30.) Korm. rendelet 77. § (3) bekezdés f) pontja hatályon kívül helyezte.
-[^160]: A 62. § (1) bekezdés első mondatát a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^161]: A 62. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^162]: A 62. § (5) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 110. §-ával megállapított szöveg.
-[^163]: A 62. § (9) bekezdése a 70/2015. (III. 30.) Korm. rendelet 109. § c) pontja, a 440/2016. (XII. 16.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^177]: A 62. § (1) bekezdés első mondatát a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^178]: A 62. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 588. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^179]: A 62. § (5) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 110. §-ával megállapított szöveg.
+[^180]: A 62. § (9) bekezdése a 70/2015. (III. 30.) Korm. rendelet 109. § c) pontja, a 440/2016. (XII. 16.) Korm. rendelet 13. §-a, a 616/2022. (XII. 29.) Korm. rendelet 83. §-a szerint módosított szöveg.

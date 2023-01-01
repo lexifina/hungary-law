@@ -1,4 +1,4 @@
-## 18. §[^49] Az elismerését kérő a befogadás során nyújtott ellátásokra és támogatásokra akkor tekinthető rászorultnak, ha az elismerést kérő vagy vele közös háztartásban élő házastársa és egyenes ági rokona nem rendelkezik Magyarországon rendelkezésre álló, megélhetését biztosító vagyonnal, továbbá a saját és vele közös háztartásban élő házastársa és egyenes ági rokona összes jövedelmének figyelembevételével számított egy főre jutó havi jövedelme nem haladja meg az öregségi teljes nyugdíj legkisebb összegét.
+## 18. §[^49] Az elismerését kérő a befogadás során nyújtott ellátásokra és támogatásokra akkor tekinthető rászorultnak, ha az elismerést kérő vagy vele közös háztartásban élő házastársa és egyenes ági rokona nem rendelkezik Magyarországon rendelkezésre álló, megélhetését biztosító vagyonnal, továbbá a saját és vele közös háztartásban élő házastársa és egyenes ági rokona összes jövedelmének figyelembevételével számított egy főre jutó havi jövedelme nem haladja meg a szociális vetítési alap összegét.
 
 19. § (1) Ha az elismerését kérő rendelkezik a megélhetését biztosító vagyonnal, vagy jövedelme elérte a 18. §-ban meghatározott mértéket, köteles azt a menekültügyi hatóságnak legkésőbb a vagyon-, illetve jövedelemváltozás bekövetkeztétől számított tizenöt napon belül bejelenteni.
 
@@ -16,7 +16,7 @@
 
 (8)[^54] Különös méltánylást érdemlő esetben a menekültügyi hatóság a visszatérítési kötelezettség megállapítása során részletfizetést engedélyezhet.
 
-[^49]: A 18. § a 290/2010. (XII. 21.) Korm. rendelet 86. §-ával megállapított, a 446/2013. (XI. 28.) Korm. rendelet 36. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^49]: A 18. § a 290/2010. (XII. 21.) Korm. rendelet 86. §-ával megállapított, a 629/2022. (XII. 30.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
 [^50]: A 19. § (4) bekezdése a 221/2013. (VI. 24.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
 [^51]: A 19. § (5) bekezdését a 221/2013. (VI. 24.) Korm. rendelet 52. § a) pontja hatályon kívül helyezte.
 [^52]: A 19. § (6) bekezdését a 113/2016. (V. 30.) Korm. rendelet 77. § (3) bekezdés b) pontja hatályon kívül helyezte.

@@ -1,5 +1,3 @@
-## [a továbbiakban a) és b) pont együtt: szakhatóság] jelöli ki.
-
 ## A különleges bánásmódot igénylő személyre vonatkozó szabályok alkalmazása
 
 3. § (1) A menekültügyi hatóság a menedékjogról szóló 2007. évi LXXX. törvény (a továbbiakban: Tv.) és e rendelet rendelkezéseinek alkalmazása során vizsgálni köteles, hogy a menekültkénti vagy oltalmazottkénti, valamint a menedékeskénti elismerését kérő (a továbbiakban: elismerését kérő), továbbá a menekült, az oltalmazott és a menedékes tekintetében a különleges bánásmódot igénylő személyre vonatkozó szabályok alkalmazásának van-e helye.

@@ -6,9 +6,9 @@
 
 (3) A menekültügyi hatóság a szülő vagy más hozzátartozó kérelmére a 10 év alatti vagy fogyatékos gyermekek nevelési-oktatási intézménybe történő kísérése céljából – amennyiben az más módon nem oldható meg – megtéríti a szülő vagy a hozzátartozó utazáshoz szükséges menetjegy vagy bérlet költségét.
 
-(4)[^78] Az (1) bekezdés alapján megtéríthető egyéb költségek esetén a költségtérítés mértéke nem haladhatja meg az öregségi teljes nyugdíj legkisebb összegét. A számlával igazolt költségeket a menekültügyi hatóság utólag téríti meg.
+(4)[^78] Az (1) bekezdés alapján megtéríthető egyéb költségek esetén a költségtérítés mértéke nem haladhatja meg a szociális vetítési alap összegét. A számlával igazolt költségeket a menekültügyi hatóság utólag téríti meg.
 
 [^75]: A 29. §-t megelőző alcím a 290/2010. (XII. 21.) Korm. rendelet 125. § (6) bekezdésével megállapított szöveg.
 [^76]: A 29. § a 221/2013. (VI. 24.) Korm. rendelet 38. §-ával megállapított szöveg.
 [^77]: A 29. § (1) bekezdése a 62/2016. (III. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^78]: A 29. § (4) bekezdését a 113/2016. (V. 30.) Korm. rendelet 66. §-a iktatta be.
+[^78]: A 29. § (4) bekezdését a 113/2016. (V. 30.) Korm. rendelet 66. §-a iktatta be, szövege a 629/2022. (XII. 30.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
