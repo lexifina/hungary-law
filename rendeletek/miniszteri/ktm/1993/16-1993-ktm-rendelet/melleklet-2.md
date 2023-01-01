@@ -2,7 +2,7 @@
 
 ## ingatlan-nyilvántartási helyrajzi számai
 
-## BORSOD-ABAÚJ-ZEMPLÉN MEGYE
+## BORSOD-ABAÚJ-ZEMPLÉN VÁRMEGYE
 
 ## Arló
 
@@ -20,7 +20,7 @@
 
 ## 027
 
-## HEVES MEGYE
+## HEVES VÁRMEGYE
 
 ## Bükkszenterzsébet
 
