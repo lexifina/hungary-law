@@ -5,3 +5,5 @@
 a) az eljárási cselekmény helyszínén az eljárási cselekmény vezetője, valamint
 
 b) az elkülönített helyszínen a jelenlétre kötelezett vagy jogosult személy
+
+a felvételen szóban rögzíti a pontos időt.

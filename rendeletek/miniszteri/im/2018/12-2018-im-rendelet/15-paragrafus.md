@@ -8,7 +8,7 @@ a) ügyirat alatt a papíralapú és az elektronikus ügyiratot,
 
 b) elektronikus ügyirat alatt a Be. 159. § (1) bekezdése szerinti elektronikus okiratot, papíralapú okirat elektronikus másolatát és elektronikus formában rendelkezésre álló ügyiratot
 
-## is érteni kell.
+is érteni kell.
 
 (2) Az elektronikus okirat megismerésére vonatkozó szabályokat kell megfelelően alkalmazni
 

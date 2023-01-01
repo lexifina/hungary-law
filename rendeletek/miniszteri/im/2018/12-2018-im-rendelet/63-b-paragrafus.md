@@ -1,5 +1,3 @@
-## látja el.
-
 ## 36/B. Hozzáférés a Központi Médiatárhoz
 
 63/B. § (1) A Központi Médiatárhoz való hozzáférés magában foglalja a felvétel Központi Médiatárba való feltöltését, a felvétel elérését, ideértve annak lejátszását és letöltését, valamint a törlését is.

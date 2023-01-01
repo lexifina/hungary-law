@@ -14,7 +14,7 @@ a) a különleges bánásmód körébe tartozó intézkedések alkalmazását, a
 
 b) a különleges bánásmód körébe tartozó esetleges további intézkedések alkalmazásának indokoltságát
 
-## is felül kell vizsgálni.
+is felül kell vizsgálni.
 
 (4) A különleges bánásmód körébe tartozó intézkedéseket érintő változás esetén a 10. §-t kell megfelelően alkalmazni.
 

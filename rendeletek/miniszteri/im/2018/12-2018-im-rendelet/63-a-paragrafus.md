@@ -1,4 +1,4 @@
-## VII/A. Fejezet[^58]
+## VII/A. Fejezet[^59]
 
 ## A BÜNTETŐELJÁRÁS SORÁN KÉSZÍTETT FELVÉTEL KEZELÉSE
 
@@ -16,4 +16,6 @@ a) a bírósággal, az ügyészséggel és a nyomozó hatósággal kötött, a K
 
 b) a bíróság, az ügyészség és a nyomozó hatóság adatfeldolgozójaként
 
-[^58]: A VII/A. fejezetet (63/A–63/E. §) a 16/2018. (VI. 22.) IM rendelet 18. §-a iktatta be.
+látja el.
+
+[^59]: A VII/A. fejezetet (63/A–63/E. §) a 16/2018. (VI. 22.) IM rendelet 18. §-a iktatta be.

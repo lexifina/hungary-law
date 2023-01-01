@@ -20,7 +20,7 @@ a) szóban, személyesen vagy az eljáró bírósághoz, ügyészséghez vagy ny
 
 b) írásban, az eljárás során bejelentett elektronikus elérhetőségről vagy postai úton
 
-## teheti meg.
+teheti meg.
 
 (6) Az (5) bekezdés a) pontjában meghatározott, kizárólag hangkapcsolatot biztosító elektronikus úton tett nyilatkozatról hangfelvételt kell készíteni. A nyilatkozat megtételéről és annak rögzítéséről feljegyzést kell készíteni, és azt a kézbesített ügyirattal együtt kell kezelni.
 

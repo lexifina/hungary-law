@@ -6,6 +6,6 @@ a) a megvizsgálást a felvétel – ideértve a feltöltött felvétellel azono
 
 b) az ügyirat kézbesítését a letöltött felvétel – ideértve a feltöltött felvétellel azonos munkapéldányt is – kézbesítésével vagy továbbításával
 
-## kell biztosítani.
+kell biztosítani.
 
 (2) A hozzáféréssel rendelkező bíróság, ügyészség és nyomozó hatóság tagja, alkalmazottja, dolgozója a Központi Médiatárban tárolt felvételről a feladatkörének ellátása körében, a saját rendszerében munkapéldányt hozhat létre. A felvétel feltöltését követően a feltöltést megelőzően használt adathordozón lévő felvétel munkapéldányként felhasználható. A munkapéldány nem képezi az ügyiratok részét.

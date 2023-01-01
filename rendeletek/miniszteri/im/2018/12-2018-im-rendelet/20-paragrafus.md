@@ -8,6 +8,6 @@ a) papíralapú ügyirat helyett az elektronikus formában rendelkezésre álló
 
 b) elektronikus okirat helyett az elektronikus okirat papíralapú másolata
 
-## megvizsgálásának lehetővé tételével is biztosítható.
+megvizsgálásának lehetővé tételével is biztosítható.
 
 (3) Az elektronikus ügyirat megvizsgálását erre alkalmas helyiségben, információs rendszer vagy más eszköz útján kell biztosítani. Amennyiben ennek feltételei nem adottak, a megismerést az arra jogosulttal történő egyeztetés alapján a (2) bekezdés szerint vagy más módon kell biztosítani.

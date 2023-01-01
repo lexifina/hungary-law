@@ -8,7 +8,7 @@ b) a különleges bánásmódot igénylő személy álláspontjának megismerés
 
 c) a különleges bánásmódot megalapozó körülményeknek megfelelő, azokkal arányban álló módon
 
-## kell meghatározni.
+kell meghatározni.
 
 (2) A különleges bánásmódot igénylő személy kímélete, illetve védelme érdekében – a Be. alapján kötelező intézkedések mellett – egyidejűleg több, különleges bánásmód körébe tartozó intézkedés is alkalmazható.
 

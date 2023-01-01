@@ -13,3 +13,5 @@ c) a büntetőeljárás során és az európai elfogatóparancshoz kapcsolódó 
 d) a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelvnek és
 
 e) a büntetőeljárás során az ártatlanság vélelme egyes vonatkozásainak és a tárgyaláson való jelenlét jogának erősítéséről szóló, 2016. március 9-i (EU) 2016/343 parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.

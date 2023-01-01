@@ -11,3 +11,5 @@ b) a vizsgálat során a nyomozó hatóság 37. § (1) bekezdés b) és c) pontj
 a) az eljárási cselekmény elvégzésére utasított nyomozó hatóság és
 
 b) az eljárási cselekmény elvégzésében közreműködő rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, illetve terrorizmust elhárító szerve
+
+az ügyészség előzetes hozzájárulása esetén, az abban meghatározottak szerint nyújthat tájékoztatást.

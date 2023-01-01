@@ -8,7 +8,7 @@ a) helyett kép- és hangfelvétel vagy
 
 b) mellett kép- és hangfelvétel vagy folyamatos hangfelvétel
 
-## készül.
+készül.
 
 (3) Ha a kép- és hangfelvétel, illetve a folyamatos hangfelvétel készítését biztosító technikai eszköz üzemszerű működésének akadálya nem hárítható el, valamint a felvétel más, indítványtól eltérő módon történő készítésének technikai feltételei nem állnak rendelkezésre, és a Be. alapján kép- és hangfelvétel készítése nem kötelező, a bíróság az eljárási cselekményről vagy az eljárási cselekmény megszakítást követő részéről kizárólag írásbeli jegyzőkönyvet készít.
 
