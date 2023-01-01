@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 4. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+2. § A külképviseletek besorolásáról, valamint a tartós külszolgálaton lévőknek járó deviza-alapilletmény és költségtérítés kiszámításának részletes szabályairól szóló 3/2017. (II. 28.) KKM rendelet 1. melléklete helyébe a 2. melléklet lép.
