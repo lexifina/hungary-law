@@ -28,7 +28,7 @@ k) dél-afrikai karmosbéka (Xenopus laevis), nyugati karmosbéka (Xenopus tropi
 
 l) zebradánió (Danio rerio).
 
-(2)[^6] Az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi hatóság) a kísérlet engedélyezése során kérelemre tudományos indokok alapján mentességet adhat az (1) bekezdés a)–i), illetve k)–l) pontjai alól.
+(2)[^6] Az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró vármegyei kormányhivatal (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi hatóság) a kísérlet engedélyezése során kérelemre tudományos indokok alapján mentességet adhat az (1) bekezdés a)–i), illetve k)–l) pontjai alól.
 
 [^5]: A 3. § (1) bekezdés j) pontja a 189/2013. (VI. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^6]: A 3. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 221. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 155. § a) pontja szerint módosított szöveg.

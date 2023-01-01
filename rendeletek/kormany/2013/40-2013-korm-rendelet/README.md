@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-40-20-2
 | 2018-12-25 | 2013-40-20-22.10 | 248/2018. (XII. 17.) Korm. rendelet |
 | 2020-09-13 | 2013-40-20-22.11 | 425/2020. (IX. 10.) Korm. rendelet |
 | 2021-01-01 | 2013-40-20-22.12 | 425/2020. (IX. 10.) Korm. rendelet |
+| 2023-01-01 | 2013-40-20-22.13 | 70/2015. (III. 30.) Korm. rendelet |

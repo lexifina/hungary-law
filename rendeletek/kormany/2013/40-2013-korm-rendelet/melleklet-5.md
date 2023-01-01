@@ -1,6 +1,6 @@
-## Az állatok leölésének módszerei
-
 ## 1. táblázat
+
+## 3K01837_0
 
 ## 1. Amennyiben szükséges, előzetes nyugtatással együtt alkalmazandó.
 
@@ -34,9 +34,9 @@
 
 ## 16. Csak terepen, lövészetben járatos személy által végezhető, abban az esetben, ha más módszerre nincs lehetőség.
 
-5. melléklet a 40/2013. (II. 14.) Korm. rendelethez[^75]
+5. melléklet a 40/2013. (II. 14.) Korm. rendelethez[^77]
 
-## Oktatási és képzési minimumkövetelmények
+Oktatási és képzési minimumkövetelmények
 
 A.
 
@@ -96,4 +96,4 @@ a) mesterképzésnek megfelelő diploma agrár, orvosi, gyógyszerész, állator
 
 b) Ph.D. fokozat a fenti tudományterületeken.
 
-[^75]: Az 5. melléklet a 98/2014. (III. 25.) Korm. rendelet 14. § (11) bekezdés f) pontja, (12) bekezdés b) pontja, a 240/2017. (VIII. 28.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^77]: Az 5. melléklet a 98/2014. (III. 25.) Korm. rendelet 14. § (11) bekezdés f) pontja, (12) bekezdés b) pontja, a 240/2017. (VIII. 28.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.

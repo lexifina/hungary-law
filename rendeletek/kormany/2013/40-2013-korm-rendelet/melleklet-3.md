@@ -166,7 +166,7 @@
 
 3. melléklet a 40/2013. (II. 14.) Korm. rendelethez
 
-## A létesítményekre, valamint az állatok gondozására és elhelyezésére vonatkozó követelmények, a követelmények állatfajok szerinti lebontása
+A létesítményekre, valamint az állatok gondozására és elhelyezésére vonatkozó követelmények, a követelmények állatfajok szerinti lebontása
 
 1. Egerek, patkányok, futóegerek, hörcsögök és tengerimalacok
 
@@ -194,9 +194,9 @@ Egerek
 
 | kevesebb, mint 20 | 1500 | 30 | 12 |
 
-* Monogám pár (kültenyészet/beltenyészet) vagy hármas (beltenyészet). Ezt minden további, alommal rendelkező nőstény esetén 180 cm2-rel meg kell növelni.
+## * Monogám pár (kültenyészet/beltenyészet) vagy hármas (beltenyészet). Ezt minden további, alommal rendelkező nőstény esetén 180 cm2-rel meg kell növelni.
 
-** Elválasztott egerek az elválasztástól az alom elhagyásáig terjedő rövid ideig tarthatók a fenti nagyobb állománysűrűségben, feltéve, hogy az állatokat nagyobb és megfelelően ingergazdag tartási helyen tartják, és ezek az elhelyezési körülmények nem eredményeznek olyan állatjóléti hiányosságokat, mint például a megnövekedett agresszivitás, megbetegedés vagy elhullás, sztereotípiák és más viselkedészavarok, testtömegvesztés, illetve egyéb élettani vagy magatartásbeli stresszreakciók.
+## ** Elválasztott egerek az elválasztástól az alom elhagyásáig terjedő rövid ideig tarthatók a fenti nagyobb állománysűrűségben, feltéve, hogy az állatokat nagyobb és megfelelően ingergazdag tartási helyen tartják, és ezek az elhelyezési körülmények nem eredményeznek olyan állatjóléti hiányosságokat, mint például a megnövekedett agresszivitás, megbetegedés vagy elhullás, sztereotípiák és más viselkedészavarok, testtömegvesztés, illetve egyéb élettani vagy magatartásbeli stresszreakciók.
 
 1.2. táblázat
 
@@ -230,11 +230,11 @@ Patkányok
 
 | 150 felett, de legfeljebb 200-ig | 2500 | 150 | 18 |
 
-* Hosszú távú vizsgálatok során, ha az egyedenként rendelkezésre álló élettér a vizsgálatok vége felé nem éri el a fent meghatározott nagyságot, különösen ügyelni kell a szilárd közösségi szerkezetek fenntartására.
+## * Hosszú távú vizsgálatok során, ha az egyedenként rendelkezésre álló élettér a vizsgálatok vége felé nem éri el a fent meghatározott nagyságot, különösen ügyelni kell a szilárd közösségi szerkezetek fenntartására.
 
-** Az anya és az alom. Ezt minden további, a tartási helyre állandó jelleggel bevitt kifejlett állat esetén 400 cm2-rel meg kell növelni.
+## ** Az anya és az alom. Ezt minden további, a tartási helyre állandó jelleggel bevitt kifejlett állat esetén 400 cm2-rel meg kell növelni.
 
-*** Elválasztott patkányok az elválasztástól az alom elhagyásáig terjedő rövid ideig tarthatók a fenti nagyobb állománysűrűségben, feltéve, hogy az állatokat nagyobb és megfelelően ingergazdag tartási helyen tartják, és ezek az elhelyezési körülmények nem eredményeznek olyan állatjóléti hiányosságokat, mint például a megnövekedett agresszivitás, megbetegedés vagy elhullás, sztereotípiák és más viselkedészavarok, testtömegvesztés, illetve egyéb élettani vagy magatartásbeli stresszreakciók.
+## *** Elválasztott patkányok az elválasztástól az alom elhagyásáig terjedő rövid ideig tarthatók a fenti nagyobb állománysűrűségben, feltéve, hogy az állatokat nagyobb és megfelelően ingergazdag tartási helyen tartják, és ezek az elhelyezési körülmények nem eredményeznek olyan állatjóléti hiányosságokat, mint például a megnövekedett agresszivitás, megbetegedés vagy elhullás, sztereotípiák és más viselkedészavarok, testtömegvesztés, illetve egyéb élettani vagy magatartásbeli stresszreakciók.
 
 1.3. táblázat
 
@@ -248,7 +248,7 @@ Futóegerek
 
 | Tenyésztés |  | 1200 (*) |  | 18 |
 
-* Monogám pár vagy hármas, utóddal.
+## * Monogám pár vagy hármas, utóddal.
 
 1.4. táblázat
 
@@ -266,9 +266,9 @@ Hörcsögök
 
 | Tenyésztői állomány (**) | kevesebb, mint 60 | 1500 | 100 | 14 |
 
-* Anya vagy monogám pár az alommal együtt.
+## * Anya vagy monogám pár az alommal együtt.
 
-** Elválasztott hörcsögök az elválasztástól az alom elhagyásáig terjedő rövid ideig tarthatók a fenti nagyobb állománysűrűségben, feltéve, hogy az állatokat nagyobb és megfelelően ingergazdag tartási helyen tartják, és ezek az elhelyezési körülmények nem eredményeznek olyan állatjóléti hiányosságokat, mint például a megnövekedett agresszivitás, megbetegedés vagy elhullás, sztereotípiák és más viselkedészavarok, testtömegvesztés, illetve egyéb élettani vagy magatartásbeli stresszreakciók.
+## ** Elválasztott hörcsögök az elválasztástól az alom elhagyásáig terjedő rövid ideig tarthatók a fenti nagyobb állománysűrűségben, feltéve, hogy az állatokat nagyobb és megfelelően ingergazdag tartási helyen tartják, és ezek az elhelyezési körülmények nem eredményeznek olyan állatjóléti hiányosságokat, mint például a megnövekedett agresszivitás, megbetegedés vagy elhullás, sztereotípiák és más viselkedészavarok, testtömegvesztés, illetve egyéb élettani vagy magatartásbeli stresszreakciók.
 
 1.5. táblázat
 
@@ -288,7 +288,7 @@ Tengerimalacok
 
 | Tenyésztés |  | 2500 (*) |  | 23 |
 
-* Pár az alommal együtt. Ezt minden további tenyésznőstény esetén 1000 cm2-rel meg kell növelni.
+## * Pár az alommal együtt. Ezt minden további tenyésznőstény esetén 1000 cm2-rel meg kell növelni.
 
 2. Nyulak
 
@@ -364,7 +364,7 @@ Az etető és az alomtálca helyeit egymástól legalább 0,5 méter távolságr
 
 | Minden egyes további állatnál még | 0,75 | 0,25 | – |
 
-* Polcok nélkül számolt alapterület.
+## * Polcok nélkül számolt alapterület.
 
 4. Kutyák
 
@@ -440,9 +440,9 @@ Selyemmajmok
 
 | 0,5 | 0,2 | 1,5 |
 
-* Az állatok csak rendkívüli körülmények között tarthatók egymagukban.
+## * Az állatok csak rendkívüli körülmények között tarthatók egymagukban.
 
-** A tartási hely tetejének a padlótól legalább 1,8 m-re kell lennie.
+## ** A tartási hely tetejének a padlótól legalább 1,8 m-re kell lennie.
 
 6.2. táblázat
 
@@ -454,15 +454,15 @@ Makákók (*)
 
 | 3 éves vagy idősebb állatok (***) | 2 | 3,6 | 1,8 | 1,8 |
 
-* Az állatok csak rendkívüli körülmények között tarthatók egymagukban.
+## * Az állatok csak rendkívüli körülmények között tarthatók egymagukban.
 
-** A legkisebb nagyságú tartási helyen legfeljebb három egyed tartható.
+## ** A legkisebb nagyságú tartási helyen legfeljebb három egyed tartható.
 
-*** A legkisebb nagyságú tartási helyen legfeljebb két egyed tartható.
+## *** A legkisebb nagyságú tartási helyen legfeljebb két egyed tartható.
 
-6.2.
+## 6.2.
 
-3 m2-nél kisebb férőhelyen főemlőst tartani tilos. Csoportos tartás esetén az egyedenként biztosítandó területnek legalább 2 m2 nagyságúnak kell lennie. Biztosítani kell az állatok számára külső kifutóhoz való hozzáférést. A külső kifutónak 1–8 egyed esetén legalább 16 m2 területűnek kell lennie, minden további egyed elhelyezésekor 3 m2-rel növelni kell a kifutó méretét. A külső kifutón elérhetővé kell tenni az állatok számára manipulálható anyagot. A tartási hely és a külső kifutó magasságának legalább 3 m-nek kell lennie.
+## 3 m2-nél kisebb férőhelyen főemlőst tartani tilos. Csoportos tartás esetén az egyedenként biztosítandó területnek legalább 2 m2 nagyságúnak kell lennie. Biztosítani kell az állatok számára külső kifutóhoz való hozzáférést. A külső kifutónak 1–8 egyed esetén legalább 16 m2 területűnek kell lennie, minden további egyed elhelyezésekor 3 m2-rel növelni kell a kifutó méretét. A külső kifutón elérhetővé kell tenni az állatok számára manipulálható anyagot. A tartási hely és a külső kifutó magasságának legalább 3 m-nek kell lennie.
 
 7. Haszonállatok
 
@@ -526,7 +526,7 @@ Sertések és törpesertések
 
 | Kifejlett (házi sertés) kanok | 7,5 |  | 1,3 |
 
-* A sertések élettere állat-egészségügyi vagy kísérleti indokkal – ha például külön élelmet kell fogyasztaniuk – rövid időszakokra kisebb tartási helyre is korlátozható, például a fő tartási hely térelválasztókkal történő leválasztásával.
+## * A sertések élettere állat-egészségügyi vagy kísérleti indokkal – ha például külön élelmet kell fogyasztaniuk – rövid időszakokra kisebb tartási helyre is korlátozható, például a fő tartási hely térelválasztókkal történő leválasztásával.
 
 7.4. táblázat
 
@@ -544,7 +544,7 @@ Az állattartó hely legrövidebb oldalának legalább az állat marmagassága m
 
 | 1,6 felett | 16 | a marmagasság kétszerese (*) | 20 | 3 |
 
-* A megfelelő élettér biztosítása érdekében az egyes állatok helyigényének alapja a marmagasság.
+## * A megfelelő élettér biztosítása érdekében az egyes állatok helyigényének alapja a marmagasság.
 
 8. Madarak
 
@@ -634,9 +634,9 @@ Ha tudományos okokból nincs mód a tartási helyek alábbiakban részletezett 
 
 | 2000 felett | 2 | 0,5 | 200 | 15 |
 
-* A tartási hely minden 2 m2-e után legalább 0,5 m2 területű, legkevesebb 30 cm mély úsztatót is magában foglal. Az úsztató területe a tartási hely legkisebb alapterületének legfeljebb 50%-át teheti ki.
+## * A tartási hely minden 2 m2-e után legalább 0,5 m2 területű, legkevesebb 30 cm mély úsztatót is magában foglal. Az úsztató területe a tartási hely legkisebb alapterületének legfeljebb 50%-át teheti ki.
 
-** A még nem repülő madarak 75 cm legkisebb magasságú tartási területen tarthatók.
+## ** A még nem repülő madarak 75 cm legkisebb magasságú tartási területen tarthatók.
 
 8.5. táblázat
 
@@ -648,7 +648,7 @@ Kacsa és liba: az úsztatók legkisebb nagysága (*)
 
 | Liba | 0,5 | 10–30 |
 
-* Az úsztató nagysága a tartási hely minden 2 m2-ére számítva értendő. Az úsztató területe a tartási hely legkisebb alapterületének legfeljebb 50%-át teheti ki.
+## * Az úsztató nagysága a tartási hely minden 2 m2-ére számítva értendő. Az úsztató területe a tartási hely legkisebb alapterületének legfeljebb 50%-át teheti ki.
 
 8.6. táblázat
 
@@ -698,7 +698,7 @@ Vízi farkos kétéltűek
 
 | 30 felett | 3150 | 800 | 20 |
 
-* Az orrától a kloákáig mérve.
+## * Az orrától a kloákáig mérve.
 
 9.2. táblázat
 
@@ -714,9 +714,9 @@ Vízi békák (*)
 
 | 12 felett | 920 | 230 | 12,5 |
 
-* Ezek az ajánlások vonatkoznak az állattartó (azaz tenyésztő) medencékre, de nem vonatkoznak a természetes pároztatásra vagy a hatékonysági megfontolásból végzett szuperovulációhoz használtakra, mivel ezekhez kisebb egyedi medencék szükségesek. A megadott méretek a kifejlett egyedek helyigényére vonatkoznak; a fiatal egyedeket és az ebihalakat vagy ki kell zárni, vagy pedig a méreteket arányosan meg kell változtatni.
+## * Ezek az ajánlások vonatkoznak az állattartó (azaz tenyésztő) medencékre, de nem vonatkoznak a természetes pároztatásra vagy a hatékonysági megfontolásból végzett szuperovulációhoz használtakra, mivel ezekhez kisebb egyedi medencék szükségesek. A megadott méretek a kifejlett egyedek helyigényére vonatkoznak; a fiatal egyedeket és az ebihalakat vagy ki kell zárni, vagy pedig a méreteket arányosan meg kell változtatni.
 
-** Az orrtól a kloákáig mérve.
+## ** Az orrtól a kloákáig mérve.
 
 9.3. táblázat
 
@@ -730,11 +730,11 @@ Félvízi békák
 
 | 7,5 felett | 4000 | 700 | 30 | 15 |
 
-* Az orrtól a kloákáig mérve.
+## * Az orrtól a kloákáig mérve.
 
-** Egyharmad föld, kétharmad víz arányú megoszlás, az állatok alámerülésének lehetővé tételével.
+## ** Egyharmad föld, kétharmad víz arányú megoszlás, az állatok alámerülésének lehetővé tételével.
 
-*** Az elválasztó földközeg felszínétől a terrárium tetejének belső részéig mérve; a magasság meghatározásakor emellett figyelembe kell venni a tartási hely belső kialakítását is.
+## *** Az elválasztó földközeg felszínétől a terrárium tetejének belső részéig mérve; a magasság meghatározásakor emellett figyelembe kell venni a tartási hely belső kialakítását is.
 
 9.4. táblázat
 
@@ -748,11 +748,11 @@ Félszárazföldi békák
 
 | 7,5 felett | 4000 | 700 | 30 | 15 |
 
-* Az orrtól a kloákáig mérve.
+## * Az orrtól a kloákáig mérve.
 
-** Kétharmad föld, egyharmad víz arányú megoszlás, az állatok alámerülésének lehetővé tételével.
+## ** Kétharmad föld, egyharmad víz arányú megoszlás, az állatok alámerülésének lehetővé tételével.
 
-*** Az elválasztó földközeg felszínétől a terrárium tetejének belső részéig mérve; a magasság meghatározásakor emellett figyelembe kell venni a tartási hely belső kialakítását is.
+## *** Az elválasztó földközeg felszínétől a terrárium tetejének belső részéig mérve; a magasság meghatározásakor emellett figyelembe kell venni a tartási hely belső kialakítását is.
 
 9.5. táblázat
 
@@ -764,11 +764,11 @@ Fán élő békák
 
 | 3 felett | 1500 | 200 | 30 |
 
-* Az orrtól a kloákáig mérve.
+## * Az orrtól a kloákáig mérve.
 
-** Kétharmad föld, egyharmad víz arányú megoszlás elegendő, az állatok alámerülésének lehetővé tételével.
+## ** Kétharmad föld, egyharmad víz arányú megoszlás elegendő, az állatok alámerülésének lehetővé tételével.
 
-*** Az elválasztó földközeg felszínétől a terrárium tetejének belső részéig mérve; a magasság meghatározásakor emellett figyelembe kell venni a tartási hely belső kialakítását is.
+## *** Az elválasztó földközeg felszínétől a terrárium tetejének belső részéig mérve; a magasság meghatározásakor emellett figyelembe kell venni a tartási hely belső kialakítását is.
 
 10. Hüllők
 
@@ -790,7 +790,7 @@ Vízi teknősök
 
 | 30 felett | 20000 | 5000 | 40 |
 
-* A páncél elülső végétől a hátsó végéig, egyenes vonalban mérve.
+## * A páncél elülső végétől a hátsó végéig, egyenes vonalban mérve.
 
 10.2. táblázat
 
@@ -808,9 +808,9 @@ Szárazföldi kígyók
 
 | 75 felett | 2500 | 1200 | 28 |
 
-* Az orrtól a farokig mérve.
+## * Az orrtól a farokig mérve.
 
-** Az elválasztó földközeg felszínétől a terrárium tetejének belső részéig mérve; a magasság meghatározásakor emellett figyelembe kell venni a tartási hely belső kialakítását is.
+## ** Az elválasztó földközeg felszínétől a terrárium tetejének belső részéig mérve; a magasság meghatározásakor emellett figyelembe kell venni a tartási hely belső kialakítását is.
 
 11. Halak
 
