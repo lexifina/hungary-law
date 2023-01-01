@@ -3,3 +3,5 @@
 a) megelőző orvostan és népegészségtan szakvizsgával vagy közegészségtan-járványtan szakvizsgával rendelkezik, vagy
 
 b) írásban vállalja a megbízást követő 5 éven belül a megelőző orvostan és népegészségtan szakvizsga letételét
+
+és rendelkezik legalább 10 éves rendvédelmi gyakorlattal.
