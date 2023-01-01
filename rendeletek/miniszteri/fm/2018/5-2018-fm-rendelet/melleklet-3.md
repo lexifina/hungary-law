@@ -1,4 +1,4 @@
-## Határidő-kimutatás az adott évi őszi és a következő év tavaszi állapotminősítésekhez
+## 8K01086A_0
 
 |  | Növénykultúra | Állapotminősítés elvégzésének kezdete | Jelentés megküldése a miniszter részére |
 
@@ -23,3 +23,5 @@
 | 10. | Őszi káposztarepce |
 
 3. melléklet az 5/2018. (II. 23.) FM rendelethez
+
+Tavaszi, nyári és őszi mezőgazdasági munkák állásáról szóló jelentés adattartalma

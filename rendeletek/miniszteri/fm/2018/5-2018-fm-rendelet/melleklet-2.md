@@ -1,4 +1,4 @@
-## Határidő-kimutatás az adott évi termésbecsléshez
+## 8K01085_0
 
 |  | Növénykultúra | Termésbecslés elvégzésének kezdete | Jelentés megküldése a miniszter részére |
 
@@ -101,3 +101,5 @@
 ## Jelmagyarázat: (E) előzetes termésbecslés, (V) végleges termésbecslés
 
 2. melléklet az 5/2018. (II. 23.) FM rendelethez
+
+Határidő-kimutatás az adott évi őszi és a következő év tavaszi állapotminősítésekhez

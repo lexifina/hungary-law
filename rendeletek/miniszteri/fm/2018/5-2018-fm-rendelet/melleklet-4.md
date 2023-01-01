@@ -1,6 +1,6 @@
-## Tavaszi, nyári és őszi mezőgazdasági munkák állásáról szóló jelentés adattartalma
-
 ## A) Tavaszi munkák jelentése
+
+## 8K01086B_0
 
 | Növénykultúra (vetés) | Vetési szándék (ha) | Elvégzett munka (ha) | Tény/szándék (%) |
 
@@ -36,6 +36,8 @@
 
 ## B) Nyári munkák jelentése
 
+## 8K01086B_1
+
 | Növénykultúra (betakarítás) | Összes terület (ha) | Betakarított terület (ha) | Betakarított terület (%) | Termésátlag (kg/ha) | Összes termés (tonna) |
 
 | Őszi árpa |  |  |  |  |  |
@@ -63,6 +65,8 @@
 | Tarlóhántás |  |  |  |  |  |
 
 ## C) Őszi munkák jelentése
+
+## 8K01086B_2
 
 | Növénykultúra (betakarítás) | Összes terület (ha) | Betakarított terület (ha) | Betakarított terület (%) | Termésátlag (kg/ha) | Összes termés (tonna) |
 
@@ -94,7 +98,7 @@
 
 | Őszi mélyszántás tavasziak alá |  |  |  |  |  |
 
-4. melléklet az 5/2018. (II. 23.) FM rendelethez[^8]
+4. melléklet az 5/2018. (II. 23.) FM rendelethez[^16]
 
 Határidő-kimutatás az adott évi mezőgazdasági munkák állásáról szóló tájékoztató jelentéshez
 
@@ -112,4 +116,4 @@ Határidő-kimutatás az adott évi mezőgazdasági munkák állásáról szól�
 
 | 6. | Őszi tájékoztató jelentés | november 12. | T+4 nap |
 
-[^8]: A 4. melléklet a 17/2019. (V. 10.) AM rendelet 9. § b) pontja, a 3/2021. (II. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^16]: A 4. melléklet a 17/2019. (V. 10.) AM rendelet 9. § b) pontja, a 3/2021. (II. 19.) AM rendelet 10. § b) pontja szerint módosított szöveg.
