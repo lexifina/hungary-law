@@ -1,5 +1,3 @@
-## A Beruházás által érintett ingatlanok
-
 |  | A | B |
 
 | 1. | A település megnevezése | A Beruházás megvalósításának helyszíne (helyrajzi szám) |
@@ -282,7 +280,7 @@
 
 2. melléklet a 685/2020. (XII. 28.) Korm. rendelethez
 
-## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. vízügyi- és vízvédelmi hatósági eljárások,
 
@@ -298,7 +296,7 @@
 
 7. útügyi hatósági eljárások,
 
-8. az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági eljárások,
+8.[^1] az ágazati jogszabály alapján a fővárosi és vármegyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági eljárások,
 
 9. hírközlési hatósági eljárások,
 
@@ -327,3 +325,5 @@
 21. azok az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. mellékletben felsorolt ingatlanokon tervezett beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 22. az 1–21. pontokban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^1]: A 2. melléklet 8. pontja az 546/2022. (XII. 22.) Korm. rendelet 269. §-a szerint módosított szöveg.
