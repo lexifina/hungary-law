@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-68-20-8
 | 2014-12-17 | 2007-68-20-82.9 | 32/2014. (XII. 9.) FM rendelet |
 | 2017-08-18 | 2007-68-20-82.10 | 42/2017. (VIII. 17.) FM rendelet |
 | 2020-09-28 | 2007-68-20-82.11 | 42/2017. (VIII. 17.) FM rendelet |
+| 2023-01-01 | 2007-68-20-82.12 | 42/2017. (VIII. 17.) FM rendelet |
