@@ -16,13 +16,13 @@
 
 ## 2. Hitelviszonyt megtestesítő értékpapír anya- és leányvállalattól, anya- és leányvállalatnak adott kölcsön
 
-## 3.[^149] Tulajdoni részesedést jelentő befektetés közös vezetésű vállalkozásban
+## 3.[^150] Tulajdoni részesedést jelentő befektetés közös vezetésű vállalkozásban
 
-## 4.[^150] Hitelviszonyt megtestesítő értékpapír közös vezetésű vállalkozástól, közös vezetésű vállalkozásnak adott kölcsön
+## 4.[^151] Hitelviszonyt megtestesítő értékpapír közös vezetésű vállalkozástól, közös vezetésű vállalkozásnak adott kölcsön
 
 ## III. Egyéb befektetések
 
-## 1.[^151] Tulajdoni részesedést jelentő befektetés jelentős tulajdoni és egyéb részesedési viszonyban lévő vállalkozásban
+## 1.[^152] Tulajdoni részesedést jelentő befektetés jelentős tulajdoni és egyéb részesedési viszonyban lévő vállalkozásban
 
 ## 2. Hitelviszonyt megtestesítő értékpapír (II/2. és II/4. kivételével)
 
@@ -44,7 +44,7 @@
 
 ## C. A befektetési egységekhez kötött (unit-linked) életbiztosítások szerződői javára végrehajtott befektetések
 
-## D. Követelések[^152]
+## D. Követelések[^153]
 
 ## I. Közvetlen biztosítási tevékenységből származó követelések
 
@@ -124,7 +124,7 @@
 
 ## FORRÁSOK (passzívák)
 
-## A. Saját tőke[^153]
+## A. Saját tőke[^154]
 
 ## I. Jegyzett tőke
 
@@ -150,7 +150,7 @@
 
 ## B. Alárendelt kölcsöntőke
 
-## C.[^154] Biztosítástechnikai tartalékok
+## C.[^155] Biztosítástechnikai tartalékok
 
 ## 1. Meg nem szolgált díjak tartaléka [a)+b)]
 
@@ -218,7 +218,7 @@
 
 ## 6. Egyéb tartalékok [a)+b)+c)]
 
-## a)[^155]
+## a)[^156]
 
 ## b) törlési tartalék [ba)+bb)]
 
@@ -248,7 +248,7 @@
 
 ## F. Viszontbiztosítóval szembeni letéti kötelezettségek
 
-## G. Kötelezettségek[^156]
+## G. Kötelezettségek[^157]
 
 ## I. Kötelezettségek közvetlen biztosítási tevékenységből
 
@@ -310,14 +310,14 @@
 
 ## 3. Halasztott bevételek
 
-2. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^157]
+2. számú melléklet a 192/2000. (XI. 24.) Korm. rendelethez[^158]
 
-[^149]: A 1. számú melléklet „A biztosítók mérlegének előírt tagolása” címben az „ESZKÖZÖK (AKTÍVÁK)” alcím „B. Befektetések” főcsoport „II. Befektetések kapcsolt vállalkozásokban” fősor 3. sora a 480/2016. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^150]: A 1. számú melléklet „A biztosítók mérlegének előírt tagolása” címben az „ESZKÖZÖK (AKTÍVÁK)” alcím „B. Befektetések” főcsoport „II. Befektetések kapcsolt vállalkozásokban” fősor 4. sora a 480/2016. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^151]: A 1. számú melléklet „A biztosítók mérlegének előírt tagolása” címben az „ESZKÖZÖK (AKTÍVÁK)” alcím „B. Befektetések” főcsoport „III. Egyéb befektetések” fősor 1. sora a 480/2016. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^152]: Az 1. számú melléklet „Eszközök (aktívák)” alcím „D. Követelések” pontja a 484/2015. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^153]: Az 1. számú melléklet „Források (passzívák)” alcím „A. Saját tőke” pontja a 484/2015. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^154]: Az 1. számú melléklet FORRÁSOK (passzívák) részének C. főcsoportja a 334/2005. (XII. 29.) Korm. rendelet 30. §-ával megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
-[^155]: Az 1. számú melléklet FORRÁSOK (passzívák) cím C. Biztosítástechnikai tartalékok pont 6. Egyéb tartalékok pont a) alpontját a 295/2015. (X. 8.) Korm. rendelet 15. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^156]: Az 1. számú melléklet „Források (passzívák)” alcím „G. Kötelezettségek” pontja a 484/2015. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^157]: A 2. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a és 14. § (5) bekezdése, valamint a 334/2005. (XII. 29.) Korm. rendelet 30. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 37. § (1)–(2) bekezdése alapján rendelkezéseit először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^150]: A 1. számú melléklet „A biztosítók mérlegének előírt tagolása” címben az „ESZKÖZÖK (AKTÍVÁK)” alcím „B. Befektetések” főcsoport „II. Befektetések kapcsolt vállalkozásokban” fősor 3. sora a 480/2016. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^151]: A 1. számú melléklet „A biztosítók mérlegének előírt tagolása” címben az „ESZKÖZÖK (AKTÍVÁK)” alcím „B. Befektetések” főcsoport „II. Befektetések kapcsolt vállalkozásokban” fősor 4. sora a 480/2016. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^152]: A 1. számú melléklet „A biztosítók mérlegének előírt tagolása” címben az „ESZKÖZÖK (AKTÍVÁK)” alcím „B. Befektetések” főcsoport „III. Egyéb befektetések” fősor 1. sora a 480/2016. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^153]: Az 1. számú melléklet „Eszközök (aktívák)” alcím „D. Követelések” pontja a 484/2015. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^154]: Az 1. számú melléklet „Források (passzívák)” alcím „A. Saját tőke” pontja a 484/2015. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^155]: Az 1. számú melléklet FORRÁSOK (passzívák) részének C. főcsoportja a 334/2005. (XII. 29.) Korm. rendelet 30. §-ával megállapított szöveg. E módosító rendelet 37. § (1)–(2) bekezdése alapján a rendelkezést először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.
+[^156]: Az 1. számú melléklet FORRÁSOK (passzívák) cím C. Biztosítástechnikai tartalékok pont 6. Egyéb tartalékok pont a) alpontját a 295/2015. (X. 8.) Korm. rendelet 15. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^157]: Az 1. számú melléklet „Források (passzívák)” alcím „G. Kötelezettségek” pontja a 484/2015. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^158]: A 2. számú melléklet a 235/2003. (XII. 17.) Korm. rendelet 13. §-a és 14. § (5) bekezdése, valamint a 334/2005. (XII. 29.) Korm. rendelet 30. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 37. § (1)–(2) bekezdése alapján rendelkezéseit először a 2006. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2005. évi üzleti évről készített beszámolóra is alkalmazható.

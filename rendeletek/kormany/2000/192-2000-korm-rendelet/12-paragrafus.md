@@ -12,7 +12,7 @@ c) a matematikai tartalékok biztosítási áganként, ágazatonként,
 
 d)[^77] a matematikai tartalékok fedezetének elkülönítése
 
-## legalább negyedévenként (ha más jogszabály ettől eltérően nem rendelkezik) elszámolásra és kimutatásra kerüljenek.
+legalább negyedévenként (ha más jogszabály ettől eltérően nem rendelkezik) elszámolásra és kimutatásra kerüljenek.
 
 (3)[^78] A (2) bekezdésben foglaltakon túl élet- és nem-életbiztosítási ág, valamint nem biztosítási tevékenység bontásban – az elkülönítés belső szabályzatának megfelelően – elkülönítetten kell kezelni és nyilvántartani az eszközöket, a forrásokat, a költségeket, a ráfordításokat és a bevételeket. Ha az előző tételek külön nyilvántartása a felmerüléskor nem oldható meg, az elkülönítés belső szabályzatában kell rögzíteni az élet- és nem-életbiztosítási ágra, valamint a nem biztosítási tevékenységre történő felosztás módszerét. A biztosítási ágak költségeinek, ráfordításainak és bevételeinek elkülönítését ágazati szinten is biztosítani kell.
 

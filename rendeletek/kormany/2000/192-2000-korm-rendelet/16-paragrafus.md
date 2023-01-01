@@ -14,7 +14,7 @@ a)[^127] a fölérendelt anyavállalat szabályozott vállalkozás, vagy biztos�
 
 b)[^128]
 
-c)[^129] a mentesülő biztosító éves beszámolójának kiegészítő mellékletében vagy a fölérendelt anyavállalat összevont (konszolidált) éves beszámolójának kiegészítő mellékletében bemutatásra kerülnek a mentesülő biztosító alá tartozó konszolidációs körön belüli kapcsolt vállalkozások befektetett eszközeinek, bevételeinek, tárgyévi üzleti eredményének, saját tőkéjének és foglalkoztatott munkavállalói átlagos létszámának összesített adatai.
+c)[^129] a mentesülő biztosító éves beszámolójának kiegészítő mellékletében vagy a fölérendelt anyavállalat összevont (konszolidált) éves beszámolójának kiegészítő mellékletében bemutatásra kerülnek a mentesülő biztosító alá tartozó konszolidációs körön belüli kapcsolt vállalkozások befektetett eszközeinek, bevételeinek, tárgyévi üzleti eredményének, saját tőkéjének és foglalkoztatott munkavállalói átlagos statisztikai állományi létszámának összesített adatai.
 
 A Tv. 116. §-a (1) bekezdésének b) pontja a biztosító mentesítésére nem alkalmazható.
 
@@ -46,7 +46,7 @@ bg) a konszolidációnál alkalmazott mentesítéseket.
 [^126]: A 16. § (4) bekezdését a 347/2004. (XII. 22.) Korm. rendelet 17. §-a iktatta be, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
 [^127]: A 16. § (4) bekezdés a) pontja a 382/2012. (XII. 18.) Korm. rendeet 8. §-ával megállapított szöveg.
 [^128]: A 16. § (4) bekezdés b) pontját a 382/2012. (XII. 19.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
-[^129]: A 16. § (4) bekezdés c) pontja a 616/2020. (XII. 21.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^129]: A 16. § (4) bekezdés c) pontja a 616/2020. (XII. 21.) Korm. rendelet 2. §-a, a 603/2022. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^130]: A 16. § (5) bekezdését a 347/2004. (XII. 22.) Korm. rendelet 17. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 194. §-a, a 46/2015. (III. 12.) Korm. rendelet 1. § (4) bekezdés j) pontja szerint módosított szöveg.
 [^131]: A 16. § (6) bekezdését a 347/2004. (XII. 22.) Korm. rendelet 17. §-a iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 194. §-a, a 46/2015. (III. 12.) Korm. rendelet 1. § (4) bekezdés k)–l) pontja szerint módosított szöveg.
 [^132]: A 16. § (7) bekezdését a 347/2004. (XII. 22.) Korm. rendelet 17. §-a iktatta be, e módosító rendelet 19. §-ának (1) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni.

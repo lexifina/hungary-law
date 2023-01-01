@@ -22,7 +22,7 @@ ac) negatív értékelési különbözetet életbiztosítási ágnál a befektet
 
 ad) záráskor realizált árfolyamveszteségét életbiztosítási ágnál a befektetésekből származó biztosítástechnikai ráfordításokon belül a befektetések értékesítésének árfolyamvesztesége, befektetések egyéb ráfordításaként, illetve nem élet biztosítási ágnál a nem biztosítástechnikai elszámolásokon belül a befektetések értékesítésének árfolyamvesztesége, befektetések egyéb ráfordításaként
 
-## kell elszámolni;
+kell elszámolni;
 
 b) a kamatfedezeti céllal kötött valós érték fedezeti ügyletekhez kapcsolódó
 
@@ -34,7 +34,7 @@ bc) negatív értékelési különbözetet életbiztosítási ágnál a befektet
 
 bd) záráskor realizált árfolyamveszteséget a bc) pont szerint
 
-## kell elszámolni;
+kell elszámolni;
 
 c) a nem kamatfedezeti céllal kötött valós érték fedezeti ügyletekhez kapcsolódó
 
@@ -46,7 +46,7 @@ cc) negatív értékelési különbözetet életbiztosítási ágnál a befektet
 
 cd) záráskor realizált árfolyamveszteségét életbiztosítási ágnál a befektetésekből származó biztosítástechnikai bevételeken belül a befektetések értékesítésének árfolyamnyeresége, befektetések egyéb bevételeit csökkentő tételként, illetve nem életbiztosítási ágnál a nem biztosítástechnikai elszámolásokon belül a befektetések értékesítésének árfolyamnyeresége, befektetések egyéb bevételeit csökkentő tételként
 
-## kell elszámolni;
+kell elszámolni;
 
 d) a kamatfedezeti céllal kötött cash-flow fedezeti kamat-swap ügyletekhez kapcsolódó
 
@@ -58,7 +58,7 @@ dc) negatív értékelési különbözetet életbiztosítási, illetve nem élet
 
 dd) záráskor realizált árfolyamveszteséget a bc) pont szerint
 
-## kell elszámolni;
+kell elszámolni;
 
 e) a nem kamatfedezeti céllal kötött, eszköz, illetve kötelezettség keletkezésével nem járó (eredménnyel záruló) alapügyletet fedező cash-flow fedezeti ügyletekhez kapcsolódó
 
@@ -70,7 +70,7 @@ ec) negatív értékelési különbözetet életbiztosítási, illetve nem élet
 
 ed) záráskor realizált árfolyamveszteséget életbiztosítási, illetve nem életbiztosítási ágnál a cd) pont szerint
 
-## kell elszámolni;
+kell elszámolni;
 
 f) a nem kamatfedezeti céllal kötött, eszköz, illetve kötelezettség keletkezésével járó alapügyletet fedező cash-flow fedezeti ügyletekhez kapcsolódó
 
@@ -82,7 +82,7 @@ fc) negatív értékelési különbözetet életbiztosítási, illetve nem élet
 
 fd) záráskor realizált árfolyamveszteséget életbiztosítási, illetve nem életbiztosítási ágnál az alapügylet zárásakor keletkező eszköz értékét növelő, kötelezettség értékét csökkentő tételként
 
-## kell elszámolni;
+kell elszámolni;
 
 g) a külföldi gazdálkodó szervezetben lévő nettó befektetés fedezeti ügyletéhez kapcsolódó
 
@@ -94,7 +94,7 @@ gc) negatív értékelési különbözetet életbiztosítási és nem életbizto
 
 gd) záráskor realizált árfolyamveszteséget életbiztosítási és nem életbiztosítási ágnál a cd) pont szerint
 
-## kell elszámolni.
+kell elszámolni.
 
 (7)[^94] A valós értéken történő értékelés esetén a saját tőkéhez (nem biztosítás-technikai tartalékokhoz) kapcsolódó befektetésként eszközölt származékos ügyletek értékeléskori és záráskori eredményének elszámolására a (6) bekezdésben meghatározott, a nem életbiztosítási ághoz kapcsolódó ügyletekre vonatkozó előírásokat kell alkalmazni.
 
