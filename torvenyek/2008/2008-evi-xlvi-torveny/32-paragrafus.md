@@ -74,7 +74,7 @@ e) biztosítja a növényvédelmi gépek műszaki felülvizsgálatára vonatkoz�
 
 (4a) A 17. § (4) bekezdésében foglalt kötelezettséggel összefüggésben tett közérdekű bejelentés esetében 5 napon belül kell a helyszíni ellenőrzést lefolytatni és a közérdekű bejelentést elbírálni.
 
-(5) Az élelmiszerlánc-felügyeleti szerv országos hatáskörben a több megyét érintő vagy nemzetközi vonatkozásokkal bíró, a nagy gazdasági kárral járó, a fogyasztók széles körét veszélyeztető, élelmiszerlánc-események kivizsgálása, valamint az élelmiszerlánc-felügyeleti díj megfizetésének ellenőrzése során
+(5) Az élelmiszerlánc-felügyeleti szerv országos hatáskörben a több vármegyét érintő vagy nemzetközi vonatkozásokkal bíró, a nagy gazdasági kárral járó, a fogyasztók széles körét veszélyeztető, élelmiszerlánc-események kivizsgálása, valamint az élelmiszerlánc-felügyeleti díj megfizetésének ellenőrzése során
 
 a) ellenőrzi a kockázatbecslés alapján kiemelten kockázatosnak minősített, élelmiszerláncot érintő tevékenységet végzőket, és azok létesítményeit;
 
