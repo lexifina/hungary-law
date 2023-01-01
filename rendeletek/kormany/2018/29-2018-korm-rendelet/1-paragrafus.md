@@ -1,4 +1,4 @@
-## 1. §[^1] Az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) közigazgatási bírság fizetésére kötelezi
+## 1. §[^1] Az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) közigazgatási bírság fizetésére kötelezi
 
 a)[^2] azt a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 58. § (5) bekezdés c) pontjában meghatározott munkaadót, aki az Flt. 56/A. § (1) bekezdés a) pontjában meghatározott kötelezettségszegést követ el, vagy a munka törvénykönyvéről szóló 2012. évi I. törvény 75. §-ában, a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 67. §-ában, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 110. §-ában, valamint a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 38. §-ában előírtaknak megfelelően – a csoportos létszámcsökkentéssel kapcsolatban – a kormányhivatal részére történő tájékoztatási kötelezettségének nem vagy nem a meghatározott időpontban, továbbá hiányos vagy valótlan adattartalommal tett eleget;
 
@@ -10,9 +10,9 @@ bb) a munkaerő-kölcsönzési és a magán-munkaközvetítői tevékenység nyi
 
 c)[^3] azt, aki a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvényben (a továbbiakban: Fftv.), valamint a felhatalmazása alapján más jogszabályban meghatározott foglalkoztatást elősegítő támogatásban részesül, és az erről szóló véglegessé vált határozatban előírt nyilvántartási, adatszolgáltatási kötelezettségének nem tett eleget,
 
-d)[^4] az Flt. 58. § (5) bekezdés c) pontjában meghatározott munkaadót, ha a harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló kormányrendeletben meghatározott bejelentési kötelezettségének nem tett eleget.
+d)[^4] az Flt. 58. § (5) bekezdés c) pontjában meghatározott munkaadót, ha a harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és vármegyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló kormányrendeletben meghatározott bejelentési kötelezettségének nem tett eleget.
 
-[^1]: Az 1. § nyitó szövegrésze a 713/2020. (XII. 30.) Korm. rendelet 61. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § nyitó szövegrésze a 713/2020. (XII. 30.) Korm. rendelet 61. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 285. §-a szerint módosított szöveg.
 [^2]: Az 1. § a) pontja a 47/2019. (III. 12.) Korm. rendelet 13. §-a szerint módosított szöveg.
 [^3]: Az 1. § c) pontja a 101/2021. (II. 27.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^4]: Az 1. § d) pontját a 101/2021. (II. 27.) Korm. rendelet 13. §-a iktatta be.
+[^4]: Az 1. § d) pontját a 101/2021. (II. 27.) Korm. rendelet 13. §-a iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 285. §-a szerint módosított szöveg.
