@@ -1,6 +1,6 @@
 ## A Tápió-Hajta Vidéke Tájvédelmi Körzet ingatlan-nyilvántartási helyrajzi számai
 
-## Pest megye
+## Pest vármegye
 
 ## Farmos
 
@@ -36,7 +36,7 @@
 
 ## Belterület: 2469/1, 2470
 
-## Jász-Nagykun-Szolnok megye
+## Jász-Nagykun-Szolnok vármegye
 
 ## Újszász
 
