@@ -1,4 +1,4 @@
-## A részletpontok meghatározott helyzete és az ellenőrző mérésből számított helyzet közötti megengedett eltérés
+## 3K04268_0
 
 | A részletpontok rendűsége | Belterület | Külterület |
 
@@ -22,7 +22,7 @@
 
 18. melléklet a 15/2013. (III. 11.) VM rendelethez
 
-## Irány- és távmérés alkalmazásával végzett pontmeghatározások vizsgálati jegyzőkönyve
+Irány- és távmérés alkalmazásával végzett pontmeghatározások vizsgálati jegyzőkönyve
 
 1. A munkát végző cég/személy:
 

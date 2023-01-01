@@ -1,6 +1,6 @@
 6. melléklet a 15/2013. (III. 11.) VM rendelethez
 
-## Az INGA pontok országos számozása
+Az INGA pontok országos számozása
 
 1. A pontszám első része az 1:100 000-es méretarányú EOTR térképszelvény száma, majd a kötőjel után 9-es szám és egy három karakteres szám következik.
 

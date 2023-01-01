@@ -1,4 +1,4 @@
-## GNSS alkalmazásával végzett földmérési munkák hatósági vizsgálatához leadandó munkarészek
+## 3K04266_0
 
 | A munkarészek megnevezése | Állami alapmunkák és bejelentésre kötelezett munkák | ingatlan-nyilvántartási célú földmérési munkák |
 
@@ -35,3 +35,5 @@
 ## ** Papír alapú adathordozón csak Elektronikus jegyzőkönyvezésre nem alkalmas vevők esetében kell benyújtani
 
 16. melléklet a 15/2013. (III. 11.) VM rendelethez
+
+GNSS alkalmazásával végzett pontmeghatározások vizsgálati jegyzőkönyve

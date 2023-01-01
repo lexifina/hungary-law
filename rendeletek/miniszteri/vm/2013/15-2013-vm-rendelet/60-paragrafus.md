@@ -10,7 +10,7 @@ b) ha az alappontok koordinátáit az eredetitől eltérő ismert pontok felhasz
 
 c) az alappontok újbóli meghatározása történhet a valós idejű méréseknél az 54. § (1) bekezdése szerint, illetve a 60. § (2) bekezdésében előírtak szerint is. Ez esetben az eredeti és az ellenőrző mérésből kapott EOV koordináták közötti eltérés legfeljebb ± 3 cm
 
-## lehet.
+lehet.
 
 (2) Valós időben végzett alappont-meghatározáskor az ellenőrző mérés történhet:
 

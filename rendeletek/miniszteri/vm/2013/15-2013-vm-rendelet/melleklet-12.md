@@ -1,5 +1,3 @@
-## MAGASSÁGI PONTOK SZÁMOZÁSA
-
 ## 1. EOMA PONTOK SZÁMOZÁSA
 
 ## 1.1.1 Az EOMA pontjait 8 jegyű arab szám jelöli. A 8 jegy megosztása 2-2-3-1 karakterben. A GNSS technikával meghatározott III. rendű pontok őrpontjainak pontszáma 9 jegyű. A 9 jegy megosztása 2-2-3-2 karakterben.
@@ -11,6 +9,8 @@
 ## 1.2 Az EOMA vonalai közül az I. rendű vonalaknak 2 jegyű számuk van /pl.: 08, vagy 46/. A II. és a III. r. vonalaknak 4 jegyű számuk van, amelyből az első két szám a vonalat magában foglaló I. r. poligon száma, a második két szám a poligonon belüli vonalszám. Ez utóbbi II. r. vonal esetén 01-19-ig, III. r. vonal esetén 20-99-ig terjedhet (pl.: 0703, vagy 1116 II. rendű, illetve 0720, vagy 1186 III. rendű vonal száma). A főalappontok és az I.-II. rendű K pontok pontszáma 001-től, a szintezési szakaszvégpontok pontszáma 101-től kezdődik.
 
 ## 1.3 A jelzőszám egyrészt utal az alátörésekre, másrészt a pótlásokat jelöli. Ez utóbbi a Nadap őspontnál 0, a többi főalappont esetében az ikerpontok, illetve a különböző, sziklaüregekben lévő idomtestek számának megfelelően 1, 2 illetve 3.
+
+## 0X06336O_0
 
 | A pont típusa | A pont száma |
 
@@ -27,6 +27,8 @@
 | Kecskemét / II | 0000021-2 |
 
 ## Egyéb alappontoknál – K pontoknál, vagy szakaszvégpontoknál – az első, második, harmadik stb. állandósítást jelenti. A jelzőszámot a pontszám többi számjegyétől kötőjel választja el.
+
+## 0X06336O_1
 
 | A pont típusa | A pont száma |
 
@@ -70,13 +72,13 @@
 
 ## 1.9.1 Az újonnan létesítésre kerülő, EOMA-hoz kapcsolt városi hálózatok pontjait 10 jegyű szám jelöli. A 10 jegy megoszlása: 2-1-2-2-2-1.
 
-## 1.9.2 Az első két számjegy a megye területi jelzőszáma.
+## 1.9.2 Az első két számjegy a vármegye területi jelzőszáma.
 
-## 1.9.3 A harmadik számjegy a város (hálózat) megyén belüli sorszáma.
+## 1.9.3 A harmadik számjegy a város (hálózat) vármegyén belüli sorszáma.
 
 ## 1.9.4 A harmadik negyedik és ötödik számcsoport két-két számjegye megegyezik a 1.8.3 pontban leírt számozással.
 
-## 1.9.5 pl. 044031204-2. A pont száma mutatja, hogy Békés megye 4. sorszámú szabatos hálózatának 03. számú poligonjának 12. számú vonalának 04. pontjáról van szó, amelyet már pótolni kellett.
+## 1.9.5 pl. 044031204-2. A pont száma mutatja, hogy Békés vármegye 4. sorszámú szabatos hálózatának 03. számú poligonjának 12. számú vonalának 04. pontjáról van szó, amelyet már pótolni kellett.
 
 ## 2. BENDEFY PONTOK SZÁMOZÁSA
 
@@ -114,50 +116,52 @@
 
 ## 4.1 A IV. rendű pontokat 9 számjegy jelöli. A kilenc számjegy megoszlása: 1-2-3-2-1.
 
-## Az első számjegy mindig 4, azt jelöli, hogy a pont IV. rendű. A második számcsoport két számjegye a megye (főváros) területi jelzőszáma. A harmadik számcsoport három számjegye a IV. rendű vonal száma. A negyedik számcsoport 2 számjegye a pont vonalon belüli számát jelöli. Az utolsó számjegy a többi számtól kötőjellel van elválasztva. Ez a szám a IV. rendű pont első, második stb. állandósítását jelzi.
+## Az első számjegy mindig 4, azt jelöli, hogy a pont IV. rendű. A második számcsoport két számjegye a vármegye (főváros) területi jelzőszáma. A harmadik számcsoport három számjegye a IV. rendű vonal száma. A negyedik számcsoport 2 számjegye a pont vonalon belüli számát jelöli. Az utolsó számjegy a többi számtól kötőjellel van elválasztva. Ez a szám a IV. rendű pont első, második stb. állandósítását jelzi.
 
 ## 4.2 A Központi Statisztikai Hivatal által megállapított területi jelzőszámok:
 
 | Budapest főváros | 01 |
 
-| Baranya megye | 02 |
+| Baranya vármegye | 02 |
 
-| Bács-Kiskun megye | 03 |
+| Bács-Kiskun vármegye | 03 |
 
-| Békés megye | 04 |
+| Békés vármegye | 04 |
 
-| Borsod-Abaúj-Zemplén megye | 05 |
+| Borsod-Abaúj-Zemplén vármegye | 05 |
 
-| Csongrád-Csanád megye | 06 |
+| Csongrád-Csanád vármegye | 06 |
 
-| Fejér megye | 07 |
+| Fejér vármegye | 07 |
 
-| Győr-Moson-Sopron megye | 08 |
+| Győr-Moson-Sopron vármegye | 08 |
 
-| Hajdú-Bihar megye | 09 |
+| Hajdú-Bihar vármegye | 09 |
 
-| Heves megye | 10 |
+| Heves vármegye | 10 |
 
-| Komárom-Esztergom megye | 11 |
+| Komárom-Esztergom vármegye | 11 |
 
-| Nógrád megye | 12 |
+| Nógrád vármegye | 12 |
 
-| Pest megye | 13 |
+| Pest vármegye | 13 |
 
-| Somogy megye | 14 |
+| Somogy vármegye | 14 |
 
-| Szabolcs-Szatmár-Bereg megye | 15 |
+| Szabolcs-Szatmár-Bereg vármegye | 15 |
 
-| Jász-Nagykun-Szolnok megye | 16 |
+| Jász-Nagykun-Szolnok vármegye | 16 |
 
-| Tolna megye | 17 |
+| Tolna vármegye | 17 |
 
-| Vas megye | 18 |
+| Vas vármegye | 18 |
 
-| Veszprém megye | 19 |
+| Veszprém vármegye | 19 |
 
-| Zala megye | 20 |
+| Zala vármegye | 20 |
 
 ## 1. ábra EOMA poligonrészlet vonal és pontszámozásra
 
 12. melléklet a 15/2013. (III. 11.) VM rendelethez
+
+Magyarország magassági főalappontjai

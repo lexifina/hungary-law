@@ -1,5 +1,3 @@
-## A) Az INGA pontok állandósítása
-
 ## 1. Az újonnan telepítendő pontokat legalább 20 cm átmérőjű és minimum 1.5 méter mély a kiválasztott ponthelyen fúrt lyukba, 1:4 keverési arányú betonnal csömöszölve és vasalva (4 db Ø10, 20 cm-ként, v. spirálkengyelezéssel ellátva) kell elkészíteni.
 
 ## 2. A pont felső 60 cm-es részét egy műanyag védőcsőben kell elhelyezni, amely nem emelkedhet ki a talajszinttől.
@@ -28,7 +26,7 @@
 
 5. melléklet a 15/2013. (III. 11.) VM rendelethez
 
-## Pontátadási jegyzőkönyv
+Pontátadási jegyzőkönyv
 
 ## JEGYZŐKÖNYV
 

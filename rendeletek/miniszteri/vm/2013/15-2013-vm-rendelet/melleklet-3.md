@@ -1,5 +1,3 @@
-## Az EOTR műszaki paraméterei
-
 ## 1. Az állami alapadatok adatbázisainak térképi megjelenítése EOTR-ben történik.
 
 ## 2. Alapegysége az 1:100 000 méretarányú szelvény, mely a vetületi síkon 48 km x 32 km méretű fekvő téglalap.

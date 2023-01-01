@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-15-20-2
 | 2017-08-18 | 2013-15-20-2Y.4 | 42/2017. (VIII. 17.) FM rendelet |
 | 2020-06-18 | 2013-15-20-2Y.5 | 7/2020. (VI. 10.) MvM rendelet |
 | 2020-09-05 | 2013-15-20-2Y.6 | 16/2020. (IX. 4.) MvM rendelet |
+| 2023-01-01 | 2013-15-20-2Y.7 | 42/2017. (VIII. 17.) FM rendelet |

@@ -1,4 +1,4 @@
-## Magyarország magassági főalappontjai
+## 3K04263_0
 
 | EOMA pontszám | Magassági jel megnevezése |
 

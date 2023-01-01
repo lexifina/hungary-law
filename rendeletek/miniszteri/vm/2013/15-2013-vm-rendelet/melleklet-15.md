@@ -1,4 +1,4 @@
-## Az ellenőrzendő részletpontok számának meghatározása
+## 3K04265_0
 
 | Meghatározott részletpontok száma | Ellenőrzendő részletpontok száma |
 
@@ -13,3 +13,5 @@
 | 10 000 fölött | 1%, de legalább 300 db pont |
 
 15. melléklet a 15/2013. (III. 11.) VM rendelethez
+
+GNSS alkalmazásával végzett földmérési munkák hatósági vizsgálatához leadandó munkarészek

@@ -908,7 +908,7 @@
 
 ## 12.6.5 Egy szintezési szakasz mérése elfogadható, ha az oda-irányú és vissza-irányú szintezéséből kapott nyers magasságkülönbségek eltérése (az észlelési differencia) nem lépi túl a következő hibahatárokat
 
-## Δ=10√Lsz [mm]
+## Δ=10√Lsz[mm]
 
 ## Lsz a szintezett szakasz hossza km-egységben.
 
@@ -1058,7 +1058,7 @@
 
 ## ee) Helység,
 
-## ef) Megye,
+## ef) Vármegye,
 
 ## eg) Állandósítás éve,
 
@@ -1234,6 +1234,8 @@
 
 | Egységes Országos Magassági Alaphálózat | KKP lap |
 
+## 0X03423M_1
+
 | Szemlélés éve: | 1968 | Magasság: | Megh. éve: | A pont száma: |
 
 | Szemlélő neve: | Törjék András | 110,225 71 m | 1977 | 0014016- 1 |
@@ -1280,6 +1282,8 @@
 
 | EOMA | Pontleírás |
 
+## 0X03423M_3
+
 | Helyszínrajz: | A pont száma: |
 
 |  |  | 0006171-1 |
@@ -1320,6 +1324,8 @@
 
 | EOMA | Pontleírás |
 
+## 0X03423M_5
+
 | Helyszínrajz: | A pont száma: |
 
 |  |  | 0006168-1 |
@@ -1359,6 +1365,8 @@
 ## 9. ábra EOMA gomb állandósítású szakaszvégpont helyszínrajz
 
 | EOMA | Pontleírás |
+
+## 0X03423M_7
 
 | Helyszínrajz: | A pont száma: |
 
@@ -1404,6 +1412,8 @@
 
 | EOMA | Pontleírás |
 
+## 0X03423M_9
+
 | Helyszínrajz: | A pont száma: |
 
 |  |  | 0201204-12 |
@@ -1444,6 +1454,8 @@
 
 ## 11. ábra EOMA GPS-sel meghatározott harmadrendű őrpont helyszínrajza
 
-11. melléklet a 15/2013. (III. 11.) VM rendelethez[^34]
+11. melléklet a 15/2013. (III. 11.) VM rendelethez[^35]
 
-[^34]: A 11. melléklet a 16/2020. (IX. 4.) MvM rendelet 5. §-a szerint módosított szöveg.
+MAGASSÁGI PONTOK SZÁMOZÁSA
+
+[^35]: A 11. melléklet a 16/2020. (IX. 4.) MvM rendelet 5. §-a, a 20/2022. (XII. 22.) MvM rendelet 1. § e)-g) pontja szerint módosított szöveg.

@@ -53,3 +53,5 @@
 ## αAst = 209° 55' 27,79"
 
 4. melléklet a 15/2013. (III. 11.) VM rendelethez
+
+A) Az INGA pontok állandósítása

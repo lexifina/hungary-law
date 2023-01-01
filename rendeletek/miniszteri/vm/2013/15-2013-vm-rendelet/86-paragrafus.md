@@ -6,9 +6,13 @@
 
 (3) A vízszintes hálózat kiegyenlítését követően az irányjavításoknak (irányeltéréseknek) szögmásodperc egységben
 
+## 3K04209_0
+
 |  | kisebbnek kell lenniük | 15 | az értéknél, ahol a t az irány hossza km-ben. |
 
 (4) A vízszintes hálózat kiegyenlítését követően a távolságjavításoknak (távolságeltéréseknek) cm egységben
+
+## 3K04209_1
 
 |  | kisebbnek kell lenniük 7,5 • értéknél, ahol a t a távolság hossza km-ben. |
 

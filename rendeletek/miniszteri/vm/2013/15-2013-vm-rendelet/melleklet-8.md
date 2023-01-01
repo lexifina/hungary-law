@@ -1,10 +1,10 @@
-## Az INGA pontok esetében alkalmazandó pontleírás
+## 2X09808M.docx
 
 | INTEGRÁLT GEODÉZIAI ALAPPONT (INGA) PONTLEÍRÁS |
 
 | EOMA pontszám: |  | INGA pontszám: |  | GNSS kód: |  |
 
-| Település: |  | Megye: |  |
+| Település: |  | Vármegye: |  |
 
 | Állandósítás éve: |  | Pontvédelem: |  |
 
