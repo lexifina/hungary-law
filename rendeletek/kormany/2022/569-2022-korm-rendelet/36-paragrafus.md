@@ -1,0 +1,3 @@
+## 14. A beépített tűzjelző, illetve tűzoltó berendezések létesítésének, használatbavételének és megszüntetésének engedélyezésére irányuló hatósági eljárás részletes szabályairól szóló 491/2017. (XII. 29.) Korm. rendelet módosítása
+
+36. § A beépített tűzjelző, illetve tűzoltó berendezések létesítésének, használatbavételének és megszüntetésének engedélyezésére irányuló hatósági eljárás részletes szabályairól szóló 491/2017. (XII. 29.) Korm. rendelet 2/A. § (1) bekezdés a) pontjában az „az automatikus érzékelők, kézi jelzésadók” szövegrész helyébe az „a beépített tűzjelző berendezés eszközeinek” szöveg, valamint a „jelzési zóna” szövegrész helyébe a „jelzési, riasztási zóna” szöveg lép.

@@ -1,0 +1,1 @@
+19. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 26. § (5) bekezdésében az „útján megtett” szövegrész helyébe az „útján vagy az elektronikus ügyintézés szabályai szerint megtett” szöveg lép.
