@@ -6,6 +6,6 @@ a) személyes adatnak nem minősülő további adatokat,
 
 b) – az Stv. rendelkezése vagy a sportoló írásbeli hozzájárulása alapján – személyes adatot
 
-## megadjon.
+megadjon.
 
 (3) Az „Események” modul az (1) és (2) bekezdésben foglaltakon túl tartalmazza a szervező által biztosított, a regisztrált szabadidő-sportoló által sporttevékenységével összefüggésben igénybe vehető támogatást, kedvezményt, annak feltételeit és mértékét, amely adatok az NSR Portálon is elérhetőek.

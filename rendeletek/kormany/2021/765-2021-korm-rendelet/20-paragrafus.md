@@ -13,3 +13,5 @@ c) a felhasználó szervezet nevében az NSR-ben történő adatszolgáltatást 
 d) az NSR működtetésében és üzemeltetésben közreműködő természetes személy,
 
 e) az állami sportcélú támogatás természetes személy kedvezményezettje,
+
+valamint velük kapcsolatban az Stv. szerint szolgáltatandó adatok nyilvántartását, és ezen természetes személyek részére az NSR használatát.

@@ -8,7 +8,7 @@ a) tulajdoni hányadtól függetlenül az állam, helyi önkormányzat, sportsz�
 
 b) a fenntartásához, üzemeltetéséhez, felújításához, karbantartásához, korszerűsítéséhez, illetve fejlesztéséhez állami sportcélú támogatással érintett
 
-## sportlétesítmény megnevezését, helyrajzi számát, címét, tulajdonos és fenntartó szervezetének megnevezését.
+sportlétesítmény megnevezését, helyrajzi számát, címét, tulajdonos és fenntartó szervezetének megnevezését.
 
 (3) A „Létesítmények” modulban a 31. § szerinti adatszolgáltató – a szervező által szolgáltatott adatok alapján – feltünteti a sportlétesítményben megrendezésre kerülő sporteseményt.
 
