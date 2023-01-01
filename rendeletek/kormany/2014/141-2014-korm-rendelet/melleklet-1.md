@@ -2,6 +2,8 @@
 
 1. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^20]
 
+A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program I. ütemében megvalósuló, nemzetgazdasági szempontból kiemelt jelentőségű beruházások
+
 [^18]: A 10. §-t a 795/2021. (XII. 27.) Korm. rendelet 3. §-a iktatta be.
 [^19]: A hatálybalépés napja 2021. december 28.
 [^20]: Az 1. melléklet a 283/2017. (IX. 22.) Korm. rendelet 4. §-ával megállapított, a 795/2021. (XII. 27.) Korm. rendelet 6. §-a szerint módosított szöveg.

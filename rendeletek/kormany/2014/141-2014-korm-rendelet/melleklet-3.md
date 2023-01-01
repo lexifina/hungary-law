@@ -1,5 +1,3 @@
-## A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program III. ütemében megvalósuló nemzetgazdasági szempontból kiemelt jelentőségű beruházások
-
 |  | A | B |
 
 | 1. | A beruházás megnevezése | A beruházás azonosító adatai |
@@ -100,7 +98,7 @@
 
 3. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^23]
 
-## A beruházásokkal összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A beruházásokkal összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. környezetvédelmi hatósági eljárások,
 
