@@ -1,5 +1,7 @@
 10. § (1) Az igazságügyi szakértő a névjegyzékbe vételét követő két hónapon belül, a névjegyzéket vezető hatóság előtt esküt tesz.
 
+(1a) Az (1) bekezdés szerinti eskü olyan módon is megszervezhető, hogy az eskütételre kötelezett az erről szóló okmányt elektronikusan írja alá.
+
 (2) A szakértői eskü az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegéből és annak első mondatát követően a következő szövegből áll: „Hivatásom gyakorlása során szakmai kötelességeimet lelkiismeretesen és a legjobb tudásom szerint teljesítem.”
 
 (3) Az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvényben foglalt eskü szövegében szereplő tisztség megnevezése az eskü tétele során: igazságügyi szakértő.
