@@ -1,3 +1,1 @@
-## 7. §[^9]
-
-[^9]: A 7. § a 2. § (3) bekezdése alapján 2023. január 1-jén lép hatályba.
+## 7. § Hatályát veszti a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet 3. melléklet 63. pontja.
