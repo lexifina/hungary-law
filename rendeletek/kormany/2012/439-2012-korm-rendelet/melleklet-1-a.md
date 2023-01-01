@@ -1,5 +1,3 @@
-## A nyilvántartásba vételhez kötött közvetítési és kereskedelmi tevékenység bejelentése
-
 | E nyomtatvány kitöltését a hulladékgazdálkodási tevékenységek nyilvántartásba vételéről, valamint hatósági engedélyezéséről szóló 439/2012. (XII. 29. ) Korm. rendelet írja elő |
 
 | Bejelentés □ Nyilvántartásba-vétel hosszabbítás: □ Módosítás □ Törlés □ | A NYILVÁNTARTÁSBA VÉTELHEZ KÖTÖTT KÖZVETÍTÉS/KERESKEDELEM BEJELENTÉSE | Mellékletek: □db |
@@ -64,6 +62,8 @@
 
 ## cégszerű aláírás
 
-1/A. melléklet a 439/2012. (XII. 29.) Korm. rendelethez[^75]
+1/A. melléklet a 439/2012. (XII. 29.) Korm. rendelethez[^76]
 
-[^75]: Az 1/A. mellékletet a 440/2016. (XII. 16.) Korm. rendelet 25. § (3) bekezdése iktatta be.
+A hulladékszállítás nyilvántartásba vételéhez kötött tevékenység bejelentése
+
+[^76]: Az 1/A. mellékletet a 440/2016. (XII. 16.) Korm. rendelet 25. § (3) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 151. § b) pontja szerint módosított szöveg.

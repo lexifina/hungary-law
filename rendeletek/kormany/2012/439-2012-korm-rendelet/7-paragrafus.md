@@ -1,5 +1,3 @@
-## 6. §[^16]
-
 7. § (1)[^17] A gyűjtési, szállítási, közvetítési, kereskedelmi tevékenység végzésére vonatkozó hulladékgazdálkodási engedély iránti kérelemnek a következőket kell tartalmaznia:
 
 a)[^18] a kérelmező nevét, székhelyét és telephelyét, valamint statisztikai azonosító adatait: környezetvédelmi ügyfél jelét (a továbbiakban: KÜJ-azonosító), környezetvédelmi területi jelét (a továbbiakban: KTJ-azonosító), KSH-statisztikai számjelét, cégjegyzékszámát, adószámát, egyéni vállalkozó esetén, ha van, a vállalkozói igazolvány számát;
@@ -56,7 +54,6 @@ c)[^33] az adott hulladékgazdálkodási tevékenységgel érintett éves maxim�
 
 (3)[^34] A közvetítésre, kereskedelemre vonatkozó hulladékgazdálkodási engedély véglegessé válását követően a hulladékgazdálkodási hatóság az engedélyes adatait felveszi a közvetítők, kereskedők nyilvántartásába.
 
-[^16]: A 6. §-t a 477/2016. (XII. 27.) Korm. rendelet 66. § (2) bekezdés c) pontja hatályon kívül helyezte.
 [^17]: A 7. § (1) bekezdés nyitó szövegrésze a 370/2014. (XII. 30.) Korm. rendelet 12. § 4. pontja szerint módosított szöveg.
 [^18]: A 7. § (1) bekezdés a) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 5. pontja szerint módosított szöveg.
 [^19]: A 7. § (1) bekezdés c) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 6. pontja szerint módosított szöveg.

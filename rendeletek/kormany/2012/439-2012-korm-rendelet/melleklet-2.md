@@ -1,5 +1,3 @@
-## A hulladékszállítás nyilvántartásba vételéhez kötött tevékenység bejelentése
-
 | E nyomtatvány kitöltését a hulladékgazdálkodási tevékenységek nyilvántartásba vételéről, valamint hatósági engedélyezéséről szóló 439/2012. (XII. 29. ) Korm. rendelet írja elő |
 
 | Bejelentés □ Nyilvántartásba-vétel hosszabbítás: □ Módosítás □ Törlés □ | A NYILVÁNTARTÁSBA VÉTELHEZ KÖTÖTT HULLADÉKSZÁLLÍTÁS BEJELENTÉSE | Mellékletek: □ db |
@@ -26,7 +24,7 @@
 
 | A tevékenységre vonatkozó információk: |
 
-| 1. Az érintett hulladék - hulladékjegyzék szerinti azonosító kódja: - típus szerinti elnevezése: - jellege: - mennyisége: 2. A tevékenység részletes leírása: 3. A tervezett hulladékgazdálkodási tevékenységgel érintett terület megnevezése: (megye megnevezése vagy országos) |
+| 1. Az érintett hulladék - hulladékjegyzék szerinti azonosító kódja: - típus szerinti elnevezése: - jellege: - mennyisége: 2. A tevékenység részletes leírása: 3. A tervezett hulladékgazdálkodási tevékenységgel érintett terület megnevezése: (vármegye megnevezése vagy országos) |
 
 | A bejelentésért felelős: |  |  |
 
@@ -42,9 +40,9 @@
 
 ## cégszerű aláírás
 
-2. melléklet a 439/2012. (XII. 29.) Korm. rendelethez[^76]
+2. melléklet a 439/2012. (XII. 29.) Korm. rendelethez[^77]
 
-## Az ártalmatlanítást és a hasznosítást megelőző előkészítő műveletek azonosító kódjai
+Az ártalmatlanítást és a hasznosítást megelőző előkészítő műveletek azonosító kódjai
 
 ## Ha a hulladékgazdálkodási engedély iránti kérelem tárgya valamilyen hasznosítást vagy ártalmatlanítást megelőző előkészítő művelet, az engedély kérelemben az adott előkészítő műveletet a következő azonosító kódok legalább egyikével kell jelölni (több előkészítő művelet esetében valamennyi azonosító kódot meg kell adni):
 
@@ -148,4 +146,4 @@ m) E04 – 13 fizikai beágyazás (pl. azbeszt-por, szálak cementbe való beág
 
 n) E04 – 99 egyéb.
 
-[^76]: A 2. mellékletet a 310/2014. (XII. 11.) Korm. rendelet 12. § (4) bekezdése iktatta be.
+[^77]: A 2. mellékletet a 310/2014. (XII. 11.) Korm. rendelet 12. § (4) bekezdése iktatta be.

@@ -1,5 +1,3 @@
-## 8. §[^37]
-
 9. § (1) A kezelési műveletek végzésére vonatkozó hulladékgazdálkodási engedély iránti kérelemnek az alábbiakat kell tartalmaznia:
 
 a)[^38] az a kérelmező nevét, székhelyét, telephelyét, valamint statisztikai azonosító adatait (KÜJ-, KTJ-azonosító kódját és KSH-statisztikai számjelét, cégjegyzékszámát, adószámát), egyéni vállalkozó esetén a vállalkozói igazolvány számát);
@@ -68,7 +66,6 @@ i)[^53] a miniszteri rendelet 1. melléklete szerinti D1-D12 ártalmatlanítási
 
 (4)[^54] A miniszteri rendelet 1. mellékletében meghatározott D12 ártalmatlanítási művelet végzésére hulladékgazdálkodási engedély kizárólag akkor adható, ha a hulladék kezelése a rendelkezésre álló kezelési kapacitás vagy elérhető technológia hiánya miatt nem lehetséges.
 
-[^37]: A 8. §-t a 477/2016. (XII. 27.) Korm. rendelet 66. § (2) bekezdés d) pontja hatályon kívül helyezte.
 [^38]: A 9. § (1) bekezdés a) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 11. pontja szerint módosított szöveg.
 [^39]: A 9. § (1) bekezdés b) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 12. pontja szerint módosított szöveg.
 [^40]: A 9. § (1) bekezdés c) pontja a 370/2014. (XII. 30.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
