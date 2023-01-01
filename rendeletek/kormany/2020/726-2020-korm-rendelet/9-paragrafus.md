@@ -1,14 +1,23 @@
-9. § (1)[^24] A kereskedő az adattörlő kódot a NAV által erre a célra rendszeresített formanyomtatvány alkalmazásával elektronikus úton igényelheti. A NAV az igény beérkezését követő 8 napon belül bocsátja a kereskedő rendelkezésére az adattörlő kódot.
+9. § (1)[^22] A kereskedő az adattörlő kódot a NAV által erre a célra rendszeresített formanyomtatvány alkalmazásával elektronikus úton igényelheti. A NAV az igény beérkezését követő 8 napon belül bocsátja a kereskedő rendelkezésére az adattörlő kódot.
 
-(2) A kereskedő a címkét sorszám alapján, egyenként köteles nyilvántartani.
+(2)[^23] A kereskedő a részére kiadott és a fogyasztó részére még át nem adott adattörlő kódokat nyilvántartja.
 
-(3)[^25] A kereskedő minden hónap 5. napjáig – vámtarifaszám szerint csoportosítva – adatot szolgáltat a székhelye vagy telephelye szerinti illetékes járási hivatal részére a fogyasztónak átadott címkék sorszámáról és a fogyasztónak történő átadás dátumáról.
+(3)[^24] A kereskedő a fogyasztónak átadott adattörlő kódszámokról és a fogyasztónak történő átadás dátumáról adatot szolgáltat a NAV felé.
 
-(4)[^26] A kereskedő évente két alkalommal adatot szolgáltat a naptári félév utolsó napját követő hónap 15. napjáig a székhelye vagy telephelye szerint illetékes járási hivatal részére az előző félévben átvett, de a fogyasztó részére át nem adott címkékről.
+(4)[^25] A (3) bekezdés szerinti adatszolgáltatást a kereskedő, ha az adattörlő kód kiadására
 
-(5)[^27] A kereskedő a sérült címkét köteles a székhelye vagy telephelye szerinti illetékes járási hivatal részére – legkésőbb a sérült címkéről való tudomásszerzést követő első címkeátvétellel egyidejűleg – visszaszolgáltatni.
+a) a számlán történő rögzítéssel került sor, úgy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa tv.) 257/G. §-a és 10. melléklete szerinti adatszolgáltatás útján,
 
-[^24]: A 9. § (1) bekezdése az 518/2022. (XII. 13.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^25]: A 9. § (3) bekezdése a 490/2021. (VIII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^26]: A 9. § (4) bekezdése a 490/2021. (VIII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^27]: A 9. § (5) bekezdését a 490/2021. (VIII. 13.) Korm. rendelet 11. §-a iktatta be.
+b) a nyugtaadási kötelezettség pénztárgéppel történő teljesítése esetén a nyugtán vagy a számlán történő rögzítéssel került sor, úgy az Áfa tv. 178. § (1a) bekezdése szerinti adatszolgáltatás útján, valamint
+
+c) az a)–b) ponttól eltérő, egyéb módon került sor, úgy a NAV által erre a célra rendszeresített elektronikus űrlapon, minden hét 5. napjáig az adatszolgáltatás napját megelőző 7 napon kiadott adattörlő kódok tekintetében
+
+teljesíti.
+
+(5)[^26] A kereskedő a sérült címkét köteles a székhelye vagy telephelye szerinti illetékes járási hivatal részére – legkésőbb a sérült címkéről való tudomásszerzést követő első címkeátvétellel egyidejűleg – visszaszolgáltatni.
+
+[^22]: A 9. § (1) bekezdése az 518/2022. (XII. 13.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^23]: A 9. § (2) bekezdése az 518/2022. (XII. 13.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^24]: A 9. § (3) bekezdése az 518/2022. (XII. 13.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^25]: A 9. § (4) bekezdése az 518/2022. (XII. 13.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^26]: A 9. § (5) bekezdését a 490/2021. (VIII. 13.) Korm. rendelet 11. §-a iktatta be.

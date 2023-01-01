@@ -1,13 +1,10 @@
-## 3. A kormányhivatalok feladata
+## 3.[^15] A NAV feladata
 
-5. § (1) A BFKH lebonyolítja és koordinálja a címkék
+5. §[^16] A NAV a kereskedő által elektronikus úton benyújtott kérelmére gondoskodik
 
-a) megyei kormányhivatalokhoz való eljuttatását, és
+a) az adattörlő kód generálásáról és
 
-b) a kerületi hivataloknak való biztosítását.
+b) az adattörlő kód kereskedő részére történő kiadásáról.
 
-(2) A megyei kormányhivatal gondoskodik az illetékességi területén működő járási hivatalok címkékkel való ellátásáról.
-
-(3)[^13] A Kormány a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 134. § (18) bekezdésében meghatározott közszolgáltatási szerződés NMHH-val történő megkötésére a BFKH-t jelöli ki.
-
-[^13]: Az 5. § (3) bekezdését a 490/2021. (VIII. 13.) Korm. rendelet 6. §-a iktatta be.
+[^15]: A 3. alcím címe az 518/2022. (XII. 13.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^16]: Az 5. § az 518/2022. (XII. 13.) Korm. rendelet 6. §-ával megállapított szöveg.

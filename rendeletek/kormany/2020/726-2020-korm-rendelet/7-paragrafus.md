@@ -1,16 +1,7 @@
-7. § (1) A BFKH és a megyei kormányhivatal, valamint a járási hivatal a címkét egyedi sorszáma alapján veszi át, tartja nyilván és adja át.
+7. §[^18] A NAV adatot szolgáltat az NMHH részére
 
-(2)[^15] A BFKH minden hónap 20. napjáig adatot szolgáltat az NMHH részére az adatszolgáltatást megelőző hónapban
+a) a kereskedőnek kiadott adattörlő kódszámokról és a kiadás dátumáról, a kiadást követő egy munkanapon belül, valamint
 
-a) a megyei kormányhivatal és a járási hivatal adatszolgáltatása alapján
+b) a kereskedő 9. § (3) bekezdése szerinti adatszolgáltatása alapján a fogyasztónak átadott adattörlő kódszámokról és az átadás dátumáról, hetente, a hét második munkanapján.
 
-aa) a 6. § (1) bekezdése szerint a kereskedőknek átadott címkék sorszámáról és az átadás dátumáról,
-
-ab) a (3) bekezdés szerint megsemmisített címkék sorszámáról és a megsemmisítés dátumáról, valamint
-
-b) a kereskedők 9. § (3) bekezdésében meghatározott adatszolgáltatása alapján a fogyasztónak átadott címkék sorszámáról és az átadás dátumáról.
-
-(3)[^16] A járási hivatal a sérült címkéket megsemmisíti.
-
-[^15]: A 7. § (2) bekezdése a 490/2021. (VIII. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^16]: A 7. § (3) bekezdése a 490/2021. (VIII. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^18]: A 7. § az 518/2022. (XII. 13.) Korm. rendelet 7. §-ával megállapított szöveg.

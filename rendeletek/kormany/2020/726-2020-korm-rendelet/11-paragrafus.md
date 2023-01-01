@@ -1,5 +1,3 @@
-## 10/A. §[^29] A BFKH az e rendeletben meghatározott feladatokkal összefüggésben – a 2. alcímben foglaltak kivételével – ellenőrzést végezhet.
-
 ## 6. Tanúsító szervezet és a tanúsítási eljárás
 
 11. § (1) Az alkalmazásként csak az e rendeletben meghatározott tanúsító szervezet által minősített szoftver fogadható el adattörlés lefolytatására.
@@ -61,5 +59,3 @@ q) megfelelő szintű fizikailag védett környezetet biztosítanak a rendszer s
 r) a szervezet detektálja és kezeli az egyes biztonsági eseményeket;
 
 s) a rendszer üzemeltetésében és használatában részt vevő személyek rendszeres biztonságtudatossági oktatáson vesznek részt, valamint a szervezet dolgozóinak munkaügyi szabályozása megfelel a biztonsági előírásoknak.
-
-[^29]: A 10/A. §-t a 490/2021. (VIII. 13.) Korm. rendelet 12. §-a iktatta be.

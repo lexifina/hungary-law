@@ -1,8 +1,5 @@
-4. § (1)[^11] Az NMHH a címkéket térítésmentesen juttatja el a BFKH részére.
+4. §[^14] (1) Az NMHH nyilvántartja az átadott adattörlő kódokkal kapcsolatban a 7. § alapján szolgáltatott adatokat.
 
-(2)[^12] Az NMHH sorszám szerint nyilvántartja a BFKH-nak átadott címkéket, illetve az átadott címkékkel kapcsolatban a 7. § (2) bekezdése alapján szolgáltatott adatokat.
+(2) Az NMHH a nyilvántartásban foglalt adatokat a 7. § szerinti adatszolgáltatástól számított 10 évig megőrzi.
 
-(3) Az NMHH a nyilvántartás megőrzéséről a címke (1) bekezdés szerinti átadásától számítva 10 évig gondoskodik.
-
-[^11]: A 4. § (1) bekezdése a 490/2021. (VIII. 13.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
-[^12]: A 4. § (2) bekezdése a 490/2021. (VIII. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^14]: A 4. § az 518/2022. (XII. 13.) Korm. rendelet 5. §-ával megállapított szöveg.

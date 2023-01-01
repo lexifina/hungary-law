@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-726-20-
 | 2021-11-01 | 2020-726-20-22.4 | 490/2021. (VIII. 13.) Korm. rendelet |
 | 2022-11-04 | 2020-726-20-22.5 | 378/2022. (X. 5.) Korm. rendelet |
 | 2022-12-15 | 2020-726-20-22.6 | 518/2022. (XII. 13.) Korm. rendelet |
+| 2023-01-01 | 2020-726-20-22.7 | 518/2022. (XII. 13.) Korm. rendelet |
