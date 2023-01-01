@@ -1,12 +1,12 @@
 ## 2. § Ez a rendelet a kihirdetését követő 30. napon lép hatályba.
 
-1. melléklet a 22/2016. (VI. 15.) BM rendelethez
+1. melléklet a 22/2016. (VI. 15.) BM rendelethez[^1]
 
 Távlati ivóvízbázisok jegyzéke
 
 |  | A | B | C | D |
 
-| Sorszám | Távlati felszín alatti ivóvízbázis megnevezése | Távlati ivóvízbázis védendő kapacitása (m3/nap)** | Megye és KSH kód | A távlati ivóvízbázissal érintett település megnevezése |
+| Sorszám | Távlati felszín alatti ivóvízbázis megnevezése | Távlati ivóvízbázis védendő kapacitása (m3/nap)** | Vármegye és KSH kód | A távlati ivóvízbázissal érintett település megnevezése |
 
 | 1. | Ácsi-öblözet, Lovadi rét | 23 000 | 11 04428 | Ács |
 
@@ -353,3 +353,5 @@ _______________
 * Az ivóvízbázis védőterülete a település belterületét is érinti.
 
 ** Távlati ivóvízbázis védendő kapacitása: a távlati vízbázis diagnosztikai vizsgálata során meghatározott potenciális kitermelhető vízmennyiség, melyhez a hidrogeológiai védőterület, vagy hidrogeológiai védőidom meghatározásra került.
+
+[^1]: Az 1. melléklet a 45/2022. (XII. 20.) BM rendelet 85. §-a szerint módosított szöveg.

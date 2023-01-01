@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-22-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-07-15 | 2016-22-20-0A.1 | 22/2016. (VI. 15.) BM rendelet |
+| 2023-01-01 | 2016-22-20-0A.2 | 45/2022. (XII. 20.) BM rendelet |
