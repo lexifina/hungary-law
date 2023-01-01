@@ -1,3 +1,3 @@
-## 9. §[^22]
+10. §[^24]
 
-[^22]: A 9. §-t a 343/2016. (XI. 17.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^24]: A 10. §-t a (3) bekezdés hatályon kívül helyezte.
