@@ -3,3 +3,5 @@
 a) a vízkárelhárítási célú szükségtározók és a nagyvízi mederben történő beavatkozások tekintetében az OVF,
 
 b) az a) pont hatálya alá nem tartozó esetekben a területi vízügyi igazgatóság
+
+jár el.

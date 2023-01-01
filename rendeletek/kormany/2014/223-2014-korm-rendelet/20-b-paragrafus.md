@@ -1,4 +1,4 @@
-## 20/A. §[^37] E rendeletnek az egyes vízgazdálkodási és vízvédelmi tárgyú kormányrendeletek módosításáról szóló 100/2016. (V. 13.) Korm. rendelettel (a továbbiakban: Mód. Kr. 1.) megállapított 11. § (1) bekezdés nyitó szövegrészét, i), j) és k) pontját, valamint a 12. § (6) bekezdését a Mód. Kr. 1. hatálybalépésekor[^38] első fokon még el nem bírált ügyekben és megismételt eljárásokban is alkalmazni kell.
+## 20/A. §[^52] E rendeletnek az egyes vízgazdálkodási és vízvédelmi tárgyú kormányrendeletek módosításáról szóló 100/2016. (V. 13.) Korm. rendelettel (a továbbiakban: Mód. Kr. 1.) megállapított 11. § (1) bekezdés nyitó szövegrészét, i), j) és k) pontját, valamint a 12. § (6) bekezdését a Mód. Kr. 1. hatálybalépésekor[^53] első fokon még el nem bírált ügyekben és megismételt eljárásokban is alkalmazni kell.
 
-[^37]: A 20/A. §-t a 100/2016. (V. 13.) Korm. rendelet 29. §-a iktatta be.
-[^38]: A hatálybalépés időpontja 2016. június 15.
+[^52]: A 20/A. §-t a 100/2016. (V. 13.) Korm. rendelet 29. §-a iktatta be.
+[^53]: A hatálybalépés időpontja 2016. június 15.

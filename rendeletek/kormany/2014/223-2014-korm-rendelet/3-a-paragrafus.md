@@ -1,4 +1,4 @@
-## 3/A. §[^7] Az OVF a területi vízügyi igazgatóságok középirányító szerveként
+## 3/A. §[^8] Az OVF a területi vízügyi igazgatóságok középirányító szerveként
 
 a) egyetértése esetén jóváhagyásra továbbítja a fejezetet irányító szerv részére a területi vízügyi igazgatóságok szervezeti és működési szabályzatát,
 
@@ -12,4 +12,4 @@ e) a területi vízügyi igazgatóságokat jelentéstételre vagy beszámolóra 
 
 f) kezeli a területi vízügyi igazgatóságok kezelésében lévő közérdekű adatokat és közérdekből nyilvános adatokat, valamint a b)–e) pont szerinti irányítási jogkörök gyakorlásához szükséges, törvényben meghatározott személyes adatokat.
 
-[^7]: A 3/A. §-t a 352/2014. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^8]: A 3/A. §-t a 352/2014. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.

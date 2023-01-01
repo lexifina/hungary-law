@@ -10,6 +10,6 @@ a) az OVF-et, és
 
 b) a területi vízügyi igazgatóságot
 
-## jelöli ki.
+jelöli ki.
 
 (2) Vízügyi igazgatási szervként – ha e rendelet másként nem rendelkezik – a területi vízügyi igazgatóság jár el.
