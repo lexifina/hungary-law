@@ -8,6 +8,6 @@
 
 (4) Nem költségvetési szervként működő kulturális intézmény gazdasági vezetőjének mesterfokozatú vagy azzal egyenértékű közgazdasági végzettséggel, továbbá végzettségének megfelelő jogviszonyban legalább 5 év szakmai gyakorlattal vagy legalább 3 év vezetői gyakorlattal kell rendelkeznie.
 
-(5)[^3] A Magyar Nemzeti Levéltár megyei tagintézménye igazgatói munkaköre betöltésének feltétele az 5. §-ban és a 6. §-ban meghatározott eljárásrend szerinti pályázati eljárás lefolytatása, valamint az 1. melléklet 10. sorában meghatározott követelményeknek való megfelelés.
+(5)[^3] A Magyar Nemzeti Levéltár vármegyei tagintézménye igazgatói munkaköre betöltésének feltétele az 5. §-ban és a 6. §-ban meghatározott eljárásrend szerinti pályázati eljárás lefolytatása, valamint az 1. melléklet 10. sorában meghatározott követelményeknek való megfelelés.
 
-[^3]: A 7. § (5) bekezdését a 13/2021. (III. 24.) EMMI rendelet 2. §-a iktatta be.
+[^3]: A 7. § (5) bekezdését a 13/2021. (III. 24.) EMMI rendelet 2. §-a iktatta be, szövege a 12/2022. (XII. 29.) KIM rendelet 12. § a) pontja szerint módosított szöveg.

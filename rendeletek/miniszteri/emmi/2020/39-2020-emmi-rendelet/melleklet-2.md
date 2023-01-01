@@ -1,12 +1,10 @@
-## Intézménytípusok vezetőivel szemben támasztott speciális szakmai követelmények
-
 |  | A | B | C | D | E |
 
 | 1. | intézménytípus | elvárt végzettség | elvárt idegennyelv- ismeret | elvárt szakmai és vezetői gyakorlat | elvárt tudományos tevékenység |
 
 | 2. | Nemzeti könyvtár, felsőoktatási könyvtár, országos szakkönyvtár | szakirányú mesterfokozatú végzettség és szakképzettség, vagy jogász vagy közgazdász szakképzettség | KER szerinti B2 szintet elérő idegennyelv-ismeret | végzettségének, szakképzettségének vagy az intézmény alaptevékenységének megfelelő jogviszonyban legalább ötéves szakmai gyakorlatot szerzett, valamint a megbízás időpontjában vezetői gyakorlattal is rendelkezik | végzettségének és szakképzettségének vagy az intézmény alaptevékenységének megfelelő, kiemelkedő szakmai vagy szakirányú tudományos tevékenységet végez, amelynek igazolása történhet kutatási, publikációs vagy oktatási munkák bemutatásával, továbbá projektben való részvétel igazolásával |
 
-| 3. | Megyei hatókörű városi könyvtár és szakkönyvtár | szakirányú felsőfokú végzettség és szakképzettség | KER szerinti B2 szintet elérő idegennyelv-ismeret | végzettségének, szakképzettségének vagy az intézmény alaptevékenységének megfelelő jogviszonyban legalább ötéves szakmai gyakorlatot szerzett, valamint a megbízás időpontjában vezetői gyakorlattal is rendelkezik | végzettségének és szakképzettségének vagy az intézmény alaptevékenységének megfelelő, kiemelkedő szakmai vagy szakirányú tudományos tevékenységet végez, amelynek igazolása történhet kutatási, publikációs vagy oktatási munkák bemutatásával, továbbá projektben való részvétel igazolásával |
+| 3. | Vármegyei hatókörű városi könyvtár és szakkönyvtár[^9] | szakirányú felsőfokú végzettség és szakképzettség | KER szerinti B2 szintet elérő idegennyelv-ismeret | végzettségének, szakképzettségének vagy az intézmény alaptevékenységének megfelelő jogviszonyban legalább ötéves szakmai gyakorlatot szerzett, valamint a megbízás időpontjában vezetői gyakorlattal is rendelkezik | végzettségének és szakképzettségének vagy az intézmény alaptevékenységének megfelelő, kiemelkedő szakmai vagy szakirányú tudományos tevékenységet végez, amelynek igazolása történhet kutatási, publikációs vagy oktatási munkák bemutatásával, továbbá projektben való részvétel igazolásával |
 
 | 4. | Települési könyvtár, 5500 fő lélekszámot elérő település esetében | szakirányú felsőfokú végzettség és szakképzettség | KER szerinti B2 szintet elérő idegennyelv-ismeret | végzettségének, szakképzettségének vagy az intézmény alaptevékenységének megfelelő jogviszonyban legalább ötéves szakmai gyakorlatot szerzett | – |
 
@@ -24,7 +22,7 @@
 
 | 11. | Felsőoktatási levéltár, települési önkormányzati levéltár, köztestület, közalapítvány vagy jogszabályban meghatározott egyéb közfeladatot ellátó szerv levéltára, valamint állam által fenntartott tudományos, kulturális vagy egészségügyi szolgáltatást végző intézmény állami szaklevéltárként működő levéltára | mesterfokozatú szakirányú szakképzettség | KER szerinti B2 szintet elérő idegennyelv-ismeret | végzettségének és szakképzettségének vagy az intézmény alaptevékenységének megfelelő jogviszonyban legalább hároméves szakmai gyakorlatot szerzett | kiemelkedő szakmai vagy szakirányú tudományos tevékenységet végez |
 
-2. melléklet a 39/2020. (X. 30.) EMMI rendelethez[^9]
+2. melléklet a 39/2020. (X. 30.) EMMI rendelethez[^10]
 
 Kulturális szakmai munkakörök és a betöltésükhöz szükséges képesítési és egyéb feltételek
 
@@ -266,4 +264,5 @@ Kulturális szakmai munkakörök és a betöltésükhöz szükséges képesíté
 
 | 118. | teremőr | középfokú végzettség |  | nem |
 
-[^9]: A 2. melléklet a 13/2021. (III. 24.) EMMI rendelet 3. §-a és 4. § c) pontja szerint módosított szöveg.
+[^9]: Az 1. mellékletben foglalt táblázat A:3 mezője a 12/2022. (XII. 29.) KIM rendelet 12. § b) pontja szerint módosított szöveg.
+[^10]: A 2. melléklet a 13/2021. (III. 24.) EMMI rendelet 3. §-a és 4. § c) pontja szerint módosított szöveg.
