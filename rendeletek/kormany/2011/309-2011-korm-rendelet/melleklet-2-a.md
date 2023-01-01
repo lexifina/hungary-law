@@ -1,4 +1,4 @@
-2/A. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^36]
+2/A. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^42]
 
 A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervekre vonatkozó szolgáltatási kivételek
 
@@ -26,7 +26,7 @@ c) C) alcím 2–3. pontjában
 
 felsorolt szolgáltatásokat.
 
-3.[^37] A Külgazdasági és Külügyminisztérium
+3.[^43] A Külgazdasági és Külügyminisztérium
 
 belföldön nem köteles a központi szolgáltatótól igénybe venni az 1. melléklet
 
@@ -36,8 +36,8 @@ b) B) alcím 1., 3., 9., 12., 13., 14., 15., 16., 19. pontjában
 
 felsorolt szolgáltatásokat, a szolgáltatásokhoz kapcsolódó informatikai beszerzések kivételével.
 
-4.[^38] A 2. és 3. pontban rögzítetteken túlmenően a Külgazdasági és Külügyminisztérium belföldön nem köteles a központi szolgáltatótól igénybe venni az 1. melléklet A) alcím 1. pont 1.5. alpontjában rögzített szolgáltatást, beleértve a szolgáltatáshoz kapcsolódó informatikai beszerzésekről való gondoskodást is.
+4.[^44] A 2. és 3. pontban rögzítetteken túlmenően a Külgazdasági és Külügyminisztérium belföldön nem köteles a központi szolgáltatótól igénybe venni az 1. melléklet A) alcím 1. pont 1.5. alpontjában rögzített szolgáltatást, beleértve a szolgáltatáshoz kapcsolódó informatikai beszerzésekről való gondoskodást is.
 
-[^36]: A 2/A. mellékletet a 325/2016. (X. 27.) Korm. rendelet 3. §-a iktatta be.
-[^37]: A 2/A. melléklet 3. pontját a 290/2018. (XII. 21.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^38]: A 2/A. melléklet 4. pontját a 290/2018. (XII. 21.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^42]: A 2/A. mellékletet a 325/2016. (X. 27.) Korm. rendelet 3. §-a iktatta be.
+[^43]: A 2/A. melléklet 3. pontját a 290/2018. (XII. 21.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^44]: A 2/A. melléklet 4. pontját a 290/2018. (XII. 21.) Korm. rendelet 2. § (1) bekezdése iktatta be.

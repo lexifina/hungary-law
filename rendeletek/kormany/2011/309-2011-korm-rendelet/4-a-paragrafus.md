@@ -1,3 +1,0 @@
-## 4. §[^7] A központi infrastruktúra és infokommunikációs szolgáltató feladatát a 2. mellékletben meghatározott költségvetési szervek esetében a miniszterrel kötött közszolgáltatási szerződés (a továbbiakban: közszolgáltatási szerződés) alapján látja el, amelyben a felek rögzítik az igénybe vevő szervezeteket, az elvárt szolgáltatások körét, azok alapvető szakmai-műszaki tartalmát, valamint a szolgáltatások teljesítésének, illetve nyújtásának időtartamát. A közszolgáltatási szerződésben foglalt szolgáltatások teljesítésének, illetve nyújtásának fedezetét a központi költségvetés terhére a miniszter biztosítja.
-
-[^7]: A 4. § a 717/2021. (XII. 20.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
