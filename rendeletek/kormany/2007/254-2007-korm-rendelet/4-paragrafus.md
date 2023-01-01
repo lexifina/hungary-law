@@ -4,7 +4,7 @@ a) az érintett vagyonelem megjelölését,
 
 b) a pályázat elbírálása során a pályázatok rangsorolásakor alkalmazandó értékelési szempontokat,
 
-c)[^44] a megkötendő szerződés típusát, a hasznosításra vonatkozó fontosabb feltételeket, a vagyon használatáért járó ellenérték teljesítésére vonatkozó előírásokat,
+c)[^46] a megkötendő szerződés típusát, a hasznosításra vonatkozó fontosabb feltételeket, a vagyon használatáért járó ellenérték teljesítésére vonatkozó előírásokat,
 
 d) a pályázati ajánlatok benyújtásának helyét, módját és határidejét,
 
@@ -12,13 +12,13 @@ e) a pályázati ajánlatok elbírálási időpontját és az ajánlattevők ér
 
 f) a pályázati ajánlat érvényességének feltételeit.
 
-(2)[^45] A pályázati ajánlatok elbírálására vonatkozó döntést a kiíró hozza meg. Az eljárásra egyebekben a 32. § (2) bekezdés, a 34. § (1) bekezdés, a 37. § (1) bekezdés, a 41. § (1) bekezdés, a 42. § és 43. § rendelkezéseit megfelelően alkalmazni kell.
+(2)[^47] A pályázati ajánlatok elbírálására vonatkozó döntést a kiíró hozza meg. Az eljárásra egyebekben a 32. § (2) bekezdés, a 34. § (1) bekezdés, a 37. § (1) bekezdés, a 41. § (1) bekezdés, a 42. § és 43. § rendelkezéseit megfelelően alkalmazni kell.
 
-(3)[^46] Az állami vagyon hasznosítására irányuló pályázatnak minősül az az Nvtv. 3. § (1) bekezdés 10. pontja szerinti működtetési tevékenység megrendelésére irányuló közbeszerzési, illetve koncessziós beszerzési eljárás is, amelyben a megrendelendő szolgáltatás ellenértékét részben vagy egészben az állami vagyonba tartozó – a szolgáltatás nyújtásával érintett – ingó vagy ingatlan vagyonelem birtoklásának, használatának, hasznai szedése jogának átengedése képezi, ha a működtetés nem minősül az Nvtv. 12. § (1) bekezdése szerint az állam kizárólagos gazdasági tevékenységének.
+(3)[^48] Az állami vagyon hasznosítására irányuló pályázatnak minősül az az Nvtv. 3. § (1) bekezdés 10. pontja szerinti működtetési tevékenység megrendelésére irányuló közbeszerzési, illetve koncessziós beszerzési eljárás is, amelyben a megrendelendő szolgáltatás ellenértékét részben vagy egészben az állami vagyonba tartozó – a szolgáltatás nyújtásával érintett – ingó vagy ingatlan vagyonelem birtoklásának, használatának, hasznai szedése jogának átengedése képezi, ha a működtetés nem minősül az Nvtv. 12. § (1) bekezdése szerint az állam kizárólagos gazdasági tevékenységének.
 
-(4)[^47] A közbeszerzési, illetve koncessziós beszerzési eljárás megindítására a tulajdonosi joggyakorló, vagy az a személy jogosult, aki az érintett állami vagyonelem hasznosításáról – jogszabály vagy a tulajdonosi joggyakorlóval kötött szerződés alapján – jogosult a döntést meghozni.
+(4)[^49] A közbeszerzési, illetve koncessziós beszerzési eljárás megindítására a tulajdonosi joggyakorló, vagy az a személy jogosult, aki az érintett állami vagyonelem hasznosításáról – jogszabály vagy a tulajdonosi joggyakorlóval kötött szerződés alapján – jogosult a döntést meghozni.
 
-[^44]: A 4. § (1) bekezdés c) pontja a 348/2010. (XII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^45]: A 4. § (2) bekezdése a 77/2014. (III. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^46]: A 4. § (3) bekezdését a 148/2019. (VI. 25.) Korm. rendelet 2. §-a iktatta be.
-[^47]: A 4. § (4) bekezdését a 148/2019. (VI. 25.) Korm. rendelet 2. §-a iktatta be.
+[^46]: A 4. § (1) bekezdés c) pontja a 348/2010. (XII. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^47]: A 4. § (2) bekezdése a 77/2014. (III. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^48]: A 4. § (3) bekezdését a 148/2019. (VI. 25.) Korm. rendelet 2. §-a iktatta be.
+[^49]: A 4. § (4) bekezdését a 148/2019. (VI. 25.) Korm. rendelet 2. §-a iktatta be.

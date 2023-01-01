@@ -24,7 +24,7 @@ e)[^31] a beszerzés az Országgyűlés Hivatala által történik, vagy
 
 f)[^32] a beszerzés a szakképzésialapfeladat-ellátással vagy a szakképző intézmény által szervezett szakmai képzéssel összefüggésben az állami szakképző intézmény, illetve szakképzési centrum részeként működő állami szakképző intézmény tekintetében a szakképzési centrum által történik.
 
-(2)[^33] Az (1) bekezdésre figyelemmel a döntést az erre vonatkozó megkeresésnek a tulajdonosi joggyakorlóhoz történő beérkezését követő harminc napon belül kell meghozni és a kérelmező részére kiadni. A határidőbe nem számít bele a kérelmezőhöz intézett hiánypótlási felhívás kiadása (kiegészítő tájékoztatás kérése) és annak teljesítése között eltelt idő.
+(2)[^33] Az (1) bekezdésre figyelemmel a döntést az erre vonatkozó megkeresésnek a tulajdonosi joggyakorlóhoz történő beérkezését követő húsz napon belül kell meghozni és a kérelmező részére kiadni. A határidőbe nem számít bele a kérelmezőhöz intézett hiánypótlási felhívás kiadása (kiegészítő tájékoztatás kérése) és annak teljesítése között eltelt idő.
 
 (3)[^34] Amennyiben központi költségvetési szerv vagy más személy jogügylete a Vtv. 1. § (2) bekezdése szerinti állami vagyon létrejöttét eredményezte, a jogügyletben szerző félként részt vevő személy (a továbbiakban: bejelentő) a 14. § (1) bekezdésében meghatározott adatszolgáltatás során tájékoztatni köteles a tulajdonosi joggyakorlót az állami vagyon keletkezéséről. Amennyiben az érintett vagyon ingatlan, a jogügyletről az abban eljáró személy harminc napon belül köteles a tulajdonosi joggyakorlót tájékoztatni, az állam tulajdonjogának ingatlan-nyilvántartási bejegyzését követően pedig az erről szóló jogerős határozat másolatát a tulajdonosi joggyakorlónak haladéktalanul megküldeni.
 
@@ -43,7 +43,7 @@ f)[^32] a beszerzés a szakképzésialapfeladat-ellátással vagy a szakképző 
 [^30]: A 2. § (1a) bekezdés c) pont záró szövegrésze a 380/2021. (VI. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^31]: A 2. § (1a) bekezdés e) pontját az 59/2021. (II. 10.) Korm. rendelet 1. §-a iktatta be, szövege a 380/2021. (VI. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^32]: A 2. § (1a) bekezdés f) pontját a 380/2021. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
-[^33]: A 2. § (2) bekezdése a 77/2014. (III. 14.) Korm. rendelet 26. § d) pontja szerint módosított szöveg.
+[^33]: A 2. § (2) bekezdése a 604/2022. (XII. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^34]: A 2. § (3) bekezdése a 77/2014. (III. 14.) Korm. rendelet 26. § b) és g) pontja szerint módosított szöveg.
 [^35]: A 2. § (4) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 77/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
 [^36]: A 2. § (7) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 77/2014. (III. 14.) Korm. rendelet 26. § a) pontja, a 178/2014. (VII. 18.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

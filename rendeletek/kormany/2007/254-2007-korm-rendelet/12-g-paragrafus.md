@@ -1,4 +1,4 @@
-12/G. § (1)[^114] Az MNV Zrt. által megállapított bérleti licit biztosíték összegét az elektronikus bérleti licit eljárásban való részvétel feltételeként a licitálónak az MNV Zrt. által megjelölt letéti számlára, az elektronikus bérleti licit hirdetményben meghatározott időpontig kell átutalnia vagy a kiírási feltételek szerinti más módon az MNV Zrt. részére megfizetnie. A bérleti licit biztosíték összege – ha bérleti licit biztosíték kikötésre kerül – az ingatlan havi kezdő bérleti díj ajánlatának legalább 100%-a, de legfeljebb 300%-a.
+12/G. § (1)[^116] Az MNV Zrt. által megállapított bérleti licit biztosíték összegét az elektronikus bérleti licit eljárásban való részvétel feltételeként a licitálónak az MNV Zrt. által megjelölt letéti számlára, az elektronikus bérleti licit hirdetményben meghatározott időpontig kell átutalnia vagy a kiírási feltételek szerinti más módon az MNV Zrt. részére megfizetnie. A bérleti licit biztosíték összege – ha bérleti licit biztosíték kikötésre kerül – az ingatlan havi kezdő bérleti díj ajánlatának legalább 100%-a, de legfeljebb 300%-a.
 
 (2) Ha az MNV Zrt. döntése alapján a bérbeadásra kínált ingatlan esetében a bérleti díjat nem havonta, hanem más időszakra kell megfizetni, a bérleti licit biztosíték összege számításakor azt az összeget kell alapul venni, amely a bérleti díj összege lenne, ha azt havonta kellene megfizetni.
 
@@ -8,4 +8,4 @@
 
 (5) Nem jár vissza a bérleti licit biztosíték, ha a szerződés megkötése a licitálónak felróható vagy az ő érdekkörében felmerült okból hiúsult meg.
 
-[^114]: A 12/G. § (1) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 2. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^116]: A 12/G. § (1) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 2. § (3) bekezdés a) pontja szerint módosított szöveg.

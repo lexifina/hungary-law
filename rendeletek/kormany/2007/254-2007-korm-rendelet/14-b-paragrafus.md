@@ -1,4 +1,4 @@
-14/B. §[^133] (1) Az MNV Zrt. az egységes állami vagyonnyilvántartás működtetése érdekében a tulajdonosi joggyakorlók számára közzéteszi:
+14/B. §[^135] (1) Az MNV Zrt. az egységes állami vagyonnyilvántartás működtetése érdekében a tulajdonosi joggyakorlók számára közzéteszi:
 
 a) az adatszolgáltatási keretrendszer
 
@@ -28,4 +28,4 @@ d) a tulajdonosi joggyakorlói adatszolgáltatások MNV Zrt. általi elfogadás�
 
 (4) Az adatszolgáltatási keretrendszer felhasználási szabályzatot az MNV Zrt. Igazgatósága fogadja el.
 
-[^133]: A 14/B. §-t az 592/2020. (XII. 17.) Korm. rendelet 5. §-a iktatta be.
+[^135]: A 14/B. §-t az 592/2020. (XII. 17.) Korm. rendelet 5. §-a iktatta be.

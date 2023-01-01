@@ -1,20 +1,20 @@
 ## A vagyonkezelési szerződés megszűnése
 
-12. §[^101] (1) A vagyonkezelési szerződés megszűnik:
+12. §[^103] (1) A vagyonkezelési szerződés megszűnik:
 
 a) a szerződésben megállapított idő elteltével,
 
 b) a szerződésben meghatározott körülmény bekövetkeztével,
 
-c)[^102] a vagyonkezelésbe adott vagyontárgy megsemmisülésével vagy az állam tulajdonából való kikerülésével az adott vagyontárgyra vonatkozóan, vagy
+c)[^104] a vagyonkezelésbe adott vagyontárgy megsemmisülésével vagy az állam tulajdonából való kikerülésével az adott vagyontárgyra vonatkozóan, vagy
 
 d) a vagyonkezelő jogutód nélküli megszűnésével (természetes személy halálával),
 
-e)[^103] ha a törvényi kijelölés útján létrejött vagyonkezelői jog a vonatkozó törvényi rendelkezés hatályon kívül helyezésével megszűnik.
+e)[^105] ha a törvényi kijelölés útján létrejött vagyonkezelői jog a vonatkozó törvényi rendelkezés hatályon kívül helyezésével megszűnik.
 
 (2) A vagyonkezelési szerződés közös megegyezéssel, írásban, bármely esetben és időpontban megszüntethető.
 
-(3)[^104] A felek a határozatlan időre kötött vagyonkezelési szerződést írásban felmondással is megszüntethetik (rendes felmondás). Amennyiben a felek eltérően nem állapodtak meg, a felmondási idő kilencven nap. A felmondással érintett vagyonnal kapcsolatos elszámolásra a 16. § szerinti határidő irányadó.
+(3)[^106] A felek a határozatlan időre kötött vagyonkezelési szerződést írásban felmondással is megszüntethetik (rendes felmondás). Amennyiben a felek eltérően nem állapodtak meg, a felmondási idő kilencven nap. A felmondással érintett vagyonnal kapcsolatos elszámolásra a 16. § szerinti határidő irányadó.
 
 (4) A felmondás írásban, azonnali hatállyal történhet, ha
 
@@ -28,25 +28,25 @@ d) a Vtv. 25. §-ának (2) bekezdése szerinti esetben.
 
 (5) A határozott időre kötött vagyonkezelési szerződés rendes felmondással a szerződésben meghatározott esetekben szüntethető meg. A (4) bekezdésben foglaltakat a határozott időre kötött vagyonkezelési szerződés esetén is alkalmazni kell.
 
-(6)[^105] A vagyonkezelési szerződés megszűnése az érintett vagyonra vonatkozó vagyonkezelői jogot megszünteti.
+(6)[^107] A vagyonkezelési szerződés megszűnése az érintett vagyonra vonatkozó vagyonkezelői jogot megszünteti.
 
-(6a)[^106] A tulajdonosi joggyakorló köteles a vagyonkezelési szerződés megszűnésétől számított harminc napon belül kezdeményezni a hatáskörrel és illetékességgel rendelkező hatóságnál az érintett ingatlanra vonatkozóan a vagyonkezelői jog ingatlan-nyilvántartásból való törlését és a művelési ág szükség szerinti megállapítását.
+(6a)[^108] A tulajdonosi joggyakorló köteles a vagyonkezelési szerződés megszűnésétől számított harminc napon belül kezdeményezni a hatáskörrel és illetékességgel rendelkező hatóságnál az érintett ingatlanra vonatkozóan a vagyonkezelői jog ingatlan-nyilvántartásból való törlését és a művelési ág szükség szerinti megállapítását.
 
-(6b)[^107] A vagyonkezelési szerződés megszűnésével a vagyonkezelő által a vagyon használatára, valamint hasznosítására harmadik személlyel kötött szerződésben a vagyonkezelő helyébe a tulajdonosi joggyakorló lép.
+(6b)[^109] A vagyonkezelési szerződés megszűnésével a vagyonkezelő által a vagyon használatára, valamint hasznosítására harmadik személlyel kötött szerződésben a vagyonkezelő helyébe a tulajdonosi joggyakorló lép.
 
-(7)[^108] Állami feladat ellátását szolgáló vagyon esetében a tulajdonosi joggyakorló a (3)–(4) bekezdésben meghatározott felmondási jogát oly módon gyakorolhatja, hogy az adott állami feladat folyamatos ellátása biztosított legyen. A központi költségvetési szerv vagyonkezelői szerződésének rendes felmondással történő megszüntetéséhez a tulajdonosi joggyakorló köteles az adott szerv irányítását vagy felügyeletét ellátó szerv vezetőjének egyetértését kérni. A tulajdonosi joggyakorló a rendes felmondás jogát az értesítés megküldését követő harminc napon belül nem gyakorolhatja.
+(7)[^110] Állami feladat ellátását szolgáló vagyon esetében a tulajdonosi joggyakorló a (3)–(4) bekezdésben meghatározott felmondási jogát oly módon gyakorolhatja, hogy az adott állami feladat folyamatos ellátása biztosított legyen. A központi költségvetési szerv vagyonkezelői szerződésének rendes felmondással történő megszüntetéséhez a tulajdonosi joggyakorló köteles az adott szerv irányítását vagy felügyeletét ellátó szerv vezetőjének egyetértését kérni. A tulajdonosi joggyakorló a rendes felmondás jogát az értesítés megküldését követő harminc napon belül nem gyakorolhatja.
 
-(8)[^109] Amennyiben a felek ugyanabban a szerződésben több állami tulajdonba tartozó vagyonelem vagyonkezeléséről rendelkeztek, a vagyonkezelési szerződés felmondása, vagy más okból történő megszűnése csak egyes vagyontárgyakra nézve, részlegesen is történhet. Ilyen esetben a szerződés a megszűnéssel (felmondással) nem érintett vagyontárgyakra nézve változatlan tartalommal hatályban marad.
+(8)[^111] Amennyiben a felek ugyanabban a szerződésben több állami tulajdonba tartozó vagyonelem vagyonkezeléséről rendelkeztek, a vagyonkezelési szerződés felmondása, vagy más okból történő megszűnése csak egyes vagyontárgyakra nézve, részlegesen is történhet. Ilyen esetben a szerződés a megszűnéssel (felmondással) nem érintett vagyontárgyakra nézve változatlan tartalommal hatályban marad.
 
-(9)[^110] Amennyiben a tulajdonosi joggyakorló törvényben kijelölt vagyonkezelő vonatkozásában állapítja meg a (4) bekezdés a)–d) pontjában meghatározott körülmények fennállását, megállapításairól haladéktalanul tájékoztatja a minisztert.
+(9)[^112] Amennyiben a tulajdonosi joggyakorló törvényben kijelölt vagyonkezelő vonatkozásában állapítja meg a (4) bekezdés a)–d) pontjában meghatározott körülmények fennállását, megállapításairól haladéktalanul tájékoztatja a minisztert.
 
-[^101]: A 12. § a 348/2010. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^102]: A 12. § (1) bekezdés c) pontja a 221/2014. (IX. 4) Korm. rendelet 399. § a) pontja szerint módosított szöveg.
-[^103]: A 12. § (1) bekezdés e) pontját a 77/2014. (III. 14.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^104]: A 12. § (3) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^105]: A 12. § (6) bekezdése a 77/2014. (III. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^106]: A 12. § (6a) bekezdését a 77/2014. (III. 14.) Korm. rendelet 6. § (3) bekezdése iktatta be, a 148/2019. (VI. 25.) Korm. rendelet 22. § e) pontja szerint módosított szöveg.
-[^107]: A 12. § (6b) bekezdését a 77/2014. (III. 14.) Korm. rendelet 6. § (3) bekezdése iktatta be.
-[^108]: A 12. § (7) bekezdése a 77/2014. (III. 14.) Korm. rendelet 26. § c) és h) pontja szerint módosított szöveg.
-[^109]: A 12. § (8) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
-[^110]: A 12. § (9) bekezdését a 77/2014. (III. 14.) Korm. rendelet 6. § (4) bekezdése iktatta be, szövege a 244/2015. (IX. 8.) Korm. rendelet 13. § f) pontja szerint módosított szöveg.
+[^103]: A 12. § a 348/2010. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^104]: A 12. § (1) bekezdés c) pontja a 221/2014. (IX. 4) Korm. rendelet 399. § a) pontja szerint módosított szöveg.
+[^105]: A 12. § (1) bekezdés e) pontját a 77/2014. (III. 14.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^106]: A 12. § (3) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^107]: A 12. § (6) bekezdése a 77/2014. (III. 14.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^108]: A 12. § (6a) bekezdését a 77/2014. (III. 14.) Korm. rendelet 6. § (3) bekezdése iktatta be, a 148/2019. (VI. 25.) Korm. rendelet 22. § e) pontja szerint módosított szöveg.
+[^109]: A 12. § (6b) bekezdését a 77/2014. (III. 14.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^110]: A 12. § (7) bekezdése a 77/2014. (III. 14.) Korm. rendelet 26. § c) és h) pontja szerint módosított szöveg.
+[^111]: A 12. § (8) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
+[^112]: A 12. § (9) bekezdését a 77/2014. (III. 14.) Korm. rendelet 6. § (4) bekezdése iktatta be, szövege a 244/2015. (IX. 8.) Korm. rendelet 13. § f) pontja szerint módosított szöveg.

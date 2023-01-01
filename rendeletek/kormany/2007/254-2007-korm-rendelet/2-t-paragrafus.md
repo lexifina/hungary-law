@@ -2,7 +2,7 @@
 
 a) a Vtv. 42/O. § (2) bekezdés a)–c) pontja szerinti esetben
 
-aa) Budapesten, Pest megyében, megyeszékhelyen vagy megyei jogú városban fekvő ingatlan esetén 1 000 000 forint,
+aa)[^42] Budapesten, Pest vármegyében, vármegyeszékhelyen vagy megyei jogú városban fekvő ingatlan esetén 1 000 000 forint,
 
 ab) az aa) alpontba nem tartozó egyéb ingatlan esetén 750 000 forint,
 
@@ -23,3 +23,5 @@ c) a Vtv. 42/O. § (2) bekezdés e) pontja szerinti esetben az ingatlan címére
 (3) Ha a Vtv. 42/O. § (2) bekezdése alapján a kivezetésre szánt állami vagyon tulajdonjogának ingyenes átadását a (2) bekezdés szerinti felhívás alapján az MVH-nál több, a tulajdonjog megszerzésére jogosult kezdeményezi, az MVH a tulajdonjogot arra az igényét önállóan bejelentő személyre vagy igényüket együttesen bejelentő személyekre ruházza át, akit a jogosultak közül az MVH sorsolással kiválaszt. A sorsoláson az érintett személyek közvetlenül vagy képviselőik útján vehetnek részt. A sorsolásról felvett jegyzőkönyvet a sorsolásban érintett személyek részére meg kell küldeni.
 
 (4) Ha a Vtv. 42/O. § (2) bekezdése alapján a kivezetésre szánt állami vagyon tulajdonjogának ingyenes átadását több jogosult együttesen kezdeményezi, akkor a kivezetésre szánt állami vagyon a jogosultak megállapodása szerint közös tulajdonba adható.
+
+[^42]: A 2/T. § (1) bekezdés a) pont aa) alpontja a 410/2022. (X. 24.) Korm. rendelet 6. §-a szerint módosított szöveg.
