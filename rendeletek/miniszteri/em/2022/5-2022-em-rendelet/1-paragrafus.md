@@ -1,0 +1,1 @@
+1. § A földgázpiaci egyetemes szolgáltatáshoz kapcsolódó értékesítési árak megállapításáról és alkalmazásáról szóló 69/2016. (XII. 29.) NFM rendelet 4. § (4) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
