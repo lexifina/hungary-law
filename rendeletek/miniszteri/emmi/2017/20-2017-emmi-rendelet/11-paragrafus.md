@@ -11,3 +11,5 @@ b) óraszámban,
 c) tematika oktatásával vagy
 
 d) képesítésű oktató részvételével
+
+történik, a miniszter a folyamatban lévő képzést azonnali hatállyal felfüggeszti, új tanfolyam megkezdését nem hagyja jóvá, és a tanfolyamszervezési egyedi azonosító számot visszavonja.

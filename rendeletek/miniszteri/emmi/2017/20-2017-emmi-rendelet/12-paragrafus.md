@@ -1,5 +1,3 @@
-## történik, a miniszter a folyamatban lévő képzést azonnali hatállyal felfüggeszti, új tanfolyam megkezdését nem hagyja jóvá, és a tanfolyamszervezési egyedi azonosító számot visszavonja.
-
 ## 3. Bölcsődei dajka tanfolyam
 
 12. § (1) A bölcsődei dajka tanfolyam felkészíti a résztvevőket a bölcsődében, mini bölcsődében a kisgyermeknevelő segítőtársaként

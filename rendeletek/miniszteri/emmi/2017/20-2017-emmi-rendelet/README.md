@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-20-20-5
 | --- | --- | --- |
 | 2017-09-19 | 2017-20-20-5H.1 | 20/2017. (IX. 18.) EMMI rendelet |
 | 2022-09-02 | 2017-20-20-5H.2 | 1/2022. (IX. 1.) KIM rendelet |
+| 2023-01-01 | 2017-20-20-5H.3 | 12/2022. (XII. 29.) KIM rendelet |

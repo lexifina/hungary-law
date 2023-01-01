@@ -7,3 +7,5 @@
 a) elméleti oktatás esetén legalább a 90%-át,
 
 b) az 1. melléklet A) rész V. fejezet 5. pontja, B) rész II. fejezet 6. pontja, illetve C) rész IV. fejezet 5. pontja szerinti gyakorlati oktatás esetén annak 100%-át
+
+teljesítette.

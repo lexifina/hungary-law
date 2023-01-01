@@ -2,7 +2,7 @@
 
 1. melléklet a 20/2017. (IX. 18.) EMMI rendelethez
 
-## A) A bölcsődei dajka munkakör ellátására szervezett tanfolyam célja, tematikája és a tanfolyamot lezáró vizsga témái és időtartama
+A) A bölcsődei dajka munkakör ellátására szervezett tanfolyam célja, tematikája és a tanfolyamot lezáró vizsga témái és időtartama
 
 I. A tanfolyam célja
 

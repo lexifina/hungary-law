@@ -1,5 +1,3 @@
-## teljesítette.
-
 9. § (1) Az írásbeli és a szóbeli vizsga időpontját a tanfolyamszervező az írásbeli vizsga megkezdését megelőzően harminc nappal köteles bejelenteni a miniszternek.
 
 (2) A vizsgabizottság elnökét a miniszter a módszertani szervezet véleményének kikérésével delegálja, a vizsgabizottság két tagját a tanfolyamszervező a miniszter javaslatára jelöli ki.
@@ -13,3 +11,5 @@
 a) „megfelelt” vagy
 
 b) „nem felelt meg”
+
+lehet.
