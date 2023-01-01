@@ -6,4 +6,6 @@
 
 (3) A szerv 2018. március 1-jét követően csak az e rendelet előírásainak megfelelő és érvényes tanúsítvánnyal rendelkező ISZ-t vezethet be.
 
-(4) E rendelet rendelkezéseit a fővárosi és megyei kormányhivatalok által használt szakrendszerekkel kapcsolatban 2021. január 1-jét követően kell alkalmazni.
+(4)[^1]
+
+[^1]: A 41. § (4) bekezdését a 75/2022. (XII. 27.) BM rendelet 1. §-a hatályon kívül helyezte.

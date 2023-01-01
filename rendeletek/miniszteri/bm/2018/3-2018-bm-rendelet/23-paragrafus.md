@@ -11,3 +11,5 @@ a) egyéni felhasználói és csoportos hozzáférési jogosultságok egyaránt 
 b) egyes funkciókhoz társított felhasználói csoportok létrehozhatóak és
 
 c) egyes felhasználók tetszőleges számú felhasználói csoport tagjai
+
+legyenek.

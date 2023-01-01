@@ -1,5 +1,3 @@
-## legyenek.
-
 ## 24. § Az ISZ biztosítja
 
 a) a rendszer konfigurálásakor beállított paraméterek lekérdezését, megjelenítését és módosítását;

@@ -1,5 +1,3 @@
-## terjed ki.
-
 2. § (1) E rendelet rendelkezéseit a minősített adatok kezelését biztosító ISZ-ekre a külön jogszabályban foglalt eltérésekkel kell alkalmazni.
 
 (2) Az ISZ a maradandó értékű elektronikus iratok levéltári átadását külön jogszabályban foglaltak szerint biztosítja.
