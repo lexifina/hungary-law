@@ -24,7 +24,12 @@
 
 12. zöld jelzáloglevél: olyan jelzáloglevél, amely a kibocsátó által nyilvánosan közzétett dokumentáció alapján megfelel az 1. mellékletben meghatározott fenntartható finanszírozási irányelvek valamelyikének, és a megfelelést az irányelv szerint erre jogosult külső fél tanúsítja;
 
-13. zöld refinanszírozási jelzáloghitel: olyan refinanszírozási jelzáloghitel, amely fedezetéül szolgáló különvált jelzálogjogok zöld jelzáloghitelek biztosítékai.
+13.[^3] zöld refinanszírozási jelzáloghitel: olyan refinanszírozási jelzáloghitel, amely fedezetéül szolgáló
+
+a) különvált jelzálogjogok zöld jelzáloghitelek biztosítékai, vagy
+
+b) jelzálogjoggal fedezett jelzáloghitel-követelés esetén az ingatlanon alapított jelzálogjoggal biztosított jelzáloghitel zöld jelzáloghitelnek minősül.
 
 [^1]: A 2. § 1. pontja az 58/2022. (XII. 22.) MNB rendelet 1. § (5) bekezdése alapján nem lép hatályba.
 [^2]: A 2. § 9. pontját az 58/2022. (XII. 22.) MNB rendelet 1. § (4) bekezdés a) pontja hatályon kívül helyezte.
+[^3]: A 2. § 13. pontja az 58/2022. (XII. 22.) MNB rendelet 1. § (1) bekezdésével megállapított szöveg.
