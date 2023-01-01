@@ -1,0 +1,9 @@
+# 622/2022. (XII. 29.) Korm. rendelet
+
+a hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-622-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-01-01 | 2022-622-20-22.1 | 622/2022. (XII. 29.) Korm. rendelet |
