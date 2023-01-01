@@ -1,6 +1,6 @@
 1. melléklet a 208/2015. (VII. 23.) Korm. rendelethez
 
-## A Beruházással összefüggésben kiemelt jelentőségű üggyé nyilvánított hatósági eljárások
+A Beruházással összefüggésben kiemelt jelentőségű üggyé nyilvánított hatósági eljárások
 
 1. az atomenergia-felügyeleti szerv hatáskörébe tartozó, az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 17. § (2) bekezdés 3. pontja, valamint 17. § (2b) bekezdése szerinti építésügyi hatósági eljárások
 
@@ -36,11 +36,11 @@
 
 17. tűzvédelmi hatósági eljárások
 
-17/A.[^11] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezéssel kapcsolatos eljárások
+17/A.[^12] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezéssel kapcsolatos eljárások
 
-18.[^12] az 1–17/A. pontban nem szereplő, a Beruházáshoz közvetlenül szükséges további hatósági eljárások, az 1–2. pont alá nem tartozó, az Atv. alapján lefolytatott hatósági eljárások kivételével
+18.[^13] az 1–17/A. pontban nem szereplő, a Beruházáshoz közvetlenül szükséges további hatósági eljárások, az 1–2. pont alá nem tartozó, az Atv. alapján lefolytatott hatósági eljárások kivételével
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások
 
-[^11]: Az 1. melléklet 17/A. pontját a 201/2017. (VII. 10.) Korm. rendelet 3. §-a iktatta be.
-[^12]: Az 1. melléklet 18. pontja a 201/2017. (VII. 10.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^12]: Az 1. melléklet 17/A. pontját a 201/2017. (VII. 10.) Korm. rendelet 3. §-a iktatta be.
+[^13]: Az 1. melléklet 18. pontja a 201/2017. (VII. 10.) Korm. rendelet 4. §-a szerint módosított szöveg.
