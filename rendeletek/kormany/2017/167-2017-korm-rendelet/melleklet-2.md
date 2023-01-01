@@ -2,13 +2,13 @@
 
 | 1. | A beruházás megnevezése | A beruházás megvalósításának helyszíne | Koordinációra kijelölt főispán |
 
-| 2. | Eger, Kertész utca rekonstrukciója | Eger közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 5956, 6042, 6061, 6087, 6178/35, 6178/40, 6262, 6334/2, 6383/1, 6411, 6424, 6425, 10208/3, 10290/1 helyrajzi számú ingatlanok | Heves Megyei Kormányhivatalt vezető főispán |
+| 2. | Eger, Kertész utca rekonstrukciója | Eger közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 5956, 6042, 6061, 6087, 6178/35, 6178/40, 6262, 6334/2, 6383/1, 6411, 6424, 6425, 10208/3, 10290/1 helyrajzi számú ingatlanok | Heves Vármegyei Kormányhivatalt vezető főispán |
 
-| 3. | Szolnok, Tiszai kikötő és kapcsolódó létesítmények | Szolnok közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 0856/4, 0891/2, 0892, 9711, 9722, 9744, 9753/1, 9754 helyrajzi számú ingatlanok | Jász-Nagykun-Szolnok Megyei Kormányhivatalt vezető főispán |
+| 3. | Szolnok, Tiszai kikötő és kapcsolódó létesítmények | Szolnok közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 0856/4, 0891/2, 0892, 9711, 9722, 9744, 9753/1, 9754 helyrajzi számú ingatlanok | Jász-Nagykun-Szolnok Vármegyei Kormányhivatalt vezető főispán |
 
-| 4. | Szolnok, Mester út és környéke közlekedési hálózatának fejlesztése | Szolnok közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 717/1, 720/2, 722/6, 729/2, 729/3, 730, 731/2, 731/3, 731/4, 731/6, 731/8, 732, 749/5, 749/6, 749/7, 750, 751/2, 751/3, 766/121, 766/122, 769/2, 769/9, 769/11, 769/41, 769/43, 770, 774/4, 775, 776/59, 779, 1864 helyrajzi számú ingatlanok | Jász-Nagykun-Szolnok Megyei Kormányhivatalt vezető főispán |
+| 4. | Szolnok, Mester út és környéke közlekedési hálózatának fejlesztése | Szolnok közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 717/1, 720/2, 722/6, 729/2, 729/3, 730, 731/2, 731/3, 731/4, 731/6, 731/8, 732, 749/5, 749/6, 749/7, 750, 751/2, 751/3, 766/121, 766/122, 769/2, 769/9, 769/11, 769/41, 769/43, 770, 774/4, 775, 776/59, 779, 1864 helyrajzi számú ingatlanok | Jász-Nagykun-Szolnok Vármegyei Kormányhivatalt vezető főispán |
 
-| 5. | Nagy forgalmú csomópontok és állami tulajdonú utak (Zámori út, Törökbálinti út) felújítása Érden | Érd és Tárnok települések közigazgatási területén belül megvalósítandó, a Zámori utat és a Törökbálinti utat érintő fejlesztések | Pest Megyei Kormányhivatalt vezető főispán |
+| 5. | Nagy forgalmú csomópontok és állami tulajdonú utak (Zámori út, Törökbálinti út) felújítása Érden | Érd és Tárnok települések közigazgatási területén belül megvalósítandó, a Zámori utat és a Törökbálinti utat érintő fejlesztések | Pest Vármegyei Kormányhivatalt vezető főispán |
 
 2. melléklet a 167/2017. (VI. 28.) Korm. rendelethez
 
