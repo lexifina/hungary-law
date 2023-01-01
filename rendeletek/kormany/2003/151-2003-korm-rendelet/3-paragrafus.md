@@ -14,7 +14,7 @@ d) a szerződéskötés, valamint a fogyasztási cikk fogyasztó részére tört
 
 e) a fogyasztó jótállásból eredő jogait, azok érvényesíthetőségének határidejét, helyét és feltételeit, továbbá
 
-f)[^8] az arról szóló tájékoztatást, hogy fogyasztói jogvita esetén a fogyasztó a megyei (fővárosi) kereskedelmi és iparkamarák által működtetett békéltető testület eljárását is kezdeményezheti,
+f)[^8] az arról szóló tájékoztatást, hogy fogyasztói jogvita esetén a fogyasztó a vármegyei (fővárosi) kereskedelmi és iparkamarák által működtetett békéltető testület eljárását is kezdeményezheti,
 
 g)[^9] a vállalkozás bélyegzőlenyomatát és a kiállítás során a képviseletében eljáró személy aláírását, elektronikus dokumentumon való átadás esetén az elektronikus aláírást.
 
@@ -26,7 +26,7 @@ g)[^9] a vállalkozás bélyegzőlenyomatát és a kiállítás során a képvis
 
 [^6]: A 3. § (1) bekezdése a 97/2014. (III. 25.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^7]: A 3. § (3) bekezdése a 97/2014. (III. 25.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
-[^8]: A 3. § (3) bekezdés f) pontja a 270/2020. (VI. 12.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^8]: A 3. § (3) bekezdés f) pontja a 270/2020. (VI. 12.) Korm. rendelet 7. §-a, a 616/2022. (XII. 29.) Korm. rendelet 49. §-a szerint módosított szöveg.
 [^9]: A 3. § (3) bekezdés g) pontját a 270/2020. (VI. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^10]: A 3. § (4) bekezdése a 97/2014. (III. 25.) Korm. rendelet 1. § (10) bekezdés b) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^11]: A 3. § (5) bekezdését a 270/2020. (VI. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
