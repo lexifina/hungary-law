@@ -4,7 +4,7 @@ A pénztárnak a pénztártagot megillető hozamgarantált tőke összegét a k�
 
 ahol:
 
-HTn = a hozamgarantált tőke összege, ha a pénztártagság n naptári hónapon keresztül állt fenn (azokat a hónapokat is beleértve, amelyeknek nem teljes időszakában állt fenn a tagsági jogviszony);
+HTn= a hozamgarantált tőke összege, ha a pénztártagság n naptári hónapon keresztül állt fenn (azokat a hónapokat is beleértve, amelyeknek nem teljes időszakában állt fenn a tagsági jogviszony);
 
 bi = a pénztártagság i. hónapjában a tag egyéni számláján jóváírt kötelező és kiegészítő tagdíjbefizetés összege;
 
