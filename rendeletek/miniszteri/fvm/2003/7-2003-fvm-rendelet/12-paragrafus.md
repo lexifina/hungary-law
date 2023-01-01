@@ -1,5 +1,3 @@
-## 11. §[^5] A védekezés helyzetéről a megyei kormányhivatal évente köteles jelentést küldeni az agrárpolitikáért felelős miniszter által vezetett minisztériumnak.
-
 ## Záró rendelkezések
 
 12. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
@@ -9,5 +7,3 @@
 a) a Tanács 90/426/EGK irányelve a lófélék mozgására és harmadik országból történő behozatalra irányadó állategészségügyi feltételekről;
 
 b) a Bizottság 95/329/EK határozata a 90/426/EGK tanácsi irányelv 15. cikke b) pontjának (ii) alpontjában a vírusos arteritis-re vonatkozóan megállapított követelmény hatálya alá tartozó hímivarú lófélék kategóriájának meghatározásáról.
-
-[^5]: A 11. § a a 42/2017. (VIII. 17.) FM rendelet 44. § d) és e) pontja szerint módosított szöveg.
