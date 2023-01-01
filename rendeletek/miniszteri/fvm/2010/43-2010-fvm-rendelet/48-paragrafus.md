@@ -1,4 +1,4 @@
-## 47. §[^158] A toxikus termékekkel kapcsolatos tevékenységekre, kereskedelemre és forgalmazásra vonatkozó átmeneti intézkedésekre, és az ilyen termékek hivatásszerű használatával, beleértve a közvetítők tevékenységeit is, kapcsolatos tevékenységekre vonatkozó részletes rendelkezések megállapításáról szóló, 1974. június 4-i 74/556/EGK tanácsi irányelv 2. és 3. cikkében írt feltételek teljesüléséről az Európai Gazdasági Térség más tagállamában folytatni tervezett tevékenységhez szükséges igazolást az azt kérelmező lakóhelye szerint illetékes megyei kormányhivatal adja ki.
+## 47. §[^161] A toxikus termékekkel kapcsolatos tevékenységekre, kereskedelemre és forgalmazásra vonatkozó átmeneti intézkedésekre, és az ilyen termékek hivatásszerű használatával, beleértve a közvetítők tevékenységeit is, kapcsolatos tevékenységekre vonatkozó részletes rendelkezések megállapításáról szóló, 1974. június 4-i 74/556/EGK tanácsi irányelv 2. és 3. cikkében írt feltételek teljesüléséről az Európai Gazdasági Térség más tagállamában folytatni tervezett tevékenységhez szükséges igazolást az azt kérelmező lakóhelye szerint illetékes vármegyei kormányhivatal adja ki.
 
 ## Záró rendelkezések
 
@@ -6,22 +6,22 @@
 
 (2) Az e rendelet hatálybalépése előtt kiadott – a 21. § szerinti – engedélyeket a 21. § (8) bekezdésben foglalt feltétel teljesülése során megadott igazoló tanúsítvány kiállításakor kell felülvizsgálni az e rendeletben foglaltaknak való megfelelés tekintetében. Ennek során a kiadott engedélyeket módosítani kell vagy vissza kell vonni.
 
-(3)[^159] A növényvédelmi gépek műszaki felülvizsgálatát a 35. § (3) bekezdés szerinti alapképzés, és vizsga hiányában az első alapképzés elindulásáig, de legkésőbb 2019. december 31-éig az a felülvizsgálatra jogosult végezheti, aki a NÉBIH-nél kérelmezi a nyilvántartásba vételét, és annak a NÉBIH honlapján szereplő listában való közzétételét.
+(3)[^162] A növényvédelmi gépek műszaki felülvizsgálatát a 35. § (3) bekezdés szerinti alapképzés, és vizsga hiányában az első alapképzés elindulásáig, de legkésőbb 2019. december 31-éig az a felülvizsgálatra jogosult végezheti, aki a NÉBIH-nél kérelmezi a nyilvántartásba vételét, és annak a NÉBIH honlapján szereplő listában való közzétételét.
 
-(4)[^160]
+(4)[^163] A 30. § (8) bekezdése szerinti elektronikus adatszolgáltatást első alkalommal 2024. január 31-ig kell teljesíteni a 2023. naptári év vonatkozásában.
 
-(5)[^161]
+(5)[^164]
 
-(6)[^162]
+(6)[^165]
 
-(7)[^163]
+(7)[^166]
 
-(8)[^164]
+(8)[^167]
 
-[^158]: A 47. § a 70/2013. (VII. 31.) VM rendelet 125. § h) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja szerint módosított szöveg.
-[^159]: A 48. § (3) bekezdését a (8) bekezdés hatályon kívül helyezte, újonnan a 35/2019. (VII. 15.) AM rendelet 19. § iktatta be.
-[^160]: A 48. § (4) bekezdését a 45/2021. (XII. 1.) AM rendelet 18. § f) pontja újból hatályon kívül helyezte.
-[^161]: A 48. § (5) bekezdését a (8) bekezdés hatályon kívül helyezte.
-[^162]: A 48. § (6) bekezdését a (8) bekezdés hatályon kívül helyezte.
-[^163]: A 48. § (7) bekezdését a (8) bekezdés hatályon kívül helyezte.
-[^164]: A 48. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^161]: A 47. § a 70/2013. (VII. 31.) VM rendelet 125. § h) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^162]: A 48. § (3) bekezdését a (8) bekezdés hatályon kívül helyezte, újonnan a 35/2019. (VII. 15.) AM rendelet 19. § iktatta be.
+[^163]: A 48. § (4) bekezdését a 45/2021. (XII. 1.) AM rendelet 18. § f) pontja újból hatályon kívül helyezte, újonnan a 22/2022. (VII. 29.) AM rendelet 2. §-a iktatta be.
+[^164]: A 48. § (5) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^165]: A 48. § (6) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^166]: A 48. § (7) bekezdését a (8) bekezdés hatályon kívül helyezte.
+[^167]: A 48. § (8) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
