@@ -1,5 +1,3 @@
-## tájékoztatásáról.
-
 ## 7. Szabálytalanságok kezelése
 
 10. § (1)[^19] A program keretében nyújtott támogatás folyósítására, a pénzügyi ellenőrzésre, a jogosulatlanul igénybe vett támogatás visszatérítésére, behajtására az Fftv. és az Flt. szabályait kell megfelelően alkalmazni, a (2) bekezdésben foglaltakra figyelemmel.

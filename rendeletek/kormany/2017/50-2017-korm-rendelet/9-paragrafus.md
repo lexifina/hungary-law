@@ -18,5 +18,7 @@ b) a program lebonyolításában közreműködők és
 
 c) a programban részt vevők
 
+tájékoztatásáról.
+
 [^17]: A 9. § (1) bekezdés a) pontja a 739/2021. (XII. 21.) Korm. rendelet 5. § i) pontja szerint módosított szöveg.
 [^18]: A 9. § (1) bekezdés d) pontja a 739/2021. (XII. 21.) Korm. rendelet 5. § j) pontja szerint módosított szöveg.
