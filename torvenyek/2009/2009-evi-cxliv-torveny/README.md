@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-144-00-00
 | 2018-01-01 | 2017. évi CXXXVI. törvény | 2009-144-00-00.13 |
 | 2019-01-11 | 2018. évi CXXXVII. törvény | 2009-144-00-00.14 |
 | 2020-01-30 | 4/2020. (I. 29.) AB határozat | 2009-144-00-00.15 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2009-144-00-00.16 |
