@@ -262,7 +262,7 @@
 
 | Név | Leírás | Hivatkozás |
 
-| ID JAROFEKVO MEGYE INTKOD INTEZET GYFKOD EGYSEG ORVOSNEV PECSETKOD | Elsődleges azonosító J: járó-, F: fekvőbeteg intézmény Megye Az intézet kódja Intézet neve GYF kód Intézeten belüli egység (osztály, szakambulancia,...) neve A jogosult orvos neve A jogosult orvos pecsétkódja | 4. § (5) gb) |
+| ID JAROFEKVO VÁRMEGYE INTKOD INTEZET GYFKOD EGYSEG ORVOSNEV PECSETKOD | Elsődleges azonosító J: járó-, F: fekvőbeteg intézmény Megye Az intézet kódja Intézet neve GYF kód Intézeten belüli egység (osztály, szakambulancia,...) neve A jogosult orvos neve A jogosult orvos pecsétkódja | 4. § (5) gb) |
 
 ## 1.10 KIINTHOZZAR Tábla
 
