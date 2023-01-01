@@ -1,5 +1,3 @@
-## A nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított beruházásokra vonatkozó alapadatok
-
 |  | A | B | C | D | E | F | G | H |
 
 | 1 | A nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított beruházásokra vonatkozó alapadatok |
@@ -31,3 +29,5 @@
 | 14 | 11. |  |  |  |  |  |  |  |
 
 4. melléklet a 7/2022. (IV. 21.) MvM rendelethez
+
+Negyedéves tájékoztatás a nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított beruházások vonatkozásában
