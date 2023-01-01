@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-65-20-2
 | 2021-09-29 | 2019-65-20-22.5 | 552/2021. (IX. 28.) Korm. rendelet |
 | 2022-12-16 | 2019-65-20-22.6 | 523/2022. (XII. 15.) Korm. rendelet |
 | 2022-12-23 | 2019-65-20-22.7 | 494/2020. (XI. 11.) Korm. rendelet |
+| 2023-01-01 | 2019-65-20-22.8 | 494/2020. (XI. 11.) Korm. rendelet |
