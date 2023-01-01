@@ -30,6 +30,8 @@ I. Általános rendelkezések
 
 1.12. Speciális keretjellegű instrumentum: olyan keretinstrumentum, amelyből a szerződés alapján több, eltérő tulajdonsággal rendelkező instrumentum keletkezhet [pl. többdevizás (multicurrency), többcélú (multipurpose) és faktoring hitelkeretek], vagy amely esetén a keret nyílásakor az alaptulajdonságok (pl. kamatozás) még nem ismertek.
 
+1.12a. Taxonómia: a fenntartható befektetések előmozdítását célzó keret létrehozásáról, valamint az (EU) 2019/2088 rendelet módosításáról szóló, 2020. június 18-i (EU) 2020/852 európai parlamenti és tanácsi rendelet alapján létrehozott fenntartható befektetések előmozdítását célzó keret.
+
 1.13. Többcélú (multipurpose) hitel: olyan hitel, amelyben a hitelnyújtó lehetőséget nyújt az ügyfélnek arra, hogy a hitelt az általa megválasztott, a hitelszerződésben előzetesen meghatározott instrumentum típusokra (célokra) hívhassa le, ideértve a garanciát is. Ennek megfelelően a garancialehívási lehetőséget is tartalmazó hitelszerződés többcélú (multipurpose) hitelszerződésként jelentendő.
 
 1.14. Többdevizás (multicurrency) hitel: az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet 2. melléklet I. F. pontjában meghatározott fogalom.
@@ -126,13 +128,15 @@ az irányadók.
 
 6. Irányelvek
 
-A statisztikai információk helyessége érdekében
+6.1. A statisztikai információk helyessége érdekében
 
 a) egy adatszolgáltató azonos tartalmú adatainak egymással konzisztensnek kell lenniük,
 
 b) a szolgáltatott statisztikai információknak teljes körűeknek kell lenniük,
 
 c) az adott adatszolgáltató által teljesített különböző típusú adatszolgáltatásokban az azonos számviteli tartalmú adatoknak tételesen meg kell egyezniük.
+
+6.2. A hitelintézet és az ezen típusú EGT-fióktelep által az alapvető feladatokhoz kapcsolódó adatszolgáltatási MNB rendelet szerinti M01, M11 MNB azonosító kódú, valamint a hivatkozott adatszolgáltatásokban jelentett egyes adatok részletezésére szolgáló M02 és M03 MNB azonosító kódú adatszolgáltatásokban jelentett adatoknak a jelen rendelet szerinti adatszolgáltatásban jelentett adatokkal konzisztensnek kell lennie. Ennek érdekében, amennyiben az M11 MNB azonosító kódú adatszolgáltatás az azonos tárgyidőszakra (fordulónapra) vonatkozó M01 MNB azonosító kódú adatszolgáltatáshoz képest a jelen rendelet szerinti adatszolgáltatásban jelentendő hitelek és hiteljellegű követelések adatai tekintetében változást tartalmaz, és ennek nyomán módosítani szükséges a kapcsolódó M02, illetve M03 MNB azonosító kódú adatszolgáltatásokat, a jelen rendelet szerinti adatszolgáltatást is módosítani szükséges az adott tárgyidőszaktól kezdődően, a változással érintett valamennyi tárgyidőszak tekintetében.
 
 7. Országonkénti bontás
 
@@ -270,13 +274,13 @@ Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamin
 
 A hitelintézet, valamint az ezen típusú EGT-fióktelep tekintetében nem töltendő a 26. sorszámú attribútumra vonatkozó mező.
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő az 5., 6., 14–17., 23., 24., 26. sorszámú attribútumra vonatkozó mező.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő az 5., 6., 14–17., 23., 26. sorszámú attribútumra vonatkozó mező.
 
 12.3. INSTR Instrumentum – nem speciális keretjellegű és nem keretjellegű
 
 A hitelintézet, valamint az ezen típusú EGT-fióktelep tekintetében nem töltendő az 51., 54., 80., 81., 87., 88., 125., 126. sorszámú attribútumra vonatkozó mező.
 
-Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 6., 7., 21., 24., 28–30., 35., 40., 42., 46–48., 50–54., 59., 61–74., 80., 81., 87., 88., 93–96., 105–110., 112., 125–128., 130–134., 138., 141., 155., 156., 161., 170–173., 192. sorszámú attribútumra vonatkozó mező.
+Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamint az MNB által kijelölt, összevont alapú felügyelet alá nem tartozó pénzügyi vállalkozás tekintetében nem töltendő a 6., 7., 21., 24., 28–30., 35., 40., 42., 46–48., 50–54., 59., 65., 70., 80., 81., 87., 88., 93–96., 109., 110., 112., 125., 126., 130., 138., 141., 173., 188. sorszámú attribútumra vonatkozó mező.
 
 12.4. INSTM Instrumentum – megszűnés
 
@@ -348,4 +352,4 @@ Az összevont alapú felügyelet alá tartozó pénzügyi vállalkozás, valamin
 
 13. Az adatszolgáltatáshoz használandó kódokat, illetve a kitöltést segítő módszertani útmutatást a 3. melléklet 2., illetve 3. pontja szerinti, az MNB honlapján közzétett technikai segédlet tartalmazza. Az adatszolgáltatás hibátlan beküldését elősegítő ellenőrzési szabályokat a 3. melléklet 5. pontja szerinti, az MNB honlapján közzétett technikai segédlet tartalmazza.
 
-[^7]: A 2. melléklet a 46/2020. (XI. 20.) MNB rendelet 5. § (2) bekezdésével megállapított, az 59/2021. (XI. 24.) MNB rendelet 3. § b) pontja szerint módosított szöveg.
+[^7]: A 2. melléklet a 46/2020. (XI. 20.) MNB rendelet 5. § (2) bekezdésével megállapított, az 59/2021. (XI. 24.) MNB rendelet 3. § b) pontja, a 18/2022. (V. 25.) MNB rendelet 2. § b) pontja szerint módosított szöveg.

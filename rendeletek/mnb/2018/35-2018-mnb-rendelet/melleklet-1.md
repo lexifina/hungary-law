@@ -1,4 +1,4 @@
-## 6. §[^5] A hitelintézet és az ezen típusú EGT-fióktelep az adatszolgáltatást a jegybanki információs rendszerhez a hitelügyletek egyes adataira vonatkozóan teljesítendő adatszolgáltatási kötelezettségekről szóló 35/2018. (XI. 13.) MNB rendelet módosításáról szóló 59/2021. (XI. 24.) MNB rendelet 1. mellékletével módosított 1. mellékletben meghatározott adattartalommal és a jegybanki információs rendszerhez a hitelügyletek egyes adataira vonatkozóan teljesítendő adatszolgáltatási kötelezettségekről szóló 35/2018. (XI. 13.) MNB rendelet módosításáról szóló 59/2021. (XI. 24.) MNB rendelet 2. mellékletével módosított 2. mellékletben foglalt kitöltési előírások szerint első alkalommal 2022. június hónapra mint tárgyidőszakra vonatkozóan jelenti.
+## 6. §[^5] A hitelintézet és az ezen típusú EGT-fióktelep az adatszolgáltatást a jegybanki információs rendszerhez a hitelügyletek egyes adataira vonatkozóan teljesítendő adatszolgáltatási kötelezettségekről szóló 35/2018. (XI. 13.) MNB rendelet módosításáról szóló 18/2022. (V. 25.) MNB rendelet 1. mellékletével módosított 1. mellékletben meghatározott adattartalommal és a jegybanki információs rendszerhez a hitelügyletek egyes adataira vonatkozóan teljesítendő adatszolgáltatási kötelezettségekről szóló 35/2018. (XI. 13.) MNB rendelet módosításáról szóló 18/2022. (V. 25.) MNB rendelet 2. mellékletével módosított 2. mellékletben foglalt kitöltési előírások szerint első alkalommal 2023. március hónapra mint tárgyidőszakra vonatkozóan jelenti.
 
 1. melléklet a 35/2018. (XI. 13.) MNB rendelethez[^6]
 
@@ -88,17 +88,17 @@ Az adatszolgáltatás részletes adattartalma
 
 | 26. | Keret egyéb jellemzője |
 
-| 27. | Effektív kamatláb |
+| 27. | A keret értékvesztése értékelésének módja |
 
-| 28. | Várható élettartam |
+| 28. | A keret értékvesztésének típusa |
 
-| 29. | Céltartalék korrekció |
+| 29. | Az instrumentum cash-pool konstrukció részét képezi-e? |
 
-| 30. | Bedőléskor fennálló kitettség (EAD) |
+| 30. | Cash-pool konstrukció típusa |
 
-| 31. | A keret értékvesztése értékelésének módja |
+| 31. |  |
 
-| 32. | A keret értékvesztésének típusa |
+| 32. |  |
 
 4. INSTR Instrumentum – nem speciális keretjellegű és nem keretjellegű
 
@@ -474,23 +474,29 @@ Az adatszolgáltatás részletes adattartalma
 
 | 185. | Effektív kamatláb |
 
-| 186. | Várható élettartam |
+| 186. | Operatív program megnevezése |
 
-| 187. | Értékvesztés korrekció |
+| 187. | Moratórium típusa |
 
-| 188. | Céltartalék korrekció |
+| 188. | Az instrumentum infrastruktúratámogató faktor (ISF) által érintett-e? |
 
-| 189. | Bedőléskor fennálló kitettség (EAD) |
+| 189. | A keret értékvesztése értékelésének módja |
 
-| 190. | Operatív program megnevezése |
+| 190. | A keret értékvesztésének típusa |
 
-| 191. | Moratórium típusa |
+| 191. | Az instrumentum cash-pool konstrukció részét képezi-e? |
 
-| 192. | Az instrumentum infrastruktúratámogató faktor (ISF) által érintett-e |
+| 192. | Cash-pool konstrukció típusa |
 
-| 193. | A keret értékvesztése értékelésének módja |
+| 193. | Taxonómiához igazodó vagy igazítható kitettség-e? |
 
-| 194. | A keret értékvesztésének típusa |
+| 194. | Taxonómia szerinti cél megnevezése |
+
+| 195. | Taxonómiához igazodó kitettség jellege |
+
+| 196. | Finanszírozott ágazat kódja |
+
+| 197. | Az átstrukturált hitel gyógyulási időszakának kezdete |
 
 5. INSTM Instrumentum – megszűnés
 
@@ -576,11 +582,11 @@ Az adatszolgáltatás részletes adattartalma
 
 | 20. | Várható hitelezési veszteség alapján származtatott nemteljesítési valószínűség (PD) |
 
-| 21. | Értékvesztés-/céltartalékképzés során alkalmazott nemteljesítési valószínűség (PD) |
+| 21. |  |
 
-| 22. | Értékvesztés-/céltartalékképzés során alkalmazott nemteljesítéskori veszteségráta (LGD) |
+| 22. |  |
 
-| 23. | Értékvesztés-/céltartalékképzés során alkalmazott hitelegyenértékesítési tényező (CCF) |
+| 23. |  |
 
 7. INST_UGYF Instrumentum – ügyfél
 
@@ -623,6 +629,8 @@ Az adatszolgáltatás részletes adattartalma
 | 18. | Az ügyfél új ügyfél-e? |
 
 | 19. | Az ügyfél családi állapota |
+
+| 20. | Cash-pool szerepkör |
 
 8. FEDE Fedezet – eredeti
 
@@ -676,6 +684,12 @@ Az adatszolgáltatás részletes adattartalma
 
 | 24. | Ingatlanfedezet hitelbírálatkori piaci érték meghatározási módszere |
 
+| 25. | Hiteles energetikai tanúsítvány kelte – eredeti |
+
+| 26. | Összesített energetikai jellemző (kWh/m2) – eredeti |
+
+| 27. | Energetikai besorolás kódja – eredeti |
+
 9. FEDA Fedezet – aktuális
 
 | Attribútum sorszáma | Attribútum megnevezése |
@@ -717,6 +731,12 @@ Az adatszolgáltatás részletes adattartalma
 | 18. | Aktuális fedezetértékelési módszer |
 
 | 19. | Ingatlanfedezet aktuális piaci érték meghatározási módszere |
+
+| 20. | Hiteles energetikai tanúsítvány kelte – aktuális |
+
+| 21. | Összesített energetikai jellemző (kWh/m2) – aktuális |
+
+| 22. | Energetikai besorolás kódja – aktuális |
 
 10. INST_FED Instrumentum – fedezet
 
@@ -785,6 +805,12 @@ Az adatszolgáltatás részletes adattartalma
 | 31. | Fedezet elfogadhatósági jelölés befogadáskor |
 
 | 32. | Fedezet elfogadhatósági jelölés (aktuális) |
+
+| 33. | Megelőző saját terhek értéke |
+
+| 34. | Megelőző saját terhek értéke – devizanem |
+
+| 35. | A fedezet az értékvesztésképzés során figyelembevételre kerül-e? |
 
 11. FED_UGYF Fedezet – ügyfél
 
@@ -1061,6 +1087,8 @@ Az adatszolgáltatás részletes adattartalma
 | 37. | Az összevont alapú felügyelet alá tartozó, az adatszolgáltatót magában foglaló intézménycsoportnál az ügyféllel szembeni követelés nagykockázati kitettség-e? |
 
 | 38. | Az adós/adóstárs ügyfélnek az adott intézménynél volt-e korábban 30 napon túli késedelemben lévő hitele? |
+
+| 39. | A vállalkozás ágazata |
 
 19. UGYFBVTN Ügyfél – belföldi vállalkozás – törzsszámmal nem rendelkező vállalkozások
 
@@ -1380,5 +1408,5 @@ Az adatszolgáltatás részletes adattartalma
 
 | 5. | Instrumentum azonosítója a K23 MNB azonosító kódú adatszolgáltatásban |
 
-[^5]: A 6. §-t a 46/2020. (XI. 20.) MNB rendelet 3. §-a iktatta be, szövege az 59/2021. (XI. 24.) MNB rendelet 1. §-ával megállapított szöveg.
-[^6]: Az 1. melléklet a 46/2020. (XI. 20.) MNB rendelet 5. § (1) bekezdése, az 59/2021. (XI. 24.) MNB rendelet 3. § a) pontja szerint módosított szöveg.
+[^5]: A 6. § a 18/2022. (V. 25.) MNB rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet a 46/2020. (XI. 20.)MNB rendelet 5. § (1) bekezdése, az 59/2021. (XI. 24.) MNB rendelet 3. § a) pontja, a 18/2022. (V. 25.) MNB rendelet 2. § a) pontja szerint módosított szöveg.
