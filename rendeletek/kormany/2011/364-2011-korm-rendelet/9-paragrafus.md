@@ -1,4 +1,4 @@
-## 8. §[^29] E rendeletnek az egyes közlekedési tárgyú kormányrendeletek módosításáról szóló 467/2015. (XII. 29.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 1. § (4) és (5) bekezdését a Módr5. hatálybalépésekor[^30] folyamatban lévő ügyekben is alkalmazni kell.
+## 8. §[^30] E rendeletnek az egyes közlekedési tárgyú kormányrendeletek módosításáról szóló 467/2015. (XII. 29.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 1. § (4) és (5) bekezdését a Módr5. hatálybalépésekor[^31] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^29]: A 8. §-t a 467/2015. (XII. 29.) Korm. rendelet 32. §-a iktatta be.
-[^30]: A hatálybalépés napja 2016. január 1.
+[^30]: A 8. §-t a 467/2015. (XII. 29.) Korm. rendelet 32. §-a iktatta be.
+[^31]: A hatálybalépés napja 2016. január 1.
