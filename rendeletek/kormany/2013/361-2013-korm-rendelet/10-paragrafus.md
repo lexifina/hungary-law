@@ -12,5 +12,7 @@ d) a 112-es egységes európai segélyhívón alapuló, a járműből érkező v
 
 e)[^7] a termékekre és a szolgáltatásokra vonatkozó akadálymentességi követelményekről szóló, 2019. április 17-i 2019/882/EU európai parlamenti és tanácsi irányelv 4. cikk (8) bekezdésének
 
+való megfelelést szolgálja.
+
 [^6]: A 10. § (2) bekezdés a) pontja az 572/2020. (XII. 9.) Korm. rendelet 63. §-ával megállapított szöveg.
 [^7]: A 10. § (2) bekezdés e) pontját a 252/2022. (VII. 13.) Korm. rendelet 3. §-a iktatta be.
