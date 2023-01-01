@@ -14,7 +14,7 @@ c) radiológiai, biológiai és vegyi védelmi eszközök, minősített időszak
 
 d) a területi katasztrófavédelmi szerv javítóműhelyeinek felszerelése, berendezése, alkatrészkészlete;
 
-e) az országos és a megyei kiképzőbázisok működtetésével kapcsolatos költségvetési előirányzatok.
+e) az országos és a vármegyei kiképzőbázisok működtetésével kapcsolatos költségvetési előirányzatok.
 
 (6) Az (5) bekezdés a)–b) és e) pontjában említett költségvetési eszközzel a központi katasztrófavédelmi szerv, a c)–d) pontokban foglaltakkal a területi katasztrófavédelmi szerv gazdálkodik.
 
