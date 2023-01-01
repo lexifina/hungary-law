@@ -1,0 +1,3 @@
+43. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 37. §-a a következő (1) bekezdéssel egészül ki:
+
+„(1) A Földforgalmi törvény 23. § (1) bekezdése és 23/A. § (1a) bekezdése szerinti megkeresés esetén a mezőgazdasági igazgatási szerv a jóváhagyás megtagadásáról, a kérelem visszautasításáról vagy az eljárás megszüntetéséről szóló végleges döntés megküldésével tájékoztatja az ingatlanügyi hatóságot. A mezőgazdasági igazgatási szerv a döntésével egyidejűleg megkeresi a föld fekvése szerint illetékes ingatlanügyi hatóságot a föld tulajdonjogának átruházására irányuló szerződés benyújtása tényének törlése iránt.”

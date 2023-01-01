@@ -1,0 +1,3 @@
+37. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 58. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A haszonbérleti szerződés módosítása esetén ebben az alcímben foglaltakat akkor kell alkalmazni, ha a módosítással a szerződés időtartama kerül meghosszabbításra, illetve ha a módosítás a haszonbér mértékének a csökkentésére irányul. A szerződés meghosszabbított időtartama nem lépheti túl a 44. §-ban meghatározott maximális időtartamot. Nem kell a mezőgazdasági igazgatási szerv jóváhagyása a haszonbér mértékének csökkentésére irányuló módosításra, ha a csökkentésre a bíróság ítélete alapján kerül sor.”
