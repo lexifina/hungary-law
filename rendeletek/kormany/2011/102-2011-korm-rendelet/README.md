@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-102-20-
 | 2020-08-15 | 2011-102-20-22.23 | 392/2020. (VIII. 12.) Korm. rendelet |
 | 2021-07-14 | 2011-102-20-22.24 | 414/2021. (VII. 13.) Korm. rendelet |
 | 2022-07-01 | 2011-102-20-22.25 | 61/2012. (III. 30.) Korm. rendelet |
+| 2023-01-01 | 2011-102-20-22.26 | 616/2022. (XII. 29.) Korm. rendelet |
