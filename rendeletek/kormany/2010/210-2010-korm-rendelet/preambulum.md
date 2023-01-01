@@ -1,1 +1,0 @@
-A Kormány az Alkotmány 35. §-ának (2) bekezdésében megállapított eredeti jogalkotói hatáskörében, az Alkotmány 40. § (2) bekezdésében megállapított feladatkörében eljárva, a következő rendeletet alkotja:
