@@ -26,43 +26,43 @@
 
 |  | 01 | Fővárosi Katasztrófavédelmi Igazgatóság |
 
-|  | 02 | Baranya Megyei Katasztrófavédelmi Igazgatóság |
+|  | 02 | Baranya Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 03 | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság |
+|  | 03 | Bács-Kiskun Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 04 | Békés Megyei Katasztrófavédelmi Igazgatóság |
+|  | 04 | Békés Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 05 | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság |
+|  | 05 | Borsod-Abaúj-Zemplén Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 06 | Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság |
+|  | 06 | Csongrád-Csanád Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 07 | Fejér Megyei Katasztrófavédelmi Igazgatóság |
+|  | 07 | Fejér Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 08 | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság |
+|  | 08 | Győr-Moson-Sopron Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 09 | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság |
+|  | 09 | Hajdú-Bihar Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 10 | Heves Megyei Katasztrófavédelmi Igazgatóság |
+|  | 10 | Heves Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 11 | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság |
+|  | 11 | Komárom-Esztergom Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 12 | Nógrád Megyei Katasztrófavédelmi Igazgatóság |
+|  | 12 | Nógrád Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 13 | Pest Megyei Katasztrófavédelmi Igazgatóság |
+|  | 13 | Pest Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 14 | Somogy Megyei Katasztrófavédelmi Igazgatóság |
+|  | 14 | Somogy Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 15 | Szabolcs-Szatmár-Bereg Megyei Katasztrófavédelmi Igazgatóság |
+|  | 15 | Szabolcs-Szatmár-Bereg Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 16 | Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság |
+|  | 16 | Jász-Nagykun-Szolnok Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 17 | Tolna Megyei Katasztrófavédelmi Igazgatóság |
+|  | 17 | Tolna Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 18 | Vas Megyei Katasztrófavédelmi Igazgatóság |
+|  | 18 | Vas Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 19 | Veszprém Megyei Katasztrófavédelmi Igazgatóság |
+|  | 19 | Veszprém Vármegyei Katasztrófavédelmi Igazgatóság |
 
-|  | 20 | Zala Megyei Katasztrófavédelmi Igazgatóság |
+|  | 20 | Zala Vármegyei Katasztrófavédelmi Igazgatóság |
 
 |  | 21 | BM Országos Katasztrófavédelmi Főigazgatóság |
 
