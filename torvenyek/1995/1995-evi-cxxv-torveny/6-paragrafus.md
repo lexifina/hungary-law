@@ -10,9 +10,9 @@ d) működési területén felderíti és elhárítja Magyarország törvényes 
 
 e) feladatkörét érintően információkat gyűjt a válságkörzetekről, illetve a Magyar Honvédség műveleti területen lévő alakulatait és azok állományát veszélyeztető törekvésekről és tevékenységekről, valamint részt vesz a Magyar Honvédség műveleti területen alkalmazott erőinek nemzetbiztonsági védelmében, felkészítésében és támogatásában;
 
-f) biztosítja a honvédelemért felelős miniszter által vezetett minisztérium és a Magyar Honvédség Parancsnoksága védelmi, hadászati-hadműveleti tervező munkájához szükséges információkat, valamint működteti Magyarország katonai egységes felderítő rendszerét;
+f) biztosítja a honvédelemért felelős miniszter által vezetett minisztérium és a Honvéd Vezérkar védelmi, hadászati-hadműveleti tervező munkájához szükséges információkat, valamint működteti Magyarország katonai egységes felderítő rendszerét;
 
-g) információkat gyűjt a honvédelmi érdeket veszélyeztető kibertevékenységekről és -szervezetekről, jogszabály keretei között ellátja a honvédelmi ágazat elektronikus információbiztonsági feladatait, biztosítja a honvédelemért felelős miniszter által vezetett minisztérium, valamint a Magyar Honvédség Parancsnoksága információvédelmi tervező munkájához szükséges információkat, továbbá kibertér műveleti képességeivel ellátja a honvédelmi érdekek nemzetbiztonsági jellegű védelmét és a Magyar Honvédség kibervédelmének és műveleteinek támogatását;
+g) információkat gyűjt a honvédelmi érdeket veszélyeztető kibertevékenységekről és -szervezetekről, észleli a kibertérből érkező fenyegetéseket és támadásokat, jogszabály keretei között ellátja a honvédelmi ágazat elektronikus információbiztonsági feladatait, biztosítja a honvédelemért felelős miniszter által vezetett minisztérium, valamint a Honvéd Vezérkar tervező munkájához szükséges, kibertérrel összefüggő nemzetbiztonsági jellegű információkat, továbbá kibertér műveleti képességeivel ellátja a honvédelmi érdekek nemzetbiztonsági jellegű védelmét és együttműködik a Magyar Honvédség kiberműveleti erőivel;
 
 h) információkat gyűjt a nemzetbiztonságot veszélyeztető terrorszervezetekről, felderíti és elhárítja a honvédelmi szervezeteknél a külföldi hatalmak, személyek vagy szervezetek terrorcselekmény elkövetésére irányuló törekvéseit;
 

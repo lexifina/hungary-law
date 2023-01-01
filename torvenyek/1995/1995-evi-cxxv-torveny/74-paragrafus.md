@@ -36,13 +36,13 @@ ib) a miniszter, a miniszterelnök politikai igazgatója, az államtitkár, a ko
 
 ic) a közigazgatási államtitkár, a helyettes államtitkár, a miniszteri biztos;
 
-id) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányzati főhivatal, valamint a fővárosi és megyei kormányhivatal vezetője és vezetőhelyettese;
+id) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányzati főhivatal, valamint a fővárosi és vármegyei kormányhivatal vezetője és vezetőhelyettese;
 
 ie) az Országgyűlés Hivatalának főigazgatója, az Országgyűlés Hivatala Szervezeti és Működési Szabályzatában meghatározott hivatali szerveinek, illetve azok önálló szervezeti egységeinek vezetői és helyetteseik;
 
 if) a Köztársasági Elnöki Hivatal vezetője, valamint a Köztársasági Elnöki Hivatal önálló szervezeti egységének a vezetője;
 
-ig) a Magyar Honvédség parancsnoka és helyettesei;
+ig) a Honvéd Vezérkar főnöke és helyettese;
 
 ih) a rendvédelmi szerv országos parancsnoka és helyettese, a Katonai Nemzetbiztonsági Szolgálat főigazgatója és főigazgató-helyettese, a rendőrfőkapitány, a rendőrkapitány és a határrendészeti kirendeltség vezetője;
 

@@ -32,7 +32,7 @@ A védelem alá eső tisztségek:
 
 15. a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese
 
-16. a Magyar Honvédség parancsnoka,
+16. a Honvéd Vezérkar főnöke,
 
 17. a nemzetbiztonsági szolgálatok felügyeletével, illetve tevékenységük összehangolásával kapcsolatos feladatokat ellátó politikai és szakmai felsővezetők,
 
