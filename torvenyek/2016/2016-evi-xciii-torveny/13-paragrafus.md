@@ -8,9 +8,9 @@
 
 (2) A közös jogkezelő szervezet köteles az (1) bekezdésben foglaltaknak megfelelő megbízást elfogadni.
 
-(3) A jogosult ugyanazon ország tekintetében ugyanazon típusú műveivel vagy kapcsolódó jogi teljesítményeivel kapcsolatos ugyanazon szerzői jog vagy kapcsolódó jog kezelésével kizárólag egy közös jogkezelő szervezetet bízhat meg. E rendelkezés nem vonatkozik arra az esetre, amikor a zeneművek szerzője e törvény Második Része alapján zeneművei 62. § szerinti felhasználásának több EGT-állam területére kiterjedő hatályú engedélyezésével kapcsolatos közös jogkezelésre ad jogkezelési megbízást az ehhez szükséges feltételeket teljesítő közös jogkezelő szervezet részére.
+(3) A jogosult ugyanazon ország tekintetében ugyanazon típusú műveivel vagy kapcsolódó jogi teljesítményeivel kapcsolatos ugyanazon szerzői jog vagy kapcsolódó jog kezelésével kizárólag egy közös jogkezelő szervezetet bízhat meg.
 
-(4) Jogkezelési megbízás kizárólag a jogosult adott mű- vagy teljesítménytípusba tartozó valamennyi művére vagy kapcsolódó jogi teljesítményére kiterjedő hatállyal adható. E rendelkezés nem vonatkozik a Második Rész alapján a zeneművek szerzői által a zeneműveik 62. § szerinti felhasználásának több EGT-állam területére kiterjedő hatályú engedélyezésével kapcsolatos közös jogkezelésre adott jogkezelési megbízásra.
+(4) Jogkezelési megbízás kizárólag a jogosult adott mű- vagy teljesítménytípusba tartozó valamennyi művére vagy kapcsolódó jogi teljesítményére kiterjedő hatállyal adható.
 
 (5) Ha a reprezentatív közös jogkezelő szervezet által a 17. § (1) bekezdése alapján már képviselt jogosult a képviselet körébe tartozó műveivel vagy kapcsolódó jogi teljesítményeivel kapcsolatos szerzői jog vagy kapcsolódó jog kezelésével egy másik közös jogkezelő szervezet részére ad jogkezelési megbízást, az ilyen jogkezelési megbízás a jogkezelési megbízás elfogadása szerinti naptári év végét követő év első napján lép hatályba, feltéve, hogy
 
