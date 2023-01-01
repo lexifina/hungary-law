@@ -1,0 +1,1 @@
+50. § A kormányablak a 9. mellékletben meghatározott ügyekben kizárólagos hatáskörben vagy az ügyre vonatkozó jogszabályban meghatározott, az eljárásra hatáskörrel és illetékességgel rendelkező hatóság helyett jár el, az eljárásra meghatározott ügyintézési határidőn belül.

@@ -1,0 +1,1 @@
+57. § A kormányablak az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerint az állam által kötelezően nyújtott azonosítási szolgáltatás, valamint a rendelkezési nyilvántartás ügyfél-regisztrációs eljárás szerveként jár el.

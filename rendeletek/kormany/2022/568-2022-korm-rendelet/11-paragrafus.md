@@ -1,0 +1,1 @@
+11. § A miniszter a 10. § b) pontja szerinti feladatát, valamint a közigazgatás-fejlesztésért felelős miniszter a 6. § (2) bekezdés b) pontja szerinti feladatát a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság bevonásával látja el.

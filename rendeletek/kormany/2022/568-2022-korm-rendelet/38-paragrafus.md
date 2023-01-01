@@ -1,0 +1,13 @@
+## 21. Koordináció
+
+38. § A kormányhivatal a Kit. 42. § (3) bekezdésében meghatározott koordinációs jogkörében ellátott koordinációs feladat- és hatáskörében különösen
+
+a) gondoskodik a több ágazatot érintő kormányzati döntések végrehajtásának területi összehangolásáról,
+
+b) a személyügyi központ vezetője által meghatározottak szerint közreműködik a központi közszolgálati nyilvántartás működtetésével kapcsolatos feladatok ellátásában,
+
+c) közreműködik a közigazgatás korszerűsítésével, az e-közigazgatás kialakításával kapcsolatos feladatok területi összehangolásában, szervezésében,
+
+d) kezdeményezi a központi államigazgatási szervek területi szervei ügyfélfogadási, ügyfélszolgálati rendszerének összehangolását, továbbá szakmai támogatást nyújt az ügyfélszolgálati tevékenység bővítéséhez, valamint
+
+e) gondoskodik a területi elektronikus ügyfél-tájékoztatási rendszer koordinálásáról, ennek keretében elősegíti annak naprakész működését.

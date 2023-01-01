@@ -1,0 +1,3 @@
+52. § (1) A kormányablak a 8. és 9. melléklet szerinti ügyekben a 49. és 50. §-ban meghatározottak mellett az ügyfél kérésére részletes tájékoztatást nyújt az eljárás menetéről, az adott eljárással kapcsolatos ügyféli jogokról és kötelezettségekről, valamint szükség esetén segítséget nyújt az ügyfélnek a beadvány kitöltésében.
+
+(2) Az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet szerinti tudástárban (a továbbiakban: tudástár) meghatározott ügyekben a kormányablak az ügyfél kérésére részletes tájékoztatást nyújt az eljárás menetéről, az adott eljárással kapcsolatos ügyféli jogokról és kötelezettségekről.
