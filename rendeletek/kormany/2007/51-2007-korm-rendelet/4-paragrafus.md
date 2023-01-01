@@ -18,7 +18,7 @@ a)[^13]
 
 b)[^14] az Nftv. 82. §-ában foglaltak szerint igénybe vett szolgáltatások térítési díja
 
-## esetében.
+esetében.
 
 (4) A kollégiumi díj befizetésének kötelezettsége alól szociális helyzete miatt mentesülhet az a hallgató, aki hátrányos helyzetű, aki árva, aki családfenntartó, vagy akinek gyámsága nagykorúsága miatt szűnt meg. Az intézmény a kollégiumi munkát végző hallgató számára a kollégiumi díjból kedvezményt, mentességet biztosíthat a térítési és juttatási szabályzatában meghatározottak szerint.
 

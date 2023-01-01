@@ -1,6 +1,4 @@
-## 31. §[^119]
-
-## A hallgatói juttatásokhoz nyújtott normatív hozzájárulásnál figyelembe vehető hallgatói kör és a figyelembe vehető hallgatói létszám megállapításának rendje[^120]
+## A hallgatói juttatásokhoz nyújtott normatív hozzájárulásnál figyelembe vehető hallgatói kör és a figyelembe vehető hallgatói létszám megállapításának rendje[^125]
 
 32. § (1) Az intézményi támogatás megállapításakor
 
@@ -16,15 +14,14 @@ ad) a tankönyv- és jegyzettámogatásra, sport- és kulturális tevékenységr
 
 b) a tényleges jogosultsági hónapszám egytizenkettedét kell figyelembe venni a doktorandusz ösztöndíj esetében;
 
-c)[^121] a tényleges jogosultsági hónapszám egytizedét kell figyelembe venni a nemzeti felsőoktatási ösztöndíj esetében;
+c)[^126] a tényleges jogosultsági hónapszám egytizedét kell figyelembe venni a nemzeti felsőoktatási ösztöndíj esetében;
 
-d)[^122] a ténylegesen kifizetendő összeget kell figyelembe venni a külföldi hallgatók miniszteri ösztöndíja és a Bursa Hungarica Ösztöndíj intézményi ösztöndíjrésze esetében.
+d)[^127] a ténylegesen kifizetendő összeget kell figyelembe venni a külföldi hallgatók miniszteri ösztöndíja és a Bursa Hungarica Ösztöndíj intézményi ösztöndíjrésze esetében.
 
 (2) Márciusi statisztikai adatközlésen a felsőoktatási intézmény március 15-i állapotát, októberi statisztikai adatközlésen a felsőoktatási intézmény október 15-i állapotát rögzítő, a felsőoktatási intézmény által teljesített statisztikai adatközlést kell érteni.
 
 (3) Az egyes normatívák év közbeni változása esetén a jogosulti létszámok megállapítása a képzési időszakok (tanulmányi félévek) rendjét követik.
 
-[^119]: A 31. §-t és az azt megelőző alcímet a 66/2008. (III. 29.) Korm. rendelet 2. § (2) bekezdése b) pontjának bg) alpontja hatályon kívül helyezte.
-[^120]: A 32. §-t megelőző alcím a 248/2012. (VIII. 31.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.
-[^121]: A 32. § (1) bekezdés c) pontja a 407/2017. (XII. 15.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^122]: A 32. § (1) bekezdés d) pontja a 220/2014. (VIII. 29.) Korm. rendelet 9. § l) pontja szerint módosított szöveg.
+[^125]: A 32. §-t megelőző alcím a 248/2012. (VIII. 31.) Korm. rendelet 33. § d) pontja szerint módosított szöveg.
+[^126]: A 32. § (1) bekezdés c) pontja a 407/2017. (XII. 15.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^127]: A 32. § (1) bekezdés d) pontja a 220/2014. (VIII. 29.) Korm. rendelet 9. § l) pontja szerint módosított szöveg.
