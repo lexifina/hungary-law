@@ -1,0 +1,13 @@
+23. § Az 1–13. §, 15. §, 17–18. §, 21–22. § valamint a 3. melléklet az adózás területén történő közigazgatási együttműködésről szóló 2011/16/EU tanácsi irányelv módosításáról szóló, 2021. március 22-i 2021/514 tanácsi irányelvnek való megfelelést szolgálja.
+
+|
+
+Novák Katalin s. k.,
+
+köztársasági elnök
+
+|
+
+Kövér László s. k.,
+
+az Országgyűlés elnöke
