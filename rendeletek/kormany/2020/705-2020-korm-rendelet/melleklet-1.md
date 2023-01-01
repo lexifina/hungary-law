@@ -1,6 +1,6 @@
-## 8. §[^5] E rendeletnek az emelt szintű könnyűzenei képzési központ létrehozását biztosító beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 705/2020. (XII. 29.) Korm. rendelet módosításáról szóló 661/2021. (XI. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. §-át, 2/A. §-át és 4/A. §-át, valamint 1. mellékletét a Módr. hatálybalépésekor[^6] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 8. §[^6] E rendeletnek az emelt szintű könnyűzenei képzési központ létrehozását biztosító beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 705/2020. (XII. 29.) Korm. rendelet módosításáról szóló 661/2021. (XI. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. §-át, 2/A. §-át és 4/A. §-át, valamint 1. mellékletét a Módr. hatálybalépésekor[^7] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-1. melléklet a 705/2020. (XII. 29.) Korm. rendelethez[^7]
+1. melléklet a 705/2020. (XII. 29.) Korm. rendelethez[^8]
 
 A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
@@ -50,6 +50,6 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^5]: A 8. §-t a 661/2021. (XI. 30.) Korm. rendelet 4. §-a iktatta be.
-[^6]: A hatálybalépés időpontja 2021. december 1.
-[^7]: Az 1. melléklet a 661/2021. (XI. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^6]: A 8. §-t a 661/2021. (XI. 30.) Korm. rendelet 4. §-a iktatta be.
+[^7]: A hatálybalépés időpontja 2021. december 1.
+[^8]: Az 1. melléklet a 661/2021. (XI. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
