@@ -1,3 +1,3 @@
-1. melléklet a 11/2020. (II. 7.) Korm. rendelethez[^91]
+1. melléklet a 11/2020. (II. 7.) Korm. rendelethez[^103]
 
-[^91]: Az 1. mellékletet a 318/2020. (VII. 1.) Korm. rendelet 17. § 18. pontja hatályon kívül helyezte.
+[^103]: Az 1. mellékletet a 318/2020. (VII. 1.) Korm. rendelet 17. § 18. pontja hatályon kívül helyezte.

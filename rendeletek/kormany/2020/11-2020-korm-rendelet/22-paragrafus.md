@@ -24,4 +24,7 @@ g) a tanúsítvány kiállítójának nevét és beosztását.
 
 (3) A tanúsítványt évente újrakezdődő sorszámozással és a tárgyév megjelölésével kell ellátni.
 
+(3a)[^62] A felnőttképző a kiállított tanúsítványt legkésőbb annak aláírását követő két munkanapon belül a felnőttképzés adatszolgáltatási rendszerébe feltölti.
+
 [^61]: A 22. § a 318/2020. (VII. 1.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^62]: A 22. § (3a) bekezdését a 631/2022. (XII. 30.) Korm. rendelet 3. §-a iktatta be.
