@@ -40,9 +40,9 @@
 
 ## ad) egyéb kötelezettség
 
-7. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^376]
+7. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^378]
 
-## Értékvesztés és céltartalék képzés követelményei
+Értékvesztés és céltartalék képzés követelményei
 
 (1) A pénzügyi intézménynek számviteli politikájában rendelkezni kell az értékvesztés elszámolás és értékvesztés visszaírás, valamint céltartalék képzés és céltartalék felszabadítás, illetve felhasználás rendjéről, amelynek során a Tv. előírásait kell alkalmaznia azzal, hogy figyelembe kell vennie a (2)–(13) bekezdésben foglalt követelményeket.
 
@@ -78,4 +78,4 @@ d) a lakástakarékpénztárak kiegyenlítési céltartaléka.
 
 (13) Eszközeladásnál vagy halasztott fizetéssel eladott eszközök esetében a vevő által érvényesíthető visszkereseti jog miatt a visszkereseti jogból eredően fennálló függő kötelezettségre indokolt esetben a szükséges mértékben, a várható veszteségek fedezetére kockázati céltartalékot képezni, legfeljebb az eladási ár mértékéig. Ha a visszkereseti jog érvényesítéséről a vevő lemond, de az eszközértékesítéshez bármilyen mérlegbeli vagy mérlegen kívüli tételt keletkeztető hitelintézeti kockázatvállalás tartozik (halasztott fizetés stb.), akkor az így keletkező tétel tekintetében szintén felmerülhet értékvesztés elszámolási kötelezettség.
 
-[^376]: A 7. számú mellékletet a 397/2007. (XII. 27.) Korm. rendelet 6. §-a iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 56. §-ával megállapított szöveg.
+[^378]: A 7. számú mellékletet a 397/2007. (XII. 27.) Korm. rendelet 6. §-a iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 56. §-ával megállapított szöveg.

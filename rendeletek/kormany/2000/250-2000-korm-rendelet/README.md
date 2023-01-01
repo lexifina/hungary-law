@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-250-20-
 | 2019-01-01 | 2000-250-20-22.33 | 309/2018. (XII. 27.) Korm. rendelet |
 | 2020-01-01 | 2000-250-20-22.34 | 343/2019. (XII. 23.) Korm. rendelet |
 | 2021-01-01 | 2000-250-20-22.35 | 616/2020. (XII. 21.) Korm. rendelet |
+| 2023-01-01 | 2000-250-20-22.36 | 616/2020. (XII. 21.) Korm. rendelet |

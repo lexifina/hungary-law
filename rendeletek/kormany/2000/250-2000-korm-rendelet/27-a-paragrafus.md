@@ -12,7 +12,7 @@
 
 a) a fióktelepnél felmerült kapott (járó) kamatok, kamatjellegű bevételek, bevételek értékpapírokból, kapott (járó) jutalék- és díjbevételek, pénzügyi műveletek nettó eredménye, egyéb bevételek üzleti tevékenységből, általános igazgatási költségek, szokásos (üzleti) tevékenység eredménye;
 
-b)[^326] a fióktelep foglalkoztatott munkavállalói átlagos létszáma;
+b)[^326] a fióktelep foglalkoztatott munkavállalói átlagos statisztikai állományi létszáma;
 
 c) a külföldi székhelyű vállalkozás valamennyi követelését és kötelezettségét, amely a fiókteleppel összefüggésben keletkezett, hitelintézetekkel és ügyfelekkel szembeni követelések és kötelezettségek bontásban forintban kifejezve;
 
@@ -26,4 +26,4 @@ d) a fióktelepnél nyilvántartott állampapírok, hitelintézetekkel és ügyf
 [^323]: A 27/A. §-t és alcímét a 238/2003. (XII. 17.) Korm. rendelet 14. §-a iktatta be, e módosító rendelet 18. § (3) bekezdése alapján a rendelkezést az Európai Közösségek jogával összhangban kell alkalmazni; először a 2004. évi üzleti évről készített beszámolóra kell alkalmazni.
 [^324]: A 27/A. § (2) bekezdése a 362/2014. (XII. 30.) Korm. rendelet 36. § 3. pontja szerint módosított szöveg.
 [^325]: A 27/A. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 214. § c) pontja szerint módosított szöveg.
-[^326]: A 27/A. § (4) bekezdés b) pontja a 616/2020. (XII. 21.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
+[^326]: A 27/A. § (4) bekezdés b) pontja a 616/2020. (XII. 21.) Korm. rendelet 8. § 3. pontja, a 603/2022. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.

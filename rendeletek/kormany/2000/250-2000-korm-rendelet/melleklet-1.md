@@ -1,3 +1,3 @@
-1. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^371]
+1. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^373]
 
-[^371]: Az 1. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 70. § (1) bekezdésével megállapított szöveg.
+[^373]: Az 1. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 70. § (1) bekezdésével megállapított szöveg.

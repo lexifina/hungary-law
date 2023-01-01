@@ -42,7 +42,7 @@ a) a befektetési alap forgalomban lévő befektetési jegyeinek névértéke ö
 
 b) a portfoliókezelő által vállalt tőkegaranciával, illetve hozamgaranciával érintett ügyfelek által a portfoliókezelési szerződés megkötésekor rögzített értékben rendelkezésre bocsátott pénzeszközök és értékpapírok együttes értékének összegében, illetve annak az arra vetített garantált hozammal növelt összegében,
 
-## mint kötelezettségvállalást kell kimutatni;
+mint kötelezettségvállalást kell kimutatni;
 
 18.[^251] a Tv. 3. § (8) bekezdés 14. pontjában meghatározott, egyéb eszközre vonatkozó függő kötelezettségek.
 

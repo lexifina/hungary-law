@@ -1,5 +1,3 @@
-## 32. §[^346]
-
 33. §[^347] (1) E rendeletnek a 345/2010. (XII. 28.) Korm. rendelet 1. §-ával megállapított 11. § (13) bekezdését először a 2011. évben induló üzleti évről készített beszámolóra kell alkalmazni, azzal, hogy az a 2010. évben induló üzleti évről készített beszámolóra is alkalmazható.
 
 (2) E rendeletnek a 345/2010. (XII. 28.) Korm. rendelet 1. §-ával megállapított 11. § (14) bekezdését először a 2011. évben induló üzleti évről készített beszámolóra kell alkalmazni.
@@ -50,7 +48,10 @@
 
 (25)[^370] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról, valamint az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételéről és továbbképzéséről szóló kormányrendelet módosításáról szóló 616/2020. (XII. 21.) Korm. rendelettel megállapított 25. § 40. pontját, 26. § (6) bekezdés c) pontját, 27/A. § (4) bekezdés b) pontját a 2020. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
 
-[^346]: A 32. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendeet 1. § 1108. pontja hatályon kívül helyezte.
+(26)[^371] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 603/2022. (XII. 28.) Korm. rendelettel megállapított 25. § 40. pontját, 26. § (6) bekezdés c) pontját és 27/A. § (4) bekezdés b) pontját először a 2023. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(27)[^372] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 603/2022. (XII. 28.) Korm. rendelettel megállapított 25. § 40. pontját, 26. § (6) bekezdés c) pontját és 27/A. § (4) bekezdés b) pontját a 2022. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
 [^347]: A 33. §-t a 345/2010. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
 [^348]: A 33. § (3) bekezdését a 342/2011. (XII. 29.) Korm. rendelet 45. §-a iktatta be.
 [^349]: A 33. § (4) bekezdését a 114/2012. (VI. 8.) Korm. rendelet 28. §-a iktatta be.
@@ -75,3 +76,5 @@
 [^368]: A 33. § (23) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 10. §-a iktatta be.
 [^369]: A 33. § (24) bekezdését a 616/2020. (XII. 21.) Korm. rendelet 7. §-a iktatta be.
 [^370]: A 33. § (25) bekezdését a 616/2020. (XII. 21.) Korm. rendelet 7. §-a iktatta be.
+[^371]: A 33. § (26) bekezdését a 603/2022. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^372]: A 33. § (27) bekezdését a 603/2022. (XII. 28.) Korm. rendelet 5. §-a iktatta be.

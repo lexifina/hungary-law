@@ -22,7 +22,7 @@ a) a felek valamelyike csődeljárás, felszámolási eljárás, végelszámolá
 
 b) valamely fél nem teljesíti a szerződésből adódóan fennálló kötelezettségét,
 
-## akkor a felek közötti szerződés szerint az ügyletet le kell zárni, vagy az eredeti ügylet adásvételként történő elszámolásával vagy a visszavásárlási ügylet előrehozott elszámolásával.
+akkor a felek közötti szerződés szerint az ügyletet le kell zárni, vagy az eredeti ügylet adásvételként történő elszámolásával vagy a visszavásárlási ügylet előrehozott elszámolásával.
 
 (6) Ha a repoba vevő az értékpapírt harmadik félre átruházza, vagy egyéb ügyletéhez fedezetként felajánlotta és az fedezetként bevonásra kerül, vagy harmadik fél részére kölcsönbe adja, illetve egyéb ügylet keretében harmadik félre átruházza, akkor az értékpapír ellenértékét a repoba adóval szembeni kötelezettségként kell felvenni.
 

@@ -16,7 +16,7 @@ a) a fölérendelt anyavállalat hitelintézet,
 
 b) a fölérendelt anyavállalat írásban nyilatkozik arról, hogy garanciát vállal a mentesülő vállalkozás valamennyi kötelezettségéért; az erről szóló nyilatkozat szerepel a mentesülő vállalkozás éves beszámolójának kiegészítő mellékletében,
 
-c)[^317] a mentesülő pénzügyi intézmény éves beszámolójának kiegészítő mellékletében vagy a fölérendelt anyavállalat összevont (konszolidált) éves beszámolójának kiegészítő mellékletében bemutatásra kerülnek a mentesülő pénzügyi intézmény alá tartozó konszolidációs körön belüli kapcsolt vállalkozások befektetett eszközeinek, bevételeinek, tárgyévi üzleti eredményének, saját tőkéjének és foglalkoztatott munkavállalói átlagos létszámának összesített adatai.
+c)[^317] a mentesülő pénzügyi intézmény éves beszámolójának kiegészítő mellékletében vagy a fölérendelt anyavállalat összevont (konszolidált) éves beszámolójának kiegészítő mellékletében bemutatásra kerülnek a mentesülő pénzügyi intézmény alá tartozó konszolidációs körön belüli kapcsolt vállalkozások befektetett eszközeinek, bevételeinek, tárgyévi üzleti eredményének, saját tőkéjének és foglalkoztatott munkavállalói átlagos statisztikai állományi létszámának összesített adatai.
 
 A Tv. 116. §-a (1) bekezdésének b) pontja a pénzügyi intézmények mentesítésére nem alkalmazható.
 
@@ -48,7 +48,7 @@ bg) a konszolidációnál alkalmazott mentesítéseket.
 
 [^315]: A 26. § (5) bekezdését a 238/2003. (XII. 17.) Korm. rendelet 13. §-a iktatta be, e módosító rendelet 18. § (3) bekezdése alapján a rendelkezést az Európai Közösségek jogával összhangban kell alkalmazni.
 [^316]: A 26. § (6) bekezdését a 238/2003. (XII. 17.) Korm. rendelet 13. §-a iktatta be, szövege a 347/2004. (XII. 22.) Korm. rendelet 9. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 19. §-ának (1)–(2) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni, azonban a 2004. évi éves beszámoló elkészítésénél is alkalmazható.
-[^317]: A 26. § (6) bekezdés c) pontja a 616/2020. (XII. 21.) Korm. rendelet 8. § 2. pontja szerint módosított szöveg.
+[^317]: A 26. § (6) bekezdés c) pontja a 616/2020. (XII. 21.) Korm. rendelet 8. § 2. pontja, a 603/2022. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
 [^318]: A 26. § (7) bekezdését a 238/2003. (XII. 17.) Korm. rendelet 13. §-a iktatta be, e módosító rendelet 18. § (3) bekezdése alapján a rendelkezést az Európai Közösségek jogával összhangban kell alkalmazni.
 [^319]: A 26. § (8) bekezdését a 347/2004. (XII. 22.) Korm. rendelet 9. §-ának (2) bekezdése iktatta be, szövege a 345/2013. (IX. 30.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
 [^320]: A 26. § (9) bekezdését a 347/2004. (XII. 22.) Korm. rendelet 9. § (2) bekezdése iktatta be, szövege az 518/2013. (XII. 30.) Korm. rendelet 29. §-ával megállapított szöveg.

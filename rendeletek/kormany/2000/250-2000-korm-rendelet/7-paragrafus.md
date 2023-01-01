@@ -98,9 +98,9 @@ b) a szövetkezeti formában működő hitelintézetnél a tagok más vagyoni ho
 
 c) az egyéb hátrasorolt kötelezettséget
 
-## amennyiben a kötelezettség megfelel a Tv. 42. §-ának (4) bekezdésében meghatározott feltételeknek.
+amennyiben a kötelezettség megfelel a Tv. 42. §-ának (4) bekezdésében meghatározott feltételeknek.
 
-## A hátrasorolt kötelezettségeken belül a könyvviteli nyilvántartásokban elkülönítetten kell kimutatni az ötéves és öt éven túli, illetve az öt éven belüli hátralévő lejáratú kötelezettségeket. A hátrasorolt kötelezettségek tárgyévet követő évben esedékes törlesztő részletét, illetve lejáró összegét nem lehet átsorolni – sem a nyilvántartásokban sem a mérlegben – az éven belüli lejáratú kötelezettségeket tartalmazó hitelintézetekkel, illetve ügyfelekkel szembeni kötelezettségek vagy az egyéb kötelezettségek közé.
+A hátrasorolt kötelezettségeken belül a könyvviteli nyilvántartásokban elkülönítetten kell kimutatni az ötéves és öt éven túli, illetve az öt éven belüli hátralévő lejáratú kötelezettségeket. A hátrasorolt kötelezettségek tárgyévet követő évben esedékes törlesztő részletét, illetve lejáró összegét nem lehet átsorolni – sem a nyilvántartásokban sem a mérlegben – az éven belüli lejáratú kötelezettségeket tartalmazó hitelintézetekkel, illetve ügyfelekkel szembeni kötelezettségek vagy az egyéb kötelezettségek közé.
 
 (16) A hitelintézetekkel szembeni kötelezettségekből, az ügyfelekkel szemben fennálló kötelezettségekből, a kibocsátott értékpapírok miatti kötelezettségekből az egyéb kötelezettségekből, valamint a hátrasorolt kötelezettségekből külön kiemelten kell bemutatni a kapcsolt vállalkozással és az egyéb részesedési viszonyban lévő vállalkozással szembeni kötelezettségeket.
 

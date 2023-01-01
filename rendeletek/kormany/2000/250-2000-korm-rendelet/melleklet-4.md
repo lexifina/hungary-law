@@ -374,28 +374,28 @@
 
 4. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez
 
-## Az összevont (konszolidált) éves beszámolót készítő pénzügyi intézmény konszolidált mérlegének tagolása a következő kiegészítésekkel tér el az 1. számú melléklet szerinti mérleg tagolásától
+Az összevont (konszolidált) éves beszámolót készítő pénzügyi intézmény konszolidált mérlegének tagolása a következő kiegészítésekkel tér el az 1. számú melléklet szerinti mérleg tagolásától
 
 1. Az Eszközök ,,8. Részvények, részesedések kapcsolt vállalkozásban'' sora kiegészül az alábbi c) ponttal:
 
-## ,,c) Tőkekonszolidációs különbözet
+## „ ,,c) Tőkekonszolidációs különbözet
 
 ## – leányvállalatból, közös vezetésű vállalkozásból
 
-## – társult vállalkozásból''
+## – társult vállalkozásból''”
 
 2. Az Eszközök ,,12. Egyéb eszközök'' sora kiegészül az alábbi c) ponttal:
 
-## ,,c) Konszolidációból adódó (számított) társasági adókövetelés''
+## „,,c) Konszolidációból adódó (számított) társasági adókövetelés''”
 
 3. A Források ,,4. Egyéb kötelezettségek'' sora kiegészül az alábbi c) ponttal:
 
-## ,,c) Konszolidációból adódó (számított) társasági adókötelezettség''
+## „,,c) Konszolidációból adódó (számított) társasági adókötelezettség''”
 
 4. A Források ,,7. Hátrasorolt kötelezettségek'' sorának ,,a) alárendelt kölcsöntőke'' pontja kiegészül az alábbi aa) alponttal:
 
-## ,,aa) Tőkekonszolidációs különbözet
+## „,,aa) Tőkekonszolidációs különbözet
 
-## – leányvállalatból, közös vezetésű vállalkozásból''
+## – leányvállalatból, közös vezetésű vállalkozásból''”
 
 5. A Források kiegészülnek a következő 16–18. ponttal:

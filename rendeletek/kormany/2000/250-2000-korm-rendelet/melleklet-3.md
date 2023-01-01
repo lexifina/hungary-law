@@ -220,6 +220,6 @@
 
 ## 23. Tárgyévi eredmény (21-22)
 
-3. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^373]
+3. számú melléklet a 250/2000. (XII. 24.) Korm. rendelethez[^375]
 
-[^373]: A 3. számú melléklet a 238/2003. (XII. 17.) Korm. rendelet 17. §-a, a 343/2019. (XII. 23.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^375]: A 3. számú melléklet a 238/2003. (XII. 17.) Korm. rendelet 17. §-a, a 343/2019. (XII. 23.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
