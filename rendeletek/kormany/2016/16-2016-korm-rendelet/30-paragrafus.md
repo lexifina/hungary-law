@@ -22,7 +22,7 @@ a) a különböző, egymást követő jogosultsági időszakokat össze kell sz�
 
 b) a jogosultsági időszakot folyamatosnak kell tekinteni, ha abban egybefüggően legfeljebb 30 nap megszakítás van, amelynek időtartama a teljesítendő jogosultsági időszakba nem számít bele.
 
-(2)[^85] Az (1) bekezdésben foglaltakat nem kell figyelembe venni, ha az igénylő a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának végleges határozata alapján gyermekek otthongondozási díjában vagy ápolási díjban részesül.
+(2)[^85] Az (1) bekezdésben foglaltakat nem kell figyelembe venni, ha az igénylő a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalának végleges határozata alapján gyermekek otthongondozási díjában vagy ápolási díjban részesül.
 
 (3)[^86] Az (1) bekezdés a) pontjában foglaltakat nem kell alkalmazni, ha az 5. § a) pontja szerinti igénylő – házastársak, fiatal házaspár vagy élettársak esetén legalább az egyik fél – a kérelem benyújtásának időpontjában kereső tevékenysége alapján valamely másik állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alatt áll és ezt az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolással igazolja, valamint teljes bizonyító erejű magánokiratba foglaltan vállalja, hogy a támogatási szerződés megkötését követő 180 napon belül a Tbj. 6. §-a szerinti biztosítottá vagy a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személlyé válik.
 
@@ -35,5 +35,5 @@ b) a jogosultsági időszakot folyamatosnak kell tekinteni, ha abban egybefügg�
 [^82]: A 30. § (1) bekezdés b) pont bd) alpontját a 686/2020. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
 [^83]: A 30. § (1a) bekezdését a 26/2018. (II. 28.) Korm. rendelet 10. § (1) bekezdése iktatta be.
 [^84]: A 3. § (1b) bekezdését a 183/2021. (IV. 16.) Korm. rendelet 3. §-a iktatta be.
-[^85]: A 30. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 568. § b) pontja, a 26/2018. (II. 28.) Korm. rendelet 22. § 9. pontja, a 46/2019. (III. 12.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^85]: A 30. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 568. § b) pontja, a 26/2018. (II. 28.) Korm. rendelet 22. § 9. pontja, a 46/2019. (III. 12.) Korm. rendelet 6. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 230. § b) pontja szerint módosított szöveg.
 [^86]: A 30. § (3) bekezdését a 26/2018. (II. 28.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 46/2019. (III. 12.) Korm. rendelet 7. § a) pontja, a 252/2020. (V. 29.) Korm. rendelet 2. § (1) bekezdés c) pontja, a 686/2020. (XII. 29.) Korm. rendelet 18. § f) pontja, az 530/2021. (IX. 14.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
