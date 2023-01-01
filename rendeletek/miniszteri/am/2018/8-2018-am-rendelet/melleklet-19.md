@@ -1,6 +1,6 @@
 19. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## Művelésiág-változási vázrajz tartalma
+Művelésiág-változási vázrajz tartalma
 
 1. A fejlécnek tartalmaznia kell:
 
@@ -42,7 +42,7 @@ c) az „a vázrajz méretek levételére nem alkalmas” feliratot;
 
 d) szükség esetén a megelőző vagy hatályon kívül helyezendő vázrajz iktatószámára történő hivatkozást;
 
-e)[^138] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
+e)[^147] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
 f) a záradékoló személyének aláírását és ingatlanrendező földmérő minősítésének számát;
 
@@ -52,4 +52,4 @@ h) amennyiben a készítőnek nincs ingatlanrendező minősítése, akkor a min�
 
 i) a készítés helyét és időpontját.
 
-[^138]: A 19. melléklet 4. pont e) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
+[^147]: A 19. melléklet 4. pont e) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.

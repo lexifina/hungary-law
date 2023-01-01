@@ -2,7 +2,7 @@
 
 (2) A változás utáni új földrészletek határvonalát és a változott épületeket 0,5 mm vastag, folytonos vonallal, a változott alrészletek, termőföld minőségi osztályok határvonalát 0,5 mm vastag, szaggatott vonallal, a megszűnt határvonalakat és egyéb térképi elemeket kettős áthúzással érvénytelenítve kell feltüntetni. A megváltozott régi helyrajzi számokat, alrészletbetűjeleket, művelési ágak megnevezését, minőségi osztályok osztályba sorolási megnevezéseit át kell húzni, az újakat vastagon szedett betűvel kell feltüntetni. Új utcaneveket vagy házszámokat csak a címképzésért felelős szerv által kiadott okirat alapján lehet a vázrajzon feltüntetni.
 
-(3)[^35] A változási vázrajzon ábrázolni kell a szomszédos földrészletek határvonalait a változási vázrajzon mért legalább 2 cm széles sávban, valamint fel kell tüntetni a változással érintett földrészletekhez csatlakozó szomszédos földrészletek helyrajzi számát, alrészlet betűjeleket, művelési ág megírását, minőségi osztályok osztályba sorolási megnevezéseit, utcaneveket, épületeket, házszámokat.
+(3)[^36] A változási vázrajzon ábrázolni kell a szomszédos földrészletek határvonalait a változási vázrajzon mért legalább 2 cm széles sávban, valamint fel kell tüntetni a változással érintett földrészletekhez csatlakozó szomszédos földrészletek helyrajzi számát, alrészlet betűjeleket, művelési ág megírását, minőségi osztályok osztályba sorolási megnevezéseit, utcaneveket, épületeket, házszámokat.
 
 (4) A 15. § (2) bekezdésében meghatározott esetekben a változási vázrajzon a földrészlet változással érintett részét, valamint ennek környezetében a szomszédos földrészletek határvonalát a változási vázrajzon mért legalább 2 cm hosszúságban kell ábrázolni. A változási állománynak a teljes földrészletet kell tartalmaznia.
 
@@ -20,7 +20,7 @@
 
 (11) Adatot szolgáltatni csak a 4. melléklet 2.1.3. pont 4.2. alpontja szerinti pontkóddal rendelkező címkoordinátákról kell.
 
-(12)[^36] Ha az adatszolgáltatás során az ingatlanügyi hatóság címkoordinátát nem szolgáltatott, akkor azt helyszínen méréssel kell meghatározni, és azt a földrészlet, az épület vagy a pince objektumon belül, egyedi pontszámmal ellátva, a 4. melléklet 2.1.3. pont 4.2. alpontja szerinti pontkóddal fel kell tüntetni.
+(12)[^37] Ha az adatszolgáltatás során az ingatlanügyi hatóság címkoordinátát nem szolgáltatott, akkor azt helyszínen méréssel kell meghatározni, és azt a földrészlet, az épület vagy a pince objektumon belül, egyedi pontszámmal ellátva, a 4. melléklet 2.1.3. pont 4.2. alpontja szerinti pontkóddal fel kell tüntetni.
 
 (13) A címkoordináták pontszámait 1-gyel kezdődően növekvő sorrendben kell földrészletenként képezni. Az 1-es sorszámot mindig a földrészlet címkoordinátája kapja.
 
@@ -32,5 +32,5 @@
 
 (17) A címkoordinátákat a változási vázrajzon helyrajzi szám szerinti bontásban – pontszám, EOV koordináta –, táblázatos formában kell feltüntetni.
 
-[^35]: A 11. § (3) bekezdése a 7/2020. (VI. 10.) MvM rendelet 43. §-ával megállapított szöveg.
-[^36]: A 11. § (12) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 2. pontja szerint módosított szöveg.
+[^36]: A 11. § (3) bekezdése a 7/2020. (VI. 10.) MvM rendelet 43. §-ával megállapított szöveg.
+[^37]: A 11. § (12) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 2. pontja szerint módosított szöveg.

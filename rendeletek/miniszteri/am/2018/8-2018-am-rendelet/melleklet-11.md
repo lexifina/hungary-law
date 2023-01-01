@@ -81,3 +81,5 @@
 ## d) a készítés helyét és időpontját.
 
 11. melléklet a 8/2018. (VI. 29.) AM rendelethez
+
+A mérési és a kitűzési vázlaton alkalmazandó jelölések

@@ -1,10 +1,10 @@
 30. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## Vizsgálat és záradékolás iránti kérelem tartalma
+Vizsgálat és záradékolás iránti kérelem tartalma
 
 1. A kérelem fejlécének az alábbiakat kell tartalmaznia:
 
-a)[^154] „Tisztelt ............. Kormányhivatal!
+a)[^163] „Tisztelt ............. Kormányhivatal!
 
 b) Alulírott ......... (név) kérem, az általam készített változási munkarészeket vizsgálat és záradékolás céljából átvenni szíveskedjen.”
 
@@ -42,9 +42,9 @@ c) Formátuma: ..........
 
 8. A záradékolt vázrajzokat az alábbi címre kérném megküldeni: a földmérő vállalkozó vagy vállalkozás vagy a megrendelő neve (székhelyének címe)
 
-9.[^155] Az ingatlanügyi hatósági vizsgálatra, záradékolásra leadás dátuma.
+9.[^164] Az ingatlanügyi hatósági vizsgálatra, záradékolásra leadás dátuma.
 
 10. Az átadó és átvevő aláírása.
 
-[^154]: A 30. melléklet 1. pont a) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 30. pontja szerint módosított szöveg.
-[^155]: A 30. melléklet 9. pontja a 7/2020. (VI. 10.) MvM rendelet 56. § 29. pontja szerint módosított szöveg.
+[^163]: A 30. melléklet 1. pont a) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 30. pontja szerint módosított szöveg.
+[^164]: A 30. melléklet 9. pontja a 7/2020. (VI. 10.) MvM rendelet 56. § 29. pontja szerint módosított szöveg.

@@ -12,10 +12,10 @@
 
 (6) A földrészleten belül az alrészletek területösszegének a földrészlet területével, termőföld esetében az alrészleteken belül a minőségi osztályok területösszegének az alrészlet területével kell megegyeznie.
 
-(7)[^46] Változási vázrajzok készítése során a földrészleteket terhelő, az ingatlan-nyilvántartásba bejegyzett jogok és feljegyzett tények térképi ábrázolásának módosulását kezelni kell, és az ennek megfelelő területi változások elszámolását el kell készíteni úgy, hogy a változás előtti és változás utáni területek összege egyező legyen.
+(7)[^47] Változási vázrajzok készítése során a földrészleteket terhelő, az ingatlan-nyilvántartásba bejegyzett jogok és feljegyzett tények térképi ábrázolásának módosulását kezelni kell, és az ennek megfelelő területi változások elszámolását el kell készíteni úgy, hogy a változás előtti és változás utáni területek összege egyező legyen.
 
 (8) A (7) bekezdésben előírt elszámolás minden esetben külön – a változási vázrajzon is feltüntetett – hivatkozási számokkal ellátott vázrajzokon vagy vázlatokon történik.
 
 (9) Az ingatlan-nyilvántartásba bejegyzett joghoz vagy feljegyzett tényhez tartozó határvonal helyzetében vagy területi adatában történő változás esetén új, a 4. § (3) bekezdés a) pontja szerinti változási vázrajzot kell készíteni.
 
-[^46]: A 22. § (7) bekezdése a 7/2020. (VI. 10.) MvM rendelet 48. §-ával megállapított szöveg.
+[^47]: A 22. § (7) bekezdése a 7/2020. (VI. 10.) MvM rendelet 48. §-ával megállapított szöveg.

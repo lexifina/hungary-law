@@ -2,7 +2,7 @@
 
 ## 25. Műszaki határkiigazítás
 
-62. § (1) A közigazgatási egységek határvonalának megállapításánál – tekintet nélkül arra, hogy települések vagy megyék közötti határvonalról van-e szó – nem kell államigazgatási területrész-átcsatolási eljárást kezdeményezni, hanem műszaki határkiigazítást kell végezni, ha a település határvonala
+62. § (1)[^119] A közigazgatási egységek határvonalának megállapításánál – tekintet nélkül arra, hogy települések vagy vármegyék közötti határvonalról van-e szó – nem kell államigazgatási területrész-átcsatolási eljárást kezdeményezni, hanem műszaki határkiigazítást kell végezni, ha a település határvonala
 
 a) természetes határvonal, és a határvonal a természeti folyamatok miatt megváltozott;
 
@@ -13,3 +13,5 @@ b) mesterséges vonalas létesítmények középvonalán haladt, és a terepalak
 (3) Az (1) bekezdésben meghatározott műszaki határkiigazítás kérelemre történik, az e rendeletben meghatározott záradékolt vázrajz becsatolásával.
 
 (4) Műszaki határkiigazítás az államhatáron nem végezhető.
+
+[^119]: A 62. § (1) bekezdés nyitó szövegrésze a 30/2022. (XII. 29.) MVM rendelet 1. § b) pontja szerint módosított szöveg.

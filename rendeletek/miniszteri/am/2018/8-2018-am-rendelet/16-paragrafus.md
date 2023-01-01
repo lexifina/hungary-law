@@ -6,7 +6,7 @@ aa) a szabatosan megjelölt földrészlethatár helyzetében a — 0,1 métert,
 
 ab) az állandó módon meg nem jelölt földrészlethatár helyzetében a — 0,2 métert
 
-## nem haladja meg,
+nem haladja meg,
 
 b) a földrészletről korábbi rajzi munkarészekben számszerű mérési vagy kitűzési adatok állnak rendelkezésre, az eredeti számszerű méretek és az ellenőrző méretek közötti eltérés nem nagyobb — 0,3 méternél,
 

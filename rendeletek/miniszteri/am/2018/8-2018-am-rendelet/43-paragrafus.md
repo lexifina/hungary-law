@@ -8,6 +8,6 @@ b) „A ....... helyrajzi számú földrészletből a vázrajzon ... számmal je
 
 (3) A vázrajznak minden esetben tartalmaznia kell „A kitűzött földrészlet határpontjait ... (pl. kővel, fakaróval, festéssel stb.) ... jelöltem meg.” feliratot.
 
-(4)[^80] A kitűzés során készített kitűzési jegyzőkönyv papíralapú, valamint a keletkezett valamennyi mérési és számítási munkarész digitális példányát, továbbá a kitűzési vázlatot és vázrajzot papír alapon a kitűzést követően nyolc napon belül az ingatlanügyi hatóságnak meg kell küldeni.
+(4)[^82] A kitűzés során készített kitűzési jegyzőkönyv papíralapú, valamint a keletkezett valamennyi mérési és számítási munkarész digitális példányát, továbbá a kitűzési vázlatot és vázrajzot papír alapon a kitűzést követően nyolc napon belül az ingatlanügyi hatóságnak meg kell küldeni.
 
-[^80]: A 43. § (4) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 9. pontja szerint módosított szöveg.
+[^82]: A 43. § (4) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 9. pontja szerint módosított szöveg.

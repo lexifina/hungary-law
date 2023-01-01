@@ -1,6 +1,6 @@
 23. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## A társasház, illetve szövetkezeti ház alaprajza
+A társasház, illetve szövetkezeti ház alaprajza
 
 1. A fejlécnek tartalmaznia kell:
 
@@ -22,7 +22,7 @@ g) a szint számát.
 
 a) a társasház, illetve a szövetkezeti ház szintenkénti alaprajzát;
 
-b)[^145] az EÖI-k helyrajzi számát és az ingatlan-nyilvántartásba bejegyzendő területet.
+b)[^154] az EÖI-k helyrajzi számát és az ingatlan-nyilvántartásba bejegyzendő területet.
 
 3. A lábrésznek tartalmaznia kell:
 
@@ -36,9 +36,9 @@ d) az „Az alaprajz megfelel a tartalmi követelményeknek. Nyilvántartásba v
 
 e) az „az alaprajz méretek levételére nem alkalmas” feliratot;
 
-f)[^146] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
+f)[^155] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
 g) a záradékoló személyének aláírását és ingatlanrendező földmérő minősítésének számát.
 
-[^145]: A 23. melléklet 2. pont b) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 28. pontja szerint módosított szöveg.
-[^146]: A 23. melléklet 3. pont f) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
+[^154]: A 23. melléklet 2. pont b) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 28. pontja szerint módosított szöveg.
+[^155]: A 23. melléklet 3. pont f) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.

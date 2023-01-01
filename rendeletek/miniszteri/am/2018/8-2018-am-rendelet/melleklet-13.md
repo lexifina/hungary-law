@@ -1,6 +1,6 @@
 13. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## Az államhatár változásáról készült változási vázrajzhoz készítendő területkimutatás tartalmáról
+Az államhatár változásáról készült változási vázrajzhoz készítendő területkimutatás tartalmáról
 
 1. A fejlécnek tartalmaznia kell:
 
@@ -58,7 +58,7 @@ d) az 51. § (1) bekezdése szerinti záradékot;
 
 e) az „a vázrajz méretek levételére nem alkalmas” feliratot;
 
-f)[^132] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
+f)[^141] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
 g) a záradékoló személyének aláírását és ingatlanrendező földmérő minősítésének számát;
 
@@ -70,4 +70,4 @@ j) az „A területkimutatás a változási vázrajzzal együtt érvényes.” f
 
 k) a készítés helyét és időpontját.
 
-[^132]: A 13. melléklet 3. pont f) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
+[^141]: A 13. melléklet 3. pont f) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.

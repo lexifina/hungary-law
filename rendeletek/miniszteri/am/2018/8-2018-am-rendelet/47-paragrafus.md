@@ -1,6 +1,6 @@
 ## 20. A változási vázrajz vizsgálata és záradékolása
 
-47. § (1)[^83] A változási vázrajzok vizsgálatát követően az ingatlanügyi hatóság a jogszabályoknak megfelelő változási vázrajzot záradékkal látja el.
+47. § (1)[^85] A változási vázrajzok vizsgálatát követően az ingatlanügyi hatóság a jogszabályoknak megfelelő változási vázrajzot záradékkal látja el.
 
 (2) A záradék igazolja, hogy a benyújtott változási vázrajz és dokumentáció megfelelt a jogszabályi előírásoknak, és azt, hogy a változási állomány beilleszthető az ingatlan-nyilvántartási térképi adatbázisba.
 
@@ -32,7 +32,7 @@ j) a leadott mérési vázlat, kitűzési vázlat, helyszíni jegyzőkönyv és 
 
 (6) Kisajátítással kapcsolatos változási munkarészeket a kisajátítási jogszabályok előírásai szerint kell vizsgálni és záradékolni.
 
-(7)[^84] Az (1) bekezdés szerinti záradékolást követően a változási vázrajzot az ingatlanügyi hatóság előzetes nyilvántartásba veszi, továbbá gondoskodik a változás ingatlan-nyilvántartási térképi adatbázisban történő előzetes átvezetéséről.
+(7)[^86] Az (1) bekezdés szerinti záradékolást követően a változási vázrajzot az ingatlanügyi hatóság előzetes nyilvántartásba veszi, továbbá gondoskodik a változás ingatlan-nyilvántartási térképi adatbázisban történő előzetes átvezetéséről.
 
-[^83]: A 47. § (1) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 2. pontja szerint módosított szöveg.
-[^84]: A 47. § (7) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 2. pontja szerint módosított szöveg.
+[^85]: A 47. § (1) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 2. pontja szerint módosított szöveg.
+[^86]: A 47. § (7) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 2. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 18. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## Az önálló tulajdonú épületről vagy pincéről készült változási vázrajz tartalma
+Az önálló tulajdonú épületről vagy pincéről készült változási vázrajz tartalma
 
 1. A fejlécnek tartalmaznia kell:
 
@@ -40,7 +40,7 @@ b) az 51. § (2) bekezdése szerinti záradékot;
 
 c) az „a vázrajz méretek levételére nem alkalmas” feliratot;
 
-d)[^137] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
+d)[^146] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
 e) a záradékoló személyének aláírását és ingatlanrendező földmérő minősítésének számát;
 
@@ -52,4 +52,4 @@ h) szükség esetén a megelőző vagy hatályon kívül helyező vázrajz iktat
 
 i) a készítés helyét és időpontját.
 
-[^137]: A 18. melléklet 4. pont d) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
+[^146]: A 18. melléklet 4. pont d) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.

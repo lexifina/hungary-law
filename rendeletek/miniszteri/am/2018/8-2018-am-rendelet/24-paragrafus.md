@@ -2,7 +2,7 @@
 
 ## 7. Változási vázrajz készítése folyamatban lévő új állami földmérési alaptérkép készítése esetén
 
-24. § (1)[^47] Amennyiben az új állami földmérési alaptérképi adatbázis állami átvételi vizsgálatra alkalmasságáról az ingatlanügyi hatóság a nyilatkozatot még nem adta ki, a változási vázrajzot a hatályos állami ingatlan-nyilvántartási térképi adatbázis és a hozzá tartozó területi adatok, továbbá az egyéb munkarészek alapján kell elkészíteni.
+24. § (1)[^48] Amennyiben az új állami földmérési alaptérképi adatbázis állami átvételi vizsgálatra alkalmasságáról az ingatlanügyi hatóság a nyilatkozatot még nem adta ki, a változási vázrajzot a hatályos állami ingatlan-nyilvántartási térképi adatbázis és a hozzá tartozó területi adatok, továbbá az egyéb munkarészek alapján kell elkészíteni.
 
 (2) Az új állami földmérési alaptérképi adatbázis állami átvételre való alkalmasságára vonatkozó nyilatkozat kiadását követően – az Inyvhr. 119/F. § (1) bekezdésében meghatározott közszemlére történő helyezés napjáig – mind az új állami földmérési alaptérképi adatbázis, mind a hatályos állami ingatlan-nyilvántartási térképi adatbázis szerint kell a változási munkarészeket elkészíteni. A kettős munkarészek közötti összhang biztosítása a készítő feladata.
 
@@ -10,4 +10,4 @@
 
 (4) A forgalomba nem adott munkarészekből szolgáltatott adatokat az „Ingatlan-nyilvántartás tervezett átalakítása szerint még nem hatályos állapot!” figyelmeztető felirattal kell ellátni.
 
-[^47]: A 24. § (1) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 11. pontja szerint módosított szöveg.
+[^48]: A 24. § (1) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 11. pontja szerint módosított szöveg.

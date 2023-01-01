@@ -1,6 +1,6 @@
 6. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## A területkimutatás tartalma
+A területkimutatás tartalma
 
 1. A fejlécnek tartalmaznia kell:
 
@@ -26,7 +26,7 @@ a) termőföld esetén a 30. § (2) vagy (3) bekezdés szerinti mezőgazdász-z�
 
 b) a változási vázrajz céljától függően az 51. § (1) vagy az 51. § (2) bekezdés szerinti záradékot;
 
-c)[^129] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
+c)[^138] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
 d) a záradékoló személyének aláírását és ingatlanrendező földmérő minősítésének számát;
 
@@ -38,4 +38,4 @@ g) a készítés helyét és időpontját, szükség esetén a megelőző vázra
 
 h) az „A területkimutatás a változási vázrajzzal együtt érvényes!” feliratot.
 
-[^129]: A 6. melléklet 3. pont c) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
+[^138]: A 6. melléklet 3. pont c) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.

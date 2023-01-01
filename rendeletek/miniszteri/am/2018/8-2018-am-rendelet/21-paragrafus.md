@@ -1,8 +1,8 @@
 21. § (1) A határvonalak helyzetének ellenőrzése céljából végzett mérések és a részletmérés eredményéről a mérési vázlatot, valamint annak vektoros mérési állományát is el kell készíteni.
 
-(2)[^43] A mérési vázlatnak tartalmaznia kell minden méretet és adatot, amelyek a változási vázrajz rajzi részének szerkesztéséhez szükségesek. A mérési vázlatot a 10. melléklet A. és B. pontjában és a honlapon közzétett minta szerinti formában kell elkészíteni a változás jellegének megfelelő tartalommal.
+(2)[^44] A mérési vázlatnak tartalmaznia kell minden méretet és adatot, amelyek a változási vázrajz rajzi részének szerkesztéséhez szükségesek. A mérési vázlatot a 10. melléklet A. és B. pontjában és a honlapon közzétett minta szerinti formában kell elkészíteni a változás jellegének megfelelő tartalommal.
 
-(3)[^44] A mérési vázlatnak tartalmaznia kell:
+(3)[^45] A mérési vázlatnak tartalmaznia kell:
 
 1. a készítő földmérő vagy földmérési vállalkozás megnevezését, székhelyét,
 
@@ -52,8 +52,8 @@
 
 (4) A közterületek helyrajzi számait a változási vázrajzon és a mérési vázlaton, valamint a térképi adatbázisban minden esetben zárójelbe kell tenni.
 
-(5)[^45] A mérési vázlatot és a hozzá tartozó digitális mérési állományokat az ingatlanügyi hatóság az állami ingatlan-nyilvántartási térképi adatbázis tartalmától elkülönülten tárolja.
+(5)[^46] A mérési vázlatot és a hozzá tartozó digitális mérési állományokat az ingatlanügyi hatóság az állami ingatlan-nyilvántartási térképi adatbázis tartalmától elkülönülten tárolja.
 
-[^43]: A 21. § (2) bekezdése a 7/2020. (VI. 10.) MvM rendelet 47. §-ával megállapított szöveg.
-[^44]: A 21. § (3) bekezdése a 7/2020. (VI. 10.) MvM rendelet 47. §-ával megállapított szöveg.
-[^45]: A 21. § (5) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 2. pontja szerint módosított szöveg.
+[^44]: A 21. § (2) bekezdése a 7/2020. (VI. 10.) MvM rendelet 47. §-ával megállapított szöveg.
+[^45]: A 21. § (3) bekezdése a 7/2020. (VI. 10.) MvM rendelet 47. §-ával megállapított szöveg.
+[^46]: A 21. § (5) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 2. pontja szerint módosított szöveg.

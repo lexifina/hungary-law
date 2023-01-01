@@ -2,6 +2,6 @@
 
 (2) Az állami ingatlan-nyilvántartási térképi adatbázis műszaki munkarészeit és az időközi változások során keletkezett változási vázrajzait az ingatlan határvonalának megállapításához kötelezően fel kell használni.
 
-(3)[^41] A földrészletek határvonalának megállapítását az érintett földmérési alaptérkép készítési technológiájával összhangban kell végezni.
+(3)[^42] A földrészletek határvonalának megállapítását az érintett földmérési alaptérkép készítési technológiájával összhangban kell végezni.
 
-[^41]: A 17. § (3) bekezdését a 7/2020. (VI. 10.) MvM rendelet 46. §-a iktatta be.
+[^42]: A 17. § (3) bekezdését a 7/2020. (VI. 10.) MvM rendelet 46. §-a iktatta be.

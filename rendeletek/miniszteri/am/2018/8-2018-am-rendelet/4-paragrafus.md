@@ -4,7 +4,7 @@
 
 a) az államhatár változásával összefüggő változási vázrajz, valamint
 
-b) a közigazgatási határ – ideértve a megyehatárt, a település, a főváros és a kerületenkénti ingatlan-nyilvántartási egység esetében a kerület-, valamint a fekvéshatárt – változásával összefüggő változási vázrajz.
+b)[^23] a közigazgatási határ – ideértve a vármegyehatárt, a település, a főváros és a kerületenkénti ingatlan-nyilvántartási egység esetében a kerület-, valamint a fekvéshatárt – változásával összefüggő változási vázrajz.
 
 (2) A földrészlethatár változásával összefüggő változási vázrajz fajtái:
 
@@ -22,13 +22,13 @@ a) a jogok bejegyzésére és tények feljegyzésére, valamint ezek módosítá
 
 b) az építmények feltüntetésével, változásával vagy megszüntetésével, illetve önálló ingatlanná alakításával összefüggő változási vázrajz,
 
-c)[^23] társas- vagy szövetkezeti házban lévő önálló ingatlanok esetén az Inytv.-ben előírt alaprajz,
+c)[^24] társas- vagy szövetkezeti házban lévő önálló ingatlanok esetén az Inytv.-ben előírt alaprajz,
 
 d) a művelési ág, illetve minőségi osztály változásával összefüggő változási vázrajz,
 
 e) egyéb önálló ingatlanok tekintetében a tulajdoni viszonyok megváltoztatására készített változási alaprajz,
 
-f)[^24] a felmérési, térképezési vagy területszámítási hiba kijavítására irányuló változási vázrajz.
+f)[^25] a felmérési, térképezési vagy területszámítási hiba kijavítására irányuló változási vázrajz.
 
 (4) Változási vázrajzként kell kezelni az állami ingatlan-nyilvántartási térképi adatbázis tartalmában változást nem eredményező alábbi változási vázrajzokat vagy vázlatokat:
 
@@ -40,12 +40,13 @@ c) tények és jogi jellegek feljegyzéséhez és törléséhez szükséges váz
 
 d) vezetékjog előzetes engedélyezése iránti kérelemhez készített vázlat,
 
-e)[^25] igazságügyi földmérő és térképész szakvélemény, valamint a felmérési, térképezési vagy területszámítási hiba bejelentéséhez szükséges szakvélemény mellékleteként készített vázlat.
+e)[^26] igazságügyi földmérő és térképész szakvélemény, valamint a felmérési, térképezési vagy területszámítási hiba bejelentéséhez szükséges szakvélemény mellékleteként készített vázlat.
 
 (5) Az (1)–(4) bekezdésben meghatározott vázrajzokat az ingatlan-nyilvántartási célú földmérési tevékenységhez az adatszolgáltató által kezelt állami ingatlan-nyilvántartási térképi adatbázis adatszerkezeti formátumában, fájlformátumában kell vizsgálatra, illetve vizsgálatra és záradékolásra benyújtani.
 
 (6) Az (5) bekezdésben meghatározott formátum adatbázis-szerkezetét, adattábláit, adatcsere-formátumát meghatározó műszaki dokumentációt a földügyi szakigazgatás hivatalos honlapján (a továbbiakban: honlap) letölthető formában közzé kell tenni.
 
-[^23]: A 4. § (3) bekezdés c) pontja a 7/2020. (VI. 10.) MvM rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^24]: A 4. § (3) bekezdés f) pontját a 7/2020. (VI. 10.) MvM rendelet 40. § (2) bekezdése iktatta be.
-[^25]: A 4. § (4) bekezdés e) pontja a 7/2020. (VI. 10.) MvM rendelet 56. § 5. pontja szerint módosított szöveg.
+[^23]: A 4. § (1) bekezdés b) pontja a 30/2022. (XII. 29.) MVM rendelet 1. § a) pontja szerint módosított szöveg.
+[^24]: A 4. § (3) bekezdés c) pontja a 7/2020. (VI. 10.) MvM rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^25]: A 4. § (3) bekezdés f) pontját a 7/2020. (VI. 10.) MvM rendelet 40. § (2) bekezdése iktatta be.
+[^26]: A 4. § (4) bekezdés e) pontja a 7/2020. (VI. 10.) MvM rendelet 56. § 5. pontja szerint módosított szöveg.

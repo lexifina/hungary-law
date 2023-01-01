@@ -1,6 +1,6 @@
 22. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## A vezetékjog bejegyzéséhez szükséges változási vázrajz tartalma
+A vezetékjog bejegyzéséhez szükséges változási vázrajz tartalma
 
 1. A fejlécnek tartalmaznia kell:
 
@@ -26,9 +26,9 @@ c) a vezetékjoggal érintett terület természetbeni szélességét és a terü
 
 3. A területkimutatás tartalmazza:
 
-a)[^142] a 12. § (2) bekezdése szerinti változás előtti adatokat úgy, hogy a helyrajzi számozás sorrendje lehet nyomvonal folytonos is;
+a)[^151] a 12. § (2) bekezdése szerinti változás előtti adatokat úgy, hogy a helyrajzi számozás sorrendje lehet nyomvonal folytonos is;
 
-b)[^143] a 12. § (3) bekezdése szerinti változás utáni adatokat úgy, hogy a helyrajzi számozás sorrendje lehet nyomvonal folytonos is;
+b)[^152] a 12. § (3) bekezdése szerinti változás utáni adatokat úgy, hogy a helyrajzi számozás sorrendje lehet nyomvonal folytonos is;
 
 c) a megjegyzés rovatban a vezeték műszaki adatait, továbbá a vezetékjog jogosultját.
 
@@ -40,7 +40,7 @@ b) szükség esetén a megelőző, vagy hatályon kívül helyezendő vázrajz i
 
 c) az „a vázrajz méretek levételére nem alkalmas” feliratot;
 
-d)[^144] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
+d)[^153] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
 e) a záradékoló személyének aláírását és ingatlanrendező földmérő minősítésének számát;
 
@@ -50,6 +50,6 @@ g) amennyiben a készítőnek nincs ingatlanrendező földmérő minősítése, 
 
 h) a készítés helyét és időpontját.
 
-[^142]: A 22. melléklet 3. pont a) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 27. pontja szerint módosított szöveg.
-[^143]: A 22. melléklet 3. pont b) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 27. pontja szerint módosított szöveg.
-[^144]: A 22. melléklet 4. pont d) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
+[^151]: A 22. melléklet 3. pont a) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 27. pontja szerint módosított szöveg.
+[^152]: A 22. melléklet 3. pont b) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 27. pontja szerint módosított szöveg.
+[^153]: A 22. melléklet 4. pont d) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.

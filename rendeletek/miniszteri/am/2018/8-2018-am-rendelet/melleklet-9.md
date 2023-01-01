@@ -1,5 +1,3 @@
-## A területszámítás hibahatárai EOTR ingatlan-nyilvántartási térkép digitális átalakításával készült adatbázis esetén
-
 | Terület | A digitalizált térkép méretaránya | Terület | A digitalizált térkép méretaránya |
 
 | 1:500 1:1 000 | 1:2 000 | 1:4 000 | 1:500 1:1 000 | 1:2 000 | 1:4 000 |
@@ -99,3 +97,5 @@
 | 70 000 m² | ± 133 m² | ± 221 m² | ± 395 m² | 800 ha |  |  | ± 9 003 m² |
 
 9. melléklet a 8/2018. (VI. 29.) AM rendelethez
+
+A területszámítás hibahatárai EOTR előtti vetületi rendszerű ingatlan-nyilvántartási térkép

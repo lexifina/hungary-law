@@ -1,6 +1,6 @@
 20. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## Változási vázrajz több vagyonkezelői jog bejegyzéséhez vagy vázlat a jogilag jelentős tényeknek ingatlan-nyilvántartási feljegyzéséhez
+Változási vázrajz több vagyonkezelői jog bejegyzéséhez vagy vázlat a jogilag jelentős tényeknek ingatlan-nyilvántartási feljegyzéséhez
 
 1. A fejlécnek tartalmaznia kell:
 
@@ -20,7 +20,7 @@ f) a vázrajz méretarányát.
 
 a) a változással érintett földrészletek és környezetének térképmásolatát;
 
-b)[^139] a vagyonkezelői joggal vagy jogilag jelentős ténnyel érintett területek földrészlet-határvonaltól eltérő határvonalát vastag, szaggatott vonallal;
+b)[^148] a vagyonkezelői joggal vagy jogilag jelentős ténnyel érintett területek földrészlet-határvonaltól eltérő határvonalát vastag, szaggatott vonallal;
 
 c) a joggal érintett terület területszámítás szerinti azonosítóját.
 
@@ -40,7 +40,7 @@ c) az „a vázrajz méretek levételére nem alkalmas” feliratot;
 
 d) szükség esetén a megelőző, vagy hatályon kívül helyezendő vázrajz iktatószámára történő hivatkozást;
 
-e)[^140] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
+e)[^149] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
 f) a záradékoló személyének aláírását és ingatlanrendező földmérő minősítésének számát;
 
@@ -50,5 +50,5 @@ h) amennyiben a készítőnek nincs ingatlanrendező földmérő minősítése, 
 
 i) a készítés helyét és időpontját.
 
-[^139]: A 20. melléklet 2. pont b) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 26. pontja szerint módosított szöveg.
-[^140]: A 20. melléklet 4. pont e) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
+[^148]: A 20. melléklet 2. pont b) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 26. pontja szerint módosított szöveg.
+[^149]: A 20. melléklet 4. pont e) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.

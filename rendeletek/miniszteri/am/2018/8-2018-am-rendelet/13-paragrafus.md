@@ -2,6 +2,6 @@
 
 (2) A külön munkarészként elkészített területkimutatást az 5. és 6. melléklet szerinti tartalommal, a honlapon közzétett formában kell elkészíteni.
 
-(3)[^40] Ha a területkimutatás több különálló lapból áll, akkor azokat össze kell kapcsolni.
+(3)[^41] Ha a területkimutatás több különálló lapból áll, akkor azokat össze kell kapcsolni.
 
-[^40]: A 13. § (3) bekezdését a 7/2020. (VI. 10.) MvM rendelet 45. §-a iktatta be.
+[^41]: A 13. § (3) bekezdését a 7/2020. (VI. 10.) MvM rendelet 45. §-a iktatta be.

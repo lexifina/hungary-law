@@ -1,6 +1,6 @@
 16. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## Földrészletek határvonalának változásához készítendő határrendezési vázrajz tartalma
+Földrészletek határvonalának változásához készítendő határrendezési vázrajz tartalma
 
 1. A fejlécnek tartalmaznia kell:
 
@@ -50,7 +50,7 @@ d) az „a vázrajz méretek levételére nem alkalmas” feliratot;
 
 e) szükség esetén a megelőző vagy hatályon kívül helyezendő vázrajz iktatószámára történő hivatkozást;
 
-f)[^135] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
+f)[^144] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
 g) a záradékoló személyének aláírását és ingatlanrendező földmérő minősítésének számát;
 
@@ -60,4 +60,4 @@ i) amennyiben a készítőnek nincs ingatlanrendező földmérő minősítése, 
 
 j) a készítés helyét és időpontját.
 
-[^135]: A 16. melléklet 4. pont e) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
+[^144]: A 16. melléklet 4. pont e) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.

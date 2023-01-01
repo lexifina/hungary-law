@@ -1,6 +1,6 @@
 26. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## Az Fttv. 14. § (8) bekezdése alapján készítendő kitűzési vázrajz tartalma
+Az Fttv. 14. § (8) bekezdése alapján készítendő kitűzési vázrajz tartalma
 
 1. A fejlécnek tartalmaznia kell:
 
@@ -42,13 +42,13 @@ c) az „a vázrajz méretek levételére nem alkalmas” feliratot;
 
 d) a kitűzéssel érintett és szomszédos földrészletek tulajdonosainak aláírását;
 
-e)[^148] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
+e)[^157] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
-f)[^149] a vizsgálatot végző aláírását és ingatlanrendező földmérő minősítésének számát;
+f)[^158] a vizsgálatot végző aláírását és ingatlanrendező földmérő minősítésének számát;
 
 g) a készítő aláírását, színes bélyegző lenyomatát, valamint ingatlanrendező földmérő minősítésének számát;
 
 h) a készítés helyét és időpontját.
 
-[^148]: A 26. melléklet 4. pont e) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
-[^149]: A 26. melléklet 4. pont f) alpontja a 7/2020. (VI. 10.) MvM rendelet 57. § 14. pontja szerint módosított szöveg.
+[^157]: A 26. melléklet 4. pont e) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
+[^158]: A 26. melléklet 4. pont f) alpontja a 7/2020. (VI. 10.) MvM rendelet 57. § 14. pontja szerint módosított szöveg.

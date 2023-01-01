@@ -4,7 +4,7 @@
 
 (2) Ha a földrészlet és a rajta lévő épület tulajdonosa azonos, az épületfeltüntetéshez készített változási vázrajzon az épületet a (4) bekezdésben foglaltak kivételével a földrészlethez kell kapcsolni. A vázrajzot a 17. melléklet szerinti tartalommal, a honlapon közzétett minta szerinti formában kell elkészíteni.
 
-(3)[^50] Az épületfeltüntetéshez készített változási vázrajz kötelező tartalma a művelés alól kivett megnevezés vagy a művelési ág feltüntetése. Az épületfeltüntetéshez készített mérési vázlatot a 10. melléklet B. pontja szerinti tartalommal, a honlapon közzétett minta szerinti formában kell elkészíteni.
+(3)[^52] Az épületfeltüntetéshez készített változási vázrajz kötelező tartalma a művelés alól kivett megnevezés vagy a művelési ág feltüntetése. Az épületfeltüntetéshez készített mérési vázlatot a 10. melléklet B. pontja szerinti tartalommal, a honlapon közzétett minta szerinti formában kell elkészíteni.
 
 (4) Az önálló ingatlannak minősülő építményeket és azok betűjeleit az állami ingatlan-nyilvántartási térképi adatbázisban a változási vázrajz alapján kell feltüntetni. A vázrajzot a 18. melléklet szerinti tartalommal, a honlapon közzétett minta szerinti formában kell elkészíteni.
 
@@ -12,4 +12,4 @@
 
 (6) Ha az építménytartozékot korábbi analóg térkép már ábrázolta, úgy annak állami ingatlan-nyilvántartási térképi adatbázisban történő átvezetését – erre irányuló kérelem esetén – a korábbi épületfeltüntetési vázrajz, használatbavételi engedély, illetve korábbi analóg térkép alapján kell elvégezni.
 
-[^50]: A 28. § (3) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 14. pontja szerint módosított szöveg.
+[^52]: A 28. § (3) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 14. pontja szerint módosított szöveg.

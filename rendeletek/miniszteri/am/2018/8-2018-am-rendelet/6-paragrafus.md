@@ -10,8 +10,8 @@ a) három tulajdonosig személyesen, postai úton vagy elektronikus levélben,
 
 b) több mint három tulajdonos esetén a legnagyobb tulajdoni hányaddal rendelkező, helyben lakó személy részére személyesen, postai úton vagy elektronikus levélben; a többi személy részére az illetékes települési önkormányzatnál hirdetményi úton
 
-## kell megküldeni.
+kell megküldeni.
 
-(5)[^28] A földmérési és térképészeti tevékenység végzése során észlelt felmérési, térképezési vagy területszámítási hiba kijavítását a munkát végző földmérőnek az ingatlanügyi hatóságnál kell kezdeményeznie. Ebben az esetben a földmérési munkálatokat fel kell függeszteni, és csak a hiba kijavítására vonatkozó ingatlanügyi hatósági határozat véglegessé válása után szabad folytatni azt.
+(5)[^29] A földmérési és térképészeti tevékenység végzése során észlelt felmérési, térképezési vagy területszámítási hiba kijavítását a munkát végző földmérőnek az ingatlanügyi hatóságnál kell kezdeményeznie. Ebben az esetben a földmérési munkálatokat fel kell függeszteni, és csak a hiba kijavítására vonatkozó ingatlanügyi hatósági határozat véglegessé válása után szabad folytatni azt.
 
-[^28]: A 6. § (5) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 6–7. pontja szerint módosított szöveg.
+[^29]: A 6. § (5) bekezdése a 7/2020. (VI. 10.) MvM rendelet 56. § 6–7. pontja szerint módosított szöveg.

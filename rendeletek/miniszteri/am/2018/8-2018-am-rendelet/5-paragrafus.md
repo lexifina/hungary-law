@@ -1,8 +1,8 @@
 ## 4. A változási vázrajzok készítésére vonatkozó előírások
 
-5. § (1)[^26] A 4. § (3) bekezdés b), c) és e) pontjában felsorolt vázrajzok kivételével valamennyi vázrajz készítéséhez a terepi méréseket az Fttv. 10. § (3) bekezdés a), b), d), f) és h) pontjában rögzített alapponthálózati pontokra vagy a korábbi felmérések során meghatározott és a természetben megtalálható ötödrendű vagy felmérési alappontokra vagy magasabb rendű – megfelelően azonosított – részletpontokra támaszkodva kell végrehajtani.
+5. § (1)[^27] A 4. § (3) bekezdés b), c) és e) pontjában felsorolt vázrajzok kivételével valamennyi vázrajz készítéséhez a terepi méréseket az Fttv. 10. § (3) bekezdés a), b), d), f) és h) pontjában rögzített alapponthálózati pontokra vagy a korábbi felmérések során meghatározott és a természetben megtalálható ötödrendű vagy felmérési alappontokra vagy magasabb rendű – megfelelően azonosított – részletpontokra támaszkodva kell végrehajtani.
 
-(2)[^27] Grafikus eljárást kell alkalmazni minden olyan esetben, amikor a térképi adatbázisban tárolt objektumadatok koordinátáit csak transzformációt követően lehet a helyszínen, illetve terepen megjelölni, vagy a terepi objektumadatokat csak transzformációt követően lehet az ingatlan-nyilvántartási adatbázisban ábrázolni.
+(2)[^28] Grafikus eljárást kell alkalmazni minden olyan esetben, amikor a térképi adatbázisban tárolt objektumadatok koordinátáit csak transzformációt követően lehet a helyszínen, illetve terepen megjelölni, vagy a terepi objektumadatokat csak transzformációt követően lehet az ingatlan-nyilvántartási adatbázisban ábrázolni.
 
 (3) A numerikus eljárás eredményeként az ábrázolandó objektumokat a terepen meghatározott koordinátáikkal kell rögzíteni az ingatlan-nyilvántartási térképi adatbázisban, valamint az ingatlan-nyilvántartási adatbázisban tárolt objektumkoordináták megjelenítésre a terepen.
 
@@ -14,5 +14,5 @@
 
 (7) Más hatósági nyilvántartás és az ingatlan-nyilvántartási adatbázis összhangjának megteremtése céljából, a nagy tömegű átvezetések egyszeri megvalósításához a két nyilvántartásból származó vektoros állományok összevetésével az illetékes ingatlanügyi hatóság automatikusan generál művelésiág-változási vázrajzot. A vázrajz automatikus készítésének tényét és a készítés célját a vázrajzon fel kell tüntetni. Az így előállított vázrajz kizárólag a két nyilvántartás összhangját megteremtő nagy tömegű eljárásban használható fel.
 
-[^26]: Az 5. § (1) bekezdése a 7/2020. (VI. 10.) MvM rendelet 41. §-ával megállapított szöveg.
-[^27]: Az 5. § (2) bekezdése a 7/2020. (VI. 10.) MvM rendelet 41. §-ával megállapított szöveg.
+[^27]: Az 5. § (1) bekezdése a 7/2020. (VI. 10.) MvM rendelet 41. §-ával megállapított szöveg.
+[^28]: Az 5. § (2) bekezdése a 7/2020. (VI. 10.) MvM rendelet 41. §-ával megállapított szöveg.

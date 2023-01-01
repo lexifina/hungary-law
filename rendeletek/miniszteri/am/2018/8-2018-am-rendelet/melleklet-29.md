@@ -1,6 +1,6 @@
 29. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## A műszaki leírás tartalma
+A műszaki leírás tartalma
 
 1. A fejléc tartalma:
 

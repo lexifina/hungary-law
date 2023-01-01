@@ -1,6 +1,6 @@
 24. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## Használati megosztáshoz szükséges változási vázrajz tartalma
+Használati megosztáshoz szükséges változási vázrajz tartalma
 
 1. A fejlécnek tartalmaznia kell:
 
@@ -38,7 +38,7 @@ c) a „Használati megosztás akaratunknak megfelelően történt:” záradék
 
 d) az „a vázrajz méretek levételére nem alkalmas” feliratot;
 
-e)[^147] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
+e)[^156] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
 f) a záradékoló személyének aláírását és ingatlanrendező földmérő minősítésének számát;
 
@@ -48,4 +48,4 @@ h) amennyiben a készítőnek nincs ingatlanrendező földmérő minősítése, 
 
 i) a készítés helyét és időpontját.
 
-[^147]: A 24. melléklet 4. pont e) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
+[^156]: A 24. melléklet 4. pont e) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.

@@ -1,10 +1,10 @@
 2. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## A földmérési és térképészeti adatigénylő lap tartalma egyéb célra
+A földmérési és térképészeti adatigénylő lap tartalma egyéb célra
 
 1. A táblázat fejrészének tartalmaznia kell:
 
-a)[^125] a „földmérési és térképészeti adatok igénylése egyéb célból, mely az ingatlan-nyilvántartás tartalmát nem érinti” feliratot;
+a)[^133] a „földmérési és térképészeti adatok igénylése egyéb célból, mely az ingatlan-nyilvántartás tartalmát nem érinti” feliratot;
 
 b) az adatszolgáltató szervezet megnevezését és az iktatószámot.
 
@@ -20,7 +20,7 @@ d) személyazonosító okmányának megnevezését és a számát;
 
 e) statisztikai azonosítójának számjelét;
 
-f)[^126] földmérési tevékenység végzésére vonatkozó jogosultságának igazolását; valamint
+f)[^134] földmérési tevékenység végzésére vonatkozó jogosultságának igazolását; valamint
 
 g) az elektronikus kapcsolattartást biztosító e-mail-címét.
 
@@ -74,5 +74,5 @@ c) az adatátvétel dátumát és
 
 d) az adatátvevő aláírását.
 
-[^125]: A 2. melléklet 1. pont a) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 25. pontja szerint módosított szöveg.
-[^126]: A 2. melléklet 2. pont f) alpontja a 7/2020. (VI. 10.) MvM rendelet 57. § 13. pontja szerint módosított szöveg.
+[^133]: A 2. melléklet 1. pont a) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 25. pontja szerint módosított szöveg.
+[^134]: A 2. melléklet 2. pont f) alpontja a 7/2020. (VI. 10.) MvM rendelet 57. § 13. pontja szerint módosított szöveg.

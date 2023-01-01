@@ -1,5 +1,3 @@
-## PONTKÓDOK
-
 ## az ingatlan-nyilvántartási térképi adatbázisban
 
 | Sor- szám | A pont | Az állandósítás | Határpont | DAT T_KOZEP-HIBA kód |
@@ -52,7 +50,7 @@
 
 |  |  |  |  |  | államhatár pont | 1 |  |
 
-|  |  |  |  |  | megyehatár pont | 2 |  |
+|  |  |  |  |  | vármegyehatár pont | 2 |  |
 
 |  |  |  |  |  | községhatár pont | 3 |  |
 
@@ -164,7 +162,7 @@
 
 |  |  |  |  |  | államhatár pont | 1 |  |
 
-|  |  |  |  |  | megyehatár pont | 2 |  |
+|  |  |  |  |  | vármegyehatár pont | 2 |  |
 
 |  |  |  |  |  | községhatár pont | 3 |  |
 
@@ -198,7 +196,7 @@
 
 |  |  |  |  |  | államhatár pont | 1 |  |
 
-|  |  |  |  |  | megyehatár pont | 2 |  |
+|  |  |  |  |  | vármegyehatár pont | 2 |  |
 
 |  |  |  |  |  | községhatár pont | 3 |  |
 
@@ -220,7 +218,7 @@
 
 |  |  |  |  |  | államhatár pont | 1 |  |
 
-|  |  |  |  |  | megyehatár pont | 2 |  |
+|  |  |  |  |  | vármegyehatár pont | 2 |  |
 
 |  |  |  |  |  | községhatár pont | 3 | rendűségnek megfelelő |
 
@@ -266,7 +264,7 @@
 
 |  |  |  | egyéb azonosító jelölés | 9 |  |  |  |
 
-|  |  |  |  |  | megyehatár pont | 2 |  |
+|  |  |  |  |  | vármegyehatár pont | 2 |  |
 
 |  |  |  |  |  | községhatár pont | 3 |  |
 
@@ -300,7 +298,7 @@
 
 |  |  |  | egyéb azonosító jelölés | 9 |  |  |  |
 
-|  |  |  |  |  | megyehatár pont | 2 |  |
+|  |  |  |  |  | vármegyehatár pont | 2 |  |
 
 |  |  |  |  |  | községhatár pont | 3 |  |
 
@@ -334,7 +332,7 @@
 
 5. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## A területkimutatás borítójának tartalma
+A területkimutatás borítójának tartalma
 
 1. A fejlécnek tartalmaznia kell:
 
@@ -362,9 +360,9 @@ e) a készítés helyét és időpontját;
 
 f) a „területkimutatás a változási vázrajzzal együtt érvényes” feliratot;
 
-g)[^127] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
+g)[^136] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
-h)[^128] a vizsgálatot végző aláírását és ingatlanrendező földmérő minősítésének számát.
+h)[^137] a vizsgálatot végző aláírását és ingatlanrendező földmérő minősítésének számát.
 
-[^127]: Az 5. melléklet 2. pont g) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
-[^128]: Az 5. melléklet 2. pont h) alpontja a 7/2020. (VI. 10.) MvM rendelet 57. § 14. pontja szerint módosított szöveg.
+[^136]: Az 5. melléklet 2. pont g) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
+[^137]: Az 5. melléklet 2. pont h) alpontja a 7/2020. (VI. 10.) MvM rendelet 57. § 14. pontja szerint módosított szöveg.

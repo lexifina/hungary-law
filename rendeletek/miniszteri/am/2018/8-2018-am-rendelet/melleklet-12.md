@@ -1,8 +1,6 @@
-## A mérési és a kitűzési vázlaton alkalmazandó jelölések
-
 12. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## Az államhatár vonalának változásáról készítendő változási vázrajz tartalma
+Az államhatár vonalának változásáról készítendő változási vázrajz tartalma
 
 1. A fejlécnek tartalmaznia kell:
 
@@ -46,7 +44,7 @@ d) az 51. § (1) bekezdése szerinti záradékot;
 
 e) az „a vázrajz méretek levételére nem alkalmas” feliratot;
 
-f)[^131] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
+f)[^140] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
 g) a záradékoló személy aláírását és ingatlanrendező földmérő minősítésének számát;
 
@@ -56,4 +54,4 @@ i) amennyiben a készítőnek nincs ingatlanrendező földmérő minősítése, 
 
 j) a készítés helyét és időpontját.
 
-[^131]: A 12. melléklet 3. pont f) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
+[^140]: A 12. melléklet 3. pont f) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.

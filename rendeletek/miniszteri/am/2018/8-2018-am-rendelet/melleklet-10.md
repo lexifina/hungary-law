@@ -1,5 +1,3 @@
-## A területszámítás hibahatárai EOTR előtti vetületi rendszerű ingatlan-nyilvántartási térkép
-
 ## digitális átalakításával készült térképi adatbázis esetén
 
 | Terület | A digitalizált térkép méretaránya |

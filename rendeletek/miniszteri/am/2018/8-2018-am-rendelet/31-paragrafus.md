@@ -4,8 +4,8 @@
 
 (2) Az (1) bekezdés szerinti joggal, ténnyel vagy jogi jelleggel érintett területrészeket egytől kezdődő római számmal kell megjelölni a 22. melléklet szerint. A területet csak egyenes vonalak határolhatják, és nagysága nem lehet egy négyzetméternél kisebb. A határoló vonalakat 0,5 mm vastagságú, hosszú, szaggatott vonallal kell ábrázolni. Nem kell változási vázrajzot vagy vázlatot készíteni, ha a szolgalom, a jogi jelleg vagy a jogilag jelentős tény a földrészlet vagy adott alrészlet teljes területét érinti.
 
-(3)[^53]
+(3)[^55]
 
 (4) A 4. § (4) bekezdés d) pontja alapján készített vázlatot hitelesített állami alapadatok felhasználásával az igénybevétel jellegének megfelelően az 5. § (5) bekezdésében meghatározott ellenőrző mérésekkel kell elkészíteni. A vázlatot a 20. vagy 22. melléklet alapján az engedélyezés jellegének megfelelően kell elkészíteni, és kizárólag a következő záradékkal ellátni: „A vázlat ingatlan-nyilvántartási térképi átvezetésre nem használható fel.”
 
-[^53]: A 31. § (3) bekezdését a 7/2020. (VI. 10.) MvM rendelet 57. § 6. pontja hatályon kívül helyezte.
+[^55]: A 31. § (3) bekezdését a 7/2020. (VI. 10.) MvM rendelet 57. § 6. pontja hatályon kívül helyezte.

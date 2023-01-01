@@ -1,6 +1,6 @@
 25. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## Helyszíni jegyzőkönyv tartalma a földrészlet határának kitűzéséről
+Helyszíni jegyzőkönyv tartalma a földrészlet határának kitűzéséről
 
 1. A fejlécnek tartalmaznia kell:
 

@@ -1,6 +1,6 @@
 21. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## A földrészletet terhelő szolgalmi jogok, földhasználati jog és telki szolgalmi jog bejegyzéséhez szükséges változási vázrajz tartalma
+A földrészletet terhelő szolgalmi jogok, földhasználati jog és telki szolgalmi jog bejegyzéséhez szükséges változási vázrajz tartalma
 
 1. A fejlécnek tartalmaznia kell:
 
@@ -42,7 +42,7 @@ c) az „a vázrajz méretek levételére nem alkalmas” feliratot;
 
 d) szükség esetén a megelőző vagy hatályon kívül helyezendő vázrajz iktatószámára történő hivatkozást;
 
-e)[^141] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
+e)[^150] a záradékolás helyét és időpontját, valamint a záradékoló ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
 f) a záradékoló személyének aláírását és ingatlanrendező földmérő minősítésének számát;
 
@@ -52,4 +52,4 @@ h) amennyiben a készítőnek nincs ingatlanrendező földmérő minősítése, 
 
 i) a készítés helyét és időpontját.
 
-[^141]: A 21. melléklet 4. pont e) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
+[^150]: A 21. melléklet 4. pont e) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.

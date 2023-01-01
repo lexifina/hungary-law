@@ -1,6 +1,6 @@
 28. melléklet a 8/2018. (VI. 29.) AM rendelethez
 
-## Földrészlet kitűzéséről készítendő vázrajz tartalma
+Földrészlet kitűzéséről készítendő vázrajz tartalma
 
 1. A fejlécnek tartalmaznia kell:
 
@@ -34,13 +34,13 @@ a) a 43. § (2) és (3) bekezdése szerinti megfelelő záradékot;
 
 b) az „a vázrajz méretek levételére nem alkalmas” feliratot;
 
-c)[^152] a nyilvántartásba vétel helyét és időpontját, valamint a nyilvántartásba vevő ingatlanügyi hatóság színes körbélyegző lenyomatát;
+c)[^161] a nyilvántartásba vétel helyét és időpontját, valamint a nyilvántartásba vevő ingatlanügyi hatóság színes körbélyegző lenyomatát;
 
-d)[^153] a vizsgálatot végző aláírását és ingatlanrendező földmérő minősítésének számát;
+d)[^162] a vizsgálatot végző aláírását és ingatlanrendező földmérő minősítésének számát;
 
 e) a készítő aláírását, színes bélyegző lenyomatát, valamint ingatlanrendező földmérő minősítésének számát;
 
 f) a készítés helyét és időpontját.
 
-[^152]: A 28. melléklet 3. pont c) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
-[^153]: A 28. melléklet 3. pont d) alpontja a 7/2020. (VI. 10.) MvM rendelet 57. § 14. pontja szerint módosított szöveg.
+[^161]: A 28. melléklet 3. pont c) alpontja a 7/2020. (VI. 10.) MvM rendelet 56. § 4. pontja szerint módosított szöveg.
+[^162]: A 28. melléklet 3. pont d) alpontja a 7/2020. (VI. 10.) MvM rendelet 57. § 14. pontja szerint módosított szöveg.
