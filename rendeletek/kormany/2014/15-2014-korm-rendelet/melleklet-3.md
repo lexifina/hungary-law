@@ -1,4 +1,4 @@
-3. melléklet a 15/2014. (I. 30.) Korm. rendelethez[^27]
+3. melléklet a 15/2014. (I. 30.) Korm. rendelethez[^28]
 
 A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labdarúgó sportlétesítmény-fejlesztések
 
@@ -58,4 +58,4 @@ A Nemzeti Stadionfejlesztési Program keretében megvalósításra kerülő labd
 
 | 27. | Kisvárda labdarúgó sportlétesítmény-fejlesztése |
 
-[^27]: A 3. melléklet a 195/2014. (VII. 31.) Korm. rendelet 1. §-a, a 328/2014. (XII. 15.) Korm. rendelet 2. §-a, a 198/2016. (VII. 13.) Korm. rendelet 10. §-a, a 428/2020. (IX. 10.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^28]: A 3. melléklet a 195/2014. (VII. 31.) Korm. rendelet 1. §-a, a 328/2014. (XII. 15.) Korm. rendelet 2. §-a, a 198/2016. (VII. 13.) Korm. rendelet 10. §-a, a 428/2020. (IX. 10.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.

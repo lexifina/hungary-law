@@ -6,7 +6,7 @@ a) Beruházások megvalósításához, használatbavételéhez és üzemeltetés
 
 b) Beruházásokhoz közvetlenül kapcsolódó útépítési, közműcsatlakozási és -fejlesztési munkák megvalósításához
 
-## szükségesek.
+szükségesek.
 
 (3)[^2]
 
