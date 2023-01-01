@@ -4,7 +4,7 @@
 
 (2) E törvény 18. § (2) bekezdése, 19. §–20. §-a, 32. §-a, 2. melléklete az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkezelési keret a gazdaságnak Oroszország Ukrajna elleni agresszióját követő támogatása céljából” című, 2022/C 131 I/01 számú európai bizottsági közlemény 2.1. szakaszának szabályai és a támogatási programot jóváhagyó SA.103089 számú határozatban és az azt módosító európai bizottsági határozatokban foglalt rendelkezések szerinti támogatást tartalmaz.
 
-(3)
+(3) E törvény 26. §-a, 27. § (2)–(3) bekezdése és 29. §-a a belső piac működését közvetlenül érintő adókikerülési gyakorlatok elleni szabályok megállapításáról szóló 2016. július 12-i (EU) 2016/1164 tanácsi irányelvnek, valamint az (EU) 2016/1164 irányelvnek a harmadik országokat érintő hibrid struktúrákból adódó diszkrepanciák tekintetében történő módosításáról szóló 2017. május 29-i (EU) 2017/952 tanácsi irányelvnek való megfelelést szolgálja.
 
 (4) E törvény 54. § (1) bekezdése és 55. §–57. §-a a jövedéki adóra vonatkozó általános rendelkezések megállapításáról szóló, 2019. december 19-i (EU) 2020/262 tanácsi irányelvnek való megfelelést szolgálja.
 

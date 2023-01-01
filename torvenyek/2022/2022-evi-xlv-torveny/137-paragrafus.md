@@ -1,1 +1,11 @@
-### 137. §
+## „g) a 2013/34/EU irányelvnek a társaságiadó-információk egyes vállalkozások és fióktelepek általi közzététele tekintetében történő módosításáról szóló, 2021. november 24-i (EU) 2021/2101 európai parlamenti és tanácsi irányelv.”
+
+137. § Az Szt. 177. §-a a következő (85)–(88) bekezdéssel egészül ki:
+
+„(85) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 3. § (1) bekezdés 1. pontját, (7) bekezdés 3. pontját, 6. § (3) bekezdését, 9. § (5a) bekezdését, 27. § (4a) bekezdését, 33. § (7) bekezdését, 37. § (1) bekezdés d) pontját, (2) bekezdés e) pontját, (7) bekezdését, 38. § (3) bekezdés f) pontját, (4), (10) és (11) bekezdését, 41. § (1) bekezdését, 42. § (5) bekezdését, 49. § (8) bekezdését, 54. § (12) bekezdését, 91. § a) pontját, 96. § (1), (4) és (4b) bekezdését, 114/I. § (3) bekezdését, 116. § (4) bekezdését, 133. § (4) bekezdés c) pontját, 140. § (7) bekezdését, 155. § (4a) bekezdését, 156. § (5) bekezdés e) pontját először a 2023. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(86) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 3. § (1) bekezdés 1. pontját, (7) bekezdés 3. pontját, 6. § (3) bekezdését, 9. § (5a) bekezdését, 27. § (4a) bekezdését, 33. § (7) bekezdését, 37. § (1) bekezdés d) pontját, (2) bekezdés e) pontját, (7) bekezdését, 38. § (3) bekezdés f) pontját, (4), (10) és (11) bekezdését, 41. § (1) bekezdését, 42. § (5) bekezdését, 49. § (8) bekezdését, 54. § (12) bekezdését, 91. § a) pontját, 96. § (1), (4) és (4b) bekezdését, 114/I. § (3) bekezdését, 116. § (4) bekezdését, 133. § (4) bekezdés c) pontját, 140. § (7) bekezdését, 155. § (4a) bekezdését, 156. § (5) bekezdés e) pontját a 2022. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
+(87) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 27. § (4a) bekezdése első alkalmazásakor a könyvekben értékkel ki nem mutatott egészségügyi, szociális, kulturális és oktatási intézményben lévő tulajdoni részesedést az 54. § (12) bekezdés szerinti értéken kell a könyvekbe felvenni a saját tőkével (a tőketartalékkal, illetve az annak megfelelő saját tőke elemmel) szemben.
+
+(88) E törvénynek az egyes adótörvények módosításáról szóló 2022. évi XLV. törvénnyel megállapított 114/I. § (4) bekezdését, VI/B. Fejezetét, 156. § (5) bekezdés p) pontját először a 2024. június 22-én vagy azt követően induló üzleti évre kell alkalmazni.”

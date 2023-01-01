@@ -1,1 +1,3 @@
-### 87. §
+87. § A Tbj. 68. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Ha az állami adó- és vámhatóság tudomást szerez arról, hogy a foglalkoztató jogutód nélkül megszűnt, az egészségügyi szolgáltatásra való jogosultság ellenőrzése céljából a cég nevéről, székhelyéről és adószámáról tájékoztatja az egészségbiztosítási szervet. Ha az egészségbiztosítási szerv nyilvántartása szerint a természetes személy egészségügyi szolgáltatásra való jogosultsága a foglalkoztató jogutód nélküli megszűnése miatt már nem áll fenn, akkor az egészségbiztosítási szerv a 45. § (3) bekezdése szerinti adatszolgáltatást teljesít az állami adó- és vámhatóságnak.”

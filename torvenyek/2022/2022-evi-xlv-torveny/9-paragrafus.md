@@ -1,1 +1,3 @@
-### 9. §
+## „l) az értékpapírt a KMRP szervezet résztvevőjeként vagy a KMRP keretében létesített vagyonkezelő alapítvány kedvezményezettjeként szerezte; a KMRP szervezet résztvevőnként, a vagyonkezelő alapítvány kedvezményezettenként az adóévet követő év január 31-ig adatot szolgáltat az állami adó- és vámhatóság részére a résztvevőnek, illetve a kedvezményezettnek a vagyon felosztása során átadott összes értékpapírnak az átadásuk napjára megállapított együttes szokásos piaci értékéről, valamint az azok megszerzése érdekében a résztvevő által teljesített vagyoni hozzájárulás összegéről.”
+
+9. § Az Szja tv. 1. számú melléklete az 1. melléklet szerint módosul.
