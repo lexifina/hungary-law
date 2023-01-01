@@ -1,3 +1,3 @@
-11. §[^7]
+11. §[^11]
 
-[^7]: A 11. §-t és az azt megelőző alcímet a 2/2008. (I. 4.) FVM rendelet 11. § (2) bekezdése hatályon kívül helyezte.
+[^11]: A 11. §-t és az azt megelőző alcímet a 2/2008. (I. 4.) FVM rendelet 11. § (2) bekezdése hatályon kívül helyezte.
