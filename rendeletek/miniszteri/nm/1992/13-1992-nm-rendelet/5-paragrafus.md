@@ -1,6 +1,4 @@
-## 5. §
-
-(1)[^11] Az 1. alkalmassági csoportba tartozó közúti járművezetők közül az, aki
+5. § (1)[^11] Az 1. alkalmassági csoportba tartozó közúti járművezetők közül az, aki
 
 a) az 50. életévét még nem töltötte be, 10 évenként;
 
@@ -10,7 +8,7 @@ c) a 60. életévét betöltötte, de a 70. életévét még nem töltötte be, 
 
 d) a 70. életévét betöltötte, 2 évenként
 
-## köteles időszakos egészségi alkalmassági vizsgálaton megjelenni.
+köteles időszakos egészségi alkalmassági vizsgálaton megjelenni.
 
 (2)[^12] A 2. alkalmassági csoportba tartozó közúti járművezetők közül az, aki
 

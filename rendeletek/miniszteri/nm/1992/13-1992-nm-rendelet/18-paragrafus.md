@@ -1,6 +1,4 @@
-## 18. §
-
-(1)[^48] A rendeletet a (2)–(4) bekezdésekben meghatározott eltérésekkel kell alkalmazni az autóbuszvezető, a trolibuszvezető, továbbá a mozgólépcső-kezelő jelöltek és vezetők egészségi alkalmasságának megállapításánál.
+18. § (1)[^48] A rendeletet a (2)–(4) bekezdésekben meghatározott eltérésekkel kell alkalmazni az autóbuszvezető, a trolibuszvezető, továbbá a mozgólépcső-kezelő jelöltek és vezetők egészségi alkalmasságának megállapításánál.
 
 (2) Az (1) bekezdésben megjelölt személyeket a 2. alkalmassági csoportba kell sorolni.
 

@@ -1,6 +1,4 @@
-## 19. §
-
-(1)[^51] A külföldi hatóság által kiállított járművezetésre jogosító okmányt egészségi szempontból érvényesíteni nem szabad.
+19. § (1)[^51] A külföldi hatóság által kiállított járművezetésre jogosító okmányt egészségi szempontból érvényesíteni nem szabad.
 
 (2)[^52] A külföldi állampolgár magyarországon kiállítandó járművezetésre jogosító okmányához az egészségi alkalmasság megállapítását az e rendeletben foglaltak szerint kell elvégezni.
 

@@ -1,6 +1,4 @@
-## 8. §[^26]
-
-(1) Az egészségi alkalmassági vizsgálatot első fokon végző szervek:
+8. §[^26] (1) Az egészségi alkalmassági vizsgálatot első fokon végző szervek:
 
 a)[^27] az 1. alkalmassági csoportba tartozó személy esetén
 

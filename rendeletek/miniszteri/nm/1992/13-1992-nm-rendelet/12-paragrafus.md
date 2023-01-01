@@ -1,6 +1,4 @@
-## 12. §
-
-(1) Az előzetes és az időszakos egészségi alkalmassági vizsgálatot — a (7) bekezdésre is figyelemmel — az e célra szervezett szakértői bizottság végzi, akkor ha
+12. § (1) Az előzetes és az időszakos egészségi alkalmassági vizsgálatot — a (7) bekezdésre is figyelemmel — az e célra szervezett szakértői bizottság végzi, akkor ha
 
 a) a közúti járművezető-jelöltnél, illetőleg a közúti járművezetőnél a közúti járművezetéshez művégtag használata szükséges;
 

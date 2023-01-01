@@ -1,6 +1,4 @@
-## 16. §
-
-(1) Ha a 15. § (2)—(3) bekezdésében meghatározott személyek (szervek) az első fokon adott vélemény felülvéleményezését kérik, az első fokon eljáró egészségügyi szerv kiállítja az orvosi beutalót és azt megküldi az egészégi alkalmasságot másodfokon vizsgáló bizottságnak. A nyomtatványon fel kell tüntetni a kórismét, továbbá a megállapítás indokolását. A felülvéleményezési kérelmet az első fokon eljáró egészségügyi szerv az iratokban feljegyzi.
+16. § (1) Ha a 15. § (2)—(3) bekezdésében meghatározott személyek (szervek) az első fokon adott vélemény felülvéleményezését kérik, az első fokon eljáró egészségügyi szerv kiállítja az orvosi beutalót és azt megküldi az egészégi alkalmasságot másodfokon vizsgáló bizottságnak. A nyomtatványon fel kell tüntetni a kórismét, továbbá a megállapítás indokolását. A felülvéleményezési kérelmet az első fokon eljáró egészségügyi szerv az iratokban feljegyzi.
 
 (2)[^47] A felülvizsgálati véleményt a bizottság vezetője közli az érintett személlyel, a felülvéleményezést kérővel és a kérelmező lakóhelye (tartózkodási helye) szerint illetékes közlekedési igazgatási hatósággal és – alkalmas minősítés esetén – a járművezetésre jogosító okmány érvényesítéséhez szükséges véleményt kiállítja.
 

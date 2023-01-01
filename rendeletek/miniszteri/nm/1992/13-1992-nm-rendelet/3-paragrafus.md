@@ -2,9 +2,7 @@
 
 ## E rendelet alkalmazása szempontjából nem minősül közúti járművezetőnek a járművezetői igazolvánnyal, illetve a hatósági engedély nélkül is vezethető járművek vezetője.
 
-## 3. §
-
-(1)[^4] A közúti járművezető-jelöltet és a közúti járművezetőt az előzetes, az időszakos vagy soron kívüli egészségi alkalmassági vizsgálat alkalmával az alábbi két csoport valamelyikébe kell sorolni:
+3. § (1)[^4] A közúti járművezető-jelöltet és a közúti járművezetőt az előzetes, az időszakos vagy soron kívüli egészségi alkalmassági vizsgálat alkalmával az alábbi két csoport valamelyikébe kell sorolni:
 
 a)[^5] az 1. alkalmassági csoportba kell sorolni azt a közúti járművezetőt, aki a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet (a továbbiakban: KR.) 2. melléklete szerinti „A1” kategóriába, „A2” kategóriába, „A” korlátozott kategóriába, „A” kategóriába, „B1” kategóriába, „B” kategóriába, „BE” kategóriába tartozó járművet vezet vagy kíván vezetni;
 

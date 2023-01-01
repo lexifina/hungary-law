@@ -1,6 +1,4 @@
-## 1. §
-
-(1)[^1] A közúti járművezetők egészségi alkalmassága vizsgálatának célja
+1. § (1)[^1] A közúti járművezetők egészségi alkalmassága vizsgálatának célja
 
 a) annak megállapítása, hogy a közúti járművezető jelölt, illetőleg a közúti járművezető a közúti járművezetésre egészségi állapota alapján alkalmas; továbbá
 

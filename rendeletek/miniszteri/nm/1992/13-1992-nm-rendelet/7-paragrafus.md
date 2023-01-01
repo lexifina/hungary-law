@@ -1,6 +1,4 @@
-## 7. §
-
-(1)[^21] A közúti járművezető soron kívüli egészségi alkalmassági vizsgálatát az alkalmasságot első fokon vizsgáló szervnél, az ok megjelölésével kezdeményezheti:
+7. § (1)[^21] A közúti járművezető soron kívüli egészségi alkalmassági vizsgálatát az alkalmasságot első fokon vizsgáló szervnél, az ok megjelölésével kezdeményezheti:
 
 a)[^22] az eljáró hatóság és közlekedési igazgatási ügyben a közlekedési igazgatási hatóság a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló jogszabályban meghatározott esetekben;
 

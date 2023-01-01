@@ -1,6 +1,4 @@
-## 9. §
-
-(1) Az egészségi alkalmassági vizsgálatot első fokon végző szerv az előzetes alkalmassági vizsgálat eredményét, az időszakos, illetve az esetleges soron kívüli vizsgálat időpontját írásban közli a vizsgált személlyel, tanuló esetén, ha az oktatási intézmény keretében a közúti járművezetés elsajátítása kötelező az oktatási intézménnyel is.
+9. § (1) Az egészségi alkalmassági vizsgálatot első fokon végző szerv az előzetes alkalmassági vizsgálat eredményét, az időszakos, illetve az esetleges soron kívüli vizsgálat időpontját írásban közli a vizsgált személlyel, tanuló esetén, ha az oktatási intézmény keretében a közúti járművezetés elsajátítása kötelező az oktatási intézménnyel is.
 
 (2)[^28] Az első fokú egészségügyi szerv az időszakos vagy a soron kívüli alkalmassági vizsgálatot követően 2 példányban a 2. melléklet szerinti tartalmú véleményt állítja ki és meghatározza a következő időszakos egészségi alkalmassági vizsgálat időpontját.
 

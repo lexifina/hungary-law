@@ -1,6 +1,4 @@
-## 6. §[^20]
-
-(1) A közúti járművezető az 5. § (1)–(4) bekezdésében meghatározott időnél korábban, soron kívül egészségi alkalmassági vizsgálatnak köteles magát alávetni, ha
+6. §[^20] (1) A közúti járművezető az 5. § (1)–(4) bekezdésében meghatározott időnél korábban, soron kívül egészségi alkalmassági vizsgálatnak köteles magát alávetni, ha
 
 a) a 7. § (1) és (2) bekezdésében meghatározott szervek (személyek) kezdeményezésére az egészségi alkalmasságát megállapító szerv erre felszólította, vagy
 

@@ -2,9 +2,7 @@
 
 ## Az orvosi vélemény elkészítésekor a közúti járművezetőt, illetőleg a közúti járművezető-jelöltet tájékoztatni kell az olyan szervi elváltozásokról is, amely a közúti járművezető alkalmasságát nem befolyásolja ugyan, de a biztonságos vezetés érdekében azt feltétlenül ismernie kell.
 
-## 11. §
-
-(1) Az egészségi alkalmassági vizsgálatot másodfokon végző szervek:
+11. § (1) Az egészségi alkalmassági vizsgálatot másodfokon végző szervek:
 
 a)[^35] az orvosszakértői szervnek a külön jogszabály alapján meghatározott első fokú szakértői bizottsága, ha első fokon a vizsgálatot a 8. § (1) bekezdésében vagy a 8. § (2) bekezdésének b) pontjában meghatározott orvos végezte;
 
