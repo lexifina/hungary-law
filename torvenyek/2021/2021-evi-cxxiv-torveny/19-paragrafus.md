@@ -8,9 +8,9 @@ c) a Gazdasági Versenyhivatalt,
 
 d) a Magyar Nemzeti Bankot,
 
-e) a környezetvédelmi és természetvédelmi hatáskörében eljáró megyei kormányhivatalt,
+e) a környezetvédelmi és természetvédelmi hatáskörében eljáró vármegyei kormányhivatalt,
 
-f) az általános fogyasztóvédelmi hatóságként eljáró megyei kormányhivatalt,
+f) az általános fogyasztóvédelmi hatóságként eljáró vármegyei kormányhivatalt,
 
 g) a munkavédelmi és foglalkoztatásfelügyeleti hatóságként eljáró minisztert,
 
