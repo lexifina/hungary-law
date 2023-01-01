@@ -4,7 +4,7 @@
 
 (3)
 
-(4) A vizsgabizonyítvány tárgyában hozott végleges határozatot – indokolás nélkül – a miniszter által vezetett minisztérium hivatalos lapjában és az oktatási hivatal honlapján közzé kell tenni.
+(4) A vizsgabizonyítvány tárgyában hozott végleges határozatot – indokolás nélkül – a Magyar Közlöny mellékletét képező Hivatalos Értesítőben és az oktatási hivatal honlapján közzé kell tenni.
 
 (5) Ha a nyelvvizsga-bizonyítványt kiállító vizsgaközpont jogutód nélkül szűnt meg, az (1) és (2) bekezdés szerinti eljárásban az oktatási hivatal jár el.
 

@@ -12,9 +12,9 @@ b) a felsőoktatási intézménytől elkülönített szervezeti keretben egészs
 
 (2) A klinikai központ
 
-a) irányítói megyei intézményi feladatokat ellátó és
+a) irányítói vármegyei intézményi feladatokat ellátó és
 
-b) irányítói megyei intézményi feladatokat el nem látó
+b) irányítói vármegyei intézményi feladatokat el nem látó
 
 klinikai központ lehet, amelyekre ezen alcím rendelkezései szerint eltérő szabályok az irányadók.
 
