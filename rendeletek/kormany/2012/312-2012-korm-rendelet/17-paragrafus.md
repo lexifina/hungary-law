@@ -30,7 +30,7 @@ c)[^88] fennmaradási engedélyezésre,
 
 d)[^89]
 
-## irányuló kérelem is előterjeszthető.
+irányuló kérelem is előterjeszthető.
 
 (5) Az építésügyi hatóság a (4) bekezdés szerinti kérelmek elbírálását összevonja, döntéseit egybefoglalja.
 
@@ -52,7 +52,7 @@ c)[^95] termőföld igénybevétele esetén a termőföld végleges más célú 
 
 d) a természet védelméről szóló törvényben meghatározott esetekben a természetvédelmi hatóság engedélye,
 
-## az iktatószám megjelölésével nyilatkozhat ezek meglétéről vagy mellékelheti azokat a kérelemhez.
+az iktatószám megjelölésével nyilatkozhat ezek meglétéről vagy mellékelheti azokat a kérelemhez.
 
 (8)[^96] Ha a (7) bekezdés a)–d) pontjában meghatározott döntéseket meghozták, de az építésügyi hatósághoz nem nyújtották be, azokat az építésügyi hatóság beszerzi a döntést kibocsátó hatóságtól.
 

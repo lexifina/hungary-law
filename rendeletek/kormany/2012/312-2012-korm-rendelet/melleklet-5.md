@@ -1,6 +1,6 @@
 5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^456]
 
-## Szakhatósági vagy szakkérdés vizsgálatára alkalmas dokumentációk tartalma építésügyi hatósági engedélyezéshez
+Szakhatósági vagy szakkérdés vizsgálatára alkalmas dokumentációk tartalma építésügyi hatósági engedélyezéshez
 
 I. A természet- és tájvédelmi szakhatóság állásfoglalásának megkéréséhez szükséges dokumentumok
 

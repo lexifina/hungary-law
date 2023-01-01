@@ -38,7 +38,7 @@ a) az (1) bekezdés a)–g) pontja szerinti eljárásokat összevonó telepíté
 
 b) az (1) bekezdés c pont cb) alpontja, h) és i) pontja szerinti eljárásokat összevonó integrált építési engedélyezési szakaszból (a továbbiakban: IÉSZ)
 
-## áll.
+áll.
 
 (3) Az összevont telepítési eljárás iránti kérelem az eljárásnak a THSZ és az IÉSZ szakaszára is vonatkozik, azonban a kérelem benyújtásakor csak a THSZ megindításához előírt mellékleteket kell benyújtani.
 

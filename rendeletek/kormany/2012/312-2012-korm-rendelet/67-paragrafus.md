@@ -14,7 +14,7 @@ d)[^413] az építési tevékenységet az 58. § (4) bekezdés b) pontja szerint
 
 e)[^414] az Étv. 33/A. §-a szerinti egyszerű bejelentéshez kötött építési tevékenységet a helyi építési szabályzat és az országos építési követelmények megsértésével
 
-## (a továbbiakban együtt: szabálytalanul) végezték.
+(a továbbiakban együtt: szabálytalanul) végezték.
 
 (3)[^415] Az építésfelügyeleti hatóság
 

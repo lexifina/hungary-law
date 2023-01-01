@@ -14,7 +14,7 @@ d) a lejárt hatályú építési engedéllyel rendelkező építmény esetében
 
 e) a fővállalkozó kivitelező halála vagy megszűnése esetén az építésügyi műszaki szakértő Épkiv. 14. §-ában meghatározott tartalmú nyilatkozatát követően
 
-## nyújtja be az építésügyi hatósághoz.
+nyújtja be az építésügyi hatósághoz.
 
 (1b)[^317] Az építtető a használatbavétel tudomásulvételére irányuló kérelemében kérheti, hogy az építésügyi hatóság a tudomásul vételt foglalja írásba.
 
@@ -44,7 +44,7 @@ a) ha az építtető a (2) bekezdésben előírtak szerint teljesítette a vázr
 
 b) ha az építtető a (3) bekezdésben foglaltak szerint teljesítette kötelezettségét
 
-## e tényről és a használatbavétel tudomásulvételéről történő tájékoztatás érdekében az építésügyi hatóság végzéssel, annak ÉTDR-en keresztül történő megküldéssel hivatalból megkeresi az ingatlan fekvése szerint illetékes ingatlanügyi hatóságot a változás ingatlan-nyilvántartási átvezetése iránt.
+e tényről és a használatbavétel tudomásulvételéről történő tájékoztatás érdekében az építésügyi hatóság végzéssel, annak ÉTDR-en keresztül történő megküldéssel hivatalból megkeresi az ingatlan fekvése szerint illetékes ingatlanügyi hatóságot a változás ingatlan-nyilvántartási átvezetése iránt.
 
 (5)[^325] Az ingatlanügyi hatóságot megkereső végzés tartalmazza az építési tevékenység rövid leírását, az építmény rendeltetését, valamint az önálló rendeltetési egységek számát, rendeltetésének megjelölését és hasznos alapterületét önálló rendeltetési egységenként.
 

@@ -1,5 +1,3 @@
-## 63. §[^381]
-
 64. § (1) Az építésfelügyeleti hatóság az 58. § (2) bekezdés b) pontja szerinti ellenőrzésen a jegyzőkönyvében rögzíti:
 
 a)[^382] az ellenőrzésben az Étv. 53/D. § (1) bekezdése szerinti közreműködők megnevezését,
@@ -62,7 +60,6 @@ a) az (1) bekezdés esetén az elektronikus építési naplóba az eseti bejegyz
 
 b)[^396] az 58. § (4) bekezdése esetén az OÉNY feltöltő felületén keresztül.
 
-[^381]: A 63. §-t a 144/2017. (VI. 12.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.
 [^382]: A 64. § (1) bekezdés a) pont a 13/2019. (II. 11.) Korm. rendelet 18. § 15. pontja szerint módosított szöveg.
 [^383]: A 64. § (1) bekezdés b) pontja a 441/2015. (XII. 28.) Korm. rendelet 179. § (23) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^384]: A 64. § (1) bekezdés c) pontja a 441/2015. (XII. 28.) Korm. rendelet 179. § (23) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

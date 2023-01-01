@@ -318,6 +318,8 @@ Statisztikai adatlap épület bontásának engedélyezéséhez és tudomásulvé
 
 | 9. A megszűnt lakóépület szintjeinek száma (00) (Csak egész épület megszűnése esetén kell kitölteni!) földszint . . . . . . . . . . . . . . emelet |
 
+6K84269N_1
+
 | A megszűnt lakások |
 
 |  | nagysága (szobák száma) | száma (db) | összes helyisé- geinek száma | összes alap- területe (m2) | felszereltsége |

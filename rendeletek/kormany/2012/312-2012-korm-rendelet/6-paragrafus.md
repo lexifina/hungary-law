@@ -6,7 +6,7 @@
 
 (2a)[^23] Az építésügyi hatóság képviselőjének igazolványa tartalmazza a hatóság képviselőjének nevét, besorolását, fényképét, aláírását, az őt foglalkoztató hivatal megnevezését, bélyegzőlenyomatát, az igazolvány kiállításának dátumát, érvényességi idejét, valamint az igazolvány sorszámát.
 
-(2b)[^24] Az építésügyi hatóság és az építésfelügyeleti hatóság képviselőjének igazolványa tekintetében a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló kormányrendelet rendelkezései irányadóak.
+(2b)[^24] Az építésügyi hatóság és az építésfelügyeleti hatóság képviselőjének igazolványa tekintetében a fővárosi és vármegyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló kormányrendelet rendelkezései irányadóak.
 
 (2c)[^25] A helyszíni szemlét vagy a hatósági ellenőrzést egyidejűleg legalább két fő végzi.
 
@@ -26,7 +26,7 @@ d) hogy a megvalósult építmény, építményrész – az engedély nélkül m
 
 [^22]: A 6. § (2) bekezdése a 144/2017. (VI. 12.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^23]: A 6. § (2a) bekezdését a 144/2017. (VI. 12.) Korm. rendelet 9. §-a iktatta be, szövege a 30/2020. (II. 29.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
-[^24]: A 6. § (2b) bekezdését a 144/2017. (VI. 12.) Korm. rendelet 9. §-a iktatta be, szövege a 30/2020. (II. 29.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^24]: A 6. § (2b) bekezdését a 144/2017. (VI. 12.) Korm. rendelet 9. §-a iktatta be, szövege a 30/2020. (II. 29.) Korm. rendelet 16. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 143. §-a szerint módosított szöveg.
 [^25]: A 6. § (2c) bekezdését a 144/2017. (VI. 12.) Korm. rendelet 9. §-a iktatta be.
 [^26]: A 6. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^27]: A 6. § (4) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 11. pontja szerint módosított szöveg.

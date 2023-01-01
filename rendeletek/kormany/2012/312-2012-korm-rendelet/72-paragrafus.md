@@ -1,5 +1,3 @@
-## 71. §
-
 ## XVII. Fejezet
 
 ## AZ ÉPÍTÉSZETI-MŰSZAKI DOKUMENTÁCIÓ

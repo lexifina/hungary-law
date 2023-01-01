@@ -20,6 +20,6 @@ a) a megvalósítással kapcsolatos követelmények előzetes tisztázása célj
 
 b) építési engedélyezési
 
-## szakaszból áll.
+szakaszból áll.
 
 (3) Az összevont eljárás megindítására irányuló kérelem az összevont eljárás mindkét szakaszára vonatkozik, azonban mellékletként az eljárás megindításakor csak az elvi építési keretengedélyezési szakasz megindításához szükséges mellékleteket kell benyújtani.

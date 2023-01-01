@@ -20,7 +20,7 @@ ca) továbbépítésére vagy
 
 cb) használatbavételére
 
-## irányuló kérelem is előterjeszthető.
+irányuló kérelem is előterjeszthető.
 
 (4)[^269] A fennmaradási engedély iránti kérelemhez tartalmától függően mellékelni kell az Épkiv. 14. §-ában meghatározott tartalmú nyilatkozatot, ha az építési tevékenységet építési napló vezetése nélkül végezték. A fennmaradási engedély iránti kérelem benyújtásával egyidejűleg igazolni kell, hogy
 
@@ -34,7 +34,7 @@ a) az építmény nem rendelkezik hatályos építési engedéllyel, vagy
 
 b) a fővállalkozó kivitelező meghalt vagy megszűnt,
 
-## az Épkiv. 14. §-ában meghatározott tartalmú nyilatkozatot az építésügyi műszaki szakértő teszi meg.
+az Épkiv. 14. §-ában meghatározott tartalmú nyilatkozatot az építésügyi műszaki szakértő teszi meg.
 
 (5) Amennyiben a kérelmező birtokában van
 
@@ -44,7 +44,7 @@ b) erdőterület igénybevétele esetén az erdészeti hatóság engedélye – 
 
 c)[^274] termőföld igénybevétele esetén a termőföld végleges más célú hasznosításának engedélyezéséről szóló végleges hatósági határozat – kivéve, ha az az összevont telepítési eljárásban került kiadásra –,
 
-## az iktatószám megjelölésével nyilatkozhat ezek meglétéről vagy mellékelheti azokat a kérelemhez.
+az iktatószám megjelölésével nyilatkozhat ezek meglétéről vagy mellékelheti azokat a kérelemhez.
 
 (6) A kérelemhez elektronikus formátumban mellékelni kell:
 

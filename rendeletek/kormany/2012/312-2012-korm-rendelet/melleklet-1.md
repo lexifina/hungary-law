@@ -1,8 +1,6 @@
-## való megfelelést szolgálja.
-
 1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^453]
 
-## Építési engedély nélkül végezhető építési tevékenységek
+Építési engedély nélkül végezhető építési tevékenységek
 
 1. Építmény átalakítása, felújítása, helyreállítása, korszerűsítése, homlokzatának megváltoztatása, kivéve zártsorú vagy ikres beépítésű építmény esetén, ha e tevékenységek a csatlakozó építmény alapozását vagy tartószerkezetét is érintik.
 

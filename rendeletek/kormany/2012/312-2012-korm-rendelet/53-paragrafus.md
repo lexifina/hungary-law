@@ -1,5 +1,3 @@
-## 52. §
-
 ## XII. Fejezet
 
 ## AZ EGYES ÉPÍTÉSÜGYI HATÓSÁGI TUDOMÁSULVÉTELI ELJÁRÁSOK

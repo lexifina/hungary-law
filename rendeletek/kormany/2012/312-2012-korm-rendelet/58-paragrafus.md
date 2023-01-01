@@ -1,5 +1,3 @@
-## 57. §
-
 ## XV. Fejezet
 
 ## AZ ÉPÍTÉSI FOLYAMAT FELÜGYELETE

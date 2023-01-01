@@ -1,4 +1,4 @@
-## Statisztikai adatlap épület építési engedélyezéséhez
+## 2K24925_0
 
 | Az épület rendeltetése | A | B | C |
 
@@ -42,7 +42,7 @@
 
 4. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^455]
 
-## Statisztikai adatlap az épület használatbavételéhez
+Statisztikai adatlap az épület használatbavételéhez
 
 1. Az épület készültsége
 
@@ -198,19 +198,19 @@ Az épített lakások területe, helyiségei lakástípusonként kell kitölteni
 
 | 5 | A lakás összes helyisége (db) |  |  |  |  |  |  |  |
 
-| 6 | Ebből: 8,1-12,0 m2 –es szoba (db) |  |  |  |  |  |  |  |
+| 6 | Ebből: 8,1-12,0 m2–es szoba (db) |  |  |  |  |  |  |  |
 
-| 7 | 12,1-17,0 m2 –es szoba (db) |  |  |  |  |  |  |  |
+| 7 | 12,1-17,0 m2–es szoba (db) |  |  |  |  |  |  |  |
 
 | 8 | 17,1-25,0 m2 –es szoba (db) |  |  |  |  |  |  |  |
 
 | 9 | 25,1- m2 feletti szoba (db) |  |  |  |  |  |  |  |
 
-| 10 | -4,0 m2 –es főzőhelyiség (db) |  |  |  |  |  |  |  |
+| 10 | -4,0 m2–es főzőhelyiség (db) |  |  |  |  |  |  |  |
 
-| 11 | 4,1-10,0 m2 –es főzőhelyiség. (db) |  |  |  |  |  |  |  |
+| 11 | 4,1-10,0 m2–es főzőhelyiség. (db) |  |  |  |  |  |  |  |
 
-| 12 | 10,1- m2 feletti főzőhelyiség. (db) |  |  |  |  |  |  |  |
+| 12 | 10,1- m2feletti főzőhelyiség. (db) |  |  |  |  |  |  |  |
 
 | 13 | Gardróbhelyiség (db) |  |  |  |  |  |  |  |
 

@@ -8,5 +8,7 @@ b) 40. § (7) bekezdés d) pont db) alpontja az épületek energiahatékonyság�
 
 c) az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és a tanácsi irányelv 2. cikkének és 4. cikk (2) bekezdésének, valamint II. és III. mellékletének
 
+való megfelelést szolgálja.
+
 [^451]: A 77/G. §-t a 315/2022. (VIII. 16.) Korm. rendelet 4. § (4) bekezdése iktatta be.
 [^452]: A hatálybalépés időpontja 2022. augusztus 17.

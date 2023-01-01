@@ -1,5 +1,3 @@
-## 59–60/A. §
-
 ## 47. Építésfelügyeleti hatósági ellenőrzés
 
 61. § (1)[^367] Az építésfelügyeleti hatóság az építőipari kivitelezési tevékenység folytatásának ellenőrzését
@@ -10,7 +8,7 @@ b) a (4) bekezdés szerinti ellenőrzési utasításban foglaltak szerint,
 
 c) távoli eléréssel az elektronikus építési napló alkalmazásban
 
-## végzi.
+végzi.
 
 (1a)[^368] Az építésfelügyeleti hatóság az Épkiv.-ben meghatározott esetben az elektronikus építési napló készenlétét megszünteti, ha az elektronikus építési napló tartalmára és vezetésére vonatkozó követelmények teljesülnek és a helyszínen építőipari kivitelezési tevékenység végzését nem tapasztalja. Az építésfelügyeleti hatóság szabálytalan tevékenység esetén az elektronikus építési napló készenlétét nem szünteti meg, építésfelügyeleti hatósági intézkedést tesz.
 

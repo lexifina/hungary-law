@@ -8,7 +8,10 @@ a) megállapított 55. § (6) bekezdését, valamint
 
 b) módosított 42. § (1) bekezdését, 44. § (5) bekezdését, 56. § (1) bekezdését, 58. § (6) bekezdését, 64. § (2) bekezdését, valamint 1. mellékletét
 
+a Mód. Kr3. hatálybalépésekor[^437] folyamatban lévő eljárásokban is alkalmazni kell.
+
 [^433]: A 76. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 358/2013. (X. 9.) Korm. rendelet 6. § (1) bekezdése iktatta be.
 [^434]: A hatálybalépés időpontja 2013. október 14.
 [^435]: A 77. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 477/2016. (XII. 27.) Korm. rendelet 64. § (2) bekezdése iktatta be.
 [^436]: Az újabb 77. §-t a 482/2016. (XII. 28.) Korm. rendelet 30. §-a iktatta be.
+[^437]: A hatálybalépés időpontja 2016. december 29.

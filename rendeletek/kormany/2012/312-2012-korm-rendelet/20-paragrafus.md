@@ -32,7 +32,7 @@ b)[^130] az építésfelügyeleti hatósággal,
 
 c)[^131] az illetékes környezetvédelmi és természetvédelmi hatósággal, valamint a területi vízügyi hatósággal, ha az építési engedélyezési eljárás környezetvédelmi vagy egységes környezethasználati engedély köteles építményre vonatkozott,
 
-d)[^132] a munkavédelmi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatallal, ha az építési tevékenységgel érintett építmény azbesztet tartalmaz,
+d)[^132] a munkavédelmi hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatallal, ha az építési tevékenységgel érintett építmény azbesztet tartalmaz,
 
 e) mindazokkal, akiknek értesítését jogszabály előírja.
 
@@ -48,7 +48,7 @@ e) mindazokkal, akiknek értesítését jogszabály előírja.
 [^129]: A 20. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 20. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^130]: A 20. § (3) bekezdés b) pontja a 668/2020. (XII. 28.) Korm. rendelet 32. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^131]: A 20. § (3) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 123. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 4. pontja szerint módosított szöveg.
-[^132]: A 20. § (3) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 4. pontja szerint módosított szöveg.
+[^132]: A 20. § (3) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 4. pontja, a 616/2022. (XII. 29.) Korm. rendelet 143. §-a szerint módosított szöveg.
 [^133]: A 20. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 4. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^134]: A 20. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 21–22. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^135]: A 20. § (6) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 23. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

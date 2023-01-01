@@ -24,7 +24,7 @@
 
 | 9. | Ha az építési tevékenység, illetve az építményben folytatott tevékenység nem környezeti hatásvizsgálat, vagy nem egységes környezethasználati engedély köteles, és az építmény a települési önkormányzat jegyzőjének, a főváros esetében a kerületi önkormányzat jegyzőjének vagy a főváros főjegyzőjének hatáskörébe nem tartozó zaj- vagy rezgéskibocsátással üzemel. | Annak elbírálása, hogy az építmény zajkibocsátása megfelel-e a környezeti zaj és rezgés elleni védelem követelményeinek. | a) építési, b) összevont (építési engedélyezési szakaszában), c) d) használatbavételi, e) fennmaradási engedélyezési eljárás |
 
-| 10. | Ha az építési tevékenység, illetve az építményben folytatott tevékenység nem környezeti hatásvizsgálat, vagy nem egységes környezethasználati engedély köteles, és az építmény a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának hatáskörébe nem tartozó légszennyező anyag kibocsátással üzemel. | Annak elbírálása, hogy az építménybe tervezett tevékenység megfelel-e az elérhető legjobb technika alapján meghatározott levegővédelmi követelményeknek és előírásoknak. | a) építési, b) összevont (építési engedélyezési szakaszában), c)d) használatbavételi, e) fennmaradási engedélyezési eljárás |
+| 10. | Ha az építési tevékenység, illetve az építményben folytatott tevékenység nem környezeti hatásvizsgálat, vagy nem egységes környezethasználati engedély köteles, és az építmény a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalának hatáskörébe nem tartozó légszennyező anyag kibocsátással üzemel. | Annak elbírálása, hogy az építménybe tervezett tevékenység megfelel-e az elérhető legjobb technika alapján meghatározott levegővédelmi követelményeknek és előírásoknak. | a) építési, b) összevont (építési engedélyezési szakaszában), c)d) használatbavételi, e) fennmaradási engedélyezési eljárás |
 
 | 11. | A következő építmények építése, bővítése, átalakítása esetén, ha a Khvr. 1. § (3) bekezdésében foglalt vizsgálatra az eljárást megelőzően más hatósági eljárásban nem került sor: 1. intenzív állattartó telep vízbázis védőövezetén, védett természeti területen, Natura 2000 területen, barlang védőövezetén baromfi esetén 10 számosállat alatt, egyéb állat esetén 50 számosállat alatt; nem vízbázis védőövezetén, nem védett természeti területen, nem Natura 2000 területen, nem barlang védőövezetén: a) broilerek számára 100 számosállat alatt, b) tojók számára 200 számosállat alatt, c) sertéshízók számára 500 számosállat alatt, d) sertéskocák számára 150 számosállat alatt, e) egyéb állatok számára hígtrágyás technológia alkalmazása esetén 200 számosállat alatt; 2. húsfeldolgozó üzem 10 ezer t/év késztermék előállítása alatt; 3. önállóan létesített vágóhíd 25 t/nap vágottsúly-kapacitás alatt; 4. halfeldolgozó üzem 10 ezer t/év késztermék előállítása alatt; 5. gyümölcs-, zöldségfeldolgozó üzem 40 ezer t/év késztermék előállítása alatt; 6. növényi-, állatiolaj-gyártó üzem 40 ezer t/év késztermék előállítása alatt; 7. tejtermékgyártó üzem 200 t/nap beérkezett tejmennyiség alatt; | Annak elbírálása kérdésében, hogy a Khvr. 5. számú mellékletében foglalt követelmények alapján az építési tevékenység és az építményben folytatott tevékenység alapján jelentős környezeti hatások feltételezhetők-e. | a) építési, b) összevont, c)engedélyezési eljárás |
 
@@ -54,7 +54,7 @@
 
 7. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^458]
 
-## Az összevont telepítési eljárásban vizsgálandó szakkérdés
+Az összevont telepítési eljárásban vizsgálandó szakkérdés
 
 1. szakasz: telepítési hatásvizsgálati szakaszban
 
@@ -72,7 +72,7 @@
 
 | 6. | Ha a tervezett beruházáshoz telekalakítás szükséges. | A telekalakítás megfelel-e a telekalakítás sajátos szabályainak. |
 
-| 7. | Ha a tervezett beruházáshoz településrendezési terv készítése vagy módosítása szükséges. | Településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet 9. mellékletében meghatározott, a fővárosi és megyei kormányhivatal hatáskörébe tartozó szakkérdés. |
+| 7. | Ha a tervezett beruházáshoz településrendezési terv készítése vagy módosítása szükséges. | Településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendelet 9. mellékletében meghatározott, a fővárosi és vármegyei kormányhivatal hatáskörébe tartozó szakkérdés. |
 
 2. szakasz: integrált építési engedélyezési szakaszban
 
@@ -84,4 +84,4 @@
 
 | 3. | Egységes környezethasználati engedélyhez kötött tervezett tevékenység esetén. | A környezetszennyezés megelőzése, a környezet terhelésének csökkentése érdekében mi az elérhető legjobb technika. |
 
-[^458]: A 7. melléklet a 457/2017. (XII. 28.) Korm. rendelet 410. § (21) bekezdésével megállapított, a 420/2021. (VII. 15.) Korm. rendelet 61. § 9. és 19. pontja szerint módosított szöveg.
+[^458]: A 7. melléklet a 457/2017. (XII. 28.) Korm. rendelet 410. § (21) bekezdésével megállapított, a 420/2021. (VII. 15.) Korm. rendelet 61. § 9. és 19. pontja, a 616/2022. (XII. 29.) Korm. rendelet 143. §-a szerint módosított szöveg.
