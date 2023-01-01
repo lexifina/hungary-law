@@ -18,7 +18,7 @@ e)[^354] közreműködő egészségügyi szolgáltató esetén az a)–d) pontba
 
 (4)[^357] A 22–25. § szerinti szerződéseket – ha jogszabály másként nem rendelkezik – a NEAK határozatlan időre köti meg.
 
-(5)[^358] A 24–25. § szerinti szerződéseket a NEAK a szolgáltató telephelye szerint köti meg. A kizárólag gyógyászati segédeszközt forgalmazó, kölcsönző, javító, gyártó, valamint 18 éves kor alatti csoportos gyógyúszást, mint egyéb rehabilitációs célú gyógyászati ellátást végző szolgáltató – amennyiben egy megyében több telephellyel rendelkezik – kérelmezheti az egy megyében létesített valamennyi telephelyére vonatkozóan egy ártámogatási szerződés megkötését.
+(5)[^358] A 24–25. § szerinti szerződéseket a NEAK a szolgáltató telephelye szerint köti meg. A kizárólag gyógyászati segédeszközt forgalmazó, kölcsönző, javító, gyártó, valamint 18 éves kor alatti csoportos gyógyúszást, mint egyéb rehabilitációs célú gyógyászati ellátást végző szolgáltató – amennyiben egy vármegyében több telephellyel rendelkezik – kérelmezheti az egy vármegyében létesített valamennyi telephelyére vonatkozóan egy ártámogatási szerződés megkötését.
 
 [^350]: A Vhr. 14. § (1) bekezdése a 165/2009. (VIII. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
 [^351]: A Vhr. 14. § (1a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 5. §-a iktatta be.
@@ -28,4 +28,4 @@ e)[^354] közreműködő egészségügyi szolgáltató esetén az a)–d) pontba
 [^355]: A Vhr. 14. §-ának (2) bekezdése a 203/1999. (XII. 26.) Korm. rendelet 17. § (1) bekezdésének a) pontja, a 264/2003. (XII. 24.) Korm. rendelet 27. § (6) bekezdése, a 413/2015. (XII. 23.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^356]: A Vhr. 14. §-ának (3) bekezdését a 102/2003. (VII. 17.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 413/2015. (XII. 23.) Korm. rendelet 9. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
 [^357]: A Vhr. 14. § (4) bekezdését a 165/2009. (VIII. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^358]: A Vhr. 15. § (5) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 12. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^358]: A Vhr. 15. § (5) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 12. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 27. § (11) bekezdés a) pontja, a 410/2022. (X. 24.) Korm. rendelet 1. § b) pontja szerint módosított szöveg. [ A 14. § (5) bekezdésben a 616/2022. (XII. 29.) Korm. rendelet 25. § b) pontja által elrendelt módosítás, amely szerint a „megyében” szövegrészek helyébe a „vármegyében” szöveg lép, nem vezethető át. ]
