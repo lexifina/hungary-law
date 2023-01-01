@@ -8,7 +8,7 @@ b) a 2. melléklet 7. pontja szerinti közigazgatási hatósági ügyekben eljá
 
 c)[^2] a 2. melléklet 8. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Fővárosi Katasztrófavédelmi Főigazgatóságot,
 
-d)[^3] a 2. melléklet 10. és 11. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Pest Megyei Kormányhivatalt
+d)[^3] a 2. melléklet 10. és 11. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Pest Vármegyei Kormányhivatalt
 
 jelöli ki.
 
@@ -20,4 +20,4 @@ b) a Beruházásokhoz közvetlenül kapcsolódó – a megvalósítandó építm
 
 [^1]: Az 1. § (2) bekezdés a) pontja a 617/2020. (XII. 21.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés c) pontját a 617/2020. (XII. 21.) Korm. rendelet 5. §-a iktatta be.
-[^3]: Az 1. § (2) bekezdés d) pontját a 617/2020. (XII. 21.) Korm. rendelet 5. §-a iktatta be.
+[^3]: Az 1. § (2) bekezdés d) pontját a 617/2020. (XII. 21.) Korm. rendelet 5. §-a iktatta be, szövege az 546/2022. (XII. 22.) Korm. rendelet 254. § a) pontja szerint módosított szöveg.
