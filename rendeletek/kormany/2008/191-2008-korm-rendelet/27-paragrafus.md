@@ -1,3 +1,3 @@
-## 26. §[^185]
+27. §[^186]
 
-[^185]: A 26. §-t újonnan a 82/2019. (IV. 18.) Korm. rendelet 2. § (5) bekezdése iktatta be, hatályon kívül helyezte a 238/2022. (VI. 30.) Korm. rendelet 84. §-a.
+[^186]: A 27. §-t újonnan a 140/2019. (VI. 14.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 238/2022. (VI. 30.) Korm. rendelet 84. §-a.

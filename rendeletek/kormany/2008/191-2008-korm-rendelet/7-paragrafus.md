@@ -12,7 +12,7 @@ d)[^68] már működő szolgáltató esetén a kezelő szerv, az igazgatóságok
 
 e) a rendelkezésre álló költségvetési források
 
-## alapján kell meghozni.
+alapján kell meghozni.
 
 (3)[^69]
 

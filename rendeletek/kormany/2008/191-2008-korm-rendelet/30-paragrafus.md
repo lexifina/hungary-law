@@ -10,6 +10,8 @@ c) a veszélyhelyzet kihirdetéséről szóló 478/2020. (XI. 3.) Korm. rendelet
 
 d) a veszélyhelyzet kihirdetéséről és a veszélyhelyzeti intézkedések hatálybalépéséről szóló 27/2021. (I. 29.) Korm. rendelet szerint veszélyhelyzettel
 
+érintett minden megkezdett hónapra vonatkozóan el kell tekinteni.
+
 [^188]: A 29. §-t újonnan a 180/2019. (VII. 26.) Korm. rendelet 6. § (4) bekezdése iktatta be.
 [^189]: A hatálybalépés időpontja 2019. július 27.
 [^190]: A 30. §-t a 284/2020. (VI. 17.) Korm. rendelet 40. §-a iktatta be, szövege a 28/2021. (I. 29.) Korm. rendelet 9. §-ával megállapított szöveg.

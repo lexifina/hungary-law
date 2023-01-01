@@ -12,6 +12,8 @@ a)[^126] megemelésének elfogadásáról a szociálpolitikáért felelős minis
 
 b)[^127] csökkentésének elfogadásáról az NSZI
 
+dönt. Ha a szociálpolitikáért felelős miniszter, illetve az NSZI a tárgyévi feladatmutató módosítását elfogadja, a finanszírozási szerződést ennek megfelelően módosítani kell.
+
 [^122]: A 12. §-t a 419/2015. (XII. 23.) Korm. rendelet 24. § 23. pontja hatályon kívül helyezte, újonnan a 235/2017. (VIII. 18.) Korm. rendelet 18. §-a iktatta be.
 [^123]: A 12. § (1) bekezdése a 305/2018. (XII. 27.) Korm. rendelet 8. §-ával megállapított, a 610/2020. (XII. 18.) Korm. rendelet 11. § b) pontja, a 238/2022. (VI. 30.) Korm. rendelet 83. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^124]: A 12. § (2) bekezdés a) pontja a 610/2020. (XII. 18.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.

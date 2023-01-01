@@ -1,5 +1,3 @@
-## dönt. Ha a szociálpolitikáért felelős miniszter, illetve az NSZI a tárgyévi feladatmutató módosítását elfogadja, a finanszírozási szerződést ennek megfelelően módosítani kell.
-
 ## A finanszírozási szerződés megszűnése
 
 13. § (1) A finanszírozási szerződés megszűnik
