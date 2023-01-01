@@ -4,8 +4,11 @@
 
 (2) A versenyképesség-növelő támogatás mértéke a pályázó által megvalósítani vállalt beruházás értékének legfeljebb
 
-a) 33%-a, ha a beruházás helyszíne Szabolcs-Szatmár-Bereg megyében, Borsod-Abaúj-Zemplén megyében, Nógrád megyében, Somogy megyében, Békés megyében, Jász-Nagykun-Szolnok megyében vagy Baranya megyében található;
+a)[^39] 33%-a, ha a beruházás helyszíne Szabolcs-Szatmár-Bereg vármegyében, Borsod-Abaúj-Zemplén vármegyében, Nógrád vármegyében, Somogy vármegyében, Békés vármegyében, Jász-Nagykun-Szolnok vármegyében vagy Baranya vármegyében található;
 
-b) 20%-a, ha a beruházás helyszínei közül legalább egy nem az a) pontban felsorolt megyék egyikében található.
+b)[^40] 20%-a, ha a beruházás helyszínei közül legalább egy nem az a) pontban felsorolt vármegyék egyikében található.
 
 (3) Amennyiben a beruházás a (2) bekezdés a) és b) pontjába tartozó helyszíneket is érint, akkor az adott helyszínek vonatkozásában a támogatás mértéke nem lépheti túl a (2) bekezdésben rögzített maximális támogatási arányt.
+
+[^39]: A 12/N. § (2) bekezdés a) pontja a 27/2022. (XII. 28.) KKM rendelet 1. § a) pontja szerint módosított szöveg.
+[^40]: A 12/N. § (2) bekezdés b) pontja a 27/2022. (XII. 28.) KKM rendelet 1. § b) pontja szerint módosított szöveg.
