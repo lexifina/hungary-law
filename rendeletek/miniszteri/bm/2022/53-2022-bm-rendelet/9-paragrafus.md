@@ -1,0 +1,3 @@
+## 7. Az élelmiszerekben lévő transz-zsírsavak megengedhető legnagyobb mennyiségéről, a transz-zsírsav tartalmú élelmiszerek forgalmazásának feltételeiről és hatósági ellenőrzéséről, valamint a lakosság transz-zsírsav bevitelének nyomon követésére vonatkozó szabályokról szóló 71/2013. (XI. 20.) EMMI rendelet módosítása
+
+9. § Az élelmiszerekben lévő transz-zsírsavak megengedhető legnagyobb mennyiségéről, a transz-zsírsav tartalmú élelmiszerek forgalmazásának feltételeiről és hatósági ellenőrzéséről, valamint a lakosság transz-zsírsav bevitelének nyomon követésére vonatkozó szabályokról szóló 71/2013. (XI. 20.) EMMI rendelet 4. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
