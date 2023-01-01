@@ -4,7 +4,7 @@ a) az országgyűlési képviselők választásának kitűzését követően az 
 
 b) az Európai Parlament tagjai választásának kitűzését követően a listát állító jelölő szervezetek,
 
-c) a helyi önkormányzati képviselők és polgármesterek választásának kitűzését követően a megyei listát, fővárosi kompenzációs listát vagy főpolgármester-jelöltet állító jelölő szervezetek, valamint a független főpolgármester-jelöltek
+c) a helyi önkormányzati képviselők és polgármesterek választásának kitűzését követően a vármegyei listát, fővárosi kompenzációs listát vagy főpolgármester-jelöltet állító jelölő szervezetek, valamint a független főpolgármester-jelöltek
 
 bízzák meg.
 

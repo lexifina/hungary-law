@@ -10,7 +10,7 @@ c) az Európai Parlament tagjainak választásához kapcsolódó, kizárólag a 
 
 (2) A területi választási bizottság dönt
 
-a) minden olyan kifogásról, amely kifejezetten a megyei vagy fővárosi önkormányzati választáshoz, a főpolgármester-választáshoz vagy a területi nemzetiségi választáshoz kapcsolódik,
+a) minden olyan kifogásról, amely kifejezetten a vármegyei vagy fővárosi önkormányzati választáshoz, a főpolgármester-választáshoz vagy a területi nemzetiségi választáshoz kapcsolódik,
 
 b) minden olyan kifogásról, amely nem tartozik az (1) bekezdés alá, és kizárólag a területi választási bizottság illetékességi területét érinti,
 

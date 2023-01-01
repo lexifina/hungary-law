@@ -1,6 +1,6 @@
 ## 138/H. A szavazólap adattartalma
 
-307/L. § (1) Külön szavazólap szolgál az egyéni listás, az egyéni választókerületi, a polgármester-, a megyei listás és a főpolgármester-választásra.
+307/L. § (1) Külön szavazólap szolgál az egyéni listás, az egyéni választókerületi, a polgármester-, a vármegyei listás és a főpolgármester-választásra.
 
 (2) A nemzetiségi jelölt esetében az egyéni listás, az egyéni választókerületi és a polgármester-választás szavazólapján fel kell tüntetni a nemzetiség megnevezését is.
 

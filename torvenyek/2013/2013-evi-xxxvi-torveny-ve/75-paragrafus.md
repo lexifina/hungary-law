@@ -22,4 +22,4 @@ i) a technikai háttér biztosításával segítséget nyújtanak a szavazatok �
 
 j) ellátják a jogszabályokban meghatározott egyéb feladatokat.
 
-(2) A fővárosi és megyei kormányhivatal a miniszter rendeletében meghatározottak szerint közreműködik a választásokkal összefüggő informatikai feladatok ellátásában.
+(2) A fővárosi és vármegyei kormányhivatal a miniszter rendeletében meghatározottak szerint közreműködik a választásokkal összefüggő informatikai feladatok ellátásában.
