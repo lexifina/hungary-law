@@ -1,5 +1,3 @@
-## Az ezeréves Pannonhalmi Bencés Főapátság és természeti környezete világörökségi helyszín kijelölése EOV és WGS84 alapfelületre vonatkozó földrajzi koordináták alapján
-
 |  | A | B | C | D | E |
 
 | 1 |  | EOV x | EOV y | WGS-84 x | WGS-84 y |
@@ -288,7 +286,7 @@
 
 2. melléklet a 14/2018. (II. 12.) Korm. rendelethez[^1]
 
-## Az ezeréves Pannonhalmi Bencés Főapátság és természeti környezete világörökségi helyszín világörökségi kezelési terve
+Az ezeréves Pannonhalmi Bencés Főapátság és természeti környezete világörökségi helyszín világörökségi kezelési terve
 
 1. Alapadatok
 
@@ -682,7 +680,7 @@ d) Az Apátságot egykor körülölelő Szent Márton-hegyi szőlők részleges 
 
 4.1.4.1. A világörökségi helyszín értékeit komplexen kell kezelni, bemutatásukat és az örökségturizmusban képviselt potenciális célpont szerepüket nem csak önmagukban, hanem más értékekkel együtt indokolt fejleszteni.
 
-4.1.4.2. A jellemző feltárulások látószögében – vagyis az M1 autópálya 81. sz. és 82. sz. főút közötti szakasza, a 81. sz. főút Töltéstava–Mezőörs közötti szakasza, a Mezőörs–Tát–Veszprémvarsány és a Pannonhalmi-dombságnak a Pannonhalmi-völgyet Nyugat felől lezáró csanaki vonulatának gerince által határolt területen – megvalósuló tervezés résztvevői számára a világörökségi gondnokság és az örökségvédelmi ügyekben eljáró fővárosi és megyei kormányhivatalok közvetítik a helyi építési szabályzatok, szabályozási tervek, szerkezeti tervek, az országos és a megyei területrendezési tervek készítése, illetve felülvizsgálata során
+4.1.4.2. A jellemző feltárulások látószögében – vagyis az M1 autópálya 81. sz. és 82. sz. főút közötti szakasza, a 81. sz. főút Töltéstava–Mezőörs közötti szakasza, a Mezőörs–Tát–Veszprémvarsány és a Pannonhalmi-dombságnak a Pannonhalmi-völgyet Nyugat felől lezáró csanaki vonulatának gerince által határolt területen – megvalósuló tervezés résztvevői számára a világörökségi gondnokság és az örökségvédelmi ügyekben eljáró fővárosi és vármegyei kormányhivatalok közvetítik a helyi építési szabályzatok, szabályozási tervek, szerkezeti tervek, az országos és a vármegyei területrendezési tervek készítése, illetve felülvizsgálata során
 
 a) a hagyományos tájkarakter védelmére, a táj jellegének megőrzésére;
 
@@ -708,7 +706,7 @@ bb) a szabályozási előírások pontosítása
 
 érdekében;
 
-c) az országos és a megyei területrendezési tervek módosítása és kiegészítése során a kezelési tervben foglalt előírások érvényesítését kezdeményezni.
+c)[^2] az országos és a vármegyei területrendezési tervek módosítása és kiegészítése során a kezelési tervben foglalt előírások érvényesítését kezdeményezni.
 
 4.2. Világörökségi korlátozások
 
@@ -748,13 +746,13 @@ d) a tágabb környék településeinek önkormányzatai és közösségei,
 
 e) az illetékes állami kormányzati szervek,
 
-f) a megyei önkormányzat szervezeti egységei,
+f)[^3] a vármegyei önkormányzat szervezeti egységei,
 
 g) a működési területével érintett nemzeti park igazgatóság.
 
 5.2. A társadalmi és szakmai részvételt szolgáló eszközök és mechanizmusok
 
-5.2.1. A kezelési tervben foglaltak végrehajtását támogató, a területen érintett országos szervek, megyei szervezetek és intézmények, illetve a helyi érdekeltek közötti kommunikáció, érdekegyeztetés és konszenzusteremtés lehetőségét az UNESCO Magyar Nemzeti Bizottságáról szóló 17/2012. (II. 16.) Korm. rendelet 11. § (1) bekezdés g) pontja szerinti szakbizottság biztosítja.
+5.2.1.[^4] A kezelési tervben foglaltak végrehajtását támogató, a területen érintett országos szervek, vármegyei szervezetek és intézmények, illetve a helyi érdekeltek közötti kommunikáció, érdekegyeztetés és konszenzusteremtés lehetőségét az UNESCO Magyar Nemzeti Bizottságáról szóló 17/2012. (II. 16.) Korm. rendelet 11. § (1) bekezdés g) pontja szerinti szakbizottság biztosítja.
 
 5.2.2. A Pannonhalmi Bencés Főapátság műemléki környezetének bővítéséről szóló 3/1995. (IV. 13.) KTM–MKM együttes rendeletben meghatározott területen belül történő beavatkozások minőségi kontrollja érdekében világörökségi tervtanács működtetése szükséges a településrendezési és az építészeti-műszaki tervtanácsokról szóló 252/2006. (XII. 7.) Korm. rendelet 10. § (1) bekezdésével összhangban.
 
@@ -828,4 +826,7 @@ c) a vízháztartással, szélsőséges terheléssel kapcsolatos változások k�
 
 7.5. A világörökségi gondnokságnak a világörökségi helyszín területére a haváriák kezelését szolgáló intézkedési tervet kell kidolgoznia.
 
-[^1]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 192. §-a, a 420/2021. (VII. 15.) Korm. rendelet 94. §-a szerint módosított szöveg
+[^1]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 192. §-a, a 420/2021. (VII. 15.) Korm. rendelet 94. §-a, a 616/2022. (XII. 29.) Korm. rendelet 283. § a) pontja szerint módosított szöveg
+[^2]: A 2. melléklet 4.1.4.3. pont c) alpontja a 616/2022. (XII. 29.) Korm. rendelet 283. § b) pontja szerint módosított szöveg.
+[^3]: A 2. melléklet 5.1.1. pont f) alpontja a 616/2022. (XII. 29.) Korm. rendelet 283. § b) pontja szerint módosított szöveg.
+[^4]: A 2. melléklet 5.2.1. pontja a 616/2022. (XII. 29.) Korm. rendelet 283. § b) pontja szerint módosított szöveg.
