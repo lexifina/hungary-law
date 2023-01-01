@@ -1,3 +1,1 @@
-2. §[^5]
-
-[^5]: A 2. § a 4. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+2. § A jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 54/2021. (XI. 23.) MNB rendelet 2. melléklete a 2. melléklet szerint módosul.
