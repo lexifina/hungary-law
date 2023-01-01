@@ -1,0 +1,1 @@
+1. § A Lankóci-erdő Természetvédelmi Terület létesítéséről és fokozott védettség megszüntetéséről szóló 3/1991. (II. 28.) KTM rendelet Mellékletében a „megye” szövegrész helyébe a „vármegye” szöveg lép.
