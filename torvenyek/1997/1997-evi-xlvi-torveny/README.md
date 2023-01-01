@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-46-00-00
 | 2018-12-31 | 2007. évi LXXXII. törvény | 1997-46-00-00.13 |
 | 2022-01-01 | 2021. évi CL. törvény | 1997-46-00-00.14 |
 | 2022-03-01 | 2021. évi CL. törvény | 1997-46-00-00.15 |
+| 2023-01-01 | 2022. évi XXII. törvény | 1997-46-00-00.16 |
