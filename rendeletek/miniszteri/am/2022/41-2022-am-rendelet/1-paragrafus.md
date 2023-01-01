@@ -1,0 +1,1 @@
+1. § A Boronka-melléki Tájvédelmi Körzet létesítéséről és a természetvédelmi kezelő megnevezéséről szóló 9/1991. (IV. 26.) KTM rendelet 1. számú mellékletében a „megye” szövegrész helyébe a „vármegye” szöveg lép.
