@@ -54,7 +54,7 @@ d) a Terrorelhárítási Központ által üzemeltetett pilóta nélküli állami
 
 e) az Országgyűlési Őrség által üzemben tartott pilóta nélküli állami légi jármű esetében az Országgyűlési Őrség parancsnoka által kijelölt szervezeti egység,
 
-f) az általános rendőrségi feladatok ellátására létrehozott szerv tekintetében annak központi szerve, az egyes feladatok ellátására létrehozott területi szervei, valamint a megyei (fővárosi) rendőr-főkapitányságok,
+f)[^1] az általános rendőrségi feladatok ellátására létrehozott szerv tekintetében annak központi szerve, az egyes feladatok ellátására létrehozott területi szervei, valamint a vármegyei (fővárosi) rendőr-főkapitányságok,
 
 g) a Katonai Nemzetbiztonsági Szolgálat által üzemeltetett pilóta nélküli állami légijármű esetében a Katonai Nemzetbiztonsági Szolgálat főigazgatója által kijelölt szervezeti egység,
 
@@ -73,3 +73,5 @@ k) az idegenrendészeti szerv által üzemeltetett pilóta nélküli állami lé
 22. üzemidő: a pilóta nélküli állami légijármű üzemeltetésének repült időben vagy naptári időben meghatározott időtartama, a gyártó által kiadott műszaki előírásokban meghatározott határállapot bekövetkezésének időpontjáig vagy az elavulásig,
 
 23. VLOS: látótávolságon belüli üzemeltetés, ahol a kezelő képes a pilóta nélküli állami légijárművel való folyamatos, segítség nélküli vizuális kapcsolattartásra, ami lehetővé teszi, hogy a kezelő az ütközések elkerülése érdekében képes legyen befolyásolni a pilóta nélküli állami légijármű repülési útvonalát más légi járművekhez, személyekhez és akadályokhoz képest.
+
+[^1]: Az 1. § 19. pont f) alpontja a 409/2022. (X. 24.) Korm. rendelet 26. §-a szerint módosított szöveg.

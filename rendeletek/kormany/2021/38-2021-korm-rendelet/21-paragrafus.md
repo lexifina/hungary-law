@@ -6,7 +6,7 @@ b) ideiglenes nyilvántartásba vételére vagy
 
 c) első egyedi légialkalmassági bizonyítványa kiadására
 
-## irányuló eljárást.
+irányuló eljárást.
 
 (2) A Hatóság a „C”–„E” kategóriájú pilóta nélküli állami légijármű nyilvántartásba vételéről magyar és angol nyelvű bizonyítványt állít ki két eredeti, egymással mindenben megegyező példányban. A bizonyítvány első példányát az üzemben tartó, második példányát a Hatóság tárolja. A bizonyítvány tartalmazza a hajtómű típusát, valamint a pilóta nélküli állami légijármű következő adatait:
 

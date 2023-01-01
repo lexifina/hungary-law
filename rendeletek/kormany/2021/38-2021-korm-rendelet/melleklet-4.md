@@ -1,6 +1,6 @@
 4. melléklet a 38/2021. (II. 2.) Korm. rendelethez
 
-## Az „A1”–„B2” kategóriába tartozó pilóta nélküli állami légijármű kezelő üzemben tartói képzési tematikája
+Az „A1”–„B2” kategóriába tartozó pilóta nélküli állami légijármű kezelő üzemben tartói képzési tematikája
 
 1. A pilóta nélküli állami légijármű kezelő elméleti tanfolyam szervezéséhez szükséges engedély megszerzésére irányuló képzés tematikáját a képző szervezet az üzemben tartó iránymutatásai alapján alakítja ki és a Hatóság hagyja jóvá.
 

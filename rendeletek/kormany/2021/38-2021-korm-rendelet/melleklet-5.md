@@ -1,6 +1,6 @@
 5. melléklet a 38/2021. (II. 2.) Korm. rendelethez
 
-## A „C”, a „D” és az „E” kategóriába tartozó pilóta nélküli állami légijármű kezelő szakszolgálati engedély megszerzésének tematikája
+A „C”, a „D” és az „E” kategóriába tartozó pilóta nélküli állami légijármű kezelő szakszolgálati engedély megszerzésének tematikája
 
 1. Elméleti képzés
 

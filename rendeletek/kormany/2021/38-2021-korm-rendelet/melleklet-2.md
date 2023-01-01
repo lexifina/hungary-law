@@ -1,4 +1,4 @@
-## A pilóta nélküli állami légijárművekre vonatkozó minimális követelmények
+## 1X00409_0
 
 |  | A | B | C | D | E |
 
@@ -20,7 +20,7 @@
 
 2. melléklet a 38/2021. (II. 2.) Korm. rendelethez
 
-## A „B2” kategóriába tartozó pilóta nélküli állami légijármű rendszer típusalkalmassági vizsgálata
+A „B2” kategóriába tartozó pilóta nélküli állami légijármű rendszer típusalkalmassági vizsgálata
 
 1. Jogszabályi megfelelőség vizsgálata
 

@@ -1,6 +1,6 @@
 3. melléklet a 38/2021. (II. 2.) Korm. rendelethez
 
-## A „C”, a „D” és az „E” kategóriába tartozó pilóta nélküli állami légijármű típusalkalmassági vizsgálata
+A „C”, a „D” és az „E” kategóriába tartozó pilóta nélküli állami légijármű típusalkalmassági vizsgálata
 
 1. Jogszabályi megfelelőség vizsgálata
 

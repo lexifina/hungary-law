@@ -1,6 +1,6 @@
 7. melléklet a 38/2021. (II. 2.) Korm. rendelethez
 
-## A pilóta nélküli állami légijármű kezelő személyzet és pilóta nélküli állami légijármű kezelő személyzet oktató szakszolgálati engedély
+A pilóta nélküli állami légijármű kezelő személyzet és pilóta nélküli állami légijármű kezelő személyzet oktató szakszolgálati engedély
 
 ## A pilóta nélküli állami légijármű rendszer kezelő személyzet és pilóta nélküli állami légijármű rendszer kezelő személyzet oktató kétnyelvű szakszolgálati engedély a következőket tartalmazza:
 
