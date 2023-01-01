@@ -32,5 +32,8 @@ j) a panaszkezelés módját.
 
 (4) A továbbképzést szervező a részvételi díjat egy összegben köteles meghatározni. A képzési szerződésben egy összegben feltüntetett részvételi díjon felül más jogcímen további díjat vagy költséget nem állapíthat meg a képzésben részt vevő terhére.
 
+(5)[^58] Minősített kötelező továbbképzésre, valamint minősített munkakörhöz kötött képzésekre a szociálpolitikáért felelős miniszter által kijelölt szerv által vezetett jelentkezési és képzésszervezési nyilvántartás elektronikus felületén kell jelentkezni.
+
 [^56]: A 4/B. §-t a 7/2018. (II. 5.) EMMI rendelet 35. §-a iktatta be.
 [^57]: A 4/B. § (1) bekezdése a 2/2021. (I. 18.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^58]: A 4/B. § (5) bekezdését a 80/2022. (XII. 30.) BM rendelet 20. §-a iktatta be.

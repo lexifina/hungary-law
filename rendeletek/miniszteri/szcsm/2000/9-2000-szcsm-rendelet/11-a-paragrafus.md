@@ -1,6 +1,6 @@
-11/A. §[^66] (1)[^67] Az NSZI a Testület bevonásával a továbbképzések szakmai felügyelete keretében nyomon követi a minősített továbbképzési programok megvalósítását, kivizsgálja a továbbképzésekkel, illetve a továbbképzésekhez kapcsolódó számonkérésekkel kapcsolatos bejelentéseket, panaszokat. Ha a továbbképzés megvalósítása a minősített továbbképzési programtól eltér, vagy a továbbképző szervezet az e rendeletben foglalt kötelezettségeit nem teljesíti, az NSZI határidő tűzése mellett felhívja a továbbképző szervezetet az eltérés megszüntetésére, illetve az e rendeletben foglalt kötelezettségeinek teljesítésére.
+11/A. §[^67] (1)[^68] Az NSZI a Testület bevonásával a továbbképzések szakmai felügyelete keretében nyomon követi a minősített továbbképzési programok megvalósítását, kivizsgálja a továbbképzésekkel, illetve a továbbképzésekhez kapcsolódó számonkérésekkel kapcsolatos bejelentéseket, panaszokat. Ha a továbbképzés megvalósítása a minősített továbbképzési programtól eltér, vagy a továbbképző szervezet az e rendeletben foglalt kötelezettségeit nem teljesíti, az NSZI határidő tűzése mellett felhívja a továbbképző szervezetet az eltérés megszüntetésére, illetve az e rendeletben foglalt kötelezettségeinek teljesítésére.
 
-(2)[^68] Ha a továbbképző szervezet az (1) bekezdés szerinti felhívásnak határidőben nem tesz eleget, és
+(2)[^69] Ha a továbbképző szervezet az (1) bekezdés szerinti felhívásnak határidőben nem tesz eleget, és
 
 a) a továbbképzés nem a továbbképzési programban meghatározott
 
@@ -24,7 +24,7 @@ d) a továbbképzési programon való részvételről kiadott 1. számú mellék
 
 e) a továbbképzési program a minősítés érvényességi idejét meghaladóan kerül megszervezésre,
 
-f)[^69] a továbbképzés szervezője a minősítési kérelemben feltüntetett adatainak változásáról legkésőbb 30 napon belül nem tesz elektronikusan bejelentést az NSZI-nek, vagy
+f)[^70] a továbbképzés szervezője a minősítési kérelemben feltüntetett adatainak változásáról legkésőbb 30 napon belül nem tesz elektronikusan bejelentést az NSZI-nek, vagy
 
 g) a továbbképzés szervezője a 4. § (7), illetve (8) bekezdésében előírt bejelentési, beszámolási kötelezettségének nem tesz eleget,
 
@@ -32,10 +32,10 @@ az NSZI a folyamatban lévő továbbképzések befejezését követően 2 évre 
 
 (3) Ha a szervezet továbbképzés-szervezési jogát felfüggesztik, a felfüggesztés időtartama alatt nem jogosult továbbképzés szervezésére.
 
-(4)[^70] A továbbképző szervezet az NSZI jogsértő intézkedése esetén panaszt nyújthat be a szociálpolitikáért felelős miniszterhez.
+(4)[^71] A továbbképző szervezet az NSZI jogsértő intézkedése esetén panaszt nyújthat be a szociálpolitikáért felelős miniszterhez.
 
-[^66]: A 11/A. §-t a 41/2012. (XI. 28.) EMMI rendelet 6. §-a iktatta be, szövege a 7/2018. (II. 5.) EMMI rendelet 36. §-ával megállapított szöveg.
-[^67]: A 11/A. § (1) bekezdése a 2/2021. (I. 18.) EMMI rendelet 11. §-ával megállapított szöveg.
-[^68]: A 11/A. § (2) bekezdés záró szövegrésze a 2/2021. (I. 18.) EMMI rendelet 16. § l) pontja szerint módosított szöveg.
-[^69]: A 11/A. § (2) bekezdés f) pontja a 7/2018. (II. 5.) EMMI rendelet 39. § (2) bekezdés k) pontja, a 2/2021. (I. 18.) EMMI rendelet 16. § k) pontja szerint módosított szöveg.
-[^70]: A 11/A. § (4) bekezdése a 2/2021. (I. 18.) EMMI rendelet 16. § m) pontja, az 52/2022. (XII. 27.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^67]: A 11/A. §-t a 41/2012. (XI. 28.) EMMI rendelet 6. §-a iktatta be, szövege a 7/2018. (II. 5.) EMMI rendelet 36. §-ával megállapított szöveg.
+[^68]: A 11/A. § (1) bekezdése a 2/2021. (I. 18.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^69]: A 11/A. § (2) bekezdés záró szövegrésze a 2/2021. (I. 18.) EMMI rendelet 16. § l) pontja szerint módosított szöveg.
+[^70]: A 11/A. § (2) bekezdés f) pontja a 7/2018. (II. 5.) EMMI rendelet 39. § (2) bekezdés k) pontja, a 2/2021. (I. 18.) EMMI rendelet 16. § k) pontja szerint módosított szöveg.
+[^71]: A 11/A. § (4) bekezdése a 2/2021. (I. 18.) EMMI rendelet 16. § m) pontja, az 52/2022. (XII. 27.) BM rendelet 5. § b) pontja szerint módosított szöveg.

@@ -58,6 +58,6 @@
 
 | 29. | Gyvt. 61. § (2) bekezdése szerinti szolgáltatást végző technikus |
 
-2. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^103]
+2. számú melléklet a 9/2000. (VIII. 4.) SZCSM rendelethez[^104]
 
-[^103]: A 2. számú melléklet a 7/2018. (II. 5.) EMMI rendelet 38. § (2) bekezdésével megállapított szöveg.
+[^104]: A 2. számú melléklet a 7/2018. (II. 5.) EMMI rendelet 38. § (2) bekezdésével megállapított szöveg.
