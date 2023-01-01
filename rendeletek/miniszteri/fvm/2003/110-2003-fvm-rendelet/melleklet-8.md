@@ -6,6 +6,8 @@
 
 ## A Tanács 1999/105/EK irányelve szerint kiadva
 
+## 3M09004_0
+
 | TAGÁLLAM: Magyarország/Hungary | Igazolvány száma EK:/ HU/000000000 |
 
 | Igazoljuk, hogy az alábbiakban ismertetett erdészeti szaporítóanyag előállítása a következők szerint történt: |
@@ -81,6 +83,8 @@
 ## Alap származási igazolvány minta a magtermesztő ültetvényekről és testvérvonalak szüleitől származó szaporítóanyagokhoz
 
 ## A Tanács 1999/105/EK irányelve szerint kiadva
+
+## 3M09005_0
 
 | TAGÁLLAM: Magyarország/Hungary | Igazolvány száma EK:/ HU/000000000 |
 
@@ -168,6 +172,8 @@
 
 ## A Tanács 1999/105/EK irányelve szerint kiadva
 
+## 3M09006_0
+
 | TAGÁLLAM: Magyarország/Hungary | Igazolvány száma EK/HU/000000000 |
 
 | Igazoljuk, hogy az alábbiakban ismertetett erdészeti szaporítóanyag előállítása a következők szerint történt: |
@@ -242,6 +248,8 @@
 
 | !Ültetési anyag |
 
+## 3M09007_1
+
 | Kiállító, szállító neve Cím: Engedély száma: | Átvevő, vásárló neve Cím: Engedély száma: |
 
 | Tételszám | Alap származási igazovány száma | Faj, fajta neve kódja | EU kategória | Erdőgazdálk. célja | Alap- anyag típusa | Szaporító- anyagforrás | Őshonosság | GMO | Kor | Választék (termék- kategória) | Mérték- egység | Mennyiség | Mag esetén |
@@ -305,6 +313,8 @@
 ## E.
 
 ## Szaporítási/forgalmazási napló
+
+## 3M09008_0
 
 | Fafaj/fajta: | Kód: |
 

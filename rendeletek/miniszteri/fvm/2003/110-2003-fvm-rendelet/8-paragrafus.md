@@ -16,7 +16,7 @@ b) kiállítási vagy bemutató célú szaporítóanyag,
 
 c)[^27] az őshonos fajok génállományának megőrzésére és elszaporítására létesített, a NÉBIH által nyilvántartott, a genetikai sokszínűség megőrzését célzó természetvédelmi célú növényállományok szaporítóanyaga
 
-## tekintetében.
+tekintetében.
 
 (6)[^28] A NÉBIH hiányhelyzetben meghatározott fajok, engedélyezési egységek és szaporítóanyag kategóriák esetében csökkentett követelményszintű szaporítóanyag használatát is engedélyezheti, úgy, hogy az 1. §-ban meghatározott célok ne sérüljenek. A NÉBIH által az engedélyben meghatározott feltételeket és határidőket a szaporítóanyag forgalmazója köteles közölni minden átvevővel. A szaporítóanyagot ez esetben a kérelmező és az átvevő csak az előírt módon használhatja fel.
 

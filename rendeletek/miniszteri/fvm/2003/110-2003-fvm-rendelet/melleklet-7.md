@@ -1,12 +1,12 @@
-## A)[^144]
+## A)[^146]
 
 ## Az 1. számú melléklet A. részében felsorolt fajok vetőmag tételeivel szembeni követelmények
 
-## 1.[^145] Az 1. számú melléklet A. részében felsorolt fajok vetőmagtételeit csak akkor lehet forgalmazni, ha a magtétel eléri a 99%-os fajtisztasági szintet.
+## 1.[^147] Az 1. számú melléklet A. részében felsorolt fajok vetőmagtételeit csak akkor lehet forgalmazni, ha a magtétel eléri a 99%-os fajtisztasági szintet.
 
-## 2.[^146] Az 1. pont rendelkezéseitől eltérően az 1. számú melléklet A. részében felsorolt, közeli rokonságban álló fajok esetében – a mesterséges hibridek kivételével – fel kell tüntetni, ha a magtétel fajtisztasága nem éri el a 99%-ot.
+## 2.[^148] Az 1. pont rendelkezéseitől eltérően az 1. számú melléklet A. részében felsorolt, közeli rokonságban álló fajok esetében – a mesterséges hibridek kivételével – fel kell tüntetni, ha a magtétel fajtisztasága nem éri el a 99%-ot.
 
-## B)[^147]
+## B)[^149]
 
 ## Az 1. számú melléklet A. részében felsorolt fajok és mesterséges hibridek növényi részeivel szembeni követelmények
 
@@ -72,7 +72,7 @@
 
 | S2 | 30 | 4,00 |
 
-## D)[^148]
+## D)[^150]
 
 ## Az 1. számú melléklet A. részében felsorolt fajok és mesterséges hibridek ültetési anyagával szembeni követelmények
 
@@ -228,7 +228,7 @@
 
 | i) az ez évi tűlevelek erős, életképességet befolyásoló károsodása | + |  | + | + |  |  |  |  |  |  |  |  |
 
-| j) sérült gyökérnyak (4) | + | + | + | + | + | +(3) | + | + | + | + | + | + |
+| j) sérült gyökérnyak(4) | + | + | + | + | + | +(3) | + | + | + | + | + | + |
 
 | k) erősen összecsavarodott vagy visszahajló főgyökér | + | + | + | + | + |  | + | + |  | + | + |  |
 
@@ -378,7 +378,7 @@
 
 | 2 év | 30 | – | 5 | 30 |
 
-| Magaskőris1 Fraxinus excelsior | MÁ | 1 év | 25 | – | 4 | 25 |
+| Magaskőris1Fraxinus excelsior | MÁ | 1 év | 25 | – | 4 | 25 |
 
 | 2 év | 30 | – | 5 | 30 |
 
@@ -450,8 +450,8 @@
 
 7. számú melléklet a 110/2003. (X. 21.) FVM rendelethez
 
-[^144]: A 6. számú melléklet A) pont címe a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
-[^145]: A 6. számú melléklet A) pont 1. alpontja a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
-[^146]: A 6. számú melléklet A) pont 2. alpontja a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
-[^147]: A 6. számú melléklet B) pontja a 28/2019. (VI. 20.) AM rendelet 10. § l) pontja szerint módosított szöveg.
-[^148]: A 6. számú melléklet D) pont címe a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^146]: A 6. számú melléklet A) pont címe a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^147]: A 6. számú melléklet A) pont 1. alpontja a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^148]: A 6. számú melléklet A) pont 2. alpontja a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^149]: A 6. számú melléklet B) pontja a 28/2019. (VI. 20.) AM rendelet 10. § l) pontja szerint módosított szöveg.
+[^150]: A 6. számú melléklet D) pont címe a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.

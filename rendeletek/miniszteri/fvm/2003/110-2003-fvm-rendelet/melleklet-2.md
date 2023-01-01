@@ -180,4 +180,6 @@
 
 ## * A sensu lato kifejezés azt jelöli, hogy a faj (fajcsoport) több, a gyakorlatban el nem különített botanikai taxont foglal magában (például a kocsánytalan tölgy esetében Quercus petraea, Quercus polycarpa, Quercus dalechampii).
 
-2. számú melléklet a 110/2003. (X. 21.) FVM rendelethez
+2. számú melléklet a 110/2003. (X. 21.) FVM rendelethez[^104]
+
+[^104]: A 2. számú melléklet a 79/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

@@ -1,16 +1,16 @@
 ## Szaporítóanyagok forgalomba hozatalra előkészítése
 
-19. § (1)[^65] A forgalomba hozatalra és felhasználásra kerülő szaporítóanyagot az előállítónak kell méret és minőségi osztályokba sorolni, valamint azonosító jelzéssel ellátni. A küllemi tulajdonságok tekintetében a vevő és az eladó közötti szerződés a meghatározó, de a NÉBIH és a növénytermesztési hatáskörében eljáró megyei kormányhivatal vitás ügyekben és az ellenőrzések során a 6. számú melléklet A)–E) részében foglalt előírásokat, valamint a ,,kereskedelemben szokásosan elfogadható minőség'' vonatkozásában a 6. számú melléklet F) részében leírtakat tekinti mértékadónak.
+19. § (1)[^66] A forgalomba hozatalra és felhasználásra kerülő szaporítóanyagot az előállítónak kell méret és minőségi osztályokba sorolni, valamint azonosító jelzéssel ellátni. A küllemi tulajdonságok tekintetében a vevő és az eladó közötti szerződés a meghatározó, de a NÉBIH és a növénytermesztési hatáskörében eljáró vármegyei kormányhivatal vitás ügyekben és az ellenőrzések során a 6. számú melléklet A)–E) részében foglalt előírásokat, valamint a ,,kereskedelemben szokásosan elfogadható minőség'' vonatkozásában a 6. számú melléklet F) részében leírtakat tekinti mértékadónak.
 
-(2)[^66] Az előállított szaporítóanyag 6. számú melléklet szerinti küllemi tulajdonságait (a látható minőségét) a NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatal szúrópróbaszerűen ellenőrizheti.
+(2)[^67] Az előállított szaporítóanyag 6. számú melléklet szerinti küllemi tulajdonságait (a látható minőségét) a NÉBIH, illetve az illetékes növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal szúrópróbaszerűen ellenőrizheti.
 
-(3)[^67] A kiemelt ültetési anyagot oly módon kell tárolni, hogy a növények életképessége, életereje megmaradjon.
+(3)[^68] A kiemelt ültetési anyagot oly módon kell tárolni, hogy a növények életképessége, életereje megmaradjon.
 
-(4)[^68] A szaporítóanyagot csak a 13. §-ban foglaltaknak megfelelő tételekben és szállítói származási bizonylattal kísérten szabad forgalomba hozni. A szállítói bizonylat egy példányát a 20. § (6) bekezdésének b) és c) pontjai szerinti határidőre meg kell küldeni a NÉBIH-nek.
+(4)[^69] A szaporítóanyagot csak a 13. §-ban foglaltaknak megfelelő tételekben és szállítói származási bizonylattal kísérten szabad forgalomba hozni. A szállítói bizonylat egy példányát a 20. § (6) bekezdésének b) és c) pontjai szerinti határidőre meg kell küldeni a NÉBIH-nek.
 
-(4a)[^69] Ha a szaporítóanyag forgalmazója kéri, a NÉBIH kiállítja a mikorrhizált szaporítóanyag-tétel forgalomba hozatalához a honlapján közzétett, az erdészeti szaporítóanyag mikorrhizáltságát tanúsító bizonylatot.
+(4a)[^70] Ha a szaporítóanyag forgalmazója kéri, a NÉBIH kiállítja a mikorrhizált szaporítóanyag-tétel forgalomba hozatalához a honlapján közzétett, az erdészeti szaporítóanyag mikorrhizáltságát tanúsító bizonylatot.
 
-(4b)[^70] A (4a) bekezdés szerinti bizonylat az alábbi adatokat tartalmazza:
+(4b)[^71] A (4a) bekezdés szerinti bizonylat az alábbi adatokat tartalmazza:
 
 a) az alapanyag vagy ültetési anyag megjelölését,
 
@@ -30,7 +30,7 @@ h) a laboratóriumi vizsgálat jegyzőkönyvének számát, valamint
 
 i) az esetleges megjegyzést.
 
-(5)[^71] A szállítói származási bizonylatnak – a NÉBIH által rendszeresített és honlapján közzétett 7. számú melléklet szerint az alap származási igazolványon a 14. § (4) bekezdése szerint feltüntetett adatokon felül – tartalmaznia kell:
+(5)[^72] A szállítói származási bizonylatnak – a NÉBIH által rendszeresített és honlapján közzétett 7. számú melléklet szerint az alap származási igazolványon a 14. § (4) bekezdése szerint feltüntetett adatokon felül – tartalmaznia kell:
 
 a) az alap származási igazolványra történő hivatkozást, ideértve az egyes tételek összevonása esetén az összevonást (összekeverést) igazoló, újonnan kiállított alap származási igazolványt is,
 
@@ -68,10 +68,10 @@ c) a vetőmagok kis mennyiségei tekintetében az 1999/105/EK tanácsi irányelv
 
 (9) Azokat a kategóriákat, amelyekben a különböző típusú kiindulóanyagokból nyert szaporítóanyag forgalmazható, a 8. számú melléklet tartalmazza.
 
-[^65]: A 19. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 56. § 7. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^66]: A 19. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja, a 28/2019. (VI. 20.) AM rendelet 11. § d) pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^67]: [A 70/2013. (VII. 31.) VM rendelet 30. § b) pontjával elrendelt módosítás, amely szerint az „az MgSzH” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]
-[^68]: A 19. § (4) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés c) pontja, a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 30. § b) pontjával elrendelt módosítás, amely szerint az „az MgSzH” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]
-[^69]: A 19. § (4a) bekezdését a 28/2019. (VI. 20.) AM rendelet 5. §-a iktatta be.
-[^70]: A 19. § (4b) bekezdését a 28/2019. (VI. 20.) AM rendelet 5. §-a iktatta be.
-[^71]: A 19. § (5) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § k) pontja szerint módosított szöveg.
+[^66]: A 19. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 56. § 7. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^67]: A 19. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 56. § 5. pontja, a 28/2019. (VI. 20.) AM rendelet 11. § d) pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^68]: [A 70/2013. (VII. 31.) VM rendelet 30. § b) pontjával elrendelt módosítás, amely szerint az „az MgSzH” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]
+[^69]: A 19. § (4) bekezdése a 183/2009. (XII. 30.) FVM rendelet 8. § (5) bekezdés c) pontja, a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 30. § b) pontjával elrendelt módosítás, amely szerint az „az MgSzH” szövegrész helyébe az „a NÉBIH” szöveg lép, nem vezethető át.]
+[^70]: A 19. § (4a) bekezdését a 28/2019. (VI. 20.) AM rendelet 5. §-a iktatta be.
+[^71]: A 19. § (4b) bekezdését a 28/2019. (VI. 20.) AM rendelet 5. §-a iktatta be.
+[^72]: A 19. § (5) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § k) pontja szerint módosított szöveg.

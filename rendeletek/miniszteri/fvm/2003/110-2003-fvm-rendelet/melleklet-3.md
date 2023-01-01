@@ -1,6 +1,6 @@
 ## Származási körzetek és importelőírások
 
-## A)[^103] Származási körzetek elhatárolása az 1. számú melléklet A. részében felsorolt fafajok számára
+## A)[^105] Származási körzetek elhatárolása az 1. számú melléklet A. részében felsorolt fafajok számára
 
 ## Származási körzetek
 
@@ -16,7 +16,7 @@
 
 | Vas-Zalai Hegyhát | 40 | 14 |
 
-| Vas Megyei Dombvidék | 45 | 15 |
+| Vas Vármegyei Dombvidék | 45 | 15 |
 
 | Irottkőalja | 46 | 16 |
 
@@ -124,7 +124,7 @@
 
 | Vas-Zalai Hegyhát | 40 | 14 |
 
-| Vas Megyei Dombvidék | 45 | 15 |
+| Vas Vármegyei Dombvidék | 45 | 15 |
 
 | Irottkőalja | 46 | 16 |
 
@@ -232,7 +232,7 @@
 
 | Vas-Zalai Hegyhát | 40 | 14 |
 
-| Vas Megyei Dombvidék | 45 | 15 |
+| Vas Vármegyei Dombvidék | 45 | 15 |
 
 | Irottkőalja | 46 | 16 |
 
@@ -396,7 +396,7 @@
 
 3. számú melléklet a 110/2003. (X. 21.) FVM rendelethez
 
-## A vizsgált szaporítóanyag kibocsátására alkalmas szaporítóanyag-források elismerésének szakmai követelményei
+A vizsgált szaporítóanyag kibocsátására alkalmas szaporítóanyag-források elismerésének szakmai követelményei
 
 1. Az elismerés kezdeményezésének követelményei
 
@@ -414,7 +414,7 @@ e) a vizsgált szaporítóanyag kiinduló növényállományának tulajdonjogi h
 
 f) külföldi növényanyag esetén a hazai bejelentő írásbeli nyilatkozata az elszaporítás és forgalomba hozatal jogi lehetőségeiről.
 
-1.2.[^104] Gazdasági értéket meghatározó tulajdonságok
+1.2.[^106] Gazdasági értéket meghatározó tulajdonságok
 
 A bejelentőnek fel kell sorolnia mindazon kísérleteket, próbatermesztéseket, amelynek alapján a vizsgált szaporítóanyag kiinduló növényállományának előnyei, igényei, tulajdonságai megállapíthatók, bizonyíthatók. Azok a kísérletek vehetők figyelembe, amelyeket a NÉBIH-nek a ,,Kísérlet bejelentő és nyilvántartó lap''-on előzetesen vagy legkésőbb az előterjesztés elkészítéséig bejelentettek, és amelyek a szakmai követelményeknek megfelelnek. A gazdasági szempontok alapján a vizsgált szaporítóanyag kiinduló növényállományának teljesítményét az előállítónak az adott kísérletek statisztikai értékelésével és az alapfaj számára jelentős termőhelytípus-csoportok lefedésével országosan bizonyítani kell, legalább 3, az alapfajra jellemző termőtájban.
 
@@ -480,7 +480,7 @@ c) előzetes, tájékoztató jellegű faminőségvizsgálat (testsűrűség, ros
 
 3. A kiinduló növényanyag vizsgálata
 
-3.1.[^105] A NÉBIH
+3.1.[^107] A NÉBIH
 
 a) bekéri az értékeléshez szükséges, a vizsgálati időszak előtti és az alatti újabb adatokat, folyamatos előállítói/kiválasztói adatszolgáltatás keretében,
 
@@ -582,7 +582,7 @@ g) a fakitermelés gépesíthetősége szempontjából kedvező tulajdonságok,
 
 h) a faanyag felhasználására vonatkozó faipari szabványok előírásai alapján fűrész-, lemez-, forgácslapipari célra, teherviselő szerkezetek, bútor stb. készítésére, papír- és cellulózgyártásra, egyéb vegyi, biológiai és mechanikus feldolgozásra való alkalmasság.
 
-4.[^106] A vizsgált szaporítóanyag kibocsátására alkalmas kiinduló növényanyag elfogadásának feltételei
+4.[^108] A vizsgált szaporítóanyag kibocsátására alkalmas kiinduló növényanyag elfogadásának feltételei
 
 A NÉBIH a kiinduló növényanyagot elismeri és regisztrálja, ha
 
@@ -592,7 +592,7 @@ b) mint az erdészet termelőeszköze a termesztés ökonómiai céljainak megfe
 
 c) szaporítóanyagának széles körű használatától az erdők élőfakészletének növelése, a kikerülő faanyag minőségének javítása, illetve környezetre gyakorolt jótékony hatásának megőrzése kellő biztonsággal elvárható, vagy előre jelezhető.
 
-[^103]: A 2. számú melléklet A) pont címe a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
-[^104]: A 3. számú melléklet 1.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg.
-[^105]: A 3. számú melléklet 3.1. alpont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § d) pontjával megállapított szöveg.
-[^106]: A 3. számú melléklet 4. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
+[^105]: A 2. számú melléklet A) pont címe a 28/2019. (VI. 20.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^106]: A 3. számú melléklet 1.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg.
+[^107]: A 3. számú melléklet 3.1. alpont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § d) pontjával megállapított szöveg.
+[^108]: A 3. számú melléklet 4. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.

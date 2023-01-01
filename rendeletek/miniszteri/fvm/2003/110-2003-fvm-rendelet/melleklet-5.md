@@ -1,5 +1,3 @@
-## A vizsgált szaporítóanyag elismerése céljára beállított összehasonlító vizsgálatok követelményei
-
 ## 1. A kísérletezés általános követelményei
 
 ## 1.1. Az összehasonlító vizsgálatokat, kísérleteket úgy kell megtervezni, kivitelezni, kezelni, felvételezni, értékelni és a nyert eredményeket értelmezni, hogy a kísérletbe vont kezelések (származások, utódnemzedékek, klónok, fajták stb.) egymás között és az alkalmazott kontrollal (standard, összehasonlító fajták) egybevetve tárgyilagosan összehasonlíthatók legyenek.
@@ -34,7 +32,7 @@
 
 ## 1.7. A kísérletek öleljék fel a fajta alapfaja számára jelentősnek ítélt termőhelytípus-csoportok minél szélesebb körét. A speciális termőhelyre szánt fajtáknál a kísérletek súlypontja az adott speciális körülményre essen. A fajtákat a részükre legfontosabb erdőgazdasági tájakban, az ott leggyakoribb termőhelytípusokon kell kipróbálni. A kísérleti területen részletes termőhelyfeltárást kell végezni.
 
-## 1.8.[^107] A kísérleteket az 5. pont szerint nyilván kell tartani. Létesítésüket a kivitel évében be kell jelenteni a NÉBIH-nek.
+## 1.8.[^109] A kísérleteket az 5. pont szerint nyilván kell tartani. Létesítésüket a kivitel évében be kell jelenteni a NÉBIH-nek.
 
 ## 2. A kísérlettípusok
 
@@ -270,11 +268,11 @@
 
 ## 5.3. Minden nemesítő intézmény köteles az általa létesített kísérletekről a kísérleti leírásokat tartalmazó nyilvántartást vezetni.
 
-## 5.4.[^108] Az erdészeti kísérletekről a NÉBIH országos nyilvántartást vezet. Szaporításra engedélyezés, illetve fajtaelismerés csak olyan kísérletek alapján történhet, amelyek a NÉBIH tudomására és nyilvántartásába kerültek, és a szakmai követelményeknek megfelelőnek bizonyultak.
+## 5.4.[^110] Az erdészeti kísérletekről a NÉBIH országos nyilvántartást vezet. Szaporításra engedélyezés, illetve fajtaelismerés csak olyan kísérletek alapján történhet, amelyek a NÉBIH tudomására és nyilvántartásába kerültek, és a szakmai követelményeknek megfelelőnek bizonyultak.
 
 ## 5.5. A kísérletekről a kísérleti leírással és a kísérlet bejelentő és nyilvántartó lappal egyidejűleg kísérleti naplót kell vezetni. A kísérleti naplóba folyamatosan be kell jegyezni minden lényeges eseményt, tevékenységet, illetve erdőművelési beavatkozást.
 
-## 5.6.[^109] Gondoskodni kell róla, hogy a kísérleteket az Országos Erdőállomány Adattárba is bejegyezzék. Célszerű a részletes kísérleti leírás egy példányát az erdészeti hatáskörben eljáró megyei kormányhivatal és a Nemzeti Földügyi Központ részére is megküldeni, hogy az abban foglaltakat a körzeti erdőtervezés során figyelembe vehesse.
+## 5.6.[^111] Gondoskodni kell róla, hogy a kísérleteket az Országos Erdőállomány Adattárba is bejegyezzék. Célszerű a részletes kísérleti leírás egy példányát az erdészeti hatáskörben eljáró vármegyei kormányhivatal és a Nemzeti Földügyi Központ részére is megküldeni, hogy az abban foglaltakat a körzeti erdőtervezés során figyelembe vehesse.
 
 ## 6. A kísérletek kivitelezése
 
@@ -334,9 +332,9 @@
 
 ## c) gazdaságilag jelentős tulajdonságai alapján előnyei, igényei megállapítását.
 
-## 8.1.3.[^110] A fajtánként súlypontosan kezelendő tulajdonságcsoportokat (az alapfaj, a genetikai fajtajelleg stb. figyelembevételével), és a kísérletek értékelésénél alkalmazott biometriai módszereket a nemesítővel egyeztetve a NÉBIH határozza meg.
+## 8.1.3.[^112] A fajtánként súlypontosan kezelendő tulajdonságcsoportokat (az alapfaj, a genetikai fajtajelleg stb. figyelembevételével), és a kísérletek értékelésénél alkalmazott biometriai módszereket a nemesítővel egyeztetve a NÉBIH határozza meg.
 
-## 8.1.4.[^111] Az adatokat a statisztikai értékelést segítő egységes űrlapon kell felvenni. Törekedni kell a helyszíni elektronikus adatrögzítés kialakítására, módszertani egyeztetés alapján a NÉBIH elektronikus adatrögzítő eszközön is fogad adatokat.
+## 8.1.4.[^113] Az adatokat a statisztikai értékelést segítő egységes űrlapon kell felvenni. Törekedni kell a helyszíni elektronikus adatrögzítés kialakítására, módszertani egyeztetés alapján a NÉBIH elektronikus adatrögzítő eszközön is fogad adatokat.
 
 ## 8.1.5. A rendszeres adatfelvételezés tegye lehetővé egy-egy kísérlet szabatos matematikai-statisztikai értékelését, a benne lévő valamennyi kezelés összehasonlítását, a rangsor felállítását, továbbá egységes módszerével biztosítsa a kísérletek egymással való reális összehasonlíthatóságát is.
 
@@ -354,9 +352,9 @@
 
 ## f) a tervezett vágáskor fele időpontjában.
 
-## 8.1.7.[^112] A már minősített, de tartamkísérletekben továbbra is megfigyelt fajtákról való adatközlést a NÉBIH a fajtafenntartás időarányos teljesítése alapfeltételének tekinti és ismeri el.
+## 8.1.7.[^114] A már minősített, de tartamkísérletekben továbbra is megfigyelt fajtákról való adatközlést a NÉBIH a fajtafenntartás időarányos teljesítése alapfeltételének tekinti és ismeri el.
 
-## 8.1.8.[^113] Meg kell szervezni a kísérleti adatok tárolásának számítógépes rendszerét. A rendszert a NÉBIH-hel egyeztetve célszerű kialakítani.
+## 8.1.8.[^115] Meg kell szervezni a kísérleti adatok tárolásának számítógépes rendszerét. A rendszert a NÉBIH-hel egyeztetve célszerű kialakítani.
 
 ## 8.2. A fajtabélyegek és a DUS vizsgálatok
 
@@ -430,7 +428,7 @@
 
 ## 8.3.3. Beltartalmi értékek
 
-## 8.3.3.1.[^114] Bejelentéskor legalább fiatalkori faminőségi adatokkal kell rendelkezni. Nemesnyár, fűz és akác klónfajtáknál, valamint azon fajták esetében, amelyeket különleges faminőségi feltétel alapján terveznek a választékba illeszteni, a NÉBIH által kialakított metodikájú faminőségvizsgálat szükséges.
+## 8.3.3.1.[^116] Bejelentéskor legalább fiatalkori faminőségi adatokkal kell rendelkezni. Nemesnyár, fűz és akác klónfajtáknál, valamint azon fajták esetében, amelyeket különleges faminőségi feltétel alapján terveznek a választékba illeszteni, a NÉBIH által kialakított metodikájú faminőségvizsgálat szükséges.
 
 ## 8.3.3.2. Vizsgálni kell:
 
@@ -462,11 +460,13 @@
 
 5. számú melléklet a 110/2003. (X. 21.) FVM rendelethez
 
-[^107]: A 4. számú melléklet 1.8. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg.
-[^108]: A 4. számú melléklet 5.4. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^109]: A 4. melléklet 5.6. alpontja a 42/2017. (VIII. 17.) FM rendelet 55. § (7) bekezdésével megállapított, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés g) pontja szerint módosított szöveg.
-[^110]: A 4. számú melléklet 8.1.3. pontja a 19/2014. (III. 12.) VM rendelet 11. § d) pontja szerint módosított szöveg.
-[^111]: A 4. számú melléklet 8.1.4. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^112]: A 4. számú melléklet 8.1.7. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
-[^113]: A 4. számú melléklet 8.1.8. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § o) pontja szerint módosított szöveg.
-[^114]: A 4. számú melléklet 8.3.3.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+Erdészeti törzsültetvények létesítésének, minősítésének és fenntartásának szakmai követelményei
+
+[^109]: A 4. számú melléklet 1.8. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg.
+[^110]: A 4. számú melléklet 5.4. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^111]: A 4. számú melléklet 5.6. alpontja a 42/2017. (VIII. 17.) FM rendelet 55. § (7) bekezdésével megállapított, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés g) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^112]: A 4. számú melléklet 8.1.3. pontja a 19/2014. (III. 12.) VM rendelet 11. § d) pontja szerint módosított szöveg.
+[^113]: A 4. számú melléklet 8.1.4. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^114]: A 4. számú melléklet 8.1.7. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
+[^115]: A 4. számú melléklet 8.1.8. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § o) pontja szerint módosított szöveg.
+[^116]: A 4. számú melléklet 8.3.3.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
