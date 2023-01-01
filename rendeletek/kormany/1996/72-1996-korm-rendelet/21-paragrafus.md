@@ -1,12 +1,12 @@
-## Vízügyi felügyeleti tevékenység[^191]
+## Vízügyi felügyeleti tevékenység[^192]
 
-21. § (1)[^192]
+21. § (1)[^193]
 
-(2)[^193]
+(2)[^194]
 
-(3)[^194]
+(3)[^195]
 
-(4)[^195] A vízügyi hatóság a vízilétesítményeket és vízhasználatokat a vízjogi üzemeltetési engedélyezési eljárás, valamint az ellenőrzés során a létesítmény jellegére és a térség vízgazdálkodásában betöltött szerepére figyelemmel, I–IV-ig terjedő felügyeleti kategóriába sorolja. Ennek megfelelően az érintett vízgazdálkodási követelmények szempontjából:
+(4)[^196] A vízügyi hatóság a vízilétesítményeket és vízhasználatokat a vízjogi üzemeltetési engedélyezési eljárás, valamint az ellenőrzés során a létesítmény jellegére és a térség vízgazdálkodásában betöltött szerepére figyelemmel, I–IV-ig terjedő felügyeleti kategóriába sorolja. Ennek megfelelően az érintett vízgazdálkodási követelmények szempontjából:
 
 a) az I. kategóriába a kiemelkedően fontos,
 
@@ -24,33 +24,33 @@ a) a vízilétesítményeknek a vizek hasznosítását – vagy kártételeik el
 
 b) a létesítmény környezetének meglevő, illetve a vízgazdálkodási vagy egyéb – tervezett fejlesztést is érintő – adottságait, lehetőségeit.
 
-(6)[^196] A vízügyi hatóság az ellenőrzést az I. kategóriába tartozó létesítményeknél évenként, a II. kategóriába tartozó létesítményeknél kétévenként, a III. kategóriába tartozó létesítményeknél ötévenként, a IV. kategóriába tartozó létesítményeknél esetenként (szúrópróbaszerűen, illetve megkeresés vagy bejelentés alapján) végzi. Az egyes felügyeleti kategóriákat érintő besorolás részletes szempontjait a rendelet 1. melléklete tartalmazza.
+(6)[^197] A vízügyi hatóság az ellenőrzést az I. kategóriába tartozó létesítményeknél évenként, a II. kategóriába tartozó létesítményeknél kétévenként, a III. kategóriába tartozó létesítményeknél ötévenként, a IV. kategóriába tartozó létesítményeknél esetenként (szúrópróbaszerűen, illetve megkeresés vagy bejelentés alapján) végzi. Az egyes felügyeleti kategóriákat érintő besorolás részletes szempontjait a rendelet 1. melléklete tartalmazza.
 
-(7)[^197] Amennyiben a (5) bekezdésben foglaltak változása ezt indokolttá teszi, a vízügyi hatóság módosíthatja a létesítmény (4) bekezdés szerinti besorolását.
+(7)[^198] Amennyiben a (5) bekezdésben foglaltak változása ezt indokolttá teszi, a vízügyi hatóság módosíthatja a létesítmény (4) bekezdés szerinti besorolását.
 
-(8)[^198] A vízügyi hatóság az ellenőrzés során – szükség szerint – szakmai, módszertani útmutatást és tanácsot ad, egyben lehetőséget biztosít az engedélyesnek arra, hogy – az azonnali intézkedést igénylő eseteket kivéve – a vízgazdálkodási cél, illetőleg követelmény önkéntes jogkövetés útján teljesüljön.
+(8)[^199] A vízügyi hatóság az ellenőrzés során – szükség szerint – szakmai, módszertani útmutatást és tanácsot ad, egyben lehetőséget biztosít az engedélyesnek arra, hogy – az azonnali intézkedést igénylő eseteket kivéve – a vízgazdálkodási cél, illetőleg követelmény önkéntes jogkövetés útján teljesüljön.
 
-(9)[^199] Ha a vízügyi hatóság ellenőrzése során megállapítja, hogy a jogellenes vízimunka, vízhasználat, vízilétesítmény kizárólagos állami tulajdonban lévő vízkészletet (felszíni vizeket, felszín alatti vizeket, a felszín alatti vizek természetes víztartó képződményeit), medret vagy vízilétesítményt érint, akkor a működési területével érintett vízügyi igazgatóságot, mint a vízügyi hatósági eljárásban ügyfélnek minősülő szervezetet az ellenőrzés során feltárt jogellenes tevékenységről és intézkedéséről a vízügyi hatóság értesíti. Ha a vízügyi hatóság az ellenőrzés eredményeként határozatot hoz, azt a vízügyi igazgatóságnak megküldi.
+(9)[^200] Ha a vízügyi hatóság ellenőrzése során megállapítja, hogy a jogellenes vízimunka, vízhasználat, vízilétesítmény kizárólagos állami tulajdonban lévő vízkészletet (felszíni vizeket, felszín alatti vizeket, a felszín alatti vizek természetes víztartó képződményeit), medret vagy vízilétesítményt érint, akkor a működési területével érintett vízügyi igazgatóságot, mint a vízügyi hatósági eljárásban ügyfélnek minősülő szervezetet az ellenőrzés során feltárt jogellenes tevékenységről és intézkedéséről a vízügyi hatóság értesíti. Ha a vízügyi hatóság az ellenőrzés eredményeként határozatot hoz, azt a vízügyi igazgatóságnak megküldi.
 
-(10)[^200] A hatósági engedély nélkül vagy attól eltérően gyakorolt vízhasználat, megvalósított vízimunka, illetve megépített vízilétesítmény esetén az ellenőrzést követő intézkedéseket a vízügyi hatóság az ellenőrzés befejezését követően, a jogellenes állapot szakmai megítélésétől is függően haladéktalanul, de legkésőbb az ellenőrzés befejezésétől számított 2 hónapon belül köteles megtenni.
+(10)[^201] A hatósági engedély nélkül vagy attól eltérően gyakorolt vízhasználat, megvalósított vízimunka, illetve megépített vízilétesítmény esetén az ellenőrzést követő intézkedéseket a vízügyi hatóság az ellenőrzés befejezését követően, a jogellenes állapot szakmai megítélésétől is függően haladéktalanul, de legkésőbb az ellenőrzés befejezésétől számított 2 hónapon belül köteles megtenni.
 
-(11)[^201] A vízügyi felügyeleti ellenőrzéseket a vízügyi hatóság ellenőrzési terv alapján végzi. Az ellenőrzési tervnek tartalmaznia kell:
+(11)[^202] A vízügyi felügyeleti ellenőrzéseket a vízügyi hatóság ellenőrzési terv alapján végzi. Az ellenőrzési tervnek tartalmaznia kell:
 
 a) a vízimunkák, vízilétesítmények, vízhasználatok vízikönyvi nyilvántartási számát, valamint az e rendelet szerint meghatározott felügyeleti kategóriát,
 
 b) az ellenőrzés tervezett időpontját negyedévenkénti bontásban,
 
-c)[^202] a korábbi ellenőrzési terv teljesítésének értékelését, valamint az erre alapozható, tervezett és kiemelt ellenőrzési szempontokat, ideértve az esetleges utó- és célvizsgálatokat, továbbá az (1) bekezdés szerinti vízilétesítmények rendszeres és soron kívüli megfigyelésére vonatkozó feladatokat.
+c)[^203] a korábbi ellenőrzési terv teljesítésének értékelését, valamint az erre alapozható, tervezett és kiemelt ellenőrzési szempontokat, ideértve az esetleges utó- és célvizsgálatokat, továbbá az (1) bekezdés szerinti vízilétesítmények rendszeres és soron kívüli megfigyelésére vonatkozó feladatokat.
 
-[^191]: A 21. §-t megelőző alcím az 527/2013. (XII. 30.) Korm. rendelet 3. § (11) bekezdésével megállapított szöveg.
-[^192]: A 21. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 85. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^193]: A 21. § (2) bekezdését a 228/2005. (X. 13.) Korm. rendelet 11. § j) pontja hatályon kívül helyezte.
-[^194]: A 21. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 85. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^195]: A 21. § (4) bekezdés bevezető szövegrésze a 10/2000. (II. 2.) Korm. rendelet 8. §-ának (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. [A 21. § (4) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
-[^196]: A 21. § (6) bekezdése a 10/2000. (II. 2.) Korm. rendelet 8. §-ának (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 84. §-a, a 82/2011. (V. 18.) Korm. rendelet 7. §-a szerint módosított szöveg. [A 21. § (6) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
-[^197]: A 21. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 85. §-a szerint módosított szöveg. [A 21. § (7) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
-[^198]: A 21. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 85. §-a szerint módosított szöveg. [A 21. § (8) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
-[^199]: A 21. § (9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 85. §-a hatályon kívül helyezte, újonnan az 527/2013. (XII. 30.) Korm. rendelet 3. § (12) bekezdése iktatta be.
-[^200]: A 21. § (10) bekezdését a 10/2000. (II. 2.) Korm. rendelet 8. §-ának (3) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. [A 21. § (10) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
-[^201]: A 21. § (11) bekezdését a 10/2000. (II. 2.) Korm. rendelet 8. §-ának (3) bekezdése iktatta be, bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. [A 21. § (11) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
-[^202]: A 21. § (11) bekezdésének c) pontja a 769/2021. (XII. 23.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
+[^192]: A 21. §-t megelőző alcím az 527/2013. (XII. 30.) Korm. rendelet 3. § (11) bekezdésével megállapított szöveg.
+[^193]: A 21. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 85. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^194]: A 21. § (2) bekezdését a 228/2005. (X. 13.) Korm. rendelet 11. § j) pontja hatályon kívül helyezte.
+[^195]: A 21. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 85. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^196]: A 21. § (4) bekezdés bevezető szövegrésze a 10/2000. (II. 2.) Korm. rendelet 8. §-ának (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. [A 21. § (4) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
+[^197]: A 21. § (6) bekezdése a 10/2000. (II. 2.) Korm. rendelet 8. §-ának (2) bekezdésével megállapított, a 182/2009. (IX. 10.) Korm. rendelet 84. §-a, a 82/2011. (V. 18.) Korm. rendelet 7. §-a szerint módosított szöveg. [A 21. § (6) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
+[^198]: A 21. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 85. §-a szerint módosított szöveg. [A 21. § (7) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
+[^199]: A 21. § (8) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 85. §-a szerint módosított szöveg. [A 21. § (8) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
+[^200]: A 21. § (9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 85. §-a hatályon kívül helyezte, újonnan az 527/2013. (XII. 30.) Korm. rendelet 3. § (12) bekezdése iktatta be.
+[^201]: A 21. § (10) bekezdését a 10/2000. (II. 2.) Korm. rendelet 8. §-ának (3) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. [A 21. § (10) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
+[^202]: A 21. § (11) bekezdését a 10/2000. (II. 2.) Korm. rendelet 8. §-ának (3) bekezdése iktatta be, bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 84. §-a szerint módosított szöveg. [A 21. § (11) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 3. § (13) bekezdés c) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrészek helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
+[^203]: A 21. § (11) bekezdésének c) pontja a 769/2021. (XII. 23.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.

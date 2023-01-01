@@ -1,6 +1,6 @@
 1/B. § (1) A vízjogi engedélyezési eljárás iránti kérelem tartalmazza – az Ákr. 36. § (1) bekezdésében, érintettség esetén a felszín alatti vízkészletekbe történő beavatkozásról szóló és a vízügyi hatósági eljárások szolgáltatási díjairól szóló miniszteri rendeletekben, valamint a (3)–(5) bekezdésben foglaltak mellett – a vízjogi engedélyezési eljáráshoz szükséges dokumentáció tartalmáról szóló miniszteri rendeletben (a továbbiakban: Min. r.) meghatározott engedélyezési tervdokumentációt, elvi vízjogi engedélyezés esetén a műszaki megoldást tartalmazó dokumentációt.
 
-(2)[^9] Ha az ügyfél az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerint elektronikus ügyintézésre nem köteles, az (1) bekezdés szerinti kérelmet, valamint a 4/B. § szerinti bejelentést
+(2)[^10] Ha az ügyfél az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerint elektronikus ügyintézésre nem köteles, az (1) bekezdés szerinti kérelmet, valamint a 4/B. § szerinti bejelentést
 
 a) vízügyi hatósági eljárás esetén
 
@@ -12,9 +12,9 @@ b) helyi vízgazdálkodási hatósági eljárás esetén papír alapon vagy elek
 
 nyújtja be.
 
-(3)[^10] Ha jogszabályban meghatározott dokumentumok valamelyikét a vízügyi hatósághoz már korábbi ügyben benyújtották, az újabb kérelemben, bejelentésben elegendő – az iktatószámra való hivatkozással – a korábbi benyújtásra és arra utalni, hogy a vízügyi hatóságnál lévő igazolások a vízjogi engedély iránti kérelem, a bejelentés benyújtásának időpontjában a jogosultság vonatkozásában változást nem tartalmaznak.
+(3)[^11] Ha jogszabályban meghatározott dokumentumok valamelyikét a vízügyi hatósághoz már korábbi ügyben benyújtották, az újabb kérelemben, bejelentésben elegendő – az iktatószámra való hivatkozással – a korábbi benyújtásra és arra utalni, hogy a vízügyi hatóságnál lévő igazolások a vízjogi engedély iránti kérelem, a bejelentés benyújtásának időpontjában a jogosultság vonatkozásában változást nem tartalmaznak.
 
-(4)[^11] A kérelmezőnek a kérelem részeként igazolnia kell
+(4)[^12] A kérelmezőnek a kérelem részeként igazolnia kell
 
 a) ha a tervezett vízimunka vagy vízilétesítmény közműveket érint, a közmű kezelője (üzemeltetője) – az engedélyezési dokumentációra alapozott, a kérelemmel összefüggő – hozzájárulásának meglétét,
 
@@ -28,7 +28,7 @@ e) ha a tervezett vízhasználat, vízimunka, vízilétesítmény állami tulajd
 
 f) valamennyi vízhasználat, vízimunka, vízilétesítmény esetén – elvi vízjogi és fennmaradási engedélynél az erre irányuló kérelemnél, vízhasználat önálló engedélyezése esetén a vízjogi üzemeltetési engedély iránti kérelemnél, különben a vízjogi létesítési engedély iránti kérelemnél – a vízügyi igazgatóság vízügyi objektumazonosítási nyilatkozata meglétét.
 
-(5)[^12] A vízügyi igazgatóság a nyilatkozatát az engedélyezési tervdokumentáció – elvi vízjogi engedélyezés esetén a műszaki megoldást tartalmazó dokumentáció –, valamint a vízügyi igazgatóság által közzétett módon történő megkeresés alapján, a megkeresés megérkezésétől számított húsz napon belül adja ki a kérelmezőnek. A vízügyi igazgatóság nyilatkozata tartalmazza
+(5)[^13] A vízügyi igazgatóság a nyilatkozatát az engedélyezési tervdokumentáció – elvi vízjogi engedélyezés esetén a műszaki megoldást tartalmazó dokumentáció –, valamint a vízügyi igazgatóság által közzétett módon történő megkeresés alapján, a megkeresés megérkezésétől számított húsz napon belül adja ki a kérelmezőnek. A vízügyi igazgatóság nyilatkozata tartalmazza
 
 a) a vízügyi objektumazonosítót, a nyilatkozat kiállítását megalapozó dokumentáció számát és kiállítási dátumát,
 
@@ -36,10 +36,10 @@ b) vízügyi igazgatósági vagyonkezelésben lévő ingatlan érintettsége ese
 
 c) a (4) bekezdés e) pontja szerinti érintettség esetén a vagyonkezelői hozzájárulást, vagy – ha az igényelt vízkészlet mennyiségi korlát vagy vízvédelmi ok miatt nem vehető igénybe, vagy a tervezett megvalósítás a felszín alatti víztartó képződmények, a felszíni víz medrének, a vízilétesítmények fenntartását, üzemeltetését vagy a vízkárelhárítást veszélyezteti – a hozzájárulás elutasítását és annak indokolását, továbbá hozzájárulás esetén a víztest(ek) állapotára és az igénybe venni kívánt vízkészlet jellegére vonatkozó adatokat.
 
-(6)[^13] A vízügyi igazgatóság nem ad vízügyi objektumazonosítót abban az esetben, ha a kérelem részét képező, az (5) bekezdés b) vagy c) pontjában meghatározott vagyonkezelői hozzájárulást elutasítja.
+(6)[^14] A vízügyi igazgatóság nem ad vízügyi objektumazonosítót abban az esetben, ha a kérelem részét képező, az (5) bekezdés b) vagy c) pontjában meghatározott vagyonkezelői hozzájárulást elutasítja.
 
-[^9]: Az 1/B. § (2) bekezdését a 286/2019. (XII. 4.) Korm. rendelet 3. §-a iktatta be.
-[^10]: Az 1/B. § (3) bekezdése a 286/2019. (XII. 4.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
-[^11]: Az 1/B. § (4) bekezdés nyitó szövegrésze a 286/2019. (XII. 4.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
-[^12]: Az 1/B. § (5) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^13]: Az 1/B. § (6) bekezdését a 288/2018. (XII. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^10]: Az 1/B. § (2) bekezdését a 286/2019. (XII. 4.) Korm. rendelet 3. §-a iktatta be.
+[^11]: Az 1/B. § (3) bekezdése a 286/2019. (XII. 4.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^12]: Az 1/B. § (4) bekezdés nyitó szövegrésze a 286/2019. (XII. 4.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^13]: Az 1/B. § (5) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^14]: Az 1/B. § (6) bekezdését a 288/2018. (XII. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
