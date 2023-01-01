@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-2-00-00
 | 2016-06-18 | 2016. évi LXVII. törvény | 2000-2-00-00.15 |
 | 2017-06-02 | 2017. évi XLIV. törvény | 2000-2-00-00.16 |
 | 2018-01-01 | 2017. évi L. törvény | 2000-2-00-00.17 |
+| 2023-01-01 | 2022. évi LXXIII. törvény | 2000-2-00-00.18 |

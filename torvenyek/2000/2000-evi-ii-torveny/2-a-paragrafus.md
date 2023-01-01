@@ -1,4 +1,6 @@
-2/A. § (1) A praxisjog elidegenítésére vonatkozó szándékát – a praxisjogot megszerezni kívánó orvost is megjelölve – az azt elidegeníteni kívánó személy bejelenti az adott praxisjoggal érintett települési önkormányzatnak.
+2/A. § (1) A praxisjog elidegenítésére vonatkozó szándékát az azt elidegeníteni kívánó személy – ha van a praxisjogot megszerezni kívánó orvos, őt is megjelölve – bejelenti a praxiskezelőnek és az adott praxisjoggal érintett települési önkormányzatnak. Ha a (2) bekezdés b) pontja alapján a települési önkormányzat nem szándékozik a praxisjogot megszerezni kívánó orvossal a 2/B. § szerinti feladat-ellátási szerződést kötni, úgy a települési önkormányzat, valamint a praxiskezelő – az (1a) bekezdésben foglaltak figyelembevételével – jelöl meg más, a praxisjogot megszerezni kívánó orvost.
+
+(1a) A praxiskezelő kizárólag akkor jelölhet az önkormányzat véleményének kikérését követően más orvost, ha azt jogszabályban meghatározott ellátásbiztonsági és gazdaságossági szempontok indokolják és az ezeknek megfelelő orvost az érintett önkormányzat(ok) a javaslattételt követő 6 hónapon belül sem jelöli(k) meg.
 
 (2) Ha az (1) bekezdés szerinti önkormányzat – a praxisjog engedélyezésére jogosult egészségügyi államigazgatási szerv véleményének kikérését követően –
 

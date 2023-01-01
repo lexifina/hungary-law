@@ -1,4 +1,4 @@
-2/C. § A kormányrendeletben meghatározott praxiskezelő
+2/C. § A praxiskezelő
 
 a) nyilvántartást vezet
 

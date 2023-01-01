@@ -36,10 +36,10 @@ b) a háziorvos önálló egészségügyi tevékenység végzésére való jogos
 
 (4) A feladat-ellátási szerződésben hat hónapnál rövidebb felmondási idő nem határozható meg.
 
-(5) A körzetmódosítás miatt bekövetkezett, a háziorvost ért kár esetén a települési önkormányzat kártalanítási kötelezettséggel tartozik, amelynek megállapításánál figyelembe kell venni a háziorvosi szolgáltató által a finanszírozása keretében kapott egy éves összeget.
+(5) A körzetmódosítás miatt bekövetkezett, a háziorvost ért kár esetén az adott körzet megállapításáért felelős szerv kártalanítási kötelezettséggel tartozik, amelynek megállapításánál figyelembe kell venni a háziorvosi szolgáltató által a finanszírozása keretében kapott egy éves összeget.
 
 (6) A feladat-ellátási szerződést a feladatot ellátó háziorvosi szolgáltató is megkötheti.
 
-(7) A közalkalmazotti jogviszonyban álló, praxisjoggal rendelkező háziorvos esetében az (1) bekezdésben foglaltakat – a közalkalmazotti jogviszonyra vonatkozó szabályokkal összhangban – megfelelően alkalmazni kell.
+(7) Az egészségügyi szolgálati jogviszonyban álló, praxisjoggal rendelkező háziorvos esetében az (1) bekezdésben foglaltakat – az egészségügyi szolgálati jogviszonyra vonatkozó szabályokkal összhangban – megfelelően alkalmazni kell.
 
 (8) A feladat-ellátási szerződés megkötésekor felmerülő vitás kérdések rendezésében a praxisjog engedélyezésére jogosult egészségügyi államigazgatási szerv – a felek által meghatározott kérdések eldöntésében – segítséget nyújt.
