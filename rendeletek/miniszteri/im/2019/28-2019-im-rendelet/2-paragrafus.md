@@ -1,6 +1,6 @@
 ## 1. § E rendelet hatálya Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: EU ÁK), továbbá az oda kihelyezett kormánytisztviselőkre terjed ki.
 
-2. § (1)[^1] A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény szerinti, az Egyesült Nemzetek Szervezete által közzétett szorzószámok figyelembevételével megállapított deviza-alapilletmény összege 473 440 Ft.
+2. § (1)[^2] A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény szerinti, az Egyesült Nemzetek Szervezete által közzétett szorzószámok figyelembevételével megállapított deviza-alapilletmény összege 475 180 Ft.
 
 (2) Az EU ÁK külpolitikai viszonyrendszerben elfoglalt helye, valamint élhetőségi besorolása alapján járó deviza-illetménypótlékok megállapításának alapjául szolgáló összesített külképviseleti besorolási szorzó 35%.
 
@@ -12,4 +12,4 @@
 
 (6) Az állandó képviseleti devizapótlék összege az EU ÁK diplomatája és szakdiplomatája házastársi deviza-illetménypótlék nélkül számított devizailletményének 7,5%-a.
 
-[^1]: A 2. § (1) bekezdése a 17/2021. (XII. 21.) IM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdése a 33/2022. (XII. 22.) IM rendelet 1. §-ával megállapított szöveg.
