@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1668-30
 | 2019-11-28 | 2019-1668-30-22.1 | 1668/2019. (XI. 28.) Korm. határozat |
 | 2019-11-29 | 2019-1668-30-22.2 | 2010: CXXX. törvény |
 | 2019-12-23 | 2019-1668-30-22.3 | 1800/2019. (XII. 23.) Korm. határozat |
+| 2023-01-01 | 2019-1668-30-22.4 | 2011: CXCV. törvény |
