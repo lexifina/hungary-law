@@ -1,5 +1,3 @@
-## Hatósági igazolvány a forgalmazási és javítási tevékenységet közvetlenül végző személyek részére
-
 ## A hatósági igazolvány előoldala:
 
 | címer |
@@ -32,6 +30,6 @@
 
 | Engedélyezés dátuma: |
 
-5. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^283]
+5. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^291]
 
-[^283]: Az 5. számú melléklet a 371/2016. (XI. 29.) Korm. rendelet 21. § a) pontjával megállapított szöveg.
+[^291]: Az 5. számú melléklet a 371/2016. (XI. 29.) Korm. rendelet 21. § a) pontjával megállapított szöveg.

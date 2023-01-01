@@ -1,9 +1,11 @@
-4/A. §[^11] (1) Az engedélyezési eljárás során hozott elsőfokú döntés elleni fellebbezést
+4/A. §[^12] (1) Az engedélyezési eljárás során hozott elsőfokú döntés elleni fellebbezést
 
-a) a megyei, fővárosi rendőr-főkapitányság bírálja el, ha az elsőfokú döntést a rendőrkapitányság hozta, vagy
+a)[^13] a vármegyei, fővárosi rendőr-főkapitányság bírálja el, ha az elsőfokú döntést a rendőrkapitányság hozta, vagy
 
-b) az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve bírálja el, ha az elsőfokú döntést a megyei, fővárosi rendőr-főkapitányság hozta.
+b)[^14] az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve bírálja el, ha az elsőfokú döntést a vármegyei, fővárosi rendőr-főkapitányság hozta.
 
 (2) Az engedélyezési eljárás során az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szervként a fellebbezés elbírálására jogosult hatóság jár el.
 
-[^11]: A 4/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 139. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^12]: A 4/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 139. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^13]: A 4/A. § (1) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 57. §-a szerint módosított szöveg.
+[^14]: A 4/A. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 57. §-a szerint módosított szöveg.

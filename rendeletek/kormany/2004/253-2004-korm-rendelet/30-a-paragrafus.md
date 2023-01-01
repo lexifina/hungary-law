@@ -1,4 +1,4 @@
-30/A. §[^126] (1) Elöltöltő fegyver vadászati célú használata csak természetes személy számára engedélyezhető.
+30/A. §[^131] (1) Elöltöltő fegyver vadászati célú használata csak természetes személy számára engedélyezhető.
 
 (2) Az elöltöltő fegyver vadászati célú használatára jogosító hatósági engedéllyel rendelkező az engedély birtokában jogosult
 
@@ -10,4 +10,4 @@ b) legfeljebb 5 kg össztömegű fekete lőpor, illetve gyárilag a fekete lőpo
 
 (4) Az elöltöltő fegyver vadászati célú használatára jogosító engedéllyel rendelkező személy a fegyver használatakor köteles az engedélyt magánál tartani.
 
-[^126]: A 30/A. §-t a 371/2016. (XI. 29.) Korm. rendelet 8. §-a iktatta be.
+[^131]: A 30/A. §-t a 371/2016. (XI. 29.) Korm. rendelet 8. §-a iktatta be.

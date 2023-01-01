@@ -22,6 +22,8 @@
 
 ## Lőfegyver/lőszer, csappantyú, lőpor azonosító adatai a következők
 
+## 6K77421_0
+
 | Darab Mennyiség | Fajta/ jelleg | Kat. | Gyártó | Típus | Gyártási szám | Kaliberjel |
 
 | 1 | 2 | 3 |
@@ -90,6 +92,6 @@
 
 ## Kaliber jel: a hivatalos, a fegyver szemlézési, vagy bevizsgálási tanúsítványán szereplő CIP kaliberjelet kell feltüntetni, csövenként felsorolva.
 
-6. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^284]
+6. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^292]
 
-[^284]: A 6. számú melléklet a 371/2016. (XI. 29.) Korm. rendelet 21. § b) pontjával megállapított szöveg.
+[^292]: A 6. számú melléklet a 371/2016. (XI. 29.) Korm. rendelet 21. § b) pontjával megállapított szöveg.

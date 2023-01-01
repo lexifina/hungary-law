@@ -1,3 +1,3 @@
-## A lőtér üzemeltetésére vonatkozó szabályok[^25]
+## A lőtér üzemeltetésére vonatkozó szabályok[^29]
 
-[^25]: Az 5/C. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 139. § (4) bekezdése iktatta be.
+[^29]: Az 5/C. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 139. § (4) bekezdése iktatta be.

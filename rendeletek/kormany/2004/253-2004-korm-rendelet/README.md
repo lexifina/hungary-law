@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-253-20-
 | 2021-01-01 | 2004-253-20-22.36 | 326/2020. (VII. 1.) Korm. rendelet |
 | 2022-01-01 | 2004-253-20-22.37 | 678/2021. (XII. 3.) Korm. rendelet |
 | 2022-08-16 | 2004-253-20-22.38 | 283/2022. (VIII. 1.) Korm. rendelet |
+| 2023-01-01 | 2004-253-20-22.39 | 569/2022. (XII. 23.) Korm. rendelet |

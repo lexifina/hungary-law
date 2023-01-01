@@ -1,8 +1,6 @@
-## 20042220000253_1
+26. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^315]
 
-26. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^306]
-
-## Szakképzések meghatározása a 37. § (5a) bekezdését illetően
+Szakképzések meghatározása a 37. § (5a) bekezdését illetően
 
 1. A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 1. mellékletében foglalt táblázat 86. sorában meghatározott „Fegyvergyártó szaktechnikus” szakma megszerzésére irányuló szakképzés.
 
@@ -16,4 +14,4 @@
 
 6. A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 1. mellékletében foglalt táblázat 134. sorában meghatározott „Rendészeti őr” szakma megszerzésére irányuló szakképzés.
 
-[^306]: A 26. számú mellékletet a 283/2022. (VIII. 1.) Korm. rendelet 4. §-a iktatta be.
+[^315]: A 26. számú mellékletet a 283/2022. (VIII. 1.) Korm. rendelet 4. §-a iktatta be.

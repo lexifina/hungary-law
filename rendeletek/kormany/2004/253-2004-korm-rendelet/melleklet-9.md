@@ -22,6 +22,8 @@
 
 ## Lőfegyver/lőszer, csappantyú, lőpor azonosító adatai a következők
 
+## 6K77427_0
+
 | Fegyt. eng.sz. Mennyiség | Fajta/ jelleg | Kat. | Gyártó | Típus | Gyártási szám | Kaliberjel |
 
 | 1 | 2 | 3 |

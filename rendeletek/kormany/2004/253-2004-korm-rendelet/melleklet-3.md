@@ -1,5 +1,3 @@
-## Hatósági igazolvány önvédelem céljából kiadott gáz- és riasztófegyver tartására vonatkozó engedéllyel rendelkező személyek részére
-
 ## A hatósági igazolvány előoldala:
 
 | címer |
@@ -26,6 +24,8 @@
 
 ## A hatósági igazolvány hátoldala:
 
+## 9M39522_1
+
 | VISSZAVONÁSIG ÉRVÉNYES |
 
 | a személyazonosságot igazoló |
@@ -38,7 +38,7 @@
 
 3. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez
 
-1.[^279] A fegyver, lőszer (töltény) és lőszerelem gyártása, forgalmazása, illetve a lőfegyver javítása iránti kérelemnek tartalmaznia kell
+1.[^287] A fegyver, lőszer (töltény) és lőszerelem gyártása, forgalmazása, illetve a lőfegyver javítása iránti kérelemnek tartalmaznia kell
 
 – a kérelmező statisztikai jelét (statisztikai törzsszám vagy adószám első nyolc számjegye);
 
@@ -90,7 +90,7 @@ c) a gyártani kívánt lőfegyver fegyver, lőszer (töltény) és lőszerelem 
 
 d) a gyártás megkezdésének idejét;
 
-e)[^280] a kérelmező arra vonatkozó nyilatkozatát, hogy rendelkezik-e vagy nem rendelkezik a lőfegyverek központi nyilvántartásába elektronikus úton történő adattovábbításhoz meghatározott technikai feltételekkel.
+e)[^288] a kérelmező arra vonatkozó nyilatkozatát, hogy rendelkezik-e vagy nem rendelkezik a lőfegyverek központi nyilvántartásába elektronikus úton történő adattovábbításhoz meghatározott technikai feltételekkel.
 
 3. A forgalmazására jogosító engedély iránti kérelemnek tartalmaznia kell az 1. pontban foglaltakon túl
 
@@ -104,8 +104,8 @@ a) a javításra és tárolásra használt helyiségek számát és nagyságát;
 
 b) a javító tevékenység pontos leírását (lőfegyverjavítás, gáz- és riasztófegyver javítás, távcső-szerelés, farészek készítése stb.);
 
-c)[^281] a kérelmező arra vonatkozó nyilatkozatát, hogy rendelkezik-e vagy nem rendelkezik a lőfegyverek központi nyilvántartásába elektronikus úton történő adattovábbításhoz meghatározott technikai feltételekkel.
+c)[^289] a kérelmező arra vonatkozó nyilatkozatát, hogy rendelkezik-e vagy nem rendelkezik a lőfegyverek központi nyilvántartásába elektronikus úton történő adattovábbításhoz meghatározott technikai feltételekkel.
 
-[^279]: A 3. számú melléklet 1. pontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (7) bekezdése, a 355/2012. (XII. 13.) Korm. rendelet 14. §-a, a 360/2019. (XII. 30.) Korm. rendelet 32. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^280]: A 3. számú melléklet 2. pont e) alpontját a 326/2020. (VII. 1.) Korm. rendelet 20. § a) pontja iktatta be.
-[^281]: A 3. számú melléklet 4. pont c) alpontját a 326/2020. (VII. 1.) Korm. rendelet 20. § a) pontja iktatta be.
+[^287]: A 3. számú melléklet 1. pontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (7) bekezdése, a 355/2012. (XII. 13.) Korm. rendelet 14. §-a, a 360/2019. (XII. 30.) Korm. rendelet 32. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^288]: A 3. számú melléklet 2. pont e) alpontját a 326/2020. (VII. 1.) Korm. rendelet 20. § a) pontja iktatta be.
+[^289]: A 3. számú melléklet 4. pont c) alpontját a 326/2020. (VII. 1.) Korm. rendelet 20. § a) pontja iktatta be.

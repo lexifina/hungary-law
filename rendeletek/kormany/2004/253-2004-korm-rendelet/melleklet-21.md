@@ -1,5 +1,3 @@
-## Hatósági igazolvány lőfegyvertartási engedéllyel rendelkező szervezetek részére
-
 ## A hatósági igazolvány előoldala:
 
 | címer |
@@ -26,6 +24,6 @@
 
 | Engedélyezés dátuma: |
 
-21. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^301]
+21. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^310]
 
-[^301]: A 21. számú mellékletet a 181/2018. (X. 2.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 326/2020. (VII. 1.) Korm. rendelet 20. § b) pontja iktatta be.
+[^310]: A 21. számú mellékletet a 181/2018. (X. 2.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 326/2020. (VII. 1.) Korm. rendelet 20. § b) pontja iktatta be.
