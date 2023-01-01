@@ -6,7 +6,7 @@ Az alap-, illetve mesterképzés indításának tárgyi és személyi feltétele
 
 a) az intézmény által kidolgozott tanterv teljesíti a képzési és kimeneti követelményekben leírtakat,
 
-b)[^258] az intézmény által kidolgozott tanterv biztosítja a kimeneti kompetenciák hallgatók általi elsajátítását, bemutatja a tanulás-támogatás intézményi eszközrendszerét, módszertanát,
+b)[^262] az intézmény által kidolgozott tanterv biztosítja a kimeneti kompetenciák hallgatók általi elsajátítását, bemutatja a tanulás-támogatás intézményi eszközrendszerét, módszertanát,
 
 c) a szakfelelős személye az intézmény teljes munkaidőben foglalkoztatott, tudományos fokozattal rendelkező oktató, aki az Nftv. 26. § (3) bekezdése szerint az érintett felsőoktatási intézményt jelölte meg (a továbbiakban: első helyen foglalkoztatott oktató),
 
@@ -28,13 +28,13 @@ k) a képzés oktatási eszközigénye és a gyakorlati képzés feltételei biz
 
 l) az intézményi könyvtár állománya és szolgáltatásai biztosítják a tantárgyi programok kötelező irodalomjegyzékében felsorolt könyvek és szakirodalom elérhetőségét minden hallgató számára,
 
-m)[^259] a képzés során külföldi részképzés, külföldi szakmai gyakorlat vagy szakdolgozat, diplomamunka külföldi készítése céljából a tantervbe épített, nemzetközi hallgatói mobilitásra felhasználható időszak (a továbbiakban: mobilitási ablak) áll rendelkezésre.
+m)[^263] a képzés során külföldi részképzés, külföldi szakmai gyakorlat vagy szakdolgozat, diplomamunka külföldi készítése céljából a tantervbe épített, nemzetközi hallgatói mobilitásra felhasználható időszak (a továbbiakban: mobilitási ablak) áll rendelkezésre.
 
 2. Mesterképzési szak indításának feltételei:
 
 a) az intézmény által kidolgozott tanterv teljesíti a képzési és kimeneti követelményekben leírtakat,
 
-b)[^260] az intézmény által kidolgozott tanterv biztosítja a kimeneti kompetenciák hallgatók általi elsajátítását, bemutatja a tanulás-támogatás intézményi eszközrendszerét, módszertanát,
+b)[^264] az intézmény által kidolgozott tanterv biztosítja a kimeneti kompetenciák hallgatók általi elsajátítását, bemutatja a tanulás-támogatás intézményi eszközrendszerét, módszertanát,
 
 c) a szakfelelős személye az intézmény teljes munkaidőben, első helyen foglalkoztatott oktatója, aki tudományos fokozattal és oktatott területén elismert szakmai referenciával (projektvezetés, kutatási eredmény stb.) rendelkezik,
 
@@ -58,12 +58,15 @@ l) az intézményben olyan kutatási témák vannak, amelyekben felkészítik a 
 
 m) a képzés során külföldi részképzés céljából mobilitási ablak rendelkezésre áll.
 
+2a.[^265] Az államtudományi képzési területen a felsőoktatási intézmény szervezeti és működési szabályzata az 1. pont c) alpontjától és 2. pont c) alpontjától eltérő követelményeket állapítja meg a szakfelelős számára.
+
 3. A tanárképzés további speciális tárgyi és személyi feltételei:
 
 a) minden hallgató számára (előzetes megállapodással) igazoltan biztosított a gyakorlati képzőhely, ahol a gyakorlatot vezető tanár szakirányú felsőfokú végzettséggel és legalább 5 éves szakmai gyakorlattal rendelkezik; a felsőoktatási intézményben – a szabályzatban meghatározott módon – tanárképző központ biztosítja a szakmai, tartalmi, szervezeti és tudományos feladatok összehangolását, az elméleti és gyakorlati képzés szervezését,
 
 b) az egyes tanári szakképzettségeket adó képzésekre teljesülnek a mesterfokozatot adó szak indítására vonatkozó feltételek.
 
-[^258]: Az 5. melléklet 1. pont b) alpontja a 169/2016. (VII. 1.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
-[^259]: Az 5. melléklet 1. pont m) alpontja a 191/2019. (VII. 30.) Korm. rendelet 68. § (2) bekezdésével megállapított szöveg.
-[^260]: Az 5. melléklet 2. pont b) alpontja a 169/2016. (VII. 1.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
+[^262]: Az 5. melléklet 1. pont b) alpontja a 169/2016. (VII. 1.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
+[^263]: Az 5. melléklet 1. pont m) alpontja a 191/2019. (VII. 30.) Korm. rendelet 68. § (2) bekezdésével megállapított szöveg.
+[^264]: Az 5. melléklet 2. pont b) alpontja a 169/2016. (VII. 1.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
+[^265]: Az 5. melléklet 2a. pontját a 617/2022. (XII. 29.) Korm. rendelet 17. §-a iktatta be.

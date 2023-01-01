@@ -1,10 +1,10 @@
-## 77. §[^233] A 2021/2022. tanév tekintetében a felsőoktatási intézmény a 61. § (8) bekezdése szerinti döntését az Nftv. 117/H. § (2) bekezdése szerinti fenntartói döntést követően haladéktalanul, de legkésőbb 2022. augusztus 31-éig hozza meg.
+## 77. §[^237] A 2021/2022. tanév tekintetében a felsőoktatási intézmény a 61. § (8) bekezdése szerinti döntését az Nftv. 117/H. § (2) bekezdése szerinti fenntartói döntést követően haladéktalanul, de legkésőbb 2022. augusztus 31-éig hozza meg.
 
-78. §[^234] (1) E rendeletnek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet módosításáról szóló 550/2022. (XII. 22.) Korm. rendelettel (a továbbiakban: Mód2r.) megállapított 18. § (4) bekezdés e) és f) pontját, 18. § (6), (8), (11) és (12) bekezdését, 19. § (6) bekezdését, 20. § (3a)–(3e), (4), (4a) és (5) bekezdését, 21. § (5) és (5a) bekezdését, 21/E. §-át és 21/F. §-át a Mód2r. hatálybalépése[^235] után kezdeményezett szaklétesítések és szakindítások esetében kell alkalmazni.
+78. §[^238] (1) E rendeletnek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet módosításáról szóló 550/2022. (XII. 22.) Korm. rendelettel (a továbbiakban: Mód2r.) megállapított 18. § (4) bekezdés e) és f) pontját, 18. § (6), (8), (11) és (12) bekezdését, 19. § (6) bekezdését, 20. § (3a)–(3e), (4), (4a) és (5) bekezdését, 21. § (5) és (5a) bekezdését, 21/E. §-át és 21/F. §-át a Mód2r. hatálybalépése[^239] után kezdeményezett szaklétesítések és szakindítások esetében kell alkalmazni.
 
-(2) Az Nftv. 16/A. § (1) bekezdése alapján a miniszter által hivatalos kiadványként közzétett hitéleti képzési és kimeneti követelményeket és a hitéleti szakokat a Mód2r. hatálybalépésekor[^236] a Hivatal hivatalból nyilvántartásba veszi.
+(2) Az Nftv. 16/A. § (1) bekezdése alapján a miniszter által hivatalos kiadványként közzétett hitéleti képzési és kimeneti követelményeket és a hitéleti szakokat a Mód2r. hatálybalépésekor[^240] a Hivatal hivatalból nyilvántartásba veszi.
 
-[^233]: A 77. §-t a 276/2022. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^234]: A 78. §-t az 550/2022. (XII. 22.) Korm. rendelet 4. §-a iktatta be.
-[^235]: A hatálybalépés időpontja 2022. december 23.
-[^236]: A hatálybalépés időpontja 2022. december 23.
+[^237]: A 77. §-t a 276/2022. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^238]: A 78. §-t az 550/2022. (XII. 22.) Korm. rendelet 4. §-a iktatta be.
+[^239]: A hatálybalépés időpontja 2022. december 23.
+[^240]: A hatálybalépés időpontja 2022. december 23.

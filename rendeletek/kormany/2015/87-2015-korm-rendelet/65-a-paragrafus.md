@@ -1,4 +1,4 @@
-## 21/A. [^214] A felsőoktatási intézmények működésére vonatkozó szabályok
+## 21/A. [^216] A felsőoktatási intézmények működésére vonatkozó szabályok
 
 65/A. § (1) A miniszter legalább 30 napos határidő tűzésével felhívja az Nftv. 13/B. § (2) bekezdése szerinti javaslattevő szerveket a konzisztóriumi tagok személyére történő javaslattételére.
 
@@ -10,11 +10,11 @@ b) a felsőoktatási intézmény gazdasági-társadalmi környezete meghatároz�
 
 tesz javaslatot.
 
-(3)[^215] A miniszter delegálásról szóló döntését megelőzően a javasolt tagok névsora és szakmai önéletrajza a miniszteri döntés meghozataláig, majd azt követően a delegált tag neve és önéletrajza a megbízatásának végéig nyilvános azzal, hogy a személyes adathoz való hozzáférést a minisztérium honlapján kell biztosítani.
+(3)[^217] A miniszter delegálásról szóló döntését megelőzően a javasolt tagok névsora és szakmai önéletrajza a miniszteri döntés meghozataláig, majd azt követően a delegált tag neve és önéletrajza a megbízatásának végéig nyilvános azzal, hogy a személyes adathoz való hozzáférést a minisztérium honlapján kell biztosítani.
 
 (4) A (2) bekezdés a) pontja szerinti javaslattevő szervek legalább három tagjelöltre tesznek javaslatot.
 
-(5)[^216] Konzisztóriumi tagnak nem jelölhető, tagi megbízást nem kaphat az a személy, aki
+(5)[^218] Konzisztóriumi tagnak nem jelölhető, tagi megbízást nem kaphat az a személy, aki
 
 a) büntetett előéletű,
 
@@ -38,7 +38,7 @@ j) más felsőoktatási intézmény vezető beosztású alkalmazottja,
 
 k) hallgatói jogviszonnyal rendelkezik az adott felsőoktatási intézményben.
 
-(5a)[^217] A konzisztóriumi tagjelölt a jelölést elfogadó nyilatkozattal vállalja, hogy
+(5a)[^219] A konzisztóriumi tagjelölt a jelölést elfogadó nyilatkozattal vállalja, hogy
 
 a) a tagságból eredő feladatait személyesen látja el,
 
@@ -50,7 +50,7 @@ d) az (5) bekezdés és a c) pont szerinti körülmény fennállását haladékt
 
 (6) A tagságnak a megbízatási idő lejártát megelőző megszűnése esetén a miniszter az eredeti tag megbízatásából hátralévő időtartamra haladéktalanul új tagot delegál.
 
-[^214]: A 21/A. alcímet (65/A–65/C. §) a 345/2015. (XI. 19.) Korm. rendelet 83. §-a iktatta be.
-[^215]: A 65/A. § (3) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
-[^216]: A 65/A. § (5) bekezdés nyitó szövegrésze a 169/2016. (VII. 1.) Korm. rendelet 37. § g) pontja szerint módosított szöveg.
-[^217]: A 65/A. § (5a) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 34. § (2) bekezdése iktatta be.
+[^216]: A 21/A. alcímet (65/A–65/C. §) a 345/2015. (XI. 19.) Korm. rendelet 83. §-a iktatta be.
+[^217]: A 65/A. § (3) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^218]: A 65/A. § (5) bekezdés nyitó szövegrésze a 169/2016. (VII. 1.) Korm. rendelet 37. § g) pontja szerint módosított szöveg.
+[^219]: A 65/A. § (5a) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 34. § (2) bekezdése iktatta be.
