@@ -1,3 +1,1 @@
-2. §[^1]
-
-[^1]: A 2. § a 7. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+2. § A Hatóság elnöke a szerkezetátalakítási szakértői feladatra kijelölt természetes személy (a továbbiakban: szerkezetátalakítási szakértő) részére e minőségének igazolására a felszámolói névjegyzékbe szerkezetátalakítási szakértőként történő bejegyzését követően a 2. mellékletben meghatározott tartalommal szerkezetátalakítási szakértői igazolványt állít ki. Az igazolvány a kiállítástól számított 5 évig érvényes.
