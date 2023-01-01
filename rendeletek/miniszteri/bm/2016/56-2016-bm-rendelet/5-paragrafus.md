@@ -2,6 +2,6 @@
 
 (2) Az (1) bekezdés szerinti eljárás eredményeként az állománytáblázatban rendszeresített álláshelyek biztosítása érdekében az Országgyűlési Őrség parancsnoka haladéktalanul kezdeményezi az állománytáblázat soron kívüli módosítását az Országgyűlés elnökénél. A kezdeményezés megtörténtét követően az álláshely felajánlására attól függetlenül sor kerülhet, hogy az állománytáblázat módosítása még nem került végrehajtásra.
 
-(3)[^2] Az egészségkárosodási ellátásban részesülőkre tekintettel átminősített vagy létrehozott új álláshelyekről a humánigazgatási szakszolgálat nyilvántartást vezet, amely átminősítés esetében tartalmazza az átminősítést megelőző szolgálati beosztás megjelölését is. Az átminősített vagy létrehozott új álláshely megüresedése esetén az Országgyűlési Őrség parancsnoka 5 munkanapon belül gondoskodik az átminősített álláshely visszaminősítéséről vagy a létrehozott álláshely megszüntetéséről, és ennek tényéről értesíti a humánigazgatási szakszolgálatot.
+(3)[^4] Az egészségkárosodási ellátásban részesülőkre tekintettel átminősített vagy létrehozott új álláshelyekről a humánigazgatási szakszolgálat nyilvántartást vezet, amely átminősítés esetében tartalmazza az átminősítést megelőző szolgálati beosztás megjelölését is. Az átminősített vagy létrehozott új álláshely megüresedése esetén az Országgyűlési Őrség parancsnoka 5 munkanapon belül gondoskodik az átminősített álláshely visszaminősítéséről vagy a létrehozott álláshely megszüntetéséről, és ennek tényéről értesíti a humánigazgatási szakszolgálatot.
 
-[^2]: Az 5. § (3) bekezdését a 40/2017. (XII. 29.) BM rendelet 17. § (1) bekezdése iktatta be.
+[^4]: Az 5. § (3) bekezdését a 40/2017. (XII. 29.) BM rendelet 17. § (1) bekezdése iktatta be.

@@ -6,7 +6,7 @@ b) a Hszt. 82/A. § (2) bekezdésében meghatározott feltétel hiánya a joger�
 
 c) a Hszt. 82/A. § (5) vagy (6) bekezdését kell alkalmazni,
 
-## akkor a 4–5. §-ban meghatározott eljárást a humánigazgatási szakszolgálat befejezi.
+akkor a 4–5. §-ban meghatározott eljárást a humánigazgatási szakszolgálat befejezi.
 
 (2) Az (1) bekezdés szerinti esetben a humánigazgatási szakszolgálat a hiányzó objektív feltétel megjelölésével és részletes indokolással együtt előterjesztést tesz az Országgyűlési Őrség parancsnokának az egészségkárosodási ellátásra jogosultság hiányának megállapítására irányuló döntés meghozatalára, amelyről az Országgyűlési Őrség parancsnoka soron kívül dönt.
 
