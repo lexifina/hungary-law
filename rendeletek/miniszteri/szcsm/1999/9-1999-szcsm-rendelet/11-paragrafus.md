@@ -1,3 +1,3 @@
-## 10. §[^32]
+11. §[^34]
 
-[^32]: A 10. §-t a 25/2013. (III. 29.) EMMI rendelet 11. § c) pontja hatályon kívül helyezte.
+[^34]: A 11. §-t a 10/2006. (XII. 27.) SZMM rendelet 12. § (2) bekezdésének d) pontja hatályon kívül helyezte.

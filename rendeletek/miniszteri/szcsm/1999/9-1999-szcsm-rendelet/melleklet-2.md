@@ -298,9 +298,9 @@
 
 ## A vagyonnyilatkozatban feltüntetett pénzvagyonról a kérelemhez mellékelni kell a bankszámlakivonat, a betétkönyv, illetve a takarékbetét-szerződés másolatát.
 
-2. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^77]
+2. számú melléklet a 9/1999. (XI. 24.) SZCSM rendelethez[^78]
 
-## ELŐGONDOZÁSI ADATLAP
+ELŐGONDOZÁSI ADATLAP
 
 1. Felvétel helye, ideje:
 
@@ -438,4 +438,4 @@ Az előgondozást végző személy neve, aláírása
 
 |  | * nem kötelező kitölteni” |  |
 
-[^77]: A 2. számú melléklet a 25/2013. (III. 29.) EMMI rendelet 9. §-ával megállapított, a 19/2014. (III. 13.) EMMI rendelet 41. § b) pontja szerint módosított szöveg.
+[^78]: A 2. számú melléklet a 25/2013. (III. 29.) EMMI rendelet 9. §-ával megállapított, a 19/2014. (III. 13.) EMMI rendelet 41. § b) pontja szerint módosított szöveg.
