@@ -1,6 +1,5 @@
-43. § (1)[^143] Az Szt. 92/L. § (1) bekezdése és a Gyvt. 100/A. § (1) bekezdése alapján kiszabott bírságot a kiszabó határozat véglegessé válását követő harminc napon belül kell megfizetni az eljáró működést engedélyező szervnek.
+43. §[^141] (1) Az Szt. 92/L. § (1) bekezdése és a Gyvt. 100/A. § (1) bekezdése alapján kiszabott bírságot a kiszabó határozat véglegessé válását követő harminc napon belül kell megfizetni a bírságot kiszabó működést engedélyező szerv központosított beszedési számlájára.
 
-(2)[^144] A bírságból befolyt összeget a működést engedélyező szerv negyedévente, a negyedévet követő hónap 20-áig központosított beszedési számlára utalja át. A működést engedélyező szerv az átutalással egyidejűleg a bírságot kiszabó, véglegessé vált határozat másolatát megküldi a szociálpolitikáért felelős miniszternek.
+(2) A működést engedélyező szerv a bírságot kiszabó, véglegessé vált határozat másolatát megküldi a szociálpolitikáért felelős miniszternek.
 
-[^143]: A 43. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 455. § (8) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^144]: A 43. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 760. § b)–c) pontja, a 244/2016. (VIII. 17.) Korm. rendelet 5. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés n) pontja, a 457/2017. (XII. 28.) Korm. rendelet 457. § 14. pontja, a 312/2019. (XII. 18.) Korm. rendelet 9. §-a, a 238/2022. (VI. 30.) Korm. rendelet 133. § i) pontja szerint módosított szöveg.
+[^141]: A 43. § a 629/2022. (XII. 30.) Korm. rendelet 40. §-ával megállapított szöveg.
