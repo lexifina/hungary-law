@@ -1,1 +1,1 @@
-### 76. §
+76. § A mozgóképről szóló 2004. évi II. törvény 13. § (5) bekezdésében meghatározott gyártási költségvetési értékhatár a 2023. évben magyar filmalkotás esetén 389,5 millió forint, magyar részvételű koprodukciós filmalkotás esetén 662,5 millió forint.

@@ -1,1 +1,7 @@
-### 33. §
+33. § (1) Az Európai Bizottság által a 2014–2020-as programozási időszakban kohéziós alapokból, illetve a leginkább rászoruló személyeket támogató európai segítségnyújtási alapból finanszírozott programok esetén az 5. mellékletben meghatározott és kötelezettségvállalással még nem terhelt kötelezettségvállalási keret és az ahhoz kapcsolódó központi költségvetési forrás együttes összegéig vállalható tárgyévi és éven túli fizetési kötelezettség.
+
+(2) Az Európai Bizottság által a 2014–2020-as programozási időszakra létrehozott Európai Mezőgazdasági Vidékfejlesztési Alap (a továbbiakban: EMVA) és az Európai Tengerügyi és Halászati Alap által finanszírozott projektek esetén az 5. mellékletben meghatározott – 2021–2022-es átmeneti évek, valamint a Next Generation EU forrásaival növelt – kötelezettségvállalással még nem terhelt kötelezettségvállalási keretek és a kapcsolódó központi költségvetési források együttes összegéig vállalható tárgyévi és éven túli fizetési kötelezettség.
+
+(3) Az Európai Bizottság által a 2014–2020-as programozási időszakra létrehozott Belső Biztonsági Alap és Menekültügyi, Migrációs és Integrációs Alap által finanszírozott projektek esetén az 5. mellékletben meghatározott és kötelezettségvállalással még nem terhelt kötelezettségvállalási keret és a kapcsolódó központi költségvetési forrás együttes összegéig vállalható tárgyévi és éven túli fizetési kötelezettség.
+
+(4) Az európai uniós tagsághoz kapcsolódó támogatások maradéktalan felhasználása érdekében az (1)–(2) bekezdésben meghatározott mértéken túl a Kormány rendeletében meghatározottak szerint, míg a (3) bekezdésben meghatározott mértéken túl, az államháztartásért felelős miniszter egyetértésével vállalható tárgyévi és éven túli fizetési kötelezettség.
