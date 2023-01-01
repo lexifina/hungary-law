@@ -2,6 +2,6 @@
 
 ## 11. Hatályon kívül helyező rendelkezés
 
-33. §[^52]
+33. §[^53]
 
-[^52]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

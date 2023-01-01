@@ -1,3 +1,3 @@
-12. §[^20]
+12. §[^21]
 
-[^20]: A 12. §-t a 37/2021. (VIII. 31.) EMMI rendelet 29. § a) pontja hatályon kívül helyezte.
+[^21]: A 12. §-t a 37/2021. (VIII. 31.) EMMI rendelet 29. § a) pontja hatályon kívül helyezte.

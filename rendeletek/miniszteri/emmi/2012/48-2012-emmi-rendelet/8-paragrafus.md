@@ -4,6 +4,8 @@ a) a tanügyi dokumentumok vezetésére való kötelezettség betartásának tá
 
 b) közreműködés a nevelési-oktatási intézmények pedagógiai programjainak elkészítésében, felülvizsgálatában és módosításában,
 
-c) a megyei, fővárosi köznevelés-fejlesztési tervben foglaltakkal összhangban, az egyházi és magán fenntartó fenntartásában működő köznevelési intézmények vonatkozásában az intézményszerkezetre vonatkozó tanácsadás,
+c)[^18] a vármegyei, fővárosi köznevelés-fejlesztési tervben foglaltakkal összhangban, az egyházi és magán fenntartó fenntartásában működő köznevelési intézmények vonatkozásában az intézményszerkezetre vonatkozó tanácsadás,
 
 d) intézményvezetők számára szakmai tanácskozások, tájékoztatók tartása, tapasztalatcserék szervezése.
+
+[^18]: A 8. § c) pontja a 45/2022. (XII. 20.) BM rendelet 69. §-a szerint módosított szöveg.

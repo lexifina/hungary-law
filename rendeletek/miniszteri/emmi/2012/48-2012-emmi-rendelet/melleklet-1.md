@@ -1,4 +1,4 @@
-1. melléklet a 48/2012. (XII. 12.) EMMI rendelethez[^53]
+1. melléklet a 48/2012. (XII. 12.) EMMI rendelethez[^54]
 
 A pedagógiai intézetben kötelezően foglalkoztatott alkalmazottak létszáma
 
@@ -44,4 +44,4 @@ III. Alkalmazottak más feladatok ellátásához
 
 2. Az I–III. pontban foglalt táblázatban meghatározottaktól, a 22. § (1) bekezdésében foglaltak szerint, az intézmény javára el lehet térni.
 
-[^53]: Az 1. melléklet a 26/2015. (V. 22.) EMMI rendelet 14. §-ával megállapított szöveg.
+[^54]: Az 1. melléklet a 26/2015. (V. 22.) EMMI rendelet 14. §-ával megállapított szöveg.
