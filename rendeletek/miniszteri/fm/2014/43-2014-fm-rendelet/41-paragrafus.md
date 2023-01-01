@@ -6,7 +6,7 @@ b) a törzskönyvi nyilvántartásban szereplő és a támogatási évben nyilv�
 
 c) a törzskönyvi nyilvántartásban szereplő élő törzskosok és -bakok, továbbá a támogatási év folyamán beállított törzskosok és -bakok
 
-## után.
+után.
 
 (2)[^59]
 

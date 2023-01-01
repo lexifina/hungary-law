@@ -4,7 +4,7 @@ a) élő kocák, valamint
 
 b) a tárgyévben fialt kocasüldők (előhasi kocák)
 
-## után.
+után.
 
 (2)[^47]
 

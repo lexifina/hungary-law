@@ -4,7 +4,7 @@ a) a tárgyév január 1-jén már a főtörzskönyvben szereplő tenyészkancá
 
 b) a tenyésztési hatóság által főtörzskönyvi számmal ellátott, a tárgyévben tenyésztési engedélyt kapott mének és szamármének
 
-## után.
+után.
 
 (2)[^71]
 

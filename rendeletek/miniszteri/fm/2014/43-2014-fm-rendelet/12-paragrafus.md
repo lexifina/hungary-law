@@ -14,7 +14,7 @@ bb) a törzskönyvi nyilvántartásba támogatási év során felvett, legalább
 
 bc) a támogatási évben apaállattá nyilvánított, KPLSZ-szel ellátott, Magyarországon legalább 6 hónapot élő tenyészbikák
 
-## után.
+után.
 
 (2)[^26] A támogatásra való jogosultság feltétele minden fajta esetében, hogy a támogatott egyedek szaporítását (termékenyítés, fedeztetés) az Állat, Növény, Élelmiszer-biztonsági és Borminősítési Információs Rendszer részét képező Szarvasmarha Információs Rendszerbe (a továbbiakban: SZIR) szabályszerűen bejelentették, és azt a rendszer regisztrálta.
 

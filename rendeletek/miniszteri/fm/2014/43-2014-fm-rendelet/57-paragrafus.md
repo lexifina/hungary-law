@@ -4,7 +4,7 @@ a)[^74] mén, vagy méncsikó az állami ménesben, vagy a tenyésztési hatós�
 
 b)[^75] a legfeljebb 4 éves korú méncsikó az állami ménesben, vagy a tenyésztési hatóság által elismert más központi helyszínen került felkészítésre és ugyanott a felkészítés végén eredményes vizsgát tett,
 
-## és ezt a tenyésztési hatóság jelen lévő szakembere a vizsgalapokon aláírásával igazolta.
+és ezt a tenyésztési hatóság jelen lévő szakembere a vizsgalapokon aláírásával igazolta.
 
 (2)[^76]
 

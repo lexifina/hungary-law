@@ -1,5 +1,3 @@
-## 10. §
-
 ## KÜLÖNÖS RÉSZ
 
 ## A TÁMOGATÁS IGÉNYBEVÉTELÉNEK RÉSZLETES SZABÁLYAI

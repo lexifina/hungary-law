@@ -1,5 +1,3 @@
-## 42. §[^60]
-
 ## 16. Teljesítményvizsgálat
 
 ## 43. § Támogatás a Juh Teljesítményvizsgálati Kódexben (a továbbiakban: Juh Kódex) és a Kecske Teljesítményvizsgálati Kódexben (a továbbiakban: Kecske Kódex), vagy a tenyésztési programban foglalt teljesítményvizsgálat végzése célterület keretében az alábbi tevékenységekre vehető igénybe:
@@ -19,5 +17,3 @@ f) tenyészkosok üzemi ivadékvizsgálata (gyapjú),
 g) tenyészkosok és -bakok üzemi ivadékvizsgálata (hús-tej),
 
 h) növendékkosok és -bakok központi sajátteljesítmény vizsgálata.
-
-[^60]: A 42. §-t a 62/2020. (XII. 12.) AM rendelet 10. § e) pontja hatályon kívül helyezte.
