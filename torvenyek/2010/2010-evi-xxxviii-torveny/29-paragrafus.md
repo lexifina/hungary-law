@@ -8,4 +8,4 @@ c) a jegyző vagy a közjegyző – az eset arra okot adó körülményeire figy
 
 d) helyszíni leltározást az örökösként érdekelt személy, a végrendeleti végrehajtó, a hagyatéki hitelező vagy a gyámhatóság kéri.
 
-(2) A helyszíni leltár felvételének idejéről és helyéről értesíteni kell az ismert öröklésben érdekelteket.
+(2) A helyszíni leltár felvételének idejéről és helyéről értesíteni kell az ismert öröklésben érdekelteket, valamint a 28. § (1a) bekezdése szerinti esetben az ügyvédi kamarai nyilvántartásba bejegyzett irodagondnokot.

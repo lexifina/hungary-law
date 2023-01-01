@@ -1,6 +1,8 @@
-28. § (1) Ha a rendelkezésre álló adatok alapján az örökhagyó a halálakor közjegyző, ügyvéd, önálló bírósági végrehajtó, igazságügyi szakértő, gyám, gondnok vagy bizalmi vagyonkezelő, továbbá gazdasági társaság egyetlen bejegyzett vezető tisztségviselője vagy többségi befolyással rendelkező tagja volt, ennek tényét, valamint azoknak a vagyontárgyaknak, iratoknak a jegyzékét, amelyek az örökhagyó e tevékenységével kapcsolatosak és a leltárban nem szerepelnek, jegyzőkönyvben kell feltüntetni.
+28. § (1) Ha a rendelkezésre álló adatok alapján az örökhagyó a halálakor közjegyző, önálló bírósági végrehajtó, igazságügyi szakértő, gyám, gondnok vagy bizalmi vagyonkezelő, továbbá gazdasági társaság egyetlen bejegyzett vezető tisztségviselője vagy többségi befolyással rendelkező tagja volt, ennek tényét, valamint azoknak a vagyontárgyaknak, iratoknak a jegyzékét, amelyek az örökhagyó e tevékenységével kapcsolatosak és a leltárban nem szerepelnek, jegyzőkönyvben kell feltüntetni.
 
-(2) A jegyző vagy a közjegyző, ha adat merül fel arra vonatkozóan, hogy az örökhagyó
+(1a) Ha az örökhagyó a halálakor ügyvéd volt, az (1) bekezdés szerinti jegyzőkönyv felvétele helyett a hagyatéki leltárban ennek tényét kell feltüntetni, valamint az ügyvédi tevékenységről szóló törvény alapján kijelölt irodagondnok által készített nyitó jegyzőkönyv iktatószámát, ha azt az irodagondnok a hagyatéki leltár elkészültéig közölte.
+
+(2) A jegyző vagy a közjegyző, ha adat merül fel arra vonatkozóan, hogy az örökhagyó a halálakor
 
 a) közjegyző volt, akkor az országos kamarát,
 
@@ -16,7 +18,7 @@ f) szerzői jogi védelem alatt álló alkotás vagy kapcsolódó jogi teljesít
 
 a szükséges intézkedések megtétele végett haladéktalanul értesíti az örökhagyó haláláról.
 
-(3) A jegyző vagy a közjegyző a (2) bekezdésben meghatározott szakmai szervezet részére az (1) bekezdésben foglalt jegyzőkönyvet megküldi. A jegyzőkönyvet akkor is meg kell küldeni, ha leltározásra nem került sor.
+(3) A jegyző vagy a közjegyző a (2) bekezdés a), c)–f) pontjában meghatározott szakmai szervezet részére az (1) bekezdésben foglalt jegyzőkönyvet megküldi. A jegyzőkönyvet akkor is meg kell küldeni, ha leltározásra nem került sor.
 
 (4) A jegyző vagy a közjegyző a szükséges intézkedések megtétele végett haladéktalanul értesíti a halálesetről – ha adat merül fel arra vonatkozóan, hogy a halál pillanatában ilyen személy volt – az örökhagyó gondnokát, illetve gyámját.
 
