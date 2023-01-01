@@ -8,21 +8,7 @@
 
 ## 2.[^1] az 1. pont szerinti beruházásoknak a Beruházás Előkészítési Alap felhasználásával kapcsolatos döntési hatáskörökről szóló 222/2017. (VIII. 11.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. § (2) bekezdés m), n) és o) pontja szerinti előkészítési fázisaira összesen – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – legfeljebb 394 729 200 forint forrást biztosít a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére azzal, hogy az előkészítési fázisokat legkésőbb 2021. március 31-ig kell megvalósítani;
 
-## 3.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva – a 2. pontban foglaltak megvalósítása érdekében – elrendeli a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 15. Gyermek és ifjúsági szakmai feladatok alcím, 3. Ifjúságpolitikai feladatok támogatása jogcímcsoport, 2. Gyermek és ifjúsági szakmafejlesztési célok jogcím javára 393 000 000 forint, továbbá a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 48. Kincstári díj és pénzügyi tranzakciós illeték alcím javára 1 729 200 forint egyszeri átcsoportosítását, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszatérítési kötelezettséggel, az 1. melléklet szerint;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: 2019. január 10.
-
-## Az elszámolási és visszafizetési kötelezettség tekintetében
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## Határidő: az előkészítési fázisok befejezését követő 120 napon belül
+## 3.[^2]
 
 ## 4.[^3] az 1. pont szerinti beruházások előkészítésének kormányzati felelőseként az a Miniszterelnökséget vezető minisztert jelöli ki;
 
@@ -60,12 +46,13 @@
 
 ## Határidő: 2020. december 31.
 
-1. melléklet az 1701/2018. (XII. 17.) Korm. határozathoz
+1. melléklet az 1701/2018. (XII. 17.) Korm. határozathoz[^8]
 
 [^1]: A 2. pont az 1158/2020. (IV. 15.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
-[^2]: A 3. pont az 1158/2020. (IV. 15.) Korm. határozat 3. pont b) alpontja, az 1211/2022. (IV. 5.) Korm. határozat 9. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^3]: A 4. pont az 1211/2022. (IV. 5.) Korm. határozat 9. pont b) alpontja szerint módosított szöveg.
 [^4]: A 6. pont az 1211/2022. (IV. 5.) Korm. határozat 9. pont c) alpontja szerint módosított szöveg.
 [^5]: A 7. pont az 1211/2022. (IV. 5.) Korm. határozat 9. pont c) alpontja szerint módosított szöveg.
 [^6]: A 7. pont a) alpontját az 1158/2020. (IV. 15.) Korm. határozat 4. pontja visszavonta.
 [^7]: A 9. pont az 1158/2020. (IV. 15.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
+[^8]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
