@@ -22,7 +22,7 @@ g) a Gazdasági Ellátó Igazgatóság.
 
 (3) A jogszabályban meghatározott vámszervi feladatokat a következő területi szervek látják el:
 
-a) a megyei (fővárosi) adó-és vámigazgatóságok (a továbbiakban: megyei igazgatóságok),
+a)[^1] a vármegyei (fővárosi) adó-és vámigazgatóságok (a továbbiakban: vármegyei igazgatóságok),
 
 b) a KAVIG,
 
@@ -31,3 +31,5 @@ c) a Repülőtéri Igazgatóság,
 d) a Szakértői Intézet és
 
 e) a Bevetési Igazgatóság.
+
+[^1]: Az 1. § (3) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 228. § a) pontja szerint módosított szöveg.

@@ -6,7 +6,7 @@
 
 ## 11. § A Fellebbviteli Igazgatóság jár el
 
-a) a megyei igazgatóságok,
+a)[^34] a vármegyei igazgatóságok,
 
 b) a KAVIG,
 
@@ -17,3 +17,5 @@ d) a Bevetési Igazgatóság és
 e) a Szakértői Intézet
 
 első fokon hozott döntéseivel, intézkedéseivel szemben induló jogorvoslati eljárásokban.
+
+[^34]: A 11. § a) pontja a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja szerint módosított szöveg.

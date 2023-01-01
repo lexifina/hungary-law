@@ -1,4 +1,4 @@
-## I/B. Fejezet[^8]
+## I/B. Fejezet[^9]
 
 ## FENNTARTHATÓ GAZDASÁGFEHÉREDÉSÉRT FELELŐS BIZOTTSÁG
 
@@ -18,4 +18,4 @@ jelöl.
 
 (5) A Bizottság önálló munkaszervezettel nem rendelkezik, a titkársági feladatait a NAV látja el.
 
-[^8]: Az I/B. fejezetet (3/B. §) a 670/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^9]: Az I/B. fejezetet (3/B. §) a 670/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.

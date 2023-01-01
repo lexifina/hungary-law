@@ -1,3 +1,3 @@
-## 71. §[^164] A KAVIG folytatja le a hatáskörébe tartozó adózók esetében az EMGA utólagos ellenőrzést, valamint a helyszíni szemlét.
+## 71. §[^230] A KAVIG folytatja le a hatáskörébe tartozó adózók esetében az EMGA utólagos ellenőrzést, valamint a helyszíni szemlét.
 
-[^164]: A 71. § a 670/2020. (XII. 28.) Korm. rendelet 18. § j) pontja szerint módosított szöveg.
+[^230]: A 71. § a 670/2020. (XII. 28.) Korm. rendelet 18. § j) pontja szerint módosított szöveg.

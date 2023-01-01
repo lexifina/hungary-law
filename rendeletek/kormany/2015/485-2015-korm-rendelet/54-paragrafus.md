@@ -4,24 +4,26 @@
 
 54. § (1) A Rega. tv.-ben meghatározott adóztatási feladatok végrehajtására elsőfokú adóhatósági jogkörben a következők szervek járnak el
 
-a)[^114] a megyei (fővárosi) igazgatóságok, illetve azon kiemelt adózók tekintetében, amelyeknek a székhelye Budapest, illetve Pest megye közigazgatási területén található a KAVIG,
+a)[^172] a vármegyei (fővárosi) igazgatóságok, illetve azon kiemelt adózók tekintetében, amelyeknek a székhelye Budapest, illetve Pest vármegye közigazgatási területén található a KAVIG,
 
-b) a Magyar Honvédség Pápa Bázis Repülőterén dolgozó EU tagországain kívüli állampolgárok tekintetében a Veszprém Megyei Adó- és Vámigazgatóság;
+b)[^173] a Magyar Honvédség Pápa Bázis Repülőterén dolgozó EU tagországain kívüli állampolgárok tekintetében a Veszprém Vármegyei Adó- és Vámigazgatóság;
 
 c) a regisztrációs adónak a Rega. tv. 10/A–10/G. §-ában foglalt különös szabályok szerint történő megállapítása, beszedése és ellenőrzése tekintetében
 
-ca)[^115] ha a kérelmező lakóhelye vagy székhelye Bács-Kiskun megye, Békés megye, Borsod-Abaúj-Zemplén megye, Csongrád-Csanád megye, Hajdú-Bihar megye, Jász-Nagykun-Szolnok megye vagy Szabolcs-Szatmár-Bereg megye területén található, a Békés Megyei Adó- és Vámigazgatóság,
+ca)[^174] ha a kérelmező lakóhelye vagy székhelye Bács-Kiskun vármegye, Békés vármegye, Borsod-Abaúj-Zemplén vármegye, Csongrád-Csanád vármegye, Hajdú-Bihar vármegye, Jász-Nagykun-Szolnok vármegye vagy Szabolcs-Szatmár-Bereg vármegye területén található, a Békés Vármegyei Adó- és Vámigazgatóság,
 
-cb)[^116] ha a kérelmező lakóhelye vagy székhelye Budapest, Baranya megye, Fejér megye, Heves megye, Komárom-Esztergom megye, Nógrád megye, Pest megye vagy Tolna megye területén található, a Komárom-Esztergom Megyei Adó- és Vámigazgatóság, a
+cb)[^175] ha a kérelmező lakóhelye vagy székhelye Budapest, Baranya vármegye, Fejér vármegye, Heves vármegye, Komárom-Esztergom vármegye, Nógrád vármegye, Pest vármegye vagy Tolna vármegye területén található, a Komárom-Esztergom Vármegyei Adó- és Vámigazgatóság, a
 
-cc) ha a kérelmező lakóhelye vagy székhelye Győr-Moson-Sopron megye, Somogy megye, Vas megye, Veszprém megye vagy Zala megye területén található, a Vas Megyei Adó- és Vámigazgatóság.
+cc)[^176] ha a kérelmező lakóhelye vagy székhelye Győr-Moson-Sopron vármegye, Somogy vármegye, Vas vármegye, Veszprém vármegye vagy Zala vármegye területén található, a Vas Vármegyei Adó- és Vámigazgatóság.
 
-(2)[^117] A regisztrációs adó-visszatérítési eljárásban a regisztrációs adó megállapítására irányuló eljárást lefolytató szerv jár el.
+(2)[^177] A regisztrációs adó-visszatérítési eljárásban a regisztrációs adó megállapítására irányuló eljárást lefolytató szerv jár el.
 
-(3)[^118] Az (1) bekezdés a) és b) pontja szerinti esetben a regisztrációs adóval kapcsolatos adóellenőrzés lefolytatását a regisztrációs adó megállapítására irányuló eljárást lefolytató szerv végzi.
+(3)[^178] Az (1) bekezdés a) és b) pontja szerinti esetben a regisztrációs adóval kapcsolatos adóellenőrzés lefolytatását a regisztrációs adó megállapítására irányuló eljárást lefolytató szerv végzi.
 
-[^114]: Az 54. § (1) bekezdés a) pontja a 481/2016. (XII. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^115]: Az 54. § c) pont ca) alpontja a 371/2020. (VII. 30.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
-[^116]: Az 54. § (1) bekezdés c) pont cb) alpontja a 481/2016. (XII. 28.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
-[^117]: Az 54. § (2) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^118]: Az 54. § (3) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 79. § 18. pontja szerint módosított szöveg.
+[^172]: Az 54. § (1) bekezdés a) pontja a 481/2016. (XII. 28.) Korm. rendelet 13. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 228. § b) és d) pontja szerint módosított szöveg.
+[^173]: Az 54. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 228. § f) pontja szerint módosított szöveg.
+[^174]: Az 54. § c) pont ca) alpontja a 371/2020. (VII. 30.) Korm. rendelet 36. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 228. § e)-f) pontja szerint módosított szöveg.
+[^175]: Az 54. § (1) bekezdés c) pont cb) alpontja a 481/2016. (XII. 28.) Korm. rendelet 21. § c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 228. § e)-f) pontja szerint módosított szöveg.
+[^176]: Az 54. § (1) bekezdés c) pont cc) alpontja a 616/2022. (XII. 29.) Korm. rendelet 228. § e)-f) pontja szerint módosított szöveg.
+[^177]: Az 54. § (2) bekezdése a 311/2018. (XII. 27.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^178]: Az 54. § (3) bekezdése a 475/2017. (XII. 28.) Korm. rendelet 79. § 18. pontja szerint módosított szöveg.

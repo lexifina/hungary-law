@@ -1,5 +1,5 @@
-## 7.[^29]
+## 7.[^30]
 
 10. §
 
-[^29]: A 7. alcímet (10. §) a 183/2017. (VII. 5.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^30]: A 7. alcímet (10. §) a 183/2017. (VII. 5.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
