@@ -74,3 +74,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2022-05-25 | 2022. évi IV. törvény | 2004-1-00-00.81 |
 | 2022-07-28 | 2022. évi XXIV. törvény | 2004-1-00-00.82 |
 | 2022-12-17 | 2022. évi LVII. törvény | 2004-1-00-00.84 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2004-1-00-00.83 |

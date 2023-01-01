@@ -26,7 +26,7 @@ i) közterület: a mindenki számára korlátozás nélkül igénybe vehető ter
 
 j) nyilvános hely: az olyan épület, építmény vagy a közterületnek sportrendezvény megtartása céljából lezárt része, ahová a sportrendezvény szervezője által meghatározott feltételek mellett bárki bemehet vagy ott tartózkodhat,
 
-k) országos jellegű szervezet a szabadidősport, a fogyatékosok sportja, a diák- és az egyetemi-főiskolai sport területén: a szervezet közhasznúnak minősül, és legalább 7 megyében székhellyel rendelkező, országosan legalább 20 jogi személy taggal működik,
+k) országos jellegű szervezet a szabadidősport, a fogyatékosok sportja, a diák- és az egyetemi-főiskolai sport területén: a szervezet közhasznúnak minősül, és legalább 7 vármegyében székhellyel rendelkező, országosan legalább 20 jogi személy taggal működik,
 
 l) sportakadémia: a sportakadémiai minősítés megszerzéséről és a sportakadémia működéséről szóló kormányrendeletben meghatározott feltételeknek megfelelő és az erre vonatkozó igazolással rendelkező, olimpiai sportágban működő olyan sportszervezet, amely sportág-specifikus, kiemelkedően magas színvonalú utánpótlás-nevelési, képzési, sporttudományos, sportegészségügyi, infrastrukturális és sportmenedzsment feltételek és szolgáltatások biztosításával gondoskodik a tehetség-kiválasztásról, -gondozásról és -fejlesztésről, a versenyzők magas szintű sportszakmai felkészítéséről, versenyeztetéséről, továbbá szervezi a sportolók sporttevékenységgel összefüggő és tanulmányi kötelezettségeinek teljesítését segítő körülmények megteremtését. A sportakadémia állami sportcélú támogatásban részesíthető;
 

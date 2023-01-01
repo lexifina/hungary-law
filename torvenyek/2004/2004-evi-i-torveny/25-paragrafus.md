@@ -4,7 +4,7 @@
 
 (3) Amennyiben a szakszövetség területi szervezeti egységeket hoz létre és ezeket jogi személynek nyilvánítja, a szakszövetség közgyűlése:
 
-a) engedélyezheti a területre utaló (pl. ,,megyei szövetség'') elnevezés használatát a szervezeti egység részére,
+a) engedélyezheti a területre utaló (pl. ,,vármegyei szövetség'') elnevezés használatát a szervezeti egység részére,
 
 b) a területi szervezet részére olyan vezetési-szervezeti rendet állapíthat meg, mely szerint a szakszövetség adott területen székhellyel rendelkező tagjai gyűlésükön maguk választhatják meg a szervezeti egység vezetőit,
 
