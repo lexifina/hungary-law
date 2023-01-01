@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-29-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1993-12-01 | 1993-29-20-6D.1 | 29/1993. (XI. 23.) KTM—MKM együttes rendelet |
+| 2023-01-01 | 1993-29-20-6D.2 | 2/2022. (XII. 27.) ÉKM rendelet |
