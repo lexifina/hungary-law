@@ -16,7 +16,7 @@ fa) I. melléklet A. részében felsorolt, a kutya, a macska vagy a görény faj
 
 fb) I. melléklet B. részében felsorolt valamely fajhoz tartozó állat,
 
-## amely az állattartót nem kereskedelmi célú mozgás során kíséri;
+amely az állattartót nem kereskedelmi célú mozgás során kíséri;
 
 g) nem kereskedelmi célú mozgás: az 576/2013/EU európai parlamenti és tanácsi rendelet 3. cikk a) pontja szerinti mozgás, amennyiben az állatok száma nem haladja meg fajonként az ötöt, kivéve az 576/2013/EU európai parlamenti és tanácsi rendelet 5. cikk (2) bekezdése szerinti eseteket;
 

@@ -6,7 +6,7 @@ b) a jogszabály által előírt esetben szükséges szerológiai vizsgálathoz 
 
 c) az állat védőoltását, és egyéb, jogszabályban vagy szakmai indok alapján előírt kezelését, továbbá minden, az állat egészségére vonatkozó lényeges információt
 
-## az útlevélbe bejegyezni.
+az útlevélbe bejegyezni.
 
 (2) Az állatorvos az útlevelet az adott állat részére csak akkor állítja ki, ha annak egyedi megjelölése az 5. § (2) bekezdése szerint megtörtént.
 

@@ -8,6 +8,6 @@ c) az 576/2013/EU európai parlamenti és tanácsi rendelet szerinti, a kutyák,
 
 d) a kutyák, macskák és görények behozatalára engedéllyel rendelkező területek és harmadik országok jegyzékének, továbbá az ezen állatok behozatalára vonatkozó bizonyítványminta megállapításáról szóló, 2013. október 21-i 2013/519/EU bizottsági végrehajtási határozat
 
-## végrehajtásához szükséges rendelkezéseket állapít meg.
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) Ez a rendelet a 92/65/EGK tanácsi irányelvnek a kutyák, macskák és görények Unión belüli kereskedelmére és Unióba való behozatalára irányadó állat-egészségügyi követelmények tekintetében történő módosításáról szóló, 2013. június 12-i 2013/31/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
