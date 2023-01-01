@@ -1,3 +1,3 @@
-137. §[^494] A számviteli szétválasztásra vonatkozó fő követelményeket és alapelveket e rendelet 8. számú melléklete tartalmazza.
+137. §[^497] A számviteli szétválasztásra vonatkozó fő követelményeket és alapelveket e rendelet 8. számú melléklete tartalmazza.
 
-[^494]: A Vhr. 137. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^497]: A Vhr. 137. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.

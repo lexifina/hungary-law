@@ -1,12 +1,12 @@
-37. §[^160] (1)–(4)[^161]
+37. §[^162] (1)–(4)[^163]
 
-(5)[^162] A szervezett földgázpiacon forgalmazott termék, ügylettípus vagy kereskedési módszer bevezetésére, megváltoztatására, kivezetésére a szervezett földgázpiaci szabályzat rendelkezései irányadók. Abban az esetben, ha a forgalmazott termékek között megtalálhatóak a 312/2014/EU bizottsági rendelet 7. cikke szerinti rövid távú szabványtermékek, a Hivatal a szervezett földgázpiaci szabályzatot kereskedési platform szabályzatként is jóváhagyja.
+(5)[^164] A szervezett földgázpiacon forgalmazott termék, ügylettípus vagy kereskedési módszer bevezetésére, megváltoztatására, kivezetésére a szervezett földgázpiaci szabályzat rendelkezései irányadók. Abban az esetben, ha a forgalmazott termékek között megtalálhatóak a 312/2014/EU bizottsági rendelet 7. cikke szerinti rövid távú szabványtermékek, a Hivatal a szervezett földgázpiaci szabályzatot kereskedési platform szabályzatként is jóváhagyja.
 
-(6)[^163] A szervezett földgázpiacon végezhető származtatott ügyletekre, továbbá más energiahordozónak, az energiaellátáshoz kapcsolódó egyéb terméktípusnak vagy vagyoni értékű jognak a szervezett földgázpiacra történő bevezetésére, valamint az azokkal való kereskedelemre vonatkozó rendelkezéseket – az e rendeletben meghatározottakkal összhangban – külön jogszabály tartalmazza.
+(6)[^165] A szervezett földgázpiacon végezhető származtatott ügyletekre, továbbá más energiahordozónak, az energiaellátáshoz kapcsolódó egyéb terméktípusnak vagy vagyoni értékű jognak a szervezett földgázpiacra történő bevezetésére, valamint az azokkal való kereskedelemre vonatkozó rendelkezéseket – az e rendeletben meghatározottakkal összhangban – külön jogszabály tartalmazza.
 
 (7) Külön jogszabály meghatározott mértékű és feltételek szerinti értékesítési kötelezettséget írhat elő a szervezett földgázpiacon.
 
-[^160]: A Vhr. 37. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^161]: A Vhr. 37. § (1)–(4) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 31. § (2) bekezdése hatályon kívül helyezte.
-[^162]: A Vhr. 37. § (5) bekezdése a 401/2020. (VIII. 17.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^163]: A Vhr. 37. § (6) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 31. § (1) bekezdése szerint módosított szöveg.
+[^162]: A Vhr. 37. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^163]: A Vhr. 37. § (1)–(4) bekezdését a 100/2011. (VI. 29.) Korm. rendelet 31. § (2) bekezdése hatályon kívül helyezte.
+[^164]: A Vhr. 37. § (5) bekezdése a 401/2020. (VIII. 17.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^165]: A Vhr. 37. § (6) bekezdése a 100/2011. (VI. 29.) Korm. rendelet 31. § (1) bekezdése szerint módosított szöveg.

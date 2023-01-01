@@ -1,4 +1,4 @@
-59. §[^250] (1) A lakossági fogyasztó – fogyatékkal élő fogyasztóként – a védendő fogyasztók nyilvántartásába történő felvételére való jogosultságát
+59. §[^252] (1) A lakossági fogyasztó – fogyatékkal élő fogyasztóként – a védendő fogyasztók nyilvántartásába történő felvételére való jogosultságát
 
 a) a 10. számú melléklet A) része szerinti, 30 napnál nem régebbi, kitöltött és aláírt nyomtatvány, és
 
@@ -12,7 +12,7 @@ benyújtásával igazolhatja. A benyújtott iratokat vagy azok másolatát az en
 
 (2) A fogyatékosság jellegét – amely a fogyatékkal élő fogyasztót alkalmatlanná teszi a fogyasztásmérő berendezés leolvasására, mérőállás közlésére, a számlaolvasásra, vagy a számla felhasználási helyen kívüli, készpénzes fizetéstől eltérő kiegyenlítésére – vagy az (1) bekezdés d) pontjának való megfelelést a kezelőorvos, ennek hiányában a háziorvos a 10. számú melléklet C) része szerinti nyomtatvány kitöltésével igazolja abból a célból, hogy az érintett engedélyes azonosítani tudja a jogszabályok és az üzletszabályzata szerinti különleges bánásmód jellegét, tartalmát.
 
-(3)[^251] Ha a rehabilitációs szakértői szerv az érintett személy egészségi állapotát, egészségkárosodását, fogyatékosságát vizsgálta, a kezelőorvos vagy háziorvos e szerv szakvéleménye, szakhatósági állásfoglalása vagy határozata alapján állapítja meg a fogyatékosság jellegét vagy az (1) bekezdés d) pontjának való megfelelést.
+(3)[^253] Ha a rehabilitációs szakértői szerv az érintett személy egészségi állapotát, egészségkárosodását, fogyatékosságát vizsgálta, a kezelőorvos vagy háziorvos e szerv szakvéleménye, szakhatósági állásfoglalása vagy határozata alapján állapítja meg a fogyatékosság jellegét vagy az (1) bekezdés d) pontjának való megfelelést.
 
-[^250]: A Vhr. 59. §-a a 378/2011. (XII. 31.) Korm. rendelet 50. §-ával megállapított szöveg.
-[^251]: A Vhr. 59. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 129. § (1) bekezdésével megállapított szöveg.
+[^252]: A Vhr. 59. §-a a 378/2011. (XII. 31.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^253]: A Vhr. 59. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 129. § (1) bekezdésével megállapított szöveg.

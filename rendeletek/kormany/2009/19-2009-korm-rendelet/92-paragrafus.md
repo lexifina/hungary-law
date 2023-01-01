@@ -1,4 +1,4 @@
-92. §[^330] Ha a kapacitásigény a betáplálási-kiadási pont szabad kapacitásából csak részben vagy nem biztosítható, a szállítási rendszerüzemeltető ajánlatot tehet a kapacitások fejlesztéssel történő biztosítására, melynek tartalmaznia kell
+92. §[^332] Ha a kapacitásigény a betáplálási-kiadási pont szabad kapacitásából csak részben vagy nem biztosítható, a szállítási rendszerüzemeltető ajánlatot tehet a kapacitások fejlesztéssel történő biztosítására, melynek tartalmaznia kell
 
 a) a betáplálási-kiadási ponton biztosított kapacitást,
 
@@ -8,4 +8,4 @@ c) a csatlakozási díj vagy fejlesztési hozzájárulás mértékét,
 
 d) a jogszabályokból és az ÜKSZ-ből eredő kötelezettségeket.
 
-[^330]: A Vhr. 92. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^332]: A Vhr. 92. §-a a 91/2015. (IV. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

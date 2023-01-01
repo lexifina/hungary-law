@@ -1,4 +1,4 @@
-111. §[^414] (1) A rendszerhasználó köteles a szállítási rendszerüzemeltető részére a napi szállítási feladatot a nominálás és az újranominálás során az ÜKSZ szerint megadni.
+111. §[^416] (1) A rendszerhasználó köteles a szállítási rendszerüzemeltető részére a napi szállítási feladatot a nominálás és az újranominálás során az ÜKSZ szerint megadni.
 
 (2) A rendszerhasználó jogosult a szállítási rendszerüzemeltető számára az ÜKSZ-ben és a kereskedési platform szabályzatában meghatározott módon a hidraulikai egyensúlyozáshoz szükséges eszközöket – a 312/2014/EU bizottsági rendelet 7. cikkének megfelelő rövid távú szabványterméket – felajánlani a kereskedési platformon.
 
@@ -6,4 +6,4 @@
 
 (4) A rendszerhasználó az egyensúlyozási elszámolás tárgyában megkötött szerződése szerinti biztosítékot köteles adni az elszámolóháznak annak üzletszabályzata szerint.
 
-[^414]: A Vhr. 111. §-át a 265/2009. (XII. 1.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte, újonnan a 91/2015. (IV. 9.) Korm. rendelet 17. § (2) bekezdése iktatta be, szövege a 401/2020. (VIII. 17.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^416]: A Vhr. 111. §-át a 265/2009. (XII. 1.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte, újonnan a 91/2015. (IV. 9.) Korm. rendelet 17. § (2) bekezdése iktatta be, szövege a 401/2020. (VIII. 17.) Korm. rendelet 26. §-ával megállapított szöveg.
