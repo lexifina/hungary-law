@@ -1,6 +1,6 @@
 10. § (1) A továbbképző szervezet a továbbképzéseket a pályázati kiírásban és a pályázatában foglaltak szerint köteles megszervezni.
 
-(2)[^9] A továbbképző szervezet – a továbbképzés megindítását megelőzően legalább tíz nappal – köteles az Intézetnek elektronikus levélben bejelenteni
+(2)[^13] A továbbképző szervezet – a továbbképzés megindítását megelőzően legalább tíz nappal – köteles az Intézetnek elektronikus levélben bejelenteni
 
 a) a képzés tényleges időpontját, helyszínét,
 
@@ -10,7 +10,7 @@ c) előzetes hozzájárulása esetén a szakmai felelős nevét, elérhetőség�
 
 d) a képzésben részt vevők tervezett létszámát.
 
-(3)[^10] A (2) bekezdés szerinti adatokban bekövetkező változást haladéktalanul be kell jelenteni az Intézetnek. Az Intézet a bejelentett adatokat a honlapján közhírré teszi, továbbá intézkedik a Szociális Ágazati Portálon való közhírré tételükről.
+(3)[^14] A (2) bekezdés szerinti adatokban bekövetkező változást haladéktalanul be kell jelenteni az Intézetnek. Az Intézet a bejelentett adatokat a honlapján közhírré teszi, továbbá intézkedik a Szociális Ágazati Portálon való közhírré tételükről.
 
 (4) A továbbképző szervezet a pályázati kiírásban meghatározott formában köteles
 
@@ -34,5 +34,5 @@ f) az értékelő kérdőíveket.
 
 (6) A továbbképző szervezet a továbbképzés befejezését követő tizenöt napon belül – a pályázati kiírásban meghatározott formában – beszámolót készít a továbbképzés megvalósításáról.
 
-[^9]: A 10. § (2) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 25. § f) pontja szerint módosított szöveg.
-[^10]: A 10. § (3) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 25. § g) pontja szerint módosított szöveg.
+[^13]: A 10. § (2) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 25. § f) pontja szerint módosított szöveg.
+[^14]: A 10. § (3) bekezdése a 610/2020. (XII. 18.) Korm. rendelet 25. § g) pontja szerint módosított szöveg.

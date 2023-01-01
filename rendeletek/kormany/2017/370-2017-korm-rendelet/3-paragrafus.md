@@ -1,10 +1,10 @@
 3. § (1) A jelnyelvi tolmács az 4. § szerinti bejelentés benyújtásakor nyilatkozik az általa vállalt tolmácsolási típusokról.
 
-(2) A jelnyelvi tolmács szakképesítéssel, jelnyelvi szaktolmács szakképesítés-ráépüléssel, a szakértő jeltolmács, továbbá a fordító jeltolmács bizonyítvánnyal rendelkező jelnyelvi tolmács a következő tolmácsolási típusokat láthatja el:
+(2)[^4] A jelnyelvi tolmács szakképesítéssel, jelnyelvi szaktolmács szakképesítés-ráépüléssel, a szakértő jeltolmács, a fordító jeltolmács bizonyítvánnyal, továbbá az 1. § g) pontja szerinti tanúsítvánnyal rendelkező jelnyelvi tolmács vagy siket jelnyelvi tolmács a következő tolmácsolási típusokat láthatja el:
 
 a) bíróság, hatóság vagy egyéb közhatalmat gyakorló szerv eljárása során végzett tolmácsolás,
 
-b)[^1] tanulói jogviszonnyal, hallgatói jogviszonnyal vagy felnőttképzési jogviszonnyal összefüggésben végzett tolmácsolás,
+b)[^5] tanulói jogviszonnyal, hallgatói jogviszonnyal vagy felnőttképzési jogviszonnyal összefüggésben végzett tolmácsolás,
 
 c) egészségügyi ellátás igénybevételekor végzett tolmácsolás,
 
@@ -22,4 +22,5 @@ h) média-tolmácsolás.
 
 (4) A relé jelnyelvi tolmács rész-szakképesítéssel rendelkező jelnyelvi tolmács – az adott tolmácsolási típus önálló ellátására jogosult jelnyelvi tolmáccsal együttesen – a (2) bekezdés a) és c)–g) pontja szerinti tolmácsolási típusokat láthatja el.
 
-[^1]: A 3. § (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 127. §-a szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdés nyitó szövegrésze a 629/2022. (XII. 30.) Korm. rendelet 50. § b) pontja szerint módosított szöveg.
+[^5]: A 3. § (2) bekezdés b) pontja a 13/2020. (II. 7.) Korm. rendelet 127. §-a szerint módosított szöveg.

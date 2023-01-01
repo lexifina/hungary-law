@@ -2,6 +2,8 @@
 
 (2) A tolmácsolási gyakorlatot az igazolja, aki vagy akinek jogelődje a bejelentőt foglalkoztatja vagy foglalkoztatta. Ha a foglalkoztató jogutód nélkül megszűnt, vagy a tolmácsolási gyakorlatot a bejelentő nem foglalkoztatottként teljesítette, a gyakorlatot a tolmácsolásra irányuló szerződéssel és az annak teljesítését igazoló dokumentummal kell igazolni.
 
-(3) Az 1. § d), e) vagy f) pontja szerinti szakképesítéssel, rész-szakképesítéssel, szakképesítés-ráépüléssel rendelkező személy esetében a képzés keretében, a 4. § szerinti bejelentés benyújtását megelőző három év során a szakmai vizsgára bocsátás feltételeként teljesített gyakorlatot a képzőhely igazolja.
+(3)[^3] Az 1. § d)–g) pontja szerinti szakképesítéssel, rész-szakképesítéssel, szakképesítés-ráépüléssel vagy tanúsítvánnyal rendelkező személy esetében a képzés keretében, a 4. § szerinti bejelentés benyújtását megelőző három év során a szakmai vizsgára bocsátás feltételeként teljesített gyakorlatot a képzőhely igazolja.
 
 (4) A (2) és (3) bekezdés szerinti igazolásnak tartalmaznia kell kiállítójának nevét, székhelyét, a bejelentő nevét, lakcímét és a tolmácsolási gyakorlat időtartamát.
+
+[^3]: A 2. § (3) bekezdése a 629/2022. (XII. 30.) Korm. rendelet 49. §-ával megállapított szöveg.
