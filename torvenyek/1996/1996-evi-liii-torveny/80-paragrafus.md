@@ -4,7 +4,7 @@
 
 a) a természet védelmét szolgáló jogszabály, illetve egyedi határozat előírásait megsérti;
 
-b) a védett természeti értéket jogellenesen veszélyezteti, károsítja, elpusztítja, vagy védett természeti terület állapotát, minőségét jogellenesen veszélyezteti, rongálja, abban kárt okoz;
+b) a védett természeti értéket jogellenesen veszélyezteti, károsítja, elpusztítja, vagy védett természeti terület vagy Natura 2000 terület állapotát, minőségét jogellenesen veszélyezteti, rongálja, abban kárt okoz;
 
 c) a védett természeti területet, továbbá barlangot jogellenesen megváltoztatja, átalakítja, illetve azon vagy abban a védelem céljával össze nem egyeztethető tevékenységet folytat;
 
@@ -34,7 +34,7 @@ a) védett természeti terület, Natura 2000 terület vagy védett természeti �
 
 b) a tevékenység vagy a mulasztás által okozott körülmény védett élő szervezet, életközösség élőhelyét, illetve élettevékenységét jelentős mértékben zavarja,
 
-c) a természetvédelmi hatósági engedélyköteles tevékenységet, vagy – a természetvédelmi hatóság szakhatósági közreműködési kötelezettségéhez, vagy a természetvédelmi szakkérdés vizsgálati kötelezettséghez kötött – más hatósági engedély-köteles tevékenységet engedély nélkül vagy az engedély természetvédelmi előírásaitól eltérően végezték, továbbá ha a természet védelmét szolgáló jogszabályi előírást érintő bejelentést, ellenőrzött bejelentést anélkül, vagy a tevékenység megkezdésére való jogosultság megnyílását megelőzően végezték, vagy
+c) a természetvédelmi hatósági engedélyköteles tevékenységet, vagy – a természetvédelmi hatóság szakhatósági közreműködési kötelezettségéhez, vagy a természetvédelmi szakkérdés vizsgálati kötelezettséghez kötött – más hatósági engedély-köteles tevékenységet engedély nélkül vagy az engedély természetvédelmi előírásaitól eltérően végezték, továbbá ha a természet védelmét szolgáló jogszabályi előírást érintő bejelentés, vagy ellenőrzött bejelentés alapján folytatható tevékenységet anélkül, vagy a tevékenység megkezdésére való jogosultság megnyílását megelőzően végezték, vagy
 
 d) a veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok előírásainak megszegésére kerül sor.
 

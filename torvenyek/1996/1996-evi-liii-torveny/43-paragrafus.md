@@ -32,4 +32,6 @@ m) egyedének háziasításához.
 
 (4) Fokozottan védett állatfajok esetén a (2) bekezdés szerinti engedély csak természetvédelmi vagy más közérdekből adható meg.
 
-(5)–(6)
+(5)
+
+(6)

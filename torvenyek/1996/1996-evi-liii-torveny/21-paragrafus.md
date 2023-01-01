@@ -6,7 +6,9 @@ a) a gyep és nádas művelési ág megváltoztatásához;
 
 b) a gyep, valamint a nád és más vízinövényzet égetéséhez.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4) A körzeti vadgazdálkodási terv természeti területet érintő részének kiadásához a miniszter egyetértése szükséges.
 
