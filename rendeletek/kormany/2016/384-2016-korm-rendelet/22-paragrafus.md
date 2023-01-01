@@ -5,3 +5,5 @@ a) egy helyrajzi számon,
 b) közvetlenül egymás mellé, vagy
 
 c) út, árok, csatorna közbeékelődésével egymás mellé
+
+kerülnek kialakításra.

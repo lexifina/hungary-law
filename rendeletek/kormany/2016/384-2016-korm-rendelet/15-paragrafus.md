@@ -12,7 +12,7 @@ c) a Nemzeti Földügyi Központ (a továbbiakban: NFK),
 
 d) a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH)
 
-## megkeresésére az ingatlan-nyilvántartási adatbázisból adatleválogatást végezhet, amelynek eredményét elektronikus dokumentumként adja át a megkeresőnek.
+megkeresésére az ingatlan-nyilvántartási adatbázisból adatleválogatást végezhet, amelynek eredményét elektronikus dokumentumként adja át a megkeresőnek.
 
 (2) Az (1) bekezdés szerinti elektronikus dokumentum szolgáltatási díjának megállapításánál – az egyedi megállapodásban – a nem hiteles tulajdoni lap szolgáltatásának díjáról szóló jogszabályokban meghatározott díjat és díjmegosztást is figyelembe kell venni.
 

@@ -16,7 +16,7 @@ a) a telekalakítás engedélyezésére, és
 
 b)[^33] a telekalakítási engedély véglegessé válását követően a földrészlet adataiban, továbbá a bejegyzett jogok és feljegyzett tények vonatkozásában a telekalakítással bekövetkező változásnak az ingatlan-nyilvántartásban történő átvezetésére (e fejezet alkalmazásában a továbbiakban: változásátvezetési eljárás)
 
-## irányuló eljárás indul meg.
+irányuló eljárás indul meg.
 
 (3) A telekalakítás engedélyezése iránti kérelmet benyújthat:
 
@@ -66,7 +66,7 @@ a) ingatlanrendező földmérő minősítéssel rendelkező földmérő, vagy
 
 b) az a) pont hatálya alá nem tartozó, de a földmérési és térképészeti tevékenységről szóló jogszabályokban meghatározott földmérési és térképészeti szakképzettséggel rendelkező személy a (9) bekezdésben foglaltak figyelembevételével
 
-## készíthet.
+készíthet.
 
 (9) Ha a telekalakítási dokumentációt a (8) bekezdés b) pontja szerinti szakképzettséggel rendelkező személy készíti, a dokumentáció minőségét, valamint a tartalmi és pontossági előírásoknak való megfelelőségét a (8) bekezdés a) pontja szerinti jogosultsággal rendelkező szakember tanúsítja a változási vázrajzon és a telekalakítási helyszínrajzon.
 

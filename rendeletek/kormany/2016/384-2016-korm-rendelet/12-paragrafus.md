@@ -1,5 +1,3 @@
-## 11. §
-
 ## 6. [^22] A közigazgatási per
 
 12. §[^23] (1) Az érintett ingatlan tulajdoni lapjára fel kell jegyezni az ingatlanügyi hatósági határozat elleni keresetlevél benyújtásának a tényét.

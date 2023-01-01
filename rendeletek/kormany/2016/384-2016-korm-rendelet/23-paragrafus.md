@@ -1,5 +1,3 @@
-## kerülnek kialakításra.
-
 23. § (1)[^36] A telekalakítási eljárás megindítását az eljárás iránti kérelem benyújtását követő munkanapon valamennyi érintett tulajdoni lapon széljegyezni kell. A telekalakítási eljárás megindítása tényét a széljegyzést követő 8 napon belül hivatalból kell feljegyezni, kivéve, ha a kérelem visszautasítására kerül sor. Az erről szóló végzésben a széljegy törléséről rendelkezni kell, és annak véglegessé válását követő napon azt az ügyfelek értesítése nélkül törölni kell a tulajdoni lapról.
 
 (2) A telekalakítási eljárás megindítás tényét hivatalból kell törölni az ingatlan-nyilvántartásból:
