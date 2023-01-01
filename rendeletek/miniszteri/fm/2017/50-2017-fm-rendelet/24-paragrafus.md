@@ -12,6 +12,6 @@ c) a felmerülő tartozásokért történő felelősségvállalás szerint kell 
 
 (3) A kölcsönös kockázatkezelési alapot létrehozó termelői szervezet vagy a termelői szervezetek társulása döntéshozó szerve meghatározza a kölcsönös kockázatkezelési alap létrehozásának és irányításának szabályait, különösen a termelőknek válság esetén nyújtott kompenzációs kifizetések, valamint a szabályok betartásának felügyelete és monitoringja vonatkozásában. A kölcsönös kockázatkezelési alapot létrehozó termelői szervezetnek vagy a termelői szervezetek társulásának gondoskodnia kell arról, hogy a finanszírozásra vonatkozó szabályok kitérjenek a mezőgazdasági termelő gondatlanságból elkövetett cselekménye esetén alkalmazandó szankcióra is.
 
-(4)[^84] A kockázatkezelési alap újra történő feltöltése az operatív program keretében az alapból a termelői szervezetek tagjai részére teljesített kifizetések mértékéig számolható el.
+(4)[^85] A kockázatkezelési alap újra történő feltöltése az operatív program keretében az alapból a termelői szervezetek tagjai részére teljesített kifizetések mértékéig számolható el.
 
-[^84]: A 24. § (4) bekezdését a 6/2018. (VI. 22.) AM rendelet 13. §-a iktatta be.
+[^85]: A 24. § (4) bekezdését a 6/2018. (VI. 22.) AM rendelet 13. §-a iktatta be.

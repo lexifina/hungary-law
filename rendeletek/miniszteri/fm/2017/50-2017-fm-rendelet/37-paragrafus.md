@@ -1,3 +1,3 @@
-37. §[^124]
+37. §[^126]
 
-[^124]: A 37–38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^126]: A 37–38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

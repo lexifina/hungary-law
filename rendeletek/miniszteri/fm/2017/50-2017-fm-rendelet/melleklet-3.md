@@ -1,3 +1,3 @@
-3. melléklet az 50/2017. (X. 10.) FM rendelethez[^129]
+3. melléklet az 50/2017. (X. 10.) FM rendelethez[^131]
 
-[^129]: A 3. mellékletet a 11/2021. (III. 19.) AM rendelet 8. § d) pontja hatályon kívül helyezte.
+[^131]: A 3. mellékletet a 11/2021. (III. 19.) AM rendelet 8. § d) pontja hatályon kívül helyezte.

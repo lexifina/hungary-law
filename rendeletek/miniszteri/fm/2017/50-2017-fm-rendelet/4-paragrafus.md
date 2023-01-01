@@ -36,7 +36,7 @@ j)[^12] a társasági formában működő tagok esetében a társaság létesít
 
 a) a termelő tagra és a nem termelő tagra [név; ügyfél-azonosító szám; a termelői szervezetbe történő belépés, illetve a termelői szervezetből történő kilépés dátuma; a nem termelő tag székhelye, tevékenységi köre, főtevékenysége, a termelő tagokhoz viszonyított számaránya (%), szavazati arány (leadható szavazatok %-ában)],
 
-b) a földterületre [megye és település neve, a földterület helyrajzi száma, nagysága (hektár), ebből a zöldség-, illetve gyümölcsterület nagysága (hektár)],
+b)[^14] a földterületre [vármegye és település neve, a földterület helyrajzi száma, nagysága (hektár), ebből a zöldség-, illetve gyümölcsterület nagysága (hektár)],
 
 c) a termelésre [típusa (szabadföldi, termesztő berendezés), termék megnevezése, a földterület termésmennyisége (tonna)],
 
@@ -46,15 +46,15 @@ e) a termelői szervezetek társulására [belépés dátuma, szervezet státusz
 
 vonatkozó adatok.
 
-(4)[^14] A termelői szervezet a (3) bekezdés c) pontjában meghatározott adatlapot elektronikus formában, a minisztérium honlapján közzétett nyomtatvány kitöltésével küldi meg a miniszter részére. Az adatlapot úgy kell kitölteni, hogy a termelés tekintetében a termelői szervezetre vagy annak tagjaira vonatkozó, a benyújtást megelőző tizenkét hónapos időszak adatait tükrözze, amely időszak leghamarabb a benyújtás évét megelőző év január 1-jén kezdődhet.
+(4)[^15] A termelői szervezet a (3) bekezdés c) pontjában meghatározott adatlapot elektronikus formában, a minisztérium honlapján közzétett nyomtatvány kitöltésével küldi meg a miniszter részére. Az adatlapot úgy kell kitölteni, hogy a termelés tekintetében a termelői szervezetre vagy annak tagjaira vonatkozó, a benyújtást megelőző tizenkét hónapos időszak adatait tükrözze, amely időszak leghamarabb a benyújtás évét megelőző év január 1-jén kezdődhet.
 
 (5) Az elismerési kérelem elbírálása érdekében a miniszter a (3) bekezdésben felsoroltakon kívül az elismeréshez szükséges tények bizonyítása érdekében egyéb iratokat (szabályzat, Szervezeti és Működési Szabályzat, ügyrend, szerződés) is bekérhet, valamint helyszíni ellenőrzés lefolytatását is jogosult elrendelni.
 
 (6) Ha a benyújtott elismerési kérelem nem felel meg az e rendeletben, valamint az 1308/2013/EU európai parlamenti és tanácsi rendeletben és a 891/2017/EU bizottsági rendeletben foglalt feltételeknek, a miniszter a kérelmezőt hiánypótlásra szólítja fel. Ha a benyújtott hiánypótlás alapján továbbra sem állapítható meg az elismerési feltéteknek való megfelelés, akkor a miniszter azonos tárgyban ismételten hiánypótlási felhívást bocsát ki. A hiánypótlási felhívás teljesítésére nyitva álló időszak az ügyfél kérelmére egy alkalommal, legfeljebb az eredetileg megszabott időszak felével meghosszabbítható.
 
-(7)[^15] A miniszter a termelői szervezet és a termelői szervezetek társulásának elismerésére vonatkozó döntését közli a kérelmezővel, a Magyar Államkincstárral (a továbbiakban: Kincstár), valamint az elismert termelői szervezetek és termelői szervezetek társulásainak tájékoztató listáját negyedévenként közzéteszi a minisztérium honlapján. A miniszter az elismerési kérelem elfogadásáról szóló döntésével egyidejűleg az elfogadott elismerési kérelmek egy példányát optikai adattároló lemezen megküldi a Kincstár részére.
+(7)[^16] A miniszter a termelői szervezet és a termelői szervezetek társulásának elismerésére vonatkozó döntését közli a kérelmezővel, a Magyar Államkincstárral (a továbbiakban: Kincstár), valamint az elismert termelői szervezetek és termelői szervezetek társulásainak tájékoztató listáját negyedévenként közzéteszi a minisztérium honlapján. A miniszter az elismerési kérelem elfogadásáról szóló döntésével egyidejűleg az elfogadott elismerési kérelmek egy példányát optikai adattároló lemezen megküldi a Kincstár részére.
 
-(8)[^16] A termelői szervezet és a termelői szervezetek társulása a (3) bekezdésben felsorolt okiratokban, valamint a taglétszámban, a tagok (3a) bekezdés a), b), c), illetve e) pontjában meghatározott adataiban bekövetkezett változásokról a változás bekövetkezésétől számított tizenöt napon belül írásban és elektronikus úton értesíti a minisztert. A (3a) bekezdés a), b), illetve c) pontjában meghatározott adatok változása esetén a változással érintett adatokat kizárólag elektronikus úton, a minisztérium honlapján közzétett hivatkozás szerinti felületen történő feltöltés útján kell megküldeni a miniszter részére.
+(8)[^17] A termelői szervezet és a termelői szervezetek társulása a (3) bekezdésben felsorolt okiratokban, valamint a taglétszámban, a tagok (3a) bekezdés a), b), c), illetve e) pontjában meghatározott adataiban bekövetkezett változásokról a változás bekövetkezésétől számított tizenöt napon belül írásban és elektronikus úton értesíti a minisztert. A (3a) bekezdés a), b), illetve c) pontjában meghatározott adatok változása esetén a változással érintett adatokat kizárólag elektronikus úton, a minisztérium honlapján közzétett hivatkozás szerinti felületen történő feltöltés útján kell megküldeni a miniszter részére.
 
 [^7]: A 4. § (1) bekezdése a 30/2019. (VI. 25.) AM rendelet 13. § b) pontja szerint módosított szöveg.
 [^8]: A 4. § (2) bekezdése a 30/2019. (VI. 25.) AM rendelet 13. § b) pontja szerint módosított szöveg.
@@ -63,6 +63,7 @@ vonatkozó adatok.
 [^11]: A 4. § (3) bekezdés i) pontját a 64/2019. (XII. 20.) AM rendelet 1. §-a iktatta be.
 [^12]: A 4. § (3) bekezdés j) pontját a 22/2020. (VI. 19.) AM rendelet 2. §-a iktatta be.
 [^13]: A 4. § (3a) bekezdését a 30/2019. (VI. 25.) AM rendelet 3. § (2) bekezdése iktatta be.
-[^14]: A 4. § (4) bekezdése a 30/2019. (VI. 25.) AM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^15]: A 4. § (7) bekezdése a 30/2019. (VI. 25.) AM rendelet 13. § b) pontja szerint módosított szöveg.
-[^16]: A 4. § (8) bekezdése a 30/2019. (VI. 25.) AM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^14]: A 4. § (3a) bekezdés b) pontja a 148/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
+[^15]: A 4. § (4) bekezdése a 30/2019. (VI. 25.) AM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^16]: A 4. § (7) bekezdése a 30/2019. (VI. 25.) AM rendelet 13. § b) pontja szerint módosított szöveg.
+[^17]: A 4. § (8) bekezdése a 30/2019. (VI. 25.) AM rendelet 3. § (4) bekezdésével megállapított szöveg.

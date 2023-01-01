@@ -1,4 +1,4 @@
-7. melléklet az 50/2017. (X. 10.) FM rendelethez[^132]
+7. melléklet az 50/2017. (X. 10.) FM rendelethez[^134]
 
 A be nem takarítási intézkedés alkalmazása esetén az uniós hozzájárulást és a termelői szervezet vagy a tag hozzájárulását is tartalmazó kompenzáció összege
 
@@ -44,4 +44,4 @@ A be nem takarítási intézkedés alkalmazása esetén az uniós hozzájárulá
 
 * fűtött termesztőberendezésben
 
-[^132]: A 7. melléklet a 30/2019. (VI. 25.) AM rendelet 12. §-ával megállapított szöveg.
+[^134]: A 7. melléklet a 30/2019. (VI. 25.) AM rendelet 12. §-ával megállapított szöveg.
