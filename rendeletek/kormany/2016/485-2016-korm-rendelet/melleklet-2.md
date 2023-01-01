@@ -1,5 +1,3 @@
-## A Tokaj-hegyaljai történelmi borvidék kultúrtáj világörökségi helyszín és védőövezet területi lehatárolása
-
 ## A Tokaj-hegyaljai történelmi borvidék kultúrtáj világörökségi területe Abaújszántó, Bekecs, Bodrogkeresztúr, Bodrogkisfalud, Bodrogolaszi, Erdőbénye, Erdőhorváti, Golop, Hercegkút, Legyesbénye, Makkoshotyka, Mád, Mezőzombor, Monok, Olaszliszka, Rátka, Sárazsadány, Sárospatak, Sátoraljaújhely, Szegi, Szegilong, Szerencs, Tarcal, Tállya, Tokaj, Tolcsva, Vámosújfalu települések történeti tájjá nyilvánított teljes kül- és belterületére terjed ki. A világörökségi terület lehatárolásán belül az alábbi táblázat tartalmazza a világörökségi helyszín lehatárolását.
 
 |  | A | B | C | D |
@@ -1192,7 +1190,7 @@
 
 2. melléklet a 485/2016. (XII. 28.) Korm. rendelethez[^4]
 
-## A Tokaj-hegyaljai történelmi borvidék kultúrtáj világörökségi terület világörökségi kezelési terve
+A Tokaj-hegyaljai történelmi borvidék kultúrtáj világörökségi terület világörökségi kezelési terve
 
 1. Alapadatok
 
@@ -1434,7 +1432,7 @@ i) A világörökségi területen a képzési, foglalkoztatási és szociális h
 
 4.1.1.6. A bányászati és nyersanyag-gazdálkodási stratégiának a világörökségi terület kezelése szempontjából az alábbi alapelvekre kell tekintettel lenni:
 
-a) A BOR-VIDÉK programot megyén túlmutató, térségi léptékű keretek között kell kidolgozni.
+a) A BOR-VIDÉK programot vármegyén túlmutató, térségi léptékű keretek között kell kidolgozni.
 
 b) A BOR-VIDÉK programnak a világörökségi terület tekintetében a nyersanyag-gazdálkodáson túlmenően ki kell terjednie:
 
@@ -1640,7 +1638,7 @@ f) az egyes építmények közötti távolság nem lehet kevesebb, mint 20 méte
 
 5. Társadalmi-szakmai részvétel a kezelési terv alkalmazása során
 
-A kezelési tervben foglaltak végrehajtását támogató, a területen érintett országos szervek, megyei szervezetek és intézmények, illetve a helyi érdekeltek közötti kommunikáció, érdekegyeztetés és konszenzusteremtés lehetőségét az UNESCO Magyar Nemzeti Bizottságáról szóló 17/2012. (II. 16.) Korm. rendelet 11. § (1) bekezdés g) pontja szerinti szakbizottság biztosítja.
+A kezelési tervben foglaltak végrehajtását támogató, a területen érintett országos szervek, vármegyei szervezetek és intézmények, illetve a helyi érdekeltek közötti kommunikáció, érdekegyeztetés és konszenzusteremtés lehetőségét az UNESCO Magyar Nemzeti Bizottságáról szóló 17/2012. (II. 16.) Korm. rendelet 11. § (1) bekezdés g) pontja szerinti szakbizottság biztosítja.
 
 6. Finanszírozás
 
@@ -1680,4 +1678,4 @@ d) az egyes bányatelkekre vonatkozó monitoring tervek véleményezésébe és 
 
 e) az egyeztetett tervek alapján készült éves összefoglaló monitoring jelentéseket és az azok alapján tervezett, szükséges hatáscsökkentő intézkedéseket, illetve azok eredményeit a véleményező, jóváhagyó szakhatóságoknak folyamatosan meg kell küldeni, az érdekelt felek részére pedig hozzáférhetővé kell tenni.
 
-[^4]: A 2. melléklet a 217/2018. (XI. 27.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 217/2018. (XI. 27.) Korm. rendelet 26. §-a, a 616/2022. (XII. 29.) Korm. rendelet 251. §-a szerint módosított szöveg.
