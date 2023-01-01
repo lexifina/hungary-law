@@ -1,5 +1,3 @@
-## 24–25. §
-
 ## 18. A tranzit és a tartós foglalkoztatásra kiírt pályázat szabályai
 
 26. § (1)[^109] A miniszter minden év szeptember 30-áig pályázatot hirdet a rehabilitációs foglalkoztatásra.

@@ -8,7 +8,7 @@ a)[^147] tartós foglalkoztatás esetén legfeljebb az egyéni támogatás egy h
 
 b) tranzit foglalkoztatás esetén az egyéni foglakoztatási megállapodásban adott hónapra meghatározott egyéni támogatás keretösszegét
 
-## [az a) és a b) pont a továbbiakban együtt: havi keretösszeg] használhatja fel, a (2) és (4) bekezdésben meghatározott feltételekkel.
+[az a) és a b) pont a továbbiakban együtt: havi keretösszeg] használhatja fel, a (2) és (4) bekezdésben meghatározott feltételekkel.
 
 (2)[^148] A teljes havi keretösszeg felhasználásának feltétele a rehabilitációs foglalkoztatásban részt vevő munkavállalók havi átlagban legalább napi 4 órás időtartamú foglalkoztatása. A havi átlagban napi 4 órát el nem érő foglalkoztatás esetén csak a havi keretösszeg időarányos része használható fel.
 

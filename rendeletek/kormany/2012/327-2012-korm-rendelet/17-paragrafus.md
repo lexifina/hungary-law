@@ -10,7 +10,7 @@ a)[^76] a megváltozott munkaképességű munkavállalók rehabilitációs fogla
 
 b) munkahely rehabilitációs célú átalakításához (munkahely-teremtési támogatás)
 
-## nyújtható.
+nyújtható.
 
 (2) Az e rendelet szerinti támogatás kizárólag akkreditált munkáltató részére nyújtható. Ha a munkáltató által foglalkoztatottak létszáma a 25 főt meghaladja, a támogatás további feltétele, hogy a munkáltató az Mmtv. 22. §-a szerinti megváltozott munkaképességű személyeket az Mmtv. 23. § (1) bekezdésében meghatározott kötelező foglalkoztatási szint felett foglalkoztasson.
 
