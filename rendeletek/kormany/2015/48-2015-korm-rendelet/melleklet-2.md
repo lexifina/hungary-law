@@ -14,16 +14,19 @@
 
 | 7. | telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 8. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
+| 8. | talajvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal[^13] |
 
-| 9. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal |
+| 9. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Pest Vármegyei Kormányhivatal[^14] |
 
 | 10. | vízügyi és vízvédelmi hatósági engedélyezési eljárások | Fővárosi Katasztrófavédelmi Igazgatóság |
 
 | 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai, tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások, a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 12. | bányahatósági engedélyek | Pest Megyei Kormányhivatal |
+| 12. | bányahatósági engedélyek | Pest Vármegyei Kormányhivatal[^15] |
 
-2. melléklet a 48/2015. (III. 12.) Korm. rendelethez[^13]
+2. melléklet a 48/2015. (III. 12.) Korm. rendelethez[^16]
 
-[^13]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 183. § f) pontja hatályon kívül helyezte.
+[^13]: Az 1. mellékletben foglalt táblázat D:8 mezője az 546/2022. (XII. 22.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
+[^14]: Az 1. mellékletben foglalt táblázat D:9 mezője az 546/2022. (XII. 22.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
+[^15]: Az 1. mellékletben foglalt táblázat D:12 mezője az 546/2022. (XII. 22.) Korm. rendelet 70. § b) pontja szerint módosított szöveg.
+[^16]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 183. § f) pontja hatályon kívül helyezte.
