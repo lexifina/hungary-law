@@ -1,4 +1,4 @@
-7. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^422]
+7. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^438]
 
 Ingatlantulajdon fennállásáról szóló hatósági bizonyítvány kiállítása iránti kérelem az alábbi adatokat tartalmazza:
 
@@ -24,4 +24,4 @@ Ingatlantulajdon fennállásáról szóló hatósági bizonyítvány kiállítá
 
 11. a kérelmező aláírása.
 
-[^422]: A 7. számú mellékletet a 148/2012. (XII. 28.) VM rendelet 19. §-a iktatta be, szövege az 57/2013. (VI. 29.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^438]: A 7. számú mellékletet a 148/2012. (XII. 28.) VM rendelet 19. §-a iktatta be, szövege az 57/2013. (VI. 29.) VM rendelet 5. § (2) bekezdésével megállapított szöveg.

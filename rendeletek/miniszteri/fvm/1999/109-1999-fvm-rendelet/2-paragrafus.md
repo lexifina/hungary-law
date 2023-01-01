@@ -1,10 +1,10 @@
-## 1. §[^4] A tulajdoni lap három részből áll.[^5]
+## 1. §[^5] A tulajdoni lap három részből áll.[^6]
 
-## 2. §[^6] A tulajdoni lap I. része az alábbi adatokat tartalmazza:
+## 2. §[^7] A tulajdoni lap I. része az alábbi adatokat tartalmazza:
 
 a) a művelési ág és a művelés alól kivett terület elnevezése, alrészlet jele,
 
-b)[^7] a minőségi osztály (megjelölve, ha a minőségi osztály területén járási vagy községi mintatér került kijelölésre), kataszteri tisztajövedelem,
+b)[^8] a minőségi osztály (megjelölve, ha a minőségi osztály területén járási vagy községi mintatér került kijelölésre), kataszteri tisztajövedelem,
 
 c) az épület fő rendeltetés szerinti jellege (lakóház, üdülő, gazdasági épület stb.),
 
@@ -32,7 +32,7 @@ n) törölt bejegyzésre való utalás,
 
 o) kiegészítő szöveges bejegyzés.
 
-[^4]: Az 1. § a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
-[^5]: A Magyar Közlöny 2000. évi 10. számában közzétett helyesbítésnek megfelelő szöveg.
-[^6]: A 2. § a 48/2010. (IV. 27.) FVM rendelet 3. §-ával megállapított szöveg.
-[^7]: A 2. § b) pontja a 47/2017. (IX. 29.) FM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § a 117/2005. (XII. 19.) FVM rendelet 51. § (4) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 51. § (1)–(2) bekezdését.
+[^6]: A Magyar Közlöny 2000. évi 10. számában közzétett helyesbítésnek megfelelő szöveg.
+[^7]: A 2. § a 48/2010. (IV. 27.) FVM rendelet 3. §-ával megállapított szöveg.
+[^8]: A 2. § b) pontja a 47/2017. (IX. 29.) FM rendelet 23. § (1) bekezdésével megállapított szöveg.

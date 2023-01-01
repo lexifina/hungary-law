@@ -1,4 +1,4 @@
-## 3. §[^8] A tulajdoni lap II. része az ingatlan tulajdonosára, illetve a vagyonkezelői jog jogosultjára, továbbá az ingatlanra vonatkozó alábbi adatokat tartalmazza:
+## 3. §[^9] A tulajdoni lap II. része az ingatlan tulajdonosára, illetve a vagyonkezelői jog jogosultjára, továbbá az ingatlanra vonatkozó alábbi adatokat tartalmazza:
 
 a) a bejegyzés sorszáma,
 
@@ -22,4 +22,4 @@ j) törölt bejegyzésre való utalás,
 
 k) kiegészítő szöveges bejegyzés.
 
-[^8]: A 3. § a 48/2010. (IV. 27.) FVM rendelet 4. §-ával megállapított szöveg.
+[^9]: A 3. § a 48/2010. (IV. 27.) FVM rendelet 4. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-112/D. §[^340] (1) A földmérési és térinformatikai államigazgatási szerv a számítógépes ingatlan-nyilvántartási rendszerből történő szolgáltatással
+112/D. §[^353] (1) A földmérési és térinformatikai államigazgatási szerv a számítógépes ingatlan-nyilvántartási rendszerből történő szolgáltatással
 
 a) a vízügyi igazgatási szerv részére – a tv. 73/A. § (5) bekezdése alapján –
 
@@ -68,4 +68,4 @@ d) a 4. § (2) bekezdés 1–2., 4–7., 16–17., 21., 24., 27. és 28. pontjá
 
 (3) Az adatszolgáltatás során átadott adatok csak a jogszabályban meghatározott feladatellátáshoz használhatók fel, harmadik személy részére nem adhatók tovább.
 
-[^340]: A 112/D. §-t a 7/2020. (VI. 10.) MvM rendelet 9. §-a iktatta be.
+[^353]: A 112/D. §-t a 7/2020. (VI. 10.) MvM rendelet 9. §-a iktatta be.

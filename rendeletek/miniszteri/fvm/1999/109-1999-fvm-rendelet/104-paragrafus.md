@@ -1,3 +1,3 @@
-104. §[^314]
+104. §[^326]
 
-[^314]: A 104. §-t a 7/2020: (VI. 10.) MvM rendelet 14. § k) pontja hatályon kívül helyezte.
+[^326]: A 104. §-t a 7/2020: (VI. 10.) MvM rendelet 14. § k) pontja hatályon kívül helyezte.

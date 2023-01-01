@@ -1,4 +1,4 @@
-112/C. §[^337] (1)[^338] Az ingatlanügyi hatóság az ingatlan-nyilvántartás adatbázisából – egyedi megállapodás alapján – adatfeldolgozási tevékenységet igénylő esetekben
+112/C. §[^349] (1)[^350] Az ingatlanügyi hatóság az ingatlan-nyilvántartás adatbázisából – egyedi megállapodás alapján – adatfeldolgozási tevékenységet igénylő esetekben
 
 a) országos statisztikai célú adatgyűjtéshez,
 
@@ -6,7 +6,7 @@ b) hatóság részére hatósági eljárások teljesítéséhez, vagy
 
 c) törvényben vagy kormányrendeletben meghatározott feladatok ellátásához
 
-adatleválogatást végezhet, amelynek eredményét elektronikusan feldolgozható elektronikus dokumentumként továbbítja a megkeresőnek. A tulajdoni lap – a 2–4. §-ban meghatározott – teljes tartalma elektronikusan feldolgozható formában nem továbbítható (részadat-szolgáltatás). Több ingatlanügyi hatóság illetékességi területére kiterjedő adatigénylés esetén a részadat-szolgáltatást a földmérési és térinformatikai államigazgatási szerv végzi.
+adatleválogatást végezhet, amelynek eredményét elektronikusan feldolgozható elektronikus dokumentumként továbbítja a megkeresőnek. A tulajdoni lap – a 2–4. §-ban meghatározott – teljes tartalma elektronikusan feldolgozható formában – a 112/E. §-ban és a 112/F. §-ban meghatározott kivételekkel – nem továbbítható (részadat-szolgáltatás). Több ingatlanügyi hatóság illetékességi területére kiterjedő adatigénylés esetén a részadat-szolgáltatást a földmérési és térinformatikai államigazgatási szerv végzi.
 
 (2) Részadat-szolgáltatást bárki igényelhet, ha a részadat-szolgáltatásra irányuló kérelmében igazolja, hogy
 
@@ -32,12 +32,13 @@ e) a költségtérítés mértékét, illetve a kedvezményes költségtéríté
 
 f) az igénylő nyilatkozatát, miszerint a kapott adatokat csak a törvényben vagy kormányrendeletben meghatározott feladatai ellátásához használja fel.
 
-(6)[^339] A számítógépes adatbázisból lekérdezés útján történő részadat-szolgáltatás során a megkeresőnek átadott elektronikus dokumentumért fizetendő költségtérítést úgy kell megállapítani, hogy az egyedi megállapodásban a nem hiteles tulajdoni lap szolgáltatásának díjáról, valamint annak a földmérési és térinformatikai államigazgatási szerv és a kormányhivatal közötti megosztásáról szóló jogszabályokban meghatározott díjat és díjmegosztást, továbbá az ingatlanügyi hatóságnál az adatok leválogatásával és továbbításával kapcsolatban felmerülő költséget is figyelembe kell venni.
+(6)[^351] A számítógépes adatbázisból lekérdezés útján történő részadat-szolgáltatás során a megkeresőnek átadott elektronikus dokumentumért fizetendő költségtérítést úgy kell megállapítani, hogy az egyedi megállapodásban a hiteles tulajdoni lap szolgáltatásának díjáról, valamint annak a földmérési és térinformatikai államigazgatási szerv és a kormányhivatal közötti megosztásáról szóló jogszabályokban meghatározott díjat és díjmegosztást, továbbá az ingatlanügyi hatóságnál az adatok leválogatásával és továbbításával kapcsolatban felmerülő költséget is figyelembe kell venni.
 
 (7) A (6) bekezdés szerinti elektronikus dokumentum szolgáltatásának teljes költsége – a (8) bekezdésben foglalt esetet kivéve – a megkeresőt terheli.
 
-(8) Az a megkereső, akinek részére a nem hiteles tulajdoni lap szolgáltatás esetére törvény díjmentességet biztosít, helyrajzi számonként évente egy alkalommal – a kizárólag az adatok leválogatásával és továbbításával kapcsolatban felmerülő költséget tartalmazó – kedvezményes költségtérítés fejében jogosult részadat-szolgáltatásra. E kedvezmény akkor vehető igénybe, ha a megkereső a megkeresésben megjelöli a nem hiteles tulajdoni lap szolgáltatás esetére díjmentességet biztosító törvényi rendelkezést.
+(8)[^352] Az a megkereső, akinek részére a hiteles tulajdoni lap szolgáltatás esetére törvény díjmentességet biztosít, helyrajzi számonként évente egy alkalommal – a kizárólag az adatok leválogatásával és továbbításával kapcsolatban felmerülő költséget tartalmazó – kedvezményes költségtérítés fejében jogosult részadat-szolgáltatásra. E kedvezmény akkor vehető igénybe, ha a megkereső a megkeresésben megjelöli a hiteles tulajdoni lap szolgáltatás esetére díjmentességet biztosító törvényi rendelkezést.
 
-[^337]: A 112/C. §-t a 67/2015. (X. 30.) FM rendelet 6. §-a iktatta be.
-[^338]: A 112/C. § (1) bekezdés záró szövegrésze a 42/2017. (VIII. 17.) FM rendelet 22. § b) pontja szerint módosított szöveg.
-[^339]: A 112/C. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 22. § b) pontja szerint módosított szöveg.
+[^349]: A 112/C. §-t a 67/2015. (X. 30.) FM rendelet 6. §-a iktatta be.
+[^350]: A 112/C. § (1) bekezdés záró szövegrésze a 42/2017. (VIII. 17.) FM rendelet 22. § b) pontja, a 23/2022. (XII. 28.) MVM rendelet 5. § e) pontja szerint módosított szöveg.
+[^351]: A 112/C. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 22. § b) pontja, a 26/2022. (XII. 29.) MVM rendelet 3. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^352]: A 112/C. § (8) bekezdése a 26/2022. (XII. 29.) MVM rendelet 3. § (2) bekezdése szerint módosított szöveg.

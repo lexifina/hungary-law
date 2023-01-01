@@ -1,10 +1,10 @@
 ## VI. Fejezet
 
-## ZÁRÓ RENDELKEZÉSEK[^382]
+## ZÁRÓ RENDELKEZÉSEK[^398]
 
 123. § (1) Ez a rendelet 2000. január 1-jén lép hatályba.
 
-(2)[^383]
+(2)[^399]
 
-[^382]: A VI. fejezet megjelölését és címét a 48/2010. (IV. 27.) FVM rendelet 89. §-a iktatta be.
-[^383]: A 123. § (2) bekezdését a 48/2010. (IV. 27.) FVM rendelet 97. §-a hatályon kívül helyezte.
+[^398]: A VI. fejezet megjelölését és címét a 48/2010. (IV. 27.) FVM rendelet 89. §-a iktatta be.
+[^399]: A 123. § (2) bekezdését a 48/2010. (IV. 27.) FVM rendelet 97. §-a hatályon kívül helyezte.

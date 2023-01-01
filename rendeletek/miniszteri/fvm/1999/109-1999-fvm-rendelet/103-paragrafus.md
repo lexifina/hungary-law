@@ -1,3 +1,3 @@
-103. §[^313]
+103. §[^325]
 
-[^313]: A 103. §-t a 48/2010. (IV. 27.) FVM rendelet 97. §-a hatályon kívül helyezte.
+[^325]: A 103. §-t a 48/2010. (IV. 27.) FVM rendelet 97. §-a hatályon kívül helyezte.

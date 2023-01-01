@@ -1,3 +1,3 @@
-102. §[^312]
+102. §[^324]
 
-[^312]: A 102. §-t a 7/2020: (VI. 10.) MvM rendelet 14. § j) pontja hatályon kívül helyezte.
+[^324]: A 102. §-t a 7/2020: (VI. 10.) MvM rendelet 14. § j) pontja hatályon kívül helyezte.
