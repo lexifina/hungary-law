@@ -188,10 +188,4 @@ Kijelentem, hogy az igazolványt e rendelet 8. §-ában foglalt kötelezettsége
 
 | dátum | kérelmező cégszerű aláírása |
 
-..................................................................................
-
-a személyes megjelenésben akadályozott jogosult által
-
-meghatalmazott személy aláírása
-
 [^66]: Az 5. számú mellékletet a 204/2013. (VI. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be.

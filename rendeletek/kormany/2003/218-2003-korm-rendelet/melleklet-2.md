@@ -1,6 +1,6 @@
 2. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez[^64]
 
-## Kérelem a mozgásában korlátozott személy parkolási igazolványának kiadására
+Kérelem a mozgásában korlátozott személy parkolási igazolványának kiadására
 
 ## A jogosult
 

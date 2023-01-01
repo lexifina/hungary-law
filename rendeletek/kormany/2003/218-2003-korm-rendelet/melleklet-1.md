@@ -2,7 +2,7 @@
 
 1. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez
 
-## A mozgásában korlátozott személy parkolási igazolványának igényléséhez elfogadható iratok[^59]
+A mozgásában korlátozott személy parkolási igazolványának igényléséhez elfogadható iratok[^59]
 
 1.[^60] A súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet 2. § a) pont ac) alpontjában meghatározott állapotot igazoló hatályos, a közlekedőképesség minősítéséről kiadott szakvélemény.
 

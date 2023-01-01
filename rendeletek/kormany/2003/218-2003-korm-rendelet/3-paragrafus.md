@@ -1,6 +1,6 @@
-3. § (1)[^6] Az igazolvány kiadására, meghosszabbítására, visszavonására, cseréjére, pótlására, nyilvántartására irányuló eljárásban a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), a kormányablak, valamint a közúti közlekedési nyilvántartó (a továbbiakban: Nyilvántartó) jár el.
+3. § (1)[^6] Az igazolvány kiadására, meghosszabbítására, visszavonására, cseréjére, pótlására, nyilvántartására irányuló eljárásban a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), a kormányablak, valamint a közúti közlekedési nyilvántartó (a továbbiakban: Nyilvántartó) jár el.
 
-(1a)[^7] A fővárosi és megyei kormányhivatal közúti közlekedési igazgatási feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a közlekedésért felelős miniszter (a továbbiakban: miniszter) gyakorolja. A miniszter feladatai ellátásában a Nyilvántartó közreműködik.
+(1a)[^7] A fővárosi és vármegyei kormányhivatal közúti közlekedési igazgatási feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a közlekedésért felelős miniszter (a továbbiakban: miniszter) gyakorolja. A miniszter feladatai ellátásában a Nyilvántartó közreműködik.
 
 (1b)[^8] A közlekedésrendészetért felelős miniszter szakmai ellenőrzést gyakorol a parkolási igazolványok kiadásával kapcsolatos feladatok ellátása felett.
 
@@ -22,8 +22,8 @@
 
 (8)[^17]
 
-[^6]: A 3. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 59. § (1) bekezdésével megállapított szöveg.
-[^7]: A 3. § (1a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 59. § (1) bekezdése iktatta be.
+[^6]: A 3. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 59. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 53. §-a szerint módosított szöveg.
+[^7]: A 3. § (1a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 59. § (1) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 53. §-a szerint módosított szöveg.
 [^8]: A 3. § (1b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 59. § (1) bekezdése iktatta be.
 [^9]: A 3. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 122. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^10]: A 3. § (2a) bekezdését a 20/2013. (I. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 122. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

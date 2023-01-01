@@ -1,3 +1,9 @@
+## ..................................................................................
+
+## a személyes megjelenésben akadályozott jogosult által
+
+## meghatalmazott személy aláírása
+
 6. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez[^67]
 
 A 2/A. §-ban meghatározott – mozgásában korlátozott személyeket ellátó – intézmény parkolási igazolványa

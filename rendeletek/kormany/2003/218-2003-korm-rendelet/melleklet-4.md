@@ -1,5 +1,3 @@
-## A mozgásában korlátozott személy parkolási igazolványa
-
 ## Az igazolvány
 
 ## anyaga: karton, műanyag borítással
