@@ -1,6 +1,6 @@
-## 16/B. §[^49] E rendeletnek a segélyhívásokat fogadó szerv hatásköréről, feladatairól, továbbá feladatai ellátásának részletes szabályairól szóló 361/2013. (X. 11.) Korm. rendelet, valamint a 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapból és a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználásáról szóló 135/2015. (VI. 2.) Korm. rendelet módosításáról szóló 252/2022. (VII. 13.) Korm. rendelettel (a továbbiakban: Mód.r2.) módosított 1. mellékletét a Mód.r2. hatálybalépésekor már megkezdett projektek tekintetében is alkalmazni kell.
+## 16/B. §[^51] E rendeletnek a segélyhívásokat fogadó szerv hatásköréről, feladatairól, továbbá feladatai ellátásának részletes szabályairól szóló 361/2013. (X. 11.) Korm. rendelet, valamint a 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapból és a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználásáról szóló 135/2015. (VI. 2.) Korm. rendelet módosításáról szóló 252/2022. (VII. 13.) Korm. rendelettel (a továbbiakban: Mód.r2.) módosított 1. mellékletét a Mód.r2. hatálybalépésekor már megkezdett projektek tekintetében is alkalmazni kell.
 
-17. § (1)[^50]
+17. § (1)[^52]
 
 (2) Ez a rendelet a következő rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
@@ -14,5 +14,5 @@ d) a Belső Biztonsági Alap részét képező, a rendőrségi együttműködés
 
 e) a Belső Biztonsági Alap részét képező, a külső határok és a vízumügy pénzügyi támogatására szolgáló eszköz létrehozásáról és az 574/2007/EK határozat hatályon kívül helyezéséről szóló, 2014. április 16-i 515/2014/EU európai parlamenti és tanácsi rendelet.
 
-[^49]: A 16/B. §-t a 252/2022. (VII. 13.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^50]: A 17. § (1) bekezdését a 323/2018. (XII. 28.) Korm. rendelet 39. § d) pontja hatályon kívül helyezte.
+[^51]: A 16/B. §-t a 252/2022. (VII. 13.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^52]: A 17. § (1) bekezdését a 323/2018. (XII. 28.) Korm. rendelet 39. § d) pontja hatályon kívül helyezte.

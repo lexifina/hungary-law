@@ -1,6 +1,6 @@
-5. § (1) Az audit hatóság feladatait jogszabályban meghatározott szervezet látja el.
+5. § (1)[^12]
 
-(2) Az audit hatóság az Európai Bizottság és az államháztartásért felelős miniszter iránymutatásai, valamint a nemzetközileg elfogadott auditálási standardok alapján
+(2)[^13] Az audit hatóság az Európai Bizottság iránymutatásai, valamint a nemzetközileg elfogadott auditálási standardok alapján
 
 a) a horizontális rendelet 26. cikk (3) bekezdésének megfelelően értékeli a Felelős Hatóság kijelölési kritériumoknak való megfelelését, az értékelésről jelentést és véleményt készít;
 
@@ -24,8 +24,10 @@ j) gondoskodik az Európai Bizottság által az audit hatósági tevékenység h
 
 (3) A (2) bekezdésben meghatározott ellenőrzések végrehajtása érdekében az audit hatóság részére korlátlan betekintést és hozzáférést kell biztosítani a monitoring és információs rendszerhez, lehetővé téve azt, hogy az arra felhatalmazott, megbízólevéllel ellátott ellenőrök a támogatásra vonatkozó valamennyi információt megszerezhessék, és azok valódiságáról meggyőződhessenek.
 
-(4)[^12] A Felelős Személy az audit hatóság megállapításai alapján – ha abban rá vonatkozó, intézkedést igénylő megállapítás, ajánlás vagy javaslat szerepel – intézkedési tervet készít.
+(4)[^14] A Felelős Személy az audit hatóság megállapításai alapján – ha abban rá vonatkozó, intézkedést igénylő megállapítás, ajánlás vagy javaslat szerepel – intézkedési tervet készít.
 
 (5) A Felelős Személy gondoskodik az intézkedési tervek megvalósításáról, illetve azok folyamatos nyomon követéséről, amelyről félévente, minden év május 15-ei és november 15-ei zárónappal beszámolót készít és a zárónapot követő 15 napon belül tájékoztatja az audit hatóságot a megvalósítást alátámasztó dokumentumok mellékelésével.
 
-[^12]: Az 5. § (4) bekezdése a 252/2019. (X. 24.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^12]: Az 5. § (1) bekezdését a 615/2022. (XII. 29.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
+[^13]: Az 5. § (2) bekezdés nyitó szövegrésze a 615/2022. (XII. 29.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^14]: Az 5. § (4) bekezdése a 252/2019. (X. 24.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
