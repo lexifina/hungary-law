@@ -1,5 +1,3 @@
-## 13. §[^43]
-
 ## 5. A nyilvántartásból való törléssel kapcsolatos eljárási szabályok
 
 14. § (1)[^44] A mezőgazdasági igazgatási szerv
@@ -8,7 +6,7 @@ a) a (4) bekezdésben meghatározott esetekben hivatalból, vagy
 
 b) kérelemre
 
-## törli a földművest a nyilvántartásból.
+törli a földművest a nyilvántartásból.
 
 (2)[^45] A földművesnek a nyilvántartásból való törlése iránti kérelmét a földügyért felelős miniszter által vezetett minisztérium, valamint a mezőgazdasági igazgatási szerv hivatalos honlapján közzétett formanyomtatványon kell benyújtania. A kérelem adattartalmát az 5. melléklet határozza meg. A földművesnek a nyilvántartásból való törlése iránti kérelmét nem kell megindokolnia.
 
@@ -38,11 +36,10 @@ számított, a mezőgazdasági üzemközpontként más ingatlan bejelentésére 
 
 c)[^50] c) pontjában meghatározott esetben az elhalálozás tényéről való tudomásszerzéstől számított 8 napon
 
-## belül kell törölni a földművest a nyilvántartásból.
+belül kell törölni a földművest a nyilvántartásból.
 
 (6)[^51]
 
-[^43]: A 13. §-t a 103/2018. (VI. 11.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
 [^44]: A 14. § (1) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 131. § (1) bekezdés d) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^45]: A 14. § (2) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 19. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 489. § g) pontja, a 360/2019. (XII. 30.) Korm. rendelet 131. § (1) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^46]: A 14. § (3) bekezdése a 60/2017. (III. 20.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.

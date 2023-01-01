@@ -1,12 +1,10 @@
-## 2/A. §[^4]
-
 ## 2. A nyilvántartás tartalma
 
 3. § (1) A nyilvántartásba vétel során földművesenként, és mezőgazdasági termelőszervezetenként (ide értve az újonnan alapított mezőgazdasági termelőszervezetet is) önálló adatlapot kell nyitni. Az újonnan alapított mezőgazdasági termelőszervezetként való nyilvántartásba vétel során az adatlapon külön rovatban utalni kell az újonnan alapított mezőgazdasági termelőszervezet státuszra.
 
 (2) Az adatlap a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény (a továbbiakban: Fétv.) 100. § (3) bekezdésében meghatározott adatokon túl tartalmazza
 
-a)[^5] a mezőgazdasági igazgatási szervként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: mezőgazdasági igazgatási szerv) megnevezését,
+a)[^5] a mezőgazdasági igazgatási szervként eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: mezőgazdasági igazgatási szerv) megnevezését,
 
 b) a nyilvántartásba történő bejegyzés és a nyilvántartásból való törlés iránti kérelem iktatásának időpontját, valamint a nyilvántartásba történő bejegyzésről, a nyilvántartásból való törlésről szóló döntés számát és meghozatalának időpontját,
 
@@ -16,6 +14,5 @@ c) a nyilvántartásban szereplő egyes adatok módosítása (ide értve a kieg�
 
 (4) Ha a nyilvántartásba vételi kérelemben a természetes személy, illetve a szervezet azt jelöli meg, hogy a mezőgazdasági üzemközpontja azonos a lakóhelyével, illetve a székhelyével, vagy telephelyével, akkor ezen ingatlanok adatait kell mezőgazdasági üzemközpontként nyilvántartásba venni. E rendelkezést nem lehet alkalmazni a (3) bekezdésben meghatározott esetben.
 
-[^4]: A 2/A. §-t a 121/2014. (IV. 8.) Korm. rendelet 4. § (1) bekezdése iktatta be, hatályon kívül helyezte a 665/2020. (XII. 28.) Korm. rendelet 17. § c) pontja.
-[^5]: A 3. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 244. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 131. § (1) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^5]: A 3. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 244. § a) pontja, a 360/2019. (XII. 30.) Korm. rendelet 131. § (1) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 179. §-a szerint módosított szöveg.
 [^6]: A 3. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 131. § (1) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

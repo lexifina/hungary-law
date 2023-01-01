@@ -42,6 +42,6 @@
 
 ## 7. Újonnan alapított mezőgazdasági termelőszervezet esetén mezőgazdasági üzemközpont hiányában nyilatkozat arról, hogy földhasználati jogosultság megszerzésétől számított 1 éven belül mezőgazdasági üzemközpontot létesít, és annak a 6. pont szerinti adatait bejelenti.
 
-3–4. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^78]
+3. melléklet a 38/2014. (II. 24.) Korm. rendelethez[^78]
 
 [^78]: A 3–4. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 490. § h) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

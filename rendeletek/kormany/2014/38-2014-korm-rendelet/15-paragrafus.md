@@ -22,7 +22,7 @@ da) 5. § 19. pont a) pont ac) alpontjában, illetve 26. pont c) pontjában megh
 
 db) 5. § 19. pont a) pont aa) alpontjában, illetve 26. pont a) pontjában meghatározott alaptevékenysége
 
-## vonatkozásában bekövetkezett változás miatt a szervezet nyilvántartásba vételének jogszabályi feltételei már nem állnak fenn.
+vonatkozásában bekövetkezett változás miatt a szervezet nyilvántartásba vételének jogszabályi feltételei már nem állnak fenn.
 
 (4)[^55] A (3) bekezdésben foglaltakon túl az újonnan alapított mezőgazdasági termelőszervezetet törölni kell a nyilvántartásból akkor is, ha a Földforgalmi tv. szerinti földhasználati jogosultságot szerez, de a jogosultság megszerzése feltételeként vállalt, a Földforgalmi tv. 42. § (5) bekezdésében meghatározott, a mezőgazdasági üzemközpont létesítésére vonatkozó kötelezettségét nem teljesíti. Ez esetben az újonnan alapított mezőgazdasági termelőszervezetet hivatalból, a földhasználati szerződés hatálybalépését követő egy év elteltétől számított 45 napon belül kell törölni a nyilvántartásból, ide nem értve a 17/A. §-ban foglaltakat. Ha az újonnan alapított mezőgazdasági termelőszervezet a Földforgalmi tv. szerinti földhasználati jogosultságot szerez, és a mezőgazdasági üzemközpont létesítésére vonatkozó kötelezettségét teljesíti, de a mezőgazdasági üzemközpont adatait a 17. § (1) bekezdés b) pontjában meghatározott határidőben nem jelenti be a mezőgazdasági igazgatási szervnek, a 12. § (6) bekezdésében foglaltakat kell alkalmazni, és az újonnan alapított mezőgazdasági termelőszervezet státuszra való utalást törölni kell.
 

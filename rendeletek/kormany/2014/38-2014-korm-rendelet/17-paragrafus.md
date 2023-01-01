@@ -10,7 +10,7 @@ a) tulajdonjogának, haszonélvezeti jogának, vagy vagyonkezelői jogának megs
 
 b) használati jogának megszerzése esetén – a (3) bekezdés szerinti eltéréssel – a használati jog megszerzéséről szóló szerződés hatálybalépését
 
-## követő nap.
+követő nap.
 
 (3) Ha az újonnan alapított mezőgazdasági termelőszervezet a mezőgazdasági üzemközpontját a 8. § (2) bekezdésében meghatározottak szerint valósítja meg, az (1) bekezdés b) pontjában foglalt 15 napos határidő számításának kezdő napja a tanya földhasználatának a földhasználati nyilvántartásba való bejegyzését követő nap.
 

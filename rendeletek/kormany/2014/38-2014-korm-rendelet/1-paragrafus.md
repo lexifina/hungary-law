@@ -8,7 +8,7 @@ b) mezőgazdasági termelőszervezetnek, illetve újonnan alapított mezőgazdas
 
 c) a mezőgazdasági üzemközpontnak minősülő gazdasági-, lakó-, vagy irodaépülettel beépített ingatlanokról, vagy tanyákról (a továbbiakban együtt: ingatlan)
 
-## vezetett nyilvántartás, a nyilvántartásba való bejegyzéssel, a változások bejelentésével és a nyilvántartásból való törléssel (a továbbiakban együtt: nyilvántartásba vétel) kapcsolatos eljárások, és a nyilvántartásból történő adatszolgáltatás szabályait állapítja meg.
+vezetett nyilvántartás, a nyilvántartásba való bejegyzéssel, a változások bejelentésével és a nyilvántartásból való törléssel (a továbbiakban együtt: nyilvántartásba vétel) kapcsolatos eljárások, és a nyilvántartásból történő adatszolgáltatás szabályait állapítja meg.
 
 (2) A nyilvántartás számítógépes adatbázisban rögzített, az azt kezelő számítástechnikai eszközzel olvasható és kinyomtatható formában is megjeleníthető nyilvántartási adatlapból (a továbbiakban: adatlap) és a törölt adatok állományából áll. Az adatbázis a mezőgazdasági üzemközpontokat az (1) bekezdés a) és b) pont szerinti személyekhez, illetve szervezetekhez kapcsolódóan, a 3. §-ban meghatározott módon az adatlap részeként tartalmazza.
 

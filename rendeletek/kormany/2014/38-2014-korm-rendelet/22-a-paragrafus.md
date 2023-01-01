@@ -8,7 +8,7 @@ b) hatóság részére hatósági ellenőrzések teljesítéséhez,
 
 c) több mezőgazdasági igazgatási szerv illetékességi területére kiterjedő adatigénylés esetén
 
-## adatleválogatást és elektronikusan feldolgozható formában adattovábbítást végezhet.
+adatleválogatást és elektronikusan feldolgozható formában adattovábbítást végezhet.
 
 (2) Az (1) bekezdés a) és c) pontja szerinti célból bárki igényelhet adatszolgáltatást, ha a kérelmében igazolja, hogy az adatok megismerése jogszabályban meghatározott feladata ellátásának teljesítéséhez szükséges.
 
