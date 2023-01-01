@@ -12,11 +12,11 @@ hatáskörébe tartozik.
 
 (3) A saját szervezettel védekező települések által fenntartott műveken az árvíz- és belvízvédekezés műszaki feladatait a település közigazgatási határán belül — a vízügyi igazgatási szervnek szakmai irányításával — a polgármester (Budapesten a főpolgármester) a polgármesteri (főpolgármesteri) hivatal útján látja el.
 
-(4) Az árvíz- és belvízvédekezés, valamint a helyi vízkár-elhárítás államigazgatási feladat- és hatáskörét — a külön jogszabályban meghatározottak szerint — a megyei, fővárosi védelmi bizottság elnöke, illetőleg a polgármester, fővárosban a főpolgármester látja el.
+(4) Az árvíz- és belvízvédekezés, valamint a helyi vízkár-elhárítás államigazgatási feladat- és hatáskörét — a külön jogszabályban meghatározottak szerint — a vármegyei, fővárosi védelmi bizottság elnöke, illetőleg a polgármester, fővárosban a főpolgármester látja el.
 
 (5) A vizek kártételei elleni védekezés részletes feladatait, módját és a vízügyi igazgatási szervek irányításáért felelős miniszter jogkörét a Kormány rendeletben állapítja meg.
 
-(6) A főpolgármester, a megyei, fővárosi védelmi bizottság elnöke, illetve a polgármester rendeli el az árvíz- és belvízvédekezéssel, valamint a helyi vízkárelhárítással kapcsolatos – a külön jogszabályban meghatározott államigazgatási feladatok körében – a kitelepítést, a kimenekítést, a visszatelepítést, továbbá közreműködik az ezzel kapcsolatos egyéb feladatok végrehajtásában.
+(6) A főpolgármester, a vármegyei, fővárosi védelmi bizottság elnöke, illetve a polgármester rendeli el az árvíz- és belvízvédekezéssel, valamint a helyi vízkárelhárítással kapcsolatos – a külön jogszabályban meghatározott államigazgatási feladatok körében – a kitelepítést, a kimenekítést, a visszatelepítést, továbbá közreműködik az ezzel kapcsolatos egyéb feladatok végrehajtásában.
 
 (7) A polgármester (főpolgármester) az árvíz- és belvízvédekezéssel kapcsolatos államigazgatási feladat- és hatáskörében
 
