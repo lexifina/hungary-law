@@ -1,6 +1,6 @@
 ## 11. § A használati jogviszony megszűnésének napjával a szállóférőhely használója köteles a férőhelyet tisztán, rendeltetésszerű használatra alkalmas állapotban, a részére átadott leltári tárgyakkal, felszerelésekkel együtt a beutalásra jogosult szerv részére visszaadni. A visszaadás tényét a szálló gondnoka által kiállított átadás-átvételi jegyzőkönyv bemutatásával kell igazolnia.
 
-12. §[^19] (1) A belügyi rendelkezésű szállóférőhely jogcím nélküli használójával haladéktalanul, de legkésőbb a jogcím nélkülivé válás tudomásra jutását követő 8 napon belül, írásban kell közölni használati jogviszonyának megszűnését vagy a jogcím nélkülivé válás tényét és annak következményeit.
+12. §[^20] (1) A belügyi rendelkezésű szállóférőhely jogcím nélküli használójával haladéktalanul, de legkésőbb a jogcím nélkülivé válás tudomásra jutását követő 8 napon belül, írásban kell közölni használati jogviszonyának megszűnését vagy a jogcím nélkülivé válás tényét és annak következményeit.
 
 (2) A szállóférőhely kiürítése önkéntes teljesítésének hiányában a helyi lakásügyi szerv köteles haladéktalanul, de legkésőbb a teljesítési határidő leteltét követő 30 napon belül intézkedni annak bírói úton történő érvényesítésére.
 
@@ -8,4 +8,4 @@
 
 (4) Az üzemeltető és a rendelkezésre jogosult szerv külön megállapodás alapján számol el a térítési díj és a használati díj tekintetében.
 
-[^19]: A 12. § a 42/2012. (VIII. 23.) BM rendelet 4. §-ával megállapított szöveg.
+[^20]: A 12. § a 42/2012. (VIII. 23.) BM rendelet 4. §-ával megállapított szöveg.

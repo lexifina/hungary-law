@@ -6,7 +6,7 @@ b) a Készenléti Rendőrség a saját, valamint külön megállapodás alapján
 
 c) a Budapesti Rendőr-főkapitányság a saját dolgozói állománya vonatkozásában,
 
-d) a megyei rendőr-főkapitányságok a saját dolgozói állományuk vonatkozásában,
+d)[^4] a vármegyei rendőr-főkapitányságok a saját dolgozói állományuk vonatkozásában,
 
 e) a Nemzetbiztonsági Szakszolgálat a saját dolgozói állománya vonatkozásában,
 
@@ -27,3 +27,4 @@ l) a Terrorelhárítási Központ a saját dolgozói állománya vonatkozásába
 m) a belügyi szervekhez, valamint a Nemzeti Közszolgálati Egyetem Rendészettudományi Karhoz kirendelt és vezényelt dolgozók vonatkozásában a kirendelés vagy vezénylés szerinti munkáltatói jogkör gyakorlója szerinti, az a)–l) pontban meghatározott szervek.
 
 [^3]: Az 1/A. §-t a 41/2021. (XI. 25.) BM rendelet 1. §-a iktatta be.
+[^4]: Az 1/A. § d) pontja a 45/2022. (XII. 20.) BM rendelet 18. §-a szerint módosított szöveg.

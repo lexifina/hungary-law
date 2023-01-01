@@ -1,4 +1,4 @@
-13/A. §[^28] (1) A hozzájárulás abban az esetben biztosítható a dolgozó részére, ha
+13/A. §[^29] (1) A hozzájárulás abban az esetben biztosítható a dolgozó részére, ha
 
 a) szolgálatteljesítési helyén vagy olyan, annak 60 km-es vonzáskörzetében lévő településen, ahová a helyileg szokásos módon a szolgálati érdek sérelme nélkül a napi hazautazásra lehetőség van, önálló lakással nem rendelkezik,
 
@@ -34,4 +34,4 @@ c) haszonélvezettel terhelt tulajdonában álló önálló ingatlana tekinteté
 
 (6) Jóváhagyás esetén a hozzájárulás a kérelem benyújtása hónapjának első napjától illeti meg a dolgozót.
 
-[^28]: A 13/A. §-t a 41/2021. (XI. 25.) BM rendelet 3. §-a iktatta be.
+[^29]: A 13/A. §-t a 41/2021. (XI. 25.) BM rendelet 3. §-a iktatta be.
