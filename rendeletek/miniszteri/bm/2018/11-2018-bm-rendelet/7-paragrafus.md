@@ -10,7 +10,7 @@ b) a Rendőrtiszti Főiskolán vagy a Nemzeti Közszolgálati Egyetem Rendészet
 
 c) felsőfokú végzettséggel és felsőfokú rendészeti szakképesítéssel
 
-## rendelkező azon tagja járhat el, akit e feladatok ellátásával a parancsnok írásban megbízott.
+rendelkező azon tagja járhat el, akit e feladatok ellátásával a parancsnok írásban megbízott.
 
 (2) A munkaköri leírásban a nyomozótiszti feladatok ellátását szerepeltetni kell.
 
