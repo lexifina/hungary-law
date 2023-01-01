@@ -1,4 +1,4 @@
-## 3/A. [^20] A kéményseprő-ipari tevékenységet ellátó feladatai a tűzvédelmi hatóság megkeresése alapján
+## 3/A. [^21] A kéményseprő-ipari tevékenységet ellátó feladatai a tűzvédelmi hatóság megkeresése alapján
 
 ## 4/A. § A kéményseprő-ipari tevékenységet ellátó a tűzvédelmi hatóság megkeresésére
 
@@ -10,4 +10,4 @@ c) a tűzvédelmi hatóság által kitűzött helyszíni ellenőrzés vagy szeml
 
 elvégzi az égéstermék-elvezető szükség szerinti ellenőrzését, műszaki felülvizsgálatát vagy helyszíni műszaki vizsgálatát.
 
-[^20]: A 3/A. alcímet (4/A–4/B. §-t) a 457/2017. (XII. 28.) Korm. rendelet 573. § (7) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^21]: A 3/A. alcímet (4/A–4/B. §-t) a 457/2017. (XII. 28.) Korm. rendelet 573. § (7) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.

@@ -22,7 +22,7 @@ i) a tisztítóajtó, tisztítóidom nem megfelelő záródása, vagy
 
 j) az égéstermék 1000 ppm-t meghaladó szénmonoxid tartalma
 
-## miatti – az életet és a vagyonbiztonságot közvetlenül fenyegető – veszély észlelése esetén soron kívül, de legkésőbb három munkanapon belül értesíti az első fokú tűzvédelmi hatóságot, valamint gázfogyasztó készülék esetében a földgázelosztót.
+miatti – az életet és a vagyonbiztonságot közvetlenül fenyegető – veszély észlelése esetén soron kívül, de legkésőbb három munkanapon belül értesíti az első fokú tűzvédelmi hatóságot, valamint gázfogyasztó készülék esetében a földgázelosztót.
 
 (1a)[^3] Az égéstermék-elvezető (1) bekezdés g) pontjában meghatározott jogszabály szerinti műszaki vizsgálat nélkül történő üzemeltetése nem minősül életet és vagyonbiztonságot közvetlenül veszélyeztető szabálytalanságnak, ha az ingatlan tulajdonosa a szabálytalanság megállapításától – a 2. § (1) bekezdés szerinti esetben az ingatlantulajdonos tudomásszerzésétől – számított harminc napon belül megrendeli az égéstermék-elvezető műszaki vizsgálatát. A kéményseprő-ipari tevékenységet ellátó erről, valamint az ingatlanhasználónak az égéstermék-elvezető műszaki vizsgálat elvégzéséig történő üzemeltetéséből eredő balesetekért való felelősségéről a helyszínen írásban tájékoztatja az ingatlan használóját.
 

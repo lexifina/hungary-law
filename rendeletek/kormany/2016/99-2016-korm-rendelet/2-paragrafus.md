@@ -12,7 +12,7 @@ ba) b) pontjában meghatározott ellenőrzés vagy
 
 bb) f) pontjában meghatározott vizsgálat
 
-## megrendelésének a szabálytalanság megszüntetését követő megtörténtét. Ha a tűzvédelmi hatóság megállapítja, hogy az ingatlan használója az égéstermék-elvezetőt a tilalom ellenére üzemelteti, és az üzemeltetés az életet és a vagyonbiztonságot közvetlenül veszélyezteti, az ingatlan tulajdonosával szemben tűzvédelmi bírságot szab ki a tűzvédelmi bírságról szóló kormányrendelet rendelkezései szerint.
+megrendelésének a szabálytalanság megszüntetését követő megtörténtét. Ha a tűzvédelmi hatóság megállapítja, hogy az ingatlan használója az égéstermék-elvezetőt a tilalom ellenére üzemelteti, és az üzemeltetés az életet és a vagyonbiztonságot közvetlenül veszélyezteti, az ingatlan tulajdonosával szemben tűzvédelmi bírságot szab ki a tűzvédelmi bírságról szóló kormányrendelet rendelkezései szerint.
 
 (2a)[^7] A tűzvédelmi hatóság a (2) bekezdés szerinti intézkedést az 1. § (1a) bekezdésben foglaltak esetében a megrendelési kötelezettségre előírt határidő elteltét követően teszi meg.
 
@@ -38,7 +38,7 @@ b)[^10] kivizsgálja a kéményseprő-ipari szerv által végzett kéményseprő
 
 c) megvizsgálja az égéstermék-elvezető használati és műszaki állapota kéményseprő-ipari szerv általi, a Kstv. 3. § (6) bekezdése szerinti felmérésének tartalmát,
 
-## és a kéményseprő-ipari szervet – határidő tűzésével – írásban a jogszerű állapot helyreállítására hívja fel, valamint intézkedéséről az ingatlan használóját, tulajdonosát értesíti.
+és a kéményseprő-ipari szervet – határidő tűzésével – írásban a jogszerű állapot helyreállítására hívja fel, valamint intézkedéséről az ingatlan használóját, tulajdonosát értesíti.
 
 (11)[^11] A kéményseprő-ipari tevékenységet ellátó a panaszról felvett jegyzőkönyvet és a válasz másolati példányát az ellenőrző hatóságoknak felhívásra bemutatja.
 

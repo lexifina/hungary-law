@@ -6,7 +6,7 @@
 
 (2) Ahol e rendelet a kéményseprő-ipari szolgáltatóra vonatkozó rendelkezéseket állapít meg, ezek alatt a Kstv. átmeneti rendelkezéseinek alkalmazásában a közszolgáltatót is érteni kell.
 
-(3)[^21] E rendeletnek a kéményseprő-ipari tevékenységről szóló törvény végrehajtásáról szóló 99/2016. (V. 13.) Korm. rendelet módosításáról szóló 263/2017. (IX. 11.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 4. § (12) bekezdésében foglaltakat első alkalommal a Módr. hatálybalépését[^22] követő harminc napon belül kell teljesíteni.
+(3)[^22] E rendeletnek a kéményseprő-ipari tevékenységről szóló törvény végrehajtásáról szóló 99/2016. (V. 13.) Korm. rendelet módosításáról szóló 263/2017. (IX. 11.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 4. § (12) bekezdésében foglaltakat első alkalommal a Módr. hatálybalépését[^23] követő harminc napon belül kell teljesíteni.
 
-[^21]: Az 5. § (3) bekezdését a 263/2017. (IX. 11.) Korm. rendelet 5. §-a iktatta be.
-[^22]: A hatálybalépés időpontja 2017. szeptember 26.
+[^22]: Az 5. § (3) bekezdését a 263/2017. (IX. 11.) Korm. rendelet 5. §-a iktatta be.
+[^23]: A hatálybalépés időpontja 2017. szeptember 26.
