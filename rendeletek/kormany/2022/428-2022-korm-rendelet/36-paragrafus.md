@@ -1,3 +1,1 @@
-36. §[^1]
-
-[^1]: A 36. § a 35. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+36. § A 8. § (3) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
