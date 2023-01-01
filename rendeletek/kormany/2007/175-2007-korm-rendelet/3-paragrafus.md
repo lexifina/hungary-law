@@ -1,10 +1,10 @@
-## AZ MH EK ÁLTAL NYÚJTOTT ALAPVETŐ ELLÁTÁSOK[^23]
+## AZ ÉPC-HK és az MH EK ÁLTAL NYÚJTOTT ALAPVETŐ ELLÁTÁSOK[^26]
 
-3. §[^24] (1)[^25] Az MH EK alapfeladatként ellátandó tevékenysége az igényjogosultak és jogosultak részére az Ebtv. II. fejezete szerinti egészségügyi szolgáltatások biztosítása, valamint a rendvédelmi szervek személyi állománya vonatkozásában a külön jogszabályok szerinti alapellátás biztosítása.
+3. §[^27] (1)[^28] Az ÉPC-HK és az MH EK alapfeladatként ellátandó tevékenysége az igényjogosultak és jogosultak részére az Ebtv. II. fejezete szerinti egészségügyi szolgáltatások biztosítása, valamint a rendvédelmi szervek személyi állománya vonatkozásában a külön jogszabályok szerinti alapellátás biztosítása.
 
-(2)[^26] Az MH EK alapfeladatként ellátandó tevékenysége az (1) bekezdésben meghatározottak mellett az igényjogosultak e rendeletben meghatározott speciális egészségügyi ellátása.
+(2)[^29] Az ÉPC-HK és az MH EK alapfeladatként ellátandó tevékenysége az (1) bekezdésben meghatározottak mellett az igényjogosultak e rendeletben meghatározott speciális egészségügyi ellátása.
 
-[^23]: A 3. §-t megelőző alcím a 163/2019. (VII. 5.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
-[^24]: A 3. § a 318/2011. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^25]: A 3. § (1) bekezdése a 163/2019. (VII. 5.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.
-[^26]: A 3. § (2) bekezdése a 163/2019. (VII. 5.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.
+[^26]: Az „AZ ÉPC-HK és az MH EK ÁLTAL NYÚJTOTT ALAPVETŐ ELLÁTÁSOK” alcím címe az 570/2022. (XII. 23.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
+[^27]: A 3. § a 318/2011. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^28]: A 3. § (1) bekezdése az 570/2022. (XII. 23.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
+[^29]: A 3. § (2) bekezdése az 570/2022. (XII. 23.) Korm. rendelet 5. § g) pontja szerint módosított szöveg.
