@@ -64,7 +64,7 @@ c) a pénztárban lévő,
 
 d) ügyfélszámla szerződés hiányában az elszámolási betétszámlán lévő
 
-## pénzösszeg részletezésben.
+pénzösszeg részletezésben.
 
 (11)[^39] A befektetési vállalkozás által nyújtott befektetési és pénzügyi szolgáltatás tekintetében nem alkalmazható a Tv. 28. §-a (2) bekezdésének b) pontjában a befejezetlen, még ki nem számlázott szolgáltatás készletként történő kimutatására előírt rendelkezés.
 

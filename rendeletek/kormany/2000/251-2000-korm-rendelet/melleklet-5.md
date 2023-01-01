@@ -4,9 +4,9 @@
 
 ## E. Tárgyévi eredmény (±D±XIII.)”
 
-5. számú melléklet a 251/2000. (XII. 24.) Korm. rendelethez[^148]
+5. számú melléklet a 251/2000. (XII. 24.) Korm. rendelethez[^154]
 
-## Értékvesztéssel és céltartalék képzéssel szembeni követelmény
+Értékvesztéssel és céltartalék képzéssel szembeni követelmény
 
 (1) A befektetési vállalkozásnak számviteli politikájában rendelkezni kell az elszámolt értékvesztés és értékvesztés visszaírás, valamint kötelezettségek miatt képzett céltartalék és céltartalék felszabadítás, illetve felhasználás rendjéről, amelynek során a Tv. előírásait kell alkalmaznia azzal, hogy figyelembe kell venni a (2)–(13) bekezdésben foglalt követelményeket.
 
@@ -38,4 +38,4 @@ b) az értékpapír árfolyamveszteségre a 8. § (1) bekezdése szerint képzet
 
 (13) Eszközeladásnál vagy halasztott fizetéssel eladott eszközök esetében a vevő által érvényesíthető visszkereseti jog miatt a visszkereseti jogból eredően fennálló függő kötelezettséget az értékelés során minősíteni kell, és indokolt esetben a Tv. 41. § (1) bekezdése szerinti céltartalékot kell utána képezni legkésőbb a mérlegfordulónapi értékelés során. A céltartalék képzésére legfeljebb az eladási ár mértékéig kerülhet sor. Ha a visszkereseti jog érvényesítéséről a vevő lemond, de az eszközértékesítéshez bármilyen mérlegbeli vagy mérlegen kívüli tételt keletkeztető kockázatvállalás tartozik (halasztott fizetés stb.), akkor az így keletkező tételt szintén értékelés alá kell vonni.
 
-[^148]: Az 5. számú mellékletet a 292/2001. (XII. 26.) Korm. rendelet 16. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 331/2008. (XII. 30.) Korm. rendelet 18. §-a iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 69. § 2. pontjával megállapított szöveg.
+[^154]: Az 5. számú mellékletet a 292/2001. (XII. 26.) Korm. rendelet 16. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 331/2008. (XII. 30.) Korm. rendelet 18. §-a iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 69. § 2. pontjával megállapított szöveg.

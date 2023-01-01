@@ -1,26 +1,26 @@
-## 18. §[^126] A befektetési vállalkozás a 3. § (1) bekezdés szerinti éves beszámolóját a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt a Tv. előírásainak megfelelően köteles közzétenni.
+## 18. §[^131] A befektetési vállalkozás a 3. § (1) bekezdés szerinti éves beszámolóját a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt a Tv. előírásainak megfelelően köteles közzétenni.
 
 ## A befektetési szolgáltatási tevékenységet év közben megkezdő, illetve megszüntető vállalkozások
 
 ## nyilvántartási kötelezettsége
 
-18/A. §[^127] (1) Az a befektetési vállalkozás, amely év közben szerzi meg befektetési szolgáltatási tevékenység végzésére vonatkozó engedélyét és kezdi meg befektetési szolgáltatási tevékenységét, azonban megalakulása óta befektetési szolgáltatástól eltérő tevékenységet végzett, a befektetési szolgáltatási tevékenység végzésére jogosító engedély hatálybalépésének időpontjára vonatkozóan köteles főkönyvi számláit lezárni, leltárt és főkönyvi kivonatot készíteni.
+18/A. §[^132] (1) Az a befektetési vállalkozás, amely év közben szerzi meg befektetési szolgáltatási tevékenység végzésére vonatkozó engedélyét és kezdi meg befektetési szolgáltatási tevékenységét, azonban megalakulása óta befektetési szolgáltatástól eltérő tevékenységet végzett, a befektetési szolgáltatási tevékenység végzésére jogosító engedély hatálybalépésének időpontjára vonatkozóan köteles főkönyvi számláit lezárni, leltárt és főkönyvi kivonatot készíteni.
 
 (2) Az (1) bekezdés szerinti befektetési vállalkozás főkönyvi kivonata alapján egyidejűleg köteles az e rendelet 1. számú melléklete szerinti mérleget és 2. számú melléklete szerinti eredménykimutatást alátámasztó főkönyvi számláit megnyitni e rendelet szerinti nyilvántartások folyamatos vezetése céljára.
 
 (3) Az (1) bekezdés szerinti befektetési vállalkozás a befektetési szolgáltatás végzésére jogosító engedély hatálybalépése évének mérlegfordulónapján e rendelet szerint elkészített éves beszámolója kiegészítő mellékletében köteles bemutatni, hogy a bázis adatokat hogyan rendezte át az 1. számú melléklet szerinti mérlegbe, illetve a 2. számú melléklet szerinti eredménykimutatásba.
 
-(4)[^128] Az év közben befektetési szolgáltatási tevékenységét megszüntető befektetési vállalkozásnak tevékenységi engedélye visszavonásának jogerőre emelkedése napjával az (5)–(6) bekezdés szerint tevékenységet lezáró beszámolót kell készítenie.
+(4)[^133] Az év közben befektetési szolgáltatási tevékenységét megszüntető befektetési vállalkozásnak tevékenységi engedélye visszavonásának jogerőre emelkedése napjával az (5)–(6) bekezdés szerint tevékenységet lezáró beszámolót kell készítenie.
 
-(5)[^129] Ha a befektetési vállalkozás tevékenységi engedélye visszavonásának jogerőre emelkedése és végelszámolásának kezdő időpontja megegyezik – azaz a végelszámolás kezdő napját megelőző napon a pénzügyi intézmény még tevékenységi engedéllyel rendelkezik – úgy a tevékenységet lezáró beszámolóját e rendelet szerint kell elkészítenie.
+(5)[^134] Ha a befektetési vállalkozás tevékenységi engedélye visszavonásának jogerőre emelkedése és végelszámolásának kezdő időpontja megegyezik – azaz a végelszámolás kezdő napját megelőző napon a pénzügyi intézmény még tevékenységi engedéllyel rendelkezik – úgy a tevékenységet lezáró beszámolóját e rendelet szerint kell elkészítenie.
 
-(6)[^130] Ha a befektetési vállalkozás tevékenységi engedélye visszavonásának jogerőre emelkedése a végelszámolás, vagy a felszámolás kezdő napját megelőzően történt – azaz a tevékenységet lezáró beszámoló mérlegfordulónapján a befektetési vállalkozás már nem rendelkezik tevékenységi engedéllyel – akkor a tevékenységet lezáró beszámolóját a Tv. rendelkezései alapján kell elkészítenie.
+(6)[^135] Ha a befektetési vállalkozás tevékenységi engedélye visszavonásának jogerőre emelkedése a végelszámolás, vagy a felszámolás kezdő napját megelőzően történt – azaz a tevékenységet lezáró beszámoló mérlegfordulónapján a befektetési vállalkozás már nem rendelkezik tevékenységi engedéllyel – akkor a tevékenységet lezáró beszámolóját a Tv. rendelkezései alapján kell elkészítenie.
 
-(7)[^131] A befektetési vállalkozás tevékenységi engedélye visszavonásának jogerőre emelkedése után (amennyiben végelszámolására, illetve felszámolására kerül sor, annak ideje alatt) a felszámolás számviteli feladatairól szóló kormányrendelet, vagy a végelszámolás számviteli feladatairól szóló kormányrendelet előírásait köteles alkalmazni.
+(7)[^136] A befektetési vállalkozás tevékenységi engedélye visszavonásának jogerőre emelkedése után (amennyiben végelszámolására, illetve felszámolására kerül sor, annak ideje alatt) a felszámolás számviteli feladatairól szóló kormányrendelet, vagy a végelszámolás számviteli feladatairól szóló kormányrendelet előírásait köteles alkalmazni.
 
-[^126]: A 18. § a 331/2008. (XII. 30.) Korm. rendelet 16. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
-[^127]: A 18/A. §-t és az előtte lévő alcímet a 241/2003. (XII. 17.) Korm. rendelet 7. §-a iktatta a szövegbe, e módosító rendelet 9. §-ának (1)–(2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
-[^128]: A 18/A. § (4) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 67. §-ával megállapított szöveg.
-[^129]: A 18/A. § (5) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 67. §-ával megállapított szöveg.
-[^130]: A 18/A. § (6) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 67. §-a iktatta be.
-[^131]: A 18/A. § (7) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 67. §-a iktatta be.
+[^131]: A 18. § a 331/2008. (XII. 30.) Korm. rendelet 16. §-ával megállapított szöveg. E módosító rendelet 38. § (1)–(2) bekezdése alapján a rendelkezést először a 2009. évben induló üzleti évről készített éves beszámolóra kell alkalmazni, illetve a 2008. évben induló üzleti évről készített éves beszámolóra is alkalmazható.
+[^132]: A 18/A. §-t és az előtte lévő alcímet a 241/2003. (XII. 17.) Korm. rendelet 7. §-a iktatta a szövegbe, e módosító rendelet 9. §-ának (1)–(2) bekezdése alapján rendelkezéseit először a 2004. évben induló üzleti évről készített beszámolóra kell alkalmazni, illetve a 2003. évi üzleti évről készített beszámolóra is alkalmazni lehet.
+[^133]: A 18/A. § (4) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 67. §-ával megállapított szöveg.
+[^134]: A 18/A. § (5) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 67. §-ával megállapított szöveg.
+[^135]: A 18/A. § (6) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 67. §-a iktatta be.
+[^136]: A 18/A. § (7) bekezdését a 480/2016. (XII. 28.) Korm. rendelet 67. §-a iktatta be.
