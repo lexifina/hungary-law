@@ -1,3 +1,3 @@
-4. melléklet az 529/2020. (XI. 28.) Korm. rendelethez[^24]
+4. melléklet az 529/2020. (XI. 28.) Korm. rendelethez[^22]
 
-[^24]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

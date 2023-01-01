@@ -1,3 +1,1 @@
-## 16. §[^16]
-
-[^16]: A 16. § a 21. § (4) bekezdése alapján 2023. január 1-jén lép hatályba.
+## 16. § A 256/2013. (VII. 5.) Korm. rendelet 9. melléklete helyébe a 6. melléklet lép.

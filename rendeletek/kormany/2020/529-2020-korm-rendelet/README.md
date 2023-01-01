@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-529-20-
 | 2021-03-02 | 2020-529-20-22.4 | 2010: CXXX. törvény |
 | 2022-01-01 | 2020-529-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-01-02 | 2020-529-20-22.6 | 2010: CXXX. törvény |
+| 2023-01-01 | 2020-529-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
