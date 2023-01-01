@@ -20,19 +20,19 @@ Az állandó személyazonosító igazolvány iránti kérelem a kérelmező köv
 
 9. Neme
 
-9a.[^227] Származási helye (Kérelmére)
+9a.[^228] Származási helye (Kérelmére)
 
-10.[^228] Annak tényét, hogy társadalombiztosítási azonosító jellel, adóazonosító jellel, személyi azonosítóval és lakcímmel a kiállítás időpontjában rendelkezik-e
+10.[^229] Annak tényét, hogy társadalombiztosítási azonosító jellel, adóazonosító jellel, személyi azonosítóval és lakcímmel a kiállítás időpontjában rendelkezik-e
 
-10a.[^229] A 16. § (3) bekezdése szerinti esetben a kérelmező nyilatkozatát, hogy az Nytv. 29. § (7) bekezdés d) és e) pontja szerinti azonosító kód az azonosító kódot igazoló hatósági igazolványnak, az Nytv. 29. § (7) bekezdés i) és j) pontjában meghatározott adat a személyiadat- és lakcímnyilvántartásnak megfelelően került rögzítésre
+10a.[^230] A 16. § (3) bekezdése szerinti esetben a kérelmező nyilatkozatát, hogy az Nytv. 29. § (7) bekezdés d) és e) pontja szerinti azonosító kód az azonosító kódot igazoló hatósági igazolványnak, az Nytv. 29. § (7) bekezdés i) és j) pontjában meghatározott adat a személyiadat- és lakcímnyilvántartásnak megfelelően került rögzítésre
 
 11. Okmány belföldi kézbesítési címe
 
 12. Arcképmása
 
-13.[^230] Ujjnyomatának rögzítése
+13.[^231] Ujjnyomatának rögzítése
 
-14.[^231] Ujjnyomat adására ideiglenesen fizikailag vagy fizikailag képtelenség ténye
+14.[^232] Ujjnyomat adására ideiglenesen fizikailag vagy fizikailag képtelenség ténye
 
 15. Saját kezű aláírása
 
@@ -52,17 +52,17 @@ Az állandó személyazonosító igazolvány iránti kérelem a kérelmező köv
 
 23. Az elektronikus aláíráshoz tartozó PIN kód létrehozásához szükséges aktiváló PIN kód és a visszavonási jelszó átvételének ténye és a kódokat tartalmazó boríték azonosítója, ha e-aláírás funkciót igényelt
 
-24.[^232] A vészhelyzet esetén értesítendő telefonszáma rögzítésének ténye, valamint a polgár nyilatkozata arról, hogy a vészhelyzet esetén értesítendő telefonszáma megfelelően került rögzítésre
+24.[^233] A vészhelyzet esetén értesítendő telefonszáma rögzítésének ténye, valamint a polgár nyilatkozata arról, hogy a vészhelyzet esetén értesítendő telefonszáma megfelelően került rögzítésre
 
-25.[^233] A személyazonosító igazolvány kérelem és adatlap ügyszáma
+25.[^234] A személyazonosító igazolvány kérelem és adatlap ügyszáma
 
-26.[^234] Kapcsolattartási adatai (telefonszám, elektronikus levelezési cím)
+26.[^235] Kapcsolattartási adatai (telefonszám, elektronikus levelezési cím)
 
-[^227]: Az 1. melléklet 9a. pontját az 572/2020. (XII. 9.) Korm. rendelet 81. §-a iktatta be.
-[^228]: Az 1. melléklet a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
-[^229]: Az 1. melléklet 10a. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (26) bekezdése iktatta be, szövege a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
-[^230]: Az 1. melléklet 13. pontja az 572/2020. (XII. 9.) Korm. rendelet 81. §-ával megállapított szöveg.
-[^231]: Az 1. melléklet 14. pontja az 572/2020. (XII. 9.) Korm. rendelet 81. §-ával megállapított szöveg.
-[^232]: Az 1. melléklet 24. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (27) bekezdése iktatta be.
-[^233]: Az 1. melléklet 25. pontját az 572/2020. (XII. 9.) Korm. rendelet 81. §-a iktatta be.
-[^234]: Az 1. melléklet második 25. pontját a 375/2021. (VI. 30.) Korm. rendelet 23. §-a iktatta be, szövege a 717/2021. (XII. 20.) Korm. rendelet 17. § d) pontja szerint módosított szöveg, ez utóbbi módosító rendelet egyúttal a 25. pont sorszámát 26. pontra változtatta.
+[^228]: Az 1. melléklet 9a. pontját az 572/2020. (XII. 9.) Korm. rendelet 81. §-a iktatta be.
+[^229]: Az 1. melléklet a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
+[^230]: Az 1. melléklet 10a. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (26) bekezdése iktatta be, szövege a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
+[^231]: Az 1. melléklet 13. pontja az 572/2020. (XII. 9.) Korm. rendelet 81. §-ával megállapított szöveg.
+[^232]: Az 1. melléklet 14. pontja az 572/2020. (XII. 9.) Korm. rendelet 81. §-ával megállapított szöveg.
+[^233]: Az 1. melléklet 24. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (27) bekezdése iktatta be.
+[^234]: Az 1. melléklet 25. pontját az 572/2020. (XII. 9.) Korm. rendelet 81. §-a iktatta be.
+[^235]: Az 1. melléklet második 25. pontját a 375/2021. (VI. 30.) Korm. rendelet 23. §-a iktatta be, szövege a 717/2021. (XII. 20.) Korm. rendelet 17. § d) pontja szerint módosított szöveg, ez utóbbi módosító rendelet egyúttal a 25. pont sorszámát 26. pontra változtatta.

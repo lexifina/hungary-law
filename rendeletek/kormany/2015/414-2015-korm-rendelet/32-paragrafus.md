@@ -1,8 +1,8 @@
 ## 8. A személyazonosító igazolvány cseréje
 
-## 32. §[^115] Érvényes személyazonosító igazolvány cseréjét a polgár akkor kezdeményezheti, ha
+## 32. §[^116] Érvényes személyazonosító igazolvány cseréjét a polgár akkor kezdeményezheti, ha
 
-a)[^116] az abban tárolt vagy azon szereplő adataiban változás következett be, ide nem értve az Nytv. 29. § (7) bekezdés d), e), i) és j) pontjában meghatározott adatokat, valamint a vészhelyzet esetén értesítendő telefonszámát,
+a)[^117] az abban tárolt vagy azon szereplő adataiban változás következett be, ide nem értve az Nytv. 29. § (7) bekezdés d), e), i) és j) pontjában meghatározott adatokat, valamint a vészhelyzet esetén értesítendő telefonszámát,
 
 b) az gyártáshibás,
 
@@ -12,13 +12,13 @@ d) az érvényességi idejéből legfeljebb 60 nap van hátra,
 
 e) a tároló elem nem működik,
 
-f)[^117] a 70. életévét betöltött kérelmező az Nytv. 29/E. § (2) bekezdése szerinti személyazonosító igazolványt igényel.
+f)[^118] a 70. életévét betöltött kérelmező az Nytv. 29/E. § (2) bekezdése szerinti személyazonosító igazolványt igényel.
 
-g)[^118]
+g)[^119]
 
 h) a személyazonosító igazolvány tároló eleme ujjnyomatot nem tartalmaz, és a polgár ujjnyomat rögzítését kéri.
 
-[^115]: A 32. § a 227/2016. (VII. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^116]: A 32. § a) pontja a 176/2019. (VII. 18.) Korm. rendelet 9. § (10) bekezdésével megállapított szöveg.
-[^117]: A 32. § f) pontja az 572/2020. (XII. 9.) Korm. rendelet 75. §-ával megállapított szöveg.
-[^118]: A 32. § g) pontját az 572/2020. (XII. 9.) Korm. rendelet 83. § h) pontja hatályon kívül helyezte.
+[^116]: A 32. § a 227/2016. (VII. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^117]: A 32. § a) pontja a 176/2019. (VII. 18.) Korm. rendelet 9. § (10) bekezdésével megállapított szöveg.
+[^118]: A 32. § f) pontja az 572/2020. (XII. 9.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^119]: A 32. § g) pontját az 572/2020. (XII. 9.) Korm. rendelet 83. § h) pontja hatályon kívül helyezte.

@@ -12,8 +12,9 @@ b) a menekült és az oltalmazott jogállású kérelmező esetén – ha első 
 
 (4) Ha a kérelmező érvényes állandó személyazonosító igazolvánnyal vagy a személyazonosságát igazoló más érvényes okmánnyal nem rendelkezik, és a (3) bekezdésben foglalt okiratot nem mutatja be, az eljáró hatóság hivatalból intézkedik az illetékes anyakönyvvezető megkeresésével a szükséges adatok egyeztetése érdekében, ha a születést és a házasságkötést Magyarországon anyakönyvezték.
 
-(5) Ha a polgár a doktori címet 2006. február 1-jén vagy azt követően fennálló hallgató jogviszony alapján szerezte, a (2) bekezdés a) pontjától eltérően a doktori címre jogosító okiratot vagy annak másolatát bemutathatja.
+(5)[^67] Ha a polgár a doktori címet 2006. február 1-jén vagy azt követően fennálló hallgatói jogviszony alapján szerezte, az Nytv. 17. § (9) bekezdésétől eltérően a doktori címre jogosító okiratot vagy annak másolatát bemutathatja.
 
 [^64]: A 17/D. §-t a 6/2020. (I. 31.) Korm. rendelet 12. § (7) bekezdése iktatta be.
 [^65]: A 18. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 554. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
 [^66]: A 18. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 554. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^67]: A 18. § (5) bekezdése az 569/2022. (XII. 23.) Korm. rendelet 33. §-ával megállapított szöveg.
