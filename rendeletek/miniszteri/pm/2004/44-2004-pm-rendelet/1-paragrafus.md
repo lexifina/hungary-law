@@ -2,7 +2,7 @@
 
 1. § (1) E rendelet hatálya
 
-a)[^1] a fővárosi és megyei kormányhivatalra, továbbá a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalára (a továbbiakban: járási hivatal), illetve a 2. § (3) bekezdése szerinti pénzügyi elszámolás megtörténtét igazoló szervre (a továbbiakban: igazoló szerv),
+a)[^1] a fővárosi és vármegyei kormányhivatalra, továbbá a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalára (a továbbiakban: járási hivatal), illetve a 2. § (3) bekezdése szerinti pénzügyi elszámolás megtörténtét igazoló szervre (a továbbiakban: igazoló szerv),
 
 b)[^2] Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerveire, az önkormányzat jegyzőjére (a továbbiakban: adóhatóság),
 
@@ -18,7 +18,7 @@ g)[^5] a közjegyző által a fizetési meghagyásos eljárásban, és a fizeté
 
 h)[^6] továbbá az Elektronikus Fizetési és Elszámolási Rendszerhez csatlakozott szervezetekre
 
-## terjed ki.
+terjed ki.
 
 (2) E rendeletet
 
@@ -34,7 +34,9 @@ e)[^11] a közjegyző által a fizetési meghagyásos eljárásban, és a fizet�
 
 f)[^12] továbbá az Elektronikus Fizetési és Elszámolási Rendszer igénybevétele mellett kezdeményezett illetékköteles eljárások
 
-[^1]: Az 1. § (1) bekezdés a) pontja a 13/2018. (XII. 18.) PM rendelet 1. § (1) bekezdésével megállapított szöveg.
+esetén kell alkalmazni.
+
+[^1]: Az 1. § (1) bekezdés a) pontja a 13/2018. (XII. 18.) PM rendelet 1. § (1) bekezdésével megállapított, a 12/2022. (XII. 20.) PM rendelet 1. §-a szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés b) pontja az 5/2011. (II. 11.) NGM rendelet 1. § (1) bekezdésével megállapított, a 47/2015. (XII. 30.) NGM rendelet 4. § (2) bekezdés a) pontja szerint módosított szöveg. [Az 1. § (1) bekezdés b) pontjának a 48/2015. (XII. 30.) NGM rendelet 3. §-a szerint elrendelt módosítása, amely szerint „Nemzeti Adó- és Vámhivatal Központi Hivatalára, az Informatikai Intézetre, az Integrált Informatikai és Telekommunikációs Intézetre, az alsó és középfokú adóztatási és vámszerveire” szövegrész helyébe a „Nemzeti Adó- és Vámhivatalra” szöveg lép, nem vezethető át.]
 [^3]: Az 1. § (1) bekezdés d) pontja az 54/2014. (XII. 31.) NGM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés f) pontját az 5/2011. (II. 11.) NGM rendelet 1. § (2) bekezdése iktatta be, szövege az 52/2017. (XII. 29.) NGM rendelet 13. §-ával megállapított szöveg.

@@ -8,7 +8,7 @@ a) 1. § (1) bekezdése f)–g) pontjainak (2) bekezdése e) pontjának, 6/A. §
 
 b) 8. §-ának a Módr. által megállapított szövegét a hatálybalépést[^52] követően megadott, illetve meghosszabbított engedélyek
 
-## vonatkozásában kell alkalmazni.
+vonatkozásában kell alkalmazni.
 
 (4)[^53] E rendelet 8. § (1) bekezdésének az egyes illetékjogi tárgyú PM rendeletek módosításáról szóló 46/2012. (XII. 27.) NGM rendelet 6. §-a által megállapított szövegét a 2013. január 1-je után kiadott engedélyek esetén kell alkalmazni.
 

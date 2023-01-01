@@ -20,7 +20,7 @@ c) a felülvizsgálati illetéket a felülvizsgálati kérelemmel érintett hat�
 
 d) a csatlakozó felülvizsgálati illetéket a Kúria
 
-## illetékbevételi számlájára kell teljesíteni.
+illetékbevételi számlájára kell teljesíteni.
 
 (5) A jegyző birtokvédelmi ügyben hozott határozatának megváltoztatása iránti perben elektronikus úton eljáró fél az illetéket – a technikai feltételek megléte esetén – az Elektronikus Fizetési és Elszámolási Rendszeren keresztül vagy az önkormányzati adóhatóság illetékbevételi számlája javára átutalással fizeti meg. Átutalás esetén a közleményrovatban fel kell tüntetni az eljáró bíróság jelzőszámát és az eljárási illetékfizetésre kötelezett fél nevét, továbbá a birtokvédelmi határozat számát.
 
