@@ -1,8 +1,6 @@
-## 6. §[^11]
+1. melléklet a 337/2016. (XI. 17.) Korm. rendelethez[^12]
 
-1. melléklet a 337/2016. (XI. 17.) Korm. rendelethez
-
-## KENYI alapadatok
+KENYI alapadatok
 
 ## A KENYI legalább a következő alapadatokat tartalmazza:
 
@@ -26,7 +24,7 @@ I. A nyomvonal adatai
 
 | 8. | Régió |
 
-| 9. | Megye |
+| 9. | Vármegye |
 
 | 10. | A település KSH kódja |
 
@@ -142,4 +140,4 @@ V. Nevezetes pontok mezői
 
 | 12. | Az információ forrása |
 
-[^11]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: Az 1. melléklet a 616/2022. (XII. 29.) Korm. rendelet 238. §-a szerint módosított szöveg.
