@@ -42,7 +42,7 @@ k) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő elj
 
 (7b) A személyazonosság megállapítása céljából
 
-a) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve, valamint a járásbíróság az általa lefolytatott szabálysértési eljárás során,
+a) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve, valamint a járásbíróság az általa lefolytatott szabálysértési eljárás során,
 
 b) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv az általa lefolytatott közigazgatási hatósági eljárások során,
 

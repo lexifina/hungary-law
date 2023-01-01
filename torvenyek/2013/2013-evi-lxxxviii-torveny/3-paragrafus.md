@@ -22,7 +22,7 @@ ag) állampolgárságát vagy hontalanságát,
 
 ah) lakcím adatát, továbbá annak megváltozása esetén korábbi lakcím adatát,
 
-ai) értesítési címét,
+ai) értesítési címét, telefonszámát, elektronikus levelezési címét vagy más elektronikus elérhetőségét,
 
 aj) személyiadat- és lakcímnyilvántartás, a központi idegenrendészeti nyilvántartás, illetve a menekültügyi nyilvántartás szerinti arcképmását,
 
