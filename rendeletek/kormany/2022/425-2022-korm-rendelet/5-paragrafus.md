@@ -1,3 +1,3 @@
-5. § (1) Hatályát veszti a 2. §.
+5. §[^4]
 
-(2) Hatályát veszti a veszélyhelyzet idején az egyes adatigénylési rendelkezésektől való eltérésről szóló 521/2020. (XI. 25.) Korm. rendelet.
+[^4]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

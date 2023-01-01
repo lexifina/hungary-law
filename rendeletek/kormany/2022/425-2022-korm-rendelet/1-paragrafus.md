@@ -64,7 +64,7 @@
 
 31. az ukrán állampolgársággal rendelkező személyek egyes költségvetési szerveknél való foglalkoztatásának támogatásáról szóló 173/2022. (IV. 29.) Korm. rendelet
 
-## a 2022. október 31-én hatályos szöveggel, e rendelet hatálybalépésének időpontjában hatályba lép.
+a 2022. október 31-én hatályos szöveggel, e rendelet hatálybalépésének időpontjában hatályba lép.
 
 (3) Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 180/2022. (V. 24.) Korm. rendelet [a továbbiakban: 180/2022. (V. 24.) Korm. rendelet] szerinti veszélyhelyzet ideje alatt kiadott,
 
@@ -218,7 +218,7 @@
 
 75. a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény szerinti díjazás kifizetésének veszélyhelyzeti szabályairól szóló 422/2022. (X. 27.) Korm. rendelet
 
-## a 2022. október 31-én hatályos szöveggel, e rendelet hatálybalépésének időpontjában hatályba lép.
+a 2022. október 31-én hatályos szöveggel, e rendelet hatálybalépésének időpontjában hatályba lép.
 
 (4) Ahol
 
@@ -227,3 +227,5 @@ a) az (1) bekezdés szerinti kormányrendelet a 478/2020. (XI. 3.) Korm. rendele
 b) a (2) bekezdés szerinti valamely kormányrendelet a 478/2020. (XI. 3.) Korm. rendelet vagy a 27/2021. (I. 29.) Korm. rendelet,
 
 c) a (3) bekezdés szerinti valamely kormányrendelet a 478/2020. (XI. 3.) Korm. rendelet, a 27/2021. (I. 29.) Korm. rendelet vagy a 180/2022. (V. 24.) Korm. rendelet
+
+szerinti veszélyhelyzetet említ, azon az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet [a továbbiakban: 424/2022. (X. 28.) Korm. rendelet] szerinti veszélyhelyzetet is érteni kell.
