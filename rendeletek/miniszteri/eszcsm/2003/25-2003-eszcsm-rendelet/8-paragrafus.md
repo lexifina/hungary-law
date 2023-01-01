@@ -1,4 +1,4 @@
-8. §[^6] (1) A hivatásos támogatói feladatok ellátását vállaló, 2014. március 15-én hivatásos gondnokként működő személyek hivatásos támogatóvá történő átképzéséről – a gyermekek és az ifjúság védelméért felelős miniszter által vezetett minisztérium által a támogatott döntéshozatalra vonatkozóan biztosított segédanyag felhasználásával – a megyei gyámhivatal gondoskodik 2014. szeptember 30-áig.
+8. §[^10] (1) A hivatásos támogatói feladatok ellátását vállaló, 2014. március 15-én hivatásos gondnokként működő személyek hivatásos támogatóvá történő átképzéséről – a gyermekek és az ifjúság védelméért felelős miniszter által vezetett minisztérium által a támogatott döntéshozatalra vonatkozóan biztosított segédanyag felhasználásával – a megyei gyámhivatal gondoskodik 2014. szeptember 30-áig.
 
 (2) A megyei gyámhivatalnak úgy kell megszerveznie a hivatásos gondnokok hivatásos támogatóvá történő átképzését, hogy a megyei gyámhivatal illetékességi területén legalább két fő hivatásos támogató rendelkezésre álljon.
 
@@ -10,7 +10,7 @@ Melléklet a 25/2003. (V. 13.) ESZCSM rendelethez
 
 A hivatásos gondnoki képzés, továbbképzés tematikája
 
-1.[^7] A képzés főbb témakörei
+1.[^11] A képzés főbb témakörei
 
 – az Európai Szociális Karta, valamint az ENSZ Gazdasági, Szociális és Kulturális Jogok Nemzetközi Egyezségokmánya előírásai,
 
@@ -54,7 +54,7 @@ A képzésben részt vevőket fel kell készíteni:
 
 – a szociális gondoskodás rendszere 1 óra (ea.)
 
-3.2.[^8] A gondnok feladata és felelőssége:
+3.2.[^12] A gondnok feladata és felelőssége:
 
 – a gondnok feladatai és felelőssége 1 óra (ea.)
 
@@ -84,6 +84,6 @@ A képzésben részt vevőket fel kell készíteni:
 
 – számonkérés írásbeli teszt formájában 1 óra
 
-[^6]: A 8. §-t a 19/2014. (III. 13.) EMMI rendelet 46. §-a iktatta be.
-[^7]: A melléklet 1. pontja a 48/2015. (X. 28.) EMMI rendelet 7. § a) pontja szerint módosított szöveg.
-[^8]: A melléklet 3. pont 3.2. alpontja a 48/2015. (X. 28.) EMMI rendelet 7. § b) pontja szerint módosított szöveg.
+[^10]: A 8. §-t a 19/2014. (III. 13.) EMMI rendelet 46. §-a iktatta be.
+[^11]: A melléklet 1. pontja a 48/2015. (X. 28.) EMMI rendelet 7. § a) pontja szerint módosított szöveg.
+[^12]: A melléklet 3. pont 3.2. alpontja a 48/2015. (X. 28.) EMMI rendelet 7. § b) pontja szerint módosított szöveg.
