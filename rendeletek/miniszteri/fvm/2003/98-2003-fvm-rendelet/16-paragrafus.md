@@ -1,6 +1,6 @@
 ## Tervek az afrikai sertéspestisnek egy vaddisznóállományban történő felszámolására
 
-16. §[^68] (1)[^69] A nemzeti szakértői csoport javaslata alapján a megyei kormányhivatal – az afrikai sertéspestis vaddisznókban való első megállapításától számított – 30 napon belül összeállítja a betegség felszámolására vonatkozó tervet és felülvizsgálatra a NÉBIH-nek megküldi. A NÉBIH a tervezetet 30 napon belül véleményezi, szükség esetén módosítja és jóváhagyásra az országos főállatorvos elé terjeszti. A jóváhagyott felszámolási tervet az országos főállatorvos megküldi a Bizottságnak. A terv később – a szerzett tapasztalatok figyelembevételével – a Bizottság jóváhagyásával módosítható vagy kiegészíthető.
+16. §[^68] (1)[^69] A nemzeti szakértői csoport javaslata alapján a vármegyei kormányhivatal – az afrikai sertéspestis vaddisznókban való első megállapításától számított – 30 napon belül összeállítja a betegség felszámolására vonatkozó tervet és felülvizsgálatra a NÉBIH-nek megküldi. A NÉBIH a tervezetet 30 napon belül véleményezi, szükség esetén módosítja és jóváhagyásra az országos főállatorvos elé terjeszti. A jóváhagyott felszámolási tervet az országos főállatorvos megküldi a Bizottságnak. A terv később – a szerzett tapasztalatok figyelembevételével – a Bizottság jóváhagyásával módosítható vagy kiegészíthető.
 
 (2) Az (1) bekezdés szerinti terv jóváhagyása után az abban foglalt intézkedések felváltják a 15. §-ban meghatározott bevezető intézkedéseket.
 
@@ -8,7 +8,7 @@
 
 a) a 15. § szerint végzett járványügyi vizsgálatok és ellenőrzések eredményeiről, valamint a betegség földrajzi elterjedéséről;
 
-b)[^70] a fertőzött terület kiterjedéséről, melynek meghatározásakor a megyei kormányhivatal az a) pontban foglaltakon túl az alábbiakat veszi figyelembe:
+b)[^70] a fertőzött terület kiterjedéséről, melynek meghatározásakor a vármegyei kormányhivatal az a) pontban foglaltakon túl az alábbiakat veszi figyelembe:
 
 ba) a terület vaddisznóállományát,
 
@@ -55,7 +55,7 @@ m) a betegség monitorozására szolgáló intézkedésekről, amelyek akkor lé
 (5)[^72] Az adott fertőzött területen lévő járványügyi helyzetről és a betegségfelszámolási terv eredményeiről az országos főállatorvos hathavonta tájékoztatja a Bizottságot.
 
 [^68]: A 16. § a 24. §-ának (2) bekezdése alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
-[^69]: A 16. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 16. §-ával megállapított szöveg.
-[^70]: A 16. § (3) bekezdés b) pont nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja szerint módosított szöveg.
+[^69]: A 16. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 16. §-ával megállapított, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^70]: A 16. § (3) bekezdés b) pont nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^71]: A 16. § (3) bekezdés l) pontja a 46/2015. (VIII. 7.) FM rendelet 21. § 14. pontja szerint módosított szöveg.
 [^72]: A 16. § (5) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 7. pontja szerint módosított szöveg.

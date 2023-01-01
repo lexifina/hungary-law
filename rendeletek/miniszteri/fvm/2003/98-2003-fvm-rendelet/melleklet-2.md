@@ -6,7 +6,7 @@ A takarítás, fertőtlenítés és az insecticidekkel való kezelés elvei és 
 
 a) a takarítást és fertőtlenítést hatósági állatorvos felügyelete és utasítása alapján kell végezni;
 
-b)[^90] az alkalmazott fertőtlenítőszereket és koncentrációit a megyei kormányhivatal hagyja jóvá;
+b)[^95] az alkalmazott fertőtlenítőszereket és koncentrációit a vármegyei kormányhivatal hagyja jóvá;
 
 c) a fertőtlenítőszerek aktivitását felhasználás előtt ellenőrizni kell, mivel bizonyos fertőtlenítőszerek hatása a hosszú tárolás során megszűnik;
 
@@ -66,4 +66,4 @@ b) a hígtrágyát a fertőzött anyag utolsó kibocsátása után legalább 42 
 
 4. Az 1. és 2. pontok alóli felmentéssel, szabad tartású gazdaságok esetében, az illetékes hatóság különleges takarítási és fertőtlenítési eljárást fogadhat el, figyelembe véve a telep típusát és az időjárási körülményeket.
 
-[^90]: A 2. számú melléklet 1. pont b) alpontja a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja szerint módosított szöveg.
+[^95]: A 2. számú melléklet 1. pont b) alpontja a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.

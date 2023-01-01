@@ -1,6 +1,6 @@
 ## Intézkedések a megfigyelési körzetben[^43]
 
-11. § (1)[^44] A megyei kormányhivatalnak a megfigyelési körzetben a következő intézkedéseket kell foganatosítania:
+11. § (1)[^44] A vármegyei kormányhivatalnak a megfigyelési körzetben a következő intézkedéseket kell foganatosítania:
 
 a)[^45] minden sertéstartó gazdaságot és annak sertésállományát a sertéstartók bejelentése alapján a járási hivatalnak nyilvántartásba kell venni;
 
@@ -26,7 +26,7 @@ b)[^51] a megfigyelési körzeten kívülről azonnali vágásra szállított se
 
 (3)[^52] Amennyiben az (1) bekezdésben megállapított tilalmak további járványkitörések miatt 40 napon túl is fennmaradnak, és ennek következtében a sertések tartásában állatvédelmi vagy más kényszerítő körülmények merülnek fel, a 10. § (4) bekezdésében felsorolt feltételektől függően a járási hivatal – a sertéstartó indokolt kérésére – engedélyezheti a sertések közvetlen elszállítását a megfigyelési körzeten belüli gazdaságból:
 
-a)[^53] a megyei kormányhivatal által kijelölt vágóhídra – lehetőleg védőkörzeten vagy megfigyelési körzeten belül – azonnali levágásra;
+a)[^53] a vármegyei kormányhivatal által kijelölt vágóhídra – lehetőleg védőkörzeten vagy megfigyelési körzeten belül – azonnali levágásra;
 
 b) állatifehérje-feldolgozó üzembe vagy más alkalmas helyre, ahol a sertéseket azonnal leölik, hulláikat hatósági állatorvosi felügyelet mellett ártalmatlanítják; vagy
 
@@ -43,7 +43,7 @@ b) minden gazdaságban elvégezték a sertések diagnosztikai kézikönyv szerin
 (6) Az (1) bekezdés f) pontjában meghatározott 30 napos időtartam csökkenthető 21 napra, a (3) bekezdésben meghatározott 40 nap időtartam csökkenthető 30 napra, az (5) bekezdésben meghatározott 40 nap csökkenthető 20 napra, ha az intenzív mintavételi és vizsgálati programot alkalmazva lehetővé válik az afrikai sertéspestis kizárása.
 
 [^43]: A 11. §-t megelőző alcím a 70/2013. (VII. 31.) VM rendelet 29. § 16. pontja szerint módosított szöveg.
-[^44]: A 11. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 29. § 17. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 11. pontja szerint módosított szöveg.
+[^44]: A 11. § (1) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 29. § 17. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 11. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^45]: A 11. § (1) bekezdés a) pontja a 46/2015. (VIII. 7.) FM rendelet 21. § 12. pontja szerint módosított szöveg.
 [^46]: A 11. § (1) bekezdés b) pontja a 46/2015. (VIII. 7.) FM rendelet 21. § 5. és 13. pontja szerint módosított szöveg.
 [^47]: A 11. § (1) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 17–18. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
@@ -52,7 +52,7 @@ b) minden gazdaságban elvégezték a sertések diagnosztikai kézikönyv szerin
 [^50]: A 11. § (1) bekezdés g) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 17. pontja szerint módosított szöveg.
 [^51]: A 11. § (2) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 17. és 20. pontja szerint módosított szöveg.
 [^52]: A 11. § (3) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 29. § 20. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontja szerint módosított szöveg.
-[^53]: A 11. § (3) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 15. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja szerint módosított szöveg. [A 11. § (3) bekezdés a) pontjában a 70/2013. (VII. 31.) VM rendelet 29. § 20. pontjával elrendelt módosítás, amely szerint a „védőkörzeten” szövegrész helyében a „megfigyelési körzeten” szöveg lép, nem vezethető át.]
+[^53]: A 11. § (3) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 15. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg. [A 11. § (3) bekezdés a) pontjában a 70/2013. (VII. 31.) VM rendelet 29. § 20. pontjával elrendelt módosítás, amely szerint a „védőkörzeten” szövegrész helyében a „megfigyelési körzeten” szöveg lép, nem vezethető át.]
 [^54]: A 11. § (3) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 15. pontja szerint módosított szöveg.
 [^55]: A 11. § (4) bekezdése a 46/2015. (VIII. 7.) FM rendelet 13. §-ával megállapított szöveg.
 [^56]: A 11. § (5) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 29. § 17. pontja szerint módosított szöveg.

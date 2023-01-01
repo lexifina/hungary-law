@@ -1,3 +1,3 @@
-10. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^97]
+10. számú melléklet a 98/2003. (VIII. 22.) FVM rendelethez[^102]
 
-[^97]: A 7–18. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.
+[^102]: A 7–18. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 22. § b) pontja hatályon kívül helyezte.

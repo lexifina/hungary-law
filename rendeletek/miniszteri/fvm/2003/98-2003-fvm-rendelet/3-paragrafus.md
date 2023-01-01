@@ -1,6 +1,6 @@
 ## Az afrikai sertéspestis bejelentése
 
-3. § (1)[^5] Az afrikai sertéspestis bejelentési kötelezettség alá tartozó betegség. Aki a betegséget vagy a betegség gyanúját észleli, vagy arról tudomást szerez, haladéktalanul köteles erről értesíteni az állatorvost, aki a megbetegedést vagy a betegség gyanúját haladéktalanul köteles jelenteni a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatalának (a továbbiakban: járási hivatal).
+3. § (1)[^5] Az afrikai sertéspestis bejelentési kötelezettség alá tartozó betegség. Aki a betegséget vagy a betegség gyanúját észleli, vagy arról tudomást szerez, haladéktalanul köteles erről értesíteni az állatorvost, aki a megbetegedést vagy a betegség gyanúját haladéktalanul köteles jelenteni a vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatalának (a továbbiakban: járási hivatal).
 
 (2) A bejelentési kötelezettség akkor is fennáll, ha egészségesnek látszó állaton vágás során fertőzöttségre gyanút keltő elváltozást észleltek.
 
@@ -22,6 +22,6 @@ d) a 8. § szerint elvégzett járványügyi vizsgálat eredményeiről.
 
 (5)[^7] Az országos főállatorvos tájékoztatást ad a Nemzetközi Járványügyi Hivatalnak és a Bizottságnak az afrikai sertéspestis vaddisznók közötti további előfordulásáról.
 
-[^5]: A 3. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 53. §-a szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 53. §-a, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^6]: A 3. § (4) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 3. pontja szerint módosított szöveg.
 [^7]: A 3. § (5) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 4. pontja szerint módosított szöveg.

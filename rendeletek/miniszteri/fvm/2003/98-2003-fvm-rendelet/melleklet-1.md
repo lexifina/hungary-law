@@ -6,7 +6,7 @@ A betegség bejelentése
 
 a) a bejelentés időpontja (dátuma);
 
-b)[^87] Magyarország;
+b)[^92] Magyarország;
 
 c) a betegség megnevezését;
 
@@ -40,9 +40,9 @@ f) kitörés esetén a legközelebbi sertéstartó gazdaságtól való távolsá
 
 g) ha az afrikai sertéspestist vágóhídon vagy szállítóeszközön állapították meg, a gazdaság vagy gazdaságok helyét, ahonnan fertőzött sertések vagy hulláik származnak.
 
-3.[^88] Az 1. és 2. pontban foglaltak teljesítése érdekében az elsődleges és másodlagos kitörésekről a megyei kormányhivatal haladéktalanul jelentést küld a NÉBIH-nek. A NÉBIH késedelem nélkül tájékoztatja az országos főállatorvost, illetve részt vesz a Nemzetközi Járványügyi Hivatalhoz és a Bizottsághoz küldendő jelentések összeállításában.
+3.[^93] Az 1. és 2. pontban foglaltak teljesítése érdekében az elsődleges és másodlagos kitörésekről a vármegyei kormányhivatal haladéktalanul jelentést küld a NÉBIH-nek. A NÉBIH késedelem nélkül tájékoztatja az országos főállatorvost, illetve részt vesz a Nemzetközi Járványügyi Hivatalhoz és a Bizottsághoz küldendő jelentések összeállításában.
 
-4.[^89] Az országos főállatorvos biztosítja, hogy az afrikai sertéspestis valamely gazdaságban, vágóhídon vagy szállítóeszközön fellépő kitörésével vagy előfordulásával kapcsolatban az 1–3. pontnak megfelelően nyújtott információkat a lehető leghamarabb írásos jelentés kövesse a Nemzetközi Állategészségügyi Hivatal, a Bizottság és a többi tagállam számára, amely legalább a következőket tartalmazza:
+4.[^94] Az országos főállatorvos biztosítja, hogy az afrikai sertéspestis valamely gazdaságban, vágóhídon vagy szállítóeszközön fellépő kitörésével vagy előfordulásával kapcsolatban az 1–3. pontnak megfelelően nyújtott információkat a lehető leghamarabb írásos jelentés kövesse a Nemzetközi Állategészségügyi Hivatal, a Bizottság és a többi tagállam számára, amely legalább a következőket tartalmazza:
 
 a) az időpontot, amikor a sertéseket a gazdaságban, a vágóhídon vagy szállítóeszközön leölték, és hulláikat ártalmatlanították;
 
@@ -66,6 +66,6 @@ gc) a sertések leölésekor a gazdaságokban vett minták laboratóriumi vizsg�
 
 Ha a sertéseket a kontaktgazdaságokban nem ölték le, felvilágosítást kell adni a döntés okairól.
 
-[^87]: Az 1. számú melléklet 1. pont b) alpontja az 5/2012. (II. 10.) VM rendelet 5. §-ával megállapított szöveg.
-[^88]: Az 1. számú melléklet 3. pontja a 46/2015. (VIII. 7.) FM rendelet 20. §-ával megállapított szöveg.
-[^89]: Az 1. számú melléklet 4. pont nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 20. §-ával megállapított szöveg.
+[^92]: Az 1. számú melléklet 1. pont b) alpontja az 5/2012. (II. 10.) VM rendelet 5. §-ával megállapított szöveg.
+[^93]: Az 1. számú melléklet 3. pontja a 46/2015. (VIII. 7.) FM rendelet 20. §-ával megállapított, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^94]: Az 1. számú melléklet 4. pont nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 20. §-ával megállapított szöveg.

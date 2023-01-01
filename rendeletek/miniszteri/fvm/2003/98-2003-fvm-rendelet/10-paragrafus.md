@@ -16,7 +16,7 @@ f) a gazdaságban észlelt minden megbetegedett vagy elhullott sertésről érte
 
 g) nem fertőzött gazdaságból a sertéseket a fertőzött gazdaság takarításának és fertőtlenítésének és ha szükséges rovartalanításának befejezését követő legalább 40 napig tilos elszállítani, azonban ennek eltelte után – a (4) bekezdésben felsorolt feltételekkel – engedélyezhető a sertések gazdaságból való elszállítása
 
-ga)[^33] a megyei kormányhivatal által kijelölt vágóhídra – lehetőség szerint a védőkörzeten belül – azonnali vágásra, vagy,
+ga)[^33] a vármegyei kormányhivatal által kijelölt vágóhídra – lehetőség szerint a védőkörzeten belül – azonnali vágásra, vagy,
 
 gb) állatifehérje-feldolgozó üzembe vagy más alkalmas helyre, ahol a sertéseket azonnal leölik, hulláikat pedig hatósági felügyelet mellett ártalmatlanítják, vagy
 
@@ -28,7 +28,7 @@ i) aki a gazdaságba be- vagy onnan kilép, köteles betartani az afrikai serté
 
 (2)[^36] Amennyiben az (1) bekezdésben megállapított tilalmak további járványkitörések miatt 40 napon túl is fennmaradnak, és ennek következtében a sertések tartásában állatvédelmi intézkedést megalapozó vagy más kényszerítő körülmények merülnek fel, a (4) bekezdésben felsorolt feltételektől függően a járási hivatal – a sertéstartó indokolt kérelmére – engedélyezheti a védőkörzeten belüli nem fertőzött gazdaságból sertések közvetlen elszállítását:
 
-a)[^37] a megyei kormányhivatal által kijelölt vágóhídra – lehetőleg a védőkörzeten vagy megfigyelési körzeten belül – azonnali levágásra;
+a)[^37] a vármegyei kormányhivatal által kijelölt vágóhídra – lehetőleg a védőkörzeten vagy megfigyelési körzeten belül – azonnali levágásra;
 
 b) állatifehérje-feldolgozó üzembe vagy más alkalmas helyre, ahol a sertéseket azonnal leölik, hulláikat hatósági állatorvosi felügyelet mellett feldolgozzák;
 
@@ -68,7 +68,7 @@ c) a testrészt vagy a nyersanyagot legalább 150 percen keresztül forralási h
 
 d) a zsír kiolvasztását legalább 100 °C-on végzik.
 
-A kezelést a megyei kormányhivatal által kijelölt helyen, hatósági állatorvos felügyelete mellett kell elvégezni. A hús azzal a feltétellel küldhető el a kezelési helyére, hogy a szállítmányt az induláskor hatósági állatorvos lepecsételi, és az a szállítás folyamán végig lepecsételve marad.
+A kezelést a vármegyei kormányhivatal által kijelölt helyen, hatósági állatorvos felügyelete mellett kell elvégezni. A hús azzal a feltétellel küldhető el a kezelési helyére, hogy a szállítmányt az induláskor hatósági állatorvos lepecsételi, és az a szállítás folyamán végig lepecsételve marad.
 
 (8)[^42] A védőkörzet területén az intézkedéseket legalább addig fenn kell tartani, amíg
 
@@ -85,13 +85,13 @@ A vizsgálatokat addig nem szabad elvégezni, amíg a fertőzött gazdaságban a
 [^30]: A 10. § (1) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 12. pontja szerint módosított szöveg.
 [^31]: A 10. § (1) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 13. pontja szerint módosított szöveg.
 [^32]: A 10. § (1) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 12. pontja szerint módosított szöveg.
-[^33]: A 10. § (1) bekezdés g) pont ga) alpontja a 70/2013. (VII. 31.) VM rendelet 29. § 14. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja szerint módosított szöveg.
+[^33]: A 10. § (1) bekezdés g) pont ga) alpontja a 70/2013. (VII. 31.) VM rendelet 29. § 14. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^34]: A 10. § (1) bekezdés g) pont gc) alpontja a 70/2013. (VII. 31.) VM rendelet 29. § 13. pontja szerint módosított szöveg.
 [^35]: A 10. § (1) bekezdés h) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 12. pontja szerint módosított szöveg.
 [^36]: A 10. § (2) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^37]: A 10. § (2) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 15. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja szerint módosított szöveg.
+[^37]: A 10. § (2) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 15. pontja, a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^38]: A 10. § (2) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 29. § 13. pontja szerint módosított szöveg.
 [^39]: A 10. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^40]: A 10. § (4) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^41]: A 10. § (7) bekezdés záró szövegrésze a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja szerint módosított szöveg.
+[^41]: A 10. § (7) bekezdés záró szövegrésze a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^42]: A 10. § (8) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 29. § 12. pontja szerint módosított szöveg.

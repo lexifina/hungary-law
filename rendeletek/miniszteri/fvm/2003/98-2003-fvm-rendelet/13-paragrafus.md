@@ -24,9 +24,9 @@ b) bizonyítható, hogy a vektor fennmaradása a továbbiakban nem jelent kocká
 
 (7) Az újratelepített telepről sertés kiszállítására csak a teljes betelepítést követően – legkorábban 60 nappal – a diagnosztikai kézikönyv szerint végzett negatív eredményű vizsgálat után kerülhet sor.
 
-(8)[^58] Ahol a betegség előfordulása nem hozható összefüggésbe vektorokkal és ha a telep takarítása, fertőtlenítése óta 6 hónapnál hosszabb idő telt el – a járványtani helyzet figyelembevételével – a megyei kormányhivatal a (3)–(4) bekezdésekben foglaltakkal kapcsolatban engedményeket tehet.
+(8)[^58] Ahol a betegség előfordulása nem hozható összefüggésbe vektorokkal és ha a telep takarítása, fertőtlenítése óta 6 hónapnál hosszabb idő telt el – a járványtani helyzet figyelembevételével – a vármegyei kormányhivatal a (3)–(4) bekezdésekben foglaltakkal kapcsolatban engedményeket tehet.
 
-(9)[^59] Más háziállatfajoknak a fertőzött gazdaságba való újratelepítését a megyei kormányhivatal engedélyezi, figyelembe véve a fertőzés terjedésének kockázatát vagy a meglévő vektorok újratelepítés miatti fennmaradását.
+(9)[^59] Más háziállatfajoknak a fertőzött gazdaságba való újratelepítését a vármegyei kormányhivatal engedélyezi, figyelembe véve a fertőzés terjedésének kockázatát vagy a meglévő vektorok újratelepítés miatti fennmaradását.
 
-[^58]: A 13. § (8) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja szerint módosított szöveg.
-[^59]: A 13. § (9) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja szerint módosított szöveg.
+[^58]: A 13. § (8) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^59]: A 13. § (9) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.

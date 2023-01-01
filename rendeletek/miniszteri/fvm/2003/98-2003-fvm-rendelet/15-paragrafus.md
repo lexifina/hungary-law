@@ -1,8 +1,8 @@
 ## Az afrikai sertéspestis vaddisznókban történő előfordulásának gyanúja és megállapítása esetén hozandó intézkedések
 
-15. § (1)[^62] Ha a megyei kormányhivatal vaddisznók fertőzöttségének gyanújáról tudomást szerez, azonnal megfelelő intézkedéseket hoz a betegség jelenlétének megállapítása vagy kizárása céljából. A sertéstartókat és a vadászokat tájékoztatja a betegség gyanújáról. Az elejtett vagy elhullott vaddisznókat megvizsgáltatja, beleértve a laboratóriumi vizsgálatokat is.
+15. § (1)[^62] Ha a vármegyei kormányhivatal vaddisznók fertőzöttségének gyanújáról tudomást szerez, azonnal megfelelő intézkedéseket hoz a betegség jelenlétének megállapítása vagy kizárása céljából. A sertéstartókat és a vadászokat tájékoztatja a betegség gyanújáról. Az elejtett vagy elhullott vaddisznókat megvizsgáltatja, beleértve a laboratóriumi vizsgálatokat is.
 
-(2)[^63] Ha a vaddisznókban megállapították az afrikai sertéspestis elsődleges előfordulását, a megyei kormányhivatal azonnal meghozza a következő intézkedéseket:
+(2)[^63] Ha a vaddisznókban megállapították az afrikai sertéspestis elsődleges előfordulását, a vármegyei kormányhivatal azonnal meghozza a következő intézkedéseket:
 
 a) a nemzeti szakértői csoport javaslata alapján kijelöli a fertőzött területet, ahol a járási hivatal útján hatósági megfigyelés alá helyezteti a sertéstartó gazdaságokat, és elrendeli
 
@@ -36,8 +36,8 @@ c) intézkedik, hogy az afrikai sertéspestis vírusának izolátumát a vírus 
 
 (5)[^67]
 
-[^62]: A 15. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja szerint módosított szöveg.
-[^63]: A 15. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 15. §-ával megállapított szöveg.
+[^62]: A 15. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 21. § 10. pontja, a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^63]: A 15. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 15. §-ával megállapított, nyitó szövegrésze a 78/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^64]: [A 46/2015. (VIII. 7.) FM rendelet 21. § 5. pontjával elrendelt módosítás, amely szerint a 15. § (2) bekezdés b) pontjában és b) pont bd) alpontjában az „a járási főállatorvos” szövegrész helyébe az „a járási hivatal” szöveg lép, nem vezethető át.]
 [^65]: A 15. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 15. §-ával megállapított szöveg.
 [^66]: A 15. § (4) bekezdése a 46/2015. (VIII. 7.) FM rendelet 15. §-ával megállapított szöveg.
