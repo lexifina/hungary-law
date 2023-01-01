@@ -1,4 +1,4 @@
-30. § (1)[^50] Ha a támogatás formája nem piaci díj ellenében, legfeljebb 10 éves futamidőre nyújtott kezességvállalás, a kezességvállalással biztosított hitel névértéke nem haladhatja meg
+30. § (1)[^54] Ha a támogatás formája nem piaci díj ellenében, legfeljebb 10 éves futamidőre nyújtott kezességvállalás, a kezességvállalással biztosított hitel névértéke nem haladhatja meg
 
 a) az 1,5 millió eurót vagy
 
@@ -8,4 +8,4 @@ b) az Atr. 25. § (1) bekezdés a) és b) pontja szerinti régióban letelepedet
 
 (3) A kezességvállalás nem haladhatja meg az alapul szolgáló hitel összegének 80%-át.
 
-[^50]: A 30. § (1) bekezdése a 2/2022. (III. 28.) PM rendelet 5. §-ával megállapított szöveg.
+[^54]: A 30. § (1) bekezdése a 2/2022. (III. 28.) PM rendelet 5. §-ával megállapított szöveg.

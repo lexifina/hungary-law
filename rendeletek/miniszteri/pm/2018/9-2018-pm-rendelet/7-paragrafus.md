@@ -26,29 +26,29 @@ e) meghaladja az a)–d) alpont szerinti összeg 150%-át, ha a kutatás-fejlesz
 
 8. a kutatási infrastruktúrához nyújtott beruházási támogatás esetén infrastruktúránként meghaladja a 20 millió eurónak megfelelő forintösszeget;
 
-9.[^29]
+9.[^32]
 
 10. képzési támogatás esetén képzési projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget;
 
-11.[^30]
+11.[^33]
 
 12. energiahatékonysági intézkedéshez nyújtott beruházási támogatás és megújuló energia termeléséhez nyújtott beruházási támogatás esetén vállalkozásonként és beruházásonként meghaladja a 15 millió eurónak megfelelő forintösszeget;
 
 13. épület-energiahatékonysági projektre irányuló beruházási támogatás esetén meghaladja a 10 millió eurónak megfelelő forintösszeget a 40. § (4) bekezdése szerint;
 
-14.[^31]
+14.[^34]
 
-15.[^32]
+15.[^35]
 
 16. helyi infrastruktúrára irányuló beruházási támogatás esetében meghaladja az egyazon infrastruktúra esetében 10 millió eurónak megfelelő forintösszeget vagy 20 millió eurónak megfelelő forintösszeget meghaladó összköltséget;
 
-17.[^33]
+17.[^36]
 
-(2)[^34] A regionális városfejlesztési támogatás esetén előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a városfejlesztési projektnek biztosított teljes beruházás meghaladja a 20 millió eurónak megfelelő forintösszeget, amelyet az Európai Bizottság elektronikus bejelentőrendszerén keresztül kell megtenni.
+(2)[^37] A regionális városfejlesztési támogatás esetén előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a városfejlesztési projektnek biztosított teljes beruházás meghaladja a 20 millió eurónak megfelelő forintösszeget, amelyet az Európai Bizottság elektronikus bejelentőrendszerén keresztül kell megtenni.
 
-[^29]: A 7. § (1) bekezdés 9. pontját a 7/2022. (X. 26.) PM rendelet 9. § b) pontja hatályon kívül helyezte.
-[^30]: A 7. § (1) bekezdés 11. pontját a 7/2022. (X. 26.) PM rendelet 9. § b) pontja hatályon kívül helyezte.
-[^31]: A 7. § (1) bekezdés 14. pontját a 7/2022. (X. 26.) PM rendelet 9. § b) pontja hatályon kívül helyezte.
-[^32]: A 7. § (1) bekezdés 15. pontját a 7/2022. (X. 26.) PM rendelet 9. § b) pontja hatályon kívül helyezte.
-[^33]: A 7. § (1) bekezdés 17. pontját a 7/2022. (X. 26.) PM rendelet 9. § b) pontja hatályon kívül helyezte.
-[^34]: A 7. § (2) bekezdését a 11/2019. (IX. 4.) PM rendelet 4. §-a iktatta be.
+[^32]: A 7. § (1) bekezdés 9. pontját a 7/2022. (X. 26.) PM rendelet 9. § b) pontja hatályon kívül helyezte.
+[^33]: A 7. § (1) bekezdés 11. pontját a 7/2022. (X. 26.) PM rendelet 9. § b) pontja hatályon kívül helyezte.
+[^34]: A 7. § (1) bekezdés 14. pontját a 7/2022. (X. 26.) PM rendelet 9. § b) pontja hatályon kívül helyezte.
+[^35]: A 7. § (1) bekezdés 15. pontját a 7/2022. (X. 26.) PM rendelet 9. § b) pontja hatályon kívül helyezte.
+[^36]: A 7. § (1) bekezdés 17. pontját a 7/2022. (X. 26.) PM rendelet 9. § b) pontja hatályon kívül helyezte.
+[^37]: A 7. § (2) bekezdését a 11/2019. (IX. 4.) PM rendelet 4. §-a iktatta be.

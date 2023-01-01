@@ -1,5 +1,5 @@
-## 22.[^66]
+## 22.[^77]
 
 54. §
 
-[^66]: A 22. alcímet (54–56. §) a 7/2022. (X. 26.) PM rendelet 9. § c) pontja hatályon kívül helyezte.
+[^77]: A 22. alcímet (54–56. §) a 7/2022. (X. 26.) PM rendelet 9. § c) pontja hatályon kívül helyezte.
