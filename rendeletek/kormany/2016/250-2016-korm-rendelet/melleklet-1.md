@@ -1,3 +1,5 @@
-1. melléklet a 250/2016. (VIII. 24.) Korm. rendelethez[^125]
+1. melléklet a 250/2016. (VIII. 24.) Korm. rendelethez[^129]
 
-[^125]: Az 1. melléklet a 436/2017. (XII. 22.) Korm. rendelet 25. § a) pontjával megállapított szöveg.
+Támogatási kérelem
+
+[^129]: Az 1. melléklet a 436/2017. (XII. 22.) Korm. rendelet 25. § a) pontjával megállapított szöveg.

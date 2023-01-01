@@ -1,5 +1,3 @@
-## 1. §[^1] E rendelet hatálya a Kormány és a megyei jogú város önkormányzata között, a megyei jogú város további fejlődése és megújulása érdekében létrejött együttműködési megállapodások végrehajtásával összefüggő feladatokról szóló nyilvános egyedi kormányhatározatban foglaltak és a megyei jogú város egyéb fejlesztési céljaival összhangban lévő programelemek végrehajtását szolgáló, a Miniszterelnökség fejezetében e célra megállapított költségvetési előirányzatot terhelő forrásigényekre terjed ki azzal, hogy e rendeletnek az előirányzat felhasználására, kezelésére és működtetésére vonatkozó rendelkezései kizárólag az előirányzat terhére nyújtott költségvetési támogatásokra (a továbbiakban: MVP támogatás) alkalmazandóak.
-
 ## 1/A. §[^2] E rendelet alkalmazásában:
 
 1. acélipar: a 651/2014/EU bizottsági rendelet 2. cikk 43. pontja szerinti ipar,
@@ -92,15 +90,15 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 31. nehéz helyzetben lévő vállalkozás: az Átr. 6. §-ában meghatározott vállalkozás,
 
-32. összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
+32.[^14] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos vármegyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
 
-32a.[^14] regionális repülőtér: a 2017/1084/EU bizottsági rendelettel módosított 651/2014/EU bizottsági rendelet 2. cikk 153. pontja szerinti regionális repülőtér,
+32a.[^15] regionális repülőtér: a 2017/1084/EU bizottsági rendelettel módosított 651/2014/EU bizottsági rendelet 2. cikk 153. pontja szerinti regionális repülőtér,
 
-32b.[^15] repülőtér: a 2017/1084/EU bizottsági rendelettel módosított 651/2014/EU bizottsági rendelet 2. cikk 146. pontja szerinti repülőtér,
+32b.[^16] repülőtér: a 2017/1084/EU bizottsági rendelettel módosított 651/2014/EU bizottsági rendelet 2. cikk 146. pontja szerinti repülőtér,
 
-32c.[^16] repülőtéri infrastruktúra: a 2017/1084/EU bizottsági rendelettel módosított 651/2014/EU bizottsági rendelet 2. cikk 144. pontja szerinti infrastruktúra,
+32c.[^17] repülőtéri infrastruktúra: a 2017/1084/EU bizottsági rendelettel módosított 651/2014/EU bizottsági rendelet 2. cikk 144. pontja szerinti infrastruktúra,
 
-32d.[^17] repülőtéri szolgáltatások: a 2017/1084/EU bizottsági rendelettel módosított 651/2014/EU bizottsági rendelet 2. cikk 147. pontja szerinti szolgáltatások,
+32d.[^18] repülőtéri szolgáltatások: a 2017/1084/EU bizottsági rendelettel módosított 651/2014/EU bizottsági rendelet 2. cikk 147. pontja szerinti szolgáltatások,
 
 33. saját forrás: a kedvezményezett által a projekthez igénybe vett, állami támogatást, valamint az Európai Unió intézményei, ügynökségei, közös vállalkozásai vagy más szervei által központilag kezelt, a tagállam ellenőrzése alá közvetlenül vagy közvetve nem tartozó uniós finanszírozást nem tartalmazó forrás,
 
@@ -126,7 +124,6 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 44. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány.
 
-[^1]: Az 1. § a 263/2019. (XI. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1/A. §-t a 390/2016. (XII. 5) Korm. rendelet 1. §-a iktatta be.
 [^3]: Az 1/A. § 3a. pontját a 436/2017. (XII. 22.) Korm. rendelet 6. § (1) bekezdése iktatta be.
 [^4]: Az 1/A. § 3b. pontját a 436/2017. (XII. 22.) Korm. rendelet 6. § (1) bekezdése iktatta be.
@@ -139,7 +136,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 [^11]: Az 1/A. § 23b. pontját a 436/2017. (XII. 22.) Korm. rendelet 6. § (7) bekezdése iktatta be.
 [^12]: Az 1/A. § 23c. pontját a 436/2017. (XII. 22.) Korm. rendelet 6. § (7) bekezdése iktatta be.
 [^13]: Az 1/A. § 29a. pontját a 436/2017. (XII. 22.) Korm. rendelet 6. § (8) bekezdése iktatta be.
-[^14]: Az 1/A. § 32a. pontját a 436/2017. (XII. 22.) Korm. rendelet 6. § (9) bekezdése iktatta be.
-[^15]: Az 1/A. § 32b. pontját a 436/2017. (XII. 22.) Korm. rendelet 6. § (9) bekezdése iktatta be.
-[^16]: Az 1/A. § 32c. pontját a 436/2017. (XII. 22.) Korm. rendelet 6. § (9) bekezdése iktatta be.
-[^17]: Az 1/A. § 32d. pontját a 436/2017. (XII. 22.) Korm. rendelet 6. § (9) bekezdése iktatta be.
+[^14]: Az 1/A. § 32. pontja a 616/2022. (XII. 29.) Korm. rendelet 236. § b) pontja szerint módosított szöveg.
+[^15]: Az 1/A. § 32a. pontját a 436/2017. (XII. 22.) Korm. rendelet 6. § (9) bekezdése iktatta be.
+[^16]: Az 1/A. § 32b. pontját a 436/2017. (XII. 22.) Korm. rendelet 6. § (9) bekezdése iktatta be.
+[^17]: Az 1/A. § 32c. pontját a 436/2017. (XII. 22.) Korm. rendelet 6. § (9) bekezdése iktatta be.
+[^18]: Az 1/A. § 32d. pontját a 436/2017. (XII. 22.) Korm. rendelet 6. § (9) bekezdése iktatta be.

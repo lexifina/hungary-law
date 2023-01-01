@@ -1,4 +1,4 @@
-8/N. §[^81] (1)[^82] A kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén a támogatás összege nem haladhatja meg az elszámolható költség és a beruházás megvalósításából származó működési eredmény közötti különbséget azzal, hogy az infrastruktúra üzemeltetője – a szakpolitikai felelős döntésétől függően – jogosult ésszerű nyereséget szerezni.
+8/N. §[^85] (1)[^86] A kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén a támogatás összege nem haladhatja meg az elszámolható költség és a beruházás megvalósításából származó működési eredmény közötti különbséget azzal, hogy az infrastruktúra üzemeltetője – a szakpolitikai felelős döntésétől függően – jogosult ésszerű nyereséget szerezni.
 
 (2) A működési eredmény mértékét
 
@@ -6,7 +6,7 @@ a) megalapozott előrejelzések alapján kell meghatározni és előzetesen, vag
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
-## kell levonni az elszámolható költségekből.
+kell levonni az elszámolható költségekből.
 
 (3) A kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás elszámolható költségei az immateriális javak és a tárgyi eszköz következő költségei:
 
@@ -20,5 +20,5 @@ d) a közönség kulturális örökséghez való hozzáférésének javítását
 
 e) a kulturális projektek és tevékenységek, együttműködési és csereprogramok, valamint ösztöndíjak költsége (pl. a kiválasztási eljárással kapcsolatos marketing és a projekt eredményeként közvetlenül felmerülő költség).
 
-[^81]: A 8/N. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
-[^82]: A 8/N. § (1) bekezdése a 436/2017. (XII. 22.) Korm. rendelet 26. § 2. pontja szerint módosított szöveg.
+[^85]: A 8/N. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^86]: A 8/N. § (1) bekezdése a 436/2017. (XII. 22.) Korm. rendelet 26. § 2. pontja szerint módosított szöveg.

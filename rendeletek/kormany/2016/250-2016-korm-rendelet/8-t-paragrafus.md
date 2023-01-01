@@ -1,6 +1,4 @@
-## kell levonni az elszámolható költségekből.
-
-8/T. §[^91] (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+8/T. §[^95] (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
 (2) A csekély összegű támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
 
@@ -14,4 +12,4 @@
 
 (7) A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a csekély összegű támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
 
-[^91]: A 8/T. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^95]: A 8/T. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.

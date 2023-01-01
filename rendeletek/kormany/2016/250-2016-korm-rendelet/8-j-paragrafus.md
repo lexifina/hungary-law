@@ -1,4 +1,4 @@
-8/J. §[^75] (1) A regionális beruházási támogatás keretében elszámolható
+8/J. §[^79] (1) A regionális beruházási támogatás keretében elszámolható
 
 a) a beruházás érdekében felmerült tárgyi eszközök és immateriális javak költsége,
 
@@ -66,4 +66,4 @@ d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már lét
 
 (9) Ha a tárgyi eszköz és az immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak regionális beruházási támogatást, ezen tárgyi eszköz és immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és az immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
 
-[^75]: A 8/J. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^79]: A 8/J. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.

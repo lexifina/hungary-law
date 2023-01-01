@@ -1,13 +1,14 @@
-8/I. §[^74] (1) A támogatási intenzitás legmagasabb mértéke az egyes régiókban az Átr. 25. § (1) bekezdésében meghatározott mérték, figyelemmel a (2)–(6) bekezdésben foglaltakra.
+8/I. §[^77] (1) A támogatási intenzitás legmagasabb mértéke az egyes régiókban az Átr. 25. § (1) bekezdésében meghatározott mérték, figyelemmel a (2)–(6) bekezdésben foglaltakra.
 
 (2) A támogatási intenzitás – a nagyberuházások kivételével – kisvállalkozás esetén 20 százalékponttal, középvállalkozás esetén 10 százalékponttal növelhető, ha a beruházó a kérelem benyújtásakor, valamint a döntés meghozatalakor is megfelel az adott vállalkozási méret feltételeinek.
 
 (3) A támogatási intenzitás legmagasabb mértéke nagyberuházás esetén az Átr. 25. § (3) bekezdésében meghatározott mérték.
 
-(4) Nagyberuházás esetén az odaítélhető összes állami támogatás összegéből le kell vonni a beruházás megkezdését megelőző háromszor háromszázhatvanöt napos időszakban a kedvezményezett által vagy a kedvezményezettől független harmadik félnek nem minősülő beruházó által azonos megyében megkezdett beruházáshoz vagy beruházásokhoz odaítélt állami támogatás jelenértéken meghatározott összegét.
+(4)[^78] Nagyberuházás esetén az odaítélhető összes állami támogatás összegéből le kell vonni a beruházás megkezdését megelőző háromszor háromszázhatvanöt napos időszakban a kedvezményezett által vagy a kedvezményezettől független harmadik félnek nem minősülő beruházó által azonos vármegyében megkezdett beruházáshoz vagy beruházásokhoz odaítélt állami támogatás jelenértéken meghatározott összegét.
 
 (5) Ha az összeszámítási szabály figyelembevétele nélkül az adott beruházáshoz nyújtható állami támogatás jelenértéken kisebb, mint a (4) bekezdés szerint meghatározott támogatási összeg, akkor ez a kisebb összeg az odaítélhető állami támogatás felső korlátja. Ellenkező esetben állami támogatás a (4) bekezdésben meghatározott összegig nyújtható.
 
 (6) Annak kiszámításakor, hogy egy nagyberuházás elszámolható költsége eléri-e a jelenértéken 50 millió eurónak megfelelő forintösszeget, a beruházás elszámolható költségeibe tartozó tételek vagy a létrehozott új munkahelyek személyi jellegű ráfordításai közül a nagyobb értékűt kell elszámolható költségként figyelembe venni.
 
-[^74]: A 8/I. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^77]: A 8/I. §-t a 390/2016. (XII. 5) Korm. rendelet 5. §-a iktatta be.
+[^78]: A 8/I. § (4) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 236. § b) pontja szerint módosított szöveg.
