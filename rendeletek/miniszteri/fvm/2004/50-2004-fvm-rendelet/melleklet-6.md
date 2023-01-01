@@ -6,7 +6,7 @@
 
 ## 3. A termőhelyi körülményeknek és a növényállomány fejlettségi állapotának lehetővé kell tennie a fajtaazonosság, a fajtatisztaság és a növényegészségügyi státus megfelelő ellenőrzését.
 
-## 3.1. Ha az 1–3. pontban foglaltak végrehajtását követően továbbra sem határozható meg minden kétséget kizáróan a vetőmag fajtaazonossága, a NÉBIH és a megyei kormányhivatal a fajtaazonosság vizsgálatához – a nemzetközi szabványokkal összhangban – nemzetközileg elismert és reprodukálható biokémiai vagy molekuláris technikát használhat.
+## 3.1. Ha az 1–3. pontban foglaltak végrehajtását követően továbbra sem határozható meg minden kétséget kizáróan a vetőmag fajtaazonossága, a NÉBIH és a vármegyei kormányhivatal a fajtaazonosság vizsgálatához – a nemzetközi szabványokkal összhangban – nemzetközileg elismert és reprodukálható biokémiai vagy molekuláris technikát használhat.
 
 ## 4. A vetőmagnak gyakorlatilag mentesnek kell lennie minden olyan károsítótól, amely csökkenti a növényi szaporítóanyag felhasználhatóságát és minőségét. A vetőmagnak meg kell felelnie továbbá a 2016/2031/EU európai parlamenti és tanácsi rendelet alapján elfogadott végrehajtási jogi aktusokban az uniós zárlati károsítókra, a védett zónás zárlati károsítókra és a vizsgálatköteles nemzárlati károsítókra meghatározott követelményeknek, valamint a 2016/2031/EU európai parlamenti és tanácsi rendelet 30. cikk (1) bekezdése alapján elfogadott intézkedéseknek.
 
@@ -1046,6 +1046,6 @@
 
 | ***** | Az anyasorokban legalább 5% bibe megjelenés után a virágport hullató címer egy-egy ellenőrzésen legfeljebb 0,5% lehet. |
 
-6. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^254]
+6. számú melléklet az 50/2004. (IV. 22.) FVM rendelethez[^255]
 
-[^254]: A 6. számú melléklet a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő szöveg. A 6. számú melléklet a 81/2013. (IX. 13.) VM rendelet 6. §-a, a 47/2016. (VII. 15.) FM rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^255]: A 6. számú melléklet a Magyar Közlöny 2004. évi 64. számában megjelent helyesbítésnek megfelelő szöveg. A 6. számú melléklet a 81/2013. (IX. 13.) VM rendelet 6. §-a, a 47/2016. (VII. 15.) FM rendelet 9. § (1) bekezdése szerint módosított szöveg.

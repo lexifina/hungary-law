@@ -14,9 +14,9 @@ a) a standard vetőmagot az e rendeletben foglaltak szerint előállítani, forg
 
 b) valamennyi vetőmagtételből mintát venni és azt utóellenőrzés céljából mindaddig megőrizni, amíg a vetőmag forgalomban van, valamint
 
-c)[^93] valamennyi standard vetőmag előállítást a megyei kormányhivatalnak bejelenteni.
+c)[^93] valamennyi standard vetőmag előállítást a vármegyei kormányhivatalnak bejelenteni.
 
 [^90]: A 20. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) és e) pontja szerint módosított szöveg.
 [^91]: A 20. § (2) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 32. § d) pontja szerint módosított szöveg.
 [^92]: A 20. § (3) bekezdése a 24/2016. (IV. 8.) FM rendelet 31. §-ával megállapított szöveg.
-[^93]: A 20. § (3) bekezdés c) potnja a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^93]: A 20. § (3) bekezdés c) potnja a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés d) pontja, a 81/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

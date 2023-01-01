@@ -30,7 +30,7 @@ b) az elitnél alacsonyabb szaporítású fokú vetőmag esetében a határért�
 
 (6)[^149] Az e rendelet szerint kitermesztési minta megküldésére kötelezett és be nem érkezett vagy a fajtaazonosság, fajtatisztaság tekintetében alkalmatlan minősítésű vetőmagtételt a NÉBIH hatósági zár alá helyezi.
 
-(7)[^150] A NÉBIH a kisparcellás fajtaazonosító vizsgálat eredményéről a fajtaazonosító vizsgálatra vonatkozó szabályzata szerinti vizsgálati bizonyítványt állít ki. A követelményeknek a fajtaazonosság szempontjából nem megfelelő tételt, illetve annak további szaporulatát vetőmagként nem lehet felhasználni, amelyet a NÉBIH és a megyei kormányhivatal ellenőriz.
+(7)[^150] A NÉBIH a kisparcellás fajtaazonosító vizsgálat eredményéről a fajtaazonosító vizsgálatra vonatkozó szabályzata szerinti vizsgálati bizonyítványt állít ki. A követelményeknek a fajtaazonosság szempontjából nem megfelelő tételt, illetve annak további szaporulatát vetőmagként nem lehet felhasználni, amelyet a NÉBIH és a vármegyei kormányhivatal ellenőriz.
 
 (8)[^151] Ha a vetőmag a fajtatisztaság és/vagy fajtaazonosság szempontjából a NÉBIH kisparcellás fajtaazonosító vizsgálatokra vonatkozó szabályzatában előírt értékeknek nem felel meg, a forgalmazás hatósági ellenőrzése során vett ellenőrzési mintán végzett utóellenőrzés esetén a külön jogszabály szerinti díjat a vetőmag tulajdonosa köteles megfizetni.
 
@@ -43,6 +43,6 @@ b) az elitnél alacsonyabb szaporítású fokú vetőmag esetében a határért�
 [^147]: A 24. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
 [^148]: A 24. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § d) pontja szerint módosított szöveg.
 [^149]: A 24. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
-[^150]: A 24. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c)–d) pontja, a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^150]: A 24. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c)–d) pontja, a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja, a 81/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^151]: A 24. § (8) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
 [^152]: A 24. § (9) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
