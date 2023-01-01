@@ -4,7 +4,7 @@ a) az oklevélszerzését (záróvizsgát) követő egy éven belüli alkalmazá
 
 b) határozatlan idejű kinevezésére abban az intézményben kerül sor, amelyben a kinevezése előtt már határozott időre foglalkoztatták és az előző közalkalmazotti jogviszonya megszűnésétől számítva 183 nap még nem telt el,
 
-## feltéve, hogy az a)–b) pontok szerinti foglalkoztatás ideje elérte a négy hónapot.
+feltéve, hogy az a)–b) pontok szerinti foglalkoztatás ideje elérte a négy hónapot.
 
 (2) Nem köthető ki próbaidő annak a részére sem, aki
 
@@ -12,7 +12,7 @@ a) pedagógus-munkakörben eltöltött legalább öt év szakmai gyakorlattal re
 
 b) a pedagógiai intézet alaptevékenysége szerinti munkakörben legalább tíz év szakmai gyakorlattal rendelkezik, feltéve, hogy kinevezésével egyidejűleg magasabb vezetői megbízást kap.
 
-(3)[^222] Intézményvezetői megbízás esetén szakmai gyakorlatként
+(3)[^224] Intézményvezetői megbízás esetén szakmai gyakorlatként
 
 a) óvodában óvodapedagógus-munkakörben,
 
@@ -20,9 +20,9 @@ b) más nevelési-oktatási intézményben pedagógus-munkakörben, valamint
 
 c) felsőfokú oktatási intézményben oktatói munkakörben
 
-## eltöltött időt kell figyelembe venni.
+eltöltött időt kell figyelembe venni.
 
-(4)[^223] A (3) bekezdés szerinti szakmai gyakorlat időtartamába nem számít be a 6. §-a és 6/A.§-a szerint a szakmai gyakorlatba be nem számítható időtartam.
+(4)[^225] A (3) bekezdés szerinti szakmai gyakorlat időtartamába nem számít be a 6. §-a és 6/A.§-a szerint a szakmai gyakorlatba be nem számítható időtartam.
 
-[^222]: A 29. § (3) bekezdés nyitó szövegrésze a 89/2015. (IV. 9.) Korm. rendelet 23. § i) pontja szerint módosított szöveg.
-[^223]: A 29. § (4) bekezdése a 249/2015. (IX. 8.) Korm. rendelet 16. § f) pontja szerint módosított szöveg.
+[^224]: A 29. § (3) bekezdés nyitó szövegrésze a 89/2015. (IV. 9.) Korm. rendelet 23. § i) pontja szerint módosított szöveg.
+[^225]: A 29. § (4) bekezdése a 249/2015. (IX. 8.) Korm. rendelet 16. § f) pontja szerint módosított szöveg.

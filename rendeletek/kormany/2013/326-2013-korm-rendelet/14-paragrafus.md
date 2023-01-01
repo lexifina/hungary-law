@@ -22,6 +22,6 @@ a) a Mesterprogram módosítására irányuló kérelemnek a 10/D. § (3) bekezd
 
 b) a Kutatóprogram módosítására irányuló kérelemnek a 10/G. § (2) bekezdésében meghatározott bíráló bizottság tagjaként való eljárásra jogosult szakértő
 
-## véleményének megfelelően harminc napon belül helyt ad, vagy azt elutasítja.
+véleményének megfelelően harminc napon belül helyt ad, vagy azt elutasítja.
 
 (5) Az (1)–(4) bekezdés megfelelő alkalmazásával kell eljárni abban az esetben, ha a Mesterpedagógus a Mesterprogram megvalósítása helyett a pedagógiai-szakmai szolgáltatás nyújtásában, az országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő vizsgáján vagy minősítési eljárásában szakértőként történő részvétel iránt nyújt be kérelmet, és a 4. § (1) és (4) bekezdésében meghatározott feltételeknek megfelel. Ettől eltérően, ha a fokozat megújításáig legfeljebb két év van hátra, az OH a kérelemnek szakértő bevonása nélkül helyt ad.

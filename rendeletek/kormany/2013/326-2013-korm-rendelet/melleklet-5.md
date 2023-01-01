@@ -1,5 +1,3 @@
-## A nevelő és oktató munkát közvetlenül segítő alkalmazottak finanszírozott létszáma
-
 |  | A | B | C |
 
 | 1 | Munkakör | Feltétel | Létszám |
@@ -62,6 +60,9 @@
 
 | 30 | pedagógiai felügyelő | amennyiben a kollégium nevelőtestülete e rendelet hatálybalépését megelőzően döntött a munkakör bevezetéséről, kollégiumban nemenként és épületenként 100 tanulóra számítva, de legalább | 1 |
 
-5. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^310]
+5. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^312]
 
-[^310]: Az 5. mellékletet a 235/2016. (VII. 29.) Korm. rendelet 36. § b) pontja iktatta be.
+A pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra vonatkozó helyi értékelési mintaszabályzat[^313]
+
+[^312]: Az 5. mellékletet a 235/2016. (VII. 29.) Korm. rendelet 36. § b) pontja iktatta be.
+[^313]: Az 5. melléklet címe a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.

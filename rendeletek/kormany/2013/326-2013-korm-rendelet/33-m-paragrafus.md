@@ -7,3 +7,5 @@
 a) bármely pedagógus-szakképzettséggel és szakirányú továbbképzésben szerzett drámapedagógus-szakképzettséggel,
 
 b) bábszínész-szakképzettséggel
+
+rendelkezik.

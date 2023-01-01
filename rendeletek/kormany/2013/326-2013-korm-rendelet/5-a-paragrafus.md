@@ -1,5 +1,3 @@
-## foglalkoztatottak legfeljebb egy-egy százaléka sorolható be.
-
 5/A. §[^28] (1) Az 1. § (2a) bekezdésében meghatározott személyek a 2–5. §-ban meghatározott feltételeknek történő megfelelésük esetén, önkéntes kezdeményezésük alapján címzetes Pedagógus I., címzetes Pedagógus II., címzetes Mesterpedagógus és címzetes Kutatótanár fokozatot (a továbbiakban együtt: címzetes fokozat) szerezhetnek.
 
 (2) Az (1) bekezdés szerinti címzetes fokozatra nem kell alkalmazni az Nkt. 64. §-ában és 65. §-ában meghatározott besorolásra és illetményre, továbbá az 5. alcímben meghatározott átsorolásra vonatkozó rendelkezéseket.

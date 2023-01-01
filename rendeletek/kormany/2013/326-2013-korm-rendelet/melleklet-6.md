@@ -1,6 +1,4 @@
-## A pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra vonatkozó helyi értékelési mintaszabályzat[^311]
-
-## 1.[^312] Jelen szabályzat a ... (köznevelési intézmény) és a vele munkaviszonyban/közalkalmazotti jogviszonyban álló, pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra terjed ki.
+## 1.[^314] Jelen szabályzat a ... (köznevelési intézmény) és a vele munkaviszonyban/közalkalmazotti jogviszonyban álló, pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra terjed ki.
 
 ## 2. Jelen szabályzat alkalmazásában
 
@@ -14,7 +12,7 @@
 
 ## 3. A gyakornokokra vonatkozó, a minősítés alapjául szolgáló, a munkáltató szervezetéhez és a betöltött munkakör követelményeihez kapcsolódó szakmai követelményrendszer
 
-## 3.1.[^313] A pedagógus szakképzettséghez vagy szakképesítéshez kapcsolódó követelmény a hospitálás: a nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott nevelési, vagy tanítási félévenként legalább öt, pedagógus szakképzettségének vagy szakképesítésének megfelelő tanórát vagy foglalkozást köteles látogatni.
+## 3.1.[^315] A pedagógus szakképzettséghez vagy szakképesítéshez kapcsolódó követelmény a hospitálás: a nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott nevelési, vagy tanítási félévenként legalább öt, pedagógus szakképzettségének vagy szakképesítésének megfelelő tanórát vagy foglalkozást köteles látogatni.
 
 ## 3.2. A betöltött nevelő és oktató munkát közvetlenül segítő munkakörhöz kapcsolódó követelmények:
 
@@ -96,7 +94,7 @@
 
 ## 6. Jelen szabályzat ...-án lép hatályba.
 
-6. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^314]
+6. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^316]
 
 A nevelési-oktatási intézményekben pedagógus-munkakörben alkalmazottak végzettségi
 
@@ -172,7 +170,6 @@ A nevelési-oktatási intézményekben pedagógus-munkakörben alkalmazottak vé
 
 | 34 | Szakgimnázium | közismereti tantárgyat oktató szakgimnáziumi tanár | egyetemi szintű vagy mesterfokozatú, a tantárgynak megfelelő szakos tanár |
 
-[^311]: Az 5. melléklet címe a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^312]: Az 5. melléklet 1. pontja a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^313]: Az 5. melléklet 3. pont 3.1. alpontja a 486/2016. (XII. 28.) Korm. rendelet 14. § h) pontja szerint módosított szöveg.
-[^314]: A 6. mellékletet a 417/2020. (VIII. 30.) Korm. rendelet 20. §-a iktatta be, szövege a 65/2021. (II. 15.) Korm. rendelet 32. §-a, a 790/2021. (XII. 27.) Korm. rendelet 32. §-a és 34. §-a szerint módosított szöveg.
+[^314]: Az 5. melléklet 1. pontja a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^315]: Az 5. melléklet 3. pont 3.1. alpontja a 486/2016. (XII. 28.) Korm. rendelet 14. § h) pontja szerint módosított szöveg.
+[^316]: A 6. mellékletet a 417/2020. (VIII. 30.) Korm. rendelet 20. §-a iktatta be, szövege a 65/2021. (II. 15.) Korm. rendelet 32. §-a, a 790/2021. (XII. 27.) Korm. rendelet 32. §-a és 34. §-a szerint módosított szöveg.

@@ -18,7 +18,7 @@ c) a felsőoktatási intézmény pedagógus szakképzettséggel rendelkező, tan
 
 d)[^4] az Nkt. 35/B. § (3) bekezdésében meghatározott, hit- és erkölcstanoktatásban közreműködő, illetve hittant oktató személyre,
 
-## ha az érintett a pedagógus előmeneteli rendszerben önkéntes elhatározásából vesz részt.
+ha az érintett a pedagógus előmeneteli rendszerben önkéntes elhatározásából vesz részt.
 
 (3) E rendeletben foglaltakat kell alkalmazni a Baross Imre Artistaképző Szakközépiskola és Szakiskola pedagógus-munkakörben foglalkoztatott dolgozóira is.
 

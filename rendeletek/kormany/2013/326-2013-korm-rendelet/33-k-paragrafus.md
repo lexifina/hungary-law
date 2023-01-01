@@ -4,7 +4,7 @@ a) technika-gyakorlati foglalkozás tantárgy oktatására, aki a tantárgynak m
 
 b) óvodapedagógus-munkakörben, aki óvónői szakközépiskolában szerzett érettségi-képesítő bizonyítvánnyal
 
-## rendelkezik, abban az esetben, ha a bizonyítvány, oklevél megszerzése óta 1996. szeptember 1. napjáig az adott pedagógus-munkakörben legalább hét év szakmai gyakorlatot szerzett.
+rendelkezik, abban az esetben, ha a bizonyítvány, oklevél megszerzése óta 1996. szeptember 1. napjáig az adott pedagógus-munkakörben legalább hét év szakmai gyakorlatot szerzett.
 
 (2) Pedagógus-munkakörben foglalkoztatható
 
@@ -12,7 +12,7 @@ a) gyógypedagógus-munkakörben, aki óvónői, tanítói, tanári oklevéllel,
 
 b) kollégiumban, aki felsőfokú végzettséggel és szakképzettséggel
 
-## rendelkezik, abban az esetben, ha a bizonyítvány, oklevél megszerzése óta 1996. szeptember 1. napjáig az adott pedagógus-munkakörben legalább hét év szakmai gyakorlatot szerzett.
+rendelkezik, abban az esetben, ha a bizonyítvány, oklevél megszerzése óta 1996. szeptember 1. napjáig az adott pedagógus-munkakörben legalább hét év szakmai gyakorlatot szerzett.
 
 (3) Pedagógus-munkakörben foglalkoztatható, aki a felsőoktatásról szóló 2005. évi CXXXIX. törvény vagy a felsőoktatásról szóló 1993. évi LXXX. törvény alapján vagy az azt megelőző felsőoktatási képzési rendszerben szerzett, a 6. mellékletben az adott pedagógus-munkakör betöltéséhez előírt szakképzettségnek megfeleltethető vagy a szakiránynak megfelelő felsőfokú végzettséggel és pedagógus szakképzettséggel rendelkezik.
 
@@ -25,3 +25,5 @@ b) kollégiumban, aki felsőfokú végzettséggel és szakképzettséggel
 a) a tantárgynak megfelelő szakmai tanár felsőfokú végzettségi szinttel és szakképzettséggel,
 
 b) felsőfokú végzettségi szinttel és a tantárgynak megfelelő, felsőoktatásban természettudomány képzési területen szerzett szakképzettséggel
+
+rendelkezik, feltéve, hogy vállalja a megfelelő tanári szakképzettség megszerzését.

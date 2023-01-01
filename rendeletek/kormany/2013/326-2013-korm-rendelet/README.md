@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-326-20-
 | 2022-01-01 | 2013-326-20-22.34 | 790/2021. (XII. 27.) Korm. rendelet |
 | 2022-06-01 | 2013-326-20-22.35 | 195/2022. (V. 27.) Korm. rendelet |
 | 2022-07-01 | 2013-326-20-22.36 | 238/2022. (VI. 30.) Korm. rendelet |
+| 2023-01-01 | 2013-326-20-22.37 | 533/2022. (XII. 19.) Korm. rendelet |

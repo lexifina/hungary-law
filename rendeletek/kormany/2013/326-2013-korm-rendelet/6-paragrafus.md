@@ -22,7 +22,7 @@ i)[^37] a honvédelemért, valamint a rendvédelemért felelős miniszter által
 
 j)[^38] a szakképző intézményben oktatói munkakörben
 
-## eltöltött jogszerű foglalkoztatás idejét.
+eltöltött jogszerű foglalkoztatás idejét.
 
 (1a)[^39] Az (1) bekezdés a) pontjának alkalmazásakor foglalkoztatási időnek kell tekinteni azt az időt is, amely alatt a pedagógus munkakör betöltése olyan, az adott pedagógus-munkakör betöltésre jogosító külföldön szerzett szakképesítés vagy szakképzettség alapján történt, amelynek külön törvény szerinti elismerése a minősítő vizsgán vagy a kötelező minősítési eljárásban való részvétel vagy a nem kötelező minősítési eljárásra vagy pályázati eljárásra történő jelentkezés rögzítésének időpontjában már megtörtént.
 
@@ -36,7 +36,7 @@ c)[^41] a gyermekek és az ifjúság védelméért felelős miniszter igazolása
 
 d)[^42] a gyermek- és ifjúságpolitikáért felelős miniszter igazolása alapján kormányzati szolgálati jogviszony keretében a gyermekek napközbeni ellátása vagy az örökbefogadás országos irányításával összefüggő munkakörben
 
-## eltöltött jogszerű foglalkoztatás idejét is.
+eltöltött jogszerű foglalkoztatás idejét is.
 
 (2a)[^43] A bölcsődében, mini bölcsődében fennálló foglalkoztatási jogviszonya alatt pedagógus munkakör betöltéséhez szükséges alap- vagy mesterfokozatot szerző, korábban középfokú végzettsége alapján besorolt személyt, ha a (2) bekezdés szerinti munkakörben
 
@@ -44,7 +44,7 @@ a) legalább két év szakmai gyakorlatot szerzett, Pedagógus I. fokozatba,
 
 b) két évnél kevesebb szakmai gyakorlat esetén Gyakornok fokozatba
 
-## kell sorolni.
+kell sorolni.
 
 (3)[^44] Ha a pedagógus-munkakörre foglalkoztatási jogviszonyt létesítő személy nem rendelkezik az (1) és (2) bekezdés szerint számított egy vagy két év szakmai gyakorlattal, de bármely más munkakörben, vagy részben az (1) és (2) bekezdésben foglalt jogviszonyban, részben más munkakörben szerzett, legalább hat év munkaviszony jellegű jogviszonnyal rendelkezik, mentesül az előmeneteli rendszer gyakornoki szakasza követelményeinek teljesítése alól, és a Pedagógus I. fokozatba kerül besorolásra. Ennek során a pedagógust akkor is a Pedagógus I. fokozat 2. fizetési kategóriájába kell sorolni, ha nem rendelkezik két év, a fizetési kategória megállapításához beszámítandó idővel.
 

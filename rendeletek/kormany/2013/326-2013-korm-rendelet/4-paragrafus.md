@@ -1,12 +1,10 @@
-## 3/A. §[^20]
-
 4. § (1) Az a Pedagógus II. fokozatba besorolt pedagógus, aki rendelkezik
 
 a) pedagógus-szakvizsgával és
 
 b) a Pedagógus II. fokozatba történt besorolását követően hat év szakmai gyakorlattal
 
-## a Mesterpedagógus fokozatba lépéshez szükséges minősítési eljárásban vehet részt.
+a Mesterpedagógus fokozatba lépéshez szükséges minősítési eljárásban vehet részt.
 
 (1a)[^21] Az (1) bekezdésben foglaltakon túlmenően, a Mesterpedagógus fokozat megszerzésére történő jelentkezésekor tett nyilatkozata szerint az országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő vizsgáján vagy minősítési eljárásában szakértőként részt venni, szaktanácsadói vagy pedagógiai-szakmai szolgáltatási feladatot ellátni szándékozó pedagógus esetében a minősítési eljárás eredményes befejezésének feltétele, hogy az ezzel kapcsolatos, a köznevelési szakértői tevékenység, valamint az érettségi vizsgaelnöki megbízás feltételeiről szóló 15/2015. (III. 13.) EMMI rendeletben [a továbbiakban: 15/2015. (III. 13.) EMMI rendelet] meghatározottak szerinti pedagógus továbbképzésben vegyen részt és azt legkésőbb a pályázat feltöltési határidejének időpontjáig sikeresen befejezze.
 
@@ -22,7 +20,8 @@ a) az országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő 
 
 b) a szaktanácsadói feladatok ellátására irányul, akkor a pedagógiai-szakmai szolgáltatásokról, a pedagógiai-szakmai szolgáltatásokat ellátó intézményekről és a pedagógiai-szakmai szolgáltatásokban való közreműködés feltételeiről szóló 48/2012. (XII. 12.) EMMI rendelet szerinti szaktanácsadói névjegyzéken
 
-[^20]: A 3/A. §-t a 324/2016. (X. 27.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 417/2020. (VIII. 30.) Korm. rendelet 22. § b) pontja.
+szerepeljen.
+
 [^21]: A 4. § (1a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^22]: A 4. § (1b) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^23]: A 4. § (2) bekezdése a 307/2017. (X. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
