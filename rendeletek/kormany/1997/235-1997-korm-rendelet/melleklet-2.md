@@ -822,7 +822,7 @@
 
 ## V/A. számú adatlap
 
-## A gyámhatóság által kirendelt támogatókról és támogatott személyeikről [a támogatott döntéshozatalról szóló 2013. évi CLV. törvény 11. §][^109]
+## A gyámhatóság által kirendelt támogatókról és támogatott személyeikről [a támogatott döntéshozatalról szóló 2013. évi CLV. törvény 11. §][^110]
 
 ## (Gyámhivatal tölti ki)
 
@@ -1114,6 +1114,8 @@
 
 ## (Gyámhivatal tölti ki.)
 
+## 1X02685M_12
+
 | A nyilvántartásba vétel időpontja: |  |
 
 | 1. | A gyermek vagy gondnokolt személyi adatai: |
@@ -1366,257 +1368,13 @@
 
 ## X. számú adatlap
 
-## A gyermekotthonban, befogadó szülőnél, továbbá a fogyatékosok vagy pszichiátriai betegek otthonában elhelyezett gyermekről [Gyvt. 141. § (1) bek. a) pont]
-
-## (Területi gyermekvédelmi szakszolgálat vezetője tölti ki.)
-
-| A nyilvántartásba vétel időpontja: |  |
-
-| 1. | A gyermek személyi adatai: |  |
-
-|  | Név: |  |
-
-|  | Születési hely, idő: |  |
-
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
-
-|  | Anyja neve: |  |
-
-|  | Lakóhely: |  |
-
-|  | Tartózkodási hely: |  |
-
-|  | Törzsszám: |  |
-
-| 2. | A törvényes képviselő személyi adatai: |
-
-|  | Név: |  |
-
-|  | Születési hely, idő: |  |
-
-|  | Anyja neve: |  |
-
-## 3. Határozat:
-
-## Határozatot hozó gyámhivatal megnevezése:
-
-## Határozat száma:
-
-## Határozat kelte:
-
-## Véglegessé válásának időpontja:
-
-## Döntés jellege:
-
-## – ideiglenes hatályú elhelyezés
-
-## – nevelésbe vétel
-
-## Gyermek elhelyezése:
-
-## – nevelőszülőnél:
-
-## – nevelőszülő
-
-## – különleges nevelőszülő
-
-## – speciális nevelőszülő
-
-## – gyermekotthonban, lakásotthonban:
-
-## – gyermekotthon
-
-## – központi speciális gyermekotthon
-
-## – központi speciális gyermekotthonnak nem minősülő speciális gyermekotthon
-
-## – különleges gyermekotthon
-
-## – lakásotthon
-
-## – speciális lakásotthon
-
-## – különleges lakásotthon
-
-## – kizárólag kísérő nélküli kiskorúakat ellátó gyermekotthon
-
-## – fogyatékosok vagy pszichiátriai betegek otthonában
-
-| 4. | A megszűnés oka: |  |
-
-|  | Határozat száma: |  |
-
-|  | Kelte: |  |
-
-|  | Véglegessé válásának időpontja: |  |
-
 ## XI. számú adatlap
 
-## A gyermekotthon, illetve a nevelőszülői hálózat üres férőhelyeiről
-
-## [Gyvt. 141. § (1) bek. a) pont]
-
-## (Területi gyermekvédelmi szakszolgálat vezetője tölti ki.)
-
-| A nyilvántartásba vétel időpontja: |  |
-
-## 1. A gyermekotthon, lakásotthon megnevezése:
-
-## Székhelye:
-
-## Elhelyezhető gyermekek száma:
-
-## Üres férőhelyek száma:
-
-## Ebből:
-
-## – gyermekotthoni férőhely:
-
-## – férőhely gyermekotthon speciális csoportjában:
-
-## – központi speciális gyermekotthonnak nem minősülő speciális gyermekotthoni férőhely:
-
-## – központi speciális gyermekotthoni férőhely:
-
-## – férőhely gyermekotthon különleges csoportjában:
-
-## – különleges gyermekotthoni férőhely:
-
-## – lakásotthoni férőhely:
-
-## – speciális lakásotthoni férőhely:
-
-## – különleges lakásotthoni férőhely:
-
-## – kizárólag kísérő nélküli kiskorúakat ellátó gyermekotthoni férőhely:
-
-## – utógondozó lakásotthonnak nem minősülő utógondozó otthoni férőhely:
-
-## – utógondozó lakásotthoni férőhely:
-
-## 2. A nevelőszülői férőhelyek száma:
-
-## Üres férőhelyek a nevelőszülőknél:
-
-## Ebből:
-
-## – férőhely átlagos ellátási szükségletű gyermek számára:
-
-## – férőhely speciális ellátási szükségletű gyermek számára:
-
-## – férőhely különleges ellátási szükségletű gyermek számára:
-
-## – ideiglenes férőhely:
-
-| 3. | A fenntartó, illetve a nevelőszülői hálózatot működtető megnevezése: |  |
-
-|  | Székhelye: |  |
-
 ## XII. számú adatlap
-
-## Az ideiglenes hatállyal elhelyezett gyermek ellátását biztosító nevelőszülőkről,
-
-## gyermekotthonokról
-
-## [Gyvt. 141. § (1) bek. b) pont]
-
-## (Területi gyermekvédelmi szakszolgálat vezetője tölti ki.)
-
-## A) Nevelőszülő
-
-| A nyilvántartásba vétel időpontja: |  |
-
-| 1. | A nevelőszülő személyi adatai: |
-
-|  | Név: |  |
-
-|  | Születési hely, idő: |  |
-
-|  | Anyja neve: |  |
-
-|  | Lakóhely: |  |
-
-|  | Tartózkodási hely: |  |
-
-## 2. A nevelőszülő típusa:
-
-## – nevelőszülő
-
-## – speciális nevelőszülő
-
-## – különleges nevelőszülő
-
-| 3. | Saját gyermekek száma: |  |
-
-| 4. | A működtető megnevezése: |  |
-
-|  | Székhelye: |  |
-
-## B) Gyermekotthon, lakásotthon
-
-| 1. | A gyermekotthon, lakásotthon neve: |  |
-
-|  | Címe: |  |
-
-| 2. | Az intézményvezető neve: |  |
-
-|  | Címe: |  |
-
-| 3. | A férőhelyek száma: |  |
-
-## 4. A gyermekotthon, lakásotthon típusa:
-
-## – gyermekotthon
-
-## – központi speciális gyermekotthonnak nem minősülő speciális gyermekotthon
-
-## – központi speciális gyermekotthon
-
-## – különleges gyermekotthon
-
-## – lakásotthon
-
-## – speciális lakásotthon
-
-## – különleges lakásotthon
-
-## – kizárólag kísérő nélküli kiskorúakat ellátó gyermekotthon
-
-## – utógondozó lakásotthonnak nem minősülő utógondozó otthon
-
-## – utógondozó lakásotthon
-
-| 5. | A fenntartó megnevezése: |  |
-
-|  | Székhelye: |  |
 
 ## XIII. számú adatlap
 
 ## XIV. számú adatlap
-
-## Az eseti gyámi és gyermekvédelmi gyámi feladatokat ellátó személyről [Gyvt. 141. § (1) bek. d) pont]
-
-## (Területi gyermekvédelmi szakszolgálat vezetője tölti ki.)
-
-## A nyilvántartásba vétel időpontja:
-
-## 1. A gyermekvédelmi gyámi munkakörben foglalkoztatott személyi adatai:
-
-## Név:
-
-## Születési hely, idő:
-
-## Anyja neve:
-
-## Lakóhely:
-
-## Tartózkodási hely:
-
-## 2. Gyermekvédelmi gyámi munkakörében eseti gyámi feladatokat is ellát:
-
-## igen nem
-
-## 3. Az általa gyámoltak száma: fő
 
 ## XV. számú adatlap
 
@@ -1744,7 +1502,7 @@
 
 ## A „B” adatlapból mindig újat kell kitölteni, ha újabb nevelési felügyeletet rendeltek el.
 
-2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^110]
+2. számú melléklet a 235/1997. (XII. 17.) Korm. rendelethez[^111]
 
-[^109]: Ha a támogatott személynek több támogatója van, az adatlapot minden támogató tekintetében külön-külön ki kell tölteni.
-[^110]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 205/2021. (IV. 29.) Korm. rendelet 18. § d) pontja.
+[^110]: Ha a támogatott személynek több támogatója van, az adatlapot minden támogató tekintetében külön-külön ki kell tölteni.
+[^111]: A 2. számú mellékletet a 251/2006. (XII. 6.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 205/2021. (IV. 29.) Korm. rendelet 18. § d) pontja.

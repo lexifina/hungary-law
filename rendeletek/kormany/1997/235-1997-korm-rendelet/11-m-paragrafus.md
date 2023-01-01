@@ -1,4 +1,4 @@
-## 2/C. [^42] A Gyermekeink védelmében elnevezésű informatikai rendszer kapcsolatai más informatikai rendszerekkel
+## 2/C. [^39] A Gyermekeink védelmében elnevezésű informatikai rendszer kapcsolatai más informatikai rendszerekkel
 
 11/M. § (1) A GYVR a finanszírozás ellenőrzése céljából elektronikus úton – külön adatigénylés nélkül – napi rendszerességgel adatot szolgáltat a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából vezetett nyilvántartás (a továbbiakban: igénybevevői nyilvántartás) számára
 
@@ -16,29 +16,29 @@ f) a fiatal felnőtt utógondozói ellátása elrendelésének okáról,
 
 g) az ideiglenes hatállyal elhelyezett, a nevelésbe vett gyermek javítóintézetbe vagy büntetés-végrehajtási intézetbe történő befogadásának és az onnan történő elbocsátásának napjáról, és
 
-h)[^43] veszélyeztetett gyermek esetén a jelzésről, önkéntes megkeresés esetén, ha az első találkozást követően tett intézkedéssel lezárható a gyermekjóléti szolgáltatás nyújtása, a gyermek és az ellátást igénybe vevő törvényes képviselő személyazonosító adatairól, TAJ-áról, TAJ hiányában technikai kódjáról, a szolgáltatás igénybevételének és igénylésének napjáról,
+h)[^40] veszélyeztetett gyermek esetén a jelzésről, önkéntes megkeresés esetén, ha az első találkozást követően tett intézkedéssel lezárható a gyermekjóléti szolgáltatás nyújtása, a gyermek és az ellátást igénybe vevő törvényes képviselő személyazonosító adatairól, TAJ-áról, TAJ hiányában technikai kódjáról, a szolgáltatás igénybevételének és igénylésének napjáról,
 
-i)[^44] – ha a gyermek veszélyeztetettségének megszüntetése céljából megállapodás alapján történik a gyermekjóléti szolgáltatás nyújtása – a gyermek és az ellátást igénylő törvényes képviselő személyazonosító adatairól, TAJ-áról, TAJ hiányában technikai kódjáról, a szolgáltatás igénybevételének és igénylésének napjáról,
+i)[^41] – ha a gyermek veszélyeztetettségének megszüntetése céljából megállapodás alapján történik a gyermekjóléti szolgáltatás nyújtása – a gyermek és az ellátást igénylő törvényes képviselő személyazonosító adatairól, TAJ-áról, TAJ hiányában technikai kódjáról, a szolgáltatás igénybevételének és igénylésének napjáról,
 
-j)[^45] – ha a gyermek veszélyeztetettségének megszüntetése céljából megállapodás, valamint cselekvési és intézkedési terv alapján a család- és gyermekjóléti központ speciális szolgáltatást nyújt – a gyermek, illetve az ellátást igénylő törvényes képviselő személyazonosító adatairól, TAJ-áról, TAJ hiányában technikai kódjáról, a szolgáltatás igénybevételének és igénylésének napjáról,
+j)[^42] – ha a gyermek veszélyeztetettségének megszüntetése céljából megállapodás, valamint cselekvési és intézkedési terv alapján a család- és gyermekjóléti központ speciális szolgáltatást nyújt – a gyermek, illetve az ellátást igénylő törvényes képviselő személyazonosító adatairól, TAJ-áról, TAJ hiányában technikai kódjáról, a szolgáltatás igénybevételének és igénylésének napjáról,
 
-k)[^46] – az ideiglenes hatályú elhelyezés és a nevelésbe vétel kivételével – a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés esetén a gyermekjóléti szolgáltatás nyújtásakor a gyermek személyazonosító adatairól, TAJ-áról, TAJ hiányában technikai kódjáról, a hatósági döntés véglegessé válásának időpontjáról, a döntés megszüntetéséig a szolgáltatás igénybevételének és igénylésének napjáról,
+k)[^43] – az ideiglenes hatályú elhelyezés és a nevelésbe vétel kivételével – a gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés esetén a gyermekjóléti szolgáltatás nyújtásakor a gyermek személyazonosító adatairól, TAJ-áról, TAJ hiányában technikai kódjáról, a hatósági döntés véglegessé válásának időpontjáról, a döntés megszüntetéséig a szolgáltatás igénybevételének és igénylésének napjáról,
 
-l)[^47] – az ideiglenes hatályú elhelyezés és a nevelésbe vétel kivételével – gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés esetén az ellátást megalapozó hatósági döntés tárgyáról, számáról, keltéről, a véglegessé válás időpontjáról és a döntést hozó szerv megnevezéséről,
+l)[^44] – az ideiglenes hatályú elhelyezés és a nevelésbe vétel kivételével – gyermekvédelmi gondoskodás keretébe tartozó hatósági intézkedés esetén az ellátást megalapozó hatósági döntés tárgyáról, számáról, keltéről, a véglegessé válás időpontjáról és a döntést hozó szerv megnevezéséről,
 
-m)[^48] az ideiglenes hatállyal elhelyezett és a nevelésbe vett gyermek esetén a gyermekjóléti szolgáltatás nyújtásakor a gyermek személyazonosító adatairól, TAJ-áról, TAJ hiányában technikai kódjáról, a szolgáltatás igénybevételének és igénylésének napjáról,
+m)[^45] az ideiglenes hatállyal elhelyezett és a nevelésbe vett gyermek esetén a gyermekjóléti szolgáltatás nyújtásakor a gyermek személyazonosító adatairól, TAJ-áról, TAJ hiányában technikai kódjáról, a szolgáltatás igénybevételének és igénylésének napjáról,
 
-n)[^49] gyermekek átmeneti gondozása esetén az ellátást igénybe vevő személyazonosító adatairól, TAJ-áról, TAJ hiányában technikai kódjáról, ellátási helyére vonatkozó adatokról, ha az ellátás külső férőhelyen történik, az arra vonatkozó adatról, valamint az ellátás igénybevételének és igénylésének napjáról,
+n)[^46] gyermekek átmeneti gondozása esetén az ellátást igénybe vevő személyazonosító adatairól, TAJ-áról, TAJ hiányában technikai kódjáról, ellátási helyére vonatkozó adatokról, ha az ellátás külső férőhelyen történik, az arra vonatkozó adatról, valamint az ellátás igénybevételének és igénylésének napjáról,
 
-o)[^50] az a)–n) pont szerinti adatokban bekövetkező változásokról.
+o)[^47] az a)–n) pont szerinti adatokban bekövetkező változásokról.
 
-(2)[^51] A GYVR törzsadat alrendszerében rögzített (1) bekezdés szerinti adatok
+(2)[^48] A GYVR törzsadat alrendszerében rögzített (1) bekezdés szerinti adatok
 
 a) a gyermekjóléti szolgáltatást, a gyermekek átmeneti gondozását biztosító szolgáltató vezetőjének, a család és gyermekjóléti központ esetmenedzserének, asszisztensének,
 
 b) a gyermek vagy fiatal felnőtt gyermekvédelmi szakellátását biztosító szolgáltató vezetőjének (a továbbiakban: gondozási hely vezetője)
 
-## jóváhagyásával adhatóak át az igénybevevői nyilvántartás számára.
+jóváhagyásával adhatóak át az igénybevevői nyilvántartás számára.
 
 (3) Ha a gondozási hely vezetője a területi gyermekvédelmi szakszolgálat által rögzített, (1) bekezdés szerinti adatokat vitatja, haladéktalanul, de legkésőbb két munkanapon belül írásban kezdeményezi az adatok egyeztetését a hibás adat, a helyes adat és az eltérés okának megjelölésével. A gondozási hely vezetője a kezdeményezést tartalmazó irat másolatát egyidejűleg megküldi a Központ részére.
 
@@ -54,13 +54,13 @@ b) a gyermek vagy fiatal felnőtt gyermekvédelmi szakellátását biztosító s
 
 (9) Ha a rendőrség általános védelmi intézkedés keretében a már ideiglenes hatállyal elhelyezett vagy nevelésbe vett gyermeket az arra kijelölt speciális gyermekotthonba szállítja, a területi gyermekvédelmi szakszolgálat a GYVR törzsadat alrendszerében a gyermek gondozási helyeként a kijelölt speciális gyermekotthont rögzíti. Általános védelmi intézkedés esetén a gyermek előző gondozási helye a GYVR tervező és értékelő alrendszerében megindítja a gyermek gondozási helyének megváltoztatására irányuló gyámhatósági eljárást.
 
-[^42]: A 2/C. alcímet (11/M–11/O. §) a 447/2020. (X. 1.) Korm. rendelet 8. §-a iktatta be.
-[^43]: A 11/M. § (1) bekezdés h) pontja a 205/2021. (IV. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^44]: A 11/M. § (1) bekezdés i) pontját a 205/2021. (IV. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^45]: A 11/M. § (1) bekezdés j) pontját a 205/2021. (IV. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^46]: A 11/M. § (1) bekezdés k) pontját a 205/2021. (IV. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^47]: A 11/M. § (1) bekezdés l) pontját a 205/2021. (IV. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^48]: A 11/M. § (1) bekezdés m) pontját a 205/2021. (IV. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^49]: A 11/M. § (1) bekezdés n) pontját a 205/2021. (IV. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^50]: A 11/M. § (1) bekezdés o) pontját a 205/2021. (IV. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
-[^51]: A 11/M. § (2) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^39]: A 2/C. alcímet (11/M–11/O. §) a 447/2020. (X. 1.) Korm. rendelet 8. §-a iktatta be.
+[^40]: A 11/M. § (1) bekezdés h) pontja a 205/2021. (IV. 29.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^41]: A 11/M. § (1) bekezdés i) pontját a 205/2021. (IV. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^42]: A 11/M. § (1) bekezdés j) pontját a 205/2021. (IV. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^43]: A 11/M. § (1) bekezdés k) pontját a 205/2021. (IV. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^44]: A 11/M. § (1) bekezdés l) pontját a 205/2021. (IV. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^45]: A 11/M. § (1) bekezdés m) pontját a 205/2021. (IV. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^46]: A 11/M. § (1) bekezdés n) pontját a 205/2021. (IV. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^47]: A 11/M. § (1) bekezdés o) pontját a 205/2021. (IV. 29.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^48]: A 11/M. § (2) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
