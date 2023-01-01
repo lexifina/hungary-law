@@ -10,11 +10,11 @@ c) az épület és a hozzá tartozó földterület vagy az önálló ingatlannak
 
 d) a lakás, lakóépület használatbavételi engedélyének jogerőre emelkedésétől vagy vásárlásától vagy a teljes felújítástól számított tíz év már eltelt,
 
-e)[^22]
+e)[^23]
 
 f) a bérlő vállalja a 11. alcímben foglaltak szerint megállapított vételár megfizetését.
 
-(2)[^23] Az 5. melléklet szerinti vezető az (1) bekezdés d) pontjában meghatározott feltételtől eltekinthet, ha a méltányolható egyéni körülmények nem ellentétesek a lakásgazdálkodási érdekekkel.
+(2)[^24] Az 5. melléklet szerinti vezető az (1) bekezdés d) pontjában meghatározott feltételtől eltekinthet, ha a méltányolható egyéni körülmények nem ellentétesek a lakásgazdálkodási érdekekkel.
 
-[^22]: A 15. § (1) bekezdés e) pontját a 31/2018. (XII. 19.) BM rendelet 27. §-a hatályon kívül helyezte.
-[^23]: A 15. § (2) bekezdése a 31/2018. (XII. 19.) BM rendelet 22. §-ával megállapított szöveg.
+[^23]: A 15. § (1) bekezdés e) pontját a 31/2018. (XII. 19.) BM rendelet 27. §-a hatályon kívül helyezte.
+[^24]: A 15. § (2) bekezdése a 31/2018. (XII. 19.) BM rendelet 22. §-ával megállapított szöveg.

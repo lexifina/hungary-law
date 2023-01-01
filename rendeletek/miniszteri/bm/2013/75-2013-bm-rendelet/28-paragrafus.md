@@ -24,6 +24,6 @@ d) feladatai ellátására való alkalmatlanság miatti felmentés,
 
 e) összeférhetetlenség meg nem szüntetése,
 
-## miatt kerül sor.
+miatt kerül sor.
 
 (5) A (3) bekezdésben említett személy esetében – írásbeli kérelmére – az általa használt lakás is bérbe adható, ha a bérbeadás nem sért lakásgazdálkodási érdeket.

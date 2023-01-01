@@ -1,8 +1,6 @@
-## 31. §[^33]
-
 1. melléklet a 75/2013. (XII. 18.) BM rendelethez
 
-## A lakás bérbeadása iránti kérelem
+A lakás bérbeadása iránti kérelem
 
 ## ............................................................
 
@@ -99,5 +97,3 @@ A foglalkoztatási helye szerinti közvetlen vezető záradéka:
 ......................................................
 
 vezető
-
-[^33]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
