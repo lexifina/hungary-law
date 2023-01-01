@@ -4,6 +4,6 @@
 
 (2) A kapcsolattartásról a bíróság vagy a gyámhatóság a gyermek korának, egészségi állapotának, életkörülményeinek, a szülők személyes körülményeinek és az ítélőképessége birtokában lévő gyermek véleményének figyelembevételével rendelkezik.
 
-(3) A kapcsolattartásra vonatkozó határozatban rendelkezni kell a kapcsolattartás gyakoriságáról, időtartamáról, folyamatos vagy időszakos voltáról, arról, hogy felügyelt kapcsolattartásra kerül-e sor, továbbá a gyermek átadásának és visszaadásának helyéről, idejéről és módjáról, a kapcsolattartás elmaradására vonatkozó értesítési kötelezettségről és az elmaradt kapcsolattartás pótlásáról.
+(3) A kapcsolattartásra vonatkozó határozatban rendelkezni kell a kapcsolattartás gyakoriságáról, időtartamáról, folyamatos vagy időszakos voltáról, arról, hogy felügyelt kapcsolattartásra kerül-e sor, a gyermek átadásának és visszaadásának helyéről, idejéről és módjáról, továbbá a gyermek személyes okmányai átadásáról és visszaadásáról, valamint a kapcsolattartás elmaradására vonatkozó értesítési kötelezettségről és az elmaradt kapcsolattartás pótlásáról.
 
 (4) Ha a kapcsolattartás kérdésében a bíróság döntött, a kapcsolattartás megváltoztatását is a bíróságtól lehet kérni.
