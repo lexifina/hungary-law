@@ -1,6 +1,6 @@
-2. § (1)[^2] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Békés Megyei Kormányhivatalt vezető főispánt jelöli ki.
+2. § (1)[^2] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Békés Vármegyei Kormányhivatalt vezető főispánt jelöli ki.
 
 (2)[^3] A főispán az (1) bekezdés szerinti koordinációs feladatainak ellátása során együttműködik a Mezőhegyesi Állami Ménesbirtok újjászervezésének koordinálásáért felelős kormánybiztossal (a továbbiakban: kormánybiztos), és minden hónap ötödik napjáig a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó főispánok felé, továbbá a koordinációs feladatokat ellátó főispánok által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályairól szóló 33/2013. (XII. 23.) KIM rendelet 3–6. mellékletében foglalt, kitöltött táblázatok megküldésével tájékoztatja a kormánybiztost a kiemelt jelentőségű ügyekkel kapcsolatos intézkedéseiről és a kiemelt jelentőségű ügyek állásáról.
 
-[^2]: A 2. § (1) bekezdése az 546/2022. (XII. 22.) Korm. rendelet 155. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése az 546/2022. (XII. 22.) Korm. rendelet 155. § a) és c) pontja szerint módosított szöveg.
 [^3]: A 2. § (2) bekezdése az 546/2022. (XII. 22.) Korm. rendelet 155. § b) pontja szerint módosított szöveg.
