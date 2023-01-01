@@ -20,7 +20,7 @@ gb)[^20] a 2. a) alpont esetén a vizsgálathoz szükséges berendezést üzemel
 
 gc)[^21] a 2. b) alpont esetén a klinikai laboratórium
 
-## végezheti,
+végezheti,
 
 h)[^22] a 2. számú melléklet 1. i), 2. d), 3. e) és 4. d) pontjában foglalt szűrővizsgálatok végzése – a háziorvos mellett – a fogászati alapellátást nyújtó fogorvos feladatai közé is tartozik,
 

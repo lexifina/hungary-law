@@ -60,7 +60,7 @@
 
 3. számú melléklet az 51/1997. (XII. 18.) NM rendelethez[^47]
 
-## Népegészségügyi célú, célzott szűrővizsgálatok
+Népegészségügyi célú, célzott szűrővizsgálatok
 
 1.[^48] 25 és 65 év között népegészségügyi céllal egyszeri negatív eredményű szűrővizsgálatot követően háromévenként méhnyakszűrés, különös figyelemmel a méhnyakelváltozások sejtvizsgálatára (citológia),
 
