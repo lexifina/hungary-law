@@ -24,6 +24,8 @@ elektronikus dokumentumként elektronikusan feldolgozható formában adatot szol
 
 (1d) Az egyedi megállapodásnak tartalmaznia kell az adatfeldolgozási tevékenység meghatározását, az elektronikus dokumentum adattartalmát, formátumát, valamint az adatszolgáltatás teljesítésének a határidejét és az ellenszolgáltatás mértékét, illetve az ingyenességét.
 
+(1e) A földmérési és térinformatikai államigazgatási szerv az általa üzemeltetett földhasználati nyilvántartás adatbázisából – egyedi megállapodás alapján – a földhasználó részére az általa használt földterületekre vonatkozóan elektronikus dokumentumként elektronikusan feldolgozható formában adatot szolgáltat. Az egyedi megállapodásnak tartalmaznia kell az elektronikus dokumentum adattartalmát, formátumát, valamint az adatszolgáltatás teljesítésének a határidejét és az ellenszolgáltatás mértékét, illetve annak ingyenességét.
+
 (2) A földhasználati nyilvántartás adatbázisából a földhasználó által az ország területén használt valamennyi földterület területnagyságát és AK-értékét, valamint a földhasználat jogcímét tartalmazó földhasználati összesítő állítható ki a nyilvántartásnak a 94. § (1) bekezdés b) pont ba), bd) és be) alpontjában, valamint c) pont ca), cc) és cd) alpontjában foglalt azonosító adatai alapján.
 
 (3) A földhasználati lap másolat szolgáltatását bárki igényelheti.
@@ -40,7 +42,7 @@ d) a hatáskörében eljáró ügyész és bíróság,
 
 e) a mezőgazdasági és vidékfejlesztési támogatások folyósításával, nyilvántartásával és ellenőrzésével összefüggésben a mezőgazdasági és vidékfejlesztési támogatási szerv.
 
-f) a szőlőültetvények telepítésének engedélyezésével, valamint a szőlőültetvények telepítésének és kivágásának ellenőrzésével összefüggésben a hegybíró.
+f) a hegyközségekről szóló 2012. évi CCXIX. törvény (a továbbiakban: Hktv.) 40. § (2) bekezdés b), d) és e) pontjában meghatározott feladatok ellátásához a hegybíró.
 
 (5) A földhasználati lap másolat szolgáltatása díjmentes
 
@@ -54,7 +56,9 @@ d) bíróság, ügyészség, nyomozó hatóság, közjegyző és bírósági vé
 
 e) mezőgazdasági igazgatási szerv részére a (4) bekezdés c) pontjában meghatározott feladatai ellátásához.
 
-(6) A földhasználati összesítő szolgáltatása díjmentes a (4) bekezdés b)–d) pontjában meghatározottak részére.
+f) a Hktv. 40. § (2) bekezdés b), d) és e) pontjában meghatározott feladatok ellátásához a hegybíró részére.
+
+(6) A földhasználati összesítő szolgáltatása díjmentes a (4) bekezdés b)–d) és f) pontjában meghatározottak részére.
 
 (7) A földhasználati lap másolatának és a földhasználati összesítő részletes adattartalmát, valamint azok szolgáltatásának módját az e törvény végrehajtására kiadott rendelet tartalmazza.
 

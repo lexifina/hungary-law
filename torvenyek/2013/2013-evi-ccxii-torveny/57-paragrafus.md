@@ -15,3 +15,5 @@ e) azonnali hatályú felmondással,
 f) a 60. §-ban meghatározott felmondással,
 
 g) ha a föld természeti erő közvetlen behatása következtében egészben vagy jelentős részben a haszonbérleti szerződés szerinti hasznosításra tartósan alkalmatlanná válik.
+
+h) az 57/A. §-ban meghatározott esetben.

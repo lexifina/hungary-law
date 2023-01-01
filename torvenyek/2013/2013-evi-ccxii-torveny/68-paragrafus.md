@@ -14,7 +14,7 @@ c) felmondással,
 
 d) azonnali hatályú felmondással,
 
-e) közeli hozzátartozók közti jogügylet esetén a szerződő felek közötti közeli hozzátartozói viszony bármilyen okból történő megszűnésével, a megszűnést követő 30. napon,
+e) közeli hozzátartozók közti jogügylet esetén a szerződő felek közötti közeli hozzátartozói viszony bármilyen okból történő megszűnésével, a megszűnést követő 30. napon, bármelyik szerződő fél halála esetén az elhalálozás bekövetkezésének napján,
 
 f) családi mezőgazdasági társaság részére történő használatba adás esetén a családi mezőgazdasági társaságban fennálló tagsági viszony bármilyen okból történő megszűnésével, a megszűnést követő 30. napon.
 

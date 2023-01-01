@@ -1,4 +1,4 @@
-37. § (1)
+37. § (1) A Földforgalmi törvény 23. § (1) bekezdése és 23/A. § (1a) bekezdése szerinti megkeresés esetén a mezőgazdasági igazgatási szerv a jóváhagyás megtagadásáról, a kérelem visszautasításáról vagy az eljárás megszüntetéséről szóló végleges döntés megküldésével tájékoztatja az ingatlanügyi hatóságot. A mezőgazdasági igazgatási szerv a döntésével egyidejűleg megkeresi a föld fekvése szerint illetékes ingatlanügyi hatóságot a föld tulajdonjogának átruházására irányuló szerződés benyújtása tényének törlése iránt.
 
 (2) A mezőgazdasági igazgatási szerv egyszerűsített döntést nem hozhat.
 
