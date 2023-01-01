@@ -1,6 +1,6 @@
-3. számú melléklet a 75/2008. (IV. 3.) Korm. rendelethez[^13]
+3. számú melléklet a 75/2008. (IV. 3.) Korm. rendelethez[^17]
 
-## Az 1. § (2a) bekezdése szerinti közigazgatási hatósági eljárások
+Az 1. § (2a) bekezdése szerinti közigazgatási hatósági eljárások
 
 1. szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások,
 
@@ -26,4 +26,4 @@
 
 12. az 1–11. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^13]: A 3. számú mellékletet a 377/2013. (X. 25.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^17]: A 3. számú mellékletet a 377/2013. (X. 25.) Korm. rendelet 4. § (2) bekezdése iktatta be.
