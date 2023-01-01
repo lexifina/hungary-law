@@ -1,4 +1,4 @@
-## A cégbíróság által lefolytatott vagyonfelmérés[^23]
+## A kényszertörlési eljárás[^23]
 
 10/C. §[^24] (1) A Ctv. 117. § (3)–(6) bekezdés szerinti vagyonfelmérés keretében történő adatszolgáltatásra sor kerülhet a Ctv. 117. § (3) és (4) bekezdésében meghatározott hatóságok és szervezetek (a továbbiakban együtt: szervezet) elektronikus megkeresésével vagy a szervezet által biztosított közvetlen adathozzáféréssel.
 
@@ -8,5 +8,5 @@
 
 (4) Megkereséssel történő adatszolgáltatásnak minősül az is, ha az érintett szervezet képes a vagyonfelmérési űrlap vagy az abban foglalt adattartalom automatikus feldolgozására, és a megfelelő elektronikus válasz kialakítására és visszaküldésére.
 
-[^23]: A 10/C. §-t megelőző alcímet a 21/2014. (III. 13.) KIM rendelet 19. § (1) bekezdése iktatta be.
+[^23]: A 10/C. §-t megelőző alcímet a 21/2014. (III. 13.) KIM rendelet 19. § (1) bekezdése iktatta be, az „A kényszertörlési eljárás” alcím címe a 30/2022. (XII. 22.) IM rendelet 3. §-ával megállapított szöveg.
 [^24]: A 10/C. §-t a 21/2014. (III. 13.) KIM rendelet 19. § (1) bekezdése iktatta be.
