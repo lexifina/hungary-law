@@ -34,7 +34,7 @@ m) azon pályázatok aránya az összes nyertes pályázathoz képest, amelyek a
 
 n) azon pályázatok aránya az összes nyertes pályázathoz képest, amelyek az általuk igényelt támogatás felét vagy annál kevesebb összeget nyertek;
 
-o) az összes beérkezett és a nyertes pályázatok számának megyei megoszlása;
+o)[^145] az összes beérkezett és a nyertes pályázatok számának vármegyei megoszlása;
 
 p) az elfogadott, az elutasított, a részben elutasított szakmai és pénzügyi beszámolók száma és aránya az adott pályázati kiírás alapján támogatott pályázatok összes beszámolójához képest;
 
@@ -50,14 +50,15 @@ t) a támogatások segítségével megvalósult projektek hatása, eredményess�
 
 a) a Civil tv. 56. § (1) bekezdés c)–j) pontjában foglalt pályázati célok, kategóriák meghatározásának indoklása, az ezt alátámasztó pályázói igények elemzése;
 
-b)[^145] a tárgyévet megelőző évi költségvetési előirányzathoz kapcsolódó támogatási stratégia bemutatása, értékelése, tapasztalatai az a) pontban meghatározott célok figyelembevételével;
+b)[^146] a tárgyévet megelőző évi költségvetési előirányzathoz kapcsolódó támogatási stratégia bemutatása, értékelése, tapasztalatai az a) pontban meghatározott célok figyelembevételével;
 
 c) a támogatott szervezetek által megküldött szakmai beszámolók alapján a megvalósított projektek – képzések, tanulmányok, előadások, publikációk – értékelése, a résztvevők száma, a megvalósítás hatékonysága a civil szervezetek fejlődése, szerepvállalásának segítése érdekében;
 
-d)[^146] az egyes szakmai célok jövőbeni fenntartásának, módosításának, elvetésének indokolása a tárgyévet megelőző évi költségvetési előirányzathoz kapcsolódó tapasztalatok alapján.
+d)[^147] az egyes szakmai célok jövőbeni fenntartásának, módosításának, elvetésének indokolása a tárgyévet megelőző évi költségvetési előirányzathoz kapcsolódó tapasztalatok alapján.
 
 [^142]: A 31. § (1) bekezdés nyitó szövegrésze az 56/2012. (XII. 29.) EMMI rendelet 17. §-ával megállapított szöveg.
 [^143]: A 31. § (1) bekezdés a) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § i) pontja szerint módosított szöveg.
 [^144]: A 31. § (1) bekezdés g) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § j) pontja szerint módosított szöveg.
-[^145]: A 31. § (2) bekezdés b) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § k) pontja szerint módosított szöveg.
-[^146]: A 31. § (2) bekezdés d) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § k) pontja szerint módosított szöveg.
+[^145]: A 31. § (1) bekezdés o) pontja a 21/2022. (XII. 28.) MVM rendelet 1. §-a szerint módosított szöveg.
+[^146]: A 31. § (2) bekezdés b) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § k) pontja szerint módosított szöveg.
+[^147]: A 31. § (2) bekezdés d) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § k) pontja szerint módosított szöveg.
