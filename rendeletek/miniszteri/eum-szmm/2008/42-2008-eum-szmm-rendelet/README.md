@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-42-20-0
 | 2013-11-16 | 2008-42-20-0B.3 | 68/2013. (XI. 15.) EMMI rendelet |
 | 2017-01-01 | 2008-42-20-0B.4 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2022-12-28 | 2008-42-20-0B.6 | 52/2022. (XII. 27.) BM rendelet |
+| 2023-01-01 | 2008-42-20-0B.5 | 54/2016. (XII. 30.) EMMI rendelet |
