@@ -1,9 +1,0 @@
-## 49. § A kormányablak a 6. mellékletben meghatározott ügyekben kizárólagos hatáskörben vagy az ügyre vonatkozó jogszabályban meghatározott, az eljárásra hatáskörrel és illetékességgel rendelkező hatóság helyett jár el, az eljárásra meghatározott ügyintézési határidőn belül.
-
-50. § (1) A kormányablaknál továbbítás céljából előterjesztett kérelmet a kormányablak haladéktalanul, de legkésőbb a benyújtást követő munkanapon továbbítja ügyintézés céljából az eljárásra hatáskörrel és illetékességgel rendelkező hatósághoz.
-
-(2) Az ügyfél az (1) bekezdés szerinti kérelemhez kapcsolódó hiányosságok pótlását – ideértve az eljárásra hatáskörrel és illetékességgel rendelkező hatóság által kiadott hiánypótlási felhívás teljesítését is – a hatáskörrel rendelkező illetékes hatóságnál és a kormányablaknál is teljesítheti. A hiányosságok pótlása során az ügyfél köteles feltüntetni az ügyben eljáró hatóság megnevezését, valamint az ügyszámot. Ha az ügyfél a hiányosságok pótlását a kormányablaknál teljesíti, a kormányablak azt a teljesítést követően haladéktalanul, de legkésőbb egy munkanapon belül továbbítja az eljárásra hatáskörrel és illetékességgel rendelkező hatósághoz.
-
-(3) Ha a hatáskörrel és illetékességgel rendelkező hatóság hívta fel hiánypótlásra az ügyfelet, a hiánypótlásra nyitva álló határidő megtartottnak tekintendő, ha az ügyfél a hiánypótlást határidőben a kormányablaknál teljesíti.
-
-(4) A kormányablaknál továbbítás céljából előterjesztett kérelmek esetén – ha törvény vagy kormányrendelet eltérően nem rendelkezik – az ügyfél a közigazgatási hatósági eljárásért fizetendő illetéket vagy igazgatási szolgáltatási díjat a kormányablaknál is megfizetheti.
