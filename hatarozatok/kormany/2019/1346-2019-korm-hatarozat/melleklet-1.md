@@ -6,23 +6,7 @@
 
 ## Határidő: azonnal
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva
-
-## a) elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezetének 29. A nappali melegedők hosszított nyitvatartásának támogatása címmel történő kiegészítését,
-
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## b) elrendeli a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatásai cím terhére, a IX. Helyi önkormányzatok támogatásai fejezet, 29. A nappali melegedők hosszított nyitvatartásának támogatása cím javára 213 900 375 forint 1. melléklet szerinti átcsoportosítását;
-
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
+## 2.[^1]
 
 ## 3. egyetért azzal, hogy a belügyminiszter a 2. pont b) alpontja szerint átcsoportosított előirányzat terhére, a települési önkormányzatok által fenntartott nappali melegedők hosszított nyitvatartásának támogatására 2019. június 30-áig pályázat és támogatási kérelem benyújtása nélkül, támogatási előlegként, egy összegben, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján a 2. melléklet szerinti települési önkormányzatok részére az ott meghatározott összegben költségvetési támogatást nyújtson, 2019. december 31-i felhasználási határidővel;
 
@@ -40,4 +24,7 @@
 
 ## Határidő: 2019. szeptember 30.
 
-1. melléklet az 1346/2019. (VI. 11.) Korm. határozathoz
+1. melléklet az 1346/2019. (VI. 11.) Korm. határozathoz[^2]
+
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
