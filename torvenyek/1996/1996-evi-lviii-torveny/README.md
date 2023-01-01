@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-58-00-00
 | 2018-05-18 | 2018. évi V. törvény | 1996-58-00-00.30 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 1996-58-00-00.31 |
 | 2020-01-01 | 2019. évi CIX. törvény | 1996-58-00-00.32 |
+| 2023-01-01 | 2022. évi XXII. törvény | 1996-58-00-00.33 |

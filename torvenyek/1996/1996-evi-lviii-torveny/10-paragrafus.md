@@ -6,7 +6,7 @@
 
 (3) Az egyesüléssel létrejövő területi kamara az egyesült területi kamarák általános jogutódja.
 
-(4) A területi kamara szétválásával megyénként, illetve a fővárosban működő területi kamarák hozhatók létre.
+(4) A területi kamara szétválásával vármegyénként, illetve a fővárosban működő területi kamarák hozhatók létre.
 
 (5) A szétválásról hozott döntésben rendelkezni kell a vagyon megosztásáról. A területi kamara joga és kötelezettségei a vagyonmegosztás arányában a szétválás során létrejött területi kamarákra, mint jogutódokra szállnak át.
 
