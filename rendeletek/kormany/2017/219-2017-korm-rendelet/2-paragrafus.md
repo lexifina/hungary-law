@@ -14,4 +14,6 @@ c) nyilatkozik arról, hogy az alkalmazott technológiához jogszabályban elő�
 
 (4) A Hatóság a (2) bekezdésben meghatározott feltételeknek megfelelő személyekről (a továbbiakban: villanyszerelő) nyilvántartást vezet.
 
-(5) A villanyszerelőknek a villamos energiáról szóló törvény szerinti jegyzékét a Hatóság honlapján, valamint a kormányzati portálon megyénkénti bontásban közzé kell tenni.
+(5)[^1] A villanyszerelőknek a villamos energiáról szóló törvény szerinti jegyzékét a Hatóság honlapján, valamint a kormányzati portálon vármegyénkénti bontásban közzé kell tenni.
+
+[^1]: A 2. § (5) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 260. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## A villanyszerelői nyilvántartásba vételre irányuló bejelentés adattartalma
+## 2X11169M.docx
 
 | I. Tevékenység megnevezése: Villanyszerelés |
 
@@ -16,7 +16,7 @@
 
 | 6. | Anyja neve: |
 
-| 7. | Lakcíme (megye, irányítószám, helység, utca, házszám): |
+| 7. | Lakcíme (vármegye, irányítószám, helység, utca, házszám): |
 
 | 8. | Értesítési címe: |
 
@@ -36,7 +36,7 @@
 
 | 3. | Nyilatkozom, hogy az alkalmazott technológiához más jogszabályban előírt feltételeknek megfelelek. |
 
-| 4. | Gazdasági társaság vagy egyéni cég bejelentő esetében: Kijelentem, hogy a rendeletben meghatározott képesítéssel és gyakorlati idővel rendelkező személy az adott tevékenységet személyesen ellátó munkavállaló □ személyesen közreműködő tag □ |
+| 4. | Gazdasági társaság vagy egyéni cég bejelentő esetében: Kijelentem, hogy a rendeletben meghatározott képesítéssel és gyakorlati idővel rendelkező személy az adott tevékenységet személyesen ellátó munkavállaló o személyesen közreműködő tag o |
 
 | IV. Végzettség, szakképesítés |
 
@@ -94,7 +94,7 @@
 
 |  | Kelt: ............................................................... ................................................... aláírás |
 
-2. melléklet a 219/2017. (VII. 31.) Korm. rendelethez[^1]
+2. melléklet a 219/2017. (VII. 31.) Korm. rendelethez[^3]
 
 |  | Végezhető tevékenység | Végzettség, szakképzettség, szakképesítés | Gyak. idő (év) |
 
@@ -110,4 +110,4 @@
 
 | 2.1.2. erősáramú berendezések felülvizsgálója szakképesítés és érintésvédelmi szabványossági felülvizsgáló szakképesítés vagy villamos biztonsági felülvizsgáló | – |
 
-[^1]: A 2. melléklet a 447/2021. (VII. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^3]: A 2. melléklet a 447/2021. (VII. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
