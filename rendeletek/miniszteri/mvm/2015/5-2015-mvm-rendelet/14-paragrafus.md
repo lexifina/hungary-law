@@ -1,1 +1,3 @@
-## 13. § Az Országos Műemléki Felügyelőség 16999/1981. számú határozatával védetté nyilvánított, Mezőhegyes (Békés megye), a telekalakítást követően a 0335/2 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (lakóház) megsemmisülésére tekintettel – megszüntetem.
+14. §[^13] A védetté nyilvánított, Orosháza (Békés vármegye) 958/10 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (népi lakóház) megsemmisülésére tekintettel – megszüntetem.
+
+[^13]: A 14. § a 12/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.

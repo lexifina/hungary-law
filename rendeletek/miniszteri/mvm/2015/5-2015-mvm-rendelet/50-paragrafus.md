@@ -1,1 +1,3 @@
-## 49. § A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Szorosad (Somogy megye) 1 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (r.k. harangláb) megsemmisülésére tekintettel – megszüntetem.
+50. §[^50] Az Országos Műemléki Felügyelőség 2112/1985. számú határozatával védetté nyilvánított, Gávavencsellő (Szabolcs-Szatmár-Bereg vármegye) 302/1 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeit (lakóépület) helyreállíthatatlanul elvesztette – megszüntetem.
+
+[^50]: Az 50. § a 12/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.

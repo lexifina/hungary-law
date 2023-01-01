@@ -1,1 +1,3 @@
-## 2. § Az egyes ingatlanok műemlékké, valamint műemléki jelentőségű területté nyilvánításáról, illetőleg műemléki védettségének megszüntetéséről szóló 14/2005. (IV. 5.) NKÖM rendelettel a Pécs (Baranya megye) 41284/24, 41284/28 és 41284/29 helyrajzi számú ingatlanokon védetté nyilvánított, a telekalakítást követően a Pécs 41284/28, 41284/29, 41284/33 és 41284/34 helyrajzi számon nyilvántartott ingatlanokon álló újhegyi erőmű épületegyüttesének védettségét – tekintettel arra, hogy a védelem alapját képező értékeit helyreállíthatatlanul elvesztette – megszüntetem.
+3. §[^2] Az Országos Műemléki Felügyelőség 4257/1981. számú határozatával védetté nyilvánított, Bugac (Bács-Kiskun vármegye), a telekalakítást követően a 0360/1 helyrajzi számon nyilvántartott ingatlan műemléki védettségét – a műemléki érték (tanya) megsemmisülésére tekintettel – megszüntetem.
+
+[^2]: A 3. § a 12/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.
