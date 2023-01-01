@@ -1,49 +1,47 @@
-## A gazdasági szervezetek székhelye szerinti megyét kifejező nómenklatúra
-
 | Budapest | 01 |
 
-| Baranya megye | 02 |
+| Baranya vármegye | 02 |
 
-| Bács-Kiskun megye | 03 |
+| Bács-Kiskun vármegye | 03 |
 
-| Békés megye | 04 |
+| Békés vármegye | 04 |
 
-| Borsod-Abaúj-Zemplén megye | 05 |
+| Borsod-Abaúj-Zemplén vármegye | 05 |
 
-| Csongrád-Csanád megye | 06 |
+| Csongrád-Csanád vármegye | 06 |
 
-| Fejér megye | 07 |
+| Fejér vármegye | 07 |
 
-| Győr-Moson-Sopron megye | 08 |
+| Győr-Moson-Sopron vármegye | 08 |
 
-| Hajdú-Bihar megye | 09 |
+| Hajdú-Bihar vármegye | 09 |
 
-| Heves megye | 10 |
+| Heves vármegye | 10 |
 
-| Komárom-Esztergom megye | 11 |
+| Komárom-Esztergom vármegye | 11 |
 
-| Nógrád megye | 12 |
+| Nógrád vármegye | 12 |
 
-| Pest megye | 13 |
+| Pest vármegye | 13 |
 
-| Somogy megye | 14 |
+| Somogy vármegye | 14 |
 
-| Szabolcs-Szatmár-Bereg megye | 15 |
+| Szabolcs-Szatmár-Bereg vármegye | 15 |
 
-| Jász-Nagykun-Szolnok megye | 16 |
+| Jász-Nagykun-Szolnok vármegye | 16 |
 
-| Tolna megye | 17 |
+| Tolna vármegye | 17 |
 
-| Vas megye | 18 |
+| Vas vármegye | 18 |
 
-| Veszprém megye | 19 |
+| Veszprém vármegye | 19 |
 
-| Zala megye | 20 |
+| Zala vármegye | 20 |
 
-| Megyéhez nem köthető∗ | 21 |
+| Országhatáron kívül | 21 |
 
-## ∗ E kód csak a 91-essel, 93-assal és 94-essel kezdődő gazdálkodási forma-kóddal együtt alkalmazható
+| Az ország területre nem bontható adatai | 22 |
 
-4. melléklet a 21/2012. (IV. 16.) KIM rendelethez[^5]
+4. melléklet a 21/2012. (IV. 16.) KIM rendelethez[^8]
 
-[^5]: A 4. mellékletet a 23/2013. (IX. 30.) KIM rendelet 5. § (2) bekezdése hatályon kívül helyezte.
+[^8]: A 4. mellékletet a 23/2013. (IX. 30.) KIM rendelet 5. § (2) bekezdése hatályon kívül helyezte.

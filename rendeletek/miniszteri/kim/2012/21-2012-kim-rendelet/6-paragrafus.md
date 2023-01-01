@@ -1,1 +1,3 @@
-## 5. § A statisztikai számjelnek a gazdasági szervezetek székhelye szerinti megyét kifejező negyedik elemének (16–17. számjegy) nómenklatúráját a 3. melléklet tartalmazza.
+6. §[^2]
+
+[^2]: A 6. §-t a 23/2013. (IX. 30.) KIM rendelet 5. § (2) bekezdése hatályon kívül helyezte.

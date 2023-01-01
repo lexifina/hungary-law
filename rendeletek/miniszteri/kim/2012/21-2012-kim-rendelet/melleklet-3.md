@@ -1,5 +1,3 @@
-## A gazdasági szervezetek gazdálkodási forma szerinti osztályozása (GFO)
-
 | GFO’21-07 kód | GFO’21-07 megnevezés |
 
 | 1, 2 |  |  | Vállalkozás |
@@ -344,6 +342,8 @@
 
 |  |  | 961 | Háztartás |
 
-3. melléklet a 21/2012. (IV. 16.) KIM rendelethez[^4]
+3. melléklet a 21/2012. (IV. 16.) KIM rendelethez[^7]
 
-[^4]: A 3. melléklet a 16/2020. (IX. 4.) MvM rendelet 4. §-a szerint módosított szöveg.
+A gazdasági szervezetek székhelye szerinti vármegyét kifejező nómenklatúra
+
+[^7]: A 3. melléklet a 23/2022. (XII. 28.) MK rendelet 2. §-ával megállapított szöveg.
