@@ -1,5 +1,3 @@
-## benyújtott támogatási kérelmek alapján az e rendelet szerinti állami támogatás nem nyújtható.
-
 ## 2. A közvetlen támogatások közös feltételei
 
 2. §[^28] (1)[^29] Az 1. § (2) bekezdés a)–c) pontjai szerinti támogatásokat (a továbbiakban: közvetlen támogatások) a (2)–(5) bekezdésben meghatározott feltételekkel
@@ -14,7 +12,7 @@ d) az 5. § (3) bekezdése és a 9. § szerinti támogatások kivételével lak�
 
 e) az 5. § (2) bekezdése d) pontja, valamint az 5. § (3) bekezdése szerinti körben használt lakás vásárlásához
 
-## nagykorú támogatott személy, valamint a 16. életévét betöltött, tartós nevelésbe vett kiskorú támogatott személy veheti igénybe.
+nagykorú támogatott személy, valamint a 16. életévét betöltött, tartós nevelésbe vett kiskorú támogatott személy veheti igénybe.
 
 (2)[^30] Lakás építéséhez, vásárlásához, állandó használati jog megszerzéséhez közvetlen támogatások akkor igényelhetők, ha az igénylőnek, házastársának, élettársának és gyermekének, valamint a vele együttköltöző családtagjainak lakástulajdona, állandó lakáshasználati joga nincs, illetve e jogok ingatlan-nyilvántartási bejegyzésére irányuló kérelme nincs folyamatban, továbbá önkormányzati tulajdonban lévő, illetőleg szolgálati jogviszonyhoz vagy munkakörhöz kötött lakásra bérleti jogviszonya nincs. Lakásvásárlás esetén a közvetlen támogatás akkor igényelhető, ha az eladó az igénylőnek nem a Ptk. szerinti közeli hozzátartozója és nem élettársa.
 

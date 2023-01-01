@@ -22,24 +22,25 @@ c)[^83] az építtetőnek (vásárlónak) vagy házastársnak szülője (mostoha
 
 a) az építtetővel (vásárlóval) – a házastársat és gyermekeit kivéve – legalább egy éve közös háztartásban élnek, és
 
-b)[^84] havi rendszeres keresetük, jövedelmük – a gyermek jövedelmét és egyéb állami támogatását kivéve – a szerződéskötés időpontjában hatályos külön jogszabályban megállapított öregségi nyugdíj mindenkori legkisebb összegét nem haladja meg, továbbá
+b)[^84] havi rendszeres keresetük, jövedelmük – a gyermek jövedelmét és egyéb állami támogatását kivéve – a szerződéskötés időpontjában irányadó szociális vetítési alap összegét nem haladja meg, továbbá
 
 c) az építtetővel (vásárlóval) az új lakásba együtt költöznek be.
 
 (3) Az (1) bekezdés a) pontjában említett gyermeket – a teljes ellátást biztosító intézetben tanuló gyermek kivételével – az építtetővel (vásárlóval) közös háztartásban élőnek kell tekinteni akkor is, ha tanulmányai folytatása miatt átmenetileg nem az építtető (vásárló) lakásában lakik.
 
-(4) Az építtetővel (vásárlóval) közös háztartásban élő eltartott házastárs, szülők vagy nagyszülők esetében – ha együttes jövedelmük a (2) bekezdés b) pontjában említett legkisebb mérték kétszeresét meghaladja – egyik szülő (nagyszülő) után sem nyújtható kedvezmény.
+(4)[^85] Az építtetővel (vásárlóval) közös háztartásban élő eltartott házastárs, szülők vagy nagyszülők esetében – ha együttes jövedelmük a szociális vetítési alap összegének kétszeresét meghaladja – egyik szülő (nagyszülő) után sem nyújtható kedvezmény.
 
 (5) A keresetbe, jövedelembe – a lakbér-hozzájárulást, a vakok személyi járadékát és a házastársi pótlékot kivéve – a bért, a nyugdíjat, a járadékot, munkanélküli ellátást és az egyéb rendszeres pénzbeni juttatást kell beszámítani.
 
-(6)[^85] A kedvezménnyel valamint a fiatalok otthonteremtési támogatásával épített, vásárolt, bővített lakásban az építtető(k)nek, vásárló(k)nak – az 5. § (2) bekezdés d) pontjában foglaltak kivételével – legalább 50%-os tulajdoni hányaddal kell rendelkeznie. Házaspár, élettárs igénylők esetén a lakásban mindkét félnek tulajdont kell szereznie és azt az ingatlan-nyilvántartásba be kell jegyezni. A lakásban az igénylőn kívül csak az általa eltartott gyermek, vagy más együttköltöző családtag szerezhet tulajdont.
+(6)[^86] A kedvezménnyel valamint a fiatalok otthonteremtési támogatásával épített, vásárolt, bővített lakásban az építtető(k)nek, vásárló(k)nak – az 5. § (2) bekezdés d) pontjában foglaltak kivételével – legalább 50%-os tulajdoni hányaddal kell rendelkeznie. Házaspár, élettárs igénylők esetén a lakásban mindkét félnek tulajdont kell szereznie és azt az ingatlan-nyilvántartásba be kell jegyezni. A lakásban az igénylőn kívül csak az általa eltartott gyermek, vagy más együttköltöző családtag szerezhet tulajdont.
 
-(7)[^86] A gyermekgondozást segítő ellátáson, gyermekgondozási díjon vagy gyermeknevelési támogatáson lévő személy a kedvezmény szempontjából nem minősül eltartottnak, ezért utána kedvezményt elszámolni nem lehet.
+(7)[^87] A gyermekgondozást segítő ellátáson, gyermekgondozási díjon vagy gyermeknevelési támogatáson lévő személy a kedvezmény szempontjából nem minősül eltartottnak, ezért utána kedvezményt elszámolni nem lehet.
 
 [^80]: A 7. § (1) bekezdés a) pont 3. alpontja a 125/2009. (VI. 15.) Korm. rendelet 10. § (2) bekezdése, a 379/2012. (XII. 19.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
 [^81]: A 7. § (1) bekezdés b) pont 1. alpontja a 125/2009. (VI. 15.) Korm. rendelet 10. § (2) bekezdése, a 379/2012. (XII. 19.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
 [^82]: A 7. § (1) bekezdés b) pont 3. alpontja a 125/2009. (VI. 15.) Korm. rendelet 10. § (2) bekezdése, a 379/2012. (XII. 19.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
 [^83]: A 7. § (1) bekezdés c) pontja a 125/2009. (VI. 15.) Korm. rendelet 10. § (2) bekezdése, a 379/2012. (XII. 19.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
-[^84]: A 7. § (2) bekezdésének b) pontja a 22/2006. (II. 3.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 19. § (5) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^85]: A 7. § (6) bekezdése a 391/2007. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. február 1-jét követően benyújtott kérelmekre kell alkalmazni.
-[^86]: A 7. § (7) bekezdése a 417/2015. (XII. 23.) Korm. rendelet 27. §-a szerint módosított szöveg.
+[^84]: A 7. § (2) bekezdésének b) pontja a 22/2006. (II. 3.) Korm. rendelet 4. §-ával megállapított, a 629/2022. (XII. 30.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^85]: A 7. § (4) bekezdése a 629/2022. (XII. 30.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^86]: A 7. § (6) bekezdése a 391/2007. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg, e módosító rendelet 32. § (4) bekezdése alapján a rendelkezést a 2008. február 1-jét követően benyújtott kérelmekre kell alkalmazni.
+[^87]: A 7. § (7) bekezdése a 417/2015. (XII. 23.) Korm. rendelet 27. §-a szerint módosított szöveg.

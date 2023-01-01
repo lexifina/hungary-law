@@ -1,18 +1,16 @@
-## 8/A. §[^88]
-
 ## 2. Akadálymentesítési támogatás
 
-9. §[^89] (1) Mozgáskorlátozott személy részére akadálymentes lakás építéséhez vagy vásárlásához, valamint az akadálymentesítés többletköltségeire vissza nem térítendő állami támogatás nyújtható.
+9. §[^90] (1) Mozgáskorlátozott személy részére akadálymentes lakás építéséhez vagy vásárlásához, valamint az akadálymentesítés többletköltségeire vissza nem térítendő állami támogatás nyújtható.
 
 (2) Az akadálymentesítési támogatás
 
-a)[^90] akadálymentes új lakás építéséhez, lakás vásárlásához legfeljebb háromszázezer forint, ha az építtető vagy a vásárló, illetve az építtetővel vagy a vásárlóval együtt költöző – a Ptk. szerinti – közeli hozzátartozó vagy élettárs a mozgáskorlátozott személy,
+a)[^91] akadálymentes új lakás építéséhez, lakás vásárlásához legfeljebb háromszázezer forint, ha az építtető vagy a vásárló, illetve az építtetővel vagy a vásárlóval együtt költöző – a Ptk. szerinti – közeli hozzátartozó vagy élettárs a mozgáskorlátozott személy,
 
-b)[^91] meglévő lakáson, lakóépületen végzett akadálymentesítéshez legfeljebb háromszázezer forint,
+b)[^92] meglévő lakáson, lakóépületen végzett akadálymentesítéshez legfeljebb háromszázezer forint,
 
-ba)[^92] ha a lakás tulajdonosa, illetve a tulajdonossal közös háztartásban élő – a Ptk. szerinti – közeli hozzátartozó vagy élettárs a mozgáskorlátozott személy,
+ba)[^93] ha a lakás tulajdonosa, illetve a tulajdonossal közös háztartásban élő – a Ptk. szerinti – közeli hozzátartozó vagy élettárs a mozgáskorlátozott személy,
 
-bb)[^93] ha az önkormányzati lakásra határozatlan idejű bérleti jogviszonnyal rendelkező személy vagy vele közös háztartásban élő – a Ptk. szerinti – közeli hozzátartozó vagy élettárs a mozgáskorlátozott személy.
+bb)[^94] ha az önkormányzati lakásra határozatlan idejű bérleti jogviszonnyal rendelkező személy vagy vele közös háztartásban élő – a Ptk. szerinti – közeli hozzátartozó vagy élettárs a mozgáskorlátozott személy.
 
 (3) Amennyiben a támogatást igénylő a lakásnak, lakóépületnek nem tulajdonosa, az akadálymentesítési munkák elvégzéséhez a lakás, lakóépület tulajdonosának magánokiratba foglalt írásbeli hozzájárulása szükséges, amit a hitelintézet részére a támogatási kérelemmel egyidejűleg kell benyújtani.
 
@@ -22,19 +20,19 @@ a) a mozgásukban nem akadályozottak használatára tervezett és az érvénybe
 
 b) ahhoz, hogy az épületet, illetve lakását megfelelően használhassa, többletköltségek vállalásával kell azt akadálymentessé tenni.
 
-(5)[^94] Ugyanazon személyre tekintettel akadálymentesítési támogatás ismételten a korábbi akadálymentesítési támogatás igénybevételéről szóló szerződés megkötésétől számított 10 év elteltével vehető igénybe.
+(5)[^95] Ugyanazon személyre tekintettel akadálymentesítési támogatás ismételten a korábbi akadálymentesítési támogatás igénybevételéről szóló szerződés megkötésétől számított 10 év elteltével vehető igénybe.
 
 (6) Ugyanazon lakásra vagy lakóépületre akadálymentesítési támogatás több alkalommal akkor igényelhető, ha a korábbi támogatásból elvégzett akadálymentesítés nem eredményezte más mozgáskorlátozott személy akadálymentes lakáshasználatát. A támogatás kizárólag a mozgáskorlátozott személy számára eredményezhet használati előnyt, de nem szolgálhatja a lakás forgalmi értékének növekedését.
 
 (7) Az akadálymentesítési támogatás iránti kérelmet a hitelintézethez kell benyújtani.
 
-(8)[^95] A mozgásszervi fogyatékosságot, illetve súlyos mozgáskorlátozottságot a következő módon kell igazolni a támogatásra irányuló kérelem benyújtásakor:
+(8)[^96] A mozgásszervi fogyatékosságot, illetve súlyos mozgáskorlátozottságot a következő módon kell igazolni a támogatásra irányuló kérelem benyújtásakor:
 
 a) a 102/2011. (VI. 29.) Korm. rendelet 7. § (3) bekezdés a) pont aa)–ac) alpontja szerinti iratokkal,
 
 b) a súlyos fogyatékosság minősítésének és felülvizsgálatának, valamint a fogyatékossági támogatás folyósításának szabályairól szóló 141/2000. (VIII. 9.) Korm. rendelet szerinti, a súlyos fogyatékosság minősítését tartalmazó szakvéleménnyel, szakhatósági állásfoglalással, határozattal arról, hogy az igénylő mozgásszervi fogyatékos vagy súlyos mozgáskorlátozott.
 
-(8a)[^96] Ha a súlyos mozgáskorlátozottság igazolása céljából szükséges (8) bekezdés szerinti iratok nem állnak rendelkezésre, a súlyos mozgáskorlátozottság 102/2011. (VI. 29.) Korm. rendelet szerinti előzetes vizsgálatát – a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentáció és egyéb iratok benyújtásával – a fővárosi és megyei kormányhivatalnál lehet kezdeményezni. A kormányhivatal a kérelem beérkezésétől számított nyolc napon belül az iratok megküldésével megkeresi az első fokú rehabilitációs szakértői szervet a közlekedőképesség minősítése érdekében. A közlekedőképesség vizsgálatára egyebekben a 102/2011. (VI. 29.) Korm. rendelet szabályait kell alkalmazni.
+(8a)[^97] Ha a súlyos mozgáskorlátozottság igazolása céljából szükséges (8) bekezdés szerinti iratok nem állnak rendelkezésre, a súlyos mozgáskorlátozottság 102/2011. (VI. 29.) Korm. rendelet szerinti előzetes vizsgálatát – a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentáció és egyéb iratok benyújtásával – a fővárosi és vármegyei kormányhivatalnál lehet kezdeményezni. A kormányhivatal a kérelem beérkezésétől számított nyolc napon belül az iratok megküldésével megkeresi az első fokú rehabilitációs szakértői szervet a közlekedőképesség minősítése érdekében. A közlekedőképesség vizsgálatára egyebekben a 102/2011. (VI. 29.) Korm. rendelet szabályait kell alkalmazni.
 
 (9) A támogatási kérelemhez az akadálymentesítési munkák műszaki leírását, valamint azok építési költségét tartalmazó költségvetést mellékelni kell.
 
@@ -64,12 +62,11 @@ k) lakás komfortfokozatának növelése céljából gáz, illetve egyéb, szil�
 
 (11) Az akadálymentesítési munka része a (10) bekezdés szerinti munkákhoz közvetlenül kapcsolódó helyreállítási munka is, az akadálymentesítés közvetlen költségeinek legfeljebb 40%-áig.
 
-[^88]: A 8/A. §-t a 3/2005. (I. 12.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte az 537/2013. (XII. 30.) Korm. rendelet 18. § b) pontja.
-[^89]: A 9. § a 74/2011. (V. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^90]: A 9. § (2) bekezdés a) pontja a 80/2014. (III. 14.) Korm. rendelet 5. § (2) bekezdés a) pontja, a 455/2015. (XII. 29.) Korm. rendelet 1. § (8) bekezdés b) pontja szerint módosított szöveg.
-[^91]: A 9. § (2) bekezdés b) pont nyitó szövegrésze a 455/2015. (XII. 29.) Korm. rendelet 1. § (8) bekezdés c) pontja szerint módosított szöveg.
-[^92]: A 9. § (2) bekezdés b) pont ba) alpontja a 80/2014. (III. 14.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^93]: A 9. § (2) bekezdés b) pont bb) alpontja a 80/2014. (III. 14.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^94]: A 9. § (5) bekezdése a 455/2015. (XII. 29.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^95]: A 9. § (8) bekezdése a 70/2015. (III. 30.) Korm. rendelet 48. § (4) bekezdésével megállapított szöveg.
-[^96]: A 9. § (8a) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 25. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 20. § (8) bekezdés a) pontja, a 30/2020. (II. 29.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^90]: A 9. § a 74/2011. (V. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^91]: A 9. § (2) bekezdés a) pontja a 80/2014. (III. 14.) Korm. rendelet 5. § (2) bekezdés a) pontja, a 455/2015. (XII. 29.) Korm. rendelet 1. § (8) bekezdés b) pontja szerint módosított szöveg.
+[^92]: A 9. § (2) bekezdés b) pont nyitó szövegrésze a 455/2015. (XII. 29.) Korm. rendelet 1. § (8) bekezdés c) pontja szerint módosított szöveg.
+[^93]: A 9. § (2) bekezdés b) pont ba) alpontja a 80/2014. (III. 14.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^94]: A 9. § (2) bekezdés b) pont bb) alpontja a 80/2014. (III. 14.) Korm. rendelet 5. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^95]: A 9. § (5) bekezdése a 455/2015. (XII. 29.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^96]: A 9. § (8) bekezdése a 70/2015. (III. 30.) Korm. rendelet 48. § (4) bekezdésével megállapított szöveg.
+[^97]: A 9. § (8a) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 25. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 20. § (8) bekezdés a) pontja, a 30/2020. (II. 29.) Korm. rendelet 7. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 40. § a) pontja szerint módosított szöveg.
