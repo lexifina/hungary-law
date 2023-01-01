@@ -18,6 +18,6 @@ h) öntözéses gazdálkodás alapadatait tartalmazó informatikai rendszer üze
 
 i) részvétel az öntözési célú állami vízgazdálkodási fejlesztések előkészítésében, öntözésfejlesztéssel kapcsolatos uniós támogatási programok tervezésében.
 
-j)[^2] a mezőgazdasági öntözési célú, felszín alatti vízkivétel esetében országos illetékességgel vízügyi hatóságként, vízvédelmi hatóságként, valamint szakhatóságként jár el.
+j)[^3] a mezőgazdasági öntözési célú, felszín alatti vízkivétel esetében országos illetékességgel vízügyi hatóságként, vízvédelmi hatóságként, valamint szakhatóságként jár el.
 
-[^2]: A 3. § j) pontját a 716/2020. (XII. 30.) Korm. rendelet 5. §-a iktatta be.
+[^3]: A 3. § j) pontját a 716/2020. (XII. 30.) Korm. rendelet 5. §-a iktatta be.
