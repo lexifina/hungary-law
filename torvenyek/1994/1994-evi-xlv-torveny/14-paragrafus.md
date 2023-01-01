@@ -4,8 +4,8 @@
 
 (2) A járadék havonkénti mértéke – figyelemmel a 26/A. §-ban foglaltakra –
 
-a) a 4. § a) és b) pontja szerinti esetben az öregségi nyugdíj mindenkori legkisebb összege 30%-ának,
+a) a 4. § a) és b) pontja szerinti esetben a szociális vetítési alap összege 30%-ának,
 
-b) a 4. § c) pontja szerinti esetben az öregségi nyugdíj mindenkori legkisebb összege 60%-ának
+b) a 4. § c) pontja szerinti esetben a szociális vetítési alap összege 60%-ának
 
 megfelelő összeg.

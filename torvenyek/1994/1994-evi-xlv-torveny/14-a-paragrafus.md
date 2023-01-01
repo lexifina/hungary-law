@@ -10,4 +10,4 @@ c) a pénzellátás iránti kérelmét politikai okból elutasították, vagy
 
 d) a pénzellátás iránti kérelmét politikai okból elő sem terjesztette,
 
-egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – az öregségi nyugdíj mindenkori legkisebb összege 34,04%-ának megfelelő összeg.
+egyéb ellátásától függetlenül havi rendszeres járadékra jogosult, amelynek mértéke – figyelemmel a 26/A. §-ban foglaltakra – a szociális vetítési alap összege 34,04%-ának megfelelő összeg.
