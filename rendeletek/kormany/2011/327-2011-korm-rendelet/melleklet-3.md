@@ -1,6 +1,6 @@
-3. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^191]
+3. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^192]
 
-## Az akkreditációhoz szükséges működtetési feltételek
+Az akkreditációhoz szükséges működtetési feltételek
 
 I. Az akkreditált szolgáltatónál foglalkoztatott rehabilitációs tanácsadó és a rehabilitációs mentor képesítési előírásai (személyi feltételek)
 
@@ -70,4 +70,4 @@ III. A rehabilitációs szolgáltatási terv
 
 2.10.5. egyéb.
 
-[^191]: A 3. mellékletet a 117/2016. (VI. 6.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés n) pontja szerint módosított szöveg.
+[^192]: A 3. mellékletet a 117/2016. (VI. 6.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés n) pontja szerint módosított szöveg.

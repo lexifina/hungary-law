@@ -22,9 +22,9 @@ az egészségi állapot, valamint az önellátási képesség orvosszakmai szemp
 
 (2) A személyes vizsgálatot a (3)–(5) bekezdésben meghatározott kivételekkel a szakértői szerv székhelyén vagy telephelyén kell elvégezni. Ha a minősítés az (1) bekezdésben foglaltak szerint a személyes vizsgálat mellőzésével történik, azt az ügyben illetékes szakértői szervtől eltérő szakértői szerv is elvégezheti.
 
-(3) A személyes vizsgálatot kivételesen, az érintett személy hozzájárulása esetén az illetékes szakértői szervvel szomszédos megyében működő szakértői szerv is elvégezheti, ha annak székhelyén vagy telephelyén történő megjelenés az érintett személy számára nem jelent aránytalan terhet.
+(3)[^69] A személyes vizsgálatot kivételesen, az érintett személy hozzájárulása esetén az illetékes szakértői szervvel szomszédos vármegyében működő szakértői szerv is elvégezheti, ha annak székhelyén vagy telephelyén történő megjelenés az érintett személy számára nem jelent aránytalan terhet.
 
-(3a)[^69] Amennyiben Budapest Főváros Kormányhivatala másodfokú hatóságként jár el, és az eljárás során az egészségi állapot, egészségkárosodás vagy fogyatékosság szakkérdését kell vizsgálni, a személyes vizsgálatot Budapest Főváros Kormányhivatala, vagy – Budapest Főváros Kormányhivatala megkeresése alapján – az az 5. melléklet szerinti kormányhivatal végzi el, amelynek székhelyén vagy telephelyén való megjelenés az érintett személy számára a legkedvezőbb.
+(3a)[^70] Amennyiben Budapest Főváros Kormányhivatala másodfokú hatóságként jár el, és az eljárás során az egészségi állapot, egészségkárosodás vagy fogyatékosság szakkérdését kell vizsgálni, a személyes vizsgálatot Budapest Főváros Kormányhivatala, vagy – Budapest Főváros Kormányhivatala megkeresése alapján – az az 5. melléklet szerinti kormányhivatal végzi el, amelynek székhelyén vagy telephelyén való megjelenés az érintett személy számára a legkedvezőbb.
 
 (4) A személyes vizsgálat az érintett személy lakó- vagy tartózkodási helyén is elvégezhető, ha a minősítéshez a lakhatási viszonyainak, környezetének, önellátási vagy önkiszolgálási képességének megismerése szükséges.
 
@@ -39,4 +39,5 @@ az egészségi állapot, valamint az önellátási képesség orvosszakmai szemp
 [^66]: A 13/B. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 370. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^67]: A 13/B. § (1a) bekezdés b) pontja a 238/2022. (VI. 30.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
 [^68]: A 13/B. § (1b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 370. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^69]: A 13/B. § (3a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 9. § (6) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés g) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^69]: A 13/B. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 131. § c) pontja szerint módosított szöveg.
+[^70]: A 13/B. § (3a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 9. § (6) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés g) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

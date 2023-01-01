@@ -1,6 +1,6 @@
 ## 1. Kijelölés
 
-1. §[^1] (1)[^2] A Kormány rehabilitációs hatóságként, rehabilitációs szakértői szervként és orvosszakértői szervként a fővárosi és megyei kormányhivatalt (a továbbiakban: kormányhivatal) jelöli ki.
+1. §[^1] (1)[^2] A Kormány rehabilitációs hatóságként, rehabilitációs szakértői szervként és orvosszakértői szervként a fővárosi és vármegyei kormányhivatalt (a továbbiakban: kormányhivatal) jelöli ki.
 
 (1a)[^3]
 
@@ -20,7 +20,7 @@ a) a Rehabilitációs Orvosszakértői Névjegyzékkel és
 
 b) a Foglalkozási Rehabilitációs Szakértői Névjegyzékkel
 
-## összefüggő feladatok ellátására Budapest Főváros Kormányhivatalát jelöli ki.
+összefüggő feladatok ellátására Budapest Főváros Kormányhivatalát jelöli ki.
 
 (7) A Kormány
 
@@ -28,7 +28,7 @@ a) a rehabilitációs orvosszakértők továbbképzésével és
 
 b) a foglalkozási rehabilitációs szakértők továbbképzésével
 
-## összefüggő feladatok ellátására Budapest Főváros Kormányhivatalát jelöli ki.
+összefüggő feladatok ellátására Budapest Főváros Kormányhivatalát jelöli ki.
 
 (8) A megváltozott munkaképességű személyek ellátásaival összefüggő, uniós tagságból adódó, valamint a szociális biztonsági tárgyú nemzetközi egyezmények végrehajtása során adódó koordinációs feladatokat Budapest Főváros Kormányhivatala látja el.
 
@@ -40,7 +40,7 @@ b) az Európai Gazdasági Térségről szóló megállapodásban részes más á
 
 c) kétoldalú szociális biztonsági egyezménnyel érintett államban
 
-## biztosítottnak minősülő személy rehabilitálhatóságáról, valamint javaslatot tesz az orvosi rehabilitációhoz szükséges egészségügyi szolgáltatásokra.
+biztosítottnak minősülő személy rehabilitálhatóságáról, valamint javaslatot tesz az orvosi rehabilitációhoz szükséges egészségügyi szolgáltatásokra.
 
 (10)[^9]
 
@@ -55,7 +55,7 @@ c) kétoldalú szociális biztonsági egyezménnyel érintett államban
 (15)[^14] Budapest Főváros Kormányhivatala orvos-szakmai feladatellátáshoz kapcsolódó képességvizsgálatokat, valamint tárolási, logisztikai tevékenységet végez.
 
 [^1]: Az 1. § a 379/2016. (XII. 2.) Korm. rendelet 187. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^2]: Az 1. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 95. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 131. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 9. § (2) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 95. § (6) bekezdés a) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^4]: Az 1. § (2) bekezdése a 116/2021. (III. 10.) Korm. rendelet 12. §-a szerint módosított szöveg.
 [^5]: Az 1. § (2a) bekezdését a 304/2018. (XII. 27.) Korm. rendelet 1. § (1) bekezdése iktatta be.

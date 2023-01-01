@@ -1,3 +1,6 @@
 ## 8. §[^52] A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásai megállapítása során a központi nyugdíjbiztosítási szerv által jóváhagyott központi szakmai informatikai rendszert köteles használni. A központi nyugdíjbiztosítási szerv – az NSZI szakmai közreműködésével – működteti és fejleszti a megváltozott munkaképességű személyek ellátásainak megállapítását, a komplex minősítést és egyéb orvosszakértői tevékenységet, valamint a foglalkozási rehabilitációs szolgáltatásokat támogató informatikai rendszert.
 
+8/A. §[^53] A 2022. december 31-ét követő kezdő időponttól megállapított rokkantsági vagy rehabilitációs ellátásra való jogosultság esetén az Mmtv. 9. és 12. §-a szerinti alapösszeg 129 860 forint.
+
 [^52]: A 8. §-t a 95/2012. (V. 15.) Korm. rendelet 46. § (12) bekezdés c) pontja hatályon kívül helyezte, újonnan a 70/2015. (III. 30.) Korm. rendelet 184. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 187. § (6) bekezdésével megállapított, a 610/2020. (XII. 18.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
+[^53]: A 8/A. §-t a 416/2016. (XII. 14.) Korm. rendelet 8. §-a iktatta be, szövege az 506/2022. (XII. 13.) Korm. rendelet 12. §-ával megállapított szöveg.

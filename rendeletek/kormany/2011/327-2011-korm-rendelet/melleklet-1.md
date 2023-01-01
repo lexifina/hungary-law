@@ -1,3 +1,5 @@
-1. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^189]
+1. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^190]
 
-[^189]: Az 1. melléklet a 117/2016. (VI. 6.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+A komplex rehabilitációval összefüggésben felmerülő szociális rehabilitációs szükségletek és a hozzájuk kapcsolódó rehabilitációs szolgáltatások
+
+[^190]: Az 1. melléklet a 117/2016. (VI. 6.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
