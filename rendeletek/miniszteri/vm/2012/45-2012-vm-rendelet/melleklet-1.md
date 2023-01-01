@@ -1,6 +1,6 @@
 1. melléklet a 45/2012. (V. 8.) VM rendelethez
 
-## A kedvtelésből tartott állatok kegyeleti temetője létesítésére vonatkozó követelmények
+A kedvtelésből tartott állatok kegyeleti temetője létesítésére vonatkozó követelmények
 
 1. A kegyeleti temető telekhatára, valamint a meglévő, vagy a település általános rendezés tervében kijelölt összefüggő lakóterület, illetve lakott épület közötti védőtávolságot a környezetvédelmi hatóság állapítja meg. A távolság nem lehet kevesebb, mint 300 méter.
 

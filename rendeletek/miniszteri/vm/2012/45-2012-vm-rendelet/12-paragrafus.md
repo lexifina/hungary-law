@@ -20,7 +20,7 @@ ha az állattartó, illetve kistermelő ezen állati eredetű melléktermékek t
 
 (6) Ha a települési gyűjtőhelyre az önkormányzat vagy az általa megbízott vállalkozó szállítja be az (1) bekezdésben meghatározott állati eredetű melléktermékeket, akkor a szállító jármű, illetve a szállítási tevékenység vonatkozásában a 19. § (4) és (5) bekezdésében foglaltak szerint kell eljárni.
 
-(7)[^18] A szállítási tevékenységre vonatkozó nyilvántartásba vételt követően a települési gyűjtőhelyre más településekről is beszállíthatók az (1) és (2) bekezdésben meghatározott állati eredetű melléktermékek. A más településekről történő beszállítás megkezdését megelőzően írásban tájékoztatni kell a megyei kormányhivatalt, valamint a járási hivatalt.
+(7)[^18] A szállítási tevékenységre vonatkozó nyilvántartásba vételt követően a települési gyűjtőhelyre más településekről is beszállíthatók az (1) és (2) bekezdésben meghatározott állati eredetű melléktermékek. A más településekről történő beszállítás megkezdését megelőzően írásban tájékoztatni kell a vármegyei kormányhivatalt, valamint a járási hivatalt.
 
 [^17]: A 12. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 6. pontja szerint módosított szöveg.
-[^18]: A 12. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 7–8. pontja szerint módosított szöveg.
+[^18]: A 12. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 7–8. pontja, a 130/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

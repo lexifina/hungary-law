@@ -8,7 +8,7 @@
 
 | ..................................................... gyűjtőhely kezelő |
 
-3. melléklet a 45/2012. (V. 8.) VM rendelethez[^65]
+3. melléklet a 45/2012. (V. 8.) VM rendelethez[^68]
 
 Kereskedelmi okmány állati melléktermékek és származtatott termékek Magyarországon belül történő szállításához
 
@@ -64,9 +64,9 @@ Kereskedelmi okmány állati melléktermékek és származtatott termékek Magya
 
 | ................................................ átadó (termelő) | ........................................... szállító | ..................................................... átvevő (címzett) |
 
-Ez az okmány 3 példányban (egy eredeti és két másolat) készült, melyeket két évig meg kell őrizni.
+## Ez az okmány 3 példányban (egy eredeti és két másolat) készült, melyeket két évig meg kell őrizni.
 
-Az eredeti példány a rendeltetési helyig kíséri a szállítmányt, a 2. példányt az átadó őrzi meg, a 3. példány a szállítónál marad.
+## Az eredeti példány a rendeltetési helyig kíséri a szállítmányt, a 2. példányt az átadó őrzi meg, a 3. példány a szállítónál marad.
 
 1. és 2. kategóriába tartozó anyagok és ezek származtatott termékei, valamint ún. feldolgozott állati fehérje esetén az átvevő (címzett) az átadónak (termelőnek) az átvételtől számított 8 napon belül visszajuttatja az eredeti kereskedelmi okmány egy másolatát, aláírásával igazolva és feltüntetve rajta az átvétel időpontját.
 
@@ -76,4 +76,4 @@ Az eredeti példány a rendeltetési helyig kíséri a szállítmányt, a 2. pé
 
 *** Csak 3. kategóriájú és takarmányozásra szánt anyagok, valamint elhullott állatok esetén.
 
-[^65]: A 3. melléklet a 46/2015. (VIII. 7.) FM rendelet 64. § 19. pontja szerint módosított szöveg.
+[^68]: A 3. melléklet a 46/2015. (VIII. 7.) FM rendelet 64. § 19. pontja szerint módosított szöveg.

@@ -8,6 +8,6 @@ a) a keletkezett állati eredetű melléktermék, a fertőzött takarmány elfö
 
 b) a trágya, hígtrágya fertőtlenítési útmutatóban előírt fertőtlenítéséről és kezeléséről.
 
-(3)[^2] Az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) a bejelentési kötelezettség alá tartozó állatbetegségek megelőzése és leküzdése során keletkezett állati eredetű melléktermékek kezelésével és ártalmatlanításával az e célra engedéllyel rendelkező vállalkozót kötelezhet aktív közreműködésre.
+(3)[^2] Az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) a bejelentési kötelezettség alá tartozó állatbetegségek megelőzése és leküzdése során keletkezett állati eredetű melléktermékek kezelésével és ártalmatlanításával az e célra engedéllyel rendelkező vállalkozót kötelezhet aktív közreműködésre.
 
-[^2]: A 3. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 64. § 1. pontja szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 64. § 1. pontja, a 130/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.

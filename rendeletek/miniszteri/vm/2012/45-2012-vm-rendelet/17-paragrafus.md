@@ -6,7 +6,7 @@
 
 (3)[^27] Az állati eredetű melléktermék szállítását, kezelését, tárolását, feldolgozását, felhasználását vagy ártalmatlanítását végző minden üzemeltető köteles az átvett – esetlegesen továbbadott – állati eredetű melléktermék mennyiségét telephelyenként a tárgyévet követő év március 1-jéig az 5., illetve a 6. mellékletnek megfelelően elektronikusan bejelenteni a NÉBIH honlapján vagy a telephely szerint illetékes járási hivatalnak. Ezt a bejelentési kötelezettséget a tevékenység befejezése, felfüggesztése esetén legkésőbb tizenöt napon belül teljesíteni kell.
 
-(4)[^28] Az üzemeltető köteles állattartó telepekre, üzemekre, településekre lebontott, a (3) bekezdés szerinti nyilvántartást vezetni, és azt legalább két évig megőrizni, amelyről a megyei kormányhivatal, illetve a járási hivatal az elvégzendő ellenőrzések miatt szükség esetén jelentést kérhet.
+(4)[^28] Az üzemeltető köteles állattartó telepekre, üzemekre, településekre lebontott, a (3) bekezdés szerinti nyilvántartást vezetni, és azt legalább két évig megőrizni, amelyről a vármegyei kormányhivatal, illetve a járási hivatal az elvégzendő ellenőrzések miatt szükség esetén jelentést kérhet.
 
 (5) Az állati eredetű melléktermék tulajdonosának (állattartónak) a kislétszámú állattartó telepeken keletkezett állati eredetű melléktermékekről a (2) bekezdéstől eltérően nem kell jelentést tennie, ha
 
@@ -18,5 +18,5 @@ b) az e rendeletben engedélyezett eltérések valamelyikét alkalmazta az ott e
 
 [^26]: A 17. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 59. § (1) bekezdésével megállapított szöveg.
 [^27]: A 17. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 59. § (1) bekezdésével megállapított szöveg.
-[^28]: A 17. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 5. és 9. pontja szerint módosított szöveg.
+[^28]: A 17. § (4) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 5. és 9. pontja, a 130/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^29]: A 17. § (6) bekezdését a 46/2015. (VIII. 7.) FM rendelet 59. § (2) bekezdése iktatta be.

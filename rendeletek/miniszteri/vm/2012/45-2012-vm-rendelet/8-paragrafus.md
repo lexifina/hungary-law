@@ -1,8 +1,8 @@
 ## 6. A kutatási és más specifikus célokra, és a takarmányozási célokra történő eltérő felhasználás engedélyezése
 
-8. § (1)[^7] Az 1069/2009/EK európai parlamenti és tanácsi rendelet 17. cikke szerinti kutatási és más specifikus célokra, valamint az 1069/2009/EK európai parlamenti és tanácsi rendelet 18. cikke szerinti speciális takarmányozási célokra vonatkozó enyhítések alkalmazását az üzemeltető írásbeli kérelmére az állati eredetű melléktermék eltérő felhasználásának helye szerint illetékes megyei kormányhivatal engedélyezi. Az eltérő felhasználásra vonatkozó engedélyben foglaltak betartását a járási hivatal ellenőrzi. A kiadott engedély a kiadástól számítva 5 évig hatályos.
+8. § (1)[^7] Az 1069/2009/EK európai parlamenti és tanácsi rendelet 17. cikke szerinti kutatási és más specifikus célokra, valamint az 1069/2009/EK európai parlamenti és tanácsi rendelet 18. cikke szerinti speciális takarmányozási célokra vonatkozó enyhítések alkalmazását az üzemeltető írásbeli kérelmére az állati eredetű melléktermék eltérő felhasználásának helye szerint illetékes vármegyei kormányhivatal engedélyezi. Az eltérő felhasználásra vonatkozó engedélyben foglaltak betartását a járási hivatal ellenőrzi. A kiadott engedély a kiadástól számítva 5 évig hatályos.
 
-(2)[^8] A megyei kormányhivatal az (1) bekezdés szerint kiadott engedélyekről tájékoztatja a Nemzeti Élelmiszerlánc-biztonsági Hivatalt (a továbbiakban: NÉBIH). A NÉBIH az engedélyezett felhasználókról nyilvántartást vezet, és az 1069/2009/EK európai parlamenti és tanácsi rendelet 47. cikkében meghatározott adatokat honlapján közzéteszi.
+(2)[^8] A vármegyei kormányhivatal az (1) bekezdés szerint kiadott engedélyekről tájékoztatja a Nemzeti Élelmiszerlánc-biztonsági Hivatalt (a továbbiakban: NÉBIH). A NÉBIH az engedélyezett felhasználókról nyilvántartást vezet, és az 1069/2009/EK európai parlamenti és tanácsi rendelet 47. cikkében meghatározott adatokat honlapján közzéteszi.
 
 (3)[^9] Az eltérő takarmányozási felhasználásra vonatkozó engedély csak olyan állattartó telepek – ideértve a kedvtelésből tartott állatot tartókat és a gyepmesteri telepeket is – esetében adható ki, ahol élelmiszertermelő gazdasági haszonállatot nem tartanak.
 
@@ -14,8 +14,8 @@
 
 (7)[^12] A (6) bekezdésben meghatározott állati eredetű melléktermékek kizárólag az 1069/2009/EK európai parlamenti és tanácsi rendelet 18. cikk (1) bekezdésének a)–c) és h) pontjában említett állatok takarmányozására használhatók fel.
 
-[^7]: A 8. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 56. § (1) bekezdésével megállapított szöveg.
-[^8]: A 8. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 64. § 3. pontja szerint módosított szöveg.
+[^7]: A 8. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 56. § (1) bekezdésével megállapított, a 130/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^8]: A 8. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 64. § 3. pontja, a 130/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^9]: A 8. § (3) bekezdése a 46/2015. (VIII. 7.) FM rendelet 56. § (2) bekezdésével megállapított szöveg.
 [^10]: A 8. § (4) bekezdése a 42/2016. (VI. 28.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^11]: A 8. § (6) bekezdése a 42/2016. (VI. 28.) FM rendelet 1. § (2) bekezdésével megállapított szöveg.
