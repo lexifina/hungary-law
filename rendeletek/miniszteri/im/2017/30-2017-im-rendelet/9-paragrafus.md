@@ -4,4 +4,6 @@
 
 (3) A végrehajtó a végrehajtási ügy a bírósági végrehajtási ügyvitelről és pénzkezelésről szóló rendelet szerinti, érdemi vagy ügyviteli befejezésekor a végrehajtási illeték fedezésére befolyt összeget a törvényszék előirányzat-felhasználási keretszámlájára, a kifizetett végrehajtási költség fedezésére befolyt összeget a Kar hivatali szervének utalja át. Az átutaláson feltünteti az adós nevét, az átutalás jogcímét és a végrehajtói ügyszámot. Az átutalás pénzforgalmi szolgáltató által igazolt másolatát az ügy iratai között kell elhelyezni.
 
-(4) A törvényszéki végrehajtó a felvett összeggel – a kifizetést igazoló okirat alapján – a visszaérkezését követő negyvennyolc órán belül köteles elszámolni.
+(4)[^9]
+
+[^9]: A 9. § (4) bekezdését a 26/2022. (XII. 6.) IM rendelet 5. §-a hatályon kívül helyezte.
