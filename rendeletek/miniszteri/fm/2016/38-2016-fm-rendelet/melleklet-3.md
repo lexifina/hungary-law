@@ -1,5 +1,3 @@
-## A tárgyévre vonatkozó támogatási keret nagysága
-
 |  | A | B |
 
 | 1. | Baromfi megnevezés-csoport | Támogatási keret (millió Ft) |
@@ -14,7 +12,7 @@
 
 3. melléklet a 38/2016. (VI. 6.) FM rendelethez
 
-## A támogatási kérelem adattartalma
+A támogatási kérelem adattartalma
 
 1. Az igénylő azonosítására szolgáló adatok
 

@@ -2,4 +2,6 @@
 
 1. melléklet a 38/2016. (VI. 6.) FM rendelethez
 
+Az állategység számításához alkalmazandó váltószámok
+
 [^26]: A 9/C. §-t az 50/2021. (XII. 29.) AM rendelet 20. §-a iktatta be.

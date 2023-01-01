@@ -1,6 +1,6 @@
 4. melléklet a 38/2016. (VI. 6.) FM rendelethez
 
-## A Szakmai Ellenőrzési Lap adattartalma
+A Szakmai Ellenőrzési Lap adattartalma
 
 I. A támogatási kérelemhez csatolandó Szakmai Ellenőrzési Lap adattartalma
 

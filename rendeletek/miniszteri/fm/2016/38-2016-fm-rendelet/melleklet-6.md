@@ -1,5 +1,3 @@
-## A 4. § (3) bekezdése szerinti vizsgálat értékelési szempontjai
-
 |  | A | B | C |
 
 |  |  | E rendelet szerinti támogatással | E rendelet szerinti támogatás nélkül |
@@ -14,7 +12,7 @@
 
 6. melléklet a 38/2016. (VI. 6.) FM rendelethez
 
-## A kifizetési kérelem adattartalma
+A kifizetési kérelem adattartalma
 
 1. Az igénylő azonosító adatai
 

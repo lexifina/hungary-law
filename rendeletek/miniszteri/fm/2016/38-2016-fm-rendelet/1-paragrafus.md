@@ -22,7 +22,7 @@ c) III. tárgynegyedév: a tárgyév január 1-jétől március 31-éig,
 
 d) IV. tárgynegyedév: a tárgyév április 1-jétől június 30-áig
 
-## tartó időszak;
+tartó időszak;
 
 7. tartási hely: egy járványügyi egységet képező létesítmény, építmény esetén bármely olyan hely, ahol az 1. pont szerinti állományt állandó vagy időszakos jelleggel tartanak;
 
@@ -32,8 +32,8 @@ d) IV. tárgynegyedév: a tárgyév április 1-jétől június 30-áig
 
 10. tenyészet: egy állattartó a hozzá tartozó tartási hellyel együtt;
 
-11.[^1] tenyésztésbe vonás: a tenyészbaromfinak – a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által, vagy a tartási hely fekvése szerint illetékes megyei kormányhivatal élelmiszerlánc-biztonsági és állat-egészségügyi hatáskörében eljáró járási hivatala (a továbbiakban: járási hivatal) által évente, a Baromfi Információs Rendszer létrehozásáról és működtetésének rendjéről szóló 120/2007. (X. 18.) FVM rendelet szerint vezetett nyilvántartás alapján kiállított hatósági bizonyítvánnyal igazolt – termelésbe állítása;
+11.[^1] tenyésztésbe vonás: a tenyészbaromfinak – a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) által, vagy a tartási hely fekvése szerint illetékes vármegyei kormányhivatal élelmiszerlánc-biztonsági és állat-egészségügyi hatáskörében eljáró járási hivatala (a továbbiakban: járási hivatal) által évente, a Baromfi Információs Rendszer létrehozásáról és működtetésének rendjéről szóló 120/2007. (X. 18.) FVM rendelet szerint vezetett nyilvántartás alapján kiállított hatósági bizonyítvánnyal igazolt – termelésbe állítása;
 
 12. termelői csoport: a termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet vagy a termelői csoportok elismeréséről szóló 42/2015. (VII. 22.) FM rendelet alapján elismert termelői csoport.
 
-[^1]: Az 1. § 11. pontja a 42/2017. (VIII. 17.) FM rendelet 227. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § 11. pontja a 42/2017. (VIII. 17.) FM rendelet 227. § a) pontja, a 145/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
