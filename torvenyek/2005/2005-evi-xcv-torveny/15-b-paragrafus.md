@@ -6,6 +6,6 @@
 
 a) amely az értesítésben megjelölt anyag vagy vegyületcsoport gyógyászati felhasználására utalna, és
 
-b) amely kizárja, hogy az anyag vagy vegyületcsoport hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint a 2. számú melléklet jegyzékein szereplő anyagok.
+b) amely kizárja, hogy az anyag vagy vegyületcsoport hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint a kábítószerek vagy az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 2. mellékletében a pszichotróp anyagok 1. és 2. jegyzékén szereplő anyagok.
 
 (4) Az (1) bekezdés szerinti előzetes szakmai értékelést kormányrendeletben kijelölt szakértői szerv végzi.

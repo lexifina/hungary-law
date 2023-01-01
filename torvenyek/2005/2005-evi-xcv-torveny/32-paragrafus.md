@@ -10,7 +10,7 @@
 
 a) kábítószernek, illetve pszichotróp anyagnak minősülő gyógyszer gyártásának, forgalomba hozatalának, forgalmazásának és e gyógyszerekkel folytatott nagykereskedelmi tevékenységnek, a Magyarország területére történő behozatalának, kivitelének, valamint tudományos célra történő beszerzésének és felhasználásának részletes feltételeit, az e tevékenységre jogosító engedély kiadásának rendjét, az engedéllyel rendelkezőkről vezetett nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, továbbá a tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 
-b) nemzetközi egyezmények értelmében kábítószernek vagy pszichotróp anyagnak minősülő gyógyszerek tudományos célra történő felhasználásának, illetve beszerzésének körét,
+b) a kábítószernek vagy pszichotróp anyagnak minősülő gyógyszerek tudományos célra történő felhasználásának, illetve beszerzésének körét,
 
 c) a gyógyszerellátás hatósági ellenőrzése során az e törvényben foglalt kötelezettségek megszegése esetén a hatóságok által kiszabható bírság mértékét, illetve összegét
 
@@ -88,13 +88,21 @@ v) a gyógyszerközvetítéssel kapcsolatos szabályokat,
 
 w) a hatóanyagokra vonatkozó helyes gyártási gyakorlat és helyes forgalmazási gyakorlat, valamint a segédanyagokra vonatkozó helyes gyártási gyakorlat szabályait,
 
-x) az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat,
+x)
 
 y) az engedélyezés, illetve a kereskedelmi forgalomba hozatal előtti gyógyszeralkalmazással kapcsolatos részletszabályokat
 
 z) a gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre, azok kezelésére vonatkozó részletszabályokat, illetve a biztonsági elemek kezelésére jogosultak körét
 
 rendeletben szabályozza.
+
+(5a) Felhatalmazást kap az egészségügyért felelős miniszter, hogy
+
+a) a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény és a pszichotróp anyagokról szóló, Bécsben 1971. év február hó 21. napján aláírt egyezmény, valamint ezen egyezmények módosításai,
+
+b) a tiltott kábítószer-kereskedelem területén a bűncselekmények tényállási elemeire és a büntetésekre vonatkozó minimumszabályok megállapításáról szóló, 2004. október 25-i 2004/757/IB tanácsi kerethatározat
+
+figyelembevételével az ellenőrzött anyagok körét, valamint az új pszichoaktív anyagok listájáról a 15/C. § (3) bekezdése értelmében eltávolított anyagokat rendeletben szabályozza.
 
 (6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben határozza meg
 

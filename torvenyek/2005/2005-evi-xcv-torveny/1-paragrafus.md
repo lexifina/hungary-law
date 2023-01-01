@@ -6,13 +6,15 @@
 
 3. homeopátiás gyógyszer: a Gyógyszerkönyvben leírt homeopátiás gyártási eljárásnak megfelelően készült homeopátiás törzsoldatnak nevezett anyagból a Gyógyszerkönyvben leírt homeopátiás gyártási eljárásnak megfelelően előállított gyógyszer, amely több alkotóelemet is tartalmazhat;
 
-4. kábítószer: a New-Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény kihirdetéséről szóló 1965. évi 4. törvényerejű rendelet mellékletének I. és II. jegyzékén szereplő anyag;
+4. kábítószer: az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 1. mellékletében a kábítószerek 1. és 2. jegyzékén szereplő anyag;
 
-4/a. kábítószerként minősített gyógyszer: a New-Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény kihirdetéséről szóló 1965. évi 4. törvényerejű rendelet mellékletének I. és II. jegyzékén szereplő kábítószernek minősített hatóanyagot tartalmazó gyógyszer;
+4a. kábítószerként minősített gyógyszer: a kábítószernek minősített hatóanyagot tartalmazó gyógyszer;
 
-5. pszichotróp anyag: a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–IV. jegyzékén, valamint a 2. számú melléklet jegyzékein szereplő anyag;
+5. pszichotróp anyag: az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 2. mellékletében a pszichotróp anyagok 1–4. jegyzékén szereplő anyag;
 
-5/a. pszichotróp anyagként minősített gyógyszer: a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet II–IV. jegyzékén, valamint a 2. számú melléklet B) jegyzékén szereplő pszichotrópnak minősített hatóanyagot tartalmazó gyógyszer;
+5a. pszichotróp anyagként minősített gyógyszer: az a gyógyszer, amelynek hatóanyaga az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 2. mellékletében a pszichotróp anyagok 2–4. jegyzékén szerepel;
+
+5b. ellenőrzött anyag: a kábítószer, a pszichotróp anyag és az új pszichoaktív anyag;
 
 6. vizsgálati gyógyszer: az emberi felhasználásra szánt gyógyszerek klinikai vizsgálatairól és a 2001/20/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 536/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 536/2014/EU európai parlamenti és tanácsi rendelet) 2. cikk (2) bekezdés 5. pontjában meghatározott fogalom;
 
@@ -88,7 +90,7 @@ c) ha az adott indikációban forgalomba hozatalra engedélyezett gyógyszerhez 
 
 36. koordinációs csoport: az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelv 27. cikkében említett testület,
 
-37. új pszichoaktív anyag: olyan, a forgalomban újonnan megjelent, gyógyászati felhasználással nem rendelkező anyag vagy vegyületcsoport, amely a központi idegrendszer működésének befolyásolása révén alkalmas a tudatállapot, a viselkedés vagy az érzékelés módosítására, megváltoztatására, és ezért hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1965. évi 4. törvényerejű rendelettel kihirdetett, a New Yorkban, 1961. március 30-án kelt Egységes Kábítószer Egyezmény mellékletének I. és II. Jegyzékén, az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzékén, vagy a 2. számú mellékletben meghatározott pszichotróp anyagok jegyzékein szereplő anyagok, és erre tekintettel azt az egészségügyért felelős miniszter rendeletében ilyen anyaggá minősítette;
+37. új pszichoaktív anyag: olyan, a forgalomban újonnan megjelent, gyógyászati felhasználással nem rendelkező anyag vagy vegyületcsoport, amely a központi idegrendszer működésének befolyásolása révén alkalmas a tudatállapot, a viselkedés vagy az érzékelés módosítására, megváltoztatására, és ezért hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint a kábítószerek, vagy az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 2. mellékletében a pszichotróp anyagok 1. és 2. jegyzékén szereplő anyagok, és amelyet erre tekintettel az egészségügyért felelős miniszter rendeletében ilyen anyaggá minősített;
 
 38. hatóanyag: gyógyszer gyártására szánt bármely anyag vagy azok keveréke, amely a gyártás során azon készítmény aktív összetevőjévé válik, amelyet farmakológiai, immunológiai vagy metabolikus hatás kiváltására szánnak valamely élettani funkció fenntartása, helyreállítása, javítása vagy módosítása, illetve orvosi diagnózis felállítása érdekében;
 
