@@ -28,7 +28,10 @@ f) szülő nő, illetve újszülött/koraszülött első egészségügyi szakell
 
 (9)[^11] A Mentőszolgálat Budapest és Pest megye területén ellátja az egészségügyről szóló 1997. évi CLIV. törvény 93. § (3)–(6) bekezdésén alapuló sürgősségi ügyeleti ellátással kapcsolatos feladatokat.
 
+(10)[^12] A Mentőszolgálat jogszabályban meghatározott esetben és módon részt vesz a háziorvosi, házi gyermekorvosi orvosi ügyeleti ellátásban, és koordinálja azt.
+
 [^8]: A 6. § (4) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 29. §-ával megállapított szöveg.
 [^9]: A 6. § (5) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 29. §-ával megállapított szöveg.
 [^10]: A 6. § (7) bekezdése a 309/2019. (XII. 18.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^11]: A 6. § (9) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 45. §-a iktatta be.
+[^12]: A 6. § (10) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 19. §-a iktatta be.

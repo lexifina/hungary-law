@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-322-20-
 | 2016-07-01 | 2006-322-20-22.6 | 172/2016. (VII. 1.) Korm. rendelet |
 | 2017-04-01 | 2006-322-20-22.7 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2020-01-01 | 2006-322-20-22.8 | 309/2019. (XII. 18.) Korm. rendelet |
+| 2023-01-01 | 2006-322-20-22.9 | 630/2022. (XII. 30.) Korm. rendelet |
