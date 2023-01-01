@@ -1,5 +1,3 @@
-## 1. §[^1] E rendelet hatálya kiterjed az egészségügyért felelős miniszter által vezetett minisztériumnál, az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnél, az Országos Kórházi Főigazgatóságnál, a Nemzeti Egészségbiztosítási Alapkezelőnél, valamint az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivataloknál és járási hivataloknál (a továbbiakban együtt: intézmény) az 1. számú melléklet szerinti közigazgatási eljárást vagy igazgatási jellegű szolgáltatást (a továbbiakban együtt: igazgatási szolgáltatás) kezdeményező magánszemélyekre, jogi személyekre, jogi személyiséggel nem rendelkező szervezetekre (a továbbiakban együtt: díjfizetésre kötelezett).
-
 2. § (1)[^2] A díjfizetésre kötelezett az igazgatási szolgáltatásokért az 1. számú mellékletben meghatározott mértékű igazgatási szolgáltatási díjat köteles megfizetni.
 
 (2) Az 1. számú mellékletben megállapított laboratóriumi vizsgálati díjtételeket mintaelemenként kell felszámítani, és ezek magukban foglalják a szabványban vagy vizsgálati módszerben előírt minta-előkészítés, valamint párhuzamos vizsgálatok költségeit is.
@@ -22,7 +20,6 @@
 
 (11)[^11]
 
-[^1]: Az 1. § az 54/2016. (XII. 30.) EMMI rendelet 5. § (1) bekezdésével megállapított, a 35/2021. (VIII. 16.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdése az 5/2001. (II. 22.) EüM rendelet 2. §-ával megállapított és a 71/2004. (VIII. 11.) ESZCSM rendelet 4. § a) pontja, a 2/2009. (I. 30.) EüM rendelet 5. § (2) bekezdésének a) pontja szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdése a 2/2009. (I. 30.) EüM rendelet 2. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 10. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (4) bekezdése a 2/2009. (I. 30.) EüM rendelet 5. § (2) bekezdésének b) pontja szerint módosított szöveg.

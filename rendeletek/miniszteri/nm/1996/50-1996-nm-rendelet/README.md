@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-50-20-3
 | 2022-01-31 | 1996-50-20-3D.37 | 35/2021. (VIII. 16.) EMMI rendelet |
 | 2022-05-26 | 1996-50-20-3D.38 | 34/2009. (X. 20.) EüM rendelet |
 | 2022-12-28 | 1996-50-20-3D.40 | 54/2016. (XII. 30.) EMMI rendelet |
+| 2023-01-01 | 1996-50-20-3D.39 | 54/2016. (XII. 30.) EMMI rendelet |
