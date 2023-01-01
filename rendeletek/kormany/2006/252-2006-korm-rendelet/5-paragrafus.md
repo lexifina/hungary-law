@@ -1,5 +1,3 @@
-## 4. §[^16]
-
 ## A tervtanácsi tag
 
 5. §[^17] (1)[^18] A tervtanács tagja az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendeletben meghatározott mesterfokozatú képzésben szerzett szakképzettséggel (korábban egyetemi végzettséggel) és legalább öt éves szakmai gyakorlattal rendelkező, vagy a régészeti örökséggel és a műemléki értékkel kapcsolatos szakértői tevékenységről szóló kormányrendelet alapján szakértőként nyilvántartásba vett természetes személy lehet.
@@ -16,7 +14,6 @@
 
 (7)[^22]
 
-[^16]: A 4. §-t és az azt megelőző alcímet a 322/2012. (XI. 16.) Korm. rendelet 31. § a) pontja hatályon kívül helyezte.
 [^17]: Az 5. § a 322/2012. (XI. 16.) Korm. rendelet 21. §-ával megállapított szöveg.
 [^18]: Az 5. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 6. §-a, a 677/2020. (XII. 28.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
 [^19]: Az 5. § (4) bekezdését a 224/2021. (V. 4.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.

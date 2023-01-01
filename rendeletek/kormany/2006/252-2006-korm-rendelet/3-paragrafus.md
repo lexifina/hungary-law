@@ -1,5 +1,3 @@
-## 2/A. §[^6]
-
 ## A tervtanács elnöke
 
 3. §[^7] (1) A tervtanács elnöke
@@ -32,7 +30,6 @@ i) gondoskodik a tervtanács működésével kapcsolatos iratkezelési, nyilván
 
 j) gondoskodik akadályoztatása esetén a helyettesítéséről.
 
-[^6]: A 2/A. §-t újonnan a 306/2016. (X. 13.) Korm. rendelet 4. §-a iktatta be, a 677/2020. (XII. 28.) Korm. rendelet 20. § b) pontja hatályon kívül helyezte.
 [^7]: A 3. § a 322/2012. (XI. 16.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^8]: A 3. § (1) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
 [^9]: A 3. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 82. § (1) bekezdésével megállapított, a 224/2021. (V. 4.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
