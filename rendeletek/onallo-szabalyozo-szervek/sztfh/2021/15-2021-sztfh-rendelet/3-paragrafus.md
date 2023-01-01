@@ -2,8 +2,10 @@
 
 (2) A 2. § (2) bekezdése szerinti főlistában szereplő felszámolókat 100-as szorzóval, a 2. § (4) bekezdése szerinti első kiegészítő listában szereplő felszámolókat 40-es szorzóval, a 2. § (5) bekezdése szerinti második kiegészítő listában szereplő felszámolókat 15-ös szorzóval látja el a számítógépes program.
 
-(3) A felszámoló kijelölésére a program – a (2) bekezdés szerinti súlyozás alkalmazásával – véletlenszerű kiválasztással tesz javaslatot oly módon, hogy a súlyozott halmazból egyenletes eloszlás szerint választ. Azokat a felszámolókat, amelyek – az adott megye vagy a főváros vonatkozásában – nem szerepelnek sem a 2. § (2) bekezdése szerinti főlistán, sem pedig a 2. § (4) és (5) bekezdése szerinti kiegészítő listákon, a program nem veszi figyelembe a kiválasztás során.
+(3)[^6] A felszámoló kijelölésére a program – a (2) bekezdés szerinti súlyozás alkalmazásával – véletlenszerű kiválasztással tesz javaslatot oly módon, hogy a súlyozott halmazból egyenletes eloszlás szerint választ. Azokat a felszámolókat, amelyek – az adott vármegye vagy a főváros vonatkozásában – nem szerepelnek sem a 2. § (2) bekezdése szerinti főlistán, sem pedig a 2. § (4) és (5) bekezdése szerinti kiegészítő listákon, a program nem veszi figyelembe a kiválasztás során.
 
 (4) Azokat a felszámolókat, amelyek folyamatban lévő ügyeinek száma a többiek aktuális ügyszámának számtani átlagát legalább kétszeresen meghaladja, csak a naptári hónap 8. napjáig történő kijelölő műveleteknél veszi figyelembe a számítógépes program. Ezt a szabályt addig kell alkalmazni, amíg az említett arány fennáll.
 
 (5) Ha a kirendelt felszámolóval összefüggésben kiderül, hogy vele szemben a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény (a továbbiakban: Cstv.) 27/A. § (4) bekezdése szerinti kizáró vagy összeférhetetlenségi ok áll fenn, vagy pedig a felszámolót az adott eljárásban a Cstv. 27/A. § (7) és (8) bekezdésében foglaltak alapján felmentették, akkor az e § szerinti elektronikus kijelölő program felhasználásával kerül sor az új felszámoló kirendelésére is. Az újabb kijelölési művelet eredménye és elvégzésének időpontja elektronikusan menthető és kinyomtatható formában is megjelenik.
+
+[^6]: A 3. § (3) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 2. § c) pontja szerint módosított szöveg.

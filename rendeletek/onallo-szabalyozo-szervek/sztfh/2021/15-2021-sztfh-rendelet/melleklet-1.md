@@ -1,8 +1,8 @@
 ## 6. § Ez a rendelet 2021. november 1-jén lép hatályba.
 
-1. melléklet a 15/2021. (X. 29.) SZTFH rendelethez[^2]
+1. melléklet a 15/2021. (X. 29.) SZTFH rendelethez[^7]
 
-## A felszámoló kijelölő program Felhasználói Szabályzata
+A felszámoló kijelölő program Felhasználói Szabályzata
 
 1. A Felhasználói Szabályzat célja
 
@@ -142,4 +142,4 @@ Az „Adatváltoztatás kérésének indokolása” rovat kitöltése minden ese
 
 bíró/titkár aláírása
 
-[^2]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 2. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 2. §-a szerint módosított szöveg.
