@@ -14,7 +14,7 @@ A Magyar Közlöny címrendje
 
 1.5. a Kormány tagjainak rendeletei,
 
-1.6. a fővárosi és megyei kormányhivatal vezetőjének a helyi önkormányzat nevében megalkotott rendeletei,
+1.6.[^22] a fővárosi és vármegyei kormányhivatal vezetőjének a helyi önkormányzat nevében megalkotott rendeletei,
 
 1.7. az Alkotmánybíróság döntései,
 
@@ -47,3 +47,5 @@ A Magyar Közlöny címrendje
 3.4. a Magyar Nemzeti Bank elnökének rendeleteihez, valamint az önálló szabályozó szerv vezetőjének rendeleteihez tartozó indokolások,
 
 3.5. a Kormány tagjainak rendeleteihez tartozó indokolások.
+
+[^22]: Az 1. melléklet 1. pont 1.6. alpontja a 36/2022. (XII. 27.) IM rendelet 2. § e) pontja szerint módosított szöveg.

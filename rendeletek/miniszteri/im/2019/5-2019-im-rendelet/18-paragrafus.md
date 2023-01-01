@@ -22,13 +22,13 @@ j) az alapvető jogok biztosa esetén „Az alapvető jogok biztosa”,
 
 k) az Állami Számvevőszék elnöke esetén „Az Állami Számvevőszék elnöke”,
 
-l) a fővárosi és megyei kormányhivatal vezetője esetén nagybetűs névelőt követően a fővárosi és megyei kormányhivatal megnevezését követően a „vezetője” szöveg,
+l)[^18] a fővárosi és vármegyei kormányhivatal vezetője esetén nagybetűs névelőt követően a fővárosi és vármegyei kormányhivatal megnevezését követően a „vezetője” szöveg,
 
 m) polgármester esetén a helyi önkormányzat megnevezését követően a „polgármestere” szöveg,
 
 n) főpolgármester esetén a helyi önkormányzat megnevezését követően a „főpolgármestere” szöveg,
 
-o) megyei közgyűlés elnöke esetén a helyi önkormányzat megnevezését követően a „közgyűlésének elnöke” szöveg,
+o)[^19] vármegyei közgyűlés elnöke esetén a helyi önkormányzat megnevezését követően a „közgyűlésének elnöke” szöveg,
 
 p) jegyző esetén a helyi önkormányzat megnevezését követően a „jegyzője” szöveg,
 
@@ -59,3 +59,6 @@ j) az Állami Számvevőszék elnöke esetén „ÁSZ”,
 k) minisztérium hivatali szervezetének vezetője esetén a minisztériumot vezető miniszternek a Kormány tagjainak feladat- és hatásköréről szóló kormányrendeletben meghatározott rövid megjelölését követően „KÁT”.
 
 (3) A közjogi szervezetszabályozó eszköz (1) és (2) bekezdésben nem meghatározott kibocsátójának teljes megjelölésére és rövidítésére a jogszabály megalkotójának teljes megjelölésére és rövidítésére vonatkozó szabályokat kell alkalmazni.
+
+[^18]: A 18. § (1) bekezdés l) pontja a 36/2022. (XII. 27.) IM rendelet 2. § c) pontja szerint módosított szöveg.
+[^19]: A 18. § (1) bekezdés o) pontja a 36/2022. (XII. 27.) IM rendelet 2. § d) pontja szerint módosított szöveg.

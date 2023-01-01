@@ -20,10 +20,13 @@ foglalja magában.
 
 (2) Nem foglalja magában a normatív utasítást kiadó személy megjelölésének a rövidítését
 
-a) a fővárosi és megyei kormányhivatal vezetője,
+a)[^16] a fővárosi és vármegyei kormányhivatal vezetője,
 
-b) a polgármester, a főpolgármester, a megyei közgyűlés elnöke és a jegyző,
+b)[^17] a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke és a jegyző,
 
 c) a minisztérium hivatali szervezetének vezetője kivételével a Jat. 23. § (5) bekezdésében meghatározott személy
 
 normatív utasításának a közzététel során történő megjelölése.
+
+[^16]: A 16. § (2) bekezdés a) pontja a 36/2022. (XII. 27.) IM rendelet 2. § a) pontja szerint módosított szöveg.
+[^17]: A 16. § (2) bekezdés b) pontja a 36/2022. (XII. 27.) IM rendelet 2. § b) pontja szerint módosított szöveg.
