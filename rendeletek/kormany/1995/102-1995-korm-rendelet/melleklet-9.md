@@ -52,7 +52,7 @@
 
 9. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^71]
 
-## A keresőképtelenség visszamenőleges igazolására szolgáló kérelem adattartalma
+A keresőképtelenség visszamenőleges igazolására szolgáló kérelem adattartalma
 
 I. A beteg/biztosított személyi adatai
 

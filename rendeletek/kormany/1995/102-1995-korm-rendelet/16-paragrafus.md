@@ -1,5 +1,3 @@
-## 15. §[^56]
-
 16. § (1)[^57] Ez a rendelet 1995. szeptember 1. jén lép hatályba.
 
 (2) A rendelet hatálybalépését megelőzően kezdődő keresőképtelenség további elbírálására a keresőképessé nyilvánítás időpontjáig a keresőképtelenséget megállapító orvos (egészségügyi intézmény) jogosult.
@@ -8,7 +6,6 @@
 
 (4)[^59] A 2014. december 31-e után előállított 5. számú melléklet szerinti nyomtatványok alkalmazása során csecsemőgondozási díj alatt terhességi-gyermekágyi segélyt kell érteni, ha az ellátásra való igényjogosultság 2015. január 1-jét megelőzően nyílt meg.
 
-[^56]: A 15. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1408. pontja hatályon kívül helyezte.
 [^57]: A 16. § (1) bekezdésének második fordulatát a 195/1997. (XI. 5.) Korm. rendelet 28. §-ának (1) bekezdése hatályon kívül helyezte.
 [^58]: A 16. § (3) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 122. §-a iktatta be.
 [^59]: A 16. § (4) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 122. §-a iktatta be.

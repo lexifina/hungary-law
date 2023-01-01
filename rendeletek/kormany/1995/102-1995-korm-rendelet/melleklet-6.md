@@ -1,4 +1,4 @@
-## ORVOSI IGAZOLÁS KERESŐKÉPTELEN ÁLLOMÁNYRÓL
+## 0X02861_0
 
 | Biztosított neve: ……………………………………………… Születési dátuma: ⬜⬜⬜⬜ ⬜⬜ ⬜⬜ TAJ száma: ⬜⬜⬜ ⬜⬜⬜ ⬜⬜⬜ Anyja neve: …….…………………………………………………… Lakcíme: ⬜⬜⬜⬜………………………………………………………………………………………………………..…. Munkaköre67:……………………………………………………………………………………………….……………. |
 

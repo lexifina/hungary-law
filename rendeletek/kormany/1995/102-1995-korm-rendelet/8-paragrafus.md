@@ -8,7 +8,7 @@ a) a munkaképesség-változás, illetve a keresőképesség felülvéleményez�
 
 b) a súlyos fogyatékosság véleményezése céljából a 4/A. számú melléklet szerinti nyomtatvány
 
-## kiállításával történik.
+kiállításával történik.
 
 (3a)[^35] A (3) bekezdés szerinti nyomtatványt kell kitölteni továbbá minden olyan esetben, amikor a beteg vagy a kezelőorvos orvosszakértői vizsgálatot kezdeményez: az orvosszakértői szervnél a munkaképesség vagy a súlyos fogyatékosság megállapítása céljából.
 

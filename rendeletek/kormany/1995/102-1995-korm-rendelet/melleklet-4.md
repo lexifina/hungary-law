@@ -40,11 +40,13 @@
 
 4. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^65]
 
-## ORVOSI BEUTALÓ
+ORVOSI BEUTALÓ
 
 ## az orvosszakértői szervhez, illetve FOB-hoz a munkaképesség-változás vagy a keresőképesség felülvéleményezése céljából
 
 I. Személyi adatok
+
+## 5K03608M_0
 
 | A beteg/biztosított neve: |
 
@@ -80,7 +82,7 @@ II. Orvosi dokumentáció
 
 | ............................................. | BNO kód: ............................................. | Az észlelés ideje: |
 
-– Egyéb megbetegedések:
+## – Egyéb megbetegedések:
 
 | .............................................. | BNO kód: ............................................. | Az észlelés ideje: |
 

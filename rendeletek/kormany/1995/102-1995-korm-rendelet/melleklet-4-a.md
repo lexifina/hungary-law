@@ -20,11 +20,13 @@
 
 4/A. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^66]
 
-## ORVOSI BEUTALÓ
+ORVOSI BEUTALÓ
 
 ## a rehabilitációs szakértői szervhez a súlyos fogyatékosság véleményezése céljából
 
 I. Személyi adatok
+
+## 5K03608N_0
 
 | A beteg/biztosított neve: |
 
@@ -47,6 +49,8 @@ II. Orvosi dokumentáció
 – Az alapbetegséget mikor diagnosztizálták:
 
 2. Egyéb megbetegedések:
+
+## 5K03608N_1
 
 | .............................................. | BNO kód: .............................................. | Az észlelés ideje: |
 

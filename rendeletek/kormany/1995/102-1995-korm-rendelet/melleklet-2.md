@@ -1,5 +1,3 @@
-## Napló[^61]
-
 | Napló |
 
 | ………. év ……………………….. hó |
@@ -56,5 +54,4 @@
 
 2. számú melléklet a 102/1995. (VIII. 25.) Korm. rendelethez[^62]
 
-[^61]: Lásd 1999. MK 71. szám 4579–4580. oldal.
 [^62]: A 2. számú melléklet a 127/1999. (VIII. 13.) Korm. rendelet 4. §-ának (2) bekezdésével, valamint 2. számú mellékletével megállapított, a 73/2011. (IV. 29.) Korm. rendelet 1. § (1) bekezdése, a 137/2012. (VI. 29.) Korm. rendelet 95. § (1) bekezdése, a 287/2018. (XII. 21.) Korm. rendelet 3. § (1) bekezdése, a 313/2020. (VI. 30.) Korm. rendelet 2. § (1) bekezdése és 3. §-a szerint módosított szöveg.

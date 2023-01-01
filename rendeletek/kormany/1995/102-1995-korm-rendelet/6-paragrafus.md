@@ -16,7 +16,7 @@ a) a munkavállaló esetén a munkáltató,
 
 b)[^16] közfoglalkoztatott esetén a közfoglalkoztató, illetve az állami foglalkoztatási szerv
 
-## jogosult a keresőképtelenség felülvizsgálatát kezdeményezni a kormányhivatalnál.
+jogosult a keresőképtelenség felülvizsgálatát kezdeményezni a kormányhivatalnál.
 
 (4)[^17] A keresőképesség felülvizsgálatának a (3) bekezdés a) és b) pontjában történő kezdeményezése esetén meg kell adni a munkavállaló, valamint közfoglalkoztatott személy nevét, születési helyét, idejét, lakcímét, anyja nevét, társadalombiztosítási azonosító jelét és a keresőképtelenség kezdetét. A kérelemnek tartalmaznia kell a munkáltató illetve közfoglalkoztató nevét, címét, adószámát, az aláírási jogkörrel rendelkező személy nevét, valamint telefonos és postai elérhetőségét.
 
