@@ -4,7 +4,7 @@
 
 | 2. | Liget Budapest projekt beruházásai | Budapest XIV. kerület 29732/1 helyrajzi számú ingatlan | a) építésügyi hatósági engedélyezési és tudomásulvételi eljárások, b) örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások | Budapest Főváros Kormányhivatala |
 
-| 3. | környezetvédelmi és természetvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
+| 3. | környezetvédelmi és természetvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal[^44] |
 
 | 4. | útügyi hatósági eljárások | Budapest Főváros Kormányhivatala |
 
@@ -16,17 +16,17 @@
 
 | 8. | telekalakításra irányuló, földmérési, ingatlan-nyilvántartással összefüggő hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
+| 9. | talajvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal[^45] |
 
 | 10. | tűzvédelmi hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 11. | bányahatósági engedélyezési eljárások | Pest Megyei Kormányhivatal |
+| 11. | bányahatósági engedélyezési eljárások | Pest Vármegyei Kormányhivatal[^46] |
 
 | 12. | fás szárú növények kivágásához szükséges engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
 | 13. | üzletek, kávézók, éttermek és kereskedelmi egységek működési engedélyezésére irányuló eljárások | Budapest Főváros Kormányhivatala |
 
-3. melléklet az 546/2013. (XII. 30.) Korm. rendelethez[^44]
+3. melléklet az 546/2013. (XII. 30.) Korm. rendelethez[^47]
 
 |  | A | B | C | D |
 
@@ -176,4 +176,7 @@
 
 | 73. | I12-IH-4 | 652777.9 | 241239.9 |
 
-[^44]: A 3. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 121. § h) pontja hatályon kívül helyezte, újonnan a 442/2020. (IX. 29.) Korm. rendelet 5. §-a iktatta be.
+[^44]: A 2. mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 47. § c) pontja szerint módosított szöveg.
+[^45]: A 2. mellékletben foglalt táblázat D:9 mezője az 546/2022. (XII. 22.) Korm. rendelet 47. § c) pontja szerint módosított szöveg.
+[^46]: A 2. mellékletben foglalt táblázat D:11 mezője az 546/2022. (XII. 22.) Korm. rendelet 47. § c) pontja szerint módosított szöveg.
+[^47]: A 3. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 121. § h) pontja hatályon kívül helyezte, újonnan a 442/2020. (IX. 29.) Korm. rendelet 5. §-a iktatta be.
