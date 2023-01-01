@@ -1,1 +1,3 @@
-7. § Hatályát veszti a 32/2017. (X. 18.) NGM rendelet 4. § (3) bekezdés d) pontja.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
