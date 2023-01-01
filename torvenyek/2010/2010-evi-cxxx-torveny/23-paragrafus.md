@@ -36,9 +36,9 @@ g) a Magyar Nemzeti Bank elnöke,
 
 h) az Állami Számvevőszék elnöke,
 
-i) a fővárosi és megyei kormányhivatal vezetője, valamint
+i) a fővárosi és vármegyei kormányhivatal vezetője, valamint
 
-j) a polgármester, a főpolgármester, a megyei közgyűlés elnöke (a továbbiakban együtt: polgármester) és a jegyző
+j) a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke (a továbbiakban együtt: polgármester) és a jegyző
 
 a vezetése, az irányítása vagy a felügyelete alá tartozó szervek szervezetét és működését, valamint tevékenységét.
 

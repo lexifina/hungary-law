@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-130-00-00
 | 2021-01-01 | 2020. évi CLXV. törvény | 2010-130-00-00.15 |
 | 2021-04-01 | 2020. évi CLXV. törvény | 2010-130-00-00.16 |
 | 2022-10-26 | 2022. évi XXX. törvény | 2010-130-00-00.18 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2010-130-00-00.17 |
