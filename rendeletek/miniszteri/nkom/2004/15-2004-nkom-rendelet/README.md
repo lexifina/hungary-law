@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-15-20-8
 | 2004-08-04 | 2004-15-20-86.1 | 15/2004. (VII. 27.) NKÖM rendelet |
 | 2012-09-17 | 2004-15-20-86.2 | 25/2012. (IX. 14.) EMMI rendelet |
 | 2013-01-01 | 2004-15-20-86.3 | 79/2012. (XII. 28.) BM rendelet |
+| 2023-01-01 | 2004-15-20-86.4 | 1/2022. (XII. 27.) ÉKM rendelet |
