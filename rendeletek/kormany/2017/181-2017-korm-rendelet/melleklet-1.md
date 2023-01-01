@@ -1,6 +1,4 @@
-## 18. §[^31]
-
-1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez[^32]
+1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez[^33]
 
 1. Forgalomba helyezés előtti műszaki vizsgálat keretében érvényes általános forgalomba helyezési engedély (ÁFE) vagy típusbizonyítvány alapján kiadott megfelelőségi nyilatkozat felhasználásával végzett műszaki megvizsgálás)
 
@@ -60,15 +58,15 @@
 
 | 27. | További, kérelmezett alvizsgák: |  |  |  |  |  |  |  |  |  |  |
 
-Magyarázat:
+## Magyarázat:
 
-V4*4 (összkerékhajtás vizsgálata)
+## V4*4 (összkerékhajtás vizsgálata)
 
-V2T (2-nél több tengely)
+## V2T (2-nél több tengely)
 
-VTACHO (mentíró, illetve sebességkorlátozó berendezés)
+## VTACHO (mentíró, illetve sebességkorlátozó berendezés)
 
-További kérelmezett alvizsgák:…
+## További kérelmezett alvizsgák:…
 
 2. Időszakos műszaki vizsgálat keretében végzett műszaki megvizsgálás, valamint időszakos műszaki vizsgálathoz kapcsolódó adatmódosítás, amennyiben a hatósági elírás következménye és az elírás ténye a vizsgaanyagban egyértelműen dokumentálásra kerül (a módosítható adatok felsorolása a HKR rendszerben található)
 
@@ -126,39 +124,39 @@ További kérelmezett alvizsgák:…
 
 | 26. | Sb2 |  |  |  |  |  |  |  |  |  |  |
 
-Magyarázat:
+## Magyarázat:
 
-V4×4 (Összkerékhajtás vizsgálata)
+## V4×4 (Összkerékhajtás vizsgálata)
 
-V2T (2-nél több tengely)
+## V2T (2-nél több tengely)
 
-MNK (Autóbusz minősítése nemzetközi forgalomra)
+## MNK (Autóbusz minősítése nemzetközi forgalomra)
 
-MKOZ (Autóbusz minősítése közforgalmú személyszállításra)
+## MKOZ (Autóbusz minősítése közforgalmú személyszállításra)
 
-LVR (Légfékrendszer vizsgálata)
+## LVR (Légfékrendszer vizsgálata)
 
-VTACHO (Menetíró, valamint sebességkorlátozó berendezés)
+## VTACHO (Menetíró, valamint sebességkorlátozó berendezés)
 
-MADR (Veszélyesáru-szállításra minősítés)
+## MADR (Veszélyesáru-szállításra minősítés)
 
-VKÜL (Az 5/1990. (IV. 12.) KöHÉM rendelet 20. § (2) bekezdés szerinti különleges felépítmények vizsgálata, kivéve ADR hatálya alá tartozó, valamint az üzemeltetés szempontjából külön engedélyhez kötött járművek /pl. sportcélú, megkülönböztetett jelzéssel ellátott/)
+## VKÜL (Az 5/1990. (IV. 12.) KöHÉM rendelet 20. § (2) bekezdés szerinti különleges felépítmények vizsgálata, kivéve ADR hatálya alá tartozó, valamint az üzemeltetés szempontjából külön engedélyhez kötött járművek /pl. sportcélú, megkülönböztetett jelzéssel ellátott/)
 
-CEMT (Közlekedésbiztonsági igazolás)
+## CEMT (Közlekedésbiztonsági igazolás)
 
-NK (N2/N3 M2/M3 jármű minősítése nemzetközi forgalomra)
+## NK (N2/N3 M2/M3 jármű minősítése nemzetközi forgalomra)
 
-VÁE (Műszaki vizsga veszélyes anyagot szállító /ADR hatálya alá tartozó/ járműre)
+## VÁE (Műszaki vizsga veszélyes anyagot szállító /ADR hatálya alá tartozó/ járműre)
 
-MUND (Undort keltő anyag szállítására alkalmasság minősítése)
+## MUND (Undort keltő anyag szállítására alkalmasság minősítése)
 
-GAZ (Gáz-benzin kettős üzemű járművek vizsgálata)
+## GAZ (Gáz-benzin kettős üzemű járművek vizsgálata)
 
-MEGKÜL (megkülönböztető és/vagy figyelmeztető jelzéssel ellátott járművek vizsgálata)
+## MEGKÜL (megkülönböztető és/vagy figyelmeztető jelzéssel ellátott járművek vizsgálata)
 
-További kérelmezett alvizsgák:
+## További kérelmezett alvizsgák:
 
-* (Kivéve az első minősítő vizsgálat)
+## * (Kivéve az első minősítő vizsgálat)
 
 3. Korlátozott időszakos műszaki vizsgálat keretében végzett műszaki megvizsgálás
 
@@ -216,13 +214,13 @@ További kérelmezett alvizsgák:
 
 | 26. | Sb2 |  |  |  |  |  |  |  |  |  |  |
 
-Magyarázat:
+## Magyarázat:
 
-MEGKÜL (megkülönböztető és/vagy figyelmeztető jelzéssel ellátott járművek vizsgálata)
+## MEGKÜL (megkülönböztető és/vagy figyelmeztető jelzéssel ellátott járművek vizsgálata)
 
-VON (vonószerkezettel felszerelt jármű vontatásra való alkalmasságának típusbizonyítvány
+## VON (vonószerkezettel felszerelt jármű vontatásra való alkalmasságának típusbizonyítvány
 
-alapján történő megállapítása)”
+## alapján történő megállapítása)”
 
 4. Jármű honosítási eljárás lefolytatása
 
@@ -280,5 +278,4 @@ alapján történő megállapítása)”
 
 | 26. | Sb2 |  |
 
-[^31]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^32]: Az 1. melléklet a 722/2020. (XII. 31.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^33]: Az 1. melléklet a 722/2020. (XII. 31.) Korm. rendelet 47. §-ával megállapított szöveg.

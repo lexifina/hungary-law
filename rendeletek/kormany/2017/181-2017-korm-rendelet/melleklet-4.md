@@ -1,6 +1,6 @@
 4. melléklet a 181/2017. (VII. 5.) Korm. rendelethez
 
-## Hozzájáruló nyilatkozat
+Hozzájáruló nyilatkozat
 
 Alulírott XY (lakcím: ......................, szül. hely, idő: ..................) mint a telephelyű vizsgálóállomás vizsgabiztosa/kapcsolattartója/ügyintézője, hozzájárulok az alábbi személyes adataimnak a közlekedési hatóság Hatósági Keret Rendszerében (HKR) történő kezeléséhez.
 
