@@ -28,7 +28,7 @@ Székhelye: ....................................................................
 
 Cégjegyzékszáma: ...........................................................................
 
-Képviseli: Magyar Közút Nonprofit Zrt. .................................................. Megyei Igazgatóság,
+Képviseli: Magyar Közút Nonprofit Zrt. .................................................. Vármegyei Igazgatóság,
 
 aláírásra jogosult munkavállalója
 
@@ -74,4 +74,4 @@ képviselik: képviseli:
 
 A jegyzőkönyv mellékletei:
 
-[^4]: Az 1. melléklet a 289/2018. (XII. 21.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet a 289/2018. (XII. 21.) Korm. rendelet 29. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 263. §-a szerint módosított szöveg.
