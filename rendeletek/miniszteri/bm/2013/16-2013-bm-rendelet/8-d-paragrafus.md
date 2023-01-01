@@ -1,4 +1,4 @@
-## II/B. Fejezet[^19]
+## II/B. Fejezet[^20]
 
 ## AZ EGÉSZSÉGÜGYI ÁGAZAT SZERVEINEK HONVÉDELMI FELADATAI
 
@@ -52,7 +52,7 @@ a) a telepített gyógyintézeti felszerelések szállításának tervezéséhez
 
 b) útmutatót készít az egyes tartalékelemek telepítéséhez, meghatározza a telepítés forrásigényét.
 
-(9) Az egészségügyi szolgáltató vezetője a fővárosi és megyei, illetve az országos tervezési feladatok érdekében, a belügyminiszter által meghatározottak szerint adatot szolgáltat – különös tekintettel az ágyszámra, műtéti kapacitásra, egészségügyi szakdolgozói állományra, a felhasznált orvostechnikai eszközökre és gyógyszerekre vonatkozóan –, valamint jelzi az ezzel kapcsolatos többletigényeit.
+(9)[^21] Az egészségügyi szolgáltató vezetője a fővárosi és vármegyei, illetve az országos tervezési feladatok érdekében, a belügyminiszter által meghatározottak szerint adatot szolgáltat – különös tekintettel az ágyszámra, műtéti kapacitásra, egészségügyi szakdolgozói állományra, a felhasznált orvostechnikai eszközökre és gyógyszerekre vonatkozóan –, valamint jelzi az ezzel kapcsolatos többletigényeit.
 
 (10) A fekvőbeteg-szakellátó intézmény vezetője felelős
 
@@ -70,4 +70,5 @@ c) hadiállapot kihirdetése esetén gondoskodik a kórház épületeinek földr
 
 d) rendszeresen tájékoztatást ad a fegyveres összeütközés időszakában, valamint különleges jogrend idején történő működés többletigényeiről és költségeiről a területi védelmi bizottság és a belügyminiszter részére.
 
-[^19]: Az II/B. Fejezetet (8/D-8/E. §) a 41/2022. (XII. 9.) BM rendelet 14. §-a iktatta be.
+[^20]: Az II/B. Fejezetet (8/D-8/E. §) a 41/2022. (XII. 9.) BM rendelet 14. §-a iktatta be.
+[^21]: A 8/D. § (9) bekezdése a 79/2022. (XII. 28.) BM rendelet 2. §-a szerint módosított szöveg.
