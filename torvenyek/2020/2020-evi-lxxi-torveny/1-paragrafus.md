@@ -13,3 +13,5 @@ a) amely a Földforgalmi törvény 5. § 17. pontja szerinti alrészleteken kív
 b) amely az ingatlan-nyilvántartásban tanyaként szerepel, továbbá
 
 c) amely az ingatlan-nyilvántartás szerint a település zártkertjében fekszik és a földrészlet teljes területe – a tényleges használata alapján – nem minősül mező- vagy erdőgazdasági hasznosításúnak.
+
+(3) A (2) bekezdés c) pontjában foglaltaktól eltérően a 2. alcím rendelkezései a (2) bekezdés c) pontja szerinti ingatlanok tekintetében alkalmazhatóak abban az esetben, ha a 6. § (3) bekezdése szerinti egyezség a tulajdonostársak teljes körű beleegyezésével jön létre.

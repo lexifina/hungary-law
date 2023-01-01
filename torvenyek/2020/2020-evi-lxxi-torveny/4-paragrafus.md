@@ -4,7 +4,7 @@
 
 (3) A kérelmet vissza kell utasítani, ha
 
-a) az ingatlan tulajdoni lapján az Inytv. 17. § (1) bekezdés 4., 5., 6., 7., 8., 9., 15., 16., 18., 20., 21., 26., illetve 29. pontjában meghatározott tény szerepel;
+a) az ingatlan tulajdoni lapján az Inytv. 17. § (1) bekezdés 4., 5., 6., 7., 8., 9., 15., 16., 18., 20., 21., 26., 29., illetve 37. pontjában meghatározott tény szerepel;
 
 b) az érintett ingatlan tulajdoni lapján a folyamatban lévő megosztás ténye van feljegyezve;
 
@@ -28,7 +28,7 @@ f) a folyamatban lévő megosztás tényének bármely okból bekövetkezett tö
 
 (5) A folyamatban lévő megosztás tényének feljegyzését követően az ingatlan tulajdoni lapján és térképi állományán az öröklés miatt bekövetkezett tulajdonváltozás – ideértve az özvegyi jog bejegyzését is – és a kisajátítás – ideértve a kisajátítást pótló adásvétel és csere esetét is – kivételével más változtatás nem vezethető át. A tény feljegyzését követően benyújtott egyéb kérelmeket vagy megkereséseket az ingatlanügyi hatóság függőben tartja a megosztás tényének törléséig.
 
-(6) A folyamatban lévő megosztás tényét az ingatlanügyi hatóság hivatalból törli, ha a feljegyzést követő 90 napon belül nem kerül benyújtásra a megosztás átvezetése iránti kérelem.
+(6) A folyamatban lévő megosztás tényét az ingatlanügyi hatóság hivatalból törli, ha a feljegyzést követő 120 napon belül nem kerül benyújtásra a megosztás átvezetése iránti kérelem.
 
 (7) Az osztatlan közös tulajdon megszüntetéséért tizenötezer forint igazgatási szolgáltatási díjat kell fizetni.
 
