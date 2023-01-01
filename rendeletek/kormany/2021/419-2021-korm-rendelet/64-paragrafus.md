@@ -8,7 +8,7 @@
 
 a) államigazgatási szerv esetében a feladat- és hatáskörébe tartozó követelmények megállapítását,
 
-b) területi önkormányzat esetében a megyei területrendezési terveknek való megfelelés megállapítását, továbbá
+b)[^8] területi önkormányzat esetében a vármegyei területrendezési terveknek való megfelelés megállapítását, továbbá
 
 c) települési önkormányzat esetében a közigazgatási területét érintő infrastrukturális kapcsolatokra, valamint egyéb környezeti hatásokra vonatkozó észrevételeket.
 
@@ -24,6 +24,8 @@ b) az egyeztető tárgyaláson a szabályos meghívás ellenére nem vett részt
 
 c) az egyeztető tárgyaláson nem képviselteti magát, és levelében kifogást emelő véleményének fenntartását nem jelzi,
 
-## az adott eljárási szakaszban kifogást nem emelő véleményezőnek kell tekinteni.
+az adott eljárási szakaszban kifogást nem emelő véleményezőnek kell tekinteni.
 
 (7) Abban az esetben, ha az összevont telepítési eljárással egyidejűleg a településterv módosítása is szükséges, az eljárásba bevont szakhatóságok véleménye kiváltja a településterv egyeztetési eljárásában való részvételüket.
+
+[^8]: A 64. § (3) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.

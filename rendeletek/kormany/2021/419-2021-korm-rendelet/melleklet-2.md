@@ -1,6 +1,6 @@
 2. melléklet a 419/2021. (VII. 15.) Korm. rendelethez
 
-## AZ ALÁTÁMASZTÓ JAVASLAT TARTALMI KÖVETELMÉNYEI
+AZ ALÁTÁMASZTÓ JAVASLAT TARTALMI KÖVETELMÉNYEI
 
 1. Az alátámasztó javaslat
 

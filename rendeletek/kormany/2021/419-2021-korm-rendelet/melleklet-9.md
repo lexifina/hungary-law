@@ -1,6 +1,6 @@
 9. melléklet a 419/2021. (VII. 15.) Korm. rendelethez
 
-## A BIOLÓGIAI AKTIVITÁSÉRTÉK MUTATÓI
+A BIOLÓGIAI AKTIVITÁSÉRTÉK MUTATÓI
 
 1. Beépítésre szánt és beépítésre nem szánt területek biológiai aktivitásérték mutatói
 

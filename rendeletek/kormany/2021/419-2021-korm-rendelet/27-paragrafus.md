@@ -17,3 +17,5 @@ a) egyedi építészeti,
 b) területi építészeti és
 
 c) reklámokra, valamint a reklámhordozókra, cégérekre, cég- és üzletjelzésekre, továbbá az egyéb műszaki berendezésekre vonatkozó
+
+követelmény.

@@ -24,6 +24,8 @@ c) amennyiben indokolt, a kiemelt fejlesztési területté nyilvánítást és
 
 d) a 7. § (7) bekezdése szerinti feljegyzés elfogadását
 
-## együttesen tartalmazó döntése alapozza meg.
+együttesen tartalmazó döntése alapozza meg.
 
-(3) Ha az (1) bekezdés c) pontja szerinti egyeztetés típusa nem határozható meg egyértelműen, a polgármester, illetve a főpolgármester (a továbbiakban együtt: polgármester) egyeztetést kezdeményez a kérdés eldöntése érdekében az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnál (a továbbiakban: állami főépítész), amely az egyeztetés alapján javaslatot tesz az eljárás típusára.
+(3)[^7] Ha az (1) bekezdés c) pontja szerinti egyeztetés típusa nem határozható meg egyértelműen, a polgármester, illetve a főpolgármester (a továbbiakban együtt: polgármester) egyeztetést kezdeményez a kérdés eldöntése érdekében az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatalnál (a továbbiakban: állami főépítész), amely az egyeztetés alapján javaslatot tesz az eljárás típusára.
+
+[^7]: Az 59. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.

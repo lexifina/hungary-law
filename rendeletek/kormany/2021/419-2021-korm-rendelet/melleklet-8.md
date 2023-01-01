@@ -1,6 +1,6 @@
 8. melléklet a 419/2021. (VII. 15.) Korm. rendelethez
 
-## A KÖZTERÜLET-ALAKÍTÁSI TERV RÉSZLETES TARTALMI KÖVETELMÉNYEI
+A KÖZTERÜLET-ALAKÍTÁSI TERV RÉSZLETES TARTALMI KÖVETELMÉNYEI
 
 1. Helyszínrajz tervezett kialakítás, elrendezés
 

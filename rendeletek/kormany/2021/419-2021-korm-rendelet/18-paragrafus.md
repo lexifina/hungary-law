@@ -30,7 +30,7 @@ b) hatályos rendezési terv esetében az építési övezeti, övezeti besorol�
 
 c) hatályos településrendezési eszköz esetében a területfelhasználási egység vagy építési övezeti, övezeti besorolásnak
 
-## megfelelően.
+megfelelően.
 
 (8) A 9. melléklet 1. pontjában foglalt táblázatban az építési övezetekre megadott értékmutatók az OTÉK-ban meghatározott legkisebb vagy a 9. melléklet szerinti zöldfelületi arányokra vonatkoznak.
 

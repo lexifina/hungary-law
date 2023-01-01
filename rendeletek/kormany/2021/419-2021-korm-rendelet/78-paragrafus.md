@@ -2,13 +2,13 @@
 
 78. § (1) A településfejlesztési koncepció, az integrált településfejlesztési stratégia, településszerkezeti terv, a helyi építési szabályzat, a kerületi építési szabályzat, a fővárosi rendezési szabályzat, a településtervek, a kézikönyv és a településképi rendelet
 
-a)[^6] legkésőbb 2022. június 30-ig megkezdett készítése és módosítása során a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet (e § tekintetében a továbbiakban: korábbi R.) VI. Fejezetének eljárási rendelkezéseit,
+a)[^12] legkésőbb 2022. június 30-ig megkezdett készítése és módosítása során a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet (e § tekintetében a továbbiakban: korábbi R.) VI. Fejezetének eljárási rendelkezéseit,
 
-b)[^7] 2022. július 1-jétől történő készítése és módosítása során a VII–IX. Fejezet eljárási rendelkezéseit
+b)[^13] 2022. július 1-jétől történő készítése és módosítása során a VII–IX. Fejezet eljárási rendelkezéseit
 
-## kell alkalmazni.
+kell alkalmazni.
 
-(2)[^8] A II–IV. Fejezetben foglalt tartalmi követelmények szerint készült településrendezési terv, valamint ezek módosítása térképi munkarészeit – helyi építési szabályzat esetén a szabályozási tervi térképi munkarészt – shape-formátumban, a településtervezési szabályzatban foglalt követelmények szerint fel kell tölteni az E-TÉR-be. A településrendezési eszköz és azok módosítása térképi munkarészeit pdf/A formátumban kell feltölteni az E-TÉR-be. Az (1) bekezdés a) pontja szerinti eljárási szabályok betartásával készült településrendezési tervek térképi munkarészeit az elfogadásuktól számított 15 napon belül, az (1) bekezdés b) pontja szerint készülő településrendezési tervek, illetve ezek módosítása térképi munkarészeit a 72. § (1) bekezdés b) pontja szerint kell az E-TÉR-be feltölteni.
+(2)[^14] A II–IV. Fejezetben foglalt tartalmi követelmények szerint készült településrendezési terv, valamint ezek módosítása térképi munkarészeit – helyi építési szabályzat esetén a szabályozási tervi térképi munkarészt – shape-formátumban, a településtervezési szabályzatban foglalt követelmények szerint fel kell tölteni az E-TÉR-be. A településrendezési eszköz és azok módosítása térképi munkarészeit pdf/A formátumban kell feltölteni az E-TÉR-be. Az (1) bekezdés a) pontja szerinti eljárási szabályok betartásával készült településrendezési tervek térképi munkarészeit az elfogadásuktól számított 15 napon belül, az (1) bekezdés b) pontja szerint készülő településrendezési tervek, illetve ezek módosítása térképi munkarészeit a 72. § (1) bekezdés b) pontja szerint kell az E-TÉR-be feltölteni.
 
 (3) A fejlesztési terv és a rendezési terv készítése során – figyelemmel az (1) bekezdés a) pontjában foglaltakra –, ha a korábbi R.
 
@@ -16,7 +16,7 @@ a) településfejlesztési koncepciót, integrált településfejlesztési strat
 
 b) településrendezési eszközt, településszerkezeti tervet, helyi építési szabályzatot, kerületi építési szabályzatot, fővárosi rendezési szabályzatot említ, azon rendezési tervet
 
-## is érteni kell.
+is érteni kell.
 
 (4) A településfejlesztési koncepció, az integrált településfejlesztési stratégia, a településszerkezeti terv, a helyi építési szabályzat, a kerületi építési szabályzat, a fővárosi rendezési szabályzat 2022. január 1-jétől történő módosítása során – figyelemmel az (1) bekezdés b) pontjában foglaltakra –, ha a VII–IX. Fejezet vagy más jogszabály
 
@@ -26,7 +26,7 @@ b) fejlesztési tervet említ, azon településfejlesztési koncepciót, integr�
 
 c) rendezési tervet említ, azon településszerkezeti tervet, helyi építési szabályzatot, kerületi építési szabályzatot, fővárosi rendezési szabályzatot
 
-## is érteni kell.
+is érteni kell.
 
 (5) Településrendezési eszköz 2027. június 30-ig történő módosításakor a területek biológiai aktivitásértékének számítása során
 
@@ -42,6 +42,6 @@ b) a 18. § (5)–(9) bekezdéseit kell alkalmazni azzal, hogy az (5) bekezdésb
 
 (9) Az e rendelet hatálybalépése előtt megkezdett fejlesztésiterv- és rendezésiterv-készítés során elsőként a véleményezési szakaszban kell érvényesíteni az I–IV. Fejezet tartalmi követelményeit.
 
-[^6]: A 78. § (1) bekezdés a) pontja a 2/2022. (I. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^7]: A 78. § (1) bekezdés b) pontja a 2/2022. (I. 7.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^8]: A 78. § (2) bekezdése a 2/2022. (I. 7.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^12]: A 78. § (1) bekezdés a) pontja a 2/2022. (I. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^13]: A 78. § (1) bekezdés b) pontja a 2/2022. (I. 7.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^14]: A 78. § (2) bekezdése a 2/2022. (I. 7.) Korm. rendelet 7. §-ával megállapított szöveg.

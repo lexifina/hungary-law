@@ -1,5 +1,3 @@
-## követelmény.
-
 28. § (1) A helyi építészeti örökség területi védelme esetén és a településképi szempontból meghatározó területeknél bármilyen, e rendelet szerinti településképi követelmény megállapítható.
 
 (2) A helyi egyedi védelem esetén területi építészeti követelmény nem állapítható meg, egyéb településképi követelmény megállapítható.

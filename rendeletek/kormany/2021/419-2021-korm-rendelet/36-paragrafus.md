@@ -16,7 +16,7 @@ b) telken – ideértve a közterületi ingatlanokat is – a zöldfelületek ki
 
 c) sajátos építményfajták elsődleges elhelyezési területére és az anyaghasználatukra
 
-## határozható meg.
+határozható meg.
 
 (3) Az anyaghasználatra vonatkozó követelmény kiterjedhet az építmény, sajátos építményfajták építőanyagának településkaraktert befolyásoló anyagot, felületképzést vagy színt meghatározó valamely minőségi jellemzőjére.
 
@@ -30,7 +30,7 @@ c) tetőgerincének a telek homlokvonalához képest meghatározott irányainak 
 
 d) tetőfelépítményeivel, tetőzetet érintő nyílászáróival és egyéb műszaki berendezéseivel kapcsolatos követelmények
 
-## meghatározására.
+meghatározására.
 
 (5) A homlokzati kialakításra vonatkozó követelmény kiterjedhet az épület településkaraktert befolyásoló építészeti kialakításával összefüggésben
 
@@ -38,7 +38,7 @@ a) a homlokzati architektúra és a homlokzattagolás – nyílásrend, nyílás
 
 b) a kiegészítő elemek, egyéb műszaki berendezések homlokzaton történő elhelyezési módjának és lehetőségének
 
-## meghatározására.
+meghatározására.
 
 (6) Helyi egyedi védelem alatt álló építmény kivételével a (3)–(5) bekezdés szerinti egyedi építészeti követelmény az építmény közterületről, közhasználatú területről nem látható építményrészére, az építmény belső udvarára nem vonatkozhat, és kerítés esetében csak a közterületi telekhatáron lévő kerítésre állapítható meg településképi követelmény.
 
@@ -49,3 +49,5 @@ a) a fás szárú növényfaj vagy növényfajok telepíthetőségének,
 b) a fás szárú növényfaj vagy növényfajok településképi illeszkedési követelményeinek és
 
 c) a zöldfelületen elhelyezhető kerti építmények településképi illeszkedési követelményeinek
+
+meghatározására.

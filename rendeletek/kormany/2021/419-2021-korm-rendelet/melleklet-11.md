@@ -1,5 +1,3 @@
-## A TELEPÜLÉSTERV, A TELEPÜLÉSKÉPI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RENDELET KÉSZÍTÉSÉHEZ, MÓDOSÍTÁSÁHOZ KIJELÖLT ADATSZOLGÁLTATÓK
-
 |  | A | B | C |
 
 | 1. | TÉRADAT, NYILVÁNTARTÁSI ADAT ELNEVEZÉSE | ADATSZOLGÁLTATÓ A LECHNER TUDÁSKÖZPONT FELÉ | ADATSZOLGÁLTATÓ AZ ÖNKORMÁNYZAT FELÉ |
@@ -54,7 +52,7 @@
 
 | 26. | Régészeti védőövezet | – | Lechner Tudásközpont |
 
-| 27. | Erdők övezete, erdőterület rendeltetése és az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületek | megyei kormányhivatalok | Lechner Tudásközpont |
+| 27. | Erdők övezete, erdőterület rendeltetése és az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületek | vármegyei kormányhivatalok | Lechner Tudásközpont |
 
 | 28. | Natura 2000 terület különleges madárvédelmi terület | Agrárminisztérium | Lechner Tudásközpont |
 
@@ -92,13 +90,13 @@
 
 | 45. | Légszennyező forrás védelmi övezete | Agrárminisztérium | Lechner Tudásközpont |
 
-| 46. | Hulladékgazdálkodási adatok | fővárosi és megyei kormányhivatalok | Lechner Tudásközpont |
+| 46. | Hulladékgazdálkodási adatok | fővárosi és vármegyei kormányhivatalok | Lechner Tudásközpont |
 
-| 47. | Környezetvédelmi határozatokban meghatározott védőterületek, védőtávolságok, kármentesítéssel érintett területek | fővárosi és megyei kormányhivatalok | Lechner Tudásközpont |
+| 47. | Környezetvédelmi határozatokban meghatározott védőterületek, védőtávolságok, kármentesítéssel érintett területek | fővárosi és vármegyei kormányhivatalok | Lechner Tudásközpont |
 
-| 48. | Zaj- és rezgésvédelmi adatok | fővárosi és megyei kormányhivatalok | Lechner Tudásközpont |
+| 48. | Zaj- és rezgésvédelmi adatok | fővárosi és vármegyei kormányhivatalok | Lechner Tudásközpont |
 
-| 49. | Környezetvédelmi határozatokban meghatározott védőterületek, védőtávolságok, kármentesítéssel érintett területek | fővárosi és megyei kormányhivatalok | Lechner Tudásközpont |
+| 49. | Környezetvédelmi határozatokban meghatározott védőterületek, védőtávolságok, kármentesítéssel érintett területek | fővárosi és vármegyei kormányhivatalok | Lechner Tudásközpont |
 
 | 50. | Ásványi nyersanyagvagyon övezete, földtani veszélyforrás terület övezete | bányafelügyelet | Lechner Tudásközpont |
 
@@ -202,11 +200,11 @@
 
 | 100. | Kikötő | közlekedésért felelős miniszter | Lechner Tudásközpont |
 
-| 101. | Veszélyes hulladék kezelő | fővárosi és megyei kormányhivatalok | Lechner Tudásközpont |
+| 101. | Veszélyes hulladék kezelő | fővárosi és vármegyei kormányhivatalok | Lechner Tudásközpont |
 
 | 102. | Radioaktív hulladék tároló | Agrárminisztérium | Lechner Tudásközpont |
 
-| 103. | Hulladékkezelő | fővárosi és megyei kormányhivatalok | Lechner Tudásközpont |
+| 103. | Hulladékkezelő | fővárosi és vármegyei kormányhivatalok | Lechner Tudásközpont |
 
 | 104. | Gyógyhelyek | Budapest Főváros Kormányhivatala | Lechner Tudásközpont |
 
@@ -242,7 +240,7 @@
 
 | 120. | Termékvezeték biztonsági övezete | MOL | Lechner Tudásközpont |
 
-| 121. | Területfejlesztési és területrendezési dokumentumok | – | érintett és közigazgatási határral szomszédos területi (megyei, fővárosi) önkormányzat |
+| 121. | Területfejlesztési és területrendezési dokumentumok | – | érintett és közigazgatási határral szomszédos területi (vármegyei, fővárosi) önkormányzat |
 
 | 122. | Hatályos helyi építési szabályzat, kerületi építési szabályzat, fővárosi rendezési szabályzat, valamint a településfejlesztési döntések | – | közigazgatási határral szomszédos települési (fővárosban fővárosi és kerületi) önkormányzat |
 
@@ -262,7 +260,7 @@ A TELEPÜLÉSTERV, A TELEPÜLÉSI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RE
 
 | 4. | a Balaton vízparti területeit érintő településterv esetén a területrendezésért felelős miniszter | területrendezés | – | – |
 
-| 5. | környezetvédelmi és természetvédelmi hatáskörben megyei kormányhivatal | környezetvédelem, természet- és tájvédelem | – | – |
+| 5. | környezetvédelmi és természetvédelmi hatáskörben vármegyei kormányhivatal[^22] | környezetvédelem, természet- és tájvédelem | – | – |
 
 | 6. | nemzeti park igazgatóság | természet- és tájvédelem | természet- és tájvédelem | természet- és tájvédelem |
 
@@ -274,9 +272,9 @@ A TELEPÜLÉSTERV, A TELEPÜLÉSI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RE
 
 | 10. | területi vízügyi igazgatási szerv | a vizek védelmével, illetve kártételeinek elhárításával összefüggő alapvető szempontok teljesülése, a környezet- és természetvédelmi követelményekre figyelemmel | – | – |
 
-| 11. | fővárosi és megyei katasztrófavédelmi igazgatóság | polgári védelem, iparbiztonság | – | – |
+| 11. | fővárosi és vármegyei katasztrófavédelmi igazgatóság[^23] | polgári védelem, iparbiztonság | – | – |
 
-| 12. | népegészségügyi hatáskörében eljáró fővárosi és megyei kormányhivatal | közegészségügy | – | – |
+| 12. | népegészségügyi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^24] | közegészségügy | – | – |
 
 | 13. | Budapest Főváros Kormányhivatala | közlekedés: gyorsforgalmi utat, közúti határátkelőhelyet, szintbeli közúti-vasúti átjárót érintő településrendezési eszköz esetében | – | – |
 
@@ -284,19 +282,19 @@ A TELEPÜLÉSTERV, A TELEPÜLÉSI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RE
 
 | 15. | a) légiközlekedési hatóság b) katonai légügyi hatóság | közlekedés: légi közlekedéssel érintett település esetében: a) polgári célú légiközlekedés tekintetében b) állami célú légiközlekedés tekintetében | – | – |
 
-| 16. | közlekedési hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal | közlekedés: a 12–14. pont kivételével minden közúti közlekedési ügyben | – | – |
+| 16. | közlekedési hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^25] | közlekedés: a 12–14. pont kivételével minden közúti közlekedési ügyben | – | – |
 
-| 17. | örökségvédelmi hatáskörében eljáró fővárosi és megyei kormányhivatal | régészeti örökség és műemléki érték, világörökségi és világörökségi várományos terület védelme | a világörökségi, műemléki és régészeti érték védelme | a világörökségi, műemléki és régészeti érték védelme |
+| 17. | örökségvédelmi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^26] | régészeti örökség és műemléki érték, világörökségi és világörökségi várományos terület védelme | a világörökségi, műemléki és régészeti érték védelme | a világörökségi, műemléki és régészeti érték védelme |
 
-| 18. | talajvédelmi hatáskörében eljáró fővárosi és megyei kormányhivatal | talajvédelem | – | – |
+| 18. | talajvédelmi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^27] | talajvédelem | – | – |
 
-| 19. | ingatlanügyi, földügyi igazgatási hatáskörében eljáró fővárosi és megyei kormányhivatal | földvédelem | – | – |
+| 19. | ingatlanügyi, földügyi igazgatási hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^28] | földvédelem | – | – |
 
-| 20. | erdészeti hatáskörében eljáró megyei kormányhivatal, Nemzeti Földügyi Központ | erdőrendezés, erdővédelem | – | – |
+| 20. | erdészeti hatáskörében eljáró vármegyei kormányhivatal, Nemzeti Földügyi Központ[^29] | erdőrendezés, erdővédelem | – | – |
 
 | 21. | honvédelemért felelős miniszter | honvédelem | honvédelmi és katonai rendeltetésű terület érintettsége esetén honvédelem | honvédelmi és katonai rendeltetésű terület érintettsége esetén honvédelem |
 
-| 22. | fővárosi és megyei rendőr-főkapitányság | határrendészet | – | – |
+| 22. | fővárosi és vármegyei rendőr-főkapitányság[^30] | határrendészet | – | – |
 
 | 23. | bányafelügyelet | bányászat, geológia, morfológia, földtani veszélyforrások | – | – |
 
@@ -308,6 +306,17 @@ A TELEPÜLÉSTERV, A TELEPÜLÉSI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RE
 
 | 27. | Magyar Építész Kamara | – | településkép-védelem | – |
 
-| 28. | érintett és közigazgatási határral szomszédos területi (megyei, fővárosi) önkormányzat | területrendezés, településfejlesztés | – | – |
+| 28. | érintett és közigazgatási határral szomszédos területi (vármegyei, fővárosi) önkormányzat[^31] | területrendezés, településfejlesztés | – | – |
 
 | 29. | érintett kiemelt térségi fejlesztési tanács | a kiemelt térség fejlesztési koncepcióval való összhang megteremtése | – | – |
+
+[^22]: A 11. mellékletben foglalt táblázat A:5 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^23]: A 11. mellékletben foglalt táblázat A:11 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^24]: A 11. mellékletben foglalt táblázat A:12 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^25]: A 11. mellékletben foglalt táblázat A:16 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^26]: A 11. mellékletben foglalt táblázat A:17. mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^27]: A 11. mellékletben foglalt táblázat A:18 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^28]: A 11. mellékletben foglalt táblázat A:19 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^29]: A 11. mellékletben foglalt táblázat A:20 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^30]: A 11. mellékletben foglalt táblázat A:22 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^31]: A 11. mellékletben foglalt táblázat A:28 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.

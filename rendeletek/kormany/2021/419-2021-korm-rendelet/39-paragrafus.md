@@ -6,7 +6,7 @@ a) a településkép védelméről szóló törvény reklámok közzétételéve
 
 b) a települési környezet egységes elvek szerinti rendezett és esztétikus kialakítása, illetve igényes fenntartása érdekében
 
-## kell meghatározni.
+kell meghatározni.
 
 (2) Településképi követelmény
 
@@ -19,3 +19,5 @@ c) a reklám-elhelyezési kormányrendeletben a reklámhordozókra meghatározot
 d) az elhelyezhető reklámhordozók és egyéb műszaki berendezések számára és elhelyezésük módjára és
 
 e) az elhelyezhető reklámhordozók és egyéb műszaki berendezések anyaghasználatára
+
+határozható meg.

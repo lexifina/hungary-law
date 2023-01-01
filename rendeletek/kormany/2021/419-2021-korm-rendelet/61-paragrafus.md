@@ -18,6 +18,6 @@ a) – a b) pontban foglalt kivétellel – a Lechner Tudásközpont, vagy
 
 b) a 10. melléklet 121–123. sorában szereplő adatok tekintetében az adott sorban meghatározott szerv
 
-## biztosítja.
+biztosítja.
 
 (3) A polgármester és az (1) bekezdés b) pontjában meghatározott tervező az egyeztetési eljárás végéig hozzáférést kap a 10. melléklet szerinti adatszolgáltatáshoz.

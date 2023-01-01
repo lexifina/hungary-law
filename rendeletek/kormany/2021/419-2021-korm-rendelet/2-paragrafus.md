@@ -1,5 +1,3 @@
-## terjed ki.
-
 ## 2. § E rendelet alkalmazásában
 
 1. arculati jellemző: a települési környezet vizuális megjelenését meghatározó jellemző, amely lehet kulturális, léptékbeli, formai, anyaghasználati és minőségi;

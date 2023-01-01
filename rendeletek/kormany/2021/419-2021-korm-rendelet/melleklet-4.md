@@ -1,6 +1,6 @@
 4. melléklet a 419/2021. (VII. 15.) Korm. rendelethez
 
-## A HELYI ÉPÍTÉSI SZABÁLYZAT TARTALMI KÖVETELMÉNYEI
+A HELYI ÉPÍTÉSI SZABÁLYZAT TARTALMI KÖVETELMÉNYEI
 
 1. A helyi építési szabályzat tartalmazza minden település esetében legalább
 

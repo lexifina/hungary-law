@@ -8,7 +8,7 @@ b) elírás javítása, rajzi feldolgozásból, méretarányból adódó pontatl
 
 c) a településképi rendelettel történő összhang megteremtése
 
-## érdekében történik.
+érdekében történik.
 
 (2) Nem kell megalapozó vizsgálatot és alátámasztó javaslatot készíteni az (1) bekezdésben foglaltakon túl, ha a 7. § (7) bekezdése szerinti feljegyzés szerint az nem indokolt, mert a településterv módosításánál a következő feltételek együttesen teljesülnek:
 

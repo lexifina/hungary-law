@@ -8,7 +8,7 @@ a) tervkészítés esetén a véleményezési szakasz kezdetétől számított 3
 
 b) településterv módosítása esetén a véleményezési szakasz kezdetétől számított 15 napon belül
 
-## tölti fel írásos véleményét.
+tölti fel írásos véleményét.
 
 (3) A véleményét a véleményezésre jogosult szerv a 64. §-ban, a partner a 65. §-ban foglaltak szerint adja meg.
 
@@ -18,7 +18,7 @@ a) a partner esetében emlékeztetőt,
 
 b) a véleményezésre jogosult szerv esetében jegyzőkönyvet
 
-## kell készíteni.
+kell készíteni.
 
 (5) A véleményezésre jogosult szerv és a partner számára a polgármester a (4) bekezdés szerinti kezdeményezéstől számított 8 napon belüli időpontra biztosít egyeztetési lehetőséget.
 

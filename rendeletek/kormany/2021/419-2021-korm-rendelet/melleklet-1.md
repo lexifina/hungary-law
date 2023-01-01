@@ -1,6 +1,6 @@
 1. melléklet a 419/2021. (VII. 15.) Korm. rendelethez
 
-## A MEGALAPOZÓ VIZSGÁLAT TARTALMI KÖVETELMÉNYEI
+A MEGALAPOZÓ VIZSGÁLAT TARTALMI KÖVETELMÉNYEI
 
 1. A megalapozó vizsgálat a településterv készítése és módosítása esetén a település vagy településrész helyzetelemzése és helyzetértékelése, amely szöveges és – a tervezés szempontjából releváns elemek, területek tekintetében – rajzi, táblázatos vagy grafikonos formában tartalmazza a vizsgálati tényezőkhöz tartozó elemeket, azok elemzését, egymásra hatásuk összevetését és a település adottságainak, lehetőségeinek és a fejlesztés korlátainak az összefoglalását.
 

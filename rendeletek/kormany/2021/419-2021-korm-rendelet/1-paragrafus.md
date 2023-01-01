@@ -17,3 +17,5 @@ d) egyes településrendezési sajátos jogintézményekre,
 e) a településkép-védelmi tájékoztatásra és szakmai konzultációra, továbbá
 
 f) a fejlesztési terv, a rendezési terv, a közterület-alakítási terv, a településképi arculati kézikönyv (a továbbiakban: kézikönyv) és a településképi rendelet elkészítésének, egyeztetésének, elfogadásának és módosításának rendjére
+
+terjed ki.

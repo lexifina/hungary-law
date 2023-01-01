@@ -1,12 +1,10 @@
-## határozható meg.
-
 ## 25. A miniszter előzetes véleményezési jogköre
 
-40. § (1)[^2] A Kormány az állami magasépítési beruházások megvalósításáról szóló törvény szerinti állami magasépítési beruházás (a továbbiakban: állami magasépítési beruházás), valamint a 41. § szerinti építési beruházások (a továbbiakban együtt: építési beruházás) vázlatterveinek, építészeti-műszaki, illetve kivitelezési dokumentációnak országkép- és településkép-védelmi szempontú előzetes véleményezésére (a továbbiakban: előzetes településképi vélemény kialakítása) a minisztert jelöli ki.
+40. § (1)[^3] A Kormány az állami magasépítési beruházások megvalósításáról szóló törvény szerinti állami magasépítési beruházás (a továbbiakban: állami magasépítési beruházás), valamint a 41. § szerinti építési beruházások (a továbbiakban együtt: építési beruházás) vázlatterveinek, építészeti-műszaki, illetve kivitelezési dokumentációnak országkép- és településkép-védelmi szempontú előzetes véleményezésére (a továbbiakban: előzetes településképi vélemény kialakítása) a minisztert jelöli ki.
 
 (2) A miniszter (1) bekezdés szerinti előzetes véleményezési jogköre nem terjed ki
 
-a)[^3] a helyi önkormányzat állami magasépítési beruházásnak nem minősülő építési beruházására,
+a)[^4] a helyi önkormányzat állami magasépítési beruházásnak nem minősülő építési beruházására,
 
 b) a kiemelt nemzeti emlékhelyen megvalósított építési beruházásra.
 
@@ -18,7 +16,7 @@ a) saját költségvetési előirányzata vagy
 
 b) központi költségvetésből származó egyéb támogatás
 
-## terhére nem folytathatja.
+terhére nem folytathatja.
 
 (5) A miniszter előzetes településképi véleményének kialakítása érdekében az (1) bekezdés hatálya alá tartozó beruházó (a továbbiakban: beruházó) elektronikus úton megküldi a véleményezendő vázlattervet .pdf/A formátumban a Lechner Tudásközpont által üzemeltetett Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus Dokumentációs Rendszeren keresztül (a továbbiakban: ÉTDR).
 
@@ -36,7 +34,7 @@ e) a tervezett építési beruházás által érintett ingatlan vagy ingatlanok 
 
 (7) A miniszter a (6) bekezdés szerinti hiánytalan feltöltést követő munkanaptól számított 15 napon belül az ÉTDR-en keresztül küldi meg előzetes településképi véleményét a beruházó részére.
 
-(7a)[^4] A miniszter az előzetes településképi véleménye kialakítása során szakértőként bevonhatja a központi építészeti-műszaki tervtanácsot.
+(7a)[^5] A miniszter az előzetes településképi véleménye kialakítása során szakértőként bevonhatja a központi építészeti-műszaki tervtanácsot.
 
 (8) Ha a miniszter a (7) bekezdésben foglalt határidőn belül nem nyilvánít véleményt, az előzetes településképi hozzájárulást megadottnak kell tekinteni.
 
@@ -50,6 +48,6 @@ b) helyszínrajzot a telepítés, a településképbe és környezetbe illeszked
 
 c) az esztétikus megjelenést – tömegalakítást, színezést, anyaghasználatot, a rálátást – bemutató, továbbá a környezetbe illeszkedést és a településkép-védelmet alátámasztó valamennyi homlokzatot, látványtervet vagy fotómontázst.
 
-[^2]: A 40. § (1) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^3]: A 40. § (2) bekezdés a) pontja a 315/2022. (VIII. 16.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
-[^4]: A 40. § (7a) bekezdését a 315/2022. (VIII. 16.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^3]: A 40. § (1) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^4]: A 40. § (2) bekezdés a) pontja a 315/2022. (VIII. 16.) Korm. rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^5]: A 40. § (7a) bekezdését a 315/2022. (VIII. 16.) Korm. rendelet 7. § (2) bekezdése iktatta be.

@@ -1,5 +1,3 @@
-## meghatározására.
-
 37. § (1) A településképi rendeletben a településképi szempontok figyelembevételével meg lehet határozni
 
 a) a teljes település ellátását biztosító felszíni energiaellátási és elektronikus hírközlési sajátos építmények, műtárgyak elhelyezésére elsősorban alkalmas területeket és

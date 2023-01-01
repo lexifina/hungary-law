@@ -22,7 +22,7 @@ a) megalapozó vizsgálat és alátámasztó javaslat – ideértve a nem e rend
 
 b) a településterv módosításához, településtervezői jogosultsággal rendelkező tervező és szükség esetén településtervezői szakági tervező által készített telepítési tanulmányterv
 
-## felhasználható a településterv készítésénél és módosításánál, azonban azokat a tervezési cél megvalósulása érdekében – figyelemmel az érintett tervezési területre, tervezési feladatra és annak települési összefüggéseire – aktualizálni kell.
+felhasználható a településterv készítésénél és módosításánál, azonban azokat a tervezési cél megvalósulása érdekében – figyelemmel az érintett tervezési területre, tervezési feladatra és annak települési összefüggéseire – aktualizálni kell.
 
 (6) A fejlesztési terv és rendezési terv készítése vagy ezek módosítása során közös megalapozó vizsgálat és alátámasztó javaslat készül, a fejlesztési terv és a rendezési terv megalapozását és alátámasztását maradéktalanul biztosító tartalommal és részletezettséggel.
 
@@ -32,7 +32,7 @@ a) a település önkormányzati főépítésze vagy
 
 b) a települési önkormányzati főépítész egyetértésével a településtervezés felelős tervezője vagy az önkormányzat által a településtervezéssel megbízott településtervező (a továbbiakban együtt: tervező)
 
-## határozza meg az (1)–(6) bekezdés alapján, a képviselő-testületnek címzett feljegyzésben.
+határozza meg az (1)–(6) bekezdés alapján, a képviselő-testületnek címzett feljegyzésben.
 
 (8) A (7) bekezdés szerinti feljegyzést a képviselő-testületnek jóvá kell hagynia, és az a megalapozó vizsgálat és az alátámasztó javaslat mellékletének részét képezi. A feljegyzésben szereplő tartalom a tervezés során csak a tervezési feladat változása vagy a tervezési terület csökkenése miatt csökkenthető, ugyanakkor a (2) bekezdésben foglalt követelmények teljesülése érdekében, a tervező által a feljegyzés módosítása nélkül kiegészíthető.
 

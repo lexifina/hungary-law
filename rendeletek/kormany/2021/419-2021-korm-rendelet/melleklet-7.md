@@ -1,4 +1,4 @@
-## A SZABÁLYOZÁSI TERVBEN ALKALMAZHATÓ SZABÁLYOZÁSI ELEMEK
+## 1X06237_0
 
 |  | A | B |
 
@@ -256,7 +256,7 @@
 
 7. melléklet a 419/2021. (VII. 15.) Korm. rendelethez
 
-## A TELEPÍTÉSI TANULMÁNYTERV TARTALMI KÖVETELMÉNYEI
+A TELEPÍTÉSI TANULMÁNYTERV TARTALMI KÖVETELMÉNYEI
 
 1. A telepítési tanulmányterv a településterv készítésének vagy módosításának megalapozása érdekében, egy adott vagy leendő fejlesztési akcióterület vagy egyéb fejlesztéssel, módosítással érintett területének (a továbbiakban: terület) tekintetében tartalmazza
 

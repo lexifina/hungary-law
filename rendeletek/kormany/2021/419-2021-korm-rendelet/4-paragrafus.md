@@ -20,6 +20,6 @@ a) az e rendeletben foglalt követelmények alapján és
 
 b) a településtervezési szabályzatban foglalt műszaki elvárások és technikai szabályok figyelembevételével
 
-## készül.
+készül.
 
 (5) A (4) bekezdés szerinti településtervezési szabályzatot a miniszter által vezetett minisztérium honlapján az alkalmazandóságának megkezdése előtt legalább 30 nappal közzé kell tenni.

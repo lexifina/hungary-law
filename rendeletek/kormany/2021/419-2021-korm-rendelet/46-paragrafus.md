@@ -10,7 +10,7 @@ ba) a reklám-elhelyezési kormányrendeletben szereplő általános elhelyezés
 
 bb) a különös településképi követelmények meghatározásának hiányában a reklám-elhelyezési kormányrendeletben szereplő általános elhelyezési követelmények
 
-## érvényesítése érdekében.
+érvényesítése érdekében.
 
 (2) Ha az önkormányzat településképi rendeletében bejelentési eljárás lefolytatásához kötötte, településképi bejelentési eljárást folytat le
 
@@ -18,7 +18,7 @@ a) az építésügyi és építésfelügyeleti hatósági eljárásokról és el
 
 b) az Étv. 33/A. §-a szerinti egyszerű bejelentéshez
 
-## nem kötött építési tevékenységek tekintetében.
+nem kötött építési tevékenységek tekintetében.
 
 (3) Az önkormányzat nem folytathat le településképi bejelentési eljárást
 
@@ -26,7 +26,7 @@ a) a műemléket, műemléki környezetet vagy műemléki területet érintő, a
 
 b) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben építési engedélyhez és az Étv. 33/A. §-a szerinti egyszerű bejelentéshez nem kötött kutatási, vizsgálati, kiállítási célt szolgáló és lakó rendeltetést bemutató épület építése
 
-## esetében.
+esetében.
 
 (4) A bejelentési eljárás során
 
@@ -36,7 +36,7 @@ b) a hiánypótlás és
 
 c) az ügyfél által tett nyilatkozat
 
-## elektronikus úton vagy – természetes személy esetén – papír alapon, írásban terjeszthető elő.
+elektronikus úton vagy – természetes személy esetén – papír alapon, írásban terjeszthető elő.
 
 (5) A bejelentés tartalmazza:
 

@@ -14,6 +14,6 @@ bb) a fővárosi helyi egyedi védelem fennmaradásának biztosítására és
 
 bc) a főváros településképi szempontból meghatározó területeire
 
-## fogadja el.
+fogadja el.
 
 (3) A kerületi önkormányzat a kézikönyvet a fővárosi kézikönyv figyelembevételével, az abban foglaltakkal összhangban levő tartalommal fogadja el.
