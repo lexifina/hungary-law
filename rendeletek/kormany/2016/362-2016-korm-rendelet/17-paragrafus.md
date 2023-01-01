@@ -1,3 +1,3 @@
-## 16. §[^19]
+17. §[^27]
 
-[^19]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 17. §-t a 360/2019. (XII. 30.) Korm. rendelet 156. § (5) bekezdés e) pontja hatályon kívül helyezte.

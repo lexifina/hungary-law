@@ -7,3 +7,5 @@ a) – a büntetés-végrehajtással összefüggő pártfogó felügyelői felad
 b) jogi segítségnyújtó szolgálatként,
 
 c) áldozatsegítő szolgálatként
+
+– az e rendeletben meghatározott feladatok ellátására – az igazságügyi minisztert (a továbbiakban: miniszter) jelöli ki.
