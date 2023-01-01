@@ -16,7 +16,7 @@ e) az iparügyekért felelős miniszter által megállapítást nyer, hogy az Ip
 
 f) a tudománypolitika koordinációjáért felelős miniszter által megállapítást nyer, hogy a Tudományos és Innovációs Park címet viselő szervezet az e címhez kötött pályázaton elnyert támogatást nem a támogatási szerződésben meghatározott célra használja fel,
 
-## és a címviselő a felszólítás közlését követő 45 napon belül nem pótolja vagy korrigálja a kötelezettség teljesítését.
+és a címviselő a felszólítás közlését követő 45 napon belül nem pótolja vagy korrigálja a kötelezettség teljesítését.
 
 (3) Az Ipari Park, a Technológiai Park esetében az iparügyekért felelős miniszter és a Tudományos és Innovációs Park esetében a tudománypolitika koordinációjáért felelős miniszter megvonja a címet a 9. § (1) bekezdésében meghatározott kötelezettség elmulasztása esetén, ha a címviselő a (2) bekezdésben meghatározott felfüggesztés hatálybalépését követő 30 napon belül sem pótolja vagy korrigálja a kötelezettség teljesítését.
 

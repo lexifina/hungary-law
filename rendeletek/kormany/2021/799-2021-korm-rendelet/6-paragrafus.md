@@ -24,7 +24,7 @@ c) elsősorban közhasznú jogállású nonprofit gazdasági társasági formáb
 
 (9) A pályázónak a pályázat benyújtásakor rendelkeznie kell a helyi önkormányzat támogató nyilatkozatával az ipari park és a technológiai park létrehozásának vonatkozásában.
 
-(10) A pályázónak rendelkeznie kell a területfejlesztés térségi feladatait ellátó, területileg érintett szervek – a megyei önkormányzat, a fővárosi önkormányzat, a regionális területfejlesztési konzultációs fórum, a megyei területfejlesztési konzultációs fórum, a térségi fejlesztési tanács, a kiemelt térségi fejlesztési tanács vagy a területi államigazgatási szervek – ipari park, technológiai park vagy tudományos és innovációs park létrehozását támogató nyilatkozatával.
+(10)[^2] A pályázónak rendelkeznie kell a területfejlesztés térségi feladatait ellátó, területileg érintett szervek – a vármegyei önkormányzat, a fővárosi önkormányzat, a regionális területfejlesztési konzultációs fórum, a vármegyei területfejlesztési konzultációs fórum, a térségi fejlesztési tanács, a kiemelt térségi fejlesztési tanács vagy a területi államigazgatási szervek – ipari park, technológiai park vagy tudományos és innovációs park létrehozását támogató nyilatkozatával.
 
 (11) Az Ipari Park és a Technológiai Park esetében a pályázónak rendelkeznie kell betelepülési szerződéssel.
 
@@ -109,3 +109,5 @@ c) az államháztartás alrendszereiből juttatott támogatásra vonatkozó szer
 (19) Technológiai Park címre pályázhat az az Ipari Park címmel rendelkező szervezet vagy az (1) bekezdésben meghatározott pályázó, amelynek fennálló együttműködési vagy kutatási szerződése van felsőoktatási intézménnyel vagy a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 42/A. §-a szerinti kutatóhellyel, és a park területére betelepült vállalkozások közül legalább három együttműködik KFI tevékenység végzésében.
 
 (20) Ha a Tudományos és Innovációs Park cím elnyerése iránti pályázatot konzorcium nyújtja be, akkor a felsőoktatási intézménynek vagy a kapcsolódó intézménynek rendelkeznie kell szellemi tulajdon hasznosítására vonatkozó szabályzattal.
+
+[^2]: A 6. § (10) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 320. §-a szerint módosított szöveg.
