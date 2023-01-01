@@ -56,7 +56,7 @@
 
 4. melléklet a 27/2020. (VII. 17.) BM rendelethez
 
-## Az iskolaőr fizikai alkalmassága minősítésének adattartalma
+Az iskolaőr fizikai alkalmassága minősítésének adattartalma
 
 1. A vizsgálatra küldő szerv megnevezése,
 

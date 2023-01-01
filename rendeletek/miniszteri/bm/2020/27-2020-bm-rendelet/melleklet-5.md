@@ -1,6 +1,6 @@
 5. melléklet a 27/2020. (VII. 17.) BM rendelethez
 
-## A fizikai állóképességi vizsgálatról való távolmaradáshoz szükséges orvosi igazolás adattartalma
+A fizikai állóképességi vizsgálatról való távolmaradáshoz szükséges orvosi igazolás adattartalma
 
 1. Az egészségügyi alapellátó szervezeti egység megnevezése,
 

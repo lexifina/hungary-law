@@ -1,6 +1,6 @@
 8. melléklet a 27/2020. (VII. 17.) BM rendelethez
 
-## Az iskolaőr szolgálati igazolványának leírása
+Az iskolaőr szolgálati igazolványának leírása
 
 1. Az iskolaőr szolgálati igazolványának (e melléklet alkalmazásában a továbbiakban: igazolvány) felépítése és megjelenése:
 

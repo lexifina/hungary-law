@@ -4,7 +4,7 @@
 
 1. melléklet a 27/2020. (VII. 17.) BM rendelethez
 
-## Igazolás adattartalma fizikai állóképességi vizsgálaton való részvételhez
+Igazolás adattartalma fizikai állóképességi vizsgálaton való részvételhez
 
 1. A jelentkező/iskolaőr
 

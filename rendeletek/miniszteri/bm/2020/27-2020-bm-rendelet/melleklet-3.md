@@ -1,5 +1,3 @@
-## Az egyes mozgásformák végrehajtásának leírása
-
 | 1. | A | B | C | D |
 
 | 1. gyakorlat Mellső fekvőtámaszban karhajlítás, karnyújtás | 2. gyakorlat Hanyatt fekvésből felülés | 3. gyakorlat 1500 méteres síkfutás |
@@ -20,7 +18,7 @@
 
 3. melléklet a 27/2020. (VII. 17.) BM rendelethez
 
-## A fizikai állóképességi követelmények eredményének pontérték táblázata
+A fizikai állóképességi követelmények eredményének pontérték táblázata
 
 I. korcsoport
 

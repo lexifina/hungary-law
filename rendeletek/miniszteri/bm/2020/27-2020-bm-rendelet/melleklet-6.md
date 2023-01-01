@@ -1,6 +1,6 @@
 6. melléklet a 27/2020. (VII. 17.) BM rendelethez
 
-## Az iskolaőr pszichológiai alkalmassága minősítésének adattartalma
+Az iskolaőr pszichológiai alkalmassága minősítésének adattartalma
 
 1. A pszichológiai alkalmassági vizsgálattal érintett személy
 
