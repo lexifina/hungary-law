@@ -4,7 +4,7 @@ a)[^19] természetes személyazonosító és lakcímadatokat a személyi adat- �
 
 b)[^20] Társadalombiztosítási Azonosító Jelet a Magyar Államkincstár TAJ szám nyilvántartásából
 
-## való adatigénylés útján ellenőrzi.
+való adatigénylés útján ellenőrzi.
 
 (2) Ha az eljáró hatóság azt állapítja meg, hogy a kérelmet benyújtó személy vagy az adott ellátás megállapítása során figyelembe vett más személy már szerepel a Nyilvántartásban, és az ellátásra való jogosultság feltételei fennállnak, az új ellátásra vonatkozó adatokat a Nyilvántartásban már szereplő adatokhoz kapcsoltan rögzíti.
 
