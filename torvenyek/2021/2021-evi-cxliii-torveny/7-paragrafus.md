@@ -6,7 +6,7 @@ a) a gazdaságátadási szerződés 3. § (1) bekezdése szerinti jellege alapj�
 
 b) a gazdaság elemeinek pontos meghatározását,
 
-c) a gazdaság egyes elemeihez kapcsolódó fennálló polgári jogi szerződések felsorolását, és annak az igazolását, hogy a gazdaságátvevő megismerte az azokból fakadó jogokat és kötelezettségeket,
+c) a gazdaság egyes elemeihez kapcsolódó polgári jogi szerződések felsorolását, és annak az igazolását, hogy a gazdaságátvevő megismerte az azokból fakadó jogokat és kötelezettségeket,
 
 d) a gazdaság egyes elemeihez kapcsolódó mező- és erdőgazdálkodási tevékenységek folytatására irányuló engedélyek, – ha a jogosultságok gyakorlása hatósági nyilvántartásba vételhez kötött – a kérelem benyújtására vonatkozó kötelezettségek felsorolását, és annak az igazolását, hogy a gazdaságátvevő megismerte az azokból fakadó jogokat és kötelezettségeket,
 

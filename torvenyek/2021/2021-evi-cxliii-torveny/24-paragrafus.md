@@ -2,6 +2,6 @@
 
 (Elővásárlási jog nem áll fenn)
 
-„c) földnek gazdaságátadási szerződéssel történő átruházása„”
+„c) földnek gazdaságátadási szerződéssel történő átruházása„
 
-(esetén.)
+(esetén.)”
