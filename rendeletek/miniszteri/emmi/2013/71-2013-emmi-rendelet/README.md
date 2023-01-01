@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-71-20-5
 | --- | --- | --- |
 | 2014-02-18 | 2013-71-20-5H.1 | 71/2013. (XI. 20.) EMMI rendelet |
 | 2015-04-29 | 2013-71-20-5H.2 | 23/2015. (IV. 28.) EMMI rendelet |
+| 2023-01-01 | 2013-71-20-5H.3 | 53/2024. (XI. 11.) BM rendelet |
