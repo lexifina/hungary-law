@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-14-20-1
 | 2015-01-01 | 2010-14-20-1X.3 | 3/2012. (II. 10.) NGM rendelet |
 | 2020-06-30 | 2010-14-20-1X.4 | 22/2020. (VI. 29.) ITM rendelet |
 | 2020-11-18 | 2010-14-20-1X.5 | 3/2012. (II. 10.) NGM rendelet |
+| 2023-01-01 | 2010-14-20-1X.6 | 3/2012. (II. 10.) NGM rendelet |
