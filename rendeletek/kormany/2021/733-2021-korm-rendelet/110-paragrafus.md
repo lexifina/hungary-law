@@ -6,6 +6,6 @@ b) terület-előkészítésre az összes elszámolható költség legfeljebb 1%-
 
 c) műszaki ellenőri szolgáltatásra az összes elszámolható költség legfeljebb 1%-a
 
-## számolható el.
+számolható el.
 
 (2) Az irányító hatóság az (1) bekezdés szerinti százalékos mértékeket szűkítheti a felhívás céljának figyelembevételével.

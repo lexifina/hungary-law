@@ -10,7 +10,7 @@ d) olyan személy, aki a közreműködő szervezet tekintetében az adott eljár
 
 e) a b)–d) pont szerinti személy hozzátartozója
 
-## az eljárásban támogatást igénylő, kedvezményezett, ezek képviselője vagy olyan személy, aki ezek érdekében az ügyben eljárt.
+az eljárásban támogatást igénylő, kedvezményezett, ezek képviselője vagy olyan személy, aki ezek érdekében az ügyben eljárt.
 
 (2) Az irányító hatóság hatáskörének egy részét gyakorló közreműködő szervezet nem járhat el, ha
 

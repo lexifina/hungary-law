@@ -1,5 +1,3 @@
-## fizeti ki a támogatást.
-
 161. § (1) A kifizetési határidőt felfüggeszti
 
 a) a hiánypótlási felhívás, tisztázó kérdés kedvezményezett részére történő megküldése,
