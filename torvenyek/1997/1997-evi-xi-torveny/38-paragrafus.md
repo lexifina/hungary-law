@@ -16,6 +16,6 @@ c) nem elektronikus úton történő kapcsolattartás esetén a kérelmező vagy
 
 (3) Védjegyügyekben nem alkalmazandó az Ákr. 3. §-a, 5. § (1) bekezdése, 13. § (8) bekezdése, 21. §-a, 26. §-a, 37. § (2) bekezdése, 46. § (2) bekezdése, 48. § (1)–(4) bekezdése, 62. § (1) bekezdése, 74. § (1) bekezdése, 75. §-a, 76. §-a, 87. §-a, 94. § (2) bekezdése, 97. §-a, 127. § (2) bekezdése és 130. §-a.
 
-(4) Védjegyügyekben nem alkalmazandók az Ákr. jogutódlásra vonatkozó rendelkezései, sommás eljárásnak nincs helye és a kérelem a kormányablaknál nem terjeszthető elő.
+(4) Védjegyügyekben sommás eljárásnak nincs helye és a kérelem kormányablaknál nem terjeszthető elő.
 
 (5)

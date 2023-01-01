@@ -10,11 +10,13 @@
 
 (3) A 38. § (2b) bekezdésétől eltérően a védjegybejelentési kérelemnek tartalmaznia kell a bejelentő nevét és lakcímét vagy székhelyét, képviselet esetén a bejelentő képviselőjének nevét és lakcímét vagy székhelyét, továbbá – nem elektronikus úton történő kapcsolattartás esetén – a kérelmező vagy képviselője aláírását.
 
-(3a) Ha a bejelentő vagy képviselője a Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó védjegyügyben elektronikus kapcsolattartásra kötelezett vagy elektronikus úton kíván kapcsolatot tartani a Szellemi Tulajdon Nemzeti Hivatalával, a védjegybejelentési kérelemnek a (3) bekezdésben meghatározott adatokon túl tartalmaznia kell
+(3a) Ha a kérelmező, illetve képviselője a Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó védjegyügyben elektronikus kapcsolattartásra kötelezett vagy elektronikus úton kíván kapcsolatot tartani a Szellemi Tulajdon Nemzeti Hivatalával, a kérelemnek a (3) bekezdésben meghatározott adatokon túl tartalmaznia kell
 
-a) a természetes személy bejelentő, illetve képviselő születési helyét és idejét, valamint anyja nevét,
+a) a természetes személy kérelmező, illetve képviselő születési helyét és idejét, valamint anyja nevét,
 
-b) a nem természetes személy bejelentő, illetve képviselő adószámát.
+b) a c) pont szerinti szervezetektől eltérő, nem természetes személy kérelmező, illetve képviselő adószámát, és
+
+c) a hivatali kapu tárhely használatára kötelezett szervezetek esetén a hivatali kapu rövid nevét és KRID azonosítóját.
 
 (3b) A védjegybejelentést egyebekben a védjegybejelentés részletes alaki szabályairól és az iparjogvédelmi beadványok elektronikus úton való benyújtásáról szóló jogszabályokban meghatározott részletes követelményeknek megfelelően kell benyújtani.
 

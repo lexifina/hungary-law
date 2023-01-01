@@ -18,6 +18,8 @@
 
 (5e) Ha a Szellemi Tulajdon Nemzeti Hivatala az ideiglenes elutasítást az érdemi vizsgálatot követően egészben vagy részben visszavonja, a visszavonásról szóló döntés jogerőre emelkedését követően értesíti a Nemzetközi Irodát az oltalom egészben vagy részben történő elismeréséről. A lajstromozás napjának a visszavonásról szóló döntés keltezésének napját kell tekinteni.
 
-(6)–(7)
+(6)
+
+(7)
 
 (8) A Szellemi Tulajdon Nemzeti Hivatala – a 48. § megfelelő alkalmazásával – bejegyzi a védjegylajstromba, hogy a Jegyzőkönyv 4bis cikke alapján a nemzetközi lajstromozás a Szellemi Tulajdon Nemzeti Hivatala által lajstromozott védjegy helyébe lépett.

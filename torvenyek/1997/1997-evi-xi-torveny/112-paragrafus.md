@@ -36,4 +36,8 @@ f) a Nemzetközi Iroda által lajstromozott nemzetközi eredetmegjelölés és f
 
 (6) A Szellemi Tulajdon Nemzeti Hivatala előtti eljárásokban egyebekben a VII. és a VIII. fejezet rendelkezéseit kell megfelelően alkalmazni.
 
-(7)–(9)
+(7)
+
+(8)
+
+(9)

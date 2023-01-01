@@ -2,4 +2,4 @@
 
 46/D. § (1) Védjegyügyekben a Szellemi Tulajdon Nemzeti Hivatala az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és e törvény rendelkezései szerint biztosítja az elektronikus ügyintézést.
 
-(2) Védjegyügyekben a gazdálkodó szervezet és az ügyfél jogi képviselője nem köteles elektronikus ügyintézésre.
+(2) Védjegyügyekben az ügyfél és az ügyfél jogi képviselője nem köteles elektronikus ügyintézésre.

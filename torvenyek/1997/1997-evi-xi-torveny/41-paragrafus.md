@@ -2,7 +2,7 @@
 
 41. § (1) Az e törvény által meghatározott határidők nem hosszabbíthatók meg. E határidők elmulasztásának jogkövetkezményei külön figyelmeztetés nélkül is bekövetkeznek.
 
-(2) Ahol e törvény nem állapít meg határidőt a hiánypótlásra, illetve a nyilatkozattételre, az ügyfél részére legalább harmincnapos határidőt kell kitűzni, amely a lejárat előtt előterjesztett kérelemre meghosszabbítható. Három hónapot meghaladó, illetve háromnál többszöri határidő-hosszabbítás csak különösen indokolt esetben adható.
+(2) Ahol e törvény nem állapít meg határidőt a hiánypótlásra, illetve a nyilatkozattételre, az ügyfél részére legalább egy hónapos, de legfeljebb három hónapos határidőt kell kitűzni, amely a lejárat előtt előterjesztett kérelemre legalább egy hónappal, de legfeljebb három hónappal meghosszabbítható. Többszöri, illetve három hónapot meghaladó, de legfeljebb hat hónapos határidő-hosszabbítás különösen indokolt esetben adható.
 
 (3) A védjegyeljárásokban nem érvényesül az Ákr.-ben megállapított ügyintézési határidő, továbbá nem alkalmazhatók az Ákr.-nek azok a rendelkezései sem, amelyek az eljáró hatóság egyéb intézkedésére állapítanak meg határidőt.
 

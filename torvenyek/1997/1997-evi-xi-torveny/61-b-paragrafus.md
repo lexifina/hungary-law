@@ -2,7 +2,7 @@
 
 61/B. § (1) A védjegybejelentés meghirdetésének napjától számított három hónapon belül a 4–6. §-ok alapján a bejelentett megjelölés védjegyként való lajstromozásával szemben felszólalhat
 
-a) a korábbi védjegy jogosultja és a védjegylajstromba bejegyzett használója;
+a) a korábbi védjegy jogosultja és a használati szerződés alapján használati joggal bíró használója;
 
 b) az 5. § (1) bekezdés a)–b) pontjában meghatározott jog jogosultja, továbbá iparjogvédelmi jog esetében a hasznosítási szerződés alapján hasznosítási joggal bíró hasznosító, szerzői jogi jogosultság esetében a felhasználási szerződés alapján felhasználásra jogosult személy;
 
@@ -10,9 +10,9 @@ c) az 5. § (2) bekezdés a) pontja alapján a korábbi használó, továbbá az
 
 d) a 6. § alapján a jogosult, akinek az engedélye nélkül a képviselő, illetve az ügynök saját nevében jelentette be a megjelölést lajstromozásra.
 
-(2)
+(2) A felszólalást határidőben beérkezettnek kell tekinteni, ha azt ajánlott küldeményként az (1) bekezdésben meghatározott határidő lejárta előtt postára adták, kivéve, ha a beadvány a határidő lejártát követő két hónap eltelte után érkezett be.
 
-(3) A felszólalásban meg kell jelölni az annak alapjául szolgáló okot (a felszólalás okát), és mellékelni kell az okirati bizonyítékokat.
+(3) A felszólalásban meg kell jelölni az annak alapjául szolgáló okot (a felszólalás okát), azt részletesen indokolni kell, és mellékelni kell az alapul szolgáló bizonyítékokat.
 
 (4) A felszólalásért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a felszólalás benyújtásától számított egy hónapon belül.
 

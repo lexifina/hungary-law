@@ -2,7 +2,7 @@
 
 46. § (1) A védjegybejelentés iratait – a döntések tervezetei, továbbá az azokat és a szakértői véleményeket előkészítő, a felekkel nem közölt iratok, valamint a (2) bekezdésben foglaltak kivételével – bárki megtekintheti.
 
-(1a) A kérelemre megtekinthető iratokba való betekintést a Szellemi Tulajdon Nemzeti Hivatala személyes megjelenéshez kötötten biztosítja.
+(1a)
 
 (2) Az Ákr.-ben szabályozott eseteken kívül nem tekinthetők meg a védjegylajstromban fel nem tüntetett és a hatósági tájékoztatás során nem közölt személyes adatok, kivéve, ha megtekinthetővé tételükhöz az érintett kifejezetten hozzájárult, vagy ha az Ákr. rendelkezései szerint harmadik személy a személyes adatot tartalmazó iratba betekinthet.
 
