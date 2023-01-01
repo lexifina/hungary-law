@@ -16,7 +16,7 @@ a) az állami magasépítési beruházások megvalósításáról szóló 2018. 
 
 b) a Közép-Budai Tankerületi Központ vagyonkezelésébe kerüljenek;
 
-7. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: 2020. évi Kvtv.) 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címet az 5. Városmajori Gimnázium és Kós Károly Általános Iskola infrastrukturális fejlesztésének előkészítése alcímmel egészíti ki;
+7.[^1]
 
 8. felhívja a pénzügyminisztert és a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – elszámolási és a visszatérítési kötelezettség alá eső összegrész tekintetében visszafizetési kötelezettséggel – gondoskodjon a 3. pont szerinti összeg 2020. évi pénzügyi teljesítéssel érintett részének, összesen 90 000 000 forintnak a rendelkezésre állásáról, a 2020. évi Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a 2020. évi Kvtv. 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások cím, 5. Városmajori Gimnázium és Kós Károly Általános Iskola infrastrukturális fejlesztésének előkészítése alcím javára;
 
@@ -47,3 +47,5 @@ Határidő: a 2021. központi költségvetés tervezése során
 Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően
+
+[^1]: A 7. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
