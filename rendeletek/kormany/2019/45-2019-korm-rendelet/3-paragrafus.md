@@ -14,7 +14,7 @@ db) legalább két – ikrekkel való várandósság esetén egy – gyermek ut�
 
 dc) legalább három gyermek után családi pótlékra jogosult gyám, amely esetben a gyermekek számába a gyámság alatt álló gyermek akkor számít bele, ha mindkét szülője meghalt, és a gyámság legalább egy éve fennáll,
 
-## azzal, hogy az igénylő saját háztartásában nevelt vagy gondozott olyan gyermekét, akire tekintettel a családi pótlékra való jogosultság megszűnése előtt közvetlenül magasabb összegű családi pótlékra volt jogosult, vagy fogyatékossági támogatásban részesül, életkorától és a családi pótlékra való jogosultság megszűnésétől függetlenül kell figyelembe venni, a Cst. 9. § (4) bekezdése szerinti gyermek pedig a lakóhelye szerinti szülőnél vehető figyelembe;
+azzal, hogy az igénylő saját háztartásában nevelt vagy gondozott olyan gyermekét, akire tekintettel a családi pótlékra való jogosultság megszűnése előtt közvetlenül magasabb összegű családi pótlékra volt jogosult, vagy fogyatékossági támogatásban részesül, életkorától és a családi pótlékra való jogosultság megszűnésétől függetlenül kell figyelembe venni, a Cst. 9. § (4) bekezdése szerinti gyermek pedig a lakóhelye szerinti szülőnél vehető figyelembe;
 
 e) támogatással érintett személy: a nagycsaládos házastársa vagy élettársa;
 
