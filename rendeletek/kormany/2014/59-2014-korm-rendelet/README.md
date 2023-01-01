@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-59-20-2
 | 2018-01-01 | 2014-59-20-22.7 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2018-03-06 | 2014-59-20-22.8 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2020-03-01 | 2014-59-20-22.9 | 361/2019. (XII. 30.) Korm. rendelet |
+| 2023-01-01 | 2014-59-20-22.10 | 546/2022. (XII. 22.) Korm. rendelet |
