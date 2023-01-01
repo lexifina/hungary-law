@@ -1,32 +1,35 @@
-## 4. Az alkalmazásfejlesztésekre vonatkozó egységes állami követelmények meghatározása
+## 4.[^37] Az alkalmazásfejlesztésekre és alkalmazás-továbbfejlesztésekre vonatkozó egységes állami követelmények meghatározása
 
-5. § (1) A megrendelő szervnek az alkalmazásfejlesztések tervezése, a fejlesztő szervezet beszerzése, kiválasztása, valamint a fejlesztési feladat megvalósítása során az 1. mellékletben foglalt szakmapolitikai alapkövetelményeket érvényesítenie kell.
+5. § (1)[^38] A megrendelő szervnek az alkalmazásfejlesztések és alkalmazás-továbbfejlesztések tervezése, a fejlesztő szervezet beszerzése, kiválasztása, valamint a fejlesztési feladat megvalósítása során az 1. mellékletben foglalt szakmapolitikai alapkövetelményeket érvényesítenie kell.
 
-(2) Az alkalmazásfejlesztést, ideértve a fejlesztendő alkalmazásokkal kapcsolatos fejlesztői és felhasználói tesztelési eljárásokat – az e rendeletben foglalt kivételekkel – az ÁAFK-ban kell elvégezni.
+(2)[^39] Az alkalmazásfejlesztést, – az e rendeletben foglalt kivételekkel – az ÁAFK igénybevételével kell elvégezni.
 
-(3) A Felügyelet – a megrendelő szerv által benyújtott, a 16. § (2) bekezdés a) és b) pontjában szereplő adatokat tartalmazó, és a 16. § (3) bekezdés a) és e) pontjában meghatározott követelményeket bemutató dokumentumokkal kiegészített kérelem alapján – felmentést adhat az ÁAFK kötelező igénybevétele alól
-
-a) a 2014–2020 programozási időszakban rendelkezésre álló európai uniós források terhére megkötött Támogatási Szerződés alapján megvalósítandó alkalmazásfejlesztés esetén, ha a megrendelő szerv által kezdeményezett alkalmazásfejlesztés közbeszerzési eljárásban kiválasztott fejlesztő szervezettel kötött szerződés alapján kerül megvalósításra, és a megrendelő szerv az ÁAFK kötelező igénybevételét előíró rendelkezések rá vonatkozó alkalmazásának időpontjáig a fejlesztő szervezet kiválasztására irányuló közbeszerzési felhívást nem tette közzé,
-
-b) alkalmazás-továbbfejlesztése esetén, ha a továbbfejlesztendő alkalmazás alapfejlesztése és éles üzembe állítása az ÁAFK kötelező igénybevétele tekintetében a megrendelő szervre meghatározott alkalmazási időpontot megelőzően már megtörtént és az alkalmazás-továbbfejlesztés ÁAFK-ban való elvégzése érdekében szükséges migrációs feladatok, vagy az alapfejlesztéshez kapcsolódó szerzői jogok jelentősen hátráltatnák vagy ellehetetlenítenék az alkalmazás továbbfejlesztését.
+(3)[^40] A Felügyelet felmentést adhat az alkalmazás-továbbfejlesztés tekintetében az ÁAFK kötelező igénybevétele alól, ha az alapfejlesztéshez kapcsolódó szerzői jogok jelentősen hátráltatnák vagy ellehetetlenítenék az alkalmazás továbbfejlesztését.
 
 (4) A Felügyelet az alkalmazásfejlesztés megvalósítását támogató tanúsítványban rendelkezik a (3) bekezdés szerinti felmentésről.
 
-(4a)[^25] Ha álláspontja kialakításához szükséges, a Felügyelet szakmai vélemény kibocsátását kérheti bármely központi szolgáltatótól, amelyet a megkeresés beérkezésétől számított 10 munkanapon belül kell teljesíteni.
+(4a)[^41] A Felügyelet az e rendelet szerinti eljárásában szakmai vélemény kibocsátását kérheti bármely központi szolgáltatótól, amelyet a megkeresés beérkezésétől számított 10 munkanapon belül kell teljesíteni.
 
-(5)[^26]
+(5)[^42]
 
-(6)[^27]
+(6)[^43]
 
-(7)[^28] A Felügyelet a (3) bekezdés szerinti döntését a kérelem Felügyelethez történő beérkezését követő 30 napon belül hozza meg. A kérelem elutasítása esetén a megrendelő szerv a döntés felülvizsgálatát kezdeményezheti a döntés kézhezvételét követő 8 napon belül a Védelmi Tanácsnál, amely a felülvizsgálatra irányuló kérelem Felügyelethez történő beérkezését követő 30 napon belül hozza meg döntését.
+(7)[^44] A felmentés elutasítása esetén a megrendelő szerv a döntés felülvizsgálatát kezdeményezheti a döntés kézhezvételét követő 5 munkanapon belül a miniszternél, aki a felülvizsgálatra irányuló kérelem Felügyelethez történő beérkezését követő 15 munkanapon belül hozza meg döntését.
 
-(8) A megrendelő szerv a 2014–2020 programozási időszakra rendelkezésre álló európai uniós források terhére kezdeményezett alkalmazásfejlesztést a (3) bekezdés a) alpontjában előírt kérelem benyújtása nélkül, a Felügyelet által kibocsátandó – felmentést tartalmazó – támogató tanúsítvány hiányában is lefolytathatja az ÁAFK-n kívül, ha
+(8)[^45]
 
-a) a végrehajtandó alkalmazásfejlesztést érintő támogatási szerződést hivatalosan megkötötte az irányító hatósággal és
+(9)[^46] Az Állami Alkalmazás-fejlesztési Környezet ügyintézési felület az e rendeletben foglaltak vonatkozásában az alkalmazásfejlesztések és alkalmazás-továbbfejlesztések tervezésével és végrehajtásával összefüggő, személyes adatnak nem minősülő adatot más szakrendszerekből is átvehet.
 
-b) az alkalmazásfejlesztési feladat végrehajtása érdekében a fejlesztő szervezet kiválasztására irányuló közbeszerzési felhívást az ÁAFK kötelező igénybevétele tekintetében a megrendelő szervre meghatározott alkalmazási időpontot megelőzően közzétette.
+(10)[^47] A Felügyelet és a központi alkalmazás-szolgáltató jogosult a DMÜ által a miniszter jóváhagyására előterjesztett éves informatikai beszerzési terveket, valamint éves informatikai fejlesztési terveket megismerni.
 
-[^25]: Az 5. § (4a) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^26]: Az 5. § (5) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 10. §-a hatályon kívül helyezte.
-[^27]: Az 5. § (6) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 10. §-a hatályon kívül helyezte.
-[^28]: Az 5. § (7) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 189. § a) pontja szerint módosított szöveg.
+[^37]: A 4. alcím címe a 618/2022. (XII. 29.) Korm. rendelet 21. § h) pontja szerint módosított szöveg.
+[^38]: Az 5. § (1) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 21. § i) pontja szerint módosított szöveg.
+[^39]: Az 5. § (2) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 21. § f) és 22. § e) pontja szerint módosított szöveg.
+[^40]: Az 5. § (3) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 20. § (5) bekezdésével megállapított szöveg.
+[^41]: Az 5. § (4a) bekezdését a 476/2021. (VIII. 9.) Korm. rendelet 1. § (11) bekezdése iktatta be, szövege a 618/2022. (XII. 29.) Korm. rendelet 20. § (6) bekezdésével megállapított szöveg.
+[^42]: Az 5. § (5) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^43]: Az 5. § (6) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 10. §-a hatályon kívül helyezte.
+[^44]: Az 5. § (7) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 20. § (7) bekezdésével megállapított szöveg.
+[^45]: Az 5. § (8) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 22. § f) pontja hatályon kívül helyezte.
+[^46]: Az 5. § (9) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 20. § (8) bekezdése iktatta be.
+[^47]: Az 5. § (10) bekezdését a 618/2022. (XII. 29.) Korm. rendelet 20. § (8) bekezdése iktatta be.
