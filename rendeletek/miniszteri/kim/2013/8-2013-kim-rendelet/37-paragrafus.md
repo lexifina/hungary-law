@@ -6,9 +6,9 @@
 
 (3) A fiatalkorú ügyében a munkahely kijelölésénél a fiatal munkavállalókra vonatkozó munkajogi szabályokra és az elítélt életkori sajátosságaira is figyelemmel kell lenni.
 
-(3a)[^148] A pártfogó felügyelő a munkahely kijelöléséről szóló határozatot a törvényes képviselőnek is kézbesíti, vagy azt kihirdetés útján közli, ha a határozatot meghallgatáson hozta és a törvényes képviselő jelen volt, egyebekben a 30. § (3) bekezdése szerint jár el.
+(3a)[^150] A pártfogó felügyelő a munkahely kijelöléséről szóló határozatot a törvényes képviselőnek is kézbesíti, vagy azt kihirdetés útján közli, ha a határozatot meghallgatáson hozta és a törvényes képviselő jelen volt, egyebekben a 30. § (3) bekezdése szerint jár el.
 
-(4)[^149] A meg nem fizetett pénzbüntetés helyébe lépő közérdekű munkát a Bv. tv. 292. § (5)–(6) bekezdésére és 293. §-ára figyelemmel kell szervezni és végrehajtani.
+(4)[^151] A meg nem fizetett pénzbüntetés helyébe lépő közérdekű munkát a Bv. tv. 292. § (5)–(6) bekezdésére és 293. §-ára figyelemmel kell szervezni és végrehajtani.
 
-[^148]: A 37. § (3a) bekezdését a 20/2020. (XII. 30.) IM rendelet 48. §-a iktatta be.
-[^149]: A 37. § (4) bekezdése a 19/2014. (XII. 22.) IM rendelet 34. § 22. pontja szerint módosított szöveg.
+[^150]: A 37. § (3a) bekezdését a 20/2020. (XII. 30.) IM rendelet 48. §-a iktatta be.
+[^151]: A 37. § (4) bekezdése a 19/2014. (XII. 22.) IM rendelet 34. § 22. pontja szerint módosított szöveg.

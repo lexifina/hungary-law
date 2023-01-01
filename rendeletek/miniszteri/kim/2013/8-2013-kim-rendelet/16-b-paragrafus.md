@@ -14,6 +14,8 @@ a)[^43] a bűnelkövetői viselkedés korrekciójára, a szociális, illetve az 
 
 b) a közösségi jóvátételi, a sérelem okozását tudatosító programok, illetve a helyreállító technikák (konferenciamódszerek, mediáció, egyéb közösségi konfliktuskezelési technikák)
 
+alkalmazását.
+
 [^41]: A 16/A. §-t a 19/2014. (XII. 22.) IM rendelet 11. §-a iktatta be.
 [^42]: A 16/B. §-t a 19/2014. (XII. 22.) IM rendelet 11. §-a iktatta be.
 [^43]: A 16/B. § (5) bekezdés a) pontja a 17/2018. (VI. 27.) IM rendelet 55. §-ával megállapított szöveg.

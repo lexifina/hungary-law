@@ -1,5 +1,3 @@
-## 17. §
-
 ## 7. [^45] A kegyelmi kérelem, a bűnügyi költség és a rendbírság mérséklése vagy elengedése ügyében készített részleges környezettanulmány külön szabályai
 
 18. § (1) A kegyelmi kérelem ügyében készítendő környezettanulmány esetén a 13–16/B. §-ban foglalt rendelkezéseket azzal az eltéréssel kell alkalmazni, hogy a részleges környezettanulmány nem tartalmazza a IV–VI. részt, továbbá ebben az esetben a pártfogó felügyelő kockázatértékelést nem végez. A pártfogó felügyelő a szakmai ténymegállapítások körében bemutatja, hogy a kegyelmi kérelemben foglaltak mennyiben felelnek meg a valóságnak, a kirendelő határozott irányú kérdése hiányában különösen a következők bemutatására irányul

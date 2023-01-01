@@ -22,6 +22,6 @@
 
 ## ...........................................................….
 
-2. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^261]
+2. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^264]
 
-[^261]: A 2. mellékletet a 12/2022. (IV. 26.) IM rendelet 29. § h) pontja hatályon kívül helyezte.
+[^264]: A 2. mellékletet a 12/2022. (IV. 26.) IM rendelet 29. § h) pontja hatályon kívül helyezte.

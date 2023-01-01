@@ -1,5 +1,3 @@
-## A közérdekű munkára ítéltre vonatkozó nyilvántartólap
-
 | Az elítélt neve: | Születési helye, ideje: |
 
 | Anyja neve: | Lakcíme/tényleges tartózkodási helye: |
@@ -16,7 +14,7 @@
 
 | Egynapi közérdekű munkának 4 óra munkavégzés felel meg, a napi munkaidő legalább 4 óra, legfeljebb 12 óra, pénzbüntetés átváltoztatása esetén legalább 2 óra, legfeljebb 8 óra lehet, a heti munkaidő legalább 4 óra, legfeljebb 48 óra. |
 
-| A közérdekű munka végrehajtását ..................................................... Megyei (Fővárosi) Kormányhivatal ellenőrzi. |
+| A közérdekű munka végrehajtását ..................................................... Vármegyei (Fővárosi) Kormányhivatal ellenőrzi. |
 
 | A közérdekű munka megkezdésének ideje: | A büntetés befejezésének várható ideje: |
 
@@ -30,11 +28,11 @@
 
 | Megjegyzés: |
 
-4. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^263]
+4. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^266]
 
 A közérdekű munkára ítéltre vonatkozó jelenléti ív
 
-| ........................................... Megyei/Fővárosi Kormányhivatal .................../Km/20... . szám |
+| ........................................... Vármegyei/Fővárosi Kormányhivatal .................../Km/20... . szám |
 
 | Az elítélt neve: |
 
@@ -122,4 +120,4 @@ Kelt: ..........................................................
 
 | .......................................................................................................... munkahelyet biztosító gazdálkodó szervezet cégszerű aláírása/egyéb szervezet képviseletére jogosult aláírása |
 
-[^263]: A 4. melléklet a 17/2018. (VI. 27.) IM rendelet 77. § (4) bekezdésével megállapított szöveg.
+[^266]: A 4. melléklet a 17/2018. (VI. 27.) IM rendelet 77. § (4) bekezdésével megállapított, a 38/2022. (XII. 27.) IM rendelet 8. § h) pontja szerint módosított szöveg.

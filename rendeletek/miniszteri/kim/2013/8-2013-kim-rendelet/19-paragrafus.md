@@ -10,7 +10,7 @@ b)[^50] a lakcíme szerint illetékes család- és gyermekjóléti szolgálatná
 
 c)[^51] nevelésbe vett gyermek esetén a lakcíme szerint illetékes területi gyermekvédelmi szakszolgálatnál
 
-## a gyermekkorú, illetve a fiatalkorú jelenlegi, esetleges korábbi gondozásának, gyermekvédelmi gondoskodásban részesítésének tapasztalatairól.
+a gyermekkorú, illetve a fiatalkorú jelenlegi, esetleges korábbi gondozásának, gyermekvédelmi gondoskodásban részesítésének tapasztalatairól.
 
 (3)[^52] A Be. 684. § (3) és (4) bekezdése szerint a pártfogó felügyelő az oktatási intézménytől pedagógiai véleményt szerez be a tanulói jogviszonnyal rendelkező gyermekkorú vagy fiatalkorú ügyében.
 

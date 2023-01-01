@@ -1,5 +1,3 @@
-## vonatkozóan.
-
 ## 16. §[^38] A környezettanulmány IV. része bemutatja, illetve értékeli
 
 a) az esetleges korábbi és a folyamatban lévő megelőző pártfogás, illetve pártfogó felügyelet tapasztalatait,

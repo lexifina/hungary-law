@@ -12,7 +12,7 @@ a) bűnelkövetői viselkedés korrekciójára, szociális, illetve életvezeté
 
 b) közösségi jóvátételi, a sérelem okozását tudatosító, illetve helyreállító programban (konferenciamódszerek, mediáció, egyéb közösségi konfliktuskezelési technikák alkalmazása)
 
-## való részvételét.
+való részvételét.
 
 (3) A pártfogó felügyelő a terhelt adottságainak megfelelő ellátási és intézményi lehetőségek figyelembevételével teszi meg a javaslatát az egyedi, illetve külön magatartási szabályok és kötelezettségek, egyéb szükséges beavatkozások alkalmazására, bemutatva azoknak a bűnismétlési kockázatokat enyhítő hatását.
 

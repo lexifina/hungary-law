@@ -16,7 +16,7 @@ g) a bűncselekmény elkövetéséhez és annak jóvátételéhez – ideértve 
 
 h) a terhelt személyére, viselkedésére, életviszonyaira és életvitelére a cselekmény elkövetésekor jellemző körülményekben bekövetkezett változásokra
 
-## vonatkozóan.
+vonatkozóan.
 
 (2) A szakmai ténymegállapítások körében a pártfogó felügyelő bemutatja a korábbi pártfogó felügyelői tapasztalatokat.
 
