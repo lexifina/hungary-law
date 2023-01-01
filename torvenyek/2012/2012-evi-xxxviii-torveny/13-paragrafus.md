@@ -1,4 +1,4 @@
-13. § (1) A magyar államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) jogosult
+13. § (1) A magyar államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlására – a 13/C. §-ban foglalt kivétellel – az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) jogosult
 
 a) a megyei önkormányzatok konszolidációjáról, a megyei önkormányzati intézmények és a Fővárosi Önkormányzat egyes egészségügyi intézményeinek átvételéről szóló 2011. évi CLIV. törvény (a továbbiakban: konszolidációs törvény), továbbá az Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló 2011. évi CLXXXVI. törvény alapján állami tulajdonba került, állami egészségügyi feladatellátást szolgáló vagyon,
 
@@ -6,13 +6,21 @@ b) e törvény alapján állami tulajdonba kerülő, az állami egészségügyi 
 
 c) az egészségügyért felelős miniszter rendeletében meghatározott országos gyógyintézetek, valamint az egészségügyért felelős miniszter irányítása alá tartozó, az a) és b) pontokon túli egyéb egészségügyi szolgáltató vagyonkezelésében lévő vagyon tekintetében.
 
-(1a) Az (1) bekezdés alapján az ÁEEK jogosult az államot megillető tulajdonosi jogok és kötelezettségek gyakorlására az (1) bekezdésben meghatározott költségvetési intézmények állam általi átvételét követő, valamint az ÁEEK saját beszerzései és beruházásai alapján létrejött vagyon tekintetében is.
+(1a) Az OKFŐ jogosult – a 13/C. §-ban meghatározott kivétellel – az államot megillető tulajdonosi jogok és kötelezettségek gyakorlására
 
-(2) Az ÁEEK a tulajdonosi joggyakorlásra irányuló tevékenységét az államháztartásról szóló törvény, a nemzeti vagyonról szóló törvény, az állami vagyonról szóló törvény és annak végrehajtási rendeletei, valamint a Nemzeti Földalapról szóló törvény és a végrehajtási rendelete szerint végzi.
+a) az (1) bekezdésben meghatározott költségvetési intézmények állam általi átvételét követő beszerzései és beruházásai alapján létrejött,
+
+b) az OKFŐ saját beszerzései és beruházásai alapján létrejött, valamint
+
+c) az OKFŐ által bármely jogcímen az állam javára megszerzett
+
+vagyon tekintetében is.
+
+(2) Az OKFŐ a tulajdonosi joggyakorlásra irányuló tevékenységét az államháztartásról szóló törvény, a nemzeti vagyonról szóló törvény, az állami vagyonról szóló törvény és annak végrehajtási rendeletei szerint végzi.
 
 (3) E törvény alapján a tulajdonosi joggyakorló jogosult a tulajdonosi joggyakorlás körébe tartozó, az állami egészségügyi feladatellátáshoz szükségtelenné vált vagyonelemek értékesítésére az állami vagyonról szóló törvény rendelkezései szerint.
 
-(3a) Az ÁEEK jogosult
+(3a) Az OKFŐ jogosult
 
 a) a Kormány által meghatározott egészségügyi szolgáltató gazdasági társaság állami tulajdonba kerülése céljából az állam nevében eljárni, és
 

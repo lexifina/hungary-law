@@ -1,1 +1,1 @@
-1–3. melléklet a 2012. évi XXXVIII. törvényhez
+1. melléklet a 2012. évi XXXVIII. törvényhez
