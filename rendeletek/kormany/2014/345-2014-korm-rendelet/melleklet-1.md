@@ -1,6 +1,4 @@
-## 23–36. §[^32]
-
-1. melléklet a 345/2014. (XII. 23.) Korm. rendelethez[^33]
+1. melléklet a 345/2014. (XII. 23.) Korm. rendelethez[^47]
 
 | 1. | A | B |
 
@@ -146,5 +144,4 @@
 
 | 70. | 64 | bokor |
 
-[^32]: A 23–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: Az 1. melléklet a 404/2015. (XII. 15.) Korm. rendelet 10. §-a, a 221/2017. (VIII. 7.) Korm. rendelet 3. § (5) bekezdése szerint módosított szöveg.
+[^47]: Az 1. melléklet a 404/2015. (XII. 15.) Korm. rendelet 10. §-a, a 221/2017. (VIII. 7.) Korm. rendelet 3. § (5) bekezdése szerint módosított szöveg.
