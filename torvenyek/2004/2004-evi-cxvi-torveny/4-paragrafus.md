@@ -1,1 +1,3 @@
-4. §
+4. § (1) Az 1. melléklet tartalmazza azon államok felsorolását, továbbá azok és Magyarország viszonylatában a hatálybalépés időpontját, amelyek csatlakozásának az elfogadásáról szóló nyilatkozat az Egyezmény 39. Cikk negyedik bekezdése alapján 2023. január 1. napja előtt letétbe helyezésre került.
+
+(2) Magyarország elfogadja Georgia, Málta, Nicaragua és Vietnám csatlakozását. Az Egyezmény ezen államok és Magyarország viszonylatában történő hatálybalépésének naptári napját – annak ismertté válását követően – a külpolitikáért felelős miniszter a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.
