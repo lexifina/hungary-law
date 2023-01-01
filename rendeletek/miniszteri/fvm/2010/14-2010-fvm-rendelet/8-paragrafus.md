@@ -1,5 +1,5 @@
-## 6–7. §[^18]
-
 ## Alulteljesítés, nem teljesítés
 
-[^18]: A 6–7. §-t az 52/2015. (IX. 7.) FM rendelet 13. § d) pontja hatályon kívül helyezte.
+8. §[^21]
+
+[^21]: A 8. §-t az 52/2015. (IX. 7.) FM rendelet 13. § d) pontja hatályon kívül helyezte.
