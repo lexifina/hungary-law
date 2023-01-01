@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-25-20-6
 | --- | --- | --- |
 | 1996-10-17 | 1996-25-20-6D.1 | 25/1996. (X. 9.) KTM rendelet |
 | 2017-06-10 | 1996-25-20-6D.2 | 32/2017. (VI. 9.) FM rendelet |
+| 2023-01-01 | 1996-25-20-6D.3 | 51/2022. (XII. 27.) AM rendelet |

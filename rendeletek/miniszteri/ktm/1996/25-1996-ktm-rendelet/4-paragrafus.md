@@ -2,11 +2,11 @@
 
 4. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-Melléklet a 25/1996. (X. 9.) KTM rendelethez
+Melléklet a 25/1996. (X. 9.) KTM rendelethez[^3]
 
 A Rétszilasi-tavak Természetvédelmi Terület ingatlan-nyilvántartási helyrajzi számai
 
-Fejér megye
+Fejér vármegye
 
 Pusztaegres
 
@@ -21,3 +21,4 @@ Sáregres
 0137, 0139, 0164–0171, 0172/2, 0173, 0176–0179
 
 [^2]: A 3. § a 32/2017. (VI. 9.) FM rendelet 6. §-a szerint módosított szöveg.
+[^3]: A Melléklet az 51/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
