@@ -20,7 +20,7 @@ d) a munkáltatói jogkört gyakorló engedélye alapján.
 
 (5b) Ha a honvédelmi alkalmazott az Mt. 55. § (1) bekezdés k) pontja szerint mentesül a rendelkezésre állási és munkavégzési kötelezettség alól, akkor erre az időtartamra távolléti díjának miniszteri rendeletben meghatározott mértékű részére jogosult.
 
-(5c) Az (5b) bekezdés szerinti esetben a rendelkezésre állási és a munkavégzés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló vagy az általa kijelölt személy a honvédelmi alkalmazott éves szabadságának időarányos részét – az Mt. 122. § (1)–(3) bekezdésében foglaltak szerint – már kiadta. Ebben az esetben az Mt. 122. § (4) bekezdése nem alkalmazható.
+(5c) Az (5b) bekezdés szerinti esetben a rendelkezésre állási és a munkavégzés alóli mentesülés csak akkor engedélyezhető, ha a munkáltatói jogkört gyakorló vagy az általa kijelölt személy a honvédelmi alkalmazott éves szabadságának időarányos részét – az Mt. 122. § (1)–(3a) bekezdésében foglaltak szerint – már kiadta. Ebben az esetben az Mt. 122. § (4) bekezdése nem alkalmazható.
 
 (6) A Hvt. 59. § (1) bekezdés i) pontja vagy (2) bekezdés a) pontja szerinti feladat-végrehajtásban, valamint az egészségügyről szóló törvény szerinti egészségügyi válsághelyzet kezelésében személyesen részt vevő honvédelmi alkalmazott által a tömeges bevándorlás okozta válsághelyzet, a katasztrófa elleni védekezés, az egészségügyi válsághelyzet vagy a honvédelmi válsághelyzet időtartama alatt teljesített munkavégzés tekintetében a felek az Mt. 99. § (2) bekezdés b) pontjától, 109. § (1) bekezdésétől és 135. § (3) bekezdésétől írásbeli megállapodással eltérhetnek, azzal, hogy a megállapodás alapján teljesített munkaidő
 

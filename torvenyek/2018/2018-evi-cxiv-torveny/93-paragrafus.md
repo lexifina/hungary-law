@@ -71,3 +71,5 @@
 35. a 89/D. § (1) bekezdés b) pontja szerinti munkaköröket.
 
 36. a 99/E. § szerinti árvák kiegészítő támogatása megállapításának és folyósításának szabályait.
+
+37. a KNBSZ személyi állományába tartozó honvédelmi alkalmazottak – 44/A. § (1) bekezdése szerinti – munkáltatói igazolványának, valamint jelvényének rendszeresítésével és kiadásának rendjével összefüggő szabályokat.

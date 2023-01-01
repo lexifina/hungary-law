@@ -1,4 +1,4 @@
-43. § (1) A honvédelmi alkalmazotti jogviszony tekintetében az Mt.-nek a munkaviszony megszűnéséről és megszüntetéséről szóló rendelkezései (X. fejezet) közül a 63–64. §, 65. § (1)–(2) bekezdés, 66. § (1)–(3) és (8)–(9) bekezdés, a 69–79. § és a 85. § nem alkalmazható.
+43. § (1) A honvédelmi alkalmazotti jogviszony tekintetében az Mt.-nek a munkaviszony megszűnéséről és megszüntetéséről szóló rendelkezései (X. fejezet) közül a 63. §, a 64. § (1)–(2) bekezdés, 65. § (1)–(2) bekezdés, 66. § (1)–(3) és (8)–(9) bekezdés, a 69–79. § és a 85. § nem alkalmazható.
 
 (2) A létszámcsökkentést eredményező döntést megelőzően a miniszter a 7. § szerinti érdekegyeztető fórumban – az érdekegyeztetésben részt vevő felekkel – tárgyalást kezdeményez.
 

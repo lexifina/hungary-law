@@ -62,7 +62,7 @@ b) a 12. § (1) bekezdés a) pontjában, (2) és (3) bekezdésében meghatározo
 
 (4) A honvédelmi alkalmazotti jogviszony (3) bekezdésben meghatározott azonnali hatályú megszüntetését írásban indokolni kell.
 
-(5) A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény XII. Fejezetében szabályozott különleges jogrend, illetve veszélyhelyzet kihirdetése esetén a honvédelmi alkalmazott nem gyakorolhatja a (2) bekezdés c) és d) pontjában foglalt megszüntetési okokat.
+(5) Különleges jogrend kihirdetése esetén a honvédelmi alkalmazott nem gyakorolhatja a (2) bekezdés c) és d) pontjában foglalt megszüntetési okokat.
 
 (6) Az e törvény hatálya alá tartozó munkáltatók között az áthelyezés háromoldalú megállapodással történik.
 

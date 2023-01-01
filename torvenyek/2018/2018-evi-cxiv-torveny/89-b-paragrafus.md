@@ -8,6 +8,6 @@
 
 (5) Az egészségügyi honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszony keretében – az Eütv. 3. § i) pontja szerinti sürgős szükség esetét és jogszabályban meghatározott eseteket kivéve – nem nyújthat egészségügyi szolgáltatást ugyanazon személy számára, akinek más – e törvény hatálya alá nem tartozó – jogviszonyban már ugyanazon betegség tekintetében egészségügyi szolgáltatást nyújtott.
 
-(6) A honvédelmi egészségügyi szolgáltató szervezeti egység vezetője és a felügyeleti helyettes az Eütev. 1. §-a szerinti gyógyító-megelőző tevékenységet kizárólag a védelem-egészségügy körében, továbbá a működési nyilvántartás megújítása céljából, a továbbképzése alapján szükséges gyakorlati pontok megszerzése érdekében és az ahhoz szükséges mértékben végezhet.
+(6)
 
 (7) Ha az Eszjtv. és a felhatalmazása alapján kiadott jogszabály az Eszjtv. 4. §-a szerinti összeférhetetlenségi rendelkezéseit feloldó vagy enyhítő szabályt állapít meg, úgy azt az egészségügyi honvédelmi alkalmazottra is alkalmazni kell.
