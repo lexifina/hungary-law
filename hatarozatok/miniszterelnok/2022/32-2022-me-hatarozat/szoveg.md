@@ -22,7 +22,7 @@ Gerlaki Bencét és
 
 dr. Zsombolyay Péter Zsombort
 
-a Miniszterelnöki Kabinetiroda helyettes államtitkárává
+a Miniszterelnöki Kabinetiroda[^1] helyettes államtitkárává
 
 2022. június 12-ei hatállyal
 
@@ -49,3 +49,5 @@ a Miniszterelnöki Kabinetiroda helyettes államtitkárává
 2022. június 12-ei hatállyal
 
 kinevezem.
+
+[^1]: A 119/2022. (XII. 23.) ME határozat alapján Bókay Márton Szabolcs, dr. Darnai Ferenc, Gerlaki Bence és dr. Zsombolyay Péter Zsombor tekintetében akként módosul, hogy a „Miniszterelnöki Kabinetiroda” megnevezés helyett a „Gazdaságfejlesztési Minisztérium” megnevezést kell érteni.
