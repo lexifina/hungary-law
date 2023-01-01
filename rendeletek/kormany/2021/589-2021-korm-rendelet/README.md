@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-589-20-
 | 2021-10-21 | 2021-589-20-22.1 | 589/2021. (X. 20.) Korm. rendelet |
 | 2021-10-22 | 2021-589-20-22.2 | 2010: CXXX. törvény |
 | 2022-12-23 | 2021-589-20-22.3 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2023-01-01 | 2021-589-20-22.4 | 546/2022. (XII. 22.) Korm. rendelet |
