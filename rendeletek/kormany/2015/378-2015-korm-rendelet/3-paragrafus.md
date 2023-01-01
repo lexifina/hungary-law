@@ -34,17 +34,18 @@ b) az ellátásért felelős önkormányzattal,
 
 c) az ideiglenes begyűjtési ellátással érintett települési önkormányzattal és a befogadó telep üzemeltetőjével,
 
-d) az ideiglenes begyűjtési ellátással érintett települések szerint illetékes fővárosi és megyei kormányhivatallal,
+d)[^3] az ideiglenes begyűjtési ellátással érintett települések szerint illetékes fővárosi és vármegyei kormányhivatallal,
 
 e) az ideiglenes begyűjtési ellátást megelőzően a településen közszolgáltatást végző gazdálkodó szervezettel.
 
-(7)[^3] Az ideiglenes begyűjtési ellátásra történő kijelölés időtartama a kijelölés meghosszabbítása esetén sem haladhatja meg az öt évet.
+(7)[^4] Az ideiglenes begyűjtési ellátásra történő kijelölés időtartama a kijelölés meghosszabbítása esetén sem haladhatja meg az öt évet.
 
 (8) Az ideiglenes begyűjtési ellátásra kijelölt közérdekű szolgáltató a kijelölését követő 8 napon belül egyeztet az érintett települések víziközmű szolgáltatóival és önkormányzataival az átadási helyek és kapacitások biztosítása érdekében, valamint a közműcsatlakozással nem rendelkező ingatlanok számáról és elhelyezkedéséről. Az egyeztetés sikertelensége esetén a kijelölt közérdekű szolgáltató értesíti a kijelölő katasztrófavédelmi szervet.
 
-(9)[^4] A katasztrófavédelmi szerv – indokolt esetben – a közérdekű szolgáltató kijelölését megszüntetheti.
+(9)[^5] A katasztrófavédelmi szerv – indokolt esetben – a közérdekű szolgáltató kijelölését megszüntetheti.
 
 [^1]: A 2/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 552. §-a iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
 [^2]: A 3. § (5) bekezdés e) pontja a 280/2019. (XI. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: A 3. § (7) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^4]: A 3. § (9) bekezdését a 280/2019. (XI. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^3]: A 3. § (6) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 225. §-a szerint módosított szöveg.
+[^4]: A 3. § (7) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^5]: A 3. § (9) bekezdését a 280/2019. (XI. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.

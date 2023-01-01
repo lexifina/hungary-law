@@ -1,4 +1,4 @@
-13. §[^9] (1) A belügyminiszter az MEKH által nyújtott, a 12. § (7) bekezdés c) pontja szerinti tájékoztatást követően – a (6) bekezdésben meghatározott feltétellel – egy összegben folyósítja az ellátásért felelős önkormányzat útján
+13. §[^11] (1) A belügyminiszter az MEKH által nyújtott, a 12. § (7) bekezdés c) pontja szerinti tájékoztatást követően – a (6) bekezdésben meghatározott feltétellel – egy összegben folyósítja az ellátásért felelős önkormányzat útján
 
 a) a közérdekű szolgáltató részére a kijelölésének megszűnése vagy az új közszolgáltatási szerződés alapján történő közszolgáltatás megkezdése időpontjáig
 
@@ -14,7 +14,7 @@ a) az (1) bekezdés szerinti indokolt többletköltség támogatás,
 
 b) az (5) bekezdés a) pontja szerinti indokolt többletköltség támogatási előleggel nem fedezett részére vonatkozó támogatás
 
-## összegéről, folyósításáról, felhasználásáról és az (1) bekezdés a) pont ab) alpontja szerinti támogatási előleg elszámolásáról.
+összegéről, folyósításáról, felhasználásáról és az (1) bekezdés a) pont ab) alpontja szerinti támogatási előleg elszámolásáról.
 
 (2a) Az ellátásért felelős önkormányzat a részére a belügyminiszter által folyósított támogatást a banki folyószámláján történő jóváírást követő öt munkanapon belül egyösszegben a közérdekű szolgáltató részére az indokolt többletköltségek fedezeteként átutalja.
 
@@ -48,4 +48,4 @@ b) intézkedik az ellátásért felelős önkormányzat útján a megalapozatlan
 
 (7) A Kincstár az ellátásért felelős önkormányzat (3) bekezdés a) pontja szerinti beszámolójának elfogadásáról, valamint az elszámolt összegről a belügyminisztert tájékoztatja.
 
-[^9]: A 13. § a 280/2019. (XI. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^11]: A 13. § a 280/2019. (XI. 21.) Korm. rendelet 3. §-ával megállapított szöveg.

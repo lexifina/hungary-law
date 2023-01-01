@@ -1,4 +1,4 @@
-12. §[^8] (1) A közszolgáltatási díjnak a Tv. 3/F. § (6) bekezdésének való megfelelését, valamint a Tv. 3/F. § (7) bekezdése szerinti, a közszolgáltatási díjból meg nem térülő indokolt költségek (a továbbiakban: többletköltségek) összegét, a közérdekű szolgáltató többletköltség megtérítése érdekében benyújtott igényét és módosított igényét, valamint az igény alapján folyósított támogatási előleg felhasználásáról készült elszámolást a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: MEKH) ellenőrzi.
+12. §[^10] (1) A közszolgáltatási díjnak a Tv. 3/F. § (6) bekezdésének való megfelelését, valamint a Tv. 3/F. § (7) bekezdése szerinti, a közszolgáltatási díjból meg nem térülő indokolt költségek (a továbbiakban: többletköltségek) összegét, a közérdekű szolgáltató többletköltség megtérítése érdekében benyújtott igényét és módosított igényét, valamint az igény alapján folyósított támogatási előleg felhasználásáról készült elszámolást a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: MEKH) ellenőrzi.
 
 (2) A közérdekű szolgáltatónak az ideiglenes begyűjtési ellátás során keletkező indokolt többletköltségeit a központi költségvetés az ellátásért felelős önkormányzat útján téríti meg.
 
@@ -12,7 +12,7 @@ c) az a) és b) pont szerinti tevékenységhez közvetlenül kapcsolódó bérk�
 
 d) a haváriaesemény kapcsán felmerülő költség
 
-## vehető figyelembe.
+vehető figyelembe.
 
 (4) A közérdekű szolgáltató az ideiglenes begyűjtési ellátás teljes idejére számított indokolt többletköltségei megtérítése iránti igényét az ellátásért felelős önkormányzathoz nyújtja be
 
@@ -40,8 +40,8 @@ ca) a (4) bekezdés a) pont aa) alpontja és b) pontja szerinti időszakra a kö
 
 cb) a (4) bekezdés a) pont ab) alpontja szerinti időszakra a közérdekű szolgáltató tervadatai alapján
 
-## megállapított összegéről tájékoztatja a belügyminisztert.
+megállapított összegéről tájékoztatja a belügyminisztert.
 
 (8) Az MEKH az (1) bekezdésben meghatározott feladatának ellátásához szükséges tájékoztatást, adatot kérhet a katasztrófavédelmi szerv központi szervétől és a települési önkormányzattól.
 
-[^8]: A 12. § a 280/2019. (XI. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^10]: A 12. § a 280/2019. (XI. 21.) Korm. rendelet 2. §-ával megállapított szöveg.

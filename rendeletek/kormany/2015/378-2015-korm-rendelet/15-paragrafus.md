@@ -5,3 +5,5 @@
 a) az ideiglenes begyűjtési ellátás során rendelkezésre bocsátott szállítóeszköz esetén a katasztrófavédelmi szerv határozata alapján, és
 
 b) a rendkívüli ellátás során rendelkezésre bocsátott szállítóeszköz esetén
+
+a központi költségvetésből kell biztosítani.

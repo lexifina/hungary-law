@@ -1,0 +1,3 @@
+9. §[^8] A közérdekű szolgáltató az ideiglenes begyűjtési ellátás során, a rendkívüli ellátást végző a rendkívüli ellátás során történt haváriaeseményt a kijelölő katasztrófavédelmi szervnek, valamint a területileg illetékes fővárosi, vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalának haladéktalanul bejelenti. Haváriaeseménynek minősül a szennyvíz olyan mértékű kifolyása, amely a közérdekű szolgáltató által nem összegyűjthető és környezetveszélyeztetést okoz.
+
+[^8]: A 9. § a 616/2022. (XII. 29.) Korm. rendelet 225. §-a szerint módosított szöveg.
