@@ -2,9 +2,9 @@
 
 (2) A feladatátadó szerv 2019. július 31. napjáig köteles a vizsgaközpont számára a feladatainak maradéktalan ellátása érdekében, az ahhoz szükséges eszközök – ideértve különösen az informatikai eszközök, hálózatok, használatát, annak ellátásához szükséges irodai eszközöket, a vizsgáztatás lefolytatásához szükséges eszközöket, utóbbi körében a tanpálya – használatát biztosítani. A használatból eredő költségek tekintetében a vizsgaközpont az informatikai szolgáltatások esetén a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendelet, míg egyéb beszerzés estén a Közbeszerzési és Ellátási Főigazgatóságról szóló kormányrendelet rendelkezései alapján a központi szolgáltatóval, illetve a Közbeszerzési és Ellátási Főigazgatósággal elszámol.
 
-(3)[^4] A vizsgaközpont 2022. december 31. napjáig jogosult a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendelet szerinti szolgáltatások igénybevételére.
+(3)[^7] A vizsgaközpont 2022. december 31. napjáig jogosult a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendelet szerinti szolgáltatások igénybevételére.
 
-(4)[^5] A vizsgaközpont és a közlekedésért felelős miniszter 2019. december 31. napjáig elszámol egymással az utánképzési tevékenységgel összefüggő díjak tekintetében, azzal, hogy a közlekedésért felelős miniszter az utánképzési rendszer szakmai irányítására és fejlesztésére fordítandó összeget a vizsgaközpont részére visszahagyja.
+(4)[^8] A vizsgaközpont és a közlekedésért felelős miniszter 2019. december 31. napjáig elszámol egymással az utánképzési tevékenységgel összefüggő díjak tekintetében, azzal, hogy a közlekedésért felelős miniszter az utánképzési rendszer szakmai irányítására és fejlesztésére fordítandó összeget a vizsgaközpont részére visszahagyja.
 
-[^4]: Az 5. § (3) bekezdését a 248/2019. (X. 24.) Korm. rendelet 17. §-a iktatta be, szövege a 722/2020. (XII. 31.) Korm. rendelet 53. §-ával megállapított, a 789/2021. (XII. 27.) Korm. rendelet 77. §-a szerint módosított szöveg.
-[^5]: Az 5. § (4) bekezdését a 248/2019. (X. 24.) Korm. rendelet 17. §-a iktatta be.
+[^7]: Az 5. § (3) bekezdését a 248/2019. (X. 24.) Korm. rendelet 17. §-a iktatta be, szövege a 722/2020. (XII. 31.) Korm. rendelet 53. §-ával megállapított, a 789/2021. (XII. 27.) Korm. rendelet 77. §-a szerint módosított szöveg.
+[^8]: Az 5. § (4) bekezdését a 248/2019. (X. 24.) Korm. rendelet 17. §-a iktatta be.

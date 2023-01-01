@@ -1,0 +1,3 @@
+3. §[^5] A közúti gépjármű-közlekedési hatóságként eljáró vármegyeszékhely szerinti járási (fővárosi kerületi) hivatal, Pest vármegyében az Érdi Járási Hivatal, Budapest fővárosban Budapest Főváros Kormányhivatalának III. Kerületi Hivatala, valamint a közlekedésért felelős miniszter, közúti közlekedésről szóló 1988. évi I. törvény 18. § (8) bekezdésében meghatározott feladatainak ellátásával összefüggésben keletkezett, a hatósági nyilvántartásaiban kezelt adatokat, valamint irattárában 2018. december 31. napján fellelhető iratokat a vizsgaközpont jogosult kezelni.
+
+[^5]: A 3. § a 616/2022. (XII. 29.) Korm. rendelet 291. §-a szerint módosított szöveg.
