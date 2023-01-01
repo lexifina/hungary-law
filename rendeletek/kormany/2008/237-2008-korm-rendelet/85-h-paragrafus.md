@@ -1,4 +1,4 @@
-85/H. §[^207] (1) Ha a kifizetett forrás (támogatás) részben vagy egészben történő visszafizetéséről kell intézkedni,
+85/H. §[^208] (1) Ha a kifizetett forrás (támogatás) részben vagy egészben történő visszafizetéséről kell intézkedni,
 
 a) a kedvezményezettet terhelő visszafizetési kötelezettségre vonatkozó követelés érvényesítése érdekében a Projekt Végrehajtó,
 
@@ -14,4 +14,4 @@ jár el.
 
 (4) Ha a KSz, illetve a Projekt Végrehajtó visszafizetési kötelezettségének a szerződésben megadott határidőben nem, vagy csak részben tesz eleget, és a benyújtott azonnali beszedési megbízás eredménytelen, az illetékes adóhatóságot a visszakövetelt összeg, adók módjára történő behajtásának megindítása érdekében az NKE, illetve a KSz keresi meg, és ezzel egyidejűleg a megkeresés tényéről, az érintett szervezetet is értesíti. Amennyiben az adóvégrehajtás során bírósági végrehajtó jár el, az adóhatóság erről értesíti a behajtást kezdeményező szervezetet.
 
-[^207]: A 85/H. §-t a 33/2011. (III. 17.) Korm. rendelet 8. §-a iktatta be.
+[^208]: A 85/H. §-t a 33/2011. (III. 17.) Korm. rendelet 8. §-a iktatta be.

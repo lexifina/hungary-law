@@ -1,4 +1,4 @@
-## 49. §[^132] Az Ösztöndíj Alapból egyrészt a svájci felsőfokú és másoddiplomás programokra, másrészt magyar hátrányos helyzetű és marginalizált csoportbeli hallgatók számára nyújtható pénzügyi támogatás. A magyar hátrányos helyzetű és marginalizált csoportbeli hallgatók számára nyújtható pénzügyi támogatás lebonyolítására a Pályázati Alapra vonatkozó eljárásrend a meghatározó.
+## 49. §[^133] Az Ösztöndíj Alapból egyrészt a svájci felsőfokú és másoddiplomás programokra, másrészt magyar hátrányos helyzetű és marginalizált csoportbeli hallgatók számára nyújtható pénzügyi támogatás. A magyar hátrányos helyzetű és marginalizált csoportbeli hallgatók számára nyújtható pénzügyi támogatás lebonyolítására a Pályázati Alapra vonatkozó eljárásrend a meghatározó.
 
 ## Technikai Segítségnyújtási Alap
 
@@ -6,4 +6,4 @@
 
 (2) A Technikai Segítségnyújtási Alapról az NKE és a SFEÜ vagy a GÁ megállapodást köt.
 
-[^132]: A 49. § a 11/2012. (II. 14.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^133]: A 49. § a 11/2012. (II. 14.) Korm. rendelet 21. §-ával megállapított szöveg.

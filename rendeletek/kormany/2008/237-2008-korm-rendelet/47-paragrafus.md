@@ -1,4 +1,4 @@
-## 47. §[^130] A TKSz a következő feladatokat látja el:
+## 47. §[^131] A TKSz a következő feladatokat látja el:
 
 a) teljes körűen irányítja a Pályázati Alapot,
 
@@ -30,4 +30,4 @@ n) létrehozza a pénzügyi és beszámolási rendszert,
 
 o) kialakítja a helyszíni szemle és a monitoring látogatások eljárásrendjét.
 
-[^130]: A 47. § a 11/2012. (II. 14.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^131]: A 47. § a 11/2012. (II. 14.) Korm. rendelet 19. §-ával megállapított szöveg.

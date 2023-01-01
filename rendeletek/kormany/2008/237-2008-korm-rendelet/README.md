@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-237-20-
 | 2016-08-06 | 2008-237-20-22.15 | 11/2012. (II. 14.) Korm. rendelet |
 | 2016-09-02 | 2008-237-20-22.16 | 314/2009. (XII. 28.) Korm. rendelet |
 | 2020-01-22 | 2008-237-20-22.17 | 349/2019. (XII. 23.) Korm. rendelet |
+| 2023-01-01 | 2008-237-20-22.18 | 640/2023. (XII. 28.) Korm. rendelet |

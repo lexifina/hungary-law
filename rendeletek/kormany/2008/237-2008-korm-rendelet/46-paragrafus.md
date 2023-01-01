@@ -16,6 +16,6 @@ f) elvégzi a pénzügyi ellenőrzést, valamint biztosítja a pénzügyi ellen�
 
 g) információkat nyújt a Pályázati Alapokkal kapcsolatban a Hozzájárulásról szóló információs kampány részeként,
 
-h)[^129] biztosítja a Pályázati Alapok létrehozását, beleértve a pályázati felhívás meghirdetését, a TKSz előzetes kiválasztását.
+h)[^130] biztosítja a Pályázati Alapok létrehozását, beleértve a pályázati felhívás meghirdetését, a TKSz előzetes kiválasztását.
 
-[^129]: A 46. § h) pontját a 11/2012. (II. 14.) Korm. rendelet 18. §-a iktatta be.
+[^130]: A 46. § h) pontját a 11/2012. (II. 14.) Korm. rendelet 18. §-a iktatta be.

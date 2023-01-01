@@ -1,4 +1,4 @@
-85/D. §[^202] (1) A lebonyolításban érintett szervezetek vezetői kötelesek szabálytalanság gyanúja esetén a szabálytalansági eljárást lefolytatni.
+85/D. §[^203] (1) A lebonyolításban érintett szervezetek vezetői kötelesek szabálytalanság gyanúja esetén a szabálytalansági eljárást lefolytatni.
 
 (2) Ha a svájci hatóság, az EUTAF, a belső ellenőrzési részleg vagy bármely, ellenőrzést végző szervezet szabálytalanság gyanújáról értesíti az NKE vezetőjét, akkor az NKE vezetője (vagy döntése alapján az érintett szervezet vezetője) köteles a szabálytalansági eljárás lefolytatására, vagy ha az ellenőrzést végző szerv szabálytalansági eljárás során tett megállapításait az NKE elfogadja, további vizsgálat lefolytatása nélkül megállapíthatja a szabálytalanságot és egyben dönthet a szükséges intézkedésekről.
 
@@ -22,4 +22,4 @@ c) a szabálytalansági gyanúval érintett összegről és
 
 d) a védelemhez való jogának érvényesítési lehetőségeiről.
 
-[^202]: A 85/D. §-t a 33/2011. (III. 17.) Korm. rendelet 8. §-a iktatta be.
+[^203]: A 85/D. §-t a 33/2011. (III. 17.) Korm. rendelet 8. §-a iktatta be.

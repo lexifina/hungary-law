@@ -2,7 +2,7 @@
 
 15. § (1) A Projekttervezeteket és a Végleges Projektjavaslatokat a pályázati felhívásban meghatározott szempontoknak megfelelően e rendelet, a svájci hatósággal közösen kialakított eljárásrend, valamint a Keretmegállapodásban rögzített elvek alapján kell értékelni.
 
-(2)[^63] A Végleges Projektjavaslatok értékelésére független értékelők alkalmazásával, a Keretmegállapodásban foglalt célkitűzésekkel és elvekkel összhangban, elsősorban az alábbi szempontok alapján kerül sor:
+(2)[^64] A Végleges Projektjavaslatok értékelésére független értékelők alkalmazásával, a Keretmegállapodásban foglalt célkitűzésekkel és elvekkel összhangban, elsősorban az alábbi szempontok alapján kerül sor:
 
 a) a pályázat mennyire illeszkedik a Keretmegállapodás 1. számú mellékletében felsorolt prioritási területekhez,
 
@@ -14,4 +14,4 @@ d) költséghatékonyság,
 
 e) fenntarthatóság.
 
-[^63]: A 15. § (2) bekezdése a 11/2012. (II. 14.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.
+[^64]: A 15. § (2) bekezdése a 11/2012. (II. 14.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.

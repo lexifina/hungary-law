@@ -1,4 +1,4 @@
-85/F. §[^204] (1) Ha a szabálytalansági vizsgálat szabálytalanságot állapít meg, az NKE vezetője dönt a szükséges intézkedések alkalmazásáról.
+85/F. §[^205] (1) Ha a szabálytalansági vizsgálat szabálytalanságot állapít meg, az NKE vezetője dönt a szükséges intézkedések alkalmazásáról.
 
 (2) A szabálytalansági vizsgálat lezárásának időpontja a 85/E. § (5) bekezdése szerinti döntéshozatal napja.
 
@@ -8,4 +8,4 @@
 
 (5) Az NKE a honlapján közzéteszi – a személyes adatok kivételével – a szabálytalansági eljárásban hozott, szabálytalanság megtörténtét megállapító döntéseket, a döntést követő 30 napon belül a kedvezményezett nevének, a projekt címének, a szabálytalanság elkövetése módjának, a szabálytalanság következményének, és a szabálytalansággal érintett összegnek a feltüntetésével.
 
-[^204]: A 85/F. §-t a 33/2011. (III. 17.) Korm. rendelet 8. §-a iktatta be.
+[^205]: A 85/F. §-t a 33/2011. (III. 17.) Korm. rendelet 8. §-a iktatta be.
