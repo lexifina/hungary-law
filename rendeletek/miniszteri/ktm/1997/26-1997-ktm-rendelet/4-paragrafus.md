@@ -2,11 +2,11 @@
 
 4. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-Melléklet a 26/1997. (VIII. 1.) KTM rendelethez
+Melléklet a 26/1997. (VIII. 1.) KTM rendelethez[^2]
 
 A Sárvíz-völgye Tájvédelmi Körzet ingatlan-nyilvántartási helyrajzi számai
 
-Fejér megye
+Fejér vármegye
 
 Aba
 
@@ -37,3 +37,4 @@ Tác
 0237/A–C, 0237/F–G, 0238–0241, 0249–0255
 
 [^1]: A 3. § a 32/2017. (VI. 9.) FM rendelet 8. §-a szerint módosított szöveg.
+[^2]: A Melléklet az 55/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
