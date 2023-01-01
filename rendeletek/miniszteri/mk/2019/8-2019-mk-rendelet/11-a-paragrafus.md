@@ -1,6 +1,6 @@
 ## 11. § A Filmiroda a mozi (moziterem) „art” minősítése visszavonását követő öt év elteltével törli a mozit (mozitermet) a nyilvántartásból, ha az „art” minősítés visszavonását követően azonos nyilvántartási számon szereplő mozi (moziterem) „art” minősítését a Filmirodától nem kérik.
 
-## 6/A. [^7] A moziüzemeltetői tevékenységet folytató természetes, illetve jogi személyek nyilvántartása
+## 6/A. [^8] A moziüzemeltetői tevékenységet folytató természetes, illetve jogi személyek nyilvántartása
 
 11/A. § (1) A Filmiroda az Mktv. 19. § (1) bekezdés c) pontja és a 19/K. § (5) bekezdés b) pontja alapján az Mktv. 2. § 15. pont b) alpontja szerinti moziüzemeltető szolgáltatókról nyilvántartást vezet a (2) bekezdésben meghatározott adattartalommal.
 
@@ -28,4 +28,4 @@ b) a jogi személy jogutód nélkül megszűnt.
 
 (6) A Filmiroda a nyilvántartásból törli a moziüzemeltetési tevékenységet, ha az általános hatósági felügyeleti eljárás során megállapítja, hogy a nyilvántartásba vétel feltételei már nem állnak fenn.
 
-[^7]: A 6/A. alcímet (11/A. §) a 10/2021. (XII. 28.) MK rendelet 4. §-a iktatta be.
+[^8]: A 6/A. alcímet (11/A. §) a 10/2021. (XII. 28.) MK rendelet 4. §-a iktatta be.

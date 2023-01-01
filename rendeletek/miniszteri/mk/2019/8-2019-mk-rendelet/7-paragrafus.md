@@ -30,7 +30,7 @@ c) az Mktv. 26/B. § (1) bekezdése szerinti besorolási eljárásban hozott vé
 
 d) a filmalkotás koprodukciós minősítése;
 
-e) a filmalkotás kulturális követelményeknek való megfelelése vagy meg nem felelése és az Mktv. 12/B. § b) pontjában foglalt táblázat alapján elért pontszáma;
+e)[^7] a filmalkotással szemben megkövetelt kulturális feltételek alapján az Mktv. 2. mellékletében foglalt táblázat szerint elért pontszáma;
 
 f) a közvetlen támogatást nyújtó szervezetek elnevezése és a nyújtott támogatás összege szervezetenként megjelölve;
 
@@ -43,3 +43,4 @@ i) a filmalkotás közvetlen magyarországi filmgyártási költségének össze
 j) a Filmiroda által ellenőrzött gyártási időszakonként az adott időszakra vonatkozóan a Filmiroda által a támogatási igazolásban megállapított közvetlen filmgyártási költség és a megállapított közvetett támogatás összege.
 
 [^6]: A 7. § (2) bekezdés f) pontja a 10/2021. (XII. 28.) MK rendelet 3. §-ával megállapított szöveg.
+[^7]: A 7. § (3) bekezdés e) pontja a 19/2022. (XII. 15.) MK rendelet 1. §-ával megállapított szöveg.

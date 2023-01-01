@@ -8,7 +8,7 @@ b) a 7. § (2) bekezdés h) pontjában meghatározott adatot a Filmirodának az 
 
 c) a 7. § (3) bekezdés a) és b) pontjában meghatározott adatot az Mktv. 31/B. § (3) bekezdésében meghatározott bejelentésben, illetve kérelemben
 
-## köteles bejelenteni.
+köteles bejelenteni.
 
 (3) A Filmiroda az (1)–(2) bekezdés szerint bejelentett adatokat hivatalból indított eljárásban bejegyzi az állami támogatásra jogosult filmalkotásokról és az állami támogatásban nem részesülő filmalkotásokról vezetett nyilvántartásba.
 

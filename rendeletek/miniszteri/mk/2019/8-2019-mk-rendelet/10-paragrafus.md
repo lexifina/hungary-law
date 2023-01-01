@@ -1,6 +1,6 @@
 ## 9. § A Filmiroda az állami támogatásban részesülő filmalkotásoknak a 7. § (3) bekezdésében meghatározott adatait a filmalkotás gyártása befejezésének napjától számított tíz év elteltével törli a nyilvántartásból.
 
-## 6. „ Art” mozik és mozitermek nyilvántartása
+## 6. Art” mozik és mozitermek nyilvántartása
 
 10. § (1) A Filmiroda az Mktv. 19. § (1) bekezdés c) pontja és 25/D. §-a alapján a Magyarország területén üzemeltetett „art” mozikról, illetve „art” mozitermekről vezetett hatósági nyilvántartását a (2) bekezdésben meghatározott adattartalommal a honlapján közzéteszi.
 
