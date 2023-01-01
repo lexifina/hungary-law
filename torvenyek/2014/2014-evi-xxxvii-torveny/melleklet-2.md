@@ -65,21 +65,3 @@ A szanálhatóság értékelése során a szanálási feladatkörében eljáró 
 1. az intézmény mennyire tudja hozzárendelni a fő üzletágakat és a kritikus funkciókat az egyes jogalanyokhoz;
 
 2. a jogi és a vállalati struktúrák mennyire vannak összehangolva a fő üzletágakkal és a kritikus funkciókkal;
-
-3. milyen mértékben léteznek olyan intézkedések, amelyek célja a fő üzletágak és a kritikus működési folyamatok támogatása és fenntartása érdekében az alapvető személyzetről, az infrastruktúráról, a finanszírozásról, a likviditásról és a tőkéről való gondoskodás;
-
-4. az intézmény által fenntartott szolgáltatási megállapodások mekkora hányada érvényesíthető teljes körűen az intézmény szanálása esetén;
-
-5. az intézmény irányítási struktúrája mennyire megfelelő az intézmény szolgáltatási szintre vonatkozó megállapodásainak kezeléséhez, továbbá mennyire biztosítja az e megállapodásokra vonatkozó belső politikáinak betartását;
-
-6. az intézménynél létezik-e – és milyen mértékben – eljárás arra az esetre, ha a kritikus funkciók vagy fő üzletágak elkülönítése miatt a szolgáltatási szintre vonatkozó megállapodások keretében nyújtott szolgáltatásokat át kell adni harmadik feleknek;
-
-7. milyen mértékben léteznek olyan készenléti tervek és intézkedések, amelyek biztosítják a fizetési és az elszámolási rendszerekhez való folyamatos hozzáférést;
-
-8. mennyire megfelelően biztosítják a vezetői információs rendszerek, hogy a szanálási hatóságok – a gyors határozathozatal érdekében – pontos és teljes körű információkat tudjanak gyűjteni a fő üzletágakkal és a kritikus működési folyamatokkal kapcsolatban;
-
-9. a vezetői információs rendszerek arra vonatkozó kapacitását, hogy az intézmény eredményes szanálásához elengedhetetlen információkat mindenkor, akár gyorsan változó körülmények között is rendelkezésre bocsássák;
-
-10. az intézmény mennyire tesztelte a vezetői információs rendszereit a szanálási hatóság által meghatározott stressz forgatókönyvek alapján;
-
-11. az intézmény mennyire tudja biztosítani a vezetői információs rendszereinek folytonosságát az érintett intézmény és az új intézmény számára egyaránt, ha a kritikus működési folyamatokat és a fő üzletágakat elkülönítik a többi működési folyamattól és üzletágtól;
