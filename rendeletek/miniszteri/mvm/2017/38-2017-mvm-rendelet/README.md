@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-38-20-6
 | --- | --- | --- |
 | 2018-01-01 | 2017-38-20-6N.1 | 38/2017. (XII. 27.) MvM rendelet |
 | 2018-01-02 | 2017-38-20-6N.2 | 2010: CXXX. törvény |
+| 2023-01-01 | 2017-38-20-6N.3 | 14/2022. (XII. 27.) ÉKM rendelet |
