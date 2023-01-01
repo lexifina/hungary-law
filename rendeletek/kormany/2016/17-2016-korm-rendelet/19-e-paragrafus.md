@@ -1,8 +1,8 @@
-19/E. § (1)[^103] A preferált kistelepülésen – a (2) bekezdésben foglalt kivétellel – a 14. § (1) bekezdés c) pontjában, valamint (10) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az igénylő, együttes igénylés esetén legalább az egyik igénylő 30 napnál nem régebbi okirattal igazolja, hogy a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában a Tbj. 6. §-a szerint biztosított, vagy a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősül, és legalább egy éve folyamatosan
+19/E. § (1)[^104] A preferált kistelepülésen – a (2) bekezdésben foglalt kivétellel – a 14. § (1) bekezdés c) pontjában, valamint (10) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az igénylő, együttes igénylés esetén legalább az egyik igénylő 30 napnál nem régebbi okirattal igazolja, hogy a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában a Tbj. 6. §-a szerint biztosított, vagy a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősül, és legalább egy éve folyamatosan
 
 a) a Tbj. 6. §-a alapján biztosított,
 
-b)[^104] a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytatott, és erről büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratban az oktatási intézmény azonosító adatait, a képzésre vonatkozó adatokat – ideértve a képzés kezdetét és várható befejezését is – tartalmazó nyilatkozatot tesz, vagy a 12. § (1) bekezdés a) pontja szerinti igénylő igazolja, hogy külföldi felsőoktatási intézmény nappali tagozatán folytatott olyan tanulmányokat, melyek a külföldi állam joga szerint kiállított olyan oklevélhez vezetnek, amely a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény rendelkezései szerint egyenértékűnek ismerhető el a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság állásfoglalása alapján,
+b)[^105] a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytatott, és erről büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratban az oktatási intézmény azonosító adatait, a képzésre vonatkozó adatokat – ideértve a képzés kezdetét és várható befejezését is – tartalmazó nyilatkozatot tesz, vagy a 12. § (1) bekezdés a) pontja szerinti igénylő igazolja, hogy külföldi felsőoktatási intézmény nappali tagozatán folytatott olyan tanulmányokat, melyek a külföldi állam joga szerint kiállított olyan oklevélhez vezetnek, amely a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény rendelkezései szerint egyenértékűnek ismerhető el a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság állásfoglalása alapján,
 
 c) a 12. § (1) bekezdés a) pontja szerinti igénylő kereső tevékenysége alapján valamely más állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozott, és ezt az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolással igazolja, vagy
 
@@ -10,7 +10,7 @@ d) a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató szem
 
 azzal, hogy az egyéves jogosultsági időszak számítása során a különböző, egymást követő jogosultsági időszakokat össze kell számítani, és a jogosultsági időszakot folyamatosnak kell tekinteni, ha abban egybefüggően legfeljebb 30 nap megszakítás van, melynek időtartama a teljesítendő jogosultsági időszakba nem számít bele.
 
-(2)[^105] A 19/D. § (2) bekezdés c) pontja szerinti családi otthonteremtési kedvezmény esetén a 14. § (1) bekezdés c) pontjában, valamint (10) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az igénylő – házastársak, fiatal házaspár vagy élettársak esetén legalább az egyik fél – a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában
+(2)[^106] A 19/D. § (2) bekezdés c) pontja szerinti családi otthonteremtési kedvezmény esetén a 14. § (1) bekezdés c) pontjában, valamint (10) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy az igénylő – házastársak, fiatal házaspár vagy élettársak esetén legalább az egyik fél – a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában
 
 a) 30 napnál nem régebbi okirattal igazolja, hogy a Tbj. 6. §-a szerint biztosított, vagy a Tbj. 4. § 11. pontja szerinti kiegészítő tevékenységet folytató személynek minősül – ide nem értve a közfoglalkoztatási jogviszonyban foglalkoztatott személyt –, vagy a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytat, és erről büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratba foglaltan nyilatkozik, valamint
 
@@ -18,7 +18,7 @@ b) legalább 2 éve folyamatosan
 
 ba) a Tbj. 6. §-a alapján biztosított, és ezt 30 napnál nem régebbi okirattal igazolja,
 
-bb)[^106] a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytat, és erről büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratba foglaltan nyilatkozik, vagy a 12. § (1) bekezdés a) pontja szerinti igénylő igazolja, hogy külföldi felsőoktatási intézmény nappali tagozatán folytatott olyan tanulmányokat, melyek a külföldi állam joga szerint kiállított olyan oklevélhez vezetnek, amely a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény rendelkezései szerint egyenértékűnek ismerhető el a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság állásfoglalása alapján,
+bb)[^107] a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytat, és erről büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokiratba foglaltan nyilatkozik, vagy a 12. § (1) bekezdés a) pontja szerinti igénylő igazolja, hogy külföldi felsőoktatási intézmény nappali tagozatán folytatott olyan tanulmányokat, melyek a külföldi állam joga szerint kiállított olyan oklevélhez vezetnek, amely a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény rendelkezései szerint egyenértékűnek ismerhető el a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóság állásfoglalása alapján,
 
 bc) a 12. § (1) bekezdés a) pontja szerinti igénylő kereső tevékenysége alapján valamely más állam vagy nemzetközi szerződéssel létrehozott nemzetközi szervezet társadalombiztosítási rendszerének hatálya alá tartozott, és ezt az illetékes külföldi hatóság vagy a nemzetközi szervezet által kiállított igazolással igazolja, vagy
 
@@ -50,10 +50,10 @@ biztosító jelzálogjog ranghelye is megelőzheti.
 
 (11) A lakás korszerűsítésére e rendeletnek a bővítésre irányadó rendelkezéseit megfelelően alkalmazni kell.
 
-(12)[^107] Az (1) bekezdés c) pontja és a (2) bekezdés b) pont bc) alpontja szerinti igazolás a 30. § (1a) bekezdése szerinti igazolással nem helyettesíthető.
+(12)[^108] Az (1) bekezdés c) pontja és a (2) bekezdés b) pont bc) alpontja szerinti igazolás a 30. § (1a) bekezdése szerinti igazolással nem helyettesíthető.
 
-[^103]: A 19/E. § (1) bekezdése a 183/2021. (IV. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^104]: A 19/E. § (1) bekezdés b) pontja az 530/2021. (IX. 14.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
-[^105]: A 19/E. § (2) bekezdése a 183/2021. (IV. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^106]: A 19/E. § (2) bekezdés b) pont bb) alpontja az 530/2021. (IX. 14.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
-[^107]: A 19/E. § (12) bekezdését a 252/2020. (V. 29.) Korm. rendelet 4. §-a iktatta be.
+[^104]: A 19/E. § (1) bekezdése a 183/2021. (IV. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^105]: A 19/E. § (1) bekezdés b) pontja az 530/2021. (IX. 14.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^106]: A 19/E. § (2) bekezdése a 183/2021. (IV. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^107]: A 19/E. § (2) bekezdés b) pont bb) alpontja az 530/2021. (IX. 14.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^108]: A 19/E. § (12) bekezdését a 252/2020. (V. 29.) Korm. rendelet 4. §-a iktatta be.

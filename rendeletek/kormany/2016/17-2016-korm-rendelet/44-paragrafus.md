@@ -1,22 +1,22 @@
 44. § (1) Az ingatlan-nyilvántartási eljárásban a családi otthonteremtési kedvezmény visszafizetésének kötelezettsége esetén a 36. § (1) bekezdés a) pontja szerinti elidegenítésről szóló szerződést csatolni kell.
 
-(2)[^218] Ha a támogatott személy eladó a családi otthonteremtési kedvezménnyel felépített vagy megvásárolt új lakás elidegenítéséből származó – a (7) bekezdésben foglaltakkal csökkentett – bevételnek csak egy részét fordította a 43. § (2) bekezdés d) pontja szerinti újabb lakás megszerzésére, úgy a családi otthonteremtési kedvezmény a lakás elidegenítéséből származó bevétel és a vételár vagy bekerülési költség különbözetével arányos részét kell visszafizetnie. A kormányhivatal a határozatával a visszafizetési kötelezettség alá nem eső családi otthonteremtési kedvezmény hányadára jutó jelzálogjogot, továbbá annak biztosítására az elidegenítési és terhelési tilalmat az újabb ingatlanra az állam javára bejegyezteti.
+(2)[^220] Ha a támogatott személy eladó a családi otthonteremtési kedvezménnyel felépített vagy megvásárolt új lakás elidegenítéséből származó – a (7) bekezdésben foglaltakkal csökkentett – bevételnek csak egy részét fordította a 43. § (2) bekezdés d) pontja szerinti újabb lakás megszerzésére, úgy a családi otthonteremtési kedvezmény a lakás elidegenítéséből származó bevétel és a vételár vagy bekerülési költség különbözetével arányos részét kell visszafizetnie. A kormányhivatal a határozatával a visszafizetési kötelezettség alá nem eső családi otthonteremtési kedvezmény hányadára jutó jelzálogjogot, továbbá annak biztosítására az elidegenítési és terhelési tilalmat az újabb ingatlanra az állam javára bejegyezteti.
 
 (3) A (2) bekezdés esetén a visszafizetési kötelezettség alá nem eső családi otthonteremtési kedvezmény összegének megfelelő jelzálogjog, valamint elidegenítési és terhelési tilalom újabb lakásra való átjegyzésének feltétele, hogy a támogatott személy a családi otthonteremtési kedvezmény összegének – az eladási és a vételár különbözetének a (7) bekezdés szerinti mértékével csökkentett – arányos részét visszafizesse.
 
-(4)[^219] A támogatott személy
+(4)[^221] A támogatott személy
 
 a) a lakás elidegenítését az erre vonatkozó szerződés megkötésétől,
 
 b) a saját maga és a vér szerinti, vagy örökbefogadott gyermekének lakóhelyét érintő változást a változás bekövetkezésének időpontjától, vagy
 
-c)[^220] a bontást, a lakáscéltól eltérő hasznosítást, a lakás használatának a 16. § (1) bekezdése szerinti időszak alatti átengedését annak megkezdésétől
+c)[^222] a bontást, a lakáscéltól eltérő hasznosítást, a lakás használatának a 16. § (1) bekezdése szerinti időszak alatti átengedését annak megkezdésétől
 
 számított 30 napon belül köteles a kormányhivatalnak bejelenteni az ezekre vonatkozó iratok egyidejű csatolásával. Ha a szerződés létrejöttéhez harmadik személy beleegyezése szükséges, úgy a bejelentési határidő 45 nap. Ha a szerződés érvényességéhez hatósági jóváhagyás vagy hatósági nyilvántartásba történő bejegyzés szükséges, úgy a bejelentési határidő az ennek megtörténtét követő 30 nap.
 
-(5)[^221] A kormányhivatal – a 43. § (9)–(10) bekezdésében foglaltak kivételével – a (4) bekezdés szerinti bejelentést követően, ha a támogatott személy a 43. § (1) bekezdése szerinti felfüggesztést nem kérte, úgy határozatban kötelezi a támogatott személyt a családi otthonteremtési kedvezmény visszafizetésére.
+(5)[^223] A kormányhivatal – a 43. § (9)–(10) bekezdésében foglaltak kivételével – a (4) bekezdés szerinti bejelentést követően, ha a támogatott személy a 43. § (1) bekezdése szerinti felfüggesztést nem kérte, úgy határozatban kötelezi a támogatott személyt a családi otthonteremtési kedvezmény visszafizetésére.
 
-(6)[^222] Ha a támogatott személy a (4) bekezdésben foglalt bejelentési kötelezettségének késve, vagy nem tesz eleget, akkor a visszafizetési kötelezettség a bontás, a lakáscéltól eltérő hasznosítás megkezdésének, a lakóhely megváltoztatásának, a lakáshasználat átengedésének, illetve a lakás elidegenítésére vonatkozó szerződés megkötésének napjától számított, a Ptk. szerinti, de 5%-ot meg nem haladó mértékű késedelmi kamattal növelten terheli.
+(6)[^224] Ha a támogatott személy a (4) bekezdésben foglalt bejelentési kötelezettségének késve, vagy nem tesz eleget, akkor a visszafizetési kötelezettség a bontás, a lakáscéltól eltérő hasznosítás megkezdésének, a lakóhely megváltoztatásának, a lakáshasználat átengedésének, illetve a lakás elidegenítésére vonatkozó szerződés megkötésének napjától számított, a Ptk. szerinti, de 5%-ot meg nem haladó mértékű késedelmi kamattal növelten terheli.
 
 (7) A korábbi lakás elidegenítéséből származó bevétel csökkenthető
 
@@ -26,8 +26,8 @@ b) azzal az összeggel, melyet az adós az elidegenítésből származó bevéte
 
 de legfeljebb akkora összeggel, hogy az így csökkentett bevétel összege elérje az igénybe vett családi otthonteremtési kedvezmény összegének kétszeresét.
 
-[^218]: A 44. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 5. pontja, a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^219]: A 44. § (4) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 10. pontja, a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés h) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^220]: A 44. § (4) bekezdés c) pontja a 273/2016. (IX. 15.) Korm. rendelet 26. § m) pontja szerint módosított szöveg.
-[^221]: A 44. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 5. pontja, a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^222]: A 44. § (6) bekezdése a 372/2022. (IX. 29.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^220]: A 44. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 5. pontja, a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^221]: A 44. § (4) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 10. pontja, a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés h) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^222]: A 44. § (4) bekezdés c) pontja a 273/2016. (IX. 15.) Korm. rendelet 26. § m) pontja szerint módosított szöveg.
+[^223]: A 44. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 5. pontja, a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^224]: A 44. § (6) bekezdése a 372/2022. (IX. 29.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
