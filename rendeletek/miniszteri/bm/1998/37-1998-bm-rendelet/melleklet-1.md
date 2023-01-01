@@ -4,7 +4,7 @@
 
 ## Az útlevél adattartalma
 
-1. Családi és utónév
+1.[^24] Családi és utónév (kérelemre nemzetiségi nyelven is)
 
 2. Születési családi és utónév
 
@@ -38,7 +38,7 @@
 
 17. Tudnivalók
 
-18.[^24] A hivatalos útlevél adattartalma – a hajós szolgálati útlevél kivételével – kiegészül a használatra jogosult személy rangjának, illetve az útlevél kiállítására alapot szolgáltató tisztségének vagy egyéb jogcímének megjelölésével.
+18.[^25] A hivatalos útlevél adattartalma – a hajós szolgálati útlevél kivételével – kiegészül a használatra jogosult személy rangjának, illetve az útlevél kiállítására alapot szolgáltató tisztségének vagy egyéb jogcímének megjelölésével.
 
 Megjegyzés:
 
@@ -58,4 +58,5 @@ Az úti okmány borítójának színe
 
 [^22]: A 12. §-t a 23/2006. (IX. 27.) IRM rendelet 3. §-a iktatta be.
 [^23]: Az 1. számú melléklet a 23/2006. (IX. 27.) IRM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^24]: Az 1. számú melléklet 18. pontja a 24/2021. (VII. 30.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^24]: Az 1. számú melléklet 1. pontja a 24/2021. (VII. 30.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^25]: Az 1. számú melléklet 18. pontja a 24/2021. (VII. 30.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.

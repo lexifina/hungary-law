@@ -1,8 +1,8 @@
-5. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^28]
+5. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^29]
 
 ## Az úti okmány iránti kérelem adattartalma
 
-1. Családi és utónév
+1.[^30] Családi és utónév (kérelemre nemzetiségi nyelven is)
 
 2. Születési családi és utónév
 
@@ -40,4 +40,5 @@
 
 19. Benyújtás dátuma
 
-[^28]: Az 5. számú mellékletet újonnan a 64/2004. (X. 28.) BM rendelet 6. §-ának (3) bekezdése iktatta be, szövege a 37/2018. (XII. 28.) BM rendelet 2. §-ával megállapított szöveg.
+[^29]: Az 5. számú mellékletet újonnan a 64/2004. (X. 28.) BM rendelet 6. §-ának (3) bekezdése iktatta be, szövege a 37/2018. (XII. 28.) BM rendelet 2. §-ával megállapított szöveg.
+[^30]: Az 5. számú melléklet 1. pontja a 24/2021. (VII. 30.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.

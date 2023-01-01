@@ -12,7 +12,7 @@
 
 ## A vastagon bekeretezett részt a Kérelmező tölti ki.
 
-7. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^30]
+7. számú melléklet a 37/1998. (VIII. 18.) BM rendelethez[^32]
 
 ## A menekültként elismert személy kétnyelvű úti okmánya, az oltalmazottként elismert személy úti okmánya, valamint a menedékes úti okmánya iránti kérelem adattartalma
 
@@ -46,4 +46,4 @@
 
 4. A benyújtás dátuma
 
-[^30]: A 7. mellékletet a 38/2019. (XI. 7.) BM rendelet 1. § (3) bekezdése iktatta be.
+[^32]: A 7. mellékletet a 38/2019. (XI. 7.) BM rendelet 1. § (3) bekezdése iktatta be.
