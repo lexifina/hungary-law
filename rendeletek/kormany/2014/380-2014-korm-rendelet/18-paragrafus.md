@@ -24,7 +24,7 @@ a) a földterületre vagy épületre vonatkozó bérleti jogviszony nagyvállalk
 
 b) a pénzügyi lízing formájában beszerzett üzemre, gépre, berendezésre vonatkozó szerződés tartalmazza az eszköznek a bérleti időtartam lejáratakor történő megvásárlására vonatkozó kötelezettséget.
 
-(4a)[^60] A támogatott eszközöket a kedvezményezett beszállítói is használhatják beszállítói szerződés keretében, ha
+(4a)[^61] A támogatott eszközöket a kedvezményezett beszállítói is használhatják beszállítói szerződés keretében, ha
 
 a) a beszállító támogatható településen működik, a beszerzett eszközök a kedvezményezett által megjelölt beruházási helyszínen kerülnek aktiválásra,
 
@@ -34,11 +34,11 @@ c) a beszállító nem részesül vagy részesült állami támogatásban az esz
 
 d) az eszközre nyújtott támogatás mértéke nem haladja meg a beszállító telephelyén vagy a beruházási helyszínen alkalmazandó maximális regionális támogatási mértékek közül az alacsonyabbat.
 
-(4b)[^61] A beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a beruházás helyszínén a támogatott tevékenységet.
+(4b)[^62] A beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a beruházás helyszínén a támogatott tevékenységet.
 
-(4c)[^62] Az egy vállalatcsoporton belülről beszerzett új eszközök esetén az elszámolható költség nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
+(4c)[^63] Az egy vállalatcsoporton belülről beszerzett új eszközök esetén az elszámolható költség nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
 
-(4d)[^63] A 16. § f) pontjától eltérően a megújuló energia termeléséhez kapcsolódó eszközök költségei elszámolható költségeknek minősülnek, ha
+(4d)[^64] A 16. § f) pontjától eltérően a megújuló energia termeléséhez kapcsolódó eszközök költségei elszámolható költségeknek minősülnek, ha
 
 a) a beruházás elsődleges célja nem az energiatermelés,
 
@@ -86,10 +86,10 @@ c) kis- és középvállalkozás esetén a beruházó a beruházás megkezdések
 
 d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább öt évig az érintett területen fenntartja.
 
-(9)[^64] Nem minősül a (8) bekezdés c) és d) pontja szerinti fenntartási kötelezettség megsértésének, ha a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket 2020. január 1. és 2021. június 30. között szüntette meg.
+(9)[^65] Nem minősül a (8) bekezdés c) és d) pontja szerinti fenntartási kötelezettség megsértésének, ha a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket 2020. január 1. és 2021. június 30. között szüntette meg.
 
-[^60]: A 18. § (4a) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^61]: A 18. § (4b) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^62]: A 18. § (4c) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^63]: A 18. § (4d) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^64]: A 18. § (9) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^61]: A 18. § (4a) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^62]: A 18. § (4b) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^63]: A 18. § (4c) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^64]: A 18. § (4d) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^65]: A 18. § (9) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be.

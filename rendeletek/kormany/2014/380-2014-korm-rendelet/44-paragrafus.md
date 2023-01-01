@@ -24,8 +24,8 @@ c) a képzési projekthez kapcsolódó tanácsadás költsége,
 
 d) a képzésben résztvevők személyi jellegű ráfordításai és az általános közvetett költségek (pl. adminisztrációs költségek, bérleti díj, rezsiköltségek) azokra az órákra vonatkozóan, amikor a képzésben résztvevők részt vesznek a képzésen,
 
-e)[^80] az oktatóknak és a képzés résztvevőinek a közvetlenül a képzési projekthez kapcsolódó szállásköltsége.
+e)[^81] az oktatóknak és a képzés résztvevőinek a közvetlenül a képzési projekthez kapcsolódó szállásköltsége.
 
 (5) Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez.
 
-[^80]: A 44. § (4) bekezdés e) pontja a 483/2017. (XII. 28.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^81]: A 44. § (4) bekezdés e) pontja a 483/2017. (XII. 28.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.

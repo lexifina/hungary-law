@@ -1,6 +1,6 @@
 ## 12. A kutatás-fejlesztési projekthez nyújtott támogatás
 
-34. § (1)[^75] A kutatás-fejlesztési projekthez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a (2) bekezdés szerinti kategóriába tartozó kutatás-fejlesztési projekt részére nyújtható, beleértve a Horizont 2020 keretprogram vagy a Horizont Európa keretprogram révén a „kiválósági pecsét” minőségi védjegyben részesült kutatás-fejlesztési projekteket, továbbá a társfinanszírozott kutatás-fejlesztési projekteket és a társfinanszírozott partnerség alakításra irányuló projekteket is.
+34. § (1)[^76] A kutatás-fejlesztési projekthez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a (2) bekezdés szerinti kategóriába tartozó kutatás-fejlesztési projekt részére nyújtható, beleértve a Horizont 2020 keretprogram vagy a Horizont Európa keretprogram révén a „kiválósági pecsét” minőségi védjegyben részesült kutatás-fejlesztési projekteket, továbbá a társfinanszírozott kutatás-fejlesztési projekteket és a társfinanszírozott partnerség alakításra irányuló projekteket is.
 
 (2) A kutatás-fejlesztési projekt kategóriái:
 
@@ -16,4 +16,4 @@ d) megvalósíthatósági tanulmány.
 
 (4) A támogatásra a 48. § (1)–(2) és (4) bekezdésében foglaltakat is alkalmazni kell.
 
-[^75]: A 34. § (1) bekezdése a 434/2022. (XI. 2.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^76]: A 34. § (1) bekezdése a 434/2022. (XI. 2.) Korm. rendelet 13. §-ával megállapított szöveg.
