@@ -16,7 +16,7 @@ A szénhidrogén tulajdonjoga az a) pontban meghatározott összeg megfizetésé
 
 a) az (1b) bekezdés szerinti eset kivételével a bányafelügyelet engedélyétől eltérő, más hatósági engedéllyel rendelkező,
 
-b) katasztrófaveszély vagy az Alaptörvény 53. cikke szerinti veszélyhelyzet megszűnését követően más célra történő felhasználás, hasznosítás vagy értékesítés esetén a megyei, fővárosi védelmi bizottság határozata szerint kitermelésre jogosult
+b) katasztrófaveszély vagy az Alaptörvény 53. cikke szerinti veszélyhelyzet megszűnését követően más célra történő felhasználás, hasznosítás vagy értékesítés esetén a vármegyei, fővárosi védelmi bizottság határozata szerint kitermelésre jogosult
 
 személy tulajdonába kerül.
 

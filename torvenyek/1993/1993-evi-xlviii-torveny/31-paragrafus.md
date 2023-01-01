@@ -25,3 +25,5 @@ e) építési engedélyhez kötött sajátos építményt használatbavételi en
 (3) Ha a sajátos építményt a (2) bekezdés a), b) vagy c) pontja szerint létesítették, a bányafelügyelet arra fennmaradási engedélyt adhat, ha a szabályossá tétel feltételei fennállnak vagy megteremthetők. Ha a sajátos építményt a (2) bekezdés d) pontja alapján létesítették, a bányafelügyelet elrendeli a sajátos építmény bontását.
 
 (4) Nem lehet a (2) bekezdés a) és b) pontjában meghatározott esetekben bírságot kiszabni, ha az azonnal végrehajthatónak nyilvánított építési engedélyt megsemmisítették, vagy azt a bíróság hatályon kívül helyezte.
+
+(5) Az építésügyi hatósági vagy az építésfelügyeleti hatósági jogkörben eljáró bányafelügyelet végleges döntése ellen a közlésétől számított tizenöt napon belül lehet közigazgatási pert indítani.

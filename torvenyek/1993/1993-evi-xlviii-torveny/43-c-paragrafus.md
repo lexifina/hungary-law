@@ -12,6 +12,8 @@ c) a kutatás engedélyezésére vonatkozó eljárás során 25 nap.
 
 d) a magyar állam tulajdonosi jogait gyakorló szerv igénybejelentése esetén 55 nap.
 
+e) a 38. § szerinti szolgalom alapítási eljárás esetén 75 nap.
+
 (2) A bányafelügyelet együttes eldöntés céljából elrendelheti az előtte folyamatban lévő olyan eljárások egyesítését, amelyek tárgya egymással összefügg. Az eljárások egyesítése esetén a bányafelügyelet a legkorábban indult ügy ügyintézési határidején belül jár el.
 
 (3) A bányafelügyelet
