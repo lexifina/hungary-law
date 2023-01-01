@@ -2,4 +2,4 @@
 
 ## Régészeti védelem, régészeti feltárás
 
-26–28. §
+### 26. §

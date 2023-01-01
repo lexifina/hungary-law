@@ -50,7 +50,7 @@ ca) tematikus múzeum,
 
 cb) területi múzeum,
 
-cc) megyei hatókörű városi múzeum,
+cc) vármegyei hatókörű városi múzeum,
 
 cd) országos szakmúzeum,
 

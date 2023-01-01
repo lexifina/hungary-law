@@ -1,3 +1,3 @@
 ## Kiviteli engedélyezési eljárás
 
-19–20. §
+### 19. §

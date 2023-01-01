@@ -28,7 +28,7 @@ j) elnevezésében megjelenik a könyvtár kifejezés.
 
 a) a nemzeti könyvtár,
 
-b) a megyei hatókörű városi könyvtár,
+b) a vármegyei hatókörű városi könyvtár,
 
 c) a 64. § (2) bekezdés a) pontja szerinti települési könyvtár,
 

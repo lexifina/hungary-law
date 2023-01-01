@@ -1,3 +1,3 @@
 ## Védetté nyilvánítási eljárás
 
-9. §
+### 9. §

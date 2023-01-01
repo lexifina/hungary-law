@@ -1,3 +1,3 @@
 ## Ideiglenes kiviteli engedély
 
-23–24. §
+### 23. §

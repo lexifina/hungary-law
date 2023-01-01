@@ -1,3 +1,3 @@
 ## A kulturális javak behozatala
 
-25. §
+### 25. §
