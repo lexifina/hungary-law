@@ -1,3 +1,5 @@
-## 3.[^2]
+## 3.[^3]
 
-[^2]: A 3. alcímet (3. §) az 502/2017. (XII. 29.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+3. §
+
+[^3]: A 3. alcímet (3. §) az 502/2017. (XII. 29.) Korm. rendelet 9. §-a hatályon kívül helyezte.
