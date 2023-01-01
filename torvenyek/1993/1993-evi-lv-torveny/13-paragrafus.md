@@ -2,9 +2,9 @@
 
 13. § (1) Az állampolgárság megszerzésére irányuló nyilatkozatot és kérelmet, továbbá az állampolgárságról lemondó nyilatkozatot, valamint az állampolgársági bizonyítvány kiadása iránti kérelmet (a továbbiakban együtt: állampolgársági kérelem)
 
-a) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalához (a továbbiakban: járási hivatal),
+a) a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalához (a továbbiakban: járási hivatal),
 
-b) a fővárosi és megyei kormányhivatal integrált ügyfélszolgálati irodájához (a továbbiakban: integrált ügyfélszolgálati iroda),
+b) a fővárosi és vármegyei kormányhivatal integrált ügyfélszolgálati irodájához (a továbbiakban: integrált ügyfélszolgálati iroda),
 
 c) a magyar konzuli tisztviselőhöz, illetve
 
