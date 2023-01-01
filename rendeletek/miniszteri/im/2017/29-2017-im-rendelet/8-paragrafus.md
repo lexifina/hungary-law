@@ -1,3 +1,3 @@
-## 7. §[^4]
+8. §[^6]
 
-[^4]: A 7. §-t a 18/2020. (XII. 29.) IM rendelet 12. §-a hatályon kívül helyezte.
+[^6]: A 8. §-t a 18/2020. (XII. 29.) IM rendelet 12. §-a hatályon kívül helyezte.

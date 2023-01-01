@@ -1,6 +1,6 @@
-3. melléklet a 29/2017. (XII. 27.) IM rendelethez[^9]
+3. melléklet a 29/2017. (XII. 27.) IM rendelethez[^10]
 
-## Az áldozati státusz igazolása iránti kérelem benyújtására szolgáló nyomtatvány adattartalma
+Az áldozati státusz igazolása iránti kérelem benyújtására szolgáló nyomtatvány adattartalma
 
 1. A kérelmező személyi adatai
 
@@ -58,4 +58,4 @@
 
 5. Tájékoztató
 
-[^9]: A 3. mellékletet a 18/2020. (XII. 29.) IM rendelet 11. § (3) bekezdése iktatta be, szövege a 18/2021. (XII. 23.) IM rendelet 25. § (3) bekezdése szerint módosított szöveg.
+[^10]: A 3. mellékletet a 18/2020. (XII. 29.) IM rendelet 11. § (3) bekezdése iktatta be, szövege a 18/2021. (XII. 23.) IM rendelet 25. § (3) bekezdése szerint módosított szöveg.
