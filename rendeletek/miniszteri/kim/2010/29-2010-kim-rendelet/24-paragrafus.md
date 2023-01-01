@@ -1,5 +1,3 @@
-## 23/A. §
-
 ## 7. Záró rendelkezések
 
 24. § (1) Ez a rendelet 2011. január 1-jén lép hatályba.

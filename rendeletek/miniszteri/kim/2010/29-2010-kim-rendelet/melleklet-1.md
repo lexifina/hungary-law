@@ -2,7 +2,7 @@
 
 1. melléklet a 29/2010. (XII. 31.) KIM rendelethez[^17]
 
-## A hagyatéki leltár nyomtatványának adattartalma
+A hagyatéki leltár nyomtatványának adattartalma
 
 1. A leltár-nyomtatvány fajtája:
 
@@ -42,7 +42,7 @@
 
 3.1. a közjegyzőnek (megjegyzésben az illetékességét megállapító ok)
 
-3.2. a fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalának (a továbbiakban: gyámhivatal) (megjegyzésben ennek oka)
+3.2.[^18] a fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalának (a továbbiakban: gyámhivatal) (megjegyzésben ennek oka)
 
 4. Az örökhagyóra vonatkozó adatok:
 
@@ -180,3 +180,4 @@
 
 [^16]: A 25. §-t a 12/2015. (VII. 23.) IM rendelet 4. § (5) bekezdése iktatta be.
 [^17]: Az 1. melléklet a 20/2017. (XII. 21.) IM rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^18]: Az 1. melléklet 3. pont 3.2. alpontja a 38/2022. (XII. 27.) IM rendelet 7. §-a szerint módosított szöveg.
