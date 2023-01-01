@@ -10,7 +10,7 @@ b)
 
 c) a központi államigazgatási szerv a kormánybizottság kivételével, továbbá az országos kamara, valamint
 
-d) a fővárosi és megyei kormányhivatal.
+d) a fővárosi és vármegyei kormányhivatal.
 
 (3) A (2) bekezdésben nem szereplő közfeladatot ellátó szervek a 37. § szerinti elektronikus közzétételi kötelezettségüknek választásuk szerint saját vagy társulásaik által közösen működtetett, illetve a felügyeletüket, szakmai irányításukat vagy működésükkel kapcsolatos koordinációt ellátó szervek által fenntartott, valamint az erre a célra létrehozott központi honlapon való közzététellel is eleget tehetnek.
 
