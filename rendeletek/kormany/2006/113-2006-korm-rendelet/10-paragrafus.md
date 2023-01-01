@@ -1,6 +1,6 @@
 10. § (1) Ez a rendelet a kihirdetését követő 45. napon lép hatályba.
 
-(2)[^43]
+(2)[^45]
 
 (3) E rendelet – szabályozási tárgykörében – a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
@@ -8,7 +8,7 @@ a) az Európai Parlament és a Tanács 854/2004/EK rendelete (2004. április 29.
 
 b) az Európai Parlament és a Tanács 882/2004/EK rendelete (2004. április 29.) a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az állatok kíméletére vonatkozó szabályok követelményeinek történő megfelelés ellenőrzésének biztosítása céljából végrehajtott hatósági ellenőrzésekről.
 
-Melléklet a 113/2006. (V. 12.) Korm. rendelethez[^44]
+Melléklet a 113/2006. (V. 12.) Korm. rendelethez[^46]
 
 | Iktatószám: |
 
@@ -24,7 +24,7 @@ Képviseli:
 
 mint Megbízó (továbbiakban: Megbízó) és
 
-a ……………………………………………………. Megyei Kormányhivatal
+a ……………………………………………………. Vármegyei Kormányhivatal
 
 Székhely:
 
@@ -98,7 +98,7 @@ A jelen szerződésben foglalt feladatok ellátására utasítási joggal a Megb
 
 5.) A Megbízott feladata teljesítése során személyesen köteles eljárni.
 
-6.) Megbízott az 1.) pontban meghatározott egyes feladatok ellátása során a Nemzeti Élelmiszerlánc-biztonsági Hivatal, valamint a megyei kormányhivatalok mezőgazdasági szakigazgatási szervei előtt kezdeményezett eljárásokban fizetendő igazgatási szolgáltatási díjak mértékéről, valamint az igazgatási szolgáltatási díj fizetésének szabályairól szóló 63/2012. (VII. 2.) VM rendelet 1. számú melléklete szerinti igazgatási szolgáltatási díjat az abban meghatározottak szerint beszedi akként, hogy az igazgatási szolgáltatási díjról a Közreműködő nevében számlát állít ki. Az igazgatási szolgáltatási díjról kiállítandó számlát a Közreműködő bocsátja Megbízott rendelkezésére, amely a Közreműködő szigorú számadású bizonylata.
+6.) Megbízott az 1.) pontban meghatározott egyes feladatok ellátása során a Nemzeti Élelmiszerlánc-biztonsági Hivatal, valamint a vármegyei kormányhivatalok mezőgazdasági szakigazgatási szervei előtt kezdeményezett eljárásokban fizetendő igazgatási szolgáltatási díjak mértékéről, valamint az igazgatási szolgáltatási díj fizetésének szabályairól szóló 63/2012. (VII. 2.) VM rendelet 1. számú melléklete szerinti igazgatási szolgáltatási díjat az abban meghatározottak szerint beszedi akként, hogy az igazgatási szolgáltatási díjról a Közreműködő nevében számlát állít ki. Az igazgatási szolgáltatási díjról kiállítandó számlát a Közreműködő bocsátja Megbízott rendelkezésére, amely a Közreműködő szigorú számadású bizonylata.
 
 Megbízott jelen szerződés aláírásával igazolja a szükséges számlatömbök átvételét. Megbízott a betelt számlatömböket negyedévente köteles Közreműködő részére visszaadni.
 
@@ -206,5 +206,5 @@ A jogosult állatorvosi tevékenység során elszámolható munkaórák
 
 |  | 13. | Vágópontok felügyelete | 2 |
 
-[^43]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 316. pontja hatályon kívül helyezte.
-[^44]: A mellékletet a 369/2012. (XII. 17.) Korm. rendelet 8. §-a iktatta be, szövege az 57/2014. (III. 4.) Korm. rendelet 6. § (1) bekezdés b) pontja és (2) bekezdése, a 98/2014. (III. 25.) Korm. rendelet 3. §-a, a 70/2015. (III. 30.) Korm. rendelet 79. § (4)–(5) bekezdése, a 441/2015. (XII. 28.) Korm. rendelet 72. § f)–h) pontja, a 668/2020. (XII. 28.) Korm. rendelet 15. § (2) bekezdése szerint módosított szöveg.
+[^45]: A 10. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 316. pontja hatályon kívül helyezte.
+[^46]: A mellékletet a 369/2012. (XII. 17.) Korm. rendelet 8. §-a iktatta be, szövege az 57/2014. (III. 4.) Korm. rendelet 6. § (1) bekezdés b) pontja és (2) bekezdése, a 98/2014. (III. 25.) Korm. rendelet 3. §-a, a 70/2015. (III. 30.) Korm. rendelet 79. § (4)–(5) bekezdése, a 441/2015. (XII. 28.) Korm. rendelet 72. § f)–h) pontja, a 668/2020. (XII. 28.) Korm. rendelet 15. § (2) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 66. § b) és d) pontja szerint módosított szöveg.
