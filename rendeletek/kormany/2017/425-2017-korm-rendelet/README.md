@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-425-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2017-12-20 | 2017-425-20-22.1 | 425/2017. (XII. 19.) Korm. rendelet |
+| 2023-01-01 | 2017-425-20-22.2 | 616/2022. (XII. 29.) Korm. rendelet |
