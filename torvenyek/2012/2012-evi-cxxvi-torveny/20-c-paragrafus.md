@@ -1,1 +1,1 @@
-20/C. § A megyei (fővárosi) küldöttgyűlésre a 20/A. és 20/B. §-ban foglaltakat kell alkalmazni.
+20/C. § A vármegyei (fővárosi) küldöttgyűlésre a 20/A. és 20/B. §-ban foglaltakat kell alkalmazni.

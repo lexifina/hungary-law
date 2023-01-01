@@ -1,6 +1,6 @@
 53. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
-a) az ingatlanügyi hatóság, az adóhatóság, a mezőgazdasági és vidékfejlesztési támogatási szerv és a fővárosi és megyei kormányhivatal általi, az agrárkamara részére térítésmentesen történő adatszolgáltatási kötelezettség szabályait;
+a) az ingatlanügyi hatóság, az adóhatóság, a mezőgazdasági és vidékfejlesztési támogatási szerv és a fővárosi és vármegyei kormányhivatal általi, az agrárkamara részére térítésmentesen történő adatszolgáltatási kötelezettség szabályait;
 
 b) az agrárkamara hatáskörébe tartozó igazgatási feladatok ellátásával és azok elvégzésének díjával kapcsolatos részletes szabályokat.
 

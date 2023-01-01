@@ -2,7 +2,7 @@
 
 9. § (1) Az agrárkamara tagjának joga, hogy
 
-a) részt vegyen a megyei küldöttek megválasztásában, e törvényben foglaltak és e törvény felhatalmazása alapján megalkotott szabályok szerint,
+a) részt vegyen a vármegyei küldöttek megválasztásában, e törvényben foglaltak és e törvény felhatalmazása alapján megalkotott szabályok szerint,
 
 b) küldöttnek vagy a testületi szervek tagjának válasszák,
 

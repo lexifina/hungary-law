@@ -8,7 +8,7 @@ a) az agrárkamara elnöke,
 
 b) az agrárkamara alelnökei,
 
-c) az agrárkamara megyei szervezetének elnökei,
+c) az agrárkamara vármegyei szervezetének elnökei,
 
 d) országos etikai bizottság elnöke.
 
