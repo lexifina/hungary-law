@@ -1,10 +1,10 @@
 42. § (1)[^20] A halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény a halottvizsgálati bizonyítvány kiállításáról – lehetőség szerint rövid úton – értesíti az eltemettetésre kötelezettet, majd a papír alapú halottvizsgálati bizonyítvány egy példányát átadja a holttest eltemettetésére kötelezett személynek vagy annak nevében eljáró temetkezési szolgáltatónak.
 
-(2)[^21] A halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény a halottvizsgálati bizonyítvány egy példányát megküldi a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak, valamint ismeretlen személyazonosságú elhunyt esetén három példányát, egyéb esetben a Központi Statisztikai Hivatal (a továbbiakban: KSH) példányát a haláleset helye szerint illetékes anyakönyvvezetőnek.
+(2)[^21] A halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatósági vagy igazságügyi boncolást végző intézmény a halottvizsgálati bizonyítvány egy példányát megküldi a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak, valamint ismeretlen személyazonosságú elhunyt esetén három példányát, egyéb esetben a Központi Statisztikai Hivatal (a továbbiakban: KSH) példányát a haláleset helye szerint illetékes anyakönyvvezetőnek.
 
 (3)[^22] A haláleset helye szerint illetékes anyakönyvvezető a haláleset anyakönyvezése és a haláleset anyakönyvezése igazolásának a halottvizsgálati bizonyítványon történő feltüntetését követően minden hónap ötödik napjáig a halottvizsgálati bizonyítvány egy példányát megküldi a KSH-nak.
 
-(4)[^23] Ha a halál okát megállapító orvos a perinatális halottvizsgálati bizonyítványt halva született magzatról állítja ki, annak egy-egy példányát megküldi a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak és a KSH-nak. Egyéb perinatális halálozás esetén a perinatális halottvizsgálati bizonyítványt a halottvizsgálati bizonyítvánnyal megegyező módon kell továbbítani.
+(4)[^23] Ha a halál okát megállapító orvos a perinatális halottvizsgálati bizonyítványt halva született magzatról állítja ki, annak egy-egy példányát megküldi a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak és a KSH-nak. Egyéb perinatális halálozás esetén a perinatális halottvizsgálati bizonyítványt a halottvizsgálati bizonyítvánnyal megegyező módon kell továbbítani.
 
 (5) A halottvizsgálati bizonyítványt legkésőbb a halálok megállapítása napját követő első munkanapon kell továbbítani.
 
@@ -33,9 +33,9 @@ a halál okát megállapító orvos a halottvizsgálati bizonyítványt – az a
 (13)[^28] Az elektronikus anyakönyvi nyilvántartás informatikai rendszere a 4. mellékletben meghatározott adattartalmú halottvizsgálati bizonyítványt a haláleset anyakönyvezését követően az önkormányzati ASP rendszer hagyatéki alrendszere útján haladéktalanul továbbítja a hagyatéki leltár felvételére illetékes jegyzőnek.
 
 [^20]: A 42. § (1) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 50. § b) pontja szerint módosított szöveg.
-[^21]: A 42. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 231. § b) pontja, az 572/2020. (XII. 9.) Korm. rendelet 61. § b) pontja szerint módosított szöveg.
+[^21]: A 42. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 231. § b) pontja, az 572/2020. (XII. 9.) Korm. rendelet 61. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 166. §-a szerint módosított szöveg.
 [^22]: A 42. § (3) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg.
-[^23]: A 42. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 231. § b) pontja szerint módosított szöveg.
+[^23]: A 42. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 231. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 166. §-a szerint módosított szöveg.
 [^24]: A 42. § (6) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 49. §-ával megállapított szöveg.
 [^25]: A 42. § (10) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 58. § (2) bekezdése iktatta be.
 [^26]: A 42. § (11) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 58. § (2) bekezdése iktatta be.

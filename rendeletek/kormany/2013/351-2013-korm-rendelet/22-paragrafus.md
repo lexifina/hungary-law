@@ -23,3 +23,5 @@ d) antropológiai,
 e) igazságügyi fogorvosi vagy
 
 f) igazságügyi genetikai
+
+vizsgálatot kell elrendelni.

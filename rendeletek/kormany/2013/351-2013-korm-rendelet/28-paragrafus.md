@@ -14,7 +14,7 @@ c) az ügyben eljáró halottvizsgálati szaktanácsadó, vagy
 
 d) a büntetőeljárásban vagy a rendkívüli halállal kapcsolatos hatósági eljárásban kirendelt szakértő
 
-## tehet javaslatot.
+tehet javaslatot.
 
 (2) Az (1) bekezdés c) vagy d) pontja szerinti eljáró személy akkor tehet a kórbonctani vizsgálat kezdeményezésére vonatkozó javaslatot, ha igazságügyi vagy hatósági boncolásra nem került sor. A kórbonctani vizsgálat lefolytatására irányuló indokolt javaslathoz mellékelni kell a halálok megállapításához rendelkezésre álló orvosi dokumentációt.
 

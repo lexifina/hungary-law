@@ -1,4 +1,4 @@
-4. számú melléklet a 351/2013. (X. 4.) Korm. rendelethez[^42]
+4. számú melléklet a 351/2013. (X. 4.) Korm. rendelethez[^43]
 
 Az eHVB rendszerből az elektronikus anyakönyvi rendszernek továbbítandó adatok:
 
@@ -72,4 +72,4 @@ Az eHVB rendszerből az elektronikus anyakönyvi rendszernek továbbítandó ada
 
 4.5. Értesítési e-mail-címe (opcionális)
 
-[^42]: A 4. számú mellékletet az 572/2020. (XII. 9.) Korm. rendelet 60. §-a iktatta be.
+[^43]: A 4. számú mellékletet az 572/2020. (XII. 9.) Korm. rendelet 60. §-a iktatta be.

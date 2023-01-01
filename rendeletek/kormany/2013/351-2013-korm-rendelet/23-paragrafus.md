@@ -1,5 +1,3 @@
-## vizsgálatot kell elrendelni.
-
 23. § (1) A boncolásról a boncolás tartama alatt folyamatosan jegyzőkönyvet kell vezetni, amely tartalmazza
 
 a) a boncolás helyét és idejét,

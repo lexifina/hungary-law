@@ -14,7 +14,7 @@ f) az a)–e) pontban foglaltakhoz képest egyéb helyen következett be, a hely
 
 g) halvaszületésnek minősül, a helyszíni halottvizsgálatot a szülést levezető orvos, ennek hiányában az a)–f) pontban megjelölt orvos
 
-## végzi.
+végzi.
 
 (2) Ha az ügyben eljáró hatóság az (1) bekezdés a)–g) pontjában meghatározott személy kiérkezése előtt – annak akadályoztatása miatt vagy egyéb, bűnüldözési szempontból kiemelt okból – halottvizsgálati szaktanácsadót alkalmaz, akkor a helyszíni halottvizsgálatot az alkalmazott halottvizsgálati szaktanácsadó végzi el.
 
