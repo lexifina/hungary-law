@@ -4,7 +4,13 @@
 
 ## 4. A hegyközség területe
 
-5. § (1) A (2) bekezdésben meghatározott kivétellel a hegyközség működési területéhez tartozó borvidéki települések közigazgatási területén fekvő, a hegybíró által vezetett gazdasági akták nyilvántartásában szereplő szőlőültetvények nagyságának összesen legalább háromszáz hektárnak kell lennie, és ezeknek az ingatlanoknak legkevesebb tíz termelő használatában kell állnia. Hegyközség csak ugyanazon borvidék települései részvételével alakítható.
+5. § (1) Hegyközség ugyanazon borvidék települései részvételével akkor hozható létre, ha
+
+a) a működési területéhez tartozó borvidéki települések közigazgatási területén fekvő, a hegybíró által vezetett gazdasági akták nyilvántartásában szereplő szőlőültetvények nagysága – a (2) bekezdésben meghatározott kivételtől eltekintve – eléri a háromszáz hektárt,
+
+b) a szőlőültetvények legalább tíz termelő használatában állnak, és
+
+c) a hegyközség területén legalább egy borászati üzem rendelkezik borászati üzemengedéllyel.
 
 (2) Ha a borvidék területe háromszáz hektárnál kisebb, a borvidéken egy hegyközség működhet.
 

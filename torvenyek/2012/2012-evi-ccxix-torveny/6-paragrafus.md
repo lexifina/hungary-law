@@ -20,19 +20,19 @@ e) a hegyközségi járulék mértékének meghatározása.
 
 (5) A közgyűlésen
 
-a) a szőlőültetvénnyel rendelkező hegyközségi tagot a szüreti jelentésben szereplő ültetvénye területe alapján minden megkezdett hektár után egy szavazat,
+a) a szőlőültetvénnyel rendelkező hegyközségi tagot a közgyűlési meghívó kiküldésének napján a Hegyközségi Információs Rendszerben nyilvántartott, a hegyközség működési területéhez tartozó borvidéki települések közigazgatási területén fekvő ültetvényének területe alapján megállapított minden megkezdett hektár után egy szavazat,
 
 b) a hegybíró nyilvántartása alapján szőlőültetvénnyel nem rendelkező hegyközségi tagot egy szavazat
 
 illeti meg azzal, hogy egy tag az összes szavazat legfeljebb tíz százalékát birtokolhatja akkor is, ha az a) pont alapján többre lenne jogosult.
 
-(6) A közgyűlésen az a tag rendelkezik szavazati joggal, aki hegyközségi adatszolgáltatási kötelezettségének határidőben maradéktalanul, hegyközségi járulékfizetési kötelezettségének pedig a közgyűlés napját megelőzően legalább öt nappal eleget tett.
+(6) A közgyűlésen az a tag rendelkezik szavazati joggal, aki hegyközségi adatszolgáltatási kötelezettségének határidőben maradéktalanul, hegyközségi és szakmaközi piacszervezési intézkedésekben meghatározott járulékfizetési kötelezettségének pedig a közgyűlés napját megelőzően legalább öt nappal eleget tett.
 
 (7) Ha e törvény vagy az alapszabály másként nem rendelkezik a közgyűlés a határozatait a jelenlévő tagokat megillető szavazatok szerint megállapított egyszerű szavazattöbbséggel hozza.
 
 (8) A tagot az adott hegyközség területén, a 4. § a), b) vagy c) pontja szerint végzett tevékenysége alapján kell besorolni. A hegyközségi tanács szőlészeti szekciójába tartozó küldöttet a szőlészeti termelők, a borászati szekciójába tartozó küldöttet a borászati termelők választják meg maguk közül.
 
-(8a) Nem választható szőlészeti küldötté az a tag, akire a választás időpontját megelőző utolsó három lezárt borpiaci év bármelyikében teljesül, hogy
+(8a) Nem választható szőlészeti küldötté az a tag, akire a választás időpontját megelőző lezárt borpiaci évben teljesül, hogy
 
 a) ő maga,
 

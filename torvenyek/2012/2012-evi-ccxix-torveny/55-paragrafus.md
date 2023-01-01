@@ -1,7 +1,11 @@
 ## 32. A hegyközségi szervezetek tisztújítása
 
-55. § (1) A hegyközségek – az 5. § (1) bekezdése szerinti feltételeknek nem megfelelő hegyközség kivételével – e törvény szerinti testületeinek tagjait, illetve tisztségviselőit, valamint a 6. § (2) bekezdés d) pontja szerinti küldötteket e törvény hatálybalépését követően megtartott első közgyűlésen, de legkésőbb 2013. március 31-ig – a 6. § (5), valamint (7) bekezdése szerint – kell megválasztani.
+55. § (1) Az érdekképviseleti tisztségviselőket
 
-(2) A hegyközségekről szóló 1994. évi CII. törvény alapján működő hegyközségek törvény, alapszabály vagy más szabályzat alapján felállított testületi szerveiben viselt tagság, illetve tisztségviselői megbízatás – a hegybírók megbízatásának kivételével – az új testületi tagok, illetve tisztségviselők megválasztásával, de legkésőbb 2013. március 31-én megszűnik.
+a) a hegyközségek 2028. március 31-ig szóló időtartamra vonatkozóan 2023. március 31. napjáig választják meg,
 
-(3) A hegyközségek – az 5. § (1) bekezdése szerinti feltételeknek nem megfelelő hegyközség kivételével – alapszabályát e törvény hatálybalépését követően megtartott első közgyűlésen – a 6. § (5), valamint (7) bekezdése szerint – kell összhangba hozni e törvény rendelkezéseivel. Ezen időpontig az e törvény hatálybalépésének napján hatályos alapszabály rendelkezései szerint kell eljárni.
+b) a hegyközségi tanácsok és a borrégiós tanácsok 2028. május 15. napjáig szóló időtartamra vonatkozóan 2023. május 15. napjáig választják meg,
+
+c) a Hegyközségek Nemzeti Tanácsa 2028. május 31. napjáig szóló időtartamra vonatkozóan 2023. május 31. napjáig választja meg.
+
+(2) A hegyközségi szervezet a 2022. június 1-je után megválasztott érdekképviseleti tisztségviselők esetében dönthet úgy, hogy a megbízatás időtartama az (1) bekezdés a)–c) pontjában meghatározott időtartamra szól. Ilyen döntés esetén a hegyközségi szervezet nem tartja meg az (1) bekezdésben meghatározott választást.
