@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-53-00-00
 | 2022-07-28 | 2022. évi XXIV. törvény | 2006-53-00-00.50 |
 | 2022-08-01 | 2022. évi XIX. törvény | 2006-53-00-00.51 |
 | 2022-12-27 | 2022. évi LXIV. törvény | 2006-53-00-00.53 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2006-53-00-00.52 |

@@ -10,7 +10,7 @@
 
 (5) Az ügyintézési határidő
 
-a) a Kvt. szerinti előzetes vizsgálati eljárás esetén az ott meghatározott határidő, környezeti hatásvizsgálati eljárás esetén hatvan nap,
+a) a Kvt. szerinti előzetes vizsgálati eljárás esetén az ott meghatározott határidő, környezeti hatásvizsgálati eljárás, egységes környezethasználati engedélyezési eljárás esetén hatvan nap, összevont eljárás esetén kilencven nap,
 
 b) az elektronikus hírközlésről szóló törvény szerinti elektronikus hírközlési építményekkel kapcsolatos építésügyi hatósági eljárások esetén az ott meghatározott határidő,
 

@@ -1,1 +1,1 @@
-11/A. § Kiemelten közérdekű beruházás esetén törvény erejénél fogva a magyar állam tulajdonába kerülő ingatlan pontos meghatározása érdekében a fővárosi és megyei kormányhivatal közigazgatási hatósági eljárást folytat le.
+11/A. § Kiemelten közérdekű beruházás esetén törvény erejénél fogva a magyar állam tulajdonába kerülő ingatlan pontos meghatározása érdekében a fővárosi és vármegyei kormányhivatal közigazgatási hatósági eljárást folytat le.
