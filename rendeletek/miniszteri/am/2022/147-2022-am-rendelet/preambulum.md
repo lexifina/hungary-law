@@ -1,0 +1,1 @@
+A termőföld védelméről szóló 2007. évi CXXIX. törvény 66. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 6. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
