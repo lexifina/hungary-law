@@ -18,12 +18,14 @@
 
 ## a lakosság élet- és vagyonbiztonságát, alapvető ellátását, a terület megközelíthetőségét, a mezőgazdasági vagy ipari termelést, és ezen tényezők együttesét súlyosan veszélyezteti, azokat tartósan ellehetetlenítő állapot alakult ki.
 
-6. melléklet a 290/2014. (XI. 26.) Korm. rendelethez
+6. melléklet a 290/2014. (XI. 26.) Korm. rendelethez[^13]
 
 Természeti vagy civilizációs katasztrófával sújtott kedvezményezett térségek
 
 |  | A | B | C |
 
-| 1. | Régió | Megye | Térség |
+| 1. | Régió | Vármegye | Térség |
 
 | 2. | Közép-Dunántúl | Veszprém | Devecseri járás |
+
+[^13]: A 6. melléklet a a 616/2022. (XII. 29.) Korm. rendelet 195. § d) pontja szerint módosított szöveg.
