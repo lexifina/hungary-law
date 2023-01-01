@@ -1,0 +1,1 @@
+1. § Az állattenyésztés részletes szabályairól szóló 45/2019. (IX. 25.) AM rendelet 27. § (8) bekezdés a) pontjában és 21. melléklet 3. pont 3.1. alpontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
