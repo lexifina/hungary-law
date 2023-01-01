@@ -1,5 +1,5 @@
-1. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^20]
+1. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^19]
 
 Az értékesítői díjak
 
-[^20]: Az 1. melléklet a 20/2022. (IX. 30.) TIM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^19]: Az 1. melléklet a 8/2022. (XII. 28.) EM rendelet 1. § (1) bekezdésével megállapított szöveg.
