@@ -1,5 +1,3 @@
-## Tételek és normatívák az országgyűlési képviselők időközi választásán
-
 | 1. | Jogcím | Normatíva |
 
 | 2. | Kód | Név | Egység | Ft/egység |
@@ -170,7 +168,7 @@
 
 | 85. | 32102 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség külképviseleteknél. |  |  |
 
-| 86. | MEGYEI KIADÁSOK |
+| 86. | VÁRMEGYEI KIADÁSOK |
 
 | 87. | 1. DOLOGI KIADÁSOK |
 
@@ -222,7 +220,7 @@
 
 | 111. | 23601 | TVB 3 választott tagjának díja. | 3 | 50 000 |
 
-| 112. | 23602 | TVB választott és megbízott tagjainak választási ellátási költsége megyénként. | 1 | 31 500 |
+| 112. | 23602 | TVB választott és megbízott tagjainak választási ellátási költsége vármegyénként. | 1 | 31 500 |
 
 | 113. | 3. MUNKAADÓT TERHELŐ FIZETÉSI KÖTELEZETTSÉG |
 
@@ -244,7 +242,7 @@
 
 | 122. | 33202 | Étkezési ellátás utólagos költség igénye után fizetendő munkáltatói teher. |  |  |
 
-2. melléklet a 33/2019. (XII. 23.) IM rendelethez
+2. melléklet a 33/2019. (XII. 23.) IM rendelethez[^5]
 
 Tételek és normatívák az országgyűlési képviselők időközi választásán a megismételt szavazáson
 
@@ -412,7 +410,7 @@ Tételek és normatívák az országgyűlési képviselők időközi választás
 
 | 82. | 32102 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség külképviseleteknél. |  |  |
 
-| 83. | MEGYEI KIADÁSOK |
+| 83. | VÁRMEGYEI KIADÁSOK |
 
 | 84. | 1. DOLOGI KIADÁSOK |
 
@@ -452,7 +450,7 @@ Tételek és normatívák az országgyűlési képviselők időközi választás
 
 | 102. | 23601 | TVB 3 választott tagjának díja. | 3 | 50 000 |
 
-| 103. | 23602 | TVB választott és megbízott tagjainak választási ellátási költsége megyénként. | 1 | 20 500 |
+| 103. | 23602 | TVB választott és megbízott tagjainak választási ellátási költsége vármegyénként. | 1 | 20 500 |
 
 | 104. | 3. MUNKAADÓT TERHELŐ FIZETÉSI KÖTELEZETTSÉG |
 
@@ -469,3 +467,5 @@ Tételek és normatívák az országgyűlési képviselők időközi választás
 | 110. | 33201 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség TVB tagok díja után. |  |  |
 
 | 111. | 33202 | Étkezési ellátás utólagos költség igénye után fizetendő munkáltatói teher. |  |  |
+
+[^5]: A 2. melléklet a 42/2022. (XII. 28.) IM rendelet 14. § d) és e) pontja szerint módosított szöveg.
