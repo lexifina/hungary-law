@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-27-20-3
 | 2013-01-01 | 1995-27-20-3D.13 | 41/2012. (XII. 20.) NGM rendelet |
 | 2013-12-05 | 1995-27-20-3D.14 | 55/2013. (XII. 4.) NGM rendelet |
 | 2015-04-29 | 1995-27-20-3D.15 | 23/2015. (IV. 28.) EMMI rendelet |
+| 2023-01-01 | 1995-27-20-3D.16 | 54/2022. (XII. 27.) BM rendelet |

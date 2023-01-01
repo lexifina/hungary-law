@@ -1,5 +1,3 @@
-## egészítendő ki.
-
 ## Értelmező rendelkezések
 
 ## 7. § E rendelet alkalmazásában
@@ -18,6 +16,6 @@
 
 7. munkahigiénés vizsgálatok: a munkakörnyezetben lévő kóroki (fizikai, kémiai, biológiai, ergonómiai, pszichoszociális) tényezők feltárására, szintjének, továbbá a végzett munkából és a munkakörnyezet hatásaiból adódó megterhelés mennyiségi meghatározására alkalmas eljárások; továbbá olyan vizsgálatok, amelyek eredményeként javaslat tehető a munkából és a munkakörnyezetből származó egészségkárosító kockázatok kezelésére (csökkentésére);
 
-8.[^19] szakképzést folytató intézmény: a szakképzésről szóló 2011. évi CLXXXVII. törvény 4. §-ának hatálya alá tartozó intézmény.
+8.[^21] szakképzést folytató intézmény: a szakképzésről szóló 2011. évi CLXXXVII. törvény 4. §-ának hatálya alá tartozó intézmény.
 
-[^19]: A 7. § 8. pontját a 30/1998. (XII. 27.) EüM rendelet 5. §-a iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^21]: A 7. § 8. pontját a 30/1998. (XII. 27.) EüM rendelet 5. §-a iktatta be, szövege a 23/2015. (IV. 28.) EMMI rendelet 5. §-ával megállapított szöveg.

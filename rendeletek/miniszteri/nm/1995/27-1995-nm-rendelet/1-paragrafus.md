@@ -8,7 +8,7 @@ b) foglalkozás-egészségügyi központ,
 
 c) foglalkozás-egészségügyi szakellátási szolgáltatást nyújtó szolgálat
 
-## formájában működhet.
+formájában működhet.
 
 (3)[^2] A szolgálat
 
@@ -24,7 +24,7 @@ bc) toxikológiai, és/vagy
 
 bd) munkabiztonsági
 
-## szolgáltatást nyújt;
+szolgáltatást nyújt;
 
 c) foglalkozás-egészségügyi szakellátási szolgáltatást nyújtó szolgálatként az 5. § szerinti feladatokat látja el. A foglalkozás-egészségügyi szakellátás alapszolgáltatást is nyújthat, ha a külön jogszabályban[^4] foglalt szakmai minimumfeltételeknek megfelel.
 
