@@ -1,7 +1,0 @@
-## 1. A szerkezetátalakítási szakértők listájára történő felvételhez szükséges továbbképzés célja
-
-1. § (1) A szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi LXIV. törvény (a továbbiakban: Szát. tv.) 23. § (5) bekezdésében meghatározott, a szerkezetátalakítási szakértők listájára történő felvételhez szükséges továbbképzés célja, hogy a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 27/C. §-a szerinti felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személy szervezett keretek között a szerkezetátalakítási szakértői tevékenység megkezdéséhez szükséges továbbképzésben részesüljön a szakmai felkészültség, valamint az egységes jogalkalmazáshoz szükséges ismeretek megszerzése érdekében.
-
-(2) A Szát. tv. 24. § (1) bekezdés b) pontja szerinti természetes személynek a névjegyzékre kerülés feltételeként a szerkezetátalakítási szakértők listájára történő felvételhez szükséges továbbképzésen kell részt vennie, és a szerkezetátalakítási szakértők listájára történő felvételhez szükséges továbbképzés eredményes elvégzését igazoló tanúsítványt be kell mutatnia az őt foglalkoztató szerkezetátalakítási szakértő szervezetnek.
-
-(3) A szerkezetátalakítási szakértő szervezetet nyilvántartó Szabályozott Tevékenységek Felügyeleti Hatósága az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti hatósági ellenőrzés keretében vizsgálja a szerkezetátalakítási szakértői szervezetnél a továbbképzési kötelezettség teljesítését.
