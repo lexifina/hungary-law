@@ -6,7 +6,7 @@
 
 1.[^1] alaptámogatás: a tolmácsszolgálat működéséhez nyújtott, – a 26. § szerinti kiadásokra elszámolható – támogatás;
 
-2. ellátási terület: az a földrajzi terület (megye, illetve főváros), amelyre a módszertani központ térítésmentes jelnyelvi tolmácsszolgáltatás finanszírozására pályázatot ír ki, illetve amelyre a finanszírozási szerződésben a fenntartó tolmácsszolgálat létrehozását, működtetését, és tolmácsszolgáltatás biztosítását vállalja;
+2.[^2] ellátási terület: az a földrajzi terület (vármegye, illetve főváros), amelyre a módszertani központ térítésmentes jelnyelvi tolmácsszolgáltatás finanszírozására pályázatot ír ki, illetve amelyre a finanszírozási szerződésben a fenntartó tolmácsszolgálat létrehozását, működtetését, és tolmácsszolgáltatás biztosítását vállalja;
 
 3. feladategység: a tolmácsszolgálat által nyújtott jelnyelvi tolmácsszolgáltatás minden megkezdett 15 perce;
 
@@ -14,15 +14,15 @@
 
 a) párt kivételével bármely jogi személy,
 
-b)[^2]
+b)[^3]
 
 c) egyéni cég, egyéni vállalkozó,
 
-d)[^3] önkormányzati társulás,
+d)[^4] önkormányzati társulás,
 
 e) az Európai Gazdasági Térségről szóló megállapodásban részes valamely államban (a továbbiakban: EGT-állam), valamint – ha az Európai Közösséggel és tagállamaival létrejött nemzetközi szerződés alapján az adott állam szolgáltatói a letelepedés szabadsága tekintetében az EGT-államok szolgáltatóival azonos jogállást élveznek – az EGT-államoktól eltérő más államban honos vállalkozás belföldön bejegyzett fióktelepe;
 
-5.[^4] finanszírozási időszak: az általános pályázat kiírása évének július 1-jétől az azt követő harmadik év június 30-áig terjedő időszak;
+5.[^5] finanszírozási időszak: az általános pályázat kiírása évének július 1-jétől az azt követő harmadik év június 30-áig terjedő időszak;
 
 6. igénybe vevő: a magyar jelnyelvről és a magyar jelnyelv használatáról szóló 2009. évi CXXV. törvény (a továbbiakban: Jtv.) 4. §-a szerinti hallássérült, vagy siketvak személy;
 
@@ -32,7 +32,7 @@ e) az Európai Gazdasági Térségről szóló megállapodásban részes valamel
 
 9. megrendelő: jelnyelvi tolmácsszolgáltatás biztosítását kérő szervezet vagy személy, függetlenül attól, hogy e rendelet szerint igénybe vevőnek minősül-e;
 
-9a.[^5] megvalósítási szakasz: a finanszírozási időszakon belül a tárgyév július 1-jétől az azt követő év június 30-áig terjedő időszak;
+9a.[^6] megvalósítási szakasz: a finanszírozási időszakon belül a tárgyév július 1-jétől az azt követő év június 30-áig terjedő időszak;
 
 10. módszertani központ: a Jtv. 6. § (1) bekezdése szerinti szervezet;
 
@@ -56,7 +56,7 @@ a) magyar jelnyelv,
 
 b) a Jtv. mellékletében foglalt valamely speciális kommunikációs rendszer;
 
-14.[^6] tolmácsszolgálat: a Magyarország területén támogatással működő jelnyelvi tolmácsszolgálat;
+14.[^7] tolmácsszolgálat: a Magyarország területén támogatással működő jelnyelvi tolmácsszolgálat;
 
 15. tolmácsszolgáltatási fajta: az alábbi tolmácsszolgáltatások valamelyike:
 
@@ -70,12 +70,13 @@ d) a Jtv. 10. § (4) bekezdése szerinti, oktatás, képzés kapcsán szervezett
 
 e) a Jtv.-ben nem szabályozott, térítésköteles jelnyelvi tolmácsszolgáltatás.
 
-(2)[^7] Ha a fenntartó önkormányzati társulás, akkor az e rendelet szerinti jogok és kötelezettségek a társulási megállapodásban meghatározott, ennek hiányában a társulás székhelye szerinti helyi önkormányzatot illetik, illetve terhelik.
+(2)[^8] Ha a fenntartó önkormányzati társulás, akkor az e rendelet szerinti jogok és kötelezettségek a társulási megállapodásban meghatározott, ennek hiányában a társulás székhelye szerinti helyi önkormányzatot illetik, illetve terhelik.
 
 [^1]: Az 1. § (1) bekezdés 1. pontja a 11/2021. (III. 5.) EMMI rendelet 3. §-a szerint módosított szöveg.
-[^2]: Az 1. § (1) bekezdés 4. pont b) alpontját a 19/2014. (III. 13.) EMMI rendelet 54. §-a hatályon kívül helyezte.
-[^3]: Az 1. § (1) bekezdés 4. pont d) alpontja a 19/2014. (III. 13.) EMMI rendelet 52. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (1) bekezdés 5. pontja a 17/2021. (V. 18.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (1) bekezdés 9a. pontját a 11/2015. (II. 25.) EMMI rendelet 1. §-a iktatta be, szövege a 17/2021. (V. 18.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^6]: Az 1. § (1) bekezdés 14. pontja a 78/2011. (XII. 30.) NEFMI rendelet 15. § a) pontja, a 11/2021. (III. 5.) EMMI rendelet 3. §-a szerint módosított szöveg.
-[^7]: Az 1. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 52. § (2) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés 2. pontja a 45/2022. (XII. 20.) BM rendelet 60. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés 4. pont b) alpontját a 19/2014. (III. 13.) EMMI rendelet 54. §-a hatályon kívül helyezte.
+[^4]: Az 1. § (1) bekezdés 4. pont d) alpontja a 19/2014. (III. 13.) EMMI rendelet 52. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (1) bekezdés 5. pontja a 17/2021. (V. 18.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (1) bekezdés 9a. pontját a 11/2015. (II. 25.) EMMI rendelet 1. §-a iktatta be, szövege a 17/2021. (V. 18.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (1) bekezdés 14. pontja a 78/2011. (XII. 30.) NEFMI rendelet 15. § a) pontja, a 11/2021. (III. 5.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^8]: Az 1. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 52. § (2) bekezdésével megállapított szöveg.

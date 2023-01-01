@@ -28,7 +28,7 @@
 
 | 14. | 151–160 | 170 |
 
-6. melléklet a 62/2011. (XI. 10.) NEFMI rendelethez[^113]
+6. melléklet a 62/2011. (XI. 10.) NEFMI rendelethez[^115]
 
 A tolmácsszolgálatoknál munkaviszony keretében alkalmazottak kiegészítő bérre jogosító térítésmentes jelnyelvi tolmácsolási óraszámai
 
@@ -46,4 +46,4 @@ A tolmácsszolgálatoknál munkaviszony keretében alkalmazottak kiegészítő b
 
 | 6. | 35–40 | 70 |
 
-[^113]: A 6. melléklet a 11/2015. (II. 25.) EMMI rendelet 13. § (2) bekezdés b) pontjával megállapított, a 17/2021. (V. 18.) EMMI rendelet 24. § (3) bekezdése és 25. § 19. pontja szerint módosított szöveg.
+[^115]: A 6. melléklet a 11/2015. (II. 25.) EMMI rendelet 13. § (2) bekezdés b) pontjával megállapított, a 17/2021. (V. 18.) EMMI rendelet 24. § (3) bekezdése és 25. § 19. pontja szerint módosított szöveg.

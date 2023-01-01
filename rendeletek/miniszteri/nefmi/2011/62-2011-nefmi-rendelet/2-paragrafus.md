@@ -1,4 +1,4 @@
-## II. Fejezet[^8]
+## II. Fejezet[^9]
 
 ## A TOLMÁCSSZOLGÁLATOK TÁMOGATÁSÁNAK SZAKMAI FELTÉTELEI
 
@@ -14,9 +14,9 @@ b) a módszertani központ által rendelkezésre bocsátott útmutató alapján 
 
 c) magyar jelnyelven készült, mozgóképpel rögzített változat, továbbá
 
-d)[^9] Braille-írásos változat.
+d)[^10] Braille-írásos változat.
 
 (3) A tolmácsszolgálat önálló honlapot működtet, amely tartalmazza a tolmácsszolgálat szolgáltatási rendjét a (2) bekezdés a)–c) pontja szerinti formátumokban, és megfelel a WCAG 2.0 webes akadálymentesítési ajánlás legalább „A” szintjének.
 
-[^8]: A II. fejezet címe a 11/2021. (III. 5.) EMMI rendelet 3. §-a szerint módosított szöveg.
-[^9]: A 2. § (2) bekezdés d) pontja a 47. § (1) bekezdésével megállapított szöveg.
+[^9]: A II. fejezet címe a 11/2021. (III. 5.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^10]: A 2. § (2) bekezdés d) pontja a 47. § (1) bekezdésével megállapított szöveg.
