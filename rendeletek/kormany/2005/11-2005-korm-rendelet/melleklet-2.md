@@ -1,3 +1,5 @@
+## 4K12966M_2
+
 | A települési önkormányzat jegyzője tölti ki! A jogosultság elbírálásához szükséges adatok |
 
 | 1. Az adós jövedelmi helyzete* |

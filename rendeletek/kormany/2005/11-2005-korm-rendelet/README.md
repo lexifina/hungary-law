@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-11-20-2
 | 2014-09-05 | 2005-11-20-22.10 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-04-01 | 2005-11-20-22.11 | 141/2005. (VII. 27.) Korm. rendelet |
 | 2020-03-01 | 2005-11-20-22.12 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2023-01-01 | 2005-11-20-22.13 | 629/2022. (XII. 30.) Korm. rendelet |

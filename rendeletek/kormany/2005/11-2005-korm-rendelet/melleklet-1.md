@@ -1,14 +1,16 @@
 ## 11. § Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
 
-1. számú melléklet a 11/2005. (I. 26.) Korm. rendelethez[^16]
+1. számú melléklet a 11/2005. (I. 26.) Korm. rendelethez[^19]
 
-## IGÉNYLŐLAP a lakáscélú hitelhátralék törlesztési kötelezettségének felfüggesztésére
+IGÉNYLŐLAP a lakáscélú hitelhátralék törlesztési kötelezettségének felfüggesztésére
 
 ## IGÉNYLŐLAP
 
 ## a lakáscélú hitelhátralék törlesztési kötelezettségének felfüggesztésére
 
 I. rész
+
+## 4K12966M_0
 
 | Az OTP Bank Rt. a postára adást megelőzően tölti ki! A lakáshitellel kapcsolatos adatok |
 
@@ -29,6 +31,8 @@ I. rész
 | Kelt: ............................................ ..................................... ügyintéző P. H. |
 
 II. rész
+
+## 4K12966M_1
 
 | A hitelszerződés kötelezettje tölti ki! A kötelezett adatai |
 
@@ -52,4 +56,4 @@ II. rész
 
 III. rész
 
-[^16]: Az 1. számú melléklet a 221/2014. (IX. 4.) Korm. rendelet 298. § f) pontja szerint módosított szöveg.
+[^19]: Az 1. számú melléklet a 221/2014. (IX. 4.) Korm. rendelet 298. § f) pontja szerint módosított szöveg.
