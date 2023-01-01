@@ -26,7 +26,7 @@ l)[^16]
 
 m)[^17]
 
-n)[^18]
+n) 1. melléklet A:1–A:19 mezőjében a „megye” szövegrész helyébe a „vármegye” szöveg
 
 lép.
 
@@ -43,4 +43,3 @@ lép.
 [^15]: Az 5. § k) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^16]: Az 5. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^17]: Az 5. § m) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: Az 5. § n) pontja a 7. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
