@@ -1,0 +1,1 @@
+A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 59. § (3) bekezdés c) és f) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 5. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
