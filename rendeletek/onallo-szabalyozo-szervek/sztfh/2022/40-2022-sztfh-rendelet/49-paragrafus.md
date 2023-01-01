@@ -1,0 +1,1 @@
+49. § A 9. alcím az ásványinyersanyag-kitermelő iparban keletkező hulladék kezeléséről és a 2004/35/EK irányelv módosításáról szóló, 2006. március 15-i 2006/21/EK európai parlamenti és tanácsi irányelvnek a végrehajtásához szükséges rendelkezéseket állapít meg.
