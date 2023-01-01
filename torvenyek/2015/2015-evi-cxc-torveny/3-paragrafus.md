@@ -152,7 +152,7 @@ Co-ordinating Body Secretariat
 
 2. All signatories to the Agreement will share equally, on an annual basis, the costs for the administration of the Agreement by the Co-ordinating Body Secretariat. Notwithstanding the previous sentence, qualifying countries will be exempt from sharing the costs in accordance with Article X of the Rules of Procedure of the Co-ordinating Body of the Convention.
 
-Done in English and French, both texts being equally authentic.”
+Done in English and French, both texts being equally authentic.
 
 „A Pénzügyi Számlákkal Kapcsolatos Információk Automatikus Cseréjéről Szóló, Illetékes Hatóságok közötti Többoldalú Megállapodás
 

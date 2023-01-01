@@ -114,6 +114,8 @@
 
 37a. Izrael
 
+37b. Jamaica
+
 38. Japán
 
 39. Jersey
@@ -126,7 +128,9 @@
 
 41b. Kazahsztán
 
-41c. Kína
+41c. Kenya
+
+41d. Kína
 
 42. Kolumbia
 
@@ -152,7 +156,11 @@
 
 48b. Malajzia
 
+48c. Maldív-szigetek
+
 49. Man-sziget
+
+49a. Marokkó
 
 50. Marshall-szigetek
 
@@ -162,7 +170,11 @@
 
 53. Mexikó
 
-53a. Monaco
+53a. Moldova
+
+53b. Monaco
+
+53c. Montenegró
 
 54. Montserrat
 
@@ -185,6 +197,8 @@
 58c. Pakisztán
 
 58d. Panama
+
+58e. Peru
 
 59. Portugália
 
@@ -220,9 +234,13 @@
 
 71a. Törökország
 
+71b. Thaiföld
+
 72. Turks és Caicos-szigetek
 
-72a. Uruguay
+72a. Uganda
+
+72b. Uruguay
 
 73. Új-Zéland
 
