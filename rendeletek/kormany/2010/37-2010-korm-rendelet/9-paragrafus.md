@@ -1,3 +1,3 @@
-9. §[^6]
+9. §[^19]
 
-[^6]: A 9. §-t a 67/2012. (IV. 5.) Korm. rendelet 29. §-a hatályon kívül helyezte.
+[^19]: A 9. §-t a 67/2012. (IV. 5.) Korm. rendelet 29. §-a hatályon kívül helyezte.

@@ -1,6 +1,6 @@
-## 2.[^1] Országos szintű területi monitoring feladatok
+## 2.[^2] Országos szintű területi monitoring feladatok
 
-3. § (1) Az országos területi folyamatok alakulásának, az országos, térségi és megyei fejlesztési koncepciók, tervek, programok területi hatásainak megismerése, megvalósulása és hasznosulása, valamint a területrendezési tervek érvényesülésének elősegítése érdekében a területfejlesztésért-, a területfejlesztés stratégiai tervezéséért-, valamint a területrendezésért felelős miniszter
+3. § (1)[^3] Az országos területi folyamatok alakulásának, az országos, térségi és vármegyei fejlesztési koncepciók, tervek, programok területi hatásainak megismerése, megvalósulása és hasznosulása, valamint a területrendezési tervek érvényesülésének elősegítése érdekében a területfejlesztésért-, a területfejlesztés stratégiai tervezéséért-, valamint a területrendezésért felelős miniszter
 
 a) figyelemmel kíséri, elemzi és értékeli a területi monitoring rendszer működését, és
 
@@ -34,7 +34,7 @@ ec) ágazati és ágazatközi koncepciók,
 
 ed) Balaton kiemelt üdülőkörzet fejlesztési koncepciója,
 
-ef) megyei területfejlesztési koncepciók,
+ef)[^4] vármegyei területfejlesztési koncepciók,
 
 f) elvégzi a következő területfejlesztési programok területi szempontú értékelését, valamint ez alapján kezdeményezheti a felülvizsgálatukat:
 
@@ -46,7 +46,7 @@ fc) ágazati és ágazatközi programok,
 
 fd) Balaton kiemelt üdülőkörzet fejlesztési programja,
 
-fe) megyei területfejlesztési program,
+fe)[^5] vármegyei területfejlesztési program,
 
 g) elvégzi a Nemzeti Vidékfejlesztési Terv utólagos területi szempontú értékelését.
 
@@ -64,4 +64,7 @@ e) kidolgozza a nemzetközi és a határmenti területfejlesztési tevékenység
 
 f) elvégzi az Új Magyarország Fejlesztési Terv operatív programjainak előzetes, közbülső és utólagos értékelését, valamint ez alapján kezdeményezheti a felülvizsgálatukat.
 
-[^1]: A 2. alcím (3. §) a 67/2012. (IV. 5.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. alcím (3. §) a 67/2012. (IV. 5.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § (1) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 108. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (3) bekezdés e) pont ef) alpontja a 616/2022. (XII. 29.) Korm. rendelet 108. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § (3) bekezdés f) pont fe) alpontja a 616/2022. (XII. 29.) Korm. rendelet 108. § a) pontja szerint módosított szöveg.
