@@ -1,8 +1,8 @@
-5. melléklet a 13/2017. (VI. 12.) EMMI rendelethez
+5. melléklet a 13/2017. (VI. 12.) EMMI rendelethez[^7]
 
-## A megyei kormányhivatal jelentésének adattartalma
+A vármegyei kormányhivatal jelentésének adattartalma
 
-## A megye kódja: .............................................. neve:
+## A vármegye kódja: .............................................. neve:
 
 ## A jelentés vonatkozási éve:
 
@@ -79,3 +79,5 @@ kifogásolhatók ........................
 4.1. Hulladékgazdálkodási létesítmények száma ........................
 
 4.2. Intézkedések száma ........................
+
+[^7]: Az 5. melléklet a 49/2022. (XII. 27.) BM rendelet 3. § a) és d) pontja szerint módosított szöveg.

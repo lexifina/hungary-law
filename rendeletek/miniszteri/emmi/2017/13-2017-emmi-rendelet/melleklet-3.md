@@ -1,8 +1,8 @@
 3. melléklet a 13/2017. (VI. 12.) EMMI rendelethez
 
-## A hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékot gyűjtő, illetve kezelő hulladékgazdálkodási létesítményekről vezetett nyilvántartás adattartalma
+A hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékot gyűjtő, illetve kezelő hulladékgazdálkodási létesítményekről vezetett nyilvántartás adattartalma
 
-1. Megye kódja: ........................ neve:
+1.[^6] Vármegye kódja: ........................ neve:
 
 2. Járási hivatal neve:
 
@@ -125,3 +125,5 @@
 _______________
 
 * Egységes országos vetület.
+
+[^6]: A 3. melléklet 1. pontja a 49/2022. (XII. 27.) BM rendelet 3. § c) pontja szerint módosított szöveg.

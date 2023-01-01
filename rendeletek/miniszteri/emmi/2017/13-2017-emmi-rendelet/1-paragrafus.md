@@ -6,6 +6,6 @@ a) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékra, v
 
 b) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos tevékenységekre
 
-## terjed ki.
+terjed ki.
 
 (2) Nem terjed ki e rendelet hatálya a biológiailag lebomló hulladéknak nem minősülő, elkülönítetten gyűjtött hulladékra, valamint az ilyen hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekre.

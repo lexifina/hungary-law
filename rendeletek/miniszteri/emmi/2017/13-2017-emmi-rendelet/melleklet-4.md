@@ -1,6 +1,6 @@
 4. melléklet a 13/2017. (VI. 12.) EMMI rendelethez
 
-## A járási hivatal jelentésének adattartalma
+A járási hivatal jelentésének adattartalma
 
 ## A járási hivatal neve:
 

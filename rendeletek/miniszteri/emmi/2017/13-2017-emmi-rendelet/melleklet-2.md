@@ -1,8 +1,8 @@
-## A hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékra vonatkozó szállítási gyakoriság
-
 ## 1. Az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletben (a továbbiakban: OTÉK) meghatározott területenként (területfelhasználási egységként) a vegyes hulladékot – ide nem értve a közterületre telepített gyűjtőedényben gyűjtött vegyes hulladékot – a következő minimum gyakorisággal kell elszállítani:
 
 ## 1. táblázat
+
+## 7K08722_0
 
 |  | A | B |
 
@@ -60,7 +60,7 @@
 
 2. melléklet a 13/2017. (VI. 12.) EMMI rendelethez
 
-## A vegyes hulladék lebomlását, szagtalanítását elősegítő vegyi anyag vagy mikroorganizmus, továbbá a komposztálás gyorsítására vagy hatékonyságának növelésére szolgáló mikrobiológiai preparátumok és enzimkeverékek forgalmazásának bejelentéséhez szükséges adatok és vizsgálatok
+A vegyes hulladék lebomlását, szagtalanítását elősegítő vegyi anyag vagy mikroorganizmus, továbbá a komposztálás gyorsítására vagy hatékonyságának növelésére szolgáló mikrobiológiai preparátumok és enzimkeverékek forgalmazásának bejelentéséhez szükséges adatok és vizsgálatok
 
 1. Fizikai és kémiai vizsgálatok eredménye (3×1 kg vagy liter mintából): szín, szag, halmazállapot, pH, térfogattömeg, szárazanyag-tartalom, szervesanyag-tartalom, PAH és TPH tartalom.
 
