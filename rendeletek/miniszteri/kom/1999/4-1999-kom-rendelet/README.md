@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-4-20-66
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 1999-05-13 | 1999-4-20-66.1 | 4/1999. (V. 5.) KöM rendelet |
+| 2023-01-01 | 1999-4-20-66.2 | 58/2022. (XII. 27.) AM rendelet |
