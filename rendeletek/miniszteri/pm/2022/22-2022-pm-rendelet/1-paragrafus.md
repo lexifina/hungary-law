@@ -1,0 +1,1 @@
+1. § A pénzügyminiszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 4/2020. (VI. 30.) PM rendelet 1. melléklet B) rész 3. pont 3.16. alpontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
