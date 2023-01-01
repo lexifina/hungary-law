@@ -1,6 +1,4 @@
-## A Pécselyi-medence Tájvédelmi Körzet ingatlan-nyilvántartási helyrajzi számai
-
-## Veszprém megye
+## Veszprém vármegye
 
 ## Aszófő
 
