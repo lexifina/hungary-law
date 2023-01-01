@@ -2,4 +2,4 @@
 
 ## EGYÉB RENDELKEZÉSEK
 
-25. §
+### 25. §
