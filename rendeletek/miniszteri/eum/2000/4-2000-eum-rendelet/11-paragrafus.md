@@ -1,5 +1,3 @@
-## 10. §[^25]
-
 11. § (1) Háziorvosként – a házi gyermekorvos kivételével – az az általános orvosi oklevéllel rendelkező orvos dolgozhat, aki
 
 a) általános orvostan vagy háziorvostan szakorvosi szakképesítéssel, vagy
@@ -124,13 +122,12 @@ a) mentőtiszt vagy
 
 b) okleveles kiterjesztett hatáskörű ápoló
 
-## szakképzettséggel rendelkezik.
+szakképzettséggel rendelkezik.
 
 (9b)[^40] A (9a) bekezdés szerinti háziorvosi ügyeleti feladatellátás során a (9) bekezdés a) vagy b) pontja szerinti orvos szakmai felügyeletét biztosítani szükséges.
 
 (10)[^41] A (2) bekezdés, valamint a (4), a (4c), az (5) és a (8a) bekezdés, továbbá a (9) bekezdés c)–f) pontjai és (9b) bekezdése alkalmazása szempontjából a szakmai felügyelet akkor biztosított, ha a felügyelő orvos konzultáció céljából folyamatosan elérhető, és ügyelet esetén szükség szerint az ügyelet telephelyén történő személyes megjelenése egy órán belül biztosított.
 
-[^25]: A 10. §-t a 47/2004. (V. 11.) ESZCSM rendelet 23. §-ának (6) bekezdését hatályon kívül helyezte.
 [^26]: A 11. § (2) bekezdése a 8/2009. (IV. 3.) EüM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^27]: A 11. § (4) bekezdése a 47/2020. (XII. 22.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^28]: A 11. § (4a) bekezdését a 22/2012. (IX. 14.) EMMI rendelet 14. §-a iktatta be, szövege a 47/2020. (XII. 22.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.

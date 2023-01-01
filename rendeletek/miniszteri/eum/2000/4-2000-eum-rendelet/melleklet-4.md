@@ -2,6 +2,8 @@
 
 ## 65 éves életkor alatti páciens esetén kötelező a kitöltése.
 
+## 7K28440_0
+
 |  | APA | ANYA | TESTVÉR | GYERMEK | NAGYSZÜLŐ, NAGYBÁCSI, NAGYNÉNI, ELSŐFOKÚ UNOKATESTVÉR |
 
 |  |  |  |  | …… fő |  |  | …… fő |  |
@@ -526,7 +528,7 @@
 
 |  | 13. Állandóan hibáztatom magam. | 0 | 1 | 2 | 3 |
 
-4. számú melléklet a 4/2000. (II. 25.) EüM rendelethez[^83]
+4. számú melléklet a 4/2000. (II. 25.) EüM rendelethez[^101]
 
 Házi gyermekorvosi törzskarton
 
@@ -547,6 +549,8 @@ ad) mért értékek
 * Gestációs hét, Születési súly, Születési hossz, Apgar, Szülés típusa, Szülési sérülés.
 
 b) Családi anamnézis
+
+7K28446_0
 
 |  |  | APA | ANYA | TESTVÉR | NAGYSZÜLŐ, NAGYBÁCSI, NAGYNÉNI, ELSŐFOKÚ UNOKATESTVÉR |
 
@@ -1064,4 +1068,4 @@ f) tankötelezettségi problémák
 
 g) egyéb: .........................
 
-[^83]: A 4. számú mellékletet a 28/2017. (X. 25.) EMMI rendelet 14. § (2) bekezdése iktatta be.
+[^101]: A 4. számú mellékletet a 28/2017. (X. 25.) EMMI rendelet 14. § (2) bekezdése iktatta be.

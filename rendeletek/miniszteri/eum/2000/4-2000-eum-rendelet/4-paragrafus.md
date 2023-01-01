@@ -18,7 +18,7 @@ g) külön jogszabályban meghatározott orvosi, orvosszakértői feladatok,
 
 h) külön jogszabályban foglaltak szerinti halottvizsgálat
 
-## ellátása.
+ellátása.
 
 (3)[^14] A gyermekorvosi ellátás keretében a háziorvos a (2) bekezdés b)–h) pontjában foglalt feladatok mellett a következő feladatokat látja el:
 

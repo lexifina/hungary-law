@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-4-20-0B
 | 2021-07-02 | 2000-4-20-0B.38 | 27/2021. (VI. 29.) EMMI rendelet |
 | 2021-11-01 | 2000-4-20-0B.39 | 46/2021. (X. 29.) EMMI rendelet |
 | 2022-02-01 | 2000-4-20-0B.40 | 8/2001. (III. 2.) EüM rendelet |
+| 2023-01-01 | 2000-4-20-0B.41 | 45/2022. (XII. 20.) BM rendelet |

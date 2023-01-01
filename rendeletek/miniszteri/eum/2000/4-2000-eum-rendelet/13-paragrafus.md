@@ -10,7 +10,7 @@ b) legalább 5 éve folyamatosan háziorvosi, házi gyermekorvosi vagy fogorvosi
 
 c) 65 évnél fiatalabb, és
 
-d) nem rendelkezik megyei vagy országos kollegiális szakmai vezetői megbízással.
+d)[^48] nem rendelkezik vármegyei vagy országos kollegiális szakmai vezetői megbízással.
 
 (4) Területi szakmai vezető háziorvosnak csak olyan háziorvos választható meg, aki a 11. § (1) bekezdés a) vagy b) pontjában előírtaknak megfelel.
 
@@ -20,9 +20,9 @@ d) nem rendelkezik megyei vagy országos kollegiális szakmai vezetői megbízá
 
 (7) A (6) bekezdés szerinti választás eredménye vonatkozásában jogorvoslatnak nincs helye.
 
-(8)[^48] Az (1)–(6) bekezdés szerinti választás lebonyolítása az OKFŐ feladata.
+(8)[^49] Az (1)–(6) bekezdés szerinti választás lebonyolítása az OKFŐ feladata.
 
-(9)[^49] A területi szakmai vezető az OKFŐ-vel kötött megbízási szerződés alapján látja el tevékenységét. A területi szakmai vezető megbízatása 3 évre szól. Ha a megbízatása annak lejárta előtt megszűnik, új választást kell tartani, azzal, hogy az új választás szerinti megbízatás időtartama az eredeti 3 éves megbízatás időtartamából való hátralévő időtartamra szól. A területi szakmai vezető újraválasztható.
+(9)[^50] A területi szakmai vezető az OKFŐ-vel kötött megbízási szerződés alapján látja el tevékenységét. A területi szakmai vezető megbízatása 3 évre szól. Ha a megbízatása annak lejárta előtt megszűnik, új választást kell tartani, azzal, hogy az új választás szerinti megbízatás időtartama az eredeti 3 éves megbízatás időtartamából való hátralévő időtartamra szól. A területi szakmai vezető újraválasztható.
 
 (10) A területi szakmai vezető megbízatása megszűnik:
 
@@ -40,15 +40,17 @@ f) halála esetén,
 
 g) felmondásával, vagy
 
-h)[^50] ha feladatait az OKFŐ általi egyszeri felszólítás ellenére nem látja el.
+h)[^51] ha feladatait az OKFŐ általi egyszeri felszólítás ellenére nem látja el.
 
-(11) A területi szakmai vezető a megbízásának személyesen köteles eleget tenni, akadályoztatása esetén a megyei kollegiális szakmai vezető kijelöli a helyettesítésére jogosult személyt.
+(11)[^52] A területi szakmai vezető a megbízásának személyesen köteles eleget tenni, akadályoztatása esetén a vármegyei kollegiális szakmai vezető kijelöli a helyettesítésére jogosult személyt.
 
 (12) A területi szakmai vezető tevékenységének ellátásáért 244 000 Ft/hó tiszteletdíjban részesül, költségtérítés nem illeti meg. A tiszteletdíj a kifizetőt terhelő adó- és járulékterheket is tartalmazza.
 
 [^45]: A 13. §-t a 40/2004. (IV. 26.) ESZCSM rendelet 11. §-ának (3) bekezdése hatályon kívül helyezte, újonnan a 14/2018. (VI. 26.) EMMI rendelet 1. §-a iktatta be.
 [^46]: A 13. § (1) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § e) pontja szerint módosított szöveg.
 [^47]: A 13. § (2) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § f) pontja szerint módosított szöveg.
-[^48]: A 13. § (8) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § g) pontja szerint módosított szöveg.
-[^49]: A 13. § (9) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § h) pontja szerint módosított szöveg.
-[^50]: A 13. § (10) bekezdés h) pontja a 27/2021. (VI. 29.) EMMI rendelet 2. § i) pontja szerint módosított szöveg.
+[^48]: A 13. § (3) bekezdés d) pontja a 45/2022. (XII. 20.) BM rendelet 14. § a) pontja szerint módosított szöveg.
+[^49]: A 13. § (8) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § g) pontja szerint módosított szöveg.
+[^50]: A 13. § (9) bekezdése a 27/2021. (VI. 29.) EMMI rendelet 2. § h) pontja szerint módosított szöveg.
+[^51]: A 13. § (10) bekezdés h) pontja a 27/2021. (VI. 29.) EMMI rendelet 2. § i) pontja szerint módosított szöveg.
+[^52]: A 13. § (11) bekezdése a 45/2022. (XII. 20.) BM rendelet 14. § a) pontja szerint módosított szöveg.

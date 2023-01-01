@@ -1,5 +1,3 @@
-## A háziorvosi tevékenység ellátásához használatos nyomtatványok
-
 ## --------------
 
 ## Megnevezés Raktári szám
@@ -86,7 +84,7 @@
 
 2. számú melléklet a 4/2000. (II. 25.) EüM rendelethez
 
-## Az ápolói tevékenység tartalma a háziorvosi szolgálatban
+Az ápolói tevékenység tartalma a háziorvosi szolgálatban
 
 1. A praxis menedzsmentben való részvétel.
 
