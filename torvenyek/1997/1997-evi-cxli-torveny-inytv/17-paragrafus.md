@@ -26,7 +26,7 @@
 
 8. az ingatlanügyi hatósági határozat elleni
 
-8.1. jogorvoslati kérelem,
+8.1. jogorvoslati kérelem benyújtása,
 
 8.2. ügyészi felhívás benyújtása,
 
@@ -48,11 +48,11 @@
 
 13. az ingatlan-nyilvántartási eljárás felfüggesztése,
 
-14. végleges hatósági vagy jogerős bírósági határozattal megállapított tartós környezetkárosodás ténye, mértéke és jellege,
+14. végleges hatósági vagy jogerős bírósági határozattal megállapított tartós környezetkárosodás ténye, mértéke és jellege, környezeti teher ténye és jellege,
 
 15. bírósági ítéleten alapuló tulajdoni korlátozás,
 
-16. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés, valamint önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség ténye,
+16. bírósági vagy hatósági határozaton alapuló telekalakítási és építési tilalom elrendelése, valamint egyéb építésügyi korlátozás, az épített környezet alakításáról és védelméről szóló törvényben meghatározott építésügyi kötelezés, valamit önkormányzati hatósági döntésen, vagy hatósági szerződésen alapuló településrendezési kötelezettség ténye,
 
 17. szerződésen, végintézkedésen, bírósági vagy hatósági határozaton alapuló
 
@@ -64,15 +64,17 @@
 
 18. az e törvényben meghatározott
 
-18.1. perek megindítása,
+18.1. perek,
 
-18.2. büntetőeljárás megindítása,
+18.2. büntetőeljárás
+
+megindítása,
 
 19. árverés vagy nyilvános pályázat kitűzése,
 
 20. a zárlat, a zár alá vétel, a zárlat az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtására,
 
-21. a tulajdonjog fenntartással történt eladás,
+21. a tulajdonjog-fenntartással történt eladás,
 
 22. a jelzálogjog (önálló zálogjog) ranghelyének előzetes biztosítása,
 
@@ -100,11 +102,11 @@
 
 34. az eljárás megszüntetésének ténye,
 
-35. a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló törvény szerint folyamatban lévő megosztás,
+35. a 2020. évi LXXI. törvény szerint folyamatban lévő megosztás,
 
 36. A fizetésképtelenségi eljárásról szóló, 2015. május 20-i (EU) 2015/848 európai parlamenti és tanácsi rendelet hatálya alá eső, az adós ellen indított fizetésképtelenségi eljárás ténye,
 
-37. törölt haszonélvezeti jog visszajegyezhetőségének vizsgálatára irányuló eljárás megindítása.
+37. folyamatban levő gazdaságátadás.
 
 (2) Az (1) bekezdés 1–14. és 31–37. pontjában meghatározott tények feljegyzésének elmaradása az egyébként azokhoz fűződő joghatásokat nem érinti, a Ptk.-nak a feljegyzés visszamenőleges hatályára vonatkozó rendelkezését ennek megfelelően kell alkalmazni. A 15–30. pontokban meghatározott tények feljegyzésének elmaradása esetén a jogosult azokat nem érvényesítheti a jóhiszemű és ellenérték fejében szerző harmadik jogszerzővel szemben.
 

@@ -71,3 +71,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-141-00-00
 | 2022-01-01 | 2021. évi CXLVI. törvény | 1997-141-00-00.88 |
 | 2022-05-25 | 2022. évi IV. törvény | 1997-141-00-00.89 |
 | 2022-12-01 | 2022. évi XLVIII. törvény | 1997-141-00-00.91 |
+| 2023-01-01 | 2022. évi XLVIII. törvény | 1997-141-00-00.90 |

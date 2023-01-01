@@ -8,6 +8,6 @@
 
 (3) A település belterületének 1 ha-t meg nem haladó földrészletét – a fő hasznosítási módra tekintet nélkül – művelés alól kivett területként kell nyilvántartani.
 
-(4) A mező- és erdőgazdasági művelés alatt álló vagy arra alkalmas, illetve alkalmassá tett terület művelési ágát, valamint minőségét földminősítési eljárás lefolytatásával kell megállapítani. Az ingatlan-nyilvántartásban a föld minőségeként a minőségi osztályt és az annak megfelelő kataszteri tiszta jövedelmet kell feltüntetni.
+(4) Az erdő kivételével a mező- és erdőgazdasági művelés alatt álló vagy arra alkalmas, illetve alkalmassá tett terület művelési ágát, valamint minőségét földminősítési eljárás lefolytatásával kell megállapítani. Az ingatlan-nyilvántartásban a föld minőségeként a minőségi osztályt és az annak megfelelő kataszteri tiszta jövedelmet kell feltüntetni.
 
 (5)
