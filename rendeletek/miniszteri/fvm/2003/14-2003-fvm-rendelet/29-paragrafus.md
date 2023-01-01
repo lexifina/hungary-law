@@ -1,6 +1,6 @@
-29. § (1)[^61] Más megyébe történő kiszállítás előtt az engedélyező köteles előzetesen megszerezni a rendeltetési hely szerint illetékes megyei kormányhivatal hozzájárulását.
+29. § (1)[^61] Más vármegyébe történő kiszállítás előtt az engedélyező köteles előzetesen megszerezni a rendeltetési hely szerint illetékes vármegyei kormányhivatal hozzájárulását.
 
-(2)[^62] Az engedély kiadásáról – a ki- vagy bevitelnek megfelelően – értesíteni kell a származási vagy rendeltetési hely szerint illetékes járási hivatalt, illetőleg a megyei kormányhivatalt.
+(2)[^62] Az engedély kiadásáról – a ki- vagy bevitelnek megfelelően – értesíteni kell a származási vagy rendeltetési hely szerint illetékes járási hivatalt, illetőleg a vármegyei kormányhivatalt.
 
 (3) Az engedélynek tartalmaznia kell a (6) bekezdésben megjelölt adatokon túl a ki- vagy bevitel feltételeit és az engedély érvényességének időtartamát.
 
@@ -8,5 +8,5 @@
 
 (5) Az engedélyes köteles a kivitel vagy bevitel időpontját az elszállítás előtt, illetőleg a megérkezés után azonnal bejelenteni a hatósági állatorvosnak és a szállítási engedélyt átadni.
 
-[^61]: A 29. § (1) bekezedése a 42/2017. (VIII. 17.) FM rendelet 46. § j) pontja szerint módosított szöveg.
-[^62]: A 29. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 46. § n) és o) pontja szerint módosított szöveg.
+[^61]: A 29. § (1) bekezedése a 42/2017. (VIII. 17.) FM rendelet 46. § j) pontja, a 74/2022. (XII. 27.) AM rendelet 1. § b) és d) pontja szerint módosított szöveg.
+[^62]: A 29. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 46. § n) és o) pontja, a 74/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

@@ -1,5 +1,3 @@
-## 31. §[^65] Ha a betegséget vadon élő állaton vagy olyan helyen tartott háziállaton állapították meg, ahol a beteg állat vaddisznókkal közvetlenül vagy közvetve érintkezhetett, a megyei kormányhivatal köteles értesíteni az érintett, vadászatra jogosult szervezetet vagy a zárt területek tulajdonosait és elrendelni a fertőzött területen járó vaddisznók etetéssel történő helyhezkötését és indokolt esetben kilövését. A rendelkezés alá vont területen a vadászati vagy egyéb célból kilőtt vaddisznók feldolgozását csak a hatósági állatorvos engedélyével szabad megkezdeni.
-
 ## A betegség megszűntté nyilvánítása
 
 32. § (1) A helyi zárlatot fel kell oldani, ha a zárlat alá vont helyen már nincs fogékony állat és az elő- és végfertőtlenítést a hatósági állatorvos utasításai szerint végrehajtották.
@@ -10,14 +8,13 @@
 
 (4)[^67] A védőkörzetet meg kell szüntetni, ha a községben az utolsó helyi zárlat feloldását követő, 28 napig tartó megfigyelési idő alatt nem történt SVD-re gyanút keltő újabb megbetegedés és a fertőzött telepek előzetes fertőtlenítését követő 28 nap elteltével negatív eredményű szerológiai vizsgálatot végeztek az érintett sertéspopuláció statisztikailag elegendő mennyiségű egyedéből.
 
-(5)[^68] A megfigyelési körzetet meg kell szüntetni, ha a megfigyelési körzetben már egy község sem áll védőkörzet alatt és az utolsó helyi zárlat feloldásától legalább 28 nap eltelt. A megfigyelési körzet – a megyei kormányhivatal rendelkezése alapján – a védőkörzet ellenére is megszüntethető, ha a betegség helyhez kötése biztosítottnak látszik, figyelembe véve a földrajzi helyzetet és ökológiai tényezőket, a meteorológiai viszonyokat, a járványtani vizsgálatok eredményeit, a laboratóriumi vizsgálatok eredményeit, valamint az alkalmazott ellenőrző intézkedéseket.
+(5)[^68] A megfigyelési körzetet meg kell szüntetni, ha a megfigyelési körzetben már egy község sem áll védőkörzet alatt és az utolsó helyi zárlat feloldásától legalább 28 nap eltelt. A megfigyelési körzet – a vármegyei kormányhivatal rendelkezése alapján – a védőkörzet ellenére is megszüntethető, ha a betegség helyhez kötése biztosítottnak látszik, figyelembe véve a földrajzi helyzetet és ökológiai tényezőket, a meteorológiai viszonyokat, a járványtani vizsgálatok eredményeit, a laboratóriumi vizsgálatok eredményeit, valamint az alkalmazott ellenőrző intézkedéseket.
 
-(6)[^69] A helyi zárlatot feloldani és a betegséget hatóságilag megszűntté nyilvánítani csak a megyei kormányhivatal hozzájárulása után lehet.
+(6)[^69] A helyi zárlatot feloldani és a betegséget hatóságilag megszűntté nyilvánítani csak a vármegyei kormányhivatal hozzájárulása után lehet.
 
 (7) A betegség és a helyi zárlat tartama alatt naponta végzendő, valamint a két hetes időközzel végrehajtandó előzetes és végső fertőtlenítés szabályait a fertőtlenítésről szóló jogszabály tartalmazza.
 
-[^65]: A 31. § a 42/2017. (VIII. 17.) FM rendelet 46. § e) pontja szerint módosított szöveg.
 [^66]: A 32. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 46. § d) pontja szerint módosított szöveg.
 [^67]: A 32. § (4) bekezdése a 19/2014. (III. 12.) VM rendelet 7. § (2) bekezdés n) pontja szerint módosított szöveg.
-[^68]: A 32. § (5) bekezdése a 19/2014. (III. 12.) VM rendelet 7. § (1) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 46. § e) pontja szerint módosított szöveg.
-[^69]: A 32. § (6) bekezedése a 42/2017. (VIII. 17.) FM rendelet 46. § e) pontja szerint módosított szöveg.
+[^68]: A 32. § (5) bekezdése a 19/2014. (III. 12.) VM rendelet 7. § (1) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 46. § e) pontja, a 74/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^69]: A 32. § (6) bekezedése a 42/2017. (VIII. 17.) FM rendelet 46. § e) pontja, a 74/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

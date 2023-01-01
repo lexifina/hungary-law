@@ -14,17 +14,17 @@ b) az állatok (állomány) leölésének elrendelése;
 
 c) a betegség eredetére és elterjedtségére vonatkozó vizsgálatok lefolytatása;
 
-d)[^10] a megyei kormányhivatal rendelkezése alapján állatorvosok kirendelése;
+d)[^10] a vármegyei kormányhivatal rendelkezése alapján állatorvosok kirendelése;
 
 e) kártalanítás elrendelése.
 
 (3) A fertőzött községgel szomszédos települések hatósági állatorvosait a betegség fellépéséről telefonon, majd azt követően írásban kell értesíteni.
 
-(4)[^11] A járási hivatal a betegség állásáról minden hónap második napján a megyei kormányhivatalnak köteles jelentést tenni és arról nyilvántartást vezetni.
+(4)[^11] A járási hivatal a betegség állásáról minden hónap második napján a vármegyei kormányhivatalnak köteles jelentést tenni és arról nyilvántartást vezetni.
 
 [^6]: Az 5. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 46. § d) pontja szerint módosított szöveg.
 [^7]: Az 5. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 46. § d) pontja szerint módosított szöveg.
 [^8]: Az 5. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 46. § d) pontja szerint módosított szöveg.
 [^9]: Az 5. § (2) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 24. § c) pontja szerint módosított szöveg.
-[^10]: Az 5. § (2) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 46. § e) pontja szerint módosított szöveg.
-[^11]: Az 5. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 46. § d) és f) pontja szerint módosított szöveg.
+[^10]: Az 5. § (2) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 46. § e) pontja, a 74/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^11]: Az 5. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 46. § d) és f) pontja, a 74/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
