@@ -1,4 +1,4 @@
-47. § (1)[^146] Magyarországon minősített és Magyarországon forgalomba hozott vetőmagtételek címkéit magyar nyelven kell kiállítani. Az Európai Unió más tagállamában minősített és Magyarországon forgalomba hozott vetőmagtételek címkéjén szereplő adatokat a csomagolási egységeken magyar nyelven is fel kell tüntetni.
+47. § (1)[^147] Magyarországon minősített és Magyarországon forgalomba hozott vetőmagtételek címkéit magyar nyelven kell kiállítani. Az Európai Unió más tagállamában minősített és Magyarországon forgalomba hozott vetőmagtételek címkéjén szereplő adatokat a csomagolási egységeken magyar nyelven is fel kell tüntetni.
 
 (2) A kereskedelmi és engedményes vetőmag forgalomba hozatalának engedélyezésekor a jelölésre vonatkozó további követelmények is előírhatók.
 
@@ -6,7 +6,7 @@
 
 (4) Az ökológiai gazdálkodásból származó, ökológiai tanúsításban részesült vetőmagtétel valamennyi hivatalos okmányán és címkéjén fel kell tüntetni az ökológiai tanúsítás tényét.
 
-(5)[^147] A csávázott vetőmagtétel valamennyi hivatalos okmányán és címkéjén vagy csomagolási egységén fel kell tüntetni a csávázás tényét a csávázószer vagy hatóanyagának megnevezésével.
+(5)[^148] A csávázott vetőmagtétel valamennyi hivatalos okmányán és címkéjén vagy csomagolási egységén fel kell tüntetni a csávázás tényét a csávázószer vagy hatóanyagának megnevezésével.
 
-[^146]: A 47. § (1) bekezdése a 16/2011. (III. 2.) VM rendelet 22. § (1) bekezdésével megállapított, az 5/2012. (II. 10.) VM rendelet 9. § b) és c) pontja szerint módosított szöveg.
-[^147]: A 47. § (5) bekezdése a 16/2011. (III. 2.) VM rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^147]: A 47. § (1) bekezdése a 16/2011. (III. 2.) VM rendelet 22. § (1) bekezdésével megállapított, az 5/2012. (II. 10.) VM rendelet 9. § b) és c) pontja szerint módosított szöveg.
+[^148]: A 47. § (5) bekezdése a 16/2011. (III. 2.) VM rendelet 22. § (2) bekezdésével megállapított szöveg.

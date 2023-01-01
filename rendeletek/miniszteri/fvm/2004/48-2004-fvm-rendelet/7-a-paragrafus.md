@@ -1,4 +1,4 @@
-7/A. §[^34] (1)[^35] A kísérleti célú vetőmag forgalomba hozatali engedélyét kizárólag olyan fajtajelöltek vetőmagjaira lehet megadni, amelyek esetében az állami elismerés iránti kérelmet már benyújtották a földművelésügyi miniszterhez, vagy az Európai Unió valamely másik tagállamának hatóságánál kezdeményezték a listára vételt.
+7/A. §[^34] (1)[^35] A kísérleti célú vetőmag forgalomba hozatali engedélyét kizárólag olyan fajtajelöltek vetőmagjaira lehet megadni, amelyek esetében az állami elismerés iránti kérelmet már benyújtották az agrárpolitikáért felelős miniszterhez, vagy az Európai Unió valamely másik tagállamának hatóságánál kezdeményezték a listára vételt.
 
 (2)[^36] Az érintett fajtajelölt vizsgálatát végző fajtavizsgálati hatósághoz az (1) bekezdés szerint benyújtott, kísérleti célú vetőmag forgalomba hozatal iránti kérelem tartalmazza a tervezett kísérletek leírását és helyszínét a tagállam megjelölésével.
 
@@ -11,6 +11,6 @@
 (6) A kísérleti célú vetőmag címkéjén a fajta megnevezéseként a növénynemesítői referenciát és a javasolt vagy a jóváhagyott fajtanevet, valamint a fajta állami elismerése iránti kérelem számát, vagy az Európai Unió más tagállamában igazolt kérelem számát is fel kell tüntetni. A címkének tartalmaznia kell a „fajta hatóságilag még nem került jegyzékbe” és a „kizárólag tesztek és kísérletek elvégzése céljából” tartalmú megjelöléseket is. A vetőmag jogállásának igazolására és azonosítására előírt hatósági címke színe narancssárga.
 
 [^34]: A 7/A. §-t a 16/2011. (III. 2.) VM rendelet 6. §-a iktatta be.
-[^35]: A 7/A. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 61. § b) pontja szerint módosított szöveg.
+[^35]: A 7/A. § (1) bekezdése a 80/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^36]: A 7/A. § (2) bekezedése a 44/2018. (XII. 20.) AM rendelet 2. §-ával megállapított szöveg.
 [^37]: A 7/A. § (3) bekezdése a 67/2012. (VII. 10.) VM rendelet 6. § (3) beklezdése szerint módosított szöveg.

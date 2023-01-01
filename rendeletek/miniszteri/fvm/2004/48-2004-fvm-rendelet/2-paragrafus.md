@@ -1,0 +1,3 @@
+2. §[^6] A szántóföldi vetőmagvak előállításával és forgalomba hozatalával kapcsolatos ellenőrzési feladatokat elsőfokú – OECD rendszerben kijelölt – hatóságként a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), illetve a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) látja el. A NÉBIH ezen tevékenységéről közhitelű nyilvántartást vezet.
+
+[^6]: A 2. § a 67/2012. (VII. 10.) VM rendelet 6. § (1) és (3) bekezdése, a 24/2016. (IV. 8.) FM rendelet 24. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 61. § a) pontja, a 46/2020. (IX. 23.) AM rendelet 2. § a) pontja, a 80/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.

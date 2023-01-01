@@ -20,7 +20,7 @@ c) munkaszerződéssel vagy megbízási szerződéssel igazolja a szaporítóany
 
 (7) A megbízott ellenőr az ellenőrzés eredményeképpen nem juthat jogtalan előnyhöz. A megbízott ellenőr e tevékenysége során nem utasítható. A megbízott ellenőr köteles az átruházott jogkörben végzett szántóföldi ellenőrzés során a Szántóföldi Szemle szabályzatban foglaltak szerint eljárni.
 
-(8)[^49] Az átruházott jogkörben végzett szántóföldi ellenőrzést a NÉBIH vagy a megyei kormányhivatal felügyelete mellett kell végezni, azzal, hogy
+(8)[^49] Az átruházott jogkörben végzett szántóföldi ellenőrzést a NÉBIH vagy a vármegyei kormányhivatal felügyelete mellett kell végezni, azzal, hogy
 
 a) az ellenőrzésre kerülő szaporítás anyamagjának és termésének a hatóság által elvégzett fajtakitermesztésben kell részesülnie,
 
@@ -47,5 +47,5 @@ b) a termésből származó tétel a fajtakitermesztés során három vagy több
 [^46]: A 12. §-t a 16/2011. (III. 2.) VM rendelet 34. § (2) bekezdése hatályon kívül helyezte, újonnan a 24/2019. (V. 31.) AM rendelet 1. §-a iktatta be.
 [^47]: A 12. § (3) bekezdés a) pontja a 23/2021. (VI. 18.) AM rendelet 6. § a) pontja szerint módosított szöveg.
 [^48]: A 12. § (5) bekezdése a 23/2021. (VI. 18.) AM rendelet 6. § b) pontja szerint módosított szöveg.
-[^49]: A 12. § (8) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 2. § b) pontja szerint módosított szöveg.
+[^49]: A 12. § (8) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 2. § b) pontja, a 80/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
 [^50]: A 12. § (8) bekezdés b) pontja a 23/2021. (VI. 18.) AM rendelet 5. § a) pontja szerint módosított szöveg.

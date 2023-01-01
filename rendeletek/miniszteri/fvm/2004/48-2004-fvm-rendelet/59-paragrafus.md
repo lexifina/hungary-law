@@ -1,8 +1,8 @@
-## 58. §[^189] Az e rendeletben foglaltak végrehajtásához szükséges nyomtatványok mintáját a NÉBIH a rendelet hatálybalépésével egyidejűleg honlapján megjelenteti.
+## 58. §[^190] Az e rendeletben foglaltak végrehajtásához szükséges nyomtatványok mintáját a NÉBIH a rendelet hatálybalépésével egyidejűleg honlapján megjelenteti.
 
 59. § (1) Ez a rendelet a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba, egyidejűleg a vetőmagvak előállításáról és forgalmazásáról szóló 89/1997. (XI. 28.) FM rendelet, valamint az azt módosító 21/1999. (II. 19.) FVM rendelet és 27/2002. (IV. 13.) FVM rendelet hatályát veszti.
 
-(2)[^190] Ez a rendelet
+(2)[^191] Ez a rendelet
 
 1. a takarmánynövény-vetőmagok forgalmazásáról szóló, 1966. június 14-i 66/401/EGK tanácsi irányelvnek,
 
@@ -52,19 +52,19 @@
 
 24. a 66/401/EGK, a 66/402/EGK, a 68/193/EGK, a 2002/55/EK, a 2002/56/EK és a 2002/57/EK tanácsi irányelvnek, a 93/49/EGK és a 93/61/EGK bizottsági irányelvnek, valamint a 2014/21/EU és a 2014/98/EU végrehajtási irányelvnek a vetőmagok és egyéb növényi szaporítóanyagok károsítói tekintetében történő módosításáról szóló, 2020. február 11-i (EU) 2020/177 bizottsági végrehajtási irányelvnek,
 
-25. [^191] a 66/401/EGK és a 66/402/EGK tanácsi irányelvnek az egyes vetőmag- és gyomfajok taxonómiai csoportjainak és neveinek a tudományos és műszaki ismeretek fejlődéséhez való hozzáigazítása érdekében történő módosításáról szóló, 2021. március 8-i (EU) 2021/415 bizottsági végrehajtási irányelvnek,
+25. [^192] a 66/401/EGK és a 66/402/EGK tanácsi irányelvnek az egyes vetőmag- és gyomfajok taxonómiai csoportjainak és neveinek a tudományos és műszaki ismeretek fejlődéséhez való hozzáigazítása érdekében történő módosításáról szóló, 2021. március 8-i (EU) 2021/415 bizottsági végrehajtási irányelvnek,
 
 26. a 66/402/EGK tanácsi irányelvnek az Avena nuda vetőmagtételei és -mintái tömegének a tekintetében történő módosításáról szóló, 2021. december 7-i (EU) 2021/2171 bizottsági végrehajtási irányelvnek
 
-27. [^192] a takarmánynövény-vetőmagok forgalmazásáról szóló 66/401/EGK tanácsi irányelv I. mellékletének, a gabonavetőmagok forgalmazásáról szóló 66/402/EGK tanácsi irányelv I. mellékletének, a répavetőmag forgalmazásáról szóló 2002/54/EK tanács irányelv I. mellékletének, a zöldségvetőmagok forgalmazásáról szóló 2002/55/EK tanácsi irányelv I. mellékletének, valamint az olaj- és rostnövények vetőmagjának forgalmazásáról szóló 2002/57/EK tanácsi irányelv I. mellékletének a biokémiai és molekuláris technikák alkalmazása tekintetében történő módosításáról szóló, 2021. június 16-i (EU) 2021/971 bizottsági végrehajtási irányelvnek,
+27. [^193] a takarmánynövény-vetőmagok forgalmazásáról szóló 66/401/EGK tanácsi irányelv I. mellékletének, a gabonavetőmagok forgalmazásáról szóló 66/402/EGK tanácsi irányelv I. mellékletének, a répavetőmag forgalmazásáról szóló 2002/54/EK tanács irányelv I. mellékletének, a zöldségvetőmagok forgalmazásáról szóló 2002/55/EK tanácsi irányelv I. mellékletének, valamint az olaj- és rostnövények vetőmagjának forgalmazásáról szóló 2002/57/EK tanácsi irányelv I. mellékletének a biokémiai és molekuláris technikák alkalmazása tekintetében történő módosításáról szóló, 2021. június 16-i (EU) 2021/971 bizottsági végrehajtási irányelvnek,
 
-28. [^193] a 66/402/EGK tanácsi irányelv I. és II. mellékletének a citoplazmás hímsterilitással előállított hibridbúza-vetőmagokra vonatkozó követelmények tekintetében történő módosításáról szóló, 2021. november 5-i (EU) 2021/1927 bizottsági végrehajtási irányelvnek
+28. [^194] a 66/402/EGK tanácsi irányelv I. és II. mellékletének a citoplazmás hímsterilitással előállított hibridbúza-vetőmagokra vonatkozó követelmények tekintetében történő módosításáról szóló, 2021. november 5-i (EU) 2021/1927 bizottsági végrehajtási irányelvnek
 
 ## való megfelelést szolgálja.
 
-(3) [^194] Ez a rendelet a minimális csírázásra vonatkozó követelményeket nem teljesítő szaporítóanyagok forgalmazásának ideiglenes engedélyezésére a tagállamoknak adott felhatalmazás tekintetében a 66/401/EGK, 66/402/EGK, 2002/54/EK, 2002/55/EK és 2002/57/EK tanácsi irányelv alkalmazása szabályainak megállapításáról szóló, 2006. február 8-i 217/2006/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+(3) [^195] Ez a rendelet a minimális csírázásra vonatkozó követelményeket nem teljesítő szaporítóanyagok forgalmazásának ideiglenes engedélyezésére a tagállamoknak adott felhatalmazás tekintetében a 66/401/EGK, 66/402/EGK, 2002/54/EK, 2002/55/EK és 2002/57/EK tanácsi irányelv alkalmazása szabályainak megállapításáról szóló, 2006. február 8-i 217/2006/EK bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(4) [^195] Ez a rendelet
+(4) [^196] Ez a rendelet
 
 a) a 2002/56/EK tanácsi irányelvnek a harmadik országokból származó vetőburgonya egyenértékűségére vonatkozó határozatok időbeli hatályának kiterjesztésére a tagállamoknak engedélyezett, a 21. cikk (3) bekezdésében megállapított határidő tekintetében történő módosításáról szóló, 2011. december 7-i 2011/820/EU bizottsági végrehajtási határozatnak,
 
@@ -72,17 +72,17 @@ b) bizonyos tagállamoknak egyes fajok tekintetében a takarmánynövény-vetőm
 
 ## való megfelelést szolgálja.
 
-(5) [^196] Ez a rendelet
+(5) [^197] Ez a rendelet
 
 a) a növénykárosítókkal szembeni védekező intézkedésekről, a 228/2013/EU, a 652/2014/EU és az 1143/2014/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 69/464/EGK, a 74/647/EGK, a 93/85/EGK, a 98/57/EK, a 2000/29/EK, a 2006/91/EK és a 2007/33/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. október 26-i 2016/2031/EU európai parlamenti és tanácsi rendelet, valamint
 
 b) a növénykárosítókkal szembeni védekező intézkedésekről szóló (EU) 2016/2031 európai parlamenti és tanácsi rendelet egységes végrehajtási feltételeinek megállapításáról, valamint a 690/2008/EK bizottsági rendelet hatályon kívül helyezéséről és az (EU) 2018/2019 bizottsági végrehajtási rendelet módosításáról szóló, 2019. november 28-i 2019/2072/EU bizottsági végrehajtási rendelet
 
-[^189]: Az 58. § a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja, a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 24. § u) pontja szerint módosított szöveg.
-[^190]: Az 59. § (2) bekezdése a 2/2022. (I. 27.) AM rendelet 1. §-ával megállapított szöveg.
-[^191]: Az 59. § (2) bekezdés 25. pontja a 29/2022. (IX. 22.) AM rendelet 5. § a) pontja szerint módosított szöveg.
-[^192]: Az 59. § (2) bekezdés 27. pontját a 29/2022. (IX. 22.) AM rendelet 3. §-a iktatta be.
-[^193]: Az 59. § (2) bekezdés 28. pontját a 29/2022. (IX. 22.) AM rendelet 3. §-a iktatta be.
-[^194]: Az 59. § (3) bekezdését a 70/2006. (IX. 27.) FVM rendelet 5. §-a iktatta be.
-[^195]: Az 59. § (4) bekezdését a 23/2012. (III. 19.) VM rendelet 4. §-a iktatta be, szövege az 57/2017. (XII. 14.) FM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^196]: Az 59. § (5) bekezdését a 35/2020. (VI. 29.) AM rendelet 1. § (2) bekezdése iktatta be.
+[^190]: Az 58. § a 20/2008. (II. 21.) FVM rendelet 2. § (3) bekezdésének b) pontja, a 67/2012. (VII. 10.) VM rendelet 6. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 24. § u) pontja szerint módosított szöveg.
+[^191]: Az 59. § (2) bekezdése a 2/2022. (I. 27.) AM rendelet 1. §-ával megállapított szöveg.
+[^192]: Az 59. § (2) bekezdés 25. pontja a 29/2022. (IX. 22.) AM rendelet 5. § a) pontja szerint módosított szöveg.
+[^193]: Az 59. § (2) bekezdés 27. pontját a 29/2022. (IX. 22.) AM rendelet 3. §-a iktatta be.
+[^194]: Az 59. § (2) bekezdés 28. pontját a 29/2022. (IX. 22.) AM rendelet 3. §-a iktatta be.
+[^195]: Az 59. § (3) bekezdését a 70/2006. (IX. 27.) FVM rendelet 5. §-a iktatta be.
+[^196]: Az 59. § (4) bekezdését a 23/2012. (III. 19.) VM rendelet 4. §-a iktatta be, szövege az 57/2017. (XII. 14.) FM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^197]: Az 59. § (5) bekezdését a 35/2020. (VI. 29.) AM rendelet 1. § (2) bekezdése iktatta be.
