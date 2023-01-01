@@ -6,7 +6,7 @@ b) a belterület határvonalának nagymértékű változása,
 
 c) a tört helyrajzi számok nagy száma
 
-## esetén szabad.
+esetén szabad.
 
 (2) Átszámozást a helyrajziszámozás általános előírásai szerint kell végezni.
 
