@@ -1,0 +1,1 @@
+Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény 139. § (2) bekezdés k) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
