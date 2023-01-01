@@ -6,10 +6,11 @@ a) a minisztert,
 
 b) a NÉBIH-et,
 
-c) a Pest Megyei Kormányhivatalt és
+c)[^159] a Pest Vármegyei Kormányhivatalt és
 
-d)[^115] a megyei kormányhivatalt
+d)[^160] a vármegyei kormányhivatalt
 
 jelöli ki.
 
-[^115]: A 29. § d) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^159]: A 29. § c) pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
+[^160]: A 29. § d) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.

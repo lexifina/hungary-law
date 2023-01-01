@@ -2,13 +2,13 @@
 
 58. § A Kormány termőhelyi katasztert vezető szervként
 
-a)[^204] a Btv. 2. § (2) bekezdésében,
+a)[^260] a Btv. 2. § (2) bekezdésében,
 
-b)[^205] a hegyközségi törvény 5. § (7) és (8) bekezdésében,
+b)[^261] a hegyközségi törvény 5. § (7) és (8) bekezdésében,
 
 c) a Tfvt. 58/A. § (4)–(6) bekezdésében
 
 foglaltak tekintetében a NÉBIH-et jelöli ki.
 
-[^204]: Az 58. § a) pontja a 23/2022. (I. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^205]: [Az 58. § b) pontjának a 435/2021. (VII. 16.) Korm. rendelet 102. § (5) bekezdésével elrendelt módosítása nem vezethető át.]
+[^260]: Az 58. § a) pontja a 23/2022. (I. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^261]: [Az 58. § b) pontjának a 435/2021. (VII. 16.) Korm. rendelet 102. § (5) bekezdésével elrendelt módosítása nem vezethető át.]

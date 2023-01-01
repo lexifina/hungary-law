@@ -1,22 +1,23 @@
 48. § Növénytermesztési hatóság
 
-a)[^181] a Tfvt.
+a)[^236] a Tfvt.
 
 aa) 60. § (1) bekezdésében,
 
-ab) 64/A. § (1), (4) és (5) bekezdésében
+ab)[^237] 64/A. § (1), (4) és (5) bekezdésében
 
-foglaltak tekintetében a földművelésügyi igazgatási hatáskörben eljáró megyei kormányhivatal,
+foglaltak tekintetében a földművelésügyi igazgatási hatáskörben eljáró vármegyei kormányhivatal,
 
-b)[^182] a Btv. 3. § (2) bekezdésében, 5. § (4) bekezdésében és 22. § (3) bekezdésében foglaltak tekintetében a NÉBIH,
+b)[^238] a Btv. 3. § (2) bekezdésében, 5. § (4) bekezdésében és 22. § (3) bekezdésében foglaltak tekintetében a NÉBIH,
 
-c)[^183] a hegyközségi törvény 40. § (2) bekezdés g) pontjában foglaltak tekintetében a borászati hatáskörben eljáró megyei kormányhivatal,
+c)[^239] a hegyközségi törvény 40. § (2) bekezdés g) pontjában foglaltak tekintetében a borászati hatáskörben eljáró vármegyei kormányhivatal,
 
-d)[^184] a Fétv. 7. § (2) bekezdésében foglaltak tekintetében a föld fekvése szerint illetékes növénytermesztési hatáskörben eljáró megyei kormányhivatal,
+d)[^240] a Fétv. 7. § (2) bekezdésében foglaltak tekintetében a föld fekvése szerint illetékes növénytermesztési hatáskörben eljáró vármegyei kormányhivatal,
 
 e) a találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény 109/B. § (1) bekezdésében foglaltak tekintetében a NÉBIH.
 
-[^181]: A 48. § a) pont záró szövegrésze a 30/2020. (II. 29.) Korm. rendelet 29. § (4) bekezdése szerint módosított szöveg.
-[^182]: A 48. § b) pontja a 435/2021. (VII. 16.) Korm. rendelet 102. § (4) bekezdésével megállapított szöveg.
-[^183]: A 48. § c) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 5. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^184]: A 48. § d) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 5. pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^236]: A 48. § a) pont záró szövegrésze a 30/2020. (II. 29.) Korm. rendelet 29. § (4) bekezdése szerint módosított szöveg.
+[^237]: A 48. § a) pont ab) alpontja a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
+[^238]: A 48. § b) pontja a 435/2021. (VII. 16.) Korm. rendelet 102. § (4) bekezdésével megállapított szöveg.
+[^239]: A 48. § c) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 5. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
+[^240]: A 48. § d) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 5. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
