@@ -1,3 +1,3 @@
-## 13. §[^32]
+14. §[^33]
 
-[^32]: Az „EK megfelelőség értékelési eljárások” alcímet (13. §) a 35/2021. (VIII. 16.) EMMI rendelet 36. § g) pontja hatályon kívül helyezte.
+[^33]: A „Kijelölt szervezet és eljárásai” alcímet (14. §) a 35/2021. (VIII. 16.) EMMI rendelet 36. § h) pontja hatályon kívül helyezte.

@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-4-20-0B
 | 2021-08-17 | 2009-4-20-0B.20 | 35/2021. (VIII. 16.) EMMI rendelet |
 | 2022-02-19 | 2009-4-20-0B.21 | 8/2022. (II. 18.) EMMI rendelet |
 | 2022-05-26 | 2009-4-20-0B.22 | 35/2021. (VIII. 16.) EMMI rendelet |
+| 2023-01-01 | 2009-4-20-0B.24 | 29/2011. (VI. 7.) NEFMI rendelet |

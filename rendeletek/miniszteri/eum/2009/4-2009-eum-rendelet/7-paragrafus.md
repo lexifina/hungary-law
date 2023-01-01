@@ -1,3 +1,3 @@
-## 6. §[^25]
+7. §[^26]
 
-[^25]: A 6. §-t a 29/2011. (VI. 7.) NEFMI rendelet 31. § f) pontja hatályon kívül helyezte.
+[^26]: A 7. §-t a 35/2021. (VIII. 16.) EMMI rendelet 36. § e) pontja hatályon kívül helyezte.

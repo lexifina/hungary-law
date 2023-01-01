@@ -1,5 +1,3 @@
-## 20. §[^45]
-
 ## A forgalomba hozatalt követő váratlan események bejelentése[^46]
 
 21. §[^47] (1) Az orvostechnikai eszköz magyarországi székhellyel rendelkező egészségügyi szolgáltatónak vagy egészségügyi dolgozónak minősülő végfelhasználója az orvostechnikai eszközzel összefüggésben bekövetkezett feltételezett súlyos váratlan eseményt elektronikus úton, az OGYÉI honlapján közzétett formátumban bejelenti az OGYÉI részére.
@@ -8,6 +6,5 @@
 
 (3) Az (1) és (2) bekezdés szerinti bejelentésekről az OGYÉI a gyártót vagy annak meghatalmazott képviselőjét haladéktalanul, de legkésőbb a bejelentéstől számított 8 napon belül tájékoztatja.
 
-[^45]: A „Megfelelőségi jelölés” alcímet (20. §) a 35/2021. (VIII. 16.) EMMI rendelet 36. § k) pontja hatályon kívül helyezte.
 [^46]: A 21. §-t megelőző alcím címe a 35/2021. (VIII. 16.) EMMI rendelet 36. § l) pontja szerint módosított szöveg.
 [^47]: A 21. § a 35/2021. (VIII. 16.) EMMI rendelet 29. §-ával megállapított szöveg.

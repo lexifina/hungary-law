@@ -1,3 +1,3 @@
-## 21/B. §[^49]
+22. §[^50]
 
-[^49]: A 21/B. §-t a 29/2011. (VI. 7.) NEFMI rendelet 18. §-a iktatta be, hatályon kívül helyezte a 35/2021. (VIII. 16.) EMMI rendelet 36. § m) pontja.
+[^50]: A „Piacfelügyeleti és hatósági ellenőrző eljárások” alcímet (22–23/A. §) a 8/2018. (II. 13.) EMMI rendelet 62. § a) pontja hatályon kívül helyezte.

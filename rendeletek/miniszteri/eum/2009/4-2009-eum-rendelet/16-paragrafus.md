@@ -1,3 +1,3 @@
-## 15. §[^34]
+16. §[^35]
 
-[^34]: A „Az eszközkészletekre és a több eszközből álló rendszerekre vonatkozó külön eljárás, valamint a sterilizálási eljárás” alcímet (15. §) a 35/2021. (VIII. 16.) EMMI rendelet 36. § i) pontja hatályon kívül helyezte.
+[^35]: A „Klinikai értékelés” alcímet (16. §) a 35/2021. (VIII. 16.) EMMI rendelet 36. § j) pontja hatályon kívül helyezte.

@@ -14,7 +14,7 @@
 
 ## Székhelye: _ _ _ _
 
-## Telephely címe: _ _ _ _   Megye:
+## Telephely címe: _ _ _ _   Vármegye:
 
 ## Telefon:   Fax:   E-mail:
 
@@ -34,6 +34,6 @@
 
 ## Cégszerű aláírás, cégbélyegző, dátum:
 
-15. melléklet a 4/2009. (III. 17.) EüM rendelethez[^92]
+15. melléklet a 4/2009. (III. 17.) EüM rendelethez[^94]
 
-[^92]: A 15. mellékletet a 29/2011. (VI. 7.) NEFMI rendelet 31. § h) pontja hatályon kívül helyezte.
+[^94]: A 15. mellékletet a 29/2011. (VI. 7.) NEFMI rendelet 31. § h) pontja hatályon kívül helyezte.

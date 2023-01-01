@@ -1,3 +1,3 @@
-## 10. §[^29]
+11. §[^30]
 
-[^29]: A 10. §-t a 35/2021. (VIII. 16.) EMMI rendelet 36. § e) pontja hatályon kívül helyezte.
+[^30]: A „Az eszközökre vonatkozó követelmények, és az azoknak való megfelelőség vizsgálata” alcímet (11. §) a 35/2021. (VIII. 16.) EMMI rendelet 36. § f) pontja hatályon kívül helyezte.

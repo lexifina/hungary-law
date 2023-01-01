@@ -1,5 +1,3 @@
-## 16. §[^35]
-
 ## Nyilvántartásba vétel
 
 17. §[^36] (1) A Magyarország területén székhellyel rendelkező, illetve a Magyarország területén székhellyel rendelkező meghatalmazott képviselővel rendelkező gyártó, a Magyarország területén székhellyel rendelkező meghatalmazott képviselő, valamint a Magyarország területén székhellyel rendelkező importőr részére az OGYÉI az MDR 31. cikk (1) és (4) bekezdése szerinti bejelentéseik megtörténtéről igazolást állít ki. E bekezdést alkalmazni kell a Magyarország területén székhellyel rendelkező, az MDR 22. cikk (1) és (3) bekezdése szerinti tevékenységet végző gazdasági szereplőkre is.
@@ -30,6 +28,5 @@ g) annak tényét, hogy az orvostechnikai eszköz egyben gyógyászati segédesz
 
 (7) Az (5) bekezdés alkalmazásában ápolási technikai eszköznek minősül az olyan, orvostechnikai eszköznek nem minősülő eszköz, amelynek célja az egészségkárosodás, sérülés vagy fogyatékosság kapcsán hiányzó vagy kiesett funkciók pótlása és az önellátó, illetve -fenntartó képesség, az életminőség elősegítése, javítása.
 
-[^35]: A „Klinikai értékelés” alcímet (16. §) a 35/2021. (VIII. 16.) EMMI rendelet 36. § j) pontja hatályon kívül helyezte.
 [^36]: A 17. § a 35/2021. (VIII. 16.) EMMI rendelet 27. §-ával megállapított szöveg.
 [^37]: A 17. § (3) bekezdés c) pontja a 13/2022. (IV. 29.) EMMI rendelet 39. § a) pontja szerint módosított szöveg.
