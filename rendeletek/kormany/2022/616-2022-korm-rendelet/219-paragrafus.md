@@ -1,5 +1,9 @@
-## 214.[^214]
+## 214. Az egészségügyi létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 246/2015. (IX. 8.) Korm. rendelet módosítása
 
-219. §
+219. § Az egészségügyi létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 246/2015. (IX. 8.) Korm. rendelet
 
-[^214]: A 214. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 5. §-ában, 11. § (1) bekezdés b) pontjában a „megyére” szövegrész helyébe a „vármegyére” szöveg,
+
+b) 15. § a) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg
+
+lép.

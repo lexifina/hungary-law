@@ -1,5 +1,3 @@
-## 178.[^178]
+## 178. Az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezetek tevékenységéről és működésük engedélyezéséről szóló 72/2014. (III. 13.) Korm. rendelet módosítása
 
-181. §
-
-[^178]: A 178. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+181. § Az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezetek tevékenységéről és működésük engedélyezéséről szóló 72/2014. (III. 13.) Korm. rendelet 1/A. §-ában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

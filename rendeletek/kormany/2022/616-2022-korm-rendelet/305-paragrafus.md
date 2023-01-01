@@ -1,5 +1,3 @@
-## 298.[^298]
+## 298. Az energetikai létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 374/2020. (VII. 30.) Korm. rendelet módosítása
 
-305. §
-
-[^298]: A 298. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+305. § Az energetikai létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 374/2020. (VII. 30.) Korm. rendelet 3. § c) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

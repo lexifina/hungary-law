@@ -1,5 +1,9 @@
-## 91.[^91]
+## 91. A fogyasztóvédelmi hatóság eljárása során felmerülő egyes eljárási költségekről szóló 212/2008. (VIII. 29.) Korm. rendelet módosítása
 
-94. §
+94. § A fogyasztóvédelmi hatóság eljárása során felmerülő egyes eljárási költségekről szóló 212/2008. (VIII. 29.) Korm. rendelet
 
-[^91]: A 91. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 3. § (3) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
+
+b) 3. § (4) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg
+
+lép.

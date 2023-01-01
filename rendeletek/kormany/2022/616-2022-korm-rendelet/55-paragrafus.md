@@ -1,5 +1,3 @@
-## 52.[^52]
+## 52. Az egyes javító-karbantartó szolgáltatásokra vonatkozó kötelező jótállásról szóló 249/2004. (VIII. 27.) Korm. rendelet módosítása
 
-55. §
-
-[^52]: Az 52. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+55. § Az egyes javító-karbantartó szolgáltatásokra vonatkozó kötelező jótállásról szóló 249/2004. (VIII. 27.) Korm. rendelet 3. § (2) bekezdés d) pontjában és 4. § (1) bekezdés h) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

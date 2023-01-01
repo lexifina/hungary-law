@@ -1,5 +1,3 @@
-## 222.[^222]
+## 222. Az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2014–2020 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt energiahatékonyság növelését célzó beruházások megvalósításáról szóló 435/2015. (XII. 28.) Korm. rendelet módosítása
 
-227. §
-
-[^222]: A 222. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+227. § Az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2014–2020 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt energiahatékonyság növelését célzó beruházások megvalósításáról szóló 435/2015. (XII. 28.) Korm. rendelet 1. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

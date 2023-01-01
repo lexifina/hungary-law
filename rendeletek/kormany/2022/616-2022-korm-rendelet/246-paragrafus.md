@@ -1,5 +1,9 @@
-## 240.[^240]
+## 240. Az egészségbiztosítási szervekről szóló 386/2016. (XII. 2.) Korm. rendelet módosítása
 
-246. §
+246. § Az egészségbiztosítási szervekről szóló 386/2016. (XII. 2.) Korm. rendelet
 
-[^240]: A 240. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 1. § b) pontjában és 4. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szövegrész,
+
+b) 4. § (3) bekezdésében, 8. § (6) bekezdésében a „megye” szövegrész helyébe a „vármegye” szöveg
+
+lép.

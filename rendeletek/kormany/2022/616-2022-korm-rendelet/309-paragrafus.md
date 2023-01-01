@@ -1,5 +1,3 @@
-## 302.[^302]
+## 302. A gyermeket nevelő családok otthonfelújítási támogatásáról szóló 518/2020. (XI. 25.) Korm. rendelet módosítása
 
-309. §
-
-[^302]: A 302. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+309. § A gyermeket nevelő családok otthonfelújítási támogatásáról szóló 518/2020. (XI. 25.) Korm. rendelet 13. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

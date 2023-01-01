@@ -1,5 +1,3 @@
-## 81.[^81]
+## 81. A magyarországi hivatalos földrajzi nevek megállapításáról és nyilvántartásáról szóló 303/2007. (XI. 14.) Korm. rendelet módosítása
 
-84. §
-
-[^81]: A 81. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+84. § A magyarországi hivatalos földrajzi nevek megállapításáról és nyilvántartásáról szóló 303/2007. (XI. 14.) Korm. rendelet 2. § (3) bekezdés g) pontjában a „megye” szövegrész helyébe a „vármegye” szöveg lép.

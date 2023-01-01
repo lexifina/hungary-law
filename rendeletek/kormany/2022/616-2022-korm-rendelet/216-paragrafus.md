@@ -1,5 +1,3 @@
-## 211.[^211]
+## 211. Az államhatárról szóló törvény szerinti közérdekű használati joggal összefüggő kártalanításról szóló 211/2015. (VII. 23.) Korm. rendelet módosítása
 
-216. §
-
-[^211]: A 211. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+216. § Az államhatárról szóló törvény szerinti közérdekű használati joggal összefüggő kártalanításról szóló 211/2015. (VII. 23.) Korm. rendelet 1. § (1) bekezdésében, 2. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

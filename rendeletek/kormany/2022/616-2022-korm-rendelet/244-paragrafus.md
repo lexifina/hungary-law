@@ -1,5 +1,3 @@
-## 238.[^238]
+## 238. Az egyes földügyi eljárások részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendelet módosítása
 
-244. §
-
-[^238]: A 238. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+244. § Az egyes földügyi eljárások részletes szabályairól szóló 384/2016. (XII. 2.) Korm. rendelet 2. § (1) bekezdésében, 23/A. § (1) és (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

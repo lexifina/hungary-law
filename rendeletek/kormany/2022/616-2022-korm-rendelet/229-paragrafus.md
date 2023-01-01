@@ -1,5 +1,3 @@
-## 224.[^224]
+## 224. A genetikai erőforrásokhoz való hozzáféréssel és a hasznosításukból származó hasznok igazságos és méltányos megosztásával kapcsolatos nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 3/2016. (I. 20.) Korm. rendelet módosítása
 
-229. §
-
-[^224]: A 224. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+229. § A genetikai erőforrásokhoz való hozzáféréssel és a hasznosításukból származó hasznok igazságos és méltányos megosztásával kapcsolatos nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 3/2016. (I. 20.) Korm. rendelet 5. § (1) bekezdés b) pont ba) alpontjában a „Megyei” szövegrész helyébe a „Vármegyei” szöveg lép.

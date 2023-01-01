@@ -1,5 +1,9 @@
-## 95.[^95]
+## 95. A vásárokról, a piacokról, és a bevásárlóközpontokról szóló 55/2009. (III. 13.) Korm. rendelet módosítása
 
-98. §
+98. § A vásárokról, a piacokról, és a bevásárlóközpontokról szóló 55/2009. (III. 13.) Korm. rendelet
 
-[^95]: A 95. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 4. § (3) bekezdés j) pontjában, 4/B. § (5) bekezdés a) pontjában és 9. § (3) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg,
+
+b) 9/A. §-ában a „megyei” szövegrész helyébe a „vármegyei” szöveg
+
+lép.

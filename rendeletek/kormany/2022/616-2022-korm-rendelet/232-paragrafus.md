@@ -1,5 +1,3 @@
-## 227.[^227]
+## 227. Az Országos Hulladékgazdálkodási Közszolgáltatási Tervre vonatkozó részletes szabályokról szóló 68/2016. (III. 31.) Korm. rendelet módosítása
 
-232. §
-
-[^227]: A 227. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+232. § Az Országos Hulladékgazdálkodási Közszolgáltatási Tervre vonatkozó részletes szabályokról szóló 68/2016. (III. 31.) Korm. rendelet 1. melléklet 10. és 11. pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

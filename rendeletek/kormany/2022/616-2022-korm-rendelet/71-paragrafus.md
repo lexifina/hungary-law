@@ -1,5 +1,9 @@
-## 68.[^68]
+## 68. A védett állatfajok védelmére, tartására, hasznosítására és bemutatására vonatkozó részletes szabályokról szóló 348/2006. (XII. 23.) Korm. rendelet módosítása
 
-71. §
+71. § A védett állatfajok védelmére, tartására, hasznosítására és bemutatására vonatkozó részletes szabályokról szóló 348/2006. (XII. 23.) Korm. rendelet
 
-[^68]: A 68. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 17. § (2) bekezdés a) pontjában a „Megyei” szövegrész helyébe a „Vármegyei” szöveg,
+
+b) 17. § (3) bekezdésében a „Pest Megyei Kormányhivatal” szövegrész helyébe a „Kormányhivatal” szöveg
+
+lép.

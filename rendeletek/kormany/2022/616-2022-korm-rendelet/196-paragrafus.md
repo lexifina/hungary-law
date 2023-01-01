@@ -1,5 +1,3 @@
-## 192.[^192]
+## 192. A légiközlekedés védelmével kapcsolatos feladatoknak az általános rendőrségi feladatok ellátására létrehozott szerv általi átvételéről, a nyilvános repülőtér üzemben tartója részére történő visszaadásáról és az általános rendőrségi feladatok ellátására létrehozott szerv indokolt költségei megtérítésének szabályairól, valamint a védelmi ellenőrzés felügyeletéről szóló 302/2014. (XII. 5.) Korm. rendelet módosítása
 
-196. §
-
-[^192]: A 192. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+196. § A légiközlekedés védelmével kapcsolatos feladatoknak az általános rendőrségi feladatok ellátására létrehozott szerv általi átvételéről, a nyilvános repülőtér üzemben tartója részére történő visszaadásáról és az általános rendőrségi feladatok ellátására létrehozott szerv indokolt költségei megtérítésének szabályairól, valamint a védelmi ellenőrzés felügyeletéről szóló 302/2014. (XII. 5.) Korm. rendelet 2. § (1) bekezdés a) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg, a „megyében” szövegrész helyébe a „vármegyében” szöveg lép.

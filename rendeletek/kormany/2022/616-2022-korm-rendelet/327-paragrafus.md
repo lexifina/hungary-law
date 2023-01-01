@@ -1,5 +1,3 @@
-## 320.[^320]
+## 320. A kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat szabályairól, valamint a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve kijelöléséről, valamint feladatai ellátásának, a kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat részletes szabályainak megállapításáról szóló 293/2010. (XII. 22.) Korm. rendelet módosításáról szóló 194/2022. (V. 27.) Korm. rendelet módosítása
 
-327. §
-
-[^320]: A 320. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+327. § A kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat szabályairól, valamint a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve kijelöléséről, valamint feladatai ellátásának, a kifogástalan életvitel ellenőrzés és a megbízhatósági vizsgálat részletes szabályainak megállapításáról szóló 293/2010. (XII. 22.) Korm. rendelet módosításáról szóló 194/2022. (V. 27.) Korm. rendelet 9. § (1) bekezdés e) pontjában a „megye” szövegrész helyébe a „vármegye” szöveg lép.

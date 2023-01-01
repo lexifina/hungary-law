@@ -1,5 +1,3 @@
-## 25.[^25]
+## 25. A gyámhatóságok, a területi gyermekvédelmi szakszolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló 235/1997. (XII. 17.) Korm. rendelet módosítása
 
-26. §
-
-[^25]: A 25. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+26. § A gyámhatóságok, a területi gyermekvédelmi szakszolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló 235/1997. (XII. 17.) Korm. rendelet 5. §-ában, 11/O. § (3) bekezdés d) pontjában, 11/P. § (2) bekezdés a) és b) pontjában, 11/P. § (21) bekezdésében, valamint 11/Q. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

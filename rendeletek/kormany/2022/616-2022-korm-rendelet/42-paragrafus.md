@@ -1,5 +1,3 @@
-## 39.[^39]
+## 39. A szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló 50/2001. (IV. 3.) Korm. rendelet módosítása
 
-42. §
-
-[^39]: A 39. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+42. § A szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló 50/2001. (IV. 3.) Korm. rendelet 4. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

@@ -1,5 +1,3 @@
-## 213.[^213]
+## 213. A költségvetési intézmények fosszilis energia felhasználásának csökkentése érdekében napelemes villamosenergia-termelő erőmű működtetéséről szóló 232/2015. (VIII. 20.) Korm. rendelet módosítása
 
-218. §
-
-[^213]: A 213. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+218. § A költségvetési intézmények fosszilis energia felhasználásának csökkentése érdekében napelemes villamosenergia-termelő erőmű működtetéséről szóló 232/2015. (VIII. 20.) Korm. rendelet 4. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

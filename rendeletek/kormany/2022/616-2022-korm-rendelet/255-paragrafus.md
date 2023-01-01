@@ -1,5 +1,3 @@
-## 249.[^249]
+## 249. A Hollókő ófalu és környezete világörökségi kezelési tervéről szóló 108/2017. (IV. 28.) Korm. rendelet módosítása
 
-255. §
-
-[^249]: A 249. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+255. § A Hollókő ófalu és környezete világörökségi kezelési tervéről szóló 108/2017. (IV. 28.) Korm. rendelet 2. melléklet 5.1. pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

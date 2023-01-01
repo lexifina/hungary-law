@@ -1,5 +1,3 @@
-## 272.[^272]
+## 272. Az egyes műszaki termékek tűzvédelmi megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló 492/2017. (XII. 29.) Korm. rendelet módosítása
 
-278. §
-
-[^272]: A 272. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+278. § Az egyes műszaki termékek tűzvédelmi megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló 492/2017. (XII. 29.) Korm. rendelet 3. § (5) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

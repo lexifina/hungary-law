@@ -1,5 +1,3 @@
-## 89.[^89]
+## 89. A közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegéről, felhasználásának rendjéről és az ellenőrzésben történő közreműködés feltételeiről szóló 410/2007. (XII. 29.) Korm. rendelet módosítása
 
-92. §
-
-[^89]: A 89. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+92. § A közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegéről, felhasználásának rendjéről és az ellenőrzésben történő közreműködés feltételeiről szóló 410/2007. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pont aa) és ab) alpontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg, a „megye” szövegrészek helyébe a „vármegye” szöveg lép.

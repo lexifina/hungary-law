@@ -1,5 +1,3 @@
-## 75.[^75]
+## 75. Az országhatárt átlépő hulladékszállításról szóló 180/2007. (VII. 3.) Korm. rendelet módosítása
 
-78. §
-
-[^75]: A 75. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+78. § Az országhatárt átlépő hulladékszállításról szóló 180/2007. (VII. 3.) Korm. rendelet 4. számú melléklete helyébe az 1. melléklet lép.

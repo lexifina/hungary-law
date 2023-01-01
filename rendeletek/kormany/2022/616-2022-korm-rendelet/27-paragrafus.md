@@ -1,5 +1,3 @@
-## 26.[^26]
+## 26. A magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet módosítása
 
-27. §
-
-[^26]: A 26. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+27. § A magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 4. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

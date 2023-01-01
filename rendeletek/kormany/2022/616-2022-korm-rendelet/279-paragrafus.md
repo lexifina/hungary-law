@@ -1,5 +1,3 @@
-## 273.[^273]
+## 273. A nagycsaládosokat megillető földgáz árkedvezményről szóló 494/2017. (XII. 29.) Korm. rendelet módosítása
 
-279. §
-
-[^273]: A 273. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+279. § A nagycsaládosokat megillető földgáz árkedvezményről szóló 494/2017. (XII. 29.) Korm. rendelet 1. §-ában és 4. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

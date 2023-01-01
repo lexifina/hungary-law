@@ -1,5 +1,3 @@
-## 229.[^229]
+## 229. A polgári felhasználású robbanóanyagok forgalmazásáról és felügyeletéről szóló 121/2016. (VI. 7.) Korm. rendelet módosítása
 
-234. §
-
-[^229]: A 229. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+234. § A polgári felhasználású robbanóanyagok forgalmazásáról és felügyeletéről szóló 121/2016. (VI. 7.) Korm. rendelet 5. § (1) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg lép.

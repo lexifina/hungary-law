@@ -1,5 +1,3 @@
-## 315.[^315]
+## 315. Az élelmiszermentésről szóló 72/2022. (III. 2.) Korm. rendelet módosítása
 
-322. §
-
-[^315]: A 315. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+322. § Az élelmiszermentésről szóló 72/2022. (III. 2.) Korm. rendelet 1. §-ában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

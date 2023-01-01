@@ -1,5 +1,3 @@
-## 283.[^283]
+## 283. Az egyéni vállalkozók nyilvántartásával összefüggő részletszabályokról szóló 254/2018. (XII. 18.) Korm. rendelet módosítása
 
-290. §
-
-[^283]: A 283. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+290. § Az egyéni vállalkozók nyilvántartásával összefüggő részletszabályokról szóló 254/2018. (XII. 18.) Korm. rendelet 1. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

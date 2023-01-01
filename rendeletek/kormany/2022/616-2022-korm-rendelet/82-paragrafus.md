@@ -1,5 +1,9 @@
-## 79.[^79]
+## 79. A környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet módosítása
 
-82. §
+82. § A környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet
 
-[^79]: A 79. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 4. § (4) bekezdésében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg,
+
+b) 9. § (7) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg
+
+lép.

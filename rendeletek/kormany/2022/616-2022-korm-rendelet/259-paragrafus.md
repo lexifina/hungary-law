@@ -1,5 +1,3 @@
-## 253.[^253]
+## 253. A vizsgálóállomás engedélyezésének részletes eljárási szabályairól szóló 181/2017. (VII. 5.) Korm. rendelet módosítása
 
-259. §
-
-[^253]: A 253. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+259. § A vizsgálóállomás engedélyezésének részletes eljárási szabályairól szóló 181/2017. (VII. 5.) Korm. rendelet 2/A. § (3) bekezdésében a „megyében” szövegrész helyébe a „vármegyében” szöveg lép.

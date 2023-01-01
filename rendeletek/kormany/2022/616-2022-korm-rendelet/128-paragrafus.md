@@ -1,5 +1,3 @@
-## 125.[^125]
+## 125. A díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló 261/2011. (XII. 7.) Korm. rendelet módosítása
 
-128. §
-
-[^125]: A 125. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+128. § A díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló 261/2011. (XII. 7.) Korm. rendelet 21. § (3) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

@@ -1,5 +1,3 @@
-## 252.[^252]
+## 252. A nemzetbiztonsági szolgálatok által közzéteendő adatokról szóló 180/2017. (VII. 5.) Korm. rendelet módosítása
 
-258. §
-
-[^252]: A 252. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+258. § A nemzetbiztonsági szolgálatok által közzéteendő adatokról szóló 180/2017. (VII. 5.) Korm. rendelet 1. melléklet I. pontjában foglalt táblázat A:2 mezőjében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

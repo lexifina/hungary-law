@@ -1,5 +1,3 @@
-## 45.[^45]
+## 45. Az Országos Dokumentumellátási Rendszerről szóló 73/2003. (V. 28.) Korm. rendelet módosítása
 
-48. §
-
-[^45]: A 45. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+48. § Az Országos Dokumentumellátási Rendszerről szóló 73/2003. (V. 28.) Korm. rendelet 2. § (1) bekezdésében, valamint 3. § e) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

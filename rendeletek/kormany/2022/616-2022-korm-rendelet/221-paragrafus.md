@@ -1,5 +1,3 @@
-## 216.[^216]
+## 216. A polgári légiközlekedési balesetek esetére szóló nemzeti vészhelyzeti tervről, valamint a polgári légiközlekedési balesetek áldozataira és azok hozzátartozóira vonatkozó légitársasági segítségnyújtási tervről szóló 326/2015. (XI. 10.) Korm. rendelet módosítása
 
-221. §
-
-[^216]: A 216. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+221. § A polgári légiközlekedési balesetek esetére szóló nemzeti vészhelyzeti tervről, valamint a polgári légiközlekedési balesetek áldozataira és azok hozzátartozóira vonatkozó légitársasági segítségnyújtási tervről szóló 326/2015. (XI. 10.) Korm. rendelet 1. § (2) bekezdés i) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

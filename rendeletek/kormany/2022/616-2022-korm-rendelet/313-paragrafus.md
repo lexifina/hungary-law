@@ -1,5 +1,3 @@
-## 306.[^306]
+## 306. Egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosítása
 
-313. §
-
-[^306]: A 306. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+313. § Az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet 1. § (5a) bekezdésében, 2. mellékletében foglalt táblázat A:10, A:20, A:23, C:2, C:4–C:6, C:10, C:11, C:14, C:18, C:20, C:22–C:45, C:48, C:49, C:51, C:55, C:59–C:61, C:63–C:67, C:70–C:84, C:86, C:88–C:91 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg lép.

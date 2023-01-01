@@ -1,5 +1,3 @@
-## 304.[^304]
+## 304. A termelőszövetkezeti földhasználati jog alatt álló ingatlanok állami tulajdonba kerülésével kapcsolatban a részarány-tulajdonosok kártalanításának szabályairól szóló 560/2020. (XII. 7.) Korm. rendelet módosítása
 
-311. §
-
-[^304]: A 304. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+311. § A termelőszövetkezeti földhasználati jog alatt álló ingatlanok állami tulajdonba kerülésével kapcsolatban a részarány-tulajdonosok kártalanításának szabályairól szóló 560/2020. (XII. 7.) Korm. rendelet 1. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

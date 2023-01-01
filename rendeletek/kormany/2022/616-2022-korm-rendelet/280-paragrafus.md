@@ -1,5 +1,9 @@
-## 274.[^274]
+## 274. A társasházkezelő, az ingatlankezelő, az ingatlanközvetítő, valamint az ingatlanvagyon-értékelő és -közvetítő szolgáltatói tevékenység üzletszerűen történő végzésének feltételeiről és a nyilvántartásba vétel részletes szabályairól szóló 499/2017. (XII. 29.) Korm. rendelet módosítása
 
-280. §
+280. § A társasházkezelő, az ingatlankezelő, az ingatlanközvetítő, valamint az ingatlanvagyon-értékelő és -közvetítő szolgáltatói tevékenység üzletszerűen történő végzésének feltételeiről és a nyilvántartásba vétel részletes szabályairól szóló 499/2017. (XII. 29.) Korm. rendelet
 
-[^274]: A 274. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 2. § a) és b) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg,
+
+b) 2. § b) pontjában a „megyeszékhely” szövegrész helyébe a „vármegyeszékhely”, a „megyében” szövegrész helyébe a „vármegyében” szöveg, a „megye” szövegrész helyébe a „vármegye” szöveg
+
+lép.

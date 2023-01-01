@@ -1,5 +1,3 @@
-## 122.[^122]
+## 122. A polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet módosítása
 
-125. §
-
-[^122]: A 122. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+125. § A polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet 79. § (1) bekezdés a) pontjában, 84. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

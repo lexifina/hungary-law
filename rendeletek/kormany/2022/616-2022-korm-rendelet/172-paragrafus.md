@@ -1,5 +1,3 @@
-## 169.[^169]
+## 169. Az építésügyi, az építésfelügyeleti és az örökségvédelmi hatóságnál foglalkoztatott köztisztviselők és kormánytisztviselők építésügyi vizsgájára és szakmai továbbképzésére vonatkozó részletes szabályokról szóló 487/2013. (XII. 17.) Korm. rendelet módosítása
 
-172. §
-
-[^169]: A 169. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+172. § Az építésügyi, az építésfelügyeleti és az örökségvédelmi hatóságnál foglalkoztatott köztisztviselők és kormánytisztviselők építésügyi vizsgájára és szakmai továbbképzésére vonatkozó részletes szabályokról szóló 487/2013. (XII. 17.) Korm. rendelet 2. § (6) bekezdésében, valamint 3. § (3) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

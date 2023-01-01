@@ -1,5 +1,9 @@
-## 111.[^111]
+## 111. A csemegeszőlő és alanyszőlő ültetvény telepítésének engedélyezéséről szóló 231/2010. (VIII. 18.) Korm. rendelet módosítása
 
-114. §
+114. § A csemegeszőlő és alanyszőlő ültetvény telepítésének engedélyezéséről szóló 231/2010. (VIII. 18.) Korm. rendelet
 
-[^111]: A 111. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 2. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
+
+b) 2. § (1) bekezdésében és 6. § (2) bekezdésében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
+
+lép.

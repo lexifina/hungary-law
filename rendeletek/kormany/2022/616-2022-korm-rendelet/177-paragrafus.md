@@ -1,5 +1,9 @@
-## 174.[^174]
+## 174. A létfontosságú agrárgazdasági rendszerelemek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 540/2013. (XII. 30.) Korm. rendelet módosítása
 
-177. §
+177. § A létfontosságú agrárgazdasági rendszerelemek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 540/2013. (XII. 30.) Korm. rendelet
 
-[^174]: A 174. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 1. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
+
+b) 7. §-ában a „megyei” szövegrészek helyébe a „vármegyei” szöveg
+
+lép.

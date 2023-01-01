@@ -1,5 +1,9 @@
-## 127.[^127]
+## 127. A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet módosítása
 
-130. §
+130. § A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet
 
-[^127]: A 127. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 1. § (1) bekezdés a) pontjában, 1. § (4) és (7) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
+
+b) 1/B. § a)–c) pontjában a „megye” szövegrészek helyébe a „vármegye” szöveg
+
+lép.

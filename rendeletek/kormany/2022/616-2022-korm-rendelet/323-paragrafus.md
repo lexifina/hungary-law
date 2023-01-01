@@ -1,5 +1,3 @@
-## 316.[^316]
+## 316. Az Ukrajna területéről érkezett, ukrán állampolgársággal rendelkező személyek munkavállalásának támogatásáról szóló 96/2022. (III. 10.) Korm. rendelet módosítása
 
-323. §
-
-[^316]: A 316. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+323. § Az Ukrajna területéről érkezett, ukrán állampolgársággal rendelkező személyek munkavállalásának támogatásáról szóló 96/2022. (III. 10.) Korm. rendelet 2. §-ában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

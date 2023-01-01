@@ -1,5 +1,3 @@
-## 145.[^145]
+## 145. A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet módosítása
 
-148. §
-
-[^145]: A 145. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+148. § A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet 12. § (2) bekezdés f) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

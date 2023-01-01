@@ -1,5 +1,3 @@
-## 21.[^21]
+## 21. Az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet módosítása
 
-21. §
-
-[^21]: A 21. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+21. § Az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 10. § (2) bekezdésében és 18/B. § (4) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

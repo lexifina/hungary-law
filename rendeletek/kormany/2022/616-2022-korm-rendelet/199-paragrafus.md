@@ -1,5 +1,9 @@
-## 195.[^195]
+## 195. A hulladékká vált gépjárművekről szóló 369/2014. (XII. 30.) Korm. rendelet módosítása
 
-199. §
+199. § A hulladékká vált gépjárművekről szóló 369/2014. (XII. 30.) Korm. rendelet
 
-[^195]: A 195. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 4. § (7) bekezdésében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg,
+
+b) 20. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg
+
+lép.

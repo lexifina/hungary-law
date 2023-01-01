@@ -1,5 +1,3 @@
-## 281.[^281]
+## 281. A helyi közszolgáltatás információs rendszerről szóló 73/2018. (IV. 20.) Korm. rendelet módosítása
 
-288. §
-
-[^281]: A 281. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+288. § A helyi közszolgáltatás információs rendszerről szóló 73/2018. (IV. 20.) Korm. rendelet 1. mellékletében foglalt táblázat B:15 mezőjében a „megyénként” szövegrész helyébe a „vármegyénként” szöveg lép.

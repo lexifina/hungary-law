@@ -1,5 +1,3 @@
-## 132.[^132]
+## 132. A munkavédelmi hatósági feladatokat ellátó egyes szervek kijelöléséről szóló 373/2011. (XII. 31.) Korm. rendelet módosítása
 
-135. §
-
-[^132]: A 132. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+135. § A munkavédelmi hatósági feladatokat ellátó egyes szervek kijelöléséről szóló 373/2011. (XII. 31.) Korm. rendelet 1. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

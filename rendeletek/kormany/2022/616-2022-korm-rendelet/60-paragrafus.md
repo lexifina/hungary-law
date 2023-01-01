@@ -1,5 +1,9 @@
-## 57.[^57]
+## 57. A távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló 157/2005. (VIII. 15.) Korm. rendelet módosítása
 
-60. §
+60. § A távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló 157/2005. (VIII. 15.) Korm. rendelet
 
-[^57]: Az 57. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 8. § (6) bekezdésében, 13. § (1) és (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
+
+b) 10. § (3) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg
+
+lép.

@@ -1,5 +1,9 @@
-## 49.[^49]
+## 49. A szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény pedagógusokat és oktatókat érintő rendelkezéseinek végrehajtásáról szóló 206/2003. (XII. 10.) Korm. rendelet módosítása
 
-52. §
+52. § A szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény pedagógusokat és oktatókat érintő rendelkezéseinek végrehajtásáról szóló 206/2003. (XII. 10.) Korm. rendelet
 
-[^49]: A 49. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 17. § (1) bekezdésében és 1. mellékletében foglalt táblázat A:1 mezőjében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
+
+b) 1. mellékletében foglalt táblázat A:2–A:5 és A:7–A:14 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
+
+lép.

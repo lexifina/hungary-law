@@ -1,5 +1,9 @@
-## 28.[^28]
+## 28. A vízgazdálkodási feladatokkal összefüggő alapadatokról szóló 178/1998. (XI. 6.) Korm. rendelet módosítása
 
-29. §
+29. § A vízgazdálkodási feladatokkal összefüggő alapadatokról szóló 178/1998. (XI. 6.) Korm. rendelet
 
-[^28]: A 28. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 4. § (2) bekezdés a) pontjában a „megyei” szövegrészek helyébe a „vármegyei” szöveg,
+
+b) 1. melléklet „B) Adatkörök” című táblázat B:4 mezőjében a „megyénként” szövegrész helyébe a „vármegyénként” szöveg
+
+lép.

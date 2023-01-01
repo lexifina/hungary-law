@@ -1,5 +1,3 @@
-## 90.[^90]
+## 90. A kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló 178/2008. (VII. 3.) Korm. rendelet módosítása
 
-93. §
-
-[^90]: A 90. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+93. § A kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló 178/2008. (VII. 3.) Korm. rendelet 3. § (4) bekezdésében és 4. §-ában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

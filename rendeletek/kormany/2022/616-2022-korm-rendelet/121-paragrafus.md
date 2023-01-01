@@ -1,5 +1,3 @@
-## 118.[^118]
+## 118. A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozásának biztosításáról szóló 38/2011. (III. 22.) Korm. rendelet módosítása
 
-121. §
-
-[^118]: A 118. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+121. § A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozásának biztosításáról szóló 38/2011. (III. 22.) Korm. rendelet 1. mellékletében foglalt táblázat B:8 és B:11 mezőjében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

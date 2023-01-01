@@ -1,5 +1,3 @@
-## 142.[^142]
+## 142. A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet módosítása
 
-145. §
-
-[^142]: A 142. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+145. § A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről 314/2012. (XI. 8.) Korm. rendelet 11. § (12) bekezdésében, 1. melléklet 1.2. pontjában, 9. mellékletében foglalt táblázat A:3, A:4, A:10, A:11, A:15, A:17–19 és A:21 mezőjében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

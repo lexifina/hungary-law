@@ -1,5 +1,9 @@
-## 197.[^197]
+## 197. A Nemzeti Kutatási, Fejlesztési és Innovációs Alap működtetésének és felhasználásának szabályairól szóló 380/2014. (XII. 31.) Korm. rendelet módosítása
 
-201. §
+201. § A Nemzeti Kutatási, Fejlesztési és Innovációs Alap működtetésének és felhasználásának szabályairól szóló 380/2014. (XII. 31.) Korm. rendelet
 
-[^197]: A 197. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 2. § (1) bekezdés 57. pontjában a „megyében” szövegrészek helyébe a „vármegyében” szöveg,
+
+b) 17. § (4) bekezdésében a „megyében” szövegrész helyébe a „vármegyében” szöveg
+
+lép.

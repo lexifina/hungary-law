@@ -1,5 +1,3 @@
-## 175.[^175]
+## 175. A rendvédelmi szervek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló 4/2014. (I. 10.) Korm. rendelet módosítása
 
-178. §
-
-[^175]: A 175. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+178. § A rendvédelmi szervek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló 4/2014. (I. 10.) Korm. rendelet 3. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

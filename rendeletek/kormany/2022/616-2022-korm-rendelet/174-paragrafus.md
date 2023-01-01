@@ -1,5 +1,3 @@
-## 171.[^171]
+## 171. A szociálpolitikai menetdíj-támogatást nem tartalmazó, adómentes közlekedési kedvezményekről szóló 498/2013. (XII. 29.) Korm. rendelet módosítása
 
-174. §
-
-[^171]: A 171. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+174. § A szociálpolitikai menetdíj-támogatást nem tartalmazó, adómentes közlekedési kedvezményekről szóló 498/2013. (XII. 29.) Korm. rendelet 2. § (4) bekezdésében és 3. § (1) bekezdés d) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

@@ -1,5 +1,9 @@
-## 254.[^254]
+## 254. A villanyszerelők bejelentéséről és nyilvántartásáról szóló 219/2017. (VII. 31.) Korm. rendelet módosítása
 
-260. §
+260. § A villanyszerelők bejelentéséről és nyilvántartásáról szóló 219/2017. (VII. 31.) Korm. rendelet
 
-[^254]: A 254. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 2. § (5) bekezdésében a „megyénkénti” szövegrész helyébe a „vármegyénkénti” szöveg,
+
+b) 1. mellékletében a „megye” szövegrész helyébe a „vármegye” szöveg
+
+lép.

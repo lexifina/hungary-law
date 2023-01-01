@@ -1,5 +1,3 @@
-## 260.[^260]
+## 260. A barlangok nyilvántartásáról szóló 392/2017. (XII. 13.) Korm. rendelet módosítása
 
-266. §
-
-[^260]: A 260. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+266. § A barlangok nyilvántartásáról szóló 392/2017. (XII. 13.) Korm. rendelet 1. melléklet 1.2. pont a) alpontjában a „megye” szövegrész helyébe a „vármegye” szöveg lép.

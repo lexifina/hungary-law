@@ -1,5 +1,13 @@
-## 104.[^104]
+## 104. A területfejlesztéssel és a területrendezéssel összefüggésben megőrzendő dokumentumok gyűjtéséről, megőrzéséről, nyilvántartásáról és hasznosításáról szóló 16/2010. (II. 5.) Korm. rendelet módosítása
 
-107. §
+107. § A területfejlesztéssel és a területrendezéssel összefüggésben megőrzendő dokumentumok gyűjtéséről, megőrzéséről, nyilvántartásáról és hasznosításáról szóló 16/2010. (II. 5.) Korm. rendelet
 
-[^104]: A 104. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 1. § a) pont aa) alpontjában a „megye”szövegrész helyébe a „vármegye” szöveg,
+
+b) 1. § a) pont ad) alpontjában a „megye” szövegrészek helyébe a „vármegye” szöveg,
+
+c) 1. § g) és h) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg,
+
+d) 3. § (3) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg
+
+lép.

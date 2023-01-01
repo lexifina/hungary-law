@@ -1,5 +1,3 @@
-## 51.[^51]
+## 51. A sportrendezvények biztonságáról szóló 54/2004. (III. 31.) Korm. rendelet módosítása
 
-54. §
-
-[^51]: Az 51. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+54. § A sportrendezvények biztonságáról szóló 54/2004. (III. 31.) Korm. rendelet 15. § (5) bekezdésében, 19/A. § (2) bekezdés a) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

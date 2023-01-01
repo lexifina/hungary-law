@@ -1,5 +1,3 @@
-## 282.[^282]
+## 282. Az Európai Foglalkoztatási Szolgálat tevékenységében részt vevő állami foglalkoztatási szerv feladatairól, valamint más szervezetek e tevékenységben történő részvételének feltételeiről szóló 130/2018. (VII. 23.) Korm. rendelet módosítása
 
-289. §
-
-[^282]: A 282. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+289. § Az Európai Foglalkoztatási Szolgálat tevékenységében részt vevő állami foglalkoztatási szerv feladatairól, valamint más szervezetek e tevékenységben történő részvételének feltételeiről szóló 130/2018. (VII. 23.) Korm. rendelet 1. § b) és c) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

@@ -1,5 +1,3 @@
-## 159.[^159]
+## 159. A megújuló energiaforrásból és a nagy hatásfokú kapcsolt energiatermelésből nyert villamos energia származásának igazolásáról szóló 309/2013. (VIII. 16.) Korm. rendelet módosítása
 
-162. §
-
-[^159]: A 159. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+162. § A megújuló energiaforrásból és a nagy hatásfokú kapcsolt energiatermelésből nyert villamos energia származásának igazolásáról szóló 309/2013. (VIII. 16.) Korm. rendelet 3. § (3) bekezdés c) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

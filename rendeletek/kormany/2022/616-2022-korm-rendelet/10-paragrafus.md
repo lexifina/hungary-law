@@ -1,5 +1,3 @@
-## 10.[^10]
+## 10. A személyes gondoskodást nyújtó szociális ellátások térítési díjáról szóló 29/1993. (II. 17.) Korm. rendelet módosítása
 
-10. §
-
-[^10]: A 10. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+10. § A személyes gondoskodást nyújtó szociális ellátások térítési díjáról szóló 29/1993. (II. 17.) Korm. rendelet 31. § (4), (4a) és (6) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

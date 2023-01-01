@@ -1,5 +1,3 @@
-## 162.[^162]
+## 162. A külföldön történő gyógykezelések részletes szabályairól szóló 340/2013. (IX. 25.) Korm. rendelet módosítása
 
-165. §
-
-[^162]: A 162. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+165. § A külföldön történő gyógykezelések részletes szabályairól szóló 340/2013. (IX. 25.) Korm. rendelet 6. §-ában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

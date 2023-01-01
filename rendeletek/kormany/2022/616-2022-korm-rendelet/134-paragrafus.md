@@ -1,5 +1,9 @@
-## 131.[^131]
+## 131. Az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet módosítása
 
-134. §
+134. § Az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet
 
-[^131]: A 131. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 1. § (1) bekezdés 23. pontjában, 4. § (1e) bekezdésében és 14. § (1) bekezdés m) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg,
+
+b) 1. § (1) bekezdés 23. pontjában a „megye” szövegrész helyébe a „vármegye” szöveg
+
+lép.

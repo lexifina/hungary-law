@@ -1,5 +1,9 @@
-## 136.[^136]
+## 136. Az egyes, az elektronikus ügyintézéshez kapcsolódó szervezetek kijelöléséről szóló 84/2012. (IV. 21.) Korm. rendelet módosítása
 
-139. §
+139. § Az egyes, az elektronikus ügyintézéshez kapcsolódó szervezetek kijelöléséről szóló 84/2012. (IV. 21.) Korm. rendelet
 
-[^136]: A 136. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 3. § (2) bekezdés b) pontjában, 7/A. § (1) és (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
+
+b) 7. § (1) bekezdésében, 7/B. § (2) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg
+
+lép.

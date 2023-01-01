@@ -1,5 +1,3 @@
-## 313.[^313]
+## 313. A tudományos és innovációs, a technológiai és az ipari parkokról szóló 799/2021. (XII. 28.) Korm. rendelet módosítása
 
-320. §
-
-[^313]: A 313. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+320. § A tudományos és innovációs, a technológiai és az ipari parkokról szóló 799/2021. (XII. 28.) Korm. rendelet 6. § (10) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg lép.

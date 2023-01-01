@@ -1,5 +1,3 @@
-## 271.[^271]
+## 271. A személy- és vagyonőr, a magánnyomozó, az egyes rendészeti feladatokat ellátó személyek tevékenységével, valamint a fegyveres biztonsági őrséggel kapcsolatos közigazgatási hatósági eljárások eltérő és kiegészítő szabályairól szóló 487/2017. (XII. 29.) Korm. rendelet módosítása
 
-277. §
-
-[^271]: A 271. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+277. § A személy- és vagyonőr, a magánnyomozó, az egyes rendészeti feladatokat ellátó személyek tevékenységével, valamint a fegyveres biztonsági őrséggel kapcsolatos közigazgatási hatósági eljárások eltérő és kiegészítő szabályairól szóló 487/2017. (XII. 29.) Korm. rendelet 1. §-ában, 14. §-ában és 15. §-ában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

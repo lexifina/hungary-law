@@ -1,5 +1,3 @@
-## 220.[^220]
+## 220. A nem közművel összegyűjtött háztartási szennyvíz begyűjtésére vonatkozó nem rendszeres közszolgáltatásról szóló 378/2015. (XII. 8.) Korm. rendelet módosítása
 
-225. §
-
-[^220]: A 220. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+225. § A nem közművel összegyűjtött háztartási szennyvíz begyűjtésére vonatkozó nem rendszeres közszolgáltatásról szóló 378/2015. (XII. 8.) Korm. rendelet 3. § (6) bekezdés d) pontjában, valamint 9. §-ában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

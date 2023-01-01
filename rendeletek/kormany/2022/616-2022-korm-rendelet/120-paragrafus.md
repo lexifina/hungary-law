@@ -1,5 +1,3 @@
-## 117.[^117]
+## 117. Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet módosítása
 
-120. §
-
-[^117]: A 117. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+120. § Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 6. melléklet 3. pontjában a „megye” szövegrész helyébe a „vármegye” szöveg lép.

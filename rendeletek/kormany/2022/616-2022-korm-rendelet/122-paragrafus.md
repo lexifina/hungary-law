@@ -1,5 +1,3 @@
-## 119.[^119]
+## 119. A Magyar Köztársaság területén működő, a nemzetközi jog alapján sérthetetlenséget élvező diplomáciai és konzuli képviseletek, továbbá sérthetetlenséget élvező tagjaik védelmének, valamint a nemzetközi szervezetek objektumai őrzésének rendjéről szóló 63/2011. (IV. 13.) Korm. rendelet módosítása
 
-122. §
-
-[^119]: A 119. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+122. § A Magyar Köztársaság területén működő, a nemzetközi jog alapján sérthetetlenséget élvező diplomáciai és konzuli képviseletek, továbbá sérthetetlenséget élvező tagjaik védelmének, valamint a nemzetközi szervezetek objektumai őrzésének rendjéről szóló 63/2011. (IV. 13.) Korm. rendelet 1. § (3) bekezdés d) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

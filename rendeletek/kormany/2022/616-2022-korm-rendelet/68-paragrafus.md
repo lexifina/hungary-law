@@ -1,5 +1,3 @@
-## 65.[^65]
+## 65. A várólista alapján nyújtható ellátások részletes szabályairól szóló 287/2006. (XII. 23.) Korm. rendelet módosítása
 
-68. §
-
-[^65]: A 65. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+68. § A várólista alapján nyújtható ellátások részletes szabályairól szóló 287/2006. (XII. 23.) Korm. rendelet 3. melléklet A) pont 1–4. alpontjában, 3. melléklet B) pont 1. és 2. alpontjában a „megye” szövegrészek helyébe a „vármegye” szöveg lép.

@@ -1,5 +1,9 @@
-## 135.[^135]
+## 135. A kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet módosítása
 
-138. §
+138. § A kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet
 
-[^135]: A 135. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 3. § (3) bekezdésében, 26. § (1) bekezdés c) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg,
+
+b) 9. mellékletében foglalt 9/c táblázatában a „megyei” szövegrészek helyébe a „vármegyei” szöveg
+
+lép.

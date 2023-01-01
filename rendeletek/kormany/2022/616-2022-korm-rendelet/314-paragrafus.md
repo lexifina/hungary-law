@@ -1,5 +1,9 @@
-## 307.[^307]
+## 307. A foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló 100/2021. (II. 27.) Korm. rendelet módosítása
 
-314. §
+314. § A foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló 100/2021. (II. 27.) Korm. rendelet
 
-[^307]: A 307. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 10. § (2) bekezdésében és 20. § (3) bekezdésében a „megyére” szövegrész helyébe a „vármegyére” szöveg,
+
+b) 17. § (1) bekezdésében a „megye” szövegrész helyébe a „vármegye” szöveg
+
+lép.

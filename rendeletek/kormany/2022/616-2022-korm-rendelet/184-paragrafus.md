@@ -1,5 +1,9 @@
-## 181.[^181]
+## 181. A felvonókról, mozgólépcsőkről és mozgójárdákról szóló 146/2014. (V. 5.) Korm. rendelet módosítása
 
-184. §
+184. § A felvonókról, mozgólépcsőkről és mozgójárdákról szóló 146/2014. (V. 5.) Korm. rendelet
 
-[^181]: A 181. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 2. § 8. pontjában, 3. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
+
+b) 4. melléklet 2.1.1. pontjában a „megyék” szövegrész helyébe a „vármegyék” szöveg
+
+lép.

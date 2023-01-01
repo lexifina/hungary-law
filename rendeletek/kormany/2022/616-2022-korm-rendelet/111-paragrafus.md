@@ -1,5 +1,9 @@
-## 108.[^108]
+## 108. A vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet módosítása
 
-111. §
+111. § A vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló 147/2010. (IV. 29.) Korm. rendelet
 
-[^108]: A 108. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 3. § (1) bekezdés a) pontjában, 16/A. § (5) bekezdésében, valamint 16/B. § (3) és (5) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
+
+b) 16/B. § (2) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg
+
+lép.

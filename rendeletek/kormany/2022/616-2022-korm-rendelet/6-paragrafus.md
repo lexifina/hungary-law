@@ -1,5 +1,3 @@
-## 6.[^6]
+## 6. A közúti gépjárművek, az egyes mezőgazdasági, erdészeti és halászati erőgépek üzemanyag- és kenőanyag- fogyasztásának igazolás nélkül elszámolható mértékéről szóló 60/1992. (IV. 1.) Korm. rendelet módosítása
 
-6. §
-
-[^6]: A 6. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+6. § A közúti gépjárművek, az egyes mezőgazdasági, erdészeti és halászati erőgépek üzemanyag- és kenőanyag- fogyasztásának igazolás nélkül elszámolható mértékéről szóló 60/1992. (IV. 1.) Korm. rendelet 2. számú melléklet 3. pont b) alpontjában a „megyeszékhelyen” szövegrész helyébe a „vármegyeszékhelyen” szöveg lép.

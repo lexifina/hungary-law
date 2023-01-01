@@ -1,5 +1,9 @@
-## 16.[^16]
+## 16. A vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet módosítása
 
-16. §
+16. § A vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet
 
-[^16]: A 16. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 1. § (2) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg,
+
+b) 3. mellékletében a „megye” szövegrészek helyébe a „vármegye” szöveg
+
+lép.

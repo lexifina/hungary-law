@@ -1,5 +1,3 @@
-## 139.[^139]
+## 139. A fogyasztóvédelmi hatóság által kiszabott egyes bírságokról szóló 307/2012. (X. 29.) Korm. rendelet módosítása
 
-142. §
-
-[^139]: A 139. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+142. § A fogyasztóvédelmi hatóság által kiszabott egyes bírságokról szóló 307/2012. (X. 29.) Korm. rendelet 1. §-ában a „Megyei” szövegrész helyébe a „Vármegyei” szöveg lép.

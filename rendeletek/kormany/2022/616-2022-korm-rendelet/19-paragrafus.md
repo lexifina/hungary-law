@@ -1,5 +1,3 @@
-## 19.[^19]
+## 19. A lakás-előtakarékosság állami támogatásáról szóló 215/1996. (XII. 23.) Korm. rendelet módosítása
 
-19. §
-
-[^19]: A 19. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+19. § A lakás-előtakarékosság állami támogatásáról szóló 215/1996. (XII. 23.) Korm. rendelet 7/B. §-ában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

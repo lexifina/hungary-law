@@ -1,5 +1,3 @@
-## 292.[^292]
+## 292. A vasúti telekalakítási eljárásról szóló 315/2019. (XII. 18.) Korm. rendelet módosítása
 
-299. §
-
-[^292]: A 292. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+299. § A vasúti telekalakítási eljárásról szóló 315/2019. (XII. 18.) Korm. rendelet 3. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

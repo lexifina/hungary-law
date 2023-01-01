@@ -1,5 +1,3 @@
-## 67.[^67]
+## 67. Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet módosítása
 
-70. §
-
-[^67]: A 67. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+70. § Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 1. § záró szövegrészében, 3. §-ában, 3/A. §-ában, 4. § (3) bekezdésében, valamint 5. § (6) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

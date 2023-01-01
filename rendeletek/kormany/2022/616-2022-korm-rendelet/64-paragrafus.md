@@ -1,5 +1,3 @@
-## 61.[^61]
+## 61. Az egyes pénzbeli szociális ellátások elszámolásának szabályairól 62/2006. (III. 27.) Korm. rendelet módosítása
 
-64. §
-
-[^61]: A 61. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+64. § Az egyes pénzbeli szociális ellátások elszámolásának szabályairól szóló 62/2006. (III. 27.) Korm. rendelet 1. § (1), (2) és (4) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

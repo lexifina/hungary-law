@@ -1,5 +1,3 @@
-## 56.[^56]
+## 56. Egyes lakáscélú kölcsönökből eredő adósságok rendezéséről szóló 11/2005. (I. 26.) Korm. rendelet módosítása
 
-59. §
-
-[^56]: Az 56. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+59. § Az egyes lakáscélú kölcsönökből eredő adósságok rendezéséről szóló 11/2005. (I. 26.) Korm. rendelet 10/A. §-ában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

@@ -1,6 +1,8 @@
 1. melléklet a 616/2022. (XII. 29.) Korm. rendelethez
 
-„A hulladékszállítmányok számára kijelölt magyar határkirendeltségek
+„4. számú melléklet a 180/2007. (VII. 3.) Korm. rendelethez
+
+A hulladékszállítmányok számára kijelölt magyar határkirendeltségek
 
 |  | A | B |
 

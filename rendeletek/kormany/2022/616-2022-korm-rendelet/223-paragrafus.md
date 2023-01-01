@@ -1,5 +1,3 @@
-## 218.[^218]
+## 218. A közfoglalkoztatottak elhelyezkedési juttatásáról szóló 328/2015. (XI. 10.) Korm. rendelet módosítása
 
-223. §
-
-[^218]: A 218. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+223. § A közfoglalkoztatottak elhelyezkedési juttatásáról szóló 328/2015. (XI. 10.) Korm. rendelet 1. § (1) bekezdés a) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

@@ -1,5 +1,3 @@
-## 183.[^183]
+## 183. A Közös Agrárpolitika tagállami végrehajtásával összefüggő feladatokat ellátó egyes szervezetek kijelöléséről szóló 168/2014. (VII. 18.) Korm. rendelet módosítása
 
-186. §
-
-[^183]: A 183. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+186. § A Közös Agrárpolitika tagállami végrehajtásával összefüggő feladatokat ellátó egyes szervezetek kijelöléséről szóló 168/2014. (VII. 18.) Korm. rendelet 1/A. §-ában és 2. § nyitó szövegrészében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

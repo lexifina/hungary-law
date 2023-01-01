@@ -1,5 +1,3 @@
-## 206.[^206]
+## 206. A helyi önkormányzat által kötött csereügylethez szükséges kormányhivatali jóváhagyás eljárási szabályairól szóló 126/2015. (V. 27.) Korm. rendelet módosítása
 
-211. §
-
-[^206]: A 206. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+211. § A helyi önkormányzat által kötött csereügylethez szükséges kormányhivatali jóváhagyás eljárási szabályairól szóló 126/2015. (V. 27.) Korm. rendelet 1. §-ában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

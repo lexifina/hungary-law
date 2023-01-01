@@ -1,5 +1,3 @@
-## 140.[^140]
+## 140. Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet módosítása
 
-143. §
-
-[^140]: A 140. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+143. § Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 6. § (2b) bekezdésében, 20. § (3) bekezdés d) pontjában, 39. § (5) bekezdésében, 56. § (1) bekezdésében, 6. mellékletében foglalt III. táblázat A:10 mezőjében, valamint 7. melléklet 1. pontjában foglalt táblázat B:7 mezőjében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

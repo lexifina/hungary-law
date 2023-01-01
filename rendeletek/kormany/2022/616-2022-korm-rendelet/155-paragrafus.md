@@ -1,5 +1,9 @@
-## 152.[^152]
+## 152. Az állatkísérletekről szóló 40/2013. (II. 14.) Korm. rendelet módosítása
 
-155. §
+155. § Az állatkísérletekről szóló 40/2013. (II. 14.) Korm. rendelet
 
-[^152]: A 152. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 3. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
+
+b) 11. § (4) bekezdésében a „Megyei” szövegrészek helyébe a „Vármegyei” szöveg
+
+lép.

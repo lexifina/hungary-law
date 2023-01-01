@@ -1,5 +1,3 @@
-## 50.[^50]
+## 50. A mozgásában korlátozott személy parkolási igazolványáról szóló 218/2003. (XII. 11.) Korm. rendelet módosítása
 
-53. §
-
-[^50]: Az 50. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+53. § A mozgásában korlátozott személy parkolási igazolványáról szóló 218/2003. (XII. 11.) Korm. rendelet 3. § (1) és (1a) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

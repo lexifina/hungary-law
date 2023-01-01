@@ -1,5 +1,3 @@
-## 109.[^109]
+## 109. A repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló 159/2010. (V. 6.) Korm. rendelet módosítása
 
-112. §
-
-[^109]: A 109. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+112. § A repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló 159/2010. (V. 6.) Korm. rendelet 11/A. §-ában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

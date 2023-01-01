@@ -1,5 +1,3 @@
-## 114.[^114]
+## 114. A közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet módosítása
 
-117. §
-
-[^114]: A 114. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+117. § A közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet 4. § (1) bekezdés b) pontjában és 5/A. § (4) bekezdés b) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

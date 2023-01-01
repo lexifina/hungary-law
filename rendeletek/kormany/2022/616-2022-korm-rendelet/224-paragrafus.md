@@ -1,5 +1,3 @@
-## 219.[^219]
+## 219. A vízvédelmi igazgatási feladatokat ellátó szervek kijelöléséről, és egyes vízügyi tárgyú kormányrendeletek módosításáról szóló 366/2015. (XII. 2.) Korm. rendelet módosítása
 
-224. §
-
-[^219]: A 219. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+224. § A vízvédelmi igazgatási feladatokat ellátó szervek kijelöléséről, és egyes vízügyi tárgyú kormányrendeletek módosításáról szóló 366/2015. (XII. 2.) Korm. rendelet 1. § (1) bekezdés d) pontjában és 6. § a) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

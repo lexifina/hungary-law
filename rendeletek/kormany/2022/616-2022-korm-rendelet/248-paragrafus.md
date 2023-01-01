@@ -1,5 +1,3 @@
-## 242.[^242]
+## 242. Az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezeléséről szóló 408/2016. (XII. 13.) Korm. rendelet módosítása
 
-248. §
-
-[^242]: A 242. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+248. § Az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezeléséről szóló 408/2016. (XII. 13.) Korm. rendelet 4. § nyitó szövegrészében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

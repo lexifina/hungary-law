@@ -1,5 +1,3 @@
-## 289.[^289]
+## 289. A közlekedési létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 161/2019. (VII. 4.) Korm. rendelet módosítása
 
-296. §
-
-[^289]: A 289. alcím a 328. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+296. § A közlekedési létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 161/2019. (VII. 4.) Korm. rendelet 6. § (1) bekezdés c) pontjában, 10. § a), d) és e) pontjában a „megyeszékhelyek” szövegrész helyébe a „vármegyeszékhelyek” szöveg lép.
