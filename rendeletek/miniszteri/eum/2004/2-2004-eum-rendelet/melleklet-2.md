@@ -1,4 +1,4 @@
-2. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez[^26]
+2. számú melléklet a 2/2004. (XI. 17.) EüM rendelethez[^27]
 
 I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi szakmák és kódjaik jegyzéke
 
@@ -36,7 +36,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 0110 | dialízis |
 
-02 Sebészet
+## 02 Sebészet
 
 | 0200 | sebészet |
 
@@ -60,7 +60,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 0209 | transzplantációs célú szerv-, szöveteltávolítás agyhalottból |
 
-04 Szülészet-nőgyógyászat
+## 04 Szülészet-nőgyógyászat
 
 | 0400 | szülészet-nőgyógyászat |
 
@@ -74,7 +74,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 0407 | tele-cardiotocográfia |
 
-05 Csecsemő- és gyermekgyógyászat
+## 05 Csecsemő- és gyermekgyógyászat
 
 | 0500 | csecsemő- és gyermekgyógyászat |
 
@@ -106,7 +106,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 0521 | fejlődésneurológia |
 
-06 Fül-orr-gégegyógyászat
+## 06 Fül-orr-gégegyógyászat
 
 | 0600 | fül-orr-gégegyógyászat |
 
@@ -116,7 +116,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 0603 | otoneurológia |
 
-07 Szemészet
+## 07 Szemészet
 
 | 0700 | szemészet |
 
@@ -128,11 +128,11 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 0704 | optometria (nem orvosi szakképesítéssel) |
 
-08 Bőrgyógyászat
+## 08 Bőrgyógyászat
 
 | 0800 | bőr- és nemibeteg-ellátás |
 
-09 Neurológia
+## 09 Neurológia
 
 | 0900 | neurológia |
 
@@ -142,7 +142,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 0905 | alvásmedicina |
 
-10 Ortopédia-traumatológia
+## 10 Ortopédia-traumatológia
 
 | 1000 | ortopédia |
 
@@ -152,7 +152,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 1003 | kézsebészet |
 
-11 Urológia
+## 11 Urológia
 
 | 1100 | urológia |
 
@@ -162,13 +162,13 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 1103 | neuro-urológia |
 
-12 Klinikai onkológia
+## 12 Klinikai onkológia
 
 | 1200 | klinikai onkológia |
 
 | 1201 | sugárterápia |
 
-13 Fogászati ellátás
+## 13 Fogászati ellátás
 
 | 1300 | fogászati ellátás |
 
@@ -194,7 +194,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 1312 | orális implantológia |
 
-14 Reumatológia
+## 14 Reumatológia
 
 | 1400 | reumatológia |
 
@@ -202,7 +202,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 1404 | menopauza és oszteoporózis rendelés |
 
-15 Aneszteziológiai és intenzív betegellátás
+## 15 Aneszteziológiai és intenzív betegellátás
 
 | 1501 | aneszteziológia |
 
@@ -212,7 +212,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 1504 | tartós lélegeztetés |
 
-16 Infektológia
+## 16 Infektológia
 
 | 1600 | infektológia |
 
@@ -222,11 +222,11 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 1603 | trópusi betegségek ellátása |
 
-17 Arc-, állcsont- szájsebészet
+## 17 Arc-, állcsont- szájsebészet
 
 | 1700 | arc-, állcsont-szájsebészet |
 
-18 Pszichiátria
+## 18 Pszichiátria
 
 | 1800 | pszichiátria |
 
@@ -238,7 +238,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 1806 | addiktológiai rehabilitáció |
 
-19 Tüdőgyógyászat (pulmonológia)
+## 19 Tüdőgyógyászat (pulmonológia)
 
 | 1900 | tüdőgyógyászat |
 
@@ -246,7 +246,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 1904 | tüdőszűrés (ideértve az önálló felvételkészítést is) |
 
-20 Plasztikai és égéssebészet
+## 20 Plasztikai és égéssebészet
 
 | 2000 | plasztikai helyreállító és esztétikai sebészet |
 
@@ -254,7 +254,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 2002 | gyermek plasztikai és égéssebészet |
 
-22 Rehabilitációs medicina
+## 22 Rehabilitációs medicina
 
 | 2200 | Rehabilitációs medicina alaptevékenységek |
 
@@ -268,7 +268,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 2209 | súlyos központi idegrendszeri károsodottak, polytraumatizáltak és égésbetegek rehabilitációja gyermekkorban |
 
-23 Gyermek- és ifjúságpszichiátria
+## 23 Gyermek- és ifjúságpszichiátria
 
 | 2300 | gyermek- és ifjúságpszichiátria |
 
@@ -278,7 +278,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 2303 | gyermek- és ifjúságaddiktológiai rehabilitáció |
 
-25 Foglalkozás-egészségügyi ellátás
+## 25 Foglalkozás-egészségügyi ellátás
 
 | 2501 | foglalkozás-egészségügyi alapellátás |
 
@@ -286,17 +286,17 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 2503 | munkahigiénés tevékenység |
 
-26 Sportorvoslás
+## 26 Sportorvoslás
 
 | 2602 | sportszakorvosi ellátás |
 
-40 Kardiológia
+## 40 Kardiológia
 
 | 4000 | kardiológia |
 
 | 4003 | kardiológiai rehabilitáció |
 
-46 Sürgősségi betegellátás
+## 46 Sürgősségi betegellátás
 
 | 4601 | központi ügyelet |
 
@@ -306,7 +306,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 4604 | sürgősségi pszichiátria |
 
-50 Laboratóriumi diagnosztika
+## 50 Laboratóriumi diagnosztika
 
 | 5000 | orvosi laboratóriumi diagnosztika |
 
@@ -314,7 +314,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 5006 | molekuláris genetikai laboratóriumi diagnosztika |
 
-51 Képalkotó diagnosztika és radiológiai terápia: röntgendiagnosztika és -terápia
+## 51 Képalkotó diagnosztika és radiológiai terápia: röntgendiagnosztika és -terápia
 
 | 5100 | röntgendiagnosztika |
 
@@ -326,11 +326,11 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 5109 | MRI diagnosztika |
 
-52 Intervenciós radiológia
+## 52 Intervenciós radiológia
 
 | 5203 5204 5205 5206 | vaszkuláris intervenciós radiológia intervenciós onkoradiológia intervenciós neuroradiológia egyéb intervenciós radiológia |
 
-53 Képalkotó diagnosztika és radiológiai terápia: ultrahang-diagnosztika és -terápia
+## 53 Képalkotó diagnosztika és radiológiai terápia: ultrahang-diagnosztika és -terápia
 
 | 5301 | teljeskörű ultrahang-diagnosztika |
 
@@ -346,7 +346,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 5308 | urológiai ultrahang diagnosztika |
 
-54 Patológia és kórszövettan
+## 54 Patológia és kórszövettan
 
 | 5400 | kórbonctan |
 
@@ -368,17 +368,17 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 5408 | molekuláris patológia |
 
-55 PET-MRI eljárás
+## 55 PET-MRI eljárás
 
 | 5501 | PET-MRI |
 
-56 Speciális terápia
+## 56 Speciális terápia
 
 | 5603 | szén-dioxid gázzal végzett terápia |
 
 | 5604 | hiperbárikus oxigén terápia |
 
-57 Fizioterápia
+## 57 Fizioterápia
 
 | 5700 | fizioterápia-gyógytorna |
 
@@ -400,7 +400,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 5722 | fizikoterápia/fizioterápia (asszisztensi tevékenységként) |
 
-60 Szövet- és sejtbanki tevékenység
+## 60 Szövet- és sejtbanki tevékenység
 
 | 6001 | szövetbanki tevékenység |
 
@@ -408,7 +408,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 6003 | köldökzsinórvér/darab, köldökvérőssejt gyűjtés 6013 levétel 6023 szállítás |
 
-61 Transzfúziológia és véradó szolgálat
+## 61 Transzfúziológia és véradó szolgálat
 
 | 6101 | transzfúziológia |
 
@@ -416,7 +416,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 6105 | donor plazmaferezis |
 
-62 Mentés és betegszállítás
+## 62 Mentés és betegszállítás
 
 | 6200 | mentés |
 
@@ -432,7 +432,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 6210 | szervátültetéssel kapcsolatos mentési feladat |
 
-63 Háziorvosi ellátás
+## 63 Háziorvosi ellátás
 
 | 6301 | háziorvosi ellátás |
 
@@ -442,7 +442,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 6306 | iskola- és ifjúságorvoslás |
 
-64 Rend- és honvédelmi alapellátás
+## 64 Rend- és honvédelmi alapellátás
 
 | 6401 | rend- és honvédelmi dolgozók orvosi ellátása |
 
@@ -452,7 +452,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 6404 | fogvatartottak pszichológiai ellátása |
 
-65 Nukleáris medicina (izotópdiagnosztika és terápia)
+## 65 Nukleáris medicina (izotópdiagnosztika és terápia)
 
 | 6500 | izotópdiagnosztika |
 
@@ -462,7 +462,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 6504 | SPECT-CT |
 
-67 Klinikai genetika (humángenetika)
+## 67 Klinikai genetika (humángenetika)
 
 | 6700 | klinikai genetika |
 
@@ -470,13 +470,13 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 6702 | biobanki tevékenység (gyűjtés és tárolás) |
 
-70 Klinikai farmakológia és intézeti gyógyszerellátás
+## 70 Klinikai farmakológia és intézeti gyógyszerellátás
 
 | 7001 | klinikai farmakológia |
 
 | 7002 | intézeti gyógyszerellátás (külön jogszabályban foglalt feltételek alapján) |
 
-71 Szakpszichológia
+## 71 Szakpszichológia
 
 | 7101 | klinikai és mentálhigiéniai szakpszichológia |
 
@@ -488,7 +488,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 7108 | alkalmazott egészségpszichológiai szakpszichológia |
 
-72 Pedagógiai végzettséggel ellátható egészségügyi szakmák
+## 72 Pedagógiai végzettséggel ellátható egészségügyi szakmák
 
 | 7201 | logopédia |
 
@@ -498,7 +498,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 7204 | gyógyúszás (külön jogszabályban meghatározott képesítésekkel) |
 
-73 Betegápolás
+## 73 Betegápolás
 
 | 7301 | szakápolás a foglalkozás-egészségügyben |
 
@@ -522,11 +522,11 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 7311 | klinikai fogászati higiénia |
 
-76 Dietetika
+## 76 Dietetika
 
 | 7600 | dietetika |
 
-79 Védőnői ellátás
+## 79 Védőnői ellátás
 
 | 7901 | területi védőnői ellátás |
 
@@ -536,7 +536,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 7904 | anyatejgyűjtő állomás, anyatejgyűjtés |
 
-80 Kiegészítő gyógyászati tevékenységek (külön jogszabály alapján meghatározott képesítéssel és tartalommal) – nem konvencionális gyógyászati módok
+## 80 Kiegészítő gyógyászati tevékenységek (külön jogszabály alapján meghatározott képesítéssel és tartalommal) – nem konvencionális gyógyászati módok
 
 a) orvos által végezhető gyógyászati módok:
 
@@ -570,7 +570,7 @@ c) vizsgával záruló képzésben szerzett képesítéssel végezhető tevéken
 
 | 8067 | szemtréning eljárások |
 
-81 Nem humán-asszisztált terápiák
+## 81 Nem humán-asszisztált terápiák
 
 | 8101 | hippoterápia |
 
@@ -578,7 +578,7 @@ c) vizsgával záruló képzésben szerzett képesítéssel végezhető tevéken
 
 | 8103 | pszichológiai lovasterápia |
 
-93 Honvédorvostan, katasztrófa-orvostan és rendvédelem orvostan
+## 93 Honvédorvostan, katasztrófa-orvostan és rendvédelem orvostan
 
 | 9301 | honvédorvostan |
 
@@ -586,7 +586,7 @@ c) vizsgával záruló képzésben szerzett képesítéssel végezhető tevéken
 
 | 9303 | rendvédelmi orvostan |
 
-94 Megelőző orvostan és népegészségtan
+## 94 Megelőző orvostan és népegészségtan
 
 | 9400 | megelőző orvostan és népegészségtan |
 
@@ -594,7 +594,7 @@ c) vizsgával záruló képzésben szerzett képesítéssel végezhető tevéken
 
 | 9402 | nemzetközi oltóhely és tanácsadás |
 
-95 Igazságügyi orvostan
+## 95 Igazságügyi orvostan
 
 | 9500 | igazságügyi orvostan |
 
@@ -610,7 +610,7 @@ c) vizsgával záruló képzésben szerzett képesítéssel végezhető tevéken
 
 | 9506 | igazságügyi genetika |
 
-96 Népegészségügyi célú szűrések
+## 96 Népegészségügyi célú szűrések
 
 | 9601 | méhnyak szűrés |
 
@@ -618,11 +618,11 @@ c) vizsgával záruló képzésben szerzett képesítéssel végezhető tevéken
 
 | 9603 | vastagbél szűrés |
 
-97 Repülőorvostan
+## 97 Repülőorvostan
 
 | 9700 | repülőorvostan |
 
-GYS Gyógyászati segédeszközökkel kapcsolatos tevékenységek
+## GYS Gyógyászati segédeszközökkel kapcsolatos tevékenységek
 
 | GYS1 | gyógyászati segédeszköz forgalmazás (önálló üzletben) |
 
@@ -658,4 +658,4 @@ h) 8-as kódot kell alkalmazni, amennyiben a működési engedély az adott egé
 
 II. A működési engedélyek kiadásának alapjául szolgáló ellátási formák jegyzéke
 
-[^26]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a, az 52/2014. (XII. 19.) EMMI rendelet 4. §-a, a 42/2015. (IX. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 23. §-a, a 7/2016. (III. 30.) EMMI rendelet 6. §-a, a 44/2016. (XII. 28.) EMMI rendelet 26. §-a, a 28/2017. (X. 25.) EMMI rendelet 29. §-a, a 24/2019. (X. 31.) EMMI rendelet 3. §-a, az 57/2021. (XII. 21.) EMMI rendelet 1. §-a, az 59/2021. (XII. 28.) EÜM rendelet 4. §-a, a 3/2022. (I. 14.) EMMI rendelet 4. §-a szerint módosított szöveg.
+[^27]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a, az 52/2014. (XII. 19.) EMMI rendelet 4. §-a, a 42/2015. (IX. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 23. §-a, a 7/2016. (III. 30.) EMMI rendelet 6. §-a, a 44/2016. (XII. 28.) EMMI rendelet 26. §-a, a 28/2017. (X. 25.) EMMI rendelet 29. §-a, a 24/2019. (X. 31.) EMMI rendelet 3. §-a, az 57/2021. (XII. 21.) EMMI rendelet 1. §-a, az 59/2021. (XII. 28.) EÜM rendelet 4. §-a, a 3/2022. (I. 14.) EMMI rendelet 4. §-a szerint módosított szöveg.
