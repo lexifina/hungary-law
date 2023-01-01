@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-20-20-2
 | --- | --- | --- |
 | 2009-01-01 | 1992-20-20-22.8 | 20/1992. (I. 28.) Korm. rendelet |
 | 2014-09-05 | 1992-20-20-22.9 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2023-01-01 | 1992-20-20-22.10 | 616/2022. (XII. 29.) Korm. rendelet |
