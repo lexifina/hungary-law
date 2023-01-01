@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-190-20-
 | 2020-03-01 | 2009-190-20-22.13 | 70/2015. (III. 30.) Korm. rendelet |
 | 2021-05-13 | 2009-190-20-22.14 | 241/2021. (V. 12.) Korm. rendelet |
 | 2021-07-16 | 2009-190-20-22.15 | 420/2021. (VII. 15.) Korm. rendelet |
+| 2023-01-01 | 2009-190-20-22.16 | 616/2022. (XII. 29.) Korm. rendelet |

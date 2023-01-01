@@ -1,4 +1,4 @@
-3/B. §[^17] (1) A főépítészi vizsga alól mentesül az a személy, aki
+3/B. §[^20] (1) A főépítészi vizsga alól mentesül az a személy, aki
 
 a) építészeti állami díjat kapott, vagy
 
@@ -10,4 +10,4 @@ b) önkormányzati főépítészi szakmérnöki oklevéllel vagy olyan építés
 
 (4) A főépítészi vizsga alóli mentesülést alátámasztó igazolásokat legkésőbb a 4. § (2) bekezdésében meghatározott időn belül be kell nyújtani a foglalkoztató részére. A részleges mentesülést alátámasztó iratokat a főépítészi vizsgára való jelentkezéskor a jelentkező megküldi a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaságnak (a továbbiakban: Lechner Tudásközpont).
 
-[^17]: A 3/B. §-t a 241/2021. (V. 12.) Korm. rendelet 4. §-a iktatta be.
+[^20]: A 3/B. §-t a 241/2021. (V. 12.) Korm. rendelet 4. §-a iktatta be.

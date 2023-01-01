@@ -1,4 +1,4 @@
-5. §[^20] (1) A főépítészi vizsga a Lechner Tudásközpont által üzemeltetett honlapon kerül meghirdetésre legkésőbb a vizsga időpontját megelőző 45 nappal. A vizsgára a meghirdetett vizsganap előtt legalább 30 nappal kell jelentkezni a Lechner Tudásközpont által üzemeltetett honlapon.
+5. §[^24] (1) A főépítészi vizsga a Lechner Tudásközpont által üzemeltetett honlapon kerül meghirdetésre legkésőbb a vizsga időpontját megelőző 45 nappal. A vizsgára a meghirdetett vizsganap előtt legalább 30 nappal kell jelentkezni a Lechner Tudásközpont által üzemeltetett honlapon.
 
 (2) A főépítészi vizsga legalább 6 fő jelentkezése esetén kerül megszervezésre, kivéve az állami főépítészi vizsgát, melynek megszervezése független a jelentkezők számától. Kérelemre, indokolt esetben – különösen a 4. § (2) bekezdésében foglalt határidő megtartása érdekében – külön főépítészi vizsga szervezhető.
 
@@ -18,4 +18,4 @@ a) állami főépítészi vizsga esetén a vizsgabizottság elnöke az országos
 
 b) önkormányzati főépítészi vizsga esetén a vizsgabizottság elnöke a területileg illetékes állami főépítész, tagjai a miniszter által vezetett minisztérium szakmai képviselője, az elnökön kívüli további egy állami főépítész, valamint a MÉK által delegált két fő, azzal, hogy a MÉK delegáltak közül egy fő a Táj- és Kertépítészeti Tagozat képviselője.
 
-[^20]: Az 5. § a 241/2021. (V. 12.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^24]: Az 5. § a 241/2021. (V. 12.) Korm. rendelet 5. §-ával megállapított szöveg.
