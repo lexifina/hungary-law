@@ -1,0 +1,1 @@
+1. § A sertés ágazat részére nyújtott állatjóléti támogatások feltételeiről szóló 39/2018. (XII. 13.) AM rendelet 6. § (1) bekezdésében és 7. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
