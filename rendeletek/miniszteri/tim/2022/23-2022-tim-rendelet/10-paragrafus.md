@@ -1,3 +1,1 @@
-10. §[^1]
-
-[^1]: A 10. § a 9. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+10. § A 8. § (1) bekezdésében a „hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős” szövegrész helyébe a „hulladékgazdálkodásért felelős” szöveg lép.
