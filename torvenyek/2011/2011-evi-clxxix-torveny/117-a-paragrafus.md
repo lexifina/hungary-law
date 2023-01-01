@@ -8,7 +8,7 @@ a) a jelöltek nevét és a listán elfoglalt helyük sorszámát, továbbá
 
 b) a jelöltek személyi azonosítóját.
 
-(4) A döntés – a személyi azonosító kivételével – nyilvános. A döntést legkésőbb a döntést követő naptári napon írásba kell foglalni és – a személyi azonosító kivételével – az országos nemzetiségi önkormányzat honlapján közzé kell tenni. A döntésről készült jegyzőkönyvet legkésőbb a döntést követő harmadik naptári napig írásba kell foglalni és az országos nemzetiségi önkormányzat törvényességi felügyeletét ellátó fővárosi és megyei kormányhivatalnak meg kell küldeni.
+(4) A döntés – a személyi azonosító kivételével – nyilvános. A döntést legkésőbb a döntést követő naptári napon írásba kell foglalni és – a személyi azonosító kivételével – az országos nemzetiségi önkormányzat honlapján közzé kell tenni. A döntésről készült jegyzőkönyvet legkésőbb a döntést követő harmadik naptári napig írásba kell foglalni és az országos nemzetiségi önkormányzat törvényességi felügyeletét ellátó fővárosi és vármegyei kormányhivatalnak meg kell küldeni.
 
 (5) E § alkalmazásában a 101. § (1) bekezdés c) pontja szerinti képviselet esetén a megbízás érvényességéhez a megbízott személy nevét és személyi azonosítóját a megbízás tényével együtt tartalmaznia kell az (1) bekezdés szerinti döntésnek. A megbízás együttesen magában foglalja az országgyűlési képviselők választásán állított országos lista bejelentésével, adatainak módosításával, visszavonásával és az országos listával kapcsolatos egyéb kapcsolattartói feladatok ellátásával kapcsolatos képviseletet.
 

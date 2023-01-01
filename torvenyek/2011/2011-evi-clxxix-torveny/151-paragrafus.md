@@ -1,6 +1,6 @@
 151. § (1) A nemzetiségpolitikáért felelős miniszter:
 
-a) a fővárosi és megyei kormányhivatal javaslatára kezdeményezi a Kormánynál, hogy – az Alkotmánybíróság véleményének kikérését követően – az alaptörvény-ellenesen működő nemzetiségi önkormányzati testület feloszlatására vonatkozó előterjesztést nyújtson be az Országgyűléshez,
+a) a fővárosi és vármegyei kormányhivatal javaslatára kezdeményezi a Kormánynál, hogy – az Alkotmánybíróság véleményének kikérését követően – az alaptörvény-ellenesen működő nemzetiségi önkormányzati testület feloszlatására vonatkozó előterjesztést nyújtson be az Országgyűléshez,
 
 b) előkészíti a nemzetiségek jogairól szóló jogszabályok tervezetét,
 

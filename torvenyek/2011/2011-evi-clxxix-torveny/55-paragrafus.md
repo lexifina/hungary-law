@@ -4,6 +4,6 @@
 
 (2) A fővárosi nemzetiségi önkormányzati képviselők választásán a főváros egy választókerületet alkot.
 
-(3) A megyei nemzetiségi önkormányzati képviselők választásán a megye egy választókerületet alkot.
+(3) A vármegyei nemzetiségi önkormányzati képviselők választásán a vármegye egy választókerületet alkot.
 
 (4) Az országos nemzetiségi önkormányzati képviselők választásán az ország területe egy választókerületet alkot.

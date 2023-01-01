@@ -6,7 +6,7 @@
 
 (3) Az országos nemzetiségi önkormányzat azokról a településekről, ahol az (1) bekezdés szerinti vizsgálat alapján a nemzetiségi közösség önigazgatása szükséges, a választás évében a választást megelőző év november 30-áig tájékoztatja – a Nemzeti Választási Bizottság által meghatározott módon – a Nemzeti Választási Bizottságot.
 
-(4) A területi nemzetiségi önkormányzati képviselők választását ki kell tűzni, ha a fővárosban, megyében kitűzött települési választások száma legalább tíz.
+(4) A területi nemzetiségi önkormányzati képviselők választását ki kell tűzni, ha a fővárosban, vármegyében kitűzött települési választások száma legalább tíz.
 
 (5) Az országos nemzetiségi önkormányzati képviselők választását ki kell tűzni.
 

@@ -22,7 +22,7 @@ h) egyéb, törvény által meghatározott feladat- és hatáskörébe tartozó 
 
 a) amennyiben a településen nemzetiségi önkormányzat nem működik, ellátja az adott nemzetiségi közösséggel kapcsolatosan a településen jelentkező érdekképviseleti, érdekvédelmi feladatokat,
 
-b) a megyei önkormányzat által ellátott önkormányzati feladatok kapcsán – törvényben meghatározott – érdekképviseleti, érdekvédelmi tevékenységet fejt ki,
+b) a vármegyei önkormányzat által ellátott önkormányzati feladatok kapcsán – törvényben meghatározott – érdekképviseleti, érdekvédelmi tevékenységet fejt ki,
 
 c) ellátja az általa képviselt nemzetiség érdekeinek országos szintű képviseletét és védelmét,
 

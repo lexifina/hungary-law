@@ -30,6 +30,6 @@ m) a hozott döntéseket és
 
 n) a szervezeti és működési szabályzatban meghatározottakat.
 
-(3) A jegyzőkönyvet az ülést levezető elnök és a testület által a képviselők közül kijelölt jegyzőkönyv-hitelesítő írja alá. A települési nemzetiségi önkormányzat elnöke a jegyzőkönyvet az ülést követő tizenöt munkanapon belül megküldi a fővárosi és megyei kormányhivatalnak, valamint a helyi önkormányzat által a 80. § szerinti megállapodásban megjelölt személynek.
+(3) A jegyzőkönyvet az ülést levezető elnök és a testület által a képviselők közül kijelölt jegyzőkönyv-hitelesítő írja alá. A települési nemzetiségi önkormányzat elnöke a jegyzőkönyvet az ülést követő tizenöt munkanapon belül megküldi a fővárosi és vármegyei kormányhivatalnak, valamint a helyi önkormányzat által a 80. § szerinti megállapodásban megjelölt személynek.
 
 (4) A nemzetiségi önkormányzat képviselő-testülete, közgyűlése és bizottsága ülésének jegyzőkönyve részét képezi az ülésre szóló meghívó, a közmeghallgatásról szóló közlemény és az előterjesztések.
