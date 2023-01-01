@@ -16,7 +16,7 @@ f) üzemi gyűjtőhelyen, valamint
 
 g) – kezelés során képződő másodlagos hulladék esetén – hulladékkezelő létesítményben
 
-## gyűjtheti.
+gyűjtheti.
 
 (2) A veszélyes hulladékot a hulladékbirtokos
 
@@ -28,7 +28,7 @@ c) a hulladék biztonságos gyűjtését lehetővé tevő helyiségben vagy
 
 d) szilárd burkolattal ellátott fedett területen
 
-## a hulladék fizikai, kémiai jellegének megfelelően, a környezet veszélyeztetését, szennyezését, károsítását, valamint az emberi egészség veszélyeztetését, károsítását kizáró módon, elkülönítetten gyűjti.
+a hulladék fizikai, kémiai jellegének megfelelően, a környezet veszélyeztetését, szennyezését, károsítását, valamint az emberi egészség veszélyeztetését, károsítását kizáró módon, elkülönítetten gyűjti.
 
 (3) Egymással reakcióképes veszélyes hulladékot nem lehet ugyanabban a gyűjtőedényben vagy konténerben – hulladékgazdálkodási engedély nélkül – gyűjteni. Az ugyanabban a gyűjtőedényben vagy konténerben történő gyűjtésre a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 56. § (1) bekezdését kell alkalmazni.
 

@@ -1,6 +1,6 @@
 2. melléklet a 225/2015. (VIII. 7.) Korm. rendelethez
 
-## A hulladék minősítésével kapcsolatos követelmények
+A hulladék minősítésével kapcsolatos követelmények
 
 1. A mintavételi jegyzőkönyv tartalmi elemei:
 

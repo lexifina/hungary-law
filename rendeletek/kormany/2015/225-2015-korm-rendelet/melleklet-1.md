@@ -2,11 +2,13 @@
 
 1. melléklet a 225/2015. (VIII. 7.) Korm. rendelethez[^19]
 
-## Szállítási lapok
+Szállítási lapok
 
 1. A szállítási lap:
 
 1.1. A veszélyes hulladék szállításához szükséges szállítási lap adattartalma:
+
+## 6K82414M_0
 
 | ”Sz” lap | SZÁLLÍTÁSI LAP* | sorszám: |
 
@@ -76,6 +78,8 @@
 
 2.1. A veszélyes hulladék gyűjtőjárattal történő szállításához szükséges szállítási lap adattartalma:
 
+## 6K82414M_1
+
 | ”Gy” lap | GYŰJTŐJÁRAT SZÁLLÍTÁSI LAP* | sorszám: |
 
 | példányszám: |
@@ -132,6 +136,8 @@
 
 3.1. A szállítási lapon a 4. pont, illetve a gyűjtőjáratra vonatkozó szállítási lapon a 3. pont szerinti ”megjelenési forma” mezőbe a hulladék 20 °C-on mutatott fizikai megjelenési formájának megfelelő azonosító kódot kell beírni a következők szerint:
 
+## 6K82414M_2
+
 |  | Fizikai megjelenési forma: | Azonosító kód: |
 
 | 1. | Por | P |
@@ -166,6 +172,8 @@
 
 3.2. A szállítási lapon a 8. pont, illetve a gyűjtőjáratra vonatkozó szállítási lapon a 10. pont szerinti ”csomagolás módja” mezőbe az elsődleges csomagolásnak vagy csomagolószernek megfelelő számkódot kell beírni:
 
+## 6K82414M_3
+
 |  | A csomagolás módja: | Számkódja: |
 
 | 1. | Hordó | 1 |
@@ -187,6 +195,8 @@
 | 9. | Egyéb | 9 |
 
 3.3. A szállítási lapon a 22. pont, illetve a gyűjtőjáratra vonatkozó szállítási lapon a 17. pont szerinti ”szállítás módja” mezőbe az alábbi betűkódok valamelyikét kell beírni:
+
+## 6K82414M_4
 
 |  | A szállítás módja: | Betűkódja: |
 

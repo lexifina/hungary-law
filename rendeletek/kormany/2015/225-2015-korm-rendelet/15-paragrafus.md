@@ -10,7 +10,7 @@ c) amely a hulladékjegyzékről szóló miniszteri rendeletben meghatározott h
 
 d)[^9] amelynek adott hulladéktípusként történő, a hulladékgazdálkodási hatóság által elvégzett besorolását a hulladékbirtokos vitatja,
 
-## a hulladékbirtokos az országos illetékességgel környezetvédelmi feladatkörében eljáró Pest Megyei Kormányhivatal (a továbbiakban: országos környezetvédelmi hatóság) a Ht. 55. § (2) és (3) bekezdésében foglaltakra figyelemmel kérelmezi a hulladék minősítését.
+a hulladékbirtokos az országos illetékességgel környezetvédelmi feladatkörében eljáró Pest Vármegyei Kormányhivatal (a továbbiakban: országos környezetvédelmi hatóság) a Ht. 55. § (2) és (3) bekezdésében foglaltakra figyelemmel kérelmezi a hulladék minősítését.
 
 (2)[^10]
 
@@ -28,6 +28,6 @@ e) akkreditált laboratórium által végzett mintavizsgálat eredményeit tarta
 
 (4) A kérelemhez az igazgatási szolgáltatási díj befizetéséről szóló igazolást csatolni kell.
 
-[^8]: A 15. § (1) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 301. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^8]: A 15. § (1) bekezdés záró szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 301. § (2) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 217. §-a szerint módosított szöveg.
 [^9]: A 15. § (1) bekezdés d) pontja a 312/2021. (VI. 7.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
 [^10]: A 15. § (2) bekezdését a 477/2016. (XII. 27.) Korm. rendelet 82. § (2) bekezdés b) pontja hatályon kívül helyezte.
