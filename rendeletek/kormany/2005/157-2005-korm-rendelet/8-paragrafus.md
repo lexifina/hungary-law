@@ -8,8 +8,9 @@
 
 (5)[^24]
 
-(6) A hőtermelő létesítmények létesítési eljárásaiban hozott határozatot a települési önkormányzattal és az illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal is közölni kell.
+(6)[^25] A hőtermelő létesítmények létesítési eljárásaiban hozott határozatot a települési önkormányzattal és az illetékes vármegyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal is közölni kell.
 
 [^22]: A Vhr. 8. §-a a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^23]: A Vhr. 8. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 145. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^24]: A Vhr. 8. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 146. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^25]: A Vhr. 8. § (6) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 60. § a) pontja szerint módosított szöveg.
