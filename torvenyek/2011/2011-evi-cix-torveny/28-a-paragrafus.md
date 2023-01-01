@@ -28,6 +28,6 @@ j) népművészet, valamint
 
 k) cirkuszművészet.
 
-(3) A díjazott az adományozásról okiratot kap, jogosult a Nemzet Művésze cím viselésére, és az adományozást követő hónap első napjától élete végéig havi életjáradékban részesül. Az életjáradék összege havonta az öregségi nyugdíj mindenkori legkisebb összegének a huszonháromszorosa.
+(3) A díjazott az adományozásról okiratot kap, jogosult a Nemzet Művésze cím viselésére, és az adományozást követő hónap első napjától élete végéig havi életjáradékban részesül. Az életjáradék összege havonta a szociális vetítési alap összegének huszonháromszorosa.
 
 (4) Ha a díjazott Nemzet Színésze, Magyar Mozgókép Mestere vagy Magyar Állami Operaház Mesterművésze cím (a továbbiakban együtt: egyéb művészeti elismerés) viselésére is jogosult, a (3) bekezdés szerinti életjáradék igénybevételével egyidejűleg az egyéb művészeti elismerésre tekintettel a központi költségvetés terhére havi juttatásban, életjáradékban vagy egyéb jutalomban nem részesíthető.

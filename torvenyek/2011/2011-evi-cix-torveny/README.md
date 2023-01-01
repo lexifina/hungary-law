@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-109-00-00
 | 2021-01-01 | 2020. évi CXLVIII. törvény | 2011-109-00-00.24 |
 | 2022-01-01 | 2021. évi CXLVIII. törvény | 2011-109-00-00.25 |
 | 2022-11-05 | 2020. évi CXLVIII. törvény | 2011-109-00-00.26 |
+| 2023-01-01 | 2022. évi L. törvény | 2011-109-00-00.28 |
