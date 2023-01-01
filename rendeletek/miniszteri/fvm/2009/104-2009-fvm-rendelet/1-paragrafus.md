@@ -5,3 +5,5 @@
 a) a regionális feltételekhez természetes módon alkalmazkodott, és génerózió által veszélyeztetett mezőgazdasági tájfajtáinak a mezőgazdasági növényfajok Nemzeti Fajtajegyzékébe történő felvétele, valamint
 
 b) e tájfajták vetőmagjának, burgonya esetében vetőburgonyájának (a továbbiakban együtt: vetőmag) előállítása és forgalmazása
+
+során kell alkalmazni.

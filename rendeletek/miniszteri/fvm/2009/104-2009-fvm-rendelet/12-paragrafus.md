@@ -4,6 +4,6 @@
 
 (3) A mintákat homogén tételekből kell venni, valamint alkalmazni kell a Szántóföldi rendelet 1. számú mellékletének C. részében, a 2. számú mellékletének C. részében, a 3. számú mellékletének C. részében, a 4. számú mellékletének C. részében, és az 5. számú mellékletének C. részében, előírt tételtömegre és mintatömegre vonatkozó szabályokat.
 
-(4)[^11] Az (1)–(3) bekezdésben foglalt tevékenységeket a növénytermesztési hatáskörben eljáró megyei kormányhivatal ellenőrzi.
+(4)[^11] Az (1)–(3) bekezdésben foglalt tevékenységeket a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal ellenőrzi.
 
-[^11]: A 12. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 109. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 130. § e) pontja, a 46/2020. (IX. 23.) AM rendelet 14. § a) pontja szerint módosított szöveg.
+[^11]: A 12. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 109. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 130. § e) pontja, a 46/2020. (IX. 23.) AM rendelet 14. § a) pontja, a 114/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
