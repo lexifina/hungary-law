@@ -40,7 +40,7 @@ A Beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé n
 
 19. területrendezési hatósági eljárások,
 
-20.[^8]
+20.[^9]
 
 21. rendészeti hatósági eljárások,
 
@@ -50,4 +50,4 @@ A Beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé n
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^8]: Az 1. melléklet 20. pontját a 271/2016. (IX. 1.) Korm. rendelet 79. § (2) bekezdése hatályon kívül helyezte.
+[^9]: Az 1. melléklet 20. pontját a 271/2016. (IX. 1.) Korm. rendelet 79. § (2) bekezdése hatályon kívül helyezte.
