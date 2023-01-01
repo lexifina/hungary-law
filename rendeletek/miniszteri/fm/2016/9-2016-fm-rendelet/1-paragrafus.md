@@ -16,7 +16,7 @@ f) kísérleti szőlő: a NÉBIH által nyilvántartásba vett, osztályba sorol
 
 g) mezőgazdasági csoportmentességi rendelet: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet;
 
-h)[^3] körülhatárolt terület: a készenléti terv szerint a fitoplazma fertőzés miatt a területileg illetékes, növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: növényvédelmi hatóság) határozata alapján fertőzöttnek, valamint biztonsági övezetnek minősített és kijelölt termőföldterület;
+h)[^3] körülhatárolt terület: a készenléti terv szerint a fitoplazma fertőzés miatt a területileg illetékes, növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal (a továbbiakban: növényvédelmi hatóság) határozata alapján fertőzöttnek, valamint biztonsági övezetnek minősített és kijelölt termőföldterület;
 
 i) nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) bekezdés szerinti vállalkozás;
 
@@ -48,7 +48,7 @@ t)[^6] támogatható területnagyság: a szőlőtermelő vagy a termelői szerve
 
 [^1]: Az 1. § d) pontja a 42/2020. (VIII. 19.) AM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § e) pontja a 42/2020. (VIII. 19.) AM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § h) pontja a 42/2017. (VIII. 17.) FM rendelet 225. §-a, a 42/2020. (VIII. 19.) AM rendelet 13. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § h) pontja a 42/2017. (VIII. 17.) FM rendelet 225. §-a, a 42/2020. (VIII. 19.) AM rendelet 13. § a) pontja, a 144/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
 [^4]: Az 1. § j) pontja a 42/2020. (VIII. 19.) AM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^5]: Az 1. § q) pontja a 35/2018. (XII. 6.) AM rendelet 26. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. § t) pontját a 42/2020. (VIII. 19.) AM rendelet 6. § (3) bekezdése iktatta be.
