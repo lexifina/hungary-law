@@ -60,7 +60,7 @@ ELKÜLÖNÍTŐ KÓRJELZÉS
 
 1. Előzetes elkülönítés
 
-A teljes körű azonosítás, tipizálás és pathogenitási vizsgálat elvégzése céljából valamennyi haemagglutináló vírustörzset el kell küldeni az NRL-nek. Ezért a haemagglutináló allantoisz folyadékokat ezekben a laboratóriumokban az 5. és 6. fejezetben leírt HAG próbában kell vizsgálni. Az átmeneti ellenőrző intézkedések bevezetéséhez a mintákat egy ismert, legalább 29 titerű poliklonális Newcastle-betegség elleni szérummal kell vizsgálni, pozitív esetben a gátlás mértéke ≥ 24.
+A teljes körű azonosítás, tipizálás és pathogenitási vizsgálat elvégzése céljából valamennyi haemagglutináló vírustörzset el kell küldeni az NRL-nek. Ezért a haemagglutináló allantoisz folyadékokat ezekben a laboratóriumokban az 5. és 6. fejezetben leírt HAG próbában kell vizsgálni. Az átmeneti ellenőrző intézkedések bevezetéséhez a mintákat egy ismert, legalább 29titerű poliklonális Newcastle-betegség elleni szérummal kell vizsgálni, pozitív esetben a gátlás mértéke ≥ 24.
 
 2. Megerősítő azonosítás
 

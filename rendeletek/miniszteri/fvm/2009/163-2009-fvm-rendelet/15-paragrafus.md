@@ -32,7 +32,7 @@ k) rendelkezések a készenléti terv végrehajtására.
 
 (5) A betegség kitörése esetén az OJK
 
-a)[^35] ellenőrzi a megyei kormányhivatalok intézkedéseit, szükség esetén azokat kiegészíti vagy módosítja;
+a)[^35] ellenőrzi a vármegyei kormányhivatalok intézkedéseit, szükség esetén azokat kiegészíti vagy módosítja;
 
 b) összehangolja és irányítja a járványfelszámolási munkát;
 
@@ -50,5 +50,5 @@ f) amennyiben a védő- és megfigyelési körzetek több tagállam területét 
 [^32]: A 15. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 114. § j) pontja szerint módosított szöveg.
 [^33]: A 15. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 114. § j) pontja szerint módosított szöveg.
 [^34]: A 15. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 114. § j) pontja szerint módosított szöveg.
-[^35]: A 15. § (5) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 114. § k) pontja, a 42/2017. (VIII. 17.) FM rendelet 139. § i) pontja szerint módosított szöveg.
+[^35]: A 15. § (5) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 114. § k) pontja, a 42/2017. (VIII. 17.) FM rendelet 139. § i) pontja, a 117/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^36]: A 15. § (6) bekezdése a 70/2013. (VII. 31.) VM rendelet 114. § j) pontja szerint módosított szöveg.
