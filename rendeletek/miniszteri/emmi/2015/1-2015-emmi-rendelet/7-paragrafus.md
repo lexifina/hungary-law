@@ -13,3 +13,5 @@ d) a tulajdonát képező ruhaneműk raktározására,
 e) munkafoglalkoztatására, és
 
 f) zsebpénzének kezelésére
+
+vonatkozó előírásokat.

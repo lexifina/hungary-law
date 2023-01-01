@@ -1,5 +1,3 @@
-## A vezetők, pedagógusok és a nevelő-gondozó munkát segítő más dolgozók létszáma
-
 | 1. Vezetői munkakörök |  |
 
 |  | Létszám |
@@ -47,3 +45,5 @@
 | Rendész | 1 fő/intézmény |
 
 2. melléklet az 1/2015. (I. 14.) EMMI rendelethez
+
+Képesítési előírások

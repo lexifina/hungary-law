@@ -8,6 +8,6 @@ a) az igazgatói dicséret, a tárgyjutalom, a korábban kiszabott fegyelmi bün
 
 b) a jutalom eltávozás vagy a jutalom szabadság engedélyezése jutalmazási formát a nevelő, az osztályfőnök vagy a szakoktató együttes javaslata alapján
 
-## alkalmazza.
+alkalmazza.
 
 (3) A jutalom kimenő, a jutalom eltávozás és a jutalom szabadság tekintetében a 38. és 39. §-ban a kapcsolattartási célú kimenőre, eltávozásra vagy szabadságra meghatározott rendelkezéseket alkalmazni kell.

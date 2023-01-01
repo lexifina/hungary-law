@@ -1,5 +1,3 @@
-## költségét a javítóintézet biztosítja.
-
 ## 14. Az oktatás és képzés
 
 29. § (1) A javítóintézet a javítóintézetben végzett oktatás, képzés keretében elősegíti a fiatalkorú iskolai hiányosságainak pótlását, megkezdett tanulmányainak folytatását, és a munkaerő-piaci esélyeit növelő képzettség megszerzését.

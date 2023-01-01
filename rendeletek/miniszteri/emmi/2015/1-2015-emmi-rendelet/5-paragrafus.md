@@ -42,6 +42,6 @@ o) a szabad levegőn való tartózkodásra;
 
 p) a sportolásra, szabadidős tevékenységre
 
-## vonatkozó előírásokat.
+vonatkozó előírásokat.
 
 (2) A házirendet a közösségi helyiségekben és a lakóegységekben mindenki által látható helyen ki kell függeszteni. A házirendet a fiatalkorúnak – kérésére – egy példányban rendelkezésre kell bocsátani. E jogáról a fiatalkorút a házirendről szóló tájékoztatással egyidejűleg tájékoztatni kell.

@@ -10,7 +10,7 @@ b) a más gazdálkodó szervezetnél történő munkavégzés, vagy
 
 c) a javítóintézet vállalkozási tevékenységében való részvétel
 
-## lehetőségét biztosíthatja a fiatalkorú számára.
+lehetőségét biztosíthatja a fiatalkorú számára.
 
 (3) Ha a munkafoglalkozás a szabadban történik, annak időtartama nem számít be a 22. § (3) bekezdés szerinti szabad levegőn tartózkodás időtartamába.
 
@@ -20,7 +20,7 @@ a) tizenhat éven aluli fiatalkorú esetében a húsz órát,
 
 b) tizenhat éven felüli fiatalkorú esetében a negyven órát
 
-## nem haladhatja meg.
+nem haladhatja meg.
 
 (5) A munkafoglalkoztatás során biztosítani kell a munkavédelmi és munkabiztonsági előírások betartását.
 

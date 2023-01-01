@@ -1,5 +1,3 @@
-## Személyi adatlap a javítóintézetben ellátott fiatalkorúról
-
 ## TKSZ.:
 
 ## Név:
