@@ -18,4 +18,4 @@
 
 3. melléklet a 33/2007. (XII. 23.) PM rendelethez[^19]
 
-[^19]: A 3. melléklet a 47/2015. (XII. 30.) NGM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^19]: A 3. melléklet a 14/2022. (XII. 20.) PM rendelet 1. §-ával megállapított szöveg.
