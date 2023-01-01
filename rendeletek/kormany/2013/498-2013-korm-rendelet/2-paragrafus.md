@@ -16,7 +16,7 @@ f)[^2] a közlekedési szolgáltatónál szakképzési munkaszerződés alapján
 
 (3)[^3] A közlekedésért felelős miniszter által vezetett minisztérium, az 1. § c) pontja szerinti közlekedési kedvezményt kormánytisztviselőjének és ügykezelőjének nyújthat.
 
-(4)[^4] A fővárosi és megyei kormányhivatal – az 1. § c) pontja szerint – közlekedési kedvezményt a közlekedési hatósági feladatkörben eljáró kormánytisztviselőjének és állami tisztviselőjének nyújthat.
+(4)[^4] A fővárosi és vármegyei kormányhivatal – az 1. § c) pontja szerint – közlekedési kedvezményt a közlekedési hatósági feladatkörben eljáró kormánytisztviselőjének és állami tisztviselőjének nyújthat.
 
 (5) Az 1. § d) pontja szerinti viszonossági megállapodás alapján közlekedési kedvezményt
 
@@ -28,11 +28,11 @@ c) az országos, térségi vagy elővárosi közúti, valamint helyi menetrend s
 
 d) a menetrend alapján vízi személyszállítási tevékenységet végző
 
-## társaság a viszonossági megállapodásokban jogosultként meghatározott személynek nyújthat.
+társaság a viszonossági megállapodásokban jogosultként meghatározott személynek nyújthat.
 
 (6) A (2) bekezdés d) és e) pontjának alkalmazásában igényjogosult hozzátartozó a magánszeméllyel közös háztartásban élő házastárs, az élettárs, a bejegyzett élettárs, továbbá a magánszeméllyel közös háztartásban élő, rendszeres jövedelemmel nem rendelkező gyermek a tankötelezettsége fennállásának időtartamában, vagy ha nappali tagozatos oktatásban vesz részt, a tanulmányai befejezéséig.
 
 [^1]: A 2. § (2) bekezdés d) pontja a 26/2017. (II. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § (2) bekezdés f) pontja a 13/2020. (II. 7.) Korm. rendelet 91. §-ával megállapított szöveg.
 [^3]: A 2. § (3) bekezdése a 230/2016. (VII. 29.) Korm. rendelet 7. § d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 255. §-a szerint módosított szöveg.
-[^4]: A 2. § (4) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^4]: A 2. § (4) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 44. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 174. §-a szerint módosított szöveg.

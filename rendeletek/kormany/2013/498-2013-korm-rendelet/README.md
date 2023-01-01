@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-498-20-
 | 2017-01-01 | 2013-498-20-22.6 | 230/2016. (VII. 29.) Korm. rendelet |
 | 2017-02-09 | 2013-498-20-22.7 | 26/2017. (II. 8.) Korm. rendelet |
 | 2020-02-15 | 2013-498-20-22.8 | 13/2020. (II. 7.) Korm. rendelet |
+| 2023-01-01 | 2013-498-20-22.9 | 217/2016. (VII. 22.) Korm. rendelet |
