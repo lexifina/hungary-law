@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-41-20-8
 | 2019-01-01 | 2008-41-20-82.19 | 35/2018. (XII. 6.) AM rendelet |
 | 2020-09-28 | 2008-41-20-82.20 | 60/2011. (VI. 30.) VM rendelet |
 | 2022-12-28 | 2008-41-20-82.22 | 35/2018. (XII. 6.) AM rendelet |
+| 2023-01-01 | 2008-41-20-82.21 | 60/2011. (VI. 30.) VM rendelet |
