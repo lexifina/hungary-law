@@ -1,0 +1,1 @@
+108/D. § A szociális szövetkezet az egyes foglalkoztatási tárgyú törvények módosításáról szóló 2022. évi LXXIV. törvényben megállapított rendelkezésnek 2023. július 1-jéig köteles megfelelni, és az ahhoz szükséges alapszabály-módosítást elvégezni.

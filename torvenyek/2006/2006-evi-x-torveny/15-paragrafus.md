@@ -3,3 +3,5 @@
 (2) Szociális szövetkezetnek – az önkormányzat, továbbá karitatív tevékenységet ellátó közhasznú jogállású szervezet tag kivételével – nem lehet személyes közreműködést nem vállaló tagja.
 
 (3) A szociális szövetkezet esetében a nem természetes személy tagok száma nem haladhatja meg a taglétszám huszonöt százalékát.
+
+(4) Egy helyi önkormányzat legfeljebb hat, egy nemzetiségi önkormányzat vagy közhasznú jogállású szervezet legfeljebb három szociális szövetkezetben tarthat fenn egyidejűleg tagsági jogviszonyt.
