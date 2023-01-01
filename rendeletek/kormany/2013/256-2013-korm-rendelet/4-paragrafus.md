@@ -4,7 +4,7 @@
 
 (3) A támogatás kizárólag az esedékes új alapbéremelés hónapjától alkalmazandó béremelésre, az ahhoz kapcsolódó mozgóbér elemek összegére, valamint az azokra tekintettel ténylegesen megfizetett szociális hozzájárulási adóhoz használható fel. A támogatás terhére az e rendeletben foglalt jogcímeken túl más jogcímen kifizetés nem teljesíthető.
 
-(4)[^33] A támogatás fedezetéül az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 5. számú melléklete szerinti egészségügyi dolgozók 2018–2022. évi béremelésének fedezete előirányzat szolgál.
+(4)[^33] A támogatás fedezetéül az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet 5. számú melléklete szerinti egészségügyi dolgozók 2018–2023. évi béremelésének fedezete előirányzat szolgál.
 
 [^32]: A 4. § az 529/2020. (XI. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^33]: A 4. § (4) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^33]: A 4. § (4) bekezdése az 529/2020. (XI. 28.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 15. §[^76]
+16. §[^78]
 
-[^76]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

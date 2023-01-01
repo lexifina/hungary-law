@@ -1,5 +1,3 @@
-## Gyógyszerészek, szakgyógyszerészek illetmény-, illetve bérnövelése
-
 ## (Ft/hó, bruttó)
 
 | SZINT | ÉVEK | GYÓGYSZERÉSZEK, SZAKGYÓGYSZERÉSZEK ILLETMÉNY- VAGY BÉRNÖVELÉS FIZETÉSI OSZTÁLYOK |
@@ -40,6 +38,8 @@
 
 | 17 | 49–51 | 50 001 | 237 000 | 237 000 |
 
-6. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^108]
+6. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^109]
 
-[^108]: A 6. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés b) pontja iktatta be, szövege a 461/2016. (XII. 23.) Korm. rendelet 10. § c) pontjával megállapított szöveg.
+Egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi dolgozók illetmény-, illetve bérnövelése
+
+[^109]: A 6. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés b) pontja iktatta be, szövege a 461/2016. (XII. 23.) Korm. rendelet 10. § c) pontjával megállapított szöveg.

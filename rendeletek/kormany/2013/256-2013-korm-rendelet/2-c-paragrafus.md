@@ -1,5 +1,3 @@
-## összeg.
-
 2/C. §[^13] (1)[^14] Az ügyeleti díj, az Eütev. 14/B. §-a szerinti pótlék, a készenléti díj, valamint a rendkívüli munkavégzés bérpótléka (a továbbiakban együtt: mozgóbér elemek) számítási alapja a 2/A. § és a 2/B. § szerinti alapbér, garantált illetmény, alapilletmény összege.
 
 (1a)[^15] A mozgóbér elemek számítási alapja a Hjt. 237/L. § (2)–(4) bekezdése, valamint a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 89/D. § (2)–(4) bekezdése szerinti összeg.

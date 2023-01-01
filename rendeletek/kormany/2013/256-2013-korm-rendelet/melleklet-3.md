@@ -564,9 +564,11 @@
 
 | 282. | Dr. Manninger Jenő Baleseti Központ | Budapest |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^105]
+| 283. | Észak-Pesti Centrum Kórház – Honvédkórház | Budapest |
 
-## Az egészségügyi szakdolgozó munkakörének fizetési osztályba történő besorolása
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^106]
+
+Az egészségügyi szakdolgozó munkakörének fizetési osztályba történő besorolása
 
 Az egészségügyi tevékenység végzésére jogosító szakképesítéssel rendelkező egészségügyi szolgálati jogviszonyban álló egészségügyi szakdolgozók munkakörének az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 7. melléklete szerinti fizetési osztályba sorolásánál – az 1004/2011. (I. 14.) Korm. határozat a Magyar Képesítési Keretrendszer bevezetéséhez kapcsolódó feladatokról, valamint az Országos Képesítési Keretrendszer létrehozásáról és bevezetéséről szóló kormányhatározatnak megfelelően – az alábbi szintbesorolást kell alkalmazni:
 
@@ -644,4 +646,4 @@ kötött; valamint
 
 10. „J” fizetési osztályba kell sorolni a 8. MKKR szintű végzettséggel betölthető munkakört, amelynek ellátásához egyetemi (MSc) végzettségre és tudományos fokozatra van szükség.
 
-[^105]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^106]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.

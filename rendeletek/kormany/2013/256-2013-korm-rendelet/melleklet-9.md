@@ -1,5 +1,3 @@
-## Egyéb, nem egészségügyi főiskolai végzettséggel rendelkező egészségügyi dolgozók illetmény-, illetve bérnövelése (Ft/hó, bruttó)
-
 | SZINT | ÉVEK | EGYÉB, NEM EGÉSZSÉGÜGYI FŐISKOLAI VÉGZETTSÉGGEL RENDELKEZŐ EGÉSZSÉGÜGYI DOLGOZÓK ILLETMÉNY- VAGY BÉRNÖVELÉS FIZETÉSI OSZTÁLYOK |
 
 | F | G | H |
@@ -38,56 +36,56 @@
 
 | 17 | 49–51 | 377 481 | 398 550 | 444 884 |
 
-9. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^111]
+9. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^112]
 
-## Az egészségügyi szolgáltató által az illetmény- vagy bérnövelésére tekintettel igényelhető támogatási összeg fizetési osztályonként (Ft/hó)
+Az egészségügyi szolgáltató által az illetmény- vagy bérnövelésére tekintettel igényelhető támogatási összeg fizetési osztályonként (Ft/hó)
 
 1. Az Eszjtv. 8. § (3) bekezdés szerinti járóbeteg- és fekvőbeteg-szakellátásban részt vevő orvosok, fogorvosok, nem egészségügyi egyetemi végzettségű egészségügyi dolgozók bértámogatása, a kifizetőt terhelő közterhek nélkül (Ft/hó)
 
 | 1. | Gyakorlati idő | Szakvizsgával nem rendelkezők esetén igényelhető | Szakvizsgával rendelkezők esetén igényelhető |
 
-| 2. | 0–2 év | 363 733 Ft | 164 233 Ft |
+| 2. | 0–2 év | 432 517 Ft | 233 017 Ft |
 
-| 3. | 3–5 év | 526 495 Ft | 327 095 Ft |
+| 3. | 3–5 év | 614 086 Ft | 414 686 Ft |
 
-| 4. | 6–10 év | 839 771 Ft | 638 671 Ft |
+| 4. | 6–10 év | 962 892 Ft | 761 792 Ft |
 
-| 5. | 11–15 év | 839 771 Ft | 780 702 Ft |
+| 5. | 11–15 év | 962 892 Ft | 920 627 Ft |
 
-| 6. | 16–20 év | 839 771 Ft | 842 591 Ft |
+| 6. | 16–20 év | 962 892 Ft | 991 759 Ft |
 
-| 7. | 21–25 év | 839 771 Ft | 968 867 Ft |
+| 7. | 21–25 év | 962 892 Ft | 1 134 433 Ft |
 
-| 8. | 26–30 év | 839 771 Ft | 1 085 523 Ft |
+| 8. | 26–30 év | 962 892 Ft | 1 264 995 Ft |
 
-| 9. | 31–35 év | 839 771 Ft | 1 134 990 Ft |
+| 9. | 31–35 év | 962 892 Ft | 1 321 847 Ft |
 
-| 10. | 36–40 év | 839 771 Ft | 1 257 880 Ft |
+| 10. | 36–40 év | 962 892 Ft | 1 460 447 Ft |
 
-| 11. | 41– év | 839 771 Ft | 1 566 931 Ft |
+| 11. | 41– év | 962 892 Ft | 1 804 937 Ft |
 
 2. Az alapellátásban egészségügyi szolgálati jogviszonyban foglalkoztatott orvosok, fogorvosok és iskolaorvosok bértámogatása, a kifizetőt terhelő közterhek nélkül (Ft/hó)
 
 | 1. | Gyakorlati idő | Szakvizsgával nem rendelkezők esetén igényelhető | Szakvizsgával rendelkezők esetén igényelhető |
 
-| 2. | 0–2 év | 408 453 Ft | 408 453 Ft |
+| 2. | 0–2 év | 477 237 Ft | 477 237 Ft |
 
-| 3. | 3–5 év | 577 715 Ft | 577 715 Ft |
+| 3. | 3–5 év | 665 306 Ft | 665 306 Ft |
 
-| 4. | 6–10 év | 897 491 Ft | 897 491 Ft |
+| 4. | 6–10 év | 1 020 612 Ft | 1 020 612 Ft |
 
-| 5. | 11–15 év | 897 491 Ft | 1 048 722 Ft |
+| 5. | 11–15 év | 1 020 612 Ft | 1 188 647 Ft |
 
-| 6. | 16–20 év | 897 491 Ft | 1 131 911 Ft |
+| 6. | 16–20 év | 1 020 612 Ft | 1 281 079 Ft |
 
-| 7. | 21–25 év | 897 491 Ft | 1 279 487 Ft |
+| 7. | 21–25 év | 1 020 612 Ft | 1 445 053 Ft |
 
-| 8. | 26–30 év | 897 491 Ft | 1 398 338 Ft |
+| 8. | 26–30 év | 1 020 612 Ft | 1 577 810 Ft |
 
-| 9. | 31–35 év | 897 491 Ft | 1 447 765 Ft |
+| 9. | 31–35 év | 1 020 612 Ft | 1 634 622 Ft |
 
-| 10. | 36–40 év | 897 491 Ft | 1 570 695 Ft |
+| 10. | 36–40 év | 1 020 612 Ft | 1 773 262 Ft |
 
-| 11. | 41– év | 897 491 Ft | 1 879 706 Ft |
+| 11. | 41– év | 1 020 612 Ft | 2 117 712 Ft |
 
-[^111]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^112]: A 9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 461/2016. (XII. 23.) Korm. rendelet 13. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 16. §-ával megállapított szöveg.

@@ -1,5 +1,3 @@
-## 22. §[^83]
-
 1. melléklet a 256/2013. (VII. 5.) Korm. rendelethez
 
 1. Az Eütev. 11/A. § (4) bekezdése szerinti orvosi munkakörök:
@@ -24,13 +22,13 @@
 
 2. Az Eütev. 11/A. § (5) bekezdése szerinti egészségügyi szakdolgozói és egyes egészségügyben dolgozói munkakörök:
 
-2.1.[^84]
+2.1.[^85]
 
-2.2.[^85]
+2.2.[^86]
 
-2.3.[^86] vezető ápoló*
+2.3.[^87] vezető ápoló*
 
-2.4.[^87]
+2.4.[^88]
 
 2.5. vezető (asszisztens, műtős, szülésznő)*
 
@@ -76,7 +74,7 @@
 
 2.26. szülésznő
 
-2.27.[^88] védőnő, családgondozó védőnő, kollegiális védőnői mentor
+2.27.[^89] védőnő, családgondozó védőnő, kollegiális védőnői mentor
 
 2.28. mentőtiszt
 
@@ -122,7 +120,7 @@
 
 2.49. egészségügyi operátor
 
-2.50.[^89] egészségügyi ügyvitelszervező***
+2.50.[^90] egészségügyi ügyvitelszervező***
 
 2.51. laboráns, vegyésztechnikus
 
@@ -152,25 +150,25 @@
 
 2.64. vezető közegészségügyi felügyelő*
 
-2.65.[^90] ápolási igazgató
+2.65.[^91] ápolási igazgató
 
-2.66.[^91] egészségügyi szakoktató
+2.66.[^92] egészségügyi szakoktató
 
-2.67.[^92] mentőhelikopter vezető
+2.67.[^93] mentőhelikopter vezető
 
-2.68.[^93] mentő-technikus
+2.68.[^94] mentő-technikus
 
-2.69.[^94] mentésirányító
+2.69.[^95] mentésirányító
 
-2.70.[^95] mentésvezető
+2.70.[^96] mentésvezető
 
-2.71.[^96] okleveles ápoló-mentőtiszt
+2.71.[^97] okleveles ápoló-mentőtiszt
 
-2.72.[^97] orvosírnok
+2.72.[^98] orvosírnok
 
-2.73.[^98] dentálhigiénikus
+2.73.[^99] dentálhigiénikus
 
-2.74.[^99] hang-, beszéd- és nyelésterapeuta
+2.74.[^100] hang-, beszéd- és nyelésterapeuta
 
 3. Az Eütev. 11/A. § (6) bekezdése szerinti, felsőfokú végzettséggel betölthető munkakörök:
 
@@ -188,9 +186,9 @@
 
 3.7. mikrobiológus*
 
-3.8.[^100] fizikus
+3.8.[^101] fizikus
 
-3.9.[^101] kémikus
+3.9.[^102] kémikus
 
 4. Az Eütev. 11/A. § (6a) bekezdése szerinti gyógyszerészi végzettséggel betölthető munkakörök:
 
@@ -212,7 +210,7 @@
 
 5.3. parancsnok helyettes*
 
-5.4.[^102]
+5.4.[^103]
 
 5.5. intézetvezető*
 
@@ -222,30 +220,29 @@
 
 5.8. munkavezető, foglalkozásvezető
 
-Jelmagyarázat:[^103]
+Jelmagyarázat:[^104]
 
 * = a Honvédelmi Minisztérium és a Magyar Honvédség egészségügyi intézményeiben foglalkoztatott közalkalmazottakra irányadó munkakör.
 
 *** = felsőfokú végzettséggel rendelkező.
 
-[^83]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^84]: Az 1. melléklet 2.1. pontját a 276/2021. (V. 26.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^85]: Az 1. melléklet 2.2. pontját a 276/2021. (V. 26.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^86]: Az 1. melléklet 2.3. pontja a 276/2021. (V. 26.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^87]: Az 1. melléklet 2.4. pontját a 276/2021. (V. 26.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
-[^88]: Az 1. melléklet 2. pont 2.27. alpontja a 757/2021. (XII. 22.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^89]: Az 1. melléklet 2. pont 2.50. alpontja a 328/2019. (XII. 20.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^90]: Az 1. melléklet 2. pont 2.65. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^91]: Az 1. melléklet 2. pont 2.66. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^92]: Az 1. melléklet 2. pont 2.67. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^93]: Az 1. melléklet 2. pont 2.68. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
-[^94]: Az 1. melléklet 2. pont 2.69. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
-[^95]: Az 1. melléklet 2. pont 2.70. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
-[^96]: Az 1. melléklet 2. pont 2.71. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
-[^97]: Az 1. melléklet 2. pont 2.72. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
-[^98]: Az 1. melléklet 2. pont 2.73. alpontját a 665/2021. (XII. 1.) Korm. rendelet 1. §-a iktatta be.
-[^99]: Az 1. melléklet 2. pont 2.74. alpontját a 64/2022. (II. 28.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^100]: Az 1. melléklet 3. pont 3.8. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^101]: Az 1. melléklet 3. pont 3.9. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^102]: Az 1. melléklet 5. pont 5.4. alpontját a 394/2013. (XI. 14.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^103]: Az 1. melléklet „Jelmagyarázat” része a 320/2017. (XI. 8.) Korm. rendelet 5. § a) pontja, a 276/2021. (V. 26.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^85]: Az 1. melléklet 2.1. pontját a 276/2021. (V. 26.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^86]: Az 1. melléklet 2.2. pontját a 276/2021. (V. 26.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^87]: Az 1. melléklet 2.3. pontja a 276/2021. (V. 26.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^88]: Az 1. melléklet 2.4. pontját a 276/2021. (V. 26.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.
+[^89]: Az 1. melléklet 2. pont 2.27. alpontja a 757/2021. (XII. 22.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^90]: Az 1. melléklet 2. pont 2.50. alpontja a 328/2019. (XII. 20.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^91]: Az 1. melléklet 2. pont 2.65. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^92]: Az 1. melléklet 2. pont 2.66. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^93]: Az 1. melléklet 2. pont 2.67. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^94]: Az 1. melléklet 2. pont 2.68. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
+[^95]: Az 1. melléklet 2. pont 2.69. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
+[^96]: Az 1. melléklet 2. pont 2.70. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
+[^97]: Az 1. melléklet 2. pont 2.71. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
+[^98]: Az 1. melléklet 2. pont 2.72. alpontját a 328/2019. (XII. 20.) Korm. rendelet 13. §-a iktatta be.
+[^99]: Az 1. melléklet 2. pont 2.73. alpontját a 665/2021. (XII. 1.) Korm. rendelet 1. §-a iktatta be.
+[^100]: Az 1. melléklet 2. pont 2.74. alpontját a 64/2022. (II. 28.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^101]: Az 1. melléklet 3. pont 3.8. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^102]: Az 1. melléklet 3. pont 3.9. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^103]: Az 1. melléklet 5. pont 5.4. alpontját a 394/2013. (XI. 14.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^104]: Az 1. melléklet „Jelmagyarázat” része a 320/2017. (XI. 8.) Korm. rendelet 5. § a) pontja, a 276/2021. (V. 26.) Korm. rendelet 7. §-a szerint módosított szöveg.

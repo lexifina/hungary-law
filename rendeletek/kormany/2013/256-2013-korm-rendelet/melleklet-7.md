@@ -1,5 +1,3 @@
-## Egyéb, nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi dolgozók illetmény-, illetve bérnövelése
-
 ## (Ft/hó, bruttó)
 
 | SZINT | ÉVEK | EGYÉB, NEM EGÉSZSÉGÜGYI EGYETEMI VÉGZETTSÉGGEL, VALAMINT NEM EGÉSZSÉGÜGYI EGYETEMI VÉGZETTSÉGGEL ÉS EGÉSZSÉGÜGYI FELSŐFOKÚ SZAKIRÁNYÚ SZAKKÉPESÍTÉSSEL RENDELKEZŐ EGÉSZSÉGÜGYI DOLGOZÓK ILLETMÉNY- VAGY BÉRNÖVELÉS FIZETÉSI OSZTÁLYOK |
@@ -40,6 +38,6 @@
 
 | 17 | 49–51 | 84 386 | 271 385 | 271 385 |
 
-7. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^109]
+7. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^110]
 
-[^109]: A 7. mellékletet újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés c) pontja iktatta be, szövege a 139/2019. (VI. 14.) Korm. rendelet 7. § (5) bekezdés a) pontjával megállapított szöveg.
+[^110]: A 7. mellékletet újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés c) pontja iktatta be, szövege a 139/2019. (VI. 14.) Korm. rendelet 7. § (5) bekezdés a) pontjával megállapított szöveg.

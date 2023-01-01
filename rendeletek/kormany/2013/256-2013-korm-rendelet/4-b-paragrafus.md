@@ -1,3 +1,3 @@
-## 4/A. §[^34]
+4/B. §[^35]
 
-[^34]: A 4/A. §-t a 399/2017. (XII. 14.) Korm. rendelet 1. §-a iktatta be, a 757/2021. (XII. 22.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
+[^35]: A 4/B. §-t a 2/2018. (II. 1.) Korm. rendelet 1. §-a iktatta be, a 757/2021. (XII. 22.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
