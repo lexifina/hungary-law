@@ -6,4 +6,6 @@ b) a 90/425/EGK irányelv A. mellékletének I. pontjában felsorolt külön kö
 
 c) a 92/65/EGK tanácsi irányelvnek a kutyák, macskák és görények Unión belüli kereskedelmére és Unióba való behozatalára irányadó állat-egészségügyi követelmények tekintetében történő módosításáról szóló, 2013. június 12-i 2013/31/EU európai parlamenti és tanácsi irányelvnek
 
+való megfelelést szolgálja.
+
 [^50]: A 18. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 241. pontja hatályon kívül helyezte, újonnan a 21/2015. (IV. 30.) FM rendelet 15. § (2) bekezdése iktatta be.

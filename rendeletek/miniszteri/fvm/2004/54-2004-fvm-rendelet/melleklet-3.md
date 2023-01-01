@@ -12,7 +12,7 @@
 
 3. számú melléklet az 54/2004. (IV. 24.) FVM rendelethez
 
-## A területi (tagállam, régió, zóna) korlátozással járó kötelező rendkívüli intézkedést igénylő járványos állatbetegségek
+A területi (tagállam, régió, zóna) korlátozással járó kötelező rendkívüli intézkedést igénylő járványos állatbetegségek
 
 1. ragadós száj- és körömfájás (RSZKF),
 

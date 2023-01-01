@@ -14,21 +14,21 @@ b) ha az 1. § (1) bekezdésében meghatározott, más tagállamból származó 
 
 4. állattartó telepre, központba vagy szervezetnek szánják – beleértve azt az állattartó telepet, központot vagy szervezetet, ahol a szállítás során részben kirakodják a szállítmányt –, akkor minden állatot, állatcsoportot a 3. §-ban foglaltakkal összhangban, az eredeti egészségügyi bizonyítványnak, illetve egyéb okiratnak kell kísérnie addig, amíg a szállítmány meg nem érkezik az abban feltüntetett címzetthez.
 
-c)[^22] a b) pont 3. és 4. alpontjában meghatározott címzett köteles a szállítmány felosztása vagy további forgalomba hozatala előtt ellenőrizni, hogy a 3. § (1) bekezdésének c) és d) pontjában említett jelölés, bizonyítvány vagy okirat rendelkezésre áll-e, valamint jelenteni az illetékes hatósági állatorvosnak, illetve a megyei kormányhivatalnak bármely jogszabálysértést vagy rendellenességet, és ilyen esetben elkülöníteni a kérdéses állatot addig, amíg a megyei kormányhivatal – feladat- és hatáskörében eljárva – döntést nem hoz róla,
+c)[^22] a b) pont 3. és 4. alpontjában meghatározott címzett köteles a szállítmány felosztása vagy további forgalomba hozatala előtt ellenőrizni, hogy a 3. § (1) bekezdésének c) és d) pontjában említett jelölés, bizonyítvány vagy okirat rendelkezésre áll-e, valamint jelenteni az illetékes hatósági állatorvosnak, illetve a vármegyei kormányhivatalnak bármely jogszabálysértést vagy rendellenességet, és ilyen esetben elkülöníteni a kérdéses állatot addig, amíg a vármegyei kormányhivatal – feladat- és hatáskörében eljárva – döntést nem hoz róla,
 
-d)[^23] a b) pont 3. és 4. alpontjában meghatározott címzett által kötelezően vállalandó biztosítékot a megyei kormányhivatallal kötött szerződésben részletesen meg kell határozni, amelyet a 11. §-ban foglalt előzetes nyilvántartásba vétellel egyidejűleg kell aláírni; a hatósági állatorvos szúrópróbaszerű ellenőrzést végez annak érdekében, hogy megvizsgálja ezen biztosíték teljesítését,
+d)[^23] a b) pont 3. és 4. alpontjában meghatározott címzett által kötelezően vállalandó biztosítékot a vármegyei kormányhivatallal kötött szerződésben részletesen meg kell határozni, amelyet a 11. §-ban foglalt előzetes nyilvántartásba vétellel egyidejűleg kell aláírni; a hatósági állatorvos szúrópróbaszerű ellenőrzést végez annak érdekében, hogy megvizsgálja ezen biztosíték teljesítését,
 
 (2) Az (1) bekezdés b)–d) pontjában foglalt előírásokat megfelelően alkalmazni kell az 1. § (1) bekezdése szerinti termék címzettjére is.
 
 (3) A 3. § (1) bekezdésének d) pontja szerinti bizonyítványban, illetve okiratban feltüntetett valamennyi címzett:
 
-a)[^24] köteles – ha a rendeltetési hely szerinti tagállam Magyarország – a megyei kormányhivatal felszólítására az (1) bekezdésben foglalt vizsgálatok végrehajtásához szükséges mértékben, előzetesen, de legkésőbb az érkezés előtti napon – kivéve, ha kivételes körülmények miatt a megyei kormányhivatal két nappal korábbi bejelentésre szólít fel – jelenteni az állat, illetve termék egy másik tagállamból történő érkezését, különös tekintettel a szállítmány jellegére és az érkezés várható időpontjára; a lófélék Közösségen belüli kereskedelmét szabályozó tenyésztéstechnikai és származástani feltételekről szóló, a Tanács 90/427/EGK irányelvében meghatározott azonosító okirattal rendelkező, nyilvántartásba vett ló esetében nem kell előzetes bejelentést tenni,
+a)[^24] köteles – ha a rendeltetési hely szerinti tagállam Magyarország – a vármegyei kormányhivatal felszólítására az (1) bekezdésben foglalt vizsgálatok végrehajtásához szükséges mértékben, előzetesen, de legkésőbb az érkezés előtti napon – kivéve, ha kivételes körülmények miatt a vármegyei kormányhivatal két nappal korábbi bejelentésre szólít fel – jelenteni az állat, illetve termék egy másik tagállamból történő érkezését, különös tekintettel a szállítmány jellegére és az érkezés várható időpontjára; a lófélék Közösségen belüli kereskedelmét szabályozó tenyésztéstechnikai és származástani feltételekről szóló, a Tanács 90/427/EGK irányelvében meghatározott azonosító okirattal rendelkező, nyilvántartásba vett ló esetében nem kell előzetes bejelentést tenni,
 
-b)[^25] köteles a 3. § szerinti bizonyítványt, illetve okiratot egy évig megőrizni és a megyei kormányhivatal felszólítására bemutatni.
+b)[^25] köteles a 3. § szerinti bizonyítványt, illetve okiratot egy évig megőrizni és a vármegyei kormányhivatal felszólítására bemutatni.
 
 [^20]: Az 5. § (1) bekezdés nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 13. § a) pontja szerint módosított szöveg.
 [^21]: Az 5. § (1) bekezdés a) pontja az 5/2012. (II. 10.) VM rendelet 13. § b) pontja szerint módosított szöveg.
-[^22]: Az 5. § (1) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 67. § c) pontja szerint módosított szöveg.
-[^23]: Az 5. § (1) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 67. § d) pontja szerint módosított szöveg.
-[^24]: Az 5. § (3) bekezdés a) pontja az 5/2012. (II. 10.) VM rendelet 13. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 67. § e) pontja szerint módosított szöveg.
-[^25]: Az 5. § (3) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 67. § f) pontja szerint módosított szöveg.
+[^22]: Az 5. § (1) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 67. § c) pontja, a 84/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^23]: Az 5. § (1) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 67. § d) pontja, a 84/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^24]: Az 5. § (3) bekezdés a) pontja az 5/2012. (II. 10.) VM rendelet 13. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 67. § e) pontja, a 84/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^25]: Az 5. § (3) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 67. § f) pontja, a 84/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
