@@ -1,0 +1,1 @@
+A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 74. § (4) bekezdés 2. pontjában kapott felhatalmazás alapján, a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 12. § i) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
