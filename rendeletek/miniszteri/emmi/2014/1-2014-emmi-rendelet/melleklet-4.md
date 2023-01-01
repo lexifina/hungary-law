@@ -1,6 +1,6 @@
 4. melléklet az 1/2014. (I. 16.) EMMI rendelethez
 
-## A laboratóriumok által jelentendő adatok köre
+A laboratóriumok által jelentendő adatok köre
 
 1. A vizsgálatot végző laboratórium neve, azonosítója
 

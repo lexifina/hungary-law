@@ -1,6 +1,6 @@
 2. melléklet az 1/2014. (I. 16.) EMMI rendelethez
 
-## A HIV-fertőzésre és az AIDS megbetegedésre vonatkozó, személyazonosító adatok nélkül, surveillance céljából gyűjtendő adatok köre
+A HIV-fertőzésre és az AIDS megbetegedésre vonatkozó, személyazonosító adatok nélkül, surveillance céljából gyűjtendő adatok köre
 
 1. A bejelentő neve, elérhetősége
 

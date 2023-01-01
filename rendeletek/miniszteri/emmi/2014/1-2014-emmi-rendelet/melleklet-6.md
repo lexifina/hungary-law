@@ -1,5 +1,3 @@
-## Kórokozók, amelyek esetében az irányukban elvégzett laboratóriumi vizsgálat negatív eredménye is jelentendő a vizsgált személy személyazonosító adataival együtt:
-
 ## Bacillus anthracis
 
 ## Bordetella pertussis
@@ -55,3 +53,5 @@
 ## Yersinia pestis
 
 6. melléklet az 1/2014. (I. 16.) EMMI rendelethez
+
+Az egészségügyi ellátással összefüggő bejelentendő fertőzések

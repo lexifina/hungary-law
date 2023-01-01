@@ -1,5 +1,3 @@
-## Az egészségügyi ellátással összefüggő bejelentendő fertőzések
-
 ## Személyazonosító adatokkal jelentendők:
 
 ## Clostridium difficile által okozott fertőzés
@@ -10,7 +8,7 @@
 
 7. melléklet az 1/2014. (I. 16.) EMMI rendelethez
 
-## Egészségügyi ellátással összefüggő fertőzések jelentéseinek adattartalma
+Egészségügyi ellátással összefüggő fertőzések jelentéseinek adattartalma
 
 I. Clostridium difficile által okozott fertőzés jelentésének adattartalma
 

@@ -1,6 +1,6 @@
 4/A. melléklet az 1/2014. (I. 16.) EMMI rendelethez[^31]
 
-## A mikrobiológiai vizsgálatot végző laboratórium által személyazonosításra alkalmatlan módon jelentendő adatok köre
+A mikrobiológiai vizsgálatot végző laboratórium által személyazonosításra alkalmatlan módon jelentendő adatok köre
 
 1. A vizsgálatot végző laboratórium neve, azonosítója
 

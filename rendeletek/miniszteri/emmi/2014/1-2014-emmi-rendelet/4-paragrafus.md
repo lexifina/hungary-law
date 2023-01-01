@@ -1,0 +1,3 @@
+4. §[^2] A betegellátó a telephelye szerint illetékes népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) részére köteles jelenteni az érintett személy egészségügyi és személyazonosító adatait, ha klinikailag, illetve laboratóriumi vizsgálatok során észleli a 6. mellékletben felsorolt, egészségügyi ellátással összefüggő fertőzések előfordulását. A jelentést a beteg fekvőbeteg-gyógyintézetből történő távozását, vagy az ott bekövetkezett halálát követő 14 munkanapon belül kell megtenni. Az egyes jelentések adattartalmát a 7. melléklet tartalmazza.
+
+[^2]: A 4. § a 23/2015. (IV. 28.) EMMI rendelet 158. § a) pontja, a 45/2022. (XII. 20.) BM rendelet 76. § a) pontja szerint módosított szöveg.

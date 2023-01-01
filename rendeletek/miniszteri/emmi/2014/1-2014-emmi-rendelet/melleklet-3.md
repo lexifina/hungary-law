@@ -1,6 +1,6 @@
 3. melléklet az 1/2014. (I. 16.) EMMI rendelethez
 
-## A szexuális úton terjedő fertőzésekre (syphilis, connatalis syphilis, gonorrhoea, acut urogenitalis chlamydiasis, lymphogranuloma venereum) vonatkozó, személyazonosító adatok nélkül, surveillance célból gyűjtendő adatok köre
+A szexuális úton terjedő fertőzésekre (syphilis, connatalis syphilis, gonorrhoea, acut urogenitalis chlamydiasis, lymphogranuloma venereum) vonatkozó, személyazonosító adatok nélkül, surveillance célból gyűjtendő adatok köre
 
 1. A bejelentő neve, elérhetősége
 

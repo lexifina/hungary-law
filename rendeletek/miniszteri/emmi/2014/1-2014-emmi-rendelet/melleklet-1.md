@@ -2,7 +2,7 @@
 
 1. melléklet az 1/2014. (I. 16.) EMMI rendelethez[^30]
 
-## Fertőző beteg jelentés adattartalma
+Fertőző beteg jelentés adattartalma
 
 1. A beteg TAJ-a:
 

@@ -8,7 +8,7 @@
 
 | A beteg tartózkodási helye a diagnózis megállapításakor: |
 
-| A megbetegedés helye: | megye |
+| A megbetegedés helye: | vármegye |
 
 |  | község, város |
 
@@ -32,11 +32,11 @@
 
 | P. H. |
 
-| .......................................................................................... népegészségügyi feladatkörében eljáró fővárosi, megyei kormányhivatal, járási hivatal |
+| .......................................................................................... népegészségügyi feladatkörében eljáró fővárosi, vármegyei kormányhivatal, járási hivatal |
 
 ## KITÖLTÉSI ÚTMUTATÓ
 
-## Ha a fertőző beteg megbetegedésének helye nem azonos a tartózkodási helyével, vagy a megbetegedési helyeként regisztrált tartózkodási helye nem azonos a lakóhelyével, és járványügyi intézkedést igényel a megbetegedés, akkor erről a „Járványügyi értesítés fertőző betegről” elnevezésű űrlapon haladéktalanul értesíteni kell a tartózkodási hely, illetve a lakóhely szerint illetékes fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát. Az értesítést faxon kell továbbítani, de ha a beteggel vagy környezetével kapcsolatban késedelmet nem tűrő intézkedések megtételére van szükség, az értesítést telefonon is meg kell tenni.
+## Ha a fertőző beteg megbetegedésének helye nem azonos a tartózkodási helyével, vagy a megbetegedési helyeként regisztrált tartózkodási helye nem azonos a lakóhelyével, és járványügyi intézkedést igényel a megbetegedés, akkor erről a „Járványügyi értesítés fertőző betegről” elnevezésű űrlapon haladéktalanul értesíteni kell a tartózkodási hely, illetve a lakóhely szerint illetékes fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát. Az értesítést faxon kell továbbítani, de ha a beteggel vagy környezetével kapcsolatban késedelmet nem tűrő intézkedések megtételére van szükség, az értesítést telefonon is meg kell tenni.
 
 ## Ha a bejelentés alapját állatról emberre terjedő fertőző betegség (anthrax, brucellosis, lyssa, illetve lyssa-fertőzésre gyanús sérülés, madárinfluenza, malleus, nyugat-nílusi láz, trichinellosis, tuberkulozis, tularemia) képezte, a járványügyi értesítés megküldésével – sürgős esetben ezenkívül közvetlenül (szóban, telefonon, faxon) is – értesíteni kell az érintett lakóhelye (tartózkodási helye) szerint illetékes élelmiszerlánc-felügyeleti szervet.
 
