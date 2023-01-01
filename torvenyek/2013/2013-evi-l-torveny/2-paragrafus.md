@@ -20,7 +20,7 @@ h) az Állami Számvevőszékre,
 
 i) a Magyar Nemzeti Bankra,
 
-j) a fővárosi és megyei kormányhivatalokra,
+j) a fővárosi és vármegyei kormányhivatalokra,
 
 k) a helyi önkormányzatok képviselő-testületének hivatalaira, a hatósági igazgatási társulásokra,
 
