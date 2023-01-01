@@ -1,5 +1,3 @@
-## 28. §
-
 ## 21. A külföldi szolgálatteljesítés sajátos szabályai
 
 29. § (1) A külföldi szolgálatteljesítés esetén a katasztrófavédelmi hivatásos állományút terhelő többletkötelezettségek teljesítése külön előmeneteli és anyagi elismeréssel jár.
