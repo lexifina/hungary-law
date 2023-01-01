@@ -14,13 +14,17 @@ c) a szerencsejáték-szervezés engedélyezésével, hatósági ellenőrzésév
 
 d) a felszámolói névjegyzék, valamint a felszámoló szervezetek más hatósági nyilvántartásainak vezetésével, a felszámolók egyes tevékenységeinek szabályozásával, a felszámolói szervezetrendszer feletti hatósági felügyelet és hatósági ellenőrzés gyakorlásával és szabályozásával
 
-e) az elektronikus információs rendszerek védelméhez szükséges poszt-kvantumtitkosítás alkalmazást nyújtó szervezetek nyilvántartásba vételével, valamint
+e) az elektronikus információs rendszerek védelméhez szükséges poszt-kvantumtitkosítás alkalmazást nyújtó szervezetek nyilvántartásba vételével,
 
-f) az elektronikus információs rendszerek védelméhez szükséges poszt-kvantumtitkosítás alkalmazást nyújtó szervezetek információbiztonsági tanúsítását végző szervezetek (a továbbiakban: tanúsító szervezet) nyilvántartásba vételével
+f) az elektronikus információs rendszerek védelméhez szükséges poszt-kvantumtitkosítás alkalmazást nyújtó szervezetek információbiztonsági tanúsítását végző szervezetek (a továbbiakban: tanúsító szervezet) nyilvántartásba vételével, valamint
+
+g) a szerkezetátalakítási szakértők hatósági nyilvántartásainak vezetésével, a bíróság általi kijelölésük és hivatalból történő kirendelésük során alkalmazott, a Hatóság által működtetett elektronikus, véletlenszerű kiválasztás elvét alkalmazó informatikai rendszer fejlesztésével és működtetésével, egyes tevékenységeik szabályozásával, a tevékenységük feletti hatósági felügyelet és hatósági ellenőrzés gyakorlásával és szabályozásával
 
 kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.
 
 (1a) A Hatóság a bányafelügyeleti és állami földtani feladatokat ellátó szerv.
+
+(1b) A Hatóság a hulladékgazdálkodási kártalanítással összefüggő hatósági feladatokat ellátó szerv.
 
 (2) A Hatóság ellátja az állam nevében lefolytatandó, koncessziós szerződés megkötésére irányuló eljárásokkal (a továbbiakban: koncessziós eljárás) és a koncessziós szerződésekkel kapcsolatos egyes, e törvényben meghatározott feladatokat.
 

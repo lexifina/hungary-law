@@ -8,9 +8,11 @@ b) a bírósági végrehajtásról szóló törvény,
 
 c) a szerencsejáték szervezéséről szóló törvény,
 
-d) a csődeljárásról és a felszámolási eljárásról szóló törvény, és
+d) a csődeljárásról és a felszámolási eljárásról szóló törvény,
 
-e) a bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.)
+e) a bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.), és
+
+f) a szerkezetátalakításról szóló törvény
 
 és az e törvények felhatalmazása alapján kiadott jogszabályok hatálya alá tartozó szervezetek, személyek ezen jogszabályok szerinti tevékenységének felügyeletét, valamint az e jogszabályokban meghatározott, a Hatóság feladat és hatáskörébe tartozó feladatokat.
 
@@ -37,3 +39,5 @@ g) előzetes egyetértési jogot gyakorol az állam nevében történő koncessz
 (5) A dohánytermékek nyomonkövethetőségi rendszerének létrehozására és működtetésére vonatkozó műszaki előírásokról szóló, 2017. december 15-i (EU) 2018/574 bizottsági végrehajtási rendelet (a továbbiakban: Végrehajtási Rendelet) 3. cikk (1) bekezdése szerinti azonosítókibocsátó a Hatóság. A Hatóság mint azonosítókibocsátó látja el a Végrehajtási Rendelet 9. cikke szerinti csomagolási egység szintű és 13. cikke szerinti gyűjtőcsomagolás szintű egyedi azonosító (a továbbiakban: egyedi azonosító) létrehozásával és kibocsátásával kapcsolatos feladatokat.
 
 (6) A Hatóság látja el az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) 22/B. § (1) bekezdés a) pontja szerinti nemzeti kiberbiztonsági tanúsító hatóság feladatait.
+
+(7) A Hatóság látja el a hulladékról szóló 2012. évi CLXXXV. törvény 92/H. § (2) és (5) bekezdésében meghatározott hulladékgazdálkodási kártalanítással összefüggő hatósági feladatokat.

@@ -18,7 +18,9 @@ f) felszámolás alatt álló jogi személyek vagyontárgyainak nyilvános ért�
 
 g) a 3. § (5) bekezdése szerinti azonosítókibocsátási tevékenységből származó bevétel, és
 
-h) az egyéb bevételek.
+h) a távszerencsejáték-szervezési díj, valamint
+
+i) az egyéb bevételek.
 
 (3) Az állam a Hatóságnak évente felügyeleti hozzájárulást fizet. A felügyeleti hozzájárulás éves mértéke az éves költségvetési törvényben a Hatóság tekintetében megállapított kiadási és bevételi előirányzat különbsége. A felügyeleti hozzájárulás összegét indexálni kell legalább a tárgyévet megelőző évi magyarországi fogyasztói árindex mértékével, azzal, hogy a tárgyévi felügyeleti hozzájárulás összege nem lehet kevesebb a tárgyévet megelőző év felügyeleti hozzájárulás összegénél.
 
