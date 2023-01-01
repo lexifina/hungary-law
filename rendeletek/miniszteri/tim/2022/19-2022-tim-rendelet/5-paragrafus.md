@@ -1,14 +1,12 @@
 5. § Hatályát veszti a Díjrendelet
 
-a)[^29]
+a) 8. § (3) bekezdése,
 
-b)[^30]
+b) 8. § (5) és (6) bekezdésében a „korrigált” szövegrész,
 
-c)[^31]
+c)[^26]
 
-d)[^32]
+d)[^27]
 
-[^29]: Az 5. § a) pontja a 6. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^30]: Az 5. § b) pontja a 6. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^31]: Az 5. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^32]: Az 5. § d) pontja a 2010. évi CXXX. törvény alapján hatályát vesztette.
+[^26]: Az 5. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: Az 5. § d) pontja a 2010. évi CXXX. törvény alapján hatályát vesztette.

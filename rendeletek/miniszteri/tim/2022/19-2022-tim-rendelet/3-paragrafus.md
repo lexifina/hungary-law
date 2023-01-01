@@ -4,35 +4,35 @@
 
 (2)[^8]
 
-(3)[^9]
+(3) A Díjrendelet 8. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-(4)[^10]
+„(4) A 2. mellékletben megállapított árat a NÚSZ Zrt. a honlapján közzéteszi.”
 
-(5)[^11]
+(4)[^9]
 
-(6)[^12]
+(5)[^10]
 
-(7)[^13]
+(6)[^11]
 
-(8)[^14]
+(7)[^12]
 
-(9)[^15]
+(8)[^13]
 
-(10)[^16]
+(9)[^14]
 
-(11)[^17]
+(10)[^15]
 
-(12)[^18]
+(11) A Díjrendelet 2. melléklete helyébe a 2. melléklet lép.
+
+(12)[^16]
 
 [^7]: A 3. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^8]: A 3. § (2) bekezdése a 6. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^9]: A 3. § (3) bekezdése a 6. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^10]: A 3. § (4) bekezdése a 6. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^11]: A 3. § (5) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 3. § (6) bekezdése a 2010. évi CXXX. törvény alapján hatályát vesztette.
-[^13]: A 3. § (7) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 3. § (8) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 3. § (9) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 3. § (10) bekezdése a 6. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^17]: A 3. § (11) bekezdése a 6. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^18]: A 3. § (12) bekezdése a 6. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^9]: A 3. § (4) bekezdése a 6. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^10]: A 3. § (5) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 3. § (6) bekezdése a 2010. évi CXXX. törvény alapján hatályát vesztette.
+[^12]: A 3. § (7) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 3. § (8) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 3. § (9) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 3. § (10) bekezdése a 6. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^16]: A 3. § (12) bekezdése a 6. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
