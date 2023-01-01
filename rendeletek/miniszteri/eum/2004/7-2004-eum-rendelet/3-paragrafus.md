@@ -20,7 +20,7 @@
 
 (9)[^10] A kontaktlencse forgalmazására jogosult szaküzlet kontaktlencsét internetes honlapon akkor forgalmazhat, ha a forgalmazó
 
-a)[^11] a szaküzlet honlapjának címét e tevékenység megkezdésekor írásban bejelenti a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal),
+a)[^11] a szaküzlet honlapjának címét e tevékenység megkezdésekor írásban bejelenti a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal),
 
 b) biztosítja, hogy interneten történő megrendelést a megrendelő vagy fogyasztó kizárólag a 3. számú mellékletben foglalt nyilatkozat megtételét követően kezdeményezhet.
 
@@ -34,5 +34,5 @@ b) biztosítja, hogy interneten történő megrendelést a megrendelő vagy fogy
 [^8]: A 3. § (7) bekezdését a 8/2008. (III. 4.) EüM rendelet 8. § (2) bekezdése iktatta be. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően benyújtott gyógyászati segédeszköz vények esetében kell alkalmazni.
 [^9]: A 3. § (8) bekezdését a 8/2008. (III. 4.) EüM rendelet 8. § (2) bekezdése iktatta be. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően benyújtott gyógyászati segédeszköz vények esetében kell alkalmazni.
 [^10]: A 3. § (9) bekezdését a 17/2012. (VIII. 29.) EMMI rendelet 1. § (2) bekezdése iktatta be.
-[^11]: A 3. § (9) bekezdés a) pontja a 11/2013. (II. 7.) EMMI rendelet 29. § a) pontja, az 54/2016. (XII. 30.) EMMI rendelet 34. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^11]: A 3. § (9) bekezdés a) pontja a 11/2013. (II. 7.) EMMI rendelet 29. § a) pontja, az 54/2016. (XII. 30.) EMMI rendelet 34. § (2) bekezdés a) pontja, a 45/2022. (XII. 20.) BM rendelet 31. §-a szerint módosított szöveg.
 [^12]: A 3. § (10) bekezdését a 17/2012. (VIII. 29.) EMMI rendelet 1. § (2) bekezdése iktatta be.

@@ -18,7 +18,7 @@ a) sorozatgyártású és javított gyógyászati segédeszközt,
 
 b) próbát, illetve adaptációt igénylő, illetőleg egyedi méretvétel alapján készült gyógyászati segédeszközt csak próba és betanítás lehetőségének biztosításával, végleges használat céljából
 
-## lehet.
+lehet.
 
 (6)[^15] A gyógyászati segédeszközök házhoz szállítását végző forgalmazó olyan nyilvántartást köteles vezetni, amely tartalmazza a megrendelés sorszámát, időpontját, a megrendelt eszköz nevét, mennyiségét, valamint az eszköz átvételének időpontját.
 
