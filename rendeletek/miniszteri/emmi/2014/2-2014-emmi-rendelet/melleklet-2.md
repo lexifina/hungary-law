@@ -2,25 +2,25 @@
 
 | 1. | Adatkör | Adatszolgáltató | Gyakoriság |
 
-| 2. | Az Eütv. 114. § (2) bekezdés a) pontja szerinti adatok | OKFŐ | folyamatos, a változást követően haladéktalanul |
+| 2. | Az Eütv. 114. § (2) bekezdés a) pontja szerinti adatok | OKFŐ[^13] | folyamatos, a változást követően haladéktalanul |
 
-| 3. | Az Eütv. 114. § (2) bekezdés b) pontja szerinti adatok | OKFŐ | havonta |
+| 3. | Az Eütv. 114. § (2) bekezdés b) pontja szerinti adatok | OKFŐ[^14] | havonta |
 
-| 4. | Az Eütv. 114. § (2) bekezdés c) pontja szerinti adatok | OKFŐ | havonta |
+| 4. | Az Eütv. 114. § (2) bekezdés c) pontja szerinti adatok | OKFŐ[^15] | havonta |
 
 | 5. | Az Eütv. 114. § (2) bekezdés d) pontja szerinti adatok | Oktatási Hivatal | félévente |
 
-| 6. | Az Eütv. 114. § (2) bekezdés e) pontja szerinti adatok | OKFŐ | havonta |
+| 6. | Az Eütv. 114. § (2) bekezdés e) pontja szerinti adatok | OKFŐ[^16] | havonta |
 
 | 7. | Az Eütv. 114. § (2) bekezdés f) pontja szerinti adatok | egyetemek | félévente |
 
 | 8. | Az Eütv. 114. § (2) bekezdés g) pontja szerinti adatok | egyetemek | félévente |
 
-| 9. | Az Eütv. 114. § (2) bekezdés h) pontja szerinti adatok közül az egészségügyi szakdolgozók továbbképzéseire vonatkozó adatok | OKFŐ | havonta |
+| 9. | Az Eütv. 114. § (2) bekezdés h) pontja szerinti adatok közül az egészségügyi szakdolgozók továbbképzéseire vonatkozó adatok | OKFŐ[^17] | havonta |
 
 | 10. | Az Eütv. 114. § (2) bekezdés h) pontja szerinti adatok közül az orvosok, fogorvosok és gyógyszerészek továbbképzéseire vonatkozó adatok | egyetemek | havonta |
 
-| 11. | Az Eütv. 114. § (2) bekezdés i) pontja szerinti adatok | OKFŐ | negyedévente |
+| 11. | Az Eütv. 114. § (2) bekezdés i) pontja szerinti adatok | OKFŐ[^18] | negyedévente |
 
 | 12. | Az Eütv. 114. § (2) bekezdés j) pontja szerinti adatok | Nemzeti Foglalkoztatási Szolgálat | havonta |
 
@@ -28,7 +28,7 @@
 
 | 14. | Az Eütv. 114. § (2) bekezdés k) pontja szerinti adatok | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | negyedévente |
 
-| 15. | Az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítésekhez kapcsolódó bér- és létszám-statisztikai adatok | OKFŐ | évente |
+| 15. | Az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítésekhez kapcsolódó bér- és létszám-statisztikai adatok | OKFŐ[^19] | évente |
 
 | 16. | Az adott évre vonatkozó Országos Statisztikai Adatgyűjtési Program keretében gyűjtött, az egyes egészségügyi szakképesítésekhez kapcsolódó egészségügyi állás- és létszámkimutatásra vonatkozó adatok | Központi Statisztikai Hivatal | évente |
 
@@ -101,3 +101,11 @@ Az éves beszámoló kötelező tartalma
 10. Összegzés és ajánlások
 
 11. Mellékletek
+
+[^13]: Az 1. mellékletben foglalt táblázat B:2 mezője az 52/2022. (XII. 27.) BM rendelet 29. § b) pontjával megállapított szöveg.
+[^14]: Az 1. mellékletben foglalt táblázat B:3 mezője az 52/2022. (XII. 27.) BM rendelet 29. § b) pontjával megállapított szöveg.
+[^15]: Az 1. mellékletben foglalt táblázat B:4 mezője az 52/2022. (XII. 27.) BM rendelet 29. § b) pontjával megállapított szöveg.
+[^16]: Az 1. mellékletben foglalt táblázat B:6 mezője az 52/2022. (XII. 27.) BM rendelet 29. § b) pontjával megállapított szöveg.
+[^17]: Az 1. mellékletben foglalt táblázat B:9 mezője az 52/2022. (XII. 27.) BM rendelet 29. § b) pontjával megállapított szöveg.
+[^18]: Az 1. mellékletben foglalt táblázat B:11 mezője az 52/2022. (XII. 27.) BM rendelet 29. § b) pontjával megállapított szöveg.
+[^19]: Az 1. mellékletben foglalt táblázat B:15 mezője az 52/2022. (XII. 27.) BM rendelet 29. § b) pontjával megállapított szöveg.
