@@ -1,12 +1,12 @@
 ## 3. A megújuló forrásokból előállított villamos energia bruttó végső fogyasztásának meghatározása
 
-3. § (1)[^8] A megújuló forrásokból előállított villamos energia bruttó végső fogyasztása a megújuló forrásból Magyarország területén – a termelő-fogyasztók és a megújulóenergia-közösségek által termelt villamos energiát is magában foglaló – megtermelt villamos energia mennyiségének felel meg, amelynek kiszámításánál nem vehető figyelembe az országban a korábban felszivattyúzott vizet használó szivattyús energiatárolók által újratermelt villamos energia.
+3. § (1)[^9] A megújuló forrásokból előállított villamos energia bruttó végső fogyasztása a megújuló forrásból Magyarország területén – a termelő-fogyasztók és a megújulóenergia-közösségek által termelt villamos energiát is magában foglaló – megtermelt villamos energia mennyiségének felel meg, amelynek kiszámításánál nem vehető figyelembe az országban a korábban felszivattyúzott vizet használó szivattyús energiatárolók által újratermelt villamos energia.
 
 (2) A megújuló forrásokból előállított villamos energia bruttó végső fogyasztásának meghatározása során a víz- és szélenergiával termelt villamos energia országosan felhasznált mennyiségét a 2. mellékletben megállapított normalizálási szabálynak megfelelően kell kiszámítani.
 
 (3) A megújuló forrásokból előállított villamos energia bruttó végső fogyasztásához hozzá kell számítani azt az energia mennyiséget, amely a harmadik államokkal történő közös beruházásokkal kapcsolatos együttműködés alapján, a (4)–(6) bekezdésben meghatározottak szerint, Magyarország nemzeti célértékének a meghatározása során figyelembe vehető.
 
-(4)[^9] Harmadik állammal történő közös beruházásokra irányuló megállapodás esetében a megújuló forrásokból harmadik államban előállított villamos energiát abban az esetben kell Magyarország nemzeti célértékének a meghatározása során figyelembe venni, ha
+(4)[^10] Harmadik állammal történő közös beruházásokra irányuló megállapodás esetében a megújuló forrásokból harmadik államban előállított villamos energiát abban az esetben kell Magyarország nemzeti célértékének a meghatározása során figyelembe venni, ha
 
 a) a villamos energiát az Európai Unióban használják fel az (5) bekezdésben meghatározottak szerint;
 
@@ -26,9 +26,9 @@ c) a hozzárendelt kapacitás és a (4) bekezdés b) pontja szerinti létesítm�
 
 (6) Magyarország és harmadik államok közötti rendszerösszekötő vezeték létesítése esetén a harmadik államokban előállított és felhasznált villamos energia a megújuló forrásból előállított energia bruttó végső fogyasztásának a meghatározása során akkor vehető figyelembe Magyarországon, ha:
 
-a)[^10] a rendszerösszekötő vezeték építése, amely a VET szerinti hálózatfejlesztési terv részeként kerül megépítésre, 2026. december 31-ig megkezdődik;
+a)[^11] a rendszerösszekötő vezeték építése, amely a VET szerinti hálózatfejlesztési terv részeként kerül megépítésre, 2026. december 31-ig megkezdődik;
 
-b)[^11] a rendszerösszekötő vezetéket 2030. december 31-ig nem lehet üzembe helyezni, de 2032. december 31-ig a rendszerösszekötő vezeték üzembe helyezhető;
+b)[^12] a rendszerösszekötő vezetéket 2030. december 31-ig nem lehet üzembe helyezni, de 2032. december 31-ig a rendszerösszekötő vezeték üzembe helyezhető;
 
 c) az üzembe helyezést követően a rendszerösszekötő vezeték a 3. § (4) bekezdésnek megfelelően a megújuló forrásokból előállított villamos energia Európai Unióban történő exportjára szolgál; és
 
@@ -36,7 +36,7 @@ d) a közös beruházásra irányuló együttműködés a 3. § (4) bekezdés b)
 
 (7) A (6) bekezdés szerinti feltételek teljesülését az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) bejelenti az Európai Bizottságnak.
 
-[^8]: A 3. § (1) bekezdése a 67/2021. (XII. 30.) ITM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^9]: A 3. § (4) bekezdése a 67/2021. (XII. 30.) ITM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^10]: A 3. § (6) bekezdés a) pontja a 67/2021. (XII. 30.) ITM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^11]: A 3. § (6) bekezdés b) pontja a 67/2021. (XII. 30.) ITM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^9]: A 3. § (1) bekezdése a 67/2021. (XII. 30.) ITM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (4) bekezdése a 67/2021. (XII. 30.) ITM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^11]: A 3. § (6) bekezdés a) pontja a 67/2021. (XII. 30.) ITM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^12]: A 3. § (6) bekezdés b) pontja a 67/2021. (XII. 30.) ITM rendelet 2. § (3) bekezdésével megállapított szöveg.

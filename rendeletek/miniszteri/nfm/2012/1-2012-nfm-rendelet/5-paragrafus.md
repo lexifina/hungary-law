@@ -1,6 +1,6 @@
 ## 5. A közlekedés valamennyi formájában felhasznált, megújuló forrásokból előállított energia mennyisége
 
-5. §[^13] (1) A közlekedés valamennyi formájában felhasznált, megújuló forrásokból előállított energia mennyiségét a bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok fenntarthatósági követelményeiről és igazolásáról szóló kormányrendelet (a továbbiakban: Korm. rendelet) rendelkezései mellett a (2)–(6) bekezdés figyelembevételével kell meghatározni.
+5. §[^14] (1) A közlekedés valamennyi formájában felhasznált, megújuló forrásokból előállított energia mennyiségét a bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok fenntarthatósági követelményeiről és igazolásáról szóló kormányrendelet (a továbbiakban: Korm. rendelet) rendelkezései mellett a (2)–(6) bekezdés figyelembevételével kell meghatározni.
 
 (2) A közlekedési ágazatban a megújuló forrásokból előállított energia teljes fogyasztását a közlekedési célú bioüzemanyagok, biomasszából előállított tüzelőanyagok és nem biológiai eredetű, megújuló energiaforrásokból származó, folyékony vagy gáznemű, közlekedési célú üzemanyagok összegeként kell kiszámítani.
 
@@ -14,4 +14,4 @@
 
 (7) A közlekedés valamennyi formájában felhasznált, megújuló forrásokból előállított energia mennyiségének meghatározása során figyelembe kell venni az Európai Bizottság által elfogadott módszertant a megújuló forrásokból származó hidrogénnek az üzemanyagok teljes összetételében képviselt arányának kiszámítására vonatkozóan.
 
-[^13]: Az 5. § a 67/2021. (XII. 30.) ITM rendelet 4. §-ával megállapított szöveg.
+[^14]: Az 5. § a 67/2021. (XII. 30.) ITM rendelet 4. §-ával megállapított szöveg.

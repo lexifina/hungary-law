@@ -1,5 +1,3 @@
-## Nemzeti célértékek a megújuló forrásokból előállított energiának a 2020. évi teljes bruttó energiafogyasztásban képviselt részarányára
-
 ## Nemzeti átfogó célérték
 
 |  | A | B | C |

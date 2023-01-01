@@ -18,7 +18,7 @@ b) a megújuló forrásokból Magyarország területén előállított villamos 
 
 c) közös támogatási rendszerekre vonatkozó megállapodás esetében Magyarország területén megújuló forrásokból előállított energia azon mennyisége, amelyet statisztikai átruházás keretében egy másik tagállamra ruháztak, vagy, ha azt kölcsönösen elismert elosztási szabály alapján a másik tagállam területén kell figyelembe venni;
 
-d)[^7] a gabonafélékből és egyéb, keményítőben gazdag növényekből, cukor-, illetve olajnövényekből, valamint elsősorban energiakinyerés céljából mezőgazdasági területen fő terményként termesztett növényekből előállított bioüzemanyagok és folyékony bio-energiahordozók felhasználásának a Magyarországon közlekedési célra felhasznált végső energiafogyasztás 7%-ának megfelelő energiamennyiséget meghaladó része.
+d)[^8] a gabonafélékből és egyéb, keményítőben gazdag növényekből, cukor-, illetve olajnövényekből, valamint elsősorban energiakinyerés céljából mezőgazdasági területen fő terményként termesztett növényekből előállított bioüzemanyagok és folyékony bio-energiahordozók felhasználásának a Magyarországon közlekedési célra felhasznált végső energiafogyasztás 7%-ának megfelelő energiamennyiséget meghaladó része.
 
 (3) A megújuló forrásokból előállított energia bruttó végső fogyasztásának kiszámítása során figyelembe kell venni:
 
@@ -30,4 +30,4 @@ c) közös támogatási rendszerekre vonatkozó megállapodás esetében másik 
 
 (4) A többféle tüzelőanyaggal működő, megújuló és hagyományos energiaforrásokat hasznosító technológiai berendezésekben csak a megújuló forrásokból termelt villamos energia, fűtési és hűtési célú energia vehető figyelembe. Az egyes energiaforrások részesedését energiatartalmuk alapján kell kiszámítani.
 
-[^7]: A 2. § (2) bekezdés d) pontját a 40/2017. (X. 9.) NFM rendelet 1. §-a iktatta be.
+[^8]: A 2. § (2) bekezdés d) pontját a 40/2017. (X. 9.) NFM rendelet 1. §-a iktatta be.
