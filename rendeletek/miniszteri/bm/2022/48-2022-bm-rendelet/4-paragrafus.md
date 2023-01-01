@@ -1,0 +1,3 @@
+## 4. A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet módosítása
+
+4. § A gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásáról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló 14/2007. (III. 14.) EüM rendelet 1. számú melléklet 11.1. pontjában, 2. számú melléklet 11.1. pontjában, 3. számú melléklet 11.1. pontjában, 4. számú melléklet 11.1. pontjában, 5. számú melléklet 10.1. pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
