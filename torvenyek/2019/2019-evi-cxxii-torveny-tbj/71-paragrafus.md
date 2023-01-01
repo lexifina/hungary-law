@@ -10,15 +10,13 @@
 
 (6) Ha az állami adó- és vámhatóság az (5) bekezdésben foglaltakról nem az egészségbiztosítási szervtől értesül, azonnal elektronikus úton adatot szolgáltat az Egészségbiztosítási Alap kezeléséért felelős szerv részére.
 
-(7) Az állami adó- és vámhatóság kérelemre, visszamenőleges hatállyal törli a külföldön élő kötelezett személy 43. § szerinti járulékfizetési kötelezettségét, ha a magánszemély hitelt érdemlően igazolja (különösen a tartózkodást, illetve az egészségbiztosítási jogviszonyt igazoló okirattal), hogy
+(7) Az állami adó- és vámhatóság kérelemre, visszamenőleges hatállyal törli a külföldön élő kötelezett személy 43. § szerinti járulékfizetési kötelezettségét, ha a magánszemély hitelt érdemlően – különösen a tartózkodást, illetve az egészségbiztosítási jogviszonyt igazoló okirattal – igazolja, hogy
 
 a) huzamos ideje, életvitelszerűen Magyarország területén kívül tartózkodik, és
 
 b) a tartózkodási helye jogszabályai szerinti egészségbiztosítási rendszer hatálya alatt áll.
 
-Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, annak időszakáról és az érintett személy adatairól soron kívül értesíti az érintett személy lakóhelye szerint illetékes egészségbiztosítási szervet a (8) bekezdésben részletezett eljáráshoz. A törlésből eredő túlfizetés csak akkor visszaigényelhető, ha az egészségbiztosítási szervnél a kötelezésre nem került sor, vagy a kötelezés alapján fizetendő díj igazoltan rendezésre került.
-
-Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, annak időszakáról és az érintett személy adatairól soron kívül értesíti az érintett személy lakóhelye szerint illetékes egészségbiztosítási szervet a (8) bekezdésben részletezett eljáráshoz. A törlésből eredő túlfizetés csak akkor visszaigényelhető, ha az egészségbiztosítási szervnél a kötelezésre nem került sor, vagy a kötelezés alapján fizetendő díj igazoltan rendezésre került.
+Az állami adó- és vámhatóság a visszamenőleges hatályú törlésről, annak időszakáról és az érintett személy adatairól soron kívül értesíti az érintett személy lakóhelye szerint illetékes egészségbiztosítási szervet a (8) bekezdésben részletezett eljáráshoz. A törlésből eredő túlfizetés csak akkor visszaigényelhető, ha az egészségbiztosítási szervnél a kötelezésre nem került sor, vagy a kötelezés alapján fizetendő díj igazoltan rendezésre került. Az egészségbiztosítási szerv az adatszolgáltatás alapján a külföldön élő kötelezett személy TAJ számát érvényteleníti és a külföldi biztosításra tekintettel az egészségügyi szolgáltatási járulékfizetési kötelezettséget nyilvántartásában zárja.
 
 (8) Ha egészségügyi szolgáltatás igénybevételére került sor a (7) bekezdésben foglalt időszak alatt, akkor a természetes személy köteles az egészségügyi szolgáltatás Egészségbiztosítási Alapot terhelő költségeit megtéríteni. Az igénybe vett egészségügyi szolgáltatás Egészségbiztosítási Alapot terhelő költségeinek megfizetésére az egészségbiztosítási szerv kötelezi a természetes személyt a közfinanszírozott szolgáltatótól beérkezett teljesítményjelentés alapján. Ha a kötelezett önként nem téríti meg a költségeket, a követelést az egészségbiztosítási szerv az állami adó- és vámhatóságnak adók módjára behajtandó köztartozásként átadja.
 

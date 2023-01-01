@@ -1,6 +1,6 @@
 57. § (1) A Kincstár központi szerve vezeti az egészségügyi és egészségbiztosítási, a nyugdíjbiztosítási, a családtámogatási, a gyermekvédelmi, a szociális és a kapcsolódó nyilvántartások azonosító kódjaként alkalmazandó TAJ számmal rendelkező természetes személyek nyilvántartását (a továbbiakban: TAJ nyilvántartás), és jogszabályban meghatározottak szerint ellátja a TAJ szám képzésével kapcsolatos feladatokat.
 
-(2) A TAJ nyilvántartásban az egészségügyi és egészségbiztosítási, a nyugdíjbiztosítási, a családtámogatási, a gyermekvédelmi, a munkanélküli és a szociális ellátásokhoz, szolgáltatásokhoz kapcsolódó nyilvántartási feladatok ellátása és a hatósági ügyintézés során történő felhasználás és azonosítás céljából nyilván kell tartani a TAJ számmal rendelkező természetes személyre vonatkozó alábbi adatokat:
+(2) A TAJ nyilvántartásban az egészségügyi és egészségbiztosítási, a nyugdíjbiztosítási, a családtámogatási, a gyermekvédelmi, az álláskeresési és a szociális ellátásokhoz, szolgáltatásokhoz kapcsolódó nyilvántartási feladatok ellátása és a hatósági ügyintézés során történő felhasználás és azonosítás céljából nyilván kell tartani a TAJ számmal rendelkező természetes személyre vonatkozó alábbi adatokat:
 
 a) TAJ szám,
 

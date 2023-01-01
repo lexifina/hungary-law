@@ -8,7 +8,7 @@ c) a munkaügyi és szociális igazgatás szervei az ellátás megállapítása,
 
 d) az egészségügyi ellátást nyújtó szervek (személyek) az egészségügyi szolgáltatói feladataik ellátása érdekében a 60. § (1) bekezdés a)–e) és g) pontja szerinti,
 
-e) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalai (a továbbiakban: járási hivatal) és a cégbíróságok külön törvényben meghatározottak szerinti,
+e) a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalai (a továbbiakban: járási hivatal) és a cégbíróságok külön törvényben meghatározottak szerinti,
 
 f) a menekültügyi hatóság az ellátások és támogatások megállapítása, folyósítása és a jogosultság ellenőrzése céljából a 60. § (1) bekezdés a), d) és f) pontja szerinti,
 
