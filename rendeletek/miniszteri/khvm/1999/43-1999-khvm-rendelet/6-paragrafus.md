@@ -6,7 +6,7 @@ b) a környezeti hatás tekintetében az 1. mellékletben meghatározott osztál
 
 c) a gazdasági és szociális hatások tekintetében az 1. mellékletben meghatározott vízhasználat jellegéhez rendelt „g” szorzószámot
 
-## kell figyelembe venni.
+kell figyelembe venni.
 
 (2)–(4)[^16]
 

@@ -2,7 +2,7 @@
 
 1. melléklet a 43/1999. (XII. 26.) KHVM rendelethez[^31]
 
-## A vízkészletjárulék mértéke
+A vízkészletjárulék mértéke
 
 1. A VKJ kiszámításának szabálya: VKJ = „V” (m3) X „A” (Ft/m3) X „m” X „t” X „g”.
 
@@ -25,6 +25,8 @@ db) felszíni vízkivételnél a mennyiségi okokra visszavezethetően a jónál
 dc) felszín alatti vízkivételnél a mennyiségi szempontból gyenge állapotú és a „jó, de gyenge kockázata” minősítés esetében a partiszűrésű vízkészletből történő vízhasználatok esetében: 1,0.
 
 e) Az alapjárulékot a vízhasználat és a vízkészlet jellegétől függően a „g” szorzószám módosítja. A „g” szorzószám értékei a következők:
+
+## 6K10334_0
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 

@@ -1,12 +1,12 @@
 2. melléklet a 43/1999. (XII. 26.) KHVM rendelethez[^32]
 
-## A VKJ kiszámításának szempontjából:
+A VKJ kiszámításának szempontjából:
 
 1. gazdasági célú vízhasználat: az ipari, mezőgazdasági, kereskedelmi és egyéb gazdasági, szolgáltatási tevékenységgel összefüggő teljes vízhasználat, beleértve a foglalkoztatottak szociális vízigényét is, a gyógyvizeknek nem minősülő ásványvizek palackozását. Ezen belül:
 
 1.1. állattartó telepi vízhasználat: üzemi körülmények között végzett állattartás vízigényének kielégítése,
 
-1.2. ivóvízhasználat: annál a tevékenységnél jelentkező vízhasználat, ahol a közegészségügyi előírások alapján a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala a technológiai vízhasznosítás több mint 50%-ára vonatkozóan kötelezően előírja az ivóvízminőség használatát, ideértve a gyógyvíznek minősülő ásványvizek palackozását is,
+1.2.[^33] ivóvízhasználat: annál a tevékenységnél jelentkező vízhasználat, ahol a közegészségügyi előírások alapján a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala a technológiai vízhasznosítás több mint 50%-ára vonatkozóan kötelezően előírja az ivóvízminőség használatát, ideértve a gyógyvíznek minősülő ásványvizek palackozását is,
 
 1.3. egyéb vízhasználat: minden más, a gazdasági célú vízhasználat jellegek között az 1. számú melléklet 1. pont e) alpontjában szereplő táblázatban külön nem nevesített gazdasági célú vízhasználat,
 
@@ -35,3 +35,4 @@
 7. vízkészlet: meghatározott helyen, térrészben, adott időpontban vagy időszakban mérhető, vagy különféle feltételekkel meghatározható vízmennyiség (m3), vagy időegység alatti vízforgalom (m3/év, m3/s stb.).
 
 [^32]: A 2. melléklet szövegét megállapította és megjelölését 2. mellékletre változtatta a 34/2016. (VIII. 2.) BM rendelet 9. § (2) bekezdése.
+[^33]: A 2. melléklet 1. pont 1.2. alpontja az 54/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
