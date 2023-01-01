@@ -1,5 +1,3 @@
-## 6. §[^5]
-
 ## 5. A zöld prémium és kötelező átvétel típusú támogatás megállapításának keretei
 
 7. § (1)[^6] A támogatási mértékeket a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) azokra az évekre vonatkozóan határozza meg, amelyekre a megújuló energiaforrásból származó villamos energia termelési támogatás korlátairól és a prémium típusú támogatásra irányuló pályázati eljárásról szóló 62/2016. (XII. 28.) NFM rendelet (a továbbiakban: NFM rendelet) 1. melléklet 1. és 2. táblázatában a kiosztható új támogatási jogosultságok korlátai nulla forintnál nagyobbak.
@@ -28,11 +26,11 @@ b) támogatási kérelme az NFM rendeletben megállapított korlátok miatt elut
 
 (8) A kötelező átvétel vagy a prémium típusú támogatás megállapításakor a Hivatal az energiapolitikáért felelős miniszter által rendeletben megállapított korlátok között jár el.
 
-(9) A Hivatal az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 18/A–18/D. §-ának megfelelően adatot szolgáltat a Támogatásokat Vizsgáló Iroda részére az 500 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásokról.
+(9)[^9] A Hivatal az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 18/A–18/D. §-ának megfelelően adatot szolgáltat a Támogatásokat Vizsgáló Iroda részére az 100 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásokról.
 
 (10) A (9) bekezdéshez kapcsolódóan a támogatástartalmat a 4. melléklet szerinti képletnek megfelelően kell megállapítani.
 
-[^5]: A 6. §-t a 18/2019. (XII. 23.) MEKH rendelet 5. § a) pontja hatályon kívül helyezte.
 [^6]: A 7. § (1) bekezdése a 18/2019. (XII. 23.) MEKH rendelet 2. §-ával megállapított szöveg.
 [^7]: A 7. § (2) bekezdése a 18/2019. (XII. 23.) MEKH rendelet 2. §-ával megállapított szöveg.
 [^8]: A 7. § (2a) bekezdését a 18/2019. (XII. 23.) MEKH rendelet 3. §-a iktatta be.
+[^9]: A 7. § (9) bekezdése a 15/2022. (XII. 15.) MEKH rendelet 1. §-a szerint módosított szöveg.

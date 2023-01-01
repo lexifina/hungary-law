@@ -4,9 +4,9 @@
 
 (2) A barna prémiummal támogatott villamosenergia-mennyiségre vonatkozó egyéb működési támogatás igénybevétele esetén a 7. mellékletben szereplő támogatott árakat vagy prémiumokat az adott évben kapott egyéb működési támogatás adott évi támogatott mennyiségre jutó fajlagos értékével csökkenteni kell.
 
-(2a)[^9] Ha az egyéb működési támogatás mértékét a barna prémium mértékének megállapítását követően, arra figyelemmel állapítják meg, ezt a villamosenergia-termelő 8 napon belül bejelenti a Hivatal részére, a barna prémium mértékének utólagos módosítása nem szükséges.
+(2a)[^10] Ha az egyéb működési támogatás mértékét a barna prémium mértékének megállapítását követően, arra figyelemmel állapítják meg, ezt a villamosenergia-termelő 8 napon belül bejelenti a Hivatal részére, a barna prémium mértékének utólagos módosítása nem szükséges.
 
-(2b)[^10] Ha az igénybe vett egyéb működési támogatás mértékének változása a tárgyév kezdetét követően jut a Hivatal tudomására, akkor a Hivatal erre vonatkozó határozata alapján a villamosenergia-termelő és a Metár rendelet szerinti befogadó egy összegben számolják el egymással a barna prémiumnak az igénybe vett egyéb működési támogatás változásából adódó módosulását.
+(2b)[^11] Ha az igénybe vett egyéb működési támogatás mértékének változása a tárgyév kezdetét követően jut a Hivatal tudomására, akkor a Hivatal erre vonatkozó határozata alapján a villamosenergia-termelő és a Metár rendelet szerinti befogadó egy összegben számolják el egymással a barna prémiumnak az igénybe vett egyéb működési támogatás változásából adódó módosulását.
 
 (3) A 7. mellékletben nem szereplő esetekre a Hivatal egyedi határozatban állapítja meg a támogatott ár – alternatív barna prémium esetén a barna prémium – mértékét a 8. § és 12. §, valamint a 8. és 9. melléklet szerinti számítási módszertan alapján. Ennek során a Hivatal a kérelmező üzleti tervét veszi alapul, de azon indokoltsági vizsgálatot végez a felhasznált energiaforrás, a névleges teljesítőképesség, a technológiai sajátosságok, az észszerű telephelyválasztás, a legkisebb költség elve és a legjobb elérhető technológia alapján megvalósított és működtetett beruházások (hazai és nemzetközi) adatainak figyelembevételével. A kérelmező üzleti tervétől való eltéréseket a Hivatal a határozatában indokolja.
 
@@ -18,5 +18,5 @@
 
 (7) A barna prémium típusú támogatás megállapításakor a Hivatal az energiapolitikáért felelős miniszter által rendeletben megállapított korlátok között jár el.
 
-[^9]: A 11. § (2a) bekezdését az 1/2022. (II. 10.) MEKH rendelet 1. §-a iktatta be.
-[^10]: A 11. § (2b) bekezdését az 1/2022. (II. 10.) MEKH rendelet 1. §-a iktatta be.
+[^10]: A 11. § (2a) bekezdését az 1/2022. (II. 10.) MEKH rendelet 1. §-a iktatta be.
+[^11]: A 11. § (2b) bekezdését az 1/2022. (II. 10.) MEKH rendelet 1. §-a iktatta be.

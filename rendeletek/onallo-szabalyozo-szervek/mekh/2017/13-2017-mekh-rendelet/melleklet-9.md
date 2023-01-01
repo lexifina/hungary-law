@@ -1,5 +1,3 @@
-## A barna prémium esetén alkalmazandó támogatott ár kiszámítása
-
 ## A barna prémium esetén alkalmazandó támogatott árat az alábbi képlet segítségével kell meghatározni:
 
 ## Ahol:
@@ -15,3 +13,5 @@
 ## A többi jelölés magyarázata az 5. mellékletben szereplő magyarázatokkal egyezik meg.
 
 9. melléklet a 13/2017. (XI. 8.) MEKH rendelethez
+
+Az alternatív barna prémium kiszámítása

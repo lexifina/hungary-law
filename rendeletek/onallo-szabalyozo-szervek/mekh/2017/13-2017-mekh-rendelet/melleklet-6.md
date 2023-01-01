@@ -1,5 +1,3 @@
-## A kötelező átvétel és a zöld prémium támogatási időtartamának meghatározása
-
 ## A kötelező átvétel és a zöld prémium támogatási időtartamát az alábbi képlet segítségével kell kiszámolni:
 
 ## ahol:
@@ -27,3 +25,5 @@
 ## A „0.” év a beruházás megkezdésének éve.
 
 6. melléklet a 13/2017. (XI. 8.) MEKH rendelethez
+
+Az n-edik évre vonatkozó maradványérték meghatározása

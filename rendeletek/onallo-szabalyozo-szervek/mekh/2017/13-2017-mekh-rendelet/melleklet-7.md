@@ -1,19 +1,15 @@
-## Az n-edik évre vonatkozó maradványérték meghatározása
-
 ## Az n-edik évre vonatkozó maradványértéket az alábbi képlet segítségével kell meghatározni:
 
 ## ahol
 
 ## A jelölések az 5. mellékletben alkalmazott jelölésekkel egyeznek meg, de értéküket a piaci villamosenergia-értékesítést figyelembe véve kell meghatározni. Az „ÉT” az adott termelőegység figyelembe vett élettartamát jelöli (de legfeljebb 25 év).
 
-7. melléklet a 13/2017. (XI. 8.) MEKH rendelethez[^15]
+7. melléklet a 13/2017. (XI. 8.) MEKH rendelethez[^16]
 
-## A barna prémium keretében adott támogatás mértéke
+A barna prémium keretében adott támogatás mértéke
 
-1. Biogázból (ide nem értve a hulladéklerakóból származó gázt és a szennyvízkezelő létesítményben előállított gázt) előállított villamos energia támogatott ára: 31,10 Ft/kWh.
+1. Biogázból (ide nem értve a hulladéklerakóból származó gázt és a szennyvízkezelő létesítményben előállított gázt) előállított villamos energia támogatott ára: 35,45 Ft/kWh.
 
-2. Hulladéklerakóból származó gázból és a szennyvízkezelő létesítményben előállított gázból előállított villamos energia támogatott ára: 18,62 Ft/kWh.
+2. Hulladéklerakóból származó gázból és a szennyvízkezelő létesítményben előállított gázból előállított villamos energia támogatott ára: 21,23 Ft/kWh.
 
-Az 1. és 2. pont szerinti támogatási mértékek nem vonatkoznak az alternatív barna prémium esetére.
-
-[^15]: A 7. melléklet a 16/2021. (XII. 8.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^16]: A 7. melléklet a 15/2022. (XII. 15.) MEKH rendelet 2. §-ával megállapított szöveg.
