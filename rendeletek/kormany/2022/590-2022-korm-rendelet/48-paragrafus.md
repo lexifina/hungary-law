@@ -1,0 +1,3 @@
+48. § (1) A nem költségvetési szervként működő közszféra szervezet kedvezményezett részére a 47. § szerinti önerő akkor téríthető meg, ha a megtérülő projektköltségre eső bevétel nem a közszféra szervezet kedvezményezettnél, hanem a központi költségvetés bevételeként jelenik meg.
+
+(2) Az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettség megvalósítását szolgáló szennyvízelvezetési és -tisztítási, szennyvízkezelési, ivóvízminőség-javító és hulladékgazdálkodási tárgyú kiemelt projektek végrehajtásához kapcsolódóan a 47. § szerinti önerő a közszféra szervezet kedvezményezett részére megtérítendő.

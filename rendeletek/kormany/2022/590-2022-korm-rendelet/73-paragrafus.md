@@ -1,0 +1,15 @@
+## VI. Fejezet
+
+## A FEJEZET ELŐIRÁNYZATAINAK KEZELŐ SZERVI KIJELÖLÉSEI
+
+73. § (1) Központi és fejezeti kezelésű előirányzatonként az 1. melléklet szerinti kezelő szervek kerülnek kijelölésre.
+
+(2) A kezelő szerv – ha nincs kijelölve kezelő szerv, a kötelezettségvállaló – ellátja
+
+a) a havi és éves szintű költségvetési tervezési, valamint
+
+b) a fejezeti likviditás biztosításához, az előirányzatok felhasználásához felhasználási terv, a havi időközi költségvetési jelentések, a negyedéves mérlegjelentések, az éves költségvetési beszámoló, a zárszámadás és a maradvány-felülvizsgálat elkészítéséhez kapcsolódó adatszolgáltatási
+
+feladatokat.
+
+(3) A fejezetet irányító szerv a fejezetbe tartozó fejezeti és központi kezelésű előirányzatok kezelésével és felhasználásával kapcsolatos, e rendelet által nem szabályozott kérdések vonatkozásában központi szabályzatokat ad ki, amelyeket a www.palyazat.gov.hu honlapon is megjelentet.

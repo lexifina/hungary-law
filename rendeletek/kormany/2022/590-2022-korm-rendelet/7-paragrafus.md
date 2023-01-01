@@ -1,0 +1,1 @@
+7. § A támogatói okirat visszavonása, a támogatási vagy közvetítői szerződéstől való elállás vagy a támogatás egyéb okból történő visszafizetése esetén megfizetett kamat annak a fejezeti kezelésű előirányzatnak a céljával megegyezően használható fel, amelyből a támogatás nyújtására sor került.
