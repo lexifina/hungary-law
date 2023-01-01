@@ -6,6 +6,24 @@ b) a 35/A–35/C. §-ban meghatározott feladatokat,
 
 c) a Vtv. 28. § (1) bekezdésében meghatározott feladatokat.
 
+d) az országos, elővárosi és regionális személyszállítási közszolgáltatásokkal felmerülő jegy- és bérletértékesítéssel, a bevételek beszedésével kapcsolatos feladatokat,
+
+e) a b) pontban meghatározott bevételekhez kapcsolódó szociálpolitikai menetdíj-támogatás igénybevételével kapcsolatos feladatokat,
+
+f) az országos, elővárosi és regionális személyszállítási közszolgáltatásokkal felmerülő jegy- és bérletellenőrzési feladatokat, amelyek végrehajtásába a közszolgáltatókat is bevonhatja,
+
+g) az országos, elővárosi és regionális személyszállítási közszolgáltatásokkal felmerülő utastájékoztatási feladatokat, amelyek végrehajtásába a közszolgáltatókat is bevonhatja,
+
+h) az országos, elővárosi és regionális személyszállítási közszolgáltatások, valamint pályaműködtetési szolgáltatások arculati, utastájékoztatási, utaskapcsolati és utaskezelési szabályait,
+
+i) a menetrend megtartását kizáró, előre nem látható esemény esetére a menetrendi és utastájékoztatási intézkedések rendjének meghatározását,
+
+j) a megrendelt közszolgáltatás teljesítése során jelentkező zavarok elhárítása és a rendkívüli igények teljesítése céljából az operatív lebonyolítás módját, az alkalmazandó intézkedések meghatározását, amely végrehajtását a közlekedési szolgáltató csak abban az esetben tagadhatja meg, ha a rendelkezés az emberi életet, egészséget vagy a vasútüzem biztonságát sérti vagy veszélyezteti,
+
+k) a Vtv. 3/B. § (8) bekezdésében és 67/P. §-ában meghatározott feladatokat,
+
+l) az országos, elővárosi, regionális autóbusszal végzett személyszállítási közszolgáltatással érintett közvetett vagy közvetlen állami tulajdonban álló autóbuszpályaudvarok fenntartásával és működtetésével kapcsolatos feladatokat, ideértve a hozzáférés biztosításával kapcsolatos tevékenységeket is.
+
 (2) Az országos közlekedésszervező a közlekedésszervezői feladat ellátásának finanszírozásával, valamint a 21. § (2a) bekezdésében foglaltaknak az országos közlekedésszervező gazdálkodási felügyeletével, bevételeinek és indokolt költségeinek elszámolásával összefüggő részletes szabályait a miniszter és az országos közlekedésszervező között az államháztartásért felelős miniszter egyetértésével 20 évre kötött közfeladatellátási szerződés tartalmazza.
 
 (3) A (2) bekezdésben meghatározott közfeladatellátási szerződés – éves gördülőtervezéssel történő felülvizsgálat mellett – legalább 3 éves, ha a közfeladatellátási szerződés ennél rövidebb időre szól, akkor a közfeladatellátási szerződés időbeli hatályával megegyező időszakra vonatkozó éven túli kötelezettségvállalásként – keret jelleggel – tartalmazza az országos közlekedésszervező által biztosítandó személyszállítási közszolgáltatások, valamint pályaműködtetési szolgáltatások

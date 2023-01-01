@@ -4,13 +4,13 @@
 
 a) adott település és a a járásközpont vagy gyakorlatban kialakult vonzásközpont közötti közvetlen eljutási lehetőséget,
 
-b) adott település és annak megyeszékhelye közötti, legfeljebb egy átszállással történő elérési lehetőséget,
+b) adott település és annak vármegyeszékhelye közötti, legfeljebb egy átszállással történő elérési lehetőséget,
 
 c) az adott település és a főváros közötti legfeljebb két átszállással történő eljutási lehetőséget,
 
-d) a szomszédos megyeszékhelyek közötti közvetlen eljutási lehetőséget, valamint
+d) a szomszédos vármegyeszékhelyek közötti közvetlen eljutási lehetőséget, valamint
 
-e) a főváros és a megyeszékhelyek közötti közvetlen eljutási lehetőséget.
+e) a főváros és a vármegyeszékhelyek közötti közvetlen eljutási lehetőséget.
 
 (3) Amennyiben az infrastrukturális adottságok lehetővé teszik – és az adott település közösségi közlekedési rendszere kizárólag országos, regionális vagy elővárosi menetrendszerinti autóbuszos vagy vasúti személyszállítási szolgáltatás révén biztosított – a (2) bekezdésben meghatározott viszonylatokban nyújtott alapellátás településenként napi 3 – a települési önkormányzattal az egységes egyeztetési eljárás keretében történő egyeztetések eredményének figyelembevételével kialakított menetrendi fekvésű – járatpár.
 

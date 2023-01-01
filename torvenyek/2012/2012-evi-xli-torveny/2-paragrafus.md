@@ -76,7 +76,7 @@ e) vízi jármű: a Vkt.-ban meghatározott, vízen való személyszállításra
 
 26. országos személyszállítási szolgáltatás: regionális, elővárosi vagy helyi személyszállítási szolgáltatásnak nem minősülő személyszállítási szolgáltatás;
 
-27. regionális személyszállítási szolgáltatás: a megye határán belül vagy a megyehatár átlépése esetén 100 km-t meg nem haladó, elővárosi személyszállítási szolgáltatásnak nem minősülő belföldi személyszállítási szolgáltatás;
+27. regionális személyszállítási szolgáltatás: a vármegye határán belül vagy a vármegyehatár átlépése esetén 100 km-t meg nem haladó, elővárosi személyszállítási szolgáltatásnak nem minősülő belföldi személyszállítási szolgáltatás;
 
 28. saját számlás személyszállítás: a jármű üzemeltetőjével munkavégzésre irányuló jogviszonyban álló személyek haszonszerzési cél nélkül, nem üzletszerűen és az üzemeltető által nem főtevékenységként végzett szállítása, amennyiben
 
