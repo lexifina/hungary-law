@@ -13,3 +13,5 @@ e) a lakosság egészségének az emberi fogyasztásra szánt vízben találhat�
 f) a 91/271/EGK tanácsi irányelv végrehajtását célzó nemzeti programokról szóló jelentéstétel formanyomtatványairól szóló, 2014. június 26-i 2014/431/EU bizottsági végrehajtási határozatnak;
 
 g) az emberi fogyasztásra szánt víz minőségéről szóló 98/83/EK tanácsi irányelv II. és III. mellékletének módosításáról szóló, 2015. október 6-i 2015/1787/EU bizottsági irányelvnek
+
+való megfelelést szolgálja.

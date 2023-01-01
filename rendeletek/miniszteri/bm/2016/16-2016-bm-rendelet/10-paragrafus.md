@@ -36,7 +36,7 @@ f) a személyi feltételekre,
 
 g) az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkozó más jogszabályok előírásai érvényesítését
 
-## szolgáló szabályokat.
+szolgáló szabályokat.
 
 (6) Az (5) bekezdés c) pontjában említett vizsgálatok szabályozása a víziközmű-rendszerhez csatlakozó szennyvíz-bekötővezetékeknél, a szennyvíz-törzshálózaton, a szennyvíztisztítási technológia különböző pontjain, a szennyvíztisztító telepről elvezetett tisztított szennyvíz meghatározott mintavételi pontjain, a nem közművel összegyűjtött háztartási szennyvíz ürítési pontján, valamint a technológiai folyamat meghatározott iszap-mintavételi pontjain:
 
@@ -45,3 +45,5 @@ a) a vizsgálatok gyakorisága,
 b) a vizsgálandó fizikai, kémiai és biológiai összetevők,
 
 c) a vizsgálandó minták száma
+
+meghatározására terjed ki.

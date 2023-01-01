@@ -9,3 +9,5 @@ b) amennyiben a vízkivételi mű jelen rendelet hatálybalépését megelőző 
 c) amennyiben a vízkivételi mű nem rendelkezik jogerős vízjogi üzemeltetési engedéllyel vagy az engedély hatálya lejárt, és egyben a vízbázisnál nem végezték el az első alapállapot-vizsgálatot, az üzemvitel megkezdésének, fenntartásának feltételeként;
 
 d) amennyiben a vízkivételi mű a jelen rendelet hatálybalépését követő időpontban kerül első alkalommal üzembe helyezésre, az üzembe helyezéstől számított két naptári éven belül
+
+kell az első alapállapot-vizsgálatot elvégezni.

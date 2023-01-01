@@ -1,6 +1,6 @@
-1. melléklet a 16/2016. (V. 12.) BM rendelethez[^26]
+1. melléklet a 16/2016. (V. 12.) BM rendelethez[^27]
 
-## A víziközmű üzemeltetéséért felelős vezetők szakmai képesítési előírásai
+A víziközmű üzemeltetéséért felelős vezetők szakmai képesítési előírásai
 
 ## A) Kompetenciát igénylő feladatkörök, munkakörök, amelyek a víziközművek üzemeltetésének feltételei
 
@@ -178,16 +178,4 @@ A korábbi ötéves egyetemi képzés megfelel a jelenlegi mesterfokozat (MSc) k
 
 | 33. |  |  | T2 | vegyész technikus |
 
-C2. SZT – Szakirányú továbbképzés
-
-| képzettség | szakok |
-
-| rövidítése | megnevezése |
-
-| Szakirányú továbbképzés | SZT | Vízellátás-csatornázás szak |
-
-C3. GY – Gyakorlati idő
-
-Közüzemi ivóvízellátás-csatornázás üzemeltetési munkahelyeken az alapdiploma megszerzését követően eltöltött idő.
-
-[^26]: Az 1. melléklet az 5/2017. (V. 5.) BM rendelet 4. §-a, a 42/2017. (XII. 29.) BM rendelet 19. § a) pontja szerint módosított szöveg.
+[^27]: Az 1. melléklet az 5/2017. (V. 5.) BM rendelet 4. §-a, a 42/2017. (XII. 29.) BM rendelet 19. § a) pontja szerint módosított szöveg.

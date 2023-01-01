@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-16-20-0
 | 2017-05-20 | 2016-16-20-0A.4 | 5/2017. (V. 5.) BM rendelet |
 | 2018-01-01 | 2016-16-20-0A.5 | 42/2017. (XII. 29.) BM rendelet |
 | 2020-08-19 | 2016-16-20-0A.6 | 31/2020. (VIII. 4.) BM rendelet |
+| 2023-01-01 | 2016-16-20-0A.7 | 45/2022. (XII. 20.) BM rendelet |

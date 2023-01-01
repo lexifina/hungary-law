@@ -40,7 +40,7 @@ h) az egészséget nem veszélyeztető és biztonságos munkavégzésre vonatkoz
 
 i) a vízkivételi mű védettség szerinti kategorizálását, illetve annak változását
 
-## szolgáló szabályokat.
+szolgáló szabályokat.
 
 (6) Az (5) bekezdés c) pontjában említett vizsgálatok szabályozása a víznyerés helyén, a vízkezelési technológia különböző pontjain, az ivóvíz-törzshálózatra táplálás helyén, valamint a víziközmű-rendszer jellemző ivóvízvételi helyein
 
@@ -49,5 +49,7 @@ a) a vizsgálatok gyakorisága;
 b)[^4] a vizsgálandó fizikai, kémiai mikroszkópos biológiai és bakteriológiai összetevők;
 
 c) a vizsgálandó minták száma
+
+meghatározására terjed ki.
 
 [^4]: A 3. § (6) bekezdés b) pontja a 42/2017. (XII. 29.) BM rendelet 18. § a) pontja szerint módosított szöveg.

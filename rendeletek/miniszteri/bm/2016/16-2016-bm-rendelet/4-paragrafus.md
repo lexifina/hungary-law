@@ -1,5 +1,3 @@
-## meghatározására terjed ki.
-
 4. § (1) A közcélú ivóvízmű üzemeltetője hozzáférhető helyen tartja és ellenőrzésnél bemutatja
 
 a) a műtárgyakra és berendezésekre vonatkozó dokumentációkat, kezelési, karbantartási utasításokat, és amennyiben rendelkezésre áll, a magyar nyelvű gépkönyveket;
