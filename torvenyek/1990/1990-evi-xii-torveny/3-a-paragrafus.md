@@ -12,6 +12,6 @@ d) akitől a tudományos alkotói járadék megállapítását megalapozó elism
 
 (3) A tudományos alkotói járadék fedezetét a Magyar Tudományos Akadémia költségvetésében kell biztosítani.
 
-(4) A tudományos alkotói járadék havi mértéke az öregségi teljes nyugdíj jogszabályban meghatározott legkisebb összegének 425%-a.
+(4) A tudományos alkotói járadék havi mértéke a szociális vetítési alap összegének 425%-a.
 
 (5) A tudományos alkotói járadék élethosszig tartó juttatás.
