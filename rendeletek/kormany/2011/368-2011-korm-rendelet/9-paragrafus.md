@@ -34,7 +34,7 @@ látja el, kivéve, ha az (1) bekezdés b) pontja szerinti feladatok ellátása 
 
 (7) Az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szerve a kezelt elkülönített állami pénzalapokkal és társadalombiztosítás pénzügyi alapjaival kapcsolatos tervezési, gazdálkodási, finanszírozási, adatszolgáltatási és beszámolási feladatokat – figyelemmel a (8) bekezdésben foglaltakra is – a gazdasági szervezetével vagy ezekkel a feladatokkal a szervezeti és működési szabályzatában kijelölt más szervezeti egységével látja el.
 
-(8)[^46] Ha a fővárosi és megyei kormányhivatal vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala törvény alapján elkülönített állami pénzalap vagy társadalombiztosítás pénzügyi alapja előirányzatai meghatározott része felett rendelkezési joggal bír, az azzal kapcsolatos gazdálkodási, nyilvántartás-vezetési, adatszolgáltatási feladatokat a fővárosi és megyei kormányhivatal szervezeti és működési szabályzata alapján e feladatért felelős szervezeti egysége vagy a fővárosi és megyei kormányhivatal vezetője által kijelölt, a fővárosi és megyei kormányhivatal alkalmazásában álló személy látja el.
+(8)[^46] Ha a fővárosi és vármegyei kormányhivatal vagy a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala törvény alapján elkülönített állami pénzalap vagy társadalombiztosítás pénzügyi alapja előirányzatai meghatározott része felett rendelkezési joggal bír, az azzal kapcsolatos gazdálkodási, nyilvántartás-vezetési, adatszolgáltatási feladatokat a fővárosi és vármegyei kormányhivatal szervezeti és működési szabályzata alapján e feladatért felelős szervezeti egysége vagy a fővárosi és vármegyei kormányhivatal vezetője által kijelölt, a fővárosi és vármegyei kormányhivatal alkalmazásában álló személy látja el.
 
 (9)[^47]
 
@@ -47,5 +47,5 @@ látja el, kivéve, ha az (1) bekezdés b) pontja szerinti feladatok ellátása 
 [^43]: Az Ávr. 9. § (5) bekezdése a 480/2022. (XI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^44]: Az Ávr. 9. § (5a) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 8. § (6) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 188. § (6) bekezdés a) pontja szerint módosított szöveg.
 [^45]: Az Ávr. 9. § (5b) bekezdését a 340/2019. (XII. 23.) Korm. rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 245/2022. (VII. 8.) Korm. rendelet 8. § 2. pontja.
-[^46]: Az Ávr. 9. § (8) bekezdése a 70/2015. (III. 30.) Korm. rendelet 188. § (1) bekezdésével megállapított szöveg.
+[^46]: Az Ávr. 9. § (8) bekezdése a 70/2015. (III. 30.) Korm. rendelet 188. § (1) bekezdésével megállapított, a 480/2022. (XI. 28.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
 [^47]: Az Ávr. 9. § (9) bekezdését az 56/2012. (III. 30.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 3. pontja.

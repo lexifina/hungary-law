@@ -1,6 +1,6 @@
 ## [Az Áht. 36/A. §-ához][^216]
 
-52/A. § (1)[^217] Az egészségügyről szóló törvény szerinti városi intézmény, az országos társgyógyintézet, valamint az irányító jogkört gyakorló egészségügyi intézmény által irányított egészségügyi intézmény (a továbbiakban együtt: egészségügyi intézmény) tekintetében az egészségügyi törvény szerinti irányító megyei intézmény, az országos gyógyintézet, illetve az irányító jogkört gyakorló egészségügyi intézmény vezetője a (3) és (5)–(9) bekezdés szerint gyakorolja a kötelezettségvállalások előzetes jóváhagyását.
+52/A. § (1)[^217] Az egészségügyről szóló törvény szerinti városi intézmény, az országos társgyógyintézet, valamint az irányító jogkört gyakorló egészségügyi intézmény által irányított egészségügyi intézmény (a továbbiakban együtt: egészségügyi intézmény) tekintetében az egészségügyi törvény szerinti irányító vármegyei intézmény, az országos gyógyintézet, illetve az irányító jogkört gyakorló egészségügyi intézmény vezetője a (3) és (5)–(9) bekezdés szerint gyakorolja a kötelezettségvállalások előzetes jóváhagyását.
 
 (2) Nem tartozik a kötelezettségvállalások előzetes jóváhagyásának kötelezettsége alá
 
@@ -20,7 +20,7 @@ a) jogszabályi kötelezettség alapján megkötendő szerződések,
 
 b) közüzemi szolgáltatási-szerződési kötelezettség tárgyú szerződések,
 
-c) vis maior helyzetben megkötendő szerződések, ha erről az irányító megyei intézmény vezetőjét haladéktalanul értesítette.
+c)[^218] vis maior helyzetben megkötendő szerződések, ha erről az irányító vármegyei intézmény vezetőjét haladéktalanul értesítette.
 
 (5) Az egészségügyi intézmény értékhatártól függetlenül kizárólag előzetes jóváhagyást követően jogosult kötelezettséget vállalni a következő tárgykörökben:
 
@@ -30,20 +30,23 @@ b) jogi szolgáltatás igénybevételére irányuló kötelezettségvállalások
 
 (6) Az egészségügyi intézmény tervezett kötelezettségvállalásait az (1) bekezdés szerinti előzetes jóváhagyásra jogosult szerv vezetője egészségügyi szakmai, pénzügyi és jogi-közbeszerzési szempontok alapján vizsgálja.
 
-(7) Ha a kötelezettségvállalás értéke eléri vagy meghaladja az 5 000 000 forintot, vagy ha a kötelezettségvállalás az (5) bekezdés hatálya alá tartozik, az egészségügyi intézmény a kötelezettségvállalást megelőzően 10 munkanappal megküldi a dokumentumokat az irányító megyei intézménynek. A kötelezettségvállalás előzetes jóváhagyására 10 munkanap áll rendelkezésre, azzal, hogy az irányító megyei intézmény indokolt esetben a határidőt 5 munkanappal meghosszabbíthatja. Az irányító megyei intézmény által meghatározott hiánypótlás időtartama a határidőbe nem számít bele. Ha az irányító megyei intézmény fenti határidőn belül nem dönt a kötelezettségvállalás előzetes jóváhagyásáról, az egészségügyi intézmény jogosult saját hatáskörben kötelezettséget vállalni.
+(7)[^219] Ha a kötelezettségvállalás értéke eléri vagy meghaladja az 5 000 000 forintot, vagy ha a kötelezettségvállalás az (5) bekezdés hatálya alá tartozik, az egészségügyi intézmény a kötelezettségvállalást megelőzően 10 munkanappal megküldi a dokumentumokat az irányító vármegyei intézménynek. A kötelezettségvállalás előzetes jóváhagyására 10 munkanap áll rendelkezésre, azzal, hogy az irányító vármegyei intézmény indokolt esetben a határidőt 5 munkanappal meghosszabbíthatja. Az irányító vármegyei intézmény által meghatározott hiánypótlás időtartama a határidőbe nem számít bele. Ha az irányító vármegyei intézmény fenti határidőn belül nem dönt a kötelezettségvállalás előzetes jóváhagyásáról, az egészségügyi intézmény jogosult saját hatáskörben kötelezettséget vállalni.
 
 (8) A kötelezettségvállalás előzetes jóváhagyásáról szóló döntés a betegellátás biztonságát nem veszélyeztetheti.
 
-(9) Az irányító megyei intézmény vezetője a kötelezettségvállalásra vonatkozó előzetes jóváhagyás megtagadásáról, annak indokával együtt haladéktalanul tájékoztatja a középirányító szerv vezetőjét.
+(9)[^220] Az irányító vármegyei intézmény vezetője a kötelezettségvállalásra vonatkozó előzetes jóváhagyás megtagadásáról, annak indokával együtt haladéktalanul tájékoztatja a középirányító szerv vezetőjét.
 
-(10)[^218] Az (1)–(9) bekezdés szabályait kell alkalmazni – az orvos- és egészségtudományi képzést folytató egyetem részeként működő klinikai központ (a továbbiakban: klinikai központ) kivételével – az irányító megyei intézmény, a megyei intézmény, az országos gyógyintézet és az irányító jogkörrel rendelkező egészségügyi intézmény kötelezettségvállalásai előzetes jóváhagyására is, azzal, hogy az előzetes jóváhagyás jogát az egészségügyi szolgáltatás irányításáért felelős szerv gyakorolja. Az egészségügyi szolgáltatás irányításáért felelős szerv az irányításáért felelős minisztert értesíti az előzetes jóváhagyás megtagadásáról és annak indokairól.
+(10)[^221] Az (1)–(9) bekezdés szabályait kell alkalmazni – az orvos- és egészségtudományi képzést folytató egyetem részeként működő klinikai központ (a továbbiakban: klinikai központ) kivételével – az irányító vármegyei intézmény, a vármegyei intézmény, az országos gyógyintézet és az irányító jogkörrel rendelkező egészségügyi intézmény kötelezettségvállalásai előzetes jóváhagyására is, azzal, hogy az előzetes jóváhagyás jogát az egészségügyi szolgáltatás irányításáért felelős szerv gyakorolja. Az egészségügyi szolgáltatás irányításáért felelős szerv az irányításáért felelős minisztert értesíti az előzetes jóváhagyás megtagadásáról és annak indokairól.
 
-(11)[^219] Ha az egészségügyi intézmény, az irányító megyei intézmény (ide nem értve a klinikai központot), a megyei intézmény, az országos gyógyintézet vagy az irányító jogkörrel rendelkező egészségügyi intézmény kötelezettségvállalása eléri vagy meghaladja az 50 000 000 forintot, a kötelezettségvállalás jóváhagyásáról az (1) és a (10) bekezdéstől eltérően az egészségügyi szolgáltatás irányításáért felelős szerv felterjesztése alapján az egészségügyi szolgáltatás irányításáért felelős szervet irányító miniszter dönt. Az egészségügyi intézmény a tervezett kötelezettségvállalást tartalmazó dokumentumot az irányító megyei intézmény, az irányító jogkörrel rendelkező egészségügyi intézmény, illetve az országos gyógyintézet útján terjeszti fel egészségügyi szolgáltatás irányításáért felelős szervhez.
+(11)[^222] Ha az egészségügyi intézmény, az irányító vármegyei intézmény (ide nem értve a klinikai központot), a vármegyei intézmény, az országos gyógyintézet vagy az irányító jogkörrel rendelkező egészségügyi intézmény kötelezettségvállalása eléri vagy meghaladja az 50 000 000 forintot, a kötelezettségvállalás jóváhagyásáról az (1) és a (10) bekezdéstől eltérően az egészségügyi szolgáltatás irányításáért felelős szerv felterjesztése alapján az egészségügyi szolgáltatás irányításáért felelős szervet irányító miniszter dönt. Az egészségügyi intézmény a tervezett kötelezettségvállalást tartalmazó dokumentumot az irányító vármegyei intézmény, az irányító jogkörrel rendelkező egészségügyi intézmény, illetve az országos gyógyintézet útján terjeszti fel egészségügyi szolgáltatás irányításáért felelős szervhez.
 
-(12)[^220] Ha járványügyi okból kihirdetett veszélyhelyzet vagy járványügyi készültség idején az állami fenntartású fekvőbeteg-szakellátó egészségügyi intézmények tekintetében az irányítási jogkört nem az egészségügyért felelős miniszter gyakorolja, a Kormány rendeletében kijelölt miniszter a kötelezettségvállalásról szóló döntést az egészségügyért felelős miniszter indokolt véleménye ismeretében – és ha annak működtetéséről a Kormány döntött – az Operatív Törzs javaslatának kikérése mellett hozza meg.
+(12)[^223] Ha járványügyi okból kihirdetett veszélyhelyzet vagy járványügyi készültség idején az állami fenntartású fekvőbeteg-szakellátó egészségügyi intézmények tekintetében az irányítási jogkört nem az egészségügyért felelős miniszter gyakorolja, a Kormány rendeletében kijelölt miniszter a kötelezettségvállalásról szóló döntést az egészségügyért felelős miniszter indokolt véleménye ismeretében – és ha annak működtetéséről a Kormány döntött – az Operatív Törzs javaslatának kikérése mellett hozza meg.
 
 [^216]: Az Ávr. „[Az Áht. 36/A. §-ához]” alcímét (52/A. §) a 653/2021. (XI. 30.) Korm. rendelet 10. §-a iktatta be.
-[^217]: Az Ávr. 52/A. § (1) bekezdése a 653/2021. (XI. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^218]: Az Ávr. 52/A. § (10) bekezdését a 653/2021. (XI. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^219]: Az Ávr. 52/A. § (11) bekezdését a 653/2021. (XI. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^220]: Az Ávr. 52/A. § (12) bekezdését a 653/2021. (XI. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^217]: Az Ávr. 52/A. § (1) bekezdése a 653/2021. (XI. 30.) Korm. rendelet 11. § (1) bekezdésével megállapított, a 480/2022. (XI. 28.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
+[^218]: Az 52/A. § (4) bekezdés c) pontja a 480/2022. (XI. 28.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
+[^219]: Az 52/A. § (7) bekezdése a 480/2022. (XI. 28.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
+[^220]: Az 52/A. § (9) bekezdése a 480/2022. (XI. 28.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
+[^221]: Az Ávr. 52/A. § (10) bekezdését a 653/2021. (XI. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 480/2022. (XI. 28.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
+[^222]: Az Ávr. 52/A. § (11) bekezdését a 653/2021. (XI. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 480/2022. (XI. 28.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
+[^223]: Az Ávr. 52/A. § (12) bekezdését a 653/2021. (XI. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be.

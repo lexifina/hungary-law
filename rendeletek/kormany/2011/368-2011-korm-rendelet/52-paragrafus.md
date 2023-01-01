@@ -12,7 +12,7 @@ c) a helyi önkormányzat, nemzetiségi önkormányzat, társulás, illetve tér
 
 (2)[^202] Az (1) bekezdés alkalmazásában
 
-a)[^203] – ha a fővárosi és megyei kormányhivatal vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala törvény alapján elkülönített állami pénzalap vagy társadalombiztosítás pénzügyi alapja előirányzatai meghatározott része felett rendelkezési joggal bír – a fővárosi és megyei kormányhivatal vezetőjét vagy a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának vezetőjét,
+a)[^203] – ha a fővárosi és vármegyei kormányhivatal vagy a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala törvény alapján elkülönített állami pénzalap vagy társadalombiztosítás pénzügyi alapja előirányzatai meghatározott része felett rendelkezési joggal bír – a fővárosi és vármegyei kormányhivatal vezetőjét vagy a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalának vezetőjét,
 
 b) az ügyészségről szóló 2011. évi CLXIII. törvény 8. § (1) bekezdés b) és c) pontjában és 10. §-ában meghatározott szervek vezetőjét, és
 
@@ -56,7 +56,7 @@ alkalmazásában álló személyt jelölhet ki a nemzetiségi önkormányzat kia
 
 [^201]: Az Ávr. 52. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 188. § (3) bekezdésével megállapított szöveg.
 [^202]: Az Ávr. 52. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 188. § (3) bekezdésével megállapított szöveg.
-[^203]: Az Ávr. 52. § (2) bekezdés a) pontja a 145/2015. (VI. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^203]: Az Ávr. 52. § (2) bekezdés a) pontja a 145/2015. (VI. 12.) Korm. rendelet 1. §-ával megállapított, a 480/2022. (XI. 28.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
 [^204]: Az Ávr. 52. § (2) bekezdés c) pontját a 486/2015. (XII. 29.) Korm. rendelet 35. §-a hatályon kívül helyezte.
 [^205]: Az Ávr. 52. § (3) bekezdését a 145/2015. (VI. 12.) Korm. rendelet 2. §-a hatályon kívül helyezte.
 [^206]: Az Ávr. 52. § (4) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 21. § (1) bekezdésével megállapított, nyitó szövegrésze a 499/2016. (XII. 28.) Korm. rendelet 22. § 4. pontja szerint módosított szöveg.

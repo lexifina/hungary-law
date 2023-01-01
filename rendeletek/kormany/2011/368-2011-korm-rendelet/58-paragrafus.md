@@ -4,14 +4,14 @@
 
 (3) Az érvényesítés az 59. § (2) bekezdése szerinti okmány utalványozása előtt történik. Az érvényesítésnek tartalmaznia kell az érvényesítésre utaló megjelölést és az érvényesítő keltezéssel ellátott aláírását.
 
-(4)[^258] Az érvényesítésre jogosult személyekre, azok kijelölésére – az (5) bekezdésben és az (5a) bekezdésben foglalt kiegészítéssel – az 55. § (2) bekezdésében foglalt szabályokat kell alkalmazni. Az érvényesítési feladatokat ellátó személynek az 55. § (3) bekezdése szerinti végzettséggel kell rendelkeznie.
+(4)[^261] Az érvényesítésre jogosult személyekre, azok kijelölésére – az (5) bekezdésben és az (5a) bekezdésben foglalt kiegészítéssel – az 55. § (2) bekezdésében foglalt szabályokat kell alkalmazni. Az érvényesítési feladatokat ellátó személynek az 55. § (3) bekezdése szerinti végzettséggel kell rendelkeznie.
 
 (5) Az európai uniós forrásból biztosított költségvetési támogatások esetén a közreműködő szervezet alkalmazásában álló személy is megbízható az érvényesítési feladatok ellátására. A megbízást írásba kell foglalni.
 
-(5a)[^259] Az 1/D. § (1) bekezdés c) pontja szerinti központi kezelésű előirányzat esetén az érvényesítő a fejezetet irányító szerv vezetője által írásban kijelölt, az MNV Zrt. alkalmazásában álló személy.
+(5a)[^262] Az 1/D. § (1) bekezdés c) pontja szerinti központi kezelésű előirányzat esetén az érvényesítő a fejezetet irányító szerv vezetője által írásban kijelölt, az MNV Zrt. alkalmazásában álló személy.
 
-(6)[^260] Ha az utalványozás elrendelésére elektronikus dokumentumban kerül sor, az írásos érvényesítés az utalványrendeletnek az érvényesítő legalább fokozott biztonságú elektronikus aláírásával történő ellátásával is igazolható. A (4) és (5) bekezdés szerinti írásos kijelölés, megbízás az arra jogosult legalább fokozott biztonságú elektronikus aláírásával ellátott elektronikus dokumentumban is történhet.
+(6)[^263] Ha az utalványozás elrendelésére elektronikus dokumentumban kerül sor, az írásos érvényesítés az utalványrendeletnek az érvényesítő legalább fokozott biztonságú elektronikus aláírásával történő ellátásával is igazolható. A (4) és (5) bekezdés szerinti írásos kijelölés, megbízás az arra jogosult legalább fokozott biztonságú elektronikus aláírásával ellátott elektronikus dokumentumban is történhet.
 
-[^258]: Az Ávr. 58. § (4) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^259]: Az Ávr. 58. § (5a) bekezdését a 827/2021. (XII. 28.) Korm. rendelet 24. § (2) bekezdése iktatta be.
-[^260]: Az Ávr. 58. § (6) bekezdését a 499/2016. (XII. 28.) Korm. rendelet 8. §-a iktatta be.
+[^261]: Az Ávr. 58. § (4) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^262]: Az Ávr. 58. § (5a) bekezdését a 827/2021. (XII. 28.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^263]: Az Ávr. 58. § (6) bekezdését a 499/2016. (XII. 28.) Korm. rendelet 8. §-a iktatta be.
