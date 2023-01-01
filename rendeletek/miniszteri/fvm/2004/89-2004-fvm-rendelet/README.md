@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-89-20-8
 | 2014-03-15 | 2004-89-20-82.27 | 22/2014. (III. 14.) VM rendelet |
 | 2017-08-18 | 2004-89-20-82.28 | 42/2017. (VIII. 17.) FM rendelet |
 | 2020-09-28 | 2004-89-20-82.29 | 46/2020. (IX. 23.) AM rendelet |
+| 2023-01-01 | 2004-89-20-82.30 | 73/2010. (V. 13.) FVM rendelet |

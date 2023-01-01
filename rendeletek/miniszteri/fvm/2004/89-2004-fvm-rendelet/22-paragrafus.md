@@ -26,7 +26,7 @@ j) adatkezelés és archiválás, valamint
 
 k) a hely egyéb minősítésének (GLP, ISO stb.)
 
-## ismertetésére.
+ismertetésére.
 
 (4) A kérelemben meg kell jelölni, hogy a minősítést mely, az a) pontban felsorolt minősítési kategóriák, valamint a b) pontban felsorolt művelési ágak közül melyekre kérelmezik:
 

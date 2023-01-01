@@ -1,6 +1,6 @@
 ## Minőség-ellenőrzés
 
-28. §[^121] (1)[^122] A növényvédő szerek engedélyben előírt minőségét és a címkézését a megyei kormányhivatal rendszeresen ellenőrzi.
+28. §[^121] (1)[^122] A növényvédő szerek engedélyben előírt minőségét és a címkézését a vármegyei kormányhivatal rendszeresen ellenőrzi.
 
 (2)[^123] Ha a minőség-ellenőrzés alapján a növényvédő szer adott tétele eltér az engedélyokiratban meghatározottaktól, vagy bizonyíthatóan nem egyenértékű az engedélyezett növényvédő szerrel, vagy felhasználásra alkalmatlanná, illetve veszélyessé vált, annak további forgalomba hozatalát az engedélyező hatóság megtiltja.
 
@@ -11,7 +11,7 @@
 (5)[^126] A felhasználhatósági időszak meghosszabbítása nem kérhető, amennyiben a termék forgalomba hozatali és felhasználási engedélyének hatálya lejárt, a termék engedélye visszavonásra került, a termék engedélyokirat szerinti felhasználhatósági ideje a Magyarországra történő beérkezését megelőzően lejárt, továbbá nem biztosítja a felhasználók számára a legalább egy vegetációs időszakban történő alkalmazás lehetőségét.
 
 [^121]: A 28. § a 15/2009. (III. 6.) FVM rendelet 25. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
-[^122]: A 28. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 72. § c) pontja, a 46/2020. (IX. 23.) AM rendelet 5. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^122]: A 28. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 72. § c) pontja, a 46/2020. (IX. 23.) AM rendelet 5. § (1) bekezdés d) pontja, a 88/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^123]: A 28. § (2) bekezdése a 13/2013. (III. 6.) VM rendelet 22. § 24. pontja szerint módosított szöveg.
 [^124]: A 28. § (3) bekezdése a 76/2013. (IX. 10.) VM rendelet 1. §-ával megállapított szöveg.
 [^125]: A 28. § (4) bekezdése a 13/2013. (III. 6.) VM rendelet 15. §-ával megállapított szöveg.

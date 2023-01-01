@@ -1,5 +1,3 @@
-## kell besorolni.
-
 ## Növényvédő szerek osztályozása
 
 29. §[^128] (1)[^129] A növényvédő szereket a 6. számú melléklet szerinti értékelés során az embert és a környezetet veszélyeztető tulajdonságaik alapján, a veszélyes anyagok és veszélyes készítmények osztályozásáról szóló külön jogszabályban foglaltak szerint kell besorolni, továbbá a 4. és 5. számú melléklet szerinti kiegészítő R- és S- szabványmondatokkal kell jellemezni a (2) bekezdésben foglaltak figyelembevételével. A besorolásnál az Európai Unióban osztályozott veszélyes anyagok jegyzékéről szóló külön jogszabály előírásait is figyelembe kell venni. Indokolt esetben az ember és az állat egészségének, továbbá a környezet védelme érdekében a címkén további mondatok feltüntetése írható elő, amelyről a Szerződő Államokat és a Bizottságot tájékoztatni kell, a megfelelő indokolás megadásával. Az esetleges felülvizsgálatra a Bizottság döntése alapján kerülhet sor.

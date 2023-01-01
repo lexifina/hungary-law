@@ -1,5 +1,3 @@
-## tartalmazza.
-
 ## 2. §[^9] E rendelet alkalmazásában:
 
 1. monográfia: a növényvédő szer hatóanyag, illetve a növényvédő szer engedélyezési eljáráshoz benyújtott részletes és összefoglaló adatok (a továbbiakban: részletes és összefoglaló adatok) kiértékelésével elkészített jelentés;

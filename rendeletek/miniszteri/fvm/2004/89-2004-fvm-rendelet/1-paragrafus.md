@@ -34,6 +34,8 @@ n) a párhuzamos behozatal engedély iránti kérelméhez benyújtandó adatokat
 
 o) a kiegészítő R- és S-mondatokra vonatkozó határidőket a 15. számú melléklet
 
+tartalmazza.
+
 [^2]: Az 1. § (1) bekezdése a 15/2009. (III. 6.) FVM rendelet 1. § (1) bekezdésével megállapított, a 13/2013. (III. 6.) VM rendelet 22. § 1. pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés d) pontja a 13/2013. (III. 6.) VM rendelet 22. § 2. pontja szerint módosított szöveg.
 [^4]: Az 1. § (2) bekezdés e) pontja a 13/2013. (III. 6.) VM rendelet 22. § 3. pontja szerint módosított szöveg.
