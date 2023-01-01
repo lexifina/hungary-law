@@ -6,6 +6,6 @@
 
 (3) A látogatás során lehetőséget kell biztosítani arra, hogy a beteg részére csomagot adjanak át. A csomagot az IMEI rendje és biztonsága érdekében át kell vizsgálni és a betegnél nem tartható tárgyakat a látogató részére vissza kell adni.
 
-(4)[^9] A beteg rehabilitációjának érekében elő kell segíteni, hogy az ilyen tevékenységet végző civil szervezetek és jogi személyiséggel rendelkező vallási közösségek megbízással rendelkező tagjával kapcsolatot tarthasson. Ez a kapcsolattartás nem számolható el látogató fogadás terhére.
+(4)[^10] A beteg rehabilitációjának érekében elő kell segíteni, hogy az ilyen tevékenységet végző civil szervezetek és jogi személyiséggel rendelkező vallási közösségek megbízással rendelkező tagjával kapcsolatot tarthasson. Ez a kapcsolattartás nem számolható el látogató fogadás terhére.
 
-[^9]: A 13. § (4) bekezdése a 13/2019. (V. 15.) IM rendelet 2. §-a szerint módosított szöveg.
+[^10]: A 13. § (4) bekezdése a 13/2019. (V. 15.) IM rendelet 2. §-a szerint módosított szöveg.

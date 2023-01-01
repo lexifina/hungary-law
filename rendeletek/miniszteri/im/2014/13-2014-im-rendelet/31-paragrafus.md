@@ -1,3 +1,3 @@
-## 26. [^29] A betegek és a beutaltak birtokában tartható tárgyak köre, anyagi ellátásuk, tisztálkodási lehetőségeik és felügyeletük biztosítása
+## 26. [^30] A betegek és a beutaltak birtokában tartható tárgyak köre, anyagi ellátásuk, tisztálkodási lehetőségeik és felügyeletük biztosítása
 
-[^29]: A 26. alcím címe a 22/2017. (XII. 22.) IM rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^30]: A 26. alcím címe a 22/2017. (XII. 22.) IM rendelet 37. § (1) bekezdésével megállapított szöveg.
