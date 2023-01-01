@@ -12,7 +12,7 @@ d) a 10. §-ban meghatározott feltételeknek megfelelő referenciamunkákkal, v
 
 e) a 13. §-ban meghatározott szakmai minősítő vizsgával (a továbbiakban: vizsga)
 
-## rendelkezik.
+rendelkezik.
 
 (2) Geodéziai szakértő az a személy lehet aki
 
@@ -22,7 +22,7 @@ b) legalább 5 éve geodéziai tervezői minősítéssel, és
 
 c) legalább 5 db, a 3. § (1) és (2) bekezdésében meghatározott referencia munka irányítói tervezői gyakorlatával
 
-## rendelkezik.
+rendelkezik.
 
 (3) A geodéziai tervezői minősítés betűjele GD-T.
 

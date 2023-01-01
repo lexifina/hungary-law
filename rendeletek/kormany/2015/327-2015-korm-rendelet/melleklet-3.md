@@ -1,5 +1,3 @@
-## A kérelmező közreműködésével vagy általa eddig végzett földmérési referencia munkák felsorolása
-
 | Ssz. | A munka leírása | Teljesítés időpontja | Kérelmező közreműködése | Minőségtanúsító megnevezése | Minőségtanúsító aláírása |
 
 | 1. |  |  |  |  |  |

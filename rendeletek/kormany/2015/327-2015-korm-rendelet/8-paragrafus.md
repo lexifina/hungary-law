@@ -12,7 +12,7 @@ d) folytatásának megtiltása és a tevékenységet folytató szakmagyakorló n
 
 e) folytatója által az engedélyének kérelemre történő visszavonása és a névjegyzékből való törlése
 
-## iránt kezdeményezett vagy saját hatáskörben indított eljárást az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szabályai szerint, míg a vállalkozások szakmagyakorlási tevékenységének bejelentésére irányuló eljárást a Szolgtv. szabályai szerint kell lefolytatni.
+iránt kezdeményezett vagy saját hatáskörben indított eljárást az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szabályai szerint, míg a vállalkozások szakmagyakorlási tevékenységének bejelentésére irányuló eljárást a Szolgtv. szabályai szerint kell lefolytatni.
 
 (2) A szakmagyakorlási tevékenység engedélyezése iránti kérelem elektronikus úton történő benyújtásához, papír alapon történő benyújtása esetén a kérelem és a jogszabályban előírt mellékleteinek feltöltéséhez, a szakmagyakorlási jogosultsági eljárást támogató elektronikus dokumentációs rendszer (a továbbiakban: e-rendszer) a kérelmező részére közvetlenül a kérelem benyújtása előtt elektronikus feltöltő tárhelyet (a továbbiakban: elektronikus tárhely) biztosít.
 

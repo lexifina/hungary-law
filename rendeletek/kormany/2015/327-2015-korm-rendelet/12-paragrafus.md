@@ -12,7 +12,7 @@ b) az MMK elnökének javaslata alapján az MMK Geodéziai és Geoinformatikai T
 
 c) a szakirányú felsőoktatási intézmények vezetőjének javaslatára egy-egy fő földmérési szakirányú oktató
 
-## kerül 5 évre megbízásra.
+kerül 5 évre megbízásra.
 
 (4) Bizottsági tagnak az jelölhető, aki legalább 5 éve geodéziai tervezői minősítéssel, illetve korábbi jogszabály alapján kiadott geodéziai tervezői jogosultsággal rendelkezik.
 
