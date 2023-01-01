@@ -1,5 +1,3 @@
-## A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyek és eljárások lefolytatására hatáskörrel rendelkező hatóságok
-
 |  | A | B | C | D |
 
 | 1. | Projektelem, létesítmény | A létesítmény azonosító adatai | A beruházás megvalósításával kapcsolatos engedélyek | Eljáró hatóság |
@@ -236,10 +234,10 @@
 
 | 117. | műtárgy rekonstrukció | Duna jp. 63+699 tkm Tüzéptelepi rekonstrukciója, acél- és vasbeton szerkezetek felújítása | vízügyi hatósági engedély | illetékes katasztrófavédelmi igazgatóság |
 
-| 118. | épület rekonstrukció | Duna jp. 83+250 tkm Bölcske Védelmi Központ épületének felújítása | építésügyi hatósági engedély | Tolna Megyei Kormányhivatal |
+| 118. | épület rekonstrukció | Duna jp. 83+250 tkm Bölcske Védelmi Központ épületének felújítása | építésügyi hatósági engedély | Tolna Vármegyei Kormányhivatal |
 
 | 119. | hajózás és víziközlekedés | a projekt megvalósítása során szükségessé váló hajózási tevékenység és víziközlekedési forgalomszabályozási engedélyek | hajózási hatósági engedélyek | Budapest Főváros Kormányhivatala |
 
-2. számú melléklet a 77/2009. (IV. 8.) Korm. rendelethez[^10]
+2. számú melléklet a 77/2009. (IV. 8.) Korm. rendelethez[^12]
 
-[^10]: A 2. számú mellékletet a 458/2017. (XII. 28.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^12]: A 2. számú mellékletet a 458/2017. (XII. 28.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
