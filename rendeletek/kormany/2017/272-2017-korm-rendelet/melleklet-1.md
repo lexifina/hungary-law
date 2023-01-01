@@ -10,7 +10,7 @@
 
 | 2 | Ivóvízminőség javító beruházás Monostorpályi területén | Monostorpályi Község Önkormányzata az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007-2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014-2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet [a továbbiakban: 339/2014. (XII. 19.) Korm. rendelet] szerint. |
 
-| 3 | A Baranya megyei Sellye Térségének Ivóvízminőség- javító Programja | Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 3 | A Baranya vármegyei Sellye Térségének Ivóvízminőség- javító Programja | Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 4 | Csáfordjánosfa Térségi Vízellátó Rendszer Ivóvízminőség-javítási Program | Csáfordjánosfa Községi Önkormányzat és Csér Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -70,23 +70,23 @@
 
 | 32 | Ivóvízjavító Program Györköny Községben | Györköny Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 33 | A Tolna megyei Diósberény és Szakadát Ivóvízminőség-javító Programja | Diósberény Község Önkormányzata és Szakadát Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 33 | A Tolna vármegyei Diósberény és Szakadát Ivóvízminőség-javító Programja | Diósberény Község Önkormányzata és Szakadát Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 34 | A Baranya megyei Nagynyárád település ivóvízminőség-javító programja | Nagynyárád Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 34 | A Baranya vármegyei Nagynyárád település ivóvízminőség-javító programja | Nagynyárád Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 35 | Jászszentandrás ivóvízminőség-javító projekt | Jászszentandrás Községi Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 36 | A Tolna megyei Értény település ivóvízminőség-javító programja | Értény Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 36 | A Tolna vármegyei Értény település ivóvízminőség-javító programja | Értény Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 37 | A Baranya megyei Hidas település ivóvízminőség-javító programja | Hidas Község Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 37 | A Baranya vármegyei Hidas település ivóvízminőség-javító programja | Hidas Község Önkormányzat a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 38 | Kislippó település ivóvízminőség-javító programja | Kislippó Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 39 | A Somogy megyei Mezőcsokonya település ivóvízminőség-javító programja | Mezőcsokonya Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 39 | A Somogy vármegyei Mezőcsokonya település ivóvízminőség-javító programja | Mezőcsokonya Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 40 | A Somogy megyei Somogysárd és Újvárfalva települések ivóvízminőség-javító programja | Somogysárd Község Önkormányzat és Újvárfalva Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 40 | A Somogy vármegyei Somogysárd és Újvárfalva települések ivóvízminőség-javító programja | Somogysárd Község Önkormányzat és Újvárfalva Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 41 | A Tolna megyei Koppányszántó település ivóvízminőség-javító programja | Koppányszántó Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 41 | A Tolna vármegyei Koppányszántó település ivóvízminőség-javító programja | Koppányszántó Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 42 | Ivóvízminőség-javító fejlesztést célzó beruházás Ináncs községben | Ináncs Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -202,7 +202,7 @@
 
 | 93 | Mórahalom és Térsége Ivóvízminőség-javító program | Mórahalom és Térsége Ivóvízminőség-javító Önkormányzati Társulás |
 
-| 94 | „Kék-víz” Észak-Bács- Kiskun Megyei Ivóvízminőség-javító Program | „Kék-Víz” - Észak-Bács- Kiskun Megyei Ivóvízminőség-javító Társulás |
+| 94 | „Kék-víz” Észak-Bács- Kiskun Vármegyei Ivóvízminőség-javító Program | „Kék-Víz” - Észak-Bács- Kiskun Vármegyei Ivóvízminőség-javító Társulás |
 
 | 95 | Szekszárd megyei jogú város hosszú távon egészséges ivóvízzel való ellátása | Szekszárd Megyei Jogú Város Önkormányzata |
 
@@ -210,11 +210,11 @@
 
 | 97 | Budapest Főváros víztermelő kútjainak fejlesztése, vízminőségi és kapacitáskockázatok kezelése | Budapest Főváros Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 98 | Tatabánya XV/C és a Tatabánya XIV/A vízaknák közti meglévő vezeték kiváltásának és Tatabánya XV/C Vízakna és Oroszlány víztorony közötti vezeték kiváltás – Tatabánya A | Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társasággal konzorciumban |
+| 98 | Tatabánya XV/C és a Tatabánya XIV/A vízaknák közti meglévő vezeték kiváltásának és Tatabánya XV/C Vízakna és Oroszlány víztorony közötti vezeték kiváltás – Tatabánya A | Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság az Építési és Közlekedési Minisztériummal konzorciumban |
 
-| 99 | Tatabánya XIV/A vízakna és Tatabánya Karsztakna medence közötti meglévő expressz vezeték kiváltásának és Tatabánya Karsztakna medence és a Tata Kálvária dombi víztorony közötti vezeték kiváltás – Tatabánya B | Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társasággal konzorciumban |
+| 99 | Tatabánya XIV/A vízakna és Tatabánya Karsztakna medence közötti meglévő expressz vezeték kiváltásának és Tatabánya Karsztakna medence és a Tata Kálvária dombi víztorony közötti vezeték kiváltás – Tatabánya B | Északdunántúli Vízmű Zártkörűen Működő Részvénytársaság az Építési és Közlekedési Minisztériummal konzorciumban |
 
-| 100 | Iváncsai ipari park ivóvízellátása | Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társasággal konzorciumban |
+| 100 | Iváncsai ipari park ivóvízellátása | Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság az Építési és Közlekedési Minisztériummal konzorciumban |
 
 2. Szennyvízkezelési projektek
 
@@ -484,9 +484,9 @@
 
 | 94 | Szennyvíz mintaprojekt a 2000 lakosnál kisebb települések számára | Kocsér Község Önkormányzata, Szakcs Község Önkormányzata, Hangony Községi Önkormányzat, Nagysimonyi Község Önkormányzata, Csénye Község Önkormányzata, Bögöt Község Önkormányzata, Galvács Község Önkormányzata, Kaposújlak Községi Önkormányzat, Nagyberki Község Önkormányzata, Ispánk Község Önkormányzata, Szalafő Község Önkormányzata, Győrvár Község Önkormányzata, Ordas Községi Önkormányzat, Dunaegyháza Község Önkormányzata, Páhi Község Önkormányzata, Kaskantyú Község Önkormányzata, Kondorfa Község Önkormányzata, Álmosd Község Önkormányzata, Lak Községi Önkormányzat, Balajt Község Önkormányzata, Magyarszombatfa Község Önkormányzata, Csánig Község Önkormányzata és Penc Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 95 | Egy új ipari és kommunális szennyvíztisztító telep és a hozzá kapcsolódó műtárgyak, tartozékok, berendezések, egyéb kiegészítő elemek megépítése Szikszón – C rész | ÉRV. Északmagyarországi Regionális Vízművek Zártkörűen Működő Részvénytársaság az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társasággal konzorciumban |
+| 95 | Egy új ipari és kommunális szennyvíztisztító telep és a hozzá kapcsolódó műtárgyak, tartozékok, berendezések, egyéb kiegészítő elemek megépítése Szikszón – C rész | ÉRV. Északmagyarországi Regionális Vízművek Zártkörűen Működő Részvénytársaság az Építési és Közlekedési Minisztériummal konzorciumban |
 
-| 96 | Iváncsai ipari park szennyvízelvezetése és -kezelése | Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társasággal konzorciumban |
+| 96 | Iváncsai ipari park szennyvízelvezetése és -kezelése | Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság az Építési és Közlekedési Minisztériummal konzorciumban |
 
 | 97 | Gulács és Tivadar település szennyvízelvezetésének és -tisztításának előkészítése | Gulács Község Önkormányzata és Tivadar Község Önkormányzata |
 
@@ -516,7 +516,7 @@
 
 | 3 | Vértesalja Hulladékgazdálkodási Projekt | Duna-Vértes Köze Regionális Hulladékgazdálkodási Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 4 | Komplex hulladékgazdálkodási rendszer fejlesztése Hajdú- Bihar megyében, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Debreceni Agglomeráció Hulladékgazdálkodási Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 4 | Komplex hulladékgazdálkodási rendszer fejlesztése Hajdú- Bihar vármegyében, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Debreceni Agglomeráció Hulladékgazdálkodási Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 5 | Komplex hulladékgazdálkodási rendszer fejlesztése a Duna-Tisza közi régióban, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Duna-Tisza közi Hulladékgazdálkodási és Környezetvédelmi Önkormányzati Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -524,11 +524,11 @@
 
 | 7 | Komplex hulladékgazdálkodási rendszer fejlesztése a Dél-Alföldi Térségi Hulladékgazdálkodási Társulás területén, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Dél-Alföldi Térségi Hulladékgazdálkodási Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 8 | Komplex hulladékgazdálkodási rendszer fejlesztése Zala és Vas megye egyes térségeiben, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Önkormányzati Társulás a Nyugat-Balaton és Zala Folyó Medence Nagytérség Települési Szilárdhulladékai Kezelésének Korszerű Megoldására a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 8 | Komplex hulladékgazdálkodási rendszer fejlesztése Zala és Vas vármegye egyes térségeiben, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Önkormányzati Társulás a Nyugat-Balaton és Zala Folyó Medence Nagytérség Települési Szilárdhulladékai Kezelésének Korszerű Megoldására a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 9 | Komplex hulladékgazdálkodási rendszer fejlesztése a Szabolcs-Szatmár-Bereg megyében, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Szabolcs-Szatmár-Bereg Megyei Szilárdhulladék-gazdálkodási Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 9 | Komplex hulladékgazdálkodási rendszer fejlesztése a Szabolcs-Szatmár-Bereg vármegyében, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Szabolcs-Szatmár-Bereg Vármegyei Szilárdhulladék-gazdálkodási Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 10 | Komplex hulladékgazdálkodási rendszer fejlesztése Heves megye egyes térségeiben, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Zagyvakörnyéki Települési Szilárdhulladék-gazdálkodás Fejlesztése Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 10 | Komplex hulladékgazdálkodási rendszer fejlesztése Heves vármegye egyes térségeiben, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Zagyvakörnyéki Települési Szilárdhulladék-gazdálkodás Fejlesztése Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 11 | Komplex hulladékgazdálkodási rendszer fejlesztése az észak-balatoni közszolgáltatási területen, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Észak-Balatoni Térség Regionális Települési Szilárdhulladék Kezelési Önkormányzati Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -558,13 +558,13 @@
 
 | 24 | Komplex hulladékgazdálkodási rendszer fejlesztése Pécs város területén, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Pécs Megyei Jogú Város Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 25 | Komplex hulladékgazdálkodási rendszer fejlesztése Észak-Kelet Pest és Nógrád Megyei Regionális Hulladékgazdálkodási és Környezetvédelmi Önkormányzati Társulás területén, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Észak-Kelet Pest és Nógrád Megyei Regionális Hulladékgazdálkodási és Környezetvédelmi Önkormányzati Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 25 | Komplex hulladékgazdálkodási rendszer fejlesztése Észak-Kelet Pest és Nógrád Vármegyei Regionális Hulladékgazdálkodási és Környezetvédelmi Önkormányzati Társulás területén, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Észak-Kelet Pest és Nógrád Vármegyei Regionális Hulladékgazdálkodási és Környezetvédelmi Önkormányzati Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 26 | A fővárosi hulladékgazdálkodási rendszer fejlesztése, különös tekintettel a hulladékgyűjtési, szállítási és előkezelő rendszerre | Budapest Főváros Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 27 | Hulladékgazdálkodási rendszer fejlesztése Szolnok város és térsége területén, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Szolnok Térségi Hulladékgazdálkodási Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
-| 28 | Hulladékgazdálkodási rendszer fejlesztése Borsod-Abaúj-Zemplén megye teljes területén, különös tekintettel az elkülönített hulladék előkezelő rendszerre | Abaúj-Zempléni Szilárdhulladék Gazdálkodási Önkormányzati Társulás, Hernád Völgye és Térsége Szilárdhulladék-kezelési Önkormányzati Társulás, Sajó-Bódva Völgye és Környéke Hulladékkezelési Önkormányzati Társulás és Miskolci Regionális Hulladékgazdálkodási Önkormányzati Társulás konzorciuma a 339/2014. (XII. 19.) Korm. rendelet szerint |
+| 28 | Hulladékgazdálkodási rendszer fejlesztése Borsod-Abaúj-Zemplén vármegye teljes területén, különös tekintettel az elkülönített hulladék előkezelő rendszerre | Abaúj-Zempléni Szilárdhulladék Gazdálkodási Önkormányzati Társulás, Hernád Völgye és Térsége Szilárdhulladék-kezelési Önkormányzati Társulás, Sajó-Bódva Völgye és Környéke Hulladékkezelési Önkormányzati Társulás és Miskolci Regionális Hulladékgazdálkodási Önkormányzati Társulás konzorciuma a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
 | 29 | Komplex hulladékgazdálkodási rendszer fejlesztése a Mecsek-Dráva Regionális Szilárdhulladék Kezelő Rendszer Létrehozását Célzó Önkormányzati Társulás területén, különös tekintettelaz elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre | Mecsek-Dráva Regionális Szilárdhulladék Kezelő Rendszer Létrehozását Célzó Önkormányzati Társulás a 339/2014. (XII. 19.) Korm. rendelet szerint |
 
@@ -576,8 +576,8 @@
 
 | 32 | A fővárosi hulladékgazdálkodási rendszer környezetbarát technológiáinak bővítése, a hulladékfeldolgozás és újrahasznosítás arányának növelése | Budapest Főváros Önkormányzata |
 
-| 33 | Szilárdhulladék- gazdálkodási rendszer továbbfejlesztése a Heves Megyei Regionális Hulladékgazdálkodási Társulás területén | Heves Megyei Regionális Hulladékgazdálkodási Társulás |
+| 33 | Szilárdhulladék- gazdálkodási rendszer továbbfejlesztése a Heves Vármegyei Regionális Hulladékgazdálkodási Társulás területén | Heves Vármegyei Regionális Hulladékgazdálkodási Társulás |
 
 [^3]: A 6. §-t a 823/2021. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
 [^4]: A hatálybalépés időpontja 2021. december 29.
-[^5]: Az 1. melléklet a 141/2018. (VII. 27.) Korm. rendelet 13. §-ával megállapított, a 823/2021. (XII. 28.) Korm. rendelet 2. § (1) bekezdése és 3–4. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet a 141/2018. (VII. 27.) Korm. rendelet 13. §-ával megállapított, a 823/2021. (XII. 28.) Korm. rendelet 2. § (1) bekezdése és 3–4. §-a, az 523/2022. (XII. 15.) Korm. rendelet 22. §-a, az 546/2022. (XII. 22.) Korm. rendelet 189. § a)-d) pontja szerint módosított szöveg.

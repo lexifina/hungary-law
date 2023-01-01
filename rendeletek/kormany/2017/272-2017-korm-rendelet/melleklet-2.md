@@ -1,6 +1,6 @@
 2. melléklet a 272/2017. (IX. 14.) Korm. rendelethez
 
-## Az 1. mellékletben foglalt beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+Az 1. mellékletben foglalt beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. vízjogi engedélyezési, védőidom-, védőterület- és védősáv-kijelölési, valamint vízi szolgalom alapítására irányuló vízügyi hatósági eljárások,
 
