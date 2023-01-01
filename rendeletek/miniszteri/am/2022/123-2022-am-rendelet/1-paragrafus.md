@@ -1,0 +1,1 @@
+1. § A növényi és állati eredetű élelmiszerekben és takarmányokban, illetve azok felületén található megengedett növényvédőszer-maradékok határértékéről, valamint ezek hatósági ellenőrzéséről szóló 66/2010. (V. 12.) FVM rendelet 5. § (1) bekezdésében és 7. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
