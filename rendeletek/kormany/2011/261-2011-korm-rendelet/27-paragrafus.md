@@ -1,5 +1,3 @@
-## közúti szállítási szakaszon végzett tevékenysége kabotázsnak minősül.
-
 ## V. Fejezet
 
 ## AZ AUTÓBUSSZAL DÍJ ELLENÉBEN VÉGZETT NEMZETKÖZI SZEMÉLYSZÁLLÍTÁS KÜLÖN FELTÉTELEI

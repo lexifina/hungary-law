@@ -1,6 +1,6 @@
 3. melléklet a 261/2011. (XII. 7.) Korm. rendelethez[^127]
 
-## A közúti közlekedési szolgáltatást végző vállalkozás szakmai irányítójának képzésére és vizsgáztatására vonatkozó követelmények
+A közúti közlekedési szolgáltatást végző vállalkozás szakmai irányítójának képzésére és vizsgáztatására vonatkozó követelmények
 
 1. A közúti árufuvarozó-vállalkozó szakmai alkalmasságot igazoló bizonyítvány, valamint a továbbképzési igazolás megszerzéséhez a vállalkozás szakmai irányítójának szaktanfolyamon kell részt vennie. A továbbképzési szaktanfolyam tantárgyai megegyeznek az alaptanfolyam tantárgyaival, azzal az eltéréssel, hogy az ott meghatározott óraszámok tantárgyanként a felével csökkenthetők, továbbá szóbeli vizsgát nem kell tenniük.
 

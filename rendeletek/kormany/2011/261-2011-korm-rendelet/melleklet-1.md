@@ -1,8 +1,6 @@
-## 41. §[^105]
-
 1. melléklet a 261/2011. (XII. 7.) Korm. rendelethez
 
-## Részleges felmentést adó képesítések a szakmai irányítói képesítés megszerzéséhez szükséges egyes vizsgatárgyakra vonatkozó vizsgakötelezettség alól
+Részleges felmentést adó képesítések a szakmai irányítói képesítés megszerzéséhez szükséges egyes vizsgatárgyakra vonatkozó vizsgakötelezettség alól
 
 1. Jogi ismeretek:
 
@@ -134,7 +132,6 @@ ea) nemzetközi szállítmányozási és logisztikai menedzser,
 
 eb) forgalmi tiszti felsőfokú tanfolyami szakképesítés.
 
-[^105]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^106]: Az 1. melléklet 4. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
 [^107]: Az 1. melléklet 4. pont i) alpontja a 13/2020. (II. 7.) Korm. rendelet 57. § 1. pontja szerint módosított szöveg.
 [^108]: Az 1. melléklet 5. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.

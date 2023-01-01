@@ -26,6 +26,8 @@ b) végső, valamint
 
 c) kezdeti és végső
 
+közúti szállítási szakaszon végzett tevékenységére az 1072/2009/EK európai parlamenti és tanácsi rendelet 8. cikkét kell alkalmazni.
+
 [^65]: A 25. § (1) bekezdése a 791/2021. (XII. 27.) Korm. rendelet 10. § (2) bekezdése, a 791/2021. (XII. 27.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
 [^66]: A 25. § (2) bekezdés záró szövegrésze a 228/2012. (VIII. 23.) Korm. rendelet 6. § (15) bekezdése szerint módosított szöveg.
 [^67]: A 25. § (5) bekezdését a 791/2021. (XII. 27.) Korm. rendelet 6. §-a iktatta be.

@@ -10,7 +10,7 @@ c) autóbusszal díj ellenében személyszállítási tevékenység közúti sze
 
 d) autóbusszal saját számlás személyszállítás közúti személyszállítási igazolvánnyal
 
-## végezhető.
+végezhető.
 
 (2)[^18]
 

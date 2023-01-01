@@ -1,6 +1,6 @@
 2. melléklet a 261/2011. (XII. 7.) Korm. rendelethez
 
-## Tehergépjárművel és autóbusszal végzett közúti közlekedési szolgáltatáshoz, valamint saját számlás szállítás keretében a jármű vezetéséhez szükséges képesítések[^111]
+Tehergépjárművel és autóbusszal végzett közúti közlekedési szolgáltatáshoz, valamint saját számlás szállítás keretében a jármű vezetéséhez szükséges képesítések[^111]
 
 1.[^112] A C1; C1+E; C; C+E; D1; D1+E; D; D+E vezetői engedély kategóriákkal vezethető járművek vezetéséhez – az 5. pontban foglaltak kivételével – a járművezetőnek rendelkeznie kell szakmai alapképesítéssel vagy szakmai továbbképzési képesítéssel.
 

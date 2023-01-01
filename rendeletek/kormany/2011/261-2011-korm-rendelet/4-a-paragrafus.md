@@ -6,7 +6,7 @@ b) területét érintő, saját számlás nemzetközi közúti áruszállítást
 
 c) területén kabotázsműveletet, azt megelőző és azt követő fuvarfeladatot végző tehergépjármű
 
-## az adott, Magyarország területén engedélyköteles vagy engedély birtokában végzett fuvarfeladatra, üresfutásra vonatkozó, a (3) bekezdés szerinti elektronikus fuvarregisztrációval (a továbbiakban: fuvarregisztráció) vehet részt a közúti forgalomban.
+az adott, Magyarország területén engedélyköteles vagy engedély birtokában végzett fuvarfeladatra, üresfutásra vonatkozó, a (3) bekezdés szerinti elektronikus fuvarregisztrációval (a továbbiakban: fuvarregisztráció) vehet részt a közúti forgalomban.
 
 (1a) Az 1072/2009/EK rendelet 8. és 9. cikke szerinti kabotázsműveletet végző jármű esetében az (1) bekezdés szerinti első kabotázsműveletet megelőző fuvarfeladatra vonatkozó fuvarregisztrációt az első kabotázsművelet megkezdése előtt, az utolsó kabotázsműveletet követő fuvarfeladatra vonatkozó fuvarregisztrációt az utolsó kabotázsművelet lezárása előtt kell elvégezni.
 

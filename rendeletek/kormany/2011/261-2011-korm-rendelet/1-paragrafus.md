@@ -14,11 +14,11 @@ ab) tehergépjárművel végzett saját számlás közúti áruszállításra, �
 
 ac) autóbusszal végzett saját számlás személyszállításra,
 
-## valamint az ilyen tevékenységet végző természetes személyekre, jogi személyekre és jogi, személyiséggel nem rendelkező szervezetekre, az ezzel összefüggésben tevékenységet végző, szállított áru feladójára, felrakójára, továbbá a címzettre és lerakókra, továbbá
+valamint az ilyen tevékenységet végző természetes személyekre, jogi személyekre és jogi, személyiséggel nem rendelkező szervezetekre, az ezzel összefüggésben tevékenységet végző, szállított áru feladójára, felrakójára, továbbá a címzettre és lerakókra, továbbá
 
 b) a Magyarországon székhellyel rendelkező, a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezetek (a továbbiakban: gazdálkodó szervezet) által Magyarország területén kívül nemzetközi forgalomban végzett közúti közlekedési szolgáltatásra
 
-## terjed ki.
+terjed ki.
 
 (2) A nemzetközi forgalomban végzett közúti közlekedési szolgáltatásra e rendelet rendelkezései csak annyiban alkalmazhatóak, amennyiben nemzetközi szerződés eltérően nem rendelkezik.
 
