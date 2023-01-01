@@ -8,9 +8,9 @@ ab) azon bevétel, amely után az egyszerűsített vállalkozói adóról szól�
 
 b) vagyon: ha e törvény másként nem rendelkezik, az a hasznosítható ingatlan, jármű, vagyoni értékű jog, továbbá pénzforgalmi szolgáltatónál kezelt – jövedelemként figyelembe nem vett – összeg, amelynek
 
-ba) külön-külön számított forgalmi értéke, illetve összege az öregségi nyugdíj mindenkori legkisebb összegének a harmincszorosát, vagy
+ba) külön-külön számított forgalmi értéke, illetve összege a szociális vetítési alap összegének a harmincszorosát, vagy
 
-bb) együttes forgalmi értéke az öregségi nyugdíj mindenkori legkisebb összegének a nyolcvanszorosát
+bb) együttes forgalmi értéke a szociális vetítési alap összegének a nyolcvanszorosát
 
 meghaladja, azzal, hogy a szociális rászorultságtól függő pénzbeli és természetbeni ellátások jogosultsági feltételeinek vizsgálatánál nem minősül vagyonnak az az ingatlan, amelyben az érintett személy életvitelszerűen lakik, az a vagyoni értékű jog, amely az általa lakott ingatlanon áll fenn, továbbá a mozgáskorlátozottságra tekintettel fenntartott gépjármű;
 

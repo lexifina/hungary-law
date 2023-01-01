@@ -8,7 +8,7 @@ a) a helyi önkormányzat képviselő-testülete,
 
 b) a települési önkormányzat jegyzője (a továbbiakban: jegyző),
 
-c) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal),
+c) a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal),
 
 d) a szociális hatóság, vagy
 

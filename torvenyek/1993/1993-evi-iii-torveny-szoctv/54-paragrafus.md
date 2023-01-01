@@ -2,9 +2,9 @@
 
 54. § (1) A járási hivatal az egészségügyi szolgáltatás igénybevétele céljából annak a személynek állapítja meg szociális rászorultságát,
 
-a) akinek családjában az egy főre jutó havi jövedelem az öregségi nyugdíj mindenkori legkisebb összegének 120%-át,
+a) akinek családjában az egy főre jutó havi jövedelem a szociális vetítési alap összegének 120%-át,
 
-b) aki egyedülélő és jövedelme az öregségi nyugdíj mindenkori legkisebb összegének 150%-át
+b) aki egyedülélő és jövedelme a szociális vetítési alap összegének 150%-át
 
 nem haladja meg, és családjának vagyona nincs.
 

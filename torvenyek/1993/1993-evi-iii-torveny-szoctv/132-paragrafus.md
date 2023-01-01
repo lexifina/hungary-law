@@ -28,7 +28,7 @@ l) a rehabilitációs intézményekben elhelyezettek utógondozási feladatainak
 
 m) a tartós ápolást végzők időskori támogatásának igénylésére, megállapítására és folyósítására vonatkozó szabályokat;
 
-n) a szociális hatóság és a szociális szakértői szerv kijelölését;
+n) a szociális hatóság, a 24/C. § szerinti jogi személy és a szociális szakértői szerv kijelölését;
 
 o)
 
@@ -83,6 +83,8 @@ n) az államháztartásért felelős miniszterrel egyetértésben a szociálisan
 o) az Egyházi Fenntartók Tanácsának összetételére, megalakítására és működésére vonatkozó részletes szabályokat.
 
 (2a) Felhatalmazást kap a szociálpolitikáért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben szabályozza a szolgáltatói nyilvántartásra vonatkozó hatósági eljárásokban a szakmai program véleményezéséért a módszertani feladatokat ellátó szervnek fizetendő szakértői díj mértékét.
+
+(2b) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az átadó intézményeket és a befogadó intézményeket a szociálpolitikáért felelős miniszterrel egyetértésben kiadott rendeletben határozza meg.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 

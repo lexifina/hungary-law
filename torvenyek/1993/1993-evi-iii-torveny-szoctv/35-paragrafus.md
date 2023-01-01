@@ -4,6 +4,6 @@
 
 (3) A foglalkoztatást helyettesítő támogatásra jogosult személy az állami foglalkoztatási szervnél kéri az álláskeresőként történő nyilvántartásba vételét, valamint köteles az állami foglalkoztatási szervvel együttműködni.
 
-(4) A foglalkoztatást helyettesítő támogatás havi összege az öregségi nyugdíj mindenkori legkisebb összegének 80%-a.
+(4) A foglalkoztatást helyettesítő támogatás havi összege a szociális vetítési alap összegének 80%-a.
 
 (5)

@@ -66,7 +66,7 @@ Nem terjed ki a törvény hatálya a külön jogszabály alapján az egészségk
 
 a) a szolgáltatást igénybe vevőnek,
 
-b) a szolgáltatást igénybe vevő hozzátartozójának [a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 8:1. § (1) bekezdés 2. pont],
+b) a szolgáltatást igénybe vevő hozzátartozójának [Ptk. 8:1. § (1) bekezdés 2. pont],
 
 c) a szolgáltatást igénybe vevő tartására jogszabály, szerződés vagy bírósági határozat alapján köteles személynek, vagy
 

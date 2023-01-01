@@ -10,7 +10,13 @@ b) a 18/A. § szerinti nyilvántartás a 18/A. § d) és e) pontja szerinti adat
 
 c) a 18/B. § szerinti nyilvántartás a szociális vagy gyermekvédelmi ellátás megnevezése, jogcíme, összege, az arra való jogosultság fennállásának érdemi elbírálására, a jogosultság megváltoztatására és megszüntetésére vonatkozó adatok, a megszüntetés jogcíme, az ellátásra való jogosultsággal összefüggő érdemi döntés véglegessé válásának időpontja adatkörök tekintetében.
 
-(1c) Az (1) bekezdéstől eltérően, a 18/B. § (1) bekezdése szerinti országos nyilvántartáshoz az azt vezető hatóság a jogosult azonosításához szükséges, valamint a 18/A. § d) és e) pontjában meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hatáskörében, gyermekvédelmi és gyámügyi feladatkörében, valamint – a 18/B. § (2) bekezdés d) pontja szerinti adatok kivételével – a nyugdíjbiztosítási igazgatási szervként, egészségbiztosítási pénztári feladatkörében, valamint a rehabilitációs hatóságként eljáró fővárosi és megyei kormányhivatal, továbbá járási (fővárosi kerületi) hivatala számára a törvényben meghatározott feladatai ellátása céljából.
+(1c) Az (1) és (1a) bekezdéstől eltérően a 18/B. § (1) bekezdése szerinti országos nyilvántartáshoz az azt vezető hatóság – az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus információelérési felület útján – a jogosult azonosításához szükséges adatok tekintetében, valamint
+
+a) a szociális ellátások tekintetében a 18/A. § d) és e) pontjában, és
+
+b) a gyermekvédelmi ellátások tekintetében a Gyvt. 138. § (1) bekezdés d) pontjában
+
+meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hatáskörében, a gyermekvédelmi és gyámügyi feladatkörében, a nyugdíjbiztosítási igazgatási szervként, egészségbiztosítási pénztári feladatkörében, a rehabilitációs hatóságként, a családtámogatási feladatokat ellátó szervként, az állami foglalkoztatási szervként, az áldozatsegítő szolgálatként, a jogi segítségnyújtó szolgálatként, illetve a pártfogó felügyelői szolgálatként eljáró fővárosi és vármegyei kormányhivatal, továbbá annak járási (fővárosi kerületi) hivatala számára a törvényben meghatározott feladatainak ellátása céljából.
 
 (2) Ha a szabad mozgás és tartózkodás jogával rendelkező személy három hónapnál hosszabb ideig részesül időskorúak járadékában, továbbá ha az aktív korúak ellátására való jogosultsága három hónapot meghaladó időtartamban fennáll, a járási hivatal erről a tényről értesíti a szabad mozgás és tartózkodás jogával rendelkező személy lakóhelye szerint illetékes területi idegenrendészeti hatóságot.
 

@@ -18,7 +18,7 @@ b) a (2) bekezdés a) és c) pontja szerinti adatokat a szociális szolgáltató
 
 kell törölni.
 
-(4a) A szolgáltatói nyilvántartás adatai a Gyvt.-ben meghatározottak kivételével nyilvánosak, és a történeti állományba tartozó adatok kivételével a Szociális Ágazati Portálon hozzáférhetők.
+(4a) A szolgáltatói nyilvántartás adatai a Gyvt.-ben meghatározott adatok kivételével nyilvánosak, és a történeti állományba tartozó adatok kivételével a Szociális Ágazati Portálon hozzáférhetők.
 
 (4b)
 

@@ -16,11 +16,11 @@ c) a személyes gondoskodást nyújtó szociális ellátás esetében az intézm
 
 (4) Ha a járási hivatal a hatáskörébe tartozó szociális ellátás megtérítését rendeli el, a megtérítés összegét, illetve pénzegyenértékét és a kamat összegét – amennyiben annak megfizetése a kötelezett megélhetését súlyosan veszélyeztetné – méltányosságból
 
-a) csökkentheti vagy elengedheti, ha a visszafizetésre kötelezett személy családjának egy főre jutó havi jövedelme nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének két és félszeresét,
+a) csökkentheti vagy elengedheti, ha a visszafizetésre kötelezett személy családjának egy főre jutó havi jövedelme nem haladja meg a szociális vetítési alap összegének két és félszeresét,
 
 b) részletekben fizettetheti meg.
 
-(4a) A jogosulatlanul, de nem rosszhiszeműen igénybevett ellátás megtérítésének elrendelése esetén a járási hivatal a megtérítés összegét méltányosságból csökkentheti vagy elengedheti abban az esetben is, ha a megtérítésre kötelezett családjában az egy főre jutó havi jövedelem nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének négy és félszeresét.
+(4a) A jogosulatlanul, de nem rosszhiszeműen igénybevett ellátás megtérítésének elrendelése esetén a járási hivatal a megtérítés összegét méltányosságból csökkentheti vagy elengedheti abban az esetben is, ha a megtérítésre kötelezett családjában az egy főre jutó havi jövedelem nem haladja meg a szociális vetítési alap összegének négy és félszeresét.
 
 (5) Ha a képviselő-testület a hatáskörébe tartozó szociális ellátás megtérítését rendeli el, a megtérítés összegét, illetve pénzegyenértékét és a kamat összegét – amennyiben annak megfizetése a kötelezett megélhetését súlyosan veszélyeztetné – méltányosságból
 

@@ -6,7 +6,7 @@ a) az ellátást igénybe vevő jogosult,
 
 b) a szülői felügyeleti joggal rendelkező törvényes képviselő,
 
-c) a jogosultnak az a házastársa, élettársa, egyeneságbeli rokona, örökbe fogadott gyermeke, örökbe fogadó szülője, akinek családjában az egy főre jutó jövedelem a tartási kötelezettség teljesítése mellett meghaladja az öregségi nyugdíj mindenkori legkisebb összegének két és félszeresét,
+c) a jogosultnak az a házastársa, élettársa, egyeneságbeli rokona, örökbe fogadott gyermeke, örökbe fogadó szülője, akinek családjában az egy főre jutó jövedelem a tartási kötelezettség teljesítése mellett meghaladja a szociális vetítési alap összegének két és félszeresét,
 
 d) a jogosult tartását szerződésben vállaló személy,
 

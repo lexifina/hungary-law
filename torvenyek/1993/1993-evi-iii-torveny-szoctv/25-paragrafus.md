@@ -28,11 +28,11 @@ b) a foglalkoztatást helyettesítő támogatásra való jogosultság feltétele
 
 legalább egyszer felülvizsgálja, és ha a felülvizsgálat során megállapítást nyer, hogy a feltételek továbbra is fennállnak, az ellátást a felülvizsgálatnak megfelelő összegben tovább folyósítja.
 
-(5) Ha az öregségi nyugdíj legkisebb összege változik, a havi rendszeres szociális ellátás összegét, valamint a foglalkoztatást helyettesítő támogatásra való jogosultságot a változás időpontjától számított három hónapon belül felül kell vizsgálni. A felülvizsgálat során az emelt összegű rendszeres pénzellátást, a családi pótlékot és az árvaellátást kell figyelembe venni. Ha az ellátás összege a felülvizsgálat eredményeként
+(5) Ha a szociális vetítési alap összege változik, a havi rendszeres szociális ellátás összegét, valamint a foglalkoztatást helyettesítő támogatásra való jogosultságot a változás időpontjától számított három hónapon belül felül kell vizsgálni. A felülvizsgálat során az emelt összegű rendszeres pénzellátást, a családi pótlékot és az árvaellátást kell figyelembe venni. Ha az ellátás összege a felülvizsgálat eredményeként
 
-a) emelkedett, akkor az új összeget az öregségi nyugdíj legkisebb összege emelkedésének időpontjára visszamenőlegesen,
+a) emelkedett, akkor az új összeget a szociális vetítési alap összege emelkedésének időpontjára visszamenőlegesen,
 
-b) csökkent, akkor az új összeget az öregségi nyugdíj legkisebb összege emelkedésének időpontját követő harmadik hónap első napjától
+b) csökkent, akkor az új összeget a szociális vetítési alap összege emelkedésének időpontját követő harmadik hónap első napjától
 
 kell folyósítani.
 

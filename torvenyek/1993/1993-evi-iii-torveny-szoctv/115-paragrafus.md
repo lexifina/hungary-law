@@ -24,7 +24,7 @@ b) egyházi és nem állami fenntartó esetén a bíróságtól kérheti a tér�
 
 a) olyan mértékben csökken, hogy az e törvényben meghatározott térítési díj fizetési kötelezettségének nem tud eleget tenni;
 
-b) az öregségi nyugdíj mindenkori legkisebb összegének 25%-át meghaladó mértékben növekedett.
+b) a szociális vetítési alap összegének 25%-át meghaladó mértékben növekedett.
 
 (7) A felülvizsgálat során megállapított új személyi térítési díj megfizetésének időpontjáról a fenntartó rendelkezik. Az új térítési díj megfizetésére a kötelezett nem kötelezhető a felülvizsgálatot megelőző időszakra, kivéve, ha az ellátott a felülvizsgálatot megelőzően – jövedelem és vagyon hiányában – térítésmentesen vette igénybe az ellátást, és részére visszamenőlegesen rendszeres pénzellátás került megállapításra. Ez utóbbi esetben a személyi térítési díj megfizetésének kezdő időpontja a rendszeres pénzellátásra való jogosultság kezdő napja.
 
