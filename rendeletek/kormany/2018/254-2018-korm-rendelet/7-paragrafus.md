@@ -1,5 +1,3 @@
-## 6. §
-
 ## 4. Hatósági ellenőrzés
 
 7. § (1) A Hatóság által lefolytatott hatósági ellenőrzés célja annak vizsgálata, hogy az egyéni vállalkozók nyilvántartásában szereplő, az egyéni vállalkozó által bejelentett adatok megfelelnek-e a jogszabály rendelkezéseinek.
