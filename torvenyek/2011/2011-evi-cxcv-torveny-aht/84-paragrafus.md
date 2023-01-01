@@ -4,6 +4,6 @@
 
 (2)
 
-(3) A megyei önkormányzat önkormányzati hivatala és a térségi fejlesztési tanács költségvetési szervként működő munkaszervezete kivételével az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv fizetési számláját az irányító szerv által az (1) bekezdés szerint választott számlavezető vezeti.
+(3) A vármegyei önkormányzat önkormányzati hivatala és a térségi fejlesztési tanács költségvetési szervként működő munkaszervezete kivételével az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv fizetési számláját az irányító szerv által az (1) bekezdés szerint választott számlavezető vezeti.
 
 (4) A helyi önkormányzat hitelfelvétele, kötvénykibocsátása fedezetéül az önkormányzati törzsvagyon, a helyi önkormányzat általános működésének és ágazati feladatainak támogatása és a költségvetési támogatás nem használható fel. Ez az előírás nem vonatkozik a naptári éven belül lejáró, Gst. szerinti adósságot keletkeztető ügyletre, amelynek fedezetéül a helyi önkormányzatok általános működésének és ágazati feladatainak támogatása felhasználható.

@@ -26,7 +26,7 @@
 
 10. Kormány irányítása alá tartozó fejezet: a 11. pontban meghatározott fejezetek kivételével a központi költségvetés valamennyi fejezete,
 
-11. Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv: az államháztartás központi alrendszerébe tartozó költségvetési szervek az Országgyűlés, a Köztársasági Elnökség, az Alkotmánybíróság, az Alapvető Jogok Biztosának Hivatala, az Állami Számvevőszék, a Bíróságok, az Ügyészség, a Gazdasági Versenyhivatal, a Magyar Tudományos Akadémia, a Magyar Művészeti Akadémia, az Eötvös Loránd Kutatási Hálózat és az Integritás Hatóság fejezetekhez tartozó költségvetési szervek kivételével,
+11. Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv: az államháztartás központi alrendszerébe tartozó költségvetési szervek az Országgyűlés, a Köztársasági Elnökség, az Alkotmánybíróság, az Alapvető Jogok Biztosának Hivatala, az Állami Számvevőszék, a Bíróságok, az Ügyészség, a Gazdasági Versenyhivatal, a Magyar Tudományos Akadémia, a Magyar Művészeti Akadémia, az Eötvös Loránd Kutatási Hálózat, az Integritás Hatóság és az Európai Támogatásokat Auditáló Főigazgatóság fejezetekhez tartozó költségvetési szervek kivételével,
 
 12. kormányzati szektorba sorolt egyéb szervezet: a 3. § (2) és (3) bekezdésében foglaltakon kívül az Európai Közösséget létrehozó szerződéshez csatolt, a túlzott hiány esetén követendő eljárásról szóló jegyzőkönyv alkalmazásáról szóló 2009. május 25-i 479/2009/EK rendelet (a továbbiakban: 479/2009/EK rendelet) szerint a kormányzati szektorba sorolt szervezet,
 
@@ -70,7 +70,7 @@ o) a jogszabály alapján, az abban meghatározott feltételek szerint nyújtott
 
 17. maradvány: a költségvetési év során a bevételek és kiadások különbözete, amely az alaptevékenység bevételei és kiadásai tekintetében a költségvetési maradvány, a vállalkozási tevékenység bevételei és kiadásai tekintetében a vállalkozási maradvány,
 
-18. önkormányzati hivatal: a polgármesteri hivatal, a főpolgármesteri hivatal, a megyei önkormányzati hivatal és a közös önkormányzati hivatal,
+18. önkormányzati hivatal: a polgármesteri hivatal, a főpolgármesteri hivatal, a vármegyei önkormányzati hivatal és a közös önkormányzati hivatal,
 
 19. támogatás: az államháztartás központi vagy önkormányzati alrendszeréből, bármilyen formában, ellenérték nélkül nyújtott juttatás,
 
