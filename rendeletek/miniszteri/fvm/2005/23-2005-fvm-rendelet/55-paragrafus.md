@@ -12,9 +12,9 @@
 
 a) tilos a vakcinázás;
 
-b)[^57] az illetékes megyei kormányhivatal a betegséggel kapcsolatban fokozott megfigyelést folytat;
+b)[^57] az illetékes vármegyei kormányhivatal a betegséggel kapcsolatban fokozott megfigyelést folytat;
 
 c) a fogékony állatok forgalmát az állategészségügyi hatóság a készenléti tervben foglaltak szerint ellenőrzi.
 
 [^56]: A 55. § (1) bekezdés a 42/2017. (VIII. 17.) FM rendelet 76. § i) pontja szerint módosított szöveg.
-[^57]: Az 55. § (5) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 76. § c) pontja szerint módosított szöveg.
+[^57]: Az 55. § (5) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 76. § c) pontja, a 91/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

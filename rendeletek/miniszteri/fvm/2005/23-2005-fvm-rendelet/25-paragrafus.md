@@ -16,8 +16,8 @@ c) az ellenőrzésnek ki kell terjednie a vonatkozó dokumentumok, feljegyzések
 
 d)[^36] a járási hivatal elrendeli a fogékony állatok zárlatban tartását.
 
-(2)[^37] A fogékony állatok hatósági állatorvos felügyelete mellett, kizárólag zárt vágás céljából közvetlenül, ugyanazon községi zárlaton belül található vágóhídra vagy – ha az adott községi zárlatban nincs vágóhíd – a megyei kormányhivatal által kijelölt egyéb vágóhídra szállíthatók. A szállítás során igénybe vett szállítóeszközt minden szállítást követően hatósági állatorvos felügyelete mellett takarítani és fertőtleníteni kell. A járási főállatorvos a járványügyi körülmények mérlegelése után engedélyezheti a szállítást, ha a 4. melléklet 1. pontja szerint a hatósági állatorvos által elvégzett, valamennyi egyedre kiterjedő klinikai vizsgálat kedvező eredménnyel zárult.
+(2)[^37] A fogékony állatok hatósági állatorvos felügyelete mellett, kizárólag zárt vágás céljából közvetlenül, ugyanazon községi zárlaton belül található vágóhídra vagy – ha az adott községi zárlatban nincs vágóhíd – a vármegyei kormányhivatal által kijelölt egyéb vágóhídra szállíthatók. A szállítás során igénybe vett szállítóeszközt minden szállítást követően hatósági állatorvos felügyelete mellett takarítani és fertőtleníteni kell. A járási főállatorvos a járványügyi körülmények mérlegelése után engedélyezheti a szállítást, ha a 4. melléklet 1. pontja szerint a hatósági állatorvos által elvégzett, valamennyi egyedre kiterjedő klinikai vizsgálat kedvező eredménnyel zárult.
 
 [^35]: A 25. § (1) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 76. § i) pontja szerint módosított szöveg.
 [^36]: A 25. § (1) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 76. § i) pontja szerint módosított szöveg.
-[^37]: A 25. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja szerint módosított szöveg.
+[^37]: A 25. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 23. § c) pontja, a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja, a 91/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

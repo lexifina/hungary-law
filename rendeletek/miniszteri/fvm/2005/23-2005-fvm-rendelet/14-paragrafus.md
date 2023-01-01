@@ -1,6 +1,6 @@
 ## Járványügyi nyomozás
 
-14. § (1)[^19] A ragadós száj- és körömfájással kapcsolatos járványügyi nyomozást a megyei kormányhivatal által kijelölt hatósági állatorvos végzi a készenléti terv alapján. A nyomozásnak ki kell terjednie
+14. § (1)[^19] A ragadós száj- és körömfájással kapcsolatos járványügyi nyomozást a vármegyei kormányhivatal által kijelölt hatósági állatorvos végzi a készenléti terv alapján. A nyomozásnak ki kell terjednie
 
 a) annak a bejelentésére, illetve a gyanút megelőző időszaknak a megállapítására, amely alatt a ragadós száj- és körömfájás már jelen lehetett a gazdaságban;
 
@@ -14,4 +14,4 @@ e) azon állatok, személyek, járművek és anyagok forgalmának a felderítés
 
 (2) A minisztérium rendszeresen tájékoztatja a bizottságot és a többi tagállamot a ragadós száj- és körömfájásra vonatkozó járványügyi vizsgálatok eredményeiről és a járvány terjedéséről.
 
-[^19]: A 14. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja szerint módosított szöveg.
+[^19]: A 14. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja, a 91/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

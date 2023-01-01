@@ -1,6 +1,6 @@
 ## További intézkedések és eseti felmentések
 
-27. § (1)[^38] A megyei kormányhivatallal történő egyeztetést követően a járási hivatal a 26. §-ban foglalt tilalmakat kiterjesztheti
+27. § (1)[^38] A vármegyei kormányhivatallal történő egyeztetést követően a járási hivatal a 26. §-ban foglalt tilalmakat kiterjesztheti
 
 a) a nem fogékony állatok községi zárlaton belüli, és a gazdaságok közötti mozgására és szállítására;
 
@@ -16,7 +16,7 @@ f) a fogékony állatok magánfogyasztás céljából történő levágására;
 
 g) anyagok, eszközök és egyéb tárgyak beszállítására a fogékony állatokat tartó gazdaságokba.
 
-(2)[^39] A megyei kormányhivatal engedélyezheti
+(2)[^39] A vármegyei kormányhivatal engedélyezheti
 
 a) valamennyi állatfaj községi zárlaton való átszállítását a kiemelt főutakon és vasúti vonalakon;
 
@@ -28,5 +28,5 @@ d) a lófélék mozgását és szállítását, a 8. mellékletben felsorolt fel
 
 e) anyagok, eszközök és egyéb tárgyak beszállítását a fogékony állatokat tartó gazdaságokba.
 
-[^38]: A 27. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 76. § e) és i) pontja szerint módosított szöveg.
-[^39]: A 27. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 76. § b) pontja szerint módosított szöveg.
+[^38]: A 27. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 76. § e) és i) pontja, a 91/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^39]: A 27. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 76. § b) pontja, a 91/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

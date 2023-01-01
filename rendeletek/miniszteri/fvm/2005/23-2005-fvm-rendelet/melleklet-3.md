@@ -92,7 +92,7 @@
 
 3. melléklet a 23/2005. (III. 23.) FVM rendelethez
 
-## A betegség bejelentése és azon további járványügyi információk, amelyeket ragadós száj- és körömfájás kitörés esetén továbbítani kell a bizottság és a Közösség többi tagállama felé
+A betegség bejelentése és azon további járványügyi információk, amelyeket ragadós száj- és körömfájás kitörés esetén továbbítani kell a bizottság és a Közösség többi tagállama felé
 
 1. Minden elsődleges járványkitörés, illetve 21. § szerinti létesítményben vagy szállítóeszközön észlelt eset megállapítását követő 24 órán belül a minisztérium az állatbetegségek közösségi bejelentési rendszerén keresztül a következőket jelenti:
 

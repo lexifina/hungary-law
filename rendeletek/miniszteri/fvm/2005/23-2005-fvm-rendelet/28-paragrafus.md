@@ -2,7 +2,7 @@
 
 28. § (1) Tilos a községi zárlat területén tartott fogékony állatokból származó, illetve a községi zárlat létesítményeiben előállított, fogékony állatokból származó nyers hús, darált hús és előkészített hús forgalomba hozatala.
 
-(2)[^40] Az előírásszerűen megjelölt nyers hús, darált hús és előkészített hús zárt konténerben a megyei kormányhivatal engedélyével, a kijelölt létesítménybe elszállítható, hogy ott a 9. melléklet szerinti kezeléssel húskészítményekké dolgozzák fel.
+(2)[^40] Az előírásszerűen megjelölt nyers hús, darált hús és előkészített hús zárt konténerben a vármegyei kormányhivatal engedélyével, a kijelölt létesítménybe elszállítható, hogy ott a 9. melléklet szerinti kezeléssel húskészítményekké dolgozzák fel.
 
 (3) Az (1) bekezdés szerinti tilalom nem vonatkozik olyan nyers húsra, darált húsra és előkészített húsra, amelyet a legkorábbi fertőzés becsült időpontjánál legalább 21 nappal korábban állítottak elő, elkülönítve tároltak és szállítottak. Az ilyen húst egyértelmű jelöléssel meg kell különböztetni azoktól, amelyekre a tilalom vonatkozik.
 
@@ -20,4 +20,4 @@ d) a teljes termelési folyamat során valamennyi ilyen húst egyértelműen azo
 
 (6) Az (1) bekezdés szerinti előírt tilalom alól a bizottság által jóváhagyott feltételek teljesülése esetén felmentés adható a 30 napot meghaladó ideig fennálló községi zárlatból származó fogékony állatból előállított húsra, megfelelő állategészségügyi jelölés esetén.
 
-[^40]: A 28. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja szerint módosított szöveg.
+[^40]: A 28. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja, a 91/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

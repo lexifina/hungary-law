@@ -24,7 +24,7 @@ ca) valamennyi gazdaságban a fogékony állatok fajok és korcsoportok szerinti
 
 cb) a gazdaságban lévő, valamennyi fogékony állatnak zárt vagy más olyan helyen való tartását, ahol a vadon élő állatokkal való érintkezésük megakadályozható. A vadon élő állatok nem férhetnek hozzá olyan anyagokhoz (takarmány, alom, eszközök stb), amelyekkel a gazdaságban lévő fogékony állatok később érintkezhetnek;
 
-cc)[^86] hogy a gazdaságba nem léphet be vagy azt nem hagyhatja el fogékony állat, kivéve, ha ezt a járványügyi helyzetre tekintettel a megyei kormányhivatal engedélyezi;
+cc)[^89] hogy a gazdaságba nem léphet be vagy azt nem hagyhatja el fogékony állat, kivéve, ha ezt a járványügyi helyzetre tekintettel a vármegyei kormányhivatal engedélyezi;
 
 cd) a fogékony állatok istállójának, valamint magának a gazdaságnak a be- és kijáratánál megfelelő fertőtlenítést kell alkalmazni;
 
@@ -50,4 +50,4 @@ A vadon élő állatok ragadós száj- és körömfájás járványának felszá
 
 2. Amennyiben az 1. pont szerinti tervet a bizottság jóváhagyta, az abban foglalt intézkedések attól az időponttól felváltják az A. rész szerinti bevezető intézkedéseket.
 
-[^86]: A 16. számú melléklet A. rész 1. pont cc) alpontja a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja szerint módosított szöveg.
+[^89]: A 16. számú melléklet A. rész 1. pont cc) alpontja a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja, a 91/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

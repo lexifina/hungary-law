@@ -1,6 +1,6 @@
 14. melléklet a 23/2005. (III. 23.) FVM rendelethez
 
-## A nemzeti referencia laboratórium feladatai és kötelezettségei
+A nemzeti referencia laboratórium feladatai és kötelezettségei
 
 1. Ragadós száj- és körömfájás vírusával foglalkozó laboratórium csak a lehető legmagasabb szintű biztonsági feltételek mellett működhet.
 

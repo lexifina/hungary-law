@@ -1,5 +1,3 @@
-## A ragadós száj- és körömfájás élő vírusának vizsgálatára jogosult nemzeti referencia laboratórium
-
 ## Ragadós száj- és körömfájás vírus vizsgálatára jogosult nemzeti referencia laboratórium:
 
 ## Országos Állategészségügyi Intézet
@@ -10,7 +8,7 @@
 
 13. melléklet a 23/2005. (III. 23.) FVM rendelethez
 
-## Biológiai biztonsági előírások a ragadós száj- és körömfájás élő vírusával foglalkozó laboratóriumok és létesítmények számára
+Biológiai biztonsági előírások a ragadós száj- és körömfájás élő vírusával foglalkozó laboratóriumok és létesítmények számára
 
 1. A ragadós száj- és körömfájás élő vírusának kezelését végző laboratórium meg kell, hogy feleljen az Európai Bizottság által kiadott „A ragadós száj- és körömfájás élő vírusát in vivo és in vitro vizsgáló laboratóriumokra vonatkozó minimumkövetelmények” című szabályzatban foglaltaknak, annak utolsó módosítása szerint.
 

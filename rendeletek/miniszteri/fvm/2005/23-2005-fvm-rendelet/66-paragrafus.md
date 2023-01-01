@@ -6,7 +6,7 @@ b) az összes ilyen nyers, darált és előkészített húson feltüntették a m
 
 c) a teljes termelési folyamat során valamennyi nyers húst egyértelműen azonosítva, és az eltérő egészségügyi státuszú nyers hústól elkülönítve szállítják és tárolják.
 
-(2)[^70] Az (1) bekezdésben meghatározott időtartam alatt levágott fogékony, vakcinázott állatokból vagy a vakcinázott állatok nem vakcinázott szeropozitív utódaiból származó nyers húst el kell látni az előírt állategészségügyi jelöléssel, és azt az e jelöléssel el nem látott hústól elkülönítve kell tárolni és szállítani, majd zárt konténerben az illetékes megyei kormányhivatal által kijelölt valamely üzembe kell szállítani a 9. melléklet A. része szerinti kezelés céljából.
+(2)[^70] Az (1) bekezdésben meghatározott időtartam alatt levágott fogékony, vakcinázott állatokból vagy a vakcinázott állatok nem vakcinázott szeropozitív utódaiból származó nyers húst el kell látni az előírt állategészségügyi jelöléssel, és azt az e jelöléssel el nem látott hústól elkülönítve kell tárolni és szállítani, majd zárt konténerben az illetékes vármegyei kormányhivatal által kijelölt valamely üzembe kell szállítani a 9. melléklet A. része szerinti kezelés céljából.
 
 (3) A (2) bekezdésben foglaltaktól eltérően, a vakcinázott nagy- és kiskérődzőkből vagy azok nem vakcinázott szeropozitív utódaiból előállított nyers hús és megtisztított belsőség forgalomba hozható a vakcinázási övezeten belül és kívül, ha az üzem:
 
@@ -34,4 +34,4 @@ d) a teljes termelési folyamat során valamennyi nyers húst egyértelműen azo
 
 (7) A (3) bekezdéstől eltérően olyan, kérődzőkből származó nyers húsra, darált húsra és előkészített húsra, melyeket e rendelet szerint nem kell a 11. melléklet A. részében leírt módon kezelni, és amelyeket az ország meghatározott régiójában értékesíteni kívánnak, különleges állategészségügyi jelölés alkalmazható, amelynek különböznie kell a (3) bekezdés c) és a (4) bekezdés c) pontja szerinti jelöléstől. A jelölés alkalmazásához a minisztérium a bizottság engedélyét kéri.
 
-[^70]: A 66. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § c) pontja szerint módosított szöveg.
+[^70]: A 66. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § c) pontja, a 91/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

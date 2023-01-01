@@ -2,7 +2,7 @@
 
 1. melléklet a 23/2005. (III. 23.) FVM rendelethez
 
-## A járványkitörés meghatározása
+A járványkitörés meghatározása
 
 Járványkitörésnek kell minősíteni azt az esetet, amikor egy gazdaságban az alábbi feltételek közül legalább egy teljesül:
 

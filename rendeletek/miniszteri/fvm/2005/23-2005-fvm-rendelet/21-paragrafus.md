@@ -8,9 +8,9 @@
 
 (4)[^30] A járási hivatal kontaktgazdaságnak minősítheti a gazdaság egy meghatározott járványügyi egységét is, ha a járványügyi elkülönültségre vonatkozó, 20. § szerinti feltételek teljesülnek.
 
-(5)[^31] Ha nem zárható ki a járványügyi kapcsolat a járvány kitörése és a különleges létesítmények, illetve szállítóeszközök között, a megyei kormányhivatal betegség gyanúja és megfigyelési zárlat esetén alkalmazandó korlátozó és megelőző intézkedéseket rendel el. A megyei kormányhivatal szükség esetén elrendelheti a 10. § szerinti megelőző jellegű járványügyi intézkedéseket is.
+(5)[^31] Ha nem zárható ki a járványügyi kapcsolat a járvány kitörése és a különleges létesítmények, illetve szállítóeszközök között, a vármegyei kormányhivatal betegség gyanúja és megfigyelési zárlat esetén alkalmazandó korlátozó és megelőző intézkedéseket rendel el. A vármegyei kormányhivatal szükség esetén elrendelheti a 10. § szerinti megelőző jellegű járványügyi intézkedéseket is.
 
 [^28]: A 21. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § i) pontja szerint módosított szöveg.
 [^29]: A 21. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § k) pontja szerint módosított szöveg.
 [^30]: A 21. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § j) pontja szerint módosított szöveg.
-[^31]: A 21. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja szerint módosított szöveg.
+[^31]: A 21. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja, a 91/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.

@@ -1,36 +1,40 @@
 10. melléklet a 23/2005. (III. 23.) FVM rendelethez
 
-## Vakcinázás, illetve sürgősségi vakcinázás alkalmazásáról szóló döntés során figyelembe veendő kritériumok
+Vakcinázás, illetve sürgősségi vakcinázás alkalmazásáról szóló döntés során figyelembe veendő kritériumok
 
 1. Védőoltás alkalmazásáról való döntés során figyelembe veendő kritériumok*
+
+## 5M01713_0.docx
 
 | Kritériumok | Döntés: a vakcinázás |
 
 | mellett | ellen |
 
-| 1. | Fogékony állatok állománysűrűsége | magas | alacsony |
+| 1. Fogékony állatok állománysűrűsége | magas | alacsony |
 
-| 2. | A klinikai tüneteket mutató faj elsősorban | sertés | kérődző |
+| 2. A klinikai tüneteket mutató faj elsősorban | sertés | kérődző |
 
-| 3. | Fertőzésre / kontaminációra gyanús állatok vagy ezekből származó vagy ezekkel érintkezett termékek községi zárlatból történő kiszállítását a járványügyi vizsgálat | igazolta | nem igazolta |
+| 3. Fertőzésre / kontaminációra gyanús állatok vagy ezekből származó vagy ezekkel érintkezett termékek községi zárlatból történő kiszállítását a járványügyi vizsgálat | igazolta | nem igazolta |
 
-| 4. | A vírus légi úton történő terjedésének kockázata a fertőzött gazdaságból | magas | alacsony / kizárható |
+| 4. A vírus légi úton történő terjedésének kockázata a fertőzött gazdaságból | magas | alacsony / kizárható |
 
-| 5. | Megfelelő vakcina | rendelkezésre áll | nem áll rendelkezésre |
+| 5. Megfelelő vakcina | rendelkezésre áll | nem áll rendelkezésre |
 
-| 6. | Kitörések eredete (visszavezethetőség) | ismeretlen | ismert |
+| 6. Kitörések eredete (visszavezethetőség) | ismeretlen | ismert |
 
-| 7. | A kitörések gyakorisága / a járványgörbe alakulása | gyorsan emelkedő | nem vagy lassan emelkedő |
+| 7. A kitörések gyakorisága / a járványgörbe alakulása | gyorsan emelkedő | nem vagy lassan emelkedő |
 
-| 8. | Kitörések területi megoszlása | széles körben elterjedt | egy területre korlátozódik |
+| 8. Kitörések területi megoszlása | széles körben elterjedt | egy területre korlátozódik |
 
-| 9. | Aközvélemény reakciója az állományok kiirtására | heves | közömbös |
+| 9. Aközvélemény reakciója az állományok kiirtására | heves | közömbös |
 
-| 10. | A vakcinázást követő régiókba sorolás elfogadható az ország számára? | igen | nem |
+| 10. A vakcinázást követő régiókba sorolás elfogadható az ország számára? | igen | nem |
 
-* Az Állategészségügyi Tudományos Bizottság 1999-es jelentése szerint.
+## * Az Állategészségügyi Tudományos Bizottság 1999-es jelentése szerint.
 
 2. További kritériumok a sürgősségi vakcinázás bevezetésének eldöntéséhez
+
+## 5M01713_1
 
 | Kritériumok | Döntés: a vakcinázás |
 
@@ -52,6 +56,8 @@
 
 3.1. E rendelet alkalmazása-, és különösen az 55. § (2) bekezdése szerinti intézkedések során a nagy sűrűségű állatállománnyal rendelkező területek 3.2. pont szerinti, vagy a közösségi jogszabályok szerinti meghatározása közül a szigorúbbat kell használni.
 
-3.2. Fogékony állatok
+3.2.[^87] Fogékony állatok
 
-Fogékony állatokra vonatkozóan a „nagy sűrűségű állatállománnyal rendelkező terület” meghatározást kell alkalmazni arra a 10 km sugarú kör által határolt területre, melynek középpontját egy fertőzött vagy fertőzöttségre gyanús fogékony állatokat tartó gazdaság képezi, amennyiben a megadott területen a fogékony állatok sűrűsége 1000 egyed/km2-nél magasabb. A fenti meghatározás akkor alkalmazható, ha a szóban forgó gazdaság olyan megyében található, ahol a fogékony állatok sűrűsége megyei átlagban 450 db/km2-nél magasabb, vagy ha távolsága egy ilyen megyétől kevesebb, mint 20 km.
+Fogékony állatokra vonatkozóan a „nagy sűrűségű állatállománnyal rendelkező terület” meghatározást kell alkalmazni arra a 10 km sugarú kör által határolt területre, melynek középpontját egy fertőzött vagy fertőzöttségre gyanús fogékony állatokat tartó gazdaság képezi, amennyiben a megadott területen a fogékony állatok sűrűsége 1000 egyed/km2-nél magasabb. A fenti meghatározás akkor alkalmazható, ha a szóban forgó gazdaság olyan vármegyében található, ahol a fogékony állatok sűrűsége vármegyei átlagban 450 db/km2-nél magasabb, vagy ha távolsága egy ilyen vármegyétől kevesebb, mint 20 km.
+
+[^87]: A 10. melléklet 3.2. pontja a 91/2022. (XII. 27.) AM rendelet 1. § c), f) és g) pontja szerint módosított szöveg.

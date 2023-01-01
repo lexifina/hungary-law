@@ -10,9 +10,9 @@
 
 ## a) sterilizálás legalább F0 3 érték mellett;
 
-## b) UHT[^79] kezelés;
+## b) UHT[^81] kezelés;
 
-## c) két alkalommal végzett HTST[^80] kezelés, amennyiben a tej kémhatása pH 7,0 vagy annál magasabb;
+## c) két alkalommal végzett HTST[^82] kezelés, amennyiben a tej kémhatása pH 7,0 vagy annál magasabb;
 
 ## d) HTST kezelés, amennyiben a tej kémhatása pH 7,0 vagy az alatti;
 
@@ -54,7 +54,7 @@
 
 8. melléklet a 23/2005. (III. 23.) FVM rendelethez
 
-## A lófélék forgalmának szabályai
+A lófélék forgalmának szabályai
 
 1. Minimumintézkedések
 
@@ -62,9 +62,9 @@ Amennyiben az ország területén ragadós száj- és körömfájásjárvány-ki
 
 2. További ajánlott intézkedések
 
-2.1.[^81] Intézkedések a forgalom tilalma alatt
+2.1.[^83] Intézkedések a forgalom tilalma alatt
 
-Abban az esetben, ha a megyei kormányhivatal a forgalom teljes szüneteltetését alkalmazza a 9. § (3) bekezdése szerint, a 6. és 12. § szerinti korlátozások alatt álló gazdaságokból csak olyan lófélék szállítása engedélyezhető, amelyek különleges állatorvosi kezelést igényelnek olyan létesítményekben, ahol fogékony állatokat nem tartanak és amennyiben az alábbi feltételek teljesülnek:
+Abban az esetben, ha a vármegyei kormányhivatal a forgalom teljes szüneteltetését alkalmazza a 9. § (3) bekezdése szerint, a 6. és 12. § szerinti korlátozások alatt álló gazdaságokból csak olyan lófélék szállítása engedélyezhető, amelyek különleges állatorvosi kezelést igényelnek olyan létesítményekben, ahol fogékony állatokat nem tartanak és amennyiben az alábbi feltételek teljesülnek:
 
 2.1.1. a szükséghelyzetet egy olyan állatorvos által kiállított dokumentum igazolja, aki minden nap 0–24 óráig készenlétben van és elérhető;
 
@@ -86,13 +86,13 @@ Abban az esetben, ha a megyei kormányhivatal a forgalom teljes szüneteltetés�
 
 2.2.2. A lófélék községi zárlaton és védőkörzeten belüli forgalmára a következő feltételek vonatkoznak:
 
-2.2.2.1.[^82] a községi zárlatban található, fogékony állatokat nem tartó gazdaságokban tartott lófélék használatát megfelelő tisztítási és fertőtlenítési intézkedések megtartása mellett a járási hivatal engedélyezheti. A védőkörzetben lévő telepeken tartott lovak használatára a fenti korlátozás nem vonatkozik;
+2.2.2.1.[^84] a községi zárlatban található, fogékony állatokat nem tartó gazdaságokban tartott lófélék használatát megfelelő tisztítási és fertőtlenítési intézkedések megtartása mellett a járási hivatal engedélyezheti. A védőkörzetben lévő telepeken tartott lovak használatára a fenti korlátozás nem vonatkozik;
 
 2.2.2.2. a lófélék korlátozás nélkül szállíthatók erre a célra alkalmas lószállító járművel olyan gazdaságokba, amelyekben fogékony állatokat nem tartanak;
 
-2.2.2.3.[^83] a járási hivatal esetileg engedélyezheti lófélék szállítását a célra alkalmas és nyilvántartott lószállító járművel fogékony állatokat nem tartó gazdaságból ugyanabban a községi zárlatban található másik olyan gazdaságba, ahol fogékony állatokat tartanak. Ebben az esetben a szállítóeszközt az állatok berakodása előtt és a rendeltetési gazdaság elhagyását megelőzően meg kell tisztítani és fertőtleníteni kell;
+2.2.2.3.[^85] a járási hivatal esetileg engedélyezheti lófélék szállítását a célra alkalmas és nyilvántartott lószállító járművel fogékony állatokat nem tartó gazdaságból ugyanabban a községi zárlatban található másik olyan gazdaságba, ahol fogékony állatokat tartanak. Ebben az esetben a szállítóeszközt az állatok berakodása előtt és a rendeltetési gazdaság elhagyását megelőzően meg kell tisztítani és fertőtleníteni kell;
 
-2.2.2.4.[^84] a lófélék forgalmát a megyei kormányhivatal engedélyezheti közutakon, olyan gazdasághoz tartozó legelőkön, amelyekben nem tartanak fogékony állatokat, valamint lovaspályákon.
+2.2.2.4.[^86] a lófélék forgalmát a vármegyei kormányhivatal engedélyezheti közutakon, olyan gazdasághoz tartozó legelőkön, amelyekben nem tartanak fogékony állatokat, valamint lovaspályákon.
 
 2.2.3. Nem korlátozható a lovak szaporítóanyagainak gyűjtése a községi zárlatban és a védőkörzetekben található olyan gazdaságokban, amelyekben nem tartanak fogékony állatokat, valamint a szaporítóanyagok olyan gazdaságokba történő szállítása, amelyekben fogékony állatokat nem tartanak.
 
@@ -104,9 +104,9 @@ Abban az esetben, ha a megyei kormányhivatal a forgalom teljes szüneteltetés�
 
 2.2.4.3. a szállítóeszközöket és a látogatók lábbelijét érkezéskor és a telep elhagyását megelőzően tisztítani és fertőtleníteni kell.
 
-[^79]: UHT = ultrapasztőrözés; 132 °C-on legalább egy másodpercig végzett hőkezelés.
-[^80]: HTST = magas hőmérsékleten végzett, gyors pasztőrözés; 72 °C-on legalább 15 másodperces hőntartással végzett hőkezelés vagy ezzel egyenértékű pasztőrözési eljárás, melynek hatására a kezelt tejen végzett foszfatáz-próba negatív.
-[^81]: A 8. számú melléklet 2.1. pontja a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja szerint módosított szöveg.
-[^82]: A 8. melléklet 2.2. pont 2.2.2.1. alpontja a 42/2017. (VIII. 17.) FM rendelet 76. § i) pontja szerint módosított szöveg.
-[^83]: A 8. melléklet 2.2. pont 2.2.2.3. alpontja a 42/2017. (VIII. 17.) FM rendelet 76. § i) pontja szerint módosított szöveg.
-[^84]: A 8. számú melléklet 2.2.2.4. pontja a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja szerint módosított szöveg.
+[^81]: UHT = ultrapasztőrözés; 132 °C-on legalább egy másodpercig végzett hőkezelés.
+[^82]: HTST = magas hőmérsékleten végzett, gyors pasztőrözés; 72 °C-on legalább 15 másodperces hőntartással végzett hőkezelés vagy ezzel egyenértékű pasztőrözési eljárás, melynek hatására a kezelt tejen végzett foszfatáz-próba negatív.
+[^83]: A 8. számú melléklet 2.1. pontja a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja, a 91/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^84]: A 8. melléklet 2.2. pont 2.2.2.1. alpontja a 42/2017. (VIII. 17.) FM rendelet 76. § i) pontja szerint módosított szöveg.
+[^85]: A 8. melléklet 2.2. pont 2.2.2.3. alpontja a 42/2017. (VIII. 17.) FM rendelet 76. § i) pontja szerint módosított szöveg.
+[^86]: A 8. számú melléklet 2.2.2.4. pontja a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja, a 91/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

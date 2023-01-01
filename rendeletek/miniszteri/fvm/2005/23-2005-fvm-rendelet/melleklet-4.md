@@ -1,6 +1,6 @@
 4. melléklet a 23/2005. (III. 23.) FVM rendelethez
 
-## A vizsgálatok és a mintavételezés rendje
+A vizsgálatok és a mintavételezés rendje
 
 1. Klinikai vizsgálat
 

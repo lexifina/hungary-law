@@ -24,11 +24,11 @@ a) a vakcinázási övezetben lévő, a származási gazdasággal megegyező ál
 
 b) vágóhíd, ahol azonnal levágják őket;
 
-c)[^69] a megyei kormányhivatal által kijelölt gazdaság, ahonnan az utód közvetlenül vágóhídra szállítandó;
+c)[^69] a vármegyei kormányhivatal által kijelölt gazdaság, ahonnan az utód közvetlenül vágóhídra szállítandó;
 
 d) bármely gazdaság, ha a gazdaságból történő kiszállítás előtt vett vérmintákból a ragadós száj- és körömfájás vírusa ellen termelődött ellenanyagok kimutatásán alapuló szerológiai vizsgálat negatív eredményt adott.
 
 [^66]: A 65. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § n) pontja szerint módosított szöveg.
 [^67]: A 65. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § j) pontja szerint módosított szöveg.
 [^68]: A 65. § (4) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 76. § j) pontja szerint módosított szöveg.
-[^69]: A 65. § (5) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja szerint módosított szöveg.
+[^69]: A 65. § (5) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 76. § a) pontja, a 91/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

@@ -8,6 +8,6 @@
 
 (3) Azon gazdaságokban, amelyekben akár egy kontaminációra gyanús állat is van, de a gazdaság valamennyi fogékony állatára kiterjedő későbbi vizsgálat kizárta a ragadós száj- és körömfájás vírusának jelenlétét, a hatósági állatorvos elrendeli a gazdaságban lévő fogékony állatok leölését és tetemeik ártalmatlanítását, vagy utasítást ad a (4) bekezdésben foglaltak végrehajtására.
 
-(4)[^65] A hatósági állatorvos dönthet úgy, hogy a kontaminációra gyanús állatot tartalmazó állomány egyedeit a 62. § (3) bekezdésben foglalt vizsgálatok eredménye alapján minősítik. A vizsgálatok legalább egyikére pozitív állatokat késedelem nélkül le kell ölni, és tetemeiket ártalmatlanítani kell. A gazdaságban maradt negatív állatokat a járási hivatal engedélyével és utasításai szerint a megyei kormányhivatal által kijelölt vágóhídon kell levágni.
+(4)[^65] A hatósági állatorvos dönthet úgy, hogy a kontaminációra gyanús állatot tartalmazó állomány egyedeit a 62. § (3) bekezdésben foglalt vizsgálatok eredménye alapján minősítik. A vizsgálatok legalább egyikére pozitív állatokat késedelem nélkül le kell ölni, és tetemeiket ártalmatlanítani kell. A gazdaságban maradt negatív állatokat a járási hivatal engedélyével és utasításai szerint a vármegyei kormányhivatal által kijelölt vágóhídon kell levágni.
 
-[^65]: A 63. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § a) és i) pontja szerint módosított szöveg.
+[^65]: A 63. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 76. § a) és i) pontja, a 91/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

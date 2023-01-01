@@ -9,3 +9,5 @@
 ## A védőkörzetből származó fogékony állatok nyers húsával kapcsolatos további intézkedések naprakész listáját a készenléti terv tartalmazza.
 
 12. melléklet a 23/2005. (III. 23.) FVM rendelethez
+
+A ragadós száj- és körömfájás élő vírusának vizsgálatára jogosult nemzeti referencia laboratórium
