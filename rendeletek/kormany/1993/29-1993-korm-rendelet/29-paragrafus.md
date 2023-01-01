@@ -1,6 +1,4 @@
-## 29. §
-
-(1) A felnőttkorban megvakultak rehabilitációját biztosító intézményben a vak személy önálló életre való felkészítése idejére csak az élelmezési költség megfizetésére kötelezhető.
+29. § (1) A felnőttkorban megvakultak rehabilitációját biztosító intézményben a vak személy önálló életre való felkészítése idejére csak az élelmezési költség megfizetésére kötelezhető.
 
 (2)[^88] Nem kell térítési díjat fizetni a sikeres rehabilitáció érdekében történő, legfeljebb három hónap időtartamú eltávozás esetén, valamint a látás- és mozgássérült fogyatékos személyek intézményében a hivatalos iskolai szünet alatti távollét idejére.
 

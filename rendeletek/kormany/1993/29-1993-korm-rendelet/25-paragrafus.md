@@ -2,9 +2,7 @@
 
 ## A rehabilitációs intézményben elhelyezett ellátott és a rehabilitációs célú lakóotthonban határozott időre elhelyezett ellátott esetében a fenntartó a személyi térítési díj 50%-át előtakarékossági címen elkülönítetten kezelheti. Az előtakarékosság címén befizetett összeget elkülönített betétkönyvben, vagy elkülönített letéti számlán kell elhelyezni, és ki kell adni, ha az ellátott intézményi jogviszonya a sikeres rehabilitáció következtében megszűnik. Ha az intézményi jogviszony egyéb okból szűnik meg, az előtakarékosság címén befizetett összeget térítési díj-hátralékként kell kezelni.
 
-## 25. §[^72]
-
-(1) A támogatott lakhatás személyi térítési díja
+25. §[^72] (1) A támogatott lakhatás személyi térítési díja
 
 a) a 28. § (4) bekezdése szerinti lakhatási költségekből, és
 

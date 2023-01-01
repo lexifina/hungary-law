@@ -1,6 +1,4 @@
-## 3. §[^12]
-
-(1) Az intézményi térítési díjat és a személyi térítési díjat
+3. §[^12] (1) Az intézményi térítési díjat és a személyi térítési díjat
 
 a) étkeztetés esetén ellátási napra,
 

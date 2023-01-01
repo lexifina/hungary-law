@@ -4,4 +4,7 @@
 
 ## Házi segítségnyújtás
 
+12. §[^37]
+
 [^36]: A 11. § a 322/2009. (XII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^37]: A 12. §-t a 235/2017. (VIII. 18.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.

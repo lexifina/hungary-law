@@ -1,8 +1,6 @@
 ## Általános szabályok
 
-## 2. §
-
-(1)[^6] A fenntartó a személyes gondoskodás körébe tartozó szociális ellátásért térítési díjat (a továbbiakban: intézményi térítési díj) állapít meg, amelyet az Szt.-ben, e rendeletben, a fenntartó önkormányzatok rendeletében, valamint az Szt. 94/C. §-a, illetve a 2011. január 1-jét megelőzően hatályos 94/B. vagy 94/D. §-a szerinti megállapodásban (a továbbiakban együtt: megállapodás) foglaltak szerint kell megfizetni.
+2. § (1)[^6] A fenntartó a személyes gondoskodás körébe tartozó szociális ellátásért térítési díjat (a továbbiakban: intézményi térítési díj) állapít meg, amelyet az Szt.-ben, e rendeletben, a fenntartó önkormányzatok rendeletében, valamint az Szt. 94/C. §-a, illetve a 2011. január 1-jét megelőzően hatályos 94/B. vagy 94/D. §-a szerinti megállapodásban (a továbbiakban együtt: megállapodás) foglaltak szerint kell megfizetni.
 
 (2)[^7]
 

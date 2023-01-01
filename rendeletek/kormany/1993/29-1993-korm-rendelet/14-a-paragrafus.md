@@ -1,8 +1,6 @@
 ## Támogató szolgálat[^43]
 
-## 14/A. §[^44]
-
-(1)[^45] A támogató szolgáltatás térítési díja az óradíjból és szállítási kilométerdíjból áll.
+14/A. §[^44] (1)[^45] A támogató szolgáltatás térítési díja az óradíjból és szállítási kilométerdíjból áll.
 
 (2)[^46]
 

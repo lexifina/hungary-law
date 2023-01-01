@@ -2,9 +2,7 @@
 
 ## A fizetendő személyi térítési díj összegét, a pénz- és ingatlanvagyon terhelését, a fizetési kötelezettség teljesítését, valamint a hátralékot – az Szt. 68/B. §-a és 117/B. §-a szerinti eset kivételével – nyilván kell tartani.
 
-## 20. §
-
-(1)–(2)[^62]
+20. § (1)–(2)[^62]
 
 (3)[^63]
 

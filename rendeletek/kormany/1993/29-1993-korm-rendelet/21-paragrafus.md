@@ -1,6 +1,4 @@
-## 21. §
-
-(1)[^64]
+21. § (1)[^64]
 
 (2)[^65] A gondozási napokról – a hajléktalan személyek átmeneti szállásához vagy nappali melegedőjéhez kapcsolódó, az Szt. 84. § (2) bekezdés a) pontja szerinti lakhatási szolgáltatást nyújtó férőhelyek kivételével – a 4. számú melléklet szerinti nyilvántartást kell vezetni.
 

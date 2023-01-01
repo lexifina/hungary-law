@@ -1,6 +1,4 @@
-## 27. §[^78]
-
-(1)[^79] Ha az ellátott gondnokság alatt áll, gondnoka — amennyiben a gondozott megfelelő jövedelemmel vagy készpénzvagyonnal rendelkezik — köteles — legalább az Szt. 117/A. §-a szerinti, a költőpénz összegével azonos összegű — készpénzt biztosítani a gondnokolt személyes szükségleteire. Amennyiben a gondnok e kötelességének nem tesz eleget, az intézményvezető erről – a szükséges intézkedés megtétele érdekében – tájékoztatja a gondnokot kirendelő gyámhatóságot.
+27. §[^78] (1)[^79] Ha az ellátott gondnokság alatt áll, gondnoka — amennyiben a gondozott megfelelő jövedelemmel vagy készpénzvagyonnal rendelkezik — köteles — legalább az Szt. 117/A. §-a szerinti, a költőpénz összegével azonos összegű — készpénzt biztosítani a gondnokolt személyes szükségleteire. Amennyiben a gondnok e kötelességének nem tesz eleget, az intézményvezető erről – a szükséges intézkedés megtétele érdekében – tájékoztatja a gondnokot kirendelő gyámhatóságot.
 
 (2)[^80] Az (1) bekezdés rendelkezéseit értelemszerűen kell alkalmazni a személyes gondoskodásban részesülő gyermekvédelmi gondoskodás alatt álló kiskorúak esetében is.
 

@@ -4,6 +4,8 @@ NYILVÁNTARTÁS
 
 a gondozási és élelmezési napok számának alakulásáról 20… évben
 
+M30751_0
+
 | Sor- szám | Hónap | Ellátásra jogosultak száma (gond. napok száma) | Közülük távollevők száma | Élelmezési napok száma | Megjegyzés |
 
 | kórházban | szabadságon | engedély nélkül |

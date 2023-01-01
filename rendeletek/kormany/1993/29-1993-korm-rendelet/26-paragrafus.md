@@ -1,6 +1,4 @@
-## 26. §
-
-(1)[^75] A személyi térítési díj meghatározásánál nem vehető figyelembe az ellátásban részesülő
+26. § (1)[^75] A személyi térítési díj meghatározásánál nem vehető figyelembe az ellátásban részesülő
 
 a)[^76] foglalkoztatásából származó munkajutalma,
 

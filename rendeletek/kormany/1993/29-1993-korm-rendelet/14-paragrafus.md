@@ -1,8 +1,6 @@
 ## Jelzőrendszeres házi segítségnyújtás[^40]
 
-## 14. §[^41]
-
-(1)–(2)[^42]
+14. §[^41] (1)–(2)[^42]
 
 (3) A jelzőrendszeres házi segítségnyújtásért fizetendő személyi térítési díj azokra az ellátási napokra állapítandó meg, melyeken az igénylő otthonában működő jelzőkészülék található.
 

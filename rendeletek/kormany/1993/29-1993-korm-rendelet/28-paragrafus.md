@@ -1,6 +1,4 @@
-## 28. §[^81]
-
-(1)[^82] Az ellátott két hónapot meg nem haladó távollét idejére – a rehabilitációs célú lakóotthoni ellátás és a támogatott lakhatás kivételével – a távollét minden napjára a napi személyi térítési díj 20%-át kell fizetni. A távolléti napok naptári éves szinten összesíthetők.
+28. §[^81] (1)[^82] Az ellátott két hónapot meg nem haladó távollét idejére – a rehabilitációs célú lakóotthoni ellátás és a támogatott lakhatás kivételével – a távollét minden napjára a napi személyi térítési díj 20%-át kell fizetni. A távolléti napok naptári éves szinten összesíthetők.
 
 (2)[^83] Az ellátott két hónapot meghaladó távolléte idejére – a rehabilitációs célú lakóotthoni ellátás és a támogatott lakhatás kivételével –
 
@@ -8,7 +6,7 @@ a) az egészségügyi intézményben történő kezelésének időtartama alatt,
 
 b) az a) pontban nem említett esetben a távollét minden napjára a napi személyi térítési díj 60%-át
 
-## kell fizetni.
+kell fizetni.
 
 (3)[^84] A rehabilitációs lakóotthonban elhelyezett személy távolléte idejére személyi térítési díjként a lakhatási költség 100%-át fizeti. Távollétnek minősül az a gondozási nap, melyen az ellátott nem tartózkodik az intézményben.
 

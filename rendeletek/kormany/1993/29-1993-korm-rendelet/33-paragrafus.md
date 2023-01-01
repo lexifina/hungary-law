@@ -2,9 +2,7 @@
 
 ## A 2008. január 1-jén idősotthoni ellátásban részesülő személyre – ha az egyes szociális tárgyú törvények módosításáról szóló 2007. évi CXXI. törvény 81. § (6) vagy (10) bekezdése szerint nem kérik a jövedelemvizsgálatot – a térítési díj megállapítása során a jövedelmi helyzet vizsgálatára, a térítési díj alapjául figyelembe vehető jövedelemre, vagyonra, illetve ezek körére továbbra is a 2007. december 31-én hatályos szabályokat kell alkalmazni.
 
-## 33. §[^99]
-
-(1) E rendeletnek a szociális szolgáltatási tárgyú kormányrendeleteknek az egyes szociális, gyermekvédelmi, családtámogatási, fogyatékosságügyi és foglalkoztatási tárgyú törvények módosításáról szóló 2010. évi CLXXI. törvénnyel összefüggő módosításáról szól 357/2010. (XII. 30.) Korm. rendelettel megállapított, illetve módosított
+33. §[^99] (1) E rendeletnek a szociális szolgáltatási tárgyú kormányrendeleteknek az egyes szociális, gyermekvédelmi, családtámogatási, fogyatékosságügyi és foglalkoztatási tárgyú törvények módosításáról szóló 2010. évi CLXXI. törvénnyel összefüggő módosításáról szól 357/2010. (XII. 30.) Korm. rendelettel megállapított, illetve módosított
 
 a) 3. §-át a térítési díj 2010. december 31-ét követő megállapítása és felülvizsgálata során kell alkalmazni,
 

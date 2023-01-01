@@ -1,8 +1,6 @@
 ## Hajléktalan személyek átmeneti szállása[^66]
 
-## 22. §
-
-(1)[^67] A hajléktalanok átmeneti szállására szolgáló intézményekben – a rehabilitációs célú intézmények és a hajléktalan személyek átmeneti szállásához vagy nappali melegedőjéhez kapcsolódó, az Szt. 84. § (2) bekezdés a) pontja szerinti lakhatási szolgáltatást nyújtó férőhelyek kivételével – a gondozás első 30 napjára személyi térítési díj nem kérhető.
+22. § (1)[^67] A hajléktalanok átmeneti szállására szolgáló intézményekben – a rehabilitációs célú intézmények és a hajléktalan személyek átmeneti szállásához vagy nappali melegedőjéhez kapcsolódó, az Szt. 84. § (2) bekezdés a) pontja szerinti lakhatási szolgáltatást nyújtó férőhelyek kivételével – a gondozás első 30 napjára személyi térítési díj nem kérhető.
 
 (2)[^68] A hajléktalan személyek átmeneti szállása külső férőhelyén fizetendő lakhatási költség megállapítása során a 28. § (4) bekezdésében foglaltakat kell alkalmazni.
 

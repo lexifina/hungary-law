@@ -1,8 +1,6 @@
 ## A rendelet hatálya
 
-## 1. §
-
-(1)[^1] E rendeletet az Szt. 4. § (1) bekezdés m) pont ma) alpontja szerinti állami fenntartók által fenntartott személyes gondoskodást nyújtó szociális ellátásokért és szolgáltatásokért (a továbbiakban együtt: ellátás) fizetendő térítési díjak megállapítására kell alkalmazni. E rendeletet kell alkalmazni akkor is, ha az egyházi fenntartó vagy a nem állami fenntartó a személyes gondoskodást nyújtó szociális ellátások biztosítását a települési önkormányzattól vagy a Szociális és Gyermekvédelmi Főigazgatóságtól az Szt. VI. fejezetében meghatározottak szerint ellátási szerződésben átvállalja vagy jogszabály alapján ahhoz támogatást vesz igénybe.
+1. § (1)[^1] E rendeletet az Szt. 4. § (1) bekezdés m) pont ma) alpontja szerinti állami fenntartók által fenntartott személyes gondoskodást nyújtó szociális ellátásokért és szolgáltatásokért (a továbbiakban együtt: ellátás) fizetendő térítési díjak megállapítására kell alkalmazni. E rendeletet kell alkalmazni akkor is, ha az egyházi fenntartó vagy a nem állami fenntartó a személyes gondoskodást nyújtó szociális ellátások biztosítását a települési önkormányzattól vagy a Szociális és Gyermekvédelmi Főigazgatóságtól az Szt. VI. fejezetében meghatározottak szerint ellátási szerződésben átvállalja vagy jogszabály alapján ahhoz támogatást vesz igénybe.
 
 (2)[^2] E rendelet hatálya nem terjed ki
 
