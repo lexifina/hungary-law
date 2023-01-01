@@ -146,7 +146,7 @@
 
 62. területi program: a Terület- és Településfejlesztési Operatív Program (a továbbiakban: TOP) és a Versenyképes Közép-Magyarország Operatív Program (a továbbiakban: VEKOP),
 
-63.[^58] területi szereplő: megyei önkormányzat, megyei jogú város önkormányzata és a fővárosi önkormányzat, amely az integrált területi program (a továbbiakban: ITP) összeállításáért felelős,
+63.[^58] területi szereplő: vármegyei önkormányzat, megyei jogú város önkormányzata és a fővárosi önkormányzat, amely az integrált területi program (a továbbiakban: ITP) összeállításáért felelős,
 
 64.[^59] transznacionális együttműködés: az 1304/2013/EU európai parlamenti és tanácsi rendelet 10. cikkében meghatározott együttműködési forma,
 
@@ -239,7 +239,7 @@ szerint kell értelmezni.
 [^55]: A 3. § (1) bekezdés 51. pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 6. pontja szerint módosított szöveg.
 [^56]: A 3. § (1) bekezdés 54. pontja a 98/2016. (V. 13.) Korm. rendelet 46. § 2. pontja szerint módosított szöveg.
 [^57]: A 3. § (1) bekezdés 61a. pontját a 153/2019. (VI. 26.) Korm. rendelet 2. §-a iktatta be.
-[^58]: A 3. § (1) bekezdés 63. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 11. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^58]: A 3. § (1) bekezdés 63. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 11. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 7. pontja, a 616/2022. (XII. 29.) Korm. rendelet 192. § a) pontja szerint módosított szöveg.
 [^59]: A 3. § (1) bekezdés 64. pontja a 247/2016. (VIII. 17.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
 [^60]: A 3. § (1) bekezdés 67. pontját a 466/2015. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
 [^61]: A 3. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 5. § (11) bekezdése iktatta be.

@@ -6,7 +6,7 @@
 
 a) az e rendelet hatálya alá tartozó támogatások ellenőrzésének szabályozása, harmonizációja, koordinációja, valamint
 
-b)[^122] az audit hatósági, valamint az igazoló hatósági feladatok ellátásának biztosítása.
+b)[^122] az igazoló hatósági feladatok ellátásának biztosítása.
 
 (2) Az államháztartásért felelős miniszter az (1) bekezdés a) pontja szerinti feladatait a központi harmonizációs egységen keresztül látja el. E feladatok ellátása körében gondoskodik
 
@@ -16,7 +16,7 @@ b) az ellenőrzési vonatkozású uniós jogszabályok és módszertani útmutat
 
 c) az ellenőrzéseknek a megfelelő nemzetközi ellenőrzési standardok és harmonizált módszertan szerint történő lefolytatásáról,
 
-d) az audit stratégiában foglalt ellenőrzések és az e rendelet hatálya alá tartozó támogatások lebonyolításában, ellenőrzésében érintett szervezetek által az alapokból származó támogatások tekintetében végzett egyéb ellenőrzések áttekintéséről, harmonizálásáról, ezek révén az ellenőrzési erőforrások átfedésektől mentes, hatékony és eredményes felhasználásának biztosításáról,
+d)[^123]
 
 e) az 1303/2013/EU európai parlamenti és tanácsi rendelet 128. cikke szerinti egyeztetéseken való részvételről,
 
@@ -24,8 +24,9 @@ f) az Európai Bizottság által végzett ellenőrzésekre adandó tagállami v�
 
 g) minőségértékelés keretében a folyamatba épített ellenőrzéseket, továbbá a rendszer- és mintavételes ellenőrzéseket végző szervezetek tekintetében a jogszabályok, a módszertani útmutatók, a nemzetközi ellenőrzési standardok alkalmazásának és végrehajtásának figyelemmel kíséréséről, vizsgálatáról,
 
-h)[^123] az e rendelet hatálya alá tartozó támogatások ellenőrzésének helyzetére vonatkozó beszámoló készítéséről a Fejlesztéspolitikai Koordinációs Bizottság számára.
+h)[^124]
 
 [^121]: A 14/A. § a 258/2022. (VII. 20.) Korm. rendelet 3. § (1) bekezdés 4. pontja szerint módosított szöveg.
-[^122]: A 15. § (1) bekezdés b) pontja a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 4. pontja szerint módosított szöveg.
-[^123]: A 15. § (2) bekezdés h) pontja a 310/2018. (XII. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^122]: A 15. § (1) bekezdés b) pontja a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 4. pontja, a 615/2022. (XII. 29.) Korm. rendelet 10. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^123]: A 15. § (2) bekezdés d) pontját a 615/2022. (XII. 29.) Korm. rendelet 10. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^124]: A 15. § (2) bekezdés h) pontját a 615/2022. (XII. 29.) Korm. rendelet 10. § (1) bekezdés a) pontja hatályon kívül helyezte.

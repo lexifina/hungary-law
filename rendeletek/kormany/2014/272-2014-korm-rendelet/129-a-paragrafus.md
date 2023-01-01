@@ -1,3 +1,3 @@
-129/A. §[^861]
+129/A. §[^866]
 
-[^861]: A 129/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 76. § (2) bekezdése iktatta be, hatályon kívül helyezte az 59/2018. (III. 26.) Korm. rendelet 13. § (1) bekezdés g) pontja.
+[^866]: A 129/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 76. § (2) bekezdése iktatta be, hatályon kívül helyezte az 59/2018. (III. 26.) Korm. rendelet 13. § (1) bekezdés g) pontja.

@@ -6,24 +6,24 @@ a) a megelőző munkafázisok megtörténtek,
 
 b) a kedvezményezettnek nincs köztartozása,
 
-c)[^885] a kedvezményezett nem áll a 176. § (3) bekezdése szerinti valamely eljárás hatálya alatt,
+c)[^890] a kedvezményezett nem áll a 176. § (3) bekezdése szerinti valamely eljárás hatálya alatt,
 
-d)[^886] az adatok a monitoring és információs rendszerben rögzítésre és jóváhagyásra kerültek, és
+d)[^891] az adatok a monitoring és információs rendszerben rögzítésre és jóváhagyásra kerültek, és
 
-e)[^887] az utalványozás megtörtént.
+e)[^892] az utalványozás megtörtént.
 
-(3)[^888] A kedvezményezett a köztartozás rendezésére történő irányító hatósági felszólítást követő kilencven napon belül köteles köztartozását megszüntetni, ellenkező esetben az irányító hatóság az adott kifizetési igénylés alapján jóváhagyott támogatási összeget visszavonja vagy a támogatási szerződéstől eláll. Az előírt határidő nem hosszabbítható meg.
+(3)[^893] A kedvezményezett a köztartozás rendezésére történő irányító hatósági felszólítást követő kilencven napon belül köteles köztartozását megszüntetni, ellenkező esetben az irányító hatóság az adott kifizetési igénylés alapján jóváhagyott támogatási összeget visszavonja vagy a támogatási szerződéstől eláll. Az előírt határidő nem hosszabbítható meg.
 
-(3a)[^889] EMVA forrásból megvalósuló projekt esetén a (2) bekezdés b) pontját és a (3) bekezdést a 79. § (2b) bekezdés b) pontjára figyelemmel kell alkalmazni.
+(3a)[^894] EMVA forrásból megvalósuló projekt esetén a (2) bekezdés b) pontját és a (3) bekezdést a 79. § (2b) bekezdés b) pontjára figyelemmel kell alkalmazni.
 
-(4)[^890]
+(4)[^895]
 
-(5)[^891] Az Ávr. 5. melléklet 11. pontja szerinti adatszolgáltatási kötelezettséget az ESB-alapok tekintetében nem kell alkalmazni.
+(5)[^896] Az Ávr. 5. melléklet 11. pontja szerinti adatszolgáltatási kötelezettséget az ESB-alapok tekintetében nem kell alkalmazni.
 
-[^885]: A 135. § (2) bekezdés c) pontja a 366/2019. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^886]: A 135. § (2) bekezdés d) pontja a 366/2019. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^887]: A 135. § (2) bekezdés e) pontját a 366/2019. (XII. 30.) Korm. rendelet 8. §-a iktatta be.
-[^888]: A 135. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 169. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 43. pontja szerint módosított szöveg.
-[^889]: A 135. § (3a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 80. § (1) bekezdése iktatta be.
-[^890]: A 135. § (4) bekezdését az 59/2018. (III. 26.) Korm. rendelet 13. § (1) bekezdés h) pontja hatályon kívül helyezte.
-[^891]: A 135. § (5) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 86. § (2) bekezdése hatályon kívül helyezte, újonnan a 466/2015. (XII. 29.) Korm. rendelet 34. §-a iktatta be.
+[^890]: A 135. § (2) bekezdés c) pontja a 366/2019. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^891]: A 135. § (2) bekezdés d) pontja a 366/2019. (XII. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^892]: A 135. § (2) bekezdés e) pontját a 366/2019. (XII. 30.) Korm. rendelet 8. §-a iktatta be.
+[^893]: A 135. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 169. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 43. pontja szerint módosított szöveg.
+[^894]: A 135. § (3a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 80. § (1) bekezdése iktatta be.
+[^895]: A 135. § (4) bekezdését az 59/2018. (III. 26.) Korm. rendelet 13. § (1) bekezdés h) pontja hatályon kívül helyezte.
+[^896]: A 135. § (5) bekezdését a 175/2015. (VII. 7.) Korm. rendelet 86. § (2) bekezdése hatályon kívül helyezte, újonnan a 466/2015. (XII. 29.) Korm. rendelet 34. §-a iktatta be.

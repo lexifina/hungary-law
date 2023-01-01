@@ -1,4 +1,4 @@
-56/B. §[^367] (1)[^368] A projektfejlesztés során az irányító hatóság feladatai:
+56/B. §[^371] (1)[^372] A projektfejlesztés során az irányító hatóság feladatai:
 
 a) a fejlesztés elindításához szükséges engedélyezési, közbeszerzési, kiviteli tervezési eljárások figyelemmel kísérése és elősegítése,
 
@@ -8,15 +8,15 @@ c) a felhívásban meghatározott szakmai kritériumok teljesítésének ellenő
 
 d) a projektdokumentáció elkészítésének szakmai támogatása,
 
-e)[^369] indokolt esetben projektfejlesztés biztosítása az adott szakpolitikai felelős szervezeti egységével,
+e)[^373] indokolt esetben projektfejlesztés biztosítása az adott szakpolitikai felelős szervezeti egységével,
 
 f) a projektek költséghatékonyságának, ár-érték arányának és fenntarthatóságának elősegítése.
 
-(2)[^370] A kedvezményezett a projektfejlesztés során köteles:
+(2)[^374] A kedvezményezett a projektfejlesztés során köteles:
 
 a) együttműködni az irányító hatósággal,
 
-b)[^371] a projektfejlesztés keretében szervezett személyes egyeztetéseken személyesen vagy hivatalos képviselő útján részt venni,
+b)[^375] a projektfejlesztés keretében szervezett személyes egyeztetéseken személyesen vagy hivatalos képviselő útján részt venni,
 
 c) az irányító hatóság által a rendelkezésére bocsátott dokumentumokat, segédleteket felhasználni a projektdokumentáció kidolgozásához,
 
@@ -26,11 +26,11 @@ e) a támogatási szerződésben meghatározott határidőket betartani,
 
 f) a támogatási szerződésben meghatározott időpontban a projektdokumentációt benyújtani.
 
-(3)[^372] A projektfejlesztés folyamatát – ideértve az elektronikus úton történt egyeztetéseket is – dokumentálni kell. A projektfejlesztés során történt személyes egyeztetésekről az irányító hatóság és a kedvezményezett aláírásával ellátott emlékeztetőt kell készíteni.
+(3)[^376] A projektfejlesztés folyamatát – ideértve az elektronikus úton történt egyeztetéseket is – dokumentálni kell. A projektfejlesztés során történt személyes egyeztetésekről az irányító hatóság és a kedvezményezett aláírásával ellátott emlékeztetőt kell készíteni.
 
-[^367]: Az 56/B. §-t a 144/2015. (VI. 12.) Korm. rendelet 27. §-a iktatta be.
-[^368]: Az 56/B. § (1) bekezdés nyitó szövegrésze a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^369]: Az 56/B. § (1) bekezdés e) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^370]: Az 56/B. § (2) bekezdés nyitó szövegrésze a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 10. pontja szerint módosított szöveg.
-[^371]: Az 56/B. § (2) bekezdés b) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 11. pontja szerint módosított szöveg.
-[^372]: Az 56/B. § (3) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 12. pontja szerint módosított szöveg.
+[^371]: Az 56/B. §-t a 144/2015. (VI. 12.) Korm. rendelet 27. §-a iktatta be.
+[^372]: Az 56/B. § (1) bekezdés nyitó szövegrésze a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^373]: Az 56/B. § (1) bekezdés e) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^374]: Az 56/B. § (2) bekezdés nyitó szövegrésze a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 10. pontja szerint módosított szöveg.
+[^375]: Az 56/B. § (2) bekezdés b) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 11. pontja szerint módosított szöveg.
+[^376]: Az 56/B. § (3) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 12. pontja szerint módosított szöveg.

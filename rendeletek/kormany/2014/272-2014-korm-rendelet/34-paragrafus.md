@@ -1,14 +1,14 @@
 ## 33. § Az audit hatóság jelentést és véleményt készít arról a szervezetről, amelynek irányító hatóságként és igazoló hatóságként történő kijelölését kezdeményezik. A jelentést és a véleményt mellékelni kell a kijelölésre irányuló javaslathoz.
 
-34. § (1)[^240] Ha az operatív programok végrehajtása során az audit hatóság által készített jelentés, vagy a kijelölt szervezetek működésével kapcsolatos tapasztalatok alapján az 1303/2013/EU európai parlamenti és tanácsi rendelet XIII. mellékletében, illetve a 223/2014/EU európai parlamenti és tanácsi rendelet IV. mellékletében meghatározott kritériumok nem teljesülnek, az európai uniós források felhasználásáért felelős miniszter és az audit hatóság együttesen kezdeményezheti, hogy a Kormány próbaidőt rendeljen el a hiányosságok pótlására.
+34. § (1)[^243] Ha az operatív programok végrehajtása során az audit hatóság által készített jelentés, vagy a kijelölt szervezetek működésével kapcsolatos tapasztalatok alapján az 1303/2013/EU európai parlamenti és tanácsi rendelet XIII. mellékletében, illetve a 223/2014/EU európai parlamenti és tanácsi rendelet IV. mellékletében meghatározott kritériumok nem teljesülnek, az európai uniós források felhasználásáért felelős miniszter és az audit hatóság együttesen kezdeményezheti, hogy a Kormány próbaidőt rendeljen el a hiányosságok pótlására.
 
-(2)[^241] Ha a hiányosságok kiküszöbölésre kerültek, a Kormány a próbaidőt megszünteti.
+(2)[^244] Ha a hiányosságok kiküszöbölésre kerültek, a Kormány a próbaidőt megszünteti.
 
-(3)[^242] Ha a hiányosságok nem kerültek kiküszöbölésre, az európai uniós források felhasználásáért felelős miniszter és az audit hatóság együttesen kezdeményezheti, hogy a Kormány az (1) bekezdés szerinti határidőt hosszabbítsa meg, vagy e rendeletnek a kijelölés megszüntetéséhez szükséges módosításáról hozzon döntést.
+(3)[^245] Ha a hiányosságok nem kerültek kiküszöbölésre, az európai uniós források felhasználásáért felelős miniszter és az audit hatóság együttesen kezdeményezheti, hogy a Kormány az (1) bekezdés szerinti határidőt hosszabbítsa meg, vagy e rendeletnek a kijelölés megszüntetéséhez szükséges módosításáról hozzon döntést.
 
-(4)[^243] A kijelölés (3) bekezdés szerinti megszüntetése esetén a Kormány gondoskodik más szervezet kijelöléséről.
+(4)[^246] A kijelölés (3) bekezdés szerinti megszüntetése esetén a Kormány gondoskodik más szervezet kijelöléséről.
 
-[^240]: A 34. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 52. pontja, a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 5. pontja, a 258/2022. (VII. 20.) Korm. rendelet 3. § (1) bekezdés 11. pontja szerint módosított szöveg.
-[^241]: A 34. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 53. pontja szerint módosított szöveg.
-[^242]: A 34. § (3) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^243]: A 34. § (4) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^243]: A 34. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 52. pontja, a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 5. pontja, a 258/2022. (VII. 20.) Korm. rendelet 3. § (1) bekezdés 11. pontja szerint módosított szöveg.
+[^244]: A 34. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 53. pontja szerint módosított szöveg.
+[^245]: A 34. § (3) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^246]: A 34. § (4) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 14. §-ával megállapított szöveg.

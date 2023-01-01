@@ -1,4 +1,4 @@
-46. § (1)[^325] A felhívás tartalmazza legalább
+46. § (1)[^328] A felhívás tartalmazza legalább
 
 a) a felhívás nevét, keretösszegét,
 
@@ -22,7 +22,7 @@ j) a támogatási kérelem benyújtásának módját, helyét és határidejét,
 
 k) standard és egyszerűsített kiválasztási eljárás esetén azt, hogy a támogatási kérelem a felhívás közzétételét követő harmincadik nap előtt nem nyújtható be,
 
-l)[^326]
+l)[^329]
 
 m) a támogatási kérelemhez csatolandó mellékletek listáját,
 
@@ -30,29 +30,29 @@ n) a támogatási intézkedésre vonatkozó támogatási kategóriát és az arr
 
 o) a projektkiválasztásra vonatkozó eljárásrendet és további részletes információkat tartalmazó dokumentumok elérhetőségét.
 
-(1a)[^327] A terület-, illetve állatlétszám alapú támogatásokra vonatkozó felhívásokban nem kell szerepeltetni az (1) bekezdés h) és n) pontjában meghatározott tartalmi elemeket, az (1) bekezdés d) és i) pontjában meghatározottakat a terület-, illetve állatlétszám alapú intézkedés céljától függően kell alkalmazni.
+(1a)[^330] A terület-, illetve állatlétszám alapú támogatásokra vonatkozó felhívásokban nem kell szerepeltetni az (1) bekezdés h) és n) pontjában meghatározott tartalmi elemeket, az (1) bekezdés d) és i) pontjában meghatározottakat a terület-, illetve állatlétszám alapú intézkedés céljától függően kell alkalmazni.
 
-(1b)[^328] A gazdaságfejlesztést célzó projekt megvalósítására irányuló felhívásnak – ha a támogatás igénylésére jogosultak köre a közvetlen vagy közvetett többségi állami tulajdonban álló gazdasági társaságokra, illetve a költségvetési szervekre is kiterjed – az (1) bekezdésben foglaltakon túl tartalmaznia kell azt is, hogy közvetlen vagy közvetett többségi állami tulajdonban álló gazdasági társaság, illetve központi költségvetési szerv csak akkor nyújthat be támogatási kérelmet, ha ahhoz a Kormány előzetesen hozzájárult.
+(1b)[^331] A gazdaságfejlesztést célzó projekt megvalósítására irányuló felhívásnak – ha a támogatás igénylésére jogosultak köre a közvetlen vagy közvetett többségi állami tulajdonban álló gazdasági társaságokra, illetve a költségvetési szervekre is kiterjed – az (1) bekezdésben foglaltakon túl tartalmaznia kell azt is, hogy közvetlen vagy közvetett többségi állami tulajdonban álló gazdasági társaság, illetve központi költségvetési szerv csak akkor nyújthat be támogatási kérelmet, ha ahhoz a Kormány előzetesen hozzájárult.
 
 (2) Kiemelt projekt megvalósítására irányuló felhívásnak az (1) bekezdésben foglaltakon túl – a technikai segítségnyújtás kivételével – tartalmaznia kell
 
 a) a fejlesztések felsorolását,
 
-b)[^329] a fejlesztésekhez rendelt indikatív kereteket kedvezményezettenként,
+b)[^332] a fejlesztésekhez rendelt indikatív kereteket kedvezményezettenként,
 
-c)[^330]
+c)[^333]
 
-d)[^331]
+d)[^334]
 
-e)[^332]
+e)[^335]
 
 (3) Az irányító hatóságnak a felhívást a program céljai alapján, az egységes dokumentum-sablonok, elszámolhatósági szabályok, eljárásrendi megoldások alkalmazásával, az adminisztratív terhek, szabályozási kötöttségek minimalizálásával, a támogatási konstrukciók közötti szinergia és az elhatárolás biztosításával, az abszorpciós célokra, az eredményességi, teljesítmény-kerettel összefüggő szempontokra tekintettel kell kidolgoznia.
 
-[^325]: A 46. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^326]: A 46. § (1) bekezdés l) pontját a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés e) pontja hatályon kívül helyezte.
-[^327]: A 46. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 25. §-a iktatta be.
-[^328]: A 46. § (1b) bekezdését a 145/2016. (VI. 13.) Korm. rendelet 2. §-a iktatta be, szövege a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^329]: A 46. § (2) bekezdés b) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 5. pontja szerint módosított szöveg.
-[^330]: A 46. § (2) bekezdés c)–e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 9. pontja hatályon kívül helyezte.
-[^331]: A 46. § (2) bekezdés c)–e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 9. pontja hatályon kívül helyezte.
-[^332]: A 46. § (2) bekezdés c)–e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 9. pontja hatályon kívül helyezte.
+[^328]: A 46. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^329]: A 46. § (1) bekezdés l) pontját a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^330]: A 46. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 25. §-a iktatta be.
+[^331]: A 46. § (1b) bekezdését a 145/2016. (VI. 13.) Korm. rendelet 2. §-a iktatta be, szövege a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^332]: A 46. § (2) bekezdés b) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^333]: A 46. § (2) bekezdés c)–e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 9. pontja hatályon kívül helyezte.
+[^334]: A 46. § (2) bekezdés c)–e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 9. pontja hatályon kívül helyezte.
+[^335]: A 46. § (2) bekezdés c)–e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 9. pontja hatályon kívül helyezte.

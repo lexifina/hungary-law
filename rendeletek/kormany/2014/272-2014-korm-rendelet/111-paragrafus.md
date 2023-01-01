@@ -1,26 +1,26 @@
-## 110/C. §[^715] Ha felhívás vagy támogatási szerződés nem zárja ki, szóbeli megállapodás alapján költségelszámolásra legfeljebb bruttó százezer forintot meg nem haladó összegű megrendelések esetén kerülhet sor.
+## 110/C. §[^720] Ha felhívás vagy támogatási szerződés nem zárja ki, szóbeli megállapodás alapján költségelszámolásra legfeljebb bruttó százezer forintot meg nem haladó összegű megrendelések esetén kerülhet sor.
 
 ## 38. Az uniós hozzájárulások fogadására és kifizetésére szolgáló kincstári pénzforgalmi számlák
 
-111. § (1)[^716] Az Európai Bizottságtól érkező éves, illetve kezdeti előfinanszírozás, időközi kifizetések és végsőegyenleg-kifizetés fogadására az igazoló hatóság egy, összevont – az EMVA kivételével – valamennyi program és alap forrásait kezelő, magyar forint pénznemben vezetett pénzforgalmi számlát nyit a kincstárban, amely felett az igazoló hatóság rendelkezik. EMVA forrás esetén a kifizető ügynökség által kezelt magyar forint pénznemben vezetett pénzforgalmi számla szolgál az éves, illetve kezdeti előfinanszírozás, időközi kifizetések és végsőegyenleg-kifizetés fogadására.
+111. § (1)[^721] Az Európai Bizottságtól érkező éves, illetve kezdeti előfinanszírozás, időközi kifizetések és végsőegyenleg-kifizetés fogadására az igazoló hatóság egy, összevont – az EMVA kivételével – valamennyi program és alap forrásait kezelő, magyar forint pénznemben vezetett pénzforgalmi számlát nyit a kincstárban, amely felett az igazoló hatóság rendelkezik. EMVA forrás esetén a kifizető ügynökség által kezelt magyar forint pénznemben vezetett pénzforgalmi számla szolgál az éves, illetve kezdeti előfinanszírozás, időközi kifizetések és végsőegyenleg-kifizetés fogadására.
 
-(2)[^717] Az EFK a hazai költségvetési előirányzatból lehívott hazai társfinanszírozási összegek és az igazoló hatóság, EMVA forrás esetén a kifizető ügynökség számlájáról érkező Európai Unió által finanszírozott támogatási összegek fogadására szolgál. A program központi költségvetési forrását a forrásgazda biztosítja a fejezetet irányító szerv vezetője által a kincstárban megnyitott fejezeti kezelésű EFK-kon keresztül.
+(2)[^722] Az EFK a hazai költségvetési előirányzatból lehívott hazai társfinanszírozási összegek és az igazoló hatóság, EMVA forrás esetén a kifizető ügynökség számlájáról érkező Európai Unió által finanszírozott támogatási összegek fogadására szolgál. A program központi költségvetési forrását a forrásgazda biztosítja a fejezetet irányító szerv vezetője által a kincstárban megnyitott fejezeti kezelésű EFK-kon keresztül.
 
-(3)[^718] A fejezeti kezelésű EFK-k felett az európai uniós források felhasználásáért felelős miniszter és az irányító hatóság, EMVA esetén a kifizető ügynökség rendelkezik.
+(3)[^723] A fejezeti kezelésű EFK-k felett az európai uniós források felhasználásáért felelős miniszter és az irányító hatóság, EMVA esetén a kifizető ügynökség rendelkezik.
 
 (4) Az EFK-ról átutalást indítani:
 
 a) a kedvezményezett támogatásra jogosult költségeinek megtérítésére, a szállítók vagy engedményesek részére történő kifizetés lebonyolítására, a kedvezményezett részére folyósítandó előleg kifizetésére,
 
-b)[^719]
+b)[^724]
 
 c) meghatározott esetekben kedvezményezettek felé az önerő finanszírozására,
 
-d)[^720] előirányzat-átcsoportosítás miatt a fejezeti elosztási számlára,
+d)[^725] előirányzat-átcsoportosítás miatt a fejezeti elosztási számlára,
 
-e)[^721] EMVA esetén:
+e)[^726] EMVA esetén:
 
-ea)[^722] ha a kedvezményezettnek köztartozása van az adóhatóságok adónemenként vezetett számláira, a 79. § (2b) bekezdésében foglaltak szerint,
+ea)[^727] ha a kedvezményezettnek köztartozása van az adóhatóságok adónemenként vezetett számláira, a 79. § (2b) bekezdésében foglaltak szerint,
 
 eb) visszatartási jog érvényesítése során a kifizető ügynökség egyéb jogcímen kezelt számláira
 
@@ -28,11 +28,11 @@ lehet.
 
 (5) A (4) bekezdésben meghatározott eseteken kívül az EFK-ról csak téves utalások, kedvezményezett által teljesített és le nem mondott túlfizetések visszautalására és az EFK likviditását biztosító pénzeszköz-átvezetések indítására van lehetőség.
 
-(6)[^723] EFK-ra jóváírásként érkezhet különösen a kedvezményezett által bármilyen jogcímen történő visszafizetés, megelőlegezett közösségi forrásnak az igazoló hatóság, illetve kifizető ügynökség forint pénzforgalmi számlájáról történő visszapótlása, a kifizető ügynökség számláiról a kompenzációs forrásrendezés, a támogatási összeg fejezeti elosztási bankszámláról történő biztosítása, és a programszámláról történő visszafizetés összege.
+(6)[^728] EFK-ra jóváírásként érkezhet különösen a kedvezményezett által bármilyen jogcímen történő visszafizetés, megelőlegezett közösségi forrásnak az igazoló hatóság, illetve kifizető ügynökség forint pénzforgalmi számlájáról történő visszapótlása, a kifizető ügynökség számláiról a kompenzációs forrásrendezés, a támogatási összeg fejezeti elosztási bankszámláról történő biztosítása, és a programszámláról történő visszafizetés összege.
 
 (7) Az EFK fölött a fejezetet irányító szerv vezetője közreműködő szervezet kijelölése esetén rendelkezési jogot biztosíthat a közreműködő szervezet részére.
 
-(8)[^724] A kincstár által kiállított pénzforgalmi számlakivonatok adatait az EFK számla felett rendelkezőknek a monitoring és információs rendszerben a kézhezvételt követő öt napon belül kell rögzíteni, és jóváhagyni.
+(8)[^729] A kincstár által kiállított pénzforgalmi számlakivonatok adatait az EFK számla felett rendelkezőknek a monitoring és információs rendszerben a kézhezvételt követő öt napon belül kell rögzíteni, és jóváhagyni.
 
 (9) Az EFK feletti rendelkezési jogosultságot két bejelentett személy együttes aláírásával lehet gyakorolni.
 
@@ -42,13 +42,13 @@ lehet.
 
 (12) A monitoring és információs rendszer működési problémája esetén, megfelelő dokumentáltság mellett az átutalási megbízás elektronikus utalás nélkül is rendezhető, de az átutalási megbízást utólag a monitoring és információs rendszerben rögzíteni kell.
 
-[^715]: A 110/C. §-t a 144/2015. (VI. 12.) Korm. rendelet 61. §-a iktatta be, szövege a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 17. pontja szerint módosított szöveg.
-[^716]: A 111. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 62. § (1) bekezdésével megállapított szöveg.
-[^717]: A 111. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 134. pontja szerint módosított szöveg.
-[^718]: A 111. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 101. § 21. pontja szerint módosított szöveg.
-[^719]: A 111. § (4) bekezdés b) pontját a 153/2019. (VI. 26.) Korm. rendelet 33. § (1) bekezdés 16. pontja hatályon kívül helyezte.
-[^720]: A 111. § (4) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 135. pontja szerint módosított szöveg.
-[^721]: A 111. § (4) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 62. § (2) bekezdése iktatta be.
-[^722]: A 111. § (4) bekezdés e) pont ea) alpontja a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 19. pontja szerint módosított szöveg.
-[^723]: A 111. § (6) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 62. § (3) bekezdésével megállapított szöveg.
-[^724]: A 111. § (8) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 136. pontja szerint módosított szöveg.
+[^720]: A 110/C. §-t a 144/2015. (VI. 12.) Korm. rendelet 61. §-a iktatta be, szövege a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^721]: A 111. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 62. § (1) bekezdésével megállapított szöveg.
+[^722]: A 111. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 134. pontja szerint módosított szöveg.
+[^723]: A 111. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 101. § 21. pontja szerint módosított szöveg.
+[^724]: A 111. § (4) bekezdés b) pontját a 153/2019. (VI. 26.) Korm. rendelet 33. § (1) bekezdés 16. pontja hatályon kívül helyezte.
+[^725]: A 111. § (4) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 135. pontja szerint módosított szöveg.
+[^726]: A 111. § (4) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 62. § (2) bekezdése iktatta be.
+[^727]: A 111. § (4) bekezdés e) pont ea) alpontja a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 19. pontja szerint módosított szöveg.
+[^728]: A 111. § (6) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 62. § (3) bekezdésével megállapított szöveg.
+[^729]: A 111. § (8) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 136. pontja szerint módosított szöveg.

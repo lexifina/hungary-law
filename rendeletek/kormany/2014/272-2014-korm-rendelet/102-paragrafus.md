@@ -1,15 +1,15 @@
-102. § (1)[^658] Hatósági engedélyhez kötött építési beruházás esetén a 101. § rendelkezéseitől eltérően a támogatást igénylő, illetve a kedvezményezett a közbeszerzési eljárás megindítását megelőzően a közbeszerzési dokumentumokat közbeszerzési-jogi ellenőrzés céljából a közbeszerzésekért felelős miniszternél nyújtja be a monitoring és információs rendszeren keresztül. A közbeszerzésekért felelős miniszter az eljárás ellenőrzésével összefüggésben további dokumentumok benyújtását is kérheti.
+102. § (1)[^663] Hatósági engedélyhez kötött építési beruházás esetén a 101. § rendelkezéseitől eltérően a támogatást igénylő, illetve a kedvezményezett a közbeszerzési eljárás megindítását megelőzően a közbeszerzési dokumentumokat közbeszerzési-jogi ellenőrzés céljából a közbeszerzésekért felelős miniszternél nyújtja be a monitoring és információs rendszeren keresztül. A közbeszerzésekért felelős miniszter az eljárás ellenőrzésével összefüggésben további dokumentumok benyújtását is kérheti.
 
-(2)[^659] Hatósági engedélyhez kötött építési beruházás esetén a támogathatósági, elszámolhatósági ellenőrzésre a kifizetési igénylés ellenőrzése során kerül sor.
+(2)[^664] Hatósági engedélyhez kötött építési beruházás esetén a támogathatósági, elszámolhatósági ellenőrzésre a kifizetési igénylés ellenőrzése során kerül sor.
 
-(3)[^660] A támogatást igénylő, illetve a kedvezményezett a közbeszerzési dokumentumokat támogathatósági, elszámolhatósági szempontú minőségellenőrzés céljából az irányító hatóságnál nyújtja be a monitoring és információs rendszeren keresztül.
+(3)[^665] A támogatást igénylő, illetve a kedvezményezett a közbeszerzési dokumentumokat támogathatósági, elszámolhatósági szempontú minőségellenőrzés céljából az irányító hatóságnál nyújtja be a monitoring és információs rendszeren keresztül.
 
-(4)[^661] Az irányító hatóság a közbeszerzési dokumentumok beérkezésétől számított öt munkanapon belül megküldi a támogatást igénylő, illetve a kedvezményezett részére a támogathatósági, elszámolhatósági szempontú ellenőrzésről szóló nyilatkozatát. Az irányító hatóság a határidőt – az indokok megjelölésével egyidejűleg – legfeljebb öt munkanappal meghosszabbíthatja, és erről értesíti a támogatást igénylőt, illetve a kedvezményezettet.
+(4)[^666] Az irányító hatóság a közbeszerzési dokumentumok beérkezésétől számított öt munkanapon belül megküldi a támogatást igénylő, illetve a kedvezményezett részére a támogathatósági, elszámolhatósági szempontú ellenőrzésről szóló nyilatkozatát. Az irányító hatóság a határidőt – az indokok megjelölésével egyidejűleg – legfeljebb öt munkanappal meghosszabbíthatja, és erről értesíti a támogatást igénylőt, illetve a kedvezményezettet.
 
-(5)[^662] Ha támogathatósági, elszámolhatósági szabálytalanság merül fel, azért a kedvezményezett önálló felelősséggel tartozik.
+(5)[^667] Ha támogathatósági, elszámolhatósági szabálytalanság merül fel, azért a kedvezményezett önálló felelősséggel tartozik.
 
-[^658]: A 102. § (1) bekezdése a 478/2016. (XII. 27.) Korm. rendelet 9. § 2. pontja, a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 14. pontja, a 366/2019. (XII. 30.) Korm. rendelet 15. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^659]: A 102. § (2) bekezdése a 366/2019. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^660]: A 102. § (3) bekezdését a 366/2019. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
-[^661]: A 102. § (4) bekezdését a 366/2019. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
-[^662]: A 102. § (5) bekezdését a 366/2019. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^663]: A 102. § (1) bekezdése a 478/2016. (XII. 27.) Korm. rendelet 9. § 2. pontja, a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 14. pontja, a 366/2019. (XII. 30.) Korm. rendelet 15. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^664]: A 102. § (2) bekezdése a 366/2019. (XII. 30.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^665]: A 102. § (3) bekezdését a 366/2019. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^666]: A 102. § (4) bekezdését a 366/2019. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
+[^667]: A 102. § (5) bekezdését a 366/2019. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
