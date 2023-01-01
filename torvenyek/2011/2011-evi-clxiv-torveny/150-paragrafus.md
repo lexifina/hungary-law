@@ -14,6 +14,6 @@ f) az 55. §-t,
 
 g) a 69. §-t, a 72–76. §-t, továbbá a 70. §-t azzal az eltéréssel, hogy a tisztviselő, az írnok és a fizikai alkalmazott kinevezési okiratának tartalmaznia kell a jubileumi jutalomra jogosító idő számításának kezdő időpontját, a 73. §-t azzal az eltéréssel kell alkalmazni, hogy tisztviselő, az írnok és a fizikai alkalmazott részére cafetéria juttatás is biztosítható,
 
-h) a 80. §-t,
+h) a 79. § (3a) bekezdését és a 80. §-t,
 
 i) a 105–108. §-t.
