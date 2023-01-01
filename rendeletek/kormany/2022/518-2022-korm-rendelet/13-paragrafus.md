@@ -1,20 +1,15 @@
 13. § Hatályát veszti a Rendelet
 
-a)[^14]
+a) 1. § 1. pontja,
 
-b)[^15]
+b) 1. § 9. pontjában az „a címkén található,” szövegrész,
 
-c)[^16]
+c) 6. §-a,
 
-d)[^17]
+d)[^3]
 
-e)[^18]
+e) 10/A. §-a és
 
-f)[^19]
+f) 12. § (1)–(3) bekezdése.
 
-[^14]: A 13. § a) pontja a 14. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^15]: A 13. § b) pontja a 14. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^16]: A 13. § c) pontja a 14. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^17]: A 13. § d) pontja a 14. § (3) bekezdés alapján 2023. április 1-jén lép hatályba.
-[^18]: A 13. § e) pontja a 14. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^19]: A 13. § f) pontja a 14. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^3]: A 13. § d) pontja a 14. § (3) bekezdés alapján 2023. április 1-jén lép hatályba.

@@ -1,3 +1,7 @@
-6. §[^6]
+6. § A Rendelet 5. §-a helyébe a következő rendelkezés lép:
 
-[^6]: A 6. § a 14. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+„5. § A NAV a kereskedő által elektronikus úton benyújtott kérelmére gondoskodik
+
+a) az adattörlő kód generálásáról és
+
+b) az adattörlő kód kereskedő részére történő kiadásáról.”

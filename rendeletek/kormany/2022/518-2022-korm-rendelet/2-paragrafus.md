@@ -1,3 +1,3 @@
-2. §[^2]
+2. § A Rendelet 1. § 3. és 4. pontja helyébe a következő rendelkezések lépnek:
 
-[^2]: A 2. § a 14. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+(E rendelet alkalmazásában:)

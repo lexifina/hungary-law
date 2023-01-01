@@ -1,3 +1,5 @@
-5. §[^5]
+5. § A Rendelet 4. §-a helyébe a következő rendelkezés lép:
 
-[^5]: Az 5. § a 14. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+„4. § (1) Az NMHH nyilvántartja az átadott adattörlő kódokkal kapcsolatban a 7. § alapján szolgáltatott adatokat.
+
+(2) Az NMHH a nyilvántartásban foglalt adatokat a 7. § szerinti adatszolgáltatástól számított 10 évig megőrzi.”
