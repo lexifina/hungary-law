@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-150-00-00
 | 2022-01-01 | 2021. évi CXXII. törvény | 2016-150-00-00.12 |
 | 2022-06-18 | 2022. évi VII. törvény | 2016-150-00-00.13 |
 | 2022-11-01 | 2022. évi VII. törvény | 2016-150-00-00.14 |
+| 2023-01-01 | 2021. évi CXXII. törvény | 2016-150-00-00.15 |
