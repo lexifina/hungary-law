@@ -1,6 +1,6 @@
 ## A Biharugrai Tájvédelmi Körzet ingatlannyilvántartási helyrajzi számai
 
-## Békés megye:
+## Békés vármegye:
 
 ## Biharugra: 0119—0125, 0141—0191, 0198—0215, 0217—0218, 0220—0313, 0319—0327, 0333/1, 0333/28, 0336, 0344, 0345, 0372—0374
 

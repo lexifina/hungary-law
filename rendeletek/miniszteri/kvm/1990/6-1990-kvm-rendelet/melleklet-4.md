@@ -1,6 +1,6 @@
-4. melléklet a 6/1990. (III. 31.) KVM rendelethez[^5]
+4. melléklet a 6/1990. (III. 31.) KVM rendelethez[^7]
 
-## A Pusztaszeri Fülöp-szék természetvédelmi terület természetvédelmi kezelési terve
+A Pusztaszeri Fülöp-szék természetvédelmi terület természetvédelmi kezelési terve
 
 1. Természetvédelmi célkitűzések
 
@@ -160,4 +160,4 @@ végezhető.
 
 3.2.2.3. A természetvédelmi kezelési tervet kihirdető jogszabály hatálybalépését követő 1 éven belül a vízügyi hatóságnak a területen áthaladó csatorna vízjogi üzemeltetési engedélyét felül kell vizsgálnia.
 
-[^5]: A 4. mellékletet a 31/2016. (V. 2.) FM rendelet 2. §-a iktatta be.
+[^7]: A 4. mellékletet a 31/2016. (V. 2.) FM rendelet 2. §-a iktatta be.
