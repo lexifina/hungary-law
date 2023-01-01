@@ -6,7 +6,7 @@ b) postai úton vagy
 
 c) személyesen a kormányablaknál
 
-## nyújtható be.
+nyújtható be.
 
 (2) A támogatás a jelen rendelet hatálybalépését követően megkötött vállalkozási szerződés alapján megkezdett, a lakáson végzett felújítás befejezését és a számlák kifizetését követően igényelhető.
 
@@ -110,7 +110,7 @@ b) postára adásának vagy
 
 c) a kormányablak általi átvételének
 
-## napja minősül.
+napja minősül.
 
 (7) Amennyiben az a szülő, akinek a nevére a számlát kiállították, a kérelem benyújtását megelőzően elhalálozik, és a számlát a másik szülő csatolja a kérelméhez, ez a tény a számla elfogadhatóságát nem akadályozza.
 

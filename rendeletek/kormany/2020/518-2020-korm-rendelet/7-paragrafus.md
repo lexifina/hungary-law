@@ -6,7 +6,7 @@ b) az általános forgalmi adóról szóló törvény hatálya alá tartozó ter
 
 c) a felújítással kapcsolatos tervezési, építési, szerelési munkálatok tekintetében egy vagy több, a vállalkozási szerződés vagy szerződések szerinti vállalkozó által kiállított
 
-## olyan számla fogadható el, amelyről a vállalkozó a 9. § (3) bekezdés a) pontjának megfelelően nyilatkozott, hogy az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 10. számú melléklet 1. pontja szerinti adatszolgáltatási kötelezettségét teljesíti.
+olyan számla fogadható el, amelyről a vállalkozó a 9. § (3) bekezdés a) pontjának megfelelően nyilatkozott, hogy az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 10. számú melléklet 1. pontja szerinti adatszolgáltatási kötelezettségét teljesíti.
 
 (2) A támogatás az 5%-os általános forgalmi adó mértékkel kiállított számla vonatkozásában nem vehető igénybe.
 

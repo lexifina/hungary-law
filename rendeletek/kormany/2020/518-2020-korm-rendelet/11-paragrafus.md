@@ -44,7 +44,7 @@ a) az igénylő, vagy
 
 b) a 8. § (2) bekezdése szerinti esetben az otthonfelújítási kölcsönt nyújtó hitelintézet
 
-## belföldi fizetési számlájára folyósítja – az igénylő javára történő előtörlesztés érdekében – a támogatást.
+belföldi fizetési számlájára folyósítja – az igénylő javára történő előtörlesztés érdekében – a támogatást.
 
 (5)[^60] Az otthonfelújítási támogatás (4) bekezdés b) pontja szerinti folyósítását követően a hitelintézet az otthonfelújítási támogatást 4 napon belül egy összegben, előtörlesztésként a támogatott személy hitelintézetnél vezetett hitelszámláján írja jóvá, legfeljebb a fennálló otthonfelújítási kölcsöntartozás összegéig.
 

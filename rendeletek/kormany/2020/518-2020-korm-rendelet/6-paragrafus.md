@@ -1,5 +1,3 @@
-## és a támogatott személy az otthonfelújítási kölcsöntartozására korábban a három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló 337/2017. (XI. 14.) Korm. rendelet szerinti támogatást (a továbbiakban: jelzáloghitel-csökkentési támogatás) vett igénybe, akkor az otthonfelújítási támogatás összege nem lehet magasabb, mint a számlával igazolt felújítási összeg, valamint az otthonfelújítási kölcsöntartozásra igénybe vett jelzáloghitel-csökkentési támogatás összegének különbözete, és nem haladhatja meg az (1) bekezdés szerinti összeget.
-
 ## 5. Támogatható építési tevékenységek
 
 ## 6. § A támogatás a következő építési tevékenységekhez igényelhető:

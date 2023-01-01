@@ -24,7 +24,7 @@ a) magyar állampolgár és a magyar állampolgárságról szóló törvény ala
 
 b) szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó, a szabad mozgás és a három hónapot meghaladó tartózkodás jogát Magyarország területén gyakorló
 
-## nagykorú, cselekvőképes természetes személy, aki a támogatás iránt kérelmet nyújt be;
+nagykorú, cselekvőképes természetes személy, aki a támogatás iránt kérelmet nyújt be;
 
 4. lakás: Magyarország területén fekvő, az ingatlan-nyilvántartásban lakás vagy lakóház fő rendeltetés szerinti jelleggel nyilvántartott ingatlan, valamint tanya, vagy birtokközpont jogi jelleggel nyilvántartott ingatlan lakáscélú épületei;
 
