@@ -1,6 +1,6 @@
 5. melléklet a 821/2021. (XII. 28.) Korm. rendelethez
 
-## A fenntarthatósági igazolás minimális adattartalma
+A fenntarthatósági igazolás minimális adattartalma
 
 1. A termesztett biomasszára vonatkozó adattartalom:
 

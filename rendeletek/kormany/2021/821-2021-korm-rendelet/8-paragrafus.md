@@ -4,7 +4,7 @@ a) biomassza-kereskedő az általa értékesített, vagy bérfeldolgozásra áta
 
 b) biomassza-feldolgozó a saját tulajdonában álló vagy bérfeldolgozás keretében feldolgozott és fenntarthatóan megtermeltnek minősülő erdei biomasszára, fásszárú biomasszára, erdészeti, faipari maradvány anyagra,
 
-## a termék birtokba adását – ha a vevő részéről a termék birtokba vételére nem kerül sor, úgy a tulajdon átruházását – követő 30 napon belül az 5. melléklet 6. pontja szerinti minimális adattartalommal fenntarthatósági igazolást állíthat ki.
+a termék birtokba adását – ha a vevő részéről a termék birtokba vételére nem kerül sor, úgy a tulajdon átruházását – követő 30 napon belül az 5. melléklet 6. pontja szerinti minimális adattartalommal fenntarthatósági igazolást állíthat ki.
 
 (2) Az (1) bekezdés szerinti fenntarthatósági igazolás a szállítójegyeken szereplő adatok és a bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatású-gázkibocsátás elkerülés kiszámításának szabályairól szóló miniszteri rendeletben szereplő kibocsátási komponensek alapján állítható ki.
 

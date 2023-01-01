@@ -66,7 +66,7 @@ ad) bioüzemanyag, folyékony bio-energiahordozó tekintetében a 10. melléklet
 
 ae) biomasszából előállított tüzelőanyag tekintetében a 10. melléklet 5. pontja
 
-## szerinti adattartalmú nyomonkövetési dokumentummal, továbbá olyan fenntarthatósági nyilatkozat kiállításával, amely az azzal kísért termékre vonatkozóan maradéktalanul tartalmazza a 10. melléklet szerinti adatokat,
+szerinti adattartalmú nyomonkövetési dokumentummal, továbbá olyan fenntarthatósági nyilatkozat kiállításával, amely az azzal kísért termékre vonatkozóan maradéktalanul tartalmazza a 10. melléklet szerinti adatokat,
 
 b) biomassza-termelő esetében az általa értékesített biomassza vonatkozásában
 
@@ -74,6 +74,6 @@ ba) termesztett biomassza tekintetében a 9. melléklet 1. pontja,
 
 bb) nem termesztett biomassza tekintetében a 9. melléklet 2. pontja
 
-## szerinti adattartalmú nyomonkövetési dokumentummal, továbbá olyan fenntarthatósági nyilatkozattal, amely az azzal kísért termékre vonatkozóan maradéktalanul tartalmazza a 9. melléklet szerinti adatokat.
+szerinti adattartalmú nyomonkövetési dokumentummal, továbbá olyan fenntarthatósági nyilatkozattal, amely az azzal kísért termékre vonatkozóan maradéktalanul tartalmazza a 9. melléklet szerinti adatokat.
 
 (20) A 19. § b)–d) pontja szerinti fenntarthatósági nyilatkozattal kísért termék nyomon követhetőségének igazolására biomassza igazolás és fenntarthatósági igazolás nem szolgálhat.

@@ -2,7 +2,7 @@
 
 18. § (1) A biomassza-termelő, a biomassza-kereskedő, a biomassza-feldolgozó és az üzemanyag-forgalmazó kérelmére a mezőgazdasági igazgatási szerv a termesztett és nem termesztett biomassza, a köztes termék, a bioüzemanyag, a folyékony bio-energiahordozó és a termesztett és nem termesztett biomasszából előállított tüzelőanyag fenntarthatósági követelményeknek való megfelelésének és nyomon követhetőségének hatósági igazolására fenntarthatósági bizonyítványt ad ki.
 
-(2) A termesztett biomassza vonatkozásában a fenntarthatósági bizonyítványt a kérelem mellékleteként becsatolt a termesztett biomassza fenntarthatóan történt megtermelését igazoló fenntarthatósági nyilatkozatban vagy az ahhoz esetlegesen kapcsolódó nyomonkövetési dokumentumban foglalt mennyiségű biomassza megtermelésével érintett termőterületek megyei eloszlása alapján, megyénként összesítve adja ki a mezőgazdasági igazgatási szerv.
+(2)[^13] A termesztett biomassza vonatkozásában a fenntarthatósági bizonyítványt a kérelem mellékleteként becsatolt a termesztett biomassza fenntarthatóan történt megtermelését igazoló fenntarthatósági nyilatkozatban vagy az ahhoz esetlegesen kapcsolódó nyomonkövetési dokumentumban foglalt mennyiségű biomassza megtermelésével érintett termőterületek vármegyei eloszlása alapján, vármegyénként összesítve adja ki a mezőgazdasági igazgatási szerv.
 
 (3) A nem termesztett biomassza, a köztes termék, a bioüzemanyag, a folyékony bio-energiahordozó, valamint a termesztett és nem termesztett biomasszából előállított tüzelőanyag vonatkozásában a fenntarthatósági bizonyítványt, a nem termesztett biomasszára, a köztes termékre, bioüzemanyagra, folyékony bio-energiahordozóra és biomasszából előállított tüzelőanyagra a kérelem mellékleteként csatolt fenntarthatósági nyilatkozatonként adja ki a mezőgazdasági igazgatási szerv.
 
@@ -31,3 +31,5 @@ c) a kérelmezett fenntarthatósági bizonyítvány felhasználási céljára vo
 a) a fenntarthatósági bizonyítvánnyal kísérni kívánt termesztett és nem termesztett biomassza, köztes termék, bioüzemanyag, folyékony bio-energiahordozó, termesztett és nem termesztett biomasszából előállított tüzelőanyag tételhez kapcsolódó fenntarthatósági nyilatkozatok és az azokhoz esetlegesen kapcsolódó nyomonkövetési dokumentumok másolati példányait és
 
 b) az igazgatási szolgáltatási díj megfizetését igazoló okirat másolati példányát.
+
+[^13]: A 18. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 321. §-a szerint módosított szöveg.

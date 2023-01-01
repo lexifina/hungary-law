@@ -1,6 +1,6 @@
 9. melléklet a 821/2021. (XII. 28.) Korm. rendelethez
 
-## Biomassza-termelő által termesztett és nem termesztett biomasszára kiállított 19. § b)–d) pontja szerinti dokumentumokhoz tartozó nyomonkövetési dokumentum minimális adattartalma
+Biomassza-termelő által termesztett és nem termesztett biomasszára kiállított 19. § b)–d) pontja szerinti dokumentumokhoz tartozó nyomonkövetési dokumentum minimális adattartalma
 
 1. Termesztett biomasszára vonatkozó adattartalom:
 

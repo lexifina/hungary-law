@@ -20,7 +20,7 @@
 
 9. BIONYOM ügyfél: a bioüzemanyagok, folyékony bio-energiahordozók, valamint a termesztett és nem termesztett biomasszából előállított tüzelőanyagok – Büat. 8/A. § (1) bekezdése szerinti – nyomon követhetőségi nyilvántartásból (a továbbiakban: BIONYOM nyilvántartás) nyilvántartási számmal rendelkező biomassza-kereskedő, biomassza-feldolgozó és üzemanyag-forgalmazó;
 
-10. bioüzemanyagnak minősülő termék: az 1. melléklet 1–32. pontjában felsorolt üzemanyagok azzal, hogy megújuló forrásokból előállított etanolnak az Európai Gazdasági Térségben termelt vagy előállított biomasszából előállított etanol minősül;
+10.[^1] bioüzemanyagnak minősülő termék: az 1. melléklet 3–15. és 17–32. pontjában felsorolt üzemanyagok;
 
 11. bioetanol: megújuló forrásokból előállított etanol;
 
@@ -44,7 +44,9 @@
 
 21. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 
-22. jellemző érték: az üvegházhatású gázok jellemző kibocsátásának becsült elkerülési értéke egy adott bioüzemanyag-előállítási mód esetében;
+21a.[^2] hidrogénnel kezelt növényi olaj: az 1. melléklet 8. és 12. pontjában felsorolt termékek;
+
+22.[^3] jellemző érték: az üvegházhatású gázok jellemző kibocsátásának becsült elkerülési értéke egy adott bioüzemanyag-, folyékony bio-energiahordozó- vagy biomasszából előállított tüzelőanyag-előállítási mód esetében;
 
 23. kibocsátási érték: biomassza, köztes termék, bioüzemanyag vagy folyékony bio-energiahordozó vagy biomasszából előállított tüzelőanyag előállítása, tárolása, szállítása során keletkező, szén-dioxid egyenértékben kifejezett energiatartalomra vagy tömegre vetített fajlagos üvegházhatású gázkibocsátás;
 
@@ -63,3 +65,7 @@
 30. termesztett biomassza: a mezőgazdasággal kapcsolatos tevékenység keretében a termőföld védelméről szóló törvény szerinti termőföldön vagy mező művelés alatt álló belterületi földön előállított biomassza, és a növénytermesztésből származó mezőgazdasági maradványok, kivéve a fásszárú biomassza;
 
 31. tényleges érték: az üvegházhatású gázok kibocsátásának egy adott bioüzemanyag-, folyékony bio-energiahordozó- vagy biomasszából előállított tüzelőanyag előállítási folyamat egyes vagy összes lépéséből eredő elkerülése, amelyet a bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőüzemanyagok fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatású-gázkibocsátás elkerülés kiszámításának szabályairól szóló miniszteri rendeletben meghatározott módszerrel kell kiszámítani.
+
+[^1]: Az 1. § 10. pontja a 620/2022. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 21a. pontját a 620/2022. (XII. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^3]: Az 1. § 22. pontja a 620/2022. (XII. 29.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.

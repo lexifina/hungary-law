@@ -20,6 +20,6 @@ b) exportőri nyilatkozattal és a nyomonkövethetőséget biztosító import do
 
 c) kellő gondosság elvén alapuló nyomon követhetőségi rendszeren, eljárásokon alapuló naprakész dokumentációs rendszerrel
 
-## kell igazolni.
+kell igazolni.
 
 (7) A 19. § b)–d) pontja szerinti fenntarthatósági nyilatkozattal kísért termék nyomon követhetőségének igazolására biomassza igazolás és fenntarthatósági igazolás nem szolgálhat.

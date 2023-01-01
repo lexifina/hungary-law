@@ -1,6 +1,6 @@
 8. melléklet a 821/2021. (XII. 28.) Korm. rendelethez
 
-## A BIONYOM ügyfél éves adatszolgáltatásának minimális adattartalma
+A BIONYOM ügyfél éves adatszolgáltatásának minimális adattartalma
 
 1. A biomassza-kereskedő adatszolgáltatásának adattartalma:
 

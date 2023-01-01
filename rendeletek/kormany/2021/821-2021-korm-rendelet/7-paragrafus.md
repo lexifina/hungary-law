@@ -8,7 +8,7 @@ b) biomassza-feldolgozó a saját tulajdonában álló vagy bérfeldolgozás ker
 
 c) üzemanyag-forgalmazó az általa tisztán vagy üzemanyagba keverve értékesített vagy más üzemanyag-forgalmazóhoz áttárolt, fenntarthatóan előállítottnak minősülő bioüzemanyagra
 
-## a termék birtokba adását – ha a vevő részéről a termék birtokba vételére nem kerül sor, úgy a tulajdon átruházását – követő 30 napon belül fenntarthatósági igazolást állíthat ki.
+a termék birtokba adását – ha a vevő részéről a termék birtokba vételére nem kerül sor, úgy a tulajdon átruházását – követő 30 napon belül fenntarthatósági igazolást állíthat ki.
 
 (2) Az (1) bekezdés szerinti fenntarthatósági igazolás
 
@@ -16,7 +16,7 @@ a) termesztett és nem termesztett biomasszára a fenntarthatósági nyilatkozat
 
 b) köztes termékre, bioüzemanyagra, folyékony bio-energiahordozóra, valamint termesztett és nem termesztett biomasszából előállított tüzelőanyagra a gyártáshoz felhasznált biomassza, köztes termék mennyiségre vonatkozó fenntarthatósági nyilatkozatban szereplő mennyiségek és kibocsátási komponensek alapján
 
-## állítható ki.
+állítható ki.
 
 (3) A (2) bekezdés szerinti dokumentumokban szereplő mennyiség egy fenntarthatósági igazolás kiállításához használható fel.
 

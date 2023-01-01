@@ -1,6 +1,6 @@
 4. melléklet a 821/2021. (XII. 28.) Korm. rendelethez
 
-## A biomassza igazolás minimális adattartalma
+A biomassza igazolás minimális adattartalma
 
 1. Termesztett biomassza esetében a biomassza igazolás tartalma:
 

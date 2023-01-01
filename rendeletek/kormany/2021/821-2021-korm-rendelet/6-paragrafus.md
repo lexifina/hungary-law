@@ -8,7 +8,7 @@ b) az erdei faválaszték előállítását szolgáló erdei haszonvétel gyakor
 
 c) a telephelyi nyilvántartás megfelelő hivatkozásával
 
-## kell meghatározni.
+kell meghatározni.
 
 (3) Az erdőgazdálkodó kellő gondosság elvén alapuló nyomon követhetőségi rendszere, eljárása és az ahhoz kapcsolódó naprakész dokumentációs rendszere biztosítja
 
@@ -28,7 +28,7 @@ c) a fakitermelés gyakorlására jogosító egyéb okirat megnevezése, kiáll�
 
 d) a telephelyi nyilvántartás megfelelő hivatkozásával
 
-## kell meghatározni.
+kell meghatározni.
 
 (5) A fásszárú biomassza kitermelésére jogosult kellő gondosság elvén alapuló nyomon követhetőségi rendszere, eljárása és az ahhoz kapcsolódó naprakész dokumentációs rendszere biztosítja
 

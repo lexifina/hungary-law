@@ -1,5 +1,3 @@
-## A közlekedési célú üzemanyagok és bioüzemanyagok energiatartalma
-
 |  | A | B | C |
 
 | 1. | Üzemanyag | Energiatartalom tömegre vetítve (alsó fűtőérték, MJ/kg) | Energiatartalom térfogatra vetítve (alsó fűtőérték, MJ/l) |

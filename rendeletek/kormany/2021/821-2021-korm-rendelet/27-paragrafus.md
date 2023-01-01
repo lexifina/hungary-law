@@ -10,10 +10,12 @@ c) a benzin és a dízelüzemanyagok minőségéről szóló 98/70/EK irányelv 
 
 d) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelvnek
 
-## való megfelelést szolgálja.
+való megfelelést szolgálja.
 
 (2) Ez a rendelet
 
 a) a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EK tanácsi rendelet,
 
 b) a bioüzemanyagokra és a folyékony bio-energiahordozókra vonatkozó, a gazdasági szereplők által a tagállamokhoz eljuttatandó bizonyos típusú információkról szóló, 2011. január 12-i 2011/13/EU bizottsági határozat 1. cikk c) és d) pontja
+
+végrehajtásához szükséges rendelkezéseket állapít meg.

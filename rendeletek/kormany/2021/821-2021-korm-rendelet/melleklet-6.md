@@ -1,6 +1,6 @@
 6. melléklet a 821/2021. (XII. 28.) Korm. rendelethez
 
-## Az üzemanyag-forgalmazó jelentésének minimális adattartalma
+Az üzemanyag-forgalmazó jelentésének minimális adattartalma
 
 1. Az üzemanyag-forgalmazó azonosító adatai
 
@@ -18,7 +18,7 @@
 
 2.3. E85.
 
-3. A forgalomba hozott bioüzemanyag mennyisége az 1. § 9. pontjában meghatározott fajtánkénti bontásban, és összesen (literben és MJ-ban kifejezve), ide nem értve annak a bioüzemanyagnak a mennyiségét, melyet a bioüzemanyag-részarány számításánál figyelmen kívül kell hagyni, valamint a forgalomba hozott bioüzemanyag előállításának módjáról.
+3.[^16] A forgalomba hozott bioüzemanyag mennyisége az 1. melléklet 3–15. és 17–32. sorában meghatározott fajtánkénti bontásban, és összesen (literben és MJ-ban kifejezve), ide nem értve annak a bioüzemanyagnak a mennyiségét, melyet a bioüzemanyag-részarány számításánál figyelmen kívül kell hagyni, valamint a forgalomba hozott bioüzemanyag előállításának módjáról.
 
 4. A forgalomba hozott bioüzemanyag alapanyagainak előállítása kapcsán a földhasználat közvetett megváltozásából eredő kibocsátás előzetesen becsült középértéke, amennyiben az az alábbi alapanyag kategóriákba tartozik:
 
@@ -67,3 +67,5 @@
 10.6. a 2. melléklet 3. pontjában meghatározott alapanyag,
 
 10.7. egyéb (alapanyag megnevezésével).
+
+[^16]: A 6. melléklet 3. pontja a 620/2022. (XII. 29.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.

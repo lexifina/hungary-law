@@ -1,6 +1,6 @@
 3. melléklet a 821/2021. (XII. 28.) Korm. rendelethez
 
-## A megújuló energia részarányának kiszámítási szabályai a közlekedési szektorban
+A megújuló energia részarányának kiszámítási szabályai a közlekedési szektorban
 
 1. A megújuló energiaforrásokból előállított energia közlekedési célra felhasznált részarányának kiszámítása a közlekedés végső energiafogyasztásán belül az alábbiak szerint számítható ki:
 
