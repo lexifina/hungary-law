@@ -22,21 +22,7 @@
 
 ## 2. az 1. pont d) alpont da) alpontja szerinti beruházások tekintetében a tervezési program, költség- és időkalkuláció, valamint a beruházási program elkészítésére, a tervpályázat lebonyolítására, településrendezési eszközök elkészítésére, jóváhagyási terv és engedélyezési dokumentáció készítésére, az engedélyeztetés lefolytatására és a kivitelezési dokumentáció elkészítésére összesen 750 000 000 forint forrást biztosít a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: 2019. évi Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére azzal, hogy az előkészítési fázisokat legkésőbb 2020. december 31. napjáig kell megvalósítani;
 
-## 3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva az 1. pont d) alpont da) alpontja szerinti beruházások 2. pont szerinti előkészítési fázisainak finanszírozása érdekében – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 750 000 000 forint egyszeri átcsoportosítását rendeli el a 2019. évi Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a 2019. évi Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 14. Egyetemek, főiskolák cím javára, az 1. melléklet szerint, elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Határidő: azonnal
-
-## Az elszámolás és a fel nem használt rész visszafizetése tekintetében
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## Határidő: 2021. február 28.
+## 3.[^1]
 
 ## 4. a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: 2020. évi Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére
 
@@ -48,7 +34,7 @@
 
 ## d) az 1. pont a) alpont ad) alpontja szerinti beruházás vázlattervének, engedélyezési és kivitelezési dokumentációjának elkészítésére a 2020. évben összesen 84 000 000 forint forrást biztosít, azzal, hogy az előkészítési fázisokat legkésőbb 2020. december 31. napjáig kell megvalósítani,
 
-## e)[^1]
+## e)[^2]
 
 ## 5. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával gondoskodjon a 4. pont a)–d) alpontja szerinti, összesen 512 030 000 forint forrás 2020. évi rendelkezésre állásáról a 2020. évi Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a 2020. évi Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 8. Szakképzési Centrumok cím javára, elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel;
 
@@ -66,7 +52,7 @@
 
 ## Határidő: 2021. február 28.
 
-## 6.[^2] felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az 1. pont b) alpontja szerinti cél megvalósítása érdekében a beruházás vázlattervének, engedélyezési és kivitelezési dokumentációjának elkészítésére a 2020. évben 30 000 000 forint rendelkezésre állásáról;
+## 6.[^3] felhívja az emberi erőforrások miniszterét, hogy gondoskodjon az 1. pont b) alpontja szerinti cél megvalósítása érdekében a beruházás vázlattervének, engedélyezési és kivitelezési dokumentációjának elkészítésére a 2020. évben 30 000 000 forint rendelkezésre állásáról;
 
 ## Felelős: emberi erőforrások minisztere
 
@@ -78,19 +64,19 @@
 
 ## b) az 1. pont d) alpont da) alpontjában meghatározott beruházások 2. pont szerinti előkészítési feladatait a Debreceni Egyetem,
 
-## c)[^3] az 1. pont b) alpontjában meghatározott beruházás előkészítési feladatait Debrecen Megyei Jogú Város Önkormányzata
+## c)[^4] az 1. pont b) alpontjában meghatározott beruházás előkészítési feladatait Debrecen Megyei Jogú Város Önkormányzata
 
 ## valósítja meg;
 
 ## 8. a beruházások előkészítésének kormányzati felelőseként
 
-## a)[^4] az 1. pont a) alpont aa)–ad) alpontja és az 1. pont d) alpont da) alpontja szerinti beruházások tekintetében a kultúráért és innovációért felelős minisztert,
+## a)[^5] az 1. pont a) alpont aa)–ad) alpontja és az 1. pont d) alpont da) alpontja szerinti beruházások tekintetében a kultúráért és innovációért felelős minisztert,
 
 ## b) az 1. pont b) alpontja szerinti beruházás tekintetében az emberi erőforrások miniszterét
 
 ## jelöli ki;
 
-## 9.[^5] az 1. pont a)–c) alpontja szerinti beruházások megvalósítójaként a Beruházási Ügynökséget, az 1. pont d) alpont da) pontja szerinti beruházás megvalósítójaként a Debreceni Egyetemet jelöli ki;
+## 9.[^6] az 1. pont a)–c) alpontja szerinti beruházások megvalósítójaként a Beruházási Ügynökséget, az 1. pont d) alpont da) pontja szerinti beruházás megvalósítójaként a Debreceni Egyetemet jelöli ki;
 
 ## 10. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy az érintett miniszterek bevonásával az 1. pont szerinti beruházások megvalósítására lefolytatott feltételes közbeszerzési eljárások eredménye alapján készítsen előterjesztést a Kormány részére a beruházások megvalósításáról, a kivitelezésekhez kapcsolódó kötelezettségvállalási összegek és a kifizetések ütemezésének, továbbá az innovációért és technológiáért felelős miniszter és az emberi erőforrások minisztere közreműködésével az üzemeltetési költségek, valamint a létrejövő vagyonelemek vagyonkezelőire és üzemeltetőire vonatkozó javaslat bemutatásával;
 
@@ -128,76 +114,12 @@
 
 ## Határidő: a 2021–2024. évi központi költségvetés tervezése során
 
-1. melléklet az 1680/2019. (XII. 5.) Korm. határozathoz
+1. melléklet az 1680/2019. (XII. 5.) Korm. határozathoz[^7]
 
-9K08355_0
-
-| XV. Pénzügyminisztérium |
-
-| XVII. Innovációs és Technológiai Minisztérium |
-
-| ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA |
-
-| Költségvetési év: 2019. |
-
-| forintban |
-
-| Állam- háztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XV. |  |  |  |  |  | Pénzügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 26 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 2 |  |  |  |  |  | Központi tartalékok |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 375739 |  |  |  | 4 |  |  |  |  |  | Beruházás Előkészítési Alap |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -750 000 000 |  |  |  |
-
-|  | XVII. |  |  |  |  |  | Innovációs és Technológiai Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 227942 |  | 14 |  |  |  |  |  | Egyetemek, főiskolák |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 750 000 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| forintban |
-
-| Állam- háztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| forintban |
-
-| Állam- háztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XVII. |  |  |  |  |  | Innovációs és Technológiai Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 227942 |  | 14 |  |  |  |  |  | Egyetemek, főiskolák |  |  |  |  |  |  |  |  |  |  | 750 000 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra: |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I. n.év | II. n.év | III. n.év | IV. n.év |
-
-|  |  |  | időarányos |  |  |  |  |  |  |  |  |
-
-|  |  | teljesítésarányos |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  | 1 példány |  |  |  |  | egyéb: | azonnal |  |  | 750 000 000 |  |  |  | 750 000 000 |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
-
-[^1]: A 4. pont e) alpontját az 1521/2020. (VIII. 14.) Korm. határozat 1. pont h) alpontja visszavonta.
-[^2]: A 6. pont az 1521/2020. (VIII. 14.) Korm. határozat 2. pontjával megállapított szöveg.
-[^3]: A 7. pont c) alpontja az 1521/2020. (VIII. 14.) Korm. határozat 3. pontjával megállapított szöveg.
-[^4]: A 8. pont a) alpontja az 1662/2022. (XII. 22.) Korm. határozat a) pontja szerint módosított szöveg.
-[^5]: A 9. pont az 1662/2022. (XII. 22.) Korm. határozat b) pontja szerint módosított szöveg.
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 4. pont e) alpontját az 1521/2020. (VIII. 14.) Korm. határozat 1. pont h) alpontja visszavonta.
+[^3]: A 6. pont az 1521/2020. (VIII. 14.) Korm. határozat 2. pontjával megállapított szöveg.
+[^4]: A 7. pont c) alpontja az 1521/2020. (VIII. 14.) Korm. határozat 3. pontjával megállapított szöveg.
+[^5]: A 8. pont a) alpontja az 1662/2022. (XII. 22.) Korm. határozat a) pontja szerint módosított szöveg.
+[^6]: A 9. pont az 1662/2022. (XII. 22.) Korm. határozat b) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
