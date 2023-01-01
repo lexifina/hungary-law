@@ -8,4 +8,4 @@
 
 (4) A (2) bekezdés szerinti rendelkezések hatálybalépésének naptári napját a határrendészetért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-(5) A (3) bekezdés szerinti rendelkezések hatálybalépésének naptári napját az idegenrendészetért és menekültügyért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+(5) A (3) bekezdés szerinti rendelkezések hatálybalépésének naptári napját a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
