@@ -6,7 +6,7 @@ a) a folyamatosan szervezett sorsolásos játék és a totalizatőri rendszerű 
 
 b) a nem folyamatosan szervezett sorsolásos játék és a totalizatőri rendszerű fogadás esetén a nyereményalap 1 ezreléke, de legalább 5 ezer forint, legfeljebb 500 ezer forint,
 
-c) ajándéksorsolás esetén a kisorsolásra kerülő nyeremények forgalmi értékének 1 ezreléke, de legalább 5 ezer forint, legfeljebb 500 ezer forint,
+c)[^1]
 
 d) a bukmékeri rendszerű fogadás esetén a negyedévi tiszta játékbevétel 4 ezreléke, de legalább 5 ezer forint, legfeljebb 10 millió forint,
 
@@ -18,6 +18,8 @@ g) játékautomata üzemeltetés esetén félévente játékautomatánként 10 e
 
 h) távszerencsejáték-szervezés esetén a negyedévi tiszta játékbevétel 2,5 százaléka, de legalább 100 ezer forint és legfeljebb 10 millió forint
 
-## szerencsejáték felügyeleti díjat (a továbbiakban: felügyeleti díj) fizet.
+szerencsejáték felügyeleti díjat (a továbbiakban: felügyeleti díj) fizet.
 
 (2) Ha a játékautomata nyilvántartásba vétele a féléves időtartamot nem éri el, a kötelezett az (1) bekezdés g) pontja szerinti felügyeleti díj időarányos részét fizeti meg.
+
+[^1]: Az 1. § (1) bekezdés c) pontját a 40/2022. (XII. 19.) SZTFH rendelet 21. § a) pontja hatályon kívül helyezte.

@@ -25,3 +25,5 @@ j) a kizárólag a távszerencsejáték és online kaszinójáték játékterve 
 k) a kizárólag az egyes szerencsejátékok engedélyezésével, lebonyolításával és ellenőrzésével kapcsolatos feladatok végrehajtásáról szóló SZTFH rendelet szerinti közös játékosi egyenleg kialakításához szükséges játékterv módosítása iránti eljárás esetén kérelmenként 6500 forint,
 
 l) az Szjtv. 13. § (5) bekezdése szerinti játékminősítési kérelem benyújtása esetén 42 000 forint
+
+igazgatási-szolgáltatási díjat fizet.

@@ -1,1 +1,0 @@
-## igazgatási-szolgáltatási díjat fizet.
