@@ -16,7 +16,7 @@ e) egyes választási iratok digitalizálását, a választási eredmények, el�
 
 f) az a) és b) pont szerinti informatikai rendszerek központi felhasználókezelését és a felhasználók központi azonosítását végző
 
-## informatikai rendszert, ideértve ezen informatikai rendszerek biztonságos kommunikációját biztosító informatikai hálózatot, továbbá az a)–f) pont szerinti informatikai rendszerekkel biztonságos hálózati kapcsolatban lévő számítógépes munkaállomásokat (a továbbiakban együtt: választási informatikai rendszer).
+informatikai rendszert, ideértve ezen informatikai rendszerek biztonságos kommunikációját biztosító informatikai hálózatot, továbbá az a)–f) pont szerinti informatikai rendszerekkel biztonságos hálózati kapcsolatban lévő számítógépes munkaállomásokat (a továbbiakban együtt: választási informatikai rendszer).
 
 (2) A választási informatikai rendszer része
 

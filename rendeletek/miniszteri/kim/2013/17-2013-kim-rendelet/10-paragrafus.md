@@ -10,5 +10,7 @@ b) a NESZA,
 
 c)[^14] ha a magyarországi lakcímmel nem rendelkező kérelmező az útlevele vagy a vezetői engedélye számát adja meg a kérelemben, az útiokmány-nyilvántartás vagy a közúti közlekedési nyilvántartás engedély-nyilvántartásának
 
+adatai alapján bírálja el.
+
 [^13]: A 10. § (1) bekezdése a 15/2021. (XI. 29.) IM rendelet 2. §-ával megállapított szöveg.
 [^14]: A 10. § (2) bekezdés c) pontja a 26/2018. (IX. 7.) IM rendelet 6. §-ával megállapított szöveg.

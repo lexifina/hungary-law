@@ -2,61 +2,53 @@
 
 1. melléklet a 17/2013. (VII. 17.) KIM rendelethez
 
-## A szavazási levélcsomag átvételére kijelölt települések és külképviseletek
+A szavazási levélcsomag átvételére kijelölt települések és külképviseletek
 
-1. A Ve. 277. § (2) bekezdés b) pontja alapján a szavazási levélcsomagot a magyarországi lakcímmel nem rendelkező választópolgár a következő településeken veheti át:
+1.[^26] A Ve. 277. § (2) bekezdés b) pontja alapján a szavazási levélcsomagot a magyarországi lakcímmel nem rendelkező választópolgár a következő településeken veheti át:
 
-a.[^26]
+a. Battonya (Békés vármegye)
 
-b. Battonya (Békés Megye)
+b. Beregsurány (Szabolcs-Szatmár-Bereg vármegye)
 
-c. Beregsurány (Szabolcs-Szatmár-Bereg Megye)
+c. Biharkeresztes (Hajdú-Bihar vármegye)
 
-d. Biharkeresztes (Hajdú-Bihar megye)
+d. Bódvaszilas (Borsod-Abaúj-Zemplén vármegye)
 
-e. Bódvaszilas (Borsod-Abaúj-Zemplén Megye)
+e. Csengersima (Szabolcs-Szatmár-Bereg vármegye)
 
-f. Csengersima (Szabolcs-Szatmár-Bereg Megye)
+f. Fehérgyarmat (Szabolcs-Szatmár-Bereg vármegye)
 
-g.[^27]
+g. Kőszeg (Vas vármegye)
 
-h. Fehérgyarmat (Szabolcs-Szatmár-Bereg Megye)
+h. Létavértes (Hajdú-Bihar vármegye)
 
-i.[^28]
+i. Letenye (Zala vármegye)
 
-j. Kőszeg (Vas Megye)
+j. Letkés (Pest vármegye)
 
-k. Létavértes (Hajdú-Bihar megye)
+k. Makó (Csongrád-Csanád vármegye)
 
-l. Letenye (Zala Megye)
+l. Nagylak (Csongrád-Csanád vármegye)
 
-m. Letkés (Pest Megye)
+m. Nyírábrány (Hajdú-Bihar vármegye)
 
-n.[^29] Makó (Csongrád-Csanád Megye)
+n. Nyírlugos (Szabolcs-Szatmár-Bereg vármegye)
 
-o.[^30] Nagylak (Csongrád-Csanád Megye)
+o. Putnok (Borsod-Abaúj-Zemplén vármegye)
 
-p.[^31] Nyírábrány (Hajdú-Bihar Megye)
+p. Rajka (Győr-Moson-Sopron vármegye)
 
-q. Nyírlugos (Szabolcs-Szatmár-Bereg Megye)
+q. Rédics (Zala vármegye)
 
-r. Putnok (Borsod-Abaúj-Zemplén Megye)
+r. Tiszabecs (Szabolcs-Szatmár-Bereg vármegye)
 
-s. Rajka (Győr-Moson-Sopron Megye)
+s. Tompa (Bács-Kiskun vármegye)
 
-t. Rédics (Zala Megye)
+t. Tornyosnémeti (Borsod-Abaúj-Zemplén vármegye)
 
-u.[^32]
+u. Vámosszabadi (Győr-Moson-Sopron vármegye)
 
-v. Tiszabecs (Szabolcs-Szatmár-Bereg Megye)
-
-w. Tompa (Bács-Kiskun Megye)
-
-x. Tornyosnémeti (Borsod-Abaúj-Zemplén Megye)
-
-y. Vámosszabadi (Győr-Moson-Sopron Megye)
-
-z. Záhony (Szabolcs-Szatmár-Bereg Megye)
+v. Záhony (Szabolcs-Szatmár-Bereg vármegye)
 
 2. A Ve. 277. § (2) bekezdés c) pontja alapján a szavazási levélcsomagot a magyarországi lakcímmel nem rendelkező választópolgár a következő külképviseleteken veheti át:
 
@@ -78,20 +70,14 @@ h. Magyarország Főkonzulátusa, Szabadka
 
 i. Magyarország Főkonzulátusa, Ungvár
 
-j.[^33] Magyarország Főkonzulátusa, Eszék
+j.[^27] Magyarország Főkonzulátusa, Eszék
 
-k.[^34] Magyarország Nagykövetsége, Kijev
+k.[^28] Magyarország Nagykövetsége, Kijev
 
-l.[^35] Magyarország Főkonzulátusa, Lendva
+l.[^29] Magyarország Főkonzulátusa, Lendva
 
 [^25]: A 24. §-t a 27/2015. (X. 16.) IM rendelet 2. §-a iktatta be.
-[^26]: Az 1. melléklet 1. pont a. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
-[^27]: Az 1. melléklet 1. pont g. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
-[^28]: Az 1. melléklet 1. pont i. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
-[^29]: Az 1. melléklet 1. pont n. alpontja a 12/2020. (VIII. 4.) IM rendelet 3. §-a szerint módosított szöveg.
-[^30]: Az 1. melléklet 1. pont o. alpontja a 12/2020. (VIII. 4.) IM rendelet 3. §-a szerint módosított szöveg.
-[^31]: Az 1. melléklet 1. pont p. alpontja a 38/2013. (XII. 30.) Korm. rendelet 14. §-ával megállapított szöveg. be.
-[^32]: Az 1. melléklet 1. pont u. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
-[^33]: Az 1. melléklet 2. pont j. alpontját a 38/2013. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
-[^34]: Az 1. melléklet 2. pont k. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.
-[^35]: Az 1. melléklet 2. pont l. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.
+[^26]: Az 1. melléklet 1. pontja a 42/2022. (XII. 28.) IM rendelet 1. §-ával megállapított szöveg.
+[^27]: Az 1. melléklet 2. pont j. alpontját a 38/2013. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
+[^28]: Az 1. melléklet 2. pont k. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.
+[^29]: Az 1. melléklet 2. pont l. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.

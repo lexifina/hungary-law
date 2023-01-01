@@ -14,7 +14,7 @@ b) közforgalmú személyszállítási eszközzel történő utazás esetén a b
 
 c) Budapest közigazgatási területének határától számított húsz kilométeres körzeten belül igénybe vett, az NVI által a részére biztosított taxikártyával kiegyenlített személytaxi-szolgáltatást
 
-## számolhatja el.
+számolhatja el.
 
 (3) Az (1) bekezdésben meghatározott NVB tag szállásköltség-térítésként legfeljebb vendégéjszakánként harmincezer forintot számolhat el.
 

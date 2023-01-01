@@ -18,7 +18,7 @@ ab) az országos népszavazási kezdeményezés aláírásai ellenőrzésének e
 
 b) a magyarországi lakcímmel nem rendelkező, de Magyarországon élő vagy az Európai Unió területén kívüli lakóhellyel rendelkező választópolgárokat az Európai Parlament tagjai választása évének februárjában
 
-## tájékoztatja.
+tájékoztatja.
 
 (2a)[^9] A (2) bekezdés szerinti tájékoztatást, valamint a 3. melléklet szerinti kérelemnyomtatványt
 
@@ -26,7 +26,7 @@ a) a központi névjegyzékben nem, de az SZL-ben szereplő választópolgár r�
 
 b) a központi névjegyzékben szereplő választópolgár részére a Ve. 92. § (4) bekezdése szerinti postacímre, e-mail-címre vagy telefaxszámra
 
-## kell megküldeni.
+kell megküldeni.
 
 (2b)[^10] A (2) és a (2a) bekezdés rendelkezéseit csak abban az esetben kell alkalmazni, ha azok alkalmazására a (2) bekezdésben megjelölt hónap első napját megelőző egy éven belül nem került sor.
 
