@@ -1,6 +1,6 @@
 1. számú melléklet a 221/2008. (VIII. 30.) Korm. rendelethez[^25]
 
-## A helyszíni ellenőrzés során készített jegyzőkönyv, vagy feljegyzés tartalmi elemei[^26]
+A helyszíni ellenőrzés során készített jegyzőkönyv, vagy feljegyzés tartalmi elemei[^26]
 
 A helyszíni ellenőrzés során készített jegyzőkönyv, vagy feljegyzés tartalmi elemei:[^27]
 

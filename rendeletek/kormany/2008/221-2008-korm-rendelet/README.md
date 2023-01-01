@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-221-20-
 | 2018-01-01 | 2008-221-20-22.11 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2019-07-01 | 2008-221-20-22.12 | 159/2019. (VI. 28.) Korm. rendelet |
 | 2020-03-01 | 2008-221-20-22.13 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2023-01-01 | 2008-221-20-22.14 | 360/2019. (XII. 30.) Korm. rendelet |
