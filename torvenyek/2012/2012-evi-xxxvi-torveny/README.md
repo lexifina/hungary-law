@@ -62,3 +62,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-36-00-00
 | 2022-10-13 | 2022. évi XXIX. törvény | 2012-36-00-00.57 |
 | 2022-11-01 | 2022. évi XXXI. törvény | 2012-36-00-00.54 |
 | 2022-12-15 | 2022. évi LVI. törvény | 2012-36-00-00.59 |
+| 2023-01-01 | 2022. évi XVIII. törvény | 2012-36-00-00.55 |

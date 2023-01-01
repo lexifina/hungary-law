@@ -32,7 +32,7 @@ a) a 77. § (3) bekezdése alapján az országgyűlési képviselő mentelmi jog
 
 b) a 29/A. § (4) bekezdése alapján annak megállapításához, hogy a nemzetiségi szószóló az országgyűlési képviselők választásán már nem választható, már nem szerepel a központi névjegyzékben nemzetiségi választópolgárként, valamint a nemzetiségi szószóló összeférhetetlenségének kimondásához,
 
-c) település megyék közötti átcsatolásához a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 125. § (4) bekezdésében foglalt esetben,
+c) település vármegyék közötti átcsatolásához a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 125. § (4) bekezdésében foglalt esetben,
 
 d) a Kúria elnöke és az Országos Bírósági Hivatal elnöke mentelmi jogának felfüggesztéséhez a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 2. § (2) bekezdésében foglaltak szerint,
 

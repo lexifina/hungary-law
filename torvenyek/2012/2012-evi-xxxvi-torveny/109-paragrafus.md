@@ -40,6 +40,6 @@ emelkedik.
 
 (7) A képviselő az üzemanyagkártyával felhasználható összeg (keret) erejéig jogosult a teljesen elektromos meghajtású gépjármű töltésére fordított, valamint a belföldi közforgalmú közösségi közlekedési eszköz igénybevételére jogosító helyi és helyközi bérlet, valamint helyközi menetjegy – számlával igazolt – költségeinek megtérítésére is. Ha a képviselő az üzemanyagkártyára való jogosultságáról lemond, az e bekezdés szerinti költségtérítés összege nem haladhatja meg az (1)–(5) bekezdés alapján, egy 2000 cm3 hengerűrtartalmú, benzinüzemű személygépkocsira vonatkozó üzemanyag-fogyasztási norma szerint számított összeget.
 
-(8) Az alelnök és – a 113. § (1) bekezdésében foglalt keret terhére – a képviselőcsoport vezetője személyi, illetve hivatali célra személygépkocsi használatára jogosult. Az alelnök részére a személygépkocsit és használatának költségeit az Országgyűlés Hivatala biztosítja.
+(8) Az alelnök és – a 113. § (1) és (1a) bekezdésében foglalt keret terhére – a képviselőcsoport vezetője személyi, illetve hivatali célra személygépkocsi használatára jogosult. Az alelnök részére a személygépkocsit és használatának költségeit az Országgyűlés Hivatala biztosítja.
 
 (9) A képviselő ideiglenes külföldi kiküldetése idején a köztisztviselőkre irányadó napidíjra és költségtérítésre jogosult.

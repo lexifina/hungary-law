@@ -44,6 +44,8 @@
 
 22. az Integritás Hatóság elnöke, elnökhelyettese
 
+23. az Európai Támogatásokat Auditáló Főigazgatóság főigazgatója, főigazgató-helyettese
+
 részére a közjogi tisztség betöltésének igazolása céljából igazolványt (a továbbiakban: közjogi tisztségviselői igazolvány) állít ki.
 
 (2) A házelnök részére a Mentelmi Bizottság elnöke állít ki közjogi tisztségviselői igazolványt.
