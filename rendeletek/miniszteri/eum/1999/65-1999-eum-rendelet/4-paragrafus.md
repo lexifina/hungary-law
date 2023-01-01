@@ -24,7 +24,7 @@ a) az – figyelemmel a védőeszköz elhasználódására – a munkavállaló 
 
 b) a mentési tervben meghatározott mentési feladatokra és haváriákra rendszeresített készenléti védőeszköz csomag állandóan
 
-## rendelkezésre álljon. A munkavállaló haladéktalanul tájékoztatja a munkáltatót, ha megítélése szerint a védőeszköz elvesztette védelmi képességét.
+rendelkezésre álljon. A munkavállaló haladéktalanul tájékoztatja a munkáltatót, ha megítélése szerint a védőeszköz elvesztette védelmi képességét.
 
 (8) A (7) bekezdés b) pontja szerinti csomag tartalmazza mindazokat a védőeszközöket, amelyek használata havária esetén szükségessé válhat.
 

@@ -6,7 +6,7 @@ aa) minden olyan eszköz, amelyet a munkavállaló azért visel vagy tart magán
 
 ab) az eszköz bármely kiegészítése vagy egyéb segédeszköz, amelynek a feladata az aa) pont szerinti cél elérése
 
-## [a továbbiakban aa) és ab) pontok együtt: védőeszköz];
+[a továbbiakban aa) és ab) pontok együtt: védőeszköz];
 
 b) expozíció: a munkahelyen jelen lévő és a munkavállalót érő kóroki tényezők mennyiségi meghatározása (az expozíciós koncentráció és az expozíciós idő szorzata).
 

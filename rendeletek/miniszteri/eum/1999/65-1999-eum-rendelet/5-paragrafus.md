@@ -16,7 +16,7 @@ ca) a kockázatok jellegének és mértékének megfelelő védelmi képességge
 
 cb) a munkavállaló által végzett fizikai munka mértékének és a klimatikus környezetnek megfelelő
 
-## védőeszközt, amelyet a védőeszközre meghatározott felhasználási határok (védelmi képesség, fokozat vagy osztály) figyelembevételével választ ki,
+védőeszközt, amelyet a védőeszközre meghatározott felhasználási határok (védelmi képesség, fokozat vagy osztály) figyelembevételével választ ki,
 
 d) figyelembe veszi a védőeszköz használatának egészségi (egyéni) alkalmassági feltételeit, illetve annak egészségi korlátjait.
 
