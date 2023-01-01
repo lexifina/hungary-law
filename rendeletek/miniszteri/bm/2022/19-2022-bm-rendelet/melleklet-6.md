@@ -1,6 +1,6 @@
 6. melléklet a 19/2022. (VII. 15.) BM rendelethez
 
-## A határvadász szolgálati igazolványának leírása
+A határvadász szolgálati igazolványának leírása
 
 1. Az általános rendőrségi feladatok ellátására létrehozott szerv határvadász állománya tagjai szolgálati igazolványának (e melléklet alkalmazásában a továbbiakban: igazolvány) felépítése és megjelenése:
 

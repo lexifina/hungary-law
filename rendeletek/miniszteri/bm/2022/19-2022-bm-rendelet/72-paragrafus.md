@@ -13,3 +13,5 @@ b) hivatásos állomány tagján a határvadászt,
 c) szolgálati beosztáson a határvadász beosztást,
 
 d) állományilletékes parancsnokon a Készenléti Rendőrség Határvadász Ezred ezredparancsnokát
+
+kell érteni.

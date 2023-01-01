@@ -1,5 +1,3 @@
-## A fizikai minimumfeltételek – az egyes mozgásformák végrehajtásának leírása
-
 |  | A | B | C | D |
 
 | 1. |  | 1. gyakorlat Mellső fekvőtámaszban karhajlítás, karnyújtás | 2. gyakorlat Hanyatt fekvésből felülés | 3. gyakorlat 1500 méteres síkfutás |
@@ -20,7 +18,7 @@
 
 4. melléklet a 19/2022. (VII. 15.) BM rendelethez
 
-## A fizikai minimumfeltételek vizsgálatára vonatkozó pontozótábla
+A fizikai minimumfeltételek vizsgálatára vonatkozó pontozótábla
 
 I. korcsoport
 

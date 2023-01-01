@@ -1,5 +1,3 @@
-## kell érteni.
-
 ## 24. A fegyelmi felelősség
 
 73. § (1) A belügyminiszter irányítása alatt álló fegyveres szervek hivatásos állományú tagjai Fegyelmi Szabályzatáról szóló 11/2006. (III. 14.) BM rendeletet (a továbbiakban: R2.) a Készenléti Rendőrség Határvadász Ezred állományába tartozó határvadászra – a (2) bekezdésben meghatározott kivétellel – alkalmazni kell, azzal, hogy
@@ -10,7 +8,7 @@ b) szolgálati viszonyon a szerződéses határvadász jogviszonyt,
 
 c) állományilletékes parancsnokon a Készenléti Rendőrség Határvadász Ezred ezredparancsnokát
 
-## kell érteni.
+kell érteni.
 
 (2) A határvadászra az R2. I–IV. Fejezetét az e rendeletben foglalt eltérésekkel kell alkalmazni.
 

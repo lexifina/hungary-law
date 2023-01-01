@@ -1,5 +1,3 @@
-## érdekében.
-
 16. § (1) Az alkalmasságvizsgálatok dokumentálását a Készenléti Rendőrség Határvadász Ezred a Komplex Kompetencia Alapú Kiválasztási és Képzési Rendszer (a továbbiakban: KOMP-rendszer) elnevezésű informatikai keretrendszer igénybevételével hajtja végre.
 
 (2) A KOMP-rendszer igénybevétele során az alkalmasságvizsgálatok végrehajtása érdekében a Készenléti Rendőrség Határvadász Ezred a következő, általa törvény alapján a jelentkezőről és a határvadászról kezelt adatokat használja fel:

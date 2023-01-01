@@ -1,6 +1,6 @@
 1. melléklet a 19/2022. (VII. 15.) BM rendelethez
 
-## Az egészségügyi minimumfeltételek
+Az egészségügyi minimumfeltételek
 
 1. Az egészségi alkalmasságot külön mérlegelés nélkül kizáró egészségi okok:
 

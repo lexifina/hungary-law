@@ -17,3 +17,5 @@ c) viselkedésének jellegzetességeire,
 d) felettesekkel, munkatársakkal való kapcsolatára, valamint
 
 e) esetleges hangulat- és viselkedésváltozásaira
+
+vonatkozó információkat is.

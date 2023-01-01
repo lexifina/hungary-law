@@ -1,6 +1,6 @@
 2. melléklet a 19/2022. (VII. 15.) BM rendelethez
 
-## A pszichológiai minimumfeltételek
+A pszichológiai minimumfeltételek
 
 1. A személyiség egészével kapcsolatos elvárások
 

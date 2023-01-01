@@ -13,3 +13,5 @@ a) egészségi,
 b) pszichológiai vagy
 
 c) fizikai
+
+alkalmasságvizsgálat.

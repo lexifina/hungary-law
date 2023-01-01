@@ -1,5 +1,3 @@
-## ismerheti meg.
-
 ## 8. Az alkalmasságvizsgálatot végzők
 
 18. § (1) Az egészségi alkalmasságvizsgálatot
