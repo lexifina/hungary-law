@@ -1,0 +1,1 @@
+28. § A teljesítés igazolására a kötelezettségvállaló vagy a külképviselet-vezető, vagy gazdasági régió működése esetén a regionális gazdasági igazgató által – az adott kötelezettségvállaláshoz vagy a kötelezettségvállalások előre meghatározott csoportjaihoz kapcsolódóan – írásban kijelölt kihelyezett jogosult.

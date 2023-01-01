@@ -1,0 +1,1 @@
+40. § A 6. § (4) bekezdése és a 9. § (2) bekezdése szerinti belső utasítást, valamint a külképviselet gazdálkodásában részt vevők – e rendelet rendelkezéseinek megfelelően módosított – munkaköri leírását az e rendelet hatálybalépését követő húsz napon belül kell felterjeszteni kihelyező szerv részére.

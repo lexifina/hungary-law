@@ -1,0 +1,5 @@
+29. § (1) A külképviselet gazdálkodási tevékenysége során, tekintettel a külképviseletek gazdálkodásában részt vevők alacsony létszámára, nem kell alkalmazni az Ávr. 60. § (2) bekezdését. Az ilyen típusú kötelezettségvállalások esetében mind a rendszeres, mind a rendkívüli pénztárellenőrzés során, valamint a belső ellenőrzések esetében az ellenőrzést végző fokozott ellenőrzést végez.
+
+(2) Ha a külképviseleten – annak létrehozása vagy megszüntetése, vagy előre nem tervezhető, váratlan esemény miatt, továbbá válsághelyzetek esetén – a gazdálkodáshoz szükséges személyi feltételek nem biztosítottak, a kihelyező szerv felhatalmazhatja másik külképviselet külképviselet-vezetőjét a külképviselet létrehozásával vagy megszüntetésével kapcsolatos kötelezettségek vállalására, a teljesítés igazolására és az utalványozására, valamint a másik külképviselet gazdasági feladatkört ellátó kihelyezett személyét a kötelezettségvállalás pénzügyi ellenjegyzésére és az érvényesítésre.
+
+(3) Az előirányzati keret felhasználása tekintetében az Ávr. 60. § (3) bekezdése szerinti nyilvántartást a külképviselet vezeti.

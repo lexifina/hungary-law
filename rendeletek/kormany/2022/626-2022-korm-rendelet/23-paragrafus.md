@@ -1,0 +1,5 @@
+23. § (1) Az előirányzati keret a költségvetési év során előirányzat-módosítással növelhető, illetve csökkenthető, ha szükségessé válik a közfeladatok változásával kapcsolatban, jelentős árfolyamváltozás, megtakarítási intézkedés hatására, illetve kihelyező szerv egyéb döntése alapján.
+
+(2) A külképviselet-vezető, gazdasági régió működése esetén a regionális gazdasági igazgató jogosult az előirányzati keret kiemelt előirányzatai közötti átcsoportosításának a kihelyező szerv felé történő kezdeményezésére. Az előirányzati keret kiemelt előirányzatokon belüli, a rovatok közötti átcsoportosítását a költségvetési előirányzatok vezetéséért felelős személy kezdeményezésére a külképviselet-vezető, vagy gazdasági régió működése esetén a regionális gazdasági igazgató hagyja jóvá, és kihelyező szerv hajtja végre.
+
+(3) A külképviseletek bevételei – a szponzori bevételek kivételével – a kihelyező szerv bevételeit képezik, azok a külképviselet előirányzati keretét nem növelik, azok felhasználására a külképviselet saját hatáskörben nem jogosult.

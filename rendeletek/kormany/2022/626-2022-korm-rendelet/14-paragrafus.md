@@ -1,0 +1,1 @@
+14. § A gazdasági felelős felel mindazon, a külképviselet gazdálkodásához kapcsolódó tevékenység ellátásáért, amelyeket e rendelet más személy feladatkörébe nem utal. A külképviselet gazdasági felelőse ellátja a gazdasági vezető, valamint a gazdasági asszisztens munkakörébe tartozó feladatokat is, ha ezen munkakörök nem kerülnek betöltésre.

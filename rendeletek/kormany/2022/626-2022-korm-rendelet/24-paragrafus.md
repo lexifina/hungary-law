@@ -1,0 +1,3 @@
+24. § (1) A kihelyező szerv az előirányzati keretet időszakonként, forintban vagy más pénznemben, az előirányzat-felhasználási keretszámlája terhére a külképviselet 32. § (1) bekezdése szerinti fizetési számlájára történő átutalással, ellátmányként bocsátja a külképviselet rendelkezésére.
+
+(2) Ha az adott országban a biztonságos számlamozgásokat veszélyeztető helyzet áll fenn vagy alakul ki, a kihelyező szerv a külképviselet finanszírozását a kihelyező szerv előzetes írásos engedélye alapján készpénz diplomáciai futár – szükséges időszakonként történő – igénybevételével történő kiszállításával, vagy közvetítő külképviselet bevonásával biztosíthatja.
