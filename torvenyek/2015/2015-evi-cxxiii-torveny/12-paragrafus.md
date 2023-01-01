@@ -1,4 +1,4 @@
-12. § (1) A háziorvosi, házi gyermekorvosi, alapellátást nyújtó fogorvosi ellátás egységes színvonalú ellátása érdekében járásokhoz igazítottan, megyénként, valamint országos szinten kollegiális szakmai vezető háziorvos, házi gyermekorvos, fogorvos működik.
+12. § (1) A háziorvosi, házi gyermekorvosi, alapellátást nyújtó fogorvosi ellátás egységes színvonalú ellátása érdekében járásokhoz igazítottan, vármegyénként, valamint országos szinten kollegiális szakmai vezető háziorvos, házi gyermekorvos, fogorvos működik.
 
 (2)
 

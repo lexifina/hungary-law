@@ -20,4 +20,8 @@ g) a kollegiális szakmai vezető háziorvos, házi gyermekorvos, fogorvos, vala
 
 h) az otthoni szakápolás és otthoni hospice ellátás részletes szakmai szabályait
 
+i) a 8. § (6a) bekezdése szerinti feltételeket,
+
+j) az egészségügyi alapellátások körzetei kialakításának szempontjait és a praxiskezelőnek a háziorvosi körzetek ellátása biztosításával kapcsolatos feladatait, valamint a 21. §-ban meghatározott időpontot
+
 rendeletben állapítsa meg.

@@ -28,6 +28,8 @@ b) szűrővizsgálatok során a területi védőnő által a háziorvos felé je
 
 (6) A háziorvosi, házi gyermekorvosi és fogorvosi alapellátás részletes szakmai szabályait a miniszter rendeletben határozza meg.
 
+(6a) A háziorvos az (1) bekezdésben foglalt feladata, valamint az egészségügyi szakrendszerekkel történő folyamatos kapcsolattartása érdekében a miniszter rendeletében meghatározott feltételeknek megfelelő informatikai rendszert használja.
+
 (7) Az e § szerinti orvosok által a területi ellátási kötelezettség körében önállóan végezhető egészségügyi ellátás feltételeiről az önálló orvosi tevékenységről szóló törvény rendelkezik.
 
 (8) A kormányrendeletben meghatározott bejelentkezett biztosítotti létszám feletti, területi ellátási kötelezettség nélküli háziorvosi és házi gyermekorvosi körzetben ellátást nyújtó egészségügyi szolgáltatók kormányrendeletben foglaltak szerinti kiegészítő díjazásra jogosultak, valamint a területi ellátási kötelezettséggel összefüggésbe nem hozható teljesítményük alapján jogszabályban meghatározott módon finanszírozásban részesülnek, illetve jogszabályban meghatározott módon ugyanolyan kedvezményekre és pályázati lehetőségekre jogosultak, mint a területi ellátási kötelezettséggel rendelkező háziorvosi, házi gyermekorvosi ellátást nyújtó egészségügyi szolgáltatók.

@@ -1,3 +1,3 @@
-11. § (1) A praxisközösség, illetve a csoportpraxis elsősorban az egészségügyi alapellátáshoz tartozó megelőző ellátások hatékonyabb nyújtása érdekében jöhet létre.
+11. § (1) A praxisközösség elsősorban az egészségügyi alapellátáshoz tartozó megelőző ellátások hatékonyabb nyújtása érdekében jöhet létre.é
 
-(2) A praxisközösségek és csoportpraxisok kialakításának szempontjait a Kormány rendeletben állapítja meg.
+(2) A praxisközösségek kialakításának szempontjait a Kormány rendeletben állapítja meg.

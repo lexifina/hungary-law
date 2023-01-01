@@ -1,3 +1,5 @@
-6. § (1) A települési önkormányzat képviselő-testülete – a Kormány által kijelölt praxiskezelő által megadott szempontokat figyelembe véve – rendeletben megállapítja és kialakítja az egészségügyi alapellátások körzeteit. Több településre is kiterjedő ellátás esetén a körzet székhelyét az érintett települési önkormányzatok erre irányuló megállapodásban határozzák meg.
+## 3/A. Az állam feladatai az egészségügyi alapellátás körében
 
-(2) Az (1) bekezdés szerinti körzetek megállapítása és kialakítása során ki kell kérni az alapellátásért felelős országos módszertani intézet – védőnői ellátás esetén az országos tisztifőorvos –, valamint a működési engedély kiadására hatáskörrel rendelkező egészségügyi államigazgatási szerv véleményét is.
+6. § (1) A praxiskezelő jogszabályban meghatározott szempontok alapján, a települési önkormányzatok bevonásával alakítja ki az egészségügyi alapellátások körzeteit.
+
+(2) Az (1) bekezdés szerinti körzetek megállapítása és kialakítása során a praxiskezelő kikéri a működési engedély kiadására hatáskörrel rendelkező egészségügyi államigazgatási szerv és az egészségbiztosítási szerv véleményét is, amelyet szükség szerint figyelembe vesz.

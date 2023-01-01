@@ -1,1 +1,1 @@
-21–25. §
+21. § A praxiskezelő gondoskodik arról, hogy – a miniszter rendeletében meghatározott időponttól – az egészségügyi alapellátási körzetek feleljenek meg a jogszabályban megjelölt ellátásbiztonsági és gazdaságossági szempontoknak. A jogszabályban megjelölt ellátásbiztonsági és gazdaságossági szempontoknak nem megfelelő háziorvosi körzetekkel érintett egészségügyi szolgáltatókat és települési önkormányzatokat a vonatkozó eljárásrendre történő tájékoztatással egyidejűleg a praxiskezelő értesíti.
