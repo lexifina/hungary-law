@@ -1,5 +1,0 @@
-## 9. § A fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 20/K. § (6) bekezdése b) pontja szerinti eljárás alkalmazása esetén a kormányhivatal akkor adhatja vissza az ügyfélnek az ügyfél által aláírt papíralapú dokumentumot, ha az ügyfél igazoltan vállalja az eredeti beadványnak az adott iratra vonatkozó, jogszabályban előírt megőrzési idejéig, de legalább benyújtást követő 2 évig történő megőrzését és felhívásra történő bemutatását. E határidőn belül a kormányhivatal indokolt felhívására az ügyfél a beadvány eredeti példányának felmutatására köteles. A megőrzési kötelezettségre és annak időtartamára a kormányhivatal az ügyfelet figyelmezteti.
-
-10. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – 2017. január 1-jén lép hatályba.
-
-(2) A 1–3. §, az 5. § (1) bekezdése, a 6–8. § és az 1. melléklet 2018. január 1-jén lép hatályba.
