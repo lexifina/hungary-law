@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-42-20-0
 | 2017-01-01 | 2003-42-20-06.9 | 26/2016. (XII. 27.) IM rendelet |
 | 2018-01-01 | 2003-42-20-06.10 | 20/2017. (XII. 21.) IM rendelet |
 | 2020-07-16 | 2003-42-20-06.11 | 10/2020. (VII. 15.) IM rendelet |
+| 2023-01-01 | 2003-42-20-06.12 | 29/2022. (XII. 15.) IM rendelet |
