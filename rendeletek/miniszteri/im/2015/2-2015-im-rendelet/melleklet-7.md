@@ -36,6 +36,6 @@
 
 |  | jegyzőkönyvvezető |
 
-7. melléklet a 2/2015. (II. 20.) IM rendelethez[^9]
+7. melléklet a 2/2015. (II. 20.) IM rendelethez[^12]
 
-[^9]: A 7. melléklet a 26/2018. (IX. 7.) IM rendelet 23. § b) pontjával megállapított szöveg.
+[^12]: A 7. melléklet a 26/2018. (IX. 7.) IM rendelet 23. § b) pontjával megállapított, a 42/2022. (XII. 28.) IM rendelet 3. § d) pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 ## 10. A helyi választási iroda feladatai a szavazás napján
 
-14. § (1)[^4] Az SZSZB mellett működő jegyzőkönyvvezető 7.00, 9.00, 11.00, 13.00, 15.00 17.00 és 18.30 órakor adatot szolgáltat a HVI részére a szavazókörben megjelent választópolgárok számáról.
+14. § (1)[^7] Az SZSZB mellett működő jegyzőkönyvvezető 7.00, 9.00, 11.00, 13.00, 15.00 17.00 és 18.30 órakor adatot szolgáltat a HVI részére a szavazókörben megjelent választópolgárok számáról.
 
 (2) A HVI
 
@@ -12,4 +12,4 @@ b) az informatikai rendszerben – ellenőrzést követően – haladéktalanul 
 
 c) az SZSZB mellett működő jegyzőkönyvvezető útján azonnal tájékoztatja az SZSZB-t, ha adathiány van a szavazóköri jegyzőkönyvben, vagy az adatrögzítés során az informatikai rendszer összefüggés-hibát vagy egyéb hibát jelzett.
 
-[^4]: A 14. § (1) bekezdése a 26/2018. (IX. 7.) IM rendelet 21. §-ával megállapított szöveg.
+[^7]: A 14. § (1) bekezdése a 26/2018. (IX. 7.) IM rendelet 21. §-ával megállapított szöveg.

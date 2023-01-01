@@ -10,10 +10,12 @@ a) a választási célú dedikált informatikai eszközök,
 
 b) az Elektronikus Anyakönyvi Rendszer (továbbiakban: EAK) használatát biztosító informatikai eszközök,
 
-c) a fővárosi és megyei kormányhivatalok, a járási (fővárosi kerületi) hivatalok (a továbbiakban együtt: kormányhivatal) informatikai eszközei,
+c)[^2] a fővárosi és vármegyei kormányhivatalok, a járási (fővárosi kerületi) hivatalok (a továbbiakban együtt: kormányhivatal) informatikai eszközei,
 
 d) az okmányirodák, valamint az okmányirodai funkciókat is ellátó kormányablakok (a továbbiakban együtt: okmányiroda) informatikai eszközei és
 
 e) az a)–d) pontban meghatározott informatikai eszközöket összekötő adatátviteli hálózatok.
 
 (3) A választási alkalmazói rendszerek elemei lehetnek különösen: a névjegyzékek vezetését, a szavazatösszesítést, az eredménymegállapítást, a logisztikai és pénzügyi lebonyolítást támogató alkalmazói szoftverrendszerek.
+
+[^2]: A 3. § (2) bekezdés c) pontja a 42/2022. (XII. 28.) IM rendelet 3. § b) pontja szerint módosított szöveg.

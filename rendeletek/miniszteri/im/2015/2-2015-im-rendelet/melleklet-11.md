@@ -4,7 +4,7 @@
 
 | (A HELYI NÉPSZAVAZÁSRA BOCSÁTOTT KÉRDÉS) |
 
-| (MEGYE) |  | (TELEPÜLÉS / FŐVÁROSI KERÜLET NEVE) |  |  |
+| (VÁRMEGYE) |  | (TELEPÜLÉS / FŐVÁROSI KERÜLET NEVE) |  |  |
 
 |  |  |  |  |  | számú példány |
 
@@ -46,6 +46,6 @@
 
 ## P.H.
 
-11. melléklet a 2/2015. (II. 20.) IM rendelethez[^10]
+11. melléklet a 2/2015. (II. 20.) IM rendelethez[^15]
 
-[^10]: A 11. mellékletet a 26/2018. (IX. 7.) IM rendelet 24. § b) pontja hatályon kívül helyezte.
+[^15]: A 11. mellékletet a 26/2018. (IX. 7.) IM rendelet 24. § b) pontja hatályon kívül helyezte.

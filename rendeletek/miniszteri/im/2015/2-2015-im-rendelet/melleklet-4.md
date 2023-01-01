@@ -38,6 +38,6 @@
 
 ## * Csak a jegyzék első oldalán
 
-4. melléklet a 2/2015. (II. 20.) IM rendelethez[^8]
+4. melléklet a 2/2015. (II. 20.) IM rendelethez[^11]
 
-[^8]: A 4. melléklet a 23/2022. (X. 24.) IM rendelet 1. §-ával megállapított szöveg.
+[^11]: A 4. melléklet a 42/2022. (XII. 28.) IM rendelet 2. §-ával megállapított szöveg.

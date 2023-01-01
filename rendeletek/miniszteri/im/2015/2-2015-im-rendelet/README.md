@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-2-20-06
 | 2021-11-30 | 2015-2-20-06.7 | 2010: CXXX. törvény |
 | 2022-04-22 | 2015-2-20-06.8 | 11/2022. (IV. 21.) IM rendelet |
 | 2022-10-25 | 2015-2-20-06.9 | 23/2022. (X. 24.) IM rendelet |
+| 2023-01-01 | 2015-2-20-06.10 | 42/2022. (XII. 28.) IM rendelet |
