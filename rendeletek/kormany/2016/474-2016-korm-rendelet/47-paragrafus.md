@@ -1,4 +1,4 @@
-## 16.[^98] Sportegészségügy, sporttudomány támogatása
+## 16.[^103] Sportegészségügy, sporttudomány támogatása
 
 ## 47. § A Sportegészségügyi ellátás támogatása előirányzat terhére nyújtott támogatás az alábbi költségekre fordítható:
 
@@ -28,4 +28,4 @@ l) az olimpiai, paralimpiai és a Speciális Világjátékokra való felkészül
 
 m) egyéb, a sportegészségüggyel összefüggő feladatok ellátásához.
 
-[^98]: A 16. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^103]: A 16. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 17. §-ával megállapított szöveg.

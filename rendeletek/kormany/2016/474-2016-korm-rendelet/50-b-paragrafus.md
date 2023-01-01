@@ -1,4 +1,4 @@
-## 21.[^111] Válságtámogatás
+## 21.[^116] Válságtámogatás
 
 50/B. § A válságtámogatás a következő költségekre fordítható:
 
@@ -42,4 +42,4 @@
 
 20. sportszakmai működéssel összefüggő egyéb költségek.
 
-[^111]: A 21. alcímet (50/B. §-t) az 552/2022. (XII. 22.) Korm. rendelet 20. §-a iktatta be.
+[^116]: A 21. alcímet (50/B. §-t) az 552/2022. (XII. 22.) Korm. rendelet 20. §-a iktatta be.

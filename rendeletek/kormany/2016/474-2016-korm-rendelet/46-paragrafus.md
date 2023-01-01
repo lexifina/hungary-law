@@ -1,5 +1,5 @@
-## 15.[^97]
+## 15.[^102]
 
 46. §
 
-[^97]: A 15. alcímet (46. §-t) az 552/2022. (XII. 22.) Korm. rendelet 25. § g) pontja hatályon kívül helyezte.
+[^102]: A 15. alcímet (46. §-t) az 552/2022. (XII. 22.) Korm. rendelet 25. § g) pontja hatályon kívül helyezte.

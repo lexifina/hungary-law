@@ -1,4 +1,4 @@
-## 17.[^99] Sport népszerűsítésével, diák- és szabadidősporttal kapcsolatos támogatások
+## 17.[^104] Sport népszerűsítésével, diák- és szabadidősporttal kapcsolatos támogatások
 
 48. § (1) A Szabadidősport támogatása előirányzat terhére nyújtott költségvetési támogatás tekintetében
 
@@ -26,14 +26,14 @@ k) a versenyrendezés (ideértve a jogdíjakat is) és más szakmai rendezvénye
 
 l) a hazai és külföldi szakmai programokon való részvétel költségei (ideértve a sportdiplomáciai feladatokkal összefüggő költségeket is)
 
-m)[^100] országos jelleggel működő szabadidősport szövetségek szakmai feladatai és azok ellátásához kapcsolódó működési költségek,
+m)[^105] országos jelleggel működő szabadidősport szövetségek szakmai feladatai és azok ellátásához kapcsolódó működési költségek,
 
-n)[^101] országos jelleggel megvalósuló szabadidősport programok működtetésének költségei
+n)[^106] országos jelleggel megvalósuló szabadidősport programok működtetésének költségei
 
 számolhatók el.
 
 (2) A költségvetési támogatás legfeljebb tíz százalékáig a sportrendezvény kommunikációjával kapcsolatos költségek elszámolhatók.
 
-[^99]: A 17. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^100]: A 48. § (1) bekezdés m) pontját a 279/2018. (XII. 21.) Korm. rendelet 22. §-a iktatta be.
-[^101]: A 48. § (1) bekezdés n) pontját a 279/2018. (XII. 21.) Korm. rendelet 22. §-a iktatta be.
+[^104]: A 17. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^105]: A 48. § (1) bekezdés m) pontját a 279/2018. (XII. 21.) Korm. rendelet 22. §-a iktatta be.
+[^106]: A 48. § (1) bekezdés n) pontját a 279/2018. (XII. 21.) Korm. rendelet 22. §-a iktatta be.

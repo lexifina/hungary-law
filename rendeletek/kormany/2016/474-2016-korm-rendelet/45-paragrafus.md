@@ -1,5 +1,5 @@
-## 14.[^96]
+## 14.[^101]
 
 45. §
 
-[^96]: A 14. alcímet (45. §-t) az 552/2022. (XII. 22.) Korm. rendelet 25. § g) pontja hatályon kívül helyezte.
+[^101]: A 14. alcímet (45. §-t) az 552/2022. (XII. 22.) Korm. rendelet 25. § g) pontja hatályon kívül helyezte.

@@ -12,8 +12,8 @@ b) a 27. § (1) bekezdés b) és c) pontja esetén legfeljebb egy év.
 
 (5) A költségvetési támogatás visszavonásáról, illetve felfüggesztéséről való döntés nem veszélyeztetheti a sportszervezet vagy a sportszövetség utánpótlás-nevelési feladatainak ellátását.
 
-(6)[^73] A visszavont költségvetési támogatást a kedvezményezett – a visszavonásról szóló értesítés kézhezvételétől, amennyiben elektronikus úton kerül értesítésre, úgy attól a naptól számítva számított harminc napon belül – visszafizeti a minisztérium által megjelölt számlára az átutalási megbízás közlemény rovatában az Áht. azonosító és a szerződésszám megjelölésével.
+(6)[^74] A visszavont költségvetési támogatást a kedvezményezett – a visszavonásról szóló értesítés kézhezvételétől, amennyiben elektronikus úton kerül értesítésre, úgy attól a naptól számítva számított harminc napon belül – visszafizeti a minisztérium által megjelölt számlára az átutalási megbízás közlemény rovatában az Áht. azonosító és a szerződésszám megjelölésével.
 
 (7) A támogató a költségvetési támogatás visszavonásáról vagy felfüggesztéséről a döntés meghozatalát követő öt napon belül értesíti a nemzeti doppingellenes szervezet vezetőjét.
 
-[^73]: A 28. § (6) bekezdése az 552/2022. (XII. 22.) Korm. rendelet 24. § l) pontja szerint módosított szöveg.
+[^74]: A 28. § (6) bekezdése az 552/2022. (XII. 22.) Korm. rendelet 24. § l) pontja szerint módosított szöveg.

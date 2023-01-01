@@ -1,3 +1,3 @@
-39. §[^81]
+39. §[^86]
 
-[^81]: A 39. § az 552/2022. (XII. 22.) Korm. rendelet 12. §-a alapján hatályát vesztette.
+[^86]: A 39. § az 552/2022. (XII. 22.) Korm. rendelet 12. §-a alapján hatályát vesztette.

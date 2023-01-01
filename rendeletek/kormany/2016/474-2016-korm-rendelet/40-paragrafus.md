@@ -1,3 +1,3 @@
-40. §[^82]
+40. §[^87]
 
-[^82]: A 40. § az 552/2022. (XII. 22.) Korm. rendelet 12. §-a alapján hatályát vesztette.
+[^87]: A 40. § az 552/2022. (XII. 22.) Korm. rendelet 12. §-a alapján hatályát vesztette.
