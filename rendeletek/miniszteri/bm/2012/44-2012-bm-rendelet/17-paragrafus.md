@@ -12,7 +12,7 @@ e) szolgálati jogviszonya – a (3) bekezdésben foglaltak kivételével – me
 
 f) a kölcsönt nem a hitelcélnak megfelelően használja, használta fel,
 
-g)[^75] lakásépítésre, lakásbővítésre nyújtott munkáltatói kölcsön esetén a felelős műszaki vezető – lakás alkalmasságára vonatkozó – nyilatkozatának kiadásáig, korszerűsítésre, akadálymentesítésre nyújtott munkáltatói kölcsön esetén a folyósítást követő 12 hónapon belül – a helyi lakásügyi szerv írásbeli felszólítása ellenére – számlával nem igazolta a felhasználást, vagy
+g)[^76] lakásépítésre, lakásbővítésre nyújtott munkáltatói kölcsön esetén a felelős műszaki vezető – lakás alkalmasságára vonatkozó – nyilatkozatának kiadásáig, korszerűsítésre, akadálymentesítésre nyújtott munkáltatói kölcsön esetén a folyósítást követő 12 hónapon belül – a helyi lakásügyi szerv írásbeli felszólítása ellenére – számlával nem igazolta a felhasználást, vagy
 
 h) más súlyos szerződésszegést követett el.
 
@@ -30,28 +30,30 @@ d) szolgálati jogviszonya átszervezés miatt szűnt meg,
 
 e) szolgálati jogviszonya létszámcsökkentés miatt szűnt meg,
 
-f)[^76] szolgálati jogviszonya a dolgozónak fel nem róható egészségi, pszichológiai, fizikai állapot miatti alkalmatlanság miatt szűnt meg,
+f)[^77] szolgálati jogviszonya a dolgozónak fel nem róható egészségi, pszichológiai, fizikai állapot miatti alkalmatlanság miatt szűnt meg,
 
-g)[^77] az e rendelet hatálya alá tartozó szervhez, vagy az Országgyűlési Őrséghez kerül át, vagy
+g)[^78] az e rendelet hatálya alá tartozó szervhez, vagy az Országgyűlési Őrséghez kerül át, vagy
 
-h)[^78] a szolgálati jogviszonya azért szűnik meg, mert a vezetői kinevezés visszavonását követően a munkáltató a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 59. § (2) bekezdése szerinti munkakört nem tud felajánlani,
+h)[^79] a szolgálati jogviszonya azért szűnik meg, mert a vezetői kinevezés visszavonását követően a munkáltató a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 59. § (2) bekezdése szerinti munkakört nem tud felajánlani,
 
-i)[^79] határozott idejű szolgálati jogviszonya a határozott időtartam letelte miatt szűnik meg, azonban a megszűnést követő naptól belügyi szervvel szolgálati jogviszonyt létesít.
+i)[^80] határozott idejű szolgálati jogviszonya a határozott időtartam letelte miatt szűnik meg, azonban a megszűnést követő naptól belügyi szervvel szolgálati jogviszonyt létesít.
 
-(4)[^80] A támogatási megállapodás felmondása esetén a tartozást meg kell terhelni a korábban már jóváírt kedvezmény, valamint a pénzintézet által felszámított és a korábbi jogszabályok alapján a munkáltató által átvállalt kezelési költség összegével. Az így megállapított tartozás a felmondással egy összegben esedékessé válik.
+(4)[^81] A támogatási megállapodás felmondása esetén a tartozást meg kell terhelni a korábban már jóváírt kedvezmény, valamint a pénzintézet által felszámított és a korábbi jogszabályok alapján a munkáltató által átvállalt kezelési költség összegével. Az így megállapított tartozás a felmondással egy összegben esedékessé válik.
 
 (5) A támogatási megállapodás felmondására a helyi lakásügyi szerv a szerződésszegés tudomására jutásakor, az (1) bekezdés c) és g) pontjában foglalt esetekben a felszólításban kitűzött határidő eredménytelen lejártakor, az (1) bekezdés e) pontjában foglalt esetben a szolgálati jogviszony megszűnése napján haladéktalanul intézkedik, a felmondásról a kölcsönt kezelő pénzintézetet írásban értesíti.
 
-(6)[^81] A támogatási megállapodás felmondásával egy összegben esedékessé vált tartozást az adós
+(6)[^82] A támogatási megállapodás felmondásával egy összegben esedékessé vált tartozást az adós
 
 a) az (1) bekezdés a), c), f), g) és h) pontjában meghatározott esetekben a szerződésszegés időpontjától,
 
 b) az (1) bekezdés b), d) és e) pontjában meghatározott esetekben a felmondásban meghatározott időponttól
 
-[^75]: A 17. § (1) bekezdés g) pontja az 1/2018. (I. 18.) BM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^76]: A 17. § (3) bekezdés f) pontja a 20/2021. (VII. 14.) BM rendelet 8. §-a szerint módosított szöveg.
-[^77]: A 17. § (3) bekezdés g) pontja a 75/2013. (XII. 18.) BM rendelet 30. §-ával megállapított szöveg, e módosító rendelet 27. §-a alapján rendelkezéseit a benyújtott, de még el nem bírált kérelmek esetén is alkalmazni kell.
-[^78]: A 17. § (3) bekezdés h) pontja a 37/2015. (VI. 16.) BM rendelet 63. §-a szerint módosított szöveg.
-[^79]: A 17. § (3) bekezdés i) pontját az 1/2018. (I. 18.) BM rendelet 9. § (2) bekezdése iktatta be.
-[^80]: A 17. § (4) bekezdése a 15/2016. (V. 11.) BM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
-[^81]: A 17. § (6) bekezdése a 11/2019. (IV. 8.) BM rendelet 10. §-ával megállapított szöveg.
+számított, a Ptk. 6:48. § (1) bekezdése szerinti kamattal növelten köteles megfizetni.
+
+[^76]: A 17. § (1) bekezdés g) pontja az 1/2018. (I. 18.) BM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^77]: A 17. § (3) bekezdés f) pontja a 20/2021. (VII. 14.) BM rendelet 8. §-a szerint módosított szöveg.
+[^78]: A 17. § (3) bekezdés g) pontja a 75/2013. (XII. 18.) BM rendelet 30. §-ával megállapított szöveg, e módosító rendelet 27. §-a alapján rendelkezéseit a benyújtott, de még el nem bírált kérelmek esetén is alkalmazni kell.
+[^79]: A 17. § (3) bekezdés h) pontja a 37/2015. (VI. 16.) BM rendelet 63. §-a szerint módosított szöveg.
+[^80]: A 17. § (3) bekezdés i) pontját az 1/2018. (I. 18.) BM rendelet 9. § (2) bekezdése iktatta be.
+[^81]: A 17. § (4) bekezdése a 15/2016. (V. 11.) BM rendelet 12. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
+[^82]: A 17. § (6) bekezdése a 11/2019. (IV. 8.) BM rendelet 10. §-ával megállapított szöveg.
