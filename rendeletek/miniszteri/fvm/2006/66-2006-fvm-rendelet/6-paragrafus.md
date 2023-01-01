@@ -1,3 +1,3 @@
-## 5. §[^7]
+6. §[^8]
 
-[^7]: Az 5. § e rendelet 8. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. §-t a 141/2009. (X. 29.) FVM rendelet 14. § (1) bekezdése hatályon kívül helyezte.
