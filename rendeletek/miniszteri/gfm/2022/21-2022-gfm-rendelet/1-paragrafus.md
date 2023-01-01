@@ -1,0 +1,1 @@
+1. § Az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló 1/2022. (V. 26.) GFM rendelet 2. melléklet XII. pontjában a „Megyei Kormányhivatal” szövegrész helyébe a „Vármegyei Kormányhivatal” szöveg lép.
