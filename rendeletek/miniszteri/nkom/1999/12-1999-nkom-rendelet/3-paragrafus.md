@@ -1,4 +1,4 @@
-3. § (1) Műemlékké nyilvánítom a Baranya megyei Somogyhatvan, Kossuth L. u. 50. szám alatt található épületet a hozzá tartozó gazdasági épületekkel együtt.
+3. § (1)[^3] Műemlékké nyilvánítom a Baranya vármegyei Somogyhatvan, Kossuth L. u. 50. szám alatt található épületet a hozzá tartozó gazdasági épületekkel együtt.
 
 A védelem kiterjed a 218 hrsz. alatt nyilvántartott ingatlan teljes, 8225 m2 nagyságú területére.
 
@@ -9,3 +9,5 @@ A védelem kiterjed a 218 hrsz. alatt nyilvántartott ingatlan teljes, 8225 m2 n
 (4) A műemlékvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket III. kategóriába sorolom.
 
 (5) A műemléki védelem célja a XIX. század második felében épült, faluképileg meghatározó népi lakóépület, valamint a hozzá tartozó gazdasági épületek fokozott védelme.
+
+[^3]: A 3. § (1) bekezdése az 5/2022. (XII. 27.) ÉKM rendelet 1. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-2. § (1) Műemlékké nyilvánítom a Baranya megyei Szalánta község, Németi nevű falurészében a Zrínyi u. 71. szám alatti, 394 hrsz.-ú római katolikus plébániaházat és melléképületét.
+2. § (1)[^2] Műemlékké nyilvánítom a Baranya vármegyei Szalánta község, Németi nevű falurészében a Zrínyi u. 71. szám alatti, 394 hrsz.-ú római katolikus plébániaházat és melléképületét.
 
 A műemléki védelem kiterjed az ingatlan teljes, 13 302 m2 nagyságú területére.
 
@@ -7,3 +7,5 @@ A műemléki védelem kiterjed az ingatlan teljes, 13 302 m2 nagyságú terület
 (3) A műemlékvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket III. kategóriába sorolom.
 
 (4) A műemléki védelem célja az 1773-ban épült, nívós külsejű és gazdag belső részletekkel formált barokk plébániház, a vele egy telken álló 1880 körüli téglaarchitekturás gazdasági épület védelme és a templommal együttesen alkotott harmonikus egység megőrzése.
+
+[^2]: A 2. § (1) bekezdése az 5/2022. (XII. 27.) ÉKM rendelet 1. § a) pontja szerint módosított szöveg.

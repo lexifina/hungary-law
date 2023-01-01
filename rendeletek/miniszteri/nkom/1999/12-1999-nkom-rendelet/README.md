@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-12-20-8
 | 1999-08-26 | 1999-12-20-86.1 | 12/1999. (VIII. 18.) NKÖM rendelet |
 | 2014-01-01 | 1999-12-20-86.2 | 79/2013. (XII. 20.) BM rendelet |
 | 2014-04-13 | 1999-12-20-86.3 | 31/2014. (IV. 10.) BM rendelet |
+| 2023-01-01 | 1999-12-20-86.4 | 5/2022. (XII. 27.) ÉKM rendelet |

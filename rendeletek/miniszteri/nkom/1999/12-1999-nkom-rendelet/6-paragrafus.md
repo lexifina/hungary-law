@@ -1,4 +1,4 @@
-6. § (1) Műemlékké nyilvánítom a Fejér megyei Mór külterületén a 0282 hrsz.-ú ingatlanon található Nepomuki Szent János kápolnát.
+6. § (1)[^6] Műemlékké nyilvánítom a Fejér vármegyei Mór külterületén a 0282 hrsz.-ú ingatlanon található Nepomuki Szent János kápolnát.
 
 A védettség a 2287 m2 alapterületű ingatlan teljes egészére kiterjed.
 
@@ -7,3 +7,5 @@ A védettség a 2287 m2 alapterületű ingatlan teljes egészére kiterjed.
 (3) A műemlékvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket III. kategóriába soroljuk.
 
 (4) A védelem célja a 1745-ben épült kápolna és kripta építészeti értékein túl a vele egyidős oltárépítmény műemléki értékeinek fokozott védelme.
+
+[^6]: A 6. § (1) bekezdése az 5/2022. (XII. 27.) ÉKM rendelet 1. § a) pontja szerint módosított szöveg.

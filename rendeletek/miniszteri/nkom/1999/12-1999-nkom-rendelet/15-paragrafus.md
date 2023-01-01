@@ -1,4 +1,4 @@
-15. § (1) Műemlékké nyilvánítom a Vas megye, Kondorfa község, Alvég u. 44. szám alatt álló, 559 hrsz.-on nyilvántartott épületet.
+15. § (1)[^15] Műemlékké nyilvánítom a Vas vármegyei, Kondorfa község, Alvég u. 44. szám alatt álló, 559 hrsz.-on nyilvántartott épületet.
 
 A műemléki védelem kiterjed a 840 m2-es ingatlan teljes területére, valamint a beépített tüzelőberendezésekre.
 
@@ -9,3 +9,5 @@ A műemléki védelem kiterjed a 840 m2-es ingatlan teljes területére, valamin
 (4) A műemlékvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket III. kategóriában sorolom.
 
 (5) Az őrségi népi építészeti gyakorlat jellegzetességeit viselő lakóház és kijelölt környezete mind településszerkezeti, telepítési megjelenésével, mind beosztásában és berendezésében képviseli és méltó módon mutatja be a XIX. századra jellemző állapotot. A védelem célja az építészeti és történeti értékek megőrzése.
+
+[^15]: A 15. § (1) bekezdése az 5/2022. (XII. 27.) ÉKM rendelet 1. § b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-9. § (1) Műemlékké nyilvánítjuk a Győr-Moson-Sopron megyei Abda, Szent István u. 27. szám, 151 hrsz. alatti lakóházat.
+9. § (1)[^9] Műemlékké nyilvánítjuk a Győr-Moson-Sopron vármegyei Abda, Szent István u. 27. szám, 151 hrsz. alatti lakóházat.
 
 A műemléki védelem kiterjed a 2399 m2 területű ingatlan egészére, a melléképületekre, melléképítményekre, tartozékaira, valamint a konyhai tüzelőberendezésre és berendezési tárgyaira.
 
@@ -9,3 +9,5 @@ A műemléki védelem kiterjed a 2399 m2 területű ingatlan egészére, a mell�
 (4) A műemlékvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket III. kategóriába soroljuk.
 
 (5) Az épület a település főutcája legelső házainak egyike. Mestergerendái 1830-ból és 1908-ból datáltak, szabadkéményes konyhája hasábkemencével rendelkezik. A védelem célja az épület műemléki értékeinek fokozott védelme.
+
+[^9]: A 9. § (1) bekezdése az 5/2022. (XII. 27.) ÉKM rendelet 1. § a) pontja szerint módosított szöveg.
