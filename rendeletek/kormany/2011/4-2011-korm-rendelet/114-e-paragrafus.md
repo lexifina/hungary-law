@@ -4,11 +4,11 @@
 
 (2) A kedvezményezett az (1) bekezdésben meghatározott feltételek közül a legkésőbb teljesülő feltétel teljesülésétől számított öt napon belül köteles megindítani a közbeszerzési eljárást.
 
-(3)[^518] A támogatást igénylő a Kbt. 53. § (5) és (6) bekezdése szerint indíthat közbeszerzési eljárást a 114/B. § (1) bekezdésben meghatározott feltétel teljesítését megelőzően is. Ebben az esetben a támogatást igénylő köteles
+(3)[^521] A támogatást igénylő a Kbt. 53. § (5) és (6) bekezdése szerint indíthat közbeszerzési eljárást a 114/B. § (1) bekezdésben meghatározott feltétel teljesítését megelőzően is. Ebben az esetben a támogatást igénylő köteles
 
-a)[^519] a közbeszerzési eljárást a Kbt. 75. § (2) bekezdés a) pontja alapján eredménytelenné nyilvánítani, ha a 114/B. § (1) bekezdése szerinti hozzájárulást nem kapja meg, és
+a)[^522] a közbeszerzési eljárást a Kbt. 75. § (2) bekezdés a) pontja alapján eredménytelenné nyilvánítani, ha a 114/B. § (1) bekezdése szerinti hozzájárulást nem kapja meg, és
 
 b) a közbeszerzési eljárás eredményeként megkötendő szerződés megkötése esetén e szerződés hatályba lépését a 114/B. § (1) bekezdése szerinti hozzájárulás megadásához – mint felfüggesztő feltételhez – kötni.
 
-[^518]: A 114/E. § (3) bekezdés nyitó szövegrésze a 323/2015. (X. 30.) Korm. rendelet 6. § (6) bekezdés 7. pontja szerint módosított szöveg.
-[^519]: A 114/E. § (3) bekezdés a) pontja a 323/2015. (X. 30.) Korm. rendelet 6. § (6) bekezdés 8. pontja szerint módosított szöveg.
+[^521]: A 114/E. § (3) bekezdés nyitó szövegrésze a 323/2015. (X. 30.) Korm. rendelet 6. § (6) bekezdés 7. pontja szerint módosított szöveg.
+[^522]: A 114/E. § (3) bekezdés a) pontja a 323/2015. (X. 30.) Korm. rendelet 6. § (6) bekezdés 8. pontja szerint módosított szöveg.

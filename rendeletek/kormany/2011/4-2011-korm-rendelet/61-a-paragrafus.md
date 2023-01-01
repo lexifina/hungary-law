@@ -1,34 +1,34 @@
-61/A. §[^328] (1) Ha a közszféra szervezet vagy bevett egyház kedvezményezett által megvalósított projekt, kiemelt projekt, nagyprojekt összköltsége az eredeti elszámolható összköltség 15%-át meg nem haladó mértékben megemelkedik, a közszféra szervezet vagy bevett egyház kedvezményezett kérheti a támogatási szerződés módosítását, részletesen bemutatva és számszerűsítve a költségnövekmény egyes okait.
+61/A. §[^331] (1) Ha a közszféra szervezet vagy bevett egyház kedvezményezett által megvalósított projekt, kiemelt projekt, nagyprojekt összköltsége az eredeti elszámolható összköltség 15%-át meg nem haladó mértékben megemelkedik, a közszféra szervezet vagy bevett egyház kedvezményezett kérheti a támogatási szerződés módosítását, részletesen bemutatva és számszerűsítve a költségnövekmény egyes okait.
 
-(2)[^329] Ha a közszféra szervezet vagy bevett egyház kedvezményezett által megvalósított kiemelt projekt, nagyprojekt vagy uniós jogszabályból levezethető, tagállami kötelezettség teljesítését szolgáló projekt összköltsége az eredeti elszámolható összköltség 15%-át meghaladó mértékben megemelkedik, a közszféra szervezet vagy bevett egyház kedvezményezett kérheti a támogatási szerződés módosítását, részletesen bemutatva és számszerűsítve a költségnövekmény egyes okait.
+(2)[^332] Ha a közszféra szervezet vagy bevett egyház kedvezményezett által megvalósított kiemelt projekt, nagyprojekt vagy uniós jogszabályból levezethető, tagállami kötelezettség teljesítését szolgáló projekt összköltsége az eredeti elszámolható összköltség 15%-át meghaladó mértékben megemelkedik, a közszféra szervezet vagy bevett egyház kedvezményezett kérheti a támogatási szerződés módosítását, részletesen bemutatva és számszerűsítve a költségnövekmény egyes okait.
 
-(3)[^330] A közszféra szervezet vagy bevett egyház kedvezményezett által biztosított saját forrás aránya a támogatás növelése esetén sem csökkenhet.
+(3)[^333] A közszféra szervezet vagy bevett egyház kedvezményezett által biztosított saját forrás aránya a támogatás növelése esetén sem csökkenhet.
 
-(4)[^331] Az irányító hatóság az (1) és (2) bekezdés szerinti kérelem beérkezését követően ellenőrzést rendel el.
+(4)[^334] Az irányító hatóság az (1) és (2) bekezdés szerinti kérelem beérkezését követően ellenőrzést rendel el.
 
-(5)[^332] Az irányító hatóság az (1) és (2) bekezdés szerinti kérelmet elutasítja, ha a költségnövekmény finanszírozása az operatív program vonatkozó prioritása keretén belül nem biztosított.
+(5)[^335] Az irányító hatóság az (1) és (2) bekezdés szerinti kérelmet elutasítja, ha a költségnövekmény finanszírozása az operatív program vonatkozó prioritása keretén belül nem biztosított.
 
-(6)[^333] Az irányító hatóság dönt az (1) bekezdés szerinti esetben a támogatás növeléséről.
+(6)[^336] Az irányító hatóság dönt az (1) bekezdés szerinti esetben a támogatás növeléséről.
 
-(6a)[^334] Az irányító hatóság a (6) bekezdés szerinti döntése meghozatalát megelőzően kezdeményezi, hogy a Kormány állást foglaljon a projekt összköltségének emelkedéséről
+(6a)[^337] Az irányító hatóság a (6) bekezdés szerinti döntése meghozatalát megelőzően kezdeményezi, hogy a Kormány állást foglaljon a projekt összköltségének emelkedéséről
 
 a) nagyprojekt esetén, vagy
 
 b) ha a projekt elszámolható összköltsége a költségnövekménnyel együtt az egymilliárd forintot meghaladná.
 
-(7)[^335] A Kormány dönt a (2) bekezdés szerinti esetben a támogatás növeléséről.
+(7)[^338] A Kormány dönt a (2) bekezdés szerinti esetben a támogatás növeléséről.
 
-(8)[^336] A 36. § (4) bekezdés c) pontja szerinti költségnövekményről az irányító hatóság dönt.
+(8)[^339] A 36. § (4) bekezdés c) pontja szerinti költségnövekményről az irányító hatóság dönt.
 
-(9)[^337] A költségnövekmény mértékét, indokoltságát a döntéshozó jogosult vizsgálni. A döntéshozó a költségnövekményt indokolt esetben csökkentett mértékben is elfogadhatja.
+(9)[^340] A költségnövekmény mértékét, indokoltságát a döntéshozó jogosult vizsgálni. A döntéshozó a költségnövekményt indokolt esetben csökkentett mértékben is elfogadhatja.
 
-[^328]: A 61/A. §-t a 176/2012. (VII. 26.) Korm. rendelet 21. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 43. § 106. pontja szerint módosított szöveg.
-[^329]: A 61/A. § (2) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 29. § (1) bekezdésével megállapított, az 548/2013. (XII. 30.) Korm. rendelet 43. § 107. pontja szerint módosított szöveg.
-[^330]: A 61/A. (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 108. pontja szerint módosított szöveg.
-[^331]: A 61/A. (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 109. pontja szerint módosított szöveg.
-[^332]: A 61/A. (5) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 110. pontja szerint módosított szöveg.
-[^333]: A 61/A. § (6) bekezdése a 4/2016. (I. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^334]: A 61/A. § (6a) bekezdését a 4/2016. (I. 20.) Korm. rendelet 4. §-a iktatta be.
-[^335]: A 61/A. § (7) bekezdése a 4/2016. (I. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^336]: A 61/A. (8) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 111. pontja szerint módosított szöveg.
-[^337]: A 61/A. § (9) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be.
+[^331]: A 61/A. §-t a 176/2012. (VII. 26.) Korm. rendelet 21. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 43. § 106. pontja szerint módosított szöveg.
+[^332]: A 61/A. § (2) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 29. § (1) bekezdésével megállapított, az 548/2013. (XII. 30.) Korm. rendelet 43. § 107. pontja szerint módosított szöveg.
+[^333]: A 61/A. (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 108. pontja szerint módosított szöveg.
+[^334]: A 61/A. (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 109. pontja szerint módosított szöveg.
+[^335]: A 61/A. (5) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 110. pontja szerint módosított szöveg.
+[^336]: A 61/A. § (6) bekezdése a 4/2016. (I. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^337]: A 61/A. § (6a) bekezdését a 4/2016. (I. 20.) Korm. rendelet 4. §-a iktatta be.
+[^338]: A 61/A. § (7) bekezdése a 4/2016. (I. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^339]: A 61/A. (8) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 111. pontja szerint módosított szöveg.
+[^340]: A 61/A. § (9) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 29. § (2) bekezdése iktatta be.

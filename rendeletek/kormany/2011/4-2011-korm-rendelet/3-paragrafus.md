@@ -32,7 +32,7 @@ a) a), b), d)–i) pontjában meghatározott esetben egyedi ügyben hozott nyilv
 
 b) c) pontjában meghatározott esetben normatív határozatot
 
-## tesz közzé.
+tesz közzé.
 
 (4) A (2) bekezdés d) és e) pontja alapján kiadott határozat legalább
 
@@ -47,6 +47,8 @@ d) a támogatás vagy az elszámolható közkiadás összegét,
 e) a projekt rövid bemutatását és
 
 f) – feltételhez kötött támogatás esetén – a támogathatóság feltételeit
+
+tartalmazza.
 
 [^38]: A 3. alcím (3–4/A. §) a 141/2012. (VII. 2.) Korm. rendelet 1. §-ával megállapított, címe a 4/2016. (I. 20.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^39]: A 3. § a 4/2016. (I. 20.) Korm. rendelet 1. §-ával megállapított szöveg.

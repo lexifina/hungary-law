@@ -1,3 +1,5 @@
-## 11.[^90]
+## 11.[^93]
 
-[^90]: A 11. alcímet az 548/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése hatályon kívül helyezte.
+15. §
+
+[^93]: A 11. alcímet az 548/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése hatályon kívül helyezte.

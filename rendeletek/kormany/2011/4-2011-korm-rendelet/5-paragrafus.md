@@ -1,5 +1,3 @@
-## 4/A. §[^41]
-
 ## 4. [^42] Az európai uniós források felhasználásáért felelős miniszter
 
 ## 5. §[^43] Az európai uniós források felhasználásáért felelős miniszter
@@ -64,7 +62,6 @@ hu) az irányító hatósággal együttműködve egységes, minden operatív pro
 
 hv) ellátja az operatív programok zárásának koordinációs feladatait.
 
-[^41]: A 4/A. §-t a 4/2016. (I. 20.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
 [^42]: A 4. alcím (5. §) az 548/2013. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg. A 4. alcím címe a 203/2014. (VIII. 14.) Korm. rendelet 9. § 2. pontjával megállapított szöveg.
 [^43]: Az 5. § nyitó szövegrésze a 203/2014. (VIII. 14.) Korm. rendelet 9. § 3. pontjával megállapított szöveg.
 [^44]: Az 5. § b) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 3. pontja szerint módosított szöveg.

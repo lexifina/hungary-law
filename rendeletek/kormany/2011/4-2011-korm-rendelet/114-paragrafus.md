@@ -1,6 +1,6 @@
-## 44. [^514] Kapcsolattartás az Európai Bizottsággal és az Európai Számvevőszékkel
+## 44. [^517] Kapcsolattartás az Európai Bizottsággal és az Európai Számvevőszékkel
 
-114. §[^515] (1) Az ellenőrzési hatóság haladéktalanul tájékoztatja az államháztartásért felelős minisztert és a központi koordinációs szervet, ha az Európai Bizottság felkéri az ellenőrzési hatóságot ellenőrzés végzésére az Európai Bizottság számára.
+114. §[^518] (1) Az ellenőrzési hatóság haladéktalanul tájékoztatja az államháztartásért felelős minisztert és a központi koordinációs szervet, ha az Európai Bizottság felkéri az ellenőrzési hatóságot ellenőrzés végzésére az Európai Bizottság számára.
 
 (2) Az Európai Bizottság és az Európai Számvevőszék által tervezett ellenőrzésekről a központi koordinációs szerv értesíti az ellenőrzendő szervezetet, az államháztartásért felelős minisztert, az igazoló hatóságot és az ellenőrzési hatóságot. Az irányító hatóság – ha közvetlen hozzá érkezik a megkeresés – haladéktalanul tájékoztatja a központi koordinációs szervet. A központi koordinációs szerv az uniós ellenőrzések teljes folyamatát koordinálja, az értesítő levél megérkezésétől az intézkedési terv végrehajtásáig. A helyszíni ellenőrzések nyitó és záró megbeszélésén a központi koordinációs szerv, az államháztartásért felelős miniszter, az irányító hatóság, az igazoló hatóság és az ellenőrzési hatóság részt vehet.
 
@@ -14,5 +14,5 @@
 
 (7) Az 1083/2006/EK tanácsi rendelet 73. cikke szerinti egyeztetéseken a központi koordinációs szerv, az ellenőrzési hatóság és az államháztartásért felelős miniszter együttesen vesznek részt.
 
-[^514]: A 44. alcím az 548/2013. (XII. 30.) Korm. rendelet 37. §-ával megállapított szöveg.
-[^515]: A 114. § az 548/2013. (XII. 30.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^517]: A 44. alcím az 548/2013. (XII. 30.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^518]: A 114. § az 548/2013. (XII. 30.) Korm. rendelet 37. §-ával megállapított szöveg.

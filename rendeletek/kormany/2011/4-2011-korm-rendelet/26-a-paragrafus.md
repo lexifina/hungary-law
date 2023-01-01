@@ -1,4 +1,4 @@
-## 26/A. §[^140] A 20–26. §-tól eltérően az operatív program vonatkozó prioritása keretén belül
+## 26/A. §[^143] A 20–26. §-tól eltérően az operatív program vonatkozó prioritása keretén belül
 
 a) a pályázati felhívás keretében fel nem használt, vagy
 
@@ -12,4 +12,6 @@ bc) a kedvezményezett által visszafizetett,
 
 c) a projekt szakaszolása miatt áthúzódó
 
-[^140]: A 26/A. §-t a 176/2012. (VII. 26.) Korm. rendelet 6. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+támogatási összeg prioritáson belüli felhasználásáról – a nagyprojekt, a kiemelt projekt és az egymilliárd forintot meghaladó támogatási igényű projektjavaslat kivételével – az irányító hatóság dönt a központi koordinációs szerv által jóváhagyott támogatási konstrukció alapján.
+
+[^143]: A 26/A. §-t a 176/2012. (VII. 26.) Korm. rendelet 6. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.

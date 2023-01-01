@@ -1,4 +1,4 @@
-24. §[^130] (1) A befogadást követő projekt-kiválasztási eljárás keretében a támogatott projektek könnyített elbírálású, egyfordulós vagy kiemelt projekt-kiválasztási eljárás során kerülnek kiválasztásra, amelyek folyamatos vagy szakaszos elbírálásúak.
+24. §[^133] (1) A befogadást követő projekt-kiválasztási eljárás keretében a támogatott projektek könnyített elbírálású, egyfordulós vagy kiemelt projekt-kiválasztási eljárás során kerülnek kiválasztásra, amelyek folyamatos vagy szakaszos elbírálásúak.
 
 (2) A támogatásra vonatkozó döntés előkészítésének és meghozatalának eljárását
 
@@ -6,13 +6,13 @@ a) folyamatos meghirdetés esetében a beérkezés sorrendjében a rendelkezésr
 
 b) szakaszos elbírálás esetében a pályázati felhívásban rögzített pályázati szakasz zárását vagy beadási határnapját követően, a határidőig benyújtott pályázatok befogadási és értékelési szempontoknak való megfelelés szerinti sorrendisége alapján
 
-## kell lefolytatni.
+kell lefolytatni.
 
 (3) A befogadott projektjavaslatokat értékelni kell. A projektjavaslat értékelésében, továbbá a támogatási döntés előkészítésében részt vevőket a támogatást igénylő döntésről történő tájékoztatása időpontjáig titoktartási kötelezettség terheli. A titoktartási kötelezettség nem terjed ki a benyújtott projektjavaslatnak a projekt-kiválasztási eljárásban történő előrehaladásáról történő tájékoztatásra.
 
-(4)[^131] Ha a támogatási döntés mérlegelés nélkül, kizárólag a projekt-kiválasztási szempontoknak való megfelelőségen alapul (a továbbiakban: könnyített elbírálású támogatás) az irányító hatóság dönt a projektjavaslat támogatásáról vagy elutasításáról.
+(4)[^134] Ha a támogatási döntés mérlegelés nélkül, kizárólag a projekt-kiválasztási szempontoknak való megfelelőségen alapul (a továbbiakban: könnyített elbírálású támogatás) az irányító hatóság dönt a projektjavaslat támogatásáról vagy elutasításáról.
 
 (5) Könnyített elbírálású támogatás esetén – a felhívás eltérő rendelkezése hiányában – hiánypótlásnak nincs helye.
 
-[^130]: A 24. § a 25/2012. (II. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^131]: A 24. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 27. pontja szerint módosított szöveg.
+[^133]: A 24. § a 25/2012. (II. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^134]: A 24. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 27. pontja szerint módosított szöveg.

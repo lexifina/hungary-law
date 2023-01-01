@@ -1,7 +1,7 @@
-## 57/B. §[^324] Ha a pályázati felhívás vagy a támogatási szerződés arra lehetőséget biztosít, egyes költségek a támogatási szerződésben vagy a támogatói okiratban meghatározott mértékig – a kettős finanszírozás lehetőségének kizárása mellett – átalány alapon is elszámolhatóak.
+## 57/B. §[^327] Ha a pályázati felhívás vagy a támogatási szerződés arra lehetőséget biztosít, egyes költségek a támogatási szerződésben vagy a támogatói okiratban meghatározott mértékig – a kettős finanszírozás lehetőségének kizárása mellett – átalány alapon is elszámolhatóak.
 
 58. § (1) Olyan projekt esetében, amely korábban nem uniós finanszírozású projektként részesült központi költségvetési támogatásban és utólag, egyedi döntés alapján a projekt európai uniós támogatásban részesül, a költségvetés által korábban finanszírozott számlákat a kedvezményezettnek olyan önálló kifizetési igénylés keretében kell benyújtania elszámolásra, amely kizárólag költségvetési előfinanszírozással érintett számlákat tartalmaz.
 
 (2) Az (1) bekezdés szerinti elszámolásban jóváhagyott és kiutalhatóként megjelölt összeg nem kerül a kedvezményezett számlájára kiutalásra, hanem az elszámolások e rendelet szerinti hitelesítését, az egységes működési kézikönyvben szabályozott rögzítését, ellenőrzését és jóváhagyását, valamint a forráslehívás és az átutalási megbízás kiállítását követően technikai átforgatásra kerül sor, amelynek eljárásrendjét az egységes működési kézikönyv tartalmazza. Az így felmerült költségek közösségi hozzájárulás rendezését a központi költségvetés fő bevételei fejezetben kell bevételként elszámolni.
 
-[^324]: Az 57/B. §-t a 302/2013. (VII. 29.) Korm. rendelet 28. §-a iktatta be.
+[^327]: Az 57/B. §-t a 302/2013. (VII. 29.) Korm. rendelet 28. §-a iktatta be.
