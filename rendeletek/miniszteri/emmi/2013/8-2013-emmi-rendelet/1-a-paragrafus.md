@@ -4,7 +4,7 @@ a) az 1. § a) pontja szerint osztatlan tanárképzésben a Korm. rendelet 5. §
 
 b)[^5] az 1. § b) pontja szerinti közismereti tanárszakon osztott képzésben, tanári mesterszakon részidős képzésben a köznevelésért felelős miniszternek a Korm. rendelet 4. § (2) bekezdése szerinti előzetes véleménye alapján
 
-## szerezhető tanári szakképzettség.
+szerezhető tanári szakképzettség.
 
 (2) A Korm. rendelet 1. mellékletében foglaltak alapján párosíthatók a 3. mellékletben meghatározott közismereti tanárszakok és az 5. mellékletben meghatározott zenetanárszak és zeneművész-tanárszak szakirányai.
 

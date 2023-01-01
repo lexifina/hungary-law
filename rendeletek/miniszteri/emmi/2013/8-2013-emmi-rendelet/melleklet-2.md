@@ -1,5 +1,3 @@
-## A TANÁRKÉPZÉS ÁLTALÁNOS KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
-
 ## 1. A mesterképzési szak megnevezése: a Korm. rendelet 1. mellékletében meghatározott szakmegnevezés
 
 ## 2. A tanárképzésben szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
@@ -134,7 +132,7 @@
 
 2. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^34]
 
-## A TANÁRI FELKÉSZÍTÉS KÖVETELMÉNYEI
+A TANÁRI FELKÉSZÍTÉS KÖVETELMÉNYEI
 
 1. A tanárképzésben megszerezhető tanári tudás, készségek, képességek
 

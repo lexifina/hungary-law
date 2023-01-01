@@ -5116,4 +5116,290 @@ a) tudása
 
 – Ismeri a Közös Európai Referenciakeretet és annak alkalmazását.
 
-[^35]: A 3. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (3) bekezdésével megállapított, az 1/2022. (IX. 1.) KIM rendelet 8. § b) pontja szerint módosított szöveg.
+– Ismeri a portugál nyelv tanítása-tanulása során felhasználható információforrásokat, az azokról való tájékozódás lehetőségeit, a tankönyveket, taneszközöket, tanulásszervezési módokat, fontosabb módszereket, tanítási és tanulási stratégiákat.
+
+b) képességei
+
+– Képes a portugál nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+
+– Ismereteit képes a célnyelv folyékony használata és pedagógia tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+
+– Képes a kultúrák közötti közvetítésre és az interkulturális kompetencia fejlesztésére.
+
+– Képes ismereteit alkalmazva nyelvpedagógiai kérdésekre válaszokat keresni és adni.
+
+c) attitűdje
+
+– Fontosnak tartja a tanulók tudásának és képességeinek folyamatos fejlesztését.
+
+– Reálisan ítéli meg a portugál nyelv és kultúra oktatásában betöltött szerepét.
+
+– Igyekszik aktívan együttműködni szaktárgya, valamint más tantárgyak tanáraival.
+
+A pedagógiai folyamat tervezése területén
+
+a) tudása
+
+– Ismeri a Nemzeti alaptanterv és az arra épülő kerettantervek szerinti portugál idegen nyelv szaktárgyi és érettségivizsga követelményeit, az iskolai nevelő-oktató munka tartalmi szabályozását.
+
+– Ismeri az ehhez szükséges tankönyveket, taneszközöket, segédanyagokat, oktatástechnikai eszközöket.
+
+b) képességei
+
+– Képes pedagógiai munkájának megtervezésére a helyi tanterv, a tanmenet, óraterv szintjén.
+
+– Képes a tanítandó tartalmak meghatározására, strukturálására, logikai felépítésére, a tanulók számára szükséges tananyagok, taneszközök, információforrások, tudáshordozók, valamint a tartalmaknak megfelelő alternatív tanítási módszerek és számonkérési formák megválasztására.
+
+– Képes a tanítandó tananyag súlypontjait, felépítését, közvetítésének logikáját a tantervi előírásokkal és a pedagógiai célokkal összhangban az adott tanulócsoporthoz igazítani.
+
+c) attitűdje
+
+– Fontosnak tartja az alapos felkészülést, tervezést és a rugalmas megvalósítást.
+
+– A tervezés során együttműködik a munkatársakkal és a tanulókkal, kész figyelembe venni az adott tanulócsoport sajátosságait (motiváltság, előzetes tudás, képességek, szociális felkészültség).
+
+A tanulás segítése, szervezése és irányítása területén
+
+a) tudása
+
+– Ismeri a portugál idegen nyelv tanítása-tanulása során kialakítandó speciális kompetenciák fejlesztésének módszereit is.
+
+– Alapvető ismeretekkel rendelkezik a különböző motiváció-elméletekről, a tanulási motiváció felismerésének és fejlesztésének módszereiről.
+
+– Tájékozott a differenciális pedagógia, az adaptív tanulásszervezés, a nevelési-oktatási stratégiák, módszerek kiválasztásának és alkalmazásának kérdéseiben.
+
+– Ismeri az egész életen át tartó tanulásra felkészítés jelentőségét.
+
+b) képességei
+
+– Képes az érdeklődés és a figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
+
+– Képes a nyelvtanulás sikerességét/sikertelenségét befolyásoló tényezők felmérésére, és képes ezekről osztálytermi kutatás során adatokat gyűjteni, azokat elemezni, értelmezni, a diákok fejlődése érdekében osztálytermi gyakorlatában alkalmazni.
+
+– Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
+
+– Képes a tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására.
+
+– Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, azok célnyelven való reflektálására.
+
+c) attitűdje
+
+– Fontosnak tartja a tanulókkal való együttműködés, társas-megértés megvalósítását a tanulási folyamat hatékonyságának érdekében.
+
+– Törekszik az életkori, egyéni és csoport-sajátosságoknak megfelelő, aktivitást, interaktivitást, differenciálást elősegítő tanulási-tanítási stratégiák, módszerek alkalmazására.
+
+– Ösztönözi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+
+A pedagógiai folyamatok és a tanulók értékelése területén
+
+a) tudása
+
+– Ismeri a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit.
+
+– Tájékozott a különböző feladatgyűjteményekről, képes ilyenek összeállítására, illetve alkalmazására.
+
+– Ismeri a portugál nyelv és kultúra tanítása-tanulása során elsajátított ismeretek és fejlesztendő kompetenciák mérésére, értékelésére alkalmas sajátos módszereket, eszközöket.
+
+– Ismeri a középszintű nyelvi érettségi vizsga követelményeit.
+
+b) képességei
+
+– Képes alkalmazni a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit.
+
+– Képes az értékelés különböző céljainak, szintjeinek megfelelő értékelési formák és módszerek meghatározására, alkalmazására, az értékelés dokumentálására, (pl. portfólió formájában).
+
+– Az értékelés során képes figyelembe venni a differenciálás, individualizálás szempontjait, és elősegíteni a tanulók részvételét saját fejlődésük értékelésében.
+
+– Képes céljainak megfelelően az értékelés eszközeinek megválasztására, a különböző (diagnosztikus és fejlesztő) értékelési eljárások alkalmazására; a tanulók számára biztosítja a visszacsatolás lehetőségeit.
+
+c) attitűdje
+
+– Reálisan ítéli meg a pedagógus szerepét az értékelés, a minősítés tekintetében, a fejlesztő értékelés folyamatában.
+
+– Figyelemmel kíséri a tanulók önértékelési képességeinek fejlődését.
+
+A kommunikáció, a szakmai együttműködés és a pályaidentitás területén
+
+a) tudása
+
+– Ismeri az osztálytermi kommunikáció sajátosságait.
+
+– Tájékozott a szülőkkel és a pedagógiai munkáját segítő különféle szakemberekkel, szakmai intézményekkel való együttműködés módjaival kapcsolatban.
+
+b) képességei
+
+– Képes a szakmájára vonatkozó, konkrét kutatási témához kapcsolódó szakirodalmat felkutatni, áttekinteni, értelmezni, saját szakmai fejlődését megtervezni, megvalósítani, osztálytermi és egyéb élményeire reflektálni, szakmailag, nyelvileg folyamatosan megújulni.
+
+– Képes önismeretének, saját személyiségének fejlesztésére, és ennek érdekében nyitott a környezet visszajelzéseinek felhasználására.
+
+– Figyelemmel kíséri saját tevékenységének másokra gyakorolt hatását, reflektív módon törekszik tevékenységének módosítására, szakmai felkészültségének folyamatos fejlesztésére.
+
+c) attitűdje
+
+– Hivatástudattal kezeli a konfliktushelyzeteket, a problémák feltárását, illetve megoldásuk érdekében szakmai segítséget kér és elfogad.
+
+– Törekszik önismeretének, saját személyiségének fejlesztésére, testi-lelki egészségének megőrzésére.
+
+Az autonómia és a felelősségvállalás területén
+
+– Együttműködés és felelősségvállalás jellemzi szakmájával, szakterületével, illetve azok képviselőivel kapcsolatban.
+
+– Jelentős mértékű önállósággal rendelkezik szakmája átfogó és speciális kérdéseinek felvetésében, kidolgozásában, szakmai nézetek képviseletében, indoklásában.
+
+– Felelősséggel vállalja a kezdeményező szerepét a szakmai együttműködés kialakítására. Egyenrangú partner a szakmai kooperációban.
+
+4.2.2. A szakképzettséghez vezető szakterületek és sajátos szakmódszertani tantárgy-pedagógiai ismeretek
+
+4.2.2.1. Szakterületi (szaktudományos) ismeretek: 91-111 kredit
+
+A szakterületi ismeretek együttes tartalmának le kell fednie a Nemzeti alaptanterv alapján a kerettanterv szerint közvetítendő műveltség fő területeit és tartalmait, a tantárgynál a nevelési-oktatási szakaszokhoz, valamint az érettségi vizsgakövetelményhez megadott témakörök ismereteit.
+
+a) Szakmai alapozó ismeretek: 25-35 kredit
+
+– Nyelvismeret, idegen nyelvi kommunikációs kompetencia: portugál nyelvű szövegértési (írott és hallott szöveg értése) és szövegalkotási (szóbeli és írásbeli kifejezőkészség) kompetenciák; helyes kiejtés és élőszóbeli kifejezés portugál nyelven; portugál gyakorlati nyelvtan.
+
+– A portugál nyelvet használó országok civilizációjára vonatkozó ismeretek alapjai (történelem, földrajz, népesség, állam és társadalom, kultúra).
+
+– Nyelvészeti és kommunikációelméleti alapismeretek.
+
+– Irodalom- és kultúratudományi alapismeretek.
+
+– A latin nyelv alapjai és az újlatin nyelvek kialakulása, elterjedése.
+
+– Felhasználói ismeretek a humán informatikában.
+
+b) a szakmai törzsanyag ismeretkörei: 66-76 kredit
+
+– Leíró és alkalmazott nyelvészeti, kommunikációelméleti ismeretek (az élő portugál nyelv rendszere, használata és változatai; portugál-magyar kontrasztív nyelvészeti ismeretek, nyelvpolitika; interkulturális kommunikáció; kutatásmódszertan).
+
+– Irodalmi, kultúra- és médiatudományi ismeretek (a portugál nyelvű irodalom történeti áttekintése: korszakok és korszakhatárok, fő fejlődési tendenciák, a legjelentősebb alkotók és műveik; irodalmi műfajok, szövegek olvasása, szövegértelmezés, szövegelemzés, stilisztikai, retorikai és verstani alapismeretek, irodalom és medialitás, művészetek és populáris kultúra a portugál világban; kutatásmódszertan).
+
+– A portugál nyelvet használó országok civilizációjára vonatkozó ismeretek (történelem, jelenkori társadalom, politika, média és kultúra).
+
+– Nyelvfejlesztés és portugál nyelvű szakmai kommunikáció.
+
+A szabadon választható tárgyak kerete ad lehetőséget további szaktudományos ismereteket tartalmazó kurzusok felajánlására.
+
+4.2.2.2. Szakmódszertani (diszciplináris és interdiszciplináris tantárgy-pedagógiai) ismeretek: 12 kredit
+
+A szakmódszertani ismeretek átadása során a szakképzett tanárt arra kell felkészíteni, hogy a középfokú nevelés-oktatás 9-12. évfolyamain képes legyen magas színvonalon ellátni a nevelés-oktatás feladatait.
+
+– A portugál nyelv és kultúra tanára szakképzettség tekintetében a sajátos szakmódszertani (tantárgy-pedagógiai) ismeretkörök: 8 kredit
+
+– Nyelv, irodalom és kultúra tanításának módszertana.
+
+– A kommunikatív nyelvtanítás elméleti alapjai és gyakorlati ismeretei. A célnyelvi készségfejlesztés lépései.
+
+– Nyelv, irodalom és kultúraoktatás céljai és azok megvalósítása: tantervek, tanmenetek, óravázlatok készítésének módszertana. A Nemzeti alaptanterv, valamint az idegennyelvek oktatására vonatkozó tartalmi szabályozók ismerete.
+
+– Tanítási technikák, módszerek. Differenciált munkaformák (egyéni munka, pármunka, csoportmunka, frontális munka projektfeladatok).
+
+– A nyelv, mint a kultúra tanításának eszköze, az interkulturális kommunikáció fogalma, az interkulturális szemléletű nyelvtanítás céljai, megvalósításának módjai.
+
+– A különböző oktatási eszközök alkalmazási lehetőségei a nyelvórán. Multimediális nyelvtanítási ismeretek.
+
+– Tananyagkészítés, projektmunka és személyre szabott oktatás.
+
+– Az összefüggő féléves gyakorlatot támogató gyakorlat portugál nyelven: 2 kredit.
+
+– A kollaborációs térrel, oktatástechnikai innovációval, mesterséges intelligenciával kapcsolatos gyakorlat a szakterületen belül: 2 kredit.
+
+17. Román és nemzetiségi román nyelv és kultúra tanára
+
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel oklevélben szereplő tanári szakképzettség:
+
+– magyar nyelvű megjelölése: okleveles román és nemzetiségi román nyelv és kultúra tanára
+
+– szakképzettség angol nyelvű megjelölése: Teacher of Romanian Language and Culture
+
+2. A képzési idő: 10 félév
+
+3. A képzés célja az alapfokú nevelés-oktatás ötödik évfolyamon kezdődő és a nyolcadik évfolyam végéig tartó felső tagozatán, a középfokú nevelés-oktatás szakaszában, az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszában szakgimnáziumban, szakmára vagy szakképesítés megszerzésére felkészítő szakaszában a szakiskolában, a román nyelv és a román nyelv és irodalom, valamint a román népismeret tantárgy tanítására az iskola pedagógiai feladatainak ellátására, a pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+
+4. Az elsajátítandó szakmai kompetenciák
+
+4.1. A Korm. rendelet 3. § (1) bekezdés b) és c) pontja tekintetében a tanári tudás, képességek, attitűd (viszonyulás): a 2. mellékletben meghatározott ismeret, képesség, attitűd.
+
+4.2. A Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+
+4.2.1. A román és nemzetiségi román nyelv és kultúra tanárának szakterületi tudása, képességei, attitűdje (viszonyulása)
+
+A tanuló személyiségének fejlesztése, az egyéni bánásmód érvényesítésének figyelembevétele területén
+
+a) tudása
+
+– Ismeri a tanulók tanulását, tudásának alakulását befolyásoló tényezőket, felismeri a tanuló fizikai és pszichés tulajdonságait és azok ismeretében alkalmazza a megfelelő tanulási stratégiákat.
+
+– Tisztában van a sajátos nevelési igényű vagy beilleszkedési, tanulási, magatartási nehézséggel küzdő tanuló többi tanulóval együtt történő sikeres neveléséhez, oktatásához szükséges módszerekkel.
+
+– Ismeri a szaktárgy tanítása-tanulása során fejlesztendő speciális kompetenciákat, ezek fejlesztésének és diagnosztikus mérésének módszereit.
+
+b) képességei
+
+– Képes a tanuló személyiségjegyeinek felismerésére és fejlesztésére, nyitott a környezet visszajelzéseinek felhasználására.
+
+– Figyelemmel kíséri a tanuló tevékenységének másokra gyakorolt hatását, reflektív módon törekszik a tanuló tevékenységének módosítására, tudásának folyamatos fejlesztésére.
+
+– Képes a nemzetiségi szaktárgy speciális összefüggéseit megismertetni, az ebből adódó nehézségeket megoldani.
+
+c) attitűdje
+
+– Koherens egyéni álláspontjával segíti a tanuló és közössége épülését. Alkalmas a tanuló motivációjának felismerésére és erősítésére.
+
+– Az aktuális hazai és nemzetiségi szakirodalmat a helyzetnek megfelelően alkalmazza, tudását folyamatosan bővíti.
+
+– Érzékeny a tanulók egyéni problémáira, törekszik az egészséges személyiségfejlődés feltételeit biztosítani minden tanuló számára.
+
+A tanulói csoportok, közösségek alakulásának segítése, fejlesztése területén
+
+a) tudása
+
+– Ismeri a tanulói csoportok kialakításához szükséges módszereket, amelyek alkalmazása során figyelembe veszi a tanulók sokszínűségét.
+
+– Segíti a közösség kialakítását, fejlesztését, ismeri az azt elősegítő pedagógiai módszereket.
+
+– Segíti a fenntartható fejlődéssel, a médiatudatossággal, a digitális technológiák használatával kapcsolatos ismeretek átadását.
+
+b) képességei:
+
+– Képes értelmezni és a tanulók érdekében felhasználni a tanulók esélyeit befolyásoló kontextuális folyamatokat iskolán belül és kívül.
+
+– Tudatosan kezeli az értékek sokszínűségét, tiszteletben tartja azokat, nyitott mások véleményére.
+
+– Képes a konfliktusok megelőzésére és adott esetben hatékony kezelésére. Aktívan közreműködik a csoporttagok közösség iránti elkötelezettségének, felelős, aktív szerepvállalásának kialakításában.
+
+– Képes a tanulókat helyi, nemzeti és nemzetiségi értékek elfogadására nevelni.
+
+c) attitűdje
+
+– Alkalmas olyan pedagógiai helyzetek kialakítására, amelyekben a különböző értékek elfogadását segíti, a tanulókat együttműködésre motiválja.
+
+– Az iskola világában tudatosan törekszik a nemzeti és nemzetiségi kultúra alapját képező értékek elfogadtatására.
+
+– Fontosnak tartja az etnikumok és nemzetiségek iránti tolerancia kialakítását.
+
+A szakmódszertani és a szaktárgyi tudás területén
+
+a) tudása
+
+– Ismeri a román nyelv tanításának alapvető szakmódszertani irányait, valamint a szakterület legfontosabb összefüggéseit, elméleteit és a hozzájuk kapcsolódó terminológiát, illetve a problémamegoldás módszereit.
+
+– Ismeri a szakmódszertan hazai és nemzetközi eredményeit, szakirodalmát, aktuális kérdéseit, számítástechnikai, könyvtári forrásait.
+
+b) képességei
+
+– Képes nemzetiségi tanítási területén mind szóban, mind írásban árnyaltan kifejezni magát, képes román nemzetiségi szakterület és szakmódszertan ismeretrendszerét alkotó elképzelések alapfokú analízisére, az összefüggések szintetikus megfogalmazására és adekvát értékelő tevékenységre román nyelven.
+
+– Rendelkezik az önálló tanuláshoz szükséges képességekkel.
+
+– Képes rutin szakmai problémák azonosítására, az azok megoldásához szükséges elvi és gyakorlati háttér feltárására, megfogalmazására és megoldására.
+
+– Képes rugalmasan alakítani a tanítási stratégiákat a tanulási célokkal összhangban és differenciálni a tanulói képességeknek megfelelően.
+
+– Képes a másokkal való kooperációra, valamint szakmai tudásának egy adott munkahely különböző szakmai elvárásainak megfelelő felhasználására.
+
+– Képes az alkotó információhasználatra.
+
+– Képes a szaktárgyak tanítása során fejlesztett kompetenciák szintetizálására.
+
+[^35]: A 3. melléklet a 64/2021. (XII. 29.) ITM rendelet 7. § (3) bekezdésével megállapított, az 1/2022. (IX. 1.) KIM rendelet 8. § b) pontja, a 12/2022. (XII. 29.) KIM rendelet 6. § a) és b) pontja szerint módosított szöveg.
