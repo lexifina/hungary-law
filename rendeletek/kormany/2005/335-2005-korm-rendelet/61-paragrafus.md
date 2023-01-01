@@ -10,7 +10,7 @@ a) a papír alapú ügyiratokat – biztosítva azok gyors és hatékony visszak
 
 b)[^150] az elektronikus ügyiratokat – az Eür.-ben meghatározott elektronikus dokumentumtárolási szolgáltatás szabályainak figyelembevételével – az iratkezelési szabályzatában meghatározottak szerint, elektronikus irattárban
 
-## kell tárolnia.
+kell tárolnia.
 
 (5)[^151] A központi irattárba
 
@@ -20,7 +20,7 @@ b) a 41. § (4) bekezdésében meghatározottak szerinti iktatás esetén – az
 
 c) a 43. § (3) bekezdése szerint elkészített adathordozókat
 
-## kell leadni, vagy a központi irattárba adásról a 43. § (5) bekezdés szerint kell gondoskodni.
+kell leadni, vagy a központi irattárba adásról a 43. § (5) bekezdés szerint kell gondoskodni.
 
 (6)[^152] A közfeladatot ellátó szerv irattározási feladatainak ellátására elektronikus iratok esetében az Eür.-ben meghatározott, az elektronikus ügyintézési felügyelet engedélyével rendelkező elektronikus dokumentumtárolási szolgáltatót vehet igénybe. A KEÜSZ szolgáltató ez esetben a közfeladatot ellátó szerv adatfeldolgozójaként jár el.
 
@@ -32,7 +32,7 @@ a) a közigazgatási informatika infrastrukturális megvalósíthatóságának b
 
 b) a központosított informatikai és elektronikus hírközlési szolgáltatásokat egyedi szolgáltatási megállapodás útján igénybe vevő szervezetekről, valamint a központi szolgáltató által üzemeltetett vagy fejlesztett informatikai rendszerekről szóló miniszteri rendelet szerinti direktfinanszírozási szerződés alapján
 
-## végzi el.
+végzi el.
 
 (8)[^155] A közfeladatot ellátó szerv az iratról készített hiteles elektronikus másolat megőrzése mellett is megőrzi a maradandó értékű eredeti papíralapú iratot, ha ez az illetékes levéltár megállapítása szerint indokolt. A közfeladatot ellátó szerv azon maradandó értékű irat esetében, amelyről hiteles elektronikus másolatot készített, a papíralapú példány megőrzéséről negyedéves időszakonként kérheti az illetékes levéltár nyilatkozatát. A maradandó értékű irat papíralapú változata az illetékes levéltár egyetértő nyilatkozata esetén az Ltv. 5. § (4)–(6) bekezdése szerinti eljárásban megsemmisíthető. Az illetékes levéltár által papír alapon is megőrzendőnek ítélt maradandó értékű iratot a közfeladatot ellátó szerv a levéltárba adásig papíralapú iratként megőrzi.
 

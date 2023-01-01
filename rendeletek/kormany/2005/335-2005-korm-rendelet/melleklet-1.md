@@ -2,7 +2,7 @@
 
 1. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^216]
 
-## Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^217]
+Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^217]
 
 1. Miniszterelnökség
 
@@ -40,7 +40,7 @@
 
 17.[^231] VERITAS Történetkutató Intézet
 
-18.[^232] Fővárosi és megyei kormányhivatalok, valamint járási (fővárosi kerületi) hivatalaik
+18.[^232] Fővárosi és vármegyei kormányhivatalok, valamint járási (fővárosi kerületi) hivatalaik
 
 19.[^233] Országos Idegenrendészeti Főigazgatóság
 
@@ -82,13 +82,13 @@
 
 38. Országos Meteorológiai Szolgálat
 
-39. Európai Támogatásokat Auditáló Főigazgatóság
+39.[^247]
 
 40. Közbeszerzési és Ellátási Főigazgatóság
 
 41. Kormányzati Informatikai Fejlesztési Ügynökség
 
-42.[^247] Szabályozott Tevékenységek Felügyeleti Hatósága bányafelügyeleti feladatkörében eljárva
+42.[^248] Szabályozott Tevékenységek Felügyeleti Hatósága bányafelügyeleti feladatkörében eljárva
 
 43. Országos Atomenergia Hivatal
 
@@ -111,7 +111,7 @@
 [^229]: Az 1. melléklet 15. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^230]: Az 1. melléklet 16. pontját az 573/2020. (XII. 9.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
 [^231]: Az 1. melléklet 17. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
-[^232]: Az 1. melléklet 18. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
+[^232]: Az 1. melléklet 18. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 63. §-a szerint módosított szöveg.
 [^233]: Az 1. melléklet 19. pontja a 126/2019. (V. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^234]: Az 1. melléklet 20. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított szöveg.
 [^235]: Az 1. melléklet 21. pontja a 95/2018. (V. 22.) Korm. rendelet 1. § 1. pontjával megállapított, a 239/2022. (VI. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
@@ -126,4 +126,5 @@
 [^244]: Az 1. melléklet 33. pontját a 311/2017. (X. 31.) Korm. rendelet 12. §-a hatályon kívül helyezte.
 [^245]: Az 1. melléklet 34. pontját a 379/2016. (XII. 2.) Korm. rendelet 71. § (8) bekezdés b) pontja hatályon kívül helyezte.
 [^246]: Az 1. melléklet 37. pontja a 159/2019. (VI. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^247]: Az 1. melléklet 42. pontja a 825/2021. (XII. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^247]: Az 1. melléklet 39. pontját a 615/2022. (XII. 29.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^248]: Az 1. melléklet 42. pontja a 825/2021. (XII. 28.) Korm. rendelet 13. §-ával megállapított szöveg.

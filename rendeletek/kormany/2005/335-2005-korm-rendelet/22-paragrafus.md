@@ -4,4 +4,6 @@ a) az iratkezelő szoftver automatikus érkeztetése esetén az E-ügyintézési
 
 b) nem automatikus átvétel esetén a letöltési igazolás feladó részére történt elküldésekor
 
+minősül beérkezettnek.
+
 [^51]: A 22. §-t a 64/2010. (III. 18.) Korm. rendelet 36. § (1) bekezdés e) pontja hatályon kívül helyezte, újonnan a 272/2020. (VI. 12.) Korm. rendelet 3. §-a iktatta be.

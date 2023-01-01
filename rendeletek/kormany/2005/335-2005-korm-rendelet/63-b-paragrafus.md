@@ -26,7 +26,7 @@ bf) a közhiteles nyilvántartások alapiratai,
 
 bg) az európai uniós támogatásokkal és a pályázatkezelési feladatokat törvény alapján közfeladatként ellátó szerv által kezelt, hazai közfinanszírozású programok és projektek támogatásával kapcsolatos irat
 
-## tekintetében.
+tekintetében.
 
 (3) A 3. mellékletben meghatározott szerv a kezelésében lévő papíralapú iratok mennyiségéről, évköréről és ügyköréről az iratkezelési szoftverben nyilvántartást vezet.
 

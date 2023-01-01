@@ -1,1 +1,0 @@
-## minősül beérkezettnek.

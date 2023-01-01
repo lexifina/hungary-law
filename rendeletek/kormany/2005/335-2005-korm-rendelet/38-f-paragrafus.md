@@ -1,3 +1,3 @@
-## 38/E. §[^99]
+38/F. §[^100]
 
-[^99]: A 38/E. §-t a 323/2014. (XII. 15.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 477/2021. (VIII. 9.) Korm. rendelet 6. § f) pontja.
+[^100]: A 38/F. §-t a 323/2014. (XII. 15.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 477/2021. (VIII. 9.) Korm. rendelet 6. § f) pontja.

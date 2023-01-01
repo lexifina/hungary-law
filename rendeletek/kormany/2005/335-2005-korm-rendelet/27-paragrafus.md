@@ -10,7 +10,7 @@ c) a szervezeti és működési szabályzatban vagy iratkezelési szabályzatban
 
 d)[^60] automatikusan az igénybe vett, egyes iratkezelési feladatokat ellátó SZEÜSZ, KEÜSZ vagy az alkalmazott iratkezelési szoftver
 
-## bonthatja fel.
+bonthatja fel.
 
 (2)[^61] A közfeladatot ellátó szerv az érkeztetést és felbontást saját maga láthatja el, vagy ahhoz az Eür.-ben szabályozott szolgáltatást veheti igénybe.
 
@@ -19,6 +19,8 @@ d)[^60] automatikusan az igénybe vett, egyes iratkezelési feladatokat ellátó
 a)[^62] az Eür. alapján a papír alapú irat hiteles elektronikus irattá alakítását úgy nyújtja, hogy elvégzi az elektronikus másolatnak a közfeladatot ellátó szerv részére történő továbbítását, és
 
 b) a közfeladatot ellátó szerv a külön jogszabály alapján az eredeti papír alapú irat ügyfél részére történő visszaadásáról rendelkezett,
+
+a közfeladatot ellátó szerv a továbbiakban iratként a hiteles elektronikus másolatot kezeli.
 
 [^59]: A 27. § a 196/2013. (VI. 13.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^60]: A 27. § (1) bekezdés d) pontja a 137/2019. (VI. 11.) Korm. rendelet 7. §-ával megállapított szöveg.

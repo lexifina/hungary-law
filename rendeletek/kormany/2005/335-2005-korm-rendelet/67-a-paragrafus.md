@@ -16,13 +16,13 @@ c) az elektronikus belső ügymenetre vonatkozó előírások betartását.
 
 (1b)[^175] Ha a miniszter ellenőrzési feladatkörében észleli, hogy a köziratok biztonságos megőrzéséhez szükséges irattári férőhely a 3. mellékletben meghatározott szervnél nem biztosított, az iratkezelő szerv vezetőjét felhívja a központi szolgáltató szolgáltatásának igénybevételére.
 
-(2)[^176] A fővárosi és megyei kormányhivatal ellenőrzi az önkormányzati hivatalok iratkezelési szabályzataiban és az önkormányzati társulások iratkezelési szabályzataiban foglaltak végrehajtását.
+(2)[^176] A fővárosi és vármegyei kormányhivatal ellenőrzi az önkormányzati hivatalok iratkezelési szabályzataiban és az önkormányzati társulások iratkezelési szabályzataiban foglaltak végrehajtását.
 
-(3)[^177] A miniszter valamint a fővárosi és megyei kormányhivatal (1) és (2) bekezdésben rögzített ellenőrzési tevékenysége nem érinti a közlevéltárak ellenőrzési jogosultságait szabályozó jogszabályi előírásokat.
+(3)[^177] A miniszter valamint a fővárosi és vármegyei kormányhivatal (1) és (2) bekezdésben rögzített ellenőrzési tevékenysége nem érinti a közlevéltárak ellenőrzési jogosultságait szabályozó jogszabályi előírásokat.
 
 (4) Az ellenőrzés célja az iratkezelés helyzetének feltárása, továbbá annak vizsgálata, hogy az iratkezelés gyakorlati végrehajtása megfelel-e a vonatkozó jogszabályokban, szabályzatokban foglaltaknak.
 
-(5)[^178] A központi államigazgatási szervek esetében az ellenőrzések éves ütemtervét a miniszter az illetékes közlevéltárral egyeztetve határozza meg. Az önkormányzati hivatalok és az önkormányzati társulások esetében az ellenőrzések éves ütemtervét a fővárosi és megyei kormányhivatal az illetékes közlevéltárral egyeztetve határozza meg.
+(5)[^178] A központi államigazgatási szervek esetében az ellenőrzések éves ütemtervét a miniszter az illetékes közlevéltárral egyeztetve határozza meg. Az önkormányzati hivatalok és az önkormányzati társulások esetében az ellenőrzések éves ütemtervét a fővárosi és vármegyei kormányhivatal az illetékes közlevéltárral egyeztetve határozza meg.
 
 (6)[^179] Az ellenőrzésben nem vehet részt az ellenőrzött szerv dolgozójának a Polgári Törvénykönyv szerinti hozzátartozója.
 
@@ -35,7 +35,7 @@ c) az elektronikus belső ügymenetre vonatkozó előírások betartását.
 [^173]: A 67/A. § (1) bekezdése a 87/2012. (IV. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 269/2017. (IX. 13.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^174]: A 67/A. § (1a) bekezdését a 269/2017. (IX. 13.) Korm. rendelet 2. §-a iktatta be.
 [^175]: A 67/A. § (1b) bekezdését a 269/2017. (IX. 13.) Korm. rendelet 2. §-a iktatta be.
-[^176]: A 67/A. § (2) bekezdése a 87/2012. (IV. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^177]: A 67/A. § (3) bekezdése a 87/2012. (IV. 26.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 269/2017. (IX. 13.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^178]: A 67/A. § (5) bekezdése a 87/2012. (IV. 26.) Korm. rendelet 2. § (4) bekezdésével megállapított, a 269/2017. (IX. 13.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^176]: A 67/A. § (2) bekezdése a 87/2012. (IV. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 63. §-a szerint módosított szöveg.
+[^177]: A 67/A. § (3) bekezdése a 87/2012. (IV. 26.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 269/2017. (IX. 13.) Korm. rendelet 5. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 63. §-a szerint módosított szöveg.
+[^178]: A 67/A. § (5) bekezdése a 87/2012. (IV. 26.) Korm. rendelet 2. § (4) bekezdésével megállapított, a 269/2017. (IX. 13.) Korm. rendelet 5. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 63. §-a szerint módosított szöveg.
 [^179]: A 67/A. § (6) bekezdése a 64/2010. (III. 18.) Korm. rendelet 31. §-ával megállapított szöveg.
