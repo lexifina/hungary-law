@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-57-20-2
 | 2020-03-01 | 2012-57-20-22.12 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2021-01-01 | 2012-57-20-22.13 | 686/2020. (XII. 29.) Korm. rendelet |
 | 2022-07-01 | 2012-57-20-22.14 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2023-01-01 | 2012-57-20-22.15 | 70/2015. (III. 30.) Korm. rendelet |
