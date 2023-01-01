@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-9-20-7P
 | 2020-12-30 | 2018-9-20-7P.3 | 20/2020. (XII. 29.) NVTNM rendelet |
 | 2021-12-30 | 2018-9-20-7P.4 | 20/2020. (XII. 29.) NVTNM rendelet |
 | 2022-07-15 | 2018-9-20-7P.5 | 20/2020. (XII. 29.) NVTNM rendelet |
+| 2023-01-01 | 2018-9-20-7P.6 | 4/2022. (VII. 14.) GFM rendelet |
