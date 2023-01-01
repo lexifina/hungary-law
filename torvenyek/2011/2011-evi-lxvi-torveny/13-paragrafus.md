@@ -26,4 +26,8 @@ k) külön jogszabályokban meghatározottak szerint szakmai képzést szervezhe
 
 l) a Költségvetési Tanács tagjaként ellátja a külön törvényben meghatározott ezirányú feladatait,
 
-m) ellátja a törvényekben ráruházott egyéb feladatokat.
+m) ajánlást adhat ki,
+
+n) szabályzatban meghatározhatja az otthoni munkavégzés és a távmunkavégzés szabályait,
+
+o) ellátja a törvényekben ráruházott egyéb feladatokat.

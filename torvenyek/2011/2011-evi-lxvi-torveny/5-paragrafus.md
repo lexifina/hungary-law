@@ -8,7 +8,7 @@
 
 a) ellenőrzi az államháztartás körébe tartozó vagyon kezelését, a vagyonnal való gazdálkodást, az állami tulajdonban (résztulajdonban) vagy többségi önkormányzati tulajdonban lévő gazdálkodó szervezetek vagyonérték-megőrző és vagyongyarapító tevékenységét, az államháztartás körébe tartozó vagyon elidegenítésére, illetve megterhelésére vonatkozó szabályok betartását;
 
-b) ellenőrizheti az állami vagy önkormányzati tulajdonban (résztulajdonban) lévő gazdálkodó szervezetek vagyongazdálkodását.
+b) ellenőrizheti az állami vagy önkormányzati tulajdonban (résztulajdonban) lévő, továbbá valamennyi köztulajdonban álló gazdálkodó szervezet vagyongazdálkodását.
 
 (5) Az Állami Számvevőszék – a (3)–(4) bekezdés szerinti ellenőrzési feladataival összefüggésben – ellenőrizheti az államháztartás alrendszereiből finanszírozott beszerzéseket és az államháztartás alrendszereihez tartozó vagyont érintő szerződéseket a megrendelőnél (vagyonkezelőnél), a megrendelő (vagyonkezelő) nevében vagy képviseletében eljáró természetes személynél és jogi személynél, valamint azoknál a szerződő feleknél, akik, illetve amelyek a szerződés teljesítéséért felelősek, továbbá a szerződés teljesítésében közreműködőknél.
 

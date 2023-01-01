@@ -14,7 +14,7 @@ b) kezdeményezheti az illetékes hatóságnál, illetve szervezetnél az ellen�
 
 (5) Ha az ellenőrzött szervezet vezetője intézkedési kötelezettségét utóbb teljesítette, az Állami Számvevőszék a (3) bekezdése b) pontja szerinti hatóságot értesíti, és kezdeményezi a támogatás, juttatás, részesedés felfüggesztésének megszüntetését.
 
-(6) Az Állami Számvevőszék elnöke az ellenőrzés során feltárt jogszabálysértő gyakorlat, illetve a vagyon rendeltetésellenes vagy pazarló felhasználásának megszüntetése érdekében – ha jogszabály súlyosabb jogkövetkezmény alkalmazását nem írja elő – figyelemfelhívó levéllel fordulhat az ellenőrzött szerv vezetőjéhez. A szerv vezetője a figyelemfelhívó levélben foglaltakat tizenöt napon belül – testületi szerv a soron következő ülésén – köteles elbírálni, a megfelelő intézkedést megtenni és erről az Állami Számvevőszék elnökét értesíteni.
+(6)
 
 (7) Az intézkedési tervben foglaltak megvalósítását az Állami Számvevőszék utóellenőrzés keretében ellenőrizheti.
 

@@ -8,6 +8,6 @@
 
 (4) A vizsgált magánszemély vagy a jogi személy vezetőjének neve és az ellenőrzés során vizsgált tevékenységgel kapcsolatba hozható személyes adata – különleges adat kivételével – közérdekből nyilvános adat, és a jelentésben nyilvánosságra hozható, vagy egyéb módon hozzáférhetővé tehető.
 
-(5) Az Állami Számvevőszék a jelentéstervezetet záró megbeszélés keretében egyeztetheti az ellenőrzött szervezet vezetőjével vagy az általa megbízott személlyel.
+(5) Az Állami Számvevőszék a feltárt tényeket, az ezeken alapuló megállapításokat, következtetéseket záró megbeszélés keretében egyeztetheti az ellenőrzött szervezet vezetőjével vagy az általa megbízott személlyel.
 
-(6) A polgármester, illetve a megyei közgyűlés és a nemzetiségi önkormányzat elnöke köteles az önkormányzatra vonatkozó jelentést a képviselő-testülettel, a közgyűléssel, illetve a nemzetiségi önkormányzat testületével megismertetni.
+(6) A polgármester, illetve a vármegyei közgyűlés és a nemzetiségi önkormányzat elnöke köteles az önkormányzatra vonatkozó jelentést a képviselő-testülettel, a közgyűléssel, illetve a nemzetiségi önkormányzat testületével megismertetni.

@@ -10,7 +10,7 @@
 
 (3) Az Állami Számvevőszék általános hatáskörrel végzi a közpénzekkel és az állami és önkormányzati vagyonnal való felelős gazdálkodás ellenőrzését.
 
-(4) Az Állami Számvevőszék az ellenőrzési tapasztalatain alapuló megállapításaival, javaslataival, tanácsaival segíti az Országgyűlést, annak bizottságait, és az ellenőrzött szervezetek munkáját, amellyel elősegíti a jól irányított állam működését.
+(4) Az Állami Számvevőszék az ellenőrzési tapasztalatain alapuló megállapításaival, javaslataival, tanácsaival segíti az Országgyűlést, annak bizottságait, és az ellenőrzött szervezetek munkáját.
 
 (5) Az Állami Számvevőszék megállapításai alapján az ellenőrzött szervezetekkel és a felelős személyekkel szemben az illetékes szervezetnél eljárást kezdeményezhet.
 

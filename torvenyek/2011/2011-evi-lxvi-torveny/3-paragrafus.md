@@ -4,6 +4,8 @@
 
 (2) Az Állami Számvevőszék tevékenységét ellenőrzési terv alapján végzi, amit az elnök hagy jóvá. Az ellenőrzési tervről és annak módosításáról az Állami Számvevőszék elnöke tájékoztatja az Országgyűlést.
 
+(2a) Az Állami Számvevőszék az elnök döntése alapján az ellenőrzési tervben nem szereplő ellenőrzést is végezhet, amelyről az éves beszámolójában ad tájékoztatást az Országgyűlés részére.
+
 (3) Törvényben meghatározott feladatkörében az Állami Számvevőszék
 
 a) köteles ellenőrzést lefolytatni az Országgyűlés döntése alapján,

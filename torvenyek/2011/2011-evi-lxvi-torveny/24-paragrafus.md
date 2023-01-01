@@ -13,3 +13,5 @@ d) az ellenőrzések eredményeinek, a megállapításoknak alátámasztottnak, 
 e) az ellenőrzéseket hatékonyan és eredményes kell elvégezni.
 
 (2) Az ellenőrzéssel szemben támasztott követelmények megvalósulása érdekében az Állami Számvevőszék minőségbiztosítást működtet.
+
+(3) Az ellenőrzés az erről szóló értesítés kézbesítésével, ennek mellőzése esetén a megbízólevél kézbesítésével vagy egy példányának átadásával kezdődik. Az értesítés mellőzhető, ha az ellenőrzés eredményes lefolytatását veszélyeztetné.

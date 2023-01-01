@@ -1,12 +1,12 @@
 ## Átmeneti rendelkezések
 
-35. § (1) E törvény hatálybalépését követő hatvan napon belül az Állami Számvevőszék számvevőit és számvevő-vezetőit az e törvény 16. § (1) és 17. § (1) bekezdése szerint meghatározott számvevői, illetve számvevő-vezetői kategóriák szerint kell besorolni. Az új besorolás alapján az alapilletmény az előző pótlékok nélkül számított illetmény összegénél kevesebb nem lehet.
+35. § (1)
 
-(2) Az e törvény 21. §-a szerint megállapított illetményt 2013. január 1. napjáig kell elérni, addig a számvevő és a számvevő-vezető illetménye az új besorolás szerinti illetménynél kevesebb is lehet.
+(2)
 
-(3) Az Állami Számvevőszék a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 32/C. § (3) bekezdése és az Állami Számvevőszékről szóló 1989. évi XXXVIII. törvény 8. §-a alapján megválasztott elnökének és alelnökeinek megbízatását, jogállását, egyéb juttatásait e törvény hatálybalépése nem érinti.
+(3)
 
-(4) Az Állami Számvevőszék a Magyar Köztársaság Alkotmányáról szóló 1949. évi XX. törvény 32/C. § (3) bekezdése és az Állami Számvevőszékről szóló 1989. évi XXXVIII. törvény 8. §-a alapján megválasztott és 2012. január 1-jén hivatalban lévő alelnökének megbízatását a 14. § nem érinti, rá megbízatásának megszűnéséig e törvény 10–12. §-ának szabályait kell alkalmazni, azzal, hogy azok alkalmazásában az Állami Számvevőszék elnökén az Állami Számvevőszék alelnökét kell érteni.
+(4)
 
 (5) 2019. május 1-jén annak a személynek, akinek 2019. április 30-án az Állami Számvevőszékkel köztisztviselői, közszolgálati ügykezelői jogviszonya áll fenn, e jogviszonya munkaviszonnyá alakul át. Teljes munkaidőben történő foglalkoztatás esetén a jogviszony teljes munkaidős munkaviszonnyá, részmunkaidőben történő foglalkoztatás esetén részmunkaidős munkaviszonnyá alakul át. A 2019. április 30-án az Állami Számvevőszékkel fennállt köztisztviselői, közszolgálati ügykezelői jogviszonyban kikötött próbaidő mértéke a jogviszony munkaviszonnyá alakulását követően változatlan marad azzal, hogy a próbaidő leteltének időpontja legfeljebb 2019. augusztus 31. napja.
 
