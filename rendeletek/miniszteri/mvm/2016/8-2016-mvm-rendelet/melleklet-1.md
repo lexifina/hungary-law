@@ -2,4 +2,4 @@
 
 XI. Miniszterelnökség fejezet 2022. évi költségvetési kiadási előirányzatainak feladatterve
 
-[^80]: Az 1. melléklet a 17/2022. (X. 18.) MVM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^80]: Az 1. melléklet a 17/2022. (X. 18.) MVM rendelet 11. § (1) bekezdésével megállapított szöveg. [Az 1. mellékletben foglalt táblázatban a 21/2022. (XII. 28.) MvM rendelet 8. §-ával elrendelt szövegcserék nem vezethetők át.]
