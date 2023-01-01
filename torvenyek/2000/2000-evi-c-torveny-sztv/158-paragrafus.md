@@ -1,4 +1,10 @@
-158. § (1)–(4)
+158. § (1)
+
+(2)
+
+(3)
+
+(4)
 
 (5) Amennyiben az éves beszámolót, az összevont (konszolidált) éves beszámolót – a 9/A. §, valamint a 10. § (2) és (3) bekezdése alapján – az IFRS-ek szerint állították össze, úgy erre a könyvvizsgálói záradékban is megfelelően utalni kell.
 

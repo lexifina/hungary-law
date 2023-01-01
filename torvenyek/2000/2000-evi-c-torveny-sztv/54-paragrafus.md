@@ -31,3 +31,5 @@ b) az értékpapír kibocsátójának piaci megítélését, a piaci megítélé
 (10) A kezelt vagyonra szóló tartós követelésre értékvesztést kell elszámolni annak könyv szerinti értéke és piaci értéke közötti veszteségjellegű különbözet összegében, ha ez a különbözet tartósnak mutatkozik és jelentős összegű.
 
 (11) A (10) bekezdés szerinti értékvesztés, illetve annak visszaírása során a piaci érték meghatározásakor a kezelt vagyon üzleti év mérlegfordulónapjára kimutatott saját tőkéjének összegét kell figyelembe venni.
+
+(12) A 27. § (4a) bekezdés szerinti tulajdoni részesedés – ha külön jogszabály eltérően nem rendelkezik – a mérlegben a tulajdonolt egészségügyi, szociális, kulturális és oktatási intézmény legutolsó beszámolójának mérlegében szereplő saját tőke értékén is kimutatható.

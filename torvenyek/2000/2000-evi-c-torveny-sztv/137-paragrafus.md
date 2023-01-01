@@ -4,4 +4,6 @@
 
 (3) Átértékelés esetében az eszközöket piaci értékükön, a kötelezettségeket az elfogadott, illetve a várható összegben kell a vagyonmérlegben szerepeltetni.
 
-(4)–(5)
+(4)
+
+(5)

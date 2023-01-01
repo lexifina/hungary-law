@@ -16,6 +16,8 @@ b) az üzleti évet megelőző két üzleti év átlagában a vállalkozó álta
 
 (4) Jogelőd nélkül alapított vállalkozónál – a (3) bekezdésben foglaltak alkalmazásakor –, ha az üzleti évet megelőző két üzleti év egyikének vagy mindkettőnek az adatai hiányoznak vagy csak részben állnak rendelkezésre, akkor a tárgyévi várható adatokat és – ha van – a megelőző (első) üzleti évi (éves szintre átszámított) adatait kell figyelembe venni.
 
+(4a) A (4) bekezdés szerint kell eljárni kiválás esetén a kiválással létrejövő gazdasági társaságnál is.
+
 (5) A (3) bekezdésben foglaltakat nem alkalmazhatja:
 
 a) az a kettős könyvvitelt vezető vállalkozó, ahol a könyvvizsgálatot jogszabály írja elő,

@@ -4,4 +4,6 @@
 
 (3) Az adózott eredmény az adózás előtti eredmény és az adófizetési kötelezettség különbözetével egyezik meg.
 
-(4)–(5)
+(4)
+
+(5)

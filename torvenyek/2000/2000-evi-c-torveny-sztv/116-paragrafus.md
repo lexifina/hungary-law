@@ -12,7 +12,7 @@ a) az összevont (konszolidált) éves beszámolót készítő fölérendelt any
 
 b) utalást arra vonatkozóan, ha az összevont (konszolidált) éves beszámoló készítési kötelezettség alól az (1) bekezdés szerint mentesítették.
 
-(4) Az (1)–(2) bekezdés alkalmazása esetén a mentesített anyavállalat éves beszámolójának kiegészítő mellékletében a mentesített anyavállalat és kapcsolt vállalkozásai befektetett eszközeinek, tárgyévi bevételeinek és adózott eredményének, saját tőkéjének, valamint foglalkoztatott munkavállalói átlagos létszámának adatait vállalkozásonként külön-külön be kell mutatni.
+(4) Az (1)–(2) bekezdés alkalmazása esetén a mentesített anyavállalat éves beszámolójának kiegészítő mellékletében a mentesített anyavállalat és kapcsolt vállalkozásai befektetett eszközeinek, tárgyévi bevételeinek és adózott eredményének, saját tőkéjének, valamint foglalkoztatott munkavállalói átlagos statisztikai állományi létszámának adatait vállalkozásonként külön-külön be kell mutatni.
 
 (5) Nem alkalmazható az (1)–(2) bekezdés szerinti mentesítés arra az anyavállalatra, amelynek kibocsátott – a 3. § (6) bekezdésének 2–3. pontjai szerinti – értékpapírjai tőzsdei kereskedelme engedélyezett, vagy az engedélyezést már kérelmezték.
 

@@ -20,7 +20,7 @@ c) a könyvvizsgálat hatókörének leírását, a könyvvizsgálat során alka
 
 d) az elvégzett, a könyvvizsgálói véleményt (a záradékot vagy a záradék megadásának elutasítását) megfelelően alátámasztó vizsgálatok jellegét, összefoglaló bemutatását;
 
-e) a könyvvizsgáló éves beszámolóhoz, egyszerűsített éves beszámolóhoz, összevont (konszolidált) éves beszámolóhoz adott, a könyvvizsgálói záradékban vagy a záradék megadásának elutasításában kifejezett véleményét, határozott álláspontját arról, hogy a beszámoló megfelel-e az e törvényben foglaltaknak, továbbá azon egyéb jogszabályok előírásainak, amelyek a könyvvizsgáló számára a beszámolóban szereplő adatok vonatkozásában feladatokat határoznak meg;
+e) a könyvvizsgáló éves beszámolóhoz, egyszerűsített éves beszámolóhoz, összevont (konszolidált) éves beszámolóhoz adott, a könyvvizsgálói záradékban vagy a záradék megadásának elutasításában kifejezett véleményét, határozott álláspontját arról, hogy a vállalkozó beszámolója megbízható és valós képet ad-e a vállalkozó vagyoni, pénzügyi és jövedelmi helyzetéről az alkalmazott beszámolási szabályrendszerben foglaltaknak megfelelően, továbbá hogy adott esetben, a vállalkozó beszámolója megfelel-e az egyéb jogszabályoknak;
 
 f) a (hitelesítő, korlátozott, elutasító) könyvvizsgálói záradékot vagy a záradék megadásának elutasítását;
 
@@ -41,6 +41,8 @@ m) könyvvizsgáló cég esetén – az l) pontban foglaltak mellett – a társ
 n) a könyvvizsgáló nyilatkozatát arról, hogy az üzleti jelentés tartalmazza-e a 95/C. §, illetve a 134. § (5) bekezdés szerinti nem pénzügyi kimutatást.
 
 o) a könyvvizsgáló véleményét arról, hogy azon vállalkozó pénzügyi kimutatásai, amelynek értékpapírjait az Európai Gazdasági Térség bármely államának szabályozott piacán forgalmazzák, megfelelnek a 2004/109/EK európai parlamenti és tanácsi irányelvnek az egységes elektronikus beszámolási formátumot meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2018. december 17-i 2019/815 bizottsági felhatalmazáson alapuló rendeletében foglalt előírásoknak.
+
+p) a könyvvizsgáló nyilatkozatát arra vonatkozóan, hogy a könyvvizsgálat tárgyát képező beszámoló üzleti évében, a megelőző üzleti évre vonatkozóan a vállalkozás köteles volt-e társaságiadó-információkat tartalmazó jelentést készíteni és nyilvánosságra hozni, és ha igen, akkor a társaságiadó-információkat tartalmazó jelentést a 134/G. §-sal összhangban tették-e közzé és hozzáférhetővé.
 
 (5a) A közérdeklődésre számot tartó gazdálkodók éves beszámolójára, egyszerűsített éves beszámolójára, továbbá összevont (konszolidált) éves beszámolójára vonatkozó független könyvvizsgálói jelentés tekintetében az (5) bekezdésen túl az 537/2014/EU Rendelet 10. cikkében foglaltakat kell alkalmazni.
 

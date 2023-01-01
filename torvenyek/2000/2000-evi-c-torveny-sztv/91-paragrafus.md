@@ -1,6 +1,6 @@
 91. § A kiegészítő mellékletben meg kell adni:
 
-a) a tárgyévben foglalkoztatott munkavállalók átlagos létszámát, bérköltségét és személyi jellegű egyéb kifizetéseit állománycsoportonként, valamint a bérjárulékokat jogcímenként megbontva;
+a) a tárgyévben foglalkoztatott munkavállalók átlagos statisztikai állományi létszámát, bérköltségét és személyi jellegű egyéb kifizetéseit állománycsoportonként, valamint a bérjárulékokat jogcímenként megbontva;
 
 b) részvénytársaságnál a kibocsátott részvények számát és névértékét részvény-típusonként (fajtánként) csoportosítva (ezen belül külön feltüntetve a tárgyévben kibocsátottakat), a kibocsátott átváltoztatható és átváltozó kötvények számát és névértékét, továbbá az opciós utalvány, opció, illetve hasonló értékpapír vagy jog meglétét, jelezve azok számát és a hozzájuk kapcsolódó jogokat;
 

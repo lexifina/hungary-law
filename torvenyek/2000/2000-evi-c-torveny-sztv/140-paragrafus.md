@@ -10,4 +10,4 @@
 
 (6) A lekötött tartalékban kell fedezetet képezni az átalakulással közvetlenül összefüggően keletkező adófizetési kötelezettségre, ha az adófizetési kötelezettség a jogutódot terheli és arra más módon nem képeztek fedezetet.
 
-(7) Az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetében az eredménytartalék összege – az (1) bekezdésben foglaltak figyelembevételével – csak az (1), (3)–(6) bekezdés, valamint a 138. § (4) bekezdésének a) pontja, illetve a 139. § (3)–(5) bekezdése alapján növelő-csökkentő tételek összevont pozitív értékével haladhatja meg az átalakuló gazdasági társaság vagyonmérleg-tervezetében egyébként szereplő eredménytartalék összegét.
+(7) Az átalakulással létrejövő gazdasági társaság vagyonmérleg-tervezetében az eredménytartalék összege – az (1) bekezdésben foglaltak figyelembevételével – csak az (1), (3)–(6) bekezdés, valamint a 138. § (4) bekezdésének a) pontja, illetve a 139. § (2) bekezdés e) pontja és (3)–(5) bekezdése alapján növelő-csökkentő tételek összevont pozitív értékével haladhatja meg az átalakuló gazdasági társaság vagyonmérleg-tervezetében egyébként szereplő eredménytartalék összegét.

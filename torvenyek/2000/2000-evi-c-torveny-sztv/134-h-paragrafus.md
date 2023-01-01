@@ -1,0 +1,7 @@
+## A társaságiadó-információkat tartalmazó jelentés elkészítésére, közzé- és hozzáférhetővé tételére vonatkozó felelősség
+
+134/H. § (1) A legfelső szintű anyavállalat vagy az önálló vállalkozás legfőbb irányító (vezető) szervének, ügyvezető szervének és felügyelő testületének tagjai – a jogszabályban meghatározott hatáskörükben eljárva – együttes felelőssége annak biztosítása, hogy a társaságiadó-információkat tartalmazó jelentés összeállítása és nyilvánosságra hozatala (közzé- és hozzáférhetővé tétele) e törvény előírásainak megfelelően történjen.
+
+(2) A 134/E. § (7) bekezdés szerinti leányvállalat legfőbb irányító (vezető) szervének, ügyvezető szervének és felügyelő testületének tagjai – a jogszabályban meghatározott hatáskörükben eljárva – együttes felelőssége annak biztosítása, hogy a társaságiadó-információkat tartalmazó jelentés összeállítása és nyilvánosságra hozatala (közzé- és hozzáférhetővé tétele) e törvény előírásainak megfelelően történjen.
+
+(3) A 134/E. § (10) bekezdés szerinti fióktelep a társasági jog egyes vonatkozásairól szóló 2017. június 14-i 2017/1132/EU európai parlamenti és tanácsi irányelv 41. cikkében előírt adatközlési formai követelmények teljesítésére kijelölt személy vagy személyek együttes felelőssége – a jogszabályban meghatározott hatáskörükben eljárva – annak biztosítása, hogy a társaságiadó-információkat tartalmazó jelentés összeállítása és nyilvánosságra hozatala (közzé- és hozzáférhetővé tétele) e törvény előírásainak megfelelően történjen.

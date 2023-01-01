@@ -70,9 +70,7 @@ e) az engedély visszavonását követően, ha arra a (6) bekezdés d), e), h) v
 
 f) a gondnokság alá helyezés megszüntetését követően, ha az engedély visszavonására a (6) bekezdés f) pontja miatt,
 
-g)
-
-került sor.
+g) került sor.
 
 (7a) Ha a könyvviteli szolgáltatást végzők nyilvántartása az engedéllyel rendelkező vonatkozásában egynél több regisztrálási szakterületet tartalmaz, a szakterületek közül törölni kell azt,
 

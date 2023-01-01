@@ -10,6 +10,8 @@
 
 (4) Egyéb tartós részesedés mérlegtétel minden olyan tartós tulajdoni részesedést jelentő befektetést tartalmaz, amely nem tartozik a (2) és (3a) bekezdésben meghatározott részesedések közé.
 
+(4a) Egyéb tartós tulajdoni részesedésként kell kimutatni a 3. § (6) bekezdés 3. pontja alá nem tartozó, a 6. § (3) bekezdés szerinti, egészségügyi, szociális, kulturális és oktatási intézményben lévő tulajdoni részesedést is.
+
 (5) Tartósan adott kölcsön egyéb részesedési viszonyban álló vállalkozásban mérlegtétel tartalmazza az olyan egyéb részesedési viszonyban lévő adóssal szembeni pénzkölcsönt és tartós bankbetétet, amely nem tartozik a (3) és (3b) bekezdésben meghatározott pénzkölcsönök és tartós bankbetétek közé.
 
 (6) Egyéb tartósan adott kölcsönként kell kimutatni a nem részesedési viszonyban lévő adóssal szembeni pénzkölcsönt és tartós bankbetétet.

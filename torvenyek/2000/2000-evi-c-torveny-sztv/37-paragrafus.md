@@ -6,7 +6,7 @@ b) a jegyzett tőke leszállítását az eredménytartalékkal szemben,
 
 c) a veszteség miatti negatív eredménytartalék ellentételezésére felhasznált tőketartalékot, lekötött tartalékot,
 
-d) a gazdasági társaság tulajdonosánál (tagjánál) a veszteség pótlásához nem szükséges – korábban ilyen címen adott – pótbefizetés visszakapott összegét a pénzmozgással, az eszközmozgással egyidejűleg,
+d) a vállalkozó tulajdonosánál (tagjánál) a veszteség pótlásához nem szükséges – korábban ilyen címen adott – pótbefizetés visszakapott összegét a pénzmozgással, az eszközmozgással egyidejűleg,
 
 e) az eredménytartalékból lekötött tartalék visszavezetett összegét a lekötés feloldása alapján,
 
@@ -26,7 +26,7 @@ c) az eredménytartalék lekötött tartalékba átvezetett összegét,
 
 d) az osztalékra, részesedésre, a kamatozó részvény kamatára (ide értve az azt terhelő adót is) felhasznált összeget,
 
-e) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaság veszteségének fedezetére teljesített – törvényi előíráson alapuló – pótbefizetés összegét a pénzmozgással, az eszközmozgással egyidejűleg,
+e) a vállalkozó tulajdonosánál (tagjánál) a vállalkozó veszteségének fedezetére teljesített – törvényi előíráson alapuló – pótbefizetés összegét a pénzmozgással, az eszközmozgással egyidejűleg,
 
 f) a tőkekivonással megvalósított jegyzett tőke leszállításához kapcsolódó – a jegyzett tőke leszállításával arányos – eredménytartalék-kivonás összegét,
 
@@ -42,4 +42,4 @@ h) a még be nem fizetett pénzbeli vagyoni hozzájárulás teljesítéseként (
 
 (6)
 
-(7) Amennyiben a gazdasági társaság veszteségének fedezetére szolgáló – törvényi előíráson alapuló – pótbefizetés teljesítése nem pénzeszközzel történik, akkor a teljesítésként átadott eszközt – az eszközmozgással egyidejűleg – az értékesítés szabályai szerint kell elszámolni, azzal, hogy az így keletkezett követeléssel szemben kell az eredménytartalékot csökkenteni.
+(7) Amennyiben a vállalkozó veszteségének fedezetére szolgáló – törvényi előíráson alapuló – pótbefizetés teljesítése nem pénzeszközzel történik, akkor a teljesítésként átadott eszközt – az eszközmozgással egyidejűleg – az értékesítés szabályai szerint kell elszámolni, azzal, hogy az így keletkezett követeléssel szemben kell az eredménytartalékot csökkenteni.

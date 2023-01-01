@@ -72,6 +72,4 @@ G. Adózás előtti eredmény (C+F–6)=(III–VIII)
 
 H. Adózott eredmény (G–18)
 
-19.
-
-I.
+19. I.

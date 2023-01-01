@@ -22,11 +22,11 @@ d) a 33. § (2) bekezdése szerinti nem realizált árfolyamveszteség és a 41.
 
 e) a (2) bekezdés szerinti lekötendő tőketartalékot, ha arra a tőketartalék nem nyújt fedezetet,
 
-f) a gazdasági társaság tulajdonosánál (tagjánál) a veszteség fedezetére – az arra illetékes testület által megszavazott, de még nem teljesített – fizetendő pótbefizetés összegét,
+f) a vállalkozó tulajdonosánál (tagjánál) a veszteség fedezetére – az arra illetékes testület által megszavazott, de még nem teljesített – fizetendő pótbefizetés összegét,
 
 g) más jogszabály szerint vagy a vállalkozó saját elhatározása alapján lekötött – kötelezettségek fedezetét jelentő vagy saját céljait szolgáló – tartalékot.
 
-(4) Lekötött tartalékként kell kimutatni a gazdasági társaságnál a veszteségek fedezetére kapott pótbefizetés összegét, a pótbefizetés visszafizetéséig, elszámolása a pénzmozgással, az eszközmozgással egyidejűleg történik.
+(4) Lekötött tartalékként kell kimutatni a vállalkozónál a veszteségek fedezetére kapott pótbefizetés összegét, a pótbefizetés visszafizetéséig, elszámolása a pénzmozgással, az eszközmozgással egyidejűleg történik.
 
 (5) A (3) bekezdés szerinti lekötést az eredménytartalékkal szemben el kell számolni akkor is, ha a lekötött tartalék növekedése miatt az eredménytartaléknak negatív egyenlege lesz, vagy negatív egyenlege nő.
 
@@ -38,6 +38,6 @@ g) más jogszabály szerint vagy a vállalkozó saját elhatározása alapján l
 
 (9) A lekötött tartalék növekedéseként, illetve csökkenéseként kell kimutatni a pénzmozgással, illetve az eszközmozgással egyidejűleg a külön jogszabály alapján a lekötött tartalékkal szemben átvett, illetve átadott pénzeszközök, egyéb eszközök értékét. A külön jogszabály alapján átvett lekötött tartalék feloldását – a külön jogszabály eltérő rendelkezése hiányában – az eredménytartalékkal szemben kell elszámolni.
 
-(10) Amennyiben a gazdasági társaság veszteségének fedezetére szolgáló – törvényi előíráson alapuló – korábban teljesített pótbefizetés visszafizetésének a teljesítése nem pénzeszközzel történik, akkor a teljesítésként átadott eszközt – az eszközmozgással egyidejűleg – az értékesítés szabályai szerint kell elszámolni, azzal, hogy az így keletkezett követeléssel szemben kell a lekötött tartalékot csökkenteni.
+(10) Amennyiben a vállalkozó veszteségének fedezetére szolgáló – törvényi előíráson alapuló – korábban teljesített pótbefizetés visszafizetésének a teljesítése nem pénzeszközzel történik, akkor a teljesítésként átadott eszközt – az eszközmozgással egyidejűleg – az értékesítés szabályai szerint kell elszámolni, azzal, hogy az így keletkezett követeléssel szemben kell a lekötött tartalékot csökkenteni.
 
-(11) A gazdasági társaságnál a lekötött tartalékban kimutatott pótbefizetés összegét az eredménytartalék javára kell átvezetni, amennyiben a gazdasági társaság tulajdonosa (tagja) a pótbefizetésből származó követeléséről lemond, a lemondás időpontjával.
+(11) A vállalkozónál a lekötött tartalékban kimutatott pótbefizetés összegét az eredménytartalék javára kell átvezetni, amennyiben a vállalkozó tulajdonosa (tagja) a pótbefizetésből származó követeléséről lemond, a lemondás időpontjával.

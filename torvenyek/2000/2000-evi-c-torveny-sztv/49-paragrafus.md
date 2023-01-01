@@ -11,3 +11,5 @@
 (6) Gazdasági társaság átalakulása, egyesülése, szétválása esetén a megszűnt gazdasági társaságban lévő tulajdoni részesedést jelentő befektetés ellenében kapott részesedés bekerülési (beszerzési) értéke a megszűnt részesedésre jutó – a megszűnt gazdasági társaság végleges vagyonmérlege szerinti – saját tőke összege (kiválás esetén a kiválással létrejött gazdasági társaság végleges vagyonmérlege szerinti saját tőke összege).
 
 (7) Gazdasági társaság beolvadása esetén a külső tulajdonosnál a megszűnt gazdasági társaságban lévő tulajdoni részesedést jelentő befektetés ellenében kapott részesedés bekerülési (beszerzési) értéke a megszűnt részesedésre jutó – a megszűnt gazdasági társaság végleges vagyonmérlege szerinti – saját tőke összege.
+
+(8) A 27. § (4a) bekezdés szerinti tulajdoni részesedés esetén – jogszabály eltérő rendelkezése hiányában – a (3)–(7) bekezdések megfelelő alkalmazásával kell eljárni.
