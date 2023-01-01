@@ -14,7 +14,7 @@
 
 | 7. | telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 8. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
+| 8. | talajvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal[^20] |
 
 | 9. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes katasztrófavédelmi igazgatóság |
 
@@ -24,8 +24,10 @@
 
 | 12. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 13. | bányahatósági engedélyek | Pest Megyei Kormányhivatal |
+| 13. | bányahatósági engedélyek | Pest Vármegyei Kormányhivatal[^21] |
 
-2. melléklet a 289/2013. (VII. 26.) Korm. rendelethez[^18]
+2. melléklet a 289/2013. (VII. 26.) Korm. rendelethez[^22]
 
-[^18]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 91. § d) pontja hatályon kívül helyezte.
+[^20]: Az 1. mellékletben foglalt táblázat D:8 mezője az 546/2022. (XII. 22.) Korm. rendelet 37. § c) pontja szerint módosított szöveg.
+[^21]: Az 1. mellékletben foglalt táblázat D:13 mezője az 546/2022. (XII. 22.) Korm. rendelet 37. § c) pontja szerint módosított szöveg.
+[^22]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 91. § d) pontja hatályon kívül helyezte.
