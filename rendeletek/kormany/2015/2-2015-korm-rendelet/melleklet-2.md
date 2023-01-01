@@ -4,7 +4,7 @@
 
 | 2. | Gül Baba türbéje és környezete komplex rekonstrukciója | Budapest II. kerület 13431/1, 13431/2, 13431/3, 12989/2, 13462/2, 13039/2 és 13433 helyrajzi szám alatt nyilvántartott, természetben a Budapest II. kerület, Mecset utca 14. szám alatt található ingatlan | a) építésügyi hatósági engedélyezési eljárások, b) örökségvédelmi hatósági engedélyezési eljárások, c) régészeti feltárásokkal kapcsolatos eljárások | Budapest Főváros Kormányhivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Vármegyei Kormányhivatal[^10] |
 
 | 4. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
@@ -20,12 +20,15 @@
 
 | 10. | telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 11. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
+| 11. | talajvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal[^11] |
 
 | 12. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások; beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai; a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 13. | bányahatósági engedélyek | Pest Megyei Kormányhivatal |
+| 13. | bányahatósági engedélyek | Pest Vármegyei Kormányhivatal[^12] |
 
-2. melléklet a 2/2015. (I. 22.) Korm. rendelethez[^10]
+2. melléklet a 2/2015. (I. 22.) Korm. rendelethez[^13]
 
-[^10]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 176. § f) pontja hatályon kívül helyezte.
+[^10]: Az 1. mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 68. § b) pontja szerint módosított szöveg.
+[^11]: Az 1. mellékletben foglalt táblázat D:11 mezője az 546/2022. (XII. 22.) Korm. rendelet 68. § b) pontja szerint módosított szöveg.
+[^12]: Az 1. mellékletben foglalt táblázat D:13 mezője az 546/2022. (XII. 22.) Korm. rendelet 68. § b) pontja szerint módosított szöveg.
+[^13]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 176. § f) pontja hatályon kívül helyezte.
