@@ -1,5 +1,3 @@
-## a kamattámogatást a nyújtásáról kötött szerződés alapján a folyósító hitelintézet visszavonja, és az igénybevevő a már folyósított kamattámogatásokat az igénybevétel napjától esedékes a Ptk. szerint számított kamatokkal együtt köteles a támogatás nyújtója részére visszafizetni.
-
 7. § (1) A kamattámogatott kölcsönök igénybevételének feltétele, hogy a támogatott személy vállalja, hogy a hitelintézet részére
 
 a)[^55] a készültségi fokkal arányos folyósítást megelőzően bemutatja az adott készültségi foknak megfelelő,

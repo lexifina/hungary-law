@@ -52,7 +52,7 @@ d) melegvíz-ellátással, és
 
 e) egyedi fűtési móddal
 
-## rendelkezik,
+rendelkezik,
 
 8.[^7] korszerűsítés: a lakás használatának javítása céljából víz-, csatorna-, elektromos-, gázközmű bevezetése, illetve belső hálózatának kiépítése, fürdőszoba létesítése olyan lakásban, ahol még ilyen helyiség nincs, központosított fűtés kialakítása vagy cseréje, beleértve a megújítható energiaforrások (pl. napenergia) alkalmazását is, az épület szigetelése, beleértve a hő-, hang-, illetve vízszigetelési munkálatokat, a külső nyílászárók energiatakarékos nyílászárókra való cseréje, tető cseréje, felújítása, szigetelése, a korszerűsítés része az ehhez közvetlenül kapcsolódó helyreállítási munka, a korszerűsítés közvetlen költségeinek 20%-áig,
 
@@ -138,7 +138,7 @@ j) a telek ára,
 
 22.[^15] lakás: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel,
 
-23.[^16] kormányhivatal: a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakás fekvése szerint illetékes fővárosi és megyei kormányhivatal, Pest megye és a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatala,
+23.[^16] kormányhivatal: a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakás fekvése szerint illetékes fővárosi és vármegyei kormányhivatal, Pest vármegye és a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatala,
 
 24.[^17] összkomfortos lakás: az a lakás, amely legalább
 
@@ -152,7 +152,7 @@ d) melegvíz-ellátással, és
 
 e) központi fűtési móddal
 
-## rendelkezik.
+rendelkezik.
 
 25.[^18] építési engedély: új lakás építése esetén az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) szerinti építési engedély vagy az építésügyi hatóság által kiállított dokumentum arról, hogy az egyszerű bejelentéshez kötött építési tevékenység bejelentése megtörtént, valamint építési engedélyköteles bővítés esetén az építési engedély;
 
@@ -166,7 +166,7 @@ a)[^21] a 7. § (1) bekezdés b) pont bb) alpontjában, (7) és (9) bekezdéséb
 
 b)[^22] az a) pont hatálya alá nem tartozó esetekben a kormányhivatal
 
-## ellenőrzi.
+ellenőrzi.
 
 (5) Nem minősül új lakás felépítésének meglévő épület, épületrész vagy építmény átalakítása.
 
@@ -209,7 +209,7 @@ c)[^25] hozzájárul ahhoz, hogy természetes személyazonosító adatait, adóa
 [^13]: Az 1. § (2) bekezdés 20. pontját az 537/2013. (XII. 30.) Korm. rendelet 46. § (1) bekezdése iktatta be.
 [^14]: Az 1. § (2) bekezdés 21. pontját az 537/2013. (XII. 30.) Korm. rendelet 46. § (1) bekezdése iktatta be.
 [^15]: Az 1. § (2) bekezdés 22. pontját a 331/2014. (XII. 18.) Korm. rendelet 10. §-a iktatta be.
-[^16]: Az 1. § (2) bekezdés 23. pontját a 70/2015. (III. 30.) Korm. rendelet 136. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 69. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^16]: Az 1. § (2) bekezdés 23. pontját a 70/2015. (III. 30.) Korm. rendelet 136. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 69. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 100. §-a szerint módosított szöveg.
 [^17]: Az 1. § (2) bekezdés 24. pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^18]: Az 1. § (2) bekezdés 25. pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^19]: Az 1. § (2) bekezdés 26. pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.

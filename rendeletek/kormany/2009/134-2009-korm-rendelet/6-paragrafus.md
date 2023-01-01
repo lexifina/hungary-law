@@ -48,7 +48,7 @@ a)[^51] a Kincstár a családtámogatási adatbázist is magában foglaló egys�
 
 b) az adós a személyazonosító igazolvány vagy a születési anyakönyvi kivonat bemutatásával, illetve az örökbefogadást, illetve a bírósági elhelyezést bizonyító okiratok bemutatásával írásban értesíti
 
-## a folyósító hitelintézetet.
+a folyósító hitelintézetet.
 
 (7)[^52] Ha
 
@@ -59,6 +59,8 @@ b) az építtető az építési szándékától elállt,
 c)[^53] a használatbavételi engedély megszerzése vagy a használatbavétel tudomásulvétele előtt a szerződés teljesítése más, az építtetőnek felróható okból hiúsul meg, vagy
 
 d)[^54] a használatbavételi engedély megszerzése vagy a használatbavétel tudomásulvétele előtt az építtető e rendelet szerint támogatott és már igénybe vett kölcsönt visszafizeti,
+
+a kamattámogatást a nyújtásáról kötött szerződés alapján a folyósító hitelintézet visszavonja, és az igénybevevő a már folyósított kamattámogatásokat az igénybevétel napjától esedékes a Ptk. szerint számított kamatokkal együtt köteles a támogatás nyújtója részére visszafizetni.
 
 [^44]: A 6. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 249. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^45]: A 6. § (3) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 17. § c) pontja, a 128/2013. (IV. 30.) Korm. rendelet 9. § d) pontja szerint módosított szöveg.

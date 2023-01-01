@@ -8,7 +8,7 @@ aa) Budapesten és a megyei jogú városokban a 25 millió forintot,
 
 ab) egyéb településeken a 20 millió forintot
 
-## meg nem haladó – a telekár nélkül számított – összegű, az áfa összegét is tartalmazó építési költségek vagy vételár esetén legalább komfortos komfortfokozatú új lakás építésére vagy értékesítés céljára felépített új lakás megvásárlására,
+meg nem haladó – a telekár nélkül számított – összegű, az áfa összegét is tartalmazó építési költségek vagy vételár esetén legalább komfortos komfortfokozatú új lakás építésére vagy értékesítés céljára felépített új lakás megvásárlására,
 
 b) a nagykorú támogatott személy építési költséghatár nélkül településtípustól függetlenül lakás korszerűsítésére.
 

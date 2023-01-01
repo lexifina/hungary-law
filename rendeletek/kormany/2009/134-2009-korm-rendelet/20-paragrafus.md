@@ -6,7 +6,7 @@ b) 8. § (9) bekezdésében vagy
 
 c) 9. §-ában
 
-## foglalt határidő a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelettel kihirdetett veszélyhelyzet (a továbbiakban: veszélyhelyzet) kezdetét követően jár le, akkor az a veszélyhelyzet megszűnését követő 30. napig meghosszabbodik.
+foglalt határidő a veszélyhelyzet kihirdetéséről szóló 40/2020. (III. 11.) Korm. rendelettel kihirdetett veszélyhelyzet (a továbbiakban: veszélyhelyzet) kezdetét követően jár le, akkor az a veszélyhelyzet megszűnését követő 30. napig meghosszabbodik.
 
 (2)[^120] Ha a támogatott személy a 2. § (1) bekezdése szerinti kamattámogatott kölcsön esetén igénybe veszi a koronavírus világjárvány nemzetgazdaságot érintő hatásának enyhítése érdekében szükséges azonnali intézkedésekről szóló 47/2020. (III. 18.) Korm. rendelet 1. § (1) bekezdése, illetve a veszélyhelyzet megszűnésével összefüggő átmeneti szabályokról és a járványügyi készültségről szóló törvény, vagy az egyes kiemelt társadalmi csoportok, valamint pénzügyi nehézséggel küzdő vállalkozások helyzetének stabilizálását szolgáló átmeneti intézkedésekről szóló törvény szerinti fizetési moratóriumot (a továbbiakban együtt: fizetési moratórium), a 4. § (3) bekezdése szerinti kamattámogatás időtartama az igénybe vett fizetési moratórium időtartamával meghosszabbodik.
 

@@ -28,7 +28,7 @@ b) új lakás felépítése vagy vásárlása céljából fiatal támogatott sze
 
 c) lakás korszerűsítése esetén az állampapírhozam 40%-a, ennek hiányában a referenciahozam 40%-a,
 
-## azzal, hogy amennyiben a támogatott által fizetendő, az a)–c) pont szerint számított kamattámogatással csökkentett ellenszolgáltatás 6% alá csökkenne, kamattámogatásként az a mérték vehető igénybe, ami az ügyleti kamat 6%-os mértékének eléréséhez szükséges.
+azzal, hogy amennyiben a támogatott által fizetendő, az a)–c) pont szerint számított kamattámogatással csökkentett ellenszolgáltatás 6% alá csökkenne, kamattámogatásként az a mérték vehető igénybe, ami az ügyleti kamat 6%-os mértékének eléréséhez szükséges.
 
 (4) Amennyiben a kölcsön törlesztése során
 
@@ -36,7 +36,7 @@ a) a többgyermekes támogatott személy háztartásában élő eltartott gyerme
 
 b) a fiatal támogatott személy többgyerekessé válik az adós, a házastárs, az élettárs, a bejegyzett élettárs 45. életéve betöltése előtt,
 
-## úgy a kamattámogatást a 6. § (6) bekezdés szerinti értesítéstől számított második naptári hónaptól kezdődően a kölcsön futamidejéből hátralévő időszakra a magasabb gyermekszám alapján kell számítani.
+úgy a kamattámogatást a 6. § (6) bekezdés szerinti értesítéstől számított második naptári hónaptól kezdődően a kölcsön futamidejéből hátralévő időszakra a magasabb gyermekszám alapján kell számítani.
 
 (5) A támogatott kölcsön adósának törlesztési terheit csökkentő ezen kamattámogatás havi összege legfeljebb az ügyleti vagy üzleti év kezdetekor fennálló, még esedékessé nem vált tőketartozás után számított kamattámogatás 1/12-ed része. A kölcsön részfolyósítása vagy egyhavi törlesztőrészletet meghaladó előtörlesztése esetén a kamattámogatás a fennálló, még esedékessé nem vált tőketartozás után számított összeg havi időarányos része.
 

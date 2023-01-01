@@ -10,7 +10,7 @@ ab) új lakás vásárlásához,
 
 b) a nagykorú támogatott személy lakás korszerűsítéséhez
 
-## kamattámogatást vehet igénybe.
+kamattámogatást vehet igénybe.
 
 (2) Lakás építéséhez vagy vásárlásához kamattámogatás akkor nyújtható, ha
 
@@ -64,7 +64,7 @@ b) vásárlás esetén a tulajdonjog ingatlan-nyilvántartásban történő beje
 
 c) korszerűsítés esetén a korszerűsítési munkák befejezésétől számított
 
-## egy éven belül elidegeníti, úgy a kamattámogatás megszűnik, és az adós köteles az addig igénybevett kamattámogatást a Ptk. szerint számított kamataival együtt visszafizetni.
+egy éven belül elidegeníti, úgy a kamattámogatás megszűnik, és az adós köteles az addig igénybevett kamattámogatást a Ptk. szerint számított kamataival együtt visszafizetni.
 
 (12)[^37] A kamattámogatás igénybevételével érintett kölcsönszerződés megkötésének feltétele, hogy – új lakás építése vagy korszerűsítés esetén – az igénylő által benyújtott bekerülési költséget tartalmazó költségvetést a hitelintézet elfogadja.
 
