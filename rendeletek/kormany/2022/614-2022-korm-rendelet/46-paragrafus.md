@@ -1,0 +1,1 @@
+46. § A katonai kibertér műveleti erők a Hvt.-ben meghatározott feladataikra történő eredményes felkészülés érdekében a honvédelmi szervezetek – ide nem értve a Katonai Nemzetbiztonsági Szolgálatot – számára gyakorlatokat szerveznek, valamint ilyeneken részt vesznek.

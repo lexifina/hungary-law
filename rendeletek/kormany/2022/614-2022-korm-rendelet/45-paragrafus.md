@@ -1,0 +1,1 @@
+45. § A honvédelmi létfontosságú elektronikus információs rendszerelemeket üzemeltető szervezetek együttműködnek a Honvédség katonai kibertér műveleti erőkkel annak érdekében, hogy honvédelmi válsághelyzetben és különleges jogrendben – a Kormány ezirányú döntése alapján – a katonai kibertér műveleti erők közreműködhessenek az érintett infrastruktúrák védelmében.
