@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-86-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2012-86-00-00.13 |
 | 2019-01-01 | 2018. évi CXVI. törvény | 2012-86-00-00.14 |
 | 2021-06-29 | 2021. évi CI. törvény | 2012-86-00-00.15 |
+| 2023-01-01 | 2022. évi LXXIV. törvény | 2012-86-00-00.16 |
