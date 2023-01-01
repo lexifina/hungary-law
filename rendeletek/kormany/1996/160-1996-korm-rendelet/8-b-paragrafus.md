@@ -1,0 +1,3 @@
+8/B. §[^47] A védett személy hivatalos programja során a rohamkocsi szintű mentési készenlét biztosításáról – feladatkörének megfelelően – a Terrorelhárítási Központ vagy a Készenléti Rendőrség, akadályoztatásuk, valamint kapacitásukat meghaladó feladat esetén a Terrorelhárítási Központ vagy a Készenléti Rendőrség felkérésére az ÉPC-HK kijelölt osztálya vagy az Országos Mentőszolgálat kijelölt egysége gondoskodik.
+
+[^47]: A 8/B. §-t a 63/2010. (III. 18.) Korm. rendelet 5. §-a iktatta be, szövege a 102/2012. (V. 18.) Korm. rendelet 7. § (1) bekezdésével megállapított, az 570/2022. (XII. 23.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
