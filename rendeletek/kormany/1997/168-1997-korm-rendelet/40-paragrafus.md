@@ -46,7 +46,7 @@ h) a szövetkezet hozzájárulásával közép- vagy felsőfokú oktatási inté
 
 i) jogszabályban biztosított vagy a vezetőség által engedélyezett tanulmányi szabadságon volt, vagy munkavégzés nélkül a mezőgazdasági szövetkezettől díjazásban részesült;
 
-j)[^96] illetőleg tagságának fennállása alatt munkaviszonyban állt vagy egyéb jogcímen is biztosított volt, továbbá e jogviszonyok alapján táppénzben (baleseti táppénzben) részesült.
+j)[^97] illetőleg tagságának fennállása alatt munkaviszonyban állt vagy egyéb jogcímen is biztosított volt, továbbá e jogviszonyok alapján táppénzben (baleseti táppénzben) részesült.
 
 (7) Termelőszövetkezetnél 1966. december 31-e után fennállott tagság alapján szerzett szolgálati időnek számít
 
@@ -60,4 +60,4 @@ c) a tagsági időnek annyiszor harminc napja, ahányszor a tag közös munkáva
 
 (9) 1992. február 29-ét követően szolgálati időként kell figyelembe venni a szövetkezeti tagként biztosításban töltött időt.
 
-[^96]: A 40. § (6) bekezdésének j) pontját a 64/1998. ( III. 31.) Korm. rendelet 16. §-a iktatta be.
+[^97]: A 40. § (6) bekezdésének j) pontját a 64/1998. ( III. 31.) Korm. rendelet 16. §-a iktatta be.
