@@ -18,4 +18,4 @@ d) a leginkább veszélyeztetett társadalmi csoportok jogainak
 
 a védelmére.
 
-(3) Az alapvető jogok biztosa tevékenysége során – különösen hivatalból indított eljárások lefolytatásával – megkülönböztetett figyelmet fordít a 2007. évi XCII. törvénnyel kihirdetett, a fogyatékossággal élő személyek jogairól szóló egyezmény végrehajtásának segítésére, védelmére és ellenőrzésére.
+(3) Az alapvető jogok biztosa – a civil társadalom, különösen a fogyatékossággal élő személyek és az őket képviselő szervezetek bevonásával – biztosítja a 2007. évi XCII. törvénnyel kihirdetett, a Fogyatékossággal élő személyek jogairól szóló egyezmény (a továbbiakban: Fogyatékosságügyi Egyezmény) 33. cikk 2. pontja szerinti független mechanizmus feladatainak teljesítését.
