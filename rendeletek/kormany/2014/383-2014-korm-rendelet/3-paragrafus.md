@@ -4,7 +4,7 @@
 
 (2) A hajózási hatóság a tengerész munkaközvetítőt, valamint a tengerész kölcsönbeadót kérelmére akkor veszi nyilvántartásba, ha
 
-a)[^1] szerepel a kölcsönbeadókról és magán-munkaerőközvetítőkről az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) által vezetett nyilvántartásában, továbbá
+a)[^1] szerepel a kölcsönbeadókról és magán-munkaerőközvetítőkről az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) által vezetett nyilvántartásában, továbbá
 
 b) olyan minőségirányítási rendszert működtet vagy olyan belső szabályozók szerint jár el, amely biztosítja, hogy
 
@@ -34,5 +34,5 @@ c) minőségirányítási rendszer működését igazoló tanúsítvány, vagy a
 
 (7) A tengerész munkaközvetítő, valamint a tengerész kölcsönbeadó tájékoztatni köteles a tengerészeket a Tengerészeti Munkaügyi Egyezményben nem részes lobogójú hajón való szolgálat következményeiről. Az ilyen lobogójú hajóra történő kiközvetítés esetén a (2) bekezdés b) pont 2. alpontjában meghatározott írásbeli tájékoztatónak erre a körülményre vonatkozó részletes ismertetést is tartalmaznia kell.
 
-[^1]: A 3. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 262. § a) pontja szerint módosított szöveg.
+[^1]: A 3. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 262. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 202. §-a szerint módosított szöveg.
 [^2]: A 3. § (3) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 262. § b) pontja szerint módosított szöveg.

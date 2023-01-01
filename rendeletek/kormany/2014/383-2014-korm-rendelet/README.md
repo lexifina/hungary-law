@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-383-20-
 | 2015-04-01 | 2014-383-20-22.5 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-05-01 | 2014-383-20-22.6 | 37/2015. (III. 6.) Korm. rendelet |
 | 2015-05-02 | 2014-383-20-22.7 | 2010: CXXX. törvény |
+| 2023-01-01 | 2014-383-20-22.8 | 70/2015. (III. 30.) Korm. rendelet |

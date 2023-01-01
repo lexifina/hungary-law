@@ -1,5 +1,3 @@
-## 11. §[^15]
-
 1. melléklet a 383/2014. (XII. 31.) Korm. rendelethez
 
 Bizonyítvány a tengerész munkaközvetítő és a tengerész kölcsönbeadó hajózási hatósági nyilvántartásba vételéről és a Tengerészeti Munkaügyi Egyezmény követelményeinek való megfelelőségről
@@ -41,5 +39,3 @@ Kiállítva: (a bizonyítvány kelte)
 Dated:
 
 (a kiállító hajózási hatóság bélyegzője és aláírása)
-
-[^15]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
