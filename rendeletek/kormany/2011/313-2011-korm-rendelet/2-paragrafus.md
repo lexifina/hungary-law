@@ -4,7 +4,7 @@
 
 2. § (1) E rendelet alkalmazásában
 
-a) háziorvosi körzet: a területi ellátási kötelezettség alapján a feladattal érintett települési önkormányzat (a továbbiakban: önkormányzat) által az Öotv. 2. § (2) bekezdése szerint rendeletben – jogszabályban meghatározottak figyelembevételével – meghatározott település, települések, illetve településrész, településrészek;
+a)[^1] háziorvosi körzet: a területi ellátási kötelezettség alapján – jogszabályban meghatározottak figyelembevételével – meghatározott település, települések, illetve településrész, településrészek;
 
 b) tartósan betöltetlen háziorvosi körzet: az a területi ellátási kötelezettséggel működő háziorvosi körzet,
 
@@ -19,3 +19,5 @@ c) praxisengedély: az Öotv. 1. § (2) bekezdés c) pontja szerinti engedély.
 (3) E rendelet háziorvosi körzetre, illetve tartósan betöltetlen háziorvosi körzetre vonatkozó rendelkezéseit a fogorvosi körzetre is alkalmazni kell.
 
 (4) Az Öotv. 2. § (4) bekezdés b) pontja alkalmazásában egyenesági leszármazó a praxisjog jogosultjának gyermeke, örökbefogadott és nevelt gyermeke, illetve unokája.
+
+[^1]: A 2. § (1) bekezdés a) pontja a 630/2022. (XII. 30.) Korm. rendelet 20. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 6. §[^9] A praxisengedélyre vonatkozó határozatot közölni kell a Nemzeti Egészségbiztosítási Alapkezelővel és az állami adóhatósággal.
+## 6. §[^10] A praxisengedélyre vonatkozó határozatot közölni kell a Nemzeti Egészségbiztosítási Alapkezelővel és az állami adóhatósággal.
 
 7. § (1) A praxisengedélyt vissza kell vonni, ha
 
@@ -6,11 +6,11 @@ a) a praxisjog jogosultja a jog elnyerése iránti eljárás során az ügy érd
 
 b) a praxisjog jogosultja a 4. § (1) bekezdésében meghatározott feltételekkel már nem rendelkezik,
 
-c)[^10] az engedélyező szerv három éven belül legalább két alkalommal jogszabálysértés miatt intézkedett, és a háziorvos a határozatban foglaltaknak nem tett eleget,
+c)[^11] az engedélyező szerv három éven belül legalább két alkalommal jogszabálysértés miatt intézkedett, és a háziorvos a határozatban foglaltaknak nem tett eleget,
 
-d)[^11] az engedélyező szerv ismételt figyelmeztetése ellenére a háziorvos az ellátást nem, illetve – a helyettesítés kivételével – nem személyesen nyújtja,
+d)[^12] az engedélyező szerv ismételt figyelmeztetése ellenére a háziorvos az ellátást nem, illetve – a helyettesítés kivételével – nem személyesen nyújtja,
 
-e)[^12] a praxisjog elidegenítésére nyitva álló határidő eredménytelenül telik el, a határidő leteltét követő nappal.
+e)[^13] a praxisjog elidegenítésére nyitva álló határidő eredménytelenül telik el, a határidő leteltét követő nappal.
 
 (2) Az (1) bekezdés a) pontjának alkalmazása szempontjából rosszhiszeműnek minősül különösen az a személy, aki az eljárás során valamely, az engedély megadása szempontjából fontos tényt, adatot, körülményt elhallgat, adatot meghamisít, vagy más módon a hatóságot megtéveszti.
 
@@ -22,7 +22,7 @@ e)[^12] a praxisjog elidegenítésére nyitva álló határidő eredménytelenü
 
 (6) A praxisengedély visszavonásáról szóló határozatot közölni kell az önkormányzattal és azokkal a szervekkel, amelyekkel a praxisengedélyre vonatkozó határozatot közölték.
 
-[^9]: A 6. § a 447/2012. (XII. 29.) Korm. rendelet 77. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 185. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 92. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^10]: A 7. § (1) bekezdés b) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
-[^11]: A 7. § (1) bekezdés d) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
-[^12]: A 7. § (1) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 77. §-ával megállapított szöveg.
+[^10]: A 6. § a 447/2012. (XII. 29.) Korm. rendelet 77. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 185. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 92. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^11]: A 7. § (1) bekezdés b) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
+[^12]: A 7. § (1) bekezdés d) pontja a 447/2012. (XII. 29.) Korm. rendelet 77. § b) pontja szerint módosított szöveg.
+[^13]: A 7. § (1) bekezdés e) pontja a 137/2012. (VI. 29.) Korm. rendelet 77. §-ával megállapított szöveg.
