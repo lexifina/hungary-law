@@ -2,7 +2,7 @@
 
 Az intézkedési terv minimális tartalmi követelményei
 
-1.[^62] Az intézkedési tervben legalább a következő adatokat kell megadni:
+1.[^63] Az intézkedési tervben legalább a következő adatokat kell megadni:
 
 – az 1. § (1) bekezdés a)–c) pontjaiban meghatározott területeken számításba vett zajforrások leírása,
 
@@ -30,4 +30,4 @@ Az intézkedési terv minimális tartalmi követelményei
 
 2. Az intézkedési tervben meg kell adni a zajjal terhelt emberek számának az intézkedési terv végrehajtása következtében becsült csökkenését.
 
-[^62]: Az 5. számú melléklet 1. pontja a 209/2021. (IV. 29.) Korm. rendelet 7. § k)–l) pontja szerint módosított szöveg.
+[^63]: Az 5. számú melléklet 1. pontja a 209/2021. (IV. 29.) Korm. rendelet 7. § k)–l) pontja szerint módosított szöveg.

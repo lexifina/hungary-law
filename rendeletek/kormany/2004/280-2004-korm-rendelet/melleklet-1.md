@@ -1,4 +1,4 @@
-## 17. §[^57] E rendeletnek a környezeti zaj értékeléséről és kezeléséről szóló 280/2004. (X. 20.) Korm. rendelet módosításáról szóló 106/2017. (IV. 28.) Korm. rendelettel (a továbbiakban: Mkr.) megállapított rendelkezéseit az Mkr. hatálybalépése[^58] után megkezdett zajtérképkészítésre kell alkalmazni.
+## 17. §[^58] E rendeletnek a környezeti zaj értékeléséről és kezeléséről szóló 280/2004. (X. 20.) Korm. rendelet módosításáról szóló 106/2017. (IV. 28.) Korm. rendelettel (a továbbiakban: Mkr.) megállapított rendelkezéseit az Mkr. hatálybalépése[^59] után megkezdett zajtérképkészítésre kell alkalmazni.
 
 1. számú melléklet a 280/2004. (X. 20.) Korm. rendelethez
 
@@ -14,5 +14,5 @@ A stratégiai zajtérképek alapkövetelményei
 
 2. A zajtérképeket az egyes zajforrás-csoportokra 4 m-es értékelési magasságra, 5 dB-es zajszint-tartományokra, az Lden és Léjjel zajjellemzőkre külön-külön kell készíteni.
 
-[^57]: A 17. §-t a 106/2017. (IV. 28.) Korm. rendelet 5. §-a iktatta be.
-[^58]: A hatálybalépés időpontja 2017. május 6.
+[^58]: A 17. §-t a 106/2017. (IV. 28.) Korm. rendelet 5. §-a iktatta be.
+[^59]: A hatálybalépés időpontja 2017. május 6.

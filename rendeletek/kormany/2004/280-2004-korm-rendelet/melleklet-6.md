@@ -4,7 +4,7 @@ A Bizottság részére megküldendő adatok
 
 ## A Bizottság részére a következő adatokat kell megküldeni:
 
-1.[^63] Budapest és vonzáskörzetére, valamint a 100 000-nél több lakosú városokra vonatkozóan:
+1.[^64] Budapest és vonzáskörzetére, valamint a 100 000-nél több lakosú városokra vonatkozóan:
 
 1.1. a vonzáskörzet rövid leírását: helyét, nagyságát, a lakosság számát;
 
@@ -72,4 +72,4 @@ Ha a fenti zajterhelésű területen belül város, község van, akkor ezek ter
 
 2.10. Az összes fontosabb szempontra kitérő intézkedési terv legfeljebb tíz oldalas összefoglalása.
 
-[^63]: A 6. számú melléklet 1. pontja a 209/2021. (IV. 29.) Korm. rendelet 7. § m) pontja szerint módosított szöveg.
+[^64]: A 6. számú melléklet 1. pontja a 209/2021. (IV. 29.) Korm. rendelet 7. § m) pontja szerint módosított szöveg.

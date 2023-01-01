@@ -10,7 +10,7 @@ c)[^35]
 
 d)[^36]
 
-e) a megyei főépítész és
+e)[^37] a vármegyei főépítész és
 
 f) az érintett települési önkormányzat képviselő-testülete
 
@@ -45,3 +45,4 @@ d) a lakosságnak szóló nyilvános konzultáció tartása esetén annak időpo
 [^34]: Az „Az intézkedési tervjavaslatok egyeztetése” alcím (10–12. §) a 209/2021. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^35]: A 10. § (1) bekezdés c) pontját az 523/2022. (XII. 15.) Korm. rendelet 39. § 1. pontja hatályon kívül helyezte.
 [^36]: A 10. § (1) bekezdés d) pontját az 523/2022. (XII. 15.) Korm. rendelet 39. § 1. pontja hatályon kívül helyezte.
+[^37]: A 10. § (1) bekezdés e) pontja a 616/2022. (XII. 29.) Korm. rendelet 58. §-a szerint módosított szöveg.
