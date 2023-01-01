@@ -1,0 +1,3 @@
+## 2. Az egyes ingatlanok műemlékké nyilvánításáról, illetve műemléki védettségének megszüntetéséről, valamint védettségének módosításáról szóló 8/2022. (IV. 29.) MvM rendelet módosítása
+
+2. § Az egyes ingatlanok műemlékké nyilvánításáról, illetve műemléki védettségének megszüntetéséről, valamint védettségének módosításáról szóló 8/2022. (IV. 29.) MvM rendelet 3. § (1) bekezdésében, 4. § (1) bekezdésében, 5. § (1) bekezdésében, 6. § (1) bekezdésében, 7. § (1) bekezdésében, 8. § (1) bekezdésében, 9. § (1) bekezdésében, 10. § (1) bekezdésében, 11–14. §-ában, 15. § (1) bekezdésében, 16. § (1) bekezdésében, 17. § (1) bekezdésében, 19. §-ában, 20. § (1) bekezdésében, 21. § (1) bekezdésében és 22–24. §-ában a „megye” szövegrész helyébe a „vármegye” szöveg lép.
