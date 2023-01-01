@@ -1,31 +1,25 @@
 ## Jogellenes bevándorlás elősegítése, támogatása
 
-353/A. § (1) Aki szervező tevékenységet folytat annak érdekében, hogy
+353/A. § (1) Aki közreműködik abban, hogy más személy a hatósági eljárást érdemben befolyásoló körülményre nézve valótlan tartalmú nyilatkozattal vagy a valós tény elhallgatásával Magyarországon menekültügyi vagy más, tartózkodási jogcím megszerzését lehetővé tevő eljárást kezdeményezzen, illetve ilyen eljárásban a hatósági eljárást érdemben befolyásoló körülményre nézve valótlan tartalmú nyilatkozatot tegyen vagy a valós tényt elhallgassa, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt elzárással büntetendő.
 
-a) Magyarországon menedékjogi eljárás kezdeményezését tegye lehetővé olyan személy részére, aki hazájában vagy a szokásos tartózkodási helye szerinti országban vagy olyan más országban, amelyen keresztül érkezett, nincs faji, nemzeti hovatartozása, meghatározott társadalmi csoporthoz tartozása, vallási, illetve politikai meggyőződése miatt üldözésnek kitéve, vagy a közvetlen üldöztetéstől való félelme nem megalapozott, vagy
-
-b) a Magyarországra jogellenesen belépő vagy jogszerűtlenül tartózkodó személy tartózkodási jogcímet szerezzen,
-
-ha súlyosabb bűncselekmény nem valósul meg, vétség miatt elzárással büntetendő.
-
-(2) Egy évig terjedő szabadságvesztéssel büntetendő, aki az (1) bekezdésben meghatározott bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat vagy a szervező tevékenységet rendszeresen folytatja.
+(2) Egy évig terjedő szabadságvesztéssel büntetendő az (1) bekezdésben meghatározott bűncselekmény szervezője.
 
 (3) A (2) bekezdés szerint büntetendő, aki az (1) bekezdésben meghatározott bűncselekményt
 
-a) vagyoni haszonszerzés végett,
+a) vagyoni haszonszerzés végett, vagy
 
-b) több személynek segítséget nyújtva, vagy
-
-c) a személyek határátlépésére irányadó szabályok uniós kódexéről szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet (a továbbiakban: Schengeni határ-ellenőrzési kódex) 2. cikk 2. pontjának megfelelő Magyarország külső határának határvonalától, illetve a határjeltől számított 8 km-es sávon belül
+b) több személynek segítséget nyújtva
 
 követi el.
 
-(4) A büntetés korlátlanul enyhíthető – különös méltánylást érdemlő esetben mellőzhető – az (1) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha az elkövető a vádemelésig az elkövetés körülményeit feltárja.
+(4) A (2) bekezdés szerint büntetendő, aki az (1) vagy a (2) bekezdés szerinti bűncselekmény elkövetéséhez anyagi eszközöket szolgáltat.
 
-(5) E § alkalmazásában szervező tevékenységnek minősül különösen, ha az (1) bekezdésben meghatározott célból
+(5) Az (1)–(4) bekezdésben meghatározott bűncselekmények miatt mindaddig, amíg az az alapügy, amelyben a bűncselekményeket elkövették, nem fejeződik be, büntetőeljárás csak az alapügyben eljáró hatóság feljelentése alapján indítható. Az ilyen feljelentés esetét kivéve az (1)–(4) bekezdésben meghatározott bűncselekmények büntethetőségének elévülése az alapügy befejezésének napján kezdődik.
 
-a) Magyarország területének Schengeni határ-ellenőrzési kódex 2. cikk 2. pontjának megfelelő külső határ szerinti határvonalán, illetve határjelénél határmegfigyelést szervez,
+(6) Nem büntethető az (1) bekezdésben meghatározott bűncselekmény elkövetője, ha
 
-b) információs anyagot készít, terjeszt vagy ilyenre megbízást ad,
+a) a valóság feltárása estén a hatósági eljárás alanya önmagát vagy hozzátartozóját bűncselekmény elkövetésével vádolná, vagy
 
-c) hálózatot épít vagy működtet.
+b) a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti és az elkövetés körülményeit feltárja.
+
+(7) A büntetés korlátlanul enyhíthető − különös méltánylást érdemlő esetben mellőzhető − a (2)–(4) bekezdésben meghatározott bűncselekmény elkövetőjével szemben, ha a bűncselekményt, mielőtt az a hatóság tudomására jutott volna, a hatóságnak bejelenti és az elkövetés körülményeit feltárja.

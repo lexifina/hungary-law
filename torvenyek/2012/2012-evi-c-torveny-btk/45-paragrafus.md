@@ -12,4 +12,10 @@
 
 (7) Nem bocsátható feltételes szabadságra az elítélt, ha ismételten életfogytig tartó szabadságvesztésre ítélik. Ha a korábbi életfogytig tartó szabadságvesztést még nem hajtották végre, az ismételten kiszabott életfogytig tartó szabadságvesztés nem hajtható végre.
 
-(8)
+(8) A bíróság a feltételes szabadságot megszünteti, ha az elítéltet
+
+a) az életfogytig tartó szabadságvesztésből történő feltételes szabadságra bocsátás alatt, vagy
+
+b) az életfogytig tartó szabadságvesztésből történő feltételes szabadságra bocsátás alatt elkövetett bűncselekmény miatt
+
+ismételten életfogytig tartó szabadságvesztés büntetésre ítélik.

@@ -14,13 +14,15 @@ bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
 (3) Az (1) bekezdés szerint büntetendő az is, aki a gazdálkodó szervezet vagyoni helyzetéről vagy vezető állású személyéről e tevékenységével összefüggésben, illetve a gazdálkodó szervezetre vonatkozóan pénzügyi eszközről valótlan adat közlésével vagy híresztelésével, illetve adat elhallgatásával másokat tőkebefektetésre vagy a befektetés emelésére, illetve tőkebefektetés eladására vagy a befektetés csökkentésére rábír.
 
-(4) Aki az (1) bekezdésben meghatározott bűncselekményt
+(4) Aki az (1)–(3) bekezdésben meghatározott bűncselekményt
 
 a) bűnszövetségben,
 
 b) hivatalos személyként,
 
-c) pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, foglalkoztatói nyugdíjszolgáltató intézmény, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként
+c) pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, foglalkoztatói nyugdíjszolgáltató intézmény, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként, vagy
+
+d) nyilvánosan forgalomba hozott értékpapír-kibocsátó tisztségviselőjeként vagy alkalmazottjaként
 
 követi el, öt évig terjedő szabadságvesztéssel büntetendő.
 

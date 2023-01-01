@@ -14,7 +14,7 @@ e) gyógyszerhez vagy állatgyógyászati készítményhez kapcsolódó eredeti 
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Ha az (1) bekezdésben meghatározott bűncselekményt az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének III. vagy IV. Jegyzékében meghatározott pszichotróp anyag tartalmú gyógyszerre, illetve a bejelentési kötelezettség megsértésével, engedély nélkül vagy az engedély kereteit túllépve ilyen gyógyszer hatóanyagára követik el, a büntetés egy évtől öt évig terjedő szabadságvesztés.
+(2) Ha az (1) bekezdésben meghatározott bűncselekményt az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 2. mellékletében a pszichotróp anyagok 3. vagy 4. jegyzékén szereplő pszichotróp anyag tartalmú gyógyszerre, illetve a bejelentési kötelezettség megsértésével, engedély nélkül vagy az engedély kereteit túllépve ilyen gyógyszer hatóanyagára követik el, a büntetés egy évtől öt évig terjedő szabadságvesztés.
 
 (3) A büntetés az (1) bekezdés a) és b) pontjában meghatározott esetekben
 

@@ -10,7 +10,7 @@ b) információs rendszerben lévő adatot jogosulatlanul vagy jogosultsága ker
 
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(3) A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha a (2) bekezdésben meghatározott bűncselekmény jelentős számú információs rendszert érint.
+(3) A büntetés bűntett miatt egy évtől öt évig terjedő szabadságvesztés, ha a (2) bekezdésben meghatározott bűncselekmény jelentős számú információs rendszert érint, vagy jelentős érdeksérelmet okoz.
 
 (4) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekményt közérdekű üzem ellen követik el.
 

@@ -17,11 +17,3 @@ b) a lopást, a sikkasztást és a jogtalan elsajátítást ötvenezer forintot 
 c) a hűtlen kezelést ötvenezer forintot meg nem haladó vagyoni hátrányt okozva,
 
 d) a szerzői vagy szerzői joghoz kapcsolódó jogok megsértését százezer forintot meg nem haladó
-
-da) üreshordozói díjra, illetve reprográfiai díjra nézve,
-
-db) vagyoni hátrányt okozva,
-
-e) az iparjogvédelmi jogok megsértését százezer forintot meg nem haladó vagyoni hátrányt okozva,
-
-f) a rossz minőségű termék forgalomba hozatalát vagy a versenytárs utánzását százezer forintot meg nem haladó értékre,

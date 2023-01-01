@@ -4,11 +4,13 @@
 
 a) az orvosi gyakorlat,
 
-b) az egészségügyi szakképesítéshez kötött pszichoterápiás gyakorlat vagy
+b)
 
 c) a nem-konvencionális gyógyító és természetgyógyászati eljárások
 
 körébe tartozó tevékenységet jogosulatlanul fejt ki, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+
+(1a) Az (1) bekezdés szerint büntetendő, aki ellenszolgáltatásért vagy rendszeresen magát jogosulatlanul pszichoterapeutaként feltüntetve egészségügyi szolgáltatást végez.
 
 (2) A büntetés bűntett miatt három évig terjedő szabadságvesztés, ha a kuruzslást az orvosi gyakorlatra jogosultság színlelésével követik el.
 

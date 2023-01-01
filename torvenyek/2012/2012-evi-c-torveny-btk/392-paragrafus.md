@@ -6,7 +6,7 @@ a) készpénz-helyettesítő fizetési eszközt meghamisít,
 
 b) hamis készpénz-helyettesítő fizetési eszközt készít, vagy
 
-c) az elektronikus készpénzhelyesítő fizetési eszközön tárolt adatokat vagy az ahhoz kapcsolódó biztonsági elemeket technikai eszközzel rögzíti,
+c) az elektronikus készpénz-helyettesítő fizetési eszközön tárolt adatokat vagy az ahhoz kapcsolódó biztonsági elemeket technikai eszközzel rögzíti,
 
 vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 

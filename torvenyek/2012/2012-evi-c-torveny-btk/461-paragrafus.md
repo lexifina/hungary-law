@@ -56,19 +56,19 @@ b) jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szok
 
 c) különösen jelentős mennyiségű, ha annak tiszta hatóanyag-tartalma a hozzá nem szokott fogyasztó átlagos hatásos adagjának ezernégyszázszoros mértékét meghaladja.
 
-(5) A 184–184/C. § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma
+(5) A 184–184/C. § alkalmazásában az új pszichoaktív anyag csekély mennyiségű, ha annak tiszta hatóanyag-tartalma az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete 3. mellékletében szereplő jegyzék
 
-a) az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló 55/2014. (XII. 30.) EMMI rendelet [a továbbiakban: 55/2014. (XII. 30.) EMMI rendelet] 1. mellékletében szereplő jegyzék 1. pontja szerinti vegyületcsoport esetében a 0,5 gramm,
+a) 1. pontja szerinti vegyületcsoport esetében a 0,5 gramm,
 
-b) az 55/2014. (XII. 30.) EMMI rendelet 1. mellékletében szereplő jegyzék 2. pontja szerinti vegyületcsoport esetében az 1,5 gramm,
+b) 2. pontja szerinti vegyületcsoport esetében az 1,5 gramm,
 
-c) az 55/2014. (XII. 30.) EMMI rendelet 1. mellékletében szereplő jegyzék 3. pontja szerinti vegyületcsoport esetében a 2 gramm,
+c) 3. pontja szerinti vegyületcsoport esetében a 2 gramm,
 
-d) az 55/2014. (XII. 30.) EMMI rendelet 1. mellékletében szereplő jegyzék 4. pontja szerinti vegyületcsoport esetében az 1 gramm,
+d) 4. pontja szerinti vegyületcsoport esetében az 1 gramm,
 
-e) az 55/2014. (XII. 30.) EMMI rendelet 1. mellékletében szereplő jegyzék 4a. pontja szerinti vegyületcsoport esetében a 0,1 gramm,
+e) 5. pontja szerinti vegyületcsoport esetében a 0,1 gramm,
 
-f) az 55/2014. (XII. 30.) EMMI rendelet 1. mellékletében szereplő jegyzék 5. pontja szerinti anyagok esetében a 2 gramm
+f) 6. pontja szerinti anyagok esetében a 2 gramm
 
 mennyiséget nem haladja meg.
 

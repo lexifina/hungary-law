@@ -22,4 +22,4 @@ b) a tizennyolcadik életévét betöltött személy az (1) bekezdés a) vagy b)
 
 (5) Az a tizennyolcadik életévét betöltött személy, aki tizennyolcadik életévét be nem töltött személyt tiltott teljesítményfokozó szer használatára rábír, vagy ilyen személynek a tiltott teljesítményfokozó szer használatához segítséget nyújt, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
-(6) E § alkalmazásában tiltott teljesítményfokozó szer: minden olyan szer, amely hatóanyagára tekintettel az anabolikus szerek, peptid hormonok, növekedési faktorok és rokonvegyületeik, hormon antagonisták és modulátorok közé tartozik, és nevesítve szerepel a sportbeli dopping elleni nemzetközi egyezmény I. mellékletének kihirdetéséről szóló kormányrendeletben.
+(6) E § alkalmazásában tiltott teljesítményfokozó szer: minden olyan szer, amely hatóanyagára tekintettel az anabolikus szerek, peptid hormonok, növekedési faktorok és rokonvegyületeik, hormon antagonisták és modulátorok közé tartozik, és nevesítve szerepel a sportbeli dopping elleni nemzetközi egyezményt vagy annak módosítását kihirdető kormányrendeletben.

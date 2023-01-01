@@ -6,4 +6,4 @@ b) az elkövetőt a próbaidő alatt elkövetett bűncselekmény miatt végrehaj
 
 c) az elkövető a pártfogó felügyelet magatartási szabályait súlyosan megszegi,
 
-d) a 60. § (2a) bekezdése alapján kiutasított elkövető a felfüggesztett szabadságvesztés próbaideje alatt Magyarország területére visszatér.
+d) a 60. § (2a) bekezdése alapján kiutasított elkövető a felfüggesztett szabadságvesztés próbaideje alatt Magyarország területére jogellenesen visszatér.

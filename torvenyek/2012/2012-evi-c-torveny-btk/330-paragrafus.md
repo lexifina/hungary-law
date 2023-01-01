@@ -10,7 +10,7 @@ bűntett miatt egy évtől öt évig terjedő szabadságvesztéssel büntetendő
 
 (2) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a (1) bekezdésben meghatározott bűncselekményt
 
-a) az 1997. évi CIV. törvénnyel kihirdetett, a vegyi fegyverek kifejlesztésének, gyártásának, felhalmozásának és használatának tilalmáról, valamint megsemmisítéséről szóló, Párizsban, 1993. január 13-án aláírt egyezmény 1. Mellékletének hatálya alá tartozó vegyi anyagoknak Magyarország területére vagy innen az Európai Unió vámterületére történő átadásával összefüggésben, vagy
+a) a vegyifegyverek kifejlesztésének, gyártásának, felhalmozásának és használatának tilalmáról, valamint megsemmisítéséről szóló, Párizsban, 1993. január 13-án aláírt egyezmény Melléklete módosításának kihirdetéséről szóló 2020. évi LXIII. törvény 1. mellékletének hatálya alá tartozó vegyi anyagoknak Magyarország területére vagy innen az Európai Unió vámterületére történő átadásával összefüggésben, vagy
 
 b) nukleáris kettős felhasználású termékre
 

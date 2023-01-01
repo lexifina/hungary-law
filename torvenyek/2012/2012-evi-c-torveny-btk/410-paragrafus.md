@@ -14,4 +14,6 @@ a) a bűncselekményt hivatalos személyként követik el,
 
 b) a bűncselekményt pénzügyi intézmény, befektetési vállalkozás, árutőzsdei szolgáltató, befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsdei, központi értéktári vagy központi szerződő fél tevékenységet végző szervezet, biztosító, viszontbiztosító vagy független biztosításközvetítő, önkéntes kölcsönös biztosító pénztár, magánnyugdíjpénztár, foglalkoztatói nyugdíjszolgáltató intézmény, vagy szabályozott ingatlanbefektetési társaság tisztségviselőjeként vagy alkalmazottjaként követik el,
 
-c) a bűncselekménnyel érintett ügylet vagy ügyletek, megbízás vagy megbízások, ajánlat vagy ajánlatok abszolút értéke különösen nagy vagy ezt meghaladó értékű.
+c) a bűncselekményt a nyilvánosan forgalomba hozott értékpapír-kibocsátónak a bennfentes információhoz feladatkörénél fogva hozzáférő tisztségviselőjeként vagy alkalmazottjaként követik el,
+
+d) a bűncselekménnyel érintett ügylet vagy ügyletek, megbízás vagy megbízások, ajánlat vagy ajánlatok abszolút értéke különösen nagy vagy ezt meghaladó értékű.
