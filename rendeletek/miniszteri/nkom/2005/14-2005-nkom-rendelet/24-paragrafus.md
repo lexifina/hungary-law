@@ -1,6 +1,4 @@
-## 23. §[^6]
-
-24. § (1) Műemlékké nyilvánítom a Pest megyei Vác, Köztársaság út 4. szám alatti, 3158 helyrajzi számú ingatlant.
+24. § (1)[^15] Műemlékké nyilvánítom a Pest vármegyei Vác, Köztársaság út 4. szám alatti, 3158 helyrajzi számú ingatlant.
 
 (2) Műemléki környezetnek a 3147/2, 3155, 3156/1, 3156/2, 3157, 3159 helyrajzi számú ingatlanokat, a 3146 helyrajzi számú közterületet, valamint a 2131/2 helyrajzi számú közterület érintett ingatlanok által határolt szakaszát jelölöm ki.
 
@@ -10,4 +8,4 @@
 
 (5) A védetté nyilvánítás célja az egykori váci rendőrségi épület neobarokk építészeti értékeinek és városszerkezeti szerepének megőrzése.
 
-[^6]: A 23. §-t a 32/2014. (IV. 14.) BM rendelet 11. § (1) bekezdése hatályon kívül helyezte.
+[^15]: A 24. § (1) bekezdése a 8/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.

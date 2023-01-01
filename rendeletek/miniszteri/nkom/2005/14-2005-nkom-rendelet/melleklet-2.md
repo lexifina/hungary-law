@@ -100,6 +100,6 @@
 
 ## helyrajzi számú ingatlanok, valamint a 88, 107, 220, 271, 332, 949 helyrajzi számú ingatlanok fenti ingatlanokkal érintkező szakasza.
 
-2. számú melléklet a 14/2005. (IV. 5.) NKÖM rendelethez[^8]
+2. számú melléklet a 14/2005. (IV. 5.) NKÖM rendelethez[^24]
 
-[^8]: A 2. számú melléklet a 25/2005. (IX. 16.) NKÖM rendelet 48. § (2) bekezdése szerint módosított szöveg.
+[^24]: A 2. számú melléklet a 25/2005. (IX. 16.) NKÖM rendelet 48. § (2) bekezdése szerint módosított szöveg.

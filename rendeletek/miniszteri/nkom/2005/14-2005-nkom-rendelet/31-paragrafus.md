@@ -1,4 +1,4 @@
-31. § (1) A Somogy megyei Fonyód város területén
+31. § (1)[^22] A Somogy vármegyei Fonyód város területén
 
 a) műemléki jelentőségű területté nyilvánítom a (2) bekezdésben leírt határon belül az 5. számú mellékletben felsorolt ingatlanokat,
 
@@ -7,3 +7,5 @@ b) műemléki környezetté nyilvánítom, mint az a) pont közvetlen környezet
 (2) A műemléki jelentőségű terület határa a 6031/1 helyrajzi számú ingatlan délkeleti sarkánál, a 6031/2 helyrajzi számú út és a 6055 helyrajzi számú út kereszteződésében indul, ahonnan a 6031/1 helyrajzi számú ingatlan keleti oldalán észak felé halad, keresztezve a 6055 helyrajzi számú utcát a 6414, majd a 6413 helyrajzi számú ingatlan déli oldalán kelet felé halad, majd az ingatlan végénél észak felé fordul, elhalad a 6412 és a 6411 helyrajzi számú ingatlanok keleti oldalán, majd keresztezve a 6124 helyrajzi számú utcát, a 6407 és 6406 helyrajzi számú ingatlanok déli határán északkelet felé halad, az utóbbi ingatlan végénél észak felé fordul, a 6408 helyrajzi számú ingatlan északi határán nyugat felé halad, míg elérve a 6409 helyrajzi számú utcát keresztezi azt, és annak nyugati oldalán észak-északkelet felé halad, míg eléri a 8443 helyrajzi számú utcát, annak északi oldalán északkelet felé halad tovább, a 6442 helyrajzi számú ingatlan keleti sarkánál északnyugat felé fordul, keresztezi a 6695 helyrajzi számú utcát, tovább halad a 6699 helyrajzi számú ingatlan északkeleti határán, annak északi sarkánál befordulva a 6700 helyrajzi számú ingatlan északnyugati határán délnyugat felé halad, míg a 6702 helyrajzi számú utat elérve annak nyugati oldalán halad tovább délnyugat felé, az 5956 helyrajzi számú ingatlan nyugati oldalán tovább haladva az 5998 helyrajzi számú, majd a 6025 helyrajzi számú utak keleti oldalán dél felé haladva eléri a 6022 helyrajzi számú ingatlant, azt határain nyugati irányban megkerülve újra keresztezve a 6025 helyrajzi számú utat, a 6031/1 helyrajzi számú ingatlant határai mentén dél felől megkerülve a terület határa bezárul.
 
 (3) A műemléki jelentőségű terület kijelölésének célja az 1900 körül épült villák, a parkosított sétány és a területileg szervesen hozzá tartozó szállodák alkotta együttes építészeti, képzőművészeti és természeti értékeinek megőrzése.
+
+[^22]: A 31. § (1) bekezdés nyitó szövegrésze a 8/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.

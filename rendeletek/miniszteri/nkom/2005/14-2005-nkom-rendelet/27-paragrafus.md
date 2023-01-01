@@ -1,4 +1,4 @@
-27. § (1) Műemlékké nyilvánítom a Pest megyei Visegrád, Salamon torony utca 3. szám alatti, 13 helyrajzi számú ingatlant.
+27. § (1)[^18] Műemlékké nyilvánítom a Pest vármegyei Visegrád, Salamon torony utca 3. szám alatti, 13 helyrajzi számú ingatlant.
 
 (2) Műemléki környezetet nem jelölök ki.
 
@@ -7,3 +7,5 @@
 (4) Az (1) bekezdésben meghatározott műemléki ingatlanra vonatkozóan a Magyar Államot elővásárlási jog illeti meg.
 
 (5) A védetté nyilvánítás célja az 1880-as években épült, késő romantikus kastély építészeti, képzőművészeti értékeinek és homlokzatalakításának megőrzése.
+
+[^18]: A 27. § (1) bekezdése a 8/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.
