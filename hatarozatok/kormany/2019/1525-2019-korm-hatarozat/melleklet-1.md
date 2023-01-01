@@ -8,17 +8,9 @@
 
 ## 3.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 1 467 438 692 forintban határozza meg;
 
-## 4. a 3. pont szerinti összeg 2019. évi részének finanszírozása céljából az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 142 173 854 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint;
+## 4.[^2]
 
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Határidő: azonnal
-
-## 5. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 3. pont szerinti összeg 2020. évi részének rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény[^2] 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezetben;
+## 5. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 3. pont szerinti összeg 2020. évi részének rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény[^3] 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezetben;
 
 ## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
@@ -32,73 +24,9 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1525/2019. (IX. 5.) Korm. határozathoz
-
-| XX. Emberi Erőforrások Minisztériuma XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2019. forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 25 |  |  |  |  |  | Felújítások központi támogatása, egyéb fejlesztési támogatások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 340417 |  |  |  | 51 |  |  |  |  |  | Nevelési, oktatási intézmények felújítása, beruházása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | -142 173 854 |  |  |  |
-
-|  | XLIII. |  |  |  |  |  | Az állami vagyonnal kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 3 |  |  |  |  |  | Kiemelt kormányzati magasépítési beruházásokkal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 4 |  |  |  |  |  | Programszerű magasépítési beruházások |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  | 3 |  |  |  |  |  | Tanterem beruházások |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 381973 |  |  |  |  | 2 |  |  |  |  |  | Beruházás megvalósítás |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | 142 173 854 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 25 |  |  |  |  |  | Felújítások központi támogatása, egyéb fejlesztési támogatások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 340417 |  |  |  | 51 |  |  |  |  |  | Nevelési, oktatási intézmények felújítása, beruházása |  |  |  |  |  |  |  |  | -142 173 854 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Magyar Államkincstár 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | teljesítésarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | egyéb: |  | azonnal |  | 142 173 854 |  |  |  |  |  |  |  |  |  |  | 142 173 854 |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1. melléklet az 1525/2019. (IX. 5.) Korm. határozathoz[^4]
 
 [^1]: A 3. pont az 1705/2019. (XII. 10.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^2]: A Magyar Közlöny 2019. évi 150. számában megjelent helyesbítésnek megfelelő szöveg.
+[^2]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A Magyar Közlöny 2019. évi 150. számában megjelent helyesbítésnek megfelelő szöveg.
+[^4]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
