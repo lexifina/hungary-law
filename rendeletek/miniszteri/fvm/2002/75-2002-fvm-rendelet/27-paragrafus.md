@@ -16,11 +16,11 @@ e) szükséges esetben a vészvakcinázás megszervezéséért és az oltási te
 
 f) kapcsolat tartásáért a diagnosztikai laboratóriumokkal, a tömegtájékoztatási eszközökkel és a rendőrhatóságokkal a speciális intézkedések biztosítása érdekében.
 
-(3) Klasszikus sertéspestis járványkitörés esetén a megyei kormányhivatal haladéktalanul helyi járványvédelmi központot hoz létre.
+(3)[^86] Klasszikus sertéspestis járványkitörés esetén a vármegyei kormányhivatal haladéktalanul helyi járványvédelmi központot hoz létre.
 
 (4) Az országos járványvédelmi központ bizonyos feladatai a helyi járványvédelmi központnak átadhatók.
 
-(5) Az országos főállatorvosnak állatorvosokból, vadászokból, vadbiológusokból és járványügyi szakértőkből létre kell hoznia egy folyamatosan működő nemzeti szakértői csoportot, amely segíti a megyei kormányhivatalokat a klasszikus sertéspestis elleni védekezésben.
+(5)[^87] Az országos főállatorvosnak állatorvosokból, vadászokból, vadbiológusokból és járványügyi szakértőkből létre kell hoznia egy folyamatosan működő nemzeti szakértői csoportot, amely segíti a vármegyei kormányhivatalokat a klasszikus sertéspestis elleni védekezésben.
 
 (6) A nemzeti szakértői csoport a klasszikus sertéspestisnek a vaddisznókban való megállapítása esetén:
 
@@ -28,9 +28,9 @@ a) tanulmányozza a járványhelyzetet, és javaslatot tesz a fertőzött terül
 
 b) javaslatot tesz a fertőzött területen a 17. § (2) bekezdés a) pont aa)–ah) alpontokban foglaltakon túl alkalmazandó intézkedésekre, amelyek magukban foglalhatják a vadászat felfüggesztését,
 
-c) javaslatokat ad a megyei kormányhivatalnak a betegség felszámolására vonatkozó terv összeállításával kapcsolatosan,
+c)[^88] javaslatokat ad a vármegyei kormányhivatalnak a betegség felszámolására vonatkozó terv összeállításával kapcsolatosan,
 
-d) segítséget nyújt a megyei kormányhivatalnak a klasszikus sertéspestisnek a fertőzött területen történő felszámolására hozott intézkedések hatékonyságának igazolása érdekében végzett ellenőrzések során.
+d)[^89] segítséget nyújt a vármegyei kormányhivatalnak a klasszikus sertéspestisnek a fertőzött területen történő felszámolására hozott intézkedések hatékonyságának igazolása érdekében végzett ellenőrzések során.
 
 (7) Járványkitörés esetén a nemzeti szakértői csoport segítséget nyújt az országos és helyi járványvédelmi központoknak
 
@@ -40,9 +40,14 @@ b) a laboratóriumi minták vételében, feldolgozásában és értékelésében
 
 c) a járványvédelmi intézkedések meghozatalában, különös tekintettel a leküzdés során alkalmazandó eljárások tökélesítésére és továbbfejlesztésére.
 
-(8) A NÉBIH biztosítja az országos járványvédelmi központ és a nemzeti szakértői csoport számára a személyzetet, helyiségeket és eszközöket, beleértve a hatékony ügyvitelhez szükséges kommunikációs eszközöket, az e rendeletben meghatározott járványvédelmi intézkedések azonnali végrehajtása érdekében. A helyi járványvédelmi központ személyzetét, helyiségeit és eszközeit, beleértve a szükséges kommunikációs eszközöket a megyei kormányhivatal biztosítja. Az országos és a helyi járványvédelmi központok, valamint a nemzeti szakértői csoport személyzetének, helyiségeinek, eszközeinek, utasítási láncának és ügyvitelének részleteit a 26. § szerinti országos készenléti tervben kell meghatározni.
+(8)[^90] A NÉBIH biztosítja az országos járványvédelmi központ és a nemzeti szakértői csoport számára a személyzetet, helyiségeket és eszközöket, beleértve a hatékony ügyvitelhez szükséges kommunikációs eszközöket, az e rendeletben meghatározott járványvédelmi intézkedések azonnali végrehajtása érdekében. A helyi járványvédelmi központ személyzetét, helyiségeit és eszközeit, beleértve a szükséges kommunikációs eszközöket a vármegyei kormányhivatal biztosítja. Az országos és a helyi járványvédelmi központok, valamint a nemzeti szakértői csoport személyzetének, helyiségeinek, eszközeinek, utasítási láncának és ügyvitelének részleteit a 26. § szerinti országos készenléti tervben kell meghatározni.
 
 (9) Az országos főállatorvos az országos és a helyi járványvédelmi központok, valamint a nemzeti szakértői csoport működéséhez és funkciójához szükséges további szempontokat határozhat meg.
 
 [^84]: A 27. §-t megelőző alcím a 46/2015. (VIII. 7.) FM rendelet 7. §-ával megállapított szöveg.
 [^85]: A 27. § a 46/2015. (VIII. 7.) FM rendelet 7. §-ával megállapított szöveg.
+[^86]: A 27. § (3) bekezdése a 71/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^87]: A 27. § (5) bekezdése a 71/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^88]: A 27. § (6) bekezdés c) pontja a 71/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^89]: A 27. § (6) bekezdés d) pontja a 71/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^90]: A 27. § (8) bekezdése a 71/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.

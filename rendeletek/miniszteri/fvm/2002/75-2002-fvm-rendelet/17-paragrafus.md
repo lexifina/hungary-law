@@ -1,8 +1,8 @@
 ## A klasszikus sertéspestis vaddisznókban történő előfordulásának gyanúja és megállapítása esetén hozandó intézkedések
 
-17. § (1)[^54] Ha a megyei kormányhivatal vaddisznók fertőzöttségének gyanújáról tudomást szerez, azonnal megfelelő intézkedéseket hoz a betegség jelenlétének megállapítása vagy kizárása céljából. A sertéstartókat és a vadászokat tájékoztatja a betegség megállapításáról. Az elejtett vagy elhullva talált vaddisznókat megvizsgáltatja, beleértve a laboratóriumi vizsgálatokat is.
+17. § (1)[^54] Ha a vármegyei kormányhivatal vaddisznók fertőzöttségének gyanújáról tudomást szerez, azonnal megfelelő intézkedéseket hoz a betegség jelenlétének megállapítása vagy kizárása céljából. A sertéstartókat és a vadászokat tájékoztatja a betegség megállapításáról. Az elejtett vagy elhullva talált vaddisznókat megvizsgáltatja, beleértve a laboratóriumi vizsgálatokat is.
 
-(2)[^55] Ha a vaddisznókban megállapították a klasszikus sertéspestis elsődleges előfordulását, a megyei kormányhivatal azonnal meghozza a következő intézkedéseket:
+(2)[^55] Ha a vaddisznókban megállapították a klasszikus sertéspestis elsődleges előfordulását, a vármegyei kormányhivatal azonnal meghozza a következő intézkedéseket:
 
 a) a nemzeti szakértői csoport javaslata alapján kijelöli a fertőzött területet, ahol a járási hivatal útján hatósági megfigyelés alá helyezteti a sertéstartó gazdaságokat, és elrendeli
 
@@ -32,6 +32,6 @@ c) intézkedik, hogy a klasszikus sertéspestis vírusának izolátumát a víru
 
 (3) Ha a klasszikus sertéspestis olyan területen lépett fel vaddisznókban, amely egy másik állam területéhez közel esik, az érintett államokkal együtt kell működni a betegség felszámolására irányuló intézkedések meghozatalában.
 
-[^54]: A 17. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 8. § 10. pontja szerint módosított szöveg.
-[^55]: A 17. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 2. §-ával megállapított szöveg.
+[^54]: A 17. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 8. § 10. pontja, a 71/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^55]: A 17. § (2) bekezdése a 46/2015. (VIII. 7.) FM rendelet 2. §-ával megállapított, nyitó szövegrésze a 71/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^56]: A 17. § (2a) bekezdését a 46/2015. (VIII. 7.) FM rendelet 2. §-a iktatta be.

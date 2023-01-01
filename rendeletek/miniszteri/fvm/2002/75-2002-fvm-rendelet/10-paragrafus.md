@@ -14,7 +14,7 @@ e) a gazdaságban észlelt minden megbetegedett vagy elhullott sertésről érte
 
 f) a sertéseket a fertőzött gazdaság takarításának és fertőtlenítésének befejezését követő legalább 30 napig tilos elszállítani a gazdaságból. A 30 nap eltelte után – a 12. § (1)–(3) bekezdésében felsorolt feltételekkel – engedélyezheti a sertések elszállítását az említett gazdaságból, közvetlenül szállítva
 
-fa)[^33] a megyei kormányhivatal által kijelölt vágóhídra – lehetőség szerint a védőkörzeten vagy megfigyelési körzeten – azonnali vágásra,
+fa)[^33] a vármegyei kormányhivatal által kijelölt vágóhídra – lehetőség szerint a védőkörzeten vagy megfigyelési körzeten – azonnali vágásra,
 
 fb) állatifehérje-feldolgozó üzembe vagy más alkalmas helyre, ahol a sertéseket azonnal leölik, hulláikat pedig hivatalos felügyelet mellett ártalmatlanítják, vagy
 
@@ -29,6 +29,6 @@ h) mindenki, aki a gazdaságba be- vagy onnan kilép, köteles betartani a klass
 [^30]: A 10. § a) pontja a 70/2013. (VII. 31.) VM rendelet 20. § h) pontja szerint módosított szöveg.
 [^31]: A 10. § b) pontja a 70/2013. (VII. 31.) VM rendelet 20. § k) pontja szerint módosított szöveg.
 [^32]: A 10. § c) pontja a 70/2013. (VII. 31.) VM rendelet 20. § h) pontja szerint módosított szöveg.
-[^33]: A 10. § f) pont fa) alpontja a 70/2013. (VII. 31.) VM rendelet 20. § l) pontja, a 46/2015. (VIII. 7.) FM rendelet 8. § 10. pontja szerint módosított szöveg.
+[^33]: A 10. § f) pont fa) alpontja a 70/2013. (VII. 31.) VM rendelet 20. § l) pontja, a 46/2015. (VIII. 7.) FM rendelet 8. § 10. pontja, a 71/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^34]: A 10. § f) pont fc) alpontja a 70/2013. (VII. 31.) VM rendelet 20. § k) és m) pontja szerint módosított szöveg.
 [^35]: A 10. § g) pontja a 70/2013. (VII. 31.) VM rendelet 20. § h) pontja szerint módosított szöveg.

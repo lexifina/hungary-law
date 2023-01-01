@@ -1,6 +1,6 @@
 ## Tervek a klasszikus sertéspestisnek egy vaddisznóállományban történő felszámolására
 
-18. § (1)[^57] A nemzeti szakértői csoport javaslata alapján a megyei kormányhivatal – a klasszikus sertéspestis vaddisznókban való első megállapításától számított – 30 napon belül összeállítja a betegség felszámolására vonatkozó tervet és megküldi felülvizsgálatra a Nemzeti Élelmiszerlánc-biztonsági Hivatalnak (a továbbiakban: NÉBIH). A NÉBIH a tervezetet további 30 napon belül véleményezi, szükség esetén módosítja és jóváhagyásra az országos főállatorvos elé terjeszti. A jóváhagyott felszámolási tervet az országos főállatorvos megküldi a Bizottságnak. A terv később – a szerzett tapasztalatok figyelembevételével – a Bizottság jóváhagyásával módosítható vagy kiegészíthető.
+18. § (1)[^57] A nemzeti szakértői csoport javaslata alapján a vármegyei kormányhivatal – a klasszikus sertéspestis vaddisznókban való első megállapításától számított – 30 napon belül összeállítja a betegség felszámolására vonatkozó tervet és megküldi felülvizsgálatra a Nemzeti Élelmiszerlánc-biztonsági Hivatalnak (a továbbiakban: NÉBIH). A NÉBIH a tervezetet további 30 napon belül véleményezi, szükség esetén módosítja és jóváhagyásra az országos főállatorvos elé terjeszti. A jóváhagyott felszámolási tervet az országos főállatorvos megküldi a Bizottságnak. A terv később – a szerzett tapasztalatok figyelembevételével – a Bizottság jóváhagyásával módosítható vagy kiegészíthető.
 
 (2)[^58]
 
@@ -10,7 +10,7 @@
 
 a) a 17. § szerint végzett járványtani vizsgálatok és ellenőrzések eredményeiről, valamint a betegség földrajzi eloszlásáról;
 
-b)[^59] a fertőzött terület kiterjedéséről, melynek meghatározásakor a megyei kormányhivatal az a) pontban foglaltakon túl az alábbiakat veszi figyelembe:
+b)[^59] a fertőzött terület kiterjedéséről, melynek meghatározásakor a vármegyei kormányhivatal az a) pontban foglaltakon túl az alábbiakat veszi figyelembe:
 
 ba) a terület vaddisznóállománya,
 
@@ -60,8 +60,8 @@ p) a betegség monitorozására szolgáló intézkedésekről, amelyek akkor lé
 
 (5)[^61] Az adott fertőzött területen lévő járványügyi helyzetet és a betegség felszámolási terv eredményeit a NÉBIH-nek hathavonta kell benyújtani.
 
-[^57]: A 18. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 3. §-ával megállapított szöveg.
+[^57]: A 18. § (1) bekezdése a 46/2015. (VIII. 7.) FM rendelet 3. §-ával megállapított, a 71/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^58]: A 18. § (2) bekezdését a 46/2015. (VIII. 7.) FM rendelet 9. § a) pontja hatályon kívül helyezte.
-[^59]: A 18. § (4) bekezdés b) pont nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 10. pontja szerint módosított szöveg.
+[^59]: A 18. § (4) bekezdés b) pont nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 10. pontja, a 71/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^60]: A 18. § (4) bekezdés o) pontja a 46/2015. (VIII. 7.) FM rendelet 8. § 15. pontja szerint módosított szöveg.
 [^61]: A 18. § (5) bekezdése a 46/2015. (VIII. 7.) FM rendelet 8. § 16. pontja szerint módosított szöveg.

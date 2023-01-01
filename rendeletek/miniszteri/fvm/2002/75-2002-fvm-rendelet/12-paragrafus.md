@@ -34,7 +34,7 @@ bc) a testrészt vagy a nyersanyagot legalább 150 percen keresztül forralási 
 
 bd) a zsír kiolvasztása legalább 100 °C-on történik.
 
-A kezelést a megyei kormányhivatal által kijelölt helyen, hatósági állatorvos felügyelete mellett kell elvégezni. A hús azzal a feltétellel küldhető el a kezelési helyére, hogy a szállítmányt az induláskor hatósági állatorvos lepecsételi, és a szállítás folyamán végig lepecsételve marad.
+A kezelést a vármegyei kormányhivatal által kijelölt helyen, hatósági állatorvos felügyelete mellett kell elvégezni. A hús azzal a feltétellel küldhető el a kezelési helyére, hogy a szállítmányt az induláskor hatósági állatorvos lepecsételi, és a szállítás folyamán végig lepecsételve marad.
 
 (4)[^39] A védőkörzet területén az intézkedéseket legalább addig fenn kell tartani, amíg
 
@@ -44,5 +44,5 @@ b) a sertések klinikai és laboratóriumi vizsgálatát a diagnosztikai kézik�
 
 [^36]: A 11. § a 70/2013. (VII. 31.) VM rendelet 20. § k) pontja, a 46/2015. (VIII. 7.) FM rendelet 8. § 4. pontja szerint módosított szöveg.
 [^37]: A 12. § (1) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 5. pontja szerint módosított szöveg.
-[^38]: A 12. § (3) bekezdés záró szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 10. pontja szerint módosított szöveg.
+[^38]: A 12. § (3) bekezdés záró szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 10. pontja, a 71/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^39]: A 12. § (4) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 20. § h) pontja szerint módosított szöveg.

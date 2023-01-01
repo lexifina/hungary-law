@@ -1,6 +1,6 @@
 ## Intézkedések a kijelölt megfigyelési körzetben[^40]
 
-13. § (1)[^41] A megyei kormányhivatalnak a védőkörzetben a következő intézkedéseket kell foganatosítania:
+13. § (1)[^41] A vármegyei kormányhivatalnak a védőkörzetben a következő intézkedéseket kell foganatosítania:
 
 a)[^42] minden sertéstartó gazdaságot és annak sertésállományát a sertéstartók bejelentése alapján a járási hivatalnak nyilvántartásba kell venni;
 
@@ -31,7 +31,7 @@ a) a takarítást és a fertőtlenítést a fertőzött gazdaságokban el nem v�
 b) minden gazdaságban elvégezték a sertések diagnosztikai kézikönyv szerinti klinikai és laboratóriumi vizsgálatát. A vizsgálatokat addig nem szabad elvégezni, amíg a fertőzött gazdaságban az előzetes takarítás és fertőtlenítés befejezése után 20 nap el nem telt.
 
 [^40]: A 13. §-t megelőző alcím a 70/2013. (VII. 31.) VM rendelet 20. § f) pontja szerint módosított szöveg.
-[^41]: A 13. § (1) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 13. pontja szerint módosított szöveg.
+[^41]: A 13. § (1) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 13. pontja, a 71/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^42]: A 13. § (1) bekezdés a) pontja a 46/2015. (VIII. 7.) FM rendelet 8. § 14. pontja szerint módosított szöveg.
 [^43]: A 13. § (1) bekezdés b) pont nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 4. pontja szerint módosított szöveg.
 [^44]: A 13. § (1) bekezdés b) pont bb) alpontja a 70/2013. (VII. 31.) VM rendelet 20. § m) pontja szerint módosított szöveg.

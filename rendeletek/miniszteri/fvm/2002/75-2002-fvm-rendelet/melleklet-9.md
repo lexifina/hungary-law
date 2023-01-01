@@ -6,7 +6,7 @@
 
 ## b) gondoskodni kell a vészhelyzeti alapokhoz, költségvetési eszközökhöz és pénzügyi forrásokhoz való hozzáférésről úgy, hogy lefedje a klasszikus (afrikai) sertéspestis járvány elleni harc valamennyi szempontját;
 
-## c)[^104] utasítási láncot kell felállítani, mely járvány esetén biztosítja a gyors és hatékony döntéshozatali eljárást. Ha szükséges az utasítási láncot egy központi döntéshozó szerv hatósága alá kell helyezni, mely felelős a járvány elleni küzdelem valamennyi stratégiájának irányításáért. A megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi szakterülete vezetőjének tagnak kell lennie ebben a szervben, és meg kell valósítania az összeköttetést a központi döntéshozó szerv és a 27. § szerinti országos járványvédelmi központ között;
+## c)[^109] utasítási láncot kell felállítani, mely járvány esetén biztosítja a gyors és hatékony döntéshozatali eljárást. Ha szükséges az utasítási láncot egy központi döntéshozó szerv hatósága alá kell helyezni, mely felelős a járvány elleni küzdelem valamennyi stratégiájának irányításáért. A vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi szakterülete vezetőjének tagnak kell lennie ebben a szervben, és meg kell valósítania az összeköttetést a központi döntéshozó szerv és a 27. § szerinti országos járványvédelmi központ között;
 
 ## d) gondoskodni kell a megfelelő források elérhetőségéről, hogy biztosítva legyen a gyors és hatékony munka, beleértve a laboratóriumi személyzetet, eszközt és infrastruktúrát;
 
@@ -22,7 +22,7 @@
 
 ## gc) kommunikációs technikai gyakorlaton azért, hogy megszervezzen egy információs hadjáratot tekintettel egy folyamatban lévő járványra a hatóságokat, sertéstartókat és az állatorvosokat megcélozva.
 
-9. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^105]
+9. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^110]
 
-[^104]: A 8. számú melléklet c) pontja a 46/2015. (VIII. 7.) FM rendelet 8. § 33. pontja szerint módosított szöveg.
-[^105]: A 9–20. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 9. § b) pontja hatályon kívül helyezte.
+[^109]: A 8. számú melléklet c) pontja a 46/2015. (VIII. 7.) FM rendelet 8. § 33. pontja, a 71/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^110]: A 9–20. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 9. § b) pontja hatályon kívül helyezte.

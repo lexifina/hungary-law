@@ -1,3 +1,3 @@
-4. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^101]
+4. számú melléklet a 75/2002. (VIII. 16.) FVM rendelethez[^106]
 
-[^101]: A 4–5. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 9. § b) pontja hatályon kívül helyezte.
+[^106]: A 4–5. számú mellékletet a 46/2015. (VIII. 7.) FM rendelet 9. § b) pontja hatályon kívül helyezte.

@@ -22,7 +22,7 @@ g) a 8. § szerinti járványtani vizsgálatot kell végezni.
 
 a) a (2) bekezdés szerinti gazdaságban foganatosíthatja az 5. § (1) bekezdésében felsorolt intézkedéseket; ezen intézkedések alkalmazását csak a klasszikus sertéspestis vírusával fertőzött vagy fertőzöttségre gyanús sertésekre, illetve tartási helyükre korlátozhatja, ha ezeket a sertéseket a gazdaságban tartott többi sertéstől teljesen elkülönítve tartják, gondozzák és takarmányozzák. A leölt sertésekből annyi mintát kell venni, hogy a klasszikus sertéspestis vírusának vagy az általa termelt ellenanyagnak a jelenléte kimutatható vagy kizárható legyen;
 
-b)[^12] az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) megfigyelési körzetet rendelhet el a (2) bekezdésben említett gazdaság körül, ahol az (1) és (2) bekezdésekben foglalt intézkedéseket vagy azok egy részét alkalmazzák.
+b)[^12] az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) megfigyelési körzetet rendelhet el a (2) bekezdésben említett gazdaság körül, ahol az (1) és (2) bekezdésekben foglalt intézkedéseket vagy azok egy részét alkalmazzák.
 
 (4) A (2) bekezdésben felsorolt intézkedéseket addig nem lehet feloldani, amíg a klasszikus sertéspestis gyanúját hivatalosan ki nem zárták.
 
@@ -30,4 +30,4 @@ b)[^12] az élelmiszerlánc-biztonsági és állategészségügyi hatáskörébe
 [^9]: A 4. § (2) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 4. pontja szerint módosított szöveg.
 [^10]: A 4. § (2) bekezdés c) pontja a 46/2015. (VIII. 7.) FM rendelet 8. § 5. pontja szerint módosított szöveg.
 [^11]: A 4. § (3) bekezdés nyitó szövegrésze a 46/2015. (VIII. 7.) FM rendelet 8. § 4. pontja szerint módosított szöveg.
-[^12]: A 4. § (3) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 20. § c) pontja, a 46/2015. (VIII. 7.) FM rendelet 8. § 6. pontja szerint módosított szöveg.
+[^12]: A 4. § (3) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 20. § c) pontja, a 46/2015. (VIII. 7.) FM rendelet 8. § 6. pontja, a 71/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
