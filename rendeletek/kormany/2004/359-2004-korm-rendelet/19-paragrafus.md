@@ -1,5 +1,3 @@
-## 18. §[^41]
-
 ## Költségigazolás
 
 19. § (1) A kifizető hatóság felelősségi körébe tartozik a kedvezményezetteknél felmerült – a kedvezményezettek által számlával vagy a gazdasági eseményt hitelesen dokumentáló egyéb bizonylattal igazolt –, kifizetett költségek alapján az átutalási kérelem kiállítása és a költségnyilatkozattal, valamint a költségigazoló nyilatkozattal együtt történő benyújtása az Európai Bizottságnak.
@@ -27,5 +25,3 @@ g) a kifizető hatóság írásbeli értesítése alapján 5 munkanapon belül �
 h) a kifizető hatóság előzetes írásbeli értesítése alapján hozzáférést biztosítani a kifizető hatóság által ellenőrzésre írásban felhatalmazott személyek részére az irányító hatóság és a közreműködő szervezetek elektronikus és nyomtatott formában rendelkezésre álló, igazoláshoz kapcsolódó dokumentumaihoz, adataihoz.
 
 (5) A kifizető hatóság a kiadások megfelelő igazolása érdekében a pénzügyi lebonyolítás tekintetében a teljes rendszert ellenőrzi. A kifizető hatóság az igazolási tevékenységének alátámasztása érdekében tényfeltáró látogatást tesz a program hazai pénzügyi lebonyolításában részt vevő szervezeteknél, az irányító hatóságnál és a közreműködő szervezetnél.
-
-[^41]: A 18. §-t a 113/2011. (VII. 7.) Korm. rendelet 26. §-a hatályon kívül helyezte.

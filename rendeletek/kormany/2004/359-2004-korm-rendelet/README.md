@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-359-20-
 | 2015-07-08 | 2004-359-20-22.15 | 175/2015. (VII. 7.) Korm. rendelet |
 | 2018-01-01 | 2004-359-20-22.16 | 163/2009. (VIII. 6.) Korm. rendelet |
 | 2018-07-19 | 2004-359-20-22.17 | 113/2011. (VII. 7.) Korm. rendelet |
+| 2023-01-01 | 2004-359-20-22.18 | 615/2022. (XII. 29.) Korm. rendelet |

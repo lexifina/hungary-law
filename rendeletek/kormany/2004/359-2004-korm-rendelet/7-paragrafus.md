@@ -10,6 +10,6 @@ b) al-kifizető hatóság,
 
 c) végrehajtó ügynökség
 
-## működtetése.
+működtetése.
 
 (3) A közreműködő szervezet az irányító hatóság, illetve a nemzeti hatóság nevében jár el, feladatait másra nem ruházhatja át.

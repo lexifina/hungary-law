@@ -16,7 +16,7 @@ ad)[^4] alkifizető hatóság: a Széchenyi Programiroda Tanácsadó és Szolgá
 
 ae)[^5] közreműködő szervezet: Széchenyi Programiroda;
 
-af)[^6] zárónyilatkozat kiadásáért és az 5%-os és rendszerellenőrzésért felelős szervezet: az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF);
+af)[^6]
 
 ag)[^7] központi harmonizációs egység: az államháztartásért felelős miniszter által vezetett minisztériumnak az államháztartási belső pénzügyi ellenőrzési rendszer központi harmonizációjáért, szabályozásának előkészítéséért és koordinációjáért, valamint fejlesztéséért felelős szervezeti egysége.
 
@@ -77,7 +77,7 @@ y)[^12] Likviditás-kezelési útmutató: az adatszolgáltatási és bizonylati 
 [^3]: A 2. § (1) bekezdése a) pontjának ac) alpontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1) bekezdés a) pont ad) alpontja a 161/2014. (VI. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § (1) bekezdés a) pont ae) alpontja a 161/2014. (VI. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § (1) bekezdés af) pontja a 210/2010. (VI. 30.) Korm. rendelet 15. § (5) és (7) bekezdése szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés a) pont af) alpontját a 615/2022. (XII. 29.) Korm. rendelet 2. § (1) bekezdés a) pontja hatályon kívül helyezte.
 [^7]: A 2. § (1) bekezdése a) pontjának ag) alpontját a 243/2006. (XII. 5.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 113/2011. (VII. 7.) Korm. rendelet 25. §-a, a 221/2014. (IX. 4.) Korm. rendelet 292. § b) pontja szerint módosított szöveg.
 [^8]: A 2. § (1) bekezdés c) pontja a 161/2014. (VI. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^9]: A 2. § (1) bekezdésének v) pontja a 243/2006. (XII. 5.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.

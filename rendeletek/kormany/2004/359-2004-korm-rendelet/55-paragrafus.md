@@ -10,11 +10,11 @@
 
 (5)[^117] Azon INTERREG IIIA programok esetében, amelyekben nem Magyarország látja el az irányító hatósági feladatokat, az EUTAF elkészíti a zárónyilatkozat kiadásához szükséges jelentést, melyet az adott program zárónyilatkozat kiadásáért felelős külföldi székhelyű szervezetének továbbít.
 
-(6)[^118] Az INTERREG IIIB, IIIC, INTERACT és ESPON programok esetében a zárónyilatkozat kiadása érdekében az EUTAF az illetékes pénzügyi ellenőrzési csoport munkájában közreműködik, illetve részt vehet a magyarországi programokat érintő ellenőrzési feladatok végrehajtásában.
+(6)[^118]
 
 [^113]: Az 55. § (1) bekezdése a 243/2006. (XII. 5.) Korm. rendelet 26. § (1) bekezdésével megállapított, a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.
 [^114]: Az 55. § (2) bekezdése a 243/2006. (XII. 5.) Korm. rendelet 26. § (1) bekezdésével megállapított, a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.
 [^115]: Az 55. § (3) bekezdése a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.
 [^116]: Az 55. § (4) bekezdése a 160/2009. (VIII. 3.) Korm. rendelet 50. § (4) bekezdésével megállapított, a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.
 [^117]: Az 55. § (5) bekezdése a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.
-[^118]: Az 55. § (6) bekezdése a 243/2006. (XII. 5.) Korm. rendelet 26. § (2) bekezdésével megállapított, a 210/2010. (VI. 30.) Korm. rendelet 15. § (6) bekezdése szerint módosított szöveg.
+[^118]: Az 55. § (6) bekezdését a 615/2022. (XII. 29.) Korm. rendelet 2. § (1) bekezdés c) pontja hatályon kívül helyezte.
