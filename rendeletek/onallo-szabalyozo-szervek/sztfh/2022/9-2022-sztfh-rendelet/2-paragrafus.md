@@ -1,5 +1,3 @@
-## meghatározott igazgatási szolgáltatási díjat fizet.
-
 ## 2. Az igazgatási szolgáltatási díjak beszedése, kezelése
 
 2. § (1) A bányafelügyeleti hatáskörben eljáró Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH) által folytatott hatósági és szakhatósági eljárásokért fizetendő igazgatási szolgáltatási díjat az SZTFH-nak a Magyar Államkincstárnál vezetett 10032000-00362887-00000000 számú fizetési számlájára kell befizetni.

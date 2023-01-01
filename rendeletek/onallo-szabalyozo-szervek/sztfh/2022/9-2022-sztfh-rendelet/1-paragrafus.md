@@ -5,3 +5,5 @@
 a) hatósági eljárásokért az 1. mellékletben,
 
 b) szakhatósági eljárásokért a 2. mellékletben
+
+meghatározott igazgatási szolgáltatási díjat fizet.

@@ -24,7 +24,7 @@ a) a bányatelek jogosítottja a tárgyév január 20-ig,
 
 b) a földgáztárolói, -szállítói és -elosztói, propán-butángáz forgalmazói engedélyes, a határon átnyúló szolgáltatásként propán-butángáz forgalmazást végző, a bányászati hulladék kezelője, a szén-dioxid-tárolóhely üzemeltetője és a szén-dioxid-szállítóhálózat üzemeltetője a tárgyév június 20-ig
 
-## fizeti meg.
+fizeti meg.
 
 (4) A (3) bekezdés b) pontja szerinti engedélyes a felügyeleti díj megfizetésével egyidejűleg a 3. melléklet szerinti tartalmú elszámolási adatlapot is megküldi az SZTFH részére.
 

@@ -1,5 +1,3 @@
-## A bányafelügyelet hatáskörébe tartozó szakhatósági eljárások díjai
-
 |  | A | B | C |
 
 | 1. | Eljárás megnevezése | Díj (Ft) | Kódszám |
@@ -10,7 +8,7 @@
 
 | 4. | Szakhatósági állásfoglalás adása az Országos Atomenergia Hivatal hatósági eljárásában. | 57 000 | E0400 |
 
-| 5. | Szakhatósági állásfoglalás adása a fővárosi és megyei kormányhivatalok engedélyezési eljárásaiban. | 23 000 | E0500 |
+| 5. | Szakhatósági állásfoglalás adása a fővárosi és vármegyei kormányhivatalok engedélyezési eljárásaiban.[^5] | 23 000 | E0500 |
 
 | 6. | Szakhatósági állásfoglalás adása az igazságügyi szakértői névjegyzékbe történő felvételre irányuló eljárásban. | 15 000 | E0600 |
 
@@ -18,7 +16,7 @@
 
 3. melléklet a 9/2022. (I. 28.) SZTFH rendelethez
 
-## A felügyeleti díj elszámolásához szükséges adatlap tartalma
+A felügyeleti díj elszámolásához szükséges adatlap tartalma
 
 1. Az engedélyes megnevezése
 
@@ -33,3 +31,5 @@
 6. Az engedélyes neve, telefonszáma
 
 7. Cégszerű aláírás
+
+[^5]: A 2. mellékletben foglalt táblázat A:5 mezője a 40/2022. (XII. 19.) SZTFH rendelet 23. § e) pontja szerint módosított szöveg.

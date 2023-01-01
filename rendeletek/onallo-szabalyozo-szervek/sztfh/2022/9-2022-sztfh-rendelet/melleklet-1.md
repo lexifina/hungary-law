@@ -44,7 +44,7 @@
 
 | 19. | Geotermikus védőidom törlése kérelemre | 39 000 | A0280 |
 
-| 20. | Tájrendezési előterv módosítása | 22 000 | A0290 |
+| 20. |  |  |  |
 
 | 21. | Műszaki üzemi terv jóváhagyása | Mélyművelésű bánya esetén | 86 000 | A0310 |
 
@@ -74,7 +74,7 @@
 
 | 34. | Bányatelekre vonatkozó építési és telekalakítási tilalom elrendelésének kezdeményezése kérelemre | 14 000 | A0450 |
 
-| 35. | A bányászatról szóló 1993. évi XLVIII. törvény 22. § (10) bekezdése és 29/A. § (1) bekezdése szerinti megállapodások jóváhagyása; hozzájárulás a megállapodástól történő elálláshoz, felbontásához, megszüntetéséhez, felmondásához vagy módosításához | 30 000 | A0460 |
+| 35. | A Bt. 22. § (10) bekezdése és 29/A. § (1) bekezdése szerinti megállapodások jóváhagyása; hozzájárulás a megállapodástól történő elálláshoz, felbontásához, megszüntetéséhez, felmondásához vagy módosításához | 30 000 | A0460 |
 
 | 36. | Geológiai képződmények és szerkezetek földtani kutatásával kapcsolatos eljárások | Földtani kutatási engedély iránti kérelem | 62 000 | A0510 |
 
@@ -258,26 +258,4 @@
 
 4. Polgári robbantási, robbanóanyag-forgalmazási tevékenység engedélyezésének díjai, egyes robbanóanyagok és tárgyak, illetve egyes anyagok besorolásának jóváhagyása
 
-|  | A | B | C | D |
-
-| 1. | Egyes igazgatási eljárások | Díj (Ft) | Kódszám |
-
-| 2. | Polgári robbantási tevékenységek engedélyezése | Robbanóanyag gyártási engedély | 67 000 | D0111 |
-
-| 3. | Robbanóanyag megszerzési engedély | 15 000 | D0120 |
-
-| 4. | Robbanóanyag felhasználási engedély bányában végzett robbantási tevékenységre | 42 000 | D0130 |
-
-| 5. | Robbanóanyag felhasználási engedély robbanóanyag megsemmisítésre | 33 000 | D0140 |
-
-| 6. | Egyedi robbanóanyag felhasználási engedély külterületre | 30 000 | D0150 |
-
-| 7. | Egyedi robbanóanyag felhasználási engedély belterületre | 55 000 | D0160 |
-
-| 8. | Robbanóanyag forgalmazási tevékenység engedélyezése |  | 33 000 | D0200 |
-
-| 9. | A Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás „A” Mellékletének, illetve a Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat Mellékletének (a továbbiakban: Melléklet) 1. osztályába tartozó robbanóanyagok és tárgyak, a járulékos veszélyként robbanó tulajdonsággal rendelkező anyagok, valamint a Melléklet 4.1 osztályába tartozó önreaktív anyagok, a Melléklet 5.2 osztályába tartozó szerves peroxidok besorolásának jóváhagyása |  | 34 000 | D0300 |
-
-| 10. | A 2–10. sor szerinti engedélyek módosítása |  | az irányadó díjtétel 50%-a | az irányadó díjtétel kódszáma |
-
-[^4]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a szerint módosított szöveg.
+[^4]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a, a 40/2022. (XII. 19.) SZTFH rendelet 23. § d) pontja és 24. § a) pontja szerint módosított szöveg.
