@@ -1,5 +1,3 @@
-## A védőnői családgondozási törzslap tartalmi követelményei
-
 ## A családgondozási törzslap tartalmazza:
 
 ## – a családi adatlapot,
@@ -46,17 +44,17 @@
 
 9. számú melléklet a 49/2004. (V. 21.) ESzCsM rendelethez[^43]
 
-## A kollegiális védőnői mentorrendszer működése
+A kollegiális védőnői mentorrendszer működése
 
-1. Az Országos Kórházi Főigazgatóság a védőnői szolgálat értékeinek megőrzése mellett annak fejlesztése, korszerűbb egységes szakmai irányítás támogatásának, működésének elérése, a megelőző ellátásban és rendkívüli helyzetekben való szerepvállalás növelése és szakmai irányítás támogatása érdekében az állami fenntartású egészségügyi szakellátást nyújtó egészségügyi szolgáltató városi és megyei fekvőbeteg intézményekben kollegiális védőnői mentorrendszert működtet.
+1. Az Országos Kórházi Főigazgatóság a védőnői szolgálat értékeinek megőrzése mellett annak fejlesztése, korszerűbb egységes szakmai irányítás támogatásának, működésének elérése, a megelőző ellátásban és rendkívüli helyzetekben való szerepvállalás növelése és szakmai irányítás támogatása érdekében az állami fenntartású egészségügyi szakellátást nyújtó egészségügyi szolgáltató városi és vármegyei fekvőbeteg intézményekben kollegiális védőnői mentorrendszert működtet.
 
 2. Az Országos Kórházi Főigazgatóság szakmai irányítás támogatásával létrehozott kollegiális védőnői mentorrendszer hatáskörébe tartozó védőnők kötelesek együttműködni az illetékes kollegiális védőnői mentorral.
 
 3. A kollegiális védőnői mentor végzi az illetékességi területén működő védőnők tevékenységének szakmai irányítás támogatását az Országos Kórházi Főigazgatóság szakmai iránymutatásai alapján.
 
-4. A kollegiális védőnői mentor illetékességi területe az adott járás/megye, munkahelye a megyei/városi kórház által biztosított védőnői mentor iroda. A védőnői mentor iroda működésének tárgyi feltételeit (infrastruktúráját, berendezését, informatikai és telekommunikációs eszközeit, területi munkához gépjárművet) az Országos Kórházi Főigazgatóság biztosítja.
+4. A kollegiális védőnői mentor illetékességi területe az adott járás/vármegye, munkahelye a vármegyei/városi kórház által biztosított védőnői mentor iroda. A védőnői mentor iroda működésének tárgyi feltételeit (infrastruktúráját, berendezését, informatikai és telekommunikációs eszközeit, területi munkához gépjárművet) az Országos Kórházi Főigazgatóság biztosítja.
 
-5. Az Országos Kórházi Főigazgatóság a honlapján közzéteszi az illetékes egészségügyi szakellátást nyújtó egészségügyi szolgáltató városi és megyei intézmények listáját, amelyekben kollegiális védőnői mentor működik. A megyei és városi kórházhoz tartozó kollegiális védőnői mentor munkáltatója a megyei kórházak főigazgatója.
+5. Az Országos Kórházi Főigazgatóság a honlapján közzéteszi az illetékes egészségügyi szakellátást nyújtó egészségügyi szolgáltató városi és vármegyei intézmények listáját, amelyekben kollegiális védőnői mentor működik. A vármegyei és városi kórházhoz tartozó kollegiális védőnői mentor munkáltatója a vármegyei kórházak főigazgatója.
 
 6. A kollegiális védőnői mentor feladatai:
 
@@ -72,7 +70,7 @@ b) Szakmai irányítás támogatói feladatok:
 
 – védőnők és az ellátottak közötti problémák, panaszok megoldásában közvetítés, segítségnyújtás,
 
-– védőnői ellátás összeférhetetlenség miatti elutasítása esetén jelzés a támogatói feladatokat ellátó megyei intézményben működő kollegiális védőnői mentor felé,
+– védőnői ellátás összeférhetetlenség miatti elutasítása esetén jelzés a támogatói feladatokat ellátó vármegyei intézményben működő kollegiális védőnői mentor felé,
 
 – védőnő-védőnő közötti és a védőnő más szakember közötti konfliktushelyzetben közvetítés, segítségnyújtás, szükség esetén jelzés az egészségügy irányításért felelős szerv felé,
 
@@ -86,7 +84,7 @@ c) Kapcsolattartási feladatok:
 
 – egyeztetés a védőnőkkel, a társszakmákkal (más szakmaterület kollegiális vezetőivel) a szakmai feladatok minél jobb minőségű ellátása érdekében,
 
-– kapcsolattartás a támogatói feladatokat ellátó megyei intézményben működő kollegiális védőnői mentorral, kórházvezetéssel.
+– kapcsolattartás a támogatói feladatokat ellátó vármegyei intézményben működő kollegiális védőnői mentorral, kórházvezetéssel.
 
 d) Tájékoztatási feladatok:
 
@@ -96,7 +94,7 @@ d) Tájékoztatási feladatok:
 
 e) Beszámolási feladatok:
 
-– eleget tesz az előírt rendszeres (havi) és eseti beszámolási kötelezettségének a támogatói feladatokat ellátó megyei intézményben működő kollegiális védőnői mentor felé és az egészségügy irányításért felelős szerv felé.
+– eleget tesz az előírt rendszeres (havi) és eseti beszámolási kötelezettségének a támogatói feladatokat ellátó vármegyei intézményben működő kollegiális védőnői mentor felé és az egészségügy irányításért felelős szerv felé.
 
 f) Nyilvántartási feladatok:
 
@@ -106,23 +104,23 @@ f) Nyilvántartási feladatok:
 
 – főállásban ellátott terület
 
-munkáltató neve, címe: megye, járás, irányítószám, település, közterület neve, házszám
+munkáltató neve, címe: vármegye, járás, irányítószám, település, közterület neve, házszám
 
-munkahely/tanácsadó neve, címe: megye, járás, irányítószám, település, közterület neve, házszám
+munkahely/tanácsadó neve, címe: vármegye, járás, irányítószám, település, közterület neve, házszám
 
 – helyettesítésben ellátott terület
 
-munkáltató neve, címe: megye, járás, irányítószám, település, közterület neve, házszám
+munkáltató neve, címe: vármegye, járás, irányítószám, település, közterület neve, házszám
 
-munkahely/tanácsadó neve, címe: megye, járás, irányítószám, település, közterület neve, házszám,
+munkahely/tanácsadó neve, címe: vármegye, járás, irányítószám, település, közterület neve, házszám,
 
-– változás esetén jelenti az adatokat a támogatói feladatokat ellátó megyei intézményben működő kollegiális védőnői mentor felé.
+– változás esetén jelenti az adatokat a támogatói feladatokat ellátó vármegyei intézményben működő kollegiális védőnői mentor felé.
 
 g) Képzéssel/továbbképzéssel kapcsolatos feladatok:
 
-– egyeztetve a támogatói feladatokat ellátó megyei intézményben működő kollegiális védőnői mentorral szakmai képzéseket és továbbképzéseket szervez,
+– egyeztetve a támogatói feladatokat ellátó vármegyei intézményben működő kollegiális védőnői mentorral szakmai képzéseket és továbbképzéseket szervez,
 
-– a támogatói feladatokat ellátó megyei intézményben működő kollegiális védőnői mentorral egyeztetve összehangolja a hallgatói gyakorlatokat.
+– a támogatói feladatokat ellátó vármegyei intézményben működő kollegiális védőnői mentorral egyeztetve összehangolja a hallgatói gyakorlatokat.
 
 h) Népegészségügyi feladatok:
 
@@ -142,4 +140,4 @@ h) Népegészségügyi feladatok:
 
 – in vitro fertilizációt végző központokkal kapcsolattartás.
 
-[^43]: A 9. mellékletet a 46/2021. (X. 29.) EMMI rendelet 4. §-a iktatta be.
+[^43]: A 9. mellékletet a 46/2021. (X. 29.) EMMI rendelet 4. §-a iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 33. §-a szerint módosított szöveg.

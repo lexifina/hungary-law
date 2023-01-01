@@ -1,5 +1,3 @@
-## A területi védőnő által kötelezően felajánlott családlátogatások gyakorisága
-
 | – | várandós anya | a várandósság ideje alatt legalább 4 alkalommal, (ebből az első látogatás a gondozásba vétel után 2 héten belül), fokozott gondozást igénylők esetén havonta egy alkalommal és szükség szerint |
 
 | – | gyermekágyas anya | az intézetből hazajövetel után 48 órán belül – szombat, vasárnap vagy munkaszüneti nap esetében az azt követő első munkanap –, majd az első 6 hétben legalább hetente |

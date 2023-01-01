@@ -1,5 +1,3 @@
-## A védőnői dokumentumok jegyzéke[^41]
-
 ## – Védőnői családgondozási törzslap
 
 ## – Várandós nyilvántartó C. 3341–29
@@ -54,5 +52,6 @@
 
 8. számú melléklet a 49/2004. (V. 21.) ESZCSM rendelethez[^42]
 
-[^41]: A nyomtatványok számítógépen is vezethetők. A 7. számú melléklet címe a 28/2013. (IV. 5.) EMMI rendelet 4. §-a szerint módosított szöveg.
+A védőnői családgondozási törzslap tartalmi követelményei
+
 [^42]: A 8. számú melléklet a 19/2009. (VI. 18.) EüM rendelet 9. § (6) bekezdése szerint módosított szöveg.

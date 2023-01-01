@@ -1,6 +1,6 @@
 6. számú melléklet a 49/2004. (V. 21.) ESZCSM rendelethez
 
-## A területi védőnő által ellátható gondozottak számának meghatározása
+A területi védőnő által ellátható gondozottak számának meghatározása
 
 1. Védőnői körzetben ellátott feladatok pontértéke:
 

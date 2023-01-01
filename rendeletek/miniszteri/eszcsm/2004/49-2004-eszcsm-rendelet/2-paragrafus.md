@@ -12,9 +12,9 @@
 
 (6)[^3] Az (5) bekezdés szerinti esetben – a gondozásba vétel elfogadását követően – a védőnő haladéktalanul írásban értesíti a bejelentett lakóhely szerint illetékes védőnőt a gondozásba vételről.
 
-(7)[^4] A védőnő, a védőnői szolgáltatás nem választható. Ha a védőnői szolgáltatás igénybevétele során összeférhetetlenség áll fenn, a várandós nő, a gyermek törvényes képviselője, illetve a területi védőnő erre irányuló kérelme alapján a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala a területi védőnő helyett másik védőnőt jelöl ki.
+(7)[^4] A védőnő, a védőnői szolgáltatás nem választható. Ha a védőnői szolgáltatás igénybevétele során összeférhetetlenség áll fenn, a várandós nő, a gyermek törvényes képviselője, illetve a területi védőnő erre irányuló kérelme alapján a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala a területi védőnő helyett másik védőnőt jelöl ki.
 
 [^1]: A 2. § (3) bekezdése a 28/2017. (X. 25.) EMMI rendelet 26. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (5) bekezdése a 11/2014. (II. 24.) EMMI rendelet 38. §-ával megállapított szöveg.
 [^3]: A 2. § (6) bekezdését a 11/2014. (II. 24.) EMMI rendelet 41. §-a hatályon kívül helyezte, újonnan a 28/2017. (X. 25.) EMMI rendelet 22. §-a iktatta be.
-[^4]: A 2. § (7) bekezdését a 28/2017. (X. 25.) EMMI rendelet 22. §-a iktatta be.
+[^4]: A 2. § (7) bekezdését a 28/2017. (X. 25.) EMMI rendelet 22. §-a iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 33. § a) pontja szerint módosított szöveg.

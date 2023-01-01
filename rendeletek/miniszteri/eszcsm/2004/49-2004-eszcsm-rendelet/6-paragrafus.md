@@ -6,6 +6,6 @@ b) a közoktatás,
 
 c) a gyermekjóléti, a szociális és családsegítést végző intézmények
 
-## illetékes szakembereivel.
+illetékes szakembereivel.
 
 (2) A védőnő és a háziorvos gondozással kapcsolatos szakmai véleménykülönbsége esetén – bármely fél kezdeményezésére – a háziorvosi ellátás és a védőnői ellátás illetékes szakfelügyelője közös álláspontot alakít ki.

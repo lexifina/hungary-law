@@ -1,5 +1,3 @@
-## elvégezte, valamint a tanácsadó helyisége rendelkezik az 5/A. számú mellékletben meghatározott feltételekkel.
-
 5. § (1)[^23] Egy védőnői körzetben a védőnő által ellátható nők (várandós, gyermekágyas anyák), gyermekek (újszülött kortól a tanulói jogviszony megkezdéséig) és az oktatási intézménybe nem járó otthon gondozott tanköteles korú gyermekek száma összesen legfeljebb 250 fő lehet.
 
 (2) Amennyiben az iskolai védőnői feladatok ellátása teljes munkaidejű iskolavédőnő foglalkoztatásával nem biztosított, akkor a területi védőnő – a (3)–(4) bekezdésben foglaltak szerint – az oktatási intézmény(ek)ben is ellátja a védőnői feladatot.

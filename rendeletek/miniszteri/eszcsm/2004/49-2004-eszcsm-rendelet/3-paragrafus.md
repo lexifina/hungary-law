@@ -42,7 +42,7 @@ ga) a gondozott családban előforduló egészségi, mentális és környezeti v
 
 gb)[^12] soron kívüli családlátogatás végzése a nevelési-oktatási intézményt ellátó védőnő írásbeli jelzése alapján,
 
-gc)[^13] a család- és gyermekjóléti szolgálat, a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala és a háziorvos, házi gyermekorvos írásos értesítése, ha a várandós anya, a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú gondozója és törvényes képviselője a védőnővel nem működik együtt az a)–d) pontban meghatározott feladatai ellátása során, illetve hatósági eljárás kezdeményezése a gyermek bántalmazása, súlyos elhanyagolása, a gyermek önmaga által előidézett súlyos veszélyeztető magatartása vagy egyéb súlyos veszélyeztető ok fennállása esetén,
+gc)[^13] a család- és gyermekjóléti szolgálat, a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala és a háziorvos, házi gyermekorvos írásos értesítése, ha a várandós anya, a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú gondozója és törvényes képviselője a védőnővel nem működik együtt az a)–d) pontban meghatározott feladatai ellátása során, illetve hatósági eljárás kezdeményezése a gyermek bántalmazása, súlyos elhanyagolása, a gyermek önmaga által előidézett súlyos veszélyeztető magatartása vagy egyéb súlyos veszélyeztető ok fennállása esetén,
 
 gd) figyelemfelhívás a népegészségügyi szűrővizsgálaton történő megjelenés fontosságára, továbbá tájékoztatás az önkéntesen igénybevehető ajánlott szűrővizsgálatokról,
 
@@ -66,7 +66,7 @@ h) az egyéni és közösségi egészségfejlesztési, egészségvédelmi progra
 [^10]: A 3. § d) pontjának dc) alpontja a 19/2009. (VI. 18.) EüM rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^11]: A 3. § d) pontjának dd) alpontja a 19/2009. (VI. 18.) EüM rendelet 6. § (2) bekezdésével megállapított, a 28/2017. (X. 25.) EMMI rendelet 26. § b) pontja szerint módosított szöveg.
 [^12]: A 3. § g) pontjának gb) alpontja a 19/2009. (VI. 18.) EüM rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^13]: A 3. § g) pont gc) alpontja a 28/2017. (X. 25.) EMMI rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^13]: A 3. § g) pont gc) alpontja a 28/2017. (X. 25.) EMMI rendelet 23. § (2) bekezdésével megállapított, a 45/2022. (XII. 20.) BM rendelet 33. § a) pontja szerint módosított szöveg.
 [^14]: A 3. § g) pontjának gf) alpontját a 19/2009. (VI. 18.) EüM rendelet 6. § (4) bekezdése iktatta be.
 [^15]: A 3. § g) pont gg) alpontját a 11/2014. (II. 24.) EMMI rendelet 39. §-a iktatta be, szövege a 28/2017. (X. 25.) EMMI rendelet 23. § (3) bekezdésével megállapított szöveg.
 [^16]: A 3. § g) pont gh) alpontját a 11/2014. (II. 24.) EMMI rendelet 39. §-a iktatta be.

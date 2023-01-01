@@ -8,7 +8,7 @@ c) a nevelési-oktatási intézményben a külön jogszabályban foglaltak,
 
 d)[^20] a közösségi programokra alkalmas helyszíneken az e rendeletben foglaltak
 
-## szerint végzi.
+szerint végzi.
 
 (2) Az (1) bekezdés a) pontja szerinti tanácsadó műszaki és egyéb előírásait a 4. számú melléklet, az alapfelszerelését az 5. számú melléklet tartalmazza.
 
@@ -17,6 +17,8 @@ d)[^20] a közösségi programokra alkalmas helyszíneken az e rendeletben fogla
 a)[^22] az orvos- és egészségtudományi képzést folytató felsőoktatási intézmény által szervezett, legalább 40 órás időtartamú választható képzést vagy
 
 b) egészségügyi szakirányú választható szakmai továbbképzést
+
+elvégezte, valamint a tanácsadó helyisége rendelkezik az 5/A. számú mellékletben meghatározott feltételekkel.
 
 [^20]: A 4. § (1) bekezdésének d) pontját a 19/2009. (VI. 18.) EüM rendelet 7. §-a iktatta be.
 [^21]: A 4. § (3) bekezdését a 28/2013. (IV. 5.) EMMI rendelet 2. §-a iktatta be.

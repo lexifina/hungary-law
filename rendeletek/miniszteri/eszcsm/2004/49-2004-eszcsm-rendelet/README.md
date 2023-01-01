@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-49-20-0
 | 2018-12-19 | 2004-49-20-0M.15 | 9/2015. (II. 10.) EMMI rendelet |
 | 2021-03-25 | 2004-49-20-0M.16 | 14/2021. (III. 24.) EMMI rendelet |
 | 2021-11-01 | 2004-49-20-0M.17 | 46/2021. (X. 29.) EMMI rendelet |
+| 2023-01-01 | 2004-49-20-0M.18 | 28/2017. (X. 25.) EMMI rendelet |
