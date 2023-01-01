@@ -12,7 +12,7 @@
 
 ## 4. Foglalkozás: ..........................................................................................................................................................
 
-## 5. Lakhely*: település: ...................................................................................... megye:
+## 5. Lakhely*: település: ...................................................................................... vármegye:
 
 ## 2. A MÉRGEZÉS
 
@@ -92,4 +92,4 @@
 
 13. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^65]
 
-[^65]: A 13. számú melléklet a 21/2012. (IV. 4.) NEFMI rendelet 41. § (3) bekezdésével megállapított, címe a 23/2015. (IV. 28.) EMMI rendelet 29. § i) pontja szerint módosított szöveg.
+[^65]: A 13. számú melléklet a 21/2012. (IV. 4.) NEFMI rendelet 41. § (3) bekezdésével megállapított, címe a 23/2015. (IV. 28.) EMMI rendelet 29. § i) pontja, a 45/2022. (XII. 20.) BM rendelet 19. § c) pontja szerint módosított szöveg.

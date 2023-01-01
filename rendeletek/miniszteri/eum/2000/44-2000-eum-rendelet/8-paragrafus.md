@@ -10,7 +10,7 @@
 
 a) a mérgezettek orvosi elsősegélynyújtását és egészségügyi ellátását végzők részére a betegellátáshoz szükséges mértékben;
 
-b)[^17] a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal és járási (fővárosi kerületi) hivatala részére;
+b)[^17] a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal és járási (fővárosi kerületi) hivatala részére;
 
 c)[^18] a munkavédelmi hatóság részére munkabalesetek, fokozott expozíciós esetek, foglalkozási megbetegedések megelőzéséhez;
 
@@ -44,7 +44,7 @@ i)[^20] az a)–h) pont hatálya alá nem tartozó esetekben, bármely kérelmez
 
 (9)[^29] A mérgezési esetekről az ETTSZ az egészségügyért felelős miniszter részére összesítő jelentést készít.
 
-(10)[^30] A mérgezési esetbejelentések teljesítését a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) ellenőrzi.
+(10)[^30] A mérgezési esetbejelentések teljesítését a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) ellenőrzi.
 
 (11)[^31] A heveny mérgezési esetek magas szintű, egységes és szakszerű ellátásának biztosítására az egészségügyért felelős miniszter által kijelölt egészségügyi szolgáltatóknál diagnosztikai és terápiás információs egységet kell szervezni. A kijelölt egészségügyi szolgáltató és az ETTSZ között biztosítani kell a folyamatos, azonnali információ-adás lehetőségét.
 
@@ -52,7 +52,7 @@ i)[^20] az a)–h) pont hatálya alá nem tartozó esetekben, bármely kérelmez
 [^14]: A 8. § (1) bekezdése a 25/2010. (V. 12.) EüM rendelet 1. § (7) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 17. § (1) bekezdés d) pontja szerint módosított szöveg.
 [^15]: A 8. § (2) bekezdése a 25/2010. (V. 12.) EüM rendelet 2. § m) pontja szerint módosított szöveg.
 [^16]: A 8. § (3) bekezdés nyitó szövegrésze a 25/2010. (V. 12.) EüM rendelet 2. § n) pontja szerint módosított szöveg.
-[^17]: A 8. § (3) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 29. § f) pontja, a 38/2018. (X. 31.) EMMI rendelet 6. §-a szerint módosított szöveg.
+[^17]: A 8. § (3) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 29. § f) pontja, a 38/2018. (X. 31.) EMMI rendelet 6. §-a, a 45/2022. (XII. 20.) BM rendelet 19. § a) pontja szerint módosított szöveg.
 [^18]: A 8. § (3) bekezdésének c) pontja a 38/2008. (X. 3.) EüM rendelet 3. § (1) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
 [^19]: [Az 54/2016. (XII. 30.) EMMI rendelet 17. § (1) bekezdés f) pontjában foglalt módosítás, mely szerint a 8. § (3) bekezdés f) pontjában „a környezet- és természetvédelmi, illetve a vízügyi vízügyi felügyeletek” szövegrész helyébe az „a környezet- és természetvédelmi, illetve a vízügyi hatóságok” szöveg lép, nem vezethető át.]
 [^20]: A 8. § (3) bekezdésének i) pontja a 38/2008. (X. 3.) EüM rendelet 3. § (2) bekezdésével megállapított szöveg. E módosító rendelet 7. § (1) bekezdése alapján a rendelkezést a 2008. október 11. napját követően indult eljárásokban kell alkalmazni.
@@ -65,5 +65,5 @@ i)[^20] az a)–h) pont hatálya alá nem tartozó esetekben, bármely kérelmez
 [^27]: A 8. § (8) bekezdését a 14/2013. (II. 15.) EMMI rendelet 3. § b) pontja hatályon kívül helyezte.
 [^28]: A 8. § (8a) bekezdését a 21/2012. (IV. 4.) NEFMI rendelet 39. § (2) bekezdése iktatta be.
 [^29]: A 8. § (9) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 17. § (1) bekezdés g) pontja szerint módosított szöveg.
-[^30]: A 8. § (10) bekezdése a 28/2017. (X. 25.) EMMI rendelet 16. §-ával megállapított szöveg.
+[^30]: A 8. § (10) bekezdése a 28/2017. (X. 25.) EMMI rendelet 16. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 19. § a) pontja szerint módosított szöveg.
 [^31]: A 8. § (11) bekezdése az 52/2022. (XII. 27.) BM rendelet 6. §-a szerint módosított szöveg.

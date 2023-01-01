@@ -8,7 +8,7 @@
 
 ## Telephely címe:
 
-## Megye:
+## Vármegye:
 
 ## Telefon:
 
