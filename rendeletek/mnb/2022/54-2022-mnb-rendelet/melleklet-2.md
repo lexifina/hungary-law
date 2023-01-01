@@ -122,6 +122,4 @@
 
 ## A megképzett azonosító kódokról és azok változásáról a pénztárnak kötelezően tájékoztatnia kell a számára letétkezelést és vagyonkezelést végző intézményeket.
 
-2. melléklet az 54/2022. (XII. 2.) MNB rendelethez[^2]
-
-[^2]: A 2. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–40. és 44–50. sora, az ott meghatározott felügyeleti jelentések táblája a 9. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+2. melléklet az 54/2022. (XII. 2.) MNB rendelethez
