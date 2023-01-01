@@ -1,3 +1,3 @@
-## 19. §[^36]
+20. §[^40]
 
-[^36]: A 19. §-t a 294/2012. (X. 16.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^40]: A 20. §-t a 136/2016. (VI. 13.) Korm. rendelet 1. § (8) bekezdés f) pontja hatályon kívül helyezte.

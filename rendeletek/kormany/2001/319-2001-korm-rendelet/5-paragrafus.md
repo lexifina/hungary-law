@@ -1,5 +1,3 @@
-## 4. §[^10]
-
 5. §[^11] (1)[^12] A diákkedvezményekre való jogosultság megállapítására irányuló eljárás kérelemre indul. A kérelmet a határon túli tanuló, hallgató személyesen, postai úton, valamint elektronikus úton vagy meghatalmazott útján, a külképviseleten vagy a kormányhivatalnál nyújthatja be.
 
 (2)–(4)[^13]
@@ -32,7 +30,6 @@ b) a hiánypótlási felhívásról, valamint
 
 c) a kedvezményre való jogosultság bejegyzését tartalmazó „Magyar igazolvány” vagy pótfüzet postára adásáról.
 
-[^10]: A 4. §-t a 136/2016. (VI. 13.) Korm. rendelet 1. § (8) bekezdés a) pontja hatályon kívül helyezte.
 [^11]: Az 5. § a 132/2007. (VI. 12.) Korm. rendelet 4. §-ával megállapított szöveg. E módosító rendelet 19. § (5) bekezdése alapján a rendelkezést a 2007. július 12. napja után indult ügyekben kell alkalmazni. A folyamatban lévő, diákigazolvány iránti kérelmeket a Hivatal a diákigazolvány kiállításával, illetve meghosszabításával teljesíti.
 [^12]: A 5. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
 [^13]: Az 5. § (2)–(4) bekezdését a 136/2016. (VI. 13.) Korm. rendelet 1. § (8) bekezdés c) pontja hatályon kívül helyezte.

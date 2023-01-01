@@ -1,3 +1,3 @@
-## 17–18. §[^35]
+19. §[^39]
 
-[^35]: A 17–18. §-t a 132/2007. (VI. 12.) Korm. rendelet 19. § (3) bekezdése hatályon kívül helyezte.
+[^39]: A 19. §-t a 294/2012. (X. 16.) Korm. rendelet 6. §-a hatályon kívül helyezte.
