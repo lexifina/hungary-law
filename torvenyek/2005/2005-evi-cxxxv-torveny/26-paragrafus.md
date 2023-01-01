@@ -4,7 +4,7 @@ a) a pénzbeli és természetben nyújtott szociális ellátások és a szociál
 
 b) a nyugdíj-biztosítási ellátások,
 
-c) a munkanélküli-ellátások és a foglalkoztatást elősegítő támogatások,
+c) az álláskeresési ellátás és a foglalkoztatást elősegítő támogatások,
 
 d) a családtámogatási ellátások,
 
