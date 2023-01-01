@@ -1,1 +1,3 @@
-## 2009. január 1-jén lép hatályba. E rendelkezéseket a folyamatban lévő ügyekben is alkalmazni kell.
+13. §[^12]
+
+[^12]: A 13–14. § e rendelet 15. § (1) bekezdése alapján 2009. január 2. napján hatályát vesztette.

@@ -4,6 +4,8 @@ a) a kihallgatás helyéről a lakóhelyére (tartózkodási helyére) való uta
 
 b) az ellátási költséget és
 
-c)[^9] a munkából kiesett időre járó költséget
+c)[^10] a munkából kiesett időre járó költséget
 
-[^9]: A 8. § c) pontja e rendelet 12. § (2) bekezdés c) pontja alapján 2009. január 1-jén lépett hatályba.
+kell megtéríteni.
+
+[^10]: A 8. § c) pontja e rendelet 12. § (2) bekezdés c) pontja alapján 2009. január 1-jén lépett hatályba.

@@ -10,7 +10,7 @@ c) a szakértői vizsgálaton megjelent tanú és
 
 d) a bírósági végrehajtási eljárásnál jelenlevő tanú
 
-## költségtérítésére kell alkalmazni.
+költségtérítésére kell alkalmazni.
 
 (2) A tanú részére – kérelmére – az (1) bekezdés szerinti eljárási cselekményen vagy szakértői vizsgálaton (a továbbiakban e rendeletben együtt: kihallgatáson) történő megjelenése következtében felmerülő költségeket az e rendeletben foglalt rendelkezések szerint kell megtéríteni.
 

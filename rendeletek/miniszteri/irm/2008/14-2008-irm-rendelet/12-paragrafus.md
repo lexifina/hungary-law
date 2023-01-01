@@ -15,3 +15,5 @@ c) 8. §-ának c) pontja,
 d) 13. §-a és
 
 e) 14. §-ának (4) bekezdése
+
+2009. január 1-jén lép hatályba. E rendelkezéseket a folyamatban lévő ügyekben is alkalmazni kell.
