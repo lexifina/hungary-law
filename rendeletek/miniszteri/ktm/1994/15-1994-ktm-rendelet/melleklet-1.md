@@ -4,7 +4,7 @@
 
 1. melléklet a 15/1994. (IV. 29.) KTM rendelethez[^5]
 
-## A Sóstó-legelő Természetvédelmi Terület természetvédelmi kezelési terve
+A Sóstó-legelő Természetvédelmi Terület természetvédelmi kezelési terve
 
 1. Természetvédelmi célkitűzések
 
