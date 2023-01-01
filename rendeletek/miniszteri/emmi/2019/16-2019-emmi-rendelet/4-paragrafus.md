@@ -24,7 +24,7 @@ e) az ügyeleti-készenléti ellátás rendjét és összhangját,
 
 f) a panaszok érdemi kivizsgálását,
 
-## és elvégzi a feltárt problémák értékelését.
+és elvégzi a feltárt problémák értékelését.
 
 (8) A szakfelügyeleti tevékenysége során az országos szakfelügyelő
 

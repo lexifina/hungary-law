@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-16-20-5
 | 2020-09-01 | 2019-16-20-5H.3 | 26/2020. (VIII. 4.) EMMI rendelet |
 | 2021-01-01 | 2019-16-20-5H.4 | 47/2020. (XII. 22.) EMMI rendelet |
 | 2021-03-25 | 2019-16-20-5H.5 | 14/2021. (III. 24.) EMMI rendelet |
+| 2023-01-01 | 2019-16-20-5H.6 | 45/2022. (XII. 20.) BM rendelet |

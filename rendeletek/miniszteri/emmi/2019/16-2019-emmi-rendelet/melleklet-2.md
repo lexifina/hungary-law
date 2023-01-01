@@ -1,5 +1,3 @@
-## A szakfelügyelet szakterületei
-
 |  | A | B | C |
 
 | 1 | Szakterületek | Névjegyzékbe vehető területi szakfelügyelők száma | Névjegyzékbe vehető országos szakfelügyelők száma |

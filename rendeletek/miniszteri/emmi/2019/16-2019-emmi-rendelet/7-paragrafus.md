@@ -4,7 +4,7 @@ a) az egészségügy ágazati irányításában, ellenőrzésében vagy finansz�
 
 b) egészségügyi szakmai köztestület elnöke,
 
-c)[^1] az egészségügyi szakmai kollégium elnökségének elnöke vagy a tagozat elnöke,
+c)[^2] az egészségügyi szakmai kollégium elnökségének elnöke vagy a tagozat elnöke,
 
 d) egészségügyi szakmai képviseletet ellátó vagy betegjogi szervezetvezető tisztségviselője,
 
@@ -38,4 +38,4 @@ c) a megbízásban vállalt feladatainak – felhívást követően – nem tesz
 
 d) törlik a működési nyilvántartásból.
 
-[^1]: A 7. § (1) bekezdés c) pontja a 26/2020. (VIII. 4.) EMMI rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^2]: A 7. § (1) bekezdés c) pontja a 26/2020. (VIII. 4.) EMMI rendelet 14. § (1) bekezdésével megállapított szöveg.
