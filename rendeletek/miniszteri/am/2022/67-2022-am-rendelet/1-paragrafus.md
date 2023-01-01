@@ -1,0 +1,1 @@
+1. § A bovin somatotropin és egyéb biotechnológiai úton előállított somatotropinok forgalomba hozatalának tilalmáról szóló 25/2002. (IV. 12.) FVM rendelet 2. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
