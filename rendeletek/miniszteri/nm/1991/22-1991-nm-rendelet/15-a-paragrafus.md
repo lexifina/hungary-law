@@ -1,3 +1,3 @@
-## 15. §[^49]
+15/A. §[^55]
 
-[^49]: A 15. §-t a 9/2010. (III. 18.) EüM rendelet 16. § d) pontja hatályon kívül helyezte.
+[^55]: A 15/A. §-t a 14/1992. (VI. 26.) NM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 9/2010. (III. 18.) EüM rendelet 16. § e) pontja.

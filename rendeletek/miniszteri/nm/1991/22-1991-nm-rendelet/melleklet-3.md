@@ -1,96 +1,6 @@
-## EGÉSZSÉGÜGYI VIZSGÁLATI LAP
+## 2x10467.pdf
 
-## Előzetes orvosi vizsgálat:*
-
-## Név:
-
-## Szül. év, hó, nap:
-
-## Anyja neve:
-
-## Lakcím:
-
-## Foglalkozása (csak az I. alkalmassági csoportba tartozó vizsgált személy esetében kell kitölteni):
-
-## Vizsgálat időpontja:
-
-## Vizsgálatot végző orvos neve:
-
-## Intézmény neve:
-
-## Kórelőzmény (krónikus betegség, gyógyszerszedés stb.):
-
-## Bőr, látható nyálkahártyák:
-
-## Csontok és ízületek:
-
-## Mirigyek (pajzsmirigy):
-
-## Tüdő:
-
-## Szív: ......................................................................................................... EKG:
-
-## Vérnyomás: ........................................................................................... Pulzus:
-
-## Érrendszer, varicositas:
-
-## Hasi szervek tapintása:
-
-## Máj: ......................................................................................................... Sérv:
-
-## Idegrendszer, Romberg:
-
-## Halló- és egyensúlyszerv:
-
-## Szem (visus):
-
-## Egyéb vizsgálati eredmények:
-
-## Laboratóriumi vizsgálati eredmények:
-
-## Pszichológiai vizsgálat eredménye:
-
-## Az elvégzett előzetes orvosi és pszichológiai alkalmassági vizsgálat alapján lőfegyver tartására/elöltöltő fegyver vadászati célú használatára***
-
-## – alkalmas
-
-## – alkalmatlan
-
-## Egyéb megjegyzések:
-
-## A másodfokú egészségügyi alkalmassági vizsgálatot végző szerv megállapításai:**
-
-## Időszakos és soron kívüli orvosi vizsgálat:*
-
-## Ideje:
-
-## Vizsgálatot végző orvos neve:
-
-## Statusában beállott változások:
-
-## Az elvégzett időszakos/soron kívüli orvosi és pszichológiai alkalmassági vizsgálat alapján lőfegyver tartására/elöltöltő fegyver vadászati célú használatára***
-
-## – alkalmas
-
-## – alkalmatlan
-
-## Egyéb megjegyzések:
-
-## A másodfokú egészségügyi vizsgálatot végző szerv megállapításai:**
-
-## Dátum:
-
-## P. H.
-
-## Aláírás
-
-## * Az első fokú orvosi alkalmasságot vizsgáló szerv tölti ki!
-
-## ** A másodfokú orvosi alkalmasságot vizsgáló szerv tölti ki!
-
-## *** A kívánt rész aláhúzandó.
-
-3. számú melléklet a 22/1991. (XI. 15.) NM rendelethez[^62]
+3. számú melléklet a 22/1991. (XI. 15.) NM rendelethez[^67]
 
 A pszichológiai alkalmassági vizsgálat tartalma:
 
@@ -114,4 +24,4 @@ A pszichológiai alkalmassági vizsgálat tartalma:
 
 – projektív tesztekkel.
 
-[^62]: A 3. számú melléklet a 44/1997. (XII. 17.) NM rendelet 1. §-ának (2) bekezdésével megállapított és a 9/2010. (III. 18.) EüM rendelet 13. § (3) bekezdése szerint módosított szöveg.
+[^67]: A 3. számú melléklet a 44/1997. (XII. 17.) NM rendelet 1. §-ának (2) bekezdésével megállapított és a 9/2010. (III. 18.) EüM rendelet 13. § (3) bekezdése szerint módosított szöveg.
