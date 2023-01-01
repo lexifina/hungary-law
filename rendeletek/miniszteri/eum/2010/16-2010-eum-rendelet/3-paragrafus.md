@@ -8,7 +8,7 @@ a) a Kr. 17. § (2) bekezdés a) pontja szerinti kiemelt szakorvosi szakmák ker
 
 b) a Kr. 17. § (2) bekezdés d) pontja szerinti háziorvosi keretszámokra
 
-## kerül sor.
+kerül sor.
 
 (1a)[^7] Az (1) bekezdésben foglaltakon túlmenően rendszerbevételi eljárás lefolytatására kerül sor azon szakorvosok esetében is, akik a plasztikai és égés-sebészet szakképesítést költségtérítéses képzésben
 
@@ -16,7 +16,7 @@ a) első alap szakképesítésként vagy
 
 b) második vagy további alap szakképesítésként
 
-## kívánják megszerezni.
+kívánják megszerezni.
 
 (1b)[^8] A tárgyévben a plasztikai és égés-sebészetet költségtérítéses képzésben megszerzők keretszámát – a szakképzési kapacitásokra figyelemmel – a plasztikai és égés-sebészet országos grémiuma határozza meg, és azt az OKFŐ honlapján közzéteszi.
 

@@ -14,7 +14,7 @@ c) a szakképzés teljesítésének részletes szabályaira – ideértve a szak
 
 d) a szakképzést lezáró szakvizsgáztatásra vonatkozó szabályokra
 
-## terjed ki.
+terjed ki.
 
 (2) Az e rendeletben nem szabályozott fogalmak tekintetében a Kr. 2. §-ában foglalt fogalom-meghatározásokat kell alkalmazni.
 

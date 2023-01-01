@@ -1,3 +1,3 @@
-## 11. §[^76]
+11/A. §[^77]
 
-[^76]: A 11. §-t a 69/2013. (XI. 19.) EMMI rendelet 2. §-a hatályon kívül helyezte.
+[^77]: A 11/A. §-t a 20/2011. (V. 10.) NEFMI rendelet 11. §-a iktatta be, hatályon kívül helyezte a 34/2015. (VI. 30.) EMMI rendelet 19. § b) pontja.

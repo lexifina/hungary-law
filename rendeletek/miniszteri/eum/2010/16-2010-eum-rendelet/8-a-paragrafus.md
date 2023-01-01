@@ -20,7 +20,7 @@ b) a jelöltet folyamatosan vagy több alkalommal akadályozza a képzés során
 
 c) a konzultációs lehetőséget a rezidens legalább háromszori írásbeli kérésére, legalább 30 napon belül nem biztosítja,
 
-## az OKFŐ a tutort a mulasztására írásban figyelmezteti és határidő megjelölésével felhívja a kötelezettségeinek teljesítésére a Kr. 13. § (6)–(8) bekezdésében foglaltak egyidejű megjelölésével.
+az OKFŐ a tutort a mulasztására írásban figyelmezteti és határidő megjelölésével felhívja a kötelezettségeinek teljesítésére a Kr. 13. § (6)–(8) bekezdésében foglaltak egyidejű megjelölésével.
 
 (4)[^51] Ha a tutor a figyelmeztetés ellenére a (2) bekezdés szerinti minősítés alapján a (4) bekezdés szerinti határidőt követően is a (3) bekezdés a)–c) pontja szerinti magatartás valamelyikét tanúsítja, az OKFŐ a tutort a névjegyzékből törli.
 

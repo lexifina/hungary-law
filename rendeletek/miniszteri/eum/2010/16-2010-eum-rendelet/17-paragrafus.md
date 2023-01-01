@@ -12,7 +12,7 @@ c) a miniszter által legfeljebb két éves időtartamra felkért, szakirányú 
 
 d)[^100] az egyéb egészségügyi szakképesítések, valamint azon szakorvosi és szakgyógyszerészi szakképesítések esetében, ahol a szakvizsgáztatók alacsony száma miatt a vizsgabizottság kiállítása az a)–c) pont szerinti módon nem valósítható meg, a miniszter által legfeljebb kétéves időtartamra felkért, az adott szakirányú szakvizsgától eltérő, az adott szakterülettel rokon szakterületen szakvizsgával rendelkező egyetemi tanár, doktori fokozattal vagy habilitációval rendelkező szakember
 
-## lehet.
+lehet.
 
 (4)[^101] A (3) bekezdés b)–d) pontjában meghatározott szakvizsgáztató személyére a szakképzési grémiumok, valamint az egészségügyi szakmai kollégium tesznek javaslatot. A javaslathoz mellékelni kell a (3) bekezdés b)–d) pontjában foglalt feltételek meglétét alátámasztó dokumentumokat.
 
@@ -30,7 +30,7 @@ b) a jelölt hozzátartozója, vagy
 
 c) akitől a jelölt teljesítményének tárgyilagos megítélése egyéb okból nem várható el.
 
-## Az összeférhetetlenség fennállásáról a jelölt vagy a szakvizsga bizottság érintett tagjának kérelmére az OKFŐ főigazgatója dönt. Ha az OKFŐ főigazgatója megállapítja az összeférhetetlenség fennállását, az új vizsgabizottsági tag kijelöléséről a (2) bekezdés szerinti módon gondoskodik.
+Az összeférhetetlenség fennállásáról a jelölt vagy a szakvizsga bizottság érintett tagjának kérelmére az OKFŐ főigazgatója dönt. Ha az OKFŐ főigazgatója megállapítja az összeférhetetlenség fennállását, az új vizsgabizottsági tag kijelöléséről a (2) bekezdés szerinti módon gondoskodik.
 
 (7)[^106] Egyetem munkavállalója vagy alkalmazottja a közvetlen beosztottja szakvizsgáztatásában nem vehet részt.
 

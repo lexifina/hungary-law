@@ -1,5 +1,3 @@
-## 5. §
-
 ## 5. A rendszerbevételi eljárás lefolytatása
 
 6. § (1)[^21] A rendszerbevételi eljárást a szakképzés tekintetében illetékes szakképzési grémium folytatja le.

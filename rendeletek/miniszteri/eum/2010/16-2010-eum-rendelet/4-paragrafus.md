@@ -2,7 +2,7 @@
 
 4. § (1)[^12] A rendszerbevételi eljárásban meghirdetett álláshelyekre jelentkezők (a továbbiakban: jelentkező) sorrendjét a rendszerbevételi pontszám határozza meg.
 
-(1a)[^13] A 3. § (1) bekezdés a) pontja szerinti rendszerbevételi eljárásra történő jelentkezéskor a jelentkező meghatározhatja az általa elsődleges képzőhelyként előnyben részesítendő, akkreditált egészségügyi szolgáltatók körét, vagy azt, hogy mely megyében (megyékben) kívánja az elsődleges képzőhely kijelölését.
+(1a)[^13] A 3. § (1) bekezdés a) pontja szerinti rendszerbevételi eljárásra történő jelentkezéskor a jelentkező meghatározhatja az általa elsődleges képzőhelyként előnyben részesítendő, akkreditált egészségügyi szolgáltatók körét, vagy azt, hogy mely vármegyében vagy vármegyékben kívánja az elsődleges képzőhely kijelölését.
 
 (2)[^14] A rendszerbevételi pontszám az első szakképesítés megszerzésére irányuló rendszerbevételi eljárásban
 
@@ -12,7 +12,7 @@ b) az egyetem által lefolytatott személyes meghallgatás során elért pontok 
 
 c) az 1. melléklet szerint számított többletpontok
 
-## összege.
+összege.
 
 (2a)[^15] A (2) bekezdés b) pontja szerinti személyes meghallgatás szakmai anyaga az egyetemi képzés alatt oktatott szakmaspecifikus tárgyak ismeretanyaga.
 
@@ -24,7 +24,7 @@ b) személyes meghallgatás során legfeljebb 30 pont,
 
 c) többletpontként legfeljebb 10 pont
 
-## adható.
+adható.
 
 (4) A tanulmányi pontszám a következő részpontszámok összege:
 
@@ -45,7 +45,7 @@ c) az egyetemi záróvizsga 2,0-del súlyozott érdemjegye.
 (6) A személyes meghallgatás során a választott szak művelése szempontjából szükséges személyi adottságokat, a szakma iránti érdeklődést és a jelentkező általános szakmai felkészültségét kell értékelni a 2. mellékletben meghatározott szempontok alapján.
 
 [^12]: A 4. § (1) bekezdése a 34/2015. (VI. 30.) EMMI rendelet 18. § 1. pontja szerint módosított szöveg.
-[^13]: A 4. § (1a) bekezdését a 34/2015. (VI. 30.) EMMI rendelet 5. §-a iktatta be.
+[^13]: A 4. § (1a) bekezdését a 34/2015. (VI. 30.) EMMI rendelet 5. §-a iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 52. §-a szerint módosított szöveg.
 [^14]: A 4. § (2) bekezdése a 28/2018. (VIII. 29.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^15]: A 4. § (2a) bekezdését a 34/2015. (VI. 30.) EMMI rendelet 6. §-a iktatta be.
 [^16]: A 4. § (4a) bekezdését a 28/2018. (VIII. 29.) EMMI rendelet 5. § (2) bekezdése iktatta be.

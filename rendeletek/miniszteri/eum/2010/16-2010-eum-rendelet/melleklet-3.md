@@ -1,6 +1,6 @@
 3. melléklet a 16/2010. (IV. 15. EüM rendelethez[^134]
 
-## A szakképző hellyé minősítés feltételei
+A szakképző hellyé minősítés feltételei
 
 Az egészségügyi szolgáltatást végző intézmények, azok osztályai vagy részlegei szakképző hellyé minősítése a következő szempontok alapján történik:
 
