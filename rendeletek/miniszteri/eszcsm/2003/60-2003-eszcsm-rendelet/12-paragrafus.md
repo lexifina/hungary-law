@@ -2,7 +2,7 @@
 
 (2) E rendeletben foglalt előírásokat a hatálybalépését követően benyújtott működési engedély iránti kérelmek elbírálásánál kell alkalmazni.
 
-(3)[^51] A rendelet hatálybalépésével egyidejűleg az egészségügyi szolgáltatást nyújtó egyes intézmények szakmai minimumfeltételeiről szóló 21/1998. (VI. 3.) NM rendelet és az azt módosító
+(3)[^52] A rendelet hatálybalépésével egyidejűleg az egészségügyi szolgáltatást nyújtó egyes intézmények szakmai minimumfeltételeiről szóló 21/1998. (VI. 3.) NM rendelet és az azt módosító
 
 a) 17/1998. (XII. 27.) EüM rendelet,
 
@@ -22,10 +22,10 @@ h) 6/2002. (IX. 26.) ESZCSM rendelet
 
 a hatályát veszti, azonban rendelkezéseit az e rendelet hatálybalépésekor működési engedéllyel vagy ideiglenes működési engedéllyel rendelkező egészségügyi szolgáltatók tekintetében – külön jogszabály eltérő rendelkezése hiányában – alkalmazni kell.
 
-(4)[^52]
+(4)[^53]
 
-(5)[^53]
+(5)[^54]
 
-[^51]: A 25/2004. (II. 26.) Korm. rendelet 13. § (1) bekezdése alapján a már működő egészségügyi szolgáltatók működési engedélyének felülvizsgálatát és az e rendeletben foglalt új szakmai minimumfeltételekhez igazodó módosítását a 25/2004. (II. 26.) Korm. rendelet 13. §-ának (2)–(6) bekezdésében foglalt határidők és feltételek szerint kell elvégezni.
-[^52]: A 12. § (4) bekezdését az 1/2012. (V. 31.) EMMI rendelet 11. § f) pontja hatályon kívül helyezte.
-[^53]: A 12. § (5) bekezdését az 1/2012. (V. 31.) EMMI rendelet 11. § f) pontja hatályon kívül helyezte.
+[^52]: A 25/2004. (II. 26.) Korm. rendelet 13. § (1) bekezdése alapján a már működő egészségügyi szolgáltatók működési engedélyének felülvizsgálatát és az e rendeletben foglalt új szakmai minimumfeltételekhez igazodó módosítását a 25/2004. (II. 26.) Korm. rendelet 13. §-ának (2)–(6) bekezdésében foglalt határidők és feltételek szerint kell elvégezni.
+[^53]: A 12. § (4) bekezdését az 1/2012. (V. 31.) EMMI rendelet 11. § f) pontja hatályon kívül helyezte.
+[^54]: A 12. § (5) bekezdését az 1/2012. (V. 31.) EMMI rendelet 11. § f) pontja hatályon kívül helyezte.
