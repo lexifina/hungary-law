@@ -1,5 +1,3 @@
-## 3. § Az Integrált Közcélú Víziközmű Adatbázis üzemeltetője (a továbbiakban: üzemeltető) az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság.
-
 ## 4. § Az üzemeltető az Integrált Közcélú Víziközmű Adatbázis vonatkozásában
 
 a) kialakítja a felhasználási feltételeket,
