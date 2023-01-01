@@ -90,6 +90,8 @@ Az az időtartam, amelyre a zajhatást, illetőleg annak egyenértékű A-hang-n
 
 4.6.2. Az LAeq egyenértékű A-hangnyomásszint értékét dB-ben az (1) képlet szerint kell meghatározni.
 
+5M10520_0
+
 |  | [(1) képlet] |  |
 
 ahol:
@@ -112,6 +114,8 @@ Az értékelési idő a munkavállaló tevékenységétől függetlenül is felb
 
 4.6.4. Az értékelési idő részidőkre bontása esetén minden egyes „i” részidőre meg kell mérni a zaj LAeq,i egyenértékű A-hangnyomásszintjét az (1) képlet szerint, majd a (2) összefüggéssel ki kell számítani az értékelési időre vonatkozó LAeq egyenértékű A-hangnyomásszintet, dB-ben.
 
+5M10520_1
+
 |  | [(2) képlet] |
 
 ahol:
@@ -119,6 +123,8 @@ ahol:
 LAeq,i az i-edik részidőben ható zaj egyenértékű A-hangnyomásszintje dB-ben,
 
 τi az i-edik részidő tartama s-ban,
+
+5M10520_2
 
 |  | az értékelési idő s-ban |
 
@@ -140,6 +146,8 @@ Megjegyzés: Ha a munkavállaló egyes tevékenységei eltérő zajt okoznak, il
 
 5.1.2. A munkavállalót érő zajexpozíciót a (3) képlettel kell kiszámítani.
 
+5M10520_3
+
 |  | [(3) képlet] |
 
 ahol:
@@ -154,13 +162,17 @@ Megjegyzés: Az eredményt egész decibelre kerekítve kell megadni.
 
 5.1.3. Ha a munkavállaló a szokásostól lényegesen eltérő heti munkaidő-beosztásban dolgozik, illetve, ha a munkahét egyes napjain a munkavállaló zajterhelése jelentősen eltérő (és ez a munkavállalót érő zaj minősítése szempontjából lényeges), akkor az LEX,8h zajexpozíciót dB-ben a (4) képlettel, egyheti időtartamra kell számítani.
 
+5M10520_4
+
 |  | [(4) képlet] |
 
 ahol:
 
-LEX,8h,i a zajexpozíció dB-ben a munkahét i-edik munkanapján.
+LEX,8h,ia zajexpozíció dB-ben a munkahét i-edik munkanapján.
 
-Megjegyzés: A munkahétre vonatkoztatott LEX,8h zajexpozíció az (5) összefüggéssel is meghatározható.
+Megjegyzés: A munkahétre vonatkoztatott LEX,8hzajexpozíció az (5) összefüggéssel is meghatározható.
+
+5M10520_5
 
 |  | [(5) képlet] |
 
@@ -178,7 +190,7 @@ Megjegyzés: A munkahét folyamán, az adott munkanapon belül vagy a munkanapok
 
 Az egyéni hallásvédő eszköz használata mellett a munkavállalót érő zajexpozíciót a (6) képlettel lehet számítani.
 
-LAM = LCeq – SNR [(6) képlet]
+LAM = LCeq– SNR [(6) képlet]
 
 ahol:
 
