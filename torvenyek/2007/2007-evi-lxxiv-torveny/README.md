@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-74-00-00
 | 2019-01-01 | 2018. évi CXII. törvény | 2007-74-00-00.20 |
 | 2019-01-19 | 2018. évi CXII. törvény | 2007-74-00-00.21 |
 | 2020-04-01 | 2019. évi CXXVII. törvény | 2007-74-00-00.22 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2007-74-00-00.23 |
