@@ -2,7 +2,7 @@
 
 1. melléklet a 68/2016. (III. 31.) Korm. rendelethez
 
-## Az Országos Hulladékgazdálkodási Közszolgáltatási Terv előkészítésében érintett szervezetek
+Az Országos Hulladékgazdálkodási Közszolgáltatási Terv előkészítésében érintett szervezetek
 
 Az OHKT előkészítése során a miniszter, a Koordináló szerv, valamint a Hivatal bevonhatja:[^6]
 
@@ -24,9 +24,9 @@ Az OHKT előkészítése során a miniszter, a Koordináló szerv, valamint a Hi
 
 9. a meteorológiai szakkérdések vonatkozásában az Országos Meteorológiai Szolgálatot,
 
-10. a tűz- és katasztrófavédelmi szakkérdések vonatkozásában a megyei katasztrófavédelmi igazgatóságot, a Fővárosi Katasztrófavédelmi Igazgatóságot,
+10.[^8] a tűz- és katasztrófavédelmi szakkérdések vonatkozásában a vármegyei katasztrófavédelmi igazgatóságot, a Fővárosi Katasztrófavédelmi Igazgatóságot,
 
-11. a területileg illetékes fővárosi és megyei kormányhivatalt
+11.[^9] a területileg illetékes fővárosi és vármegyei kormányhivatalt
 
 a) erdészeti hatáskörében eljárva az erdővédelem vonatkozásában,
 
@@ -48,3 +48,5 @@ i) a földtani és az ásványvagyon védelmére kiterjedő, valamint a bányás
 
 [^6]: Az 1. melléklet nyitó szövegrésze a 768/2021. (XII. 23.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^7]: Az 1. melléklet 3. pontja a 312/2021. (VI. 7.) Korm. rendelet 18. § (2) bekezdése, a 768/2021. (XII. 23.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^8]: Az 1. melléklet 10. pontja a 616/2022. (XII. 29.) Korm. rendelet 232. §-a szerint módosított szöveg.
+[^9]: Az 1. melléklet 11. pontja a 616/2022. (XII. 29.) Korm. rendelet 232. §-a szerint módosított szöveg.

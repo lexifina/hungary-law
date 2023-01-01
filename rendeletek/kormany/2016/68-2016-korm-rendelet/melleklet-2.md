@@ -1,6 +1,6 @@
-2. melléklet a 68/2016. (III. 31.) Korm. rendelethez[^8]
+2. melléklet a 68/2016. (III. 31.) Korm. rendelethez[^10]
 
-## Az Országos Hulladékgazdálkodási Közszolgáltatási Terv szerkezeti felépítése és tartalmi elemei
+Az Országos Hulladékgazdálkodási Közszolgáltatási Terv szerkezeti felépítése és tartalmi elemei
 
 1. Az OHKT szerkezeti felépítése.
 
@@ -32,4 +32,4 @@
 
 2.4.2. A közszolgáltatói alvállalkozó tevékenységének megfelelésére vonatkozó feltételek.
 
-[^8]: A 2. melléklet a 768/2021. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^10]: A 2. melléklet a 768/2021. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
