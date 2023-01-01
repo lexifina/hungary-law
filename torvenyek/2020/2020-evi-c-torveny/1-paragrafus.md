@@ -36,4 +36,4 @@ a jogszabályban meghatározott esetekben.
 
 (11) Az Mt. XIII. és XIV. fejezetét az Eütev.-ben meghatározott eltérésekkel kell alkalmazni.
 
-(12) Az Mt. XVI. Fejezetét azzal az eltéréssel kell alkalmazni, hogy egészségügyi szolgáltató alaptevékenysége körében nem foglalkoztatható munkaerő-kölcsönzés keretében kölcsönzött munkavállaló. Ha az egészségügyi szolgáltató alaptevékenysége szerinti feladat ellátása más módon nem biztosítható, az országos kórház-főigazgató előzetes engedélyével foglalkoztatható munkaerő-kölcsönzés keretében kölcsönzött munkavállaló az egészségügyi szolgáltatónál. Az engedélyezés eljárásrendjét az országos kórház-főigazgató állapítja meg.
+(12) Az Mt. XVI. Fejezetét azzal az eltéréssel kell alkalmazni, hogy egészségügyi szolgáltató alaptevékenysége körében nem foglalkoztatható munkaerő-kölcsönzés keretében kölcsönzött munkavállaló.

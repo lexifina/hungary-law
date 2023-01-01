@@ -43,3 +43,5 @@ pótszabadság illeti meg.
 (12) A munkáltató – ha a kutatónak a kutatás-fejlesztési munka eredménye hasznosításában érdekelt vállalkozásnál történő munkavégzéséhez előzetesen hozzájárult – a kutatóval kötött megállapodás alapján az egészségügyi szolgálati jogviszonyban álló személy számára a megállapodásban meghatározott időtartamra fizetés nélküli szabadságot engedélyez.
 
 (13) A szabadság nem halmozódhat. A szabadságot pénzben megváltani – a jogviszony megszűnésének kivételével – nem lehet.
+
+(14) Az (1)–(2) bekezdésben foglaltakon túl az egészségügyi szolgálati jogviszonyban álló egészségügyi dolgozót megilleti az Mt. 118–120. §-a szerinti szabadság.
