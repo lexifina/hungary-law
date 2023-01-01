@@ -10,7 +10,7 @@ c) az elégedettségmérési modulban anonim módon megadott,
 
 d) a Helyi versenyképesség-fejlesztési kutatási programban (KÖFOP-2.3.3-VEKOP-16-2016-00001) keletkezett elégedettségmérési
 
-## adatok.
+adatok.
 
 (2) Az IKIR működtetésének biztosításához a forrásrendszerek az 1. mellékletben meghatározott közérdekű vagy közérdekből nyilvános adatokat rendszeresen szolgáltatják.
 

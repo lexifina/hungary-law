@@ -1,5 +1,3 @@
-## Az IKIR adattárház forrásai és adatkörei
-
 |  | A | B |
 
 |  | Forrásrendszer | Adatkör |
@@ -32,12 +30,13 @@
 
 | 14. | Helységnévtár | A rendszerben kezelt összes adatkör |
 
-| 15. | Személyiadat- és lakcímnyilvántartás | A rendszerben kezelt alábbi statisztikai adatok/aggregátumok: a) Magyarország állandó lakossága településenként, születési évenként, nemek szerinti bontásban, és összesítve is; b) Magyarország lakónépessége településenként, születési évenként, nemek szerinti bontásban, és összesítve is; c) Magyarország 0–17 éves állandó lakossága születési hónaponként, megyénként, járási hivatalonként, településenkénti bontásban; d) Magyarország lakosságának speciális statisztikái lakóhely (település, irányítószám), születési idő, nem, előfordulás darabszáma adattartalommal, valamint tartózkodási hely (település, irányítószám), születési idő, nem, előfordulás darabszáma adattartalommal. |
+| 15. | Személyiadat- és lakcímnyilvántartás | A rendszerben kezelt alábbi statisztikai adatok/aggregátumok: a) Magyarország állandó lakossága településenként, születési évenként, nemek szerinti bontásban, és összesítve is; b) Magyarország lakónépessége településenként, születési évenként, nemek szerinti bontásban, és összesítve is; c) Magyarország 0–17 éves állandó lakossága születési hónaponként, vármegyénként, járási hivatalonként, településenkénti bontásban; d) Magyarország lakosságának speciális statisztikái lakóhely (település, irányítószám), születési idő, nem, előfordulás darabszáma adattartalommal, valamint tartózkodási hely (település, irányítószám), születési idő, nem, előfordulás darabszáma adattartalommal.[^3] |
 
 | 16. | IKVA | A rendszerben kezelt alábbi adatkör: Víziközműadatok |
 
 | 17. | KÖFOP-2.3.3-VEKOP-16 „Helyi versenyképesség-fejlesztési kutatási program” projekt | A helyi közszolgáltatásokkal kapcsolatos elégedettségmérési adatok |
 
-2. melléklet a 73/2018. (IV. 20.) Korm. rendelethez[^3]
+2. melléklet a 73/2018. (IV. 20.) Korm. rendelethez[^4]
 
-[^3]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. mellékletben foglalt táblázat B:15 mezője a 616/2022. (XII. 29.) Korm. rendelet 288. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
