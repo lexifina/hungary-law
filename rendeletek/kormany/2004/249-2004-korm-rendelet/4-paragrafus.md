@@ -14,7 +14,7 @@ f) a hiba leírását,
 
 g)[^14] a (4) bekezdés szerinti eset kivételével a jótállási igény rendezésének módját vagy az igény, illetve az az alapján érvényesíteni kívánt jog elutasítása esetén annak indokát, továbbá
 
-h)[^15] az arról szóló tájékoztatást, hogy fogyasztói jogvita esetén a fogyasztó a megyei (fővárosi) kereskedelmi és iparkamarák által működtetett békéltető testület eljárását is kezdeményezheti.
+h)[^15] az arról szóló tájékoztatást, hogy fogyasztói jogvita esetén a fogyasztó a vármegyei (fővárosi) kereskedelmi és iparkamarák által működtetett békéltető testület eljárását is kezdeményezheti.
 
 (2)[^16] Ha a jótállási igény rendezésének módja a fogyasztó igényétől eltér, ennek indokolását a jegyzőkönyvben meg kell adni.
 
@@ -30,7 +30,7 @@ h)[^15] az arról szóló tájékoztatást, hogy fogyasztói jogvita esetén a f
 [^12]: A 4. § (1) bekezdés a) pontja az 531/2022. (XII. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^13]: A 4. § (1) bekezdés c) pontja a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés d) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^14]: A 4. § (1) bekezdés g) pontja a 97/2014. (III. 25.) Korm. rendelet 3. § (8) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
-[^15]: A 4. § (1) bekezdés h) pontját a 97/2014. (III. 25.) Korm. rendelet 3. § (9) bekezdése iktatta be, szövege a 270/2020. (VI. 12.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^15]: A 4. § (1) bekezdés h) pontját a 97/2014. (III. 25.) Korm. rendelet 3. § (9) bekezdése iktatta be, szövege a 270/2020. (VI. 12.) Korm. rendelet 8. §-a, a 616/2022. (XII. 29.) Korm. rendelet 55. §-a szerint módosított szöveg.
 [^16]: A 4. § (2) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (13) bekezdés e) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^17]: A 4. § (3) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (10) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^18]: A 4. § (4) bekezdése a 97/2014. (III. 25.) Korm. rendelet 3. § (10) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
