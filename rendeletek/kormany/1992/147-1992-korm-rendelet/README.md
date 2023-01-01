@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-147-20-
 | 2020-03-01 | 1992-147-20-22.15 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2020-07-31 | 1992-147-20-22.16 | 48/2001. (III. 27.) Korm. rendelet |
 | 2021-07-16 | 1992-147-20-22.17 | 48/2001. (III. 27.) Korm. rendelet |
+| 2023-01-01 | 1992-147-20-22.18 | 360/2019. (XII. 30.) Korm. rendelet |

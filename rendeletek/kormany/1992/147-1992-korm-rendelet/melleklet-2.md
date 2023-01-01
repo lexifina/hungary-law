@@ -10,7 +10,11 @@
 
 | Az ingatlan címe: |  | Jogi rendezettsége: |
 
+## M12190_1
+
 | Önkormányzati Ingatlanvagyon - Kataszter |
+
+## M12190_2
 
 | Az tulajdonos önkormányzat adatai |
 
@@ -22,9 +26,13 @@
 
 | Ingatlanjelleg azonosítója: | ⬜⬜⬜⬜⬜- ⬜⬜⬜⬜ |
 
+## M12190_5
+
 | Csatolt betétlapok jegyzéke: |
 
 ## A jelen - fenti ingatlan azonosítóval jelölt - Ingatlanvagyon-Kataszter, az alábbi, kitöltött adatlapokból áll:
+
+## M12190_6
 
 | Betétlap megnevezése | száma(db) |  | Betétlap megnevezése | száma (db) |
 
@@ -70,39 +78,19 @@
 
 ## Ingatlan „I”
 
+## 6M01179M_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Ingatlan "I" | I |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
 
+## 6M01179M_1
+
 |  | Jogi rendezettsége: ⬜ |
 
-| Ingatlan-nyilvántartási alapadatok |
+## 2X11126M.pdf
 
-| I 01 | Az ingatlan megnevezése |  |  |
-
-| I 02 | Az ingatlan címe: | Főváros, megye ⬜⬜ Kerület ⬜⬜ |  |
-
-| I 03 | Helység azonosító törzsszáma: | ⬜⬜⬜⬜ neve: |  |
-
-| I 04 | Út, utca, házszám: | ⬜⬜⬜−⬜⬜⬜ |  |
-
-| I 05 | Út, utca házszám: | ⬜⬜⬜−⬜⬜⬜ |  |
-
-| I 06 | Az ingatlan országa | ⬜ |  |
-
-| I 07 | Az ingatlan fekvése: | ⬜ |  |
-
-| I 08 | A földrészlet nagysága: | ha: ⬜⬜⬜⬜⬜⬜ m2: ⬜⬜⬜⬜ |  |
-
-| I 09 | A földrészlet tulajdonjoga: | ⬜ |  |
-
-| I 10 | A vagyon jellege: | ⬜ |  |
-
-| I 11 | Az ingatlan forgalomképessége: | ⬜ |  |
-
-| I 12 | A területen lévő épületek, építmények: | db: ⬜⬜⬜⬜ |  |
-
-| I 13 | Kulturális örökségvédelmi és természet- védelmi védettség: | ⬜ |  |
+## 6M01179M_3
 
 | Tulajdoni adatok |
 
@@ -111,6 +99,8 @@
 | I 15 | A tulajdonba kerülés időpontja: | év: ⬜⬜⬜⬜ hó: ⬜⬜ nap: ⬜⬜ |  |
 
 | I 16 | A tulajdoni hányad jelzése: | ⬜/⬜ |  |
+
+## 6M01179M_4
 
 | Ingatlanra bejegyzett jogok és tények |
 
@@ -134,9 +124,13 @@
 
 | I 26 | ⬜⬜/⬜⬜⬜⬜ |  |
 
+## 6M01179M_5
+
 | Önkormányzati Ingatlanvagyon-kataszter: Ingatlan "I" | I |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## 6M01179M_6
 
 | Résztulajdoni adatok |
 
@@ -171,6 +165,8 @@
 |  |  | kizárólagos tulajdona: | m2: ⬜⬜⬜⬜⬜ |  |
 
 |  |  | tulajdoni hányada | ⬜⬜⬜⬜⬜/⬜⬜⬜⬜⬜ |  |
+
+## 6M01179M_7
 
 | Kezelői, szolgáltatói adatok |
 
@@ -208,9 +204,13 @@
 
 ## Földterület „F”
 
+## M12194_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Földterület "F" | F |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12194_1
 
 | A földterület alapadatai |
 
@@ -234,6 +234,8 @@
 
 | F 10 | OTÉK, fővárosi és helyi rendelet szerinti építési övezet |  |  |
 
+## M12194_3
+
 | A földterület közművesítettsége |
 
 | F 11 | Villany ellátottság: | ⬜ |  |
@@ -247,6 +249,8 @@
 | F 15 | Tüzivíz vezeték: | ⬜ |  |
 
 | F 16 | Gáz ellátás: | ⬜ |  |
+
+## M12194_5
 
 | A földterület értékadatai |
 
@@ -272,9 +276,13 @@
 
 ## Zöldterület „Z”
 
+## M12195_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Zöldterület "Z" | Z |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12195_1
 
 | A közhasználatú zöldterületre vonatkozó alapadatai |
 
@@ -296,6 +304,8 @@
 
 | Z 09 |  | Gondozatlan terület: | ha:⬜⬜⬜m2 ⬜⬜⬜⬜ |  |
 
+## M12195_3
+
 | Építményekre vonatkozó adatok |
 
 | Z 10 | Szilárd burkolatú út-tér-sétány: | m2 ⬜⬜⬜⬜⬜⬜ |  |
@@ -311,6 +321,8 @@
 | Z 15 | WC: | db ⬜ |  |
 
 | Z 16 | Öntöző hálózattal ellátott | ⬜ |  |
+
+## M12195_5
 
 | A zöldterület értékadatai |
 
@@ -336,9 +348,13 @@
 
 ## Vizek, vizilétesítmények „V”
 
+## M12196_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Vizek, vizilétesítmények "V" | V |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12196_1
 
 | A közcélú vizek alapadatai |
 
@@ -359,6 +375,8 @@
 | V 08 |  | - max. vízfelülete: | ha:⬜⬜⬜⬜⬜⬜m2: ⬜⬜⬜⬜ |  |
 
 | V 09 |  | - max. térfogata | m3 :⬜⬜⬜⬜⬜⬜ |  |
+
+## M12196_3
 
 | Közcélú vizilétesítmények |
 
@@ -388,9 +406,13 @@
 
 | V 22 | Egyéb létesítmény: | db:⬜⬜⬜ |  |
 
+## M12196_5
+
 | Önkormányzati Ingatlanvagyon-kataszter: Vizek, vizilétesítmények "V" | V |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12196_6
 
 | A vizek, vizilétesítmények értékadatai |
 
@@ -418,6 +440,8 @@
 
 | V 25 | Állagmutató | ⬜ |  | ⬜⬜⬜ |
 
+## M12196_8
+
 | Egyéb helyrajzi számok |
 
 | V 25 | ⬜⬜⬜⬜⬜⬜/⬜⬜⬜ | V 24 | ⬜⬜⬜⬜⬜⬜/⬜⬜⬜ |  |
@@ -436,9 +460,13 @@
 
 ## Közlekedési terület „U1”
 
+## M12198_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Közlekedési terület "U1" | U1 |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12198_1
 
 | A közlekedési terület alapadatai |
 
@@ -492,9 +520,13 @@
 
 | U 25 | - teljes terület | m2: ⬜⬜⬜⬜⬜⬜,⬜ |  |
 
+## M12198_3
+
 | Önkormányzati Ingatlanvagyon-kataszter: Közlekedési terület "U1" | U1 |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12198_4
 
 | A közlekedési terület alapadatai |
 
@@ -562,9 +594,13 @@
 
 ## Közlekedési terület „U2”
 
+## M12200_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Közlekedési terület "U2" | U2 |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12200_1
 
 | A közlekedési terület alapadatai |
 
@@ -572,15 +608,15 @@
 
 | U 02 | Rendeltetés, útkategória: | ⬜⬜⬜⬜⬜ |  |
 
-| U 04.1 | Kiépített hossz U1 lap 07 sor 1.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
+| U 04.1 | Kiépített hossz U1lap 07 sor 1.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
 
-| U 04.2 | Kiépített hossz. U1 lap 07 sor 2.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
+| U 04.2 | Kiépített hossz. U1lap 07 sor 2.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
 
-| U 04.3 | Kiépített hossz. U1 lap 07 sor 3.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
+| U 04.3 | Kiépített hossz. U1lap 07 sor 3.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
 
-| U 04.4 | Kiépített hossz. U1 lap 07 sor 4.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
+| U 04.4 | Kiépített hossz. U1lap 07 sor 4.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
 
-| U 04.5 | Kiépített hossz. U1 lap 07 sor 5.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
+| U 04.5 | Kiépített hossz. U1lap 07 sor 5.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
 
 | U 04 | Kiépített hossz összesen (U.04.1-U 04.5) | km: ⬜⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
 
@@ -598,19 +634,19 @@
 
 | U 13 | Közvilágítás | %: ⬜⬜⬜,⬜ |  |
 
-| U 15.1 | Víztelenítés hossza U1 lap 14.sor 1.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
+| U 15.1 | Víztelenítés hossza U1lap 14.sor 1.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
 
-| U 15.2 | Víztelenítés hossza U1 lap 14.sor 2.kód szerint | km: ⬜⬜⬜⬜⬜⬜⬜,⬜⬜ |  |
+| U 15.2 | Víztelenítés hossza U1lap 14.sor 2.kód szerint | km: ⬜⬜⬜⬜⬜⬜⬜,⬜⬜ |  |
 
-| U 15.3 | Víztelenítés hossza U1 lap 14.sor 3.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
+| U 15.3 | Víztelenítés hossza U1lap 14.sor 3.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
 
-| U 15.4 | Víztelenítés hossza U1 lap 14.sor 4.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
+| U 15.4 | Víztelenítés hossza U1lap 14.sor 4.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
 
-| U 15.5 | Víztelenítés hossza U1 lap 14.sor 5.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
+| U 15.5 | Víztelenítés hossza U1lap 14.sor 5.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
 
-| U 15.6 | Víztelenítés hossza U1 lap 14.sor 6.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
+| U 15.6 | Víztelenítés hossza U1lap 14.sor 6.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
 
-| U 15.7 | Víztelenítés hossza U1 lap 14.sor 7.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
+| U 15.7 | Víztelenítés hossza U1lap 14.sor 7.kód szerint | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
 
 | U 15 | Víztelenítés hossza összesen (15.1-15.7) | km: ⬜⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
 
@@ -622,11 +658,17 @@
 
 | U 19 | - területe | m2: ⬜⬜⬜⬜,⬜ |  |
 
+## M12200_3
+
 | Önkormányzati Ingatlanvagyon-kataszter: Közlekedési terület "U2" | U2 |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
 
+## M12200_4
+
 | A közlekedési terület alapadatai |
+
+## M12200_5
 
 | U 20 | Járda, gyalogút - kiépített hossza | km: ⬜⬜⬜⬜⬜⬜,⬜⬜⬜ |  |
 
@@ -658,6 +700,8 @@
 
 | U 28 | Állagmutató | ⬜ |  | ⬜⬜⬜ |
 
+## M12200_6
+
 | Egyéb helyrajzi számok |
 
 | U 28 | ⬜⬜⬜⬜⬜⬜/⬜⬜⬜ | U 29 | ⬜⬜⬜⬜⬜⬜/⬜⬜⬜ |
@@ -674,9 +718,13 @@
 
 ## Köztemető „T”
 
+## M12202_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Köztemető "T" | T |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12202_1
 
 | A köztemetőre vonatkozó alapadatok |
 
@@ -685,6 +733,8 @@
 | T 02 | A temető - jellege: | ⬜ |  |
 
 | T 03 | - használat szerint | ⬜ |  |
+
+## M12202_3
 
 | Temető: építmények |
 
@@ -707,6 +757,8 @@
 | T 12 | Vízvételi lehetőség | ⬜ |  |
 
 | T 13 | Közvilágítás | ⬜ |  |
+
+## M12202_5
 
 | Temető: építmények |
 
@@ -734,9 +786,13 @@
 
 ## Lakóépület „E”
 
+## M12203_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Lakóépület "E" | E |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12203_1
 
 |  | Jogi rendezettsége: ⬜ |
 
@@ -808,6 +864,8 @@
 
 |  | Egyéb megjegyzések: |  |
 
+## M12203_2
+
 | Önkormányzati Ingatlanvagyon-kataszter: Lakóépület "E" | E |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
@@ -844,13 +902,19 @@
 
 ## Intézmény, nem lakás célú épület „N”
 
+## M12205_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Intézmény, nem lakás célú épület "N" | N |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
 
+## M12205_1
+
 |  | Jogi rendezettsége: ⬜ |
 
 | Intézmény vagy nem lakás célú épület alapadatai |
+
+## M12205_2
 
 | N01 | Az épület funkció szerinti megnevezése: | ⬜⬜⬜⬜⬜ |  |
 
@@ -906,9 +970,13 @@
 
 | N18 |  | forgalomképessége | ⬜ |  |
 
+## M12205_3
+
 | Önkormányzati Ingatlanvagyon-kataszter: Intézmény, nem lakás célú épület "N" | N |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12205_4
 
 | Az épület műszaki adatai |
 
@@ -942,6 +1010,8 @@
 
 | N32 | Akadálymentességi követelményeknek való megfelelőség | ⬜ |  |
 
+## M12205_6
+
 | Az intézmény értékadatai |
 
 |  | Megnevezés | év | értékváltozás e Ft( + -) | bruttó érték egyenlege e Ft |
@@ -968,13 +1038,19 @@
 
 ## Üzemi épület „R”
 
+## M12207_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Üzemi épület "R" | R |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
 
+## M12207_1
+
 |  | Jogi rendezettsége: ⬜ |
 
 | Az üzemi épület alapadatai |
+
+## M12207_2
 
 | R 01 | Rendeltetése | ⬜⬜⬜⬜⬜ |  |
 
@@ -1038,9 +1114,13 @@
 
 ## Melléképületek-, építmények „D”
 
+## M12208_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Melléképületek-,építmények "D" | D |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12208_1
 
 | Melléképületek-, építmények jellemző alapadatai |
 
@@ -1068,6 +1148,8 @@
 
 |  | Egyéb megjegyzések: |  |  |
 
+## M12208_3
+
 | Melléképületek, építmények értékadatai |
 
 |  | Megnevezés | év | értékváltozás e Ft( + -) | bruttó érték egyenlege eFt |
@@ -1088,9 +1170,13 @@
 
 ## Közmű, víz-csatorna „K”
 
+## M12209_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Közmű, víz-csatorna "K" | K |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12209_1
 
 | Közműves vízellátás alapadatai |
 
@@ -1156,9 +1242,13 @@
 
 | K 27 | Állagmutató | ⬜ |  | ⬜⬜⬜ |
 
+## M12209_4
+
 | Önkormányzati Ingatlanvagyon-kataszter: Közmű, víz-csatorna "K" | K |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12209_5
 
 | Közműves szennyvízcsatorna alapadatai |
 
@@ -1192,6 +1282,8 @@
 
 | K42 |  | bekötések száma: | db: ⬜⬜⬜⬜⬜⬜ |  |
 
+## M12209_7
+
 | Szennyvíz csatorna értékadatai |
 
 |  | Megnevezés | év | értékváltozás e Ft( + -) | bruttó érték egyenlege eFt |
@@ -1212,9 +1304,13 @@
 
 ## Közmű, távfűtés „H”
 
+## M12211_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Közmű, távfűtés "H" | H |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12211_1
 
 | A távfűtés alapadatai |
 
@@ -1252,6 +1348,8 @@
 
 | H 17 | Bekötővezeték hossza: | fm: ⬜⬜⬜⬜⬜ |  |
 
+## M12211_3
+
 | A távfűtés értékadatai |
 
 |  | Megnevezés | év | értékváltozás e Ft( + -) | bruttó érték egyenlege eFt |
@@ -1274,9 +1372,13 @@
 
 ## Strand, Fürdő „S”
 
+## M12212_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Strand, Fürdő "S" | S |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12212_1
 
 | Strand, fürdő, uszoda alapadatai |
 
@@ -1304,6 +1406,8 @@
 
 | S 12 |  | térfogata: | m3: ⬜⬜⬜⬜⬜ |  |
 
+## M12212_3
+
 | Strand, fürdő, uszoda értékadatai |
 
 |  | Megnevezés | év | értékváltozás e Ft( + -) | bruttó érték egyenlege eFt |
@@ -1326,9 +1430,13 @@
 
 ## Sportlétesítmények „O”
 
+## M12213_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Sportlétesítmények „O” | O |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12213_1
 
 | A sportlétesítmények alapadatai |
 
@@ -1378,9 +1486,13 @@
 
 ## Közlekedési műtárgyak „Y”
 
+## M12214_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Közlekedési műtárgyak "Y" | Y |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12214_1
 
 | Közlekedési műtárgyak alapadatai |
 
@@ -1422,6 +1534,8 @@
 
 | Y19 | Műtárgy felszerkezet anyaga | ⬜ |  |
 
+## M12214_3
+
 | A közlekedési műtárgyak értékadatai |
 
 |  | Megnevezés | év | értékváltozás e Ft( + -) | bruttó érték egyenlege eFt |
@@ -1442,9 +1556,13 @@
 
 ## Egyéb építmény „P”
 
+## M12215_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Egyéb építmény "P" | P |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12215_1
 
 | Egyéb építmény alapadatai |
 
@@ -1510,9 +1628,13 @@
 
 ## Lakás „L”
 
+## M12216_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Lakás "L" | L |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12216_1
 
 |  | Jogi rendezettsége: ⬜ |
 
@@ -1578,9 +1700,13 @@
 
 | L 41 | A lakás hasznos alapterülete: |  |  | m2: ⬜⬜⬜,⬜⬜ |  |
 
+## M12216_4
+
 | Önkormányzati Ingatlanvagyon-kataszter: Lakás "L" | L |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12216_5
 
 | A lakás értékadatai |
 
@@ -1606,9 +1732,13 @@
 
 ## Nem lakás célú helyiség „B”
 
+## M12218_0
+
 | Önkormányzati Ingatlanvagyon-kataszter: Nem lakás célú helyiség "B" | B |
 
 | lapszám: ⬜⬜⬜⬜ Ingatlanjelleg: ⬜⬜⬜⬜⬜−⬜⬜⬜⬜ Helyrajzi szám: ⬜⬜⬜⬜⬜⬜/⬜⬜⬜/⬜/⬜⬜⬜ |
+
+## M12218_1
 
 |  | Jogi rendezettsége: ⬜ |
 
@@ -1648,6 +1778,8 @@
 
 | B 17 | Melegvíz ellátottság: | ⬜ |  |
 
+## M12218_3
+
 | A nem lakás célú helyiség értékadatai |
 
 |  | Megnevezés | év | értékváltozás e Ft( + -) | bruttó érték egyenlege eFt |
@@ -1667,6 +1799,8 @@
 ## Az önkormányzati ingatlanvagyon-kataszter
 
 ## Módosító adatlap „M”
+
+## M12219_0
 
 | Önkormányzati Ingatlanvagyon-kataszter: Módosító adatlap "M" | M |
 
@@ -1729,4 +1863,4 @@
 2. számú melléklet a 147/1992. (XI. 6.) Korm. rendelethez[^10]
 
 [^9]: A 48/2001. (III. 27.) Korm. rendelet 3. §-ának (3) bekezdése alapján a helyi önkormányzatok kötelesek 2003. január 1-jéig ingatlanaikat értékelni, és az 1. számú mellékletben szerepeltetni.
-[^10]: A 2. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^10]: A 2. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.

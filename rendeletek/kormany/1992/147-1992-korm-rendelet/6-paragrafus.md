@@ -2,9 +2,7 @@
 
 ## A helyi önkormányzatok az Országos Statisztikai Adatgyűjtési Program alapján a kataszterből adatokat szolgáltatnak – a Magyar Államkincstár területi szervei útján – a Központi Statisztikai Hivatal, valamint törvényben vagy kormányrendeletben felhatalmazott állami szerv részére.
 
-## 6. §
-
-(1)[^6] Ez a rendelet 1993. január 1. napján lép hatályba.
+6. § (1)[^6] Ez a rendelet 1993. január 1. napján lép hatályba.
 
 (2)[^7]
 

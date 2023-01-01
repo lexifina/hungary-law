@@ -142,7 +142,7 @@
 
 ## 1. sor: Az ingatlan konkrétan használt neve, illetőleg használati funkciójából adódó megnevezése (pl. lakóépület, Kossuth Gimnázium).
 
-## 2-5. sorok: Ha egy ingatlannak több címe (bejárata) van, akkor a fő címet (út, utca, köz, sor, tér stb. nevet) kell bejegyezni a 4. sorba. Az 5. sorba a második cím kerül. A házszámra vonatkozóan tól-ig értéket tartalmaznak a sorok, hogy ha egy épület több lépcsőházzal rendelkezik, a postai cím szerint beírhatóvá váljon. A főváros, megye kódja a kódjegyzékben szerepel. Helységazonosító törzsszámként a KSH kódszámát kell beírni. A főváros, megye és a helységazonosító kódot külföldi ingatlan esetében nem szabad kitölteni.
+## 2-5. sorok: Ha egy ingatlannak több címe (bejárata) van, akkor a fő címet (út, utca, köz, sor, tér stb. nevet) kell bejegyezni a 4. sorba. Az 5. sorba a második cím kerül. A házszámra vonatkozóan tól-ig értéket tartalmaznak a sorok, hogy ha egy épület több lépcsőházzal rendelkezik, a postai cím szerint beírhatóvá váljon. A főváros, vármegye kódja a kódjegyzékben szerepel. Helységazonosító törzsszámként a KSH kódszámát kell beírni. A főváros, vármegye és a helységazonosító kódot külföldi ingatlan esetében nem szabad kitölteni.
 
 ## 6. sor: A kódjegyzék alapján töltendő ki, és az ország nevét a kód elé kell írni.
 
@@ -766,7 +766,7 @@
 
 3. számú melléklet a 147/1992. (XI. 6.) Korm. rendelethez[^11]
 
-## Kódjegyzék az önkormányzati ingatlanvagyon-kataszterhez
+Kódjegyzék az önkormányzati ingatlanvagyon-kataszterhez
 
 ,,I'' Ingatlan
 
