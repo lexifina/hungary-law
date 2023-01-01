@@ -1,3 +1,7 @@
-15. §[^18]
+15. § A KKM rendelet
 
-[^18]: A 15. § a 17. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 1. mellékletében foglalt táblázat címében a „2022.” szövegrész helyébe a „2023.” szöveg,
+
+b) 4. mellékletében foglalt táblázat címében a „2022.” szövegrész helyébe a „2023.” szöveg
+
+lép.
