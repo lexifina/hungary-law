@@ -1,3 +1,5 @@
+## 5K07635_0
+
 | Iktatószám: |  |
 
 | BALESETI JEGYZŐKÖNYV |
@@ -116,6 +118,8 @@
 
 | A baleset során megsérült személyek száma: |  |
 
+## 5K07635_2
+
 | A baleset részletes, pontos leírása: |
 
 | Az alapellátó orvos tölti ki |
@@ -138,6 +142,8 @@
 
 | Milyen munkavédelmi vagy más előírást szegtek meg: | Hasonló balesetek megelőzéséhez szükséges intézkedések, a végrehajtás határideje, felelőse: |
 
+## 5K07635_3
+
 | Egyéb adatok: (Tanúk, balesetért felelős személyek, elhalálozás esetén a hozzátartozó adatai, elhalálozás időpontja, stb.) |
 
 | A jegyzőkönyvet készítették: | Kelt: |
@@ -158,8 +164,10 @@
 
 | sérült (hozzátartozó) |  |
 
-6. melléklet a 23/2013. (VI. 11.) BM rendelethez
+6. melléklet a 23/2013. (VI. 11.) BM rendelethez[^14]
 
-## KITÖLTÉSI ÚTMUTATÓ A BALESETI JEGYZŐKÖNYVHÖZ
+KITÖLTÉSI ÚTMUTATÓ A BALESETI JEGYZŐKÖNYVHÖZ
 
 A nyomtatvány valamennyi, szöveges rovatát számítógéppel vagy nyomtatott betűvel kell kitölteni. A kódnégyzetekbe (a továbbiakban: négyzet) – a kivizsgálás tényeinek megfelelő – kódszámot (a továbbiakban: szám) kell beírni.
+
+[^14]: A 6. melléklet cím szövege a 45/2022. (XII. 20.) BM rendelet 72. § b) pontja szerint módosított szöveg.

@@ -38,6 +38,6 @@ mb) kiképzési terv, napirend szerint előírt gyakorlati foglalkozásokon, a f
 
 mc) az Országgyűlési Őrség tömegkapcsolatainak erősítése céljából az Országgyűlési Őrség által szervezett sportversenyeken, speciális rendezvényeken, bemutatókon
 
-## érte,
+érte,
 
 n) szolgálati kötelmekkel összefüggő betegség: az Országgyűlési Őrség hivatásos állománya tagjának az Mvt.-ben meghatározott foglalkozási megbetegedése.

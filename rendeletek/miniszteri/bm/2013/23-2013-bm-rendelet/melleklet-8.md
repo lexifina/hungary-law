@@ -1,5 +1,3 @@
-## Bejelentendő foglalkozási megbetegedések jegyzéke
-
 | EU kód | Kód |  |
 
 | 1 |  | A) KÉMIAI KÓROKI TÉNYEZŐK |
@@ -296,9 +294,9 @@
 
 |  | D17 | A munkavégzéssel vagy a munkakörnyezettel kapcsolatos egyéb betegségek |
 
-8. melléklet a 23/2013. (VI. 11.) BM rendelethez[^12]
+8. melléklet a 23/2013. (VI. 11.) BM rendelethez[^18]
 
-## Bejelentés foglalkozási megbetegedésről (mérgezésről), fokozott expozícióról
+Bejelentés foglalkozási megbetegedésről (mérgezésről), fokozott expozícióról
 
 | Érintett szerv megnevezése: Országgyűlési Őrség |
 
@@ -414,7 +412,7 @@
 
 | aláírás |
 
-Kódlista és kitöltési utasítás a bejelentéshez
+## Kódlista és kitöltési utasítás a bejelentéshez
 
 1. A bejelentést az Országgyűlési Őrség munkavédelmi feladatai és foglalkozás-egészségügyi tevékenysége ellátásának szabályairól szóló 23/2013. (VI. 11.) BM rendelet 7. mellékletében szereplő jegyzék alapján kell kitölteni.
 
@@ -432,4 +430,4 @@ a 8–10. számjegy a bejelentő orvos által adott sorszám
 
 (KSH, FEOR-08)
 
-[^12]: A 8. melléklet a 16/2015. (IV. 17.) BM rendelet 12. §-a szerint módosított szöveg.
+[^18]: A 8. melléklet a 16/2015. (IV. 17.) BM rendelet 12. §-a szerint módosított szöveg.

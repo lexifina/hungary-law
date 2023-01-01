@@ -108,7 +108,7 @@
 
 3. melléklet a 23/2013. (VI. 11.) BM rendelethez
 
-## A tervezett létesítmény, épület engedélyezési tervéhez mellékelendő munkavédelmi biztonsági terv tartalmi elemei
+A tervezett létesítmény, épület engedélyezési tervéhez mellékelendő munkavédelmi biztonsági terv tartalmi elemei
 
 1. A létesítmény, épület:
 

@@ -1,8 +1,6 @@
-## 33. §[^7]
-
 1. melléklet a 23/2013. (VI. 11.) BM rendelethez
 
-## A munkavédelmi szabályzat kötelező tartalmi elemei
+A munkavédelmi szabályzat kötelező tartalmi elemei
 
 I. Fejezet – Általános rendelkezések
 
@@ -125,5 +123,3 @@ X. Fejezet – A munkavédelmi eljárások rendje
 XI. Fejezet – A munka-egészségügyi feladatok ellátásának rendje
 
 XII. Fejezet – A munkavédelmi érdekképviselet
-
-[^7]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
