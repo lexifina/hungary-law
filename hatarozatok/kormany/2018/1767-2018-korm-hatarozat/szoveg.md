@@ -24,14 +24,12 @@ Felelős: pénzügyminiszter
 
 Határidő: a felmerülés ütemében
 
-4. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva – 2019. január 1-jei fordulónappal – elrendeli a központi költségvetés 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 28. Üldözött keresztények segítésének feladatai jogcímcsoporton belül a 3. Hungary Helps Program jogcím létrehozását;
-
-Felelős: pénzügyminiszter
-
-Határidő: 2019. január 5.
+4.[^1]
 
 5. felhívja a Miniszterelnökséget vezető minisztert, hogy a Program működtetéséhez szükséges stratégiát és belső szabályzatokat dolgozza ki.
 
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a társaság megalapítását követően azonnal
+
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
