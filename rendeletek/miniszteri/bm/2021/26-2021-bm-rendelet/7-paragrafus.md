@@ -6,7 +6,7 @@ b) tiszti besorolási osztályba tartozó szolgálati beosztást betöltő tagj�
 
 c) tiszthelyettesi besorolási osztályba tartozó szolgálati beosztást betöltő tagjának legalább 4 továbbképzési pont értékben
 
-## rendel el központi továbbképzést az Országgyűlési Őrség parancsnoka.
+rendel el központi továbbképzést az Országgyűlési Őrség parancsnoka.
 
 (2) A részére meghatározott központi továbbképzésen a hivatásos állomány tagja köteles részt venni.
 

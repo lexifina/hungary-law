@@ -1,6 +1,6 @@
 1. melléklet a 26/2021. (VIII. 9.) BM rendelethez
 
-## A rendfokozati vizsga követelményrendszere
+A rendfokozati vizsga követelményrendszere
 
 1. A rendfokozati vizsga rendszere
 

@@ -14,7 +14,7 @@ da) valamennyi tagja vagy
 
 db) meghatározott rendfokozati állománycsoportba tartozó valamennyi tagja
 
-## részére egységes felkészítést biztosít,
+részére egységes felkészítést biztosít,
 
 e) minősített továbbképzési program: a belügyminiszter irányítása alá tartozó szervek hivatásos állományú tagjainak továbbképzési és vezetőképzési rendszeréről, valamint a rendészeti utánpótlási és vezetői adatbankról szóló 2/2013. (I. 30.) BM rendelet (a továbbiakban: R.) 1. § 9. pontja szerinti továbbképzési program, amely alapján folyó továbbképzési tevékenység a képzés kivitelezésén túl magában foglalja a képzésszervezési feladatok ellátását, valamint az oktatáshoz szükséges személyi és tárgyi feltételek biztosítását is,
 

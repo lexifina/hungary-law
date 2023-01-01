@@ -6,7 +6,7 @@ a) általános részi és
 
 b) – az Országgyűlési Őrség parancsnoka által kiadott – különös részi
 
-## követelményrendszeren alapuló felkészítő tananyag és vizsgakérdéssor alapján teljesíti.
+követelményrendszeren alapuló felkészítő tananyag és vizsgakérdéssor alapján teljesíti.
 
 (2) A rendfokozati vizsga
 
@@ -14,7 +14,7 @@ a) tiszthelyettesi és zászlósi rendfokozati vizsga esetében különös rész
 
 b) tiszti és főtiszti rendfokozati vizsga esetében általános és különös részből
 
-## áll.
+áll.
 
 (3) A rendfokozati vizsgával kapcsolatos részletes szabályokat az 1. melléklet tartalmazza.
 
@@ -25,3 +25,5 @@ b) tiszti és főtiszti rendfokozati vizsga esetében általános és különös
 a) az Országgyűlési Őrséghez kötődő általános ismereteket, valamint
 
 b) az egyes szolgálati beosztásokhoz kötődő szakmaspecifikus ismereteket
+
+tartalmazzák.

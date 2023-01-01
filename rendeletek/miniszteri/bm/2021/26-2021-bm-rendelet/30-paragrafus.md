@@ -7,3 +7,5 @@ b) zászlósi, törzszászlósi vagy főtörzszászlósi rendfokozatba történ�
 c) főhadnagyi vagy századosi rendfokozatba történő előléptetés esetén tiszti,
 
 d) őrnagyi vagy alezredesi rendfokozatba történő előléptetés esetén főtiszti
+
+rendfokozati vizsga teljesítésére köteles.

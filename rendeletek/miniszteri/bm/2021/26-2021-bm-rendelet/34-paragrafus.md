@@ -1,5 +1,3 @@
-## tartalmazzák.
-
 34. § (1) A rendfokozati vizsga különös részi követelményrendszerét, az általános és a különös részi követelményrendszereken alapuló felkészítő tananyagot és vizsgakérdéssort az Országgyűlési Őrség parancsnoka adja ki.
 
 (2) Az Országgyűlési Őrség parancsnoka a különös részi követelményrendszer, a felkészítő tananyag és a vizsgakérdéssor összeállítása érdekében az Országgyűlési Őrség állományából munkacsoportot hoz létre.

@@ -8,7 +8,7 @@ b) tiszti besorolási osztályba tartozó szolgálati beosztást betöltő tagj�
 
 c) tiszthelyettesi besorolási osztályba tartozó szolgálati beosztást betöltő tagjának legalább 64 továbbképzési pontot
 
-## kell teljesítenie.
+kell teljesítenie.
 
 (3) A hivatásos állomány rész-szolgálatteljesítési időben foglalkoztatott tagja által teljesítendő továbbképzési pontok számát a (2) bekezdésben foglaltakhoz képest a rész-szolgálatteljesítési idővel arányosan kell megállapítani.
 

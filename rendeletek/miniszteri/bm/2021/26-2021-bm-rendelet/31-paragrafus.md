@@ -1,5 +1,3 @@
-## rendfokozati vizsga teljesítésére köteles.
-
 31. § (1) Mentesül a rendfokozati vizsga letétele alól, aki
 
 a) rendészeti szakvizsgával rendelkezik – vagy annak letétele alól a rendészeti szakvizsgára vonatkozó szabályok szerint mentesül –, és rendészeti szakvizsgához kötött szolgálati beosztásban teljesít szolgálatot,

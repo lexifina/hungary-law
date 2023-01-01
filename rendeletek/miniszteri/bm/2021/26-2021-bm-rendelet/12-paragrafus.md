@@ -10,7 +10,7 @@ b) 3 hónapot meghaladó külföldre vezénylése,
 
 c) 3 hónapot meghaladó, de rendelkezési állományba helyezéssel nem járó egészségügyi szabadsága
 
-## esetén a továbbképzési időszakban szerzendő továbbképzési pontokat az a)–c) pont szerinti időszakon kívüli időtartammal időarányosan kell teljesíteni, azonban a továbbképzési időszak tartama nem változik.
+esetén a továbbképzési időszakban szerzendő továbbképzési pontokat az a)–c) pont szerinti időszakon kívüli időtartammal időarányosan kell teljesíteni, azonban a továbbképzési időszak tartama nem változik.
 
 (4) A Hszt. 117. § (6) bekezdés a) pontjában foglaltakra figyelemmel – a (3) bekezdés b) pontjában foglalt kivétellel – a hivatásos állomány Hszt. 77. § (1) bekezdés a) pontja szerinti rendelkezési állományban lévő tagja esetében a rendelkezési állományba helyezés a továbbképzési időszakot nem szakítja meg.
 

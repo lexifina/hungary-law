@@ -10,7 +10,7 @@ b) tiszti rendfokozati vizsga tekintetében a hivatásos állomány legalább ő
 
 c) főtiszti rendfokozati vizsga tekintetében a hivatásos állomány legalább 10 év tényleges szolgálati idővel rendelkező, vezetői besorolási osztályba tartozó tagja
 
-## lehet.
+lehet.
 
 (2) A vizsgabizottság elnöke, tagjai és a jegyzőkönyvvezető nem működhet közre a Polgári Törvénykönyvről szóló 2013. évi V. törvény szerinti hozzátartozójának vizsgáztatásában, továbbá olyan esetekben, amelyekben tőle az elfogulatlan vizsgáztatás egyébként nem várható el. A rendfokozati vizsgán közreműködő személy az összeférhetetlenségről a rendfokozati vizsga megkezdése előtt haladéktalanul tájékoztatja a vizsgaszervezőt.
 
