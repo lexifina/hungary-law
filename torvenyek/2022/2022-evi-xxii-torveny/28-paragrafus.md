@@ -4,6 +4,6 @@
 
 1.
 
-2.
+2. 57/A. § (1) bekezdés nyitó szövegrészében és (2b) bekezdésében, 57/B. § (6) bekezdésében, 57/C. § (1) bekezdés a) pontjában, valamint 57/C. § (3) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg
 
 lép.

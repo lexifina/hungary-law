@@ -1,1 +1,9 @@
-### 4. §
+4. § (1) A fővárosi és vármegyei kormányhivatal a természetes személy ügyfelek tekintetében belső technikai azonosítót alkalmaz, amely
+
+a) sem az ügyintéző, sem az ügyfél által nem megismerhető, az informatikai rendszerből továbbításra nem kerül,
+
+b) semmilyen módon nem származtatható az ügyfél valamely azonosítójából, és
+
+c) a természetes személyhez rendelése a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaz. tv.) szerinti titkosított kapcsolati kódokkal történik.
+
+(2) Az (1) bekezdés szerinti belső technikai azonosító alkalmazásának célja a fővárosi és vármegyei kormányhivatal működéséhez szükséges egységes, közös informatikai támogatási szolgáltatásoknál a különböző személyhez rendelt azonosítók jogosulatlan összevonásának kizárása.

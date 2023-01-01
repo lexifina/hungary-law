@@ -2,6 +2,6 @@
 
 a)
 
-b)
+b) 97. § (2) bekezdés a) és b) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg
 
 lép.
