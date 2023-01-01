@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-1-00-00
 | 2022-03-01 | 2021. évi CXXXIV. törvény | 2017-1-00-00.12 |
 | 2022-10-11 | 2022. évi XXVII. törvény | 2017-1-00-00.15 |
 | 2022-11-01 | 2022. évi VII. törvény | 2017-1-00-00.13 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2017-1-00-00.14 |

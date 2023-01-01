@@ -6,13 +6,13 @@ a) ingatlanhoz kapcsolódó jog vagy kötelezettség, illetve ingatlanra vonatko
 
 b) tevékenység bejelentése vagy engedélyezése esetében a tevékenység gyakorolásának helye, vagy tervezett helye található,
 
-c) az a) és b) pontban meghatározottak kivételével, a több mint egy megyére kiterjedő illetékességgel eljáró közigazgatási szerv közigazgatási tevékenysége esetében a felperes lakóhelye, tartózkodási helye, székhelye található,
+c) az a) és b) pontban meghatározottak kivételével, a több mint egy vármegyére kiterjedő illetékességgel eljáró közigazgatási szerv közigazgatási tevékenysége esetében a felperes lakóhelye, tartózkodási helye, székhelye található,
 
 d) az a)–c) pontban meghatározottak kivételével a mulasztó közigazgatási szerv székhelye található,
 
 e) az a)–d) pontban meghatározottak hiányában a per tárgyává tett közigazgatási cselekmény – többfokú eljárásban megvalósított cselekmény esetén az elsőfokú közigazgatási cselekmény – megvalósult.
 
-(2) A közigazgatási tevékenység megvalósulása helyének a fővárosi székhelyű, de Pest megye területére vagy annak egy részére illetékes közigazgatási szerv székhelyén megvalósult tevékenység esetében Pest megyét kell tekinteni.
+(2) A közigazgatási tevékenység megvalósulása helyének a fővárosi székhelyű, de Pest vármegye területére vagy annak egy részére illetékes közigazgatási szerv székhelyén megvalósult tevékenység esetében Pest vármegyét kell tekinteni.
 
 (3) A Fővárosi Törvényszék kizárólagosan illetékes
 
