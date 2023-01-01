@@ -18,7 +18,7 @@ g) választópolgárok értesítésével kapcsolatos egyéb költségek, határo
 
 h) ajánlóívek nyomtatása
 
-## miatt lehet igényelni.
+miatt lehet igényelni.
 
 (3) Feladatelmaradás esetén, vagy ha a feladatot a Ve. 66. § (4a) bekezdése alapján másik választási iroda látja el, az erre a feladatra biztosított, a normatívák szerint számolt összeget, illetve ha a feladatelmaradás ismertté válása előtt indokolt kifizetés vagy kötelezettségvállalás történt, annak maradványát vissza kell utalni.
 
