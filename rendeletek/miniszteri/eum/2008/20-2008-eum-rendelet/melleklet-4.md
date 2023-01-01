@@ -1,6 +1,6 @@
 4. melléklet a 20/2008. (V. 14.) EüM rendelethez
 
-## A tápanyag-összetételre és az egészségre vonatkozó állítások anyatej-helyettesítő tápszereken és ezek feltüntetésének feltételei
+A tápanyag-összetételre és az egészségre vonatkozó állítások anyatej-helyettesítő tápszereken és ezek feltüntetésének feltételei
 
 1. Tápanyag-összetételre vonatkozó állítások
 

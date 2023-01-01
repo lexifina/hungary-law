@@ -4,7 +4,7 @@ a) az anyatej-helyettesítő és anyatej-kiegészítő tápszer alkalmazása sor
 
 b) az anyatej-helyettesítő és anyatej-kiegészítő tápszer további alkalmazását befolyásoló
 
-## mellékhatásokat az OGYÉI-nek bejelenteni.
+mellékhatásokat az OGYÉI-nek bejelenteni.
 
 (2)[^18] Az OGYÉI az (1) bekezdés szerinti bejelentést kivizsgálja, értékeli, a vizsgálat eredményének ismeretében megteszi a szükséges intézkedéseket, és erről a forgalmazásban részt vevőket, illetve a bejelentőt közvetlenül értesíti.
 

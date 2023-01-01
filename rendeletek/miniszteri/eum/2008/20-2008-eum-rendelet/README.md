@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-20-20-0
 | 2017-01-05 | 2008-20-20-0B.9 | 44/2016. (XII. 28.) EMMI rendelet |
 | 2017-04-01 | 2008-20-20-0B.10 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2021-08-07 | 2008-20-20-0B.11 | 34/2021. (VIII. 6.) EMMI rendelet |
+| 2023-01-01 | 2008-20-20-0B.12 | 23/2015. (IV. 28.) EMMI rendelet |

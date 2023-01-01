@@ -56,7 +56,7 @@
 
 8. melléklet a 20/2008. (V. 14.) EüM rendelethez
 
-## Növényvédő szerek, amelyek nem használhatók fel anyatej-helyettesítő és anyatej-kiegészítő tápszerek előállítására szolgáló mezőgazdasági termékekben
+Növényvédő szerek, amelyek nem használhatók fel anyatej-helyettesítő és anyatej-kiegészítő tápszerek előállítására szolgáló mezőgazdasági termékekben
 
 1. táblázat
 

@@ -1,8 +1,6 @@
-## végrehajtásához szükséges rendelkezéseket állapít meg.
-
 1. melléklet a 20/2008. (V. 14.) EüM rendelethez[^33]
 
-## Az előállító utasításai szerint elkészített anyatej-helyettesítő tápszerek alapvető összetétele
+Az előállító utasításai szerint elkészített anyatej-helyettesítő tápszerek alapvető összetétele
 
 ## A mellékletben megadott értékek a fogyasztásra kész állapotban forgalmazott, illetve az előállító utasításai szerint fogyasztásra elkészített végtermékekre vonatkoznak.
 
@@ -22,9 +20,9 @@
 
 | 0,45 g/100 kJ (1,8 g/100 kcal) | 0,7 g/100 kJ (3 g/100 kcal) |
 
-(1) Azoknak a tehéntej-fehérjékből vagy kecsketej-fehérjékből gyártott anyatej-helyettesítő tápszereknek, amelyek fehérjetartalma a minimális és 0,5 g/100 kJ (2 g/100 kcal) közötti, meg kell felelniük a 7. § (3) bekezdésének.
+## (1) Azoknak a tehéntej-fehérjékből vagy kecsketej-fehérjékből gyártott anyatej-helyettesítő tápszereknek, amelyek fehérjetartalma a minimális és 0,5 g/100 kJ (2 g/100 kcal) közötti, meg kell felelniük a 7. § (3) bekezdésének.
 
-Azonos energiatartalomra vonatkoztatva az anyatej-helyettesítő tápszereknek minden nélkülözhetetlen és feltételesen nélkülözhetetlen aminosavból annyi hasznosítható mennyiséget kell tartalmazniuk, ami legalább egyenlő azzal, amennyit a referenciafehérje (az 5. melléklet szerint meghatározott anyatej) tartalmaz. Azonban számítási célból a metionin és cisztein koncentrációit össze lehet adni, amennyiben a metionin:cisztein arány 2-nél nem nagyobb, továbbá a fenilalanin és tirozin koncentrációit össze lehet adni, amennyiben a tirozin:fenilalanin arány 2-nél nem nagyobb. A metionin:cisztein arány 2-nél lehet nagyobb, de 3-nál nem lehet nagyobb, feltéve, hogy a terméknek a csecsemők különleges táplálására való alkalmasságát olyan megfelelő tanulmányok révén mutatják ki, melyeket a tanulmányok tervezéséről és végrehajtásáról szóló, általánosan elfogadott szakértői iránymutatások alapján végeznek.
+## Azonos energiatartalomra vonatkoztatva az anyatej-helyettesítő tápszereknek minden nélkülözhetetlen és feltételesen nélkülözhetetlen aminosavból annyi hasznosítható mennyiséget kell tartalmazniuk, ami legalább egyenlő azzal, amennyit a referenciafehérje (az 5. melléklet szerint meghatározott anyatej) tartalmaz. Azonban számítási célból a metionin és cisztein koncentrációit össze lehet adni, amennyiben a metionin:cisztein arány 2-nél nem nagyobb, továbbá a fenilalanin és tirozin koncentrációit össze lehet adni, amennyiben a tirozin:fenilalanin arány 2-nél nem nagyobb. A metionin:cisztein arány 2-nél lehet nagyobb, de 3-nál nem lehet nagyobb, feltéve, hogy a terméknek a csecsemők különleges táplálására való alkalmasságát olyan megfelelő tanulmányok révén mutatják ki, melyeket a tanulmányok tervezéséről és végrehajtásáról szóló, általánosan elfogadott szakértői iránymutatások alapján végeznek.
 
 2.2. Hidrolizált fehérjékből gyártott anyatej-helyettesítő tápszerek
 
@@ -32,11 +30,11 @@ Azonos energiatartalomra vonatkoztatva az anyatej-helyettesítő tápszereknek m
 
 | 0,45 g/100 kJ (1,8 g/100 kcal) | 0,7 g/100 kJ (3 g/100 kcal) |
 
-(1) Azoknak a hidrolizált fehérjékből gyártott anyatej-helyettesítő tápszereknek, amelyek fehérjetartalma a minimális és 0,56 g/100 kJ (2,25 g/100 kcal) közötti, meg kell felelniük a 7. § (4) bekezdésének.
+## (1) Azoknak a hidrolizált fehérjékből gyártott anyatej-helyettesítő tápszereknek, amelyek fehérjetartalma a minimális és 0,56 g/100 kJ (2,25 g/100 kcal) közötti, meg kell felelniük a 7. § (4) bekezdésének.
 
-Azonos energiatartalomra vonatkoztatva az anyatej-helyettesítő tápszereknek minden nélkülözhetetlen és feltételesen nélkülözhetetlen aminosavból annyi hasznosítható mennyiséget kell tartalmazniuk, ami legalább egyenlő azzal, amennyit a referenciafehérje (az 5. melléklet szerint meghatározott anyatej) tartalmaz. Azonban számítási célból a metionin és cisztein koncentrációit össze lehet adni, amennyiben a metionin:cisztein arány 2-nél nem nagyobb, továbbá a fenilalanin és tirozin koncentrációit össze lehet adni, amennyiben a tirozin:fenilalanin arány 2-nél nem nagyobb. A metionin:cisztein arány 2-nél lehet nagyobb, de 3-nál nem lehet nagyobb, feltéve, hogy a terméknek a csecsemők különleges táplálására való alkalmasságát megfelelő tanulmányok révén mutatják ki, melyeket a tanulmányok tervezéséről és végrehajtásáról szóló, általánosan elfogadott szakértői iránymutatások alapján végeznek.
+## Azonos energiatartalomra vonatkoztatva az anyatej-helyettesítő tápszereknek minden nélkülözhetetlen és feltételesen nélkülözhetetlen aminosavból annyi hasznosítható mennyiséget kell tartalmazniuk, ami legalább egyenlő azzal, amennyit a referenciafehérje (az 5. melléklet szerint meghatározott anyatej) tartalmaz. Azonban számítási célból a metionin és cisztein koncentrációit össze lehet adni, amennyiben a metionin:cisztein arány 2-nél nem nagyobb, továbbá a fenilalanin és tirozin koncentrációit össze lehet adni, amennyiben a tirozin:fenilalanin arány 2-nél nem nagyobb. A metionin:cisztein arány 2-nél lehet nagyobb, de 3-nál nem lehet nagyobb, feltéve, hogy a terméknek a csecsemők különleges táplálására való alkalmasságát megfelelő tanulmányok révén mutatják ki, melyeket a tanulmányok tervezéséről és végrehajtásáról szóló, általánosan elfogadott szakértői iránymutatások alapján végeznek.
 
-Az L-karnitin-tartalom legalább 0,3 mg/100 kJ (1,2 mg/100 kcal).
+## Az L-karnitin-tartalom legalább 0,3 mg/100 kJ (1,2 mg/100 kcal).
 
 2.3. Kizárólag szójafehérje-izolátumokból vagy ennek tehéntej-fehérjékkel vagy kecsketej-fehérjékkel készített keverékéből gyártott anyatej-helyettesítő tápszerek
 
@@ -44,11 +42,11 @@ Az L-karnitin-tartalom legalább 0,3 mg/100 kJ (1,2 mg/100 kcal).
 
 | 0,56 g/100 kJ (2,25 g/100 kcal) | 0,7 g/100 kJ (3 g/100 kcal) |
 
-Csak szójafehérje-izolátumokat szabad ezen anyatej-helyettesítő tápszerek gyártására használni.
+## Csak szójafehérje-izolátumokat szabad ezen anyatej-helyettesítő tápszerek gyártására használni.
 
-Azonos energiatartalomra vonatkoztatva az anyatej-helyettesítő tápszereknek minden nélkülözhetetlen és feltételesen nélkülözhetetlen aminosavból annyi hasznosítható mennyiséget kell tartalmazniuk, ami legalább egyenlő azzal, amennyit a referenciafehérje (az 5. melléklet szerint meghatározott anyatej) tartalmaz. Azonban számítási célból a metionin és cisztein koncentrációit össze lehet adni, amennyiben a metionin:cisztein arány 2-nél nem nagyobb, továbbá a fenilalanin és tirozin koncentrációit össze lehet adni, amennyiben a tirozin:fenilalanin arány 2-nél nem nagyobb. A metionin:cisztein arány 2-nél lehet nagyobb, de 3-nál nem lehet nagyobb, feltéve, hogy a terméknek a csecsemők különleges táplálására való alkalmasságát olyan megfelelő tanulmányok révén mutatják ki, melyeket a tanulmányok tervezéséről és végrehajtásáról szóló, általánosan elfogadott szakértői iránymutatások alapján végeznek.
+## Azonos energiatartalomra vonatkoztatva az anyatej-helyettesítő tápszereknek minden nélkülözhetetlen és feltételesen nélkülözhetetlen aminosavból annyi hasznosítható mennyiséget kell tartalmazniuk, ami legalább egyenlő azzal, amennyit a referenciafehérje (az 5. melléklet szerint meghatározott anyatej) tartalmaz. Azonban számítási célból a metionin és cisztein koncentrációit össze lehet adni, amennyiben a metionin:cisztein arány 2-nél nem nagyobb, továbbá a fenilalanin és tirozin koncentrációit össze lehet adni, amennyiben a tirozin:fenilalanin arány 2-nél nem nagyobb. A metionin:cisztein arány 2-nél lehet nagyobb, de 3-nál nem lehet nagyobb, feltéve, hogy a terméknek a csecsemők különleges táplálására való alkalmasságát olyan megfelelő tanulmányok révén mutatják ki, melyeket a tanulmányok tervezéséről és végrehajtásáról szóló, általánosan elfogadott szakértői iránymutatások alapján végeznek.
 
-Az L-karnitin-tartalom legalább 0,3 mg/100 kJ (1,2 mg/100 kcal).
+## Az L-karnitin-tartalom legalább 0,3 mg/100 kJ (1,2 mg/100 kcal).
 
 2.4. Aminosavak hozzáadása az anyatej-helyettesítőkhöz minden esetben kizárólag a fehérjék tápértékének feljavítása céljából megengedett és csak az ehhez szükséges mértékben.
 
@@ -144,7 +142,7 @@ Az anyatej-helyettesítő tápszerekben lévő foszfolipidek mennyisége nem leh
 
 | 1,1 g/100 kJ (4,5 g/100 kcal) | – |
 
-E rendelkezés nem vonatkozik azon anyatej-helyettesítő tápszerekre, amelyekben a szójafehérje-izolátumok az összes fehérjetartalom több mint 50%-át teszik ki.
+## E rendelkezés nem vonatkozik azon anyatej-helyettesítő tápszerekre, amelyekben a szójafehérje-izolátumok az összes fehérjetartalom több mint 50%-át teszik ki.
 
 8.3. Szacharóz
 
@@ -200,7 +198,7 @@ A frukto-oligoszacharidok és galakto-oligoszacharidok egyéb maximális szintje
 
 | Fluorid (µg) | – | 25 | – | 100 |
 
-A kalcium/foszfor-arány nem lehet kevesebb, mint 1,0 és nem lehet több, mint 2,0.
+## A kalcium/foszfor-arány nem lehet kevesebb, mint 1,0 és nem lehet több, mint 2,0.
 
 10.2. Kizárólag szójafehérje-izolátumokból vagy ezeknek tehéntej-fehérjékkel vagy kecsketej-fehérjékkel készített keverékéből gyártott anyatej-helyettesítő tápszerek
 
@@ -246,15 +244,15 @@ A 10.1. pont minden követelménye alkalmazandó, kivéve a vasra és foszforr
 
 | E-vitamin (mg α-TE)(4) | 0,5/g többszörösen telítetlen zsírsav linolsavként kifejezve a kettős kötések tekintetében korrigálva(5), de egyetlen esetben sem lehet kevesebb, mint 0,1 mg/100 hasznosíható kJ | 1,2 | 0,5/g többszörösen telítetlen zsírsav linolsavként kifejezve a kettős kötések tekintetében korrigálva(5), de egyetlen esetben sem lehet kevesebb, mint 0,5 mg/100 hasznosíható kcal | 5 |
 
-(1) RE = all-transzretinol ekvivalens.
+## (1) RE = all-transzretinol ekvivalens.
 
-(2) Kolekalciferol formájában, amelynél 10 µg = 400 NE D-vitamin.
+## (2) Kolekalciferol formájában, amelynél 10 µg = 400 NE D-vitamin.
 
-(3) Niacinként megjelenve.
+## (3) Niacinként megjelenve.
 
-(4) α-TE = d-α-tokoferol-ekvivalens.
+## (4) α-TE = d-α-tokoferol-ekvivalens.
 
-(5) 0,5 mg α-TE/1 g linolsav (18:2 n-6); 0,75 mg α-TE/1 g α-linolénsav (18:3 n-3); 1,0 mg α-TE/1 g arachidonsav (20:4 n-6); 1,25 mg α-TE/1 g eikozapentaén-sav (20:5 n-3); 1,5 mg α-TE/1 g dokozahexaén-sav (22:6 n-3).
+## (5) 0,5 mg α-TE/1 g linolsav (18:2 n-6); 0,75 mg α-TE/1 g α-linolénsav (18:3 n-3); 1,0 mg α-TE/1 g arachidonsav (20:4 n-6); 1,25 mg α-TE/1 g eikozapentaén-sav (20:5 n-3); 1,5 mg α-TE/1 g dokozahexaén-sav (22:6 n-3).
 
 12. Nukleotidok
 
@@ -273,8 +271,6 @@ A következő nukleotidokat lehet hozzáadni:
 | guanozin 5’-monofoszfát | 0,12 | 0,50 |
 
 | inozin 5’-monofoszfát | 0,24 | 1,00 |
-
-(1) A nukleotidok együttes koncentrációja nem haladja meg az 1,2 mg/100 kJ-t (5 mg/100 kcal-t).
 
 [^33]: Az 1. melléklet a 41/2009. (XI. 23.) EüM rendelet 7. § (5) bekezdés a)–c) pontja, a 22/2014. (III. 20.) EMMI rendelet 4. § b)–e) pontja szerint módosított szöveg.
 [^*]: Természetes állapotban gluténmentes.

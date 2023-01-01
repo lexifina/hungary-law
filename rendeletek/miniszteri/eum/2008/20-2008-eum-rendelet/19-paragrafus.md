@@ -1,5 +1,3 @@
-## 18. §[^22]
-
 19. § (1) E rendelet a kihirdetését követő 30. napon lép hatályba, egyidejűleg az anyatej-helyettesítő és az anyatej- kiegészítő tápszerekről szóló 23/2003. (V. 9.) ESZCSM rendelet (a továbbiakban: R. III.) hatályát veszti.
 
 (2)[^23]
@@ -20,7 +18,7 @@ a) a harmadik országokba való kivitelre szánt anyatej-helyettesítő és anya
 
 b)[^30] az anyatej-helyettesítő és anyatej-kiegészítő tápszerekről, valamint az 1999/21/EK irányelv módosításáról szóló 2006. december 22-i 2006/141/EK bizottsági irányelvnek, továbbá a 2006/141/EK irányelvnek az anyatej-helyettesítő tápszerek és anyatej-kiegészítő tápszerek fehérjetartalmára vonatkozó követelmények tekintetében történő módosításáról szóló 2013. augusztus 28-i 2013/46/EU bizottsági irányelvnek
 
-## való megfelelést szolgálja.
+való megfelelést szolgálja.
 
 (11)[^31] Ez a rendelet
 
@@ -32,7 +30,8 @@ c) az élelmiszer-adalékanyagokról szóló 2008. december 16-i 1333/2008/EK eu
 
 d)[^32] a csecsemők és kisgyermekek számára készült, a speciális gyógyászati célra szánt, valamint a testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerekről, továbbá a 92/52/EGK tanácsi irányelv, a 96/8/EK, az 1999/21/EK, a 2006/125/EK és a 2006/141/EK bizottsági irányelv, a 2009/39/EK európai parlamenti és tanácsi irányelv és a 41/2009/EK és a 953/2009/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2013. június 12-i 609/2013/EU európai parlamenti és tanácsi rendelet
 
-[^22]: A 18. §-t a 44/2016. (XII. 28.) EMMI rendelet 51. § a) pontja hatályon kívül helyezte.
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
 [^23]: A 19. § (2) bekezdését a (4) bekezdés hatályon kívül helyezte.
 [^24]: A 19. § (3) bekezdését a 44/2016. (XII. 28.) EMMI rendelet 51. § b) pontja hatályon kívül helyezte.
 [^25]: A 19. § (4) bekezdését az (5) bekezdés hatályon kívül helyezte.
