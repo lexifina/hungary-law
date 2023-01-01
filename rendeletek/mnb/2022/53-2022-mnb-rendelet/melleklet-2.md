@@ -134,6 +134,4 @@
 
 ## A biztosító kötelezettsége az egyedi portfólió azonosítókat tartalmazó lista letétkezelők és vagyonkezelők felé való továbbítása.
 
-2. melléklet az 53/2022. (XII. 2.) MNB rendelethez[^10]
-
-[^10]: A 2. melléklet a 13. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+2. melléklet az 53/2022. (XII. 2.) MNB rendelethez

@@ -1,3 +1,5 @@
-5. melléklet az 53/2022. (XII. 2.) MNB rendelethez[^13]
+## 2X08312B.pdf
 
-[^13]: Az 5. melléklet a 13. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+5. melléklet az 53/2022. (XII. 2.) MNB rendelethez
+
+Kisbiztosító-egyesületnek nem minősülő kisbiztosító aktuáriusi jelentése kitöltésére vonatkozó részletes előírások

@@ -1,3 +1,3 @@
-7. §[^6]
+7. § (1) A harmadik országbeli biztosító fióktelepe a 9. mellékletben foglaltaknak megfelelő tartalommal, formában és határidőre negyedéves és éves felügyeleti jelentést teljesít az MNB részére.
 
-[^6]: A 7. § a 13. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+(2) A kitöltésre vonatkozó általános előírásokat az 1. melléklet, a kitöltésre vonatkozó részletes előírásokat 10. melléklet tartalmazza.
