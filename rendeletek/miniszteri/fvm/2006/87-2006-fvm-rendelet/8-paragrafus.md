@@ -1,18 +1,16 @@
-## a minősítés, ellenőrzés megállapításairól jegyzőkönyvet állít ki.
-
 8. § (1) Szőlő ültetési anyagot forgalomba hozatal céljából előállítani csak árutermelő szőlőiskolában szabad.
 
-(2)[^22] Az árutermelő szőlőiskola létesítésének engedélye iránti kérelmet a kérelmező nevének és címének feltüntetésével a szaporítást megelőző évben augusztus 31-ig kell a növénytermesztési hatáskörben eljáró megyei kormányhivatalhoz benyújtani.
+(2)[^22] Az árutermelő szőlőiskola létesítésének engedélye iránti kérelmet a kérelmező nevének és címének feltüntetésével a szaporítást megelőző évben augusztus 31-ig kell a növénytermesztési hatáskörben eljáró vármegyei kormányhivatalhoz benyújtani.
 
-(3)[^23] A növénytermesztési hatáskörben eljáró megyei kormányhivatal a kérelemhez benyújtott adatok ellenőrzése érdekében beszerzi a kérelmező gazdasági társaság cégkivonatát.
+(3)[^23] A növénytermesztési hatáskörben eljáró vármegyei kormányhivatal a kérelemhez benyújtott adatok ellenőrzése érdekében beszerzi a kérelmező gazdasági társaság cégkivonatát.
 
-(4)[^24] A növénytermesztési hatáskörben eljáró megyei kormányhivatal az árutermelő szőlőiskola létesítését a kérelmező részére – a kérelemben foglaltak szerint – határozatlan vagy határozott időre akkor engedélyezi, ha
+(4)[^24] A növénytermesztési hatáskörben eljáró vármegyei kormányhivatal az árutermelő szőlőiskola létesítését a kérelmező részére – a kérelemben foglaltak szerint – határozatlan vagy határozott időre akkor engedélyezi, ha
 
 a) a kérelmező, illetve állandó alkalmazottja prebázis és bázis kategóriájú szaporítóanyag előállítása esetén felsőfokú kertészeti vagy növénytermesztési, certifikált vagy standard kategóriájú szaporítóanyag előállítása esetén kertészeti vagy növénytermesztési, legalább szakmunkás végzettséggel rendelkezik, és a kérelemhez az ezt igazoló okiratot vagy annak hiteles másolatát csatolta,
 
 b) a szaporításhoz a szakmai feltételek biztosítottak, a termesztésre kijelölt terület a csatolt térkép alapján beazonosítható,
 
-c)[^25] a terület növényegészségügyi szempontból szaporítás céljára megfelel, annak talaja prebázis, bázis és certifikált kategória esetén mentes a szőlővírusok terjedését elősegítő káros szervezetektől, nematódáktól, és ezt a kérelemhez csatolt mellékletben a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal igazolja,
+c)[^25] a terület növényegészségügyi szempontból szaporítás céljára megfelel, annak talaja prebázis, bázis és certifikált kategória esetén mentes a szőlővírusok terjedését elősegítő káros szervezetektől, nematódáktól, és ezt a kérelemhez csatolt mellékletben a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal igazolja,
 
 d) a kérelemben nyilatkozik arról, hogy milyen kategóriájú szaporítóanyagot kíván előállítani,
 
@@ -22,21 +20,21 @@ f) a kérelmező a termékpálya szerinti terméktanács tagja és ezt igazolja.
 
 (5) A szőlőiskolai engedély nem adható ki, ha a kérelmező, kérelmező szervezet esetén annak vezető tisztségviselője a kérelem benyújtását megelőző 5 évben szándékosan megsértette a szaporítóanyag előállításra, felhasználásra és forgalomba hozatalra vonatkozó jogszabályok előírásait, és erről jogerős határozat született.
 
-(6)[^26] A növénytermesztési hatáskörben eljáró megyei kormányhivatal a szőlőiskolai engedélyt visszavonja, ha
+(6)[^26] A növénytermesztési hatáskörben eljáró vármegyei kormányhivatal a szőlőiskolai engedélyt visszavonja, ha
 
 a) az engedélyes a szaporítási tevékenységet megszünteti,
 
 b) az engedélyes a szaporítóanyag előállítással kapcsolatos jogszabályokat, előírásokat 5 éven belül ismételten és szándékosan megszegte,
 
-c)[^27] a szőlőiskolai terület növényegészségügyi szempontból alkalmatlanná válik és a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal az engedély visszavonását indokoltnak tartja,
+c)[^27] a szőlőiskolai terület növényegészségügyi szempontból alkalmatlanná válik és a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal az engedély visszavonását indokoltnak tartja,
 
 d) az engedélyes három egymást követő évben nem folytat termelést.
 
-(7)[^28] A növénytermesztési hatáskörben eljáró megyei kormányhivatal az engedély kiadásáról vagy visszavonásáról az illetékes termékpálya szerinti terméktanácsot értesíti.
+(7)[^28] A növénytermesztési hatáskörben eljáró vármegyei kormányhivatal az engedély kiadásáról vagy visszavonásáról az illetékes termékpálya szerinti terméktanácsot értesíti.
 
 (8) A szaporításhoz prebázis, bázis vagy certifikált törzsültetvényből, ennek hiányában szaporításra ideiglenesen engedélyezett ültetvényből származó szaporító alapanyagot, visszaiskolázáskor legalább olyan standard kategóriájú ültetési anyagot szabad felhasználni, amelynek származása igazolt.
 
-(9)[^29] Prebázis és bázis ültetési anyagot csak a növénytermesztési hatáskörben eljáró megyei kormányhivatal által e célra engedélyezett előszaporító szőlőiskolában szabad előállítani. Az engedélyezés iránti kérelmet a növénytermesztési hatáskörben eljáró megyei kormányhivatalhoz kell benyújtani, amelyben szerepelnie kell, hogy a kérelmező milyen fajtákat, klónokat kíván szaporítani. A kérelemhez mellékelni kell a fajtafenntartó hozzájárulását igazoló okiratot. Az előszaporító szőlőiskola működése akkor engedélyezhető, ha
+(9)[^29] Prebázis és bázis ültetési anyagot csak a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal által e célra engedélyezett előszaporító szőlőiskolában szabad előállítani. Az engedélyezés iránti kérelmet a növénytermesztési hatáskörben eljáró vármegyei kormányhivatalhoz kell benyújtani, amelyben szerepelnie kell, hogy a kérelmező milyen fajtákat, klónokat kíván szaporítani. A kérelemhez mellékelni kell a fajtafenntartó hozzájárulását igazoló okiratot. Az előszaporító szőlőiskola működése akkor engedélyezhető, ha
 
 a) a szőlőiskola legalább három éve állít elő ültetési anyagot,
 
@@ -44,7 +42,7 @@ b) a szőlőiskola vezetője felsőfokú kertészeti végzettséggel rendelkezik
 
 c) a termesztéshez speciális termesztő berendezésekkel, így hűtőház, hajtatóház rendelkezik,
 
-d)[^30] az előszaporító üzem növényegészségügyi alkalmasságát a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal igazolja, és a létesítéshez a fajtafenntartó hozzájárulását adta.
+d)[^30] az előszaporító üzem növényegészségügyi alkalmasságát a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal igazolja, és a létesítéshez a fajtafenntartó hozzájárulását adta.
 
 (10) Az előszaporító szőlőiskola működése nem engedélyezhető, ha a kérelmező, kérelmező szervezet esetén annak vezető tisztségviselője a kérelem benyújtását megelőző 5 évben szándékosan megsértette a szaporítóanyag előállításra, felhasználásra és forgalomba hozatalra vonatkozó jogszabályok előírásait, és erről jogerős határozat született.
 
@@ -54,7 +52,7 @@ a)[^31] olyan fajtát szaporítani, amely Magyarországon államilag elismert, s
 
 b) a növényegészségügyi előírásokat megtartani, vírustesztelt szaporítóanyagok esetében a mentességet biztosító 5. számú mellékletben előírt technológiát és izolációs távolságot betartani,
 
-c)[^32] a szaporítást a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatalnak a 7/2001. (I. 17.) FVM rendeletben foglaltak szerint minden év február 28-ig bejelenteni, a NÉBIH-nek a rendszeresített nyilvántartó lapon a szaporított tételeket évente május 20-ig szemlézésre bejelenteni, a certifikációt vagy a standard szaporítóanyag ellenőrzését kérni,
+c)[^32] a szaporítást a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatalnak a 7/2001. (I. 17.) FVM rendeletben foglaltak szerint minden év február 28-ig bejelenteni, a NÉBIH-nek a rendszeresített nyilvántartó lapon a szaporított tételeket évente május 20-ig szemlézésre bejelenteni, a certifikációt vagy a standard szaporítóanyag ellenőrzését kérni,
 
 d) az iskolázott tételekről soronként megjelölve vázrajzot készíteni, tételenként megjelölni, a szőlőiskolában a termésbecslést, a fajtaazonosságot és fajtatisztaságot, valamint az előírás szerinti egészségi állapotot biztosító szelekciót július 15-ig elvégezni,
 
@@ -64,7 +62,7 @@ f) a felhasznált vagy vásárolt szaporítóanyagokról származó árucímkék
 
 g) az 1., 7. és 8. számú melléklet előírásait megtartani.
 
-(12)[^34] A prebázis és bázis szaporítóanyagokat előállító szőlőiskolákat a NÉBIH, a certfikált és standard kategóriájú szaporítóanyagokat előállító szőlőiskolákat a növénytermesztési hatáskörben eljáró megyei kormányhivatal az 1., 2. számú melléklet szerint, valamint az összes kategóriára vonatkozóan a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal a 7. és 8. számú melléklet szerint évente ellenőrzi a növényállomány és a vonatkozó jogszabályok betartása tekintetében, így különösen:
+(12)[^34] A prebázis és bázis szaporítóanyagokat előállító szőlőiskolákat a NÉBIH, a certfikált és standard kategóriájú szaporítóanyagokat előállító szőlőiskolákat a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal az 1., 2. számú melléklet szerint, valamint az összes kategóriára vonatkozóan a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal a 7. és 8. számú melléklet szerint évente ellenőrzi a növényállomány és a vonatkozó jogszabályok betartása tekintetében, így különösen:
 
 a) az előző évi forgalmazásról vezetett nyilvántartást,
 
@@ -76,19 +74,19 @@ d) a szaporított tételek nagyságát, elkülönítését, jelölését, a sző
 
 e) a növényállomány fejlettségét, a tételek fajtatisztasági szelekciójának eredményességét, a várható hozamot.
 
-(13)[^35] A NÉBIH és a növénytermesztési hatáskörben eljáró megyei kormányhivatal a kitermelést és osztályozást követően a szaporított prebázis, bázis és certifikált tételeket minősíti, a standard tételeket ellenőrzi. Az ellenőrzések és a minősítések eredményei alapján hozott határozat rendelkezik arról, hogy mely tételek hozhatók forgalomba, vagy milyen kategóriában engedélyezett vagy korlátozott a felhasználásuk.
+(13)[^35] A NÉBIH és a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal a kitermelést és osztályozást követően a szaporított prebázis, bázis és certifikált tételeket minősíti, a standard tételeket ellenőrzi. Az ellenőrzések és a minősítések eredményei alapján hozott határozat rendelkezik arról, hogy mely tételek hozhatók forgalomba, vagy milyen kategóriában engedélyezett vagy korlátozott a felhasználásuk.
 
-[^22]: A 8. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 89. § 12. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § c) pontja szerint módosított szöveg.
-[^23]: A 8. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 89. § 13. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja szerint módosított szöveg.
-[^24]: A 8. § (4) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 89. § 13. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja szerint módosított szöveg.
-[^25]: A 8. § (4) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 89. § 9. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja szerint módosított szöveg.
-[^26]: A 8. § (6) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 89. § 13. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja szerint módosított szöveg.
-[^27]: A 8. § (6) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 89. § 9. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja szerint módosított szöveg.
-[^28]: A 8. § (7) bekezdése a 42/2017. (VIII. 17.) FM rendelet 89. § 13. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja szerint módosított szöveg.
-[^29]: A 8. § (9) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 89. § 12. és 14. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) és c) pontja szerint módosított szöveg.
-[^30]: A 8. § (9) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 89. § 9. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja szerint módosított szöveg.
+[^22]: A 8. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 89. § 12. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § c) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^23]: A 8. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 89. § 13. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^24]: A 8. § (4) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 89. § 13. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^25]: A 8. § (4) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 89. § 9. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^26]: A 8. § (6) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 89. § 13. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^27]: A 8. § (6) bekezdés c) pontja a 42/2017. (VIII. 17.) FM rendelet 89. § 9. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^28]: A 8. § (7) bekezdése a 42/2017. (VIII. 17.) FM rendelet 89. § 13. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^29]: A 8. § (9) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 89. § 12. és 14. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) és c) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.
+[^30]: A 8. § (9) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 89. § 9. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^31]: A 8. § (11) bekezdés a) pontja az 5/2012. (II. 10.) VM rendelet 25. § a) pontja szerint módosított szöveg.
-[^32]: A 8. § (11) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 59. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 89. § 15. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § d) pontja szerint módosított szöveg.
+[^32]: A 8. § (11) bekezdés c) pontja a 70/2013. (VII. 31.) VM rendelet 59. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 89. § 15. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § d) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^33]: A 8. § (11) bekezdés e) pontja a 70/2013. (VII. 31.) VM rendelet 59. § f) pontja szerint módosított szöveg.
-[^34]: A 8. § (12) bekezdése a 42/2017. (VIII. 17.) FM rendelet 87. § (4) bekezdésével megállapított, nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 7. § e) pontja szerint módosított szöveg.
-[^35]: A 8. § (13) bekezdése a 42/2017. (VIII. 17.) FM rendelet 87. § (5) bekezdésével megállapított, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja szerint módosított szöveg.
+[^34]: A 8. § (12) bekezdése a 42/2017. (VIII. 17.) FM rendelet 87. § (4) bekezdésével megállapított, nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 7. § e) pontja szerint, a 97/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.
+[^35]: A 8. § (13) bekezdése a 42/2017. (VIII. 17.) FM rendelet 87. § (5) bekezdésével megállapított, a 46/2020. (IX. 23.) AM rendelet 7. § a) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

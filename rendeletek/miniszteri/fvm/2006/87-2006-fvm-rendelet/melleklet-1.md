@@ -2,7 +2,7 @@
 
 1. számú melléklet a 87/2006. (XII. 28.) FVM rendelethez[^69]
 
-## A növényállományra vonatkozó követelmények
+A növényállományra vonatkozó követelmények
 
 1. Azonosság, tisztaság és művelési feltételek
 
@@ -32,7 +32,7 @@
 
 3.1. A törzsültetvényekben és a szőlőiskolákban található szőlőtőke kizárólag olyan talajban vagy olyan termesztőközeget tartalmazó edényekben ültethető el, amely mentes valamennyi olyan károsítótól, amely a 7. pontban felsorolt vírusok gazdaszervezete lehet. Az ilyen károsítóktól való mentességet mintavétel és tesztelés útján kell megállapítani. A mintavételt és a tesztelést az éghajlati viszonyoknak és azon károsítók biológiai jellemzőinek a figyelembevételével kell elvégezni, amelyek a 7. pontban felsorolt vírusok gazdaszervezetei lehetnek.
 
-3.2. Nem kell mintavételt és tesztelést végezni, ha a növénytermesztési hatáskörben eljáró megyei kormányhivatal és a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal az ellenőrzés alapján arra a következtetésre jut, hogy a talaj mentes minden olyan károsítótól, amely a 7. pontban felsorolt vírusok gazdaszervezete lehet. Nem kell mintavételt és tesztelést végezni abban az esetben sem, ha legalább öt éve nem termesztettek szőlőt a termőföldön, és nem fér kétség ahhoz, hogy a talajban nincsenek olyan károsítók, amelyek a 7. pontban felsorolt vírusok gazdaszervezetei lehetnek.
+3.2.[^70] Nem kell mintavételt és tesztelést végezni, ha a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal és a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal az ellenőrzés alapján arra a következtetésre jut, hogy a talaj mentes minden olyan károsítótól, amely a 7. pontban felsorolt vírusok gazdaszervezete lehet. Nem kell mintavételt és tesztelést végezni abban az esetben sem, ha legalább öt éve nem termesztettek szőlőt a termőföldön, és nem fér kétség ahhoz, hogy a talajban nincsenek olyan károsítók, amelyek a 7. pontban felsorolt vírusok gazdaszervezetei lehetnek.
 
 3.3. A mintavétel és a tesztelés céljára az EPPO protokolljait vagy más, nemzetközileg elismert protokollt kell alkalmazni. Ezen eljárások hiányában a nemzeti szinten kidolgozott nemzeti eljárást kell alkalmazni és az Európai Bizottság rendelkezésére bocsátani.
 
@@ -48,7 +48,7 @@
 
 5.1. A törzsültetvényeken és a szőlőiskolákban előállított növényi szaporítóanyagokról éves hatósági növényegészségügyi ellenőrzéseken ki kell mutatni, hogy megfelelnek a 2–4. pont követelményeinek.
 
-5.2. Az 5.1. alpont szerinti hatósági ellenőrzéseket a növénytermesztési hatáskörben eljáró megyei kormányhivatal és a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal végzi el a 8. pont szerint.
+5.2.[^71] Az 5.1. alpont szerinti hatósági ellenőrzéseket a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal és a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal végzi el a 8. pont szerint.
 
 5.3. További hatósági növényegészségügyi ellenőrzést olyan vitás esetekben kell végezni, amely viták a növényi szaporítóanyag minőségi romlása nélkül eldönthetők.
 
@@ -90,9 +90,9 @@
 
 8.1. Prebázis szaporítóanyag, bázis szaporítóanyag és certifikált (tanúsított) szaporítóanyag
 
-8.1.1. Vizuális vizsgálatok
+8.1.1.[^72] Vizuális vizsgálatok
 
-A növénytermesztési hatáskörben eljáró megyei kormányhivatalnak és a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatalnak vegetációs időszakonként legalább egyszer vizuális vizsgálatokat kell végeznie a törzsültetvényekben és a szőlőiskolákban a 6. és a 7. pontban felsorolt összes vizsgálatköteles nemzárlati károsítóra vonatkozóan.
+A növénytermesztési hatáskörben eljáró vármegyei kormányhivatalnak és a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatalnak vegetációs időszakonként legalább egyszer vizuális vizsgálatokat kell végeznie a törzsültetvényekben és a szőlőiskolákban a 6. és a 7. pontban felsorolt összes vizsgálatköteles nemzárlati károsítóra vonatkozóan.
 
 8.2. Prebázis szaporítóanyag
 
@@ -182,7 +182,7 @@ A növénytermesztési hatáskörben eljáró megyei kormányhivatalnak és a n�
 
 8.6.1. Vizuális vizsgálatok
 
-8.6.1.1. A növénytermesztési hatáskörben eljáró megyei kormányhivatalnak és a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatalnak vegetációs időszakonként legalább egyszer vizuális vizsgálatokat kell végeznie a törzsültetvényekben és a szőlőiskolákban a 6. és a 7. pontban felsorolt vizsgálatköteles nemzárlati károsítóra vonatkozóan.
+8.6.1.1.[^73] A növénytermesztési hatáskörben eljáró vármegyei kormányhivatalnak és a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatalnak vegetációs időszakonként legalább egyszer vizuális vizsgálatokat kell végeznie a törzsültetvényekben és a szőlőiskolákban a 6. és a 7. pontban felsorolt vizsgálatköteles nemzárlati károsítóra vonatkozóan.
 
 8.6.2. A termesztési helyre, a termőhelyre vagy a területre vonatkozó követelmények az érintett vizsgálatköteles nemzárlati károsító(k) szerint
 
@@ -226,3 +226,7 @@ A növénytermesztési hatáskörben eljáró megyei kormányhivatalnak és a n�
 
 [^68]: A 21. §-t a 35/2020. (VI. 29.) AM rendelet 10. §-a iktatta be.
 [^69]: Az 1. számú melléklet a 35/2020. (VI. 29.) AM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^70]: Az 1. számú melléklet 3. pont 3.2. alpontja a 97/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.
+[^71]: Az 1. számú melléklet 5. pont 5.2. alpontja a 97/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.
+[^72]: Az 1. számú melléklet 8. pont 8.1.1. alpontja a 97/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.
+[^73]: Az 1. számú melléklet 8. pont 8.6.1.1. alpontja a 97/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.

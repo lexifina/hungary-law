@@ -1,6 +1,6 @@
 3. számú melléklet a 87/2006. (XII. 28.) FVM rendelethez
 
-## Szőlő szaporítóanyagok kötegelése
+Szőlő szaporítóanyagok kötegelése
 
 ## Szaporítóanyag áruféleségtől függően a következők szerint kell a csomagolási egységeket, kötegeket kialakítani:
 

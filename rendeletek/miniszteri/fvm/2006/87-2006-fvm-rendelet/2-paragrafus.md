@@ -6,7 +6,7 @@ a) a szőlő (Vitis L.) nemzetség fajai, fajhibridjei, bor-, csemege- és alany
 
 b)[^1] a szőlő szaporítóanyagot előállító, illetve forgalomba hozó természetes és jogi személyekre, illetve jogi személyiséggel nem rendelkező szervezetekre
 
-## kell alkalmazni.
+kell alkalmazni.
 
 (2) A géntechnológiával módosított szőlőfajták csak a külön jogszabályokban előírt engedélyek megléte esetén szaporíthatók. A géntechnológiával módosított szőlőfajták forgalomba hozatala esetén a fajta megnevezése mellett a géntechnológiai módosítás tényét és módját is jelölni kell, a külön jogszabályban foglaltak szerint.
 
@@ -29,5 +29,7 @@ g) a szőlő certifikációs rendszerében vizsgálandó károsítókat a 7. sz�
 h) a certifikált szőlő szaporítóanyagok előállításának és forgalomba hozatalának növényegészségügyi ellenőrzésére és igazolására vonatkozó előírásokat a 8. számú melléklet,
 
 i) a szőlő szaporítóanyagok mintavételére és vizsgálatára vonatkozó előírásokat a 9. számú melléklet
+
+tartalmazza.
 
 [^1]: A 2. § (1) bekezdés b) pontja a 22/2014. (III. 14.) VM rendelet 38. § a) pontja szerint módosított szöveg.

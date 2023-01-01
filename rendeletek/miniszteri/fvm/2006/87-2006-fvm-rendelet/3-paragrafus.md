@@ -1,5 +1,3 @@
-## tartalmazza.
-
 3. § (1) E rendelet alkalmazásában:
 
 1. Szaporítóanyag:
@@ -32,7 +30,7 @@ bd) dugványiskolai szőlővesszők: gyökeres szőlővesszők előállításár
 
 7.[^2]
 
-8.[^3] Fajtajelölt: a földművelésügyi miniszterhez (a továbbiakban: miniszter) állami elismerés céljából bejelentett, vizsgálat alatt álló fajta.
+8.[^3] Fajtajelölt: az agrárpolitikáért felelős miniszterhez (a továbbiakban: miniszter) állami elismerés céljából bejelentett, vizsgálat alatt álló fajta.
 
 9.[^4] Klónjelölt: a miniszterhez állami elismerés céljából bejelentett, vizsgálat alatt álló klón.
 
@@ -77,7 +75,7 @@ bd) dugványiskolai szőlővesszők: gyökeres szőlővesszők előállításár
 (2) E rendelet vonatkozásában a növényegészségügyi feladatok végrehajtásának részletes szabályairól szóló 7/2001. (I. 17.) FVM rendelet [a továbbiakban: 7/2001. (I. 17.) FVM rendelet] fogalommeghatározásait is alkalmazni kell.
 
 [^2]: A 3. § (1) bekezdés 7. pontját a 42/2017. (VIII. 17.) FM rendelet 90. § a) pontja hatályon kívül helyezte.
-[^3]: A 3. § (1) bekezdés 8. pontja a 42/2017. (VIII. 17.) FM rendelet 89. § 1. pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés 8. pontja a 42/2017. (VIII. 17.) FM rendelet 89. § 1. pontja, a 97/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^4]: A 3. § (1) bekezdés 9. pontja a 42/2017. (VIII. 17.) FM rendelet 89. § 2. pontja szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdés 21. pontja a 42/2017. (VIII. 17.) FM rendelet 90. § b) pontja szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdés 28. pontja a 42/2017. (VIII. 17.) FM rendelet 90. § c) pontja szerint módosított szöveg.

@@ -1,3 +1,27 @@
+## 6M14202A_0
+
+| Ültetvény típusa | Izolációs távolság (m) |
+
+| Eltérő virológiai státusú szőlőültetvénytől | Közös gazdanövényektől1 |
+
+| Prebázis törzsültetvény | 20 | 20 |
+
+| Bázis törzsültetvény | 10 | 20 |
+
+| Certifikált törzsültetvény | 3 | 10 |
+
+| Certifikált szőlőiskola | 3 | 10 |
+
+## 1 Közós gazdanövények: a 2.1.2. pontban felsorolt növényfajok.
+
+| Cucumis | Nicotiana |
+
+| Lycopersicon | Prunus |
+
+| Rubus | Solanum |
+
+| Ribes |  |
+
 9. számú melléklet a 87/2006. (XII. 28.) FVM rendelethez
 
 Szőlő szaporítóanyagok mintavétele és vizsgálata
@@ -372,9 +396,9 @@ Takácsatkák (Tetranychus fajok): a levél a szivogatások hatására fakul, ma
 
 Cserebogarak: a gyökéren és a gyökértörzsön a pajorok rágása következtében szabálytalan sérülések láthatók.
 
-9.[^84] Laboratóriumi vizsgálatok
+9.[^88] Laboratóriumi vizsgálatok
 
-Laboratóriumi vizsgálatot bármely érdekelt fél a károsítók meghatározására és a vegyszerszennyezettség megállapítására a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivataltól, a nedvességtartalom és a szénhidráttartalom vizsgálata céljából a NÉBIH-től kérhet.
+Laboratóriumi vizsgálatot bármely érdekelt fél a károsítók meghatározására és a vegyszerszennyezettség megállapítására a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivataltól, a nedvességtartalom és a szénhidráttartalom vizsgálata céljából a NÉBIH-től kérhet.
 
 A szaporítóanyag laboratóriumi vizsgálatát hatósági ellenőrzés vagy minősítés alkalmával akkor rendelik el, ha a közvetlen vizsgálat során:
 
@@ -384,9 +408,9 @@ A szaporítóanyag laboratóriumi vizsgálatát hatósági ellenőrzés vagy min
 
 – a szaporítóanyag szikkadt.
 
-10.[^85] Ellenőrző termesztés
+10.[^89] Ellenőrző termesztés
 
 Ellenőrző termesztést bármely érdekelt fél a NÉBIH-től kérhet. A kitermesztést a NÉBIH Fajtakitermesztő Állomása (Monorierdő) végzi.
 
-[^84]: A 9. számú melléklet 9. pontja a 70/2013. (VII. 31.) VM rendelet 59. § u) pontja, a 42/2017. (VIII. 17.) FM rendelet 89. § 26. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § b) pontja szerint módosított szöveg.
-[^85]: A 9. számú melléklet 10. pontja a 70/2013. (VII. 31.) VM rendelet 59. § s) és u) pontja szerint módosított szöveg.
+[^88]: A 9. számú melléklet 9. pontja a 70/2013. (VII. 31.) VM rendelet 59. § u) pontja, a 42/2017. (VIII. 17.) FM rendelet 89. § 26. pontja, a 46/2020. (IX. 23.) AM rendelet 7. § b) pontja, a 97/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^89]: A 9. számú melléklet 10. pontja a 70/2013. (VII. 31.) VM rendelet 59. § s) és u) pontja szerint módosított szöveg.
