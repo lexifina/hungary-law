@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-31-20-4
 | 2010-02-26 | 2004-31-20-45.10 | 7/2010. (II. 11.) OKM rendelet |
 | 2013-12-22 | 2004-31-20-45.11 | 80/2013. (XII. 21.) EMMI rendelet |
 | 2014-04-30 | 2004-31-20-45.12 | 34/2014. (IV. 29.) EMMI rendelet |
+| 2023-01-01 | 2004-31-20-45.13 | 19/2008. (VII. 19.) OKM rendelet |
