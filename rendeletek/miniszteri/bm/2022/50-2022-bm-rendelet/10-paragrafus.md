@@ -1,0 +1,3 @@
+## 7. Az elektronikus távfelügyeleti eszköz működését biztosító rendszer létesítésének és üzemeltetésének, az elektronikus távfelügyeleti eszköz alkalmazásának, továbbá a büntetés-végrehajtási szervezet, valamint a rendőri szerv ezzel kapcsolatos feladatának részletes szabályairól szóló 10/2015. (III. 30.) BM rendelet módosítása
+
+10. § Az elektronikus távfelügyeleti eszköz működését biztosító rendszer létesítésének és üzemeltetésének, az elektronikus távfelügyeleti eszköz alkalmazásának, továbbá a büntetés-végrehajtási szervezet, valamint a rendőri szerv ezzel kapcsolatos feladatának részletes szabályairól szóló 10/2015. (III. 30.) BM rendelet 6. § (3) és (5) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
