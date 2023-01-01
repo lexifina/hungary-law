@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-51-20-5
 | 2012-01-01 | 2004-51-20-53.4 | 52/2011. (XII. 29.) NGM rendelet |
 | 2013-01-01 | 2004-51-20-53.5 | 46/2012. (XII. 27.) NGM rendelet |
 | 2016-01-01 | 2004-51-20-53.6 | 47/2015. (XII. 30.) NGM rendelet |
+| 2023-01-01 | 2004-51-20-53.7 | 6/2024. (XII. 23.) PM rendelet |
