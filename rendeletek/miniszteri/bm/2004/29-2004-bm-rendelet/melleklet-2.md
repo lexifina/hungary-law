@@ -50,6 +50,6 @@
 
 | d) az a), b) és c) pontban foglalt díj tartalmazza az ideiglenes forgalomban tartási engedély vagy az ideiglenes forgalmi engedély érvényességi idején belül a külön jogszabály alapján bejelentett járművet érintő változás indítási naplóba történő bejegyzését, valamint törlését. |  |
 
-2. számú melléklet a 29/2004. (VI. 16.) BM rendelethez[^13]
+2. számú melléklet a 29/2004. (VI. 16.) BM rendelethez[^15]
 
-[^13]: A 2. számú melléklet a 46/2009. (IX. 25.) IRM rendelet 1. §-ával megállapított, a 75/2015. (XII. 29.) NFM rendelet 6. § c)–f) pontja, az 1/2017. (I. 3.) NFM rendelet 39. § (4) bekezdése, a 22/2021. (V. 13.) ITM rendelet 5. §-a, a 35/2021. (VII. 29.) ITM rendelet 2. § (2) bekezdése, 3. § b)–e) pontja és 4. § b) pontja, a 13/2022. (VIII. 16.) TIM rendelet 1. §-a szerint módosított szöveg. [A 2. számú melléklet 1. pontjának a 35/2021. (VII. 29.) ITM rendelet 3. § b) pontjával elrendelt módosítása nem vezethető át.]
+[^15]: A 2. számú melléklet a 46/2009. (IX. 25.) IRM rendelet 1. §-ával megállapított, a 75/2015. (XII. 29.) NFM rendelet 6. § c)–f) pontja, az 1/2017. (I. 3.) NFM rendelet 39. § (4) bekezdése, a 22/2021. (V. 13.) ITM rendelet 5. §-a, a 35/2021. (VII. 29.) ITM rendelet 2. § (2) bekezdése, 3. § b)–e) pontja és 4. § b) pontja, a 13/2022. (VIII. 16.) TIM rendelet 1. §-a szerint módosított szöveg. [A 2. számú melléklet 1. pontjának a 35/2021. (VII. 29.) ITM rendelet 3. § b) pontjával elrendelt módosítása nem vezethető át.]

@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-29-20-0
 | 2022-07-01 | 2004-29-20-0A.16 | 46/2009. (IX. 25.) IRM rendelet |
 | 2022-08-06 | 2004-29-20-0A.17 | 75/2015. (XII. 29.) NFM rendelet |
 | 2022-09-16 | 2004-29-20-0A.18 | 46/2009. (IX. 25.) IRM rendelet |
+| 2023-01-01 | 2004-29-20-0A.19 | 9/2022. (VIII. 1.) TIM rendelet |
