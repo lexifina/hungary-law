@@ -1,3 +1,3 @@
 ## Az ARM-re vonatkozó feltételek
 
-154/P. §
+### 154/P. §

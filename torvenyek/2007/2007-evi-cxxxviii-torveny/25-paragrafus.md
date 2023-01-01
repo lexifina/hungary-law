@@ -1,3 +1,3 @@
 ## Személyi összeférhetetlenség
 
-25. §
+### 25. §
