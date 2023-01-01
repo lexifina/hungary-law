@@ -36,7 +36,7 @@
 
 ## c) a képzési díj mértékét és annak költségviselőjének megjelölését, valamint a képzési hitel igénybevételének és szünetelésének tényét, típusát és mértékét,
 
-## d) a képzés elvégzésének időpontját és az arról kiállított tanúsítvány számát.
+## d) a képzés elvégzésének időpontját és az arról kiállított tanúsítvány számát, a tanúsítvány kiállításának helyszínét, időpontját, valamint kiállítójának nevét és beosztását.
 
 ## III. Felnőttképzési szakértői törzs
 

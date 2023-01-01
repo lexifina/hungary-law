@@ -210,7 +210,7 @@ l) a vizsgáztató hol látott el elnöki feladatot a korábbi vizsgaidőszakokb
 
 m) az összeférhetetlenségre vonatkozó adatok;
 
-n) a vizsgáztató mely megyében vállal vizsgáztatói feladatot;
+n) a vizsgáztató mely vármegyében vállal vizsgáztatói feladatot;
 
 o) a vizsgáztató által az adott vizsgaidőszakban ellátott vizsgáztatói feladatok részletes adatai: vizsgahelyszín, vizsga időpontja, ellátott vizsgáztatói feladat típusa;
 
