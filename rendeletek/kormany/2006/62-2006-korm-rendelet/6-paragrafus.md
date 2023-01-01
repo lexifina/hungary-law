@@ -1,3 +1,3 @@
-## 5. §[^10]
+6. §[^12]
 
-[^10]: Az 5. §-t a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^12]: A 6–7. §-t a 24/2015. (II. 20.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.

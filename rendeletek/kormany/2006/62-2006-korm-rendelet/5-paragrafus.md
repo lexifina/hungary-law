@@ -1,3 +1,3 @@
-## 3–4. §[^9]
+5. §[^11]
 
-[^9]: A 3–4. §-t a 24/2015. (II. 20.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
+[^11]: Az 5. §-t a 358/2010. (XII. 30.) Korm. rendelet 7. § (2) bekezdés f) pontja hatályon kívül helyezte.
