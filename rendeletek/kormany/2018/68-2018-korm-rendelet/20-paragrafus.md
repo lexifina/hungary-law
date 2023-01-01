@@ -1,6 +1,6 @@
 ## 19. § Az ideiglenes műemléki védettség elrendeléséről és megszüntetéséről a 12. §-ban meghatározottakat az Ákr.-ben meghatározott módon értesíteni kell.
 
-20. §[^68] (1) A műemlék – a műemlékvédelem sajátos tárgyai körébe tartozó – műemléki környezetének minősül
+20. §[^71] (1) A műemlék – a műemlékvédelem sajátos tárgyai körébe tartozó – műemléki környezetének minősül
 
 a) a műemlékkel közvetlenül határos – sarkán is érintkező – telkek, a kapcsolódó közterületszakaszok és a közterületszakaszokkal határos ingatlanok, amelyek a műemléki nyilvántartásban szerepelnek, vagy
 
@@ -16,7 +16,7 @@ b) a műemlék építmény telkével kapcsolódó közterületszakaszok, a műem
 
 c) a terepviszonyok miatti egyedi látványkapcsolat vagy sajátos telekformák esetén, indokolt esetben az a) és b) pontban meghatározottaktól eltérő környezet,
 
-## különösen, ha a telken a műemlékké nyilvánítandó műemléki érték megjelenését, utcaképi, településképi, tájképi értékeinek érvényesülését közvetlenül befolyásoló építmény áll vagy létesíthető.
+különösen, ha a telken a műemlékké nyilvánítandó műemléki érték megjelenését, utcaképi, településképi, tájképi értékeinek érvényesülését közvetlenül befolyásoló építmény áll vagy létesíthető.
 
 (3) A műemléki környezet esetében a műemléki területre vonatkozó szabályokat kell alkalmazni.
 
@@ -26,4 +26,4 @@ c) a terepviszonyok miatti egyedi látványkapcsolat vagy sajátos telekformák 
 
 (6) A nyilvántartást vezető hatóság a műemléki környezetnek minősülő ingatlanok értékmeghatározó szakértői vizsgálata és a műemléki környezet módosítása iránt intézkedik, ha a kijelölt műemléki környezet kiterjedése a védett műemléki érték megőrzését nem biztosítja.
 
-[^68]: A 20. § a 677/2020. (XII. 28.) Korm. rendelet 65. §-ával megállapított szöveg.
+[^71]: A 20. § a 677/2020. (XII. 28.) Korm. rendelet 65. §-ával megállapított szöveg.

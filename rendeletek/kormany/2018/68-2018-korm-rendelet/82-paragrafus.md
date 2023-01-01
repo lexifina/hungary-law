@@ -2,11 +2,11 @@
 
 82. § (1) Egybefoglalt örökségvédelmi engedély kérhető a régészeti örökség, valamint a műemlék kutatását és megőrzését együttesen érintő alábbi esetekben:
 
-a)[^203] régészeti feltárás és műemlék roncsolásos kutatása,
+a)[^212] régészeti feltárás és műemlék roncsolásos kutatása,
 
-b)[^204] a régészeti lelőhelyen elterülő védett történeti kert védett park földmunkával járó kutatása,
+b)[^213] a régészeti lelőhelyen elterülő védett történeti kert védett park földmunkával járó kutatása,
 
-c)[^205] védett történeti kertben, védett parkban tervezett régészeti feltárás, vagy
+c)[^214] védett történeti kertben, védett parkban tervezett régészeti feltárás, vagy
 
 d) a műemlékké nyilvánított régészeti emlék állagmegóvási, konzerválási munkálatai.
 
@@ -14,6 +14,6 @@ d) a műemlékké nyilvánított régészeti emlék állagmegóvási, konzervál
 
 (3) Az egybefoglalt döntéseket tartalmazó határozat rendelkező részét és indokolását az egyes eljárásokra vonatkozó döntésenként önállóan kell megszövegezni. Az egybefoglalás az egyes döntések meghozatalára vonatkozó határidőket nem érinti.
 
-[^203]: A 82. (1) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 2. pontja szerint módosított szöveg.
-[^204]: A 82. § (1) bekezdés b) pontja a 677/2020. (XII. 28.) Korm. rendelet 84. § 24. pontja szerint módosított szöveg.
-[^205]: A 82. § (1) bekezdés c) pontja a 677/2020. (XII. 28.) Korm. rendelet 84. § 25. pontja szerint módosított szöveg.
+[^212]: A 82. (1) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 2. pontja szerint módosított szöveg.
+[^213]: A 82. § (1) bekezdés b) pontja a 677/2020. (XII. 28.) Korm. rendelet 84. § 24. pontja szerint módosított szöveg.
+[^214]: A 82. § (1) bekezdés c) pontja a 677/2020. (XII. 28.) Korm. rendelet 84. § 25. pontja szerint módosított szöveg.

@@ -2,13 +2,13 @@
 
 a) a kiviteli engedély számát,
 
-b)[^244]
+b)[^253]
 
-c)[^245]
+c)[^254]
 
-d)[^246]
+d)[^255]
 
-e)[^247]
+e)[^256]
 
 (2) A nem védett kulturális javak kiviteli engedélyének nyilvántartása tartalmazza
 
@@ -16,7 +16,7 @@ a) a kiviteli engedély számát,
 
 b) a tárgy megnevezését, azonosításra alkalmas adatait,
 
-c)[^248]
+c)[^257]
 
 d) a kiviteli engedély időbeli hatályát, továbbá
 
@@ -28,8 +28,8 @@ a) a tárgy megnevezését, azonosításra alkalmas adatait,
 
 b) a műtárgykísérő igazolás számát és időbeli hatályát.
 
-[^244]: A 111. § (1) bekezdés b) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
-[^245]: A 111. § (1) bekezdés c) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
-[^246]: A 111. § (1) bekezdés d) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
-[^247]: A 111. § (2) bekezdés c) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
-[^248]: A 111. § (2) bekezdés c) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^253]: A 111. § (1) bekezdés b) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^254]: A 111. § (1) bekezdés c) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^255]: A 111. § (1) bekezdés d) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^256]: A 111. § (2) bekezdés c) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.
+[^257]: A 111. § (2) bekezdés c) pontját a 367/2020. (VII. 28.) Korm. rendelet 6. § b) pontja hatályon kívül helyezte.

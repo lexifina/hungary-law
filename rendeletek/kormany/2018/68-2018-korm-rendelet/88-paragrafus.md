@@ -1,5 +1,3 @@
-## esetén, ha előzetes régészeti dokumentáció nem áll rendelkezésre.
-
 ## 41. Az örökségvédelmi szakhatósági eljárás és szakkérdés vizsgálata régészeti lelőhely, régészeti védőövezet esetén
 
 88. § (1) A régészeti lelőhelyet érintő szakhatósági eljárásokban vagy örökségvédelmi szakkérdés vizsgálata során a hatóság vizsgálja
@@ -58,6 +56,6 @@ a) örökségvédelmi vagy természetvédelmi célból vagy
 
 b) belterületen
 
-## valósul meg, vagy más meglévő építmény vagy műtárgy karbantartására irányul.
+valósul meg, vagy más meglévő építmény vagy műtárgy karbantartására irányul.
 
 (7) A hatóság előzetes nyilatkozatot ad ki védetté nyilvánított régészeti lelőhely kisajátításához jogszabályban meghatározott esetekben.

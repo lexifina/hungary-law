@@ -1,5 +1,3 @@
-## A régészeti feladatellátás költségeire alkalmazható legmagasabb hatósági árak
-
 ## (A táblázat az árakat a régészeti feladatellátás tevékenységei szerinti bontásban tartalmazza.)
 
 |  | A | B | C |
@@ -94,7 +92,7 @@
 
 9. melléklet a 68/2018. (IV. 9.) Korm. rendelethez
 
-## Feltárási engedély iránti kérelem adattartalma
+Feltárási engedély iránti kérelem adattartalma
 
 1. A lelőhely nyilvántartási azonosítója
 

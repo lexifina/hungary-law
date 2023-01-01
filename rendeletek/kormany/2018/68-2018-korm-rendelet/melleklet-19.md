@@ -1,5 +1,3 @@
-## A kulturális javak hatósági eljárásában szakértőként közreműködő intézmények
-
 |  | A | B | C |
 
 | 1. | Magyarországi eredetű képzőművészeti alkotás | Szépművészeti Múzeum | 1146 Budapest, Dózsa György út 41. |

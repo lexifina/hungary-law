@@ -1,6 +1,6 @@
 20. melléklet a 68/2018. (IV. 9.) Korm. rendelethez
 
-## A műtárgykísérő igazolás adattartalma
+A műtárgykísérő igazolás adattartalma
 
 1. Az igazolás száma [Reference number of this certificate]
 

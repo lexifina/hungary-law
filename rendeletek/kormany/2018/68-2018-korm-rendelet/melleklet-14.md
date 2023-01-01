@@ -18,7 +18,7 @@
 
 ## 1.4. Műemlék elhelyezkedése
 
-## 1.4.1. Település, településrész; megye
+## 1.4.1.[^283] Település, településrész; vármegye
 
 ## 1.4.2. Cím
 
@@ -96,7 +96,7 @@
 
 14. melléklet a 68/2018. (IV. 9.) Korm. rendelethez
 
-## A települési örökségvédelmi hatástanulmány tartalma
+A települési örökségvédelmi hatástanulmány tartalma
 
 A települési örökségvédelmi hatástanulmány szöveges dokumentum, azonosításra alkalmas térképi ábrázolással, fotókkal és egyéb adatokkal, amely legalább az alábbiakat tartalmazza:
 
@@ -149,3 +149,5 @@ A települési örökségvédelmi hatástanulmány szöveges dokumentum, azonos�
 3.2. az önkormányzati feladatok
 
 meghatározását.
+
+[^283]: A 13. melléklet II. 1.4.1. pontja a 616/2022. (XII. 29.) Korm. rendelet 286. § c) pontja szerint módosított szöveg.

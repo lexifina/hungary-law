@@ -1,4 +1,4 @@
-## 109. §[^243] A kulturális javak hatósága központi nyilvántartásokat vezet a Kötv. 71. § (2) bekezdésében meghatározott kulturális javakról.
+## 109. §[^252] A kulturális javak hatósága központi nyilvántartásokat vezet a Kötv. 71. § (2) bekezdésében meghatározott kulturális javakról.
 
 110. § (1) A védetté nyilvánított kulturális javak nyilvántartása tartalmazza:
 
@@ -20,4 +20,4 @@ g) a Kötv. 79. §-ában foglaltakra vonatkozó megállapodást.
 
 (3) Az ideiglenesen védetté nyilvánított kulturális javak nyilvántartása az (1) bekezdés szerinti adatokat tartalmazza.
 
-[^243]: A 109. § a 367/2020. (VII. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^252]: A 109. § a 367/2020. (VII. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.

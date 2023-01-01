@@ -10,8 +10,8 @@ c) egyedi tájértéket magába foglaló területen vagy
 
 d) Natura 2000 területen
 
-## végzik.
+végzik.
 
-(3)[^79]
+(3)[^87]
 
-[^79]: A 49. § (3) bekezdését a 62/2019. (III. 26.) Korm. rendelet 5. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^87]: A 49. § (3) bekezdését a 62/2019. (III. 26.) Korm. rendelet 5. § (2) bekezdés b) pontja hatályon kívül helyezte.

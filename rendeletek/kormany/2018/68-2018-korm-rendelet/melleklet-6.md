@@ -1,6 +1,6 @@
 6. melléklet a 68/2018. (IV. 9.) Korm. rendelethez
 
-## Feltárás megkezdéséről szóló bejelentés adattartalma
+Feltárás megkezdéséről szóló bejelentés adattartalma
 
 1. Bejelentő intézmény neve
 

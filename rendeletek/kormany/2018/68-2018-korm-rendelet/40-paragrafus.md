@@ -1,6 +1,6 @@
-40. § (1) Az egy megyét érintő nagyberuházás egészére egy feltárási projekttervet kell készíteni.
+40. § (1)[^84] Az egy vármegyét érintő nagyberuházás egészére egy feltárási projekttervet kell készíteni.
 
-(2) Ha a nagyberuházás több megye területét érinti, a régészeti feladatellátás területi szakaszait megyei bontásban kell meghatározni. Feltárási projektterv a nagyberuházáshoz kapcsolódó régészeti feladatellátás területi szakaszaira külön is készíthető.
+(2)[^85] Ha a nagyberuházás több vármegye területét érinti, a régészeti feladatellátás területi szakaszait vármegyei bontásban kell meghatározni. Feltárási projektterv a nagyberuházáshoz kapcsolódó régészeti feladatellátás területi szakaszaira külön is készíthető.
 
 (3) A feltárási projektterv készítése során az elfedés alkalmazása tekintetében figyelembe kell venni, hogy ha a kivitelezés során eltávolítandó talajréteg alsó síkja és a régészeti emlékek jelentkezésének felső síkja között a régészeti lelőhely, lelőhelyrész vagy régészeti emlék megóvását biztosító magasságú és konzisztenciájú intakt földréteg
 
@@ -14,11 +14,11 @@ b) nem marad, a Kötv. 23/E. § (8) bekezdése alapján alkalmazható elfedés.
 
 (6) A feltárási projektterv készítése során az Ásatási Bizottság szakmai véleménye kérhető különösen
 
-a) több megyét érintő nagyberuházás,
+a)[^86] több vármegyét érintő nagyberuházás,
 
 b) elfedés alkalmazására irányuló javaslat
 
-## esetén.
+esetén.
 
 (7) Az előzetes régészeti dokumentációt a földmunkával járó tevékenység engedélyezésére vagy a földterület megszerzésére irányuló azon első hatósági eljárás megindítására irányuló kérelemhez kell mellékelni, amelyben a hatóság eljár vagy szakhatóságként vagy a szakkérdés vizsgálatával közreműködik.
 
@@ -29,3 +29,7 @@ b) elfedés alkalmazására irányuló javaslat
 (10) A hatóság a beruházás műszaki adatainak a régészeti érintettség szempontjából lényeges megváltozása vagy a beruházás helyszínének részleges megváltozása esetén a feltárási projektterv módosítását írhatja elő.
 
 (11) A beruházás helyszínének teljes megváltoztatása örökségvédelmi szempontból új beruházásnak minősül, mely esetben a beruházónak új feltárási projekttervet kell készíttetnie.
+
+[^84]: A 40. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 286. § b) pontja szerint módosított szöveg.
+[^85]: A 40. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 286. § a) és c) pontja szerint módosított szöveg.
+[^86]: A 40. § (6) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 286. § b) pontja szerint módosított szöveg.

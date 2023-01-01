@@ -1,6 +1,6 @@
 11. melléklet a 68/2018. (IV. 9.) Korm. rendelethez
 
-## A régészeti lelőhely, lelet megtalálója elismerésének kezdeményezéséhez szükséges adattartalom
+A régészeti lelőhely, lelet megtalálója elismerésének kezdeményezéséhez szükséges adattartalom
 
 1. Az elismerésre javasolt személy vagy szervezet
 

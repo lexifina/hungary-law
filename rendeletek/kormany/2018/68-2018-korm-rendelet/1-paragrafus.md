@@ -20,6 +20,8 @@ f)[^3] a kulturális javak védelmével kapcsolatos szabályokra, valamint
 
 g)[^4] a kulturális örökségvédelemmel összefüggésben, a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao tv.) 7. § (26) bekezdésében meghatározott adózás előtti eredmény csökkentéséhez szükséges igazolás szabályaira
 
+terjed ki.
+
 [^1]: A 1. § c) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 1. pontja szerint módosított szöveg.
 [^2]: Az 1. § e) pontja a 190/2018. (X. 12.) Korm. rendelet 6. § a) pontja, a 677/2020. (XII. 28.) Korm. rendelet 83. § 2. pontja szerint módosított szöveg.
 [^3]: Az 1. § f) pontja a 190/2018. (X. 12.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

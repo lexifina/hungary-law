@@ -1,6 +1,6 @@
 7. melléklet a 68/2018. (IV. 9.) Korm. rendelethez
 
-## Bejelentéshez kötött feltárási tevékenység bejelentésének és mellékleteinek adattartalma
+Bejelentéshez kötött feltárási tevékenység bejelentésének és mellékleteinek adattartalma
 
 1. A lelőhely nyilvántartási azonosítója, ha a feltárás ismert lelőhelyet érint
 

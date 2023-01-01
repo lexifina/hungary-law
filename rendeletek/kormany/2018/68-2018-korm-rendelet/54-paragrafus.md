@@ -8,10 +8,12 @@
 
 (4) Szabálytalan feltárási tevékenység esetén, vagy ha a Kötv.-ben meghatározott egyéb jogkövetkezmények alkalmazásának indokai fennállnak, a hatóság a feltárást leállítja, továbbá engedélyköteles tevékenység esetén a feltárási engedélyt visszavonja.
 
-(5) A védetté nyilvánított régészeti lelőhely állapotát a hatóság a gyűjtőterületén érintett megyei hatókörű városi múzeum és a gyűjtőterületén érintett területi múzeum bevonásával ellenőrzi.
+(5)[^90] A védetté nyilvánított régészeti lelőhely állapotát a hatóság a gyűjtőterületén érintett vármegyei hatókörű városi múzeum és a gyűjtőterületén érintett területi múzeum bevonásával ellenőrzi.
 
 (6) Az ellenőrzés végén a 2. melléklet szerinti adatokat rögzítő jegyzőkönyvet meg kell küldeni a nyilvántartást vezető hatóságnak és az ellenőrzésbe bevont múzeumnak.
 
 (7) Az (5) bekezdés szerinti helyszíni ellenőrzést követően a Kötv. 18. § (1) bekezdése szerinti esetben a hatóság haladéktalanul kezdeményezi a régészeti védelem megszüntetését.
 
 (8) A hatóság a régészeti lelőhelyet veszélyeztető tevékenység végzését megtiltja.
+
+[^90]: Az 54. § (5) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 286. § a) pontja szerint módosított szöveg.

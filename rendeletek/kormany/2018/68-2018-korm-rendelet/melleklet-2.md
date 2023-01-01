@@ -1,12 +1,12 @@
 2. melléklet a 68/2018. (IV. 9.) Korm. rendelethez
 
-## Régészeti lelőhely-bejelentő adatlap adattartalma
+Régészeti lelőhely-bejelentő adatlap adattartalma
 
 (A *-gal jelölt pontok nyilvántartott régészeti lelőhely védetté nyilvánítására, valamint a védettség megszüntetésére irányuló kezdeményezés esetén kötelezően kitöltendők!)
 
 1. A lelőhely azonosító adatai
 
-1.1. Megye, város, település neve, kerület, utca, házszám
+1.1.[^275] Vármegye, város, település neve, kerület, utca, házszám
 
 *1.2. A lelőhely nyilvántartási azonosító száma
 
@@ -55,3 +55,5 @@ A térképlap száma és a térképről leolvasott koordináták: X (É–D): ..
 14. A bejelentés kelte
 
 15. Mellékletek
+
+[^275]: A 2. melléklet 1.1. pontja a 616/2022. (XII. 29.) Korm. rendelet 286. § d) pontja szerint módosított szöveg.

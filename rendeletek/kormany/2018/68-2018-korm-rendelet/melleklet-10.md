@@ -1,6 +1,6 @@
 10. melléklet a 68/2018. (IV. 9.) Korm. rendelethez
 
-## A leletanyag végleges befogadásáról szóló igazolás adattartalma
+A leletanyag végleges befogadásáról szóló igazolás adattartalma
 
 1. A leletanyagot véglegesen befogadó múzeum neve, székhelyének címe
 

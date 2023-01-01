@@ -1,6 +1,6 @@
 15. melléklet a 68/2018. (IV. 9.) Korm. rendelethez
 
-## A döntéselőkészítő örökségvédelmi hatástanulmány és az értékvédelmi terv részletes tartalma
+A döntéselőkészítő örökségvédelmi hatástanulmány és az értékvédelmi terv részletes tartalma
 
 1. Vizsgálat: szöveg, térképi ábrázolás, fotók azonosításra alkalmas adatokkal és formában:
 

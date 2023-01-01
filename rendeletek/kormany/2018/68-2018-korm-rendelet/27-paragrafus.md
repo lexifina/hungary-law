@@ -14,9 +14,9 @@ f) a régészeti leletek elsődleges leletfeldolgozásáról és muzeális inté
 
 (2) A feltárási napló a régészeti feltárás – hatósági és bírósági eljárásban felhasználható – alapdokumentuma, amelynek első részében a feltárás időpontját, a feltárásban közreműködők létszámát, a feltárás menetét befolyásoló körülményeket, a régészeti feltárásra alkalmas és alkalmatlan napokat, a második részében a szakmai megfigyeléseket, feljegyzéseket kell a feltárás megkezdésétől a befejezéséig folyamatosan vezetni a feltárás módszerétől függően.
 
-(3)[^74] A beruházó jogosult a feltárási napló első részébe betekinteni, arról másolatot kérni, ellenőrizni, bejegyzést tenni.
+(3)[^78] A beruházó jogosult a feltárási napló első részébe betekinteni, arról másolatot kérni, ellenőrizni, bejegyzést tenni.
 
-(4)[^75] A feltárási dokumentáció egy-egy példányát a feltárás befejezését követő egy éven belül elektronikus úton meg kell küldeni
+(4)[^79] A feltárási dokumentáció egy-egy példányát a feltárás befejezését követő egy éven belül elektronikus úton meg kell küldeni
 
 a) a nyilvántartást vezető hatóságnak,
 
@@ -26,12 +26,13 @@ c) a Magyar Nemzeti Múzeumnak,
 
 d) a leletanyagot véglegesen befogadó múzeumnak,
 
-e) a területileg érintett megyei hatókörű városi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte, és
+e)[^80] a területileg érintett vármegyei hatókörű városi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte, és
 
 f) a gyűjtőterületén érintett területi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte.
 
-(5)[^76] A leletanyagot véglegesen befogadó múzeum a feltárási dokumentáció egy papíralapú példányára is jogosult, melynek adattári elhelyezéséről és kutathatóságának biztosításáról a régészeti leletek elsődleges leletfeldolgozásáról és muzeális intézménybe történő végleges befogadásáról szóló miniszteri rendeletben megállapítottak szerint gondoskodik.
+(5)[^81] A leletanyagot véglegesen befogadó múzeum a feltárási dokumentáció egy papíralapú példányára is jogosult, melynek adattári elhelyezéséről és kutathatóságának biztosításáról a régészeti leletek elsődleges leletfeldolgozásáról és muzeális intézménybe történő végleges befogadásáról szóló miniszteri rendeletben megállapítottak szerint gondoskodik.
 
-[^74]: A 27. § (3) bekezdését a 62/2019. (III. 26.) Korm. rendelet 5. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 677/2020. (XII. 28.) Korm. rendelet 67. § (1) bekezdése iktatta be.
-[^75]: A 27. § (4) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 67. § (2) bekezdésével megállapított szöveg.
-[^76]: A 27. § (5) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 67. § (2) bekezdése iktatta be.
+[^78]: A 27. § (3) bekezdését a 62/2019. (III. 26.) Korm. rendelet 5. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 677/2020. (XII. 28.) Korm. rendelet 67. § (1) bekezdése iktatta be.
+[^79]: A 27. § (4) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 67. § (2) bekezdésével megállapított szöveg.
+[^80]: A 27. § (4) bekezdés e) pontja a 616/2022. (XII. 29.) Korm. rendelet 286. § a) pontja szerint módosított szöveg.
+[^81]: A 27. § (5) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 67. § (2) bekezdése iktatta be.
