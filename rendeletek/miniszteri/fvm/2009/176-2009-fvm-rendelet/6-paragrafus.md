@@ -1,4 +1,4 @@
-6. § (1)[^20] A digitális belépési igazolvánnyal rendelkező felhasználónak a rendszerben folyószámlája van, amelyen a lekérdezések és annak költségei, valamint a költségek kiegyenlítése folyamatosan követhető. A felhasználót a számla egyenlegéről havonta a földmérési és térinformatikai államigazgatási szerv írásban tájékoztatja, amely fizetési felhívásként is szolgál.
+6. § (1)[^21] A digitális belépési igazolvánnyal rendelkező felhasználónak a rendszerben folyószámlája van, amelyen a lekérdezések és annak költségei, valamint a költségek kiegyenlítése folyamatosan követhető. A felhasználót a számla egyenlegéről havonta a földmérési és térinformatikai államigazgatási szerv írásban tájékoztatja, amely fizetési felhívásként is szolgál.
 
 (2) Amennyiben a felhasználó – a szolgáltatás igénybevételére törvény alapján kötelezett felhasználók kivételével – a számla kézhezvételétől számított 15 napon belül nem tesz eleget a fizetési kötelezettségének, tartozása rendezéséig a TAKARNET rendszer szolgáltatásait nem veheti igénybe.
 
@@ -6,4 +6,4 @@
 
 (4) A (3) bekezdésben foglaltak esetén az engedély egy éven belül történő ismételt kiadására csak különösen indokolt esetben kerülhet sor.
 
-[^20]: A 6. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 141. § c) pontja szerint módosított szöveg.
+[^21]: A 6. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 141. § c) pontja szerint módosított szöveg.
