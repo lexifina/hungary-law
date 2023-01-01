@@ -1,10 +1,10 @@
-## Nevelési felügyelet a speciális gyermekotthonban, a speciális lakásotthonban és a gyermekotthon speciális csoportjában[^375]
+## Nevelési felügyelet a speciális gyermekotthonban, a speciális lakásotthonban és a gyermekotthon speciális csoportjában[^380]
 
-126/B. §[^376] (1) A speciális gyermekotthon vezetője a Gyvt. 81/B. § (1) bekezdése szerinti esetben írásban kezdeményezi a gyámhivatalnál a gyermek nevelési felügyeletének elrendelését. A speciális gyermekotthon vezetője kérelmében tájékoztatást nyújt a gyámhivatalnak a gyermek aktuális személyiségállapotáról, a nevelési felügyelet elrendelését megalapozó okról, és javaslatot tesz a nevelési felügyelet időtartamára. A speciális gyermekotthon vezetője a kérelmet egyidejűleg megküldi a gyermekjogi képviselőnek, a gyermekvédelmi gyámnak és a megyei, fővárosi gyermekvédelmi szakértői bizottságnak is.
+126/B. §[^381] (1)[^382] A speciális gyermekotthon vezetője a Gyvt. 81/B. § (1) bekezdése szerinti esetben írásban kezdeményezi a gyámhivatalnál a gyermek nevelési felügyeletének elrendelését. A speciális gyermekotthon vezetője kérelmében tájékoztatást nyújt a gyámhivatalnak a gyermek aktuális személyiségállapotáról, a nevelési felügyelet elrendelését megalapozó okról, és javaslatot tesz a nevelési felügyelet időtartamára. A speciális gyermekotthon vezetője a kérelmet egyidejűleg megküldi a gyermekjogi képviselőnek, a gyermekvédelmi gyámnak és a vármegyei, fővárosi gyermekvédelmi szakértői bizottságnak is.
 
-(2) A gyermekvédelmi gyám a Gyvt. 81/B. § (2) bekezdése szerinti kérelmében tájékoztatást nyújt a gyámhivatalnak a nevelési felügyelet elrendelését megalapozó okról, és javaslatot tesz a nevelési felügyelet időtartamára. A gyermekvédelmi gyám a kérelmet egyidejűleg megküldi a gyermekjogi képviselőnek, a speciális gyermekotthon vezetőjének és a megyei, fővárosi gyermekvédelmi szakértői bizottságnak is.
+(2)[^383] A gyermekvédelmi gyám a Gyvt. 81/B. § (2) bekezdése szerinti kérelmében tájékoztatást nyújt a gyámhivatalnak a nevelési felügyelet elrendelését megalapozó okról, és javaslatot tesz a nevelési felügyelet időtartamára. A gyermekvédelmi gyám a kérelmet egyidejűleg megküldi a gyermekjogi képviselőnek, a speciális gyermekotthon vezetőjének és a vármegyei, fővárosi gyermekvédelmi szakértői bizottságnak is.
 
-(3) A megyei, fővárosi gyermekvédelmi szakértői bizottság a gyámhivatal felkérésére, annak kézhezvételétől számított 3 munkanapon belül megküldi a Gyer. 114/A. § (2) bekezdése szerinti, a nevelési felügyelet kérdésében adott szakmai véleményét, amely kiterjed
+(3)[^384] A vármegyei, fővárosi gyermekvédelmi szakértői bizottság a gyámhivatal felkérésére, annak kézhezvételétől számított 3 munkanapon belül megküldi a Gyer. 114/A. § (2) bekezdése szerinti, a nevelési felügyelet kérdésében adott szakmai véleményét, amely kiterjed
 
 a) a gyermek esetleges korábbi személyes szabadsága korlátozásának esetére, annak eredményessége értékelésére,
 
@@ -14,7 +14,7 @@ c) indokolt esetben a gyermek számára szükséges gyógykezelésre vagy gyógy
 
 (4) A speciális gyermekotthon vezetője és a gyermekvédelmi gyám a Gyer. 114/A. § (2) bekezdése szerinti véleményét a gyámhivatal felkérésének kézhezvételétől számított 3 munkanapon belül küldi meg a gyámhivatalnak.
 
-(5) A speciális gyermekotthon vezetője, a gyermekvédelmi gyám és a megyei, fővárosi gyermekvédelmi szakértői bizottság vezetője köteles haladéktalanul egyeztetni a gyermek számára szükséges gyógykezelés, gyógyító eljárás kérdésében, ha a gyermekvédelmi gyám a megyei, fővárosi gyermekvédelmi szakértői bizottság javaslatával nem ért egyet.
+(5)[^385] A speciális gyermekotthon vezetője, a gyermekvédelmi gyám és a vármegyei, fővárosi gyermekvédelmi szakértői bizottság vezetője köteles haladéktalanul egyeztetni a gyermek számára szükséges gyógykezelés, gyógyító eljárás kérdésében, ha a gyermekvédelmi gyám a vármegyei, fővárosi gyermekvédelmi szakértői bizottság javaslatával nem ért egyet.
 
 (6) A nevelési felügyelet gyámhivatal által történő elrendelése esetén a 126/A. § (2) bekezdését kell alkalmazni. A gyermekvédelmi gyám a nevelési felügyelet elrendeléséről szóló határozat kézhezvételétől számított 15 napon belül felkeresi a gyermeket, és személyes beszélgetést kezdeményez vele.
 
@@ -26,5 +26,9 @@ a) gondoskodik a nevelési felügyeletet elrendelő határozatban foglaltak vég
 
 b) a gyámhivatal felkérésére biztosítja a gyermek gyermekotthonban történő meghallgatásának feltételeit.
 
-[^375]: A 126/B. §-t megelőző alcímet a 19/2014. (III. 13.) EMMI rendelet 15. §-a iktatta be.
-[^376]: A 126/B. §-t a 19/2014. (III. 13.) EMMI rendelet 15. §-a iktatta be.
+[^380]: A 126/B. §-t megelőző alcímet a 19/2014. (III. 13.) EMMI rendelet 15. §-a iktatta be.
+[^381]: A 126/B. §-t a 19/2014. (III. 13.) EMMI rendelet 15. §-a iktatta be.
+[^382]: A 126/B. § (1) bekezdése a 45/2022. (XII. 20.) BM rendelet 6. § 1. pontja szerint módosított szöveg.
+[^383]: A 126/B. § (2) bekezdése a 45/2022. (XII. 20.) BM rendelet 6. § 1. pontja szerint módosított szöveg.
+[^384]: A 126/B. § (3) bekezdés nyitó szövegrésze a 45/2022. (XII. 20.) BM rendelet 6. § 1. pontja szerint módosított szöveg.
+[^385]: A 126/B. § (5) bekezdése a 45/2022. (XII. 20.) BM rendelet 6. § 2. pontja szerint módosított szöveg.

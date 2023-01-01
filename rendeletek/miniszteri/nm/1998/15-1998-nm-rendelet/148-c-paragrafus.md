@@ -1,6 +1,6 @@
-## Az örökbefogadás utánkövetése[^540]
+## Az örökbefogadás utánkövetése[^550]
 
-148/C. §[^541] (1) A szakszolgálat a gyámhivatal örökbefogadást engedélyező határozatában előírtak alapján biztosítja az általa előkészített és – az örökbefogadó szülő kérelmére – a közhasznú szervezet által előkészített nyílt örökbefogadás esetén az örökbefogadás utánkövetését, melynek érdekében felveszi a kapcsolatot az örökbefogadó szülővel és személyes találkozást kezdeményez.
+148/C. §[^551] (1) A szakszolgálat a gyámhivatal örökbefogadást engedélyező határozatában előírtak alapján biztosítja az általa előkészített és – az örökbefogadó szülő kérelmére – a közhasznú szervezet által előkészített nyílt örökbefogadás esetén az örökbefogadás utánkövetését, melynek érdekében felveszi a kapcsolatot az örökbefogadó szülővel és személyes találkozást kezdeményez.
 
 (2) A szakszolgálat az utánkövetés keretében a Gyvt. 62/C. § (4) bekezdés b) pontjában meghatározottak szerint személyes tanácsadással segíti
 
@@ -20,8 +20,8 @@ d) a gyermek óvodai, iskolai beilleszkedése kapcsán a problémák megelőzés
 
 (6) A szakszolgálat az örökbefogadás utánkövetését két szakember közreműködésével látja el, akik közül az egyik szakember pszichológus végzettségű, vagy szükség esetén a szakszolgálat biztosítja pszichológus tanácsadását.
 
-(7)[^542] Az utánkövetéssel kapcsolatos tevékenység adminisztrációját a GYVR örökbefogadási alrendszerében kell végezni.
+(7)[^552] Az utánkövetéssel kapcsolatos tevékenység adminisztrációját a GYVR örökbefogadási alrendszerében kell végezni.
 
-[^540]: A 148/C. §-t megelőző alcímet a 26/2013. (III. 29.) EMMI rendelet 29. §-a iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 30. §-ával megállapított szöveg.
-[^541]: A 148/C. §-t a 26/2013. (III. 29.) EMMI rendelet 29. §-a iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 30. §-ával megállapított szöveg.
-[^542]: A 148/C. § (7) bekezdését a 34/2020. (X. 2.) EMMI rendelet 10. §-a iktatta be.
+[^550]: A 148/C. §-t megelőző alcímet a 26/2013. (III. 29.) EMMI rendelet 29. §-a iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 30. §-ával megállapított szöveg.
+[^551]: A 148/C. §-t a 26/2013. (III. 29.) EMMI rendelet 29. §-a iktatta be, szövege a 19/2014. (III. 13.) EMMI rendelet 30. §-ával megállapított szöveg.
+[^552]: A 148/C. § (7) bekezdését a 34/2020. (X. 2.) EMMI rendelet 10. §-a iktatta be.

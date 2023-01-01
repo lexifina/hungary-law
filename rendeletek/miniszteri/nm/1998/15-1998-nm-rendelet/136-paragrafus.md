@@ -2,7 +2,7 @@
 
 ## A TERÜLETI GYERMEKVÉDELMI SZAKSZOLGÁLTATÁS ÉS A SZAKSZOLGÁLAT
 
-136. §[^441] (1) A személyes gondoskodást nyújtó gyermekvédelmi szakellátás keretében szakszolgáltatásként biztosítani kell
+136. §[^450] (1) A személyes gondoskodást nyújtó gyermekvédelmi szakellátás keretében szakszolgáltatásként biztosítani kell
 
 a) a gondozási hely meghatározásával,
 
@@ -14,13 +14,13 @@ d) az ideiglenes hatállyal elhelyezett és a nevelésbe vett gyermek gyámság�
 
 e) a szaktanácsadással,
 
-f)[^442] a Gyvt.-ben előírt nyilvántartások és a GYVR vezetésével,
+f)[^451] a Gyvt.-ben előírt nyilvántartások és a GYVR vezetésével,
 
-g) a megyei bizottság működtetésével és
+g)[^452] a vármegyei bizottság működtetésével és
 
 h) a támogatott közvetítői eljárással,
 
-i)[^443] a Gyvt. 66. § (3) bekezdés g) pontja szerinti kríziskezelő szolgáltatással
+i)[^453] a Gyvt. 66. § (3) bekezdés g) pontja szerinti kríziskezelő szolgáltatással
 
 kapcsolatos feladatok ellátását.
 
@@ -46,6 +46,7 @@ a) szakmai, módszertani segítséget nyújt a személyes gondoskodásra irányu
 
 b) javaslatot készít a szakellátás fejlesztésére, és elősegíti a tudományos kutatómunka gyakorlati alkalmazását.
 
-[^441]: A 136. § az 1/2017. (II. 14.) EMMI rendelet 18. §-ával megállapított szöveg.
-[^442]: A 136. § (1) bekezdés f) pontja a 34/2020. (X. 2.) EMMI rendelet 13. § f) pontja szerint módosított szöveg.
-[^443]: A 136. § (1) bekezdés i) pontját a 2/2018. (I. 18.) EMMI rendelet 25. §-a iktatta be.
+[^450]: A 136. § az 1/2017. (II. 14.) EMMI rendelet 18. §-ával megállapított szöveg.
+[^451]: A 136. § (1) bekezdés f) pontja a 34/2020. (X. 2.) EMMI rendelet 13. § f) pontja szerint módosított szöveg.
+[^452]: A 136. § (1) bekezdés g) pontja a 45/2022. (XII. 20.) BM rendelet 6. § 1. pontja szerint módosított szöveg.
+[^453]: A 136. § (1) bekezdés i) pontját a 2/2018. (I. 18.) EMMI rendelet 25. §-a iktatta be.

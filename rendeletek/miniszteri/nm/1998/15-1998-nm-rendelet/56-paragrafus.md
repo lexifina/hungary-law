@@ -4,7 +4,7 @@
 
 (2) A szülő az átmeneti otthon házirendje, illetve a helyettes szülővel történt megállapodás szerint látogathatja meg, illetve viheti el a gyermeket, és élhet a kapcsolattartás egyéb formáival (levelezés, telefonkapcsolat, ajándékozás, csomagküldés).
 
-(2a)[^171] A helyettes szülőnél, a gyermekek átmeneti otthonában vagy a családok átmeneti otthonában ellátott gyermek különélő hozzátartozójával való kapcsolattartásának elősegítése érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően – a helyettes szülői hálózat működtetője, a gyermekek átmeneti otthona vagy a családok átmeneti otthona
+(2a)[^174] A helyettes szülőnél, a gyermekek átmeneti otthonában vagy a családok átmeneti otthonában ellátott gyermek különélő hozzátartozójával való kapcsolattartásának elősegítése érdekében – a gyámhivatal vagy a bíróság döntésének megfelelően – a helyettes szülői hálózat működtetője, a gyermekek átmeneti otthona vagy a családok átmeneti otthona
 
 a) segíti a kapcsolattartás során felmerülő problémák megoldását, szükség esetén pszichológus, mentálhigiénés szakember bevonásával,
 
@@ -16,7 +16,7 @@ ca) a kapcsolattartás kulturált és zavartalan lebonyolításához helyszínt 
 
 cb) a felügyelt kapcsolattartáson történtekről és a szülő-gyermek kapcsolat alakulásáról tájékoztatja a gyámhivatalt.
 
-(3)[^172] Az átmeneti gondozást nyújtó a gyermek átmeneti gondozásáról értesíti a szülő lakóhelye (tartózkodási helye) szerinti család- és gyermekjóléti szolgálatot, amennyiben az átmeneti gondozást hatósági intézkedés előzte meg, a család- és gyermekjóléti központot, és együttműködik az átmeneti gondozást szükségessé tevő okok megszüntetése, a gyermek mielőbbi hazakerülése érdekében.
+(3)[^175] Az átmeneti gondozást nyújtó a gyermek átmeneti gondozásáról értesíti a szülő lakóhelye (tartózkodási helye) szerinti család- és gyermekjóléti szolgálatot, amennyiben az átmeneti gondozást hatósági intézkedés előzte meg, a család- és gyermekjóléti központot, és együttműködik az átmeneti gondozást szükségessé tevő okok megszüntetése, a gyermek mielőbbi hazakerülése érdekében.
 
-[^171]: Az 56. § (2a) bekezdését a 28/2010. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
-[^172]: A 56. § (3) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^174]: Az 56. § (2a) bekezdését a 28/2010. (XII. 30.) NEFMI rendelet 8. §-a iktatta be.
+[^175]: A 56. § (3) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 5. §-ával megállapított szöveg.

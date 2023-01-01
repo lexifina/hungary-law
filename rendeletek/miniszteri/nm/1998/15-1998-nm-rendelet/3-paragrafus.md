@@ -46,13 +46,13 @@ o) speciális gyermekotthon magasabb vezető/vezető,
 
 p) területi gyermekvédelmi szakszolgálat magasabb vezető/vezető,
 
-q) megyei, fővárosi gyermekvédelmi szakértői bizottság vezető,
+q)[^24] vármegyei, fővárosi gyermekvédelmi szakértői bizottság vezető,
 
 r) intézményvezető,
 
 s) szakmai vezető.
 
-(5c)[^24] A gyermekjóléti alapellátás nem vezetői munkakörei közül
+(5c)[^25] A gyermekjóléti alapellátás nem vezetői munkakörei közül
 
 a) a Személyes gondoskodást nyújtó szakember szakmacsoportba tartozó munkakörök:
 
@@ -120,9 +120,9 @@ ci) gyermekvédelmi ügyintéző,
 
 cj) növendékügyi előadó.
 
-ck)[^25] fogyatékosságügyi tanácsadó.
+ck)[^26] fogyatékosságügyi tanácsadó.
 
-(5d)[^26] A gyermekvédelmi szakellátás nem vezető munkakörei közül
+(5d)[^27] A gyermekvédelmi szakellátás nem vezető munkakörei közül
 
 a) a Gyermekvédelmi gondozás, nevelés, fejlesztés szakmacsoportba tartozó munkakörök:
 
@@ -178,23 +178,23 @@ ck) pszichológiai tanácsadó,
 
 cl) pszichológus;
 
-cm)[^27] a Gyvt. 61. § (2) bekezdése szerinti szolgáltatást végző szaktanácsadó, orvos, szociális munkás, technikus;
+cm)[^28] a Gyvt. 61. § (2) bekezdése szerinti szolgáltatást végző szaktanácsadó, orvos, szociális munkás, technikus;
 
-d)[^28] a Gyermeki jogokat védő szakértői tevékenység, tanácsadás asszisztenciája szakmacsoportba tartozó munkakörök:
+d)[^29] a Gyermeki jogokat védő szakértői tevékenység, tanácsadás asszisztenciája szakmacsoportba tartozó munkakörök:
 
 da) gyermekvédelmi ügyintéző,
 
 db) a Gyvt. 61. § (2) bekezdése szerinti szolgáltatást végző technikus.
 
-(5e)[^29] A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 78. §-a alapján járó jubileumi jutalom alapjául szolgáló illetmény összegébe a bölcsődében, mini bölcsődében a bölcsődei pótlékot, valamint a családi bölcsődében, munkahelyi bölcsődében a szociális ágazati összevont pótlékot be kell számítani.
+(5e)[^30] A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 78. §-a alapján járó jubileumi jutalom alapjául szolgáló illetmény összegébe a bölcsődében, mini bölcsődében a bölcsődei pótlékot, valamint a családi bölcsődében, munkahelyi bölcsődében a szociális ágazati összevont pótlékot be kell számítani.
 
-(6)[^30] A munkáltató a személyes gondoskodás körébe tartozó feladatokat ellátó személyek részére – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 79. §-ának (1)–(2) bekezdésében foglaltak szerint – munkaruhát biztosít.
+(6)[^31] A munkáltató a személyes gondoskodás körébe tartozó feladatokat ellátó személyek részére – a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 79. §-ának (1)–(2) bekezdésében foglaltak szerint – munkaruhát biztosít.
 
-(7)[^31] A munkáltató beszerzi az 1. számú mellékletben meghatározott munkakörben és a gyermekek esélynövelő szolgáltatásaiban foglalkoztatni kívánt személy nyilatkozatát arról, hogy nem áll fenn vele szemben a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró ok.
+(7)[^32] A munkáltató beszerzi az 1. számú mellékletben meghatározott munkakörben és a gyermekek esélynövelő szolgáltatásaiban foglalkoztatni kívánt személy nyilatkozatát arról, hogy nem áll fenn vele szemben a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró ok.
 
-(8)[^32] Többcélú intézményben vezetői megbízást az kaphat, illetve vezetői munkakörbe az nevezhető ki, aki bármely, az intézmény által biztosított szolgáltatás, illetve ellátás vezetőjére meghatározott, felsőfokú végzettség körébe tartozó képesítési előírásoknak megfelel.
+(8)[^33] Többcélú intézményben vezetői megbízást az kaphat, illetve vezetői munkakörbe az nevezhető ki, aki bármely, az intézmény által biztosított szolgáltatás, illetve ellátás vezetőjére meghatározott, felsőfokú végzettség körébe tartozó képesítési előírásoknak megfelel.
 
-(9)[^33] A családsegítés és gyermekjóléti szolgáltatás 1. számú melléklet szerinti létszáma esetében a betöltött szakmai létszám nem lehet kevesebb, mint a mindenkori költségvetési törvény alapján finanszírozott létszám. A család- és gyermekjóléti központ esetében
+(9)[^34] A családsegítés és gyermekjóléti szolgáltatás 1. számú melléklet szerinti létszáma esetében a betöltött szakmai létszám nem lehet kevesebb, mint a mindenkori költségvetési törvény alapján finanszírozott létszám. A család- és gyermekjóléti központ esetében
 
 a) az esetmenedzserek és tanácsadók arányát az intézményvezető határozza meg azzal, hogy mindkét munkakört biztosítania kell,
 
@@ -208,13 +208,14 @@ b) a tanácsadó munkakör munkaviszony vagy munkavégzésre irányuló egyéb j
 [^21]: A 3. § eredeti (2) bekezdésének számozását (5) bekezdésre változtatta a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének b) pontja.
 [^22]: A 3. § (5a) bekezdését a 6/2020. (III. 6.) EMMI rendelet 1. §-a iktatta be.
 [^23]: A 3. § (5b) bekezdését a 6/2020. (III. 6.) EMMI rendelet 1. §-a iktatta be.
-[^24]: A 3. § (5c) bekezdését a 6/2020. (III. 6.) EMMI rendelet 1. §-a iktatta be.
-[^25]: A 3. § (5c) bekezdés c) pont ck) alpontját a 62/2021. (XII. 29.) EMMI rendelet 1. §-a iktatta be.
-[^26]: A 3. § (5d) bekezdését a 6/2020. (III. 6.) EMMI rendelet 1. §-a iktatta be.
-[^27]: A 5. § (5d) bekezdés c) pont cm) alpontját az 1/2021. (I. 7.) EMMI rendelet 2. § (1) bekezdése iktatta be.
-[^28]: A 3. § (5d) bekezdés d) pontja az 1/2021. (I. 7.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^29]: A 3. § (5e) bekezdését a 6/2020. (III. 6.) EMMI rendelet 1. §-a iktatta be.
-[^30]: A 3. § eredeti (3) bekezdésének számozását (6) bekezdésre változtatta a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének b) pontja. A (6) bekezdés a 46/2003. (VIII. 8.) ESZCSM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^31]: A 3. § (7) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 3. § (3) bekezdése iktatta be, szövege a 40/2018. (XII. 4.) EMMI rendelet 23. § b) pontja, a 4/2019. (II. 27.) EMMI rendelet 9. § a) pontja szerint módosított szöveg.
-[^32]: A 3. § (8) bekezdését a 7/2008. (VI. 3.) SZMM rendelet 5. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a vezetői megbízásra, illetve annak feltételeire vonatkozó új szabályokat a 2008. július 1. napját követően kiírásra kerülő pályázatok alapján adott vezetői megbízásokra kell alkalmazni.
-[^33]: A 3. § (9) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 1. § (3) bekezdése iktatta be.
+[^24]: A 3. § (5b) bekezdés q) pontja a 45/2022. (XII. 20.) BM rendelet 6. § 1. pontja szerint módosított szöveg.
+[^25]: A 3. § (5c) bekezdését a 6/2020. (III. 6.) EMMI rendelet 1. §-a iktatta be.
+[^26]: A 3. § (5c) bekezdés c) pont ck) alpontját a 62/2021. (XII. 29.) EMMI rendelet 1. §-a iktatta be.
+[^27]: A 3. § (5d) bekezdését a 6/2020. (III. 6.) EMMI rendelet 1. §-a iktatta be.
+[^28]: A 5. § (5d) bekezdés c) pont cm) alpontját az 1/2021. (I. 7.) EMMI rendelet 2. § (1) bekezdése iktatta be.
+[^29]: A 3. § (5d) bekezdés d) pontja az 1/2021. (I. 7.) EMMI rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^30]: A 3. § (5e) bekezdését a 6/2020. (III. 6.) EMMI rendelet 1. §-a iktatta be.
+[^31]: A 3. § eredeti (3) bekezdésének számozását (6) bekezdésre változtatta a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének b) pontja. A (6) bekezdés a 46/2003. (VIII. 8.) ESZCSM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^32]: A 3. § (7) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 3. § (3) bekezdése iktatta be, szövege a 40/2018. (XII. 4.) EMMI rendelet 23. § b) pontja, a 4/2019. (II. 27.) EMMI rendelet 9. § a) pontja szerint módosított szöveg.
+[^33]: A 3. § (8) bekezdését a 7/2008. (VI. 3.) SZMM rendelet 5. §-a iktatta be. E módosító rendelet 9. § (2) bekezdése alapján a vezetői megbízásra, illetve annak feltételeire vonatkozó új szabályokat a 2008. július 1. napját követően kiírásra kerülő pályázatok alapján adott vezetői megbízásokra kell alkalmazni.
+[^34]: A 3. § (9) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 1. § (3) bekezdése iktatta be.

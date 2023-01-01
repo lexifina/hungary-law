@@ -1,4 +1,4 @@
-135/C. §[^437] (1) A kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthonban az elhelyezési feltételek keretében biztosítani kell
+135/C. §[^446] (1) A kizárólag menekültként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthonban az elhelyezési feltételek keretében biztosítani kell
 
 a) hálószobák, közös nappali szoba, konyha, illetve étkező, nemenkénti fürdőszoba, nemenkénti, a gyermekek kulturális szokásainak is megfelelő illemhelyek kialakítását,
 
@@ -22,4 +22,4 @@ c) a gyermekotthonhoz tartozóan bejegyzett ideiglenes befogadó férőhely eset
 
 határozza meg.
 
-[^437]: A 135/C. §-t a 46/2015. (X. 12.) EMMI rendelet 2. §-a iktatta be.
+[^446]: A 135/C. §-t a 46/2015. (X. 12.) EMMI rendelet 2. §-a iktatta be.
