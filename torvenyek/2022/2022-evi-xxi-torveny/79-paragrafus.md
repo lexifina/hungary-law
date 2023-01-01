@@ -20,7 +20,7 @@ társadalombiztosítási, szociális, kegyeleti ellátásai megállapításának
 
 (5) Az érdekvédelmi nyilvántartásban kezelt adatokhoz társadalombiztosítási, szociális, kegyeleti ellátás megállapításának és folyósításának, valamint elismerés adományozásának céljából megismeri:
 
-a) miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK,
+a) miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 
 b) a Honvédség központi személyügyi szerve,
 

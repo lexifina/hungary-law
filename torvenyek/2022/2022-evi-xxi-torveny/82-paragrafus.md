@@ -24,4 +24,4 @@ a) az objektumban elkövetett bűncselekmény, szabálysértés, fegyelmi véts�
 
 b) törvényben meghatározott feladatai ellátásához a KNBSZ-nek,
 
-c) a szolgálatteljesítési idő, munkaidő ellenőrizhetősége céljából a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK, továbbá – közvetlen alárendeltjei vonatkozásában – a szolgálati elöljáró vagy a hivatali felettes részére.
+c) a szolgálatteljesítési idő, munkaidő ellenőrizhetősége céljából a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF, továbbá – közvetlen alárendeltjei vonatkozásában – a szolgálati elöljáró vagy a hivatali felettes részére.

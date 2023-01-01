@@ -10,6 +10,6 @@ a) a miniszter,
 
 b) a védelemgazdaság központi tervező szerve,
 
-c) a Honvédség parancsnoka (a továbbiakban: MH PK) és
+c) a Honvéd Vezérkar főnöke (a továbbiakban: HVKF) és
 
 d) a Honvédség katonai igazgatási és központi adatfeldolgozó szerve.

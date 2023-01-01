@@ -29,3 +29,5 @@ A honvédelmi ágazatban használt igazolványokkal kapcsolatos adatkezelés ada
 13. az igazolvány vagy személyi igazolójegy igénylésének és bevonásának oka, az igazolvány vagy személyi igazolójegy elvesztéséről, eltulajdonításáról, megrongálódásáról vagy megsemmisüléséről, valamint az elveszett, eltulajdonított igazolvány megtalálásáról szóló jegyzőkönyv adatai,
 
 14. a külszolgálatra tervezett állomány szolgálatteljesítésének kezdő és befejező dátuma.
+
+15. a jelvény egyedi azonosítószáma.

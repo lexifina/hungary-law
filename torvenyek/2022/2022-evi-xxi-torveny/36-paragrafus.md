@@ -22,7 +22,7 @@ e) a honvédelmi alkalmazotti
 
 (5) A toborzó szakterület által kezelt adatokat a szolgálati, foglalkoztatási jogviszony létesítésével kapcsolatos döntés előkészítése és meghozatala céljából megismeri
 
-a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK,
+a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 
 b) a Honvédség központi személyügyi szerve,
 

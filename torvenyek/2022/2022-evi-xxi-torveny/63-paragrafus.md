@@ -1,6 +1,6 @@
 63. § (1) A kártérítési eljárás lefolytatása, a kártérítési határozat jogkövetkezményeinek megállapítása, a kiszabott kártérítés érvényesítéséhez szükséges eljárás lefolytatása, felügyeleti és ellenőrzési jogkör gyakorlása céljából a kártérítési nyilvántartásban elektronikusan tárolt adatokat megismeri:
 
-a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK,
+a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 
 b) fellebbezés esetén az alárendeltjei vonatkozásában az állományilletékes parancsnok, a munkáltatói jogkör gyakorló,
 

@@ -10,7 +10,7 @@
 
 (5) A pénzügyi szakterület által kezelt adatokat a pénzbeli járandóságok, juttatások és költségtérítések, ösztöndíjak folyósításával kapcsolatos döntések előkészítése, meghozatala, a kifizethetőség biztosítása, a törvényességi felügyelet gyakorlása, valamint a követelések érvényesítése céljából megismeri:
 
-a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK,
+a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 
 b) a Honvédség központi személyügyi szerve,
 

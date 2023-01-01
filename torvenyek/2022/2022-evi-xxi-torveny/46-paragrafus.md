@@ -12,4 +12,4 @@ e) a Honvédség katonai igazgatási és központi adatfeldolgozó szerve rész�
 
 f) a honvédelmi szervezetek jogi képviseletét ellátó szervezete részére, polgári peres ügyben történő adatátadás, valamint
 
-g) az MH PK részére, a fegyelmi információs rendszer működtetése céljából történő adatátadás.
+g) a HVKF részére, a fegyelmi információs rendszer működtetése céljából történő adatátadás.

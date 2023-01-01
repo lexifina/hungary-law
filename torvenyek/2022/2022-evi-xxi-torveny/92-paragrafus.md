@@ -12,7 +12,7 @@
 
 (6) A rehabilitációs nyilvántartásban kezelt adatokat társadalombiztosítási, szociális, kegyeleti ellátás megállapításának és folyósításának céljából megismeri:
 
-a) a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK,
+a) a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 
 b) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző honvédelmi szervezet.
 

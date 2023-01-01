@@ -26,7 +26,7 @@ a) a Magyar Vöröskereszt,
 
 b) a társadalombiztosítási szerv,
 
-c) a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára és az MH PK,
+c) a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára és a HVKF,
 
 d) a honvédelmi szervezetek,
 

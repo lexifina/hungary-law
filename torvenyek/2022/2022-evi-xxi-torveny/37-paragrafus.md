@@ -12,7 +12,7 @@ c) a pályázati eljáráshoz és a kiválasztáshoz kapcsolódó, a pályázati
 
 (3) A nyilvántartásban rögzített adatokat a pályázati eljárás lefolytatása, a pályázó alkalmasságának megítélése céljából ismeri meg
 
-a) a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára és az MH PK, továbbá
+a) a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára és a HVKF, továbbá
 
 b) a pályázat elbírálásában részt vevő személy.
 

@@ -1,6 +1,6 @@
 48. § (1) A személyügyi szakterület által kezelt adatokat megismeri a személyi állomány jogviszonyával, illetve az egyéb munkavégzésre irányuló jogviszonnyal, valamint az ösztöndíjakkal kapcsolatos döntések előkészítése és meghozatala, azok végrehajtása, ellenőrzési, felügyeleti jogaik gyakorlása és vizsgálatok lefolytatása, továbbá statisztikai adatok előállítása, tervezési feladatok végrehajtása, a honvédelmi szervezetek jogi képviseletének ellátása céljából a feladata ellátáshoz szükséges mértékig
 
-a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK és helyettese, a legénységi állomány és az altisztek vonatkozásában a Honvédség vezénylő zászlósa (a továbbiakban: MH vezénylő zászlósa),
+a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF és helyettese, a legénységi állomány és az altisztek vonatkozásában a Honvédség vezénylő zászlósa (a továbbiakban: MH vezénylő zászlósa),
 
 b) vezénylés, kirendelés esetén a vezénylés, kirendelés helye szerinti honvédelmi szervezet személyügyi szervének kijelölt tagja,
 

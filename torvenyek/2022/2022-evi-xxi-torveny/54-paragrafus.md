@@ -22,7 +22,7 @@ adatokat.
 
 (6) A központi pénzügyi szervezet által kezelt adatokat a társadalombiztosítási, egyes pénzügyi, szociális, érdekvédelmi és kegyeleti ellátás megállapíthatóságának és folyósíthatóságának céljából megismeri:
 
-a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK,
+a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 
 b) a Honvédség központi személyügyi szerve,
 

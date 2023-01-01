@@ -4,7 +4,7 @@
 
 (2) A honvédelmi egészségkárosodási ellátással, valamint a baleseti járadékkal kapcsolatos nyilvántartás adatait megismeri, illetve abból adatot igényelhet a honvédelmi egészségkárosodási ellátással és a baleseti járadékkal kapcsolatos döntés előkészítése, meghozatala, végrehajtása, ellenőrzési, felügyeleti jogaik gyakorlása és vizsgálatok lefolytatása céljából:
 
-a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK,
+a) a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF,
 
 b) a miniszter törvényességi felügyeleti jogkörében ellenőrzést végző honvédelmi szervezet,
 

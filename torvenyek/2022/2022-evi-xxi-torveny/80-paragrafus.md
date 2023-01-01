@@ -4,7 +4,7 @@
 
 (2) A központi irattári nyilvántartás adatait a Honvédség központi irattározási feladatát ellátó honvédelmi szervezet kezeli.
 
-(3) A központi irattári nyilvántartásban kezelt adatokat megismeri a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint az MH PK.
+(3) A központi irattári nyilvántartásban kezelt adatokat megismeri a miniszter, a minisztérium államtitkára, közigazgatási államtitkára, helyettes államtitkára, valamint a HVKF.
 
 (4) A központi irattári nyilvántartásban kezelt személyi anyagokat az adatkezelő a keletkezésüktől számított 75 évig kezeli.
 

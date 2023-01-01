@@ -8,7 +8,7 @@ c) a korábbi öngyilkossági kísérletre vonatkozó adatokat.
 
 (2) A fegyelmi információs rendszerben történő adatkezelés célja
 
-a) a Honvédség magas fokú fegyelmének fenntartása érdekében a honvédelmi szervezeteknél történt, a katonai fegyelemre és a honvédelmi szervezetek fegyelmi helyzetére kiható eseményekről az MH PK tájékoztatása,
+a) a Honvédség magas fokú fegyelmének fenntartása érdekében a honvédelmi szervezeteknél történt, a katonai fegyelemre és a honvédelmi szervezetek fegyelmi helyzetére kiható eseményekről a HVKF tájékoztatása,
 
 b) az a) pontban meghatározott események megelőzése,
 

@@ -18,7 +18,7 @@ bb) azon hadkötelesekről, akik hadkötelezettség alapján szolgálatot teljes
 
 bc) a honvédelmi alkalmazotti, közalkalmazotti állományba felvettekről, munkavállalói jogviszonyt létesítőkről, a honvédelmi alkalmazotti, közalkalmazotti, munkavállalói jogviszonnyal rendelkezőkről, valamint azokról, akiknek a jogviszonya, munkaviszonya megszűnt;
 
-c) a rendvédelmi szervek és az OGYŐ a hivatásos állományában foglalkoztatottakról, ideértve a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) esetében a pénzügyőri státuszú és pénzügyőri munkakörben foglalkoztatottakat is, valamint azokról, akiknek a szolgálati viszonya megszűnt a 6. melléklet 1. pont 1.1–1.5. alpontjában, 14. pont 14.1–14.6. alpontjában, valamint 16. pontjában meghatározott adataikra vonatkozóan;
+c) az OGYŐ a hivatásos és a rendvédelmi szervek a hivatásos és szerződéses állományában foglalkoztatottakról, ideértve a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) esetében a pénzügyőri státuszú és pénzügyőri munkakörben foglalkoztatottakat is, valamint azokról, akiknek a szolgálati viszonya megszűnt a 6. melléklet 1. pont 1.1–1.5. alpontjában, 14. pont 14.1–14.6. alpontjában, valamint 16. pontjában meghatározott adataikra vonatkozóan;
 
 d) a rehabilitációs szakértői szerv a legalább 40%-ot elérő össz-szervezeti egészségkárosodásáról, annak érvényességi idejéről;
 
@@ -32,7 +32,7 @@ ga) a Honvédség központi egészségügyi szerve a hivatásos, szerződéses, 
 
 gb) az alapellátó egészségügyi szolgáltató a hadkötelesre és a katonai szolgálatot törvény alapján önként vállaló honvédelmi alkalmazottra vonatkozóan a várható alkalmassági kategóriájáról, annak megállapítása időpontjáról;
 
-h) a fővárosi és megyei kormányhivatal az ideiglenes gondnokság alá helyezettekről, a gondnokság alá helyezés megállapításának, illetve megszűnésének időpontjáról;
+h) a fővárosi és vármegyei kormányhivatal az ideiglenes gondnokság alá helyezettekről, a gondnokság alá helyezés megállapításának, illetve megszűnésének időpontjáról;
 
 i) a NAV azon magyarországi lakóhellyel rendelkező magyar állampolgárok tekintetében, akik az adott évben betöltik a 18. életévüket, de a 65. életévüket még nem érték el, átadja az adózás rendjéről szóló 2017. évi CL. törvény 50. § (2) bekezdés 3–5. és 15. pontjában meghatározott adatokat, továbbá az adózás rendjéről szóló 2017. évi CL. törvény 50. § (2) bekezdés 6. és 7a. pontjában szereplő kedvezmény érvényesítése alapján a három vagy ennél több, kiskorú vér szerinti, örökbe fogadott, vagy nevelt gyermek után családi kedvezményben részesülő személyek születési évét;
 
