@@ -1,3 +1,5 @@
+## 1X10113_0
+
 | I. RÉSZ |
 
 | A 651/2014/EU bizottsági rendelet feltételei szerint mentesülő állami támogatásokkal kapcsolatos információk |

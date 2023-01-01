@@ -8,7 +8,7 @@ b) a 7. § (2a) bekezdés szerinti bejelentés alapján a támogatási programna
 
 c) a támogatási program hatálybalépésétől eltelt időt figyelembe véve a támogatási programnak ezen támogatási kategóriái alapján odaítélt támogatás éves átlaga meghaladja a 150 millió eurónak megfelelő forintösszeget,
 
-## a támogatást nyújtó köteles értékelési tervet készíteni, és azt megküldeni a miniszternek.
+a támogatást nyújtó köteles értékelési tervet készíteni, és azt megküldeni a miniszternek.
 
 (1a)[^150] Az 1. melléklet 15.15. pontja szerinti pénzügyi termékek mint támogatási programok esetén az (1) bekezdés szerinti értékhatár vizsgálatakor csak azt az InvestEU program létrehozásáról és az (EU) 2015/1017 rendelet módosításáról szóló, 2021. március 24-i 2021/523/EU európai parlamenti és tanácsi rendelet 9. cikk (1) bekezdés b) pontjában meghatározott európai uniós garancia tagállami részalapjához nyújtott hozzájárulást kell figyelembe venni, amelyet az adott pénzügyi termékre különítenek el.
 

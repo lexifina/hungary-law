@@ -1,3 +1,5 @@
+## 6K03411_0
+
 | I. RÉSZ |
 
 | Az 1388/2014/EU bizottsági rendelet feltételei szerint mentesülő állami támogatásokkal kapcsolatos információk |
@@ -138,7 +140,7 @@
 
 2. a kedvezményezett típusa a vonatkozó csoportmentességi rendelet I. melléklete szerint,
 
-3. a projekt megvalósításának helye (főváros vagy megye),
+3.[^232] a projekt megvalósításának helye (főváros vagy vármegye),
 
 4. a kedvezményezett azon tevékenységének szakágazati besorolása (TEÁOR-szám, ennek hiányában ÖVTJ-kód), amely keretében a támogatást felhasználja (ha nem azonosítható ilyen tevékenység, akkor a kedvezményezett főtevékenységének szakágazati besorolása),
 
@@ -156,3 +158,4 @@
 
 [^230]: A 6. mellékletet a 42. § b) pontja hatályon kívül helyezte, újonnan a 158/2014. (VI. 30.) Korm. rendelet 12. § (4) bekezdése iktatta be, szövege a 177/2016. (VII. 1.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^231]: A 6. melléklet 1. pontja a 409/2016. (XII. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^232]: A 6. melléklet 3. pontja a 616/2022. (XII. 29.) Korm. rendelet 120. §-a szerint módosított szöveg.

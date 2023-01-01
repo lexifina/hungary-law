@@ -1,5 +1,3 @@
-## 32. §
-
 ## VII. Fejezet
 
 ## EGYÉB RENDELKEZÉSEK

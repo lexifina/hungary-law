@@ -1,6 +1,6 @@
 4. melléklet a 37/2011. (III. 22.) Korm. rendelethez
 
-## Az 1370/2007/EK európai parlamenti és tanácsi rendelet alapján nyújtott állami támogatásokról készítendő beszámoló kötelező adattartalma[^222]
+Az 1370/2007/EK európai parlamenti és tanácsi rendelet alapján nyújtott állami támogatásokról készítendő beszámoló kötelező adattartalma[^222]
 
 1. Kedvezményezett neve
 

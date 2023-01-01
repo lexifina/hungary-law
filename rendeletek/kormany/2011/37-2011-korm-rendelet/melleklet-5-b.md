@@ -1,3 +1,5 @@
+## 6K70406_0
+
 | I. RÉSZ |
 
 | A 702/2014/EU bizottsági rendelet feltételei szerint mentesülő állami támogatásokkal kapcsolatos információk |

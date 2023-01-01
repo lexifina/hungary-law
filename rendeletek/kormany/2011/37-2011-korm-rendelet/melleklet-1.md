@@ -1,8 +1,6 @@
-## 42. §[^218]
-
 1. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^219]
 
-## Az egyes támogatási kategóriák
+Az egyes támogatási kategóriák
 
 1. Horizontális célok
 
@@ -692,5 +690,4 @@
 
 18. Nem állami támogatás
 
-[^218]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^219]: Az 1. melléklet a 38/2016. (III. 3.) Korm. rendelet 11. § (1) bekezdés a) pontjával megállapított, a 483/2017. (XII. 28.) Korm. rendelet 2. § (1) bekezdése, a 679/2021. (XII. 3.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg..

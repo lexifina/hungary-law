@@ -1,5 +1,3 @@
-## megfelelően a támogatást nyújtó által kitöltött elektronikus, webalapú formanyomtatvány SANI rendszeren keresztül történő továbbításával értesíti az Európai Bizottságot.
-
 ## 5. [^131] A miniszter eljárása az Európai Bizottság részére történő bejelentést igénylő támogatási tervezetek esetén
 
 14. §[^132] (1)[^133] A bejelentett támogatási tervezetet a miniszter a bejelentés kézhezvételétől számított harminc napon belül az Európai Bizottság részére történő prenotifikációra vagy hivatalos bejelentésre való alkalmasság szempontjából megvizsgálja.
@@ -12,7 +10,7 @@ b) a támogatást nyújtó a prenotifikációra alkalmas támogatási tervezet h
 
 c) az uniós állami támogatási szabályok értelmében prenotifikáció nem szükséges, és a támogatási tervezet hivatalos bejelentésre alkalmas,
 
-## a miniszter a támogatási tervezetet és annak a támogatást nyújtó által – a miniszter kérésére angol nyelven – készített összefoglalóját a SANI rendszerben kitöltött formanyomtatványokon keresztül megküldi az Európai Bizottságnak.
+a miniszter a támogatási tervezetet és annak a támogatást nyújtó által – a miniszter kérésére angol nyelven – készített összefoglalóját a SANI rendszerben kitöltött formanyomtatványokon keresztül megküldi az Európai Bizottságnak.
 
 (3)[^135] Ha a prenotifikáció keretében az Európai Bizottság nem emel kifogást a támogatási tervezettel kapcsolatban, a miniszter a támogatást nyújtó kérésére a SANI rendszerben kitöltött formanyomtatványokon keresztül hivatalos bejelentést tesz.
 

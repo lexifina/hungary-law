@@ -14,6 +14,8 @@ e)[^212] az Európai Unió működéséről szóló szerződés 107. és 108. ci
 
 f)[^213] a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 651/2014/EU rendelet módosításáról szóló, 2021. július 23-i 2021/1237/EU bizottsági rendelet (HL L 270/39., 2021.7.29, 39. o.)
 
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
 [^208]: A 18. alcím címe a 381/2012. (XII. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^209]: A 38. § a 38/2016. (III. 3.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^210]: A 38. § c) pontját a 177/2016. (VII. 1.) Korm. rendelet 6. §-a iktatta be, szövege a 365/2017. (XII. 5.) Korm. rendelet 1. §-ával megállapított szöveg.

@@ -16,7 +16,7 @@ bb) a 2021. július 31. után hatályba lépett támogatási programok alapján 
 
 bc) a 2021. július 31. után odaítélt ad hoc támogatások
 
-## esetén a támogatások 6. melléklet szerinti adatait, ha a közzétételi kötelezettség hatálya alá tartozó támogatás támogatástartalma halászati állami támogatás esetén meghaladja a harmincezer eurónak, elsődleges mezőgazdasági termelés támogatása esetén meghaladja a hatvanezer eurónak, egyéb esetben pedig meghaladja az ötszázezer eurónak megfelelő forintösszeget,
+esetén a támogatások 6. melléklet szerinti adatait, ha a közzétételi kötelezettség hatálya alá tartozó támogatás támogatástartalma halászati állami támogatás esetén meghaladja a harmincezer eurónak, elsődleges mezőgazdasági termelés támogatása esetén meghaladja a hatvanezer eurónak, egyéb esetben pedig meghaladja az ötszázezer eurónak megfelelő forintösszeget,
 
 c) a 702/2014/EU bizottsági rendelet hatálya alá tartozó támogatások esetén a 6. melléklet szerinti adatokat a közösségi adószám, továbbá az adószám vagy az adóazonosító jel kivételével, ha a közzétételi kötelezettség hatálya alá tartozó támogatás támogatástartalma meghaladja
 
@@ -24,7 +24,7 @@ ca) az elsődleges mezőgazdasági termeléssel foglalkozó kedvezményezett ese
 
 cb) a mezőgazdasági termékek feldolgozásával vagy mezőgazdasági termékek forgalmazásával foglalkozó, az erdészeti ágazatban működő vagy az EUMSz 42. cikkének hatályán kívül eső tevékenységet folytató kedvezményezett esetén az ötszázezer eurónak
 
-## megfelelő forintösszeget,
+megfelelő forintösszeget,
 
 d) az 1388/2014/EU bizottsági rendelet hatálya alá tartozó támogatások esetén a 6. melléklet szerinti adatokat, ha a közzétételi kötelezettség hatálya alá tartozó támogatás támogatástartalma meghaladja a harmincezer eurónak megfelelő forintösszeget,
 
@@ -72,7 +72,7 @@ cd) a hatszázezer eurót meghaladó, de a nyolcszázezer eurót meg nem haladó
 
 ce) a nyolcszázezer eurót meghaladó, de az egymillió eurót meg nem haladó
 
-## összegű
+összegű
 
 ## kategóriába esik.
 

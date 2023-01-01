@@ -144,7 +144,7 @@
 
 3. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^221]
 
-## A 2012/21/EU bizottsági határozat alapján nyújtott állami támogatásokról készítendő beszámoló kötelező adattartalma
+A 2012/21/EU bizottsági határozat alapján nyújtott állami támogatásokról készítendő beszámoló kötelező adattartalma
 
 1. Egyedi támogatás esetében:
 

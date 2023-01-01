@@ -2,4 +2,7 @@
 
 ## 19. Módosító rendelkezések
 
+39. §[^215]
+
 [^214]: A 38/A. §-t a 156/2022. (IV. 19.) Korm. rendelet 4. §-a iktatta be.
+[^215]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -42,7 +42,7 @@ dc) a 20. § (5) bekezdése és a 21. § (3) bekezdése szerinti beszámolási k
 
 dd) a 34. § szerinti éves jelentéstételi kötelezettség
 
-## teljesítése vonatkozásában,
+teljesítése vonatkozásában,
 
 e)[^50] az egyedi támogatás vagy a támogatási program
 
