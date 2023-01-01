@@ -1,0 +1,3 @@
+66. § A Bv. tv. 143. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az elítéltet ért kárért a bv. szerv a Polgári Törvénykönyv szabályai szerint felel, a munkával összefüggésben okozott kárért való felelősségre, ha e törvény eltérően nem rendelkezik, vagy a büntetés-végrehajtási jogviszony sajátosságaiból más nem következik, az Mt. rendelkezései irányadók azzal, hogy ha más gazdálkodó szervezetnél munkáltatták az elítéltet, az elítéltet ért kárt a gazdálkodó szervezettel szerződésben álló bv. szerv téríti meg. A társadalmi integrációs programban részt vevő elítéltnek okozott kárt a Polgári Törvénykönyv rendelkezése értelmében az ilyen programot lebonyolító szervezettel szerződött bv. szerv téríti meg.”
