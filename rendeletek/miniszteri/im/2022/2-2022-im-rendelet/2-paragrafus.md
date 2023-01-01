@@ -4,7 +4,7 @@ a) az 1. és 2. mellékletben meghatározott tételek és normatívák,
 
 b) a nem normatív kiadások tekintetében az NVI elnökének az egyéb szerv vezetőjével kötött megállapodása alapján megállapított költségvetési támogatás
 
-## szolgálnak.
+szolgálnak.
 
 (2) Az (1) bekezdés b) pontja szerinti megállapodást az érintettek az államháztartásról szóló törvény rendelkezéseinek megfelelően, de legkésőbb a szavazás napját megelőző harmincadik napig megkötik.
 
@@ -14,7 +14,7 @@ a) a választási eljárásról szóló 2013. évi XXXVI. törvény (a továbbia
 
 b) megismételt szavazás esetén a megismételt szavazáshoz összeállított szavazóköri névjegyzék szavazás napját megelőző kilencedik napi adatai szerint
 
-## kell megállapítani,
+kell megállapítani,
 
 (4) Ha a választás veszélyhelyzet miatt elmarad, de az OEVI a Ve. 121. § (2) bekezdése szerinti ajánlóívet már kinyomtatta, az ellátandó feladatokkal kapcsolatos normatívák alapján a támogatás megállapításra kerül.
 

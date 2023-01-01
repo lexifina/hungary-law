@@ -6,7 +6,7 @@ a) elszámolást, valamint tanúsítványt készít a TVI részére biztosított
 
 b) összesítő elszámolást készít a HVI-k és az OEVI-k vezetői és a saját elszámolása alapján
 
-## a szavazás napját követő ötven napon belül.
+a szavazás napját követő ötven napon belül.
 
 (3) Az egyéb szerv vezetője elszámolást készít az NVI elnöke részére a szavazás napját követő ötven napon belül.
 

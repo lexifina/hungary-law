@@ -1,5 +1,3 @@
-## Tételek és normatívák a közös eljárásban lebonyolított országgyűlési képviselő-választáson és országos népszavazáson
-
 | 1. | Jogcím | Normatíva |
 
 | 2. | Kód | Név | Egység | Ft/egység |
@@ -216,7 +214,7 @@
 
 | 108. | 32102 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség külképviseleteknél. |  |  |
 
-| 109. | MEGYEI KIADÁSOK |  |  |
+| 109. | VÁRMEGYEI KIADÁSOK |  |  |
 
 | 110. | 1. DOLOGI KIADÁSOK |  |  |
 
@@ -226,13 +224,13 @@
 
 | 113. | 13102 | A TVI oktatással összefüggő kiadásai, HVI-nként. | 1 | 20 000 |
 
-| 114. | 13103 | Pénzügyi feladatok ellátása, megyénként. | 1 | 50 000 |
+| 114. | 13103 | Pénzügyi feladatok ellátása, vármegyénként. | 1 | 50 000 |
 
-| 115. | 13104 | A szállításokkal, logisztikai feladatokkal összefüggő dologi kiadások OEVK-nként, megyei szállítás esetén, de legfeljebb összesen 1 000 000,- Ft. | 1 | 200 000 |
+| 115. | 13104 | A szállításokkal, logisztikai feladatokkal összefüggő dologi kiadások OEVK-nként, vármegyei szállítás esetén, de legfeljebb összesen 1 000 000,- Ft. | 1 | 200 000 |
 
 | 116. | 132 | A TVI infrastrukturális feltételeihez kapacitás kiegészítése. |  |  |
 
-| 117. | 13201 | A TVI infrastrukturális feltételeihez kapacitás kiegészítés, megyénként. | 1 | 350 000 |
+| 117. | 13201 | A TVI infrastrukturális feltételeihez kapacitás kiegészítés, vármegyénként. | 1 | 350 000 |
 
 | 118. | 2. SZEMÉLYI JUTTATÁSOK |  |  |
 
@@ -268,7 +266,7 @@
 
 | 134. | 23405 | A TVI további 10 tagjának díja. | 10 | 192 000 |
 
-| 135. | 23406 | További TVI tagok díja pénzügyi ellenőrzési feladatok ellátására. (Települések száma a megyében * szavazókörök száma szorzatérték alapján sávosan) |  |  |
+| 135. | 23406 | További TVI tagok díja pénzügyi ellenőrzési feladatok ellátására. (Települések száma a vármegyében * szavazókörök száma szorzatérték alapján sávosan) |  |  |
 
 | 136. | 2340601 | 35 000-ig | 1 | 192 000 |
 
@@ -312,7 +310,7 @@
 
 | 156. | 432 | Étkezési ellátás bruttó kiadásai utólagos igényléssel, tényleges igénybevétel alapján. |  |  |
 
-| 157. | 43201 | A TVB választott és megbízott tagjainak választási ellátási kiadása megyénként. | 1 | 71 400 |
+| 157. | 43201 | A TVB választott és megbízott tagjainak választási ellátási kiadása vármegyénként. | 1 | 71 400 |
 
 | 158. | KÖZPONTI KIADÁSOK |  |  |
 
@@ -328,7 +326,7 @@
 
 | 164. | 35105 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség NVI-nél. |  |  |
 
-2. melléklet a 2/2022. (I. 11.) IM rendelethez
+2. melléklet a 2/2022. (I. 11.) IM rendelethez[^4]
 
 Tételek és normatívák a közös eljárásban lebonyolított országgyűlési képviselő-választáson és országos népszavazáson a megismételt szavazáson, a megismételt szavazás típusától függetlenül
 
@@ -438,7 +436,7 @@ Tételek és normatívák a közös eljárásban lebonyolított országgyűlési
 
 | 53. | 40203 | Az SZSZB (egy szavazókörrel rendelkező településen a HVB) mellett működő további jegyzőkönyvvezető ellátási kiadásai 207 jogcímeihez kapcsolódóan. | 1 | 2 500 |
 
-| 54. | MEGYEI KIADÁSOK |  |  |
+| 54. | VÁRMEGYEI KIADÁSOK |  |  |
 
 | 55. | 2. SZEMÉLYI JUTTATÁSOK |  |  |
 
@@ -468,7 +466,7 @@ Tételek és normatívák a közös eljárásban lebonyolított országgyűlési
 
 | 68. | 23405 | A TVI további 1 tagjának díja. | 1 | 96 000 |
 
-| 69. | 23406 | További TVI tagok díja pénzügyi ellenőrzési feladatok ellátására. (Települések száma a megyében * szavazókörök száma szorzatérték alapján sávosan) |  |  |
+| 69. | 23406 | További TVI tagok díja pénzügyi ellenőrzési feladatok ellátására. (Települések száma a vármegyében * szavazókörök száma szorzatérték alapján sávosan) |  |  |
 
 | 70. | 2340601 | 35 000-ig | 1 | 96 000 |
 
@@ -493,3 +491,5 @@ Tételek és normatívák a közös eljárásban lebonyolított országgyűlési
 | 80. | 33102 | Az OEVI vezetők további díja utáni munkaadókat terhelő járulékok és szociális hozzájárulási adófizetési kötelezettség. |  |  |
 
 | 81. | 33104 | A TVI tagjainak díja utáni munkaadókat terhelő járulékok és szociális hozzájárulási adófizetési kötelezettség. |  |  |
+
+[^4]: A 2. melléklet a 42/2022. (XII. 28.) IM rendelet 16. § h) és i) pontja szerint módosított szöveg.
