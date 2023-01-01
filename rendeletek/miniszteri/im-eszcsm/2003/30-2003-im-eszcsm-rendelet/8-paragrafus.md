@@ -22,7 +22,7 @@ a) az Egészségügyi Főosztály, valamint
 
 b) a bv. intézetek orvosai
 
-## közreműködnek.
+közreműködnek.
 
 (5)[^8]
 
