@@ -12,7 +12,7 @@ d) a jubileumi jutalom, és
 
 e) a szolgálati időpótlék
 
-## szempontjából a hivatásos állomány tagjának hivatásos szolgálati idejét.
+szempontjából a hivatásos állomány tagjának hivatásos szolgálati idejét.
 
 (2) A Hszt. 280. § (1) bekezdés g) pontja alkalmazásában az (1) bekezdés a)–d) pontja szempontjából a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 326–329. §-a alapján beszámított szolgálati időt, az (1) bekezdés e) pontja szempontjából a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 100/A. § (2) bekezdésében meghatározott időt kell figyelembe venni.
 
@@ -22,7 +22,7 @@ a) a nyugdíj előtti rendelkezési állomány, és
 
 b) a könnyített szolgálat
 
-## szempontjából a hivatásos állomány tagjának tényleges hivatásos szolgálatban töltött idejét, valamint a fizetési várakozási időben eltöltött időként figyelembe vehető időket.
+szempontjából a hivatásos állomány tagjának tényleges hivatásos szolgálatban töltött idejét, valamint a fizetési várakozási időben eltöltött időként figyelembe vehető időket.
 
 (4) A beszámítható időket napokban kell összeadni, és az évekre történő átszámításnál háromszázhatvanöt napot kell egy évnek tekinteni. A fennmaradó töredékidőket hónap, nap pontos megjelölésével kell kiszámítani. Az egyszer már beszámított szolgálati időt ismételten beszámítani semmilyen jogcímen nem lehet.
 
@@ -37,3 +37,5 @@ b) a végkielégítés,
 c) a pótszabadság, és
 
 d) a jubileumi jutalom
+
+szempontjából.

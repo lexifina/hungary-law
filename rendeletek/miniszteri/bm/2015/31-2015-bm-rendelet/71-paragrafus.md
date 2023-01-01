@@ -18,7 +18,7 @@ e) vezényléses, vagy
 
 f) kombinált
 
-## szolgálati időrendszerben teljesíti szolgálatát.
+szolgálati időrendszerben teljesíti szolgálatát.
 
 (2) A hivatásos állomány tagjának szolgálatteljesítési időrendszerét az állományilletékes parancsnok határozza meg.
 

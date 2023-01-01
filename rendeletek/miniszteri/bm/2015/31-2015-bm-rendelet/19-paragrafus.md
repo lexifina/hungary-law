@@ -28,6 +28,6 @@ b) szolgálati idejére figyelemmel, valamint
 
 c) a képzettségére, végzettségére figyelemmel
 
-## alkalmas a szolgálati beosztás betöltésére és megfelel az előmenetel törvényben meghatározott általános feltételeinek.
+alkalmas a szolgálati beosztás betöltésére és megfelel az előmenetel törvényben meghatározott általános feltételeinek.
 
 (6) Betölthető szolgálati beosztásba azonos szolgálati beosztásból történő áthelyezés esetén elsősorban a hivatásos állomány olyan tagja nevezhető ki, aki a szolgálati viszonya módosításába beleegyezik.

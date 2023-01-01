@@ -4,7 +4,7 @@ a) a Hszt. 114. § (2) bekezdése szerint kiemelt vezetői vagy középvetői be
 
 b) a Hszt. 114. § (2) bekezdése szerint beosztott vezetői besorolási osztályba tartozó vezetői beosztás esetében legalább kettő,
 
-## a 24. § (1)–(8) bekezdésében foglaltak figyelembevételével a vezetői beosztásba kinevezhető személyt (a továbbiakban: vezetői beosztásba kinevezhető személy) jelöl meg, kivéve azt az esetet, amikor a 27. §-ban foglaltak szerint a vezetői beosztás betöltésére pályázat útján kerül sor.
+a 24. § (1)–(8) bekezdésében foglaltak figyelembevételével a vezetői beosztásba kinevezhető személyt (a továbbiakban: vezetői beosztásba kinevezhető személy) jelöl meg, kivéve azt az esetet, amikor a 27. §-ban foglaltak szerint a vezetői beosztás betöltésére pályázat útján kerül sor.
 
 (2)[^24] Ha a kinevezésre jogosult vezető vezetése alatt álló szervezeti egységnél nincs, vagy az (1) bekezdésben meghatározottnál kevesebb vezetői beosztásba kinevezhető személy van, a kinevezésre jogosult vezető a szolgálati elöljárójánál kezdeményezi, hogy az elöljáró vezetése vagy irányítása alatt álló szervezet állományából jelöljön meg a vezetői beosztásba kinevezhető személyeket, lehetőség szerint olyan számban, hogy a vezetői beosztásba kinevezhető személyek száma elérje az (1) bekezdésben meghatározott létszámot. A szolgálati elöljáró a vezetői beosztásba kinevezhető személyekről tizenöt napon belül tájékoztatja a kinevezésre jogosult vezetőt.
 

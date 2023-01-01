@@ -16,7 +16,7 @@ e) az elismerést és a jutalmazást,
 
 f) a fegyelmi eljárással és a méltatlansági eljárással kapcsolatos intézkedéseket,
 
-g) az illetmény nélküli szabadság és a rész-szolgálatteljesítési idő engedélyezését,
+g)[^71] az illetmény nélküli szabadság, a szülői szabadság és a rész-szolgálatteljesítési idő engedélyezését,
 
 h) a szolgálati viszony szünetelését,
 
@@ -33,3 +33,5 @@ m) a korábbi munkáltatói intézkedés módosítását, és
 n) mindazokat a döntéseket, amelyek az addig hatályos állományparancs vagy határozat lényeges elemét érintik.
 
 (3) Ha a szolgálati beosztás betöltéséhez egyéb szakirányú képzettség megszerzése vagy szaktanfolyam elvégzése szükséges, annak elvégzését – határidő megjelölésével – a kinevezéskor, a szolgálati viszony módosításakor elő kell írni.
+
+[^71]: A 92. § (2) bekezdés g) pontja a 71/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.

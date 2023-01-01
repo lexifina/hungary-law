@@ -1,5 +1,3 @@
-## A személyi anyaggyűjtőből selejtezendő iratok köre és selejtezési ideje
-
 |  | A | B |
 
 | 1. | Irat megnevezése | Selejtezési idő (év) |
@@ -26,9 +24,9 @@
 
 | 12. | kártérítési eljárás iratai | eljárás megszűnését követő 3 év |
 
-2. melléklet a 31/2015. (VI. 16.) BM rendelethez[^78]
+2. melléklet a 31/2015. (VI. 16.) BM rendelethez[^81]
 
-## A rekreációs célú pótszabadságra jogosító, terrorelhárítási feladatok ellátására rendszeresített szolgálati beosztások
+A rekreációs célú pótszabadságra jogosító, terrorelhárítási feladatok ellátására rendszeresített szolgálati beosztások
 
 A) A Terrorelhárítási Központ Műveleti Igazgatóságon az igazgató közvetlen irányítása alá tartozó állományból:
 
@@ -108,4 +106,4 @@ D) A Terrorelhárítási Központ Műveleti Igazgatóság Képzési Főosztály�
 
 E) A Hszt. 146. § (1) bekezdésében meghatározott rekreációs célú pótszabadságra akkor is csak 14 napban jogosult a hivatásos állomány e mellékletben felsorolt szolgálati beosztást betöltő tagja, ha a Hszt. 146. § (1) bekezdésében meghatározott más jogcímen is jogosult lenne a pótszabadságra.
 
-[^78]: A 2. mellékletet a 15/2017. (VI. 22.) BM rendelet 10. §-a iktatta be.
+[^81]: A 2. mellékletet a 15/2017. (VI. 22.) BM rendelet 10. §-a iktatta be.

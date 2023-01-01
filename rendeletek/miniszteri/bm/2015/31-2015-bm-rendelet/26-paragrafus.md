@@ -6,7 +6,7 @@ a)[^31] a vezetői beosztásba kinevezni tervezett személyről a rendészeti ve
 
 b) – a rendvédelmi szerv vezetőinek bevonásával előzetesen meghatározott, az egyes vezetői beosztások sajátosságait figyelembevevő súlyozással ellátott, – az adott vezetői beosztáshoz rendelt elvárt vezetői kompetenciaprofil-összefüggéseket
 
-## veti össze, majd az így kapott eredményeket összehasonlítja.
+veti össze, majd az így kapott eredményeket összehasonlítja.
 
 (3)[^32] A Belügyminisztérium a rendelkezésére álló húsz napon belül elvégzi a belügyminiszternek az irányítása alatt álló polgári nemzetbiztonsági szolgálatok hivatásos állományának továbbképzési és vezetőképzési rendszeréről szóló utasítása (a továbbiakban: BM utasítás) szerinti komeptenciafelmérést, és a Belügyminisztérium az így elvégzett felmérés során beszerzett kompetencia-profil adatok felhasználásával alakítja ki az előzetes véleményt, ha
 

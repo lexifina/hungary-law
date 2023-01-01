@@ -6,5 +6,7 @@ b)[^56] a főosztályvezető 1, a főosztályvezető-helyettes 1 és főosztály
 
 c)[^57] a szakirányító 2 és szakirányító 1 besorolási kategóriába tartozó vezető esetében az illetményalap 8-szorosa, vagy annál magasabb illetmény besorolású vezetői beosztásban
 
+eltöltött idő számítható be.
+
 [^56]: A 66. § b) pontja a 76/2015. (XII. 22.) BM rendelet 36. § b) pontja szerint módosított szöveg.
 [^57]: A 66. § c) pontja a 76/2015. (XII. 22.) BM rendelet 37. § b) pontja szerint módosított szöveg.

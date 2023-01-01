@@ -9,3 +9,5 @@ c) vezetői nyilvántartásába történő felvétele iránt a vezetői kinevez�
 d) vezetői nyilvántartásából történő törlésére, a vezetői beosztás megszűnésétől – ha azzal egyidejűleg az érintett más vezetői beosztással történő kinevezésére nem kerül sor –, vagy a szolgálati viszony megszűnésétől számított tizenöt napon belül,
 
 e) utánpótlási vagy vezetői nyilvántartásában nyilvántartott adataiban bekövetkezett változás átvezetése iránt, a változásról való tudomásszerzéstől számított tizenöt napon belül
+
+intézkedik.

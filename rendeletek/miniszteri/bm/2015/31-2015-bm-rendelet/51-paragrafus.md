@@ -7,3 +7,5 @@
 a) a Hszt. 42. § (8) bekezdésében foglalt esetben a büntetőeljárásban hozott jogerős ítélet vagy ítéleti értesítő kézhezvételét követően visszamenőleg, az ítélet jogerőre emelkedésének napját követő nappal, vagy
 
 b) a Hszt. 43. § (3) bekezdésében foglalt esetben – amennyiben a (2) bekezdésben foglalt meghallgatást követően a kifogásolható életvitelt megállapítja – a kifogástalan életvitel-ellenőrzés befejezéséről szóló indokolt határozat kézhezvételét követően
+
+haladéktalanul intézkedik a felmentés iránt.
