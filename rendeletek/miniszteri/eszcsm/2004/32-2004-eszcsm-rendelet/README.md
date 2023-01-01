@@ -62,3 +62,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-32-20-0
 | 2022-05-01 | 2004-32-20-0M.79 | 53/2006. (XII. 28.) EüM rendelet |
 | 2022-10-01 | 2004-32-20-0M.80 | 53/2006. (XII. 28.) EüM rendelet |
 | 2022-11-01 | 2004-32-20-0M.81 | 37/2022. (X. 28.) BM rendelet |
+| 2023-01-01 | 2004-32-20-0M.82 | 53/2006. (XII. 28.) EüM rendelet |
