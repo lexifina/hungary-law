@@ -14,4 +14,6 @@ a) érdekében külföldi donoron külföldi egészségügyi szolgáltató álta
 
 b) külföldi, illetve nemzetközi várólistára helyezése költségeinek
 
+a finanszírozására.
+
 [^1]: Az 1. § (1) bekezdése a 316/2020. (VII. 1.) Korm. rendelet 8. §-ával megállapított szöveg.

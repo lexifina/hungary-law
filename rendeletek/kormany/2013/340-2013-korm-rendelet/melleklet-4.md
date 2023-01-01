@@ -1,4 +1,4 @@
-## Külföldi gyógykezelés az uniós rendeletek alapján – bírálati lap
+## 6K78081M_0
 
 | Kérelem elbírálásának adatai |
 
@@ -87,5 +87,7 @@
 | Egyéb megjegyzés: |
 
 4. melléklet a 340/2013. (IX. 25.) Korm. rendelethez[^54]
+
+Külföldi gyógykezelés határon átnyúló egészségügyi ellátás keretében – bírálati lap
 
 [^54]: A 4. melléklet a 379/2016. (XII. 2.) Korm. rendelet 243. § (1) bekezdés l) pontja szerint módosított szöveg.

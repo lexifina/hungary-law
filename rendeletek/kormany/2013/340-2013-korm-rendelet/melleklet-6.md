@@ -1,5 +1,3 @@
-## Tagozat véleménye külföldi gyógykezelés igénybevételére irányuló kérelemről
-
 | Kiállító Tagozat: |
 
 | I. A külföldi gyógykezelésre jogosult személyre vonatkozó adatok |
@@ -55,3 +53,5 @@
 ## P. H.
 
 6. melléklet a 340/2013. (IX. 25.) Korm. rendelethez
+
+Külföldön történő gyógykezelés igénybevételére irányuló kérelem bírálati lapja méltányosság esetén

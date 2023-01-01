@@ -1,4 +1,4 @@
-## Külföldön történő gyógykezelés igénybevételére irányuló kérelem bírálati lapja méltányosság esetén
+## 3K67707_0
 
 | Kérelem elbírálásának adatai |
 

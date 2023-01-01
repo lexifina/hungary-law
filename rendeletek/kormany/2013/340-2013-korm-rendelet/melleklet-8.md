@@ -1,3 +1,5 @@
+## 6K78081O_0
+
 | Felülvizsgálat külföldi ellátás eredményéről (a kezelőorvos tölti ki) |
 
 | I. A külföldi gyógykezelésre jogosult személyre vonatkozó adatok |

@@ -6,7 +6,7 @@ a) az Országos Vérellátó Szolgálat (a továbbiakban: OVSZ), vagy
 
 b) csontvelő vagy őssejt transzplantációja esetén az illetékes transzplantációs centrum
 
-## igazolása alapján a NEAK megtéríti az 1. § (1) bekezdés b) pont szerint jogosult recipiensbe való átültetés céljából külföldi szolgáltató által külföldön végzett donor-kivizsgálás, továbbá a szerv- és szöveteltávolítás, valamint a szerv és szövet magyarországi egészségügyi szolgáltatóhoz történő szállításának költségeit.
+igazolása alapján a NEAK megtéríti az 1. § (1) bekezdés b) pont szerint jogosult recipiensbe való átültetés céljából külföldi szolgáltató által külföldön végzett donor-kivizsgálás, továbbá a szerv- és szöveteltávolítás, valamint a szerv és szövet magyarországi egészségügyi szolgáltatóhoz történő szállításának költségeit.
 
 (2)[^44] Az OVSZ kezdeményezése alapján a NEAK megtéríti az 1. § (1) bekezdés b) pontja szerint jogosult recipiens külföldi vagy nemzetközi várólistára helyezésének regisztrációs díját.
 
