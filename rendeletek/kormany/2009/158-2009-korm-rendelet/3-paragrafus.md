@@ -1,5 +1,3 @@
-## 2. §[^2]
-
 ## III. Fejezet
 
 ## A MEZŐGAZDASÁGI TERMÉKEK ÉS AZ ÉLELMISZEREK FÖLDRAJZI ÁRUJELZŐINEK KÖZÖSSÉGI OLTALMÁRA VONATKOZÓ RENDELKEZÉSEK
@@ -16,5 +14,4 @@ c) a termékleírás kötelező mellékleteként a meghatározott földrajzi ter
 
 d) az 510/2006/EK rendelet 5. cikk (3) bekezdés c) pontja, illetve az 1898/2006/EK rendelet 11. cikke szerint elkészített egységes dokumentumot.
 
-[^2]: A II. fejezetet (2. §) a 229/2013. (VI. 27.) Korm. rendelet 1. § (3) bekezdése hatályon kívül helyezte.
 [^3]: A 3. § nyitó szövegrésze a 229/2013. (VI. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
