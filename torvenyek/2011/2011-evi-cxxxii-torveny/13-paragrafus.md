@@ -16,8 +16,10 @@ d) közszolgálati tisztviselő, kormánytisztviselő kinevezéstől eltérő fo
 
 e) rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott kinevezéstől eltérő foglalkoztatás keretében,
 
-f) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személy kirendeléssel vagy vezényléssel
+f) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személy kirendeléssel vagy vezényléssel, valamint
+
+g) – egyéb jogviszonyától függetlenül – munkaviszonyban álló személy
 
 tölthet be.
 
-(2) Az Egyetemen jogszabályban meghatározott feltételekkel munkakör munkaviszonyban is betölthető. Munkaviszonyban csak olyan személy foglalkoztatható, aki a továbbképzések keretein belül oktatói, tananyag-fejlesztői, illetve oktatásszervezői feladatot lát el.
+(2)

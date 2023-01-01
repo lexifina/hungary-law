@@ -12,7 +12,7 @@ e) összehangolt védelmi tevékenység elrendelésekor és különleges jogrend
 
 f) közreműködni a honvédelmi nevelés programjának megvalósításában, valamint
 
-g) a Magyar Honvédség parancsnoka által – a honvédelmi miniszter által kijelölt államtitkár egyetértésével – elrendelt oktatási és szocializációs feladatokat ellátni.
+g) a Honvéd Vezérkar főnöke által – a honvédelmi miniszter által kijelölt államtitkár egyetértésével – elrendelt oktatási és szocializációs feladatokat ellátni.
 
 (2) A rendészeti képzésben részt vevő hallgató köteles aktívan részt venni az oktatási-nevelési folyamatban, felkészülni a választott életpálya megkezdésére. Szolgálati feladatként köteles különösen:
 
