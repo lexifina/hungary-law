@@ -1,0 +1,3 @@
+2. §[^1] Az 1. § a) és b) pontja szerinti tevékenység csak engedéllyel végezhető. Az engedélyt a tevékenység tervezett végzésének helye szerint illetékes növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) adja ki. Amennyiben a tevékenység végzésének helye nem állapítható meg, az engedélyt országos illetékességgel a Pest Vármegyei Kormányhivatal adja ki.
+
+[^1]: A 2. § a 42/2017. (VIII. 17.) FM rendelet 91. §-ával megállapított, a 46/2020. (IX. 23.) AM rendelet 8. § a) pontja, a 98/2022. (XII. 27.) AM rendelet 1. § a) pont aa) és ab) alpontja szerint módosított szöveg.

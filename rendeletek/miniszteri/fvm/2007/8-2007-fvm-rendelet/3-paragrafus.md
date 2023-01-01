@@ -1,5 +1,3 @@
-## 2. §[^1] Az 1. § a) és b) pontja szerinti tevékenység csak engedéllyel végezhető. Az engedélyt a tevékenység tervezett végzésének helye szerint illetékes növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) adja ki. Amennyiben a tevékenység végzésének helye nem állapítható meg, az engedélyt országos illetékességgel a Pest Megyei Kormányhivatal adja ki.
-
 3. § (1) Az engedély iránti kérelemhez csatolni kell:
 
 a) a kérelmező nyilatkozatát arra nézve, hogy mely tevékenységet, és saját vagy szolgáltatási célból kíván folytatni,
@@ -15,5 +13,3 @@ bc) a jogszerzés időtartamait, megszűnésének időpontját,
 bd) továbbá azon külön jogszabály szerinti nagyon mérgező növényvédő szer hatóanyagok felsorolását, melyekre jogosultsága a származási tagállamban kiterjed.
 
 (2) Az (1) bekezdés szerinti dokumentumokat a származási tagállam nyelvén kell benyújtani azok hiteles magyar fordításával együtt.
-
-[^1]: A 2. § a 42/2017. (VIII. 17.) FM rendelet 91. §-ával megállapított, a 46/2020. (IX. 23.) AM rendelet 8. § a) pontja szerint módosított szöveg.
