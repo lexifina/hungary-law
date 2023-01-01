@@ -1,5 +1,3 @@
-## Állami vezetőket megillető juttatások
-
 |  | A | B | C | D | E |
 
 | 1. | Juttatások | Miniszter | Államtitkár, közigazgatási államtitkár | Politikai igazgató | Helyettes államtitkár |

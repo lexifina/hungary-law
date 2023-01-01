@@ -1,5 +1,3 @@
-## a miniszterelnök engedélyezi.
-
 ## 4. Hivatali lakás használata
 
 6. § (1)[^22] A miniszter, a politikai igazgató, az államtitkár és a közigazgatási államtitkár részére hivatali lakás használatát lehet biztosítani az 5/A. §-a alapján, ha a saját és a vele közös háztartásban élő házastársa, élettársa lakásviszonyait is figyelembe véve

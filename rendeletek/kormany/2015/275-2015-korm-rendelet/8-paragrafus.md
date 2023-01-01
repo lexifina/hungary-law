@@ -8,7 +8,7 @@ a) saját tulajdonú gépjármű igénybevétele esetén – a Miniszterelnöki 
 
 b) a KEF által biztosított, személyes használatú gépjárműre – a Miniszterelnöki Kormányiroda közigazgatási államtitkára által engedélyezett havi futásteljesítmény mértékéig – és a (4) bekezdés szerinti üzemanyagkártyára
 
-## jogosult.
+jogosult.
 
 (3) A költségátalány havi mértéke jogosultanként nem haladhatja meg a nettó 125 000 forintot.
 

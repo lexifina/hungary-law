@@ -6,7 +6,7 @@ a)[^36] a miniszter és a politikai igazgató részére első osztálynak,
 
 b) a többi állami vezető és a 3. §-ban meghatározott jogosult személy számára turista osztálynak
 
-## megfelelő árú repülőjegy vásárolható.
+megfelelő árú repülőjegy vásárolható.
 
 (2)[^37] Az (1) bekezdés b) pontjától eltérően az államtitkár és a közigazgatási államtitkár részére a négy óra repülési időt meghaladó tengerentúli utazás, illetőleg más hosszú távú repülőút esetén magasabb komfortosztálynak megfelelő árú repülőjegy vásárolható.
 

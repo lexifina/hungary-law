@@ -6,6 +6,8 @@ a) miniszter esetében – a Miniszterelnöki Kormányiroda közigazgatási áll
 
 b) a Miniszterelnöki Kormányiroda közigazgatási államtitkára esetében
 
+a miniszterelnök engedélyezi.
+
 [^19]: Az 5/A. §-t a 360/2019. (XII. 30.) Korm. rendelet 146. § (7) bekezdése iktatta be.
 [^20]: Az 5/A. § (1) bekezdése a 183/2022. (V. 24.) Korm. rendelet 6. § (4) bekezdés c) pontja szerint módosított szöveg.
 [^21]: [Az 5/A. § (2) bekezdésében a 183/2022. (V. 24.) Korm. rendelet 6. § (4) bekezdés d) pontjával elrendelt módosítás, amely szerint a „miniszter” szövegrész helyébe a „miniszter, a politikai igazgató” szöveg lép, nem vezethető át.]
