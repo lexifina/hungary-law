@@ -11,3 +11,5 @@ c) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcsök 
 d) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a gyümölcsök és zöldségek, a banán és a tej oktatási intézményekben való biztosításához nyújtott uniós támogatás tekintetében történő kiegészítéséről és a 907/2014/EU felhatalmazáson alapuló bizottsági rendelet módosításáról szóló, a Bizottság (EU) 2017/40 felhatalmazáson alapuló rendelete (2016. november 3.) és
 
 e) a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK, és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelete
+
+végrehajtásához szükséges rendelkezéseket állapít meg.

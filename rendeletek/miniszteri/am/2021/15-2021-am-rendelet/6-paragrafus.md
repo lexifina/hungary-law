@@ -6,7 +6,7 @@
 
 a) által szállított termékek vonatkozásában a tankerületi központ által fenntartott köznevelési intézményekben, a tankerületi központtól eltérő fenntartó esetében a köznevelési intézményben kevesebb, a 21. § (9) bekezdése szerinti minőségi kifogás érkezett; ezen szempont esetében az adott tanítási évben az ajánlat benyújtásának időpontját megelőzően a fenntartó által fenntartott köznevelési intézmények részére történt összes szállítás és a 13. §-ban meghatározott feltételeknek a gyümölcs és zöldség ellenőrzéséről szóló 82/2004. (V. 11.) FVM rendeletben meghatározott Zöldség-Gyümölcs Minőségellenőrzési Szolgálat által igazoltan a kiszállításkor meg nem felelő szállítmányok arányát kell figyelembe venni;
 
-b) tanulónként hetente több, de legfeljebb négy adag, a köznevelési intézmény székhelye szerinti megyében termett vagy előállított terméket szállít; ezen szempont esetében a megállapodáskötési ajánlatban szereplő és a megállapodásban elfogadott, az érintett járásba tartozó köznevelési intézmények vagy egy köznevelési intézmény részére felajánlott, a köznevelési intézmény székhelyével azonos megyében – Budapest esetében Pest megyében vagy Budapesten – termett, friss vagy előállított, feldolgozott termék adagok számát kell figyelembe venni; valamint
+b)[^2] tanulónként hetente több, de legfeljebb négy adag, a köznevelési intézmény székhelye szerinti vármegyében termett vagy előállított terméket szállít; ezen szempont esetében a megállapodáskötési ajánlatban szereplő és a megállapodásban elfogadott, az érintett járásba tartozó köznevelési intézmények vagy egy köznevelési intézmény részére felajánlott, a köznevelési intézmény székhelyével azonos vármegyében – Budapest esetében Pest vármegyében vagy Budapesten – termett, friss vagy előállított, feldolgozott termék adagok számát kell figyelembe venni; valamint
 
 c) a megkötendő megállapodás szerinti szállítások kezdetét megelőző tanítási évben a fenntartó által fenntartott köznevelési intézményben több alkalommal, alkalmanként több, a 2. § (1) bekezdése szerinti tanulót elérő, a tanulók zöldség-gyümölcs fogyasztását ösztönző szemléletformálást elősegítő, 9. § (4) bekezdése szerinti kísérőintézkedést valósított meg, összhangban az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet ajánlásával.
 
@@ -26,6 +26,8 @@ a) a 14. § (1) bekezdésében meghatározott, tanulónként hetente kiosztható
 
 b) a (4) bekezdés alapján figyelembe vehető kísérőintézkedések számát
 
-## túllépi.
+túllépi.
 
 (10) A kérelmezőnek a fenntartóval a kiválasztási eljárás során tett ajánlatában szereplő (3) bekezdés b) pontja szerinti vállalásának megfelelően kell a megállapodást és a több tanévre szóló megállapodásmódosítást megkötnie.
+
+[^2]: A 6. § (3) bekezdés b) pontja a 155/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

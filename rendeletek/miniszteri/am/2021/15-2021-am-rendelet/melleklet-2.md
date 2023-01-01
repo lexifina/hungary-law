@@ -1,4 +1,4 @@
-## A támogatott termékek és a támogatás bruttó összege
+## 1X02124A_0
 
 | 1. | A | B | C | D | E | F |
 
@@ -38,7 +38,7 @@
 
 2. melléklet a 15/2021. (III. 31.) AM rendelethez
 
-## A kóstoltatásban szereplő gyümölcs- és zöldségfélékre vonatkozó mennyiségi követelmények
+A kóstoltatásban szereplő gyümölcs- és zöldségfélékre vonatkozó mennyiségi követelmények
 
 1. táblázat
 

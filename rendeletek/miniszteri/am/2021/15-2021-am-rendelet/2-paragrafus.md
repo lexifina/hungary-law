@@ -10,7 +10,7 @@ c) a 14. § (2) bekezdése szerinti esetben az a) és b) pontban meghatározott 
 
 d) a szakképzési törvény 18. §-a szerinti többcélú szakképző intézmény a)–c) pontnak megfelelő 1–6. évfolyamán
 
-## tanuló gyermekeknek (a továbbiakban: tanulók) a tanítási évben, az 1. mellékletben felsorolt termékekkel, az ott meghatározott adagban történő ellátása, termelői szervezet, társulás, termelő, valamint kizárólag ezek tulajdonában álló vállalkozás (a továbbiakban együtt: kérelmező) által ellátott gyermekek tekintetében a 9. § (4) bekezdésében meghatározott kísérőintézkedés végrehajtása, továbbá a 18. § (3) bekezdése szerinti munkafüzetek nyomtatási költségei után.
+tanuló gyermekeknek (a továbbiakban: tanulók) a tanítási évben, az 1. mellékletben felsorolt termékekkel, az ott meghatározott adagban történő ellátása, termelői szervezet, társulás, termelő, valamint kizárólag ezek tulajdonában álló vállalkozás (a továbbiakban együtt: kérelmező) által ellátott gyermekek tekintetében a 9. § (4) bekezdésében meghatározott kísérőintézkedés végrehajtása, továbbá a 18. § (3) bekezdése szerinti munkafüzetek nyomtatási költségei után.
 
 (2) A program célja szerint a végső kedvezményezett a tanuló.
 

@@ -8,7 +8,7 @@ a) a 2. § (1) bekezdés a), b) és d) pontja szerinti tanulók között a napi 
 
 b) a 2. § (1) bekezdés c) pontja szerinti bármely nevelési-oktatási intézmény 7. és 8. évfolyamának tanulói számára
 
-## osztható ki.
+osztható ki.
 
 (3) A köznevelési intézmény a kiosztással érintett tanulók számáról az osztálynapló létszámadatainak heti összesítésével és a kiosztott termék mennyiségéről az átvett és leselejtezett termékmennyiségek adatainak összesítésével, a tanulók osztályának és évfolyamának feltüntetésével, a Kincstár honlapján közzétett adatlap kitöltésével, hetente nyilvántartást vezet.
 

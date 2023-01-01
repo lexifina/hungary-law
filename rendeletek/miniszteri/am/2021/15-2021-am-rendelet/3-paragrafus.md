@@ -6,7 +6,7 @@ a) a 4. § (1) bekezdése szerinti, a programban történő részvételének el�
 
 b) a 7. § szerinti kérelmeket, valamint a 17. § (6) bekezdése szerinti bejelentést és azok mellékleteit a Kincstár által a honlapján közleményben közzétett nyomtatvány szerint, a Kincstár által erre a célra rendszeresített elektronikus felületen, szkennelt formában,
 
-## ügyfélkapus azonosítást követően nyújtja be a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
+ügyfélkapus azonosítást követően nyújtja be a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
 (2) Az (1) bekezdésben meghatározott kérelmekhez és bejelentéshez szükséges dokumentumokat elektronikus úton kell csatolni.
 

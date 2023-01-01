@@ -14,7 +14,7 @@
 
 6. köznevelési intézmény: a köznevelési törvény 21. § (1) bekezdésében és 7. § (1) bekezdés b), c) és i) pontjában meghatározott intézmény és annak a köznevelési törvény szerinti tagintézménye, valamint a szakképzési törvény 18. §-ában meghatározott többcélú szakképző intézmény azon évfolyamai, amelyek megfelelnek a köznevelési törvény 7. § b), c) és i) pontjában meghatározott köznevelési intézmény évfolyamainak,
 
-7. megyei kormányhivatal: a mezőgazdasági és vidékfejlesztési támogatásokkal összefüggő területi kezelésű kérelemkezelési, helyszíni ellenőrzési, megyei ügyfélszolgálati feladatkörében eljáró megyei kormányhivatal,
+7.[^1] vármegyei kormányhivatal: a mezőgazdasági és vidékfejlesztési támogatásokkal összefüggő területi kezelésű kérelemkezelési, helyszíni ellenőrzési, vármegyei ügyfélszolgálati feladatkörében eljáró vármegyei kormányhivatal,
 
 8. tagintézmény: a köznevelési törvény 4. § 28. pontja szerinti intézményegység,
 
@@ -29,3 +29,5 @@
 13. termelői szervezet: az 1308/2013/EU európai parlamenti és tanácsi rendelet 152. és 154. cikkében meghatározott feltételekkel az 1308/2013/EU európai parlamenti és tanácsi rendelet I. melléklet IX. részében felsorolt termékek tekintetében elismert szervezet,
 
 14. zöldséglé: az 1. mellékletben felsorolt zöldségekből, céklából, illetve sütőtökből készített, csomagolt és jelölt termék.
+
+[^1]: Az 1. § 7. pontja a 155/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
