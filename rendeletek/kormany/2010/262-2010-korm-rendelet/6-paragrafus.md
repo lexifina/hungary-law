@@ -1,5 +1,3 @@
-## 5. §[^41]
-
 ## II. Fejezet
 
 ## A NYILVÁNOS PÁLYÁZTATÁSSAL TÖRTÉNŐ HASZNOSÍTÁS SZABÁLYAI[^42]
@@ -16,7 +14,6 @@
 
 (5)[^47]
 
-[^41]: Az 5. §-t a 159/2019. (VI. 28.) Korm. rendelet 38. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^42]: A II. fejezet címe a 159/2019. (VI. 28.) Korm. rendelet 37. § f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^43]: A 6. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^44]: A 6. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.

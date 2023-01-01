@@ -26,7 +26,7 @@ b) b) pontjában meghatározott esetben a pályázati eljárás eredménytelens�
 
 c) c) pontjában meghatározott esetben az ajánlati kötöttség megszűnését
 
-## követő harminc napon belül kell visszafizetni.
+követő harminc napon belül kell visszafizetni.
 
 (7)[^74] A biztosíték összegének visszafizetését banki átutalással kell teljesíteni arra a bankszámlaszámra, amelyről a pályázó a biztosítékot az NFK részére átutalta.
 

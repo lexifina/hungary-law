@@ -1,4 +1,4 @@
-31. § (1)[^157] Az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében előírt módon, a kormányhivatalnak az árverezés helye szerinti megyei jogú városban található hivatali helyiségében, az árveréssel érintett földrészlet fekvése szerinti településen a helyben szokásos módon, valamint az árverés helyszínén is ki kell függeszteni, továbbá megyei, illetve helyi sajtótermékekben is közzé kell tenni. A közös önkormányzati hivatal esetében az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében meghatározottak alapján a közös önkormányzati hivatalnál is közzé kell tenni. Az árverés meghirdetésének napja az árverési hirdetménynek az NFK internetes honlapján történő közzétételének napja.
+31. § (1)[^157] Az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében előírt módon, a kormányhivatalnak az árverezés helye szerinti megyei jogú városban található hivatali helyiségében, az árveréssel érintett földrészlet fekvése szerinti településen a helyben szokásos módon, valamint az árverés helyszínén is ki kell függeszteni, továbbá vármegyei, illetve helyi sajtótermékekben is közzé kell tenni. A közös önkormányzati hivatal esetében az árverési hirdetményt az Nfatv. 26. § (2) bekezdésében meghatározottak alapján a közös önkormányzati hivatalnál is közzé kell tenni. Az árverés meghirdetésének napja az árverési hirdetménynek az NFK internetes honlapján történő közzétételének napja.
 
 (2)[^158] Az árverési hirdetmény közzétételének időpontja legalább harminc nappal meg kell, hogy előzze a hirdetményben megjelölt árverési időpontot.
 
@@ -62,7 +62,7 @@
 
 (5)[^165] A (3) bekezdés 11. pontjában foglalt adatokat az NFK a Mezőgazdasági és Vidékfejlesztési Hivatal adatszolgáltatása alapján állapítja meg.
 
-[^157]: A 31. § (1) bekezdése a 285/2015. (X. 5.) Korm. rendelet 7. §-ával megállapított, a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
+[^157]: A 31. § (1) bekezdése a 285/2015. (X. 5.) Korm. rendelet 7. §-ával megállapított, a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja, a 616/2022. (XII. 29.) Korm. rendelet 115. § b) pontja szerint módosított szöveg.
 [^158]: A 31. § (2) bekezdése a 285/2015. (X. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^159]: A 31. § (3) bekezdése a 285/2015. (X. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^160]: A 31. § (3) bekezdés 7. pontja a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.

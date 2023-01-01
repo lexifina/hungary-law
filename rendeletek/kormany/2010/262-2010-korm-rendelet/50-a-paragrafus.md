@@ -42,6 +42,8 @@ e) az (5) bekezdés a) pontjában meghatározott esetben a forgalmi értékbecsl
 
 f) az (5) bekezdés b) pontjában meghatározott esetben a szerződés létrejöttét, vagy megszűnését
 
+követő nap.
+
 [^241]: Az 50. § a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^242]: Az 50/A. §-t a 153/2013. (V. 24.) Korm. rendelet 17. §-a iktatta be.
 [^243]: Az 50/A. § (1) bekezdése a 285/2015. (X. 5.) Korm. rendelet 18. § e) pontja, a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.

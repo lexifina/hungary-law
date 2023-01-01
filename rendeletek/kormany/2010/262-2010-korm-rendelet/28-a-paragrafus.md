@@ -1,5 +1,3 @@
-## 28. §[^139]
-
 ## III/A. Fejezet[^140]
 
 ## HALASTÓ ELADÁSÁRA VAGY HASZONBÉRBE ADÁSÁRA IRÁNYULÓ PÁLYÁZTATÁS KÜLÖNÖS SZABÁLYAI
@@ -32,7 +30,6 @@
 
 (11)[^145] Az e §-ban foglalt rendelkezéseket megfelelően alkalmazni kell a halastónak minősülő földrészlet nyilvános pályáztatás mellőzésével történő haszonbérbe adása vagy értékesítése során is.
 
-[^139]: A 28. §-t a 159/2019. (VI. 28.) Korm. rendelet 38. § s) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^140]: A III/A. fejezetet (28/A. §) a 29/2016. (II. 25.) Korm. rendelet 2. §-a iktatta be.
 [^141]: A 28/A. § (1a) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 27. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^142]: A 28/A. § (1b) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 27. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.

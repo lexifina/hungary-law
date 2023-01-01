@@ -1,3 +1,3 @@
-## 4/D. §[^40]
+5. §[^41]
 
-[^40]: A 4/D. §-t a 11/2011. (II. 22.) Korm. rendelet 9. § (3) bekezdése iktatta be, hatályon kívül helyezte a 161/2011. (VIII. 18.) Korm. rendelet 18. § b) pontja.
+[^41]: Az 5. §-t a 159/2019. (VI. 28.) Korm. rendelet 38. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 56. §-át.
