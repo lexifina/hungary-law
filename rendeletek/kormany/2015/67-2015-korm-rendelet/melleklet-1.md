@@ -1,6 +1,4 @@
-## 3. §[^1] 2017. április 1-jével állami foglalkoztatási szervi feladatkörében a Pest Megyei Kormányhivatal Szigetszentmiklósi Járási Hivatala jogosult eljárni az állami foglalkoztatási szervi feladatkörében eljáró, Pest Megyei Kormányhivatal Ráckevei Járási Hivatala előtt már folyamatban lévő hatósági eljárásokban, ha az eljárásban szereplő ügyfél lakóhelye, tartózkodási helye, vagy ennek hiányában értesítési címe, illetve székhelye, telephelye vagy fióktelepe a Szigetszentmiklósi Járás illetékességi területén van.
-
-1. melléklet a 67/2015. (III. 30.) Korm. rendelethez[^2]
+1. melléklet a 67/2015. (III. 30.) Korm. rendelethez[^3]
 
 1. Budapest Főváros Kormányhivatala
 
@@ -64,7 +62,7 @@
 
 1.10.2. Illetékesség: XXI. kerület
 
-2. Baranya megye
+2.[^4] Baranya vármegye
 
 2.1. Komlói Járási Hivatal
 
@@ -710,7 +708,7 @@ Vásárosbéc
 
 Zádor
 
-3.[^3] Bács-Kiskun megye
+3.[^5] Bács-Kiskun vármegye
 
 3.1. Bajai Járási Hivatal
 
@@ -1016,7 +1014,7 @@ Tiszakécske
 
 Tiszaug
 
-4. Békés megye
+4.[^6] Békés vármegye
 
 4.1. Békési Járási Hivatal
 
@@ -1222,7 +1220,7 @@ Szeghalom
 
 Vésztő
 
-5. Borsod-Abaúj-Zemplén megye
+5.[^7] Borsod-Abaúj-Zemplén vármegye
 
 5.1. Cigándi Járási Hivatal
 
@@ -2036,7 +2034,7 @@ Tiszatardos
 
 Tokaj
 
-6.[^4] Csongrád-Csanád megye
+6.[^8] Csongrád-Csanád vármegye
 
 6.1. Csongrádi Járási Hivatal
 
@@ -2200,7 +2198,7 @@ Szegvár
 
 Szentes
 
-7. Fejér megye
+7.[^9] Fejér vármegye
 
 7.1. Bicskei Járási Hivatal
 
@@ -2466,7 +2464,7 @@ Tác
 
 Zámoly
 
-8. Győr-Moson-Sopron megye
+8.[^10] Győr-Moson-Sopron vármegye
 
 8.1. Csornai Járási Hivatal
 
@@ -2864,7 +2862,7 @@ Völcsej
 
 Zsira
 
-9. Hajdú-Bihar megye
+9.[^11] Hajdú-Bihar vármegye
 
 9.1. Balmazújvárosi Járási Hivatal
 
@@ -3100,7 +3098,7 @@ Szerep
 
 Tetétlen
 
-10. Heves megye
+10.[^12] Heves vármegye
 
 10.1. Egri Járási Hivatal
 
@@ -3206,7 +3204,7 @@ Tófalu
 
 Újlőrincfalva
 
-10.3.[^5] Gyöngyösi Járási Hivatal
+10.3.[^13] Gyöngyösi Járási Hivatal
 
 10.3.1. Székhelye: Gyöngyös
 
@@ -3260,7 +3258,7 @@ Visonta
 
 Visznek
 
-10.4.[^6] Hatvani Járási Hivatal
+10.4.[^14] Hatvani Járási Hivatal
 
 10.4.1. Székhelye: Hatvan
 
@@ -3380,7 +3378,7 @@ Terpes
 
 Váraszó
 
-11. Jász-Nagykun-Szolnok megye
+11.[^15] Jász-Nagykun-Szolnok vármegye
 
 11.1. Jászberényi Járási Hivatal
 
@@ -3586,7 +3584,7 @@ Tiszatenyő
 
 Törökszentmiklós
 
-12. Komárom-Esztergom megye
+12.[^16] Komárom-Esztergom vármegye
 
 12.1. Esztergomi Járási Hivatal
 
@@ -3778,7 +3776,7 @@ Vértessomló
 
 Vértesszőlős
 
-13. Nógrád megye
+13.[^17] Nógrád vármegye
 
 13.1. Balassagyarmati Járási Hivatal
 
@@ -4078,7 +4076,7 @@ Szécsényfelfalu
 
 Varsány
 
-14.[^7] Pest megye
+14.[^18] Pest vármegye
 
 14.1. Budakeszi Járási Hivatal,
 
@@ -4522,7 +4520,7 @@ Taksony
 
 Tököl
 
-15. Somogy megye
+15.[^19] Somogy vármegye
 
 15.1. Barcsi Járási Hivatal
 
@@ -4960,9 +4958,9 @@ Tarany
 
 15.7. Siófoki Járási Hivatal
 
-15.7.1.[^8] Székhelye: Siófok
+15.7.1.[^20] Székhelye: Siófok
 
-15.7.2.[^9] Illetékesség:
+15.7.2.[^21] Illetékesség:
 
 ## Ádánd
 
@@ -5012,7 +5010,7 @@ Tarany
 
 ## Zamárdi
 
-15.8. [^10] Tabi Járási Hivatal
+15.8. [^22] Tabi Járási Hivatal
 
 15.8.1. Székhelye: Tab
 
@@ -5066,7 +5064,7 @@ Tarany
 
 ## Zics
 
-16. Szabolcs-Szatmár-Bereg megye
+16.[^23] Szabolcs-Szatmár-Bereg vármegye
 
 16.1. Baktalórántházai Járási Hivatal
 
@@ -5586,7 +5584,7 @@ Vámosatya
 
 Vásárosnamény
 
-17. Tolna megye
+17.[^24] Tolna vármegye
 
 17.1. Bonyhádi Járási Hivatal
 
@@ -5838,7 +5836,7 @@ Udvari
 
 Varsád
 
-18.[^11] Vas megye
+18.[^25] Vas vármegye
 
 18.1. Celldömölki Járási Hivatal
 
@@ -6314,7 +6312,7 @@ Telekes
 
 Vasvár
 
-19. Veszprém megye
+19.[^26] Veszprém vármegye
 
 19.1. Ajkai Járási Hivatal
 
@@ -6810,7 +6808,7 @@ Szápár
 
 Zirc
 
-20. Zala megye
+20.[^27] Zala vármegye
 
 20.1. Keszthelyi Járási Hivatal
 
@@ -7356,14 +7354,28 @@ Zalaszentmihály
 
 Zalatárnok
 
-[^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 52/2017. (III. 20.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^2]: Az 1. melléklet a 273/2018. (XII. 20.) Korm. rendelet 25. §-a szerint módosított szöveg.
-[^3]: Az 1. melléklet 3. pontja a 193/2015. (VII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^4]: Az 1. melléklet 6. pontja a 371/2020. (VII. 30.) Korm. rendelet 32. §-a szerint módosított szöveg.
-[^5]: Az 1. melléklet 10. pont 10.3. alpontja a 119/2019. (V. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^6]: Az 1. melléklet 10. pont 10.4. alpontja a 119/2019. (V. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^7]: Az 1. melléklet 14. pontja az 52/2017. (III. 20.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^8]: Az 1. melléklet 15. pont 15.7. alpont 15.7.1. pontja a 352/2022. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^9]: Az 1. melléklet 15. pont 15.7. alpont 15.7.2. pontja a 352/2022. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^10]: Az 1. melléklet 15. pont 15.8. alpontját a 352/2022. (IX. 13.) Korm. rendelet 1. §-a iktatta be.
-[^11]: Az 1. melléklet 18. pontja a 473/2016. (XII. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^3]: Az 1. melléklet a 273/2018. (XII. 20.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^4]: Az 1. melléklet 2. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet 3. pontja a 193/2015. (VII. 21.) Korm. rendelet 4. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet 4. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet 5. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^8]: Az 1. melléklet 6. pontja a 371/2020. (VII. 30.) Korm. rendelet 32. §-a, a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^9]: Az 1. melléklet 7. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^10]: Az 1. melléklet 8. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^11]: Az 1. melléklet 9. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^12]: Az 1. melléklet 10. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet 10. pont 10.3. alpontja a 119/2019. (V. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^14]: Az 1. melléklet 10. pont 10.4. alpontja a 119/2019. (V. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^15]: Az 1. melléklet 11. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^16]: Az 1. melléklet 12. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^17]: Az 1. melléklet 13. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^18]: Az 1. melléklet 14. pontja az 52/2017. (III. 20.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^19]: Az 1. melléklet 15. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^20]: Az 1. melléklet 15. pont 15.7. alpont 15.7.1. pontja a 352/2022. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^21]: Az 1. melléklet 15. pont 15.7. alpont 15.7.2. pontja a 352/2022. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^22]: Az 1. melléklet 15. pont 15.8. alpontját a 352/2022. (IX. 13.) Korm. rendelet 1. §-a iktatta be.
+[^23]: Az 1. melléklet 16. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^24]: Az 1. melléklet 17. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^25]: Az 1. melléklet 18. pontja a 473/2016. (XII. 27.) Korm. rendelet 14. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet 19. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^27]: Az 1. melléklet 20. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.

@@ -1,1 +1,0 @@
-## 1. § A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, mint állami foglalkoztatási szervnek az általános szabályoktól eltérő illetékességi területét az 1. melléklet határozza meg.
