@@ -10,7 +10,7 @@ bb) technikusi végzettség vagy
 
 bc) felsőoktatási szakképzettséget tanúsító oklevél
 
-## másolatát, valamint
+másolatát, valamint
 
 c) az igazgatási szolgáltatási díj befizetésének igazolását.
 

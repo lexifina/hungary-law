@@ -10,7 +10,7 @@ b) a földmérési és térinformatikai államigazgatási szerv javaslatára ké
 
 c) a szakirányú felsőoktatási intézmények vezetőjének javaslatára két-két fő földmérési szakirányú oktató
 
-## kerül megbízásra.
+kerül megbízásra.
 
 (3) A Bizottságot a miniszter működteti. A Bizottság tagjait a miniszter 5 évre nevezi ki.
 

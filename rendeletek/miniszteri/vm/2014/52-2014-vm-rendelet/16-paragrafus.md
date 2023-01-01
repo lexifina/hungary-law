@@ -82,7 +82,7 @@ d) a résztvevő aláírása.
 
 (6) A rendezvényszervező a jelenléti ív alapján az igazolást utólagosan is kiállíthatja, és postai úton megküldi a résztvevő számára.
 
-(7)[^65] A megyei (fővárosi) kormányhivatal évente egy alkalommal köteles megszervezni az ingatlanrendező földmérő minősítéssel rendelkező dolgozóik részére az (1) bekezdés d) pontjában meghatározott, a földmérési és térinformatikai államigazgatási szerv által akkreditált rendezvényt. Több megyei (fővárosi) kormányhivatal közösen, valamint a földmérési és térinformatikai államigazgatási szervvel együttműködve is megszervezheti a rendezvényt. A szaktanfolyam témaköreinek 80%-ban egyezni kell az ingatlanrendező minősítő vizsga témaköreivel.
+(7)[^65] A vármegyei (fővárosi) kormányhivatal évente egy alkalommal köteles megszervezni az ingatlanrendező földmérő minősítéssel rendelkező dolgozóik részére az (1) bekezdés d) pontjában meghatározott, a földmérési és térinformatikai államigazgatási szerv által akkreditált rendezvényt. Több vármegyei (fővárosi) kormányhivatal közösen, valamint a földmérési és térinformatikai államigazgatási szervvel együttműködve is megszervezheti a rendezvényt. A szaktanfolyam témaköreinek 80%-ban egyezni kell az ingatlanrendező minősítő vizsga témaköreivel.
 
 [^54]: A 7. alcím címe a 42/2017. (VIII. 17.) FM rendelet 210. § c) pontja szerint módosított szöveg.
 [^55]: A 16. § (1) bekezdése a 7/2020. (VI. 10.) MvM rendelet 32. § (1) bekezdésével megállapított szöveg.
@@ -95,4 +95,4 @@ d) a résztvevő aláírása.
 [^62]: A 16. § (4) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 210. § j) pontja szerint módosított szöveg.
 [^63]: A 16. § (4) bekezdés k) pontja a 7/2020. (VI. 10.) MvM rendelet 35. § k) pontja szerint módosított szöveg.
 [^64]: A 16. § (5) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 210. § k) pontja szerint módosított szöveg.
-[^65]: A 16. § (7) bekezdését a 7/2020. (VI. 10.) MvM rendelet 32. § (5) bekezdése iktatta be.
+[^65]: A 16. § (7) bekezdését a 7/2020. (VI. 10.) MvM rendelet 32. § (5) bekezdése iktatta be, szövege a 29/2022. (XII. 29.) MVM rendelet 1. § c) pontja szerint módosított szöveg.

@@ -1,5 +1,3 @@
-## IGÉNYLŐLAP
-
 ## a földmérő igazolvány kiadásához
 
 ## Az igénylő neve:
@@ -40,7 +38,7 @@
 
 2. melléklet az 52/2014. (IV. 29.) VM rendelethez
 
-## MEGBÍZÓLEVÉL
+MEGBÍZÓLEVÉL
 
 ## Alulírott (megbízó neve) ………………………………………………………………. (megbízó címe) ……………………………………………………. alatti lakos megbízom (megbízott neve) …………………………………………………………… a ……………………………………… földmérő igazolvány számú földmérőt, hogy a ……………………………….……. településen ………………….. helyrajzi számú földrészleten …………………………………………………..céljából földmérési munkálatokat végezzen.
 

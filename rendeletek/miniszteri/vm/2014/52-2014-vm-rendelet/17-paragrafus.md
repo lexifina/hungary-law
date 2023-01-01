@@ -2,7 +2,7 @@
 
 17. § (1) A földmérési és térképészeti tevékenység összhangját és a szakmai követelmények érvényesülését az ingatlanügyi hatóság a földmérési szakfelügyelet útján látja el.
 
-(2)[^66] A földmérési szakfelügyeleti feladatokat a megyei földmérési szakfelügyelő révén kormányhivatalok látják el.
+(2)[^66] A földmérési szakfelügyeleti feladatokat a vármegyei földmérési szakfelügyelő révén kormányhivatalok látják el.
 
 (3) A szakfelügyeleti feladatok körébe tartozik különösen:
 
@@ -26,8 +26,10 @@ i) ingatlanrendező földmérő minősítéssel kapcsolatos szakmaetikai vizsgá
 
 j) az ingatlanrendező földmérő minősítés felfüggesztésének, vagy visszavonásának kezdeményezése.
 
-(4) Több megye területén földmérési tevékenységet végző gazdálkodó szervezet (a továbbiakban: földmérő szervezet) szakfelügyeleti ellenőrzése a vállalkozás székhelye szerint illetékes megyei földmérési szakfelügyelő hatáskörébe tartozik.
+(4)[^67] Több vármegye területén földmérési tevékenységet végző gazdálkodó szervezet (a továbbiakban: földmérő szervezet) szakfelügyeleti ellenőrzése a vállalkozás székhelye szerint illetékes vármegyei földmérési szakfelügyelő hatáskörébe tartozik.
 
-(5) Amennyiben a földmérő szervezet székhelyén kívül végez a szakfelügyeleti ellenőrzés hatálya alá tartozó munkát, az ellenőrzésbe a munkavégzés helye szerint illetékes megyei szakfelügyelőt – megkeresés útján – be kell vonni.
+(5)[^68] Amennyiben a földmérő szervezet székhelyén kívül végez a szakfelügyeleti ellenőrzés hatálya alá tartozó munkát, az ellenőrzésbe a munkavégzés helye szerint illetékes vármegyei szakfelügyelőt – megkeresés útján – be kell vonni.
 
-[^66]: A 17. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 208. § (2) bekezdésével megállapított szöveg. [Ugynaezen módosító rendelet 210. § c) pontjával elrendelt módosítás, amely szerint az „a FÖMI” szövegrész helyébe az „a földmérési és térinformatikai államigazgatási szerv” lép, nem vezethető át.]
+[^66]: A 17. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 208. § (2) bekezdésével megállapított, a 29/2022. (XII. 29.) MVM rendelet 1. § b) pontja szerint módosított szöveg. [A 42/2017. (VIII. 17.) FM rendelet 210. § c) pontjával elrendelt módosítás, amely szerint az „a FÖMI” szövegrész helyébe az „a földmérési és térinformatikai államigazgatási szerv” lép, nem vezethető át.]
+[^67]: A 17. § (4) bekezdése a 29/2022. (XII. 29.) MVM rendelet 1. § a) és b) pontja szerint módosított szöveg.
+[^68]: A 17. § (5) bekezdése a 29/2022. (XII. 29.) MVM rendelet 1. § b) pontja szerint módosított szöveg.

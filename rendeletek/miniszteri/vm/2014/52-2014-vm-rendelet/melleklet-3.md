@@ -1,6 +1,6 @@
-3. melléklet az 52/2014. (IV. 29.) VM rendelethez[^73]
+3. melléklet az 52/2014. (IV. 29.) VM rendelethez[^77]
 
-## A földmérő igazolvány tartalmi elemei
+A földmérő igazolvány tartalmi elemei
 
 ## Első oldal:
 
@@ -24,4 +24,4 @@ A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. t
 
 A földmérő igazolvány személyazonosság igazolására alkalmas okmánnyal együtt, visszavonásig érvényes!
 
-[^73]: A 3. melléklet a 7/2020. (VI. 10.) MvM rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^77]: A 3. melléklet a 7/2020. (VI. 10.) MvM rendelet 36. § (1) bekezdésével megállapított szöveg.

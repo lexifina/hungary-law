@@ -1,6 +1,6 @@
-7. melléklet az 52/2014. (IV. 29.) VM rendelethez[^77]
+7. melléklet az 52/2014. (IV. 29.) VM rendelethez[^81]
 
-## Kérelem AZ INGATLANRENDEZŐ FÖLDMÉRŐ MINŐSÍTÉS MEGHOSSZABBÍTÁSÁHOZ VAGY NYILVÁNTARTÁSBA TÖRTÉNŐ VISSZAVEZETÉSÉHEZ
+Kérelem AZ INGATLANRENDEZŐ FÖLDMÉRŐ MINŐSÍTÉS MEGHOSSZABBÍTÁSÁHOZ VAGY NYILVÁNTARTÁSBA TÖRTÉNŐ VISSZAVEZETÉSÉHEZ
 
 1. Az ingatlanrendező földmérő minősítés meghosszabbítása vagy nyilvántartásba történő visszavezetés iránti kérelemnek tartalmaznia kell a kérelmező
 
@@ -26,4 +26,4 @@
 
 2.3. az igazgatási szolgáltatási díj megfizetését igazoló dokumentumot.
 
-[^77]: A 7. mellékletet a 7/2020. (VI. 10.) MvM rendelet 36. § (2) bekezdése iktatta be.
+[^81]: A 7. mellékletet a 7/2020. (VI. 10.) MvM rendelet 36. § (2) bekezdése iktatta be.

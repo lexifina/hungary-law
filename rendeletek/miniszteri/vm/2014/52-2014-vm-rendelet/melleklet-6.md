@@ -26,9 +26,9 @@
 
 6. melléklet az 52/2014. (IV. 29.) VM rendelethez
 
-## Az ingatlanrendező földmérő minősítő vizsga írásbeli és szóbeli vizsgakövetelményei
+Az ingatlanrendező földmérő minősítő vizsga írásbeli és szóbeli vizsgakövetelményei
 
-1.[^76] A földügyi igazgatás felépítésének és az ingatlanügyi hatósági feladatok ismerete.
+1.[^80] A földügyi igazgatás felépítésének és az ingatlanügyi hatósági feladatok ismerete.
 
 2. A földmérési és térképészeti tevékenységet szabályozó jogszabályok ismerete.
 
@@ -42,4 +42,4 @@
 
 7. A helyrajziszámozásról szóló jogszabályok ismerete.
 
-[^76]: A 6. melléklet 1. pontja a 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés k) pontja szerint módosított szöveg.
+[^80]: A 6. melléklet 1. pontja a 29/2015. (VI. 5.) FM rendelet 12. § (1) bekezdés k) pontja szerint módosított szöveg.
