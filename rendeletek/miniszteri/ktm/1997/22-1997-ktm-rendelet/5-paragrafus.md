@@ -1,10 +1,10 @@
 5. § Ez a rendelet a kihirdetését követő 5. napon lép hatályba.
 
-Melléklet a 22/1997. (VIII. 1.) KTM rendelethez
+Melléklet a 22/1997. (VIII. 1.) KTM rendelethez[^2]
 
 A Kesznyéteni Tájvédelmi Körzet bővítési területének ingatlan-nyilvántartási helyrajzi számai
 
-Szabolcs-Szatmár-Bereg megye
+Szabolcs-Szatmár-Bereg vármegye
 
 Tiszadob
 
@@ -13,3 +13,5 @@ Tiszadob
 Tiszalúc
 
 032, 028/A, 028/B
+
+[^2]: A Melléklet az 53/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
