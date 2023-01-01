@@ -8,7 +8,11 @@ b) az olyan jogügylethez, amely az állami vagyon körébe tartozó műemléket
 
 c) az állami tulajdonban álló műemlék vagyonkezelőjének kijelöléséhez vagy annak megváltoztatásához,
 
-d) vagyonkezelő hiányában az állami tulajdonban álló műemlék hasznosítására irányuló bármely jogügylethez.
+d) vagyonkezelő hiányában – az (1a) bekezdésben foglalt kivétellel – az állami tulajdonban álló műemlék hasznosítására irányuló bármely jogügylethez.
+
+(1a) Nem szükséges a miniszter előzetes jóváhagyása, ha az állami tulajdonban álló műemlék tulajdonosi joggyakorlója 90 napot meg nem haladó időtartamra köt hasznosítására irányuló jogügyletet.
+
+(1b) Az (1a) bekezdés alapján létrejött jogügylet időtartama nem hosszabbítható meg, továbbá ugyanarra a műemlékre vonatkozóan ugyanazon felek között új határozott idejű jogügylet az (1a) bekezdés alkalmazásával nem köthető.
 
 (2) Az (1) bekezdés szerinti jóváhagyás a jogügylet érvényességi kelléke.
 

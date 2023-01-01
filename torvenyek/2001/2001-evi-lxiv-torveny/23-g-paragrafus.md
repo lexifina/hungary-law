@@ -24,7 +24,7 @@ elvégzéséről, és e feladatokra vonatkozó szerződést a beruházóval a 22
 
 (3) A (2) és (4) bekezdésben meghatározott feladatok elvégzésébe jogszabályban meghatározott módon bevonható
 
-a) a gyűjtőterületén érintett megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum,
+a) a gyűjtőterületén érintett vármegyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum,
 
 b) a gyűjtőterületén érintett területi múzeum, vagy
 

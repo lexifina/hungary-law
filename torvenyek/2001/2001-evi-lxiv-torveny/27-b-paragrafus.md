@@ -4,7 +4,7 @@
 
 a) a területi múzeum, Budapesten a Budapesti Történeti Múzeum gondoskodik, ha a feltárás csak annak gyűjtőterületére terjed ki,
 
-b) a megyei hatókörű városi múzeum gondoskodik, ha a feltárással érintett területen nincs területi múzeum, vagy a feltárással érintett terület túlnyúlik annak gyűjtőterületén,
+b) a vármegyei hatókörű városi múzeum gondoskodik, ha a feltárással érintett területen nincs területi múzeum, vagy a feltárással érintett terület túlnyúlik annak gyűjtőterületén,
 
 c) a Magyar Nemzeti Múzeum gondoskodik, ha az a)–b) pont szerint a gyűjtőterületén érintett múzeum nem tudja biztosítani a leletanyag végleges befogadását.
 

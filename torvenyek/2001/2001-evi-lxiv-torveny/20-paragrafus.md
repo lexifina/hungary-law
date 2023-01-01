@@ -20,7 +20,7 @@ a) a Magyar Nemzeti Múzeum,
 
 b) a Budapesti Történeti Múzeum,
 
-c) a megyei hatókörű városi múzeum,
+c) a vármegyei hatókörű városi múzeum,
 
 d) a régészeti gyűjtőkörrel rendelkező területi múzeum,
 
