@@ -1,3 +1,3 @@
-9. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^97]
+9. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^98]
 
-[^97]: A 7–9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: A 7–9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -74,7 +74,7 @@ Az oklevelet kibocsátó felsőfokú oktatási intézmény neve:
 
 2.1. az ország
 
-2.1.1. az alábbi megyék:
+2.1.1.[^93] az alábbi vármegyék:
 
 ..................................................................................................................
 
@@ -115,3 +115,4 @@ Kelt: ...............................................
 bejelentő aláírása
 
 [^92]: A 4. melléklet a 379/2016. (XII. 2.) Korm. rendelet 271. § (2) bekezdésével megállapított szöveg.
+[^93]: A 4. melléklet 2.1.1. pontja a 616/2022. (XII. 29.) Korm. rendelet 184. § b) pontja szerint módosított szöveg.
