@@ -1,6 +1,6 @@
 1. számú melléklet a 25/1998. (XII. 27.) EüM rendelethez
 
-## A hát-, derék- és deréktáji sérülések kockázatát megnövelő általános tényezők
+A hát-, derék- és deréktáji sérülések kockázatát megnövelő általános tényezők
 
 1. A teher jellemzői
 
