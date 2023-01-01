@@ -1,6 +1,6 @@
 |  | A | B | C |
 
-| 1. | MEGYE | TANKERÜLETI KÖZPONT | TANKERÜLETI KÖZPONT FELADATELLÁTÁSI TERÜLETE |
+| 1. | VÁRMEGYE | TANKERÜLETI KÖZPONT | TANKERÜLETI KÖZPONT FELADATELLÁTÁSI TERÜLETE |
 
 | 2. | BÁCS-KISKUN | Kecskeméti | Kecskeméti járás |
 
@@ -400,4 +400,4 @@
 
 Az államháztartásról szóló 2011. évi CXCV. törvény 11. § (3b) bekezdés a) pontja szerinti beolvadásos kiválással érintett tankerületek és a befogadó tankerületi központok
 
-[^65]: A 2. melléklet a 170/2016. (VII. 1.) Korm. rendelet 4. §-a, a 371/2020. (VI. 30.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
+[^65]: A 2. melléklet a 170/2016. (VII. 1.) Korm. rendelet 4. §-a, a 371/2020. (VI. 30.) Korm. rendelet 38. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 235. §-a szerint módosított szöveg.
