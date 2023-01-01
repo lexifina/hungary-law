@@ -1,5 +1,3 @@
-## terjed ki.
-
 2. § (1) A Mvt. 58. §-a szerinti foglalkozás-egészségügyi szolgáltatás nyújtása a foglalkozás-egészségügyi szolgálatok (a továbbiakban: szolgálat) feladatkörébe tartozik.
 
 (2)[^5]

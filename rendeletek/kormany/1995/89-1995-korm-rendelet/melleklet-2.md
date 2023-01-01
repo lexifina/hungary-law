@@ -10,7 +10,7 @@
 
 ## ,,A'' foglalkozás-egészségügyi osztály esetében 10 000 Ft/fő/év.
 
-## 1.1.2.[^22] Az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal, valamint szakmai képzés szervezője által – eltérő megállapodás hiányában – fizetendő díjak: Az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal, valamint szakmai képzés szervezője által beutalt személy
+## 1.1.2.[^22] Az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatal, valamint szakmai képzés szervezője által – eltérő megállapodás hiányában – fizetendő díjak: Az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatal, valamint szakmai képzés szervezője által beutalt személy
 
 ## 1.[^23]
 
@@ -63,7 +63,7 @@
 2. számú melléklet a 89/1995. (VII. 14.) Korm. rendelethez
 
 [^21]: Az 1. számú melléklet 1.1. pontja a 9/1999. ( I. 27.) Korm. rendelet mellékletével, az 1.1. pont címe a 350/2012. (XII. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^22]: Az 1. melléklet 1.1.2. pontja a 70/2015. (III. 30.) Korm. rendelet 14. § (2) bekezdése, a 13/2020. (II. 7.) Korm. rendelet 6. § 3. pontja szerint módosított szöveg.
+[^22]: Az 1. melléklet 1.1.2. pontja a 70/2015. (III. 30.) Korm. rendelet 14. § (2) bekezdése, a 13/2020. (II. 7.) Korm. rendelet 6. § 3. pontja, a 616/2022. (XII. 29.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
 [^23]: Az 1. melléklet 1.1.2. pont 1. alpontját a 350/2012. (XII. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
 [^24]: Az 1. melléklet 1.1.2 pont 4. alpontját a 87/2010. (III. 26.) Korm. rendelet 11. § (1) bekezdése hatályon kívül helyezte.
 [^25]: Az 1. számú melléklet 1.1.3. pontját a 64/2000. (V. 9.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 350/2012. (XII. 12.) Korm. rendelet 4. § c) pontja.
