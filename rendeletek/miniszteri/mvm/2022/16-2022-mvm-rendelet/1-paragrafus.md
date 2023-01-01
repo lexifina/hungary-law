@@ -1,0 +1,1 @@
+1. § A fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) nyílt forráskódú programot alkalmaz mindazon informatikai szolgáltatásnál, ahol azt műszaki, gazdasági okok nem zárják ki, így különösen az elektronikus levelezés biztosításánál, valamint – a böngészőprogramot is ideértve – az irodai alapprogramoknál.
