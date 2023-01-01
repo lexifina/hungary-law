@@ -14,10 +14,16 @@ c) a 18. életévét betöltötte, a kiállítás napjától számított 6 évet
 
 (3a) Ha a jogosult február 29-én született, és az érvényességi idő lejártának évében ez a nap hiányzik, akkor a személyazonosító igazolvány érvényességi ideje február 28-án jár le.
 
-(3b) Ha a honosított személy a magyar állampolgárságról szóló 1993. évi LV. törvény 25/B. §-ában meghatározottak szerint tesz esküt vagy fogadalmat, részére az állandó személyazonosító igazolvány kérelmére kerül kiállításra.
+(3b)
 
 (4) A letelepedett jogállású személy állandó személyazonosító igazolványát az (1) és (1a) bekezdésben meghatározott érvényességi idővel, de legfeljebb a letelepedési engedélyébe, ideiglenes letelepedési engedélyébe, nemzeti letelepedési engedélyébe, illetve EK letelepedési engedélyébe bejegyzett érvényességi idővel kell kiállítani.
 
 (4a) A menekült vagy oltalmazott jogállású személy állandó személyazonosító igazolványát – az (1a) bekezdésben meghatározott kivétellel – a menekültkénti vagy oltalmazottkénti státuszról rendelkező döntés meghozatalának napjától számított 4 évre kell kiállítani.
 
 (5) Az ideiglenes személyazonosító igazolvány 30 napos érvényességi idővel állítható ki. Az ideiglenes személyazonosító igazolvány kiállításával kapcsolatos részletes szabályokat kormányrendelet határozza meg.
+
+(6) A büntetés-végrehajtási intézetből szabadult személynek a fogvatartás ideje alatt lejárt, valamint a szabadulást követő tizenöt napon belül lejáró személyazonosító igazolványa a szabadulást követő kilencven napig érvényes.
+
+(7) A szabadulás időpontja a büntetés-végrehajtási intézet által kiállított szabadulási igazolással igazolható.
+
+(8) A (6) bekezdés alapján meghosszabbodott érvényességi időt a nyilvántartásba nem kell bejegyezni és az okmányon nem kell feltüntetni.

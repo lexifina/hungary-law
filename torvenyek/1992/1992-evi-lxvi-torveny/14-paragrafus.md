@@ -12,7 +12,7 @@ d) az idegenrendészeti hatóság és a menekültügyi hatóság által tovább�
 
 e) a konzuli szolgálat konzuli tisztviselőjének az értesítése;
 
-f) a bv. szerv által továbbított, a nyilvántartásba vételhez, valamint a személyazonosító igazolvány kiállításához szükséges adatok;
+f)
 
 g) a címek tekintetében a központi címregiszterből automatikus adatátvétel;
 

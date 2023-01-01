@@ -18,4 +18,6 @@ c) a Kormány által kijelölt szolgáltató a b) ponthoz kapcsolódóan a Korm�
 
 (7) A tároló elemen elhelyezett aláíró tanúsítvány személyazonosító adatként a polgár családi és utónevét, valamint okmányazonosítóját tartalmazza. A tanúsítványban álnév nem tüntethető fel, továbbá a tanúsítvány nem bocsátható ki olyan céllal, hogy az a polgárt más személy, illetve szervezet képviseletében történő aláírásra jogosítsa fel.
 
+(7a) A polgár az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti szerepkör-tanúsítvány szerepkörének megfelelően az e-aláírási funkcióval más személy, illetve szervezet képviseletében is eljárhat.
+
 (8) A (2) bekezdés szerinti szolgáltató a tanúsítvány kibocsátásról, visszavonásáról és azok időpontjáról értesíti a nyilvántartást kezelő szervet.

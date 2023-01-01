@@ -46,7 +46,7 @@ q) a kincstár a szociális igazgatásról és szociális ellátásokról szól�
 
 r) az út- és úthasználati díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.
 
-s) a fővárosi és megyei kormányhivatal integrált ügyfélszolgálati irodája az anyakönyvi eljárással és az állampolgársági eljárással kapcsolatos feladatainak, valamint más, törvényben meghatározott feladatainak ellátásához,
+s) a fővárosi és vármegyei kormányhivatal integrált ügyfélszolgálati irodája az anyakönyvi eljárással és az állampolgársági eljárással kapcsolatos feladatainak, valamint más, törvényben meghatározott feladatainak ellátásához,
 
 sz) a családi állapotra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére vonatkozó adatok kivételével a Magyar Művészeti Akadémiáról szóló törvény szerinti művészjáradékkal kapcsolatos ügyekben eljáró szerv a művészjáradékkal összefüggő törvényi feladatai ellátásához;
 
