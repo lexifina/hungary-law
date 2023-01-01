@@ -8,11 +8,7 @@ a) a 2019. évben 100 000 000 forint,
 
 b) a 2020. évben 250 000 000 forint;
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 21. A K–12 Mesterszalon kialakítása jogcímcsoporttal történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+3.[^1]
 
 4. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – az 1. pont szerinti cél megvalósításához gondoskodjon a 2019. évben szükséges, a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt legfeljebb 100 000 000 forint központi költségvetési forrás biztosításáról a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 21. A K–12 Mesterszalon kialakítása jogcímcsoport javára;
 
@@ -45,3 +41,5 @@ Határidő: 2020. december 31.
 Felelős: pénzügyminiszter
 
 Határidő: az adott évi központi költségvetés tervezése során
+
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
