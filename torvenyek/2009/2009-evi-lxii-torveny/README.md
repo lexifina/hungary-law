@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-62-00-00
 | 2021-07-01 | 2020. évi CXXI. törvény | 2009-62-00-00.35 |
 | 2022-07-01 | 2019. évi CXV. törvény | 2009-62-00-00.36 |
 | 2022-08-06 | 2022. évi XX. törvény | 2009-62-00-00.37 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2009-62-00-00.38 |
