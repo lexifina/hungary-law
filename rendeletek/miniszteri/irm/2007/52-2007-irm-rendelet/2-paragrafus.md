@@ -16,7 +16,7 @@ d) gondnokság, valamint
 
 e) portaszolgálat
 
-## működik.
+működik.
 
 (5)[^15] Látogató a befogadó állomás területére a befogadó állomás vezetőjének hozzájárulásával léphet be és tartózkodhat a befogadó állomás területén. A látogató a befogadó állomáson tartózkodás ideje alatt köteles betartani a házirendet, továbbá eleget tenni a befogadó állomás munkatársai utasításainak.
 

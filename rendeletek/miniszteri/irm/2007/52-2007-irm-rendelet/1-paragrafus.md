@@ -18,7 +18,7 @@ g) biztosítja a menekültügyi eljárás lefolytatásához szükséges személy
 
 h)[^7] a menedékjogról szóló 2007. évi LXXX. törvényben (a továbbiakban: Tv.), valamint a menedékjogról szóló 2007. évi LXXX. törvény végrehajtásáról szóló 301/2007. (XI. 9.) Korm. rendeletben meghatározottak szerint ellátást és támogatást nyújt az elismerését kérő, a menekült, az oltalmazott, a befogadott és a menedékes részére;
 
-i)[^8] együttműködik az elismerését kérő, valamint a menekült, az oltalmazott, befogadott és a menedékes ellátásában részt vevő, illetve szerepet vállaló fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával, a települési – a fővárosban a fővárosi kerületi – önkormányzatokkal, továbbá a gyámhatóságokkal, a civil szervezetekkel és egyházi jogi személyekkel, valamint – törvényben meghatározott feladataik ellátása érdekében – a rendvédelmi szervekkel és a nemzetbiztonsági szolgálatokkal;
+i)[^8] együttműködik az elismerését kérő, valamint a menekült, az oltalmazott, befogadott és a menedékes ellátásában részt vevő, illetve szerepet vállaló fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalával, a települési – a fővárosban a fővárosi kerületi – önkormányzatokkal, továbbá a gyámhatóságokkal, a civil szervezetekkel és egyházi jogi személyekkel, valamint – törvényben meghatározott feladataik ellátása érdekében – a rendvédelmi szervekkel és a nemzetbiztonsági szolgálatokkal;
 
 j) együttműködik a menekültügyben érintett állami szervekkel és társadalmi szervezetekkel, továbbá a hazai és nemzetközi menekültügyi és migrációs szervezetekkel;
 
@@ -37,7 +37,7 @@ l)[^10] nemzeti kapcsolattartó pontként ellátja az Európai Menekültügyi T�
 [^5]: Az 1. § (2) bekezdés e) pontja a 26/2020. (VII. 15.) BM rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § (2) bekezdés f) pontja a 23/2016. (VI. 29.) BM rendelet 15. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (2) bekezdés h) pontja a 23/2016. (VI. 29.) BM rendelet 15. § (3) bekezdésével megállapított szöveg.
-[^8]: Az 1. § (2) bekezdés i) pontja a 23/2016. (VI. 29.) BM rendelet 15. § (3) bekezdésével megállapított szöveg.
+[^8]: Az 1. § (2) bekezdés i) pontja a 23/2016. (VI. 29.) BM rendelet 15. § (3) bekezdésével megállapított, a 45/2022. (XII. 20.) BM rendelet 44. §-a szerint módosított szöveg.
 [^9]: Az 1. § (2) bekezdés k) pontját a 12/2010. (IV. 2.) IRM rendelet 1. § (1) bekezdése iktatta be.
 [^10]: Az 1. § (2) bekezdés l) pontját a 23/2011. (VII. 21.) BM rendelet 4. § (1) bekezdése iktatta be.
 [^11]: Az 1. § (3) bekezdése a 23/2016. (VI. 29.) BM rendelet 17. § a) pontja, a 27/2019. (VI. 28.) BM rendelet 9. § b) pontja szerint módosított szöveg.

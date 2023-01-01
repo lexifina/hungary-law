@@ -1,6 +1,6 @@
 2. melléklet az 52/2007. (XII. 11.) IRM rendelethez[^46]
 
-## A tranzitzóna házirendje
+A tranzitzóna házirendje
 
 1. E házirend szerinti tranzitzóna az államhatárról szóló 2007. évi LXXXIX. törvény 5. § (1) bekezdése alapján, menekültügyi feladatok ellátására kialakított terület.
 

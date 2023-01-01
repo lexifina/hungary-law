@@ -1,6 +1,6 @@
 1. melléklet az 52/2007. (XII. 11.) IRM rendelethez[^39]
 
-## A befogadó állomás házirendje
+A befogadó állomás házirendje
 
 1.[^40] E házirend szerinti befogadó állomás: az Országos Idegenrendészeti Főigazgatóság által fenntartott befogadó állomás, a közösségi szállás, azok összes helyiségeivel és mellékhelyiségeivel együtt, valamint a hozzájuk tartozó udvar.
 
