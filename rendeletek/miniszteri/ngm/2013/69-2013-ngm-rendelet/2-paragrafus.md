@@ -1,8 +1,8 @@
-2. § (1)[^1]
+2. § (1)[^2]
 
-(2) Ha a jelölt a támogatását az őt jelölő pártlistát állító párt rendelkezésére bocsátja, a Törvény 2/A. § (1) bekezdése szerinti nyilatkozatát (a továbbiakban: nyilatkozat) a Kincstárnak a jelölt választókerülete szerint illetékes megyei igazgatóságára kell eljuttatnia.
+(2)[^3] Ha a jelölt a támogatását az őt jelölő pártlistát állító párt rendelkezésére bocsátja, a Törvény 2/A. § (1) bekezdése szerinti nyilatkozatát (a továbbiakban: nyilatkozat) a Kincstárnak a jelölt választókerülete szerint illetékes vármegyei igazgatóságára kell eljuttatnia.
 
-(3) A Kincstár a nyilatkozatok alapján az ugyanarra a pártra engedményezett támogatások tekintetében egy megállapodást köt a párttal. A megállapodást a párt képviselője a Kincstárnak a párt székhelye szerint illetékes megyei igazgatóságán kötheti meg.
+(3)[^4] A Kincstár a nyilatkozatok alapján az ugyanarra a pártra engedményezett támogatások tekintetében egy megállapodást köt a párttal. A megállapodást a párt képviselője a Kincstárnak a párt székhelye szerint illetékes vármegyei igazgatóságán kötheti meg.
 
 (4) A megállapodás
 
@@ -66,6 +66,9 @@ b) a párt mint kedvezményezett esetében tartalmazza
 
 (5) A megállapodás részét képező egyes tartalmi követelmények e rendelet megfelelő előírására, valamint a Kincstár szabályzatára történő utalással is meghatározhatók.
 
-(6) A Kincstár — a kedvezményezettnek a megállapodás megkötésekor tett választása szerint — a megállapodás megkötésének helye szerinti megyei igazgatóságán (a továbbiakban: igazgatóság) adja át a kincstári kártyát és annak PIN-kódját, vagy azokat a kedvezményezettnek megküldi, a megállapodás megkötésének napjától számított öt napon belül.
+(6)[^5] A Kincstár — a kedvezményezettnek a megállapodás megkötésekor tett választása szerint — a megállapodás megkötésének helye szerinti vármegyei igazgatóságán (a továbbiakban: igazgatóság) adja át a kincstári kártyát és annak PIN-kódját, vagy azokat a kedvezményezettnek megküldi, a megállapodás megkötésének napjától számított öt napon belül.
 
-[^1]: A 2. § (1) bekezdését a 62/2016. (XII. 29.) NGM rendelet 70. §-a hatályon kívül helyezte.
+[^2]: A 2. § (1) bekezdését a 62/2016. (XII. 29.) NGM rendelet 70. §-a hatályon kívül helyezte.
+[^3]: A 2. § (2) bekezdése a 17/2022. (XII. 20.) PM rendelet 1. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdése a 17/2022. (XII. 20.) PM rendelet 1. § b) pontja szerint módosított szöveg.
+[^5]: A 2. § (6) bekezdése a 17/2022. (XII. 20.) PM rendelet 1. § b) pontja szerint módosított szöveg.

@@ -4,10 +4,12 @@
 
 a) országos választási kincstári számlát,
 
-b) megyénként megyei választási kincstári kártyafedezeti számlát, és
+b)[^1] vármegyénként vármegyei választási kincstári kártyafedezeti számlát, és
 
 c) a jelölt támogatásával rendelkező párthoz rendelt kincstári kártyafedezeti számlát
 
-## vezet.
+vezet.
 
 (2) A Kincstár megbízása alapján a kártyakibocsátó a jelölt és a jelölt támogatásával rendelkező párt (a továbbiakban együtt: kedvezményezett) átutalásai lebonyolítására technikai számlát vezet.
+
+[^1]: Az 1. § (1) bekezdés b) pontja a 17/2022. (XII. 20.) PM rendelet 1. § a) és b) pontja szerint módosított szöveg.
