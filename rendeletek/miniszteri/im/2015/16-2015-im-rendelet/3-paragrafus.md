@@ -14,4 +14,6 @@ b) postai úton.
 
 (5) A meghatalmazás tényéről és az azzal érintett pénzügyi intézményekről a (4) bekezdésben meghatározott határidőn belül a pénzügyi fogyasztóvédelmi ellenőrzési jogkörben eljáró Magyar Nemzeti Bankot is tájékoztatni kell.
 
-(6) A meghatalmazással érintett pénzügyi intézmények az ügyfélszolgálati helyiségeikben, továbbá legalább egy megyei vagy országos napilapban is közzéteszik a meghatalmazás tényét és a meghatalmazott pénzügyi intézmény nevét, székhelyét, fióktelepeinek és telephelyeinek címét, valamint az ezzel összefüggő módosításokat.
+(6)[^2] A meghatalmazással érintett pénzügyi intézmények az ügyfélszolgálati helyiségeikben, továbbá legalább egy vármegyei vagy országos napilapban is közzéteszik a meghatalmazás tényét és a meghatalmazott pénzügyi intézmény nevét, székhelyét, fióktelepeinek és telephelyeinek címét, valamint az ezzel összefüggő módosításokat.
+
+[^2]: A 3. § (6) bekezdése a 38/2022. (XII. 27.) IM rendelet 9. §-a szerint módosított szöveg.

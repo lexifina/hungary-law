@@ -1,4 +1,4 @@
-5. §[^2] (1) A bíróságon kívüli adósságrendezés kezdeményezésének benyújtására vonatkozó dokumentumok átvételekor a pénzügyi intézmény a dokumentumok személyes benyújtásakor elismervényt ad az adósnak a dokumentumok átvételéről, ha az adós nyilatkozik arról, hogy az adósságrendezés kezdeményezése iránt nem nyújtott be kérelmet párhuzamosan a CsSz területi szervénél.
+5. §[^3] (1) A bíróságon kívüli adósságrendezés kezdeményezésének benyújtására vonatkozó dokumentumok átvételekor a pénzügyi intézmény a dokumentumok személyes benyújtásakor elismervényt ad az adósnak a dokumentumok átvételéről, ha az adós nyilatkozik arról, hogy az adósságrendezés kezdeményezése iránt nem nyújtott be kérelmet párhuzamosan a CsSz területi szervénél.
 
 (2) Ha a pénzügyi intézmény a bíróságon kívüli adósságrendezés kezdeményezésének benyújtására vonatkozó dokumentumokat postai úton kapta meg az adóstól, haladéktalanul nyilatkoztatja az adóst, hogy az adósságrendezés kezdeményezése iránt nyújtott-e be kérelmet párhuzamosan a CsSz területi szervénél. A nyilatkozat beérkezéséig – de legfeljebb 15 napig – a pénzügyi intézmény a dokumentumok átvételét függőben tartja.
 
@@ -14,4 +14,4 @@
 
 (8) Ha az adósságrendezés kezdeményezésének benyújtásával összefüggésben nem kellett az (5) bekezdés szerinti felhívást kibocsátani, és ezért az adósságrendezés kezdeményezése benyújtásának joghatásai beálltak, vagy ha az adósságrendezés kezdeményezése benyújtásának joghatásai a (6) bekezdés alapján álltak be, a pénzügyi intézmény az adósságrendezés kezdeményezése iránti kérelem benyújtása joghatásának beálltakor haladéktalanul tájékoztatja a CsSz illetékes területi szervét az adós bíróságon kívüli adósságrendezési eljárás iránti kezdeményezésének benyújtásáról, a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvényben meghatározott központi hitelinformációs rendszerbe (a továbbiakban: KHR) történő adatszolgáltatás teljesítése érdekében.
 
-[^2]: Az 5. § a 42/2015. (XII. 29.) IM rendelet 4. §-ával megállapított szöveg.
+[^3]: Az 5. § a 42/2015. (XII. 29.) IM rendelet 4. §-ával megállapított szöveg.

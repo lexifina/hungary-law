@@ -1,4 +1,4 @@
-## 7. §[^4] A pénzügyi intézmény a nála kezdeményezett azon adósságrendezési eljárások esetében, ahol az adósságrendezés kezdeményezése benyújtásának joghatásai beálltak, a CsSz-től az adósságrendezési eljárás kezdeményezésének benyújtására és az adósságrendezési ügy ügyazonosítójára vonatkozóan kapott adatokról a tudomásszerzést követően az adósnak küldött első írásbeli értesítésben tájékoztatja az adóst.
+## 7. §[^5] A pénzügyi intézmény a nála kezdeményezett azon adósságrendezési eljárások esetében, ahol az adósságrendezés kezdeményezése benyújtásának joghatásai beálltak, a CsSz-től az adósságrendezési eljárás kezdeményezésének benyújtására és az adósságrendezési ügy ügyazonosítójára vonatkozóan kapott adatokról a tudomásszerzést követően az adósnak küldött első írásbeli értesítésben tájékoztatja az adóst.
 
 ## 8. § A pénzügyi intézmény, ha főhitelezőként jár el, az Are. tv. 20. § (2) bekezdése szerinti írásbeli értesítésében tájékoztatja az adóst
 
@@ -18,4 +18,4 @@ c) ha van az adós ellen folyamatban lévő, a főhitelező által indított vé
 
 d) arról, hogy a minimális törlesztőrészletet a c) pont szerinti levonás mely hónapokban és milyen összegben csökkenti.
 
-[^4]: A 7. § a 42/2015. (XII. 29.) IM rendelet 6. §-ával megállapított szöveg.
+[^5]: A 7. § a 42/2015. (XII. 29.) IM rendelet 6. §-ával megállapított szöveg.
