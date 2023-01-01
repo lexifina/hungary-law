@@ -1,4 +1,4 @@
-5. § (1) A jogi szolgáltatás díját a fél helyett az állam viseli, ha a fél rendelkezésre álló havi nettó jövedelme (munkabére, nyugdíja, egyéb rendszeres pénzbeli juttatása), nem haladja meg az öregségi teljes nyugdíj mindenkori legkisebb összegét (a továbbiakban: nyugdíjminimum), vagyona pedig – a 9. §-ban foglaltak figyelembevételével – nincs.
+5. § (1) A jogi szolgáltatás díját a fél helyett az állam viseli, ha a fél rendelkezésre álló havi nettó jövedelme (munkabére, nyugdíja, egyéb rendszeres pénzbeli juttatása), nem haladja meg a szociális vetítési alap összegét, vagyona pedig – a 9. §-ban foglaltak figyelembevételével – nincs.
 
 (2) Jövedelmi és vagyoni helyzetére tekintet nélkül rászorultnak tekintendő az a fél, aki
 
@@ -14,8 +14,8 @@ e) vízumkiadása, tartózkodási engedély vagy letelepedett jogállás megszer
 
 f) a családjában olyan gyermeket gondoz, akinek a rendszeres gyermekvédelmi kedvezményre való jogosultságát megállapították,
 
-g) a 4/2009/EK tanácsi rendelet 46. cikkében meghatározott jogosultként kér az 56. cikk szerinti eljárás lefolytatásához jogi segítséget,
+g) a 4/2009/EK tanácsi rendelet 46. cikkében meghatározott jogosultként kér a 4/2009/EK tanácsi rendelet 56. cikke szerinti, vagy a gyermektartás és a családi tartások egyéb formáinak nemzetközi behajtásáról szóló, 2007. november 23-i hágai egyezmény (a továbbiakban: hágai tartási egyezmény) 15. cikkében meghatározott jogosultként kér a 10. cikk szerinti eljárás lefolytatásához jogi segítséget,
 
 h) a 4. § (1) bekezdés f) pontjának hatálya alá tartozik.
 
-(3) A jogi szolgáltatás díját az állam viseli akkor is, ha az egyedülálló és a 9. §-ban foglaltak figyelembevételével vagyontalan fél rendelkezésre álló havi nettó jövedelme nem haladja meg a nyugdíjminimum 150%-át.
+(3) A jogi szolgáltatás díját az állam viseli akkor is, ha az egyedülálló és a 9. §-ban foglaltak figyelembevételével vagyontalan fél rendelkezésre álló havi nettó jövedelme nem haladja meg a szociális vetítési alap 150%-át.

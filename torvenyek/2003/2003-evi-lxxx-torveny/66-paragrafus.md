@@ -22,4 +22,6 @@ d) a Magyar Ügyvédi Kamara szabályzatában meghatározott jogi segítői tov�
 
 (4a) Az ügyvédi iroda akkor kérheti felvételét a névjegyzékbe, ha van a (4) bekezdés szerinti feltételeknek megfelelő tagja.
 
+(4b) A (4) bekezdés szerinti feltételeket a jogi segítségnyújtó szolgálat az ügyvédi kamarai nyilvántartásból történő adatigénylés útján ellenőrzi.
+
 (5) A jogi segítő a pénzforgalmi számlaszámát, valamint adószámát a szolgáltatási szerződés megkötése előtt köteles bejelenteni.

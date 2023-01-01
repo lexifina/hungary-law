@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-80-00-00
 | 2019-01-01 | 2018. évi CXXXIII. törvény | 2003-80-00-00.31 |
 | 2020-07-16 | 2020. évi XCII. törvény | 2003-80-00-00.32 |
 | 2022-01-01 | 2021. évi CXXII. törvény | 2003-80-00-00.33 |
+| 2023-01-01 | 2022. évi LV. törvény | 2003-80-00-00.34 |

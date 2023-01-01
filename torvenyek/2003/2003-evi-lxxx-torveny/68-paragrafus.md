@@ -16,4 +16,6 @@ bb) a személyiségi jogi jogsértés miatt járó sérelemdíj megfizetésére 
 
 c) a jogi szolgáltatás nyújtását a szervezeti egységet vezető oktató felügyelete mellett jogi szakvizsgával vagy állam- és jogtudományi doktori fokozattal rendelkező egyetemi oktató végezheti.
 
-(4)–(5)
+(4)
+
+(5)
