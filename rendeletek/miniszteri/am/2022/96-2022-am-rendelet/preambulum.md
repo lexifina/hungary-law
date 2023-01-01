@@ -1,0 +1,1 @@
+A géntechnológiai tevékenységről szóló 1998. évi XXVII. törvény 34. § (8) bekezdés c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
