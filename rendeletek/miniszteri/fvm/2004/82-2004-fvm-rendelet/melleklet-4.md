@@ -1,6 +1,6 @@
 ## Vizsgálati igénybejelentő nyomtatvány mintája
 
-| ……………. Megyei Kormányhivatal ………………. | Oldal: ............. |
+| ……………. Vármegyei Kormányhivatal ………………. | Oldal: ............. |
 
 ## SZEMLEMEGRENDELŐ
 
@@ -42,7 +42,7 @@
 
 4. számú melléklet a 82/2004. (V. 11.) FVM rendelethez[^31]
 
-## AZ ENSZ/EGB FFV-37 SZÁMÚ, A GÖRÖGDINNYÉRE VONATKOZÓ FORGALMAZÁSI-MINŐSÉG ELŐÍRÁSA
+AZ ENSZ/EGB FFV-37 SZÁMÚ, A GÖRÖGDINNYÉRE VONATKOZÓ FORGALMAZÁSI-MINŐSÉG ELŐÍRÁSA
 
 1. A TERMÉK MEGHATÁROZÁSA
 

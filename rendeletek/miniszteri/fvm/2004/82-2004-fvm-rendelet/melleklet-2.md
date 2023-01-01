@@ -46,7 +46,7 @@
 
 2. számú melléklet a 82/2004. (V. 11.) FVM rendelethez
 
-## A gyümölcs és zöldség megfelelőségi vizsgálat elvégzésének helyére vonatkozó követelmények
+A gyümölcs és zöldség megfelelőségi vizsgálat elvégzésének helyére vonatkozó követelmények
 
 1. Általános követelmények
 
