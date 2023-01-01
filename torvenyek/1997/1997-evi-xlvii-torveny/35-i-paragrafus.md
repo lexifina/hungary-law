@@ -1,4 +1,4 @@
-35/I. § (1) Az önrendelkezési nyilvántartás érintettre vonatkozó bejegyzéseit az érintett halála után 5 évvel helyreállíthatatlanul törölni kell.
+35/I. § (1) Az önrendelkezési nyilvántartás érintettre vonatkozó bejegyzéseit az érintett halála után 10 évvel helyreállíthatatlanul törölni kell.
 
 (2) Ellenkező bizonyításig vélelmezni kell az EESZT felhasználó jóhiszeműségét, ha az önrendelkezési nyilvántartásba bejegyzett nyilatkozat alapján jár el. Az EESZT felhasználó nem hivatkozhat arra, hogy az önrendelkezési nyilvántartásba bejegyzett önrendelkezési nyilatkozatot nem ismeri.
 

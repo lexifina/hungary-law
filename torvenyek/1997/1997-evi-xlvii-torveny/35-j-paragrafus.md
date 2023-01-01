@@ -2,7 +2,7 @@
 
 35/J. § (1) Az érintett kezelőorvosa, ennek hiányában háziorvosa az érintett vércsoportjára vonatkozó adat tekintetében az állami vérellátó szolgálat is, a 4. § (1) és (2) bekezdésében meghatározott célból történő, az arra jogosult személyek részére történő hozzáférhetővé tétel érdekében az EESZT útján rögzíti az általa kezelt érintettel kapcsolatban az e törvény szerinti személyazonosító adatok közül az érintett TAJ számát, vagy ennek hiányában más azonosítóját, születési idejét, nemét, továbbá az érintett egészségi állapotával, kórelőzményével, egyes beavatkozásaival kapcsolatos egészségügyi adatokat (a továbbiakban: egészségügyi profil).
 
-(2) Az egészségügyi profilban rögzített adatokat az érintett halála után 5 évvel helyreállíthatatlanul törölni kell.
+(2) Az egészségügyi profilban rögzített adatokat az érintett halála után 10 évvel helyreállíthatatlanul törölni kell.
 
 (3) Az egészségügyiprofil-nyilvántartásból az adat megismerésére jogosult EESZT-felhasználó számára kizárólag egyedileg – TAJ számmal, vagy ennek hiányában más azonosítóval – azonosított érintettre vonatkozó adat továbbítható.
 

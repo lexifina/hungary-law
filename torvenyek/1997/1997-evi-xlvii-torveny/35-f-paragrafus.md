@@ -14,6 +14,6 @@ a) az (1) bekezdésben meghatározott adatokhoz, valamint
 
 b) az érintettre vonatkozó, a csatlakozott adatkezelők informatikai rendszereiben tárolt és hozzáférhetővé tett további adatokhoz.
 
-(3) Az e § szerinti adatokat a működtető az érintett halálát követő 5 évig, az egészségügyi dokumentációra vonatkozó jogszabályok szerint őrzi meg.
+(3) Az e § szerinti adatokat a működtető az érintett halálát követő 10 évig, az egészségügyi dokumentációra vonatkozó jogszabályok szerint őrzi meg.
 
 (4) Az érintett jogosult a 35/H. § szerinti önrendelkezési nyilatkozatában megtiltani, hogy a csatlakozott adatkezelő vagy az EESZT felhasználó az (1) bekezdés szerinti adatait a (2) bekezdés szerint megismerhesse.

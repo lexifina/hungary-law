@@ -52,7 +52,7 @@ p) köznevelés, szakképzés, illetve felsőoktatás céljából az oktatásra,
 
 q) a katonai szolgálatra, illetve a személyes honvédelmi kötelezettség teljesítésére való alkalmasság megállapítása,
 
-r) munkanélküli ellátás, foglalkoztatás elősegítése, valamint az ezzel összefüggő ellenőrzés,
+r) álláskeresési ellátás, foglalkoztatás elősegítése, valamint az ezzel összefüggő ellenőrzés,
 
 s) az egészségügyi ellátásokra jogosultak részére vényen rendelt gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás folyamatos és biztonságos kiszolgáltatása, illetve nyújtása érdekében,
 
