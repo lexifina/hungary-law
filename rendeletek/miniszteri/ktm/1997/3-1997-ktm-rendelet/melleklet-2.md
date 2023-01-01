@@ -1,4 +1,4 @@
-## Békés megye
+## Békés vármegye
 
 ## Battonya:
 
@@ -100,7 +100,7 @@
 
 ## 078–0100, 0153/2, 0154–0155, 0156/8, 0156/20, 0157, 0158/3, 0159–0163, 0184/1–2
 
-## Jász-Nagykun-Szolnok megye
+## Jász-Nagykun-Szolnok vármegye
 
 ## Kisújszállás:
 
@@ -134,7 +134,7 @@
 
 ## 099–0152, 0160/3, 0161, 0187–0211, 0219, 0222, 0242–0244, 0259–0262, 0296/2–0328, 0407, 0409/1–3, 0423–0425
 
-## Csongrád megye
+## Csongrád-Csanád vármegye
 
 ## Ambrózfalva:
 
@@ -168,4 +168,6 @@
 
 ## 0755–0779, 0817–0841, 0867–0879/7, 0880–0902, 0935–01025/5
 
-2. számú melléklet a 3/1997. (I. 8.) KTM rendelethez
+2. számú melléklet a 3/1997. (I. 8.) KTM rendelethez[^5]
+
+[^5]: A 2. számú melléklet az 52/2022. (XII. 27.) AM rendelet 1. § a) és b) pontja szerint módosított szöveg.

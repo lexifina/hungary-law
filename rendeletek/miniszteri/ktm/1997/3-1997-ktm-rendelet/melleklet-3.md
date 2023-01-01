@@ -1,4 +1,4 @@
-## Békés megye
+## Békés vármegye
 
 ## Battonya:
 
@@ -40,13 +40,13 @@
 
 ## 0105, 0106, 0107/1
 
-## Jász-Nagykun-Szolnok megye
+## Jász-Nagykun-Szolnok vármegye
 
 ## Túrkeve:
 
 ## 0119, 0120/3–4, 0121, 0122, 0123/1, 0124–0126, 0128, 0129, 0131, 0209/1, 0209/3, 0260/7
 
-## Csongrád megye
+## Csongrád-Csanád vármegye
 
 ## Csanádpalota:
 
@@ -62,7 +62,7 @@
 
 3. számú melléklet a 3/1997. (I. 8.) KTM rendelethez
 
-## A Körös–Maros Nemzeti Parkhoz csatolt védett természeti területek jegyzéke a védetté nyilvánító rendelkezés megjelölésével
+A Körös–Maros Nemzeti Parkhoz csatolt védett természeti területek jegyzéke a védetté nyilvánító rendelkezés megjelölésével
 
 1. Kardoskúti Fehértő Természetvédelmi Terület
 
