@@ -24,7 +24,7 @@ korlátozhatja a gyermek személyes szabadságát.
 
 (6) Ha a gyermek egészségi vagy pszichés állapota tette szükségessé a személyes szabadság korlátozását, a gyermekotthon vezetője haladéktalanul gondoskodik a gyermek orvosi vizsgálatáról és az egészségügyi ellátáshoz való hozzájutásáról.
 
-(7) A személyes szabadság korlátozásának elrendeléséről a speciális gyermekotthon vezetője haladéktalanul, de legkésőbb harminchat órán belül értesíti a gyermekvédelmi gyámot, a gyermekjogi képviselőt, a megyei, fővárosi gyermekvédelmi szakértői bizottságot és a gyámhatóságot.
+(7) A személyes szabadság korlátozásának elrendeléséről a speciális gyermekotthon vezetője haladéktalanul, de legkésőbb harminchat órán belül értesíti a gyermekvédelmi gyámot, a gyermekjogi képviselőt, a vármegyei, fővárosi gyermekvédelmi szakértői bizottságot és a gyámhatóságot.
 
 (8) A gyermek, a gyermekvédelmi gyám vagy a gyermekjogi képviselő panasszal élhet a személyes szabadság korlátozásával szemben a speciális gyermekotthon, a speciális lakásotthon, a speciális csoporttal rendelkező gyermekotthon fenntartójánál. A gyermekvédelmi gyám és a gyermekjogi képviselő a panaszt annak megtételével egyidejűleg tájékoztatásul megküldi a gyámhatóságnak. A gyermek által tett panaszt a fenntartó a panasz beérkezését követően haladéktalanul tájékoztatásul megküldi a gyámhatóságnak.
 

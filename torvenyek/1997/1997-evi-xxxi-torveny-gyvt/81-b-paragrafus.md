@@ -18,10 +18,10 @@ b) meghatározott ideig hozzátartozóival a kapcsolattartását csak korlátozo
 
 c) a gyermekvédelmi gyám egyetértésével meghatározott gyógykezelésnek vagy gyógyító eljárásnak vesse alá magát.
 
-(5) A gyámhatóság a határozathozatal előtt – a gyermek állapotát figyelembe véve – meghallgatja a gyermeket, a gyermek törvényes képviselőjét, a gyermekjogi képviselőt, a speciális gyermekotthon vezetőjét, valamint kikéri a speciális gyermekotthon, a speciális lakásotthon, a gyermekotthon speciális csoportja telephelye szerinti megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményét. A meghallgatást szükség esetén a gyámhatóság hivatalos helyiségén kívül is meg lehet tartani.
+(5) A gyámhatóság a határozathozatal előtt – a gyermek állapotát figyelembe véve – meghallgatja a gyermeket, a gyermek törvényes képviselőjét, a gyermekjogi képviselőt, a speciális gyermekotthon vezetőjét, valamint kikéri a speciális gyermekotthon, a speciális lakásotthon, a gyermekotthon speciális csoportja telephelye szerinti vármegyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményét. A meghallgatást szükség esetén a gyámhatóság hivatalos helyiségén kívül is meg lehet tartani.
 
-(6) A gyámhatóság a nevelési felügyelet kérdésében a megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményétől csak kivételesen indokolt esetben térhet el.
+(6) A gyámhatóság a nevelési felügyelet kérdésében a vármegyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményétől csak kivételesen indokolt esetben térhet el.
 
 (7) A gyámhatóság a gyermek nevelési felügyeletéről a nevelési felügyelet elrendelésének a speciális gyermekotthon vezetője általi kezdeményezésétől, a 81/A. § (10) bekezdésében foglaltakról való tudomásszerzéstől vagy a gyermekvédelmi gyám kérelmének beérkezésétől számított nyolc napon belül határoz.
 
-(8) A gyámhatóság a nevelési felügyelet fenntartását a megyei, fővárosi szakértői bizottság szakmai véleménye alapján, továbbá a gyermek, a gyermekjogi képviselő vagy a gyermekvédelmi gyám kérelmére felülvizsgálja.
+(8) A gyámhatóság a nevelési felügyelet fenntartását a vármegyei, fővárosi szakértői bizottság szakmai véleménye alapján, továbbá a gyermek, a gyermekjogi képviselő vagy a gyermekvédelmi gyám kérelmére felülvizsgálja.

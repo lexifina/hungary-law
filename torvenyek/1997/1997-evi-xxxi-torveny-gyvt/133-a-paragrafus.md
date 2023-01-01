@@ -6,7 +6,7 @@
 
 a) az örökbefogadási ügyekben,
 
-b) az öregségi nyugdíj mindenkori legkisebb összegének százszorosát meghaladó értékhatárú, kérelemre induló vagyoni ügyekben,
+b) a szociális vetítési alap összegének százszorosát meghaladó értékhatárú, kérelemre induló vagyoni ügyekben,
 
 c) a kapcsolattartási ügyekben.
 

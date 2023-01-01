@@ -6,6 +6,6 @@
 
 (4) A fenntartó az intézményi térítési díjat az (1) bekezdés szerint kiszámított és külön jogszabály szerint dokumentált térítési díjnál alacsonyabb összegben is meghatározhatja.
 
-(5) A költségvetési támogatásban részesülő munkahelyi bölcsőde és családi bölcsőde fenntartója által meghatározható intézményi térítési díj éves összege nem haladhatja meg az öregségi nyugdíj legkisebb összege 300%-ának a tizenkétszeresét.
+(5) A költségvetési támogatásban részesülő munkahelyi bölcsőde és családi bölcsőde fenntartója által meghatározható intézményi térítési díj éves összege nem haladhatja meg a szociális vetítési alap összege 300%-ának a tizenkétszeresét.
 
 (6) Az (5) bekezdésben foglaltakat a költségvetési támogatásban részesülő munkahelyi bölcsőde és családi bölcsőde – nonprofit gazdasági társaság kivételével – gazdasági társasági formában működő vagy egyéni vállalkozó fenntartójára nem kell alkalmazni.

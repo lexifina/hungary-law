@@ -1,12 +1,12 @@
 ## A gondozási hely meghatározása és a járulékos kérdések eldöntése
 
-79. § (1) A gyámhatóság lehetőség szerint már az ideiglenes hatályú elhelyezést követően vagy a nevelésbe vételi eljárás során, de legkésőbb a nevelésbe vétel kezdő időpontját követő negyvenöt napon belül meghatározza a gyermek gondozási helyét. A gyermek gondozási helyét a megyei, fővárosi gyermekvédelmi szakértői bizottság, valamint a 132. § (1) bekezdésében meghatározott szerv vagy személy szakmai véleményének, szakértői véleményének, a területi gyermekvédelmi szakszolgálat által készített elhelyezési javaslatnak és egyéni elhelyezési tervnek, továbbá a (3) és (4) bekezdés szerinti szempontok mérlegelésével kell meghatározni.
+79. § (1) A gyámhatóság lehetőség szerint már az ideiglenes hatályú elhelyezést követően vagy a nevelésbe vételi eljárás során, de legkésőbb a nevelésbe vétel kezdő időpontját követő negyvenöt napon belül meghatározza a gyermek gondozási helyét. A gyermek gondozási helyét a vármegyei, fővárosi gyermekvédelmi szakértői bizottság, valamint a 132. § (1) bekezdésében meghatározott szerv vagy személy szakmai véleményének, szakértői véleményének, a területi gyermekvédelmi szakszolgálat által készített elhelyezési javaslatnak és egyéni elhelyezési tervnek, továbbá a (3) és (4) bekezdés szerinti szempontok mérlegelésével kell meghatározni.
 
 (2) A gondozási hely meghatározására irányuló eljárás során a gyámhatóság meghallgatja a gyermek szülőjét, feltéve hogy szülői felügyeleti jogát nem szüntették meg, és a gyámhatóság tárgyalást tart.
 
 (3) A gondozási hely meghatározása során figyelemmel kell lenni
 
-a) a gyermek életkorára, egészségi állapotára, neveltségi szintjére,
+a) a gyermek életkorára, egészségi állapotára, neveltségi szintjére, véleményére,
 
 b) a testvérek együttes elhelyezésére,
 
@@ -36,7 +36,7 @@ f) a (6) bekezdésben foglaltak figyelembevételével a gyermek ellátási szük
 
 g) a (7) bekezdésben foglalt feltételek fennállása esetén a gyermek örökbe fogadhatóságáról [a b)–g) pontban foglaltak a továbbiakban együtt: járulékos kérdések].
 
-(6) A gyámhatóság a gyermek ellátási szükségletét a megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleménye mérlegelésével állapítja meg. Három év alatti gyermek esetében a különleges ellátási szükséglet megállapításához nem szükséges a megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleménye.
+(6) A gyámhatóság a gyermek ellátási szükségletét a vármegyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleménye mérlegelésével állapítja meg. Három év alatti gyermek esetében a különleges ellátási szükséglet megállapításához nem szükséges a vármegyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleménye.
 
 (7) A gyámhatóság akkor állapítja meg, hogy a nevelésbe vett gyermek örökbe fogadható, ha
 

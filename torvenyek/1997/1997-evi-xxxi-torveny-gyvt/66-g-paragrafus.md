@@ -6,7 +6,7 @@ a) a nevelőszülő segítéséről, ha a nevelőszülő egyidejűleg legalább 
 
 b) a speciális nevelőszülő segítéséről a nála elhelyezett gyermekek számától függetlenül,
 
-c) a különleges nevelőszülő segítéséről, ha a különleges nevelőszülő egyidejűleg legalább három különleges ellátási szükségletű vagy kettős szükségletű gyermek teljes körű ellátását biztosítja,
+c) a nevelőszülő, a különleges nevelőszülő segítéséről, ha a nevelőszülő, különleges nevelőszülő egyidejűleg legalább három különleges ellátási szükségletű vagy kettős szükségletű gyermek teljes körű ellátását biztosítja,
 
 d) – gyermekszámtól függetlenül – az a)–c) pont szerinti nevelőszülő segítéséről a nevelőszülő szabadsága, betegsége, képzése, továbbképzése vagy egyéb akadályoztatása esetén.
 

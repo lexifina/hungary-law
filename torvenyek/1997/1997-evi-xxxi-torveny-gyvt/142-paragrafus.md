@@ -10,4 +10,4 @@ b) – az adatok megismeréséhez fűződő jogos érdek igazolásával – az e
 
 c) – az adatok megismeréséhez fűződő jogos érdek igazolásával – a szülőre vonatkozó adatok tekintetében a másik szülő.
 
-(4) A 135. § (3) bekezdés b) és c) pontja, a 137. § (3a) bekezdése, a 139. § (2) bekezdése és a 141/A. § szerinti nyilvántartási és egyéb rendszerekhez, valamint a szolgáltatói nyilvántartás informatikai rendszeréhez kapcsolódó elektronikus adatfeldolgozást a Kormány által kijelölt szerv végzi.
+(4) A 135. § (3) bekezdés a) és b) pontja, a 137. § (3a) bekezdése, a 139. § (2) bekezdése és a 141/A. § szerinti nyilvántartási és egyéb rendszerekhez, valamint a szolgáltatói nyilvántartás informatikai rendszeréhez kapcsolódó elektronikus adatfeldolgozást a Kormány által kijelölt szerv végzi.

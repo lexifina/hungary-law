@@ -20,6 +20,8 @@ i) a javítóintézet,
 
 j) a kincstár.
 
+k) a miniszter, a gyermek- és ifjúságpolitikáért felelős miniszter.
+
 (2) Az (1) bekezdés szerinti szervek jogosultak
 
 a) a gyermek
@@ -116,9 +118,17 @@ ba) a gyermekjóléti alapellátást nyújtó részéről a gyermek veszélyezte
 
 bb) a gyermekvédelmi szakellátás esetén az elhelyezési javaslat, egyéni elhelyezési terv és egyéni gondozási-nevelési terv elkészítése, valamint a gondozási-nevelési tevékenység megvalósításának értékelése
 
-c) a megyei, fővárosi, valamint az országos gyermekvédelmi szakértői bizottsági tevékenység adminisztrációja, a szakmai vélemény elkészítése a bizottsági alrendszerben,
+c) a vármegyei, fővárosi, valamint az országos gyermekvédelmi szakértői bizottsági tevékenység adminisztrációja, a szakmai vélemény elkészítése a bizottsági alrendszerben,
 
 d) az örökbefogadás előkészítésének és utánkövetésének megvalósítását szolgáló adminisztráció az örökbefogadási alrendszerben
+
+e) a nevelőszülőnek jelentkező személy és a nevelőszülő 5. § t) pontja szerinti adatainak, társadalombiztosítási azonosító jelének, a nevelőszülői tevékenységre való alkalmasság vizsgálatára, felülvizsgálatára és a működtető döntésére vonatkozó adatoknak, dokumentumoknak a rögzítése a nevelőszülői alkalmassági alrendszerben,
+
+f) a nevelőszülőnél, gyermekotthonban, fogyatékosok vagy pszichiátriai betegek otthonában, vagy támogatott lakhatásban elhelyezett, illetve a gyermekvédelmi szakértői bizottság által elhelyezni javasolt gyermekek számának a rögzítése a szakellátott gyermekek nyilvántartásának alrendszerében,
+
+g) a nevelésbe vett gyermekeket fogadó nevelőszülőnél, gyermekotthonban, fogyatékosok vagy pszichiátriai betegek otthonában, vagy támogatott lakhatásban, valamint az ideiglenes hatállyal elhelyezett gyermekek vagy utógondozói ellátásban részesülő fiatal felnőttek ellátását biztosító nevelőszülőnél és gyermekotthonban lévő üres férőhelyek rögzítése a gondozási helyek férőhely-nyilvántartási alrendszerében,
+
+h) a területi gyermekvédelmi szakszolgálat vezetője által kijelölt, az eseti gyámi, gyermekvédelmi gyámi és helyettes gyermekvédelmi gyámi feladatokra kirendelhető személyek 5. § t) pontja szerinti adatainak és társadalombiztosítási azonosító jelének a rögzítése a gyermekvédelmi gyámi alrendszerben
 
 történik.
 
@@ -186,13 +196,13 @@ ek) ea)–ej) alpontba tartozó adatain kívül a vele kapcsolatos gyámhatósá
 
 (6) Az (1) bekezdésben felsorolt szervek, illetve személyek az érintett személyazonosító adatait, valamint a gyermek (2) bekezdésben meghatározott adatait a 15. § (1)–(5) bekezdései szerinti célból egymásnak átadhatják.
 
-(6a) A gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó szolgáltatás vezetője, szakmai munkakörben foglalkoztatott munkatársa, a gyermekvédelmi gyám és helyettes gyermekvédelmi gyám, valamint a megyei, fővárosi és országos gyermekvédelmi szakértői bizottság az adatok (6) bekezdés szerinti átadását a Gyermekeink védelmében elnevezésű informatikai rendszer használatával teljesítik, és a gyámhatóság felé is ennek alkalmazásával szolgáltatnak adatot. A gyámhatóság a feladat- és hatáskörébe tartozó ügy intézése során az informatikai rendszerben rögzített adatokat jogosult megtekinteni és a dokumentumtárban rögzített dokumentumokat letölteni.
+(6a) A gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó szolgáltatás vezetője, szakmai munkakörben foglalkoztatott munkatársa, a gyermekvédelmi gyám és helyettes gyermekvédelmi gyám, valamint a vármegyei, fővárosi és országos gyermekvédelmi szakértői bizottság az adatok (6) bekezdés szerinti átadását a Gyermekeink védelmében elnevezésű informatikai rendszer használatával teljesítik, és a gyámhatóság felé is ennek alkalmazásával szolgáltatnak adatot. A gyámhatóság a feladat- és hatáskörébe tartozó ügy intézése során az informatikai rendszerben rögzített adatokat jogosult megtekinteni és a dokumentumtárban rögzített dokumentumokat letölteni.
 
 (6b) A gyermekjogi képviselő a feladat- és hatáskörébe tartozó ügy intézése során a Gyermekeink védelmében elnevezésű informatikai rendszerben rögzített adatokat jogosult megtekinteni.
 
 (6c) A Gyermekeink védelmében elnevezésű informatikai rendszerbe bekerülő (2) bekezdés a)–c) pontja és az (5) bekezdés szerinti személyek azonosítása, adatainak ellenőrzése céljából a kincstár a Tbj. 57. § (1) bekezdése szerinti nyilvántartásából átadja a Gyermekeink védelmében elnevezésű informatikai rendszer számára a Tbj. 57. § (2) bekezdés a)–i) és o) pontja szerinti adatokat.
 
-(6d) A törvényben meghatározott feladata teljesítése érdekében a feladatkörében eljáró bíróság, ügyészség, nyomozó hatóság, pártfogó felügyelői szolgálat és büntetés-végrehajtási intézet jogosult közvetlen adatigényléssel megismerni a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszeréből, hogy
+(6d) A törvényben meghatározott feladata teljesítése érdekében a feladatkörében eljáró bíróság, ügyészség, nyomozó hatóság, pártfogó felügyelői szolgálat és büntetés-végrehajtási intézet, valamint a védőnő jogosult a Központi Kormányzati Szolgáltatás Busz szolgáltatás igénybevételével közvetlen adatigényléssel megismerni a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszeréből, hogy
 
 a) az az adott gyermekre tartalmaz-e adatot,
 

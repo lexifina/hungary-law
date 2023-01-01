@@ -6,4 +6,4 @@
 
 (4) Az ellátás megtérítését az eljáró szerv az igénybevétel jogosulatlanságáról való tudomásszerzéstől számított 3 hónapon belül rendelheti el. Nem lehet a megtérítést elrendelni, ha az igénybevételtől, illetve az ellátás megszűnésétől egy év már eltelt.
 
-(5) Az eljáró szerv a megtérítést méltányosságból elengedheti, csökkentheti, illetve részletfizetést engedélyezhet, ha a visszafizetésre kötelezett személy családjában az egy főre jutó havi jövedelem összege nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegének kétszeresét.
+(5) Az eljáró szerv a megtérítést méltányosságból elengedheti, csökkentheti, illetve részletfizetést engedélyezhet, ha a visszafizetésre kötelezett személy családjában az egy főre jutó havi jövedelem összege nem haladja meg a szociális vetítési alap összegének kétszeresét.

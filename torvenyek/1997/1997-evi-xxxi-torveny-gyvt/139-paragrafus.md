@@ -14,6 +14,8 @@ c) a térítési díj fizetési kötelezettség teljesítésére, elmaradására
 
 (1d) Gyermekek napközbeni ellátása esetén az (1c) bekezdés szerinti nyilvántartásként kell elfogadni azt az ellátást nyújtó személy vagy az intézmény vezetője által vezetett más, a szolgáltatás nyújtásával kapcsolatos nyilvántartást is, amely az (1c) bekezdésben meghatározott adatokat tartalmazza.
 
+(1e) A 15. § (2) bekezdés a) és c) pontja, valamint a 15. § (3) bekezdése szerinti ellátást nyújtó szolgáltatók az (1) bekezdés a) és b) pontja szerinti adatok tekintetében a nyilvántartási kötelezettségüknek a Gyermekeink védelmében elnevezésű informatikai rendszerben történő adatrögzítéssel tesznek eleget.
+
 (2) A kincstár a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások finanszírozásának ellenőrzése céljából nyilvántartást vezet. A nyilvántartás tartalmazza
 
 a) a személyes gondoskodásban részesülő személy

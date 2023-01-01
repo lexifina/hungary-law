@@ -1,10 +1,10 @@
 26. § (1) Az otthonteremtési támogatás mértékét a folyamatos nevelésben eltöltött évek és a jogosult készpénz- és ingatlan vagyonának együttes értéke alapján úgy kell megállapítani, hogy a vagyonnal nem rendelkező jogosult esetén érje el, a vagyonnal rendelkező jogosult esetén pedig a vagyonnal együtt érje el
 
-a) négy évnél rövidebb időtartamú nevelésbe vételnél az otthonteremtési támogatás megállapítása idején érvényes öregségi nyugdíj legkisebb összegének negyvenhétszeresét,
+a) négy évnél rövidebb időtartamú nevelésbe vételnél az otthonteremtési támogatás megállapítása idején érvényes szociális vetítési alap összegének negyvenhétszeresét,
 
-b) négy évet meghaladó időtartamú nevelésbe vételnél az otthonteremtési támogatás megállapítása idején érvényes öregségi nyugdíj legkisebb összegének ötvenhétszeresét,
+b) négy évet meghaladó időtartamú nevelésbe vételnél az otthonteremtési támogatás megállapítása idején érvényes szociális vetítési alap összegének ötvenhétszeresét,
 
-c) öt évet meghaladó időtartamú nevelésbe vételnél az otthonteremtési támogatás megállapítása idején érvényes öregségi nyugdíj legkisebb összegének hatvanhétszeresét.
+c) öt évet meghaladó időtartamú nevelésbe vételnél az otthonteremtési támogatás megállapítása idején érvényes szociális vetítési alap összegének hatvanhétszeresét.
 
 (2) Ha a fiatal felnőtt az otthonteremtési támogatást lakás, családi ház, tanya bérleti díjának kifizetésére, vagy lakás, családi ház, tanya tulajdon- vagy tulajdonrészszerzéssel járó felújítására, bővítésére használja fel, a gyámhatóság az otthonteremtési támogatás összegének részletekben történő kifizetéséről dönthet. A tulajdon- vagy tulajdonrészszerzéssel járó felújítás, bővítés céljára megállapított otthonteremtési támogatás részletekben történő kifizetése esetén a következő részlet kifizetésére csak akkor kerülhet sor, ha a fiatal felnőtt az előző részlet cél szerinti felhasználásáról okmányokkal igazoltan elszámolt.
 

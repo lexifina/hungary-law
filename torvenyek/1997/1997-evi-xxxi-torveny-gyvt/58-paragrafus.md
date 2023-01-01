@@ -1,4 +1,4 @@
-58. § (1) A speciális gyermekotthon, a speciális lakásotthon, a gyermekotthon speciális csoportja vagy a gyermekotthon az ideiglenes hatállyal elhelyezett vagy a nevelésbe vett súlyos pszichés vagy súlyos disszociális tüneteket mutató, pszichoaktív szert használó, emberkereskedelem feltételezett áldozatává vált és a kettős szükségletű gyermekeknek nyújt gondoskodást, szocializációt és reszocializációt, valamint habilitációt és rehabilitációt. A speciális gyermekotthon legfeljebb 60 napra befogadja a rendőrség általános védelmi intézkedése alapján a fővárosi, megyei gyermekvédelmi szakértői bizottság véleménye hiányában is
+58. § (1) A speciális gyermekotthon, a speciális lakásotthon, a gyermekotthon speciális csoportja vagy a gyermekotthon az ideiglenes hatállyal elhelyezett vagy a nevelésbe vett súlyos pszichés vagy súlyos disszociális tüneteket mutató, pszichoaktív szert használó, emberkereskedelem feltételezett áldozatává vált és a kettős szükségletű gyermekeknek nyújt gondoskodást, szocializációt és reszocializációt, valamint habilitációt és rehabilitációt. A speciális gyermekotthon legfeljebb 60 napra befogadja a rendőrség általános védelmi intézkedése alapján a fővárosi, vármegyei gyermekvédelmi szakértői bizottság véleménye hiányában is
 
 a) az ideiglenes hatállyal elhelyezett, továbbá
 
@@ -16,6 +16,6 @@ a) a gyermek terápiájának, a tanítási évnek vagy a gyermek képzésben val
 
 b) a speciális szükséglet fennállásáig meghosszabbodhat.
 
-(5) A speciális gyermekotthon a szükséges személyi és tárgyi feltételek megléte esetén bentlakásos ellátás keretében végezheti a megyei, fővárosi gyermekvédelmi szakértői bizottság felkérésére a gyermek személyiségvizsgálatát.
+(5) A speciális gyermekotthon a szükséges személyi és tárgyi feltételek megléte esetén bentlakásos ellátás keretében végezheti a vármegyei, fővárosi gyermekvédelmi szakértői bizottság felkérésére a gyermek személyiségvizsgálatát.
 
 (6) A különleges ellátást igénylő gyermek és a kettős szükségletű gyermek gondozását, ellátását, habilitációját és rehabilitációját – az Nktv. szerinti szakértői bizottság fogyatékosságra vonatkozó véleménye alapján – az erre a célra létrehozott különleges gyermekotthon, gyermekotthon vagy gyermekotthoni csoport biztosítja, feltéve, ha a gyermek nevelőszülőnél történő elhelyezése nem oldható meg és állapota nem indokolja a fogyatékosok vagy pszichiátriai betegek otthonában, az Szt. 75. §-a szerinti támogatott lakhatásban való elhelyezését, vagy az elhelyezés férőhely hiányában nem lehetséges.

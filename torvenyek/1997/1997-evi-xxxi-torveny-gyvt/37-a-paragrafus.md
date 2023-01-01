@@ -6,6 +6,16 @@ a) a határozott idejű elhelyezés esetén a megjelölt időtartam – illetve 
 
 b) a jogosultsági feltételek megszűnésével.
 
+(1a) Ha
+
+a) az otthont nyújtó ellátás megszűnésének oka az, hogy a gyermek betöltötte a 18. életévét,
+
+b) az utógondozói ellátás megszűnésének oka az, hogy a fiatal felnőtt betöltötte az utógondozói ellátásra jogosító életkort, vagy
+
+c) az otthont nyújtó ellátásban részesülő gyermek különleges ellátási szükséglete a 3. életévének betöltése miatt szűnik meg,
+
+a gyermek, fiatal felnőtt jogosultsága, ellátási szükséglete a meghatározott életkor betöltését követő napon szűnik meg.
+
 (2) Az önkéntesen igénybe vett gyermekjóléti és gyermekvédelmi ellátás megszüntetését a jogosult, illetve törvényes képviselője kérelmezheti, melynek alapján az intézményvezető az ellátást megszünteti. Az ellátás a megegyezés időpontjában, illetve ennek hiányában a megállapodásban foglaltak szerint szűnik meg.
 
 (3) Az intézményvezető az önkéntesen igénybe vett gyermekjóléti és gyermekvédelmi ellátást megszünteti, ha a jogosult a házirendet ismételten súlyosan megsérti, vagy az ellátás feltételei, okai már nem állnak fenn.

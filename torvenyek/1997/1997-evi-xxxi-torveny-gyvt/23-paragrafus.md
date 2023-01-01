@@ -2,7 +2,7 @@
 
 (1a) Ha a megelőlegezhető gyermektartásdíj (1) bekezdés szerinti legmagasabb összege változik, a megelőlegezés összegét hivatalból felül kell vizsgálni, és az ellátást a változás időpontjára visszamenőleg módosított összegben kell továbbfolyósítani.
 
-(2)
+(2) A bíróság által megállapított gyermektartásdíj alapösszegének nyolcvan százalékát meg nem haladó mértékű részösszegű megfizetés vagy részösszegű behajthatóság esetén a megelőlegezett gyermektartásdíj összege az (1) bekezdésben meghatározottnál alacsonyabb összegben is megállapítható.
 
 (3) A gyámhatóság a gyermektartásdíj megelőlegezését elrendelő határozatát azonnal végrehajthatóvá nyilváníthatja.
 

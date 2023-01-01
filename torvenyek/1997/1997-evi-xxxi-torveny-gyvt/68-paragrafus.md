@@ -1,8 +1,8 @@
 ## Védelembe vétel
 
-68. § (1) Ha a szülő vagy más törvényes képviselő a gyermek veszélyeztetettségét az alapellátások önkéntes igénybevételével megszüntetni nem tudja, vagy nem akarja, de alaposan feltételezhető, hogy segítséggel a gyermek fejlődése a családi környezetben mégis biztosítható, a gyámhatóság a gyermeket védelembe veszi.
+68. § (1) Ha a szülő vagy más törvényes képviselő a gyermek veszélyeztetettségét az alapellátások önkéntes igénybevételével megszüntetni nem tudja, vagy nem akarja, de alaposan feltételezhető, hogy segítséggel a gyermek fejlődése a családi környezetben mégis biztosítható, a gyámhatóság a gyermeket azonnal végrehajtható határozatával védelembe veszi.
 
-(2) A gyámhatóság – a gyermekjóléti központ javaslatának figyelembevételével – védelembe veheti továbbá
+(2) A gyámhatóság – a gyermekjóléti központ javaslatának figyelembevételével – azonnal végrehajtható határozatával védelembe veheti továbbá
 
 a) a szabálysértési hatóság értesítése alapján a szabálysértési tényállást megvalósító gyermeket és a szabálysértést elkövetett fiatalkorút,
 

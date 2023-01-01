@@ -34,9 +34,9 @@ i) az egyházi fenntartású nevelőszülői, gyermekotthoni ellátás terület�
 
 j)
 
-k) jóváhagyja és a minisztérium honlapján közzéteszi a gyermekbántalmazás elleni módszertant, a gyermekbántalmazás kivizsgálásának módszertanát, valamint a gyermekvédelmi jelzőrendszer működésének és működtetésének szakmai módszereit,
+k) jóváhagyja és a minisztérium honlapján közzéteszi a gyermekbántalmazás elleni módszertant, a gyermekbántalmazás kivizsgálásának módszertanát, a gyermekvédelmi gyámi módszertant, valamint a gyermekvédelmi jelzőrendszer működésének és működtetésének szakmai módszereit,
 
-l) kijelöli az emberkereskedelem feltételezett áldozatává vált gyermekeket befogadó speciális gyermekotthonokat.
+l) kijelöli az emberkereskedelem feltételezett áldozatává vált gyermekeket befogadó speciális gyermekotthonokat, az emberkereskedelem áldozatává vált gyermekeket fogadó gyermekek átmeneti otthonát.
 
 (3) A miniszter gondoskodik az ideiglenes hatállyal elhelyezett és a nevelésbe vett
 

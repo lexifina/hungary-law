@@ -20,9 +20,9 @@ betöltéséig kérheti.
 
 (3) Az (1) bekezdés a) pontjának alkalmazásában akkor nem biztosított a fiatal felnőtt létfenntartása, ha
 
-a) a havi jövedelme az öregségi nyugdíj legkisebb összegének háromszorosát nem haladja meg, vagy
+a) a havi jövedelme a szociális vetítési alap összegének háromszorosát nem haladja meg, vagy
 
-b) a nagykorúvá válásának időpontjában a rendelkezésére bocsátott készpénzvagyonának értéke az öregségi nyugdíj legkisebb összegének negyvenszeresét nem haladja meg.
+b) a nagykorúvá válásának időpontjában a rendelkezésére bocsátott készpénzvagyonának értéke a szociális vetítési alap összegének negyvenszeresét nem haladja meg.
 
 (4) Az utógondozói ellátás elrendeléséről a gyámhatóság azonnal végrehajtható határozatban dönt.
 

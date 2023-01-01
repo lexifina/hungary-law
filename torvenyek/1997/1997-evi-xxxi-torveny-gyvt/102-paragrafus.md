@@ -12,7 +12,7 @@ b) a hivatásos gondnoki feladatokat kormányzati szolgálati jogviszonyban áll
 
 (1c) Ha a hivatásos gondnok hivatásos támogatói feladatokat is ellát, a gondnokoltjainak és támogatott személyeinek száma együttesen sem haladhatja meg az (1a) és (1b) bekezdésben foglalt létszámot.
 
-(1d) Ha a hivatásos gondnok tevékenységét munkavégzésre irányuló egyéb jogviszonyban látja el, díjazását úgy kell megállapítani, hogy annak összege gondnokoltanként – a gondnoki feladatok mértéke alapján – az öregségi nyugdíj mindenkori legkisebb összegének legalább 10%-át elérje.
+(1d) Ha a hivatásos gondnok tevékenységét munkavégzésre irányuló egyéb jogviszonyban látja el, díjazását úgy kell megállapítani, hogy annak összege gondnokoltanként – a gondnoki feladatok mértéke alapján – a szociális vetítési alap összegének legalább 10%-át elérje.
 
 (2) A hivatásos gondnoki feladatokat vállaló személy képzését, illetve a hivatásos gondnok továbbképzését a gyámhatóság szervezi.
 

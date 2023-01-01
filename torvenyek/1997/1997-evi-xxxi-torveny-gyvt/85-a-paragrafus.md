@@ -1,0 +1,1 @@
+85/A. § A gyermekvédelmi gyám a gyermek érdekének érvényesítése és gyámi feladatai ellátása érdekében a miniszter által jóváhagyott, a minisztérium honlapján közzétett egységes elvek és módszertan (a továbbiakban: gyermekvédelmi gyámi módszertan) alkalmazásával jár el.

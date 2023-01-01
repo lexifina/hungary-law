@@ -1,6 +1,6 @@
 66. § (1) Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a gyermekvédelmi szakszolgáltatás
 
-a) 60. § (3) bekezdés a) pontjában meghatározott feladatait a megyei, fővárosi gyermekvédelmi szakértői bizottság útján,
+a) 60. § (3) bekezdés a) pontjában meghatározott feladatait a vármegyei, fővárosi gyermekvédelmi szakértői bizottság útján,
 
 b) a) pontban nem említett feladatait, gyermekvédő intézet vagy más szakszolgáltatást nyújtó intézmény (a továbbiakban együtt: területi gyermekvédelmi szakszolgálat) működtetésével
 

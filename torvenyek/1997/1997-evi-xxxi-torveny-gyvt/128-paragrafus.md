@@ -22,7 +22,7 @@ af) a b) pontban foglalt kivétellel a családi jogállással,
 
 b) a jogorvoslati kérelem kivételével az örökbefogadással, a származás megismerésével és a teljes hatályú apai elismeréssel,
 
-c) az eljárás megindítására irányuló kérelem, a jogorvoslati kérelem és a kapcsolattartás végrehajtása során a kapcsolattartás megvalósulására vonatkozó nyilatkozatok kivételével a kapcsolattartással
+c) az eljárás megindítására irányuló kérelem, a jogorvoslati kérelem kivételével a kapcsolattartással
 
 összefüggő gyámhatósági eljárásban.
 

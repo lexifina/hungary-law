@@ -16,7 +16,7 @@ ab) ha az aa) alpontban foglaltak alkalmazására nincs lehetőség,
 
 b) érdekében áll az anya letartóztatásának elrendelése esetén az anyával történő együttes elhelyezése, a letartóztatás elrendeléséről szóló határozat meghozatalakor a bíróság a gyermeket ideiglenesen, az anya fogvatartásának helye szerint a büntetés-végrehajtási intézet anya-gyermek részlegén vagy a javítóintézet fiatalkorú és gyermeke együttes elhelyezését biztosító részlegén helyezi el.
 
-(1a) A beutaló szerv a gyermek ideiglenes hatályú elhelyezéséről haladéktalanul értesíti a gyámhatóságot vagy külföldi állampolgárságú gyermek esetében – ide nem értve a 4. § (1) bekezdés b) pontja szerinti személyt – a Kormány által kijelölt gyámhatóságot.
+(1a) A beutaló szerv a gyermek ideiglenes hatályú elhelyezéséről haladéktalanul értesíti a család- és gyermekjóléti központot, a gyámhatóságot vagy külföldi állampolgárságú gyermek esetében – ide nem értve a 4. § (1) bekezdés b) pontja szerinti személyt – a Kormány által kijelölt gyámhatóságot.
 
 (2) Az ideiglenes hatályú elhelyezést megalapozó súlyos veszélyeztetettségnek minősül a gyermek olyan bántalmazása, elhanyagolása, amely életét közvetlen veszélynek teszi ki, vagy testi, értelmi, érzelmi vagy erkölcsi fejlődésében jelentős és helyrehozhatatlan károsodást okozhat.
 

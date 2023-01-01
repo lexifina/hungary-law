@@ -30,6 +30,8 @@ g) a fizetendő térítési, illetve gondozási díjról,
 
 h) a jogosult jogait és érdekeit képviselő érdekképviseleti fórumról.
 
+i) – ha a gyermeket nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezték el – a törvényes képviselet ellátásának módjáról, egyes gyámi feladatok ellátására a nevelőszülő kirendelésének lehetőségéről, az ítélőképessége birtokában lévő gyermek ezzel kapcsolatos véleménynyilvánítási lehetőségéről és panaszjoga gyakorlásáról.
+
 (3) Az ellátásra jogosult gyermek törvényes képviselője, illetve a fiatal felnőtt köteles
 
 a) a (2) bekezdésben meghatározott tájékoztatás megtörténtéről nyilatkozni, ha az ellátás igénybevételéről nem kötöttek megállapodást,

@@ -18,7 +18,7 @@ b) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságba
 
 (2) A gyámhatóság megállapítja a gyermek rendszeres gyermekvédelmi kedvezményre való jogosultságát, amennyiben a gyermeket gondozó családban az egy főre jutó havi jövedelem összege nem haladja meg
 
-a) az öregségi nyugdíj mindenkori legkisebb összegének (a továbbiakban: az öregségi nyugdíj legkisebb összege) a 145%-át, ha
+a) a szociális vetítési alap összegének a 180%-át, ha
 
 aa) a gyermeket egyedülálló szülő vagy más törvényes képviselő gondozza,
 
@@ -26,7 +26,7 @@ ab) a gyermek tartósan beteg, illetve súlyosan fogyatékos, vagy
 
 ac) a nagykorúvá vált gyermek megfelel a 20. § (2) bekezdésében foglalt feltételeknek;
 
-b) az öregségi nyugdíj legkisebb összegének 135%-át az a) pont alá nem tartozó esetben,
+b) a szociális vetítési alap összegének 165%-át az a) pont alá nem tartozó esetben,
 
 feltéve, hogy a vagyoni helyzet vizsgálata során az egy főre jutó vagyon értéke nem haladja meg külön-külön vagy együttesen a (7) bekezdésben meghatározott értéket.
 
@@ -52,9 +52,9 @@ f) az a)–e) pontokba nem tartozó, a Ptk. családjogra irányadó szabályai a
 
 (7) Vagyon alatt azt a hasznosítható ingatlant, járművet, továbbá vagyoni értékű jogot kell érteni, amelynek egy főre jutó értéke a gyermeket gondozó családban
 
-a) külön-külön számítva az öregségi nyugdíj legkisebb összegének húszszorosát, vagy
+a) külön-külön számítva a szociális vetítési alap összegének húszszorosát, vagy
 
-b) együtt számítva az öregségi nyugdíj legkisebb összegének hetvenszeresét
+b) együtt számítva a szociális vetítési alap összegének hetvenszeresét
 
 meghaladja, azzal, hogy nem minősül vagyonnak az az ingatlan, amelyben a szülő vagy a tartásra köteles más törvényes képviselő életvitelszerűen lakik, az a vagyoni értékű jog, amely az általuk lakott ingatlanon áll fenn, továbbá a mozgáskorlátozottságra vagy tartós betegségre tekintettel fenntartott gépjármű.
 

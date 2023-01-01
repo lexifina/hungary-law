@@ -10,4 +10,8 @@ a védelembe vétellel egyidejűleg vagy a gyermek védelembe vételének fenná
 
 (2) A családi pótlék természetbeni formában történő nyújtása legfeljebb hat hónap időtartamra, a döntést követő második hónap első napjával kezdődően rendelhető el. A családi pótlék természetbeni formában történő nyújtása a feltételek fennállása esetén ismételten elrendelhető.
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)

@@ -6,7 +6,7 @@ a) eljár a gyermek személyes okmányainak beszerzése érdekében, kéri a gye
 
 b) törvényes képviselőként nyilatkozatot tesz a gyermeken végzendő egészségügyi beavatkozásokhoz,
 
-c) eljár a gyermek iskolai beíratásával, tanulói jogviszonyának létesítésével, megszüntetésével, valamint egyéni munkarendjének engedélyezésével kapcsolatos ügyekben,
+c) eljár a gyermek bölcsődei, óvodai, iskolai beíratásával, tanulói jogviszonyának létesítésével, megszüntetésével, valamint egyéni munkarendjének engedélyezésével kapcsolatos ügyekben,
 
 d) kérelmezi a gyámhatóságnál a gyermek és szülei kapcsolattartásának szabályozását, módosítását, a gyermek örökbefogadhatóvá nyilvánítását, a gondozási hely megváltoztatását, a gondokság alá helyezés iránt eljárás megindítását, a nevelésbe vétel megszüntetését, ha azok feltételei fennállnak,
 
@@ -29,3 +29,9 @@ b) kérelemre, ha a különleges szakértelmet igénylő ügyekben a gyermekvéd
 (5) A gyámhatóság a (4) bekezdés a) pontjában meghatározott esetben elsősorban a területi gyermekvédelmi szakszolgálatnak ezzel a feladattal megbízott munkatársai közül jelöli ki az eseti gyámot.
 
 (6) A nevelési felügyelettel kapcsolatos eljárásban a gyermek képviselőjeként a gyámhatóság a gyermekjogi képviselőt rendeli ki. Ha a gyermekjogi képviselő kirendelése akadályokba ütközik, a nevelési felügyelettel kapcsolatos eljárásban a gyermeket a gyermekvédelmi gyám képviseli.
+
+(7) A gyermekvédelmi gyám hozzájárulhat a gyermek képmásának és hangfelvételének elkészítéséhez, valamint felhasználásához, ha
+
+a) az nem ellentétes a gyermek érdekével, és
+
+b) ahhoz az ítélőképességének birtokában lévő gyermek hozzájárult.

@@ -6,4 +6,4 @@
 
 (3a) Ha a nevelőszülő, a speciális nevelőszülő vagy a különleges nevelőszülő kettős szükségletű gyermek teljes körű ellátását biztosítja, a működtetőnek az (1) bekezdés szerinti létszámot minden kettős szükségletű gyermek teljes körű ellátása esetén egy fővel kell csökkentenie.
 
-(4) Indokolt esetben, így különösen testvérek együttes elhelyezésénél, a nevelőszülő kérelmére vagy beleegyezésével az (1)–(3a) bekezdésben meghatározott gyermeklétszámtól el lehet térni. Az eltérés feltétele ideiglenes hatállyal elhelyezett gyermek esetén a területi gyermekvédelmi szakszolgálat, nevelésbe vett gyermek esetén a gyermekvédelmi gyám hozzájárulása.
+(4) Indokolt esetben, így különösen testvérek együttes elhelyezésénél, a nevelőszülő kérelmére vagy beleegyezésével az (1)–(3a) bekezdésben meghatározott gyermeklétszámtól – a nevelőszülői foglalkoztatási jogviszony egyes kérdéseit szabályozó kormányrendeletben foglaltak szerint – el lehet térni. Az eltérés feltétele ideiglenes hatállyal elhelyezett gyermek esetén a területi gyermekvédelmi szakszolgálat, nevelésbe vett gyermek esetén a gyermekvédelmi gyám hozzájárulása.

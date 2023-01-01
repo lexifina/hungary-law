@@ -1,14 +1,14 @@
 ## A gyermekvédelmi szakértői bizottság
 
-82. § (1) A megyei, fővárosi gyermekvédelmi szakértői bizottságot a megyei, fővárosi területi gyermekvédelmi szakszolgálat működteti. Az országos gyermekvédelmi szakértői bizottság vezetőjét és tagjait a miniszter jelöli ki ötéves időtartamra. Az országos gyermekvédelmi szakértői bizottságot a Kormány rendeletében kijelölt szerv működteti.
+82. § (1) A vármegyei, fővárosi gyermekvédelmi szakértői bizottságot a vármegyei, fővárosi területi gyermekvédelmi szakszolgálat működteti. Az országos gyermekvédelmi szakértői bizottság vezetőjét és tagjait a miniszter jelöli ki ötéves időtartamra. Az országos gyermekvédelmi szakértői bizottságot a Kormány rendeletében kijelölt szerv működteti.
 
-(2) A megyei, fővárosi és az országos gyermekvédelmi szakértői bizottság a bizottság vezetőjéből és legalább három tagból, a speciális szükséglet felmerülése, vizsgálata esetén legalább öt tagból áll. A szakértői bizottság állandó tagja egy fő bizottságvezető, egy fő gyermekorvos, egy fő gyermek-szakpszichológus és egy fő, a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben a területi gyermekvédelmi szakszolgálatnál családgondozó munkakörben elfogadott szakképesítéssel rendelkező személy. A speciális szükséglet felmerülése, vizsgálata esetén a vezetőből és a három állandó tagból álló szakértői bizottság kiegészül egy fő pszichiáterrel és egy fő gyógypedagógussal. Az örökbefogadás előkészítése céljából az (5) bekezdés szerinti összefoglaló vélemény elkészítése esetén a vezetőből és a három állandó tagból álló szakértői bizottság szükség szerint kiegészül egy fő gyógypedagógussal. A gyermekvédelmi szakértői bizottság munkájába – felkérésre – bevonható a gyermek egészségi, mentális és általános személyiségállapota szerinti eseti szakértő is.
+(2) A vármegyei, fővárosi és az országos gyermekvédelmi szakértői bizottság a bizottság vezetőjéből és legalább három tagból, a speciális szükséglet felmerülése, vizsgálata esetén legalább öt tagból áll. A szakértői bizottság állandó tagja egy fő bizottságvezető, egy fő gyermekorvos, egy fő gyermek-szakpszichológus és egy fő, a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben a területi gyermekvédelmi szakszolgálatnál családgondozó munkakörben elfogadott szakképesítéssel rendelkező személy. A speciális szükséglet felmerülése, vizsgálata esetén a vezetőből és a három állandó tagból álló szakértői bizottság kiegészül egy fő pszichiáterrel és egy fő gyógypedagógussal. Az örökbefogadás előkészítése céljából az (5) bekezdés szerinti összefoglaló vélemény elkészítése esetén a vezetőből és a három állandó tagból álló szakértői bizottság szükség szerint kiegészül egy fő gyógypedagógussal. A gyermekvédelmi szakértői bizottság munkájába – felkérésre – bevonható a gyermek egészségi, mentális és általános személyiségállapota szerinti eseti szakértő is.
 
-(3) A megyei, fővárosi gyermekvédelmi szakértői bizottság a gyámhatóságnak, az országos gyermekvédelmi szakértői bizottság a miniszternek évente beszámol a tevékenységéről.
+(3) A vármegyei, fővárosi gyermekvédelmi szakértői bizottság a gyámhatóságnak, az országos gyermekvédelmi szakértői bizottság a miniszternek évente beszámol a tevékenységéről.
 
-(4) A megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleménye tartalmazza a gyermek állapotának megfelelő ellátási formára, az egyéni elhelyezési tervre és a gyermek gondozására, nevelésére, fejlesztésére, esetleges terápiájára vonatkozó javaslatot, annak indokolásával együtt.
+(4) A vármegyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleménye tartalmazza a gyermek állapotának megfelelő ellátási formára, az egyéni elhelyezési tervre és a gyermek gondozására, nevelésére, fejlesztésére, esetleges terápiájára vonatkozó javaslatot, annak indokolásával együtt.
 
-(5) A megyei, fővárosi gyermekvédelmi szakértői bizottság a gyermek örökbefogadásának előkészítése céljából
+(5) A vármegyei, fővárosi gyermekvédelmi szakértői bizottság a gyermek örökbefogadásának előkészítése céljából
 
 a) a gyámhatóságnak az örökbefogadhatóvá nyilvánítás iránti eljárás megindításáról szóló értesítésének kézhezvételétől,
 
@@ -16,13 +16,13 @@ b) az a) ponton kívüli okból örökbefogadható gyermek esetében a területi
 
 számított 30 napon belül összefoglaló véleményt készít a gyermek egészségi és személyiségállapotáról, az életkorához viszonyított értelmi, érzelmi és mozgásfejlettségi szintjéről.
 
-(6) A megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményének felülvizsgálatát, valamint szükség szerinti új szakmai vélemény készítését a gyámhatóság megkeresése alapján az országos gyermekvédelmi szakértői bizottság végzi.
+(6) A vármegyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményének felülvizsgálatát, valamint szükség szerinti új szakmai vélemény készítését a gyámhatóság megkeresése alapján az országos gyermekvédelmi szakértői bizottság végzi.
 
-(7) A megyei, fővárosi és az országos gyermekvédelmi szakértői bizottság a szakmai véleményének elkészítéséért díjazásban nem részesül.
+(7) A vármegyei, fővárosi és az országos gyermekvédelmi szakértői bizottság a szakmai véleményének elkészítéséért díjazásban nem részesül.
 
-(8) A megyei, fővárosi és az országos gyermekvédelmi szakértői bizottság pártatlanul és befolyásmentesen alakítja ki szakmai véleményét. A szakmai vélemény tartalma tekintetében a megyei, fővárosi és az országos gyermekvédelmi szakértői bizottság nem utasítható. Az adott ügyben nem lehet a szakértői bizottság tagja az a személy, akivel szemben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 23. § (1) és (2) bekezdése szerinti kizáró ok áll fenn.
+(8) A vármegyei, fővárosi és az országos gyermekvédelmi szakértői bizottság pártatlanul és befolyásmentesen alakítja ki szakmai véleményét. A szakmai vélemény tartalma tekintetében a vármegyei, fővárosi és az országos gyermekvédelmi szakértői bizottság nem utasítható. Az adott ügyben nem lehet a szakértői bizottság tagja az a személy, akivel szemben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 23. § (1) és (2) bekezdése szerinti kizáró ok áll fenn.
 
-(9) Ha a megyei, fővárosi vagy az országos gyermekvédelmi szakértői bizottság határidőn belül nem készíti el szakmai véleményét, a gyámhatóság megkeresi a szakértői bizottságot fenntartó szervet, hogy
+(9) Ha a vármegyei, fővárosi vagy az országos gyermekvédelmi szakértői bizottság határidőn belül nem készíti el szakmai véleményét, a gyámhatóság megkeresi a szakértői bizottságot fenntartó szervet, hogy
 
 a) vizsgálja ki a mulasztás okát, és
 

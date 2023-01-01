@@ -10,7 +10,7 @@ a) a fenntartó nevét, székhelyét, adószámát és típusát, valamint egyh�
 
 b) a fenntartó és a szolgáltató, intézmény, hálózat (székhely, telephely) telefonszámát, telefaxszámát, elektronikus levélcímét, honlapjának címét, valamint kapcsolattartójának nevét, beosztását, telefonszámát és elektronikus levélcímét,
 
-c) helyettes szülői és nevelőszülői ellátás esetén a helyettes szülőknek, nevelőszülőknek a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 4. § (4) bekezdése szerinti természetes személyazonosító adatait és társadalombiztosítási azonosító jelét, az ellátás helyét, az egyes helyettes szülőknél, nevelőszülőknél elhelyezhető gyermekek és fiatal felnőttek számát, valamint az arra vonatkozó adatot, hogy a nevelőszülő alkalmas-e különleges szükségletű, speciális szükségletű, kettős szükségletű vagy ideiglenes hatállyal elhelyezett gyermek fogadására, és
+c) helyettes szülői és nevelőszülői ellátás esetén a helyettes szülőknek, nevelőszülőknek a személyazonosító adatait és társadalombiztosítási azonosító jelét, az ellátás helyét, az egyes helyettes szülőknél, nevelőszülőknél elhelyezhető gyermekek és fiatal felnőttek számát, valamint az arra vonatkozó adatot, hogy a nevelőszülő alkalmas-e különleges szükségletű, speciális szükségletű, kettős szükségletű vagy ideiglenes hatállyal elhelyezett gyermek fogadására, és
 
 d) a szolgáltató, intézmény, hálózat (székhely, telephely) és az általa végzett gyermekjóléti és gyermekvédelmi szolgáltató tevékenység kormányrendeletben meghatározott adatait.
 
@@ -24,7 +24,7 @@ b) a (2) bekezdés a), c) és d) pontja szerinti adatokat a szolgáltatónak, in
 
 kell törölni.
 
-(5) A szolgáltatói nyilvántartás adatai – a (6) bekezdésben meghatározott adatok kivételével – nyilvánosak, és a történeti állományba tartozó adatok kivételével a Szociális Ágazati Portálon hozzáférhetők.
+(5) A szolgáltatói nyilvántartás adatai – a (6) bekezdés szerinti adatok kivételével – nyilvánosak, és a történeti állományba tartozó adatok kivételével a Szociális Ágazati Portálon hozzáférhetők.
 
 (6) A szolgáltatói nyilvántartás adatai közül nem nyilvános
 

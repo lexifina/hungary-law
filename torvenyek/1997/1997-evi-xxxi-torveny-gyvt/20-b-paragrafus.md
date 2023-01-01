@@ -2,7 +2,7 @@
 
 (2)
 
-(3) A kiegészítő pénzbeli ellátás havi összege – gyermekenként – az öregségi nyugdíj mindenkori legkisebb összegének 22 százaléka.
+(3) A kiegészítő pénzbeli ellátás havi összege – gyermekenként – a szociális vetítési alap összegének 22 százaléka.
 
 (4) A gyámhatóság annak a családbafogadó gyámként kirendelt hozzátartozónak, akinek kiegészítő pénzbeli ellátásra való jogosultsága
 

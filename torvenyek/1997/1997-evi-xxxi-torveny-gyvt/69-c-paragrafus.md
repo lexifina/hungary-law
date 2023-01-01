@@ -12,6 +12,6 @@ a) olyan szolgáltatásról szerez tudomást, amely engedély nélkül működik
 
 b) az örökbe fogadható gyermekek vagy a szolgáltatást igénybe vevő személyek súlyos jog- vagy érdeksérelmét észleli, a szolgáltatás végzését legfeljebb 60 napra felfüggeszti vagy a működési engedélyt visszavonja.
 
-(5) A szolgáltatást engedélyező szerv intézkedik a működési engedélyek kiadásának, visszavonásának, a szolgáltatás nyújtásától történő eltiltásnak, valamint a szolgáltatás végzése felfüggesztésének a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztérium hivatalos lapjában és a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztérium honlapján történő közhírré tételéről.
+(5) A szolgáltatást engedélyező szerv intézkedik a működési engedélyek kiadásának, visszavonásának, a szolgáltatás nyújtásától történő eltiltásnak, valamint a szolgáltatás végzése felfüggesztésének a Magyar Közlöny mellékletét képező Hivatalos Értesítőben és a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztérium honlapján történő közhírré tételéről.
 
 (6) A gyermek- és ifjúságpolitikáért felelős miniszter az (1) bekezdés szerinti működési engedéllyel rendelkező szervezet feladatainak ellátásához egyedi támogatást nyújt.
