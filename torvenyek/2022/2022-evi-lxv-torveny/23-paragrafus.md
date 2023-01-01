@@ -1,1 +1,1 @@
-23. § A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara mint kamarai meghatalmazott az agrártámogatások igénybevételével összefüggő elektronikus ügyintézés során technikai közreműködőként a kedvezményezett képviseletében eljárhat a jogszabályban meghatározott feltételekkel létrejött, képviseleti jogot létesítő jognyilatkozat alapján.
+### 23. §

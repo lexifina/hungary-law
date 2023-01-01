@@ -11,15 +11,3 @@ c) 30/A. §-ában a „ , valamint az ezek elmulasztása miatt kiszabott mulaszt
 d) 63. § (4) bekezdésében a „külön” szövegrész,
 
 e) 79/B. §-a.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke

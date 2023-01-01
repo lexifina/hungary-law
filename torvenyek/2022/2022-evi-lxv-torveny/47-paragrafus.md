@@ -1,3 +1,3 @@
-## 23. Eljárás költségei
+## 23.
 
-47. § Az e törvény hatálya alá tartozó eljárások tárgyi díj- és illetékmentesek.
+### 47. §
