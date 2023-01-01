@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-321-20-
 | 2020-02-15 | 2011-321-20-22.6 | 13/2020. (II. 7.) Korm. rendelet |
 | 2020-09-04 | 2011-321-20-22.7 | 421/2020. (IX. 3.) Korm. rendelet |
 | 2021-07-01 | 2011-321-20-22.8 | 375/2021. (VI. 30.) Korm. rendelet |
+| 2023-01-01 | 2011-321-20-22.9 | 70/2015. (III. 30.) Korm. rendelet |
