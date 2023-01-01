@@ -1,6 +1,6 @@
 2. melléklet a 25/2021. (VIII. 6.) BM rendelethez
 
-## A 2. § szerinti határátkelőhelyek vonatkozásában igénybe vehető oltópontok
+A 2. § szerinti határátkelőhelyek vonatkozásában igénybe vehető oltópontok
 
 1. Elsődlegesen igénybe vehető oltópontok
 

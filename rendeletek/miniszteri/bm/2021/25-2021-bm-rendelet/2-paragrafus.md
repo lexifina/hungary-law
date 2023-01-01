@@ -4,7 +4,7 @@ a) Barabás közúti határátkelőhely vagy
 
 b) Záhony vasúti határátkelőhely
 
-## vehető igénybe.
+vehető igénybe.
 
 (2) Az (1) bekezdés szerinti határátkelőhelyekhez tartozó oltópontokat a 2. melléklet tartalmazza.
 

@@ -2,7 +2,7 @@
 
 1. melléklet a 25/2021. (VIII. 6.) BM rendelethez
 
-## Az 1. § szerinti határátkelőhelyek vonatkozásában igénybe vehető oltópontok
+Az 1. § szerinti határátkelőhelyek vonatkozásában igénybe vehető oltópontok
 
 1. Bács-Kiskun Megyei Kórház a Szegedi Tudományegyetem Általános Orvostudományi Kar Oktató Kórháza; Kecskemét
 
@@ -34,7 +34,7 @@
 
 15. Szent Imre Egyetemi Oktatókórház; Budapest
 
-16. Magyar Honvédség Egészségügyi Központ; Budapest
+16.[^1] Észak-Pesti Centrum Kórház – Honvédkórház; Budapest
 
 17. Semmelweis Egyetem; Budapest
 
@@ -49,3 +49,5 @@
 22. Csolnoky Ferenc Kórház; Veszprém
 
 23. Zala Megyei Szent Rafael Kórház; Zalaegerszeg
+
+[^1]: Az 1. melléklet 16. pontja az 55/2022. (XII. 27.) BM rendelet 6. §-a szerint módosított szöveg.

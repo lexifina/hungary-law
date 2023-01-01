@@ -14,6 +14,6 @@ e) az Osztrák Köztársaság és
 
 f) a Szlovák Köztársaság
 
-## vonatkozásában az összes üzemelő közúti, autópálya és vasúti határátkelőhely igénybe vehető.
+vonatkozásában az összes üzemelő közúti, autópálya és vasúti határátkelőhely igénybe vehető.
 
 (2) Az (1) bekezdés szerinti határátkelőhelyekhez tartozó oltópontokat az 1. melléklet tartalmazza.
