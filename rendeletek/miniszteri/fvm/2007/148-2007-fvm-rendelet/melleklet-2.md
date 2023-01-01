@@ -122,7 +122,7 @@ Jóváhagyási kérelem adattartalma
 
 4.3.[^118] arról, hogy valamennyi állat-egészségügyi és nyilvántartásba vételi, nyilvántartás vezetési, továbbá adatszolgáltatási kötelezettségnek eleget tett;
 
-4.4.[^119] arról, hogy a mentesítési programok esetében az állatállományára a megyei kormányhivatal által jóváhagyott mentesítési programtól nem tér el;
+4.4.[^119] arról, hogy a mentesítési programok esetében az állatállományára a vármegyei kormányhivatal által jóváhagyott mentesítési programtól nem tér el;
 
 4.5. arról, hogy az állat-egészségügyi szolgáltatást az arra engedéllyel, illetve akkreditációval, valamint ügyfél-azonosítóval rendelkező személlyel, szervvel, illetve intézménnyel végezteti el;
 
@@ -147,7 +147,7 @@ b) a kérelmező az állategészségügyi szolgáltatást nem genetikailag módo
 [^116]: A 2. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés b) pontjável megállapított szöveg.
 [^117]: A 2. számú melléklet 1.4. pontja a 28/2021. (VIII. 18.) AM rendelet 7. §-a szerint módosított szöveg.
 [^118]: A 2. számú melléklet 4. pont 4.3. alpontja a 30/2018. (X. 11.) AM rendelet 2. § d) pontja szerint módosított szöveg.
-[^119]: A 2. számú melléklet 4.4. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja szerint módosított szöveg.
+[^119]: A 2. számú melléklet 4.4. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
 [^120]: A 2. melléklet 4. pont 4.7. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
 [^121]: A 2. melléklet 4. pont 4.8. alpontját újonnan a 159/2022. (XII. 27.) AM rendelet 7. § (2) bekezdése iktatta be.
 [^122]: A 2. melléklet 4. pont 4.9. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.

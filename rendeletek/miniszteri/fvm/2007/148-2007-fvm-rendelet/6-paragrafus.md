@@ -1,6 +1,6 @@
 ## Támogatási kérelem, kifizetés
 
-6. §[^49] (1)[^50] Az engedélyes a tárgyhónapban elvégzett szolgáltatásokról legkésőbb a tárgyhónapot követő hónap 20. napján kiállított számlák másolatát a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és honlapján közzétett, a 3. számú melléklet szerinti adattartalmú támogatási kérelméhez csatolva a tárgyhónapot követő hónap 20. napjáig postai úton megküldi a kedvezményezett telephelye szerint illetékes megyei kormányhivatalnak. A támogatási kérelemmel érintett állat-egészségügyi szolgáltatásra vonatkozó számlákat a baromfifélékre, az egyéb állatfajokra és a vemhes üszőre vonatkozóan külön kell kiállítani, és az azokra vonatkozó támogatási kérelmeket külön kell benyújtani.
+6. §[^49] (1)[^50] Az engedélyes a tárgyhónapban elvégzett szolgáltatásokról legkésőbb a tárgyhónapot követő hónap 20. napján kiállított számlák másolatát a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és honlapján közzétett, a 3. számú melléklet szerinti adattartalmú támogatási kérelméhez csatolva a tárgyhónapot követő hónap 20. napjáig postai úton megküldi a kedvezményezett telephelye szerint illetékes vármegyei kormányhivatalnak. A támogatási kérelemmel érintett állat-egészségügyi szolgáltatásra vonatkozó számlákat a baromfifélékre, az egyéb állatfajokra és a vemhes üszőre vonatkozóan külön kell kiállítani, és az azokra vonatkozó támogatási kérelmeket külön kell benyújtani.
 
 (1a)[^51] A C001 technikai kóddal jelölt, kapcsolódó állat-egészségügyi szolgáltatás igénybevétele esetén a szolgáltatás elvégzésének hónapja
 
@@ -32,7 +32,7 @@ d) vemhes üsző vonatkozásában a 7. számú melléklet szerinti adattartalmú
 
 (5)[^61] Külön támogatási kérelmen kell benyújtani a C001 technikai kóddal jelölt kapcsolódó állat-egészségügyi szolgáltatás és a C002 technikai kóddal jelölt antimikrobiális rezisztencia vizsgálat költségeinek elszámolását, amelyhez csatolni kell a vizsgálat elvégzéséről kiállított számlát is.
 
-(6)[^62] A megyei kormányhivatal megállapítja
+(6)[^62] A vármegyei kormányhivatal megállapítja
 
 a)[^63] a támogatásra való jogosultságot a 3. § (3a) bekezdésében, a 4. §-ban, az 5. § (5), (7)–(10) bekezdésében, és e § (1a), (3a)–(3c) és (4) bekezdésében meghatározott feltételek figyelembevételével, valamint,
 
@@ -40,11 +40,11 @@ b) a támogatási kérelem postai úton történő benyújtásának időpontját
 
 az a)–b) pontban foglaltakat az engedélyes támogatási kérelmén igazolja.
 
-(6a)[^64] Kizárólag a kedvezményezett telephelye szerint illetékes megyei kormányhivatal jogosult a (6) bekezdésben meghatározott feltételek igazolására. A megyei kormányhivatal az e rendeletben foglalt feltételek teljesítését nem igazolja, amennyiben az engedélyes a támogatási kérelmét határidőn túl vagy másolati példányban nyújtotta be, illetve azt nem írta alá.
+(6a)[^64] Kizárólag a kedvezményezett telephelye szerint illetékes vármegyei kormányhivatal jogosult a (6) bekezdésben meghatározott feltételek igazolására. A vármegyei kormányhivatal az e rendeletben foglalt feltételek teljesítését nem igazolja, amennyiben az engedélyes a támogatási kérelmét határidőn túl vagy másolati példányban nyújtotta be, illetve azt nem írta alá.
 
-(6b)[^65] A megyei kormányhivatal a 4. § (3a) bekezdése szerinti minta mintavételi költségeinek támogatására benyújtott igényt nem igazolja, és erről, valamint az engedélyes 4. § (3b) bekezdése szerinti kizárásáról értesíti a Kincstárt. A Kincstár a kizárással érintett engedélyes által benyújtott támogatási kérelmet elutasítja.
+(6b)[^65] A vármegyei kormányhivatal a 4. § (3a) bekezdése szerinti minta mintavételi költségeinek támogatására benyújtott igényt nem igazolja, és erről, valamint az engedélyes 4. § (3b) bekezdése szerinti kizárásáról értesíti a Kincstárt. A Kincstár a kizárással érintett engedélyes által benyújtott támogatási kérelmet elutasítja.
 
-(7)[^66] A megyei kormányhivatal a támogatási kérelmeket azok mellékleteivel, engedélyesenként elkülönítve folyamatosan a beérkezéstől számított 15 napon belül, megküldi a Kincstár részére.
+(7)[^66] A vármegyei kormányhivatal a támogatási kérelmeket azok mellékleteivel, engedélyesenként elkülönítve folyamatosan a beérkezéstől számított 15 napon belül, megküldi a Kincstár részére.
 
 (8)[^67] A Kincstár a támogatási kérelmeket a Kincstár részére történő benyújtásuk sorrendjében, a Tv. 56. § (2) bekezdés i) pontjában foglalt elutasítási ok figyelembevétele nélkül bírálja el, majd döntést hoz a támogatás összegéről és azt kedvezményezettenkénti részletezésben közli az engedélyessel. Hiányosan vagy hibásan benyújtott támogatási kérelmek esetén a benyújtási sorrendet a hiánypótlás, kiegészítés benyújtása határozza meg.
 
@@ -65,7 +65,7 @@ b) az állattartó, valamint az akvakultúra-ágazati vállalkozás nem minősü
 (13)[^72] A jóváhagyott támogatási összegről és a kifizetett támogatásról a Kincstár havonta tájékoztatást küld az agrárpolitikáért felelős miniszternek (a továbbiakban: miniszter) és ezekről az adatokról a NÉBIH elnökét is tájékoztatja.
 
 [^49]: A 6. § a 23/2011. (III. 28.) VM rendelet 4. §-ával megállapított szöveg.
-[^50]: A 6. § (1) bekezdése a 78/2016. (XII. 12.) FM rendelet 4. § (1) bekezdésével megállapított, a 13/2017. (III. 17.) FM rendelet 2. § a) pontja szerint módosított szöveg.
+[^50]: A 6. § (1) bekezdése a 78/2016. (XII. 12.) FM rendelet 4. § (1) bekezdésével megállapított, a 13/2017. (III. 17.) FM rendelet 2. § a) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
 [^51]: A 6. § (1a) bekezdése a 78/2016. (XII. 12.) FM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^52]: A 6. § (1b) bekezdését a 77/2012. (VII. 27.) VM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 24/2014. (XI. 6.) FM rendelet 11. § a) pontja.
 [^53]: A 6. § (1c) bekezdését a 139/2012. (XII. 22.) VM rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 24/2014. (XI. 6.) FM rendelet 11. § a) pontja.
@@ -77,11 +77,11 @@ b) az állattartó, valamint az akvakultúra-ágazati vállalkozás nem minősü
 [^59]: A 6. § (3c) bekezdését a 65/2016. (IX. 21.) FM rendelet 2. § (2) bekezdése iktatta be, szövege a 78/2016. (XII. 12.) FM rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^60]: A 6. § (4) bekezdése a 24/2014. (XI. 6.) FM rendelet 4. § (2) bekezdésével megállapított, a 32/2014. (XII. 9.) FM rendelet 6. § b) pontja, a 78/2016. (XII. 12.) FM rendelet 8. § e) pontja szerint módosított szöveg.
 [^61]: A 6. § (5) bekezdését a 40/2015. (VII. 13.) FM rendelet 2. § (12) bekezdése hatályon kívül helyezte, újonnan a 159/2022. (XII. 27.) AM rendelet 4. § (1) bekezdése iktatta be.
-[^62]: A 6. § (6) bekezdése a 40/2015. (VII. 13.) FM rendelet 2. § (5) bekezdésével megállapított, nyitó szövegrésze a 13/2017. (III. 17.) FM rendelet 2. § b) pontja szerint módosított szöveg.
+[^62]: A 6. § (6) bekezdése a 40/2015. (VII. 13.) FM rendelet 2. § (5) bekezdésével megállapított, nyitó szövegrésze a 13/2017. (III. 17.) FM rendelet 2. § b) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
 [^63]: A 6. § (6) bekezdés a) pontja a 78/2016. (XII. 12.) FM rendelet 8. § h) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § e) pontja szerint módosított szöveg.
-[^64]: A 6. § (6a) bekezdését a 24/2014. (XI. 6.) FM rendelet 4. § (3) bekezdése iktatta be, szövege a 40/2015. (VII. 13.) FM rendelet 2. § (5) bekezdésével megállapított, a 13/2017. (III. 17.) FM rendelet 2. § b) pontja szerint módosított szöveg.
-[^65]: A 6. § (6b) bekezdését a 159/2022. (XII. 27.) AM rendelet 4. § (2) bekezdése iktatta be.
-[^66]: A 6. § (7) bekezdése a 40/2015. (VII. 13.) FM rendelet 2. § (5) bekezdésével megállapított, szövege a 78/2016. (XII. 12.) FM rendelet 8. § i) pontja, a 13/2017. (III. 17.) FM rendelet 2. § b) pontja, a 159/2022. (XII. 27.) AM rendelet 9. §-a szerint módosított szöveg.
+[^64]: A 6. § (6a) bekezdését a 24/2014. (XI. 6.) FM rendelet 4. § (3) bekezdése iktatta be, szövege a 40/2015. (VII. 13.) FM rendelet 2. § (5) bekezdésével megállapított, a 13/2017. (III. 17.) FM rendelet 2. § b) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § c) pontja szerint módosított szöveg.
+[^65]: A 6. § (6b) bekezdését a 159/2022. (XII. 27.) AM rendelet 4. § (2) bekezdése iktatta be, szövege a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
+[^66]: A 6. § (7) bekezdése a 40/2015. (VII. 13.) FM rendelet 2. § (5) bekezdésével megállapított, szövege a 78/2016. (XII. 12.) FM rendelet 8. § i) pontja, a 13/2017. (III. 17.) FM rendelet 2. § b) pontja, a 159/2022. (XII. 27.) AM rendelet 9. §-a és 8. § d) pontja szerint módosított szöveg.
 [^67]: A 6. § (8) bekezdése a 78/2016. (XII. 12.) FM rendelet 8. § f) és i) pontja szerint módosított szöveg.
 [^68]: A 6. § (9) bekezdése a 4/2016. (I. 20.) FM rendelet 3. §-ával megállapított, szövege a 78/2016. (XII. 12.) FM rendelet 8. § f) pontja szerint módosított szöveg.
 [^69]: A 6. § (10) bekezdése a 24/2014. (XI. 6.) FM rendelet 4. § (5) bekezdésével megállapított, a 78/2016. (XII. 12.) FM rendelet 8. § e) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 (2)[^34] Az (1) bekezdés szerinti jóváhagyásra az az állattartó, valamint az akvakultúra-ágazati vállalkozás jogosult, aki/amely:
 
-a)[^35] rendelkezik működési engedéllyel, vagy a telephelye szerint illetékes megyei kormányhivatal által a tevékenység végzéséhez adott szakhatósági hozzájárulással, illetve nyilvántartásba vételi igazolással;
+a)[^35] rendelkezik működési engedéllyel, vagy a telephelye szerint illetékes vármegyei kormányhivatal által a tevékenység végzéséhez adott szakhatósági hozzájárulással, illetve nyilvántartásba vételi igazolással;
 
 b)[^36] tevékenysége során teljesíti a hazai és közösségi állat-egészségügyi és állatjóléti jogszabályok által előírt feltételeket; továbbá
 
@@ -12,7 +12,7 @@ c) nyilatkozik arra vonatkozóan, hogy
 
 ca)[^37] valamennyi állat-egészségügyi és nyilvántartásba vételi, nyilvántartás vezetési, továbbá adatszolgáltatási kötelezettségének eleget tett,
 
-cb)[^38] mentesítési programok esetében nem tér el az állatállományára a megyei kormányhivatal által jóváhagyott mentesítési programtól,
+cb)[^38] mentesítési programok esetében nem tér el az állatállományára a vármegyei kormányhivatal által jóváhagyott mentesítési programtól,
 
 cc)[^39] az állat-egészségügyi szolgáltatást arra engedéllyel, illetve akkreditációval, valamint ügyfél-azonosítóval rendelkező személlyel, szervvel, illetve intézménnyel végezteti el,
 
@@ -71,10 +71,10 @@ a támogatott kezelésben alkalmazott, az engedélyes által kiállított állat
 [^32]: Az 5. § a 23/2011. (III. 28.) VM rendelet 3. §-ával megállapított szöveg.
 [^33]: Az 5. § (1) bekezdése a 77/2012. (VII. 27.) VM rendelet 5. §-a, a 40/2015. (VII. 13.) FM rendelet 2. § (11) bekezdés c) pontja, a 4/2016. (I. 20.) FM rendelet 8. § a) pontja, a 6/2017. (II. 13.) FM rendelet 8. § c) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 84. § a) pontjával elrendelt módosítás, amely szerint a „Mezőgazdasági Szakigazgatási Hivatal” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal” (a továbbiakban: NÉBIH)” szöveg lép, nem vezethető át.]
 [^34]: Az 5. § (2) bekezdés nyitó szövegrésze a 4/2016. (I. 20.) FM rendelet 8. § b) pontja szerint módosított szöveg.
-[^35]: Az 5. § (2) bekezdés a) pontja a 40/2015. (VII. 13.) FM rendelet 2. § (11) bekezdés d) pontja szerint módosított szöveg.
+[^35]: Az 5. § (2) bekezdés a) pontja a 40/2015. (VII. 13.) FM rendelet 2. § (11) bekezdés d) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
 [^36]: Az 5. § (2) bekezdés b) pontja a 30/2018. (X. 11.) AM rendelet 3. § a) pontja szerint módosított szöveg.
 [^37]: Az 5. § (2) bekezdés c) pont ca) alpontja a 30/2018. (X. 11.) AM rendelet 2. § a) pontja szerint módosított szöveg.
-[^38]: Az 5. § (2) bekezdés c) pont cb) alpontja a 40/2015. (VII. 13.) FM rendelet 2. § (11) bekezdés b) pontja szerint módosított szöveg.
+[^38]: Az 5. § (2) bekezdés c) pont cb) alpontja a 40/2015. (VII. 13.) FM rendelet 2. § (11) bekezdés b) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
 [^39]: Az 5. § (2) bekezdés c) pont cc) alpontja a 33/2014. (IV. 4.) VM rendelet 27. § a) pontja szerint módosított szöveg.
 [^40]: Az 5. § (2) bekezdés d) pontja a 33/2014. (IV. 4.) VM rendelet 27. § b) pontja, a 78/2016. (XII. 12.) FM rendelet 8. § d) pontja szerint módosított szöveg.
 [^41]: Az 5. § (3) bekezdése a 6/2017. (II. 13.) FM rendelet 8. § d) pontja szerint módosított szöveg.

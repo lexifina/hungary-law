@@ -44,9 +44,9 @@
 
 ## 7.5.[^132] Vemhes üsző esetén C001 technikai kód alapján történő igényléskor a szolgáltató állatorvos által kiállított igazolás eredeti példánya.
 
-## 8.[^133] A megyei kormányhivatal igazolása a támogatási kérelemben megjelölt engedélyes és kedvezményezett(ek) által az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján meghatározott feltételek teljesítéséről és a támogatási kérelem postai úton történő beküldésének időpontjáról.
+## 8.[^133] A vármegyei kormányhivatal igazolása a támogatási kérelemben megjelölt engedélyes és kedvezményezett(ek) által az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján meghatározott feltételek teljesítéséről és a támogatási kérelem postai úton történő beküldésének időpontjáról.
 
-## 9.[^134] Keltezés, a kedvezményezett telephelye szerint illetékes megyei kormányhivatal főállatorvosának (cégszerű) aláírása.
+## 9.[^134] Keltezés, a kedvezményezett telephelye szerint illetékes vármegyei kormányhivatal főállatorvosának (cégszerű) aláírása.
 
 4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^135]
 
@@ -82,8 +82,8 @@ Nyilatkozat az egyes állatbetegségek megelőzésével, illetve leküzdésével
 [^130]: A 3. számú melléklet 7.3. pontja a 78/2016. (XII. 12.) FM rendelet 8. § i) pontja szerint módosított szöveg.
 [^131]: A 3. számú melléklet 7. pont 7.4. alpontját az 51/2016. (VII. 21.) FM rendelet 3. § (2) bekezdése iktatta be.
 [^132]: A 3. számú melléklet 7.5. pontját a 78/2016. (XII. 12.) FM rendelet 7. § (1) bekezdése iktatta be.
-[^133]: A 3. számú melléklet 8. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja szerint módosított szöveg.
-[^134]: A 3. számú melléklet 9. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja szerint módosított szöveg.
+[^133]: A 3. számú melléklet 8. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
+[^134]: A 3. számú melléklet 9. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
 [^135]: A 4. számú melléklet a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés d) pontjával megállapított szöveg.
 [^136]: A 4. számú melléklet 5. pont 5.3. alpontja az 51/2016. (VII. 21.) FM rendelet 4. § a) pontja szerint módosított szöveg.
 [^137]: A 4. melléklet 5. pont 5.4. alpontját a 159/2022. (XII. 27.) AM rendelet 7. § (3) bekezdése iktatta be.
