@@ -6,7 +6,7 @@ a) nyomtatott kiadványok esetében
 
 aa) az Országos Széchényi Könyvtár (a továbbiakban: OSZK),
 
-ab) a kiadó székhelye szerint illetékes megyei hatókörű városi könyvtár,
+ab)[^2] a kiadó székhelye szerint illetékes vármegyei hatókörű városi könyvtár,
 
 ac) budapesti székhelyű kiadó esetén a Fővárosi Szabó Ervin Könyvtár (a továbbiakban: FSZEK),
 
@@ -23,3 +23,5 @@ f) a szabványok esetében a Magyar Szabványügyi Testület (a továbbiakban: M
 g) a szabadalmi leírás esetében a Szellemi Tulajdon Nemzeti Hivatala (a továbbiakban: SZTNH).
 
 (2) E rendeletben meghatározott jogokkal és kötelezettségekkel összefüggő feladatokat az NFI a Magyar Nemzeti Filmarchívum útján látja el.
+
+[^2]: A 3. § (1) bekezdés a) pont ab) alpontja a 616/2022. (XII. 29.) Korm. rendelet 312. § b) pontja szerint módosított szöveg.

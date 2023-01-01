@@ -24,7 +24,7 @@ bb) két darab kutatásra alkalmas megtekintő,
 
 bc) celluloidalapú végtermék esetén egy darab végleges és hibátlan állapotú, az eredeti negatívról készített pozitív
 
-## kópiát,
+kópiát,
 
 c) a plakát, filmszínházi plakát és műsorfüzet két nyomtatott és a nyomdai változattal megegyező egy elektronikus példányát,
 
