@@ -6,7 +6,7 @@ b) 3. §-ával megállapított 6. § (1) bekezdését,
 
 c) 5. §-ával megállapított 11. §-át,
 
-## az Mr. hatálybalépésekor[^113] folyamatban lévő ügyekben, és a megismételt eljárásokban is alkalmazni kell.
+az Mr. hatálybalépésekor[^113] folyamatban lévő ügyekben, és a megismételt eljárásokban is alkalmazni kell.
 
 (2) E rendeletnek az Mr. 6. §-ával megállapított 13. §-át az Mr. hatályba lépését[^114] követően indult eljárásokban kell alkalmazni.
 

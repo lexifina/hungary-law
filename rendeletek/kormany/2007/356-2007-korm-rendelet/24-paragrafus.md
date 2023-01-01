@@ -26,7 +26,10 @@ c) 14. § (5) bekezdését,
 
 d) 14/B. §-át
 
+az Mr.4. hatálybalépését[^122] követően indult eljárásokban kell alkalmazni.
+
 [^118]: A 23. §-t az 504/2013. (XII. 29.) Korm. rendelet 3. § (2) bekezdése iktatta be.
 [^119]: A hatálybalépés napja: 2014. január 2.
 [^120]: A 24. §-t a 45/2016. (III. 10.) Korm. rendelet 15. §-a iktatta be.
 [^121]: A hatálybalépés időpontja 2016. március 11.
+[^122]: A hatálybalépés időpontja 2016. március 11.
