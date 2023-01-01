@@ -8,7 +8,7 @@ A szakértői szakterületek és szakirányok
 
 1.2. intézménytípus szakirány,
 
-1.3. térségi (települési önkormányzatok köznevelési célú feladatok ellátására szerveződött társulásai, megyei, regionális) tervezés, fejlesztés szakirány,
+1.3.[^10] térségi (települési önkormányzatok köznevelési célú feladatok ellátására szerveződött társulásai, vármegyei, regionális) tervezés, fejlesztés szakirány,
 
 2. szervezet- és minőségfejlesztés szakterület,
 
@@ -65,3 +65,5 @@ A szakértői szakterületek és szakirányok
 10. iskolai könyvtár szakterület,
 
 11. pedagógiai-szakmai ellenőrzés és pedagógusminősítés szakterület.
+
+[^10]: Az 1. melléklet 1. pont 1.3. alpontja a 45/2022. (XII. 20.) BM rendelet 81. §-a szerint módosított szöveg.

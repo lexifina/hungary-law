@@ -1,6 +1,6 @@
 ## 2. Az Országos szakértői névjegyzék
 
-3. § (1)[^1] A Hivatal a Szolg. tv. 23. § (1) bekezdésében meghatározott eljárás lefolytatása után a jogszabályban előírt feltételeknek megfelelő, bejelentést tevő köznevelési szakértőkről (a továbbiakban: szakértő), valamint az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény alapján lefolytatott engedélyezési eljárás után a jogszabályban előírt feltételeknek megfelelő, engedéllyel rendelkező szakértőkről Országos szakértői névjegyzéket (a továbbiakban: szakértői névjegyzék) vezet szakterületenkénti csoportosításban, szakirány megjelölésével.
+3. § (1)[^3] A Hivatal a Szolg. tv. 23. § (1) bekezdésében meghatározott eljárás lefolytatása után a jogszabályban előírt feltételeknek megfelelő, bejelentést tevő köznevelési szakértőkről (a továbbiakban: szakértő), valamint az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény alapján lefolytatott engedélyezési eljárás után a jogszabályban előírt feltételeknek megfelelő, engedéllyel rendelkező szakértőkről Országos szakértői névjegyzéket (a továbbiakban: szakértői névjegyzék) vezet szakterületenkénti csoportosításban, szakirány megjelölésével.
 
 (2) A szakértői szakterületeket és szakirányokat az 1. melléklet tartalmazza.
 
@@ -12,4 +12,4 @@
 
 (6) Az, aki a szakértői névjegyzékben szerepel, kérheti a nyilvántartásban szereplő szakterület, szakirány módosítását, kiegészítését. A módosításra, kiegészítésre a nyilvántartásba vételre vonatkozó rendelkezéseket kell alkalmazni.
 
-[^1]: A 3. § (1) bekezdése a 12/2018. (III. 27.) EMMI rendelet 7. §-a szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdése a 12/2018. (III. 27.) EMMI rendelet 7. §-a szerint módosított szöveg.

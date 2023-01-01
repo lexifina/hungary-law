@@ -6,7 +6,7 @@
 
 | 1 | A szakértői szakterületek, szakirányok új megnevezése | A szakértői szakterületek, szakirányok régi megnevezése |
 
-| 2 | 1.3. térségi (települési önkormányzatok köznevelési célú feladatok ellátására szerveződött társulásai, megyei, regionális) tervezés, fejlesztés szakirány | ac) térségi (kistérségi, megyei, regionális) tervezés, fejlesztés |
+| 2 | 1.3. térségi (települési önkormányzatok köznevelési célú feladatok ellátására szerveződött társulásai, vármegyei, regionális) tervezés, fejlesztés szakirány[^11] | ac) térségi (kistérségi, vármegyei, regionális) tervezés, fejlesztés [^12] |
 
 | 3 | 3. pedagógiai értékelés szakterület | c) pedagógiai értékelés (szakmai gyakorlaton, végzettségen, szakképzettségen alapuló szakirány) |
 
@@ -21,3 +21,6 @@
 | 8 | 8.4. sajátos nevelési igényű gyermek óvodai nevelése, a sajátos nevelési igényű tanuló iskolai nevelése és oktatása, valamint integrált nevelés és oktatás szakirány | hd) SNI gyermek óvodai nevelése, az ilyen tanuló iskolai nevelése és oktatása, valamint integrált nevelés és oktatás szakirány |
 
 | 9 | 9. köznevelési fejlesztési támogatások szakterület | j) közoktatás fejlesztési támogatások |
+
+[^11]: A 4. mellékletben foglalt táblázat A:2 mezője a 45/2022. (XII. 20.) BM rendelet 81. §-a szerint módosított szöveg.
+[^12]: A 4. mellékletben foglalt táblázat B:2 mezője a 45/2022. (XII. 20.) BM rendelet 81. §-a szerint módosított szöveg.

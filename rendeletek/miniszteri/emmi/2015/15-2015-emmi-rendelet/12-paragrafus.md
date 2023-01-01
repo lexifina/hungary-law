@@ -1,4 +1,4 @@
-## 11. §[^6] Ez a rendelet 2015. március 31-én lép hatályba.
+## 11. §[^8] Ez a rendelet 2015. március 31-én lép hatályba.
 
 12. § (1) E rendelet rendelkezéseit a szakmai szakértői szakterületre benyújtott bejelentések és kérelmek esetében a folyamatban lévő eljárásokban úgy kell alkalmazni, hogy az e rendelet hatálybalépésekor le nem zárt eljárást meg kell szüntetni és a megfizetett díjat a kérelmezőnek vissza kell téríteni.
 
@@ -10,4 +10,4 @@
 
 (5) A Hivatal a 4. mellékletnek megfelelően a szakterületek, szakirányok megnevezését hivatalból átvezeti a nyilvántartásban.
 
-[^6]: A 11. § a 18/2015. (III. 31.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^8]: A 11. § a 18/2015. (III. 31.) EMMI rendelet 1. §-ával megállapított szöveg.
