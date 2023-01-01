@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-509-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-01-01 | 2017-509-20-22.1 | 509/2017. (XII. 29.) Korm. rendelet |
+| 2023-01-01 | 2017-509-20-22.2 | 616/2022. (XII. 29.) Korm. rendelet |
