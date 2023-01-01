@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-492-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2018-01-01 | 2017-492-20-22.1 | 492/2017. (XII. 29.) Korm. rendelet |
+| 2023-01-01 | 2017-492-20-22.2 | 569/2022. (XII. 23.) Korm. rendelet |

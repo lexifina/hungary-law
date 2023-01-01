@@ -1,10 +1,10 @@
-2. melléklet a 492/2017. (XII. 29.) Korm. rendelethez
+2. melléklet a 492/2017. (XII. 29.) Korm. rendelethez[^3]
 
 Szám: .................
 
 Kijelölési okirat
 
-Az egyes műszaki termékek tűzvédelmi megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló 26/2004. (VI. 11.) BM rendelet alapján megállapítom, hogy a .......................................................................................... (szervezet megnevezése) ............................................................................................................................ (szervezet székhelye) megfelel a hivatkozott jogszabályban előírt feltételeknek, ezért írásban előterjesztett kérelme alapján kijelölöm a következő tevékenységek elvégzésére:
+Az egyes műszaki termékek tűzvédelmi megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló 492/2017. (XII. 29.) Korm. rendelet alapján megállapítom, hogy a .......................................................................................... (szervezet megnevezése) ............................................................................................................................ (szervezet székhelye) megfelel a hivatkozott jogszabályban előírt feltételeknek, ezért írásban előterjesztett kérelme alapján kijelölöm a következő tevékenységek elvégzésére:
 
 szakterület:
 
@@ -19,3 +19,5 @@ Budapest, 20......... év ..................... hó ......... nap
 .............................................................
 
 belügyminiszter
+
+[^3]: A 2. melléklet az 569/2022. (XII. 23.) Korm. rendelet 37. §-a szerint módosított szöveg.

@@ -8,4 +8,6 @@ c) az Msztv. 6. § (3) bekezdésében, a Kr. 11. és 12. §-ában foglaltakat,
 
 d) a külön jogszabályban meghatározott igazgatási szolgáltatási díj megfizetését,
 
-e) a belügyminiszter rendeletében meghatározott feltételek teljesülését.
+e)[^2]
+
+[^2]: A 4. § e) pontját az 569/2022. (XII. 23.) Korm. rendelet 38. §-a hatályon kívül helyezte.

@@ -2,7 +2,7 @@
 
 1. melléklet a 492/2017. (XII. 29.) Korm. rendelethez
 
-## Tűzoltó-technikai termékek és tűz- vagy robbanásveszélyes készülék, gép, berendezés megfelelőségét vizsgáló, ellenőrző, tanúsító szervezetként való kijelölési kérelem adattartalma
+Tűzoltó-technikai termékek és tűz- vagy robbanásveszélyes készülék, gép, berendezés megfelelőségét vizsgáló, ellenőrző, tanúsító szervezetként való kijelölési kérelem adattartalma
 
 1. A kijelölést kérelmező szervezet adatai.
 
