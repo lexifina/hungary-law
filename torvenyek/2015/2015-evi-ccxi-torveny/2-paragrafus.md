@@ -78,7 +78,7 @@ h) az (1) bekezdés a) pont aa) alpontja szerinti egylakásos ingatlanok esetéb
 
 (10) A kéményseprő-ipari szolgáltató a kéményseprő-ipari tevékenység megkezdése előtt köteles a tevékenység folytatására irányuló szándékát a székhelye szerint illetékes tűzvédelmi hatóságnak jogszabályban meghatározott módon bejelenteni.
 
-(11) A kéményseprő-ipari szerv látja el a kéményseprő-ipari tevékenységet megrendelés alapján költségtérítés ellenében az (1) bekezdés b) pontja alá tartozó ingatlanok esetében is, ha a megyei ellátási területen nem működik kéményseprő-ipari szolgáltató.
+(11) A kéményseprő-ipari szerv látja el a kéményseprő-ipari tevékenységet megrendelés alapján költségtérítés ellenében az (1) bekezdés b) pontja alá tartozó ingatlanok esetében is, ha a vármegyei ellátási területen nem működik kéményseprő-ipari szolgáltató.
 
 (12) A társasházi és lakásszövetkezeti lakóépületben lévő ingatlanok (6) bekezdés szerinti tulajdoni viszonyairól a tárgyév január elsejei állapot szerint a kéményseprő-ipari szerv, a 10. § (3) bekezdés szerinti szolgáltató felhívására a társasház közös képviselője, valamint a lakásszövetkezet elnöke nyilatkozik.
 

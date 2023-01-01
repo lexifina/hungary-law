@@ -26,7 +26,7 @@ d) a társasház közös képviselőjétől, lakásszövetkezeti lakóépület e
 
 igényelni, továbbá kezelni.
 
-(2) Az (1) bekezdés d) pontja szerinti, az ingatlan-nyilvántartásból történő adatigénylés a tulajdonosi adatokkal kiegészített földkönyvre és földkönyvi kivonatra, valamint a tulajdoni lapról elektronikus dokumentumként szolgáltatott hiteles vagy nem hiteles tulajdonilap-másolatra terjed ki.
+(2) Az (1) bekezdés d) pontja szerinti, az ingatlan-nyilvántartásból történő adatigénylés a tulajdonosi adatokkal kiegészített földkönyvre és földkönyvi kivonatra, valamint a tulajdoni lapról elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolatra terjed ki.
 
 (3) A kéményseprő-ipari szerv és a kéményseprő-ipari szolgáltató az égéstermék-elvezetők és a csatlakoztatott tüzelőberendezések kéményseprő-ipari tevékenység elvégzéséhez szükséges műszaki adatairól vezetett nyilvántartásban az ingatlan használójától és tulajdonosától, a tűzvédelmi hatóságtól, vezetékes gázzal üzemelő tüzelőberendezések esetében a földgázelosztótól vagy a műszaki biztonsági hatósági feladatot ellátó szervtől, valamint a tevékenysége ellátása során szerzett, a tevékenységéhez kapcsolódó műszaki adatokat kezeli.
 
