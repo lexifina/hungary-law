@@ -1,8 +1,8 @@
 4. számú melléklet a 19/2005. (III. 22.) FVM rendelethez
 
-## Az állategészségügyi bizonyítvány kiállítására vonatkozó általános követelmények
+Az állategészségügyi bizonyítvány kiállítására vonatkozó általános követelmények
 
-1.[^7] Az állati eredetű termékek szállítmányát kísérő állategészségügyi bizonyítványt kibocsátó megyei kormányhivatal képviselője köteles aláírni a bizonyítványt, és biztosítani, hogy azon a hatósági bélyegző is rajta legyen. Ez a követelmény – ha a bizonyítvány egy lapnál többől áll – a bizonyítvány minden egyes lapjára vonatkozik.
+1.[^12] Az állati eredetű termékek szállítmányát kísérő állategészségügyi bizonyítványt kibocsátó vármegyei kormányhivatal képviselője köteles aláírni a bizonyítványt, és biztosítani, hogy azon a hatósági bélyegző is rajta legyen. Ez a követelmény – ha a bizonyítvány egy lapnál többől áll – a bizonyítvány minden egyes lapjára vonatkozik.
 
 2. Az állategészségügyi bizonyítványokat a rendeltetési tagállam hivatalos nyelvén, illetve nyelvein, valamint annak a tagállamnak a hivatalos nyelvén, illetve nyelvein kell kiállítani, amelyben az állategészségügyi határellenőrzés megtörténik. Az állategészségügyi bizonyítvány nem ezen nyelven, illetve nyelveken történő kiállítása esetén a bizonyítványhoz csatolni kell az ezen nyelven, illetve nyelveken készített hitelesített fordítását.
 
@@ -20,4 +20,4 @@ c) oly módon számozott lapsorozat, amelyen jelölik, hogy az egy véges soroza
 
 6. A bizonyítványt azelőtt kell kibocsátani, mielőtt a szállítmány, amelyre vonatkozik, kikerül a küldő ország eljáró hatóságának ellenőrzése alól.
 
-[^7]: A 4. számú melléklet 1. pontja a 42/2017. (VIII. 17.) FM rendelet 74. § d) pontja szerint módosított szöveg.
+[^12]: A 4. számú melléklet 1. pontja a 42/2017. (VIII. 17.) FM rendelet 74. § d) pontja, a 90/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

@@ -6,4 +6,6 @@ a) a termékek megfelelnek az ilyen termékek Közösségben történő előáll
 
 b) az a) pont szerinti követelményekkel egyenértékű állategészségügyi biztosítékok állnak rendelkezésre,
 
-c) a termékek az 1999/468/EK határozat 5. és 7. cikke szerinti eljárás alapján meghatározott jegyzéken szereplő harmadik országokból vagy harmadik országok régióiból származnak.
+c)[^8] a termékek a 182/2011/EU európai parlamenti és tanácsi rendelet 5. és 10. cikke szerinti eljárás alapján meghatározott jegyzéken szereplő harmadik országokból vagy harmadik országok régióiból származnak.
+
+[^8]: A 6. § c) pontja a 90/2022. (XII. 27.) AM rendelet 1. § d) pontja szerint módosított szöveg.

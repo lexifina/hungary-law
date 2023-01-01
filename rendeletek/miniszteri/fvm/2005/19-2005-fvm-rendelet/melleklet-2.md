@@ -14,4 +14,8 @@
 
 | Tenyésztett víziállatok betegségei | 40/2002. (V. 14.) FVM rendelet a halászati termékek termelésének és forgalomba hozatalának élelmiszer-higiéniai feltételeiről 68/2002. (VIII. 15.) FVM rendelet az édesvízi halak fertőző betegségei elleni védekezésről és a fertőző betegségektől mentes halgazdaságok létrehozásáról 14/2004. (II. 6.) FVM rendelet az egyes tengeri puhatestű állatokat érintő egyes betegségek elleni védekezésről |
 
-2. számú melléklet a 19/2005. (III. 22.) FVM rendelethez
+2. számú melléklet a 19/2005. (III. 22.) FVM rendelethez[^10]
+
+A hússal és tejjel kapcsolatos bizonyos állategészségügyi veszélyek megszüntetésére szolgáló kezelések
+
+[^10]: A 2. számú melléklet a 90/2022. (XII. 27.) AM rendelet 1. § d) pontja szerint módosított szöveg.
