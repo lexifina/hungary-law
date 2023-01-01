@@ -1,0 +1,1 @@
+1. § A légszennyezettségi agglomerációk és zónák kijelöléséről szóló 4/2002. (X. 7.) KvVM rendelet 2. mellékletében foglalt táblázat fejlécének 2. mezőjében a „Megye” szövegrész helyébe a „Vármegye” szöveg lép.
