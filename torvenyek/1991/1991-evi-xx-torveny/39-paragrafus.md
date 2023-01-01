@@ -4,4 +4,4 @@ a) az újrahasznosításra alkalmassá tett állami tulajdonban lévő földnek 
 
 b)
 
-(2) A helyi önkormányzat képviselőtestülete hatáskörébe tartozik a települési, megyei, fővárosi térképészeti határkiigazítás véleményezése, valamint a jogszabályban meghatározott körben a földrajzi nevek megállapítása, megváltoztatása.
+(2) A helyi önkormányzat képviselőtestülete hatáskörébe tartozik a települési, vármegyei, fővárosi térképészeti határkiigazítás véleményezése, valamint a jogszabályban meghatározott körben a földrajzi nevek megállapítása, megváltoztatása.
