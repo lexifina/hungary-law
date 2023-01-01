@@ -18,7 +18,7 @@ készít.
 
 (5) Az (1) bekezdésben foglalt kataszterekhez, kataszterjelentésekhez és előrejelzésekhez
 
-a) a mezőgazdasággal kapcsolatos adatok és előrejelzések vonatkozásában az agrárpolitikáért felelős miniszter által szolgáltatott adatok alapján,
+a)[^93] az AKI Agrárközgazdasági Intézet Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: AKI Nonprofit Kft.) által készített, a mezőgazdasági ágazatra vonatkozó, az (1) bekezdésben foglalt kataszterek, kataszterjelentések és előrejelzések beépítésével,
 
 b) az iparra vonatkozó adatok és előrejelzések vonatkozásában az iparügyekért felelős miniszter által szolgáltatott információk figyelembevételével,
 
@@ -34,12 +34,26 @@ g) a Közlekedéstudományi Intézet Nonprofit Korlátolt Felelősségű Társas
 
 az OMSZ készít javaslatot.
 
-(6) Az (5) bekezdés szerinti adatszolgáltatás az OMSZ részére és a KTI számára a közlekedési, szállítási ágazatra vonatkozó kataszterek elkészítéséhez szükséges járműállományi statisztikai adatok, járművek futásteljesítményre vonatkozó adatok, éghajlati adatok, energiastatisztikai adatok átadása, valamint a kataszterjelentések előrejelzések átadása OMSZ számára ingyenesen történik.
+(6)[^94] A következő adatszolgáltatások tekintetében az adatok átadása ingyenes:
 
-(7) Az OMSZ és a KTI részére az adatokat elektronikus úton kell átadni, további feldolgozásra alkalmas, szerkeszthető formátumban.
+a) az OMSZ részére az (5) bekezdés szerinti adatszolgáltatás, valamint a kataszterjelentések és az előrejelzések átadása,
 
-(8) Az (5) bekezdésében meghatározott adatszolgáltatáson túlmenően az OMSZ jogosult eseti adatszolgáltatást kérni az (5) bekezdésben felsorolt adatszolgáltatóktól és a 13. mellékletben meghatározott szennyezőanyagok kibocsátóitól.
+b) a KTI részére a közlekedési, szállítási ágazatra vonatkozó kataszterek elkészítéséhez szükséges járműállományi statisztikai adatok, a járművek futásteljesítményre vonatkozó adatok, az éghajlati adatok és az energiastatisztikai adatok átadása, valamint
 
-(9) Az üvegházhatású gázok kibocsátásával, valamint az éghajlatváltozással kapcsolatos országos jelentéssel való összhang biztosítása érdekében az OMSZ jogosult az üvegházhatású gázok kibocsátásával, valamint az éghajlatváltozással kapcsolatos nemzeti jelentés tartalmáról és elkészítésének módjáról, az adatszolgáltatás rendjéről, illetve az adatszolgáltatási kötelezettség megszegése esetén fizetendő bírságról szóló kormányrendelet keretében gyűjtött adatok felhasználására.
+c) az AKI Nonprofit Kft. részére a (10) bekezdés szerinti adatszolgáltatás, a mezőgazdasági ágazatra vonatkozó kataszterek elkészítéséhez szükséges, az agrárpolitikáért felelős miniszter és a Központi Statisztikai Hivatal által szolgáltatott adatok, és a Nemzeti Élelmiszerlánc-biztonsági Hivatal által szolgáltatott, a növényvédő szerek felhasználására vonatkozó adatok átadása.
+
+(7)[^95] Az OMSZ, az AKI Nonprofit Kft. és a KTI részére az adatokat elektronikus úton kell átadni, további feldolgozásra alkalmas, szerkeszthető formátumban.
+
+(8)[^96] Az (5) bekezdésében meghatározott adatszolgáltatáson túlmenően az OMSZ és az AKI Nonprofit Kft. jogosult eseti adatszolgáltatást kérni az (5) és (6) bekezdésben megjelölt adatszolgáltatóktól és a 13. mellékletben meghatározott szennyezőanyagok kibocsátóitól.
+
+(9)[^97] Az üvegházhatású gázok kibocsátásával, valamint az éghajlatváltozással kapcsolatos országos jelentéssel való összhang biztosítása érdekében az OMSZ és az AKI Nonprofit Kft. jogosult az üvegházhatású gázok kibocsátásával, valamint az éghajlatváltozással kapcsolatos nemzeti jelentés tartalmáról és elkészítésének módjáról, az adatszolgáltatás rendjéről, illetve az adatszolgáltatási kötelezettség megszegése esetén fizetendő bírságról szóló kormányrendelet keretében gyűjtött adatok felhasználására.
+
+(10)[^98] Az AKI Nonprofit Kft. a mezőgazdasági szektorra vonatkozó emissziós kataszter és kataszterjelentés elkészítéséhez elektronikus hozzáféréssel rendelkezik a környezet védelmének általános szabályairól szóló törvény szerinti Környezetvédelmi Információs Rendszerhez és az Agrártudományi Kutatóközpont Talajtani és Agrokémiai Kutatóintézete talajinformációs rendszeréhez.
 
 [^92]: A 19/A. alcímet (32/A. §) a 133/2018. (VII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^93]: A 32/A. § (5) bekezdés a) pontja a 620/2022. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^94]: A 32/A. § (6) bekezdése a 620/2022. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^95]: A 32/A. § (7) bekezdése a 620/2022. (XII. 29.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^96]: A 32/A. § (8) bekezdése a 620/2022. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^97]: A 32/A. § (9) bekezdése a 620/2022. (XII. 29.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^98]: A 32/A. § (10) bekezdését a 620/2022. (XII. 29.) Korm. rendelet 3. § (4) bekezdése iktatta be.
