@@ -1,3 +1,3 @@
-2. melléklet a 4/2022. (II. 1.) IM rendelethez[^31]
+2. melléklet a 4/2022. (II. 1.) IM rendelethez[^20]
 
-[^31]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
