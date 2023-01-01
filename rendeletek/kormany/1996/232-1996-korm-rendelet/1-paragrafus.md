@@ -8,7 +8,7 @@ a) az árvíz és a belvíz kártételeinek, valamint
 
 b) a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendelet szerinti, a vizeket érintő, azonnali beavatkozást igénylő károsodás
 
-## megelőzését, elhárítását, valamint mérséklését szolgáló műszaki és államigazgatási feladatok végrehajtása;
+megelőzését, elhárítását, valamint mérséklését szolgáló műszaki és államigazgatási feladatok végrehajtása;
 
 2.[^2] a védekezés műszaki feladatai: az árvizek, a belvizek és a vízhiány időszakában – a védőműveken vagy azok mentén – a védőművek védő- és működőképességének megőrzése;
 
