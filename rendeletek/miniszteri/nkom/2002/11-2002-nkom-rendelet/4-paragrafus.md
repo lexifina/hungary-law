@@ -1,6 +1,6 @@
 4. § Ez a rendelet 2002. szeptember 1-jén lép hatályba.
 
-Melléklet a 11/2002. (IV. 13.) NKÖM rendelethez
+Melléklet a 11/2002. (IV. 13.) NKÖM rendelethez[^4]
 
 A muzeális intézményekben kialakítható szakmai munkakörök és a betöltésükhöz szükséges képesítési feltételek, illetve alapkövetelmények
 
@@ -66,7 +66,7 @@ preparátor
 
 múzeumi adattáros
 
-a múzeum gyűjtőkörének megfelelő szakirányú felsőfokú (főiskolai vagy egyetemi) szakképzettség (országos, szak- és megyei múzeumok esetében)
+a múzeum gyűjtőkörének megfelelő szakirányú felsőfokú (főiskolai vagy egyetemi) szakképzettség (országos, szak- és vármegyei múzeumok esetében)
 
 érettségi vizsga (területi és tematikus múzeumok esetében)
 
@@ -87,3 +87,5 @@ _______
 * Lásd a művelődési ágazati szakmunkásképzésről és munkaköri szakképzésről szóló 17/1990. (XII. 20.) MKM és a szakmai követelmények kiadásáról szóló 16/1994. (VII. 8.) MKM rendeletet.
 
 ** Lásd a szakmai követelmények kiadásáról szóló 16/1994. (VII. 8.) MKM rendeletet.
+
+[^4]: A melléklet a 12/2022. (XII. 29.) KIM rendelet 4. §-a szerint módosított szöveg.
