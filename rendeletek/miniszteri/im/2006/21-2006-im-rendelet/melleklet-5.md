@@ -1,4 +1,4 @@
-5. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^77]
+5. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^79]
 
 A BETÉTI TÁRSASÁG SZERZŐDÉSMINTÁJA
 
@@ -386,7 +386,7 @@ Név:
 
 Okirati ellenjegyzés/közjegyzői okirat elemei
 
-[^77]: Az 5. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés b) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (7) bekezdése és (11) bekezdés d) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § b) pontja, a 24/2018. (VIII. 31.) IM rendelet 7. § (2) bekezdése, a 31/2019. (XII. 20.) IM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^79]: Az 5. számú mellékletet a 12/2014. (II. 28.) KIM rendelet 5. § (8) bekezdés b) pontja iktatta be, szövege a 39/2015. (XII. 21.) IM rendelet 1. § (7) bekezdése és (11) bekezdés d) pontja, a 29/2016. (XII. 27.) IM rendelet 7. § b) pontja, a 24/2018. (VIII. 31.) IM rendelet 7. § (2) bekezdése, a 31/2019. (XII. 20.) IM rendelet 1. § (2) bekezdése szerint módosított szöveg.
 [^1.]: A társasági szerződés szövege csak ott és annyiban bővíthető vagy változtatható, amennyiben a minta azt kifejezetten megengedi. A szükség szerinti kitöltendő szövegrészek abban az esetben is a szerződésminta részét képezik, amennyiben ezen részek kitöltésére az adott társaság esetében nem volt szükség.
 [^3.]: Aláhúzással jelölendő.
 [^4.]: Amennyiben a központi ügyintézés helye nem azonos a székhellyel, a központi ügyintézés helyének megjelölése kötelező.

@@ -1,46 +1,46 @@
 ## A cégjegyzékszám meghatározásához szükséges adatok
 
-## a) Annak a megyének a kódszáma, ahol a céget nyilvántartják (a cégjegyzékszám első két száma):
+## a) Annak a vármegyének a kódszáma, ahol a céget nyilvántartják (a cégjegyzékszám első két száma):
 
 | 1. Főváros | 01 |
 
-| 2. Pest megye | 13 |
+| 2. Pest vármegye | 13 |
 
-| 3. Baranya megye | 02 |
+| 3. Baranya vármegye | 02 |
 
-| 4. Bács-Kiskun megye | 03 |
+| 4. Bács-Kiskun vármegye | 03 |
 
-| 5. Békés megye | 04 |
+| 5. Békés vármegye | 04 |
 
-| 6. Borsod-Abaúj-Zemplén megye | 05 |
+| 6. Borsod-Abaúj-Zemplén vármegye | 05 |
 
-| 7. Csongrád-Csanád megye | 06 |
+| 7. Csongrád-Csanád vármegye | 06 |
 
-| 8. Fejér megye | 07 |
+| 8. Fejér vármegye | 07 |
 
-| 9. Győr-Moson-Sopron megye | 08 |
+| 9. Győr-Moson-Sopron vármegye | 08 |
 
-| 10. Hajdú-Bihar megye | 09 |
+| 10. Hajdú-Bihar vármegye | 09 |
 
-| 11. Heves megye | 10 |
+| 11. Heves vármegye | 10 |
 
-| 12. Komárom-Esztergom megye | 11 |
+| 12. Komárom-Esztergom vármegye | 11 |
 
-| 13. Nógrád megye | 12 |
+| 13. Nógrád vármegye | 12 |
 
-| 14. Somogy megye | 14 |
+| 14. Somogy vármegye | 14 |
 
-| 15. Szabolcs-Szatmár-Bereg megye | 15 |
+| 15. Szabolcs-Szatmár-Bereg vármegye | 15 |
 
-| 16. Jász-Nagykun-Szolnok megye | 16 |
+| 16. Jász-Nagykun-Szolnok vármegye | 16 |
 
-| 17. Tolna megye | 17 |
+| 17. Tolna vármegye | 17 |
 
-| 18. Vas megye | 18 |
+| 18. Vas vármegye | 18 |
 
-| 19. Veszprém megye | 19 |
+| 19. Veszprém vármegye | 19 |
 
-| 20. Zala megye | 20 |
+| 20. Zala vármegye | 20 |
 
 ## b) Az egyes cégformák kódszámai (a cégjegyzékszám harmadik és negyedik száma):
 
@@ -84,6 +84,6 @@
 
 | 23 | Európai szövetkezet |
 
-3. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^75]
+3. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^77]
 
-[^75]: A 3. számú melléklet a 30/2008. (XII. 23.) IRM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^77]: A 3. számú melléklet a 30/2008. (XII. 23.) IRM rendelet 2. § (2) bekezdésével megállapított szöveg.

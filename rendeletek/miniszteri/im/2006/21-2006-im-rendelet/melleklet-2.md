@@ -422,23 +422,25 @@
 
 ## – felosztás általi szétválás
 
-## b) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogelődjének székhely szerinti országkódja
+## b) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó jogelőd tőkeegyesítő társaság székhely szerinti országkódja
 
-## c) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogelődjének cégjegyzékszáma
+## c) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó jogelőd tőkeegyesítő társaság cégjegyzékszáma
 
-## d) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogelődjének EUID-ja
+## d) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó jogelőd tőkeegyesítő társaság EUID-ja
 
 ## e) Annak jelölése, ha a jogelőd tőkeegyesítő társaság EUID-val nem rendelkezik
 
-## f) Ha ilyen adattal rendelkezik, a külföldi jogelőd tőkeegyesítő társaság nyilvántartási száma
+## f) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság társasági formája (cégformája)
 
-## g) Ha ilyen adattal rendelkezik, a külföldi jogelőd tőkeegyesítő társaságot nyilvántartó hatóság
+## g) Ha ilyen adattal rendelkezik, a külföldi jogelőd tőkeegyesítő társaság nyilvántartási száma
 
-## h) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogelődjének elnevezése
+## h) Ha ilyen adattal rendelkezik, a külföldi jogelőd tőkeegyesítő társaságot nyilvántartó hatóság
 
-## i) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó tőkeegyesítő társaság jogelődjének székhelye /külföldi székhelye
+## i) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó jogelőd tőkeegyesítő társaság elnevezése
 
-## j) A határokon átnyúló átalakulás, egyesülés, szétválás tőkeegyesítő társaság által meghatározott időpontja (abban az esetben kell megadni, ha az átalakuló, szétváló, egyesülő cég az átalakulás, az egyesülés, a szétválás időpontját meghatározza)
+## j) A határokon átnyúló átalakulást, egyesülést, szétválást végrehajtó jogelőd tőkeegyesítő társaság székhelye/külföldi székhelye
+
+## k) A határokon átnyúló átalakulás, egyesülés, szétválás tőkeegyesítő társaság által meghatározott időpontja (abban az esetben kell megadni, ha az átalakuló, szétváló, egyesülő cég az átalakulás, az egyesülés, a szétválás időpontját meghatározza)
 
 ## C)
 
@@ -1974,6 +1976,6 @@
 
 ## g) Törölve (szükség szerint jelölendő, ha cégjegyzékből a rovat tartalmát törölni kérik)
 
-2. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^74]
+2. számú melléklet a 21/2006. (V. 18.) IM rendelethez[^76]
 
-[^74]: A 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelet 15. § (7) bekezdése, a 12/2020. (VIII. 4.) IM rendelet 2. §-a szerint módosított szöveg.
+[^76]: A 2. számú melléklet az 1/2006. (VI. 26.) IRM rendelet 15. § (7) bekezdése, a 12/2020. (VIII. 4.) IM rendelet 2. §-a, a 38/2022. (XII. 27.) IM rendelet 5. § b) pontja szerint módosított szöveg.
