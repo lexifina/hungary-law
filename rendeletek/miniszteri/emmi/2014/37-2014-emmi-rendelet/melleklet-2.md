@@ -1,4 +1,4 @@
-## Nyersanyag-kiszabati előírás egy adagra/fő
+## 6K79461M_0
 
 |  | A | B | C | D | E | F |
 
@@ -112,10 +112,12 @@
 
 ## 2 Bő zsiradékban sült ételek esetén a tápanyagtartalomba a sütéshez használt zsírmennyiség legfeljebb 30 %-a számítandó.
 
-## 3 Kivéve müzli keverékek.
+## 3Kivéve müzli keverékek.
 
 ## 4 Keksz, extrudált kenyér, puffasztott gabonaszelet, kölesgolyó, stb.
 
 ## 5 Kizárólag darált formában.
 
 2. melléklet a 37/2014. (IV. 30.) EMMI rendelethez
+
+Változatossági mutató

@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-37-20-5
 | 2019-01-01 | 2014-37-20-5H.7 | 36/2016. (XII. 8.) EMMI rendelet |
 | 2019-07-01 | 2014-37-20-5H.8 | 36/2016. (XII. 8.) EMMI rendelet |
 | 2021-09-09 | 2014-37-20-5H.9 | 38/2021. (IX. 1.) EMMI rendelet |
+| 2023-01-01 | 2014-37-20-5H.10 | 23/2015. (IV. 28.) EMMI rendelet |

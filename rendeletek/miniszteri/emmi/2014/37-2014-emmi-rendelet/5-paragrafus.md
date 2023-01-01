@@ -12,7 +12,7 @@ c)[^13] napi háromszori étkezés szolgáltatása esetén az előírt napi ener
 
 d) napi egyszeri étkezés szolgáltatása esetén az előírt napi energiaszükséglet 35%-át egy ebéddel
 
-## biztosítani.
+biztosítani.
 
 (2a)[^14] A napi energia- és tápanyag-beviteli értékek teljesítendő aránya a (2) bekezdésben foglalt eseteken kívül:
 

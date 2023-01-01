@@ -1,5 +1,3 @@
-## Az étkeztetés típusától függően a korcsoportonként megengedett napi sóbevitel∗
-
 ## (g/fő)
 
 |  | A | B | C | D | E | F | G | H |
@@ -60,7 +58,7 @@ Egyes élelmiszerekre, élelmiszercsoportokra vonatkozó előírások tíz élel
 
 | 18. | Teljes kiőrlésű gabona alapú élelmiszer | legalább tíz alkalommal | öt alkalommal | legalább tíz alkalommal | legalább három alkalommal |
 
-| 19. | Sertés, baromfi zsír | legfeljebb három alkalommal2 | nem adható | legfeljebb két alkalommal3 | legfeljebb egy alkalommal |
+| 19. | Sertés, baromfi zsír | legfeljebb három alkalommal2 | nem adható | legfeljebbkét alkalommal3 | legfeljebb egy alkalommal |
 
 | 20. | Margarin kenőzsiradékként | legfeljebb huszonöt alkalommal | legfeljebb tíz alkalommal | legfeljebb tíz alkalommal | nem adható |
 

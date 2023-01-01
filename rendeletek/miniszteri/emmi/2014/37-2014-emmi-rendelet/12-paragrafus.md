@@ -1,5 +1,3 @@
-## biztosítandó, a 7. § (6) bekezdésében foglaltak szerint.
-
 12. § (1) A közétkeztetés keretében szolgáltatott ételek sótartalmára az 5. melléklet szerinti, korcsoportonként meghatározott értékeket kell alkalmazni.
 
 (2) Ételkészítéshez az MSZ-01-10007 számú szabvány szerinti, kizárólag jódozott konyhasó használható.

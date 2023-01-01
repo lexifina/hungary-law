@@ -6,7 +6,7 @@ a)[^22] az 1–3 éves korcsoport részére 2,8% vagy 3,6% zsírtartalmú tej,
 
 b)[^23] a 3 év feletti korcsoport részére 2,8% vagy ez alatti zsírtartalmú tej
 
-## biztosítandó.
+biztosítandó.
 
 (2) Az italként kínált tej hozzáadott cukrot nem tartalmazhat.
 

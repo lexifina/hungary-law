@@ -10,6 +10,8 @@ b)[^30] bölcsődei, mini bölcsődei étkeztetés esetén egy főre 4 liter tej
 
 c) napi háromszori étkezés szolgáltatása esetén egy főre 3 liter tej vagy ennek megfelelő mennyiségű kalciumtartalmú tejtermék
 
+biztosítandó, a 7. § (6) bekezdésében foglaltak szerint.
+
 [^27]: A 11. § az 54/2014. (XII. 29.) EMMI rendelet 5. §-ával megállapított szöveg.
 [^28]: A 11. § (1) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 12. § a) pontja szerint módosított szöveg.
 [^29]: A 11. § (2) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 12. § f) pontja szerint módosított szöveg.
