@@ -8,7 +8,7 @@
 
 ## ...............................
 
-7. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^313]
+7. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^316]
 
 Átadás-átvételi és birtokbaadási jegyzőkönyv
 
@@ -146,7 +146,7 @@ d) szellemi termékek – találmány, iparjogvédelemben részesülő szabadalo
 
 Átadó és Átvevő kötelezettséget vállalnak arra, hogy amennyiben az intézmények, illetve vagyon átadásával összefüggésben egyes ingatlanok közös kezelésbe, használatba és üzemeltetésbe kerülnek, a kiadások megosztása és a használati jog rendezése érdekében ..................................-ig ingatlanonkénti bontásban külön megállapodást kötnek. Az Átvevő kötelezettséget vállal arra, hogy ugyanilyen tartalmú megállapodást köt azon ingatlanok tekintetében is az érintett ingatlanok vagyonkezelőjével, ahol az ingatlan közös használata nem az Átadóval, hanem más szervezettel történik.
 
-Az intézmények jövőbeni kincstári feladatainak átvételét az államkincstár megyei szervének vezetője megbízásából az államkincstár kijelölt munkatársai végzik (intézményi számlavezetés, e-Adat-rendszer bevezetése, bérszámfejtés, a vagyonnal kapcsolatos feladatok, illetve a fenntartóváltás egyszeri bejegyzése).
+Az intézmények jövőbeni kincstári feladatainak átvételét az államkincstár vármegyei szervének vezetője megbízásából az államkincstár kijelölt munkatársai végzik (intézményi számlavezetés, e-Adat-rendszer bevezetése, bérszámfejtés, a vagyonnal kapcsolatos feladatok, illetve a fenntartóváltás egyszeri bejegyzése).
 
 A vagyon átadása
 
@@ -222,4 +222,4 @@ D) Mellékletek – Dokumentumok
 
 E) Mellékletek – Kimutatások és táblázatok
 
-[^313]: A 7. számú mellékletet a 125/2013. (IV. 26.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 46. §-a, a 221/2014. (IX. 4.) Korm. rendelet 440. §-a, a 30/2015. (II. 25.) Korm. rendelet 33. § e) pontja, a 159/2019. (VI. 28.) Korm. rendelet 5. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
+[^316]: A 7. számú mellékletet a 125/2013. (IV. 26.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 46. §-a, a 221/2014. (IX. 4.) Korm. rendelet 440. §-a, a 30/2015. (II. 25.) Korm. rendelet 33. § e) pontja, a 159/2019. (VI. 28.) Korm. rendelet 5. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 96. § d) pontja szerint módosított szöveg.

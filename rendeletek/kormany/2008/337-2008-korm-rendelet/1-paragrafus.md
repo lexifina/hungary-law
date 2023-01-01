@@ -22,7 +22,7 @@ i)[^10] a finanszírozási szerződés szerinti dialízis kapacitás mértékét
 
 j)[^11]
 
-## amely a Tv. alapján lekötött kapacitásához képest a magasabb összegű elszámolás és teljesítménynövekedés finanszírozása miatt többletforrás-igénnyel jár.
+amely a Tv. alapján lekötött kapacitásához képest a magasabb összegű elszámolás és teljesítménynövekedés finanszírozása miatt többletforrás-igénnyel jár.
 
 (1a)[^12] Többletkapacitásnak minősül az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti ellátást nyújtó egészségügyi szolgáltató által végzett, az újszülött 0–4 napos korban történő életkorhoz kötött szűrővizsgálatainak miniszteri rendeletben meghatározott finanszírozott szolgáltatási egysége.
 
