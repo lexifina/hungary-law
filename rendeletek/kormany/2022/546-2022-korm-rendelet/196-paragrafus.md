@@ -2,14 +2,13 @@
 
 196. § A komáromi ipari park bővítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 344/2017. (XI. 15.) Korm. rendelet 2. §-ában
 
-a)[^439]
+a)[^254]
 
-b)[^440]
+b)[^255]
 
-c)[^441]
+c) a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^439]: A 196. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^440]: A 196. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^441]: A 196. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^254]: A 196. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^255]: A 196. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

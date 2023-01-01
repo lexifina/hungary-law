@@ -2,14 +2,12 @@
 
 31. § Az IBIDEN Hungary Kft. Dunavarsányi Ipari Parkban megvalósuló, kipufogórendszerekhez kapcsolódó újgenerációs termékek gyártását eredményező beruházásával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 31/2013. (II. 13.) Korm. rendelet
 
-a)[^50]
+a)[^10]
 
-b)[^51]
+b) 1. § (4) bekezdésében, 1. mellékletében foglalt táblázat D:2–D:6, D:9–D:11, D:13, D:14 és D:20 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg,
 
-c)[^52]
+c) 3. § (2) bekezdésében, 4. § (2) bekezdésében és 1. mellékletében foglalt táblázat D:7 mezőjében a „megyei” szövegrész helyébe a „vármegyei” szöveg
 
 lép.
 
-[^50]: A 31. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^51]: A 31. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^52]: A 31. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^10]: A 31. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

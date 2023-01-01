@@ -1,3 +1,3 @@
-166. §[^369]
+166. §[^205]
 
-[^369]: A 166. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^205]: A 166. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

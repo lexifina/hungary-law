@@ -1,5 +1,3 @@
 ## 57. A nyugat-magyarországi utánpótlás-nevelési centrum beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 239/2014. (IX. 18.) Korm. rendelet módosítása
 
-57. §[^109]
-
-[^109]: Az 57. § a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+57. § A nyugat-magyarországi utánpótlás-nevelési centrum beruházás megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 239/2014. (IX. 18.) Korm. rendelet 1. mellékletében foglalt táblázat D:2–D:7 és D:9–D:10 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg lép.

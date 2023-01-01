@@ -2,14 +2,13 @@
 
 163. § A Kerekegyháza területén élelmiszeripari feldolgozóüzem megvalósítására irányuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 90/2017. (IV. 10.) Korm. rendelet 2. §-ában
 
-a)[^359]
+a)[^199]
 
-b)[^360]
+b)[^200]
 
-c)[^361]
+c) a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^359]: A 163. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^360]: A 163. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^361]: A 163. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^199]: A 163. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^200]: A 163. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

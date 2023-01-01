@@ -2,14 +2,12 @@
 
 32. § A Lakitelek Népfőiskola épületeinek rekonstrukciójával és fejlesztésével összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 133/2013. (V. 9.) Korm. rendelet
 
-a)[^53]
+a)[^11]
 
-b)[^54]
+b) 3. §-ában, 1. mellékletében foglalt táblázat D:2–D:4, D:6–D:11 és D:13 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg,
 
-c)[^55]
+c) 5. § (2) bekezdésében, 6. § (2) bekezdésében és 1. mellékletében foglalt táblázat D:5 mezőjében a „megyei” szövegrész helyébe a „vármegyei” szöveg
 
 lép.
 
-[^53]: A 32. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^54]: A 32. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^55]: A 32. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^11]: A 32. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

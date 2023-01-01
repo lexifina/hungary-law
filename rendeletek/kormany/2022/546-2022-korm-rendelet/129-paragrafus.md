@@ -2,14 +2,13 @@
 
 129. § A Vecsés város külterületén megvalósuló ingatlanfejlesztési beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 278/2016. (IX. 15.) Korm. rendelet 2. §-ában
 
-a)[^268]
+a)[^137]
 
-b)[^269]
+b)[^138]
 
-c)[^270]
+c) a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^268]: A 129. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^269]: A 129. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^270]: A 129. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^137]: A 129. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^138]: A 129. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

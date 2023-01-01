@@ -2,14 +2,13 @@
 
 192. § A piliscsabai Iosephinum területén megvalósuló fejlesztések keretében az AVICENNA Kutatóintézet beruházási munkáival összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 297/2017. (X. 10.) Korm. rendelet 3. §-ában
 
-a)[^429]
+a)[^247]
 
-b)[^430]
+b)[^248]
 
-c)[^431]
+c) a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^429]: A 192. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^430]: A 192. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^431]: A 192. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^247]: A 192. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^248]: A 192. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

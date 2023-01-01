@@ -2,14 +2,12 @@
 
 67. § A Millenáris területén megvalósítandó egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 395/2014. (XII. 31.) Korm. rendelet
 
-a)[^132]
+a)[^41]
 
-b)[^133]
+b) 11. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
 
-c)[^134]
+c) 1. mellékletében foglalt táblázat D:3, D:11 és D:14 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^132]: A 67. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^133]: A 67. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^134]: A 67. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^41]: A 67. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

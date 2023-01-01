@@ -2,11 +2,10 @@
 
 70. § A Fővárosi Állat- és Növénykert fejlesztésére irányuló Pannon Park és Mesepark projektekhez kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 48/2015. (III. 12.) Korm. rendelet
 
-a)[^138]
+a)[^44]
 
-b)[^139]
+b) 1. mellékletében foglalt táblázat D:8–D:9 és D:12 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^138]: A 70. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^139]: A 70. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^44]: A 70. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

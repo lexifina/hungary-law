@@ -2,14 +2,13 @@
 
 173. § A jánossomorjai építőanyag-gyártó beruházás kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 142/2017. (VI. 9.) Korm. rendelet 2. §-ában
 
-a)[^384]
+a)[^216]
 
-b)[^385]
+b)[^217]
 
-c)[^386]
+c) a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^384]: A 173. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^385]: A 173. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^386]: A 173. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^216]: A 173. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^217]: A 173. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

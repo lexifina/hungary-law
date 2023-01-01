@@ -2,14 +2,13 @@
 
 74. § A kecskeméti, a kisvárdai és a szolnoki atlétikai centrum beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 107/2015. (IV. 23.) Korm. rendelet
 
-a)[^149]
+a)[^51]
 
-b)[^150]
+b)[^52]
 
-c)[^151]
+c) 2. § a)–c) pontjában a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^149]: A 74. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^150]: A 74. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^151]: A 74. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^51]: A 74. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 74. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

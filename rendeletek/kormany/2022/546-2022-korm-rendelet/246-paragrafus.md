@@ -1,5 +1,5 @@
 ## 243. A Magyar Építészeti Múzeum és Műemlékvédelmi Dokumentációs Központ végleges elhelyezésére szolgáló épületegyüttes rekonstrukciójának megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 257/2020. (VI. 3.) Korm. rendelet módosítása
 
-246. §[^547]
+246. §[^329]
 
-[^547]: A 246. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^329]: A 246. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

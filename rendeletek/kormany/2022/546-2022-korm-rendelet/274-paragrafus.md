@@ -2,14 +2,13 @@
 
 274. § A debreceni velodrom beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 77/2021. (II. 19.) Korm. rendelet 2. §-ában
 
-a)[^593]
+a)[^358]
 
-b)[^594]
+b)[^359]
 
-c)[^595]
+c) a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^593]: A 274. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^594]: A 274. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^595]: A 274. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^358]: A 274. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^359]: A 274. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

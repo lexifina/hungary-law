@@ -1,5 +1,3 @@
 ## 235. Új büntetés-végrehajtási férőhelyek létrehozására irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházások kiemelten közérdekű beruházásokká nyilvánításáról szóló 34/2020. (III. 5.) Korm. rendelet módosítása
 
-237. §[^533]
-
-[^533]: A 237. § a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+237. § Az új büntetés-végrehajtási férőhelyek létrehozására irányuló beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházások kiemelten közérdekű beruházásokká nyilvánításáról szóló 34/2020. (III. 5.) Korm. rendelet 1. § (1) bekezdés b) és j) pontjában a „Megyei” szövegrész helyébe a „Vármegyei” szöveg lép.

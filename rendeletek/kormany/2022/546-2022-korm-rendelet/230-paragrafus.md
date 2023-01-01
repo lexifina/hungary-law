@@ -2,11 +2,10 @@
 
 230. § Sportinfrastruktúra-fejlesztések megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 65/2019. (III. 27.) Korm. rendelet
 
-a)[^519]
+a)[^310]
 
-b)[^520]
+b) 1/A. §-ában a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^519]: A 230. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^520]: A 230. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^310]: A 230. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

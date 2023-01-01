@@ -2,14 +2,13 @@
 
 47. § A Liget Budapest projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 546/2013. (XII. 30.) Korm. rendelet
 
-a)[^90]
+a)[^23]
 
-b)[^91]
+b)[^24]
 
-c)[^92]
+c) 2. mellékletében foglalt táblázat D:3, D:9 és D:11 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^90]: A 47. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^91]: A 47. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^92]: A 47. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^23]: A 47. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 47. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

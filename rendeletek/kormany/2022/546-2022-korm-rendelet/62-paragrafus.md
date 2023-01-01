@@ -1,5 +1,3 @@
 ## 62. A fertődi Porpáczy Aladár Középiskola elhelyezéséhez szükséges új iskola és tornaterem beruházási program megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 270/2014. (XI. 4.) Korm. rendelet módosítása
 
-62. §[^120]
-
-[^120]: A 62. § a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+62. § A fertődi Porpáczy Aladár Középiskola elhelyezéséhez szükséges új iskola és tornaterem beruházási program megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 270/2014. (XI. 4.) Korm. rendelet 1. mellékletében foglalt táblázat D:2–D:7 és D:9–D:10 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg lép.

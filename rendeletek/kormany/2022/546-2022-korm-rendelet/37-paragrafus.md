@@ -2,14 +2,12 @@
 
 37. § A Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ létrehozásához szükséges közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 289/2013. (VII. 26.) Korm. rendelet
 
-a)[^66]
+a)[^16]
 
-b)[^67]
+b) 6. § (2) bekezdésében és 8. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
 
-c)[^68]
+c) 1. mellékletében foglalt táblázat D:8 és D:13 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^66]: A 37. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^67]: A 37. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^68]: A 37. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^16]: A 37. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -2,14 +2,12 @@
 
 66. § Az Esterházy-kastélyegyüttes rekonstrukciójával összefüggő beruházásokkal kapcsolatos közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 394/2014. (XII. 31.) Korm. rendelet
 
-a)[^129]
+a)[^40]
 
-b)[^130]
+b) 2. §-ában, 1. mellékletében foglalt táblázat D:2–D:7, D:9, D:10 és D:13 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg,
 
-c)[^131]
+c) 10. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg
 
 lép.
 
-[^129]: A 66. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^130]: A 66. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^131]: A 66. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^40]: A 66. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

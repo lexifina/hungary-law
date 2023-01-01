@@ -2,12 +2,11 @@
 
 60. § A Wuppermann Hungary Kft. Győr-Gönyűi Kikötőben megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 266/2014. (X. 21.) Korm. rendelet
 
-a)[^116]
+a)[^34]
 
-b)[^117]
+b) 2. § (1) bekezdésében, 1. mellékletében foglalt táblázat D:2–D:12 és D:14–D:16 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg,
 
-c)[^118]
+c)[^35]
 
-[^116]: A 60. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^117]: A 60. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^118]: A 60. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 60. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 60. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

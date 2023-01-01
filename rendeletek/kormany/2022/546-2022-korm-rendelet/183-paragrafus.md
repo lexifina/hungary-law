@@ -2,20 +2,18 @@
 
 183. § A Modern Városok Program keretében egyes sportcélú beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 203/2017. (VII. 10.) Korm. rendelet
 
-a)[^406]
+a)[^232]
 
-b)[^407]
+b)[^233]
 
-c)[^408]
+c)[^234]
 
-d)[^409]
+d) 1. mellékletében foglalt táblázat B:6 mezőjében a „megye” szövegrész helyébe a „vármegye” szöveg,
 
-e)[^410]
+e) 1. mellékletében foglalt táblázat C:2–C:24 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^406]: A 183. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^407]: A 183. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^408]: A 183. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^409]: A 183. § d) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^410]: A 183. § e) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^232]: A 183. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^233]: A 183. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^234]: A 183. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

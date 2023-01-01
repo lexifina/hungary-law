@@ -2,14 +2,13 @@
 
 207. § Munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 23/2018. (II. 20.) Korm. rendelet
 
-a)[^464]
+a)[^272]
 
-b)[^465]
+b)[^273]
 
-c)[^466]
+c) 1. mellékletében foglalt táblázat B:12–B:15, B:25–B:32 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^464]: A 207. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^465]: A 207. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^466]: A 207. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^272]: A 207. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^273]: A 207. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -2,14 +2,13 @@
 
 99. § A HELL cégcsoport Szikszó területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 13/2016. (II. 9.) Korm. rendelet 2. §-ában
 
-a)[^202]
+a)[^89]
 
-b)[^203]
+b)[^90]
 
-c)[^204]
+c) a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^202]: A 99. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^203]: A 99. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^204]: A 99. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^89]: A 99. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: A 99. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

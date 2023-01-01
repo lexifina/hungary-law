@@ -1,5 +1,3 @@
 ## 61. A Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programja részét képező beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 269/2014. (XI. 4.) Korm. rendelet módosítása
 
-61. §[^119]
-
-[^119]: A 61. § a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+61. § A Magyar Testgyakorlók Köre Budapest létesítményfejlesztési programja részét képező beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 269/2014. (XI. 4.) Korm. rendelet 1. mellékletében foglalt táblázat D:3–D:5 és D:9 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg lép.

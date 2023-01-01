@@ -2,11 +2,10 @@
 
 282. § A Hortobágyi Deportálások Emlékhelye beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 359/2021. (VI. 24.) Korm. rendelet
 
-a)[^610]
+a)[^369]
 
-b)[^611]
+b) 3. § (1) és (2) bekezdésében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^610]: A 282. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^611]: A 282. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^369]: A 282. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

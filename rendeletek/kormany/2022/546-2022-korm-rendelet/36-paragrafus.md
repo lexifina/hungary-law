@@ -2,14 +2,12 @@
 
 36. § A Hyginett Magyar–Amerikai Higiéniai Cikkeket Gyártó Kft. Csömörön épülő gyártóüzemének megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 282/2013. (VII. 24.) Korm. rendelet
 
-a)[^63]
+a)[^15]
 
-b)[^64]
+b) 1. § (4) bekezdésében, 1. mellékletében foglalt táblázat D:2–D:6, D:9–D:11 és D:13–D:14 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg,
 
-c)[^65]
+c) 5. § (2) bekezdésében, 6. § (2) bekezdésében és 1. mellékletében foglalt táblázat D:7 mezőjében a „megyei” szövegrész helyébe a „vármegyei” szöveg
 
 lép.
 
-[^63]: A 36. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^64]: A 36. § b) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^65]: A 36. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^15]: A 36. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

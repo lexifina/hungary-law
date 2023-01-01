@@ -2,14 +2,13 @@
 
 258. § A Gödöllői Premontrei Apátság templom és sportközpont építésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 379/2020. (VII. 30.) Korm. rendelet 2. §-ában
 
-a)[^564]
+a)[^337]
 
-b)[^565]
+b)[^338]
 
-c)[^566]
+c) a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
 
 lép.
 
-[^564]: A 258. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^565]: A 258. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^566]: A 258. § c) pontja a 293. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^337]: A 258. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^338]: A 258. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
