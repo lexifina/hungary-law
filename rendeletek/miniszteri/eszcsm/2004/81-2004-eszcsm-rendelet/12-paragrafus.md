@@ -1,6 +1,6 @@
-## A támogató szolgálat képzés[^32]
+## A támogató szolgálat képzés[^38]
 
-12. §[^33] (1) A támogató szolgálat képzés felkészíti a képzésen részt vevő személyt a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet 39/A. §-ában foglalt feladatok ellátására.
+12. §[^39] (1) A támogató szolgálat képzés felkészíti a képzésen részt vevő személyt a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet 39/A. §-ában foglalt feladatok ellátására.
 
 (2) A képzés kötelező óraszáma segítő munkakör esetén 80 óra, ebből
 
@@ -14,5 +14,5 @@ a) 60 óra elméleti oktatás,
 
 b) 100 óra gyakorlati oktatás.
 
-[^32]: Az „A támogató szolgálat képzés” alcím címe a 4/2019. (II. 27.) EMMI rendelet 25. §-ával megállapított szöveg.
-[^33]: A 12. § a 4/2019. (II. 27.) EMMI rendelet 25. §-ával megállapított szöveg.
+[^38]: Az „A támogató szolgálat képzés” alcím címe a 4/2019. (II. 27.) EMMI rendelet 25. §-ával megállapított szöveg.
+[^39]: A 12. § a 4/2019. (II. 27.) EMMI rendelet 25. §-ával megállapított szöveg.

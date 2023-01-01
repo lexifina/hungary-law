@@ -4,7 +4,7 @@ a) ha az oktatási program ezt előírja, az egyes tantárgyakból szóbeli és/
 
 b) a képzés végén szóban vagy írásban záróvizsgát
 
-## tesz.
+tesz.
 
 (2) A záróvizsga időpontját a képzés utolsó napját követő 15. és 60. nap között kell meghatározni.
 

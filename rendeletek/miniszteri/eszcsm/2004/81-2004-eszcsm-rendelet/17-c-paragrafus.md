@@ -1,4 +1,4 @@
-## A szenvedélybetegek közösségi ellátása és alacsonyküszöbű ellátása képzés[^47]
+## A szenvedélybetegek közösségi ellátása és alacsonyküszöbű ellátása képzés[^54]
 
 17/C. § (1) A szenvedélybetegek közösségi ellátása és alacsonyküszöbű ellátása képzés célja a képzésen részt vevő személy felkészítése a személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet 39/J–39/L. §-ában foglalt feladatok ellátására.
 
@@ -14,4 +14,4 @@ a) 89 óra elméleti oktatás,
 
 b) 84 óra gyakorlati oktatás.
 
-[^47]: Az „A szenvedélybetegek közösségi ellátása és alacsonyküszöbű ellátása képzés” alcímet (17/C. §) a 4/2020. (II. 6.) EMMI rendelet 20. §-a iktatta be.
+[^54]: Az „A szenvedélybetegek közösségi ellátása és alacsonyküszöbű ellátása képzés” alcímet (17/C. §) a 4/2020. (II. 6.) EMMI rendelet 20. §-a iktatta be.

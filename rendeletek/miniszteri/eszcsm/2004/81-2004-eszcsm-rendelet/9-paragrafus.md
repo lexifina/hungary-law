@@ -4,12 +4,16 @@
 
 (3) Záróvizsgára az bocsátható, aki
 
-a) a képzési programban megállapított kötelező óraszámnak
+a)[^31] az elméleti és gyakorlati oktatás képzési programban megállapított kötelező óraszámának
 
-aa) elméleti oktatás esetén legalább a 80%-át, az adósságkezelési tanácsadó képzés vonatkozásában legalább a 90%-át,
+aa) az adósságkezelési tanácsadó képzés vonatkozásában összesen legalább a 90%-át,
 
-ab) gyakorlati oktatás esetén a 100%-át,
+ab) az aa) alpont alá nem tartozó képzés esetén összesen legalább a 80%-át,
 
 b) tantárgyi vizsgakötelezettségét,
 
 c) szakmai dolgozat-írási kötelezettségét
+
+teljesítette.
+
+[^31]: A 9. § (3) bekezdés a) pontja a 80/2022. (XII. 30.) BM rendelet 28. §-ával megállapított szöveg.
