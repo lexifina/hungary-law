@@ -64,7 +64,7 @@ a) az a szakszervezeti szövetség, amely
 
 aa) legalább négy nemzetgazdasági ágban és legalább tizenkét alágazatban tevékenykedő tagszervezettel rendelkezik, és
 
-ab) legalább nyolc megyében tagszervezettel vagy tagszervezetei területi, illetve megyei szervezettel rendelkezik, továbbá
+ab) legalább nyolc vármegyében tagszervezettel vagy tagszervezetei területi, illetve vármegyei szervezettel rendelkezik, továbbá
 
 ac) tagszervezetei együttesen legalább százötven munkáltatónál rendelkeznek önálló vagy a tagszervezet alapszabálya szerinti munkahelyi szervezettel;
 
@@ -72,7 +72,7 @@ b) az a munkáltatói szövetség,
 
 ba) amely legalább két nemzetgazdasági ágban és legalább hat alágazatban tevékenykedő tagszervezettel rendelkezik, és
 
-bb) amely tagszervezetei legalább tíz megyében működő területi szervezettel rendelkeznek, továbbá
+bb) amely tagszervezetei legalább tíz vármegyében működő területi szervezettel rendelkeznek, továbbá
 
 bc) amelynek, illetőleg amely tagszervezeteinek tagságát legalább ezer munkáltató, illetve vállalkozás alkotja, vagy amelynek, illetőleg amely tagszervezeteinek tagsága legalább százezer főt foglalkoztat.
 
