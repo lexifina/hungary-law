@@ -1,6 +1,6 @@
 ## Egyéb sajátosságok
 
-14. § (1)[^68] Az MNB a befektetett eszközök között elkülönítetten mutatja ki a bankjegy- és éremgyűjtemény-készletét. A gyűjtemény készlete után terv szerinti értékcsökkenést elszámolni nem lehet. A gyűjteményre vonatkozóan tízévente kerül sor teljes körű, mennyiségi leltárfelvételre.
+14. § (1)[^68] Az MNB a befektetett eszközök között elkülönítetten – bekerülési értéken – mutatja ki a muzeális intézmény gyűjteményét. A gyűjteménybe tartozó kulturális javak után terv szerinti értékcsökkenés nem számolható el.
 
 (2) Az MNB a követeléseit és a mérlegen kívül nyilvántartott vállalt kötelezettségeit azok értékelése során a ,,rendben levő'', a ,,külön figyelendő'' és a ,,kockázatos'' kategóriák egyikébe sorolja be.
 
@@ -24,7 +24,7 @@
 
 (12)[^74] Az MNB a forintpénzkészlet – Tv. 69. §-a szerinti – leltározását a lezárt kezelési egységek szintjén biztosítja, oly módon, hogy minden lezárt kezelési egység tartalmát három éven belül mennyiségi felvétellel leltározza.
 
-[^68]: A 14. § (1) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^68]: A 14. § (1) bekezdése a 603/2022. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^69]: A 14. § (3) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 10. §-a szerint módosított szöveg.
 [^70]: A 14. § (7) bekezdését a 236/2001. (XII. 10.) Korm. rendelet 12. §-a hatályon kívül helyezte.
 [^71]: A 14. § (8) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

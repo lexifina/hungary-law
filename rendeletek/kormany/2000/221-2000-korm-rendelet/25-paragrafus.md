@@ -34,6 +34,10 @@
 
 (17)[^98] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról, valamint az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételével és továbbképzésével kapcsolatos kormányrendelet módosításáról szóló 343/2019. (XII. 23.) Korm. rendelettel hatályon kívül helyezett 11. § (7) bekezdését először a 2019. évben induló üzleti évről készített beszámolóra nem kell alkalmazni.
 
+(18)[^99] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 603/2022. (XII. 28.) Korm. rendelettel megállapított 14. § (1) bekezdését először a 2023. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+(19)[^100] E rendeletnek a számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 603/2022. (XII. 28.) Korm. rendelettel megállapított 14. § (1) bekezdését a 2022. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.
+
 [^83]: A 24. §-t a 345/2010. (XII. 28.) Korm. rendelet 28. §-a iktatta be.
 [^84]: A 25. §-t a 114/2012. (VI. 8.) Korm. rendelet 8. §-a iktatta be.
 [^85]: A 25. § (4) bekezdését a 382/2012. (XII. 19.) Korm. rendelet 14. §-a iktatta be.
@@ -50,3 +54,5 @@
 [^96]: A 25. § (15) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
 [^97]: A 25. § (16) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
 [^98]: A 25. § (17) bekezdését a 343/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^99]: A 25. § (18) bekezdését a 603/2022. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^100]: A 25. § (19) bekezdését a 603/2022. (XII. 28.) Korm. rendelet 4. §-a iktatta be.

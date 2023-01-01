@@ -12,7 +12,7 @@ a) a külföldi devizapozíció árfolyamkockázatára kötött, fedezeti célú
 
 b) a Nemzetközi Valuta Alap által swap hitel formájában nyújtott devizahitelek forintellenértékét, az éven túli IMF kvóta forintfedezetét (együttesen az IMF forintkészlete) és a forintkészlet értékállandóságát biztosító évenkénti átértékelési különbözetek összegét.
 
-(5)[^22] A banküzem egyéb forrásai között kell kimutatni a központi költségvetéssel, a Nemzeti Egészségbiztosítási Alapkezelővel, az egészségbiztosítási feladatkörében eljáró fővárosi és megyei kormányhivatallal és az önkormányzatokkal szembeni rövid lejáratú kötelezettségeket, a munkavállalókkal kapcsolatos passzív elszámolásokat, az áruszállításból és szolgáltatásból eredő kötelezettségeket.
+(5)[^22] A banküzem egyéb forrásai között kell kimutatni a központi költségvetéssel, a Nemzeti Egészségbiztosítási Alapkezelővel, az egészségbiztosítási feladatkörében eljáró fővárosi és vármegyei kormányhivatallal és az önkormányzatokkal szembeni rövid lejáratú kötelezettségeket, a munkavállalókkal kapcsolatos passzív elszámolásokat, az áruszállításból és szolgáltatásból eredő kötelezettségeket.
 
 (6)[^23] Az átértékelési körbe bevonandó eszközöknek és forrásoknak az MNB tv. 147. § (1) bekezdése szerinti értékeléséből adódó árfolyamnyereséget vagy árfolyamveszteséget a saját tőke részét képező, forint árfolyam kiegyenlítési tartalékába kell helyezni.
 
@@ -25,7 +25,7 @@ b) a Nemzetközi Valuta Alap által swap hitel formájában nyújtott devizahite
 (10)[^27]
 
 [^21]: Az 5. § (2) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^22]: Az 5. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 76. §-a, a 70/2015. (III. 30.) Korm. rendelet 44. §-a, a 379/2016. (XII. 2.) korm. rendelet 40. §-a szerint módosított szöveg.
+[^22]: Az 5. § (5) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 76. §-a, a 70/2015. (III. 30.) Korm. rendelet 44. §-a, a 379/2016. (XII. 2.) Korm. rendelet 40. §-a, a 616/2022. (XII. 29.) Korm. rendelet 38. §-a szerint módosított szöveg.
 [^23]: Az 5. § (6) bekezdése a 114/2012. (VI. 8.) Korm. rendelet 3. § (2) bekezdésével megállapított, az 518/2013. (XII. 30.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
 [^24]: Az 5. § (7) bekezdése a 242/2003. (XII. 17.) Korm. rendelet 2. §-ának (2) bekezdésével megállapított, a 362/2014. (XII. 30.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
 [^25]: Az 5. § (8) bekezdése az 547/2022. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
