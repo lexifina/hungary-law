@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-146-20-
 | 2011-08-15 | 2011-146-20-22.1 | 146/2011. (VII. 27.) Korm. rendelet |
 | 2018-01-01 | 2011-146-20-22.2 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2022-01-01 | 2011-146-20-22.3 | 576/2021. (X. 12.) Korm. rendelet |
+| 2023-01-01 | 2011-146-20-22.4 | 569/2022. (XII. 23.) Korm. rendelet |

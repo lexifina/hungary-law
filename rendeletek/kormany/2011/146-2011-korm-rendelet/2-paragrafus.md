@@ -10,7 +10,7 @@ c)[^2]
 
 d)[^3] termőföld igénybevétele esetén a termőföld más célú hasznosítására vonatkozó végleges ingatlanügyi hatósági engedély számát
 
-## kell mellékelni.
+kell mellékelni.
 
 (3) Ha az ügyfél a vízkárelhárítási célú tározó létesítése iránti kérelemhez a (2) bekezdésben meghatározott adatokat nem mellékeli, akkor a hatóság a kérelem elbírálásához adatszolgáltatás iránti kérelemmel fordul az adatokról nyilvántartást vezető ingatlanügyi hatósághoz.
 
