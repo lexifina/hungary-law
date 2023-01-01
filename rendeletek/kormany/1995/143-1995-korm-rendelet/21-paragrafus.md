@@ -4,7 +4,7 @@
 
 21. § (1) Ez a rendelet a kihirdetését követő 90. napon lép hatályba.
 
-(2)[^7]
+(2)[^8]
 
 Melléklet a 143/1995. (XI. 30.) Korm. rendelethez
 
@@ -30,4 +30,4 @@ Az a)—b) pontban foglalt költségek az általános forgalmi adót nem tartalm
 
 4. A jármű értékesítésének költsége: 5000 Ft.
 
-[^7]: A 21. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1397. pontja hatályon kívül helyezte.
+[^8]: A 21. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1397. pontja hatályon kívül helyezte.
