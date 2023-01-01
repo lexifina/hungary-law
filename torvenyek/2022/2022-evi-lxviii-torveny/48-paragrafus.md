@@ -1,1 +1,1 @@
-### 48. §
+48. § Az egyes vagyongazdálkodási kérdésekről, illetve egyes törvényeknek a jogrendszer koherenciájának erősítése érdekében történő módosításáról szóló 2021. évi CI. törvény 11. § (1) bekezdésében a „bekezdése, a 153. §” szövegrész helyébe a „bekezdése, a 9/A. §, a 153. §” szöveg lép.

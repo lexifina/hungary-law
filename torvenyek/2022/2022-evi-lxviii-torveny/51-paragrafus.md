@@ -1,1 +1,1 @@
-### 51. §
+51. § E törvény 27. §-a a 97/67/EK irányelvnek a közösségi postai szolgáltatások belső piacának teljes megvalósítása tekintetében történő módosításáról szóló, 2008. február 20-i 2008/6/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
