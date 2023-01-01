@@ -114,7 +114,7 @@ Budapest XXIII. kerület
 
 196059/1, 196059/2, 196059/3, 196059/4, 196059/5, 196059/6, 196059/7, 196059/8, 196059/9
 
-Bács-Kiskun megye
+Bács-Kiskun vármegye
 
 Kossuth park
 
@@ -128,7 +128,7 @@ Kecskemét
 
 6124/8
 
-Baranya megye
+Baranya vármegye
 
 Bári Mattyasovszky-kastély parkja
 
@@ -214,7 +214,7 @@ Vásárosdombó
 
 0128
 
-Békés megye
+Békés vármegye
 
 Békéscsabai Gerlai-kastély parkja
 
@@ -330,7 +330,7 @@ Tarhos
 
 125, 126, 127, 128, 129, 130/1, 130/2, 131
 
-Borsod-Abaúj-Zemplén megye
+Borsod-Abaúj-Zemplén vármegye
 
 Baradla-barlang aggteleki bejárata előtti park
 
@@ -488,7 +488,7 @@ Vatta
 
 3
 
-Csongrád megye
+Csongrád-Csanád vármegye
 
 Derekegyházi Károlyi-kastély parkja
 
@@ -520,7 +520,7 @@ Szentes
 
 7508/1
 
-Fejér megye
+Fejér vármegye
 
 Alcsúti arborétum
 
@@ -612,7 +612,7 @@ Vajta
 
 562
 
-Győr-Moson-Sopron megye
+Győr-Moson-Sopron vármegye
 
 Dénesfai Cziráky-kastély parkja
 
@@ -692,7 +692,7 @@ Zsira
 
 563/1, 563/2
 
-Hajdú-Bihar megye
+Hajdú-Bihar vármegye
 
 Álmosdi Miskolczy-kúria kertje
 
@@ -742,7 +742,7 @@ Püspökladány
 
 0854/1, 0854/2, 0855, 0856, 0857/6, 0857/7, 0857/8, 0857/9, 0857/10, 0857/11, 0857/12, 0858, 0859/1, 0859/2, 0859/3, 0860, 0861/2, 0861/3, 0861/4, 0861/5, 0861/6, 0868, 0869/2, 0869/3, 0869/5, 0870, 0871/1, 0871/2, 0871/3, 0872, 0874, 0875/1, 0875/2, 0875/3, 0876, 0877/1, 0877/2, 0877/3, 0886/2, 0889, 0891/1, 0891/2, 0891/3, 0892, 0893, 0895, 0896, 0897/2, 0992/3, 0994, 0995, 0997/1, 0997/2, 0998, 0999, 01000, 01001, 01002, 01003
 
-Heves megye
+Heves vármegye
 
 Detki Gosztonyi-kastély kertje
 
@@ -840,7 +840,7 @@ Visonta
 
 0109
 
-Jász-Nagykun-Szolnok megye
+Jász-Nagykun-Szolnok vármegye
 
 Jászalsószentgyörgyi vadaspark
 
@@ -920,7 +920,7 @@ Túrkeve
 
 2074/1
 
-Komárom-Esztergom megye
+Komárom-Esztergom vármegye
 
 Sándor-Metternich-kastély parkja
 
@@ -1006,7 +1006,7 @@ Tata
 
 01134
 
-Nógrád megye
+Nógrád vármegye
 
 Andreánszky-kastély parkja
 
@@ -1134,7 +1134,7 @@ Terény
 
 0161/15
 
-Pest megye
+Pest vármegye
 
 Budakalászi Kemotaxonómiai Botanikus Kert
 
@@ -1220,7 +1220,7 @@ Vácrátót
 
 331
 
-Somogy megye
+Somogy vármegye
 
 Alsóbogátpusztai-Kiskastély parkja
 
@@ -1390,7 +1390,7 @@ Zala
 
 55, 56/2, 111, 212
 
-Szabolcs-Szatmár-Bereg megye
+Szabolcs-Szatmár-Bereg vármegye
 
 Anarcsi Czóbel-kúria kertje
 
@@ -1524,7 +1524,7 @@ Vaja
 
 3
 
-Tolna megye
+Tolna vármegye
 
 Apponyi-kastély parkja
 
@@ -1562,7 +1562,7 @@ Tengelic
 
 054/1, 067/1, 067/3, 069
 
-Vas megye
+Vas vármegye
 
 Acsádi Szegedy-kastély parkja
 
@@ -1714,7 +1714,7 @@ Zsennye
 
 075/1
 
-Veszprém megye
+Veszprém vármegye
 
 Bakonybéli Bencés-kolostor kertje
 
@@ -1794,7 +1794,7 @@ Zirc
 
 209/1, 209/2, 209/3, 211, 213/3
 
-Zala megye
+Zala vármegye
 
 Cserszegtomaji exótakert
 
@@ -1838,4 +1838,4 @@ Zalaapáti
 
 695/1
 
-[^1]: Az 1. melléklet a 20/2013. (III. 21.) VM rendelet 1. §-a, a 38/2015. (VII. 2.) FM rendelet 1. §-a, a 38/2018. (XII. 12.) AM rendelet 1. §-a szerint módosított szöveg.
+[^1]: Az 1. melléklet a 20/2013. (III. 21.) VM rendelet 1. §-a, a 38/2015. (VII. 2.) FM rendelet 1. §-a, a 38/2018. (XII. 12.) AM rendelet 1. §-a, a 125/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
