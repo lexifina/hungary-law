@@ -1,6 +1,6 @@
 ## 5. A járványügyi feladatok
 
-8. § (1)[^3] A Rendvédelmi Közegészségügyi-Járványügyi Szolgálatban közreműködők alkalmazzák a rendvédelmi szervek működési sajátosságainak figyelembevételével a fertőző betegségek és a járványok megelőzése érdekében a jogszabályban előírt mindazon rendelkezéseket, amelyek a személyi állomány hatékony járványvédelme, valamint járvány esetében annak mielőbbi leküzdése céljából szükségesek. A járványügyi intézkedések kidolgozása és végrehajtása során a Rendvédelmi Közegészségügyi-Járványügyi Szolgálatban közreműködők szakmai konzultációt folytatnak a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalával (a továbbiakban: járási hivatal) és a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatallal (a továbbiakban: fővárosi és megyei kormányhivatal).
+8. § (1)[^4] A Rendvédelmi Közegészségügyi-Járványügyi Szolgálatban közreműködők alkalmazzák a rendvédelmi szervek működési sajátosságainak figyelembevételével a fertőző betegségek és a járványok megelőzése érdekében a jogszabályban előírt mindazon rendelkezéseket, amelyek a személyi állomány hatékony járványvédelme, valamint járvány esetében annak mielőbbi leküzdése céljából szükségesek. A járványügyi intézkedések kidolgozása és végrehajtása során a Rendvédelmi Közegészségügyi-Járványügyi Szolgálatban közreműködők szakmai konzultációt folytatnak a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalával (a továbbiakban: járási hivatal) és a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatallal (a továbbiakban: fővárosi és vármegyei kormányhivatal).
 
 (2) A közegészségügyi-járványügyi főfelügyelő, illetve az országos parancsnoksággal nem rendelkező rendvédelmi szervek közegészségügyi-járványügyi felügyelőjének járványügyi feladatát képezi:
 
@@ -12,11 +12,11 @@ c) a személyi állományba tartozó fertőző betegekkel, a fertőzésre gyanú
 
 (3) A közegészségügyi-járványügyi felügyelő és a rendvédelmi szerv alapellátó orvosa javaslatot tesz az állományilletékes parancsnoknak a veszélyeztetett személyi állomány célzott szűrővizsgálatára, a külföldi szolgálatra indulók és abból hazatérők járványügyi szűrővizsgálatára, szükség esetén megfigyelésére.
 
-(4)[^4] A rendvédelmi szerv alapellátó orvosa bejelenti a megbetegedés helye szerint illetékes járási hivatalnak, valamint ezzel egyidejűleg a rendvédelmi szerv közegészségügyi-járványügyi főfelügyelőjének és az 1. melléklet 2. pontjában megjelölt szervek esetében a közegészségügyi-járványügyi felügyelőnek a személyi állomány körében járványosan vagy szórványosan fellépő, jelentésre kötelezett valamennyi fertőző megbetegedést, illetve annak gyanúját.
+(4)[^5] A rendvédelmi szerv alapellátó orvosa bejelenti a megbetegedés helye szerint illetékes járási hivatalnak, valamint ezzel egyidejűleg a rendvédelmi szerv közegészségügyi-járványügyi főfelügyelőjének és az 1. melléklet 2. pontjában megjelölt szervek esetében a közegészségügyi-járványügyi felügyelőnek a személyi állomány körében járványosan vagy szórványosan fellépő, jelentésre kötelezett valamennyi fertőző megbetegedést, illetve annak gyanúját.
 
 (5) A (4) bekezdésben meghatározott esetet követően a rendvédelmi szerv alapellátó orvosa intézkedik a betegségből gyógyult személy fertőzőképességének megállapítására irányuló mikrobiológiai szűrővizsgálat elvégeztetésére.
 
-(6)[^5] A rendvédelmi szerv alapellátó orvosa a járványosan vagy szórványosan fellépő, jelentésre kötelezett fertőző megbetegedés esetén a fertőzőbetegség be- és kijelentőlapot – a megjegyzés rovatban a „BM” megkülönböztető jelzést feltüntetve – megküldi a járási hivatalnak. A polgári nemzetbiztonsági szolgálatok alapellátó orvosa a fertőző betegség be- és kijelentőlapon munkahelyként a Belügyminisztériumot tünteti fel.
+(6)[^6] A rendvédelmi szerv alapellátó orvosa a járványosan vagy szórványosan fellépő, jelentésre kötelezett fertőző megbetegedés esetén a fertőzőbetegség be- és kijelentőlapot – a megjegyzés rovatban a „BM” megkülönböztető jelzést feltüntetve – megküldi a járási hivatalnak. A polgári nemzetbiztonsági szolgálatok alapellátó orvosa a fertőző betegség be- és kijelentőlapon munkahelyként a Belügyminisztériumot tünteti fel.
 
 (7) A közegészségügyi-járványügyi főfelügyelő, illetve az országos parancsnoksággal nem rendelkező szerveknél a közegészségügyi-járványügyi felügyelő a csoportos és tömeges fertőző megbetegedéseket szóban azonnal és írásban 24 órán belül jelenti – a rendvédelmi tisztiorvos egyidejű tájékoztatása mellett – a BM közegészségügyi-járványügyi főfelügyelőjének. A közegészségügyi-járványügyi főfelügyelő és az 1. melléklet 2. pontjában megjelölt szervek közegészségügyi-járványügyi felügyelői – a rendvédelmi szerv alapellátó orvosa által megküldött fertőző beteg bejelentőlap másolata alapján – a C3337022 számú Fertőzőbeteg nyilvántartás című fertőzőbeteg-nyilvántartó könyvben lajstromos nyilvántartást vezetnek. A belügyminiszter által irányított polgári nemzetbiztonsági szolgálatok esetében a nyilvántartás nem tartalmazza a szolgálati beosztást.
 
@@ -24,6 +24,6 @@ c) a személyi állományba tartozó fertőző betegekkel, a fertőzésre gyanú
 
 (9) A rendvédelmi szerveknél fellépő járványok, valamint a különösen veszélyes járványos megbetegedések leküzdésével és más közegészségügyi események okainak megszüntetésével kapcsolatban felmerülő pénzügyi-anyagi szükségletek biztosítása érdekében a rendvédelmi tisztifőorvos javaslatot tesz a belügyminiszternek.
 
-[^3]: A 8. § (1) bekezdése a 11/2015. (III. 31.) BM rendelet 12. § a) pontja szerint módosított szöveg.
-[^4]: A 8. § (4) bekezdése a 11/2015. (III. 31.) BM rendelet 12. § b) pontja szerint módosított szöveg.
-[^5]: A 8. § (6) bekezdése a 11/2015. (III. 31.) BM rendelet 12. § c) pontja szerint módosított szöveg.
+[^4]: A 8. § (1) bekezdése a 11/2015. (III. 31.) BM rendelet 12. § a) pontja, a 45/2022. (XII. 20.) BM rendelet 75. § b) pontja szerint módosított szöveg.
+[^5]: A 8. § (4) bekezdése a 11/2015. (III. 31.) BM rendelet 12. § b) pontja szerint módosított szöveg.
+[^6]: A 8. § (6) bekezdése a 11/2015. (III. 31.) BM rendelet 12. § c) pontja szerint módosított szöveg.

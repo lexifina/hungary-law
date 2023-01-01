@@ -20,7 +20,7 @@ h) vizsgálatokat végeznek a személyi állomány táplálkozási helyzetére, 
 
 i) a h) pont szerinti feladatokkal összefüggésben táplálkozás-egészségügyi vizsgálatokat végeznek.
 
-(2) Az általános rendőrségi feladatok ellátására létrehozott szervnél foglalkoztatott közegészségügyi felügyelő ellátja az Országos Rendőr-főkapitányság központi, fővárosi és megyei szerveinek, kirendeltségeinek, valamint a Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló kormányrendeletben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv egyes feladatok ellátására létrehozott szerveinek közegészségügyi feladatait.
+(2)[^3] Az általános rendőrségi feladatok ellátására létrehozott szervnél foglalkoztatott közegészségügyi felügyelő ellátja az Országos Rendőr-főkapitányság központi, fővárosi és vármegyei szerveinek, kirendeltségeinek, valamint a Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló kormányrendeletben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv egyes feladatok ellátására létrehozott szerveinek közegészségügyi feladatait.
 
 (3) A rendvédelmi tisztiorvos, a közegészségügyi-járványügyi főfelügyelő, illetve az országos parancsnoksággal nem rendelkező rendvédelmi szervek közegészségügyi-járványügyi felügyelője ellenőrzi:
 
@@ -39,3 +39,5 @@ f) az oktatási intézményekre vonatkozó közegészségügyi követelmények, 
 g) a rendvédelmi szervek által szervezett táborok üzemeltetése közegészségügyi feltételeinek a teljesülését.
 
 (4) A közegészségügyi-járványügyi főfelügyelő, illetve az országos parancsnoksággal nem rendelkező rendvédelmi szervek közegészségügyi-járványügyi felügyelője a személyi állomány érintett tagjának szükség szerint kémiai biztonsági, elsősegély-nyújtási, egészségvédelmi, illetve élelmiszer-higiéniai ismereteket oktat.
+
+[^3]: A 7. § (2) bekezdése a 45/2022. (XII. 20.) BM rendelet 75. § a) pontja szerint módosított szöveg.
