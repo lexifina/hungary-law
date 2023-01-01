@@ -1,1 +1,0 @@
-## 49. § A 2017. december 31. napját megelőzően kihelyezett vagy kihelyezésre kerülő, diplomáciai ranggal nem rendelkező, külképviseletre tartós külszolgálatra kihelyezett gazdasági vezetők 2017. december 31. napjáig kötelesek a beosztott diplomata munkakörök betöltésére irányadó szabályok szerint külügyi szakmai vizsgát tenni.

@@ -1,3 +1,0 @@
-34. § (1) A külképviselet a működése során, feladatai ellátása érdekében – figyelembe véve az adott állomáshely országának pénzügyi hagyományait és gyakorlatát, illetve a gazdaságossági szempontokat – operatív lízingszerződést köthet, bankgaranciát vehet igénybe, bankkártyát igényelhet, illetve pénzes utalványt vagy csekket fogadhat el. Operatív lízingszerződés kötéséhez, bankgarancia igénybevételéhez, bankkártyaigényléshez a kihelyező szerv előzetes írásbeli engedélye szükséges.
-
-(2) Bankkártyahasználat során a külképviselet adósságot nem keletkeztethet. A külképviseletnek a bankkártya használata során folyószámla-fedezettel kell rendelkeznie. A bankkártyahasználat szabályait a külképviselet-vezető írásban szabályozza.

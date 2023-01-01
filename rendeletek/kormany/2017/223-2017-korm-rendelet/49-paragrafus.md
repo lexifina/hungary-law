@@ -1,1 +1,0 @@
-## 48. § A pénztárellenőr-helyettesek kijelöléséről, vizsgáztatásáról legkésőbb 2017. december 31-éig kell gondoskodni. A pénztárellenőr-helyettesek kijelöléséig a külképviselet vezetője látja el a pénztárellenőr-helyettesi feladatkört.

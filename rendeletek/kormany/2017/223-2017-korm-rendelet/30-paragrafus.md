@@ -1,5 +1,0 @@
-30. § (1) A külképviselet gazdálkodási tevékenysége során kötelezettségvállalási, pénzügyi ellenjegyzési, érvényesítési, utalványozási és teljesítési igazolásra irányuló feladatot abban az esetben végezheti az a személy, aki ezt a tevékenységet a Polgári Törvénykönyvről szóló törvény szerinti közeli hozzátartozója vagy maga javára látná el, ha az összeférhetetlenség alól a kihelyező szerv gazdasági vezetője írásban felmentést ad részére.
-
-(2) A külképviselet a kötelezettségvállalásra, pénzügyi ellenjegyzésre, teljesítésigazolásra, érvényesítésre, utalványozásra és pénztárellenőrzésre jogosult személyekről és aláírásmintájukról – elektronikus aláírás alkalmazása esetén a használt tanúsítványokról és az elektronikus aláíráshoz kapcsolódó tanúsítvány nyilvános adatairól – naprakész nyilvántartást vezet.
-
-(3) A központi költségvetésről szóló törvény szerinti, a külpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetén belüli Külképviseletek Igazgatása cím vonatkozásában az érvényesítési feladatokat ellátó személynek a 25. § (1) bekezdés szerinti végzettséggel kell rendelkeznie.

@@ -1,1 +1,0 @@
-## 7. § A külképviselet gazdálkodása során köteles tiszteletben tartani és betartani a fogadó állam adózására és a külképviseletek által foglalkoztatott munkavállalók foglalkoztatására vonatkozó jogszabályait.
