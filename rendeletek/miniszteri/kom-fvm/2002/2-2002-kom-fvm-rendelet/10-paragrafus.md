@@ -1,6 +1,6 @@
 10. § (1) A támogatási szerződés teljesítésének ellenőrzésére jogosult:
 
-a)[^7] a VM,
+a)[^7] a miniszter,
 
 b) az igazgatóság,
 
@@ -16,4 +16,4 @@ c) a támogatást folyósító szerv.
 
 (6) A felülvizsgálat eredményeit a későbbi előírások és tevékenységek meghatározása során figyelembe kell venni.
 
-[^7]: A 10. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 12. § i) pontjával megállapított szöveg. [A 10. § (1) bekezdés a) pontjában a 42/2017. (VIII. 17.) FM rendelet 28. § e) pontjával elrendelt módosítás, amely szerint az „az VM” szövegrész helyébe az „a miniszter” szöveg lép, nem vezethető át.]
+[^7]: A 10. § (1) bekezdés a) pontja a 63/2022. (XII. 27.) AM rendelet 1. § d) pontja szerint módosított szöveg.

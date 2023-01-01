@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-2-20-66
 | 2002-01-23 | 2002-2-20-66.1 | 2/2002. (I. 23.) KöM–FVM együttes rendelet |
 | 2013-08-01 | 2002-2-20-66.2 | 70/2013. (VII. 31.) VM rendelet |
 | 2017-08-18 | 2002-2-20-66.3 | 42/2017. (VIII. 17.) FM rendelet |
+| 2023-01-01 | 2002-2-20-66.4 | 63/2022. (XII. 27.) AM rendelet |

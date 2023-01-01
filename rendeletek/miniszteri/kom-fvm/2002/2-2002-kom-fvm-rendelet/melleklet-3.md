@@ -1,4 +1,4 @@
-| Megye | Település kódja | Települések neve |
+| Vármegye | Település kódja | Települések neve |
 
 | 1.3. | A Sajó és a Hernád köze |
 

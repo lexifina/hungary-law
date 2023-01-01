@@ -22,7 +22,7 @@ e) az előírások betartásának ellenőrzésére vonatkozó szabályokat;
 
 f) egyéb, a támogatás szempontjából lényeges információkat.
 
-(5)[^5] A felhívást a Földművelésügyi Minisztérium hivatalos lapjában és legalább egy országos és egy – az adott térséget magában foglaló – regionális lapban közzé kell tenni. A felhívást az érintett települések önkormányzati, valamint az igazgatóság és a járási hivatal hirdetőtáblájára is ki kell függeszteni.
+(5)[^5] A felhívást a természetvédelemért felelős miniszter által vezetett minisztérium hivatalos lapjában és legalább egy országos és egy – az adott térséget magában foglaló – regionális lapban közzé kell tenni. A felhívást az érintett települések önkormányzati, valamint az igazgatóság és a kormányhivatal hirdetőtáblájára is ki kell függeszteni.
 
 [^4]: A 8. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 28. § e) pontja szerint módosított szöveg.
-[^5]: A 8. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 28. § b) és f) pontja szerint módosított szöveg.
+[^5]: A 8. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 28. § b) és f) pontja, a 63/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

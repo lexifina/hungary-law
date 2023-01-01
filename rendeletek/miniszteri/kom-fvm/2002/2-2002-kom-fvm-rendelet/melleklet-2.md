@@ -1,6 +1,6 @@
 ## Az ÉTT kijelölt térségei kategóriánként[^9]
 
-## 1.1. Kiemelten fontos ÉTT-ek térségei
+## 1.1.[^10] Kiemelten fontos ÉTT-ek térségei
 
 ## ------------------
 
@@ -42,7 +42,7 @@
 
 ## A Balaton déli vízgyűjtőjének szárazulatai, berkek, halastavak, nádasok, gyepek és lápos talajon kialakult szántók
 
-## Fás legelők Baranya megyében
+## Fás legelők Baranya vármegyében
 
 ## DINPI
 
@@ -218,13 +218,13 @@
 
 2. számú melléklet a 2/2002. (I. 23.) KöM–FVM
 
-együttes rendelethez
+együttes rendelethez[^11]
 
-## Érzékeny természeti területekkel érintett települések felsorolása
+Érzékeny természeti területekkel érintett települések felsorolása
 
 I. Kiemelten fontos ÉTT-ek térségei
 
-| Megye | Település kódja | Települések neve |
+| Vármegye | Település kódja | Települések neve |
 
 | 1.1.1. | Észak-Cserehát |
 
@@ -914,7 +914,7 @@ I. Kiemelten fontos ÉTT-ek térségei
 
 | Somogy | 06008 | Zamárdi |
 
-| 4.1.2. | Fás legelők Baranya megyében |
+| 4.1.2. | Fás legelők Baranya vármegyében |
 
 | Baranya | 06868 | Adorjás |
 
@@ -1900,9 +1900,9 @@ I. Kiemelten fontos ÉTT-ek térségei
 
 | 8.1.2. | A Tisza homokhátsági vízgyűjtője |
 
-| Csongrád | 10339 | Ásotthalom |
+| Csongrád-Csanád | 10339 | Ásotthalom |
 
-| Csongrád | 23676 | Balástya |
+| Csongrád-Csanád | 23676 | Balástya |
 
 | Bács-Kiskun | 13408 | Ballószög |
 
@@ -1914,15 +1914,15 @@ I. Kiemelten fontos ÉTT-ek térségei
 
 | Bács-Kiskun | 33631 | Bugacpusztaháza |
 
-| Csongrád | 32285 | Csengele |
+| Csongrád-Csanád | 32285 | Csengele |
 
 | Bács-Kiskun | 12025 | Csólyospálos |
 
-| Csongrád | 05111 | Csongrád |
+| Csongrád-Csanád | 05111 | Csongrád |
 
 | Bács-Kiskun | 33598 | Felsőlajos |
 
-| Csongrád | 33020 | Forráskút |
+| Csongrád-Csanád | 33020 | Forráskút |
 
 | Bács-Kiskun | 33622 | Fülöpjakab |
 
@@ -1982,7 +1982,7 @@ I. Kiemelten fontos ÉTT-ek térségei
 
 | Bács-Kiskun | 15398 | Pirtó |
 
-| Csongrád | 06354 | Pusztamérges |
+| Csongrád-Csanád | 06354 | Pusztamérges |
 
 | Bács-Kiskun | 19983 | Soltvadkert |
 
@@ -2000,7 +2000,7 @@ I. Kiemelten fontos ÉTT-ek térségei
 
 | Jász-Nagykun-Szolnok | 14094 | Tiszaug |
 
-| Csongrád | 25900 | Tömörkény |
+| Csongrád-Csanád | 25900 | Tömörkény |
 
 | Bács-Kiskun | 10667 | Városföld |
 
@@ -2046,37 +2046,37 @@ I. Kiemelten fontos ÉTT-ek térségei
 
 | 9.1.2. | Vásárhelyi-Csanádi puszták |
 
-| Csongrád | 16197 | Ambrózfalva |
+| Csongrád-Csanád | 16197 | Ambrózfalva |
 
-| Csongrád | 14252 | Apátfalva |
+| Csongrád-Csanád | 14252 | Apátfalva |
 
 | Békés | 26189 | Békéssámson |
 
-| Csongrád | 02121 | Csanádalberti |
+| Csongrád-Csanád | 02121 | Csanádalberti |
 
-| Csongrád | 05379 | Csanádpalota |
+| Csongrád-Csanád | 05379 | Csanádpalota |
 
-| Csongrád | 08314 | Hódmezővásárhely |
+| Csongrád-Csanád | 08314 | Hódmezővásárhely |
 
 | Békés | 12177 | Kardoskút |
 
-| Csongrád | 13666 | Királyhegyes |
+| Csongrád-Csanád | 13666 | Királyhegyes |
 
-| Csongrád | 09955 | Kövegy |
+| Csongrád-Csanád | 09955 | Kövegy |
 
-| Csongrád | 05962 | Magyarcsanád |
+| Csongrád-Csanád | 05962 | Magyarcsanád |
 
-| Csongrád | 07357 | Makó |
+| Csongrád-Csanád | 07357 | Makó |
 
-| Csongrád | 20914 | Nagyér |
+| Csongrád-Csanád | 20914 | Nagyér |
 
-| Csongrád | 17233 | Nagymágocs |
+| Csongrád-Csanád | 17233 | Nagymágocs |
 
 | Békés | 23065 | Orosháza |
 
-| Csongrád | 06284 | Pitvaros |
+| Csongrád-Csanád | 06284 | Pitvaros |
 
-| Csongrád | 12265 | Székkutas |
+| Csongrád-Csanád | 12265 | Székkutas |
 
 | Békés | 16434 | Tótkomlós |
 
@@ -2116,7 +2116,7 @@ I. Kiemelten fontos ÉTT-ek térségei
 
 II. Fontos ÉTT-ek térségei
 
-| Megye | Település kódja | Települések neve |
+| Vármegye | Település kódja | Települések neve |
 
 | 1.2.1. | Putnoki-dombvidék |
 
@@ -3250,9 +3250,9 @@ II. Fontos ÉTT-ek térségei
 
 | Békés | 31334 | Csabacsüd |
 
-| Csongrád | 22992 | Eperjes |
+| Csongrád-Csanád | 22992 | Eperjes |
 
-| Csongrád | 19974 | Fábiánsebestyén |
+| Csongrád-Csanád | 19974 | Fábiánsebestyén |
 
 | Békés | 09511 | Gádoros |
 
@@ -3260,13 +3260,13 @@ II. Fontos ÉTT-ek térségei
 
 | Békés | 08244 | Nagyszénás |
 
-| Csongrád | 29179 | Nagytőke |
+| Csongrád-Csanád | 29179 | Nagytőke |
 
 | Békés | 23870 | Szarvas |
 
 | Jász-Nagykun-Szolnok | 20428 | Szelevény |
 
-| Csongrád | 14456 | Szentes |
+| Csongrád-Csanád | 14456 | Szentes |
 
 | 9.2.3. | Kígyósi területek |
 
@@ -3307,3 +3307,5 @@ II. Fontos ÉTT-ek térségei
 III. Tervezett ÉTT-ek térségei
 
 [^9]: A jegyzék a 2001. december 31-ig kijelölt ÉTT-et tartalmazza. Az ÉTT kijelölt térségeinek térképi adatállománya az illetékes nemzeti park igazgatóságon áll rendelkezésre. A térségek megnevezése eltérhet a tájegységek földrajzi nevétől.
+[^10]: Az 1. számú melléklet 1.1. pontja a 63/2022. (XII. 27.) AM rendelet 1. § f) pontja szerint módosított szöveg.
+[^11]: A 2. melléklet a 63/2022. (XII. 27.) AM rendelet 1. § f), g) és h) pontja szerint módosított szöveg.

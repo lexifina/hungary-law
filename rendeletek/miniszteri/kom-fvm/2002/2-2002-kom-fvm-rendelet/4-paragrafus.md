@@ -18,6 +18,6 @@ f) a földrészletek természeti értékeinek, illetve az extenzív gazdálkodá
 
 g) a monitoring és értékelő rendszer tartalmi elemeit.
 
-(3)[^1] A javaslat alapján az igazgatóság elvégzi az ÉTT megvalósíthatósági elemzését e rendelet 3. számú melléklete szerinti tartalommal, és a létesítési eljárás megkezdéséről – de legkésőbb a javaslat beérkezést követő 90 napon belül – az igazgatóság tájékoztatja az érintett ingatlanok tulajdonosait (vagyonkezelőit), valamint hirdetményi úton – az érintett települési önkormányzat, az igazgatóság, valamint az illetékes megyei kormányhivatal földművelésügyi igazgatási hatáskörben eljáró megyeszékhely szerinti járási hivatala (a továbbiakban: járási hivatal) a helyben szokásos módon – a nyilvánosságot.
+(3)[^1] A javaslat alapján az igazgatóság elvégzi az ÉTT megvalósíthatósági elemzését e rendelet 3. számú melléklete szerinti tartalommal, és a létesítési eljárás megkezdéséről – de legkésőbb a javaslat beérkezést követő 90 napon belül – az igazgatóság tájékoztatja az érintett ingatlanok tulajdonosait (vagyonkezelőit), valamint hirdetményi úton – az érintett települési önkormányzat, az igazgatóság, valamint a földművelésügyi igazgatási hatáskörben eljáró kormányhivatal a helyben szokásos módon – a nyilvánosságot.
 
-[^1]: A 4. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 28. § a) pontja szerint módosított szöveg.
+[^1]: A 4. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 28. § a) pontja, a 63/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
