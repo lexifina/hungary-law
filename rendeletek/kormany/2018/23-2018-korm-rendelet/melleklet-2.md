@@ -22,13 +22,13 @@
 
 | 11. | Budapest közigazgatási területén elhelyezkedő, 75845 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-| 12. | Kisvárda közigazgatási területén elhelyezkedő, 3188/1 helyrajzi számú ingatlan | Szabolcs-Szatmár-Bereg Megyei Kormányhivatalt vezető főispán |
+| 12. | Kisvárda közigazgatási területén elhelyezkedő, 3188/1 helyrajzi számú ingatlan | Szabolcs-Szatmár-Bereg Vármegyei Kormányhivatalt vezető főispán |
 
-| 13. | Hajdúböszörmény közigazgatási területén elhelyezkedő, 7828 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető főispán |
+| 13. | Hajdúböszörmény közigazgatási területén elhelyezkedő, 7828 helyrajzi számú ingatlan | Hajdú-Bihar Vármegyei Kormányhivatalt vezető főispán |
 
-| 14. | Hajdúböszörmény közigazgatási területén elhelyezkedő, 7830 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető főispán |
+| 14. | Hajdúböszörmény közigazgatási területén elhelyezkedő, 7830 helyrajzi számú ingatlan | Hajdú-Bihar Vármegyei Kormányhivatalt vezető főispán |
 
-| 15. | Hajdúböszörmény közigazgatási területén elhelyezkedő, 829/13 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető főispán |
+| 15. | Hajdúböszörmény közigazgatási területén elhelyezkedő, 829/13 helyrajzi számú ingatlan | Hajdú-Bihar Vármegyei Kormányhivatalt vezető főispán |
 
 | 16. |  |  |
 
@@ -48,21 +48,21 @@
 
 | 24. |  |  |
 
-| 25. | Vác közigazgatási területén elhelyezkedő, 4165/5 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető főispán |
+| 25. | Vác közigazgatási területén elhelyezkedő, 4165/5 helyrajzi számú ingatlan | Pest Vármegyei Kormányhivatalt vezető főispán |
 
-| 26. | Vác közigazgatási területén elhelyezkedő, 4164 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető főispán |
+| 26. | Vác közigazgatási területén elhelyezkedő, 4164 helyrajzi számú ingatlan | Pest Vármegyei Kormányhivatalt vezető főispán |
 
-| 27. | Győr közigazgatási területén elhelyezkedő, 5474/1 helyrajzi számú ingatlan | Győr-Moson-Sopron Megyei Kormányhivatalt vezető főispán |
+| 27. | Győr közigazgatási területén elhelyezkedő, 5474/1 helyrajzi számú ingatlan | Győr-Moson-Sopron Vármegyei Kormányhivatalt vezető főispán |
 
-| 28. | Győr közigazgatási területén elhelyezkedő, 5474/2 helyrajzi számú ingatlan | Győr-Moson-Sopron Megyei Kormányhivatalt vezető főispán |
+| 28. | Győr közigazgatási területén elhelyezkedő, 5474/2 helyrajzi számú ingatlan | Győr-Moson-Sopron Vármegyei Kormányhivatalt vezető főispán |
 
-| 29. | Hajdúnánás közigazgatási területén elhelyezkedő, 763/4 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető főispán |
+| 29. | Hajdúnánás közigazgatási területén elhelyezkedő, 763/4 helyrajzi számú ingatlan | Hajdú-Bihar Vármegyei Kormányhivatalt vezető főispán |
 
-| 30. | Hajdúnánás közigazgatási területén elhelyezkedő, 763/3 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető főispán |
+| 30. | Hajdúnánás közigazgatási területén elhelyezkedő, 763/3 helyrajzi számú ingatlan | Hajdú-Bihar Vármegyei Kormányhivatalt vezető főispán |
 
-| 31. | Hajdúnánás közigazgatási területén elhelyezkedő, 774 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető főispán |
+| 31. | Hajdúnánás közigazgatási területén elhelyezkedő, 774 helyrajzi számú ingatlan | Hajdú-Bihar Vármegyei Kormányhivatalt vezető főispán |
 
-| 32. | Hajdúnánás közigazgatási területén elhelyezkedő, 0855/9 helyrajzi számú ingatlan | Hajdú-Bihar Megyei Kormányhivatalt vezető főispán |
+| 32. | Hajdúnánás közigazgatási területén elhelyezkedő, 0855/9 helyrajzi számú ingatlan | Hajdú-Bihar Vármegyei Kormányhivatalt vezető főispán |
 
 | 33. |  |  |
 
