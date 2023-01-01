@@ -1,0 +1,1 @@
+Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 260. § (1) bekezdés g) pontjában foglalt felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 148. § (1) bekezdés 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
