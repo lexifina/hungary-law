@@ -44,3 +44,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-257-20-
 | 2021-07-01 | 2000-257-20-22.44 | 418/2015. (XII. 23.) Korm. rendelet |
 | 2022-01-01 | 2000-257-20-22.45 | 663/2021. (XII. 1.) Korm. rendelet |
 | 2022-07-01 | 2000-257-20-22.46 | 224/2007. (VIII. 31.) Korm. rendelet |
+| 2023-01-01 | 2000-257-20-22.47 | 629/2022. (XII. 30.) Korm. rendelet |
