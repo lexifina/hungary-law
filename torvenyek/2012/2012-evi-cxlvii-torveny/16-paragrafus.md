@@ -42,6 +42,6 @@ e) az adóévet megelőző adóévéről készítendő beszámolójában a mérl
 
 f) ellenőrzött külföldi társasággal az adóévet megelőző adóévben nem rendelkezik;
 
-g) az az összeg, amellyel az adózó vállalkozási tevékenysége érdekében felmerült, Tao. tv. szerinti finanszírozási költségei meghaladják az adózó adóköteles kamatbevételeit és a gazdasági értelemben azzal egyenértékűnek tekintendő adóköteles bevételeit, az adóévet megelőző adóévben várhatóan nem haladja meg a 939 810 000 forintot.
+g) az adóévet megelőző adóévben a Tao. tv. 7. § (1) bekezdés ny) pontja, illetve 8. § (1) bekezdés j) pontja alkalmazásával társasági adóalap módosítást várhatóan nem kell végrehajtania.
 
 (3) A (2) bekezdésben meghatározott állományi létszám és bevételi határok számítása során a kapcsolt vállalkozások átlagos statisztikai állományi létszámát és bevételét együttesen, az utolsó beszámolóval lezárt üzleti év adatai alapján kell figyelembe venni.

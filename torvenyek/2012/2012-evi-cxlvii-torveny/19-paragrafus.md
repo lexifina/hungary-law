@@ -18,7 +18,7 @@ c) ha az adóalany végelszámolási vagy felszámolási eljárás nélkül szű
 
 d) az adóalany egyesülését, szétválását megelőző nappal;
 
-e) az állami adó- és vámhatóság határozata véglegessé válásának napját megelőző hónap utolsó napjával, ha az adóalany terhére az állami adó- és vámhatóság számla- vagy nyugtaadási kötelezettség elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért jogerősen mulasztási bírságot, jövedéki bírságot állapított meg;
+e) az állami adó- és vámhatóság határozata véglegessé válásának napját megelőző hónap utolsó napjával, ha az adóalany terhére az állami adó- és vámhatóság számla- vagy nyugtakibocsátási kötelezettség elmulasztásáért, be nem jelentett alkalmazott foglalkoztatásáért vagy igazolatlan eredetű áru forgalmazásáért véglegessé vált döntéssel mulasztási bírságot, jövedéki bírságot állapított meg;
 
 f) az adóalany adószámának alkalmazását törlő határozat véglegessé válásának hónapját megelőző hónap utolsó napjával;
 
@@ -32,7 +32,9 @@ j) az üzleti év mérlegfordulónapjának megváltoztatása esetén a választo
 
 k) ha az adózó ellenőrzött külföldi társasággal rendelkezik, annak az adóévnek az első napját megelőző nappal, amely adóévben a külföldi vállalkozónak nem minősülő külföldi személy vagy külföldi telephely ellenőrzött külföldi társaságnak minősül;
 
-l) ha az az összeg, amellyel az adózó vállalkozási tevékenysége érdekében felmerült, Tao. tv. szerinti finanszírozási költségei meghaladják az adózó adóköteles kamatbevételeit és a gazdasági értelemben azzal egyenértékűnek tekintendő, adóköteles bevételeit az adóévben várhatóan meghaladja a 939.810.000 forintot, az adóév első napját megelőző nappal.
+l) ha az adózónak az adóévben a Tao. tv. 7. § (1) bekezdés ny) pontja, illetve 8. § (1) bekezdés j) pontja alkalmazásával társasági adóalap módosítást kellene végrehajtania, az adóév első napját megelőző nappal,
+
+m) ha az adózónak az adóévben a Tao. tv. 16/A. §-a, illetve 16/B. §-a alkalmazásával társasági adóalap módosítást kellene végrehajtania, az adóév első napját megelőző nappal.
 
 (6) Nem szűnik meg az egyéni cég adóalanyisága, ha a tag halála esetén özvegye, özvegy hiányában vagy annak egyetértésével örököse (örökösei), illetve a tag cselekvőképtelenségét vagy cselekvőképességének korlátozását kimondó bírósági határozat esetén a tag nevében és javára eljárva törvényes képviselője az egyéni cég tagjává válik, és az e törvény szerinti adóalanyiságot választja. Választását az ok bekövetkeztétől számított harminc napon belül jelenti be az állami adó- és vámhatóságnak.
 

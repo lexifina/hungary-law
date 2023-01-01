@@ -1,6 +1,6 @@
 2. § E törvény alkalmazásában
 
-1. átlagos statisztikai állományi létszám: a Központi Statisztikai Hivatal által kiadott Útmutató a munkaügy-statisztikai adatszolgáltatáshoz című kiadvány 2009. január 1. napján érvényes szabályai szerint meghatározott állományi létszám;
+1. átlagos statisztikai állományi létszám: a Központi Statisztikai Hivatal által a munkaügyi-statisztikai adatszolgáltatáshoz kiadott, az adóév első napján hatályos kiadvány szerint meghatározott állományi létszám;
 
 2. beszámoló: a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.), vagy a felhatalmazása alapján kiadott jogszabály szerinti beszámoló, kivéve az összevont (konszolidált) éves beszámolót;
 
@@ -60,7 +60,7 @@ a) a 19. pont a) alpontja szerinti kedvezményezett foglalkoztatott esetében sz
 
 b) a 19. pont b) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér a foglalkoztatás első két évében, továbbá személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér 50 százaléka a foglalkoztatás harmadik évében;
 
-c) a 19. pont c) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér a foglalkoztatás első három évében, továbbá személyenként a minimálbér 50 százaléka a foglalkoztatás negyedik és ötödik évében;
+c) a 19. pont c) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér a foglalkoztatás első három évében, továbbá személyenként a bruttó munkabér havi összege, de havonta legfeljebb a minimálbér 50 százaléka a foglalkoztatás negyedik és ötödik évében;
 
 d) a 19. pont d) alpontja szerinti kedvezményezett foglalkoztatott esetében személyenként a foglalkoztatott után megállapított Szocho. tv. szerinti adóalap, de havonta legfeljebb a minimálbér kétszerese;
 

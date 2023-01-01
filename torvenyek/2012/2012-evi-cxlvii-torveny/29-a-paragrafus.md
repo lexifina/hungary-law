@@ -8,6 +8,6 @@ b) a Tanács 2009/133/EK irányelve (2009. október 19.) a különböző tagáll
 
 c) a Tanács 2011/96/EU irányelve (2011. november 30.) a különböző tagállamok anya- és leányvállalatai esetében alkalmazandó adóztatás közös rendszeréről;
 
-d) a Tanács 2016/1164 EU irányelve (2016. július 12.) a belső piac működését közvetlenül érintő adókikerülési gyakorlatok elleni szabályok megállapításáról.
+d) a Tanács 2016/1164 EU irányelve (2016. július 12.) a belső piac működését közvetlenül érintő adókikerülési gyakorlatok elleni szabályok megállapításáról és a Tanács 2017/952 EU irányelve (2017. május 29.) az (EU) 2016/1164 irányelvnek a harmadik országokat érintő hibrid struktúrákból adódó diszkrepanciák tekintetében történő módosításáról.
 
 (2) E törvény a Gazdasági Együttműködési és Fejlesztési Szervezet Adóalap-erózió és Nyereség-átcsoportosítás Projekt 4. akciópontja kapcsán publikált jelentés figyelembevételével készült szabályozást tartalmaz.

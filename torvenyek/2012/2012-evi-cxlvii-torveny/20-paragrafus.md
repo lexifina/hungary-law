@@ -12,7 +12,7 @@ növelt összege, de legalább a b) pont szerinti összeg.
 
 a) azon személyi jellegű ráfordítás, amely a Tbj. szerint járulékalapot képez az adóévben,
 
-b) az a) ponttól eltérően tag esetén a Tbj. 4. § 14. pont 14.2. alpontja szerinti minimálbér 112,5%-a, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb, azzal, hogy nem kell figyelembe venni a minimálbér 112,5%-át arra az időszakra, amelyre a tagnak nem keletkezik a Tbj. 39. §-a szerinti járulékalap utáni járulékfizetési kötelezettsége,
+b) az a) ponttól eltérően tag esetén a Tbj. 4. § 14. pont 14.2. alpontja szerinti minimálbér 112,5%-a, ha a tagra jutó személyi jellegű ráfordítás ennél alacsonyabb, azzal, hogy nem kell figyelembe venni a minimálbér 112,5%-át arra az időszakra vonatkozóan, amelyre a tagnak nem keletkezik a Tbj. 39. §-a szerinti járulékalap utáni járulékfizetési kötelezettsége,
 
 c) a Szocho. tv. 1. § (4) bekezdés a) pontja szerinti béren kívüli juttatás,
 
@@ -48,7 +48,7 @@ b) a kapott (járó) osztalék címén az adóévben elszámolt, a külföldön 
 
 c) a pénztár értékének tárgyévi csökkenését, de legfeljebb a pénztár előző évi mérlegben kimutatott értékének a mentesített értéket meghaladó részét; a kisvállalati adóalanyiság megszűnésének adóévében a pénztár előző évi mérlegben kimutatott értékének és mentesített értékének pozitív különbözetét,
 
-d) a 2017. január 1-je előtt a kisvállalati adó hatálya alá tartozó vállalkozásnál e törvény 2013. január 1-je és 2016. december 31-e között hatályos 20. § (4) bekezdés e) és f) pontjai szerint elszámolt csökkentés, e törvény 2013. január 1-je és 2016. december 31-e között hatályos 20. § (5) bekezdés e) és f) pontja és 20. § (6)–(8) bekezdése szerint elszámolt növelés összegével csökkentett, a 2013–2016. adóévek pénzforgalmi szemléletű eredményével növelt pozitív összegét.
+d)
 
 (5) Amennyiben az adózó kapcsolt vállalkozásával kötött szerződésében, megállapodásában olyan ellenértéket (ügyleti értéket) határoz meg, amely nem felel meg a szokásos piaci árnak, – az (1)–(4) bekezdésben foglaltaktól függetlenül – az adóalapot a szokásos piaci ár és az ügyleti érték különbségével úgy módosítja, hogy az olyan adóalapnak feleljen meg, mint ha független vállalkozással kötött volna szerződést, megállapodást, feltéve, hogy a szerződés, megállapodás alapján az adóévben teljesítés történt. A szokásos piaci árat a Tao. tv. 18. § (2) bekezdésében meghatározott módszer szerint, a Tao. tv. 18. § (9), (11) és (12) bekezdésében foglalt rendelkezések figyelembevételével kell megállapítani.
 

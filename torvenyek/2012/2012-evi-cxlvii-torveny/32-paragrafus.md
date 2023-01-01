@@ -8,9 +8,9 @@
 
 (5) Az állami adó- és vámhatóság e törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított módosításairól 2016. november 1-jéig tájékoztatást nyújt az érintett adózónak.
 
-(6) Az állami adó- és vámhatóság a nyilvántartásában szereplő adatok alapján megállapítja az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (4) bekezdés d) pontja szerinti csökkentő tétel összegét és arról, valamint annak levezetéséről 2017. december 31-ig tájékoztatást küld az érintett adózónak.
+(6)
 
-(7) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (4) bekezdés d) pontját az adózó abban az adóévben alkalmazhatja, melynek első napja 2017-ben van.
+(7)
 
 (8) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 20. § (3) bekezdés b) pontját és 20. § (4) bekezdés b) pontját a 2017. adóévi adókötelezettség megállapításakor a kisvállalati adóalanyiság időszaka alatt jóváhagyott, de még be nem folyt vagy ki nem fizetett osztalék összegére is alkalmazni kell.
 
