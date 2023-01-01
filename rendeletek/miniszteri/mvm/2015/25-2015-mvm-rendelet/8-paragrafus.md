@@ -1,16 +1,14 @@
-## 7. §[^14]
-
-8. § (1)[^15] A fővárosi és megyei kormányhivatalokat vezető főispánok a kormányhivatalok honvédelmi feladatainak megszervezése és végrehajtása érdekében gondoskodnak:
+8. § (1)[^15] A fővárosi és vármegyei kormányhivatalokat vezető főispánok a kormányhivatalok honvédelmi feladatainak megszervezése és végrehajtása érdekében gondoskodnak:
 
 a) a honvédelmi feladatok végrehajtásában részt vevő szervezeti egységek kijelöléséről, a feladatok végrehajtásához szükséges feltételek megteremtéséről;
 
-b) a fővárosi és megyei kormányhivatalokon belüli riasztási-értesítési rendszer megszervezéséről és az ügyeleti szolgálat biztosításáról;
+b)[^16] a fővárosi és vármegyei kormányhivatalokon belüli riasztási-értesítési rendszer megszervezéséről és az ügyeleti szolgálat biztosításáról;
 
-c)[^16] a fővárosi és megyei kormányhivatalok KMR-ben való működőképességének fenntartására vonatkozó, valamint a honvédelmi feladatok ellátásával kapcsolatos egyéb védelmi igazgatási tervek elkészítéséről és kiadásáról;
+c)[^17] a fővárosi és vármegyei kormányhivatalok KMR-ben való működőképességének fenntartására vonatkozó, valamint a honvédelmi feladatok ellátásával kapcsolatos egyéb védelmi igazgatási tervek elkészítéséről és kiadásáról;
 
 d) a c) pont szerinti egyéb védelmi igazgatási tervek időszakos felülvizsgálatáról és a szükséges módosítások elvégzéséről;
 
-e) a fővárosi és megyei kormányhivatalok számára a KMR idején szükséges anyagi-, eszköz-, elhelyezési- és szállítókapacitási igények felméréséről;
+e)[^18] a fővárosi és vármegyei kormányhivatalok számára a KMR idején szükséges anyagi-, eszköz-, elhelyezési- és szállítókapacitási igények felméréséről;
 
 f) KMR idején a vagyon- és személyvédelemhez, valamint a dokumentációk biztonságba helyezéséhez szükséges feltételek biztosításáról;
 
@@ -18,9 +16,9 @@ g) a Nemzeti Intézkedések Gyűjteményében meghatározott feladatok teljesít
 
 h) a befogadó nemzeti támogatással kapcsolatos feladatok végrehajtásáról, és
 
-i) a fővárosi és megyei kormányhivatalok személyi állományának a honvédelmi feladatokra való felkészítéséről.
+i)[^19] a fővárosi és vármegyei kormányhivatalok személyi állományának a honvédelmi feladatokra való felkészítéséről.
 
-(2) A fővárosi és megyei kormányhivatalok közreműködnek
+(2)[^20] A fővárosi és vármegyei kormányhivatalok közreműködnek
 
 a) az ország fegyveres védelmével kapcsolatos feladatok végrehajtásában;
 
@@ -30,6 +28,9 @@ c) a lakosság honvédelmi célú tájékoztatásában, szükség esetén a rias
 
 d) a honvédelmi célú felkészítések végrehajtásában.
 
-[^14]: A 7. §-t a 8/2021. (V. 31.) MvM rendelet 3. § c) pontja hatályon kívül helyezte.
-[^15]: A 8. § (1) bekezdés nyitó szövegrésze a 12/2022. (VIII. 31.) MvM rendelet 1. §-a szerint módosított szöveg.
-[^16]: A 8. § (1) bekezdés c) pontja a 8/2019. (V. 13.) MvM rendelet 2. §-ával megállapított szöveg.
+[^15]: A 8. § (1) bekezdés nyitó szövegrésze a 12/2022. (VIII. 31.) MvM rendelet 1. §-a, a 21/2022. (XII. 28.) MVM rendelet 7. §-a szerint módosított szöveg.
+[^16]: A 8. § (1) bekezdés b) pontja a 21/2022. (XII. 28.) MVM rendelet 7. §-a szerint módosított szöveg.
+[^17]: A 8. § (1) bekezdés c) pontja a 8/2019. (V. 13.) MvM rendelet 2. §-ával megállapított, a 21/2022. (XII. 28.) MVM rendelet 7. §-a szerint módosított szöveg.
+[^18]: A 8. § (1) bekezdés e) pontja a 21/2022. (XII. 28.) MVM rendelet 7. §-a szerint módosított szöveg.
+[^19]: A 8. § (1) bekezdés i) pontja a 21/2022. (XII. 28.) MVM rendelet 7. §-a szerint módosított szöveg.
+[^20]: A 8. § (2) bekezdés nyitó szövegrésze a 21/2022. (XII. 28.) MVM rendelet 7. §-a szerint módosított szöveg.
