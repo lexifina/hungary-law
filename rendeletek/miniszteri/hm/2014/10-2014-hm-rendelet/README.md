@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-10-20-1
 | 2021-03-15 | 2014-10-20-15.14 | 9/2021. (III. 2.) HM rendelet |
 | 2022-08-20 | 2014-10-20-15.15 | 7/2022. (IV. 14.) HM rendelet |
 | 2022-12-23 | 2014-10-20-15.16 | 16/2022. (XII. 22.) HM rendelet |
+| 2023-01-01 | 2014-10-20-15.17 | 22/2022. (XII. 28.) HM rendelet |

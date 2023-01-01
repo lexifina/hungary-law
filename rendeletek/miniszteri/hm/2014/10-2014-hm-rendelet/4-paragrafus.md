@@ -4,11 +4,11 @@
 
 a) 70 000 Ft, ha a bérelt, lízingelt lakóingatlan Budapesten, Győrben vagy Szentendrén található;
 
-b) 65 000 Ft, ha a lakóingatlan Győr kivételével megyeszékhelyen, Hódmezővásárhelyen vagy Tatán található;
+b)[^29] 65 000 Ft, ha a lakóingatlan Győr kivételével vármegyeszékhelyen, Hódmezővásárhelyen vagy Tatán található;
 
 c) 60 000 Ft, ha a lakóingatlan nem az a)–b) pontban felsorolt településeken található.
 
-(3)[^29] A rendfokozati szorzó
+(3)[^30] A rendfokozati szorzó
 
 1. legénységi állomány esetén, ideértve a közkatonát is, 0,9;
 
@@ -44,7 +44,7 @@ c) 60 000 Ft, ha a lakóingatlan nem az a)–b) pontban felsorolt településeke
 
 17. vezérezredesi rendfokozat esetén 1,7.
 
-(4)[^30] A (2) és (3) bekezdésben foglaltak figyelembevételével kiszámított összeget, ha az igényjogosult
+(4)[^31] A (2) és (3) bekezdésben foglaltak figyelembevételével kiszámított összeget, ha az igényjogosult
 
 a) házastársával, élettársával él egy háztartásban a támogatott lakásban, 20 000 Ft-tal,
 
@@ -53,5 +53,6 @@ b) a támogatott lakásba költöző vagy oda született és általa eltartott o
 kell kiegészíteni.
 
 [^28]: A 4. § (1) bekezdése a 9/2017. (VIII. 31.) HM rendelet 11. §-ával megállapított szöveg.
-[^29]: A 4. § (3) bekezdése a 9/2021. (III. 2.) HM rendelet 29. §-ával megállapított szöveg.
-[^30]: A 4. § (4) bekezdése a 9/2021. (III. 2.) HM rendelet 29. §-ával megállapított szöveg.
+[^29]: A 4. § (2) bekezdés b) pontja a 22/2022. (XII. 28.) HM rendelet 1. §-a szerint módosított szöveg.
+[^30]: A 4. § (3) bekezdése a 9/2021. (III. 2.) HM rendelet 29. §-ával megállapított szöveg.
+[^31]: A 4. § (4) bekezdése a 9/2021. (III. 2.) HM rendelet 29. §-ával megállapított szöveg.

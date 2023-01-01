@@ -1,3 +1,3 @@
-27. §[^83]
+27. §[^84]
 
-[^83]: A 21–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^84]: A 21–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

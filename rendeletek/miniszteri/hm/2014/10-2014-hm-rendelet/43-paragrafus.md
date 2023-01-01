@@ -1,3 +1,3 @@
-43. §[^99]
+43. §[^100]
 
-[^99]: A 21–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^100]: A 21–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

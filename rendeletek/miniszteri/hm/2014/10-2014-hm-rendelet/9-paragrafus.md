@@ -1,6 +1,6 @@
 ## 3. Egyszeri pénzbeli támogatás
 
-## 9. §[^58] Egyszeri pénzbeli támogatás
+## 9. §[^59] Egyszeri pénzbeli támogatás
 
 a) saját lakás építéséhez,
 
@@ -12,4 +12,4 @@ d) a 11/A. § (1) bekezdés b) pontja szerinti célra
 
 nyújtható pénzbeli támogatás.
 
-[^58]: A 9. § a 9/2021. (III. 2.) HM rendelet 30. §-ával megállapított szöveg.
+[^59]: A 9. § a 9/2021. (III. 2.) HM rendelet 30. §-ával megállapított szöveg.
