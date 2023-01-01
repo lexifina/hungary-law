@@ -31,3 +31,5 @@
 14. a 3. § (1) bekezdés d) pontja szerinti személyügyi nyilvántartások vezetésére szolgáló személyügyi alapnyilvántartó és ügyviteli rendszert,
 
 15. azon állami fenntartású egészségügyi szolgáltatók meghatározását, amely egészségügyi szolgáltatónál foglalkoztatottak vonatkozásában az adatgyűjtő modulba történő adatátadást 2021. január 1-jén meg kell kezdeni.
+
+16. a szerepkör-tanúsítvány kiállítása érdekében a szerepkör-tanúsító szolgáltató részére átadásra kerülő adatok átadásának rendjét.
