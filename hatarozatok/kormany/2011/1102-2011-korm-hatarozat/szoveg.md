@@ -78,13 +78,13 @@ ba) a Társadalmi Felzárkózási és Cigányügyi Tárcaközi Bizottság tagjai
 
 bb) további meghívott személyek.
 
-6.[^4] A Tanács elnöke a belügyminiszter. A Tanács társelnökei a 4. pont c) és d) alpontjában meghatározott személyek. A Tanács elnökét akadályoztatása esetén a 4. pont c) alpontjában meghatározott személy helyettesíti.
+6.[^4] A Tanács elnöke a belügyminiszter. A Tanács társelnökei a 4. pont d) és e) alpontjában meghatározott személyek. A Tanács elnökét akadályoztatása esetén a 4. pont b) alpontjában meghatározott személy helyettesíti.
 
-6a.[^5] A Tanács összehangolt működése érdekében elnökséget működtet, amelynek tagjai a 4. pont a)–f), i), t) és v) alpontjában meghatározott személyek. Az elnökség javaslatot tesz a Tanács ülésének napirendjére és éves munkatervére.
+6a.[^5] A Tanács összehangolt működése érdekében elnökséget működtet, amelynek tagjai a 4. pont a)–g) és j) alpontjában meghatározott személyek. Az elnökség javaslatot tesz a Tanács ülésének napirendjére és éves munkatervére.
 
 6b.[^6] A Tanács saját szervezetén belül, munkájának segítése, javaslattétel és a döntések előkészítése céljából szakpolitikai testületeket hozhat létre. A szakpolitikai testületek tagjait a gondoskodáspolitikáért felelős államtitkár kéri fel.
 
-7.[^7] A Tanács szükség szerint, de legalább évente kétszer ülésezik. A Tanács ülését a Tanács elnöke, az elnök akadályoztatása esetén a 4. pont c) alpontjában meghatározott személy – a Tanács Titkársága útján – hívja össze. A Tanács rendkívüli ülésének összehívását bármely tag az indok és napirend egyidejű megjelölésével kezdeményezheti a Tanács elnökénél.
+7.[^7] A Tanács szükség szerint, de legalább évente kétszer ülésezik. A Tanács ülését a Tanács elnöke, az elnök akadályoztatása esetén a 4. pont b) alpontjában meghatározott személy – a Tanács Titkársága útján – hívja össze. A Tanács rendkívüli ülésének összehívását bármely tag az indok és napirend egyidejű megjelölésével kezdeményezheti a Tanács elnökénél.
 
 8. A Tanács ülésének napirendjét – a tagok javaslatainak figyelembevételével és a Tanács elnökének jóváhagyásával – a Tanács Titkársága készíti elő.
 
@@ -100,31 +100,32 @@ bb) további meghívott személyek.
 
 13.[^12] A Kormány felkéri
 
-a) annak az 5 megyének a területén működő roma/cigány területi nemzetiségi önkormányzatnak a vezetőjét, amely megyék területén a kedvezményezett járások besorolásáról szóló 290/2014. (XI. 26.) Korm. rendeletben meghatározott, komplex programmal fejlesztendő járások jelentős számban találhatók, illetve amelyekben a Központi Statisztikai Hivatal 2011. évi népszámlálási adatai alapján a roma nemzetiségűek aránya szempontjából leginkább érintettek, hogy állandó tagként vegyenek részt a Tanács munkájában,
+a)[^13] annak az 5 vármegyének a területén működő roma/cigány területi nemzetiségi önkormányzatnak a vezetőjét, amely vármegyék területén a kedvezményezett járások besorolásáról szóló 290/2014. (XI. 26.) Korm. rendeletben meghatározott, komplex programmal fejlesztendő járások jelentős számban találhatók, illetve amelyekben a Központi Statisztikai Hivatal 2011. évi népszámlálási adatai alapján a roma nemzetiségűek aránya szempontjából leginkább érintettek, hogy állandó tagként vegyenek részt a Tanács munkájában,
 
-b)[^13] a 4. pont h)–u) alpontjában szereplő szervezetek képviselőit a Tanácsban tagként való részvételre,
+b)[^14] a 4. pont i)–u) alpontjában szereplő szervezetek képviselőit a Tanácsban tagként való részvételre,
 
-c)[^14]
+c)[^15]
 
-14.[^15]
+14.[^16]
 
 15. A Kormány felhívja a minisztereket és az egyéb központi államigazgatási szervek vezetőit, hogy a Kormány jogalkotási tervében szereplő, a romák társadalmi felzárkózását érintő jogszabályok esetén a Tanács tagjai számára biztosítsa a közigazgatási egyeztetés keretein belül a véleménynyilvánítás lehetőségét.
 
-16.[^16] Ez a határozat a közzétételét követő napon lép hatályba,
+16.[^17] Ez a határozat a közzétételét követő napon lép hatályba,
 
 [^1]: A 4. pont az 1521/2022. (XI. 2.) Korm. határozat 13. pontjával megállapított szöveg.
 [^2]: Az 5. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított szöveg.
 [^3]: Az 5. pont a) pont aa) alpontja az 1521/2022. (XI. 2.) Korm. határozat 14. pontjával megállapított szöveg.
-[^4]: A 6. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított szöveg.
-[^5]: A 6a. pontot az 1405/2017. (VI. 28.) Korm. határozat 3. pontja iktatta be, szövege az 1821/2021. (XI. 25.) Korm. határozat 4. pontjával megállapított szöveg.
+[^4]: A 6. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított, az 1521/2022. (XI. 2.) Korm. határozat 16. pont a) pontja szerint módosított szöveg.
+[^5]: A 6a. pontot az 1405/2017. (VI. 28.) Korm. határozat 3. pontja iktatta be, szövege az 1821/2021. (XI. 25.) Korm. határozat 4. pontjával megállapított, az 1521/2022. (XI. 2.) Korm. határozat 16. pont b) pontja szerint módosított szöveg.
 [^6]: A 6b. pontot az 1405/2017. (VI. 28.) Korm. határozat 3. pontja iktatta be, az 1267/2019. (V. 8.) Korm. határozat 13. pontja alapján hatályát vesztette, újonnan az 1521/2022. (XI. 2.) Korm. határozat 15. pontja iktatta be.
-[^7]: A 7. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított szöveg.
+[^7]: A 7. pont az 1267/2019. (V. 8.) Korm. határozat 13. pontjával megállapított, az 1521/2022. (XI. 2.) Korm. határozat 16. pont c) pontja szerint módosított szöveg.
 [^8]: A 9. pont az 1683/2012. (XII. 29.) Korm. határozat 10. pont a) alpontja, az 1223/2015. (IV. 20.) Korm. határozat 3. pontja, az 1267/2019. (V. 8.) Korm. határozat 14. pontja szerint módosított szöveg.
 [^9]: A 11. pont az 1223/2015. (IV. 20.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^10]: A 11a. pontot az 1405/2017. (VI. 28.) Korm. határozat 4. pontja iktatta be.
 [^11]: A 12. pont az 1405/2017. (VI. 28.) Korm. határozat 5. pontjával megállapított szöveg.
 [^12]: A 13. pont az 1223/2015. (IV. 20.) Korm. határozat 6. pontjával megállapított szöveg.
-[^13]: A 13. § b) pontja az 1267/2019. (V. 8.) Korm. határozat 15. pontja szerint módosított szöveg.
-[^14]: A 13. pont c) alpontját az 1405/2017. (VI. 28.) Korm. határozat 6. pontja hatályon kívül helyezte.
-[^15]: A 14. pontot az 1521/2022. (XI. 2.) Korm. határozat 17. pontja hatályon kívül helyezte.
-[^16]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^13]: A 13. pont a) pontja az 1521/2022. (XI. 2.) Korm. határozat 16. pont d) pontja szerint módosított szöveg.
+[^14]: A 13. pont b) pontja az 1521/2022. (XI. 2.) Korm. határozat 16. pont e) pontja szerint módosított szöveg.
+[^15]: A 13. pont c) alpontját az 1405/2017. (VI. 28.) Korm. határozat 6. pontja hatályon kívül helyezte.
+[^16]: A 14. pontot az 1521/2022. (XI. 2.) Korm. határozat 17. pontja hatályon kívül helyezte.
+[^17]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
