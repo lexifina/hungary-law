@@ -2,7 +2,7 @@
 
 a) Harta külterület 0148/18 helyrajzi számú ingatlanon található Állampusztai Országos Büntetés-végrehajtási Intézet,
 
-b) Szirmabesenyő külterület 0124/16 helyrajzi számú ingatlanon található Borsod-Abaúj-Zemplén Megyei Büntetés-végrehajtási Intézet,
+b)[^2] Szirmabesenyő külterület 0124/16 helyrajzi számú ingatlanon található Borsod-Abaúj-Zemplén Vármegyei Büntetés-végrehajtási Intézet,
 
 c) Kiskunhalas belterület 6012/2 helyrajzi számú ingatlanon található Kiskunhalasi Országos Büntetés-végrehajtási Intézet,
 
@@ -18,9 +18,9 @@ h) Tiszalök külterület 0415/9 helyrajzi számú ingatlanon található Tiszal
 
 i) Tököl külterület 0165/5 helyrajzi számú ingatlanon található Tököli Országos Büntetés-végrehajtási Intézet,
 
-j) Veszprém belterület 2569/23 helyrajzi számú ingatlanon található Veszprém Megyei Büntetés-végrehajtási Intézet
+j)[^3] Veszprém belterület 2569/23 helyrajzi számú ingatlanon található Veszprém Vármegyei Büntetés-végrehajtási Intézet
 
-## területén, továbbá az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanok területén könnyűszerkezetes épületegyüttesek telepítésével megvalósuló beruházással (a továbbiakban együtt: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
+területén, továbbá az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanok területén könnyűszerkezetes épületegyüttesek telepítésével megvalósuló beruházással (a továbbiakban együtt: Beruházás) összefüggő, az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
 
 (2) Az (1) bekezdés alkalmazásában a Beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek
 
@@ -31,3 +31,5 @@ b) a Beruházáshoz közvetlenül kapcsolódó útépítési, közműfejlesztés
 (3) A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházást. A Beruházás helyszíne az (1) bekezdésben meghatározott ingatlanok területe.
 
 [^1]: Az 1. § (1) bekezdés záró szövegrésze a 327/2020. (VII. 2.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontja az 546/2022. (XII. 22.) Korm. rendelet 237. §-a szerint módosított szöveg.
+[^3]: Az 1. § (1) bekezdés j) pontja az 546/2022. (XII. 22.) Korm. rendelet 237. §-a szerint módosított szöveg.

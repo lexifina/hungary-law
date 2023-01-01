@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-34-20-2
 | --- | --- | --- |
 | 2020-03-06 | 2020-34-20-22.1 | 34/2020. (III. 5.) Korm. rendelet |
 | 2020-07-03 | 2020-34-20-22.2 | 327/2020. (VII. 2.) Korm. rendelet |
+| 2023-01-01 | 2020-34-20-22.3 | 546/2022. (XII. 22.) Korm. rendelet |
