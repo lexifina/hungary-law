@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-145-00-00
 | 2022-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-145-00-00.1 |
 | 2022-01-02 | 2010. évi CXXX. törvény | 2021-145-00-00.2 |
 | 2022-07-28 | 2022. évi XXIV. törvény | 2021-145-00-00.3 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2021-145-00-00.4 |

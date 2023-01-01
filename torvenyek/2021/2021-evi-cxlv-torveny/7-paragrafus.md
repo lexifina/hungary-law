@@ -12,7 +12,7 @@ b) a földterület-juttatással történő kompenzáció iránti kérelmeket ös
 
 a) szántó, szőlő, kert, rét, legelő (gyep), nádas és fásított terület művelési ágú,
 
-b) védett természeti területeken kívül eső,
+b) vagyonkezelésbe adott védett természeti területeken kívül eső,
 
 c) bejegyzett földhasználattól mentes, és
 
