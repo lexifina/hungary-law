@@ -2,4 +2,4 @@
 
 1. melléklet a 354/2012. (XII. 13.) Korm. rendelethez[^13]
 
-[^13]: Az 1. melléklet a 764/2021. (XII. 23.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^13]: Az 1. melléklet a 764/2021. (XII. 23.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 149. §-a szerint módosított szöveg.
