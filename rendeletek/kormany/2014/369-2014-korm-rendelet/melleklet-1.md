@@ -2,7 +2,7 @@
 
 1. melléklet a 369/2014. (XII. 30.) Korm. rendelethez
 
-## A gyártó nyilvántartásba vételéhez, valamint az átvevő- és kezelőhálózat bejelentéséhez szükséges adatok
+A gyártó nyilvántartásba vételéhez, valamint az átvevő- és kezelőhálózat bejelentéséhez szükséges adatok
 
 1.[^42] A gyártó nyilvántartásba vételéhez szükséges adatok:
 

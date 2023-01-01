@@ -10,7 +10,7 @@ c) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK 
 
 d)[^39] az elhasználódott járművekről szóló 2000/53/EK irányelv, az elemekről és akkumulátorokról, valamint a hulladékelemekről és -akkumulátorokról szóló 2006/66/EK irányelv, valamint az elektromos és elektronikus berendezések hulladékairól szóló 2012/19/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/849 európai parlamenti és tanácsi irányelvnek
 
-## való megfelelést szolgálja.
+való megfelelést szolgálja.
 
 (2) Ez a rendelet
 
@@ -18,7 +18,7 @@ a) az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és
 
 b) az elhasználódott járművekről szóló 2000/53/EK európai parlamenti és tanácsi irányelvben meghatározott, az újrahasználat/hasznosítás és újrahasználat/visszanyerés céljainak ellenőrzését szolgáló részletes szabályok megállapításáról szóló, 2005. április 1-jei 2005/293/EK bizottsági határozat
 
-## végrehajtásához szükséges rendelkezéseket állapít meg.
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (3) E rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 

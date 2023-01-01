@@ -1,6 +1,6 @@
 2. melléklet a 369/2014. (XII. 30.) Korm. rendelethez
 
-## A hulladékká vált gépjárművek átvételére, gyűjtésére és kezelésére vonatkozó műszaki előírások
+A hulladékká vált gépjárművek átvételére, gyűjtésére és kezelésére vonatkozó műszaki előírások
 
 1. A hulladékká vált gépjárművek átvételére szolgáló átvételi helynek – az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló kormányrendeletben foglaltakon túl – legalább a következő műszaki feltételekkel kell rendelkeznie:
 

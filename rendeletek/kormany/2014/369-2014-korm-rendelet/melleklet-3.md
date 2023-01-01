@@ -1,6 +1,6 @@
 3. melléklet a 369/2014. (XII. 30.) Korm. rendelethez
 
-## A gyártó és a közvetítő szervezet adatszolgáltatási kötelezettségének teljesítéséhez szükséges adatok
+A gyártó és a közvetítő szervezet adatszolgáltatási kötelezettségének teljesítéséhez szükséges adatok
 
 1.[^44] A gyártóra és a közvetítő szervezetre vonatkozó adatok:
 

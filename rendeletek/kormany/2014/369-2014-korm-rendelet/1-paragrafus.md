@@ -6,7 +6,7 @@ a) a gépjárművekre – ideértve azok alkatrészeit és anyagait, független�
 
 b) a hulladékká vált gépjárművekre
 
-## terjed ki.
+terjed ki.
 
 (2) Nem terjed ki e rendelet hatálya a gépjárműadóról szóló törvényben, valamint a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott,
 

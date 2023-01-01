@@ -1,3 +1,3 @@
-## 24. §[^40]
+25. §[^41]
 
-[^40]: A 24. § a 374/2016. (XI. 29.) Korm. rendelet 4. § (3) bekezdése alapján nem lép hatályba.
+[^41]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

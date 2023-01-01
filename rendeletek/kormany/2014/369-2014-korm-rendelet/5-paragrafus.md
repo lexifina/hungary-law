@@ -6,4 +6,6 @@ b) a 2006. január 1. napját követően az összes hulladékká vált gépjárm
 
 c) 2015. január 1. napját követően az összes hulladékká vált gépjármű – az átlagos gépjárműtömeget alapul véve – újrahasználatra előkészítésének és hasznosításának együttes aránya legalább az évi 95 tömegszázalékot, az újrahasználatra előkészítés, újrafeldolgozás és visszanyerés együttes aránya legalább az évi 85 tömegszázalékot
 
+elérje.
+
 [^3]: Az 5. § nyitó szövegrésze a 374/2016. (XI. 29.) Korm. rendelet 4. § (2) bekezdés b) pontja szerint módosított szöveg.

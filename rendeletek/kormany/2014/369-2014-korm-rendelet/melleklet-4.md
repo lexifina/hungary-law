@@ -1,6 +1,6 @@
 4. melléklet a 369/2014. (XII. 30.) Korm. rendelethez
 
-## A bontó adatszolgáltatási kötelezettségének teljesítéséhez szükséges adatok
+A bontó adatszolgáltatási kötelezettségének teljesítéséhez szükséges adatok
 
 1.[^50] A bontóra vonatkozó adatok:
 

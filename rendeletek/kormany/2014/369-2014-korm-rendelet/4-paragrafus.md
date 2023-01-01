@@ -16,7 +16,7 @@ ba) a bontónál a forgalmazón keresztül, vagy
 
 bb) a bontónál közvetlenül
 
-## teljesíti.
+teljesíti.
 
 (5) A (4) bekezdés a) pont szerinti esetben a gyártónak rendelkeznie kell a közlekedési hatóság által kiadott, a bontási tevékenység végzésére vonatkozó engedéllyel.
 
@@ -28,6 +28,6 @@ b) a (2) bekezdés szerinti átvevő- és kezelőhálózaton keresztül
 
 átvett és kezelt hulladékra vonatkozó éves adatokról a telephelyén nyilvántartást vezet (nyilvántartási kötelezettség).
 
-(7)[^2] A gyártó az e rendeletben foglaltak szerint az a hulladékgazdálkodási hatáskörben eljáró Pest Megyei Kormányhivatal (a továbbiakban: országos hulladékgazdálkodási hatóság) részére adatot szolgáltat (adatszolgáltatási kötelezettség).
+(7)[^2] A gyártó az e rendeletben foglaltak szerint az a hulladékgazdálkodási hatáskörben eljáró Pest Vármegyei Kormányhivatal (a továbbiakban: országos hulladékgazdálkodási hatóság) részére adatot szolgáltat (adatszolgáltatási kötelezettség).
 
-[^2]: A 4. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 286. § (2) bekezdés a) pontja, a 312/2021. (VI. 7.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^2]: A 4. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 286. § (2) bekezdés a) pontja, a 312/2021. (VI. 7.) Korm. rendelet 14. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 199. § a) pontja szerint módosított szöveg.

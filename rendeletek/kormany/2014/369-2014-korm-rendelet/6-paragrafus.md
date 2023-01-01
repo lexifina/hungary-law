@@ -1,5 +1,3 @@
-## elérje.
-
 6. § (1) Ha a gépjármű tulajdonosa a gépjárművet a gyártónak adja át kezelésre, és a gyártó a 4. § (4) bekezdés a) pontja szerint az átvételi és kezelési kötelezettségét önállóan teljesíti, a gyártó a gépjárművet a tulajdonostól átvételi helyen átveszi.
 
 (2) A gyártó a gépjármű átvételét a közlekedési hatóság által kiállított bontási átvételi igazolás átadásával igazolja.
