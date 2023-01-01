@@ -10,7 +10,7 @@ d) az egészségügyi államigazgatási szerv, közegészségügyi-járványügy
 
 e) a szociális, gyermekvédelmi és gyámügyi igazgatás szerve, a szociális, gyermekjóléti és gyermekvédelmi intézmény vezetője, a szociális, gyermekvédelmi ellátás megállapításával és folyósításával, valamint a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben;
 
-f) a munkaügyi igazgatás szerve a munkanélküli ellátással, a foglalkoztatást elősegítő támogatással és munkaerő-piaci szolgáltatással kapcsolatos, valamint a foglalkoztatottakkal összefüggő, jogszabályban meghatározott egyéb tevékenysége, valamint ellenőrzési eljárása során, továbbá a munkaügyi adatszolgáltatásra kötelezett foglalkoztató e tevékenysége körében.);
+f) a munkaügyi igazgatás szerve az álláskeresési ellátással, a foglalkoztatást elősegítő támogatással és foglalkoztatást elősegítő szolgáltatással kapcsolatos, valamint a foglalkoztatottakkal összefüggő, jogszabályban meghatározott egyéb tevékenysége, valamint ellenőrzési eljárása során, továbbá a munkaügyi adatszolgáltatásra kötelezett foglalkoztató e tevékenysége körében.);
 
 g) a fogva tartó szerv, a fogvatartott egészségügyi szolgáltatásra jogosultsága keletkezésével, megszűnésével összefüggő adatszolgáltatás, illetve a fogvatartott nem büntetés-végrehajtási egészségügyi intézményben való ellátása érdekében;
 

@@ -16,7 +16,7 @@ g) az egészségügyi ellátóhálózat szerve a 23. § e) pontja szerinti szerv
 
 h) a 23. § e) pontja szerinti szervek egymás között, továbbá az állami foglalkoztatási szerv, a 23. § e) pontja szerinti szervek részére a szociális ellátás megállapításával és folyósításával összefüggésben;
 
-i) a munkaügyi igazgatás szerve, a munkanélküli ellátással, a foglalkoztatást elősegítő támogatással és munkaerő-piaci szolgáltatással kapcsolatos tevékenysége, valamint ellenőrzési eljárása során, továbbá a munkaügyi adatszolgáltatásra kötelezett munkáltató, e tevékenységével összefüggésben;
+i) a munkaügyi igazgatás szerve, az álláskeresési ellátással, a foglalkoztatást elősegítő támogatással és foglalkoztatást elősegítő szolgáltatással kapcsolatos tevékenysége, valamint ellenőrzési eljárása során, továbbá a munkaügyi adatszolgáltatásra kötelezett munkáltató, e tevékenységével összefüggésben;
 
 j) a fogva tartó szervek egymás között, továbbá az egészségügyi ellátó hálózat szervének a fogvatartott egészségügyi szolgáltatásra jogosultságának keletkezésével, megszűnésével összefüggő adatszolgáltatása, illetve a fogvatartott nem büntetés-végrehajtási egészségügyi intézményben való ellátása érdekében;
 

@@ -28,7 +28,7 @@ k) a kincstárnak és az egészségbiztosítási nyilvántartásokat vezető sze
 
 l) a Központi Statisztikai Hivatalnak a hivatalos statisztikáról szóló törvény alapján kezelt adatbázisában szereplő adatszolgáltató természetes személy családi és utónevének, születési nevének, anyja nevének, nemének, születési helyének és időpontjának, állampolgárságának, lakóhelyének, tartózkodási helyének, családi állapotának változásáról, azok időpontjáról, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyéről, az érintett elhalálozásáról, a külföldön történő letelepedésről, a nyilvántartásba bekerülés és a nyilvántartásból való kikerülés okáról, idejéről.
 
-m) az adatváltozás-kezelési szolgáltatónak a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény (a továbbiakban: Khtv.) 20/T. §-a szerinti adatváltozás-bejelentési szolgáltatást igénybe vevő polgár
+m) az adatváltozás-kezelési szolgáltatónak a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény 15. §-a szerinti adatváltozás-bejelentési szolgáltatást igénybe vevő polgár
 
 ma) családi és utónevének,
 

@@ -30,9 +30,9 @@ l)
 
 m) oktatási azonosító szám,
 
-n) a fővárosi és megyei kormányhivatal által a természetes személy ügyfelek tekintetében képzett belső technikai azonosító,
+n) a fővárosi és vármegyei kormányhivatal által a természetes személy ügyfelek tekintetében képzett belső technikai azonosító,
 
-o) a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló törvény szerinti aláírásminta-nyilvántartásban alkalmazott kapcsolati kód,
+o) a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény szerinti aláírásminta-nyilvántartásban alkalmazott kapcsolati kód,
 
 p) az élelmiszerlánc-felügyeleti szerv által megállapított FELIR azonosító szám (a továbbiakban: FELIR azonosító)
 
