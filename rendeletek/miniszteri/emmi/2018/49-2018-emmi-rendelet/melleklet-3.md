@@ -1,6 +1,6 @@
 3. melléklet a 49/2018. (XII. 28.) EMMI rendelethez
 
-## Az újszülöttkori hallásszűrés eredményeinek verifikálására kijelölt egészségügyi szolgáltatók
+Az újszülöttkori hallásszűrés eredményeinek verifikálására kijelölt egészségügyi szolgáltatók
 
 1. Heim Pál Országos Gyermekgyógyászati Intézet, Fül-Orr-Gégészeti Osztály
 

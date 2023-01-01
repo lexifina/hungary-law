@@ -1,0 +1,3 @@
+3. §[^5] A betegségregisztert vezető szerv a betegségregiszterben nyilvántartott megbetegedés megoszlásának számát – a betegek fővárosi és vármegyei illetősége szerint csoportosítva és BNO kódok szerinti, nemenkénti és korcsoportonkénti bontásban – évente, a tárgyévet követő év június 30-ig megküldi az egészségügyért felelős miniszter, az országos tisztifőorvos, valamint a NEAK részére, az adott megbetegedéssel kapcsolatos egészségügyi tevékenység szervezésének, tervezésének és működésének értékelése céljából.
+
+[^5]: A 3. § a 37/2020. (X. 30.) EMMI rendelet 10. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 86. §-a szerint módosított szöveg.

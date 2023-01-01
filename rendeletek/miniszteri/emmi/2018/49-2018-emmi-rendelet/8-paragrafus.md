@@ -14,9 +14,10 @@
 
 (8) A Hematológiai Regiszter a már nyilvántartott betegek eseteiben rögzíti a halottvizsgálati és haláloki adatokat, és nyilvántartásba veszi azon személyek adatait, akiknél ezt a halott-vizsgálat során megállapított hematológiai betegség indokolja.
 
-(9) A Hematológiai Regiszter a hematológiai megbetegedések megoszlásának számát – a betegek fővárosi és megyei illetősége szerint csoportosítva, BNO-kódonkénti, nemenkénti és korcsoportonkénti bontásban – félévente megküldi az egészségügyért felelős miniszter, az országos tisztifőorvos és a NEAK részére a hematológia tevékenység szervezésének, tervezésének, működésének értékelése céljából.
+(9)[^23] A Hematológiai Regiszter a hematológiai megbetegedések megoszlásának számát – a betegek fővárosi és vármegyei illetősége szerint csoportosítva, BNO-kódonkénti, nemenkénti és korcsoportonkénti bontásban – félévente megküldi az egészségügyért felelős miniszter, az országos tisztifőorvos és a NEAK részére a hematológia tevékenység szervezésének, tervezésének, működésének értékelése céljából.
 
 [^19]: A 8. § (3) bekezdése a 37/2020. (X. 30.) EMMI rendelet 16. §-ával megállapított szöveg.
 [^20]: A 8. § (4) bekezdése a 37/2020. (X. 30.) EMMI rendelet 16. §-ával megállapított szöveg.
 [^21]: A 8. § (5) bekezdése a 37/2020. (X. 30.) EMMI rendelet 16. §-ával megállapított szöveg.
 [^22]: A 8. § (6) bekezdése a 37/2020. (X. 30.) EMMI rendelet 16. §-ával megállapított szöveg.
+[^23]: A 8. § (9) bekezdése a 45/2022. (XII. 20.) BM rendelet 86. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-8/B. §[^24] (1) A Nemzeti Reumatológiai Betegségek Regisztere (a továbbiakban: Reumatológiai Regiszter) részére köteles adatot szolgáltatni a (2) bekezdés szerinti betegség diagnózisát felállító, kezelést végző, továbbá a szövettani vizsgálatot, boncolást végző vagy azt véleményező egészségügyi szolgáltató.
+8/B. §[^25] (1) A Nemzeti Reumatológiai Betegségek Regisztere (a továbbiakban: Reumatológiai Regiszter) részére köteles adatot szolgáltatni a (2) bekezdés szerinti betegség diagnózisát felállító, kezelést végző, továbbá a szövettani vizsgálatot, boncolást végző vagy azt véleményező egészségügyi szolgáltató.
 
 (2) Az (1) bekezdés szerinti adatszolgáltatás kiterjed valamennyi egészségügyi szolgáltatónál diagnosztizált vagy ellátott megbetegedésre, ha a diagnózis – a haláloki diagnózisokat is beleértve – a BNO 10. revíziója M00–M03, M05–M14, M15–M19, M30–M36, M40–M53, M80–M94, D20, D8090, D8380, D8390, D89 tételeinek bármelyike (a továbbiakban: reumatológiai megbetegedés).
 
@@ -12,4 +12,4 @@
 
 (7) A Reumatológiai Regiszter a már nyilvántartott betegek eseteiben rögzíti a halottvizsgálati és haláloki adatokat, és nyilvántartásba veszi azon személyek adatait, akiknél ezt a halottvizsgálat során megállapított reumatológiai betegség indokolja.
 
-[^24]: A 8/B. §-t a 37/2020. (X. 30.) EMMI rendelet 17. §-a iktatta be.
+[^25]: A 8/B. §-t a 37/2020. (X. 30.) EMMI rendelet 17. §-a iktatta be.

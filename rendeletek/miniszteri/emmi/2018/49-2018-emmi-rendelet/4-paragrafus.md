@@ -1,5 +1,3 @@
-## 3. §[^5] A betegségregisztert vezető szerv a betegségregiszterben nyilvántartott megbetegedés megoszlásának számát – a betegek fővárosi és megyei illetősége szerint csoportosítva és BNO kódok szerinti, nemenkénti és korcsoportonkénti bontásban – évente, a tárgyévet követő év június 30-ig megküldi az egészségügyért felelős miniszter, az országos tisztifőorvos, valamint a NEAK részére, az adott megbetegedéssel kapcsolatos egészségügyi tevékenység szervezésének, tervezésének és működésének értékelése céljából.
-
 ## 2. Az egyes betegségregiszterek vezetésére vonatkozó részletes szabályok
 
 4. §[^6] (1) A Nemzeti Rákregiszter felé életkortól függetlenül, 18. életévét be nem töltött érintett esetén a Nemzeti Gyermek Onkológiai Regiszter (a továbbiakban együtt: Rákregiszter) felé is köteles adatot szolgáltatni az az egészségügyi szolgáltató, amely a (2) bekezdés szerinti daganatos betegség diagnózisát felállítja, kezelését végzi, továbbá, amely szövettani vizsgálatot, boncolást végez, vagy azt véleményezi.
@@ -16,5 +14,4 @@
 
 (7) A Rákregiszter a már nyilvántartott daganatos betegek eseteiben rögzíti a halottvizsgálati és haláloki adatokat, és nyilvántartásba veszi azon személyek adatait, akiknél ezt a halottvizsgálat során megállapított daganatos eredetű betegség indokolja.
 
-[^5]: A 3. § a 37/2020. (X. 30.) EMMI rendelet 10. §-ával megállapított szöveg.
 [^6]: A 4. § a 37/2020. (X. 30.) EMMI rendelet 10. §-ával megállapított szöveg.

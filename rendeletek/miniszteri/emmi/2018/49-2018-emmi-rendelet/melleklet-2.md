@@ -1,5 +1,3 @@
-## Betegségregisztert vezető szervek
-
 |  | A | B |
 
 |  | Regiszter | Működtető szerv |
@@ -40,9 +38,9 @@
 
 | 18. | Nemzeti Veleszületett Szívbetegség Regiszter | Gottsegen György Országos Kardiológiai Intézet |
 
-2. melléklet a 49/2018. (XII. 28.) EMMI rendelethez[^35]
+2. melléklet a 49/2018. (XII. 28.) EMMI rendelethez[^36]
 
-## A népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelentős költségteherrel járó megbetegedések
+A népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelentős költségteherrel járó megbetegedések
 
 1. Daganatos megbetegedések (a diagnózis – a haláloki diagnózisokat is beleértve – a BNO 10. revíziója C00–C97, D00–D09, D30.3, D33 tételeinek valamelyike)
 
@@ -80,4 +78,4 @@
 
 18. Veleszületett szívrendellenesség (a diagnózis – a haláloki diagnózisokat is beleértve – a BNO 10. revíziója Q20–Q26, Q87–Q89, Q96 tételeinek valamelyike)
 
-[^35]: A 2. melléklet a 37/2020. (X. 30.) EMMI rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^36]: A 2. melléklet a 37/2020. (X. 30.) EMMI rendelet 20. § (2) bekezdésével megállapított szöveg.

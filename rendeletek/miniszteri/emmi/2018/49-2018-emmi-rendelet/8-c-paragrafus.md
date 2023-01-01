@@ -1,4 +1,4 @@
-8/C. §[^25] (1) A Nemzeti Fertőző Betegségek Regisztere (a továbbiakban: Fertőző Betegség Regiszter) részére köteles adatot szolgáltatni a (2) bekezdés szerinti betegség diagnózisát felállító, kezelést végző, továbbá a szövettani vizsgálatot, boncolást végző vagy azt véleményező egészségügyi szolgáltató.
+8/C. §[^26] (1) A Nemzeti Fertőző Betegségek Regisztere (a továbbiakban: Fertőző Betegség Regiszter) részére köteles adatot szolgáltatni a (2) bekezdés szerinti betegség diagnózisát felállító, kezelést végző, továbbá a szövettani vizsgálatot, boncolást végző vagy azt véleményező egészségügyi szolgáltató.
 
 (2) Az (1) bekezdés szerinti adatszolgáltatás kiterjed valamennyi egészségügyi szolgáltatónál diagnosztizált vagy ellátott megbetegedésre, ha a diagnózis – a haláloki diagnózisokat is beleértve – a BNO 10. revíziója szerinti A0470, A39–A41, A6920, B05, B18, B20–B24, B3420, B37, B44, B67, B9720, U0710, U0720 tételeinek bármelyike (a továbbiakban: fertőző megbetegedés).
 
@@ -14,4 +14,4 @@
 
 (8) A Fertőző Betegség Regiszter a már nyilvántartott betegek eseteiben rögzíti a halottvizsgálati és haláloki adatokat, és nyilvántartásba veszi azon személyek adatait, akiknél ezt a halottvizsgálat során megállapított fertőző betegség indokolja.
 
-[^25]: A 8/C. §-t a 37/2020. (X. 30.) EMMI rendelet 17. §-a iktatta be.
+[^26]: A 8/C. §-t a 37/2020. (X. 30.) EMMI rendelet 17. §-a iktatta be.
