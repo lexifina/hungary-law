@@ -4,7 +4,7 @@ a)[^4] tűzvédelmi mérnök, tűzvédelmi szakmérnök, építőmérnök, illet
 
 b) a területi mérnöki kamara által vezetett tűzvédelmi szakmai területen való névjegyzékbe vétel, vagy a területi építész kamara által vezetett tűzvédelmi szakmai területen való névjegyzékbe vétel
 
-## szükséges.
+szükséges.
 
 (2)[^5] Az építésügyi tűzvédelmi tervezői jogosultság megállapításánál a szakmai gyakorlati idő igazolása
 
@@ -18,7 +18,7 @@ gyakorlattal, vagy
 
 b) az illetékes építész vagy mérnök kamarák valamelyikében építész, építési, tartószerkezeti, épületgépészeti, gépészeti, hő- és villamosenergetikai, gázipari, elektrotechnikai szakmai névjegyzékben való szerepléssel
 
-## bizonyítható.
+bizonyítható.
 
 (3) A Ttv. 21. §-ban meghatározott tűzvédelmi dokumentációt kötelező készíteni, ha
 
