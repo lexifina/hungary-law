@@ -12,59 +12,63 @@
 
 ## Jelen vannak:
 
-| Önkormányzat részéről: |  | A kincstár részéről: |  |
+## 2X11144M.docx
 
-| Beosztás: |  | Beosztás: |  |
+| Önkormányzat részéről: |  | A kincstár részéről: |  |  |
 
-| Telefon: |  | Telefon: |  |
+| Beosztás: |  | Beosztás: |  |  |
 
-| Fax: |  | Fax: |  |
+| Telefon: |  | Telefon: |  |  |
 
-| E-mail: |  | E-mail: |  |
+| Fax: |  | Fax: |  |  |
 
-| P. H. P. H. ......................................... ......................................... |
+| E-mail: |  | E-mail: |  |  |
 
-| Katasztrófavédelmi Igazgatóság részéről: |  | Vízügyi Igazgatóság részéről: |  |
+|  | P. H. P. H. ......................................... ......................................... |
 
-| Beosztás: |  | Beosztás: |  |
+| Katasztrófavédelmi Igazgatóság részéről: |  | Vízügyi Igazgatóság részéről: |  |  |
 
-| Telefon: |  | Telefon: |  |
+| Beosztás: |  | Beosztás: |  |  |
 
-| Fax: |  | Fax: |  |
+| Telefon: |  | Telefon: |  |  |
 
-| E-mail: |  | E-mail: |  |
+| Fax: |  | Fax: |  |  |
 
-| P. H. P. H. ......................................... ......................................... |
+| E-mail: |  | E-mail: |  |  |
 
-| A közlekedésért felelős miniszter által vezetett minisztérium részéről: |  | a fővárosi és megyei kormányhivatal (építésügyi feladatkörében) |  |
+|  | P. H. P. H. ......................................... ......................................... |
 
-| Beosztás: |  | Beosztás: |  |
+| A közlekedésért felelős miniszter által vezetett minisztérium részéről: |  | a fővárosi és vármegyei kormányhivatal (építésügyi feladatkörében) |  |  |
 
-| Telefon: |  | Telefon: |  |
+| Beosztás: |  | Beosztás: |  |  |
 
-| Fax: |  | Fax: |  |
+| Telefon: |  | Telefon: |  |  |
 
-| E-mail: |  | E-mail: |  |
+| Fax: |  | Fax: |  |  |
 
-| P. H. P. H. ......................................... ......................................... |
+| E-mail: |  | E-mail: |  |  |
 
-| Egyéb felkért szerv részéről: |  | Egyéb felkért szerv részéről: |  |
+|  | P. H. P. H. ......................................... ......................................... |
 
-| Beosztás: |  | Beosztás: |  |
+| Egyéb felkért szerv részéről: |  | Egyéb felkért szerv részéről: |  |  |
 
-| Telefon: |  | Telefon: |  |
+| Beosztás: |  | Beosztás: |  |  |
 
-| Fax: |  | Fax: |  |
+| Telefon: |  | Telefon: |  |  |
 
-| E-mail: |  | E-mail: |  |
+| Fax: |  | Fax: |  |  |
 
-| P. H. P. H. ......................................... ......................................... |
+| E-mail: |  | E-mail: |  |  |
 
-| P. H. P. H. ......................................... ......................................... |
+|  | P. H. P. H. ......................................... ......................................... |
+
+|  | P. H. P. H. ......................................... ......................................... |
 
 ## Vis maior esemény adatai
 
 ## Vis maior esemény leírása:
+
+## 1X12577Q_2
 
 | Sorszám | Vis maior esemény megnevezése | Település | Utca | Házszám | Hrsz. | Érintett alapterület | Mérték- egység (m2, m3, fm) | Megállapítások (károsodás mértéke, tulajdonjog- viszony) |
 
@@ -122,6 +126,8 @@
 
 ## * A Szabályozott Tevékenységek Felügyeleti Hatósága által megállapított földtani veszélyességi kategóriát kell érteni.
 
+## 1X12577Q_5
+
 | Kelt: ..................., 20 ..... év ................... hó ..... nap | P. H | ........................................... |
 
 | Pince- és Partfalveszély-Elhárítási Szakértői Bizottság részéről: |  |
@@ -134,6 +140,6 @@
 
 | E-mail: |  |
 
-4. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^159]
+4. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^160]
 
-[^159]: A 4. melléklet a 129/2014. (IV. 10.) Korm. rendelet 12. § 29. pontja, a 383/2015. (XII. 8.) Korm. rendelet 15. § s) pontja, a 379/2016. (XII. 2.) Korm. rendelet 168. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^160]: A 4. melléklet a 129/2014. (IV. 10.) Korm. rendelet 12. § 29. pontja, a 383/2015. (XII. 8.) Korm. rendelet 15. § s) pontja, a 379/2016. (XII. 2.) Korm. rendelet 168. § (1) bekezdés d) pontja szerint módosított szöveg.

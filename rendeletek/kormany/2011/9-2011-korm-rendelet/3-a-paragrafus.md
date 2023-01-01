@@ -4,7 +4,7 @@ a) a 2/A. § (1) bekezdés a) pontja szerinti támogatás az 1. melléklet B) r�
 
 b) a 2/A. § (1) bekezdés b) pontja szerinti támogatás az 1. melléklet B) része szerinti adatlapon feltüntetett előzetesen becsült helyreállítási költségek legfeljebb 15%-ának mértékéig
 
-## támogatási előlegként is nyújtható.
+támogatási előlegként is nyújtható.
 
 (2)[^41] A helyi önkormányzat a támogatási előleg iránti kérelmét – legfeljebb a 4. § (1) bekezdés szerinti pályázat lezárásáig – az ebr42 rendszerben az 1. melléklet B) része szerinti adatlapon rögzíti. A miniszter – a BM Országos Katasztrófavédelmi Főigazgatóság egyidejű értesítésével – haladéktalanul megkeresi a helyi önkormányzat székhelye szerint illetékes Katasztrófavédelmi Igazgatóságot, amely az ebr42 rendszerben az 1. melléklet C) része szerinti adatlap kitöltésével haladéktalanul, de legkésőbb a megkereséstől számított 3 napon belül javaslatot tesz a támogatási előleg összegére.
 
@@ -20,7 +20,7 @@ a) a 4. § (1) bekezdés szerinti határidő lejártáig a pályázatot nem nyú
 
 b) a pályázat a 4. § (2) bekezdése szerinti vizsgálatot követően a kincstár által nem került továbbításra a miniszter részére
 
-## a kincstár a folyósított előlegre vonatkozó visszafizetési kötelezettségről a 4. § (1) bekezdése szerinti határidő lejártától számított 14 napon belül értesíti a helyi önkormányzatot és a minisztert.
+a kincstár a folyósított előlegre vonatkozó visszafizetési kötelezettségről a 4. § (1) bekezdése szerinti határidő lejártától számított 14 napon belül értesíti a helyi önkormányzatot és a minisztert.
 
 (6a)[^45] Ha a helyi önkormányzat a támogatási előlegről lemondott, a már folyósításra került támogatási előleget 4. § (1) bekezdése szerinti határidő lejártát követő 7 napon belül köteles visszafizetni.
 

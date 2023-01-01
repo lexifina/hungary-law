@@ -6,7 +6,7 @@ a) a 2/A. § (1) bekezdés a) és b) pontjában meghatározott esetben az 5. mel
 
 b)[^49] a 2/A. § (1) bekezdés c) pontjában meghatározott esetben a 9. melléklet C) része
 
-## szerinti adatlapon rögzített és lezárt pályázatát – a (3) bekezdés szerinti kötelező mellékletek csatolásával – a 3. § (3) bekezdése szerinti bejelentést követő 40 napon belül nyújtja be a kincstárnak. A benyújtási határidő elmulasztása jogvesztő.
+szerinti adatlapon rögzített és lezárt pályázatát – a (3) bekezdés szerinti kötelező mellékletek csatolásával – a 3. § (3) bekezdése szerinti bejelentést követő 40 napon belül nyújtja be a kincstárnak. A benyújtási határidő elmulasztása jogvesztő.
 
 (2)[^50] A pályázatban meg kell határozni a védekezés vagy a helyreállítás kezdő és várható befejezési határidejét. A kincstár a helyi önkormányzat pályázatát szabályszerűségi szempontból megvizsgálja, és szükség esetén, határidő kitűzésével, hiánypótlásra történő felhívást ad ki elektronikus úton. A helyi önkormányzatnak a hiány pótlásáról a felszólítás kézhezvételétől számított 7 napon belül – elektronikusan az ebr42 rendszerben is – gondoskodnia kell. Ha a helyi önkormányzat a hiánypótlási felhívásnak nem tesz eleget, vagy azt nem megfelelően teljesíti, a kincstár a pályázatot az ebr42-ben „kincstári elutasítás”-ra állítja. A kincstár a pályázatokat részletes – különös tekintettel a (3) bekezdés h)–j) pontjában megjelölt dokumentumok alapján kialakított – véleménnyel látja el a benyújtást követő 14 napon belül.
 

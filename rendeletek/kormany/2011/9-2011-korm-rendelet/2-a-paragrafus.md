@@ -8,7 +8,7 @@ b)[^17] – a biztosításból vagy egyéb módon megtérülő károk figyelembe
 
 c)[^18] – ha a szúnyogok által okozott ártalom óránkénti mértéke a Nemzeti Népegészségügyi Központnak nyilatkozata szerint csípésszámban kifejezve személyenként meghaladja az 50 csípést – katasztrófavédelmi szúnyoggyérítés többletkiadásainak részbeni támogatására
 
-## [az a)–c) pont a továbbiakban együtt: vis maior esemény].
+[az a)–c) pont a továbbiakban együtt: vis maior esemény].
 
 (2) A támogatás
 
