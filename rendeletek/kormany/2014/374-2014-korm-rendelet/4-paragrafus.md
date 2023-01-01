@@ -52,7 +52,7 @@ a) a keretmérés,
 
 b) az egyeztetés,
 
-ba)[^32] a közlekedési feladatkörében eljáró fővárosi és megyei kormányhivatallal, abban az esetben, ha a mezőgazdasági termelés szállítási és közlekedési feladatainak kiszolgálására, továbbá feltételeinek megteremtése érdekében kialakítandó új út (a továbbiakban: szántóföldi műveleti út) országos, vagy helyi közútra közvetlenül csatlakozik,
+ba)[^32] a közlekedési feladatkörében eljáró fővárosi és vármegyei kormányhivatallal, abban az esetben, ha a mezőgazdasági termelés szállítási és közlekedési feladatainak kiszolgálására, továbbá feltételeinek megteremtése érdekében kialakítandó új út (a továbbiakban: szántóföldi műveleti út) országos, vagy helyi közútra közvetlenül csatlakozik,
 
 bb)[^33] az önkormányzattal belterületi megosztás esetén, a helyi építési szabályzat előírásainak az út kialakítására vonatkozó követelményeiről,
 
@@ -105,7 +105,7 @@ i) az ingatlan-nyilvántartási átvezetésre alkalmas sorsolási megállapodás
 [^29]: A 4. § (2) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
 [^30]: A 4. § (2) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 7. pontja szerint módosított szöveg.
 [^31]: A 4. § (2) bekezdés f) pontja a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^32]: A 4. § (3) bekezdés b) pont ba) alpontja a 478/2015. (XII. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés f) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^32]: A 4. § (3) bekezdés b) pont ba) alpontja a 478/2015. (XII. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés f) pontja, a 616/2022. (XII. 29.) Korm. rendelet 200. §-a szerint módosított szöveg.
 [^33]: A 4. § (3) bekezdés b) pont bb) alpontja a 341/2016. (XI. 17.) Korm. rendelet 36. § c) pontja szerint módosított szöveg.
 [^34]: A 4. § (3) bekezdés f) pontja a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
 [^35]: A 4. § (3) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés b) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.

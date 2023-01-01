@@ -4,7 +4,7 @@
 
 Az osztatlan közös földtulajdon megszüntetésével kapcsolatos, a Foktftv. 44. § (1) bekezdése alapján a ingatlanügyi hatóságot megillető költségtérítés
 
-A fővárosi és megyei kormányhivatalok adminisztrációs költségei
+A fővárosi és vármegyei kormányhivatalok adminisztrációs költségei
 
 |  | A | B |
 
@@ -26,4 +26,4 @@ A fővárosi és megyei kormányhivatalok adminisztrációs költségei
 
 [^133]: A 37. §-t a 454/2021. (VII. 30.) Korm. rendelet 6. §-a iktatta be.
 [^134]: A hatálybalépés időpontja 2021. augusztus 14.
-[^135]: Az 1. mellékletet a 478/2015. (XII. 29.) Korm. rendelet 19. §-a iktatta be, szövege a 138/2017. (VI. 9.) Korm. rendelet 4. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés g) és l) pontja, címe a 454/2021. (VII. 30.) Korm. rendelet 7. § 26. pontja szerint módosított szöveg.
+[^135]: Az 1. mellékletet a 478/2015. (XII. 29.) Korm. rendelet 19. §-a iktatta be, szövege a 138/2017. (VI. 9.) Korm. rendelet 4. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés g) és l) pontja, címe a 454/2021. (VII. 30.) Korm. rendelet 7. § 26. pontja, a 616/2022. (XII. 29.) Korm. rendelet 200. §-a szerint módosított szöveg.

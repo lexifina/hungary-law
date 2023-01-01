@@ -4,7 +4,7 @@
 
 ## 1. Általános szabályok
 
-1. § (1)[^1] Az ingatlanügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: ingatlanügyi hatóság) a 2012. június 1-je után benyújtott kérelmeket elutasítja.
+1. § (1)[^1] Az ingatlanügyi hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: ingatlanügyi hatóság) a 2012. június 1-je után benyújtott kérelmeket elutasítja.
 
 (2)[^2] Az osztatlan közös tulajdon megszüntetésére vonatkozó kérelmekkel érintett földrészletekről a ingatlanügyi hatóság tájékoztatót tesz közzé, amelyet megküld a Nemzeti Földügyi Központ (a továbbiakban: NFK) részére. Az NFK az Agrárminisztériummal kötött támogatási szerződés alapján vesz részt a részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének eljárásában. A tájékoztató tartalmazza
 
@@ -20,7 +20,7 @@ e) a kérelemmel érintett földrészletek esetében a kérelmezők tájékoztat
 
 f) a megosztási eljárás alapjául szolgáló hatályos jogszabályok megjelölését.
 
-(3)[^5] A (2) bekezdés szerinti tájékoztatót a ingatlanügyi hatóság székhelyén, a földrészlet fekvése szerinti települési (fővárosban a kerületi) önkormányzat polgármesteri hivatala, a fővárosban a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a főpolgármesteri hivatal hirdetőtábláján, valamint a fővárosi és megyei kormányhivatal honlapján – a tájékoztató közzétételének napjától számított – 90 napra kell közzétenni. Azon települések esetében, amelyek közös önkormányzati hivatalt tartanak fenn, a tájékoztatót a közös önkormányzati hivatalban és a közös önkormányzati hivatalhoz tartozó önkormányzatnál is közzé kell tenni. A tájékoztató közzétételének napja a hirdetménynek a ingatlanügyi hatóság hirdetőtábláján való kifüggesztés napja.
+(3)[^5] A (2) bekezdés szerinti tájékoztatót a ingatlanügyi hatóság székhelyén, a földrészlet fekvése szerinti települési (fővárosban a kerületi) önkormányzat polgármesteri hivatala, a fővárosban a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a főpolgármesteri hivatal hirdetőtábláján, valamint a fővárosi és vármegyei kormányhivatal honlapján – a tájékoztató közzétételének napjától számított – 90 napra kell közzétenni. Azon települések esetében, amelyek közös önkormányzati hivatalt tartanak fenn, a tájékoztatót a közös önkormányzati hivatalban és a közös önkormányzati hivatalhoz tartozó önkormányzatnál is közzé kell tenni. A tájékoztató közzétételének napja a hirdetménynek a ingatlanügyi hatóság hirdetőtábláján való kifüggesztés napja.
 
 (4)[^6] E rendelet alkalmazásában kérelmezőnek kell tekinteni:
 
@@ -34,11 +34,11 @@ c) ha az e rendelet hatálybalépésének időpontjáig, vagy azt követően az 
 
 (6)[^10] Ha a jogutód az ingatlan-nyilvántartásból nem állapítható meg, akkor az eljárás folytatására az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) rendelkezései az irányadóak.
 
-[^1]: Az 1. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 1. pontja, a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés a) pontja, a 454/2021. (VII. 30.) Korm. rendelet 7. § 1. pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 1. pontja, a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés a) pontja, a 454/2021. (VII. 30.) Korm. rendelet 7. § 1. pontja, a 616/2022. (XII. 29.) Korm. rendelet 200. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 261. § 2. pontja, a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés b) pontja, a 454/2021. (VII. 30.) Korm. rendelet 7. § 2. pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja, a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés b) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^4]: Az 1. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja, a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés b) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^5]: Az 1. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^5]: Az 1. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 200. §-a szerint módosított szöveg.
 [^6]: Az 1. § (4) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (4) bekezdés a) pontja a 454/2021. (VII. 30.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
 [^8]: Az 1. § (4) bekezdés b) pontja a 454/2021. (VII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.

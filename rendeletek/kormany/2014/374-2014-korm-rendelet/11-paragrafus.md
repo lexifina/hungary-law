@@ -16,6 +16,8 @@ a)[^64] a megosztás kiindulási helyét és irányát megállapító határozat
 
 b)[^65] a teljes körű egyezségnek a 15. § (12) bekezdése szerinti befogadását követően
 
+folytatható.
+
 [^59]: A 11. § (1) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés b) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^60]: A 11. § (4) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 7. § (2) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés d) pontja, a 454/2021. (VII. 30.) Korm. rendelet 7. § 13. pontja szerint módosított szöveg.
 [^61]: A 11. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 520. § (1) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 138. § (3) bekezdés b) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

@@ -8,7 +8,7 @@ b) 15. § (18) bekezdés szerinti esetben az ott meghatározott okirat és ingat
 
 c) 17. § (1) bekezdés szerinti esetben sorsolási jegyzőkönyv – illetve annak mellékletei –
 
-## alapján indul meg.
+alapján indul meg.
 
 (2)[^120] Az ingatlan-nyilvántartásba bejegyzett jogok és feljegyzett tények visszajegyzését a Foktftv. 46. § (6) és (7) bekezdése alapján kell elvégezni.
 
