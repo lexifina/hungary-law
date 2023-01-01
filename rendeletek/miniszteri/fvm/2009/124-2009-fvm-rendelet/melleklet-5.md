@@ -114,4 +114,6 @@
 
 5. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^77]
 
+* ÁLLAPOTFELVÉTEL         SZÁLALÁSI TERV         VÉGREHAJTÁS
+
 [^77]: Az 5. melléklet az 53/2014. (IV. 29.) VM rendelet 7. § (7) bekezdésével megállapított szöveg.

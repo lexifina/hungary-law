@@ -1,5 +1,3 @@
-## AZ EGYES FAÁLLOMÁNYTÍPUS-CSOPORTOK ELVÁRT JELLEMZŐI AZ ERDŐ-KÖRNYEZETVÉDELMI CÉLPROGRAMOK ÉRTÉKELÉSE SZEMPONTJÁBÓL
-
 |  | A | B | C | D | E | F | G |
 
 | 1. | Faállomány- típus- csoport | Főfafaj | Mesterséges erdősítés | Természetes felújítás |
@@ -52,7 +50,7 @@
 
 9. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^79]
 
-## Az egyes előírásoknak való meg nem felelés esetén, a meg nem felelés súlyosságának, mértékének, valamint folytonosságának alapján meghatározott jogkövetkezmények
+Az egyes előírásoknak való meg nem felelés esetén, a meg nem felelés súlyosságának, mértékének, valamint folytonosságának alapján meghatározott jogkövetkezmények
 
 1. táblázat
 

@@ -1,5 +1,3 @@
-## Közjóléti berendezések meghatározása
-
 ## SÉTAÚT
 
 ## Minimum 1,2 m széles, stabilizálatlan vagy stabilizált járófelületű út.
@@ -41,5 +39,7 @@
 ## Rögzített, testmozgást szolgáló különféle felületkezelt fa sporteszköz.
 
 8. melléklet a 124/2009. (IX. 24.) FVM rendelethez[^78]
+
+AZ EGYES FAÁLLOMÁNYTÍPUS-CSOPORTOK ELVÁRT JELLEMZŐI AZ ERDŐ-KÖRNYEZETVÉDELMI CÉLPROGRAMOK ÉRTÉKELÉSE SZEMPONTJÁBÓL
 
 [^78]: A 8. melléklet az 53/2014. (IV. 29.) VM rendelet 7. § (8) bekezdésével megállapított szöveg.

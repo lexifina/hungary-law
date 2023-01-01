@@ -1,3 +1,57 @@
+| Értékelési szempont megnevezése | Pontszám |
+
+| Horizontális szempontok |
+
+| Elmaradott és munkanélküliséggel sújtott terület [240/2006. (XI. 30.) Korm. rendelet alapján] | Társadalmi-gazdasági és infrastrukturális szempontból elmaradott település községhatárában tervezett erdőrészlet | 7 |
+
+| Elmaradott és munkanélküliséggel sújtott terület [240/2006. (XI. 30.) Korm. rendelet alapján] | Az országos átlagot legalább 1,75-szörösen meghaladó munkanélküliségű település községhatárában elhelyezkedő erdőrészlet | 7 |
+
+| Térségi fenntarthatóság vizsgálata (helybenlakás) | A kérelmezett terület a lakhely, illetve székhely szerinti községhatárban található | 6 |
+
+| A kérelmezett terület a lakhely, illetve székhely szerinti településsel szomszédos községhatárban található | 4 |
+
+| Erdősültség vizsgálata | 10% alatti erdősültséggel rendelkező községhatárban helyezkedik el | 6 |
+
+| 10–20% közötti erdősültséggel rendelkező községhatárban helyezkedik el | 3 |
+
+| 20% feletti erdősültséggel rendelkező községhatárban helyezkedik el | 2 |
+
+| Kiemelt területen tervezett beruházás | Balaton Kiemelt Üdülőkörzet (2000. évi CXII. törvény) | 4 |
+
+| Velencei-tó–Vértes Kiemelt Üdülőkörzet [1117/2003. (XI. 28.) Korm. határozat] | 4 |
+
+| Budapesti Agglomeráció (2005. évi LXIV. törvény) | 4 |
+
+| Horizontális szempontok összesen: | 30 |
+
+| Szakmai szempontok |
+
+| Kérelmezett terület mérete 5,00 ha felett | 8 |
+
+| Jelenlegi/tervezett faállomány: az e rendelet 1. melléklete alapján kiemelten támogatható | 12 |
+
+| Elegyességének vizsgálata | Az elegyesség mértéke >30% | 10 |
+
+| Az elegyesség mértéke 20–30% | 7 |
+
+| Az elegyesség mértéke 10–19,9% | 4 |
+
+| Erdőrészleten található jelenlegi faállomány tájhonosságának vizsgálata | 100–70%-ban tájhonos fafajokból álló állomány | 10 |
+
+| 69,9–50%-ban tájhonos fafajokból álló állomány | 7 |
+
+| Kevesebb mint 50%-ban tájhonos fafajokból álló állomány | 3 |
+
+| Az Adattárban védett vagy Natura 2000 területként nyilvántartott terület | 10 |
+
+| Szakmai szempontok összesen | 50 |
+
+| Az egyes célprogramokban jelentkező speciális szempontok (lásd a táblázat alatt részletezve) | 20 |
+
+| Összesen: | 100 pont |
+
+## Speciális szakmai pontozási szempontok:
+
 ## 1. Agresszíven terjedő, idegenhonos fa- és cserjefajok visszaszorítása
 
 ## 1. A kérelmezett erdőrészletben az e rendelet 2. mellékletében szereplő, adott termőhelynek megfelelő természetes erdőtársulásra jellemző célállomány található (8 pont).
