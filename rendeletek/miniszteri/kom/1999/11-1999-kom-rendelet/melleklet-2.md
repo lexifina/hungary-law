@@ -1,6 +1,6 @@
 ## A Dél-Mezőföld Tájvédelmi Körzet ingatlan-nyilvántartási helyrajzi számai
 
-## Fejér megye
+## Fejér vármegye
 
 ## Alsószentiván
 
@@ -14,7 +14,7 @@
 
 ## 0152/24 a–s, 0152/24 v–z, 0153, 0154, 0156/1–5, 0157–0159, 0161/a–f, 0167/a, 0169/1 a, 0169/1 c–h, 0170, 0172–0174, 0180
 
-## Tolna megye
+## Tolna vármegye
 
 ## Bikács
 
@@ -52,13 +52,13 @@
 
 ## 043/a, 044, 045/j, 045/m–n, 046, 0287/1 b–f, 0308/a, 0308/c–d, 0309, 0310/b, 0311, 0313/a–f, 0314/a–c, 0315, 0316/a–b, 0317–0321, 0322/a–k, 0323, 0324, 0325/a–b, 0326–0328, 0329/a–f, 0330/a–b, 0331, 0332, 0333/a–h, 0334/a–c, 0334/f–k, 0334/m–n, 0344, 0345, 0392/1 a–c
 
-2. számú melléklet a 11/1999. (X. 29.) KöM rendelethez
+2. számú melléklet a 11/1999. (X. 29.) KöM rendelethez[^2]
 
 A Dél-Mezőföld Tájvédelmi Körzet fokozottan védett területének ingatlan-nyilvántartási helyrajzi számai
 
 és erdőgazdasági üzemtervi jelei
 
-Fejér megye
+Fejér vármegye
 
 Alsószentiván
 
@@ -72,7 +72,7 @@ Vajta
 
 0169/1 a-ból 32 A, 32 B, 34 A, 35 A, 35 B, 35 C, 35 D, 36 A, 36 B, 36 C, 36 D, 41 C, 42 B, 49 A, 50 A, 51 A, 53 A, 53 B, 58 A, 58 B, 58 C, 58 D, 58 TI, 59 B, 59 C, 0180-ból 44 A, 45 A, 47 B, 47 C, 48 A, 61 A, 62 B, 63 A, 63 C, 63 D
 
-Tolna megye
+Tolna vármegye
 
 Bikács
 
@@ -93,3 +93,5 @@ Németkér
 Paks
 
 0761-ből 232 A, 232 B, 232 Q, 0763/a-ból 232 D, 0763/d-ből 232 B, 232 Q, 0767/1 a, 0768, 0769/a–b, 0770–0773, 0774/1 a–b, 0789/b-ből 51 E
+
+[^2]: A 2. melléklet az 59/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
