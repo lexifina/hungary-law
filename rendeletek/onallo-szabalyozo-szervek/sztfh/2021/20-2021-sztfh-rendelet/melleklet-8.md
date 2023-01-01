@@ -29,3 +29,5 @@
 ## id) a működési engedély másra nem ruházható át.
 
 8. melléklet a 20/2021. (X. 29.) SZTFH rendelethez
+
+Pókerverseny nevezési díj, rebuy és add-on befizetési bizonylat kitöltése és kezelése

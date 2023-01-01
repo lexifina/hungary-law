@@ -10,7 +10,7 @@ d) a jogszabályban meghatározott, kötelező adatkör nem került rögzítésr
 
 e) egyéb visszaélés gyanúja merül fel,
 
-## a játékosi egyenleget haladéktalanul felfüggeszti.
+a játékosi egyenleget haladéktalanul felfüggeszti.
 
 (2) Többszörös nyilvántartásba vétel esetén a játékosi egyenleg végleges lezárására, elszámolására és a játékos játékból való kizárására irányuló intézkedéseket valamennyi érintett játékosra és játékosi egyenlegre alkalmazni kell, biztosítva, hogy egy játékoshoz csak egy játékosi egyenleg tartozzon.
 

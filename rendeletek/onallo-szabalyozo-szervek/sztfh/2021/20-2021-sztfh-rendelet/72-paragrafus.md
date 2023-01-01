@@ -1,6 +1,6 @@
-## VIII. Fejezet
+## VIII. Fejezet[^17]
 
-## BEJELENTÉSKÖTELES JÁTÉKOK ÉS JÁTÉKAUTOMATÁK
+## JÁTÉKAUTOMATÁK
 
 72. § (1) A szerencsejáték-felügyeleti hatóság a játékautomata nyilvántartásba vételéről a 6. melléklet szerinti tartalmi és formai elemeket tartalmazó nyilvántartásbavételi igazolást állít ki a kérelmező részére.
 
@@ -63,3 +63,5 @@ j) a játékjog szerzésének módját és
 k) a tanúsító jelek számát.
 
 (7) A szervező az általa üzemeltetett, közterületen vagy a közönség számára nyitva álló épületben vagy helyiségben meghibásodott, üzemképtelen játékautomatát 3 munkanapon belül köteles megjavíttatni, vagy gondoskodnia kell annak közterületről vagy a közönség számára nyitva álló épületből vagy helyiségből történő elszállításáról.
+
+[^17]: A VIII. Fejezet címe a 40/2022. (XII. 19.) SZTFH rendelet 19. § d) pontja szerint módosított szöveg.

@@ -40,6 +40,8 @@ d) az Szjtv.-ben foglalt egyéb kötelezettségek teljesítésére.
 
 (7) Az Szjtv. 30. § (2) bekezdése alapján nyereményre fordítandó összegek – folyamatosan szervezett játékok esetén történő – halmozódását a szerencsejáték-felügyeleti hatóság legfeljebb egy évig engedélyezheti. Ezen összegeket elkülönítetten kell nyilvántartani, és a halmozódási időszakot követően a teljes halmozott összeget nyeremények céljára kell felhasználni.
 
-(8) A folyamatosan szervezett sorsolásos játékok át nem vett nyereményeit a nyeremény igénylésére nyitva álló határidőt követő száznyolcvan, az ajándéksorsolás át nem vett nyereményeit a nyeremény átvételére nyitva álló határidőt követő harminc napon belül kell nyeremények céljára fordítani. Az át nem vett nyereményekből elkülönített alapot kell képezni, amelynek nyeremények céljára történő felhasználását a szerencsejáték-felügyeleti hatóságnak be kell jelenteni, és tényleges felhasználásáról elszámolást kell készíteni.
+(8)[^3] A folyamatosan szervezett sorsolásos játékok át nem vett nyereményeit a nyeremény igénylésére nyitva álló határidőt követő száznyolcvan napon belül kell nyeremények céljára fordítani. Az át nem vett nyereményekből elkülönített alapot kell képezni, amelynek nyeremények céljára történő felhasználását a szerencsejáték-felügyeleti hatóságnak be kell jelenteni, és tényleges felhasználásáról elszámolást kell készíteni.
 
 (9) A (7) és (8) bekezdés szerinti elkülönített alapokról a szerencsejáték-felügyeleti hatóság külön felhívására, de évente legalább egy alkalommal a szervező részletes információkat köteles adni a szerencsejáték-felügyeleti hatóság részére.
+
+[^3]: A 11. § (8) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 19. § b) pontja szerint módosított szöveg.

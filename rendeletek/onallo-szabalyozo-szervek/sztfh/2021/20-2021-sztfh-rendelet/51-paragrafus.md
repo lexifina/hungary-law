@@ -16,7 +16,7 @@ e) a pénznyerőautomata-feltöltés, -ürítés és
 
 f) a jackpotkifizetés
 
-## rendjét.
+rendjét.
 
 (3) A szervező az elszámolás alátámasztására auditált számítógépes elszámolási rendszert üzemeltethet.
 

@@ -1,5 +1,3 @@
-## Napi eredményösszesítő bizonylat kitöltése és kezelése
-
 ## A bizonylat nyomdai úton előre sorszámozott, 50 lapos hárompéldányos tömb. A kártyateremben egyidejűleg csak egy ilyen tömb lehet használatban, annak utolsó lapjának felhasználása után kezdhető új tömb. A kihagyott, fel nem használt lapokat áthúzással érvényteleníteni kell. A bizonylatot a pénztáros tölti ki.
 
 ## A „Kártyaterem neve” és „Kártyaterem címe” rovat kitöltése történhet a kártyaterem bélyegzőjével is. „Játéknap” a kártyaterem nyitásától a zárásig terjedő, a naptári naptól eltérően meghatározott időszak.

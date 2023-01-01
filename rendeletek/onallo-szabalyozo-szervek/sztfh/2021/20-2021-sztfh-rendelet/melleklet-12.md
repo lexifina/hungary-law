@@ -1,5 +1,3 @@
-## Asztalonkénti elszámolás bizonylat kitöltése és kezelése
-
 ## A bizonylat nyomdai úton előre sorszámozott, 50 lapos hárompéldányos tömb. Nyitvatartási időben az asztalonkénti elszámolás bizonylatokat az adott játékasztalnál kell tartani. A bizonylattömb borítóján fel kell tüntetni az adott asztal számát, azonosító jelét. Asztalonként egyidejűleg csak egy tömb lehet használatban, utolsó lapjának felhasználása után kezdhető új tömb. A kihagyott, fel nem használt lapokat áthúzással érvényteleníteni kell.
 
 ## A bizonylatot a játékvezető nyitja meg, vezeti és zárja le a játéknap végén. A „Kártyaterem neve” és „Kártyaterem címe” rovat kitöltése történhet a kártyaterem bélyegzőjével is. Téves adat beírása esetén a bizonylatot érvényteleníteni kell és jegyzőkönyv felvétele mellett új bizonylatot kell kiállítani. A „Játéknap” a kártyaterem nyitásától a zárásig terjedő, a naptári naptól eltérően meghatározott időszak, a „Nyitás időpontja” a játékasztal tényleges nyitásának időpontja. Az asztalnyitás tényét és valódiságtartalmát a teremvezető, a pénztáros és a játékvezető aláírásával igazolja.
@@ -15,3 +13,5 @@
 ## Az asztalzárás időpontja az az időpont, amikor az adott játékasztal zárása elkezdődik. Az asztalzárás tényét és valódiságtartalmát a teremvezető, a pénztáros és a játékvezető aláírásával igazolja.
 
 12. melléklet a 20/2021. (X. 29.) SZTFH rendelethez
+
+Napi eredményösszesítő bizonylat kitöltése és kezelése

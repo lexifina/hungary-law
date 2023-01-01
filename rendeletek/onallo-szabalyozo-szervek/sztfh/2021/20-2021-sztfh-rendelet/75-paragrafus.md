@@ -1,3 +1,3 @@
-## 74. §[^2]
+75. §[^20]
 
-[^2]: A 74. §-t a 3/2022. (I. 24.) SZTFH rendelet 7. §-a hatályon kívül helyezte.
+[^20]: A 75. §-t a 3/2022. (I. 24.) SZTFH rendelet 7. §-a hatályon kívül helyezte.

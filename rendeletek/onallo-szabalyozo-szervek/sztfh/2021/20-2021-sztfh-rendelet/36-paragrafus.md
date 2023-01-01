@@ -12,7 +12,7 @@ a) igazgatóként, igazgatóhelyettesként felsőfokú iskolai végzettség vagy
 
 b) főkönyvelőként a munkakör betöltéséhez szükséges felsőfokú iskolai végzettség és legalább hároméves szakmai gyakorlat,
 
-c) főpénztárosként középfokú iskolai végzettség, valutapénztárosi tanfolyam elvégzése és legalább kétéves, pénztárosi munkakörben szerzett szakmai gyakorlat,
+c)[^10] főpénztárosként középfokú iskolai végzettség, pénztárkezelő és valutapénztárosi szakképesítés és legalább kétéves, pénztárosi munkakörben szerzett szakmai gyakorlat,
 
 d) teremfelügyelőként középfokú iskolai végzettség és legalább kétéves, játékkaszinóban szerzett szakmai gyakorlat,
 
@@ -22,6 +22,9 @@ f) a d) és e) pontokban nem nevesített egyéb játéktechnikai alkalmazottkén
 
 g) biztonsági szolgálat vezetőként középfokú iskolai végzettség, továbbá biztonságszervezői tanfolyam elvégzése,
 
-h) pénztárosként középfokú iskolai végzettség és legalább kétéves, pénztárosi munkakörben eltöltött szakmai gyakorlat vagy megfelelő pénzügyi ismeretek és ténylegesen megkezdett valutapénztárosi tanfolyam,
+h)[^11] pénztárosként középfokú iskolai végzettség és legalább kétéves, pénztárosi munkakörben eltöltött szakmai gyakorlat vagy pénztárkezelő és valutapénztárosi szakképesítés vagy a szakképesítést biztosító tanfolyam tényleges megkezdése és a szakképesítésnek a tanfolyam megkezdésétől számított egy éven belül történő befejezése,
 
 i) videó-személyzetként középfokú iskolai végzettség.
+
+[^10]: A 36. § (3) bekezdés c) pontja a 40/2022. (XII. 19.) SZTFH rendelet 18. § b) pontja szerint módosított szöveg.
+[^11]: A 36. § (3) bekezdés h) pontja a 40/2022. (XII. 19.) SZTFH rendelet 18. § c) pontja szerint módosított szöveg.

@@ -8,7 +8,7 @@ a) az Szjtv. 37. § 28. pontja szerinti szervert (a továbbiakban: szerver) info
 
 b) a távszerencsejáték és az online kaszinójáték műszaki-informatikai rendszerben a szerver által futtatott játékfunkciókat a (3) bekezdés és a 4. melléklet szerinti szempontok alapján
 
-## az auditálásra jogosult szervezettel a kérelem benyújtását megelőzően auditáltatja.
+az auditálásra jogosult szervezettel a kérelem benyújtását megelőzően auditáltatja.
 
 (3) A (2) bekezdés b) pontja esetén az auditnak ki kell terjednie
 

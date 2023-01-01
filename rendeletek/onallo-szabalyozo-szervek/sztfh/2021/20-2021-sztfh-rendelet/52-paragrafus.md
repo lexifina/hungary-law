@@ -12,7 +12,7 @@ b) bezárás esetén legkésőbb a bezárás napjáig,
 
 c) a fogadóiroda rendkívüli esemény miatti zárva tartását haladéktalanul
 
-## bejelenti.
+bejelenti.
 
 (2) A szervezőt megilleti a fogadási ajánlat törlésének joga
 
