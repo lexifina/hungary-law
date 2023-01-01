@@ -1,12 +1,4 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetésének címrendjét – 2019. augusztus 8-i fordulónappal – az 1. melléklet szerint módosítja;
-
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## igazságügyi miniszter
-
-## Határidő: 2019. augusztus 8.
+## 1.[^1]
 
 ## 2. felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon a Magyar Államkincstárnál
 
@@ -24,14 +16,7 @@
 
 ## Határidő: 2019. augusztus 8.
 
-1. melléklet az 1475/2019. (VIII. 1.) Korm. határozathoz
+1. melléklet az 1475/2019. (VIII. 1.) Korm. határozathoz[^2]
 
-Eredeti előirányzattal rendelkező előirányzatok átrendezése
-
-| ÁHT-T | Új címrendi besorolás | Megnevezés | Régi címrendi besorolás |
-
-| Fejezet | Cím | Alcím | Jog- cím- csoport | Jog- cím | Fejezet | Cím | Alcím | Jog- cím- csoport | Jog- cím |
-
-| 360428 | 10 | 03 | 00 | 00 | 00 | Magyarország Európai Unió melletti Állandó Képviseletének igazgatása | 11 | 05 | 00 | 00 | 00 |
-
-| 263067 | 10 | 20 | 02 | 30 | 00 | EU utazási költségtérítések | 11 | 30 | 07 | 01 | 00 |
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
