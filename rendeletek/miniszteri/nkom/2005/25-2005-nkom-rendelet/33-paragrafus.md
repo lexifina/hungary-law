@@ -1,4 +1,4 @@
-33. § (1)[^10] Műemlékké nyilvánítom a Pécs, Teréz u. 11–13., valamint Jókai u. 11–13. szám alatti, 18514 és 18516 helyrajzi számú ingatlanokat.
+33. § (1)[^34] Műemlékké nyilvánítom a Pécs, Teréz u. 11–13., valamint Jókai u. 11–13. szám alatti, 18514 és 18516 helyrajzi számú ingatlanokat.
 
 (2) Műemléki környezetet nem jelölök ki.
 
@@ -6,4 +6,4 @@
 
 (4) A védetté nyilvánítás célja a római kori lakóépületek és fürdő építészeti maradványainak megőrzése.
 
-[^10]: A 33. § (1) bekezdése a 32/2005. (XII. 22.) NKÖM rendelet 47. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^34]: A 33. § (1) bekezdése a 32/2005. (XII. 22.) NKÖM rendelet 47. § (3) bekezdésének c) pontja szerint módosított szöveg.

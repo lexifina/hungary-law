@@ -1,4 +1,4 @@
-37. § (1) Műemlékké nyilvánítom a Békés megyei Szarvas, Vajda Péter u. 5. szám alatti, 2014 helyrajzi számú ingatlant.
+37. § (1)[^36] Műemlékké nyilvánítom a Békés vármegyei Szarvas, Vajda Péter u. 5. szám alatti, 2014 helyrajzi számú ingatlant.
 
 (2) Műemléki környezetnek a 2, 9, 10, 2013/2, 2016, 2017 helyrajzi számú ingatlanokat, valamint a 3, 1405, 2032 helyrajzi számú közterületek fenti ingatlanokkal határos szakaszát jelölöm ki.
 
@@ -6,6 +6,7 @@
 
 (4) Az (1) bekezdésben meghatározott műemléki ingatlanra vonatkozóan a Magyar Államot elővásárlási jog illeti meg.
 
-(5)[^11] A védetté nyilvánítás célja az 1856-ban épült klasszicista evangélikus parókia építészeti értékeinek, településképben betöltött jelentős szerepének megőrzése.
+(5)[^37] A védetté nyilvánítás célja az 1856-ban épült klasszicista evangélikus parókia építészeti értékeinek, településképben betöltött jelentős szerepének megőrzése.
 
-[^11]: A 37. § (5) bekezdése a 32/2005. (XII. 22.) NKÖM rendelet 47. § (3) bekezdésének d) pontja szerint módosított szöveg.
+[^36]: A 37. § (1) bekezdése a 10/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
+[^37]: A 37. § (5) bekezdése a 32/2005. (XII. 22.) NKÖM rendelet 47. § (3) bekezdésének d) pontja szerint módosított szöveg.

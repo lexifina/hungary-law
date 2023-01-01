@@ -1,4 +1,4 @@
-40. § (1) Műemlékké nyilvánítom a Somogy megyei Szulok, Szabadság tér 5. szám alatti, 378/1 helyrajzi számú ingatlant.
+40. § (1)[^39] Műemlékké nyilvánítom a Somogy vármegyei Szulok, Szabadság tér 5. szám alatti, 378/1 helyrajzi számú ingatlant.
 
 (2) Műemléki környezetnek a 261, 262, 377, 378/2, 378/3, 380, 381, 382, 383 helyrajzi számú ingatlanokat, valamint a 258/2, 260, 372, 379, 460/2 helyrajzi számú közterületek érintett ingatlanok által határolt szakaszát jelölöm ki.
 
@@ -7,3 +7,5 @@
 (4) Az (1) bekezdésben meghatározott műemléki ingatlanra vonatkozóan a Magyar Államot elővásárlási jog illeti meg.
 
 (5) A védetté nyilvánítás célja a 19. század első felében épült, a 19. század második felében bővített fogadóépület építészeti és néprajzi értékeinek, valamint településképi szerepének megőrzése.
+
+[^39]: A 40. § (1) bekezdése a 10/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-38. § (1) Műemlékké nyilvánítom a Vas megyei Szombathely-Kámon, Szófia u. 20. szám alatti, 1533/4 helyrajzi számú ingatlant.
+38. § (1)[^38] Műemlékké nyilvánítom a Vas vármegyei Szombathely-Kámon, Szófia u. 20. szám alatti, 1533/4 helyrajzi számú ingatlant.
 
 (2) Műemléki környezetnek az 1538 és 1540/6 helyrajzi számú ingatlanokat jelölöm ki.
 
@@ -7,3 +7,5 @@
 (4) Az (1) bekezdésben meghatározott műemléki ingatlanra vonatkozóan a Magyar Államot elővásárlási jog illeti meg.
 
 (5) A védetté nyilvánítás célja a 16–17. századi eredetű, a 19. században kibővített Reissig-kastély építészeti értékeinek és a kastélypark fennmaradt részének megőrzése.
+
+[^38]: A 38. § (1) bekezdése a 10/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.
