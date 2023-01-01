@@ -1,6 +1,4 @@
-## 1. §
-
-(1) Műemléki jellegűvé nyilvánítjuk a
+1. § (1) Műemléki jellegűvé nyilvánítjuk a
 
 a) Székesfehérvár, Ady Endre u. 5. számú
 
