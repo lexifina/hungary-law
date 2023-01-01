@@ -6,7 +6,7 @@ b) a hátrányos helyzetű munkavállaló szolgáltatást kérővel,
 
 c) a súlyosan hátrányos helyzetű munkavállalónak vagy hátrányos helyzetű munkavállalónak nem minősülő szolgáltatást kérővel
 
-## kérésére egyéni cselekvési tervet (a továbbiakban: egyéni cselekvési terv) készít, melynek egy példányát a személyes megbeszélés alkalmával átadja a szolgáltatást kérő részére.
+kérésére egyéni cselekvési tervet (a továbbiakban: egyéni cselekvési terv) készít, melynek egy példányát a személyes megbeszélés alkalmával átadja a szolgáltatást kérő részére.
 
 (2) Az állami foglalkoztatási szerv a súlyosan hátrányos helyzetű munkavállalónak vagy hátrányos helyzetű munkavállalónak nem minősülő szolgáltatást kérő részére minden esetben felkínálja az egyéni cselekvési terv készítésének lehetőségét.
 

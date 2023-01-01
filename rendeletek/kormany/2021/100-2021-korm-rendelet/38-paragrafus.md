@@ -6,7 +6,7 @@ a) lakhatási támogatás,
 
 b) utazási támogatás
 
-## nyújtható.
+nyújtható.
 
 (2) Az állami foglalkoztatási szerv a munkaerőpiaci programban meghatározottak szerint foglalkoztatásra irányuló jogviszony létrehozása esetén, a jogviszony létesítésének napjáig benyújtott kérelem alapján legfeljebb egy évi időtartamra mobilitási támogatást nyújthat az álláskeresőnek, ha
 

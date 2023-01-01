@@ -1,8 +1,6 @@
-## 49. §[^6]
-
 1. melléklet a 100/2021. (II. 27.) Korm. rendelethez
 
-## A nyilvántartásba vett foglalkoztatást elősegítő szolgáltatást nyújtó szervezet szolgáltatás nyújtásának személyi feltételei
+A nyilvántartásba vett foglalkoztatást elősegítő szolgáltatást nyújtó szervezet szolgáltatás nyújtásának személyi feltételei
 
 1. Információnyújtás feltétele:
 
@@ -61,5 +59,3 @@
 2.23. fel nem sorolt egyetemi vagy főiskolai szintű végzettség és munkaügyi, társadalombiztosítási, személyügyi, személyzeti szakképzettség vagy szakképesítés vagy szakirányú továbbképzésben szerzett személyügyi szakigazgatás-szervező szakképzettség, és ezen a területen szerzett legalább két év szakmai gyakorlattal rendelkezik,
 
 2.24. középiskolai végzettség és államilag elismert felsőfokú munkaügyi, felsőfokú személyzeti, felsőfokú személyügyi, felsőfokú társadalombiztosítási, középfokú munkaügyi, középfokú személyügyi, középfokú társadalombiztosítási, szociális ügyintéző vagy szociális asszisztens szakképzettség vagy szakképesítés, és ezen a területen szerzett legalább két év szakmai gyakorlattal rendelkezik.
-
-[^6]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

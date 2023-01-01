@@ -3,3 +3,5 @@
 a) a munkaközvetítéssel összefüggésben kerül sor, a Gazdaságvédelmi Foglalkoztatási Alap szolidaritási alaprészéből vagy európai uniós forrásból,
 
 b) a foglalkoztatási alaprészből nyújtott támogatásokkal összefüggésben kerül sor, a Gazdaságvédelmi Foglalkoztatási Alap foglalkoztatási alaprészéből vagy európai uniós forrásból
+
+kell biztosítani.
