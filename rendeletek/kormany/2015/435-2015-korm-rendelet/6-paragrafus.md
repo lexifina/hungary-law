@@ -1,28 +1,16 @@
-## 4. A Társaság feladatai
+## 4.[^16] A minisztérium feladatai
 
-6. §[^11] (1) A Társaság az 1. § (1) bekezdése szerinti projektek tekintetében
+6. §[^17] (1)[^18] Ha a minisztérium a konzorciumvezető az 1. § (1) bekezdése szerinti projektek tekintetében, akkor ellátja a konzorcium tagjainak az irányító hatóság felé való képviseletét.
 
-a) szükség esetén javaslatot tesz a nemzeti fejlesztési miniszternek és a szakpolitikai felelősnek a projekteket érintő jogszabályok módosítására, együttműködve a projektek tekintetében hatáskörrel rendelkező irányító hatósággal,
-
-b) a nemzeti fejlesztési miniszter döntése alapján közreműködik a kormányzati intézkedések végrehajtásában, a projekteket érintő miniszteri beszámolók, tájékoztatók előkészítésében,
-
-c) kapcsolatot tart a nemzeti fejlesztési miniszter és a szakpolitikai felelős irányítása alá tartozó, az adott feladat ellátásáért felelős szervezettel, valamint a projektek tekintetében hatáskörrel rendelkező irányító hatósággal,
-
-d) negyedévente jelentést készít a nemzeti fejlesztési miniszter részére a tevékenységéről és a projektek előrehaladásáról, továbbá haladéktalanul tájékoztatja – az ok megjelölésével – a minisztert, ha a projektek megvalósítása késedelmet szenvedhet,
-
-e) ha a Társaság a konzorciumvezető, ellátja a konzorcium tagjainak az irányító hatóság felé való képviseletét, és
-
-f) ellát minden olyan feladatot, amelyet jogszabály, kormányhatározat vagy a tulajdonosi joggyakorló utasításával a hatáskörébe utal.
-
-(2) A Társaság az 1. § (1) bekezdés a) pontja szerinti projektek tekintetében, az (1) bekezdésben foglaltak mellett, konzorciumvezetőként
+(2)[^19] A minisztérium az 1. § (1) bekezdés a) pontja szerinti projektek tekintetében, az (1) bekezdésben foglaltak mellett, konzorciumvezetőként
 
 a) előkészíti a projektet,
 
 b) a támogatást igénylő – a támogatási szerződés megkötését követően kedvezményezett – konzorcium konzorciumvezetőjeként ellátja a projekt megvalósításával összefüggő projektmenedzsment feladatokat,
 
-c) lebonyolítja a közbeszerzési eljárásokat, kiválasztja a nyertes ajánlattevőket, és szükség esetén aláírja a keretmegállapodásokat, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 104. §-ában foglaltak figyelembevételével,
+c) lebonyolítja a közbeszerzési eljárásokat, kiválasztja a nyertes ajánlattevőket, és szükség esetén aláírja a keretmegállapodásokat, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 104. §-ában foglaltak figyelembevételével, és
 
-d) ellátja a műszaki ellenőri feladatokat.
+d) – szükség esetén közreműködő bevonásával – gondoskodik a műszaki ellenőri feladatok ellátásáról.
 
 (3) Az 1. § (1) bekezdés b) pontja szerinti projektek tekintetében, az (1) bekezdésben foglaltak mellett, konzorciumvezetőként vagy – ha a konzorciumi megállapodás erre feljogosítja – konzorciumi tagként
 
@@ -30,6 +18,10 @@ a) lebonyolíthatja a végső kedvezményezett nevében eljárva, annak meghatal
 
 b) keretmegállapodásos eljárások esetén a nyertes ajánlattevőkkel – a végső kedvezményezett nevében és annak javára, annak meghatalmazása alapján – aláírhatja a keretmegállapodásokat, a Kbt. 104. §-ában foglaltak figyelembevételével, és
 
-c) elláthatja a projektek megvalósításával kapcsolatos tervezési és műszaki ellenőri feladatokat.
+c)[^20] elláthatja a projektek megvalósításával kapcsolatos tervezési és – szükség esetén közreműködő bevonásával – műszaki ellenőri feladatokat.
 
-[^11]: A 6. § az 57/2017. (III. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^16]: A 4. alcím címe az 523/2022. (XII. 15.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^17]: A 6. § az 57/2017. (III. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^18]: A 6. § (1) bekezdése az 523/2022. (XII. 15.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^19]: A 6. § (2) bekezdése az 523/2022. (XII. 15.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^20]: A 6. § (3) bekezdés c) pontja az 523/2022. (XII. 15.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.

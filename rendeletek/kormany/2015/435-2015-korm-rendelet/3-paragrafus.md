@@ -2,10 +2,12 @@
 
 ## AZ INTÉZMÉNYRENDSZER
 
-## 3. A miniszter feladatai
+## 3.[^11] Az állami beruházásokért felelős miniszter feladatai
 
-3. § (1) A miniszter gondoskodik az 1. § szerinti projektek határidőben történő megvalósításáról.
+3. § (1)[^12] Az állami beruházásokért felelős miniszter (a továbbiakban: miniszter) gondoskodik az 1. § szerinti projektek határidőben történő megvalósításáról.
 
-(2)[^10] A miniszter az (1) bekezdés szerinti feladatait a Társaság (a továbbiakban: Társaság) bevonásával látja el.
+(2)[^13]
 
-[^10]: A 3. § (2) bekezdése az 57/2017. (III. 20.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^11]: A 3. alcím címe az 523/2022. (XII. 15.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^12]: A 3. § (1) bekezdése az 523/2022. (XII. 15.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^13]: A 3. § (2) bekezdését az 523/2022. (XII. 15.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
