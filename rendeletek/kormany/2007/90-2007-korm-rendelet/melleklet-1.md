@@ -1,4 +1,4 @@
-## 22. §[^59] E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 7. § (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+## 22. §[^63] E rendeletnek az egységes elektronikus ügyintézési rendszer kialakításával összefüggésben egyes kormányrendeletek módosításáról szóló 477/2016. (XII. 27.) Korm. rendelettel megállapított 7. § (2) bekezdését 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
 1. számú melléklet a 90/2007. (IV. 26.) Korm. rendelethez
 
@@ -68,7 +68,7 @@ b) Dokumentációk:
 
 3. A kárelhárítási tervek tartalma
 
-a)[^60] Együttműködési terv:
+a)[^64] Együttműködési terv:
 
 – az üzemen belüli figyelőhálózat felépítése,
 
@@ -76,7 +76,7 @@ a)[^60] Együttműködési terv:
 
 – a kárelhárítás irányításáért felelős vezetők neve, beosztása, címe, telefonszáma, az üzemi kárelhárítási szervezetbe beosztott személyek neve, beosztása, címe, telefonszáma,
 
-– a területileg illetékes környezetvédelmi hatóság, közegészségügyi hatáskörben eljáró járási hivatal, Pest Megyei Kormányhivatal, önkormányzat, tűzoltóság, polgári védelem, továbbá a területen működő VIZIG címe, telefon- és telefaxszáma,
+– a területileg illetékes környezetvédelmi hatóság, közegészségügyi hatáskörben eljáró járási hivatal, Pest Vármegyei Kormányhivatal, önkormányzat, tűzoltóság, polgári védelem, továbbá a területen működő VIZIG címe, telefon- és telefaxszáma,
 
 – az üzem területére történő belépés rendje,
 
@@ -108,5 +108,5 @@ d) Kárelhárítási anyagok és eszközök meghatározása:
 
 – az elhasznált kárelhárítási anyagokat és eszközöket a kárelhárítást követően azonnal pótolni kell.
 
-[^59]: A 22. §-t a 195/2017. (VII. 10.) Korm. rendelet 6. §-a iktatta be.
-[^60]: Az 1. számú melléklet 3. pont a) alpontja az 527/2013. (XII. 30.) Korm. rendelet 49. § (15) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 93. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^63]: A 22. §-t a 195/2017. (VII. 10.) Korm. rendelet 6. §-a iktatta be.
+[^64]: Az 1. számú melléklet 3. pont a) alpontja az 527/2013. (XII. 30.) Korm. rendelet 49. § (15) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 93. § (2) bekezdés e) pontja, a 616/2022. (XII. 29.) Korm. rendelet 75. § d) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## A környezetkárosodást megelőző intézkedés és a kárelhárítás kiadásainak viselése
 
-## 20. §[^54] Az e rendelet szerinti feladatok ellátását végző költségvetési szervek felmerülő kiadásaikat maguk fedezik, de a környezetkárosodást megelőző intézkedés, illetve a kárelhárítás befejezése után a költségeknek a környezethasználóra való áthárításáról
+## 20. §[^58] Az e rendelet szerinti feladatok ellátását végző költségvetési szervek felmerülő kiadásaikat maguk fedezik, de a környezetkárosodást megelőző intézkedés, illetve a kárelhárítás befejezése után a költségeknek a környezethasználóra való áthárításáról
 
 a) az 1. § a) és b) pontja szerinti környezeti elem vonatkozásában felmerült költségek esetében a vízvédelmi hatóság,
 
@@ -8,7 +8,7 @@ b) az 1. § c)–g) pontja szerinti környezeti elem vonatkozásában felmerült
 
 ## intézkedik.
 
-20. §[^55]
+20. §[^59]
 
-[^54]: A 20. § a 195/2017. (VII. 10.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^55]: Az újabb 20. §-t a 477/2016. (XII. 27.) Korm. rendelet 38. § (2) bekezdése iktatta be, hatályon kívül helyezte a 195/2017. (VII. 10.) Korm. rendelet 8. §-a.
+[^58]: A 20. § a 195/2017. (VII. 10.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^59]: Az újabb 20. §-t a 477/2016. (XII. 27.) Korm. rendelet 38. § (2) bekezdése iktatta be, hatályon kívül helyezte a 195/2017. (VII. 10.) Korm. rendelet 8. §-a.
