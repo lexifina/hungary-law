@@ -28,7 +28,7 @@ c) a teljesítés módját.
 
 (4) A miniszter a működési engedélyek nyilvántartását a kormányzati portálon évente közzéteszi.
 
-(5) A miniszter a működési engedélyt megküldi a székhely szerint illetékes megyei hatókörű városi múzeumnak, budapesti székhely esetén a Budapesti Történeti Múzeumnak.
+(5)[^5] A miniszter a működési engedélyt megküldi a székhely szerint illetékes vármegyei hatókörű városi múzeumnak, budapesti székhely esetén a Budapesti Történeti Múzeumnak.
 
 (6) Ha
 
@@ -37,3 +37,5 @@ a) a muzeális intézmény fenntartója vagy
 b) a muzeális intézmény kiállításában bemutatott vagy a gyűjteményébe tartozó kulturális javak tulajdonosa
 
 természetes személy, a kérelemhez benyújtott nyilatkozatával hozzájárul – a (4) bekezdés szerinti nyilvántartással összefüggésben – az (1) bekezdés g) és h) pontja szerinti adatai kezeléséhez.
+
+[^5]: A 18. § (5) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 264. §-a szerint módosított szöveg.

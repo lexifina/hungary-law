@@ -8,7 +8,7 @@
 
 (5) Az (1)–(4) bekezdésben foglalt megállapodások megkötésére
 
-a) megyei hatókörű városi múzeum,
+a)[^3] vármegyei hatókörű városi múzeum,
 
 b) tematikus múzeum,
 
@@ -18,6 +18,8 @@ d) országos szakmúzeum vagy
 
 e) országos múzeum
 
-## jogosult.
+jogosult.
 
 (6) Tematikus múzeumban és területi múzeumban legfeljebb két munkakör létesítése teljesíthető a (3) vagy a (4) bekezdés szerinti megállapodás útján.
+
+[^3]: A 9. § (5) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 264. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 6. § A megyei hatókörű városi múzeum működési engedélyének kiadása iránti kérelemben a fenntartó igazolja, hogy
+6. §[^1] A vármegyei hatókörű városi múzeum működési engedélyének kiadása iránti kérelemben a fenntartó igazolja, hogy
 
 a) a múzeum használatában álló épületben az állományvédelem szempontjainak megfelelő,
 
@@ -6,7 +6,7 @@ aa) állandó és időszakos kiállítás bemutatására alkalmas kiállító he
 
 ab) gyűjteményi raktárakat,
 
-ac) kémiailag vagy biológiailag fertőzött kulturális javak elkülönítésére, mentesítésére is alkalmas előkészítő raktárt, megyei hatókörű vagy regionális feladatok ellátására is alkalmas, felszerelt restaurátor műhelyeket, vegyszerraktárt,
+ac)[^2] kémiailag vagy biológiailag fertőzött kulturális javak elkülönítésére, mentesítésére is alkalmas előkészítő raktárt, vármegyei hatókörű vagy regionális feladatok ellátására is alkalmas, felszerelt restaurátor műhelyeket, vegyszerraktárt,
 
 ad) könyvtárat és adattárat,
 
@@ -45,3 +45,6 @@ dh) múzeumi informatikus
 munkakört létesít, amelyet a muzeális intézményekben foglalkoztatottak képesítési követelményeire és jogviszonyára irányadó jogszabályokban meghatározott képesítéssel rendelkező szakember tölt be, valamint
 
 e) az arra jogosult a kérelem alapjául szolgáló kulturális javakat a nyilvántartási rendelet szerinti alapleltárba vagy külön nyilvántartásba vette.
+
+[^1]: A 6. § nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 264. §-a szerint módosított szöveg.
+[^2]: A 6. § a) pont ac) alpontja a 616/2022. (XII. 29.) Korm. rendelet 264. §-a szerint módosított szöveg.
