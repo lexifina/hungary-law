@@ -20,7 +20,7 @@ cc) 16-ától 23-áig,
 
 cd) 24-étől az utolsó napig
 
-## tartanak.
+tartanak.
 
 (2)[^18] Az adott elszámolási időszakban csak a tárgyi elszámolási időszak alatt beváltott és kiszolgált vények, illetve a forgalmazók önellenőrzése során feltárt és a NEAK által rögzített, valamint a NEAK által végzett ellenőrzés során feltárt – korábbi elszámolási időszakra vonatkozó – elszámolási hiba miatti korrekciós tételek számolhatók el.
 
