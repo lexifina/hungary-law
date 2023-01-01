@@ -50,27 +50,11 @@
 
 ## Határidő: 2022. december 31.
 
-## 9. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Klíma-, energia- és zöldgazdaság-politikai ágazati programok alcím, 20. Fenntartható városi buszok beszerzésének ösztönzése jogcímcsoporttal történő kiegészítését;
+## 9.[^3]
 
-## Felelős: pénzügyminiszter
+## 10.[^4]
 
-## innovációért és technológiáért felelős miniszter
-
-## Határidő: azonnal
-
-## 10. a Zöld Busz Mintaprojekt megvalósítása érdekében az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Klíma-, energia- és zöldgazdaság-politikai ágazati programok alcím, 20. Fenntartható városi buszok beszerzésének ösztönzése jogcímcsoport javára 1 000 000 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Klíma-, energia- és zöldgazdaság-politikai ágazati programok alcím, 4. Zöldgazdaság Finanszírozási Rendszer jogcímcsoport terhére, az 1. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Határidő: 2019. november 30.
-
-## 11. a Zöld Busz Mintaprojekt megvalósítása érdekében az Áht. 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együttesen – a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Klíma-, energia- és zöldgazdaság-politikai ágazati programok alcím, 20. Fenntartható városi buszok beszerzésének ösztönzése jogcímcsoport javára 602 100 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 43. Központi Maradványelszámolási Alap terhére, az 1. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: 2019. november 30.
+## 11.[^5]
 
 ## 12. egyetért azzal, hogy valamennyi – a közösségi közlekedéshez kapcsolódó – autóbusz beszerzését célzó állami támogatásfajta, állami támogatási program feltételrendszerében jelenjen meg az új autóbuszok beszerzési kötelme mint az állami támogatás feltétele;
 
@@ -78,21 +62,21 @@
 
 ## Határidő: azonnal
 
-## 13.[^3]
+## 13.[^6]
 
-## 14.[^4] a 7. pontban meghatározott cél megvalósítása érdekében felhívja az innovációért és technológiáért felelős minisztert, hogy a tiszta és energiahatékony közúti járművek használatának előmozdításáról szóló, 2009. április 23-i 2009/33/EK európai parlamenti és tanácsi irányelv (a továbbiakban: CVD Irányelv) előírásainak átültetése érdekében hatástanulmány keretében a Zöld Busz Program végrehajtásáért felelős Neumann János Nonprofit Közhasznú Korlátolt Felelősségű Társaság útján, erre a célra biztosított támogatás felhasználásával vizsgálja meg annak lehetőségét, és készítsen előterjesztést a Kormány részére arról, hogy 2021. augusztus 2-től a gépjárművek, az ezekhez tervezett pótkocsik és rendszerek, alkatrészek valamint önálló műszaki egységek általános biztonságára vonatkozó típus-jóváhagyási előírásokról szóló, 2009. július 13-i 661/2009/EK európai parlamenti és tanácsi rendelet 3. cikk 2. és 3. pontjában meghatározott osztályú autóbuszok közbeszerzése esetén a CVD Irányelv rendelkezéseinél szigorúbb, akár 100%-os célérték megállapítása, valamint kizárólag tisztán elektromos meghajtású (akkumulátoros és üzemanyagcellás) autóbuszok közbeszerzésének előírása a COVID-19 világjárványból eredő gazdasági válság tükrében a hazai buszgyártói kapacitásokra és közszolgáltatói forrásigényre tekintettel meghatározható-e, és amennyiben igen, a CVD Irányelvet ennek megfelelően átültető jogszabály-módosításra tegyen javaslatot;
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## Határidő: 2021. május 31.
-
-## 15.[^5] a 7. pontban meghatározott cél megvalósítása érdekében felhívja az innovációért és technológiáért felelős minisztert, hogy a Zöld Busz Program keretében már meghirdetett, valamint az ezt követően meghirdetésre kerülő pályázati felhívásokban dolgozzon ki olyan támogatási feltételrendszert, amely előírja a helyi személyszállítási közszolgáltatásokon túlmenően a főváros és annak legfeljebb 100 km-es vonzáskörzetében végzett elővárosi személyszállítási közszolgáltatások végrehajtásában részt vevők számára a járművek tervszerű, ütemezett cseréjéhez szükséges fejlesztési tervek elkészítését, valamint amely differenciált mértékű önerőelvárást érvényesít;
+## 14.[^7] a 7. pontban meghatározott cél megvalósítása érdekében felhívja az innovációért és technológiáért felelős minisztert, hogy a tiszta és energiahatékony közúti járművek használatának előmozdításáról szóló, 2009. április 23-i 2009/33/EK európai parlamenti és tanácsi irányelv (a továbbiakban: CVD Irányelv) előírásainak átültetése érdekében hatástanulmány keretében a Zöld Busz Program végrehajtásáért felelős Neumann János Nonprofit Közhasznú Korlátolt Felelősségű Társaság útján, erre a célra biztosított támogatás felhasználásával vizsgálja meg annak lehetőségét, és készítsen előterjesztést a Kormány részére arról, hogy 2021. augusztus 2-től a gépjárművek, az ezekhez tervezett pótkocsik és rendszerek, alkatrészek valamint önálló műszaki egységek általános biztonságára vonatkozó típus-jóváhagyási előírásokról szóló, 2009. július 13-i 661/2009/EK európai parlamenti és tanácsi rendelet 3. cikk 2. és 3. pontjában meghatározott osztályú autóbuszok közbeszerzése esetén a CVD Irányelv rendelkezéseinél szigorúbb, akár 100%-os célérték megállapítása, valamint kizárólag tisztán elektromos meghajtású (akkumulátoros és üzemanyagcellás) autóbuszok közbeszerzésének előírása a COVID-19 világjárványból eredő gazdasági válság tükrében a hazai buszgyártói kapacitásokra és közszolgáltatói forrásigényre tekintettel meghatározható-e, és amennyiben igen, a CVD Irányelvet ennek megfelelően átültető jogszabály-módosításra tegyen javaslatot;
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
 ## Határidő: 2021. május 31.
 
-## 16.[^6] felhívja az innovációért és technológiáért felelős minisztert, hogy a MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság (a továbbiakban: MÁV Zrt.) bevonásával
+## 15.[^8] a 7. pontban meghatározott cél megvalósítása érdekében felhívja az innovációért és technológiáért felelős minisztert, hogy a Zöld Busz Program keretében már meghirdetett, valamint az ezt követően meghirdetésre kerülő pályázati felhívásokban dolgozzon ki olyan támogatási feltételrendszert, amely előírja a helyi személyszállítási közszolgáltatásokon túlmenően a főváros és annak legfeljebb 100 km-es vonzáskörzetében végzett elővárosi személyszállítási közszolgáltatások végrehajtásában részt vevők számára a járművek tervszerű, ütemezett cseréjéhez szükséges fejlesztési tervek elkészítését, valamint amely differenciált mértékű önerőelvárást érvényesít;
+
+## Felelős: innovációért és technológiáért felelős miniszter
+
+## Határidő: 2021. május 31.
+
+## 16.[^9] felhívja az innovációért és technológiáért felelős minisztert, hogy a MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság (a továbbiakban: MÁV Zrt.) bevonásával
 
 ## a) vizsgálja meg, hogy a Rendezvények látogatóinak fenntartható autóbuszos közlekedése miként biztosítható,
 
@@ -116,7 +100,7 @@
 
 ## Határidő: azonnal
 
-## 17.[^7] felhívja az innovációért és technológiáért felelős minisztert, hogy
+## 17.[^10] felhívja az innovációért és technológiáért felelős minisztert, hogy
 
 ## a) a MÁV Zrt. útján gondoskodjon a Rendezvényekkel kapcsolatos személyszállítási közszolgáltatásról,
 
@@ -132,107 +116,37 @@
 
 ## Határidő: 2021. szeptember 5.
 
-## 18.[^8] felhívja a technológiai és ipari minisztert, hogy a 8. pont b) alpontjában meghatározott feladat megvalósítása érdekében biztosítson a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 3. Energia- és klímapolitikai modernizációs rendszer jogcímcsoport terhére további, legfeljebb 627 000 000 forint forrást a városi közlekedési közszolgáltatási feladatok ellátását biztosító városok és szolgáltatások számára, a végrehajtásért felelős HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési Ügynökség Zártkörűen Működő Részvénytársaság (a továbbiakban: HUMDA Zrt.) útján;
+## 18.[^11] felhívja a technológiai és ipari minisztert, hogy a 8. pont b) alpontjában meghatározott feladat megvalósítása érdekében biztosítson a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 3. Energia- és klímapolitikai modernizációs rendszer jogcímcsoport terhére további, legfeljebb 627 000 000 forint forrást a városi közlekedési közszolgáltatási feladatok ellátását biztosító városok és szolgáltatások számára, a végrehajtásért felelős HUMDA Magyar Autó-Motorsport és Zöld Mobilitás-fejlesztési Ügynökség Zártkörűen Működő Részvénytársaság (a továbbiakban: HUMDA Zrt.) útján;
 
 ## Felelős: technológiai és ipari miniszter
 
 ## Határidő: azonnal
 
-## 19.[^9] a 7. pontban meghatározott cél megvalósítása érdekében felhívja a technológiai és ipari minisztert, hogy – a HUMDA Zrt. bevonásával, erre a célra biztosított támogatás felhasználásával és a 14. pont szerinti hatásvizsgálat figyelembevételével – készítsen előterjesztést a Kormány részére a CVD Irányelvet átültető jogszabály-módosításra;
+## 19.[^12] a 7. pontban meghatározott cél megvalósítása érdekében felhívja a technológiai és ipari minisztert, hogy – a HUMDA Zrt. bevonásával, erre a célra biztosított támogatás felhasználásával és a 14. pont szerinti hatásvizsgálat figyelembevételével – készítsen előterjesztést a Kormány részére a CVD Irányelvet átültető jogszabály-módosításra;
 
 ## Felelős: technológiai és ipari miniszter
 
 ## Határidő: azonnal
 
-## 20.[^10] felhívja a technológiai és ipari minisztert, hogy a HUMDA Zrt. útján gondoskodjon a Magyar Nemzeti Hidrogén Stratégia 2030 prioritást élvező Helyi léptékű szállítással összefüggő közszolgáltatások zöldítése projektjének és a Zöld Busz Program feladatainak összehangolásáról, valamint annak kiterjesztéséről, a Zöld Busz Plusz Program előkészítéséről.
+## 20.[^13] felhívja a technológiai és ipari minisztert, hogy a HUMDA Zrt. útján gondoskodjon a Magyar Nemzeti Hidrogén Stratégia 2030 prioritást élvező Helyi léptékű szállítással összefüggő közszolgáltatások zöldítése projektjének és a Zöld Busz Program feladatainak összehangolásáról, valamint annak kiterjesztéséről, a Zöld Busz Plusz Program előkészítéséről.
 
 ## Felelős: technológiai és ipari miniszter
 
 ## Határidő: folyamatos
 
-1. melléklet az 1537/2019. (IX. 20.) Korm. határozathoz
-
-| XVII. Innovációs és Technológiai Minisztérium |
-
-| XLII. A költségvetés közvetlen bevételei és kiadásai fejezet |
-
-| ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA |
-
-| Költségvetési év: 2019. |
-
-| forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XVII. |  |  |  |  |  | Innovációs és Technológiai Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 35 |  |  |  |  |  | Klíma-, energia- és zöldgazdaság-politikai ágazati programok |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 338306 |  |  |  | 4 |  |  |  |  |  | Zöldgazdaság Finanszírozási Rendszer |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -1 000 000 000 |  |  |  |
-
-| 381228 |  |  |  | 20 |  |  |  |  |  | Fenntartható városi buszok beszerzésének ösztönzése |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K3 |  |  |  |  |  | Dologi kiadások |  |  |  |  |  |  |  |  | 2 100 000 |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 1 600 000 000 |  |  |  |
-
-|  | XLII. |  |  |  |  |  | A költségvetés közvetlen bevéltelei és kiadásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 374873 |  | 43 |  |  |  |  |  | Központi Maradványelszámolási Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -602 100 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |
-
-| forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |
-
-| forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XVII. |  |  |  |  |  | Innovációs és Technológiai Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 35 |  |  |  |  |  | Klíma-, energia- és zöldgazdaság-politikai ágazati programok |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 338306 |  |  |  | 4 |  |  |  |  |  | Zöldgazdaság Finanszírozási Rendszer |  |  |  |  |  |  |  |  | -1 000 000 000 |  |  |  |
-
-| 381228 |  |  |  | 20 |  |  |  |  |  | Fenntartható városi buszok beszerzésének ösztönzése |  |  |  |  |  |  |  |  | 1 602 100 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |
-
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-|  |  |  |  |  |  |  |  |  | időarányos |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  | teljesítésarányos |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  | 1 példány |  |  | egyéb: |  | 2019. november 30. | 1 602 100 000 |  |  |  | 1 602 100 000 |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+1. melléklet az 1537/2019. (IX. 20.) Korm. határozathoz[^14]
 
 [^1]: A 7. pont az 1280/2021. (V. 17.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 8. pont az 1280/2021. (V. 17.) Korm. határozat 1. pontjával megállapított, az 1412/2022. (VIII. 18.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^3]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 14. pontot az 1938/2020. (XII. 17.) Korm. határozat 2. pontja iktatta be, szövege az 1280/2021. (V. 17.) Korm. határozat 2. pontjával megállapított szöveg.
-[^5]: A 15. pontot az 1938/2020. (XII. 17.) Korm. határozat 3. pontja iktatta be, szövege az 1280/2021. (V. 17.) Korm. határozat 2. pontjával megállapított szöveg.
-[^6]: A 16. pontot az 1280/2021. (V. 17.) Korm. határozat 3. pontja iktatta be.
-[^7]: A 17. pontot az 1280/2021. (V. 17.) Korm. határozat 3. pontja iktatta be.
-[^8]: A 18. pontot az 1412/2022. (VIII. 18.) Korm. határozat 1. pontja iktatta be.
-[^9]: A 19. pontot az 1412/2022. (VIII. 18.) Korm. határozat 1. pontja iktatta be.
-[^10]: A 20. pontot az 1412/2022. (VIII. 18.) Korm. határozat 1. pontja iktatta be.
+[^3]: A 9. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: A 10. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^5]: A 11. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^6]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 14. pontot az 1938/2020. (XII. 17.) Korm. határozat 2. pontja iktatta be, szövege az 1280/2021. (V. 17.) Korm. határozat 2. pontjával megállapított szöveg.
+[^8]: A 15. pontot az 1938/2020. (XII. 17.) Korm. határozat 3. pontja iktatta be, szövege az 1280/2021. (V. 17.) Korm. határozat 2. pontjával megállapított szöveg.
+[^9]: A 16. pontot az 1280/2021. (V. 17.) Korm. határozat 3. pontja iktatta be.
+[^10]: A 17. pontot az 1280/2021. (V. 17.) Korm. határozat 3. pontja iktatta be.
+[^11]: A 18. pontot az 1412/2022. (VIII. 18.) Korm. határozat 1. pontja iktatta be.
+[^12]: A 19. pontot az 1412/2022. (VIII. 18.) Korm. határozat 1. pontja iktatta be.
+[^13]: A 20. pontot az 1412/2022. (VIII. 18.) Korm. határozat 1. pontja iktatta be.
+[^14]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.

@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1537-30
 | 2020-12-17 | 2019-1537-30-22.3 | 1938/2020. (XII. 17.) Korm. határozat |
 | 2021-05-17 | 2019-1537-30-22.4 | 1280/2021. (V. 17.) Korm. határozat |
 | 2022-08-18 | 2019-1537-30-22.5 | 1412/2022. (VIII. 18.) Korm. határozat |
+| 2023-01-01 | 2019-1537-30-22.6 | 2011: CXCV. törvény |
