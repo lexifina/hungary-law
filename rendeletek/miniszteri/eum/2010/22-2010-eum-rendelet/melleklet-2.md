@@ -1,10 +1,12 @@
 2. melléklet a 22/2010. (V. 7.) EüM rendelethez
 
-## Lézer optikai sugárzás
+Lézer optikai sugárzás
 
 1. Expozíciós határértékek
 
 1.1. A szemet érő lézersugárzás expozíciós határértékei – Rövid expozíciós időtartam < 10 s
+
+## 0M14608_0
 
 |  | A | B | C | D | E | F | G | H | I | J |
 
@@ -66,6 +68,8 @@
 
 1.2. A szemet érő lézersugárzás expozíciós határértékei – Hosszú expozíciós időtartam ≥ 10 s
 
+## 0M14608_1
+
 |  | A | B | C | D | E | F |
 
 | 1. | Hullámhossz [nm] Lásd az a megjegyzést | Határoló nyílás | Időtartam [s] |
@@ -119,6 +123,8 @@
 | 25. | d megjegyzés | Az expozíciós érték mérésekor γ meghatározása a következő: Ha α (forrás nyílásszöge) > γ (határoló kúpszög, a megfelelő oszlopban zárójelben megadva), akkor a mérési látószög γm lesz a γ adott értéke. (Nagyobb mérési látószög alkalmazása a veszély túlbecsüléséhez vezetne.) Ha α < γ, akkor a γm mérési látószögnek megfelelő nagyságúnak kell lennie ahhoz, hogy teljesen magába zárja a forrást, de egyébként nem behatárolt és nagyobb lehet γ-nál. |
 
 1.3. A bőrt érő lézersugárzás expozíciós határértékei
+
+## 0M14608_2
 
 |  | A | B | C | D | E | F | G | H | I |
 
@@ -204,7 +210,7 @@
 
 1.5.1.2. A t idő alatt kibocsátott impulzusok bármely csoportjának (vagy sorozatban lévő impulzusok alcsoportjának) expozíciója nem haladhatja meg a t időre vonatkozó expozíciós határértéket.
 
-1.5.1.3. Az egy impulzuscsoporton belüli bármely egyedi impulzusból eredő expozíció nem haladhatja meg a Cp = N-0,25 kumulatív-termális korrekciós tényezővel megszorzott, egyedi impulzusra vonatkozó expozíciós határértéket, ahol N az impulzusok száma. Ez a szabály csak az égési sérülésekkel szemben védő expozíciós határértékekre vonatkozik, ahol a kevesebb, mint Tmin alatt kibocsátott összes impulzus egy impulzusként kezelendő.
+1.5.1.3. Az egy impulzuscsoporton belüli bármely egyedi impulzusból eredő expozíció nem haladhatja meg a Cp = N-0,25 kumulatív-termális korrekciós tényezővel megszorzott, egyedi impulzusra vonatkozó expozíciós határértéket, ahol N az impulzusok száma. Ez a szabály csak az égési sérülésekkel szemben védő expozíciós határértékekre vonatkozik, ahol a kevesebb, mint Tminalatt kibocsátott összes impulzus egy impulzusként kezelendő.
 
 1.5.2. Az érvényes spektrális tartományokhoz tartozó értékek
 
@@ -222,13 +228,17 @@
 
 | 6. | 1 500 <λ≤ 1 800 | Tmin = 10 s |
 
-| 7. | 1 800 <λ≤ 2 600 | Tmin = 10 -3 s (= 1 ms) |
+| 7. | 1 800 <λ≤ 2 600 | Tmin = 10 -3s (= 1 ms) |
 
 | 8. | 2 600 <λ≤ 106 | Tmin = 10 -7 s (= 100 ns) |
 
 2. A lézer optikai sugárzás biofizikailag releváns expozíció értékeinek meghatározására szolgáló képletek:
 
+## 0M14608_5
+
 | 2.1. |  |
+
+## 0M14608_6
 
 | 2.2. |  |
 

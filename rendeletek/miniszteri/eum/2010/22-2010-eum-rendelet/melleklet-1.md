@@ -2,9 +2,11 @@
 
 1. melléklet a 22/2010. (V. 7.) EüM rendelethez
 
-## Nem-koherens optikai sugárzás
+Nem-koherens optikai sugárzás
 
 1. Nem-koherens optikai sugárzás expozíciós határértékei
+
+## 0M14601_0
 
 |  | A | B | C | D | E | F | G |
 
@@ -48,29 +50,43 @@
 
 2.1. Az 1. pontban foglalt táblázat a) indexszel jelölt sorához:
 
+## 0M14601_1
+
 |  | (Heff csak a 180-400 nm tartományban érvényes.) |
 
 2.2. Az 1. pontban foglalt táblázat b) indexszel jelölt sorához:
+
+## 0M14601_2
 
 |  | (HUVA csak a 315-400 nm tartományban érvényes.) |
 
 2.3. Az 1. pontban foglalt táblázat c) és d) indexszel jelölt sorához:
 
+## 0M14601_3
+
 |  | (LB csak a 300-700 nm tartományban érvényes.) |
 
 2.4. Az 1. pontban foglalt táblázat e) és f) indexszel jelölt sorához:
+
+## 0M14601_4
 
 |  | (EB csak a 300-700 nm tartományban érvényes.) |
 
 2.5. Az 1. pontban foglalt táblázat g)–l) indexszel jelölt sorához:
 
+## 0M14601_5
+
 |  | (A λ1 és λ2 megfelelő értékeit lásd az 1. pontban foglalt táblázatban.) |
 
 2.6. Az 1. pontban foglalt táblázat m) és n) indexszel jelölt sorához:
 
+## 0M14601_6
+
 |  | (EIR csak a 780-3000 nm tartományban érvényes.) |
 
 2.7. Az 1. pontban foglalt táblázat o) indexszel jelölt sorához:
+
+## 0M14601_7
 
 |  | (Hskin csak a 380-3 000 nm tartományban érvényes.) |
 
@@ -78,9 +94,13 @@
 
 3.1 Az 1. pontban foglalt táblázat a) indexszel jelölt sorához:
 
+## 0M14601_8
+
 |  | és Heff = Eeff · Δt |
 
 3.2. Az 1. pontban foglalt táblázat b) indexszel jelölt sorához:
+
+## 0M14601_9
 
 |  | és HUVA = EUVA · Δt |
 
@@ -90,11 +110,15 @@
 
 3.5. Az 1. pontban foglalt táblázat g)–l) indexszel jelölt sorához:
 
+## 0M14601_10
+
 |  | (λ 1 és λ 2 megfelelő értékeit lásd az 1. pont szerinti táblázatban.) |
 
 3.6. Az 1. pontban foglalt táblázat m) és n) indexszel jelölt sorához:
 
 3.7. Az 1. pontban foglalt táblázat o) indexszel jelölt sorához:
+
+## 0M14601_11
 
 |  | és Hskin = Eskin · Δt |
 
@@ -122,7 +146,7 @@
 
 | 10. | Δλ | a számítási és mérési intervallumok sávszélessége, nanométerben kifejezve [nm] |
 
-| 11. | Lλ(λ), Lλ | a forrás spektrális sugársűrűsége watt per négyzetméter per szteradián per nanométerben kifejezve [W m-2 sr-1 nm-1] |
+| 11. | Lλ(λ), Lλ | a forrás spektrális sugársűrűsége watt per négyzetméter per szteradián per nanométerben kifejezve [W m-2 sr-1nm-1] |
 
 | 12. | R(λ) | spektrális súlyozás a látható és az IR-A sugárzás által a szemben okozott hőkárosodás hullámhossz-függőségének figyelembevételével (6. pontban foglalt táblázat) [dimenzió nélküli] |
 

@@ -1,4 +1,4 @@
-10/A. §[^1] (1) Az olyan optikai sugárzást kibocsátó berendezés üzembe helyezését, amelynek ipari vagy egészségügyi tevékenységre történő használata során a munkavállalót az 1. vagy a 2. mellékletben meghatározott határérték 75%-át meghaladó expozíció érheti, a munkáltató köteles bejelenteni a telephely szerinti sugár-egészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak (a továbbiakban: kormányhivatal).
+10/A. §[^1] (1)[^2] Az olyan optikai sugárzást kibocsátó berendezés üzembe helyezését, amelynek ipari vagy egészségügyi tevékenységre történő használata során a munkavállalót az 1. vagy a 2. mellékletben meghatározott határérték 75%-át meghaladó expozíció érheti, a munkáltató köteles bejelenteni a telephely szerinti sugár-egészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak (a továbbiakban: kormányhivatal).
 
 (2) Az (1) bekezdés szerinti bejelentés kötelező adattartalma:
 
@@ -17,3 +17,4 @@ e) az expozícióval érintett munkavállalók száma.
 (4) Az e rendeletben foglaltak megtartását a kormányhivatalok ellenőrzik.
 
 [^1]: A 10/A. §-t a 44/2016. (XII. 28.) EMMI rendelet 54. §-a iktatta be.
+[^2]: A 10/A. § (1) bekezdése az 54/2022. (XII. 27.) BM rendelet 4. §-a szerint módosított szöveg.
