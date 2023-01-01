@@ -24,12 +24,16 @@ b) az igénybevevő az engedély előírásaitól eltérően hasznosítja más c
 
 (10) Engedély nélkül létesített célkitermelőhely esetében az ingatlanügyi hatóság a cél-kitermelőhely létesítésének engedélyezésére vonatkozó végleges határozat beszerzése érdekében megkeresi a bányafelügyeletet. A végleges határozatot az igénybevevő is benyújthatja az ingatlanügyi hatóság részére.
 
-(11) Az igénybevevőt a termőföld eredeti állapotba történő helyreállítására kell kötelezni, ha
+(11) Az igénybe vevőt az ingatlanügyi hatóság a termőföld eredeti állapotba történő helyreállítására kötelezi, ha az engedély nélküli igénybevétel megvalósításától az engedély nélküli más célú hasznosítás iránti eljárás megindításáig 10 év még nem telt el és
 
 a) a (12) bekezdésben meghatározott feltételek nem állnak fenn,
 
-b) a tulajdonos, haszonélvezet fennállása esetén a haszonélvező a (9) bekezdésben foglalt felhívás ellenére nem nyilatkozik, és a tulajdonosi vagy haszonélvezet fennállása esetén a haszonélvezői hozzájáruló nyilatkozatot az igénybevevő sem nyújtja be az ingatlanügyi hatósághoz, vagy
+b) a tulajdonos, haszonélvezet fennállása esetén a haszonélvező a (9) bekezdésben foglalt felhívás ellenére nem nyilatkozik, és a tulajdonosi vagy haszonélvezet fennállása esetén a haszonélvezői hozzájáruló nyilatkozatot az igénybe vevő sem nyújtja be az ingatlanügyi hatósághoz, vagy
 
 c) az engedély nélkül létesített célkitermelőhely esetében nem áll rendelkezésre a cél-kitermelőhely létesítésének engedélyezésére vonatkozó véglegessé vált határozat.
+
+(11a) A (11) bekezdés szerinti 10 éves időtartam fennállásának igazolása az igénybe vevőt vagy a tulajdonost, haszonélvezet fennállása esetén a haszonélvezőt terheli.
+
+(11b) Az ingatlanügyi hatóság az eljárást megszünteti, ha a (11) bekezdés szerinti 10 éves időtartam eltelt és a más célú hasznosítás utólagos engedélyezésének nincs helye.
 
 (12) Az igénybevevőnek a (8) bekezdésben meghatározott kérelme alapján a termőföld végleges más célú hasznosításának utólagos hozzájárulására akkor kerülhet sor, ha a más célú hasznosítás előzetes engedélyezésének a 11. §-ban és a 15/B. § (3) bekezdésben meghatározott feltételei – a 16/A. § (4) bekezdésben meghatározott eset kivételével – egyébként fennállnak.

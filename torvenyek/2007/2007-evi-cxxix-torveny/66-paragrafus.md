@@ -16,6 +16,8 @@ b) a termőföld mennyiségi védelme tekintetében e törvényben szabályozott
 
 c) az agrofotovoltaikus erőmű létesítésének és üzemeltetésének földvédelemre vonatkozó
 
+d) a talajjavító mederanyag és a kezelt mederiszap mezőgazdasági felhasználásának, valamint ennek bejelentése és engedélyezése
+
 részletes szabályait.
 
 (2) Felhatalmazást kap a földügyért felelős miniszter, hogy rendelettel állapítsa meg
@@ -42,12 +44,12 @@ i) a gyümölcs termőhelyi besoroláshoz szükséges szakértői tevékenység 
 
 a) a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjainak mértékét az adópolitikáért felelős miniszterrel egyetértésben, valamint
 
-b) a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjának befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben
+b) a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjának befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel és a fővárosi, vármegyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben
 
 c) a gyümölcs termőhelyi kataszteri eljárás igazgatási szolgáltatási díjainak mértékét az adópolitikáért felelős miniszterrel egyetértésben,
 
-d) a földvédelmi eljárás díjának mértékét, a befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel, valamint a fővárosi és megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben,
+d) a földvédelmi eljárás díjának mértékét, a befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel, valamint a fővárosi és vármegyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben,
 
-e) a földminősítési eljárás díjának mértékét, a befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel, valamint a fővárosi és megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben
+e) a földminősítési eljárás díjának mértékét, a befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel, valamint a fővárosi és vármegyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben
 
 kiadott rendeletben határozza meg.

@@ -1,6 +1,6 @@
 ## A földvédelmi járulékra és földvédelmi bírságra vonatkozó közös szabályok
 
-26. § (1) A járulékot és a bírságot a termőföld fekvése szerint illetékes fővárosi és megyei kormányhivatal e célra létrehozott központosított beszedési számlájára kell befizetni.
+26. § (1) A járulékot és a bírságot a termőföld fekvése szerint illetékes fővárosi és vármegyei kormányhivatal e célra létrehozott központosított beszedési számlájára kell befizetni.
 
 (2) A járulék a központi költségvetést illeti meg.
 
@@ -34,7 +34,7 @@ iránti kérelemről – a (7) bekezdésben meghatározott esetek kivételével 
 
 (6) Ha a kérelem nem tartalmazza a 15/B. § (7) bekezdésében, illetve a 22. § (6), (6a) vagy (8) bekezdésében meghatározott adatokat, az ingatlanügyi hatóság a kérelmezőt hiánypótlásra szólítja fel.
 
-(7) Ha a kérelmező a (6) bekezdésben meghatározott esetben a hiánypótlási felhívásnak határidőben nem tesz eleget, az eljárást az ingatlanügyi hatóság szünteti meg. Ha a kérelem a 15/B. § (7) bekezdésében, illetve a 22. § (6) vagy (8) bekezdésében meghatározott határidőn túl került benyújtásra, a kérelmet az ingatlanügyi hatóság utasítja el.
+(7) Ha a kérelmező a (6) bekezdésben meghatározott esetben a hiánypótlási felhívásnak határidőben nem tesz eleget, az eljárást az ingatlanügyi hatóság megszünteti. Ha a kérelem a 15/B. § (7) bekezdésében, illetve a 22. § (6) vagy (8) bekezdésében meghatározott határidőn túl került benyújtásra, a kérelmet az ingatlanügyi hatóság elutasítja.
 
 (8) A 15/B. § (7) bekezdésében, illetve a 22. § (6), (6a) vagy (8) bekezdésében meghatározottaknak megfelelő adattartalmú kérelem beérkezését, illetve a hiányosan benyújtott kérelem esetén a hiánypótlás határidőben történő teljesítését követő 30 napon belül az ingatlanügyi hatóság helyszíni szemlét tart a
 

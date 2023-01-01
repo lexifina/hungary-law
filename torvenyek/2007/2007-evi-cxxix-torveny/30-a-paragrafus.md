@@ -10,6 +10,6 @@ b) az ingatlan-nyilvántartásban művelés alól kivett területként nyilvánt
 
 c) az ingatlan-nyilvántartásban szántó művelési ágban nyilvántartott olyan földrészlet, amelynek művelési ága ültetvény-újratelepítés eredményeként – legfeljebb 3 éven belül – szőlő vagy gyümölcsös művelési ágú földrészletre változik,
 
-d) az ingatlan-nyilvántartásban erdő művelési ágban nyilvántartott olyan földrészlet, amely az erdészeti hatóság döntése alapján már nem minősül erdőnek, és a földrészlet művelési ága fásított terület művelési ágra változik, vagy
+d)
 
-e) az ingatlan-nyilvántartásban nem erdő művelési ágban nyilvántartott olyan földrészlet, amely az erdészeti hatóság döntése alapján erdőnek minősül, és a földrészlet művelési ága erdő vagy fásított terület művelési ágra változik.
+e) az ingatlan-nyilvántartásban nem erdő művelési ágban nyilvántartott olyan földrészlet, amely az erdészeti hatóság döntése alapján erdőnek minősül, és a földrészlet művelési ága fásított terület művelési ágra változik.

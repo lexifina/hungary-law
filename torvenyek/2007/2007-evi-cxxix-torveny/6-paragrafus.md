@@ -30,7 +30,7 @@ c) a tervezett újrahasznosítással kialakítandó terület adatait ábrázoló
 
 (5) Az újrahasznosítási terv tartalmazza:
 
-a) az újrahasznosítás tervezett céljának megvalósításához szükséges munkafolyamatok leírását,
+a) az újrahasznosítás tervezett céljának megvalósításához szükséges munkafolyamatok leírását, valamint
 
 b) a földrészletnek az ingatlan-nyilvántartás szerinti jogi jellegéből adódó speciális feladatokat, azok ütemezését és módszerét.
 
@@ -46,7 +46,7 @@ b) előírja az újrahasznosítás megvalósítása érdekében az igénybevevő
 
 (8) Az újrahasznosításról a (7) bekezdésben meghatározott bejelentéstől számított 15 napon belül, bejelentés hiányában legkésőbb a (6) bekezdés szerinti határozatban meghatározott határidő elteltét követő 30 napon belül az ingatlanügyi hatóság helyszíni szemle során győződik meg.
 
-(9) Ha a helyszíni szemle során megállapításra kerül, hogy a terület újrahasznosítása a (6) bekezdés szerinti határozatban előírtak szerint valósult meg, az ingatlanügyi hatóság az újrahasznosítást határozattal elfogadja, amelyben megállapítja az újrahasznosított terület művelési ágát és minőségi osztályát.
+(9) Ha a helyszíni szemle során megállapításra kerül, hogy a terület újrahasznosítása a (6) bekezdés szerinti határozatban előírtak szerint valósult meg, az ingatlanügyi hatóság az újrahasznosítást határozattal elfogadja, amelyben megállapítja az újrahasznosított terület művelési ágát, minőségi osztályát és aranykorona értékét.
 
 (10) Ha a helyszíni szemle során megállapításra kerül, hogy a terület újrahasznosítására nem, vagy nem a (6) bekezdés szerinti határozatban előírtaknak megfelelően került sor, az ingatlanügyi hatóság újabb határozatot hoz, amelyben határidő megjelölésével az újrahasznosítás érdekében szükséges további munkák elvégzésére kötelezi az igénybevevőt. A további munkák elvégzését előíró határozatban foglaltak végrehajtására a (8) és (9) bekezdésben foglaltakat kell alkalmazni.
 

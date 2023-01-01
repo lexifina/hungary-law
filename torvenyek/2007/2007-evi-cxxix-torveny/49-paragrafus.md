@@ -30,7 +30,7 @@ e) talajjavító mederanyag termőföldön történő felhasználása.
 
 (6) A (2) bekezdésben foglalt tevékenységek a bejelentést követően a talajvédelmi terv érvényességi idejéig folytathatóak, ezt követően a talajvédelmi terv készítésének szabályairól szóló rendelet szerinti ellenőrző vizsgálatokat kell végezni.
 
-(7) A (2) bekezdés szerinti bejelentéshez csatolni kell a földügyért felelős miniszter rendeletében meghatározott talajvédelmi tervet, továbbá a (2) bekezdés b)–c) pontjában írt tevékenységhez kiviteli terv is szükséges.
+(7) A (2) bekezdés a)–d) pontja szerinti bejelentéshez csatolni kell a földügyért felelős miniszter rendeletében meghatározott talajvédelmi tervet, a (2) bekezdés e) pontja szerinti bejelentéshez – ha jogszabály eltérően nem rendelkezik – csatolni kell az egyszerűsített talajvédelmi tervet, továbbá a (2) bekezdés b)–c) pontjában írt tevékenységhez kiviteli terv is szükséges.
 
 (8) Az (1) bekezdés a)–d) és a (2) bekezdés b)–c) pontjában írt tevékenység esetén, amennyiben az ügyfél az érintett termőföldnek
 
