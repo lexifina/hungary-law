@@ -1,8 +1,8 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1a) bekezdésében biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet fejezetrendjét – 2019. augusztus 1. fordulónappal – a XXXVI. Eötvös Loránd Kutatási Hálózat fejezettel egészíti ki;
+## 1.[^2]
 
-## 2. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet XXXVI. Eötvös Loránd Kutatási Hálózat fejezet címrendjét – 2019. augusztus 1. fordulónappal – az 1. Eötvös Loránd Kutatási Hálózat Titkársága címmel egészíti ki;
+## 2.[^3]
 
-## 3. a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 50. § (1) bekezdésére tekintettel, az Áht. 33. § (1) bekezdésében biztosított jogkörében a XXXVI. Eötvös Loránd Kutatási Hálózat fejezet címrendjét – 2019. szeptember 1-jei fordulónappal – az 1. melléklet szerint módosítja;
+## 3.[^4]
 
 ## 4. felkéri a Kormányt, hogy a Magyar Államkincstár útján intézkedjen a 3. pont szerinti címrendi változás 2019. január 1-jei határnappal történő átvezetéséről és egyidejűleg – a Magyar Tudományos Akadémia elnökének adatszolgáltatása alapján – az átrendezés időpontjáig végrehajtott évközi előirányzat-módosítások, teljesítési adatok és a kapcsolódó költségvetési maradványok átvezetésének végrehajtásáról;
 
@@ -12,6 +12,12 @@
 
 ## b) az azonosítás alatt álló kiadások és bevételek megfelelő intézményi, azon belül rovatmélységű előirányzatra történő besorolásáról;
 
-## 6. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 2019. augusztus 1. nappal a Kvtv. 1. melléklet XXXIII. Magyar Tudományos Akadémia fejezet 1. MTA Titkárság Igazgatása, tiszteletdíjak cím terhére 157 277 000 forint, valamint a Kvtv. 1. melléklet XXXIII. Magyar Tudományos Akadémia fejezet, 5. MTA egyéb intézmények cím, 1. MTA Létesítménygazdálkodási Központ alcím terhére 66 689 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XXXVI. Eötvös Loránd Kutatási Hálózat fejezet, 1. Eötvös Loránd Kutatási Hálózat Titkársága cím javára, a 2. melléklet szerint.
+## 6.[^5]
 
-1. melléklet a 30/2019. (VII. 12.) OGY határozathoz
+1. melléklet a 30/2019. (VII. 12.) OGY határozathoz[^6]
+
+[^2]: Az 1. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 2. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: A 3. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^5]: A 6. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^6]: Az 1. melléklet a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
