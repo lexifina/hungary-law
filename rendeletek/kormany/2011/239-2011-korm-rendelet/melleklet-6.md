@@ -1,5 +1,3 @@
-## Egyes éghető anyagfajták leégési sebességének jellemző értéket (ami)
-
 |  | A | B |
 
 | 1. | Az anyagok jellemzői | ami értéke |
@@ -50,6 +48,8 @@
 
 | 24. | 100 °C feletti lobbanáspontú folyadékok, amelyek a gyártási folyamatban a gőzök lobbanáspontjánál 50 °C-kal alacsonyabb hőmérsékletig melegednek | 0,7 |
 
-6. melléklet a 239/2011. (XI. 18.) Korm. rendelethez[^15]
+6. melléklet a 239/2011. (XI. 18.) Korm. rendelethez[^33]
 
-[^15]: A 6. mellékletet a 300/2014. (XII. 5.) Korm. rendelet 11. §-a iktatta be.
+Lakó- és közösségi épületek, épületrészek normatív tűzterhelési értékei
+
+[^33]: A 6. mellékletet a 300/2014. (XII. 5.) Korm. rendelet 11. §-a iktatta be.

@@ -34,17 +34,18 @@ b) a munkavégzés – különösen a munkakör sajátosságára, a munkavégzé
 
 9. Alkalomszerűen igénybe vehető létesítményi tűzoltóság: alkalomszerűen igénybe vehető létesítményi tűzoltókból, vagy főfoglalkozású és alkalomszerűen igénybe vehető létesítményi tűzoltókból álló létesítményi tűzoltóság, amelyben az egy időben készenléti jellegű szolgálatot ellátó főfoglalkozású tűzoltók létszáma kevesebb, mint négy fő.
 
-10. Létesítményi tűzoltóság vonulási területe: a létesítményi tűzoltóság fenntartására kötelezett szervezet létesítményének területe, valamint azon más létesítmények területe, amelyekre a szerződésben működési kötelezettséget vállal.
+10.[^2]
 
-11.[^1] Állandó tűzterhelés: a beépített éghető anyagok és épületszerkezetek tömegéből származó tűzterhelési érték.
+11.[^3] Állandó tűzterhelés: a beépített éghető anyagok és épületszerkezetek tömegéből származó tűzterhelési érték.
 
-12.[^2] Időleges tűzterhelés: az adott helyiségben, tűzszakaszban található éghető anyagok és berendezések tömegéből származó tűzterhelési érték.
+12.[^4] Időleges tűzterhelés: az adott helyiségben, tűzszakaszban található éghető anyagok és berendezések tömegéből származó tűzterhelési érték.
 
-13.[^3] Normatív tűzterhelés: bizonyos rendeltetésű helyiségekre, helyiségcsoportokra a tűzvédelmi tervezésben alkalmazható, statisztikai felmérésen alapuló időleges tűzterhelési érték.
+13.[^5] Normatív tűzterhelés: bizonyos rendeltetésű helyiségekre, helyiségcsoportokra a tűzvédelmi tervezésben alkalmazható, statisztikai felmérésen alapuló időleges tűzterhelési érték.
 
-14.[^4] Tűzterhelés: az építmény adott tűzszakaszában, helyiségében jelenlévő és beépített anyagok tömegéből (kg) és égéshőjéből (MJ/kg) számított hőmennyiség egységnyi padlófelületre vonatkoztatott értéke, MJ/m2-ben.
+14.[^6] Tűzterhelés: az építmény adott tűzszakaszában, helyiségében jelenlévő és beépített anyagok tömegéből (kg) és égéshőjéből (MJ/kg) számított hőmennyiség egységnyi padlófelületre vonatkoztatott értéke, MJ/m2-ben.
 
-[^1]: Az 1. § 11. pontját a 300/2014. (XII. 5.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^2]: Az 1. § 12. pontját a 300/2014. (XII. 5.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^3]: Az 1. § 13. pontját a 300/2014. (XII. 5.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^4]: Az 1. § 14. pontját a 300/2014. (XII. 5.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^2]: Az 1. § 10. pontját a 628/2022. (XII. 30.) Korm. rendelet 24. §-a hatályon kívül helyezte.
+[^3]: Az 1. § 11. pontját a 300/2014. (XII. 5.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^4]: Az 1. § 12. pontját a 300/2014. (XII. 5.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^5]: Az 1. § 13. pontját a 300/2014. (XII. 5.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^6]: Az 1. § 14. pontját a 300/2014. (XII. 5.) Korm. rendelet 10. § (1) bekezdése iktatta be.

@@ -1,5 +1,3 @@
-## A vonulási területen kívüli költségtérítésre vonatkozó igénybejelentés tartalmi elemei
-
 ## – fejléc,
 
 ## – az igénylő neve és címe,
@@ -31,3 +29,5 @@
 ## – igénybe vett tűzoltóság parancsnokának aláírása
 
 2. melléklet a 239/2011. (XI. 18.) Korm. rendelethez
+
+A létesítményi tűzoltóság kialakítására vonatkozó szabályok

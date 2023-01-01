@@ -1,5 +1,3 @@
-## A létesítményi tűzoltóság kialakítására vonatkozó szabályok
-
 ## A létesítményi tűzoltóság legkisebb készenléti létszáma
 
 | Sorszám | A | B | C | D | E |
@@ -16,9 +14,9 @@
 
 | 6. | 2000 MJ/m2 felett | 4 fő | 8 fő | 12 fő | 16 fő |
 
-3. melléklet a 239/2011. (XI. 18.) Korm. rendelethez[^12]
+3. melléklet a 239/2011. (XI. 18.) Korm. rendelethez[^30]
 
-## A számított tűzterhelés meghatározása és igazolása
+A számított tűzterhelés meghatározása és igazolása
 
 1. A számításhoz szükséges adat
 
@@ -62,34 +60,34 @@ ps az állandó tűzterhelés.
 
 6. Az időleges és az állandó tűzterhelést a következő képletekkel kell kiszámítani:
 
-ahol:
+## ahol:
 
-Mi az i-edik anyag tömege, kg,
+## Mi az i-edik anyag tömege, kg,
 
-Hi az i-edik anyag 1 kg-nyi tömegéből az égés során felszabaduló hő mennyisége, MJ/kg,
+## Hi az i-edik anyag 1 kg-nyi tömegéből az égés során felszabaduló hő mennyisége, MJ/kg,
 
-S az épület és építmény vagy részeik területe, m2,
+## S az épület és építmény vagy részeik területe, m2,
 
-j az időleges tűzterheléshez tartozó anyagok fajtáinak száma,
+## j az időleges tűzterheléshez tartozó anyagok fajtáinak száma,
 
-k az állandó tűzterheléshez tartozó anyagok fajtáinak száma.
+## k az állandó tűzterheléshez tartozó anyagok fajtáinak száma.
 
-Ha az anyagok térfogata ismert, a tömegük (M) számításához szükséges testsűrűségi, halmazsűrűségi adatokat a 4. melléklet tartalmazza. Az anyagok fűtőérték (Hi) adatait a 4. melléklet tartalmazza.
+## Ha az anyagok térfogata ismert, a tömegük (M) számításához szükséges testsűrűségi, halmazsűrűségi adatokat a 4. melléklet tartalmazza. Az anyagok fűtőérték (Hi) adatait a 4. melléklet tartalmazza.
 
 7. Az időleges tűzterhelés (pn) normatív értékek alapján is meghatározható a 6. és a 7. mellékletben felsorolt épületek és technológiák esetén.
 
 8. Az a tényezőt a következő képlettel kell kiszámítani:
 
-ahol:
+## ahol:
 
-as tényező értéke 0,9.
+## as tényező értéke 0,9.
 
 9. Az időleges tűzterhelés an tényezőjét a következő képlettel kell kiszámítani:
 
-ahol:
+## ahol:
 
-ami az i-edik anyagra jellemző tényező.
+## ami az i-edik anyagra jellemző tényező.
 
 10. Az egyes éghető anyagfajták ami tényezőit az 5. melléklet tartalmazza.
 
-[^12]: A 3. mellékletet a 300/2014. (XII. 5.) Korm. rendelet 11. §-a iktatta be.
+[^30]: A 3. mellékletet a 300/2014. (XII. 5.) Korm. rendelet 11. §-a iktatta be.

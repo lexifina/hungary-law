@@ -26,7 +26,9 @@ d) a külön jogszabályban foglaltak szerint, tűzoltási és műszaki mentési
 
 e) a jóváhagyott együttműködési megállapodás alapján a hivatásos katasztrófavédelmi szerv ügyeletének utasítására kivonul a létesítményi tűzoltóság vonulási területén kívül keletkezett eseményhez, ahol a tűzoltásvezető által meghatározott feladatokat hajtja végre, ha az nem veszélyezteti a d) pontban rögzített feladatainak ellátását.
 
-(3)[^6] A létesítményi tűzoltóság – jogszabályban meghatározottak szerint – a tűzvizsgálat érdekében haladéktalanul tájékoztatja az illetékes hivatásos tűzoltóságot az általa eloltott, vagy a más által eloltott és hozzá bejelentett tűzesetről. Ha a tűz a Magyar Honvédség objektumában keletkezett, akkor a Honvédelmi Minisztériumot kell tájékoztatni.
+(2a)[^8] A repülőtéri létesítményi tűzoltóság üzemeltetője a létesítményi tűzoltóság készenléti szolgálatát úgy határozza meg, hogy a repülési műveletek alatt és legalább az utolsó járat indulását követő 15. percig a tűzoltó járművek és eszközök maximális kapacitású üzemeltetéséhez elegendő számú és a szakmai képesítési követelményeknek megfelelő személyzet álljon rendelkezésre.
+
+(3)[^9] A létesítményi tűzoltóság – jogszabályban meghatározottak szerint – a tűzvizsgálat érdekében haladéktalanul tájékoztatja az illetékes hivatásos tűzoltóságot az általa eloltott, vagy a más által eloltott és hozzá bejelentett tűzesetről. Ha a tűz a Magyar Honvédség objektumában keletkezett, akkor a Honvédelmi Minisztériumot kell tájékoztatni.
 
 (4) A létesítményi tűzoltóság vagy annak fenntartója gondoskodik szakfelszereléseinek és egyéni védőeszközeinek karbantartásáról.
 
@@ -36,4 +38,5 @@ e) a jóváhagyott együttműködési megállapodás alapján a hivatásos katas
 
 (7) A létesítményi tűzoltóság jogszabályban meghatározottak szerint – a fenntartója engedélyével – a folyamatos készenléti vagy ügyeleti szolgálat biztosításával a hivatásos tűzoltóságok által végezhető szolgáltatások köréről, valamint a hivatásos tűzoltósági célokat szolgáló ingatlanok, felszerelések kapacitás kihasználását célzó hasznosításának szabályairól szóló miniszteri rendelet szerinti tűzvédelmi szolgáltatást végezhet. A szolgáltatás végzése nem veszélyeztetheti a (2) bekezdés d) pontban rögzített feladatainak ellátását.
 
-[^6]: A 16. § (3) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 50. §-a szerint módosított szöveg.
+[^8]: A 16. § (2a) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 19. §-a iktatta be.
+[^9]: A 16. § (3) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 50. §-a szerint módosított szöveg.

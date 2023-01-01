@@ -1,5 +1,3 @@
-## Éghető anyagok fűtőértéke (Hi) és testsűrűsége (nem folytonos térkitöltésű anyagok vagy termékek esetén halmazsűrűsége)
-
 |  | A | B | C | D |
 
 | 1. |  | Anyagok megnevezése | Fűtőérték (Hi) MJ/kg | Testsűrűség kg/m3 |
@@ -154,6 +152,8 @@
 
 | 76. |  | Bitumen | – | 1050 |
 
-5. melléklet a 239/2011. (XI. 18.) Korm. rendelethez[^14]
+5. melléklet a 239/2011. (XI. 18.) Korm. rendelethez[^32]
 
-[^14]: Az 5. mellékletet a 300/2014. (XII. 5.) Korm. rendelet 11. §-a iktatta be.
+Egyes éghető anyagfajták leégési sebességének jellemző értéket (ami)
+
+[^32]: Az 5. mellékletet a 300/2014. (XII. 5.) Korm. rendelet 11. §-a iktatta be.
