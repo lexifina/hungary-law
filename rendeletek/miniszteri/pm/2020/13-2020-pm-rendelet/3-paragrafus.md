@@ -5,3 +5,5 @@ a) az Európai Unió más tagállamában található feladási címről belföld
 b) belföldi feladási címről az Európai Unió más tagállamában található átvételi címre, értékesítés céljából vagy értékesítéstől eltérő egyéb célból történő közúti fuvarozás esetén a feladó,
 
 c) belföldi feladási címről belföldi átvételi címre történő közúti fuvarozás esetén a feladó – a 2. § (5) bekezdése szerinti esetben az a feladó, aki vagy amely a terméket elfuvarozza, fuvaroztatja –
+
+köteles (a továbbiakban együtt: bejelentésre kötelezett).

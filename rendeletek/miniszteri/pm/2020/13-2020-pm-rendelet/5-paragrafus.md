@@ -1,5 +1,3 @@
-## végzett közúti fuvarozással járó tevékenység.
-
 ## 3. Az útszakasz-mentesítés szabályai
 
 5. § (1) A 16. § (1) bekezdés b) pontjában meghatározott adózó az állami adó- és vámhatóságtól gyártásszervezésének sajátosságára tekintettel kérheti közúti fuvarozással járó tevékenységének mentesítését, ha
@@ -8,7 +6,7 @@ a) a 2. § (1) bekezdés a) és b) pontjában foglalt esetben a belföldi útsza
 
 b) a 2. § (1) bekezdés c) pontjában foglalt esetben a felrakodási cím és a kirakodási (átvételi) cím közötti távolság
 
-## legfeljebb 20 kilométer, és az adott közúti szakaszon a saját részére beszerzett, egyéb célú fuvarozás keretében behozott vagy az általa feladott termékek fuvarozásának gyakorisága miatt a napi bejelentési kötelezettség aránytalan terhet jelent számára (a továbbiakban: útszakasz-mentesítés).
+legfeljebb 20 kilométer, és az adott közúti szakaszon a saját részére beszerzett, egyéb célú fuvarozás keretében behozott vagy az általa feladott termékek fuvarozásának gyakorisága miatt a napi bejelentési kötelezettség aránytalan terhet jelent számára (a továbbiakban: útszakasz-mentesítés).
 
 (2) A kérelemben meg kell jelölni
 

@@ -10,7 +10,7 @@ a) egy feladó több felrakodási címéről,
 
 b) egy címzett több kirakodási (átvételi) címére
 
-## történik a közúti fuvarozás.
+történik a közúti fuvarozás.
 
 (5) A (4) bekezdés a) pontja szerinti esetben
 

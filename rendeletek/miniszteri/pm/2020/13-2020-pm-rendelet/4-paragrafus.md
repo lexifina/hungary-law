@@ -1,5 +1,3 @@
-## köteles (a továbbiakban együtt: bejelentésre kötelezett).
-
 ## 4. § Az állami adó- és vámhatósághoz történő bejelentés hiányában is folytatható
 
 a) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, továbbá a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szerv, a Nemzeti Adó- és Vámhivatal és az Országgyűlési Őrség gépjárművével,
@@ -19,3 +17,5 @@ g) a postai szolgáltatásokról szóló törvény szerint postai küldeményké
 h) a jövedéki adóról szóló törvény szerinti alkoholtermékkel, sörrel, csendes borral, habzóborral, egyéb csendes erjesztett itallal, egyéb habzó erjesztett itallal, köztes alkoholtermékkel, dohánygyártmánnyal, szárított és fermentált dohánnyal, ellenőrzött energiatermékkel,
 
 i) egy fuvarozás keretében egymillió forint értéket és ötszáz kilogramm bruttó tömeget meg nem haladó, bejelentésköteles termékkel ugyanazon feladótól ugyanazon címzett részére ugyanazon gépjárművel
+
+végzett közúti fuvarozással járó tevékenység.
