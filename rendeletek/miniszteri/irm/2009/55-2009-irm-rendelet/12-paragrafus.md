@@ -2,12 +2,12 @@
 
 ## A jármű elszállításának szabályai
 
-12. § (1)[^3] A jármű elszállításának megkezdése előtt arról felvételt, valamint jegyzőkönyvet kell készíteni.
+12. § (1)[^4] A jármű elszállításának megkezdése előtt arról felvételt, valamint jegyzőkönyvet kell készíteni.
 
-(2)[^4] A felügyelő a jármű elszállítását követően haladéktalanul, annak helyére – legalább 20 cm oldalhosszúságú négyzet alakú, jól látható – öntapadós tájékoztató matricát helyez el, kivéve, ha a matrica rögzítése az időjárási vagy terepviszonyok miatt nem lehetséges.
+(2)[^5] A felügyelő a jármű elszállítását követően haladéktalanul, annak helyére – legalább 20 cm oldalhosszúságú négyzet alakú, jól látható – öntapadós tájékoztató matricát helyez el, kivéve, ha a matrica rögzítése az időjárási vagy terepviszonyok miatt nem lehetséges.
 
-(3)[^5] A (2) bekezdés szerinti tájékoztató tartalmazza az elszállítás tényét, a jármű forgalmi rendszámát, valamint a tárolóhely címét és telefonszámát, ahol az elszállított jármű átvehető.
+(3)[^6] A (2) bekezdés szerinti tájékoztató tartalmazza az elszállítás tényét, a jármű forgalmi rendszámát, valamint a tárolóhely címét és telefonszámát, ahol az elszállított jármű átvehető.
 
-[^3]: A 12. § (1) bekezdése a 44/2017. (XII. 29.) BM rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^4]: A 12. § (2) bekezdése a 20. § (3) bekezdése alapján 2010. május 1-jén lép hatályba.
-[^5]: A 12. § (3) bekezdése a 20. § (3) bekezdése alapján 2010. május 1-jén lép hatályba.
+[^4]: A 12. § (1) bekezdése a 44/2017. (XII. 29.) BM rendelet 45. § (1) bekezdésével megállapított szöveg.
+[^5]: A 12. § (2) bekezdése a 20. § (3) bekezdése alapján 2010. május 1-jén lép hatályba.
+[^6]: A 12. § (3) bekezdése a 20. § (3) bekezdése alapján 2010. május 1-jén lép hatályba.

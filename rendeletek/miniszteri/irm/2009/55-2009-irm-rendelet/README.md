@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-55-20-1
 | 2009-11-02 | 2009-55-20-1U.2 | 55/2009. (X. 16.) IRM rendelet |
 | 2017-01-01 | 2009-55-20-1U.3 | 58/2016. (XII. 22.) BM rendelet |
 | 2018-01-01 | 2009-55-20-1U.4 | 44/2017. (XII. 29.) BM rendelet |
+| 2023-01-01 | 2009-55-20-1U.5 | 63/2022. (XII. 27.) BM rendelet |

@@ -4,8 +4,8 @@
 
 (3) Az üzemben tartó vagy a jármű használójának érdeklődésére az elszállítás helye szerint illetékes rendőrkapitányság a jármű elszállításáról, a tárolóhely címéről, valamint a jármű visszaadására jogosult ügyeleti szolgálat telefonos elérhetőségéről a felügyelet értesítése, vagy a honlapon szereplő adatok alapján tájékoztatást nyújt.
 
-(4)–(5)[^6]
+(4)–(5)[^7]
 
 (6) Ha az üzemben tartó vagy a jármű használója az értesítést követő tizenöt napos határidő elteltével nem jelentkezik a jármű átvételére, a határidő elteltét követő három napon belül a felszólítást meg kell ismételni.
 
-[^6]: A 13. § (4)–(5) bekezdését a 44/2017. (XII. 29.) BM rendelet 45. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^7]: A 13. § (4)–(5) bekezdését a 44/2017. (XII. 29.) BM rendelet 45. § (2) bekezdés a) pontja hatályon kívül helyezte.

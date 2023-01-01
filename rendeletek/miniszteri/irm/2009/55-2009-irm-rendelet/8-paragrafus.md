@@ -6,7 +6,7 @@
 
 a) a tűzcsapnál vagy tűzcsapszekrénynél álló jármű,
 
-b) a tűzoltási felvonulási úton álló jármű,
+b)[^3] a tűzoltási felvonulási úton vagy területen álló jármű,
 
 c) a veszélyes anyagot szállító jármű,
 
@@ -23,3 +23,5 @@ h) a DT betűjelű különleges rendszámtáblával rendelkező jármű,
 i) a sürgősségi orvosi szolgálat ellátására utaló, jogszabályban meghatározott jelzéssel ellátott jármű,
 
 j) út menti ingatlan autóbehajtójánál elhelyezett jármű.
+
+[^3]: A 8. § b) pontja a 63/2022. (XII. 27.) BM rendelet 1. §-a szerint módosított szöveg.
