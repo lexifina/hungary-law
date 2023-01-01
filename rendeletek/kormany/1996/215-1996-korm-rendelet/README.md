@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-215-20-
 | 2020-01-01 | 1996-215-20-22.14 | 316/2019. (XII. 18.) Korm. rendelet |
 | 2020-03-01 | 1996-215-20-22.15 | 70/2015. (III. 30.) Korm. rendelet |
 | 2021-01-01 | 1996-215-20-22.16 | 537/2013. (XII. 30.) Korm. rendelet |
+| 2023-01-01 | 1996-215-20-22.17 | 70/2015. (III. 30.) Korm. rendelet |

@@ -1,5 +1,3 @@
-## igazolja.
-
 2. § (1) A lakástakarékpénztár kérelem benyújtása esetén a lakáselőtakarékoskodó betétszámlája alapján meghatározza az igényelhető állami támogatás összegét. Az állami támogatás kiszámításánál a lakáselőtakarékoskodó által az adott megtakarítási évben befizetett betétösszegeket kell figyelembe venni a jóváírt betéti kamatok és támogatások nélkül. Az állami támogatás mértékét és legnagyobb összegét az Ltv. 22. §-a és a 27. §-a határozza meg.
 
 (2)[^12] Ha a betétösszeg felvételekor a megtakarítási év még nem telt le, az utolsó, a betétösszeg felvételéig, illetve a lakás-előtakarékossági szerződés kiutalásáig tartó töredék megtakarítási év a támogatás elszámolása szempontjából befejezett megtakarítási évnek minősül azzal, hogy a lakás-előtakarékoskodó részére igényelhető állami támogatást – mind az állami támogatás mértékét, mind a legnagyobb összegét tekintve – időarányosan kell meghatározni.
