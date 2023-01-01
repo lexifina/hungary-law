@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-38-20-0
 | 2016-01-02 | 2015-38-20-06.2 | 2010: CXXX. törvény |
 | 2017-01-01 | 2015-38-20-06.3 | 26/2016. (XII. 27.) IM rendelet |
 | 2022-04-27 | 2015-38-20-06.4 | 12/2022. (IV. 26.) IM rendelet |
+| 2023-01-01 | 2015-38-20-06.5 | 38/2022. (XII. 27.) IM rendelet |

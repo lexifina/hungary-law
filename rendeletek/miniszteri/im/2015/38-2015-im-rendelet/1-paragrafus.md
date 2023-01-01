@@ -2,10 +2,12 @@
 
 a) elvégezte az Igazságügyi Minisztérium Igazságügyi Szolgálatok Jogakadémiája vagy továbbképzési, illetve szakvizsgarendszerben akkreditált vagy nemzetközi közvetítő szervezet legalább kétszer 30 órás, tematikájában egymásra épülő, közvetítés tárgyú elméleti és gyakorlati képzését, vagy magyar, illetve külföldi egyetemi, főiskolai alap-, mester vagy posztgraduális képzésben közvetítő (mediátor) képesítést szerzett, továbbá
 
-b) teljesíti a közvetítői gyakorlat elsajátítását célzó, az Igazságügyi Minisztérium által meghatározott tartalmú és értékelési szempontrendszerű, a fővárosi és megyei kormányhivatalok által biztosított közvetítői mentorálási folyamat követelményeit.
+b)[^2] teljesíti a közvetítői gyakorlat elsajátítását célzó, az Igazságügyi Minisztérium által meghatározott tartalmú és értékelési szempontrendszerű, a fővárosi és vármegyei kormányhivatalok által biztosított közvetítői mentorálási folyamat követelményeit.
 
 (2) A büntető ügyekben közvetítői tevékenységet végző pártfogó felügyelő folyamatosan részt vesz – a mentori rendszer keretében – az Igazságügyi Minisztérium által szervezett szakmai egyeztetésen, továbbképzésen és esetmegbeszélésen.
 
-(3) Az (1) bekezdés b) pontjában meghatározottak teljesítéséről az értékelést tartalmazó iratot a fővárosi és megyei kormányhivatal megküldi az Igazságügyi Minisztérium részére.
+(3)[^3] Az (1) bekezdés b) pontjában meghatározottak teljesítéséről az értékelést tartalmazó iratot a fővárosi és vármegyei kormányhivatal megküldi az Igazságügyi Minisztérium részére.
 
 [^1]: Az 1. § a 12/2022. (IV. 26.) IM rendelet 55. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontja a 38/2022. (XII. 27.) IM rendelet 10. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdése a 38/2022. (XII. 27.) IM rendelet 10. § b) pontja szerint módosított szöveg.
