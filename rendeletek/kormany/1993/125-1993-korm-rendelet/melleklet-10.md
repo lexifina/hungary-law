@@ -130,4 +130,4 @@
 
 10. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^110]
 
-[^110]: A 10. számú mellékletet a 224/2010. (VIII. 4.) Korm. rendelet 8. §-a iktatta be, szövege a 28/2020. (II. 28.) Korm. rendelet 7. § (4) bekezdésével megállapított, a 315/2020. (VII. 1.) Korm. rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^110]: A 10. számú melléklet az 569/2022. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
