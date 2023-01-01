@@ -16,15 +16,17 @@ d) a Hivatal által a központosított közbeszerzési és beszerzési eljárás
 
 2. beszerzési igény: az éves kommunikációs vagy az éves szervezetfejlesztési tervben szereplő, előre tervezett kommunikációs beszerzés vagy szervezetfejlesztési beszerzés megvalósítására irányuló igény;
 
+2a.[^4] egyéb járulékos szolgáltatás: az érintett szervezetek kommunikációs beszerzéseihez és szervezetfejlesztési beszerzéseihez kapcsolódó, az ellátandó feladat szakmai tartalmának meghatározására irányuló tanácsadás,
+
 3. érintett szervezet: a 2. § (1) bekezdése szerinti jogi személy;
 
 4. éves kommunikációs terv: az adott naptári évre vonatkozó, tervezhető és összesített, az érintett szervezet által megvalósítani tervezett kommunikációs beszerzések, valamint az ezekhez kapcsolódó, a Portálon meghatározott struktúra és adattartalom szerint rögzített dokumentáció;
 
 5. éves szervezetfejlesztési terv: az adott naptári évre vonatkozó, tervezhető és összesített, az érintett szervezet által megvalósítani tervezett szervezetfejlesztési beszerzések, valamint az ezekhez kapcsolódó, a Portálon meghatározott struktúra és adattartalom szerint rögzített dokumentáció;
 
-6. kiemelt kommunikációs feladat: olyan kommunikációs feladat, amelyet nem a 2. § (1) bekezdés a)–d) pontja szerinti szervezet valósít meg, és amelynek megvalósításához a 2. § (1) bekezdés a)–d) pontja szerinti szervezet legalább tizenötmillió forint összegű közvetlen támogatást nyújt;
+6.[^5] kiemelt kommunikációs feladat: olyan kommunikációs feladat, amelyet nem a 2. § (1) bekezdés a)–d) pontja szerinti szervezet valósít meg, és amelynek megvalósításához a 2. § (1) bekezdés a)–d) pontja szerinti szervezet legalább tizenötmillió forint összegű támogatást nyújt;
 
-7. kiemelt szervezetfejlesztési feladat: olyan szervezetfejlesztési feladat, amelyet a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) törvény szerinti olyan ajánlatkérő szervezet valósít meg, amely nem minősül az 2. § (1) bekezdés a)–d) pontja szerinti szervezetnek, feltéve, hogy a megvalósításhoz a 2. § (1) bekezdés a)–d) pontja szerinti szervezet legalább tizenötmillió forint összegű közvetlen támogatást nyújt;
+7.[^6] kiemelt szervezetfejlesztési feladat: olyan szervezetfejlesztési feladat, amelyet a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) törvény szerinti olyan ajánlatkérő szervezet valósít meg, amely nem minősül az 2. § (1) bekezdés a)–d) pontja szerinti szervezetnek, feltéve, hogy a megvalósításhoz a 2. § (1) bekezdés a)–d) pontja szerinti szervezet legalább tizenötmillió forint összegű támogatást nyújt;
 
 8. kommunikációs beszerzés: kommunikációs feladat megvalósítása érdekében fizetési kötelezettség vállalására, illetve áru pénzforgalom nélküli cseréjére vagy szolgáltatás pénzforgalom nélküli, kölcsönös nyújtására vonatkozó, szabályszerűen megtett jognyilatkozat, ideértve a kommunikációs feladat megvalósítását célzó közbeszerzési és beszerzési eljárást;
 
@@ -36,9 +38,9 @@ d) a Hivatal által a központosított közbeszerzési és beszerzési eljárás
 
 12. Portál: a Hivatal által működtetett, az érintett szervezetek jelen rendeletben meghatározott adatszolgáltatási és -bejelentési kötelezettségének teljesítésére szolgáló, internetes felületen elérhető alkalmazások és az ezt támogató adatforrások összessége;
 
-13. rendkívüli beszerzési igény: az éves kommunikációs tervben vagy az éves szervezetfejlesztési tervben nem szereplő, előre nem tervezhető kommunikációs vagy szervezetfejlesztési beszerzés megvalósítására irányuló igény;
+13.[^7] rendkívüli beszerzési igény: az éves kommunikációs tervben vagy az éves szervezetfejlesztési tervben nem szereplő, előre nem tervezhető kommunikációs vagy szervezetfejlesztési beszerzés megvalósítására irányuló igény, ideértve a 6. és 7. pont szerinti feladat megvalósítására irányuló beszerzési igényt;
 
-14. rendezvényhelyszín működtetése: a Magyar Állam többségi tulajdonában álló, a 3. melléklet szerinti érintett szervezet vagy az e rendelet alapján önkéntesen csatlakozó érintett szervezet vagyonkezelésében lévő, vagy általa hasznosított rendezvényhelyszínként is hasznosítható létesítmény működtetésére irányuló beszerzésnek az a része, amely alapján harmadik személy javára rendezvényszervezési és kommunikációs beszerzésre kerül sor;
+14.[^8] rendezvényhelyszín működtetése: a Magyar Állam többségi tulajdonában álló, valamely érintett szervezet vagy az e rendelet alapján önkéntesen csatlakozó érintett szervezet vagyonkezelésében lévő, vagy általa hasznosított rendezvényhelyszínként is hasznosítható létesítmény működtetésére irányuló beszerzésnek az a része, amely alapján harmadik személy javára kommunikációs beszerzésre kerül sor;
 
 15. szervezetfejlesztési feladat: a 2. mellékletben meghatározott és felsorolt, bármely forrásból megvalósított feladat, amelynek célja, hogy az érintett szervezet – kivéve, ha jogszabály más szervhez rendelt kizárólagos feladatként állapítja meg – teljesítőképessége, hatékonysága, a feladatainak ellátási minősége vagy biztonsága javuljon;
 
@@ -53,3 +55,8 @@ d) a Hivatal által a központosított közbeszerzési és beszerzési eljárás
 [^1]: Az 1. § (1) bekezdés a) pontja az 590/2020. (XII. 17.) Korm. rendelet 11. § 1. pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés c) pontja az 590/2020. (XII. 17.) Korm. rendelet 11. § 2. pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdése az 590/2020. (XII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^4]: Az 1. § (2) bekezdés 2a. pontját a 611/2022. (XII. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^5]: Az 1. § (2) bekezdés 6. pontja a 611/2022. (XII. 28.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § (2) bekezdés 7. pontja a 611/2022. (XII. 28.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. § (2) bekezdés 13. pontja a 611/2022. (XII. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^8]: Az 1. § (2) bekezdés 14. pontja a 611/2022. (XII. 28.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
