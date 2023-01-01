@@ -12,7 +12,7 @@ b)[^64] a korrekció összegének a hazai kedvezményezett vagy a hazai TA kedve
 
 c)[^65] a szerződéshez kapcsolódó, későbbi elszámolást is érintő átalánykorrekció esetén a korrekció összegének a hazai kedvezményezett vagy hazai TA kedvezményezett, illetve hazai TA projektrész kedvezményezettje által benyújtott, a következő időszakra vonatkozó jelentéshez kapcsolódó elszámolás jóváhagyható összegéből történő levonását
 
-## lehet elrendelni.
+lehet elrendelni.
 
 (3) A szabálytalansági vizsgálatot lefolytató szervezet a szabálytalanságot a hazai kedvezményezettre vagy hazai TA kedvezményezettre, illetve hazai TA projektrész kedvezményezettjére vonatkozóan állapítja meg akkor is, ha annak alapjául más személy vagy szervezet tevékenysége vagy mulasztása szolgált. A szabálytalanság megállapításával összefüggésben elrendelt intézkedés a hazai kedvezményezettet, illetve a hazai TA kedvezményezettet vagy a hazai TA projektrész kedvezményezettjét terheli.
 

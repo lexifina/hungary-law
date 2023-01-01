@@ -8,7 +8,7 @@ b) időközi előlegként vagy
 
 c) egyenleg kifizetéseként
 
-## kerül sor.
+kerül sor.
 
 (2) A kezdeti előleg mértéke az uniós támogatási szerződésben kerül meghatározásra, kifizetése az uniós támogatási szerződés megkötésétől számított harminc napon belül esedékes. Az időközi előleg folyósítása és az egyenleg kifizetése a vezető kedvezményezett által benyújtott kifizetési kérelem alapján történik.
 

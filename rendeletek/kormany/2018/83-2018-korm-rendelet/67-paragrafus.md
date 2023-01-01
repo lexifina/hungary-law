@@ -9,3 +9,5 @@
 a) a közös technikai titkárság és a pénzügyi átutalási egység esetében az irányító hatóság,
 
 b) a költségellenőrzési tevékenységre kijelölt szervezet esetében a nemzeti hatóság
+
+hagyja jóvá.

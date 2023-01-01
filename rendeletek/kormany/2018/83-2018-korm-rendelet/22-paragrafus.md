@@ -14,4 +14,6 @@ a) központi és köztestületi költségvetési szerv, valamint közvetlen vagy
 
 b) az a) pont alá nem tartozó hazai kedvezményezett esetén a projektrész összes elszámolható költségeinek legfeljebb 5%-a
 
+lehet.
+
 [^27]: A 21. § a 218/2018. (XI. 27.) Korm. rendelet 17. § 10. pontja szerint módosított szöveg.

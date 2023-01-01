@@ -6,7 +6,7 @@ b) a jogorvoslati kérelem tárgyában kialakított álláspontjával és
 
 c) a szabálytalansági vizsgálat tárgyában folyamatban lévő szabálytalansági, közbeszerzési döntőbizottsági vagy egyéb hatósági, illetve bírósági eljárásról szóló tájékoztatással
 
-## együtt felterjeszti a jogorvoslati egységhez.
+együtt felterjeszti a jogorvoslati egységhez.
 
 (2) A nemzeti hatóság álláspontja kialakítása során a költségellenőrzési tevékenységre kijelölt szervezettől a szabálytalansági vizsgálattal kapcsolatban tájékoztatást kérhet. A tájékoztatást a költségellenőrzési tevékenységre kijelölt szervezet haladéktalanul köteles a nemzeti hatóság rendelkezésére bocsátani.
 
