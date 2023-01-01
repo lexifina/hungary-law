@@ -11,3 +11,5 @@ c) a légiközlekedés,
 d) a víziközlekedés és
 
 e) a logisztikai központok
+
+alágazatba tartozó létfontosságú rendszerek és létesítmények (a továbbiakban: létfontosságú rendszerelem) azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében az e rendeletben foglalt eltérésekkel kell alkalmazni.

@@ -1,5 +1,3 @@
-## jár el.
-
 ## 3. Az európai létfontosságú rendszerelemek kijelölésének ágazati kritériumai
 
 5. § (1) A közúti közlekedés alágazat tekintetében európai létfontosságú rendszerelemmé jelölhető ki a transzeurópai úthálózat törzshálózatának (Trans-European Network for Transport, Core Network, a továbbiakban: TEN-T) kiépült gyorsforgalmi útszakasza.

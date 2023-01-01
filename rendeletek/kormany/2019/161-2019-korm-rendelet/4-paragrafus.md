@@ -17,3 +17,5 @@ e) a logisztikai központok alágazat tekintetében
 ea) – az eb) alpontban foglalt kivétellel – az útügyi közlekedési hatóság,
 
 eb) – a létfontosságú rendszerelem vasúti kapcsolata esetén – a vasúti közlekedési hatóság
+
+jár el.

@@ -1,5 +1,3 @@
-## alágazatba tartozó létfontosságú rendszerek és létesítmények (a továbbiakban: létfontosságú rendszerelem) azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében az e rendeletben foglalt eltérésekkel kell alkalmazni.
-
 ## 2. § E rendelet alkalmazásában
 
 a) üzemeltető:

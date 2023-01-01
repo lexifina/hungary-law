@@ -1,6 +1,6 @@
-## 16/D. §[^7] Alapvető szolgáltatást nyújtó szereplőként azonosítható a közúti közlekedés alágazatban a Vhr. 3. mellékletében foglalt táblázat 21. sora szerinti feltételeknek megfelelő forgalomirányítási rendszer üzemeltetője.
+## 16/D. §[^11] Alapvető szolgáltatást nyújtó szereplőként azonosítható a közúti közlekedés alágazatban a Vhr. 3. mellékletében foglalt táblázat 21. sora szerinti feltételeknek megfelelő forgalomirányítási rendszer üzemeltetője.
 
-16/E. §[^8] (1) A Vhr. 3. mellékletében foglalt táblázat 16. sora szerinti vasúti pályahálózat-működtetési szolgáltatás esetében alapvető szolgáltatást nyújtó szereplőként azonosítható az a szolgáltató, amelynél
+16/E. §[^12] (1) A Vhr. 3. mellékletében foglalt táblázat 16. sora szerinti vasúti pályahálózat-működtetési szolgáltatás esetében alapvető szolgáltatást nyújtó szereplőként azonosítható az a szolgáltató, amelynél
 
 a) országos és térségi vasúti pályahálózat-működtetési szolgáltatás esetén a működtetett vasúti pályahálózat hossza legalább 400 km,
 
@@ -22,5 +22,5 @@ b) helyi, városi és elővárosi vasúti személyszállítási szolgáltatás e
 
 (5) A Vhr. 3. mellékletében foglalt táblázat 20. sora szerinti logisztikaiközpont-üzemeltetés esetében alapvető szolgáltatást nyújtó szereplőként azonosítható az a szolgáltató, amelynél az azonosítást megelőző naptári évben a logisztikai központban rendelkezésre álló tárolókapacitás legalább 5000 TEU.
 
-[^7]: A 16/D. §-t a 375/2020. (VII. 30.) Korm. rendelet 116. §-a iktatta be.
-[^8]: A 16/E. §-t a 375/2020. (VII. 30.) Korm. rendelet 116. §-a iktatta be.
+[^11]: A 16/D. §-t a 375/2020. (VII. 30.) Korm. rendelet 116. §-a iktatta be.
+[^12]: A 16/E. §-t a 375/2020. (VII. 30.) Korm. rendelet 116. §-a iktatta be.

@@ -1,4 +1,4 @@
-16/C. §[^5] (1) A Vhr. 3. mellékletében foglalt táblázat 13. sora szerinti légiforgalmi irányító szolgálat ellátása tekintetében jelentős zavarnak minősül, ha
+16/C. §[^9] (1) A Vhr. 3. mellékletében foglalt táblázat 13. sora szerinti légiforgalmi irányító szolgálat ellátása tekintetében jelentős zavarnak minősül, ha
 
 a) a légiforgalmi irányító szolgálat ellátása csökkentett kapacitással lehetséges, vagy
 
@@ -16,4 +16,4 @@ b) az (1) bekezdés b) pontja szerinti esetben a légiforgalmi irányító szolg
 
 (3) A Vhr. 3. mellékletében foglalt táblázat 14. és 15. sora szerinti repülőtér védelmi-ellenőrzési szolgáltatás és a földi kiszolgálás esetében jelentős zavarnak minősül a repülőtéren mindenkor betervezett utasforgalom vagy gépmozgások tekintetében három egymást követő napon ötven százalékos szolgáltatáskiesés, azzal, hogy az adott napon közlekedő járatok késései nem tekinthető szolgáltatáskiesésnek, csak az adott napot érintő járat törlések vagy az utasok járatokról történő lemaradása.
 
-[^5]: A 16/C. §-t a 375/2020. (VII. 30.) Korm. rendelet 116. §-a iktatta be.
+[^9]: A 16/C. §-t a 375/2020. (VII. 30.) Korm. rendelet 116. §-a iktatta be.
