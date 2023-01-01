@@ -12,6 +12,8 @@
 
 ## ……………………………………………… ………………………………………………
 
-3. melléklet a 83/2014. (III. 14.) Korm. rendelethez[^40]
+3. melléklet a 83/2014. (III. 14.) Korm. rendelethez[^41]
 
-[^40]: A 3. melléklet a 100/2016. (V. 13.) Korm. rendelet 27. § b)–d) pontja, a 288/2018. (XII. 21.) Korm. rendelet 3. § (3) bekezdése, a 368/2020. (VII. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.
+Levezető sávok építési követelményei
+
+[^41]: A 3. melléklet a 100/2016. (V. 13.) Korm. rendelet 27. § b)–d) pontja, a 288/2018. (XII. 21.) Korm. rendelet 3. § (3) bekezdése, a 368/2020. (VII. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.

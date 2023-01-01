@@ -12,7 +12,7 @@ b) az a) pontban nem említett egyéb kizárólagos állami tulajdonú vízfoly�
 
 c) az a) és b) pontba nem tartozó vizek és közcélú vízilétesítmények partvonalától számított 3 méterig
 
-## terjed.
+terjed.
 
 (4) A tulajdonos vagy a fenntartó kérelmére a vízügyi hatóság a (3) bekezdés b) és c) pontjában meghatározott szélességtől eltérő, de legfeljebb 10 méter szélességű parti sávot is megállapíthat, ha azt a szakfeladatok ellátása feltétlenül indokolja.
 

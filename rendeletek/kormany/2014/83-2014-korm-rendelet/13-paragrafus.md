@@ -12,7 +12,7 @@ b) a települési önkormányzatok, valamint
 
 c) az agrárkamarák, továbbá ipari és kereskedelmi kamarák
 
-## véleményét.
+véleményét.
 
 (4)[^20] A tervdokumentációval kapcsolatban a környezet- és természetvédelmi célra, a zöldturizmus, valamint a vízisportok képviseletére alakult civil és érdekképviseleti szervezetek, továbbá az erdőgazdálkodási szakmai civil szervezetek és az érintett ingatlantulajdonosok, földhasználók is jogosultak véleményt nyilvánítani.
 
