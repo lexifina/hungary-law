@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-250-20-
 | 2021-03-11 | 2004-250-20-22.17 | 116/2021. (III. 10.) Korm. rendelet |
 | 2021-12-24 | 2004-250-20-22.18 | 764/2021. (XII. 23.) Korm. rendelet |
 | 2022-07-01 | 2004-250-20-22.19 | 764/2021. (XII. 23.) Korm. rendelet |
+| 2023-01-01 | 2004-250-20-22.20 | 616/2022. (XII. 29.) Korm. rendelet |

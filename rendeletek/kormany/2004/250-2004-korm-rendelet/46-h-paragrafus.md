@@ -4,8 +4,10 @@
 
 (3) A kézbesítés foganatosítására a helyszíni eljárást a kézbesítendő irat végrehajtóhoz érkezésétől – utánküldés szolgáltatás igénylése esetén bejelentett új címről való tudomásszerzéstől – számított 8 napon belül, a második helyszíni eljárást pedig az irat átvételére adott határidő eredménytelen elteltét követő 8 napon belül meg kell tartani.
 
-(4) Ha a (3) bekezdés szerinti kézbesítési cím a végrehajtó székhelye szerinti megyén (Fővároson) kívül található, a Vht. 33. § szerinti megkeresésnek van helye; erről a végrehajtó a kézbesítést kérőt, valamint az eljáró bíróságot tájékoztatja és felhívja a kézbesítést kérőt a megkeresett végrehajtót megillető díjnak a Kar hivatali szerve részére történő megfizetésére. A díj megfizetését követően a megkeresést haladéktalanul foganatosítani kell.
+(4)[^73] Ha a (3) bekezdés szerinti kézbesítési cím a végrehajtó székhelye szerinti vármegyén (Fővároson) kívül található, a Vht. 33. § szerinti megkeresésnek van helye; erről a végrehajtó a kézbesítést kérőt, valamint az eljáró bíróságot tájékoztatja és felhívja a kézbesítést kérőt a megkeresett végrehajtót megillető díjnak a Kar hivatali szerve részére történő megfizetésére. A díj megfizetését követően a megkeresést haladéktalanul foganatosítani kell.
 
 (5) A címzett részére a kézbesítés megkísérléséről és a bírósági irat átvételének lehetőségéről szóló értesítést a 2. melléklet szerinti nyomtatvány kitöltésével kell elkészíteni és azok átvételére az értesítés kiállításának napjától számítva 5 munkanapot kell biztosítani.
 
 (6) A kézbesítés céljára tartott második helyszíni eljárás eredménytelensége esetén a címzettnek az (5) bekezdés szerint kell értesítést hagyni, és az értesítésen fel kell tüntetni azt is, hogy az a bírósági irat kézbesítésének második megkísérléséről készült.
+
+[^73]: A 46/H. § (4) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 56. § c) pontja szerint módosított szöveg.

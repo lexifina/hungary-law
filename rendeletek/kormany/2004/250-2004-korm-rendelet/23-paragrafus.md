@@ -1,5 +1,3 @@
-## kell kézbesíteni.
-
 ## Kézbesítés azonos nevű személyek részére
 
 23. § (1) Ha a kézbesítési helyen több, a címzettel azonos nevű személy található és közülük egy személy ismeri el azt, hogy ő a bírósági irat címzettje, a kézbesítés során őt kell címzettnek tekinteni.

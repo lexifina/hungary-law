@@ -114,7 +114,7 @@
 
 ## ....................................................................... P. H.
 
-2. számú melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^89]
+2. számú melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^91]
 
 ## ……………………………………………………………………………………………………………………………….
 
@@ -186,7 +186,7 @@ IV. Tájékoztatás[^4.]
 
 3. Ezen értesítés szerint a címzett mint kötelezett számára a kézbesítési végrehajtó díjjegyzéket kísérelt meg kézbesíteni. A címzett a díjjegyzéket az értesítésben foglaltak szerint veheti át a kézbesítési végrehajtó irodájában. Ha az értesítésben megjelölt határidőben a címzett nem veszi át a díjjegyzéket, a határidő lejártát követő 8 napon belül újabb helyszíni eljárásra kerül sor. Ha a díjjegyzék átvételére a díjjegyzék kézbesítésének második megkísérlését követően sem kerül sor, a díjjegyzék kézbesítését a második helyszíni eljárás napját követő 5. munkanapon eredményesnek kell tekinteni. A díjjegyzékkel szemben a bírósági végrehajtásról szóló 1994. évi LIII. törvény 217. §-a alapján végrehajtási kifogás terjeszthető elő.
 
-4. Ezen értesítés szerint a címzett számára a kézbesítési végrehajtó olyan ingatlan-nyilvántartási határozatot kísérelt meg kézbesíteni, amellyel kapcsolatban a kézbesítési fikció korábban már beállt. A kézbesítési fikció ellen az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben foglalt feltételek fennállása esetén az ingatlanügyi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatalnál kifogás terjeszthető elő. A címzett az iratot az értesítésben foglaltak szerint veheti át a kézbesítési végrehajtó irodájában.
+4.[^92] Ezen értesítés szerint a címzett számára a kézbesítési végrehajtó olyan ingatlan-nyilvántartási határozatot kísérelt meg kézbesíteni, amellyel kapcsolatban a kézbesítési fikció korábban már beállt. A kézbesítési fikció ellen az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben foglalt feltételek fennállása esetén az ingatlanügyi hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatalnál kifogás terjeszthető elő. A címzett az iratot az értesítésben foglaltak szerint veheti át a kézbesítési végrehajtó irodájában.
 
 5. Ezen értesítés szerint a címzett számára a kézbesítési végrehajtó felszámolói értesítést kísérelt meg kézbesíteni. A címzett az iratot az értesítésben foglaltak szerint veheti át a kézbesítési végrehajtó irodájában.
 
@@ -202,8 +202,9 @@ IV. Tájékoztatás[^4.]
 [^6:]: Ezeket a szerződés megszűnését eredményező nyilatkozat végrehajtói kézbesítésekor kell kitölteni.
 [^7:]: Ezeket a keresetlevél végrehajtói kézbesítésekor kell kitölteni.
 [^8:]: Ezeket a keresetlevél végrehajtói kézbesítésekor kell kitölteni.
-[^89]: A 2. számú melléklet a 764/2021. (XII. 23.) Korm. rendelet 13. § b) pontjával megállapított szöveg.
+[^91]: A 2. számú melléklet a 764/2021. (XII. 23.) Korm. rendelet 13. § b) pontjával megállapított szöveg.
 [^1.]: A megfelelő aláhúzandó.
 [^2.]: A megfelelő aláhúzandó.
 [^3.]: A megfelelő aláhúzandó.
 [^4.]: A megfelelő aláhúzandó.
+[^92]: A 2. melléklet IV. rész 4. pontja a 616/2022. (XII. 29.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.

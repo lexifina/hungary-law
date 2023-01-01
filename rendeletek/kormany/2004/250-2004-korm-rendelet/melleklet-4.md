@@ -2,7 +2,7 @@
 
 ## A fizetési meghagyással szemben a fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 28–31. §-a szerint lehet ellentmondást előterjeszteni.
 
-4. melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^91]
+4. melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^94]
 
 ## önálló bírósági végrehajtó
 
@@ -46,4 +46,4 @@ III. Kézbesítés a címzett részére
 
 IV. Kézbesítés helyettes átvevő részére
 
-[^91]: A 4. mellékletet a 480/2017. (XII. 28.) Korm. rendelet 5. § a) pontja iktatta be.
+[^94]: A 4. mellékletet a 480/2017. (XII. 28.) Korm. rendelet 5. § a) pontja iktatta be.
