@@ -1,5 +1,3 @@
-## 7. §[^5]
-
 1. melléklet a 29/2017. (VII. 25.) NFM rendelethez
 
 |  | A | B |
@@ -29,5 +27,3 @@
 | 12. | Dohánytermék nyilvántartásba vétele | 15 000 |
 
 | 13. | A 2–11. pontban nem szereplő vizsgálatok esetében a díjat a következő módon kell meghatározni: a vizsgálatra fordított idő és az itt meghatározott mérnöki óradíj szorzata, hozzáadva a felhasznált anyagköltséget. | 3 000 |
-
-[^5]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
