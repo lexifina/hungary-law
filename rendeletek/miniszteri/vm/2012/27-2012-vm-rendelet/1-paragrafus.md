@@ -5,3 +5,5 @@
 a) a tájfajták Nemzeti Fajtajegyzékbe vétele, valamint
 
 b) a tájfajták szaporítóanyagainak előállítása és forgalmazása
+
+során kell alkalmazni.

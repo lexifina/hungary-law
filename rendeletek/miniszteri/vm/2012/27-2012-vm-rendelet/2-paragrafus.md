@@ -1,5 +1,3 @@
-## során kell alkalmazni.
-
 ## 2. § E rendelet alkalmazásában:
 
 a) tájfajta: a regionális, környezeti, helyi ökológiai feltételekhez természetes módon alkalmazkodott, és génerózió által veszélyeztetett gyümölcsfajta,
