@@ -1,3 +1,7 @@
-9. §[^9]
+9. § Hatályát veszti a 339/2014. (XII. 19.) Korm. rendelet
 
-[^9]: A 9. § a 41. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 3. § (2) bekezdése,
+
+b) 5. § (4) bekezdése,
+
+c) 17. §-a.

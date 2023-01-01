@@ -1,3 +1,1 @@
-35. §[^35]
-
-[^35]: A 35. § a 41. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+35. § Hatályát veszti az egyes szervezeteknek a közlekedési infrastruktúra fejlesztési feladataival összefüggő kijelöléséről szóló 774/2021. (XII. 23.) Korm. rendelet 1. § (1) bekezdése.

@@ -1,5 +1,5 @@
 ## 23. Az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet módosítása
 
-28. §[^28]
+28. § Az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 1. §-a helyébe a következő rendelkezés lép:
 
-[^28]: A 28. § a 41. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+„1. § A Kormány Beruházási Ügynökségként az Építési és Közlekedési Minisztériumot jelöli ki.”

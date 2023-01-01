@@ -1,3 +1,7 @@
-16. §[^16]
+16. § Hatályát veszti a 158/2016. (VI. 13.) Korm. rendelet
 
-[^16]: A 16. § a 41. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 3. § (2) bekezdése,
+
+b) 5. § (4) bekezdése és
+
+c) 6/A. § (2) bekezdése.

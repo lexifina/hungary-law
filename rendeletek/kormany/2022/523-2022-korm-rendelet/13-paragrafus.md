@@ -1,3 +1,5 @@
-13. §[^13]
+13. § Hatályát veszti a 435/2015. (XII. 28.) Korm. rendelet
 
-[^13]: A 13. § a 41. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 3. § (2) bekezdése és
+
+b) 5. § (4) bekezdése.
