@@ -1,1 +1,0 @@
-A Kormány a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 4. § (1) bekezdésében meghatározottak végrehajtása érdekében, az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében meghatározott jogkörében eljárva
