@@ -1,4 +1,4 @@
-## A munkáltató, az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal, a fővárosi és megyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatala, illetve a szakképző intézmény feladatai[^73]
+## A munkáltató, az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatal, a fővárosi és vármegyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatala, illetve a szakképző intézmény feladatai[^73]
 
 15. § (1) A munkáltatónak írásban kell meghatároznia
 
@@ -32,9 +32,9 @@ vizsgálatra küldeni.
 
 (5)[^78] A jogszabályban meghatározott esetekben
 
-a)[^79] az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal vagy a fővárosi és megyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatala a megváltozott munkaképességű álláskeresőt foglalkoztathatósági szakvéleményezésre, a többi álláskeresőt szakmai alkalmassági vizsgálatra,
+a)[^79] az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatal vagy a fővárosi és vármegyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatala a megváltozott munkaképességű álláskeresőt foglalkoztathatósági szakvéleményezésre, a többi álláskeresőt szakmai alkalmassági vizsgálatra,
 
-b)[^80] önkormányzati közfoglalkoztatás esetén az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal vagy a fővárosi és megyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatala, egyéb közfoglalkoztatás esetén a közfoglalkoztató a közfoglalkoztatottat foglalkoztathatóság szakvéleményezésére
+b)[^80] önkormányzati közfoglalkoztatás esetén az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatal vagy a fővárosi és vármegyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatala, egyéb közfoglalkoztatás esetén a közfoglalkoztató a közfoglalkoztatottat foglalkoztathatóság szakvéleményezésére
 
 küldi.
 
@@ -50,12 +50,12 @@ készíti el.
 
 (7) Ha a munkaköri, illetve szakmai alkalmasságot elbíráló szerv a munkahelyi körülményekről a helyszínen kíván tájékozódni, a munkáltatónak, szakképző vagy felsőoktatási intézménynek lehetővé kell ezt tenni.
 
-[^73]: A 15. §-t megelőző alcím a 41/2012. (XII. 20.) NGM rendelet 11. § f) pontja, a 23/2015. (IV. 28.) EMMI rendelet 18. § g) pontja szerint módosított szöveg.
+[^73]: A 15. §-t megelőző alcím a 41/2012. (XII. 20.) NGM rendelet 11. § f) pontja, a 23/2015. (IV. 28.) EMMI rendelet 18. § g) pontja, az 54/2022. (XII. 27.) BM rendelet 2. § a) pontja szerint módosított szöveg.
 [^74]: A 15. § (1) bekezdésének a) pontja a 18/2007. (V. 10.) SZMM rendelet 10. § (9) bekezdésével megállapított szöveg.
 [^75]: A 15. § (3) bekezdésének a) pontja a 27/2000. (IX. 30.) EüM rendelet 12. §-ával megállapított szöveg.
 [^76]: A 15. § (3) bekezdésének b) pontja a 27/2000. (IX. 30.) EüM rendelet 14.§-ának (1) bekezdése szerint módosított szöveg.
 [^77]: A 15. § (4) bekezdésének b) pontja a 27/2000. (IX. 30.) EüM rendelet 14. §-a (2) bekezdésének b) pontja szerint módosított szöveg.
 [^78]: A 15. § (5) bekezdése a 41/2012. (XII. 20.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^79]: A 15. § (5) bekezdés a) pontja a 23/2015. (IV. 28.) EMMI rendelet 18. § i) pontja szerint módosított szöveg.
-[^80]: A 15. § (5) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 18. § i) pontja szerint módosított szöveg.
+[^79]: A 15. § (5) bekezdés a) pontja a 23/2015. (IV. 28.) EMMI rendelet 18. § i) pontja, az 54/2022. (XII. 27.) BM rendelet 2. § a) pontja szerint módosított szöveg.
+[^80]: A 15. § (5) bekezdés b) pontja a 23/2015. (IV. 28.) EMMI rendelet 18. § i) pontja, az 54/2022. (XII. 27.) BM rendelet 2. § a) pontja szerint módosított szöveg.
 [^81]: A 15. § (5a) bekezdését a 41/2012. (XII. 20.) NGM rendelet 7. § (2) bekezdése iktatta be.

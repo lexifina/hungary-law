@@ -14,11 +14,11 @@ ba) a szakképző intézményre,
 
 bb) a tanulóra, a 11. § (2) bekezdésében meghatározott esetben a hallgatóra,
 
-bc)[^9] az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatalra és a fővárosi és megyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalára,
+bc)[^9] az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatalra és a fővárosi és vármegyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalára,
 
 bd) az álláskeresőkre;
 
-c)[^10] a foglalkoztathatóság szakvéleményezése tekintetében az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatalra és a fővárosi és megyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalára és a megváltozott munkaképességű álláskeresőre, a közfoglalkoztatható személyre és a közfoglalkoztatottra (a továbbiakban: közfoglalkoztatott), a közfoglalkoztatást felajánlóra, az egyszerűsített foglalkoztatás körébe tartozó idénymunkára vagy alkalmi munkára munkaviszonyt létesítő munkáltatóra és elhelyezkedni kívánó személyre, továbbá közérdekű munka esetén az elkövetőre, az elítéltre és a pártfogó felügyelői szolgálatra;
+c)[^10] a foglalkoztathatóság szakvéleményezése tekintetében az állami foglalkoztatási szervként eljáró fővárosi és vármegyei kormányhivatalra és a fővárosi és vármegyei kormányhivatal állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalára és a megváltozott munkaképességű álláskeresőre, a közfoglalkoztatható személyre és a közfoglalkoztatottra (a továbbiakban: közfoglalkoztatott), a közfoglalkoztatást felajánlóra, az egyszerűsített foglalkoztatás körébe tartozó idénymunkára vagy alkalmi munkára munkaviszonyt létesítő munkáltatóra és elhelyezkedni kívánó személyre, továbbá közérdekű munka esetén az elkövetőre, az elítéltre és a pártfogó felügyelői szolgálatra;
 
 d) a személyi higiénés alkalmasság vizsgálata és véleményezése tekintetében a munkát végző személyre.
 
@@ -53,8 +53,8 @@ munkaköri alkalmasságának orvosi vizsgálatánál és véleményezésénél.
 (3)[^19]
 
 [^8]: A 2. § (1) bekezdése a 41/2012. (XII. 20.) NGM rendelet 4. §-ával megállapított szöveg.
-[^9]: A 2. § (1) bekezdés b) pont bc) alpontja a 23/2015. (IV. 28.) EMMI rendelet 18. § a) pontja szerint módosított szöveg.
-[^10]: A 2. § (1) bekezdés c) pontja az 55/2013. (XII. 4.) NGM rendelet 2. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 18. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § (1) bekezdés b) pont bc) alpontja a 23/2015. (IV. 28.) EMMI rendelet 18. § a) pontja, az 54/2022. (XII. 27.) BM rendelet 2. § a) pontja szerint módosított szöveg.
+[^10]: A 2. § (1) bekezdés c) pontja az 55/2013. (XII. 4.) NGM rendelet 2. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 18. § a) pontja, az 54/2022. (XII. 27.) BM rendelet 2. § a) pontja szerint módosított szöveg.
 [^11]: A 2. § (2) bekezdés c) pontja a 13/2014. (III. 14.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^12]: A 2. § (2) bekezdésének f) pontját a 18/2007. (V. 10.) SZMM rendelet 10. § (3) bekezdése iktatta be.
 [^13]: A 2. § (2) bekezdés g) pontját a 13/2014. (III. 14.) NGM rendelet 1. § (2) bekezdése iktatta be.

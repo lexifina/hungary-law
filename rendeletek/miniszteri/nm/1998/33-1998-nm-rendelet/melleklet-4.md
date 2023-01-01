@@ -1,4 +1,4 @@
-## 1X04572M_0
+## 2X10463M.docx
 
 | Kóroki tényező | Időszakos munkaalkalmassági vizsgálatok gyakorisága | Megjegyzés |
 
@@ -54,11 +54,11 @@
 
 | ionizáló sugárzás |
 
-|  | ipari roncsolásmentes anyagvizsgálat, orvosi rtg. laboratórium, „C” típ. izotóp laboratórium | évenként |  |
+|  | ipari roncsolásmentes anyagvizsgálat, orvosi rtg. laboratórium, “C” típ. izotóp laboratórium | évenként |  |
 
-| gyorsító berendezések, onkológiai sugárkezelés, „B” típ. izotóp laboratórium | évenként |  |
+| gyorsító berendezések, onkológiai sugárkezelés, “B” típ. izotóp laboratórium | évenként |  |
 
-| „A” típ. izotóp laboratórium | évenként |  |
+| “A” típ. izotóp laboratórium | évenként |  |
 
 | nukleáris létesítményben és sugárzó anyagok bányászatában foglalkoztatottak | évenként |  |
 
@@ -126,7 +126,7 @@
 
 | trinitro-toluol (trotyl) | félévenként |  |
 
-| tüdőfibrózist okozó porok | a vizsgálatok gyakoriságát az illetékes fővárosi és megyei kormányhivatal mint munkavédelmi hatóság állapíthatja meg, a munkáltató által előzetesen megszerzett, a munkahigiénés és foglalkozás- egészségügyi szerv által kiállított szakvélemény alapján (a szakvéleményhez a por mérési eredmények csatolása szükséges) | az ernyőszűrő állomásokon készített tüdőfelvételek értékelése, ezt követően szükségessé váló klinikai vizsgálatok a munkahigiénés és foglalkozás-egészségügyi szerv szakrendelésén történnek |
+| tüdőfibrózist okozó porok | a vizsgálatok gyakoriságát az illetékes fővárosi és vármegyei kormányhivatal mint munkavédelmi hatóság állapíthatja meg, a munkáltató által előzetesen megszerzett, a munkahigiénés és foglalkozás- egészségügyi szerv által kiállított szakvélemény alapján (a szakvéleményhez a por mérési eredmények csatolása szükséges) | az ernyőszűrő állomásokon készített tüdőfelvételek értékelése, ezt követően szükségessé váló klinikai vizsgálatok a munkahigiénés és foglalkozás-egészségügyi szerv szakrendelésén történnek |
 
 | vanádium | évenként |  |
 
