@@ -2,8 +2,8 @@
 
 (2) A minősítésben szerepeltetni kell azokat a körülményeket és jogszabályokat, amelyek a baleset bekövetkezése és a munkavégzés közötti összefüggést alátámasztják vagy kizárják, a bekövetkezett sérülést és – ha a munkavégzéssel összefüggő jelleg megállapítható – a sérült közrehatását. A bv. szerv vezetője a minősítést tartalmazó iratot a minősítésről szóló döntés meghozatalától számított öt napon belül közli a balesetet szenvedett fogvatartottal és megküldi a foglalkozás-egészségügyi orvosnak.
 
-(3)[^1] Munkabaleset esetén, ha maradandó károsodás vélelmezhető, a foglalkozás-egészségügyi orvos köteles a balesetet szenvedett fogvatartottat a rehabilitációs szakértői szervként eljáró fővárosi és megyei kormányhivatal elé rendelni a baleseti egészségkárosodás mértékének megállapítása érdekében.
+(3)[^1] Munkabaleset esetén, ha maradandó károsodás vélelmezhető, a foglalkozás-egészségügyi orvos köteles a balesetet szenvedett fogvatartottat a rehabilitációs szakértői szervként eljáró fővárosi és vármegyei kormányhivatal elé rendelni a baleseti egészségkárosodás mértékének megállapítása érdekében.
 
 (4) A bv. szerv vezetője köteles felhívni a balesetet szenvedett fogvatartott figyelmét arra, hogy ha a balesetével kapcsolatban kára keletkezett, kárigényét a büntetés-végrehajtási intézetben fogvatartott elítéltekkel és egyéb jogcímen fogvatartottakkal kapcsolatos kártérítési eljárás szabályairól szóló jogszabályban meghatározottak szerint terjesztheti elő.
 
-[^1]: A 8. § (3) bekezdése a 11/2015. (III. 31.) BM rendelet 14. §-a szerint módosított szöveg.
+[^1]: A 8. § (3) bekezdése a 11/2015. (III. 31.) BM rendelet 14. §-a, a 69/2022. (XII. 27.) BM rendelet 1. §-a szerint módosított szöveg.
