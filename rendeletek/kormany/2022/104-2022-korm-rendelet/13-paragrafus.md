@@ -1,3 +1,3 @@
-13. §[^6]
+13. §[^13]
 
-[^6]: A 13. § a 190/2022. (V. 26.) Korm. rendelet 1. § (2) bekezdés 29. pontja alapján nem lépett hatályba.
+[^13]: A 13. § a 190/2022. (V. 26.) Korm. rendelet 1. § (2) bekezdés 29. pontja alapján nem lépett hatályba.

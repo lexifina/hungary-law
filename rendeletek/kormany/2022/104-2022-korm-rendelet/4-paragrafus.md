@@ -4,7 +4,7 @@
 
 (1a)[^4] 2022. november 1. napját követően az (1) bekezdésben meghatározott fajlagos támogatás összege naponta elszállásoltanként és ellátottanként 7000 forint.
 
-(2) Az (1) bekezdés szerinti fajlagos támogatás iránti igényt a helyi önkormányzat jegyzője, a megyei főjegyző – a Főpolgármesteri Hivatal esetében a főjegyző – (a továbbiakban együtt: jegyző) minden hónap harmadik munkanapjáig készíti el és igazolja, amelyben bemutatja, hogy az előző hónapban naponta hány fő ideiglenes védelemre jogosultnak vagy menedékesnek biztosított elhelyezést.
+(2)[^5] Az (1) bekezdés szerinti fajlagos támogatás iránti igényt a helyi önkormányzat jegyzője, a vármegyei főjegyző – a Főpolgármesteri Hivatal esetében a főjegyző – (a továbbiakban együtt: jegyző) minden hónap harmadik munkanapjáig készíti el és igazolja, amelyben bemutatja, hogy az előző hónapban naponta hány fő ideiglenes védelemre jogosultnak vagy menedékesnek biztosított elhelyezést.
 
 (3) A jegyző a (2) bekezdés szerinti általa igazolt igényt a helyi védelmi bizottság részére küldi meg.
 
@@ -20,7 +20,7 @@ c) az igényben foglaltak megalapozatlanságát állapítja meg.
 
 (6) A helyi védelmi bizottság az (5) bekezdés c) pontja szerinti igényt a helyi önkormányzat részére visszaküldi.
 
-(7) Az (5) bekezdés a) és b) pontja esetében, továbbá, ha az igényben foglaltakkal kapcsolatban nem merül fel kétség, a helyi védelmi bizottság a jegyző által igazolt és elbírált igényt – a megyei, fővárosi védelmi bizottság útján – a helyi önkormányzatokért felelős miniszter részére haladéktalanul megküldi. A helyi önkormányzatokért felelős miniszter az elbírált igényt az államháztartásért felelős miniszter részére a beérkezést követő öt napon belül továbbítja.
+(7)[^6] Az (5) bekezdés a) és b) pontja esetében, továbbá, ha az igényben foglaltakkal kapcsolatban nem merül fel kétség, a helyi védelmi bizottság a jegyző által igazolt és elbírált igényt – a vármegyei, fővárosi védelmi bizottság útján – a helyi önkormányzatokért felelős miniszter részére haladéktalanul megküldi. A helyi önkormányzatokért felelős miniszter az elbírált igényt az államháztartásért felelős miniszter részére a beérkezést követő öt napon belül továbbítja.
 
 (8) Az államháztartásért felelős miniszter a (7) bekezdés szerinti igényből az általa kifizethetőnek ítélt támogatás összegéről öt napon belül értesíti a helyi önkormányzatokért felelős minisztert.
 
@@ -29,3 +29,5 @@ c) az igényben foglaltak megalapozatlanságát állapítja meg.
 (10) A helyi önkormányzat a támogatás felhasználásáról 2022. december 31-i fordulónappal az éves költségvetési beszámolójában számol el.
 
 [^4]: A 4. § (1a) bekezdését a 379/2022. (X. 5.) Korm. rendelet 5. §-a iktatta be.
+[^5]: A 4. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 324. § a) pontja szerint módosított szöveg.
+[^6]: A 4. § (7) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 324. § a) pontja szerint módosított szöveg.
