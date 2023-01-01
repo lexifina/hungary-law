@@ -1,3 +1,3 @@
-13. §[^13]
+13. § Az Eszkr. 1. alcíme a következő 8/B. §-sal egészül ki:
 
-[^13]: A 13. § a 17. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+„8/B. § A Tv. 6. § (3) bekezdése szerinti intézményt alapító, fenntartó egyéb szervezet az intézményi részesedés kimutatása során a Tv. egészségügyi, szociális, kulturális és oktatási intézményben lévő tulajdoni részesedésre vonatkozó szabályai szerint jár el. Ha az egyéb szervezet az intézményi részesedés értékelése (az értékvesztés elszámolása, illetve visszaírása, továbbá az értékhelyesbítés kimutatása) során a Tv. 54. § (12) bekezdése szerinti értéket veszi figyelembe, az értékhelyesbítés kimutatása során nem kell alkalmaznia a Tv. 59. § (2) bekezdésében foglaltakat.”

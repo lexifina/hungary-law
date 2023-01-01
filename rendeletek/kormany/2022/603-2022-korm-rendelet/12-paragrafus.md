@@ -1,5 +1,5 @@
 ## 7. A számviteli törvény szerinti egyes egyéb szervezetek beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 479/2016. (XII. 28.) Korm. rendelet módosítása
 
-12. §[^12]
+12. § A számviteli törvény szerinti egyes egyéb szervezetek beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 479/2016. (XII. 28.) Korm. rendelet (a továbbiakban: Eszkr.) 8. §-a a következő (3a) bekezdéssel egészül ki:
 
-[^12]: A 12. § a 17. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+„(3a) Az éves beszámolóval egyidejűleg üzleti jelentést nem kell készíteni.”

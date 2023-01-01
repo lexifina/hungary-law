@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 17. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+2. § A Bitkr. 16. § (4) bekezdés c) pontjában az „átlagos” szövegrész helyébe az „átlagos statisztikai állományi” szöveg lép.

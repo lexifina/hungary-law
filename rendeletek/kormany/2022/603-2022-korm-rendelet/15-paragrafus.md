@@ -1,3 +1,1 @@
-15. §[^15]
-
-[^15]: A 15. § a 17. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+15. § Az Eszkr. 3. § (5) bekezdésében a „szociális” szövegrész helyébe a „szociális, kulturális” szöveg lép.
