@@ -20,7 +20,7 @@ e)[^3] országos jelentőségű közlekedési és hírközlési név: a vasúti 
 
 f)[^4] országnév: az ország Alaptörvényben meghatározott neve (Magyarország);
 
-g)[^5] igazgatásiterület-név: az ország közigazgatási, illetve statisztikai, tervezési és területfejlesztési célokra kialakított területi egységeinek (megye, régió, járás, kistérség stb.) neve;
+g)[^5] igazgatásiterület-név: az ország közigazgatási, illetve statisztikai, tervezési és területfejlesztési célokra kialakított területi egységeinek (vármegye, régió, járás, kistérség stb.) neve;
 
 h)[^6] helységnév: a község, nagyközség, város, megyei jogú város, főváros utótagot tartalmazó vagy utótag nélküli rövid neve, a kerületek teljes, a helység nevét is tartalmazó, illetve rövid, csak a római számot és a kerület utótagot tartalmazó neve;
 
@@ -40,7 +40,7 @@ k) helyi jelentőségű közlekedési név: a helyi és helyközi tömegközleke
 [^2]: A 2. § (3) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 412. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdés e) pontja a 713/2020. (XII. 30.) Korm. rendelet 16. §-a szerint módosított szöveg.
 [^4]: A 2. § (3) bekezdés f) pontja a 322/2011. (XII. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § (3) bekezdés g) pontja a 430/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § (3) bekezdés g) pontja a 430/2012. (XII. 29.) Korm. rendelet 1. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 84. §-a szerint módosított szöveg.
 [^6]: A 2. § (3) bekezdés h) pontja a 345/2014. (XII. 23.) Korm. rendelet 30. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § (3) bekezdés j) pontja a 345/2014. (XII. 23.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
 [^8]: A 2. § (4) bekezdése a 430/2012. (XII. 29.) Korm. rendelet 2. §-ával megállapított, a 221/2014. (IX. 4.) Korm. rendelet 412. § (1) bekezdés c) pontja szerint módosított szöveg.

@@ -30,7 +30,7 @@ l)[^20] a földügyi és agrár-vidékfejlesztési szakigazgatáshoz kapcsolód�
 
 m)[^21] a nemzeti vagyon kezeléséért felelős miniszter a nemzeti vagyonnal összefüggő földrajzi nevekkel
 
-## kapcsolatos bizottsági képviselet ellátására.
+kapcsolatos bizottsági képviselet ellátására.
 
 (3)[^22] A miniszter egy-egy tag jelölésére kéri fel
 
@@ -44,7 +44,7 @@ d) a Csillagászati és Földtudományi Kutatóközpont Földrajztudományi Int�
 
 e) az Eötvös Loránd Tudományegyetem Térképtudományi és Geoinformatikai Tanszékét a térképtudománnyal, geoinformatikával összefüggő földrajzi nevekkel
 
-## kapcsolatos bizottsági képviselet ellátására.
+kapcsolatos bizottsági képviselet ellátására.
 
 (4) A miniszter további, intézményektől független és a földrajzi nevek tekintetében elismert szakembereket is felkérhet a bizottsági munkában való részvételre.
 

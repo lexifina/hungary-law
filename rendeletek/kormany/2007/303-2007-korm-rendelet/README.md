@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-303-20-
 | 2020-03-18 | 2007-303-20-22.8 | 38/2020. (III. 10.) Korm. rendelet |
 | 2021-01-01 | 2007-303-20-22.9 | 713/2020. (XII. 30.) Korm. rendelet |
 | 2022-07-01 | 2007-303-20-22.10 | 238/2022. (VI. 30.) Korm. rendelet |
+| 2023-01-01 | 2007-303-20-22.11 | 430/2012. (XII. 29.) Korm. rendelet |
