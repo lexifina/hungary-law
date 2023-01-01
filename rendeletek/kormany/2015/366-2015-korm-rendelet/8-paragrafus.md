@@ -18,15 +18,15 @@ g) a kiemelt üdülőterületekre vonatkozó vízminőség-védelmi információ
 
 h) együttműködik a vízügyi igazgatósággal a vízvédelmi igazgatási feladatai ellátása során,
 
-i)[^20] közreműködik a VKI végrehajtásához kapcsolódó vízvédelmi vonatkozású feladatokban,
+i)[^22] közreműködik a VKI végrehajtásához kapcsolódó vízvédelmi vonatkozású feladatokban,
 
-j)[^21] szakterülete vonatkozásában közreműködik az Espoo-i Egyezmény és a hatásvizsgálati irányelv szerinti nemzetközi eljárásokban,
+j)[^23] szakterülete vonatkozásában közreműködik az Espoo-i Egyezmény és a hatásvizsgálati irányelv szerinti nemzetközi eljárásokban,
 
-k)[^22] közreműködik a két- és többoldalú nemzetközi együttműködések vízvédelmi feladatainak végrehajtásában,
+k)[^24] közreműködik a két- és többoldalú nemzetközi együttműködések vízvédelmi feladatainak végrehajtásában,
 
-l)[^23] végrehajtja a Kvt.-ben és a vízvédelmet érintő jogszabályokban – kiemelten a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben, a felszín alatti vizek védelméről szóló kormányrendeletben és a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendeletben – meghatározott feladatokat.
+l)[^25] végrehajtja a Kvt.-ben és a vízvédelmet érintő jogszabályokban – kiemelten a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben, a felszín alatti vizek védelméről szóló kormányrendeletben és a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendeletben – meghatározott feladatokat.
 
-[^20]: A 8. § i) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be, szövege a 195/2017. (VII. 10.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
-[^21]: A 8. § j) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be.
-[^22]: A 8. § k) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be.
-[^23]: A 8. § l) pontját a 195/2017. (VII. 10.) Korm. rendelet 10. §-a iktatta be.
+[^22]: A 8. § i) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be, szövege a 195/2017. (VII. 10.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^23]: A 8. § j) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be.
+[^24]: A 8. § k) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be.
+[^25]: A 8. § l) pontját a 195/2017. (VII. 10.) Korm. rendelet 10. §-a iktatta be.

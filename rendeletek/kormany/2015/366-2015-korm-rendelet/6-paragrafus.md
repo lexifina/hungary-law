@@ -2,9 +2,9 @@
 
 ## 6. § A BM OKF
 
-a) – szükség esetén a megyei katasztrófavédelmi igazgatóság bevonásával – szolgáltatja a kormányzati munka ellátásához szükséges, tevékenysége során keletkezett vízvédelmi adatokat,
+a)[^14] – szükség esetén a vármegyei katasztrófavédelmi igazgatóság bevonásával – szolgáltatja a kormányzati munka ellátásához szükséges, tevékenysége során keletkezett vízvédelmi adatokat,
 
-b)[^13] a miniszter kijelölése alapján közreműködik a két- és többoldalú nemzetközi együttműködések, különösen a Duna védelmére és fenntartható használatára irányuló együttműködésről szóló 1994. június 29-én, Szófiában létrehozott Egyezmény és egyéb vízvédelmet érintő nemzetközi feladatok végrehajtásában,
+b)[^15] a miniszter kijelölése alapján közreműködik a két- és többoldalú nemzetközi együttműködések, különösen a Duna védelmére és fenntartható használatára irányuló együttműködésről szóló 1994. június 29-én, Szófiában létrehozott Egyezmény és egyéb vízvédelmet érintő nemzetközi feladatok végrehajtásában,
 
 c) összegyűjti, ellenőrzi, értékeli és rendelkezésre bocsátja az OKIR működéséhez szükséges – vízvédelmi hatósági és szakhatósági, valamint igazgatási feladataival összefüggő – adatokat, illetve az OKIR-ból adatokat szolgáltat, továbbá együttműködik más ellenőrző és információs rendszerek működtetőivel,
 
@@ -20,19 +20,20 @@ h) irányítja, koordinálja és ellenőrzi a katasztrófavédelmi igazgatóság
 
 i) együttműködik az OVF-fel a vízvédelmi igazgatási feladatai ellátása során,
 
-j)[^14] közreműködik a VKI végrehajtásához kapcsolódó vízvédelmi vonatkozású feladatokban,
+j)[^16] közreműködik a VKI végrehajtásához kapcsolódó vízvédelmi vonatkozású feladatokban,
 
-k)[^15] szakterülete vonatkozásában közreműködik az Espoo-i Egyezmény és a hatásvizsgálati irányelv szerinti nemzetközi eljárásokban,
+k)[^17] szakterülete vonatkozásában közreműködik az Espoo-i Egyezmény és a hatásvizsgálati irányelv szerinti nemzetközi eljárásokban,
 
-l)[^16] elemzi és értékeli a feladat- és hatáskörét érintő jogszabályok végrehajtását,
+l)[^18] elemzi és értékeli a feladat- és hatáskörét érintő jogszabályok végrehajtását,
 
-m)[^17] véleményezi a feladat- és hatáskörét érintő jogszabálytervezeteket,
+m)[^19] véleményezi a feladat- és hatáskörét érintő jogszabálytervezeteket,
 
-n)[^18] tevékenységéről évente átfogó jelentést készít a vízvédelemért felelős miniszter számára.
+n)[^20] tevékenységéről évente átfogó jelentést készít a vízvédelemért felelős miniszter számára.
 
-[^13]: A 6. § b) pontja a 289/2016. (IX. 22.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^14]: A 6. § j) pontját a 289/2016. (IX. 22.) Korm. rendelet 15. § (2) bekezdése iktatta be, szövege a 195/2017. (VII. 10.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
-[^15]: A 6. § k) pontját a 289/2016. (IX. 22.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^16]: A 6. § l) pontját a 289/2016. (IX. 22.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^17]: A 6. § m) pontját a 289/2016. (IX. 22.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^18]: A 6. § n) pontját a 289/2016. (IX. 22.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^14]: A 6. § a) pontja a 616/2022. (XII. 29.) Korm. rendelet 224. §-a szerint módosított szöveg.
+[^15]: A 6. § b) pontja a 289/2016. (IX. 22.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^16]: A 6. § j) pontját a 289/2016. (IX. 22.) Korm. rendelet 15. § (2) bekezdése iktatta be, szövege a 195/2017. (VII. 10.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^17]: A 6. § k) pontját a 289/2016. (IX. 22.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^18]: A 6. § l) pontját a 289/2016. (IX. 22.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^19]: A 6. § m) pontját a 289/2016. (IX. 22.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^20]: A 6. § n) pontját a 289/2016. (IX. 22.) Korm. rendelet 15. § (2) bekezdése iktatta be.
