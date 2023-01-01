@@ -1,3 +1,3 @@
-10/B. §[^46] Az Nytv. 8/A. §-a szerinti kijelölt kormányhivatalként a Kormány Budapest Főváros Kormányhivatalát jelöli ki.
+10/B. §[^47] Az Nytv. 8/A. §-a szerinti kijelölt kormányhivatalként a Kormány Budapest Főváros Kormányhivatalát jelöli ki.
 
-[^46]: Az R. 10/B. §-át a 379/2016. (XII. 2.) Korm. rendelet 11. § (4) bekezdése iktatta be.
+[^47]: Az R. 10/B. §-át a 379/2016. (XII. 2.) Korm. rendelet 11. § (4) bekezdése iktatta be.
