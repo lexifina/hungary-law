@@ -10,11 +10,7 @@ Határidő: azonnal
 
 2.[^2] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 40 485 571 280 forintban határozza meg;
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 3. Kiemelt kormányzati magasépítési beruházásokkal kapcsolatos kiadások cím, 3. Egyedi magasépítési beruházások alcímet a 13. Szegedi kézilabdacsarnok jogcímcsoporttal egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+3.[^3]
 
 4. felhívja a pénzügyminisztert, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter és a Miniszterelnökséget vezető miniszter bevonásával gondoskodjon a 2. pont szerinti összeg 2020. évi részének rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezetében;
 
@@ -42,8 +38,9 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2020. február 29.
 
-7.[^3]
+7.[^4]
 
 [^1]: Az 1/A. pontot az 1448/2020. (VII. 28.) Korm. határozat pontja iktatta be.
 [^2]: A 2. pont az 1110/2021. (III. 10.) Korm. határozat 6. pontja szerint módosított szöveg.
-[^3]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
