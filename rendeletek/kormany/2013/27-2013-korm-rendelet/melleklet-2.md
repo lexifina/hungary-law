@@ -1,5 +1,3 @@
-## A szabad vállalkozási zónák települései
-
 |  | A |
 
 | 1 | Abádszalók |
