@@ -12,13 +12,7 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: a társaság cégbejegyzését követően haladéktalanul
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XXI. Miniszterelnöki Kabinetiroda fejezet, 21. Központi kezelésű előirányzatok címmel, 1. A Miniszterelnöki Kabinetiroda tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások alcímmel, 1. A Miniszterelnöki Kabinetiroda tulajdonosi joggyakorlása alá tartozó társaságok tőkeemelése, pótbefizetése jogcímcsoporttal történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-a miniszterelnök kabinetfőnöke
-
-Határidő: azonnal
+3.[^1]
 
 4. felhívja a miniszterelnök kabinetfőnökét, hogy az 5. pontban megjelölt célból – a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával – kezdeményezze 450 000 000 forint forrás átcsoportosítását a 3. pont szerinti előirányzat javára, a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet terhére;
 
@@ -33,3 +27,5 @@ Határidő: 2019. július 31.
 Felelős: a miniszterelnök kabinetfőnöke
 
 Határidő: a 4. pont teljesülését követően azonnal
+
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
