@@ -4,6 +4,6 @@
 
 (3) Ha a tanköteles tanuló igazolatlan mulasztása egy félévben eléri a tizenöt foglalkozást, az igazgató a mulasztásról tájékoztatja az általános szabálysértési hatóságot – a gyermekvédelmi szakellátásban nevelkedő tanköteles tanuló kivételével –, valamint ismételten tájékoztatja a család- és gyermekjóléti szolgálatot, amely közreműködik a tanköteles tanuló törvényes képviselője értesítésében, továbbá gyermekvédelmi szakellátásban nevelkedő tanköteles tanuló esetén a területi gyermekvédelmi szakszolgálatot. Ha a tanköteles tanuló igazolatlan mulasztása egy félévben eléri a huszonöt foglalkozást, az igazgatója haladéktalanul értesíti a tanköteles tanuló tényleges tartózkodási helye szerint illetékes gyámhatóságot.
 
-(4)[^140] A (2) és (3) bekezdés szerinti esetben a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 91/F–91/J. §-át a nevelési-oktatási intézményre vonatkozó szabályait a szakképző intézményre is alkalmazni kell.
+(4)[^144] A (2) és (3) bekezdés szerinti esetben a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 91/F–91/J. §-át a nevelési-oktatási intézményre vonatkozó szabályait a szakképző intézményre is alkalmazni kell.
 
-[^140]: A 163. § (4) bekezdését a 380/2021. (VI. 30.) Korm. rendelet 27. §-a iktatta be.
+[^144]: A 163. § (4) bekezdését a 380/2021. (VI. 30.) Korm. rendelet 27. §-a iktatta be.

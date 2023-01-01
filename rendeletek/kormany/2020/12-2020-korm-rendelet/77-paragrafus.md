@@ -4,9 +4,9 @@
 
 ## 25. Az Szkt. 26. § (1) bekezdéséhez
 
-77. § (1) Megyénként legfeljebb három, a fővárosban legfeljebb öt, költségvetési szervként működő szakképzési centrum alapítható azzal, hogy a szakképzési centrum részeként működő szakképző intézményekben tanulók, illetve képzésben részt vevő személyek hivatalos októberi statisztikai létszámának három tanév átlagában számított összesített mértéke el kell, hogy érje a kétezer főt.
+77. § (1)[^87] Vármegyénként legfeljebb három, a fővárosban legfeljebb öt, költségvetési szervként működő szakképzési centrum alapítható azzal, hogy a szakképzési centrum részeként működő szakképző intézményekben tanulók, illetve képzésben részt vevő személyek hivatalos októberi statisztikai létszámának három tanév átlagában számított összesített mértéke el kell, hogy érje a kétezer főt.
 
-(2)[^86] A szakképzésért felelős miniszter által alapított szakképzési centrum felett az Áht. 9. §-ában meghatározott irányítási hatásköröket egyedi ügyben vagy az ügyek meghatározott csoportja vonatkozásában a szakképzésért felelős miniszter vagy – az Áht. 9. § a), c), d) és f) pontjában meghatározott irányítási hatáskörök kivételével – a Nemzeti Szakképzési és Felnőttképzési Hivatal, mint középirányító szerv útján gyakorolja.
+(2)[^88] A szakképzésért felelős miniszter által alapított szakképzési centrum felett az Áht. 9. §-ában meghatározott irányítási hatásköröket egyedi ügyben vagy az ügyek meghatározott csoportja vonatkozásában a szakképzésért felelős miniszter vagy – az Áht. 9. § a), c), d) és f) pontjában meghatározott irányítási hatáskörök kivételével – a Nemzeti Szakképzési és Felnőttképzési Hivatal, mint középirányító szerv útján gyakorolja.
 
 (3) A (2) bekezdésben meghatározott feladatkörében a Nemzeti Szakképzési és Felnőttképzési Hivatal
 
@@ -44,4 +44,5 @@ cb) folyamatos nyilvántartást vezet a szakképzésért felelős miniszter ált
 
 cc) ellátja a jogszabályban számára meghatározott, illetve a szakképzésért felelős miniszter által meghatározott egyéb feladatokat.
 
-[^86]: A 77. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 195. §-ával megállapított szöveg.
+[^87]: A 77. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 303. § a) pontja szerint módosított szöveg.
+[^88]: A 77. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 195. §-ával megállapított szöveg.

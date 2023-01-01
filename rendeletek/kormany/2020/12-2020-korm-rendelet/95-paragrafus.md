@@ -10,13 +10,13 @@
 
 2. az oktatói munka belső ellenőrzésének rendjét,
 
-3.[^104]
+3.[^106]
 
 4. ha a szakképző intézmény intézményegységgel rendelkezik, az intézményegységgel való kapcsolattartás rendjét,
 
 5. a szervezeten belüli kapcsolattartás rendjét, formáját, a vezetők közötti feladatmegosztást, a kiadmányozás és a képviselet szabályait,
 
-6.[^105] az igazgató vagy az igazgatóhelyettes akadályoztatása, érintettsége, illetve az igazgatói és az igazgatóhelyettesi tisztség betöltetlensége esetén a helyettesítés rendjét,
+6.[^107] az igazgató vagy az igazgatóhelyettes akadályoztatása, érintettsége, illetve az igazgatói és az igazgatóhelyettesi tisztség betöltetlensége esetén a helyettesítés rendjét,
 
 7. a vezetők és a képzési tanács közötti kapcsolattartás formáját, rendjét,
 
@@ -30,13 +30,13 @@
 
 12. a rendszeres egészségügyi felügyelet és ellátás rendjét,
 
-13.[^106]
+13.[^108]
 
 14. bármely rendkívüli esemény esetén szükséges teendőket,
 
 15. azokat az ügyeket, amelyekben a képzési tanácsot a szakképző intézmény szervezeti és működési szabályzata döntési vagy véleményezési joggal ruházza fel,
 
-16.[^107]
+16.[^109]
 
 17. az elektronikus úton előállított papíralapú nyomtatványok hitelesítésének rendjét,
 
@@ -58,17 +58,17 @@
 
 5. a tanulók, illetve a képzésben részt vevő személyek egészségét veszélyeztető helyzetek kezelésére irányuló eljárásrendet,
 
-6.[^108]
+6.[^110]
 
-7.[^109] a munkáltatói jogkörgyakorlás rendjét.
+7.[^111] a munkáltatói jogkörgyakorlás rendjét.
 
 (3) A szakképző intézmény szervezeti és működési szabályzatában meghatározhatók a szakképző intézmény biztonságos működését biztosító olyan szabályok, amelyek megtartása kötelező a szakképző intézmény területén tartózkodóknak és a szakképző intézménnyel kapcsolatban nem álló más személyeknek.
 
 (4) A szakképzési centrum szervezeti és működési szabályzata tartalmazza a működés közös szabályait és – szakképző intézményenként külön-külön – a szakképzési centrum részeként működő szakképző intézmények működését meghatározó előírásokat.
 
-[^104]: A 95. § (1) bekezdés 3. pontját a 380/2021. (VI. 30.) Korm. rendelet 59. § 9. pontja hatályon kívül helyezte.
-[^105]: A 95. § (1) bekezdés 6. pontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 16. pontja szerint módosított szöveg.
-[^106]: A 95. § (1) bekezdés 13. pontját a 380/2021. (VI. 30.) Korm. rendelet 59. § 10. pontja hatályon kívül helyezte.
-[^107]: A 95. § (1) bekezdés 16. pontját a 380/2021. (VI. 30.) Korm. rendelet 59. § 11. pontja hatályon kívül helyezte.
-[^108]: A 95. § (2) bekezdés 6. pontját a 380/2021. (VI. 30.) Korm. rendelet 59. § 12. pontja hatályon kívül helyezte.
-[^109]: A 95. § (2) bekezdés 7. pontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 17. pontja szerint módosított szöveg.
+[^106]: A 95. § (1) bekezdés 3. pontját a 380/2021. (VI. 30.) Korm. rendelet 59. § 9. pontja hatályon kívül helyezte.
+[^107]: A 95. § (1) bekezdés 6. pontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 16. pontja szerint módosított szöveg.
+[^108]: A 95. § (1) bekezdés 13. pontját a 380/2021. (VI. 30.) Korm. rendelet 59. § 10. pontja hatályon kívül helyezte.
+[^109]: A 95. § (1) bekezdés 16. pontját a 380/2021. (VI. 30.) Korm. rendelet 59. § 11. pontja hatályon kívül helyezte.
+[^110]: A 95. § (2) bekezdés 6. pontját a 380/2021. (VI. 30.) Korm. rendelet 59. § 12. pontja hatályon kívül helyezte.
+[^111]: A 95. § (2) bekezdés 7. pontja a 319/2020. (VII. 1.) Korm. rendelet 24. § 17. pontja szerint módosított szöveg.

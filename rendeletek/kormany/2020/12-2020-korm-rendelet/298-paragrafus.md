@@ -8,7 +8,7 @@
 
 ## 98. Az Szkt. 96. §-ához
 
-298. § (1)[^235] A szakképzésért felelős miniszter
+298. § (1)[^239] A szakképzésért felelős miniszter
 
 a) a szakképzés szakmai és módszertani fejlesztése keretében
 
@@ -40,15 +40,15 @@ d) a szakképzés együttműködési rendszerével összefüggésben fejleszti a
 
 (2) A szakképzésért felelős miniszter felkérésére a Kormány adott ágazatért felelős tagja meghatározza a szakmai vizsga központi vizsgatevékenysége és interaktív vizsgatevékenysége tartalmát, és kidolgozza azok értékelési útmutatóit és egyéb dokumentumait.
 
-(3)[^236] A szakképzésért felelős miniszter az Szkt.
+(3)[^240] A szakképzésért felelős miniszter az Szkt.
 
-a)[^237] 96. § (1) bekezdés e) pont eb) alpontjában és azzal összefüggésben
+a)[^241] 96. § (1) bekezdés e) pont eb) alpontjában és azzal összefüggésben
 
 aa) az (1) bekezdés b) pont ba) alpontjában meghatározott feladatot az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság,
 
 ab) az (1) bekezdés b) pont bb)–be) alpontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal,
 
-b)[^238] 96. § (1) bekezdés e) pont ec) alpontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal,
+b)[^242] 96. § (1) bekezdés e) pont ec) alpontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal,
 
 c) 96. § (1) bekezdés g) pontjában meghatározott feladatot az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság,
 
@@ -60,7 +60,7 @@ f) 125. § (10) bekezdésében meghatározott feladatot az IKK Innovatív Képz�
 
 útján végzi. E feladatok ellátásában a Nemzeti Szakképzési és Felnőttképzési Hivatal és az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság a szakképzésért felelős miniszter megbízása alapján és utasításai szerint kizárólagos joggal vesz részt.
 
-[^235]: A 298. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^236]: A 298. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 43. §-ával megállapított szöveg.
-[^237]: A 298. § (3) bekezdés a) pont nyitó szövegrésze a 800/2021. (XII. 28.) Korm. rendelet 13. § 41. pontja szerint módosított szöveg.
-[^238]: A 298. § (3) bekezdés b) pontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 42. pontja szerint módosított szöveg.
+[^239]: A 298. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^240]: A 298. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^241]: A 298. § (3) bekezdés a) pont nyitó szövegrésze a 800/2021. (XII. 28.) Korm. rendelet 13. § 41. pontja szerint módosított szöveg.
+[^242]: A 298. § (3) bekezdés b) pontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 42. pontja szerint módosított szöveg.

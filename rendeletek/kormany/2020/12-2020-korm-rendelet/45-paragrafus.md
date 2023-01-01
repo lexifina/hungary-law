@@ -16,7 +16,7 @@ ca) a környezetvédelmi technikus szakma esetében az Szkt. 27. § (1) bekezdé
 
 cb) a vízügyi munkatárs és a vízügyi technikus szakma esetében a vízvédelemért felelős miniszter,
 
-d) a szociális ágazatba sorolt szakmák tekintetében a szociál- és nyugdíjpolitikáért felelős miniszter és a gyermek- és ifjúságpolitikáért felelős miniszter együttes
+d)[^58] a szociális ágazatba sorolt szakmák tekintetében a kisgyermekgondozó, -nevelő szakma esetében a gyermek- és ifjúságpolitikáért felelős miniszter
 
 engedélyével folyhat.
 
@@ -29,3 +29,5 @@ b) a honvédelem ágazatba sorolt szakmák közül a honvéd altiszt szakmára t
 folyhat. A szakmajegyzékben a honvédelem ágazatba sorolt más szakma szakmai oktatása a honvédelemért felelős miniszter, a rendészet és közszolgálat ágazatba sorolt más szakma szakmai oktatása a rendészetért felelős miniszter engedélyével kezdhető meg.
 
 (3) A szakmajegyzékben az (1) bekezdés a)–d) pontjában és a (2) bekezdésben meghatározott ágazatban a szakképzés szakmai és módszertani fejlesztéséért a Kormány adott ágazatért felelős tagja felel.
+
+[^58]: A 45. § (1) bekezdés d) pontja a 631/2022. (XII. 30.) Korm. rendelet 9. §-ával megállapított szöveg.

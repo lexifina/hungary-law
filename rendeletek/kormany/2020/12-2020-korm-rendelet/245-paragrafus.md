@@ -1,12 +1,12 @@
-245. § (1)[^190] A nyilvántartásba vétel iránti kérelmet a duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamarához kell benyújtani. A duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamara a nyilvántartásba vétel iránti kérelmet a szakmai szervezet vagy szakmai kamara véleményének kikérésével bírálja el, ha a szakma nem tartozik egyik gazdasági kamara hatáskörébe sem.
+245. § (1)[^194] A nyilvántartásba vétel iránti kérelmet a duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamarához kell benyújtani. A duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamara a nyilvántartásba vétel iránti kérelmet a szakmai szervezet vagy szakmai kamara véleményének kikérésével bírálja el, ha a szakma nem tartozik egyik gazdasági kamara hatáskörébe sem.
 
-(2)[^191] A duális képzőhelyek nyilvántartásába az vehető fel, aki rendelkezik a szakirányú oktatás folytatásához szükséges személyi és tárgyi feltételekkel.
+(2)[^195] A duális képzőhelyek nyilvántartásába az vehető fel, aki rendelkezik a szakirányú oktatás folytatásához szükséges személyi és tárgyi feltételekkel.
 
-(3)[^192] A duális képzőhelyek nyilvántartásában szereplő adatokban bekövetkezett változást a duális képzőhely köteles a változás bekövetkezésétől számított tizenöt napon belül a duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamarának bejelenteni.
+(3)[^196] A duális képzőhelyek nyilvántartásában szereplő adatokban bekövetkezett változást a duális képzőhely köteles a változás bekövetkezésétől számított tizenöt napon belül a duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamarának bejelenteni.
 
-(4)[^193] A duális képzőhely megszűnése esetén a duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamara a duális képzőhelyet törli a duális képzőhelyek nyilvántartásából.
+(4)[^197] A duális képzőhely megszűnése esetén a duális képzőhely nyilvántartásba vételére területileg illetékes gazdasági kamara a duális képzőhelyet törli a duális képzőhelyek nyilvántartásából.
 
-[^190]: A 245. § (1) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 54. pontja szerint módosított szöveg.
-[^191]: A 245. § (2) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 55. pontja szerint módosított szöveg.
-[^192]: A 245. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 56. pontja szerint módosított szöveg.
-[^193]: A 245. § (4) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 57. pontja szerint módosított szöveg.
+[^194]: A 245. § (1) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 54. pontja szerint módosított szöveg.
+[^195]: A 245. § (2) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 55. pontja szerint módosított szöveg.
+[^196]: A 245. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 56. pontja szerint módosított szöveg.
+[^197]: A 245. § (4) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 57. pontja szerint módosított szöveg.
