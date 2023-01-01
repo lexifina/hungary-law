@@ -86,6 +86,8 @@
 
 | 41. | Zala | M70 | 0+200 | – | M70–M7 csomópont | 21+264 | – | Tornyiszentmiklós, országhatár |
 
-2. melléklet a 45/2020. (XI. 28.) ITM rendelethez
+2. melléklet a 45/2020. (XI. 28.) ITM rendelethez[^27]
 
-Az úthasználati jogosultság általános forgalmi adót tartalmazó, forintban kifejezett árának alapja
+Az úthasználati jogosultság általános forgalmi adót tartalmazó, forintban kifejezett ára
+
+[^27]: A 2. melléklet a 19/2022. (IX. 19.) TIM rendelet 3. § (11) bekezdésével megállapított szöveg.
