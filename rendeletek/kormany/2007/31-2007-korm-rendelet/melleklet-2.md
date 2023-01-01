@@ -168,8 +168,8 @@
 
 | 83. | 6.1. Országos, és kiemelt térségi területrendezési tervek, térségi szerkezeti tervek és térségi övezetek, területrendezési hatástanulmányok | területrendezésért felelős miniszter |
 
-| 84. | 6.2. Megyei területrendezési tervek, megyei térszerkezeti tervek és övezetek, megyei területrendezési hatástanulmányok | megyei önkormányzatok |
+| 84. | 6.2. Vármegyei területrendezési tervek, vármegyei térszerkezeti tervek és övezetek, vármegyei területrendezési hatástanulmányok | vármegyei önkormányzatok |
 
 2. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^63]
 
-[^63]: A 2. számú melléklet a 157/2022. (IV. 19.) Korm. rendelet 7. § b) pontjával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 45. § (1) bekezdés b) pontja éa (2) bekezdése szerint módosított szöveg.
+[^63]: A 2. számú melléklet a 157/2022. (IV. 19.) Korm. rendelet 7. § b) pontjával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 45. § (1) bekezdés b) pontja és (2) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 72. § b) és d) pontja szerint módosított szöveg.
