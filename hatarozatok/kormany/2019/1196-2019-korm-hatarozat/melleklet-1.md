@@ -1,16 +1,6 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XIX. Uniós fejlesztések fejezet, 2. Fejezeti kezelésű előirányzatok címét a 13. Közvetlen uniós támogatások alcímmel egészíti ki,
+## 1.[^1]
 
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## 2. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. címrendjét – 2019. május 1-jei fordulónappal – az 1. melléklet szerint módosítja,
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## pénzügyminiszter
-
-## Határidő: 2019. május 1.
+## 2.[^2]
 
 ## 3. felhívja az innovációért és technológiáért felelős minisztert, hogy a Magyar Államkincstár útján gondoskodjon
 
@@ -28,12 +18,8 @@
 
 ## Határidő: 2019. május 1.
 
-1. melléklet az 1196/2019. (IV. 12.) Korm. határozathoz
+1. melléklet az 1196/2019. (IV. 12.) Korm. határozathoz[^3]
 
-| Eredeti előirányzattal rendelkező előirányzatok átrendezése |
-
-| ÁHT-T | Új címrendi besorolás | Megnevezés | Régi címrendi besorolás |
-
-| Fejezet | Cím | Alcím | Jogcím- csoport | Jogcím | Fejezet | Cím | Alcím | Jogcím- csoport | Jogcím |
-
-| 348251 | 19 | 02 | 13 | 01 | 00 | Európai Hálózatfinanszírozási Eszköz (CEF) projektek | 17 | 20 | 60 | 01 | 00 |
+[^1]: Az 1. pont. a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont. a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
