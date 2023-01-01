@@ -8,7 +8,7 @@
 
 (4)[^9] Az országos közúthálózat fejlesztési tervét a közlekedésért felelős miniszter előterjesztése alapján az Országos Területfejlesztési Koncepció és az Országos Területrendezési Terv figyelembevételével a Kormány hagyja jóvá.
 
-(5) A helyi közúthálózat fejlesztési tervét a településszerkezeti terv részeként a tulajdonos települési önkormányzat képviselő-testülete – több települést összekötő helyi közút esetén a megyei területfejlesztési koncepció és a megyei területrendezési terv figyelembevételével, több megyét érintő helyi közút esetén a régió területfejlesztési koncepciója és a régió területrendezési tervének figyelembevételével a külön jogszabályban[^10] meghatározott szervezet – hagyja jóvá.
+(5)[^10] A helyi közúthálózat fejlesztési tervét a településszerkezeti terv részeként a tulajdonos települési önkormányzat képviselő-testülete – több települést összekötő helyi közút esetén a vármegyei területfejlesztési koncepció és a vármegyei területrendezési terv figyelembevételével, több vármegyét érintő helyi közút esetén a régió területfejlesztési koncepciója és a régió területrendezési tervének figyelembevételével a külön jogszabályban[^11] meghatározott szervezet – hagyja jóvá.
 
 (6) A fővárosban a helyi közúthálózat fejlesztési tervét – a kerületi önkormányzatokkal történt egyeztetést követően – a Fővárosi Szabályozási Kerettervvel összehangoltan a Fővárosi Közgyűlés hagyja jóvá.
 
@@ -18,4 +18,5 @@
 
 [^8]: Az R. 5. §-a a 104/1999. (VII. 6.) Korm. rendelet 4.§-ával megállapított szöveg.
 [^9]: Az R. 5. § (4) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 8. pontja szerint módosított szöveg.
-[^10]: Lásd az 1996: XXI. törvényt a területfejlesztésről és területrendezésről.
+[^10]: Az 5. § (5) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^11]: Lásd az 1996: XXI. törvényt a területfejlesztésről és területrendezésről.

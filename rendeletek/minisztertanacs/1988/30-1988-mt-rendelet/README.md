@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1988-30-20-6
 | 2016-01-01 | 1988-30-20-65.16 | 227/2005. (X. 13.) Korm. rendelet |
 | 2020-02-15 | 1988-30-20-65.17 | 13/2020. (II. 7.) Korm. rendelet |
 | 2021-06-22 | 1988-30-20-65.18 | 312/2021. (VI. 7.) Korm. rendelet |
+| 2023-01-01 | 1988-30-20-65.19 | 616/2022. (XII. 29.) Korm. rendelet |
