@@ -1,8 +1,6 @@
-## 24. §[^94]
-
 1. melléklet a 329/2019. (XII. 20.) Korm. rendelethez[^95]
 
-## Az 1. § (6) bekezdés f) pontja szerinti beszerzési tárgyak
+Az 1. § (6) bekezdés f) pontja szerinti beszerzési tárgyak
 
 1. egyéni védőeszközök, kivéve az egészségügyi védőeszközöket, a képernyő előtti munkavégzéshez szükséges szemüvegeket, egészségügyi maszkokat és egészségügyi overallokat, védőitalokat, kifejezetten munkavédelmi egyéni védőeszközöket
 
@@ -30,5 +28,4 @@
 
 13. az 1–12. pontban meghatározott termékekhez kapcsolódó szolgáltatások
 
-[^94]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^95]: Az 1. mellékletet a 21/2022. (I. 25.) Korm. rendelet 6. §-a iktatta be.

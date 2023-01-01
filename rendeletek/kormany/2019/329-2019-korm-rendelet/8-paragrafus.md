@@ -12,7 +12,7 @@ b) nem felel meg a jóváhagyott beszerzési tervben foglaltaknak, de a saját v
 
 c) olyan nem tervezett védelmi és biztonsági feladatokkal összefüggő beszerzésre vonatkozó igény, amely saját véleménye szerint végrehajtásra javasolt,
 
-## a védelmi és biztonsági feladatokkal összefüggő beszerzési igényt „végrehajtásra javasolt” jelöléssel látja el.
+a védelmi és biztonsági feladatokkal összefüggő beszerzési igényt „végrehajtásra javasolt” jelöléssel látja el.
 
 (5) Ha a vizsgálat során a VBÜ azt állapítja meg, hogy a védelmi és biztonsági feladatokkal összefüggő beszerzési igény
 
@@ -20,7 +20,7 @@ a) nem felel meg a jóváhagyott beszerzési tervben foglaltaknak és a saját v
 
 b) olyan nem tervezett védelmi és biztonsági feladatokkal összefüggő beszerzésre vonatkozó igény, ami a saját véleménye szerint sem javasolt végrehajtásra
 
-## a beszerzési igényt „végrehajtásra nem javasolt” jelöléssel látja el.
+a beszerzési igényt „végrehajtásra nem javasolt” jelöléssel látja el.
 
 (6) A (5) bekezdés szerinti esetben az átdolgozott védelmi és biztonsági feladatokkal összefüggő beszerzési igény ismételten előterjeszthető.
 
@@ -38,7 +38,7 @@ b) a beszerzési igény átdolgozásának, illetve
 
 c) az 1. § (10) és (12) bekezdése szerinti egyeztetés
 
-## időtartama.
+időtartama.
 
 (11) Ha a védelmi és biztonsági feladatokkal összefüggő beszerzési igényt a VBÜ
 
@@ -46,7 +46,7 @@ a) a (4) bekezdés a) pontja alapján látta el „végrehajtásra javasolt” m
 
 b) a (4) bekezdés c) pontja alapján látta el „végrehajtásra javasolt” jelöléssel, és a beszerzés becsült értéke nem éri el a nettó 15 millió forintot,
 
-## a beszerzési igény végrehajtható.
+a beszerzési igény végrehajtható.
 
 (12) A védelmi és biztonsági feladatokkal összefüggő beszerzési igény kielégítésére vonatkozó eljárás a Kormány döntését tartalmazó – a Kormány ügyrendje szerinti – határozatnak az érintett szervezettel való közléséig csak a (9) és a (11) bekezdés alapján indítható el.
 

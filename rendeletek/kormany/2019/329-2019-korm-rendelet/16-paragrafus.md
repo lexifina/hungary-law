@@ -1,3 +1,3 @@
-## 15. §[^85]
+16. §[^86]
 
-[^85]: A 15. §-t a 183/2022. (V. 24.) Korm. rendelet 10. § (2) bekezdése hatályon kívül helyezte.
+[^86]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

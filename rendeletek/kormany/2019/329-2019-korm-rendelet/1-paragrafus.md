@@ -20,7 +20,7 @@ e)[^5] tárgya a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a to
 
 f)[^6] tárgya a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 63. § (1) bekezdése szerinti azon árubeszerzések és szolgáltatásmegrendelések, amelyek nem tartoznak az (1) bekezdés a) pontja hatálya alá.
 
-g)[^7] a XIII. Honvédelmi Minisztérium fejezet 9., 20. és 21. címet érintő beszerzései, és nem minősülnek védelmi és biztonsági feladatokkal összefüggő beszerzésnek.
+g)[^7] a XIII. Honvédelmi Minisztérium fejezet 20., 21. és 22. címet érintő beszerzései, és nem minősülnek védelmi és biztonsági feladatokkal összefüggő beszerzésnek.
 
 (2) A védelmi és biztonsági feladatokkal összefüggő beszerzések engedélyezése és végrehajtása során e rendelet előírásai szerint jár el:
 
@@ -88,7 +88,7 @@ fl) önvédelmi, illetve
 
 fm) idegenrendészeti
 
-## célt szolgál;
+célt szolgál;
 
 g)[^11] közbeszerzési terv: Kbt. 42. §-a szerinti közbeszerzési terv.
 
@@ -106,7 +106,7 @@ a) a dolog másik dologgal történő helyettesítése azzal a következménnyel
 
 b)[^17] a dolog beszerzésére irányuló visszterhes szerződés műszaki-technikai sajátosságok vagy kizárólagos jogok védelme miatt kizárólag egy meghatározott gazdasági szereplővel köthető meg, feltéve, hogy nem létezik reális alternatíva a beszerzési igény kielégítésére, és a verseny hiánya nem annak a következménye, hogy a beszerzés tárgyát a versenyt indokolatlanul szűkítő módon határozták meg
 
-## e rendelet szabályai ennek a dolognak az egyidejű beszerzésére is alkalmazhatóak.
+e rendelet szabályai ennek a dolognak az egyidejű beszerzésére is alkalmazhatóak.
 
 (9) Ha a (8) bekezdés szerinti, a beszerzés tárgyával – műszaki vagy gazdasági szempontból – funkcionális egységet képező dolog beszerzése kormányrendelet vagy miniszteri rendelet szerinti egyéb – a feladatkörben érintett miniszter, illetve az általa kijelölt szervezet vagy személy vagy a Kormány irányítása vagy felügyelete alatt álló más szerv általi – jóváhagyáshoz kötött (a továbbiakban: külön jóváhagyás), e külön jóváhagyást – az e rendelet szerinti jóváhagyás pótolja.
 
@@ -128,7 +128,7 @@ b)[^17] a dolog beszerzésére irányuló visszterhes szerződés műszaki-techn
 [^4]: Az 1. § (1a) bekezdés d) pontja a 40/2021. (II. 2.) Korm. rendelet 22. § (2) bekezdésével megállapított, a 21/2022. (I. 25.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^5]: Az 1. § (1a) bekezdés e) pontja a 21/2022. (I. 25.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
 [^6]: Az 1. § (1a) bekezdés f) pontját a 21/2022. (I. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^7]: Az 1. § (1a) bekezdés g) pontját a 245/2022. (VII. 8.) Korm. rendelet 12. §-a iktatta be.
+[^7]: Az 1. § (1a) bekezdés g) pontját a 245/2022. (VII. 8.) Korm. rendelet 12. §-a iktatta be, szövege a 602/2022. (XII. 28.) Korm. rendelet 8. §-a szerint módosított szöveg.
 [^8]: Az 1. § (2) bekezdés d) pontja a 827/2021. (XII. 28.) Korm. rendelet 32. §-ával megállapított szöveg.
 [^9]: Az 1. § (2a) bekezdését a 649/2020. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be.
 [^10]: Az 1. § (6) bekezdés f) pontja a 21/2022. (I. 25.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

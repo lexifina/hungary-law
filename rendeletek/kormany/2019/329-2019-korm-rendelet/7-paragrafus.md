@@ -20,7 +20,7 @@ b) „végrehajtásra részben javasolt” vagy
 
 c) „végrehajtásra nem javasolt”
 
-## jelöléssel látja el.
+jelöléssel látja el.
 
 (6)[^50] Az (5) bekezdés szerinti véleményezést követően a VBÜ a beszerzési tervet nyilvántartásba veszi, és a nyilvántartásba vételt követő munkanapon megküldi a Védelmi Tanács részére.
 
