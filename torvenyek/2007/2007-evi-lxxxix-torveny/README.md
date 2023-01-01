@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-89-00-00
 | 2017-03-28 | 2017. évi XX. törvény | 2007-89-00-00.13 |
 | 2018-01-01 | 2017. évi CLXXIX. törvény | 2007-89-00-00.14 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2007-89-00-00.15 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2007-89-00-00.16 |
