@@ -28,7 +28,7 @@ c) a szakmai felsővezető, a vezetői megbízású, valamint feladatköre szeri
 
 d) a jegyző,
 
-e) a bíró, az ügyész, a közjegyző, a bírósági végrehajtó,
+e) az alkotmánybíró és az Alkotmánybíróság Hivatalának foglalkoztatottja, a bíró, az ügyész, a közjegyző, a bírósági végrehajtó,
 
 f) a Honvédség tényleges állományú, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, valamint az Országgyűlési Őrség hivatásos állományú tagja, e szervek alkalmazottja,
 

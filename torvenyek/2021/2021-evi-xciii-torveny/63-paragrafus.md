@@ -22,7 +22,7 @@ b) a honvédelemért felelős miniszter,
 
 c) a védelemgazdaság központi tervező szerve,
 
-d) a Honvédség parancsnoka,
+d) a Honvéd Vezérkar főnöke,
 
 e) a Honvédség katonai igazgatási és központi adatfeldolgozó szerve,
 

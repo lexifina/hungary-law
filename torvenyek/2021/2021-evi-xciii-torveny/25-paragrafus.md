@@ -6,4 +6,4 @@
 
 (3) A Védelemgazdasági Alaptervet a Kormány hagyja jóvá.
 
-(4) A védelmi és biztonsági feladatok ellátásában részt vevő szervek a Védelemgazdasági Alapterv figyelembevételével a szervezetüket érintő részfeladatok meghatározása és ellátása érdekében védelemgazdasági tervet készítenek. A védelemgazdasági tervet a védelmi és biztonsági feladatok ellátásban részt vevő szerv vezetője – a belgazdaságért felelős miniszter egyetértése esetén – hagyja jóvá.
+(4) A védelmi és biztonsági feladatok ellátásában részt vevő szervek a Védelemgazdasági Alapterv figyelembevételével a szervezetüket érintő részfeladatok meghatározása és ellátása érdekében védelemgazdasági tervet készítenek. A védelemgazdasági tervet a védelmi és biztonsági feladatok ellátásban részt vevő szerv vezetője – kormányrendeletben meghatározott szerv egyetértése esetén – hagyja jóvá.

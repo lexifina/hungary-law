@@ -16,4 +16,4 @@ g) együttműködik más települések polgármestereivel, a védekezésbe bevon
 
 h) szervezi és irányítja az anyagi javak védelmét, a lakosság létfenntartáshoz szükséges anyagi javakkal történő ellátását.
 
-(2) A főpolgármester és a megyei közgyűlés elnöke szervezi és irányítja a fővárosi és a megyei önkormányzat közfeladataihoz kapcsolódó védelmi és biztonsági tevékenységekkel kapcsolatos (1) bekezdés szerinti feladatok ellátását.
+(2) A főpolgármester és a vármegyei közgyűlés elnöke szervezi és irányítja a fővárosi és a vármegyei önkormányzat közfeladataihoz kapcsolódó védelmi és biztonsági tevékenységekkel kapcsolatos (1) bekezdés szerinti feladatok ellátását.

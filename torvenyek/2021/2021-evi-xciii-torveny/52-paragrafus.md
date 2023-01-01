@@ -6,7 +6,7 @@ a) összehangolja a Magyarország biztonsági és védelmi érdekeivel összefü
 
 b) a Kormány irányítói jogkörének érvényesítése érdekében koordinálja az e törvényben meghatározott védelmi és biztonsági tervezés feladatait,
 
-c) nemzeti eseménykezelő központot működtet, amelynek fő feladata az összkormányzati válságkezelés, illetve a különleges jogrendi feladatellátás szakmai koordinációja és összehangolása felkészülési időszakban, valamint védelmi és biztonsági esemény idején,
+c) a Kormány erre irányuló döntése esetén, az eseménykezelés érdekében nemzeti eseménykezelő központot működtet, amelynek fő feladata az összkormányzati válságkezelés, illetve a különleges jogrendi feladatellátás szakmai koordinációja és összehangolása felkészülési időszakban, valamint védelmi és biztonsági esemény idején,
 
 d) koordinálja az összehangolt védelmi tevékenységre történő összkormányzati felkészülést,
 

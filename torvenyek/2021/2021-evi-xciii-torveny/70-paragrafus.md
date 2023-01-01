@@ -1,15 +1,17 @@
 ## VIII. Fejezet
 
-## VÉDELMI ÉS BIZTONSÁGI BÍRSÁG
+## A VÉDELMI ÉS BIZTONSÁGI KÖTELEZETTSÉGEKKEL KAPCSOLATOS SZABÁLYSZEGÉS MEGÁLLAPÍTÁSA
 
-70. § (1) A fővárosi és a megyei kormányhivatal (a továbbiakban együtt: kormányhivatal) – ha törvény súlyosabb jogkövetkezmény alkalmazását nem rendeli – védelmi és biztonsági bírságot szab ki,
+70. § (1) A védelmi és biztonsági igazgatás központi szerve, a területi védelmi bizottság elnöke, elnökhelyettese, a helyi védelmi bizottság elnöke, a polgármester, valamint az e törvény alapján védelmi és biztonsági igazgatási feladatokat ellátó ágazati igazgatási szervek vezetője kezdeményezése alapján a fővárosi, vármegyei kormányhivatal – ha törvény súlyosabb jogkövetkezmény alkalmazását nem rendeli – közigazgatási hatósági eljárást folytat le azzal a természetes személlyel, jogi személlyel, jogi személyiséggel nem rendelkező jogalannyal szemben, aki
 
-a) ha az e törvényben meghatározott polgári védelmi, valamint gazdasági és anyagi szolgáltatási kötelezettség teljesítésére kötelezett a kötelezettségnek nem vagy nem megfelelően tesz eleget,
+a) az e törvényben meghatározott polgári védelmi, valamint gazdasági és anyagi szolgáltatási kötelezettségét nem vagy nem megfelelően teljesíti,
 
-b) ha a nemzetgazdaság védelmi és biztonsági célú felkészítésével összefüggő kötelezettség teljesítésére kötelezett a kötelezettségének nem tesz eleget, valamint
+b) a nemzetgazdaság védelmi és biztonsági célú felkészítésével összefüggő kötelezettségének nem tesz eleget, vagy
 
-c) ha valaki az összehangolt védelmi tevékenységgel összefüggésben e törvény alapján bevezetett szabályokat megszegi.
+c) az összehangolt védelmi tevékenységgel összefüggésben e törvény alapján bevezetett szabályokat megszegi.
 
-(2) A kormányhivatal a védelmi és biztonsági bírság kiszabásával kapcsolatos eljárást a védelmi és biztonsági igazgatás központi szerve, a területi védelmi bizottság elnöke, elnökhelyettese, a helyi védelmi bizottság elnök, a polgármester, valamint az e törvény alapján védelmi és biztonsági igazgatási feladatokat ellátó ágazati igazgatási szervek vezetője kezdeményezése alapján folytatja le.
+(2) Az (1) bekezdés szerinti eljárás legkésőbb a jogsértés bekövetkezését követő egy éven belül indítható meg.
 
-(3) A védelmi és biztonsági bírság kiszabására irányuló eljárás a (2) bekezdés alapján kezdeményezésre jogosult indítványára a kormányhivatalhoz történt megérkezésétől számított negyvenöt napon belül, de legkésőbb a jogsértés bekövetkezését követő egy éven belül indítható meg.
+(3) A fővárosi, vármegyei kormányhivatal az (1) bekezdés szerinti eljárásban, kormányrendeletben meghatározottak szerint védelmi és biztonsági bírságot szabhat ki.
+
+(4) A fővárosi, vármegyei kormányhivatal a védelmi és biztonsági bírság összegét kormányrendeletben meghatározottak szerint mérsékelheti vagy korlátlanul enyhítheti, megfizetésére részletfizetést engedélyezhet.

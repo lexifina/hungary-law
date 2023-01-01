@@ -12,7 +12,7 @@
 
 1. a polgári védelmi kötelezettséggel, valamint a gazdasági és anyagi szolgáltatási kötelezettséggel összefüggő részletes szabályokat, a gazdasági és anyagi szolgáltatás elrendelése érdekében vezetett nyilvántartásban kezelt ingatlanra, szolgáltatásra, technikai eszközre vonatkozó műszaki adatokat,
 
-2. a védelmi és biztonsági bírság mértékét, megállapításának szempontrendszerét, a bírság megfizetése módjának és a kapcsolódó eljárásnak a részletes szabályait,
+2. a védelmi és biztonsági bírság mértékét, megállapításának szempontrendszerét, a mérséklésével, az enyhítésével és a részletfizetés engedélyezésével kapcsolatos szabályokat, a bírság megfizetése módjának és a kapcsolódó eljárásnak a részletes szabályait,
 
 3. a nemzetgazdaság védelmi és biztonsági célú felkészítése, a gazdaságmozgósítás és az annak keretében bevezethető intézkedések részletes szabályait,
 
@@ -22,7 +22,7 @@
 
 6. a védelmi és biztonsági igazgatási feladatok ellátásával összefüggő minősített adatközlési feltételek kialakítására és fenntartására, a védett kommunikáció kialakítására és működtetésére, valamint az érintett kormányzati igazgatási szervek kijelölésére vonatkozó szabályokat,
 
-7. a Nemzeti Védelmi és Biztonsági Fórum működésének részletes szabályait,
+7.
 
 8. a NATO Válságreagálási Rendszerével összefüggő döntéshozatal és feladatellátás részletes szabályait, valamint az ezzel összhangban álló Nemzeti Intézkedési Rendszer alkalmazásával összefüggő szabályokat,
 

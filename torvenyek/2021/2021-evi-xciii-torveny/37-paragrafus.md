@@ -1,8 +1,8 @@
-37. § (1) A kártalanításra jogosult a felmerült kár megtérítésére vonatkozó igényét a székhelye vagy lakóhelye, ennek hiányában belföldi tartózkodási helye szerint illetékes, ingatlan igénybevételét is magában foglaló igénybevétel esetében az ingatlan fekvése szerint illetékes járási kormányhivatalnál terjesztheti elő, amely azt a kárigény megalapozottságára vonatkozó véleményével ellátva 15 napon belül felterjeszti a fővárosi, megyei kormányhivatalhoz.
+37. § (1) A kártalanításra jogosult a felmerült kár megtérítésére vonatkozó igényét a székhelye vagy lakóhelye, ennek hiányában belföldi tartózkodási helye szerint illetékes, ingatlan igénybevételét is magában foglaló igénybevétel esetében az ingatlan fekvése szerint illetékes járási kormányhivatalnál terjesztheti elő, amely azt a kárigény megalapozottságára vonatkozó véleményével ellátva 15 napon belül felterjeszti a fővárosi, vármegyei kormányhivatalhoz.
 
-(2) A kártalanítási eljárás lefolytatására és a kártalanítás összegének megállapítására – a 39. § szerinti kivétellel – a fővárosi, megyei kormányhivatal jogosult. A fővárosi, megyei kormányhivatal a kárigény benyújtását követő 3 napon belül, 15 napos határidő tűzésével felhívja az igénybe vevő szervet, hogy nyilatkozzon a kárigény megalapozottságáról.
+(2) A kártalanítási eljárás lefolytatására és a kártalanítás összegének megállapítására – a 39. § szerinti kivétellel – a fővárosi, vármegyei kormányhivatal jogosult. A fővárosi, vármegyei kormányhivatal a kárigény benyújtását követő 3 napon belül, 15 napos határidő tűzésével felhívja az igénybe vevő szervet, hogy nyilatkozzon a kárigény megalapozottságáról.
 
-(3) A fővárosi, megyei kormányhivatal a kárigény benyújtásától számított 60 napon belül dönt.
+(3) A fővárosi, vármegyei kormányhivatal a kárigény benyújtásától számított 60 napon belül dönt.
 
 (4) A kártalanítás összegének megállapításánál figyelembe kell venni
 

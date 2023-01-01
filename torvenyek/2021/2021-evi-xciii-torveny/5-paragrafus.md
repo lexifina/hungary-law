@@ -22,7 +22,7 @@
 
 10. szövetségesi kötelezettség: a NATO és az EU, illetve más nemzetközi, az Országgyűlés által törvényben kihirdetett, kollektív védelmi együttműködés keretében teljesítendő – különösen honvédelmi, rendvédelmi és nemzetbiztonsági jellegű – tervezési, szervezési, felkészülési, felkészültségi, együttműködési és képesség alapú feladatok összessége;
 
-11. területi védelmi bizottság: a főváros és a megyék területére kiterjedő illetékességgel, e törvényben meghatározottak szerint létesített, a Kormány irányítása alatt álló, testületi szervként működő területi közigazgatási szerv;
+11. területi védelmi bizottság: a főváros és a vármegyék területére kiterjedő illetékességgel, e törvényben meghatározottak szerint létesített, a Kormány irányítása alatt álló, testületi szervként működő területi közigazgatási szerv;
 
 12. védelmi és biztonsági célú adat: a védelmi és biztonsági igazgatás központi szervének az 52. §-ban, az 53. § (1) bekezdésében, valamint a 71. § (2) bekezdésében meghatározott védelmi és biztonsági feladatainak ellátásával, az összehangolt védelmi tevékenységgel, valamint a különleges jogrendi működéssel közvetlenül összefüggő adat.
 
