@@ -6,7 +6,7 @@
 
 (3) A támogatás abban az esetben nyújtható, ha
 
-a)[^271] az új kapcsoltenergia-termelő egység a 2012/27/EU európai parlamenti és tanácsi irányelvben foglaltaknak megfelelően a nem kapcsolt energiatermeléshez viszonyítva összességében primerenergia-megtakarítást ér el, vagy
+a)[^272] az új kapcsoltenergia-termelő egység a 2012/27/EU európai parlamenti és tanácsi irányelvben foglaltaknak megfelelően a nem kapcsolt energiatermeléshez viszonyítva összességében primerenergia-megtakarítást ér el, vagy
 
 b) a beruházás egy meglévő kapcsoltenergia-termelő egység fejlesztésével vagy egy meglévő erőművi egység kapcsoltenergia-termelő egységgé történő átalakításával primerenergia-megtakarítást eredményez az erőművi egység fejlesztés vagy átalakítás előtti eredményéhez viszonyítva.
 
@@ -18,4 +18,4 @@ b) a nagy hatásfokú létesítmény hatásfokának növeléséhez szükséges b
 
 számolható el.
 
-[^271]: A 72. § (3) bekezdés a) pontja a 679/2021. (XII. 3.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^272]: A 72. § (3) bekezdés a) pontja a 679/2021. (XII. 3.) Korm. rendelet 27. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 51. [^323] A mezőgazdasági termék termelőjének minőségrendszerekben való részvételéhez nyújtott támogatás
+## 51. [^324] A mezőgazdasági termék termelőjének minőségrendszerekben való részvételéhez nyújtott támogatás
 
 103/B. § (1) A mezőgazdasági termék termelőjének minőségrendszerekben való részvételéhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) kategóriái:
 
@@ -50,4 +50,4 @@ b) abban az esetben, ha uniós jogszabály a díjak tényleges mértékének meg
 
 (9) Az (1) bekezdés b) és c) pontja szerinti támogatás vonatkozásában közvetlen kifizetés az ellenőrzési intézkedés végrehajtásáért felelős szerv, a kutatási szolgáltató vagy a tanácsadási szolgáltató részére teljesíthető.
 
-[^323]: Az 51. alcímet (103/B. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^324]: Az 51. alcímet (103/B. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.

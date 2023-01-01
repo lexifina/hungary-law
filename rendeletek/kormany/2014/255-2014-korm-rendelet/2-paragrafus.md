@@ -244,7 +244,7 @@ d) a koronavírus-járvány terjedésének megakadályozása érdekében felhasz
 
 77b.[^41] okosfunkció-fogadási alkalmasság: a 651/2014/EU bizottsági rendelet 2. cikk 103d. pontja szerinti jellemző,
 
-78.[^42] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
+78.[^42] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos vármegyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
 
 79.[^43] passzív hálózat: a 651/2014/EU bizottsági rendelet 2. cikk 137. pontja szerinti infrastruktúra,
 
@@ -383,7 +383,7 @@ c) új termék- vagy földrajzi piacra való belépés céljából készített �
 [^39]: A 2. § (1) bekezdés 73. pontja a 156/2022. (IV. 19.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^40]: A 2. § (1) bekezdés 77a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (10) bekezdése iktatta be.
 [^41]: A 2. § (1) bekezdés 77b. pontját a 679/2021. (XII. 3.) Korm. rendelet 12. § (9) bekezdése iktatta be.
-[^42]: A 2. § (1) bekezdés 78. pontja a 271/2015. (IX. 18.) Korm. rendelet 2. § (11) bekezdésével megállapított szöveg.
+[^42]: A 2. § (1) bekezdés 78. pontja a 271/2015. (IX. 18.) Korm. rendelet 2. § (11) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 191. § a) pontja szerint módosított szöveg.
 [^43]: A 2. § (1) bekezdls 79. pontja a 679/2021. (XII. 3.) Korm. rendelet 33. § a) pontja szerint módosított szöveg.
 [^44]: A 2. § (1) bekezdés 80a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (12) bekezdése iktatta be.
 [^45]: A 2. § (1) bekezdés 81. pontja a 271/2015. (IX. 18.) Korm. rendelet 2. § (13) bekezdésével megállapított szöveg.

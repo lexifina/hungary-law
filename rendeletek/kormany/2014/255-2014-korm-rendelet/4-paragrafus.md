@@ -22,7 +22,7 @@
 
 10. leromlott városi területek rehabilitációja,
 
-11.[^69] foglalkoztatás-növelést célzó megyei és helyi foglalkoztatási együttműködések,
+11.[^69] foglalkoztatás-növelést célzó vármegyei és helyi foglalkoztatási együttműködések,
 
 12.[^70] helyi közösségi programok megvalósítása,
 
@@ -39,7 +39,7 @@
 [^66]: A 4. § 6. pontja a 271/2015. (IX. 18.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^67]: A 4. § 8. pontja a 271/2015. (IX. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^68]: A 4. § 9. pontja a 271/2015. (IX. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^69]: A 4. § 11. pontja a 271/2015. (IX. 18.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^69]: A 4. § 11. pontja a 271/2015. (IX. 18.) Korm. rendelet 3. § (4) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 191. § b) pontja szerint módosított szöveg.
 [^70]: A 4. § 12. pontja a 271/2015. (IX. 18.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
 [^71]: A 4. § 13. pontja a 271/2015. (IX. 18.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
 [^72]: A 4. § 15. pontja a 271/2015. (IX. 18.) Korm. rendelet 3. § (5) bekezdésével megállapított szöveg.

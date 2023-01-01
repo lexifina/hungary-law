@@ -1,4 +1,4 @@
-## 55. [^331] Az erdőtelepítéshez és fásításhoz nyújtott támogatás
+## 55. [^332] Az erdőtelepítéshez és fásításhoz nyújtott támogatás
 
 103/F. § (1) Az erdőtelepítéshez és fásításhoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) erdő, illetve fás terület telepítésének költségére, valamint fenntartásának hektáronkénti éves költségére vehető igénybe.
 
@@ -16,7 +16,7 @@ c) az egyéb kapcsolódó tevékenység költsége
 
 számolható el.
 
-(5)[^332] A támogatási összeg – az európai innovációs partnerség keretében nyújtott támogatás kivételével – egységköltség alapján kerül meghatározásra. Az európai innovációs partnerség keretében nyújtott támogatás esetén az egyedi költségvetés alapján igazolt költségek kerülnek elszámolásra.
+(5)[^333] A támogatási összeg – az európai innovációs partnerség keretében nyújtott támogatás kivételével – egységköltség alapján kerül meghatározásra. Az európai innovációs partnerség keretében nyújtott támogatás esetén az egyedi költségvetés alapján igazolt költségek kerülnek elszámolásra.
 
 (6) Nem nyújtható támogatás a 702/2014/EU bizottsági rendelet 32. cikk (12) bekezdése szerinti fa telepítéséhez.
 
@@ -24,5 +24,5 @@ számolható el.
 
 (8) A telepített fajoknak meg kell felelniük az adott terület környezeti és éghajlati viszonyainak és a rájuk vonatkozó környezetvédelmi minimumkövetelményeknek.
 
-[^331]: Az 55. alcímet (103/F. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
-[^332]: A 103/F. § (5) bekezdése a 483/2017. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^332]: Az 55. alcímet (103/F. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^333]: A 103/F. § (5) bekezdése a 483/2017. (XII. 28.) Korm. rendelet 8. §-ával megállapított szöveg.

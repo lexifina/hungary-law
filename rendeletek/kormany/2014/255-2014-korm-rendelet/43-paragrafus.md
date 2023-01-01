@@ -2,11 +2,11 @@
 
 a) az 1 millió eurót,
 
-b)[^254]
+b)[^255]
 
-c)[^255] az Atr. 25. § (1) bekezdése szerinti régióban letelepedett vállalkozás esetén a 2 millió eurót.
+c)[^256] az Atr. 25. § (1) bekezdése szerinti régióban letelepedett vállalkozás esetén a 2 millió eurót.
 
 (2) Az 5 és 10 év közötti futamidővel rendelkező hitel esetén a névérték legmagasabb összege az (1) bekezdésben meghatározott összeg, valamint a 10 év és a hitel tényleges futamideje hányadosának szorzataként határozható meg. Az 5 évnél rövidebb futamidejű hitel esetén a legmagasabb összeg megegyezik az 5 éves futamidejű hitelre vonatkozó legmagasabb összeggel.
 
-[^254]: A 43. § (1) bekezdés b) pontját a 156/2022. (IV. 19.) Korm. rendelet 10. § e) pontja hatályon kívül helyezte.
-[^255]: A 43. § (1) bekezdés c) pontja a 156/2022. (IV. 19.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^255]: A 43. § (1) bekezdés b) pontját a 156/2022. (IV. 19.) Korm. rendelet 10. § e) pontja hatályon kívül helyezte.
+[^256]: A 43. § (1) bekezdés c) pontja a 156/2022. (IV. 19.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.

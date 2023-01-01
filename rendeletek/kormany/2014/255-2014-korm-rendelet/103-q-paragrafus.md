@@ -1,12 +1,12 @@
-## 66. [^365] Az induló vállalkozás által vidéki térségben folytatott nem mezőgazdasági tevékenységhez nyújtott támogatás
+## 66. [^366] Az induló vállalkozás által vidéki térségben folytatott nem mezőgazdasági tevékenységhez nyújtott támogatás
 
 103/Q. § (1) Az induló vállalkozás által vidéki térségben folytatott nem mezőgazdasági tevékenységhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) mértéke nem haladhatja meg kedvezményezettenként a 40 000 eurónak megfelelő forintösszeget.
 
 (2) A támogatás kedvezményezettje lehet a vidéki térségben
 
-a)[^366] tevékenykedő azon mikrovállalkozásnak minősülő mezőgazdasági termelő, illetve a mezőgazdasági háztartás tagja, aki a tevékenységi körét nem mezőgazdasági tevékenységgel bővíti,
+a)[^367] tevékenykedő azon mikrovállalkozásnak minősülő mezőgazdasági termelő, illetve a mezőgazdasági háztartás tagja, aki a tevékenységi körét nem mezőgazdasági tevékenységgel bővíti,
 
-b)[^367] működő mikrovállalkozás,
+b)[^368] működő mikrovállalkozás,
 
 c) lakó természetes személy.
 
@@ -28,6 +28,6 @@ c) a tevékenysége fejlesztéséhez szükséges intézkedések részleteit.
 
 (6) A támogatás kifizetése két részletben, legfeljebb öt év alatt történik. Az utolsó részlet a (4) bekezdés a) pontja szerinti üzleti terv végrehajtása esetén fizethető ki.
 
-[^365]: A 66. alcímet (103/Q. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
-[^366]: A 103/Q. § (2) bekezdés a) pontja a 305/2016. (X. 13.) Korm. rendelet 18. § 16. pontja szerint módosított szöveg.
-[^367]: A 103/Q. § (2) bekezdés b) pontja a 305/2016. (X. 13.) Korm. rendelet 18. § 17. pontja szerint módosított szöveg.
+[^366]: A 66. alcímet (103/Q. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^367]: A 103/Q. § (2) bekezdés a) pontja a 305/2016. (X. 13.) Korm. rendelet 18. § 16. pontja szerint módosított szöveg.
+[^368]: A 103/Q. § (2) bekezdés b) pontja a 305/2016. (X. 13.) Korm. rendelet 18. § 17. pontja szerint módosított szöveg.

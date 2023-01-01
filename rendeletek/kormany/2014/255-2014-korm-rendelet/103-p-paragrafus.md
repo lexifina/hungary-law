@@ -1,10 +1,10 @@
-## 65. [^362] A mezőgazdasági termék nem mezőgazdasági termékké való feldolgozásával vagy a gyapottermeléssel kapcsolatos beruházáshoz nyújtott támogatás
+## 65. [^363] A mezőgazdasági termék nem mezőgazdasági termékké való feldolgozásával vagy a gyapottermeléssel kapcsolatos beruházáshoz nyújtott támogatás
 
 103/P. § (1) A mezőgazdasági termék nem mezőgazdasági termékké való feldolgozásával vagy a gyapottermeléssel kapcsolatos beruházáshoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) tárgyi eszköz és immateriális javak beszerzéséhez nyújtható.
 
-(2)[^363] A támogatás keretében a 103/I. § (3) bekezdés a)–d) pontja szerinti költség, valamint a megvalósíthatósági tanulmány költsége – ideértve, ha a megvalósíthatósági tanulmány eredménye alapján nem merül fel a 103/I. § (3) bekezdés a) és b) pont szerinti költség – számolható el.
+(2)[^364] A támogatás keretében a 103/I. § (3) bekezdés a)–d) pontja szerinti költség, valamint a megvalósíthatósági tanulmány költsége – ideértve, ha a megvalósíthatósági tanulmány eredménye alapján nem merül fel a 103/I. § (3) bekezdés a) és b) pont szerinti költség – számolható el.
 
-(3)[^364] A támogatási intenzitás nem haladhatja meg az elszámolható költségek
+(3)[^365] A támogatási intenzitás nem haladhatja meg az elszámolható költségek
 
 a) 60%-át az Észak-Alföld régióban,
 
@@ -18,6 +18,6 @@ d) 10%-át Budapesten.
 
 (5) Nem nyújtható támogatás bioüzemanyag vagy megújuló energiaforrásból származó energia előállításához kapcsolódó beruházáshoz.
 
-[^362]: A 65. alcímet (103/P. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
-[^363]: A 103/P. § (2) bekezdése a 409/2016. (XII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^364]: A 103/P. § (3) bekezdése a 156/2022. (IV. 19.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^363]: A 65. alcímet (103/P. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^364]: A 103/P. § (2) bekezdése a 409/2016. (XII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^365]: A 103/P. § (3) bekezdése a 156/2022. (IV. 19.) Korm. rendelet 8. §-ával megállapított szöveg.

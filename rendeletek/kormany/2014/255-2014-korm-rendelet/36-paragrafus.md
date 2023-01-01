@@ -1,5 +1,5 @@
-## 15.[^247]
+## 15.[^248]
 
 36. §
 
-[^247]: A 15. alcímet (36. §) a 679/2021. (XII. 3.) Korm. rendelet 34. § d) pontja hatályon kívül helyezte.
+[^248]: A 15. alcímet (36. §) a 679/2021. (XII. 3.) Korm. rendelet 34. § d) pontja hatályon kívül helyezte.

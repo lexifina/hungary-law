@@ -1,4 +1,4 @@
-## 11/A. [^242] A regionális városfejlesztési támogatás
+## 11/A. [^243] A regionális városfejlesztési támogatás
 
 32/A. § (1) A regionális városfejlesztési támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) olyan, az Atr. 25. § (1) bekezdése szerinti területeket érintő városfejlesztési projektek esetén nyújtható, amelyek a város integrált településfejlesztési stratégiájának végrehajtását szolgálják.
 
@@ -20,7 +20,7 @@
 
 (10) A végső kedvezményezett részére nyújtott támogatás esetén a támogatásnak a városfejlesztési alapok vagy a városfejlesztési projektek szintjén további magánbefektetői forrásokkal kell párosulnia oly módon, hogy a bevont magánbefektetői források teljes összege elérje a városfejlesztési projekthez nyújtott teljes finanszírozás 30%-át.
 
-(11)[^243] Az elszámolható költség a városfejlesztési projekt teljes költsége, ha az összhangban áll az 1303/2013/EU európai parlamenti és tanácsi rendelet 37. és 65. cikkének rendelkezéseivel vagy az 1060/2021/EU európai parlamenti és tanácsi rendelet 67. és 68. cikkével, attól függően, hogy melyik európai parlamenti és tanácsi rendelet alkalmazandó a projekt támogatására.
+(11)[^244] Az elszámolható költség a városfejlesztési projekt teljes költsége, ha az összhangban áll az 1303/2013/EU európai parlamenti és tanácsi rendelet 37. és 65. cikkének rendelkezéseivel vagy az 1060/2021/EU európai parlamenti és tanácsi rendelet 67. és 68. cikkével, attól függően, hogy melyik európai parlamenti és tanácsi rendelet alkalmazandó a projekt támogatására.
 
-[^242]: A 11/A. alcímet (32/A–32/B. §) a 365/2017. (XII. 5.) Korm. rendelet 14. §-a iktatta be.
-[^243]: A 32/A. § (11) bekezdése a 679/2021. (XII. 3.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^243]: A 11/A. alcímet (32/A–32/B. §) a 365/2017. (XII. 5.) Korm. rendelet 14. §-a iktatta be.
+[^244]: A 32/A. § (11) bekezdése a 679/2021. (XII. 3.) Korm. rendelet 22. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 62. [^351] Az erdészeti ágazatban tanácsadási szolgáltatáshoz nyújtott támogatás
+## 62. [^352] Az erdészeti ágazatban tanácsadási szolgáltatáshoz nyújtott támogatás
 
 ## 103/M. § (1) Az erdészeti ágazatban tanácsadási szolgáltatáshoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) célja, hogy a tanácsadási szolgáltatás következtében valamely üzem, vállalkozás vagy beruházás gazdasági és környezeti teljesítménye javuljon.
 
@@ -12,11 +12,11 @@
 
 ## (6) A támogatás vonatkozásában közvetlen kifizetés a tudástranszfert vagy tájékoztatási tevékenységet megvalósító szervezet részére teljesíthető.
 
-## 63. [^352] Az erdőgazdálkodási technológiára, valamint erdei termék feldolgozására, mobilizálására és értékesítésére irányuló beruházáshoz nyújtott támogatás
+## 63. [^353] Az erdőgazdálkodási technológiára, valamint erdei termék feldolgozására, mobilizálására és értékesítésére irányuló beruházáshoz nyújtott támogatás
 
-103/N. § (1)[^353] Az erdőgazdálkodási technológiára, valamint erdei termék feldolgozására, mobilizálására és értékesítésére irányuló beruházáshoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében a 103/I. § (3) bekezdése szerinti költség, valamint a megvalósíthatósági tanulmány költsége – ideértve, ha a megvalósíthatósági tanulmány eredménye alapján nem merül fel a 103/I. § (3) bekezdés a) és b) pont szerinti költség – számolható el.
+103/N. § (1)[^354] Az erdőgazdálkodási technológiára, valamint erdei termék feldolgozására, mobilizálására és értékesítésére irányuló beruházáshoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében a 103/I. § (3) bekezdése szerinti költség, valamint a megvalósíthatósági tanulmány költsége – ideértve, ha a megvalósíthatósági tanulmány eredménye alapján nem merül fel a 103/I. § (3) bekezdés a) és b) pont szerinti költség – számolható el.
 
-(2)[^354] Támogatás a 702/2014/EU bizottsági rendelet 41. cikk (1) bekezdése szerinti kedvezményezett részére nyújtható.
+(2)[^355] Támogatás a 702/2014/EU bizottsági rendelet 41. cikk (1) bekezdése szerinti kedvezményezett részére nyújtható.
 
 (3) A támogatási intenzitás nem haladhatja meg
 
@@ -32,13 +32,13 @@ b) a Magyarországon – ide nem értve az a) pont szerinti régiót – végzet
 
 (7) Az elsődlegesen biomassza-alapú villamosenergia-termelésre irányuló beruházás akkor támogatható, ha a nemzeti előírás szerinti arányban hőenergiát is hasznosít.
 
-(8)[^355] A bioenergia előállítására irányuló beruházáshoz akkor nyújtható támogatás, ha az előállított bioenergia megfelel az uniós jogszabályokban, különösen a megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül helyezéséről szóló, 2009. április 23-i 2009/28/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2009/28/EK európai parlamenti és tanácsi irányelv) 17. cikk (2)–(6) bekezdésében meghatározott fenntarthatósági kritériumoknak.
+(8)[^356] A bioenergia előállítására irányuló beruházáshoz akkor nyújtható támogatás, ha az előállított bioenergia megfelel az uniós jogszabályokban, különösen a megújuló energiaforrásból előállított energia támogatásáról, valamint a 2001/77/EK és a 2003/30/EK irányelv módosításáról és azt követő hatályon kívül helyezéséről szóló, 2009. április 23-i 2009/28/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2009/28/EK európai parlamenti és tanácsi irányelv) 17. cikk (2)–(6) bekezdésében meghatározott fenntarthatósági kritériumoknak.
 
-(9)[^356] Az erdő gazdasági értékének növeléséhez kapcsolódó beruházás indokoltságát az erdő egy vagy több üzem tekintetében várható értéknövekedése bemutatásával szükséges alátámasztani.
+(9)[^357] Az erdő gazdasági értékének növeléséhez kapcsolódó beruházás indokoltságát az erdő egy vagy több üzem tekintetében várható értéknövekedése bemutatásával szükséges alátámasztani.
 
-[^351]: A 62. alcímet (103/M. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
-[^352]: A 63. alcímet (103/N. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
-[^353]: A 103/N. § (1) bekezdése a 409/2016. (XII. 13.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^354]: A 103/N. § (2) bekezdése a 305/2016. (X. 13.) Korm. rendelet 13. §-ával megállapított, a 409/2016. (XII. 13.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^355]: A 103/N. § (8) bekezdése a 127/2016. (VI. 7.) Korm. rendelet 17. § 28. pontja szerint módosított szöveg.
-[^356]: A 103/N. § (9) bekezdését a 127/2016. (VI. 7.) Korm. rendelet 13. §-a iktatta be.
+[^352]: A 62. alcímet (103/M. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^353]: A 63. alcímet (103/N. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^354]: A 103/N. § (1) bekezdése a 409/2016. (XII. 13.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^355]: A 103/N. § (2) bekezdése a 305/2016. (X. 13.) Korm. rendelet 13. §-ával megállapított, a 409/2016. (XII. 13.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^356]: A 103/N. § (8) bekezdése a 127/2016. (VI. 7.) Korm. rendelet 17. § 28. pontja szerint módosított szöveg.
+[^357]: A 103/N. § (9) bekezdését a 127/2016. (VI. 7.) Korm. rendelet 13. §-a iktatta be.

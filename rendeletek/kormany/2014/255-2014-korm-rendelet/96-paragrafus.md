@@ -14,6 +14,6 @@ kell levonni az elszámolható költségekből.
 
 (5) A (3) bekezdésben meghatározottak teljesítése – a (4) bekezdéstől eltérően – visszafizetési mechanizmus alkalmazásával utólag is biztosítható.
 
-(6)[^312] A kétmillió eurónak megfelelő forintösszeget meg nem haladó támogatás esetén a támogatás összege az (1)–(5) bekezdésben meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladja meg az elszámolható költségek 80%-át.
+(6)[^313] A kétmillió eurónak megfelelő forintösszeget meg nem haladó támogatás esetén a támogatás összege az (1)–(5) bekezdésben meghatározott módszerek alkalmazásától eltérően is meghatározható azzal, hogy a támogatási intenzitás nem haladja meg az elszámolható költségek 80%-át.
 
-[^312]: A 96. § (6) bekezdése a 365/2017. (XII. 5.) Korm. rendelet 20. § 14. pontja szerint módosított szöveg.
+[^313]: A 96. § (6) bekezdése a 365/2017. (XII. 5.) Korm. rendelet 20. § 14. pontja szerint módosított szöveg.

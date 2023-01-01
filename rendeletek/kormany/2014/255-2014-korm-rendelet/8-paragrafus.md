@@ -8,7 +8,7 @@
 
 2. a vállalkozások külpiaci jelenlétének és az ezt támogató együttműködésekben való részvételének erősítése,
 
-3.[^121] a vállalkozások növekedési potenciáljának erősítése Pest megyében és Budapesten,
+3.[^121] a vállalkozások növekedési potenciáljának erősítése Pest vármegyében és Budapesten,
 
 4. a kutatás-fejlesztési és innovációs aktivitás növelése a tudás- és technológia-intenzív vállalkozások körében,
 
@@ -59,4 +59,4 @@
 27. a kompetencia alapú képzések elterjedtségének növelése.
 
 [^120]: A 8. § a 271/2015. (IX. 18.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^121]: A 8. § 3. pontja a 491/2020. (XI. 11.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^121]: A 8. § 3. pontja a 491/2020. (XI. 11.) Korm. rendelet 5. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 191. § a) pontja szerint módosított szöveg.

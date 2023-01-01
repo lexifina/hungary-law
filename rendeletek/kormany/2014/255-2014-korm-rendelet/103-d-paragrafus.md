@@ -1,4 +1,4 @@
-## 53. [^327] A tanácsadási szolgáltatáshoz nyújtott támogatás
+## 53. [^328] A tanácsadási szolgáltatáshoz nyújtott támogatás
 
 103/D. § (1) A tanácsadási szolgáltatáshoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a tanácsadásnak az 1305/2013/EU európai parlamenti és tanácsi rendelet 5. cikke szerinti prioritások közül legalább egyhez kapcsolódnia kell és ki kell terjednie
 
@@ -28,12 +28,12 @@ c) a rövid ellátási láncok kialakításával, az ökológiai gazdálkodássa
 
 (3) A támogatás vonatkozásában közvetlen kifizetés a tanácsadási szolgáltató részére teljesíthető.
 
-(3a)[^328] A támogatás egyéni vagy csoportos formában valósítható meg.
+(3a)[^329] A támogatás egyéni vagy csoportos formában valósítható meg.
 
-(4)[^329] A támogatás összege tanácsadásonként nem haladhatja meg az 1500 eurónak megfelelő forintösszeget. Csoportos szaktanácsadás esetén szaktanácsadónként évente legfeljebb 6000 eurónak megfelelő forintösszeg támogatás igényelhető.
+(4)[^330] A támogatás összege tanácsadásonként nem haladhatja meg az 1500 eurónak megfelelő forintösszeget. Csoportos szaktanácsadás esetén szaktanácsadónként évente legfeljebb 6000 eurónak megfelelő forintösszeg támogatás igényelhető.
 
 (5) A támogatásnak – objektív módon meghatározott feltételek alapján – az érintett területen működő valamennyi támogatható vállalkozás számára hozzáférhetőnek kell lennie.
 
-[^327]: Az 53. alcímet (103/D. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
-[^328]: A 103/D. § (3a) bekezdését a 127/2016. (VI. 7.) Korm. rendelet 12. §-a iktatta be.
-[^329]: A 103/D. § (4) bekezdése a 483/2017. (XII. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^328]: Az 53. alcímet (103/D. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^329]: A 103/D. § (3a) bekezdését a 127/2016. (VI. 7.) Korm. rendelet 12. §-a iktatta be.
+[^330]: A 103/D. § (4) bekezdése a 483/2017. (XII. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
