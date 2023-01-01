@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-50-20-0
 | 2015-04-01 | 1999-50-20-0B.8 | 27/2010. (XII. 31.) NGM rendelet |
 | 2017-01-01 | 1999-50-20-0B.9 | 27/2010. (XII. 31.) NGM rendelet |
 | 2020-06-30 | 1999-50-20-0B.10 | 27/2010. (XII. 31.) NGM rendelet |
+| 2023-01-01 | 1999-50-20-0B.11 | 27/2010. (XII. 31.) NGM rendelet |
