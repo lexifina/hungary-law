@@ -1,6 +1,6 @@
 4. számú melléklet a 348/2006. (XII. 23.) Korm. rendelethez[^71]
 
-## A védelemben részesülő állatfajok tartása, hasznosítása, bemutatása iránti kérelem tartalma
+A védelemben részesülő állatfajok tartása, hasznosítása, bemutatása iránti kérelem tartalma
 
 | Tartási □ | Hasznosítási □ | Bemutatási □ |
 
@@ -82,7 +82,7 @@
 
 | Aláírás: |
 
-Kitöltési útmutató és magyarázat
+## Kitöltési útmutató és magyarázat
 
 5. Madár- és denevérgyűrűzési engedélyezés esetén a 348/2006. (XII. 23.) Korm. rendelet 11. § (1) bekezdése, illetve 16. § (1) bekezdés a) pont alapján előírt vizsgabizonyítvány száma. Természetes személy esetén akkor kell kitölteni e pontot, ha gyűrűző szakképesítés megszerzését a 348/2006. (XII. 23.) Korm. rendelet előírja.
 

@@ -1,6 +1,6 @@
 5. számú melléklet a 348/2006. (XII. 23.) Korm. rendelethez
 
-## A védelemben részesülő állatfajok jelöléséről
+A védelemben részesülő állatfajok jelöléséről
 
 A védelemben részesülő emlős, madár, hüllő állatfajokat az alábbi módon kell megjelölni:
 

@@ -8,7 +8,7 @@ b) az a) pontban nem szereplő, nemzetközi egyezmények hatálya alá tartozó 
 
 c) az a)–b) pontok szerinti állatfajok és a természetvédelmi oltalom alatt nem álló állatfajok közötti kereszteződésekből és keresztezésekből létrejött hibridekre
 
-## [a továbbiakban a)–c) pontok együtt: védelemben részesülő állatfajok].
+[a továbbiakban a)–c) pontok együtt: védelemben részesülő állatfajok].
 
 (2)[^1]
 

@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-348-20-
 | 2018-01-01 | 2006-348-20-22.12 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2020-03-01 | 2006-348-20-22.13 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2022-08-01 | 2006-348-20-22.14 | 136/2022. (IV. 7.) Korm. rendelet |
+| 2023-01-01 | 2006-348-20-22.15 | 136/2022. (IV. 7.) Korm. rendelet |
