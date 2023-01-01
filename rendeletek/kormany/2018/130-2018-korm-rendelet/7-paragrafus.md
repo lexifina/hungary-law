@@ -6,7 +6,7 @@ a) a szervezet megfelel az EURES-partnerré válás (2) bekezdésben meghatároz
 
 b) a minisztérium a szervezetet EURES-partnerként nyilvántartásba veszi.
 
-(1a)[^1] EURES-partnerként Magyarországon székhellyel, telephellyel, kihelyezett irodával rendelkező nemzetközi szervezet, kormányközi szervezet folytathat tevékenységet, ha
+(1a)[^3] EURES-partnerként Magyarországon székhellyel, telephellyel, kihelyezett irodával rendelkező nemzetközi szervezet, kormányközi szervezet folytathat tevékenységet, ha
 
 a) a szervezet megfelel az EURES-partnerré válás (2) bekezdés a), c)–g) pontjában meghatározott feltételeinek,
 
@@ -36,4 +36,4 @@ f) biztosítja az ügyfelek által, a tevékenységével összefüggésben beny�
 
 g) nyilatkozik arról, hogy EURES-partnerként a 2016/589 európai parlamenti és tanácsi rendelet 12. cikk (2) bekezdés a)–c) pontja alapján biztosítandó EURES-szolgáltatások nyújtását a munkavállalók részére díjmentesen vállalja.
 
-[^1]: A 7. § (1a) bekezdését a 356/2021. (VI. 24.) Korm. rendelet 38. §-a iktatta be.
+[^3]: A 7. § (1a) bekezdését a 356/2021. (VI. 24.) Korm. rendelet 38. §-a iktatta be.

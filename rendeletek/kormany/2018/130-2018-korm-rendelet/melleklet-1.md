@@ -1,5 +1,3 @@
-## 13. §[^5]
-
 1. melléklet a 130/2018. (VII. 23.) Korm. rendelethez
 
 Szakképesítésként, szakmai gyakorlatként elfogadható képesítések, gyakorlatok:
@@ -61,5 +59,3 @@ d) középfokú szakképesítések közül:
 4. személyügyi ügyintézői részszaképesítés vagy
 
 5. bármely középfokú szakképesítés, amely az e pontban felsorolt szakképesítések valamelyikének megfeleltethető.
-
-[^5]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
