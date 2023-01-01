@@ -54,3 +54,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-81-00-00
 | 2021-12-01 | 2021. évi XCIX. törvény | 1997-81-00-00.86 |
 | 2022-06-01 | 2022. évi V. törvény | 1997-81-00-00.87 |
 | 2022-09-01 | 2022. évi XXIV. törvény | 1997-81-00-00.88 |
+| 2023-01-01 | 2022. évi LXXIV. törvény | 1997-81-00-00.92 |

@@ -6,11 +6,7 @@ Az öregségi nyugdíjak kiszámítása során alkalmazandó szorzószámok
 
 |
 
-A
-
 |
-
-B
 
 |
 
