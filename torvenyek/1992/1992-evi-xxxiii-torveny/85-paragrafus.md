@@ -6,7 +6,7 @@ b) a közalkalmazotti pályázatnak, illetve álláshirdetésnek a személyügyi
 
 c) az Európai Unió magyar soros elnökségében közvetlenül részt vevő közalkalmazottak kiválasztására, valamint többletmunkájukhoz és képzési többletterhükhöz kapcsolódó anyagi elismerésük feltételeire, módjára és mértékére vonatkozó szabályokat, továbbá a képzésükre és a képzéssel kapcsolatos kötelezettségükre vonatkozó eltérő szabályokat,
 
-d) a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
+d)
 
 (2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, , az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen, illetve művészeti, közművelődési vagy közgyűjteményi tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
 
