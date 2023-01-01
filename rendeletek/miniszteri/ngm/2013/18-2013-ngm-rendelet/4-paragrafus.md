@@ -1,3 +1,3 @@
-## 3. §[^8] A kormányhivatal megyei NFA kerettel gazdálkodó szervezeti egység vezetője határozza meg a megyei NFA keret azon összegét, amely felett az állami foglalkoztatási szerv hatáskörében eljáró járási (fővárosi kerületi) hivatal NFA kerettel gazdálkodó szervezeti egysége (a továbbiakban: járási hivatal) az Ávr. 9. § (8) bekezdése szerint rendelkezik.
+4. §[^9] A kormányhivatal vármegyei NFA kerettel gazdálkodó szervezeti egysége – a járási hivatal adatszolgáltatását is alapul véve –, valamint az állami szakképzési és felnőttképzési szerv a rendelkezési körébe tartozó NFA keretek évközi alakulásáról a 2. § (5) bekezdése szerinti szabályzatban meghatározottak szerint nyilvántartást vezet, valamint a miniszter számára adatszolgáltatást teljesít.
 
-[^8]: A 3. § a 9/2015. (III. 31.) NGM rendelet 53. § c)–d) pontja, a 10/2019. (IX. 4.) PM rendelet 25. § b) pontja szerint módosított szöveg.
+[^9]: A 4. § a 10/2019. (IX. 4.) PM rendelet 23. §-ával megállapított, a 28/2022. (XII. 30.) GFM rendelet 15. § b) pontja szerint módosított szöveg.
