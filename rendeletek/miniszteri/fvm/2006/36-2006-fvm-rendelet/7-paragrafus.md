@@ -1,5 +1,3 @@
-## 6. §[^29]
-
 ## Az engedély formája és tartalma
 
 7. § (1) Az engedély akkor adható meg, ha a termésnövelő anyag megfelel
@@ -58,7 +56,6 @@ o) az engedélyező hatóság által előírt egyéb előírásokat.
 
 (7)[^40] Az engedélyező hatóság hivatalos honlapján közzé kell tenni az engedélyezett termésnövelő anyagok engedélyokiratának adatait, az engedély lejártának időpontját, valamint, ha az intézkedésre egészségügyi vagy környezetvédelmi okból került sor, az arra okot adó körülményeket.
 
-[^29]: A 6. §-t a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdésének 13. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
 [^30]: A 7. § (1) bekezdés b) pontja a 10/2010. (II. 4.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^31]: A 7. § (1) bekezdés d) pontját a 10/2010. (II. 4.) FVM rendelet 6. § (2) bekezdése iktatta be.
 [^32]: A 7. § (2) bekezdése a 90/2008. (VII. 18.) FVM rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 5. § (4) bekezdése alapján a rendelkezést a 2008. augusztus 2. napját követően indult eljárásokban kell alkalmazni.

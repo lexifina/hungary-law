@@ -178,7 +178,7 @@
 
 2. számú melléklet a 36/2006. (V. 18.) FVM rendelethez
 
-## Az engedély iránti kérelemmel együtt benyújtandó vizsgálati eredmények és adatok
+Az engedély iránti kérelemmel együtt benyújtandó vizsgálati eredmények és adatok
 
 1. MŰTRÁGYÁK
 

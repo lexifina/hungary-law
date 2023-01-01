@@ -56,6 +56,8 @@
 
 ## 6. A tápelemek megjelölése, valamint az elemi és oxidos forma közötti átváltás szorzószámai:
 
+## 7K35330M_0
+
 |  | A | B | C | D |
 
 | 1. |  | Tápelem neve | Vegyjel | Átszámítás |
@@ -80,7 +82,7 @@
 
 5. számú melléklet a 36/2006. (V. 18.) FVM rendelethez
 
-## Kísérleti felhasználás iránti kérelem
+Kísérleti felhasználás iránti kérelem
 
 1. Kérelmező neve és címe
 
@@ -104,7 +106,7 @@ h) a gyártó által megadott tárolási és eltarthatósági feltételek.
 
 3. Kísérlet
 
-a) helyszíne (megye, helység, gazdaság, földhasználó),
+a)[^186] helyszíne (vármegye, helység, gazdaság, földhasználó),
 
 b) az összes kísérleti terület nagysága ha-ban kifejezve,
 
@@ -121,3 +123,4 @@ f) értékelési szempontok.
 [^183]: A 4. melléklet 14. pontja a 42/2013. (V. 28.) VM rendelet 1. §-a szerint módosított szöveg.
 [^184]: A 4. számú melléklet 17. pontját a 37/2014. (XII. 17.) FM rendelet 16. § (4) bekezdése iktatta be.
 [^185]: A 4. számú melléklet függeléke a 72/2012. (VII. 24.) VM rendelet 9. § e) pontja, a 64/2017. (XII. 22.) FM rendelet 2. §-a szerint módosított szöveg.
+[^186]: Az 5. számú melléklet 3. pont a) alpontja a 93/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.

@@ -10,7 +10,7 @@ a) a nem emberi fogyasztásra szánt állati melléktermékekre és a belőlük 
 
 b) a nem emberi fogyasztásra szánt állati melléktermékekre és a belőlük származó termékekre vonatkozó egészségügyi szabályok megállapításáról szóló 1069/2009/EK európai parlamenti és tanácsi rendelet végrehajtásáról, valamint a 97/78/EK tanácsi irányelvnek az egyes minták és tételek határon történő állat-egészségügyi ellenőrzése alóli, az irányelv szerinti mentesítése tekintetében történő végrehajtásáról szóló, 2011. február 25-i 142/2011/EU bizottsági rendelet
 
-## előírásaival összhangban kell alkalmazni.
+előírásaival összhangban kell alkalmazni.
 
 (4)[^3] A 2003/2003/EK rendelet I., II. és IV. mellékletének a műszaki fejlődéshez való hozzáigazítás céljából történő módosításáról szóló, 2013. május 17-i 463/2013/EU bizottsági rendelet előírásainak megfelelő meszező anyagok EK műtrágyaként is forgalomba hozhatók.
 
