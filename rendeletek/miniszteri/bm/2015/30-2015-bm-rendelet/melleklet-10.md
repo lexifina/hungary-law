@@ -216,6 +216,6 @@
 
 ## 3.3. Nem alapbeosztásnak minősülő szolgálati beosztások tekintetében műszaki, logisztikai, pénzügyi szakterületen szakirányú felsőfokú végzettségnek kell tekinteni a Zalka Máté Műszaki Katonai Főiskolán (jogutód: Bólyai János Műszaki Katonai Főiskola) szerzett szakirányú végzettséget.
 
-10. melléklet a 30/2015. (VI. 16.) BM rendelethez[^41]
+10. melléklet a 30/2015. (VI. 16.) BM rendelethez[^39]
 
-[^41]: A 10. melléklet a 14/2021. (VI. 16.) BM rendelet 20. § (2) bekezdésével megállapított, a 9/2022. (IV. 21.) BM rendelet 6. § c) pontja szerint módosított szöveg szerint módosított szöveg szöveg.
+[^39]: A 10. melléklet a 14/2021. (VI. 16.) BM rendelet 20. § (2) bekezdésével megállapított, a 9/2022. (IV. 21.) BM rendelet 6. § c) pontja szerint módosított szöveg szerint módosított szöveg szöveg.

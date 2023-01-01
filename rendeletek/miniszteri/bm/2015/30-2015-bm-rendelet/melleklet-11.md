@@ -234,7 +234,7 @@
 
 ## 3.3.5. a Kun Béla zászlósképző iskolán szerzett büntetés-végrehajtási tiszthelyettesi képzettséget.
 
-11. melléklet a 30/2015. (VI. 16.) BM rendelethez[^42]
+11. melléklet a 30/2015. (VI. 16.) BM rendelethez[^40]
 
 A folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások, a készenléti jellegű szolgálati beosztások, valamint az őrszolgálati beosztások
 
@@ -268,7 +268,7 @@ szolgálati beosztásai.
 
 2. Készenléti jellegű szolgálati beosztások
 
-a) az ORFK Közrendvédelmi és Igazgatásrendészeti Főosztályai által adott szolgálattal érintett beosztások, a megyei (fővárosi) rendőr-főkapitányságok, valamint rendőrkapitányságok közrendvédelmi, közlekedési és igazgatásrendészeti szolgálataival érintett szolgálati beosztások,
+a) az ORFK Közrendvédelmi és Igazgatásrendészeti Főosztályai által adott szolgálattal érintett beosztások, a vármegyei (fővárosi) rendőr-főkapitányságok, valamint rendőrkapitányságok közrendvédelmi, közlekedési és igazgatásrendészeti szolgálataival érintett szolgálati beosztások,
 
 b) a KR bevetési főosztályainak szolgálati beosztásai,
 
@@ -278,7 +278,7 @@ d) a KR ÁFSZ szolgálati beosztásai,
 
 e) a KR LRSZ szolgálati beosztásai,
 
-f) a KR SZOVIG kiemelt biztonsági főtiszt, biztonsági főtiszt, biztonsági tiszt, szolgálatparancsnok, kiemelt objektumőr, objektumőr, kiemelt főelőadó, lakásbiztosító, helyszínbiztosító, személybiztosító, biztonsági gépkocsivezető, referens, tűzszerész, technikus és fogdafelügyelő szolgálati beosztásai,
+f)a KR SZOVIG kiemelt biztonsági főtiszt, biztonsági főtiszt, biztonsági tiszt, szolgálatparancsnok, kiemelt objektumőr, objektumőr, kiemelt főelőadó, lakásbiztosító, helyszínbiztosító, személybiztosító, biztonsági gépkocsivezető, referens, tűzszerész, technikus és fogdafelügyelő szolgálati beosztásai,
 
 g)
 
@@ -316,7 +316,7 @@ b) főügyeletes (központi szerv)
 
 c) főügyeletes (területi szervek)
 
-d) Megyei/Fővárosi Műveltirányítási Ügyelet állománya (területi szervek)
+d) Vármegyei/Fővárosi Műveltirányítási Ügyelet állománya (területi szervek)
 
 e) ügyeletvezető (területi jogállású szervek)
 
@@ -380,22 +380,4 @@ a) főápoló [Büntetés-végrehajtás Egészségügyi Központ, Igazságügyi 
 
 b) szakápoló [Büntetés-végrehajtás Egészségügyi Központ, Igazságügyi Megfigyelő és Elmegyógyító Intézet]
 
-c) ápoló [Büntetés-végrehajtás Egészségügyi Központ, Igazságügyi Megfigyelő és Elmegyógyító Intézet]
-
-d) vezető szakasszisztens [Büntetés-végrehajtás Egészségügyi Központ, Igazságügyi Megfigyelő és Elmegyógyító Intézet]
-
-e) szakasszisztens [Büntetés-végrehajtás Egészségügyi Központ, Igazságügyi Megfigyelő és Elmegyógyító Intézet]
-
-f) biztonsági tiszt
-
-g) főfelügyelő
-
-h) körlet-főfelügyelő
-
-i) felügyelő (körlet, foglalkoztatási, munkáltatási)
-
-j) biztonsági felügyelő
-
-k) kutyavezető.
-
-[^42]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított, a 15/2017. (VI. 22.) BM rendelet 7. §-a, a 20/2019. (V. 15.) BM rendelet 9. §-a, a 21/2020. (VII. 9.) BM rendelet 3. §-a, a 20/2021. (VII. 14.) BM rendelet 20. § (4) bekezdése, a 16/2022. (V. 4.) BM rendelet 3. §-a szerint módosított szöveg.
+[^40]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított, a 15/2017. (VI. 22.) BM rendelet 7. §-a, a 20/2019. (V. 15.) BM rendelet 9. §-a, a 21/2020. (VII. 9.) BM rendelet 3. §-a, a 20/2021. (VII. 14.) BM rendelet 20. § (4) bekezdése, a 16/2022. (V. 4.) BM rendelet 3. §-a, a 45/2022. (XII. 20.) BM rendelet 82. § a) és e) pontja szerint módosított szöveg.
