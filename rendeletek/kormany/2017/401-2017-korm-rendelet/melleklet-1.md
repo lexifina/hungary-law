@@ -2,7 +2,7 @@
 
 1. melléklet a 401/2017. (XII. 15.) Korm. rendelethez
 
-## A rehabilitációs orvosszakértői tevékenység végzéséhez szükséges szakképesítés
+A rehabilitációs orvosszakértői tevékenység végzéséhez szükséges szakképesítés
 
 1. aneszteziológia és intenzív terápia,
 
