@@ -42,7 +42,7 @@ e) az okszerű vadgazdálkodás akadályozása nélkül
 
 (6)[^19] A vadászatra jogosult, valamint a (3) bekezdés szerinti halőr és az (5) bekezdés szerinti hegyőr, valamint mezőőr a (3) és az (5) bekezdés szerinti gyérítést végző személyekről (ha rendelkeznek vadászjeggyel, a vadászjegyük számának feltüntetésével), a gyérítések helyéről, idejéről, módjáról, valamint az elejtett madarak számáról a tárgyidőszakot követően, február 28-ig köteles jelentést küldeni az illetékes természetvédelmi hatóságnak.
 
-(7)[^20] A hörcsög (Cricetus cricetus) gyérítését – a növénytermesztésben keletkezett károk mérséklése érdekében – védett természeti területen kívül, az ingatlan tulajdonosa, illetve jogszerű használója által megbízott személy engedély nélkül végezheti március 1-től május 31-ig Bács-Kiskun, Békés, Borsod-Abaúj-Zemplén, Csongrád, Hajdú-Bihar, Heves, Jász-Nagykun-Szolnok és Szabolcs-Szatmár-Bereg megye területén, amennyiben a lakott hörcsögkotorékok száma hektáronként meghaladja a kettőt.
+(7)[^20] A hörcsög (Cricetus cricetus) gyérítését – a növénytermesztésben keletkezett károk mérséklése érdekében – védett természeti területen kívül, az ingatlan tulajdonosa, illetve jogszerű használója által megbízott személy engedély nélkül végezheti március 1-től május 31-ig Bács-Kiskun, Békés, Borsod-Abaúj-Zemplén, Csongrád-Csanád, Hajdú-Bihar, Heves, Jász-Nagykun-Szolnok és Szabolcs-Szatmár-Bereg vármegye területén, amennyiben a lakott hörcsögkotorékok száma hektáronként meghaladja a kettőt.
 
 (8) A (7) bekezdésben biztosított gyérítési lehetőség során elpusztított hörcsögök (Cricetus cricetus) prémjének, illetve az abból készített termékeknek a tartása, hasznosítása, bemutatása – a külön jogszabályban meghatározott közérdek bizonyításának hiányában is – engedélyezhető, amennyiben természetvédelmi érdeket nem sért.
 
@@ -81,7 +81,7 @@ d) a gyérítést az engedélyezett módszer végzésére megfelelő képesíté
 [^17]: A 4/A. § (4) bekezdése a 20/2022. (VII. 29.) AM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^18]: A 4/A. § (5) bekezdése a 100/2012. (IX. 28.) VM rendelet 6. § b) pontja szerint módosított szöveg.
 [^19]: A 4/A. § (6) bekezdése a 20/2022. (VII. 29.) AM rendelet 7. § c) és e) pontja szerint módosított szöveg.
-[^20]: A 4/A. § (7) bekezdése a 100/2012. (IX. 28.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^20]: A 4/A. § (7) bekezdése a 100/2012. (IX. 28.) VM rendelet 4. § (1) bekezdésével megállapított, a 62/2022. (XII. 27.) AM rendelet 1. § a) és b) pontja szerint módosított szöveg.
 [^21]: A 4/A. § (8a) bekezdését a 20/2022. (VII. 29.) AM rendelet 4. § (3) bekezdése iktatta be.
 [^22]: A 4/A. § (8b) bekezdését a 20/2022. (VII. 29.) AM rendelet 4. § (3) bekezdése iktatta be.
 [^23]: A 4/A. § (8c) bekezdését a 20/2022. (VII. 29.) AM rendelet 4. § (3) bekezdése iktatta be.
