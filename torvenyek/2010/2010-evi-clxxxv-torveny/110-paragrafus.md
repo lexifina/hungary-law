@@ -1,4 +1,4 @@
-110. § A Hatóság a hírközlési ágazat tekintetében külön törvényben foglaltak szerint:
+110. § A Hatóság a hírközlési és infokommunikációs ágazat tekintetében külön törvényben foglaltak szerint:
 
 a) nyilatkozik a hatáskörével összefüggő jogszabályalkotási és -módosítási igényekről és javaslatokról,
 
@@ -16,4 +16,6 @@ g) ellátja az egyéb jogszabályban foglalt elektronikus hírközlési és post
 
 h) a gazdálkodás körében – e törvényben és más jogszabályokban foglaltak szerint – gyakorolja a rádiófrekvenciákra és azonosítókra vonatkozó állami tulajdonosi jogokat, gazdálkodást folytat a rádiófrekvenciák és azonosítók vonatkozásában,
 
-i) ellátja az egyéb jogszabályban foglalt hatósági és nem hatósági feladatokat.
+i) ellátja a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendeletben a Digitális Szolgáltatási Koordinátor számára meghatározott feladatokat, valamint
+
+j) ellátja az egyéb jogszabályban foglalt hatósági és nem hatósági feladatokat.

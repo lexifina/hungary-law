@@ -26,7 +26,7 @@ k) részt vesz a nemzetközi hírügynökségi szervezetek munkájában.
 
 (2) A közszolgálati médiaszolgáltató hírügynökségi feladatainak ellátása érdekében
 
-a) az ország minden megyéjére és a fővárosra kiterjedő,
+a) az ország minden vármegyéjére és a fővárosra kiterjedő,
 
 b) a Kárpát-medence magyarlakta területeire kiterjedő,
 
