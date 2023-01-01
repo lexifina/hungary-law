@@ -1,0 +1,1 @@
+1. § A Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: NSÜ Zrt.) a magyar állam kizárólagos tulajdonában álló, az e rendeletben és külön jogszabályban meghatározott sportirányítási feladatokat ellátó gazdasági társaság.

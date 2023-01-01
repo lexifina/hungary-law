@@ -1,0 +1,1 @@
+8. § A védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet. 1. § (1) bekezdés g) pontjában a „9., 20. és 21.” szövegrész helyébe a „20., 21. és 22.” szöveg lép.
