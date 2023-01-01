@@ -9,3 +9,5 @@ b) 86. §-át az elévülés tekintetében,
 c) 73/A. §-át a díj meg nem fizetése kapcsán,
 
 d) 32. §-át, valamint 79–81. §-át a díj visszatérítése vonatkozásában
+
+értelemszerűen kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon az eljárásra illetékes és hatáskörrel rendelkező hatóságot, ahol illetéket említ, azon díjat kell érteni.

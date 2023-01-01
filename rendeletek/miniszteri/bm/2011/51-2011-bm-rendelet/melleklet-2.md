@@ -42,46 +42,46 @@ A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és terü
 
 | Sorszám | Szervezet megnevezése | Előirányzat-felhasználási keretszámla száma |
 
-| 1. | Baranya Megyei Katasztrófavédelmi Igazgatóság | 10024003-00283559-00000000 |
+| 1. | Baranya Vármegyei Katasztrófavédelmi Igazgatóság | 10024003-00283559-00000000 |
 
-| 2. | Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság | 10025004-00283566-00000000 |
+| 2. | Bács-Kiskun Vármegyei Katasztrófavédelmi Igazgatóság | 10025004-00283566-00000000 |
 
-| 3. | Békés Megyei Katasztrófavédelmi Igazgatóság | 10026005-00283573-00000000 |
+| 3. | Békés Vármegyei Katasztrófavédelmi Igazgatóság | 10026005-00283573-00000000 |
 
-| 4. | Borsod-Abaúj-Zemplén Megyei Katasztrófavédelmi Igazgatóság | 10027006-00283580-00000000 |
+| 4. | Borsod-Abaúj-Zemplén Vármegyei Katasztrófavédelmi Igazgatóság | 10027006-00283580-00000000 |
 
-| 5. | Csongrád-Csanád Megyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
+| 5. | Csongrád-Csanád Vármegyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
 
-| 6. | Fejér Megyei Katasztrófavédelmi Igazgatóság | 10029008-00283607-00000000 |
+| 6. | Fejér Vármegyei Katasztrófavédelmi Igazgatóság | 10029008-00283607-00000000 |
 
 | 7. | Fővárosi Katasztrófavédelmi Igazgatóság | 10023002-00319566-00000000 |
 
-| 8. | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság | 10033001-00283614-00000000 |
+| 8. | Győr-Moson-Sopron Vármegyei Katasztrófavédelmi Igazgatóság | 10033001-00283614-00000000 |
 
-| 9. | Hajdú-Bihar Megyei Katasztrófavédelmi Igazgatóság | 10034002-00283621-00000000 |
+| 9. | Hajdú-Bihar Vármegyei Katasztrófavédelmi Igazgatóság | 10034002-00283621-00000000 |
 
-| 10. | Heves Megyei Katasztrófavédelmi Igazgatóság | 10035003-00283638-00000000 |
+| 10. | Heves Vármegyei Katasztrófavédelmi Igazgatóság | 10035003-00283638-00000000 |
 
-| 11. | Jász-Nagykun-Szolnok Megyei Katasztrófavédelmi Igazgatóság | 10045002-00283683-00000000 |
+| 11. | Jász-Nagykun-Szolnok Vármegyei Katasztrófavédelmi Igazgatóság | 10045002-00283683-00000000 |
 
-| 12. | Komárom-Esztergom Megyei Katasztrófavédelmi Igazgatóság | 10036004-00283645-00000000 |
+| 12. | Komárom-Esztergom Vármegyei Katasztrófavédelmi Igazgatóság | 10036004-00283645-00000000 |
 
-| 13. | Nógrád Megyei Katasztrófavédelmi Igazgatóság | 10037005-00283652-00000000 |
+| 13. | Nógrád Vármegyei Katasztrófavédelmi Igazgatóság | 10037005-00283652-00000000 |
 
-| 14. | Pest Megyei Katasztrófavédelmi Igazgatóság | 10023002-00283669-00000000 |
+| 14. | Pest Vármegyei Katasztrófavédelmi Igazgatóság | 10023002-00283669-00000000 |
 
-| 15. | Somogy Megyei Katasztrófavédelmi Igazgatóság | 10039007-00283762-00000000 |
+| 15. | Somogy Vármegyei Katasztrófavédelmi Igazgatóság | 10039007-00283762-00000000 |
 
-| 16. | Szabolcs-Szatmár-Bereg Megyei Katasztrófavédelmi Igazgatóság | 10044001-00283676-00000000 |
+| 16. | Szabolcs-Szatmár-Bereg Vármegyei Katasztrófavédelmi Igazgatóság | 10044001-00283676-00000000 |
 
-| 17. | Tolna Megyei Katasztrófavédelmi Igazgatóság | 10046003-00283690-00000000 |
+| 17. | Tolna Vármegyei Katasztrófavédelmi Igazgatóság | 10046003-00283690-00000000 |
 
-| 18. | Vas Megyei Katasztrófavédelmi Igazgatóság | 10047004-00283700-00000000 |
+| 18. | Vas Vármegyei Katasztrófavédelmi Igazgatóság | 10047004-00283700-00000000 |
 
-| 19. | Veszprém Megyei Katasztrófavédelmi Igazgatóság | 10048005-00283717-00000000 |
+| 19. | Veszprém Vármegyei Katasztrófavédelmi Igazgatóság | 10048005-00283717-00000000 |
 
-| 20. | Zala Megyei Katasztrófavédelmi Igazgatóság | 10049006-00283724-00000000 |
+| 20. | Zala Vármegyei Katasztrófavédelmi Igazgatóság | 10049006-00283724-00000000 |
 
 | 21. | BM Országos Katasztrófavédelmi Főigazgatóság | 10023002-00283494-00000000 |
 
-[^6]: A 2. mellékletet a 24/2012. (V. 8.) BM rendelet 17. § (3) bekezdése iktatta be, szövege a 35/2016. (VIII. 30.) BM rendelet 3. §-a, a 39/2020. (XI. 4.) BM rendelet 6. §-a szerint módosított szöveg.
+[^6]: A 2. mellékletet a 24/2012. (V. 8.) BM rendelet 17. § (3) bekezdése iktatta be, szövege a 35/2016. (VIII. 30.) BM rendelet 3. §-a, a 39/2020. (XI. 4.) BM rendelet 6. §-a, a 48/2022. (XII. 27.) BM rendelet 9. §-a szerint módosított szöveg.
