@@ -1,3 +1,3 @@
-4. melléklet a 25/2017. (X. 18.) EMMI rendelethez[^22]
+4. melléklet a 25/2017. (X. 18.) EMMI rendelethez[^31]
 
-[^22]: A 4. mellékletet a 7/2020. (III. 10.) EMMI rendelet 5. § c) pontja hatályon kívül helyezte.
+[^31]: A 4. mellékletet a 7/2020. (III. 10.) EMMI rendelet 5. § c) pontja hatályon kívül helyezte.

@@ -24,9 +24,11 @@ e)[^5] a szociális szakvizsgával rendelkező személyre;
 
 f)[^6] a felsőfokú szociálpolitikus, szociális munkás, szociálpedagógus, szociális szervező vagy szociális menedzser végzettséggel és – bármilyen tudományterületen szerzett – tudományos fokozattal rendelkező személyre.
 
+g)[^7] bölcsődében, mini bölcsődében a pedagógus szakvizsgával rendelkező személyre.
+
 (3) Ha a (2) bekezdés a) pontja szerinti vezető vezetői megbízása egy éven túl meghosszabbításra kerül, vagy a vezető ismételten megbízásra kerül, a vezetőképzésben való részvételi kötelezettségének kezdete a meghosszabbítás vagy az ismételt megbízás kezdő időpontja.
 
-(4)[^7] Az állami, egyházi vagy nem állami fenntartó dönthet arról, hogy a fenntartásában működő intézményben foglalkoztatott vezető a 11. § (1) bekezdésében meghatározottak közül mely képzésszervező által indított vezetőképzésen vegyen részt.
+(4)[^8] Az állami, egyházi vagy nem állami fenntartó dönthet arról, hogy a fenntartásában működő intézményben foglalkoztatott vezető a 11. § (1) bekezdésében meghatározottak közül mely képzésszervező által indított vezetőképzésen vegyen részt.
 
 [^1]: Az 1. § (1) bekezdése a 7/2018. (II. 5.) EMMI rendelet 56. §-ával megállapított szöveg.
 [^2]: Az 1. § (2) bekezdés a) pontja a 7/2020. (III. 10.) EMMI rendelet 5. § a) pontja szerint módosított szöveg.
@@ -34,4 +36,5 @@ f)[^6] a felsőfokú szociálpolitikus, szociális munkás, szociálpedagógus, 
 [^4]: Az 1. § (2) bekezdés d) pontját a 7/2020. (III. 10.) EMMI rendelet 1. §-a iktatta be.
 [^5]: Az 1. § (2) bekezdés e) pontját a 7/2020. (III. 10.) EMMI rendelet 1. §-a iktatta be.
 [^6]: Az 1. § (2) bekezdés f) pontját a 7/2020. (III. 10.) EMMI rendelet 1. §-a iktatta be.
-[^7]: Az 1. § (4) bekezdését a 31/2018. (IX. 25.) EMMI rendelet 2. §-a iktatta be.
+[^7]: Az 1. § (2) bekezdés g) pontját a 80/2022. (XII. 30.) BM rendelet 40. §-a iktatta be.
+[^8]: Az 1. § (4) bekezdését a 31/2018. (IX. 25.) EMMI rendelet 2. §-a iktatta be.
