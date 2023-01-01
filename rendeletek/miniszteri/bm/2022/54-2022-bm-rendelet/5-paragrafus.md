@@ -1,0 +1,3 @@
+## 5. Az egészségügyi szolgáltatás keretében használt, éles vagy hegyes munkaeszközök által okozott sérülések megelőzésére, az ilyen eszközök használatából eredő kockázatok kezelésére, valamint az egészségügyi tevékenységet végző személyek tájékoztatására és képzésére vonatkozó követelményekről szóló 51/2013. (VII. 15.) EMMI rendelet módosítása
+
+5. § Az egészségügyi szolgáltatás keretében használt, éles vagy hegyes munkaeszközök által okozott sérülések megelőzésére, az ilyen eszközök használatából eredő kockázatok kezelésére, valamint az egészségügyi tevékenységet végző személyek tájékoztatására és képzésére vonatkozó követelményekről szóló 51/2013. (VII. 15.) EMMI rendelet 4. § (4) bekezdés nyitó szövegrészében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
