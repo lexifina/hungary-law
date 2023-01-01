@@ -1,4 +1,4 @@
-2. § (1) Liberalizált tevékenység az 1. § (3) bekezdés a) pontjában meghatározott tevékenységek közül a 16. §-ban, valamint az 1. § (3) bekezdés d) pontjában meghatározott tevékenység.
+2. § (1) Liberalizált tevékenység az 1. § (3) bekezdés a) pontjában meghatározott tevékenységek közül a 16. §-ban, valamint az 1. § (3) bekezdés d) és e) pontjában meghatározott tevékenység.
 
 (2) Szerencsejáték-szervező tevékenység folytatásához – az e törvényben meghatározott kivétellel – a szerencsejáték-felügyeleti hatóság engedélye szükséges. A szerencsejáték-felügyeleti hatóság az engedélyesekről – azon adat kivételével, amelyet jogszabály más nyilvántartás részeként közhitelesnek minősít – közhiteles hatósági nyilvántartást vezet.
 
@@ -24,7 +24,7 @@ bb) korrupciós [a Büntető Törvénykönyvről szóló 2012. évi C. törvény
 
 követte el és ezért a kérelem benyújtását megelőző 3 éven belül jogerősen elítélték,
 
-c)
+c) távszerencsejáték esetében a kérelmező gazdasági társaság, a kérelmező gazdasági társaság vezető tisztségviselője által képviselt más gazdasági társaság, illetve a kérelmező gazdasági társaság közvetlen vagy közvetett tulajdonosa által tulajdonolt más gazdasági társaság a távszerencsejáték szervezésének engedélyezésére irányuló kérelem benyújtását megelőző öt éven belül szerencsejátékot engedély nélkül szervezett, és ezt EGT-állam közigazgatási hatósága vagy egyéb hatáskörrel rendelkező szerve az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 82. § (1) bekezdése szerinti véglegessé vált, illetve azzal egyenértékű határozatával, vagy EGT-állam bírósága jogerős döntésével megállapította,
 
 d) a kérelmező, illetve vezető tisztségviselője, vagy a szavazatok legalább 25%-ával rendelkező tagja a kérelem benyújtását megelőző 5 éven belül a székhelye, vagy lakóhelye szerinti állam joga alapján tiltott szerencsejáték-szervező tevékenységet folytatott, vagy a kérelmező vezető tisztségviselője, vagy a szavazatok legalább 25%-ával rendelkező tagja olyan gazdálkodó szervezetben volt vezető tisztségviselő, vagy a szavazatok legalább 25%-ával rendelkező tag, amely a vezető tisztségviselői vagy tagsági jogviszonyának fennállása alatt, a kérelem benyújtását megelőző 5 éven belül tiltott szerencsejáték-szervező tevékenységet folytatott, és a tiltott szerencsejáték-szervező tevékenység folytatását jogerős bírósági ítélet állapította meg,
 

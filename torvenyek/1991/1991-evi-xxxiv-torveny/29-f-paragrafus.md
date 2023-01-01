@@ -1,4 +1,4 @@
-29/F. § (1) A távszerencsejáték szervezés engedélyezése iránti kérelmet a gazdálkodó szervezet a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon terjesztheti elő a szerencsejáték-felügyeleti hatósághoz.
+29/F. § (1) A távszerencsejáték szervezés engedélyezése iránti kérelmet a gazdasági társaság a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon terjesztheti elő a szerencsejáték-felügyeleti hatósághoz.
 
 (1a) A kérelemhez a 7/B. § (3) bekezdésében foglaltakon túl csatolni kell
 
@@ -14,7 +14,7 @@ c) az igazgatási-szolgáltatási díj befizetését igazoló okiratot.
 
 (3) A szerencsejáték-felügyeleti hatóság az engedélyezési eljárás során és az engedély érvényességi időtartama alatt a távszerencsejáték műszaki-informatikai rendszer megfelelőségének ellenőrzése céljából a szervezőtől és a szervező hozzájárulása esetén a szervező részére műszaki vagy informatikai szolgáltatást nyújtó személytől vagy szervezettől kiegészítő információkat kérhet és ezeket az információkat a hatósági eljárásban bizonyítékként felhasználhatja.
 
-(4) A szerencsejáték-felügyeleti hatóság az engedélyt – ha a kérelem az e törvényben, külön jogszabályban meghatározott feltételeknek megfelel és 3. § (1a) bekezdés a) pontja szerinti szerencsejátékra szóló engedély esetén a távszerencsejáték szervező a szerencsejáték-felügyeleti hatóság részére igazolta, hogy a távszerencsejáték szervező az általa szervezett játékokban érintett vagyoni értékű jogokra vonatkozóan a jogosultakkal felhasználási szerződést kötött – legfeljebb 5 éves határozott időtartamra adja ki.
+(4) A szerencsejáték-felügyeleti hatóság az engedélyt – ha a kérelem az e törvényben, külön jogszabályban meghatározott feltételeknek megfelel és a kérelmező a szerencsejáték-felügyeleti hatóság részére igazolta, hogy az általa szervezni kívánt játékokban érintett vagyoni értékű jogokra vonatkozóan a jogosultakkal felhasználási szerződést kötött – legfeljebb a Hatóság elnöke által kiadott rendeletben meghatározott időtartamra adja ki.
 
 (5) A módosított játékterv jóváhagyására irányuló kérelmet a szerencsejáték-felügyeleti hatóság által rendszeresített formanyomtatványon kell előterjeszteni.
 

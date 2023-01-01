@@ -12,6 +12,10 @@ e) a szerencsejáték-felügyeleti hatóság felhívása, illetve hatósági int
 
 f) nem teljesíti a játékadó bevallásával vagy megfizetésével kapcsolatos kötelezettségét.
 
+(1a) A szerencsejáték-szervező engedélyét a szerencsejáték-felügyeleti hatóság visszavonhatja, ha a szerencsejáték-szervező nem teljesíti a játékosvédelmi cselekvési terv készítésével és Hatósághoz történő benyújtásával, a játékosvédelmi cselekvési terv végrehajtásáról történő beszámolással kapcsolatos, a 11. § (5)–(7) bekezdése vagy a 31. § (3a) bekezdése szerinti kötelezettségét.
+
+(1b) A szerencsejáték-szervező engedélyét a szerencsejáték-felügyeleti hatóság visszavonhatja, ha a szerencsejáték-szervező nem teljesíti a távszerencsejáték-szervezési díj megfizetésével kapcsolatos kötelezettségét, vagy ha a szerencsejáték-szervező, a szerencsejáték-szervező vezető tisztségviselője által képviselt más gazdasági társaság, illetve a szerencsejáték-szervező közvetlen vagy közvetett tulajdonosa által tulajdonolt más gazdasági társaság EGT-állam közigazgatási hatósága, egyéb hatáskörrel rendelkező szerve az Ákr. 82. § (1) bekezdése szerinti véglegessé vált, illetve azzal egyenértékű határozata vagy EGT-állam bíróságának jogerős döntése szerint az engedély kiadását megelőző öt évben vagy az engedély időtartama alatt szerencsejátékot engedély nélkül szervezett.
+
 (2) A szerencsejáték-felügyeleti hatóság a szerencsejáték-szervezőt, annak vezetőit vagy vezető tisztségviselőit a szerencsejáték-szervező tevékenységtől legfeljebb 5 éves időtartamra, meghatározott feltétel bekövetkezéséig vagy akár véglegesen is eltilthatja, ha
 
 a) a szerencsejáték-szervező a szerencsejáték-felügyeleti hatóság ismételt felhívása, illetve hatósági intézkedése ellenére a jogszabálysértő állapotot nem szünteti meg,
@@ -32,6 +36,6 @@ e) 5 000 000 forintot meghaladó összegű játékadóra, vagy ismételten nem t
 
 (5) Abban a kérdésben, hogy valamely játék szerencsejátéknak tekinthető-e a szerencsejáték-felügyeleti hatóság dönt. A szerencsejáték-felügyeleti hatóság véleménye az irányadó a szerencsejátékok fajtájának (14. §) meghatározására vonatkozóan is.
 
-(6) Ha az ügyfél a hivatalból indított eljárásban a szerencsejáték-felügyeleti hatóság felhívása ellenére nem közli az érdemi döntéshez szükséges adatot vagy valótlan adatot közöl, vele szemben az általános közigazgatási rendtartásról szóló törvény szerinti eljárási bírság szabható ki vagy az engedély visszavonható. A bírság ismételt alkalommal is kiszabható.
+(6) Ha az ügyfél a hivatalból indított eljárásban a szerencsejáték-felügyeleti hatóság felhívása ellenére nem közli az érdemi döntéshez szükséges adatot vagy valótlan adatot közöl, vele szemben az Ákr. szerinti eljárási bírság szabható ki vagy az engedély visszavonható. A bírság ismételt alkalommal is kiszabható.
 
 (7) Ha a szerencsejáték-szervező a személyi megfelelőség meghosszabbítása iránti kötelezettségének jogszabályban meghatározott határidőben nem tesz eleget, vagy személyi megfelelősége nem áll fenn, a szerencsejáték-felügyeleti hatóság a szerencsejáték-szervező részére kiállított engedélyek érvénytelenségét és a szerencsejáték-szervezői tevékenység megszűnését megállapítja. A szerencsejáték-felügyeleti hatóság a szerencsejáték-szervezői tevékenység megszűnéséig benyújtott engedély iránti kérelmek alapján indult eljárásokat megszünteti. A személyi megfelelőség hivatalból indult vizsgálata esetében a 2. § (4) bekezdésének d) pontjában és a 2. § (5) bekezdésében meghatározott időtartamokat az eljárás hivatalból történő megindításától kell számítani.

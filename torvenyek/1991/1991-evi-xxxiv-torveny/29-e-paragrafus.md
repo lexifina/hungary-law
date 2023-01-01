@@ -1,3 +1,3 @@
-29/E. § (1)–(2)
+29/E. § (1) Az EGT-állami gazdasági társaság a távszerencsejáték szervezésének engedélyezésére irányuló kérelmét az általa közokiratban meghatalmazott és a Hatóság által nyilvántartásba vett képviselője útján nyújthatja be. Az EGT-állami gazdasági társaság az eljárás során érvényes jognyilatkozatot képviselője útján tehet.
 
-(3)
+(2) Az EGT-állami gazdasági társaság képviselőjének a nyilvántartásból kérelem alapján történő törlése esetén a képviseleti jog megszűnése a szerencsejáték-felügyeleti hatósággal szemben a kérelem szerencsejáték-felügyeleti hatósághoz történő beérkezésétől hatályos azzal, hogy a kérelem beérkezésének napján a képviselőt még az EGT-állami gazdasági társaság képviseletére jogosult személynek kell tekinteni.

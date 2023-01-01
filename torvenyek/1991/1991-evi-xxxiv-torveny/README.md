@@ -60,3 +60,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-34-00-00
 | 2021-10-01 | 2021. évi XXXII. törvény | 1991-34-00-00.91 |
 | 2021-12-18 | 2021. évi CXXXVI. törvény | 1991-34-00-00.92 |
 | 2022-03-01 | 2021. évi CXXXVI. törvény | 1991-34-00-00.93 |
+| 2023-01-01 | 2022. évi XIX. törvény | 1991-34-00-00.94 |

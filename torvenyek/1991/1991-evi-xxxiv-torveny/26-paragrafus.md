@@ -18,7 +18,7 @@ b) a normális eloszlás sűrűségfüggvényének megfelelően, az összes tét
 
 nyereményként ki kell adnia.
 
-(5)
+(5) Ha a játékkaszinó üzemeltetője több játékkaszinó-egységet üzemeltet, akkor az általa üzemeltetett játékkaszinó-egységekben működtetett pénznyerő automaták egységes jackpot rendszerbe köthetőek.
 
 (6)
 

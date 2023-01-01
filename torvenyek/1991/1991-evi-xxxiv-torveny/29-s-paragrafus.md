@@ -1,3 +1,1 @@
-29/S. § (1)
-
-(2) Az online kaszinóban elnyert nyereményt abban a pénznemben kell kifizetni, amelyben az keletkezett.
+29/S. § Az online kaszinó üzemeltetője az online kaszinóban elnyert nyereményt abban a pénznemben fizeti ki, amelyben az keletkezett.

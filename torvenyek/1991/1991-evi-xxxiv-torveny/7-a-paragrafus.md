@@ -1,4 +1,4 @@
-7/A. § (1) A szerencsejáték-felügyeleti hatóság szerencsejáték ügyben és – a koncessziós pályázati eljárás kivételével – az e törvény hatálya alá tartozó egyéb ügyben az e törvényben és a Hatóság elnöke által e törvény végrehajtására kiadott rendeletben meghatározott eltérésekkel és kiegészítésekkel az általános közigazgatási rendtartásról szóló törvény szerint jár el.
+7/A. § (1) A szerencsejáték-felügyeleti hatóság szerencsejáték ügyben és – a koncessziós pályázati eljárás kivételével – az e törvény hatálya alá tartozó egyéb ügyben az e törvényben és a Hatóság elnöke által e törvény végrehajtására kiadott rendeletben meghatározott eltérésekkel és kiegészítésekkel az Ákr. szerint jár el.
 
 (2)
 
@@ -8,7 +8,15 @@
 
 (3) A szerencsejáték-felügyeleti hatóság a kérelem elbírálásához előírhatja a kérelem egyes adatainak részletezését, kiegészítését. Hiányosan benyújtott kérelem esetén, annak beérkezésétől számított tizenöt napon belül a szerencsejáték-felügyeleti hatóság intézkedik a hiánypótlási felhívás kibocsátásáról. Hiánypótlási felhívásnak több ízben is helye van.
 
-(4) A szerencsejáték-felügyeleti hatóság a szerencsejáték szervezésének engedélyezése iránti kérelem elbírálásáról hetvenöt napon belül, játékautomata nyilvántartásba vételéről tizenöt napon belül dönt.
+(4) A szerencsejáték-felügyeleti hatóság
+
+a) a szerencsejáték szervezésének engedélyezése iránti kérelem elbírálásáról – a b) pontban foglalt kivétellel – hetvenöt napon belül,
+
+b) a távszerencsejáték szervezésének engedélyezése iránti kérelem elbírálásáról százhúsz napon belül,
+
+c) a Magyarországon kívüli EGT-államban bejegyzett kérelmezőt távszerencsejáték szervezésére irányuló engedélyezési eljárásban képviselő személy nyilvántartásba vételéről és nyilvántartásból történő törléséről hetvenöt napon belül
+
+dönt.
 
 (5)
 

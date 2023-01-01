@@ -1,18 +1,12 @@
-3. § (1) A távszerencsejáték-szervezés és online kaszinójáték szervezés kivételével a nem liberalizált szerencsejátékok szervezését
+3. § (1) Az online kaszinójáték szervezés kivételével a nem liberalizált szerencsejátékok szervezését
 
 a) a 100%-ban a Magyar Állam tulajdonában lévő, szerencsejáték-szervező tevékenység rendszeres folytatására létrehozott gazdálkodó szervezet (a továbbiakban: állami játékszervező), továbbá az állami játékszervező kizárólagos tulajdonában lévő gazdasági társaság, illetve az állam többségi részesedésével működő gazdálkodó szervezet végezheti,
 
 b) e tevékenység gyakorlásának jogát az állam koncessziós szerződésben időlegesen másnak átengedheti.
 
-(1a) A távszerencsejáték szervezését
+(1a)
 
-a) a lóversenyfogadás kivételével kizárólag a 100%-ban a magyar állam tulajdonában álló Szerencsejáték Zrt.,
-
-b) lóversenyfogadás esetén kizárólag a 100%-ban a magyar állam tulajdonában álló Magyar Lóversenyfogadást-szervező Kft.
-
-végezheti.
-
-(1b) Online kaszinójáték szervezésére kizárólag a Magyarország területén található játékkaszinó üzemeltetésére szóló koncesszió jogosultja jogosult, amely az online kaszinójáték szervezését a kaszinójáték szervezésére létrehozott koncessziós társaság útján végezheti.
+(1b) Online kaszinójátékot kizárólag a Magyarország területén található játékkaszinó üzemeltetésére szóló koncesszió jogosultja által a kaszinójáték szervezésére létrehozott vagy működtetett koncessziós társaság szervezhet.
 
 (2) A Magyar Állam képviseletét
 

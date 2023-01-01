@@ -8,7 +8,7 @@
 
 (4a) Ha a koncesszióba vevő a koncesszió-köteles tevékenységet olyan koncessziós társaság útján kívánja végezni, amely a koncessziós szerződés aláírásának időpontjában koncessziós társaságként koncesszió-köteles tevékenységet folytat, a Ktv. 26. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy ezen koncessziós társaság esetében a végelszámolást a későbbi koncessziós szerződésben meghatározott időtartam lejártakor kell lefolytatni.
 
-(5) Az 1. § (3) bekezdés c) pontja szerinti tevékenység tekintetében a megbízható szerencsejáték szervező által megalapított koncessziós társaságra a Ktv. 22. §-át nem kell alkalmazni.
+(5) Az 1. § (3) bekezdés c) és e) pontja szerinti tevékenység tekintetében a megbízható szerencsejáték szervező által megalapított koncessziós társaságra a Ktv. 22. §-át nem kell alkalmazni.
 
 2. CÍM
 

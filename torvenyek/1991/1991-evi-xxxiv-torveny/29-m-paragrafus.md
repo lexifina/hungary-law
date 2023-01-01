@@ -1,1 +1,1 @@
-29/M. § Online kaszinójáték kizárólag magyarországi IP címről kapcsolódó játékos számára tehető hozzáférhetővé. A játékszervezőnek gondoskodnia kell az IP címek törvényi megfelelőségének folyamatos ellenőrzéséről.
+29/M. § Online kaszinójáték kizárólag magyarországi IP-címről kapcsolódó játékos számára tehető hozzáférhetővé. A játékszervező gondoskodik az IP-címek törvényi megfelelőségének folyamatos ellenőrzéséről.

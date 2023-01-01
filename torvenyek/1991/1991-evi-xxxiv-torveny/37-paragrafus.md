@@ -40,13 +40,13 @@
 
 a) az 1. § (3) bekezdésében meghatározott tevékenység folytatására jogosult gazdasági társaság, illetve annak koncessziós társasága, az állami játékszervező, a 100%-ban az állami játékszervező tulajdonában lévő gazdasági társaság és az állam többségi részesedésével működő gazdálkodó szervezet, a liberalizált tevékenység gyakorlására létrehozott gazdasági társaság, valamint
 
-b) a 16. §-ban és — a 12. § tekintetében — a 23. §-ban meghatározott tevékenységet folytató szervezet vagy személy.
+b) a 16. §-ban meghatározott tevékenységet folytató szervezet vagy személy.
 
 16. Fogadási ajánlat: a fogadásszervező nyilvánosságra hozott ajánlata, amely tartalmazza a meghatározott fogadási esemény lefogadható bekövetkezését, kimeneteleit, valamint a totalizatőri rendszerű fogadás esetén a nyereményre fordítandó összeg meghatározásának módját, a bukmékeri rendszerű fogadás esetén pedig a nyereményszorzót.
 
 17. hírközlő eszköz és rendszer: bármely olyan eszköz és rendszer, amelynek alkalmazásával a játékos a törvény hatálya alá tartozó játékokban részvételi jogosultságot keletkeztető nyilatkozatot vagy cselekményt tehet. Ilyen különösen a címzett vagy címzés nélküli nyomtatvány, a szabványlevél, a sajtótermékben közzétett hirdetés megrendelőlapja, a katalógus, a telefon, az automata hívókészülék, a rádió, a videotelefon, a videotex (mikroszámítógép-képernyővel) billentyűzettel vagy érintőképernyővel, az Internet, az elektronikus levél (e-mail), a távmásoló (telefax) és televízió.
 
-18. Kaszinójáték: a játékkaszinó játéktervében jóváhagyott bármely olyan szerencsejáték, amelyet kizárólag a játékkaszinóban, az ott jelenlévők részvételével, azonnali tét- és nyereményfizetés mellett szerveznek. Online kaszinó esetében a kaszinójáték a játéktervben jóváhagyott bármely olyan szerencsejáték, amelyet nyilvántartásba vett játékosok részvételével szerveznek.
+18. Kaszinójáték: a játékkaszinó esetében a játéktervben jóváhagyott bármely olyan szerencsejáték, amelyet kizárólag a játékkaszinóban, az ott jelenlévők részvételével, azonnali tét- és nyereményfizetés mellett szerveznek. Online kaszinó esetében a játéktervben jóváhagyott, nyilvántartásba vett játékosok részvételével szervezett szerencsejáték.
 
 19. Lóversenyfogadás: agár- és lóversenyre történő totalizatőri és bukmékeri rendszerű fogadás.
 
@@ -54,7 +54,7 @@ b) a 16. §-ban és — a 12. § tekintetében — a 23. §-ban meghatározott t
 
 21. Szerencsejáték ügy: a szerencsejáték-szervezés hatósági felügyeletének ellátása során lefolytatott hatósági engedélyezési, nyilvántartásba vételi, ellenőrzési és jogkövetkezmények megállapítására irányuló eljárás.
 
-22. Kártyajáték: kizárólag a jelenlévők – távszerencsejáték esetén a nyilvántartásba vett játékosok – részvételével szervezett, kártyával lebonyolított szerencsejáték.
+22. Kártyajáték: kizárólag a jelenlévők – online kaszinójáték esetén a nyilvántartásba vett játékosok – részvételével szervezett, kártyával lebonyolított szerencsejáték.
 
 23.
 
@@ -70,7 +70,7 @@ b) a 16. §-ban és — a 12. § tekintetében — a 23. §-ban meghatározott t
 
 29. Játékosi egyenleg: a játékos részére szerencsejátékkal kapcsolatos tétek, nyeremények és egyéb játékügyletek elszámolása és nyilvántartása céljából a szervező által vezetett egyenleg. Amennyiben a szervező többfajta szerencsejáték szervezésére is engedéllyel rendelkezik, a játékos részére egyetlen közös játékosi egyenleg is létrehozható.
 
-30. Megbízható szerencsejáték-szervező: a 3. § (1) bekezdés a) pontja és (1a) bekezdése szerinti szerencsejáték-szervező, továbbá az a szerencsejáték-szervező, aki a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
+30. Megbízható szerencsejáték-szervező: a 3. § (1) bekezdés a) pontja szerinti szerencsejáték-szervező, továbbá az a szerencsejáték-szervező, aki a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerinti átlátható szervezet és
 
 a) valamennyi, az állami adóhatóság által nyilvántartott, 10 000 000 Ft-ot meghaladó közteherre vonatkozó bevallási és fizetési kötelezettségének eleget tett, és ilyen kötelezettsége teljesítésével egyszer sem esett 90 napot meghaladó késedelembe,
 

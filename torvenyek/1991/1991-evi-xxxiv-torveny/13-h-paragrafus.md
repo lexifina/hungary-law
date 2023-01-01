@@ -1,0 +1,3 @@
+13/H. § (1) A kedvezményezett a szerencsejáték-felügyeleti hatósághoz benyújtott, bizonyítékokkal alátámasztott kérelmében kezdeményezheti annak megállapítását, hogy a tiltott fizetési számla pénzforgalmi korlátozás vagy a 13/F. §-a szerinti visszautasítás alapjául szolgáló esemény nem tartozik e törvény hatálya alá.
+
+(2) A kedvezményezett a kérelemben megjelöli a tiltott fizetési számla pénzforgalmi korlátozás vagy a 13/F. §-a szerinti visszautasítás alapjául szolgáló eseményhez kapcsolódóan kezdeményezett fizetési megbízás összegét, jogcímét, a pénzforgalmi szolgáltatóját, a fizetési számláját, valamint a visszautasítási előzménnyel rendelkező fizetési megbízás esetén a fizetési megbízás megadásának a napját.

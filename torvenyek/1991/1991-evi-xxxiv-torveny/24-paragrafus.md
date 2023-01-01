@@ -1,4 +1,4 @@
-24. § (1) A 21—23. §-okban nem szabályozott sorsolásos játék (a továbbiakban: egyéb sorsolásos játék) a törvénynek a sorsolásos játékokra meghatározott rendelkezései alkalmazásával a szerencsejáték-felügyeleti hatóság engedélyével szervezhető.
+24. § (1) A 21. és 22. §-ban nem szabályozott sorsolásos játék (a továbbiakban: egyéb sorsolásos játék) a törvénynek a sorsolásos játékokra meghatározott rendelkezései alkalmazásával a szerencsejáték-felügyeleti hatóság engedélyével szervezhető.
 
 (2) Bingójáték bingóteremben folyamatosan szervezett számsorsjáték, amelyben a játékos által a helyszínen megvásárolt sorsjegyen lévő számok felhasználásával felépített számvariációk, vagy számsorok helyszínen történő eltalálása jogosít nyereményre.
 

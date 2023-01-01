@@ -8,11 +8,23 @@
 
 (4) A szerencsejáték szervezésére kiírt koncessziós pályázaton való részvételért fizetendő díjat a koncessziós pályázat benyújtásával egyidejűleg kell megfizetni.
 
-(5)
+(5) A távszerencsejáték szervezője tét befizetést
 
-(6)
+a) a játékosnak a Magyar Nemzeti Bank által az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény (a továbbiakban: Fsztv.) vagy a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) alapján kiadott engedéllyel rendelkező pénzforgalmi szolgáltatónál vezetett fizetési számlájáról átutalással,
 
-(7)
+b) a játékos a) pont szerinti fizetési számlájához kapcsolódó fizetési kártyával lebonyolított online fizetéssel,
+
+c) a Hpt. szerinti elektronikus pénzzel (a továbbiakban: elektronikus pénz),
+
+d) az elektronikus hírközlő hálózat üzemeltetője vagy az elektronikus hírközlési szolgáltatás nyújtója által lebonyolított fizetési művelettel, vagy
+
+e) ha ezt jóváhagyott játékterve lehetővé teszi, értékesítőhelyén, fogadóirodájában
+
+fogadhat.
+
+(6) A távszerencsejáték szervezője a játékos részére kifizetést – a játékosi egyenleg megszüntetése kivételével – az Fsztv. vagy a Hpt. alapján kiadott engedéllyel rendelkező pénzforgalmi szolgáltatónál vezetett fizetési számlájáról, a játékos (5) bekezdés a) pontja szerinti fizetési számlájára történő átutalással teljesíthet. A játékosi egyenleg megszüntetése esetén a játékossal történő elszámolás keretében a távszerencsejáték szervezője – ha a játékos (5) bekezdés a) pontja szerinti fizetési számlájának adatai nem állnak rendelkezésre – a játéktervben meghatározott egyéb módon is teljesíthet kifizetést.
+
+(7) Az (5) és (6) bekezdésben foglaltakat a távszerencsejátéknak minősülő játék mellett más szerencsejáték szervezésére is engedéllyel rendelkező szervező által a távszerencsejáték szervezése során alkalmazott közös játékosi egyenlegre is alkalmazni kell.
 
 (7a) A nyertes játékos részére a nyeremény igénylésére a jóváhagyott játéktervben meghatározottak szerint, a sorsolás, illetve a fogadási esemény napját követő 90 napos jogvesztő határidőn belül van lehetőség. A szervező a nyeremény igénylését követően a nyeremény átadása érdekében haladéktalanul köteles a szükséges intézkedéseket megtenni és a nyeremény átadását a nyertes játékos részére a nyeremény igénylésétől számított 30 napos jogvesztő határidőn belül biztosítani.
 

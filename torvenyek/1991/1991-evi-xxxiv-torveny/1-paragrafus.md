@@ -1,6 +1,6 @@
 1. § (1) Szerencsejáték minden olyan játék, amelyben a játékos pénz fizetése, vagy vagyoni érték nyújtása fejében, meghatározott feltételek fennállása vagy bekövetkezése esetén pénznyereményre, vagy más vagyoni értékű nyereményre válik jogosulttá. A nyerés vagy a vesztés kizárólag, vagy túlnyomó részt a véletlentől függ.
 
-(2) E törvény alkalmazásában szerencsejátéknak minősül a fogadás is. E törvényt kell alkalmazni – a törvényben külön szabályozott esetekben – a játékautomatára és az ajándéksorsolásra is.
+(2) E törvény alkalmazásában szerencsejátéknak minősül a fogadás is. E törvényt kell alkalmazni – a törvényben külön szabályozott esetekben – a játékautomatára is.
 
 (3) Szerencsejáték szervezésére irányuló tevékenységnek minősül
 
@@ -38,7 +38,7 @@ e) a szerencsejáték káros mentális, pszichikai és szociális hatásainak me
 
 (5c) A szervező a szerencsejátékban való részvételre létrejött szerződést súlyosan megszegő játékossal szemben a belépés, online bejelentkezés és a szerencsejátékban való részvétel megtagadása (a továbbiakban: kitiltás) hatékony végrehajtása céljából nyilvántartást vezet. A nyilvántartásban a szervező a játékos 29/H. § (1) bekezdés szerinti adatait, a kitiltás tényét, indokát, elrendelésének időpontját, továbbá eseti jellegét vagy határozott, legfeljebb 5 éves időtartamát tünteti fel. A szervező a nyilvántartás adatait a kitiltás elrendelésétől számított 6 évig kezelheti. A kitiltással kapcsolatos nyilvántartásba a kitiltott játékos a játékost érintő kitiltás adatai vonatkozásában tekinthet be. A játékos a betekintéssel egyidejűleg a nyilvántartott adatokról okirat kiállítását igényelheti, amelyet a szervező a betekintéssel egyidejűleg, de legfeljebb az azt követő munkanapon térítésmentesen köteles teljesíteni.
 
-(6) Játékkaszinóban és kártyateremben szervezett szerencsejátékban, valamint online kaszinójátékban és távszerencsejátékban nem vehet részt az a személy, akit a bíróság a cselekvőképességét teljesen korlátozó gondnokság alá helyezett, vagy akinek cselekvőképességét a bíróság a szerencsejátékokkal összefüggő jognyilatkozatai tekintetében részlegesen korlátozta. E követelményt a szerencsejáték-szervező a felelős játékszervezés elvének megfelelően, külön jogszabályban meghatározott módon köteles biztosítani.
+(6) Játékkaszinóban és kártyateremben szervezett szerencsejátékban, valamint hírközlő eszköz és rendszer útján szervezett kaszinójátékban (a továbbiakban: online kaszinójáték) és távszerencsejátékban nem vehet részt az a személy, akit a bíróság a cselekvőképességét teljesen korlátozó gondnokság alá helyezett, vagy akinek cselekvőképességét a bíróság a szerencsejátékokkal összefüggő jognyilatkozatai tekintetében részlegesen korlátozta. E követelményt a szerencsejáték-szervező a felelős játékszervezés elvének megfelelően, külön jogszabályban meghatározott módon köteles biztosítani.
 
 (6a) Ha a bíróság a személyt cselekvőképességet teljesen korlátozó vagy a szerencsejátékokkal összefüggő jognyilatkozatai tekintetében részlegesen korlátozó gondnokság alá helyezi, az elsőfokú határozatot hozó bíróság e tényről, valamint a határozat jogerőre emelkedésének időpontjáról a jogerő beálltától – másodfokú eljárás esetén az iratoknak az elsőfokú bírósághoz való érkezésétől – számított 8 napon belül értesíti a szerencsejáték-felügyeleti hatóságot.
 
