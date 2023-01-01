@@ -32,7 +32,7 @@ c) a tag halálával; vagy
 
 d) – az ügyvezető igazgató kivételével – lemondással.
 
-(7) Az igazgatóság a tagjai közül évente elnököt választ. Az ügyvezető igazgató nem választható meg elnöknek.
+(7) Az igazgatóság a tagjai közül évente elnököt és legalább egy alelnököt választ. Az ügyvezető igazgató nem választható meg elnöknek.
 
 (8) Az igazgatóság legalább negyedévente ülést tart. Az igazgatóság ülését össze kell hívni, ha az Alap terhére kifizetési kötelezettséggel járó helyzet bekövetkezése várható, illetve, ha a Felügyelet azt elrendeli. Az igazgatóság ülését az elnök hívja össze.
 

@@ -1,1 +1,1 @@
-5–6. számú melléklet a 2001. évi CXX. törvényhez
+5. számú melléklet a 2001. évi CXX. törvényhez

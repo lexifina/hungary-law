@@ -1,3 +1,3 @@
 ## Nyilvánosságra hozatal
 
-178/A. §
+### 178/A. §

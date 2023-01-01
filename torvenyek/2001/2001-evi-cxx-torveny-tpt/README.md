@@ -60,3 +60,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-120-00-00
 | 2022-02-28 | 2021. évi LVIII. törvény | 2001-120-00-00.89 |
 | 2022-08-06 | 2022. évi XX. törvény | 2001-120-00-00.90 |
 | 2022-08-12 | 2021. évi LVIII. törvény | 2001-120-00-00.91 |
+| 2023-01-01 | 2022. évi LXIX. törvény | 2001-120-00-00.92 |

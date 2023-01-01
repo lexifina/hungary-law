@@ -1,1 +1,1 @@
-348. §
+348. § A központi szerződő fél közgyűlése legalább kétharmados szótöbbséggel határozhat arról, vagy módosíthatja az alapszabályt úgy, hogy az alaptőke felemeléséről határozó közgyűlést annak napját megelőzően legalább tíz nappal össze lehessen hívni az (EU) 2021/23 rendelet 18. cikke szerinti intézkedés elrendelésének vagy a 22. cikke szerinti szanálási feltételek teljesülésének elkerülése érdekében.
