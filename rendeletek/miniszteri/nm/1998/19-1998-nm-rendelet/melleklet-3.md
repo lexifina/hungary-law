@@ -58,6 +58,8 @@
 
 ## megrendelő orvos aláírása és bélyegzője
 
-3. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^53]
+3. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^54]
 
-[^53]: A 3. számú melléklet a 15/2011. (IV. 27.) NEFMI rendelet 7. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 9. § i)–j) pontja szerint módosított szöveg.
+Betegszállítási adatlap
+
+[^54]: A 3. számú melléklet a 15/2011. (IV. 27.) NEFMI rendelet 7. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 9. § i)–j) pontja szerint módosított szöveg.

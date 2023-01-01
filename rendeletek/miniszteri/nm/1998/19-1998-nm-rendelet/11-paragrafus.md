@@ -14,6 +14,8 @@ c) 1. számú melléklet II/B. 2. pontjában,
 
 d) 1. számú melléklet II/B. 2. pont a) alpontjában
 
+foglaltakat a 2014. január 1-jét követően beszerzett betegszállító gépjárművek esetén kell első ízben alkalmazni.
+
 [^32]: A 11. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 4. pontja hatályon kívül helyezte, újonnan a 15/2011. (IV. 27.) NEFMI rendelet 6. §-a iktatta be.
 [^33]: A hatálybalépés napja: 2011. április 28.
 [^34]: A 11. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 4. pontja hatályon kívül helyezte, újonnan a 15/2011. (IV. 27.) NEFMI rendelet 6. §-a iktatta be.

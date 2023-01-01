@@ -36,7 +36,7 @@ ab) meghatározott időben végzendő kúraszerű kezelésre (pl. művesekezelé
 
 ac) 24 órát üzemelő diagnosztikai vizsgálatra (pl. CT, MRI), kezelésre
 
-## lettek beszállítva, vagy
+lettek beszállítva, vagy
 
 b) akik sürgősségi ellátás keretében kerültek ellátásra.
 

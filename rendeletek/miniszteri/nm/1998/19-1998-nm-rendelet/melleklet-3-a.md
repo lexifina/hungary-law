@@ -1,7 +1,5 @@
 ## Betegszállítási adatlap
 
-## Betegszállítási adatlap
-
 | A betegszállító állomás: ............................................................................................. Napló tételszám:…………………………………………………………………….. |
 
 | működési engedély kódja: ........................................................................................................... |
@@ -82,6 +80,8 @@
 
 | Átvétel időpontja: ____ év __hó __ nap __ perc | ....................................................... továbbszállítást elrendelő orvos aláírása és bélyegzője |
 
-3/a. számú melléklet a 19/1998. (VI. 3.) NM rendelethezy[^54]
+3/a. számú melléklet a 19/1998. (VI. 3.) NM rendelethezy[^55]
 
-[^54]: A 3/a. számú mellékletet a 25/2002. (V. 14.) EüM rendelet 7. § (3) bekezdése iktatta be, szövege az 50/2008. (XII. 31.) EüM rendelet 8. § (5) bekezdésének b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 9. § k) pontja szerint módosított szöveg.
+A beteg továbbszállítási adatlapja
+
+[^55]: A 3/a. számú mellékletet a 25/2002. (V. 14.) EüM rendelet 7. § (3) bekezdése iktatta be, szövege az 50/2008. (XII. 31.) EüM rendelet 8. § (5) bekezdésének b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 9. § k) pontja szerint módosított szöveg.

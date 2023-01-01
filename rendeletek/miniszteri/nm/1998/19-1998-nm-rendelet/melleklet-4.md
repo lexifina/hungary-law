@@ -1,4 +1,4 @@
-## A beteg továbbszállítási adatlapja
+## 6K86527Q_0
 
 | A beteg továbbszállítási adatlapja |
 
@@ -42,6 +42,8 @@
 
 |  | átvevő orvos aláírása és bélyegzője |  |
 
-4. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^55]
+4. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^56]
 
-[^55]: A 4. számú mellékletet a 25/2002. (V. 14.) EüM rendelet 7. § (4) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 9. § l) pontja szerint módosított szöveg.
+Kúraszerű kezelésre történő betegszállítás kiegészítő utalványa
+
+[^56]: A 4. számú mellékletet a 25/2002. (V. 14.) EüM rendelet 7. § (4) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 9. § l) pontja szerint módosított szöveg.
