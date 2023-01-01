@@ -1,13 +1,5 @@
-## 4. A honvédelmi egészségügyi szolgáltató irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltatók meghatározása
+## 4.[^6]
 
-5. § (1)[^1] A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 16. § (1) bekezdés a) pontja szerinti honvédelmi egészségügyi szolgáltatónak
+5. §
 
-a) az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 156/B. §-a szerinti irányítói jogköre a 4. melléklet szerinti honvédelmi szervezetnek nem minősülő egészségügyi szolgáltatókra és
-
-b) az Eütv. 156/B. § (2) bekezdés a), b), d) és e) pontjában, valamint az Eütv. 156/B. § (3) bekezdés d), e) és h) pontjában megállapított irányítási jogköre – a koronavírus elleni védőoltási tevékenység szervezése és a mentési tevékenység kivételével – a 4/A. melléklet szerinti illetékességi területen lévő önkormányzati fenntartású járóbeteg-szakellátó egészségügyi szolgáltatókra
-
-terjed ki.
-
-(2) A 4. melléklet 1. pontja szerinti egészségügyi szolgáltató a Péterfy Kórház-Rendelőintézet és Manninger Jenő Országos Traumatológiai Intézetből történő kiválással jön létre, azzal, hogy az e rendelet hatálybalépését követően is ellátja a jogelődje számára az e rendelet hatálybalépése előtt jogszabályban meghatározott traumatológiai gyógyintézeti szakfeladatokat.
-
-[^1]: Az 5. § (1) bekezdése a 195/2022. (V. 27.) Korm. rendelet 27. § (1) bekezdésével megállapított, nyitó szövegrésze a 410/2022. (X. 24.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^6]: A 4. alcímet (5. §) az 570/2022. (XII. 23.) Korm. rendelet 15. §-a hatályon kívül helyezte.
