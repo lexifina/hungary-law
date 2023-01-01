@@ -1,6 +1,6 @@
 ## Műemlék ingatlanok
 
-3. § (1) A fővárosi és megyei kormányhivatal önkormányzat tulajdonába adja az állami tulajdonban lévő műemlékileg védett épületet, építményt és a hozzájuk tartozó állami tulajdonban álló földet, illetőleg ezeknek az ingatlanoknak egy részét (a továbbiakban együtt: műemlék épület), ha kezelőjeként
+3. § (1) A fővárosi és vármegyei kormányhivatal önkormányzat tulajdonába adja az állami tulajdonban lévő műemlékileg védett épületet, építményt és a hozzájuk tartozó állami tulajdonban álló földet, illetőleg ezeknek az ingatlanoknak egy részét (a továbbiakban együtt: műemlék épület), ha kezelőjeként
 
 a) a megszűnt tanács, illetve szerve, intézménye,
 

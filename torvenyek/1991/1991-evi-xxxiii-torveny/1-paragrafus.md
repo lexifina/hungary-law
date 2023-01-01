@@ -10,4 +10,4 @@
 
 (3) A (2) bekezdés megfelelően irányadó a társasháznak és a vegyes tulajdonban, valamint a más állami szerv kezelésében álló épületnek az ingatlankezelő szerv által kezelt hányadára is.
 
-(4) A fővárosi és megyei kormányhivatal a speciális ellátásra szolgáló otthonházat (nyugdíjas-házat, szobabérlők házát) az alapító tanács jogutódjának minősülő önkormányzat tulajdonába adja.
+(4) A fővárosi és vármegyei kormányhivatal a speciális ellátásra szolgáló otthonházat (nyugdíjas-házat, szobabérlők házát) az alapító tanács jogutódjának minősülő önkormányzat tulajdonába adja.

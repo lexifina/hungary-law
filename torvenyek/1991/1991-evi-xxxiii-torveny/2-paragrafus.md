@@ -1,4 +1,4 @@
-2. § (1) A fővárosi és megyei kormányhivatal adja önkormányzat tulajdonába az ingatlankezelő szerv kezelésében lévő épületet (épületrészt), ha azt egészben vagy részben önkormányzat, illetve önkormányzat intézménye, közüzeme használja.
+2. § (1) A fővárosi és vármegyei kormányhivatal adja önkormányzat tulajdonába az ingatlankezelő szerv kezelésében lévő épületet (épületrészt), ha azt egészben vagy részben önkormányzat, illetve önkormányzat intézménye, közüzeme használja.
 
 (2) Az épületet (épületrészt) rendeltetése alapján az abban közhatalmi helyi feladatot végző, továbbá az abban működő intézményt, közüzemet fenntartó, illetve felügyeletét ellátó önkormányzat tulajdonába, az egyéb épületrészt pedig az 1. § (2) bekezdésében említett önkormányzat tulajdonába kell adni.
 
@@ -6,7 +6,7 @@
 
 (4)
 
-(5) A fővárosi és megyei kormányhivatal a fővárosi önkormányzat tulajdonába adja a Fővárosi Ingatlankezelő Műszaki Vállalat által kezelt épületet (épületrészt), illetve lakásokat és nem lakás céljára szolgáló helyiségeket.
+(5) A fővárosi és vármegyei kormányhivatal a fővárosi önkormányzat tulajdonába adja a Fővárosi Ingatlankezelő Műszaki Vállalat által kezelt épületet (épületrészt), illetve lakásokat és nem lakás céljára szolgáló helyiségeket.
 
 (6) E törvény erejénél fogva nem kerül, illetve nem adható az önkormányzat tulajdonába az az ingatlankezelő szerv által kezelt épület (épületrész), amelyet e törvény hatálybalépésekor az Országgyűlésben képviselettel rendelkező párt használ.
 
