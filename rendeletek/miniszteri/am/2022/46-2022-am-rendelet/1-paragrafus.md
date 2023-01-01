@@ -1,0 +1,1 @@
+1. § A Somló Tájvédelmi Körzet létesítéséről és egyes területeinek fokozottan védetté nyilvánításáról szóló 8/1993. (III. 9.) KTM rendelet 1. számú mellékletében a „megye” szövegrész helyébe a „vármegye” szöveg lép.
