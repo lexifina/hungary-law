@@ -1,3 +1,3 @@
-14. melléklet az 51/2022. (XI. 29.) MNB rendelethez[^22]
+## 2X07947M.pdf
 
-[^22]: A 14. melléklet a 16. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+14. melléklet az 51/2022. (XI. 29.) MNB rendelethez

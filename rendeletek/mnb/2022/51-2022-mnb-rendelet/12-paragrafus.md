@@ -1,3 +1,3 @@
-12. §[^6]
+12. § (1) A pénzforgalmi szolgáltató a fogyasztók részére vezetett fizetési számlákhoz kapcsolódó díjakról történő tájékoztatás egyes kérdéseiről szóló 144/2018. (VIII. 13.) Korm. rendelet [a továbbiakban: 144/2018. (VIII. 13.) Korm. rendelet] 1. §-a szerinti fizetési számlához kapcsolódó díjakra és kondíciókra vonatkozó eseti felügyeleti jelentést (jelentéskód: PADWEB) a 18. mellékletben foglaltaknak megfelelő tartalommal, a díjak és kondíciók érvényessége kezdőnapját megelőző munkanapig teljesíti az MNB részére.
 
-[^6]: A 12. § a 16. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+(2) A kitöltésre vonatkozó általános előírásokat az 1. melléklet, a kitöltésre vonatkozó részletes előírásokat a 19. melléklet tartalmazza.
