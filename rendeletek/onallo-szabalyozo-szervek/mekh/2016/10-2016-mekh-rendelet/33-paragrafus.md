@@ -1,6 +1,6 @@
 ## 18. A közcélú vezeték díja
 
-33. §[^62] (1) Ha a csatlakozást igénylő igényének kielégítése érdekében kisfeszültségű közcélú elosztó hálózat kiépítése szükséges, és a létesítést a hálózati engedélyes végzi, ehhez kapcsolódóan a csatlakozást igénylőnek közcélú vezeték díjat kell fizetnie.
+33. §[^63] (1) Ha a csatlakozást igénylő igényének kielégítése érdekében kisfeszültségű közcélú elosztó hálózat kiépítése szükséges, és a létesítést a hálózati engedélyes végzi, ehhez kapcsolódóan a csatlakozást igénylőnek közcélú vezeték díjat kell fizetnie.
 
 (2) A csatlakozást igénylőnek nem kell közcélú vezeték díjat fizetnie
 
@@ -54,4 +54,4 @@ bb) középfeszültségű földkábelnél 125 méterig.
 
 (15) Ha a hálózati engedélyes saját kockázatára a már ismert rendszerhasználók igényét meghaladó hosszúságú közcélú vezetéket létesít, akkor az erre a vezetékszakaszra később csatlakozó rendszerhasználóktól a közcélú vezeték díját az (1)–(9) és (11) bekezdés e vezetékszakaszra történő alkalmazásával kérheti, a létesítés évétől számított 5 évig.
 
-[^62]: A 33. § az 1/2021. (II. 10.) MEKH rendelet 5. §-ával megállapított szöveg.
+[^63]: A 33. § az 1/2021. (II. 10.) MEKH rendelet 5. §-ával megállapított szöveg.

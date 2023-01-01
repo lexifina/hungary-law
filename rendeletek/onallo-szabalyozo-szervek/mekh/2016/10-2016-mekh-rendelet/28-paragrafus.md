@@ -1,14 +1,14 @@
-28. § (1) A létrejövő új erőmű vagy meglévő erőmű új, a meglévő csatlakozási teljesítmény felett többletteljesítményt igénylő erőműegysége csatlakozási díjkedvezményre jogosult, ha
+28. § (1)[^54] A létrejövő új erőmű vagy meglévő erőmű új, a meglévő csatlakozási teljesítmény felett többletteljesítményt igénylő erőműegysége csatlakozásához kapcsolódóan csatlakozási díjkedvezmény vehető igénybe, ha az erőmű vagy erőműegység
 
-a) kizárólag a Vhr. 7. számú melléklet a) pont aa)–ad) alpontjai szerint elsődlegesnek minősülő megújuló energiaforrásokkal működtethető vagy
+a) kizárólag a Vhr. 7. számú melléklet 4. pont 4.1–4.3. és 4.7. alpontjai szerint elsődlegesnek minősülő megújuló energiaforrásokkal működtethető, vagy
 
-b) az a) pontban foglaltakon kívüli, de a Vhr. 7. számú melléklet a) pontja szerint elsődlegesnek minősülő megújuló energiaforrásokkal részben vagy egészben működtethető, és az erőmű üzemeltetője vállalja, hogy az új erőmű vagy erőműegység összes végtermékének előállításához évenként, a működés megkezdésének évét követő első naptári év elejétől az ötödik naptári év végéig számítva éves átlagban
+b) az a) pontban foglaltakon kívüli, de a Vhr. 7. számú melléklet 4. pontja szerint elsődlegesnek minősülő megújuló energiaforrásokkal részben vagy egészben működtethető, és az erőmű üzemeltetője vállalja, hogy az új erőmű vagy erőműegység összes végtermékének előállításához évenként, a működés megkezdésének évét követő első naptári év elejétől az ötödik naptári év végéig számítva éves átlagban
 
 ba) legalább 70%-ban vagy
 
 bb) legalább 90%-ban
 
-a Vhr. 7. számú melléklet a) pontja szerint elsődlegesnek minősülő megújuló energiaforrást használ.
+a Vhr. 7. számú melléklet 4. pontja szerint elsődlegesnek minősülő megújuló energiaforrást használ.
 
 (2) A csatlakozási díjkedvezmény szempontjából nem tekinthető új erőműnek vagy erőműegységnek az a műszaki megoldás, amelyik – a villamos energia hálózatra adására szolgáló vezetékeket és egyéb villamos berendezéseket kivéve – a villamosenergia-termelés tekintetében bármilyen módon műszakilag kapcsolódik egy már meglévő erőműhöz vagy erőműegységhez, vagy azzal közös főberendezést tartalmaz.
 
@@ -41,3 +41,5 @@ b) az erőmű, illetve annak a csatlakozási díjkedvezmény számításánál f
 c) az (1) bekezdés b) pontja szerinti erőmű által felhasznált elsődlegesnek minősülő megújuló energiaforrások aránya az adott naptári évben – a működés megkezdésének évét követő 1. naptári év elejétől az 5. naptári év végéig számítva – nem érte el az (1) bekezdés b) pontja szerint általa előzetesen vállalt százalékos határértéket, akkor a kapott csatlakozási díjkedvezmény 20%-át (évente)
 
 az erőmű üzemeltetője a Hivatal határozata alapján visszafizeti a hálózati engedélyes részére.
+
+[^54]: A 28. § (1) bekezdése a 13/2022. (XI. 18.) MEKH rendelet 13. §-ával megállapított szöveg.
