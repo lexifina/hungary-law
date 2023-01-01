@@ -1,4 +1,4 @@
-1/a. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^35]
+1/a. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^36]
 
 Az Mvt. 21. § (2) bekezdése alapján veszélyesnek minősülő munkaeszközök jegyzéke
 
@@ -66,4 +66,4 @@ További munkaeszközök:
 
 23. Személyszállításra használt folyamatos szállítóberendezések.
 
-[^35]: A Vhr. 1/a. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^36]: A Vhr. 1/a. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (1) bekezdésével megállapított szöveg.

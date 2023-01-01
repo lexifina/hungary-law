@@ -2,13 +2,13 @@
 
 ## A kitöltési útmutató a munkabalesetek európai statisztikája ESAW (European Statistics of Accidents at Work) módszertanának figyelembevételével készült.
 
-## A munkabaleset kivizsgálása során nyert adatok alapján a munkáltatónak - számítógéppel, írógéppel vagy nyomtatott betűvel - kell kitölteni a munkabaleseti jegyzőkönyv (a továbbiakban: jegyzőkönyv) valamennyi rovatát az (E) blokk „A munkabalesettel kapcsolatos egyéb információk:” 1-6 pontjaihoz tartozó kódnégyzetek, továbbá az (F) és a (G) blokkban lévő kódnégyzet, valamint a (J) blokk kivételével. Az (E) blokkban lévő sorokba a szöveges meghatározást, választ a munkáltatónak kell megadni. Az (E), (F), (G) blokkokban lévő kódnégyzeteket (az (E) blokk 7 pont kivételével), valamint a jegyzőkönyv (J) blokkját az illetékes hatóság (munkavédelmi hatóság, illetve a bányafelügyeleti hatáskörében eljáró megyei kormányhivatal) tölti ki.
+## A munkabaleset kivizsgálása során nyert adatok alapján a munkáltatónak - számítógéppel, írógéppel vagy nyomtatott betűvel - kell kitölteni a munkabaleseti jegyzőkönyv (a továbbiakban: jegyzőkönyv) valamennyi rovatát az (E) blokk „A munkabalesettel kapcsolatos egyéb információk:” 1-6 pontjaihoz tartozó kódnégyzetek, továbbá az (F) és a (G) blokkban lévő kódnégyzet, valamint a (J) blokk kivételével. Az (E) blokkban lévő sorokba a szöveges meghatározást, választ a munkáltatónak kell megadni. Az (E), (F), (G) blokkokban lévő kódnégyzeteket (az (E) blokk 7 pont kivételével), valamint a jegyzőkönyv (J) blokkját az illetékes hatóság (munkavédelmi hatóság, illetve a bányafelügyeleti hatáskörében eljáró vármegyei kormányhivatal) tölti ki.
 
 ## A munkabaleset kivizsgálása során a munkáltatónak figyelemmel kell lennie a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 57. § (3) bekezdés h) pontjában foglalt előírásra, amely szerint a munkáltató által kijelölt (vagy foglalkoztatott, megbízott) személy feladata a munkabalesetek kivizsgálása, valamint az Mvt. 65. § (2) bekezdésében foglalt azon előírásra, amely munkabiztonsági szaktevékenységnek minősíti a munkabaleset kivizsgálását.
 
 ## Nyilvántartási szám: A bejelentésre kötelezett munkabalesetre vonatkozóan a munkáltató által vezetett munkabaleseti nyilvántartás szerinti évszám utolsó két számjegyét és a sorszámát kell beírni.
 
-## Területi kód: Annak a területnek (Budapest/megye/külföld) a kódszámát kell beírni a kódnégyzetekbe, ahol a munkabaleset bekövetkezett.
+## Területi kód: Annak a területnek (Budapest/vármegye/külföld) a kódszámát kell beírni a kódnégyzetekbe, ahol a munkabaleset bekövetkezett.
 
 | Kódszám | Terület |
 
@@ -530,9 +530,9 @@
 
 | 7. A baleset földrajzi helye: 5093 Vezseny, Fő út 23. | 2 | 1 | 1 | 5 | 7 |
 
-## Ha a munkabaleset lakott területen kívül következett be, és egyértelműen nem állapítható meg a település, akkor a munkabaleset helyszíne szerinti megyét kell figyelembe venni, és a megyén belül legközelebb eső település nevét és településazonosító törzsszámát kell beírni. Közúton történt munkabaleset esetén a közút számát és a km szelvényét kell feltüntetni. Ismeretlen közút vagy magánút esetén a munkabaleset helyszíne szerinti megyét kell figyelembe venni, és a megyén belül legközelebb eső település nevét és településazonosító törzsszámát kell beírni.
+## Ha a munkabaleset lakott területen kívül következett be, és egyértelműen nem állapítható meg a település, akkor a munkabaleset helyszíne szerinti vármegyét kell figyelembe venni, és a vármegyén belül legközelebb eső település nevét és településazonosító törzsszámát kell beírni. Közúton történt munkabaleset esetén a közút számát és a km szelvényét kell feltüntetni. Ismeretlen közút vagy magánút esetén a munkabaleset helyszíne szerinti vármegyét kell figyelembe venni, és a vármegyén belül legközelebb eső település nevét és településazonosító törzsszámát kell beírni.
 
-## Abban az esetben, ha a munkabaleset külföldön következett be, akkor szövegesen be kell írni az ország és a település nevét. A kódnégyzetekbe EU-tagállamok esetén a jegyzőkönyv kitöltésekor hatályos, az Eurostat által kiadott NUTS kódokat kell beírni, az első két kódnégyzetbe az országot jelölő betűket, a következő három kódnégyzetbe a munkabaleset helyszíne szerinti megyekódot. Nem EU-tagállam esetén az első három kódnégyzetbe a NEU kifejezést, ha nem áll rendelkezésre egyértelmű információ a munkabaleset földrajzi helyéről, akkor az UNK kifejezést kell beírni.
+## Abban az esetben, ha a munkabaleset külföldön következett be, akkor szövegesen be kell írni az ország és a település nevét. A kódnégyzetekbe EU-tagállamok esetén a jegyzőkönyv kitöltésekor hatályos, az Eurostat által kiadott NUTS kódokat kell beírni, az első két kódnégyzetbe az országot jelölő betűket, a következő három kódnégyzetbe a munkabaleset helyszíne szerinti vármegyekódot. Nem EU-tagállam esetén az első három kódnégyzetbe a NEU kifejezést, ha nem áll rendelkezésre egyértelmű információ a munkabaleset földrajzi helyéről, akkor az UNK kifejezést kell beírni.
 
 ## Például: ha a munkabaleset Németországban, Hamburg közeli autópályán történt, akkor a rovatot az alábbiak szerint kell kitölteni:
 
@@ -796,6 +796,6 @@
 
 ## A munkabaleseti esemény elemzését (vizsgálatát, kódolását) követően a munkavédelmi hatóság részéről eljáró személy köteles a nevét, igazolvány számát, a felülvizsgálat lezárásának napját beírni, majd ezt követően a jegyzőkönyvet aláírni.
 
-6. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^42]
+6. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^43]
 
-[^42]: A Vhr. 6. számú mellékletét a 182/2009. (IX. 10.) Korm. rendelet 686. § (2) bekezdés 1. pontja hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^43]: A Vhr. 6. számú mellékletét a 182/2009. (IX. 10.) Korm. rendelet 686. § (2) bekezdés 1. pontja hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
