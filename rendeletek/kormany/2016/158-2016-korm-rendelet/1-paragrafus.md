@@ -1,6 +1,6 @@
 ## 1. A rendelet hatálya
 
-1. § (1) E rendelet hatálya az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a Kormány által a nemzeti fejlesztési miniszter (a továbbiakban: miniszter) hatáskörébe utalt, a 2014–2020 programozási időszak Környezeti és Energiahatékonysági Operatív Programja terhére finanszírozott, a távhőszolgáltató szektort érintő, energiahatékonyság növelésére és a megújuló energiaforrások alkalmazására irányuló projektekre terjed ki.
+1. § (1)[^1] E rendelet hatálya az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a Kormány által az állami beruházásokért felelős miniszter (a továbbiakban: miniszter) hatáskörébe utalt, a 2014–2020 programozási időszak Környezeti és Energiahatékonysági Operatív Programja terhére finanszírozott, a távhőszolgáltató szektort érintő, energiahatékonyság növelésére és a megújuló energiaforrások alkalmazására irányuló projektekre terjed ki.
 
 (2) E rendelet hatálya nem terjed ki:
 
@@ -8,6 +8,7 @@ a) az egyházi jogi személyek által megvalósítandó energiahatékonyság nö
 
 b) a közszféra szervezetek számára tervezett kiemelt, épületenergetikai célú projektekre, ideértve a megújuló energiaforrások alkalmazásával kombinált beruházásokat és a szemléletformálási programokat, és
 
-c)[^1]
+c)[^2]
 
-[^1]: Az 1. § (2) bekezdés c) pontját az 57/2017. (III. 20.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^1]: Az 1. § (1) bekezdése az 523/2022. (XII. 15.) Korm. rendelet 15. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés c) pontját az 57/2017. (III. 20.) Korm. rendelet 18. §-a hatályon kívül helyezte.

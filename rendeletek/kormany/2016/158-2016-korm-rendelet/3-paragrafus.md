@@ -2,4 +2,6 @@
 
 3. § (1) A miniszter gondoskodik az 1. § szerinti projektek határidőben történő megvalósításáról.
 
-(2) A miniszter az (1) bekezdés szerinti feladatait az NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Társaság) bevonásával látja el.
+(2)[^3]
+
+[^3]: A 3. § (2) bekezdését az 523/2022. (XII. 15.) Korm. rendelet 16. § a) pontja hatályon kívül helyezte.
