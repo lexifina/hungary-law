@@ -10,4 +10,6 @@ d) a jogorvoslat lehetőségéről szóló tájékoztatást, illetve a minősít
 
 (2) A minősítő dokumentum (1) bekezdés b) és c) pontja szerinti külön íve nem része a Hszt. 273. §-a szerinti személyi anyaggyűjtőnek.
 
-(3) Az alkalmasságvizsgálatot végző személy az általa megállapított minősítésről dokumentált módon köteles írásban tájékoztatni a vizsgált személyt.
+(3)[^12] Az alkalmasságvizsgálatot végző személy az általa megállapított minősítésről igazolható módon köteles írásban tájékoztatni a vizsgált személyt.
+
+[^12]: A 24. § (3) bekezdése a 43/2022. (XII. 19.) BM rendelet 131. § f) pontja szerint módosított szöveg.

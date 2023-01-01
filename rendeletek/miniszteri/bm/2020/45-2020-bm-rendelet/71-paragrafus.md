@@ -8,10 +8,12 @@ b) az V–VIII. alkalmasságvizsgálati kategória esetében irányítói kompet
 
 c) a IX–XII. alkalmasságvizsgálati kategória esetében vezetői kompetenciavizsgálatra
 
-## kerül sor.
+kerül sor.
 
 (3) A kompetenciavizsgálat végrehajtása
 
 a) a (2) bekezdés a) és b) pontja esetében a rendvédelmi alapellátó pszichológus,
 
 b) a (2) bekezdés c) pontja esetében az állományilletékes parancsnok közvetlen kezdeményezése alapján a minisztérium
+
+feladata.

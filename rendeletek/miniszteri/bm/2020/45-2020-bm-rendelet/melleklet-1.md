@@ -1,5 +1,3 @@
-## 120. §[^21]
-
 1. melléklet a 45/2020. (XII. 16.) BM rendelethez
 
-[^21]: A 120. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+A hivatásos szolgálat szempontjából kizáró oknak minősülő betegségek a nemzetközi osztályozásukra szolgáló kódrendszerben (BNO)

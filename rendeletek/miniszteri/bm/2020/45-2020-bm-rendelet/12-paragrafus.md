@@ -1,6 +1,6 @@
 12. § (1) A Tanácsadó Testület elnökét és titkárát a miniszter nevezi ki a minisztérium állományából.
 
-(2) A Tanácsadó Testület elnöke, valamint a felülvizsgáló egység vezető főorvosa a Tanácsadó Testület tagja. A Tanácsadó Testület további 12 tagját a rendvédelmi szervek által felkért személyek alkotják az alábbi összetétel szerint
+(2)[^9] A Tanácsadó Testület elnöke, valamint a felülvizsgáló egység vezető főorvosa a Tanácsadó Testület tagja. A Tanácsadó Testület további 13 tagját a rendvédelmi szervek által felkért személyek alkotják az alábbi összetétel szerint
 
 a) az országos rendőrfőkapitány egy orvost, egy pszichológust és egy sportszakembert,
 
@@ -10,11 +10,13 @@ c) a hivatásos katasztrófavédelmi szerv főigazgatója egy orvost, egy pszich
 
 d) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv főigazgatója egy főt,
 
-e) a terrorizmust elhárító szerv főigazgatója egy főt és
+e) a terrorizmust elhárító szerv főigazgatója egy főt,
 
-f) az idegenrendészeti szerv főigazgatója egy főt
+f) az idegenrendészeti szerv főigazgatója egy főt és
 
-## delegál.
+g) az Országgyűlési Őrség parancsnoka egy főt
+
+delegál.
 
 (3) A Tanácsadó Testület tagjának az delegálható, aki
 
@@ -27,3 +29,5 @@ c) az adott szakterületen legalább tízéves szakmai gyakorlattal rendelkezik,
 d) rendvédelmi szakterületen szerzett legalább ötéves szakmai gyakorlattal rendelkezik, és
 
 e) a jelöléséhez hozzájárul.
+
+[^9]: A 12. § (2) bekezdése a 43/2022. (XII. 19.) BM rendelet 128. §-ával megállapított szöveg.

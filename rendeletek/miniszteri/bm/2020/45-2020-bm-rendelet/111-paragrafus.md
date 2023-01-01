@@ -10,7 +10,7 @@ ca) abban az esetben, ha az ER. szerinti időszakos pszichikai alkalmassági viz
 
 cb) a ca) alpontba nem tartozó esetben első alkalommal a 2021. évben
 
-## kell elvégezni.
+kell elvégezni.
 
 (2) A 2021. január 1-jén hivatásos szolgálati jogviszonyban álló állomány azon tagja, aki az ER. szerint fizikai alkalmassági vizsgálaton történő részvételre életkorából adódóan nem volt köteles, az e rendelet szerint időszakos fizikai alkalmasságvizsgálatra 2021. második félévében rendelhető. A fizikai alkalmassági követelményeknek való megfelelés érdekében ezen állomány részére a rendvédelmi szerv intézkedik az állomány tájékoztatására, továbbá szükség szerint felkészítést szervezhet.
 

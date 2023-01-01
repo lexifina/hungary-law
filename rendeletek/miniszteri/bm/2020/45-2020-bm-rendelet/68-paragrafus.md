@@ -1,5 +1,3 @@
-## 67. § Az időszakos alkalmasságvizsgálat esetében a minimumfeltételek és az érintett személy által betöltött szolgálati beosztáshoz tartozó kategóriafeltételek vizsgálatára kerül sor, amely egészségi, pszichológiai és fizikai vizsgálatból áll, valamint sor kerül – a 71. § szerinti gyakorisággal – pszichológia kompetenciavizsgálatra.
-
 68. § (1) Az időszakos alkalmasságvizsgálat minősítése lehet
 
 a) „Alkalmas” vagy

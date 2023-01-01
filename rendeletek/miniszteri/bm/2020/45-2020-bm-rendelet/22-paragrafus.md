@@ -6,12 +6,14 @@ a) a személyügyi szerv által kitöltött alkalmasságvizsgálatra rendelő la
 
 b) az egészségi, pszichológiai és fizikai-erőnléti állapotára vonatkozó, az adott alkalmasságvizsgálat szempontjából szükséges egészségügyi dokumentációt.
 
-(3) Az (1) bekezdésben foglaltaktól eltérően nem szükséges a személyes megjelenés, és a hivatásos állomány tagjának alkalmasságával kapcsolatos döntés a rendelkezésre álló dokumentumok alapján is meghozható a soron kívüli és az ismételt alkalmasságvizsgálat során, ha a vizsgálatra rendelt személy
+(3)[^11] Az (1) bekezdésben foglaltaktól eltérően a hivatásos állomány tagjának alkalmasságával kapcsolatos döntés a rendelkezésre álló dokumentumok alapján is meghozható a soron kívüli és az ismételt alkalmasságvizsgálat során, ha a vizsgálatra rendelt személy
 
 a) egészségi állapota a személyes megjelenést nem teszi lehetővé,
 
-b) betegsége, sérülése miatt járó-, illetve mozgásképtelen,
+b) betegsége, sérülése miatt járó-, illetve mozgásképtelen, vagy
 
-c) utaztatása esetén egészségi állapotában romlás következne be, és
+c) utaztatása esetén egészségi állapotában romlás következne be,
 
-d) meglévő egészségügyi dokumentációjából az egészségi állapota megítélhető.
+és meglévő egészségügyi dokumentációjából az egészségi állapota megítélhető.
+
+[^11]: A 22. § (3) bekezdése a 43/2022. (XII. 19.) BM rendelet 129. §-ával megállapított szöveg.

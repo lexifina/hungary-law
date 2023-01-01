@@ -1,4 +1,4 @@
-## Az egészségi képzési minimumfeltételek szempontjából kizáró oknak minősülő betegségek a nemzetközi osztályozásukra szolgáló kódrendszerben (BNO)
+## 0X09567_0
 
 |  | A | B | C | D |
 
@@ -258,7 +258,7 @@
 
 6. melléklet a 45/2020. (XII. 16.) BM rendelethez
 
-## A pszichológiai képzési minimumfeltételek
+A pszichológiai képzési minimumfeltételek
 
 1. A személyiség egészével kapcsolatos elvárások
 

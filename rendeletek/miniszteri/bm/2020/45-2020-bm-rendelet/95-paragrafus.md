@@ -8,7 +8,7 @@ a) első fokon a felvételiző lakóhelye szerint illetékes, az általános ren
 
 b) másodfokon az általános rendőrségi feladatok ellátására létrehozott szerv központi szervénél foglalkoztatott orvos
 
-## végzi.
+végzi.
 
 (2) A rendvédelmi oktatási intézménybe felvétel előtti pszichológiai alkalmasságvizsgálatot
 
@@ -16,6 +16,6 @@ a) első fokon a felvételiző lakóhelye szerint illetékes, az általános ren
 
 b) másodfokon az általános rendőrségi feladatok ellátására létrehozott szerv központi szervénél foglalkoztatott pszichológus
 
-## végzi.
+végzi.
 
 (3) A rendvédelmi oktatási intézménybe felvétel előtti fizikai alkalmasságvizsgálatot a rendvédelmi oktatási intézmény sportszakembere végzi.

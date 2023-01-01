@@ -8,10 +8,12 @@ a) első és másodfokon a rendvédelmi szerv vezetője által közjogi szerveze
 
 b) a másodfokon született „Alkalmatlan” minősítés esetén a pszichológiai háromfős bizottság
 
-## végzi.
+végzi.
 
 (3) A fizikai alkalmasságvizsgálatot
 
 a) első és másodfokon a rendvédelmi szerv vezetője által közjogi szervezetszabályozó eszközben meghatározott kijelölés szerinti sportszakember,
 
 b) a másodfokon született „Alkalmatlan” minősítés esetén a fizikai háromfős bizottság
+
+végzi.

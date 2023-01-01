@@ -1,3 +1,3 @@
-## 116. §[^17]
+117. §[^37]
 
-[^17]: A 116. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 117. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

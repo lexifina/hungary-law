@@ -10,6 +10,6 @@ a) kompetenciavizsgálatból és
 
 b) a fizikai alkalmasságvizsgálat eredményét meghatározó pontszám alapján megállapított szintfelmérésből
 
-## áll, amely vizsgálat eredményei pontszámokban kerülnek kifejezésre.
+áll, amely vizsgálat eredményei pontszámokban kerülnek kifejezésre.
 
 (3) A (1) bekezdés szerinti illeszkedésvizsgálat eredményeként megállapított sorrend a döntésre jogosultat nem köti, az a vezetői döntést támogató információnak tekinthető.

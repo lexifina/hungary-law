@@ -1,4 +1,4 @@
-## Fizikai minimumfeltételek
+## 0X09566_0
 
 |  | A | B | C | D | E | F | G | H | I |
 
@@ -15,3 +15,5 @@
 | 6 | Cooper-teszt evezős-ergométeren (választható) a) pálya: evezős-ergométer b) kiinduló helyzet: lábak a pedálon c) feladat: 12 perces evezés d) értékelés: 12 perces evezés alatt megtett távolság méterben e) eszközfelhasználás: stopperóra, evezős-ergométer | 2300 m | 2000 m | 2100 m | 1800 m | 1900 m | 1500 m | 1700 m | 1300 m |
 
 5. melléklet a 45/2020. (XII. 16.) BM rendelethez
+
+Az egészségi képzési minimumfeltételek szempontjából kizáró oknak minősülő betegségek a nemzetközi osztályozásukra szolgáló kódrendszerben (BNO)

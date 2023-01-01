@@ -12,7 +12,7 @@ d) a szolgálat ellátásához kapcsolódó belső körülmények, rezsimszabál
 
 e) a szakmai irányításból adódó többletfelelősséget, magasabb szakmai követelményeket
 
-## kell figyelembe venni.
+kell figyelembe venni.
 
 (2) A szolgálati beosztások szerepkörök szerint az alábbi alkalmasságvizsgálati kategóriákba sorolhatók:
 

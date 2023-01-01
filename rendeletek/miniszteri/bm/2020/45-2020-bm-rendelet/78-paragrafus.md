@@ -1,6 +1,6 @@
 ## 77. § Ha a soron kívüli egészségi alkalmasságvizsgálat esetén a rendvédelmi alapellátó orvos pszichiátriai szakvélemény beszerzését tartja szükségesnek, amely azonban betegség fennállását – és így az egészségi szempontú alkalmatlanság megalapozását – nem igazolja, ugyanakkor a pszichológiai alkalmatlanság gyanúja fennáll, a rendvédelmi alapellátó orvos soron kívüli pszichológiai alkalmasságvizsgálat elrendelését kezdeményezi a személyügyi szerven keresztül a vizsgált személy állományilletékes parancsnokánál.
 
-78. § (1)[^5] Soron kívüli pszichológiai alkalmasságvizsgálat esetén közvetlen szolgálati elöljárói vélemény beszerzése is szükséges annak feltárása érdekében, hogy észlelhető-e munkahelyi viselkedéssel összefüggő probléma a soron kívüli alkalmasságvizsgálat alapjául szolgáló körülmény hátterében.
+78. § (1)[^20] Soron kívüli pszichológiai alkalmasságvizsgálat esetén közvetlen szolgálati elöljárói vélemény beszerzése is szükséges annak feltárása érdekében, hogy észlelhető-e munkahelyi viselkedéssel összefüggő probléma a soron kívüli alkalmasságvizsgálat alapjául szolgáló körülmény hátterében.
 
 (2) Ha a pszichológiai alkalmasságvizsgálat során a vizsgálatot végző pszichológus olyan rendellenességre utaló jelet tapasztal, amely betegség fennállását feltételezi, soron kívüli egészségi alkalmasságvizsgálat elrendelését kell kezdeményeznie a személyügyi szerven keresztül a vizsgált személy állományilletékes parancsnokánál.
 
@@ -18,4 +18,6 @@ d) felettesekkel, munkatársakkal való kapcsolatára, valamint
 
 e) esetleges hangulat- és viselkedésváltozásaira
 
-[^5]: A 78. § (1) bekezdése a 4/2022. (III. 25.) BM rendelet 25. § a) pontja szerint módosított szöveg.
+vonatkozó információkat is.
+
+[^20]: A 78. § (1) bekezdése a 4/2022. (III. 25.) BM rendelet 25. § a) pontja szerint módosított szöveg.

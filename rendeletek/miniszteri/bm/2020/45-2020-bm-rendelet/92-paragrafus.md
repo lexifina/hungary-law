@@ -8,7 +8,7 @@ b) pszichológiai és
 
 c) fizikai
 
-## vizsgálatból áll.
+vizsgálatból áll.
 
 (2) Az (1) bekezdést követően a képzési minimumfeltételeknek való megfelelés esetén illeszkedésvizsgálatra kerül sor, amely
 
@@ -16,6 +16,6 @@ a) kompetenciavizsgálatból és
 
 b) fizikai alkalmasságvizsgálat eredményét meghatározó pontszám alapján megállapított szintfelmérésből
 
-## áll.
+áll.
 
 (3) A (2) bekezdés szerinti vizsgálat eredményei pontszámokban kerülnek kifejezésre, amelyek mentén a felvételizők sorrendbe állíthatók azzal, hogy a sorrend a döntésre jogosultat nem köti, az döntést támogató információnak tekinthető.

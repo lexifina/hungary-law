@@ -1,5 +1,3 @@
-## feladata.
-
 72. § (1) Az időszakos pszichológiai alkalmasságvizsgálat eredménye alapján a pszichológus javaslatot tesz arra vonatkozóan, hogy milyen képzések, fejlesztések javasoltak az egyén számára.
 
 (2) Az (1) bekezdésben meghatározottak szerint képzési és fejlesztési javaslatokat a tárgyévet követő egyéni továbbképzési terv összeállítása során mérlegelni kell.

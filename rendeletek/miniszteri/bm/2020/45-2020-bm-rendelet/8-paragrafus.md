@@ -1,6 +1,4 @@
-## 7. § A KLIR-t a rendvédelmi szerv a Komplex Kompetencia Alapú Kiválasztási és Képzési Rendszer (a továbbiakban: KOMP-rendszer) elnevezésű informatikai keretrendszer igénybevételével hajtja végre.
-
-8. § (1) A KOMP-rendszer igénybevétele során a KLIR végrehajtása érdekében a rendvédelmi szerv a következő, általa törvény alapján a hivatásos állomány tagjáról és a hivatásos állományába jelentkezőről kezelt adatokat használja fel:
+8. § (1)[^7] A KOMP-rendszer igénybevétele során a rendvédelmi szerv a következő, általa törvény alapján a hivatásos állomány tagjáról és a hivatásos állományába jelentkezőről kezelt adatokat használja fel:
 
 a) név,
 
@@ -33,3 +31,5 @@ c) lehetőséget ad egyéni és összesített vélemények, jelentések és elem
 (3) A KOMP-rendszerben a hivatásos állomány személyi és szolgálati alapadatai a személyügyi alapnyilvántartás alapján, a Hszt. 107. §-a figyelembevételével kerülnek felhasználásra.
 
 (4) A KOMP-rendszerben folyamatosan, de legkésőbb az alkalmasságvizsgálati minősítés dátumát követő negyedév első hónapjának 15-éig rögzíteni kell az elvégzett alkalmasságvizsgálatokra vonatkozó minősítéseket.
+
+[^7]: A 8. § (1) bekezdés nyitó szövegrésze a 43/2022. (XII. 19.) BM rendelet 132. §-a szerint módosított szöveg.

@@ -1,5 +1,5 @@
-## végzi.
-
 18. § (1) Az alkalmasságvizsgálatot végző személy nem lehet a vizsgált személy Hszt. 2. § 13. pontja szerinti közeli hozzátartozója, valamint az, akitől a tárgyilagos megítélés egyéb okból nem várható el.
 
-(2) Az alkalmasságvizsgálatot végző személy jogszabályban és szakmai előírásban foglaltak szerint köteles az alkalmasságvizsgálatot elvégezni és e tevékenysége során nem befolyásolható.
+(2)[^10] Az alkalmasságvizsgálatot végző személy jogszabályban és szakmai előírásban foglaltak szerint köteles az alkalmasságvizsgálatot elvégezni és e tevékenysége során nem befolyásolható és nem utasítható.
+
+[^10]: A 18. § (2) bekezdése a 43/2022. (XII. 19.) BM rendelet 131. § e) pontja szerint módosított szöveg.

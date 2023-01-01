@@ -1,5 +1,3 @@
-## alkalmasságvizsgálat.
-
 ## 4. § Az alkalmasságvizsgálatok típusai
 
 a) a hivatásos állományba kinevezést megelőző,
@@ -17,3 +15,5 @@ f) az időszakos,
 g) a soron kívüli és
 
 h) az ismételt
+
+alkalmasságvizsgálat.

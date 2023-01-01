@@ -1,6 +1,6 @@
 7. melléklet a 45/2020. (XII. 16.) BM rendelethez
 
-## A fizikai képzési minimumfeltételek (az ún. „Három gyakorlat”) részletes leírása
+A fizikai képzési minimumfeltételek (az ún. „Három gyakorlat”) részletes leírása
 
 1. A rendvédelmi oktatási intézménybe felvételizők esetében a fizikai alkalmasságvizsgálatot az alábbiak szerint kell végrehajtani.
 

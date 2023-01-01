@@ -1,5 +1,3 @@
-## alkalmasságvizsgálat.
-
 5. § (1) Az alkalmasságvizsgálat Kétlépcsős Integrált Alkalmasságvizsgálati Rendszerben (a továbbiakban: KLIR) valósul meg.
 
 (2) A KLIR alapelvei a következők:

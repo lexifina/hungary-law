@@ -8,7 +8,7 @@ b) az állományilletékes parancsnok, a munkáltatói jogkör gyakorlására jo
 
 c) az alkalmasságvizsgálatot végző személy
 
-## kizárólag a részére biztosított informatikai hozzáférésen keresztül ismerheti meg.
+kizárólag a részére biztosított informatikai hozzáférésen keresztül ismerheti meg.
 
 (3) A KOMP-rendszer a pszichológiai kompetenciák mérésére használt felületen a pszichológiai vizsgálati adatokat elkülönítetten kezeli, ahhoz kizárólag a pszichológiai alkalmasságvizsgálatot végző személy részére biztosítható hozzáférés. Ezen felületről kizárólag a kompetenciamérés eredményei tehetők más személyek részére hozzáférhetővé.
 

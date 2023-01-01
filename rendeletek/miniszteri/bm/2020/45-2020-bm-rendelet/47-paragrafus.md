@@ -4,7 +4,7 @@ a) a Hszt. 36–40. §-a szerinti hivatásos állományba visszavétellel vagy
 
 b) a Magyar Honvédség állományából történő áthelyezéssel
 
-## kerül sor.
+kerül sor.
 
 (2) A rendőrség Hszt. 320–326. §-a szerinti különleges foglalkoztatási állományába történő felvételt megelőzően a hivatásos állományba kinevezést megelőző alkalmasságvizsgálatra vonatkozó rendelkezéseket kell alkalmazni.
 

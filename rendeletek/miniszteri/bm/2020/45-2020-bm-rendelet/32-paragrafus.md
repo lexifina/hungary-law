@@ -18,7 +18,7 @@ e) az a)–d) pontban meghatározott vizsgálatok kombinációjának , valamint
 
 f) – ha a vizsgált személy pszichológiai állapota indokolja – kiegészítő vizsgálatok
 
-## elvégzésével és a vizsgálat eredményeinek komplex kiértékelésével a vizsgálatot végző pszichológus minősíti.
+elvégzésével és a vizsgálat eredményeinek komplex kiértékelésével a vizsgálatot végző pszichológus minősíti.
 
 (4) A pszichológiai minimumfeltételeket a 2. melléklet tartalmazza.
 

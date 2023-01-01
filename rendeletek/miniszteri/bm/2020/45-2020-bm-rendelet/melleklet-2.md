@@ -1,4 +1,4 @@
-## A hivatásos szolgálat szempontjából kizáró oknak minősülő betegségek a nemzetközi osztályozásukra szolgáló kódrendszerben (BNO)
+## 0X09553_0
 
 |  | A | B | C | D |
 
@@ -140,7 +140,7 @@
 
 2. melléklet a 45/2020. (XII. 16.) BM rendelethez
 
-## A pszichológiai minimumfeltételek
+A pszichológiai minimumfeltételek
 
 1. A személyiség egészével kapcsolatos elvárások
 

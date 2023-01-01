@@ -1,10 +1,12 @@
 3. melléklet a 45/2020. (XII. 16.) BM rendelethez
 
-## A kompetenciavizsgálat keretében kötelezően vizsgálandó kompetenciák
+A kompetenciavizsgálat keretében kötelezően vizsgálandó kompetenciák
 
 1. Egységes közszolgálati alapkompetenciák
 
 1.1. Egyéni alapkompetenciák
+
+## 0X09558_0
 
 |  | A | B | C |
 
@@ -30,6 +32,8 @@
 
 1.2. Társas alapkompetenciák
 
+## 0X09558_1
+
 |  | A | B | C |
 
 | 1 | Név | Definíció | Viselkedéses jegyek |
@@ -43,6 +47,8 @@
 2. Irányítói kompetenciák
 
 2.1. Egyéni irányítói kompetenciák
+
+## 0X09558_2
 
 |  | A | B |
 
@@ -62,6 +68,8 @@
 
 2.2. Társas irányítói kompetenciák
 
+## 0X09558_3
+
 |  | A | B |
 
 | 1 | Név | Viselkedésjegyek |
@@ -73,6 +81,8 @@
 | 4 | IX. Konfliktuskezelés, együttműködés | – Felismeri, ha konfliktushelyzetbe kerül. – Hatékonyan kezeli a konfliktusokat. – Alapvetően kerüli a konfliktust, de ha a helyzet megkívánja, felvállalja azt. – Motivált az együttműködésre, szereti a csapatmunkát. – Törekszik rá, hogy együttműködve olyan megoldást találjon, amely az érintett felek számára elfogadható. |
 
 2.3. Specifikus irányítói kompetenciák
+
+## 0X09558_4
 
 |  | A | B |
 
@@ -87,6 +97,8 @@
 3. Egységes közszolgálati vezetői kompetenciák
 
 3.1. Egyéni vezetői kompetenciák
+
+## 0X09558_5
 
 |  | A | B | C |
 
@@ -104,6 +116,8 @@
 
 3.2. Társas vezetői kompetenciák
 
+## 0X09558_6
+
 |  | A | B | C |
 
 | 1 | Név | Viselkedésjegyek középvezetői szint esetében | Viselkedésjegyek felsővezetői szint esetében |
@@ -119,13 +133,3 @@
 | 6 | XI. Konfliktuskezelés, érdekérvényesítés a. Személyre szabott motiválás, fejlesztés b. Személyészlelés, empátia, tolerancia c. Hatékony együttműködés megteremtése | – A konfliktushelyzeteket felismeri, az azokból adódó feszültségeket kezeli, hatékony megoldásukra törekszik. – A szervezeti egysége érdekeit hatékonyan, a másik fél érdekeit is figyelembe véve képviseli és érvényesíti. – Munkája során együttműködésre, partnerségre törekszik. | – A szervezetet érintő belső és külső (társszervek, civil intézmények stb. irányába) konfliktushelyzeteket felismeri, az azokból adódó feszültségeket kezeli, hatékony megoldásukat menedzseli. – Az általa irányított szervezet vagy szervezeti egység érdekeit befelé és kifelé hatékonyan, a másik fél érdekeit is figyelembe véve képviseli és érvényesíti. |
 
 3.3. Vezetői kompetenciák
-
-|  | A | B | C |
-
-| 1 | Név | Viselkedésjegyek középvezetői szint esetében | Viselkedésjegyek felsővezetői szint esetében |
-
-| 2 | XII. Munkatársak motiválása, fejlesztése a. Személyre szabott motiválás, fejlesztés b. Személyészlelés, empátia, tolerancia c. Hatékony együttműködés megteremtése | – Munkatársait ismeri, képességeikkel, erősségeikkel, fejlesztendő területeikkel tisztában van. – Mindezt a munkakörülményekkel együtt figyelembe véve képes a beosztottait motiválni és fejleszteni. – Beosztottaival szemben empatikus és toleráns. – Képes csapatot építeni. | – Az általa irányított és az alárendeltségébe tartozó szervezeti egységet, valamint a közvetlen munkatársait ismeri, azok célorientált fejlesztésére törekszik. |
-
-| 3 | XIII. Vezetői funkciók ellátása a. Tervezés, szervezés b. Irányítás, koordinálás, ellenőrzés | – Tervezi, szervezi, irányítja, koordinálja, ellenőrzi a szervezeti egysége tevékenységét. – Az adott feladat eredményes ellátásához szükséges erőforrásokat meghatározza, és ezek hatékony felhasználását irányítja. | – A szervezet eredményes működéséhez szükséges erőforrásokat megteremti, és ellenőrzi ezek hatékony felhasználását. |
-
-| 4 | XIV. Személyes példamutatás a. Hitelesség b. Szervezet iránti elkötelezettség c. Minőségre törekvés, igényesség | – Szakmai tevékenységében, általános emberi értékek területén, valamint a szervezet iránti lojalitásában példát mutat. | – Szakmai tevékenysége és előélete példaértékű, megtestesíti az általános emberi értékeket. – A szervezetet hitelesen és méltóan megjeleníti és képviseli. |

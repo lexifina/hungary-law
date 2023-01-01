@@ -4,7 +4,7 @@ a) 30 éves életkor alatt háromévente,
 
 b) 30 éves kortól kétévente
 
-## kerül sor.
+kerül sor.
 
 (2) A gyakoriság meghatározásának alapja az utolsó minősítés évében betöltött életkor.
 

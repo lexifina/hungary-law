@@ -20,7 +20,7 @@ d) a büntetés-végrehajtási szervezet hivatásos állománya esetében első 
 
 e) az idegenrendészeti szerv hivatásos állománya esetében első fokon a Rendőrségi Oktatási és Kiképző Központ, másodfokon az Országos Rendőr-főkapitányság
 
-## végzi.
+végzi.
 
 (5) A megkülönböztető jelzést használó és speciális gépjárművek vezetőinek előzetes és ezt követően ötévente rendszeres közlekedéspszichológiai vizsgálaton kell részt vennie.
 
