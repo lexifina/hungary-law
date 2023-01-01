@@ -1,5 +1,3 @@
-## 125. §[^68]
-
 ## 65. A közérdekű munka és pénzbüntetés átváltoztatása
 
 126. § (1) A bv. bíró a meghallgatás alapján
@@ -17,5 +15,3 @@ a) szabadságvesztésre átváltoztatása esetén a Bv. tv. 292. § (4) bekezdé
 b) közérdekű munkára átváltoztatása esetén a Btk. 113. § (4) bekezdése alapján megállapítja a pénzbüntetés, illetve az annak hátralevő része helyébe lépő közérdekű munka tartamát,
 
 c) átváltoztatása feltételeinek hiányában erről értesíti a GH-t.
-
-[^68]: A 125. §-t a 18/2020. (XII. 29.) IM rendelet 17. § b) pontja hatályon kívül helyezte.

@@ -1,5 +1,3 @@
-## az általános szabályok szerint megküldi az érintett hatóságnak, szervnek.
-
 141. § (1) Ha az elítélt a szabadságvesztés végrehajtására, annak végrehajtás alatt részesül kegyelemben, szabadításával egyidejűleg a bv. intézet a kegyelemmel érintett értesítőlapon a kegyelem tényét – a kegyelmi elhatározás megjelölésével és a foglalkozástól eltiltás, járművezetéstől eltiltás, kitiltás, sportrendezvények látogatásától való eltiltás, kiutasítás vagy közügyektől eltiltás leteltének napjával, továbbá e büntetések végrehajtását befolyásoló tényekkel és ezek fennállásának időtartamával – feltünteti, és a beszámításra vonatkozó adatok kitöltését követően az általános szabályok szerint megküldi az érintett hatóságnak vagy szervnek.
 
 (2) Ha a kegyelem más büntetésre is kiterjed, a bv. intézet a kegyelemmel érintett értesítőlapon a kegyelem tényét a kegyelmi elhatározás megjelölésével feltünteti, és az általános szabályok szerint megküldi az érintett hatóságnak, szervnek.

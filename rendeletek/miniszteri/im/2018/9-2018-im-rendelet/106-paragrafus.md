@@ -1,5 +1,3 @@
-## küldi meg.
-
 ## 53. Az óvadék
 
 106. § (1) Az óvadékot a bíróságon kezelt letétekről szóló igazságügyi miniszteri rendelet szabályai szerint kell letétbe helyezni. A bíróság az óvadékot megállapító véglegessé vált határozat közlésekor tájékoztatja a terheltet, illetve a védőt az óvadéknak elektronikus fizetéssel való teljesítésének lehetőségéről, átutalás esetére az óvadékot letétként kezelő bíróság (a továbbiakban: letétkezelő bíróság) letéti számlája számlaszámának megadásával.

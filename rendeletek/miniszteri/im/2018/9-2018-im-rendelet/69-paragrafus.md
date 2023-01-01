@@ -1,5 +1,3 @@
-## értesítése alapján továbbra is nyilvántartásban tartja.
-
 ## 38. Az elektronikus adat végleges hozzáférhetetlenné tételének végrehajtása
 
 69. § (1) A bíróság az elektronikus adat végleges hozzáférhetetlenné tételének elrendelésekor – mind az elektronikus adat eltávolításával, mind az elektronikus adathoz való hozzáférés megakadályozásával történő végrehajtás esetén – az ügydöntő határozatban az elektronikus adat forrásának azonosítására szolgáló
@@ -12,7 +10,7 @@ c) URL cím,
 
 d) portszám
 
-## feltüntetésével határozza meg az intézkedés hatálya alá tartozó elektronikus adatot.
+feltüntetésével határozza meg az intézkedés hatálya alá tartozó elektronikus adatot.
 
 (2) Abban az esetben, ha a bíróság az adott domain névhez kapcsolódó teljes elektronikus adattartalom eltávolítását rendeli el, akkor az IP cím, az URL cím és a portszám megadása mellőzhető.
 

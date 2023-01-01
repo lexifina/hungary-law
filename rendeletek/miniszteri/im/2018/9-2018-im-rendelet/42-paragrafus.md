@@ -8,8 +8,10 @@ a) a megjelölt címen ismeretlen, vagy onnan ismeretlen helyre távozott,
 
 b) a megadott kézbesítési címén vagy biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségén nem elérhető, illetve az megszűnt,
 
-## a bv. bíró a továbbiakban a Bv. tv. 19. §-a szerint jár el.
+a bv. bíró a továbbiakban a Bv. tv. 19. §-a szerint jár el.
 
-(4) A bv. bíró az elfogatóparancsban úgy rendelkezik, hogy az elítéltet a legközelebbi bv. intézetbe állítsák elő, és erről egyidejűleg értesíti a bv. csoport székhelyén működő megyei (fővárosi) bv. intézetet.
+(4)[^23] A bv. bíró az elfogatóparancsban úgy rendelkezik, hogy az elítéltet a legközelebbi bv. intézetbe állítsák elő, és erről egyidejűleg értesíti a bv. csoport székhelyén működő vármegyei (fővárosi) bv. intézetet.
 
 (5) A bv. bíró legalább háromhavonta ellenőrzi az elfogatóparancsok elektronikus nyilvántartásának szabályszerű vezetését, és azt, hogy az elfogatóparancs kibocsátását, illetve visszavonását átvezették-e.
+
+[^23]: A 42. § (4) bekezdése a 35/2022. (XII. 27.) IM rendelet 5. § 10. pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 ## 64. Kártalanítási eljárás az alapvető jogokat sértő elhelyezési körülményekből eredő sérelem orvoslására
 
-122. §[^63] (1) Ha a Bv. tv. 75/M. § (3) bekezdése alkalmazásának lehet helye, a bv. bíró a sértett részére felhívást küld ki, melyben a sértett részére megfelelő tájékoztatást kell adni arról, hogy milyen feltételek mellett kerülhet sor a kártalanítás megállapítása esetén az abból történő kielégítésre a javára megítélt és nem teljesített polgári jogi igény vagy a bűncselekmény miatt megítélt kártérítés vagy sérelemdíj erejéig.
+122. §[^89] (1) Ha a Bv. tv. 75/M. § (3) bekezdése alkalmazásának lehet helye, a bv. bíró a sértett részére felhívást küld ki, melyben a sértett részére megfelelő tájékoztatást kell adni arról, hogy milyen feltételek mellett kerülhet sor a kártalanítás megállapítása esetén az abból történő kielégítésre a javára megítélt és nem teljesített polgári jogi igény vagy a bűncselekmény miatt megítélt kártérítés vagy sérelemdíj erejéig.
 
 (2) A bv. bíró a felhívásban a sértettet
 
@@ -20,4 +20,4 @@ f) felhívja, hogy csatolja a polgári jogi igény, illetve a bűncselekmény mi
 
 (3) A bv. bíró az (1) bekezdés szerinti felhívást a sértettnek az ügyiratokban szereplő lakó- és tartózkodási helye mellett a személyiadat- és lakcímnyilvántartásban szereplő lakó-, illetve tartózkodási helyére is kézbesíti.
 
-[^63]: A 122. § a 18/2020. (XII. 29.) IM rendelet 14. §-ával megállapított szöveg.
+[^89]: A 122. § a 18/2020. (XII. 29.) IM rendelet 14. §-ával megállapított szöveg.

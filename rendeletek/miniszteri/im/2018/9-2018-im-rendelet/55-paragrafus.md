@@ -5,3 +5,5 @@
 a) fiatalkorú esetén körözés elrendelése,
 
 b) felnőtt korú esetén a pénzbüntetés szabadságvesztésre átváltoztatása
+
+végett.

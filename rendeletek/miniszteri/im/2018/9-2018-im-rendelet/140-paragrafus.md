@@ -9,3 +9,5 @@
 a) ennek a „Megjegyzés” rovatban történő feltüntetésével az irattárba helyezett értesítőlapot vagy
 
 b) az értesítőlapot és a kegyelem hatályvesztéséről szóló értesítést
+
+az általános szabályok szerint megküldi az érintett hatóságnak, szervnek.

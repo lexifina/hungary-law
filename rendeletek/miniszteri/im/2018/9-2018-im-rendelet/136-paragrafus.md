@@ -10,7 +10,7 @@ b) a törvényszéki végrehajtói ügykezelő irodának, valamint
 
 c) az ügyben elsőfokon eljárt bíróságnak
 
-## küldi meg.
+küldi meg.
 
 (3) Ha a fellebbezés elbírálásakor a másodfokú bíróság a határozatot megváltoztatva az elektronikus adathoz való hozzáférés végleges megakadályozásának elrendelését mellőzi, és
 
@@ -18,7 +18,7 @@ a) amennyiben a tárhelyszolgáltató eltávolítási kötelezettségének a má
 
 b) amennyiben az elrendelés feltételei egyéb okból nem állnak fenn, az elektronikus hírközlési szolgáltatókat a hozzáférés újbóli biztosítására kötelezi,
 
-## erről értesítőlapot állít ki, és azt a határozatával együtt három napon belül megküldi az NMHH-nak.
+erről értesítőlapot állít ki, és azt a határozatával együtt három napon belül megküldi az NMHH-nak.
 
 (4) Ha a fellebbezés elbírálásakor a másodfokú bíróság az elsőfokú határozatot hatályon kívül helyezi, erről értesítőlapot állít ki, és azt a határozatával együtt három napon belül megküldi az NMHH-nak. A bíróság az értesítőlap „Megjegyzés” rovatában feltünteti, hogy az elsőfokú határozat hatályon kívül helyezése folytán az elektronikus adathoz való hozzáférés végleges megakadályozását a KEHTA-ból törölni kell.
 

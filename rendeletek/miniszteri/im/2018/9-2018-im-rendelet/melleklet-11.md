@@ -1,6 +1,6 @@
 11. melléklet a 9/2018. (VI. 11.) IM rendelethez
 
-## KÖZÜGYEKTŐL ELTILTÁSRÓL ÉRTESÍTŐLAP ADATTARTALMA
+KÖZÜGYEKTŐL ELTILTÁSRÓL ÉRTESÍTŐLAP ADATTARTALMA
 
 1. A terhelt személyazonosító adatai
 

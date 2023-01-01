@@ -21,3 +21,5 @@ b) arról, hogy ha a jóvátételi munkát több szervezet vagy intézmény ált
 a) a Btk. 67. § (1) bekezdésében meghatározott idő leteltéig, vagy
 
 b) ha az igazolás határidejének a Be. 842. § (1) bekezdés b) pontja szerinti meghosszabbításáról határozott, annak tartamáig
+
+határidős nyilvántartásba helyezi.

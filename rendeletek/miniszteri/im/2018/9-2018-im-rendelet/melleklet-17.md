@@ -1,6 +1,6 @@
 17. melléklet a 9/2018. (VI. 11.) IM rendelethez
 
-## KÉNYSZERGYÓGYKEZELÉS ELRENDELÉSÉRŐL ÉS MEGSZÜNTETÉSÉRŐL ÉRTESÍTŐLAP ADATTARTALMA
+KÉNYSZERGYÓGYKEZELÉS ELRENDELÉSÉRŐL ÉS MEGSZÜNTETÉSÉRŐL ÉRTESÍTŐLAP ADATTARTALMA
 
 1. Kényszergyógykezelés alatt álló személyazonosító adatai
 

@@ -10,6 +10,6 @@ b) rendőrségi fogda helye szerint illetékes rendőri szervnek vagy
 
 c) javítóintézetnek
 
-## küldi meg.
+küldi meg.
 
 (4) Ha a határozat ellen fellebbezést jelentettek be, a másodfokú bíróság határozatát a kezelőiroda útján küldi meg a letartóztatást foganatosító rendőrségi fogdának, javítóintézetnek vagy bv. intézetnek.

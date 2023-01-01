@@ -1,8 +1,6 @@
-## 146. §[^86]
+1. melléklet a 9/2018. (VI. 11.) IM rendelethez[^119]
 
-1. melléklet a 9/2018. (VI. 11.) IM rendelethez[^87]
-
-## SZABADSÁGVESZTÉSRŐL ÉRTESÍTŐLAP ADATTARTALMA
+SZABADSÁGVESZTÉSRŐL ÉRTESÍTŐLAP ADATTARTALMA
 
 1. A terhelt személyazonosító adatai
 
@@ -228,5 +226,4 @@
 
 16.2. Keltezés, aláírás és az értesítőlapot kiállító tanács elnöki/bírói/bv. bírói tisztség megjelölése
 
-[^86]: A 146. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^87]: Az 1. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (1) bekezdése szerint módosított szöveg.
+[^119]: Az 1. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (1) bekezdése szerint módosított szöveg.

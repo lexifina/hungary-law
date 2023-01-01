@@ -6,6 +6,8 @@
 
 (4) Ha a felhívással érintett elzárás végrehajtásának megkezdése előtt az elítélttel szemben javítóintézetben foganatosított letartóztatást vagy javítóintézeti nevelést vesznek foganatba, a bv. bíró – ha az elzárás végrehajtásának nincs akadálya – az elzárásról kiállított értesítőlapra bírói rendelvényt vezet, és azt a határozatkiadmányokkal és egyéb ügyiratokkal megküldi a végrehajtásra kijelölt bv. intézetnek.
 
-(5) A bv. bíró az értesítőlap „Megjegyzés” rovatában feltünteti, hogy a bíróság a javítóintézetet felhívta arra, hogy a letartóztatás megszűnését vagy megszüntetését, a javítóintézetből való elbocsátást követő nappal, illetve ideiglenes elbocsátás esedékességével a javítóintézet székhelye szerint illetékes rendőrség útján intézkedjen az elítéltnek a javítóintézet székhelye szerint illetékes megyei bv. intézetbe való átszállítása iránt.
+(5)[^24] A bv. bíró az értesítőlap „Megjegyzés” rovatában feltünteti, hogy a bíróság a javítóintézetet felhívta arra, hogy a letartóztatás megszűnését vagy megszüntetését, a javítóintézetből való elbocsátást követő nappal, illetve ideiglenes elbocsátás esedékességével a javítóintézet székhelye szerint illetékes rendőrség útján intézkedjen az elítéltnek a javítóintézet székhelye szerint illetékes vármegyei bv. intézetbe való átszállítása iránt.
 
 (6) A bv. bíró a javítóintézet igazgatóját a 40. § (4) és (5) bekezdésének megfelelő alkalmazásával hívja fel intézkedésre, és a felhívást az elzárás végrehajtására kiállított értesítőlap másolatával a letartóztatást vagy javítóintézeti nevelést foganatosító javítóintézetnek küldi meg.
+
+[^24]: A 44. § (5) bekezdése a 35/2022. (XII. 27.) IM rendelet 5. § 11. pontja szerint módosított szöveg.

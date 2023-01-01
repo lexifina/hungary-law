@@ -10,7 +10,7 @@ a) nem dönt a feltételes szabadság megszüntetése kérdésében, de elrendel
 
 b) a feltételes szabadságot megszünteti,
 
-## az eredeti bírói aláírással ellátott határozatának átadásával az előállító rendőr útján intézkedik az elítélt bv. intézetbe szállítása iránt.
+az eredeti bírói aláírással ellátott határozatának átadásával az előállító rendőr útján intézkedik az elítélt bv. intézetbe szállítása iránt.
 
 (5) Az ügyészség indítványának elutasítása esetén a bv. bíró a szabadságvesztés ideiglenes foganatba vételét megszünteti, és az erről szóló határozatát a bv. bíró az elítéltet előállító bv. őrnek adja át.
 

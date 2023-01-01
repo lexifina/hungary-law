@@ -1,6 +1,6 @@
 14. melléklet a 9/2018. (VI. 11.) IM rendelethez
 
-## PÁRTFOGÓ FELÜGYELETRŐL ÉRTESÍTŐLAP ADATTARTALMA
+PÁRTFOGÓ FELÜGYELETRŐL ÉRTESÍTŐLAP ADATTARTALMA
 
 1. A terhelt személyazonosító adatai
 

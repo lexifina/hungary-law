@@ -1,6 +1,6 @@
 10. melléklet a 9/2018. (VI. 11.) IM rendelethez
 
-## KIUTASÍTÁSRÓL ÉRTESÍTŐLAP ADATTARTALMA
+KIUTASÍTÁSRÓL ÉRTESÍTŐLAP ADATTARTALMA
 
 1. A terhelt személyazonosító adatai
 

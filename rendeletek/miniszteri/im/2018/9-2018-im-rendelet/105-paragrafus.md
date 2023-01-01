@@ -7,3 +7,5 @@
 a) a magyar hatóság által kiállított úti okmánya visszavonása érdekében, azt az idegenrendészeti hatóságnak vagy a menekültügyi hatóságnak,
 
 b) a külföldi állam által kiállított úti okmányát az idegenrendészeti hatóságnak
+
+küldi meg.

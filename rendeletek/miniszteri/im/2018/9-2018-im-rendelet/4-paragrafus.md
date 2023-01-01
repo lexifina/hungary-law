@@ -26,7 +26,7 @@ a) a büntetőügyben eljáró bíróság ügydöntő határozata esetén az e r
 
 b) a polgári ügyben eljáró bíróság és a közjegyző jogerős
 
-## határozatának kiadmányát küldi meg.
+határozatának kiadmányát küldi meg.
 
 (4)[^6] Ha a (3) bekezdés szerinti megkeresés megküldését követően a végrehajtás alapját képező követelés
 
@@ -34,7 +34,7 @@ a) tekintetében a bíróság vagy – bűnügyi költség esetén az ügyészs�
 
 b) végrehajtását a bíróság, illetve az igazságügyért felelős miniszter felfüggesztette, elhalasztotta vagy félbeszakította,
 
-## a GH mint behajtást kérő a végrehajtás szüneteltetése érdekében az erről szóló határozatot, illetve az igazságügyért felelős miniszter döntéséről szóló tájékoztatást a végrehajtási ügyszámra hivatkozással haladéktalanul megküldi az állami adó- és vámhatóságnak.
+a GH mint behajtást kérő a végrehajtás szüneteltetése érdekében az erről szóló határozatot, illetve az igazságügyért felelős miniszter döntéséről szóló tájékoztatást a végrehajtási ügyszámra hivatkozással haladéktalanul megküldi az állami adó- és vámhatóságnak.
 
 (5)[^7] Ha a (3) bekezdés szerinti megkeresés megküldését követően a 13. § (2) bekezdésében meghatározottak szerint a rendkívüli jogorvoslat a fiatalkorúval szemben kiszabott pénzbüntetésre, vagyonelkobzásra vagy ingatlanra elrendelt elkobzásra, továbbá bűnügyi költségre vonatkozik, a GH, mint behajtást kérő haladéktalanul intézkedik a végrehajtási kérelem módosítása, illetve visszavonása iránt, és az erre irányuló megkereséshez mellékeli az erről szóló határozatot.
 

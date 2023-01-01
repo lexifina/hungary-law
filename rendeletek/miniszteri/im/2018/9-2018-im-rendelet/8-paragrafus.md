@@ -8,7 +8,7 @@ b) a Bv. tv. 34. § (2) és (3) bekezdése szerinti esetben, ha szabadságveszt�
 
 c) letartóztatásról vagy előzetes kényszergyógykezelésről hozott – halasztó hatályú fellebbezés folytán véglegessé vált vagy fellebbezésre tekintet nélkül végrehajtható – határozat esetén
 
-## haladéktalanul, minden érintettre nézve külön kiállítja a végrehajtás alapjául szolgáló értesítőlapot, és arra bírói rendelvényt vezet.
+haladéktalanul, minden érintettre nézve külön kiállítja a végrehajtás alapjául szolgáló értesítőlapot, és arra bírói rendelvényt vezet.
 
 (3) Ha a terhelt a (2) bekezdésben írt esetekben személyesen jelen van, a tanács elnöke az értesítőlapot papír alapon állítja ki, és arra bírói rendelvényt vezet. A végrehajtás foganatosítása érdekében a bíróság az értesítőlapot, továbbá ha a letartóztatásról vagy az előzetes kényszergyógykezelésről a vádemelés előtt határozott, a határozatkiadmányt át kell adni a terheltet előállító bv. őrnek vagy rendőrnek. E rendelkezés alkalmazása szempontjából a jelenlét telekommunikációs eszköz használatával történő biztosítása nem minősül személyes jelenlétnek.
 
@@ -32,7 +32,7 @@ b) a Kúria és az ítélőtábla esetében az elsőfokon eljárt bíróság sz�
 
 c) járásbíróság esetében a székhelye szerint illetékes
 
-## GH-nak küldi meg.
+GH-nak küldi meg.
 
 (8) A bíróság
 
@@ -40,6 +40,6 @@ a) szabadságvesztés, illetve elzárás kiszabása esetén, ha a végrehajtás 
 
 b) a (2) bekezdés a) és b) pontjában meghatározott esetben – annak közlésével, hogy az értesítőlap átadásra került – az egyéb kiszabott büntetésről vagy alkalmazott intézkedésről
 
-## kiállított értesítőlapot, illetve az azt helyettesítő határozatot a (7) bekezdésben meghatározott illetékes bv. csoportnak, illetve pénzbüntetés, elkobzás és vagyonelkobzás esetén az illetékes GH-nak küldi meg. A bv. csoport részére a határozat rendelkező részének jogerősítési záradékkal ellátott kiadmányát is mellékelni kell.
+kiállított értesítőlapot, illetve az azt helyettesítő határozatot a (7) bekezdésben meghatározott illetékes bv. csoportnak, illetve pénzbüntetés, elkobzás és vagyonelkobzás esetén az illetékes GH-nak küldi meg. A bv. csoport részére a határozat rendelkező részének jogerősítési záradékkal ellátott kiadmányát is mellékelni kell.
 
 (9) Az ügyiratokban rögzíteni kell, hogy mely terheltre, illetve érintettre milyen értesítőlapot, mikor és mely szerv részére továbbították. A papíralapú értesítőlap bv. őrnek vagy rendőrnek történő átadását az átvevő személy nevének és szolgálati azonosító számának feltüntetésével kell rögzíteni.

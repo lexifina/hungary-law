@@ -1,6 +1,6 @@
-19. melléklet a 9/2018. (VI. 11.) IM rendelethez[^90]
+19. melléklet a 9/2018. (VI. 11.) IM rendelethez[^122]
 
-## RENDBÍRSÁG ELZÁRÁSRA ÁTVÁLTOZTATÁSÁRÓL ÉRTESÍTŐLAP ADATTARTALMA
+RENDBÍRSÁG ELZÁRÁSRA ÁTVÁLTOZTATÁSÁRÓL ÉRTESÍTŐLAP ADATTARTALMA
 
 1. A terhelt/kötelezett személyazonosító adatai
 
@@ -94,4 +94,4 @@
 
 9.2. Keltezés, aláírás és az értesítőlapot kiállító tanács elnöki/bv. bírói tisztség megjelölése
 
-[^90]: A 19. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (3) bekezdése szerint módosított szöveg.
+[^122]: A 19. melléklet a 12/2022. (IV. 26.) IM rendelet 59. § (3) bekezdése szerint módosított szöveg.

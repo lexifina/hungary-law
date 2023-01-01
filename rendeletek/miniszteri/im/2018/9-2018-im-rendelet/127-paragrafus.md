@@ -5,3 +5,5 @@ a) a közérdekű munka szabadságvesztésre átváltoztatása esetén a helyéb
 b) a pénzbüntetés közérdekű munkára átváltoztatása esetén a közérdekű munka végrehajtása érdekében a 25. melléklet szerinti adattartalommal,
 
 c) a pénzbüntetés szabadságvesztésre átváltoztatása esetén a helyébe lépő szabadságvesztés végrehajtása érdekében a 26. melléklet szerinti adattartalommal
+
+értesítőlapot állít ki, egyebekben az általános szabályok szerint jár el.

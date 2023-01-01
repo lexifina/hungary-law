@@ -6,7 +6,7 @@ a) a pénzbüntetésről, a vagyonelkobzásról vagy az államot illető bűnüg
 
 b) a polgári jogi igénynek helyt adott
 
-## – a számlaszám megjelölésével – az ügydöntő határozat jogerősítési záradékkal ellátott rendelkező részének megküldésével értesíti a GH-t.
+– a számlaszám megjelölésével – az ügydöntő határozat jogerősítési záradékkal ellátott rendelkező részének megküldésével értesíti a GH-t.
 
 (3) A GH a biztosítékot a bíróság határozatának rendelkezése szerint számolja el.
 

@@ -1,6 +1,6 @@
 24. melléklet a 9/2018. (VI. 11.) IM rendelethez
 
-## KÖZÉRDEKŰ MUNKA SZABADSÁGVESZTÉSRE ÁTVÁLTOZTATÁSÁRÓL ÉRTESÍTŐLAP ADATTARTALMA
+KÖZÉRDEKŰ MUNKA SZABADSÁGVESZTÉSRE ÁTVÁLTOZTATÁSÁRÓL ÉRTESÍTŐLAP ADATTARTALMA
 
 1. A terhelt személyazonosító adatai
 
@@ -82,7 +82,7 @@
 
 4. Végrehajtásra vonatkozó adatok
 
-4.1. A közérdekű munka végrehajtó pártfogó felügyelői feladatkörében eljáró fővárosi és megyei kormányhivatal előírási tételszáma
+4.1.[^124] A közérdekű munka végrehajtó pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatal előírási tételszáma
 
 4.2. A tényleges munkavégzéssel ledolgozott közérdekű munka (óra, számmal és betűvel)
 
@@ -97,3 +97,5 @@
 7.2. Fiatalkorúval szemben kiszabott pénzbüntetés időközben teljesített befizetésére tekintettel a szabadságvesztés módosult végrehajtandó tartama (nap, számmal és betűvel)
 
 7.3. Keltezés, aláírás és az értesítőlapot kiállító bv. bírói tisztség megjelölése
+
+[^124]: A 24. melléklet 4. pont 4.1. alpontja a 35/2022. (XII. 27.) IM rendelet 5. § 34. pontja szerint módosított szöveg.

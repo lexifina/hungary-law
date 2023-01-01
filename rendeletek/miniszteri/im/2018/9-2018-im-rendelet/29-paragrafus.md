@@ -4,7 +4,7 @@ a) a felhívásra megjelent elítélt befogadása megtörtént, vagy
 
 b) a felhívással érintett szabadságvesztés végrehajtásának megkezdése előtt az elítéltnek más ügyben elrendelt letartóztatását vagy más ügyben jogerősen kiszabott szabadságvesztését vették foganatba,
 
-## a bv. bíró – ha időközben nem merült fel a szabadságvesztés végrehajtásának akadálya – bírói rendelvényt ad a szabadságvesztés végrehajtására.
+a bv. bíró – ha időközben nem merült fel a szabadságvesztés végrehajtásának akadálya – bírói rendelvényt ad a szabadságvesztés végrehajtására.
 
 (2) A bv. bíró a rendelvényadás előtt megvizsgálja, hogy az egyéb értesítőlapok és az írásba foglalt ügydöntő határozat jogerősítési záradékkal ellátott kiadmánya a bv. csoport részére átadásra került-e, hiánypótlás végett a jogerős ügydöntő határozatot hozó bíróságot keresi meg.
 

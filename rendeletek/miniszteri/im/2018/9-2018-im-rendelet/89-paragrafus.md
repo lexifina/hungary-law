@@ -10,6 +10,6 @@ b) kiadását, vagy
 
 c) megsemmisítését
 
-## rendelte el, az ügydöntő határozat rendelkező részének jogerősítési záradékkal ellátott kiadmányát a bűnjelkezelőnek is megküldi.
+rendelte el, az ügydöntő határozat rendelkező részének jogerősítési záradékkal ellátott kiadmányát a bűnjelkezelőnek is megküldi.
 
 (3) A bíróság a (2) bekezdés szerint jár el akkor is, ha a lefoglalt és kiadni rendelt dolgot már előzetesen értékesítették.

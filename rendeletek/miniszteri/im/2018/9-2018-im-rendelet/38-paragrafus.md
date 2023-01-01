@@ -6,7 +6,7 @@ a) részbeni befizetés esetén átirattal a szabadságvesztés módosult, végr
 
 b) a pénzbüntetés teljes összegének befizetése esetén – a (3) bekezdés szerinti kivétellel – az elítélt szabadítása érdekében
 
-## haladéktalanul intézkedik a végrehajtást foganatosító bv. intézetnél.
+haladéktalanul intézkedik a végrehajtást foganatosító bv. intézetnél.
 
 (3) Ha a pénzbüntetés megfizetése vagy részbeni megfizetését tanúsító szelvény bemutatása a bv. intézetnél hétköznap, munkaidőben történt, a bv. intézet azonnal rövid úton – szükség szerint telefaxon – megkeresi a GH-t annak tisztázása érdekében, hogy a befizetés valóban az adott pénzbüntetés fejében történt-e. Ha az előírási tételszám és a befizetési szelvény alapján a beazonosítás elvégezhető és a GH a befizetést visszaigazolja, a bv. intézet a terheltet azonnal szabadítja.
 

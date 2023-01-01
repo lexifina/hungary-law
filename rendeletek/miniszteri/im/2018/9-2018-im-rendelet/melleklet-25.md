@@ -1,6 +1,6 @@
 25. melléklet a 9/2018. (VI. 11.) IM rendelethez
 
-## PÉNZBÜNTETÉS HELYÉBE LÉPŐ KÖZÉRDEKŰMUNKÁRÓL ÉRTESÍTŐLAP ADATTARTALMA
+PÉNZBÜNTETÉS HELYÉBE LÉPŐ KÖZÉRDEKŰMUNKÁRÓL ÉRTESÍTŐLAP ADATTARTALMA
 
 1. A terhelt személyazonosító adatai
 

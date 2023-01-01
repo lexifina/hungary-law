@@ -10,7 +10,7 @@ ba) külön elektronikus okiratban végzi el, amelyet az értesítőlaphoz kapcs
 
 bb) oly módon végzi el, hogy az elektronikus formában kiállított értesítőlapot papíralapú okirattá alakítja át, és a javítást az a) pont szerint végzi el, majd azt elektronikus okirattá alakítja, és
 
-## a kijavított értesítőlapot három napon belül visszaküldi.
+a kijavított értesítőlapot három napon belül visszaküldi.
 
 (3) A kijavításra okot adó körülmény hiányában arról átiratban tájékoztatást ad, és a papíralapú értesítőlapot egyidejűleg visszaküldi.
 

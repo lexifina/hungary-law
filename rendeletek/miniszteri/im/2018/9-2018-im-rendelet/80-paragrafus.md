@@ -3,3 +3,5 @@
 a) a katona állományilletékes parancsnokának,
 
 b) az elítélt szolgálati viszonyának a büntetőeljárás jogerős befejezése előtti megszűnése esetén, a katona volt állományilletékes parancsnokának
+
+kell megküldeni.

@@ -6,4 +6,6 @@
 
 (3) Ha a jogerősen javítóintézeti nevelésre ítélt fiatalkorú a Btk. 92–92/B. §-a szerinti beszámítás alapján az elrendelt javítóintézeti nevelést letöltötte, a bíróság az értesítőlapra bírói rendelvényt nem vezet.
 
-(4) A bíróság a jogerős határozatát tájékoztatásul megküldi az illetékes gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatalnak az esetleges szükséges intézkedések megtétele érdekében.
+(4)[^56] A bíróság a jogerős határozatát tájékoztatásul megküldi az illetékes gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak az esetleges szükséges intézkedések megtétele érdekében.
+
+[^56]: A 75. § (4) bekezdése a 35/2022. (XII. 27.) IM rendelet 5. § 23. pontja szerint módosított szöveg.

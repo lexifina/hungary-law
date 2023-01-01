@@ -6,7 +6,7 @@ a) a bíróság rendelkezett, a bíróság az engedélyező végzés,
 
 b) az ügyészség rendelkezett, az ügyészség a további jogorvoslattal nem támadható határozat
 
-## megküldésével értesíti a GH-t.
+megküldésével értesíti a GH-t.
 
 (2) Biztosíték letétbe helyezésének engedélyezése esetén a GH a biztosítékot a befizetéskor előírja.
 

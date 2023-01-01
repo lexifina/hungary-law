@@ -10,7 +10,7 @@ a) a megjelölt címen ismeretlen,
 
 b) a megadott kézbesítési címén vagy biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségén nem elérhető, illetve az megszűnt,
 
-## a Bv. tv. 19. § (2) bekezdése alapján a BVOP az elítélt tartózkodási helyének megállapítása érdekében a személyes adat- és lakcímnyilvántartást, valamint az elítélt utolsó ismert lakcíme vagy tényleges tartózkodási helye szerint illetékes rendőrkapitányságot keresi meg.
+a Bv. tv. 19. § (2) bekezdése alapján a BVOP az elítélt tartózkodási helyének megállapítása érdekében a személyes adat- és lakcímnyilvántartást, valamint az elítélt utolsó ismert lakcíme vagy tényleges tartózkodási helye szerint illetékes rendőrkapitányságot keresi meg.
 
 (5) A BVOP az illetékes bv. bírónál kezdeményezi az elítélt körözésének elrendelését elfogatóparancs kibocsátásával, ha
 

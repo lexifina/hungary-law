@@ -18,7 +18,7 @@ a) elektronikus formában az elektronikusan kiállított értesítőlaphoz kapcs
 
 b) papíralapú értesítőlapon rávezetéssel
 
-## történik.
+történik.
 
 (5) A foglalkozástól eltiltás, a járművezetéstől eltiltás, a kitiltás, sportrendezvények látogatásától való eltiltás, kiutasítás, valamint a közügyektől eltiltás esetén az értesítőlapon a szabadságvesztés és az elzárás végrehajtására vonatkozó adatokat az a bv. intézet tünteti fel, amely a terheltet a büntetésből szabadítja. Az elektronikus okiratként kiállított értesítőlap végrehajtási adatokat tartalmazó részét a bv. intézet hitelesíti és a bíróság által kitöltött és hitelesített értesítőlappal egy dokumentumba foglalva küldi meg a végrehajtásért felelős szervnek.
 

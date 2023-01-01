@@ -6,6 +6,6 @@ a) a szabadságvesztés végrehajtásának elhalasztásáról, vagy
 
 b) rendkívüli jogorvoslati eljárásban a szabadságvesztés végrehajtásának felfüggesztéséről
 
-## döntött, a bv. csoport a határozat kiadmányát mellékeli a BVOP-nak küldendő értesítőlap másolatához.
+döntött, a bv. csoport a határozat kiadmányát mellékeli a BVOP-nak küldendő értesítőlap másolatához.
 
 (3) Ha a fiatalkorú elítélt a szabadságvesztést kiszabó ítélet jogerőre emelkedése után, de a szabadságvesztés végrehajtásának megkezdése előtt betölti a huszonegyedik életévet, a bv. bíró a végrehajtási fokozatot megállapító határozatát mellékeli a BVOP-nak küldendő értesítőlap másolatához.

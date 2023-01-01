@@ -10,7 +10,7 @@ a) az 5. melléklet szerinti adattartalommal kiállított értesítőlap, vagy
 
 b) az ügydöntő határozat Bv. tv. 34/A. §-a szerinti alaki követelményének megfelelő rendelkező részének a
 
-## megküldésével intézkedik az elsőfokon eljárt bíróság székhelye szerint illetékes törvényszék GH-jánál.
+megküldésével intézkedik az elsőfokon eljárt bíróság székhelye szerint illetékes törvényszék GH-jánál.
 
 (2) Az (1) bekezdés a) pontja szerinti esetben, ha az elítélt fiatalkorú az ügydöntő határozat rendelkező részét is mellékelnie kell.
 

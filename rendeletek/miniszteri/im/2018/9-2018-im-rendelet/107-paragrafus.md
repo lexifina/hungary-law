@@ -4,7 +4,7 @@ a) a letartóztatását más ügyben rendelték el, az óvadék megállapítás�
 
 b) a személyi szabadságot érintő bírói engedélyes kényszerintézkedés a Be. 288. § (4) bekezdése alapján megszűnt, az eljáró bíróság
 
-## külön határozattal dönt az óvadék visszaadásáról.
+külön határozattal dönt az óvadék visszaadásáról.
 
 (2) Az (1) bekezdés b) pontjában meghatározott esetben a bíróság a határozatában arról is rendelkezik, hogy az óvadék a letevőnek visszajár.
 

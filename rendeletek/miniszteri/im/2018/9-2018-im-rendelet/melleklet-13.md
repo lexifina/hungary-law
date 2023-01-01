@@ -1,6 +1,6 @@
 13. melléklet a 9/2018. (VI. 11.) IM rendelethez
 
-## JÓVÁTÉTELI MUNKAVÉGZÉS ELŐÍRÁSÁRÓL TANÚSÍTVÁNY ÉS FELHÍVÁS ADATTARTALMA
+JÓVÁTÉTELI MUNKAVÉGZÉS ELŐÍRÁSÁRÓL TANÚSÍTVÁNY ÉS FELHÍVÁS ADATTARTALMA
 
 1. A terhelt személyazonosító adatai
 

@@ -10,15 +10,15 @@ c) a bíróság felhívása alapján, a bíróság által megjelölt határnapon
 
 d) ha a megjelölt határidőn belül a törvényes képviselő nem szállította be, a bíróság megkeresése alapján a rendőrség
 
-## gondoskodik.
+gondoskodik.
 
 (3) A (2) bekezdés c) pontja szerinti esetben, ha a felhívás kézbesítésére került sor, a kézhezvétel visszaigazolását követően a bíróság a beszállítás határidejéről a javítóintézetet haladéktalanul tájékoztatja.
 
 (4) Ha a (2) bekezdés d) pontjában meghatározott rendőri intézkedés nem vezet eredményre, a bíróság a Bv. tv. 19. § (1) bekezdése alapján elfogatóparancsot bocsát ki.
 
-(5)[^35] Ha a javítóintézet arról értesíti a bíróságot, hogy a (4) bekezdés szerinti elfogatóparancs alapján a fiatalkorút befogadta, a bíróság haladéktalanul intézkedik az elfogatóparancs visszavonásáról.
+(5)[^57] Ha a javítóintézet arról értesíti a bíróságot, hogy a (4) bekezdés szerinti elfogatóparancs alapján a fiatalkorút befogadta, a bíróság haladéktalanul intézkedik az elfogatóparancs visszavonásáról.
 
-(6)[^36] Ha fiatalkorú befogadása a Be. CI. vagy CII. Fejezete szerinti eljárásban meghozott jogerős ügydöntő határozat végrehajtása érdekében kibocsátott elfogatóparancs alapján történt, a bíróság haladéktalanul intézkedik a jogerős ügydöntő határozatnak a fiatalkorú részére történő kézbesítéséről, amelyhez mellékeli a 29/A. melléklet szerinti kézbesítési ívet az átvétel igazolása és a fiatalkorú jogorvoslati jogáról való tájékoztatása érdekében.
+(6)[^58] Ha fiatalkorú befogadása a Be. CI. vagy CII. Fejezete szerinti eljárásban meghozott jogerős ügydöntő határozat végrehajtása érdekében kibocsátott elfogatóparancs alapján történt, a bíróság haladéktalanul intézkedik a jogerős ügydöntő határozatnak a fiatalkorú részére történő kézbesítéséről, amelyhez mellékeli a 29/A. melléklet szerinti kézbesítési ívet az átvétel igazolása és a fiatalkorú jogorvoslati jogáról való tájékoztatása érdekében.
 
-[^35]: A 76. § (5) bekezdését a 12/2022. (IV. 26.) IM rendelet 56. §-a iktatta be.
-[^36]: A 76. § (6) bekezdését a 12/2022. (IV. 26.) IM rendelet 56. §-a iktatta be.
+[^57]: A 76. § (5) bekezdését a 12/2022. (IV. 26.) IM rendelet 56. §-a iktatta be.
+[^58]: A 76. § (6) bekezdését a 12/2022. (IV. 26.) IM rendelet 56. §-a iktatta be.
