@@ -4,4 +4,4 @@
 
 (3) A Hivatal vizsgálja és elemzi a szellemi tulajdon védelmére vonatkozó jogszabályok hatályosulását, felméri és értékeli e jogszabályok alkalmazásának hatásait, tapasztalatait.
 
-(4) A szellemi tulajdon védelmének erősítése érdekében a Hivatal – összhangban a nemzetközi és az európai közösségi kötelezettségekkel, valamint a Kormány gazdaságstratégiai, kutatás-fejlesztési, innováció- és technológiapolitikai, illetve kulturális politikai célkitűzéseivel – kezdeményezi új iparjogvédelmi és szerzői jogi jogszabályok megalkotását, illetve a szabályozás módosítását, és részt vesz e jogszabályok előkészítésében.
+(4) A szellemi tulajdon védelmének erősítése érdekében a Hivatal – összhangban a nemzetközi és az európai uniós kötelezettségekkel, valamint a Kormány gazdaságstratégiai, kutatás-fejlesztési, innováció- és technológiapolitikai, illetve kulturális politikai célkitűzéseivel – kezdeményezi új iparjogvédelmi és szerzői jogi jogszabályok megalkotását, illetve a szabályozás módosítását, és részt vesz e jogszabályok előkészítésében.

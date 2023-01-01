@@ -52,4 +52,8 @@ f) a növényfajta-oltalom felélesztése.
 
 (9) A növényfajta-oltalmi eljárások általános szabályaira az (1)–(8) bekezdésben nem szabályozott kérdésekben a VII. fejezet rendelkezéseit kell megfelelően alkalmazni.
 
-(10)–(12)
+(10)
+
+(11)
+
+(12)

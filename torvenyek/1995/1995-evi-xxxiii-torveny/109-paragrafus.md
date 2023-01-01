@@ -44,4 +44,6 @@ b) a növényfajtával kapcsolatos kísérleti célú cselekményekre;
 
 c) olyan cselekményekre, amelyeket további fajták nemesítése céljából végeznek, továbbá – azt az esetet kivéve, ha a (4) bekezdés alkalmazásának van helye – az ilyen további fajtákra vonatkozó, a (2) és (3) bekezdésekben említett cselekményekre.
 
-(7)–(8)
+(7)
+
+(8)

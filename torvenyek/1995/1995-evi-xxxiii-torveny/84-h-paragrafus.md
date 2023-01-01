@@ -16,7 +16,7 @@
 
 (7) Ha a fordítás benyújtásakor nem fizették meg az (5) bekezdés szerinti díjat, a Szellemi Tulajdon Nemzeti Hivatala figyelmezteti a szabadalmast az (5) bekezdésben meghatározott határidőben történő hiánypótlásra. Ennek elmaradását úgy kell tekinteni, hogy a fordítást nem nyújtották be.
 
-(8) Ha az (1) bekezdésben előírt cselekményt nem teljesítik az ott megjelölt határidőn belül, és e cselekményt a (3) bekezdésben megszabott határidőn belül sem teljesítik a pótdíj megfizetése mellett, azt e törvény erejénél fogva úgy kell tekinteni, hogy az európai szabadalom oltalma Magyarországon, annak keletkezésétől fogva hatálytalan.
+(8) Ha az (1) bekezdésben előírt cselekményt nem teljesítik az ott megjelölt határidőn belül, és e cselekményt a (3) bekezdésben megszabott határidőn belül sem teljesítik a pótdíj megfizetése mellett, azt e törvény erejénél fogva úgy kell tekinteni, hogy az európai szabadalom oltalma Magyarországon, a bejelentés napjától hatálytalan.
 
 (9) A szabadalmi lajstrom külön részébe (54. §) be kell jegyezni az európai szabadalmat, ha az (1) bekezdésben előírt fordítást szabályszerűen benyújtották.
 

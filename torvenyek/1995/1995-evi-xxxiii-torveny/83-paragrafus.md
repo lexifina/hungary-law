@@ -2,6 +2,6 @@
 
 (2) Az európai szabadalom szövege magyar nyelvű fordításának elkészítésével járó költséget a szabadalmas viseli. A nemleges megállapítási eljárás többi költségét a kérelmező viseli.
 
-(3) A 81. § (4)–(6) bekezdéseit a nemleges megállapítási eljárásban is alkalmazni kell.
+(3) A 81. § (1a)–(1c) és (4)–(6) bekezdését a nemleges megállapítási eljárásban is alkalmazni kell.
 
 (4) A 81/A. § rendelkezéseit a nemleges megállapítási eljárásban is alkalmazni kell.

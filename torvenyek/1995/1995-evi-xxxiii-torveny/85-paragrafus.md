@@ -12,7 +12,7 @@
 
 a) az 53/A. § (3) bekezdésében felsorolt döntéseit;
 
-b) az eljárást felfüggesztő és a szabadalmi lajstromba való bejegyzés tárgyában hozott döntését;
+b) az eljárást felfüggesztő, a szabadalmi bejelentésekről vezetett nyilvántartásba és a szabadalmi lajstromba való bejegyzés tárgyában hozott döntését;
 
 c) az iratbetekintést kizáró vagy korlátozó azt a végzését, amellyel szemben az Ákr. rendelkezései szerint önálló jogorvoslatnak van helye;
 

@@ -4,7 +4,7 @@
 
 (2) A 42. § (1) bekezdésének d) pontja alapján az kérheti a szabadalom megsemmisítését, akit az a törvény szerint megilletne.
 
-(3) A 45. § (5)–(6) bekezdésében meghatározott adatokon túl a kérelemben meg kell jelölni a megsemmisítés alapjául szolgáló okokat, és mellékelni kell az okirati bizonyítékokat.
+(3) A 45. § (5)–(6) bekezdésében meghatározott adatokon túl a kérelemben meg kell jelölni a megsemmisítés alapjául szolgáló – a 42. § (1) bekezdésében meghatározott körbe tartozó – okot, és mellékelni kell az ezt alátámasztó bizonyítékokat.
 
 (4) A megsemmisítési kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
 

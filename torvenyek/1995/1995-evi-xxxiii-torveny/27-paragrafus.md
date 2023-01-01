@@ -6,4 +6,6 @@
 
 27. § (1) Hasznosítási szerződés (szabadalmi licenciaszerződés) alapján a szabadalmas engedélyt ad a találmány hasznosítására, a hasznosító pedig köteles ennek fejében díjat fizetni.
 
-(2)–(3)
+(2)
+
+(3)

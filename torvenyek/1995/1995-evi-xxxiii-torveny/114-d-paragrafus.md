@@ -1,6 +1,6 @@
 ## A növényfajta-oltalom megsemmisítése
 
-114/D. § (1) A növényfajta-oltalmat – keletkezésére visszaható hatállyal – meg kell semmisíteni, ha
+114/D. § (1) A növényfajta-oltalmat – a bejelentés napjára visszaható hatállyal – meg kell semmisíteni, ha
 
 a) a növényfajta-oltalom tárgya a 106. § (3) és (6) bekezdésében meghatározott feltételeknek nem felelt meg;
 

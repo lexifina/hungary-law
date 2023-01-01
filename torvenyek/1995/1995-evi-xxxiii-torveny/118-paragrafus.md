@@ -2,7 +2,7 @@
 
 118. § (1) Felhatalmazást kap a Kormány, hogy rendelettel megállapítsa az iparjogvédelmi szakértői testület szervezetének és működésének részletes szabályait.
 
-(2) Felhatalmazást kap a Kormány, hogy az egyes termékek kiegészítő oltalmára vonatkozó európai közösségi rendeletek végrehajtásához szükséges szabályokat rendelettel megállapítsa.
+(2) Felhatalmazást kap a Kormány, hogy az egyes termékek kiegészítő oltalmára vonatkozó európai uniós rendeletek végrehajtásához szükséges szabályokat rendelettel megállapítsa.
 
 (3) Felhatalmazást kap a kormány, hogy a biológiai anyagok szabadalmi eljárás céljából való letétbe helyezésének és kezelésének részletes szabályait rendelettel megállapítsa.
 

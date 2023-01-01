@@ -2,7 +2,7 @@
 
 a) szabadalmi, növényfajta-oltalmi, használati mintaoltalmi, topográfiaoltalmi, formatervezési mintaoltalmi, védjegy- és földrajzi árujelző-oltalmi, valamint kiegészítő oltalmi bejelentések vizsgálata, e bejelentések alapján az oltalom megadása és nyilvántartása, valamint a megadott jogokkal összefüggő eljárások lefolytatása;
 
-b) nemzetközi szabadalmi, ipari mintaoltalmi, védjegy- és eredetmegjelölési bejelentések vizsgálata és továbbítása, valamint a nemzetközi szerződésen alapuló regionális iparjogvédelmi együttműködésből, egyéb nemzetközi szerződésből, továbbá európai közösségi jogszabályból a nemzeti iparjogvédelmi hatóságra tartozó kutatási, vizsgálati, továbbítási, nyilvántartás-vezetési és egyéb eljárási cselekmények elvégzése.
+b) nemzetközi szabadalmi, ipari mintaoltalmi, védjegy- és eredetmegjelölési bejelentések vizsgálata és továbbítása, valamint a nemzetközi szerződésen alapuló regionális iparjogvédelmi együttműködésből, egyéb nemzetközi szerződésből, továbbá európai uniós jogszabályból a nemzeti iparjogvédelmi hatóságra tartozó kutatási, vizsgálati, továbbítási, nyilvántartás-vezetési és egyéb eljárási cselekmények elvégzése.
 
 (2) A vámhatóság megkeresésére a Hivatal tájékoztatást ad az iparjogvédelmi jogosult személyéről a szellemi tulajdonjogok megsértése miatt indult vámigazgatási eljárásban.
 

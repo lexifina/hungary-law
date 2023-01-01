@@ -4,4 +4,4 @@
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala a 83/B–83/H. §-okban szabályozott eljárásokban soron kívül jár el.
 
-(3) E törvény 81. §-ának (4)–(6) bekezdéseit a 83/B–83/G. §-okban szabályozott eljárásokban is alkalmazni kell.
+(3) A 81. § (1a)–(1c) és (4)–(6) bekezdését a 83/B–83/G. §-ban szabályozott eljárásokban is alkalmazni kell.

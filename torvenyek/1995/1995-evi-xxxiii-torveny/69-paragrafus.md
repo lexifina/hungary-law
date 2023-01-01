@@ -1,12 +1,6 @@
 ## Újdonságkutatás
 
-69. § (1) Ha a szabadalmi bejelentés megfelel a 65. § a) és b) pontjai alapján vizsgált feltételeknek és a bejelentő
-
-a) benyújtotta a magyar nyelvű szabadalmi leírást igényponttal, a kivonatot és – szükség szerint – a rajzot, vagy
-
-b) a 69/A. § (13) bekezdése szerinti kérelemmel él,
-
-a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az igénypontok alapján – figyelemmel a szabadalmi leírásra és a rajzra – újdonságkutatási jelentést készít.
+69. § (1) Ha a szabadalmi bejelentés megfelel a 65. § a) és b) pontja alapján vizsgált feltételeknek, és a bejelentő magyar vagy angol nyelven benyújtotta a szabadalmi leírást igényponttal, valamint a kivonatot és – szükség szerint – a rajzot, a Szellemi Tulajdon Nemzeti Hivatala elvégzi az újdonságkutatást, és az igénypontok alapján – figyelemmel a szabadalmi leírásra és a rajzra – újdonságkutatási jelentést készít.
 
 (1a) Ha a szabadalmi bejelentés – az összes igénypont vagy egyes igénypontok tekintetében – alkalmatlan arra, hogy vele kapcsolatban megfelelő újdonságkutatást lehessen elvégezni, az újdonságkutatási jelentés csupán az erre való utalást és ennek indokolását tartalmazza. Ha a szabadalmi bejelentés tartalmaz újdonságkutatásra alkalmas igénypontokat is, a Szellemi Tulajdon Nemzeti Hivatala ezekre nézve részleges újdonságkutatási jelentést készít.
 

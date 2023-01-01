@@ -4,7 +4,9 @@
 
 (2) Szabadalmi ügyekben nem alkalmazható az Ákr. 3. §-a, 5. § (1) bekezdése, 13. § (8) bekezdése, 14. § (1) bekezdése, 21. §-a, 26. §-a, 37. § (2) bekezdése, 46. § (2) bekezdése, 48. § (1)–(4) bekezdése, 62. § (1) bekezdése, 74. § (1) bekezdése, 75. §-a, 76. §-a, 87. §-a, 94. § (2) bekezdése, 97. §-a, 127. § (2) bekezdése és 130. §-a.
 
-(3) Szabadalmi ügyekben nem alkalmazhatóak az Ákr. jogutódlásra vonatkozó rendelkezései. Szabadalmi ügyekben sommás eljárásnak nincs helye és a kérelem kormányablaknál nem terjeszthető elő.
+(3) Szabadalmi ügyekben sommás eljárásnak nincs helye és a kérelem kormányablaknál nem terjeszthető elő.
+
+(3a) Szabadalmi ügyekben az Ákr.-nek a döntés kijavítására vonatkozó rendelkezései a végleges szabadalmi oltalom alapját képező leírás, igénypont és rajz tekintetében csak a döntés meghozatalától számított egy éven belül, és csak egy alkalommal alkalmazhatóak.
 
 (4) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó szabadalmi ügyekben – jogszabály eltérő rendelkezése hiányában – kérelemre jár el.
 
@@ -18,9 +20,11 @@ c) nem elektronikus úton történő kapcsolattartás esetén a kérelmező vagy
 
 (6) Ha a kérelmező, illetve képviselője a Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó szabadalmi ügyben elektronikus kapcsolattartásra kötelezett vagy elektronikus úton kíván kapcsolatot tartani a Szellemi Tulajdon Nemzeti Hivatalával, a kérelemnek az (5) bekezdésben meghatározott adatokon túl tartalmaznia kell
 
-a) a természetes személy kérelmező, illetve képviselő születési helyét és idejét, valamint anyja nevét;
+a) a természetes személy kérelmező, illetve képviselő születési helyét és idejét, valamint anyja nevét,
 
-b) a nem természetes személy kérelmező, illetve képviselő adószámát.
+b) a c) pont szerinti szervezetektől eltérő, nem természetes személy kérelmező, illetve képviselő adószámát, és
+
+c) a hivatali kapu tárhely használatára kötelezett szervezetek esetén a hivatali kapu rövid nevét és KRID azonosítóját.
 
 (7) A Szellemi Tulajdon Nemzeti Hivatala hatáskörébe tartozó szabadalmi ügyekben – tájékoztatás kérése és annak teljesítése, az iratokba való betekintés, valamint a szóbeli tárgyalás kivételével – kapcsolattartásnak csak írásbeli, valamint azonosításhoz kötött elektronikus úton van helye, tájékoztatás azonban nem kérhető és ilyen kérés nem teljesíthető rövid szöveges üzenet útján.
 
