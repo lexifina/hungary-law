@@ -1,3 +1,0 @@
-3. § (1) Ha az informatikai sorsolóprogram felhasználásával kiválasztott szerkezetátalakítási szakértővel összefüggésben kiderül, hogy vele szemben vagy a nevében eljáró szerkezetátalakítási szakértő természetes személlyel szemben kizáró vagy összeférhetetlenségi ok áll fenn, ezért ez a szerkezetátalakítási szakértő nem rendelhető ki, vagy a kirendelését a bíróság megszünteti, akkor a sorsolóprogram igénybevételével másik szerkezetátalakítási szakértőt kell kiválasztani, és annak kirendeléséről végzést hozni.
-
-(2) A Szát. 60. § (1) bekezdése szerinti esetben a bíróság a 2. §-ban foglaltak alkalmazásával választja ki a másik szerkezetátalakítási szakértőt, és hoz végzést annak kirendeléséről.
