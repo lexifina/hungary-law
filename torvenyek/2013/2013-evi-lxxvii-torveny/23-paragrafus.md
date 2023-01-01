@@ -10,6 +10,6 @@ a) a felnőttképzési tevékenységhez szükséges engedély megszerzésére,
 
 b) felnőttképzési tevékenység keretében szervezett képzésre,
 
-c) a felnőttképzők technikai feltételei fejlesztésére és
+c) a felnőttképzők technikai feltételei fejlesztésére
 
-d) a nemzetgazdasági szempontból kiemelt jelentőségű képzésre.
+d) a nemzetgazdasági szempontból kiemelt jelentőségű képzésre és.

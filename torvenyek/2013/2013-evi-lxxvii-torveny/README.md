@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-77-00-00
 | 2022-03-21 | 2022. évi I. törvény | 2013-77-00-00.22 |
 | 2022-09-01 | 2021. évi CXLVII. törvény | 2013-77-00-00.23 |
 | 2022-12-20 | 2022. évi LIX. törvény | 2013-77-00-00.24 |
+| 2023-01-01 | 2022. évi LIX. törvény | 2013-77-00-00.25 |

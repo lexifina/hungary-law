@@ -1,1 +1,1 @@
-### 33. §
+33. § E törvénynek a Módtv3.-mal megállapított 15. § (1) bekezdés d) pontja, 15/A. §-a, 16. § a) pontja, módosított 11. § (1) bekezdés b) pontja és (2) bekezdés e) pontja szerinti rendelkezéseit a Módtv3. hatálybalépésének időpontjában folyamatban levő képzések esetében is alkalmazni kell.
