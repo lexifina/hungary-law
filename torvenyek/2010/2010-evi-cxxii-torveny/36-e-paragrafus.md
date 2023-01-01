@@ -8,6 +8,6 @@ b) a Be.-n, illetve a Szabs. tv.-en alapuló, a NAV hatáskörébe tartozó eset
 
 c) ha az előállítás e törvényben meghatározott egyéb okból szükséges.
 
-(2) Az (1) bekezdés b) pontja alkalmazásában pénzügyőr alatt a Be.-n alapuló elővezetés végrehajtása körébe a NAV nyomozó hatósága állományában álló, a 34/Y. § (1a) bekezdés a) pontja szerinti pénzügyi nyomozót, a Szabs. tv.-en alapuló elővezetés végrehajtása körében a NAV állományában álló pénzügyőrt kell érteni.
+(2)
 
 (3) A NAV kormányrendeletben meghatározott szerve állományába tartozó pénzügyőr az (1) bekezdés a) pontjában meghatározott intézkedés foganatosítására – a hatáskörrel rendelkező nyomozó hatóság felkérése alapján – más nyomozó hatóság hatáskörébe tartozó bűncselekmény esetén is jogosult.

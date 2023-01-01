@@ -2,7 +2,7 @@
 
 (2) A NAV területi szervei
 
-a) a megyei (fővárosi) adó- és vámigazgatóságok (a továbbiakban: megyei igazgatóságok),
+a) a vármegyei (fővárosi) adó- és vámigazgatóságok (a továbbiakban: vármegyei igazgatóságok),
 
 b) a Fellebbviteli Igazgatóság,
 
@@ -12,4 +12,4 @@ d) a Kormány rendeletében meghatározott igazgatóságok, illetve intézetek.
 
 (3) A NAV nyomozó hatósági feladatait a Bűnügyi Főigazgatóság és a NAV nyomozó hatósági feladatait ellátó területi szervei látják el.
 
-(4) A megyei igazgatóságok kirendeltségeket működtethetnek.
+(4) A vármegyei igazgatóságok kirendeltségeket működtethetnek.

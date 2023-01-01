@@ -8,7 +8,7 @@
 
 a) a NAV szervezeti felépítésére vonatkozó részletes szabályokat,
 
-b) a NAV szervei hatáskörére és illetékességére vonatkozó szabályokat, továbbá egyes megyei adó- és vámigazgatóságok kijelölt kirendeltségei által ellátott feladatokat és illetékességüket,
+b) a NAV szervei hatáskörére és illetékességére vonatkozó szabályokat, továbbá egyes vármegyei igazgatóságok kijelölt kirendeltségei által ellátott feladatokat és illetékességüket,
 
 c) a Fenntartható Gazdaságfehéredésért Felelős Bizottság összetételének és működésének részletes szabályait.
 
