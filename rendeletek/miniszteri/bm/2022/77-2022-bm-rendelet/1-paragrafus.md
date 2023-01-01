@@ -1,0 +1,1 @@
+1. § A belügyminiszter irányítása alá tartozó rendvédelmi szervek és az Országgyűlési Őrség hivatásos állománya vonatkozásában a hivatásos pótlék értékének meghatározásáról szóló 20/2022. (VII. 15.) BM rendelet 7. melléklete helyébe az 1. melléklet lép.
