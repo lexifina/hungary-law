@@ -56,9 +56,10 @@
 
 ## 3.[^2]
 
-## 4. A Kormány a költségvetési fejezeteket érintő államháztartási stabilizációs intézkedésekről szóló 1325/2022. (VII. 11.) Korm. határozatot 2022. december 31. napjával visszavonja.
+## 4.[^3]
 
 1. melléklet az 1618/2022. (XII. 13.) Korm. határozathoz
 
 [^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
