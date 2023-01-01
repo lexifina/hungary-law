@@ -1,6 +1,6 @@
-1. melléklet a 67/2007. (XII. 28.) IRM rendelethez[^11]
+1. melléklet a 67/2007. (XII. 28.) IRM rendelethez[^19]
 
-1. BARANYA MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+1.[^20] BARANYA VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 1.1. Komlói Rendőrkapitányság
 
@@ -490,7 +490,7 @@
 
 1.4.93. Beremend közúti határátkelőhely
 
-1.4.94.[^12] Drávaszabolcs vízi határátkelőhely
+1.4.94.[^21] Drávaszabolcs vízi határátkelőhely
 
 1.4.95. Magyarbóly vasúti határátkelőhely
 
@@ -630,7 +630,7 @@
 
 1.5.66. Zók
 
-2. BÁCS-KISKUN MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+2.[^22] BÁCS-KISKUN VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 2.1. Bajai Rendőrkapitányság
 
@@ -906,7 +906,7 @@
 
 2.8.10. Hercegszántó közúti határátkelőhely
 
-2.8.11.[^13] Bácsszentgyörgy közúti határátkelőhely
+2.8.11.[^23] Bácsszentgyörgy közúti határátkelőhely
 
 2.9. Határrendészeti Kirendeltség Bácsbokod
 
@@ -952,7 +952,7 @@
 
 2.11.7. Budapest-Kelebia-Subotica (Szabadka) vasútvonal
 
-3. BÉKÉS MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+3.[^24] BÉKÉS VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 3.1. Békési Rendőrkapitányság
 
@@ -1212,7 +1212,7 @@
 
 3.13.6. Zsadány
 
-4. BORSOD-ABAÚJ-ZEMPLÉN MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+4.[^25] BORSOD-ABAÚJ-ZEMPLÉN VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 4.1. Edelényi Rendőrkapitányság
 
@@ -2046,7 +2046,7 @@
 
 5.23. Dunai Vízirendészeti Rendőrkapitányság, Budapest
 
-6.[^14] CSONGRÁD-CSANÁD MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+6.[^26] CSONGRÁD-CSANÁD VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 6.1. Csongrádi Rendőrkapitányság
 
@@ -2194,23 +2194,23 @@
 
 6.7.6. Ruzsa
 
-6.7.7.[^15] Szeged – Szőreg, Marostő, Újszeged, valamint az Odessza-lakótelep városrészek kivételével – és a Tisza folyó
+6.7.7.[^27] Szeged – Szőreg, Marostő, Újszeged, valamint az Odessza-lakótelep városrészek kivételével – és a Tisza folyó
 
 6.7.8. Zákányszék
 
-6.7.9.[^16] Röszke közúti határátkelőhely
+6.7.9.[^28] Röszke közúti határátkelőhely
 
-6.7.10.[^17] Röszke autópálya határátkelőhely
+6.7.10.[^29] Röszke autópálya határátkelőhely
 
-6.7.11.[^18] Röszke vasúti határátkelőhely
+6.7.11.[^30] Röszke vasúti határátkelőhely
 
-6.7.12.[^19] Ásotthalom közúti határátkelőhely
+6.7.12.[^31] Ásotthalom közúti határátkelőhely
 
-6.7.13.[^20] Szeged vízi határátkelőhely
+6.7.13.[^32] Szeged vízi határátkelőhely
 
-6.7.14.[^21] Szeged–Röszke–Horgoš (Horgos) vasútvonal
+6.7.14.[^33] Szeged–Röszke–Horgoš (Horgos) vasútvonal
 
-6.7.15.[^22] Szeged vasútállomás
+6.7.15.[^34] Szeged vasútállomás
 
 6.8. Határrendészeti Kirendeltség Kiszombor
 
@@ -2236,9 +2236,9 @@
 
 6.8.11. Tiszasziget közúti határátkelőhely
 
-6.8.12.[^23] Szeged Szőreg, Marostő, Újszeged és Odessza-lakótelep városrészei a Tisza folyóig
+6.8.12.[^35] Szeged Szőreg, Marostő, Újszeged és Odessza-lakótelep városrészei a Tisza folyóig
 
-6.8.13.[^24] Kübekháza közúti határátkelőhely
+6.8.13.[^36] Kübekháza közúti határátkelőhely
 
 6.9. Határrendészeti Kirendeltség Nagylak
 
@@ -2264,9 +2264,9 @@
 
 6.9.11. Nagylak közúti határátkelőhely
 
-6.9.12.[^25] Csanádpalota autópálya határátkelőhely
+6.9.12.[^37] Csanádpalota autópálya határátkelőhely
 
-7. FEJÉR MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+7.[^38] FEJÉR VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 7.1. Bicskei Rendőrkapitányság
 
@@ -2496,7 +2496,7 @@
 
 7.6.34. Zámoly
 
-8. GYŐR-MOSON-SOPRON MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+8.[^39] GYŐR-MOSON-SOPRON VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 8.1. Csornai Rendőrkapitányság
 
@@ -2874,7 +2874,7 @@
 
 8.5.38. Zsira
 
-9. HAJDÚ-BIHAR MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+9.[^40] HAJDÚ-BIHAR VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 9.1. Balmazújvárosi Rendőrkapitányság
 
@@ -3102,7 +3102,7 @@
 
 9.9.22. Püspökladány-Biharkeresztes vasútvonal
 
-9.9.23.[^26] Nagykereki – Bors II (Bors II) autópálya határátkelőhely
+9.9.23.[^41] Nagykereki – Bors II (Bors II) autópálya határátkelőhely
 
 9.10. Határrendészeti Kirendeltség Létavértes
 
@@ -3164,7 +3164,7 @@
 
 9.11.12. Debrecen repülőtér légi határátkelőhely
 
-10. HEVES MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+10.[^42] HEVES VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 10.1. Egri Rendőrkapitányság
 
@@ -3418,7 +3418,7 @@
 
 10.5.17. Zaránk
 
-11. JÁSZ-NAGYKUN-SZOLNOK MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+11.[^43] JÁSZ-NAGYKUN-SZOLNOK VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 11.1. Jászberényi Rendőrkapitányság
 
@@ -3592,7 +3592,7 @@
 
 11.8. Tiszai Vízirendészeti Rendőrkapitányság, Szolnok
 
-12. KOMÁROM-ESZTERGOM MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+12.[^44] KOMÁROM-ESZTERGOM VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 12.1. Esztergomi Rendőrkapitányság
 
@@ -3760,7 +3760,7 @@
 
 12.7.10. Vértesszőlős
 
-13. NÓGRÁD MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+13.[^45] NÓGRÁD VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 13.1. Balassagyarmati Rendőrkapitányság
 
@@ -4036,7 +4036,7 @@
 
 13.6.14. Varsány
 
-14. PEST MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+14.[^46] PEST VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 14.1. Budaörsi Rendőrkapitányság
 
@@ -4438,7 +4438,7 @@
 
 14.13.35. Zebegény
 
-15. SOMOGY MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+15.[^47] SOMOGY VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 15.1. Barcsi Rendőrkapitányság
 
@@ -4954,7 +4954,7 @@
 
 15.7. Balatoni Vízirendészeti Rendőrkapitányság, Siófok
 
-16. SZABOLCS-SZATMÁR-BEREG MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+16.[^48] SZABOLCS-SZATMÁR-BEREG VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 16.1. Fehérgyarmati Rendőrkapitányság
 
@@ -5760,7 +5760,7 @@
 
 16.14.32. Debrecen-Záhony vasútvonal
 
-17. TOLNA MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+17.[^49] TOLNA VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 17.1. Bonyhádi Rendőrkapitányság
 
@@ -5990,7 +5990,7 @@
 
 17.5.32. Varsád
 
-18. VAS MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+18.[^50] VAS VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 18.1. Celldömölki Rendőrkapitányság
 
@@ -6436,7 +6436,7 @@
 
 18.6.23. Vasvár
 
-19. VESZPRÉM MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+19.[^51] VESZPRÉM VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 19.1. Ajkai Rendőrkapitányság
 
@@ -6886,7 +6886,7 @@
 
 19.7.34. Zirc
 
-20. ZALA MEGYEI RENDŐR-FŐKAPITÁNYSÁG
+20.[^52] ZALA VÁRMEGYEI RENDŐR-FŐKAPITÁNYSÁG
 
 20.1. Keszthelyi Rendőrkapitányság
 
@@ -6990,7 +6990,7 @@
 
 20.1.50. Zalavég
 
-20.1.51.[^27]
+20.1.51.[^53]
 
 20.2. Lenti Rendőrkapitányság
 
@@ -7244,15 +7244,15 @@
 
 20.3.76. Zalaújlak
 
-20.3.77.[^28] Letenye I. közúti határátkelőhely
+20.3.77.[^54] Letenye I. közúti határátkelőhely
 
-20.3.78.[^29] Letenye II. autópálya határátkelőhely
+20.3.78.[^55] Letenye II. autópálya határátkelőhely
 
-20.3.79.[^30] Murakeresztúr vasúti határátkelőhely
+20.3.79.[^56] Murakeresztúr vasúti határátkelőhely
 
-20.3.80.[^31] Budapest–Murakeresztúr–Kotoriba (Kotor) vasútvonal
+20.3.80.[^57] Budapest–Murakeresztúr–Kotoriba (Kotor) vasútvonal
 
-20.3.81.[^32] Sármellék repülőtér légi határátkelőhely
+20.3.81.[^58] Sármellék repülőtér légi határátkelőhely
 
 20.4. Zalaegerszegi Rendőrkapitányság
 
@@ -7426,7 +7426,7 @@
 
 21. MÁS RENDŐRI SZERV
 
-21.1.[^33] Repülőtéri Rendőr Igazgatóság
+21.1.[^59] Repülőtéri Rendőr Igazgatóság
 
 21.1.1. Budapest Liszt Ferenc Nemzetközi Repülőtér
 
@@ -7436,26 +7436,44 @@
 
 21.1.4. A légiforgalmi szolgálat központi létesítménye
 
-[^11]: Az 1. melléklet a 18/2015. (V. 21.) BM rendelet 2. §-ával megállapított szöveg.
-[^12]: Az 1. melléklet 1. alcím 1.4. pont 1.4.94. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
-[^13]: Az 1. melléklet 2.8. pont 2.8.11. pontját a 30/2021. (VIII. 31.) BM rendelet 1. §-a iktatta be.
-[^14]: Az 1. melléklet 6. alcím címe a 39/2020. (XI. 4.) BM rendelet 3. §-ával megállapított szöveg.
-[^15]: Az 1. melléklet 6.7.7. pontja a 30/2021. (VIII. 31.) BM rendelet 1. §-ával megállapított szöveg.
-[^16]: Az 1. melléklet 6. alcím 6.7. pont 6.7.9. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
-[^17]: Az 1. melléklet 6. alcím 6.7. pont 6.7.10. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
-[^18]: Az 1. melléklet 6. alcím 6.7. pont 6.7.11. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
-[^19]: Az 1. melléklet 6. alcím 6.7. pont 6.7.12. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
-[^20]: Az 1. melléklet 6. alcím 6.7. pont 6.7.13. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
-[^21]: Az 1. melléklet 6. alcím 6.7. pont 6.7.14. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
-[^22]: Az 1. melléklet 6. alcím 6.7. pont 6.7.15. alpontját a 79/2015. (XII. 23.) BM rendelet 1. §-a iktatta be.
-[^23]: Az 1. melléklet 6.8.12. pontja a 30/2021. (VIII. 31.) BM rendelet 1. §-ával megállapított szöveg.
-[^24]: Az 1. melléklet 6.8. pont 6.8.13. pontját a 30/2021. (VIII. 31.) BM rendelet 1. §-a iktatta be.
-[^25]: Az 1. melléklet 6. alcím 6.9. pont 6.9.12. alpontját a 79/2015. (XII. 23.) BM rendelet 1. §-a iktatta be.
-[^26]: Az 1. melléklet 9.9. pont 9.9.23. pontját a 30/2021. (VIII. 31.) BM rendelet 1. §-a iktatta be.
-[^27]: Az 1. melléklet 20.1. pont 20.51. alpontját a 12/2019. (IV. 9.) BM rendelet 1. §-a hatályon kívül helyezte.
-[^28]: Az 1. melléklet 20. alcím 20.3. pont 20.3.77. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
-[^29]: Az 1. melléklet 20. alcím 20.3. pont 20.3.78. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
-[^30]: Az 1. melléklet 20. alcím 20.3. pont 20.3.79. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
-[^31]: Az 1. melléklet 20. alcím 20.3. pont 20.3.80. alpontját a 79/2015. (XII. 23.) BM rendelet 1. §-a iktatta be.
-[^32]: Az 1. melléklet 20.3. pont 20.3.81. alpontját a 12/2019. (IV. 9.) BM rendelet 1. §-a iktatta be.
-[^33]: Az 1. melléklet 21. alcím 21.1. pontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^19]: Az 1. melléklet a 18/2015. (V. 21.) BM rendelet 2. §-ával megállapított szöveg.
+[^20]: Az 1. melléklet 1. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^21]: Az 1. melléklet 1. alcím 1.4. pont 1.4.94. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^22]: Az 1. melléklet 2. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^23]: Az 1. melléklet 2.8. pont 2.8.11. pontját a 30/2021. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^24]: Az 1. melléklet 3. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^25]: Az 1. melléklet 4. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet 6. alcím címe a 39/2020. (XI. 4.) BM rendelet 3. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^27]: Az 1. melléklet 6.7.7. pontja a 30/2021. (VIII. 31.) BM rendelet 1. §-ával megállapított szöveg.
+[^28]: Az 1. melléklet 6. alcím 6.7. pont 6.7.9. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^29]: Az 1. melléklet 6. alcím 6.7. pont 6.7.10. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^30]: Az 1. melléklet 6. alcím 6.7. pont 6.7.11. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^31]: Az 1. melléklet 6. alcím 6.7. pont 6.7.12. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^32]: Az 1. melléklet 6. alcím 6.7. pont 6.7.13. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^33]: Az 1. melléklet 6. alcím 6.7. pont 6.7.14. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^34]: Az 1. melléklet 6. alcím 6.7. pont 6.7.15. alpontját a 79/2015. (XII. 23.) BM rendelet 1. §-a iktatta be.
+[^35]: Az 1. melléklet 6.8.12. pontja a 30/2021. (VIII. 31.) BM rendelet 1. §-ával megállapított szöveg.
+[^36]: Az 1. melléklet 6.8. pont 6.8.13. pontját a 30/2021. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^37]: Az 1. melléklet 6. alcím 6.9. pont 6.9.12. alpontját a 79/2015. (XII. 23.) BM rendelet 1. §-a iktatta be.
+[^38]: Az 1. melléklet 7. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^39]: Az 1. melléklet 8. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^40]: Az 1. melléklet 9. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^41]: Az 1. melléklet 9.9. pont 9.9.23. pontját a 30/2021. (VIII. 31.) BM rendelet 1. §-a iktatta be.
+[^42]: Az 1. melléklet 10. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^43]: Az 1. melléklet 11. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^44]: Az 1. melléklet 12. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^45]: Az 1. melléklet 13. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^46]: Az 1. melléklet 14. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^47]: Az 1. melléklet 15. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^48]: Az 1. melléklet 16. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^49]: Az 1. melléklet 17. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^50]: Az 1. melléklet 18. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^51]: Az 1. melléklet 19. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^52]: Az 1. melléklet 20. pontja a 45/2022. (XII. 20.) BM rendelet 47. § d) pontja szerint módosított szöveg.
+[^53]: Az 1. melléklet 20.1. pont 20.51. alpontját a 12/2019. (IV. 9.) BM rendelet 1. §-a hatályon kívül helyezte.
+[^54]: Az 1. melléklet 20. alcím 20.3. pont 20.3.77. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^55]: Az 1. melléklet 20. alcím 20.3. pont 20.3.78. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^56]: Az 1. melléklet 20. alcím 20.3. pont 20.3.79. alpontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^57]: Az 1. melléklet 20. alcím 20.3. pont 20.3.80. alpontját a 79/2015. (XII. 23.) BM rendelet 1. §-a iktatta be.
+[^58]: Az 1. melléklet 20.3. pont 20.3.81. alpontját a 12/2019. (IV. 9.) BM rendelet 1. §-a iktatta be.
+[^59]: Az 1. melléklet 21. alcím 21.1. pontja a 79/2015. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
