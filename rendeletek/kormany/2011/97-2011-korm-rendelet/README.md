@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-97-20-2
 | 2020-03-01 | 2011-97-20-22.20 | 361/2019. (XII. 30.) Korm. rendelet |
 | 2020-07-31 | 2011-97-20-22.21 | 225/2013. (VI. 24.) Korm. rendelet |
 | 2022-12-23 | 2011-97-20-22.22 | 225/2013. (VI. 24.) Korm. rendelet |
+| 2023-01-01 | 2011-97-20-22.23 | 546/2022. (XII. 22.) Korm. rendelet |
