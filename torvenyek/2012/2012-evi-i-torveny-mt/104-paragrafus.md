@@ -18,4 +18,4 @@ foglalkoztatott munkavállaló esetében.
 
 (4) A (2) vagy a (3) bekezdés alkalmazása esetén a két egymást követően beosztott napi pihenőidők együttes tartama legalább huszonkét óra.
 
-(5) A készenlétet követően nem kell pihenőidőt beosztani, ha a munkavállaló munkát nem végzett.
+(5) Nem kell napi pihenőidőt beosztani, ha a munkáltató a munka befejezését közvetlenül követő napra munkaidőt nem oszt be, vagy rendkívüli munkaidőt nem rendel el.

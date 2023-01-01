@@ -8,4 +8,6 @@
 
 (4) A szabadság kiadásának időpontját a munkavállalóval legkésőbb a szabadság kezdete előtt tizenöt nappal közölni kell.
 
+(4a) A munkáltató a szülői szabadságot a munkavállaló kérésének megfelelő időpontban adja ki.
+
 (5) A szabadságot – a 125. §-ban foglaltakat kivéve – megváltani nem lehet.

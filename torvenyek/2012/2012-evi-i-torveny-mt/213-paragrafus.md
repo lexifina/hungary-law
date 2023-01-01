@@ -4,7 +4,7 @@
 
 a) a 192. §-ban,
 
-b) a 195. § (2)–(3) és (5) bekezdésében,
+b) a 195. § (2)–(3) bekezdésében,
 
 c) a 196. §-ban,
 

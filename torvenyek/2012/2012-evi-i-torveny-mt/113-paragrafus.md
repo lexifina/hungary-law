@@ -1,23 +1,35 @@
 ## 58. Az egyes munkavállalói csoportokra vonatkozó különös rendelkezések
 
-113. § (1) A munka- és pihenőidőre vonatkozó szabályokat a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni
+113. § (1) Rendkívüli munkaidő
 
-a) a munkavállaló várandóssága megállapításától a gyermek hároméves koráig,
+a) a munkavállaló számára várandóssága megállapításától gyermeke hároméves koráig,
 
-b) a gyermekét egyedül nevelő munkavállaló esetén gyermeke hároméves koráig,
+b) a gyermekét egyedül nevelő munkavállaló számára gyermeke hároméves koráig, vagy
 
-c) a munkaviszonyra vonatkozó szabályban meghatározott egészségkárosító kockázat fennállásakor.
+c) a munkáltató által a munkakörre vagy a munkavállalóra megállapított egészségkárosító kockázat esetén
 
-(2) Az (1) bekezdésben meghatározott esetben
+nem rendelhető el.
 
-a) egyenlőtlen munkaidő-beosztás csak a munkavállaló hozzájárulása esetén alkalmazható,
+(2) Rendkívüli munkaidő a gyermekét egyedül nevelő munkavállaló számára gyermeke hároméves korától négyéves koráig – a 108. § (2) bekezdésében foglaltakat kivéve – csak hozzájárulásával rendelhető el.
 
-b) a heti pihenőnapok egyenlőtlenül nem oszthatók be,
+(3) A munkaidő a 97. § (3) bekezdés b) és c) pontja szerint az (1) bekezdésben meghatározott munkavállaló számára nem osztható be.
 
-c) rendkívüli munkaidő vagy készenlét nem rendelhető el.
+(4) A munkaidő a 97. § (3) bekezdés a) pontja szerint az (1) bekezdésben meghatározott munkavállaló számára csak a munkavállaló írásbeli hozzájárulásával osztható be.
 
-(3) Az (1) bekezdés a)–b) pontban meghatározott munkavállaló számára éjszakai munka nem rendelhető el.
+(5) Éjszakai munka
 
-(4) Az (1) bekezdés c) pontban meghatározott esetben a munkavállaló beosztás szerinti napi munkaideje éjszakai munkavégzés során a nyolc órát nem haladhatja meg.
+a) a munkavállaló számára várandóssága megállapításától gyermeke hároméves koráig, vagy
 
-(5) A gyermekét egyedül nevelő munkavállaló számára – gyermeke hároméves korától négyéves koráig – rendkívüli munkaidő vagy készenlét – a 108. § (2) bekezdésében foglaltakat kivéve – csak hozzájárulásával rendelhető el.
+b) a gyermekét egyedül nevelő munkavállaló számára gyermeke hároméves koráig
+
+nem osztható be.
+
+(6) Éjszakai munka
+
+a) a nő számára gyermeke hároméves korától tízéves koráig, vagy
+
+b) a gyermekét egyedül nevelő munkavállaló számára gyermeke hároméves korától tízéves koráig
+
+csak írásbeli hozzájárulásával osztható be.
+
+(7) Éjszakai munka esetén a beosztás szerinti napi munkaidő a munkáltató által a munkakörre vagy a munkavállalóra megállapított egészségkárosító kockázat fennállásakor a nyolc órát nem haladhatja meg.

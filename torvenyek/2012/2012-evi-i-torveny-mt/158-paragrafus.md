@@ -1,4 +1,4 @@
-158. § (1) A munkabért készpénzben vagy a munkavállaló által meghatározott fizetési számlára utalással kell kifizetni.
+158. § (1) A munkabért a munkavállaló által megjelölt fizetési számlára utalással kell megfizetni. A felek írásbeli megállapodása esetén a munkabért készpénzben kell megfizetni.
 
 (2) A munkabér fizetési számlára utalással történő kifizetése esetén, a munkáltatónak úgy kell eljárni, hogy a munkavállaló munkabérével a bérfizetési napon rendelkezhessen.
 

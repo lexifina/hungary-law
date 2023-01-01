@@ -1,6 +1,6 @@
 ## 50. A munkaidő-beosztás szabályai
 
-96. § (1) A munkaidő-beosztás szabályait (munkarend) a munkáltató állapítja meg.
+96. § (1) A munkaidő-beosztás szabályait (munkarend) a munkáltató állapítja meg, és erről a 18. § szerint tájékoztatja a munkavállalót.
 
 (2) A munkáltató a munkaidő beosztásának jogát – a munkavégzés önálló megszervezésére tekintettel – a munkavállaló számára írásban átengedheti (kötetlen munkarend). A munkarend kötetlen jellegét nem érinti, ha a munkavállaló a munkaköri feladatok egy részét sajátos jellegüknél fogva meghatározott időpontban vagy időszakban teljesítheti.
 

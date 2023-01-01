@@ -2,11 +2,11 @@
 
 55. § (1) A munkavállaló mentesül rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól
 
-a) keresőképtelensége,
+a) keresőképtelensége időtartamára, vagy egyébként munkaköre ellátására egészségi okból való alkalmatlansága esetén annak időtartamára,
 
-b) a jogszabály szerinti, az emberi reprodukciós eljárással összefüggő, egészségügyi intézményben történő kezelés, valamint
+b) a jogszabály szerinti, az emberi reprodukciós eljárással összefüggő, egészségügyi intézményben történő kezelés,
 
-c) a kötelező orvosi vizsgálata tartamára, továbbá
+c) a kötelező orvosi vizsgálata tartamára,
 
 d) a véradáshoz szükséges, legalább négy óra időtartamra,
 
@@ -22,10 +22,16 @@ i) bíróság vagy hatóság felhívására, vagy az eljárásban való személy
 
 j) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra,
 
-k) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét tartamára, továbbá
+k) a különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét tartamára,
 
-l) munkaviszonyra vonatkozó szabályban meghatározott tartamra.
+l) a súlyos egészségi okból gondozásra szoruló hozzátartozójának, vagy a munkavállalóval közös háztartásban élő személynek nyújtott személyes gondozás céljából évente legfeljebb öt munkanapra, vagy
 
-(2) A munkáltató, ha a munkavállaló által elkövetett kötelezettségszegés körülményeinek kivizsgálása miatt indokolt, a vizsgálat lefolytatásához szükséges, de legfeljebb harminc napos időtartamra mentesítheti a munkavállalót rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól.
+m) munkaviszonyra vonatkozó szabályban meghatározott időre.
 
-(3) Az (1) bekezdés j) pontja szerinti esetben a munkavállalót a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a munkavállaló legalább öt munkanappal korábban tájékoztatja a munkáltatót.
+(2) Az (1) bekezdés j) pontja szerinti esetben a munkavállalót a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a munkavállaló legalább öt munkanappal korábban tájékoztatja a munkáltatót.
+
+(3) Az (1) bekezdés l) pontja szerinti mentesülést a jogosult kérésének megfelelő időpontban, legfeljebb két részletben kell biztosítani. A súlyos egészségi ok fennállását és a gondozás indokoltságát a gondozásra szoruló személy kezelőorvosa igazolja.
+
+(4) Az (1) bekezdés j) és l) pontja szerinti esetben a 124. § rendelkezéseit megfelelően alkalmazni kell.
+
+(5) A munkáltató, ha a munkavállaló által elkövetett kötelezettségszegés körülményeinek kivizsgálása miatt indokolt, a vizsgálat lefolytatásához szükséges, de legfeljebb harminc napra mentesítheti a munkavállalót rendelkezésre állási és munkavégzési kötelezettségének teljesítése alól.

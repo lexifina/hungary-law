@@ -2,13 +2,13 @@
 
 a) a Tanács 91/383/EGK irányelve (1991. június 25.) a határozott idejű vagy munkaerő-kölcsönzés céljából létesített munkaviszonyban álló munkavállalók munkahelyi biztonságának és egészségének javítását elősegítő intézkedések kiegészítéséről,
 
-b) a Tanács 91/533/EGK irányelve (1991. október 14.) a munkaadónak a munkavállalóval szembeni, a szerződés vagy a munkaviszony feltételeiről való tájékoztatási kötelezettségéről,
+b) az Európai Parlament és a Tanács (EU) 2019/1152 irányelve (2019. június 20.) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről,
 
 c) a Tanács 92/85/EGK irányelve (1992. október 19.) a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről (tizedik egyedi irányelv a 89/391/EGK irányelv 16. cikke (1) bekezdésének értelmében),
 
 d) a Tanács 94/33/EK irányelve (1994. június 22.) a fiatal személyek munkahelyi védelméről,
 
-e) a Tanács 2010/18/EU irányelve (2010. március 8.) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről,
+e) az Európai Parlament és a Tanács (EU) 2019/1158 irányelve (2019. június 20.) a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről,
 
 f) az Európai Parlament és a Tanács 96/71/EK irányelve (1996. december 16.) a munkavállalók szolgáltatások nyújtása keretében való kiküldetéséről,
 
@@ -33,3 +33,5 @@ o) az Európai Parlament és a Tanács 2015/1794/EU irányelve (2015. október 6
 p) az Európai Parlament és a Tanács 2014/59/EU irányelve (2014. május 15.) a hitelintézetek és befektetési vállalkozások helyreállítását és szanálását célzó keretrendszer létrehozásáról és a 82/891/EGK tanácsi irányelv, a 2001/24/EK, 2002/47/EK, 2004/25/EK, 2005/56/EK, 2007/36/EK, 2011/35/EU, 2012/30/EU és 2013/36/EU irányelv, valamint az 1093/2010/EU és a 648/2012/EU európai parlamenti és tanácsi rendelet módosításáról,
 
 q) az Európai Parlament és a Tanács (EU) 2018/957 irányelve (2018. június 28.) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv módosításáról.
+
+r) a Tanács (EU) 2018/131 irányelve (2018. január 23.) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) között a 2009/13/EK irányelvnek a 2006-os Tengerészeti Munkaügyi Egyezmény 2014. évi, a Nemzetközi Munkaügyi Konferencia által 2014. június 11-én jóváhagyott módosításával összhangban történő módosítása céljából létrejött megállapodás uniós jogba való átültetéséről.

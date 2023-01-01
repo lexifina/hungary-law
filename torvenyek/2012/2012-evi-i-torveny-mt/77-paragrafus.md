@@ -12,7 +12,7 @@ alapján szűnik meg.
 
 (2) A végkielégítésre való jogosultság feltétele, hogy a munkaviszony a felmondás közlésének vagy a munkáltató jogutód nélküli megszűnésének időpontjában a (3) bekezdésben meghatározott tartamban fennálljon. A végkielégítésre való jogosultság szempontjából nem kell figyelembe venni azt az egybefüggően legalább harminc napot meghaladó tartamot, amelyre a munkavállalót munkabér nem illette meg, kivéve
 
-a) a szülési szabadság és a gyermek ápolása, gondozása céljából igénybe vett fizetés nélküli szabadság (128. §),
+a) a szülési szabadság, a szülői szabadság és a gyermek ápolása, gondozása céljából igénybe vett fizetés nélküli szabadság (128. §),
 
 b) a tényleges önkéntes tartalékos katonai szolgálatteljesítés céljából igénybe vett fizetés nélküli szabadság (132. §) három hónapot meg nem haladó
 

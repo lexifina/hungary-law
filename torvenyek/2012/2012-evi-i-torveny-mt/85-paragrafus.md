@@ -12,17 +12,19 @@ foglaltaktól nem térhet el.
 
 (2) Kollektív szerződés
 
-a) a 63. § (2)–(3) bekezdésében,
+a) a 61. §-ban,
 
-b) a 65–68. §-ban,
+b) a 63. § (2)–(3) bekezdésében,
 
-c) a 71–76. §-ban,
+c) a 65–68. §-ban,
 
-d) a 78. §-ban,
+d) a 71–76. §-ban,
 
-e) a 81. §-ban,
+e) a 78. §-ban,
 
-f) a 83. §-ban
+f) a 81. §-ban,
+
+g) a 83. §-ban
 
 foglaltaktól csak a munkavállaló javára térhet el.
 

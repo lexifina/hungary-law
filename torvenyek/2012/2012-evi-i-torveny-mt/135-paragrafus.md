@@ -8,11 +8,15 @@ b) a 96. § (2) bekezdésében,
 
 c) a 122. § (5) bekezdésében,
 
-d) a 126. § (4) bekezdésében,
+d) a 124. §-ban,
 
-e) a 127. § (1)–(2) és (4) bekezdésében,
+e) a 125. §-ban,
 
-f) a 134. §-ban
+f) a 126. § (4) bekezdésében,
+
+g) a 127. § (1), (2) és (4) bekezdésében,
+
+h) a 134. §-ban
 
 foglaltaktól nem térhet el.
 
@@ -40,11 +44,11 @@ j) a 113–121. §-ban,
 
 k) a 122. § (3) bekezdésében,
 
-l) a 123. § (6) bekezdésében,
+l) a 123. § (5)–(6) bekezdésében,
 
-m) a 124. §-ban,
+m)
 
-n) a 125. §-ban,
+n)
 
 o) a 126. § (1)–(3) és (5) bekezdésében,
 
@@ -79,3 +83,5 @@ a) a beosztás szerinti munkaidő a 99. § (2) bekezdésben előírt tartamot le
 b) a megállapodást a munkavállaló a naptári hónap utolsó napjára, munkaidőkeret elrendelése esetén a munkaidőkeret utolsó napjára tizenöt napos határidővel felmondhatja.
 
 (6) Kollektív szerződés a (4) bekezdés szerint foglalkoztatott munkavállaló esetében osztott munkaidőt állapíthat meg.
+
+(7) Kollektív szerződés rendelkezése alapján a 97. § (4) bekezdés szerint közölt munkaidő-beosztás a beosztás szerinti napi munkaidő kezdetét megelőzően legfeljebb negyvennyolc órával módosítható.

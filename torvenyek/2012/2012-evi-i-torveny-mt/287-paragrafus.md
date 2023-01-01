@@ -12,6 +12,8 @@ e) a 81. § (2) bekezdésében meghatározottakkal
 
 kapcsolatos igény érvényesítése iránt.
 
+(1a) A keresetlevelet a 61. § (6) bekezdése és a 64. § (4) bekezdése szerinti igény érvényesítése esetén a munkáltató jognyilatkozatának közlésétől, vagy a jognyilatkozat megtételére rendelkezésre álló határidő lejártától számított harminc napon belül kell előterjeszteni.
+
 (2) A munkavállaló
 
 a) 40. § szerinti felmondásával, vagy

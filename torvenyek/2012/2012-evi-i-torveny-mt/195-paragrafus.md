@@ -8,4 +8,4 @@
 
 (4) A munkaviszonyt – eltérő megállapodás hiányában – bármely munkáltató vagy a munkavállaló jognyilatkozata megszünteti.
 
-(5) A munkaviszony a 63. § (1) bekezdés b) pontban meghatározott okból megszűnik, ha a munkáltatók száma egyre csökken.
+(5) A munkaviszony – eltérő megállapodás hiányában – a 63. § (1) bekezdés b) pontban meghatározott okból megszűnik, ha a munkáltatók száma egyre csökken.

@@ -16,10 +16,10 @@ d) 148–152. §-a
 
 (4) Törvény – ágazati, szakmai sajátosságokra tekintettel – e törvény rendelkezéseitől eltérhet.
 
-(5) Felhatalmazást kap a Kormány, hogy a munkaerő-kölcsönzési tevékenység folytatásának, a munkaerő-kölcsönzésért a kölcsönbeadónak és minősített kölcsönbeadónak fizetendő minimális kölcsönzési díjat, a kölcsönbeadó és a minősített kölcsönbeadó nyilvántartásba vételének feltételeit és részletes szabályait, a kölcsönzöttek részére nyújtandó szolgáltatásaikra, valamint az általuk létesített, munkavégzésre irányuló jogviszony egyes feltételeire vonatkozó szabályokat rendeletben állapítsa meg, és ennek során vagyoni biztosíték meglétét írja elő.
+(5) Felhatalmazást kap a Kormány, hogy a munkaerő-kölcsönzési tevékenység folytatásának, a munkaerő-kölcsönzésért a kölcsönbeadónak és minősített kölcsönbeadónak fizetendő minimális kölcsönzési díjat, a kölcsönbeadó és a minősített kölcsönbeadó nyilvántartásba vételének feltételeit és részletes szabályait, a kölcsönzöttek részére nyújtandó szolgáltatásaikra, valamint az általuk létesített, munkavégzésre irányuló jogviszony egyes feltételeire vonatkozó szabályokat rendeletben állapítsa meg, és ennek során vagyoni biztosíték meglétét írja elő, továbbá meghatározza a tevékenység végzésétől történő eltiltás részletes feltételeit.
 
 (6) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy a törvény alapján rendeletben részletesen szabályozza a központi közigazgatási szerveknél foglalkoztatott tartós külszolgálatot teljesítő munkavállalók külföldi munkavégzésének sajátos szabályait, valamint alapellátmányának, illetve a központi közigazgatási szerveknél foglalkoztatott ideiglenes külföldi kiküldetésen lévő munkavállalók napidíjának összegét és azok kifizetésének szabályait.
 
-(7) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére, valamint a pótszabadsággal összefüggő költségek megtérítésére vonatkozó szabályokat.
+(7) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető apasági szabadság igénybevételére és az apasági szabadsággal összefüggő díjazás, költségek megtérítésére vonatkozó szabályokat.
 
 (8) E törvény más jogszabályban alkalmazandó rövid megjelölése: Mt.

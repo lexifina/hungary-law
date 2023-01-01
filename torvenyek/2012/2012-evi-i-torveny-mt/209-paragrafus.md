@@ -2,13 +2,17 @@
 
 (2) A vezető munkaszerződése
 
-a) az 55. § (1) bekezdés b), c), e) és j) pontjában,
+a) az 55. § (1) bekezdés b), c), e), j), k) és l) pontjában,
 
-b) a 65. § (3) bekezdés a), b) és e) pontjában,
+b) a 65. § (3) bekezdés a)–d) és g) pontjában,
 
-c) a 113. § (3) bekezdésében, valamint
+c) a 113. § (5) bekezdésében,
 
-d) a 127. §-ban és a 128. §-ban
+d) a 118. § (4) bekezdésében,
+
+e) a 118/A. §-ban és
+
+f) a 127–128. §-ban
 
 foglaltaktól nem térhet el.
 

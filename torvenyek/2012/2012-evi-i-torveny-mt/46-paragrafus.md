@@ -1,31 +1,37 @@
 ## 26. A munkáltató írásbeli tájékoztatási kötelezettsége
 
-46. § (1) A munkáltató legkésőbb a munkaviszony kezdetétől számított tizenöt napon belül írásban tájékoztatja a munkavállalót
+46. § (1) A munkáltató legkésőbb a munkaviszony kezdetétől számított hét napon belül írásban tájékoztatja a munkavállalót
 
-a) a napi munkaidőről,
+a) a munkáltatói jogkör gyakorlójáról,
 
-b) az alapbéren túli munkabérről és egyéb juttatásokról,
+b) a munkaviszony kezdetéről, tartamáról,
 
-c) a munkabérről való elszámolás módjáról, a munkabérfizetés gyakoriságáról, a kifizetés napjáról,
+c) a munkahelyről,
 
 d) a munkakörbe tartozó feladatokról,
 
-e) a szabadság mértékéről, számítási módjáról és kiadásának, valamint
+e) a napi munkaidő tartamáról, a hét azon napjairól, amelyekre munkaidő osztható be, a beosztás szerinti napi munkaidő lehetséges kezdő és befejező időpontjáról, a rendkívüli munkaidő lehetséges tartamáról, a munkáltató tevékenységének sajátos jellegéről (90. §),
 
-f) a munkáltatóra és a munkavállalóra irányadó felmondási idő megállapításának szabályairól, továbbá
+f) a munkabérről való elszámolás módjáról, a munkabérfizetés gyakoriságáról, a kifizetés napjáról,
 
-g) arról, hogy a munkáltató kollektív szerződés hatálya alá tartozik–e, valamint
+g) az alapbéren túli munkabérről és egyéb juttatásról,
 
-h) a munkáltatói jogkör gyakorlójáról.
+h) a szabadságnapok számáról, számítási módjáról és kiadásának szabályairól,
 
-(2) Az (1) bekezdés a)–c), és e)–f) pontjában előírt tájékoztatás munkaviszonyra vonatkozó szabály rendelkezésére történő hivatkozással is megadható.
+i) a munkaviszony megszüntetésével összefüggő szabályokról, különösen a felmondási idő megállapításának szabályairól,
 
-(3) Ha a munkaviszony tizenöt nap eltelte előtt megszűnik, a munkáltató az (1) bekezdésben foglalt kötelezettségét a 80. § (2) bekezdésében meghatározott időpontban köteles teljesíteni.
+j) a munkáltató képzési politikájáról, a munkavállaló által igénybe vehető képzésre fordítható idő tartamáról,
 
-(4) A munkáltató megnevezésének, lényeges adatainak, továbbá az (1) bekezdésben meghatározottak változásáról a munkavállalót a változást követő tizenöt napon belül írásban tájékoztatni kell.
+k) a hatóság megnevezéséről, amely részére a munkáltató a munkaviszonnyal kapcsolatos közterhet megfizeti, valamint
 
-(5) Nem terheli a munkáltatót a tájékoztatási kötelezettség – az (1) bekezdés h) pontját kivéve –, ha a munkaszerződés alapján
+l) arról, hogy a munkáltató kollektív szerződés hatálya alá tartozik-e.
 
-a) a munkaviszony tartama az egy hónapot, vagy
+(2) Nem terheli a munkáltatót tájékoztatási kötelezettség olyan munkafeltételről, amelyben a felek írásban kifejezetten megállapodtak.
 
-b) a munkaidő a heti nyolc órát nem haladja meg.
+(3) Az (1) bekezdés e)–i) pontjában előírt tájékoztatás munkaviszonyra vonatkozó szabály rendelkezésére hivatkozással is megadható.
+
+(4) Ha a munkaviszony hét nap eltelte előtt megszűnik, a munkáltató az (1) bekezdés szerinti kötelezettségét a 80. § (2) bekezdésében meghatározott időpontban teljesíti.
+
+(5) A munkáltató az (1) bekezdésben, továbbá a 23. § (2) bekezdésében meghatározottak változásáról a munkavállalót legkésőbb a változás hatálybalépésének időpontjában írásban tájékoztatja. Nem terheli a munkáltatót tájékoztatási kötelezettség, ha a tájékoztatást a (3) bekezdés szerint adta meg.
+
+(6) Nem terheli a munkáltatót tájékoztatási kötelezettség – az (1) bekezdés a) pontját és a 193. § szerinti foglalkoztatást kivéve –, ha a napi munkaidő a fél órát nem haladja meg.

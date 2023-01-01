@@ -12,17 +12,21 @@ e) a 61. §-ban,
 
 f) a 81. §-ban,
 
-g) a 97. § (4) és (5) bekezdésében,
+g) a 91. §-ban,
 
-h) a 101. §-ban,
+h) a 92. § (2) bekezdésében,
 
-i) a 122–124. §-ban,
+i) a 97. § (4) és (5) bekezdésében,
 
-j) a 126–133. §-ban,
+j) a 101. §-ban,
 
-k) a 192. § (4) bekezdésében, valamint
+k) a 122–124. §-ban,
 
-l) a 208–211. §-ban
+l) a 126–133. §-ban,
+
+m) a 192. § (4) bekezdésében, valamint
+
+n) a 208–211. §-ban
 
 foglaltak nem alkalmazhatók.
 

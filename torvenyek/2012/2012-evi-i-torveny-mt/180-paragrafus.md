@@ -10,4 +10,4 @@
 
 (5) A munkáltató bizonyítja az (1) és a (3) bekezdésben meghatározott feltételek meglétét és a kárt.
 
-(6) Ha a megőrzésre átadott dologban megrongálódása folytán keletkezett kár, a munkavállaló mentesül a felelősség alól, ha bizonyítja, úgy járt el, ahogy az adott helyzetben általában elvárható.
+(6) A megőrzésre átadott dologban megrongálódása folytán keletkezett kárért a munkavállaló a 179. § alapján felel azzal, hogy abban az esetben mentesül a felelősség alól, ha bizonyítja, hogy úgy járt el, ahogy az adott helyzetben általában elvárható.

@@ -1,13 +1,21 @@
-114. § (1) A fiatal munkavállaló számára éjszakai munka, valamint rendkívüli munkaidő nem rendelhető el.
+114. § (1) A fiatal munkavállaló napi munkaideje legfeljebb nyolc óra lehet.
 
-(2) A fiatal munkavállaló napi munkaideje legfeljebb nyolc óra lehet és a több munkaviszony keretében történő munkavégzés munkaidejét össze kell számítani.
+(2) A tizenhat évesnél fiatalabb munkavállaló napi munkaideje legfeljebb hat óra lehet, kivéve azt a nappali rendszerű képzés keretében tanulmányokat folytató tizenötödik életévét betöltött tanulót, aki az iskolai szünet alatt munkát végez.
 
-(3) A fiatal munkavállaló számára
+(3) A fiatal munkavállaló beosztás szerinti napi munkaideje legfeljebb nyolc, a (2) bekezdés szerinti munkavállaló beosztás szerinti napi munkaideje legfeljebb hat óra lehet.
 
-a) legfeljebb egy heti munkaidőkeretet lehet elrendelni,
+(4) Több munkaviszony keretében történő foglalkoztatás esetén a beosztás szerinti napi munkaidőt össze kell számítani.
 
-b) négy és fél órát meghaladó beosztás szerinti napi munkaidő esetén, legalább harminc perc, hat órát meghaladó beosztás szerinti napi munkaidő esetén, legalább negyvenöt perc munkaközi szünetet,
+(5) A fiatal munkavállaló számára
 
-c) legalább tizenkét óra tartamú napi pihenőidőt kell biztosítani.
+a) rendkívüli munkaidő nem rendelhető el,
 
-(4) A fiatal munkavállaló esetében a heti pihenőnap és a heti pihenőidő egyenlőtlenül nem osztható be.
+b) a munkaidő a 97. § (3) bekezdés b) és c) pontja szerint nem osztható be,
+
+c) éjszakai munka nem osztható be,
+
+d) legfeljebb egyheti munkaidőkeretet lehet elrendelni,
+
+e) négy és fél órát meghaladó beosztás szerinti napi munkaidő esetén legalább harminc perc, hat órát meghaladó beosztás szerinti napi munkaidő esetén legalább negyvenöt perc munkaközi szünetet kell kiadni, és
+
+f) legalább tizenkét óra napi pihenőidőt kell beosztani.

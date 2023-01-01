@@ -4,9 +4,13 @@
 
 ## 29. Alapvető kötelezettségek
 
-51. § (1) A munkáltató köteles a munkavállalót a munkaszerződés és a munkaviszonyra vonatkozó szabályok szerint foglalkoztatni, továbbá – a felek eltérő megállapodása hiányában – a munkavégzéshez szükséges feltételeket biztosítani.
+51. § (1) A munkáltató köteles a munkavállalót a munkaszerződés és a munkaviszonyra vonatkozó szabályok szerint foglalkoztatni.
 
-(2) A munkáltató köteles a munkavállalónak azt a költségét megtéríteni, amely a munkaviszony teljesítésével indokoltan merült fel.
+(2) A munkáltató köteles a munkavállaló részére
+
+a) a munkaviszony teljesítésével felmerült szükséges és indokolt költséget megtéríteni,
+
+b) a munkavégzéshez szükséges feltételeket – eltérő megállapodás hiányában – biztosítani.
 
 (3) A munkavállalót csak olyan munkára lehet alkalmazni, amely testi alkatára, fejlettségére, egészségi állapotára tekintettel rá hátrányos következményekkel nem járhat. A munkáltató a munkavállaló egészségi állapotának változására tekintettel köteles a munkafeltételeket, a munkaidő-beosztást – a 6. §-ban foglaltak figyelembevételével – megfelelően módosítani.
 

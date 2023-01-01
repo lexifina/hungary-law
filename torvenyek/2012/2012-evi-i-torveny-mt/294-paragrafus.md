@@ -8,11 +8,11 @@ a) fiatal munkavállaló: a tizennyolcadik életévét be nem töltött munkavá
 
 b) hozzátartozó: a házastárs, az egyeneságbeli rokon, az örökbefogadott, a mostoha- és a nevelt gyermek, az örökbefogadó-, a mostoha- és a nevelőszülő és a testvér, az élettárs, az egyeneságbeli rokon házastársa, a házastárs egyeneságbeli rokona és testvére, és a testvér házastársa,
 
-c) gyermek: a családok támogatására vonatkozó szabályok szerinti saját háztartásban nevelt vagy gondozott gyermek; fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra,
+c) gyermek: a családok támogatásáról szóló törvény szerinti saját háztartásban nevelt vagy gondozott gyermek, ideértve, ha a különélő szülők a közös szülői felügyelet gyakorlásakor a gyermeket saját háztartásukban egymást felváltva, azonos időtartamban nevelik, gondozzák,
 
 d) kötelező orvosi vizsgálat: az az orvosi vizsgálat, amelyen a munkavállalónak munkaviszonyra vonatkozó szabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is,
 
-e) munkavállalói képviselő: az üzemi tanács tagja, az üzemi megbízott, a 273. § (3)–(4) bekezdése szerinti szakszervezeti tisztségviselő, a gazdasági társaság felügyelő bizottságának munkavállaló képviselője.
+e) munkavállalói képviselő: az üzemi tanács tagja, az üzemi megbízott, a 273. § (3) és (4) bekezdése szerinti szakszervezeti tisztségviselő, a munkavédelemről szóló törvény szerinti munkavédelmi képviselő, a gazdasági társaság felügyelő bizottságának munkavállaló képviselője,
 
 f) munkavégzésre irányuló jogviszony: a munkaviszony, a munkavégzési kötelezettséggel járó szövetkezeti tagsági viszony, a vállalkozási és megbízási szerződés, a gazdasági társaság vezető tisztségviselői vagy felügyelő bizottsági tagsági tevékenység ellátására irányuló jogviszony és az egyéni vállalkozás,
 
@@ -30,17 +30,9 @@ ge) öregségi, munkaképtelenségi járadékban részesül,
 
 gf) növelt összegű öregségi, munkaképtelenségi járadékban részesül, vagy
 
-gg) rokkantsági ellátásban részesül,
+gg)
 
-h) szülő:
-
-ha) a vér szerinti és az örökbefogadó szülő, továbbá az együttélő házastárs,
-
-hb) az, aki a saját háztartásában élő gyermeket örökbe kívánja fogadni, és az erre irányuló eljárás már folyamatban van,
-
-hc) a gyám,
-
-hd) a nevelőszülő és a helyettes szülő,
+h) fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra,
 
 i) gyermekét egyedül nevelő munkavállaló: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa,
 
@@ -61,5 +53,19 @@ lb) aki legalább 40 százalékos egészségkárosodással rendelkezik, az errő
 lc) akinek a munkaképesség-csökkenése 50–100 százalékos mértékű, az erről szóló szakvélemény időbeli hatálya alatt, vagy
 
 ld) rokkantsági ellátásban részesül.
+
+m) apa: a Ptk. szerint szülői felügyelettel rendelkező
+
+ma) apai jogállású férfi, vagy
+
+mb) örökbefogadó férfi,
+
+n) gondozást végző munkavállaló: az a munkavállaló, aki a kezelőorvos által igazolt
+
+na) súlyos egészségi okból, és
+
+nb) jelentős gondozásra vagy támogatásra szoruló
+
+hozzátartozójának, vagy a munkavállalóval közös háztartásban élő személynek személyes gondozást vagy támogatást nyújt.
 
 (2) A munkavállaló akkor részesül az (1) bekezdés g) pont gb) vagy gc) alpontja szerinti ellátásban, ha az ellátást jogerősen megállapították.

@@ -12,10 +12,8 @@ c) a szülési szabadság,
 
 d) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság (128. §) első hat hónapjának,
 
-e) a keresőképtelenség,
+e) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó,
 
-f) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó,
-
-g) a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés b)–l) pontban meghatározott
+f) a munkavégzés alóli mentesülésnek az 55. § (1) bekezdés a)–m) pontjában és (5) bekezdésében meghatározott
 
 tartama.
