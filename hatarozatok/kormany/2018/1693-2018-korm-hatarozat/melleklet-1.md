@@ -64,23 +64,9 @@
 
 ## – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – mindösszesen 4 520 768 000 forint forrást biztosít a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy az előkészítési fázisokat 9.1. alpont tekintetében legkésőbb 2022. december 31., a 9.2. és a 9.3. alpont tekintetében legkésőbb 2022. június 30., a 9.4. alpont tekintetében legkésőbb 2021. május 31. napjáig kell megvalósítani;
 
-## 10. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva – a 9. pontban foglaltak megvalósítása érdekében – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 4 520 768 000 forint egyszeri átcsoportosítását rendeli el, a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Budapest és a fővárosi agglomeráció fejlesztése jogcím, 2. Kulcsfontosságú budapesti közlekedési beruházások előkészítése jogcímcsoport javára, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszatérítési kötelezettséggel, az 1. melléklet szerint;
+## 10.[^5]
 
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: 2019. január 1-jét követően legkésőbb 2019. január 31-ig
-
-## Az elszámolási és visszafizetési kötelezettség tekintetében
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## Határidő: a fel nem használt rész visszafizetése tekintetében a 14. pont 14.1. alpontjában meghatározott jelentés tudomásulvételét követő 15 napon belül
-
-## 11.[^5] felhívja a pénzügyminisztert és a Miniszterelnökséget vezető minisztert, hogy gondoskodjanak a 3., 4. és 5. pont szerinti tervezési feladatok tekintetében – a 9. pontban biztosított forráson felül, a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak összegével együtt – összesen 5 484 128 000 forint többletforrás rendelkezésre állásáról a központi költségvetés XI. Miniszterelnökség fejezet, Fejezeti kezelésű előirányzatok cím, Célelőirányzatok alcím, Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, Kulcsfontosságú budapesti közlekedési beruházások előkészítése jogcímen, a következő ütemezéssel:
+## 11.[^6] felhívja a pénzügyminisztert és a Miniszterelnökséget vezető minisztert, hogy gondoskodjanak a 3., 4. és 5. pont szerinti tervezési feladatok tekintetében – a 9. pontban biztosított forráson felül, a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak összegével együtt – összesen 5 484 128 000 forint többletforrás rendelkezésre állásáról a központi költségvetés XI. Miniszterelnökség fejezet, Fejezeti kezelésű előirányzatok cím, Célelőirányzatok alcím, Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, Kulcsfontosságú budapesti közlekedési beruházások előkészítése jogcímen, a következő ütemezéssel:
 
 ## 11.1. a 2019. évben 136 476 000 forint,
 
@@ -106,7 +92,7 @@
 
 ## 13.3. a 2021. évre vonatkozó kötelezettségvállalás felső korlátja 1 350 000 000 forint;
 
-## 14.[^6] felhívja a kormánybiztost, hogy
+## 14.[^7] felhívja a kormánybiztost, hogy
 
 ## 14.1. készítsen jelentést a Kormány számára a 222/2017. (VIII. 11.) Korm. rendelet 7. § (1) bekezdése szerinti beszámolási kötelezettség teljesítése érdekében a 9. pontban meghatározott előkészítési fázisok végrehajtásának állapotáról, valamint az átcsoportosított forrás felhasznált összegéről,
 
@@ -132,86 +118,16 @@
 
 ## Határidő: a támogatási szerződésnek a támogatás felhasználása és utólagos elszámolása feltételeinek, valamint a feladat műszaki tartalmának és ütemezésének rögzítésével való megkötése esetében a 11. pont 11.1. alpontja teljesülését követően azonnal
 
-## 16.[^7]
+## 16.[^8]
 
-1. melléklet az 1693/2018. (XII. 17.) Korm. határozathoz
-
-| XI. Miniszterelnökség XV. Pénzügyminisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2019. forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XV. |  |  |  |  |  | Pénzügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 26 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 2 |  |  |  |  |  | Központi tartalékok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 368573 |  |  |  | 4 |  |  |  |  |  | Beruházás Előkészítési Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -4 520 768 000 |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  | 11 |  |  |  |  |  | Budapest és a fővárosi agglomeráció fejlesztése |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 359151 |  |  |  |  | 2 |  |  |  |  |  | Kulcsfontosságú budapesti közlekedési beruházások előkészítése |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 4 520 768 000 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  | 11 |  |  |  |  |  | Budapest és a fővárosi agglomeráció fejlesztése |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 359151 |  |  |  |  | 2 |  |  |  |  |  | Kulcsfontosságú budapesti közlekedési beruházások előkészítése |  |  |  |  |  |  |  |  | 4 520 768 000 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  | Összesen |  |  |  |  |  |  |  |  | I. n.év | II. n.év | III. n.év | IV. n.év |
-
-| Fejezetet irányító szerv | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  | 1 példány |  |  | egyéb: | 2019. január 31. |  | 4 520 768 000 |  |  |  |  |  |  |  |  | 4 520 768 000 |  |  |  |
-
-| Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1. melléklet az 1693/2018. (XII. 17.) Korm. határozathoz[^9]
 
 [^1]: Az 5. pont az 1389/2019. (VI. 29.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
 [^2]: A 7. pont az 1389/2019. (VI. 29.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
 [^3]: A 9. pont az 1389/2019. (VI. 29.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
 [^4]: A 9. pont 9.1. alpontja az 1389/2019. (VI. 29.) Korm. határozat 1. pontjával megállapított szöveg.
-[^5]: A 11. pont az 1389/2019. (VI. 29.) Korm. határozat 2. pont d) alpontja szerint módosított szöveg.
-[^6]: A 14. pont az 1389/2019. (VI. 29.) Korm. határozat 2. pont e) alpontja szerint módosított szöveg.
-[^7]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 10. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^6]: A 11. pont az 1389/2019. (VI. 29.) Korm. határozat 2. pont d) alpontja szerint módosított szöveg.
+[^7]: A 14. pont az 1389/2019. (VI. 29.) Korm. határozat 2. pont e) alpontja szerint módosított szöveg.
+[^8]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
