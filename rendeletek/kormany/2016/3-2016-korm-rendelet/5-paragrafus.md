@@ -1,5 +1,3 @@
-## a természetvédelemért felelős miniszter látja el.
-
 5. § (1) A Jegyzőkönyv 17. cikke szerinti ellenőrzési pontok:
 
 a) a genetikai erőforrások vagy genetikai erőforrásokhoz kapcsolódó hagyományos tudás hasznosításával járó kutatás-finanszírozás területén
@@ -10,7 +8,7 @@ ab) a Magyar Tudományos Akadémia;
 
 b) a genetikai erőforrás vagy genetikai erőforráshoz kapcsolódó hagyományos tudás felhasználásával kifejlesztett termék engedélyezése, forgalomba hozatala, ellenőrzése területén
 
-ba)[^2] a növénytermesztési, élelmiszerlánc-felügyeleti, erdészeti, vadászati, halgazdálkodási hatáskörében eljáró Pest Megyei Kormányhivatal,
+ba)[^2] a növénytermesztési, élelmiszerlánc-felügyeleti, erdészeti, vadászati, halgazdálkodási hatáskörében eljáró Pest Vármegyei Kormányhivatal,
 
 bb) az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet.
 
@@ -24,4 +22,4 @@ c) felhasználásával kifejlesztett terméket, illetve annak forgalomba hozatal
 
 d) felhasználásával kifejlesztett terméket, illetve annak forgalmazását ellenőrzi.
 
-[^2]: A 5. § (1) bekezdés b) pont ba) alpontja a 379/2016. (XII. 2.) Korm. rendelet 319. § b) pontjával megállapított szöveg.
+[^2]: A 5. § (1) bekezdés b) pont ba) alpontja a 379/2016. (XII. 2.) Korm. rendelet 319. § b) pontjával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 229. §-a szerint módosított szöveg.

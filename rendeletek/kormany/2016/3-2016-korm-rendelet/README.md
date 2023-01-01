@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-3-20-22
 | --- | --- | --- |
 | 2016-02-05 | 2016-3-20-22.1 | 3/2016. (I. 20.) Korm. rendelet |
 | 2017-01-01 | 2016-3-20-22.2 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2023-01-01 | 2016-3-20-22.3 | 379/2016. (XII. 2.) Korm. rendelet |

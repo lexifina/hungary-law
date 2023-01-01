@@ -1,5 +1,3 @@
-## végrehajtásával kapcsolatos eljárásokban kell alkalmazni.
-
 ## 2. Eljáró hatóságok és közreműködő szervek
 
 2. § (1) A Jegyzőkönyv 13. cikk 1. pontja szerinti nemzeti kapcsolattartó pont a természetvédelemért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium).

@@ -1,5 +1,3 @@
-## bírság megfizetésére kötelezi.
-
 ## 6. Záró rendelkezések
 
 10. § (1) Ez a rendelet a kihirdetését követő 16. napon lép hatályba.

@@ -6,4 +6,6 @@ a) 5. cikk (2) bekezdésében meghatározott mérlegelési és értesítési hat
 
 b) 5. cikk (4) bekezdésében meghatározott ellenőrzési feladatokat
 
+a természetvédelemért felelős miniszter látja el.
+
 [^1]: A 3. § a 379/2016. (XII. 2.) Korm. rendelet 319. § a) pontja szerint módosított szöveg.

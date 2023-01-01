@@ -6,4 +6,6 @@ b) a Rendelet 4. cikk 3. bekezdése szerinti kellő gondosság elmulasztása ese
 
 c) a Rendelet 4. cikk 3. bekezdése szerinti kellő gondosság elmulasztása esetén, ha a genetikai erőforrás vagy genetikai erőforráshoz kapcsolódó hagyományos tudás felhasználásával készült termék kereskedelmi forgalomba kerül, tízmillió forint
 
+bírság megfizetésére kötelezi.
+
 [^11]: A 9. § nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 319. § d) pontja szerint módosított szöveg.
