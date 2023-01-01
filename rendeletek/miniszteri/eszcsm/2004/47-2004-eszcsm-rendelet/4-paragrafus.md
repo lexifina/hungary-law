@@ -14,7 +14,7 @@ bc) ügyeleti szolgálatot,
 
 c) a munkavégzés helyszínén kívül szervezett készenléti szolgálatot
 
-## alakít ki.
+alakít ki.
 
 (3)[^2] A (2) bekezdésben foglalt feladatok elláthatók egy-egy szakterület térségi vagy országos feladatait ellátó speciális sürgősségi centrum szervezésével is.
 

@@ -1,5 +1,3 @@
-## történik.
-
 14. § (1)–(2)[^25]
 
 (3) Ügyelet szervezése akkor indokolt, ha a betegfelügyeleti feladatok mellett átlagosan az ügyeleti idő 25%-át meghaladóan, de legfeljebb annak 50%-áig sürgősségi ellátási és betegfelvételi feladatokat is teljesíteni kell.

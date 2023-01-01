@@ -14,13 +14,23 @@ a) változó telephelyű ügyelet: ha az adott napon az ügyeletet ellátó ház
 
 b) azonos telephelyű ügyelet: ha az adott ügyeleti körhöz tartozó háziorvosok ugyanazon a helyszínen látják el az ügyeleti szolgálatot.
 
-(5) Központi ügyelet az érintett háziorvosi körzetek lakosságának folyamatos vagy meghatározott időben történő alapellátási szintű sürgősségi ellátása az adott területet ellátó mentőszolgálattal együttműködve.
+(4a)[^31] A (3) bekezdés b) pontja szerinti azonos telephelyű ügyeleti helyszíneket az Országos Mentőszolgálat (a továbbiakban: OMSZ) határozza meg.
 
-(6) Az ügyeleti szolgálatot, valamint a központi ügyeletet (a továbbiakban: ügyelet) a területi ellátási kötelezettséggel működő háziorvos az önkormányzattal, illetve intézményével kötött szerződésének megfelelően látja el. A területi ellátási kötelezettség nélkül háziorvosi tevékenységet végző orvos az ügyelet működtetőjével kötött szerződésben rögzített feltételek szerint működik közre az ügyelet ellátásában.
+(5)[^32] Központi ügyelet az érintett háziorvosi körzetek lakosságának folyamatos vagy meghatározott időben történő alapellátási szintű sürgősségi ellátása, az adott területet ellátó mentőszolgálattal együttműködve, amelyet az Országos Mentőszolgálat (a továbbiakban: OMSZ) és a területi kollegiális szakmai vezető közreműködésével az a városi kórház alakít ki, amelynek ellátási területéhez az adott járás tartozik.
+
+(6)[^33] Az ügyeleti szolgálatot, valamint a központi ügyeletet (a továbbiakban: ügyelet) a területi ellátási kötelezettséggel működő háziorvos az OMSZ-szal kötött szerződésének megfelelően látja el. A területi ellátási kötelezettség nélkül háziorvosi tevékenységet végző orvos az ügyelet működtetőjével kötött szerződésben rögzített feltételek szerint működik közre az ügyelet ellátásában.
 
 (7) Az ügyeletre beosztott orvos akadályoztatása esetén – jelentési kötelezettség mellett – maga gondoskodik helyettesítéséről, ha ez nem lehetséges, akkor az ügyelet működtetője köteles gondoskodni a helyettesítésről.
 
 (8) Az ügyelet rendjét a rendelőben, illetve azon kívül kifüggesztett, jól olvasható tájékoztatón kell közölni a lakossággal.
+
+(8a)[^34] Az OMSZ a háziorvosi, házi gyermekorvosi részvételével működő ügyeletet hétköznap 16:00–22:00 óráig, hétvégén és ünnepnapokon 08:00–14:00 óráig biztosítja. A területi ellátási kötelezettséggel működő háziorvosi, házi gyermekorvosi szolgálatban dolgozó háziorvos, házi gyermekorvos az ügyeleti szolgálatban – a (8b) és (8c) bekezdésben foglaltak figyelembevételével – havonta legfeljebb 2 alkalommal részt vesz. Az ügyelet helyszíne az OMSZ által a járás területén megjelölt ügyeleti helyszín.
+
+(8b)[^35] A (8a) bekezdés szerinti ügyeleti ellátásban – a háziorvos, házi gyermekorvos ügyeleti idejében – a 16. § szerinti feladatokat a háziorvos, házi gyermekorvos által foglalkoztatott ápoló, gyermekápoló látja el.
+
+(8c)[^36] A területi ellátási kötelezettséggel működő háziorvosi, házi gyermekorvosi szolgálatban dolgozó háziorvos, házi gyermekorvos a (8a) bekezdés szerinti ügyeleti ellátást helyettesítéssel is elláthatja. Helyettesítés esetén a (8b) bekezdésben foglaltakat úgy kell alkalmazni, hogy a helyettesítő háziorvosi, házi gyermekorvosi szolgálat ápolója, gyermekápolója, asszisztense vesz részt az ügyeleti feladatokban.
+
+(8d)[^37] Az OMSZ által biztosított háziorvosi ügyelet hétköznap 22:00–08:00 óráig, hétvégén és ünnepnap 14:00–08:00 óráig tart.
 
 (9) Az ügyeletet teljesítő orvos
 
@@ -52,3 +62,10 @@ g) ellátja a halottakkal kapcsolatos rendelkezésekben előírt feladatokat.
 
 [^29]: A 15. §-ának (1) bekezdéséből az „vagy készenlétet” szövegrész e rendelet 23. §-ának (4) bekezdése alapján 2006. december 31-én hatályát vesztette.
 [^30]: A 15. § (3) bekezdése e rendelet 23. §-ának (4) bekezdése alapján 2006. december 31-én hatályát vesztette.
+[^31]: A 15. § (4a) bekezdését a 82/2022. (XII. 30.) BM rendelet 5. § (1) bekezdése iktatta be.
+[^32]: A 15. § (5) bekezdése a 82/2022. (XII. 30.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^33]: A 15. § (6) bekezdése a 82/2022. (XII. 30.) BM rendelet 7. § a) pontja szerint módosított szöveg. Az Alkotmánybíróság 1339/2026. (VII. 3.) AB határozatának 1. pontja alapján a 2023. január 1. napjától 2025. július 16. napjáig hatályban volt 15. § (6) bekezdése alaptörvény-ellenes volt, alkalmazásának kizárásáról lásd az 1339/2026. (VII. 3.) AB határozat 3. pontját.
+[^34]: A 15. § (8a) bekezdését a 82/2022. (XII. 30.) BM rendelet 5. § (3) bekezdése iktatta be. Az Alkotmánybíróság 1339/2026. (VII. 3.) AB határozatának 2. pontja alapján a 15. § (8a) bekezdésének 2023. január 1. napjától 2025. július 16. napjáig hatályban volt második mondata alaptörvény-ellenes volt, alkalmazásának kizárásáról lásd az 1339/2026. (VII. 3.) AB határozat 3. pontját.
+[^35]: A 15. § (8b) bekezdését a 82/2022. (XII. 30.) BM rendelet 5. § (3) bekezdése iktatta be.
+[^36]: A 15. § (8c) bekezdését a 82/2022. (XII. 30.) BM rendelet 5. § (3) bekezdése iktatta be.
+[^37]: A 15. § (8d) bekezdését a 82/2022. (XII. 30.) BM rendelet 5. § (3) bekezdése iktatta be.

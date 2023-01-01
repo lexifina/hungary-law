@@ -16,7 +16,7 @@ c) legalább 2 hét mentő gyakorlat teljesítését vagy mentőtiszt III. befej
 
 d) a választott szakmájának megfelelő szakterületen eltöltött legalább 3 hónap gyakorlat igazolását
 
-## követően osztható be személyes szakorvosi felügyelet mellett.
+követően osztható be személyes szakorvosi felügyelet mellett.
 
 (3a)[^21] Ha az első részvizsga teljesítésére a szakképzés 18. hónapját követően kerül sor, a szakorvosjelölt a szakképzés 18. hónapjának teljesítését követően, tutora javaslata alapján telefonos elérhetőség melletti felügyelet vagy behívásos rendszerben megvalósított felügyelet mellett is bevonható az ügyeleti ellátásba.
 

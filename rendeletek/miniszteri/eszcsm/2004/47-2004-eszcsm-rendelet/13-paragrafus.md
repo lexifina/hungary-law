@@ -10,7 +10,7 @@ d) eseti ügyeleti, illetve
 
 e) alapellátás keretében szervezett ügyeleti
 
-## rendszerben, illetve ezek kombinációjával szervezi meg.
+rendszerben, illetve ezek kombinációjával szervezi meg.
 
 (2) Osztályos ügyeletet ott kell szervezni, ahol az ügyeleti feladatok gyakorisága miatt a folyamatos ellátás készenlét szervezésével nem oldható meg.
 
@@ -27,3 +27,5 @@ a) háziorvosi,
 b) házi gyermekorvosi, illetve
 
 c) fogorvosi ellátás
+
+történik.
