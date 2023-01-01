@@ -16,7 +16,7 @@ e) ellenőrzi az engedélyhez kötött antibiotikum felhasználás rendjének be
 
 f) értékeli az intézményen belül az antimikrobiális kezelések megfelelőségét, együttműködve a Gyógyszerterápiás Bizottsággal;
 
-g) kapcsolatot tart az Országos Infekciókontroll és Antibiotikum Bizottsággal (a továbbiakban: OIAB) és a Megyei Infekciókontroll és Antibiotikum Bizottsággal (a továbbiakban: MIAB); valamint
+g)[^23] kapcsolatot tart az Országos Infekciókontroll és Antibiotikum Bizottsággal (a továbbiakban: OIAB) és a Vármegyei Infekciókontroll és Antibiotikum Bizottsággal (a továbbiakban: MIAB); valamint
 
 h) az intézményvezető felkérésére beszámol, és jelentést készít az országos tisztifőorvos részére a hatáskörébe tartozó szakmai területekről.
 
@@ -51,3 +51,4 @@ i) az intézmény fő ellátási profiljának megfelelő egyéb klinikai szakma 
 (9) A főigazgató az IIAB közreműködésével évente, továbbá – ha járványügyi esemény indokolttá teszi – soron kívüli jelentést küld az országos tisztifőorvosnak és a MIAB-nak az intézményi szintű egészségügyi ellátással összefüggő fertőzések és antimikrobiális rezisztencia járványügyi helyzetről, az infekciókontroll és antimikrobiális rezisztencia visszaszorítása érdekében végzett tevékenységéről és annak eredményeiről.
 
 [^22]: A 10. § a 32/2018. (IX. 28.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^23]: A 10. § (3) bekezdés g) pontja a 45/2022. (XII. 20.) BM rendelet 51. § c) pontja szerint módosított szöveg.

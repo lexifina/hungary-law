@@ -1,4 +1,4 @@
-## 14/A. §[^32] A NEAK az országos tisztifőorvos részére – megkeresésére – adatot szolgáltat az egészségügyi ellátással összefüggő fertőzésekkel és az antimikrobiális szer felhasználással kapcsolatos helyzetelemzéshez, a járványügyi intézkedések megalapozásához, valamint a nemzetközi kötelezettségvállalások alapján történő adatszolgáltatások támogatásához.
+## 14/A. §[^36] A NEAK az országos tisztifőorvos részére – megkeresésére – adatot szolgáltat az egészségügyi ellátással összefüggő fertőzésekkel és az antimikrobiális szer felhasználással kapcsolatos helyzetelemzéshez, a járványügyi intézkedések megalapozásához, valamint a nemzetközi kötelezettségvállalások alapján történő adatszolgáltatások támogatásához.
 
 ## Záró és átmeneti rendelkezések
 
@@ -16,20 +16,20 @@
 
 (7) A 13. § szerinti OIAB alakuló ülését e rendelet hatálybalépését követő 90 napon belül kell összehívni.
 
-(7a)[^33] Az 5. § (2) bekezdése szerinti helyi eljárásrendet 2018. december 1-jétől kell alkalmazni.
+(7a)[^37] Az 5. § (2) bekezdése szerinti helyi eljárásrendet 2018. december 1-jétől kell alkalmazni.
 
 (8) Ez a rendelet szabályozási tárgykörében a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a)[^34] a határokon átterjedő súlyos egészségügyi veszélyekről és a 2119/98/EK határozat hatályon kívül helyezéséről szóló, 2013. október 22-i 1082/2013/EU európai parlamenti és tanácsi határozat;
+a)[^38] a határokon átterjedő súlyos egészségügyi veszélyekről és a 2119/98/EK határozat hatályon kívül helyezéséről szóló, 2013. október 22-i 1082/2013/EU európai parlamenti és tanácsi határozat;
 
 b) a Tanács 2002/77/EC ajánlása (2001. november 15.) az antimikrobiális szerek körültekintő használatáról az embergyógyászatban;
 
-c)[^35] az egészségügyi ellátással összefüggő fertőzések megelőzését és leküzdését is magában foglaló betegbiztonságról szóló 2009. június 9-i 2009/C 151/01 tanácsi ajánlás.
+c)[^39] az egészségügyi ellátással összefüggő fertőzések megelőzését és leküzdését is magában foglaló betegbiztonságról szóló 2009. június 9-i 2009/C 151/01 tanácsi ajánlás.
 
-(9)[^36] Ez a rendelet az 1082/2013/EU európai parlamenti és tanácsi határozat szerint a korai figyelmeztető és gyorsreagáló rendszer keretében a határokon át terjedő súlyos egészségügyi veszélyekkel kapcsolatos riasztások kiadására, valamint az ilyen veszélyekkel kapcsolatos információcserére, konzultációra és a reagálás koordinációjára vonatkozó eljárások megállapításáról szóló, 2017. február 13-i (EU) 2017/253 bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.
+(9)[^40] Ez a rendelet az 1082/2013/EU európai parlamenti és tanácsi határozat szerint a korai figyelmeztető és gyorsreagáló rendszer keretében a határokon át terjedő súlyos egészségügyi veszélyekkel kapcsolatos riasztások kiadására, valamint az ilyen veszélyekkel kapcsolatos információcserére, konzultációra és a reagálás koordinációjára vonatkozó eljárások megállapításáról szóló, 2017. február 13-i (EU) 2017/253 bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^32]: A 14/A. §-t a 12/2012. (III. 6.) NEFMI rendelet 8. §-a iktatta be, szövege a 32/2018. (IX. 28.) EMMI rendelet 11. §-ával megállapított szöveg.
-[^33]: A 15. § (7a) bekezdését a 32/2018. (IX. 28.) EMMI rendelet 12. §-a iktatta be.
-[^34]: A 15. § (8) bekezdés a) pontja az 54/2015. (XI. 24.) EMMI rendelet 35. §-ával megállapított szöveg.
-[^35]: A 15. § (8) bekezdés c) pontját a 12/2012. (III. 6.) NEFMI rendelet 9. §-a iktatta be.
-[^36]: A 15. § (9) bekezdését a 12/2019. (VII. 3.) EMMI rendelet 5. §-a iktatta be.
+[^36]: A 14/A. §-t a 12/2012. (III. 6.) NEFMI rendelet 8. §-a iktatta be, szövege a 32/2018. (IX. 28.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^37]: A 15. § (7a) bekezdését a 32/2018. (IX. 28.) EMMI rendelet 12. §-a iktatta be.
+[^38]: A 15. § (8) bekezdés a) pontja az 54/2015. (XI. 24.) EMMI rendelet 35. §-ával megállapított szöveg.
+[^39]: A 15. § (8) bekezdés c) pontját a 12/2012. (III. 6.) NEFMI rendelet 9. §-a iktatta be.
+[^40]: A 15. § (9) bekezdését a 12/2019. (VII. 3.) EMMI rendelet 5. §-a iktatta be.
