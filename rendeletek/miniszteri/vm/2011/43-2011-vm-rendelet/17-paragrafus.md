@@ -5,3 +5,5 @@
 a) az élelmiszer-higiéniáról szóló 2004. április 29-i 852/2004/EK európai parlamenti és tanácsi rendelet 1. cikk (2) bekezdés c) pontja, 1. cikk (3) bekezdése,
 
 b) az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló 2004. április 29-i 853/2004/EK Európai Parlamenti és Tanácsi rendelet 1. cikk (3) bekezdés e) pontja, 1. cikk (4) bekezdése
+
+végrehajtásához szükséges rendelkezéseket állapítja meg.

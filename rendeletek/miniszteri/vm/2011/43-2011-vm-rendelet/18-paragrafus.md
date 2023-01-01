@@ -1,5 +1,3 @@
-## végrehajtásához szükséges rendelkezéseket állapítja meg.
-
 ## 18. § Hatályát veszti
 
 a) az elejtett vad jelöléséről, valamint kezelésének és forgalomba hozatalának élelmiszer-higiéniai és állat-egészségügyi feltételeiről szóló 141/2009. (X. 29.) FVM rendelet,

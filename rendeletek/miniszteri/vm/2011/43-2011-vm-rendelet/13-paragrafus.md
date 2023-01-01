@@ -1,5 +1,3 @@
-## a vadbegyűjtő hely fekvése szerint illetékes megyei kormányhivatal a vadbegyűjtő hely üzemeltetését egy évre megtiltja, és ennek tényét a nyilvántartásában feltünteti.
-
 13. § (1) Vadbegyűjtő helyet létesíteni szilárd burkolattal ellátott, csatornázott vagy szennyvízaknával rendelkező, bekerített helyen lehet, ahol ivóvíz minőségű víz rendelkezésre áll.
 
 (2) A vadbegyűjtő hely üzemeltetője nyilvántartást köteles vezetni

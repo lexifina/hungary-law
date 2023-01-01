@@ -1,5 +1,3 @@
-## VAD-KÍSÉRŐ JEGY MINTÁJA:
-
 ## Azonosító jel sorszáma:
 
 ## Vadászatra jogosult kódszáma:
@@ -26,13 +24,13 @@
 
 ## *** Ha a vizsgálatot hatósági vagy magán-állatorvos végezte
 
-2. melléklet a 43/2011. (V. 26.) VM rendelethez
+2. melléklet a 43/2011. (V. 26.) VM rendelethez[^43]
 
-## APRÓVAD GYŰJTŐIGAZOLÁS MINTÁJA:
+APRÓVAD GYŰJTŐIGAZOLÁS MINTÁJA:
 
 ## Sorszám a következő adattartalommal:
 
-1. a vadásztársaság helye szerinti megye kódja (NUTS),
+1. a vadásztársaság helye szerinti vármegye kódja (NUTS),
 
 2. hat számjegyű futósorszám.
 
@@ -55,3 +53,5 @@ Vizsgáló neve, aláírása:
 * A legközelebbi település nevét kell megadni.
 
 ** Ha a vizsgálatot hatósági vagy magán-állatorvos végezte.
+
+[^43]: A 2. melléklet a 126/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
