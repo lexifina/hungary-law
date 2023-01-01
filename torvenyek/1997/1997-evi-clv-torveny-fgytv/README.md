@@ -47,3 +47,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-155-00-00
 | 2022-05-28 | 2020. évi CXXXVI. törvény | 1997-155-00-00.65 |
 | 2022-07-26 | 2022. évi XXII. törvény | 1997-155-00-00.66 |
 | 2022-12-27 | 2022. évi LXI. törvény | 1997-155-00-00.68 |
+| 2023-01-01 | 2022. évi XXII. törvény | 1997-155-00-00.67 |

@@ -12,7 +12,7 @@ b) részére iskolarendszeren kívüli hatósági jellegű képzést követően 
 
 (3a) A vállalkozás olyan fogyasztóvédelmi referens foglalkoztatására köteles, akinek az államilag elismert fogyasztóvédelmi szakképesítése, szakképzettsége vagy az iskolarendszeren kívüli hatósági jellegű képzés során kiadott képesítési bizonyítványában szereplő szakiránya illeszkedik a foglalkoztató vállalkozás cégjegyzékben szereplő főtevékenységi köréhez.
 
-(4) Az (1) bekezdésben meghatározott vállalkozás legalább egy fogyasztóvédelmi referenst köteles foglalkoztatni minden olyan megyében és a fővárosban, ahol
+(4) Az (1) bekezdésben meghatározott vállalkozás legalább egy fogyasztóvédelmi referenst köteles foglalkoztatni minden olyan vármegyében és a fővárosban, ahol
 
 a) székhelyén, telephelyén vagy fióktelepén kiskereskedelmi tevékenységet folytat, továbbá
 
