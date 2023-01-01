@@ -1,8 +1,6 @@
-## 3–4. §[^1]
-
 1. melléklet a 180/2017. (VII. 5.) Korm. rendelethez
 
-## Közzétételi lista
+Közzétételi lista
 
 I. Szervezeti, személyzeti adatok
 
@@ -10,7 +8,7 @@ I. Szervezeti, személyzeti adatok
 
 | 1. | Adat | Frissítés | Megőrzés |
 
-| 2. | A nemzetbiztonsági szolgálat hivatalos neve, székhelye, postai címe, telefon- és telefaxszáma, elektronikus levélcíme, honlapja (amennyiben a szolgálat honlapja tartalmazza, a megyei kirendeltség címe, elérhetősége) | A változásokat követően azonnal | Az előző állapot törlendő |
+| 2. | A nemzetbiztonsági szolgálat hivatalos neve, székhelye, postai címe, telefon- és telefaxszáma, elektronikus levélcíme, honlapja (amennyiben a szolgálat honlapja tartalmazza, a vármegyei kirendeltség címe, elérhetősége)[^3] | A változásokat követően azonnal | Az előző állapot törlendő |
 
 | 3. | A nemzetbiztonsági szolgálatok szervezeti felépítése igazgatósági (ennek hiányában szervezeti egység) szintig, továbbá a hatósági feladatokat ellátó szervezeti egységek, a törvényben meghatározott feladataik rögzítésével | A változásokat követően azonnal | Az előző állapot törlendő |
 
@@ -46,4 +44,4 @@ III. Gazdálkodási adatok
 
 | 2. | A költségvetési törvényben szereplő, az adott nemzetbiztonsági szolgálatra vonatkozó költségvetési cím alatt található adatok | A változásokat követően azonnal | A külön jogszabályban meghatározott ideig, de legalább 10 évig archívumban tartásával |
 
-[^1]: A 3–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet I. részében foglalt táblázat A:2 mezője a 616/2022. (XII. 29.) Korm. rendelet 258. §-a szerint módosított szöveg.
