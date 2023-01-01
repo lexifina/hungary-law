@@ -1,0 +1,3 @@
+## 2. A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet módosítása
+
+3. § A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 17. § (8) bekezdésében az „az álláskeresőként való nyilvántartásba vételről, valamint a nyilvántartásból való törlésről szóló rendelet” szövegrész helyébe az „a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény” szöveg lép.
