@@ -1,3 +1,3 @@
-## 8. §[^13]
+9. §[^14]
 
-[^13]: A 8. §-t a 20/2017. (XII. 21.) IM rendelet 18. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^14]: A 9. §-t a 22/2005. (XI. 8.) IM rendelet 30. § (3) bekezdésének c) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-## 9. §[^14]
+10. §[^15]
 
-[^14]: A 9. §-t a 22/2005. (XI. 8.) IM rendelet 30. § (3) bekezdésének c) pontja hatályon kívül helyezte.
+[^15]: A 10. §-t a 20/2017. (XII. 21.) IM rendelet 18. § (3) bekezdés b) pontja hatályon kívül helyezte.
