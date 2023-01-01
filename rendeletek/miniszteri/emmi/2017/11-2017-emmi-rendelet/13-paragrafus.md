@@ -28,6 +28,6 @@ a) átvételi, gyűjtési és ártalmatlanítási, valamint
 
 b) bizosítékadási
 
-## kötelezettségét teljesítette.
+kötelezettségét teljesítette.
 
 (9) A tárgyévi biztosítékkal a gyógyszergyártó az országos környezetvédelmi hatóság jóváhagyását követően szabadon rendelkezhet.

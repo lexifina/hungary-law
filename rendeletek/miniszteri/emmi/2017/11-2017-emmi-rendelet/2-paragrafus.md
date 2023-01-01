@@ -29,3 +29,5 @@ c) a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ell
 d) az egészségügyről szóló törvény és
 
 e) a csomagolásról és a csomagolási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendelet
+
+fogalommeghatározásait kell figyelembe venni.

@@ -7,3 +7,5 @@ a) önállóan,
 b) kollektíven – más gyógyszergyártóval együttműködve – vagy
 
 c) közvetítő útján
+
+tesz eleget.

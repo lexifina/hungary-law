@@ -1,8 +1,6 @@
-## 17–18. §[^3]
-
 1. melléklet a 11/2017. (VI. 12.) EMMI rendelethez
 
-## A gyógyszergyártó 2. § (1) bekezdés 4. pont a) alpontja szerinti gyógyszerhulladék átvételi, gyűjtési, szállítási és kezelési kötelezettségeinek teljesítésére vonatkozó adatok
+A gyógyszergyártó 2. § (1) bekezdés 4. pont a) alpontja szerinti gyógyszerhulladék átvételi, gyűjtési, szállítási és kezelési kötelezettségeinek teljesítésére vonatkozó adatok
 
 1. A gyógyszergyártóra vonatkozó adatok:
 
@@ -67,5 +65,3 @@
 3.3. telefon, illetve fax;
 
 3.4. e-mail.
-
-[^3]: A 17–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

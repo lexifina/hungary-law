@@ -1,5 +1,3 @@
-## fogalommeghatározásait kell figyelembe venni.
-
 ## 2. A gyógyszergyártó és a járó-, illetve a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató gyógyszerhulladékkal kapcsolatos kötelezettségei
 
 3. § (1) A gyógyszergyártó a 2. § (1) bekezdés 4. pont a) alpontja szerinti gyógyszerhulladék gyógyszertártól és gyógyszertáron kívüli gyógyszerforgalmazást végző üzlettől történő átvételét, gyűjtését, elszállítását és kezelését biztosító rendszert alakít ki és működtet.
@@ -14,7 +12,7 @@ a) önállóan vagy
 
 b) szerződés alapján – a Ht. 26. §-ában és 29. §-ában foglaltakra tekintettel – a gyógyszerforgalmazó vagy a közvetítő útján
 
-## teljesíti.
+teljesíti.
 
 (5) Ha a gyógyszergyártó a 2. § (1) bekezdés 4. pont a) alpontja szerinti gyógyszerhulladék átvételére, gyűjtésére, elszállítására és kezelésére vonatkozó kötelezettségét a (4) bekezdés b) pontja szerint teljesíti, a gyógyszergyártóra vonatkozó szabályokat az e rendelet szerinti eltérésekkel kell alkalmazni.
 
