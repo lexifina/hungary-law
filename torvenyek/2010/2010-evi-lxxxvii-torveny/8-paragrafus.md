@@ -10,7 +10,7 @@ d) dönt a Nemzeti Földalapba tartozó földrészletek hasznosításával kapcs
 
 e) dönt 100 millió forintot, vagy 100 hektár térmértéket elérő földrészlet vagy földrészletek tulajdonjogának az állam javára történő megszerzésével kapcsolatos ügyekben;
 
-f) dönt a 20. § (1) és (2) bekezdése, és a 21. § (2), (3), (3a) és (3d), valamint a (4) és (5) bekezdése szerinti jogügyletekről, ha az annak tárgyát képező földrészlet vagy földrészletek együttes ingatlanforgalmi értéke eléri az 1 millió forintot;
+f) dönt a 20. § (1) és (2) bekezdése, és a 21. § (2), (3), (3a) és (3d), valamint a (4) és (5) bekezdése szerinti jogügyletekről, ha az annak tárgyát képező földrészlet vagy földrészletek együttes ingatlanforgalmi értéke eléri az 5 millió forintot;
 
 g)
 

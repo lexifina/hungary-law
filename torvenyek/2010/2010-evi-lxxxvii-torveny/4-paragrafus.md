@@ -6,7 +6,7 @@
 
 (3) Az NFK elnöke és elnökhelyettese magyar állampolgár lehet. Az NFK elnöke, és elnökhelyettese nem lehet
 
-a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, nemzetiségi szószóló, megyei közgyűlés tagja, politikai felsővezető, közigazgatási államtitkár, helyettes államtitkár, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
+a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, nemzetiségi szószóló, vármegyei közgyűlés tagja, politikai felsővezető, közigazgatási államtitkár, helyettes államtitkár, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
 
 b)
 

@@ -8,7 +8,7 @@ c) az adózás rendjéről szóló 2017. évi CL. törvény 7. § 34. pontja sze
 
 d) állami vagyon hasznosítására irányuló korábbi – három évnél nem régebben lezárult – eljárásban hamis adatot szolgáltatott.
 
-e) az NFK-val szemben 120 napot meghaladó lejárt tartozással rendelkezik.
+e) az NFK-val szemben 60 napot meghaladó lejárt tartozással rendelkezik.
 
 (1a) A Nemzeti Földalapba tartozó földrészlet hasznosítására irányuló szerződés megszűnik a szerződő fél
 

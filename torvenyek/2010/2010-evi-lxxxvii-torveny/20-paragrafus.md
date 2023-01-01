@@ -16,7 +16,7 @@ f) a Tokaji Életpálya Program megvalósítására a Kormány által egyedi hat
 
 (2a) A (2) bekezdésben foglaltakon túlmenően az alapító okiratban vagy jogszabályban meghatározott, agrárágazathoz kapcsolódó oktatási vagy tudományos kutatási alapfeladatot – az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet – közvetlenül szolgáló földterület vagyonkezelését felsőoktatási intézmény is végezheti.
 
-(3) Központi költségvetési szervvel az azt irányító vagy felügyelő szerv egyetértésével köthető vagyonkezelési szerződés.
+(3) Közvetlenül a Kormány irányítása vagy felügyelete alá tartozó központi költségvetési szerv kivételével központi költségvetési szervvel az azt irányító vagy felügyelő szerv egyetértésével köthető vagyonkezelési szerződés.
 
 (4) A (2) bekezdés alkalmazásában 100%-os állami tulajdonban álló gazdálkodó szervezetnek kell tekinteni a Soproni Egyetemért Alapítványról, a Soproni Egyetemért Alapítvány és a Soproni Egyetem részére történő vagyonjuttatásról szóló 2020. évi XXXVII. törvény 3. § (4) bekezdése szerinti gazdasági társaságot, valamint költségvetési szervnek kell tekinteni a Magyar Agrár- és Élettudományi Egyetemért Alapítvány létrehozásáról, valamint a Magyar Agrár- és Élettudományi Egyetemért Alapítvány és a Magyar Agrár- és Élettudományi Egyetem működéséhez szükséges feltételek és forrás biztosításáról szóló 2020. évi CXLII. törvény 2. § (1) bekezdésében nevesített Magyar Agrár- és Élettudományi Egyetemet.
 
