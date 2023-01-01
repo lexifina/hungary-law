@@ -6,5 +6,7 @@ a)[^18] a megújuló energiaforrásokból előállított energia használatának
 
 b) az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 14. cikk (10) bekezdésének
 
+való megfelelést szolgálja.
+
 [^17]: A 15/A. §-t a 787/2021. (XII. 27.) Korm. rendelet 46. §-a iktatta be.
 [^18]: A 16. § a) pontja a 787/2021. (XII. 27.) Korm. rendelet 47. §-ával megállapított szöveg.

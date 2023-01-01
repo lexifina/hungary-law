@@ -1,5 +1,3 @@
-## való megfelelést szolgálja.
-
 17. § (1)–(3)[^19]
 
 (4)[^20]

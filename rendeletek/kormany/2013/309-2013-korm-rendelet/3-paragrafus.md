@@ -10,7 +10,7 @@ a)[^8] egyvonalas villamos kapcsolási rajz a generátortól a csatlakozási pon
 
 b) a fogyasztásmérő berendezések hitelesítési bizonylatai;
 
-c)[^9] a mérésügyi és műszaki biztonsági hatósági feladatkörben eljáró fővárosi és megyei kormányhivatal által kiadott igazolás arról, hogy a fogyasztásmérő berendezés és annak elrendezése alkalmas a (4) bekezdésben foglalt feltételek teljesítésére, amennyiben a kérelem nagy hatásfokú kapcsolt minősítés megszerzésére irányul;
+c)[^9] a mérésügyi és műszaki biztonsági hatósági feladatkörben eljáró fővárosi és vármegyei kormányhivatal által kiadott igazolás arról, hogy a fogyasztásmérő berendezés és annak elrendezése alkalmas a (4) bekezdésben foglalt feltételek teljesítésére, amennyiben a kérelem nagy hatásfokú kapcsolt minősítés megszerzésére irányul;
 
 d) nyilatkozat, amelyben a termelő vállalja, hogy amennyiben az adott erőműegység több különböző típusú tüzelőanyagot is fel tud használni, akkor a tüzelőanyag-felhasználást tüzelőanyag-típusonként hitelesen nyilvántartja és ezeket az adatokat hozzáférhetővé teszi a Hivatal számára;
 
@@ -27,6 +27,6 @@ g) a támogatási rendszer megnevezése, a támogatás nyújtója, az igénybeve
 [^6]: A 3. § (2) bekezdése a 123/2015. (V. 26.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
 [^7]: A 3. § (3) bekezdés nyitó szövegrésze a 787/2021. (XII. 27.) Korm. rendelet 48. § b) pontja szerint módosított szöveg.
 [^8]: A 3. § (3) bekezdés a) pontja a 787/2021. (XII. 27.) Korm. rendelet 40. §-ával megállapított szöveg.
-[^9]: A 3. § (3) bekezdés c) pontja a 123/2015. (V. 26.) Korm. rendelet 39. § (3) bekezdésével megállapított szöveg.
+[^9]: A 3. § (3) bekezdés c) pontja a 123/2015. (V. 26.) Korm. rendelet 39. § (3) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 162. §-a szerint módosított szöveg.
 [^10]: A 3. § (4) bekezdése a 123/2015. (V. 26.) Korm. rendelet 39. § (4) bekezdésével megállapított szöveg.
 [^11]: A 3. § (5) bekezdését a 123/2015. (V. 26.) Korm. rendelet 39. § (4) bekezdése iktatta be.

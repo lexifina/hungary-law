@@ -12,7 +12,7 @@ bc) hűtőenergiára, vagy
 
 bd) fűtő- és hűtőenergiára
 
-## vonatkozik,
+vonatkozik,
 
 c) az energiát előállító létesítmény nevét, helyét, típusát és beépített teljesítményét,
 

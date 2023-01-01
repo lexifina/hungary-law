@@ -8,7 +8,7 @@ b) a nem engedélyköteles kiserőmű üzemeltetőjére vagy
 
 c) a bejegyzési kérelem benyújtójára,
 
-## ha az a bejegyzési kérelmében neki felróható okból téves adatokat szolgáltat.
+ha az a bejegyzési kérelmében neki felróható okból téves adatokat szolgáltat.
 
 (2) Ha az engedélyes és a nem engedélyköteles kiserőmű üzemeltetője a 11. § (2) bekezdése szerinti kötelezettségeit nem teljesíti, a Hivatal havonta egymillió forint bírságot szabhat ki.
 
