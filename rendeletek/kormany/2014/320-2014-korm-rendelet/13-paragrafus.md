@@ -1,11 +1,9 @@
-## 12. §
-
 ## 10. Munkavédelmi hatósági feladatok és eljárás
 
-13. §[^97] (1)[^98] A miniszter mint munkavédelmi hatóság és a munkavédelmi feladatkörében eljáró kormányhivatal mint munkavédelmi hatóság ellátják az általános munkavédelmi hatósági feladatokat. A munkavédelmi feladatkörében eljáró a kormányhivatal az illetékességi területén valamennyi munkahelyen ellenőrzést tarthat, függetlenül a foglalkoztató székhelyétől és telephelyétől.
+13. §[^101] (1)[^102] A miniszter mint munkavédelmi hatóság és a munkavédelmi feladatkörében eljáró kormányhivatal mint munkavédelmi hatóság ellátják az általános munkavédelmi hatósági feladatokat. A munkavédelmi feladatkörében eljáró a kormányhivatal az illetékességi területén valamennyi munkahelyen ellenőrzést tarthat, függetlenül a foglalkoztató székhelyétől és telephelyétől.
 
-(2)[^99] A miniszter, mint munkavédelmi hatóság, valamint a munkavédelmi hatósági hatáskörben eljáró kormányhivatal teljesíti az Mvt. 82/A. §-ában, 83/A. §-ában, 83/B. §-ában, 83/C. §-ában, továbbá az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 4. § (2) bekezdés t) pontjában és 15/A. §-ában meghatározott beszámolási, nyilvántartási és adatkezelési kötelezettséget.
+(2)[^103] A miniszter, mint munkavédelmi hatóság, valamint a munkavédelmi hatósági hatáskörben eljáró kormányhivatal teljesíti az Mvt. 82/A. §-ában, 83/A. §-ában, 83/B. §-ában, 83/C. §-ában, továbbá az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 4. § (2) bekezdés t) pontjában és 15/A. §-ában meghatározott beszámolási, nyilvántartási és adatkezelési kötelezettséget.
 
-[^97]: A 13. § a 70/2015. (III. 30.) Korm. rendelet 258. § (20) bekezdésével megállapított szöveg.
-[^98]: A 13. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 135. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^99]: A 13. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezdés c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 135. § (8) bekezdés a) pontja, a 356/2021. (VI. 24.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^101]: A 13. § a 70/2015. (III. 30.) Korm. rendelet 258. § (20) bekezdésével megállapított szöveg.
+[^102]: A 13. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 135. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^103]: A 13. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezdés c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 135. § (8) bekezdés a) pontja, a 356/2021. (VI. 24.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.

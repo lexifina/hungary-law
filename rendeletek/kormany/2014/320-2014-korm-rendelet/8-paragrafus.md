@@ -1,12 +1,12 @@
 ## 6. A közfoglalkoztatásért felelős miniszter feladatai
 
-8. §[^54] (1) A közfoglalkoztatásért felelős miniszter az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalok és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalok közfoglalkoztatási feladatai tekintetében
+8. §[^55] (1) A közfoglalkoztatásért felelős miniszter az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalok és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalok közfoglalkoztatási feladatai tekintetében
 
 a) követelményeket határoz meg a közfoglalkoztatással kapcsolatos számítógépes központi adatgyűjtések adattartalma, valamint az információ- és prognózisszolgáltatás vonatkozásában,
 
-b)[^55] az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalra és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalra is kiterjedően közreműködik a GFA közfoglalkoztatási előirányzat felhasználásával kapcsolatos tervezési feladatok végrehajtásában, javaslatokat tesz a pénzügyi nyilvántartásokra vonatkozóan,
+b)[^56] az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalra és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalra is kiterjedően közreműködik a GFA közfoglalkoztatási előirányzat felhasználásával kapcsolatos tervezési feladatok végrehajtásában, javaslatokat tesz a pénzügyi nyilvántartásokra vonatkozóan,
 
-c)[^56] figyelemmel kíséri a GFA közfoglalkoztatási előirányzat keretének felhasználását,
+c)[^57] figyelemmel kíséri a GFA közfoglalkoztatási előirányzat keretének felhasználását,
 
 d) eljárási rendek, módszertani útmutatók, szakmai ajánlások készítésével meghatározza a közfoglalkoztatással kapcsolatos hatósági és szolgáltató tevékenység szakmai követelményeit, meghatározza az azok ellátásához szükséges informatikai és számítógépes rendszereket,
 
@@ -32,7 +32,7 @@ lb) ellenőrzi a munkavégzés közfoglalkoztatási szerződésben foglaltak sze
 
 lc) ellenőrzi az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal hatáskörébe tartozó közfoglalkoztatási támogatás nyújtására irányuló kérelem megalapozottságát és a kérelemben foglalt adatok valódiságát,
 
-ld)[^57]
+ld)[^58]
 
 m) adatokat gyűjt és elemez a közfoglalkoztatási bérek és keresetek alakulására vonatkozóan,
 
@@ -68,7 +68,7 @@ s) koordinálja a közfoglalkoztatáshoz kapcsolódóan az állami foglalkoztat�
 
 t) ellátja a jogszabályban meghatározott egyéb feladatokat.
 
-(2)[^58] A közfoglalkoztatásért felelős miniszter a Nemzeti Infokommunikációs Szolgáltató Zrt. (a továbbiakban: NISZ Zrt.) útján
+(2)[^59] A közfoglalkoztatásért felelős miniszter a Nemzeti Infokommunikációs Szolgáltató Zrt. (a továbbiakban: NISZ Zrt.) útján
 
 a) a 4. § (1) bekezdés g) pontjával összhangban a miniszterrel egyeztetve fejleszti a miniszter, az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal tevékenységét támogató programrendszereket, és kiadja a programkezeléssel kapcsolatos felhasználói segédanyagokat,
 
@@ -80,8 +80,8 @@ d) a c) pontban meghatározott informatikai rendszerekkel összefüggésben telj
 
 (3) A közfoglalkoztatásért felelős miniszter közreműködik az Európai Unió pénzügyi alapjaiból és más külföldi alapokból támogatott egyes közfoglalkoztatáshoz kapcsolódó képzési programok megvalósításának tervezésében és szervezésében.
 
-[^54]: A 8. § a 70/2015. (III. 30.) Korm. rendelet 258. § (13) bekezdésével megállapított szöveg.
-[^55]: A 8. § b) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
-[^56]: A 8. § c) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
-[^57]: A 8. § (1) bekezdés l) pont ld) alpontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^58]: A 8. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés f) pontja szerint módosított szöveg.
+[^55]: A 8. § a 70/2015. (III. 30.) Korm. rendelet 258. § (13) bekezdésével megállapított szöveg.
+[^56]: A 8. § b) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^57]: A 8. § c) pontja a 356/2021. (VI. 24.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
+[^58]: A 8. § (1) bekezdés l) pont ld) alpontját a 360/2019. (XII. 30.) Korm. rendelet 135. § (9) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^59]: A 8. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 283. § (10) bekezdés f) pontja szerint módosított szöveg.
