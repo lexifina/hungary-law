@@ -10,11 +10,11 @@ Az igazságügyi szakértői tevékenység folytatásához szükséges szakmai g
 
 | 2. | tűzvédelmi vagy ipari baleset-megelőzési terület | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 3. | egészségügyi terület | népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal |
+| 3. | egészségügyi terület | népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal |
 
 | 4. | munkabiztonsági terület | foglalkoztatáspolitikáért felelős miniszter |
 
-| 5. | mező- és erdőgazdálkodási, valamint élelmiszer-ipari területek | Pest Megyei Kormányhivatal |
+| 5. | mező- és erdőgazdálkodási, valamint élelmiszer-ipari területek | Pest Vármegyei Kormányhivatal |
 
 | 6. | közlekedési terület | a) – a b) pont rendelkezései kivételével – a közlekedésért felelős miniszter |
 
@@ -30,7 +30,7 @@ Az igazságügyi szakértői tevékenység folytatásához szükséges szakmai g
 
 | 10. | hírközlési terület | Nemzeti Média- és Hírközlési Hatóság |
 
-| 11. | környezetvédelem és természetvédelem területei | Pest Megyei Kormányhivatal |
+| 11. | környezetvédelem és természetvédelem területei | Pest Vármegyei Kormányhivatal |
 
 | 12. | vízügyi terület | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -64,4 +64,4 @@ Az igazságügyi szakértői tevékenység folytatásához szükséges szakmai g
 
 | 22. | titokvédelmi terület | minősített adatok védelmének szakmai felügyeletéért felelős miniszter |
 
-[^6]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 180. §-a, a 764/2021. (XII. 23.) Korm. rendelet 27. §-a, a 238/2022. (VI. 30.) Korm. rendelet 178. § a) és b) pontja szerint módosított szöveg. [A B:14 mezőben a 238/2022. (VI. 30.) Korm. rendelet 178. § a) pontjával elrendelt módosítás nem vezethető át.]
+[^6]: Az 1. melléklet a 360/2019. (XII. 30.) Korm. rendelet 180. §-a, a 764/2021. (XII. 23.) Korm. rendelet 27. §-a, a 238/2022. (VI. 30.) Korm. rendelet 178. § a) és b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 269. § a) és b) pontja szerint módosított szöveg. [A B:14 mezőben a 238/2022. (VI. 30.) Korm. rendelet 178. § a) pontjával elrendelt módosítás nem vezethető át.]
