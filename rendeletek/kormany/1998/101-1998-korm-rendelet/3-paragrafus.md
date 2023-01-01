@@ -4,7 +4,7 @@
 
 (2)[^10] A Kormány az (1) bekezdés szerinti úti okmányok, valamint a diplomata útlevelek, a külügyi szolgálati útlevelek és az ideiglenes magánútlevelek tekintetében útiokmány-nyilvántartó szervként – a (2a) bekezdésben meghatározott kivétellel – az általános hatáskörű útlevélhatóságot jelöli ki.
 
-(2a)[^11] A Kormány a (2) bekezdés szerinti úti okmány kiadására irányuló eljárás során keletkezett jogszabály szerinti papíralapú alapiratok tekintetében útiokmány-nyilvántartó szervként Budapest Főváros Kormányhivatalát, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalát (a továbbiakban együtt: járási hivatal), illetve a konzuli tisztviselőt jelöli ki.
+(2a)[^11] A Kormány a (2) bekezdés szerinti úti okmány kiadására irányuló eljárás során keletkezett jogszabály szerinti papíralapú alapiratok tekintetében útiokmány-nyilvántartó szervként Budapest Főváros Kormányhivatalát, a külpolitikáért felelős minisztert, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalát (a továbbiakban együtt: járási hivatal), a konzuli tisztviselőt, a külpolitikáért felelős miniszter által vezetett minisztériumot, illetve az általános hatáskörű útlevélhatóságot jelöli ki.
 
 (3)[^12] Az általános hatáskörű útlevélhatóság
 
@@ -39,7 +39,7 @@ b) tanúsítványt ad ki a bővített hozzáférés-ellenőrzéssel védett adat
 [^8]: A 3. § a 379/2016. (XII. 2.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
 [^9]: A 3. § (1) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés a) pontja szerint módosított szöveg.
 [^10]: A 3. § (2) bekezdése a 176/2019. (VII. 18.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^11]: A 3. § (2a) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 446/2020. (X. 1.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^11]: A 3. § (2a) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 628/2022. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^12]: A 3. § (3) bekezdés nyitó szövegrésze a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés b) pontja szerint módosított szöveg.
 [^13]: A 3. § (3) bekezdés a) pontja a 176/2019. (VII. 18.) Korm. rendelet 2. § (15) bekezdés c) pontja szerint módosított szöveg.
 [^14]: A 3. § (7) bekezdése a 696/2021. (XII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.

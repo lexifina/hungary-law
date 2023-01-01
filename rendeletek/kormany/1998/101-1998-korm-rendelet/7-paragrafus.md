@@ -10,7 +10,7 @@ c) az anyakönyvvezető a hivatalból kiállításra kerülő magánútlevél,
 
 d) az úti okmányt megszemélyesítő szerv valamennyi útlevél
 
-## tekintetében.
+tekintetében.
 
 (2) A külpolitikáért felelős miniszter diplomata- és külügyi szolgálati útlevéllel összefüggő feladatai ellátásában a konzuli tisztviselő közreműködőként vesz részt.
 
@@ -38,9 +38,9 @@ j) erre irányuló kérelem esetén lehetővé teszi a tároló elem adattartalm
 
 k) a járási hivatalnál történő bejelentés esetén rögzíti az úti okmány elvesztése, eltulajdonítása, megsemmisülése, megrongálódása és találása tényét az útiokmány-nyilvántartásban,
 
-l) gondoskodik az eljárása során keletkezett iratanyag megőrzéséről, és jogszabályban meghatározott esetben az ebből történő adatszolgáltatásról.
+l)[^27] gondoskodik az eljárása során keletkezett iratanyag általános hatáskörű útlevélhatóság részére archiválás céljából történő megküldéséről.
 
-(4)[^27] A konzuli tisztviselő közreműködői feladatai körében:
+(4)[^28] A konzuli tisztviselő közreműködői feladatai körében:
 
 a) ellenőrzi a kérelmező személyazonosságát, átveszi a magánútlevél, második magánútlevél, a diplomata- és a külügyi szolgálati útlevél kiállítására irányuló kérelmet,
 
@@ -62,10 +62,12 @@ i) jogszabályok keretei között gondoskodik az érvénytelenített okmányok v
 
 j) az előtte tett bejelentés esetén rögzíti az okmány elvesztése, eltulajdonítása, megsemmisülése, megrongálódása és találása tényét az útiokmány-nyilvántartásban,
 
-k) gondoskodik az eljárása során keletkezett iratanyag megőrzéséről és jogszabályban meghatározott esetben az ebből történő adatszolgáltatásról.
+k)[^29] gondoskodik az eljárása során keletkezett iratanyag általános hatáskörű útlevélhatóság részére archiválás céljából történő megküldéséről.
 
 [^23]: A 6. § a 176/2019. (VII. 18.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^24]: A 7. § a 176/2019. (VII. 18.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
 [^25]: A 7. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^26]: A 7. § (3) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^27]: A 7. § (4) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^27]: A 7. § (3) bekezdés l) pontja a 628/2022. (XII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^28]: A 7. § (4) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^29]: A 7. § (4) bekezdés k) pontja a 628/2022. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

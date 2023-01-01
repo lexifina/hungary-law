@@ -1,4 +1,4 @@
-29/A. §[^162] (1) A Külgazdasági és Külügyminisztérium által a 20/A. §-ban meghatározott jogosultak részére kiállított diplomata- és külügyi szolgálati útlevelek biztonságos megőrzéséről és azok naprakész nyilvántartásáról az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv vezetője (a továbbiakban: nyilvántartó szerv) gondoskodik.
+29/A. §[^176] (1)[^177] A Külgazdasági és Külügyminisztérium által a 20/A. §-ban meghatározott jogosultak részére kiállított diplomata- és külügyi szolgálati útlevelek biztonságos megőrzéséről és azok naprakész nyilvántartásáról az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv gondoskodik.
 
 (2) A sorszámozott nyilvántartásnak tartalmaznia kell az útlevél birtokosa által megadott következő adatokat:
 
@@ -16,10 +16,14 @@ f) az utazás célját (hivatalos vagy magán).
 
 (3) A nyilvántartást és az útleveleket számzáras lemezszekrényben kell őrizni.
 
-(4) A Külgazdasági és Külügyminisztérium által a 20/A. §-ban meghatározott jogosultak részére kiállított diplomata- és külügyi szolgálati útlevelet a Magyarország területére történt visszatérést, illetve a tartós külszolgálat időtartamának lejártát követő három munkanapon belül kell a nyilvántartó szervnek visszaadni.
+(4)[^178] A Külgazdasági és Külügyminisztérium által a 20/A. §-ban meghatározott jogosultak részére kiállított diplomata- és külügyi szolgálati útlevelet a Magyarország területére történt visszatérést, illetve a tartós külszolgálat időtartamának lejártát követő három munkanapon belül kell az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv részére visszaadni.
 
-(5) A jogosultság megszűnését vagy az útlevél lejártát követően az útlevelet a nyilvántartó adatlap másolatával tizenöt napon belül meg kell küldeni a Külgazdasági és Külügyminisztérium részére, és a nyilvántartásból törölni kell.
+(5)[^179] A jogosultság megszűnését vagy az útlevél lejártát követően az útlevelet a nyilvántartó adatlap másolatával tizenöt napon belül meg kell küldeni a Külgazdasági és Külügyminisztérium részére, és az utazást elrendelő, illetve az útlevél kiadására javaslatot tevő szerv nyilvántartásából törölni kell.
 
-(6) Az útlevelek rendeltetésszerű használatát, őrzését és a vezetett nyilvántartást a külgazdasági és külügyminiszter ellenőrizheti.
+(6)[^180] Az útlevelek rendeltetésszerű használatát, őrzését és a vezetett nyilvántartást a külpolitikáért felelős miniszter ellenőrizheti.
 
-[^162]: A 29/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 58. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^176]: A 29/A. §-t a 457/2017. (XII. 28.) Korm. rendelet 58. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^177]: A 29/A. § (1) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^178]: A 29/A. § (4) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^179]: A 29/A. § (5) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 8. § g) pontja szerint módosított szöveg.
+[^180]: A 29/A. § (6) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 8. § h) pontja szerint módosított szöveg.
