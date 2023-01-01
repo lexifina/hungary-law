@@ -1,9 +1,0 @@
-18. § (1) Ez a törvény – a 16. § kivételével – a kihirdetését követő 8. napon lép hatályba, ezzel egyidejűleg az AT. 4. §-ának (2) bekezdésében az ,,56,48%-ának'' szövegrész helyébe az ,,58,10%-ának'' szövegrész lép, az AT. 5. §-a (2) bekezdésében a ,,43,52%-ának'' szövegrész helyébe a ,,41,90%-ának'' szövegrész lép; az AT. 4. §-ának (2) bekezdésében ,,a 10. § (9) bekezdésében meghatározott, az Egészségbiztosítási Alap működési költségvetésébe átutalandó összeg fedezetére'' szövegrész, az AT. 5. §-a (3) bekezdésének j) pontjában az ,,és (9)'' szövegrész, valamint az AT. 10. §-ának (9) bekezdése hatályát veszti. A 16. § (1)–(5) bekezdése a kihirdetést követő 45. napon, (6) bekezdése a kihirdetést követő második hónap első napján lép hatályba.
-
-(2) Az AT.-nek e törvénnyel megállapított, a bevételek Nyugdíjbiztosítási Alap és Egészségbiztosítási Alap közötti megosztási arányait meghatározó rendelkezéseit első ízben az 1996. január hónapra vonatkozóan befizetett összegekre kell alkalmazni.
-
-(3) A Nyugdíjbiztosítási Alappal és az Egészségbiztosítási Alappal szemben 1996. január 1-jét megelőzően keletkezett tartozások kiegyenlítésére elszámolt bevételeket, valamint a tartozás fejében átvett vagyont az 1995. december 31-én hatályban volt, törvényben meghatározott járulékmegosztási arányoknak megfelelően kell a két biztosítási alap között megosztani és elszámolni.
-
-(4) Az 1996. évi rendkívüli járulékbehajtás során e törvény hatálybalépésekor érvényes járulékmegosztási arányokat kell alkalmazni.
-
-(5) A büntetés-végrehajtás által fenntartott egészségügyi intézményeknél az Egészségbiztosítási Alap kezelője feladathoz rendelt finanszírozást alkalmaz. Az éves előirányzat összege az intézmény-finanszírozás körében érvényesülő átlagos kiadásnövekedéssel megemelt szintre hozott bázisra számított átlagos növekedéssel azonos.
