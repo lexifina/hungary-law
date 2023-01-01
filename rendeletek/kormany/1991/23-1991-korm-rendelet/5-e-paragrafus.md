@@ -32,9 +32,9 @@ g) neki felróható okból nem működik együtt a rendszeres és rendkívüli f
 
 (8) Az (1) bekezdés szerinti szünetelést és a (2) bekezdés b) és e)–g) pontja szerinti megszüntetést követően a jogosultat a szünetelést, illetve megszüntetést megelőzően folyósított keresetkiegészítésnek az időközbeni emelésekkel, kiegészítésekkel növelt összege illeti meg.
 
-(9)[^29] A keresetkiegészítésben részesülő a (2) bekezdés d)–f) pontjában foglaltakról, annak bekövetkeztétől számított tizenöt napon belül értesíti a Komárom-Esztergom Megyei Kormányhivatalt.
+(9)[^29] A keresetkiegészítésben részesülő a (2) bekezdés d)–f) pontjában foglaltakról, annak bekövetkeztétől számított tizenöt napon belül értesíti a Komárom-Esztergom Vármegyei Kormányhivatalt.
 
-(10)[^30] A munkáltató az (1) bekezdésben és a (2) bekezdés a) és f) pontjában foglaltakról, annak bekövetkeztétől számított tizenöt napon belül értesíti a Komárom-Esztergom Megyei Kormányhivatalt.
+(10)[^30] A munkáltató az (1) bekezdésben és a (2) bekezdés a) és f) pontjában foglaltakról, annak bekövetkeztétől számított tizenöt napon belül értesíti a Komárom-Esztergom Vármegyei Kormányhivatalt.
 
 (11) A keresetkiegészítésre való jogosultság feléledése esetén a keresetkiegészítés megállapítására vonatkozó eljárási szabályok megfelelően irányadók.
 
@@ -42,5 +42,5 @@ g) neki felróható okból nem működik együtt a rendszeres és rendkívüli f
 [^26]: Az 5/E. § (2) bekezdés e) pontja a 327/2011. (XII. 29.) Korm. rendelet 29. § e) pontja szerint módosított szöveg.
 [^27]: Az 5/E. § (4) bekezdése a 327/2011. (XII. 29.) Korm. rendelet 29. § e) pontja szerint módosított szöveg.
 [^28]: Az 5/E. § (6) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 19. §-a, a 70/2015. (III. 30.) Korm. rendelet 4. § (6) bekezdés b) pontja szerint módosított szöveg.
-[^29]: Az 5/E. § (9) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (1) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 1. § (2) bekezdés b) pontja, a 668/2020. (XII. 28.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^30]: Az 5/E. § (10) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (1) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 1. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^29]: Az 5/E. § (9) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (1) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 1. § (2) bekezdés b) pontja, a 668/2020. (XII. 28.) Korm. rendelet 1. §-a, a 616/2022. (XII. 29.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^30]: Az 5/E. § (10) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (1) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 1. § (2) bekezdés b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.

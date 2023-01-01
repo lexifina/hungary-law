@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-23-20-2
 | 2021-01-01 | 1991-23-20-22.21 | 289/2010. (XII. 21.) Korm. rendelet |
 | 2021-06-27 | 1991-23-20-22.22 | 327/2011. (XII. 29.) Korm. rendelet |
 | 2022-07-01 | 1991-23-20-22.23 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2023-01-01 | 1991-23-20-22.24 | 379/2016. (XII. 2.) Korm. rendelet |

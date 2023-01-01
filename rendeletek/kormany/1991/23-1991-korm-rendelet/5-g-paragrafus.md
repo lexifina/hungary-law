@@ -1,4 +1,4 @@
-5/G. §[^33] (1)[^34] A járadék havi összege a megállapításkor megegyezik az 5/F. § (1) bekezdés d) pontja szerinti ellátásnak a járadék megállapítását megelőzően folyósított összegével, de 2013. január 1-jétől nem lehet magasabb az öregségi nyugdíj legkisebb összege háromszorosának a nyugellátások 2013. január havi emelésének mértékével megemelt összegénél.
+5/G. §[^33] (1)[^34] A járadék havi összege a megállapításkor megegyezik az 5/F. § (1) bekezdés d) pontja szerinti ellátásnak a járadék megállapítását megelőzően folyósított összegével, de 2013. január 1-jétől nem lehet magasabb a szociális vetítési alap összege háromszorosának a nyugellátások 2013. január havi emelésének mértékével megemelt összegénél.
 
 (1a)[^35] Az 5/F. § (2) bekezdése alapján megállapított járadék havi összege – az (1) bekezdésben foglaltaktól eltérően – megegyezik a megváltozott munkaképességű személyek ellátásának
 
@@ -17,6 +17,6 @@ Az 5/F. § (2) bekezdése alapján megállapított járadékra a (2)–(4) bekez
 (5)[^36] A járadékot a társadalombiztosítási nyugellátásról szóló törvény nyugdíjemelésre vonatkozó szabályai szerint, azzal megegyező mértékben emelni kell. Az (1) bekezdésben meghatározott korlát összege a társadalombiztosítási nyugellátásról szóló törvény nyugdíjemelésre vonatkozó szabályai szerint, azzal megegyező mértékben emelkedik.
 
 [^33]: Az 5/G. §-t a 327/2011. (XII. 29.) Korm. rendelet 26. §-a iktatta be.
-[^34]: Az 5/G. § (1) bekezdése a 426/2012. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^34]: Az 5/G. § (1) bekezdése a 426/2012. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 629/2022. (XII. 30.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^35]: Az 5/G. § (1a) bekezdését a 426/2012. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^36]: Az 5/G. § (5) bekezdését a 426/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.

@@ -1,6 +1,6 @@
 5/H. §[^37] (1) A járadék iránti igény érvényesítésére, a jogorvoslatra, az ellátás megtérítésére, a jogalap nélkül felvett ellátás visszafizetésére, megtérítésére, a járadékból történő levonásra, a járadék folyósítására, a járadékkal kapcsolatos eljárás költség- és illetékmentességére – ha e rendelet eltérően nem rendelkezik – a társadalombiztosítási nyugellátásra vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(2)[^38] A járadék iránti kérelmet a nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) bírálja el. A kérelmet az erre rendszeresített nyomtatványon vagy elektronikus űrlapon kell benyújtani annak a keresőtevékenységnek a megszűnésétől számított 24 hónapon belül, amelynek időtartama alatt a keresetkiegészítést, átmeneti keresetkiegészítést számára folyósították.
+(2)[^38] A járadék iránti kérelmet a nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) bírálja el. A kérelmet az erre rendszeresített nyomtatványon vagy elektronikus űrlapon kell benyújtani annak a keresőtevékenységnek a megszűnésétől számított 24 hónapon belül, amelynek időtartama alatt a keresetkiegészítést, átmeneti keresetkiegészítést számára folyósították.
 
 (3) A (2) bekezdés szerinti határidőbe nem számít bele
 
@@ -21,7 +21,7 @@ nyújthatja be. Az a) pont szerinti határidő elmulasztása jogvesztő. A kére
 (4) A járadékot a nyugdíjfolyósító szerv folyósítja az Egészségbiztosítási Alap rokkantsági, rehabilitációs ellátások előirányzatának terhére.
 
 [^37]: Az 5/H. §-t a 327/2011. (XII. 29.) Korm. rendelet 26. §-a iktatta be.
-[^38]: Az 5/H. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 1. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^38]: Az 5/H. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 360/2019. (XII. 30.) Korm. rendelet 1. § (2) bekezdés c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^39]: Az 5/H. § (3a) bekezdését a 426/2012. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
 [^40]: Az 5/H. § (3a) bekezdés a) pontja a 457/2017. (XII. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^41]: Az 5/H. § (3b) bekezdését a 426/2012. (XII. 29.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 4. §-a. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

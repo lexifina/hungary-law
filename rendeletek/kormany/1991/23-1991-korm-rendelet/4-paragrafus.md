@@ -1,3 +1,3 @@
-## 3. §[^4]
+4. §[^5]
 
-[^4]: A 3. §-t és az azt megelőző alcímet a 333/2011. (XII. 29.) Korm. rendelet 16. § a)–b) pontja hatályon kívül helyezte.
+[^5]: A 4. §-t a 333/2011. (XII. 29.) Korm. rendelet 16. § a) pontja hatályon kívül helyezte.
