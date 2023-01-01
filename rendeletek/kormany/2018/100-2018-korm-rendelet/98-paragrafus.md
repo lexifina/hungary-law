@@ -12,7 +12,7 @@ c) az általános nyomozó hatóság vagy
 
 d) a Nemzeti Adó- és Vámhivatal
 
-## között merül fel, a korábban intézkedő szerv székhelye szerint hatáskörrel és illetékességgel rendelkező ügyészséghez kell előterjesztést tenni az előkészítő eljárást folytató szerv kijelölésére.
+között merül fel, a korábban intézkedő szerv székhelye szerint hatáskörrel és illetékességgel rendelkező ügyészséghez kell előterjesztést tenni az előkészítő eljárást folytató szerv kijelölésére.
 
 (4) Ha az előkészítő eljárást folytató szerv azt állapítja meg, hogy az előkészítő eljárás lefolytatására azonos előkészítő eljárást folytató szerv más szerve vagy szervezeti eleme jogosult eljárni, a hatáskört és illetékességet megalapozó körülményekről, valamint az eljárni jogosult szervről, illetve szervezeti elemről egyeztetést kezdeményez.
 

@@ -1,8 +1,6 @@
-## való megfelelést szolgálja.
-
 ## 112. Hatályon kívül helyező rendelkezés
 
-216. §[^56]
+216. §[^68]
 
 Melléklet a 100/2018. (VI. 8.) Korm. rendelethez
 
@@ -14,7 +12,7 @@ Az eljárás ügyiratainak sorrendje
 
 3. Díjmegállapító határozatok
 
-4.[^57] Bűnjellista
+4.[^69] Bűnjellista
 
 5. Vagyont érintő kényszerintézkedések jegyzéke
 
@@ -60,5 +58,5 @@ Az eljárás ügyiratainak sorrendje
 
 11. Mellékletek (olyan, a büntetőeljárás során beszerzett nagy mennyiségű ügyirat, amelynek külön kezelése indokolt, így különösen: adatkérés során beszerzett iratok, fényképmelléklet). A mellékletre és annak tartalmára az eljárás ügyiratai között megfelelő helyen utalni kell.
 
-[^56]: A 216. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^57]: A melléklet 4. pontja a 675/2020. (XII. 28.) Korm. rendelet 17. § 13. pontja szerint módosított szöveg.
+[^68]: A 216. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^69]: A melléklet 4. pontja a 675/2020. (XII. 28.) Korm. rendelet 17. § 13. pontja szerint módosított szöveg.

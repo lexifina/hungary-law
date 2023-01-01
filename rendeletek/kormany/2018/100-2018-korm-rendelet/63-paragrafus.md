@@ -10,7 +10,7 @@ c) annak megjelölését, ha a szakértői vizsgálattal érintett büntetőelj�
 
 d) mintavétel elrendelését akkor is, ha a Be. 320. § (5) bekezdése alapján a megfelelő minta biztosítása a szakértői vizsgálatot követően az eljárás későbbi szakaszában végzett eljárási cselekmény szempontjából indokolt.
 
-(2)[^19] A szakértő nem bízható meg eljárási cselekmény elvégzésével. Ha a szakvélemény elkészítéséhez eljárási cselekmény elvégzése vagy az eljárási cselekmény elvégzéséhez szakértő közreműködése szükséges, azt a nyomozó hatóság rendeli el, és – amennyiben a szakértő jelenléte vagy közreműködése indokolt, az ő részvételével – végzi el.
+(2)[^21] A szakértő nem bízható meg eljárási cselekmény elvégzésével. Ha a szakvélemény elkészítéséhez eljárási cselekmény elvégzése vagy az eljárási cselekmény elvégzéséhez szakértő közreműködése szükséges, azt a nyomozó hatóság rendeli el, és – amennyiben a szakértő jelenléte vagy közreműködése indokolt, az ő részvételével – végzi el.
 
 (3) A nyomozó hatóság
 
@@ -20,4 +20,6 @@ b) a szakértőnek átadandó ügyiratokról, egyéb adatokról és
 
 c) a szükséges eljárási cselekmények elvégzéséről
 
-[^19]: A 63. § (2) bekezdése a 675/2020. (XII. 28.) Korm. rendelet 17. § 3. pontja szerint módosított szöveg.
+a szakértővel egyeztethet, amiről feljegyzést készít.
+
+[^21]: A 63. § (2) bekezdése a 675/2020. (XII. 28.) Korm. rendelet 17. § 3. pontja szerint módosított szöveg.

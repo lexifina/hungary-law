@@ -6,6 +6,6 @@ a) büntetőeljárás lefolytatására jogosult szerv előtt meghatározott vagy
 
 b) büntetőeljárás lefolytatására jogosult szerv, hatóság vagy hivatalos személy előtt a büntetőeljárás lefolytatására irányuló indítványt
 
-## tartalmaz.
+tartalmaz.
 
 (2) Ha a feljelentés magánindítványra büntetendő bűncselekmény gyanújára utal, a nyomozó hatóság megvizsgálja, hogy a feljelentő a magánindítvány előterjesztésére jogosult-e, és a magánindítvány előterjesztésére jogosult nyilatkozatát beszerzi.

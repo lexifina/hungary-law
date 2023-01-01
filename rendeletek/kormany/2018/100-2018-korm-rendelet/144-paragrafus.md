@@ -1,5 +1,3 @@
-## szükséges.
-
 144. § (1) A nyomozó hatóság a gyanúsítást a bűncselekmény elkövetésével megalapozottan gyanúsítható személlyel – a bizonyítási eszközök ismertetése nélkül, az elkövetés helyének és idejének megjelölésével – a cselekmény történeti tényállása lényegének és a Btk. szerinti minősítésének közlésével végzi. A cselekmény történeti tényállásának lényegét akként kell közölni, hogy annak alapján a bűncselekmény törvényi tényállásának egyes elemei megállapíthatók legyenek.
 
 (2) Ha a gyanúsítás tárgyát képező bűncselekmény elkövetési magatartását más jogszabály határozza meg, a nyomozó hatóság a gyanúsítást úgy közli, hogy annak alapján megítélhető legyen a más jogszabály rendelkezéseinek megsértése is, egyúttal megjelöli az elkövetési magatartást meghatározó jogszabályt is.

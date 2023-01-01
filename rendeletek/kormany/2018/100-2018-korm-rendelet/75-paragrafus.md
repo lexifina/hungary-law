@@ -6,7 +6,7 @@ a) egy vagy több személy vagy tárgy megtekintéssel történő azonosítása 
 
 b) több, fő ismertetőjegyeiben eltérő személy vagy tárgy azonosítása, így különösen, ha bűncselekmény elkövetőjeként azonosított személyek elkövetés során tanúsított magatartásának vagy lefoglalt tárgyak tulajdonjogának megállapítása érdekében
 
-## szükséges.
+szükséges.
 
 (2) A kiválasztás során a szemlére vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 

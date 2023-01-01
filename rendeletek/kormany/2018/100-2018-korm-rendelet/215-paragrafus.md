@@ -17,3 +17,5 @@ e) a bűncselekmények áldozatainak jogaira, támogatására és védelmére vo
 f) a büntetőügyekben kibocsátott európai nyomozási határozatról szóló, 2014. április 3-i 2014/41/EU európai parlamenti és tanácsi irányelvnek,
 
 g) a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.

@@ -1,4 +1,4 @@
-## 79/A. [^40] A megszüntetett eljárás folytatása
+## 79/A. [^44] A megszüntetett eljárás folytatása
 
 159/A. § (1) Ha az eljárást a nyomozó hatóság a vizsgálat során szüntette meg, és az eljárás folytatása szükséges, a nyomozó hatóság arra felhatalmazott vezetője az ügyészséghez haladéktalanul előterjesztést tesz.
 
@@ -18,4 +18,4 @@ b) – ha arra sor került – az eljárás megszüntetése miatt bejelentett pa
 
 c) a Be. 400. § (6) bekezdés b) vagy c) pontja szerinti esetben arra az ügydöntő határozatra való utalást, amely megállapította a bizonyítási eszköz hamisságát, hamisított voltát vagy a törvénybe ütköző kötelességszegést.
 
-[^40]: A 79/A. alcímet (159/A. §) a 675/2020. (XII. 28.) Korm. rendelet 12. §-a iktatta be.
+[^44]: A 79/A. alcímet (159/A. §) a 675/2020. (XII. 28.) Korm. rendelet 12. §-a iktatta be.

@@ -18,8 +18,8 @@ d) az eljárás tárgyát képező bűncselekmény elkövetési magatartását.
 
 (3) A nyomozó hatóság az őrizet határidejét abban az esetben is az őrizet elrendelését megelőző hatósági fogva tartás kezdő időpontjától számítja, ha azt követően, de az őrizet elrendelését közvetlenül megelőzően a gyanúsított vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy jelenlétét igénylő eljárási cselekményt végez.
 
-(4)[^41] A nyomozó hatóság az őrizet elrendeléséről hozott határozatot a gyanúsítottnak, a bűncselekmény elkövetésével megalapozottan gyanúsítható személynek, illetve a jelen lévő védőnek kihirdeti, és a határozatot átadja. A nyomozó hatóság tolmács kirendelésével és a határozat lefordítása érdekében szükséges intézkedések megtételével biztosítja, hogy a gyanúsított vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy a nyelvhasználat jogát gyakorolhassa.
+(4)[^45] A nyomozó hatóság az őrizet elrendeléséről hozott határozatot a gyanúsítottnak, a bűncselekmény elkövetésével megalapozottan gyanúsítható személynek, illetve a jelen lévő védőnek kihirdeti, és a határozatot átadja. A nyomozó hatóság tolmács kirendelésével és a határozat lefordítása érdekében szükséges intézkedések megtételével biztosítja, hogy a gyanúsított vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy a nyelvhasználat jogát gyakorolhassa.
 
 (5) A nyomozó hatóság az őrizet elrendeléséről az ügyészséget a határozat megküldésével tájékoztatja.
 
-[^41]: A 160. § (4) bekezdése a 675/2020. (XII. 28.) Korm. rendelet 17. § 9. pontja szerint módosított szöveg.
+[^45]: A 160. § (4) bekezdése a 675/2020. (XII. 28.) Korm. rendelet 17. § 9. pontja szerint módosított szöveg.

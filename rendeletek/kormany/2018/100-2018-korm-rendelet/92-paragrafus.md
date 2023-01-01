@@ -5,3 +5,5 @@
 a) továbbra is fennállnak, az elrendelés érdekében az általános szabályok,
 
 b) nem állnak fenn, annak visszaadása, kiadása érdekében a feloldásra vonatkozó szabályok
+
+szerint intézkedik.

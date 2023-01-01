@@ -8,6 +8,6 @@ b) a kisebb korlátozással járó magatartási szabályok alkalmazását kizár
 
 c) a terhelt mozgását nyomon követő technikai eszköz telepítésének feltételeiről
 
-## is.
+is.
 
 (2) Ha a nyomozó hatóság a bűnügyi felügyelet elrendelése esetén szükségesnek tartja annak kizárását, hogy a gyanúsított a kijelölt területet, helyet a mindennapi élet szokásos szükségleteinek biztosítása, munkavégzés vagy gyógykezelés céljából elhagyja, a kizárást megalapozó tények feltüntetésével indokait az előterjesztésben részletesen leírja.

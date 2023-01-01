@@ -12,7 +12,7 @@ b) bizonyítási eszköz beszerzéséhez, illetve eljárási cselekmény elvégz
 
 c) nemzetközi, illetve európai elfogatóparancs kibocsátása
 
-## szükséges.
+szükséges.
 
 (2) Az előterjesztés mellőzhető, ha a nemzetközi bűnügyi jogsegély keretében teljesítendő eljárási cselekmény az elérni kívánt célhoz képest aránytalan terhet jelentene vagy az eljárás aránytalan elhúzódását eredményezné, mással pótolható, továbbá ha a nemzetközi bűnügyi jogsegély iránti kérelem előterjesztésétől eredmény nem várható.
 

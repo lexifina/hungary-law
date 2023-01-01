@@ -1,4 +1,4 @@
-## XXVI. Fejezet[^55]
+## XXVI. Fejezet[^67]
 
 ## AZ ÜGYÉSZSÉGI NYOMOZÁS SORÁN FELMERÜLT EGYES KÖLTSÉGEK SZABÁLYAI
 
@@ -12,7 +12,7 @@ c) DNS mintavétel anyagköltségének és munkadíjának, valamint
 
 d) kutyával végrehajtott szagazonosítás költségének
 
-## megtérítésére jogosult.
+megtérítésére jogosult.
 
 (2) Az (1) bekezdés a)–d) pontja szerinti kiadások (a továbbiakban együtt: költségek) megtérítése az országos rendőrfőkapitány és a legfőbb ügyész között létrejött éves díjmegállapodás mellékletében rögzített díjtételek alapul vételével történik.
 
@@ -26,4 +26,4 @@ b) havonta jelentést tesz a felmerült költségekről az országos rendőrfők
 
 (5) A legfőbb ügyész az elfogadott összesített elszámolás alapján kezdeményezi a fejezetek közötti működési célú előirányzat-átadást a Magyar Államkincstárnál.
 
-[^55]: A XXVI. fejezetet (212/A. §) a 675/2020. (XII. 28.) Korm. rendelet 16. §-a iktatta be.
+[^67]: A XXVI. fejezetet (212/A. §) a 675/2020. (XII. 28.) Korm. rendelet 16. §-a iktatta be.

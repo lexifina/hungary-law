@@ -16,10 +16,10 @@
 
 (4) A nyomozó hatóság a beadványhoz csatolt iratok, okiratok vagy egyéb tárgyi bizonyítási eszközök esetén annak bizonyításbeli szerepéhez képest
 
-a)[^24] a tárgyi bizonyítási eszköz lefoglalásáról vagy – a jogszabályban meghatározott esetben – le nem foglalt bűnjelként történő kezeléséről dönt, vagy
+a)[^27] a tárgyi bizonyítási eszköz lefoglalásáról vagy – a jogszabályban meghatározott esetben – le nem foglalt bűnjelként történő kezeléséről dönt, vagy
 
 b) a tárgyi bizonyítási eszközt nem képező iratot a beadvánnyal együtt az ügyiratok között kezeli.
 
 (5) A nyomozó hatóság a (4) bekezdés b) pontja esetén az eredeti iratot – indokolt esetben másolat készítése mellett – a beadványt tevő személy kérelmére visszaadhatja.
 
-[^24]: A 104. § (4) bekezdés a) pontja a 80/2022. (III. 4.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^27]: A 104. § (4) bekezdés a) pontja a 80/2022. (III. 4.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.

@@ -9,3 +9,5 @@
 a) a távoltartással érintett személy magatartási szabályokkal kapcsolatos személyi körülményeit, és
 
 b) a távoltartás elrendelésére figyelemmel a gyanúsított lakhatására vonatkozó adatokat
+
+is.
