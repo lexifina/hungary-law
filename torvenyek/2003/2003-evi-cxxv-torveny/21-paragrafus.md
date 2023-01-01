@@ -22,6 +22,8 @@ g) a tagsággal vagy részvétellel kapcsolatban a munkavállalók szervezeteibe
 
 h) az előmeneteli rendszerben;
 
-i) a kártérítési, illetve a fegyelmi felelősség érvényesítése során, valamint
+i) a kártérítési, illetve a fegyelmi felelősség érvényesítése során,
 
-j) a munkavállalók szülői és munkavállalói kötelezettségeinek összehangolását és a gyermek gondozására fordítható idő növelését elősegítő szülői szabadság kérelmezésével, illetve igénybevételével összefüggésben.
+j) a munkavállalók szülői és munkavállalói kötelezettségeinek összehangolását és a gyermek gondozására fordítható idő növelését elősegítő apasági szabadság, szülői szabadság és a gyermek gondozása céljából a gyermek hároméves koráig igénybe vehető fizetés nélküli szabadság kérelmezésével, vagy igénybevételével összefüggésben, valamint
+
+k) a gondozói munkaidő-kedvezmény kérelmezésével vagy igénybevételével összefüggésben.
