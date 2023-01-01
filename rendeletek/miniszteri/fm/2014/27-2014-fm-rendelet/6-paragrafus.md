@@ -6,7 +6,7 @@
 
 a) 50%-os betakarítási készültségi állapotot meghaladó növénykultúrák tárgyévi hozamának kiszámításánál a már betakarított területek termésmennyiségének és a betakarított terület nagyságának hányadosát,
 
-b)[^44] 50%-os betakarítási készültségi állapotot meg nem haladó növénykultúrák tárgyévi hozamának kiszámításánál az – elektronikus benyújtófelületen elérhető, az AKI Nonprofit Kft. által meghatározott – ügyfél székhelye vagy lakóhelye szerinti megye vonatkozásában képzett megyei, ennek hiányában országos, az Mkk. tv. 2. § 2a. pontja szerinti átlaghozam-adatokat
+b)[^44] 50%-os betakarítási készültségi állapotot meg nem haladó növénykultúrák tárgyévi hozamának kiszámításánál az – elektronikus benyújtófelületen elérhető, az AKI Nonprofit Kft. által meghatározott – ügyfél székhelye vagy lakóhelye szerinti vármegye vonatkozásában képzett vármegyei, ennek hiányában országos, az Mkk. tv. 2. § 2a. pontja szerinti átlaghozam-adatokat
 
 kell alapul venni.
 
@@ -14,11 +14,11 @@ kell alapul venni.
 
 (4)[^45] Azon növénykultúrák esetében, amelyeknél az (1) bekezdés szerinti referenciaár mellett ársáv közzétételére is sor került, a mezőgazdasági termelő a közzétett referenciaár helyett az adott kárenyhítési év értékesítéseinek számlával, illetve termeltetési szerződéssel igazolt ár adatait jogosult felhasználni, amennyiben ezen ár adatok a közzétett ársávba esnek.
 
-(5)[^46] Ha a mezőgazdasági termelő az adott növénykultúrára vonatkozóan nem rendelkezik a referencia-időszak egy vagy több évének bejelentett hozamadatával, a referencia-időszak hozamadatainak meghatározása során az adott növénykultúrára és az adott évre vonatkozóan – az elektronikus benyújtófelületen elérhető, az AKI Nonprofit Kft. által meghatározott – az ügyfél székhelye vagy lakóhelye szerinti megye vonatkozásában képzett megyei, ennek hiányában országos, az Mkk. tv. 2. § 2a. pontja szerinti átlaghozam-adatok alapján kell képezni a bázisadatokat. Ezen bázisadatok szolgálnak az adott mezőgazdasági termelő esetében a hozamérték-csökkenés kiszámításához szükséges referencia hozamérték kiszámításának alapjául.
+(5)[^46] Ha a mezőgazdasági termelő az adott növénykultúrára vonatkozóan nem rendelkezik a referencia-időszak egy vagy több évének bejelentett hozamadatával, a referencia-időszak hozamadatainak meghatározása során az adott növénykultúrára és az adott évre vonatkozóan – az elektronikus benyújtófelületen elérhető, az AKI Nonprofit Kft. által meghatározott – az ügyfél székhelye vagy lakóhelye szerinti vármegye vonatkozásában képzett vármegyei, ennek hiányában országos, az Mkk. tv. 2. § 2a. pontja szerinti átlaghozam-adatok alapján kell képezni a bázisadatokat. Ezen bázisadatok szolgálnak az adott mezőgazdasági termelő esetében a hozamérték-csökkenés kiszámításához szükséges referencia hozamérték kiszámításának alapjául.
 
-(6)[^47] A referencia-időszak hozamadatainak meghatározása során azokra az évekre, amelyekre vonatkozóan a mezőgazdasági termelő az egységes kérelemben az adott növénykultúra termesztéséről nyilatkozott, az ügyfél székhelye vagy lakóhelye szerinti megye vonatkozásában képzett megyei, ennek hiányában országos, az Mkk. tv. 2. § 2a. pontja szerinti átlaghozam-adatok nem használhatóak fel.
+(6)[^47] A referencia-időszak hozamadatainak meghatározása során azokra az évekre, amelyekre vonatkozóan a mezőgazdasági termelő az egységes kérelemben az adott növénykultúra termesztéséről nyilatkozott, az ügyfél székhelye vagy lakóhelye szerinti vármegye vonatkozásában képzett vármegyei, ennek hiányában országos, az Mkk. tv. 2. § 2a. pontja szerinti átlaghozam-adatok nem használhatóak fel.
 
-(6a)[^48] A referencia-időszak hozamadatainak meghatározása során ültetvények esetében – a termőre fordulás évétől az azt követő negyedik évvel bezárólag a termőre fordult ültetvényhez tartozó – saját hozamadat hiányában az ügyfél székhelye vagy lakóhelye szerinti megye vonatkozásában képzett megyei, ennek hiányában országos, az Mkk. tv. 2. § 2a. pontja szerinti átlaghozam-adatok használhatóak fel abban az esetben is, amikor a mezőgazdasági termelő a referencia-időszak adott évére és a még nem termő ültetvényre vonatkozóan korábban nulla hozamadatot adott meg.
+(6a)[^48] A referencia-időszak hozamadatainak meghatározása során ültetvények esetében – a termőre fordulás évétől az azt követő negyedik évvel bezárólag a termőre fordult ültetvényhez tartozó – saját hozamadat hiányában az ügyfél székhelye vagy lakóhelye szerinti vármegye vonatkozásában képzett vármegyei, ennek hiányában országos, az Mkk. tv. 2. § 2a. pontja szerinti átlaghozam-adatok használhatóak fel abban az esetben is, amikor a mezőgazdasági termelő a referencia-időszak adott évére és a még nem termő ültetvényre vonatkozóan korábban nulla hozamadatot adott meg.
 
 (6b)[^49] Azokban az esetekben, amikor a mezőgazdasági termelő a referencia-időszak egy vagy több évére vonatkozóan az egységes kérelemben az adott növénykultúra termesztéséről nem nyilatkozott, ugyanakkor az adott növénykultúrát termesztette, a hiányzó hozamadatot a kárenyhítő juttatás iránti kérelemben tett nyilatkozattal kell pótolni.
 
@@ -37,11 +37,11 @@ b)[^52] az Mkk. tv. 2. § 2a. pontja szerinti átlaghozam-adatát kell figyelemb
 (10)[^53] A kárenyhítő juttatás tekintetében akkor kerül figyelembevételre a növénykultúra egységes kérelemben történő szaporítóanyag célú megjelölése, ha az ügyfél a terület vonatkozásában a vetőmag-előállítást a szántóföldi növényfajok vetőmagvainak előállításáról és forgalomba hozataláról szóló 48/2004. (IV. 21.) FVM rendelet, valamint a zöldség szaporítóanyagok előállításáról és forgalomba hozataláról szóló 50/2004. (IV. 22.) FVM rendelet alapján végzi. A kárenyhítési eljárás szempontjából a hibridnapraforgó és a hibridkukorica szaporítóanyag-előállítás céljából termesztett növénykultúrának minősül.
 
 [^43]: A 6. § (1) bekezdése a 3/2021. (II. 19.) AM rendelet 5. § a) pontja szerint módosított szöveg.
-[^44]: A 6. § (2) bekezdés b) pontja a 35/2017. (VII. 6.) FM rendelet 11. § (1) bekezdésével megállapított, a 3/2021. (II. 19.) AM rendelet 5. § b) pontja szerint módosított szöveg.
+[^44]: A 6. § (2) bekezdés b) pontja a 35/2017. (VII. 6.) FM rendelet 11. § (1) bekezdésével megállapított, a 3/2021. (II. 19.) AM rendelet 5. § b) pontja, a 138/2022. (XII. 27.) AM rendelet 1. § a) és b) pontja szerint módosított szöveg.
 [^45]: A 6. § (4) bekezdése a 10/2019. (IV. 1.) AM rendelet 5. § c) pontja szerint módosított szöveg.
-[^46]: A 6. § (5) bekezdése a 35/2017. (VII. 6.) FM rendelet 11. § (2) bekezdésével megállapított, a 35/2017. (VII. 6.) FM rendelet 11. § (1) bekezdésével megállapított, a 3/2021. (II. 19.) AM rendelet 5. § b) pontja szerint módosított szöveg.
-[^47]: A 6. § (6) bekezdése a 35/2017. (VII. 6.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^48]: A 6. § (6a) bekezdését a 4/2016. (I. 20.) FM rendelet 20. §-a iktatta be, szövege a 35/2017. (VII. 6.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^46]: A 6. § (5) bekezdése a 35/2017. (VII. 6.) FM rendelet 11. § (2) bekezdésével megállapított, a 35/2017. (VII. 6.) FM rendelet 11. § (1) bekezdésével megállapított, a 3/2021. (II. 19.) AM rendelet 5. § b) pontja, a 138/2022. (XII. 27.) AM rendelet 1. § a) és b) pontja szerint módosított szöveg.
+[^47]: A 6. § (6) bekezdése a 35/2017. (VII. 6.) FM rendelet 11. § (2) bekezdésével megállapított, a 138/2022. (XII. 27.) AM rendelet 1. § a) és b) pontja szerint módosított szöveg.
+[^48]: A 6. § (6a) bekezdését a 4/2016. (I. 20.) FM rendelet 20. §-a iktatta be, szövege a 35/2017. (VII. 6.) FM rendelet 11. § (2) bekezdésével megállapított, a 138/2022. (XII. 27.) AM rendelet 1. § a) és b) pontja szerint módosított szöveg.
 [^49]: A 6. § (6b) bekezdését a 4/2016. (I. 20.) FM rendelet 20. §-a iktatta be.
 [^50]: A 6. § (6c) bekezdését a 60/2020. (XII. 9.) AM rendelet 4. § (1) bekezdése iktatta be.
 [^51]: A 6. § (6c) bekezdés a) pontja a 43/2021. (XI. 29.) AM rendelet 4. §-ával megállapított szöveg.

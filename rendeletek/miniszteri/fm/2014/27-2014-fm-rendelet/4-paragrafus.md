@@ -50,7 +50,7 @@ k)[^13] ültetvény esetén a telepítés (év, hónap) és a termőre fordulás
 
 (1d)[^14] Az (1) bekezdés szerinti várható hozamcsökkenés mértékét az (1c) bekezdés h) pont hb) és hc) alpontja szerinti tárgyévi hozamok különbsége alapján kell meghatározni.
 
-(2)[^15] A kárbejelentés alapján eljáró szerv a károsodással érintett terület szerint illetékes, földművelésügyi igazgatási hatáskörben eljáró megyei kormányhivatal (a továbbiakban: agrárkár-megállapító szerv).
+(2)[^15] A kárbejelentés alapján eljáró szerv a károsodással érintett terület szerint illetékes, földművelésügyi igazgatási hatáskörben eljáró vármegyei kormányhivatal (a továbbiakban: agrárkár-megállapító szerv).
 
 (3)[^16] A hozamcsökkenést okozó aszály, belvíz, téli fagy vagy mezőgazdasági árvíz esetén a mezőgazdasági káresemény bekövetkezésének – az időjárási jelenség és természeti esemény bekövetkezésének tényleges időpontjától függetlenül – azt az időpontot kell tekinteni, amikor a károsodással érintett területen termesztett növénykultúrán a károsodás első alkalommal észlelhetővé válik. A hozamcsökkenést okozó felhőszakadás, jégeső, tavaszi fagy, őszi fagy vagy vihar esetén a mezőgazdasági káresemény bekövetkezésének azt az időpontot kell tekinteni, amikor az időjárási jelenség és természeti esemény a károsodással érintett területen bekövetkezik.
 
@@ -80,7 +80,7 @@ b) a mezőgazdasági termelő által az egységes kérelem felületen – az egy
 
 (11)[^25] A mezőgazdasági termelő a kárbejelentést a kárbejelentéssel érintett terület egy részére vagy egészére vonatkozóan a kárbejelentés tárgyában hozott döntés meghozataláig szankciómentesen visszavonhatja az agrárkár-megállapító szervnél az agrárkár-megállapító szerv által a honlapján közzétett nyomtatványon.
 
-(12)[^26] A mezőgazdasági termelő az (1)–(1c) bekezdés szerinti kárbejelentést a ültetvény esetében kizárólag a termőre fordult, a káresemény bekövetkezésének időpontjában még termő, megyei referenciahozam leadására képes és szakszerűen művelt területen termesztett ültetvényre jogosult megtenni.
+(12)[^26] A mezőgazdasági termelő az (1)–(1c) bekezdés szerinti kárbejelentést a ültetvény esetében kizárólag a termőre fordult, a káresemény bekövetkezésének időpontjában még termő, vármegyei referenciahozam leadására képes és szakszerűen művelt területen termesztett ültetvényre jogosult megtenni.
 
 (13)[^27] Termőre fordult ültetvénynek minősül az az ültetvény, amelyben a termés hozatalára képes azonos fajhoz tartozó egyedek aránya eléri a 70%-ot a kárbejelentéssel érintett területen alkalmazott termesztéstechnológia alapján elvi szinten megállapítható legmagasabb egyedszámhoz képest.
 
@@ -93,7 +93,7 @@ b) a mezőgazdasági termelő által az egységes kérelem felületen – az egy
 [^12]: A 4. § (1c) bekezdés i) pont ic) alpontja a 43/2021. (XI. 29.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^13]: A 4. § (1c) bekezdés k) pontja a 43/2021. (XI. 29.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^14]: A 4. § (1d) bekezdését a 60/2020. (XII. 9.) AM rendelet 2. § (1) bekezdése iktatta be.
-[^15]: A 4. § (2) bekezdése az 54/2015. (IX. 16.) FM rendelet 6. § (1) bekezdésével megállapított, a 46/2020. (IX. 23.) AM rendelet 28. §-a szerint módosított szöveg.
+[^15]: A 4. § (2) bekezdése az 54/2015. (IX. 16.) FM rendelet 6. § (1) bekezdésével megállapított, a 46/2020. (IX. 23.) AM rendelet 28. §-a, a 138/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^16]: A 4. § (3) bekezdése a 35/2017. (VII. 6.) FM rendelet 10. §-ával megállapított szöveg.
 [^17]: A 4. § (4) bekezdése a 60/2020. (XII. 9.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^18]: A 4. § (5) bekezdése a 36/2016. (V. 13.) FM rendelet 3. § a) pontja szerint módosított szöveg.
@@ -104,6 +104,6 @@ b) a mezőgazdasági termelő által az egységes kérelem felületen – az egy
 [^23]: A 4. § (9) bekezdését az 54/2015. (IX. 16.) FM rendelet 6. § (2) bekezdése iktatta be, szövege a 60/2020. (XII. 9.) AM rendelet 8. § c) pontja szerint módosított szöveg.
 [^24]: A 4. § (10) bekezdését a 10/2019. (IV. 1.) AM rendelet 1. § (2) bekezdése iktatta be, szövege a 60/2020. (XII. 9.) AM rendelet 2. § (5) bekezdésével megállapított szöveg.
 [^25]: A 4. § (11) bekezdését a 60/2020. (XII. 9.) AM rendelet 2. § (5) bekezdése iktatta be.
-[^26]: A 4. § (12) bekezdését a 60/2020. (XII. 9.) AM rendelet 2. § (6) bekezdése iktatta be, szövege a 43/2021. (XI. 29.) AM rendelet 6. § a) pontja szerint módosított szöveg.
+[^26]: A 4. § (12) bekezdését a 60/2020. (XII. 9.) AM rendelet 2. § (6) bekezdése iktatta be, szövege a 43/2021. (XI. 29.) AM rendelet 6. § a) pontja, a 138/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^27]: A 4. § (13) bekezdését a 60/2020. (XII. 9.) AM rendelet 2. § (6) bekezdése iktatta be.
 [^28]: A 4. § (14) bekezdését a 60/2020. (XII. 9.) AM rendelet 2. § (6) bekezdése iktatta be.
