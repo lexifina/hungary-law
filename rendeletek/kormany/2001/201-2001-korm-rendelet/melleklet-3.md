@@ -198,6 +198,6 @@
 
 ## 4.18. Fertőtlenítéssel összefüggő paraméterek
 
-3. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^123]
+3. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^124]
 
-[^123]: A 3. számú melléklet a 464/2016. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^124]: A 3. számú melléklet a 464/2016. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.

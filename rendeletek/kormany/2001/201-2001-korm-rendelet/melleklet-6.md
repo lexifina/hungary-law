@@ -96,7 +96,7 @@
 
 ## VI. Az NNK a közegészségügyi kockázatok mérlegelése alapján további dokumentumok benyújtását írhatja elő.
 
-6. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^126]
+6. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^127]
 
 Az ivóvízbiztonsági terv tartalmi követelményei és a szakvéleményezéshez benyújtandó dokumentumok
 
@@ -170,4 +170,4 @@ II. Az NNK szakvélemény kérelemhez benyújtandó dokumentumok
 
 5. Az NNK a közegészségügyi szempontú értékeléshez további dokumentumok benyújtását kérheti.
 
-[^126]: A 6. számú mellékletet újonnan a 430/2013. (XI. 15.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 10. § d) pontjával megállapított, a 162/2018. (IX. 10.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^127]: A 6. számú mellékletet újonnan a 430/2013. (XI. 15.) Korm. rendelet 12. § (5) bekezdése iktatta be, szövege a 250/2017. (IX. 5.) Korm. rendelet 10. § d) pontjával megállapított, a 162/2018. (IX. 10.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

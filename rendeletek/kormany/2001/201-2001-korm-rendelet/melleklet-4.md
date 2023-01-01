@@ -338,6 +338,6 @@
 
 | Megjegyzések: 1. A kimutatási határt az ISO 11929 („A jellemző határértékek [döntési határérték, kimutatási határ és megbízhatósági tartományok] meghatározása az ionizáló sugárzás méréséhez - Alapok és alkalmazások”) szabvány szerint, 0,05-os első- és másodfajú hiba feltételezésével kell meghatározni. 2. A mérési bizonytalanságokat teljes standard bizonytalanságként vagy kiterjesztett standard bizonytalanságként, 1,96-os kiterjesztési tényezővel, az „Útmutató a mérési bizonytalanság kifejezéséhez” című ISO-útmutató alapján kell kiszámítani és megadni. 3. A trícium és a radon kimutatási határa a 100 Bq/l parametrikus érték 10%-a. 4. Az összesalfa-aktivitás és az összesbéta-aktivitás kimutatási határa a 0,1 Bq/l, illetve az 1,0 Bq/l vizsgálati érték 40%-a. 5. Ez a kimutatási határ csak új vízforrás esetében, az indikatív dózis kezdeti vizsgálatára alkalmazandó. Ha a kezdeti vizsgálat alapján nem valószínű, hogy az Ra-228 meghaladja a származtatott koncentráció 20%-át, a kimutatási határ az Ra-228 nuklidra vonatkozó rutinmérések esetében 0,08 Bq/l-re növelhető, amíg az ellenőrzés megismétlése nem szükséges. |
 
-4. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^124]
+4. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^125]
 
-[^124]: A 4. számú mellékletet a 364/2014. (XII. 30.) Korm. rendelet 51. § c) pontja hatályon kívül helyezte.
+[^125]: A 4. számú mellékletet a 364/2014. (XII. 30.) Korm. rendelet 51. § c) pontja hatályon kívül helyezte.
