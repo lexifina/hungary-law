@@ -1,5 +1,3 @@
-## 24. §
-
 ## V. Fejezet
 
 ## HASZNÁLATBAVÉTEL ENGEDÉLYEZÉSE

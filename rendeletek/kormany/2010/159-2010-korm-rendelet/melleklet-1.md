@@ -1,8 +1,6 @@
-## 48. §[^109]
-
 1. melléklet a 159/2010. (V. 6.) Korm. rendelethez[^110]
 
-## A repülőtér területén lévő általános építmények
+A repülőtér területén lévő általános építmények
 
 1. Terminál, utasforgalmi vagy cargo épület
 
@@ -10,5 +8,4 @@
 
 3. Irányítótorony épület
 
-[^109]: A 48. § a (3) bekezdés alapján hatályát vesztette.
 [^110]: Az 1. melléklet a 207/2014. (VIII. 15.) Korm. rendelet 17. §-ával megállapított szöveg.

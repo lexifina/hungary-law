@@ -26,7 +26,7 @@ b) a „B” osztályú leszállóhely esetében ugyanazon a helyszínen vagy an
 
 c)[^84]
 
-## engedélyezi.
+engedélyezi.
 
 (6)[^85] A „B” osztályú leszállóhely használatát a tényleges használat előtt 8 órával megelőzően be kell jelenteni a légiközlekedési hatóságnak. A bejelentést e-mailen vagy faxon kell megtenni.
 

@@ -12,7 +12,7 @@ c) az „A” és „B” osztályú leszállóhely létesítésére irányuló 
 
 d) a „C” osztályú leszállóhelynek a VI. fejezetben meghatározottak szerinti bejelentésére
 
-## kell alkalmazni.
+kell alkalmazni.
 
 (2) E rendelet hatálya nem terjed ki:
 

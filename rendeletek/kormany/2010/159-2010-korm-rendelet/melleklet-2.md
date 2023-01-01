@@ -1,6 +1,6 @@
 2. melléklet a 159/2010. (V. 6.) Korm. rendelethez
 
-## Repülőtér létesítési engedélyéhez szükséges feltételek
+Repülőtér létesítési engedélyéhez szükséges feltételek
 
 A nemzetközi polgári repülésről Chicagóban, az 1944. évi december hó 7. napján aláírt Egyezmény Függelékeinek kihirdetéséről szóló 2007. évi XLVI. törvény mellékleteként kihirdetett 14. Függelékében foglaltak alapján
 

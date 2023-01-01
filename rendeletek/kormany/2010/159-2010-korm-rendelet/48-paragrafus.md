@@ -1,3 +1,3 @@
-## 47. §[^108]
+48. §[^109]
 
-[^108]: A 47. §-t a 48. § (1) bekezdése hatályon kívül helyezte.
+[^109]: A 48. § a (3) bekezdés alapján hatályát vesztette.

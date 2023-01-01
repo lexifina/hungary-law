@@ -1,6 +1,6 @@
 3. melléklet a 159/2010. (V. 6.) Korm. rendelethez
 
-## Leszállóhely létesítéshez szükséges dokumentáció tartalma
+Leszállóhely létesítéshez szükséges dokumentáció tartalma
 
 1. A tervezett leszállóhely telkét és üzemi területét ábrázoló térképek, a légi megközelítési, felszállási sávot, megközelítési felületet, felszállás utáni emelkedési felületet, akadálysíkokat bemutató tervek.
 
