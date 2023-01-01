@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-5-20-22
 | 2020-02-20 | 2017-5-20-22.4 | 20/2020. (II. 19.) Korm. rendelet |
 | 2020-12-22 | 2017-5-20-22.5 | 617/2020. (XII. 21.) Korm. rendelet |
 | 2022-12-23 | 2017-5-20-22.6 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2023-01-01 | 2017-5-20-22.7 | 546/2022. (XII. 22.) Korm. rendelet |
