@@ -4,7 +4,7 @@
 
 a) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságra (a továbbiakban: BM OKF),
 
-b)[^2] a megyei katasztrófavédelmi igazgatóságokra, a Fővárosi Katasztrófavédelmi Igazgatóságra (a továbbiakban együtt: igazgatóság) és a Katasztrófavédelmi Oktatási Központra (a továbbiakban: KOK),
+b)[^2] a vármegyei katasztrófavédelmi igazgatóságokra, a Fővárosi Katasztrófavédelmi Igazgatóságra (a továbbiakban együtt: igazgatóság) és a Katasztrófavédelmi Oktatási Központra (a továbbiakban: KOK),
 
 c) a katasztrófavédelmi kirendeltségekre (a továbbiakban: kirendeltség),
 
@@ -25,7 +25,7 @@ j)[^6]
 k)[^7] az idegenrendészeti szervre.
 
 [^1]: Az 1. § a 29/2016. (VII. 15.) BM rendelet 8. §-ával megállapított szöveg.
-[^2]: Az 1. § b) pontja a 41/2022. (XII. 9.) BM rendelet 3. §-ával megállapított szöveg.
+[^2]: Az 1. § b) pontja a 41/2022. (XII. 9.) BM rendelet 3. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 61. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § g) pontját a 41/2022. (XII. 9.) BM rendelet 11. § a) pontja hatályon kívül helyezte.
 [^4]: Az 1. § h) pontját a 41/2022. (XII. 9.) BM rendelet 11. § a) pontja hatályon kívül helyezte.
 [^5]: Az 1. § i) pontja a 27/2019. (VI. 28.) BM rendelet 18. § a) pontja szerint módosított szöveg.
