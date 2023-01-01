@@ -14,11 +14,7 @@ Határidő: 2023. december 31.
 
 5. egyetért azzal, hogy a beruházás megvalósítója a Beruházási Ügynökség;
 
-6. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 25. Felújítások központi támogatása, egyéb fejlesztési támogatások alcím, 52. Mórahalmi Komplex Fejlesztő Centrum létrehozása jogcímcsoporttal történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+6.[^2]
 
 7. felhívja az innovációért és technológiáért felelős minisztert, hogy – az emberi erőforrások minisztere bevonásával – a Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 1. Innovációs és Technológiai Minisztérium igazgatása cím terhére gondoskodjon 43 827 509 forint forrás biztosításáról a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 25. Felújítások központi támogatása, egyéb fejlesztési támogatások alcím, 52. Mórahalmi Komplex Fejlesztő Centrum létrehozása jogcímcsoport javára;
 
@@ -64,6 +60,7 @@ a c) pont tekintetében a 2022. évi központi költségvetés tervezése során
 
 a d) pont tekintetében a 2023. évi központi költségvetés tervezése során
 
-10.[^1]
+10.[^3]
 
-[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
