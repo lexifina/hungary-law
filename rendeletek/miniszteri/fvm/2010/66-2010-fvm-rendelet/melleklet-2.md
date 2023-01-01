@@ -1,5 +1,3 @@
-## A növények, növényi termékek, valamint a növényeken és növényi termékeken kívüli növényi és állati eredetű élelmiszerek növényvédőszer-maradék szintjének hatósági ellenőrzésére történő mintavétel szabályai
-
 ## Az alábbi előírások nem érintik az állati eredetű élelmiszerekben előforduló, egészségre ártalmas maradékanyagok monitoring vizsgálati rendjéről szóló 10/2002. (I. 23.) FVM rendeletben meghatározott mintavételi stratégiát, mintavételi szinteket és gyakoriságot.
 
 ## 1. Célkitűzés
