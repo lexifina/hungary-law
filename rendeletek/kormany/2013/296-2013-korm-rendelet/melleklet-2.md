@@ -98,7 +98,7 @@
 
 ## D. ADÓZOTT EREDMÉNY (C-10.)
 
-2. melléklet a 296/2013. (VII. 29.) Korm. rendelethez[^13]
+2. melléklet a 296/2013. (VII. 29.) Korm. rendelethez[^15]
 
 1. Az egyszerűsített beszámoló egyszerűsített mérlegének előírt tagolása
 
@@ -148,11 +148,11 @@ II. Rövid lejáratú kötelezettségek
 
 |  | tevékenység | tevékenység |  |  |
 
-A. Végleges pénzbevételek, elszámolt bevételek (I+II)
+## A. Végleges pénzbevételek, elszámolt bevételek (I+II)
 
-I. Pénzügyileg rendezett bevételek
+## I. Pénzügyileg rendezett bevételek
 
-ebből:
+## ebből:
 
 a) egyházi támogatások
 
@@ -184,4 +184,4 @@ VII. Fizetendő társasági adó
 
 F. Egyszerűsített beszámoló adózott eredménye (E-VII)
 
-[^13]: A 2. melléklet a 484/2015. (XII. 29.) Korm. rendelet 104. § (2) bekezdése szerint módosított szöveg.
+[^15]: A 2. melléklet a 484/2015. (XII. 29.) Korm. rendelet 104. § (2) bekezdése szerint módosított szöveg.
