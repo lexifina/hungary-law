@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-159-00-00
 | 2021-12-25 | 2021. évi CXXXIII. törvény | 2012-159-00-00.27 |
 | 2022-06-01 | 2022. évi V. törvény | 2012-159-00-00.28 |
 | 2022-11-01 | 2022. évi VII. törvény | 2012-159-00-00.29 |
+| 2023-01-01 | 2022. évi LXVIII. törvény | 2012-159-00-00.30 |

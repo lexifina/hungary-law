@@ -6,4 +6,4 @@
 
 (4) Az egyetemes postai szolgáltató jogosult a sérelmére történő bűncselekmények elkövetésének megelőzése, illetve a bűncselekmény elkövetőjének felderítése érdekében sérülést vagy egészségkárosodást nem okozó technikai eszközt vagy csapdát alkalmazni.
 
-(5) Az egyetemes postai szolgáltató postai szolgáltatást vagy biztonsági szolgálatot ellátó alkalmazottja a feladata ellátása során gázsprayt, valamint a lőfegyverekről és lőszerekről szóló törvény szerint gáz- és riasztófegyvert tarthat magánál, azokat azonban csak jogos védelmi helyzetben, illetve végszükség esetén alkalmazhatja.
+(5) Az egyetemes postai szolgáltató postai szolgáltatást vagy biztonsági szolgálatot ellátó alkalmazottja a feladata ellátása során kizárólag olyan gázsprayt tarthat magánál, amelyet az egyetemes postai szolgáltató biztosít számára. Az egyetemes postai szolgáltató által biztosított gázspray kizárólag jogos védelmi helyzetben, illetve végszükség esetén alkalmazható.

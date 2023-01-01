@@ -18,4 +18,12 @@
 
 (9) A postai szolgáltató az egyedi szerződésben valamennyi, az egyedi szerződés hatálya alá tartozó postai szolgáltatás vonatkozásában kizárólag a 40–52. § rendelkezéseitől térhet el, amennyiben e törvény az eltérést nem tiltja. A postai szolgáltatót terheli annak bizonyítása, hogy az egyedi szerződés feltételeit egyedileg megtárgyalták, vagy azt a feladó vagy a címzett közreműködésével alakították ki. A postai szolgáltató az általa megkötött egyedi szerződésekről köteles nyilvántartást vezetni, és nyilvántartás vezetésének megkezdéséről és – a Hatóság erre vonatkozó felhívása alapján – az abban foglaltakról a Hatóság részére tájékoztatást adni.
 
+(9a) Ha a postai szolgáltató és a feladó (ideértve a postai konszolidátort is) vagy címzett egyedi szerződési jogviszonyának vonatkozásában az írásbeliség követelményének előírása ellenére az írásba foglalás elmaradt, a postai szolgáltató, a feladó (ideértve a postai konszolidátort is) vagy címzett az írásbeliség hiányára nem hivatkozhat, ha
+
+a) az írásba foglalás elmaradása neki felróható, vagy
+
+b) a teljesítés elfogadása közvetlenül vagy ráutaló magatartással megtörtént.
+
+(9b) A (9a) bekezdés szerinti esetben a postai szolgáltató és a feladó (ideértve a postai konszolidátort is) vagy címzett közötti egyedi szerződési jogviszony az erre a jogviszonyra irányadó jogszabályok és a postai szolgáltató általános szerződési feltételei szerinti tartalommal jön létre.
+
 (10) A feladó és a postai szolgáltató nem állapodhatnak meg olyan szerződési kikötésben, amely e törvény alapján a címzettet megillető jogot korlátoz vagy kizár.
