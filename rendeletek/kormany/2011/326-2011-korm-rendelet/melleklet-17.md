@@ -44,7 +44,7 @@
 
 ## 17. A törzskönyv nyomdai sorszámának vonalkódja
 
-## B.[^603]
+## B.[^616]
 
 ## A 2009. július 1-jét követően kiadásra kerülő törzskönyv tartalmi elemei
 
@@ -76,55 +76,4 @@
 
 ## 11. A törzskönyv nyomdai sorszámának vonalkódja.
 
-17. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^604]
-
-A.
-
-Az 1998. december 31-ig kiadott forgalmi engedély tartalmi elemei
-
-Előlap tartalmazza:
-
-a Magyar Köztársaság forgalmi engedélye megnevezést és az illusztrációt, a forgalmi engedély számát.
-
-Hátlap tartalmazza:
-
-a hivatalos feljegyzések rovatát és a műszaki érvényességi rovatot.
-
-Törzslap (belül a második oldal) tartalma:
-
-1. Rendszám
-
-2. Alvázszám
-
-3. Motorszám
-
-4. Gyártmány
-
-5. Típus
-
-6. Gyártási év
-
-7. Szín
-
-8. Hengerűrtartalom
-
-9. Teljesítmény
-
-10. Hajtóanyag
-
-11. Saját tömeg
-
-12. Össztömeg
-
-13. Szállítható személyek száma
-
-14. Vontatásra
-
-15. Katalizátorra
-
-16. Sebességváltóra vonatkozó adatok
-
-17. Forgalomba helyezés időpontja
-
-[^603]: A 16. melléklet B. része a 717/2021.(XII. 20.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^604]: A 17. melléklet a 441/2015. (XII. 28.) Korm. rendelet 154. § (20) bekezdése, a 440/2016. (XII. 16.) Korm. rendelet 20. §-a, a 375/2021. (VI. 30.) Korm. rendelet 15. §-a, a 717/2021. (XII. 20.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
+[^616]: A 16. melléklet B. része a 717/2021.(XII. 20.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.

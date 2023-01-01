@@ -1,6 +1,6 @@
-103. § (1)[^454] A járművet a hivatalból indult eljárás során a forgalmi engedély és a hatósági jelzés bevonásával – az f) pontban és a (2) bekezdésben foglaltak kivételével – a következő időtartamra kell ideiglenesen a forgalomból kivonni:
+103. § (1)[^464] A járművet a hivatalból indult eljárás során a forgalmi engedély és a hatósági jelzés bevonásával – az f) pontban és a (2) bekezdésben foglaltak kivételével – a következő időtartamra kell ideiglenesen a forgalomból kivonni:
 
-a)[^455] a 96. § (1) bekezdés a)–c) és f) pontja és a 101. § (1) bekezdés f) és h) pontja esetén a jármű műszaki alkalmasságának igazolásáig,
+a)[^465] a 96. § (1) bekezdés a)–c) és f) pontja és a 101. § (1) bekezdés f) és h) pontja esetén a jármű műszaki alkalmasságának igazolásáig,
 
 b) a 96. § (1) bekezdés e) és g) pontja, továbbá a 101. § (1) bekezdés a), d) és g) pontja esetén a kötelezettség teljesítésének igazolásáig,
 
@@ -10,11 +10,11 @@ d) a 96. § (1) bekezdés d) pontja esetén a büntetőeljárás jogerős befeje
 
 e) a 101. § (1) bekezdés c) pontja és 102. § (4) bekezdése esetén hat hónapra,
 
-f)[^456] a 87. § (4) bekezdés b) pontja, a 101. § (1) bekezdés e), k) és l) pontja, valamint a 102. § (5) bekezdése esetén átmeneti időszakra,
+f)[^466] a 87. § (4) bekezdés b) pontja, a 101. § (1) bekezdés e), k) és l) pontja, valamint a 102. § (5) bekezdése esetén átmeneti időszakra,
 
 g) a 101. § (1) bekezdés j) pontja esetén a kivonást kezdeményező hatóság értesítéséig,
 
-h)[^457] a 97. § (1) bekezdés e) pontjában meghatározott esetben
+h)[^467] a 97. § (1) bekezdés e) pontjában meghatározott esetben
 
 ha) első alkalommal hat hónapra,
 
@@ -30,14 +30,14 @@ c) 91 és 180 nap közé esik, hat hónap,
 
 d) 180 napot meghaladja, egy év.
 
-(3)[^458] A 87. § (4) bekezdés a) pontja alapján történt ideiglenes kivonás esetén a (2) bekezdésben meghatározott kivonás időtartamának lejártát követően csak abban az esetben helyezhető a jármű ismét forgalomba, ha az átírás kezdeményezésének kötelezettségét elmulasztó tulajdonos az átírás iránti kérelmét is előterjeszti.
+(3)[^468] A 87. § (4) bekezdés a) pontja alapján történt ideiglenes kivonás esetén a (2) bekezdésben meghatározott kivonás időtartamának lejártát követően csak abban az esetben helyezhető a jármű ismét forgalomba, ha az átírás kezdeményezésének kötelezettségét elmulasztó tulajdonos az átírás iránti kérelmét is előterjeszti.
 
 (4) A járművet a 101. § (1) bekezdés i) pontja esetén a bontási átvételi igazolás bemutatásáig kell ideiglenesen kivonni a forgalomból.
 
 (5) A forgalomból – a 101. § (1) bekezdés i) pontja alapján – kivont jármű ismételten nem helyezhető forgalomba.
 
-[^454]: A 103. § (1) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (12) bekezdésével megállapított szöveg.
-[^455]: A 103. § (1) bekezdés a) pontja az 524/2011. (XII. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^456]: A 103. § (1) bekezdés f) pontja a 468/2016. (XII. 23.) Korm. rendelet 24. §-ával megállapított, az 524/2011. (XII. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^457]: A 103. § (1) bekezdés h) pontját a 20/2016. (II. 11.) Korm. rendelet 2. §-a iktatta be, szövege a 164/2016. (VI. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^458]: A 103. § (3) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 45. § 34. pontja szerint módosított szöveg.
+[^464]: A 103. § (1) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (12) bekezdésével megállapított szöveg.
+[^465]: A 103. § (1) bekezdés a) pontja az 524/2011. (XII. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^466]: A 103. § (1) bekezdés f) pontja a 468/2016. (XII. 23.) Korm. rendelet 24. §-ával megállapított, az 524/2011. (XII. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^467]: A 103. § (1) bekezdés h) pontját a 20/2016. (II. 11.) Korm. rendelet 2. §-a iktatta be, szövege a 164/2016. (VI. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^468]: A 103. § (3) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 45. § 34. pontja szerint módosított szöveg.

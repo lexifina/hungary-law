@@ -1,4 +1,4 @@
-## I.[^598] A járműkísérő lap tartalmi elemei
+## I.[^611] A járműkísérő lap tartalmi elemei
 
 ## H
 
@@ -134,11 +134,11 @@
 
 ## a kiállítás helye, ideje, a kiállító közlekedési igazgatási hatóság megnevezése, bélyegzőlenyomat helye
 
-## II.[^599] A járműkísérő lap kitöltésének szabályai
+## II.[^612] A járműkísérő lap kitöltésének szabályai
 
 ## I. Új jármű forgalomba helyezése előtt;
 
-## a)[^600] A járműimportőr:
+## a)[^613] A járműimportőr:
 
 ## Az importőrnek – a Központi Okmányiroda által nyilvántartott, Járműkísérő lap felvételére és kiadására feljogosított gazdálkodó szervezet – a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletben meghatározott Megfelelőségi nyilatkozattal összhangban a Járműkísérő lap következő adatmezőit kell kitölteni:
 
@@ -158,13 +158,13 @@
 
 ## ah) A fenti adatokat kitöltő cégbélyegzője, a kiállításért felelős aláírása, a kiállítás dátuma.
 
-## b)[^601] Az értékesítő:
+## b)[^614] Az értékesítő:
 
 ## A gyártótól, illetve az importőrtől az adott járműhöz tartozó Járműkísérő lapot az érvényes megfelelőségi nyilatkozat alapján, illetve a Közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletben meghatározottak szerinti eljárást követően az értékesítés során az alábbi adatokkal kell kiegészíteni:
 
 ## ba) C.1. adatmező,
 
-## bb)[^602] G adatmező (Megfelelőségi nyilatkozat szerint,
+## bb)[^615] G adatmező (Megfelelőségi nyilatkozat szerint,
 
 ## bc) Műszaki érvényességre vonatkozó adatok,
 
@@ -188,8 +188,8 @@
 
 16. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
 
-[^598]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.
-[^599]: A 15. melléklet II. fejezete a 90/2015. (IV. 9.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
-[^600]: A 15. melléklet II. rész I. pont a) alpontja a 265/2020. (VI. 11.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
-[^601]: A 15. melléklet II. cím I. pont b) alpontja a 457/2017. (XII. 28.) Korm. rendelet 368. § t) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^602]: A 15. melléklet II. cím I. pont b) alpont bb) pontja a 457/2017. (XII. 28.) Korm. rendelet 369. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^611]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.
+[^612]: A 15. melléklet II. fejezete a 90/2015. (IV. 9.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
+[^613]: A 15. melléklet II. rész I. pont a) alpontja a 265/2020. (VI. 11.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^614]: A 15. melléklet II. cím I. pont b) alpontja a 457/2017. (XII. 28.) Korm. rendelet 368. § t) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^615]: A 15. melléklet II. cím I. pont b) alpont bb) pontja a 457/2017. (XII. 28.) Korm. rendelet 369. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

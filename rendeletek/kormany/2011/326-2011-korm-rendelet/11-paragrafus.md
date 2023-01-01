@@ -1,5 +1,5 @@
 ## 4. Ideiglenes vezetői engedély
 
-11. §[^65]
+11. §[^68]
 
-[^65]: A 11. §-t az 5/2013. (I. 16.) Korm. rendelet 23. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^68]: A 11. §-t az 5/2013. (I. 16.) Korm. rendelet 23. § (1) bekezdés b) pontja hatályon kívül helyezte.

@@ -1,11 +1,11 @@
-49. § (1)[^236] A közlekedési igazgatási hatóság visszautasítja a jármű forgalomba helyezése iránti kérelmet, valamint a törzskönyv és a forgalmi engedély kiadását, ha a jármű tulajdonjogát és származását hitelt érdemlően nem igazolják. Ha a járművet ennek ellenére forgalomba helyezték, a közlekedési igazgatási hatóság a jármű forgalomban való további részvételét megtiltja és a forgalmi engedélyt, valamint a törzskönyvet bevonja.
+49. § (1)[^242] A közlekedési igazgatási hatóság visszautasítja a jármű forgalomba helyezése iránti kérelmet, valamint a törzskönyv és a forgalmi engedély kiadását, ha a jármű tulajdonjogát és származását hitelt érdemlően nem igazolják. Ha a járművet ennek ellenére forgalomba helyezték, a közlekedési igazgatási hatóság a jármű forgalomban való további részvételét megtiltja és a forgalmi engedélyt, valamint a törzskönyvet bevonja.
 
-(2)[^237] Bűncselekményre utaló körülmények esetében a közlekedési igazgatási hatóság a törzskönyv és a forgalmi engedély kiadását visszautasító határozatot közli a kérelmező lakcíme szerint illetékes rendőrkapitánysággal.
+(2)[^243] Bűncselekményre utaló körülmények esetében a közlekedési igazgatási hatóság a törzskönyv és a forgalmi engedély kiadását visszautasító határozatot közli a kérelmező lakcíme szerint illetékes rendőrkapitánysággal.
 
 (3) Az (1) bekezdésben meghatározott esetben a forgalmi engedély kiállítható annak, akinek a nyomozó hatóság, az ügyészség, a bíróság a lefoglalást megszüntető határozatában a járművet kiadni rendeli. Amennyiben a rendelkezésre álló adatok alapján nem állapítható meg a jármű tulajdonjoga, a „törzskönyv kiadás megtagadva” bejegyzést a forgalmi engedélyben és a nyilvántartásban fel kell tüntetni.
 
-(4)[^238] A jármű üzemben tartói joga a törzskönyv kiadására irányuló kérelem visszautasítása esetén is átruházható.
+(4)[^244] A jármű üzemben tartói joga a törzskönyv kiadására irányuló kérelem visszautasítása esetén is átruházható.
 
-[^236]: A 49. § (1) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 20. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 368. § i) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^237]: A 49. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 368. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^238]: A 49. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 368. § k) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^242]: A 49. § (1) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 20. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 368. § i) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^243]: A 49. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 368. § j) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^244]: A 49. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 368. § k) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

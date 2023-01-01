@@ -1,4 +1,4 @@
-14/B. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^597]
+14/B. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^610]
 
 Az 53. § (2) bekezdés c) pontja szerinti ideiglenes rendszámtáblák ábrái
 
@@ -8,4 +8,4 @@ Az 53. § (2) bekezdés c) pontja szerinti ideiglenes rendszámtáblák ábrái
 
 3. ábra: a 14/A. melléklet 3. pontja szerinti CD betűjelű rendszámtábla
 
-[^597]: A 14/B. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^610]: A 14/B. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (3) bekezdése iktatta be.

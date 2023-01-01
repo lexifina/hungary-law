@@ -4,7 +4,7 @@
 
 1. § (1)[^1] Az e rendeletben meghatározott hatósági ügyekben e rendelet vagy más jogszabály eltérő rendelkezése hiányában
 
-a)[^2] közlekedési igazgatási hatóságként a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a kormányablak,
+a)[^2] közlekedési igazgatási hatóságként a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, a kormányablak,
 
 b)[^3] közlekedési igazgatási hatóságként Budapest Főváros Kormányhivatala,
 
@@ -18,7 +18,7 @@ jár el.
 
 (3)[^6] A vezetésre jogosító okmányok helyszíni elvételére és visszavonására, az előzetes eredetiségvizsgálatra, a származás-ellenőrzési eljárásra és a jármű hivatalból indított forgalomból történő kivonására vonatkozó szabályok a Magyarországon működő diplomáciai és konzuli képviseletek tagjaira nem alkalmazhatóak.
 
-(4)[^7] A fővárosi és megyei kormányhivatal közúti közlekedési igazgatási feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a közlekedésért felelős miniszter (a továbbiakban: miniszter) gyakorolja. A miniszter feladatai ellátásában a Nyilvántartó közreműködik.
+(4)[^7] A fővárosi és vármegyei kormányhivatal közúti közlekedési igazgatási feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a közlekedésért felelős miniszter (a továbbiakban: miniszter) gyakorolja. A miniszter feladatai ellátásában a Nyilvántartó közreműködik.
 
 (5)[^8] A (4) bekezdés szerinti közreműködés keretében
 
@@ -38,15 +38,15 @@ bb) az irányítási feladatkörébe tartozó közlekedési igazgatást és nyil
 
 (6)[^9] A közlekedésrendészetért felelős miniszter szakmai ellenőrzést gyakorol a közlekedési igazgatási feladatok ellátása felett.
 
-(7)[^10] A fővárosi és megyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok közúti közlekedési nyilvántartási és igazgatási feladatköreinek gyakorlásával összefüggésben – a származás-ellenőrzéssel, az előzetes eredetiségvizsgálattal, az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásával, és a közúti közlekedési előéleti pontrendszerrel összefüggő ügycsoport tekintetében – az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a közlekedésrendészetért felelős miniszter gyakorolja.
+(7)[^10] A fővárosi és vármegyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok közúti közlekedési nyilvántartási és igazgatási feladatköreinek gyakorlásával összefüggésben – a származás-ellenőrzéssel, az előzetes eredetiségvizsgálattal, az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásával, és a közúti közlekedési előéleti pontrendszerrel összefüggő ügycsoport tekintetében – az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a közlekedésrendészetért felelős miniszter gyakorolja.
 
 [^1]: Az 1. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 94. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át
+[^2]: Az 1. § (1) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 94. § (4) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 130. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 94. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át
 [^4]: Az 1. § (1) bekezdés d) pontját a 360/2019. (XII. 30.) Korm. rendelet 94. § (4) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át
 [^5]: Az 1. § (2) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (3) bekezdését az 544/2013. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^7]: Az 1. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 183. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés a)–b) pontja szerint módosított szöveg.
+[^7]: Az 1. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 183. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés a)–b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 130. § a) pontja szerint módosított szöveg.
 [^8]: Az 1. § (5) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 186. § (2) bekezdése iktatta be.
 [^9]: Az 1. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 186. § (2) bekezdése iktatta be.
-[^10]: Az 1. § (7) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 186. § (2) bekezdése iktatta be.
+[^10]: Az 1. § (7) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 186. § (2) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 130. § a) pontja szerint módosított szöveg.

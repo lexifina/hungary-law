@@ -1,4 +1,4 @@
-## 15/A. [^312] 2022. július 1-jétől bevezetett ideiglenes rendszámtábla
+## 15/A. [^318] 2022. július 1-jétől bevezetett ideiglenes rendszámtábla
 
 63/A. § (1) Az ideiglenes rendszámtáblát a (2) és (3) bekezdésben meghatározott esetekben az ideiglenes forgalomban tartás engedélyezésével egyidejűleg kell kiadni. Az ideiglenes rendszámtábla leírását a 14/A. és 14/B. melléklet tartalmazza.
 
@@ -68,4 +68,4 @@ amelyek tervezési sebességük szerint 25 km/óránál gyorsabb sebességgel ha
 
 (7) Az „I” betűjelű ideiglenes rendszámtábla kiadásának jogalapját az ideiglenes rendszámtáblák nyilvántartásában és a forgalmi engedélyben jelölni kell.
 
-[^312]: A 15/A. alcímet (63/A. §) a 303/2021. (VI. 1.) Korm. rendelet 12. §-a iktatta be.
+[^318]: A 15/A. alcímet (63/A. §) a 303/2021. (VI. 1.) Korm. rendelet 12. §-a iktatta be.

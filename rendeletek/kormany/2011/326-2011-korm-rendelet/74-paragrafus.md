@@ -1,9 +1,9 @@
-## 73. §[^333] Amennyiben a jármű üzemeltetési jellege vagy üzemben tartója (tulajdonosa) megváltozik, a rendszámra való jogosultságot felül kell vizsgálni, azt indokolt esetben ki kell cserélni.
+## 73. §[^339] Amennyiben a jármű üzemeltetési jellege vagy üzemben tartója (tulajdonosa) megváltozik, a rendszámra való jogosultságot felül kell vizsgálni, azt indokolt esetben ki kell cserélni.
 
-74. § (1)[^334] 2022. július 1-jétől a Magyar Honvédség, a rendőrség, a katasztrófavédelmi szerv, a NAV, a büntetés-végrehajtási szervezet és az Országos Mentőszolgálat járműveire 2022. július 1-jét megelőzően kiadott különleges rendszámtáblákat a jármű forgalomból történő kivonása vagy átrendszámozása során az 57. § (8) bekezdése szerint be kell vonni.
+74. § (1)[^340] 2022. július 1-jétől a Magyar Honvédség, a rendőrség, a katasztrófavédelmi szerv, a NAV, a büntetés-végrehajtási szervezet és az Országos Mentőszolgálat járműveire 2022. július 1-jét megelőzően kiadott különleges rendszámtáblákat a jármű forgalomból történő kivonása vagy átrendszámozása során az 57. § (8) bekezdése szerint be kell vonni.
 
-(2)[^335]
+(2)[^341]
 
-[^333]: A 73. § az 544/2013. (XII. 30.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^334]: A 74. § (1) bekezdése a 303/2021. (VI. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^335]: A 74. § (2) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 29. § f) pontja hatályon kívül helyezte.
+[^339]: A 73. § az 544/2013. (XII. 30.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^340]: A 74. § (1) bekezdése a 303/2021. (VI. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^341]: A 74. § (2) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 29. § f) pontja hatályon kívül helyezte.

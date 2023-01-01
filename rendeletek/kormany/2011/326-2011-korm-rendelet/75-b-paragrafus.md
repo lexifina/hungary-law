@@ -1,6 +1,6 @@
-## 75/A. §[^349] A közlekedési igazgatási hatóság és a Nyilvántartó az állandó rendszámtábla elvesztése, eltulajdonítása, megkerülése tényének a nyilvántartáson történő átvezetésével egyidejűleg gondoskodik a figyelmeztető jelzés SIS II-ben történő elhelyezéséről vagy törléséről a 75. § (8)–(11) bekezdéseiben meghatározott esetekben. Ezen rendelkezések a négykerekű segédmotoros kerékpárokra nem vonatkoznak.
+## 75/A. §[^355] A közlekedési igazgatási hatóság és a Nyilvántartó az állandó rendszámtábla elvesztése, eltulajdonítása, megkerülése tényének a nyilvántartáson történő átvezetésével egyidejűleg gondoskodik a figyelmeztető jelzés SIS II-ben történő elhelyezéséről vagy törléséről a 75. § (8)–(11) bekezdéseiben meghatározott esetekben. Ezen rendelkezések a négykerekű segédmotoros kerékpárokra nem vonatkoznak.
 
-## 16/A. [^350] A 2022. július 1-jétől bevezetett ideiglenes rendszámtábla kiadására, használatára vonatkozó eltérő rendelkezések
+## 16/A. [^356] A 2022. július 1-jétől bevezetett ideiglenes rendszámtábla kiadására, használatára vonatkozó eltérő rendelkezések
 
 75/B. § (1) Az ideiglenes forgalomban tartás engedélyezésével egyidejűleg kerül sor az ideiglenes rendszámtábla kiadására.
 
@@ -32,5 +32,5 @@ c) a közúti közlekedés során igazolni az ideiglenes forgalmi engedéllyel �
 
 (7) A 63/A. § (2) bekezdés 6–18. pontja, valamint a 63/A. § (3) bekezdése alapján kiadott ideiglenes rendszámtábla csak olyan járműre szerelhető fel, amely a közúti közlekedésre alkalmas műszaki állapotban van. E feltételek betartásáért a jármű üzemben tartója felelős.
 
-[^349]: A 75/A. §-t a 15/2013. (I. 28.) Korm. rendelet 38. § (4) bekezdése iktatta be, az 544/2013. (XII. 30.) Korm. rendelet 26. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja, a 289/2018. (XII. 21.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
-[^350]: A 16/A. alcímet (75/B–75/G. §) a 303/2021. (VI. 1.) Korm. rendelet 15. §-a iktatta be.
+[^355]: A 75/A. §-t a 15/2013. (I. 28.) Korm. rendelet 38. § (4) bekezdése iktatta be, az 544/2013. (XII. 30.) Korm. rendelet 26. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja, a 289/2018. (XII. 21.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^356]: A 16/A. alcímet (75/B–75/G. §) a 303/2021. (VI. 1.) Korm. rendelet 15. §-a iktatta be.
