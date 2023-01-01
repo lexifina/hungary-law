@@ -1,4 +1,4 @@
-38/C. §[^21] (1) A hivatásos állomány rendvédelmi technikumban vezényléssel szolgálatot teljesítő tagja szakképzési keresetkiegészítésre jogosult.
+38/C. §[^22] (1) A hivatásos állomány rendvédelmi technikumban vezényléssel szolgálatot teljesítő tagja szakképzési keresetkiegészítésre jogosult.
 
 (2) A szakképzési keresetkiegészítést a rendvédelmi technikum igazgatója, az igazgató vonatkozásában a rendészetért felelős miniszter a hivatásos állomány tagjának a Hszt. 112. §-a szerinti minősítése alapján állapítja meg.
 
@@ -22,7 +22,7 @@ e) a Hszt. 161. § (1) bekezdés a) és b) pontja szerinti egyéb pótlék és
 
 f) a címpótlék
 
-## együttes összegét kell figyelembe venni.
+együttes összegét kell figyelembe venni.
 
 (5) A szakképzési keresetkiegészítést havonta utólag, az illetménnyel együtt kell folyósítani.
 
@@ -30,4 +30,4 @@ f) a címpótlék
 
 (7) A szakképzési keresetkiegészítésre jogosultságról és annak mértékéről munkáltatói intézkedésben kell rendelkezni. A munkáltatói intézkedés kiadmányozását követően az 5. § és a 6. § (1) bekezdése szerint kell eljárni.
 
-[^21]: A 38/C. §-t a 18/2020. (VI. 30.) BM rendelet 14. §-a iktatta be.
+[^22]: A 38/C. §-t a 18/2020. (VI. 30.) BM rendelet 14. §-a iktatta be.

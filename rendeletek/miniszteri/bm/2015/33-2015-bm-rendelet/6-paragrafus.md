@@ -10,4 +10,6 @@ c) teljes egészében a rendvédelmi szervet terheli, de a fogadó szerv a vezé
 
 (3) A (2) bekezdés a) pontja szerint kell eljárni, ha a vezénylés a vezénylés helye szerinti szerv rendszeresített létszámába tartozó szolgálati beosztásba, vagy kormánytisztviselői, közalkalmazotti munkakörbe történik, vagy ha az illetmény fedezetét külső forrásból biztosítják.
 
-(4) Az (1) bekezdéstől eltérően a hivatásos katasztrófavédelmi szerv megyei védelmi bizottságokhoz vezényel és a központi szerv rendelkezési állományába helyezett hivatásos állományú tagok illetményét az eredeti szolgálati hely folyósítja.
+(4)[^3] Az (1) bekezdéstől eltérően a hivatásos katasztrófavédelmi szerv területi védelmi bizottságokhoz vezényel és a központi szerv rendelkezési állományába helyezett hivatásos állományú tagok illetményét az eredeti szolgálati hely folyósítja.
+
+[^3]: A 6. § (4) bekezdése a 45/2022. (XII. 20.) BM rendelet 83. §-a szerint módosított szöveg.

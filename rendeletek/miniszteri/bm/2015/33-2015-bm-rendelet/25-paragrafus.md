@@ -19,3 +19,5 @@ d) 95%, ha a hivatásos állomány tagja átköltözés előtti lakása két szo
 e) 80%, ha a hivatásos állomány tagja átköltözés előtti lakása másfél szobás,
 
 f) 65%, ha a hivatásos állomány tagja átköltözés előtti lakása egy szobás
+
+volt.

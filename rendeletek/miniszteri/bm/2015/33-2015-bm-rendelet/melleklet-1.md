@@ -1,8 +1,8 @@
-## 51. §[^33] E rendeletnek az egyes belügyminiszteri rendeletek humánigazgatási és egyéb belügyi tárgyú módosításáról szóló 4/2022. (III. 25.) BM rendelettel (a továbbiakban: Módr2.) megállapított 38/B. § (1) bekezdés g) pontja alapján 2022. január 1. és a Módr2. hatálybalépése közötti időszakra járó illetménynövekményt legkésőbb a Módr2. hatálybalépését[^34] követő hónapra járó illetménnyel együtt kell a jogosultak részére folyósítani.
+## 51. §[^34] E rendeletnek az egyes belügyminiszteri rendeletek humánigazgatási és egyéb belügyi tárgyú módosításáról szóló 4/2022. (III. 25.) BM rendelettel (a továbbiakban: Módr2.) megállapított 38/B. § (1) bekezdés g) pontja alapján 2022. január 1. és a Módr2. hatálybalépése közötti időszakra járó illetménynövekményt legkésőbb a Módr2. hatálybalépését[^35] követő hónapra járó illetménnyel együtt kell a jogosultak részére folyósítani.
 
-1. melléklet a 33/2015. (VI. 16.) BM rendelethez[^35]
+1. melléklet a 33/2015. (VI. 16.) BM rendelethez[^36]
 
-## A nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai kóroki tényezők jelenléte miatti fertőzésveszélynek kitett beosztásban szolgálatot teljesítők pótlékára jogosító szolgálati beosztások
+A nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai kóroki tényezők jelenléte miatti fertőzésveszélynek kitett beosztásban szolgálatot teljesítők pótlékára jogosító szolgálati beosztások
 
 I. Az általános rendőrségi feladatok ellátására létrehozott szervnél
 
@@ -54,6 +54,6 @@ III. A büntetés-végrehajtási szervezetnél
 
 ha szolgálati feladatait HIV fertőzöttek részlegén, a Büntetés-végrehajtás Egészségügyi Központ és az Igazságügyi Megfigyelő és Elmegyógyító Intézet nagyfrekvenciás és ionizáló sugárzásnak, mérgezésnek vagy biológiai kóroki tényezők jelenléte miatti fertőzésveszélynek kitett beosztásokban látja el.
 
-[^33]: Az 51. §-t a 4/2022. (III. 25.) Korm. rendelet 18. §-a iktatta be.
-[^34]: A hatálybalépés időpontja 2022. március 26.
-[^35]: Az 1. melléklet a 76/2015. (XII. 22.) BM rendelet 44. §-ával megállapított, az 55/2016. (XII. 22.) BM rendelet 18. §-a, a 21/2020. (VII. 9.) BM rendelet 5. §-a, a 20/2021. (VII. 14.) BM rendelet 28. §-a szerint módosított szöveg.
+[^34]: Az 51. §-t a 4/2022. (III. 25.) Korm. rendelet 18. §-a iktatta be.
+[^35]: A hatálybalépés időpontja 2022. március 26.
+[^36]: Az 1. melléklet a 76/2015. (XII. 22.) BM rendelet 44. §-ával megállapított, az 55/2016. (XII. 22.) BM rendelet 18. §-a, a 21/2020. (VII. 9.) BM rendelet 5. §-a, a 20/2021. (VII. 14.) BM rendelet 28. §-a szerint módosított szöveg.

@@ -9,3 +9,5 @@ a) utazási és parkolási költség,
 b) szállásköltség,
 
 c) napidíj – és esetlegesen élelmezési többletköltség –
+
+címén állapítható meg.

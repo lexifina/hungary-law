@@ -1,6 +1,6 @@
 ## 9/C. § A szervezeti teljesítményértékelés alapján a rendvédelmi szerv egésze számára a teljesítményjuttatásra biztosított költségvetési keret meghatározására a rendvédelmi szervet irányító miniszter által a rendvédelmi szerv részére megállapított átlagos teljesítményjuttatás alapján, a rendvédelmi szerv február 1-jei létszámának figyelembevételével kerül sor. Ezt követően a rendvédelmi szerv szervezeti egysége számára a Hszt. 158. § (1) bekezdése alapján a szervezeti teljesítményértékelés eredménye alapján a személyi juttatás előirányzaton belül biztosított költségvetési keret a szervezeti egység február 1-jei létszáma alapján kerül meghatározásra.
 
-9/D. §[^6] (1) A hivatásos állomány tagja a 9/A. § (1) bekezdése szerinti teljesítményjuttatásra a Hszt. 158. § (3a) bekezdésében foglaltak alapján akkor is jogosult, ha szolgálati viszonya a kifizetési évben, de a tárgyévre vonatkozó teljesítményjuttatás megállapítását megelőzően szűnik meg.
+9/D. §[^7] (1) A hivatásos állomány tagja a 9/A. § (1) bekezdése szerinti teljesítményjuttatásra a Hszt. 158. § (3a) bekezdésében foglaltak alapján akkor is jogosult, ha szolgálati viszonya a kifizetési évben, de a tárgyévre vonatkozó teljesítményjuttatás megállapítását megelőzően szűnik meg.
 
 (2) Ha a 9/A. § (2) bekezdése szerint a munkáltatói jogkör gyakorlójának döntése alapján, az előző évi egyéni teljesítményértékelés során a jó teljesítményfokozattal értékelt teljesítményjuttatásban részesíthető, akkor a teljesítményértékeléssel érintett a Hszt. 158. § (3a) bekezdésében foglaltak alapján a teljesítményjuttatásra akkor is jogosult, ha szolgálati viszonya a kifizetési évben, de a tárgyévre vonatkozó teljesítményjuttatás megállapítását megelőzően szűnik meg.
 
@@ -14,4 +14,4 @@
 
 (7) A hivatásos állomány tagjának teljesítményjuttatását megállapító állományparancsot a humánigazgatási szerv küldi meg a gazdasági szerv részére, amely gondoskodik a teljesítményjuttatás Hszt. 99. § (1) bekezdése szerinti időpontban történő folyósításáról.
 
-[^6]: A 9/D. §-t a 46/2021. (XII. 22.) BM rendelet 12. §-a iktatta be.
+[^7]: A 9/D. §-t a 46/2021. (XII. 22.) BM rendelet 12. §-a iktatta be.

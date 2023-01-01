@@ -1,6 +1,6 @@
 2. melléklet a 33/2015. (VI. 16.) BM rendelethez
 
-## Ideiglenes külföldi kiküldetés során igénybe vehető szállások költségtérítési kategóriái
+Ideiglenes külföldi kiküldetés során igénybe vehető szállások költségtérítési kategóriái
 
 1. kategória: országos parancsnok, országos főigazgató és helyettesei
 
