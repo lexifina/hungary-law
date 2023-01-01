@@ -1,12 +1,12 @@
 5. § (1) Az egyes erdőrészletek erdőtűzvédelmi besorolásához szükséges szempontrendszert az 1. melléklet tartalmazza.
 
-(2) A megyék erdőtűz-veszélyeztetettségi besorolását a 2. melléklet tartalmazza.
+(2)[^4] A vármegyék erdőtűz-veszélyeztetettségi besorolását a 2. melléklet tartalmazza.
 
-(3)[^4] A NÉBIH és a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: OKF) együttműködve a közepes mértékben és a nagymértékben veszélyeztetett megyékre megyei védelmi tervet készít. A megyei védelmi tervet a NÉBIH és az OKF a hivatalos honlapján közzéteszi.
+(3)[^5] A NÉBIH és a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: OKF) együttműködve a közepes mértékben és a nagymértékben veszélyeztetett vármegyékre vármegyei védelmi tervet készít. A vármegyei védelmi tervet a NÉBIH és az OKF a hivatalos honlapján közzéteszi.
 
-(4) A megyei védelmi terv tartalmazza
+(4)[^6] A vármegyei védelmi terv tartalmazza
 
-a) a megye erdőinek leírását a megelőzést és a megfigyelést szolgáló rendszerekre és a rendelkezésre álló tűzvédelmi eszközökre tekintettel, beleértve az erdőtűz elleni védelem módszereinek és technikáinak általános leírását is,
+a)[^7] a vármegye erdőinek leírását a megelőzést és a megfigyelést szolgáló rendszerekre és a rendelkezésre álló tűzvédelmi eszközökre tekintettel, beleértve az erdőtűz elleni védelem módszereinek és technikáinak általános leírását is,
 
 b) beszámolót a megelőző öt év erdőtüzeiről, valamint ezen tüzek okainak leírását és elemzését,
 
@@ -30,7 +30,7 @@ d) a célok elérése érdekében tervezett intézkedések leírását,
 
 e) az erdők tűzvédelmét végző szervezetek és személyek a feladat elvégzésével összefüggésben szükséges adatait, részvételük összehangolásának módját.
 
-(7) A védelmi tervet az erdőgazdálkodó megküldi a székhelye vagy lakóhelye szerint illetékes megyei katasztrófavédelmi igazgatósághoz.
+(7)[^8] A védelmi tervet az erdőgazdálkodó megküldi a székhelye vagy lakóhelye szerint illetékes katasztrófavédelmi igazgatósághoz.
 
 (8) Egyszerűsített védelmi tervet kell készítenie
 
@@ -38,7 +38,7 @@ a) a 10 hektárt meghaladó nagymértékben veszélyeztetett, vagy
 
 b) a 20 hektárt meghaladó közepesen veszélyeztetett
 
-## területet kezelő erdőgazdálkodónak.
+területet kezelő erdőgazdálkodónak.
 
 (9) Az egyszerűsített védelmi terv tartalmazza
 
@@ -50,9 +50,13 @@ c) a tűz esetén értesítendő szervek elérhetőségét,
 
 d) a tűz esetén igénybe vehető eszközöket és azok elérhetőségét.
 
-(10)[^5]
+(10)[^9]
 
 (11) Az elkészített védelmi tervet és egyszerűsített védelmi tervet módosítani kell, ha a tűzvédelmi helyzetre kiható változás következik be.
 
-[^4]: A 5. § (3) bekezdése a 29/2018. (X. 19.) BM rendelet 2. §-ával megállapított szöveg.
-[^5]: Az 5. § (10) bekezdését a 44/2017. (XII. 29.) BM rendelet 34. § a) pontja hatályon kívül helyezte.
+[^4]: Az 5. § (2) bekezdése az 53/2022. (XII. 27.) BM rendelet 4. § a) pontja szerint módosított szöveg.
+[^5]: A 5. § (3) bekezdése a 29/2018. (X. 19.) BM rendelet 2. §-ával megállapított, az 53/2022. (XII. 27.) BM rendelet 4. § b) pontja szerint módosított szöveg.
+[^6]: Az 5. § (4) bekezdés nyitó szövegrésze az 53/2022. (XII. 27.) BM rendelet 4. § c) pontja szerint módosított szöveg.
+[^7]: Az 5. § (4) bekezdés a) pontja az 53/2022. (XII. 27.) BM rendelet 4. § d) pontja szerint módosított szöveg.
+[^8]: Az 5. § (7) bekezdése az 53/2022. (XII. 27.) BM rendelet 5. § a) pontja szerint módosított szöveg.
+[^9]: Az 5. § (10) bekezdését a 44/2017. (XII. 29.) BM rendelet 34. § a) pontja hatályon kívül helyezte.

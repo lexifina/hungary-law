@@ -2,6 +2,6 @@
 
 18. § (1) E rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2)[^14]
+(2)[^20]
 
-[^14]: A 18. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^20]: A 18. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

@@ -10,7 +10,7 @@ d) az Országos Meteorológiai Szolgálat által szolgáltatott 24 és 72 órás
 
 e) az elmúlt 5 év szabadtéri tűzkárainak statisztikai adatai
 
-## figyelembevételével kell meghatározni.
+figyelembevételével kell meghatározni.
 
 (2) A fokozott tűzveszély időszakának meghatározáshoz szükséges adatfeldolgozást és azok tűzkockázati szempontú elsődleges szakértői kiértékelését, valamint a fokozott tűzveszéllyel érintett vagy azzá váló területek térinformatikai lehatárolását és közzétételét a NÉBIH napi rendszerességgel, folyamatosan végzi. A lehatárolás tűzkockázat értékelő rendszer által számított tűz időjárási index értékhez is köthető.
 
