@@ -8,7 +8,7 @@
 
 a) a termék nem származik olyan harmadik országból, amelyre a 11. § (1) bekezdésének a) pontja szerinti tilalom van érvényben,
 
-b)[^14] a vámszabad területen lévő raktárt, vámszabad raktárt vagy vámraktárt a termék tárolására vonatkozóan a megyei kormányhivatal engedélyezi.
+b)[^14] a vámszabad területen lévő raktárt, vámszabad raktárt vagy vámraktárt a termék tárolására vonatkozóan a vármegyei kormányhivatal engedélyezi.
 
 (5) A vámszabad területen lévő raktár, vámszabad raktár vagy vámraktár a (4) bekezdés b) pontja szerint akkor engedélyezhető, ha
 
@@ -18,7 +18,7 @@ b) az érintett termék raktározására vonatkozó külön jogszabályok által
 
 c) a raktárt elhagyó vagy a raktárba érkező valamennyi szállítmányról napi – három évig megőrzendő – nyilvántartást vezetnek, amely tartalmazza a szállítmányokban lévő termékek jellegét és mennyiségét, valamint a címzett nevét és címét,
 
-d)[^15] különálló tároló helyiségekkel, illetve hűtő helyiségekkel rendelkezik az állategészségügyi jogszabályoknak nem megfelelő termékek elkülönített tárolásához, azzal, hogy a megyei kormányhivatal már meglévő raktárak esetén engedélyezheti az ilyen termékek elkülönített tárolását azonos helyiségekben is, ha a jogszabályi követelményeknek nem megfelelő terméket zárható területeken tudják tárolni,
+d)[^15] különálló tároló helyiségekkel, illetve hűtő helyiségekkel rendelkezik az állategészségügyi jogszabályoknak nem megfelelő termékek elkülönített tárolásához, azzal, hogy a vármegyei kormányhivatal már meglévő raktárak esetén engedélyezheti az ilyen termékek elkülönített tárolását azonos helyiségekben is, ha a jogszabályi követelményeknek nem megfelelő terméket zárható területeken tudják tárolni,
 
 e) rendelkezik az állategészségügyi ellenőrzéseket végző személyzet számára fenntartott helyiségekkel.
 
@@ -52,8 +52,8 @@ c) a megsemmisítés helyére történő szállítás az érintett termék tart�
 
 (13) A minisztérium a (4) bekezdés szerinti vámszabad területek, vámszabad raktárak és vámraktárak, valamint a 13. § szerinti üzemeltetők listáját megküldi az Európai Bizottságnak.
 
-(14)[^16] Az (1)–(10) bekezdésben meghatározott esetben, ezen belül is a raktárakra vonatkozó feltételek be nem tartása esetén, a megyei kormányhivatal visszavonja vagy felfüggeszti a (4) bekezdés b) pontja szerinti engedélyt, amelyről a minisztérium tájékoztatja az Európai Bizottságot és a többi tagállamot. Ha a megyei kormányhivatal a szállítmány raktárból történő kilépése után jogszabálysértést állapít meg, a szállítmányért felelős személlyel szemben a külön jogszabály szerinti jogkövetkezményeket alkalmazza.
+(14)[^16] Az (1)–(10) bekezdésben meghatározott esetben, ezen belül is a raktárakra vonatkozó feltételek be nem tartása esetén, a vármegyei kormányhivatal visszavonja vagy felfüggeszti a (4) bekezdés b) pontja szerinti engedélyt, amelyről a minisztérium tájékoztatja az Európai Bizottságot és a többi tagállamot. Ha a vármegyei kormányhivatal a szállítmány raktárból történő kilépése után jogszabálysértést állapít meg, a szállítmányért felelős személlyel szemben a külön jogszabály szerinti jogkövetkezményeket alkalmazza.
 
-[^14]: A 12. § (4) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 66. § b) pontja szerint módosított szöveg.
-[^15]: A 12. § (5) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 66. § b) pontja szerint módosított szöveg.
-[^16]: A 12. § (14) bekezdése a 42/2017. (VIII. 17.) FM rendelet 66. § c) pontja szerint módosított szöveg.
+[^14]: A 12. § (4) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 66. § b) pontja, a 83/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^15]: A 12. § (5) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 66. § b) pontja, a 83/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^16]: A 12. § (14) bekezdése a 42/2017. (VIII. 17.) FM rendelet 66. § c) pontja, a 83/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

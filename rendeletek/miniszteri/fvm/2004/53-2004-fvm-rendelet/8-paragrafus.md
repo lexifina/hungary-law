@@ -22,8 +22,8 @@ d) a rendeltetési létesítmény vagy a közbeeső raktár üzemeltetője köte
 
 (5) Ha a beléptető állategészségügyi határállomás hatósági állatorvosa megbizonyosodik arról, hogy valamely beléptetett termék nem érkezett meg a jóváhagyott rendeltetési helyre, a szállítmányért felelős személlyel szemben köteles megtenni a külön jogszabály által meghatározott intézkedéseket.
 
-(6)[^11] A minisztérium a külön jogszabályoknak megfelelően megküldi az Európai Bizottság részére a (4) bekezdés szerinti, az érintett termékek vonatkozásában engedélyezett létesítmények listáját. Ha egy létesítmény nem teljesíti a (4) bekezdés d) pontja szerinti tájékoztatási kötelezettségét, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) visszavonhatja a létesítmény működési engedélyét és a jogszabálysértés jellegének megfelelő mértékű bírságot szab ki.
+(6)[^11] A minisztérium a külön jogszabályoknak megfelelően megküldi az Európai Bizottság részére a (4) bekezdés szerinti, az érintett termékek vonatkozásában engedélyezett létesítmények listáját. Ha egy létesítmény nem teljesíti a (4) bekezdés d) pontja szerinti tájékoztatási kötelezettségét, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) visszavonhatja a létesítmény működési engedélyét és a jogszabálysértés jellegének megfelelő mértékű bírságot szab ki.
 
 [^9]: 2055/2003. (III. 27.) Korm. határozat az ANIMO rendszerhez történő csatlakozásról szóló szerződés megkötéséről.
 [^10]: A 8. § (3) bekezdése az 5/2012. (II. 10.) VM rendelet 12. § a) pontja szerint módosított szöveg.
-[^11]: A 8. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 66. § a) pontja szerint módosított szöveg.
+[^11]: A 8. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 66. § a) pontja, a 83/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
