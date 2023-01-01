@@ -4,7 +4,7 @@
 
 ## 1. Az engedélyezési eljárások
 
-## 2. §[^1] Az egyéb kötöttpályás közlekedési rendszerre vonatkozó építésügyi hatósági eljárások során kiadható műszaki engedélyek fajtái:
+## 2. §[^2] Az egyéb kötöttpályás közlekedési rendszerre vonatkozó építésügyi hatósági eljárások során kiadható műszaki engedélyek fajtái:
 
 a) elvi létesítési engedély,
 
@@ -26,4 +26,6 @@ i) megszüntetési engedély,
 
 j) üzemszünet engedély
 
-[^1]: A 2. § a 789/2021. (XII. 27.) Korm. rendelet 62. §-ával megállapított szöveg.
+(a továbbiakban együtt: építésügyi hatósági műszaki engedély).
+
+[^2]: A 2. § a 789/2021. (XII. 27.) Korm. rendelet 62. §-ával megállapított szöveg.

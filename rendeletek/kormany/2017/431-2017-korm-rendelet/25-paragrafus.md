@@ -1,5 +1,3 @@
-## az eljárás keretében köteles meggyőződni.
-
 ## 14. Forgalomba-helyezési engedély
 
 ## 25. § A vasúti közlekedési hatóság az egyéb kötöttpályás közlekedési rendszer használatbavételi engedélyezési eljárását forgalomba-helyezési engedélyezési eljárás keretében folytathatja le az alábbi esetekben:

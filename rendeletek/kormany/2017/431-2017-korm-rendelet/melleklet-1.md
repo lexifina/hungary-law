@@ -1,8 +1,6 @@
-## 52–54. §[^4]
-
 1. melléklet a 431/2017. (XII. 20.) Korm. rendelethez
 
-## Az egyéb kötöttpályás közlekedési rendszer építmények építési engedélyezési és bejelentési eljárásaiban benyújtandó iratok
+Az egyéb kötöttpályás közlekedési rendszer építmények építési engedélyezési és bejelentési eljárásaiban benyújtandó iratok
 
 1. Általános dokumentáció valamennyi építményre vonatkozóan
 
@@ -101,5 +99,3 @@ g) kommunikációs és tájékoztató berendezések műszaki leírása és jelk�
 h) mentőeszközök leírása;
 
 i) a 2016/424 rendelet 9. cikk (2) bekezdése szerinti EU-megfelelőségi nyilatkozat.
-
-[^4]: Az 52–54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

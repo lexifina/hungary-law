@@ -1,6 +1,6 @@
 2. melléklet a 431/2017. (XII. 20.) Korm. rendelethez
 
-## Az egyéb kötöttpályás közlekedési rendszer építmények használatbavételi engedélyezési és bejelentési eljárásaiban benyújtandó iratok
+Az egyéb kötöttpályás közlekedési rendszer építmények használatbavételi engedélyezési és bejelentési eljárásaiban benyújtandó iratok
 
 1. Általános dokumentáció valamennyi építményre vonatkozóan
 

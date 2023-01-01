@@ -5,3 +5,5 @@ a) az egyéb kötöttpályás közlekedési rendszer közlekedésbiztonsági ál
 b) a biztonsági berendezések műszaki állapotáról, illetve
 
 c) a személyzet biztonságkritikus kezelések képességéről
+
+az eljárás keretében köteles meggyőződni.

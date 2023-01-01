@@ -32,7 +32,7 @@ d) olyan kötöttpályás rendszerek építményeire, amelyeknél a felhasznál�
 
 2. átalakítás: a meglévő egyéb kötöttpályás közlekedési rendszer építményei engedélyezett műszaki paramétereinek, kapacitásának növelése vagy használati módjának megváltoztatása érdekében végzett, új építmény építésének nem minősülő építési munka;
 
-3. fejlesztési közreműködő: olyan gazdasági társaság, amely egyéb kötöttpályás közlekedési rendszer létesítését, fejlesztését, felújítását végzi, és saját maga az általa végzett létesítéssel, fejlesztéssel, vagy felújítással érintett egyéb kötöttpályás közlekedési rendszert nem üzemelteti;
+3.[^1] fejlesztési közreműködő: olyan gazdasági társaság vagy költségvetési szerv, amely egyéb kötöttpályás közlekedési rendszer létesítését, fejlesztését, felújítását végzi, és saját maga az általa végzett létesítéssel, fejlesztéssel, vagy felújítással érintett egyéb kötöttpályás közlekedési rendszert nem üzemelteti;
 
 4. felújítás: az alrendszer általános teljesítményét nem érintő, az alrendszer vagy annak egy részének cseréjére irányuló munkálat;
 
@@ -45,3 +45,5 @@ d) olyan kötöttpályás rendszerek építményeire, amelyeknél a felhasznál�
 8. korszerűsítés: az alrendszer általános teljesítményét javító, az alrendszeren vagy annak egy részén végrehajtott átalakítás;
 
 9. rendszerelem: minden olyan összetevő, alkatrész, alkatrészcsoport, részegység vagy fődarab, beleértve a nem anyagi (pl. szoftver) összetevőket is, amelyek az egyéb kötöttpályás közlekedési rendszer részét képezik, vagy – közvetlenül vagy közvetve – meghatározzák a rendszer biztonságát.
+
+[^1]: Az 1. § (4) bekezdés 3. pontja az 523/2022. (XII. 15.) Korm. rendelet 24. §-a szerint módosított szöveg.
