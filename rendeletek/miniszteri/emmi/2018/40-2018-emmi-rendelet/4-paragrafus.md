@@ -6,7 +6,7 @@ b) a gyermekek számára rendszeres szakmai szolgáltatásként állapotfelmér�
 
 c) a szülőknek a gyermekkel együtt történő részvételét a foglalkozásokon, a szülők számára személyiség- és kompetenciafejlesztést, a gyermekneveléshez, a személyes higiéné biztosításához és a háztartásvezetéshez szükséges ismeretek átadását célzó, valamint egyéb preventív célú programokat,
 
-d)[^3] évente legalább tizenkét közösségi rendezvény megszervezését a hároméves kor alatti gyermeket is nevelő családok, illetve a helyi közösség számára, amelyből legalább hat rendezvény szakmai tartalmának a Biztos Kezdet Gyerekház szolgáltatásait igénybe vevő családok szükségleteihez kell igazodnia.
+d)[^4] évente legalább tizenkét közösségi rendezvény megszervezését a hároméves kor alatti gyermeket is nevelő családok, illetve a helyi közösség számára, amelyből legalább hat rendezvény szakmai tartalmának a Biztos Kezdet Gyerekház szolgáltatásait igénybe vevő családok szükségleteihez kell igazodnia.
 
 (2) A Biztos Kezdet Gyerekház az (1) bekezdésben foglaltakon túl a Gyvt. 38/A. § (1) bekezdésében meghatározott célokat szolgáló, a helyi szükségleteknek megfelelő és kellően indokolt szolgáltatásokat is nyújthat, így különösen
 
@@ -14,7 +14,7 @@ a) a szülők részére védőnői, orvosi, dietetikusi, illetve egyéb egészs�
 
 b) szakember bevonásával szülői csoportos beszélgetéseket szervezhet,
 
-c)[^4] a fogyatékos vagy eltérő fejlődésű gyermekek számára ellátást, szolgáltatást nyújtó szolgáltatók, intézmények képviselőivel történő konzultációra lehetőséget biztosíthat a fogyatékos vagy eltérő fejlődésű gyermekek szülei számára, valamint azon szülők számára, akik gyermekeinél ilyen tünetek jelentkeznek, és ezt az egészségügyi alapellátást nyújtó orvos vagy védőnő igazolja,
+c)[^5] a fogyatékos vagy eltérő fejlődésű gyermekek számára ellátást, szolgáltatást nyújtó szolgáltatók, intézmények képviselőivel történő konzultációra lehetőséget biztosíthat a fogyatékos vagy eltérő fejlődésű gyermekek szülei számára, valamint azon szülők számára, akik gyermekeinél ilyen tünetek jelentkeznek, és ezt az egészségügyi alapellátást nyújtó orvos vagy védőnő igazolja,
 
 d) különböző módszerek alkalmazásával segítheti a szülőket, hogy visszajelzést kapjanak a gyermekkel való kommunikációjukról, nevelési módszereikről,
 
@@ -28,8 +28,8 @@ h) közreműködhet a családtervezési ismeretek átadásában, a veszélyeztet
 
 i) segítheti a várandós anyákat a gyermek fogadására való felkészülésben.
 
-j)[^5] mosási, szárítási, valamint tisztálkodási lehetőséget biztosíthat.
+j)[^6] mosási, szárítási, valamint tisztálkodási lehetőséget biztosíthat.
 
-[^3]: A 4. § (1) bekezdés d) pontja a 3/2021. (II. 5.) BM rendelet 6. § b) pontja szerint módosított szöveg.
-[^4]: A 4. § (2) bekezdés c) pontja a 3/2021. (II. 5.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^5]: A 4. § (2) bekezdés j) pontját a 3/2021. (II. 5.) BM rendelet 2. § (2) bekezdése iktatta be.
+[^4]: A 4. § (1) bekezdés d) pontja a 3/2021. (II. 5.) BM rendelet 6. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (2) bekezdés c) pontja a 3/2021. (II. 5.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (2) bekezdés j) pontját a 3/2021. (II. 5.) BM rendelet 2. § (2) bekezdése iktatta be.

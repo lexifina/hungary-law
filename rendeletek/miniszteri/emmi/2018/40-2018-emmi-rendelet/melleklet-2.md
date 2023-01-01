@@ -1,6 +1,6 @@
 2. melléklet a 40/2018. (XII. 4.) EMMI rendelethez
 
-## A tanoda szolgáltatás igénybevételéről készülő jelenléti ív adattartalma
+A tanoda szolgáltatás igénybevételéről készülő jelenléti ív adattartalma
 
 1. A tanodára vonatkozó adatok:
 

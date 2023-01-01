@@ -1,8 +1,6 @@
-## 27. §[^19]
-
 1. melléklet a 40/2018. (XII. 4.) EMMI rendelethez
 
-## A Biztos Kezdet Gyerekház napi jelenléti ívének adattartalma
+A Biztos Kezdet Gyerekház napi jelenléti ívének adattartalma
 
 1. A Biztos Kezdet Gyerekházra vonatkozó adatok:
 
@@ -27,5 +25,3 @@
 4.2. a gyermeket kísérő személynek a gyermekhez fűződő kapcsolata (pl. szülő, nagyszülő, a Gyerekházat látogató másik szülő),
 
 4.3. a gyermeket kísérő személy aláírása.
-
-[^19]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
