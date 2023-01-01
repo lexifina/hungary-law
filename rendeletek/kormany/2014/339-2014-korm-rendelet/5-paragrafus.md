@@ -2,8 +2,11 @@
 
 (2) Az (1) bekezdés szerinti adatok személyes adatot nem tartalmazhatnak.
 
-(3) A miniszter köteles az általa kezelt adatok eredeti védelmi szintjének fenntartásáról gondoskodni. Az e rendeletben foglalt intézkedések megvalósításával összefüggésben a miniszter kizárólag a Társaság és a szakpolitikai felelős számára továbbíthat adatot.
+(3)[^13] A miniszter köteles az általa kezelt adatok eredeti védelmi szintjének fenntartásáról gondoskodni. Az e rendeletben foglalt intézkedések megvalósításával összefüggésben a miniszter kizárólag a szakpolitikai felelős számára továbbíthat adatot.
 
-(4) A miniszter az (1) bekezdésben meghatározott adatokat a Társaság útján, az eredeti formájukban, elektronikus formában vagy papír alapon tartja nyilván.
+(4)[^14]
 
 (5) Az 1. § szerinti projektek határidőben történő megvalósítása érdekében a miniszter és a szakpolitikai felelős gondoskodnak az irányításuk alá tartozó szervezetek együttműködéséről. A szakpolitikai felelős és az irányítása alá tartozó szervezetek térítésmentesen kötelesek információt és adatot szolgáltatni a miniszter részére.
+
+[^13]: Az 5. § (3) bekezdése az 523/2022. (XII. 15.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^14]: Az 5. § (4) bekezdését az 523/2022. (XII. 15.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.

@@ -1,0 +1,3 @@
+7/A. §[^22] A 7. § (3) bekezdésében foglalt feladatokkal összefüggésben, valamint a 15. § (4) bekezdésében rögzített konzorciumi megállapodásban foglaltak szerint a minisztérium a projektek megvalósításához szükséges árubeszerzés és építési beruházás közbeszerzési eljárásokat a végső kedvezményezett helyett és nevében folytatja le, kiválasztja a nyertes ajánlattevőket, valamint a nyertes ajánlattevőkkel – a végső kedvezményezett nevében és annak javára azok meghatalmazása alapján – aláírja a keretmegállapodásokat.
+
+[^22]: A 7/A. §-t a 159/2016. (VI. 13.) Korm. rendelet 2. §-a iktatta be, szövege az 523/2022. (XII. 15.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.

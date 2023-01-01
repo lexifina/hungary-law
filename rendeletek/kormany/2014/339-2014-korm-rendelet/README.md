@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-339-20-
 | 2019-02-19 | 2014-339-20-22.9 | 15/2019. (II. 11.) Korm. rendelet |
 | 2019-06-22 | 2014-339-20-22.10 | 141/2019. (VI. 19.) Korm. rendelet |
 | 2022-07-01 | 2014-339-20-22.11 | 238/2022. (VI. 30.) Korm. rendelet |
+| 2023-01-01 | 2014-339-20-22.12 | 523/2022. (XII. 15.) Korm. rendelet |
