@@ -1,7 +1,5 @@
 ## [A Tv. 7. §-ának (1) bekezdéséhez]
 
-7. §[^8] (1) A Tv. 7. § (1) bekezdése szerinti alapösszeg a 2022. évben 124 150 forint.
+7. §[^9] A Tv. 7. § (1) bekezdése szerinti alapösszeg a 2023. évben 142 775 forint.
 
-(2) A nyugellátások és egyes más ellátások 2022. november havi kiegészítő emeléséről szóló 375/2022. (X. 5.) Korm. rendelettel megállapított, az (1) bekezdésben meghatározott alapösszeg figyelembevételével kiszámított életjáradék 2022. január 1-jétől illeti meg a kárpótlásra jogosultakat. A kárpótlás már folyósított és megemelt összege közötti különbözet kifizetésére 2022. január 1-jére visszamenőleg hivatalból, legkésőbb 2022. november 30-áig kerül sor.
-
-[^8]: A Vhr. 7. §-a 375/2022. (X. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^9]: A 7. § az 506/2022. (XII. 13.) Korm. rendelet 7. §-ával megállapított szöveg.

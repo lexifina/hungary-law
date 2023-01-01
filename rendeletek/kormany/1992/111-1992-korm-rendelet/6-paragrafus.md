@@ -1,6 +1,6 @@
-6. § (1)[^6] A Tv. alapján járó életjáradék folyósítása – a kárpótlási hatósággal megkötött külön megállapodás szerint – a nyugdíjfolyósító szervek feladata. A felmerült költségek viseléséről a megállapodásban kell rendelkezni.
+6. § (1)[^7] A Tv. alapján járó életjáradék folyósítása – a kárpótlási hatósággal megkötött külön megállapodás szerint – a nyugdíjfolyósító szervek feladata. A felmerült költségek viseléséről a megállapodásban kell rendelkezni.
 
-(2)[^7] A nyugdíjfolyósító szervek a járadék folyósítását a kérelemnek helyt adó határozat véglegessé válását vagy jogerőre emelkedését követő 30 napon belül kezdik meg.
+(2)[^8] A nyugdíjfolyósító szervek a járadék folyósítását a kérelemnek helyt adó határozat véglegessé válását vagy jogerőre emelkedését követő 30 napon belül kezdik meg.
 
-[^6]: A Vhr. 6. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 17. §-a szerint módosított szöveg.
-[^7]: A Vhr. 6. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 10. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^7]: A Vhr. 6. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^8]: A Vhr. 6. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 10. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
