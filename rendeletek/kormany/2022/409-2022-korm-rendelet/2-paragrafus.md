@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 27. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+2. § A magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 4. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
