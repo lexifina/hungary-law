@@ -12,6 +12,6 @@ cb) a beépítés egy telken érvényesíthető, de a beépíthető terület nag
 
 cc) a beépítésre igénybe vett telket úgy kell kialakítani, hogy az legalább 2000 m2 területű legyen, és nem helyezkedhet el a Balaton vízparti területein, továbbá ökológiai hálózat magterületének övezetében, ökológiai hálózat ökológiai folyosójának övezetében és kertes mezőgazdasági terület övezetében,
 
-cd)[^5] a beépítésre igénybe vett telken szőlőtermelési, borászati célt szolgáló gazdasági építmény, tulajdonos számára szolgáló egy lakást tartalmazó lakóépület, valamint borturizmust szolgáló egyéb szálláshely helyezhető el.
+cd)[^11] a beépítésre igénybe vett telken szőlőtermelési, borászati célt szolgáló gazdasági építmény, tulajdonos számára szolgáló egy lakást tartalmazó lakóépület, valamint borturizmust szolgáló egyéb szálláshely helyezhető el.
 
-[^5]: A 15. § c) pont cd) alpontja a 20/2020. (XII. 21.) MvM rendelet 4. § c) pontja szerint módosított szöveg.
+[^11]: A 15. § c) pont cd) alpontja a 20/2020. (XII. 21.) MvM rendelet 4. § c) pontja szerint módosított szöveg.

@@ -38,4 +38,6 @@ d) a 13. melléklet szerinti vízeróziónak kitett terület övezete,
 
 e) a 14. melléklet szerinti általános mezőgazdasági terület övezete.
 
-(4) E rendelet térképi lehatárolásra és övezeti szabályozásra vonatkozó rendelkezéseit alkalmazni kell az országos, a kiemelt térségi és a megyei területrendezési tervek, valamint a településfejlesztési koncepció, az integrált településfejlesztési stratégia, a településrendezési eszközök és a településképi rendelet készítése és elfogadása során.
+(4)[^1] E rendelet térképi lehatárolásra és övezeti szabályozásra vonatkozó rendelkezéseit alkalmazni kell az országos, a kiemelt térségi és a vármegyei területrendezési tervek, valamint a településfejlesztési koncepció, az integrált településfejlesztési stratégia, a településrendezési eszközök és a településképi rendelet készítése és elfogadása során.
+
+[^1]: Az 1. § (4) bekezdése a 15/2022. (XII. 27.) ÉKM rendelet 2. § a) pontja szerint módosított szöveg.
