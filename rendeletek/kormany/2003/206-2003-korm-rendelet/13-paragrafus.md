@@ -1,5 +1,3 @@
-## a továbbképzési központ számára.
-
 ## Határon túli pedagógusok és oktatók kedvezményei
 
 13. §[^12] (1) A Szátv. 12. §-a hatálya alá tartozó, óvodai, alap-, közép- és felsőfokú oktatási intézményben tanító pedagógus és oktató (a továbbiakban: határon túli pedagógus és oktató) kedvezményeit a „Magyar igazolvány”, a „Magyar hozzátartozói igazolvány” (a továbbiakban: „Magyar igazolvány”), illetve a pótfüzetbe történő bejegyzés igazolja.
