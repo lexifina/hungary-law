@@ -2,7 +2,7 @@
 
 ## KÖZPONTI HATÓSÁGI MEGKERESÉS VÉGREHAJTÁSA A TARTÁSRA KÖTELEZETT ADATAINAK BESZERZÉSE ÉRDEKÉBEN
 
-210/H. § (1) A 4/2009/EK tanácsi rendelet alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés (a továbbiakban e §-ban: megkeresés) alapján indult végrehajtás foganatosítására a végrehajtás foganatosításának közös szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni azzal, hogy az adóson a tartásra kötelezettet kell érteni.
+210/H. § (1) A 4/2009/EK tanácsi rendelet, valamint a hágai tartási egyezmény alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés (e § alkalmazásában a továbbiakban: megkeresés) alapján indult végrehajtás foganatosítására a végrehajtás foganatosításának közös szabályait az e fejezetben foglalt eltérésekkel kell alkalmazni azzal, hogy az adóson a tartásra kötelezettet kell érteni.
 
 (2) Végrehajtást kérőnek az állam minősül, amelynek nevében a központi hatóság jár el; a végrehajtás költségeit az állam viseli.
 

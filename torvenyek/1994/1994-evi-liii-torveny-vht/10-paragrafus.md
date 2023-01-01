@@ -14,6 +14,6 @@ c) a bíróság végrehajtást elrendelő, letiltó, illetve átutalási végzé
 
 d) a bíróság rendbírságról szóló értesítése, ha a végrehajtási eljárásban kiszabott rendbírság behajtását a 45/A. § (5) bekezdése alapján az önálló bírósági végrehajtó végzi,
 
-e) a 4/2009/EK tanácsi rendelet alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés.
+e) a 4/2009/EK tanácsi rendelet, valamint a gyermektartás és a családi tartások egyéb formáinak nemzetközi behajtásáról szóló, 2007. november 23-i hágai egyezmény (a továbbiakban: hágai tartási egyezmény) alapján kijelölt hazai központi hatóság által a tartásra kötelezett adatainak beszerzésére kiállított megkeresés, valamint
 
 f) a közjegyzőnek az állam által törvényes öröklés útján megszerzett vagyontárgy értékesítését elrendelő végzése.

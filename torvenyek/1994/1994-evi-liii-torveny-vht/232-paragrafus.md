@@ -10,7 +10,7 @@
 
 (3) A végrehajtó székhelye és illetékességi területe megegyezik annak a járásbíróságnak a székhelyével és illetékességi területével, amely mellé kinevezték.
 
-(4) A végrehajtó az illetékességi területén indult ügyben a székhelye szerinti megye területén, a budapesti és Pest megyei székhelyű végrehajtó Budapest és Pest megye területén jár el.
+(4) A végrehajtó az illetékességi területén indult ügyben a székhelye szerinti vármegye területén, a budapesti és Pest vármegyei székhelyű végrehajtó Budapest és Pest vármegye területén jár el.
 
 (5) A végrehajtó az illetékességi területén indult ügyben az ingatlan-végrehajtást az ország egész területén foganatosítja.
 
