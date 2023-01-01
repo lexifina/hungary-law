@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-1-20-1U
 | 2018-09-05 | 2006-1-20-1U.14 | 24/2018. (VIII. 31.) IM rendelet |
 | 2019-12-28 | 2006-1-20-1U.15 | 31/2019. (XII. 20.) IM rendelet |
 | 2022-08-01 | 2006-1-20-1U.16 | 118/2008. (V. 8.) Korm. rendelet |
+| 2023-01-01 | 2006-1-20-1U.17 | 39/2015. (XII. 21.) IM rendelet |
