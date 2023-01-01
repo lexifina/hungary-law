@@ -20,15 +20,15 @@ g) 1/H. § (3) és (7) bekezdése,
 
 h) 1/I. § (3), (6) és (7) bekezdése
 
-## szerinti feladatok ellátására.
+szerinti feladatok ellátására.
 
-(4) A Kormány az OKFŐ-t jelöli ki az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) 35/A. §-a szerinti Elektronikus Egészségügyi Szolgáltatási Tér működtetőjeként.
+(4)[^16]
 
-(5) A Kormány az OKFŐ-t jelöli ki az Eüak. 35/H. §-a szerinti önrendelkezési nyilvántartást vezető szervként.
+(5)[^17]
 
-(6) A Kormány az OKFŐ-t jelöli ki az Eüak. 35/L. §-a szerinti feladatok ellátására kapcsolati kódot kezelő szervként.
+(6)[^18]
 
-(6a)[^6] Az OKFŐ a (4)–(6) bekezdés szerinti feladata ellátásába adatfeldolgozóként vonja be az Egészséginformatikai Szolgáltató és Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaságot.
+(6a)[^19]
 
 (7) A Kormány egészségügyi államigazgatási szervként az OKFŐ-t jelöli ki az önálló orvosi tevékenységről szóló 2000. évi II. törvény 1. § (2) bekezdés c) pontja, 2. § (5) bekezdése, 2/A. § (2) bekezdése, 2/B. § (8) bekezdése, 3. § (5a) bekezdése szerinti feladatok ellátására.
 
@@ -54,13 +54,16 @@ c) 110. § (17) és (19)–(22) bekezdése, valamint
 
 d) 110/A. § (1) és (4) bekezdése
 
-## szerinti feladatok ellátására.
+szerinti feladatok ellátására.
 
 (10) A Kormány az OKFŐ-t jelöli ki az egészségügyért felelős miniszter ágazatába tartozó, a szakképzésről szóló 2019. évi LXXX. törvény szerinti ágazatért felelős miniszter számára meghatározott szakképesítési feladatok ellátására.
 
 (11) A Kormány egészségügyi államigazgatási szervként az OKFŐ-t jelöli ki az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 14. § g) pontja szerinti egészségügyi igazgatási eljárási feladatok ellátására a hagyományos kínai gyógyászat engedélyezésével kapcsolatos tevékenység tekintetében.
 
-(12)[^7] Az OKFŐ mint az Elektronikus Egészségügyi Szolgáltatási Tér működtetője a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 19/A. §-a szerinti nemzeti kapcsolattartó szerv. Az OKFŐ nemzeti kapcsolattartó szervként biztosítja a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítésével összefüggő információcserét az Európai Unió tagállamainak nemzeti kapcsolattartó szerveivel és az Európai Bizottsággal együttműködve.
+(12)[^20]
 
-[^6]: A 7. § (6a) bekezdését a 29/2022. (I. 28.) Korm. rendelet 11. §-a iktatta be.
-[^7]: A 7. § (12) bekezdését a 600/2021. (X. 29.) Korm. rendelet 2. §-a iktatta be.
+[^16]: A 7. § (4) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
+[^17]: A 7. § (5) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
+[^18]: A 7. § (6) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
+[^19]: A 7. § (6a) bekezdését a 29/2022. (I. 28.) Korm. rendelet 11. §-a iktatta be, a 630/2022. (XII. 30.) Korm. rendelet 25. § a) pontja hatályon kívül helyezte.
+[^20]: A 7. § (12) bekezdését a 600/2021. (X. 29.) Korm. rendelet 2. §-a iktatta be, a 630/2022. (XII. 30.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.

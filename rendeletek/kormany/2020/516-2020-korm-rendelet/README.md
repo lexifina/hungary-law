@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-516-20-
 | 2021-11-18 | 2020-516-20-22.5 | 632/2021. (XI. 17.) Korm. rendelet |
 | 2021-12-01 | 2020-516-20-22.6 | 653/2021. (XI. 30.) Korm. rendelet |
 | 2022-02-01 | 2020-516-20-22.7 | 29/2022. (I. 28.) Korm. rendelet |
+| 2023-01-01 | 2020-516-20-22.8 | 616/2022. (XII. 29.) Korm. rendelet |

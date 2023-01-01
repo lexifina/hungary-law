@@ -4,7 +4,7 @@ a) az országos gyógyintézetek és az országos társgyógyintézetek, valamin
 
 b) az állam fenntartásában, illetve tulajdonában lévő – az a) pont alá nem tartozó – egészségügyi intézmények
 
-## tekintetében az országos kórház-főigazgató számára az e rendeletben és a Kormány által külön rendeletben meghatározott fenntartói és irányítási jogok, a gazdasági társaságok tekintetében a tagsági jogok, valamint az alapítványok esetében az alapítói jogok gyakorlásával kapcsolatos feladatokat.
+tekintetében az országos kórház-főigazgató számára az e rendeletben és a Kormány által külön rendeletben meghatározott fenntartói és irányítási jogok, a gazdasági társaságok tekintetében a tagsági jogok, valamint az alapítványok esetében az alapítói jogok gyakorlásával kapcsolatos feladatokat.
 
 (2) Az OKFŐ ellátja az orvos- és egészségtudományi felsőoktatási intézmények klinikai központjai tekintetében az országos kórház-főigazgató számára a Kormány által külön rendeletben meghatározott feladatokat.
 
@@ -14,7 +14,7 @@ a) a honvédelmi miniszter által irányított egészségügyi szolgáltató, va
 
 b) az a) pont szerinti szolgáltató irányítása alá tartozó egészségügyi szolgáltató
 
-## tekintetében az országos kórház-főigazgató számára a Kormány külön rendeletében meghatározott feladatokat.
+tekintetében az országos kórház-főigazgató számára a Kormány külön rendeletében meghatározott feladatokat.
 
 (4) Az OKFŐ ellátja az egészségügyi intézmények vezetői és foglalkoztatottjai tekintetében az országos kórház-főigazgató számára külön jogszabályban meghatározott munkáltatói jogok gyakorlásával kapcsolatos feladatokat.
 

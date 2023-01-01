@@ -1,8 +1,6 @@
-## 18. §[^18]
-
 1. melléklet az 516/2020. (XI. 25.) Korm. rendelethez
 
-## ADATLAP EUROTRANSPLANT MEGÁLLAPODÁS KERETÉBEN VÉGZETT EGÉSZSÉGÜGYI TEVÉKENYSÉGRŐL
+ADATLAP EUROTRANSPLANT MEGÁLLAPODÁS KERETÉBEN VÉGZETT EGÉSZSÉGÜGYI TEVÉKENYSÉGRŐL
 
 I. A tevékenységet végző személy által kitöltendő
 
@@ -117,5 +115,3 @@ Signature
 Name (in capital letters)
 
 of the person acting on behalf of the Hungarian National Blood Transfusion Service
-
-[^18]: A 18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
