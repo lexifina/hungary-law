@@ -8,4 +8,4 @@ b) a miniszter a kiterjesztésre vonatkozó határozatot visszavonja.
 
 (2a) A 17. § (2a) bekezdése alapján történő kiterjesztés esetén a kollektív szerződés hatályát veszti arra a munkáltatóra nézve, amelyre melléktevékenysége keretében terjedt ki, ha a munkáltató főtevékenysége szerinti ágazatra kiterjesztett kollektív szerződés lép hatályba, ez utóbbi hatálybalépésének időpontjában.
 
-(3) A miniszter a kiterjesztéssel kapcsolatos, valamint a kiterjesztés visszavonásáról szóló határozatát, továbbá a kiterjesztett hatályú kollektív szerződés szövegét a Magyar Közlönyben közzéteszi.
+(3) A miniszter a kiterjesztéssel kapcsolatos, valamint a kiterjesztés visszavonásáról szóló határozatát, továbbá a kiterjesztett hatályú kollektív szerződés szövegét a Magyar Közlöny mellékletét képező Hivatalos Értesítőben közzéteszi.

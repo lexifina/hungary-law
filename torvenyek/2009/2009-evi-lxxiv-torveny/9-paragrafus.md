@@ -1,6 +1,6 @@
-9. § (1) Legalább egy ágazati munkáltatói érdekképviselet és legalább egy ágazati szakszervezet együttesen kérheti ÁPB létrehozását, feltéve, hogy az adott ágazatban ÁPB nem működik, illetve létrehozását 6 hónapon belül nem kérték.
+9. § (1) Legalább egy ágazati munkáltatói érdekképviselet és legalább egy ágazati szakszervezet együttesen kérheti ÁPB létrehozását, feltéve, hogy az adott ágazatban ÁPB nem működik, illetve létrehozása iránti eljárás nincs folyamatban.
 
-(2) Az ÁRMB a kérelmet – az ágazat, valamint a kezdeményezők (4) bekezdés b) pontjában szereplő adatainak megjelölésével – a miniszter hivatalos lapjában végzésben közzéteszi. A közzététel időpontjától számított harminc napig más, e törvény feltételeinek megfelelő érdekképviselet is írásban tájékoztathatja a megalakításban való részvételi szándékáról az ÁRMB-t, valamint azokat a szervezeteket, amelyek az (1) bekezdésben meghatározott kérelmet benyújtották.
+(2) Az ÁRMB a kérelmet – az ágazat, valamint a kezdeményezők (4) bekezdés b) pontjában szereplő adatainak megjelölésével – a Magyar Közlöny mellékletét képező Hivatalos Értesítőben végzésben közzéteszi. A közzététel időpontjától számított harminc napig más, e törvény feltételeinek megfelelő érdekképviselet is írásban tájékoztathatja a megalakításban való részvételi szándékáról az ÁRMB-t, valamint azokat a szervezeteket, amelyek az (1) bekezdésben meghatározott kérelmet benyújtották.
 
 (3) A harmincnapos határidő leteltével a kérelmet benyújtó és a részvételi szándékukat bejelentő érdekképviseletek megállapodnak ÁPB létrehozásáról.
 
@@ -22,7 +22,7 @@ b) az ÁPB-ben való, 6–8. § szerinti részvétel és – erre vonatkozó meg
 
 (5a) Ha a (3) bekezdés szerinti megállapodást az érdekképviseletek az aláírástól számított 15 napon belül nem küldik meg a miniszternek és az ÁRMB-nek, az ÁRMB az eljárás lefolytatását kezdeményező kérelmet visszautasítja.
 
-(6) Az (5) bekezdés a) pontja szerint megküldött megállapodást a miniszter hivatalos lapjának soron következő számában végzésben közzé kell tenni.
+(6) Az (5) bekezdés a) pontja szerint megküldött megállapodást az ÁPB létrejötte esetén az ÁRMB érdemi határozatával együtt a Magyar Közlöny mellékletét képező Hivatalos Értesítőben közzé kell tenni.
 
 (7) Az ÁPB létrehozásáról szóló megállapodás nem jön létre, valamint az ÁRMB eljárás lefolytatását kezdeményező kérelmet érdemi vizsgálat nélkül el kell utasítani, ha azok bármelyikét az ÁPB létrehozását kezdeményező, illetve a részvételi szándékát bejelentő valamennyi érdekképviselet nem írta alá.
 

@@ -56,7 +56,7 @@ bm) a kérelmezők az eljárás szünetelését nem kérhetik.
 
 (6) Az ÁRMB határozatát az az ágazati érdekképviselet támadhatja meg közigazgatási perben, amelynek jogos érdekét a határozat sérti.
 
-(7) Az ÁRMB véglegessé vált határozatait a miniszter hivatalos lapjában közzé kell tenni.
+(7) Az ÁRMB véglegessé vált határozatait a Magyar Közlöny mellékletét képező Hivatalos Értesítőben közzé kell tenni.
 
 (8) Az ÁRMB a jogszabályok keretei között maga határozza meg működésének szabályait.
 

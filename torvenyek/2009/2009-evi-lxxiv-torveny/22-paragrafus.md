@@ -10,7 +10,7 @@ b) munkavállalói oldala
 
 választja meg, az ÁPBT tagjai által állított jelöltek közül. Az ÁPBT minden tagja legfeljebb két jelöltet állíthat.
 
-(4) Az ÁRMB tagjainak választása esetén a jelölés és a választás határidejét és időpontját, a lebonyolítás rendjét e törvény keretei között az ÁRMB három oldala két-két képviselőjéből álló választási bizottság határozza meg. A választási bizottság gondoskodik a jelölés és a szavazás lebonyolításáról, a szavazatok megszámlálásáról, az eredmény megállapításáról és közzétételéről. A szavazásra az oldal valamennyi szervezetét meg kell hívni.
+(4) Az ÁRMB tagjainak választása esetén a jelöltállítás határidejét, a választás időpontját, a lebonyolítás rendjét e törvény keretei között az ÁPBT három oldala két-két képviselőjéből álló választási bizottság határozza meg. A választási bizottság gondoskodik a jelölés és a szavazás lebonyolításáról, a szavazatok megszámlálásáról, az eredmény megállapításáról és közzétételéről. A szavazásra az oldal valamennyi szervezetét meg kell hívni.
 
 (5) A jelöltek közötti választás szavazással történik. Az ÁPBT munkáltatói, illetve munkavállalói oldalának minden tagját (a továbbiakban: választásra jogosult) egy-egy szavazat illeti meg.
 
@@ -30,7 +30,7 @@ b) abban legfeljebb két személy megjelölésére került sor.
 
 (11) Az ÁRMB tagjának tagsági jogviszonya megszűnik:
 
-a) a tagsági jogviszonya lejártának időpontjában,
+a) a tagsági jogviszonyt tanúsító miniszteri okiratban megjelölt időpontot követő 5 év elteltével,
 
 b) ha a miniszter az általa delegált tagot visszahívja,
 
@@ -38,7 +38,7 @@ c) ha a választásra jogosultak a tagot visszahívják, és erről tájékoztat
 
 d) a tag lemondásával,
 
-e) ha a tag tevékenységét legalább 60 napig nem látja el,
+e) ha a tag az ÁRMB tagsági jogviszonyból eredő kötelezettségeit az ÁRMB elnökének ismételt felhívását követően sem teljesíti,
 
 f) a tag halálával,
 
