@@ -6,7 +6,7 @@ a) a vízjogi üzemeltetési engedély vagy fennmaradási engedély vagy
 
 b) rendkívüli öntözési célú vízhasználat esetén az illetékes vízügyi hatósághoz történt bejelentés
 
-## alapján a vízhasználó és vízszolgáltató mű üzemeltetője között létrejött szolgáltatási szerződés szerint gyakorolható.
+alapján a vízhasználó és vízszolgáltató mű üzemeltetője között létrejött szolgáltatási szerződés szerint gyakorolható.
 
 (1a)[^11] A mezőgazdasági vízhasznosítási idényen kívüli vízszolgáltatás tekintetében – az igazgatóság véleménye alapján – az üzemeltető és a vízhasználó közötti szolgáltatási szerződésben meghatározott feltételeknek megfelelően kell elszámolni.
 
@@ -42,7 +42,7 @@ a) a tárgyév április 15. és szeptember 30. napja közötti időszakban az ö
 
 b) a tárgyév október 1. és április 14. napja közötti időszakban a termálvíz hasznosításából keletkező szennyvíz és használt víz vízfolyásba bevezetését
 
-## részesíti előnyben.
+részesíti előnyben.
 
 (6) A vízhasználó a tényleges vízhasználatot annak megkezdését megelőzően három nappal korábban köteles bejelenteni a vízszolgáltató területi képviselőjének.
 

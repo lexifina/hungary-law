@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-2-20-6B
 | 2019-01-01 | 1997-2-20-6B.9 | 36/2018. (XII. 21.) BM rendelet |
 | 2019-03-30 | 1997-2-20-6B.10 | 10/2019. (III. 29.) BM rendelet |
 | 2020-10-07 | 1997-2-20-6B.11 | 36/2020. (IX. 22.) BM rendelet |
+| 2023-01-01 | 1997-2-20-6B.12 | 119/2012. (XI. 23.) VM rendelet |
