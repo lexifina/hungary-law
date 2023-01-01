@@ -1,6 +1,6 @@
 ## 2. § A kamara az 1. §-ban foglaltak szerint, elektronikus úton legalább huszonöt, legfeljebb harminc napra közzétett pályázati felhívással kezdeményezi az új testület tagjainak kiválasztását.
 
-3. §[^1] (1) A pályázónak a pályázatához mellékelnie kell
+3. §[^3] (1) A pályázónak a pályázatához mellékelnie kell
 
 a) a pályázó felsőfokú iskolai végzettségéről szóló okirat másolatát, továbbá a legalább kétéves szakmai gyakorlatot igazoló okiratot vagy annak másolatát;
 
@@ -18,4 +18,4 @@ db) ha elnökjelölt is kíván lenni.
 
 (3) Az (1) bekezdés b) pontja szerinti hatósági bizonyítványt, illetve az (1) bekezdés c) pontja szerinti adatszolgáltatást legkésőbb a hiánypótlás előterjesztésére nyitva álló határidőben mellékelni kell, akkor is, ha azok helyett korábban igénylést tanúsító igazolás került benyújtásra. Erről a pályázót a hiánypótlási felhívásban tájékoztatni kell.
 
-[^1]: A 3. § a 10/2020. (IV. 3.) ITM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § a 10/2020. (IV. 3.) ITM rendelet 1. §-ával megállapított szöveg.

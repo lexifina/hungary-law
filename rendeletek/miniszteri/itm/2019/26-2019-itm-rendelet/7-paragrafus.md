@@ -1,6 +1,6 @@
 7. § (1) A kamara a pályázat értékelése során figyelembe veszi a pályázó felsőfokú végzettségét, szakmai gyakorlatát. A kamara a benyújtott pályázatok alapján a 2. §-ban meghatározott közzétételi időtartam lezárását követő nyolc napon belül, az érvényesen benyújtott összes pályázatot előzetesen értékelve felterjeszti az MKIK részére, külön sorrendet megállapítva a tagjelöltek és elnökjelöltek tekintetében.
 
-(2)[^2]
+(2)[^4]
 
 (3) Az MKIK az (1) bekezdésben foglalt határidőt követő nyolc napon belül a kamara előzetes értékelését véleményezi, külön sorrendet megállapítva a tagjelöltek és elnökjelöltek tekintetében. Az MKIK az összes érvényes pályázatot kamarai és MKIK értékeléssel felterjeszti a fogyasztóvédelemért felelős miniszter részére, figyelembe véve a tagjelölt 3. § d) pontjában meghatározott nyilatkozatát.
 
@@ -18,9 +18,9 @@
 
 (10) Az MKIK a kiválasztott elnököt a kiválasztásról szóló értesítést követő nyolc napon belül bízza meg vagy alkalmazza.
 
-(11)[^3]
+(11)[^5]
 
 (12) A kamara a tagok megbízását, az MKIK az elnökök megbízását vagy alkalmazását követő három napon belül elektronikus úton értesíti a fogyasztóvédelemért felelős minisztert a megbízásról vagy alkalmazásról.
 
-[^2]: A 7. § (2) bekezdését a 10/2020. (IV. 3.) ITM rendelet 3. § a) pontja hatályon kívül helyezte.
-[^3]: A 7. § (11) bekezdését a 10/2020. (IV. 3.) ITM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^4]: A 7. § (2) bekezdését a 10/2020. (IV. 3.) ITM rendelet 3. § a) pontja hatályon kívül helyezte.
+[^5]: A 7. § (11) bekezdését a 10/2020. (IV. 3.) ITM rendelet 3. § b) pontja hatályon kívül helyezte.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-26-20-7
 | --- | --- | --- |
 | 2019-09-01 | 2019-26-20-7Q.1 | 26/2019. (VIII. 26.) ITM rendelet |
 | 2020-04-04 | 2019-26-20-7Q.2 | 10/2020. (IV. 3.) ITM rendelet |
+| 2023-01-01 | 2019-26-20-7Q.3 | 37/2022. (XII. 27.) IM rendelet |
