@@ -1,5 +1,3 @@
-## A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező hatóságok
-
 |  | A | B | C | D |
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
@@ -10,13 +8,13 @@
 
 | 4. | örökségvédelmi engedélyek és régészeti feltárásokkal kapcsolatos engedélyek | Budapest Főváros Kormányhivatala |
 
-| 5. | környezetvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
+| 5. | környezetvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal |
 
 | 6. | útügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
 | 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 8. | vízügyi hatósági eljárások | illetékes megyei katasztrófavédelmi igazgatóság |
+| 8. | vízügyi hatósági eljárások | illetékes vármegyei katasztrófavédelmi igazgatóság |
 
 | 9. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
@@ -26,7 +24,7 @@
 
 | 12. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
 
-| 13. | bányahatósági engedélyek | Pest Megyei Kormányhivatal |
+| 13. | bányahatósági engedélyek | Pest Vármegyei Kormányhivatal |
 
 | 14. | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság |
 
@@ -34,6 +32,6 @@
 
 | 16. | villamospálya átépítésének engedélyezési eljárása | közlekedésért felelős miniszter |
 
-2. melléklet a 149/2013. (V. 16.) Korm. rendelethez[^14]
+2. melléklet a 149/2013. (V. 16.) Korm. rendelethez[^16]
 
-[^14]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 82. § e) pontja hatályon kívül helyezte.
+[^16]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 82. § e) pontja hatályon kívül helyezte.
