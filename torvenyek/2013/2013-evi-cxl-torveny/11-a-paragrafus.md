@@ -12,7 +12,11 @@ b) az a) pont alá nem tartozó személy által elkövetett jogsértés esetén 
 
 (3) Ha a jogsértéssel érintett fémkereskedelmi engedélyköteles anyag mennyisége nem állapítható meg, a bírság mértéke 100 ezer forinttól 1 millió forintig terjedhet.
 
-(4) A fémkereskedelmi hatóság a fémkereskedőt 500 ezer forinttól 5 millió forintig terjedő bírsággal sújtja, ha a 3. § (5) bekezdése szerinti fémkereskedelmi engedélyköteles anyagot a közszolgáltatást nyújtó gazdálkodó szervezettel kötött írásbeli szerződés vagy a fémkereskedelmi hatóság írásbeli visszaigazolása nélkül, vagy írásbeli szerződés nélkül vesz át.
+(4) A fémkereskedelmi hatóság a fémkereskedőt 500 ezer forinttól 5 millió forintig terjedő bírsággal sújtja, ha
+
+a) fémkereskedelmi engedélyköteles anyagot írásba foglalt megállapodás vagy írásbeli szerződés nélkül, illetve az anyag jogszerű szerzésére vonatkozó nyilatkozat nélkül vesz át,
+
+b) a 3. § (5) bekezdése szerinti fémkereskedelmi engedélyköteles anyagot a közszolgáltatást, vagy hulladékgazdálkodási közszolgáltatást nyújtó gazdálkodó szervezettel kötött írásbeli szerződés, vagy a szervezet által kiállított igazolás nélkül, illetve a fémkereskedelmi hatóság visszaigazolása nélkül szerez be vagy vesz át.
 
 (5) A bírság mértéke a 11. § (2) bekezdés c) pontja és a 11. § (3) bekezdés a), f) és h) pontja esetén 30 ezer forinttól 2 millió forintig terjedhet.
 

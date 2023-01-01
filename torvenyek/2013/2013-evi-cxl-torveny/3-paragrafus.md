@@ -32,7 +32,7 @@ e) a (2) bekezdés esetén a bontási engedély számát, a bontás helyét, a b
 
 (7a) A bejelentésnek a már ténylegesen kitermelt, az értékesítő személy birtokában lévő fémkereskedelmi engedélyköteles anyagra kell vonatkoznia.
 
-(7b) A fémkereskedelmi hatóság a (7) és (7a) bekezdésben foglaltaknak megfelelő bejelentés alapján a visszaigazolást megadja, ha nem merül fel adat az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyag jogellenes származására. A visszaigazolás kizárólag egyszer, a visszaigazolás kézhezvételétől számított 15 napon belül használható fel. A 15 nap elteltével a visszaigazolás hatályát veszti. A visszaigazolás felhasználása során nem értékesített, visszaigazolással érintett fémkereskedelmi engedélyköteles anyag későbbi értékesítéséhez újabb, a (7) bekezdés szerinti előzetes bejelentést kell tenni.
+(7b) A fémkereskedelmi hatóság a (7) és (7a) bekezdésben foglaltaknak megfelelő bejelentés alapján a visszaigazolást megadja, ha nem merül fel adat az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyag jogellenes származására. A visszaigazolás kizárólag egyszer, a visszaigazolás kiállításától számított 45 napon belül használható fel. A 45 nap elteltével a visszaigazolás hatályát veszti. A visszaigazolás felhasználása során nem értékesített, visszaigazolással érintett fémkereskedelmi engedélyköteles anyag későbbi értékesítéséhez újabb, a (7) bekezdés szerinti előzetes bejelentést kell tenni.
 
 (8) A bejelentést a beérkezéstől számított 5 munkanapon belül a fémkereskedelmi hatóság a tárolás helye szerint illetékes általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv részére tájékoztatásul megküldi. A tájékoztatás célja annak megismerése, hogy az általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv feladatkörében merült-e fel adat a leadni kívánt fémkereskedelmi engedélyköteles anyag eltulajdonított volta tekintetében. A fémkereskedelmi hatóság a tájékoztatásnak az általános rendőrségi feladatok ellátására létrehozott rendőrségi szerv részére történő megküldését követő 5 munkanapon belül visszaigazolást küld a bejelentő és a bejelentésben megjelölt felvásárló fémkereskedő részére.
 
@@ -48,6 +48,6 @@ b) a fémkereskedő az a) pont szerinti bejelentéssel kapcsolatos visszaigazol�
 
 (10) Fémkereskedőnek nem minősülő – nem természetes – személy fémkereskedelmi engedélyköteles anyagot kizárólag szigorú számadású szállítólevél birtokában szállíthat.
 
-(11) A hulladékgazdálkodási közszolgáltatást nyújtó szervezet az általa elszállított, az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyagot a (7) bekezdésben meghatározott módon értékesítheti.
+(11) A hulladékgazdálkodási közszolgáltatást nyújtó szervezet az általa elszállított, az (5) bekezdésben meghatározott fémkereskedelmi engedélyköteles anyagot a (6) bekezdésben meghatározott módon értékesítheti.
 
 (12) Fémkereskedő égett kábelt kizárólag a közszolgáltatást nyújtó gazdálkodó szervezettől, illetve a fémkereskedelmi hatóság vagy bíróság döntése, továbbá tűzkár esetén tűzeseti hatósági bizonyítvány alapján vehet át.
