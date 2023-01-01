@@ -1,6 +1,6 @@
 3. melléklet a 181/2009. (XII. 30.) FVM rendelethez
 
-## A hatósági nyilvántartás adattartalma
+A hatósági nyilvántartás adattartalma
 
 1. lakcím,
 

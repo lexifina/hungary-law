@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-181-20-
 | 2014-03-15 | 2009-181-20-82.5 | 22/2014. (III. 14.) VM rendelet |
 | 2017-08-18 | 2009-181-20-82.6 | 42/2017. (VIII. 17.) FM rendelet |
 | 2020-09-28 | 2009-181-20-82.7 | 42/2017. (VIII. 17.) FM rendelet |
+| 2023-01-01 | 2009-181-20-82.8 | 42/2017. (VIII. 17.) FM rendelet |
