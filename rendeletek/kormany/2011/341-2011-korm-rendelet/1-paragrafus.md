@@ -152,7 +152,7 @@ l) egyéb fűthető helyiség, ide nem értve a gépjárműtárolót és a pince
 
 22.[^20] lakás: az OTÉK rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel;
 
-23.[^21] kormányhivatal: a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljáró, a támogatott lakás fekvése szerint illetékes megyei kormányhivatal, Pest megye és a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatala;
+23.[^21] kormányhivatal: a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljáró, a támogatott lakás fekvése szerint illetékes vármegyei kormányhivatal, Pest vármegye és a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatala;
 
 24.[^22] összkomfortos lakás: az a lakás, amely legalább
 
@@ -193,7 +193,7 @@ rendelkezik;
 [^18]: Az 1. § (1) bekezdés 20. pontját az 537/2013. (XII. 30.) Korm. rendelet 68. §-a iktatta be.
 [^19]: Az 1. § (1) bekezdés 21. pontját az 537/2013. (XII. 30.) Korm. rendelet 68. §-a iktatta be.
 [^20]: Az 1. § (1) bekezdés 22. pontját a 331/2014. (XII. 18.) Korm. rendelet 34. §-a iktatta be.
-[^21]: Az 1. § (1) bekezdés 23. pontját a 70/2015. (III. 30.) Korm. rendelet 187. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 97. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^21]: Az 1. § (1) bekezdés 23. pontját a 70/2015. (III. 30.) Korm. rendelet 187. § (1) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 97. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 134. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 134. § b) pontja szerint módosított szöveg.
 [^22]: Az 1. § (1) bekezdés 24. pontját a 70/2015. (III. 30.) Korm. rendelet 187. § (1) bekezdése iktatta be, szövege a 455/2015. (XII. 29.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.
 [^23]: Az 1. § (1) bekezdés 25. pontját a 455/2015. (XII. 29.) Korm. rendelet 19. § (5) bekezdése iktatta be, szövege a 482/2016. (XII. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
 [^24]: Az 1. § (1) bekezdés 26. pontját a 455/2015. (XII. 29.) Korm. rendelet 19. § (5) bekezdése iktatta be.

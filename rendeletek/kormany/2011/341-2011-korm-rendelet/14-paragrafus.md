@@ -24,7 +24,7 @@ k) a hontalan jogállást a hontalankénti elismerésről szóló határozattal,
 
 l)[^124] az 5. § (1) bekezdés b) pontja szerinti feltétel teljesülését a végleges építési engedély és a végleges használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány bemutatásával,
 
-m)[^125] a 4. § (1) bekezdés f) pont fa) alpontjában foglaltakat az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és megyei kormányhivatal – a biztosított kérelmére 3 munkanapon belül kiállított – igazolásával, a 4. § (1) bekezdés f) pont fb) alpontja második fordulatában foglaltakat nemleges együttes adóigazolással,
+m)[^125] a 4. § (1) bekezdés f) pont fa) alpontjában foglaltakat az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal – a biztosított kérelmére 3 munkanapon belül kiállított – igazolásával, a 4. § (1) bekezdés f) pont fb) alpontja második fordulatában foglaltakat nemleges együttes adóigazolással,
 
 n)[^126] a 4. § (1) bekezdés h) pontjában foglaltakat az igénylő teljes bizonyító erejű magánokiratba foglalt nyilatkozatáva,
 
@@ -55,7 +55,7 @@ v)[^135] a gyermek halva születését a halottvizsgálatról és a halottakkal 
 (3)[^136] Ha az igénylő a hitelintézetnek vagy az igazolást kibocsátónak valótlan adatot tartalmazó nyilatkozatot tett, és ez alapján jutott az otthonteremtési kamattámogatáshoz, akkor a folyósított összeget az igénybevétel napjától, a Ptk. szerint számított késedelmi kamataival együtt köteles a hitelintézeten keresztül visszafizetni.
 
 [^124]: A 14. § (1) bekezdés l) pontja a 379/2012. (XII. 19.) Korm. rendelet 39. § (1) bekezdésével megállapított, a 128/2013. (IV. 30.) Korm. rendelet 21. § j) pontja, a 457/2017. (XII. 28.) Korm. rendelet 376. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^125]: A 14. § (1) bekezdés m) pontját a 71/2012. (IV. 12.) Korm. rendelet 9. §-a iktatta be, szövege a 379/2012. (XII. 19.) Korm. rendelet 43. § l) pontja, a 379/2016. (XII. 2.) Korm. rendelet 189. § (5) bekezdés h) pontja, a 360/2019. (XII. 30.) Korm. rendelet 97. § (5) bekezdés f) szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át. szöveg.
+[^125]: A 14. § (1) bekezdés m) pontját a 71/2012. (IV. 12.) Korm. rendelet 9. §-a iktatta be, szövege a 379/2012. (XII. 19.) Korm. rendelet 43. § l) pontja, a 379/2016. (XII. 2.) Korm. rendelet 189. § (5) bekezdés h) pontja, a 360/2019. (XII. 30.) Korm. rendelet 97. § (5) bekezdés f) pontja, a 616/2022. (XII. 29.) Korm. rendelet 134. § a) pontja szerint módosított szöveg.
 [^126]: A 14. § (1) bekezdés n) pontját a 379/2012. (XII. 19.) Korm. rendelet 39. § (2) bekezdése iktatta be.
 [^127]: A 14. § (1) bekezdés o) pontját az 537/2013. (XII. 30.) Korm. rendelet 73. §-a iktatta be.
 [^128]: A 14. § (1) bekezdés p) pontját a 331/2014. (XII. 18.) Korm. rendelet 41. §-a iktatta be.
