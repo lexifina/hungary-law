@@ -6,21 +6,7 @@
 
 ## 4. egyetért azzal, hogy a 2. pont szerinti előkészítési fázisokat a kormánybiztos a KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: KKBK Nonprofit Zrt.) bevonásával valósítsa meg;
 
-## 5.[^4] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva – a 2. pontban foglaltak megvalósítása érdekében – elrendeli a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 43. Kulturális örökségvédelmi szakmai feladatok jogcímcsoport javára 495 400 000 forint egyszeri átcsoportosítását, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszatérítési kötelezettséggel, az 1. melléklet szerint;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: azonnal
-
-## Az elszámolási és visszafizetési kötelezettség tekintetében
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## Határidő: a 2. pont szerinti határidőt követő 120 napon belül
+## 5.[^4]
 
 ## 6.[^5] egyetért azzal, hogy a Beruházás tervezőjének kiválasztása céljából a tervpályázati eljárásokról szóló 310/2015. (X. 28.) Korm. rendelet szerinti tervpályázat és az alapján a továbbtervezésre irányuló közbeszerzési eljárás kerüljön lefolytatásra, amelynek érdekében felhívja a kormánybiztost, hogy gondoskodjon a tervpályázati eljárás lefolytatásáról;
 
@@ -68,85 +54,14 @@
 
 ## Határidő: a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően azonnal
 
-1. melléklet az 1239/2019. (IV. 30.) Korm. határozathoz
-
-9K02581_0
-
-| XV. Pénzügyminisztérium |
-
-| XI. Miniszterelnökség |
-
-| ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA |
-
-| Költségvetési év: 2019. |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XV. |  |  |  |  |  | Pénzügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 26 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 2 |  |  |  |  |  | Központi tartalékok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 375739 |  |  |  | 4 |  |  |  |  |  | Beruházás Előkészítési Alap |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -495 400 000 |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 295146 |  |  |  | 43 |  |  |  |  |  | Kulturális örökségvédelmi szakmai feladatok |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 495 400 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 295146 |  |  |  | 43 |  |  |  |  |  | Kulturális örökségvédelmi szakmai feladatok |  |  |  |  |  |  |  |  | 495 400 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Magyar Államkincstár 1 példány |  |  | időarányos |  |  |  |  |  | 495 400 000 |  |  |
-
-|  |  | teljesítményarányos |  |  |  |  |  |  |
-
-|  |  | egyéb: | azonnal |  |  | 495 400 000 |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+1. melléklet az 1239/2019. (IV. 30.) Korm. határozathoz[^10]
 
 [^2]: Az 1. pont az 1940/2020. (XII. 17.) Korm. határozat 4. pont a) alpontja, az 1864/2021. (XII. 2.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
 [^3]: A 2. pont az 1940/2020. (XII. 17.) Korm. határozat 4. pont b) és c) alpontja, az 1864/2021. (XII. 2.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
-[^4]: Az 5. pont az 1940/2020. (XII. 17.) Korm. határozat 4. pont d) alpontja szerint módosított szöveg.
+[^4]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^5]: A 6. pont az 1940/2020. (XII. 17.) Korm. határozat 4. pont e) alpontja szerint módosított szöveg.
 [^6]: A 7. pontot az 1940/2020. (XII. 17.) Korm. határozat 5. pontja visszavonta.
 [^7]: A 9. pont az 1940/2020. (XII. 17.) Korm. határozat 2. pontjával megállapított szöveg.
 [^8]: A 10. pontot az 1940/2020. (XII. 17.) Korm. határozat 3. pontja iktatta be, szövege az 1396/2021. (VI. 24.) Korm. határozattal megállapított szöveg.
 [^9]: A 11. pontot az 1940/2020. (XII. 17.) Korm. határozat 3. pontja iktatta be, szövege az 1396/2021. (VI. 24.) Korm. határozattal megállapított, az 1864/2021. (XII. 2.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
+[^10]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
