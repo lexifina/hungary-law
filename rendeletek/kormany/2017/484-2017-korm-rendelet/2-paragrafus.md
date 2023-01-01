@@ -1,5 +1,5 @@
 ## 1. § A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a 2014–2029 közötti időszakra a Nemzeti Média- és Hírközlési Hatóság által kiírt „Szélessávú szolgáltatásokhoz kapcsolódó frekvenciahasználati jogosultságok” tárgyú pályázat alapján létrejött hatósági szerződésekben vállalt mobil hírközlési hálózatfejlesztési kötelezettségeket teljesítő, vagy a hálózat bővítéséhez, fejlesztéséhez szükséges nagy sebességű negyedik vagy ötödik generációs mobil hírközlési hálózatfejlesztési projektek beruházásaival összefüggő – az ilyen hálózatok megvalósításához, használatbavételéhez, valamint üzembe helyezéséhez közvetlenül szükséges – az 1. mellékletben meghatározott közigazgatási hatósági ügyeket.
 
-2. §[^1] A Kormány az 1. § szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Csongrád-Csanád Megyei Kormányhivatalt vezető főispánt jelöli ki.
+2. §[^1] A Kormány az 1. § szerinti kiemelt jelentőségű ügyekben koordinációs feladatokat ellátó főispánként a Csongrád-Csanád Vármegyei Kormányhivatalt vezető főispánt jelöli ki.
 
-[^1]: A 2. § a 371/2020. (VII. 30.) Korm. rendelet 48. §-a, az 546/2022. (XII. 22.) Korm. rendelet 204. § a)-b) pontja szerint módosított szöveg.
+[^1]: A 2. § a 371/2020. (VII. 30.) Korm. rendelet 48. §-a, az 546/2022. (XII. 22.) Korm. rendelet 204. § a)-c) pontja szerint módosított szöveg.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-484-20-
 | 2018-01-06 | 2017-484-20-22.2 | 2010: CXXX. törvény |
 | 2020-07-31 | 2017-484-20-22.3 | 371/2020. (VII. 30.) Korm. rendelet |
 | 2022-12-23 | 2017-484-20-22.4 | 371/2020. (VII. 30.) Korm. rendelet |
+| 2023-01-01 | 2017-484-20-22.5 | 371/2020. (VII. 30.) Korm. rendelet |
