@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-50-00-00
 | 2014-11-26 | 2011. évi CLXXXIX. törvény | 2010-50-00-00.9 |
 | 2021-01-21 | 2020. évi CLXVII. törvény | 2010-50-00-00.10 |
 | 2021-11-11 | 2021. évi CXIII. törvény | 2010-50-00-00.11 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2010-50-00-00.12 |
