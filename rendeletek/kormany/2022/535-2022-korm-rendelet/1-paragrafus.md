@@ -1,0 +1,1 @@
+1. § E rendelet hatálya a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) hatálya alá tartozó munkáltatóra (a továbbiakban: munkáltató) és az általa foglalkoztatott – a gyermek születése vagy örökbefogadása esetén igénybe vehető – apasági szabadságra jogosult, az Mt. szerint apának minősülő munkavállalóra (a továbbiakban: munkavállaló) terjed ki.

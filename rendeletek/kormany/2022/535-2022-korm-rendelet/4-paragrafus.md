@@ -1,0 +1,1 @@
+4. § Az apasági szabadság első öt munkanapjára a munkavállaló részére járó távolléti díj és az azt terhelő munkáltatói közteher összege a munkáltató részére a központi költségvetésből kerül megtérítésre.
