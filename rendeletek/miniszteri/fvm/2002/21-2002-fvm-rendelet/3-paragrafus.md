@@ -4,7 +4,7 @@ a) EBL-lel fertőzött,
 
 b) EBL-től mentes
 
-## állomány.
+állomány.
 
 (2) EBL-lel fertőzött az az állomány, amelyben
 

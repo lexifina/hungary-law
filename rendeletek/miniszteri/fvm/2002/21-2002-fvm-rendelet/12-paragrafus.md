@@ -1,5 +1,3 @@
-## 11. §[^8] A mentesítés helyzetéről a megyei kormányhivatal félévente köteles jelentést küldeni az agrárpolitikáért felelős miniszter által vezetett minisztériumnak.
-
 ## Záró rendelkezések
 
 12. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba, egyidejűleg a 41/1997. (V. 28.) FM rendelet 1. számú mellékleteként kiadott Állategészségügyi Szabályzat 577–587. §-a és az azt megelőző ,,A szarvasmarhák enzootikus leukózisa'' cím hatályát veszti.
@@ -40,5 +38,4 @@ Kelt: .........................
 
 járási hivatalvezető
 
-[^8]: A 11. § a 42/2017. (VIII. 17.) FM rendelet 32. § f) pontja szerint módosított szöveg.
 [^9]: A melléklet a 42/2017. 8VIII. 17.) FM rendelet 31. §-ával megállapított szöveg.
