@@ -1,5 +1,3 @@
-## nem került törlésre.
-
 5. § (1) A hatóság a szolgáltatókról nyilvántartást vezet.
 
 (2) A nyilvántartást szolgáltatási tevékenységenként elkülönítve kell vezetni

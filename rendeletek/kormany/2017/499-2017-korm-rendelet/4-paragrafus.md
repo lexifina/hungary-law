@@ -1,10 +1,10 @@
-4. § (1)[^2] A bejelentés a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 22. § (1) bekezdésében meghatározott adatokon túl – üzletszerű ingatlanközvetítő vagy ingatlanvagyon-értékelő és -közvetítő tevékenység esetén tartalmazza
+4. § (1)[^4] A bejelentés a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény 22. § (1) bekezdésében meghatározott adatokon túl – üzletszerű ingatlanközvetítő vagy ingatlanvagyon-értékelő és -közvetítő tevékenység esetén tartalmazza
 
 a) a szolgáltatási tevékenység során használni kívánt nyelv vagy nyelvek megjelölését,
 
-b)[^3] – ha a szolgáltató bejelenti – az elektronikus, telefonos, postai, illetve egyéb elérhetőségét,
+b)[^5] – ha a szolgáltató bejelenti – az elektronikus, telefonos, postai, illetve egyéb elérhetőségét,
 
-c)[^4] természetes személy szolgáltató esetén
+c)[^6] természetes személy szolgáltató esetén
 
 ca) természetes személyazonosító adatait,
 
@@ -22,7 +22,7 @@ dc) a képviseletre jogosult személy – egyéni vállalkozó esetén a saját 
 
 dd) a gazdálkodó szervezet 3. § b) pont bb) alpontja szerinti személyesen közreműködő tagja, alkalmazottja vagy foglalkoztatottja nevét és az e rendelet szerinti nyilvántartásba vételi számát,
 
-e)[^5] a szolgáltatási tevékenységnek a szolgáltatóra vonatkozó ágazati szabályozás szerinti szüneteltetése kezdeti, valamint befejező időpontját.
+e)[^7] a szolgáltatási tevékenységnek a szolgáltatóra vonatkozó ágazati szabályozás szerinti szüneteltetése kezdeti, valamint befejező időpontját.
 
 (2) Tevékenységi körként
 
@@ -30,7 +30,7 @@ a) az üzletszerű ingatlankezelő szolgáltatás mellett az üzletszerű társa
 
 b) az üzletszerű ingatlanvagyon-értékelő és -közvetítő szolgáltatás mellett az üzletszerű ingatlanközvetítő
 
-## szolgáltatás egy bejelentésben megjelölhető.
+szolgáltatás egy bejelentésben megjelölhető.
 
 (3) A szolgáltatónak a feltételek teljesítésével összefüggésben igazolni kell
 
@@ -42,7 +42,7 @@ c) a bejelentő lakóhelye vagy székhelye szerint illetékes önkormányzati ad
 
 d) a büntetlen előéletet és annak tényét, hogy a szolgáltató nem áll a bejelentés tárgyát képező szolgáltatási tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt.
 
-(4)[^6] A (3) bekezdésben foglaltakon túl az ingatlanközvetítő, valamint az ingatlanvagyon-értékelő és -közvetítő gazdálkodó szervezet szolgáltató vezető tisztségviselője, tagja, illetve a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) szerinti tényleges tulajdonosa esetében az üzleti jó hírnév keretében igazolni kell
+(4)[^8] A (3) bekezdésben foglaltakon túl az ingatlanközvetítő, valamint az ingatlanvagyon-értékelő és -közvetítő gazdálkodó szervezet szolgáltató vezető tisztségviselője, tagja, illetve a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.) szerinti tényleges tulajdonosa esetében az üzleti jó hírnév keretében igazolni kell
 
 a) a büntetlen előéletet,
 
@@ -54,8 +54,10 @@ ca) természetes személyként nem törölték, továbbá
 
 cb) olyan gazdálkodó szervezet, amelynek vezető tisztségviselője, tagja vagy a Pmt. szerinti tényleges tulajdonosa volt,
 
-[^2]: A 4. § (1) bekezdés nyitó szövegrésze a 611/2020. (XII. 18.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^3]: A 4. § (1) bekezdés b) pontja a 611/2020. (XII. 18.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^4]: A 4. § (1) bekezdés c) pontja a 611/2020. (XII. 18.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^5]: A 4. § (1) bekezdés e) pontját a 611/2020. (XII. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^6]: A 4. § (4) bekezdését a 611/2020. (XII. 18.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+nem került törlésre.
+
+[^4]: A 4. § (1) bekezdés nyitó szövegrésze a 611/2020. (XII. 18.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^5]: A 4. § (1) bekezdés b) pontja a 611/2020. (XII. 18.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. § (1) bekezdés c) pontja a 611/2020. (XII. 18.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^7]: A 4. § (1) bekezdés e) pontját a 611/2020. (XII. 18.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^8]: A 4. § (4) bekezdését a 611/2020. (XII. 18.) Korm. rendelet 4. § (3) bekezdése iktatta be.
