@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-51-20-2
 | 2022-01-01 | 2011-51-20-2W.28 | 83/2011. (XII. 29.) NFM rendelet |
 | 2022-10-01 | 2011-51-20-2W.29 | 20/2022. (IX. 30.) TIM rendelet |
 | 2022-11-21 | 2011-51-20-2W.30 | 27/2022. (XI. 21.) TIM rendelet |
+| 2023-01-01 | 2011-51-20-2W.31 | 83/2011. (XII. 29.) NFM rendelet |
