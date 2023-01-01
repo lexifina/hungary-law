@@ -64,7 +64,7 @@ d) a megszerzett társaság tagjánál, részvényesénél a kedvezményezett r�
 
 (9) A jövedelem-(nyereség-)minimum meghatározásakor az összes bevételt növeli
 
-a) a jogelőd kedvezményezett átalakulására, illetve kedvezményezett részesedéscserére tekintettel a tag, a részvényes az általa csökkentő tételként figyelembe vett összegből a megszerzett részesedés bekerülési értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján csökkentő tételként figyelembe vett) összeg, továbbá jogutód nélküli megszűnésének adóévében az a rész, amelyet még nem számolt el növelő tételként,
+a) a jogelőd kedvezményezett átalakulására, illetve kedvezményezett részesedéscserére tekintettel a tag, a részvényes az általa csökkentő tételként figyelembe vett összegből a megszerzett részesedés könyv szerinti értéke csökkentéseként, könyv szerinti értéke kivezetéseként az adóévben bármely jogcímen elszámolt (de összesen legfeljebb a részesedésre az említett rendelkezés alapján csökkentő tételként figyelembe vett) összeg, továbbá jogutód nélküli megszűnésének adóévében az a rész, amelyet még nem számolt el növelő tételként,
 
 b) az átvevő társaság – az átruházó nyilatkozata alapján – az átruházónál az összes bevétel csökkentéseként figyelembe vett összegből az átvett tárgyi eszközökre és immateriális javakra a számviteli előírás alapján elszámolt értékcsökkenésnek az átvett eszközök bekerülési értéke arányában számított összeggel, továbbá jogutód nélküli megszűnésének adóévében a fennmaradó összeggel,
 

@@ -64,7 +64,7 @@ egyes költségek, ráfordítások
 
 A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenység érdekében felmerült költségnek, ráfordításnak minősül különösen:
 
-## 1. az adózó által a vele munkaviszonyban álló magánszemély, vagy a vele korábban munkaviszonyban álló, saját jogú nyugdíjas magánszemély, illetve az említett magánszemélyek özvegye, kiskorú közeli hozzátartozója részére juttatott segély;
+1. az adózó által a vele munkaviszonyban álló magánszemély, vagy a vele korábban munkaviszonyban álló, saját jogú nyugdíjas magánszemély, illetve az említett magánszemélyek özvegye, kiskorú közeli hozzátartozója részére juttatott segély;
 
 2. az adózó által üzletpolitikai (reklám) célból, magánszemélynek azonos feltételekkel és módon, nyilvános körülmények között adott kedvezmény, árengedmény, visszatérítés, termék, szolgáltatás révén nyújtott, a személyi jövedelemadóról szóló törvény szerinti juttatás, továbbá a termék megismertetése, forgalmának növelése céljából adott, a személyi jövedelemadóról szóló törvény szerinti áruminta;
 
@@ -84,7 +84,7 @@ A 8. § (1) bekezdés d) pontjának alkalmazásában a vállalkozási tevékenys
 
 11. a tulajdonostárs által a társasházi közös tulajdonnal, a lakásszövetkezeti tulajdonnal kapcsolatos karbantartási és egyéb közös kiadásra (üzemeltetésre) elszámolt, tulajdoni hányaddal arányos költség; továbbá a lakásszövetkezetnél a cégbejegyzés előtt vállalt kötelezettség miatt felmerült költség, ráfordítás, feltéve, hogy az alapul szolgáló szerződést a közgyűlés utólag jóváhagyta;
 
-12. a szerencsejáték szervezéséről szóló törvényben meghatározott sorsolásos játék, ajándéksorsolás keretében átadott, nyújtott nyeremény ráfordításként elszámolt értéke;
+12. a szerencsejáték szervezéséről szóló törvényben meghatározott sorsolásos játék keretében átadott, nyújtott nyeremény ráfordításként elszámolt értéke;
 
 13. A szövetkezetnél a közösségi alapból a szövetkezet alapszabálya szerinti céloknak megfelelő felhasználás alapján elszámolt költség;
 

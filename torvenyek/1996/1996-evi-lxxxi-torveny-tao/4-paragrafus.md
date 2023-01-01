@@ -216,7 +216,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 
 24/a. munkahelyi óvoda: olyan óvodai nevelési ellátást nyújtó intézmény, amely az éves átlagos gyermeklétszámot figyelembe véve legalább 80 százalékban az adózó által foglalkoztatottak gyermekeinek az óvodai nevelését biztosítja;
 
-25. munkáltatói és munkavállalói érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett szervezet vagy szervezetek szövetsége, amelynek az alapszabály szerinti főtevékenysége a munkáltatói/munkavállalói érdekképviselet, és tagja az Nemzeti Gazdasági és Társadalmi Tanácsnak, valamint e szervezet azon tagszervezete, amely megyei, régiós vagy szakmai szövetségként működik;
+25. munkáltatói és munkavállalói érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett szervezet vagy szervezetek szövetsége, amelynek az alapszabály szerinti főtevékenysége a munkáltatói/munkavállalói érdekképviselet, és tagja az Nemzeti Gazdasági és Társadalmi Tanácsnak, valamint e szervezet azon tagszervezete, amely vármegyei, régiós vagy szakmai szövetségként működik;
 
 26. nyilvántartott értékvesztés: a követelésekre a számviteli előírások alapján elszámolt és adózás előtti eredménynövelésként figyelembe vett értékvesztés csökkentve az adózás előtti eredmény csökkentéseként számításba vett összeggel;
 
@@ -224,7 +224,7 @@ feltéve, hogy az átalakulást valós gazdasági, kereskedelmi okok alapozzák 
 
 28. önálló környezetvédelmi beruházás: az a beruházás, amely kizárólag a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 1. § (2) bekezdés a)–c) pontja szerinti célt szolgál;
 
-28/a. országos érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett egyesületek szövetsége, amelynek tagjai alapszabályuk szerint a munkavállalók vagy a munkáltatók érdekeit képviselik, feltéve, hogy a szövetségnek vagy a tagjának legalább tíz, különböző megyében működő, jogi személyiséggel rendelkező szervezeti egysége van;
+28/a. országos érdekképviseleti szervezet: az az egyesületként bírósági nyilvántartásba vett egyesületek szövetsége, amelynek tagjai alapszabályuk szerint a munkavállalók vagy a munkáltatók érdekeit képviselik, feltéve, hogy a szövetségnek vagy a tagjának legalább tíz, különböző vármegyében működő, jogi személyiséggel rendelkező szervezeti egysége van;
 
 28/b. osztalék: a számvitelről szóló törvény szerint pénzügyi műveletek bevételei között osztalék jogcímen kimutatott vagy az éves beszámolóját, a könyvviteli zárlatát az IFRS-ek szerint összeállító adózónál az ennek megfeleltethető összeg, feltéve, hogy annak összegét az osztalékot megállapító társaság (ideértve a kezelt vagyont és a vagyonkezelő alapítványt, valamint a közfeladatot ellátó közérdekű vagyonkezelő alapítványt) nem számolja el az adózás előtti eredmény terhére ráfordításként;
 
