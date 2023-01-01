@@ -1,6 +1,6 @@
-## 4/A. [^29] A Duális Képzési Tanács
+## 4/A. [^30] A Duális Képzési Tanács
 
-## 18/A. §[^30] A DKT tizenkilenc tagú testület. A DKT-ba
+## 18/A. §[^31] A DKT tizenkilenc tagú testület. A DKT-ba
 
 a) két tagot a miniszter,
 
@@ -30,5 +30,7 @@ m) egy tagot a MAB és
 
 n) egy tagot a Doktoranduszok Országos Szövetsége
 
-[^29]: A 4/A. alcímet (18/A–18/D. §) a 220/2014. (VIII. 29.) Korm. rendelet 16. §-a iktatta be.
-[^30]: A 18/A. § a 346/2019. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+delegál.
+
+[^30]: A 4/A. alcímet (18/A–18/D. §) a 220/2014. (VIII. 29.) Korm. rendelet 16. §-a iktatta be.
+[^31]: A 18/A. § a 346/2019. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.

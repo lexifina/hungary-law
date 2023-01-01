@@ -1,6 +1,6 @@
 ## 7. Egyéb szakértői tevékenység
 
-25. §[^44] (1) A MAB
+25. §[^49] (1) A MAB
 
 a) a miniszter,
 
@@ -12,4 +12,4 @@ részére szakértői véleményt készít az egyetemi tanári munkaköri cím a
 
 (2) A szakértői vélemény és az újabb szakértői vélemény elkészítésének határideje ötvenöt nap.
 
-[^44]: A 25. § a 407/2017. (XII. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^49]: A 25. § a 407/2017. (XII. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
