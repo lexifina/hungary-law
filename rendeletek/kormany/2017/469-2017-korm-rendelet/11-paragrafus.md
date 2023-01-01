@@ -6,7 +6,7 @@ a) a feltételek megváltozására vonatkozó bejelentési kötelezettségének 
 
 b) a költségmentesség engedélyezésére irányuló kérelemben valótlan adatokat szolgáltat,
 
-## a hatóság a költségmentességet engedélyező végzés módosításával vagy visszavonásával egyidejűleg dönt az eljárási költség előlegezéséről és viseléséről.
+a hatóság a költségmentességet engedélyező végzés módosításával vagy visszavonásával egyidejűleg dönt az eljárási költség előlegezéséről és viseléséről.
 
 (3) A hatóság az ügyfelet a költségmentességet engedélyező végzésében tájékoztatja a bejelentés elmulasztásának és a valótlan adatszolgáltatásnak a (2) bekezdésben és az általános közigazgatási rendtartásról szóló törvényben meghatározott jogkövetkezményeiről.
 

@@ -1,6 +1,6 @@
 6. § (1) Teljes költségmentesség akkor engedélyezhető, ha az ügyfél
 
-a) és a vele közös háztartásban élő közeli hozzátartozók egy főre jutó havi nettó jövedelme (nyugdíja) nem éri el az öregségi nyugdíj mindenkori legkisebb összegét, és
+a)[^1] és a vele közös háztartásban élő közeli hozzátartozók egy főre jutó havi nettó jövedelme (nyugdíja) nem éri el a szociális vetítési alap összegét, és
 
 b) ingatlantulajdonnal nem, vagy kizárólag a lakóhelyéül szolgáló ingatlan tulajdonával rendelkezik.
 
@@ -15,3 +15,5 @@ b) pénzellátásban részesülő hadigondozott és nemzeti gondozott,
 c) hajléktalan vagy
 
 d) menekült, menedékes, illetve menekültkénti vagy oltalmazottkénti elismerését kérő vagy menedékeskénti elismerését kérő személy számára biztosított ellátásra és támogatásra jogosult.
+
+[^1]: A 6. § (1) bekezdés a) pontja a 629/2022. (XII. 30.) Korm. rendelet 53. § a) pontja szerint módosított szöveg.
