@@ -1,8 +1,6 @@
-## 12. §[^17]
+1. melléklet a 251/2014. (X. 2.) Korm. rendelethez[^25]
 
-1. melléklet a 251/2014. (X. 2.) Korm. rendelethez[^18]
-
-## Kérelem
+Kérelem
 
 ingatlanszerzés engedélyezése iránt
 
@@ -18,7 +16,7 @@ a külföldiek mező- és erdőgazdasági hasznosítású földnek nem minősül
 
 | A megszerezni kívánt ingatlan címe: A megszerezni kívánt ingatlan helyrajzi száma: A megszerezni kívánt ingatlan jogi jellege: Az ingatlanon elhelyezkedő épületek fő rendeltetés szerinti jellege: Az ingatlan megszerzésének jogcíme: |
 
-2/B. Árve rés útján kívánok ingatlant vásárolni a fővárosi/megyei kormányhivatal illetékességi területén:** □
+2/B. Árve rés útján kívánok ingatlant vásárolni a fővárosi/vármegyei kormányhivatal illetékességi területén:** □
 
 | ** A 2/B. pont szerinti esetben a 2/A. pontot nem kell kitölteni. |
 
@@ -60,5 +58,4 @@ Aláírás:
 
 …………………………………....
 
-[^17]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: Az 1. melléklet a 441/2015. (XII. 28.) Korm. rendelet 232. § (3) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 507. § f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^25]: Az 1. melléklet a 441/2015. (XII. 28.) Korm. rendelet 232. § (3) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 507. § f) pontja, a 616/2022. (XII. 29.) Korm. rendelet 190. § a) pontja szerint módosított szöveg.
