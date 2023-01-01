@@ -1,6 +1,6 @@
 22. § Hatályát veszti az Eatv.
 
-a) 5. § (1) bekezdés d) pontja,
+a)
 
 b) 7. § (2) bekezdés d) és e) pontja,
 
