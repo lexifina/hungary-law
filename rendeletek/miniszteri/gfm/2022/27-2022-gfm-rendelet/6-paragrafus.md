@@ -1,1 +1,3 @@
-6. § Hatályát veszti a XLVII. Gazdaság-újraindítási Alap fejezetnek a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter irányítása alá tartozó központi kezelésű előirányzatai felhasználásáról szóló 9/2021. (VI. 28.) NVTNM rendelet.
+6. §[^1]
+
+[^1]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
