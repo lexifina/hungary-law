@@ -1,5 +1,3 @@
-## 3. §[^5] Az e rendeletben foglaltak munkaegészségügyi vonatkozású előírásai végrehajtásának ellenőrzésére, hiányosságok észlelése esetén pedig a szükséges intézkedések megtételére a fővárosi és megyei kormányhivatal mint munkavédelmi hatóság jogosult.
-
 4. §[^6] Ez a rendelet 1987. július 1. napján lép hatályba.
 
 Melléklet a 6/1987. (VI. 24.) EüM rendelethez
@@ -12,7 +10,7 @@ Szabályzat a keszonmunkákra
 
 1.2. A munka végrehajtására a munkáltatónak részletes technológiai, műveleti, kezelési, karbantartási utasításokat kell készíteni.
 
-1.3.[^7] A túlnyomásos légtérben végzett tevékenységet, annak megkezdése előtt 15 nappal, a munkáltató a területileg illetékes fővárosi és megyei kormányhivatal mint munkavédelmi hatóság felé az 1. függelék szerinti bejelentőlapon bejelenti.
+1.3.[^7] A túlnyomásos légtérben végzett tevékenységet, annak megkezdése előtt 15 nappal, a munkáltató a területileg illetékes fővárosi és vármegyei kormányhivatal mint munkavédelmi hatóság felé az 1. függelék szerinti bejelentőlapon bejelenti.
 
 1.4. A túlnyomásos munkahelyen a kompresszorgépházakat (légsűrítőgépházakat) a bekövetkezhető talajsüllyedések és omlások övezetén kívül biztonságosan kell elhelyezni.
 
@@ -384,7 +382,7 @@ Túlnyomásos légtérben végzett tevékenységhez
 
 | 9. | Munkavégzés pontos helye |  |
 
-| 10. | Megye (Munkavégzés pontos helye alapján) |  |
+| 10. | Vármegye (Munkavégzés pontos helye alapján) |  |
 
 | 11. | Munkavégzés megkezdésének ideje |  |
 
@@ -410,9 +408,8 @@ PH.
 
 aláírás
 
-[^5]: A 3. § a 27/2010. (XII. 31.) NGM rendelet 2. §-ával megállapított, a 22/2020. (VI. 29.) ITM rendelet 1. § (2) bekezdése szerint módosított szöveg.
 [^6]: A 4. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 211. pontja hatályon kívül helyezte.
-[^7]: A melléklet 1.3. pontja a 62/2016. (XII. 29.) NGM rendelet 44. § (2) bekezdésével megállapított, a 22/2020. (VI. 29.) ITM rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^7]: A melléklet 1.3. pontja a 62/2016. (XII. 29.) NGM rendelet 44. § (2) bekezdésével megállapított, a 22/2020. (VI. 29.) ITM rendelet 1. § (1) bekezdése, a 28/2022. (XII. 30.) GFM rendelet 1. § a) pontja szerint módosított szöveg.
 [^8]: A melléklet 8.1. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (3) bekezdésével megállapított szöveg.
 [^9]: A munkahelyek kémiai biztonságáról szóló 25/2000. (IX. 30.) EüM–SZCSM együttes rendelet.
 [^10]: A melléklet 8.2. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (4) bekezdésével megállapított szöveg. [E módosító rendelet a melléklet 8.3. pontjáról rendelkezett, azonban a módosítás tartalmilag a 8.2. pontnak felelt meg.]
@@ -427,4 +424,4 @@ aláírás
 [^19]: A melléklet 9.7. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (6) bekezdésével megállapított szöveg.
 [^20]: A melléklet 9.8. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (6) bekezdésével megállapított szöveg.
 [^21]: A melléklet 12.4. pontját a 18/2007. (V. 10.) SZMM rendelet 24. § b) pontja hatályon kívül helyezte.
-[^22]: A melléklet 1. függelékét a 62/2016. (XII. 29.) NGM rendelet 44. § (2) bekezdése iktatta be.
+[^22]: A melléklet 1. függelékét a 62/2016. (XII. 29.) NGM rendelet 44. § (2) bekezdése iktatta be, szövege a 28/2022. (XII. 30.) GFM rendelet 1. § b) pontja szerint módosított szöveg.
