@@ -1,5 +1,3 @@
-## Illetménynövekedésre jogosító szak-/szakmai képesítések
-
 | 1. | Munkakör | Többletképesítés |
 
 | 2. | „E” fizetési osztályba sorolt: |
@@ -13,3 +11,5 @@
 | 6. | bármely munkakör | a) amennyiben a munkáltató kötelezte az egészségügyi szolgálati jogviszonyban álló személyt a további képesítés megszerzésére, és az nem biztosít magasabb fizetési osztályba sorolást, vagy a további szakképesítés hasznosítását a munkáltató foglalkozási feltételként előírja, b) mestervizsga |
 
 3. melléklet az 528/2020. (XI. 28.) Korm. rendelethez
+
+Minősítési lap az orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész, továbbá egyéb nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi szolgálati jogviszonyban álló személy részére

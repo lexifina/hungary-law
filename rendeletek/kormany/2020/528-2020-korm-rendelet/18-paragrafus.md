@@ -4,7 +4,7 @@
 
 a) a munkahelyén legalább napi 3 órán át sugárártalomnak kitett egészségügyi szolgálati jogviszonyban állónak,
 
-b)[^9] szakorvosi rendelőintézetben a szakrendelést ellátó orvosnak, a fogászati alap- és szakellátás orvosának, az iskolaorvosnak, a fogásznak,
+b)[^16] szakorvosi rendelőintézetben a szakrendelést ellátó orvosnak, a fogászati alap- és szakellátás orvosának, az iskolaorvosnak, a fogásznak,
 
 c) bőr- és nemibeteg-, onkológiai, tüdőgyógyászati, pszichiátriai, addiktológiai gondozóban foglalkoztatott orvosnak,
 
@@ -16,7 +16,7 @@ f) a betegek, ápoltak oktatását, foglalkoztatását nem órarend szerint vég
 
 (2) Az (1) bekezdésre tekintettel a teljes napi munkaidőből fennmaradó időt a munkáltató által meghatározott helyen a szakmai kompetenciáinak bővítésével, adminisztrációs feladatok ellátásával tölti az egészségügyi szolgálati jogviszonyban álló személy.
 
-(3)[^10] A légi mentési feladatot ellátó, egészségügyi szolgálati jogviszonyban álló a munkáltatói jogkör gyakorlójának döntése alapján a napi munkaidejének munkáltató által meghatározott tartamát a munkáltató által meghatározott helyen a szakmai kompetenciáinak bővítésével, illetve adminisztrációs feladatok ellátásával tölti.
+(3)[^17] A légi mentési feladatot ellátó, egészségügyi szolgálati jogviszonyban álló a munkáltatói jogkör gyakorlójának döntése alapján a napi munkaidejének munkáltató által meghatározott tartamát a munkáltató által meghatározott helyen a szakmai kompetenciáinak bővítésével, illetve adminisztrációs feladatok ellátásával tölti.
 
-[^9]: A 18. § (1) bekezdés b) pontja a 70/2021. (II. 19.) Korm. rendelet 26. §-a szerint módosított szöveg.
-[^10]: A 18. § (3) bekezdését a 70/2021. (II. 19.) Korm. rendelet 21. §-a iktatta be.
+[^16]: A 18. § (1) bekezdés b) pontja a 70/2021. (II. 19.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^17]: A 18. § (3) bekezdését a 70/2021. (II. 19.) Korm. rendelet 21. §-a iktatta be.

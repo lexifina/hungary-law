@@ -2,17 +2,17 @@
 
 a) a járóbeteg-szakellátást nyújtó egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetében az egészségügyi szolgáltató vezetője a területileg illetékes városi kórház vezetője,
 
-b) a városi fekvőbeteg-ellátó egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetében az egészségügyi szolgáltató vezetője az irányító megyei intézmény vezetője,
+b)[^6] a városi fekvőbeteg-ellátó egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetében az egészségügyi szolgáltató vezetője az irányító vármegyei intézmény vezetője,
 
-c) megyei és országos fekvőbeteg-ellátó egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetében az egészségügyi szolgáltató vezetője az Országos Kórházi Főigazgatóságnak az országos kórház-főigazgató által kijelölt magasabb vezetője,
+c)[^7] vármegyei és országos fekvőbeteg-ellátó egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetében az egészségügyi szolgáltató vezetője az Országos Kórházi Főigazgatóságnak az országos kórház-főigazgató által kijelölt magasabb vezetője,
 
-d) megyei feladatokat is ellátó klinikai központnál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetén a klinikai központ elnöke az Országos Kórházi Főigazgatóságnak az országos kórház-főigazgató által kijelölt magasabb vezetője, nem megyei feladatokat ellátó klinikai központnál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetén a foglalkoztatott a klinikai központ elnöke,
+d)[^8] vármegyei feladatokat is ellátó klinikai központnál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetén a klinikai központ elnöke az Országos Kórházi Főigazgatóságnak az országos kórház-főigazgató által kijelölt magasabb vezetője, nem vármegyei feladatokat ellátó klinikai központnál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetén a foglalkoztatott a klinikai központ elnöke,
 
 e) az egyházi jogi személy tulajdonában álló vagy fenntartásában működő egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetén az egészségügyi szolgáltató vezetője az egyházi tulajdonos vagy fenntartó,
 
 f) az önkormányzati fenntartású egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetén az egészségügyi szolgáltató vezetője a fenntartó által kijelölt személy
 
-g)[^4] az a)–f) pont alá nem tartozó egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetén az egészségügyi szolgáltató vezetője a fenntartó által kijelölt személy
+g)[^9] az a)–f) pont alá nem tartozó egészségügyi szolgáltatónál foglalkoztatott egészségügyi szolgálati jogviszonyban álló személy esetén az egészségügyi szolgáltató vezetője a fenntartó által kijelölt személy
 
 (a továbbiakban együtt: engedélyező szerv) engedélyét kérni.
 
@@ -40,10 +40,13 @@ d) a személyes gondoskodást nyújtó szociális intézmények szakmai feladata
 
 e) a donor plazmaferezis folytatására előírt engedéllyel rendelkező szervezet által a donor alkalmassági vizsgálatának
 
-## végzésére irányuló jogviszony létesítésekor.
+végzésére irányuló jogviszony létesítésekor.
 
 (6) Az egészségügyi szolgálati jogviszonyban álló egészségügyben dolgozónak nem kell az engedélyező szerv előzetes engedélyét kérnie – az Eszjtv. hatálya alá tartozó egészségügyi szolgáltatónál történő további munkavégzésre irányuló jogviszony kivételével – a további munkavégzésére irányuló jogviszony létesítésekor.
 
 (7) Az Eszjtv. 4. § (5) bekezdésének alkalmazása alóli kivételeket a Kormány külön rendeletben állapítja meg.
 
-[^4]: A 7. § (1) bekezdés g) pontját a 70/2021. (II. 19.) Korm. rendelet 19. §-a iktatta be.
+[^6]: A 7. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 310. § a) pontja szerint módosított szöveg.
+[^7]: A 7. § (1) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 310. § a) pontja szerint módosított szöveg.
+[^8]: A 7. § (1) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 310. § b) pontja szerint módosított szöveg.
+[^9]: A 7. § (1) bekezdés g) pontját a 70/2021. (II. 19.) Korm. rendelet 19. §-a iktatta be.

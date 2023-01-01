@@ -1,4 +1,4 @@
-## Minősítési lap az orvos, szakorvos, fogorvos, szakfogorvos, gyógyszerész, szakgyógyszerész, továbbá egyéb nem egészségügyi egyetemi végzettséggel, valamint nem egészségügyi egyetemi végzettséggel és egészségügyi felsőfokú szakirányú szakképesítéssel rendelkező egészségügyi szolgálati jogviszonyban álló személy részére
+## 0X08659_0
 
 | 1. Az egészségügyi szolgálati jogviszonyban álló személy adatai |
 
@@ -103,6 +103,8 @@
 4. melléklet az 528/2020. (XI. 28.) Korm. rendelethez
 
 Minősítési lap
+
+0X08660_0
 
 | 1. Az egészségügyi szolgálati jogviszonyban álló személy adatai |
 

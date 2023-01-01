@@ -11,3 +11,5 @@
 a) a honvédelmi miniszter irányítása alá tartozó egészségügyi szolgáltatónak minősülő honvédelmi szervezetnél foglalkoztatottak jogviszonyára, valamint
 
 b) a rendvédelmi feladatokat ellátó szerveknél működő egészségügyi szolgáltatóra és az ott foglalkoztatottak jogviszonyára
+
+alkalmazandó szabályokat kormányrendelet állapítja meg.

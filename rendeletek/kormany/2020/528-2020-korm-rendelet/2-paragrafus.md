@@ -1,5 +1,3 @@
-## alkalmazandó szabályokat kormányrendelet állapítja meg.
-
 ## 2. Az egészségügyi szolgálati jogviszony létesítésének feltételei
 
 2. § (1) Az állami fenntartású egészségügyi szolgáltatónál (ideértve a klinikai központot is) egészségügyi szolgálati jogviszonyban álló foglalkoztatottak esetében a munkáltatói jogokat az egészségügyi szolgáltató irányítására vonatkozó jogszabályban meghatározott személy gyakorolja.

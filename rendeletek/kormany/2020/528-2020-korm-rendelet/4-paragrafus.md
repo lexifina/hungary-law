@@ -13,3 +13,5 @@ c) az egyéni cég tagjaként,
 d) a társas vállalkozás tagjaként,
 
 e) az egyházi személyként vagy vallási egyesület vallásos szertartást hivatásszerűen végző tagjaként
+
+töltött időt.
