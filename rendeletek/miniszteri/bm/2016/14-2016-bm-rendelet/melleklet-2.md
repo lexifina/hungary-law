@@ -598,7 +598,7 @@ be) T1: Tábornoki alapellátási norma (férfi)
 
 bf) T2: Tábornoki alapellátási norma (női)
 
-bg) E1: Egyenruhás alapellátási norma a Személy- és Objektumvédelmi Igazgatóság Karmelita Őrség Osztály, valamint Köztársasági Elnöki Őrség Objektumvédelmi Osztály állománya részére (férfi/női)
+bg) E1: Egyenruhás alapellátási norma a Személy- és Objektumvédelmi Igazgatóság Karmelita Őrségi Osztály, valamint a Sándor-palota Őrségi Osztály állománya részére (férfi/női)
 
 8. A Készenléti Rendőrségnél szolgálatot teljesítő szenior alapellátási normába sorolt állomány ruházata – feladatellátástól függően – megegyezik az egyenruhás, a vegyes ruhás vagy a polgári ruhás alapellátási normával, kivéve a normában a költségtérítések között polgári ruhapénzként szerepeltetett tételt [7. pontban szereplő táblázat 45. sor].
 
@@ -686,4 +686,4 @@ bg) E1: Egyenruhás alapellátási norma a Személy- és Objektumvédelmi Igazga
 
 | 18 | Fonott kardtartó, rejtett | db | 1 | 5 év |
 
-[^69]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a, a 29/2019. (VII. 17.) BM rendelet 1. § a) pontja, a 47/2019. (XII. 18.) BM rendelet 2. §-a, a 9/2020. (IV. 16.) BM rendelet 4. §-a, a 16/2021. (VI. 24.) BM rendelet 7. § a) pontja, a 6/2022. (IV. 14.) BM rendelet 7. § (1) bekezdése szerint módosított szöveg. [A 6/2022. (IV. 14.) BM rendelet 7. § (1) bekezdésében foglalt azon módosítás, mely szerint a 2. melléklet 7. pontjában foglalt táblázat I:14 mezőjében hatályát veszti az „a” szövegrész, nem vezethető át.]
+[^69]: A 2. melléklet a 29/2017. (XI. 6.) BM rendelet 11. § (1) bekezdése, a 28/2018. (X. 15.) BM rendelet 10. §-a, a 29/2019. (VII. 17.) BM rendelet 1. § a) pontja, a 47/2019. (XII. 18.) BM rendelet 2. §-a, a 9/2020. (IV. 16.) BM rendelet 4. §-a, a 16/2021. (VI. 24.) BM rendelet 7. § a) pontja, a 6/2022. (IV. 14.) BM rendelet 7. § (1) bekezdése, a 73/2022. (XII. 27.) BM rendelet 1. §-a szerint módosított szöveg. [A 6/2022. (IV. 14.) BM rendelet 7. § (1) bekezdésében foglalt azon módosítás, mely szerint a 2. melléklet 7. pontjában foglalt táblázat I:14 mezőjében hatályát veszti az „a” szövegrész, nem vezethető át.]
