@@ -1,22 +1,6 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 57. Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaságok részére jogcímcsoportot a 9. Várkapitányság Nonprofit Zrt. kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása jogcímmel egészíti ki;
+## 1.[^1]
 
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## 2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva a Közfeladat megvalósítása érdekében elrendeli a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 57. Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaságok részére jogcímcsoport,
-
-## a) 3. Várgondnokság Közhasznú Nonprofit Kft. kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása jogcím terhére 524 000 000 forint és
-
-## b) 4. Budavári Ingatlanfejlesztő és Üzemeltető Nonprofit Kft. kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása jogcím terhére 676 100 000 forint
-
-## – ebből 1 017 400 000 forint tartós, beépülő jelleggel történő – átcsoportosítását, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 57. Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaságok részére jogcímcsoport, 9. Várkapitányság Nonprofit Zrt. kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása jogcím javára, az 1. és 2. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: azonnal
+## 2.[^2]
 
 ## 3. felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – gondoskodjon a Közfeladat támogatása érdekében 2019. évben szükséges
 
@@ -42,4 +26,8 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-1. melléklet az 1035/2019. (II. 13.) Korm. határozathoz
+1. melléklet az 1035/2019. (II. 13.) Korm. határozathoz[^3]
+
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
