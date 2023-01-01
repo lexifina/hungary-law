@@ -4,9 +4,9 @@
 
 (2) Az 1–31. §, a 32. § (3) és (4) bekezdése, továbbá a 33. § (1) és (2) bekezdése 2012. március 15-én lép hatályba.
 
-(3)[^35]
+(3)[^68]
 
-(4)[^36]
+(4)[^69]
 
-[^35]: A 32. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés e) pontja hatályon kívül helyezte.
-[^36]: A 32. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^68]: A 32. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 195. § (4) bekezdés e) pontja hatályon kívül helyezte.
+[^69]: A 32. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
