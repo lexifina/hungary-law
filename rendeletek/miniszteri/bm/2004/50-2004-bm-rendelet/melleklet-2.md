@@ -1,5 +1,3 @@
-## A fegyverekkel, lőszerekkel kapcsolatos tevékenységek engedélyezése igazgatási szolgáltatási díjai
-
 | Az igazgatási szolgáltatási díjak mértéke forintban |
 
 | 1. | Gyártás engedélyezése | 150 000 |
@@ -58,7 +56,7 @@
 
 | 28. | A fegyver kezelésére, illetve használatára jogosult személynek a szervezet részére kiadott lőfegyvertartási engedélybe történő bejegyzése, valamint az engedélyből történő törlése, kérelmenként | 2400 |
 
-2. számú melléklet az 50/2004. (VIII. 31.) BM rendelethez[^19]
+2. számú melléklet az 50/2004. (VIII. 31.) BM rendelethez[^21]
 
 |  | A | B |
 
@@ -66,44 +64,63 @@
 
 | 2. | Budapesti Rendőr-főkapitányság | 10023002-01451430-00000000 |
 
-| 3. | Baranya Megyei Rendőr-főkapitányság | 10024003-01451485-00000000 |
+| 3. | Baranya Vármegyei Rendőr-főkapitányság[^22] | 10024003-01451485-00000000 |
 
-| 4. | Bács-Kiskun Megyei Rendőr-főkapitányság | 10025004-01451492-00000000 |
+| 4. | Bács-Kiskun Vármegyei Rendőr-főkapitányság[^23] | 10025004-01451492-00000000 |
 
-| 5. | Békés Megyei Rendőr-főkapitányság | 10026005-01451502-00000000 |
+| 5. | Békés Vármegyei Rendőr-főkapitányság[^24] | 10026005-01451502-00000000 |
 
-| 6. | Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság | 10027006-01451519-00000000 |
+| 6. | Borsod-Abaúj-Zemplén Vármegyei Rendőr-főkapitányság[^25] | 10027006-01451519-00000000 |
 
-| 7. | Csongrád-Csanád Megyei Rendőr-főkapitányság | 10028007-01451526-00000000 |
+| 7. | Csongrád-Csanád Vármegyei Rendőr-főkapitányság[^26] | 10028007-01451526-00000000 |
 
-| 8. | Fejér Megyei Rendőr-főkapitányság | 10029008-01451533-00000000 |
+| 8. | Fejér Vármegyei Rendőr-főkapitányság[^27] | 10029008-01451533-00000000 |
 
-| 9. | Győr-Moson-Sopron Megyei Rendőr-főkapitányság | 10033001-01451540-00000000 |
+| 9. | Győr-Moson-Sopron Vármegyei Rendőr-főkapitányság[^28] | 10033001-01451540-00000000 |
 
-| 10. | Hajdú-Bihar Megyei Rendőr-főkapitányság | 10034002-01451557-00000000 |
+| 10. | Hajdú-Bihar Vármegyei Rendőr-főkapitányság[^29] | 10034002-01451557-00000000 |
 
-| 11. | Heves Megyei Rendőr-főkapitányság | 10035003-01451564-00000000 |
+| 11. | Heves Vármegyei Rendőr-főkapitányság[^30] | 10035003-01451564-00000000 |
 
-| 12. | Jász-Nagykun-Szolnok Megyei Rendőr-főkapitányság | 10045002-01451612-00000000 |
+| 12. | Jász-Nagykun-Szolnok Vármegyei Rendőr-főkapitányság[^31] | 10045002-01451612-00000000 |
 
-| 13. | Komárom-Esztergom Megyei Rendőr-főkapitányság | 10036004-01451571-00000000 |
+| 13. | Komárom-Esztergom Vármegyei Rendőr-főkapitányság[^32] | 10036004-01451571-00000000 |
 
-| 14. | Nógrád Megyei Rendőr-főkapitányság | 10037005-01451588-00000000 |
+| 14. | Nógrád Vármegyei Rendőr-főkapitányság[^33] | 10037005-01451588-00000000 |
 
-| 15. | Pest Megyei Rendőr-főkapitányság | 10023002-01451478-00000000 |
+| 15. | Pest Vármegyei Rendőr-főkapitányság[^34] | 10023002-01451478-00000000 |
 
-| 16. | Somogy Megyei Rendőr-főkapitányság | 10039007-01451595-00000000 |
+| 16. | Somogy Vármegyei Rendőr-főkapitányság[^35] | 10039007-01451595-00000000 |
 
-| 17. | Szabolcs-Szatmár-Bereg Megyei Rendőr-főkapitányság | 10044001-01451605-00000000 |
+| 17. | Szabolcs-Szatmár-Bereg Vármegyei Rendőr-főkapitányság[^36] | 10044001-01451605-00000000 |
 
-| 18. | Tolna Megyei Rendőr-főkapitányság | 10046003-01451629-00000000 |
+| 18. | Tolna Vármegyei Rendőr-főkapitányság[^37] | 10046003-01451629-00000000 |
 
-| 19. | Vas Megyei Rendőr-főkapitányság | 10047004-01451636-00000000 |
+| 19. | Vas Vármegyei Rendőr-főkapitányság[^38] | 10047004-01451636-00000000 |
 
-| 20. | Veszprém Megyei Rendőr-főkapitányság | 10048005-01451643-00000000 |
+| 20. | Veszprém Vármegyei Rendőr-főkapitányság[^39] | 10048005-01451643-00000000 |
 
-| 21. | Zala Megyei Rendőr-főkapitányság | 10049006-01451650-00000000 |
+| 21. | Zala Vármegyei Rendőr-főkapitányság[^40] | 10049006-01451650-00000000 |
 
 | 22. | Országos Rendőr-főkapitányság | 10023002-01451715-00000000 |
 
-[^19]: A 2. számú melléklet a 32/2016. (VII. 20.) BM rendelet 3. § b) pontjával megállapított, a 39/2020. (XI. 4.) BM rendelet 1. §-a szerint módosított szöveg.
+[^21]: A 2. számú melléklet a 32/2016. (VII. 20.) BM rendelet 3. § b) pontjával megállapított, a 39/2020. (XI. 4.) BM rendelet 1. §-a szerint módosított szöveg.
+[^22]: A 2. mellékletben foglalt táblázat A:3 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^23]: A 2. mellékletben foglalt táblázat A:4 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^24]: A 2. mellékletben foglalt táblázat A:5 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^25]: A 2. mellékletben foglalt táblázat A:6 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^26]: A 2. mellékletben foglalt táblázat A:7 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^27]: A 2. mellékletben foglalt táblázat A:8 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^28]: A 2. mellékletben foglalt táblázat A:9 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^29]: A 2. mellékletben foglalt táblázat A:10 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^30]: A 2. mellékletben foglalt táblázat A:11 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^31]: A 2. mellékletben foglalt táblázat A:12 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^32]: A 2. mellékletben foglalt táblázat A:13 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^33]: A 2. mellékletben foglalt táblázat A:14 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^34]: A 2. mellékletben foglalt táblázat A:15 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^35]: A 2. mellékletben foglalt táblázat A:16 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^36]: A 2. mellékletben foglalt táblázat A:17 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^37]: A 2. mellékletben foglalt táblázat A:18 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^38]: A 2. mellékletben foglalt táblázat A:19 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^39]: A 2. mellékletben foglalt táblázat A:20 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
+[^40]: A 2. mellékletben foglalt táblázat A:21 mezője a 48/2022. (XII. 27.) BM rendelet 2. § b) pontja szerint módosított szöveg.
