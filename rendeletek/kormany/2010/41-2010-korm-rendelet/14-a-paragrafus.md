@@ -18,7 +18,7 @@ c) nagytestű ebnél 9 méternél,
 
 d) futólánc esetén a feszített és a futó részek hosszának összege 8 méternél, a futó rész hossza 3 méternél
 
-## rövidebb nem lehet.
+rövidebb nem lehet.
 
 (3) A (2) bekezdés szerinti, átmeneti megkötéshez alkalmazott nyakörvnek forgóval ellátottnak kell lennie, és az az eb életfunkciót, táplálkozását nem nehezítheti el, az az állat számára fájdalmat nem okozhat.
 

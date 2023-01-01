@@ -52,7 +52,7 @@ bc) a galambfajok (Columbiformes spp.) és
 
 bd) a pintyfajok (Fringillidae, Ploceidae, Viduidae, Estrildidae, Passerellidae, Thraupidae, Cardinalidae spp.)
 
-## esetében.
+esetében.
 
 (8)[^37] A csoportosan tartott állatok esetében – hacsak az adott fajra vonatkozó tudományosan elfogadott ismeretekből más nem következik – a tartási helyet úgy kell kialakítani, hogy mindegyik egyed versengés és agresszió nélkül egy időben hozzáférjen az etető-, itató-, fürdő-, pihenő-, és búvóhelyhez.
 

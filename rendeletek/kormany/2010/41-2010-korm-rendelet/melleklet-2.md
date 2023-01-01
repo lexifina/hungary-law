@@ -48,7 +48,7 @@
 
 2. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^117]
 
-## A 9. § (2) bekezdése szerinti írásos dokumentumok
+A 9. § (2) bekezdése szerinti írásos dokumentumok
 
 1. A kötelező immunizálásra vonatkozó adatok és dokumentumok.
 

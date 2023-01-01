@@ -1,5 +1,3 @@
-## Eb által okozott sérülés jogkövetkezményei
-
 |  | A | B | C | D | E | F | G |
 
 | 1 | Az eb által okozott sérülés | Alkalmazható jogkövetkezmények |

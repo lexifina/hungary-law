@@ -64,6 +64,8 @@
 
 ## D. Fél vízi kétéltűek
 
+## 2K11727M_4
+
 |  | Állat hossza – farkos kétéltűek cm | Állat hossza – farkatlan kétéltűek cm | Minimális terület1 m2 | Egy állatra jutó minimális terület csoportos tartásnál m2 | Minimális magasság m | Minimális vízmélység m |
 
 | 1. | 10-ig | 5-ig | 0,15 | 0,015 | 0,3 | 0,1 |
@@ -209,5 +211,7 @@
 | 0,5 | 0,25 | 0,5 | 1 |
 
 4. számú melléklet a 41/2010. (II. 26.) Korm. rendelethez[^119]
+
+Eb által okozott sérülés jogkövetkezményei
 
 [^119]: A 4. számú mellékletet a 115/2012. (VI. 11.) Korm. rendelet 9. § (3) bekezdése iktatta be, szövege a 713/2020. (XII. 30.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
