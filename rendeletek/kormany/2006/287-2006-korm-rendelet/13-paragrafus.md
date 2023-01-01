@@ -34,13 +34,17 @@
 
 (16)[^38] Ha a beteg nem jelenik meg a számára megadott napon az ellátás igénybevétele céljából a szolgáltatónál, és ezt előzetesen nem jelezte a (14) bekezdésben foglaltak szerint, valamint a (12) bekezdésben meghatározott eset sem áll fenn, az intézményi várólista vezetéséért felelős személy leveszi az elmaradt ellátás időpontjától számított 3. napot követő napon az intézményi várólistáról, és a levételről egyidejűleg tájékoztatja a beteget. A tájékoztató tartalmazza az igazolási kérelem benyújtására való felhívást is. Ha a beteg az elmaradt ellátás időpontjától számított 3 napon belül bemutatja az egészségügyi szolgáltató felé a meg nem jelenés okát egyértelműen alátámasztó igazolást, akkor 7 napon belül új időpontot jelöl ki számára. Ha a műtéti indikáció továbbra is fennáll, kezelőorvosa ismételten az intézményi előjegyzési, illetve várólistára veheti. Annak a betegnek az adatait, akinek az egészségi állapotában olyan változás áll be, amely az adott beavatkozás elvégzését véglegesen lehetetlenné vagy orvosszakmai szempontból indokolatlanná teszi, törölni kell a várólistáról.
 
-(17) Az intézményi várólistákkal kapcsolatos, az (1)–(16) bekezdésben foglalt nyilvántartási és adatkezelési feladatok ellátása az országos várólista nyilvántartást vezető szerv által működetett központi informatikai rendszeren keresztül, online módon történik.
+(16a)[^39] Ha az intézményi várólistán lévő beteg az egészségügyi ellátást azért nem vette igénybe, mert az Ebtv. 19. § (3) bekezdése szerint másik orvost igényelt, akkor az intézményi várólistáról való törlés mellett intézkedni kell a beteg intézményi előjegyzési listára történő vételéről. Azon betegeket, akik azért nem részesültek egészségügyi ellátásban, mert az Ebtv. 19. § (3) bekezdése szerint másik orvost igényeltek, az intézményi előjegyzési listán kell nyilvántartani.
 
-(18)[^39] Az intézményi előjegyzési lista tekintetében a 12/B. §-t, az (1a)–(11) és a (17) bekezdést, a 13/B. § (2) bekezdését, a 13/C. §-t, a 13/D. § (2) bekezdését és a 13/E. §-t alkalmazni kell.
+(17)[^40] Az intézményi várólistákkal kapcsolatos, az (1)–(16a) bekezdésben foglalt nyilvántartási és adatkezelési feladatok ellátása az országos várólista nyilvántartást vezető szerv által működetett központi informatikai rendszeren keresztül, online módon történik.
+
+(18)[^41] Az intézményi előjegyzési lista tekintetében a 12/B. §-t, az (1a)–(11) és a (17) bekezdést, a 13/B. § (2) bekezdését, a 13/C. §-t, a 13/D. § (2) bekezdését és a 13/E. §-t alkalmazni kell.
 
 [^34]: A 13. § a 92/2012. (IV. 27.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^35]: A 13. § (1a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 45. §-a iktatta be.
 [^36]: A 13. § (10a) bekezdését a 137/2012. (VI. 29.) Korm. rendelet 35. §-a iktatta be.
 [^37]: A 13. § (14) bekezdése a 287/2018. (XII. 21.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
 [^38]: A 13. § (16) bekezdése a 91/2022. (III. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^39]: A 13. § (18) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 43. § (2) bekezdése iktatta be.
+[^39]: A 13. § (16a) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 17. §-a iktatta be.
+[^40]: A 13. § (17) bekezdése a 630/2022. (XII. 30.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^41]: A 13. § (18) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 43. § (2) bekezdése iktatta be.

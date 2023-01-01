@@ -1,116 +1,119 @@
 ## A) A Regionális Vesetranszplantációs Bizottságok működésének központjai
 
-## 1. Semmelweis Egyetem Általános Orvostudományi Kar Transzplantációs és Sebészeti Klinika (1082 Budapest, Baross u. 23–25.)
+## 1.[^71] Semmelweis Egyetem Általános Orvostudományi Kar Transzplantációs és Sebészeti Klinika (1082 Budapest, Baross u. 23–25.)
 
 ## Illetékességi terület:
 
 ## Budapest,
 
-## Fejér megye,
+## Fejér vármegye,
 
-## Győr-Moson-Sopron megye,
+## Győr-Moson-Sopron vármegye,
 
-## Heves megye,
+## Heves vármegye,
 
-## Komárom-Esztergom megye,
+## Komárom-Esztergom vármegye,
 
-## Nógrád megye,
+## Nógrád vármegye,
 
-## Pest megye,
+## Pest vármegye,
 
-## Vas megye,
+## Vas vármegye,
 
-## Veszprém megye.
+## Veszprém vármegye.
 
-## 2.[^68] Szegedi Tudományegyetem Orvos- és Gyógyszerésztudományi Centrum Sebészeti Klinika (6720 Szeged, Pécsi u. 4.)
-
-## Illetékességi terület:
-
-## Bács-Kiskun megye,
-
-## Békés megye,
-
-## Csongrád-Csanád megye,
-
-## Jász-Nagykun-Szolnok megye.
-
-## 3. Pécsi Tudományegyetem Egészségügyi Centrum Sebészeti Klinika (7624 Pécs, Ifjúság út 13.)
+## 2.[^72] Szegedi Tudományegyetem Orvos- és Gyógyszerésztudományi Centrum Sebészeti Klinika (6720 Szeged, Pécsi u. 4.)
 
 ## Illetékességi terület:
 
-## Baranya megye,
+## Bács-Kiskun vármegye,
 
-## Somogy megye,
+## Békés vármegye,
 
-## Tolna megye,
+## Csongrád-Csanád vármegye,
 
-## Zala megye.
+## Jász-Nagykun-Szolnok vármegye.
 
-## 4.[^69] Debreceni Egyetem Klinikai Központ Sebészeti Klinika (4012 Debrecen, Nagyerdei körút 98.)
+## 3. [^73]Pécsi Tudományegyetem Egészségügyi Centrum Sebészeti Klinika (7624 Pécs, Ifjúság út 13.)
 
 ## Illetékességi terület:
 
-## Borsod-Abaúj-Zemplén megye,
+## Baranya vármegye,
 
-## Hajdú-Bihar megye,
+## Somogy vármegye,
 
-## Szabolcs-Szatmár-Bereg megye.
+## Tolna vármegye,
+
+## Zala vármegye.
+
+## 4.[^74] Debreceni Egyetem Klinikai Központ Sebészeti Klinika (4012 Debrecen, Nagyerdei körút 98.)
+
+## Illetékességi terület:
+
+## Borsod-Abaúj-Zemplén vármegye,
+
+## Hajdú-Bihar vármegye,
+
+## Szabolcs-Szatmár-Bereg vármegye.
 
 ## B) A Regionális Vese-
 
 ## és Hasnyálmirigy-transzplantációs Bizottságok működésének központjai
 
-## 1. Semmelweis Egyetem Általános Orvostudományi Kar Transzplantációs és Sebészeti Klinika (1082 Budapest, Baross u. 23–25.)
+## 1.[^75] Semmelweis Egyetem Általános Orvostudományi Kar Transzplantációs és Sebészeti Klinika (1082 Budapest, Baross u. 23–25.)
 
 ## Illetékességi terület:
 
 ## Budapest,
 
-## Borsod-Abaúj-Zemplén megye,
+## Borsod-Abaúj-Zemplén vármegye,
 
-## Fejér megye,
+## Fejér vármegye,
 
-## Győr-Moson-Sopron megye,
+## Győr-Moson-Sopron vármegye,
 
-## Hajdú-Bihar megye,
+## Hajdú-Bihar vármegye,
 
-## Heves megye,
+## Heves vármegye,
 
-## Komárom-Esztergom megye,
+## Komárom-Esztergom vármegye,
 
-## Nógrád megye,
+## Nógrád vármegye,
 
-## Pest megye,
+## Pest vármegye,
 
-## Szabolcs-Szatmár-Bereg megye,
+## Szabolcs-Szatmár-Bereg vármegye,
 
-## Vas megye,
+## Vas vármegye,
 
-## Veszprém megye.
+## Veszprém vármegye.
 
-## 2.[^70] Pécsi Tudományegyetem Egészségügyi Centrum Sebészeti Klinika (7624 Pécs, Ifjúság út 13.)
+## 2.[^76] Pécsi Tudományegyetem Egészségügyi Centrum Sebészeti Klinika (7624 Pécs, Ifjúság út 13.)
 
 ## Illetékességi terület:
 
-## Baranya megye,
+## Baranya vármegye,
 
-## Bács-Kiskun megye,
+## Bács-Kiskun vármegye,
 
-## Békés megye,
+## Békés vármegye,
 
-## Csongrád-Csanád megye,
+## Csongrád-Csanád vármegye,
 
-## Jász-Nagykun-Szolnok megye,
+## Jász-Nagykun-Szolnok vármegye,
 
-## Somogy megye,
+## Somogy vármegye,
 
-## Tolna megye,
+## Tolna vármegye,
 
-## Zala megye.
+## Zala vármegye.
 
-4. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^71]
+4. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^77]
 
-[^68]: A 3. számú melléklet A) alcím 2. pontja a 371/2020. (VII. 30.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^69]: A 3. számú melléklet A) rész 4. pontja a 172/2016. (VII. 1.) Korm. rendelet 28. §-a szerint módosított szöveg.
-[^70]: A 3. számú melléklet B) alcím 2. pontja a 371/2020. (VII. 30.) Korm. rendelet 8. §-a szerint módosított szöveg.
-[^71]: A 4. számú melléklet a 204/2016. (VII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^71]: A 3. melléklet A) alcím 1. pontja a 616/2022. (XII. 29.) Korm. rendelet 68. §-a szerint módosított szöveg.
+[^72]: A 3. számú melléklet A) alcím 2. pontja a 371/2020. (VII. 30.) Korm. rendelet 8. §-a a 68. §-a, a a 616/2022. (XII. 29.) Korm. rendelet 68. §-a szerint módosított szöveg.
+[^73]: A 3. melléklet A) alcím 3. pontja a 616/2022. (XII. 29.) Korm. rendelet 68. §-a szerint módosított szöveg.
+[^74]: A 3. számú melléklet A) rész 4. pontja a 172/2016. (VII. 1.) Korm. rendelet 28. §-a, a 616/2022. (XII. 29.) Korm. rendelet 68. §-a szerint módosított szöveg.
+[^75]: A 3. melléklet B) alcím 1. pontja a 616/2022. (XII. 29.) Korm. rendelet 68. §-a szerint módosított szöveg.
+[^76]: A 3. számú melléklet B) alcím 2. pontja a 371/2020. (VII. 30.) Korm. rendelet 8. §-a, a 616/2022. (XII. 29.) Korm. rendelet 68. §-a szerint módosított szöveg.
+[^77]: A 4. számú melléklet a 204/2016. (VII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
