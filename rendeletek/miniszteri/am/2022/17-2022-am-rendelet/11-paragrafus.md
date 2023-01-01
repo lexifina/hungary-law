@@ -14,10 +14,14 @@ d) a vadmadarakból történő laboratóriumi mintavételenként az 5,75 euróna
 
 megfelelő forintösszeget.
 
-(4) A pénzügyi hozzájárulás igénybevételére a megyei kormányhivatal jogosult a hatósági vagy a feladattal megbízott szolgáltató állatorvos tenyésztett baromfiból való mintavétel során keletkezett költségeinek megtérítéséhez a 2021-es végrehajtási időszakra 15 603,12 eurónak, a 2022-es végrehajtási időszakra 15 345,72 eurónak megfelelő forint keretösszegig.
+(4)[^23] A pénzügyi hozzájárulás igénybevételére a vármegyei kormányhivatal jogosult a hatósági vagy a feladattal megbízott szolgáltató állatorvos tenyésztett baromfiból való mintavétel során keletkezett költségeinek megtérítéséhez a 2021-es végrehajtási időszakra 15 603,12 eurónak, a 2022-es végrehajtási időszakra 15 345,72 eurónak megfelelő forint keretösszegig.
 
 (5) A (4) bekezdés szerinti pénzügyi hozzájárulás mértéke az igazolt költségek 100%-a, de a maximális átalányösszeg nem haladhatja meg tenyésztett baromfiból történő mintavétel esetén mintánként az 1,56 eurónak megfelelő forintösszeget.
 
-(6) Költségként a tenyésztett baromfiból levett mintáknak a hatóság részére történő átadásáért fizetett költség akkor számolható el, ha a feladattal megbízott szolgáltató állatorvos a megyei kormányhivatalnak benyújtja a mintavétellel kapcsolatos költségeket igazoló pénzügyi bizonylatok másolatát.
+(6)[^24] Költségként a tenyésztett baromfiból levett mintáknak a hatóság részére történő átadásáért fizetett költség akkor számolható el, ha a feladattal megbízott szolgáltató állatorvos a vármegyei kormányhivatalnak benyújtja a mintavétellel kapcsolatos költségeket igazoló pénzügyi bizonylatok másolatát.
 
-(7) A megyei kormányhivatal a (4) bekezdés szerinti pénzügyi hozzájárulás számlájára történt jóváírását követően haladéktalanul intézkedik annak azon mintavevő fizetési számlájára történő átutalásáról, aki vagy amely esetében a NÉBIH vizsgálatra alkalmasnak minősítette a levett mintákat, valamint a mintavevő benyújtotta az adott naptári félévre vonatkozóan egy alkalommal, 2022 első félévére vonatkozóan 2022. július 30-ig, 2022 második félévére vonatkozóan 2023. január 15-ig a mintavétel költségeit igazoló számlák másolati példányát a megyei kormányhivatalnak. A szolgáltató állatorvosnak a számlákhoz csatolnia kell a NÉBIH által kiadott éves madárinfluenza monitoring programban előírt, a mintavevő által aláírt mintaazonosító lapok másolati példányát.
+(7)[^25] A vármegyei kormányhivatal a (4) bekezdés szerinti pénzügyi hozzájárulás számlájára történt jóváírását követően haladéktalanul intézkedik annak azon mintavevő fizetési számlájára történő átutalásáról, aki vagy amely esetében a NÉBIH vizsgálatra alkalmasnak minősítette a levett mintákat, valamint a mintavevő benyújtotta az adott naptári félévre vonatkozóan egy alkalommal, 2022 első félévére vonatkozóan 2022. július 30-ig, 2022 második félévére vonatkozóan 2023. január 15-ig a mintavétel költségeit igazoló számlák másolati példányát a vármegyei kormányhivatalnak. A szolgáltató állatorvosnak a számlákhoz csatolnia kell a NÉBIH által kiadott éves madárinfluenza monitoring programban előírt, a mintavevő által aláírt mintaazonosító lapok másolati példányát.
+
+[^23]: A 11. § (4) bekezdése a 157/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^24]: A 11. § (6) bekezdése a 157/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^25]: A 11. § (7) bekezdése a 157/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.

@@ -28,13 +28,13 @@ megfelelő forintösszeget.
 
 (4) A pénzügyi hozzájárulás igénybevételére
 
-a) a megyei kormányhivatal jogosult az állattartónak a megyei kormányhivatal által, a fertőzött tojó- vagy tenyészállomány felszámolása érdekében elrendelt állatleölés (leöletés) vagy elkülönített vágás, tojásártalmatlanítás vagy nem keltetett tenyésztojás hőkezelése következtében keletkezett kára enyhítéséhez,
+a)[^9] a vármegyei kormányhivatal jogosult az állattartónak a vármegyei kormányhivatal által, a fertőzött tojó- vagy tenyészállomány felszámolása érdekében elrendelt állatleölés (leöletés) vagy elkülönített vágás, tojásártalmatlanítás vagy nem keltetett tenyésztojás hőkezelése következtében keletkezett kára enyhítéséhez,
 
-b) a megyei kormányhivatal jogosult az állattartónak a tenyész- és tojóállományokban történő, a hatóság által jóváhagyott járványügyi intézkedési terve szerinti immunizáláshoz szükséges oltóanyagok beszerzési költségeinek állatonként maximálisan három vakcina költségének megtérítéséhez,
+b)[^10] a vármegyei kormányhivatal jogosult az állattartónak a tenyész- és tojóállományokban történő, a hatóság által jóváhagyott járványügyi intézkedési terve szerinti immunizáláshoz szükséges oltóanyagok beszerzési költségeinek állatonként maximálisan három vakcina költségének megtérítéséhez,
 
-c) a megyei kormányhivatal és a NÉBIH jogosult a baromfiállományból való hatósági mintavételhez összesen együttesen a 2021-es végrehajtási időszakra 3 776 837,30 eurónak, a 2022-es végrehajtási időszakra 3 808 709,30 eurónak megfelelő forint keretösszegig.
+c)[^11] a vármegyei kormányhivatal és a NÉBIH jogosult a baromfiállományból való hatósági mintavételhez összesen együttesen a 2021-es végrehajtási időszakra 3 776 837,30 eurónak, a 2022-es végrehajtási időszakra 3 808 709,30 eurónak megfelelő forint keretösszegig.
 
-(5) A megyei kormányhivatal a (4) bekezdés a) és b) pontja szerinti esetben a pénzügyi hozzájárulás számlájára történt átutalását követően haladéktalanul intézkedik annak azon állattartó fizetési számlájára történő továbbításáról, aki vagy amely a (6) bekezdés szerinti adattartalmú – a NÉBIH honlapján közzétett nyomtatványon benyújtandó – kérelmet az adott naptári hónapra vonatkozóan egy alkalommal, a tárgyhónapot követő hónap 15. napjáig, 2022. január–július hónapokra vonatkozóan – együttesen – 2022. augusztus 15-ig benyújtotta a telephelye szerint illetékes megyei kormányhivatalhoz, és
+(5)[^12] A vármegyei kormányhivatal a (4) bekezdés a) és b) pontja szerinti esetben a pénzügyi hozzájárulás számlájára történt átutalását követően haladéktalanul intézkedik annak azon állattartó fizetési számlájára történő továbbításáról, aki vagy amely a (6) bekezdés szerinti adattartalmú – a NÉBIH honlapján közzétett nyomtatványon benyújtandó – kérelmet az adott naptári hónapra vonatkozóan egy alkalommal, a tárgyhónapot követő hónap 15. napjáig, 2022. január–július hónapokra vonatkozóan – együttesen – 2022. augusztus 15-ig benyújtotta a telephelye szerint illetékes vármegyei kormányhivatalhoz, és
 
 a) eleget tett
 
@@ -68,17 +68,17 @@ c) nyilatkozat az (5) bekezdés a) és b) pontjában foglaltakról.
 
 (7) A költségtérítés iránti kérelemhez az alábbi dokumentumokat kell csatolni:
 
-a) a vágóhíd telephelye szerint illetékes megyei kormányhivatal igazolása az állomány felszámolása vagy elkülönített vágása esetén arról, hogy a szalmonellózissal fertőzött állományból hány darab állatot és mikor vágtak le (Baromfi Információs Rendszer szállítólevél kódja),
+a)[^13] a vágóhíd telephelye szerint illetékes vármegyei kormányhivatal igazolása az állomány felszámolása vagy elkülönített vágása esetén arról, hogy a szalmonellózissal fertőzött állományból hány darab állatot és mikor vágtak le (Baromfi Információs Rendszer szállítólevél kódja),
 
-b) a tojások ártalmatlanítását végző üzem telephelye szerint illetékes megyei kormányhivatal igazolása arról, hogy a szalmonellózissal fertőzött állományból hány darab tojást ártalmatlanítottak vagy hőkezeltek.
+b)[^14] a tojások ártalmatlanítását végző üzem telephelye szerint illetékes vármegyei kormányhivatal igazolása arról, hogy a szalmonellózissal fertőzött állományból hány darab tojást ártalmatlanítottak vagy hőkezeltek.
 
 (8) Az állattartónak a levágott vagy leselejtezett állatok után járó összeg nem haladhatja meg az állatnak a levágás vagy leselejtezés időpontját közvetlenül megelőző piaci értékét. Az összegből le kell vonni a levágott állatok maradványértékét. Az állattartónak az ártalmatlanított vagy hőkezelt tojások után járó összeg nem haladhatja meg a tojásoknak az ártalmatlanítás vagy a nem keltetett tojásoknak a hőkezelés időpontját közvetlenül megelőző piaci értékét. Az összegből le kell vonni a hőkezelt, nem keltetett tojások maradványértékét.
 
-(9) A megyei kormányhivatal a (4) bekezdés a) és b) pontja szerinti pénzügyi hozzájárulást olyan állattartónak történő kifizetésre tekintettel igényelheti, akire vagy amelyre vonatkozóan az (5) és (8) bekezdés alapján a kárenyhítés vagy a költségtérítés összegét a (11) bekezdésben foglaltakra tekintettel megállapította.
+(9)[^15] A vármegyei kormányhivatal a (4) bekezdés a) és b) pontja szerinti pénzügyi hozzájárulást olyan állattartónak történő kifizetésre tekintettel igényelheti, akire vagy amelyre vonatkozóan az (5) és (8) bekezdés alapján a kárenyhítés vagy a költségtérítés összegét a (11) bekezdésben foglaltakra tekintettel megállapította.
 
 (10) A (4) bekezdés c) pontjában foglalt hatósági mintavétel esetén a pénzügyi hozzájárulás igénybevételére
 
-a) a megyei kormányhivatal jogosult, ha a mintavételt hatósági állatorvos végzi,
+a)[^16] a vármegyei kormányhivatal jogosult, ha a mintavételt hatósági állatorvos végzi,
 
 b) a NÉBIH jogosult, ha a mintát az arra jogosult állatorvos veszi, aki a NÉBIH részére számlát állít ki a mintavétel költségéről.
 
@@ -110,6 +110,17 @@ b) a (11) bekezdés g) pontja tekintetében az oltóanyag felhasználásának id
 
 c) a (11) bekezdés h) pontja tekintetében a mintavétel időpontja.
 
-(13) Ha a pénzügyi hozzájárulás igénybevételére vonatkozó feltételek teljesítésének helyszíni ellenőrzése során az állattartónál a NÉBIH vagy a megyei kormányhivatal a pénzügyi hozzájárulás kifizetését követően megállapítja, hogy az állattartó a feltételeket nem teljesítette, akkor az állattartó részére a végrehajtási időszakban az adott célterületre vonatkozóan kifizetett támogatási összeg jogosulatlanul igénybe vett támogatásnak minősül.
+(13)[^17] Ha a pénzügyi hozzájárulás igénybevételére vonatkozó feltételek teljesítésének helyszíni ellenőrzése során az állattartónál a NÉBIH vagy a vármegyei kormányhivatal a pénzügyi hozzájárulás kifizetését követően megállapítja, hogy az állattartó a feltételeket nem teljesítette, akkor az állattartó részére a végrehajtási időszakban az adott célterületre vonatkozóan kifizetett támogatási összeg jogosulatlanul igénybe vett támogatásnak minősül.
 
-(14) Ha az e rendelet alapján történt kifizetések ellenőrzése során az ellenőrzésre jogosult szerv megállapítja, hogy az állattartó nem az (5) bekezdés e) pontjának megfelelően küldte meg a jogosultságot igazoló dokumentumokat a megyei kormányhivatalnak, az állattartót kötelezi a jogosulatlanul igénybe vett összeg megyei kormányhivatal részére történő visszatérítésére, a megyei kormányhivatal ezt követően haladéktalanul intézkedik az összeg Kincstár részére történő visszautalásáról.
+(14)[^18] Ha az e rendelet alapján történt kifizetések ellenőrzése során az ellenőrzésre jogosult szerv megállapítja, hogy az állattartó nem az (5) bekezdés e) pontjának megfelelően küldte meg a jogosultságot igazoló dokumentumokat a vármegyei kormányhivatalnak, az állattartót kötelezi a jogosulatlanul igénybe vett összeg vármegyei kormányhivatal részére történő visszatérítésére, a vármegyei kormányhivatal ezt követően haladéktalanul intézkedik az összeg Kincstár részére történő visszautalásáról.
+
+[^9]: A 8. § (4) bekezdés a) pontja a 157/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^10]: A 8. § (4) bekezdés b) pontja a 157/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^11]: A 8. § (4) bekezdés c) pontja a 157/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^12]: A 8. § (5) bekezdés nyitó szövegrésze a 157/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^13]: A 8. § (7) bekezdés a) pontja a 157/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^14]: A 8. § (7) bekezdés b) pontja a 157/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^15]: A 8. § (9) bekezdése a 157/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^16]: A 8. § (10) bekezdés a) pontja a 157/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^17]: A 8. § (13) bekezdése a 157/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^18]: A 8. § (14) bekezdése a 157/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-5. § (1) A pénzügyi hozzájárulás iránti kérelmet (a továbbiakban: kérelem) az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal), a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), a 12. § (2) bekezdésében meghatározott alcélterület esetében a Magyar Juh- és Kecsketenyésztő Szövetség (a továbbiakban: MJKSZ) elektronikus úton nyújtja be a Kincstárhoz, a Kincstár által erre a célra rendszeresített – a (2) bekezdésben meghatározott adattartalmú – űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
+5. § (1)[^1] A pénzügyi hozzájárulás iránti kérelmet (a továbbiakban: kérelem) az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal), a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), a 12. § (2) bekezdésében meghatározott alcélterület esetében a Magyar Juh- és Kecsketenyésztő Szövetség (a továbbiakban: MJKSZ) elektronikus úton nyújtja be a Kincstárhoz, a Kincstár által erre a célra rendszeresített – a (2) bekezdésben meghatározott adattartalmú – űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
 (2) A kérelem a következő adatokat tartalmazza:
 
@@ -18,9 +18,9 @@ cd) a felmerült költségeket igazoló, pénzügyileg teljesített számlák re
 
 ce) a kérelemben igényelt támogatásra vonatkozó hatályos jogszabályi rendelkezéseket az ügyfél megismerte, és azokat betartja;
 
-d) a megyei kormányhivatal nyilatkozatát arról, hogy
+d)[^2] a vármegyei kormányhivatal nyilatkozatát arról, hogy
 
-da) a „szalmonellózis elleni védekezés – felszámolás miatt keletkezett kár enyhítése”, illetve a „szalmonellózis elleni védekezés – oltóanyagok beszerzési költségei” alcélterületre benyújtott kérelem esetében a megyei kormányhivatal a pénzügyi hozzájárulást kizárólag olyan állattartónak történő kifizetésre tekintettel igényli, akire vagy amelyre vonatkozóan a kárenyhítés, illetve a költségtérítés összegét megállapította,
+da)[^3] a „szalmonellózis elleni védekezés – felszámolás miatt keletkezett kár enyhítése”, illetve a „szalmonellózis elleni védekezés – oltóanyagok beszerzési költségei” alcélterületre benyújtott kérelem esetében a vármegyei kormányhivatal a pénzügyi hozzájárulást kizárólag olyan állattartónak történő kifizetésre tekintettel igényli, akire vagy amelyre vonatkozóan a kárenyhítés, illetve a költségtérítés összegét megállapította,
 
 db) a „szalmonellózis elleni védekezés – oltóanyagok beszerzési költségei” alcélterületre benyújtott kérelem esetében az oltóanyagok beszerzési költsége állatonként legfeljebb három vakcina költségének megtérítésére vonatkozik,
 
@@ -70,6 +70,11 @@ d) a beadvány érkeztetési számát.
 
 (11) Ha az adott célterületre az adott napon beérkezett támogatási igény meghaladja a még rendelkezésre álló keretet, a Kincstár arányos csökkentést végez. Ennek során a Kincstár az adott napon beérkezett összes jogos igény és a felosztható keret arányosításával kapott együttható alkalmazásával állapítja meg a folyósítható pénzügyi hozzájárulás összegét. Az adott célterületre meghatározott keret kimerülését követően beérkezett kérelmeket a Kincstár visszautasítja.
 
-(12) A Kincstár minden hónap utolsó napjáig tájékoztatja az agrárpolitikáért felelős miniszter által vezetett minisztériumot (a továbbiakban: minisztérium) és a NÉBIH-et, valamint elektronikus úton a megyei kormányhivatalokat a megelőző hónapban megállapított pénzügyi hozzájárulás összegéről és a keret kihasználtságáról. A Kincstár haladéktalanul tájékoztatja a minisztériumot a támogatási keret kimerüléséről.
+(12)[^4] A Kincstár minden hónap utolsó napjáig tájékoztatja az agrárpolitikáért felelős miniszter által vezetett minisztériumot (a továbbiakban: minisztérium) és a NÉBIH-et, valamint elektronikus úton a vármegyei kormányhivatalokat a megelőző hónapban megállapított pénzügyi hozzájárulás összegéről és a keret kihasználtságáról. A Kincstár haladéktalanul tájékoztatja a minisztériumot a támogatási keret kimerüléséről.
 
 (13) Az adott célterületre meghatározott keret megemelése esetén a korábban a keret kimerülése miatt meghozott, elutasítást vagy arányos csökkentést tartalmazó döntéseket a keretösszeget módosító miniszteri rendelet hatálybalépését követő tizenöt napon belül a Kincstár hivatalból felülvizsgálja.
+
+[^1]: Az 5. § (1) bekezdése a 157/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: Az 5. § (2) bekezdés d) pont nyitó szövegrésze a 157/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^3]: Az 5. § (2) bekezdés d) pont da) alpontja a 157/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^4]: Az 5. § (12) bekezdése a 157/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
