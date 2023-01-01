@@ -10,6 +10,10 @@ A rendszeres adatszolgáltatási kötelezettség adatkörei, teljesítésének g
 
 | 2. | Műszaki és aggregált fogyasztóvédelmi adatok | Évenkénti | tárgyévet követő év március 20. |
 
-| 3. | Díjelőkészítést megalapozó gazdasági adatok | Évenkénti | tárgyévet követő év június 10. |
+| 3. | Díjelőkészítést megalapozó gazdasági adatok | Évenkénti | tárgyévet követő év június 20. |
 
-[^1]: Az 1. melléklet a 3/2022. (III. 30.) MEKH rendelet 2. §-ával megállapított szöveg.
+| 4. | Ágazati elemzést megalapozó gazdasági adatok | Negyedévenkénti | a tárgyi negyedévet követő hónap 25. napja |
+
+| 5. | Ágazati műszaki alapadatok | Havi | a tárgyhónapot követő második hónap 10. napja |
+
+[^1]: Az 1. melléklet a 17/2022. (XII. 21.) MEKH rendelet 1. §-ával megállapított szöveg.
