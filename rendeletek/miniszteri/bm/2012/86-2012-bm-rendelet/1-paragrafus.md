@@ -6,8 +6,10 @@
 
 a) budapesti székhely esetén az általános rendőrségi feladatok ellátásra létrehozott szerv központi szervétől,
 
-b) egyéb esetben a székhelye szerint illetékes megyei rendőr-főkapitányságtól [az a)–b) pontban meghatározott szervek a továbbiakban együtt: ellátó szerv]
+b)[^1] egyéb esetben a székhelye szerint illetékes vármegyei rendőr-főkapitányságtól [az a)–b) pontban meghatározott szervek a továbbiakban együtt: ellátó szerv]
 
-## igényelheti.
+igényelheti.
 
 (2) Az igénylő szerv az igényelt vegyi eszköz, valamint rendőrbot és bilincs ellenértékét köteles megtéríteni.
+
+[^1]: Az 1. § (1) bekezdés b) pontja a 45/2022. (XII. 20.) BM rendelet 70. §-a szerint módosított szöveg.

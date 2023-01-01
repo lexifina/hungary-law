@@ -1,3 +1,7 @@
 ## 11. § Ez a rendelet 2013. január 1-jén lép hatályba.
 
 ## 7. Módosító rendelkezések
+
+12. §[^2]
+
+[^2]: A 12–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
