@@ -7,3 +7,5 @@ a) a regionális, környezeti, helyi ökológiai feltételekhez természetes mó
 b) a kereskedelmi, növénytermesztési szempontból tényleges értékkel nem rendelkező, csupán bizonyos feltételek melletti termesztésre nemesített zöldségfajtáknak (a továbbiakban: házikerti fajta) a Nemzeti Fajtajegyzékbe történő felvétele, valamint
 
 c) a tájfajták és a házikerti fajták vetőmagjának előállítása és forgalmazása
+
+során kell alkalmazni.

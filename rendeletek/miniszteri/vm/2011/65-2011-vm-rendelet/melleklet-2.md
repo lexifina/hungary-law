@@ -1,5 +1,3 @@
-## A tájfajták vetőmagjának forgalmazására vonatkozó mennyiségi korlátozások
-
 | Növényfaj megnevezése | Zöldségtermelés céljára maximálisan igénybe vehető terület tájfajtánként (ha) |
 
 | Allium cepa L. — Cepa csoport | vöröshagyma | 40 |

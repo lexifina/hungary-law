@@ -6,6 +6,6 @@
 
 (4) A tájfajta vetőmag mintákat homogén tételekből kell venni, valamint alkalmazni kell a Zöldség rendelet 8. számú mellékletének 1. és 2. pontjában előírt mintatömegre és tételtömegre vonatkozó szabályokat.
 
-(5)[^12] Az (1)–(4) bekezdésben foglalt tevékenységeket a növénytermesztési hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) ellenőrzi.
+(5)[^12] Az (1)–(4) bekezdésben foglalt tevékenységeket a növénytermesztési hatáskörben eljáró vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) ellenőrzi.
 
-[^12]: A 13. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 167. § d) pontja, a 46/2020. (IX. 23.) AM rendelet 22. § a) pontja szerint módosított szöveg.
+[^12]: A 13. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 167. § d) pontja, a 46/2020. (IX. 23.) AM rendelet 22. § a) pontja, a 127/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.

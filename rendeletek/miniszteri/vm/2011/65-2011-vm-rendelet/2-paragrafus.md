@@ -1,5 +1,3 @@
-## során kell alkalmazni.
-
 ## 2. § E rendelet alkalmazásában:
 
 a) in situ megőrzés: a fajok és változatok életképes állományainak természetes környezetükben történő fenntartása és helyreállítása, kultúr- vagy haszonnövények esetében pedig az olyan környezetben történő fenntartás, ahol jellegzetes, sajátos tulajdonságaik kialakultak,
