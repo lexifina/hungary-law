@@ -6,7 +6,7 @@
 
 | 3. | örökségvédelmi hatósági engedélyezési és tudomásulvételi eljárások | Budapest Főváros Kormányhivatala |
 
-| 4. | környezetvédelmi hatósági eljárások | Pest Megyei Kormányhivatal |
+| 4. | környezetvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal[^48] |
 
 | 5. | útügyi hatósági eljárások | Budapest Főváros Kormányhivatala |
 
@@ -24,13 +24,13 @@
 
 | 12. | jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 13. | bányahatósági engedélyek | Pest Megyei Kormányhivatal |
+| 13. | bányahatósági engedélyek | Pest Vármegyei Kormányhivatal[^49] |
 
 | 14. | villamospálya átépítésének engedélyezési eljárása | közlekedésért felelős miniszter |
 
 | 15. | üzletek (kávézó) működési engedélye | Belváros-Lipótváros Budapest Főváros V. kerületi Önkormányzat jegyzője |
 
-2. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^48]
+2. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^50]
 
 A Kossuth Lajos téri beruházási programmal összefüggő, kiemelten közérdekű beruházások felsorolása
 
@@ -50,4 +50,6 @@ A Kossuth Lajos téri beruházási programmal összefüggő, kiemelten közérde
 
 | 7. | Kozma Ferenc utca felszíni rendezése | Budapest V. kerület, belterület 24890 helyrajzi számú ingatlan | – | 2021. 07. 01. – 2024. 06. 30. |
 
-[^48]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 49. § g) pontja hatályon kívül helyezte, újonnan a 2/2021. (I. 7.) Korm. rendelet 5. §-a iktatta be.
+[^48]: Az 1. mellékletben foglalt táblázat D:4 mezője az 546/2022. (XII. 22.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
+[^49]: Az 1. mellékletben foglalt táblázat D:13 mezője az 546/2022. (XII. 22.) Korm. rendelet 21. § b) pontja szerint módosított szöveg.
+[^50]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 49. § g) pontja hatályon kívül helyezte, újonnan a 2/2021. (I. 7.) Korm. rendelet 5. §-a iktatta be.
