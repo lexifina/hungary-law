@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-219-20-
 | 2021-07-16 | 2011-219-20-22.18 | 476/2013. (XII. 17.) Korm. rendelet |
 | 2022-01-01 | 2011-219-20-22.19 | 375/2021. (VI. 30.) Korm. rendelet |
 | 2022-11-01 | 2011-219-20-22.20 | 408/2022. (X. 24.) Korm. rendelet |
+| 2023-01-01 | 2011-219-20-22.21 | 74/2012. (IV. 13.) Korm. rendelet |

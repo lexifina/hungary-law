@@ -1,6 +1,6 @@
 23. § (1) A felső küszöbértékű veszélyes anyagokkal foglalkozó üzem üzemeltetője által a hatóságnak megküldött biztonsági jelentés elfogadását követő 6 hónapon belül a 9. mellékletben meghatározott tartalmi és formai követelményeknek megfelelő, végleges és jóváhagyott külső védelmi terv készül.
 
-(2)[^67] A külső védelmi terv elkészítésében a mentőszolgálat, a rendőrség, az illetékes környezetvédelmi, természetvédelmi, valamint népegészségügyi hatáskörében eljáró fővárosi és megyei kormányhivatal, valamint vízügyi hatóság és az üzemeltető részt vesz és véleményt nyilvánít.
+(2)[^67] A külső védelmi terv elkészítésében a mentőszolgálat, a rendőrség, az illetékes környezetvédelmi, természetvédelmi, valamint népegészségügyi hatáskörében eljáró fővárosi és vármegyei kormányhivatal, valamint vízügyi hatóság és az üzemeltető részt vesz és véleményt nyilvánít.
 
 (3)[^68] A polgármester a külső védelmi tervről 21 napra hirdetményt tesz közzé a 10. melléklet 7. pontjában felsoroltaknak megfelelően, amely idő alatt az érintett nyilvánosság ahhoz észrevételeket tehet. A polgármester a külső védelmi tervvel kapcsolatos észrevételeit az érintett nyilvánosságtól hozzá érkezett észrevételekkel együtt a hatóság helyi szervének a hirdetményi közzététel lezárását követő 8 napon belül megküldi. A hatóság helyi szerve az észrevételekkel kapcsolatos véleményét és a figyelembe vett észrevételek alapján átdolgozott külső védelmi tervet megküldi a hatóság területi szervének a hirdetményi közzététel lezárását követő 20 napon belül.
 
@@ -36,7 +36,7 @@ cc) a veszélyeztetett terület által érintett lakosság létszáma számottev
 
 (13)[^74] A Kat. 40. § (5) bekezdése szerinti döntés meghozatalát követően, a súlyos káresemény elhárítási terv készítésére kötelezett üzem vonatkozásában amennyiben az adott településre külső védelmi terv készítése szükséges, a hatóság tájékoztatja erről a polgármestert és a hatóság helyi szervét és egyidejűleg megküldi részükre a védendő adatokat nem tartalmazó súlyos káresemény elhárítási tervet. A külső védelmi terv a hirdetményi közzététel és a közmeghallgatás biztosítása nélkül, az (1) bekezdésben meghatározott határidőben, a 9. mellékletben meghatározott tartalmi és formai követelményeknek megfelelően készül. A külső védelmi terv elkészítésében a (2) bekezdésben felsoroltak vesznek részt és nyilvánítanak véleményt.
 
-[^67]: A 23. § (2) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés e) pontja, az 527/2013. (XII. 30.) Korm. rendelet 104. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 177. § b) pontja szerint módosított szöveg.
+[^67]: A 23. § (2) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés e) pontja, az 527/2013. (XII. 30.) Korm. rendelet 104. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 177. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 126. § a) pontja szerint módosított szöveg.
 [^68]: A 23. § (3) bekezdése a 34/2015. (II. 27.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^69]: A 23. § (4) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés h) pontja szerint módosított szöveg.
 [^70]: A 23. § (5) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
