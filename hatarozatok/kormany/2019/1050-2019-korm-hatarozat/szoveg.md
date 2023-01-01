@@ -4,13 +4,7 @@ A Kormány
 
 2. az 1. pontban meghatározott cél végrehajtása érdekében
 
-a) az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcímének 80. Borsi, Rákóczi-kastély helyreállítása jogcímcsoporttal történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Miniszterelnökséget vezető miniszter
-
-Határidő: 2019. február 28.
+a)[^1]
 
 b) felhívja a pénzügyminisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával gondoskodjon – a kifizetéshez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt mindösszesen – 1 249 859 250 forint forrás biztosításáról a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 80. Borsi, Rákóczi-kastély helyreállítása jogcímcsoport javára, az alábbi megoszlásban:
 
@@ -37,3 +31,5 @@ Felelős: Miniszterelnökséget vezető miniszter
 a miniszterelnök általános helyettese
 
 Határidő: folyamatos
+
+[^1]: A 2. pont a) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
