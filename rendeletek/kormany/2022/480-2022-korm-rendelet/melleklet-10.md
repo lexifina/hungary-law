@@ -1,3 +1,1 @@
-10. melléklet a 480/2022. (XI. 28.) Korm. rendelethez[^55]
-
-[^55]: A 10. melléklet a 23. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+10. melléklet a 480/2022. (XI. 28.) Korm. rendelethez

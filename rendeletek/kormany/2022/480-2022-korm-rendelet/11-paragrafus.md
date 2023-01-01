@@ -2,15 +2,13 @@
 
 1.[^11]
 
-2.[^12]
+2. 1. melléklete a 2. melléklet,
 
-3.[^13]
+3.[^12]
 
-4.[^14]
+4. 5. melléklete a 4. melléklet
 
 szerint módosul.
 
 [^11]: A 11. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 11. § 2. pontja a 23. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^13]: A 11. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 11. § 4. pontja a 23. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^12]: A 11. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

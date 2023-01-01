@@ -1,5 +1,3 @@
 ## 4. A Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet módosítása
 
-21. §[^44]
-
-[^44]: A 21. § a 23. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+21. § A Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet 1. melléklete helyébe a 17. melléklet lép.
