@@ -10,4 +10,6 @@
 
 | Összesen: |  |  | 1 200 000 000 forint | 1 200 000 000 forint |
 
-3. melléklet az 1280/2019. (V. 15.) Korm. határozathoz
+3. melléklet az 1280/2019. (V. 15.) Korm. határozathoz[^2]
+
+[^2]: A 3. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.

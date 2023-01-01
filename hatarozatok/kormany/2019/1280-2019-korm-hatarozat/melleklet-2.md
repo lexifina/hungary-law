@@ -1,4 +1,4 @@
-## A honvédelmi és gazdasági felkészülés központi kiadásaira a 2019. évi költségvetési törvényben jóváhagyott előirányzatok felosztása I.
+## 9K02965_0
 
 | Felelős | Feladat | Részfeladat | Jóváhagyott előirányzat | Költségvetési fejezet összesen |
 
