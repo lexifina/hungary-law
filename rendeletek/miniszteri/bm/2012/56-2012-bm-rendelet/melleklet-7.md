@@ -40,7 +40,7 @@
 
 | 20. | IV. | beosztott tűzoltó |
 
-7. melléklet az 56/2012. (XI. 22.) BM rendelethez[^292]
+7. melléklet az 56/2012. (XI. 22.) BM rendelethez[^293]
 
 A Szolgálati Jel leírása
 
@@ -50,4 +50,4 @@ A Szolgálati Jel leírása
 
 3. A Szolgálati Jel eredeti formában csak dísz- és társasági öltözeten viselhető. A kitüntetést a bal felső zubbonyzseb fölé úgy kell elhelyezni, hogy az alsó széle a zsebtakaró felső varrását érintse. A kitüntetést úgy kell viselni, hogy a zsebtakaró középvonalával egybeessen. A kitűzőváltozat a köznapi, a szolgálati és a megengedett öltözeten is viselhető a fentiek szerint.
 
-[^292]: A 7. mellékletet a 38/2020. (X. 14.) BM rendelet 17. §-a iktatta be.
+[^293]: A 7. mellékletet a 38/2020. (X. 14.) BM rendelet 17. §-a iktatta be.

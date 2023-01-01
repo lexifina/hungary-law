@@ -364,7 +364,7 @@
 
 ## 7.7. Ha a tűzoltás vezetői jogosultság megszerzése a 7.6.1. pont szerint történt, akkor a beosztást betöltő személynek a tűzoltás vezetői jogosultság megszerzésétől számított 5 éven belül meg kell szereznie a legalább középszintű (tűzoltó szerparancsnok) szakmai képesítést. Ha a szakmai képesítés megszerzésére határidőben nem kerül sor, a beosztást betöltő személy a továbbiakban a tűzoltás, műszaki mentés vezetési jogosultsághoz kötött beosztást nem töltheti be.”
 
-3. melléklet az 56/2012. (XI. 22.) BM rendelethez[^285]
+3. melléklet az 56/2012. (XI. 22.) BM rendelethez[^286]
 
 Az Országgyűlési Őrségnél idegennyelv-tudási pótlékra jogosító szolgálati beosztások
 
@@ -380,4 +380,4 @@ Az Országgyűlési Őrségnél idegennyelv-tudási pótlékra jogosító szolg�
 
 6. az Országgyűlési Őrség parancsnoka által meghatározott egyéb szolgálati beosztások, ahol az idegen nyelv használata a szolgálat ellátásához szükséges
 
-[^285]: A 3. melléklet a 9/2018. (IV. 25.) BM rendelet 17. § (3) bekezdésével megállapított szöveg.
+[^286]: A 3. melléklet a 9/2018. (IV. 25.) BM rendelet 17. § (3) bekezdésével megállapított szöveg.
