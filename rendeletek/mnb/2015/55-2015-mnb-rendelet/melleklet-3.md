@@ -1,6 +1,6 @@
 3. melléklet az 55/2015. (XII. 22.) MNB rendelethez[^18]
 
-## A megtakarítási jellegű életbiztosítási termékek TKM értéke számításának módszertana
+A megtakarítási jellegű életbiztosítási termékek TKM értéke számításának módszertana
 
 1. Az ügyfél pénzáramának rekurzív elven történő leírására vonatkozó képlet
 

@@ -1,5 +1,3 @@
-## személyt vesz figyelembe.
-
 10. § (1) A Bit. 153. § (6) bekezdése szerinti közzététel során a biztosító a TKM értékét a termék bevezetésével egy időben tünteti fel az internetes honlapján.
 
 (2) A biztosító a TKM értékét táblázatos formában, termékenként – befektetési egységekhez kötött életbiztosítási termék esetében a 6. § (3) bekezdésnek megfelelően eszközalaponként – mutatja be, 4 tizedesjegy pontossággal, százalékos formában.

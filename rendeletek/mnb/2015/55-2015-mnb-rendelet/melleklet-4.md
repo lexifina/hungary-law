@@ -50,6 +50,8 @@ A TKM értékekre vonatkozó adatszolgáltatás táblái
 
 |  | 46TKMC19999 | Termék |  |  |  |  |  |  |  |  |  |  |  |
 
+6K83056M_3
+
 | 46TKMD |
 
 |  | A hagyományos nyugdíjbiztosítási termékek teljes költségmutatója |

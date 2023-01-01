@@ -10,4 +10,6 @@ a) rendszeres díjas biztosítás esetében a 10, 15, illetve 20 éves tartamokr
 
 b) egyszeri díjas biztosítás esetében az 5, 10, illetve 20 éves tartamokra 60, 55, illetve 45 éves
 
+személyt vesz figyelembe.
+
 [^14]: A 8. § az 53/2016. (XII. 21.) MNB rendelet 8. § d) pontja szerint módosított szöveg.

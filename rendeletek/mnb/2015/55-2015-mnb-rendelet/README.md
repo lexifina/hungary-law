@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-55-20-2
 | 2016-04-01 | 2015-55-20-2C.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-07-01 | 2015-55-20-2C.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-01-01 | 2015-55-20-2C.4 | 53/2016. (XII. 21.) MNB rendelet |
+| 2023-01-01 | 2015-55-20-2C.5 | 55/2022. (XII. 13.) MNB rendelet |

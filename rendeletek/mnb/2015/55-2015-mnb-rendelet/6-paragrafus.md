@@ -12,7 +12,7 @@ e) a nyereségmegosztás során a biztosítónál maradó részt
 
 is.
 
-(2)[^9] A biztosító a befektetési egységekhez kötött életbiztosítás és az egyéni számla alapján meghatározott szolgáltatású hagyományos életbiztosítás esetében a mögöttes alapok (eszközalap, külön kezelt eszközportfólió) után felmerülő költségként a 2009/65/EK európai parlamenti és tanácsi irányelvnek a kiemelt befektetői információk tekintetében, valamint a papírtól eltérő tartós adathordozón vagy weboldalon rendelkezésre bocsátott kiemelt befektetői információk vagy tájékoztató esetében teljesítendő különleges feltételek tekintetében történő végrehajtásáról szóló 2010. július 1-jei 583/2010/EU bizottsági rendelet 10. cikk (2) bekezdés b) pontja szerinti folyó költségeket veszi figyelembe.
+(2)[^9] A biztosító a befektetési egységekhez kötött életbiztosítás és az egyéni számla alapján meghatározott szolgáltatású hagyományos életbiztosítás esetében a mögöttes alapok (eszközalap, külön kezelt eszközportfólió) után felmerülő költségként a lakossági befektetési csomagtermékekkel, illetve biztosítási alapú befektetési termékekkel kapcsolatos kiemelt információkat tartalmazó dokumentumokról szóló 1286/2014/EU európai parlamenti és tanácsi rendeletnek a kiemelt információkat tartalmazó dokumentumok megjelenítése, tartalma, felülvizsgálata és módosítása, valamint az ilyen dokumentumok rendelkezésre bocsátására vonatkozó kötelezettség teljesítése tekintetében meghatározott szabályozástechnikai standardok megállapítása révén történő kiegészítéséről szóló, 2017. március 8-i (EU) 2017/653 felhatalmazáson alapuló bizottsági rendelet VI. melléklet 1. rész 4. és 5. pontja szerinti ismétlődő költségeket veszi figyelembe.
 
 (3) Amennyiben egy befektetési egységekhez kötött életbiztosítási termék esetében a biztosító eszközalap, illetve mögöttes alapkezelési díjai eltérnek a különböző eszközalapok esetében, akkor a biztosító a TKM értékét eszközalaponként külön-külön határozza meg.
 
@@ -24,6 +24,6 @@ is.
 
 (7)[^11] Az eszközalapok összetételének, így költségének folyamatos változása miatt a biztosító a TKM számítása során jogosult biztonsági ráhagyás (ún. puffer) alkalmazására, azaz az (1)–(6) bekezdés szerint számított TKM értéknél magasabb TKM érték meghatározására és publikálására.
 
-[^9]: A 6. § (2) bekezdése az 53/2016. (XII. 21.) MNB rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^9]: A 6. § (2) bekezdése az 55/2022. (XII. 13.) MNB rendelet 2. §-ával megállapított szöveg.
 [^10]: A 6. § (6) bekezdését az 53/2016. (XII. 21.) MNB rendelet 4. § (2) bekezdése iktatta be.
 [^11]: A 6. § (7) bekezdését az 53/2016. (XII. 21.) MNB rendelet 4. § (2) bekezdése iktatta be.
