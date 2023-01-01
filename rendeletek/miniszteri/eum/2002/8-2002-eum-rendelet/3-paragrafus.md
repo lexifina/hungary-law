@@ -4,7 +4,7 @@
 
 (3) A vizsgálati program végrehajtását az országos tisztifőorvos a tárgyévet megelőző év december 31-éig rendeli el.
 
-(4)[^9] A vizsgálati program évközi módosítását az érintett megyei kormányhivatal az NNK részére megküldendő – a költséghatásokra is kiterjedő – előterjesztésben kezdeményezheti. A vizsgálati program módosítását az országos tisztifőorvos – tizenöt napon belül – hagyja jóvá.
+(4)[^9] A vizsgálati program évközi módosítását az érintett vármegyei kormányhivatal az NNK részére megküldendő – a költséghatásokra is kiterjedő – előterjesztésben kezdeményezheti. A vizsgálati program módosítását az országos tisztifőorvos – tizenöt napon belül – hagyja jóvá.
 
 [^8]: A 3. § (2) bekezdése a 44/2009. (XII. 18.) EüM rendelet 17. §-a, a 38/2018. (X. 31.) EMMI rendelet 7. § b) pontja szerint módosított szöveg.
-[^9]: A 3. § (4) bekezdése a 38/2018. (X. 31.) EMMI rendelet 7. § b) pontja szerint módosított szöveg.
+[^9]: A 3. § (4) bekezdése a 38/2018. (X. 31.) EMMI rendelet 7. § b) pontja, a 45/2022. (XII. 20.) BM rendelet 20. § b) pontja szerint módosított szöveg.
