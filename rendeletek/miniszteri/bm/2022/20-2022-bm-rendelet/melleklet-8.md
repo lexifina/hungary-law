@@ -1,141 +1,209 @@
-## 2X05476O_4
+|  | A | B | C | D | E |
+
+| 1. | szerv | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | központi | E | kiemelt főreferens | 400 | 350 |
+
+| 4. | nyomozó tiszt |  | 350 |
+
+| 5. | energetikai és környezetvédelmi vezető |  | 350 |
+
+| 6. | tűzvédelmi vezető |  | 350 |
+
+| 7. | közegészségügyi-járványügyi főfelügyelő | 400 |  |
+
+| 8. | D | főügyeletes | 400 |  |
+
+| 9. | területi | E | alosztályvezető | 350 | 300 |
+
+| 10. | osztályvezető-helyettes | 350 | 300 |
+
+| 11. | szakorvos | 350 |  |
+
+| 12. | vezető főtanár |  | 350 |
+
+| 13. | D | csoportvezető | 350 | 300 |
+
+| 14. | kiemelt főelőadó | 350 | 300 |
+
+| 15. | kiemelt főtanár |  | 350 |
+
+| 16. | szakpszichológus | 350 |  |
+
+| 17. | fegyelmi és nyomozótiszt | 350 |  |
+
+| 18. | biztonsági tiszt | 350 |  |
+
+| 19. | C | pszichológus | 350 |  |
+
+| 20. | főelőadó | 350 | 300 |
+
+| 21. | diplomás ápoló | 350 |  |
+
+| 22. | vezető reintegrációs tiszt | 400* vagy 350 |  |
+
+| 23. | B | előadó | 350 | 300 |
+
+| 24. | reintegrációs tiszt | 400* vagy 350 |  |
+
+| 25. | helyi | E | szakorvos | 350 |  |
+
+| 26. | D | alosztályvezető | 350 |  |
+
+| 27. | osztályvezető-helyettes (gazdasági társaságok) | 350 | 300 |
+
+| 28. | csoportvezető | 350 | 300 |
+
+| 29. | kiemelt főelőadó | 350 | 300 |
+
+| 30. | szakpszichológus | 350 |  |
+
+| 31. | üzemvezető (gazdasági társaságok) | 350 |  |
+
+| 32. | biztonsági tiszt | 350 |  |
+
+| 33. | C | főelőadó | 350 | 300 |
+
+| 34. | főművezető (gazdasági társaságok) | 350 |  |
+
+| 35. | B | előadó | 350 | 300 |
+
+| 36. | reintegrációs tiszt | 400* vagy 350 |  |
+
+## III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D | E |
 
-| 1. |  |  |  | hivatásos pótlék mértéke (%) |
+| 1. | szerv | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 2. | szerv | besorolási kategória | beosztás | alapfeladat | nem alap- feladat |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 3. | központi | E | raktárvezető | 400 |  |
+| 3. | központi | E | műveleti főfelügyelő | 600 |  |
 
-| 4. | E | főfelügyelő (műveleti, készenléti) | 600 |  |
+| 4. | D | referens (kutyakiképző) | 450 | 350 |
 
-| 5. | D | referens | 400 | 350 |
+| 5. | C | segédelőadó | 400 | 350 |
 
-| 6. | C | segédelőadó | 400 | 350 |
+| 6. | kutyavezető | 450 |  |
 
-| 7. | C | felügyelő (körlet) | 500 |  |
+| 7. | körletfelügyelő | 500 |  |
 
-| 8. | területi | E | körlet-főfelügyelő | 500 |  |
+| 8. | B | biztonsági felügyelő | 450 |  |
 
-| 9. | E | főfelügyelő | 450 |  |
+| 9. | területi | E | körlet-főfelügyelő | 500 |  |
 
-| 10. | E | főfelügyelő (műveleti) | 500 |  |
+| 10. | biztonsági főfelügyelő | 450 |  |
 
-| 11. | E | raktárvezető | 350 |  |
+| 11. | műveleti főfelügyelő | 500 |  |
 
-| 12. | E | élelmezésvezető | 350 |  |
+| 12. | raktárvezető | 350 |  |
 
-| 13. | D | kutyatelep-vezető | 400 |  |
+| 13. | élelmezésvezető | 350 |  |
 
-| 14. | D | konyhavezető | 350 |  |
+| 14. | főfelügyelő (vezető-biztonságtechnikus) | 350 |  |
 
-| 15. | D | mosodavezető | 350 |  |
+| 15. | D | kutyatelep-vezető | 450 |  |
 
-| 16. | D | vezető szakasszisztens | 350 |  |
+| 16. | konyhavezető | 350 |  |
 
-| 17. | D | főápoló | 350 |  |
+| 17. | főápoló | 350 |  |
 
-| 18. | D | szakoktató |  | 350 |
+| 18. | szakoktató |  | 350 |
 
-| 19. | D | műhelyvezető | 350 |  |
+| 19. | műhelyvezető | 350 |  |
 
-| 20. | D | kiemelt művezető | 350 |  |
+| 20. | kiemelt művezető (gazdasági társaságok) |  |  |
 
-| 21. | D | biztonságtechnikus | 350 |  |
+| 21. | biztonságtechnikus | 350 |  |
 
 | 22. | C | fegyvermester | 350 |  |
 
-| 23. | C | szállítmányvezető | 350 |  |
+| 23. | raktáros | 350 |  |
 
-| 24. | C | raktáros | 350 |  |
+| 24. | szociális segédelőadó | 400* vagy 350 |  |
 
-| 25. | C | szociális segédelőadó | 400* vagy 350 |  |
+| 25. | foglalkoztatási segédelőadó | 400* vagy 350 |  |
 
-| 26. | C | segédelőadó | 400* vagy 350 | 300 |
+| 26. | nyilvántartási segédelőadó | 350 |  |
 
-| 27. | C | segédelőadó (műveleti) | 500 |  |
+| 27. | segédelőadó | 350 |  |
 
-| 28. | C | művezető | 350 |  |
+| 28. | művezető | 350 |  |
 
-| 29. | C | felügyelő (körlet) | 500 |  |
+| 29. | körletfelügyelő | 500 |  |
 
-| 30. | C | kutyavezető | 450 |  |
+| 30. | kutyavezető | 450 |  |
 
-| 31. | C | szakasszisztens | 350 |  |
+| 31. | szakasszisztens | 350 |  |
 
-| 32. | C | szakápoló | 350 |  |
+| 32. | szakápoló | 350 |  |
 
-| 33. | B | felügyelő (foglalkoztatási) | 400* vagy 350 |  |
+| 33. | B | ápoló | 350 |  |
 
-| 34. | B | gépjárművezető | 450 | 325 |
+| 34. | foglalkoztatási felügyelő | 400* vagy 350 |  |
 
-| 35. | B | biztonsági felügyelő | 450 |  |
+| 35. | gépjárművezető | 450 |  |
 
-| 36. | B | ápoló | 350 |  |
+| 36. | biztonsági felügyelő | 450 |  |
 
 | 37. | A | segédfelügyelő | 350 |  |
 
 | 38. | helyi | E | körlet-főfelügyelő | 400 |  |
 
-| 39. |  |  | főfelügyelő | 400* vagy 375 |  |
+| 39. | biztonsági főfelügyelő | 400* vagy 375 |  |
 
-| 40. |  |  | raktárvezető | 350 |  |
+| 40. | műveleti főfelügyelő | 400 |  |
 
-| 41. |  |  | élelmezésvezető | 350 |  |
+| 41. | raktárvezető | 350 |  |
 
-| 42. |  | D | kutyatelep-vezető | 375 |  |
+| 42. | élelmezésvezető | 350 |  |
 
-| 43. |  |  | konyhavezető | 350 |  |
+| 43. | főfelügyelő (vezető-biztonságtechnikus) | 350 |  |
 
-| 44. |  |  | mosodavezető | 350 |  |
+| 44. | D | konyhavezető | 350 |  |
 
-| 45. |  |  | vezető szakasszisztens | 350 |  |
+| 45. | főápoló | 350 |  |
 
-| 46. |  |  | főápoló | 350 |  |
+| 46. | műhelyvezető | 350 |  |
 
-| 47. |  |  | szakoktató |  | 350 |
+| 47. | kiemelt művezető (gazdasági társaságok) | 350 |  |
 
-| 48. |  |  | műhelyvezető | 350 |  |
+| 48. | C | raktáros | 350 |  |
 
-| 49. |  |  | kiemelt művezető | 350 |  |
+| 49. | szociális segédelőadó | 400* vagy 350 |  |
 
-| 50. |  | C | biztonságtechnikus | 350 |  |
+| 50. | nyilvántartási segédelőadó | 350 |  |
 
-| 51. |  |  | fegyvermester | 350 |  |
+| 51. | segédelőadó | 350 | 300 |
 
-| 52. |  |  | szállítmányvezető | 350 |  |
+| 52. | művezető (gazdasági társaságok) | 350 |  |
 
-| 53. |  |  | raktáros | 350 |  |
+| 53. | szakápoló | 350 |  |
 
-| 54. |  |  | szociális segédelőadó | 400* vagy 350 |  |
+| 54. | B | ápoló | 350 |  |
 
-| 55. |  |  | segédelőadó | 350 | 300 |
+| 55. | körletfelügyelő | 400* vagy 350 |  |
 
-| 56. |  |  | művezető | 350 |  |
+| 56. | foglalkoztatási felügyelő | 400* vagy 350 |  |
 
-| 57. |  |  | szakasszisztens | 350 |  |
+| 57. | kutyavezető | 375 |  |
 
-| 58. |  |  | szakápoló | 350 |  |
+| 58. | A | gépjárművezető | 375 |  |
 
-| 59. |  | B | felügyelő (körlet, foglalkoztatási, munkáltatási) | 400* vagy 350 |  |
+| 59. | biztonsági felügyelő | 375 |  |
 
-| 60. |  |  | kutyavezető | 375 |  |
-
-| 61. |  |  | ápoló | 350 |  |
-
-| 62. |  | A | gépjárművezető | 375 | 325 |
-
-| 63. |  |  | biztonsági felügyelő | 375 |  |
-
-| 64. |  |  | segédfelügyelő | 350 |  |
+| 60. | segédfelügyelő | 350 |  |
 
 ## Megjegyzés:
 
-## 400*: 400% a pótlék mértéke, amennyiben speciális (hosszúidős biztonsági, gyógyító-terápiás, pszichoszociális, szexuális bűncselekményt elkövetettek, drogprevenciós) részlegen, különleges biztonsági részlegen vagy HIV részlegen, műveleti osztályon, illetve csoportban teljesít szolgálatot, vagy páncélozott szállító járművet vezet, vagy ténylegesen életfogytiglani szabadságvesztésre ítélt fogvatartottat munkáltat.
+## Agglomerációs központ: a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet 1. melléklet V. táblázatában meghatározott büntetés-végrehajtási intézet (Budapesti Fegyház és Börtön, Fővárosi Büntetés-végrehajtási Intézet, Szegedi Fegyház és Börtön, Szombathelyi Országos Büntetés-végrehajtási Intézet, Tiszalöki Országos Büntetés-végrehajtási Intézet)
 
-## Kiemelt büntetés-végrehajtási intézetek:
+## Több objektumos szervezeti egység: Állampusztai Országos Büntetés-végrehajtási Intézet, Borsod-Abaúj-Zemplén Vármegyei Büntetés-végrehajtási Intézet, Közép-dunántúli Országos Büntetés-végrehajtási Intézet, Pálhalmai Országos Büntetés-végrehajtási Intézet, Tököli Országos Büntetés-végrehajtási Intézet
 
-## Budapesti Fegyház és Börtön, Fővárosi Büntetés-végrehajtási Intézet, Pálhalmai Országos Büntetés-végrehajtási Intézet, Sopronkőhidai Fegyház és Börtön, Szegedi Fegyház és Börtön, Szombathelyi Országos Büntetés-végrehajtási Intézet, Állampusztai Országos Büntetés-végrehajtási Intézet, Közép-dunántúli Országos Büntetés-végrehajtási Intézet, Márianosztrai Fegyház és Börtön, Tiszalöki Országos Büntetés-végrehajtási Intézet, Váci Fegyház és Börtön
+## Egy objektumos szervezeti egység: Balassagyarmati Fegyház és Börtön, Kalocsai Fegyház és Börtön, Kiskunhalasi Országos Büntetés-végrehajtási Intézet, Márianosztrai Fegyház és Börtön, Sátoraljaújhelyi Fegyház és Börtön, Sopronkőhidai Fegyház és Börtön, Váci Fegyház és Börtön, Veszprém Vármegyei Büntetés-végrehajtási Intézet
+
+## 400*: 400% a pótlék mértéke, amennyiben speciális (hosszúidős biztonsági, gyógyító-terápiás, pszichoszociális, szexuális bűncselekményt elkövetettek, drogprevenciós) részlegen, különleges biztonsági részlegen vagy HIV-részlegen, műveleti osztályon, illetve csoportban teljesít szolgálatot, vagy páncélozott szállító járművet vezet, vagy ténylegesen életfogytiglani szabadságvesztésre ítélt fogvatartottat munkáltat.
 
 8. melléklet a 20/2022. (VII. 15.) BM rendelethez

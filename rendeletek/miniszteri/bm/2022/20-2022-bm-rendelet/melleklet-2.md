@@ -2,7 +2,7 @@
 
 ## 2. 850*: Az Országgyűlési Őrség Híradó- és Biztonságtechnikai Osztályán szolgálatot teljesítők esetében a hivatásos pótlék mértéke 850%.
 
-2. melléklet a 20/2022. (VII. 15.) BM rendelethez[^4]
+2. melléklet a 20/2022. (VII. 15.) BM rendelethez[^5]
 
 Az általános rendőrségi feladatok ellátására létrehozott szerv szolgálati beosztásai
 
@@ -798,7 +798,7 @@ a) Területi szervnél
 
 b) Helyi szervnél
 
-## 2X05476M_14
+2X05476M_14
 
 |  | A | B | C | D | E |
 
@@ -824,7 +824,7 @@ b) Helyi szervnél
 
 | 11. |  | osztályvezető 1 | osztályvezető | 150-350 | 150-350 |
 
-## 2X05476M_15
+2X05476M_15
 
 |  | A | B | C | D | E |
 
@@ -1122,4 +1122,4 @@ VIII. A Nemzetközi Oktatási Központ szolgálati beosztásai
 
 | 5. | B | gépjárművezető |  | 350 |
 
-[^4]: A 2. melléklet a 23/2022. (VII. 29.) BM rendelet 20. § a) pontja szerint módosított szöveg. [A 2. melléklet VIII. alcímében e módosító rendelet 2. melléklet 6. pontjával elrendelt módosítás nem vezethető át.]
+[^5]: A 2. melléklet a 23/2022. (VII. 29.) BM rendelet 20. § a) pontja, a 45/2022. (XII. 20.) BM rendelet 95. § a) pontja szerint módosított szöveg. [A 2. melléklet VIII. alcímében e módosító rendelet 2. melléklet 6. pontjával elrendelt módosítás nem vezethető át.]

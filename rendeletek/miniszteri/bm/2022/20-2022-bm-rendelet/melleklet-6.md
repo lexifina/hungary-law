@@ -62,7 +62,7 @@
 
 | 10. | igazgatóság | B | referens | 350 | 350 |
 
-6. melléklet a 20/2022. (VII. 15.) BM rendelethez[^5]
+6. melléklet a 20/2022. (VII. 15.) BM rendelethez[^6]
 
 A hivatásos katasztrófavédelmi szerv szolgálati beosztásai
 
@@ -142,7 +142,7 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 3. Helyi szervnél
 
-## 2X04482_2
+## 2X09323N.docx
 
 |  | A | B | C | D | E |
 
@@ -150,9 +150,9 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 | 2. | kategória | besorolási kategória | beosztás | alapfeladat | nem alap- feladat |
 
-| 3. | középvezető | főosztályvezető 1 | katasztrófavédelmi kirendeltség- vezető (megyeszékhelyi) | 150-350 |  |
+| 3. | középvezető | főosztályvezető 1 | katasztrófavédelmi kirendeltség- vezető (vármegyeszékhelyi) | 150-350 |  |
 
-| 4. |  | főosztályvezető 2 | katasztrófavédelmi kirendeltség- vezető | 150-350 |  |
+| 4. |  | főosztályvezető 2 | katasztrófavédelmi kirendeltség vezető | 150-350 |  |
 
 | 5. | beosztott vezető | főosztályvezető- helyettes 2 | polgári védelmi felügyelő | 150-350 |  |
 
@@ -264,4 +264,4 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^5]: [A 23/2022. (VII. 29.) BM rendelet 20. § b) pontjával elrendelt módosítás nem vezethető át.]
+[^6]: A 6. melléklet a 45/2022. (XII. 20.) BM rendelet 95. § b) pontja szerint módosított szöveg. [A 23/2022. (VII. 29.) BM rendelet 20. § b) pontjával elrendelt módosítás nem vezethető át.]

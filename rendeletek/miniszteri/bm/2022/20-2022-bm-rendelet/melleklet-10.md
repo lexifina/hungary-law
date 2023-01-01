@@ -12,6 +12,6 @@
 
 ## * A rektor és a rektor helyettes munkakörébe kinevezett, e rendelet hatálya alá tartozó hivatásos állományú besorolási szintjét mutatja, a munkakör hivatásos szolgálati beosztássá minősítése nélkül.
 
-10. melléklet a 20/2022. (VII. 15.) BM rendelethez[^7]
+10. melléklet a 20/2022. (VII. 15.) BM rendelethez[^8]
 
-[^7]: A 10. melléklet az 5. § (2) bekezdése alapján 2024. január 1-jén lép hatályba.
+[^8]: A 10. melléklet az 5. § (2) bekezdése alapján 2024. január 1-jén lép hatályba.

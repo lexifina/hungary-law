@@ -18,7 +18,7 @@
 
 ## Országos Rendőr-főkapitányság (ORFK)
 
-## Területi szervek: (megyei illetékességű középirányító és azonos jogállású):
+## Területi szervek: (vármegyei illetékességű középirányító és azonos jogállású):
 
 ## BRFK + MRFK-k + KR + RRI + Rendőrségi Oktatási és Kiképző Központ + Nemzetközi Bűnügyi Együttműködési Központ + Nemzetközi Oktatási Központ
 
@@ -30,7 +30,7 @@
 
 ## a BRFK II., III., IV., V., VII., VIII., IX., X., XI., XIII., XIV. kerületi és a Dunai Vízirendészeti Rendőrkapitányság,
 
-## a megyeszékhelyi rendőrkapitányságok, a Gödöllői, a Soproni, a Nagykanizsai, a Dunaújvárosi, az Érdi, a Hódmezővásárhelyi Rendőrkapitányság
+## a vármegyeszékhelyi rendőrkapitányságok, a Gödöllői, a Soproni, a Nagykanizsai, a Dunaújvárosi, az Érdi, a Hódmezővásárhelyi Rendőrkapitányság
 
 ## Kiemelt Határrendészeti Kirendeltségek:
 
@@ -60,7 +60,7 @@
 
 ## KR LRSZ: Légirendészeti Szolgálat
 
-## MRFK: Megyei Rendőr-főkapitányság
+## MRFK: Vármegyei Rendőr-főkapitányság
 
 ## RRI: Repülőtéri Rendőr Igazgatóság
 

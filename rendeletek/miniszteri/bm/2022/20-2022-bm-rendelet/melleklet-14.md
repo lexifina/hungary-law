@@ -1,3 +1,3 @@
-14. melléklet a 20/2022. (VII. 15.) BM rendelethez[^11]
+14. melléklet a 20/2022. (VII. 15.) BM rendelethez[^12]
 
-[^11]: A 14. melléklet az 5. § (2) bekezdése alapján 2024. január 1-jén lép hatályba.
+[^12]: A 14. melléklet az 5. § (2) bekezdése alapján 2024. január 1-jén lép hatályba.
