@@ -10,7 +10,7 @@ d) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi 
 
 e) a családok támogatásáról szóló 1998. évi LXXXIV. törvény szerinti ellátások,
 
-f) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény alapján járó álláskeresési járadék, álláskeresési segély, keresetpótló juttatás, valamint vállalkozói járadék
+f) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény alapján járó álláskeresési járadék, nyugdíj előtti álláskeresési segély, keresetpótló juttatás, valamint vállalkozói járadék
 
 [az a)–f) pontban foglalt ellátások a továbbiakban együtt: ellátás] megállapítása, illetve összegük módosítása során – ideértve az ellátás megállapítását követő emeléseket is – mind a módosítás alapját képező összeget, mind a módosított összeget a legközelebbi 0-ra vagy 5-re végződő összegre felfelé kell kerekíteni, ha az nem 5 forintra vagy annak egész számú többszörösére végződik.
 
