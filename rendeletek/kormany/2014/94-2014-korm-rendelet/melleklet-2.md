@@ -42,11 +42,9 @@ Mezőgazdasági eszközök és termelőlétesítmények (ideértve az öntözőr
 
 A népesség földrajzi eloszlása – ideértve a népességi jellemzőket és a tevékenységi szinteket jövedelmi, gazdasági vonatkozásban is – statisztikai elemzési egységek (hálótérképek, régiók, közigazgatási egységek) alapján összesítve.
 
-11. Területhasználatot korlátozó övezetek
+11.[^5] Területhasználatot korlátozó övezetek
 
-A területrendezési tervek szerinti térségi övezetek határai: az Országos Területrendezési Tervről szóló 2003. évi
-
-XXVI. törvényben lehatárolt országos övezetek, a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvényben lehatárolt kiemelt térségi övezetek, a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvényben lehatárolt kiemelt térségi övezetek, valamint a megyei területrendezési tervekben lehatárolt térségi övezetek.
+A területrendezési tervek szerinti térségi övezetek határai: az Országos Területrendezési Tervről szóló 2003. évi XXVI. törvényben lehatárolt országos övezetek, a Balaton Kiemelt Üdülőkörzet Területrendezési Tervének elfogadásáról és a Balatoni Területrendezési Szabályzat megállapításáról szóló 2000. évi CXII. törvényben lehatárolt kiemelt térségi övezetek, a Budapesti Agglomeráció Területrendezési Tervéről szóló 2005. évi LXIV. törvényben lehatárolt kiemelt térségi övezetek, valamint a vármegyei területrendezési tervekben lehatárolt térségi övezetek.
 
 12. Területgazdálkodási, -szabályozási övezetek és adatszolgáltató egységek
 
@@ -89,3 +87,5 @@ Az összetétel és szerkezet alapján jellemzett földtan, ideértve az alapkő
 21. Energiát előállító egységek, erőművek, fűtőművek
 
 Energiát előállító létesítmények, különösen az atom, gáz, fűtőolaj, szén, alternatív (szél, nap, bio) erőművek, a villamos energiát és hőenergiát előállító létesítmények.
+
+[^5]: A 2. melléklet 11. pontja a 616/2022. (XII. 29.) Korm. rendelet 183. §-a szerint módosított szöveg.

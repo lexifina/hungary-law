@@ -38,13 +38,13 @@
 
 18. a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság,
 
-19. a megyei önkormányzatok és hivatalaik,
+19.[^3] a vármegyei önkormányzatok és hivatalaik,
 
 20. a települési önkormányzatok és hivatalaik,
 
 21. az országos önkormányzati szövetségek,
 
-22. a civil szervezetek országos, regionális, megyei szinten létrehozott egyeztető fórumának,
+22.[^4] a civil szervezetek országos, regionális, vármegyei szinten létrehozott egyeztető fórumának,
 
 23. a térségi fejlesztési tanácsok és munkaszervezeteik, valamint
 
@@ -55,3 +55,5 @@ regisztrált tagjait.
 (3) A NATéR szolgáltatásaihoz a középiskolai és felsőoktatási intézmény vezetője által kijelölt és a NATéR-ben regisztrált munkatársa, valamint a képzésben részt vevő regisztrált tanulója, hallgatója oktatási-kutatási célból közvetlenül fér hozzá.
 
 [^2]: A 9. § (2) bekezdés 10. pontja a 345/2019. (XII. 23.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^3]: A 9. § (2) bekezdés 19. pontja a 616/2022. (XII. 29.) Korm. rendelet 183. §-a szerint módosított szöveg.
+[^4]: A 9. § (2) bekezdés 22. pontja a 616/2022. (XII. 29.) Korm. rendelet 183. §-a szerint módosított szöveg.
