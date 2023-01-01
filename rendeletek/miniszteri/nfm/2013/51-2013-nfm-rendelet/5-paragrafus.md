@@ -1,5 +1,3 @@
-## 4. §[^11]
-
 5. § (1) Állati erővel vont vagy ember által mozgatott járművel radioaktív anyag csak akkor továbbítható, ha a közvetlen felhasználás helye másként nem közelíthető meg.
 
 (2) Közforgalmú személyszállító járművel kézi vagy útipoggyászként radioaktív anyagot továbbítani nem szabad.
@@ -56,7 +54,6 @@ n) a radioaktív anyagok szállításával összefüggő minőségellenőrzési 
 
 (9)[^19] A sugárvédelmi program beépíthető az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló kormányrendelet szerint elkészített Munkahelyi Sugárvédelmi Szabályzatba, azzal a kitétellel, hogy a (7) bekezdésben meghatározott, a radioaktív anyagok szállítására vonatkozó sugárvédelmi program elemeinek egyértelmű megkülönböztetését biztosítja.
 
-[^11]: A 4. §-t az 52/2017. (XII. 22.) NFM rendelet 30. § c) pontja hatályon kívül helyezte.
 [^12]: Az 5. § (3) bekezdését a 4/2018. (VII. 5.) ITM rendelet 10. §-a iktatta be, szövege a 3/2022. (VI. 24.) TIM rendelet 1. § a) pontja szerint módosított szöveg.
 [^13]: Az 5. § (4) bekezdését a 4/2018. (VII. 5.) ITM rendelet 10. §-a iktatta be.
 [^14]: Az 5. § (5) bekezdését a 4/2018. (VII. 5.) ITM rendelet 10. §-a iktatta be.
