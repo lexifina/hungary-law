@@ -1,0 +1,1 @@
+1. § Az egyes állami tulajdonban álló gazdasági társaságok felett az államot megillető tulajdonosi jogok és kötelezettségek összességét gyakorló személyek kijelöléséről szóló 1/2022. (V. 26.) GFM rendelet 1. melléklet I. pontjában a „gazdaságfejlesztési miniszter” szövegrész helyébe a „Gazdaságfejlesztési Minisztérium” szöveg lép.
