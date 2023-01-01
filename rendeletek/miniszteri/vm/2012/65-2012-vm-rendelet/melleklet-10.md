@@ -1,4 +1,4 @@
-10. melléklet a 65/2012. (VII. 4.) VM rendelethez
+10. melléklet a 65/2012. (VII. 4.) VM rendelethez[^90]
 
 A elsődleges előállítók kivételével a magyarországi székhelyű takarmány-vállalkozások engedélyezése, illetve bejelentésüket követő nyilvántartásba vétel során adandó regisztrációs szám képzése
 
@@ -14,7 +14,7 @@ Az egyedi szám az alábbi szerkezetben épül fel:
 
 Magyarországon:
 
-– az első kettő számjegy: a létesítmény székhelye szerint illetékes megye, illetve Budapest kódszáma, alfabetikus sorrendben, 01-től 20-ig
+– az első kettő számjegy: a létesítmény székhelye szerint illetékes vármegye, illetve Budapest kódszáma, alfabetikus sorrendben, 01-től 20-ig
 
 | 01 | Baranya | 06 | Fejér | 11 | Komárom-Esztergom | 16 | Tolna |
 
@@ -24,4 +24,6 @@ Magyarországon:
 
 | 04 | Borsod-Abaúj-Zemplén | 09 | Heves | 14 | Somogy | 19 | Zala |
 
-| 05 | Csongrád | 10 | Jász-Nagykun-Szolnok | 15 | Szabolcs-Szatmár-Bereg | 20 | Budapest |
+| 05 | Csongrád-Csanád | 10 | Jász-Nagykun-Szolnok | 15 | Szabolcs-Szatmár-Bereg | 20 | Budapest |
+
+[^90]: A 10. melléklet a 131/2022. (XII. 27.) AM rendelet 1. § c) és d) pontja szerint módosított szöveg.

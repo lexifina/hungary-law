@@ -16,7 +16,7 @@ g) a takarmányról megállapítják vagy felmerül annak gyanúja, hogy az Magy
 
 (2)[^55] A járási hivatal az (1) bekezdés szerinti takarmánytétel, szállítmány etetésre alkalmatlannak nyilvánítása esetén elrendeli a takarmány eltérő felhasználását vagy ártalmatlanítását, amennyiben ennek jogszabályi és szakmai feltételei fennállnak.
 
-(3)[^56] Amennyiben nem engedélyezett állati eredetű fehérje takarmányban való jelenlétének gyanúja merül fel, a megyei kormányhivatal minden esetben vizsgálatot végez, amelynek ki kell terjednie az üzem alapanyag és gyártás-technológiai nyilvántartásának ellenőrzésére, valamint az alapanyagok laboratóriumi vizsgálatára. Állati eredetű fehérjét tartalmazó takarmányok tiltott felhasználása esetén az ilyen takarmány takarmányozási célú felhasználásáról a járási hivatal dönt.
+(3)[^56] Amennyiben nem engedélyezett állati eredetű fehérje takarmányban való jelenlétének gyanúja merül fel, a vármegyei kormányhivatal minden esetben vizsgálatot végez, amelynek ki kell terjednie az üzem alapanyag és gyártás-technológiai nyilvántartásának ellenőrzésére, valamint az alapanyagok laboratóriumi vizsgálatára. Állati eredetű fehérjét tartalmazó takarmányok tiltott felhasználása esetén az ilyen takarmány takarmányozási célú felhasználásáról a járási hivatal dönt.
 
 (4)[^57] A (2) bekezdésben foglaltaktól eltérően az állatra, illetve emberre nézve kórokozó mikroorganizmussal fertőzött takarmány esetén a járási hivatal elrendeli az érintett tétel, szállítmány ártalmatlanítását.
 
@@ -25,6 +25,6 @@ g) a takarmányról megállapítják vagy felmerül annak gyanúja, hogy az Magy
 [^53]: A 35. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 182. § g) pontja szerint módosított szöveg.
 [^54]: A 35. § (1) bekezdés e) pontja a 42/2017. (VIII. 17.) FM rendelet 182. § g) pontja szerint módosított szöveg.
 [^55]: A 35. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 182. § g) pontja szerint módosított szöveg.
-[^56]: A 35. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 182. § b) és g) pontja szerint módosított szöveg.
+[^56]: A 35. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 182. § b) és g) pontja, a 131/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^57]: A 35. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 182. § g) pontja szerint módosított szöveg.
 [^58]: A 35. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 182. § g) pontja szerint módosított szöveg.

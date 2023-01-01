@@ -4,7 +4,7 @@
 
 (3) Gyógyszeres takarmányt, gyógyszeres köztes terméket az előállító vagy az erre engedéllyel rendelkező forgalmazó hozhat forgalomba.
 
-(4)[^34] A (3) bekezdés szerinti forgalmazást a megyei kormányhivatal engedélyezi, feltéve, hogy a forgalmazó
+(4)[^34] A (3) bekezdés szerinti forgalmazást a vármegyei kormányhivatal engedélyezi, feltéve, hogy a forgalmazó
 
 a) az állattartó számára csak gyógyszeres késztakarmányt forgalmaz rendelvény alapján, kis mennyiségekben, előre csomagolva, felhasználásra készen,
 
@@ -24,4 +24,4 @@ d) a gyógyszerkészítmény napi adagját a kezelt állatok napi takarmányadag
 
 e) az önellenőrzés rendszeres időközönként, de legalább évente egy alkalommal kiterjed arra, hogy a gyógyszeres takarmány, gyógyszeres köztes termék előállítása megfelel-e e rendelet követelményeinek, különös tekintettel a homogenitás és a tárolhatóság terén. Ez az önellenőrzés magába foglalja a takarmány kapcsán a gyógyszer-tartalom tekintetében végzett laboratóriumi homogenitás-, illetve a gyógyszer-mentesítési eljárás megfelelőségét igazoló vizsgálatokat is. E vizsgálatok megléte nem zárja ki a hatóság hasonló irányú ellenőrzéseit.
 
-[^34]: A 18. § (4) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 182. § b) pontja szerint módosított szöveg.
+[^34]: A 18. § (4) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 182. § b) pontja, a 131/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

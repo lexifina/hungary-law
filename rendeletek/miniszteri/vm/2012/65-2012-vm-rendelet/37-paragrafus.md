@@ -10,7 +10,7 @@ d) a takarmány-vállalkozás az ellenőrzés során az ellenőrzést bármely m
 
 (2)[^63] A járási hivatal a vizsgálatok alapján határidő egyidejű kitűzésével meghatározhatja azokat a feltételeket, amelyekkel az (1) bekezdésben foglaltak megszüntethetők. A feltételek biztosítása és a határidő betartása a takarmány tulajdonosának, illetve importőrének a kötelessége.
 
-(3)[^64] A járási hivatal megtiltja a takarmány előállítását, tárolását, forgalmazását, felhasználását, exportját, importját, tranzitját, szállítását, ha a (2) bekezdésben előírt feltételek a megadott határidőre nem teljesülnek, és egyidejűleg értesíti az adott takarmány-vállalkozás létesítményét engedélyező, illetve nyilvántartó megyei kormányhivatalt, illetve járási hivatalt.
+(3)[^64] A járási hivatal megtiltja a takarmány előállítását, tárolását, forgalmazását, felhasználását, exportját, importját, tranzitját, szállítását, ha a (2) bekezdésben előírt feltételek a megadott határidőre nem teljesülnek, és egyidejűleg értesíti az adott takarmány-vállalkozás létesítményét engedélyező, illetve nyilvántartó vármegyei kormányhivatalt, illetve járási hivatalt.
 
 (4)[^65] A járási hivatal a (3) bekezdésben foglaltak megvalósulása esetén az érintett takarmánytétel, szállítmány vonatkozásában a 35. és 36. §-ban foglaltak szerint jár el.
 
@@ -18,6 +18,6 @@ d) a takarmány-vállalkozás az ellenőrzés során az ellenőrzést bármely m
 
 [^62]: A 37. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 182. § g) pontja szerint módosított szöveg.
 [^63]: A 37. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 182. § g) pontja szerint módosított szöveg.
-[^64]: A 37. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 182. § g) és o) pontja szerint módosított szöveg.
+[^64]: A 37. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 182. § g) és o) pontja, a 131/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^65]: A 37. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 182. § g) pontja szerint módosított szöveg.
 [^66]: A 37. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 182. § g) pontja szerint módosított szöveg.
