@@ -14,6 +14,10 @@ a büntetés-végrehajtási intézet hivatali munkarendjén kívül kerülne sor
 
 (1c) Az (1b) bekezdés szerint megkezdett szabálysértési elzárást a rendőrségi fogdán kell végrehajtani, ha a szabálysértési elzárás hátralévő ideje a büntetés-végrehajtási intézetbe történő befogadáskor kevesebb lenne, mint két nap.
 
+(1d) A szabálysértési elzárást a szabálysértési őrizetet foganatosító rendőrség székhelye szerinti rendőrségi fogdában lehet végrehajtani, ha az elkövető a rendőrség őrizetében van, és a 9. § (3) bekezdése szerinti beszámítást követően a szabálysértési elzárás hátralévő tartama a tíz napot nem haladja meg.
+
+(1e) Az (1b) bekezdés szerint megkezdett szabálysértési elzárást a rendőrségi fogdán lehet végrehajtani, ha a szabálysértési elzárás hátralévő tartama a büntetés-végrehajtási intézetbe történő befogadáskor kevesebb lenne, mint tíz nap.
+
 (2)
 
 (3) A szabálysértési elzárás végrehajtásáról, valamint a tizennegyedik életévét betöltött kiskorú gyermekét egyedül nevelő szülővel, gyámmal szemben elrendelt szabálysértési elzárás esetén a gyámhatóság értesítéséről az elkövető lakóhelye, tartózkodási helye, ennek hiányában az elkövetés helye szerint illetékes általános szabálysértési hatóság gondoskodik.
