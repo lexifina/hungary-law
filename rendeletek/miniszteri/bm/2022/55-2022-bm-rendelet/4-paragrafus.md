@@ -1,0 +1,3 @@
+## 4. A szerzett immunhiányos tünetcsoport kialakulását okozó fertőzés terjedésének megelőzése érdekében szükséges intézkedésekről és a szűrővizsgálatok elvégzésének rendjéről szóló 18/2002. (XII. 28.) ESZCSM rendelet módosítása
+
+4. § A szerzett immunhiányos tünetcsoport kialakulását okozó fertőzés terjedésének megelőzése érdekében szükséges intézkedésekről és a szűrővizsgálatok elvégzésének rendjéről szóló 18/2002. (XII. 28.) ESZCSM rendelet 2. melléklet II. pont d) alpontjában és IV. pont a) alpontjában a „HM Állami Egészségügyi Központ” szövegrész helyébe az „Észak-Pesti Centrum Kórház – Honvédkórház” szöveg lép.
