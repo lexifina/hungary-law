@@ -300,4 +300,6 @@
 
 5. számú melléklet a 10/2002. (I. 23.) FVM rendelethez[^23]
 
-[^23]: Az 5. számú melléklet a 42/2017. (VIII. 17.) FM rendelet 29. § f) pontja szerint módosított szöveg.
+A hatósági mintavétel és mintaküldés szabályai
+
+[^23]: Az 5. számú melléklet a 42/2017. (VIII. 17.) FM rendelet 29. § f) pontja, a 64/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

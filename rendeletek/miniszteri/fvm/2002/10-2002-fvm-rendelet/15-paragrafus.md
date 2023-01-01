@@ -1,0 +1,3 @@
+15. §[^18] Jogellenes kezelés megállapítása esetén, a vármegyei kormányhivatal intézkedni köteles, hogy a 10. § (2) bekezdése szerinti kivizsgálásban érintett állatállományt, hatósági állatorvosi felügyelet alá helyezzék. A hatósági állatorvosnak ellenőrizni kell az állat azonosíthatóságát, amennyiben ilyen nincs, el kell rendelnie az állat elkülönítő megjelölését. Ezt követően az állományban megbízható statisztikai értékelést lehetővé tevő, további szigorított mintavételt kell alkalmazni.
+
+[^18]: A 15. § a 42/2017. (VIII. 17.) FM rendelet 29. § b) pontja, a 64/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

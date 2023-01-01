@@ -1,6 +1,6 @@
-10. § (1)[^6] Ha jogellenes kezelés gyanúja áll fenn, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) felszólítja a tulajdonost vagy az állatokért felelős személyt vagy a gazdaságot ellátó állatorvost, hogy mutassanak be minden olyan dokumentumot, amely a kezelést indokolja.
+10. § (1)[^6] Ha jogellenes kezelés gyanúja áll fenn, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) felszólítja a tulajdonost vagy az állatokért felelős személyt vagy a gazdaságot ellátó állatorvost, hogy mutassanak be minden olyan dokumentumot, amely a kezelést indokolja.
 
-(2)[^7] Ha az (1) bekezdésben leírt kivizsgálás megerősíti a jogellenes kezelést vagy tiltott anyagok vagy szerek alkalmazását, illetőleg azok alkalmazása gyanítható, a megyei kormányhivatal elvégezteti az alábbi ellenőrzéseket:
+(2)[^7] Ha az (1) bekezdésben leírt kivizsgálás megerősíti a jogellenes kezelést vagy tiltott anyagok vagy szerek alkalmazását, illetőleg azok alkalmazása gyanítható, a vármegyei kormányhivatal elvégezteti az alábbi ellenőrzéseket:
 
 a) a származási vagy feladó gazdaságban az állatok helyszíni szemléjét, különösen azzal a céllal, hogy a jogellenes alkalmazást kimutassák és a kezelés nyomait felleljék; ez az ellenőrzés hatósági minták vételét is magában foglalhatja;
 
@@ -12,8 +12,8 @@ d) a 8. § (1) bekezdés a) pontjában foglalt ellenőrzéseket;
 
 e) minden olyan ellenőrzést, amely a tiltott anyagok vagy szerek, vagy a kezelt állatok eredetének tisztázására szolgál.
 
-(3)[^8] Ha a jogszabályokban megállapított határértéket túllépték, a megyei kormányhivatal a kapott eredménytől függően tesz e rendeletben előírt intézkedéseket, illetve folytat vizsgálatokat.
+(3)[^8] Ha a jogszabályokban megállapított határértéket túllépték, a vármegyei kormányhivatal a kapott eredménytől függően tesz e rendeletben előírt intézkedéseket, illetve folytat vizsgálatokat.
 
-[^6]: A 10. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 29. § a) pontja szerint módosított szöveg.
-[^7]: A 10. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 29. § b) pontja szerint módosított szöveg.
-[^8]: A 10. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 29. § b) pontja szerint módosított szöveg.
+[^6]: A 10. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 29. § a) pontja, a 64/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^7]: A 10. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 29. § b) pontja, a 64/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^8]: A 10. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 29. § b) pontja, a 64/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

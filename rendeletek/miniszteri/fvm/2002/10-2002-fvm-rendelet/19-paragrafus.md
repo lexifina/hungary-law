@@ -1,5 +1,3 @@
-## 18. §[^20] Ha arra jogosulatlan személyek birtokában az 1. számú melléklet ,,A'' csoportjába vagy a ,,B'' csoportjának (1) és (2) bekezdésébe sorolt hatóanyagokat, illetve szereket találnak, azokat a járási hivatal a megyei kormányhivatal megfelelő intézkedéséig zárolja.
-
 19. § (1) Ha gyanú vagy bizonyíték van arra, hogy az érintett állatokon jogellenes kezelést végeztek, vagy azokat tiltott anyagokkal vagy szerekkel kezelték, a vágóhídon eljáró állatorvos köteles:
 
 a) intézkedni, hogy a levágandó állatokat elkülönítve kezeljék a vágóhídra érkező többi állatcsoporttól;
@@ -22,5 +20,4 @@ b) nem törzskönyvezett szer vagy a törzskönyvi bejegyzésben említettől el
 
 (6) Emberi fogyasztásra alkalmatlannak kell nyilvánítani azokat a levágott állatokat és termékeket, amelyekben a maradékanyag mennyisége a jogszabályokban engedélyezett szinteket meghaladja.
 
-[^20]: A 18. § a 42/2017. (VIII. 17.) FM rendelet 29. § b) és e) pontja szerint módosított szöveg.
 [^21]: A 19. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 29. § e) pontja szerint módosított szöveg.

@@ -1,5 +1,3 @@
-## A hatósági mintavétel és mintaküldés szabályai
-
 ## A mintavétel, a mintacsomagolás, a mintavételi jegyzőkönyv biztosítása és a szállítás alapvető követelménye az, hogy biztosított legyen a minta rosszindulatú kicserélésének, hamisításának és romlásának a megakadályozása, valamint az állatállományt statisztikailag reprezentáló mintának a vizsgáló laboratóriumba történő mielőbbi, biztonságos eljuttatása.
 
 ## Célzott mintavétel az állatok tartási helyén
@@ -106,7 +104,7 @@
 
 ## A minták stabilitásának és integritásának megóvására a monitoring vizsgálati tervben részletesen elő kell írni az egyes vizsgálatianyag-kombinációk szállítási és tárolási feltételeit. Kiemelt figyelmet kell fordítani a szakszerűen előkészített szállító dobozra, az előírás szerinti szállítási hőmérséklet (hűtés) biztosítására, továbbá a károsodás, felcserélés és a hamisítás elkerülésére, valamint a mintáknak a laboratóriumba juttatásához szükséges legrövidebb időre.
 
-## A mintavételi és mintaküldési szabályok megsértéséről a laboratórium köteles haladéktalanul értesíteni a mintavétel helye szerint illetékes megyei kormányhivatalt.
+## A mintavételi és mintaküldési szabályok megsértéséről a laboratórium köteles haladéktalanul értesíteni a mintavétel helye szerint illetékes vármegyei kormányhivatalt.
 
 6. számú melléklet a 10/2002. (I. 23.) FVM rendelethez
 

@@ -70,4 +70,6 @@
 
 2. számú melléklet a 10/2002. (I. 23.) FVM rendelethez
 
+Kimutatandó maradékanyagok csoportosítása az állatfajok, az etetett takarmányok – beleértve az ivóvizet is – és az elsődleges állati termékek szerint
+
 [^22]: Ideértve az állatgyógyászati célra használható egyéb anyagokat is.

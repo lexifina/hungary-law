@@ -1,5 +1,3 @@
-## Kimutatandó maradékanyagok csoportosítása az állatfajok, az etetett takarmányok – beleértve az ivóvizet is – és az elsődleges állati termékek szerint
-
 |  | Állattípus, takarmány vagy állati eredetű termék |
 
 | Maradékanyag- csoportok | szarvasmarha, juh, kecske, sertés, lófélék | baromfi | tenyésztett víziállatok | tej | tojás | nyúlhús, lőtt vadak és tenyész- tett vadak húsa | méz |
@@ -44,7 +42,7 @@
 
 3. számú melléklet a 10/2002. (I. 23.) FVM rendelethez
 
-## Mintavételi stratégia
+Mintavételi stratégia
 
 1. A monitoring vizsgálati terv célja, hogy felmérje és feltárja az állati eredetű élelmiszerekben előforduló egészségre ártalmas maradékanyag-szennyezettség keletkezésének okait a gazdaságokban, vágóhidakon, daraboló és feldolgozóüzemekben, tejüzemekben, hal- és vadfeldolgozó üzemekben, mézbegyűjtő, tojásbegyűjtő és -csomagoló, valamint egyéb helyeken.
 
