@@ -8,7 +8,7 @@ c) az a) és a b) pontokban meghatározott alkotóelemektől eltérő, egyéb ne
 
 d) a szabad szén-dioxid, kizárólag fizikai módon történő teljes vagy részleges eltávolítása.
 
-(2)[^12] A természetes ásványvizek ózonnal dúsított levegőt alkalmazó, az (1) bekezdés b) pontja szerinti kezelését előzetesen, kérelemre az előállítás helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) engedélyezi. Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság megvizsgálja, hogy
+(2)[^12] A természetes ásványvizek ózonnal dúsított levegőt alkalmazó, az (1) bekezdés b) pontja szerinti kezelését előzetesen, kérelemre az előállítás helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) engedélyezi. Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság megvizsgálja, hogy
 
 a)[^13] az ilyen kezelés alkalmazását a víz összetétele (vas-, mangán-, kén- és arzéntartalom vonatkozásában) indokolja,
 
@@ -22,13 +22,13 @@ b) a kezelést megelőzően a természetes ásványvíznek meg kell felelnie az 
 
 c) a kezelés után a vízben maradt anyagok mennyisége nem lehet több, mint amennyit a 4. számú melléklet megenged, illetve a kezelés nem eredményezheti olyan anyagok képződését, amelyek veszélyt jelenthetnek az emberi egészségre.
 
-(4)[^15] Az (1) bekezdés c) pontja szerinti kezelést a megyei kormányhivatal engedélyezi, ha
+(4)[^15] Az (1) bekezdés c) pontja szerinti kezelést a vármegyei kormányhivatal engedélyezi, ha
 
 a) a kezelés alkalmazását a víz összetétele indokolja, és
 
-b)[^16] az üzemeltető garantálja a kezelés hatásosságát és biztonságát, valamint hozzájárul ahhoz, hogy a megyei kormányhivatal a kezelést folyamatosan ellenőrizze.
+b)[^16] az üzemeltető garantálja a kezelés hatásosságát és biztonságát, valamint hozzájárul ahhoz, hogy a vármegyei kormányhivatal a kezelést folyamatosan ellenőrizze.
 
-(5)[^17] A megyei kormányhivatal az (1) bekezdés c) pontja szerinti kezelést a Bizottság hozzájárulása alapján engedélyezi. Az alkalmazni kívánt kezelés leírását a minisztérium továbbítja a Bizottság felé.
+(5)[^17] A vármegyei kormányhivatal az (1) bekezdés c) pontja szerinti kezelést a Bizottság hozzájárulása alapján engedélyezi. Az alkalmazni kívánt kezelés leírását a minisztérium továbbítja a Bizottság felé.
 
 (6) A kezelést megelőzően a természetes ásványvíznek meg kell felelnie az 5. § (1) és (2) bekezdésében meghatározott mikrobiológiai követelményeknek. A kezelés nem változtathatja meg a víz összetételét, jellegzetes tulajdonságait meghatározó összetevőit, és nem eredményezheti olyan anyagok képződését, amelyek az emberi egészségre veszélyt jelenthetnek.
 
@@ -44,9 +44,9 @@ c) nem a vízadó rétegből származó szén-dioxid felhasználásával.
 
 (9) A természetes ásványvizek és forrásvizek üdítőitalok készítéséhez is felhasználhatóak.
 
-[^12]: A 4. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 18.) FM rendelet 69. § d) pontja szerint módosított szöveg.
+[^12]: A 4. § (2) bekezdés nyitó szövegrésze a 42/2017. (VIII. 18.) FM rendelet 69. § d) pontja, a 86/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^13]: [A 4. § (2) bekezdés a) pontjában a 42/2017. (VIII. 18.) FM rendelet 69. § e) pontjával elrendelt módosítás, amely szerint az „az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság” szövegrész helyébe az „a megyei kormányhivatal” szöveg lép, nem vezethető át.]
 [^14]: A 4. § (2) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 39. § c) pontja szerint módosított szöveg.
-[^15]: A 4. § (4) bekezdés nyitó szövegrésze a 42/2017. (VIII. 18.) FM rendelet 69. § e) pontja szerint módosított szöveg.
-[^16]: A 4. § (4) bekezdés b) pontja a 42/2017. (VIII. 18.) FM rendelet 69. § e) pontja szerint módosított szöveg.
-[^17]: A 4. § (5) bekezdése a 42/2017. (VIII. 18.) FM rendelet 69. § e) pontja szerint módosított szöveg.
+[^15]: A 4. § (4) bekezdés nyitó szövegrésze a 42/2017. (VIII. 18.) FM rendelet 69. § e) pontja, a 86/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^16]: A 4. § (4) bekezdés b) pontja a 42/2017. (VIII. 18.) FM rendelet 69. § e) pontja, a 86/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^17]: A 4. § (5) bekezdése a 42/2017. (VIII. 18.) FM rendelet 69. § e) pontja, a 86/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
