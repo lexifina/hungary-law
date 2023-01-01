@@ -56,7 +56,7 @@
 
 | 29. | 20703 | A választási bizottságok tagjainak távolléti díja [Ve. 15. §]. |  |  |
 
-| 30. | 20704 | A HVB választott tagjainak személyi normatívája megyei önkormányzati képviselő- vagy főpolgármester-választás esetén. |  |  |
+| 30. | 20704 | A HVB választott tagjainak személyi normatívája vármegyei önkormányzati képviselő- vagy főpolgármester-választás esetén. |  |  |
 
 | 31. | 207041 | A HVB tagjainak személyi normatívája egy szavazókörös településen, a 20101 és 20102 jogcímeken felül. | 5 | 50 000 |
 
@@ -102,43 +102,43 @@
 
 | 52. | 40201 | Az SZSZB-be, az egy szavazókörrel rendelkező településen a HVB-be a 208-as jogcím szerint bevont további választott tagok ellátási kiadásai választott tagonként. | 1 | 3 000 |
 
-| 53. | 40202 | A HVB tagjainak ellátási kiadásai HVB-nként megyei önkormányzati képviselő- vagy főpolgármester-választás esetén. | 1 | 24 000 |
+| 53. | 40202 | A HVB tagjainak ellátási kiadásai HVB-nként vármegyei önkormányzati képviselő- vagy főpolgármester-választás esetén. | 1 | 24 000 |
 
-| 54. | MEGYEI KIADÁSOK |  |  |
+| 54. | VÁRMEGYEI KIADÁSOK |  |  |
 
 | 55. | 1. DOLOGI KIADÁSOK |  |  |
 
-| 56. | 131 | A TVI kiadásai megyei önkormányzati képviselő- vagy főpolgármester-választáson |  |  |
+| 56. | 131 | A TVI kiadásai vármegyei önkormányzati képviselő- vagy főpolgármester-választáson |  |  |
 
-| 57. | 13101 | A TVI dologi kiadásai megyénként. | 1 | 55 000 |
+| 57. | 13101 | A TVI dologi kiadásai vármegyénként. | 1 | 55 000 |
 
 | 58. | 134 | Szavazással, eredmény-megállapítással összefüggő kiadások |  |  |
 
-| 59. | 13401 | A TVI és a TVB kiadásai megyei önkormányzati képviselő- vagy főpolgármester-választáson. | 1 | 28 000 |
+| 59. | 13401 | A TVI és a TVB kiadásai vármegyei önkormányzati képviselő- vagy főpolgármester-választáson. | 1 | 28 000 |
 
 | 60. | 2. SZEMÉLYI JUTTATÁSOK |  |  |
 
 | 61. | 234 | A TVI vezetőjének és tagjainak díja választási naponként |  |  |
 
-| 62. | 23401 | A TVI vezetőjének díja megyei önkormányzati képviselő- vagy főpolgármester-választáson. | 1 | 67 000 |
+| 62. | 23401 | A TVI vezetőjének díja vármegyei önkormányzati képviselő- vagy főpolgármester-választáson. | 1 | 67 000 |
 
-| 63. | 23402 | A TVI vezető helyettesének díja megyei önkormányzati képviselő- vagy főpolgármester-választáson. | 1 | 47 000 |
+| 63. | 23402 | A TVI vezető helyettesének díja vármegyei önkormányzati képviselő- vagy főpolgármester-választáson. | 1 | 47 000 |
 
 | 64. | 23403 | A TVI pénzügyi felelősének díja. |  |  |
 
-| 65. | 234031 | A TVI pénzügyi felelősének díja megyei önkormányzati képviselő- vagy főpolgármester-választáson. | 1 | 67 000 |
+| 65. | 234031 | A TVI pénzügyi felelősének díja vármegyei önkormányzati képviselő- vagy főpolgármester-választáson. | 1 | 67 000 |
 
 | 66. | 234032 | A TVI pénzügyi felelősének díja polgármester, illetve települési önkormányzati képviselő választáson. | 1 | 54 000 |
 
-| 67. | 23404 | A TVI informatikai felelősének díja megyei önkormányzati képviselő- vagy főpolgármester-választáson. | 1 | 47 000 |
+| 67. | 23404 | A TVI informatikai felelősének díja vármegyei önkormányzati képviselő- vagy főpolgármester-választáson. | 1 | 47 000 |
 
 | 68. | 23405 | A TVI további 1 tagjának díja. |  |  |
 
-| 69. | 234051 | A TVI további 1 tagjának díja megyei önkormányzati képviselő- vagy főpolgármester-választáson. | 1 | 47 000 |
+| 69. | 234051 | A TVI további 1 tagjának díja vármegyei önkormányzati képviselő- vagy főpolgármester-választáson. | 1 | 47 000 |
 
 | 70. | 234052 | A TVI további 1 tagjának díja polgármester, illetve települési önkormányzati képviselő-választáson. | 1 | 47 000 |
 
-| 71. | 236 | A TVB 3 választott tagjának személyi juttatásai megyei önkormányzati képviselő- vagy főpolgármester-választás esetén |  |  |
+| 71. | 236 | A TVB 3 választott tagjának személyi juttatásai vármegyei önkormányzati képviselő- vagy főpolgármester-választás esetén |  |  |
 
 | 72. | 23601 | A TVB 3 választott tagjának díja. | 3 | 70 000 |
 
@@ -166,16 +166,16 @@
 
 | 84. | 431 | Étkezési ellátás bruttó kiadásai |  |  |
 
-| 85. | 43101 | A TVI ellátási kiadásai megyei önkormányzati képviselő- vagy főpolgármester-választáson. | 1 | 20 000 |
+| 85. | 43101 | A TVI ellátási kiadásai vármegyei önkormányzati képviselő- vagy főpolgármester-választáson. | 1 | 20 000 |
 
-| 86. | 43102 | A TVB választott és megbízott tagjainak választási ellátási kiadásai megyei önkormányzati képviselő- vagy főpolgármester-választás esetén. | 1 | 39 000 |
+| 86. | 43102 | A TVB választott és megbízott tagjainak választási ellátási kiadásai vármegyei önkormányzati képviselő- vagy főpolgármester-választás esetén. | 1 | 39 000 |
 
 | 87. | 432 | Étkezési ellátás bruttó kiadásai utólagos igényléssel, tényleges igénybevétel alapján |  |  |
 
 | 88. | 43201 | A TVB választott és megbízott tagjainak választási ellátási kiadásai települési önkormányzati választás esetén. | 1 | 39 000 |
 
-4. melléklet a 6/2021. (VIII. 30.) IM rendelethez[^6]
+4. melléklet a 6/2021. (VIII. 30.) IM rendelethez[^10]
 
 Tételek és normatívák a nemzetiségi önkormányzati képviselők időközi választásán a megismételt szavazáson
 
-[^6]: A 4. melléklet a 22/2022. (X. 24.) IM rendelet 3. §-ával megállapított szöveg.
+[^10]: A 4. melléklet a 22/2022. (X. 24.) IM rendelet 3. §-ával megállapított, a 42/2022. (XII. 28.) IM rendelet 15. § 35-37. pontja szerint módosított szöveg.

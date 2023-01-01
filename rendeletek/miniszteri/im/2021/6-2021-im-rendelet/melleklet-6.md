@@ -86,7 +86,7 @@
 
 | 44. | 40201 | Az SZSZB-be, az egy szavazókörrel rendelkező településen a HVB-be a 208-as jogcím szerint bevont további választott tagok ellátási kiadásai választott tagonként. | 1 | 3 000 |
 
-| 45. | MEGYEI KIADÁSOK |  |  |
+| 45. | VÁRMEGYEI KIADÁSOK |  |  |
 
 | 46. | 2. SZEMÉLYI JUTTATÁSOK |  |  |
 
@@ -108,8 +108,8 @@
 
 | 55. | 43201 | A TVB választott és megbízott tagjainak választási ellátási kiadásai. | 1 | 60 000 |
 
-6. melléklet a 6/2021. (VIII. 30.) IM rendelethez[^8]
+6. melléklet a 6/2021. (VIII. 30.) IM rendelethez[^12]
 
 Tételek és normatívák a területi szintű helyi népszavazáson
 
-[^8]: A 6. melléklet a 22/2022. (X. 24.) IM rendelet 3. §-ával megállapított szöveg.
+[^12]: A 6. melléklet a 22/2022. (X. 24.) IM rendelet 3. §-ával megállapított, a 42/2022. (XII. 28.) IM rendelet 15. § 39. pontja szerint módosított szöveg.

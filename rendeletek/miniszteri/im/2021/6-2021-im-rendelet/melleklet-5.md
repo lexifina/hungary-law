@@ -90,13 +90,13 @@
 
 | 46. | 40202 | A HVB tagjainak ellátási kiadásai HVB-nként, területi és országos nemzetiségi önkormányzati képviselők választása esetén. | 1 | 24 000 |
 
-| 47. | MEGYEI KIADÁSOK |  |  |
+| 47. | VÁRMEGYEI KIADÁSOK |  |  |
 
 | 48. | 1. DOLOGI KIADÁSOK |  |  |
 
 | 49. | 131 | A TVI kiadásai területi és országos nemzetiségi önkormányzati képviselők választásán |  |  |
 
-| 50. | 13101 | A TVI dologi kiadásai megyénként. | 1 | 55 000 |
+| 50. | 13101 | A TVI dologi kiadásai vármegyénként. | 1 | 55 000 |
 
 | 51. | 134 | Szavazással, eredmény-megállapítással összefüggő kiadások |  |  |
 
@@ -124,7 +124,7 @@
 
 | 63. | 234052 | A TVI további 1 tagjának díja települési nemzetiségi önkormányzati képviselők választásán. | 1 | 40 000 |
 
-| 64. | 236 | A TVB választott tagjainak személyi juttatásai területi és országos nemzetiségi választás esetén megyénként |  |  |
+| 64. | 236 | A TVB választott tagjainak személyi juttatásai területi és országos nemzetiségi választás esetén vármegyénként |  |  |
 
 | 65. | 23601 | A TVB 3 választott tagjának díja. | 3 | 49 000 |
 
@@ -164,8 +164,8 @@
 
 | 83. | 43201 | A TVB választott és megbízott tagjainak választási ellátási kiadásai települési nemzetiségi választás esetén. | 1 | 39 000 |
 
-5. melléklet a 6/2021. (VIII. 30.) IM rendelethez[^7]
+5. melléklet a 6/2021. (VIII. 30.) IM rendelethez[^11]
 
 Tételek és normatívák a települési szintű helyi népszavazáson
 
-[^7]: Az 5. melléklet a 22/2022. (X. 24.) IM rendelet 3. §-ával megállapított szöveg.
+[^11]: Az 5. melléklet a 22/2022. (X. 24.) IM rendelet 3. §-ával megállapított, a 42/2022. (XII. 28.) IM rendelet 15. § 38. pontja szerint módosított szöveg.

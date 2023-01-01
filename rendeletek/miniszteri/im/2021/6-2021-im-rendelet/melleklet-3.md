@@ -92,13 +92,13 @@
 
 | 47. | 40202 | A HVB tagjainak ellátási kiadásai HVB-nként, területi és országos nemzetiségi önkormányzati képviselők választása esetén. | 1 | 35 000 |
 
-| 48. | MEGYEI KIADÁSOK |  |  |
+| 48. | VÁRMEGYEI KIADÁSOK |  |  |
 
 | 49. | 1. DOLOGI KIADÁSOK |  |  |
 
 | 50. | 131 | A TVI kiadásai területi és országos nemzetiségi önkormányzati képviselők választásán |  |  |
 
-| 51. | 13101 | A TVI dologi kiadásai megyénként. | 1 | 220 000 |
+| 51. | 13101 | A TVI dologi kiadásai vármegyénként. | 1 | 220 000 |
 
 | 52. | 13104 | Ajánlóívek nyomtatása tényleges igénybevétel alapján (laponként). | 1 | 35 |
 
@@ -168,8 +168,8 @@
 
 | 85. | 43201 | TVB választott és megbízott tagjainak választási ellátási kiadásai települési nemzetiségi választás esetén. | 1 | 60 000 |
 
-3. melléklet a 6/2021. (VIII. 30.) IM rendelethez[^5]
+3. melléklet a 6/2021. (VIII. 30.) IM rendelethez[^9]
 
 Tételek és normatívák a helyi önkormányzati képviselők és a polgármesterek időközi választásán a megismételt szavazáson
 
-[^5]: A 3. melléklet a 22/2022. (X. 24.) IM rendelet 3. §-ával megállapított szöveg.
+[^9]: A 3. melléklet a 22/2022. (X. 24.) IM rendelet 3. §-ával megállapított, a 42/2022. (XII. 28.) IM rendelet 15. § 21-34. pontja szerint módosított szöveg.

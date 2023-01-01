@@ -1,4 +1,4 @@
-3. § (1) Az NVI a választás pénzügyi fedezetének a TVI-t megillető részét az illetékes fővárosi, megyei önkormányzat hivatalának fizetési számlájára utalja át.
+3. § (1)[^3] Az NVI a választás pénzügyi fedezetének a TVI-t megillető részét az illetékes fővárosi, vármegyei önkormányzat hivatalának fizetési számlájára utalja át.
 
 (2) Az NVI a választás pénzügyi fedezetének a HVI-t megillető részét a települési önkormányzat polgármesteri hivatala, közös önkormányzati hivatal esetén a közös önkormányzati hivatal fizetési számlájára utalja át. Eltérő fizetési számlára történő utalásra a HVI kezdeményezésére, az NVI elnökének írásbeli engedélyével van lehetőség.
 
@@ -12,8 +12,12 @@
 
 (7) Települési szintű helyi népszavazás esetén a TVI igényelheti a HVI-től a normatívák szerint a TVI-t megillető összeget, többletköltségeket.
 
-(8) Megyei és a fővárosi szintű (a továbbiakban: területi szintű) helyi népszavazás esetén a HVI igényelheti a TVI-től a normatívák szerint a HVI-t megillető összeget, többletköltségeket.
+(8)[^4] Vármegyei és a fővárosi szintű (a továbbiakban: területi szintű) helyi népszavazás esetén a HVI igényelheti a TVI-től a normatívák szerint a HVI-t megillető összeget, többletköltségeket.
 
-(9) Települési szintű helyi népszavazás dologi kiadásainak összegét a települési önkormányzat képviselő-testülete, a területi szintű helyi népszavazás megyei dologi kiadásainak összegét a megyei önkormányzat képviselő-testülete – az e rendeletben meghatározott normatívákat is figyelembe véve – határozza meg.
+(9)[^5] Települési szintű helyi népszavazás dologi kiadásainak összegét a települési önkormányzat képviselő-testülete, a területi szintű helyi népszavazás vármegyei dologi kiadásainak összegét a vármegyei önkormányzat képviselő-testülete – az e rendeletben meghatározott normatívákat is figyelembe véve – határozza meg.
 
 (10) Helyi népszavazás esetén a 4–9. § rendelkezéseit – a 6. § (5) bekezdése kivételével – nem kell alkalmazni.
+
+[^3]: A 3. § (1) bekezdése a 42/2022. (XII. 28.) IM rendelet 15. § 2. pontja szerint módosított szöveg.
+[^4]: A 3. § (8) bekezdése a 42/2022. (XII. 28.) IM rendelet 15. § 3. pontja szerint módosított szöveg.
+[^5]: A 3. § (9) bekezdése a 42/2022. (XII. 28.) IM rendelet 15. § 4. pontja szerint módosított szöveg.

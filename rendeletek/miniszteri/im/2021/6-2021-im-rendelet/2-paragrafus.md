@@ -16,10 +16,11 @@ b) megismételt szavazás esetén a megismételt szavazáshoz összeállított s
 
 adatai szerint kell megállapítani.
 
-(4) Az 1–4., valamint a 9. mellékletben meghatározott tételeket, normatívákat a választásban érintett megye, település, választókerület, nemzetiség adatai alapján kell figyelembe venni.
+(4)[^1] Az 1–4., valamint a 9. mellékletben meghatározott tételeket, normatívákat a választásban érintett vármegye, település, választókerület, nemzetiség adatai alapján kell figyelembe venni.
 
 (5) Ha a választás elmarad, az ellátandó feladatokkal kapcsolatos normatívák alapján a támogatás megállapításra kerül.
 
-(6)[^1] Az NVI elnöke a (3)–(5) bekezdés szerint számított pénzügyi fedezetről támogatói okiratban értesíti a választási irodát, melyet a választás pénzügyi lebonyolítását támogató informatikai rendszerben (a továbbiakban: informatikai rendszer) a választás napját megelőző kilencedik napig küld meg a választási iroda vezetőjének.
+(6)[^2] Az NVI elnöke a (3)–(5) bekezdés szerint számított pénzügyi fedezetről támogatói okiratban értesíti a választási irodát, melyet a választás pénzügyi lebonyolítását támogató informatikai rendszerben (a továbbiakban: informatikai rendszer) a választás napját megelőző kilencedik napig küld meg a választási iroda vezetőjének.
 
-[^1]: A 2. § (6) bekezdése a 22/2022. (X. 24.) IM rendelet 1. §-ával megállapított szöveg.
+[^1]: A 2. § (4) bekezdése a 42/2022. (XII. 28.) IM rendelet 15. § 1. pontja szerint módosított szöveg.
+[^2]: A 2. § (6) bekezdése a 22/2022. (X. 24.) IM rendelet 1. §-ával megállapított szöveg.
