@@ -1,0 +1,5 @@
+## 1. A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet módosítása
+
+1. § A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet (a továbbiakban: R1.) 18/A. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Ha a 30. életévét be nem töltött hitelfelvevő nőnek a felsőoktatási tanulmányai alatt, vagy azok sikeres befejezését (az oklevél megszerzését) követő két éven belül gyermeke születik, vagy gyermeket fogad örökbe, a fennálló hallgatói hiteltartozása száz százalékának megfelelő összegű vissza nem térítendő gyermektámogatásban részesül, ha a gyermektámogatás iránti kérelmét – a Diákhitel szervezet által e célra rendszeresített nyomtatványon – a gyermek születését, vagy örökbefogadott gyermek esetén az örökbefogadást engedélyező határozat véglegessé válását követő 60 napon belül benyújtja a Diákhitel szervezethez. A kérelem tartalmazza az igénylő 16/A. § (4) bekezdés a) pontjában meghatározott hozzájárulását, vagy a hitelfelvevő nő csatolja a kérelemhez a 16/A. § (4) bekezdés b) pontjában meghatározott dokumentumokat.”
