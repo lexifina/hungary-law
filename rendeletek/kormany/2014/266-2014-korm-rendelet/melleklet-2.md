@@ -2,35 +2,35 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos eljárások | Eljáró hatóság |
 
-| 2. | Tűzihorganyzó és acélszeletelő üzem létesítése | A Wuppermann Hungary Kft. által Gönyű község közigazgatási területén fekvő, az ingatlan- nyilvántartás szerinti 098/2 helyrajzi számú földrészlet, illetve az ebből a földrészletből telekalakítási eljárások végleges befejezését követően kialakított földrészletek | építésügyi hatósági engedélyezési és tudomásulvételi eljárások | Győr-Moson-Sopron Megyei Kormányhivatal |
+| 2. | Tűzihorganyzó és acélszeletelő üzem létesítése | A Wuppermann Hungary Kft. által Gönyű község közigazgatási területén fekvő, az ingatlan- nyilvántartás szerinti 098/2 helyrajzi számú földrészlet, illetve az ebből a földrészletből telekalakítási eljárások végleges befejezését követően kialakított földrészletek | építésügyi hatósági engedélyezési és tudomásulvételi eljárások | Győr-Moson-Sopron Vármegyei Kormányhivatal[^9] |
 
-| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Győr-Moson-Sopron Megyei Kormányhivatal |
+| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Győr-Moson-Sopron Vármegyei Kormányhivatal[^10] |
 
-| 4. | környezetvédelmi hatósági engedélyezési eljárás | Győr-Moson-Sopron Megyei Kormányhivatal |
+| 4. | környezetvédelmi hatósági engedélyezési eljárás | Győr-Moson-Sopron Vármegyei Kormányhivatal[^11] |
 
-| 5. | természetvédelmi hatósági engedélyezési eljárás | Győr-Moson-Sopron Megyei Kormányhivatal |
+| 5. | természetvédelmi hatósági engedélyezési eljárás | Győr-Moson-Sopron Vármegyei Kormányhivatal[^12] |
 
-| 6. | útügyi hatósági engedélyezési eljárás | Győr-Moson-Sopron Megyei Kormányhivatal |
+| 6. | útügyi hatósági engedélyezési eljárás | Győr-Moson-Sopron Vármegyei Kormányhivatal[^13] |
 
-| 7. | vízügyi és vízvédelmi hatósági engedélyezési eljárás | Győr-Moson-Sopron Megyei Katasztrófavédelmi Igazgatóság |
+| 7. | vízügyi és vízvédelmi hatósági engedélyezési eljárás | Győr-Moson-Sopron Vármegyei Katasztrófavédelmi Igazgatóság[^14] |
 
-| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Megyei Kormányhivatal |
+| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Győr-Moson-Sopron Vármegyei Kormányhivatal[^15] |
 
-| 9. | ingatlan- nyilvántartási hatósági eljárás | Győr-Moson-Sopron Megyei Kormányhivatal |
+| 9. | ingatlan- nyilvántartási hatósági eljárás | Győr-Moson-Sopron Vármegyei Kormányhivatal[^16] |
 
-| 10. | telekalakítási hatósági eljárás | Győr-Moson-Sopron Megyei Kormányhivatal |
+| 10. | telekalakítási hatósági eljárás | Győr-Moson-Sopron Vármegyei Kormányhivatal[^17] |
 
-| 11. | földvédelmi hatósági eljárás | Győr-Moson-Sopron Megyei Kormányhivatal |
+| 11. | földvédelmi hatósági eljárás | Győr-Moson-Sopron Vármegyei Kormányhivatal[^18] |
 
-| 12. | földmérési hatósági eljárás | Győr-Moson-Sopron Megyei Kormányhivatal |
+| 12. | földmérési hatósági eljárás | Győr-Moson-Sopron Vármegyei Kormányhivatal[^19] |
 
 | 13. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 14. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Veszprém Megyei Kormányhivatal |
+| 14. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Veszprém Vármegyei Kormányhivatal[^20] |
 
-| 15. | bányahatósági engedélyezési eljárás | Veszprém Megyei Kormányhivatal |
+| 15. | bányahatósági engedélyezési eljárás | Veszprém Vármegyei Kormányhivatal[^21] |
 
-| 16. | talajvédelmi hatósági engedélyezési eljárás | Győr-Moson-Sopron Megyei Kormányhivatal |
+| 16. | talajvédelmi hatósági engedélyezési eljárás | Győr-Moson-Sopron Vármegyei Kormányhivatal[^22] |
 
 | 17. | vasúti hatósági engedélyezési eljárás | közlekedésért felelős miniszter |
 
@@ -42,6 +42,20 @@
 
 | 21. | veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
 
-2. melléklet a 266/2014. (X. 21.) Korm. rendelethez[^9]
+2. melléklet a 266/2014. (X. 21.) Korm. rendelethez[^23]
 
-[^9]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 163. § d) pontja hatályon kívül helyezte.
+[^9]: Az 1. mellékletben foglalt táblázat D:2 mezője az 546/2022. (XII. 22.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^10]: Az 1. mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^11]: Az 1. mellékletben foglalt táblázat D:4 mezője az 546/2022. (XII. 22.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^12]: Az 1. mellékletben foglalt táblázat D:5 mezője az 546/2022. (XII. 22.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^13]: Az 1. mellékletben foglalt táblázat D:6 mezője az 546/2022. (XII. 22.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^14]: Az 1. mellékletben foglalt táblázat D:7 mezője az 546/2022. (XII. 22.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^15]: Az 1. mellékletben foglalt táblázat D:8 mezője az 546/2022. (XII. 22.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^16]: Az 1. mellékletben foglalt táblázat D:9 mezője az 546/2022. (XII. 22.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^17]: Az 1. mellékletben foglalt táblázat D:10 mezője az 546/2022. (XII. 22.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^18]: Az 1. mellékletben foglalt táblázat D:11 mezője az 546/2022. (XII. 22.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^19]: Az 1. mellékletben foglalt táblázat D:12 mezője az 546/2022. (XII. 22.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^20]: Az 1. mellékletben foglalt táblázat D:14 mezője az 546/2022. (XII. 22.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^21]: Az 1. mellékletben foglalt táblázat D:15 mezője az 546/2022. (XII. 22.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^22]: Az 1. mellékletben foglalt táblázat D:16 mezője az 546/2022. (XII. 22.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^23]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 163. § d) pontja hatályon kívül helyezte.
