@@ -1,5 +1,3 @@
-## 18/A. §[^56]
-
 ## 6. A Hivatal végzettség elismerésével kapcsolatos feladatai
 
 19. §[^57] (1) A Hivatal ekvivalencia- és információs központként
@@ -44,7 +42,6 @@ a) statisztikai adatokat szolgáltat az Európai Bizottság részére,
 
 b) a riasztási mechanizmusban közreműködő hatóságként az Etv. 55. §-a szerint tájékoztatja a többi tagállam illetékes hatóságát.
 
-[^56]: A 18/A. §-t a 268/2014. (XI. 3.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 210/2015. (VII. 23.) Korm. rendelet 11. §-a.
 [^57]: A 19. § a 198/2015. (VII. 23.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 8. §-a alapján a 2016. január 1-jén folyamatban levő ügyekben is alkalmazni kell.
 [^58]: A 19. § (1) bekezdés a) pont aa) alpontja a 191/2019. (VII. 30.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
 [^59]: A 19. § (2) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 442. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
