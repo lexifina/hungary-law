@@ -1,1 +1,0 @@
-## 7. § A Kormány a 2. melléklet 2. pontjában foglalt táblázat 3–7. sorában megjelölt ingatlanok esetében a Turizmus tv. 4. § (4) bekezdése szerinti beruházó és fenntartó vagyonkezelőként a Helikon Kastélymúzeum Közhasznú Nonprofit Korlátolt Felelősségű Társaságot határozza meg.

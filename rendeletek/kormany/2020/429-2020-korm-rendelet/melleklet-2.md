@@ -1,6 +1,6 @@
-2. melléklet a 429/2020. (IX. 14.) Korm. rendelethez[^3]
+2. melléklet a 429/2020. (IX. 14.) Korm. rendelethez[^5]
 
-## Kiemelt állami turisztikai beruházások, egyéb kiemelt turisztikai jelentőségű állami ingatlanok
+Kiemelt állami turisztikai beruházások, egyéb kiemelt turisztikai jelentőségű állami ingatlanok
 
 1. Sopron-Fertő turisztikai térség
 
@@ -44,4 +44,4 @@
 
 3.
 
-[^3]: A 2. melléklet a 633/2020. (XII. 22.) Korm. rendelet 3. §-ával megállapított, a 424/2021. (VII. 15.) Korm. rendelet 2. §-a, az 593/2021. (X. 27.) Korm. rendelet 3. §-a, a 239/2022. (VI. 30.) Korm. rendelet 46. §-a szerint módosított szöveg.
+[^5]: A 2. melléklet a 633/2020. (XII. 22.) Korm. rendelet 3. §-ával megállapított, a 424/2021. (VII. 15.) Korm. rendelet 2. §-a, az 593/2021. (X. 27.) Korm. rendelet 3. §-a, a 239/2022. (VI. 30.) Korm. rendelet 46. §-a szerint módosított szöveg.
