@@ -1,3 +1,3 @@
-20. §[^27]
+20. §[^28]
 
-[^27]: A 20. § a 17. § alapján hatályát vesztette.
+[^28]: A 20. § a 17. § alapján hatályát vesztette.

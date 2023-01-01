@@ -28,8 +28,8 @@ g) szükség esetén tartalmazza a feladatok végrehajtásához szükséges műs
 
 h) tartalmazza a részterv karbantartásának, a változásokat követő aktualizálásának gyakoriságát, felelősét.
 
-i)[^11] ha a tervet irányított intézmény készíti, úgy ki kell térni a tervben az irányító intézménnyel való kapcsolattartásra, riasztási rendre, intézkedések tervezett rendszerére.
+i)[^12] ha a tervet irányított intézmény készíti, úgy ki kell térni a tervben az irányító intézménnyel való kapcsolattartásra, riasztási rendre, intézkedések tervezett rendszerére.
 
 (4) Az egyes résztervekre vonatkozó részletes előírásokat a 2. melléklet tartalmazza.
 
-[^11]: A 3. § (3) bekezdés i) pontját a 41/2022. (XII. 9.) BM rendelet 19. §-a iktatta be.
+[^12]: A 3. § (3) bekezdés i) pontját a 41/2022. (XII. 9.) BM rendelet 19. §-a iktatta be.
