@@ -4,4 +4,4 @@
 
 (3) A 6/G. § a)–c) pontjában meghatározott nyilvántartások adatai – a (2) bekezdésben meghatározott adatok kivételével – nyilvánosak.
 
-(4) Az élelmiszerlánc-felügyeletért felelős miniszter, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal, valamint járási hivatal törvényben meghatározott feladatai ellátása céljából jogosult az (1) bekezdés szerinti nyilvántartásba közvetlenül betekinteni.
+(4) Az élelmiszerlánc-felügyeletért felelős miniszter, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal, valamint járási hivatal törvényben meghatározott feladatai ellátása céljából jogosult az (1) bekezdés szerinti nyilvántartásba közvetlenül betekinteni.

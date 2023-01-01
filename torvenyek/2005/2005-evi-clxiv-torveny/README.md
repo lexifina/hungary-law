@@ -42,3 +42,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-164-00-00
 | 2021-09-01 | 2021. évi XCVIII. törvény | 2005-164-00-00.44 |
 | 2022-08-25 | 2022. évi XXII. törvény | 2005-164-00-00.45 |
 | 2022-12-27 | 2022. évi LXI. törvény | 2005-164-00-00.47 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2005-164-00-00.46 |
