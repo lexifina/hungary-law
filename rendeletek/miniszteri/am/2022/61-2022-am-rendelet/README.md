@@ -1,0 +1,9 @@
+# 61/2022. (XII. 27.) AM rendelet
+
+a növényegészségügyi feladatok végrehajtásának részletes szabályairól szóló 7/2001. (I. 17.) FVM rendeletnek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-61-20-7R
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-01-01 | 2022-61-20-7R.1 | 61/2022. (XII. 27.) AM rendelet |
