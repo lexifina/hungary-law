@@ -1,3 +1,6 @@
-7. § (1) Ismeretlen személyazonosságú személy, ismeretlen holttest vagy holttestrész azonosításával kapcsolatos körözési eljárás lefolytatására – a (2) bekezdésben meghatározott kivétellel – a személy, holttest vagy holttestrész megtalálási helye szerint illetékes rendőrkapitányság, ha az ügyben nyomozás indult, az eljáró nyomozó hatóság jogosult.
+7. § (1)[^22] Ismeretlen személyazonosságú személy, ismeretlen holttest vagy holttestrész azonosításával kapcsolatos körözési eljárás lefolytatására a személy, holttest vagy holttestrész megtalálási helye szerint illetékes rendőrkapitányság, ha az ügyben nyomozás indult, az eljáró nyomozó hatóság jogosult.
 
-(2) Az ismeretlen személyazonosságú holttest vagy holttestrész azonosításával kapcsolatos körözési eljárás lefolytatására a Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 11. § (4) bekezdésében és 12. § (4) bekezdésében meghatározott esetben az ott megjelölt rendőri szerv illetékes.
+(2)[^23]
+
+[^22]: A 7. § (1) bekezdése a 67/2022. (XII. 27.) BM rendelet 6. § a) pontja szerint módosított szöveg.
+[^23]: A 7. § (2) bekezdését a 67/2022. (XII. 27.) BM rendelet 6. § b) pontja hatályon kívül helyezte.

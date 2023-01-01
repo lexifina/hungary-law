@@ -12,7 +12,7 @@ ad) 6. § (2) bekezdés a) pont aa), ad), ae) alpontjában, b) pont ba), bb) alp
 
 ae) ismeretlen személy körözése esetén a Körtv. 3. § (2) bekezdés b) pont bb), bc), bd) alpontjában, d) pont da) alpontjában, valamint i) és j) pontjában meghatározott adatokat;
 
-b) rendelkezésre állásuk esetén – az a) pontban meghatározott adatokon kívül – a Körtv. 3–6. §-ában meghatározott adatokat.
+b)[^2] rendelkezésükre állásuk esetén – az a) pontban meghatározott adatokon kívül, a Körtv. 3. § (2) bekezdés j) pont jb) alpontja szerinti adatok kivételével – a Körtv. 3–6. §-ában meghatározott adatokat.
 
 (2) Ha a körözési eljárás lefolytatására illetékességgel rendelkező rendőri szerv (a továbbiakban:a körözési eljárást lefolytató rendőri szerv) tudomására jut a körözött személy ujjnyomat adata, akkor azt a körözési nyilvántartási rendszerben a Körtv. 3. § b) pont be) alpontjában meghatározott adatok között kell rögzíteni.
 
@@ -22,6 +22,7 @@ b) rendelkezésre állásuk esetén – az a) pontban meghatározott adatokon k�
 
 (5) Európai elfogatóparancs kibocsátása esetén az adatrögzítő szerv az (1) bekezdésben meghatározott adatokon túl a SIS II. tv. által meghatározott adatokat, valamint az aláírt és bélyegzővel ellátott elfogatóparancs PDF formátumú elektronikus példányát is rögzíti a körözési nyilvántartási rendszerben.
 
-(6)[^2]
+(6)[^3]
 
-[^2]: A 3. § (6) bekezdését a 40/2017. (XII. 29.) BM rendelet 8. § (4) bekezdése hatályon kívül helyezte.
+[^2]: A 3. § (1) bekezdés b) pontja a 67/2022. (XII. 27.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^3]: A 3. § (6) bekezdését a 40/2017. (XII. 29.) BM rendelet 8. § (4) bekezdése hatályon kívül helyezte.
