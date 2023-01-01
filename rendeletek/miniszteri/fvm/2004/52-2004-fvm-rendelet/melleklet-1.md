@@ -1,6 +1,6 @@
 1. számú melléklet a 52/2004. (IV. 24.) FVM rendelethez
 
-## Termékek, amelyek kereskedelmének állategészségügyi szabályait közösségi szinten meghatározták, és az azokat érintő közösségi irányelvek jegyzéke
+Termékek, amelyek kereskedelmének állategészségügyi szabályait közösségi szinten meghatározták, és az azokat érintő közösségi irányelvek jegyzéke
 
 A. rész
 

@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-52-20-8
 | 2014-03-15 | 2004-52-20-82.6 | 151/2012. (XII. 29.) VM rendelet |
 | 2017-08-18 | 2004-52-20-82.7 | 42/2017. (VIII. 17.) FM rendelet |
 | 2017-12-30 | 2004-52-20-82.8 | 69/2017. (XII. 27.) FM rendelet |
+| 2023-01-01 | 2004-52-20-82.9 | 42/2017. (VIII. 17.) FM rendelet |

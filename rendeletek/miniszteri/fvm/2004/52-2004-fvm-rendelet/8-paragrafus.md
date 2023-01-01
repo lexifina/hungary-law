@@ -16,7 +16,7 @@ b) megbíz egy olyan, az érintett felek által elfogadott hatósági állatorvo
 
 c)[^27] felszólítja a minisztériumot, hogy az érintett létesítmény termékeiből – a járási hivatalon vagy Nemzeti Élelmiszerlánc-biztonsági Hivatalon keresztül – gyakrabban vegyen mintát,
 
-## akkor a felsorolt intézkedések végrehajtásával kapcsolatban az érintett létesítmény köteles együttműködni.
+akkor a felsorolt intézkedések végrehajtásával kapcsolatban az érintett létesítmény köteles együttműködni.
 
 (3)[^28] Ha a 7. § (1) és (5) bekezdése szerinti esetben a termék Magyarországról származik, az Európai Bizottság végső állásfoglalásáig a rendeltetési tagállam indítványára a minisztérium az érintett létesítményből származó termékek ellenőrzését megszigorítja, és ha súlyos, az állategészségügyet vagy közegészségügyet érintő okok állnak fenn, a létesítmény működési engedélyét felfüggeszti.
 
