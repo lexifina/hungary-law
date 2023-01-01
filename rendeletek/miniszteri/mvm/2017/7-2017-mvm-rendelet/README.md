@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-7-20-6N
 | 2017-03-16 | 2017-7-20-6N.2 | 2010: CXXX. törvény |
 | 2017-10-08 | 2017-7-20-6N.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2019-12-21 | 2017-7-20-6N.4 | 2010: CXXX. törvény |
+| 2023-01-01 | 2017-7-20-6N.5 | 13/2022. (XII. 27.) ÉKM rendelet |

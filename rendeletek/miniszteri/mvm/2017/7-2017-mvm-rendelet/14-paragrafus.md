@@ -1,4 +1,4 @@
-14. § (1) Az Országos Műemléki Felügyelőség 273/1990. számú határozatával védetté nyilvánított Bölcske (Tolna megye) 0419 helyrajzi számú ingatlan telekalakítások során létrejött
+14. § (1)[^11] Az Országos Műemléki Felügyelőség 273/1990. számú határozatával védetté nyilvánított Bölcske (Tolna vármegye) 0419 helyrajzi számú ingatlan telekalakítások során létrejött
 
 a) 0419/3 és 0419/12 helyrajzi számú földrészleten nyilvántartott kertészlak, magtár, parádés istálló műemléki védettségét – a műemléki érték megsemmisülésére tekintettel –,
 
@@ -11,3 +11,5 @@ megszüntetem.
 (3) Műemléki környezetként jelölöm ki a Bölcske 0365/2, 0418/5, 0419/14, 0423, 0425, 0436/2, 0436/3, 0437/1 helyrajzi számú ingatlanokat.
 
 (4) A műemlékké nyilvánítás célja a Szakáts-kastély történeti kertjének és táji környezetének megőrzése.
+
+[^11]: A 14. § (1) bekezdés nyitó szövegrésze a 13/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.
