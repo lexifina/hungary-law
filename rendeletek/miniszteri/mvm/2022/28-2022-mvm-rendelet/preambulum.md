@@ -1,0 +1,1 @@
+A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 38. § (2) bekezdés a) és i) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 30. § (1) bekezdés 11. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
