@@ -14,14 +14,16 @@ e) a lemondás és az egyoldalú szerződésbontás szabályairól és korlátoz
 
 f) az adható egyéb juttatásokról,
 
-g) a honvéd jogállásával összefüggő jogainak érvényesítése és kötelezettségeinek teljesítése céljából a honvédségi adatkezelésről, az egyes honvédelmi kötelezettségek teljesítésével kapcsolatos katonai igazgatási feladatokról szóló törvény (a továbbiakban: Adat tv.) szerinti kötelező adatkezelésről, a nyilvántartandó adatok köréről, és az adatok nyilvántartásának időtartamáról, és
+g)[^146] a honvéd jogállásával összefüggő jogainak érvényesítése és kötelezettségeinek teljesítése céljából a honvédelmi adatkezelésekről szóló törvény (a továbbiakban: Haktv.) szerinti kötelező adatkezelésről, a nyilvántartandó adatok köréről, és az adatok nyilvántartásának időtartamáról, és
 
 h) a Hjt. 38. § (4) bekezdése esetén próbaidős rendfokozat elvesztéséről.
 
-(1a)[^145] A Hjt. 35. § (2) bekezdése szerinti állomány esetében az (1) bekezdés szerinti tájékoztatást az (1) bekezdés d), e), g) és h) pontja szerinti tartalomra nézve kell megadni. A tájékoztatást az (1) bekezdés b), c), illetve f) pontja szerinti tartalomra nézve is meg kell adni, ha a szabadság megállapítására és kiadására a Honvédségnél irányadó szabályokat kell a vezényelt esetében alkalmazni, illetve az (1) bekezdés c) és f) pontja szerinti járandóságok költsége a Honvédséget terheli.
+(1a)[^147] A Hjt. 35. § (2) bekezdése szerinti állomány esetében az (1) bekezdés szerinti tájékoztatást az (1) bekezdés d), e), g) és h) pontja szerinti tartalomra nézve kell megadni. A tájékoztatást az (1) bekezdés b), c), illetve f) pontja szerinti tartalomra nézve is meg kell adni, ha a szabadság megállapítására és kiadására a Honvédségnél irányadó szabályokat kell a vezényelt esetében alkalmazni, illetve az (1) bekezdés c) és f) pontja szerinti járandóságok költsége a Honvédséget terheli.
 
 (2) Az (1) bekezdés a)–c), és f) pontja szerinti tájékoztatás megadható az érintett adatokra irányadó jogszabály, közjogi szervezetszabályozó eszköz vagy belső rendelkezés rendelkezésére történő hivatkozással.
 
-(3) Az (1) bekezdés g) pontja szerinti tájékoztatásra az Adat tv. rendelkezéseire történő hivatkozással kerül sor.
+(3)[^148] Az (1) bekezdés g) pontja szerinti tájékoztatásra a Haktv. rendelkezéseire történő hivatkozással kerül sor.
 
-[^145]: A 33. § (1a) bekezdését a 10/2017. (VIII. 31.) HM rendelet 8. §-a iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 31. § d) pontja szerint módosított szöveg.
+[^146]: A 33. § (1) bekezdés g) pontja a 19/2022. (XII. 28.) HM rendelet 5. § d) pontja szerint módosított szöveg.
+[^147]: A 33. § (1a) bekezdését a 10/2017. (VIII. 31.) HM rendelet 8. §-a iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 31. § d) pontja szerint módosított szöveg.
+[^148]: A 33. § (3) bekezdése a 19/2022. (XII. 28.) HM rendelet 5. § e) pontja szerint módosított szöveg.

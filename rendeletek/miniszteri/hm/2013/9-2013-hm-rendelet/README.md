@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-9-20-15
 | 2022-10-01 | 2013-9-20-15.40 | 13/2022. (IX. 30.) HM rendelet |
 | 2022-12-21 | 2013-9-20-15.41 | 15/2022. (XII. 20.) HM rendelet |
 | 2022-12-23 | 2013-9-20-15.42 | 16/2022. (XII. 22.) HM rendelet |
+| 2023-01-01 | 2013-9-20-15.43 | 19/2022. (XII. 28.) HM rendelet |

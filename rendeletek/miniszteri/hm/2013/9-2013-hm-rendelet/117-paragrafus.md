@@ -6,7 +6,7 @@
 
 (4) A részletfizetési megállapodásban rögzíteni kell különösen
 
-a)[^300] az állomány megtérítésre kötelezett tagjának nevét, a tartozás jogcímét, a tartozás teljes összegét, a fizetési könnyítés engedélyezéséről szóló ügyirat nyilvántartási számát,
+a)[^303] az állomány megtérítésre kötelezett tagjának nevét, a tartozás jogcímét, a tartozás teljes összegét, a fizetési könnyítés engedélyezéséről szóló ügyirat nyilvántartási számát,
 
 b) a befizetés módját, átutalás esetén a bankszámlaszámot,
 
@@ -20,10 +20,10 @@ f) a részletfizetési megállapodás aláírása napján érvényes jegybanki a
 
 (5) A Honvédség a kamatköveteléséről nem mondhat le.
 
-(6)[^301] Az (1) bekezdés szerinti megállapodást a munkáltató képviseletében az állományilletékes parancsnok írja alá.
+(6)[^304] Az (1) bekezdés szerinti megállapodást a munkáltató képviseletében az állományilletékes parancsnok írja alá.
 
-(7)[^302] A 115. és 116. §-t, valamint az (1)–(6) bekezdést a honvédségi ösztöndíjas ösztöndíjszerződése alapján keletkezett megtérítési kötelezettségre is alkalmazni kell azzal, hogy ez esetben a 115. § a) pontja szerinti írásbeli tájékoztatás a Hjt. 88. § (4a) bekezdése szerinti mentesítésre történő utalást nem tartalmazza.
+(7)[^305] A 115. és 116. §-t, valamint az (1)–(6) bekezdést a honvédségi ösztöndíjas ösztöndíjszerződése alapján keletkezett megtérítési kötelezettségre is alkalmazni kell azzal, hogy ez esetben a 115. § a) pontja szerinti írásbeli tájékoztatás a Hjt. 88. § (4a) bekezdése szerinti mentesítésre történő utalást nem tartalmazza.
 
-[^300]: A 117. § (4) bekezdés a) pontja a 25/2016. (XII. 22.) HM rendelet 33. § (1) bekezdésével megállapított szöveg.
-[^301]: A 117. § (6) bekezdését a 25/2016. (XII. 22.) HM rendelet 33. § (2) bekezdése iktatta be.
-[^302]: A 117. § (7) bekezdését a 10/2017. (VIII. 31.) HM rendelet 19. §-a iktatta be.
+[^303]: A 117. § (4) bekezdés a) pontja a 25/2016. (XII. 22.) HM rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^304]: A 117. § (6) bekezdését a 25/2016. (XII. 22.) HM rendelet 33. § (2) bekezdése iktatta be.
+[^305]: A 117. § (7) bekezdését a 10/2017. (VIII. 31.) HM rendelet 19. §-a iktatta be.

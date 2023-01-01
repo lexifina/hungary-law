@@ -1,3 +1,3 @@
-98. §[^254]
+98. §[^257]
 
-[^254]: A 98. §-t a 13/2020. (X. 14.) HM rendelet 32. § 10. pontja hatályon kívül helyezte.
+[^257]: A 98. §-t a 13/2020. (X. 14.) HM rendelet 32. § 10. pontja hatályon kívül helyezte.

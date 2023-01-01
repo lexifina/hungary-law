@@ -1,8 +1,8 @@
 158. § (1) A méltatlansági bizottság elnöke
 
-a)[^372] tábornok esetén az MH PK vagy az általa kijelölt tábornok,
+a)[^375] tábornok esetén az MH PK vagy az általa kijelölt tábornok,
 
-b)[^373] főtiszt, tiszt, zászlós, altiszt esetén az MH PK által kijelölt személy, és
+b)[^376] főtiszt, tiszt, zászlós, altiszt esetén az MH PK által kijelölt személy, és
 
 c) a legénységi állomány tagja esetén az állományilletékes parancsnok.
 
@@ -14,8 +14,8 @@ b) olyan személy, aki ugyanazon honvédségi szervezetnél teljesít szolgálat
 
 c) legénységi állományba tartozó személy, ha a méltatlansági eljárás a legénységi állomány tagjával szemben folyik.
 
-(3)[^374] A méltatlansági bizottság elnökét és tagjait a 155. § (2) és (3) bekezdése esetén, az ügyet magához vonó miniszter, vagy az MH PK az (1) és a (2) bekezdésre figyelemmel jelöli ki.
+(3)[^377] A méltatlansági bizottság elnökét és tagjait a 155. § (2) és (3) bekezdése esetén, az ügyet magához vonó miniszter, vagy az MH PK az (1) és a (2) bekezdésre figyelemmel jelöli ki.
 
-[^372]: A 158. § (1) bekezdés a) pontja a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
-[^373]: A 158. § (1) bekezdés b) pontja a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
-[^374]: A 158. § (3) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
+[^375]: A 158. § (1) bekezdés a) pontja a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
+[^376]: A 158. § (1) bekezdés b) pontja a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.
+[^377]: A 158. § (3) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 2. pontja szerint módosított szöveg.

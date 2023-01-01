@@ -22,12 +22,12 @@ a) a szerződéses szolgálati viszony a hivatásos állományba vétel napját 
 
 b) a megszűnést a hivatásos állományba vételről szóló munkáltatói döntésben rögzíteni kell.
 
-(3)[^182] A Hjt. 68. § (1) bekezdés n) pontja szerinti esetben a szolgálati viszony megszűnésének időpontja a mentesítést megállapító döntés kiadmányozásától számított 30. nap.
+(3)[^185] A Hjt. 68. § (1) bekezdés n) pontja szerinti esetben a szolgálati viszony megszűnésének időpontja a mentesítést megállapító döntés kiadmányozásától számított 30. nap.
 
-(4)[^183] A Hjt. 68. § (1) bekezdés o) pontja szerinti esetben a szolgálati viszony megszűnésének időpontja a munkaszerződés megkötését, kormányzati szolgálati jogviszony létesítése esetén a kinevezés elfogadását követő 30. nap.
+(4)[^186] A Hjt. 68. § (1) bekezdés o) pontja szerinti esetben a szolgálati viszony megszűnésének időpontja a munkaszerződés megkötését, kormányzati szolgálati jogviszony létesítése esetén a kinevezés elfogadását követő 30. nap.
 
-(5)[^184] A Hjt. 68/B. § (4) bekezdés b) pontja szerinti munkaszerződésben vagy a kormányzati szolgálati jogviszonyba történő kinevezési okmányban a munkaviszony vagy a kormányzati szolgálati jogviszony kezdeteként a szolgálati viszony megszűnését követő napot kell meghatározni.
+(5)[^187] A Hjt. 68/B. § (4) bekezdés b) pontja szerinti munkaszerződésben vagy a kormányzati szolgálati jogviszonyba történő kinevezési okmányban a munkaviszony vagy a kormányzati szolgálati jogviszony kezdeteként a szolgálati viszony megszűnését követő napot kell meghatározni.
 
-[^182]: Az 58. § (3) bekezdését a 25/2016. (XII. 22.) HM rendelet 21. §-a iktatta be.
-[^183]: Az 58. § (4) bekezdését a 25/2016. (XII. 22.) HM rendelet 21. §-a iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 11. §-ával megállapított szöveg.
-[^184]: Az 58. § (5) bekezdését a 25/2016. (XII. 22.) HM rendelet 21. §-a iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 11. §-ával megállapított szöveg.
+[^185]: Az 58. § (3) bekezdését a 25/2016. (XII. 22.) HM rendelet 21. §-a iktatta be.
+[^186]: Az 58. § (4) bekezdését a 25/2016. (XII. 22.) HM rendelet 21. §-a iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 11. §-ával megállapított szöveg.
+[^187]: Az 58. § (5) bekezdését a 25/2016. (XII. 22.) HM rendelet 21. §-a iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 11. §-ával megállapított szöveg.

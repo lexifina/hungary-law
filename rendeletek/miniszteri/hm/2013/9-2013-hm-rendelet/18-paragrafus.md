@@ -8,18 +8,18 @@ b) a Hjt. 25. § (1) bekezdése szerint döntését az állomány tagjának kér
 
 rögzíti a tudomásszerzést követő 8 napon belül.
 
-(2)[^87] Ha az állomány tagjának külföldre utazása tervezetten a három napot meghaladja, köteles a távollét tervezett időtartamát és a külföldi ország megnevezését a külföldre utazás megkezdése előtt legalább egy héttel a közvetlen szolgálati elöljáró útján az állományilletékes parancsnoknak vagy az állományilletékes parancsnok által belső rendelkezésben kijelölt hivatali felettesnek vagy szolgálati elöljárónak bejelenteni.
+(2)[^88] Ha az állomány tagjának külföldre utazása tervezetten a három napot meghaladja, köteles a távollét tervezett időtartamát és a külföldi ország megnevezését a külföldre utazás megkezdése előtt legalább egy héttel a közvetlen szolgálati elöljáró útján az állományilletékes parancsnoknak vagy az állományilletékes parancsnok által belső rendelkezésben kijelölt hivatali felettesnek vagy szolgálati elöljárónak bejelenteni.
 
-(2a)[^88] A (2) bekezdés szerinti bejelentést a honvédelmi szervezet személyügyi szervének vezetője részére meg kell küldeni annak a személyügyi nyilvántartásban történő tárolása céljából.
+(2a)[^89] A (2) bekezdés szerinti bejelentést a honvédelmi szervezet személyügyi szervének vezetője részére meg kell küldeni annak a személyügyi nyilvántartásban történő tárolása céljából.
 
-(3)[^89] A Hjt. 25. § (3) bekezdése szerinti visszarendelést az állomány tagjával a szolgálatteljesítésre kötelezés előtt legalább 24 órával korábban, ha ezt a szolgálati érdek nem teszi lehetővé, akkor a lehető legkorábban közölni kell.
+(3)[^90] A Hjt. 25. § (3) bekezdése szerinti visszarendelést az állomány tagjával a szolgálatteljesítésre kötelezés előtt legalább 24 órával korábban, ha ezt a szolgálati érdek nem teszi lehetővé, akkor a lehető legkorábban közölni kell.
 
-(4)[^90]
+(4)[^91]
 
-(5)[^91] Ha a visszarendelés 1 napot meghaladóan engedélyezett szabadság ideje alatt történik, és a szolgálatteljesítés meghaladja az 1 munkanapot, a szabadságot ismételten ki kell adni.
+(5)[^92] Ha a visszarendelés 1 napot meghaladóan engedélyezett szabadság ideje alatt történik, és a szolgálatteljesítés meghaladja az 1 munkanapot, a szabadságot ismételten ki kell adni.
 
-[^87]: A 18. § (2) bekezdése a 4/2020. (II. 28.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^88]: A 18. § (2a) bekezdését a 4/2020. (II. 28.) HM rendelet 2. § (2) bekezdése iktatta be.
-[^89]: A 18. § (3) bekezdését a 10/2016. (VI. 29.) HM rendelet 8. §-a iktatta be.
-[^90]: A 18. § (4) bekezdését a 10/2016. (VI. 29.) HM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 25/2016. (XII. 22.) HM rendelet 49. § a) pontja.
-[^91]: A 18. § (5) bekezdését a 10/2016. (VI. 29.) HM rendelet 8. §-a iktatta be.
+[^88]: A 18. § (2) bekezdése a 4/2020. (II. 28.) HM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^89]: A 18. § (2a) bekezdését a 4/2020. (II. 28.) HM rendelet 2. § (2) bekezdése iktatta be.
+[^90]: A 18. § (3) bekezdését a 10/2016. (VI. 29.) HM rendelet 8. §-a iktatta be.
+[^91]: A 18. § (4) bekezdését a 10/2016. (VI. 29.) HM rendelet 8. §-a iktatta be, hatályon kívül helyezte a 25/2016. (XII. 22.) HM rendelet 49. § a) pontja.
+[^92]: A 18. § (5) bekezdését a 10/2016. (VI. 29.) HM rendelet 8. §-a iktatta be.
