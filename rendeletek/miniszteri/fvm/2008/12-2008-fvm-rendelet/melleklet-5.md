@@ -282,7 +282,7 @@
 
 ## e) a közösségi brucella referencia laboratóriummal való együttműködés és ajánlásainak követése.
 
-## 2.[^52] A nemzeti referencia laboratórium
+## 2.[^71] A nemzeti referencia laboratórium
 
 ## Neve: Nemzeti Élelmiszerlánc-biztonsági Hivatal Állategészségügyi Diagnosztikai Igazgatóság
 
@@ -290,10 +290,10 @@
 
 5. számú melléklet a 12/2008. (II. 14.) FVM rendelethez
 
-## Mintavétel brucellózis gyanúja esetén
+Mintavétel brucellózis gyanúja esetén
 
 1. Az elvetélt, korán ellett vagy megellett állattól az egész magzatburok vagy a chorion elváltozott része (kotiledon), lehetőleg az egész magzat vagy annak szervei (lekötött gyomra, tüdeje, mája, veséi). Egyidejűleg az anyaállat vér- és tejmintája, amelynek küldését (azonos jelzéssel és kimutatással) két-három hét múlva meg kell ismételni.
 
 2. A betegség idült alakja esetén az elváltozott szerv (here, csigolya, ínhüvely stb.) vagy szervrészlet, élő állatból pedig a beteg (gyanús) szerv váladéka (pl. ondó, tej, sipolyváladék).
 
-[^52]: A 4. számú melléklet IV. rész 2. pontja a 70/2013. (VII. 31.) VM rendelet 86. § k) pontja szerint módosított szöveg.
+[^71]: A 4. számú melléklet IV. rész 2. pontja a 70/2013. (VII. 31.) VM rendelet 86. § k) pontja szerint módosított szöveg.

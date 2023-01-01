@@ -12,10 +12,10 @@ a) az állományt az állattartó felszámolta és a fertőtlenítés megtörté
 
 b) az állományt a B. canis fertőzöttségtől mentesítették.
 
-(4)[^40] Az állattartó kérelmére a járási hivatal határozatban mentessé nyilváníthatja azt az állományt, amelyben
+(4)[^43] Az állattartó kérelmére a járási hivatal határozatban mentessé nyilváníthatja azt az állományt, amelyben
 
 a) kutya brucellózis klinikai tünetei a minősítést megelőző egy éven belül nem jelentkeztek, továbbá
 
 b) a nem ivartalanított egyévesnél idősebb kutyákon legalább három hónapos időközzel, kétszer elvégzett szerológiai vizsgálatok negatív eredménnyel zárultak.
 
-[^40]: A 17. § (4) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 104. § j) pontja szerint módosított szöveg.
+[^43]: A 17. § (4) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 104. § j) pontja szerint módosított szöveg.

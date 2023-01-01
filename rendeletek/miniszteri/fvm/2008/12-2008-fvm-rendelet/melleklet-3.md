@@ -14,7 +14,7 @@
 
 ## (iv) a (iii) pontban előírt első szerológiai vizsgálatot követően csak olyan állatokat tartottak, amelyek az állományban születtek, vagy a III. pontban meghatározott feltételeknek megfelelően brucellózistól hatóságilag mentes juh- vagy kecskeállományból származtak; vagy
 
-## b) az állomány a IV. pontban meghatározott, brucellózistól hatóságilag mentesnek nyilvánított megye területén található.
+## b)[^55] az állomány a IV. pontban meghatározott, brucellózistól hatóságilag mentesnek nyilvánított vármegye területén található.
 
 ## 2. A juh- vagy kecskeállomány brucellózistól hatóságilag mentes minősítését megőrzi, ha
 
@@ -22,9 +22,9 @@
 
 ## b) ha az állomány
 
-## (i) az ország brucellózistól hatóságilag mentes megyéjében található és teljesülnek a IV. 3. pontban foglalt követelmények, vagy
+## (i)[^56] az ország brucellózistól hatóságilag mentes vármegyéjében található és teljesülnek a IV. 3. pontban foglalt követelmények, vagy
 
-## (ii) az ország brucellózistól hatóságilag még nem mentes megyéjében található és évente
+## (ii)[^57] az ország brucellózistól hatóságilag még nem mentes vármegyéjében található és évente
 
 ## – valamennyi 6 hónaposnál idősebb, nem ivartalanított hímivarú állat,
 
@@ -36,13 +36,13 @@
 
 ## 1. Ha egy brucellózistól hatóságilag mentesnek nyilvánított juh- vagy kecskeállományban
 
-## a)[^47] felmerül a gyanúja, hogy egy vagy több juh vagy kecske brucellózissal (B. melitensis) fertőzött, akkor a járási hivatal az érintett telep brucellózistól hatóságilag mentes minősítését felfüggeszti, ha a fertőzöttségre gyanús állatot – a gyanú hatóságilag történő kizárásáig – elkülönítik vagy leölik. Ha a fertőzöttségre gyanús állat elkülönítése vagy leölése nem történik meg, akkor az állomány mentes minősítését vissza kell vonni;
+## a)[^58] felmerül a gyanúja, hogy egy vagy több juh vagy kecske brucellózissal (B. melitensis) fertőzött, akkor a járási hivatal az érintett telep brucellózistól hatóságilag mentes minősítését felfüggeszti, ha a fertőzöttségre gyanús állatot – a gyanú hatóságilag történő kizárásáig – elkülönítik vagy leölik. Ha a fertőzöttségre gyanús állat elkülönítése vagy leölése nem történik meg, akkor az állomány mentes minősítését vissza kell vonni;
 
-## b)[^48] ha az állomány B. melitensis fertőzöttségét hatóságilag megállapították, akkor az állomány mentes minősítését vissza kell vonni és az állományt fertőzöttnek kell nyilvánítani. Az állomány a mentes minősítését csak akkor kapja vissza, ha az állomány valamennyi fertőzött egyedét levágják (leölik), és az állományban visszamaradt 6 hónaposnál idősebb valamennyi állatnak legalább 3 hónapos időközzel – a 4. számú melléklet szerint – végrehajtott kétszeri szerológiai vizsgálata negatív eredményre vezetett.
+## b)[^59] ha az állomány B. melitensis fertőzöttségét hatóságilag megállapították, akkor az állomány mentes minősítését vissza kell vonni és az állományt fertőzöttnek kell nyilvánítani. Az állomány a mentes minősítését csak akkor kapja vissza, ha az állomány valamennyi fertőzött egyedét levágják (leölik), és az állományban visszamaradt 6 hónaposnál idősebb valamennyi állatnak legalább 3 hónapos időközzel – a 4. számú melléklet szerint – végrehajtott kétszeri szerológiai vizsgálata negatív eredményre vezetett.
 
-## 2.[^49] Ha a fertőzöttség az 5%-ot meghaladó mértékben elterjedt, vagy ha a II. 1. b) pontban említett juh- vagy kecsketelep brucellózistól hatóságilag mentes megyében/régióban van, akkor az országos főállatorvos erről az Európai Bizottságot és a többi tagállamot haladéktalanul értesíti. Ilyen esetben – a megyei kormányhivatallal történt egyeztetést követően – a járási hivatal elrendeli az érintett telepen tartott juh és kecske zárt vágás útján történő leölését. A járási hivatal járványügyi nyomozást végez és a fertőzött állománnyal járványtani kapcsolatban álló állományokban e rendelet 12. §-ának (4) bekezdésével összhangban szerológia vizsgálatot rendel el.
+## 2.[^60] Ha a fertőzöttség az 5%-ot meghaladó mértékben elterjedt, vagy ha a II. 1. b) pontban említett juh- vagy kecsketelep brucellózistól hatóságilag mentes vármegyében/régióban van, akkor az országos főállatorvos erről az Európai Bizottságot és a többi tagállamot haladéktalanul értesíti. Ilyen esetben – a vármegyei kormányhivatallal történt egyeztetést követően – a járási hivatal elrendeli az érintett telepen tartott juh és kecske zárt vágás útján történő leölését. A járási hivatal járványügyi nyomozást végez és a fertőzött állománnyal járványtani kapcsolatban álló állományokban e rendelet 12. §-ának (4) bekezdésével összhangban szerológia vizsgálatot rendel el.
 
-## 3. Ha a brucellózis kitörését hatóságilag megállapították az országos főállatorvos az érintett megye brucellózistól hatóságilag mentes minősítését felfüggeszti. E tényről haladéktalanul értesíti az Európai Bizottságot és a többi tagállamot.
+## 3.[^61] Ha a brucellózis kitörését hatóságilag megállapították az országos főállatorvos az érintett vármegye brucellózistól hatóságilag mentes minősítését felfüggeszti. E tényről haladéktalanul értesíti az Európai Bizottságot és a többi tagállamot.
 
 ## III. Állatok bevitele a brucellózistól (B. melitensis) hatóságilag mentes juh- vagy kecskeállományokba
 
@@ -58,9 +58,9 @@
 
 ## (iii) a származási telepen hatósági megfigyelés alatt elkülönítve tartották úgy, hogy az elkülönítés ideje alatt hathetes időközzel – a 4. számú mellékletben előírtak szerint – elvégzett két szerológiai vizsgálat negatív eredményt adott.
 
-## IV. Juh vagy kecske brucellózistól hatóságilag mentes megye
+## IV.[^62] Juh vagy kecske brucellózistól hatóságilag mentes vármegye
 
-## 1. Juh és kecske brucellózistól (B. melitensis) mentes az a megye, amely az országos főállatorvos által elismerten megfelel az alábbi követelményeknek, feltéve, hogy mentességét az országos főállatorvos kezdeményezésére az Európai Bizottság is jóváhagyja:
+## 1.[^63] Juh és kecske brucellózistól (B. melitensis) mentes az a vármegye, amely az országos főállatorvos által elismerten megfelel az alábbi követelményeknek, feltéve, hogy mentességét az országos főállatorvos kezdeményezésére az Európai Bizottság is jóváhagyja:
 
 ## a) amelyben a juh- vagy kecskeállományok legalább 99,8%-a brucellózistól hatóságilag mentes minősítésű; vagy
 
@@ -72,13 +72,13 @@
 
 ## (iii) a vakcinázás legalább 3 éve tilos.
 
-## 2. Hatóságilag mentesnek kell tekinteni minden megyét, ha az ország mentességét az Európai Bizottság hivatalosan elismerte.
+## 2.[^64] Hatóságilag mentesnek kell tekinteni minden vármegyét, ha az ország mentességét az Európai Bizottság hivatalosan elismerte.
 
-## 3. A hatóságilag elismerten mentes megyében, vagy az ország mentessége esetén az ország egész területén az alábbi feltételeket kell teljesíteni:
+## 3.[^65] A hatóságilag elismerten mentes vármegyében, vagy az ország mentessége esetén az ország egész területén az alábbi feltételeket kell teljesíteni:
 
-## a) a megye/ország brucellózistól (B. melitensis) hatóságilag mentes minősítésének elismerését követő első évben az állományokban vagy a vágóhídon végzett szúrópróbaszerű ellenőrzések 99%-os megbízhatósággal azt jelzik, hogy a telepek kevesebb, mint 0,2%-a volt fertőzött, vagy a 6 hónaposnál idősebb állatok legalább 10%-án – a 4. számú melléklet B. melitensisre vonatkozó fejezetében előírtak szerint – elvégzett egyszeri szerológiai vizsgálat negatív eredményre vezetett;
+## a)[^66] a vármegye/ország brucellózistól (B. melitensis) hatóságilag mentes minősítésének elismerését követő első évben az állományokban vagy a vágóhídon végzett szúrópróbaszerű ellenőrzések 99%-os megbízhatósággal azt jelzik, hogy a telepek kevesebb, mint 0,2%-a volt fertőzött, vagy a 6 hónaposnál idősebb állatok legalább 10%-án – a 4. számú melléklet B. melitensisre vonatkozó fejezetében előírtak szerint – elvégzett egyszeri szerológiai vizsgálat negatív eredményre vezetett;
 
-## b) a megye/ország brucellózistól (B. melitensis) hatóságilag mentes minősítésének elismerését követő második évtől kezdődően évente az állományokban, vagy a vágóhidakon végzett szúrópróbaszerű ellenőrzések 95%-os megbízhatósággal azt jelzik, hogy az állományoknak, kevesebb, mint 0,2%-a volt fertőzött, vagy a 6 hónaposnál idősebb állatok legalább 5%-án – a 4. számú melléklet B. melitensisre vonatkozó fejezetében előírtak szerint – elvégzett egyszeri szerológiai vizsgálat negatív eredményre vezetett;
+## b)[^67] a vármegye/ország brucellózistól (B. melitensis) hatóságilag mentes minősítésének elismerését követő második évtől kezdődően évente az állományokban, vagy a vágóhidakon végzett szúrópróbaszerű ellenőrzések 95%-os megbízhatósággal azt jelzik, hogy az állományoknak, kevesebb, mint 0,2%-a volt fertőzött, vagy a 6 hónaposnál idősebb állatok legalább 5%-án – a 4. számú melléklet B. melitensisre vonatkozó fejezetében előírtak szerint – elvégzett egyszeri szerológiai vizsgálat negatív eredményre vezetett;
 
 ## c) a minősítési feltételek továbbra is teljesülnek.
 
@@ -88,11 +88,11 @@
 
 ## 2. Az V. 1. pontban említett tilalom miatt a juh- és kecskefélék Közösségen belüli kereskedelmére irányadó állategészségügyi feltételekről szóló 1991. január 28-i 91/68/EGK tanácsi irányelv A) mellékletének 2. fejezetében említett – vakcinázást is megengedő – brucellózis (B. melitensis) mentes minősítés a juh vagy kecskeállományok minősítésére nem alkalmazható.
 
-## 3.[^50] Ha a juh- vagy kecskeállományokban laboratóriumi vizsgálattal B. abortus fertőzöttséget mutatnak ki, akkor az állományt a megyei kormányhivatal által kidolgozott és az országos főállatorvos által jóváhagyott terv alapján mentesíteni kell a szarvasmarha-állományok védelme érdekében.
+## 3.[^68] Ha a juh- vagy kecskeállományokban laboratóriumi vizsgálattal B. abortus fertőzöttséget mutatnak ki, akkor az állományt a vármegyei kormányhivatal által kidolgozott és az országos főállatorvos által jóváhagyott terv alapján mentesíteni kell a szarvasmarha-állományok védelme érdekében.
 
 3. számú melléklet a 12/2008. (II. 14.) FVM rendelethez
 
-## A sertés brucellózisra vonatkozó részletes szabályok
+A sertés brucellózisra vonatkozó részletes szabályok
 
 1. Brucellózistól mentes az a sertésállomány,
 
@@ -148,9 +148,20 @@ d) az 1. pont e) alpontja szerinti feltételeket az állattartó biztosította.
 
 8. A mentes minősítés visszavonásával egyidejűleg az állományt fertőzöttnek kell nyilvánítani.
 
-9. Azt a megyét, amelyben a sertésállományok legalább 99,8%-a az előző év december 31-én brucellózistól (B. suis és B. abortus) mentes volt, sertés brucellózistól mentes megyének kell tekinteni.
+9.[^69] Azt a vármegyét, amelyben a sertésállományok legalább 99,8%-a az előző év december 31-én brucellózistól (B. suis és B. abortus) mentes volt, sertés brucellózistól mentes vármegyének kell tekinteni.
 
-[^47]: A 2. melléklet II.1. pont a) alpontja a 42/2017. (VIII. 17.) FM rendelet 104. § j) pontja szerint módosított szöveg.
-[^48]: A 2. számú melléklet II. alcím 1. pont b) alpontja a 63/2009. (V. 20.) FVM rendelet 4. § (2) bekezdése szerint módosított szöveg.
-[^49]: A 2. számú melléklet II.2. pontja a 42/2017. (VIII. 17.) FM rendelet 104. § o) és w) pontja szerint módosított szöveg.
-[^50]: A 2. számú melléklet V.3. pontja a 42/2017. (VIII. 17.) FM rendelet 104. § p) pontja szerint módosított szöveg.
+[^55]: A 2. melléklet I. pont 1. alpont b) pontja a 103/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.
+[^56]: A 2. melléklet I. pont 2. alpont b) pont (i) alpontja a 103/2022. (XII. 27.) AM rendelet 1. § f) pontja szerint módosított szöveg.
+[^57]: A 2. melléklet I. pont 2. alpont b) pont (ii) alpontja a 103/2022. (XII. 27.) AM rendelet 1. § f) pontja szerint módosított szöveg.
+[^58]: A 2. melléklet II.1. pont a) alpontja a 42/2017. (VIII. 17.) FM rendelet 104. § j) pontja szerint módosított szöveg.
+[^59]: A 2. számú melléklet II. alcím 1. pont b) alpontja a 63/2009. (V. 20.) FVM rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^60]: A 2. számú melléklet II.2. pontja a 42/2017. (VIII. 17.) FM rendelet 104. § o) és w) pontja, a 103/2022. (XII. 27.) AM rendelet 1. § c) és g) pontja szerint módosított szöveg.
+[^61]: A 2. melléklet II. pont 3. alpontja a 103/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.
+[^62]: A 2. melléklet IV. pont címe a 103/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.
+[^63]: A 2. melléklet IV. pont 1. alpont nyitó szövegrésze a 103/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.
+[^64]: A 2. melléklet IV. pont 2. alpontja a 103/2022. (XII. 27.) AM rendelet 1. § d) pontja szerint módosított szöveg.
+[^65]: A 2. melléklet IV. pont 3. alpont nyitó szövegrésze a 103/2022. (XII. 27.) AM rendelet 1. § h) pontja szerint módosított szöveg.
+[^66]: A 2. melléklet IV. pont 3. alpont a) pontja a 103/2022. (XII. 27.) AM rendelet 1. § i) pontja szerint módosított szöveg.
+[^67]: A 2. melléklet IV. pont 3. alpont b) pontja a 103/2022. (XII. 27.) AM rendelet 1. § i) pontja szerint módosított szöveg.
+[^68]: A 2. számú melléklet V.3. pontja a 42/2017. (VIII. 17.) FM rendelet 104. § p) pontja, a 103/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^69]: A 3. melléklet 9. pontja a 103/2022. (XII. 27.) AM rendelet 1. § d) és j) pontja szerint módosított szöveg.

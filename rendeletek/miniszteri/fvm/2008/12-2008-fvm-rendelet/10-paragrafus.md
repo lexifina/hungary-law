@@ -1,10 +1,10 @@
 ## A hatósági állatorvos feladatai
 
-10. § (1)[^17] Ha a hatósági állatorvos brucellózis fertőzöttségre gyanús állatról értesül, illetve, ha a járási hivatal erre utasítja, köteles a helyszínre haladéktalanul kiszállni és az érintett állatot, valamint indokolt esetben a vele együtt tartottakat is klinikailag megvizsgálni.
+10. § (1)[^20] Ha a hatósági állatorvos brucellózis fertőzöttségre gyanús állatról értesül, illetve, ha a járási hivatal erre utasítja, köteles a helyszínre haladéktalanul kiszállni és az érintett állatot, valamint indokolt esetben a vele együtt tartottakat is klinikailag megvizsgálni.
 
 (2) Az (1) bekezdés szerinti vizsgálatról a hatósági állatorvosnak jegyzőkönyvet kell felvennie, amely a tünetek részletes leírása mellett tartalmazza az állat azonosítására vonatkozó adatokat is.
 
-(3)[^18] Ha a 2. § 14. pontja alapján az állat brucellózis fertőzöttségre gyanús, a hatósági állatorvos elrendeli az érintett állat elkülönítését és hatósági megfigyelését, értesíti a járási hivatalt és szarvasmarha, sertés, juh vagy kecske esetén elrendeli, hogy az állományból állatot nem lehet ki- és oda beszállítani (a továbbiakban: forgalmi korlátozás), és ha még nem történt mintavétel, illetve mintaküldés, a laboratóriumi vizsgálat céljára az 5. számú mellékletben foglaltak szerint mintát vesz.
+(3)[^21] Ha a 2. § 14. pontja alapján az állat brucellózis fertőzöttségre gyanús, a hatósági állatorvos elrendeli az érintett állat elkülönítését és hatósági megfigyelését, értesíti a járási hivatalt és szarvasmarha, sertés, juh vagy kecske esetén elrendeli, hogy az állományból állatot nem lehet ki- és oda beszállítani (a továbbiakban: forgalmi korlátozás), és ha még nem történt mintavétel, illetve mintaküldés, a laboratóriumi vizsgálat céljára az 5. számú mellékletben foglaltak szerint mintát vesz.
 
 (4) Ha a 2. § 14. pontja alapján az állat nem brucellózis fertőzöttségre gyanús, de vetélés történt, a hatósági állatorvos a következők szerint köteles eljárni:
 
@@ -20,5 +20,5 @@ c) az anyaállatból köteles vérmintát küldeni az illetékes állategészsé
 
 (7) Ha az állattartó bejelentési kötelezettségét teljesítette, a hatósági állatorvosnak a helyszíni vizsgálat során – az állattartó kérelmére – aláírásával és pecsétlenyomatával kell ellátnia az állattartó által a 7. § (3) bekezdése alapján vezetett feljegyzést. Szükség esetén írásbeli észrevételt tehet a feljegyzéssel kapcsolatosan.
 
-[^17]: A 10. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 104. § g) pontja szerint módosított szöveg.
-[^18]: A 10. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 104. § m) pontja szerint módosított szöveg.
+[^20]: A 10. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 104. § g) pontja szerint módosított szöveg.
+[^21]: A 10. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 104. § m) pontja szerint módosított szöveg.

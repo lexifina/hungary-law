@@ -1,6 +1,6 @@
 ## A szarvasmarha brucellózisra vonatkozó részletes szabályok
 
-## E mellékletben foglaltakat nem kell alkalmazni azokra a hizlalásra szánt hímivarú állatokra, amelyek brucellózistól hatóságilag mentes állományból származnak, ha az állattartó írásbeli kérelmére a járási hivatal felmentést adott e melléklet alkalmazása alól. A kérelemben az állattartónak nyilatkoznia kell arról, hogy az állományból kizárólag csak vágóhídra szállítják az állatokat, illetve vállalnia kell, hogy az állományból történő minden szállítást az azt megelőző 72 órán belül, de legalább 24 órával a szállítás előtt közvetlenül a területileg illetékes járási hivatalnak bejelent, megadva a szállítmányt fogadó vágóhíd nevét és címét.[^46]
+## E mellékletben foglaltakat nem kell alkalmazni azokra a hizlalásra szánt hímivarú állatokra, amelyek brucellózistól hatóságilag mentes állományból származnak, ha az állattartó írásbeli kérelmére a járási hivatal felmentést adott e melléklet alkalmazása alól. A kérelemben az állattartónak nyilatkoznia kell arról, hogy az állományból kizárólag csak vágóhídra szállítják az állatokat, illetve vállalnia kell, hogy az állományból történő minden szállítást az azt megelőző 72 órán belül, de legalább 24 órával a szállítás előtt közvetlenül a területileg illetékes járási hivatalnak bejelent, megadva a szállítmányt fogadó vágóhíd nevét és címét.[^50]
 
 ## I. Brucellózistól hatóságilag mentes szarvasmarha-állomány
 
@@ -72,11 +72,11 @@
 
 ## 8. Magyarországon szarvasmarha-állománynak a szarvasmarhafélék és a sertések Közösségen belüli kereskedelmét érintő állategészségügyi problémákról szóló 1964. június 26-i 64/432/EGK irányelv A. melléklete II. fejezetében meghatározott – a vakcinázást is megengedő – brucellózistól mentes minősítése nem alkalmazható.
 
-## II. Szarvasmarha brucellózistól hatóságilag mentes megye
+## II.[^51] Szarvasmarha brucellózistól hatóságilag mentes vármegye
 
-## 1. Egy megye szarvasmarha brucellózistól hatóságilag mentes státuszának odaítélésére akkor kerülhet sor, ha az ország még nem teljesíti a vonatkozó tanácsi irányelvben a hatóságilag mentes tagállammal szemben támasztott követelményeket, de az adott megye már igen.
+## 1.[^52] Egy vármegye szarvasmarha brucellózistól hatóságilag mentes státuszának odaítélésére akkor kerülhet sor, ha az ország még nem teljesíti a vonatkozó tanácsi irányelvben a hatóságilag mentes tagállammal szemben támasztott követelményeket, de az adott vármegye már igen.
 
-## 2. Ha az ország szarvasmarha brucellózistól hatóságilag nem mentes, akkor szarvasmarha brucellózistól hatóságilag mentes az a megye, amely megfelel az alábbi követelményeknek, feltéve, hogy mentességét az országos főállatorvos kezdeményezésére az Európai Bizottság is jóváhagyja:
+## 2.[^53] Ha az ország szarvasmarha brucellózistól hatóságilag nem mentes, akkor szarvasmarha brucellózistól hatóságilag mentes az a vármegye, amely megfelel az alábbi követelményeknek, feltéve, hogy mentességét az országos főállatorvos kezdeményezésére az Európai Bizottság is jóváhagyja:
 
 ## a) legalább 3 éve nem volt Brucella okozta vetélés, és nem izoláltak B. abortus baktériumot,
 
@@ -86,7 +86,7 @@
 
 ## d) valamennyi vetélést jelenteni kell, és az állategészségügyi hatóságnak ki kell vizsgálnia.
 
-## 3. A szarvasmarha brucellózistól hatóságilag mentes megye – illetve az ország mentességének elismerése után az ország – megőrizheti mentes minősítését, ha:
+## 3.[^54] A szarvasmarha brucellózistól hatóságilag mentes vármegye – illetve az ország mentességének elismerése után az ország – megőrizheti mentes minősítését, ha:
 
 ## a) a II. 2. a) és II. 2. b) pont teljesül, továbbá a feltételezetten brucellák okozta vetélések bejelentése kötelező és azokat az állategészségügyi hatóság kivizsgálja;
 
@@ -110,4 +110,8 @@
 
 2. számú melléklet a 12/2008. (II. 14.) FVM rendelethez
 
-[^46]: Az 1. melléklet nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 104. § j) és n) pontja szerint módosított szöveg.
+[^50]: Az 1. melléklet nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 104. § j) és n) pontja szerint módosított szöveg.
+[^51]: Az 1. melléklet II. pont címe a 103/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.
+[^52]: Az 1. melléklet II. pont 1. alpontja a 103/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^53]: Az 1. melléklet II. pont 2. alpont nyitó szövegrésze a 103/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.
+[^54]: Az 1. melléklet 3. alpont nyitó szövegrésze a 103/2022. (XII. 27.) AM rendelet 1. § e) pontja szerint módosított szöveg.

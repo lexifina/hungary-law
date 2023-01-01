@@ -6,6 +6,6 @@
 
 (4) Ha az adott állatfajra vonatkozó mellékletben előírt, a mentes minősítés visszaállításához szükséges laboratóriumi vizsgálatok kedvező eredményre vezettek, a hatósági állatorvos megszünteti az állomány forgalmi korlátozását. A forgalmi korlátozás feloldásával egyidejűleg a betegséget megszűntté kell nyilvánítani.
 
-(5)[^19] A hatósági állatorvos a brucellózis hatósági megállapítását vagy megszűntté nyilvánítását haladéktalanul köteles jelenteni az illetékes járási hivatalnak.
+(5)[^22] A hatósági állatorvos a brucellózis hatósági megállapítását vagy megszűntté nyilvánítását haladéktalanul köteles jelenteni az illetékes járási hivatalnak.
 
-[^19]: A 11. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 104. § n) pontja szerint módosított szöveg.
+[^22]: A 11. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 104. § n) pontja szerint módosított szöveg.

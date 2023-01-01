@@ -14,11 +14,11 @@
 
 6. Brucellózistól hatóságilag mentes sertésállomány: a 3. számú melléklet 1. pontjában meghatározott állomány.
 
-7. Szarvasmarha brucellózistól hatóságilag elismerten mentes megye: az 1. számú melléklet II.2. pontjában meghatározott megye.
+7.[^2] Szarvasmarha brucellózistól hatóságilag elismerten mentes vármegye: az 1. számú melléklet II.2. pontjában meghatározott vármegye.
 
-8. Juh és kecske brucellózistól hatóságilag elismerten mentes megye: a 2. számú melléklet IV.1. pontjában meghatározott megye.
+8.[^3] Juh és kecske brucellózistól hatóságilag elismerten mentes vármegye: a 2. számú melléklet IV.1. pontjában meghatározott vármegye.
 
-9. Sertés brucellózistól hatóságilag elismerten mentes megye: a 3. számú melléklet 9. pontjában meghatározott megye.
+9.[^4] Sertés brucellózistól hatóságilag elismerten mentes vármegye: a 3. számú melléklet 9. pontjában meghatározott vármegye.
 
 10. Szarvasmarha brucellózissal fertőzött állomány: olyan szarvasmarha állomány, amelyben B. abortussal fertőzött szarvasmarhát találtak.
 
@@ -61,3 +61,6 @@ e) amelynek származása vagy azonosítása hitelt érdemlően nem bizonyíthat�
 20. Illetékes állategészségügyi laboratórium: a brucellózis mentesség ellenőrzésére irányuló vizsgálatok végzésére engedéllyel rendelkező állategészségügyi laboratórium.
 
 [^1]: A 2. § 2. pontja a 70/2013. (VII. 31.) VM rendelet 86. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 7. pontja a 103/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § 8. pontja a 103/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § 9. pontja a 103/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
