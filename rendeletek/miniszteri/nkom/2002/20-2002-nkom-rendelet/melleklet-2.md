@@ -22,7 +22,7 @@ A jelen mellékletben kötelezően előírtakon túl valamennyi szakmai nyilván
 
 Egyes rovatok kitöltése ,,tárgyszólisták'' alapján történik. Számítógépes nyilvántartás esetén ez a lista elemének (többszörös választási lehetőség esetén elemeinek) a gépből történő kiválasztását, hagyományos nyilvántartás esetén a választott elem vagy elemek tényleges beírását jelenti. A tárgyszólisták minimális struktúrája: tárgyszó, az értelmezését segítő rövid magyarázat, valamint azok a szinonimák, amelyek helyett a tárgyszó használható. Azt, hogy az egyes rovatoknál az intézmény milyen forrásból származó tárgyszólistát használ, maga a muzeális intézmény dönti el, a tárgyszólistát maga építi; az adatfelvétel során azonban az e listán szereplő elemek használata kötelező. A lista bővítését, módosítását csak muzeológus végezheti. A tárgyszólistából egyszerre több elem is választható, kivéve, ahol azt – ,,csak egyszeres választás'' kifejezéssel – e jogszabály tiltja.
 
-I. Fejezet
+I. Fejezet[^9]
 
 A leltárkönyvek, naplók és leírókartonok
 
@@ -140,9 +140,9 @@ A korlistát a gyűjteménynek – a kutathatóság biztosítása érdekében �
 
 A keletkezés/készítés helye:
 
-E rovatban a lehető legpontosabb – ahol lehet, az intézmény által meghatározott helységnévtár vagy az intézmény által bővíthető tárgyszólista szerinti – szabványos helységnevet kell feltüntetni. A helységen belüli, esetleg közelebbi, pontosabb meghatározásra külön rész (számítógépes nyilvántartás esetén ,,szabadszöveges'' mező) szolgál e rovaton belül, ahová pl. puszták, majorok, dűlők, falurészek, hegyek vagy völgyek, belterületen utcák, terek stb. elnevezése, ház- vagy helyrajzi szám kerülhet. (Pl. Akali-Ságpuszta; Komló-Újtelep; Nadap-Meleghegy déli oldala; Budapest-Cinkota ,... utca... szám). Amennyiben szükséges, e szabadszöveges részben a korabeli elnevezés, illetve – külhoni települések esetében – a közismert magyar név is alkalmazható. Kevésbé ismert, vagy több megyében/országban is előforduló helységnevek mellett – szintén e külön, ,,szabadszöveges mezőben'' – a megye/ország nevét is meg kell jelölni; ezért a helységnévtárat úgy kell alkalmazni/kialakítani, hogy abba szükség esetén ilyen országnév/kód, továbbá kisebb egység, pl. megye neve/kódja is beírható legyen.
+E rovatban a lehető legpontosabb – ahol lehet, az intézmény által meghatározott helységnévtár vagy az intézmény által bővíthető tárgyszólista szerinti – szabványos helységnevet kell feltüntetni. A helységen belüli, esetleg közelebbi, pontosabb meghatározásra külön rész (számítógépes nyilvántartás esetén ,,szabadszöveges'' mező) szolgál e rovaton belül, ahová pl. puszták, majorok, dűlők, falurészek, hegyek vagy völgyek, belterületen utcák, terek stb. elnevezése, ház- vagy helyrajzi szám kerülhet. (Pl. Akali-Ságpuszta; Komló-Újtelep; Nadap-Meleghegy déli oldala; Budapest-Cinkota ,... utca... szám). Amennyiben szükséges, e szabadszöveges részben a korabeli elnevezés, illetve – külhoni települések esetében – a közismert magyar név is alkalmazható. Kevésbé ismert, vagy több vármegyében/országban is előforduló helységnevek mellett – szintén e külön, ,,szabadszöveges mezőben'' – a vármegye/ország nevét is meg kell jelölni; ezért a helységnévtárat úgy kell alkalmazni/kialakítani, hogy abba szükség esetén ilyen országnév/kód, továbbá kisebb egység, pl. vármegye neve/kódja is beírható legyen.
 
-Amennyiben pontos helységnév nem határozható meg, szélesebb közigazgatási vagy földrajzi egység, illetve tájegység nevét is fel lehet tüntetni: pl. Pest megye, Dél-Dunántúl, Balkán-félsziget.
+Amennyiben pontos helységnév nem határozható meg, szélesebb közigazgatási vagy földrajzi egység, illetve tájegység nevét is fel lehet tüntetni: pl. Pest vármegye, Dél-Dunántúl, Balkán-félsziget.
 
 Készítő/alkotó:
 
@@ -152,7 +152,7 @@ A második rész/mező ,,szabadszöveges''. Ebben egyéb, a készítőre/alkotó
 
 Használat helye(i):
 
-Itt kell feltüntetni, ha a használat helye(i) eltér(nek) a készítés/keletkezés, illetve a gyűjtés/feltárás helyétől. Kitöltése értelemszerűen hasonló, mint ,,A keletkezés, készítés helye'' rovaté. A műtárgy szélesebb körű használata esetén a külön részben (szabadszöveges mezőben) az általános, közigazgatási vagy földrajzi egység, illetve tájegység nevét kell feltüntetni (pl. Kemenesalja, Baranya megye, Jászság, Balkán-félsziget).
+Itt kell feltüntetni, ha a használat helye(i) eltér(nek) a készítés/keletkezés, illetve a gyűjtés/feltárás helyétől. Kitöltése értelemszerűen hasonló, mint ,,A keletkezés, készítés helye'' rovaté. A műtárgy szélesebb körű használata esetén a külön részben (szabadszöveges mezőben) az általános, közigazgatási vagy földrajzi egység, illetve tájegység nevét kell feltüntetni (pl. Kemenesalja, Baranya vármegye, Jászság, Balkán-félsziget).
 
 Használat ideje:
 
@@ -488,7 +488,7 @@ E rovat általában a kapcsolatos régészeti feltárás dokumentációjának (i
 
 A 19–26. rovatok bejegyzéséről lásd az I. fejezetet.
 
-II/C. Alfejezet[^9]
+II/C. Alfejezet[^10]
 
 A természettudományi anyag – sajátosságai miatt – sok esetben nem kezelhető a jelen melléklet II/A. vagy II/B. alfejezetében leírtak szerint, egyedileg. (Pl. gerinctelenek, száraz állapotban őrzött virágos és virágtalan növények, növénymagvak, mikropaleontológiai anyag, mikroszkópi preparátumok stb. esetében.) Ilyenkor a jelen rendelet 6., illetve 15. §-ainak megfelelő szekrénykataszteri nyilvántartást kell választani. Amennyiben annak sem tartható be minden előírása (pl. a darabszám rögzítése), a miniszter egyedi szabályozást engedélyezhet.
 
@@ -1866,4 +1866,5 @@ Az átvevő későbbi azonosítását is lehetővé tévő adatai szerepelnek e 
 
 E rovat olyan egyedi bejegyzésre használható, amelyekre az előbb felsoroltak nem nyújtanak lehetőséget.
 
-[^9]: A 2. számú melléklet II. fejezet II/C. alfejezete az 1/2022. (IX. 1.) KIM rendelet 3. §-a szerint módosított szöveg.
+[^9]: A 2. számú melléklet I. fejezete a 12/2022. (XII. 29.) KIM rendelet 5. § a) és b) pontja szerint módosított szöveg.
+[^10]: A 2. számú melléklet II. fejezet II/C. alfejezete az 1/2022. (IX. 1.) KIM rendelet 3. §-a szerint módosított szöveg.

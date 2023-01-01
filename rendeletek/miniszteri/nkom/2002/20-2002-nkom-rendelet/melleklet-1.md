@@ -2,7 +2,7 @@
 
 1. számú melléklet a 20/2002. (X. 4.) NKÖM rendelethez
 
-## A gyarapodási naplóról
+A gyarapodási naplóról
 
 1. A rendelet 4. § (1) bekezdésében meghatározott kulturális javak nyilvántartására az intézménynek egy közös vagy az egyes szervezeti egységekben vagy gyűjteményekben külön-külön használt, több gyarapodási naplója lehet. Egy gyűjtemény azonban ez utóbbi esetben is legfeljebb egy be nem telt gyarapodási naplót használhat.
 
