@@ -55,7 +55,3 @@ a) hozzáférés a távközlési hálózatokhoz;
 b) kiegészítő információk szolgáltatása;
 
 c) a gördülőállomány műszaki vizsgálata;
-
-d) a személypályaudvarokon működő menetjegykiadás;
-
-e) a nagy sebességű vonatok és a gördülőállomány egyes további, egyedi létesítményeket kívánó típusai számára kialakított karbantartó létesítményekben végzett jelentős karbantartási munkák.

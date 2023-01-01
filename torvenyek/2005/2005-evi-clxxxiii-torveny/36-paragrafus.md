@@ -8,7 +8,11 @@
 
 (3) Az alapképzés és időszakos oktatás végzésére irányuló szándékot a szolgáltató köteles a közlekedési hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. Alapképzés, illetve időszakos oktatás végzésére a külön jogszabályban meghatározott személyi és tárgyi feltételeket teljesítő képzőszervezet és vasúti társaság jogosult, amelynek legalább egy személyesen közreműködő tagja vagy alkalmazottja – egyéni vállalkozó esetén, ha a tevékenységet nem maga látja el, legalább egy foglalkoztatottja – rendelkezik a külön jogszabályban meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek (a továbbiakban: vasútszakmai oktató). Vasútszakmai oktatóként az foglalkoztatható, aki büntetlen előéletű, és nem áll az e tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt.
 
-(4)–(6)
+(4)
+
+(5)
+
+(6)
 
 (7) Az alapvizsga és az időszakos vizsga lebonyolítását a Kormány által a vasúti vizsgaközpont kijelöléséről szóló kormányrendeletben kijelölt vasúti vizsgaközpont, az alapképzés és az időszakos oktatás szakmai irányítását, valamint a vasútszakmai oktatók és a vasútüzemvezetők továbbképzését, továbbá a vasúti közlekedés területén hatósági vizsgabiztosi tevékenységet ellátók képzését és továbbképzését a Kormány által a vasúti képzési módszertani központ kijelöléséről szóló kormányrendeletben kijelölt vasúti képzési módszertani központ végzi.
 

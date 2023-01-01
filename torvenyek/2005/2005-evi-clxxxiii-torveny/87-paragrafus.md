@@ -8,7 +8,9 @@ b) kizárólag az iparvágányon vasúti áruszállítást végző vasúti társ
 
 c) kizárólag a saját célú vasúti pályahálózaton vasúti áruszállítást végző vasúti társaság, a kizárólag a saját célú vasúti pályahálózaton vasúti személyközlekedtetést végző vasúti társaság és a kizárólag a saját célú vasúti pályahálózaton vasúti vontatást végző vasúti társaság,
 
-d)–e)
+d)
+
+e)
 
 amely a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény, valamint az ezzel összefüggő törvények módosításáról szóló 2015. évi CIII. törvény (a továbbiakban: Vtvmódtv1.) hatálybalépésekor működési engedéllyel rendelkezik, 2015. december 1-jéig köteles a vasúti igazgatási szerv részére bejelenteni, ha tevékenységét változatlan formában tovább kívánja folytatni.
 

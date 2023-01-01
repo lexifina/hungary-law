@@ -8,6 +8,6 @@
 
 (3) A közforgalmú vasúti társaság munkavállalója formaruha viselésére kötelezhető.
 
-(4) A vasutas biztosítottak az elkülönült vasútegészségügyi szervezeten (Vasútegészségügyi Nonprofit Közhasznú Korlátolt Felelősségű Társaság, valamint MÁV Kórház és Rendelőintézet, Szolnok) és a Magyar Honvédség Egészségügyi Központ (Honvéd, Rendészeti és Vasútegészségügyi Központ) belül gyógyító-megelőző és teljes körű üzem-egészségügyi ellátásra jogosultak. A vasutas biztosítottak körét és a jogosultság mértékét külön jogszabály állapítja meg.
+(4) A vasutas biztosítottak az elkülönült vasútegészségügyi szervezeten (Vasútegészségügyi Nonprofit Közhasznú Korlátolt Felelősségű Társaság, valamint MÁV Kórház és Rendelőintézet, Szolnok) és az egészségügyről szóló 1997. évi CLIV. törvény 244/C. § (1) bekezdése szerinti új egészségügyi szolgáltató belül gyógyító-megelőző és teljes körű üzem-egészségügyi ellátásra jogosultak. A vasutas biztosítottak körét és a jogosultság mértékét külön jogszabály állapítja meg.
 
 (5) Az elkülönült vasútegészségügyi szervezet munkavállalóját a (2) és (4) bekezdés alkalmazása szempontjából az országos vasúti személyszállítási közszolgáltatást végző vasúti társaság munkavállalójának kell tekinteni.

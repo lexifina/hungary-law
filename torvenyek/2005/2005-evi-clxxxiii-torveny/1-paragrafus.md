@@ -20,6 +20,8 @@ terjed ki.
 
 (2) Nemzetközi szerződéssel összhangban e törvény rendelkezéseit abban az esetben kell alkalmazni pályahálózat-működtető Magyarország területén kívül végzett vasúti pályahálózat működtetési tevékenységére, ha magyarországi kiinduló vagy célállomással rendelkező vasúti jármű közlekedése során Magyarország területén kívül eső pályahálózatot is igénybe vesz.
 
-(3)–(4)
+(3)
+
+(4)
 
 (5)
