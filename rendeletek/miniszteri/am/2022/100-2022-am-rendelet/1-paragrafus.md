@@ -1,0 +1,1 @@
+1. § Az élelmiszer-előállítás és forgalomba hozatal egyes élelmiszer-higiéniai feltételeiről és az élelmiszerek hatósági ellenőrzéséről szóló 68/2007. (VII. 26.) FVM–EüM–SZMM együttes rendelet 6. § (3) és (4) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg lép.
