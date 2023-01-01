@@ -1,1 +1,5 @@
-13. §
+13. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 13. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+
+„(1a) A szerencsejáték-szervező engedélyét a szerencsejáték-felügyeleti hatóság visszavonhatja, ha a szerencsejáték-szervező nem teljesíti a játékosvédelmi cselekvési terv készítésével és Hatósághoz történő benyújtásával, a játékosvédelmi cselekvési terv végrehajtásáról történő beszámolással kapcsolatos, a 11. § (5)–(7) bekezdése vagy a 31. § (3a) bekezdése szerinti kötelezettségét.
+
+(1b) A szerencsejáték-szervező engedélyét a szerencsejáték-felügyeleti hatóság visszavonhatja, ha a szerencsejáték-szervező nem teljesíti a távszerencsejáték-szervezési díj megfizetésével kapcsolatos kötelezettségét, vagy ha a szerencsejáték-szervező, a szerencsejáték-szervező vezető tisztségviselője által képviselt más gazdasági társaság, illetve a szerencsejáték-szervező közvetlen vagy közvetett tulajdonosa által tulajdonolt más gazdasági társaság EGT-állam közigazgatási hatósága, egyéb hatáskörrel rendelkező szerve az Ákr. 82. § (1) bekezdése szerinti véglegessé vált, illetve azzal egyenértékű határozata vagy EGT-állam bíróságának jogerős döntése szerint az engedély kiadását megelőző öt évben vagy az engedély időtartama alatt szerencsejátékot engedély nélkül szervezett.”

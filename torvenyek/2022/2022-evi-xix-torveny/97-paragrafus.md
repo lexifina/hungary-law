@@ -1,12 +1,12 @@
 97. § A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény
 
-a)
+a) 1. § (1) bekezdés e) pontjában a „vételével, valamint” szövegrész helyébe a „vételével,” szöveg,
 
-b)
+b) 1. § (1) bekezdés f) pontjában a „vételével” szövegrész helyébe a „vételével, valamint” szöveg,
 
-c)
+c) 3. § (1) bekezdés d) pontjában a „törvény, és” szövegrész helyébe a „törvény,” szöveg,
 
-d)
+d) 3. § (1) bekezdés e) pontjában az „(a továbbiakban: Bt.)” szövegrész helyébe az „(a továbbiakban: Bt.), és” szöveg,
 
 e)
 
