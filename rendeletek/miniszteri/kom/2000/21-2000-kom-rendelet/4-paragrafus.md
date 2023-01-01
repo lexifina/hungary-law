@@ -1,10 +1,8 @@
-## 3. § A védett terület természetvédelmi kezeléssel járó feladatait a Jász-Nagykun-Szolnok Megyei Önkormányzat Tiszakürti Arborétuma (mint költségvetési intézmény) látja el.
+4. § (1)[^2] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-4. § (1)[^1] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+(2)[^3] A Tiszakürti Arborétum Természetvédelmi Terület természetvédelmi kezelési tervét e rendelet melléklete tartalmazza.
 
-(2)[^2] A Tiszakürti Arborétum Természetvédelmi Terület természetvédelmi kezelési tervét e rendelet melléklete tartalmazza.
-
-Melléklet a 21/2000. (VIII. 31.) KöM rendelethez[^3]
+Melléklet a 21/2000. (VIII. 31.) KöM rendelethez[^4]
 
 A Tiszakürti Arborétum Természetvédelmi Terület természetvédelmi kezelési terve
 
@@ -46,7 +44,7 @@ A természetvédelmi kezelési módokra, korlátozásokra és tilalmakra vonatko
 
 3.1. Látogatás
 
-A Tiszakürti Arborétum Természetvédelmi Terület szabadon látogatható. Egyes részterületeken a Jász-Nagykun-Szolnok Megyei Önkormányzat Tiszakürti Arborétuma mint költségvetési intézmény (a továbbiakban: természetvédelmi kezelő), adott esetben (védett természeti érték megóvása érdekében) időszakos látogatási korlátozásokat vezethet be.
+A Tiszakürti Arborétum Természetvédelmi Terület szabadon látogatható. Egyes részterületeken a Jász-Nagykun-Szolnok Vármegyei Önkormányzat Tiszakürti Arborétuma mint költségvetési intézmény (a továbbiakban: természetvédelmi kezelő), adott esetben (védett természeti érték megóvása érdekében) időszakos látogatási korlátozásokat vezethet be.
 
 3.2. Terület- és földhasználat
 
@@ -100,6 +98,6 @@ Az arborétumban elhelyezett műalkotások (faszobrok stb.) fenntartásáról a 
 
 A vizeken (csatorna, arborétumi tó) tilos a horgászat és a halászat. A mélyebben fekvő gyepterületeken esetlegesen (belvizes évek) megjelenő nádas-gyékényes foltok égetése tilos.
 
-[^1]: A 4. § eredeti szövegének jelölését a 18/2005. (VII. 25.) KvVM rendelet 1. §-a (1) bekezdésre változtatta.
-[^2]: A 4. § (2) bekezdését a 18/2005. (VII. 25.) KvVM rendelet 1. §-a iktatta a szövegbe, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatta.
-[^3]: A mellékletet a 18/2005. (VII. 25.) KvVM rendelet 2. §-a iktatta a szövegbe.
+[^2]: A 4. § eredeti szövegének jelölését a 18/2005. (VII. 25.) KvVM rendelet 1. §-a (1) bekezdésre változtatta.
+[^3]: A 4. § (2) bekezdését a 18/2005. (VII. 25.) KvVM rendelet 1. §-a iktatta a szövegbe, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatta.
+[^4]: A mellékletet a 18/2005. (VII. 25.) KvVM rendelet 2. §-a iktatta be. szövege a 60/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
