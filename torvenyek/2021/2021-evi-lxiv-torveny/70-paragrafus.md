@@ -1,3 +1,3 @@
 ## 26. Módosító rendelkezések
 
-70. §
+### 70. §

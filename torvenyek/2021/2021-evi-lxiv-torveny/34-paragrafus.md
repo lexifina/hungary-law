@@ -1,4 +1,4 @@
-34. § (1) A moratórium – a 2. § (2) és (3) bekezdésében, valamint a (7)–(9) bekezdésben meghatározottak figyelembevételével – e törvény eltérő rendelkezése hiányában az adóssal szemben az érintett hitelezők által érvényesíthető, az általános vagy korlátozott moratórium hatálya alá eső valamennyi követelésre kiterjed, ideértve a moratórium időtartama alatt esedékessé váló vagy keletkező követeléseket is.
+34. § (1) A moratórium – a 2. § (2) és (3) bekezdésében, valamint a (7)–(9) bekezdésben meghatározottak figyelembevételével – e törvény eltérő rendelkezése hiányában az adóssal szemben a hitelezők által érvényesíthető, az általános vagy korlátozott moratórium hatálya alá eső valamennyi követelésre kiterjed, ideértve a moratórium időtartama alatt esedékessé váló vagy keletkező követeléseket is.
 
 (2) A moratórium hatálya alá eső hitelező a moratórium időtartama alatt az adóssal szemben
 

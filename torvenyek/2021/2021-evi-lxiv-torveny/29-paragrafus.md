@@ -16,7 +16,7 @@ a) korlátozott moratóriumot rendel el és a hitelezők érdekeinek védelme é
 
 b) a szerkezetátalakítási terv jóváhagyása iránti nemperes eljárásban elleniratot nyújtanak be, és a felmerülő szakkérdés miatt a szerkezetátalakításban közreműködő szerkezetátalakítási szakértő mellett további szerkezetátalakítási szakértő kirendelése indokolt.
 
-(3) A szerkezetátalakítási szakértő a bírósági kirendelés kézhezvételétől számított 5 munkanapon belül köteles megtenni az összeférhetetlenségi és kizáró ok hiányára, az előírt képzési feltételre is kiterjedő nyilatkozatát, ideértve a szerkezetátalakítási szakértői feladatot ellátó természetes személy nyilatkozatát is.
+(3) A szerkezetátalakítási szakértő a bírósági kirendelés kézhezvételétől számított 5 munkanapon belül köteles benyújtani az összeférhetetlenségi és kizáró ok hiányára kiterjedő nyilatkozatát.
 
 (4) A szerkezetátalakítási szakértő kirendelése nyilvános, átlátható és ellenőrizhető, jogszabályban meghatározott módszertan szerint történik, amely figyelembe veszi az adós gazdasági tevékenységének és pénzügyi nehézségeinek sajátosságait, és az adott ügy ellátásához szükséges szakértelmet.
 

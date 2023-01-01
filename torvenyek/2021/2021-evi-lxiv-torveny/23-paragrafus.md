@@ -22,11 +22,11 @@ d) a hitelező jogi személyben a Ptk. szerinti közvetlen vagy közvetett befol
 
 e) a szerkezetátalakítási szakértőben az adósnak vagy az adós vezető tisztségviselőjének, vezető állású munkavállalójának a Ptk. szerinti közvetlen vagy közvetett befolyása van,
 
-f) ellene büntetőeljárás vagy fegyelmi eljárás indult, vagy közigazgatási hatósági jogkörben olyan szankciós intézkedésre vonatkozó véglegessé vált hatósági határozat született, amelyben az adott szakmai tevékenység folytatásának megtiltását is elrendelték, vagy
+f) ellene büntetőeljárás indult, vagy közigazgatási hatósági jogkörben olyan szankciós intézkedésre vonatkozó véglegessé vált hatósági határozat született, amelyben az adott szakmai tevékenység folytatásának megtiltását is elrendelték, vagy
 
 g) az adóssal olyan szervezeti vagy üzleti kapcsolata van, amely a szerkezetátalakítási szakértő feladatának tárgyilagos ellátását veszélyezteti.
 
-(5) A (4) bekezdésben felsorolt összeférhetetlenségi és kizáró ok a felszámoló szervezet vezető tisztségviselője vonatkozásában sem állhat fenn, továbbá a szerkezetátalakítási szakértői feladatra kijelölt természetes személy vonatkozásában teljesülnie kell a Cstv.-ben előírt felszámolási és vagyonfelügyeleti szakirányú szakképzettségen túl jogszabályban előírt továbbképzésnek is.
+(5) A (4) bekezdésben felsorolt összeférhetetlenségi és kizáró ok a felszámoló szervezet vezető tisztségviselője vonatkozásában sem állhat fenn, továbbá a szerkezetátalakítási szakértői feladatra kijelölt természetes személy vonatkozásában teljesülnie kell a Cstv.-ben előírt felszámolási és vagyonfelügyeleti szakirányú szakképzettségen túl jogszabályban előírt szerkezetátalakítási alap-, illetve továbbképzésnek is.
 
 (6) A szerkezetátalakítási szakértői tevékenységgel okozott kár megtérítését, valamint személyiségi jogsértés miatt járó sérelemdíj megfizetésének a fedezetét felelősségbiztosítással kell biztosítani. A szerkezetátalakítási tevékenységből eredő károk, valamint sérelemdíj biztosításához szükséges felelősségbiztosítás káreseményenként számított legalacsonyabb összege 100 000 000 Ft, és a felelősségbiztosítás évenként számított legalacsonyabb összege 160 000 000 Ft.
 
