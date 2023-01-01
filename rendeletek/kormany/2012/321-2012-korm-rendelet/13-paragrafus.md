@@ -16,10 +16,12 @@ e) a község infrastrukturális fejlettsége, közművesítettsége: az ivóví
 
 f) a közlekedés jellemzői: a község kapcsolódása az országos közlekedési hálózatokhoz (közúti, vasúti), a község elérhetőségi viszonyai, a településen belüli (közösségi) közlekedés, az úthálózat kiépítettsége, a szilárdburkolatú utak aránya, a kerékpárutak kiépítettsége;
 
-g) a község településszerkezete, épített környezete (településközpont, lakásállomány jellemzői), az általa elfogadott és a megyei fejlesztési és rendezési tervek alapján betöltött helye, szerepe;
+g)[^11] a község településszerkezete, épített környezete (településközpont, lakásállomány jellemzői), az általa elfogadott és a vármegyei fejlesztési és rendezési tervek alapján betöltött helye, szerepe;
 
 h) a község intézményei, főként a térséget is ellátók jellemzői, elsősorban az oktatás, a kultúra, a tudomány, a kutatás, az innováció, az egészségügyi és szociális ellátás, egyéb intézmények, valamint az igazgatási és rendészeti szervek területén;
 
 i) a község szellemi, kulturális, sportélete, társadalmi szervezettsége, a civil szerveződések tevékenysége, mindezek kihatása a térségre és
 
 j) az önkormányzati vagyon és a gazdálkodás bemutatása, az önkormányzat társulásos kapcsolatai, térségi szervező munkája.
+
+[^11]: A 13. § (2) bekezdés g) pontja a 616/2022. (XII. 29.) Korm. rendelet 147. § a) pontja szerint módosított szöveg.

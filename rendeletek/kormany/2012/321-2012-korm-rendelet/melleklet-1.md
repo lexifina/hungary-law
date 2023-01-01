@@ -1,6 +1,6 @@
-## 18/A. §[^8] E rendeletnek az egyes kormányrendeleteknek a helyi önkormányzatok törvényességi felügyeletével és a területszervezési eljárással összefüggő módosításáról szóló 61/2015. (III. 24.) Korm. rendelettel (a továbbiakban: Módr.) megállapított szabályait a Módr. hatálybalépésekor[^9] folyamatban lévő területszervezési ügyekben is alkalmazni kell.
+## 18/A. §[^15] E rendeletnek az egyes kormányrendeleteknek a helyi önkormányzatok törvényességi felügyeletével és a területszervezési eljárással összefüggő módosításáról szóló 61/2015. (III. 24.) Korm. rendelettel (a továbbiakban: Módr.) megállapított szabályait a Módr. hatálybalépésekor[^16] folyamatban lévő területszervezési ügyekben is alkalmazni kell.
 
-1. melléklet a 321/2012. (XI. 16.) Korm. rendelethez[^10]
+1. melléklet a 321/2012. (XI. 16.) Korm. rendelethez[^17]
 
 |  | A | B | C | D |
 
@@ -52,6 +52,6 @@
 
 | 23. | Száz foglalkoztatottra jutó helyben foglalkoztatott | fő |
 
-[^8]: A 18/A. §-t a 61/2015. (III. 24.) Korm. rendelet 10. §-a iktatta be.
-[^9]: A hatálybalépés időpontja 2015. március 25.
-[^10]: Az 1. mellékletet a 136/2016. (VI. 13.) Korm. rendelet 7. §-a iktatta be.
+[^15]: A 18/A. §-t a 61/2015. (III. 24.) Korm. rendelet 10. §-a iktatta be.
+[^16]: A hatálybalépés időpontja 2015. március 25.
+[^17]: Az 1. mellékletet a 136/2016. (VI. 13.) Korm. rendelet 7. §-a iktatta be.
