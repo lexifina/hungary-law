@@ -64,7 +64,7 @@ h)[^13] a Tanácsot,
 
 i) a helyszín világörökségi gondnokságát, valamint
 
-j) régészeti érintettség esetén a területileg illetékes megyei hatókörű városi múzeumot vagy területi múzeumot.
+j)[^14] régészeti érintettség esetén a területileg illetékes vármegyei hatókörű városi múzeumot vagy területi múzeumot.
 
 (7) A (6) bekezdésben meghatározott szervezetek és személyek együttműködnek a kezelési terv készítőjével és véleményüket a megkeresést követő 30 napon belül adják meg.
 
@@ -75,3 +75,4 @@ j) régészeti érintettség esetén a területileg illetékes megyei hatókör�
 [^11]: A 8. § (3) bekezdése a 793/2021. (XII. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^12]: A 8. § (6) bekezdés g) pontja a 793/2021. (XII. 27.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
 [^13]: A 8. § (6) bekezdés h) pontja a 793/2021. (XII. 27.) Korm. rendelet 10. § 10. pontja szerint módosított szöveg.
+[^14]: A 8. § (6) bekezdés j) pontja a 616/2022. (XII. 29.) Korm. rendelet 301. § a) pontja szerint módosított szöveg.

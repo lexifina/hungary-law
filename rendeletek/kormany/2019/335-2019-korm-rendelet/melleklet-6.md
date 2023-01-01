@@ -1,5 +1,3 @@
-## Az egyes világörökségi helyszínen található ingatlanok esetében a világörökség védelmének érdekében elővásárlási jogot gyakorló miniszter
-
 |  | A | B |
 
 | 1 | Világörökségi helyszín megnevezése | Az elővásárlási jog gyakorlására jogosult miniszter |
@@ -22,7 +20,7 @@
 
 6. melléklet a 335/2019. (XII. 23.) Korm. rendelethez
 
-## Az elővásárlási joggal kapcsolatos megkeresés tartalmi követelményei
+Az elővásárlási joggal kapcsolatos megkeresés tartalmi követelményei
 
 1. A tulajdonos (eladó) és képviseletében eljáró személy adatai:
 

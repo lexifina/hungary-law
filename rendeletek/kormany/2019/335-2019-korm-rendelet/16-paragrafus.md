@@ -30,7 +30,7 @@ a) (2) bekezdés b)–d) pontja szerint történő megszűnése esetén haladék
 
 b) (2) bekezdés a) pontja szerint történő megszűnése esetén a megbízás időtartamának lejártát megelőző két hónapon belül
 
-## gondoskodik új világörökségi gondnokság kijelöléséről.
+gondoskodik új világörökségi gondnokság kijelöléséről.
 
 (7) A világörökségi gondnokság megbízásának (2) bekezdés a) pontja szerint történő megszűnése esetén a miniszter a világörökségi gondnokság kijelölését a Vötv. 10. § (3) bekezdése szerint akkor hosszabbíthatja meg, ha a világörökségi gondnokság a korábbi tevékenységét megfelelő szakmai színvonalon látta el.
 

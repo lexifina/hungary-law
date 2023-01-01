@@ -1,6 +1,6 @@
 1. melléklet a 335/2019. (XII. 23.) Korm. rendelethez
 
-## A világörökségi kezdeményező dokumentáció tartalma
+A világörökségi kezdeményező dokumentáció tartalma
 
 1. A kezdeményező adatai (név, elérhetőség, képviseletre jogosult neve, kapcsolattartó megjelölése) és rövid bemutatkozása (működési területe, főbb tevékenységek).
 

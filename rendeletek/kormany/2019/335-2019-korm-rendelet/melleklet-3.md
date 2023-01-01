@@ -4,7 +4,7 @@
 
 ## 1. a Részes Állam neve,
 
-## 2. az állam, a régió és a megye neve,
+## 2. az állam, a régió és a vármegye neve,[^32]
 
 ## 3. a felterjesztett helyszín neve,
 
@@ -26,11 +26,11 @@
 
 ## a) a felterjesztő ország neve (és a Részes Állam neve, amennyiben ez eltér),
 
-## b) az állam, a régió és a megye neve,
+## b) az állam, a régió és a vármegye neve,[^33]
 
 ## c) a felterjesztett helyszín neve,
 
-## d) a felterjesztett helyszín földrajzi koordinátáinak megjelölése [sorozatjelölés esetén a helyszín részeit sorszám szerint táblázatban kell felsorolni (név, megye vagy kerület, a középpont koordinátái, a felterjesztett terület alapterülete (hektár), a védőövezet alapterülete (hektár), a térkép száma)],
+## d) a felterjesztett helyszín földrajzi koordinátáinak megjelölése [sorozatjelölés esetén a helyszín részeit sorszám szerint táblázatban kell felsorolni (név, vármegye vagy kerület, a középpont koordinátái, a felterjesztett terület alapterülete (hektár), a védőövezet alapterülete (hektár), a térkép száma)],[^34]
 
 ## e) a felterjesztett helyszín és a hozzá tartozó védőövezet határait ábrázoló térképek,
 
@@ -130,7 +130,7 @@
 
 3. melléklet a 335/2019. (XII. 23.) Korm. rendelethez
 
-## A kezelési terv részletes tartalmi követelményei
+A kezelési terv részletes tartalmi követelményei
 
 1. A kezelési terv hatálya
 
@@ -145,3 +145,7 @@
 6. Az egyes attribútumok védelme
 
 7. Világörökségi terület kezelésének szabályai
+
+[^32]: A 2. melléklet I. pont 2. alpontja a 616/2022. (XII. 29.) Korm. rendelet 301. § b) pontja szerint módosított szöveg.
+[^33]: A 2. melléklet II. pont 1. alpont b) alpontja a 616/2022. (XII. 29.) Korm. rendelet 301. § b) pontja szerint módosított szöveg.
+[^34]: A 2. melléklet II. pont 1. alpont d) alpontja a 616/2022. (XII. 29.) Korm. rendelet 301. § b) pontja szerint módosított szöveg.

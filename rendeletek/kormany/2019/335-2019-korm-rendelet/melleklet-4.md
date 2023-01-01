@@ -1,6 +1,6 @@
 4. melléklet a 335/2019. (XII. 23.) Korm. rendelethez
 
-## A világörökségi kezelési kézikönyv tartalmi követelményei
+A világörökségi kezelési kézikönyv tartalmi követelményei
 
 1. A világörökségi terület bemutatása
 

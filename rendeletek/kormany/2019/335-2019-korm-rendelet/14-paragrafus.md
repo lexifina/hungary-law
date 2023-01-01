@@ -10,7 +10,7 @@ c) elkészíti a kezelési kézikönyvet és koordinálja az abban foglaltak vé
 
 d) monitoring terv segítségével folyamatos követő-figyelést végez a világörökségi területen a kiemelkedő egyetemes értéket hordozó attribútum csoportok komplex rendszerének állapotfigyelésére és állapotváltozásuk értékelésére, az attribútumokhoz köthető, kiemelkedő egyetemes értéket befolyásoló változásokról a miniszter részére évente jelentést készít;
 
-e)[^16] haladéktalanul értesíti a minisztert minden olyan, a világörökségi helyszín attribútumait érintő fejlesztésről, változásról, mely hatással lehet a világörökségi helyszín kiemelkedő egyetemes értékére, a kezelési tervben nevesített attribútumok megőrzési állapotára;
+e)[^17] haladéktalanul értesíti a minisztert minden olyan, a világörökségi helyszín attribútumait érintő fejlesztésről, változásról, mely hatással lehet a világörökségi helyszín kiemelkedő egyetemes értékére, a kezelési tervben nevesített attribútumok megőrzési állapotára;
 
 f) szükség esetén javasolja a világörökségi területtel kapcsolatos módosítást, ideértve a világörökségi terület határa, a világörökségi helyszín elnevezése, valamint kiemelkedő egyetemes értékének megváltoztatása esetét;
 
@@ -22,12 +22,12 @@ i) gondoskodik a világörökségi terület fennmaradását szolgáló használa
 
 j) közreműködik a világörökségi területet bemutató és népszerűsítő kiadványok előkészítésében;
 
-k)[^17] együttműködik a világörökségi helyszín kiemelkedő egyetemes értékének megőrzésével, bemutatásával, valamint a terület turizmusának fejlesztésével foglalkozó szervezetekkel;
+k)[^18] együttműködik a világörökségi helyszín kiemelkedő egyetemes értékének megőrzésével, bemutatásával, valamint a terület turizmusának fejlesztésével foglalkozó szervezetekkel;
 
 l) tájékoztatást ad a világörökségi területtel kapcsolatban.
 
-m)[^18] közreműködik a világörökségi tervtanács munkájában.
+m)[^19] közreműködik a világörökségi tervtanács munkájában.
 
-[^16]: A 14. § e) pontja a 793/2021. (XII. 27.) Korm. rendelet 10. § 11. pontja szerint módosított szöveg.
-[^17]: A 14. § k) pontja a 793/2021. (XII. 27.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^18]: A 14. § m) pontját a 793/2021. (XII. 27.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^17]: A 14. § e) pontja a 793/2021. (XII. 27.) Korm. rendelet 10. § 11. pontja szerint módosított szöveg.
+[^18]: A 14. § k) pontja a 793/2021. (XII. 27.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^19]: A 14. § m) pontját a 793/2021. (XII. 27.) Korm. rendelet 6. § (2) bekezdése iktatta be.

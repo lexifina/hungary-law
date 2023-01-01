@@ -1,6 +1,6 @@
-8. melléklet a 335/2019. (XII. 23.) Korm. rendelethez[^33]
+8. melléklet a 335/2019. (XII. 23.) Korm. rendelethez[^38]
 
-## A hatásvizsgálati dokumentáció tartalmi követelményei
+A hatásvizsgálati dokumentáció tartalmi követelményei
 
 1. Áttekintés (a tervezési terület alapadatai, jelentősége, funkciója, a tervezett beavatkozás rövid ismertetése, a hatásvizsgálat eredménye),
 
@@ -20,4 +20,4 @@
 
 9. Mellékletek.
 
-[^33]: A 8. mellékletet a 793/2021. (XII. 27.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^38]: A 8. mellékletet a 793/2021. (XII. 27.) Korm. rendelet 9. § (2) bekezdése iktatta be.

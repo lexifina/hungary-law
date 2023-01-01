@@ -8,7 +8,7 @@ a) felkérés útján vagy
 
 b) új szervezet létrehozásával
 
-## jelöli ki.
+jelöli ki.
 
 (2) Amennyiben a világörökségi helyszín kiemelkedő egyetemes értéke kizárólag természeti érték, vagy a világörökségi terület teljes egésze országos jelentőségű védett természeti terület, a világörökségi gondnokság kijelöléséhez a természetvédelemért felelős miniszter egyetértése szükséges. A két feltétel együttes teljesülése esetén a Vötv. 10. § (4) bekezdése szerint kell eljárni.
 

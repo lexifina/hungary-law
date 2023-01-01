@@ -1,6 +1,6 @@
-7. melléklet a 335/2019. (XII. 23.) Korm. rendelethez[^31]
+7. melléklet a 335/2019. (XII. 23.) Korm. rendelethez[^36]
 
-## A Tanácsba tagot delegáló személyek és szervezetek
+A Tanácsba tagot delegáló személyek és szervezetek
 
 1. a kulturális örökség védelméért felelős miniszter,
 
@@ -12,7 +12,7 @@
 
 5. a természetvédelemért felelős miniszter,
 
-6.[^32] a köznevelésért felelős miniszter,
+6.[^37] a köznevelésért felelős miniszter,
 
 7. a külpolitikáért felelős miniszter,
 
@@ -32,5 +32,5 @@
 
 15. a világörökségi gondnokság
 
-[^31]: A 7. mellékletet a 793/2021. (XII. 27.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^32]: A 7. melléklet 6. pontja a 238/2022. (VI. 30.) Korm. rendelet 193. §-a szerint módosított szöveg.
+[^36]: A 7. mellékletet a 793/2021. (XII. 27.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^37]: A 7. melléklet 6. pontja a 238/2022. (VI. 30.) Korm. rendelet 193. §-a szerint módosított szöveg.
