@@ -8,7 +8,7 @@ c) a 64/432/EGK, a 90/539/EGK, a 92/35/EGK, a 92/119/EGK, a 93/53/EGK, a 95/70/E
 
 d)[^85] 2012/5/EU európai parlamenti és tanácsi irányelvnek
 
-## való megfelelést szolgálja.
+való megfelelést szolgálja.
 
 (2)[^86] Ez a rendelet a betegségre fogékony fajokhoz tartozó egyes állatok szállításának ellenőrzése, megfigyelése, felügyelete és korlátozása tekintetében a 2000/75/EK tanácsi irányelv végrehajtási szabályairól szóló, 2007. október 26-i 1266/2007/EK bizottsági rendelet, valamint az azt módosító 1304/2008/EK, 1108/2008/EK rendelet, 456/2012/EU bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 

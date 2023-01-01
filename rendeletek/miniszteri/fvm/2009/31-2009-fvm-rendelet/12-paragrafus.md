@@ -34,7 +34,7 @@ e) a laboratóriumi vizsgálatok eredményei, vagy
 
 f) az alkalmazott védekezési intézkedések, különösen a kórokozó átvivők irtása indokolttá teszik.
 
-(3)[^65] A NÉBIH a védelmi intézkedések felügyeletére és koordinálására megbízottat küldhet a helyszínre, ebben az esetben a megyei kormányhivatal, valamint a kirendelt állatorvosok kötelesek az ő rendelkezései szerint eljárni.
+(3)[^65] A NÉBIH a védelmi intézkedések felügyeletére és koordinálására megbízottat küldhet a helyszínre, ebben az esetben a vármegyei kormányhivatal, valamint a kirendelt állatorvosok kötelesek az ő rendelkezései szerint eljárni.
 
 (4)[^66] A NÉBIH valamely, a kéknyelv betegség által járványügyileg releváns földrajzi területnek a korlátozás alá vont körzetből történő kivonása előtt benyújtja az Európai Bizottságnak az 1266/2007/EK rendelet szerinti ellenőrzési programon alapuló azon információkat, amelyek alátámasztják, hogy a kéknyelv betegséget okozó vírus két éven át – beleértve a kórokozó-átvivő két teljes aktív időszakát is – nem terjedt az érintett területen.
 
@@ -50,7 +50,7 @@ f) az alkalmazott védekezési intézkedések, különösen a kórokozó átviv�
 [^62]: A 12. § (1) bekezdés d) pontja a 46/2015. (VIII. 7.) FM rendelet 42. § (1) bekezdésével megállapított szöveg.
 [^63]: A 12. § (1) bekezdés f) pontját a 117/2012. (XI. 21.) VM rendelet 10. § (5) bekezdés a) pontja hatályon kívül helyezte.
 [^64]: A 12. § (2) bekezdés nyitó szövegrésze a 117/2012. (XI. 21.) VM rendelet 8. § f) pontja szerint módosított szöveg.
-[^65]: A 12. § (3) bekezdése a 117/2012. (XI. 21.) VM rendelet 8. § f) pontja, a 46/2015. (VIII. 7.) FM rendelet 46. § 17. pontja szerint módosított szöveg.
+[^65]: A 12. § (3) bekezdése a 117/2012. (XI. 21.) VM rendelet 8. § f) pontja, a 46/2015. (VIII. 7.) FM rendelet 46. § 17. pontja, a 113/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
 [^66]: A 12. § (4) bekezdése a 117/2012. (XI. 21.) VM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^67]: A 12. § (5) bekezdése a 46/2015. (VIII. 7.) FM rendelet 42. § (2) bekezdésével megállapított szöveg.
 [^68]: A 12. § (6) bekezdését a 117/2012. (XI. 21.) VM rendelet 4. § (3) bekezdése iktatta be.
