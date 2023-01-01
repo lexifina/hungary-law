@@ -6,7 +6,7 @@ a)[^52] a 3. § (1) bekezdés a)–d), f) és i)–m) pontjában, valamint a 9. 
 
 b)[^53] a 4. § (1) bekezdésében és a 10. § (1) bekezdésében meghatározott esetekben az engedélyezés tényét, az engedély időbeli hatálya megszűnésének időpontját, az engedély visszavonása esetén a visszavonás tényét, az engedélyező, illetve visszavonó hatóság megnevezését és a határozat számát
 
-## a bejegyezésre okot adó körülménytől számított tizenöt napon belül a közlekedési igazgatási hatóságnál a járműnyilvántartásba bejegyeztetni. A kötelezettség kiterjed az a) pontnál a jogosultságnak, b) pontnál az engedélyezés tényének, lejárta időpontjának, illetve visszavonásának a forgalmi engedélybe történő bejegyeztetésére is.
+a bejegyezésre okot adó körülménytől számított tizenöt napon belül a közlekedési igazgatási hatóságnál a járműnyilvántartásba bejegyeztetni. A kötelezettség kiterjed az a) pontnál a jogosultságnak, b) pontnál az engedélyezés tényének, lejárta időpontjának, illetve visszavonásának a forgalmi engedélybe történő bejegyeztetésére is.
 
 (2)[^54]
 

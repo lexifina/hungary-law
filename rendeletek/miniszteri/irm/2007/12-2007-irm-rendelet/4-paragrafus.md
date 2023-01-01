@@ -20,7 +20,7 @@ i) a Legfőbb Ügyészség,
 
 j)[^20]
 
-## által üzemben tartott gépjárművekre adható.
+által üzemben tartott gépjárművekre adható.
 
 (1a)[^21] Az (1) bekezdésben meghatározottakon kívül megkülönböztető jelzést adó készülék felszereléséhez szükséges hatósági engedély adható a közlekedési balesetek szakmai vizsgálatát külön jogszabály alapján végző közlekedésbiztonsági szerv által használt gépjárművekre.
 

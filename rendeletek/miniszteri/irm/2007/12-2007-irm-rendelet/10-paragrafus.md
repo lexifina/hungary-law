@@ -10,7 +10,7 @@ d)[^46] a pénz- és értékszállítást – személy- és vagyonvédelmi tevé
 
 e)[^47] a biztonsági okmányok védelmének rendjéről szóló kormányrendeletben meghatározott biztonsági okmányok szállítását szerződés alapján végző szervezet által üzemeltetett, biztonsági okmányok szállítását rendszeresen végző
 
-## járműre adható, ha a jármű üzemeltetési célja azt indokolja.
+járműre adható, ha a jármű üzemeltetési célja azt indokolja.
 
 (2)[^48] A figyelmeztető jelzést adó készülék felszerelésére engedély csak az (1) bekezdésben meghatározott célból üzemeltetett jármű üzembentartója részére adható.
 
