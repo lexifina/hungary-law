@@ -1,5 +1,5 @@
-## 18/A. §[^48] Közlekedési eszközön folytatott értékesítés a közlekedési eszköz tulajdonosának, vagy üzembentartójának engedélyével, továbbá az értékesített termékre vonatkozó jogszabályok alapján szükséges hatósági engedélyek birtokában, a kereskedő nevének és székhelyének a vásárlók számára jól látható helyen történő feltüntetésével végezhető.
+## 18/A. §[^51] Közlekedési eszközön folytatott értékesítés a közlekedési eszköz tulajdonosának, vagy üzembentartójának engedélyével, továbbá az értékesített termékre vonatkozó jogszabályok alapján szükséges hatósági engedélyek birtokában, a kereskedő nevének és székhelyének a vásárlók számára jól látható helyen történő feltüntetésével végezhető.
 
 ## Egyes termékek forgalmazására vonatkozó előírások
 
-[^48]: A 18/A. §-t az 524/2013. (XII. 30.) Korm. rendelet 3. §-a iktatta be.
+[^51]: A 18/A. §-t az 524/2013. (XII. 30.) Korm. rendelet 3. §-a iktatta be.

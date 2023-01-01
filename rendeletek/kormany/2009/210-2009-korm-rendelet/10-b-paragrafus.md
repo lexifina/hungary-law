@@ -1,3 +1,3 @@
-## Statisztikai adatok nyilvántartásból történő lekérdezésének rendje[^37]
+## Statisztikai adatok nyilvántartásból történő lekérdezésének rendje[^40]
 
-[^37]: A 10/B. §-t megelőző alcímet a 441/2015. (XII. 28.) Korm. rendelet 113. §-a iktatta be, szövege a 611/2020. (XII. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^40]: A 10/B. §-t megelőző alcímet a 441/2015. (XII. 28.) Korm. rendelet 113. §-a iktatta be, szövege a 611/2020. (XII. 18.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
-17. §[^44] (1) Csomagküldő kereskedelem útján a kedvtelésből tartott állatok tartásáról és forgalmazásáról szóló jogszabály szerinti kedvtelésből tartott állat nem forgalmazható.
+17. §[^47] (1) Csomagküldő kereskedelem útján a kedvtelésből tartott állatok tartásáról és forgalmazásáról szóló jogszabály szerinti kedvtelésből tartott állat nem forgalmazható.
 
-(2)[^45]
+(2)[^48]
 
-[^44]: A 17. § a 41/2010. (II. 26.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
-[^45]: A 17. § (2) bekezdését az 531/2022. (XII. 19.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^47]: A 17. § a 41/2010. (II. 26.) Korm. rendelet 21. § (3) bekezdésével megállapított szöveg.
+[^48]: A 17. § (2) bekezdését az 531/2022. (XII. 19.) Korm. rendelet 4. §-a hatályon kívül helyezte.
