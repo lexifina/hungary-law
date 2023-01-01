@@ -1,3 +1,1 @@
-23. §[^24]
-
-[^24]: A 23. § a 27. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+23. § Az R. 4. melléklete a 2. melléklet szerint módosul.

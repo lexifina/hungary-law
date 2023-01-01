@@ -1,6 +1,7 @@
-3. § (1)[^3]
+3. § (1) Az R. 9. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-(2)[^4]
+„(2) A Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság, valamint a Nemzeti Sportinfrastruktúra Ügynökség tulajdonosi joggyakorlásával kapcsolatos ügyleteket biztosító központi kezelésű előirányzatok kezelő szerve a Nemzeti Sportügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: NSÜ NZrt.).”
 
-[^3]: A 3. § (1) bekezdése a 27. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^4]: A 3. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+(2)[^3]
+
+[^3]: A 3. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
