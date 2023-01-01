@@ -2,7 +2,7 @@
 
 4. § (1) A kormányhivatal soron kívül jár el.
 
-(2)[^5] Az eljárás eredményes lefolytatása érdekében a kormányhivatal mellőzi az eljárás megindításáról szóló, az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) szerinti értesítést; ugyanakkor az eljárás megindítását követően haladéktalanul, a honlapján, valamint az ingatlan fekvése szerinti települési önkormányzat (a továbbiakban: önkormányzat) hirdetőtábláján 30 napra tájékoztatást tesz közzé az alábbi adatokkal:
+(2)[^6] Az eljárás eredményes lefolytatása érdekében a kormányhivatal mellőzi az eljárás megindításáról szóló, az általános közigazgatási rendtartásról szóló törvény (a továbbiakban: Ákr.) szerinti értesítést; ugyanakkor az eljárás megindítását követően haladéktalanul, a honlapján, valamint az ingatlan fekvése szerinti települési önkormányzat (a továbbiakban: önkormányzat) hirdetőtábláján 30 napra tájékoztatást tesz közzé az alábbi adatokkal:
 
 a) az eljáró hatóság megjelölése,
 
@@ -14,4 +14,4 @@ d) az eljárás megindításának napja.
 
 (3) Az egyszeri kártalanításról szóló határozatot az ügyféllel hirdetményi úton is közölni kell.
 
-[^5]: A 4. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 539. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^6]: A 4. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 539. § a) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
