@@ -1,5 +1,3 @@
-## Hollókő ófalu és környezete világörökségi helyszín és védőövezete területi lehatárolása és elhelyezkedése
-
 ## A világörökségi terület határoló pontjai
 
 |  | A | B | C | D |
@@ -296,7 +294,7 @@
 
 2. melléklet a 108/2017. (IV. 28.) Korm. rendelethez
 
-## A Hollókő ófalu és környezete világörökségi terület világörökségi kezelési terve
+A Hollókő ófalu és környezete világörökségi terület világörökségi kezelési terve
 
 1. Alapadatok
 
@@ -616,7 +614,7 @@ e) óriásplakátok és egyéb reklámok, továbbá a világörökségi helyszí
 
 5. Társadalmi-szakmai részvétel a kezelési terv alkalmazása során
 
-5.1. A kezelési tervben foglaltak végrehajtását támogató, a területen érintett országos szervek, megyei szervezetek és intézmények, illetve a helyi érdekeltek közötti kommunikáció, érdekegyeztetés és konszenzusteremtés lehetőségét az UNESCO Magyar Nemzeti Bizottságáról szóló 17/2012. (II. 16.) Korm. rendelet 11. § (1) bekezdés g) pontja szerinti szakbizottság biztosítja.
+5.1.[^1] A kezelési tervben foglaltak végrehajtását támogató, a területen érintett országos szervek, vármegyei szervezetek és intézmények, illetve a helyi érdekeltek közötti kommunikáció, érdekegyeztetés és konszenzusteremtés lehetőségét az UNESCO Magyar Nemzeti Bizottságáról szóló 17/2012. (II. 16.) Korm. rendelet 11. § (1) bekezdés g) pontja szerinti szakbizottság biztosítja.
 
 5.2. A kezelési terv végrehajtásában érintett helyi érdekeltek az 1. mellékletben meghatározott terület állandó lakosai és nem helyben lakó ingatlantulajdonosai, a területen illetékes elsőfokú hatóságok és államigazgatási szervek, a nemzeti park igazgatóság, valamint a területen tevékenységet folytató, a kiemelkedő egyetemes érték megőrzéséhez kapcsolódó célra alakult civil szervezetek, vállalkozók, illetve gazdálkodó szervek.
 
@@ -655,3 +653,5 @@ együttműködésében történik. E szervezetek a folyamatfigyelésnek a rájuk
 a) A világörökségi gondnokság az 1.2. pont szerinti attribútumok részletes kifejtésére alapozott éves állapotjelentést készít az éves jelentéstételi kötelezettségének teljesítéséhez.
 
 b) Amennyiben a világörökségi gondnokság a stratégiai vagy a horizontális célok elérését figyelő monitoringrendszerben az értékek tendenciózus vagy hirtelen jelentős romlását észleli, azonnal cselekvési tervet kell készítenie a káros folyamatok megállítása érdekében.
+
+[^1]: A 2. melléklet 5.1. pontja a 616/2022. (XII. 29.) Korm. rendelet 255. §-a szerint módosított szöveg.
