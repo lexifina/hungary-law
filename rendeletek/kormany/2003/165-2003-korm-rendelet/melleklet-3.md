@@ -116,13 +116,13 @@
 
 3. számú melléklet a 165/2003. (X. 18.) Korm. rendelethez
 
-## A lakossági tájékoztatás eszközei
+A lakossági tájékoztatás eszközei
 
 1. A lakossági tájékoztatás eszközei a megelőzés időszakában:
 
 a) a Lakossági Tájékoztatási Tervben található tájékoztatási módok, valamint a Baleset-elhárítási Intézkedési Tervben kidolgozott lehetséges óvintézkedések ismertetése az érintett lakosság körében,
 
-b)[^14] radiológiai ismeretek beépítése a köznevelési, szakképzési, felsőoktatási tantervekbe, programokba, tematikákba,
+b)[^18] radiológiai ismeretek beépítése a köznevelési, szakképzési, felsőoktatási tantervekbe, programokba, tematikákba,
 
 c) a hatóság és üzemeltető szervezet tájékoztató kiadványainak terjesztése,
 
@@ -146,4 +146,4 @@ e) a sajtó,
 
 f) az Országos Nukleárisbaleset-elhárítási Rendszer szerveinek, szervezeteinek Internet honlapjai.
 
-[^14]: A 3. számú melléklet 1. pont b) alpontja a 13/2020. (II. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^18]: A 3. számú melléklet 1. pont b) alpontja a 13/2020. (II. 7.) Korm. rendelet 18. §-a szerint módosított szöveg.

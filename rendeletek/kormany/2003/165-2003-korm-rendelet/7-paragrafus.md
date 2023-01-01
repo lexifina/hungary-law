@@ -1,6 +1,6 @@
 ## Az Országos Nukleárisbaleset-elhárítási Rendszer, valamint a nukleáris és radiológiai létesítmények önálló lakossági tájékoztatást végző szervei és szervezetei
 
-7. §[^7] (1) A nukleáris és radiológiai veszélyhelyzet esetén önálló lakossági tájékoztatás végzésére jogosult szervek:
+7. §[^9] (1) A nukleáris és radiológiai veszélyhelyzet esetén önálló lakossági tájékoztatás végzésére jogosult szervek:
 
 a) a hivatásos katasztrófavédelmi szerv központi szerve,
 
@@ -16,15 +16,15 @@ e) az egészségügyért felelős miniszter vagy az általa kijelölt személy.
 
 a) az ágazati nukleárisbaleset-elhárítási szervezetek,
 
-b) a megyei, fővárosi védelmi bizottságok,
+b)[^10] a vármegyei, fővárosi védelmi bizottságok,
 
-c)[^8] az Energiatudományi Kutatóközpont kutatóreaktora,
+c)[^11] az Energiatudományi Kutatóközpont kutatóreaktora,
 
 d) a Budapesti Műszaki és Gazdaságtudományi Egyetem oktatóreaktora,
 
 e) a Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft.,
 
-f)[^9] a Nemzeti Népegészségügyi Központ,
+f)[^12] a Nemzeti Népegészségügyi Központ,
 
 g) a Magyarország területén sugárveszélyes tevékenység végzésére engedéllyel rendelkező szervezet,
 
@@ -38,6 +38,7 @@ i) az Országos Mentőszolgálat.
 
 (5) Az 1. § (2) bekezdésben foglalt feltételek fennállása esetén a veszélyhelyzet elhárításával kapcsolatos kormányzati kommunikációs tevékenységet a kormányzati koordinációs szerv vezetője hangolja össze.
 
-[^7]: A 7. § a 286/2017. (IX. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^8]: A 7. § (2) bekezdés c) pontja a 204/2019. (VIII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^9]: A 7. § (2) bekezdés f) pontja a 162/2018. (IX. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^9]: A 7. § a 286/2017. (IX. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^10]: A 7. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 51. §-a szerint módosított szöveg.
+[^11]: A 7. § (2) bekezdés c) pontja a 204/2019. (VIII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^12]: A 7. § (2) bekezdés f) pontja a 162/2018. (IX. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
