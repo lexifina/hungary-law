@@ -18,13 +18,7 @@ Határidő: 2019. január 7.
 
 3. az előadó-művészeti szervezetek támogatásának adókedvezménye megszüntetésével összefüggésben a kulturális ágazat többlettámogatására szolgáló költségvetési előirányzat mértékét 37 400 000 000 forintban állapítja meg;
 
-4. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: 2019. évi Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 13. Művészeti tevékenységek alcímet a 14. Az előadó-művészeti szervezetek többlettámogatása jogcímcsoporttal egészíti ki;
-
-Felelős: pénzügyminiszter
-
-emberi erőforrások minisztere
-
-Határidő: 2019. január 7.
+4.[^1]
 
 5. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – beépülő jelleggel gondoskodjon 37 400 000 000 forint rendelkezésre állásáról a 2019. évi Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 13. Művészeti tevékenységek alcím, 14. Az előadó-művészeti szervezetek többlettámogatása jogcímcsoport javára.
 
@@ -35,3 +29,5 @@ emberi erőforrások minisztere
 Határidő: a 2019. évben a felmerülés ütemében
 
 a 2020. évtől kezdődően a központi költségvetés tervezése során
+
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
