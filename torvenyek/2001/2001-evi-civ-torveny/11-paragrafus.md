@@ -6,9 +6,9 @@
 
 (3) A zár alá vételt elrendelő határozat rendelkező részében meg kell jelölni, hogy a zár alá vétel pénzbírság biztosítására szolgál, valamint hogy a zár alá vétel mekkora összeg biztosítására szolgál.
 
-(3a) Ha a zár alá vételt elrendelő határozat nem tartalmazza a (3) bekezdésben foglaltakat, a bíróság – a vádemelés előtt az ügyészség, a terhelt, valamint a vagyoni érdekelt indítványára, a vádemelés után hivatalból – a (3) bekezdésnek megfelelően határoz a zár alá vételről rendelkező határozat kiegészítéséről.
+(3a) Ha a zár alá vételt elrendelő határozat nem tartalmazza a (3) bekezdésben foglaltakat, a bíróság – a vádemelés előtt az ügyészség, a terhelt, valamint a vagyoni érdekelt vagy a jogszabály alapján a bűnügyi hitelezői igény képviseletére jogosult egyéb érdekelt indítványára, a vádemelés után hivatalból – a (3) bekezdésnek megfelelően határoz a zár alá vételről rendelkező határozat megváltoztatásáról.
 
-(4)
+(4) A (3) és (3a) bekezdés szerinti határozatokat haladéktalanul kézbesíteni kell a vagyoni érdekeltnek, valamint a jogszabály alapján a bűnügyi hitelezői igény képviseletére jogosult egyéb érdekeltnek is.
 
 (5)
 

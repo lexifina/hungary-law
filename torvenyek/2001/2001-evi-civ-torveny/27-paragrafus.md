@@ -2,4 +2,4 @@
 
 ## ZÁRÓ RENDELKEZÉSEK
 
-27. §
+### 27. §
