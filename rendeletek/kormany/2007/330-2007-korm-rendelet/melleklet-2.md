@@ -1,6 +1,6 @@
 ## A határterülethez tartozó települések
 
-## 1. Baranya megye
+## 1. Baranya vármegye
 
 ## 1.1. Adorjás
 
@@ -170,7 +170,7 @@
 
 ## 1.84. Zaláta
 
-## 2. Bács-Kiskun megye
+## 2. Bács-Kiskun vármegye
 
 ## 2.1. Balotaszállás
 
@@ -220,7 +220,7 @@
 
 ## 2.24. Vaskút
 
-## 3. Békés megye
+## 3. Békés vármegye
 
 ## 3.1. Almáskamarás
 
@@ -294,7 +294,7 @@
 
 ## 3.36. Zsadány
 
-## 4. Borsod-Abaúj-Zemplén megye
+## 4. Borsod-Abaúj-Zemplén vármegye
 
 ## 4.1. Abaújvár
 
@@ -540,7 +540,7 @@
 
 ## 4.122. Zsujta
 
-## 5.[^13] Csongrád-Csanád megye
+## 5. Csongrád-Csanád vármegye
 
 ## 5.1. Ambrózfalva
 
@@ -596,7 +596,7 @@
 
 ## 5.27. Zákányszék
 
-## 6. Győr-Moson-Sopron megye
+## 6. Győr-Moson-Sopron vármegye
 
 ## 6.1. Abda
 
@@ -732,7 +732,7 @@
 
 ## 6.67. Mosonszolnok
 
-## 6.67/A.[^14] Mosonudvar
+## 6.67/A. Mosonudvar
 
 ## 6.68. Nagybajcs
 
@@ -798,7 +798,7 @@
 
 ## 6.99. Zsira
 
-## 7. Hajdú-Bihar megye
+## 7. Hajdú-Bihar vármegye
 
 ## 7.1. Álmosd
 
@@ -884,7 +884,7 @@
 
 ## 7.42. Váncsod
 
-## 8. Komárom-Esztergom megye
+## 8. Komárom-Esztergom vármegye
 
 ## 8.1. Ács
 
@@ -948,7 +948,7 @@
 
 ## 8.31. Tokod
 
-## 9. Nógrád megye
+## 9. Nógrád vármegye
 
 ## 9.1. Balassagyarmat
 
@@ -1068,7 +1068,7 @@
 
 ## 9.59. Zabar
 
-## 10. Pest megye
+## 10. Pest vármegye
 
 ## 10.1. Bernecebaráti
 
@@ -1096,7 +1096,7 @@
 
 ## 10.13. Zebegény
 
-## 11. Somogy megye
+## 11. Somogy vármegye
 
 ## 11.1. Babócsa
 
@@ -1176,7 +1176,7 @@
 
 ## 11.39. Zákányfalu
 
-## 12. Szabolcs-Szatmár-Bereg megye
+## 12. Szabolcs-Szatmár-Bereg vármegye
 
 ## 12.1. Anarcs
 
@@ -1472,7 +1472,7 @@
 
 ## 12.147. Zsurk
 
-## 13. Vas megye
+## 13. Vas vármegye
 
 ## 13.1. Alsószölnök
 
@@ -1636,7 +1636,7 @@
 
 ## 13.81. Viszák
 
-## 14. Zala megye
+## 14. Zala vármegye
 
 ## 14.1. Alsószenterzsébet
 
@@ -1792,8 +1792,6 @@
 
 ## 14.77. Zalaszombatfa
 
-2. melléklet a 330/2007. (XII. 13.) Korm. rendelethez[^15]
+2. melléklet a 330/2007. (XII. 13.) Korm. rendelethez[^14]
 
-[^13]: Az 1. melléklet 5. pont nyitó szövegrésze a 371/2020. (VII. 30.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^14]: Az 1. melléklet 6.67/A. pontját a 148/2010. (IV. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^15]: A 2. mellékletet a 182/2009. (IX. 10.) Korm. rendelet 595. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^14]: A 2. mellékletet a 182/2009. (IX. 10.) Korm. rendelet 595. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
