@@ -8,6 +8,8 @@
 
 ## Eljáró hatóság megnevezése és címe:
 
+## 7K35287_0
+
 |  | A | B | C | D | E | F | G |
 
 | 1. | A gyermek neve | Adóazonosító jele | Anyja születéskori neve | Születési helye | Születési ideje | A nevelésben töltött idő kezdő napja | A nevelésben töltött idő záró napja |

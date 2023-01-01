@@ -40,4 +40,4 @@
 
 2. melléklet a 43/2013. (X. 1.) NGM rendelethez[^6]
 
-[^6]: A 2. melléklet a 7/2020. (VII. 30.) PM rendelet 14. §-ával megállapított szöveg.
+[^6]: A 2. melléklet a 7/2020. (VII. 30.) PM rendelet 14. §-ával megállapított, a 15/2022. (XII. 20.) PM rendelet 1. §-a szerint módosított szöveg.

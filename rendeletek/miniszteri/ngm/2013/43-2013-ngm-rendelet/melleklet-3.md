@@ -14,7 +14,7 @@
 
 ## anyja születési neve:
 
-## A fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala mint gyámhatóság igazolása
+## A fővárosi és vármegyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala mint gyámhatóság igazolása
 
 ## Eljáró hatóság megnevezése és címe:
 
