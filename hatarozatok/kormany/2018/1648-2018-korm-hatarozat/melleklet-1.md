@@ -32,13 +32,7 @@
 
 ## Határidő: azonnal
 
-## c) az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: 2019. évi Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 25. Felújítások központi támogatása, egyéb fejlesztési támogatások alcím, 75. Makó Városi Termál- és Gyógyfürdő (Hagymatikum) fejlesztése jogcímcsoporttal történő kiegészítését,
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: a 2019. évi központi költségvetés végrehajtása során
+## c)[^2]
 
 ## d) felhívja a pénzügyminisztert, hogy a Beruházás I. megvalósítása érdekében a Miniszterelnökséget vezető miniszter országképi és településképi arculattal kapcsolatos véleménye alapján, a belügyminiszter és az emberi erőforrások minisztere bevonásával gondoskodjon
 
@@ -60,7 +54,7 @@
 
 ## e) felhívja a pénzügyminisztert, hogy a Beruházás II. megvalósítása érdekében a Miniszterelnökséget vezető miniszter országképi és településképi arculattal kapcsolatos véleménye alapján, a belügyminiszter és az emberi erőforrások minisztere bevonásával gondoskodjon
 
-## ea) 1 511 800 000 forint rendelkezésre bocsátásáról a 2019. évi Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 3. Nemzeti Sportközpontok cím javára, mely összegből 1 458 975 000 forint a 2019. évi Kvtv. 1. melléklet IX. Helyi Önkormányzatok támogatásai fejezet terhére kerül biztosításra,[^2]
+## ea) 1 511 800 000 forint rendelkezésre bocsátásáról a 2019. évi Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 3. Nemzeti Sportközpontok cím javára, mely összegből 1 458 975 000 forint a 2019. évi Kvtv. 1. melléklet IX. Helyi Önkormányzatok támogatásai fejezet terhére kerül biztosításra,[^3]
 
 ## eb) 1 901 000 000 forint rendelkezésre állásáról a 2020. évi központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezetben,
 
@@ -76,7 +70,7 @@
 
 ## az eb) és az ec) alpont tekintetében az adott évi központi költségvetés tervezése során
 
-1. melléklet az 1648/2018. (XII. 6.) Korm. határozathoz[^3]
+1. melléklet az 1648/2018. (XII. 6.) Korm. határozathoz[^4]
 
 | Település | Projekt | Támogatott | Összeg (Ft) (a 2016–2019. évi forrás terhére) |
 
@@ -141,5 +135,6 @@
 | Összesen |  |  | 11 020 000 000 |
 
 [^1]: Az 1815/2019. (XII. 30.) Korm. határozat 1. pont a) alpontja alapján a határidő 2020. május 31.
-[^2]: Az 1815/2019. (XII. 30.) Korm. határozat 1. pont b) alpontja alapján az 5. pont e) alpont ea) pontjában meghatározott forrás az 5. pont e) alpont ea) pontjában foglaltaktól eltérően a Makó Város Önkormányzata által megvalósítani kívánt Makói Városi Termál- és Gyógyfürdő (Hagymatikum) bővítésére használható fel.
-[^3]: Az 1815/2019. (XII. 30.) Korm. határozat 1. pont c) alpontja alapján a Kormány az 1. mellékletben foglaltaktól eltérően az 1815/2019. (XII. 30.) Korm. határozat 1. melléklete szerinti fejlesztéseket támogatja.
+[^2]: Az 5. pont c) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1815/2019. (XII. 30.) Korm. határozat 1. pont b) alpontja alapján az 5. pont e) alpont ea) pontjában meghatározott forrás az 5. pont e) alpont ea) pontjában foglaltaktól eltérően a Makó Város Önkormányzata által megvalósítani kívánt Makói Városi Termál- és Gyógyfürdő (Hagymatikum) bővítésére használható fel.
+[^4]: Az 1815/2019. (XII. 30.) Korm. határozat 1. pont c) alpontja alapján a Kormány az 1. mellékletben foglaltaktól eltérően az 1815/2019. (XII. 30.) Korm. határozat 1. melléklete szerinti fejlesztéseket támogatja.
