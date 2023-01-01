@@ -1,6 +1,4 @@
-## 1. §
-
-(1)[^1] Magyarországon 313 közjegyző működik.
+1. § (1)[^1] Magyarországon 313 közjegyző működik.
 
 (2) Hagyatéki ügyekben a Budapest székhelyre kinevezett közjegyzők működési körzetek szerint járnak el, a közjegyző az irodáját a működési körzetében tartja fenn.
 

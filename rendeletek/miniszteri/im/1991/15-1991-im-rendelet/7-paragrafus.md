@@ -2,9 +2,7 @@
 
 ## Az egyes igazságügyi tárgyú miniszteri rendeleteknek az új Ptk. hatálybalépésével összefüggő módosításáról szóló 21/2014. (III. 13.) KIM rendelet (a továbbiakban: Módr.) 2. mellékletében Törökbálint székhellyel létrehozott új álláshelyre a pályázatot a Módr. 2. mellékletének hatálybalépését[^6] követő 15 napon belül meg kell hirdetni.
 
-## 7. §[^7]
-
-(1) Az igazságügyért felelős miniszter a közjegyzői állások számáról és a közjegyzők székhelyéről szóló 15/1991. (XI. 26.) IM rendelet, valamint a Cégközlönyben megjelenő közlemények közzétételéről és költségtérítéséről szóló 22/2006. (V. 18.) IM rendelet módosításáról szóló 1/2017. (III. 7.) IM rendelet (a továbbiakban: Módr2.) Melléklete szerinti, a Szigetszentmiklósi Járásbíróság illetékességi területén létrehozott 2. közjegyzői álláshelyet – az érintett közjegyző hozzájárulásával – a Ráckevei Járásbíróság illetékességi területén működő 2. sz. közjegyző áthelyezésével, ezen álláshely megszűnésével egyidejűleg, a Módr2. hatálybalépése[^8] napjával tölti be.
+7. §[^7] (1) Az igazságügyért felelős miniszter a közjegyzői állások számáról és a közjegyzők székhelyéről szóló 15/1991. (XI. 26.) IM rendelet, valamint a Cégközlönyben megjelenő közlemények közzétételéről és költségtérítéséről szóló 22/2006. (V. 18.) IM rendelet módosításáról szóló 1/2017. (III. 7.) IM rendelet (a továbbiakban: Módr2.) Melléklete szerinti, a Szigetszentmiklósi Járásbíróság illetékességi területén létrehozott 2. közjegyzői álláshelyet – az érintett közjegyző hozzájárulásával – a Ráckevei Járásbíróság illetékességi területén működő 2. sz. közjegyző áthelyezésével, ezen álláshely megszűnésével egyidejűleg, a Módr2. hatálybalépése[^8] napjával tölti be.
 
 (2) Az illetékesség hiányára nem lehet hivatkozni, ha a Szigetszentmiklós székhelyre kinevezett közjegyző a bíróságok elnevezéséről, székhelyéről és illetékességi területének meghatározásáról szóló 2010. évi CLXXXIV. törvénynek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 1. melléklet 14/13. pontja hatálybalépését követően, a Módr2. hatálybalépéséig[^9] a Szigetszentmiklósi Járásbíróság illetékességi területén járt el.
 
@@ -180,7 +178,7 @@ I. A BUDAPESTI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 | Székhely, illetékességi terület | Körzet | A hagyatéki eljárásban irányadó havi beosztás |
 
-| Komárom-Esztergom megye |
+| Komárom-Esztergom vármegye |
 
 | 1. | Esztergomi Járásbíróság | 1. sz. közjegyző | január, április, július, október |
 
@@ -200,7 +198,7 @@ I. A BUDAPESTI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 |  | 3. sz. közjegyző | március, június, szeptember, december |
 
-| Nógrád megye |
+| Nógrád vármegye |
 
 | 1. | Balassagyarmati Járásbíróság | 1. sz. közjegyző | január, március, május, július, szeptember, november |
 
@@ -214,7 +212,7 @@ I. A BUDAPESTI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 |  | 3. sz. közjegyző | március, június, szeptember, december |
 
-| Pest megye |
+| Pest vármegye |
 
 | 1. | Budakeszi és Budajenő, Nagykovácsi, Páty, Perbál, Remeteszőlős, Telki, Tök, Zsámbék (a Budaörsi Járásbíróság illetékességi területéből), Solymár, Tinnye (a Budakörnyéki Járásbíróság illetékességi területéből) | 1. sz. közjegyző | január, március, május, július, szeptember, november február, |
 
@@ -284,7 +282,7 @@ II. A GYŐRI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 |  | Székhely, illetékességi terület | Körzet | A hagyatéki eljárásban irányadó havi beosztás |
 
-| Győr-Moson-Sopron megye |
+| Győr-Moson-Sopron vármegye |
 
 | 1. | Csornai Járásbíróság (kivéve: Agyagosszergény, Babót, Beled, Cirák, Dénesfa, Edve, Gyóró, Himod, Hövej, Kapuvár, Kisfalud, Mihályi, Osli, Rábakecöl, Répceszemere, Szárföld, Vadosfa, Vásárosfalu, Veszkény, Vitnyéd), valamint Bezi, Fehértó, Győrsövényház, Kisbabot, Mérges, Rábacsécsény, Rábaszentmihály (a Győri Járásbíróság illetékességi területéből) | egy körzet | egész év |
 
@@ -312,7 +310,7 @@ II. A GYŐRI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 |  | 3. sz. közjegyző | március, június, szeptember, december |
 
-| Vas megye |
+| Vas vármegye |
 
 | 1. | Celldömölk és Boba, Borgáta, Csönge, Duka, Egyházashetye, Jánosháza, Karakó, Keléd, Kemeneskápolna, Kemenesmagasi, Kemenesmihályfa, Kemenespálfa, Kemenessömjén, Kemenesszentmárton, Kenyeri, Kissomlyó, Köcsk, Mersevát, Mesteri, Nagysimonyi, Nemeskeresztúr, Nemeskocs, Ostffyasszonyfa, Pápoc, Szergény, Tokorcs, Vönöck (a Sárvári Járásbíróság illetékességi területéből)egy körzet | egész év |  |
 
@@ -332,7 +330,7 @@ II. A GYŐRI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 |  | 5. sz. közjegyző | egész év (Alsóújlak, Andrásfa, Balogunyom, Bérbaltavár, Csehi, Csehimindszent, Csempeszkopács, Csipkerek, Egervölgy, Gersekarát, Gyanógeregye, Győrvár, Ják, Kám, Kisunyom, Mikosszéplak, Nagytilaj, Nemeskolta, Olaszfa, Oszkó, Pácsony, Petőmihályfa, Püspökmolnári, Rábahídvég, Rábatöttös, Rum, Sárfimizdó, Sorkifalud, Sorkikápolna, Sorokpolány, Szemenye, Szentpéterfa, Tanakajd, Táplánszentkereszt, Telekes, Vasszécseny, Vasvár, Zsennye) |
 
-| Veszprém megye |
+| Veszprém vármegye |
 
 | 1. | Ajkai Járásbíróság | 1. sz. közjegyző | január, március, május, július, szeptember, november |
 
@@ -358,7 +356,7 @@ II. A GYŐRI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 | 6. | Várpalota és Ősi, Berhida, Öskü, Pétfürdő, Tés (a Veszprémi Járásbíróság illetékességi területéről) | egy körzet | egész év |
 
-| Zala megye |
+| Zala vármegye |
 
 | 1. | Keszthelyi Járásbíróság (kivéve az 5. pont alatti) | 1. sz. közjegyző | január, március, május, július, szeptember, november |
 
@@ -384,7 +382,7 @@ III. MISKOLCI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 |  | Székhely, illetékességi terület | Körzet | A hagyatéki eljárásban irányadó havi beosztás |
 
-| Borsod-Abaúj-Zemplén megye |
+| Borsod-Abaúj-Zemplén vármegye |
 
 | 1. | Encsi JárásbíróságSzikszói Járásbíróság | egy körzet | egész év |
 
@@ -422,7 +420,7 @@ III. MISKOLCI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 | 11. | Tokaj és Bodrogkeresztúr, Bodrogkisfalud, Csobaj, Erdőbénye, Szegi, Szegilong, Taktabáj, Tarcal, Tiszaladány, Tiszatardos (a Szerencsi Járásbíróság illetékességi területéből) | egy körzet | egész év |
 
-| Hajdú-Bihar megye |
+| Hajdú-Bihar vármegye |
 
 | 1. | Berettyóújfalui Járásbíróság | 1. sz. közjegyző | január, március, május, július, szeptember, november |
 
@@ -454,7 +452,7 @@ III. MISKOLCI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 | 5. | Püspökladányi Járásbíróság | egy körzet | egész év |
 
-| Heves megye |
+| Heves vármegye |
 
 | 1. | Egri Járásbíróság | 1. sz. közjegyző | január, május, szeptember |
 
@@ -474,7 +472,7 @@ III. MISKOLCI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 | 5. | Hevesi Járásbíróság | egy körzet | egész év |
 
-| Szabolcs-Szatmár-Bereg megye |
+| Szabolcs-Szatmár-Bereg vármegye |
 
 | 1. | Fehérgyarmati Járásbíróság | egy körzet | egész év |
 
@@ -508,7 +506,7 @@ IV. A PÉCSI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 |  | Székhely, illetékességi terület | Körzet | A hagyatéki eljárásban irányadó havi beosztás |
 
-| Baranya megye |
+| Baranya vármegye |
 
 | 1. | Komlói Járásbíróság | egy körzet | egész év |
 
@@ -534,7 +532,7 @@ IV. A PÉCSI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 |  | 2. sz. közjegyző | február, április, június, augusztus, október, december |
 
-| Fejér megye |
+| Fejér vármegye |
 
 | 1. | Bicskei Járásbíróság | egy körzet | egész év |
 
@@ -560,7 +558,7 @@ IV. A PÉCSI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 | 5. | Mór, Bakonycsernye, Balinka, Bodajk, Csákberény, Csókakő, Fehérvárcsurgó, Isztimér, Kincsesbánya, Magyaralmás, Nagyveleg, Pusztavám, Söréd (a Székesfehérvári Járásbíróság illetékességi területéről) | egy körzet | egész év |
 
-| Somogy megye |
+| Somogy vármegye |
 
 | 1. | Barcsi Járásbíróság | egy körzet | egész év |
 
@@ -584,7 +582,7 @@ IV. A PÉCSI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 |  | 3. sz. közjegyző | március, június, szeptember, december |
 
-| Tolna megye |
+| Tolna vármegye |
 
 | 1. | Bonyhádi Járásbíróság | egy körzet | egész év |
 
@@ -606,7 +604,7 @@ V. SZEGEDI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 |  | Székhely, illetékességi terület | Körzet | A hagyatéki eljárásban irányadó havi beosztás |
 
-| Bács-Kiskun megye |
+| Bács-Kiskun vármegye |
 
 | 1. | Bajai Járásbíróság | 1. sz. közjegyző | január, március, május, július, szeptember, november |
 
@@ -636,7 +634,7 @@ V. SZEGEDI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 | 7. | Kunszentmiklósi Járásbíróság, valamint Solt és Újsolt (a Kalocsai Járásbíróság illetékességi területéből) | egy körzet | egész év |
 
-| Békés megye |
+| Békés vármegye |
 
 | 1. | Battonyai Járásbíróság | egy körzet | egész év |
 
@@ -660,7 +658,7 @@ V. SZEGEDI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 | 7. | Szeghalmi Járásbíróság és Biharugra, Körösnagyharsány, Okány, Zsadány (a Gyulai Járásbíróság illetékességi területéből), valamint Dévaványa (a Szarvasi Járásbíróság illetékességi területéből) | egy körzet | egész év |
 
-| Csongrád-Csanád megye |
+| Csongrád-Csanád vármegye |
 
 | 1. | Csongrádi Járásbíróság | egy körzet | egész év |
 
@@ -688,7 +686,7 @@ V. SZEGEDI KÖZJEGYZŐI KAMARA TERÜLETÉN
 
 |  | 2. sz. közjegyző | február, április, június, augusztus, október, december |
 
-| Jász-Nagykun-Szolnok megye |
+| Jász-Nagykun-Szolnok vármegye |
 
 | 1. | Jászberényi Járásbíróság | 1. sz. közjegyző | január, március, május, július, szeptember, november |
 
@@ -722,4 +720,4 @@ V. SZEGEDI KÖZJEGYZŐI KAMARA TERÜLETÉN
 [^12]: A 7. § (4) bekezdése a 30/2019. (XII. 20.) IM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^13]: A 7. § (5) bekezdése a 30/2019. (XII. 20.) IM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^14]: A 7. § (6) bekezdése a 30/2019. (XII. 20.) IM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^15]: A Melléklet a 4/1994. (II. 27.) IM rendelet 2. és 3. §-a, a 8/1994. (VI. 30.) IM rendelet 2. és 3. §-a, a 4. § (3) bekezdése, a 23/1997. (VIII. 1.) IM rendelet 2. és 3. §-a, 4. § (1) bekezdése, a 18/1998. (XI. 6.) IM rendelet 2–5. §-a, a Magyar Közlöny 1999. évi 74. számában közzétett helyesbítés, a 10/1999. (VIII. 4.) IM rendelet 2–5. §-a, a 17/2000. (XI. 8.) IM rendelet 2–5. §-a és 6. § (2) bekezdése, az 1/2001. (II. 9.) IM rendelet 2–4. §-a, a 11/2002. (VI. 8.) IM rendelet 2–7. §-a, a 29/2003. (VII. 16.) IM rendelet 2–6. §-a, a 23/2004. (VI. 19.) IM rendelet 2–6. §-a és 7. § (2) bekezdés a) pontja, a 11/2006. (III. 7.) IM rendelet 2–6. §-a, 22/2008. (X. 14.) IRM rendelet 1–3. §-a, az 54/2009. (X. 6.) IRM rendelet 2. és 3. §-a, a 8/2011. (III. 4.) KIM rendelet 12. §-a, az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdése, a 21/2014. (III. 13.) KIM rendelet 9. § (4)–(5) bekezdése, a 28/2015. (X. 15.) IM rendelet 1. §-a, az 1/2017. (III. 7.) IM rendelet 1. § (2) bekezdése, a 10/2017. (VIII. 11.) IM rendelet 2. § (3) bekezdése, a 20/2018. (VII. 4.) IM rendelet 1. §-a, a 30/2019. (XII. 20.) IM rendelet 9. § (3) bekezdése, a 12/2020. (VIII. 4.) IM rendelet 1. §-a, a 18/2021. (XII. 23.) IM rendelet 2. §-a szerint módosított szöveg.
+[^15]: A Melléklet a 4/1994. (II. 27.) IM rendelet 2. és 3. §-a, a 8/1994. (VI. 30.) IM rendelet 2. és 3. §-a, a 4. § (3) bekezdése, a 23/1997. (VIII. 1.) IM rendelet 2. és 3. §-a, 4. § (1) bekezdése, a 18/1998. (XI. 6.) IM rendelet 2–5. §-a, a Magyar Közlöny 1999. évi 74. számában közzétett helyesbítés, a 10/1999. (VIII. 4.) IM rendelet 2–5. §-a, a 17/2000. (XI. 8.) IM rendelet 2–5. §-a és 6. § (2) bekezdése, az 1/2001. (II. 9.) IM rendelet 2–4. §-a, a 11/2002. (VI. 8.) IM rendelet 2–7. §-a, a 29/2003. (VII. 16.) IM rendelet 2–6. §-a, a 23/2004. (VI. 19.) IM rendelet 2–6. §-a és 7. § (2) bekezdés a) pontja, a 11/2006. (III. 7.) IM rendelet 2–6. §-a, 22/2008. (X. 14.) IRM rendelet 1–3. §-a, az 54/2009. (X. 6.) IRM rendelet 2. és 3. §-a, a 8/2011. (III. 4.) KIM rendelet 12. §-a, az 57/2012. (XII. 28.) KIM rendelet 6. § (2) bekezdése, a 21/2014. (III. 13.) KIM rendelet 9. § (4)–(5) bekezdése, a 28/2015. (X. 15.) IM rendelet 1. §-a, az 1/2017. (III. 7.) IM rendelet 1. § (2) bekezdése, a 10/2017. (VIII. 11.) IM rendelet 2. § (3) bekezdése, a 20/2018. (VII. 4.) IM rendelet 1. §-a, a 30/2019. (XII. 20.) IM rendelet 9. § (3) bekezdése, a 12/2020. (VIII. 4.) IM rendelet 1. §-a, a 18/2021. (XII. 23.) IM rendelet 2. §-a, a 38/2022. (XII. 27.) IM rendelet 1. §-a szerint módosított szöveg.

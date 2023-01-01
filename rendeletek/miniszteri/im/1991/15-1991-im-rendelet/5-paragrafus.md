@@ -2,9 +2,7 @@
 
 ## A hagyatéki eljárásokkal kapcsolatban az eljárásra jogosult közjegyző nevét és a havi beosztást — a fővárosban a körzeti beosztást is — az illetékes helyi önkormányzat és járásbíróság hirdetőtábláján ki kell függeszteni.
 
-## 5. §
-
-(1) Ez a rendelet 1992. január 1-jén lép hatályba.
+5. § (1) Ez a rendelet 1992. január 1-jén lép hatályba.
 
 (2)[^4]
 
