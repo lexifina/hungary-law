@@ -14,7 +14,7 @@ b) a víziközmű-szolgáltató olyan jogsértése esetén, amelyhez jogszabály
 
 c) a 73. § b) pontjában meghatározott esetkörön kívül, ha a lakossági felhasználót visszatérítés illeti meg, az annak teljesítésére való kötelezés.
 
-(5) A fogyasztóvédelmi hatóság (1) és (2) bekezdésben meghatározott feladatkörén kívül, a létfenntartási, a közegészségügyi vízigények teljesítésével összefüggésben az illetékes népegészségügyi szerv, továbbá a víziközmű-rendszerbe való bekötésre kötelezéssel összefüggésben a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) jár el.
+(5) A fogyasztóvédelmi hatóság (1) és (2) bekezdésben meghatározott feladatkörén kívül, a létfenntartási, a közegészségügyi vízigények teljesítésével összefüggésben az illetékes népegészségügyi szerv, továbbá a víziközmű-rendszerbe való bekötésre kötelezéssel összefüggésben a fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) jár el.
 
 (6) Az (1), a (2) és az (5) bekezdés hatálya alá nem tartozó, a víziközmű-szolgáltatókkal szemben felmerülő panaszok esetében a Hivatal jár el.
 

@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-209-00-00
 | 2021-06-13 | 2021. évi LXVIII. törvény | 2011-209-00-00.41 |
 | 2021-12-25 | 2021. évi CXXXII. törvény | 2011-209-00-00.42 |
 | 2022-01-01 | 2021. évi CXIX. törvény | 2011-209-00-00.43 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2011-209-00-00.44 |

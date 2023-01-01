@@ -76,7 +76,9 @@ rendeletben állapítsa meg.
 
 5.
 
-6–7.
+6.
+
+7.
 
 8. szabályozza a gördülő fejlesztési terv részét képező felújítási és pótlási terv, valamint beruházási terv részletes tartalmi és formai követelményeit;
 
