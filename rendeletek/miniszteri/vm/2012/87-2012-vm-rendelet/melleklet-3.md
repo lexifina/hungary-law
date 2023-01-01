@@ -16,6 +16,6 @@
 
 ## ** A nem kívánt rész áthúzandó!
 
-3. melléklet a 87/2012. (VIII. 27.) VM rendelethez[^19]
+3. melléklet a 87/2012. (VIII. 27.) VM rendelethez[^22]
 
-[^19]: A 3. melléklet a 20/2021. (V. 17.) AM rendelet 18. § (4) bekezdése szerint módosított szöveg.
+[^22]: A 3. melléklet a 20/2021. (V. 17.) AM rendelet 18. § (4) bekezdése szerint módosított szöveg.

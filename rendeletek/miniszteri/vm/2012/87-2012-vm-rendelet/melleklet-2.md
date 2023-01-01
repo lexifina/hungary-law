@@ -1,6 +1,6 @@
 2. melléklet a 87/2012. (VIII. 27.) VM rendelethez
 
-## Állategészségügyi bizonyítvány a gazdaságból
+Állategészségügyi bizonyítvány a gazdaságból
 
 Sorszám:
 
