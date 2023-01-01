@@ -10,7 +10,7 @@ b) ellenőrzi a tankönyvkiadást és tankönyvforgalmazást, szabályozza a tan
 
 c) gondoskodik – az országos pedagógiai-szakmai szolgáltatásokról és az állami nevelési-oktatási intézmények számára ingyenesen nyújtott pedagógiai-szakmai szolgáltatások megszervezéséről,
 
-d) gondoskodik a nevelési-oktatási intézményekben folyó pedagógiai munka országos, térségi, megyei, fővárosi szintű szakmai ellenőrzéséről, értékeléséről a hivatal közreműködésével,
+d) gondoskodik a nevelési-oktatási intézményekben folyó pedagógiai munka országos, térségi, vármegyei, fővárosi szintű szakmai ellenőrzéséről, értékeléséről a hivatal közreműködésével,
 
 e) felügyeli a KIR és az INYR működését,
 

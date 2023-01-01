@@ -84,7 +84,7 @@ cc) az érettségi vizsgán részt vevő pedagógusok díjazását és az érett
 
 d) a diákigazolvány kiadásával és használatával kapcsolatos kérdéseket,
 
-e) a pedagógusok fővárosi, megyei állandó helyettesítési rendszerének létrehozását és működtetését,
+e) a pedagógusok fővárosi, vármegyei állandó helyettesítési rendszerének létrehozását és működtetését,
 
 f) a pedagógus-szakvizsga bevezetését, a pedagógus-továbbképzés rendszerét, a továbbképzésben résztvevők juttatásait, kedvezményeit; a pedagógus-továbbképzés programjának, a pedagógus-továbbképzési programok akkreditációjának feltételeit és eljárási rendjét, az akkreditált továbbképzés indításával összefüggő adatszolgáltatás szabályait, továbbá a továbbképzések nyilvántartásának rendjét, a továbbképzés minőségbiztosításának, ellenőrzésének rendjét, az ellenőrzés során feltárt hiányosságok, a minőségbiztosítás követelményeinek megszegése esetén alkalmazható jogkövetkezményeket, az e bekezdésben meghatározott eljárásokkal kapcsolatos igazgatási szolgáltatási díj megállapításának rendjét, mértékét, a megállapított összeg befizetésének szabályait, a befolyt összeg felhasználásának kérdéseit,
 

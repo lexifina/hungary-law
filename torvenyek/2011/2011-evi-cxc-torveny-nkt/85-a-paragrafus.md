@@ -42,7 +42,7 @@ közalkalmazotti jogviszonnyá alakul át.
 
 (8) Az átvevő munkáltatónál létesítendő közalkalmazotti jogviszony tekintetében próbaidő nem köthető ki.
 
-(9) A fenntartói jog átszállásának időpontját követő tizenöt napon belül a munkavállalót a fenntartói jog átszállásának időpontjával e törvény vagy a közalkalmazottak jogállásáról szóló törvény szerint be kell sorolni, és illetményét meg kell állapítani.
+(9) A fenntartói jog átszállásának napján a munkavállalót e törvény vagy a közalkalmazottak jogállásáról szóló törvény szerint be kell sorolni, és illetményét meg kell állapítani.
 
 (10) Ha a munkavállaló a kinevezést – korábbi további foglalkoztatására vonatkozó jognyilatkozatával ellentétesen – nem írja alá, nem adja hozzájárulását további foglalkoztatásához, vagy a nyilatkozattételt elmulasztja, munkaviszonyát a (2) bekezdés a) pontjában foglaltak alapján megszűntnek kell tekinteni, a munkaviszony megszűnésével összefüggő igazolásokat a (9) bekezdés szerinti határidőt követő öt munkanapon belül ki kell adni.
 

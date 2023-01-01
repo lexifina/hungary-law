@@ -12,7 +12,7 @@ e) hozzájusson a munkájához szükséges ismeretekhez, intézményi és fennta
 
 f) a nevelőtestület tagjaként részt vegyen a nevelési-oktatási intézmény pedagógiai programjának megalkotásában, elfogadásában és értékelésében, gyakorolja a nevelőtestület tagjait megillető jogokat,
 
-g) szakmai ismereteit, tudását szervezett továbbképzésben való részvétel útján gyarapítsa, részt vegyen a köznevelési rendszer működtetésével, ellenőrzésével kapcsolatos megyei és országos feladatokban, pedagógiai kísérletekben, tudományos kutatómunkában,
+g) szakmai ismereteit, tudását szervezett továbbképzésben való részvétel útján gyarapítsa, részt vegyen a köznevelési rendszer működtetésével, ellenőrzésével kapcsolatos vármegyei és országos feladatokban, pedagógiai kísérletekben, tudományos kutatómunkában,
 
 h) szakmai egyesületek tagjaként vagy képviseletében részt vegyen helyi, regionális és országos közneveléssel foglalkozó testületek munkájában,
 
