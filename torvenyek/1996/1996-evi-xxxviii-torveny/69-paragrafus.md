@@ -1,6 +1,6 @@
 ## 9. Cím Ellenőrzött szállítás
 
-69. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtására irányuló eljárási jogsegély iránti megkeresés teljesítésére a megyei főügyészség rendelkezik hatáskörrel.
+69. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtására irányuló eljárási jogsegély iránti megkeresés teljesítésére a vármegyei főügyészség rendelkezik hatáskörrel.
 
 (2) Ellenőrzött szállítás végrehajtására irányuló megkeresés olyan bűncselekménnyel kapcsolatban engedélyezhető, amely tekintetében kiadatásnak van helye.
 

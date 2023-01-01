@@ -1,1 +1,1 @@
-36. § A kiadatási kérelem teljesítése esetén a kiadatási kérelem alapján külföldön történt fogva tartás idejét a bíróság által megállapított büntetésbe be kell számítani.
+36. § A kiadatási kérelem alapján külföldön történt fogvatartás teljes időtartamát a Btk.-nak az előzetes fogvatartás és a bűnügyi felügyelet beszámítására vonatkozó szabályai szerint, a külföldi fogvatartás jellegére figyelemmel kell beszámítani a bíróság által kiszabott büntetésbe vagy szabadságelvonással járó intézkedésbe.
