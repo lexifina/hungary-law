@@ -1,5 +1,3 @@
-## 7. §[^8]
-
 8. § (1)[^9] Az anyatej-helyettesítő tápszerek, fehérjehidrolizátumokból előállított anyatej-kiegészítő tápszerek, a 2016/127/EU rendelet II. mellékletében felsoroltakon kívül más anyagokat is tartalmazó anyatej-kiegészítő tápszerek,, a speciális gyógyászati célra szánt élelmiszerek és a testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerek hatékony hatósági ellenőrzése érdekében
 
 a) a termék első magyarországi forgalomba hozatalakor a gyártó vagy az importőr legkésőbb a termék forgalomba hozatalával egyidejűleg köteles azt bejelenteni az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetnél (a továbbiakban: OGYÉI) a 4. számú melléklet szerinti adatok közlésével és a termék címkéjének megküldésével,
@@ -34,7 +32,6 @@ h) a termék csomagolásával, mennyiségi jellemzőivel kapcsolatos adatokat,
 
 i) a termék jelölését melléklet formájában.
 
-[^8]: A 7. §-t a 44/2016. (XII. 28.) EMMI rendelet 40. § a) pontja hatályon kívül helyezte.
 [^9]: A 8. § (1) bekezdése a 21/2021. (VI. 8.) EMMI rendelet 7. § (2) bekezdésével megállapított, nyitó szövegrésze a 17/2022. (IV. 29.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
 [^10]: A 8. § (1a) bekezdését az 5/2022. (I. 28.) EMMI rendelet 1. § (1) bekezdése iktatta be.
 [^11]: A 8. § (2) bekezdése a 21/2021. (VI. 8.) EMMI rendelet 7. § (2) bekezdésével megállapított, a 17/2022. (IV. 29.) EMMI rendelet 3. § b) pontja szerint módosított szöveg.

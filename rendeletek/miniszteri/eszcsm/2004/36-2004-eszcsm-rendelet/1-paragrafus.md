@@ -8,7 +8,7 @@ c) speciális gyógyászati célra szánt élelmiszerekre, valamint
 
 d) testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerekre
 
-## (a továbbiakban együtt: különleges élelmiszer) kell alkalmazni.
+(a továbbiakban együtt: különleges élelmiszer) kell alkalmazni.
 
 (2)[^2]
 

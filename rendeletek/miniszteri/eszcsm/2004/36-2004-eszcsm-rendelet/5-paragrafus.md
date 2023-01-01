@@ -1,3 +1,3 @@
-## 4. §[^5]
+5. §[^6]
 
-[^5]: A 4. §-t a 44/2016. (XII. 28.) EMMI rendelet 40. § a) pontja hatályon kívül helyezte.
+[^6]: Az 5. §-t a 44/2016. (XII. 28.) EMMI rendelet 40. § a) pontja hatályon kívül helyezte.
