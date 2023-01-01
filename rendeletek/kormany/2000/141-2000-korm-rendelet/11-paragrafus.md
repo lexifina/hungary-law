@@ -6,7 +6,7 @@ a) belföldre forintban,
 
 b) külföldre az ellátás kifizetésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon, a kifizetés helye szerinti állam hivatalos pénznemében
 
-## történik.
+történik.
 
 (3)[^60] A kifizetés napja alatt az (2) bekezdés b) pontjának alkalmazásában a terhelés, illetve a postai utalvány feladásának napját kell érteni.
 

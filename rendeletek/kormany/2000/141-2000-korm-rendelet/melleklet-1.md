@@ -2,7 +2,7 @@
 
 1. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^93]
 
-## Értelmező rendelkezések
+Értelmező rendelkezések
 
 1. Látási fogyatékosnak azt a személyt kell tekinteni,
 
@@ -14,7 +14,7 @@ ab) az egyik szemén 5/50, a másik szemén három méterről olvas ujjakat,
 
 ac) az egyik szemén 5/40, a másik szemén fényérzékelés nincs, vagy a másik szeme hiányzik; rövidlátás esetén – a fenti látásélesség értékeitől függetlenül – csak az jogosult a fogyatékossági támogatásra, akinek közeli látásélessége Csapody V., vagy annál rosszabb, vagy
 
-b) akinek látótere mindkét oldalon körkörösen húsz foknál szűkebb. A szürkehályog műtéttel való gyógyíthatósága kérdésében a megyei, fővárosi vezető szemész szakorvos állásfoglalása az irányadó. Fogyatékossági támogatásra az a személy jogosult, akinek műtéti gyógyítását a szakorvos nem tartja indokoltnak, mivel a műtéti beavatkozástól állapotjavulás nem várható.
+b)[^94] akinek látótere mindkét oldalon körkörösen húsz foknál szűkebb. A szürkehályog műtéttel való gyógyíthatósága kérdésében a vármegyei, fővárosi vezető szemész szakorvos állásfoglalása az irányadó. Fogyatékossági támogatásra az a személy jogosult, akinek műtéti gyógyítását a szakorvos nem tartja indokoltnak, mivel a műtéti beavatkozástól állapotjavulás nem várható.
 
 2. Hallási fogyatékosnak azt a személyt kell tekinteni, akinek hallásküszöbértéke a beszédfrekvenciákon nyolcvan dB felett van, és ennek következtében a hangzóbeszéd megértésére még segédeszközzel sem képes, feltéve, hogy
 
@@ -30,7 +30,7 @@ b) a hétköznapi élet elemi cselekményei területén másokra van utalva, miv
 
 4. IQ értékétől függetlenül autistának kell tekinteni azt a személyt, aki a fejlődés átható (pervazív) zavarában szenved, és az autonómia-tesztek alapján állapota súlyos vagy középsúlyos (BNO szerinti besorolása: F 84.0–F 84.9).
 
-5.[^94] Mozgásában fogyatékosnak kell tekinteni azt a személyt, akinek a helyváltoztatása az alább felsorolt segédeszközök állandó és szükségszerű használatát igényli:
+5.[^95] Mozgásában fogyatékosnak kell tekinteni azt a személyt, akinek a helyváltoztatása az alább felsorolt segédeszközök állandó és szükségszerű használatát igényli:
 
 a) végtag protézisek
 
@@ -82,7 +82,7 @@ be) egy végtag ortézis és gyógyászati segédeszköznek minősülő gerinc o
 
 c) személyes mozgás nem testen viselt segédeszközei
 
-ca)[^95] egy karral működtetett járóeszközök
+ca)[^96] egy karral működtetett járóeszközök
 
 – hónalj- és könyökmankók, abban az esetben, ha a kérelmező protézis vagy ortézis állandó használatára az állapotából következően nem képes,
 
@@ -94,7 +94,7 @@ cb) kerekesszékek (ideértve az olyan helyváltoztatást szolgáló eszközt is
 
 – elektromos kerekesszék.
 
-6.[^96] Mozgásában fogyatékosnak kell tekinteni azt a személyt is, akinek
+6.[^97] Mozgásában fogyatékosnak kell tekinteni azt a személyt is, akinek
 
 a) mindkét felső végtagja a manipulációs képességet olyan jelentős mértékben korlátozóan bénult, csonkolt, deformált vagy torzult, amely önmagában vagy műtéti korrekcióval alkalmas lehet alapfunkciók elvégzésére, de a felső végtag protézis használata esetén e funkciók ellátására már nem lenne képes;
 
@@ -102,11 +102,12 @@ b) legalább két végtagra vagy egy végtagra és a törzsre kiterjedő tartós
 
 c) túlmozgással együttjáró súlyos mozgáskoordinációs zavara a járást vagy a motoros képességeket jelentős mértékben akadályozza.
 
-7.[^97] Kromoszóma-rendellenességgel élőnek kell tekinteni azt a személyt, aki az autoszómák vagy nemi kromoszómák teljes egészének vagy azok egy részletének többletével vagy hiányával született, és ebből adódóan állapota súlyos vagy középsúlyos.
+7.[^98] Kromoszóma-rendellenességgel élőnek kell tekinteni azt a személyt, aki az autoszómák vagy nemi kromoszómák teljes egészének vagy azok egy részletének többletével vagy hiányával született, és ebből adódóan állapota súlyos vagy középsúlyos.
 
 [^92]: A 21. §-t a 115/2007. (V. 24.) Korm. rendelet 14. § (3) bekezdése iktatta be.
 [^93]: Az 1. számú melléklet a 21/2003. (II. 25.) Korm. rendelet 8. §-ával megállapított szöveg, e módosító rendelet 11. §-ának (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^94]: Az 1. számú melléklet 5. pontja a 313/2019. (XII. 18.) Korm. rendelet 1. § c) pontja és 2. § b) pontja szerint módosított szöveg.
-[^95]: Az 1. számú melléklet 5. pontjának ca) alpontja a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^96]: Az 1. számú melléklet 6. pontja a 313/2019. (XII. 18.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
-[^97]: Az 1. számú melléklet 7. pontját a 95/2013. (III. 29.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^94]: Az 1. melléklet 1. pont b) alpontja a 616/2022. (XII. 29.) Korm. rendelet 36. §-a szerint módosított szöveg.
+[^95]: Az 1. számú melléklet 5. pontja a 313/2019. (XII. 18.) Korm. rendelet 1. § c) pontja és 2. § b) pontja szerint módosított szöveg.
+[^96]: Az 1. számú melléklet 5. pontjának ca) alpontja a 182/2009. (IX. 10.) Korm. rendelet 190. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^97]: Az 1. számú melléklet 6. pontja a 313/2019. (XII. 18.) Korm. rendelet 1. § c) pontja szerint módosított szöveg.
+[^98]: Az 1. számú melléklet 7. pontját a 95/2013. (III. 29.) Korm. rendelet 9. § (1) bekezdése iktatta be.
