@@ -2,9 +2,9 @@
 
 1. 1. § (3) bekezdés g) pontjában az „üledékre, iszapra” szövegrész helyébe az „azon üledékre és mederiszapra” szöveg,
 
-2. 2. § (1) bekezdés 36g. pontjában a „résztevékenységet” szövegrész helyébe a „tevékenységet” szöveg,
+2.
 
-3. 12. § (1c) bekezdésében a „megkeresésére” szövegrész helyébe a „felhívására” szöveg,
+3.
 
 4. 18/B. § (2) bekezdésében az „A B3” szövegrész helyébe az „A 18/A. § (1) bekezdés szerinti B3” szöveg és a „hulladéklerakóban alkalmazható hulladéklerakási” szövegrész helyébe a „hulladéklerakó, valamint hulladékégető mű esetében alkalmazható átvételi” szöveg,
 
@@ -18,21 +18,21 @@
 
 9. 32/A. § (5a) bekezdésében az „az általa ellátandó” szövegrész helyébe az „a” szöveg,
 
-10. 39. § (2) bekezdésében a „kezelő” szövegrész helyébe az „előkezelő” szöveg,
+10.
 
-11. 42. § (1) bekezdés f) pontjában a „kezeli, vagy” szövegrész helyébe a „– saját maga, vagy koncesszori alvállalkozó útján – előkezeli, majd” szöveg,
+11.
 
 12. 51. § (3) bekezdésében az „ , a 47/D. § (2) bekezdése és a 48. § (1a) bekezdése” szövegrész helyébe az „és a 47/D. § (2) bekezdése” szöveg,
 
-13. 53/A. § (2) bekezdésében az „alvállalkozót bevonhat” szövegrész helyébe az „alvállalkozót, vagy – ha az igénybe vett tevékenység e törvény szerinti engedély vagy nyilvántartásba vétel nélkül végezhető – más alvállalkozót bevonhat” szöveg,
+13.
 
-14. 53/A. § (4) bekezdésében az „alvállalkozót bevonhat” szövegrész helyébe az „alvállalkozót, vagy – ha az igénybe vett tevékenység e törvény szerinti engedély vagy nyilvántartásba vétel nélkül végezhető – más alvállalkozót bevonhat” szöveg,
+14.
 
-15. 53/A. § (7) bekezdésében az „alvállalkozói nyilvántartásba felvett” szövegrész helyébe az „alvállalkozó, vagy – ha az igénybe vett tevékenység e törvény szerinti engedély vagy nyilvántartásba vétel nélkül végezhető – más” szöveg,
+15.
 
 16. 53/G. § (1) bekezdésében az „a hulladékgazdálkodási hatóság” szövegrész helyébe az „az általa vezetett minisztérium kijelölt szervezeti egysége” szöveg,
 
-17. 53/I. § (3) bekezdésében az „alvállalkozó bevonásával” szövegrész helyébe az „alvállalkozó, vagy – ha az igénybe vett tevékenység e törvény szerinti engedély vagy nyilvántartásba vétel nélkül végezhető – más alvállalkozó bevonásával” szöveg,
+17.
 
 18. 53/J. § (2) bekezdésében az „ad.” szövegrész helyébe az „ad. Az éves beszámolót egyidejűleg megküldi a Hivatal részére is.” szöveg,
 
@@ -58,7 +58,7 @@
 
 29. 79. § (8) bekezdésében a „30” szövegrész helyébe az „55” szöveg,
 
-30. 83. § (1) bekezdésében a „közszolgáltatást” szövegrész helyébe a „közszolgáltatási résztevékenységet” szöveg és a „Koordináló szervet, illetve a közszolgáltatót” szövegrész helyébe a „koncessziós társaságot” szöveg,
+30.
 
 31. 84. § (4) bekezdés nyitó szövegrészében az „alkalmazása,” szövegrész helyébe az „és a hulladékgazdálkodási hatóság bírság kiszabásáról dönt:” szöveg,
 
@@ -66,13 +66,13 @@
 
 33. 88. § (3a) bekezdés c) pontjában az „az indokolt” szövegrész helyébe az „az 53/N. § (4) bekezdése szerinti indokolt” szöveg és a „mértékét” szövegrész helyébe a „mértékét,” szöveg,
 
-34. 91. § (1) bekezdésében a „88. § (3) bekezdés b) pont bb) alpontjában foglalt felhatalmazás alapján megalkotott” szövegrész helyébe a „hulladékgazdálkodási közszolgáltatási díjat meghatározó miniszteri” szöveg,
+34.
 
-35. 91. § (10) bekezdésében az „a Koordináló szerv köteles azt legalább annyival csökkenteni” szövegrész helyébe az „az úgy csökken” szöveg,
+35.
 
-36. 91/A. § (3c) bekezdésében a „közszolgáltatón keresztül a Koordináló szervet” szövegrész helyébe a „hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaságot” szöveg,
+36.
 
-37. 92/G. § (3) bekezdésében a „modellre való átállás” szövegrész helyébe a „rendszer működése” szöveg,
+37.
 
 38. 92/H. § (2) bekezdésében a „hulladékgazdálkodási hatóság” szövegrész helyébe a „Szabályozott Tevékenységek Felügyeleti Hatósága” szöveg,
 

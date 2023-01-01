@@ -2,27 +2,27 @@
 
 50. § Hatályát veszti a hulladékról szóló 2012. évi CLXXXV. törvény
 
-1. 2. § (7) bekezdésében az „a környezetvédelmi termékdíjról szóló törvényt,” szövegrész,
+1.
 
-2. 3. § (1) bekezdés b) pontjában a „valamint a környezetvédelmi termékdíjról szóló törvényben meghatározott további hulladékgazdálkodási tevékenységek elvégzéséért,” szövegrész,
+2.
 
 3. 18/A. § (4) bekezdése,
 
-4. 24. § (2) bekezdése,
+4.
 
-5. 28. § (7) bekezdése,
+5.
 
-6. 32/A. § (4)–(4d) bekezdése,
+6.
 
 7. 32/A. § (4d) bekezdésében a „hulladékgazdálkodásért felelős” szövegrész,
 
-8. 32/A. § (5a) bekezdésében a „hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó” szövegrész,
+8.
 
-9. 41. § (2) bekezdésében az „A koncessziós társaság a tevékenységét az Országos Hulladékgazdálkodási Közszolgáltatási Tervben előírtaknak megfelelően köteles ellátni, amelyet a Hivatal ellenőriz, és erről megfelelőségi véleményt állít ki.” szövegrész,
+9.
 
-10. 41. § (3a) bekezdése,
+10.
 
-11. 42. § (2) bekezdésében az „Ebben az esetben a hulladékkezelőnek nem szükséges minősítési engedéllyel rendelkeznie.” szövegrész,
+11.
 
 12. 47/A. § (2) bekezdésében a „ , valamint a 88. § (3) bekezdés b) pont be) alpontjában kapott felhatalmazás alapján megalkotott rendeletben foglaltak szerint” szövegrész,
 
@@ -30,11 +30,11 @@
 
 14. 47/D. § (3) bekezdésében a „hulladékgazdálkodásért felelős” szövegrészek,
 
-15. 51. § (1) bekezdésében a „vagy minősítési” szövegrész,
+15.
 
-16. 53/E. § (4) bekezdésében az „az e törvény végrehajtására kiadott kormányrendeletben meghatározott szabályok betartásával” szövegrész,
+16.
 
-17. 53/I. § (4) bekezdésében az „és a közszolgáltatók” szövegrész,
+17.
 
 18. 53/J. § (1) bekezdésében az „– a hulladékgazdálkodási hatóság útján küldött –” szövegrész,
 
@@ -50,9 +50,9 @@
 
 24. 61. § (26) bekezdése,
 
-25. 62. § (2) bekezdése,
+25.
 
-26. 66. § (1) bekezdése,
+26.
 
 27. 73. § (2) bekezdésében a „hulladékgazdálkodásért felelős” szövegrész,
 
@@ -74,7 +74,7 @@
 
 36. 78/B. § (1) bekezdés nyitó szövegrészében a „hulladékgazdálkodásért felelős” szövegrész,
 
-37. 78/B. § (2) bekezdés 8. pontjában az „ide nem értve a hulladékgazdálkodási résztevékenységet ellátó koncessziós társaság és a koncesszori alvállalkozók megfelelőségére vonatkozó, a 32/A. § (2) bekezdésében meghatározott hatásköröket,” szövegrész,
+37.
 
 38. 78/B. § (2) bekezdés 12. pontjában a „hulladékgazdálkodásért felelős” szövegrész,
 
@@ -94,15 +94,15 @@
 
 46. 87. § (2) bekezdés nyitó szövegrészében a „hulladékgazdálkodásért felelős” szövegrész,
 
-47. 88. § (1) bekezdés 23. pontja,
+47.
 
-48. 88. § (1) bekezdés 25. pontja,
+48.
 
 49. 88. § (1) bekezdés 33. pontjában az „ , a koordinációjával, valamint tulajdonjogával kapcsolatos egyes szabályokat, valamint az erőforrás-gazdálkodásával összefüggő szabályokat” szövegrész,
 
-50. 88. § (1) bekezdés 34. pontja,
+50.
 
-51. 88. § (2) bekezdés 19. pontja,
+51.
 
 52. 88. § (3) bekezdés a) pont nyitó szövegrészében a „hulladékgazdálkodásért felelős” szövegrész,
 
@@ -118,6 +118,6 @@
 
 58. 92/C. § (2) bekezdésében a „hulladékgazdálkodásért felelős” szövegrész,
 
-59. 92/G. § (8)–(12) bekezdése,
+59.
 
 60. 92/L. §-a.

@@ -1,5 +1,1 @@
-9. § A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 24. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) Az állami adóhatóság a hulladékgazdálkodási hatóság részére a termékdíj-kötelezettséggel összefüggő, a hulladékgazdálkodási hatóság az állami adóhatóság részére a hulladékgazdálkodási kötelezettségekkel összefüggő nyilvántartásában szereplő adatokat, a kiadott engedélyek, határozatok adatait a kötelezettségek ellenőrzése céljából – az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint – rendelkezésre bocsátja.
-
-(2) Az állami adóhatóság a környezetvédelmi termékdíj-bejelentésben, -bevallásban a kötelezett által feltüntetett, a termékdíj-kötelezettséggel kapcsolatos feladat- és hatáskörei kapcsán részére érkező adattartalmat kezeli, és az – adótitkot és személyes adatot nem képező, összesített – adott negyedévre vonatkozó adattartalmat a hulladékgazdálkodási kötelezettségek teljesítésének ellenőrzése céljából legalább negyedévente, de legkésőbb a negyedévet követő második hónap 20. napjáig átadja a hulladékgazdálkodási hatóság részére.”
+### 9. §
