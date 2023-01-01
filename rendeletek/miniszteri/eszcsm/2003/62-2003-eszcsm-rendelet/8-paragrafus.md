@@ -38,7 +38,7 @@ d) a megtett intézkedéseket.
 
 (6)[^17] A súlyos vagy tömeges élelmiszer eredetű megbetegedés veszélyével fenyegető [(1) bekezdés] vagy külföldi vonatkozással bíró élelmiszer-szennyezettség észleléséről és egyéb veszélyhelyzetekről a kormányhivatal haladéktalanul értesíti az országos tisztifőorvost.
 
-(7)[^18] A (6) bekezdés szerinti esetekről az országos tisztifőorvos a gyors vészjelző rendszer keretében értesíti a NÉBIH-et és a Pest Megyei Kormányhivatalt.
+(7)[^18] A (6) bekezdés szerinti esetekről az országos tisztifőorvos a gyors vészjelző rendszer keretében értesíti a NÉBIH-et és a Pest Vármegyei Kormányhivatalt.
 
 (8)[^19] Az (1) bekezdés szerinti esemény vizsgálat lezárásakor a kormányhivatal tesz összefoglaló jelentést az országos tisztifőorvos részére.
 
@@ -47,5 +47,5 @@ d) a megtett intézkedéseket.
 [^15]: A 8. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 33. § (1) bekezdés d) pontja, a 38/2018. (X. 31.) EMMI rendelet 9. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^16]: A 8. § (5) bekezdését az 54/2016. (XII. 30.) EMMI rendelet 33. § (2) bekezdése hatályon kívül helyezte.
 [^17]: A 8. § (6) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 33. § (1) bekezdés d) pontja, a 38/2018. (X. 31.) EMMI rendelet 9. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^18]: A 8. § (7) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 22. § b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 33. § (1) bekezdés e) és f) pontja szerint módosított szöveg.
+[^18]: A 8. § (7) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 22. § b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 33. § (1) bekezdés e) és f) pontja, a 45/2022. (XII. 20.) BM rendelet 29. § b) pontja szerint módosított szöveg.
 [^19]: A 8. § (8) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 33. § (1) bekezdés g) pontja, a 38/2018. (X. 31.) EMMI rendelet 9. § (2) bekezdés d) pontja szerint módosított szöveg.

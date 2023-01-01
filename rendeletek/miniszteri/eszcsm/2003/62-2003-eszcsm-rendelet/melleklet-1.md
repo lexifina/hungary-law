@@ -4,11 +4,11 @@
 
 ## Az élelmiszerfertőzésről, élelmiszermérgezésről vagy annak gyanújáról az észlelő orvos haladéktalanul – távbeszélőn vagy személyesen – bejelentést köteles tenni azon járási hivatalnak (munkaszüneti napon azon kormányhivatalnak), amelynek illetékességi területén működik. A bejelentést e lap kitöltésével írásban is meg kell tennie. A bejelentő lapot két példányban kell kiállítani, a másolat a bejelentőnél marad.
 
-## Fővárosi és Megyei Kormányhivatal
+## Fővárosi és Vármegyei Kormányhivatal
 
 ## …………………………………………………….
 
-## Járási (kerületi) Hivatal – Fővárosi és Megyei Kormányhivatal
+## Járási (kerületi) Hivatal – Fővárosi és Vármegyei Kormányhivatal
 
 ## részére
 
@@ -58,4 +58,4 @@ __________
 
 ** A bejelentéskor ismert legkorábbi időpont, amikor valamely tünet egy betegnél észlelésre került.
 
-[^22]: Az 1. számú melléklet a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése b) pontjának bc)–be) alpontja, a 10/2011. (III. 30.) NEFMI rendelet 35. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 24. § b) pontja, a 23/2015. (IV. 28.) EMMI rendelet 54. § j)–k) pontja szerint módosított szöveg.
+[^22]: Az 1. számú melléklet a 12/2008. (III. 26.) EüM rendelet 5. § (3) bekezdése b) pontjának bc)–be) alpontja, a 10/2011. (III. 30.) NEFMI rendelet 35. § (2) bekezdése, a 11/2013. (II. 7.) EMMI rendelet 24. § b) pontja, a 23/2015. (IV. 28.) EMMI rendelet 54. § j)–k) pontja, a 45/2022. (XII. 20.) BM rendelet 29. § d) pontja szerint módosított szöveg.
