@@ -27,3 +27,5 @@ b) és az alábbi EOV koordinátákkal meghatározott két pont közötti egyene
 eső, régészeti lelőhelyként nem védett része.
 
 Az ingatlanrészt az alábbi ábra jelöli:
+
+3K65487_2
