@@ -1,3 +1,3 @@
-## 17. §[^51]
+18. §[^53]
 
-[^51]: A 17. §-t a 463/2017. (XII. 28.) Korm. rendelet 11. § j) pontja hatályon kívül helyezte.
+[^53]: A 18. §-t a 463/2017. (XII. 28.) Korm. rendelet 11. § k) pontja hatályon kívül helyezte.

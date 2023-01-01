@@ -1,8 +1,6 @@
-## 18. §[^52]
+## A vízpart-rehabilitációs tanulmánytervek módosítása során a tervek egyeztetésének és elfogadásának rendje[^54]
 
-## A vízpart-rehabilitációs tanulmánytervek módosítása során a tervek egyeztetésének és elfogadásának rendje[^53]
-
-19. §[^54] (1) A területrendezésért felelős miniszter a vízpart-rehabilitációs tanulmányterveket szakmai szempontból egyezteti
+19. §[^55] (1) A területrendezésért felelős miniszter a vízpart-rehabilitációs tanulmányterveket szakmai szempontból egyezteti
 
 a) a feladatkörükben érintett miniszterekkel,
 
@@ -28,6 +26,5 @@ e) az egyeztetési anyag lezárásával egy időben a TeIR-ben közzéteszi az e
 
 (3) A vízpart-rehabilitációs tanulmányterv elfogadásáról szóló miniszteri rendelet kihirdetését követő 30 napon belül a területrendezésért felelős miniszter az érintett önkormányzat számára a jóváhagyott munkarészeket két példányban megküldi, továbbá ezzel egy időben a TeIR-ben elérhetővé teszi.
 
-[^52]: A 18. §-t a 463/2017. (XII. 28.) Korm. rendelet 11. § k) pontja hatályon kívül helyezte.
-[^53]: A 19. §-t megelőző alcím a 463/2017. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^54]: A 19. § a 463/2017. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^54]: A 19. §-t megelőző alcím a 463/2017. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^55]: A 19. § a 463/2017. (XII. 28.) Korm. rendelet 9. §-ával megállapított szöveg.
