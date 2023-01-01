@@ -38,7 +38,7 @@
 
 2. a BKÜTrT-ben alkalmazott kiemelt térségi övezeteket a 77. § határozza meg.
 
-(3) A megyei övezetek a következők:
+(3) A vármegyei övezetek a következők:
 
 1. ásványi nyersanyagvagyon övezete,
 
@@ -48,8 +48,8 @@
 
 4. földtani veszélyforrás terület övezete,
 
-5. egyedileg meghatározott megyei övezet.
+5. egyedileg meghatározott vármegyei övezet.
 
 (4) Az (1) bekezdés 5., 7., 8. és 10–12. pontjaiban meghatározott országos övezetek területi lehatárolását és övezeti szabályait a területrendezésért felelős miniszter rendeletben állapítja meg.
 
-(5) A (3) bekezdés 1–4. pontjaiban meghatározott megyei övezetek övezeti szabályait a területrendezésért felelős miniszter (4) bekezdésben meghatározott rendelete, az övezetek területi lehatárolását a megyei területrendezési terv állapítja meg.
+(5) A (3) bekezdés 1–4. pontjaiban meghatározott vármegyei övezetek övezeti szabályait a területrendezésért felelős miniszter (4) bekezdésben meghatározott rendelete, az övezetek területi lehatárolását a vármegyei területrendezési terv állapítja meg.

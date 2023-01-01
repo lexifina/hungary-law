@@ -1,4 +1,4 @@
-11. § A kiemelt térségi, illetve megyei területfelhasználási kategóriák területén belül a településrendezési tervben, a 90. § (2) bekezdése figyelembevételével
+11. § A kiemelt térségi, illetve vármegyei területfelhasználási kategóriák területén belül a településrendezési tervben, a 90. § (2) bekezdése figyelembevételével
 
 a) az erdőgazdálkodási térségben az erdőterület övezetet a térséget lefedő erdők övezetére vonatkozó szabályok szerint, valamint az erdőtelepítésre javasolt terület övezetére vonatkozó szabályok figyelembevételével kell, meglévő és tervezett erdő övezetként differenciáltan lehatárolni;
 

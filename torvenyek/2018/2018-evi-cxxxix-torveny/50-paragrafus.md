@@ -14,7 +14,7 @@ d) szőlő-, gyümölcs- és kertművelésű térség területét általános me
 
 e) a vízgazdálkodási térség területét vízgazdálkodási terület, vízgazdálkodási célú erdőterület vagy természetközeli terület övezetbe kell sorolni, és a működési területével érintett vízügyi igazgatási szervvel egyeztetve kell pontosítani;
 
-f) új beépítésre szánt terület a település közigazgatási határához 200 méternél közelebb csak az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnak a területrendezési hatósági eljárása során kiadott területfelhasználási engedélye alapján jelölhető ki;
+f) új beépítésre szánt terület a település közigazgatási határához 200 méternél közelebb csak az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatalnak a területrendezési hatósági eljárása során kiadott területfelhasználási engedélye alapján jelölhető ki;
 
 g) új ipari terület építési övezet nem jelölhető ki az M7 gyorsforgalmi út, a 7. sz. főút, a 76. sz. főút, a 71. sz. főút és a 710. sz. főút, a 7119. sz. út (Balatonberény parti út) és a 71345. sz. út (Keszthely parti út) 1000 méteres környezetében, továbbá a köztük és a Balaton-part közötti területen;
 

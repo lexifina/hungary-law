@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-139-00-00
 | 2021-12-22 | 2021. évi CXLVI. törvény | 2018-139-00-00.7 |
 | 2022-03-01 | 2021. évi CXLVI. törvény | 2018-139-00-00.8 |
 | 2022-07-15 | 16/2022. (VII. 14.) AB határozat | 2018-139-00-00.9 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2018-139-00-00.10 |

@@ -10,7 +10,7 @@
 
 88. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-a) a területrendezési tervek, valamint a településrendezési terv készítése során az országos, a kiemelt térségi és a megyei övezetek területi érintettségével kapcsolatosan állásfoglalásra kötelezett államigazgatási szervek körét és az eljárás részletes szabályait,
+a) a területrendezési tervek, valamint a településrendezési terv készítése során az országos, a kiemelt térségi és a vármegyei övezetek területi érintettségével kapcsolatosan állásfoglalásra kötelezett államigazgatási szervek körét és az eljárás részletes szabályait,
 
 b) a Balaton vízparti területeire vonatkozó közcélú területfelhasználási terv területi hatálya kijelölésének szempontjait, a terv tartalmi követelményeit és készítésének részletes szabályait,
 
@@ -44,4 +44,4 @@ rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a kultúráért, a környezet- és természetvédelemért, valamint a turizmusért felelős miniszterrel egyetértésben a borszőlő termőhelyi kataszteri területbe tartozó, kiemelkedő értékű tájelemet képviselő – történeti, termelési és turisztikai szempontból – egyedi értékű dűlőket lehatárolja, és e területek kivételes értékeinek megőrzésére vonatkozó követelményeket rendeletben szabályozza.
 
-(5) Felhatalmazást kap a megyei önkormányzat, hogy a megyei területrendezési tervet – és ennek részeként a sajátos megyei övezeteket – önkormányzati rendeletben állapítsa meg.
+(5) Felhatalmazást kap a vármegyei önkormányzat, hogy a vármegyei területrendezési tervet – és ennek részeként a sajátos vármegyei övezeteket – önkormányzati rendeletben állapítsa meg.

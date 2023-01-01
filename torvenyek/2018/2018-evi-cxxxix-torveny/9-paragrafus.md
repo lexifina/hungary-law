@@ -20,7 +20,7 @@ a) a Budapesti Agglomeráció Szerkezeti Tervében alkalmazott kiemelt térségi
 
 b) a Balaton Kiemelt Üdülőkörzet Szerkezeti Tervében alkalmazott kiemelt térségi területfelhasználási kategóriákat az 49. § határozza meg.
 
-(3) A megyei területfelhasználási kategóriák a következők:
+(3) A vármegyei területfelhasználási kategóriák a következők:
 
 a) területi korlát nélkül ábrázolt térségek:
 
