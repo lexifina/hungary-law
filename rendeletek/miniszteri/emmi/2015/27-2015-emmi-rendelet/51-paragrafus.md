@@ -12,7 +12,7 @@ b) a kért levéltári anyag levéltári jelzetének és
 
 c) a kölcsönzés időtartamának
 
-## egyidejű közlésével az eredeti levéltári anyagot őrző levéltárhoz továbbítja.
+egyidejű közlésével az eredeti levéltári anyagot őrző levéltárhoz továbbítja.
 
 (4) A kutatási engedélyhez kötött levéltári anyag kölcsönzésére irányuló megkereséshez a kölcsönvevő levéltárnak mellékelnie kell az Ltv. 24. § (2)–(5) bekezdéseiben meghatározott, a kutató által előzetesen beszerzett dokumentumokat.
 

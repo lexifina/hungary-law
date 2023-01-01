@@ -1,4 +1,4 @@
-## 11/A. §[^2] A levéltárak mint köziratot keletkeztető szervek vonatkozásában az irattári selejtezések jóváhagyásának jogát a Levéltári Szakfelügyelet gyakorolja.
+## 11/A. §[^3] A levéltárak mint köziratot keletkeztető szervek vonatkozásában az irattári selejtezések jóváhagyásának jogát a Levéltári Szakfelügyelet gyakorolja.
 
 ## III. Fejezet
 
@@ -16,4 +16,4 @@
 
 (5) A nyilvános magánlevéltár a fenntartó által meghatározott szervek maradandó értékű irattári anyagát a fenntartó által meghatározott módon veszi át.
 
-[^2]: A 11/A. §-t a 20/2020. (VI. 10.) EMMI rendelet 2. §-a iktatta be.
+[^3]: A 11/A. §-t a 20/2020. (VI. 10.) EMMI rendelet 2. §-a iktatta be.

@@ -10,7 +10,7 @@ b) tartalmi kivonatot vagy
 
 c) hiteles másolatot
 
-## állít ki.
+állít ki.
 
 (3) A tartalmi kivonat olyan írásos, de nem szöveg- vagy formahű értesítés, amelyben a levéltár az (1) bekezdésben foglaltaknak megfelelően szolgáltat adatot, illetve a keresett adatra vonatkozó levéltári anyag hiányáról ad tájékoztatást.
 

@@ -10,7 +10,7 @@ c) a kiállítási célú kölcsönzés vagy
 
 d) a működési célú kölcsönzés
 
-## szabályai szerint kell lebonyolítani.
+szabályai szerint kell lebonyolítani.
 
 (2) Eredeti levéltári anyag – kölcsönzése esetén – postai úton nem szállítható. A szállítás megszervezéséért, valamint a kölcsönzött iratok biztonságáért a kölcsönzést kérelmező intézmény a felelős.
 

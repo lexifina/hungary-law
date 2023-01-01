@@ -22,7 +22,7 @@ ed) a kutatói kérőlap kitöltésének, és
 
 ee) az elektronikus tárhely útján történő kiszolgálás
 
-## részletes szabályait.
+részletes szabályait.
 
 (3) A kutatószolgálat ellátásával megbízott kutatótermi felügyelő
 

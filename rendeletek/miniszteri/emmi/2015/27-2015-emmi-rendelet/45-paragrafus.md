@@ -7,3 +7,5 @@ b) kötetek esetében tíz kötetben,
 c) a jelzetenként kikért iratanyag esetében tíz jelzetre kiterjedő mennyiségben, valamint
 
 d) mikrofilm esetében öt filmtekercsben
+
+maximálhatja.

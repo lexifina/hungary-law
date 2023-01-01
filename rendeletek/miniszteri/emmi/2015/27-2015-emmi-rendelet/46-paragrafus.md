@@ -1,5 +1,3 @@
-## maximálhatja.
-
 ## 24. A látogatói jegy és a kutatói kérések nyilvántartása
 
 46. § (1) A közlevéltár a kutatószolgálat menetének áttekintése és ellenőrzése, valamint a statisztikai adatszolgáltatás érdekében nyilvántartja

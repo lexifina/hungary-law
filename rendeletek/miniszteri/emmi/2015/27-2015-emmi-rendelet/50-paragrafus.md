@@ -8,7 +8,7 @@ b) az iratot keletkeztető szerv jogutódja vagy
 
 c) az a) vagy b) pont szerinti szerv felügyeleti szerve
 
-## részére, meghatározott időtartamra vonatkozó kérelem (a továbbiakban: kölcsönzési kérelem) alapján bocsátja rendelkezésre. A kölcsönzési kérelem másolattal vagy tartalmi kivonat készítésével is teljesíthető.
+részére, meghatározott időtartamra vonatkozó kérelem (a továbbiakban: kölcsönzési kérelem) alapján bocsátja rendelkezésre. A kölcsönzési kérelem másolattal vagy tartalmi kivonat készítésével is teljesíthető.
 
 (2) Az (1) bekezdésben megjelölt szerveken kívül más szerv kölcsönzési kérelmét a levéltár másolattal vagy tartalmi kivonat készítésével teljesíti.
 

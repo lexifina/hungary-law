@@ -16,6 +16,6 @@ a) reprodukálás esetén a levéltári anyag reprodukálásának szabályai sze
 
 b) konzerválás, restaurálás és könyvkötés esetén a célnak megfelelő részletességű
 
-## jegyzék kíséretében adja át.
+jegyzék kíséretében adja át.
 
 (3) A működési célú kölcsönzés során az iratanyag mennyisége és a kölcsönzés időtartama nem esik korlátozás alá.
