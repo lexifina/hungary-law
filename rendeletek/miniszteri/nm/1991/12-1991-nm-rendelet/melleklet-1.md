@@ -2,7 +2,7 @@
 
 1. melléklet a 12/1991. (V. 18.) NM rendelethez[^16]
 
-## A táborozás közegészségügyi feltételei
+A táborozás közegészségügyi feltételei
 
 ## 1.a.[^17] Az üdülőkben és a táborokban biztosítani kell a táborozók szabadtéri mozgásának (sportolásának) lehetőségét.
 

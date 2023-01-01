@@ -1,6 +1,6 @@
 2. melléklet a 12/1991. (V. 18.) NM rendelethez[^21]
 
-## A nyilatkozat adattartalma
+A nyilatkozat adattartalma
 
 1. A gyermek neve
 
