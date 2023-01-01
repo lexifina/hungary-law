@@ -1,0 +1,1 @@
+70/A. § A pénzforgalmi intézmény és az elektronikuspénz-kibocsátó intézmény az általa nyújtott pénzügyi, kiegészítő pénzügyi szolgáltatását vagy annak körébe tartozó bármely résztevékenységét munkanapokon, előzetesen tervezetten, a Hpt.-ben a bankszünnap tartására vonatkozóan előírt feltételek szerint szüneteltetheti.
