@@ -2,6 +2,8 @@
 
 1. melléklet a 102/2021. (III. 3.) Korm. rendelethez[^3]
 
+A Beruházás helyszínével, közvetlen környezetével érintett ingatlanok
+
 [^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 250/2022. (VII. 11.) Korm. rendelet 1. §-a iktatta be.
 [^2]: A hatálybalépés időpontja 2022. július 12.
 [^3]: Az 1. melléklet a 250/2022. (VII. 11.) Korm. rendelet 2. §-a szerint módosított szöveg.

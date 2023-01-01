@@ -1,5 +1,3 @@
-## A Beruházás helyszínével, közvetlen környezetével érintett ingatlanok
-
 |  | A | B | C |
 
 | 1. | A település megnevezése | Besorolás | A Beruházás megvalósításának helyszíne (helyrajzi szám) |
@@ -114,7 +112,7 @@
 
 2. melléklet a 102/2021. (III. 3.) Korm. rendelethez
 
-## A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
