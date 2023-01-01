@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-5-00-00
 | 2016-07-01 | 2016. évi LXIV. törvény | 2012-5-00-00.26 |
 | 2017-11-19 | 2017. évi CXXXIX. törvény | 2012-5-00-00.27 |
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2012-5-00-00.28 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2012-5-00-00.29 |
