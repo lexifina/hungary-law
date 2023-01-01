@@ -1,6 +1,6 @@
 2. melléklet a 28/2017. (XII. 27.) IM rendelethez
 
-## A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján kiutasított külföldi fél kérelmének benyújtására szolgáló nyomtatvány adattartalma
+A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény alapján kiutasított külföldi fél kérelmének benyújtására szolgáló nyomtatvány adattartalma
 
 1. A kérelmező személyi adatai
 

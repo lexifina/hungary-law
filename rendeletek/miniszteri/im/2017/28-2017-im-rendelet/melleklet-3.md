@@ -1,6 +1,6 @@
 3. melléklet a 28/2017. (XII. 27.) IM rendelethez
 
-## A jogi szolgáltatás teljesítésének igazolására szolgáló nyomtatvány adattartalma
+A jogi szolgáltatás teljesítésének igazolására szolgáló nyomtatvány adattartalma
 
 1. A jogi segítségnyújtó támogatás engedélyezésére vonatkozó adatok
 

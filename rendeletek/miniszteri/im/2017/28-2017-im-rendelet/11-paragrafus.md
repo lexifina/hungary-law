@@ -10,7 +10,7 @@ d) a gyermektartás és a családi tartások egyéb formáinak nemzetközi behaj
 
 e) a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló (EU) 2019/1111 tanácsi rendelet (a továbbiakban: (EU) 2019/1111 rendelet) 74. cikke alapján
 
-## csak arra tekintettel kéri támogatás engedélyezését, hogy az elismerést vagy végrehajtást megelőző, másik tagállam hatósága előtti eljárásban költségkedvezményben vagy illetékmentességben részesült, e ténynek a nyomtatvány vonatkozó részén történő megjelölése mellett csupán a nyomtatvány személyi adatokra vonatkozó részét kell kitöltenie.
+csak arra tekintettel kéri támogatás engedélyezését, hogy az elismerést vagy végrehajtást megelőző, másik tagállam hatósága előtti eljárásban költségkedvezményben vagy illetékmentességben részesült, e ténynek a nyomtatvány vonatkozó részén történő megjelölése mellett csupán a nyomtatvány személyi adatokra vonatkozó részét kell kitöltenie.
 
 (2)[^5] Az (1) bekezdés szerinti kérelemben az elismerés és végrehajtás alapjául szolgáló határozatot a 44/2001/EK tanácsi rendelet V. Melléklete, a 2201/2003/EK tanácsi rendelet I., II., III. vagy IV. Melléklete, a 4/2009/EK tanácsi rendelet I., II., III. vagy IV. Melléklete vagy az (EU) 2019/1111 rendelet II., III., IV., V., VI., VIII. vagy IX. Melléklete szerint igazolni kell.
 

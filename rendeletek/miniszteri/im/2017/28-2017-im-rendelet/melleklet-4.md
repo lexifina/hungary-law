@@ -1,6 +1,6 @@
 4. melléklet a 28/2017. (XII. 27.) IM rendelethez
 
-## A pártfogó ügyvéd meghatalmazására szolgáló nyomtatvány adattartalma
+A pártfogó ügyvéd meghatalmazására szolgáló nyomtatvány adattartalma
 
 1. A párfogó ügyvédi képviselet engedélyezésére vonatkozó adatok
 
