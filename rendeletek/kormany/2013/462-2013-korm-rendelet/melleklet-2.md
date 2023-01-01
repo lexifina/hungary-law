@@ -1,26 +1,24 @@
-## Az 1. § (1) bekezdése szerinti nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatásához hatáskörrel rendelkező közigazgatási szervek
-
 |  | A | B | C | D |
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
 
-| 2. | A szombathelyi sportcélú beruházások megvalósítására irányuló beruházási program keretében a) UEFA IV. kategóriájú labdarúgó stadion b) multifunkcionális sportcsarnok, valamint a kapcsolódó infrastruktúra kialakítására irányuló beruházások. | Szombathely közigazgatási területén fekvő, 3643/1, 3645, 3606, 3518/2, 3643/2 helyrajzi számon nyilvántartott földrészletek. | általános építésügyi és építésfelügyeleti hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal |
+| 2. | A szombathelyi sportcélú beruházások megvalósítására irányuló beruházási program keretében a) UEFA IV. kategóriájú labdarúgó stadion b) multifunkcionális sportcsarnok, valamint a kapcsolódó infrastruktúra kialakítására irányuló beruházások. | Szombathely közigazgatási területén fekvő, 3643/1, 3645, 3606, 3518/2, 3643/2 helyrajzi számon nyilvántartott földrészletek. | általános építésügyi és építésfelügyeleti hatósági engedélyezési eljárások | Vas Vármegyei Kormányhivatal [^12] |
 
-| 3. | örökségvédelmi hatósági engedélyezési eljárások, régészeti feltárásokkal kapcsolatos eljárások | Vas Megyei Kormányhivatal |
+| 3. | örökségvédelmi hatósági engedélyezési eljárások, régészeti feltárásokkal kapcsolatos eljárások | Vas Vármegyei Kormányhivatal [^13] |
 
-| 4. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal |
+| 4. | környezetvédelmi és természetvédelmi hatósági engedélyezési eljárások | Vas Vármegyei Kormányhivatal [^14] |
 
-| 5. | útügyi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal |
+| 5. | útügyi hatósági engedélyezési eljárások | Vas Vármegyei Kormányhivatal [^15] |
 
-| 6. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Vas Megyei Kormányhivatal |
+| 6. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Vas Vármegyei Kormányhivatal [^16] |
 
-| 7. | vízügyi és vízvédelmi hatósági eljárások | Vas Megyei Katasztrófavédelmi Igazgatóság |
+| 7. | vízügyi és vízvédelmi hatósági eljárások | Vas Vármegyei Katasztrófavédelmi Igazgatóság[^17] |
 
 | 8. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 9. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Vas Megyei Kormányhivatal |
+| 9. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Vas Vármegyei Kormányhivatal [^18] |
 
-| 10. | talajvédelmi hatósági eljárások | Vas Megyei Kormányhivatal |
+| 10. | talajvédelmi hatósági eljárások | Vas Vármegyei Kormányhivatal [^19] |
 
 | 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -28,6 +26,14 @@
 
 | 13. | jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 462/2013. (XII. 4.) Korm. rendelethez[^10]
+2. melléklet a 462/2013. (XII. 4.) Korm. rendelethez[^20]
 
-[^10]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 108. § e) pontja hatályon kívül helyezte.
+[^12]: Az 1. mellékletben foglalt táblázat D:2 mezője az 546/2022. (XII. 22.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.
+[^13]: Az 1. mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.
+[^14]: Az 1. mellékletben foglalt táblázat D:4 mezője az 546/2022. (XII. 22.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.
+[^15]: Az 1. mellékletben foglalt táblázat D:5 mezője az 546/2022. (XII. 22.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.
+[^16]: Az 1. mellékletben foglalt táblázat D:6 mezője az 546/2022. (XII. 22.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.
+[^17]: Az 1. mellékletben foglalt táblázat D:7 mezője az 546/2022. (XII. 22.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.
+[^18]: Az 1. mellékletben foglalt táblázat D:9 mezője az 546/2022. (XII. 22.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.
+[^19]: Az 1. mellékletben foglalt táblázat D:10 mezője az 546/2022. (XII. 22.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.
+[^20]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 108. § e) pontja hatályon kívül helyezte.

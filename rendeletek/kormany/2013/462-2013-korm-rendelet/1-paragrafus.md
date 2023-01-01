@@ -4,7 +4,7 @@ a) a szombathelyi sportcélú beruházások keretében Szombathely közigazgatá
 
 b) multifunkcionális sportcsarnok
 
-## megépítésével összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
+megépítésével összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket.
 
 (2) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyekben eljáró hatóságként az 1. mellékletben meghatározott hatóságokat jelöli ki.
 

@@ -1,3 +1,3 @@
-## 2. §[^3]
+3. §[^4] Az 1. § (1) bekezdése szerinti beruházások hivatalos közbeszerzési tanácsadója, beruházás-lebonyolítója és építési műszaki ellenőre kizárólagos joggal az Építési és Közlekedési Minisztérium
 
-[^3]: A 2. §-t a 458/2017. (XII. 28.) Korm. rendelet 108. § b) pontja hatályon kívül helyezte.
+[^4]: A 3. § az 523/2022. (XII. 15.) Korm. rendelet 3. §-a szerint módosított szöveg.
