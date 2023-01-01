@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-99-00-00
 | 2020-04-01 | 2020. évi XVII. törvény | 2008-99-00-00.32 |
 | 2020-07-01 | 2020. évi XXXII. törvény | 2008-99-00-00.33 |
 | 2021-12-22 | 2021. évi CXLVIII. törvény | 2008-99-00-00.34 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2008-99-00-00.35 |
