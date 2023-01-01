@@ -1,4 +1,4 @@
-5/D. §[^51] (1) Az Etv. Harmadik része szerinti eljárásban az eljárás megindítására irányuló, az eljáró hatósághoz benyújtandó kérelemhez – az 5/C. §-ban foglaltaktól eltérően – az ügyfélnek mellékelnie kell
+5/D. §[^52] (1) Az Etv. Harmadik része szerinti eljárásban az eljárás megindítására irányuló, az eljáró hatósághoz benyújtandó kérelemhez – az 5/C. §-ban foglaltaktól eltérően – az ügyfélnek mellékelnie kell
 
 a) az állampolgárságát igazoló közokirat másolatát,
 
@@ -6,7 +6,7 @@ b) az adott szakma gyakorlásának megkezdésére jogosító, képzés sikeres e
 
 c) a szakmai tapasztalatáról szóló igazolást és ennek hiteles fordítását, amennyiben a szakmai tapasztalat igazolását az Etv. előírja, továbbá
 
-d)[^52] az igazgatási szolgáltatási díj megfizetését tanúsító okiratot.
+d)[^53] az igazgatási szolgáltatási díj megfizetését tanúsító okiratot.
 
 (2) A tagállam állampolgárával az Etv. 28. § (2) bekezdése alapján azonos megítélés alá eső ügyfélnek – az (1) bekezdésben foglaltakon túl – kérelméhez csatolnia kell
 
@@ -22,11 +22,11 @@ c) a bevándorlási engedély, illetve a letelepedett jogállást igazoló okmá
 
 (5) Ha a kérelem az Etv. IX. Fejezetének hatálya alá tartozik, az eljáró hatóság előírhatja, hogy az ügyfél mellékeljen olyan más tagállami igazolást, amely azt tanúsítja, hogy az ügyfél képzés sikeres elvégzését tanúsító okirata az Etv. IX. Fejezetének hatálya alá tartozik.
 
-(6)[^53] Ha a kérelmező a kérelmét elektronikus ügyintézés igénybevételével nyújtja be, az (1) bekezdés b) pontja szerinti hiteles másolatot és hiteles fordítást, az (1) bekezdés c) pontja szerinti okiratot és hiteles fordítást, a (3)–(5) bekezdés szerinti okiratokat, a 3. § szerinti okiratokat, valamint az 5/E. § szerinti okiratokat elektronikusan is benyújthatja.
+(6)[^54] Ha a kérelmező a kérelmét elektronikus ügyintézés igénybevételével nyújtja be, az (1) bekezdés b) pontja szerinti hiteles másolatot és hiteles fordítást, az (1) bekezdés c) pontja szerinti okiratot és hiteles fordítást, a (3)–(5) bekezdés szerinti okiratokat, a 3. § szerinti okiratokat, valamint az 5/E. § szerinti okiratokat elektronikusan is benyújthatja.
 
-(7)[^54] Ha a (6) bekezdés alapján elektronikusan benyújtott okiratok hitelessége kétséges, az eljáró hatóság előírja, hogy a kérelmező mutassa be a (6) bekezdésben meghatározott okiratok eredeti példányát.
+(7)[^55] Ha a (6) bekezdés alapján elektronikusan benyújtott okiratok hitelessége kétséges, az eljáró hatóság előírja, hogy a kérelmező mutassa be a (6) bekezdésben meghatározott okiratok eredeti példányát.
 
-[^51]: Az 5/D. §-t a 21/2017. (II. 2.) Korm. rendelet 1. §-a iktatta be.
-[^52]: Az 5/D. § (1) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 218. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^53]: Az 5/D. § (6) bekezdését a 403/2020. (VIII. 17.) Korm. rendelet 2. §-a iktatta be.
-[^54]: Az 5/D. § (7) bekezdését a 403/2020. (VIII. 17.) Korm. rendelet 2. §-a iktatta be.
+[^52]: Az 5/D. §-t a 21/2017. (II. 2.) Korm. rendelet 1. §-a iktatta be.
+[^53]: Az 5/D. § (1) bekezdés d) pontja a 457/2017. (XII. 28.) Korm. rendelet 218. § (3) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^54]: Az 5/D. § (6) bekezdését a 403/2020. (VIII. 17.) Korm. rendelet 2. §-a iktatta be.
+[^55]: Az 5/D. § (7) bekezdését a 403/2020. (VIII. 17.) Korm. rendelet 2. §-a iktatta be.

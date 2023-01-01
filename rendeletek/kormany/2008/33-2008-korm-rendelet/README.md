@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-33-20-2
 | 2021-07-24 | 2008-33-20-22.40 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2021-09-01 | 2008-33-20-22.41 | 447/2021. (VII. 26.) Korm. rendelet |
 | 2022-07-01 | 2008-33-20-22.42 | 238/2022. (VI. 30.) Korm. rendelet |
+| 2023-01-01 | 2008-33-20-22.43 | 617/2022. (XII. 29.) Korm. rendelet |

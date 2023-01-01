@@ -30,6 +30,8 @@ b) igazolja, hogy a továbbtanulási céllal elismerni kért bizonyítvány vagy
 
 (5)[^50] A résztanulmányok beszámítására irányuló kérelemhez – az (1) bekezdésben foglaltaktól eltérően – az (1) bekezdés b) pontja szerinti okiratokat és azok hiteles fordítását kell csatolni. Az oktatási intézmény résztanulmányok beszámítása esetében és a továbbtanulási célú elismerési eljárás során nem hiteles fordítást és szakfordítást is elfogadhat, továbbá mentesítheti a kérelmezőt a fordítás benyújtásának kötelezettsége alól.
 
+(6)[^51] A felsőoktatási intézmény az (1) bekezdéstől eltérően a továbbtanulási célú elismerési eljárás során nem hiteles másolatot is elfogad. A kérelmező köteles az (1) bekezdés a) és b) pontja szerinti okiratokat az eljáró hatóság részére a beiratkozást követő hat hónapon belül benyújtani.
+
 [^42]: Az 5/C. §-t a 21/2017. (II. 2.) Korm. rendelet 1. §-a iktatta be.
 [^43]: Az 5/C. § (1) bekezdés b) pontja a 191/2019. (VII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^44]: Az 5/C. § (1) bekezdés c) pontja a 191/2019. (VII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
@@ -39,3 +41,4 @@ b) igazolja, hogy a továbbtanulási céllal elismerni kért bizonyítvány vagy
 [^48]: Az 5/C. § (4b) bekezdését a 203/2020. (V. 14.) Korm. rendelet 11. § (1) bekezdése iktatta be.
 [^49]: Az 5/C. § (4c) bekezdését a 203/2020. (V. 14.) Korm. rendelet 11. § (1) bekezdése iktatta be.
 [^50]: Az 5/C. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 218. § (1) bekezdése iktatta be, szövege a 191/2019. (VII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^51]: Az 5/C. § (6) bekezdését a 617/2022. (XII. 29.) Korm. rendelet 5. §-a iktatta be.

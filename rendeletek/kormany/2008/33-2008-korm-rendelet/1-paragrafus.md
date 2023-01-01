@@ -40,7 +40,7 @@ r)[^15] energetikai szakreferens képesítések esetén a Magyar Energetikai és
 
 s)[^16] a környezetvédelemért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében a meteorológiai szolgáltatási tevékenység tekintetében az Országos Meteorológiai Szolgálatot
 
-## jelöli ki.
+jelöli ki.
 
 (3)[^17] A Kormány az Etv. IV. Fejezetének hatálya alá tartozó hatósági eljárásokban azon szakmák tekintetében, amelyek képzési és kimeneti követelményeinek meghatározása során a Kormány adott ágazatért felelős tagjaként
 
@@ -52,7 +52,7 @@ c) a közlekedésért felelős miniszter egyetértési joggal rendelkezik, a kö
 
 d) a postaügyért felelős miniszter, az elektronikus hírközlésért felelős miniszter vagy az informatikáért felelős miniszter egyetértési joggal rendelkezik, első fokon a Nemzeti Média- és Hírközlési Hatóság Hivatalát, másodfokon a Nemzeti Média- és Hírközlési Hatóság elnökét
 
-## jelöli ki a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságként.
+jelöli ki a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságként.
 
 (3a)[^20] A Kormány a külföldi bizonyítványok és oklevelek elismeréséért felelős hatóságként a felnőttképzési államigazgatási szervet jelöli ki az Etv. IV. Fejezetének hatálya alá tartozó hatósági eljárásokban azon szakmák esetében, amelyek a szakmajegyzék bányászat és kohászat, elektronika és elektrotechnika, építőipar, épületgépészet, fa- és bútoripar, gépészet, kereskedelem, kreatív, szépészet, turizmus-vendéglátás, valamint vegyipar ágazatába tartoznak vagy azokhoz az ágazatokhoz köthetők.
 
