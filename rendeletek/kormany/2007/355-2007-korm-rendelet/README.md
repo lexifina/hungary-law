@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-355-20-
 | 2015-04-01 | 2007-355-20-22.10 | 70/2015. (III. 30.) Korm. rendelet |
 | 2017-07-01 | 2007-355-20-22.11 | 171/2017. (VI. 29.) Korm. rendelet |
 | 2020-03-01 | 2007-355-20-22.12 | 171/2017. (VI. 29.) Korm. rendelet |
+| 2023-01-01 | 2007-355-20-22.13 | 355/2009. (XII. 30.) Korm. rendelet |
