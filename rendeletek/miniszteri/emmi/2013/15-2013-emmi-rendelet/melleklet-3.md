@@ -1,4 +1,4 @@
-3. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^200]
+3. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^209]
 
 A szakértői vélemény elkészítésének szakmai követelményei
 
@@ -22,7 +22,7 @@ A vizsgálatok elrendezése életciklusok szempontjából:
 
 | A tankötelezettség teljesítésének szakasza | a)A hosszú távú társadalmi beilleszkedés, beválás segítése, a reális pályaválasztás támogatása b) Az állapotváltozás nyomon követése, a beválást nehezítő/segítő jellemzők azonosítása, segítő stratégiák, megoldási javaslatok megfogalmazása az élethelyzet módosítására, a hátrányok enyhítésére c)A folyamatdiagnosztikai szempont előtérbe helyezése, illetve az újonnan jelentkező eseteknél az előzmények lehetőség szerinti feltárása d)A pszichológiai sajátosságok mérlegelése: az érzelmi-indulati élet sajátosságai, diszfunkciói. |
 
-## 1 Jelmagyarázat:
+1 Jelmagyarázat:
 
 a) Idői intervallum
 
@@ -294,23 +294,23 @@ A vizsgálat tartalma
 
 | Az érzelmi élet, a pszichológiai tényezők vizsgálata | Pszichológiai vizsgálóeljárások: projektív és más pszichológiai tesztek, interjú, megfigyelés |
 
-## Vizsgálati minimum korai életkorban, az értelmi képességek alacsony szintjén, illetve halmozott fogyatékosság esetén
+Vizsgálati minimum korai életkorban, az értelmi képességek alacsony szintjén, illetve halmozott fogyatékosság esetén
 
-## Korai diagnosztikai kritériumok:
+Korai diagnosztikai kritériumok:
 
-## – Család szerepe, szülők fokozott bevonása a feltárás, fejlesztés folyamatába
+– Család szerepe, szülők fokozott bevonása a feltárás, fejlesztés folyamatába
 
-## – Fejlődés-neurológiai szempontok az elsődlegesek. Kiemelt feladat a gyógypedagógus, pszichológusegyüttműködése a neurológussal
+– Fejlődés-neurológiai szempontok az elsődlegesek. Kiemelt feladat a gyógypedagógus, pszichológusegyüttműködése a neurológussal
 
-## – Fejlesztésorientált diagnosztika alkalmazása
+– Fejlesztésorientált diagnosztika alkalmazása
 
-## – A pszichodiagnosztikában a korai életkorban (0–3 év) használt és elterjedt diagnosztikus eljárásokat felhasználásuk irányultsága szerint két csoportba oszthatjuk:
+– A pszichodiagnosztikában a korai életkorban (0–3 év) használt és elterjedt diagnosztikus eljárásokat felhasználásuk irányultsága szerint két csoportba oszthatjuk:
 
-## – Az idegrendszer érési folyamatát vizsgáló szenzoros és szenzomotoros integrációs tesztek
+– Az idegrendszer érési folyamatát vizsgáló szenzoros és szenzomotoros integrációs tesztek
 
-## – A pszichomotoros fejlődés érettségi szintjét (nagymozgás, finommozgás, szociabilitás, beszéd funkcióterületeit) mérő eljárások, tesztbattériák, illetve fejlődési skálák.
+– A pszichomotoros fejlődés érettségi szintjét (nagymozgás, finommozgás, szociabilitás, beszéd funkcióterületeit) mérő eljárások, tesztbattériák, illetve fejlődési skálák.
 
-## Az óvodáskor előtti időszak vizsgálati tartalma
+Az óvodáskor előtti időszak vizsgálati tartalma
 
 | A vizsgálat részterülete | Módszer |
 
@@ -328,7 +328,7 @@ A vizsgálat tartalma
 
 | Az érzelmi élet, a pszichológiai tényezők vizsgálata | Pszichológiai vizsgálóeljárások: projektív és más pszichológiai tesztek, interjú, megfigyelés |
 
-## Az óvodáskor vizsgálati tartalma
+Az óvodáskor vizsgálati tartalma
 
 | A vizsgálat részterülete | Módszer |
 
@@ -394,4 +394,30 @@ A vizsgálatok céljai:
 
 – kognitív képességek és készségek, adaptív készségek, viselkedésproblémák szintjének felmérése
 
-[^200]: A 3. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 14. és 15. pontja, a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés j)–k) pontja, a 37/2021. (VIII. 31.) EMMI rendelet 35. § (1) bekezdés c) pontja szerint módosított szöveg.
+| A vizsgálat részterülete | Módszer |
+
+| Előzmények (általános anamnézis) | A szülő kikérdezése, dokumentumelemzés |
+
+| Adatgyűjtés, célirányos anamnézis | A szülő kikérdezése Az alap- és célzott szűrővizsgálatok eredményeinek értékelése A pedagógiai jellemzés elemzése Vizuális információ a szociális viselkedésről |
+
+| Korai tünetek, illetve a Wing-i triász és a diagnosztikus algoritmusokba (BNO, DSM) foglalt tünetek feltárása: a szülő célirányos kikérdezése a gyermek fejlődéséről, különös tekintettel a 4–5 éves kor közötti életszakaszra, a gyermek szociális és kommunikációs készségeire, viselkedésére | Szülői kikérdezés |
+
+| Wing-i triász és a diagnosztikus algoritmusokba (BNO, DSM) foglalt tünetek vizsgálata: a naiv tudatelmélet, illetve a végrehajtó funkciók zavarán alapuló sérült szociális és kommunikációs készségek, sajátos gondolkodási stílus és viselkedés vizsgálata, megfigyelése | Fejlődési skála Standardizált teszt Ennek hiányában: Tervezett tevékenykedtetés a viselkedés célirányos megfigyelésére |
+
+| Általános értelmi képességek | Standardizált teszt |
+
+| A passzív szókincs vizsgálata és az expresszív beszéddel, grammatikai készséggel kapcsolatos vizsgálatok | Vizsgálati eljárás |
+
+| A gyermeki fantázia vizsgálata: rajz, mesék iránti érdeklődés | Vizsgálati eljárás Megfigyelés Kikérdezés |
+
+| Részképességek vizsgálata Nagy- és finommozgások Avizuomotoros koordináció vizsgálata Figyelem Munkamemória | Vizsgálati eljárás Próbamódszerek |
+
+| Észlelés vizsgálata: Auditív, vizuális, taktilis, vesztibuláris észlelés, érzékenység, hárítások és preferálások feltárása | Szülő kikérdezése Próbamódszerek, kérdőívek, vizsgálati eljárások |
+
+| Pedagógiai vizsgálatok a tanulást megalapozó további készségek megismerésére: A kultúrtechnikák ismeretének, használatának a vizsgálata, beleértve a gyakorlati életben való alkalmazásra való képességet Aktivitásszabályozás, impulzivitás Kontrollfunkciók (kitartás, késleltetés; reakció akadályoztatásra) Utánzás Taníthatóság, reakció a testi irányításra, téri és idői strukturálásra, vizuális támpont adására | Próbák Szülő kikérdezése Megfigyelés |
+
+| Tevékenységi kör, időtöltés, a veszély felismerésére való képesség megismerése | Szülői kikérdezés Pedagógiai jellemzés elemzése |
+
+| Toalett, alvás- és étkezési szokások megismerése | Szülői kikérdezés Pedagógiai jellemzés elemzése |
+
+[^209]: A 3. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 14. és 15. pontja, a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés j)–k) pontja, a 37/2021. (VIII. 31.) EMMI rendelet 35. § (1) bekezdés c) pontja szerint módosított szöveg.

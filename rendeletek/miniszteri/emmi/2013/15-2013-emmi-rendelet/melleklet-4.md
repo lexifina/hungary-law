@@ -1,29 +1,3 @@
-| A vizsgálat részterülete | Módszer |
-
-| Előzmények (általános anamnézis) | A szülő kikérdezése, dokumentumelemzés |
-
-| Adatgyűjtés, célirányos anamnézis | A szülő kikérdezése Az alap- és célzott szűrővizsgálatok eredményeinek értékelése A pedagógiai jellemzés elemzése Vizuális információ a szociális viselkedésről |
-
-| Korai tünetek, illetve a Wing-i triász és a diagnosztikus algoritmusokba (BNO, DSM) foglalt tünetek feltárása: a szülő célirányos kikérdezése a gyermek fejlődéséről, különös tekintettel a 4–5 éves kor közötti életszakaszra, a gyermek szociális és kommunikációs készségeire, viselkedésére | Szülői kikérdezés |
-
-| Wing-i triász és a diagnosztikus algoritmusokba (BNO, DSM) foglalt tünetek vizsgálata: a naiv tudatelmélet, illetve a végrehajtó funkciók zavarán alapuló sérült szociális és kommunikációs készségek, sajátos gondolkodási stílus és viselkedés vizsgálata, megfigyelése | Fejlődési skála Standardizált teszt Ennek hiányában: Tervezett tevékenykedtetés a viselkedés célirányos megfigyelésére |
-
-| Általános értelmi képességek | Standardizált teszt |
-
-| A passzív szókincs vizsgálata és az expresszív beszéddel, grammatikai készséggel kapcsolatos vizsgálatok | Vizsgálati eljárás |
-
-| A gyermeki fantázia vizsgálata: rajz, mesék iránti érdeklődés | Vizsgálati eljárás Megfigyelés Kikérdezés |
-
-| Részképességek vizsgálata Nagy- és finommozgások Avizuomotoros koordináció vizsgálata Figyelem Munkamemória | Vizsgálati eljárás Próbamódszerek |
-
-| Észlelés vizsgálata: Auditív, vizuális, taktilis, vesztibuláris észlelés, érzékenység, hárítások és preferálások feltárása | Szülő kikérdezése Próbamódszerek, kérdőívek, vizsgálati eljárások |
-
-| Pedagógiai vizsgálatok a tanulást megalapozó további készségek megismerésére: A kultúrtechnikák ismeretének, használatának a vizsgálata, beleértve a gyakorlati életben való alkalmazásra való képességet Aktivitásszabályozás, impulzivitás Kontrollfunkciók (kitartás, késleltetés; reakció akadályoztatásra) Utánzás Taníthatóság, reakció a testi irányításra, téri és idői strukturálásra, vizuális támpont adására | Próbák Szülő kikérdezése Megfigyelés |
-
-| Tevékenységi kör, időtöltés, a veszély felismerésére való képesség megismerése | Szülői kikérdezés Pedagógiai jellemzés elemzése |
-
-| Toalett, alvás- és étkezési szokások megismerése | Szülői kikérdezés Pedagógiai jellemzés elemzése |
-
 ## A figyelem- vagy magatartásszabályozási zavar megállapítása
 
 ## A motoros koordináció fejlődési zavara

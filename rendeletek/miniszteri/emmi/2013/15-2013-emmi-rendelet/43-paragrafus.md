@@ -1,5 +1,5 @@
 ## 17. Vegyes rendelkezések
 
-43. §[^176]
+43. §[^185]
 
-[^176]: A 43. §-t a 14/2020. (IV. 16.) EMMI rendelet 12. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^185]: A 43. §-t a 14/2020. (IV. 16.) EMMI rendelet 12. § (3) bekezdés a) pontja hatályon kívül helyezte.

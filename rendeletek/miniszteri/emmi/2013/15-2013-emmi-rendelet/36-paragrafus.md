@@ -1,4 +1,4 @@
-## 35/A. §[^170] Az oktatási központ az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szervekről, valamint a Klebelsberg Központról szóló 134/2016. (VI. 10.) Korm. rendelet 5. § (2) bekezdés 16. pontja alapján, a szakszolgálati feladatellátás szakmai egységességének biztosítása érdekében, a miniszter szakmai iránymutatásával főigazgatói munkaközösséget működtet. A főigazgatói munkaközösség tagjai a tankerületi központok által fenntartott Intézmények intézményvezetői, akik a munkaközösség vezetőjét tagjaik közül választják. A főigazgatói munkaközösség üléseit legalább háromhavonta tartja. A főigazgatói munkaközösség az ügyrendjét maga alkotja meg.
+## 35/A. §[^178] Az oktatási központ az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szervekről, valamint a Klebelsberg Központról szóló 134/2016. (VI. 10.) Korm. rendelet 5. § (2) bekezdés 16. pontja alapján, a szakszolgálati feladatellátás szakmai egységességének biztosítása érdekében, a miniszter szakmai iránymutatásával főigazgatói munkaközösséget működtet. A főigazgatói munkaközösség tagjai a tankerületi központok által fenntartott Intézmények intézményvezetői, akik a munkaközösség vezetőjét tagjaik közül választják. A főigazgatói munkaközösség üléseit legalább háromhavonta tartja. A főigazgatói munkaközösség az ügyrendjét maga alkotja meg.
 
 ## 14. Az iratkezelés és az ügyintézés szabályai
 
@@ -14,4 +14,4 @@
 
 (6) Ha az ügy jellege megengedi, az ügyiratban foglaltak távbeszélőn, elektronikus levélben vagy a jelenlévő érdekelt személyes tájékoztatásával is elintézhetők. Távbeszélőn vagy személyes tájékoztatás keretében történő ügyintézés esetén az iratra rá kell vezetni a tájékoztatás lényegét, az elintézés határidejét és az ügyintéző aláírását.
 
-[^170]: A 35/A. §-t az 53/2016. (XII. 29.) EMMI rendelet 41. §-a iktatta be.
+[^178]: A 35/A. §-t az 53/2016. (XII. 29.) EMMI rendelet 41. §-a iktatta be.

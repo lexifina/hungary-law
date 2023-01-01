@@ -1,6 +1,6 @@
 ## 38. § Az Intézménynek az alapító okiratában meghatározott pedagógiai szakszolgálati feladatok ellátásához legalább a 9. mellékletben meghatározott eszközökkel és felszerelésekkel [a továbbiakban: kötelező (minimális) eszközök és felszerelések] rendelkeznie kell. A kötelező (minimális) eszközöket és felszereléseket telephelyenként, az alapító okiratban meghatározott és a telephelyen ténylegesen ellátott feladatokra kell biztosítani.
 
-## 15. [^172] A Gyakorló Szakszolgálatra vonatkozó eltérő szabályok
+## 15. [^180] A Gyakorló Szakszolgálatra vonatkozó eltérő szabályok
 
 39. § (1) A Gyakorló Szakszolgálat a (2)–(13) bekezdésében meghatározott esetekben szakértői bizottságként, egyéb, jogszabályban meghatározott esetekben szakértőként jár el.
 
@@ -44,8 +44,9 @@ e) a kérelmező tájékoztatását a jogorvoslat lehetőségéről.
 
 (11) A szakértői bizottságként eljáró Gyakorló Szakszolgálat (2) bekezdésben meghatározott tevékenysége térítésköteles.
 
-(12) A Gyakorló Szakszolgálat vezetője adott ügyben a kérelmezőnek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 9. és 10. pontja vagy a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 67/A. §-a alapján hátrányos vagy halmozottan hátrányos helyzetére tekintettel, továbbá ha a kérelmező családjában az egy főre eső havi nettó jövedelem nem haladja meg az öregségi nyugdíj mindenkori legkisebb összegét, egyedülálló kérelmező esetében az öregségi nyugdíj mindenkori legkisebb összegének 150%-át, méltányossági jogkört gyakorolva a térítési díjat csökkentheti vagy mellőzheti. Ennek részletes szabályait a Gyakorló Szakszolgálat határozza meg.
+(12)[^181] A Gyakorló Szakszolgálat vezetője adott ügyben a kérelmezőnek a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 108. § 9. és 10. pontja vagy a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 67/A. §-a alapján hátrányos vagy halmozottan hátrányos helyzetére tekintettel, továbbá ha a kérelmező családjában az egy főre eső havi nettó jövedelem nem haladja meg a szociális vetítési alap összegét, egyedülálló kérelmező esetében a szociális vetítési alap összegének 150%-át, méltányossági jogkört gyakorolva a térítési díjat csökkentheti vagy mellőzheti. Ennek részletes szabályait a Gyakorló Szakszolgálat határozza meg.
 
 (13) A 7–23. § a szakértői bizottságként eljáró Gyakorló Szakszolgálat esetében nem alkalmazható.
 
-[^172]: A 15. alcímet (39. §) a 20/2019. (VIII. 30.) EMMI rendelet 40. § d) pontja hatályon kívül helyezte, újonnan ugyanezen módosító rendelet – 14/2020. (IV. 16.) EMMI rendelet 14. § -a szerint módosított – 37. §-a iktatta be.
+[^180]: A 15. alcímet (39. §) a 20/2019. (VIII. 30.) EMMI rendelet 40. § d) pontja hatályon kívül helyezte, újonnan ugyanezen módosító rendelet – 14/2020. (IV. 16.) EMMI rendelet 14. § -a szerint módosított – 37. §-a iktatta be.
+[^181]: A 39. § (12) bekezdése a 80/2022. (XII. 30.) BM rendelet 38. §-a szerint módosított szöveg.

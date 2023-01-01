@@ -30,11 +30,11 @@ bd)[^8] az okleveles logopédus
 
 szakképzettség,
 
-4. Intézmény: megyénként és a fővárosban egy, a székhelyintézménye szerint illetékes tankerületi központ (a továbbiakban: tankerületi központ) által fenntartott, járásonként legalább egy tagintézményből álló pedagógiai szakszolgálati intézmény, amely a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 18. § (2) bekezdésében foglalt valamennyi szakszolgálati feladatra kiterjedően az állami köznevelési közszolgálati feladatellátás keretében a pedagógiai szakszolgálatokat ellátja,
+4.[^9] Intézmény: vármegyénként és a fővárosban egy, a székhelyintézménye szerint illetékes tankerületi központ (a továbbiakban: tankerületi központ) által fenntartott, járásonként legalább egy tagintézményből álló pedagógiai szakszolgálati intézmény, amely a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 18. § (2) bekezdésében foglalt valamennyi szakszolgálati feladatra kiterjedően az állami köznevelési közszolgálati feladatellátás keretében a pedagógiai szakszolgálatokat ellátja,
 
 5. járás: a járás és a fővárosi kerület,
 
-6. járási tagintézmény: olyan, járásonként szervezett feladatellátási hely, amely a megyében, a fővárosban, valamennyi járásban, az adott járásra kiterjedő működési körzettel – az e rendeletben foglalt kivételekkel – az Nkt. 18. § (2) bekezdésében felsorolt összes pedagógiai szakszolgálati feladatot és az e rendeletben, valamint a pedagógiai szakszolgálati intézmény szervezeti és működési szabályzatában meghatározottak szerint a tagintézmény szintjén irányítási, képviseleti, szakmai feladatot lát el,
+6.[^10] járási tagintézmény: olyan, járásonként szervezett feladatellátási hely, amely a vármegyében, a fővárosban, valamennyi járásban, az adott járásra kiterjedő működési körzettel – az e rendeletben foglalt kivételekkel – az Nkt. 18. § (2) bekezdésében felsorolt összes pedagógiai szakszolgálati feladatot és az e rendeletben, valamint a pedagógiai szakszolgálati intézmény szervezeti és működési szabályzatában meghatározottak szerint a tagintézmény szintjén irányítási, képviseleti, szakmai feladatot lát el,
 
 7. klinikai szakvizsga:
 
@@ -52,9 +52,9 @@ f) a gyermek- és ifjúsági klinikai és mentálhigiéniai szakpszichológia [a
 
 szakvizsga,
 
-8.[^9] konduktor szakképzettség:
+8.[^11] konduktor szakképzettség:
 
-a)[^10] főiskolai szintű, alapfokozatú konduktor szakképzettség:
+a)[^12] főiskolai szintű, alapfokozatú konduktor szakképzettség:
 
 aa) a konduktor,
 
@@ -68,15 +68,15 @@ ae) a konduktor (tanító)
 
 szakképzettség,
 
-b)[^11] egyetemi szintű, mesterfokozatú konduktor szakképzettség:
+b)[^13] egyetemi szintű, mesterfokozatú konduktor szakképzettség:
 
 ba) a speciális pedagógiai szakos tanár és szakpedagógus szakképzettség és konduktor, konduktor-óvodapedagógus vagy konduktor-tanító szakképzettség együttes megléte és
 
 bb) az okleveles konduktortanár szakképzettség.
 
-9. megyei, fővárosi tagintézmény: olyan feladatellátási hely, amely a megyében, a fővárosban egyes pedagógiai szakszolgálati feladatokat több járásra kiterjedő működési körzettel lát el,
+9.[^14] vármegyei, fővárosi tagintézmény: olyan feladatellátási hely, amely a vármegyében, a fővárosban egyes pedagógiai szakszolgálati feladatokat több járásra kiterjedő működési körzettel lát el,
 
-10.[^12]
+10.[^15]
 
 11. óvoda- és iskola szakvizsga:
 
@@ -86,13 +86,13 @@ b) óvoda- és iskola-szakpszichológia
 
 szakvizsga,
 
-12.[^13] szakosított tagintézmény: olyan tagintézmény, amely a székhelyintézmény vagy más tagintézmény egyes feladatait látja el,
+12.[^16] szakosított tagintézmény: olyan tagintézmény, amely a székhelyintézmény vagy más tagintézmény egyes feladatait látja el,
 
-13. székhelyintézmény: az Intézmény szakmai irányítást és koordinálást végző, valamint megyei, fővárosi működési körzettel szakértői bizottsági feladatokat is ellátó feladatellátási helye, ahol az Intézmény képviseleti jogának gyakorlására jogosult vezető munkahelye található,
+13.[^17] székhelyintézmény: az Intézmény szakmai irányítást és koordinálást végző, valamint vármegyei, fővárosi működési körzettel szakértői bizottsági feladatokat is ellátó feladatellátási helye, ahol az Intézmény képviseleti jogának gyakorlására jogosult vezető munkahelye található,
 
 14. tagintézmény: az Nkt. 4. § 28. pontja szerinti intézményegység,
 
-15.[^14] neuropszichológiai szakvizsga:
+15.[^18] neuropszichológiai szakvizsga:
 
 a) neuropszichológia,
 
@@ -108,9 +108,13 @@ szakvizsga.
 [^6]: Az 1. § 3. pont b) pont bb) alpontja a 37/2021. (VIII. 31.) EMMI rendelet 30. §-ával megállapított szöveg.
 [^7]: Az 1. § 3. pont b) pont bc) alpontja a 37/2021. (VIII. 31.) EMMI rendelet 30. §-ával megállapított szöveg.
 [^8]: Az 1. § 3. pont b) pont bd) alpontját a 37/2021. (VIII. 31.) EMMI rendelet 30. §-a iktatta be.
-[^9]: Az 1. § 8. pont nyitó szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^10]: Az 1. § 8. pont a) alpont nyitó és záró szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^11]: Az 1. § 8. pont b) alpontja a 14/2020. (IV. 16.) EMMI rendelet 3. §-ával megállapított szöveg.
-[^12]: Az 1. § 10. pontját a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^13]: Az 1. § 12. pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^14]: Az 1. § 15. pontját a 24/2017. (X. 3.) EMMI rendelet 24. §-a iktatta be.
+[^9]: Az 1. § 4. pontja a 45/2022. (XII. 20.) BM rendelet 71. § a) pontja szerint módosított szöveg.
+[^10]: Az 1. § 6. pontja a 45/2022. (XII. 20.) BM rendelet 71. § b) pontja szerint módosított szöveg.
+[^11]: Az 1. § 8. pont nyitó szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^12]: Az 1. § 8. pont a) alpont nyitó és záró szövegrésze a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^13]: Az 1. § 8. pont b) alpontja a 14/2020. (IV. 16.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^14]: Az 1. § 9. pontja a 45/2022. (XII. 20.) BM rendelet 71. § b) és c) pontja szerint módosított szöveg.
+[^15]: Az 1. § 10. pontját a 14/2020. (IV. 16.) EMMI rendelet 12. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^16]: Az 1. § 12. pontja a 14/2020. (IV. 16.) EMMI rendelet 11. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^17]: Az 1. § 13. pontja a 45/2022. (XII. 20.) BM rendelet 71. § c) pontja szerint módosított szöveg.
+[^18]: Az 1. § 15. pontját a 24/2017. (X. 3.) EMMI rendelet 24. §-a iktatta be.

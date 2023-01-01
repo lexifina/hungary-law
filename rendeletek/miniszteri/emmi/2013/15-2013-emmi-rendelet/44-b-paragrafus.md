@@ -1,13 +1,13 @@
-44/B. §[^183] (1)[^184] A 7. melléklet alapján az Intézményben foglalkoztatottak megyei bontásban meghatározott minimális létszámát a járások közti bontásban a járások sajátosságainak figyelembevételével kell meghatározni azzal, hogy valamennyi járási tagintézménynek – a (2) bekezdésben foglalt kivétellel – teljes körűen el kell látnia az e rendeletben a járási tagintézményre meghatározott szakszolgálati feladatokat.
+44/B. §[^192] (1)[^193] A 7. melléklet alapján az Intézményben foglalkoztatottak vármegyei bontásban meghatározott minimális létszámát a járások közti bontásban a járások sajátosságainak figyelembevételével kell meghatározni azzal, hogy valamennyi járási tagintézménynek – a (2) bekezdésben foglalt kivétellel – teljes körűen el kell látnia az e rendeletben a járási tagintézményre meghatározott szakszolgálati feladatokat.
 
-(2)[^185] Mentesül a járási tagintézmény egyes szakszolgálati feladatok ellátása alól, ha az adott szakszolgálati feladatot ugyanabban a járásban más, szakosított tagintézmény vagy más, szakosított tagintézmény tagintézményi telephelye teljes körűen ellátja.
+(2)[^194] Mentesül a járási tagintézmény egyes szakszolgálati feladatok ellátása alól, ha az adott szakszolgálati feladatot ugyanabban a járásban más, szakosított tagintézmény vagy más, szakosított tagintézmény tagintézményi telephelye teljes körűen ellátja.
 
-(3)[^186] Mentesül a székhelyintézmény a továbbtanulási, pályaválasztási tanácsadás szakszolgálati feladat ellátása alól, ha azt más, szakosított tagintézmény a megye egésze vonatkozásában teljeskörűen ellátja.
+(3)[^195] Mentesül a székhelyintézmény a továbbtanulási, pályaválasztási tanácsadás szakszolgálati feladat ellátása alól, ha azt más, szakosított tagintézmény a vármegye egésze vonatkozásában teljeskörűen ellátja.
 
-(4)[^187] A székhelyintézmény szakértői bizottsági feladatait a racionálisabb feladatellátás érdekében szakosított tagintézmény a megye egy része vagy a feladat egy része vonatkozásában elláthatja.
+(4)[^196] A székhelyintézmény szakértői bizottsági feladatait a racionálisabb feladatellátás érdekében szakosított tagintézmény a vármegye egy része vagy a feladat egy része vonatkozásában elláthatja.
 
-[^183]: A 44/B. §-t a 8/2014. (I. 30.) EMMI rendelet 24. §-a iktatta be.
-[^184]: A 44/B. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 25. pont a) alpontja szerint módosított szöveg.
-[^185]: A 44/B. § (2) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 25. pont b) alpontja szerint módosított szöveg.
-[^186]: A 44/B. § (3) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 8. §-ával megállapított szöveg.
-[^187]: A 44/B. § (4) bekezdését a 14/2020. (IV. 16.) EMMI rendelet 8. §-a iktatta be.
+[^192]: A 44/B. §-t a 8/2014. (I. 30.) EMMI rendelet 24. §-a iktatta be.
+[^193]: A 44/B. § (1) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 25. pont a) alpontja, a 45/2022. (XII. 20.) BM rendelet 71. § c) pontja szerint módosított szöveg.
+[^194]: A 44/B. § (2) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 25. pont b) alpontja szerint módosított szöveg.
+[^195]: A 44/B. § (3) bekezdése a 14/2020. (IV. 16.) EMMI rendelet 8. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 71. § e) pontja szerint módosított szöveg.
+[^196]: A 44/B. § (4) bekezdését a 14/2020. (IV. 16.) EMMI rendelet 8. §-a iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 71. § e) pontja szerint módosított szöveg.
