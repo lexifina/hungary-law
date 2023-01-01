@@ -1,16 +1,10 @@
 ## 1. támogatja, hogy a Nemzeti Sportügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Társaság) a Magyar Úszó Szövetség közreműködésével megrendezze a 2024. évi FINA Rövidpályás Úszó Világbajnokságot (a továbbiakban: Világbajnokság), és egyetért azzal, hogy a rendezési jogdíj központi költségvetési forrásból kerüljön megfizetésre;
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, az 1. pont szerinti cél érdekében 92 800 000 forint egyszeri átcsoportosítását rendeli el a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 39. Kültéri sportparkok fejlesztése jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport javára, az 1. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
+## 2.[^1]
 
 ## 3. egyetért azzal, hogy az emberi erőforrások minisztere gondoskodjon a Világbajnokság megrendezéséhez a 2020. évben szükséges legfeljebb 330 000 USD-nek megfelelő forintösszegű rendezési jogdíj fedezetéül szolgáló költségvetési forrás rendelkezésre állásáról a 2020. évi központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoporton;
 
-## 4.[^1] felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – a Világbajnokság megrendezése érdekében gondoskodjon
+## 4.[^2] felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – a Világbajnokság megrendezése érdekében gondoskodjon
 
 ## a) a 2021. évben szükséges legfeljebb 330 000 USD-nek megfelelő forintösszegű rendezési jogdíj fedezetéül szolgáló központi költségvetési forrás biztosításáról a 2021. évi központi költségvetés XI. Miniszterelnökség fejezetében,
 
@@ -26,7 +20,7 @@
 
 ## Határidő: a 2021–2024. években az adott évi központi költségvetés tervezése során
 
-## 5.[^2] felhívja
+## 5.[^3] felhívja
 
 ## a) az emberi erőforrások miniszterét, hogy gondoskodjon a 2. és a 3. pontban,
 
@@ -46,9 +40,9 @@
 
 ## Határidő: a Világbajnokság szervezésével és lebonyolításával egyidejűleg, folyamatosan
 
-## 7.[^3] egyetért azzal, hogy a rendezvényszervezési szerződés módosításának előkészítésével és megkötésével kapcsolatos kormányzati feladatokat a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos és a Miniszterelnökséget vezető miniszter lássa el;
+## 7.[^4] egyetért azzal, hogy a rendezvényszervezési szerződés módosításának előkészítésével és megkötésével kapcsolatos kormányzati feladatokat a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos és a Miniszterelnökséget vezető miniszter lássa el;
 
-## 8.[^4] felhívja a Miniszterelnökséget vezető minisztert, hogy – a miniszterelnök kabinetfőnöke bevonásával – vizsgálja meg a Világbajnoksággal kapcsolatos kormányzati kommunikációs és rendezvényszervezési feladatok Nemzeti Kommunikációs Hivatal közreműködésével történő megvalósításának lehetőségét;
+## 8.[^5] felhívja a Miniszterelnökséget vezető minisztert, hogy – a miniszterelnök kabinetfőnöke bevonásával – vizsgálja meg a Világbajnoksággal kapcsolatos kormányzati kommunikációs és rendezvényszervezési feladatok Nemzeti Kommunikációs Hivatal közreműködésével történő megvalósításának lehetőségét;
 
 ## Felelős: Miniszterelnökséget vezető miniszter
 
@@ -56,82 +50,14 @@
 
 ## Határidő: a Világbajnokság szervezésével és lebonyolításával egyidejűleg, folyamatosan
 
-## 9.[^5]
+## 9.[^6]
 
-1. melléklet az 1328/2019. (VI. 5.) Korm. határozathoz
+1. melléklet az 1328/2019. (VI. 5.) Korm. határozathoz[^7]
 
-| XX. Emberi Erőforrások Minisztériuma |
-
-| ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA |
-
-| Költségvetési év: 2019. |
-
-| forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 23 |  |  |  |  |  | Sporttevékenység támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 025155 |  |  |  | 4 |  |  |  |  |  | Versenysport támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 92 800 000 |  |  |  |
-
-|  |  |  | 24 |  |  |  |  |  | Sportlétesítmények fejlesztése és kezelése |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 357373 |  |  |  | 39 |  |  |  |  |  | Kültéri sportparkok fejlesztése |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -92 800 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |
-
-| forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |
-
-| forintban |
-
-| Államháztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 23 |  |  |  |  |  | Sporttevékenység támogatása |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 025155 |  |  |  | 4 |  |  |  |  |  | Versenysport támogatása |  |  |  |  |  |  |  |  | 92 800 000 |  |  |  |
-
-|  |  |  | 24 |  |  |  |  |  | Sportlétesítmények fejlesztése és kezelése |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 357373 |  |  |  | 39 |  |  |  |  |  | Kültéri sportparkok fejlesztése |  |  |  |  |  |  |  |  | -92 800 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Magyar Államkincstár 1 példány |  | időarányos |  |  |  |  |  |  |  |
-
-| teljesítésarányos |  |  |  |  |  |  |  |
-
-| egyéb: |  | azonnal | 92 800 000 |  |  | 92 800 000 |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
-
-[^1]: A 4. pont az 1169/2021. (IV. 9.) Korm. határozat 4. pontjával megállapított szöveg.
-[^2]: Az 5. pont az 1169/2021. (IV. 9.) Korm. határozat 4. pontjával megállapított szöveg.
-[^3]: A 7. pont az 1169/2021. (IV. 9.) Korm. határozat 5. pontjával megállapított szöveg.
-[^4]: A 8. pont az 1169/2021. (IV. 9.) Korm. határozat 5. pontjával megállapított szöveg.
-[^5]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 4. pont az 1169/2021. (IV. 9.) Korm. határozat 4. pontjával megállapított szöveg.
+[^3]: Az 5. pont az 1169/2021. (IV. 9.) Korm. határozat 4. pontjával megállapított szöveg.
+[^4]: A 7. pont az 1169/2021. (IV. 9.) Korm. határozat 5. pontjával megállapított szöveg.
+[^5]: A 8. pont az 1169/2021. (IV. 9.) Korm. határozat 5. pontjával megállapított szöveg.
+[^6]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
