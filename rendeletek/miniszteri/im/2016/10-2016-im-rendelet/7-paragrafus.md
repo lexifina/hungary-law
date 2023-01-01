@@ -1,6 +1,6 @@
 ## 6. § A választási iroda a hitelesítési záradékkal ellátott aláírásgyűjtő ívet személyesen átadja vagy postai úton megküldi a kezdeményezőnek.
 
-7. § (1) A helyi – megyei szintű népszavazás esetén a területi – választási iroda tájékoztatja a Nemzeti Választási Irodát
+7. § (1)[^1] A helyi – vármegyei szintű népszavazás esetén a területi – választási iroda tájékoztatja a Nemzeti Választási Irodát
 
 a) az aláírásgyűjtő ív mintapéldányának benyújtásáról, és az azon szereplő kérdésről,
 
@@ -17,3 +17,5 @@ f) a képviselő-testületnek a helyi népszavazás elrendelésével kapcsolatos
 g) a helyi népszavazás kitűzéséről szóló határozatról.
 
 (2) A Nemzeti Választási Iroda az (1) bekezdés g) pontja szerinti tájékoztatás alapján a választások hivatalos honlapján nyilvánosságra hozza a helyi népszavazás időpontját és a helyi népszavazásra feltett kérdést.
+
+[^1]: A 7. § (1) bekezdés nyitó szövegrésze a 42/2022. (XII. 28.) IM rendelet 6. §-a szerint módosított szöveg.

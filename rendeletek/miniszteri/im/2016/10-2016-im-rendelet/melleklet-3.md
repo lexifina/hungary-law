@@ -1,4 +1,4 @@
-## Országos népszavazás aláírásgyűjtő íve személyi azonosítóval nem rendelkező választópolgárok számára
+## 9K03710_0
 
 | ■ | ALÁÍRÁSGYŰJTŐ ÍV | ■ | sorszám: |
 
@@ -37,6 +37,8 @@
 | 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | év: |  |  |  |  | hónap: |  |  | nap: |  |  |  |  |
 
 ## Egy választópolgár egy kezdeményezést csak egy aláírással támogathat!
+
+## 9K03710_1
 
 | Az aláírásgyűjtő ívet azonosító kód helye |  | az aláírást gyűjtő polgár neve | személyi azonosítója / szig. / útlevél / vezetői engedély száma | aláírása |
 
