@@ -4,11 +4,7 @@ A Kormány a kiemelt budapesti közösségi fejlesztések keretében a Budapest 
 
 2.[^1] a Beruházás megvalósításához a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 7 821 364 637 forintban határozza meg;
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: 2020. évi Kvtv.) 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezetnek az 1. Egyedi magasépítési beruházások címmel és azon belül az 1. Nemzeti Atlétikai Központ megvalósítása alcímmel történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: 2020. január 10.
+3.[^2]
 
 4. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 2. pont szerinti összeg rendelkezésre állásáról a 2020. évi Kvtv. 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások cím, 1. Nemzeti Atlétikai Központ megvalósítása alcím javára;
 
@@ -27,3 +23,4 @@ pénzügyminiszter
 Határidő: a 2020. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
 [^1]: A 2. pont az 1642/2020. (X. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
