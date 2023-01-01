@@ -4,7 +4,7 @@
 
 (2) Felhatalmazást kap a Kormány, hogy
 
-a) a munkavédelmi hatóságot vagy hatóságokat, továbbá a honvédelmi szervezet, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő szakképző intézmény, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében vagy más jogviszony alapján a honvédelmi szervezet használatában lévő ingatlanon honvédelmi érdeket szolgáló, szervezett munkavégzést folytató szervezet a honvédelemért felelős miniszter hatósági jogkörébe tartozó, a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény alapján miniszteri rendeletben kijelölt gazdasági társaság, továbbá a rendvédelmi szervek, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket kijelölje, valamint azok sajátos feladatait és a hatósági eljárás eltérő szabályait rendeletben határozza meg;
+a) a munkavédelmi hatóságot vagy hatóságokat, továbbá a honvédelmi szervezet, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő szakképző intézmény, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében vagy más jogviszony alapján a honvédelmi szervezet használatában lévő ingatlanon honvédelmi érdeket szolgáló, szervezett munkavégzést folytató szervezet a honvédelemért felelős miniszter hatósági jogkörébe tartozó, a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény alapján miniszteri rendeletben kijelölt gazdasági társaság, továbbá a rendvédelmi szervek, az Országgyűlési Őrség, valamint az önkormányzati tűzoltóság tekintetében a munkavédelmi hatósági feladatokat ellátó szerveket kijelölje, valamint azok sajátos feladatait és a hatósági eljárás eltérő szabályait, valamint a munkavédelmi hatósági ellenőrzésre jogosító képzés és vizsga részletes szabályait rendeletben határozza meg;
 
 b) rendeletet alkosson a foglalkozás-egészségügyi szolgálatról;
 
@@ -34,7 +34,7 @@ aa)
 
 ab) a munkahelyi biztonsági és egészségvédelmi jelzések alkalmazásának;
 
-ac) a munkáltatók veszélyességi osztályba sorolásának és a munkavédelmi szakember foglalkoztatásának;
+ac) a munkáltatók veszélyességi osztályba sorolásának és a munkavédelmi szakmai képesítéssel rendelkező személy foglalkoztatásának;
 
 ad) a munkabalesetek bejelentésének, kivizsgálásának és nyilvántartásának;
 
@@ -145,6 +145,8 @@ k) a természetes személyeknek a személyes adatok kezelése tekintetében tör
 l) a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2017. december 12-i (EU) 2017/2398 európai parlamenti és tanácsi irányelv,
 
 m) a munkájuk során rákkeltő, illetve mutagén anyagokkal kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2019. január 16-i (EU) 2019/130 európai parlamenti és tanácsi irányelv.
+
+n) az Európai Unió Mezőgazdasági Szövetkezeteinek Általános Szövetsége (COGECA), az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) és az Európai Uniós Halászati Vállalkozások Nemzeti Szervezeteinek Szövetsége (Europêche) között 2012. május 21-én megkötött, a Nemzetközi Munkaügyi Szervezet 2007. évi, a halászati ágazat munkafeltételeiről szóló egyezményének végrehajtásáról szóló megállapodás végrehajtásáról szóló, 2016. december 19-i (EU) 2017/159 tanácsi irányelv.
 
 (7)
 

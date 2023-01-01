@@ -19,3 +19,5 @@ c) a munkabalesetek, foglalkozási megbetegedések és fokozott expozíciós ese
 (5) A munkavédelmi hatóság jogosult az ellenőrzése során feltárt hiányosságok megszüntetése érdekében e törvényben és külön jogszabályban meghatározott intézkedés és felelősségre vonás alkalmazására.
 
 (6) Ha a kötelezett a munkavédelmi hatóság végleges döntésében foglalt kötelezésnek nem tett eleget, a meghatározott cselekmény végrehajtását a munkavédelmi hatóság foganatosítja.
+
+(7) Ha a kötelezett a munkavédelmi hatóság végleges döntésében foglalt kötelezése ellenére a munkabaleseti jegyzőkönyvet nem tölti ki, a munkavédelmi hatóság jogosult a hatósági ellenőrzés során feltárt adatok alapján a munkabaleseti jegyzőkönyvet kitölteni és a foglalkoztatáspolitikáért felelős miniszter rendeletében meghatározott érintetteknek megküldeni.

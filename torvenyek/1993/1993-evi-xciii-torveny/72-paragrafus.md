@@ -10,7 +10,7 @@
 
 a) működési területén a munkahelyekre munkaidőben beléphet, tájékozódhat az ott dolgozó munkavállalóktól;
 
-b) részt vehet a munkáltató azon döntései előkészítésében, amelyek hatással lehetnek a munkavállalók egészségére és biztonságára, ideértve a szakemberek előírt foglalkoztatására (8. §, 57–58. §-ok), a munkavédelmi oktatás (55. §) megtervezésére és megszervezésére, az új munkahelyek létesítésére vonatkozó döntéseket is;
+b) részt vehet a munkáltató azon döntései előkészítésében, amelyek hatással lehetnek a munkavállalók egészségére és biztonságára, ideértve a munkavédelmi szakmai képesítéssel rendelkező személyek előírt foglalkoztatására (8. §, 57–58. §-ok), a munkavédelmi oktatás (55. §) megtervezésére és megszervezésére, az új munkahelyek létesítésére vonatkozó döntéseket is;
 
 c) tájékoztatást kérhet a munkáltatótól minden kérdésben, amely érinti az egészséget nem veszélyeztető és biztonságos munkavégzést;
 

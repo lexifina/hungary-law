@@ -11,3 +11,5 @@ d) új technológia bevezetésekor
 elsajátítsa és a foglalkoztatás teljes időtartama alatt rendelkezzen az egészséget nem veszélyeztető és biztonságos munkavégzés elméleti és gyakorlati ismereteivel, megismerje a szükséges szabályokat, utasításokat és információkat. Az oktatást rendes munkaidőben kell megtartani, és szükség esetén időszakonként – a megváltozott vagy új kockázatokat, megelőzési intézkedéseket is figyelembe véve – meg kell ismételni. Az oktatás elvégzését a tematika megjelölésével és a résztvevők aláírásával ellátva írásban kell rögzíteni.
 
 (2) Az (1) bekezdésben előírt ismeretek megszerzéséig a munkavállaló önállóan nem foglalkoztatható.
+
+(3) Az oktatási tematika elkészítése munkabiztonsági és munkaegészségügyi szaktevékenység.

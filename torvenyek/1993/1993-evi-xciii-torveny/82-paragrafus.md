@@ -10,7 +10,7 @@ c) a 23. § (2) bekezdésében meghatározott soron kívüli ellenőrzés elmula
 
 d) az 54. § (2) bekezdésében meghatározott kockázatértékelés elmulasztása:
 
-da) a foglalkoztatáspolitikáért felelős miniszter rendelete szerinti legmagasabb veszélyességi osztályba tartozó munkáltató esetében, valamint
+da) a foglalkoztatáspolitikáért felelős miniszter rendelete szerinti I. veszélyességi osztályba tartozó munkáltató esetében, valamint
 
 db) az egyes veszélyforrások hatásának kitett munkavállalók védelméről szóló külön jogszabályokban előírt esetekben, amely megvalósul különösen a kockázatértékelés keretében szükséges expozícióbecslés/-mérés hiányában;
 

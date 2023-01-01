@@ -28,6 +28,8 @@ m) az ellenőrzés lefolytatásának akadályozása esetén a rendőrség igény
 
 n) munkahigiénés vizsgálatok elvégeztetését elrendelni.
 
+o) az ellenőrzés helyszínén található biztonsági berendezések által rögzített felvételek és a munkavégzés területére való be- és kilépést rögzítő berendezések adatainak megtekintésére, valamint azokról másolat készítésére.
+
 (2) A munkavédelmi hatóság – a közúti közlekedéssel kapcsolatos munkabalesetet kivéve – köteles a bejelentett súlyos munkabalesetet, valamint a foglalkozási megbetegedést – a munkáltató ez irányú felelősségét nem érintve – kivizsgálni.
 
 (3) A munkavédelmi hatóság – a munkavállaló egészségének és testi épségének megóvása, továbbá munkabaleset megelőzése céljából – az (1) bekezdés f), g) és j) pontjaiban foglalt határozatának azonnali végrehajtását rendelheti el.
@@ -45,3 +47,5 @@ n) munkahigiénés vizsgálatok elvégeztetését elrendelni.
 (9) Ha a munkáltató adatszolgáltatási kötelezettsége körében nem a felhívásnak megfelelően szolgáltat adatot, a munkavédelmi hatóság a rendelkezésre álló adatok alapján dönt.
 
 (10) A munkavédelmi hatósági eljárásban a kapcsolattartás formáját a hatóság választja meg.
+
+(11) Ha az eljárás érdemi lezárása más szerv előzetes elbírálásától függ, a munkavédelmi hatóság az elbírálásig az eljárást felfüggeszti.

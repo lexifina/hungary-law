@@ -58,6 +58,8 @@ A kockázatértékelés dokumentumát a munkáltató köteles a külön jogszab�
 
 (6) Az (1) bekezdés g) pontjában meghatározott megelőzési stratégia munkabiztonsági és munkaegészségügyi tartalmának kialakítása munkabiztonsági és munkaegészségügyi szaktevékenységnek minősül.
 
+(6a) A megelőzési stratégia a foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt 1–9 főt foglalkoztatók esetében a kockázatértékelés részét is képezheti.
+
 (7) Az egészséget nem veszélyeztető és biztonságos munkavégzés érdekében a munkáltató köteles
 
 a) a szükséges utasításokat és tájékoztatást a munkavégzést megelőzően a munkavállalónak megadni;

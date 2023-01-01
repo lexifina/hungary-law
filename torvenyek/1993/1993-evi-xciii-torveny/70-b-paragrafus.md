@@ -4,7 +4,7 @@
 
 (3) A testületbe a munkavállalók képviselőit (rendes és póttagot) a 70/A. § (1) bekezdése a) pontja szerint megválasztott munkavédelmi képviselők maguk közül titkos szavazás útján jelölik. A munkáltató kezdeményezi a testület létrehozását, biztosítja a szavazás lebonyolításának feltételeit.
 
-(4) A munkáltató köteles a testületbe döntésre jogosult vezető állású munkavállalót (Mt. 208. §), továbbá munkáltatói munkavédelmi feladatokat részben vagy egészben ellátó személyt (intézkedésre jogosult munkairányítót, illetve a munkáltatóval szervezett munkavégzésre irányuló jogviszonyban lévő munkavédelmi szakembert) kijelölni. A munkáltató számára rendszeres munkavédelmi szolgáltatást nyújtó szakemberek meghívottként vesznek részt a testület munkájában.
+(4) A munkáltató köteles a testületbe döntésre jogosult vezető állású munkavállalót (Mt. 208. §), továbbá munkáltatói munkavédelmi feladatokat részben vagy egészben ellátó személyt (intézkedésre jogosult munkairányítót, illetve a munkáltatóval szervezett munkavégzésre irányuló jogviszonyban lévő munkavédelmi szakmai képesítéssel rendelkező személyt) kijelölni. A munkáltató számára rendszeres munkavédelmi szolgáltatást nyújtó munkavédelmi szakmai képesítéssel rendelkező személyek meghívottként vesznek részt a testület munkájában.
 
 (5) A testület rendes és póttagjainak megbízatása öt évre szól.
 

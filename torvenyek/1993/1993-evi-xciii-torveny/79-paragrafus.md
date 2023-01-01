@@ -10,8 +10,8 @@ d) ajánlásokat alakít ki a munkavédelemre vonatkozó szabályokban rögzíte
 
 e) munkájáról a közvéleményt tájékoztatja;
 
-f) saját adataival, megállapításaival szükség szerint segíti a munkavédelmi információs rendszer működését.
+f) saját adataival, megállapításaival szükség szerint segíti a munkavédelmi tanácsadási tevékenységet.
 
-g) dönt a nevelés és az oktatás területén a biztonságos életvitelre, a szakmai oktatás területén az egészséget nem veszélyeztető és a biztonságos munkavégzés szabályaira vonatkozó ismeretanyag meghatározásával kapcsolatos kérdésekben.
+g) dönt a nevelés és az oktatás területén a biztonságos életvitelre, a szakmai oktatás és a szakmai képzés területén az egészséget nem veszélyeztető és a biztonságos munkavégzés szabályaira vonatkozó ismeretanyag meghatározásával kapcsolatos kérdésekben.
 
 (2) A Országos Munkavédelmi Bizottság működésével kapcsolatos titkársági, adminisztratív teendőket a munkavédelmi hatóság látja el.

@@ -14,7 +14,7 @@ e) a rákkeltők vagy mutagén anyagok használatát, a használat indoklásáva
 
 f) az expozíciót jelentő munkakörök megnevezését és a munkakörben dolgozók számát,
 
-g) a rákkeltővel exponált munkavállalók születési évét, TAJ számát, munkakörét,
+g) a rákkeltővel exponált munkavállalók születési évét, Társadalombiztosítási Azonosító Jelét (a továbbiakban: TAJ szám), munkakörét,
 
 h) a rákkeltővel vagy mutagénnel, és rákkeltőt vagy mutagént tartalmazó keverékekkel kapcsolatos adatokat,
 
