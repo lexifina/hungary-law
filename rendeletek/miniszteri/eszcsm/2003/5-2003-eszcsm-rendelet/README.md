@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-5-20-0M
 | 2015-05-03 | 2003-5-20-0M.12 | 24/2015. (IV. 30.) EMMI rendelet |
 | 2017-04-01 | 2003-5-20-0M.13 | 3/2013. (I. 7.) EMMI rendelet |
 | 2020-10-01 | 2003-5-20-0M.14 | 32/2020. (IX. 9.) EMMI rendelet |
+| 2023-01-01 | 2003-5-20-0M.15 | 5/2022. (XII. 28.) KIM rendelet |
