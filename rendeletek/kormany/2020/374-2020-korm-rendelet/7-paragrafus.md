@@ -19,3 +19,5 @@ a) a 24 órát meghaladó, de a 48 órát el nem érő kiesése legalább 10 000
 b) a 48 órát elérő vagy meghaladó, de a 72 órát el nem érő kiesése legalább 5000 felhasználót vagy
 
 c) a 72 órát elérő vagy maghaladó kiesése legalább 2000 felhasználót
+
+zár ki a földgázvételezés lehetőségéből.

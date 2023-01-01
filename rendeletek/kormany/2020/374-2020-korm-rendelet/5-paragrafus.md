@@ -14,6 +14,6 @@ b) a 48 órát elérő vagy meghaladó, de a 72 órát el nem érő kiesése leg
 
 c) a 72 órát elérő vagy meghaladó kiesése legalább 2000 felhasználót
 
-## zár ki a vételezésből.
+zár ki a vételezésből.
 
 (5) A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény végrehajtásáról szóló 65/2013. (III. 8.) Korm. rendeletben (a továbbiakban: Lrtv. Vhr.) meghatározott Black Start szolgáltatást (a továbbiakban: Black Start szolgáltatás) nyújtó szervezet vagy gazdasági szereplő tekintetében nemzeti létfontosságú rendszerelemként kell azonosítani azt a rendszerelemet, amely az átviteli rendszerirányító által kiadott, érvényes akkreditációval rendelkezik Black Start szolgáltatás nyújtására.

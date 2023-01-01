@@ -6,6 +6,8 @@ a) a villamosenergia-rendszer, valamint az együttműködő földgázrendszer te
 
 b) a kőolaj-feldolgozás és a kőolajtermék-tárolás kivételével a kőolajipar, továbbá a földgáztermelés tekintetében a bányafelügyelet,
 
-c) a kőolaj-feldolgozás és a kőolajtermék-tárolás tekintetében a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal,
+c)[^1] a kőolaj-feldolgozás és a kőolajtermék-tárolás tekintetében a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és vármegyei kormányhivatal,
 
 d) a távhő alágazat tekintetében a Hivatal.
+
+[^1]: A 3. § c) pontja a 616/2022. (XII. 29.) Korm. rendelet 305. §-a szerint módosított szöveg.

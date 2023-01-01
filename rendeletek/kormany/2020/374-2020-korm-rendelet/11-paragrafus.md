@@ -12,6 +12,6 @@ cb) legalább 5000 felhasználót érintő földgázelosztás esetén 48 órát 
 
 cc) legalább 2000 felhasználót érintő földgázelosztás esetén legalább 72 órán keresztül
 
-## zár ki a vételezésből, vagy
+zár ki a vételezésből, vagy
 
 d) a földgáztárolásban a földgáztároló tartós kiesése – ide nem értve a tervszerű leállást –, amely meghaladja a 72 órát.

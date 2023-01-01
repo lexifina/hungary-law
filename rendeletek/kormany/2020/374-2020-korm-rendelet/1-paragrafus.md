@@ -9,3 +9,5 @@ b) a kőolaj és cseppfolyós szénhidrogén termék szállítóvezeték és tá
 c) a földgázellátásról szóló törvény szerinti rendszerüzemeltető, a célvezeték üzemeltetője, valamint a normál légköri nyomáson és szobahőmérsékleten gáz halmazállapotú szénhidrogén bányászatához szükséges létesítmény üzemeltetője,
 
 d) a távhőrendszer létesítményeire a távhőszolgáltatásról szóló törvény szerinti engedélyese
+
+folytatja le.

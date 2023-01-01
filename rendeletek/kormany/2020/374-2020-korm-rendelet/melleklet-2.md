@@ -1,5 +1,3 @@
-## A földgázrendszer egyes tevékenységeinek minimális kiesési ideje az európai létfontosságú rendszerelemként történő azonosításhoz
-
 |  | A | B |
 
 | 1. | Tevékenység | Minimális kiesési időtartam |
