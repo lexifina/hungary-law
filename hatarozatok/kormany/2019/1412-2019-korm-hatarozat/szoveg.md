@@ -28,13 +28,7 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: az Alapítvány bírósági nyilvántartásba vételét követően azonnal
 
-d) az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím 22. Egészségügyi ágazati előirányzatok alcímének a 33. Közép- és Kelet-európai Onkológiai Akadémia Alapítvány jogcímcsoporttal történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-emberi erőforrások minisztere
-
-Határidő: azonnal
+d)[^3]
 
 e) felhívja a pénzügyminisztert, hogy gondoskodjon a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 22. Egészségügyi ágazati előirányzatok alcím, 33. Közép- és Kelet-európai Onkológiai Akadémia Alapítvány jogcímcsoporton 500 000 000 forint forrás rendelkezésre állásáról.
 
@@ -44,3 +38,4 @@ Határidő: a d) pont szerinti címrendi kiegészítést követően azonnal
 
 [^1]: Az 1. pont b) alpontja az 1565/2022. (XI. 24.) Korm. határozat 3. pontjával megállapított szöveg.
 [^2]: Az 1. pont d) alpontja az 1565/2022. (XI. 24.) Korm. határozat - a Magyar Közlöny 2022. évi 194. számában megjelent helyesbítésnek megfelelő - 4. pontjával megállapított szöveg.
+[^3]: A 2. pont d) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
