@@ -22,7 +22,11 @@ e) erdővédelmi bírságot szab ki,
 
 f) faanyag kereskedelmi lánccal kapcsolatos tevékenységhez használt szállítójármű használatának tiltására vagy korlátozására vonatkozó döntés alapján az erdészeti hatóság kezdeményezi a jármű forgalomból történő ideiglenes kivonását a közlekedési igazgatási hatóságnál.
 
-g)–i)
+g)
+
+h)
+
+i)
 
 j) határidő tűzésével a feltárt hibák, hiányosságok megszüntetésére kötelezi a faanyag kereskedelmi lánc szereplőjét azzal, hogy a szereplő a hibák, hiányosságok megszüntetése érdekében tett intézkedéséről köteles értesíteni az erdészeti hatóságot.
 

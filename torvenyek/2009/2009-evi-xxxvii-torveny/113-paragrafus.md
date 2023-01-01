@@ -8,17 +8,29 @@
 
 (4) Az e törvény hatálybalépése előtt kiadott üzemtervek e törvény szerinti erdőtervnek minősülnek.
 
-(5)–(7)
+(5)
+
+(6)
+
+(7)
 
 (8) E törvény hatálybalépése előtt az erdő igénybevételére határidő megjelölése nélkül kiadott engedély, ha az igénybevételre a törvény hatálybalépésétől számított négy éven belül nem kerül sor, érvényét veszti.
 
 (9) E törvény hatálybalépése előtt erdő telepítésére határidő megjelölése nélkül kiadott engedély a törvény hatálybalépésétől számított öt évig érvényes.
 
-(10)–(12)
+(10)
+
+(11)
+
+(12)
 
 (13) Az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv alapján az erdészeti hatóság az erdőgazdálkodó kérelmére induló eljárásban állapítja meg az erdőtervet.
 
-(14)–(16)
+(14)
+
+(15)
+
+(16)
 
 (17) Ha az e törvény hatálybalépése előtt jóváhagyott körzeti erdőterv lejártáig az e törvény szerinti erdőterv nem kerül meghatározásra, akkor az új erdőterv véglegessé válásáig
 

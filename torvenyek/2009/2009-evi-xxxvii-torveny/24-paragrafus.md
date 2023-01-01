@@ -40,4 +40,8 @@ pb) honvédelmi: a Magyar Honvédség szervezeteinek a honvédelemről és a Mag
 
 pc) határrendészeti: a határrendészeti és nemzetbiztonsági feladatok ellátására kijelölt erdő.
 
-(3)–(5)
+(3)
+
+(4)
+
+(5)

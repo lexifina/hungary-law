@@ -12,19 +12,15 @@ a kincstári vagyon részét képezi.
 
 (3) Az (1) bekezdés hatálya alá nem tartozó, az állam 100%-os tulajdonában álló erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület a kincstári vagyon részét képezi és korlátozottan forgalomképes.
 
-(4) Az állam 100%-os tulajdonában álló, gazdasági elsődleges rendeltetésű,
-
-a)
-
-b) 5 hektárnál nagyobb, természetben összefüggő, átmeneti erdő, kultúrerdő és faültetvény természetességi állapotú erdő,
-
-állami tulajdonból történő kikerülésére kizárólag azonos vagy magasabb természetességi állapotú erdővel történő birtokösszevonási célú földcsere vagy csere útján, az optimális állami birtokszerkezet kialakítása céljából kerülhet sor.
+(4) Az állam 100%-os tulajdonában álló, gazdasági elsődleges rendeltetésű, 10 hektárnál nagyobb, természetben összefüggő, átmeneti erdő, kultúrerdő és faültetvény természetességi állapotú erdő állami tulajdonból történő kikerülésére kizárólag azonos vagy magasabb természetességi állapotú erdővel történő birtokösszevonási célú földcsere vagy csere útján, az optimális állami birtokszerkezet kialakítása céljából kerülhet sor.
 
 (5) Az állam 100%-os tulajdonában álló,
 
-a) gazdasági elsődleges rendeltetésű, 5 hektárnál nem nagyobb, természetben összefüggő erdő,
+a) gazdasági elsődleges rendeltetésű, 10 hektárnál nem nagyobb, természetben összefüggő átmeneti erdő, kultúrerdő és faültetvény természetességi állapotú erdő,
 
-b) erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület,
+b) gazdasági elsődleges rendeltetésű, 5 hektárnál nem nagyobb, természetben összefüggő természetes erdő, természetszerű erdő és származék erdő természetességi állapotú erdő,
+
+c) erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület
 
 állami tulajdonból történő kikerülésére optimális állami birtokszerkezet kialakítása céljából, csere vagy értékesítés útján kerülhet sor. Az erdő, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület ellenértékét erdő vagy erdőgazdálkodási tevékenységhez kapcsolódó földrészlet tulajdonjogának megszerzésére kell fordítani.
 
@@ -37,3 +33,5 @@ b) erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület,
 (9) Az osztatlan közös tulajdonú erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület állami tulajdonban lévő hányadának a használatára, hasznosítására, a Nemzeti Földalapba tartozó vagyonra vonatkozó általános szabályokat kell alkalmazni.
 
 (10) Az állam 100%-os tulajdonában álló erdőben az e törvény hatálybalépésekor már fennálló és ráépítéssel létesített épület vagy építmény önálló ingatlanként az erdőt vagyonkezelő 100%-os állami tulajdonú gazdasági társaság mint ráépítő tulajdonaként az ingatlan-nyilvántartásban feltüntethető. Az így feltüntetett ingatlant az Adattárból törölni kell.
+
+(11) Az (5) bekezdés rendelkezéseit nem kell alkalmazni az állam tulajdonában és a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság vagyonkezelésében lévő ingatlanoknak az egyes otthonteremtési feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény alapján az MR Közösségi Lakásalap Közhasznú Nonprofit Korlátolt Felelősségű Társaság részére ingyenesen történő tulajdonba adására.

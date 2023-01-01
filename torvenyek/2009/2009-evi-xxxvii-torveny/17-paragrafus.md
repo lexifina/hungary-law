@@ -4,6 +4,16 @@
 
 (2) Az e törvényben foglalt erdőgazdálkodói jogok és kötelezettségek – a haszonvételi joggyakorlás kivételével – az erdőgazdálkodót illetik, illetve terhelik.
 
-(3)–(4)
+(3)
 
-(5)–(9)
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
