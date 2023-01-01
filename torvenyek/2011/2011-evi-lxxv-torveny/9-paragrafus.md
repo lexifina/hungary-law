@@ -1,6 +1,6 @@
 9. § (1) A hitelező a fedezeti ingatlanok kényszerértékesítésre történt kijelöléséről a tárgynegyedév 15. napjáig a következő adatok közlésével tájékoztatja az MNB-t:
 
-a) a megyében, fővárosban a tárgynegyedév első napján meglévő összes fedezeti ingatlanának száma,
+a) a vármegyében, fővárosban a tárgynegyedév első napján meglévő összes fedezeti ingatlanának száma,
 
 b) a kényszerértékesítésre kijelölt fedezeti ingatlanok fekvése (település megnevezése), helyrajzi száma, lakáshitel-szerződésben meghatározott (ilyen szerződési feltétel hiányában a hitelfolyósításkori) forgalmi értéke és alapterülete ingatlanonkénti bontásban.
 
