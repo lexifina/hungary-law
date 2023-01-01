@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-220-20-
 | 2014-09-05 | 2011-220-20-22.4 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2019-07-01 | 2011-220-20-22.5 | 159/2019. (VI. 28.) Korm. rendelet |
 | 2022-01-01 | 2011-220-20-22.6 | 159/2019. (VI. 28.) Korm. rendelet |
+| 2023-01-01 | 2011-220-20-22.7 | 827/2021. (XII. 28.) Korm. rendelet |

@@ -1,1 +1,5 @@
 ## 1. § E rendelet hatálya a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: Nfatv.) 3. § (3) bekezdésében meghatározott állami tulajdonban álló vagy állami tulajdonba kerülő ingatlanokra (a továbbiakban: ingatlan) terjed ki.
+
+2. §[^1] Az ingatlanok felett az államot megillető tulajdonosi jogokat a Nemzeti Földügyi Központ (a továbbiakban: NFK) és a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) vagy – az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vagyontv.) 42/A. § (1) bekezdése szerinti kivezetésre szánt állami vagyon vonatkozásában – a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH) közösen, az Nfatv. és a Vagyontv., az államháztartásról szóló törvény és a nemzeti vagyonról szóló törvény, valamint a végrehajtásukra kiadott jogszabályok szerint gyakorolják (közös tulajdonosi joggyakorlás).
+
+[^1]: A 2. § a 827/2021. (XII. 28.) Korm. rendelet 16. §-ával megállapított, a 604/2022. (XII. 28.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
