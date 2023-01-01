@@ -2,7 +2,7 @@
 
 1. melléklet az 51/2014. (IV. 29.) VM rendelethez
 
-## Alapponthálózati pontok pótlása vagy áthelyezés során az állami átvételhez leadandó műszaki dokumentációk és munkarészek
+Alapponthálózati pontok pótlása vagy áthelyezés során az állami átvételhez leadandó műszaki dokumentációk és munkarészek
 
 1. Vízszintes alapponthálózati pont esetén:
 
