@@ -6,10 +6,10 @@ a) az e rendeletben meghatározottak szerint elvégzi az összeférhetetlenségi
 
 b) azonosítja a lehetséges összeférhetetlenségi helyzeteket, ennek keretében kockázatelemzést végez,
 
-c)[^14] gondoskodik a II. Fejezet szerinti intézményrendszer szereplőinek az összeférhetetlenségi helyzetek elkerülésével kapcsolatos tudatossága növeléséről,
+c)[^15] gondoskodik a II. Fejezet szerinti intézményrendszer szereplőinek az összeférhetetlenségi helyzetek elkerülésével kapcsolatos tudatossága növeléséről,
 
 d) tevékenységéről évente beszámol az Integritás Hatóság részére,
 
 e) együttműködik a büntetőeljárásban eljáró szervekkel.
 
-[^14]: A 14. § c) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 10. pontja szerint módosított szöveg.
+[^15]: A 14. § c) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 10. pontja szerint módosított szöveg.

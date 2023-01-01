@@ -28,7 +28,7 @@ bk) az egyenlő bánásmód és a megkülönböztetésmentesség előmozdítása
 
 bl) átláthatóság,
 
-bm)[^15] korrupció megelőzése, illetve leküzdése,
+bm)[^16] korrupció megelőzése, illetve leküzdése,
 
 c) a Monitoring Bizottság civil társadalmat képviselő tagjai nyílt, átlátható és megkülönböztetéstől mentes kiválasztási eljárás keretében, a szakértelemmel és érdemekkel kapcsolatos objektív kritériumok alapján kerülnek kiválasztásra.
 
@@ -42,4 +42,4 @@ b) a civil társadalmi szervezetek meghívásával lehetőséget biztosítson sz
 
 (4) A Monitoring Bizottság 15. § (2) bekezdés d) pontja szerinti ajánlásai megvalósításának nyomon követéséről a nemzeti hatóság a Monitoring Bizottság ülésein beszámol.
 
-[^15]: A 16. § (1) bekezdés b) pont bm) alpontja a 463/2022. (XI. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^16]: A 16. § (1) bekezdés b) pont bm) alpontja a 463/2022. (XI. 15.) Korm. rendelet 15. §-ával megállapított szöveg.

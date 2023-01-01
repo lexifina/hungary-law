@@ -1,5 +1,5 @@
-## 6. Az államháztartásért felelős miniszter
+## 6.[^8]
 
-7. §[^8] Az államháztartásért felelős miniszter feladata gondoskodni az audit hatósági feladatok ellátásáról, ideértve annak biztosítását, hogy az audit hatóság elegendő pénzügyi és személyi erőforrással rendelkezzen feladatai eredményes ellátásához. Az államháztartásért felelős miniszter biztosítja az audit hatóságnak a 13. § (2) bekezdésében meghatározott funkcionális és szakmai függetlenségét.
+7. §
 
-[^8]: A 7. § a 463/2022. (XI. 15.) Korm. rendelet 31. § 7. pontja szerint módosított szöveg.
+[^8]: A 6. alcímet (7. §-t) a 615/2022. (XII. 29.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
