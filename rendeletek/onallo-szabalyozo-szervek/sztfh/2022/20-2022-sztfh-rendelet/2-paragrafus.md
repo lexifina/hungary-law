@@ -37,3 +37,7 @@ c) a magyar állam tulajdonosi jogait gyakorló szerv bejelentése megfelel a jo
 (9) Építőipari nyers- és alapanyag előkutatása esetén a talaj felszínének megbontását eredményező előkutatási tevékenység is végezhető.
 
 (10) Az előkutatás során nyert földtani adatokat a bányafelügyelet részére meg kell küldeni, az előkutatás befejezését követő 60 napon belül.
+
+(11)[^1] A bejelentő az előkutatás bejelentését a bejelentés megtételét követő 30 napon belül visszavonhatja. A visszavonást a bányafelügyelet tudomásul veszi.
+
+[^1]: A 2. § (11) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 32. §-a iktatta be.

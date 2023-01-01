@@ -1,6 +1,6 @@
 ## 19. Tájrendezés
 
-40. § (1) A 29. § (1) bekezdése szerinti műszaki üzemi tervben a tájrendezési feladatokat a tájrendezési előtervben foglaltakkal és a bányatelek megállapítása tárgyában hozott határozat előírásaival összhangban kell megtervezni. Ha a tájrendezési előtervben foglalt koncepció részben vagy egészben bármely körülmény megváltozása következtében már nem valósítható meg, a bányavállalkozó köteles a tájrendezési előterv módosítását kérelmezni, amelyre a műszaki üzemi terv jóváhagyása keretében kerülhet sor.
+40. § (1)[^41] A 29. § (1) bekezdése szerinti műszaki üzemi tervben a tájrendezési feladatokat a tájrendezési előtervben foglaltakkal és a bányatelek megállapítása tárgyában hozott határozat előírásaival összhangban kell megtervezni. Ha a tájrendezési előtervben foglalt koncepció részben vagy egészben bármely körülmény megváltozása következtében már nem valósítható meg, a bányavállalkozó köteles a tájrendezési előterv módosítását kérelmezni, amelyre a 29. § (1) bekezdése vagy a bánya bezárására kidolgozott műszaki üzemi terv jóváhagyása keretében kerülhet sor.
 
 (2) A tájrendezési feladatok keretében – a Bt. 36. § (2) bekezdésében meghatározott eljárásban – határozni kell a felszín alatti vízkészletet érintő bányatavak fennmaradásának és hasznosításának feltételeiről.
 
@@ -59,3 +59,5 @@ mb) a műszakilag biztonságba nem helyezett kútról.
 (6) A Bt. 36. § (4) bekezdésében foglalt kockázatelemzés tartalmi követelményeit a 4. melléklet tartalmazza. A kockázatelemzés elvégzése nem mentesíti a bányavállalkozót, a tulajdonost vagy a vagyonkezelőt a jogszabályban előírt kötelezettségek, a káros környezeti és természeti hatások, továbbá a környezet és természet veszélyeztetésének megelőzésére és csökkentésére szolgáló műszaki, valamint a mélyfúrás környezetének megóvását biztosító műszaki-biztonsági intézkedés megtétele alól.
 
 (7) A használaton kívüli mélyfúrás tulajdonosának – a Magyar Állam és természetes személy tulajdonos kivételével – a Bt. 36. § (6) bekezdésében foglalt tájrendezési feladatok teljesítésének fedezetére céltartalékot kell képeznie.
+
+[^41]: A 40. § (1) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § p) pontja szerint módosított szöveg.

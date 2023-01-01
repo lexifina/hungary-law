@@ -26,6 +26,10 @@ figyelemmel.
 
 (5) Az (1) bekezdésben meghatározott biztosítékként hitelintézettel vagy biztosítóval e célra megkötött fedezeti megállapodás – garanciaszerződés, garanciavállaló nyilatkozat, biztosítási szerződés alapján kiállított, garanciát tartalmazó biztosítói kötelezvény, hitelintézet vagy biztosító szerződésben vállalt készfizető kezessége –, zálogjog, óvadék vagy a szénipari szerkezetátalakítási támogatás meghatározásának és kezelésének részletes szabályairól szóló kormányrendelet alapján megállapított támogatás szolgálhat.
 
+(5a)[^42] Zálogként olyan dolog vagy ingatlan ajánlható fel, amelynek értéke legalább a biztosíték összegének kétszeresét eléri.
+
+(5b)[^43] Ha a bányavállalkozó által felajánlott zálogtárgy értékét nem igazságügyi szakértő határozta meg, a bányafelügyelet igazságügyi szakértőt rendel ki a zálogtárgy értékének meghatározására.
+
 (6) A zálogjogszerződést vagy óvadéki szerződést a bányafelügyelettel kell megkötni. Zálogként – kivéve, ha a biztosítékul felajánlott ingatlan zálogjogosultja a bányafelügyelet – csak per-, teher- és igénymentes ingatlan vagy dolog szolgálhat. Óvadékként csak pénz szolgálhat, amelyet a bányavállalkozó a bányafelügyelet hatósági letéti számláján köteles elhelyezni.
 
 (7) A (6) bekezdés szerinti szerződés hatályát – a biztosítékadási kötelezettség fennállását – a szerződés jogalapját képező (1) bekezdés szerinti bányafelügyeleti határozat hatálya nem érinti.
@@ -35,3 +39,6 @@ figyelemmel.
 (9) Ha a bányavállalkozó a biztosítékot hitelintézettel vagy biztosítóval e célra megkötött fedezeti megállapodással nyújtja, és a fedezeti megállapodás lejárati idejét megelőző harminc nappal az újabb fedezeti megállapodást nem nyújtja be a bányafelügyeletnek, vagy más biztosítékot a bányafelügyelet nem fogad el, a bányafelügyelet a biztosíték összegét igénybe veszi (a biztosítéki összeget lehívja), egyben a bányászati tevékenység végzését megtiltja. Ha a bányafelügyelet a bányászati tevékenység végzését megtiltó határozat véglegessé válását követő kilencven napon belül a bányavállalkozó által adott biztosítékot elfogadja, a lehívott biztosítéki összeget a bányavállalkozónak visszautalja.
 
 (10) Föld alatti szénelgázosítással történő ásványi nyersanyag kitermelése esetén a biztosíték összege nem lehet kevesebb kétszázmillió forintnál.
+
+[^42]: A 41. § (5a) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 40. §-a iktatta be.
+[^43]: A 41. § (5b) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 40. §-a iktatta be.

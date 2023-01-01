@@ -28,7 +28,17 @@ c) a kutatási terület topográfiai térképét a kutató létesítmények felt
 
 d) a jóváhagyott kutatási műszaki üzemi terv végrehajtásáról, továbbá a kutatás műszaki üzemi tervét jóváhagyó határozatban vagy a koncessziós szerződésben előírt kötelezettségek teljesítéséről készített összefoglalót.
 
-(4) A kutatási zárójelentést a bányafelügyelet akkor fogadja el, ha azt földtani szakértő ellenjegyezte, továbbá a kutatási zárójelentés kielégíti a (2) bekezdésben foglaltakat és csatolták a (3) bekezdésben előírt mellékleteket.
+(3a)[^16] A kutatás során nyert, felhasznált, valamint a korábbi adatokból felhasznált adatokat egységes digitális és térinformatikai adatbázisba kell szervezni olyan részletességgel és formában, hogy azokból a következtetések utólagosan is reprodukálhatók legyenek.
+
+(4)[^17] A bányafelügyelet a kutatási zárójelentés elfogadása iránti kérelmet elutasítja, ha
+
+a) a kutatási zárójelentést földtani szakértő nem jegyezte ellen,
+
+b) a kutatási zárójelentés nem elégíti ki a (2) bekezdésben foglaltakat, és nem csatolták a (3) bekezdésben előírt mellékleteket,
+
+c) a bányavállalkozó a kutatási műszaki üzemi tervben jóváhagyott kutatási feladatokat nem vagy nem teljes mértékben hajtotta végre, és emiatt a megkutatott ásványi nyersanyag mennyiségi és minőségi jellemzői nem állapíthatóak meg a kutatási terület egésze tekintetében, vagy
+
+d) a bányafelügyelet a kutatási zárójelentést megalapozatlannak ítéli.
 
 (5) A kutatási zárójelentés elfogadásáról hozott határozat – az általános közigazgatási rendtartásról szóló törvényben előírtakon túl – tartalmazza
 
@@ -39,3 +49,6 @@ b) a kutatás során – az előírt vizsgálatok eredményei alapján – minő
 c) azon ásványi nyersanyagok megnevezését, besorolási kódját és vagyonszámítási adatait, amelyeket az állami ásványi nyersanyag és geotermikus energiavagyon nyilvántartásba – a jóváhagyást követő ásványvagyon mérleg készítése során – fel kell venni.
 
 (6) A Bt. 26/A. § (2) bekezdése szerinti előkutatási, archív adattári adatok és új elméleti földtani értelmezés eredményei alapján elkészített készletszámítási jelentés szakmai tartalmának meg kell felelnie a (2) és (3) bekezdésben meghatározott szakmai és mellékleti követelményeknek. A készletszámítási jelentést földtani szakértő ellenjegyzi.
+
+[^16]: A 11. § (3a) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 36. § (1) bekezdése iktatta be.
+[^17]: A 11. § (4) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 36. § (2) bekezdésével megállapított szöveg.

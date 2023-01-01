@@ -1,10 +1,12 @@
 ## 5. A kutatás engedélyezése
 
-5. § (1) A nyílt területre vonatkozó kutatási engedély iránti kérelem tartalmazza:
+5. § (1)[^9] A nyílt területre vonatkozó kutatási engedély iránti kérelem tartalmazza
 
-a) a kutatási terület közigazgatási megjelölését az érintett települések megnevezésével, az EOV rendszer szerinti koordinátákkal történő lehatárolását, a kutatás mélységi lehatárolását (a kutatási terület alap- és fedőlapját), szilárd ásványi nyersanyag esetében a kért kutatási területtel lefedett ingatlanok helyrajzi számát, és
+a) a kutatási terület közigazgatási megjelölését az érintett települések megnevezésével, az EOV rendszer szerinti koordinátákkal történő lehatárolását, a kutatás mélységi lehatárolását (a kutatási terület alap- és fedőlapját), szilárd ásványi nyersanyag esetében a kért kutatási területtel lefedett ingatlanok helyrajzi számát,
 
-b) a kutatni tervezett ásványi nyersanyag megnevezését.
+b) a kutatni tervezett ásványi nyersanyagnak az ásványi nyersanyagok és a geotermikus energia fajlagos értékének, valamint az értékszámítás módjának meghatározásáról szóló kormányrendelet 1. mellékletében meghatározott csoport szerinti megnevezését és
+
+c) a Bt. 22/A. § (4) és (5) bekezdése szerinti kérelem esetén a geológiai vagy termelési szempontok ismertetését.
 
 (2) A kérelmező a kérelemhez mellékeli a kutatási terület Egységes Országos Térképrendszerben készült, legfeljebb 1:100 000 méretarányú térképét. A térképen ábrázolni kell a kutatási terület határvonalát a határpontok számozásával.
 
@@ -17,3 +19,5 @@ b) a bányavállalkozónak 5 éven belül arra a területre, amelyet a bányavá
 c) a kérelmezett kutatási terület azon részére, amelyre vonatkozóan a jog megadása már megállapított bányászati jogot sértene.
 
 (4) A kutatási jogot engedélyező határozat – az általános közigazgatási rendtartásról szóló törvényben előírtakon túl – tartalmazza a kutatási területtel érintett ingatlanok helyrajzi számait, a kutatási terület sarokpontjainak koordinátáit, a kutatási terület alap- és fedőlapját, és azt, hogy mely ásványi nyersanyag kutatására biztosít jogot.
+
+[^9]: Az 5. § (1) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 33. §-ával megállapított szöveg.

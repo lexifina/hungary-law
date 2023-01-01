@@ -10,11 +10,15 @@ határozat véglegessé válásának napjától kell számítani.
 
 (2) Az üzemszerű kitermelés megkezdésére előírt határidő meghosszabbítása iránti kérelmet az (1) bekezdés a) és b) pontja szerinti határidő lejárta előtt kell a bányafelügyelethez benyújtani.
 
-(3) A kérelem tartalmazza
+(3)[^20] A kérelem tartalmazza
 
-a) a meghosszabbítás időtartamának megjelölését és
+a) a meghosszabbítás időtartamának megjelölését és indokát,
 
-b) az üzemszerű kitermelés megkezdése elmulasztásának indokát.
+b) az üzemszerű kitermelés megkezdése elmulasztásának indokát, ha ennek pénzügyi okai voltak, akkor a pénzügyi okok részletes bemutatását,
+
+c) az üzemszerű kitermelés megkezdése érdekében tett intézkedéseket vagy az intézkedések elmaradásának – a b) pont szerinti okon kívüli – okát és
+
+d) az üzemszerű kitermelés megkezdése érdekében megtenni tervezett intézkedéseket.
 
 (4) A bányafelügyelet a meghosszabbítás iránti kérelmet elutasítja, ha
 
@@ -23,6 +27,8 @@ a) a bányavállalkozónak koncessziós díj, bányajáradék, felügyeleti díj
 b) a bányavállalkozó a bányajáradék bevallására vonatkozó kötelezettségét bármely általa művelt kitermelőhely vonatkozásában határidőre nem teljesítette, vagy
 
 c) a bányavállalkozónak az üzemszerű kitermelés megkezdésének elmulasztása felróható.
+
+d)[^21] a (3) bekezdés d) pontja szerinti intézkedések nem alkalmasak az üzemszerű kitermelés megkezdésére.
 
 (5) A bányafelügyelet határozatában dönt a meghosszabbítás időtartamáról és a fizetendő térítés mértékéről.
 
@@ -41,3 +47,6 @@ b) ha a bányatelekben nyilvántartott kitermelhető ásványvagyon mennyisége 
 (10) A törtidőszakra vonatkozó térítés mértékét úgy kell kiszámítani, hogy a törtidőszakként figyelembe vehető napok számát osztani kell 365-tel, és az így kapott számot a (6) bekezdés szerint meghatározott térítés mértékével meg kell szorozni.
 
 (11) A megállapított térítési díjat a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet (a továbbiakban: Bt. Vhr.) 4. § (5) bekezdésében foglalt gyakorisággal és időpontoknak megfelelően kell megfizetni.
+
+[^20]: A 27. § (3) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^21]: A 27. § (4) bekezdés d) pontját a 40/2022. (XII. 19.) SZTFH rendelet 37. § (2) bekezdése iktatta be.

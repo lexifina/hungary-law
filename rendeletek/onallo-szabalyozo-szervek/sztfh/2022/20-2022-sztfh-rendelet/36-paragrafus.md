@@ -1,6 +1,6 @@
 ## 17. Biztonsági övezet és védőpillér
 
-36. § (1) A védőpillért a bányavállalkozó kérelmére, vagy hatóság kezdeményezésére az érdekeltek meghallgatásával a bányafelügyelet jelöli ki, törli, engedélyezi módosítását, részleges vagy teljes lefejtését.
+36. § (1)[^31] A védőpillért a bányavállalkozó kérelmére, vagy hatóság kezdeményezésére a bányafelügyelet jelöli ki, törli, engedélyezi módosítását, részleges vagy teljes lefejtését.
 
 (2) A kérelem tartalmazza
 
@@ -23,3 +23,5 @@ d) a védőpillér határvonalát és főbb metszeteit, valamint a védett léte
 (7) A Bt. 1. § (1) bekezdés n) pontja szerinti létesítmények, berendezések elhelyezése során figyelembe kell venni helyhez kötöttségük tényét, környezetüket, valamint biztonságos üzemeltethetőségüket.
 
 (8) A Bt. 42. §-ában szabályozott intézkedések keretében a bányászati célból mélyített fúrólyukak megszüntetése esetén a biztonsági övezet fenntartásáról és tartalmáról is rendelkezni kell.
+
+[^31]: A 36. § (1) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 43. § c) pontja szerint módosított szöveg.
