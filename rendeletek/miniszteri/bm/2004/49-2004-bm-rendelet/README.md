@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-49-20-0
 | 2021-01-01 | 2004-49-20-0A.13 | 42/2020. (XI. 26.) BM rendelet |
 | 2022-01-01 | 2004-49-20-0A.14 | 47/2021. (XII. 22.) BM rendelet |
 | 2022-08-17 | 2004-49-20-0A.15 | 27/2022. (VIII. 16.) BM rendelet |
+| 2023-01-01 | 2004-49-20-0A.16 | 47/2021. (XII. 22.) BM rendelet |

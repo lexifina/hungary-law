@@ -208,7 +208,7 @@
 
 3. számú melléklet a 49/2004. (VIII. 31.) BM rendelethez
 
-## Lőtérszabályzat
+Lőtérszabályzat
 
 1. A lőtéren kizárólag .................................. jellegű, .............. kaliberjelű és ............. kategóriájú lőfegyverrel, lőszerrel, illetve muzeális fegyverrel folytatható lövészet.
 

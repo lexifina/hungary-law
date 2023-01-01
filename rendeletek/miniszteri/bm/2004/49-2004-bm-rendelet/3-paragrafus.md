@@ -1,5 +1,3 @@
-## 2. §[^7]
-
 3. § (1)[^8]
 
 (2) A lőtérszabályzatnak a 3. számú mellékletben foglaltakat kell tartalmaznia.
@@ -18,7 +16,6 @@ c) a természeti és az épített környezetet.
 
 (5)[^11] Az üzemeltetési engedély visszavonásig hatályos.
 
-[^7]: A 2. §-t a 44/2017. (XII. 29.) BM rendelet 16. § (2) bekezdés b) pontja hatályon kívül helyezte.
 [^8]: A 3. § (1) bekezdését a 44/2017. (XII. 29.) BM rendelet 16. § (2) bekezdés c) pontja hatályon kívül helyezte.
 [^9]: A 3. § (2a) bekezdését a 27/2022. (VIII. 16.) BM rendelet 1. §-a iktatta be.
 [^10]: A 3. § (4) bekezdése a 27/2022. (VIII. 16.) BM rendelet 6. § a) pontja szerint módosított szöveg.

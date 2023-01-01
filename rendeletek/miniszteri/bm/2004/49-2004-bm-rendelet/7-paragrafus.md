@@ -4,7 +4,7 @@ a) személy, vagy
 
 b) szervezet tagja, alkalmazottja
 
-## vehet részt.
+vehet részt.
 
 (2)[^23] A lőfegyver megszerzéséhez szükséges tanfolyam, illetve a lőgyakorlatot is magában foglaló szakképzés vagy a Kr. 37. § (5a) bekezdésében meghatározott védelmi jellegű képzés keretében tartott lövészet (a továbbiakban együtt: gyakorlólövészet) során kizárólag
 
@@ -12,7 +12,7 @@ a) az üzemeltetési engedéllyel rendelkező által tartott lőfegyver vagy
 
 b) – a Kr. 37. § (5a) bekezdése szerinti esetben – a rendvédelmi szervnél vagy a Magyar Honvédségnél rendszeresített, illetve az azzal azonos típusú lőfegyver, lőszer
 
-## használható.
+használható.
 
 (3) A lőfegyver forgalmazására engedéllyel rendelkező személy jogosult lövészeten a készletében lévő lőfegyverrel próbalövést leadni, a lőfegyvert belőni.
 
