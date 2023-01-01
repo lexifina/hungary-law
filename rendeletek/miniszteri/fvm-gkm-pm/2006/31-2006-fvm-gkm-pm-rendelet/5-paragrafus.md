@@ -1,3 +1,3 @@
-## 4. §[^2]
+5. §[^3]
 
-[^2]: A 4. §-t a 85/2007. (VIII. 10.) FVM rendelet 6. § (1) bekezdése hatályon kívül helyezte.
+[^3]: Az 5. §-t és az azt megelőző alcímet a 85/2007. (VIII. 10.) FVM rendelet 6. § (1) bekezdése hatályon kívül helyezte.
