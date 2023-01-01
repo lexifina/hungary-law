@@ -24,6 +24,7 @@ b) személygépkocsi-várakozóhelyet nem kell biztosítani,
 
 c) autóbusz-várakozóhelyet nem kell biztosítani.
 
-(4) A 2. mellékletben foglalt táblázat 95. sora szerinti beruházás esetében a Kormány az 1. melléklet 22. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Pest Megyei Kormányhivatalt jelöli ki.
+(4)[^22] A 2. mellékletben foglalt táblázat 95. sora szerinti beruházás esetében a Kormány az 1. melléklet 22. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Pest Vármegyei Kormányhivatalt jelöli ki.
 
 [^21]: Az 5/F. §-t a 152/2022. (IV. 14.) Korm. rendelet 3. §-a iktatta be.
+[^22]: Az 5/F. § (4) bekezdése az 546/2022. (XII. 22.) Korm. rendelet 222. § a) pontja szerint módosított szöveg.
