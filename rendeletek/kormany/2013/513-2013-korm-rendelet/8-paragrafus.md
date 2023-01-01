@@ -1,12 +1,10 @@
-## 7. §[^14]
-
-8. § (1) Határozott idejű nevelőszülői foglalkoztatási jogviszony kivételesen létesíthető a nevelőszülő beleegyezésével,
+8. § (1)[^18] Határozott idejű nevelőszülői foglalkoztatási jogviszony kivételesen létesíthető a nevelőszülő beleegyezésével,
 
 a) helyettesítés céljából, ha a helyettesítendő nevelőszülőt előreláthatólag legalább egy hónap időtartamra helyettesíteni kell, továbbá
 
-b) egyéb méltányolható okból, így különösen akkor, amikor a 9. § (1) bekezdése szerint hozzátartozó látja el a nevelőszülői feladatokat,
+b)[^19] egyéb méltányolható okból, így különösen a 9. § (1) és (3) bekezdése szerinti esetekben,
 
-feltéve, hogy a gyermek érdekét nem sérti a határozott idejű nevelőszülői foglalkoztatási jogviszony létesítése.
+feltéve, hogy a gyermek, fiatal felnőtt érdekét nem sérti a határozott idejű nevelőszülői foglalkoztatási jogviszony létesítése.
 
 (2) Az érintett gyermek, fiatal felnőtt gondozási helye megváltoztatása szükségességének vizsgálatát kell kérni a gyámhivataltól, ha a nevelőszülő
 
@@ -16,4 +14,8 @@ b) helyettesítésére nem a saját háztartásában tizenöt napot meghaladóan
 
 c) helyettesítése a gyermek számára óvoda- vagy iskolaváltással jár.
 
-[^14]: A 7. §-t a 744/2021. (XII. 21.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
+(3)[^20] Ha a nevelőszülő a 9. § (3) bekezdés d) pontja szerinti határidőre nem szerzi meg a nevelőszülői képesítést, a működtető a Gyvt. 80/B. § (1) bekezdése alapján a nevelőszülő által nevelt gyermek gondozási helyének és fiatal felnőtt ellátási helyének megváltoztatását kéri a gyámhivataltól. A működtető az intézkedésével egyidejűleg annak tényéről értesíti a gyermek gyermekvédelmi gyámját.
+
+[^18]: A 8. § (1) bekezdés záró szövegrésze a 629/2022. (XII. 30.) Korm. rendelet 44. § d) pontja szerint módosított szöveg.
+[^19]: A 8. § (1) bekezdés b) pontja a 629/2022. (XII. 30.) Korm. rendelet 42. § (1) bekezdésével megállapított szöveg.
+[^20]: A 8. § (3) bekezdését a 629/2022. (XII. 30.) Korm. rendelet 42. § (2) bekezdése iktatta be.

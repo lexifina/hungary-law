@@ -4,8 +4,12 @@
 
 (2) Ha a gyermek a 26. §-ban meghatározott intézkedés alapján került ki a helyettes szülő háztartásából, a gondozás megszűnésének időpontjától a helyettes szülőt helyettes szülői díj nem illeti meg.
 
-(3) A helyettes szülőt arra az időtartamra illeti meg a nevelési díj és a külön ellátmány, amely alatt – a működtetővel kötött megállapodás alapján – a gyermek ideiglenes jellegű, teljes körű ellátását a saját háztartásában biztosítja.
+(3)[^52] A helyettes szülőt arra az időtartamra illeti meg a nevelési ellátmány, amely alatt – a működtetővel kötött megállapodás alapján – a gyermek ideiglenes jellegű, teljes körű ellátását a saját háztartásában biztosítja.
 
-(4) A működtető az adott gyermek után járó nevelési díjat és a külön ellátmányt első alkalommal – a 4. § (1) bekezdésében foglaltaktól eltérően – a gyermek tényleges gondozásának megkezdését követően haladéktalanul, de legkésőbb tizenöt napon belül folyósítja a helyettes szülőnek.
+(4)[^53] A működtető az adott gyermek után járó nevelési ellátmányt első alkalommal – a 4. § (1) bekezdésében foglaltaktól eltérően – a gyermek tényleges gondozásának megkezdését követően haladéktalanul, de legkésőbb tizenöt napon belül folyósítja a helyettes szülőnek.
 
-(5) Az egyéb feltételek fennállása esetén a nevelési díj és a külön ellátmány a helyettes szülőt arra a napra illeti meg utoljára, amikor a gyermek teljes napot a gondozásában töltött.
+(5)[^54] Az egyéb feltételek fennállása esetén a nevelési ellátmány a helyettes szülőt arra a napra illeti meg utoljára, amikor a gyermek teljes napot a gondozásában töltött.
+
+[^52]: A 27. § (3) bekezdése a 629/2022. (XII. 30.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
+[^53]: A 27. § (4) bekezdése a 629/2022. (XII. 30.) Korm. rendelet 44. § j) pontja szerint módosított szöveg.
+[^54]: A 27. § (5) bekezdése a 629/2022. (XII. 30.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.

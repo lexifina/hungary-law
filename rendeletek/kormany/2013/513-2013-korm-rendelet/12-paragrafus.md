@@ -10,7 +10,7 @@ ac) társadalombiztosítási azonosító jelét és
 
 ad) adóazonosító jelét,
 
-b)[^24] az ideiglenes hatályú elhelyezésről, a nevelésbe vételről, a gondozási hely meghatározásáról és az utógondozói ellátás elrendeléséről szóló hatósági döntés számát, keltét, véglegessé válásának tényét és időpontját, valamint a döntést hozó hatóság megnevezését,
+b)[^38] az ideiglenes hatályú elhelyezésről, a nevelésbe vételről, a gondozási hely meghatározásáról és az utógondozói ellátás elrendeléséről szóló hatósági döntés számát, keltét, véglegessé válásának tényét és időpontját, valamint a döntést hozó hatóság megnevezését,
 
 c) a gyermeknek járó teljes körű ellátás és a fiatal felnőttnek járó szükség szerinti ellátás biztosítására való felhívást, valamint az ellátás biztosításának kezdő időpontját a hatósági döntés alapján,
 
@@ -18,7 +18,7 @@ d) a gyermek ellátási szükségletének megjelölését,
 
 e) a gyermek gyermekvédelmi gyámjának nevét, elérhetőségét,
 
-f) a gyermek, fiatal felnőtt ellátására szolgáló nevelési díj és külön ellátmány havi, napi összegét,
+f)[^39] a gyermek, fiatal felnőtt ellátására szolgáló nevelési ellátmány havi, napi összegét,
 
 g) a nevelőszülőt a nevelőszülői díjazás keretében az adott gyermekre, fiatal felnőttre tekintettel megillető kiegészítő díj és többletdíj havi és napi összegét, valamint
 
@@ -34,4 +34,5 @@ h) a nevelőszülő és a működtető képviselőjének aláírását.
 
 (6) A megszüntetési záradékot a működtető és a nevelőszülő aláírásával látja el.
 
-[^24]: A 12. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 479. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^38]: A 12. § (1) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 479. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^39]: A 12. § (1) bekezdés f) pontja a 629/2022. (XII. 30.) Korm. rendelet 44. § i) pontja szerint módosított szöveg.

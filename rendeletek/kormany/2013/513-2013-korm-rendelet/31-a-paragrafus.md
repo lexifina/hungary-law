@@ -1,3 +1,3 @@
-## 31. §[^33]
+31/A. §[^56]
 
-[^33]: A 31. §-t a 237/2020. (V. 26.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^56]: A 31/A. §-t a 353/2014. (XII. 29.) Korm. rendelet 88. §-a iktatta be, hatályon kívül helyezte a 237/2020. (V. 26.) Korm. rendelet 5. § b) pontja.
