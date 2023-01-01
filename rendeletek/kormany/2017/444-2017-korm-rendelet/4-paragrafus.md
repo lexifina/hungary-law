@@ -8,7 +8,7 @@ b) informatikai rendszeréből letöltött kérelem kinyomtatásával és postai
 
 c) informatikai rendszerében kitöltött vagy letöltött és kinyomtatott kérelemmel személyesen a vizsgaközpontnál ügyfélfogadási időben
 
-## lehet.
+lehet.
 
 (1b)[^14] Az előzetes és időszakos pályaalkalmassági vizsgálat, valamint a 3. § (2) bekezdés a) pontja szerinti rendkívüli pályaalkalmassági vizsgálat díját elektronikus úton, átutalással, vagy az (1a) bekezdés c) pontja szerinti esetben készpénz átutalási megbízással kell megfizetni. Előzetes és időszakos pályaalkalmassági vizsgálatra az időpontfoglalás a díj megfizetését követően lehet. A díj megfizetésének 60 napon túli elmulasztása esetén az ügyfél jelentkezését törölni kell.
 

@@ -10,7 +10,7 @@ b) rendszeréből letöltött kérelem kinyomtatásával és postai úton tört�
 
 c) rendszerében kitöltött vagy letöltött és kinyomtatott kérelemmel személyesen a vizsgaközpontnál ügyfélfogadási időben
 
-## lehet benyújtani.
+lehet benyújtani.
 
 (4) A felülvizsgálati kérelmet egy háromtagú bizottság (a továbbiakban: másodfokú bizottság) bírálja el, amelynek eljárására irányadóak az elsőfokú vizsgálatra vonatkozó szabályok. A pályaalkalmassági minősítés tekintetében a másodfokú véleményezésében nem vehet részt a pszichológus, aki a kérelmező pályaalkalmassági minősítését első fokon végezte vagy abban közreműködött.
 

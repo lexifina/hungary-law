@@ -1,4 +1,4 @@
-10/C. §[^30] (1) A pályaalkalmasságot korlátozó vagy kizáró okok a következők:
+10/C. §[^31] (1) A pályaalkalmasságot korlátozó vagy kizáró okok a következők:
 
 a) elégtelen észlelési teljesítmény,
 
@@ -22,4 +22,4 @@ j) a pszichés kifáradás,
 
 k) foglalkozási (életkori) sajátosságokból eredő, kedvezőtlen személyiségkép.
 
-[^30]: A 10/C. §-t a 285/2018. (XII. 21.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^31]: A 10/C. §-t a 285/2018. (XII. 21.) Korm. rendelet 16. § (2) bekezdése iktatta be.

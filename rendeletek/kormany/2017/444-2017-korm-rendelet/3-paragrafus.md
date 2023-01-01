@@ -46,7 +46,7 @@ ca) a 7500 kg megengedett legnagyobb össztömeget meghaladó, közúti közleke
 
 cb) a 7500 kg megengedett legnagyobb össztömeget meghaladó, nemzetközi közúti áruszállítást végző tehergépkocsi, vontató, nyerges vontató és járműszerelvény
 
-## vezetése,
+vezetése,
 
 d)[^10] IV. alkalmassági kategória: az a)–c) pontban nem említett gépjármű vezetése.
 
