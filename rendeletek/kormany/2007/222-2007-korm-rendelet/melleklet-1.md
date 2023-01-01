@@ -1,6 +1,6 @@
 1. számú melléklet a 222/2007. (VIII. 29.) Korm. rendelethez[^24]
 
-## Az állandó menazsériában tartott állatokról készített nyilvántartás tartalmi elemei
+Az állandó menazsériában tartott állatokról készített nyilvántartás tartalmi elemei
 
 Az állandó menazsériában tartott egyes állatokra vonatkozó alábbi adatok:
 

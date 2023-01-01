@@ -2,7 +2,7 @@
 
 ## Ideiglenes menazséria működtetése
 
-4. § (1)[^13] Ideiglenes menazsériát csak az a fenntartó működtethet, aki rendelkezik a 3. § (2) bekezdés szerint kiadott működési engedéllyel és érvényesített, e rendelet 2. számú melléklete szerinti adattartalmú ideiglenes menazséria úti naplóval. Az ideiglenes úti napló vezetése céljából a földművelésügyi és vidékfejlesztési miniszter a 2. számú melléklet szerinti adattartalommal formanyomtatványt rendszeresít, és azt közzéteszi az általa vezetett minisztérium honlapján. A működési engedély és az ideiglenes menazséria úti napló másolati példányát a fellépések helyszínén kell tartani.
+4. § (1)[^13] Ideiglenes menazsériát csak az a fenntartó működtethet, aki rendelkezik a 3. § (2) bekezdés szerint kiadott működési engedéllyel és érvényesített, e rendelet 2. számú melléklete szerinti adattartalmú ideiglenes menazséria úti naplóval. Az ideiglenes úti napló vezetése céljából a miniszter a 2. számú melléklet szerinti adattartalommal formanyomtatványt rendszeresít, és azt közzéteszi az általa vezetett minisztérium honlapján. A működési engedély és az ideiglenes menazséria úti napló másolati példányát a fellépések helyszínén kell tartani.
 
 (2)[^14] A fenntartó kérésére az állandó menazsériából történő indulás előtt, a kérelem megérkezését követő naptól számított tizenöt napon belül a kormányhivatal kiadja az ideiglenes menazséria úti naplót, melyet a hatósági állatorvosnak az induláskor érvényesítenie kell. Amennyiben a fenntartó több ideiglenes menazsériát kíván működtetni, valamennyihez igényelni kell az ideiglenes menazséria úti naplót.
 
@@ -23,7 +23,7 @@
 (10)[^20] A Kormány a külföldről érkező cirkuszi menazséria működtetése tekintetében a Szolgtv. 10. §-a, 37. §-a és 46. §-a szerinti szolgáltatás felügyeletét ellátó hatóságként az ideiglenes telephely szerint illetékes kormányhivatalt jelöli ki.
 
 [^12]: A 3/A. §-t a 182/2009. (IX. 10.) Korm. rendelet 563. § (4) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 51. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^13]: A 4. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 563. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^13]: A 4. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 563. § (5) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 79. § c) pontja szerint módosított szöveg.
 [^14]: A 4. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 565. §-a, a 289/2010. (XII. 21.) Korm. rendelet 3. § (93) bekezdése, a 360/2019. (XII. 30.) Korm. rendelet 51. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^15]: A 4. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 564–565. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^16]: A 4. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 564. §-a, a 360/2019. (XII. 30.) Korm. rendelet 51. § d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
