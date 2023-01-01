@@ -8,4 +8,4 @@
 
 (4) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg az állami foglalkoztatási szerv által álláskeresőként nyilvántartott személyek létszáma megállapítására, valamint közzétételének módjára vonatkozó részletes szabályokat.
 
-(5) Felhatalmazás kap a miniszter, hogy a 36/A. § szerinti igazolólap kiállítására, valamint annak tartalmára vonatkozó szabályokat rendeletben állapítsa meg.
+(5)

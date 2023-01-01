@@ -14,15 +14,19 @@ a) a jogelőd természetes személy ügyféllel szemben az eljárás akadályoz�
 
 b) a jogelőd számára halasztást vagy részletekben történő teljesítést (a továbbiakban együtt: fizetési kedvezmény) megállapító végzést.
 
+(4a) Az e törvényben, továbbá a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvényben meghatározott ügyekben önálló jogorvoslatnak van helye a fizetési kedvezménnyel kapcsolatos végzés ellen.
+
 (5) A (4) bekezdésben foglaltakat alkalmazni kell az állami foglalkoztatási szervnek a késedelmi kamat elengedéséről vagy mérsékléséről szóló döntésére.
 
 (6) Jogutód hiányában a jogszabálysértő állapot megszüntetéséről az állami foglalkoztatási szerv hivatalból intézkedik.
 
 (7) A jogutódlás, valamint az új teljesítési határidő megállapítása kérdésében hozott végzést az ügyféllel közölni kell.
 
+(7a) A foglalkoztatást elősegítő támogatásról szóló hatósági szerződés alapján támogatásban részesülő munkaadó helyébe jogutódja léphet, feltéve, ha a jogutód egyoldalú írásbeli nyilatkozatban vállalja a támogatás jogszabályban, valamint a hatósági szerződésben meghatározott feltételeinek teljesítését.
+
 (8) Az álláskeresőként való nyilvántartással, az álláskeresők ellátásával, valamint a természetes személynek nyújtott foglalkoztatást elősegítő támogatással kapcsolatos eljárás során – az 54. § (9b) bekezdésében foglaltakat kivéve – a törvényes képviselő eljárása kizárt, az ügyfélnek személyesen kell eljárnia.
 
-(9) Az álláskeresők ellátásával kapcsolatos kérelemre induló hatósági ügyben – a (10) bekezdésben foglaltak kivételével – az ügyfél választása szerint a lakóhelye vagy tartózkodási helye, illetve székhelye, telephelye vagy fióktelepe szerint illetékes állami foglalkoztatási szerv jár el.
+(9) Az álláskeresők ellátásával kapcsolatos kérelemre induló hatósági ügyben – a (10) bekezdésben foglaltak kivételével – az ügyfél választása szerint a lakóhelye vagy tartózkodási helye szerint illetékes állami foglalkoztatási szerv jár el.
 
 (10) A
 

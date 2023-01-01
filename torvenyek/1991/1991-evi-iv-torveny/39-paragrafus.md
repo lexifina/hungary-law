@@ -1,12 +1,12 @@
 ## VI. Fejezet
 
-## A MUNKANÉLKÜLI ELLÁTÁSOK ÉS A FOGLALKOZTATÁST ELŐSEGÍTŐ TÁMOGATÁSOK FEDEZETE
+## AZ ÁLLÁSKERESÉSI ELLÁTÁSOK ÉS A FOGLALKOZTATÁST ELŐSEGÍTŐ TÁMOGATÁSOK FEDEZETE
 
-## Gazdaság-újraindítási Foglalkoztatási Alap
+## Nemzeti Foglalkoztatási Alap
 
 39. § (1)
 
-(2) A Gazdaság-újraindítási Foglalkoztatási Alap, mely a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap célja a foglalkoztatáshoz, a munkanélküliséghez, a képzési rendszer fejlesztéséhez kapcsolódó pénzeszközök összevonásával, egységes kezelésével
+(2) A Nemzeti Foglalkoztatási Alap, mely a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalap célja a foglalkoztatáshoz, a munkanélküliséghez, a képzési rendszer fejlesztéséhez kapcsolódó pénzeszközök összevonásával, egységes kezelésével
 
 a) az álláskeresők ellátásának biztosítása,
 
@@ -28,7 +28,7 @@ i)
 
 (3) Az Alapon belül – a pénzeszközök felhasználásának célja szerint – a következő alaprészeket kell elkülöníteni:
 
-a) szolidaritási alaprészt az álláskeresési járadék, a nyugdíj előtti álláskeresési segély, az álláskeresési segély, a munkanélküli járadék, a nyugdíj előtti munkanélküli segély,, a költségtérítés (31. §), valamint ezek juttatásával kapcsolatos postaköltség finanszírozására;
+a) szolidaritási alaprészt az álláskeresési járadék, a nyugdíj előtti álláskeresési segély, az álláskeresési segély, költségtérítés (31. §), valamint ezek juttatásával kapcsolatos postaköltség finanszírozására;
 
 b)
 

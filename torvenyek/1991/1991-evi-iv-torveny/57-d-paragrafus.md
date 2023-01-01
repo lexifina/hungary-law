@@ -64,10 +64,10 @@ tekinthet be.
 
 (3a) A miniszter az Európai Unió pénzügyi alapjaiból és más külföldi alapokból támogatott egyes fejlesztési, foglalkoztatási, képzési és informatikai programok megvalósításának tervezése és szervezése, valamint ezen programok megvalósítása keretében történő támogatás folyósítása érdekében kezeli az (1) bekezdés szerinti nyilvántartás adatait.
 
-(4) Az adatbázisban rögzített adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
+(4) Az ESZA adatbázisban rögzített adatok statisztikai célra felhasználhatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 
-(4a) Az adatbázisban rögzített adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
+(4a) Az ESZA adatbázisban rögzített adatokat a Központi Statisztikai Hivatal részére – a Stt. 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
 (5) Az (1) bekezdés szerinti adatok az Európai Szociális Alapnak a 2014–2020 közötti, az Európai Szociális Alap Plusznak a 2021–2027 közötti európai uniós költségvetési időszakban rendelkezésre álló forrásaira vonatkozó elszámolhatósági időszak lezárását követő öt évig kezelhetők.
 
-(6) Az (1) bekezdésben meghatározott adatbázissal kapcsolatos fejlesztéseket a miniszter kezdeményezheti.
+(6) Az ESZA adatbázissal kapcsolatos fejlesztéseket a miniszter kezdeményezheti.

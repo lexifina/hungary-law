@@ -4,9 +4,17 @@
 
 a) rendelkezik a 25. § (1) bekezdésének d) pontjában, meghatározott feltételekkel, és
 
-b) a kérelem benyújtásának időpontjában a rá irányadó öregségi nyugdíjkorhatár betöltéséhez legfeljebb öt év hiányzik, és legalább 45 napon át álláskeresési járadékban részesült és az álláskeresési járadék folyósítási időtartamát kimerítette, vagy a folyósítási időtartam kimerítését megelőzően az álláskeresési járadék folyósítását az állami foglalkoztatási szerv – kereső tevékenység miatt – megszüntette és az álláskereső álláskeresési járadékra ismételten nem szerzett jogosultságot,
+b) a kérelem benyújtásának időpontjában
 
-c) az álláskeresési járadék folyósításának kimerítését, vagy a b) pontban meghatározott megszüntetését követően három éven belül betöltötte a b) pontban meghatározott életkort, és
+ba) az álláskeresőre irányadó öregségi nyugdíjkorhatár betöltéséhez legfeljebb öt év hiányzik, és
+
+bb) az álláskereső a megelőző három éven belül összesen legalább 45 napon át álláskeresési járadékban részesült, és
+
+c) a b) pontban foglalt feltételeken túl az álláskereső a kérelem benyújtásának időpontjában álláskeresési járadékra ismételten nem szerzett jogosultságot, és
+
+ca) az álláskeresési járadék folyósítási időtartamát kimerítette, vagy
+
+cb) a folyósítási időtartam kimerítését megelőzően az álláskeresési járadék folyósítását az állami foglalkoztatási szerv – keresőtevékenység miatt – megszüntette.
 
 d) rendelkezik az öregségi nyugdíjhoz szükséges szolgálati idővel, és,
 
@@ -18,13 +26,13 @@ e) korhatár előtti ellátásban, szolgálati járandóságban, táncművészet
 
 (4) Az álláskeresési segély folyósításának kezdő napja az álláskeresési segély iránti kérelem benyújtásának napja. Ha az álláskereső a személyes adatait – az állami foglalkoztatási szerv részére – a személyes jelentkezését megelőzően – e-ügyintézési tv.-ben foglaltak szerint küldte meg, az álláskeresési segély folyósításának kezdő napja az adatoknak az állami foglalkoztatási szervhez történő megérkezésének a napja.
 
-(5) Megszűnik az álláskeresési segély folyósítása a 28. § (1) bekezdés a)–f) pontjában meghatározott esetben. Meg kell szüntetni az álláskeresési segély folyósítását a 28. § (2) bekezdésében meghatározott esetben.
+(5) Megszűnik az álláskeresési segély folyósítása a 28. § (1) bekezdés a)–e) pontjában meghatározott esetben. Meg kell szüntetni az álláskeresési segély folyósítását a 28. § (2) bekezdésében meghatározott esetben.
 
 (6) Az álláskeresési segély folyósítására a 28. § (3) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
 (7) Szünetel az álláskeresési segély folyósítása
 
-a) a 29. § (1) bekezdés b) és c) pontjában, valamint e) és f) pontjában meghatározott esetben,
+a) a 29. § (1) bekezdés b) és c) pontjában, valamint f) pontjában meghatározott esetben,
 
 b) – az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszony kivételével – a keresőtevékenység időtartamára, függetlenül az időtartam mértékétől,
 

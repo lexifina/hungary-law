@@ -8,7 +8,7 @@ ba) a szabadságvesztés büntetést közérdekű munka vagy pénzbüntetés át
 
 bb) reintegrációs őrizetben van,
 
-c) a 25. § (5) bekezdésében meghatározott közfoglalkoztatás alatt, a közfoglalkoztatási jogviszony kezdő napjától,
+c) a 25. § (5) bekezdésében meghatározott időtartamú közfoglalkoztatás alatt, a közfoglalkoztatási jogviszony kezdő napjától,
 
 d) rövid időtartamú, legfeljebb 120 napig tartó kereső tevékenységet folytat – az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszony kivételével –, feltéve, hogy bejelentési kötelezettségének eleget tett, a kereső tevékenység végzésére irányuló jogviszony kezdő napjától,
 

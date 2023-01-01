@@ -1,1 +1,1 @@
-### 34. §
+34. § Az állami foglalkoztatási szerv az álláskeresőnek az 54. § (9) bekezdésében meghatározott együttműködési kötelezettsége teljesítésével kapcsolatos, tömegközlekedési eszköz igénybevételével felmerült helyi és helyközi utazási költségeit megtéríti.

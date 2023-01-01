@@ -1,4 +1,4 @@
-2. § (1) Az álláskeresők támogatása során az egyenlő bánásmód követelményét meg kell tartani. E rendelkezés nem zárja ki azt, hogy a munkaerőpiacon hátrányos helyzetben levőket többletjogosultságok illessék meg.
+2. § (1) Az álláskeresők ellátása során az egyenlő bánásmód követelményét meg kell tartani. E rendelkezés nem zárja ki azt, hogy a munkaerőpiacon hátrányos helyzetben levőket többletjogosultságok illessék meg.
 
 (2) A menekültként, oltalmazottként elismert, továbbá a bevándorolt vagy letelepedett jogállású, valamint a szabad mozgás és tartózkodás jogával rendelkező személyeket az e törvény és végrehajtási szabályai által tartalmazott jogokat és kötelezettségeket illetően a magyar állampolgárral azonos jogok és kötelezettségek illetik meg és terhelik. Törvény, valamint kormányrendelet e szabálytól a külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személy (a továbbiakban: a szabad mozgás és tartózkodás jogával rendelkező személy) tekintetében eltérő szabályokat állapíthat meg.
 

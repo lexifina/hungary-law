@@ -8,7 +8,7 @@
 
 (3) Ha az álláskeresési ellátásban részesülő személy mezőgazdasági őstermelőként folytat kereső tevékenységet, köteles az adóévben felvett álláskeresési ellátást visszafizetni.
 
-(4) Az, aki az álláskereső halálát követően a álláskeresési ellátást jogalap nélkül vette fel, köteles azt visszafizetni.
+(4) Az, aki az álláskereső halálát követően az álláskeresési ellátást jogalap nélkül vette fel, köteles azt visszafizetni.
 
 (5) Az ellátás tekintetében az állami foglalkoztatási szerv vezetője – erre irányuló kérelemre – különös méltánylást érdemlő esetben – az állami adó- és vámhatóság végrehajtás céljából történő megkereséséig – dönthet a jogalap nélkül felvett és visszakövetelt álláskeresési ellátás visszafizetésének részben vagy egészben történő elengedéséről.
 

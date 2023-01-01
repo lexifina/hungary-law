@@ -1,8 +1,8 @@
 ## Adatvédelmi rendelkezések
 
-57/A. § (1) Az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) a (2c) bekezdésben meghatározott célokból nyilvántartást vezet. A nyilvántartás tartalmazza:
+57/A. § (1) Az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) a (2c) bekezdésben meghatározott célokból nyilvántartást vezet. A nyilvántartás tartalmazza:
 
-a) a természetes személyazonosító adatokat, a társadalombiztosítási azonosító jelet (a továbbiakban: TAJ szám), valamint a bankszámlaszámot,
+a) a természetes személyazonosító adatokat, a TAJ számát, valamint a bankszámlaszámot,
 
 b) az állampolgárságot, a bevándorolt, a letelepedett, a menekült vagy az oltalmazott jogállást, a menekültügyi hatóságnál a menekültként, oltalmazottként történő elismerésre irányuló kérelem benyújtásának, vagy a harmadik országbeli állampolgár kijelölt helyen való tartózkodása elrendelésének tényét, külföldi állampolgár esetén a családi állapot megjelölését,
 
@@ -10,7 +10,7 @@ c) a lakcím (lakóhely, tartózkodási hely) és elérhetőség adatait,
 
 d) a foglalkozást, a munkahelyet, a munkakört (tevékenység), a munkaviszonyt,
 
-e) az álláskeresési ellátás, a foglalkoztatást elősegítő támogatás, valamint a foglalkoztatást elősegítő szolgáltatás megállapításához, igénybevételéhez és nyújtásához szükséges e törvényben és más törvényben meghatározott adatokat,
+e) a nyilvántartásba vételhez, az álláskeresési ellátás, a foglalkoztatást elősegítő támogatás, valamint a foglalkoztatást elősegítő szolgáltatás megállapításához, igénybevételéhez és nyújtásához szükséges e törvényben és más törvényben meghatározott adatokat,
 
 f) az iskolai végzettség, a szakképzettség megnevezését, az e képesítéseket igazoló oklevél, bizonyítvány számát, a kiállító intézmény nevét, a kiállítás keltét,
 
@@ -68,11 +68,11 @@ r) a foglalkoztatást elősegítő támogatások, valamint a támogatások és f
 
 (2a) Az állami foglalkoztatási szerv által vezetett nyilvántartás az álláskeresők nyilvántartásba vételéhez, az álláskeresési ellátás megállapításához és igénybevételéhez szükséges, e törvényben meghatározott adatok tekintetében – a természetes személyazonosító és a lakcím-azonosító adatok, TAJ szám és adószám kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(2b) A járási hivatal az (1) bekezdés szerinti adatokhoz közvetlen hozzáférést biztosít a miniszter, valamint az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) részére a jogszabályban meghatározott feladataik ellátása céljából.
+(2b) A járási hivatal az (1) bekezdés szerinti adatokhoz közvetlen hozzáférést biztosít a miniszter, valamint az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) részére a jogszabályban meghatározott feladataik ellátása céljából.
 
 (2c) A járási hivatal
 
-a) a nyilvántartásba vétellel kapcsolatos feladatai ellátása során az (1) bekezdés a)–c), f) és m) pontjában meghatározott adatokat,
+a) a nyilvántartásba vétellel kapcsolatos feladatai ellátása során az (1) bekezdés a)–c), e), f) és m) pontjában meghatározott adatokat,
 
 b) az álláskeresési ellátás, valamint a közfoglalkoztatottak részére nyújtandó utazási költségtérítés megállapításával, igénybevételével és nyújtásával kapcsolatos feladatai végzése során az (1) bekezdés a)–e) és m) pontjában meghatározott adatokat,
 
