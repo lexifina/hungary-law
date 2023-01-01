@@ -12,9 +12,9 @@ c)[^107] 0–14 év közötti 600–800 fő lakos (a továbbiakban: gyermekkörz
 
 ellátását biztosítja.
 
-(3)[^108] Amennyiben a körzethatárok módosítása során a (2) bekezdésben meghatározott minimumlétszám alatti lakosságszámú felnőtt, vegyes, illetve házi gyermekorvosi körzet kerül kialakításra, a NEAK a szolgáltatóval akkor köt finanszírozási szerződést, ha az önkormányzat(ok) rendelkezik(nek) a körzetek megosztásáról, ennek érdekében a szolgáltató a szerződés módosítását kezdeményezi. A NEAK a 14. § (2)–(4) bekezdése szerinti fixdíjakat utalja. Új körzet létesítése esetén nem köthető finanszírozási szerződés, ha az új körzet létesítése következtében valamely meglévő körzet lakosságszáma felnőtt és vegyes körzet esetén 1200, gyermekkörzet esetén 600 fő alá csökken.
+(3)[^108] A körzethatárok módosítása esetén nem jöhet létre a (2) bekezdésben meghatározott minimumlétszám alatti lakosságszámú felnőtt, vegyes, illetve házi gyermekorvosi körzet. A körzetmódosítást követően a szerződés módosítását a szolgáltató kezdeményezi. Új körzet létesítése esetén nem köthető finanszírozási szerződés, ha az új körzet létesítése következtében valamely meglévő körzet lakosságszáma felnőtt és vegyes körzet esetén 1200, gyermekkörzet esetén 600 fő alá csökken.
 
-(4)[^109] A (2) bekezdésnek megfelelő új körzet esetén a díjazást a NEAK a körzet kialakítását követő egy éven át kiegészíti az adott típusú háziorvosi körzetek előző évi teljesítménye szerinti átlagos havi díjazásának mértékéig, amely az első hónaptól kifizetésre kerül. A 14. § (2)–(4) bekezdése szerint járó díjazás az első hónaptól kifizetésre kerül.
+(4)[^109] A (2) bekezdésnek megfelelő új körzet esetén a díjazást a NEAK a körzet kialakítását követő egy éven át kiegészíti az adott típusú háziorvosi körzetek előző évi teljesítménye szerinti átlagos havi díjazásának mértékéig, amely az első hónaptól kifizetésre kerül.
 
 (5)[^110] A területi ellátási kötelezettséggel érintett körzet lakosságszámát az előző év december 31-ei állapotnak megfelelően a település jegyzője igazolja a NEAK számára minden év március 31-éig, illetve a körzethatár-módosítás miatt kezdeményezett szerződésmódosítással egyidejűleg.
 
@@ -23,6 +23,6 @@ ellátását biztosítja.
 [^105]: A 8. § (1) bekezdése az 58/2009. (III. 18.) Korm. rendelet 18. § (7) bekezdésének c) pontja, a 365/2010. (XII. 30.) Korm. rendelet 18. § 6. pontja, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
 [^106]: A Magyar Közlöny 1999. évi 30. számában közzétett helyesbítésnek megfelelő szöveg.
 [^107]: A 8. § (2) bekezdésének c) pontja a 102/2003. (VII. 17.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.
-[^108]: A 8. § (3) bekezdése a 293/2002. (XII. 27.) Korm. rendelet 6. §-ának (1) bekezdésével megállapított, valamint a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. és 5. pontja szerint módosított szöveg.
-[^109]: A 8. § (4) bekezdése a 102/2003. (VII. 17.) Korm. rendelet 13. § (3) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 18. § 7. pontja,a 263/2011. (XII. 13.) Korm. rendelet 4. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.
+[^108]: A 8. § (3) bekezdése a 630/2022. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^109]: A 8. § (4) bekezdése a 630/2022. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^110]: A 8. § (5) bekezdését a 257/2001. (XII. 19.) Korm. rendelet 6. §-a iktatta be, szövege a 293/2002. (XII. 27.) Korm. rendelet 6. §-ának (2) bekezdésével megállapított, valamint a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja szerint módosított szöveg.

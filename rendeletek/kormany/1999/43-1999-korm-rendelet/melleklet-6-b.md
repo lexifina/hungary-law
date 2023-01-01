@@ -1,4 +1,4 @@
-6/B. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^612]
+6/B. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^621]
 
 Ellátó orvos bélyegzőszáma ........................................................................................ aláírása
 
@@ -76,22 +76,4 @@ A rekord felépítése
 
 (egy rekord egy tevékenységkódot tartalmaz)
 
-Megnevezés
-
-1 elszámolt időszak (év, hó)
-
-2 szolgálati egység kódja
-
-3 kezelést végző orvos pecsétszáma
-
-4 naplósorszám
-
-5 kezelés dátuma (év, hó, nap)
-
-6 kezelés időpontja (óra, perc)
-
-7 küldő szolgálati egység kódja
-
-8 beutaló orvos pecsétszáma
-
-[^612]: A 6/B. számú melléklet a 120/2007. (V. 31.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 364/2007. (XII. 23.) Korm. rendelet 16. § (15) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § e) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (7) bekezdése, a 283/2008. (XI. 28.) Korm. rendelet 5. § (1) bekezdése, az 58/2009. (III. 18.) Korm. rendelet 16. § (3) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a, a 365/2010. (XII. 30.) Korm. rendelet 13. § (3) bekezdése és 19. § (1) bekezdés f) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (2) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés j) pontja, a 137/2012. (VI. 29.) Korm. rendelet 20. § i) és j) pontja, a 447/2012. (XII. 29.) Korm. rendelet 27. § (3) bekezdése, a 339/2013. (IX. 25.) Korm. rendelet 12. § (2) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (3) bekezdése, a 413/2015. (XII. 23.) Korm. rendelet 20. § d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. és 17. pontja szerint módosított szöveg.
+[^621]: A 6/B. számú melléklet a 120/2007. (V. 31.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 364/2007. (XII. 23.) Korm. rendelet 16. § (15) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § e) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (7) bekezdése, a 283/2008. (XI. 28.) Korm. rendelet 5. § (1) bekezdése, az 58/2009. (III. 18.) Korm. rendelet 16. § (3) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a, a 365/2010. (XII. 30.) Korm. rendelet 13. § (3) bekezdése és 19. § (1) bekezdés f) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (2) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (2) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés j) pontja, a 137/2012. (VI. 29.) Korm. rendelet 20. § i) és j) pontja, a 447/2012. (XII. 29.) Korm. rendelet 27. § (3) bekezdése, a 339/2013. (IX. 25.) Korm. rendelet 12. § (2) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (3) bekezdése, a 413/2015. (XII. 23.) Korm. rendelet 20. § d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. és 17. pontja szerint módosított szöveg.
