@@ -1,5 +1,3 @@
-## 12. §[^5]
-
 1. melléklet a 135/2017. (VI. 9.) Korm. rendelethez
 
 Fás szárú ültetvény telepítésére használható alapfafajok
@@ -25,5 +23,3 @@ Fás szárú ültetvény telepítésére használható alapfafajok
 | 9. | Vörös tölgy | Quercus rubra |
 
 | 10. | Korai juhar | Acer platanoides |
-
-[^5]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

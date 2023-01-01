@@ -4,6 +4,6 @@ a) a termőföld védelméről szóló törvényben foglalt talajvédelmi szempo
 
 b) a területen található faegyedek továbbterjedésének megakadályozásával
 
-## az eredeti művelési ágnak megfelelő állapotba kell hozni.
+az eredeti művelési ágnak megfelelő állapotba kell hozni.
 
 (2) Az (1) bekezdésben foglaltaktól abban az esetben lehet eltérni, ha a földhasználó a fás szárú ültetvény ismételt telepítését vagy megújítását a 3. §-ban foglaltak szerint bejelentette.
