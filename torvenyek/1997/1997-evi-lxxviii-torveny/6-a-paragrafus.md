@@ -16,4 +16,4 @@ a) véleményt adhat a jogszabályban meghatározott építésügyi hatósági e
 
 b) településképi bejelentési eljárást folytathat le az építésügyi hatósági engedélyhez nem kötött építési tevékenységek, reklámelhelyezések és rendeltetésmódosítások tekintetében.
 
-(3) a települési önkormányzat (fővárosban a fővárosi és a kerületi önkormányzat) az építésügyi feladatát a helyi rendeletei megalkotásával és a kapcsolódó sajátos jogintézményekkel, továbbá a települési (fővárosban a fővárosi és a kerületi), a térségi vagy a megyei – a főépítészi tevékenységről szóló kormányrendeletben foglaltak szerinti – önkormányzati főépítész közreműködésével látja el.
+(3) a települési önkormányzat (fővárosban a fővárosi és a kerületi önkormányzat) az építésügyi feladatát a helyi rendeletei megalkotásával és a kapcsolódó sajátos jogintézményekkel, továbbá a települési (fővárosban a fővárosi és a kerületi), a térségi vagy a vármegyei – a főépítészi tevékenységről szóló kormányrendeletben foglaltak szerinti – önkormányzati főépítész közreműködésével látja el.

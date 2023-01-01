@@ -16,7 +16,7 @@ d) érintettség esetén az országos és helyi építészeti örökségvédelem
 
 (4) A helyi építési szabályzatban megállapított követelmények – ideértve az (2) bekezdés szerinti minimális tartalmi követelményeket is – nem lehetnek megengedőbbek az országos településrendezési és építési követelményekről szóló kormányrendeletben, valamint a 4. § (3a) és a 6. § (3) bekezdése szerinti kormányrendeletben foglaltaknál, kivéve, ha azt kormányrendelet kifejezetten megengedi.
 
-(5) A 33/A. § (1) bekezdése szerinti építési tevékenység esetén a helyi építési szabályzatban meghatározott (2) és (3) bekezdés szerinti minimális tartalmi követelményeket és a rendeltetési egységek számát figyelembe kell venni.
+(5) A 33/A. § (1) bekezdése szerinti építési tevékenység esetén a helyi építési szabályzatban meghatározott (2) és (3) bekezdés szerinti minimális tartalmi követelményeket és a rendeltetési egységek számát kell csak figyelembe venni.
 
 (6) A polgármester (főpolgármester) – a jogalkotásról szóló törvény szerinti elektronikus jogszabálygyűjteményben való közzététellel egyidejűleg – a helyi építési szabályzatot, illetve módosítása esetén a módosításokkal egységes szerkezetbe foglalt helyi építési szabályzatot feltölti az E-TÉR-be a 8. § (4) bekezdés d) pontjában meghatározott módon.
 

@@ -42,7 +42,7 @@
 
 15. Műtárgy: mindazon építmény, ami nem minősül épületnek és épület funkciót jellemzően nem tartalmaz (pl. út, híd, torony, távközlés, műsorszórás műszaki létesítményei, gáz-, folyadék-, ömlesztett anyag tárolására szolgáló és nyomvonalas műszaki alkotások).
 
-16. Önkormányzati (települési, a fővárosban fővárosi és kerületi, térségi, megyei) főépítész: a helyi önkormányzat vagy önkormányzati társulás területfejlesztési és területrendezési, településfejlesztési és településrendezési, településkép-védelmi tárgyú döntéseit előkészítő személy.
+16. Önkormányzati (települési, a fővárosban fővárosi és kerületi, térségi, vármegyei) főépítész: a helyi önkormányzat vagy önkormányzati társulás területfejlesztési és területrendezési, településfejlesztési és településrendezési, településkép-védelmi tárgyú döntéseit előkészítő személy.
 
 17.
 

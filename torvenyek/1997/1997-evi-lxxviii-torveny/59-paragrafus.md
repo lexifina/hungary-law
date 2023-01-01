@@ -6,7 +6,7 @@ a) az adatkezelő, az adatfeldolgozó, és az érintettek a saját személyes ad
 
 b) a jogszabályban meghatározott adatfelelősök a feladat ellátásához szükséges tartalommal korlátozottan,
 
-c) a települési önkormányzat, a fővárosi és megyei kormányhivatal, a szakmai kamara és a (4) bekezdés szerinti egyéb szervek és személyek, a jogszabályokban meghatározott építésügyi feladatuk ellátásához szükséges mértékű hozzáférési jogosultságuk szerint korlátozottan,
+c) a települési önkormányzat, a fővárosi és vármegyei kormányhivatal, a szakmai kamara és a (4) bekezdés szerinti egyéb szervek és személyek, a jogszabályokban meghatározott építésügyi feladatuk ellátásához szükséges mértékű hozzáférési jogosultságuk szerint korlátozottan,
 
 d) a szakmagyakorlók és az a)–c) pontba nem tartozó egyéb szervek és személyek – ha törvény eltérően nem rendelkezik – az érintett írásbeli hozzájárulásával
 
