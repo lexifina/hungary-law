@@ -4,7 +4,7 @@ a) a 2. § (1) bekezdése szerinti értesítés megküldésére vonatkozó köte
 
 b) a 2. § (2) bekezdése szerinti értesítés kiegészítésére vonatkozó kötelezettség elmulasztása
 
-## vagy nem megfelelő teljesítése esetén.
+vagy nem megfelelő teljesítése esetén.
 
 (2) A hulladékgazdálkodási hatóság 200 000 forint összegű hulladékgazdálkodási bírságot szab ki
 
@@ -12,7 +12,7 @@ a) a 4. § (1) bekezdése szerinti jelentés,
 
 b) az 5. § (1) bekezdése szerinti nyilvántartás
 
-## megküldésére vonatkozó kötelezettség elmulasztása esetén.
+megküldésére vonatkozó kötelezettség elmulasztása esetén.
 
 (3) A hulladékgazdálkodási hatóság 200 000 forint összegű hulladékgazdálkodási bírságot szab ki
 
@@ -20,7 +20,7 @@ a) a 4. § (2) bekezdése szerinti jelentés,
 
 b) az 5. § (2) bekezdése szerinti nyilvántartás
 
-## kiegészítésére vonatkozó kötelezettség elmulasztása vagy nem megfelelő teljesítése esetén.
+kiegészítésére vonatkozó kötelezettség elmulasztása vagy nem megfelelő teljesítése esetén.
 
 (4) A (2) bekezdésben meghatározott szankción túl a területi hulladékgazdálkodási hatóság 200 000 forint összegű hulladékgazdálkodási bírságot szab ki
 
@@ -30,7 +30,7 @@ b) hozzáadott higanyt tartalmazó új termék engedély nélkül való forgalom
 
 c) a 2017/852/EU európai parlamenti és tanácsi rendelet 8. cikk (3) bekezdésében meghatározott új gyártási folyamat engedély nélkül való alkalmazása
 
-## esetén.
+esetén.
 
 (5) Az (1)–(4) bekezdés szerinti bírság ismételten kiszabható.
 

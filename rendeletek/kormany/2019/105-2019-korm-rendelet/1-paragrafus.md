@@ -3,3 +3,5 @@
 a) 3. cikk (3) bekezdésében megjelölt higanyvegyületek kivitelével, valamint
 
 b) 4. cikk (1) bekezdése alapján történő higany vagy higanykeverékek behozatalával
+
+kapcsolatban előírt igazgatási feladatok végrehajtására nemzeti hatóságként az országos tisztifőorvost jelöli ki.

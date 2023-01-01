@@ -1,3 +1,5 @@
-7. § (1) A higany, a higanyvegyületek vagy a higanykeverékek kivitelére és behozatalára vonatkozó előírások betartását a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) ellenőrzi.
+7. § (1)[^8] A higany, a higanyvegyületek vagy a higanykeverékek kivitelére és behozatalára vonatkozó előírások betartását a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) ellenőrzi.
 
 (2) A járási hivatal az (1) bekezdésben meghatározott előírások megsértése esetén kémiai terhelési bírságot szab ki.
+
+[^8]: A 7. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 293. §-a szerint módosított szöveg.

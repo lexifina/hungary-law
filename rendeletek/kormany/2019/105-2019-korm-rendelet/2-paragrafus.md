@@ -1,5 +1,3 @@
-## kapcsolatban előírt igazgatási feladatok végrehajtására nemzeti hatóságként az országos tisztifőorvost jelöli ki.
-
 2. § (1) A 2017/852/EU európai parlamenti és tanácsi rendelet 8. cikk (3) bekezdésében meghatározott értesítést a területi környezetvédelmi hatóságnak kell megküldeni.
 
 (2) Ha az (1) bekezdés szerinti értesítés a 2017/852/EU európai parlamenti és tanácsi rendelet 8. cikk (3) bekezdésében meghatározott adatokat nem teljeskörűen tartalmazza, a hatóság – 30 napos határidő megjelölésével – a gazdasági szereplőt az értesítés kiegészítésére kötelezi.
