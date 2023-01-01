@@ -1,6 +1,6 @@
 20. § (1) A nyertes pályázatról a Hhvtv.-ben foglalt szempontok, továbbá e rendelet értékelési pontrendszere alapján a miniszter dönt.
 
-(2)[^13] Az (1) bekezdés szerinti döntést a döntés-előkészítési folyamat lezárultától számított 15 napon belül kell meghozni. Az elbírálási határidő az ügy összetettségére tekintettel meghosszabbítható, amelyről a pályázókat a minisztérium értesíti. A pályázat elbírálásának határideje annak meghosszabbítása esetén sem haladhatja meg a pályázat benyújtásától számított 60 napot.
+(2)[^14] Az (1) bekezdés szerinti döntést a döntés-előkészítési folyamat lezárultától számított 15 napon belül kell meghozni. Az elbírálási határidő az ügy összetettségére tekintettel meghosszabbítható, amelyről a pályázókat a minisztérium értesíti. A pályázat elbírálásának határideje annak meghosszabbítása esetén sem haladhatja meg a pályázat benyújtásától számított 60 napot.
 
 (3) Eredménytelen a pályázati eljárás, ha
 
@@ -24,4 +24,4 @@ c) a pályázati felhívás nem felel meg a 4–7. §-ban foglaltaknak.
 
 (6) A minisztérium a pályázati eljárás során készített jegyzőkönyveket és egyéb dokumentumokat, továbbá a nyertes pályázó, illetve a 23. § (2) bekezdése szerinti esetben a nyertes pályázatot követő legjobb pályázatdokumentációját köteles a megkötött haszonbérleti szerződés lejártát vagy megszüntetését követő 2 évig megőrizni.
 
-[^13]: A 20. § (2) bekezdése a 75/2016. (XI. 30.) FM rendelet 4. § b) pontja szerint módosított szöveg.
+[^14]: A 20. § (2) bekezdése a 75/2016. (XI. 30.) FM rendelet 4. § b) pontja szerint módosított szöveg.

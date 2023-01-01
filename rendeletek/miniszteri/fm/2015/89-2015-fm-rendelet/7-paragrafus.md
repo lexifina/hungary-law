@@ -34,7 +34,7 @@ d) a (4) bekezdés b) pontjában meghatározott esetben a haszonbérlő adataiba
 
 e) a (4) bekezdés c) pontjában meghatározott körülmény felmerülését
 
-## követő nap.
+követő nap.
 
 (6) A haszonbérlő – a 6. § szerinti tulajdonosi ellenőrzéssel kapcsolatos kötelezettségei körében – köteles tűrni, hogy a minisztérium vagy az általa megbízott szervezet vagy személy a 6. § (3) bekezdésében meghatározott módon ellenőrizze a haszonbérlői adatszolgáltatási kötelezettség teljesülését és megfelelőségét.
 

@@ -14,7 +14,7 @@ d)[^1] a Magyar Agrár- és Élettudományi Egyetemet,
 
 e) az ingatlanügyi hatóságot
 
-## a pályázatra kijelölhető vagy azzal érintett, nyilvántartott halgazdálkodási vízterületekkel kapcsolatos adatszolgáltatás, illetve a pályázati felhívás tervezetének véleményezése érdekében.
+a pályázatra kijelölhető vagy azzal érintett, nyilvántartott halgazdálkodási vízterületekkel kapcsolatos adatszolgáltatás, illetve a pályázati felhívás tervezetének véleményezése érdekében.
 
 (3) A kiíró a pályázati felhívás előkészítésébe más szervet, szakmai szervezetet, szakértő intézetet vagy személyt is bevonhat.
 

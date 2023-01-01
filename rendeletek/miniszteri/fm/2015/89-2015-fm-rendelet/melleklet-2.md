@@ -1,4 +1,4 @@
-## A pályázatok értékelési pontrendszere
+## 2X10332M.docx
 
 | Értékelési szempontok | Elérhető pontszám |
 
@@ -12,13 +12,13 @@
 
 | 4. halgazdálkodási, illetve horgászati céllal létrehozott jogi személyiségű civil szervezet | 4 |
 
-| 5. halgazdálkodási, illetve horgászati céllal létrehozott legalább megyei hatókörű civil szervezet | 5 |
+| 5. halgazdálkodási, illetve horgászati céllal létrehozott legalább vármegyei hatókörű civil szervezet | 5 |
 
 | 6. horgászszövetség | 6 |
 
 | 2.1. Támogatott közös pályázatok: | 1–3. szerinti pályázó halgazdálkodási, horgászati céllal létrehozott jogi személy civil szervezettel, helyi önkormányzattal közös pályázata | 2 |
 
-| 1–4. szerinti pályázó halgazdálkodási, horgászati céllal létrehozott legalább megyei hatókörű civil szervezettel közös pályázata | 4 |
+| 1–4. szerinti pályázó halgazdálkodási, horgászati céllal létrehozott legalább vármegyei hatókörű civil szervezettel közös pályázata | 4 |
 
 | 1–5. szerinti pályázó horgászszövetséggel közös pályázata | 8 |
 
@@ -106,6 +106,6 @@
 
 | MINDÖSSZESEN |  | 1–100 |
 
-2. melléklet a 89/2015. (XII. 22.) FM rendelethez[^21]
+2. melléklet a 89/2015. (XII. 22.) FM rendelethez[^22]
 
-[^21]: A 2. mellékletet az 5/2021. (II. 23.) AM rendelet 19. § b) pontja hatályon kívül helyezte.
+[^22]: A 2. mellékletet az 5/2021. (II. 23.) AM rendelet 19. § b) pontja hatályon kívül helyezte.
