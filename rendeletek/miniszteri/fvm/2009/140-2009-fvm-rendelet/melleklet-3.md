@@ -1,5 +1,3 @@
-## A felajánlót elutasítás esetén terhelő költségek
-
 | Költségtétel | A költségtétel részletezése | Költségdíj összege (ÁFA nélkül) |
 
 | Adminisztrációs díj – ügyvitel költsége | munkadíj, postai költség | 20 000 Ft |
@@ -22,7 +20,7 @@
 
 3. számú melléklet a 140/2009. (X. 29.) FVM rendelethez[^52]
 
-## A gabona és rizs intervenciójával kapcsolatban mintavételt és minőségvizsgálatot végző laboratóriumok listája
+A gabona és rizs intervenciójával kapcsolatban mintavételt és minőségvizsgálatot végző laboratóriumok listája
 
 1. Concordia Közraktár Kereskedelmi Részvénytársaság Gabona Control Laboratorium, 1095 Budapest, Soroksári út 24.
 

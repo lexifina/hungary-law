@@ -10,7 +10,7 @@
 
 (5)[^34] A nyertes pályázó részére a Kincstár a közvetlenül alkalmazandó közösségi jogi aktusban meghatározott határidőn belül határozatot hoz, és azt a számlával együtt megküldi a pályázónak. A nyertes pályázó köteles elfogadni az elnyert mennyiség plusz/mínusz ötszázalékos mértékű eltérését. A Kincstár az elutasított ajánlatokról is határozatot hoz.
 
-(6)[^35] Fizikai mozgatással történő kitárolás csak a teljes vételár megfizetését követően, a mezőgazdasági és vidékfejlesztési támogatási szerv ellenőre vagy megbízottja jelenlétében kezdhető meg. Kitárolási szándékát a vevőnek a kitárolást megelőző három munkanappal a tárolás helye szerint illetékes megyei kormányhivatallal kell közölnie.
+(6)[^35] Fizikai mozgatással történő kitárolás csak a teljes vételár megfizetését követően, a mezőgazdasági és vidékfejlesztési támogatási szerv ellenőre vagy megbízottja jelenlétében kezdhető meg. Kitárolási szándékát a vevőnek a kitárolást megelőző három munkanappal a tárolás helye szerint illetékes vármegyei kormányhivatallal kell közölnie.
 
 (7) A tétel tárolási körülményeinek és minőségének megfelelőségéről a vevőnek – lehetőleg az ajánlattétel előtt, de legkésőbb – a kitárolás megkezdéséig meg kell győződnie. Amennyiben a kitároláskor az elnyert tétel rövid határidőn belül javítható minőségi hibája állapítható meg (így különösen rovarfertőzöttség, illetve rostálással javítható állaghiba esetén), a vevő nem jogosult visszautasítani a tétel átvételét. Amennyiben a kitárolás során az elnyert tétel előzetes vizsgálattal meg nem állapítható hibából következően nem felel meg az intervenciós követelményeknek, a vevő a tétel érintett részének átvételét visszautasíthatja, vagy ha azt jogszabály nem zárja ki, cseretételt kérhet. Amennyiben az elnyert gabonából vagy rizsből az érintett résznek megfelelő mennyiség önálló tételben vagy tételekben szabad intervenciós készletként nem áll rendelkezésre, cseretétel kijelölésére nincs lehetőség.
 
@@ -26,7 +26,7 @@
 [^32]: A 6. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 40. § b) és l) pontja szerint módosított szöveg.
 [^33]: A 6. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 40. § b) pontja szerint módosított szöveg.
 [^34]: A 6. § (5) bekezdése a 88/2016. (XII. 29.) FM rendelet 40. § b) és d) pontja szerint módosított szöveg.
-[^35]: A 6. § (6) bekezdése a 88/2016. (XII. 29.) FM rendelet 40. § m) pontja szerint módosított szöveg.
+[^35]: A 6. § (6) bekezdése a 88/2016. (XII. 29.) FM rendelet 40. § m) pontja, a 116/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
 [^36]: A 6. § (8) bekezdése a 88/2016. (XII. 29.) FM rendelet 40. § f) pontja szerint módosított szöveg.
 [^37]: A 6. § (9) bekezdése a 100/2011. (XI. 5.) VM rendelet 10. § f) pontja, a 88/2016. (XII. 29.) FM rendelet 40. § b) pontja szerint módosított szöveg.
 [^38]: A 6. § (10) bekezdése a 88/2016. (XII. 29.) FM rendelet 40. § j) pontja szerint módosított szöveg.

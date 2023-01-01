@@ -44,4 +44,6 @@
 
 2. számú melléklet a 140/2009. (X. 29.) FVM rendelethez[^51]
 
+A felajánlót elutasítás esetén terhelő költségek
+
 [^51]: A 2. számú melléklet a 100/2011. (XI. 5.) VM rendelet 9. § (1) bekezdése szerint módosított szöveg.
