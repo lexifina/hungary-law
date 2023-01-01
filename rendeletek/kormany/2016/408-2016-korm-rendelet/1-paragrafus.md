@@ -18,7 +18,7 @@ g) 22. cikke,
 
 h)[^1] 9. cikk (3) bekezdése
 
-## szerinti feladatokat.
+szerinti feladatokat.
 
 (2) A miniszter feladata az 1143/2014/EU európai parlamenti és tanácsi rendelet
 

@@ -14,6 +14,8 @@ b) 15. cikk (7) bekezdése szerinti hatósági ellenőrzések országos koordin�
 
 c)[^5] a 8. cikk (1) bekezdése szerinti ex situ engedélyezéssel
 
+kapcsolatos feladatokat.
+
 [^2]: A 2. § (1) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 164. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^3]: A 2. § (1) bekezdés a) pontját a 360/2019. (XII. 30.) Korm. rendelet 164. § (7) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^4]: A 2. § (2) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 164. § (7) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

@@ -1,5 +1,3 @@
-## kapcsolatos feladatokat.
-
 5. § (1) A nemzeti park igazgatóság közreműködik az 1143/2014/EU európai parlamenti és tanácsi rendelet
 
 a) 14. cikke szerinti korai észlelés felügyeleti rendszerével kapcsolatos adatgyűjtési és adatrögzítési feladatok végrehajtásában,

@@ -1,4 +1,4 @@
-## 4. §[^8] A természetvédelmi, környezetvédelmi, élelmiszerlánc-biztonsági és állategészségügyi, növény- és talajvédelmi, erdészeti, vadászati és halgazdálkodási feladatkörében eljáró megyei kormányhivatal (a továbbiakban: kormányhivatal), valamint az országos illetékességgel eljáró növénytermesztési hatóság, élelmiszerlánc-felügyeleti szerv, erdészeti hatóság, vadászati hatóság, halgazdálkodási hatóság és természetvédelmi hatóság – a hatáskörébe tartozó ügyekben – ellátja az 1143/2014/EU európai parlamenti és tanácsi rendelet
+4. §[^8] A természetvédelmi, környezetvédelmi, élelmiszerlánc-biztonsági és állategészségügyi, növény- és talajvédelmi, erdészeti, vadászati és halgazdálkodási feladatkörében eljáró vármegyei kormányhivatal (a továbbiakban: kormányhivatal), valamint az országos illetékességgel eljáró növénytermesztési hatóság, élelmiszerlánc-felügyeleti szerv, erdészeti hatóság, vadászati hatóság, halgazdálkodási hatóság és természetvédelmi hatóság – a hatáskörébe tartozó ügyekben – ellátja az 1143/2014/EU európai parlamenti és tanácsi rendelet
 
 a) 8. cikke szerinti engedélyezéssel,
 
@@ -16,4 +16,6 @@ g) 31. cikke szerinti eljárásokkal és
 
 h) 32. cikke szerinti engedélyezéssel
 
-[^8]: A 4. § nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 164. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+kapcsolatos feladatokat.
+
+[^8]: A 4. § nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 164. § (3) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 248. §-a szerint módosított szöveg.
