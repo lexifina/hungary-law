@@ -1,0 +1,1 @@
+A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 93. § 5. és 6. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 112. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
