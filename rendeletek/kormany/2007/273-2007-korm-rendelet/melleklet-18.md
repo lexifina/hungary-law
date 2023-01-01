@@ -1,10 +1,10 @@
 18. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez
 
-Erőművi üzleti terv független gazdasági szakértők által történő vizsgálata[^590]
+Erőművi üzleti terv független gazdasági szakértők által történő vizsgálata[^579]
 
 ## A VIZSGÁLAT KÖTELEZŐ TARTAMI ELEMEI
 
-I.[^591]
+I.[^580]
 
 ## A független gazdasági szakértőnek a következőkben ismertetett szempontoknak megfelelően kell vizsgálnia a benyújtott üzleti tervet. Különösen az alábbi szempontokra kell nagy figyelmet fordítani:
 
@@ -18,7 +18,7 @@ I.[^591]
 
 ## – A modellben használt makrogazdasági feltételezések és mutatók; infláció, kamatlábak, gazdasági növekedés és egyéb jelentősebb, a modellben hivatkozott mutatók helyessége.
 
-II. Finanszírozási struktúra és költségek[^592]
+II. Finanszírozási struktúra és költségek[^581]
 
 ## A független gazdasági szakértőnek vizsgálnia és ellenőriznie kell, hogy az előirányzott finanszírozási struktúrát megfelelően foglalták-e bele a modellbe és az üzleti tervbe. A kamatfizetésekre és a tőketörlesztésekre vonatkozó számításokat abból a szempontból kell vizsgálni, hogy helyesek-e és összhangban vannak-e a közölt feltételezésekkel.
 
@@ -40,11 +40,9 @@ II. Finanszírozási struktúra és költségek[^592]
 
 ## A tőkeráfordításokra vonatkozó terveket abból a szempontból kell vizsgálni, hogy következetesek-e, különös tekintettel az összes projektköltség 5%-át kitevő vagy azt meghaladó berendezésekre vonatkozó adatok mennyiségét illetően. Külön táblázatot kell biztosítani az importált és belföldről beszerzett berendezésekre vonatkozóan, és ennek a táblázatnak a devizahiteleket tartalmazó résszel való egyezőségét abból a szempontból kell vizsgálni, hogy megalapozott-e és következetes-e.
 
-III. Cash-flow-k és várható megtérülések[^593]
+III. Cash-flow-k és várható megtérülések[^582]
 
-A független gazdasági szakértőnek meg kell győződnie arról, hogy a nettó jelenérték és a belső megtérülési számítások helyesek-e, és hogy a vonatkozó végkövetkeztetések a projekt egészét tekintve ésszerűek-e.
-
-[^590]: A Vhr. 18. számú melléklet címe a 787/2021. (XII. 7.) Korm. rendelet 21. § 25. pontja szerint módosított szöveg.
-[^591]: A Vhr. 18. számú melléklet I. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 26. pontja szerint módosított szöveg.
-[^592]: A Vhr. 18. számú melléklet II. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 26. pontja szerint módosított szöveg.
-[^593]: A Vhr. 18. számú melléklet III. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 26. pontja szerint módosított szöveg.
+[^579]: A Vhr. 18. számú melléklet címe a 787/2021. (XII. 7.) Korm. rendelet 21. § 25. pontja szerint módosított szöveg.
+[^580]: A Vhr. 18. számú melléklet I. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 26. pontja szerint módosított szöveg.
+[^581]: A Vhr. 18. számú melléklet II. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 26. pontja szerint módosított szöveg.
+[^582]: A Vhr. 18. számú melléklet III. pontja a 787/2021. (XII. 7.) Korm. rendelet 21. § 26. pontja szerint módosított szöveg.
