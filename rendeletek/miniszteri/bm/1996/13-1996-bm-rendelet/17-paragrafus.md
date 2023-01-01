@@ -1,3 +1,3 @@
-## 16. §[^39]
+17. §[^40]
 
-[^39]: A 16. §-t a 67/2007. (XII. 28.) IRM rendelet 7. § (3) bekezdésének c) pontja hatályon kívül helyezte.
+[^40]: A 17. §-t a 41/2009. (IX. 15.) IRM rendelet 9. §-a hatályon kívül helyezte. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban nem lehet alkalmazni.

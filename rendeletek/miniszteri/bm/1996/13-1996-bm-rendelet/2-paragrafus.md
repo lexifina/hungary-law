@@ -1,5 +1,3 @@
-## 1. §[^1]
-
 ## A vízirendészeti feladatkörök
 
 ## 2. § A vízirendészet rendőri szervei:
@@ -40,7 +38,7 @@ e) együttműködve az illetékes hatóságokkal, részt vesznek a vízszennyez�
 
 f) ellátják:
 
-–[^10] a nemzetközi forgalomban közlekedő hajók és személyzetük határkikötőkben történő ellenőrzését a be- és kiléptetés során, együttműködve a Nemzeti Adó- és Vámhivatallal, valamint a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatallal,
+–[^10] a nemzetközi forgalomban közlekedő hajók és személyzetük határkikötőkben történő ellenőrzését a be- és kiléptetés során, együttműködve a Nemzeti Adó- és Vámhivatallal, valamint a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatallal,
 
 – a fontosabb vízi személy- és áruszállítások biztosítását,
 
@@ -58,7 +56,6 @@ k) közreműködnek az árvíz- és belvízveszély, valamint a vízminőségi k
 
 l)[^14] ismeretterjesztő tevékenységet fejtenek ki – az országos és helyi tapasztalatok felhasználásával – a hajózással összefüggő, valamint a víziközlekedési szabályok megszegésével elkövetett bűncselekmények és szabálysértések, a víziközlekedési balesetek és vízbefulladások megelőzése érdekében az állami és társadalmi szervezetek, egyesületek bevonásával.
 
-[^1]: Az 1. §-t az 58/2004. (X. 11.) BM rendelet 6. §-a hatályon kívül helyezte.
 [^2]: A 2. § a) pontját az 50/2012. (X. 11.) BM rendelet 9. § (1) bekezdés a) pontja hatályon kívül helyezte.
 [^3]: A 2. § c) pontja az 50/2012. (X. 11.) BM rendelet 1. § (1) bekezdésével megállapított, az 58/2016. (XII. 22.) BM rendelet 2. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § d) pontjának első franciabekezdése a 41/2009. (IX. 15.) IRM rendelet 8. §-a, az 50/2012. (X. 11.) BM rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
@@ -67,7 +64,7 @@ l)[^14] ismeretterjesztő tevékenységet fejtenek ki – az országos és helyi
 [^7]: A 2. § d) pontjának kilencedik gondolatjeles bekezdése az 58/2004. (X. 11.) BM rendelet 1. §-ának (3) bekezdésével megállapított szöveg.
 [^8]: A 2. § d) pontjának tizedik gondolatjeles bekezdése az 58/2004. (X. 11.) BM rendelet 1. §-ának (4) bekezdésével megállapított szöveg.
 [^9]: A 2. § d) pontjának 12. francia bekezdése a 28/1997. (IV. 15.) BM rendelet 1. §-ának (2) bekezdésével módosított szöveg.
-[^10]: A 2. § f) pontjának első franciabekezdése a 8/2008. (IV. 22.) IRM rendelet 3. § 16. pontja, a 41/2009. (IX. 15.) IRM rendelet 8. §-a, az 50/2012. (X. 11.) BM rendelet 7. § (1) bekezdés a) pontja, a 11/2015. (III. 31.) BM rendelet 1. §-a szerint módosított szöveg.
+[^10]: A 2. § f) pontjának első franciabekezdése a 8/2008. (IV. 22.) IRM rendelet 3. § 16. pontja, a 41/2009. (IX. 15.) IRM rendelet 8. §-a, az 50/2012. (X. 11.) BM rendelet 7. § (1) bekezdés a) pontja, a 11/2015. (III. 31.) BM rendelet 1. §-a, az 57/2022. (XII. 27.) BM rendelet 1. § a) pontja szerint módosított szöveg.
 [^11]: A 2. § g) pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 97. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
 [^12]: A 2. § i) pontja a 41/2009. (IX. 15.) IRM rendelet 8. §-a szerint módosított szöveg. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^13]: A 2. § j) pontját az 58/2004. (X. 11.) BM rendelet 6. §-a hatályon kívül helyezte.

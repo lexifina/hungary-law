@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-13-20-0
 | 2017-01-01 | 1996-13-20-0A.16 | 50/2012. (X. 11.) BM rendelet |
 | 2018-01-01 | 1996-13-20-0A.17 | 58/2004. (X. 11.) BM rendelet |
 | 2020-07-25 | 1996-13-20-0A.18 | 29/2020. (VII. 17.) BM rendelet |
+| 2023-01-01 | 1996-13-20-0A.19 | 8/2008. (IV. 22.) IRM rendelet |

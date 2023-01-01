@@ -1,3 +1,3 @@
-## 12/E. §[^31]
+12/F. §[^32]
 
-[^31]: A 12/E. §-t az 58/2004. (X. 11.) BM rendelet 5. §-a iktatta be, hatályon kívül helyezte a 44/2017. (XII. 29.) BM rendelet 1. §-a.
+[^32]: A 12/F. §-t az 58/2004. (X. 11.) BM rendelet 5. §-a iktatta be, hatályon kívül helyezte a 44/2017. (XII. 29.) BM rendelet 1. §-a.
