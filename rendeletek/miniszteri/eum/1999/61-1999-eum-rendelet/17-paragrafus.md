@@ -4,7 +4,7 @@ a) a hatálybalépés napján már meglévő munkahelyek esetén legkésőbb 200
 
 b) a hatálybalépés napját követően létesített munkahelyek esetén legkésőbb 2000. december 31. napjáig
 
-## kell bevezetni.
+kell bevezetni.
 
 (2)[^25] E rendelet
 
@@ -15,6 +15,8 @@ b) a munkájuk során biológiai anyagokkal kapcsolatos kockázatoknak kitett mu
 c)[^26] a 2000/54/EK európai parlamenti és tanácsi irányelv III. mellékletének a SARS-CoV-2 vírusnak az emberek számára tudvalevőleg fertőző betegségeket okozó biológiai anyagok listájára való felvétele tekintetében történő módosításáról és az (EU) 2019/1833 bizottsági irányelv módosításáról szóló, 2020. június 3-i 2020/739 bizottsági irányelvnek
 
 d)[^27] a 2000/54/EK európai parlamenti és tanácsi irányelv I., III., V. és VI. mellékletének tisztán technikai kiigazítások tekintetében történő módosításáról szóló, 2019. október 24-i 2019/1833 bizottsági irányelvnek
+
+való megfelelést szolgálja.
 
 [^25]: A 17. § (2) bekezdése a 18/2007. (V. 10.) SZMM rendelet 12. § (13) bekezdésével megállapított szöveg.
 [^26]: A 17. § (2) bekezdés c) pontját a 40/2020. (XI. 4.) ITM rendelet 1. §-a iktatta be.

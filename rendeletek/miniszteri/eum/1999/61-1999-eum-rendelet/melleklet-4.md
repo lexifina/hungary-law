@@ -1,6 +1,6 @@
 4. számú melléklet a 61/1999. (XII. 1.) EüM rendelethez[^31]
 
-## Védelmi intézkedésekre és szintekre vonatkozó jelzések
+Védelmi intézkedésekre és szintekre vonatkozó jelzések
 
 |  | A | B | C |
 

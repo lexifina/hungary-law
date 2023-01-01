@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-61-20-0
 | 2020-06-30 | 1999-61-20-0B.9 | 27/2010. (XII. 30.) NGM rendelet |
 | 2020-11-05 | 1999-61-20-0B.10 | 40/2020. (XI. 4.) ITM rendelet |
 | 2021-07-27 | 1999-61-20-0B.11 | 32/2021. (VII. 26.) ITM rendelet |
+| 2023-01-01 | 1999-61-20-0B.12 | 62/2016. (XII. 29.) NGM rendelet |

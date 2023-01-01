@@ -12,7 +12,7 @@ bb) 3. csoportba tartozó biológiai tényezőkkel legalább a 3. fokozatú,
 
 bc) 4. csoportba tartozó biológiai tényezőkkel legalább a 4. fokozatú
 
-## védelmi szintnek megfelelő munkahelyen, illetve tevékenységi helyen végezhető.
+védelmi szintnek megfelelő munkahelyen, illetve tevékenységi helyen végezhető.
 
 (2)[^23] Azon laboratóriumban, ahol olyan anyagokkal dolgoznak, amelyeknél bizonytalan, hogy tartalmaznak-e emberi megbetegedést okozó biológiai tényezőket, de nem céljuk a biológiai tényezők tenyésztése vagy koncentrálása, legalább a 2. fokozatú védelmi szintet kell alkalmazni azzal, hogy a tevékenység jellegétől függően a 3. vagy 4. szint bevezetése is szükséges lehet. A munkáltató megkeresésére a munkavédelmi hatóság indokolt esetben, szükség szerint a népegészségügyi feladatkörében eljáró járási hivatal véleményének figyelembevételével a 3. vagy 4. szintnél alacsonyabb védelmi szintet is engedélyezhet.
 

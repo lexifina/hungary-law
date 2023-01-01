@@ -1,12 +1,10 @@
-## A BIOLÓGIAI VESZÉLY JELE
-
 ## Sárga alapon fekete rajz
 
 ## [Lásd: 2/1998. (I. 16.) MüM rendelet a munkahelyi egészségvédelmi és biztonsági jelzésekről]
 
 3. számú melléklet a 61/1999. (XII. 1.) EüM rendelethez[^30]
 
-## Biológiai tényezők csoportba való sorolása
+Biológiai tényezők csoportba való sorolása
 
 1. A jogszabály céljának megfelelően kizárólag azon tényezőket kell felvenni a besorolási listára, amelyekről ismeretes, hogy az embert megfertőzik. Adott esetben fel van tüntetve az említett tényezők toxikus és allergizáló hatása. Ki vannak zárva az olyan állati és növényi kórokozók, amelyekről ismeretes, hogy nem hatnak az emberre. A besorolt biológiai tényezők ezen listájának összeállításakor a genetikailag módosított mikroorganizmusok nem kerültek figyelembevételre.
 
@@ -978,25 +976,45 @@ Az ilyen munkavállalók többletkockázatát a jogszabály által előírt kock
 
 13.1.2. ** Lásd jelen melléklet 8. pontját.
 
-13.1.3. (a) Kullancs hordozta encephalitis.
+13.1.3.
 
-13.1.4. (b) A hepatitis D vírus csak a hepatitis B vírus okozta egyidejű, illetve másodlagos fertőzés jelenléte mellett válik kórokozóvá a munkavállalókban. Ebből következik, hogy a hepatitis B vírus elleni védőoltás védelmet biztosít a hepatitis D vírus (Delta) ellen azon munkavállalóknak, akik a hepatitis B vírus által nem érintettek.
+(a) Kullancs hordozta encephalitis.
 
-13.1.5. (c) Csak az A és B típusok esetében.
+13.1.4.
 
-13.1.6. (d) Az ilyen anyagokkal való közvetlen érintkezéssel járó munkavégzés esetén ajánlott.
+(b) A hepatitis D vírus csak a hepatitis B vírus okozta egyidejű, illetve másodlagos fertőzés jelenléte mellett válik kórokozóvá a munkavállalókban. Ebből következik, hogy a hepatitis B vírus elleni védőoltás védelmet biztosít a hepatitis D vírus (Delta) ellen azon munkavállalóknak, akik a hepatitis B vírus által nem érintettek.
 
-13.1.7. (e) Kétfajta vírus azonosított: az egyik egy bivalyhimlő-típusú vírus, a másik a Vaccinia vírus egy variánsa.
+13.1.5.
 
-13.1.8. (f) A tehénhimlővírus variánsa.
+(c) Csak az A és B típusok esetében.
 
-13.1.9. (g) A Vaccinia vírus variánsa.
+13.1.6.
 
-13.1.10. (h) Jelenleg nincs bizonyíték arra, hogy más, majomból származó retrovírus megbetegedést okozna emberben. Elővigyázatosságként 3. biztonsági szint ajánlott a velük folytatott munka során.
+(d) Az ilyen anyagokkal való közvetlen érintkezéssel járó munkavégzés esetén ajánlott.
 
-13.1.11. (i) Az osztályozás alapja a vad poliovírusok típusspecifikus felszámolását és a szájon át alkalmazott poliovírus védőoltás fokozatos megszüntetését követően a poliovírussal összefüggő kockázatok minimalizálására vonatkozó WHO globális cselekvési terv.
+13.1.7.
 
-13.1.12. (j) 16. § (2) bekezdésével összhangban a SARS-CoV-2 vírust érintő nem propagatív diagnosztikai laboratóriumi munkát legalább a 2. biztonsági szinttel egyenértékű eljárásokat alkalmazó létesítményben kell végezni. A SARS-CoV-2 vírust érintő propagatív munkát olyan 3. biztonsági szintű laboratóriumban kell végezni, amelyben a légnyomás kisebb a külső környezeti légnyomásnál.
+(e) Kétfajta vírus azonosított: az egyik egy bivalyhimlő-típusú vírus, a másik a Vaccinia vírus egy variánsa.
+
+13.1.8.
+
+(f) A tehénhimlővírus variánsa.
+
+13.1.9.
+
+(g) A Vaccinia vírus variánsa.
+
+13.1.10.
+
+(h) Jelenleg nincs bizonyíték arra, hogy más, majomból származó retrovírus megbetegedést okozna emberben. Elővigyázatosságként 3. biztonsági szint ajánlott a velük folytatott munka során.
+
+13.1.11.
+
+(i) Az osztályozás alapja a vad poliovírusok típusspecifikus felszámolását és a szájon át alkalmazott poliovírus védőoltás fokozatos megszüntetését követően a poliovírussal összefüggő kockázatok minimalizálására vonatkozó WHO globális cselekvési terv.
+
+13.1.12.
+
+(j) 16. § (2) bekezdésével összhangban a SARS-CoV-2 vírust érintő nem propagatív diagnosztikai laboratóriumi munkát legalább a 2. biztonsági szinttel egyenértékű eljárásokat alkalmazó létesítményben kell végezni. A SARS-CoV-2 vírust érintő propagatív munkát olyan 3. biztonsági szintű laboratóriumban kell végezni, amelyben a légnyomás kisebb a külső környezeti légnyomásnál.
 
 14. A FERTŐZŐ SZIVACSOS AGYVELŐBÁNTALOMHOZ KAPCSOLÓDÓ ANYAGOK
 
@@ -1020,7 +1038,9 @@ Az ilyen munkavállalók többletkockázatát a jogszabály által előírt kock
 
 14.1.1. ** Lásd jelen melléklet 8. pontját.
 
-14.1.2. (a) Az állatokban előforduló egyéb TSE-ket előidéző anyagok okozta fertőzések emberben történő előfordulására nincsen bizonyíték. Ennek ellenére a 3.** kockázati csoportba sorolt anyagokra megállapított biztonsági intézkedések ajánlottak elővigyázatossági intézkedésként a laboratóriumi munka esetében, a scrapie (surlókór) azonosított anyagával folytatott laboratóriumi munka kivételével, amikor a 2. szintű elkülönítés elégséges.
+14.1.2.
+
+(a) Az állatokban előforduló egyéb TSE-ket előidéző anyagok okozta fertőzések emberben történő előfordulására nincsen bizonyíték. Ennek ellenére a 3.** kockázati csoportba sorolt anyagokra megállapított biztonsági intézkedések ajánlottak elővigyázatossági intézkedésként a laboratóriumi munka esetében, a scrapie (surlókór) azonosított anyagával folytatott laboratóriumi munka kivételével, amikor a 2. szintű elkülönítés elégséges.
 
 15. PARAZITÁK
 

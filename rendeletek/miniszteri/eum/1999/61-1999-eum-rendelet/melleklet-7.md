@@ -14,7 +14,7 @@
 
 | 7. | Munkavégzés helye |  |
 
-| 8. | Megye (Munkavégzés helye alapján) |  |
+| 8. | Vármegye (Munkavégzés helye alapján) |  |
 
 | 9. | Munkáltató neve |  |
 
@@ -54,11 +54,13 @@
 
 Foglalkozási-egészségügyi szolgálat (FESZ) orvosa által végzett védőoltások bejelentése
 
+3X11866M_61_1999_Eüm_7_m_3.docx
+
 | 1. | Bejelentés dátuma |  |
 
 | 2. | Adatszolgáltatás éve |  |
 
-|  | 3. |  | Megye | (Bejelentő | FESZ | orvos | székhelye alapján) |  |
+| 3. | Vármegye (Bejelentő FESZ orvos székhelye alapján) |  |
 
 | 4. | FESZ név |  |
 
@@ -102,4 +104,4 @@ PH.
 
 aláírás
 
-[^34]: A 7. számú mellékletet a 62/2016. (XII. 29.) NGM rendelet 51. § (5) bekezdése iktatta be.
+[^34]: A 7. számú mellékletet a 62/2016. (XII. 29.) NGM rendelet 51. § (5) bekezdése iktatta be, szövege a 28/2022. (XII. 30.) GFM rendelet 6. § b) pontja szerint módosított szöveg.

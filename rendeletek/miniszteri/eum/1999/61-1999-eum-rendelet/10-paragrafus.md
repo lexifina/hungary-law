@@ -6,7 +6,7 @@ a) a biológiai tényezőkkel végzett munka során történt baleset vagy súly
 
 b) a 4. csoportba tartozó biológiai tényezővel végzett munka
 
-## esetén követendő előírásokat.
+esetén követendő előírásokat.
 
 (2) A munkavállaló köteles munkahelyi vezetőjének vagy a munkahelyen a biztonságért és egészségvédelemért felelős személynek azonnal jelenteni minden olyan balesetet vagy zavart, amely a biológiai tényező kezelésével kapcsolatos.
 
