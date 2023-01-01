@@ -50,21 +50,21 @@
 
 ÁLLATORVOSI IGAZOLÁS MÉHCSALÁDOK ÁLLATEGÉSZSÉGÜGYI VIZSGÁLATÁRÓL*
 
-(Szigorú számadású nyomtatvány)
+## (Szigorú számadású nyomtatvány)
 
-SORSZÁM: 00000000
+## SORSZÁM: 00000000
 
-........................................................... Megyei Kormányhivatal
+## ........................................................... Vármegyei Kormányhivatal
 
-...............................................................................................................................................................
+## ...............................................................................................................................................................
 
-ÁLLATORVOSI IGAZOLÁS MÉHCSALÁDOK ÁLLATEGÉSZSÉGÜGYI VIZSGÁLATÁRÓL*
+## ÁLLATORVOSI IGAZOLÁS MÉHCSALÁDOK ÁLLATEGÉSZSÉGÜGYI VIZSGÁLATÁRÓL*
 
-Igazolom, hogy .................................................................... méhész ................................................................................. lakos ................................................................................................................................. község, utca, házszám, dűlő stb. területen ........................................................................ rendszerű kaptárban elhelyezett ........................................ darab méhcsaládját fertőző és parazitás méhbetegségek szempontjából megvizsgáltam és egészségesnek találtam. A méhcsaládok elszállításának állategészségügyi szempontból akadálya nincs.
+## Igazolom, hogy .................................................................... méhész ................................................................................. lakos ................................................................................................................................. község, utca, házszám, dűlő stb. területen ........................................................................ rendszerű kaptárban elhelyezett ........................................ darab méhcsaládját fertőző és parazitás méhbetegségek szempontjából megvizsgáltam és egészségesnek találtam. A méhcsaládok elszállításának állategészségügyi szempontból akadálya nincs.
 
-Ez az igazolás a kiállítástól számított 7 napig, méhek vándoroltatása esetén, annak egész időtartamára érvényes.
+## Ez az igazolás a kiállítástól számított 7 napig, méhek vándoroltatása esetén, annak egész időtartamára érvényes.
 
-Kelt ..........................., 20...... év .................... hó ........... nap.
+## Kelt ..........................., 20...... év .................... hó ........... nap.
 
 |  | ................................................. |
 
@@ -78,4 +78,4 @@ __________
 
 * Vándorlásra jogosító igazolás.
 
-[^45]: A 2. számú melléklet a 151/2012. (XII. 29.) VM rendelet 18. § b) pontja, a 70/2013. (VII. 13.) VM rendelet 26. § (2) bekezdés k) pontja, a 69/2017. (XII. 27.) FM rendelet 8. § e) pontja, 9. §-a szerint módosított szöveg.
+[^45]: A 2. számú melléklet a 151/2012. (XII. 29.) VM rendelet 18. § b) pontja, a 70/2013. (VII. 13.) VM rendelet 26. § (2) bekezdés k) pontja, a 69/2017. (XII. 27.) FM rendelet 8. § e) pontja, 9. §-a, a 76/2022. (XII. 27.) AM rendelet 1. § d) pontja szerint módosított szöveg.

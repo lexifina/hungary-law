@@ -8,9 +8,9 @@
 
 (4) A varroózis gyógykezelésére csak olyan, Magyarországon törzskönyvezett és forgalomba hozatalra engedélyezett állatgyógyászati készítmény használható, ami a varroózis kezelésére vonatkozó, magyar nyelvű használati útmutatót tartalmaz.
 
-(5)[^41] A megyei kormányhivatal irányítja, és időszakosan ellenőrzi a méhészek védekezési tevékenységét. Hiányosságok esetén intézkedik azok megszüntetéséről, továbbá – indokolt esetben – előírhatja az adott terület összehangolt, egyidejű gyógykezelését.
+(5)[^41] A vármegyei kormányhivatal irányítja, és időszakosan ellenőrzi a méhészek védekezési tevékenységét. Hiányosságok esetén intézkedik azok megszüntetéséről, továbbá – indokolt esetben – előírhatja az adott terület összehangolt, egyidejű gyógykezelését.
 
 (6)[^42] Elhanyagolt védekezés esetén – ha az állományban az atka feldúsult és a méhész az előírt védekezést nem hajtotta végre – a hatósági állatorvos a szomszédos méhállományok fertőződésének megakadályozása céljából kötelezi a méhészt a gyógykezelés haladéktalan elvégzésére. Ha a méhész a gyógykezelést nyolc munkanapon belül sem kezdi meg, akkor a járási hivatal a méhállományt állami kártalanítás nélkül leöleti.
 
-[^41]: A 39. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 48. § d) pontja szerint módosított szöveg.
+[^41]: A 39. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 48. § d) pontja, a 76/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^42]: A 39. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 48. § a) pontja szerint módosított szöveg.
