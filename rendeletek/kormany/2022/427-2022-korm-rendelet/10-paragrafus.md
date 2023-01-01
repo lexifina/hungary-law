@@ -8,7 +8,7 @@ b) a katasztrófák elleni védekezésért felelős miniszter által kijelölt v
 
 c) a védelmi és biztonsági igazgatás központi szervének vezetőjét,
 
-d) a területi védelmi bizottság illetékességi területén működő rendvédelmi szerv megyei vezetőit, a nemzetbiztonsági védelem alá eső szerv és létesítmény biztonsági védelméért felelős szerv területi vezetőjét, kivéve, ha tagja a területi védelmi bizottságnak,
+d)[^8] a területi védelmi bizottság illetékességi területén működő rendvédelmi szerv vármegyei vezetőit, a nemzetbiztonsági védelem alá eső szerv és létesítmény biztonsági védelméért felelős szerv területi vezetőjét, kivéve, ha tagja a területi védelmi bizottságnak,
 
 e) az Országos Idegenrendészeti Főigazgatóság területileg illetékes vezetőjét, kivéve, ha tagja a területi védelmi bizottságnak,
 
@@ -23,3 +23,5 @@ i) a területi illetékességébe tartozó helyi védelmi bizottság elnökét, 
 j) az a)–i) pont szerinti vezető által kijelölt képviselőt.
 
 (3) A (2) bekezdésben meghatározott személyen kívül a területi védelmi bizottság elnöke meghívja azt, akinek a területi védelmi bizottság ülésén való jelenlétét indokoltnak tartja.
+
+[^8]: A 10. § (2) bekezdés d) pontja a 22. § (1) bekezdése szerint módosított szöveg.
