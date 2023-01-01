@@ -1,6 +1,6 @@
 2. melléklet a 29/2022. (I. 31.) Korm. rendelethez
 
-## Egyedi közszolgáltatási megállapodás alapján nyújtani tervezett szolgáltatások és a szolgáltatások igénybevételére kötelezett szervek
+Egyedi közszolgáltatási megállapodás alapján nyújtani tervezett szolgáltatások és a szolgáltatások igénybevételére kötelezett szervek
 
 1. A Szolgáltatóközpont által nyújtott egészséginformatikai szolgáltatások
 
@@ -16,7 +16,7 @@ e) egészséginformatikai információbiztonsági szolgáltatások
 
 2. Az 1. pont szerinti szolgáltatások igénybevételére kötelezett szervek
 
-a)[^2] Belügyminisztérium
+a)[^17] Belügyminisztérium
 
 b) Nemzeti Egészségbiztosítási Alapkezelő
 
@@ -34,4 +34,4 @@ h) közfinanszírozott állami fenntartású fekvőbeteg-szakellátó intézmén
 
 i) közfinanszírozott állami fenntartású járóbeteg-szakellátó intézmények
 
-[^2]: A 2. melléklet 2. pont a) alpontja a 238/2022. (VI. 30.) Korm. rendelet 219. §-a szerint módosított szöveg.
+[^17]: A 2. melléklet 2. pont a) alpontja a 238/2022. (VI. 30.) Korm. rendelet 219. §-a szerint módosított szöveg.
