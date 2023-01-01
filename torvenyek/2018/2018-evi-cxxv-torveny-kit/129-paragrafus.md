@@ -1,6 +1,6 @@
 ### 129. § [A szabadság kiadása]
 
-(1) A szabadságot az esedékességének évében kell kiadni és kivenni.
+(1) A szabadságot – a 155. § (4)–(6) bekezdése szerinti pótszabadság, valamint a 156/A. § szerinti szabadság kivételével – az esedékességének évében kell kiadni és kivenni.
 
 (2) A munkáltatói jogkör gyakorlója
 
@@ -24,11 +24,11 @@ nem biztosítható.
 
 (5) A szabadság felével a kormánytisztviselő rendelkezik.
 
-(6) A pótszabadság – a 155. § (4)–(6) bekezdése szerinti pótszabadság kivételével – abban az esetben adható ki és vehető igénybe, ha az alapszabadság már kiadásra került.
+(6) A pótszabadság – a 155. § (4)–(6) bekezdése, valamint a 156/A. § szerinti pótszabadság kivételével – abban az esetben adható ki és vehető igénybe, ha az alapszabadság már kiadásra került.
 
 (7) A munkáltatói jogkör gyakorlója a kormánytisztviselőt – a (3) bekezdésben foglaltakra figyelemmel – megfelelő időn belül tájékoztatja a még igénybe nem vett szabadság mértékéről és az igénybevétel lehetőségének határidejéről.
 
-(8) A munkáltatói jogkör gyakorlója a kormánytisztviselő már megkezdett szabadságát kivételesen fontos érdekből megszakíthatja. Ebben az esetben a szabadság alatti tartózkodási helyről a munkahelyre, illetve a visszautazással, valamint a munkával töltött idő a szabadságba nem számít be. A kormánytisztviselőnek a megszakítással összefüggésben felmerült kárát, illetve költségeit a kormányzati igazgatási szerv köteles megtéríteni.
+(8) A munkáltatói jogkör gyakorlója a kormánytisztviselő már megkezdett szabadságát – a 156/A. § szerinti szabadság kivételével – kivételesen fontos érdekből megszakíthatja. Ebben az esetben a szabadság alatti tartózkodási helyről a munkahelyre, illetve a visszautazással, valamint a munkával töltött idő a szabadságba nem számít be. A kormánytisztviselőnek a megszakítással összefüggésben felmerült kárát, illetve költségeit a kormányzati igazgatási szerv köteles megtéríteni.
 
 (9) A szabadság kiadásánál a munkarend (munkaidő-beosztás) szerinti munkanapokat kell figyelembe venni.
 
@@ -38,7 +38,7 @@ nem biztosítható.
 
 (12) A szabadság megváltásával kapcsolatos kormánytisztviselői igény elévülése a kormányzati szolgálati jogviszony megszűnésének napján kezdődik.
 
-(13) A kormányzati szolgálati jogviszony megszűnése és megszüntetése esetén, ha a munkáltatói jogkör gyakorlója az arányos szabadságot nem adta ki, az arányos szabadságot (ha a kormánytisztviselőnek van fennmaradó szabadsága) a jogviszony megszűnését követő negyvenedik napon kell megváltani.
+(13) A kormányzati szolgálati jogviszony megszűnése és megszüntetése esetén, ha a munkáltatói jogkör gyakorlója az arányos szabadságot – a 156/A. § szerinti szabadság kivételével – nem adta ki, az arányos szabadságot (ha a kormánytisztviselőnek van fennmaradó szabadsága) a jogviszony megszűnését követő negyvenedik napon kell megváltani.
 
 (14) Annak a kormánytisztviselőnek, akinek a munkaidő-beosztása nem biztosít hetenként két pihenőnapot, úgy kell számítani a szabadságát, hogy azonos naptári időszakra (hétre) mentesüljön a munkavégzés alól, mint az ötnapos munkahéttel dolgozók.
 

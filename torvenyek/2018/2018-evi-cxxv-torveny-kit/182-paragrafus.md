@@ -12,7 +12,7 @@ c) tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi olta
 
 d) nevelőszülői foglalkoztatási jogviszonyt létesítsen,
 
-e) sportszövetség vagy sportegyesület tisztségviselője legyen,
+e) hazai, külföldi vagy nemzetközi sportszövetség vagy sportegyesület, nemzetközi sportszervezet tagja, elnökségi tagja, vezető tisztségviselője vagy egyéb tisztségviselője legyen,
 
 f) hivatásos szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a honvédek jogállásáról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint szüneteljen.
 

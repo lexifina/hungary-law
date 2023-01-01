@@ -18,6 +18,8 @@ g) a hozzátartozó otthoni gondozása céljából kapott fizetés nélküli sza
 
 h) az unoka gondozása céljából igénybe vett fizetés nélküli szabadság
 
+i) a 93. § (2) bekezdés o) pontja és a 157/A. § szerinti mentesülés, továbbá a 156/A. § szerinti szabadság
+
 időtartama alatt.
 
 (2) Az (1) bekezdés szerinti védelem alkalmazása szempontjából a felmentés közlésének időpontja az irányadó.

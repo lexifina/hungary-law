@@ -16,7 +16,7 @@
 
 3. a kormányhivatalra vonatkozó gazdálkodási szabályokat;
 
-4. a járási hivatalok – kivéve a fővárosi kerületi hivatalok – székhelyeit, illetékességi területét, Pest megyében a megyeszékhely járási hivatal feladatait ellátó járási hivatalt, a fővárosban a megyeszékhely járási hivatal feladatait ellátó kerületi hivatalt;
+4. a járási hivatalok – kivéve a fővárosi kerületi hivatalok – székhelyeit, illetékességi területét, Pest vármegyében a vármegyeszékhely járási hivatal feladatait ellátó járási hivatalt, a fővárosban a vármegyeszékhely járási hivatal feladatait ellátó kerületi hivatalt;
 
 5. a járási hivatalok feladat- és hatásköreit, a kormányablakok illetékességi területét és működésük szabályait;
 
@@ -112,6 +112,14 @@ c) az állásportálokkal való együttműködési megállapodás tartalmi eleme
 
 33. az átalakulással létrejövő új kormányzati igazgatási szervnél foglalkoztatottak jogviszonyának átalakulásával kapcsolatos eljárási és egyéb átmeneti szabályait.
 
+34. a kormányzati szolgálati jogviszony létesítéséhez kapcsolódóan a kormánytisztviselőt terhelő kötelezettségeket,
+
+35. a munkáltatói jogkör gyakorlóját a kinevezéssel kapcsolatban és a kormányzati szolgálati jogviszony fennállása alatt a kinevezéstől eltérő ideiglenes foglalkoztatás megállapításával kapcsolatban terhelő kötelezettségekre vonatkozó részletes szabályokat,
+
+36. a részmunkaidőben történő foglalkoztatás lehetőségével összefüggő munkáltatói kötelezettségeket, valamint az atipikus foglalkoztatási formákhoz kapcsolódó tájékoztatási kötelezettségeket,
+
+37. az atipikus foglalkoztatási formára való áttérés kormánytisztviselő általi kezdeményezésére és a kérelem elbírálására vonatkozó szabályokat.
+
 (5)
 
 (6) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
@@ -142,4 +150,4 @@ c) az állásportálokkal való együttműködési megállapodás tartalmi eleme
 
 (14) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 296. § (8) bekezdése szerinti jövedelem számításának módját.
 
-(15) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a hatóság egészeként kizárt járási (fővárosi kerületi) hivatal helyett eljáró másik járási (fővárosi kerületi) hivatalt, illetve a hatóság egészeként kizárt fővárosi és megyei kormányhivatal helyett eljáró másik fővárosi és megyei kormányhivatalt.
+(15) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a hatóság egészeként kizárt járási (fővárosi kerületi) hivatal helyett eljáró másik járási (fővárosi kerületi) hivatalt, illetve a hatóság egészeként kizárt fővárosi és vármegyei kormányhivatal helyett eljáró másik fővárosi és vármegyei kormányhivatalt.

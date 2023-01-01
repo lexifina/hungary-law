@@ -30,7 +30,7 @@ j) az együttalkalmazási tilalommal és az összeférhetetlenséggel,
 
 k) a rendkívüli munkaidő, az ügyelet és a készenlét ellenértékével,
 
-l) az alap- és pótszabadsággal – ide nem értve a 128. § (8) bekezdése és a 155. § szerinti pótszabadságot –,
+l) az alap- és pótszabadsággal – ide nem értve a 128. § (8) bekezdése , a 155. § és a 156/A. § szerinti pótszabadságot –,
 
 m) a kinevezéstől eltérő foglalkoztatással,
 

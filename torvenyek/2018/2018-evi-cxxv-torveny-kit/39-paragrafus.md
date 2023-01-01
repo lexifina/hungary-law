@@ -10,4 +10,4 @@
 
 (3) A kormányhivatal szervezeti és működési szabályzatát a kormányhivatal irányítására kormányrendeletben kijelölt miniszter – szükség szerint a 40. § (2) bekezdése szerinti, a szakmai irányításban közreműködő miniszter véleményének kikérésével – normatív utasításban adja ki.
 
-(4) A megyei kormányhivatal székhelye a megyeszékhely városban, a fővárosi kormányhivatal és a Pest megyei kormányhivatal székhelye Budapesten van.
+(4) A vármegyei kormányhivatal székhelye a vármegyeszékhely városban, a fővárosi kormányhivatal és a Pest vármegyei kormányhivatal székhelye Budapesten van.

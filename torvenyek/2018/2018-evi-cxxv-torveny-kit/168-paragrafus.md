@@ -32,7 +32,7 @@ tárgyában.
 
 (8) A közszolgálati panasz beadására megállapított határidőt megtartottnak kell tekinteni, ha a Közszolgálati Döntőbizottsághoz intézett közszolgálati panaszt legkésőbb a határidő utolsó napján ajánlott küldeményként postára adták vagy elektronikus dokumentumban megküldték. Ha a fél a közszolgálati panasz beadására megállapított határidőt elmulasztja, igazolással élhet. Az igény hat hónap elteltével nem érvényesíthető.
 
-(9) A (2) bekezdés a) és e) pontjában foglalt munkáltatói intézkedés, továbbá a hivatalvesztés fegyelmi büntetést kiszabó fegyelmi határozat kivételével a közszolgálati panasz benyújtásának a munkáltatói intézkedés hatályosulására halasztó hatálya van.
+(9) A közszolgálati panasz benyújtásának a kártérítési ügyben és a sérelemdíj megfizetése ügyében hozott határozat, valamint a fizetési felszólítás munkáltatói intézkedés hatályosulására halasztó hatálya van.
 
 (10) A közszolgálati panaszt a Közszolgálati Döntőbizottság a beérkezéstől számított hatvan napon belül indokolással ellátott határozatban bírálja el és döntését írásban közli. Ezt a határidőt indokolt esetben a Közszolgálati Döntőbizottság egy alkalommal hatvan nappal meghosszabbíthatja.
 

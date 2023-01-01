@@ -2,17 +2,33 @@
 
 (1) Nem létesíthető kormányzati szolgálati jogviszony, ha a kormánytisztviselő hozzátartozójával irányítási (felügyeleti), ellenőrzési vagy elszámolási kapcsolatba kerülne.
 
-(2) A külpolitikáért felelős miniszter a külszolgálati hálózat és a tartós külszolgálat tekintetében, illetve az európai uniós ügyek koordinációjáért felelős miniszter a Magyarország Európai Unió melletti Állandó Képviselete (a továbbiakban: EU ÁK) tekintetében – ha jogszabály másként nem rendelkezik – az (1) bekezdésben foglalt tilalom alól különösen indokolt esetben felmentést adhat.
+(2) A külpolitikáért felelős miniszter a külszolgálati hálózat és a tartós külszolgálat tekintetében, illetve az európai uniós ügyek koordinációjáért felelős miniszter az EU ÁK tekintetében – ha jogszabály másként nem rendelkezik – az (1) bekezdésben foglalt tilalom alól különösen indokolt esetben felmentést adhat.
 
-(3) A kormánytisztviselő nem lehet helyi önkormányzati, nemzetiségi önkormányzati képviselő annál az önkormányzatnál, amely az őt alkalmazó kormányzati igazgatási szerv illetékességi területén működik.
+(3) A kormánytisztviselő nem lehet helyi önkormányzati képviselő annál az önkormányzatnál, amely az őt alkalmazó kormányzati igazgatási szerv illetékességi területén működik.
 
-(4) A kormányzati igazgatási szerv kormánytisztviselője nem lehet
+(4) A központi kormányzati igazgatási szerv kormánytisztviselője nem lehet
 
 a) helyi nemzetiségi önkormányzat elnöke, elnökhelyettese,
 
 b) országos nemzetiségi önkormányzat elnöke, elnökhelyettese, továbbá
 
 c) nemzetiségi önkormányzat képviselője.
+
+(4a) A központi kormányzati igazgatási szerv területi szervének kormánytisztviselője és a területi kormányzati igazgatási szerv kormánytisztviselője nem lehet
+
+a) országos nemzetiségi önkormányzat elnöke, elnökhelyettese, továbbá
+
+b) országos nemzetiségi önkormányzat képviselője,
+
+ha a kormánytisztviselő álláshelyi feladatai körébe az adott nemzetiségi önkormányzatot érintő ügyek tartoznak.
+
+(4b) A központi kormányzati igazgatási szerv területi szervének kormánytisztviselője és a területi kormányzati igazgatási szerv kormánytisztviselője nem lehet
+
+a) helyi nemzetiségi önkormányzat elnöke, elnökhelyettese, továbbá
+
+b) helyi nemzetiségi önkormányzat képviselője,
+
+ha a kormánytisztviselő álláshelyi feladatai körébe az adott nemzetiségi önkormányzatot érintő ügyek tartoznak és a kormányzati igazgatási szerv illetékessége a helyi nemzetiségi önkormányzatra kiterjed.
 
 (5) A kormánytisztviselő további munkavégzésre irányuló jogviszonyt, ideértve más keresőfoglalkoztatást, valamint díjazás ellenében folytatott tevékenységet is – a tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony és az állami projektértékelői jogviszony (a továbbiakban együtt: gyakorolható tevékenység), továbbá a közérdekű önkéntes tevékenység kivételével – kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet.
 

@@ -10,7 +10,7 @@ b) a kormányzati szolgálati jogviszony tartalmi elemeit meghatározó beosztá
 
 a) a kormányzati szolgálati jogviszony kezdetének napját,
 
-b) a kormányzati szolgálati jogviszony időtartamát,
+b) a kormányzati szolgálati jogviszony – határozott időre létesített kormányzati szolgálati jogviszony esetén a jogviszony 85. § (2) bekezdése figyelembevételével meghatározott – időtartamát,
 
 c) a kormánytisztviselő próbaidejének kezdő és befejező napját a (7) bekezdésben foglalt kivételekkel,
 
@@ -38,8 +38,12 @@ i) az álláshelyen ellátandó feladatok meghatározását.
 
 (7a) Ha a munkahelyváltásra a 89. § (6) bekezdése alapján a kormánytisztviselő próbaideje alatt kerül sor, vagy a kormánytisztviselő a korábbi kormányzati szolgálati jogviszonyának próbaidő alatti megszűnését, megszüntetését követő 30 napon belül új kormányzati szolgálati jogviszony létesít, az új kinevezésben illetve beosztási okiratban legfeljebb a próbaidő még hátralévő részének megfelelő időtartamú próbaidő köthető ki.
 
+(7b) A határozott idejű kormányzati szolgálati jogviszony meghosszabbítása esetén azonos vagy hasonló feladatkörben történő foglalkoztatás esetén újabb próbaidő nem köthető ki.
+
 (8) A próbaidő nem hosszabbítható meg.
 
 (9) A próbaidő alatt a kormányzati szolgálati jogviszonyt bármelyik fél indokolás nélkül, azonnali hatállyal megszüntetheti.
 
 (10) A három hónapnál rövidebb idejű kinevezés esetén a felek megállapodhatnak a próbaidő kikötéséről azzal, hogy a próbaidő legfeljebb a határozott idejű kinevezés időtartamának a fele lehet.
+
+(11) A próbaidő leghosszabb tartamát a (10) bekezdés alá nem tartozó, legfeljebb tizenkét hónapra létesített kormányzati szolgálati jogviszony esetén – a (7) bekezdésben foglaltak figyelembevételével – arányosan kell megállapítani. Ennek során a 129. § (19) bekezdését kell alkalmazni.

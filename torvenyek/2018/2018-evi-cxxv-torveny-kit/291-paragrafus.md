@@ -30,6 +30,6 @@ az irányadóak.
 
 (4)
 
-(5) Ahol jogszabály állami tisztviselőt, illetve állami ügykezelőt említ, azon az e törvény szerinti fővárosi és megyei kormányhivatal kormánytisztviselőjét kell érteni.
+(5) Ahol jogszabály állami tisztviselőt, illetve állami ügykezelőt említ, azon az e törvény szerinti fővárosi és vármegyei kormányhivatal kormánytisztviselőjét kell érteni.
 
 (6) Ahol jogszabály kormányzati főhivatal vagy központi hivatal vezetőjének illetménye tekintetében az államtitkárra vonatkozó szabályokat rendeli alkalmazni, a 244. § (1) bekezdésében, illetve a 247. § (1) bekezdésében foglaltakat kell irányadónak tekinteni.

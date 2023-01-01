@@ -1,6 +1,6 @@
 ### 128. § [A szabadság]
 
-(1) A kormánytisztviselőnek a munkában töltött idő alapján minden naptári évben 20 munkanap alapszabadság jár és az alapszabadságon felül évente a (3)–(8) bekezdésben és a 155. §-ban meghatározott pótszabadságot jogosult igénybe venni (a továbbiakban együtt: szabadság).
+(1) A kormánytisztviselőnek a munkában töltött idő alapján minden naptári évben 20 munkanap alapszabadság jár és az alapszabadságon felül évente a (3)–(8) bekezdésben és a 155. §-ban, valamint a 156/A. §-ban meghatározott pótszabadságot jogosult igénybe venni (a továbbiakban együtt: szabadság).
 
 (2) Az (1) bekezdésben foglaltakon túl szabadság jár a következő időszakok alapján:
 
@@ -14,7 +14,7 @@ d) a hozzátartozó ápolása miatt kapott harminc napot meg nem haladó fizeté
 
 e) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó időtartama,
 
-f) a 93. § (2) bekezdés a), b), h), j) és n) pontjában meghatározott esetek, valamint
+f) a 93. § (2) bekezdés a), b), h), j), n) és o) pontjában, valamint a 157/A. § (1) bekezdésében meghatározott esetek, valamint
 
 g) minden olyan munkában nem töltött idő, amelyre a kormánytisztviselő illetményre jogosult.
 

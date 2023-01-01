@@ -10,6 +10,8 @@
 
 2. alapvető munkáltatói jog: a kinevezés, jogviszony megszüntetés, fegyelmi és kártérítési eljárás, valamint sérelemdíj megfizetésére irányuló eljárás megindítása, fegyelmi büntetés, kártérítés, sérelemdíj, összeférhetetlenség megállapítása, kinevezés tartalmának módosítása;
 
+2a. apa: a Ptk. szerint szülői felügyelettel rendelkező apai jogállású férfi vagy örökbefogadó férfi,
+
 3. álláshely: a kormányzati igazgatásban rendelkezésre álló humánerőforrás feladatközpontú elosztásának eszköze;
 
 4. beosztás szerinti heti munkaidő: a hétre elrendelt rendes munkaidő;
@@ -22,7 +24,7 @@
 
 8. fogyatékkal élő gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra;
 
-9. gyermek: a családok támogatására vonatkozó szabályok szerinti saját háztartásban nevelt vagy gondozott gyermek;
+9. gyermek: a családok támogatásáról szóló törvény szerinti saját háztartásban nevelt vagy gondozott gyermek, ideértve, ha a különélő szülők a közös szülői felügyelet gyakorlásakor a gyermeket saját háztartásukban egymást felváltva, azonos időtartamban nevelik, gondozzák;
 
 10. gyermekét egyedül nevelő kormánytisztviselő: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált vagy házastársától külön él és nincs élettársa;
 

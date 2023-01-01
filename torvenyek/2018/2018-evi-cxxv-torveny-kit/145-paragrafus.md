@@ -16,7 +16,7 @@ illetménynek megfelelő összeg.
 
 (3) Az elismerésre jogosító idő megállapításánál
 
-a) az e törvény, a Kttv., a köztisztviselők jogállásáról szóló törvény, a kormánytisztviselők jogállásáról szóló törvény, az állami tisztviselőkről szóló törvény és a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény hatálya alá tartozó munkáltatónál munkaviszonyban, kormányzati szolgálati, közszolgálati, kormánytisztviselői, állami szolgálati és adó- és vámhatósági szolgálati jogviszonyban töltött időt,
+a) az e törvény, a Kttv., a Küt, a köztisztviselők jogállásáról szóló törvény, a kormánytisztviselők jogállásáról szóló törvény, az állami tisztviselőkről szóló törvény és a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény hatálya alá tartozó munkáltatónál munkaviszonyban, kormányzati szolgálati, közszolgálati, kormánytisztviselői, állami szolgálati és adó- és vámhatósági szolgálati jogviszonyban töltött időt,
 
 b) a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött időt,
 

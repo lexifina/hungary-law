@@ -1,6 +1,6 @@
 ### 77. § [Az MKK feladat- és hatásköre]
 
-(1) Az MKK a feladatait az országos, valamint a fővárosban és a megyékben (a továbbiakban együtt: területi szint) működő szervezete útján látja el.
+(1) Az MKK a feladatait az országos, valamint a fővárosban és a vármegyékben (a továbbiakban együtt: területi szint) működő szervezete útján látja el.
 
 (2)
 
@@ -50,7 +50,7 @@ r) megalkotja éves költségvetését, elfogadja az éves költségvetés végr
 
 s) ellátja mindazokat a feladatokat, amelyeket törvény vagy kormányrendelet az MKK számára meghatároz.
 
-(4) A fővárosi, megyei illetékességű kormányzati igazgatási szerv vezetője köteles kikérni a területi szinten működő MKK véleményét a kormánytisztviselők munkavégzésére, munka- és pihenőidejére, jutalmazására, valamint juttatásaira vonatkozó, a kormányzati igazgatási szerv vezetőjének hatáskörébe utalt szabályozásról. A területi szinten működő MKK jogosult véleményezni a kormánytisztviselők csoportját érintő fővárosi, megyei illetékességű kormányzati igazgatási szerv által hozott munkáltatói intézkedést vagy annak tervezetét, ezzel összefüggésben konzultációt kezdeményezni.
+(4) A fővárosi, vármegyei illetékességű kormányzati igazgatási szerv vezetője köteles kikérni a területi szinten működő MKK véleményét a kormánytisztviselők munkavégzésére, munka- és pihenőidejére, jutalmazására, valamint juttatásaira vonatkozó, a kormányzati igazgatási szerv vezetőjének hatáskörébe utalt szabályozásról. A területi szinten működő MKK jogosult véleményezni a kormánytisztviselők csoportját érintő fővárosi, vármegyei illetékességű kormányzati igazgatási szerv által hozott munkáltatói intézkedést vagy annak tervezetét, ezzel összefüggésben konzultációt kezdeményezni.
 
 (5) A kormányzati igazgatási szerv nem köteles tájékoztatást adni vagy konzultációt folytatni, ha ez olyan tény, információ, megoldás vagy adat nyilvánosságra kerülésével járhat, amely a közszolgálat érdekeit, illetve működését vagy a kormányzati igazgatási szerv jogos érdekeit, illetve működését veszélyeztetné.
 

@@ -9,3 +9,9 @@
 (4) A joggal való visszaélés hátrányos következményeit orvosolni kell.
 
 (5) Ha a joggal való visszaélés e törvény vagy e törvény végrehajtására kiadott jogszabály által megkívánt jognyilatkozat megtagadásában áll és ez a magatartás a közszolgálat nyomós érdekét vagy a másik fél különös méltánylást érdemlő érdekét sérti, a bíróság a jognyilatkozatot ítéletével pótolhatja, feltéve, hogy az érdeksérelem másképpen nem hárítható el.
+
+(6) A joggal való visszaélés tilalmának megsértésére alapított igény érvényesítése esetén
+
+a) az igény érvényesítője bizonyítja a tilalom megsértésének alapjául szolgáló tényt, körülményt és a hátrányt, és
+
+b) a jog gyakorlója bizonyítja, hogy az igény érvényesítője által bizonyított tény, körülmény és a hátrány között okozati összefüggés nem áll fenn.

@@ -28,4 +28,4 @@ c) a Szellemi Tulajdon Nemzeti Hivatala, és
 
 d)
 
-(4) Területi kormányzati igazgatási szervek a fővárosi és megyei kormányhivatalok (a továbbiakban együtt: kormányhivatal).
+(4) Területi kormányzati igazgatási szervek a fővárosi és vármegyei kormányhivatalok (a továbbiakban együtt: kormányhivatal).

@@ -38,7 +38,7 @@ d) jogviszonyváltással,
 
 e) illetménnyel,
 
-f) pótszabadsággal – ide nem értve a 128. § (8) bekezdése és a 155. § szerinti pótszabadságot –,
+f) pótszabadsággal – ide nem értve a 128. § (8) bekezdése, a 155. § és a 156/A. § szerinti pótszabadságot –,
 
 g) teljesítményértékeléssel,
 
