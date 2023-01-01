@@ -40,7 +40,7 @@ b) az adott építési beruházás, áru vagy szolgáltatás életciklusának va
 
 még akkor is, ha ezek érdemben nem határozzák meg az építési beruházás, áru vagy szolgáltatás végeredményének tulajdonságait.
 
-(8) Az adott építési beruházás, áru vagy szolgáltatás előállításának vagy nyújtásának folyamatához kapcsolódóan értékelhető különösen a munkanélküli vagy tartósan munkanélküliek – ideértve a megelőzően a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló törvényben meghatározott közfoglalkoztatási jogviszony, valamint az Európai Unió más tagállamában ahhoz hasonló jogviszony keretében foglalkoztatott természetes személyek nem közfoglalkoztatottként történő – foglalkoztatásának megajánlott mértéke, valamint az adott szerződés teljesítésének keretében munkanélküliek képzését célzó intézkedések végrehajtása.
+(8) Az adott építési beruházás, áru vagy szolgáltatás előállításának vagy nyújtásának folyamatához kapcsolódóan értékelhető különösen a álláskereső vagy tartósan álláskeresők – ideértve a megelőzően a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló törvényben meghatározott közfoglalkoztatási jogviszony, valamint az Európai Unió más tagállamában ahhoz hasonló jogviszony keretében foglalkoztatott természetes személyek nem közfoglalkoztatottként történő – foglalkoztatásának megajánlott mértéke, valamint az adott szerződés teljesítésének keretében álláskeresők képzését célzó intézkedések végrehajtása.
 
 (9) Ha az ajánlatkérő nem egyedüli értékelési szempontként alkalmazza a legalacsonyabb ár szempontját vagy a 78. § szerinti módszerrel meghatározva a legalacsonyabb költség szempontját, köteles meghatározni
 

@@ -6,7 +6,7 @@ a) azt az ajánlattételi, illetve részvételi határidő lejárta után nyújt
 
 b) az ajánlattevőt, részvételre jelentkezőt az eljárásból kizárták;
 
-c) ha az ajánlattevő vagy részvételre jelentkező alvállalkozója, vagy az alkalmasság igazolásában részt vevő szervezet a 62. § (1) bekezdés i) pontja, vagy az adott eljárásban felmerült magatartása alapján j) pontja szerinti kizáró ok miatt kizárásra került;
+c) az ajánlattevő vagy részvételre jelentkező alvállalkozója, vagy az alkalmasság igazolásában részt vevő szervezet a 62. § (1) bekezdés i), j) vagy o) pontja szerinti kizáró ok miatt kizárásra került és az ajánlattevő vagy részvételre jelentkező nem bizonyította, hogy a kizáró ok fennállásáról nem tudott, vagy arról az adott helyzetben általában elvárható gondosság mellett nem kellett tudomást szereznie, valamint a 62. § (1) bekezdés o) pontja szerinti esetben az előbbieken túl nem bizonyította, hogy a kizáró ok fennállása a részvételre jelentkezést, illetve az ajánlattételt nem befolyásolta;
 
 d) az ajánlattevő vagy részvételre jelentkező nem felel meg a szerződés teljesítéséhez szükséges alkalmassági követelményeknek, vagy nem igazolta megfelelően a követelményeknek való megfelelést;
 
@@ -33,3 +33,5 @@ a) azt az ajánlati kötöttség fennállása ellenére az ajánlattevő visszav
 b) az ajánlattevő az ajánlati biztosítékot határidőre nem vagy az előírt mértéknél kisebb összegben bocsátotta rendelkezésre;
 
 c) az ajánlatkérő az eljárást megindító felhívásban előre meghatározott egy olyan összeget, amelyet meghaladó árat vagy költséget tartalmazó ajánlatot a bírálat során érvénytelenné fog nyilvánítani, és az ajánlat ezen összeget meghaladja.
+
+(7) Az ajánlatkérő, az (1) bekezdés c) pontja szerinti esetben – felvilágosításkérés útján – köteles biztosítani annak lehetőségét, hogy az érintett ajánlattevő vagy részvételre jelentkező bizonyítsa, hogy nem tudott vagy az adott helyzetben általában elvárható gondosság mellett nem kellett tudomást szereznie az alvállalkozója, vagy az alkalmasság igazolásában részt vevő szervezet tekintetében a 62. § (1) bekezdés i), j) vagy o) pontja szerinti kizáró ok megvalósulásáról, valamint, hogy a 62. § (1) bekezdés o) pontja szerinti esetben a kizáró ok fennállása a részvételre jelentkezést, illetve az ajánlattételt nem befolyásolta.

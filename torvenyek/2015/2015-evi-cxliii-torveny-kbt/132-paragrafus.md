@@ -8,10 +8,10 @@
 
 a) a szerződésnek a 33. § szerinti szervezet – illetve az Európai Unió más tagállamának jogi rendelkezései szerint a 2014/24/EU irányelv 20. cikke szerinti szervezet – bevonásával történő teljesítése;
 
-b) az álláskeresők, hátrányos helyzetű munkavállalók, valamint munkanélküliek vagy fogvatartottak foglalkoztatása;
+b) az álláskeresők, hátrányos helyzetű munkavállalók, valamint álláskeresők vagy fogvatartottak foglalkoztatása;
 
 c) a családok támogatásáról szóló törvényben meghatározott gyermekgondozási támogatások valamelyikében részesülő személynek az ellátás folyósítása alatt, illetve az ellátás megszűnését követően, csecsemőgondozási díjban, örökbefogadói díjban és gyermekgondozási díjban részesülő személynek az ellátás megszűnését követően részmunkaidőben történő foglalkoztatása;
 
 d) az egyenlő bánásmód követelményének biztosítása érdekében teendő intézkedések előírása;
 
-e) az adott szerződés teljesítése keretében a teljesítésben részt vevő munkanélküliek vagy fiatalok számára a teljesítéshez szükséges készségekre vonatkozó képzés nyújtása.
+e) az adott szerződés teljesítése keretében a teljesítésben részt vevő álláskeresők vagy fiatalok számára a teljesítéshez szükséges készségekre vonatkozó képzés nyújtása.

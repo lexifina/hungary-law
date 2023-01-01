@@ -116,7 +116,7 @@ b) az a) pontban nem szereplő postai küldeményekhez, különösen címzés n�
 
 38. fejlesztő foglalkoztató: a szociális igazgatásról és a szociális ellátásokról szóló törvény 99/D. § (1) bekezdése szerinti szervezet;
 
-39. támogatás: a közbeszerzésre irányuló szerződés teljesítéséhez pénzeszköz vagy egyéb anyagi előny juttatása az ajánlatkérő részére, ide nem értve az adókedvezményt, a kezességvállalást, és az adózó a társasági adóról és az osztalékadóról szóló törvényben meghatározott célra nyújtott támogatását, valamint az adózó a társasági adóról és az osztalékadóról szóló törvényben meghatározott kedvezményezett célra történő felajánlását;
+39.
 
 40. tervpályázat: olyan jogszabályban részletesen szabályozott eljárás, amely lehetővé teszi az ajánlatkérő szerv számára – főként a település- és területrendezés, építészet és építés, adatfeldolgozás területén – olyan tervnek vagy tervrajznak a megszerzését, amelyet díjazásos vagy díjazás nélküli pályáztatás után egy bírálóbizottság választott ki;
 

@@ -8,9 +8,9 @@ b) az a) pont alá nem tartozó
 
 ba) azon beszerzésekre, amelyek esetében a közbeszerzési szabályok alkalmazása olyan információk átadására kötelezné Magyarországot, amelyek felfedése ellentétes az állam biztonságához fűződő alapvető érdekeivel,
 
-bb) olyan beszerzésekre, amelyek esetében Magyarország alapvető biztonsági, nemzetbiztonsági érdekei, a minősített adatok védelme vagy a szükséges különleges biztonsági intézkedések a közbeszerzési eljárásban előírható biztonsági intézkedésekkel nem garantálhatóak,
+bb) olyan beszerzésekre, amelyek esetében Magyarország alapvető biztonsági érdekei, a minősített adatok védelme vagy a szükséges különleges biztonsági intézkedések a közbeszerzési eljárás alóli mentesüléshez képest kisebb beavatkozással járó intézkedésekkel nem garantálhatóak,
 
-és amelyek megrendelésére az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében e törvény alkalmazása alól felmentést adott;
+és amelyek megrendelésére az Országgyűlés illetékes bizottsága jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében e törvény alkalmazása alól felmentést adott;
 
 c) nemzetközi megállapodásban vagy nemzetközi egyezményben meghatározott külön eljárás szerint történő beszerzésre, ha az Európai Unión kívüli állammal az Európai Unió Működéséről szóló Szerződésnek (a továbbiakban: EUMSZ) megfelelően kötött nemzetközi megállapodás vagy nemzetközi egyezmény projekt közös megvalósításával vagy hasznosításával összefüggő beszerzésre vonatkozik, azzal, hogy a nemzetközi megállapodás vagy nemzetközi egyezmény megkötéséről az Európai Bizottságot tájékoztatni kell;
 
