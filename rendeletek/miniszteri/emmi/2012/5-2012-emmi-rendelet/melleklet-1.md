@@ -14,6 +14,8 @@
 
 1.1.4. Nemzeti Színház Közhasznú Nonprofit Zrt. (Budapest)
 
+1.1.5.[^4] Pesti Magyar Színház – Ifjúsági és Családi Színház (Budapest)
+
 1.2. A Magyar Állammal közszolgáltatási szerződést kötött nemzeti színházművészeti szervezet:
 
 1.2.1. Csokonai Színház (Debrecen)
@@ -26,7 +28,7 @@
 
 1.2.5. Szegedi Nemzeti Színház (Szeged)
 
-1.2.6.[^4] Katona József Nemzeti Színház (Kecskemét)
+1.2.6.[^5] Kecskeméti Katona József Nemzeti Színház (Kecskemét)
 
 2. Nemzeti minősítésű táncművészeti szervezet:
 
@@ -35,6 +37,8 @@
 2.1.1. Hagyományok Háza (Magyar Állami Népi Együttes) (Budapest)
 
 2.1.2. Nemzeti Táncszínház Nonprofit Kft. (Budapest)
+
+2.1.3.[^6] Duna Művészegyüttes Nonprofit Kft. (Budapest)
 
 2.2. A Magyar Állammal közszolgáltatási szerződést kötött nemzeti táncművészeti szervezet:
 
@@ -48,7 +52,7 @@
 
 3.1.1. Nemzeti Filharmonikus Zenekar, Énekkar és Kottatár Nonprofit Kft. (Budapest)
 
-3.1.2.[^5] Concerto Akadémia Nonprofit Kft. (Budapest)
+3.1.2.[^7] Concerto Akadémia Nonprofit Kft. (Budapest)
 
 3.2. A Magyar Állammal közszolgáltatási szerződést kötött nemzeti zeneművészeti szervezet:
 
@@ -79,5 +83,7 @@
 [^1]: Az 1. melléklet a 43/2018. (XII. 18.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. melléklet 1.1.1. pontja a 31/2019. (XII. 14.) EMMI rendelet 1. §-a szerint módosított szöveg.
 [^3]: Az 1. melléklet 1.1.2. pontja a 31/2019. (XII. 14.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^4]: Az 1. melléklet 1. pont 1.2.6. alpontját a 31/2019. (XII. 14.) EMMI rendelet 1. §-a iktatta be, szövege a 3/2021. (I. 28.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^5]: Az 1. melléklet 3.1.2. pontját a 31/2019. (XII. 14.) EMMI rendelet 1. §-a iktatta be.
+[^4]: Az 1. melléklet 1. pont 1.1. alpont 1.1.5. pontját a 8/2022. (XII. 28.) KIM rendelet 1. §-a iktatta be.
+[^5]: Az 1. melléklet 1. pont 1.2. alpont 1.2.6. pontját a 31/2019. (XII. 14.) EMMI rendelet 1. §-a iktatta be, szövege a 8/2022. (XII. 28.) KIM rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet 2. pont 2.1. alpont 2.1.3. pontját a 8/2022. (XII. 28.) KIM rendelet 1. §-a iktatta be.
+[^7]: Az 1. melléklet 3.1.2. pontját a 31/2019. (XII. 14.) EMMI rendelet 1. §-a iktatta be.
