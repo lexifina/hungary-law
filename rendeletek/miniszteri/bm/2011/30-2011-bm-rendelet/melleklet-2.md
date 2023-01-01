@@ -18,6 +18,8 @@
 
 ## Az előállító helyiségben elhelyezett fogvatartott személytől, az alábbi letéti tárgyakat, fizetőeszközöket és értéket átvettem:
 
+## 1M28645_1
+
 | 1. | 9. |
 
 | 2. | 10. |
@@ -54,7 +56,9 @@
 
 | ..................................................... |
 
-2. melléklet a 30/2011. (IX. 22.) BM rendelethez[^158]
+2. melléklet a 30/2011. (IX. 22.) BM rendelethez[^177]
+
+1X05065_0
 
 | NYOMTATVÁNY az előállító helyiségben elhelyezett fogvatartott személy őrzésével és ellátásával kapcsolatos adatokról |
 
@@ -110,4 +114,4 @@
 
 | Az ideiglenes őri feladatok átadás-átvétele szigorú számadásos tevékenység! |
 
-[^158]: A 2. melléklet a 16/2021. (VI. 24.) BM rendelet 2. §-ával megállapított szöveg.
+[^177]: A 2. melléklet a 16/2021. (VI. 24.) BM rendelet 2. §-ával megállapított szöveg.

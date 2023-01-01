@@ -1,5 +1,3 @@
-## és a tájékoztatás tudomásulvételét a járművezetővel alá kell íratni.
-
 24/B. §[^47] (1) A vérminta és a – lehetőleg közel azonos időben végzett – vizeletminta-vétel végrehajtása iránt – a rendőri intézkedés megkezdését követően a legrövidebb időn belül – akkor kell intézkedni, ha a járművezető
 
 a) úgy nyilatkozott vagy adat merül fel arra, hogy az intézkedést megelőzően a vezetési képességre hátrányosan ható egyéb szert fogyasztott, vagy egészségi állapota miatt vele szemben hiteles mérőeszköz nem volt alkalmazható, és az ittasság érzékelhető külső jegyei alapján az alkoholfogyasztás gyanúja fennáll,

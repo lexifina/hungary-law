@@ -10,7 +10,7 @@ a) vezetéknevükön és rendfokozatukon, vagy
 
 b) rendfokozatuk megnevezésével és az „úr” – nők esetében az „asszony” vagy a „kisasszony” – szóval
 
-## szólítják meg.
+szólítják meg.
 
 (2) Az a rendőr, akit szolgálati elöljárója vagy feljebbvalója megszólít, „Parancs!” szóval jelentkezik.
 

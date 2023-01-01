@@ -1,16 +1,16 @@
-## 22/A. [^51] Kiemelt biztonsági intézkedés
+## 22/A. [^52] Kiemelt biztonsági intézkedés
 
 26/A. § (1) Kiemelt biztonsági intézkedés végrehajtását
 
 a) az országos rendőrfőkapitány,
 
-b)[^52] a bűnügyi országos rendőrfőkapitány-helyettes, a rendészeti országos rendőrfőkapitány-helyettes, valamint a műveleti országos rendőrfőkapitány-helyettes,
+b)[^53] a bűnügyi országos rendőrfőkapitány-helyettes, a rendészeti országos rendőrfőkapitány-helyettes, valamint a műveleti országos rendőrfőkapitány-helyettes,
 
 c) illetékességi területén a rendőrfőkapitány, továbbá
 
 d) a hatáskörük szerint ellátott speciális feladatok végrehajtása során a Repülőtéri Rendőr Igazgatóság igazgatója, a Készenléti Rendőrség parancsnoka vagy a Terrorelhárítási Központ főigazgatója
 
-## rendelheti el.
+rendelheti el.
 
 (2) Ha a kiemelt biztonsági intézkedést nem az országos rendőrfőkapitány vagy a Terrorelhárítási Központ főigazgatója rendeli el, az elrendelő az elrendelésről haladéktalanul jelentést tesz az országos rendőrfőkapitánynak.
 
@@ -22,11 +22,11 @@ a) az elrendelő személy, vagy
 
 b) – a Terrorelhárítási Központ főigazgatója által elrendelt kiemelt biztonsági intézkedés kivételével – az országos rendőrfőkapitány
 
-## dönt.
+dönt.
 
 (5) A kiemelt biztonsági intézkedés elrendeléséről, meghosszabbításáról, illetve fenntartásáról és az azzal érintett településről vagy településrészéről a döntést hozó személy az általános rendőrségi feladatok ellátására létrehozott szerv, illetve – a Terrorelhárítási Központ főigazgatójának részéről történt döntéshozatal esetén – a Terrorelhárítási Központ internetes honlapján haladéktalanul közleményben tájékoztatja az érintett terület lakosságát.
 
 (6) Az (5) bekezdésben meghatározott közleményben foglalt adatokról az ott megjelölt személy a kiemelt biztonsági intézkedéssel érintett település jegyzőjét haladéktalanul tájékoztatja.
 
-[^51]: A 22/A. alcímet (26/A. §) a 29/2016. (VII. 15.) BM rendelet 6. §-a iktatta be.
-[^52]: A 26/A. § (1) bekezdés b) pontja az 50/2016. (XII. 14.) BM rendelet 8. §-ával megállapított szöveg.
+[^52]: A 22/A. alcímet (26/A. §) a 29/2016. (VII. 15.) BM rendelet 6. §-a iktatta be.
+[^53]: A 26/A. § (1) bekezdés b) pontja az 50/2016. (XII. 14.) BM rendelet 8. §-ával megállapított szöveg.

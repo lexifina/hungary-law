@@ -1,14 +1,16 @@
-97/B. § (1) Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában a külföldi rendészeti feladatokat ellátó hatóság szolgálati lőfegyvereinek, lőszereinek szolgálati célból Magyarország területére történő behozatalát
+97/B. § (1)[^151] Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában a külföldi rendészeti feladatokat ellátó hatóság szolgálati lőfegyvereinek, lőszereinek szolgálati célból Magyarország területére történő behozatalát
 
-a) az általános rendőrségi feladatok ellátására létrehozott szerv központi szervének, az egyes feladatok ellátására létrehozott rendőri szerv vagy a megyei (fővárosi) rendőr-főkapitányság,
+a) az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve,
 
 b) a Nemzeti Védelmi Szolgálat vagy
 
 c) a Terrorelhárítási Központ
 
-vezetője írásban engedélyezi. Az engedélyt annak a rendőri szervnek a vezetője – a rendőrkapitányság és határrendészeti kirendeltség vonatkozásában a megyei, fővárosi rendőrfőkapitány – adja ki, amely rendőri szerv feladatellátásához a külföldi rendészeti feladatokat ellátó hatóság magyarországi tevékenysége kapcsolódik.
+vezetője írásban engedélyezi.
 
-(2) Ha az engedélyezési hatáskör az (1) bekezdés alapján nem állapítható meg, a behozatalt az általános rendőrségi feladatok ellátására létrehozott szerv központi szervének vezetője engedélyezi.
+(1a)[^152] Az (1) bekezdés szerinti engedélyt annak a rendőri szervnek a vezetője adja ki, amely rendőri szerv feladatellátásához a külföldi rendészeti feladatokat ellátó hatóság magyarországi tevékenysége kapcsolódik.
+
+(2)[^153] Ha az engedélyezési hatáskör az (1a) bekezdés alapján nem állapítható meg, a behozatalt az általános rendőrségi feladatok ellátására létrehozott szerv központi szervének vezetője engedélyezi.
 
 (3) Az engedélynek tartalmaznia kell
 
@@ -29,3 +31,7 @@ a) az engedély számát,
 b) a Magyarország területére beléptetett, illetve az onnan kiléptetett szolgálati lőfegyverek, lőszerek közt mutatkozó esetleges hiányokról vagy eltérésekről, valamint ezek okairól készült jelentést, továbbá
 
 c) az engedélyben előírttól eltérő helyen vagy időpontban történő behozatalt vagy kivitelt.
+
+[^151]: A 97/B. § (1) bekezdése a 65/2022. (XII. 27.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^152]: A 97/B. § (1a) bekezdését a 65/2022. (XII. 27.) BM rendelet 2. § (2) bekezdése iktatta be.
+[^153]: A 97/B. § (2) bekezdése a 65/2022. (XII. 27.) BM rendelet 4. § a) pontja szerint módosított szöveg.

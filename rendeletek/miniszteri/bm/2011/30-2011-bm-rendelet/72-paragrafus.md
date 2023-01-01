@@ -15,3 +15,5 @@ d) kísérő őr,
 e) rendkívüli őr, valamint
 
 f) díszőr
+
+szolgálat.

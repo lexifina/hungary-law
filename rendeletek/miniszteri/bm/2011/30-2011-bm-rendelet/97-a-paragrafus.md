@@ -1,14 +1,16 @@
-## 71/A. [^139] Szolgálati lőfegyverek és lőszerek szolgálati célból történő külföldre vitele, behozatala és átszállítása
+## 71/A. [^148] Szolgálati lőfegyverek és lőszerek szolgálati célból történő külföldre vitele, behozatala és átszállítása
 
-97/A. § (1) Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában a rendőri szerv szolgálati lőfegyvereinek és lőszereinek szolgálati célból történő külföldre vitelét – beleértve a más rendvédelmi szervtől vezényeltek személyi felszerelését képező lőfegyvernek és lőszernek a külföldre vitelét is – (a továbbiakban: kivitel)
+97/A. § (1)[^149] Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában a rendőri szerv szolgálati lőfegyvereinek és lőszereinek szolgálati célból történő külföldre vitelét – beleértve a más rendvédelmi szervtől vezényeltek személyi felszerelését képező lőfegyvernek és lőszernek a külföldre vitelét is – (a továbbiakban: kivitel)
 
-a) az általános rendőrségi feladatok ellátására létrehozott szerv központi szervének, az egyes feladatok ellátására létrehozott rendőri szerv vagy a megyei (fővárosi) rendőr-főkapitányság,
+a) az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve,
 
 b) a Nemzeti Védelmi Szolgálat vagy
 
 c) a Terrorelhárítási Központ
 
-vezetője írásban engedélyezi. Az engedélyt a kivitellel érintett rendőri szerv vezetője, a rendőrkapitányság és határrendészeti kirendeltség vonatkozásában a megyei, fővárosi rendőrfőkapitány adja ki.
+vezetője írásban engedélyezi.
+
+(1a)[^150] Az (1) bekezdés szerinti engedélyt a kivitellel érintett rendőri szerv vezetője adja ki.
 
 (2) A kísérő okmányként felhasználható engedélynek magyar és angol nyelven tartalmaznia kell
 
@@ -36,4 +38,6 @@ b) a kivitel és a visszahozatal időpontját, továbbá
 
 c) a kiszállított, illetve a visszaszállított szolgálati lőfegyverek, lőszerek közt mutatkozó esetleges hiányokat vagy eltéréseket, valamint ezek okairól készült jelentést.
 
-[^139]: A 71/A. alcímet (97/A–97/E. §) az 50/2016. (XII. 14.) BM rendelet 16. §-a iktatta be.
+[^148]: A 71/A. alcímet (97/A–97/E. §) az 50/2016. (XII. 14.) BM rendelet 16. §-a iktatta be.
+[^149]: A 97/A. § (1) bekezdése a 65/2022. (XII. 27.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^150]: A 97/A. § (1a) bekezdését a 65/2022. (XII. 27.) BM rendelet 1. § (2) bekezdése iktatta be.

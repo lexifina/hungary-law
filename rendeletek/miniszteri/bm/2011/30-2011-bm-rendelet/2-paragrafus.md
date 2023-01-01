@@ -24,7 +24,7 @@
 
 10. segélyhívás: amikor a rendőr saját maga észleli más személy segélykérését, és emiatt, ezzel összefüggésben intézkedésbe kezd,
 
-11.[^5] rendőri szerv: az Országos Rendőr-főkapitányság, a megyei (fővárosi) rendőr-főkapitányság, a rendőrkapitányság, a határrendészeti kirendeltség, a Készenléti Rendőrség, a Repülőtéri Rendőr Igazgatóság, a Rendőrségi Oktatási és Kiképző Központ, a Nemzetközi Oktatási Központ, a Nemzetközi Bűnügyi Együttműködési Központ, a Terrorelhárítási Központ, a Nemzeti Védelmi Szolgálat, valamint az Országos Idegenrendészeti Főigazgatóság,
+11.[^5] rendőri szerv: az Országos Rendőr-főkapitányság, a vármegyei (fővárosi) rendőr-főkapitányság, a rendőrkapitányság, a határrendészeti kirendeltség, a Készenléti Rendőrség, a Repülőtéri Rendőr Igazgatóság, a Rendőrségi Oktatási és Kiképző Központ, a Nemzetközi Oktatási Központ, a Nemzetközi Bűnügyi Együttműködési Központ, a Terrorelhárítási Központ, a Nemzeti Védelmi Szolgálat, valamint az Országos Idegenrendészeti Főigazgatóság,
 
 12. támadással közvetlenül fenyegető magatartás: az a fellépés, amikor a támadó helyzetéből, tevékenységének módjából és eszközéből a rendőr alaposan következtet arra, hogy a támadás nyomban bekövetkezik,
 
@@ -34,14 +34,14 @@
 
 14.[^7] rendkívüli esemény: a rendőri intézkedés során bekövetkező minden olyan esemény, tevékenység vagy mulasztás, amely az intézkedés alá vont, az intézkedést végrehajtó vagy más személy életét, testi épségét, egészségét, anyagi javait, a személyi szabadság korlátozása helyének rendjét vagy az őrzésbiztonságot sérti, illetve veszélyezteti,
 
-15.[^8] a rendőrség ügyeletese: az Országos Rendőr-főkapitányság, a Készenléti Rendőrség, a Repülőtéri Rendőr Igazgatóság, a határrendészeti kirendeltségek ügyeletein, illetve a megyei (fővárosi) rendőr-főkapitányságok tevékenység-irányítási központjain ügyeleti szolgálatot ellátó személy,
+15.[^8] a rendőrség ügyeletese: az Országos Rendőr-főkapitányság, a Készenléti Rendőrség, a Repülőtéri Rendőr Igazgatóság, a határrendészeti kirendeltségek ügyeletein, illetve a vármegyei (fővárosi) rendőr-főkapitányságok tevékenység-irányítási központjain ügyeleti szolgálatot ellátó személy,
 
-16.[^9] ügyeletvezető: az Országos Rendőr-főkapitányság Főügyeletének, a Készenléti Rendőrség Központi Ügyeletének, a Repülőtéri Rendőr Igazgatóság ügyeletének, illetve a megyei (fővárosi) rendőr-főkapitányságok tevékenység-irányítási központjainak ügyeletvezetői beosztását betöltő személy.
+16.[^9] ügyeletvezető: az Országos Rendőr-főkapitányság Főügyeletének, a Készenléti Rendőrség Központi Ügyeletének, a Repülőtéri Rendőr Igazgatóság ügyeletének, illetve a vármegyei (fővárosi) rendőr-főkapitányságok tevékenység-irányítási központjainak ügyeletvezetői beosztását betöltő személy.
 
 [^3]: Az 1/B. §-t a 27/2020. (VII. 17.) BM rendelet 42. §-a iktatta be.
 [^4]: A 2. § 4. pontja a 37/2015. (VI. 16.) BM rendelet 44. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § 11. pontja a 37/2016. (IX. 1.) BM rendelet 5. § (1) bekezdésével megállapított, az 58/2016. (XII. 22.) BM rendelet 27. § a) pontja, a 27/2019. (VI. 28.) BM rendelet 14. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § 11. pontja a 37/2016. (IX. 1.) BM rendelet 5. § (1) bekezdésével megállapított, az 58/2016. (XII. 22.) BM rendelet 27. § a) pontja, a 27/2019. (VI. 28.) BM rendelet 14. § a) pontja, a 45/2022. (XII. 20.) BM rendelet 54. § a) pontja szerint módosított szöveg.
 [^6]: A 2. § 13a. pontját a 37/2015. (VI. 16.) BM rendelet 44. § (2) bekezdése iktatta be.
 [^7]: A 2. § 14. pontját a 18/2013. (V. 9.) BM rendelet 1. §-a iktatta be.
-[^8]: A 2. § 15. pontját a 61/2015. (XI. 24.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^9]: A 2. § 16. pontját a 61/2015. (XI. 24.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^8]: A 2. § 15. pontját a 61/2015. (XI. 24.) BM rendelet 1. § (2) bekezdése iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 54. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § 16. pontját a 61/2015. (XI. 24.) BM rendelet 1. § (2) bekezdése iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 54. § a) pontja szerint módosított szöveg.

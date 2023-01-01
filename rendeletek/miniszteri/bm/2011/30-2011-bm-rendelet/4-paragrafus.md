@@ -22,7 +22,7 @@ e) a büntetőeljárással összefüggésben személyi védelemben részesíthet
 
 f) a titkos információgyűjtés folytatásához vagy a leplezett eszköz alkalmazásához kapcsolódó
 
-## szolgálati feladatának végrehajtása során észlelt vagy tudomására jutott jogsértő cselekmény esetén a meghatározott szolgálati feladatának teljesítését folytatja, ha az intézkedés foganatosítása vagy az intézkedés kezdeményezése a szolgálati feladat ellátását veszélyeztetné.
+szolgálati feladatának végrehajtása során észlelt vagy tudomására jutott jogsértő cselekmény esetén a meghatározott szolgálati feladatának teljesítését folytatja, ha az intézkedés foganatosítása vagy az intézkedés kezdeményezése a szolgálati feladat ellátását veszélyeztetné.
 
 (3c)[^20] A (3b) bekezdés szerinti esetben, ha a rendőr a szolgálati feladat teljesítését befejezte, vagy az intézkedés foganatosítása vagy az intézkedés kezdeményezése a meghatározott szolgálati feladat ellátását már nem veszélyezteti, az észlelt jogsértő cselekmény vonatkozásában haladéktalanul köteles intézkedni vagy intézkedést kezdeményezni a szolgálati elöljárónak történő jelentéssel, illetve a rendőrség ügyeletének vagy tevékenység-irányítási központjának értesítésével.
 
@@ -42,7 +42,7 @@ c) a Védelmi Program végrehajtásával összefüggő szolgálati feladat végr
 
 d) a fedett nyomozó vagy a rendőrséggel titkosan együttműködő személy alkalmazása
 
-## során az intézkedés foganatosítása vagy az intézkedés kezdeményezése elhalasztható. A rendőr ebben az esetben is köteles az adott helyzetben tőle elvárható módon eljárni az intézkedési kötelezettséggel összefüggő esemény megszakítása vagy eredmény elhárítása érdekében.
+során az intézkedés foganatosítása vagy az intézkedés kezdeményezése elhalasztható. A rendőr ebben az esetben is köteles az adott helyzetben tőle elvárható módon eljárni az intézkedési kötelezettséggel összefüggő esemény megszakítása vagy eredmény elhárítása érdekében.
 
 (4)[^25] Szolgálati feladat végrehajtása során a rendőr a számára kijelölt területet csak utasításra vagy a szolgálati elöljáró engedélye alapján, valamint jogos védelem vagy végszükség esetén hagyhatja el. Az engedélykérés kivételesen mellőzhető, ha a szolgálati elöljáró vagy a rendőrség ügyeletesének értesítésére nincs mód, és a működési terület elhagyásával járó intézkedés elmulasztása az élet- és vagyonbiztonságra, valamint a bűnüldözés érdekeire másként el nem hárítható hátrányt jelent. A szolgálati feladat végrehajtásáról készült jelentésben – ha a szolgálati feladat végrehajtása során a rendőr a számára kijelölt területet elhagyta – meg kell jelölni az azt engedélyező személyt, vagy az engedélykérés mellőzésének okát.
 

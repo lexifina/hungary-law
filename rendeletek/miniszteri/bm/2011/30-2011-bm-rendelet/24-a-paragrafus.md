@@ -8,4 +8,6 @@ a) írásban – az arra vonatkozó egyidejű tájékoztatással, hogy e nyilatk
 
 b) tájékoztatni kell, hogy ha az egészségi állapota miatt vele szemben hiteles mérőeszköz nem alkalmazható, úgy vér- és vizeletminta vétele iránt lehet intézkedni,
 
+és a tájékoztatás tudomásulvételét a járművezetővel alá kell íratni.
+
 [^46]: A 24/A. §-t a 21/2018. (VI. 29.) BM rendelet 4. § (2) bekezdése iktatta be.
