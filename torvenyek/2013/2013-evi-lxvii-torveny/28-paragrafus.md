@@ -42,6 +42,8 @@ q) állapítsa meg a mezőgazdasági termelők élő állat szállítását és 
 
 r) állapítsa meg a 8/A. § és 8/B. § szerinti állami kezesség, valamint a 8/B. § szerinti kölcsönökhöz nyújtandó állami kamattámogatás részletes szabályait.
 
+s) állapítsa meg az egyetemes útdíjszolgáltató és a szerződött díjfizető közötti szerződés megszüntetésének, valamint a felek közötti elszámolás részletes szabályait.
+
 (2) Felhatalmazást kap a miniszter, hogy
 
 a) rendeletben állapítsa meg a törvény hatálya alá tartozó, díjfizetési kötelezettséggel érintett utakat és díjköteles elemi útszakaszokat, valamint a 6. § (2a) bekezdése szerinti útdíjköteles elemi útszakaszok körét, továbbá az ezen útdíjköteles elemi útszakaszokon az úthasználati jogosultság keletkezésének és fennállásának különös szabályait;

@@ -36,7 +36,7 @@
 
 17. UD rendszer: az útdíj bevallását, kivetését, beszedését, az útdíj megfizetése és az útdíjköteles elemi útszakaszok jogszerű használata ellenőrzésének támogatását lehetővé tévő elektronikus rendszer;
 
-18. útdíj: az útdíjköteles elemi útszakasz használatáért fizetendő, általános forgalmi adót is magában foglaló, a megtett úttal arányos úthasználat alapján az útdíjszedő által kivetett díj;
+18. útdíj: az útdíjköteles elemi útszakasz használatáért fizetendő, általános forgalmi adót is magában foglaló, a megtett úttal arányos úthasználat alapján az útdíjszedő által kivetett díj; a szerződött díjfizető által az egyenlegére előre megfizetett, de az útdíjszedő által nem kivetett összeg nem minősül útdíjnak;
 
 19. díjfizetésre kötelezett: elsősorban a szerződött díjfizető, ennek hiányában a gépjármű üzembentartója, illetve az úthasználó, tekintet nélkül állampolgárságára és az általa vezetett vagy üzemben tartott, illetve tulajdonát képező gépjárművet nyilvántartásba vevő országra;
 
@@ -63,3 +63,5 @@
 30. viszonylati jegy: az útdíjköteles úthálózat előre meghatározott, legalább egy útdíjköteles elemi útszakaszának egy előre meghatározott útdíjköteles gépjárművel történő használatára vonatkozó, előre megváltott úthasználati jogosultság;
 
 31. útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása: a közúti közlekedési nyilvántartásról szóló törvény szerinti közúti közlekedési nyilvántartás.
+
+32. egyenleg: úthasználati jogosultság keletkezése érdekében, a fizetendő útdíj-követelés kiegyenlítése céljából a szerződött díjfizető által megfizetett, az egyetemes útdíjszolgáltató által nyilvántartott és rendelkezésre tartott, forintban kifejezett pénzösszeg, a szolgáltatás ellenértéke, amelynek terhére a szerződött díjfizető útdíjfizetési kötelezettségének eleget tehet.
