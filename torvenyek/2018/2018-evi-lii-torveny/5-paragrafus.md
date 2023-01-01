@@ -62,6 +62,8 @@ m) a társadalombiztosítási nyugdíjrendszerbe történő visszalépés miatt 
 
 (4) A szociális biztonsági rendszerek koordinálásról szóló rendeletek hatálya alá tartozó, másik tagállamban vagy az Európai Unió intézményei által biztosított személy jövedelme után nem kell adót fizetni. Az adó-fizetési kötelezettség alóli mentességet a természetes személy az illetékes külföldi hatóság által kiállított, a másik tagállamban vagy az Európai Unió intézményénél fennálló biztosítást tanúsító igazolással igazolja.
 
+(4a) A szociális biztonsági egyezmények hatálya alá tartozó, másik államban biztosított személy Szja tv. 1/B. § szerinti jövedelme után nem kell adót fizetni. Az adófizetési kötelezettség alóli mentességet a természetes személy az illetékes külföldi hatóság által kiállított másik államban fennálló biztosítást tanúsító igazolással igazolja.
+
 (5) E § (2) bekezdés d) pontjában foglaltaktól eltérően, a Tbj. szerinti kiküldetés meghosszabbításának bejelentése esetén az adófizetési kötelezettség a kiküldetés kezdetét követő második év végétől áll fenn.
 
 (6) A Tbj. szerint külföldinek minősülő személy által megszerzett
