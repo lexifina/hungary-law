@@ -8,9 +8,9 @@
 
 (4a)[^43] Amennyiben a sportrendezvény kiemelt vagy fokozott biztonsági kockázatú minősítést kapott, de a sportrendezvényen néző nem lehet jelen, a sportrendezvény sportlétesítményen belüli biztosításában a rendőrség nem vesz részt.
 
-(5)[^44] Az első fokon eljárt szerv határozata ellen fellebbezés nyújtható be a sportrendezvény helye szerint illetékes megyei rendőr-főkapitánysághoz, a fővárosban az ORFK-hoz, aki a fellebbezést a kézhezvételt követő naptól számított öt napon belül elbírálja. A határozatot a döntéstől számított 24 órán belül közölni kell a sportrendezvény szervezőjével.
+(5)[^44] Az első fokon eljárt szerv határozata ellen fellebbezés nyújtható be a sportrendezvény helye szerint illetékes vármegyei rendőr-főkapitánysághoz, a fővárosban az ORFK-hoz, aki a fellebbezést a kézhezvételt követő naptól számított öt napon belül elbírálja. A határozatot a döntéstől számított 24 órán belül közölni kell a sportrendezvény szervezőjével.
 
 [^41]: A 15. § a 247/2009. (XI. 10.) Korm. rendelet 6. §-ával megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^42]: A 15. § (3) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (51) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
 [^43]: A 15. § (4a) bekezdését a 162/2011. (VIII. 18.) Korm. rendelet 10. §-a iktatta be.
-[^44]: A 15. § (5) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (51) bekezdése szerint módosított szöveg. E módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^44]: A 15. § (5) bekezdése a 289/2010. (XII. 21.) Korm. rendelet 3. § (51) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 54. §-a szerint módosított szöveg.
