@@ -12,7 +12,7 @@ d) elektronikus dokumentumok titkosítására vonatkozó igény,
 
 e) képviseletre vonatkozó jognyilatkozatok.
 
-f) a fővárosi és megyei kormányhivatalokról, valamint a fővárosi és megyei kormányhivatalok kialakításával és a területi integrációval összefüggő törvénymódosításokról szóló 2010. évi CXXVI. törvény 20/T. § (3) bekezdése szerinti automatizált adatváltozás-bejelentési szolgáltatás igénybevétele.
+f) a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény 15. § (3) bekezdése szerinti automatizált adatváltozás-bejelentési szolgáltatás igénybevétele.
 
 (2) Az ügyfél az elektronikus ügyintézési rendelkezésében
 

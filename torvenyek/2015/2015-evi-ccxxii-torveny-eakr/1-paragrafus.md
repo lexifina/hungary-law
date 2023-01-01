@@ -138,6 +138,12 @@ b) valamennyi ügy tekintetében gazdálkodó szervezetnek minősül az adószá
 
 40. személyre szabott ügyintézési felület: a jogszabályban kijelölt szolgáltató által nyújtott olyan, az ügyfél által személyre szabható internetes alkalmazás, amely az azonosított ügyfél számára egységesen elérhető lehetőséget biztosít az elektronikus ügyintézéshez szükséges nyilatkozatok, eljárási cselekmények és egyéb kötelezettségek teljesítésére, az ügyfél által igénybe vehető elektronikus ügyintézési szolgáltatások igénybevételére;
 
+40a. szerepkör: a Kormány rendeletében meghatározott természetes személy közfeladatához kapcsolódó tulajdonság vagy minőség, így különösen tisztség, munkakör, beosztás, álláshely, képesítés, jogosultság;
+
+40b. szerepkör-nyilvántartás: a szerepkört jogszabályban meghatározott feltételeknek megfelelően igazoló, elektronikus nyilvántartás;
+
+40c. szerepkör-tanúsítvány: olyan, a szerepkör-tanúsító szolgáltató által kiállított igazolás, amely egy természetes személyre vonatkozóan alkalmas igazolni azt, hogy a személy az elektronikus aláírás dokumentumon rögzítése időpontjában a szerepkör-tanúsítványban megjelölt igazolt szerepkörrel rendelkezik;
+
 41. szolgáltatási szabályzat: a bizalmi szolgáltató nyilatkozata az egyes bizalmi szolgáltatások nyújtásával kapcsolatosan alkalmazott részletes eljárási vagy más működési követelményekről;
 
 42. szolgáltatási szerződés: a bizalmi szolgáltató és a bizalmi szolgáltatási ügyfél között létrejött szerződés, amely a bizalmi szolgáltatás nyújtására és a szolgáltatás igénybevételére vonatkozó feltételeket tartalmazza;

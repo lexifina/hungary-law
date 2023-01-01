@@ -48,6 +48,8 @@ t) a bizalmi szolgáltatások esetében a személyes jelenléttel egyenértékű
 
 u) a 108. § (8) bekezdése szerinti időpontot.
 
+v) a rendvédelmi informatikai közszolgáltatások körét és a rendvédelmi informatikai közszolgáltatások nyújtásának részletes szabályait.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
 a) a Felügyeletet,
@@ -67,6 +69,8 @@ g) a 35. § (15a) bekezdése szerinti szervet,
 h) az elektronikus ügyintézési pont működtetőjét.
 
 i) a 17/A. § (1) bekezdése szerinti rendszert biztosító szervet.
+
+j) a rendvédelmi informatikai központi szolgáltatót.
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
@@ -121,5 +125,15 @@ a) az önhibán kívüli akadályozottság hatálya alatt álló elektronikus ü
 b) azon, az a) pont szerinti szerv feladat- és hatáskörébe tartozó ügyeket, amelyek esetében az önhibán kívüli akadályozottság nem áll fenn, és
 
 c) az önhibán kívüli akadályozottság időtartamát.
+
+(5b) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
+
+a) a szerepköröket, a szerepkör igazolásával kapcsolatos részletszabályokat,
+
+b) a 100/A. § szerinti szolgáltatót,
+
+c) a szerepkör-tanúsítvány kibocsátásával, az ahhoz kapcsolódó felelősségi szabályokkal kapcsolatos részletszabályokat,
+
+d) a szerepkör-tanúsító platform szolgáltatással kapcsolatos részletszabályokat.
 
 (6) Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a szabályozott elektronikus ügyintézési szolgáltatások bejelentéséért, a szabályozott elektronikus ügyintézési szolgáltatásokat érintő változások bejelentésért fizetendő igazgatási szolgáltatási díj mértékét, a díj megfizetésével, kezelésével, nyilvántartásával kapcsolatos szabályokat rendeletben állapítsa meg.

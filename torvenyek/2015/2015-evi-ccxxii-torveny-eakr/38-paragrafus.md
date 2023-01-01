@@ -34,7 +34,9 @@ n) általános célú elektronikus kéreleműrlap szolgáltatás,
 
 o) összerendelési nyilvántartás.
 
-p) a Kormány által rendeletben megjelölt központi elektronikus ügyintézési szolgáltatás.
+p) szerepkör-tanúsító platform szolgáltatás,
+
+q) a Kormány által rendeletben megjelölt központi elektronikus ügyintézési szolgáltatás.
 
 (2) Amennyiben a központi elektronikus ügyintézési szolgáltatás igénybevételéhez regisztráció szükséges, a regisztrációra jogszabály eltérő rendelkezése hiányában kizárólag elektronikus azonosítási szolgáltatással kerülhet sor. A regisztráció során az elektronikus azonosítási szolgáltató az igénybe vevő hozzájárulása alapján jogosult a kijelölt szolgáltató részére átadni a regisztrációhoz szükséges, az elektronikus azonosítási szolgáltató által kezelt személyes adatokat.
 
