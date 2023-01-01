@@ -1,5 +1,3 @@
-## Fogyasztásmérővel nem rendelkező fogyasztási helyek esetében irányadó átalány ivóvízfogyasztás
-
 |  | A. | B. | C. |
 
 | 1 | 1. | Fogyasztási hely (telkek) |  |
@@ -28,6 +26,6 @@
 
 | 13 | 4. | Közkifolyókon fogyasztott víz átalánymennyiséget 150 m-es körzetben lakók száma szerint | 30 liter/fő/nap |
 
-9. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^341]
+9. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^344]
 
-[^341]: A 9. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § b) pontja iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 116. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^344]: A 9. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § b) pontja iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 116. § (4) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

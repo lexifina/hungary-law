@@ -1,4 +1,4 @@
-## 1.[^338] Az üzletszabályzatra vonatkozó előírások
+## 1.[^341] Az üzletszabályzatra vonatkozó előírások
 
 ## Az üzletszabályzatot elektronikus úton, szerkeszthető formában kell jóváhagyásra benyújtani. Az oldalakat folyamatos számozással kell ellátni, a mellékletek és a függelékek minden lapján fel kell tüntetni, hányas számú melléklet vagy függelék lapjáról van szó. Az üzletszabályzat, a mellékletek és a függelékek minden oldalán fel kell tüntetni, melyik víziközmű-szolgáltató üzletszabályzatáról van szó. Az üzletszabályzat módosításának kérelmezése esetében szükséges korrektúrás változatot is csatolni, melyből egyértelműen megállapíthatók a módosítások. A benyújtott üzletszabályzathoz mellékelni kell a jóváhagyásra vonatkozó kérelmet és az igazgatási szolgáltatási díj átutalását igazoló dokumentumot. Ha az üzletszabályzat mérete a megjelölt méretkorlátot meghaladja, elektronikus a kapcsolattartás akkor is, ha az engedélyes a nyilatkozatát tartós adathordozón nyújtja be. Az eljárás során véglegezett, jóváhagyásra kerülő üzletszabályzatot két, cégszerű aláírással ellátott példányban is be kell nyújtani a Hivatal számára.
 
@@ -124,7 +124,7 @@
 
 ## 4. A bekötővezeték, a fogyasztásmérő, illetve a mérőhely kialakításának, a mellékvízmérő üzembe helyezésének, valamint bélyegzéssel és zárral való ellátásának részletes szabályai.
 
-## 4a.[^339] A bekötési vízmérő hitelesítési hatályán belüli cseréjére vonatkozó szabályok.
+## 4a.[^342] A bekötési vízmérő hitelesítési hatályán belüli cseréjére vonatkozó szabályok.
 
 ## 5. Víziközmű-szolgáltatás szüneteltetése iránti kérelem részletes szabályai.
 
@@ -134,8 +134,10 @@
 
 ## 8. E rendeletben meghatározott más követelmények.
 
-8. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^340]
+8. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^343]
 
-[^338]: A 7. melléklet 1. alcíme a 477/2016. (XII. 27.) Korm. rendelet 68. § (2) bekezdésével megállapított szöveg.
-[^339]: A 7. melléklet 3. pont 4a. alpontját a 342/2016. (XI. 17.) Korm. rendelet 38. §-a iktatta be.
-[^340]: A 8. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § a) pontja iktatta be.
+Fogyasztásmérővel nem rendelkező fogyasztási helyek esetében irányadó átalány ivóvízfogyasztás
+
+[^341]: A 7. melléklet 1. alcíme a 477/2016. (XII. 27.) Korm. rendelet 68. § (2) bekezdésével megállapított szöveg.
+[^342]: A 7. melléklet 3. pont 4a. alpontját a 342/2016. (XI. 17.) Korm. rendelet 38. §-a iktatta be.
+[^343]: A 8. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § a) pontja iktatta be.

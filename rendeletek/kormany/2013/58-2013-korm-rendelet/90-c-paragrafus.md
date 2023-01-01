@@ -1,4 +1,4 @@
-90/C. §[^300] (1) A beruházási tervrész, valamint a felújítási és pótlási tervrész az alábbi felsorolás szerinti bontásban tartalmazza a benyújtás évét követő 15 évre vonatkozó elvégzendő feladatokat:
+90/C. §[^303] (1) A beruházási tervrész, valamint a felújítási és pótlási tervrész az alábbi felsorolás szerinti bontásban tartalmazza a benyújtás évét követő 15 évre vonatkozó elvégzendő feladatokat:
 
 a) I. ütem: 1. év,
 
@@ -6,7 +6,7 @@ b) II. ütem: 2–5. év,
 
 c) III. ütem: 6–15. év.
 
-(2)[^301] Az I. ütemben a tervezési időszakban előre nem látható körülmények miatt a rendkívüli helyzetből adódó azonnali feladatok elvégzésére a (3) bekezdésben foglalt kivétellel a rendelkezésre álló forrás 1–15 százaléka tervezhető.
+(2)[^304] Az I. ütemben a tervezési időszakban előre nem látható körülmények miatt a rendkívüli helyzetből adódó azonnali feladatok elvégzésére a (3) bekezdésben foglalt kivétellel a rendelkezésre álló forrás 1–15 százaléka tervezhető.
 
 (3) Ha a víziközmű-rendszer műszaki állapota vagy a rendelkezésre álló forrás mértéke alapján indokolt, a rendkívüli helyzetből adódó azonnali feladatok elvégzésére az I. ütemben ténylegesen rendelkezésre álló forrásnak a (2) bekezdésben előírt 1–15 százaléka feletti összeg is tervezhető. A 15 százalék mértéket meghaladó összeg tervezésének szükségességét a Tervben kell alátámasztani hibastatisztikákra, illetve üzemeltetési tapasztalatokra alapozva.
 
@@ -26,5 +26,5 @@ d) a jóváhagyott Tervben nem szereplő új feladat megvalósítása indokolt �
 
 (7) A Hivatal a (4) bekezdés c) pontjában meghatározott esetben a hozzájárulásról soron kívül dönt.
 
-[^300]: A 90/C. § a 342/2016. (XI. 17.) Korm. rendelet 34. §-ával megállapított szöveg.
-[^301]: A 90/C. § (2) bekezdése a 286/2019. (XII. 4.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^303]: A 90/C. § a 342/2016. (XI. 17.) Korm. rendelet 34. §-ával megállapított szöveg.
+[^304]: A 90/C. § (2) bekezdése a 286/2019. (XII. 4.) Korm. rendelet 20. §-a szerint módosított szöveg.

@@ -1,5 +1,3 @@
-## 51. §
-
 ## V. Fejezet[^126]
 
 ## A VÍZIKÖZMŰ TÉRKÉPI NYILVÁNTARTÁSOKRA VONATKOZÓ SZABÁLYOK[^127]
