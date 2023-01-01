@@ -26,11 +26,11 @@ c) a megfizetésre szolgáló számlaszámot, a nemzetközi fizetési számlasz�
 
 d) a pénzbírság, helyszíni bírság összegét.
 
-(4a)[^11] Az általános szabálysértési hatóság feladat- és hatáskörébe tartozó eljárások vonatkozásában a (4) bekezdés c) pontjában meghatározott számlaszámokat és kódot a központi bírságkezelő szerv kijelöléséről szóló kormányrendeletben meghatározott központi bírságkezelő szerv (a továbbiakban: központi bírságkezelő szerv) által kezelt központosított beszedési számla adatai alapján kell megadni.
+(4a)[^11]
 
 (5) A felhívást úgy kell kiadni, hogy azt az elkövető a bv. intézetben való jelentkezésre meghatározott időpont előtt legalább nyolc nappal megkapja.
 
 [^8]: Az 5. § (1) bekezdése a 81/2015. (XII. 23.) BM rendelet 27. § 2. pontja szerint módosított szöveg.
 [^9]: Az 5. § (3) bekezdés c) pontja a 81/2015. (XII. 23.) BM rendelet 23. §-ával megállapított szöveg.
 [^10]: Az 5. § (4) bekezdése a 60/2016. (XII. 29.) BM rendelet 14. § (1) bekezdésével megállapított, nyitó szövegrésze a 4/2022. (III. 25.) BM rendelet 10. §-a szerint módosított szöveg.
-[^11]: Az 5. § (4a) bekezdését a 60/2016. (XII. 29.) BM rendelet 14. § (2) bekezdése iktatta be, szövege a 11/2017. (VI. 2.) BM rendelet 4. § b) pontja, a 21/2017. (VIII. 23.) BM rendelet 6. §-a szerint módosított szöveg.
+[^11]: Az 5. § (4a) bekezdését a 60/2016. (XII. 29.) BM rendelet 14. § (2) bekezdése iktatta be, a 68/2022. (XII. 27.) BM rendelet 1. §-a hatályon kívül helyezte.

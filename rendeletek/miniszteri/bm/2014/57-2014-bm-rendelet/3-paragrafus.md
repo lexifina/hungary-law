@@ -22,4 +22,6 @@ b) aktuálisan fennálló megbetegedéseire kezelőorvosa által rendelt, folyam
 
 c) a legmagasabb iskolai végzettségéről, szakképzettségéről szóló bizonyítványát, oklevelét, vagy azok fénymásolatát
 
+hozza magával.
+
 [^7]: A 3. § (1) bekezdése a 81/2015. (XII. 23.) BM rendelet 22. §-ával megállapított szöveg.

@@ -18,11 +18,11 @@ c) a megfizetésre szolgáló számlaszámot, a nemzetközi fizetési számlasz�
 
 d) a pénzbírság, helyszíni bírság összegét.
 
-(4a)[^14] Az általános szabálysértési hatóság feladat- és hatáskörébe tartozó eljárások vonatkozásában a (4) bekezdés c) pontjában meghatározott számlaszámokat és kódot a központi bírságkezelő szerv által kezelt központosított beszedési számla adatai alapján kell megadni.
+(4a)[^14]
 
 (5)[^15] A megismételt elővezetés sikertelenségéről való tudomásszerzést követő öt napon belül a szabálysértési hatóság az elkövető körözését rendeli el.
 
 [^12]: A 6. § (2) bekezdés a) pontja a 81/2015. (XII. 23.) BM rendelet 24. §-ával megállapított szöveg.
 [^13]: A 6. § (4) bekezdése a 60/2016. (XII. 29.) BM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^14]: A 6. § (4a) bekezdését a 60/2016. (XII. 29.) BM rendelet 15. § (2) bekezdése iktatta be, szövege a 11/2017. (VI. 2.) BM rendelet 4. § c) pontjaa 21/2017. (VIII. 23.) BM rendelet 6. §-a szerint módosított szöveg.
+[^14]: A 6. § (4a) bekezdését a 60/2016. (XII. 29.) BM rendelet 15. § (2) bekezdése iktatta be, a 68/2022. (XII. 27.) BM rendelet 1. §-a hatályon kívül helyezte.
 [^15]: A 6. § (5) bekezdését a 81/2015. (XII. 23.) BM rendelet 25. §-a iktatta be.

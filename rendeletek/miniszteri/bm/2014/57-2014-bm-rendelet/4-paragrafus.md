@@ -1,5 +1,3 @@
-## hozza magával.
-
 4. § (1) A szabálysértési hatóság a 3. § (1) bekezdésében megjelölt felhívást az elkövető jelentkezésére meghatározott napot követő öt napig nyilvántartja. Ha szabályszerűen kézbesített felhívás esetén e határidő elteltéig a szabálysértési elzárás foganatba vételéről értesítés nem érkezett, haladéktalanul az elkövető elővezetését rendeli el. Az elrendelt elővezetésről az ügyészt elektronikus úton kell értesíteni.
 
 (2) Az elővezetést elrendelő határozat tartalmazza:

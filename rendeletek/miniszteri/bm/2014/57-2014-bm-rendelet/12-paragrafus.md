@@ -8,7 +8,7 @@ a)[^20] letartóztatását rendőrségi fogdában vagy javítóintézetben fogan
 
 b) javítóintézeti nevelés hatálya alatt áll, amennyiben a javítóintézetből elbocsátják, vagy ideiglenesen elbocsátják
 
-## őt a szabálysértési elzárásról rendelkező bírósági határozattal, valamint a szabálysértési elzárás végrehajthatósága elévülésének időpontjára vonatkozó közléssel a bv. intézetbe a rendőrség átkíséri.
+őt a szabálysértési elzárásról rendelkező bírósági határozattal, valamint a szabálysértési elzárás végrehajthatósága elévülésének időpontjára vonatkozó közléssel a bv. intézetbe a rendőrség átkíséri.
 
 (2) Ha idegenrendészeti őrizet végrehajtása során szabálysértési elzárás végrehajtására érkezik határozat, az idegenrendészeti őrizetet annak megérkezése napján meg kell szakítani, és a következő naptól a szabálysértési elzárást kell végrehajtani. Az elkövetőt a szabálysértési elzárásról rendelkező bírósági határozattal valamint a szabálysértési elzárás végrehajthatósága elévülésének időpontjára vonatkozó közléssel a bv. intézetbe kell átkísértetni. A megszakításról az idegenrendészeti őrizetet elrendelő hatóságot haladéktalanul értesíteni kell.
 
