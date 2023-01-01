@@ -2,7 +2,7 @@
 
 57. § (1) A BGH az elkobzott bűnjelet elsősorban a forgalomba hozatalával, feldolgozásával, valamint felvásárlásával foglalkozó kereskedőnek ajánlja fel vételre.
 
-(2)[^204] A BGH az országos, a megyei vagy a helyi napilapokban, továbbá a bíróság központi honlapján ajánlati felhívást jelentethet meg.
+(2)[^204] A BGH az országos, a vármegyei vagy a helyi napilapokban, továbbá a bíróság központi honlapján ajánlati felhívást jelentethet meg.
 
 (3) Az ajánlati felhívás tartalmazza
 
@@ -14,5 +14,5 @@ b) a pályázati feltételeket tartalmazó részletes tájékoztató és egyéb 
 
 (5)[^205]
 
-[^204]: Az 57. § (2) bekezdése a 17/2014. (XII. 19.) IM rendelet 18. §-ával megállapított szöveg.
+[^204]: Az 57. § (2) bekezdése a 17/2014. (XII. 19.) IM rendelet 18. §-ával megállapított, a 35/2022. (XII. 27.) IM rendelet 1. § d) pontja szerint módosított szöveg.
 [^205]: Az 57. § (5) bekezdését a 20/2020. (XII. 30.) IM rendelet 40. § 18. pontja hatályon kívül helyezte.

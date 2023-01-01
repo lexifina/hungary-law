@@ -10,7 +10,7 @@
 
 (4)[^217] A lefoglalt élő állat a bűnjelkezelőhöz nem szállítható be, annak elhelyezéséről
 
-a)[^218] a Btk. 244–247. §-ában meghatározott bűncselekmények miatt folytatott büntetőeljárás esetén a lefoglalás helye szerint illetékes megyei (fővárosi) állategészségügyi és élelmiszer-ellenőrző állomás (a továbbiakban: állomás),
+a)[^218] a Btk. 244–247. §-ában meghatározott bűncselekmények miatt folytatott büntetőeljárás esetén a lefoglalás helye szerint illetékes vármegyei (fővárosi) állategészségügyi és élelmiszer-ellenőrző állomás (a továbbiakban: állomás),
 
 b)[^219] a Btk. 242–243. §-ában meghatározott bűncselekmények miatt folytatott büntetőeljárás esetén a lefoglalás helye szerint illetékes nemzeti park igazgatóság
 
@@ -25,7 +25,7 @@ b)[^219] a Btk. 242–243. §-ában meghatározott bűncselekmények miatt folyt
 [^215]: A 66. § (2) bekezdését a 20/2004. (V. 7.) IM–BM–PM együttes rendelet 1. §-a iktatta be, szövege a 9/2013. (VI. 29.) KIM rendelet 65. § c) pontja, a 17/2018. (VI. 27.) IM rendelet 44. § 35. pontja szerint módosított szöveg.
 [^216]: A 66. § (3) bekezdését a 20/2004. (V. 7.) IM–BM–PM együttes rendelet 1. §-a iktatta be, szövege a 20/2020. (XII. 30.) IM rendelet 32. §-ával megállapított szöveg.
 [^217]: A 66. § (4) bekezdését a 20/2004. (V. 7.) IM–BM–PM együttes rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 2. §-a alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.
-[^218]: A 66. § (4) bekezdés a) pontja a 9/2013. (VI. 29.) KIM rendelet 65. § d) pontja, a 17/2018. (VI. 27.) IM rendelet 44. § 35. pontja szerint módosított szöveg.
+[^218]: A 66. § (4) bekezdés a) pontja a 9/2013. (VI. 29.) KIM rendelet 65. § d) pontja, a 17/2018. (VI. 27.) IM rendelet 44. § 35. pontja, a 35/2022. (XII. 27.) IM rendelet 1. § e) pontja szerint módosított szöveg.
 [^219]: A 66. § (4) bekezdés b) pontja a 9/2013. (VI. 29.) KIM rendelet 65. § e) pontja, a 17/2018. (VI. 27.) IM rendelet 44. § 35. pontja szerint módosított szöveg.
 [^220]: A 66. § (5) bekezdését a 20/2004. (V. 7.) IM–BM–PM együttes rendelet 1. §-a iktatta be, szövege a 17/2018. (VI. 27.) IM rendelet 44. § 5. pontja szerint módosított szöveg.
 [^221]: A 66. § (6) bekezdését a 20/2004. (V. 7.) IM–BM–PM együttes rendelet 1. §-a iktatta a szövegbe, e módosító rendelet 2. §-a alapján rendelkezéseit a folyamatban lévő ügyekben is alkalmazni kell.

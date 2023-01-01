@@ -1,4 +1,4 @@
-1/A. §[^12] (1)[^13] A A bizonyítási eszköznek nem minősülő lefoglalt külföldi pénzt a hatóság legkésőbb a lefoglalást követő harmadik munkanapon átadja a Magyar Államkincstár Budapesti és Pest Megyei Igazgatóság Állampénztári Iroda Állampapír- és Pénzforgalmi Osztályának (a továbbiakban: Kincstár), amely azokat az eljáró hatóság további intézkedéséig hatósági letétként kezeli.
+1/A. §[^12] (1)[^13] A A bizonyítási eszköznek nem minősülő lefoglalt külföldi pénzt a hatóság legkésőbb a lefoglalást követő harmadik munkanapon átadja a Magyar Államkincstár Budapesti és Pest Vármegyei Igazgatóság Állampénztári Iroda Állampapír- és Pénzforgalmi Osztályának (a továbbiakban: Kincstár), amely azokat az eljáró hatóság további intézkedéséig hatósági letétként kezeli.
 
 (2)[^14] Az átadás alkalmával a Kincstárral írásban közölni kell a büntetőügy számát és az egyedi bűnjelszámot.
 
@@ -13,7 +13,7 @@
 (6)[^19] Az e §-ban nem szabályozott kérdésekben a Kincstár által végzett bűnjelkezelésre a bűnjel egyes szervek őrizetébe és kezelésébe adásának szabályait kell alkalmazni.
 
 [^12]: Az 1/A. §-t a 47/2009. (IX. 28.) IRM–PM együttes rendelet 2. §-a iktatta be. E módosító rendelet 30. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^13]: Az 1/A. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^13]: Az 1/A. § (1) bekezdése a 20/2020. (XII. 30.) IM rendelet 3. § (1) bekezdésével megállapított, a 35/2022. (XII. 27.) IM rendelet 1. § a) pontja szerint módosított szöveg.
 [^14]: Az 1/A. § (2) bekezdése a 20/2020. (XII. 30.) IM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^15]: Az 1/A. § (3) bekezdése a 20/2020. (XII. 30.) IM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^16]: Az 1/A. § (3a) bekezdését a 17/2014. (XII. 19.) IM rendelet 3. §-a iktatta be, szövege a 20/2020. (XII. 30.) IM rendelet 39. § 2. pontja szerint módosított szöveg.

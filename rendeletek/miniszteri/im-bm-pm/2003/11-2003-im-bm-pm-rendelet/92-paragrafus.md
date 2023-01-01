@@ -2,7 +2,7 @@
 
 ## Veszélyes és sugárzó anyag
 
-92. § (1)[^286] A lefoglalás foganatosításakor a hatóság a kémiai biztonságról szóló 2000. évi XXV. törvényben meghatározott veszélyes és új veszélyes anyagot, veszélyes készítményt, jogszabályban meghatározott egyéb veszélyes anyagot, vagy veszélyes készítményt (a továbbiakban együtt: veszélyes anyag), valamint a radioaktív és nukleáris anyagot (a továbbiakban együtt: sugárzó anyag) a helyszínről nem szállíthatja el, hanem – a biztonságos elszállítás érdekében – a lefoglalás helyén biztosítja, és az illetékes rendőrkapitányságot, az pedig a tűzszerész járőrt értesíti. A sugárzó anyag vagy készítmény lefoglalásáról a hatóság az ORFK Főügyeletét, az Országos Katasztrófavédelmi Főigazgatóság területileg illetékes igazgatóságát, az Országos Közegészségügyi Intézetet, valamint a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt is értesíti.
+92. § (1)[^286] A lefoglalás foganatosításakor a hatóság a kémiai biztonságról szóló 2000. évi XXV. törvényben meghatározott veszélyes és új veszélyes anyagot, veszélyes készítményt, jogszabályban meghatározott egyéb veszélyes anyagot, vagy veszélyes készítményt (a továbbiakban együtt: veszélyes anyag), valamint a radioaktív és nukleáris anyagot (a továbbiakban együtt: sugárzó anyag) a helyszínről nem szállíthatja el, hanem – a biztonságos elszállítás érdekében – a lefoglalás helyén biztosítja, és az illetékes rendőrkapitányságot, az pedig a tűzszerész járőrt értesíti. A sugárzó anyag vagy készítmény lefoglalásáról a hatóság az ORFK Főügyeletét, az Országos Katasztrófavédelmi Főigazgatóság területileg illetékes igazgatóságát, az Országos Közegészségügyi Intézetet, valamint a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatalt is értesíti.
 
 (2) A veszélyes anyag megvizsgálásáról és megsemmisítéséről, valamint a sugárzó anyag lefoglalásánál követendő eljárásról külön jogszabályok rendelkeznek.
 
@@ -12,5 +12,5 @@
 
 (5) Az átvevő szerv az elkobzott veszélyes és sugárzó anyagért térítést nem fizet.
 
-[^286]: A 92. § (1) bekezdése a 26/2016. (XII. 27.) IM rendelet 6. § a) és b) pontja szerint módosított szöveg.
+[^286]: A 92. § (1) bekezdése a 26/2016. (XII. 27.) IM rendelet 6. § a) és b) pontja, a 35/2022. (XII. 27.) IM rendelet 1. § f) pontja szerint módosított szöveg.
 [^287]: A 92. § (3) bekezdése a 17/2018. (VI. 27.) IM rendelet 44. § 45. pontja szerint módosított szöveg.

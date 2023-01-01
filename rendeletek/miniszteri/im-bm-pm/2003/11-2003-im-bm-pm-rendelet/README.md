@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-11-20-0
 | 2021-01-01 | 2003-11-20-06.18 | 20/2020. (XII. 30.) IM rendelet |
 | 2022-01-01 | 2003-11-20-06.19 | 17/2018. (VI. 27.) IM rendelet |
 | 2022-04-27 | 2003-11-20-06.20 | 12/2022. (IV. 26.) IM rendelet |
+| 2023-01-01 | 2003-11-20-06.21 | 47/2009. (IX. 28.) IRM–PM együttes rendelet |
