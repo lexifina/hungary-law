@@ -1,6 +1,6 @@
 ## A Boronka-melléki Tájvédelmi Körzet ingatlannyilvántartási helyrajzi számai
 
-## Somogy megye
+## Somogy vármegye
 
 ## Böhönye
 
