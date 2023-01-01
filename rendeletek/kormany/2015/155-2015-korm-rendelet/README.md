@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-155-20-
 | 2015-07-01 | 2015-155-20-22.1 | 155/2015. (VI. 25.) Korm. rendelet |
 | 2017-01-01 | 2015-155-20-22.2 | 477/2016. (XII. 27.) Korm. rendelet |
 | 2018-01-01 | 2015-155-20-22.3 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2023-01-01 | 2015-155-20-22.4 | 616/2022. (XII. 29.) Korm. rendelet |
