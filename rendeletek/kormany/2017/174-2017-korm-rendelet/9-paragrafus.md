@@ -15,3 +15,5 @@ d) 5. §-a,
 e) 6. § (1) bekezdés d) pontja és (2) bekezdés c) pontja, valamint
 
 f) 1. melléklete
+
+2017. október 1. napján lép hatályba.

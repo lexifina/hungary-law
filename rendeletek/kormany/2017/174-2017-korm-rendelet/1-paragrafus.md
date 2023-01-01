@@ -12,7 +12,7 @@ d) – a (2) bekezdésben foglalt kivétellel – a hivatásos konzuli tisztvise
 
 e)[^1] – a (10) bekezdésben meghatározott esetben – a külpolitikáért felelős miniszter által vezetett minisztérium kormánytisztviselőjét
 
-## jelöli ki.
+jelöli ki.
 
 (2)[^2] A hivatásos konzuli tisztviselő nem minősül anyakönyvvezetőnek az anyakönyvi eljárásról szóló 2010. évi I. törvény (a továbbiakban: At.) II. és III. Fejezetében, valamint – a házassági névviselési forma módosítására irányuló eljárás kivételével – IV. Fejezetében meghatározott feladatok esetében, továbbá, ha a nem önálló külképviselet felhatalmazása nem terjed ki anyakönyvezési feladatok ellátására.
 
@@ -26,7 +26,7 @@ a) képviselő-testület hivatalához tartozó fővárosi kerület vagy települ
 
 b) külképviselet
 
-## illetékességi területére terjed ki.
+illetékességi területére terjed ki.
 
 (6)[^6] A fővárosi önkormányzat által közvetlenül igazgatott területen történt anyakönyvi esemény anyakönyvezésére a Budapest XIII. kerületi önkormányzat képviselő-testülete hivatalának anyakönyvvezetője illetékes.
 

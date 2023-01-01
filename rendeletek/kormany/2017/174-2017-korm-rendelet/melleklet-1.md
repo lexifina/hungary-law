@@ -1,5 +1,3 @@
-## 10. §[^27]
-
 1. melléklet a 174/2017. (VI. 30.) Korm. rendelethez
 
 1. Bécsi Nagykövetség
@@ -44,13 +42,12 @@
 
 21. Ungvári Főkonzulátus
 
-22.[^28] Manchesteri Főkonzulátus
+22.[^30] Manchesteri Főkonzulátus
 
-23.[^29] Innsbrucki Főkonzulátus
+23.[^31] Innsbrucki Főkonzulátus
 
-24.[^30] Edinburgh-i Főkonzulátus
+24.[^32] Edinburgh-i Főkonzulátus
 
-[^27]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: Az 1. melléklet 22. pontját a 745/2021. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
-[^29]: Az 1. melléklet 23. pontját a 745/2021. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
-[^30]: Az 1. melléklet 24. pontját a 102/2022. (III. 10.) Korm. rendelet 3. §-a iktatta be.
+[^30]: Az 1. melléklet 22. pontját a 745/2021. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
+[^31]: Az 1. melléklet 23. pontját a 745/2021. (XII. 21.) Korm. rendelet 6. §-a iktatta be.
+[^32]: Az 1. melléklet 24. pontját a 102/2022. (III. 10.) Korm. rendelet 3. §-a iktatta be.
