@@ -12,7 +12,7 @@ d) az egységes külképviseleti rendszer adminisztratív-technikai működésé
 
 e) a vendégoktatói ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének
 
-f) a kulturális intézetek működése és irányítása, a kulturális diplomaták feladatellátási és a kulturális intézetek tekintetében a külpolitikáért felelős miniszter által vezetett minisztérium és a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett minisztérium közötti feladatmegosztás és együttműködés, valamint az ehhez tartozó költségvetés tervezés, -végrehajtás és -beszámolás rendjének
+f) a kulturális intézetek működése és irányítása, a kulturális diplomaták, valamint adminisztratív vagy technikai külszolgálati munkakörbe kihelyezett kormánytisztviselők feladatellátási és a kulturális intézetek tekintetében a külpolitikáért felelős miniszter által vezetett minisztérium és a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett minisztérium közötti feladatmegosztás és együttműködés, valamint az ehhez tartozó költségvetés tervezés, -végrehajtás és -beszámolás rendjének
 
 részletes szabályait rendeletben állapítsa meg.
 
@@ -44,17 +44,17 @@ l) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügy
 
 m) kihelyezett részére nyújtható kamatmentes illetmény- és költségtérítés-előlegnek és nyújtásának,
 
-n) kizárólag gépkocsivásárlás céljára nyújtható kölcsön, valamint
+n) kizárólag gépkocsivásárlás céljára nyújtható kölcsön,
 
-o) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
+o) a külképviselet által foglalkoztatott házastárs foglalkoztatásának,
 
 p) a külügyi szakmai vizsga,
 
-q) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által végzett, a kihelyezett és a külképviselet által foglalkoztatott házastárs alkalmassági vizsgálatának és a kihelyezett hozzátartozójának alkalmassági vizsgálatának, valamint a felülvizsgálat rendjének
+q) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat által végzett, a kihelyezett és a külképviselet által foglalkoztatott házastárs alkalmassági vizsgálatának és a kihelyezett hozzátartozójának alkalmassági vizsgálatának, valamint a felülvizsgálat rendjének,
 
-r) az ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének,
+r) az ösztöndíjprogram részletes szabályait, az ösztöndíj és költségtérítés megállapításának módját, az ösztöndíjban részesíthető személyek körét, az ösztöndíj nyújtásának módját és feltételeit, továbbá a jogosulatlanul kifizetett ösztöndíj visszafizetésének, valamint
 
-s)
+s) az árfolyam-kompenzáció feltételeinek és mértékének
 
 részletes szabályait rendeletben állapítsa meg.
 
@@ -94,4 +94,4 @@ részletes szabályait rendeletben állapítsa meg.
 
 (6) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy – az egészségügyért felelős miniszterrel egyetértésben – az 57/B. § (4) bekezdése szerinti egészségügyi ellátás igénybevételének részletes szabályait rendeletben állapítsa meg.
 
-(7) Felhatalmazást kap a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter, hogy a kulturális diplomaták tekintetében a szakmai felkészítés részletes szabályait rendeletben állapítsa meg.
+(7) Felhatalmazást kap a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter, hogy a kulturális diplomaták, valamint adminisztratív vagy technikai külszolgálati munkakörbe kihelyezett kormánytisztviselők tekintetében a szakmai felkészítés részletes szabályait rendeletben állapítsa meg.

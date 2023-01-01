@@ -20,17 +20,19 @@ pótszabadságra jogosult.
 
 (5) Az (1) bekezdésben foglalt szabadságon felül a kihelyezett a (6)–(7) bekezdésben szabályozott feltételekkel szabadságnak nem minősülő távollétet igazoló utazási nap, illetve egészségügyi vizsgálat céljából igénybe vehető szabadnap (a továbbiakban: orvosi nap) igénybevételére jogosult. Az utazási és orvosi nap felhasználása csak a tényleges Magyarországra történő utazáshoz, illetve a kihelyező szerv által meghatározott kötelező magyarországi orvosi vizsgálaton való megjelenéshez kapcsolódó konkrét távollét napok igazolására jogosít.
 
-(6) A kihelyezés és a berendelés évének kivételével a kihelyezettet évente összesen
+(6) A kihelyezettet évente összesen az alábbi szabadnapok illetik meg:
 
 a) Európán belüli állomáshely esetében két, Európán kívüli állomáshely esetében négy, Ausztrália és Óceánia esetében hat utazási nap, valamint
 
-b) állomáshelytől függetlenül két orvosi nap
+b) – külszolgálatra történő kihelyezés, illetve a tartós külszolgálat 20. § (1) bekezdés a) pont szerinti megszűnése éve kivételével – állomáshelytől függetlenül két orvosi nap,
 
-illeti meg.
+c) a külszolgálatra történő kihelyezés évében a b) pont szerinti mértékű orvosi napok, ha a kihelyezett, a kihelyezést megelőző utolsó tárgynegyedév és a kihelyezést követő év március 31. napjáig az e törvényben foglaltak szerinti alkalmassági vizsgálaton részt vett.
+
+(6a) A tartós külszolgálat 20. § (1) bekezdés a) pont szerinti megszűnése évében a kihelyezettet orvosi nap nem illeti meg.
 
 (7) A kihelyezettet az állomáshelyre történő első kiutazáskor és a végleges hazautazáskor – ideértve a másik állomáshelyre történő áthelyezést is – Európán belüli állomáshely esetében egy-egy, Európán kívüli állomáshely esetében kettő-kettő, Ausztrália és Óceánia esetében három-három utazási nap illeti meg. A külszolgálat megkezdésének és megszűnésének naptári évében, amennyiben abban az évben a külszolgálat időtartama nem éri el a kilenc hónapot, a kiutazáshoz, illetve a végleges hazautazáshoz biztosított utazási napokon túl a kihelyezett további utazási napokra nem jogosult.
 
-(8) A szabadság kiadásának időpontját – a kihelyezett előzetes meghallgatása után – az éves szabadságolási terv alapján a külképviselet-vezető határozza meg. A külképviselet-vezető tekintetében a szabadság kiadásának időpontját a kihelyező szerv határozza meg.
+(8) A szabadság kiadásának időpontját – a kihelyezett előzetes meghallgatása után – az éves szabadságolási terv alapján a külképviselet-vezető határozza meg. Hivatali érdekből a szabadság kiadását a külképviselet-vezető helyett a kihelyező vezető is meghatározhatja. A külképviselet-vezető tekintetében a szabadság kiadásának időpontját a kihelyező szerv határozza meg.
 
 (9) A 11. § (3) bekezdése szerinti külföldi felkészülési állományba, továbbá a 21. § (2) bekezdés szerinti átmeneti belföldi felkészülési állományba kinevezett kormánytisztviselő esetén szabadságolási tervet nem kell készíteni.
 

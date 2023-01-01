@@ -69,3 +69,9 @@ illeti meg.
 (19) Ha a kihelyezési okiraton szereplő hozzátartozók az állomáshelyet a tartós külszolgálat befejező időpontja előtt elhagyták, a hozzátartozók utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig számfejthető. Ha a hozzátartozók a kihelyezett ideiglenes berendelése alatt hagyták el az állomáshelyet és a végleges berendelés előtt az állomáshelyre nem térnek vissza, a kihelyezett a végleges berendelésének napjáig jogosult a hozzátartozók utáni járandóságra. Amennyiben a kihelyezett az állomáshelyet szabadság miatt a hozzátartozókkal együtt hagyja el, de a hozzátartozók nem térnek vissza az állomáshelyre, és az állomáshelyen történő életvitelszerű tartózkodás részükről befejeződött, a hozzátartozók utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig jár.
 
 (20) A kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter döntése alapján a kihelyező szerv az intézetigazgató részére lakhatási költségtérítést biztosíthat.
+
+(21) A kihelyező szerv a kihelyezett számára az euró- vagy dollárfolyam-emelkedés hatásának mérséklésére árfolyam-kompenzációt biztosíthat. Az árfolyam-kompenzáció megállapításának feltételeire, mértékére vonatkozó részletes szabályokat a külpolitikáért felelős miniszter rendeletben állapítja meg.
+
+(22) A honvédelemért felelős miniszter a közvetlen alárendeltségébe tartozó külképviseleti szervezeti egységeknél tartós külszolgálatot ellátó kormánytisztviselők számára az euró- vagy dollárárfolyam-emelkedés hatásának mérséklésére árfolyam-kompenzációt biztosíthat.
+
+(23) A (22) bekezdés szerinti árfolyam-kompenzációt az érintett kormánytisztviselők részére a honvédelemért felelős miniszter – a (21) bekezdés szerinti miniszteri rendeletben foglaltaknak megfelelően – saját hatáskörében állapítja meg.

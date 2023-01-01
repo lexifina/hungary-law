@@ -1,6 +1,6 @@
 11. § (1) A kihelyezésre kerülő személy – alapvető európai uniós elemeket is tartalmazó – külügyi felkészítését a külpolitikáért felelős miniszter, a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök betöltéséhez szükséges átfogó európai uniós felkészítését az európai uniós ügyek koordinációjáért felelős miniszter irányítja.
 
-(1a) A kulturális intézet igazgatója (a továbbiakban: intézetigazgató) és a kulturális diplomata szakmai felkészítése a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter bevonásával történik.
+(1a) A kulturális intézet igazgatója (a továbbiakban: intézetigazgató), a kulturális diplomata, valamint a kulturális intézet működéséhez kapcsolódó adminisztratív és technikai munkakörben feladatokat ellátó kihelyezett szakmai felkészítése a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter bevonásával történik, azzal, hogy a külügyi felkészítését a külpolitikáért felelős miniszter, a kulturális szakmai felkészítését a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett szervezet biztosítja.
 
 (1b) Az oktatási és kulturális feladatot ellátó diplomaták, valamint a tudományos és technológiai feladatot ellátó diplomaták szakmai felkészítése és szakmai irányítása a feladat- és hatáskörében érintett miniszter bevonásával történik.
 

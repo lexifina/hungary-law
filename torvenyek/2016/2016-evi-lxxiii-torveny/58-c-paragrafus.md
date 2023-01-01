@@ -16,7 +16,7 @@ a) az e törvény hatálya alá tartozó másik kihelyező szervnél történő 
 
 b) a kormányzati igazgatásról szóló törvény 103. §-a szerinti vagy ezzel egyenértékű tevékenység esetén,
 
-c) – a kormányzati igazgatásról szóló törvény 104. § (8) bekezdésében foglaltaktól eltérően – állam- vagy kormányközi nemzetközi szervezetnél, illetve nemzetközi vagy regionális szervezetnél vagy az Európai Unió szerveinél külügyi, külpolitikai, nemzetközi vagy egyéb diplomáciai tevékenység megkezdése érdekében történő átmeneti jogviszony létesítése esetén,
+c) – a kormányzati igazgatásról szóló törvény 104. § (8) bekezdésében foglaltaktól eltérően – állam- vagy kormányközi nemzetközi szervezetnél, illetve nemzetközi vagy regionális szervezetnél vagy az Európai Unió szerveinél külügyi, külpolitikai, nemzetközi vagy egyéb diplomáciai vagy magyar állami szerv, illetve állami tulajdonú gazdálkodó szervezet érdekében, illetve megbízásából történő külföldi munkavégzési tevékenység megkezdése érdekében történő átmeneti jogviszony létesítése esetén,
 
 d) a kormányzati igazgatásról szóló törvény a 131. § (1) bekezdés b) pontja szerinti, vagy házas- vagy élettársa által ellátott a)–c) pont szerinti tevékenysége miatt kért fizetés nélküli szabadság esetében,
 

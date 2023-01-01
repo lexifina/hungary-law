@@ -43,3 +43,7 @@
 (18) A kihelyező vezető mérlegelési jogkörében eljárva a kormányzati igazgatásról szóló törvény szerinti együttalkalmazási tilalom és összeférhetetlenség alól a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló személy részére legfeljebb négy év időtartamra felmentést adhat.
 
 (19) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 44. § (3a) bekezdésében foglaltaktól eltérően a Kormány által alapított és a Kormány kijelölése alapján a külpolitikáért felelős miniszter alapítói joggyakorlása alatt álló közalapítványnál a képzési program keretében, illetve a képzés részeként az Nftv. 44. § (1) bekezdés a) pontja szerint megszervezett szakmai gyakorlatra – ide nem értve a duális képzést – hallgatói munkaszerződés és díjazás nélkül is sor kerülhet.
+
+(20) A külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló, a 10. § (1) bekezdése szerinti pályázat benyújtására jogosult foglalkoztatott esetében a kormányzati igazgatásról szóló törvény munkarendre vonatkozó előírásai akként alkalmazandók, hogy heti munkaidő-keretben kötetlen munkarend is megállapítható.
+
+(21) A kormányzati igazgatásról szóló törvény 86. § (7b) bekezdésétől eltérően a kormányzati szolgálati jogviszony megszűnését vagy megszüntetését követően 180 napon belül a külpolitikáért felelős miniszter által vezetett minisztériummal létesített új kormányzati vagy politikai szolgálati jogviszonynál próbaidő kiköthető.
