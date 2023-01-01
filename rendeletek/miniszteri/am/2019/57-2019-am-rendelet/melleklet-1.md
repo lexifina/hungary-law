@@ -8,47 +8,47 @@ A II., III. és a meghosszabbított III. végrehajtási időszakban az OMME ált
 
 |  | Területi illetékesség | Vállalkozói díjszabás forint/hó |
 
-| 1. | Baranya megye | 600 000 |
+| 1. | Baranya vármegye | 600 000 |
 
-| 2. | Bács-Kiskun megye | 600 000 |
+| 2. | Bács-Kiskun vármegye | 600 000 |
 
-| 3. | Békés megye | 600 000 |
+| 3. | Békés vármegye | 600 000 |
 
-| 4. | Borsod-Abaúj-Zemplén megye | 600 000 |
+| 4. | Borsod-Abaúj-Zemplén vármegye | 600 000 |
 
-| 5. | Csongrád-Csanád megye | 590 000 |
+| 5. | Csongrád-Csanád vármegye | 590 000 |
 
-| 6. | Fejér megye | 590 000 |
+| 6. | Fejér vármegye | 590 000 |
 
-| 7. | Győr-Moson-Sopron megye | 590 000 |
+| 7. | Győr-Moson-Sopron vármegye | 590 000 |
 
-| 8. | Hajdú-Bihar megye | 600 000 |
+| 8. | Hajdú-Bihar vármegye | 600 000 |
 
-| 9. | Heves megye | 590 000 |
+| 9. | Heves vármegye | 590 000 |
 
-| 10. | Jász-Nagykun-Szolnok megye | 600 000 |
+| 10. | Jász-Nagykun-Szolnok vármegye | 600 000 |
 
-| 11. | Komárom-Esztergom megye | 490 000 |
+| 11. | Komárom-Esztergom vármegye | 490 000 |
 
-| 12. | Nógrád megye | 590 000 |
+| 12. | Nógrád vármegye | 590 000 |
 
-| 13. | Pest megye | 600 000 |
+| 13. | Pest vármegye | 600 000 |
 
-| 14. | Somogy megye | 600 000 |
+| 14. | Somogy vármegye | 600 000 |
 
-| 15. | Szabolcs-Szatmár-Bereg megye | 600 000 |
+| 15. | Szabolcs-Szatmár-Bereg vármegye | 600 000 |
 
-| 16. | Tolna megye | 550 000 |
+| 16. | Tolna vármegye | 550 000 |
 
-| 17. | Vas megye | 520 000 |
+| 17. | Vas vármegye | 520 000 |
 
-| 18. | Veszprém megye | 590 000 |
+| 18. | Veszprém vármegye | 590 000 |
 
-| 19. | Zala megye | 600 000 |
+| 19. | Zala vármegye | 600 000 |
 
 | 20. | Budapest | 550 000 |
 
 | 21. | Vezető szaktanácsadó (országos) | 800 000 |
 
 [^147]: A 33. §-t a 12/2020. (IV. 3.) AM rendelet 6. §-a iktatta be.
-[^148]: Az 1. mellékletet a 25/2021. (VII. 14.) AM rendelet 35. §-a iktatta be.
+[^148]: Az 1. mellékletet a 25/2021. (VII. 14.) AM rendelet 35. §-a iktatta be, szövege a 31/2022. (IX. 27.) AM rendelet 5. § n) pontja szerint módosított szöveg
