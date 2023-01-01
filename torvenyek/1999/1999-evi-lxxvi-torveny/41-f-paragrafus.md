@@ -1,6 +1,6 @@
 ## Árva mű kedvezményezett intézmény által történő felhasználása
 
-41/F. § (1) A 38. § (5) bekezdésében meghatározott intézmény és a közszolgálati médiaszolgáltató rádió- vagy televízió-szervezet (a továbbiakban együtt: kedvezményezett intézmény) a gyűjteménye vagy archívuma részét képező árva művet a közérdekű feladata teljesítése érdekében
+41/F. § (1) A 33/A. § (1) bekezdés 2. és 3. pontjában meghatározott intézmények és a közszolgálati médiaszolgáltató rádió- vagy televízió-szervezet (a továbbiakban együtt: kedvezményezett intézmény) a gyűjteménye vagy archívuma részét képező árva művet a közérdekű feladata teljesítése érdekében
 
 a) a nyilvánosság számára szabadon hozzáférhetővé teheti oly módon, hogy a nyilvánosság tagjai a hozzáférés helyét és idejét egyénileg választhatják meg;
 

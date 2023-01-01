@@ -4,6 +4,6 @@
 
 (3) A javasolt megállapodást a felek kifejezetten vagy hallgatólagosan elfogadhatják. Hallgatólagos elfogadásnak kell tekinteni, ha a megállapodási javaslatot a fél a kézbesítéstől számított három hónapon belül nem kifogásolja az egyeztető testületnél.
 
-(4) Ha az egyeztető testület a 105. §-ban foglalt szabályok megsértésével járt el, a sérelmet szenvedett fél az egyeztető testület döntése alapján létrejött megállapodást az annak hatálybalépésétől számított három hónapon belül bíróság előtt megtámadhatja.
+(4)
 
-(5) A (4) bekezdésben említett eljárás a Fővárosi Törvényszék hatáskörébe és kizárólagos illetékessége alá tartozik.
+(5)

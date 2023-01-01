@@ -16,6 +16,6 @@ c) nem használható fel a kifejezési formájában lényegében hasonló másik
 
 (3) Az (1) és a (2) bekezdésben szabályozott cselekményekre a 33. § (2) bekezdését értelemszerűen alkalmazni kell.
 
-(4) A 16. § (4) bekezdése, a 34. § (2) bekezdése, a 38. § (1) bekezdése, a 48. §, az 50/A. §, az 51. §, az 55. § (1) bekezdése, valamint a 102. § a szoftverre nem alkalmazható. A 49. § (1) bekezdésében szabályozott határidő szoftver esetében négy hónap.
+(4) A szoftverre a 34. § (2) bekezdése és a 38. § (1) bekezdése nem alkalmazható.
 
-(5)
+(5) A szoftver felhasználási és vagyonjogi átruházási szerződésre a 16. § (4), (6)–(7) bekezdése, a 48. §, az 50/A. §, az 50/B. §, az 51. §, valamint a 102. § kivételével a felhasználási szerződés szabályait kell alkalmazni. A 49. § (1) bekezdésében szabályozott határidő szoftver esetében négy hónap.

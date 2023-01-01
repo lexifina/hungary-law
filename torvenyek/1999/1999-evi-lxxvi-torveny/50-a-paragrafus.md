@@ -26,6 +26,6 @@ d) a szerző részére fizetendő díjazásról.
 
 (10) Az (1)–(9) bekezdés nem alkalmazható
 
-a) a munkaviszonyra vagy más hasonló jogviszonyban alkotott művekre vagy teljesítményekre [30. §], és
+a) a munkaviszonyban vagy más hasonló jogviszonyban alkotott művekre (30. §) vagy a munkaviszonyban vagy más hasonló jogviszonyban alkotott teljesítményekre, és
 
 b) közös jogkezelő szervezetek és a független jogkezelő szervezetek által a felhasználókkal kötött felhasználási szerződésekre, valamint a közös jogkezelő szervezetek által a díjigények gyakorlása körében a díjfizetésre kötelezettel kötött megállapodásokra.

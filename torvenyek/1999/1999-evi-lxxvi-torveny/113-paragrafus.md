@@ -26,6 +26,8 @@ k) a szerzői és szomszédos jogi védelemben részesülő egyes műveknek és 
 
 l) a digitális egységes piacon a szerzői és szomszédos jogokról, valamint a 96/9/EK és a 2001/29/EK irányelv módosításáról szóló, 2019. április 17-i (EU) 2019/790 európai parlamenti és tanácsi irányelv,
 
-m) a műsorszolgáltató szervezetek egyes online közvetítéseire, valamint televíziós és rádiós műsorok továbbközvetítésére alkalmazandó szerzői jogok és szerzői joggal szomszédos jogok gyakorlására vonatkozó szabályok megállapításáról, valamint a 93/83/EGK tanácsi irányelv módosításáról szóló, 2019. április 17-i (EU) 2019/789 európai parlamenti és tanácsi irányelv.
+m) a műsorszolgáltató szervezetek egyes online közvetítéseire, valamint televíziós és rádiós műsorok továbbközvetítésére alkalmazandó szerzői jogok és szerzői joggal szomszédos jogok gyakorlására vonatkozó szabályok megállapításáról, valamint a 93/83/EGK tanácsi irányelv módosításáról szóló, 2019. április 17-i (EU) 2019/789 európai parlamenti és tanácsi irányelv,
+
+n) a szerzői és szomszédos jogokra vonatkozó közös jogkezelésről és a zeneművek belső piacon történő online felhasználásának több területre kiterjedő hatályú engedélyezéséről szóló, 2014. február 26-i 2014/26/EU európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény a szerzői és szomszédos jogi védelemben részesülő egyes művek és más teljesítmények hozzáférhető formátumú példányainak a vakok, látáskárosultak és nyomtatott szöveget egyéb okból használni képtelen személyek érdekét szolgáló, határokon átnyúló, az Unió és harmadik országok közötti cseréjéről szóló 2017. szeptember 13-i (EU) 2017/1563 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

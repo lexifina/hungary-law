@@ -1,6 +1,6 @@
 ## A sajtókiadványok kiadóinak védelme
 
-82/A. § (1) Ezen alcím alkalmazásában sajtókiadványnak minősül az a főként újságírói jellegű irodalmi művekből álló – akár egyéb műveket vagy szomszédos jogi teljesítményeket is tartalmazó – gyűjtemény, amely
+82/A. § (1) Ezen alcím alkalmazásában sajtókiadványnak minősül az a főként újságírói jellegű irodalmi művekből álló – akár egyéb műveket vagy szomszédos jogi teljesítményeket is tartalmazó – kiadvány, amely
 
 a) egy azonos cím alatt megjelenő időszakos kiadvány vagy rendszeresen aktualizált kiadvány,
 

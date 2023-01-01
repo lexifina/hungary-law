@@ -54,4 +54,4 @@ p) a gyűjteményes műnek minősülő adatbázis.
 
 (7) A folklór kifejeződései nem részesülnek szerzői jogi védelemben. E rendelkezés nem érinti a népművészeti ihletésű, egyéni, eredeti jellegű mű szerzőjét megillető szerzői jogi védelmet.
 
-(8) Az előadóművészek, a hangfelvétel-előállítók, a rádió- és a televízió-szervezetek, a filmelőállítók, valamint az adatbázis-előállítók teljesítményei az e törvényben meghatározott védelemben részesülnek.
+(8) Az előadóművészek, a hangfelvétel-előállítók, a rádió- és a televízió-szervezetek, a filmelőállítók, a sajtókiadványok kiadói, valamint az adatbázis-előállítók teljesítményei az e törvényben meghatározott védelemben részesülnek.

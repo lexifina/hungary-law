@@ -1,3 +1,5 @@
 105. § (1) Az egyeztető testület eljárása során a feleket egyenlő elbánásban kell részesíteni, és mindegyik félnek meg kell adni a lehetőséget, hogy álláspontját előadhassa. Az egyeztető testület a feleket az eljárásban való részvételre, eljárási cselekmények lefolytatására nem kötelezheti, kivéve, ha a felek ebben megállapodnak. Egyebekben az egyeztető testület – a (2) bekezdésben említett szabályzat keretein belül – az eljárási szabályait, valamint a díjszabását maga állapítja meg.
 
 (2) Az egyeztető testület eljárási szabályzatát az SZJSZT dolgozza ki, és az igazságügyért felelős miniszter hagyja jóvá. A jóváhagyást megelőzően be kell szerezni a Hivatal felügyeletét ellátó miniszternek, valamint a kultúráért felelős miniszternek a véleményét.
+
+(3) Ha az egyeztető testület a 104. §-ban, valamint a 105/A. §-ban foglalt eljárása során e §-ban foglalt szabályok megsértésével járt el, a sérelmet szenvedett fél az egyeztető testület döntése alapján létrejött megállapodást annak hatálybalépésétől számított három hónapon belül bíróság előtt megtámadhatja. Ezen eljárás a Fővárosi Törvényszék hatáskörébe és kizárólagos illetékessége alá tartozik.

@@ -6,4 +6,4 @@
 
 (4) Az e §-ban meghatározott panasztételi eljárás nem zárja ki a bírói úton való jogérvényesítést vagy alternatív vitarendezési eljárások igénybevételének lehetőségét.
 
-(5) A tartalommegosztó szolgáltató nem felel a szolgáltatás igénybe vevője által e § szerint benyújtott panasz nyomán ismét elérhetővé tett tartalomért.
+(5) A tartalommegosztó szolgáltató nem felel a szolgáltatás igénybe vevője által e § szerint benyújtott panasz nyomán elérhetővé tett tartalomért.
