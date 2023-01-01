@@ -1,4 +1,4 @@
-106. § (1) A kormánytisztviselő részére, ha a kormányzati szolgálati jogviszonya év közben kezdődött vagy szűnt meg, a szabadság arányos része jár.
+106. § (1) A kormánytisztviselő részére, ha a kormányzati szolgálati jogviszonya év közben kezdődött vagy szűnt meg, – az apasági szabadság és a szülői szabadság kivételével – a szabadság arányos része jár.
 
 (2) A fél napot elérő töredéknap egész munkanapnak számít.
 

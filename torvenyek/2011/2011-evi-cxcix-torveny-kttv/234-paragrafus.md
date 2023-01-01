@@ -8,7 +8,7 @@
 
 (3) A helyi önkormányzat rendeletben egységesen valamennyi felsőfokú iskolai végzettségű köztisztviselőnek a tárgyévre illetménykiegészítést állapíthat meg, amelynek mértéke a köztisztviselő alapilletményének
 
-a) a megyei önkormányzatnál, a megyei jogú városnál legfeljebb 40%-a,
+a) a vármegyei önkormányzatnál, a megyei jogú városnál legfeljebb 40%-a,
 
 b) községi önkormányzatnál legfeljebb 20%-a,
 

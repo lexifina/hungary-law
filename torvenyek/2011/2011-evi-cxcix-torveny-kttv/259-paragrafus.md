@@ -90,6 +90,8 @@ b) a munkáltatót a kinevezéssel kapcsolatban és a kormányzati szolgálati j
 
 c) a részmunkaidőben történő foglalkoztatás lehetőségével összefüggő munkáltatói kötelezettségeket, valamint az atipikus foglalkoztatási formákhoz kapcsolódó tájékoztatási kötelezettségeket;
 
+d) az atipikus foglalkoztatási formára való áttérés közszolgálati tisztviselő általi kezdeményezésére és a kérelem elbírálására vonatkozó szabályokat;
+
 13. a közélet tisztasága szempontjából jelentős érzékenységgel rendelkező munkaköröket megállapítsa;
 
 14. a képesítésre vonatkozó részletes szabályokat megállapítsa;
@@ -112,7 +114,7 @@ b) a közigazgatási alap- és szakvizsgára, az ügykezelői alapvizsgára, val
 
 c) a továbbképzés minősítési és nyilvántartási rendjére, tervezésére, a képzésfejlesztés és szolgáltatás feltételeire, a minőségirányítás rendjére, a továbbképzési kötelezettségre, a továbbképzés pénzügyi és intézményi feltételeire vonatkozó részletes szabályokat;
 
-18. állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat;
+18.
 
 19. a közszolgálati tisztviselők tekintetében a garantált bérminimum összegét és hatályát – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően – megállapítsa;
 

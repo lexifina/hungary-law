@@ -8,12 +8,16 @@ a) a munkaidő-beosztás alapján történő munkavégzési kötelezettség aló
 
 b) a szülési szabadság,
 
-c) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság [111. §, 113. § (1) bekezdése] első hat hónapjának,
+c) az apasági szabadság,
 
-d) a hozzátartozó ápolása miatt kapott harminc napot meg nem haladó fizetés nélküli szabadság,
+d) a szülői szabadság,
 
-e) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó időtartamára,
+e) a gyermek gondozása céljából igénybe vett fizetés nélküli szabadság [111. §, 113. § (1) bekezdése] első hat hónapjának,
 
-f) a 79. § a), b), h), j) és m) pontjaiban meghatározott esetekben, valamint
+f) a hozzátartozó ápolása miatt kapott harminc napot meg nem haladó fizetés nélküli szabadság,
 
-g) minden olyan munkában nem töltött időre, amelyre a kormánytisztviselő illetményre jogosult [144. § (3) bekezdése].
+g) a tényleges önkéntes tartalékos katonai szolgálatteljesítés három hónapot meg nem haladó időtartamára,
+
+h) a 79. § a), b), h), j), m) és n) pontjában meghatározott esetekben, valamint
+
+i) minden olyan munkában nem töltött időre, amelyre a kormánytisztviselő illetményre jogosult [144. § (3) bekezdése].

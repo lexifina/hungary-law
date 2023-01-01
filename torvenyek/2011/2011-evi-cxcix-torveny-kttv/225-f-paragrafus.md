@@ -1,4 +1,4 @@
-225/F. § (1) A polgármester ellen a fegyelmi eljárást a képviselő-testület rendeli el. A fegyelmi eljárás kezdeményezésére a képviselő-testület tagja, bizottsága, valamint a fővárosi és megyei kormányhivatal vezetője jogosult.
+225/F. § (1) A polgármester ellen a fegyelmi eljárást a képviselő-testület rendeli el. A fegyelmi eljárás kezdeményezésére a képviselő-testület tagja, bizottsága, valamint a fővárosi és vármegyei kormányhivatal vezetője jogosult.
 
 (2) A fegyelmi eljárás során vizsgálatot kell tartani, amelynek lefolytatására a képviselő-testület tagjai közül háromtagú vizsgálóbizottságot kell megbízni. A száznál kevesebb lakosú községben a fegyelmi vizsgálatot a képviselő-testület folytatja le.
 

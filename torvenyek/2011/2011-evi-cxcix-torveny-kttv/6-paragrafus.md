@@ -2,7 +2,11 @@
 
 1. alapvető munkáltatói jog: a kinevezés, jogviszony megszüntetés, áthelyezés, fegyelmi és kártérítési eljárás, valamint sérelemdíj megfizetésére irányuló eljárás megindítása, fegyelmi büntetés, kártérítés, sérelemdíj, összeférhetetlenség megállapítása, kinevezés tartalmának módosítása;
 
-1a.
+1a. apa: a Polgári Törvénykönyv (a továbbiakban: Ptk.) szerint szülői felügyelettel rendelkező
+
+a) apai jogállású férfi vagy
+
+b) örökbefogadó férfi;
 
 2. beosztás szerinti heti munkaidő: a hétre elrendelt rendes munkaidő;
 
@@ -20,7 +24,15 @@
 
 7a. fogyatékos gyermek: az a gyermek, akire tekintettel a családok támogatásáról szóló törvény szerinti magasabb összegű családi pótlék került megállapításra;
 
-7b. gyermek: a családok támogatására vonatkozó szabályok szerinti saját háztartásban nevelt vagy gondozott gyermek;
+7b. gondozást végző közszolgálati tisztviselő: az a közszolgálati tisztviselő, aki a kezelőorvos által igazolt
+
+a) súlyos egészségi okból, és
+
+b) jelentős gondozásra vagy támogatásra szoruló hozzátartozójának vagy a közszolgálati tisztviselővel közös háztartásban élő személynek
+
+személyes gondozást vagy támogatást nyújt;
+
+7c. gyermek: a családok támogatásáról szóló törvény szerinti saját háztartásban nevelt vagy gondozott gyermek, ideértve, ha a különélő szülők a közös szülői felügyelet gyakorlásakor a gyermeket saját háztartásukban egymást felváltva, azonos időtartamban nevelik, gondozzák;
 
 8. gyermekét egyedül nevelő közszolgálati tisztviselő: aki gyermekét saját háztartásában neveli és hajadon, nőtlen, özvegy, elvált, házastársától külön él és nincs élettársa;
 
@@ -42,7 +54,7 @@
 
 16. közigazgatási gyakorlatnak kell tekinteni a közigazgatási szervnél, illetve annak jogelőd szervénél közszolgálati jogviszonyban, állami szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, államigazgatási munkaviszonyban töltött időt tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem; a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szervnél szerzett gyakorlatot; továbbá a 247. § (1) bekezdés c) pontja vonatkozásában – jogi előadói vagy más jogi munkakörben megszerzett joggyakorlat kivételével – a jogi szakvizsga megtételéhez szükséges joggyakorlati időt is;
 
-17. közigazgatási szerv: az 1. §-ban és a 2. §-ban meghatározott szervek, valamint a fővárosi és megyei kormányhivatal;
+17. közigazgatási szerv: az 1. §-ban és a 2. §-ban meghatározott szervek, valamint a fővárosi és vármegyei kormányhivatal;
 
 18. közigazgatási szervnél képviselettel rendelkező szakszervezet: az a szakszervezet, amelyik alapszabálya szerint a közigazgatási szervnél képviseletére jogosult szervet működtet, illetve tisztségviselővel rendelkezik;
 

@@ -12,7 +12,7 @@ d) munkavégzésének a helyét,
 
 e) előmeneteléhez előírt kötelezettségeket, valamint
 
-f) kormányzati szolgálati jogviszonya kezdetének napját.
+f) kormányzati szolgálati jogviszonya kezdetének a napját és – határozott időre létesített kormányzati szolgálati jogviszony esetén a jogviszony 38. § (3) bekezdése figyelembevételével meghatározott – időtartamát.
 
 (2) Ha a kinevezési okmány nem tartalmaz az (1) bekezdés f) pontjában foglalt napra vonatkozóan rendelkezést, a jogviszony kezdete a kinevezés elfogadását követő nap.
 

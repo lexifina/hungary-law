@@ -6,7 +6,7 @@
 
 (3) Az átadó munkáltató az átszállást megelőzően köteles tájékoztatni az átvevő munkáltatót az átszállással érintett jogviszonyokból, valamint a tanulmányi szerződésekből származó jogokról és kötelezettségekről. A tájékoztatás elmaradása az átvevő munkáltatóval szemben e jogviszonyokból származó igények érvényesítését nem érinti.
 
-(4) Az átvevő munkáltató az átszállást követő harminc napon belül a munkáltató azonosító adatainak közlésével köteles írásban tájékoztatni a kormánytisztviselőt a munkáltató személyében bekövetkezett változásról.
+(4) Az átvevő munkáltató legkésőbb az átszállás napján a munkáltató azonosító adatainak közlésével köteles írásban tájékoztatni a kormánytisztviselőt a munkáltató személyében bekövetkezett változásról.
 
 (5) Ha a jogutódlás következtében a kormánytisztviselő feladatköre, munkaköre, illetménye vagy – az (1) bekezdésben foglaltak szerint – munkavégzésének helye megváltozik, az átvevő munkáltató az átszállást követő negyvenöt napon belül módosítja a kormánytisztviselő kinevezését.
 

@@ -6,7 +6,7 @@ b) a 3000–10 000 lakosú településen, valamint a 3000-nél kevesebb lakosú 
 
 c) a 10 000–100 000 lakosú településen az alapilletményének 30%-a,
 
-d) a megyei jogú város, fővárosi kerület jegyzőjének és a megyei jegyzőnek az alapilletménye 40%-a,
+d) a megyei jogú város, fővárosi kerület jegyzőjének és a vármegyei jegyzőnek az alapilletménye 40%-a,
 
 e) a fővárosi főjegyző esetében az alapilletményének 50%-a.
 

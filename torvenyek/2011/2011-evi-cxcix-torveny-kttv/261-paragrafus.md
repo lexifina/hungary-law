@@ -4,7 +4,7 @@
 
 a) az Európai Parlament és a Tanács 2003/88/EK irányelve (2003. november 4.) a munkaidő-szervezés egyes szempontjairól,
 
-b) a Tanács 91/533/EGK irányelve (1991. október 14.) a munkaadónak a munkavállalóval szembeni, a szerződés, vagy a munkaviszony feltételeiről való tájékoztatási kötelezettségéről,
+b) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelv,
 
 c) a Tanács 1999/70/EK irányelve (1999. június 28.) az ESZSZ, az UNICE és a CEEP által a határozott ideig tartó munkaviszonyról kötött keretmegállapodásról,
 
@@ -12,7 +12,7 @@ d) a Tanács 97/81/EK irányelve (1997. december 15.) az UNICE, a CEEP és az ES
 
 e) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk,
 
-f) a Tanács 2010/18/EU irányelve (2010. március 8.) a BUSINESSEUROPE, az UEAPME, CEEP és ESZSZ által a szülői szabadságról kötött, felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK irányelv hatályon kívül helyezéséről,
+f) a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és a tanácsi irányelv,
 
 g) a Tanács 92/85/EGK irányelve (1992. október 19.) a várandós, a gyermekágyas vagy szoptató munkavállalók munkahelyi biztonságának és egészségvédelmének javítását ösztönző intézkedések bevezetéséről (tizedik egyedi irányelv a 89/391/EGK irányelv 16. cikke (1) bekezdésének értelmében),
 

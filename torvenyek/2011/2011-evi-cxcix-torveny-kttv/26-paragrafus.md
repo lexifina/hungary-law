@@ -16,7 +16,7 @@ b) kidolgozza a közigazgatási személyzetpolitika irányait és elveit és gon
 
 (3) A kormányzati személyügyi igazgatásra kijelölt szerv vezetője statisztikai célú adatgyűjtést végezhet, adatszolgáltatást kérhet a közigazgatási szervtől a kormányzati személyzetpolitika összehangolásának biztosítása érdekében.
 
-(4) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter ellenőrzi – a fővárosi és megyei kormányhivatalok közreműködésével – a kormányzati szolgálati és a közszolgálati jogviszonyra vonatkozó jogszabályok végrehajtását.
+(4) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter ellenőrzi – a fővárosi és vármegyei kormányhivatalok közreműködésével – a kormányzati szolgálati és a közszolgálati jogviszonyra vonatkozó jogszabályok végrehajtását.
 
 (5) A közszolgálati életpálya kidolgozásáért felelős miniszter felel az egységes alapokon megvalósuló személyügyi nyilvántartás és integrált emberierőforrás-gazdálkodási rendszer működéséért a minisztériumokban.
 

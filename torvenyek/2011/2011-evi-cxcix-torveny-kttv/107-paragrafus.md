@@ -10,6 +10,8 @@ b) a 62/A. § szerint új kormányzati szolgálati jogviszonyt nem létesít, az
 
 (2b) A gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság megszűnését követően, ha a kormánytisztviselő a gyermek ápolása, gondozása miatt kapott fizetés nélküli szabadság első hat hónapjára járó szabadságot nem kapta meg, azt a felek megállapodása alapján pénzben is meg lehet váltani.
 
+(2c) A (2) és a (2a) bekezdésben foglaltaktól eltérően az apasági szabadságot és a szülői szabadságot a kormányzati szolgálati jogviszony megszűnése esetén nem lehet megváltani.
+
 (3) Ha a kormánytisztviselő a kormányzati szolgálati jogviszonya megszűnéséig több szabadságot vett igénybe annál, mint ami az államigazgatási szervnél töltött időre megilletné, a különbözetre kifizetett illetményt köteles visszafizetni.
 
 (4) Nem követelhető vissza a túlfizetés, ha a kormányzati szolgálati jogviszony a kormánytisztviselő nyugdíjasnak minősülése miatt, vagy halála, illetve az államigazgatási szerv jogutód nélküli megszűnése miatt szűnt meg.

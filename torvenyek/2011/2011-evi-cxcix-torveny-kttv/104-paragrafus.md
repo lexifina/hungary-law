@@ -1,4 +1,4 @@
-104. § (1) A szabadságot esedékességének évében kell kiadni.
+104. § (1) A szabadságot – az apasági szabadság és a szülői szabadság kivételével – az esedékességének évében kell kiadni.
 
 (2) A munkáltatói jogkör gyakorlója
 

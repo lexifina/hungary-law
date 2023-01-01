@@ -25,3 +25,5 @@ k) e törvényben, e törvény végrehajtására kiadott jogszabályban, valamin
 l) a munkáltató engedélye alapján,
 
 m) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra.
+
+n) súlyos egészségi okból gondozásra szoruló hozzátartozójának vagy a vele közös háztartásban élő személynek nyújtott személyes gondozása céljából évente legfeljebb öt munkanapra.

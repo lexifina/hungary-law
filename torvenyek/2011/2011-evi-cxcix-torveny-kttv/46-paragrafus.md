@@ -5,3 +5,7 @@
 (3) A próbaidő alatt a kormányzati szolgálati jogviszonyt bármelyik fél indokolás nélkül azonnali hatállyal megszüntetheti.
 
 (4) A három hónapnál rövidebb idejű kinevezés esetén a felek megállapodhatnak a próbaidő kikötéséről azzal, hogy a próbaidő legfeljebb a határozott idejű kinevezés időtartamának a fele lehet.
+
+(5) A határozott idejű kormányzati szolgálati jogviszony meghosszabbítása esetén azonos vagy hasonló munkakörben történő foglalkoztatás esetén újabb próbaidő nem köthető ki.
+
+(6) A próbaidő leghosszabb tartamát legfeljebb tizenkét havi határozott időre létesített kormányzati szolgálati jogviszony esetén arányosan kell megállapítani.
