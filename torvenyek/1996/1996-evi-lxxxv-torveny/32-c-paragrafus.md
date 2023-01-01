@@ -104,6 +104,8 @@ ingatlan-nyilvántartási feljegyzése iránti hatósági eljárás;
 
 z) az Országos Erdőállomány Adattárban erdőként vagy fátlan állapotban tartott erdőként nyilvántartott terület erdő vagy fásított terület művelési ágának átvezetésére, ennek hiányában jogi jellegként történő feljegyzésére irányuló hatósági eljárás.
 
+zs) az állami vagyonról szóló 2007. évi CVI. törvény 42/O. § (2) bekezdés b) pontja szerinti ingyenes átruházáson alapuló tulajdonosváltozás ingatlan-nyilvántartási bejegyzése.
+
 (1a) Tárgyánál fogva díjmentes a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 108/G. §-a szerinti, törölt haszonélvezeti jog visszajegyzésére, valamint a törölt haszonélvezeti jog visszajegyezhetőségének vizsgálatára irányuló eljárás megindítása tényének törlésére irányuló hatósági eljárás.
 
 (2) A mentesség fennállásáról a kérelmező az eljárás megindításakor köteles nyilatkozni.

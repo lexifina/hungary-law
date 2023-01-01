@@ -1,3 +1,3 @@
 33/A. § (1) Az államháztartás alrendszereiből, európai uniós forrásokból, illetve nemzetközi megállapodás alapján finanszírozott egyéb programokból származó, egyedi döntés alapján nyújtott, pályázati vagy pályázati rendszeren kívüli támogatások odaítélésére irányuló eljárásban mellékletként nem lehet tulajdonilap-másolat csatolását kérni.
 
-(2) Az (1) bekezdésben meghatározott, közigazgatási hatósági eljárásnak nem minősülő eljárásban elektronikus dokumentumként szolgáltatott nem hiteles tulajdonilap-másolatot kell felhasználni, amelynek költségét – ha jogszabály eltérően nem rendelkezik – a pályázónak kell viselnie.
+(2) Az (1) bekezdésben meghatározott, közigazgatási hatósági eljárásnak nem minősülő eljárásban elektronikus dokumentumként szolgáltatott hiteles tulajdonilap-másolatot kell felhasználni, amelynek költségét – ha jogszabály eltérően nem rendelkezik – a pályázónak kell viselnie.

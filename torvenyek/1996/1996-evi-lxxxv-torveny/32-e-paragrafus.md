@@ -42,7 +42,7 @@ c) az a) és b) pontba nem tartozó más köztartozás, és
 
 d) az a)–c) pont valamelyikében foglalt feltétel teljesülését, valamint az utólagos díjfizetésre irányuló igényt a megkeresés tartalmazza.
 
-(11a) A (11) bekezdés szerinti díj megfizetésére nem kerül sor, ha a fővárosi és megyei kormányhivatal vagy járási (fővárosi kerületi) hivatal, illetve e hivatalok döntései alapján foganatosított végrehajtási eljárás eredménytelenül zárul.
+(11a) A (11) bekezdés szerinti díj megfizetésére nem kerül sor, ha a fővárosi és vármegyei kormányhivatal vagy járási (fővárosi kerületi) hivatal, illetve e hivatalok döntései alapján foganatosított végrehajtási eljárás eredménytelenül zárul.
 
 (12) A felszámolás tényének az ingatlan-nyilvántartásba történő feljegyzése esetén az eljárásért fizetendő díjat utólagosan fizeti meg a felszámolási eljárás alatt álló jogi személy. A díjfizetési kötelezettség akkor válik esedékessé, ha a felszámolási eljárás során az ingatlant érintő tulajdonosváltozás bejegyzése érdekében nyújtanak be okiratot vagy megkeresést, ilyen okirat vagy megkeresés hiányában pedig a felszámolási eljárást befejező bírósági végzés jogerőre emelkedésének napján.
 
