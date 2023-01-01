@@ -1,8 +1,6 @@
-## 6. §[^4]
-
 1. melléklet az 560/2020. (XII. 7.) Korm. rendelethez
 
-## A kártalanítási eljárásra irányuló kérelem adattartalma
+A kártalanítási eljárásra irányuló kérelem adattartalma
 
 1. A kártalanítást igénylő személyazonosító adatai
 
@@ -49,5 +47,3 @@
 5.3. Számlaszám
 
 6. A kártalanítást igénylő aláírása és a kérelem kelte
-
-[^4]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
