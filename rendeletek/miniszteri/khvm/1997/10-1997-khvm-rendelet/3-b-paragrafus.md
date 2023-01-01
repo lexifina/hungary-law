@@ -14,7 +14,7 @@ ae) a védekezés létszáma és tárgyi igénye, figyelemmel a vízhiánykezel�
 
 af) a vízhiánykezelő körzetben található vízhasználatok adatai;
 
-b) az áttekintő helyszínrajz, amely feltünteti a vízhiánykezelő körzet és az öntözőrendszerek hatásterületének területi határát, a településeket, a megyehatárt, az országhatárt, a körzet főcsatornáit és főbb csatornáit, a torkolati, vízkivételi és közbenső szivattyútelepeket, a víztározókat, a vízrendszerek közötti átvezetéseket, az utakat és a vasutakat;
+b)[^17] az áttekintő helyszínrajz, amely feltünteti a vízhiánykezelő körzet és az öntözőrendszerek hatásterületének területi határát, a településeket, a vármegyehatárt, az országhatárt, a körzet főcsatornáit és főbb csatornáit, a torkolati, vízkivételi és közbenső szivattyútelepeket, a víztározókat, a vízrendszerek közötti átvezetéseket, az utakat és a vasutakat;
 
 c) a részletes helyszínrajz, amely a vízhiánykezelő körzetben feltünteti az őrtelepeket, a teljes csatornahálózatot, a főbb vízkormányzó műtárgyakat, a szivattyúállásokat, a szivattyúzási helyeket és a vízhasználatok helyét azonosítható módon, a meliorált területeket, a vízvisszatartásra igénybe vehető területeket, tározókat, holtágakat, halastavakat és egyéb célt szolgáló tavakat;
 
@@ -32,6 +32,8 @@ a) a VIZIG működési területének leírása, amely magában foglalja a terül
 
 b) a védekezés személyi (átlagos létszámszükséglet) és tárgyi feltételei, figyelemmel a vízhiánykezelő körzet szervezetére, tárgyi eszközeire és öntözőrendszerek üzemeltető szervezetére és
 
-c) a helyszínrajz, amely feltünteti a vízhiánykezelő körzet és az öntözőrendszerek hatásterületének területi határát, a településeket, a megyehatárt, az országhatárt, a körzet főcsatornáit és főbb csatornáit, a torkolati, vízkivételi és közbenső szivattyútelepeket, a víztározókat, a vízrendszerek közötti átvezetéseket, az utakat és a vasutakat.
+c)[^18] a helyszínrajz, amely feltünteti a vízhiánykezelő körzet és az öntözőrendszerek hatásterületének területi határát, a településeket, a vármegyehatárt, az országhatárt, a körzet főcsatornáit és főbb csatornáit, a torkolati, vízkivételi és közbenső szivattyútelepeket, a víztározókat, a vízrendszerek közötti átvezetéseket, az utakat és a vasutakat.
 
 [^16]: A 3/B. §-t a 35/2021. (X. 14.) BM rendelet 1. § (4) bekezdése iktatta be.
+[^17]: A 3/B. § (1) bekezdés b) pontja a 45/2022. (XII. 20.) BM rendelet 3. §-a szerint módosított szöveg.
+[^18]: A 3/B. § (2) bekezdés c) pontja a 45/2022. (XII. 20.) BM rendelet 3. §-a szerint módosított szöveg.

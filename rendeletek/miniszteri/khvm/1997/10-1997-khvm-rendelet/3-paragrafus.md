@@ -92,7 +92,7 @@ ac) a védekezésre kötelezett kezelésében lévő csatornák, szivattyútelep
 
 ad) a belvíz tározására állandóan vagy időszakosan igénybe vehető területek a művelési ágak feltüntetésével, a tározók, halastavak, holtágak, egyéb tározók, a vízkormányzó műtárgyak, a szivattyútelepek, a szivattyúállások üzemelési rendjének, a szállítható szivattyúk tervezett telepítési helyének és kapacitásának, a szivattyúk típusának, tárolási helyének, kezelőszemélyzet számának, az üzemanyag-ellátás módjának meghatározásával;
 
-b)[^8] áttekintő helyszínrajz, amely feltünteti a vízgyűjtő terület, a belvízvédelmi szakasz és öblözetek, valamint a belvízvédekezésre kötelezett közigazgatási vagy működési területének határát, a településeket és azok közigazgatási határát, megyehatárt, országhatárt, a vízitársulatok működési területének határát, a szakasz főcsatornáit, a torkolati és közbenső szivattyútelepeket, a kijelölt belvíztározókat, vízrendszerek közötti átvezetéseket, a különcélú vezetékes hírközlő hálózatot, az utakat és a vasutakat; valamint
+b)[^8] áttekintő helyszínrajz, amely feltünteti a vízgyűjtő terület, a belvízvédelmi szakasz és öblözetek, valamint a belvízvédekezésre kötelezett közigazgatási vagy működési területének határát, a településeket és azok közigazgatási határát, vármegyehatárt, országhatárt, a vízitársulatok működési területének határát, a szakasz főcsatornáit, a torkolati és közbenső szivattyútelepeket, a kijelölt belvíztározókat, vízrendszerek közötti átvezetéseket, a különcélú vezetékes hírközlő hálózatot, az utakat és a vasutakat; valamint
 
 c)[^9] részletes helyszínrajz, amely az átnézeti helyszínrajzon túlmenően feltünteti az őrjáráshatárokat és őrtelepeket, a teljes belvízelvezető csatornahálózatot, fő vízkormányzó műtárgyakat, a szivattyúállásokat, a meliorált területeket, a vízvisszatartásra igénybe vehető területeket;
 
@@ -134,7 +134,7 @@ meghatározása.
 [^5]: A 3. § (3) bekezdés l) pontját a 49/2016. (XII. 14.) BM rendelet 1. § (1) bekezdése iktatta be.
 [^6]: A 3. § (6) bekezdés nyitó szövegrésze a 49/2016. (XII. 14.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^7]: A 3. § (6) bekezdés a) pontja a 49/2016. (XII. 14.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^8]: A 3. § (6) bekezdés b) pontja a 49/2016. (XII. 14.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^8]: A 3. § (6) bekezdés b) pontja a 49/2016. (XII. 14.) BM rendelet 1. § (2) bekezdésével megállapított, a 45/2022. (XII. 20.) BM rendelet 3. §-a szerint módosított szöveg.
 [^9]: A 3. § (6) bekezdés c) pontja a 49/2016. (XII. 14.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^10]: A 3. § (7) bekezdésének bevezető mondata az 1/2004. (II. 6.) KvVM rendelet 5. §-ának (1) bekezdésével megállapított szöveg, a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^11]: A 3. § (7) bekezdés a) pontja a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés b) és c) pontja szerint módosított szöveg.
