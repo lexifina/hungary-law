@@ -1,4 +1,4 @@
-## 6a.[^8] Válságtámogatás
+## 6a.[^9] Válságtámogatás
 
 6/A. § (1) A kérelmező állattartó – a 2. § (1) bekezdésében foglaltaktól eltérően – a 2023. február 1. és 28. között benyújtott támogatási kérelme alapján kizárólag az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatás (a továbbiakban: válságtámogatás) igénybevételére jogosult, amely az elektronikus űrlapkitöltő felületen keresztül nyújtható be a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
@@ -20,4 +20,4 @@ a) az állattartó azonosító adatait (név, ügyfél-azonosító) és
 
 b) a (3) bekezdésben foglalt nyilatkozatokat.
 
-[^8]: A 6a. alcím (6/A-6/B. §-t) a 158/2022. (XII. 27.) AM rendelet 19. §-ával megállapított szöveg.
+[^9]: A 6a. alcím (6/A-6/B. §) a 158/2022. (XII. 27.) AM rendelet 19. §-ával megállapított szöveg.
