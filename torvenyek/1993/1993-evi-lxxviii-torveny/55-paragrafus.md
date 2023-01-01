@@ -2,6 +2,6 @@
 
 (2)
 
-(3) Az életvédelem céljait szolgáló helyiséget a megyei (fővárosi) polgári védelmi parancsnokság hozzájárulásával lehet elidegeníteni.
+(3) Az életvédelem céljait szolgáló helyiséget a vármegyei (fővárosi) polgári védelmi parancsnokság hozzájárulásával lehet elidegeníteni.
 
 (4) A műemléképületben lévő lakást vagy helyiséget a műemléki hatóság hozzájárulásával, a külön jogszabály rendelkezéseinek figyelembevételével lehet elidegeníteni.
