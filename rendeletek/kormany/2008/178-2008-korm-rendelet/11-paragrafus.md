@@ -8,15 +8,15 @@
 
 (3) Az értékkülönbözet és kamata megfizetésére részletfizetés akkor engedélyezhető, ha
 
-a) a tulajdonos, valamint a vele együtt élő személyek együttes jövedelme, havonta, egy főre számítva az öregségi nyugdíj legkisebb összegének négyszeresét nem haladja meg, vagyona pedig – a kártalanításul adott cserelakáson, valamint a szokásos életszükségleti és berendezési tárgyakon felül – nincs, vagy
+a)[^34] a tulajdonos, valamint a vele együtt élő személyek együttes jövedelme, havonta, egy főre számítva a szociális vetítési alap összegének négyszeresét nem haladja meg, vagyona pedig – a kártalanításul adott cserelakáson, valamint a szokásos életszükségleti és berendezési tárgyakon felül – nincs, vagy
 
-b) a tulajdonos legalább három kiskorú gyermekének eltartásáról gondoskodik, és a saját, valamint a vele együtt élő személyek együttes havi jövedelme, havonta, egy főre számítva az öregségi nyugdíj legkisebb összegének ötszörösét nem haladja meg.
+b)[^35] a tulajdonos legalább három kiskorú gyermekének eltartásáról gondoskodik, és a saját, valamint a vele együtt élő személyek együttes havi jövedelme, havonta, egy főre számítva a szociális vetítési alap összegének ötszörösét nem haladja meg.
 
 (4) Az értékkülönbözet és kamata megfizetésére halasztás akkor engedélyezhető, ha
 
-a) a tulajdonos, valamint a vele együtt élő személyek együttes jövedelme, havonta, egy főre számítva az öregségi nyugdíj legkisebb összegének kétszeresét nem haladja meg, vagyona pedig – a kártalanításul adott cserelakáson, valamint a szokásos életszükségleti és berendezési tárgyakon felül – nincs, vagy
+a)[^36] a tulajdonos, valamint a vele együtt élő személyek együttes jövedelme, havonta, egy főre számítva a szociális vetítési alap összegének kétszeresét nem haladja meg, vagyona pedig – a kártalanításul adott cserelakáson, valamint a szokásos életszükségleti és berendezési tárgyakon felül – nincs, vagy
 
-b) a tulajdonos legalább három kiskorú gyermekének eltartásáról gondoskodik, és a saját, valamint a vele együtt élő személyek együttes havi jövedelme havonta, egy főre számítva az öregségi nyugdíj legkisebb összegének háromszorosát nem haladja meg.
+b)[^37] a tulajdonos legalább három kiskorú gyermekének eltartásáról gondoskodik, és a saját, valamint a vele együtt élő személyek együttes havi jövedelme havonta, egy főre számítva a szociális vetítési alap összegének háromszorosát nem haladja meg.
 
 (5) Harmadik személy kisajátítást kérő esetén az (1) és (2) bekezdés szerinti halasztás, illetőleg részletfizetés csak a kisajátítást kérő hozzájárulásával engedélyezhető.
 
@@ -26,3 +26,7 @@ b) a tulajdonos legalább három kiskorú gyermekének eltartásáról gondoskod
 
 [^32]: A 11. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 122. § (4) bekezdésével megállapított szöveg.
 [^33]: A 11. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 122. § (4) bekezdésével megállapított szöveg.
+[^34]: A 11. § (3) bekezdés a) pontja a 629/2022. (XII. 30.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^35]: A 11. § (3) bekezdés b) pontja a 629/2022. (XII. 30.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^36]: A 11. § (4) bekezdés a) pontja a 629/2022. (XII. 30.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^37]: A 11. § (4) bekezdés b) pontja a 629/2022. (XII. 30.) Korm. rendelet 32. §-a szerint módosított szöveg.

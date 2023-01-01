@@ -24,7 +24,7 @@ a) az állami ingatlan-nyilvántartási térképi adatbázisból szolgáltatott,
 
 b) a jogosultak listája.
 
-(4)[^6] Ha a kisajátítási hatósági feladatkörében eljáró fővárosi és megyei kormányhivatalhoz (a továbbiakban: kisajátítási hatóság) benyújtott kisajátítási terv nem tartalmazza a (3) bekezdés a) pontja szerinti térképet, azt a kisajátítási hatóság – a Kstv. 24. § (7) bekezdés alapján – hivatalból szerzi be.
+(4)[^6] Ha a kisajátítási hatósági feladatkörében eljáró fővárosi és vármegyei kormányhivatalhoz (a továbbiakban: kisajátítási hatóság) benyújtott kisajátítási terv nem tartalmazza a (3) bekezdés a) pontja szerinti térképet, azt a kisajátítási hatóság – a Kstv. 24. § (7) bekezdés alapján – hivatalból szerzi be.
 
 (5)[^7]
 
@@ -33,5 +33,5 @@ b) a jogosultak listája.
 (7) A kisajátítási tervet ingatlanonként kell elkészíteni.
 
 [^5]: A 3. § a 154/2013. (V. 24.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^6]: A 3. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 122. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^6]: A 3. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 122. § (7) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 93. §-a szerint módosított szöveg.
 [^7]: A 3. § (5) bekezdését a 68/2014. (III. 13.) Korm. rendelet 5. § (4) bekezdés a) pontja hatályon kívül helyezte.
