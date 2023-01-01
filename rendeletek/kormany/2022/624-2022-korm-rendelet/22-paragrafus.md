@@ -1,5 +1,3 @@
-22. § Hatályát veszti
+22. §[^10]
 
-a) a környezetvédelmi és természetvédelmi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 71/2015. (III. 30.) Korm. rendelet,
-
-b) a 90/2007. (IV. 26.) Korm. rendelet 12. § (4) bekezdése.
+[^10]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

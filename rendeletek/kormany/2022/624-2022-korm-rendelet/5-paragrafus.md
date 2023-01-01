@@ -4,9 +4,9 @@
 
 a) a minisztert,
 
-b) a Pest Megyei Kormányhivatalt,
+b)[^5] a Pest Vármegyei Kormányhivatalt,
 
-c) a megyei kormányhivatalt,
+c)[^6] a vármegyei kormányhivatalt,
 
 d) a járási környezetvédelmi hatóságot,
 
@@ -27,3 +27,6 @@ k) Budapest Főváros Kormányhivatalát
 jelöli ki.
 
 (2) Környezetvédelmi hatóságként – ha kormányrendelet másként nem rendelkezik – a területi környezetvédelmi hatóság jár el.
+
+[^5]: Az 5. § (1) bekezdés b) pontja a 20. § (1) bekezdése szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdés c) pontja a 20. § (3) bekezdése szerint módosított szöveg.
