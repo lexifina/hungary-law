@@ -24,7 +24,7 @@
 
 | 12. | Országos Sportegészségügyi Intézet (OSEI): az Intézet végleges elhelyezése a Budapest XI., Karolina út 27. szám alatti ingatlanban, az épület felújítása, átalakítása. | Budapest belterület 4618/6 |
 
-| 13. | Magyar Honvédség Egészségügyi Központ (Honvéd Kórház): a) az Észak-pesti Centrumkórház egy telephelyen való kialakítása, b) a Róbert Károly körúton három új épületszárny építése, melyek biztosítják a volt MÁV Kórház telephelyén lévő aktív ellátóosztályok integrációját, c) új parkolóház és helikopterleszálló építése. | Budapest belterület 27630 belterület 28229 belterület 28233 belterület 28224/32 belterület 10886/44 |
+| 13. | Észak-Pesti Centrum Kórház – Honvédkórház: a) az Észak-pesti Centrumkórház egy telephelyen való kialakítása, b) a Róbert Károly körúton három új épületszárny építése, melyek biztosítják a volt MÁV Kórház telephelyén lévő aktív ellátóosztályok integrációját, c) új parkolóház és helikopterleszálló építése. | Budapest belterület 27630 belterület 28229 belterület 28233 belterület 28224/32 belterület 10886/44 |
 
 | 14. | Országos Klinikai Idegtudományi Intézet (OKITI): a) új tömb építése, hybrid műtő létrehozása, b) a régi épületekben műszaki felújítás, c) gőzellátó – elektromos rendszer felújítása, komfortosítás. | Budapest belterület 31571/2 |
 
@@ -72,7 +72,7 @@
 
 | 36. | Semmelweis Egyetem, Pulmonológia Klinika: a Semmelweis Egyetem Pulmonológiai Klinikájának a Semmelweis Egyetem pesti telephelyére való költöztetése. | Budapest belterület 10168/2 |
 
-| 37. | Semmelweis Egyetem, Elméleti Orvostudományi Központ: a Semmelweis Egyetem Általános Orvostudományi Karának fejlesztési projektje. | Budapest belterület 37348/2 belterület 37414 belterület 37418 belterület 37419 |
+| 37. | Semmelweis Egyetem, Elméleti Orvostudományi Központ, Semmelweis Egyetem Általános Orvostudományi Karának fejlesztési projektje | Budapest IX. kerület belterület 37348/2, belterület 37414 |
 
 | 38. | Semmelweis Egyetem Fogorvostudományi Kar: skill (propedeutikai) labor kialakítása és a gyakorlati képzés fejlesztését szolgáló bővítések. | Budapest belterület 36769 |
 
@@ -168,9 +168,9 @@
 
 | 84. | Herceghalom kutatólabor kialakítása | Herceghalom belterület 267/2 belterület 268 |
 
-3. melléklet a 98/2017. (IV. 27.) Korm. rendelethez[^24]
+3. melléklet a 98/2017. (IV. 27.) Korm. rendelethez[^25]
 
-A 4/B. § szerinti beruházások során az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának szükséges időtartama
+A 4/B. és 4/D. § szerinti beruházások során az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának szükséges időtartama
 
 |  | A | B | C | D |
 
@@ -178,4 +178,6 @@ A 4/B. § szerinti beruházások során az építési tevékenység költséghat
 
 | 2. | A 2. mellékletben foglalt táblázat 41. és 42. sorában megjelölt ingatlanon megvalósuló beruházás | Budapest IX. kerület, belterület 36868, 36873, 36873/0/A/1, 36873/0/B/1, 36873/0/C/1, 36873/0/A/2 helyrajzi számú ingatlan | Budapest 36863, 36850/2, 36930/2 helyrajzi számú ingatlan | 2022. 01. 01. – 2025. 12. 31. |
 
-[^24]: A 3. mellékletet az 521/2021. (IX. 6.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+| 3. | A 2. mellékletben foglalt táblázat 37. sorában megjelölt ingatlanon megvalósuló beruházás. | Budapest IX. kerület belterület 37348/2, belterület 37414 | Budapest IX. kerület belterület 37415, 37413, 37412, 37420/1, 37401/1, 37420/5, 37420/4, 37420/3, 37417/1, 37417/2, 37432, 37430/2, 37163/1 | 2023. 01. 05. – 2026. 12. 31. |
+
+[^25]: A 3. mellékletet az 521/2021. (IX. 6.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 617/2022. (XII. 29.) Korm. rendelet 24. § (2) bekezdése és 25. §-a szerint módosított szöveg.

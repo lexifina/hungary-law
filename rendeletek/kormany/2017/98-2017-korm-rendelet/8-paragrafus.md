@@ -1,4 +1,4 @@
-## 7. §[^13] Az Egészséges Budapest Program megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 98/2017. (IV. 27.) Korm. rendelet módosításáról szóló 119/2018. (VII. 2.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 2. mellékletet a Módr1. hatálybalépésekor[^14] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 7. §[^14] Az Egészséges Budapest Program megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 98/2017. (IV. 27.) Korm. rendelet módosításáról szóló 119/2018. (VII. 2.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 2. mellékletet a Módr1. hatálybalépésekor[^15] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^13]: A 7. §-t a 119/2018. (VII. 2.) Korm. rendelet 1. §-a iktatta be.
-[^14]: A hatálybalépés időpontja 2018. július 3.
+[^14]: A 7. §-t a 119/2018. (VII. 2.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A hatálybalépés időpontja 2018. július 3.
