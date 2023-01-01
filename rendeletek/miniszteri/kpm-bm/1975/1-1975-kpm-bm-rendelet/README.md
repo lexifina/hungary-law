@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1975-1-20-24
 | 2017-08-05 | 1975-1-20-24.31 | 190/2017. (VII. 6.) Korm. rendelet |
 | 2019-07-27 | 1975-1-20-24.32 | 183/2019. (VII. 26.) Korm. rendelet |
 | 2021-02-01 | 1975-1-20-24.33 | 572/2020. (XII. 9.) Korm. rendelet |
+| 2023-01-01 | 1975-1-20-24.34 | 317/2020. (VII. 1.) Korm. rendelet |

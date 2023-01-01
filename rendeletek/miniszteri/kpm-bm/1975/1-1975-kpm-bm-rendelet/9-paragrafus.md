@@ -2,15 +2,15 @@
 
 9. § (1) A járműforgalom irányítására szolgáló fényjelző készülékek:
 
-a)[^24] az úttest forgalmának irányítására szolgáló fényjelző készülék: három (felül kör alakú vagy nyilat mutató piros-, középen kör alakú vagy nyilat mutató sárga-, alul kör alakú vagy nyilat mutató zöldfényű) lámpából áll, és sorrendben zöld, sárga, piros, majd együtt piros és sárga fényjelzést ad;
+a)[^25] az úttest forgalmának irányítására szolgáló fényjelző készülék: három (felül kör alakú vagy nyilat mutató piros-, középen kör alakú vagy nyilat mutató sárga-, alul kör alakú vagy nyilat mutató zöldfényű) lámpából áll, és sorrendben zöld, sárga, piros, majd együtt piros és sárga fényjelzést ad;
 
-b)[^25] a kerékpárút vagy kerékpársáv forgalmának irányítására szolgáló fényjelző készülék: három (felül kör alakú vagy kerékpárt mutató piros-, középen kör alakú vagy kerékpárt mutató sárga-, alul kör alakú vagy kerékpárt mutató zöldfényű) lámpából áll, és sorrendben zöld, sárga, piros, majd együtt piros és sárga fényjelzést ad;
+b)[^26] a kerékpárút vagy kerékpársáv forgalmának irányítására szolgáló fényjelző készülék: három (felül kör alakú vagy kerékpárt mutató piros-, középen kör alakú vagy kerékpárt mutató sárga-, alul kör alakú vagy kerékpárt mutató zöldfényű) lámpából áll, és sorrendben zöld, sárga, piros, majd együtt piros és sárga fényjelzést ad;
 
 c) az utat (vagy egyes forgalmi sávokat) keresztező villamos, illetőleg a megkülönböztető jelzéseket használó gépjárművek áthaladásának biztosítására szolgáló fényjelző készülék: két (felül kör alakú piros, alul kör alakú sárga fényű) lámpából áll és sorrendben villogó sárga, folyamatos sárga, majd piros fényjelzést ad;
 
 d) a veszélyes hely jelzésére szolgáló fényjelző készülék: egy (kör alakú sárga fényű) lámpából áll és villogó sárga fényjelzést ad; ilyen fényjelzést – időszakonként – az a) pontban említett fényjelző készülék is adhat;
 
-e)[^26] a forgalmi sáv foglaltságát jelző vagy a váltakozó irányú forgalmat szabályozó fényjelző készülék: három egymás mellett elhelyezett (balról piros X alakot mutató, középen villogó sárga ferdén lefelé nyilat mutató, jobbról zöld lefelé nyilat mutató) lámpából áll, és sorrendben zöld, villogó sárga, majd piros fényjelzést ad.
+e)[^27] a forgalmi sáv foglaltságát jelző vagy a váltakozó irányú forgalmat szabályozó fényjelző készülék: három egymás mellett elhelyezett (balról piros X alakot mutató, középen villogó sárga ferdén lefelé nyilat mutató, jobbról zöld lefelé nyilat mutató) lámpából áll, és sorrendben zöld, villogó sárga, majd piros fényjelzést ad.
 
 (2) Az (1) bekezdés a)–d) pontjában említett fényjelző készüléket – a (3) bekezdésben említett kivétellel – az úttest mellett, a menetirány szerint a jobb oldalon helyezik el. A fényjelző készüléket a bal oldalon, illetőleg az úttest felett megismételhetik. A fényjelző készülék jelzése – a (3) bekezdésben említett esetet kivéve – a fényjelzéssel szemben közlekedő minden járműre vonatkozik.
 
@@ -28,40 +28,40 @@ a) a kör alakú, valamint a kerékpárt ábrázoló zöld fény szabad utat jel
 
 b) a felfelé, illetőleg az oldalra mutató nyíl alakú zöld fény a jelzett irányban (irányokban) szabad utat jelez: a jelzett irányban (irányokban) tovább szabad haladni, bekanyarodás esetén a szabad jelzésen áthaladó gyalogosoknak elsőbbséget kell adni;
 
-c)[^27] a kör alakú, valamint a nyilat vagy kerékpárt mutató folyamatos sárga fény a forgalom irányának megváltozását jelzi: az útkereszteződésnél – a kijelölt gyalogos átkelőhely, illetőleg a megállás helyét jelző útburkolati jel, ezek hiányában a fényjelző készülék előtt – meg kell állni; ha azonban biztonságosan megállni már nem lehet, az útkereszteződésen mielőbb át kell haladni;
+c)[^28] a kör alakú, valamint a nyilat vagy kerékpárt mutató folyamatos sárga fény a forgalom irányának megváltozását jelzi: az útkereszteződésnél – a kijelölt gyalogos átkelőhely, illetőleg a megállás helyét jelző útburkolati jel, ezek hiányában a fényjelző készülék előtt – meg kell állni; ha azonban biztonságosan megállni már nem lehet, az útkereszteződésen mielőbb át kell haladni;
 
-d)[^28] a kör alakú, valamint a nyilat vagy kerékpárt mutató folyamatos piros fény a továbbhaladás tilalmát jelzi: a c) pontban meghatározott helyen meg kell állni;
+d)[^29] a kör alakú, valamint a nyilat vagy kerékpárt mutató folyamatos piros fény a továbbhaladás tilalmát jelzi: a c) pontban meghatározott helyen meg kell állni;
 
-e)[^29] a kör alakú, valamint a nyilat vagy kerékpárt mutató piros és sárga fény együtt a továbbhaladás tilalmát jelzi, és arról tájékoztat, hogy zöld fényjelzés következik;
+e)[^30] a kör alakú, valamint a nyilat vagy kerékpárt mutató piros és sárga fény együtt a továbbhaladás tilalmát jelzi, és arról tájékoztat, hogy zöld fényjelzés következik;
 
 f) a villogó sárga fény veszélyes helyre hívja fel a figyelmet: e helyen fokozott óvatossággal szabad továbbhaladni.
 
-(5)[^30] Ha az (1) bekezdés a) pontjában említett fényjelző készülék mellett elhelyezett kiegészítő lámpa nyilat mutató zöld fényjelzést ad, a nyíl által jelzett irányban – a fényjelző készülék más fényjelzésétől függetlenül – tovább szabad haladni.
+(5)[^31] Ha az (1) bekezdés a) pontjában említett fényjelző készülék mellett elhelyezett kiegészítő lámpa nyilat mutató zöld fényjelzést ad, a nyíl által jelzett irányban – a fényjelző készülék más fényjelzésétől függetlenül – tovább szabad haladni.
 
-(6)[^31] Ha az (1) bekezdés a) pontjában említett fényjelző készülék mellett elhelyezett kiegészítő lámpa ,,BUSZ'' feliratú fehér fényjelzést ad — a fényjelző készülék más fényjelzésétől függetlenül —, az autóbusz-forgalmi sávban közlekedőknek tovább szabad haladni.
+(6)[^32] Ha az (1) bekezdés a) pontjában említett fényjelző készülék mellett elhelyezett kiegészítő lámpa ,,BUSZ'' feliratú fehér fényjelzést ad — a fényjelző készülék más fényjelzésétől függetlenül —, az autóbusz-forgalmi sávban közlekedőknek tovább szabad haladni.
 
-(7)[^32] Zöld fényjelzésnél sem szabad az útkereszteződésbe behajtani, ha azt – forgalmi torlódás miatt – a zöld fényjelzés tartama alatt előreláthatólag nem lehet elhagyni.
+(7)[^33] Zöld fényjelzésnél sem szabad az útkereszteződésbe behajtani, ha azt – forgalmi torlódás miatt – a zöld fényjelzés tartama alatt előreláthatólag nem lehet elhagyni.
 
-(8)[^33] Az (1) bekezdés e) pontjában említett fényjelző készüléket minden forgalmi sáv felett elhelyezik. A készülék fényjelzéseinek a jelentése:
+(8)[^34] Az (1) bekezdés e) pontjában említett fényjelző készüléket minden forgalmi sáv felett elhelyezik. A készülék fényjelzéseinek a jelentése:
 
 a) a lefelé mutató nyíl alakú zöld fény az alatta levő forgalmi sávban a fényjelzéssel szemben közlekedő járművek számára szabad utat jelez;
 
-b)[^34] a ferdén lefelé nyilat mutató villogó sárga fény az alatta lévő forgalmi sávban, a fényjelzéssel szemben közlekedő járművek számára azt jelzi, hogy a forgalmi sávot – a sávváltoztatásra vonatkozó szabályok szerint – a jelzett irányban haladéktalanul el kell hagyni,
+b)[^35] a ferdén lefelé nyilat mutató villogó sárga fény az alatta lévő forgalmi sávban, a fényjelzéssel szemben közlekedő járművek számára azt jelzi, hogy a forgalmi sávot – a sávváltoztatásra vonatkozó szabályok szerint – a jelzett irányban haladéktalanul el kell hagyni,
 
-c)[^35] az „X” alakú piros fény az alatta levő forgalmi sávban a fényjelzéssel szemben közlekedő járművek számára a haladás tilalmát jelzi; a forgalmi sávra ebből az irányból még átmenetileg sem szabad ráhajtani.
+c)[^36] az „X” alakú piros fény az alatta levő forgalmi sávban a fényjelzéssel szemben közlekedő járművek számára a haladás tilalmát jelzi; a forgalmi sávra ebből az irányból még átmenetileg sem szabad ráhajtani.
 
-(9)[^36] Ha a forgalmat fényjelző készülék irányítja, a „Főútvonal” jelzőtábla, valamint az elsőbbséget szabályozó jelzőtáblák jelzései nem irányadók.
+(9)[^37] Ha a forgalmat fényjelző készülék irányítja, a „Főútvonal” jelzőtábla, valamint az elsőbbséget szabályozó jelzőtáblák jelzései nem irányadók.
 
-[^24]: A 9. § (1) bekezdésének a) pontja a 104/1997. (VI. 18.) Korm. rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
-[^25]: A 9. § (1) bekezdésének b) pontja a 104/1997. (VI. 18.) Korm. rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
-[^26]: A 9. § (1) bekezdésének e) pontja a 104/1997. (VI. 18.) Korm. rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
-[^27]: A 9. § (4) bekezdésének c) pontja a 104/1997. (VI. 18.) Korm. rendelet 4. §-ának (2) bekezdésével megállapított szöveg.
-[^28]: A 9. § (4) bekezdésének d) pontja a 104/1997. (VI. 18.) Korm. rendelet 4. §-ának (2) bekezdésével megállapított szöveg.
-[^29]: A 9. § (4) bekezdésének e) pontja a 104/1997. (VI. 18.) Korm. rendelet 4. §-ának (2) bekezdésével megállapított szöveg.
-[^30]: A 9. § (5) bekezdése a 104/1997. (VI. 18.) Korm. rendelet 4. §-ának (3) bekezdésével megállapított szöveg.
-[^31]: A 9. § új (6) bekezdését a 2/1984. (I. 29.) KM–BM együttes rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (6)–(8) bekezdés számozását (7)–(9) bekezdésre változtatva. A 9. § (6) bekezdése a 148/1992. (XI. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^32]: A 9. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 2/1984. (I. 29.) KM–BM együttes rendelet 3. § (2) bekezdése.
-[^33]: A 9. § eredeti (7) bekezdésének számozását (8) bekezdésre változtatta a 2/1984. (I. 29.) KM–BM együttes rendelet 3. § (2) bekezdése.
-[^34]: A 9. § (8) bekezdésének b) pontját a 104/1997. (VI. 18.) Korm. rendelet 4. §-ának (4) bekezdése iktatta a szövegbe és egyidejűleg az eredeti b) pont jelölését c) pontra változtatta.
-[^35]: A 9. § (8) bekezdése eredeti b) pontjának jelölését c) pontra változtatta a 104/1997. (VI. 18.) Korm. rendelet 4. § (4) bekezdése.
-[^36]: A 9. § eredeti (8) bekezdésének számozását (9) bekezdésre változtatta a 2/1984. (I. 29.) KM–BM együttes rendelet 3. § (2) bekezdése.
+[^25]: A 9. § (1) bekezdésének a) pontja a 104/1997. (VI. 18.) Korm. rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
+[^26]: A 9. § (1) bekezdésének b) pontja a 104/1997. (VI. 18.) Korm. rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
+[^27]: A 9. § (1) bekezdésének e) pontja a 104/1997. (VI. 18.) Korm. rendelet 4. §-ának (1) bekezdésével megállapított szöveg.
+[^28]: A 9. § (4) bekezdésének c) pontja a 104/1997. (VI. 18.) Korm. rendelet 4. §-ának (2) bekezdésével megállapított szöveg.
+[^29]: A 9. § (4) bekezdésének d) pontja a 104/1997. (VI. 18.) Korm. rendelet 4. §-ának (2) bekezdésével megállapított szöveg.
+[^30]: A 9. § (4) bekezdésének e) pontja a 104/1997. (VI. 18.) Korm. rendelet 4. §-ának (2) bekezdésével megállapított szöveg.
+[^31]: A 9. § (5) bekezdése a 104/1997. (VI. 18.) Korm. rendelet 4. §-ának (3) bekezdésével megállapított szöveg.
+[^32]: A 9. § új (6) bekezdését a 2/1984. (I. 29.) KM–BM együttes rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (6)–(8) bekezdés számozását (7)–(9) bekezdésre változtatva. A 9. § (6) bekezdése a 148/1992. (XI. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^33]: A 9. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 2/1984. (I. 29.) KM–BM együttes rendelet 3. § (2) bekezdése.
+[^34]: A 9. § eredeti (7) bekezdésének számozását (8) bekezdésre változtatta a 2/1984. (I. 29.) KM–BM együttes rendelet 3. § (2) bekezdése.
+[^35]: A 9. § (8) bekezdésének b) pontját a 104/1997. (VI. 18.) Korm. rendelet 4. §-ának (4) bekezdése iktatta a szövegbe és egyidejűleg az eredeti b) pont jelölését c) pontra változtatta.
+[^36]: A 9. § (8) bekezdése eredeti b) pontjának jelölését c) pontra változtatta a 104/1997. (VI. 18.) Korm. rendelet 4. § (4) bekezdése.
+[^37]: A 9. § eredeti (8) bekezdésének számozását (9) bekezdésre változtatta a 2/1984. (I. 29.) KM–BM együttes rendelet 3. § (2) bekezdése.
