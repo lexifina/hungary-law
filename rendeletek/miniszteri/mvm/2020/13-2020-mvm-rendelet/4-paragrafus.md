@@ -1,5 +1,7 @@
-4. § (1) A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított Drégelypalánk (Nógrád megye), Petőfi utca 1. szám alatti római katolikus templom telekalakítás folytán létrejött 195/2, 195/3 és 195/4 helyrajzi számú ingatlanai közül a 195/2 és 195/4 helyrajzi számú ingatlanok műemléki védettségét – tekintettel arra, hogy a telekalakítás következtében az ingatlanokon védett érték nem található – megszüntetem.
+4. § (1)[^3] A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított Drégelypalánk (Nógrád vármegye), Petőfi utca 1. szám alatti római katolikus templom telekalakítás folytán létrejött 195/2, 195/3 és 195/4 helyrajzi számú ingatlanai közül a 195/2 és 195/4 helyrajzi számú ingatlanok műemléki védettségét – tekintettel arra, hogy a telekalakítás következtében az ingatlanokon védett érték nem található – megszüntetem.
 
 (2) A Drégelypalánk 195/3 helyrajzi számú ingatlan műemléki védettségét változatlan tartalommal fenntartom, tekintettel az ingatlanon található, a közhiteles műemléki nyilvántartásban 6576 azonosító számon nyilvántartott római katolikus templom fennálló műemléki értékeire.
 
 (3) Műemléki környezetként a 184, 195/2, 195/4, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 214, 215, 219, 221, 223, 224, 225, 226, 227, 228, 229, 230, 233, 234, 235, 239, 240/1, 240/2 és 242 helyrajzi számú ingatlanokat, valamint a 121, 236 és 245/1 helyrajzi számú közterületek ezen ingatlanok által érintett szakaszát jelölöm ki.
+
+[^3]: A 4. § (1) bekezdése a 16/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.
