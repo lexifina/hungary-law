@@ -14,21 +14,7 @@
 
 ## 5. egyetért azzal, hogy a Beruházás során létrejövő vagyon kezelője és üzemeltetője a Szegedi Tudományegyetem legyen;
 
-## 6. a Beruházás előkészítése érdekében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: 2019. évi Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a 2019. évi Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 14. Egyetemek, főiskolák cím javára – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 140 000 000 forint egyszeri átcsoportosítását az 1. melléklet szerint, elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Határidő: azonnal
-
-## Az elszámolás és a fel nem használt rész visszafizetése tekintetében
-
-## Felelős: innovációért és technológiáért felelős miniszter
-
-## Határidő: 2020. december 15.
+## 6.[^1]
 
 ## 7. felhívja a pénzügyminisztert, valamint az innovációért és technológiáért felelős minisztert, hogy – elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel – gondoskodjanak a 2. pont szerinti összeg 2020. évi pénzügyi teljesítéssel érintett részének, 301 000 000 forint rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: 2020. évi Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a 2020. évi Kvtv. 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 14. Egyetemek, főiskolák cím javára;
 
@@ -52,68 +38,7 @@
 
 ## Határidő: a Beruházás kivitelezési tervdokumentációjának rendelkezésre állása esetén, a Beruházás megvalósítását célzó feltételes közbeszerzési eljárást követően
 
-1. melléklet az 1765/2019. (XII. 23.) Korm. határozathoz
+1. melléklet az 1765/2019. (XII. 23.) Korm. határozathoz[^2]
 
-| XV. Pénzügyminisztérium |
-
-| XVII. Innovációs és Technológiai Minisztérium |
-
-| ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA |
-
-| Költségvetési év: 2019. |
-
-| forintban |
-
-| Állam- háztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XV. |  |  |  |  |  | Pénzügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 26 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 2 |  |  |  |  |  | Központi tartalékok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 375739 |  |  |  | 4 |  |  |  |  |  | Beruházás Előkészítési Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -140 000 000 |  |  |  |
-
-|  | XVII. |  |  |  |  |  | Innovációs és Technológiai Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 227942 |  | 14 |  |  |  |  |  | Egyetemek, főiskolák |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  |  | 140 000 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| forintban |
-
-| Állam- háztartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XVII. |  |  |  |  |  | Innovációs és Technológiai Minisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 227942 |  | 14 |  |  |  | K6 |  | Egyetemek, főiskolák |  |  |  |  |  |  |  |  |  |  |  |  | 140 000 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 1 eredeti példányban töltendő ki. | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I. n.év | II. n.év | III. n.év | IV. n.év |
-
-|  |  |  |  |  |  |  |  |  | időarányos |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  | teljesítésarányos |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  |  | 1 példány |  |  | egyéb: |  |  | azonnal | 140 000 000 |  |  |  | 140 000 000 |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+[^1]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
