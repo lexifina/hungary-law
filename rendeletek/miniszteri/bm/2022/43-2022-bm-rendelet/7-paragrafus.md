@@ -1,3 +1,5 @@
-7. §[^7]
+7. § (1) A KLIR-t az Országgyűlési Őrség a Komplex Kompetencia Alapú Kiválasztási és Képzési Rendszer (a továbbiakban: KOMP-rendszer) elnevezésű informatikai keretrendszer igénybevételével folytatja le.
 
-[^7]: A 7. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+(2) A KOMP-rendszert a minisztérium működteti és külön megállapodás útján biztosítja az Országgyűlési Őrség részére az informatikai keretrendszer igénybevételét. Az informatikai keretrendszer alkalmazásából eredő, a személyes adatok kezelésével kapcsolatos részletes rendelkezésekről az általános adatvédelmi rendelet előírásai szerinti megállapodásban kell rendelkezni.
+
+(3) Az Országgyűlési Őrség a minisztériumnak a hivatásos állomány létszáma alapján hozzájárulást (a továbbiakban: normatív hozzájárulás) fizet. Az Országgyűlési Őrség a normatív hozzájárulás útján fizeti meg a KOMP-rendszer igénybevételének díját. A normatív hozzájárulás alapja a rendvédelmi illetményalap 40%-a, amelyet az Országgyűlési Őrség minden év február 15-ig, az Országgyűlési Őrségnél a tárgyév január 1-jén foglalkoztatott hivatásos állomány létszáma 50%-ának alapulvételével, előirányzat-átadással teljesít.

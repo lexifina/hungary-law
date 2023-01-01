@@ -1,3 +1,1 @@
-95. §[^95]
-
-[^95]: A 95. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+95. § A 94. § szerinti dokumentációt az Állami Futárszolgálat útján kell megküldeni a felülvizsgáló egység vezető főorvosának.

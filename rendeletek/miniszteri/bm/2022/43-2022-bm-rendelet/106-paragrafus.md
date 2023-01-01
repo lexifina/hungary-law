@@ -1,3 +1,1 @@
-106. §[^106]
-
-[^106]: A 106. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+106. § A felülvizsgáló egység vezető főorvosa a FÜV bizottság összehívása előtt legalább harminc nappal értesíti az általános rendőrségi feladatok ellátására létrehozott szerv, valamint a 105. § (2) bekezdés c) pontja szerinti rendvédelmi szerv vezető főorvosát, hogy a FÜV bizottság ülésére orvos kijelölése iránt intézkedjen. A rendvédelmi szerv vezető főorvosa haladéktalanul megteszi a szükséges intézkedéseket az orvos FÜV bizottsági ülésen történő részvétele érdekében. Az érintett orvos akadályoztatása esetén a rendvédelmi szerv vezető főorvosának feladata, hogy a 105. §-ban foglaltaknak megfelelő másik orvos részvételét biztosítsa.

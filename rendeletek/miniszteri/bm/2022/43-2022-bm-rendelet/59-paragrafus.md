@@ -1,3 +1,3 @@
-59. §[^59]
+59. § (1) Ha az 57. § szerinti vizsgálatra sor került, a külszolgálatról történő hazatérést követő 72 órán belül a Magyar Honvédség központi egészségügyi szervezete elvégzi a hivatásos állomány tagja záró egészségi és pszichológiai vizsgálatát. A záró vizsgálaton észlelt megbetegedés esetén a betegség jellegének megfelelő gyógykezelés, illetve kórházi, gyógyintézeti ellátást a Magyar Honvédség központi egészségügyi szervezete biztosítja a hivatásos állomány tagja részére.
 
-[^59]: Az 59. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+(2) A rendvédelmi alapellátást végző orvos a hazatérést követően – a teljesített külszolgálat helyére és körülményeire tekintettel – fokozott figyelemmel kíséri a hazatért hivatásos állomány tagja egészségi állapotát.

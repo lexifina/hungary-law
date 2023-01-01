@@ -1,3 +1,1 @@
-53. §[^53]
-
-[^53]: Az 53. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+53. § A vezetői szolgálati beosztásba kinevezést megelőző alkalmasságvizsgálat elvégzése és minősítése érdekében az alkalmasságvizsgálatot végző pszichológus az Országgyűlési Őrség hivatásos állományának vezetőképzési rendszerének szabályait meghatározó miniszteri rendelet szerinti kompetenciavizsgálat eredményét megismerheti.

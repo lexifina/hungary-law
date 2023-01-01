@@ -1,3 +1,3 @@
-64. §[^64]
+64. § (1) Az időszakos alkalmasságvizsgálat egészségi, pszichológiai és fizikai vizsgálatból áll, amelynek során a 68. § szerinti gyakorisággal pszichológiai kompetenciavizsgálatra is sor kerül.
 
-[^64]: A 64. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+(2) Az időszakos alkalmasságvizsgálat során – a hivatásos állomány tagja által betöltött beosztásra vonatkozó minimum-, illetve kategóriafeltételek figyelembevételével – annak vizsgálata, hogy a hivatásos állomány tagja alkalmasságában történt-e változás az utolsó alkalmasságvizsgálata óta.

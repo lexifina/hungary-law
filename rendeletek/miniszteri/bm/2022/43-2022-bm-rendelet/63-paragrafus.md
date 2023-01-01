@@ -1,3 +1,1 @@
-63. §[^63]
-
-[^63]: A 63. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+63. § Időszakos alkalmasságvizsgálatra kerül sor abban az esetben is, ha a hivatásos állomány tagja a Hszt. 77. §-a szerinti rendelkezési állományba helyezés megszűnését követően szolgálati beosztásba helyezésre kerül. Ebben az esetben az időszakos alkalmasságvizsgálat keretében, kötelezően sor kerül a kategóriafeltételeknek való megfelelés vizsgálatára is.

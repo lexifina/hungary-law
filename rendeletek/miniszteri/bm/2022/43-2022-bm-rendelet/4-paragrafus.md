@@ -1,3 +1,19 @@
-4. §[^4]
+4. § Az alkalmasságvizsgálatok típusai
 
-[^4]: A 4. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) a hivatásos állományba kinevezést megelőző,
+
+b) a véglegesítés előtti,
+
+c) a kategória-váltáshoz kapcsolódó,
+
+d) a vezetői szolgálati beosztásba kinevezést megelőző,
+
+e) a külszolgálathoz kapcsolódó,
+
+f) az időszakos,
+
+g) a soron kívüli és
+
+h) az ismételt
+
+alkalmasságvizsgálat.

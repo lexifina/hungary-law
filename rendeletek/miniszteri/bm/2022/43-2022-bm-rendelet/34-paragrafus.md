@@ -1,3 +1,1 @@
-34. §[^34]
-
-[^34]: A 34. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+34. § A hivatásos állomány tagja a fizikai alkalmasságvizsgálaton akkor vehet részt, ha rendelkezik 30 éves életkor alatt három éven belül, 30 éves életkor felett két éven belül elvégzett egészségi alkalmasságvizsgálaton szerzett „Egészségileg alkalmas” minősítéssel.

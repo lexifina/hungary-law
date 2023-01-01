@@ -1,3 +1,1 @@
-58. §[^58]
-
-[^58]: Az 58. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+58. § A külszolgálat megkezdése előtt elvégzendő alkalmasságvizsgálat alapján, a külszolgálat során érvényesülő felelősségi szinttől függően a hivatásos állomány tagjának legalább a IV., VIII. vagy XII. alkalmasságvizsgálati kategóriához tartozó kategóriafeltételeknek kell megfelelnie, amelyen túl a külszolgálat helye szerint meghatározott egészségi, alkalmassági és járványügyi követelményekre figyelemmel speciális, a szakmai szabályoknak megfelelő vizsgálatokra is sor kerülhet.

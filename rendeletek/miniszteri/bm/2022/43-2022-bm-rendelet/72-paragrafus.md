@@ -1,3 +1,1 @@
-72. §[^72]
-
-[^72]: A 72. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+72. § Az időszakos fizikai alkalmasságvizsgálatok tapasztalata alapján az Országgyűlési Őrség parancsnoka gondoskodik a hivatásos állomány részére a szintfejlesztő programok kidolgozásáról és a fizikai-erőnléti állapot ennek megfelelő rendszeres fejlesztéséről.

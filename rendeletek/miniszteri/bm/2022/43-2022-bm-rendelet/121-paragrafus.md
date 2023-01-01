@@ -1,3 +1,1 @@
-121. §[^119]
-
-[^119]: A 121. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+121. § Az R1. 3. § (1) bekezdés c) pontjában a „vezetői” szövegrész helyébe az „irányítói és vezetői” szöveg, 3. § (2) bekezdésében az „és a vezetői” szövegrész helyébe az „az irányítói és a vezetői” szöveg lép.

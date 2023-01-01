@@ -1,5 +1,13 @@
 ## 18. Az ismételt alkalmasságvizsgálat
 
-82. §[^82]
+82. § (1) Az ismételt alkalmasságvizsgálatot a soron kívüli alkalmasságvizsgálatot követően kell elrendelni, ha a hivatásos állomány tagjának minősítése egészségi, pszichológiai vagy fizikai okból
 
-[^82]: A 82. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) „Ideiglenesen alkalmatlan” vagy
+
+b) „Korlátozással alkalmas”.
+
+(2) Az ismételt alkalmasságvizsgálatot a soron kívüli alkalmasságvizsgálatot követően akkor is a vizsgált személy eredeti szolgálati beosztására tekintettel kell elrendelni, ha a korlátozásra tekintettel a hivatásos állomány tagját alkalmasságvizsgálati kategória-váltással más szolgálati beosztásba helyezték.
+
+(3) Az ismételt alkalmasságvizsgálatot az Országgyűlési Őrség parancsnoka – a minősítés alapján, az ott meghatározott időtartamra is tekintettel – rendeli el írásban.
+
+(4) Az ismételt alkalmasságvizsgálat célja annak ellenőrzése, hogy a 79. § (4) bekezdése vagy a 80. § (5) bekezdése szerinti gondozás, a 79. § (3) bekezdésében, illetve a 80. § (4) bekezdésében meghatározott időtartam alatt elérte-e célját.

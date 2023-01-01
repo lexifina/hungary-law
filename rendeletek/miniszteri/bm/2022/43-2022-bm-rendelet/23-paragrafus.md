@@ -1,3 +1,9 @@
-23. §[^23]
+23. § (1) Az alkalmasságvizsgálat minősítését az alkalmasságvizsgálatot végző személy rögzíti a KOMP-rendszerben.
 
-[^23]: A 23. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+(2) A személyügyi szerv a tárgyévet megelőző év december 15-ig elkészíti az alkalmasságvizsgálati összesítő lapot. Az alkalmasságvizsgálati összesítő lap tartalmazza – a rendelkezésre álló minősítések és azok érvényességi ideje alapján – a hivatásos állomány tagja vonatkozásában a tárgyévben elvégzendő alkalmasságvizsgálatok meghatározását, ha nincs előírt alkalmasságvizsgálat, akkor e tényt rögzíti.
+
+(3) Ha az alkalmasságvizsgálatot nem a vizsgált személy rendvédelmi alapellátó orvosa, rendvédelmi alapellátó pszichológusa, illetve az első fokon eljárni jogosult sportszakembere végzi, az alkalmasságvizsgálat minősítésével együtt a vizsgálat során keletkező dokumentációt – beleértve ebbe az orvosi titoknak, különleges adatnak minősülő orvosi leleteket, illetve pszichológiai teszteket, azok eredményeit, valamint a fizikai felmérő lapot – zárt borítékban csatolni kell a vizsgálatot kérő személyügyi szerv részére megküldendő minősítéshez. A zárt borítékban lévő orvosi, illetve pszichológiai leleteket, valamint a fizikai felmérő lapot − kivéve, ha hivatásos állományba kinevezésre alkalmatlanság miatt nem kerül sor – a személyügyi szerv továbbítja a rendvédelmi alapellátó orvosnak, a rendvédelmi alapellátó pszichológusnak vagy az első fokon eljárni jogosult sportszakembernek. A továbbított zárt boríték felbontására, illetve az abban lévő adatok kezelésére csak a rendvédelmi alapellátó orvos, a rendvédelmi alapellátó pszichológus, illetve az első fokon eljárni jogosult sportszakember jogosult.
+
+(4) A hivatásos állományba történő kinevezés esetén a rendvédelmi alapellátó orvos a leletek kézhezvételét követően gondoskodik a hivatásos állomány újonnan kinevezett tagja vonatkozásában az egészségügyi törzskönyv megnyitásáról.
+
+(5) A személyügyi szerv a minősítést és annak érvényességét tartalmazó dokumentumot a személyi anyaggyűjtőben helyezi el.

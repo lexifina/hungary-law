@@ -1,3 +1,1 @@
-74. §[^74]
-
-[^74]: A 74. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+74. § Ha a soron kívüli egészségi alkalmasságvizsgálat esetén a rendvédelmi alapellátó orvos pszichiátriai szakvélemény beszerzését tartja szükségesnek, amely azonban betegség fennállását – és így az egészségi szempontú alkalmatlanság megalapozását – nem igazolja, ugyanakkor a pszichológiai alkalmatlanság gyanúja fennáll, a rendvédelmi alapellátó orvos soron kívüli pszichológiai alkalmasságvizsgálat elrendelését kezdeményezi a személyügyi szerven keresztül az Országgyűlési Őrség parancsnokánál.

@@ -1,3 +1,1 @@
-132. §[^130]
-
-[^130]: A 132. § a 112. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+132. § Hatályát veszti az R4. 8. § (1) bekezdésében az „a KLIR végrehajtása érdekében” szövegrész.
