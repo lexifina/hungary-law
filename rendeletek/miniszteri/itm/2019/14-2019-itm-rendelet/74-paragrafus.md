@@ -8,7 +8,7 @@
 
 (4) Nem nyújtható beruházási támogatás meglévő, a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1008/2008/EK európai parlamenti és tanácsi rendelet) 2. cikk 16. pontjában meghatározott menetrend szerinti légi járatokat üzemeltető repülőtértől 100 kilométeren belül elhelyezkedő és onnan gépjárművön, buszon, vonaton vagy nagysebességű vonaton 60 percen belül megközelíthető repülőtérnek.
 
-(5)[^88] A (3) és (4) bekezdés nem alkalmazandó azokra a repülőterekre, amelyeknek az átlagos éves utasforgalma a támogatás tényleges odaítélését megelőző két pénzügyi évben nem haladta meg a 200 000 főt, amennyiben a beruházási támogatás következtében a repülőtér átlagos éves utasforgalma valószínűsíthetően nem emelkedik 200 000 fő fölé a támogatás odaítélését követő két pénzügyi évben. Az ilyen repülőtereknek nyújtott beruházási támogatásnak vagy a (9) bekezdésnek vagy a (11) és (12) bekezdésnek kell megfelelnie.
+(5)[^90] A (3) és (4) bekezdés nem alkalmazandó azokra a repülőterekre, amelyeknek az átlagos éves utasforgalma a támogatás tényleges odaítélését megelőző két pénzügyi évben nem haladta meg a 200 000 főt, amennyiben a beruházási támogatás következtében a repülőtér átlagos éves utasforgalma valószínűsíthetően nem emelkedik 200 000 fő fölé a támogatás odaítélését követő két pénzügyi évben. Az ilyen repülőtereknek nyújtott beruházási támogatásnak vagy a (9) bekezdésnek vagy a (11) és (12) bekezdésnek kell megfelelnie.
 
 (6) A (4) bekezdés nem alkalmazandó, ha a beruházási támogatást meglévő, az 1008/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 16. pontjában meghatározott menetrend szerinti légi járatokat üzemeltető repülőterektől 100 kilométeren belül elhelyezkedő repülőtérnek nyújtják, feltéve, hogy az érintett többi meglévő repülőtér mindegyike és a támogatásban részesülő repülőtér közötti teljes utazási idő szükségképpen tengeri úton legalább 90 perc, vagy ahhoz légi közlekedést kell igénybe venni.
 
@@ -36,4 +36,4 @@ b) az elszámolható költségek 75%-át azon repülőterek esetében, amelyekne
 
 (16) A működési támogatás nyújtását nem lehet olyan feltételhez kötni, hogy a kedvezményezettnek megállapodást kell kötnie bizonyos légitársaságokkal a repülőtéri díjakról, a marketing jellegű kifizetésekről vagy a légitársaságok adott repülőtéren végzett tevékenységének egyéb pénzügyi vonatkozásairól.
 
-[^88]: A 74. § (5) bekezdése a 28/2022. (XI. 29.) TIM rendelet 17. §-ával megállapított szöveg.
+[^90]: A 74. § (5) bekezdése a 28/2022. (XI. 29.) TIM rendelet 17. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 25. A regionális beruházási támogatás
 
-46. § (1)[^80] A regionális beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) igénybevételének feltétele, hogy a tervezett beruházás olyan induló beruházásnak minősüljön, amelyet az Atr. 25. § (1) bekezdése szerinti régióban kis- és középvállalkozás vagy nagyvállalkozás valósít meg.
+46. § (1)[^81] A regionális beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) igénybevételének feltétele, hogy a tervezett beruházás olyan induló beruházásnak minősüljön, amelyet az Atr. 25. § (1) bekezdése szerinti régióban kis- és középvállalkozás vagy nagyvállalkozás valósít meg.
 
 (2) A nagyvállalkozások esetén a termelési folyamat alapvető megváltoztatásához a támogatás akkor vehető igénybe, ha az elszámolható költségek összege meghaladja a korszerűsítendő tevékenységhez kapcsolódó eszközökre a kérelem benyújtásának adóévét megelőző három adóévben elszámolt terv szerinti értékcsökkenés összegét.
 
@@ -24,4 +24,4 @@ d) az a)–c) pontok közül több pont együttes megvalósulása esetén a legk
 
 azzal, hogy nem tekintendő a beruházás megkezdésének a földterület megvásárlása, ha az nem képezi a beruházás elszámolható költségét, valamint az előkészítő munka költségének felmerülése.
 
-[^80]: A 46. § (1) bekezdése a 28/2022. (XI. 29.) TIM rendelet 14. §-ával megállapított szöveg.
+[^81]: A 46. § (1) bekezdése a 28/2022. (XI. 29.) TIM rendelet 14. §-ával megállapított szöveg.

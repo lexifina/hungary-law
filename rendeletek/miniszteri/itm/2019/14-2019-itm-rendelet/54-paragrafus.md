@@ -24,6 +24,6 @@ c) a képzési projekthez kapcsolódó tanácsadás költsége és
 
 d) a képzésben részt vevők személyi jellegű ráfordításai és az általános közvetett költségek, mint például adminisztrációs költségek, bérleti díj, rezsiköltségek, azokra az órákra vonatkozóan, amikor a képzésben részt vevők részt vesznek a képzésen.
 
-(5)[^83] Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez.
+(5)[^85] Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez.
 
-[^83]: Az 54. § (5) bekezdése a 28/2022. (XI. 29.) TIM rendelet 15. §-ával megállapított szöveg.
+[^85]: Az 54. § (5) bekezdése a 28/2022. (XI. 29.) TIM rendelet 15. §-ával megállapított szöveg.

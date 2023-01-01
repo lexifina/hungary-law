@@ -1,6 +1,6 @@
-## 8/B. §[^58] Az Atr. 18. § (2) bekezdés b) pontja szerint a halászati és akvakultúra-termékek feldolgozásához nyújtott támogatás esetében előzetesen be kell jelenteni az Európai Bizottság részére a támogatási intézkedést, ha a projekt összköltsége meghaladja a 2 millió eurónak megfelelő forintösszeget, vagy amelyek esetében a támogatás összege kedvezményezettenként több mint évi 1 millió euró.
+## 8/B. §[^59] Az Atr. 18. § (2) bekezdés b) pontja szerint a halászati és akvakultúra-termékek feldolgozásához nyújtott támogatás esetében előzetesen be kell jelenteni az Európai Bizottság részére a támogatási intézkedést, ha a projekt összköltsége meghaladja a 2 millió eurónak megfelelő forintösszeget, vagy amelyek esetében a támogatás összege kedvezményezettenként több mint évi 1 millió euró.
 
-## 9. §[^59] E rendelet alapján
+## 9. §[^60] E rendelet alapján
 
 a) a 651/2014/EU bizottsági rendelet szerinti támogatás esetén – a regionális beruházási támogatás kivételével – 2024. június 30-ig,
 
@@ -8,24 +8,24 @@ b) csekély összegű támogatás esetén 2024. június 30-ig,
 
 c) mezőgazdasági csekély összegű támogatás esetén 2028. december 31-ig,
 
-d)[^60] közszolgáltatási csekély összegű támogatás esetén 2024. június 30-ig,
+d)[^61] közszolgáltatási csekély összegű támogatás esetén 2024. június 30-ig,
 
-e)[^61] regionális beruházási támogatás esetén 2023. december 31-ig,
+e)[^62] regionális beruházási támogatás esetén 2023. december 31-ig,
 
-f)[^62] az SA.46515 számú bizottsági határozat szerinti támogatás esetében 2022. december 31-ig,
+f)[^63] az SA.46515 számú bizottsági határozat szerinti támogatás esetében 2022. december 31-ig,
 
 g) az Éghajlat-politika alprogram keretében projekt vagy pályázat önrész összegéhez nyújtott támogatása esetén 2024. december 31-ig,
 
-h)[^63] a 702/2014/EU bizottsági rendelet 14. cikke alapján 2023. június 30-ig
+h)[^64] a 702/2014/EU bizottsági rendelet 14. cikke alapján 2023. június 30-ig
 
-i)[^64] az 1388/2014/EU bizottsági rendelet alapján 2023. június 30-ig
+i)[^65] az 1388/2014/EU bizottsági rendelet alapján 2023. június 30-ig
 
 lehet támogatási döntést hozni.
 
-[^58]: A 8/B. §-t az 59/2020. (XII. 30.) ITM rendelet 6. §-a iktatta be.
-[^59]: A 9. § az 59/2020. (XII. 30.) ITM rendelet 8. §-ával megállapított szöveg.
-[^60]: A 9. § d) pontja a 70/2021. (XII. 30.) ITM rendelet 13. § o) pontja szerint módosított szöveg.
-[^61]: A 9. § e) pontja a 28/2022. (XI. 29.) TIM rendelet 6. §-ával megállapított szöveg.
-[^62]: A 9. § f) pontja a 37/2021. (VII. 29.) ITM rendelet 7. § 5. pontja szerint módosított szöveg.
-[^63]: A 9. § h) pontja a 37/2021. (VII. 29.) ITM rendelet 7. § 6. pontja szerint módosított szöveg.
-[^64]: A 9. § i) pontját a 37/2021. (VII. 29.) ITM rendelet 2. §-a iktatta be.
+[^59]: A 8/B. §-t az 59/2020. (XII. 30.) ITM rendelet 6. §-a iktatta be.
+[^60]: A 9. § az 59/2020. (XII. 30.) ITM rendelet 8. §-ával megállapított szöveg.
+[^61]: A 9. § d) pontja a 70/2021. (XII. 30.) ITM rendelet 13. § o) pontja szerint módosított szöveg.
+[^62]: A 9. § e) pontja a 28/2022. (XI. 29.) TIM rendelet 6. §-ával megállapított szöveg.
+[^63]: A 9. § f) pontja a 37/2021. (VII. 29.) ITM rendelet 7. § 5. pontja szerint módosított szöveg.
+[^64]: A 9. § h) pontja a 37/2021. (VII. 29.) ITM rendelet 7. § 6. pontja szerint módosított szöveg.
+[^65]: A 9. § i) pontját a 37/2021. (VII. 29.) ITM rendelet 2. §-a iktatta be.
