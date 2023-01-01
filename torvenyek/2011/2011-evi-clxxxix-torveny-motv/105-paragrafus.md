@@ -12,6 +12,6 @@
 
 (6) A fővároshoz csatlakozni kívánó, vele határos települési önkormányzat képviselő-testülete a csatlakozás kérdésében saját településén helyi népszavazást köteles elrendelni.
 
-(7) Amennyiben az új kerületi tagozódás a főváros közigazgatási határát is érinti, a kezdeményezés a helyi népszavazás eredményével, az érintett települési önkormányzat képviselő-testülete, a változással érintett határos megyei önkormányzat közgyűlésének véleményével nyújtható be az Országgyűléshez.
+(7) Amennyiben az új kerületi tagozódás a főváros közigazgatási határát is érinti, a kezdeményezés a helyi népszavazás eredményével, az érintett települési önkormányzat képviselő-testülete, a változással érintett határos vármegyei önkormányzat közgyűlésének véleményével nyújtható be az Országgyűléshez.
 
 (8) Az e §-ban megjelölt kezdeményezési jogosultság megilleti a Kormányt is. Ilyen esetben a helyi népszavazást a tervezett területi változással közvetlenül érintett települési önkormányzat köteles elrendelni. A népszavazás költségét a központi költségvetés viseli.

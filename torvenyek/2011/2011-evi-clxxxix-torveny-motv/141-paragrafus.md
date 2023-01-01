@@ -2,7 +2,7 @@
 
 141. § (1) A kormányhivatal a helyi önkormányzattal vagy a társulással szemben törvényességi felügyeleti bírságot állapíthat meg,
 
-a) ha a jegyző a kormányhivatal felhívása ellenére a megadott határidőn belül nem tesz eleget a jegyzőkönyv megküldési kötelezettségének;
+a) ha a jegyző a kormányhivatal felhívása ellenére a megadott határidőn belül nem tesz eleget a jegyzőkönyv, valamint a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke és a jegyző képviselő-testület által átruházott hatáskörében meghozott – hatósági döntésnek nem minősülő – döntései megküldési kötelezettségének;
 
 b) ha az érintett határidőben nem tesz eleget a kormányhivatal információkérésre irányuló megkeresésének;
 

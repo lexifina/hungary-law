@@ -1,8 +1,8 @@
 ## A képviselő-testület
 
-41. § (1) A helyi önkormányzat jogi személy, a Polgári Törvénykönyvről szóló törvény jogi személyekre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni. A képviselő-testületet a polgármester, a megyei közgyűlés elnöke, a főpolgármester képviseli.
+41. § (1) A helyi önkormányzat jogi személy, a Polgári Törvénykönyvről szóló törvény jogi személyekre vonatkozó rendelkezéseit az e törvényben foglalt eltérésekkel kell alkalmazni. A képviselő-testületet a polgármester, a vármegyei közgyűlés elnöke, a főpolgármester képviseli.
 
-(2) Az önkormányzati feladatok ellátását a képviselő-testület és szervei biztosítják. A képviselő-testület szervei: a polgármester, a főpolgármester, a megyei közgyűlés elnöke, a képviselő-testület bizottságai, a részönkormányzat testülete, a polgármesteri hivatal, a megyei önkormányzati hivatal, a közös önkormányzati hivatal, a jegyző, továbbá a társulás.
+(2) Az önkormányzati feladatok ellátását a képviselő-testület és szervei biztosítják. A képviselő-testület szervei: a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke, a képviselő-testület bizottságai, a részönkormányzat testülete, a polgármesteri hivatal, a vármegyei önkormányzati hivatal, a közös önkormányzati hivatal, a jegyző, továbbá a társulás.
 
 (3) Önkormányzati döntést a képviselő-testület, a helyi népszavazás, a képviselő-testület felhatalmazása alapján a képviselő-testület bizottsága, a részönkormányzat testülete, a társulása, a polgármester, továbbá a jegyző hozhat.
 

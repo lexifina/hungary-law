@@ -64,7 +64,7 @@
 
 8. ipari és kereskedelmi tevékenységgel kapcsolatos szabályozási jogkörök;
 
-9. egészségügyi alapellátás, az egészséges életmód segítését célzó szolgáltatások;
+9. törvényben meghatározott kivételekkel az egészségügyi alapellátás, az egészséges életmód segítését célzó szolgáltatások;
 
 10. óvodai ellátás;
 

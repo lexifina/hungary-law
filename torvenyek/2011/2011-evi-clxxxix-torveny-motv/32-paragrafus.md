@@ -1,6 +1,6 @@
 ## Jogok és kötelezettségek
 
-32. § (1) Az önkormányzati képviselő a település (fővárosi kerület, megye) egészéért vállalt felelősséggel képviseli a választóinak az érdekeit. Az önkormányzati képviselők jogai és kötelességei azonosak.
+32. § (1) Az önkormányzati képviselő a település (fővárosi kerület, vármegye) egészéért vállalt felelősséggel képviseli a választóinak az érdekeit. Az önkormányzati képviselők jogai és kötelességei azonosak.
 
 (2) Az önkormányzati képviselő:
 

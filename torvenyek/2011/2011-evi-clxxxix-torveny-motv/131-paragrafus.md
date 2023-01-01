@@ -10,6 +10,6 @@ c) a fővárosi önkormányzat érdekképviseletét ellátó szövetségnek lega
 
 d) a városi és a járásszékhely városi önkormányzatok érdekképviseletét ellátó szövetségnek tagja az ilyen szerepet betöltő önkormányzatok több mint 50%-a, és a tagságon belül a járásszékhely városi önkormányzatok több mint 50%-a, továbbá
 
-e) minden más olyan önkormányzati érdekképviseleti szervezet (szövetség), amelynek tagja legalább négyszáz helyi önkormányzat, és legalább tizenegy területi (megyei) szervezetük működik.
+e) minden más olyan önkormányzati érdekképviseleti szervezet (szövetség), amelynek tagja legalább négyszáz helyi önkormányzat, és legalább tizenegy területi (vármegyei) szervezetük működik.
 
 (3) A (2) bekezdésben foglalt arányszámok számításánál egy helyi önkormányzatot csak egy érdekszövetség tagjaként lehet figyelembe venni.

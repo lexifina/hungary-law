@@ -1,6 +1,6 @@
 30. § (1) Az önkormányzati képviselő a képviselő-testület ülésén jelentheti be lemondását. A lemondást és a megbízatás megszűnésének időpontját az ülés jegyzőkönyvében rögzíteni kell.
 
-(2) Az önkormányzati képviselő lemondhat a képviselő-testülethez intézett írásbeli nyilatkozatával is, melyet a polgármesternek, a főpolgármesternek, a megyei közgyűlés elnökének ad át vagy juttat el. Az írásbeli nyilatkozatot a képviselő-testület következő ülésén ismertetni kell.
+(2) Az önkormányzati képviselő lemondhat a képviselő-testülethez intézett írásbeli nyilatkozatával is, melyet a polgármesternek, a főpolgármesternek, a vármegyei közgyűlés elnökének ad át vagy juttat el. Az írásbeli nyilatkozatot a képviselő-testület következő ülésén ismertetni kell.
 
 (3) A lemondás nem vonható vissza.
 

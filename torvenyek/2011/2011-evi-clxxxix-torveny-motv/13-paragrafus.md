@@ -6,7 +6,7 @@
 
 3. a közterületek, valamint az önkormányzat tulajdonában álló közintézmény elnevezése;
 
-4. egészségügyi alapellátás, az egészséges életmód segítését célzó szolgáltatások;
+4. törvényben meghatározott kivételekkel az egészségügyi alapellátás, az egészséges életmód segítését célzó szolgáltatások;
 
 5. környezet-egészségügy (köztisztaság, települési környezet tisztaságának biztosítása, rovar- és rágcsálóirtás);
 
