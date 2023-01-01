@@ -4,7 +4,7 @@
 
 | 1002/09 | Jelentés az iskola-egészségügyi munkáról | évenkénti | valamennyi iskolai (óvodai) egészségügyi feladatot ellátó orvos, védőnő | országos tisztifőorvos | iskolaévet követő szeptember 15. |
 
-| országos tisztifőorvos | Központi Statisztikai Hivatal, népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal, egészségügyért felelős miniszter által vezetett minisztérium, | december 20. |
+| országos tisztifőorvos | Központi Statisztikai Hivatal, népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal, egészségügyért felelős miniszter által vezetett minisztérium, | december 20. |
 
 | 1003/09 | Védőnői jelentés összesítője | havonkénti/ évenkénti | valamennyi területi védőnő | országos tisztifőorvos | a tárgyhót követő 15. nap |
 
@@ -12,9 +12,9 @@
 
 | 1205/04 | Tüdőbeteg-gondozók éves jelentése | évenkénti | valamennyi tüdőbeteg-gondozó intézet | területért felelős minőségügyi szakfőorvos 3 példányban, | a tárgyévet követő február 15. |
 
-| a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala 1 példányban |
+| a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala 1 példányban |
 
-| területért felelős minőségügyi szakfőorvos | Országos Korányi Pulmonológiai Intézet, népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal | a tárgyévet követő március 1. |
+| területért felelős minőségügyi szakfőorvos | Országos Korányi Pulmonológiai Intézet, népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal | a tárgyévet követő március 1. |
 
 | Országos Korányi Pulmonológiai Intézet | egészségügyért felelős miniszter által vezetett minisztérium, országos tisztifőorvos, Központi Statisztikai Hivatal | a tárgyévet követő március 31. |
 
@@ -44,17 +44,17 @@
 
 | egészségügyért felelős miniszter által vezetett minisztérium | Kábítószerügyi Koordinációs Tárcaközi Bizottság, Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ, Központi Statisztikai Hivatal, országos tisztifőorvos | a tárgyévet követő május 1. |
 
-| 1210/04 | Fővárosi, megyei kardiológiai jelentés | évenkénti | valamennyi kardiológiai fekvőbeteg osztály, szakrendelés (felnőtt, gyermek) | szakterületi állandó minőségügyi szakfőorvos | a tárgyévet követő január 31. |
+| 1210/04 | Fővárosi, vármegyei kardiológiai jelentés | évenkénti | valamennyi kardiológiai fekvőbeteg osztály, szakrendelés (felnőtt, gyermek) | szakterületi állandó minőségügyi szakfőorvos | a tárgyévet követő január 31. |
 
-| szakterületi állandó minőségügyi szakfőorvos | Gottsegen György Országos Kardiológiai Intézet, népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal | február 15. |
+| szakterületi állandó minőségügyi szakfőorvos | Gottsegen György Országos Kardiológiai Intézet, népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal | február 15. |
 
 | Gottsegen György Országos Kardiológiai Intézet | egészségügyért felelős miniszter által vezetett minisztérium, országos tisztifőorvos, Központi Statisztikai Hivatal | március 31. |
 
-| 1617/04 | Jelentés onkológiai tevékenységről | évenkénti | valamennyi onkológiai feladatok ellátása céljából | fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala | a tárgyévet követő január 20. |
+| 1617/04 | Jelentés onkológiai tevékenységről | évenkénti | valamennyi onkológiai feladatok ellátása céljából | fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala | a tárgyévet követő január 20. |
 
 |  |  |  | szervezett járóbeteg- szakrendelés és fekvőbeteg osztály, részleg | szakterületi állandó minőségügyi szakfőorvos, Országos Onkológiai Intézet |  |
 
-| fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala | népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal | január 31. |
+| fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala | népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal | január 31. |
 
 | Országos Onkológiai Intézet | egészségügyért felelős miniszter által vezetett minisztérium, országos tisztifőorvos, Központi Statisztikai Hivatal | a tárgyévet követő április 15. |
 
