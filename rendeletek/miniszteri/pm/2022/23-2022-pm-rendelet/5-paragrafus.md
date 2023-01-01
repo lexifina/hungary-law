@@ -1,3 +1,9 @@
-5. §[^5]
+5. § A Rendelet 48/B. §-a helyébe a következő rendelkezés lép:
 
-[^5]: Az 5. § a 10. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+„48/B. § (1) A támogatás támogatástartalma a közlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve, a (2)–(3) bekezdésben meghatározott kivétellel – nem haladhatja meg a 2 000 000 eurónak megfelelő forintösszeget.
+
+(2) A mezőgazdasági termékek elsődleges termelésével foglalkozó vállalkozások esetén az e tevékenységekhez összesen nyújtott támogatás támogatástartalma a közlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 250 000 eurónak megfelelő forintösszeget.
+
+(3) A halászati és akvakultúra-ágazathoz tartozó vállalkozások esetén az e tevékenységekhez összesen nyújtott támogatás támogatástartalma a közlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget.
+
+(4) Ha egy vállalkozás több ágazatban is folytat tevékenységet, és ezekre az (1)–(3) bekezdés szerint eltérő maximális összegek vonatkoznak, a vállalkozás a támogatásokról olyan elkülönített nyilvántartást vezet, amely biztosítja az érintett tevékenységekre vonatkozó felső határok betartását, és azt, hogy a teljes maximális összeg vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – ne haladja meg a 2 000 000 eurónak megfelelő forintösszeget. A (2) és (3) bekezdés szerinti ágazatokban folytatott tevékenységekre eső teljes maximális támogatástartalom vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget.”

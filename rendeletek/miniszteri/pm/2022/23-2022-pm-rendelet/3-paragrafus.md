@@ -1,3 +1,3 @@
-3. §[^3]
+3. § A Rendelet 3. §-a helyébe a következő rendelkezés lép:
 
-[^3]: A 3. § a 10. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+„3. § Az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatások esetében

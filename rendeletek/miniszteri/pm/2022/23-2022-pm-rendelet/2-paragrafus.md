@@ -1,3 +1,3 @@
-2. §[^2]
+2. § A Rendelet 2. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^2]: A 2. § a 10. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+„(1) Az előirányzatoknak az Áht. 109. § (5) bekezdése szerinti felhasználási szabályait az 1. melléklet tartalmazza.”
