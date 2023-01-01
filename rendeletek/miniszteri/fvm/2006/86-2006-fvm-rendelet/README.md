@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-86-20-8
 | 2014-03-15 | 2006-86-20-82.3 | 22/2014. (III. 14.) VM rendelet |
 | 2017-01-01 | 2006-86-20-82.4 | 88/2016. (XII. 29.) FM rendelet |
 | 2017-12-30 | 2006-86-20-82.5 | 69/2017. (XII. 27.) FM rendelet |
+| 2023-01-01 | 2006-86-20-82.6 | 69/2017. (XII. 27.) FM rendelet |
