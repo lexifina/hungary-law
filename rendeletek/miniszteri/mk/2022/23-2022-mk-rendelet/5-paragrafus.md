@@ -1,0 +1,1 @@
+5. § Ez a rendelet az európai vállalkozásstatisztikáról, valamint tíz, a vállalkozásstatisztika területét szabályozó jogi aktus hatályon kívül helyezéséről szóló, 2019. november 27-i (EU) 2019/2152 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
