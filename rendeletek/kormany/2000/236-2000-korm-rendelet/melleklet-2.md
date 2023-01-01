@@ -1,5 +1,3 @@
-## A pontrendszer hatálya alá tartozó egyes közigazgatási bírsággal sújtandó jogsértések
-
 | Kódszám | Tényállás | Pontszám |
 
 | 16 | A megengedett legnagyobb sebesség túllépése |  |
@@ -52,17 +50,23 @@ Eljáró bíróság hatóság megnevezése kódja:
 
 | Vezetésre jogosító okmány azonosítója: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
+6K77989M_2
+
 | Családi név: |  |  | . |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |  | dr. |  |
 
 | Utónév: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
+6K77989M_4
+
 | Születési családi név: |  |  | . |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |  |  | dr. |  |
 
 | Születési utóneve: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+6K77989M_5
 
 | Anyja családi neve: |  |  | . |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -87,6 +91,8 @@ Eljáró bíróság hatóság megnevezése kódja:
 Cselekmény jogszabály szerinti megnevezése:
 
 | Kód |  | Tényállás, minősítés | Szabályszegéshez rendelt pontok száma |
+
+6K77989M_16
 
 | A cselekmény elkövetésének ideje: |  |  |  |  | - |  |  | - |  |  |
 
