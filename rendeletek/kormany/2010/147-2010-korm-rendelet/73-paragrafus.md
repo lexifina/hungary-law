@@ -20,5 +20,7 @@ a) a térszín alatti keresztezésnél a nyomvonalas létesítmények átépít�
 
 b)[^91] a térszín feletti keresztezésnél a nyomvonalas létesítmények műtárgyainak átépítése
 
+során is érvényesíteni kell.
+
 [^90]: A 73. § (7) bekezdését a 209/2011. (X. 12.) Korm. rendelet 12. §-a iktatta be.
 [^91]: A 73. § (7) bekezdés b) pontja a 368/2020. (VII. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.

@@ -14,14 +14,14 @@ b) a saját célú ivóvízmű védelmét és
 
 c) az ivóvízminőség vizsgálatát
 
-## foglalja magában.
+foglalja magában.
 
 (4) A saját célú ivóvízmű (3) bekezdés b) pontja szerinti védelmét úgy kell megvalósítani, hogy a vízkivétel körül 10 méteres körzet a saját ingatlanon belül legyen. Az ingatlan tulajdonosának vagy az üzemeltetőnek ezen a területen belül meg kell akadályozni a szennyezőanyagok saját célú ivóvízműbe és a környező földtani közegbe történő bocsátását.
 
-(5)[^27] A (3) bekezdésben foglalt tevékenységet az engedélyező hatóság ellenőrzi. Az ellenőrzés során a népegészségügyi feladatkörben eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának szakvéleménye kérhető.
+(5)[^27] A (3) bekezdésben foglalt tevékenységet az engedélyező hatóság ellenőrzi. Az ellenőrzés során a népegészségügyi feladatkörben eljáró fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalának szakvéleménye kérhető.
 
 (6)[^28] A saját célú ivóvízmű tulajdonosa az ivóvízmű üzemeltetését írásbeli szerződésben átengedheti, ha az üzemeltető részéről a személyi és tárgyi feltételek rendelkezésre állnak.
 
 [^26]: A 6a. alcímet (16/A–16/C. §) a 100/2016. (V. 13.) Korm. rendelet 14. §-a iktatta be.
-[^27]: A 16/A. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 295. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^27]: A 16/A. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 295. § (1) bekezdésével megállapított, a 618. §-át. A 16/A. § (5) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 111. § a) pontja szerint módosított szöveg.
 [^28]: A 16/A. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 295. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

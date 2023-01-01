@@ -1,5 +1,3 @@
-## köteles gondoskodni, ha azt a vízbázis és a kiemelt jelentőségű vízilétesítmény biztonsága indokolttá teszi, vagy a felszíni vizek minősége védelmének szabályairól szóló kormányrendelet, illetve a felszín alatti vizek védelméről szóló kormányrendelet előírja.
-
 ## 4. Vízkészlet-gazdálkodás
 
 10. § (1) A vízigény kielégítésének tervezése során figyelembe kell venni

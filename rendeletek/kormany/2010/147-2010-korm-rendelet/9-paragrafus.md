@@ -6,4 +6,6 @@ a) kiépítéséről, illetve a megfigyeléshez szükséges eszközök telepít�
 
 b) működtetéséről, illetve működésre alkalmas állapotban tartásáról az üzemeltető
 
+köteles gondoskodni, ha azt a vízbázis és a kiemelt jelentőségű vízilétesítmény biztonsága indokolttá teszi, vagy a felszíni vizek minősége védelmének szabályairól szóló kormányrendelet, illetve a felszín alatti vizek védelméről szóló kormányrendelet előírja.
+
 [^20]: A 9. § a 769/2021. (XII. 23.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.

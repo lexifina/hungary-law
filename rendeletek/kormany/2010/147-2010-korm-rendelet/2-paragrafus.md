@@ -42,7 +42,7 @@ a) a vízilétesítmény létesítését, átépítését, átalakítását, fel
 
 b) a vízimunka megvalósítását
 
-## nem saját tulajdonú ingatlanon végzi.
+nem saját tulajdonú ingatlanon végzi.
 
 17. közös érdekű árvízvédelmi mű: árvízvédelmi műnek a szomszédos országokkal, a vízgazdálkodási feladatok rendezésére kötött kétoldalú nemzetközi szerződésben szelvényszámmal rögzített szakasza,
 

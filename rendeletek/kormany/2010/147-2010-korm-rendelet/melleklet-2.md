@@ -1,5 +1,3 @@
-## A vizeknek és vízilétesítményeknek más, nyomvonal jellegű építménnyel történő keresztezésére és megközelítésére vonatkozó részletes szabályok
-
 ## 1. Általános előírások
 
 ## 1.1. Biztonsági előírások
