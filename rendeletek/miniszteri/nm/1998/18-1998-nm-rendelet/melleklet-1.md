@@ -1,6 +1,4 @@
-## 44. §[^206]
-
-1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^207]
+1. számú melléklet a 18/1998. (VI. 3.) NM rendelethez[^209]
 
 A) Személyazonosító adatokkal együtt jelentendő
 
@@ -2872,7 +2870,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-A megbetegedések halmozott előfordulása esetén a járási vagy a megyei kormányhivatal elrendelheti a klinikai minták járványügyi feladatok ellátására kijelölt területileg illetékes mikrobiológiai laboratóriumba történő beküldését. A járványügyi tipizáló vizsgálatok a referencia laboratóriumban történnek.
+A megbetegedések halmozott előfordulása esetén a járási vagy a vármegyei kormányhivatal elrendelheti a klinikai minták járványügyi feladatok ellátására kijelölt területileg illetékes mikrobiológiai laboratóriumba történő beküldését. A járványügyi tipizáló vizsgálatok a referencia laboratóriumban történnek.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -2978,7 +2976,7 @@ A beteget kórházban vagy otthonában a standard izoláció szabályai szerint 
 
 Kötelező.
 
-2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: A megbetegedések halmozott előfordulása esetén a járási népegészségügyi intézet vagy a megyei kormányhivatal elrendelheti a klinikai minták járványügyi feladatok ellátására kijelölt területileg illetékes mikrobiológiai laboratóriumba történő beküldését.
+2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat: A megbetegedések halmozott előfordulása esetén a járási népegészségügyi intézet vagy a vármegyei kormányhivatal elrendelheti a klinikai minták járványügyi feladatok ellátására kijelölt területileg illetékes mikrobiológiai laboratóriumba történő beküldését.
 
 A járványügyi tipizáló vizsgálatok a referencia laboratóriumban történnek.
 
@@ -3156,7 +3154,7 @@ Kötelező.
 
 2.3.2. Járványügyi érdekből végzett mikrobiológiai diagnosztikai vizsgálat:
 
-A megbetegedések halmozott előfordulása esetén a járási hivatal vagy a megyei kormányhivatal elrendelheti a klinikai minták járványügyi feladatok ellátására kijelölt területileg illetékes mikrobiológiai laboratóriumba történő beküldését. A járványügyi tipizáló vizsgálatok a referencia laboratóriumban történnek.
+A megbetegedések halmozott előfordulása esetén a járási hivatal vagy a vármegyei kormányhivatal elrendelheti a klinikai minták járványügyi feladatok ellátására kijelölt területileg illetékes mikrobiológiai laboratóriumba történő beküldését. A járványügyi tipizáló vizsgálatok a referencia laboratóriumban történnek.
 
 2.3.3. Felszabadító vizsgálat:
 
@@ -3364,7 +3362,7 @@ Adenovírus 8 típus, egyes esetekben más típus is, különösen a 3, 7, 11, 1
 
 2.1. Jelentés:
 
-Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset. Egyidejűleg értesíteni kell a megyei, fővárosi szemész szakfelügyelő főorvost.
+Bejelentésre kötelezett a valószínűsíthető vagy a megerősített eset. Egyidejűleg értesíteni kell a vármegyei, fővárosi szemész szakfelügyelő főorvost.
 
 2.1.1. Esetek osztályozása
 
@@ -6780,5 +6778,12 @@ Szigorított folyamatos és szigorított zárófertőtlenítést szükséges vé
 
 3. Teendők a beteg környezetében
 
-[^206]: A 44. §-t a 10/2020. (III. 14.) EMMI rendelet 1. §-a iktatta be, hatályon kívül helyezte a 17/2020. (IV. 30.) EMMI rendelet 2. § a) pontja.
-[^207]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+3.1. A beteggel kontaktusba kerültek felkutatása:
+
+Kötelező.
+
+3.2. Járványügyi érdekből végzett mikrobiológiai szűrővizsgálat:
+
+Nem szükséges.
+
+[^209]: Az 1. számú melléklet a 12/2019. (VII. 3.) EMMI rendelet 4. § (1) bekezdésével megállapított, a 45/2022. (XII. 20.) BM rendelet a) pontja szerint módosított szöveg.

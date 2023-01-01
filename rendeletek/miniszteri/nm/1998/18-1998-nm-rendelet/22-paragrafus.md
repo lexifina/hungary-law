@@ -1,6 +1,6 @@
-## Egyéb szűrővizsgálatok[^118]
+## Egyéb szűrővizsgálatok[^120]
 
-22. §[^119] (1) Önkéntesen kezdeményezett, a szexuális úton terjedő fertőzések kimutatására irányuló orvosi vizsgálat térítésköteles elvégzésére és erről orvosi igazolás kiállítására a bőr- és nemibeteg gondozó egészségügyi szolgáltató, valamint a bőr- és nemibeteg szakorvosi tevékenységre engedéllyel rendelkező egészségügyi szolgáltató (a továbbiakban együtt: szolgáltató) jogosult.
+22. §[^121] (1) Önkéntesen kezdeményezett, a szexuális úton terjedő fertőzések kimutatására irányuló orvosi vizsgálat térítésköteles elvégzésére és erről orvosi igazolás kiállítására a bőr- és nemibeteg gondozó egészségügyi szolgáltató, valamint a bőr- és nemibeteg szakorvosi tevékenységre engedéllyel rendelkező egészségügyi szolgáltató (a továbbiakban együtt: szolgáltató) jogosult.
 
 (2) Az orvosi igazoláshoz szükséges laboratóriumi vizsgálatokat az e rendeletben és külön jogszabályban meghatározott intézményekben, mikrobiológiai laboratóriumokban kell elvégezni, illetve elvégeztetni.
 
@@ -16,7 +16,7 @@ a) syphilis (vérbaj) és gonorrhoea (kankó, tripper) megállapítására vagy 
 
 b) syphilis (vérbaj), gonorrhoea (kankó, tripper), HIV, acut urogenitális chlamydiasis és hepatitis B fertőzések felderítésére irányuló mikrobiológiai szűrővizsgálatot
 
-## kell elvégezni.
+kell elvégezni.
 
 (7) A hepatitis B fertőzés kizárása esetén a szakorvos köteles tájékoztatást adni a hepatitis B elleni védőoltás igénybevételének lehetőségéről és módjáról. Negatív hepatitis B (HBsAg) leletet követően elvégzett hepatitis B elleni védőoltás tényét az orvosi igazoláson fel kell tüntetni.
 
@@ -30,5 +30,5 @@ b) syphilis (vérbaj), gonorrhoea (kankó, tripper), HIV, acut urogenitális chl
 
 (12) A bőr- és nemibeteg gondozó egészségügyi szolgáltató az önkéntesen kezdeményezett, a szexuális úton terjedő fertőzések kimutatására irányuló orvosi vizsgálat elvégzését és fertőzés kizárása esetén az orvosi igazolás kiállítását nem tagadhatja meg a jelentkezőtől.
 
-[^118]: A 22. §-t megelőző alcímet a 3/2012. (I. 3.) NEFMI rendelet 1. §-a iktatta be.
-[^119]: A 22. §-t a 13/2008. (IV. 8.) EüM rendelet 7. § (2) bekezdése hatályon kívül helyezte, újonnan a 3/2012. (I. 3.) NEFMI rendelet 1. §-a iktatta be.
+[^120]: A 22. §-t megelőző alcímet a 3/2012. (I. 3.) NEFMI rendelet 1. §-a iktatta be.
+[^121]: A 22. §-t a 13/2008. (IV. 8.) EüM rendelet 7. § (2) bekezdése hatályon kívül helyezte, újonnan a 3/2012. (I. 3.) NEFMI rendelet 1. §-a iktatta be.

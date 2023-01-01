@@ -62,7 +62,7 @@
 
 16. mikrobiológiai tipizáló vizsgálat: a kórokozók azon feno-, illetve genotípusos jellemzőinek (antibiotikum-rezisztencia, szerotípus, szerocsoport, fágtípus, egyéb molekuláris jellemzők) vizsgálata, amelyek célja a betegség terjedésének felderítése és epidemiológiai kapcsolatok igazolása;
 
-17. oltóhely: legalább a rendelő vagy a tanácsadó egyéb jogszabályokban meghatározott általános szakmai minimumfeltételeivel rendelkező helyiség, különösen a háziorvosi, házi gyermekorvosi és iskolaorvosi rendelő, tanácsadó, foglalkozás-egészségügyi szolgálat rendelője, nemzetközi oltóhely, megyei klinikai védőoltási tanácsadó;
+17.[^7] oltóhely: legalább a rendelő vagy a tanácsadó egyéb jogszabályokban meghatározott általános szakmai minimumfeltételeivel rendelkező helyiség, különösen a háziorvosi, házi gyermekorvosi és iskolaorvosi rendelő, tanácsadó, foglalkozás-egészségügyi szolgálat rendelője, nemzetközi oltóhely, vármegyei klinikai védőoltási tanácsadó;
 
 18. surveillance: járványügyi felügyelet, melynek során az egészségügyi adatok folyamatos és szisztematikus gyűjtése, elemzése, értelmezése és terjesztése történik, különös tekintettel a fertőző betegségek idő- és térbeli előfordulására, valamint az ilyen betegségek kockázati tényezőinek elemzésére, a megfelelő megelőző és visszaszorító ellenintézkedések megtételének elősegítése céljából;
 
@@ -70,3 +70,4 @@
 
 [^5]: A 3/A. §-t a 21/2012. (IV. 4.) NEFMI rendelet 1. §-a iktatta be.
 [^6]: A 3/A. § 1. pontja az 54/2015. (XI. 24.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^7]: A 3/A. § 17. pontja a 45/2022. (XII. 20.) BM rendelet 7. § b) pontja szerint módosított szöveg.
