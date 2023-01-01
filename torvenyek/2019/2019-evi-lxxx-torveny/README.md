@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-80-00-00
 | 2022-01-01 | 2021. évi CXLVII. törvény | 2019-80-00-00.9 |
 | 2022-02-01 | 2021. évi CXLVII. törvény | 2019-80-00-00.10 |
 | 2022-05-25 | 2022. évi IV. törvény | 2019-80-00-00.11 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2019-80-00-00.12 |
