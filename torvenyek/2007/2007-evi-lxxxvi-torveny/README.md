@@ -97,3 +97,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-86-00-00
 | 2021-12-18 | 2021. évi CXXXVI. törvény | 2007-86-00-00.102 |
 | 2022-01-01 | 2021. évi CXIX. törvény | 2007-86-00-00.103 |
 | 2022-09-01 | 2021. évi CXXXVI. törvény | 2007-86-00-00.104 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2007-86-00-00.105 |
