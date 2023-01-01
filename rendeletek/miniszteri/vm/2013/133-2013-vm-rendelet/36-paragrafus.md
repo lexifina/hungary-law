@@ -18,16 +18,16 @@ fajonkénti mennyiségét, valamint telepítés esetén a korosztályra és mér
 
 (4) Az online adatlekéréshez előzetesen regisztrálni szükséges és az Adattár részére meg kell jelölni az adatlekérés célját.
 
-(5)[^201] A területi halgazdálkodási hatóság az (1) bekezdés szerinti, illetékességi területén lévő halgazdálkodásra jogosultaktól kapott jelentéseket, valamint az azokból készített összesített megyei jelentését évente május 31-ig megküldi az Adattárat működtető, országos illetékességű halgazdálkodási hatóság részére.
+(5)[^201] A területi halgazdálkodási hatóság az (1) bekezdés szerinti, illetékességi területén lévő halgazdálkodásra jogosultaktól kapott jelentéseket, valamint az azokból készített összesített vármegyei jelentését évente május 31-ig megküldi az Adattárat működtető, országos illetékességű halgazdálkodási hatóság részére.
 
 (6)[^202] Az Adattárból történő adatszolgáltatás díja – ide nem értve a halgazdálkodásra jogosult adatszolgáltatása alapján bejegyzett adatokat – nyilvántartott halgazdálkodási vízterületenként és az adatszolgáltatással érintett naptári évenként ötezer forint, amelyet a 13. melléklet 1. pontjában meghatározott számlára kell megfizetni.
 
-(7)[^203] Az Adattárat működtető halgazdálkodási hatóság az (5) bekezdés szerinti megyei jelentések alapján összesített országos jelentését június 30-ig megküldi a minisztérium részére.
+(7)[^203] Az Adattárat működtető halgazdálkodási hatóság az (5) bekezdés szerinti vármegyei jelentések alapján összesített országos jelentését június 30-ig megküldi a minisztérium részére.
 
 [^197]: A 36. § (1) bekezdés nyitó szövegrésze a 45/2018. (XII. 28.) AM rendelet 34. § u) pontjával megállapított, záró szövegrésze az 56/2015. (IX. 24.) FM rendelet 22. § 2. pontja szerint módosított szöveg.
 [^198]: A 36. § (1) bekezdés c) pontja a 45/2018. (XII. 28.) AM rendelet 34. § v) pontja szerint módosított szöveg.
 [^199]: A 36. § (2) bekezdése a 45/2018. (XII. 28.) AM rendelet 30. § (1) bekezdésével megállapított szöveg.
 [^200]: A 36. § (2a) bekezdését a 89/2016. (XII. 29.) FM rendelet 22. § (4) bekezdése iktatta be.
-[^201]: A 36. § (5) bekezdését az 56/2015. (IX. 24.) FM rendelet 16. §-a iktatta be, szövege a 45/2018. (XII. 28.) AM rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^201]: A 36. § (5) bekezdését az 56/2015. (IX. 24.) FM rendelet 16. §-a iktatta be, szövege a 45/2018. (XII. 28.) AM rendelet 30. § (2) bekezdésével megállapított, a 136/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^202]: A 36. § (6) bekezdését az 56/2015. (IX. 24.) FM rendelet 16. §-a iktatta be.
-[^203]: A 36. § (7) bekezdését a 45/2018. (XII. 28.) AM rendelet 30. § (3) bekezdése iktatta be.
+[^203]: A 36. § (7) bekezdését a 45/2018. (XII. 28.) AM rendelet 30. § (3) bekezdése iktatta be, szövege a 136/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
