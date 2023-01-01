@@ -1,4 +1,4 @@
-9. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^345]
+9. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^351]
 
 AZ ESZKÖZÖK ÉRTÉKVESZTÉSÉNEK ALAKULÁSA
 
@@ -38,4 +38,4 @@ i) nem tartós részesedések, és
 
 j) forgatási célú hitelviszonyt megtestesítő értékpapírok.
 
-[^345]: A 9. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 4. pontjával megállapított, a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^351]: A 9. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 4. pontjával megállapított, a 284/2014. (XI. 20.) Korm. rendelet 22. § (1) bekezdés 2. pontja szerint módosított szöveg.

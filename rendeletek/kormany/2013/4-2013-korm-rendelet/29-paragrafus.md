@@ -1,6 +1,6 @@
-## 13. [^164] A kiegészítő melléklet
+## 13. [^168] A kiegészítő melléklet
 
-29. § (1)[^165]
+29. § (1)[^169]
 
 (2) A kiegészítő melléklet tartalmazza
 
@@ -12,5 +12,5 @@ c) a kiegészítő tájékoztató adatokat.
 
 (3) A (2) bekezdés szerinti adatokat a 8–10. mellékletek szerint kell bemutatni.
 
-[^164]: A 13. alcím címe a 351/2016. (XI. 18.) Korm. rendelet 12. § (2) bekezdés 1. pontja szerint módosított szöveg.
-[^165]: A 29. § (1) bekezdését a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 3. pontja hatályon kívül helyezte.
+[^168]: A 13. alcím címe a 351/2016. (XI. 18.) Korm. rendelet 12. § (2) bekezdés 1. pontja szerint módosított szöveg.
+[^169]: A 29. § (1) bekezdését a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 3. pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-10. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^346]
+10. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^352]
 
 KIEGÉSZÍTŐ TÁJÉKOZTATÓ ADATOK
 
@@ -28,13 +28,13 @@ KIEGÉSZÍTŐ TÁJÉKOZTATÓ ADATOK
 
 7. A K89. Egyéb felhalmozási célú támogatások államháztartáson kívülre rovaton kimutatott kiadásokból az előlegként kifizetett összeg
 
-8. A 14. pont szerinti korábban kifizetett előlegekből a visszatérített előlegek
+8.[^353] A 4. pont szerinti korábban kifizetett előlegekből a visszatérített előlegek
 
-9. A 15. pont szerinti korábban kifizetett előlegekből a visszatérített előlegek
+9.[^354] Az 5. pont szerinti korábban kifizetett előlegekből a visszatérített előlegek
 
-10. A 16. pont szerinti korábban kifizetett előlegekből a visszatérített előlegek
+10.[^355] A 6. pont szerinti korábban kifizetett előlegekből a visszatérített előlegek
 
-11. A 17. pont szerinti korábban kifizetett előlegekből a visszatérített előlegek
+11.[^356] A 7. pont szerinti korábban kifizetett előlegekből a visszatérített előlegek
 
 12. Az államháztartáson belülről térítésmentesen átvett eszköz
 
@@ -74,7 +74,7 @@ KIEGÉSZÍTŐ TÁJÉKOZTATÓ ADATOK
 
 20. A Gst. 8. § (2) bekezdés f) pontja szerinti ügyletek összegéből a kormányzati szektorba sorolt egyéb szervezeten kívül szervezettel szemben fennálló összeg
 
-21. A 3656. Nem társadalombiztosítás pénzügyi alapjait terhelő kifizetett ellátások megtérítésének elszámolása könyvviteli számla forgalmának és egyenlegének levezetése ellátási jogcímenként a társadalombiztosítás pénzügyi alapjainál
+21.[^357] A 3656. Nem társadalombiztosítás pénzügyi alapjait terhelő kifizetett ellátások és a társadalombiztosítás pénzügyi alapjai egymás közötti elszámolásai megtérítésének elszámolása könyvviteli számla forgalmának és egyenlegének levezetése ellátási jogcímenként a társadalombiztosítás pénzügyi alapjainál
 
 22. Települési és területi nemzetiségi önkormányzatok tárgyévi támogatásának elszámolása
 
@@ -84,4 +84,9 @@ KIEGÉSZÍTŐ TÁJÉKOZTATÓ ADATOK
 
 25. A gazdasági szervezettel nem rendelkező költségvetési szervek, helyi önkormányzatok, nemzetiségi önkormányzatok, társulások, térségi fejlesztési tanácsok esetén az Áht. 10. § (4) bekezdése alapján a gazdasági szervezet feladatait ellátó szervezet törzskönyvi azonosító (PIR) száma
 
-[^346]: A 10. melléklet a 482/2021. (VIII. 13.) Korm. rendelet 15. § (1) bekezdés 7. pontjával megállapított szöveg.
+[^352]: A 10. melléklet a 482/2021. (VIII. 13.) Korm. rendelet 15. § (1) bekezdés 7. pontjával megállapított szöveg.
+[^353]: A 10. melléklet 8. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 2. pontjával megállapított szöveg.
+[^354]: A 10. melléklet 9. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 2. pontjával megállapított szöveg.
+[^355]: A 10. melléklet 10. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 2. pontjával megállapított szöveg.
+[^356]: A 10. melléklet 11. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 2. pontjával megállapított szöveg.
+[^357]: A 10. melléklet 21. pontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 2. pontjával megállapított szöveg.

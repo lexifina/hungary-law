@@ -1,4 +1,4 @@
-14. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^350]
+14. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^361]
 
 A részletező nyilvántartások tartalma
 
@@ -44,7 +44,7 @@ f) a kötelezettségvállalás, más fizetési kötelezettség módosulásait (p
 
 g) a pénzügyi teljesítések dátumát, összegét, egységes rovatrend szerint besorolását, az utalványozás Ávr. 59. § (2) bekezdése szerinti dokumentumának azonosításához szükséges adatokat,
 
-h) a kötelezettségvállalás, más fizetési kötelezettség végleges vagy nem végleges jellegét, végleges kötelezettségvállalás, más fizetési kötelezettség esetén annak és módosulásai, a pénzügyi teljesítési adatok könyvviteli számlákon történő elszámolásának időpontjait és a könyvviteli számlák megnevezését,
+h) a kötelezettségvállalás, más fizetési kötelezettség végleges vagy nem végleges jellegét, végleges kötelezettségvállalás, más fizetési kötelezettség esetén annak módosulásai, a pénzügyi teljesítési adatok könyvviteli számlákon történő elszámolásának időpontjait és a könyvviteli számlák megnevezését,
 
 i) devizában fennálló kötelezettségvállalás, más fizetési kötelezettség esetén a kötelezettségvállalás, más fizetési kötelezettség és annak módosulásai (ide értve az átértékelést is) összegét a forint mellett devizában is, a nyilvántartásba vételi árfolyamot, a mérlegfordulónapi árfolyamot, a Gst. szerinti adósságot keletkeztető ügylet esetén az adósságelemek számítása során alkalmazandó árfolyamot,
 
@@ -340,4 +340,4 @@ e) a leltározással kapcsolatos feljegyzéseket.
 
 4. Az átsorolt, követelés fejében átvett készletekről olyan nyilvántartást kell vezetni, amelyet e rendelet az eszköz jellemzője szerint megkövetelne abban az esetben, ha azt nem értékesítenék.
 
-[^350]: A 14. melléklet a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés d) pontja, a 497/2013. (XII. 29.) Korm. rendelet 113. § 14. pontja, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 2. és 37. pontja, és 23. § (2) bekezdés 21–22. pontja, a 402/2015. (XII. 15.) Korm. rendelet 22. § 43. pontja, a 351/2016. (XI. 18.) Korm. rendelet 11. § 11. pontja, a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 4. pontja szerint módosított szöveg.
+[^361]: A 14. melléklet a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés d) pontja, a 497/2013. (XII. 29.) Korm. rendelet 113. § 14. pontja, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 2. és 37. pontja, és 23. § (2) bekezdés 21–22. pontja, a 402/2015. (XII. 15.) Korm. rendelet 22. § 43. pontja, a 351/2016. (XI. 18.) Korm. rendelet 11. § 11. pontja, a 678/2020. (XII. 28.) Korm. rendelet 9. § (2) bekezdés 4. pontja, a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 4. pontja szerint módosított szöveg.

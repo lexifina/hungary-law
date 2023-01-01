@@ -1,8 +1,72 @@
+## KONSZOLIDÁLT MÉRLEG
+
+## ESZKÖZÖK
+
+## A) Nemzeti vagyonba tartozó befektetett eszközök
+
+## I. Immateriális javak
+
+## II. Tárgyi eszközök
+
+## III. Befektetett pénzügyi eszközök
+
+## IV. Koncesszióba, vagyonkezelésbe adott eszközök
+
+## B) Nemzeti vagyonba tartozó forgóeszközök
+
+## I. Készletek
+
+## II. Értékpapírok
+
+## C) Pénzeszközök
+
+## I. Lekötött bankbetétek
+
+## II. Pénztárak, csekkek, betétkönyvek
+
+## III–IV. Forintszámlák, devizaszámlák
+
+## D) Követelések
+
+## I. Költségvetési évben esedékes követelések
+
+## II. Költségvetési évet követően esedékes követelések
+
+## III. Követelés jellegű sajátos elszámolások
+
+## E) Egyéb sajátos elszámolások
+
+## F) Aktív időbeli elhatárolások
+
+## Eszközök összesen
+
+## FORRÁSOK
+
+## G) Saját tőke
+
+## I–III. Nemzeti vagyon és egyéb eszközök induláskori értéke és változásai
+
+## IV. Felhalmozott eredmény
+
+## V. Eszközök értékhelyesbítésének forrása
+
+## VI. Mérleg szerinti eredmény
+
+## H) Kötelezettségek
+
+## I. Költségvetési évben esedékes kötelezettségek
+
+## II. Költségvetési évet követően esedékes kötelezettségek
+
+## III. Kötelezettség jellegű sajátos elszámolások
+
 ## I) Kincstári számlavezetéssel kapcsolatos elszámolások
 
 ## J) Passzív időbeli elhatárolások
 
-12. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^348]
+## Források összesen
+
+12. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^359]
 
 A konszolidálás során elvégzendő feladatok
 
@@ -26,11 +90,11 @@ A konszolidálás során elvégzendő feladatok
 
 3.1. az 1. és 2. pontban foglaltakat az államháztartás központi alrendszere egészében,
 
-3.2. a költségvetési jelentések K913. Államháztartáson belüli megelőlegezések folyósítása és K914. Államháztartáson belüli megelőlegezések visszafizetése rovatain kimutatott kiadások és B814. Államháztartáson belüli megelőlegezések és B815. Államháztartáson belüli megelőlegezések törlesztése rovatain kimutatott bevételek csökkentését a konszolidált költségvetési jelentésben,
+3.2. a költségvetési jelentések K913. Államháztartáson belüli megelőlegezések folyósítása rovatán kimutatott kiadásnak a B814. Államháztartáson belüli megelőlegezések rovaton kimutatott teljesítés összegével való csökkentését, K914. Államháztartáson belüli megelőlegezések visszafizetése rovatán kimutatott kiadás és B814. Államháztartáson belüli megelőlegezések rovatán kimutatott kiadás csökkentését és B815. Államháztartáson belüli megelőlegezések törlesztése rovatán kimutatott bevételnek a K914. Államháztartáson belüli megelőlegezések visszafizetése rovaton kimutatott teljesítés összegével való csökkentését a konszolidált költségvetési jelentésben,
 
 3.3. a költségvetési jelentések K914. Államháztartáson belüli megelőlegezések visszafizetése rovatán kimutatott – teljesítéssel csökkentett – végleges kötelezettségvállalások, más fizetési kötelezettségek összegével a Költségvetési évben esedékes kötelezettségek vagy a Költségvetési évet követően esedékes kötelezettségek sorok csökkentését a Felhalmozott eredmény sorral szemben a konszolidált mérlegben,
 
-3.4. a költségvetési jelentések B815. Államháztartáson belüli megelőlegezések törlesztése rovatán kimutatott – teljesítéssel csökkentett – követelések összegével a Költségvetési évben esedékes követelések vagy a Költségvetési évet követően esedékes követelések sorok csökkentését a Felhalmozott eredmény sorral szemben a konszolidált mérlegben.
+3.4. a költségvetési jelentések B815. Államháztartáson belüli megelőlegezések törlesztése rovatán központi alrendszerrel szemben kimutatott – teljesítéssel csökkentett – követelések összegével (a központi alrendszerben a K914. Államháztartáson belüli megelőlegezések visszafizetése rovaton kimutatott – teljesítéssel csökkentett – végleges kötelezettségvállalásokkal, más fizetési kötelezettségekkel egyező összegben) a Költségvetési évben esedékes követelések vagy a Költségvetési évet követően esedékes követelések sorok csökkentését a Felhalmozott eredmény sorral szemben a konszolidált mérlegben.
 
 4. Az államháztartás összevont (konszolidált) beszámolója elkészítése során el kell végezni az államháztartás egészében
 
@@ -74,4 +138,4 @@ A konszolidálás során elvégzendő feladatok
 
 4.20. a mérlegekben a Kincstárban vezetett forintszámlák és a Kincstárban vezetett devizaszámlák sorok összegével – a Kincstári Egységes Számla kivételével – a Forintszámlák, devizaszámlák sor csökkentését a Kincstári számlavezetéssel kapcsolatos elszámolások sorral szemben a konszolidált mérlegben.
 
-[^348]: A 12. melléklet a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 2. pontja, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 4. pontja, a 22. § 39–42. pontja, a 380/2017. (XII. 11.) Korm. rendelet 6. § 9. pontja, a 482/2021. (VIII. 13.) Korm. rendelet 15. § (2) bekezdés 1. pontja szerint módosított szöveg.
+[^359]: A 12. melléklet a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 2. pontja, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 4. pontja, a 22. § 39–42. pontja, a 380/2017. (XII. 11.) Korm. rendelet 6. § 9. pontja, a 482/2021. (VIII. 13.) Korm. rendelet 15. § (2) bekezdés 1. pontja, a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 3. pontja szerint módosított szöveg.

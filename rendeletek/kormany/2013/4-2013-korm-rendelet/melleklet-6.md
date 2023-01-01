@@ -292,7 +292,7 @@
 
 ## – ebből: költségvetési évet követően esedékes követelések befektetési célú külföldi értékpapírok beváltásából, értékesítéséből
 
-## III. Követelésjellegű sajátos elszámolások
+## III. Követelés jellegű sajátos elszámolások
 
 ## 1. Adott előlegek
 
@@ -380,7 +380,7 @@
 
 ## 1. Költségvetési évben esedékes kötelezettségek személyi juttatásokra
 
-## 2 Költségvetési évben esedékes kötelezettségek munkaadókat terhelő járulékokra és szociális hozzájárulási adóra
+## 2. Költségvetési évben esedékes kötelezettségek munkaadókat terhelő járulékokra és szociális hozzájárulási adóra
 
 ## 3. Költségvetési évben esedékes kötelezettségek dologi kiadásokra
 
@@ -476,7 +476,7 @@
 
 ## – ebből: költségvetési évet követően esedékes kötelezettségek váltókiadásokra
 
-## III. Kötelezettségjellegű sajátos elszámolások
+## III. Kötelezettség jellegű sajátos elszámolások
 
 ## 1. Kapott előlegek
 
@@ -486,7 +486,7 @@
 
 ## 4. Forgótőke elszámolása (Kincstár)
 
-## 5. Nemzeti vagyonba tartozó befektetett eszközökkel kapcsolatos egyes kötelezettségjellegű sajátos elszámolások
+## 5. Nemzeti vagyonba tartozó befektetett eszközökkel kapcsolatos egyes kötelezettség jellegű sajátos elszámolások
 
 ## 6. Nem társadalombiztosítás pénzügyi alapjait terhelő kifizetett ellátások megtérítésének elszámolása
 
@@ -508,7 +508,7 @@
 
 ## Források összesen
 
-6. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^340]
+6. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^346]
 
 EREDMÉNYKIMUTATÁS/KONSZOLIDÁLT EREDMÉNYKIMUTATÁS
 
@@ -568,7 +568,7 @@ VII. Egyéb ráfordítások
 
 20. Egyéb kapott (járó) kamatok és kamatjellegű eredményszemléletű bevételek
 
-21.[^341] Pénzügyi műveletek egyéb eredményszemléletű bevételei
+21.[^347] Pénzügyi műveletek egyéb eredményszemléletű bevételei
 
 – ebből: lekötött bankbetétek mérlegfordulónapi értékelése során megállapított (nem realizált) árfolyamnyeresége
 
@@ -588,7 +588,7 @@ VIII. Pénzügyi műveletek eredményszemléletű bevételei (17+18+19+20+21)
 
 – ebből: Kincstáron kívüli forint- és devizaszámlák értékvesztése
 
-26.[^342] Pénzügyi műveletek egyéb ráfordításai
+26.[^348] Pénzügyi műveletek egyéb ráfordításai
 
 – ebből: lekötött bankbetétek mérlegfordulónapi értékelése során megállapított (nem realizált) árfolyamvesztesége
 
@@ -596,6 +596,6 @@ VIII. Pénzügyi műveletek eredményszemléletű bevételei (17+18+19+20+21)
 
 IX. Pénzügyi műveletek ráfordításai (22+23+24+25+26)
 
-[^340]: A 6. melléklet a 402/2015. (XII. 15.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^341]: A 6. melléklet 21. pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 7. pontja szerint módosított szöveg.
-[^342]: A 6. melléklet 26. pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 8. pontja szerint módosított szöveg.
+[^346]: A 6. melléklet a 402/2015. (XII. 15.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^347]: A 6. melléklet 21. pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 7. pontja szerint módosított szöveg.
+[^348]: A 6. melléklet 26. pontja a 380/2017. (XII. 11.) Korm. rendelet 6. § 8. pontja szerint módosított szöveg.
