@@ -214,7 +214,7 @@ Területe:
 
 2. A XXII. kerület teljes területe, amelynek határa: A Duna középvonalától a Duna utcán halad a MÁV vasútvonalig, a MÁV vasútvonal mentén a Méhész utcáig, a Méhész utcán a kelenvölgyi Ringló útig, a Ringló úton a Horogszegi határsorig, a Horogszegi határsoron a Honfoglalás útig, a Honfoglalás úttól a Vöröskúti határsoron halad a Kőérberki útig, a Kőérberki úttól a Háros úton a Kamaraerdei útig, a Kamaraerdei út mentén az ingatlanok határán halad a Balatoni úttól a Tétényi fennsík területén, a 239904/2 és 239906 hrsz.-ok határán éri el a Kamaraerdei utat, a Kamaraerdei úttól a 239912 hrsz. határán éri el Budaörs–Budapest és egyben Nagytétény határát, innen a fővárosi és nagytétényi határvonalon halad tovább a Duna főágának középvonaláig, és ezen a kiindulási pontig.
 
-Baranya megye
+Baranya vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -852,7 +852,7 @@ Területe:
 
 174. Zók
 
-Bács-Kiskun megye
+Bács-Kiskun vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -1142,7 +1142,7 @@ Területe:
 
 25. Vaskút
 
-Békés megye
+Békés vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -1326,7 +1326,7 @@ Területe:
 
 27. Végegyháza
 
-Borsod-Abaúj-Zemplén megye
+Borsod-Abaúj-Zemplén vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -2102,7 +2102,7 @@ Területe:
 
 54. Vatta
 
-Csongrád-Csanád megye
+Csongrád-Csanád vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -2258,7 +2258,7 @@ Területe:
 
 19. Székkutas
 
-Fejér megye
+Fejér vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -2518,7 +2518,7 @@ Területe:
 
 35. Vajta
 
-Győr-Moson-Sopron megye
+Győr-Moson-Sopron vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -2928,7 +2928,7 @@ Területe:
 
 39. Várbalog
 
-Hajdú-Bihar megye
+Hajdú-Bihar vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -3146,7 +3146,7 @@ Területe:
 
 10. Újtikos
 
-Heves megye
+Heves vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -3414,7 +3414,7 @@ Területe:
 
 38. Zaránk
 
-Jász-Nagykun-Szolnok megye
+Jász-Nagykun-Szolnok vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -3604,7 +3604,7 @@ Területe:
 
 23. Törökszentmiklós
 
-Komárom-Esztergom megye
+Komárom-Esztergom vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -3782,7 +3782,7 @@ Területe:
 
 41. Vértessomló
 
-Nógrád megye
+Nógrád vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -4062,7 +4062,7 @@ Területe:
 
 84. Varsány
 
-Pest megye
+Pest vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -4534,7 +4534,7 @@ Területe:
 
 10. Újszilvás
 
-Somogy megye
+Somogy vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -5060,7 +5060,7 @@ Területe:
 
 70. Zimány
 
-Szabolcs-Szatmár-Bereg megye
+Szabolcs-Szatmár-Bereg vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -5570,7 +5570,7 @@ Területe:
 
 33. Vállaj
 
-Tolna megye
+Tolna vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -5814,7 +5814,7 @@ Területe:
 
 34. Udvari
 
-Vas megye
+Vas vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -6272,7 +6272,7 @@ Területe:
 
 127. Zsennye
 
-Veszprém megye
+Veszprém vármegye
 
 01. számú országgyűlési egyéni választókerület
 
@@ -6740,7 +6740,7 @@ Területe:
 
 87. Zirc
 
-Zala megye
+Zala vármegye
 
 01. számú országgyűlési egyéni választókerület
 

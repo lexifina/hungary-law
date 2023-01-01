@@ -1,6 +1,6 @@
 1. számú melléklet a 2011. évi CCIII. törvényhez
 
-Az egyéni választókerületek száma a megyékben és a fővárosban
+Az egyéni választókerületek száma a vármegyékben és a fővárosban
 
 |
 
