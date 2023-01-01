@@ -22,7 +22,9 @@ f) a földgázelosztó,
 
 g) az együttműködő földgázrendszerhez közvetlenül kapcsolódó, külföldi székhelyű szállítási rendszerüzemeltető,
 
-h)–i)
+h)
+
+i)
 
 ha megfelel a kereskedési platform szabályzatában meghatározott követelményeknek.
 

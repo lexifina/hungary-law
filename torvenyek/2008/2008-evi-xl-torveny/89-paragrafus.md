@@ -26,7 +26,19 @@ b) szükség szerint meghatározza azokat a műszaki biztonsági feltételeket, 
 
 (6) A csatlakozóvezeték és a felhasználói berendezés üzemképes és biztonságos állapotban tartására az ingatlan tulajdonosa köteles. Ennek megfelelően – a (7) bekezdésben meghatározott kivétellel – köteles gondoskodni azok rendszeres karbantartásáról, javításáról és szükség szerinti cseréjéről.
 
-(6a)–(6g)
+(6a)
+
+(6b)
+
+(6c)
+
+(6d)
+
+(6e)
+
+(6f)
+
+(6g)
 
 (7) A fogyasztói főelzáró karbantartása és javítása, valamint a csatlakozóvezeték és a fogyasztói vezeték 10 évenkénti, a csatlakozási nyomás névleges értékén szivárgás-ellenőrzéssel végzett gáztömörségi felülvizsgálata a földgázelosztó kötelessége saját költségén. Az ingatlan tulajdonosa a felülvizsgálat elvégzését köteles lehetővé tenni a földgázelosztó számára. A 10 év leteltét első alkalommal a mérő felszerelésétől, illetve cseréjétől, mérő hiánya esetén a legutolsó felülvizsgálattól, ha még nem történt felülvizsgálat, 2018. január 1-jétől kell számolni.
 

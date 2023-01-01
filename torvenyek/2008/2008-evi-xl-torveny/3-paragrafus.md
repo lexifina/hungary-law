@@ -64,6 +64,10 @@ c) ügyletek klíringjével és garantálásával kapcsolatos szolgáltatások n
 
 18. Felhasználói berendezés: a fogyasztói vezeték, a gázfogyasztó készülék és a gázfelhasználó technológiák, valamint az azok rendeltetésszerű és biztonságos használatához szükséges tartozékok összessége.
 
+18a. Feltöltési célérték: az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 2. cikk 28. pontjában meghatározott feltöltési célérték.
+
+18b. Feltöltési ütemterv: az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 2. cikk 27. pontjában meghatározott feltöltési ütemterv.
+
 19. Fogyasztói főcsap: a gázmérőnél lévő, ennek hiányában a csatlakozóvezeték és a fogyasztói vezeték közé beépített elzáró szerelvény, amely a csatlakozóvezeték tartozéka.
 
 20. Fogyasztói főelzáró: a telekhatáron vagy annak közelében létesített elzáró szerelvény, amely az elosztóvezeték tartozéka.
@@ -72,7 +76,7 @@ c) ügyletek klíringjével és garantálásával kapcsolatos szolgáltatások n
 
 22. Fogyatékkal élő fogyasztó: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, akinek életét vagy egészségét a földgázellátásból való kikapcsolás vagy annak megszakadása közvetlenül veszélyezteti.
 
-22a.
+22a. Föld alatti gáztároló: az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 2. cikk 31. pontja szerinti föld alatti gáztároló.
 
 23. Földgáz: olyan természetes éghető gáz, amely a földkéregben keletkezett, bányászati tevékenység során kerül a felszínre, valamint bármely, az e törvény szerint alkalmazott berendezésben környezetvédelmi és műszaki biztonsági szempontból megfelelő módon, biztonságosan felhasználható, ideértve a 26. pont szerinti gázfajtákat is.
 
@@ -146,7 +150,7 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 45. Kiegyensúlyozó földgáz: adott gáznapon a rendszerhasználók által az együttműködő földgázrendszerbe beadott és a ténylegesen vételezett földgázmennyiségek közötti különbség kiegyenlítésére a szállítási rendszerüzemeltető által felhasznált földgázmennyiség.
 
-45a. Korai előrejelzési szint: a 2017/1938/EU európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdés a) pontjában meghatározott válságszint.
+45a. Korai előrejelzési szint: a (EU) 2017/1938 európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdés a) pontjában meghatározott válságszint.
 
 46. Korlátozás: az egyes korlátozási kategóriákba besorolt felhasználók gázfogyasztásának csökkentése vagy megszüntetése annak érdekében, hogy az együttműködő földgázrendszeren vagy annak egy részén a hidraulikai egyensúly fenntartható vagy helyreállítható legyen.
 
@@ -160,13 +164,15 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 49a. Másodlagos kapacitáskereskedelem: a lekötött, de fel nem használt kapacitás továbbértékesítése.
 
-49b. Nem piaci intézkedések: a 2017/1938/EU európai parlamenti és tanácsi rendelet VIII. mellékletében meghatározott intézkedések.
+49b. Nem piaci intézkedések: a (EU) 2017/1938 európai parlamenti és tanácsi rendelet VIII. mellékletében meghatározott intézkedések.
 
 50. Nominálás: a betáplálási-kiadási ponton, valamint az összekapcsolási ponton betáplálni vagy vételezni tervezett földgázmennyiség gáznapra vagy gáznapon belüli időszakra történő megadása a lekötött kapacitásokra figyelemmel, a 312/2014/EU bizottsági rendeletben, valamint az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint.
 
-50a. Összekapcsolási pont: az együttműködő földgázrendszeren belül, különböző szállítási rendszerüzemeltetők által üzemeltetett szállítóvezetékek közötti üzemeltetési határ.
+50a. Operatív irányítást ellátó személy: a szállítási rendszerüzemeltető vezető tisztségviselője, cégvezetője, valamint azon vezető állású munkavállalója, aki a szállítási rendszerüzemeltető irányításáért, ügyvezetéséért felelős, és operatív irányítást ellátó személyként a szállítási rendszerüzemeltető Hivatal által jóváhagyott megfelelési programjában szerepel.
 
-50b. Piacműködtető: az érintett piac vonatkozásában olyan szabályrendszert működtető gazdálkodó szervezet, amely az érintett piacon biztosítja, hogy a piaci szereplők földgázra vonatkozó vételi és eladási szándéka találkozzon, szerződést eredményezzen, ideértve azt a tevékenységet, amikor egyben vételi vagy eladási szándékkal piaci szereplőként is megjelenik.
+50b. Összekapcsolási pont: az együttműködő földgázrendszeren belül, különböző szállítási rendszerüzemeltetők által üzemeltetett szállítóvezetékek közötti üzemeltetési határ.
+
+50c. Piacműködtető: az érintett piac vonatkozásában olyan szabályrendszert működtető gazdálkodó szervezet, amely az érintett piacon biztosítja, hogy a piaci szereplők földgázra vonatkozó vételi és eladási szándéka találkozzon, szerződést eredményezzen, ideértve azt a tevékenységet, amikor egyben vételi vagy eladási szándékkal piaci szereplőként is megjelenik.
 
 51. Rendszerhasználati szerződés: a rendszerhasználó által a szállítási rendszerüzemeltetővel, a földgázelosztóval vagy a földgáztárolói engedélyessel az e törvényben, az e törvény végrehajtására kiadott rendeletekben, az Üzemi és Kereskedelmi Szabályzatban, a kapacitáslekötési platform szabályzatában, valamint a rendszerüzemeltető működési engedélyében és üzletszabályzatában meghatározott tevékenységek végzésére és szolgáltatások biztosítására kötött szerződés.
 
@@ -182,7 +188,7 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 52d. Rendszerösszekötő: olyan határkeresztező gázvezeték, amely kizárólag Magyarország együttműködő földgázrendszerét és más EU-tagállam, vagy egy harmadik ország földgázszállító hálózatát kapcsolja össze.
 
-52e. Riasztási szint: a 2017/1938/EU európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdés b) pontjában meghatározott válságszint.
+52e. Riasztási szint: a (EU) 2017/1938 európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdés b) pontjában meghatározott válságszint.
 
 53. Szabad kapacitás: a betáplálási-kiadási pont, valamint a földgáztároló technikai kapacitásának rendszerhasználati szerződéssel le nem kötött, rendszerhasználók számára rendelkezésre álló része.
 
@@ -240,7 +246,7 @@ c) a távhőtermelő, a távhőszolgáltatásról szóló törvény (a továbbia
 
 70. Vezetékes PB-gáz szolgáltatás: a felhasználók részére PB-gáz csővezetéken keresztül történő elosztása és értékesítése.
 
-70a. Vészhelyzeti szint: a 2017/1938/EU európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdés c) pontjában meghatározott válságszint.
+70a. Vészhelyzeti szint: a (EU) 2017/1938 európai parlamenti és tanácsi rendelet 11. cikk (1) bekezdés c) pontjában meghatározott válságszint.
 
 71. Lakossági PB-gáz fogyasztó: aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol tartályban forgalmazott PB-gázt vagy vezetékes PB-gázt, és az így vásárolt PB-gázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet. Ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a felhasználót úgy kell tekinteni, hogy saját háztartás céljára vásárol, és a vásárolt, tartályban forgalmazott vagy vezetékes PB-gázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
 
@@ -281,3 +287,5 @@ a) a lakossági fogyasztó,
 b) a 75. pont a)–e) alpontja szerinti alapvető szociális szolgáltató,
 
 c) a 68a. pont c) alpontja szerinti távhőtermelő a Tszt. szerinti lakossági felhasználó vagy a 75. pont a)–e) alpontja szerinti alapvető szociális szolgáltató ellátása érdekében termelt, és kizárólag földgáz felhasználásával előállítható hő előállításához szükséges földgázkapacitás-igényének megfelelő földgáz mértékéig.
+
+77. Uniós riasztás: az (EU) 2022/1369 tanácsi rendelet 2. cikk 2. pontja szerinti riasztás.

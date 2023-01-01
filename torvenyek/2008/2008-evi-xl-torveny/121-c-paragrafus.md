@@ -1,4 +1,4 @@
-121/C. § (1) A szállítási rendszerüzemeltető vezető tisztségviselője, cégvezetője, vezető állású munkavállalója, szervezeti egység vezetője (a továbbiakban együtt: operatív irányítást ellátó személy) munkaviszonyának létesítéséről, meghosszabbításáról, munkafeltételeiről – ideértve a díjazását is –, valamint munkaviszonya megszüntetéséről a felügyelőbizottság dönt.
+121/C. § (1) Az operatív irányítást ellátó személy munkaviszonyának létesítéséről, meghosszabbításáról, munkafeltételeiről – ideértve a díjazását is –, valamint munkaviszonya megszüntetéséről a felügyelőbizottság dönt.
 
 (2) Az operatív irányítást ellátó személy munkaviszonyának létesítéséről, a munkaviszonyát, annak idejét, valamint megszűnését szabályozó feltételekről, továbbá a munkaviszonya megszüntetésére vonatkozó javaslat indokairól a döntést megelőzően értesíteni kell a Hivatalt. A döntés kizárólag akkor válik hatályossá, ha a Hivatal 20 napon belül nem emel ellene kifogást. A Hivatal kifogást emelhet a döntés ellen, ha kétség merül fel
 

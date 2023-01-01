@@ -2,4 +2,6 @@
 
 a) a külön jogszabályban meghatározott típusú termékcsomagok és árszabások alapján biztosított földgázellátás,
 
-b)–c)
+b)
+
+c)

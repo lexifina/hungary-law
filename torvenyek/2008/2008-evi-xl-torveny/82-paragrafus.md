@@ -1,4 +1,4 @@
-82. § (1) A rendszerüzemeltető évente a saját szállító- és elosztóvezetékeire, valamint a tárolóira vonatkozóan – a 81. § (2)–(4) bekezdésében, valamint a 2017/1938/EU európai parlamenti és tanácsi rendelet szerinti előírások figyelembevételével – kapacitás-felülvizsgálatot végez.
+82. § (1) A rendszerüzemeltető évente a saját szállító- és elosztóvezetékeire, valamint a tárolóira vonatkozóan – a 81. § (2)–(4) bekezdésében, valamint a (EU) 2017/1938 európai parlamenti és tanácsi rendelet szerinti előírások figyelembevételével – kapacitás-felülvizsgálatot végez.
 
 (2) A kapacitás-felülvizsgálat alapján a rendszerüzemeltető a szállítási rendszerirányító részére 10 éves fejlesztési javaslatot tesz.
 

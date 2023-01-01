@@ -1,4 +1,4 @@
-98. § (1) A 2017/1938 európai parlamenti és tanácsi rendelet 13. cikk (1) bekezdése szerinti szolidaritási intézkedés (a továbbiakban: szolidaritási intézkedés) igénybevétele esetén, a kisegítés keretében kapott földgáz kizárólag a szolidaritási alapon védett felhasználók földgázellátása érdekében használható fel.
+98. § (1) A (EU) 2017/1938 európai parlamenti és tanácsi rendelet 13. cikk (1) bekezdése szerinti szolidaritási intézkedés (a továbbiakban: szolidaritási intézkedés) igénybevétele esetén, a kisegítés keretében kapott földgáz kizárólag a szolidaritási alapon védett felhasználók földgázellátása érdekében használható fel.
 
 (2) Legalább riasztási szintet kell elrendelni, ha egy másik tagállam a szolidaritási alapon védett felhasználóinak földgázellátása érdekében szolidaritási intézkedés alkalmazását kéri.
 

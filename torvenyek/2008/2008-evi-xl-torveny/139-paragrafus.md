@@ -6,6 +6,10 @@
 
 (4)
 
-(4a)–(4c)
+(4a)
+
+(4b)
+
+(4c)
 
 (5) E § alkalmazásában közüzemi szerződés a földgázellátásról szóló 2003. évi XLII. törvény szerinti közüzemi szolgáltatásra jogosult, valamint a közüzemi szolgáltatói engedélyes közötti közüzemi szolgáltatásnak minősülő földgázellátásra vonatkozó szerződés.
