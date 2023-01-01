@@ -1,3 +1,3 @@
-## 22. §[^117] Az intézeti gyógyszertárakban, klinikákon és fekvőbetegosztályokon, valamint a járóbeteg-ellátás intézményeiben a fokozottan ellenőrzött szereket a 13. §-ban foglaltak szerint kell tárolni.
+## 22. §[^115] Az intézeti gyógyszertárakban, klinikákon és fekvőbetegosztályokon, valamint a járóbeteg-ellátás intézményeiben a fokozottan ellenőrzött szereket a 13. §-ban foglaltak szerint kell tárolni.
 
-[^117]: A 22. § az 56/2013. (VII. 31.) EMMI rendelet 24. § c) pontja szerint módosított szöveg.
+[^115]: A 22. § az 56/2013. (VII. 31.) EMMI rendelet 24. § c) pontja szerint módosított szöveg.

@@ -1,5 +1,3 @@
-## Közforgalmú gyógyszertár fokozottan ellenőrzött szer nyilvántartó lapja
-
 |  | Év: |  |
 
 ## Hatóanyag neve:  Készítmény neve*:
@@ -14,6 +12,6 @@
 
 ## ** Gyógyszer alapanyagok esetében üresen hagyandó.
 
-5. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^130]
+5. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^128]
 
-[^130]: Az 5. számú melléklet az 56/2013. (VII. 31.) EMMI rendelet 24. § d) pontja szerint módosított szöveg.
+[^128]: Az 5. számú melléklet az 56/2013. (VII. 31.) EMMI rendelet 24. § d) pontja szerint módosított szöveg.

@@ -12,42 +12,40 @@ d)[^3] orvos: a háziorvoson kívül minden fokozottan ellenőrzött szert felí
 
 e)[^4] állatorvos: a Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény szerinti állat-egészségügyi szolgáltató orvosa,
 
-f)[^5] kábítószer és pszichotróp anyag: a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekről, valamint ezen anyagok jegyzékre vételéről és jegyzékeinek módosításáról szóló 66/2012. (IV. 2.) Korm. rendelet (a továbbiakban: R2.) 1. melléklet K1, K2, P2, P3 és P4 jegyzékében felsorolt anyagok gyógyszeralapanyagként, valamint az ezeket az anyagokat tartalmazó gyógyszerek, kivéve a K3 jegyzéken felsoroltakkal megegyező összetételű készítmények;
+f)[^5] kábítószer és pszichotróp anyag: az ellenőrzött anyagokról szóló 78/2022. (XII. 28.) BM rendelet (a továbbiakban: BM rendelet) 1. melléklet K1 és K2 jegyzékén, a BM rendelet 2. melléklet P2, P3 és P4 jegyzékén szereplő anyagok gyógyszeralapanyagként, valamint az ezeket az anyagokat tartalmazó gyógyszerek, kivéve a BM rendelet 1. melléklet K3 jegyzékén szereplő anyagokkal megegyező összetételű gyógyszereket;
 
 g)[^6] fokozottan ellenőrzött szer:
 
-ga) az R2. 1. melléklet K1, K2 és P2 jegyzékében szereplő anyagok gyógyszeralapanyagként és az ezeket az anyagokat tartalmazó gyógyszerek,
+ga) a BM rendelet 1. melléklet K1 és K2 jegyzékén, a BM rendelet 2. melléklet P2 jegyzékén szereplő anyagok gyógyszeralapanyagként, valamint az ezeket az anyagokat tartalmazó gyógyszerek,
 
-gb) alapanyagként a 11–16. §, a 18. § (1) bekezdése, a 20. § (1) bekezdése vonatkozásában az R2. 1. melléklet P3, P4 jegyzékében szereplő pszichotróp anyagok és a kábítószer-prekurzorokról szóló 2004. február 11-i 273/2004/EK európai parlamenti és tanácsi rendelet I. melléklet 1. és 2. kategóriájába tartozó anyagok, valamint
+gb) alapanyagként a 11–16. §, a 18. § (1) bekezdése, a 20. § (1) bekezdése vonatkozásában a BM rendelet 2. melléklet P3 és P4 jegyzékén szereplő pszichotróp anyagok, valamint a kábítószer-prekurzorokról szóló, 2004. február 11-i 273/2004/EK európai parlamenti és tanácsi rendelet I. melléklet 1. és 2. kategóriájába tartozó anyagok,
 
-gc)[^7] a 7. § (5) bekezdése vonatkozásában az R2. 1. melléklet B) Pszichotróp anyagok jegyzéke rész Pszichotróp anyagok 4. jegyzéke (P4) alcímében foglalt táblázat 14. pontja szerinti hatóanyagot tartalmazó gyógyszerek,
+gc) a 7. § (5) bekezdése vonatkozásában a clonazepam hatóanyagot tartalmazó gyógyszerek, valamint
 
-gd)[^8] a 10. § vonatkozásában az R2. 1. mellékletének jegyzékein szereplő anyagokat tartalmazó gyógyszerek;
+gd) a 10. § vonatkozásában a BM rendelet 1. és 2. melléklet jegyzékein szereplő anyagokat tartalmazó gyógyszerek;
 
 h) kábítószer rendészet: a Rendőrség kábítószer rendészeti feladatait ellátó szerv;
 
 i) gyógyszer: külön jogszabályok szerinti magisztrális és forgalomba hozatalra engedélyezett gyógyszerek;
 
-j)–k)[^9]
+j)–k)[^7]
 
-l)[^10] külföld: a Magyarország államhatárán kívüli terület;
+l)[^8] külföld: a Magyarország államhatárán kívüli terület;
 
-m)[^11] megrendelőlap: a közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló egészségügyi miniszteri rendelet szerinti, kizárólag intézeti gyógyszertárakban alkalmazható nyomtatvány;
+m)[^9] megrendelőlap: a közforgalmú, fiók- és kézigyógyszertárak, továbbá intézeti gyógyszertárak működési, szolgálati és nyilvántartási rendjéről szóló egészségügyi miniszteri rendelet szerinti, kizárólag intézeti gyógyszertárakban alkalmazható nyomtatvány;
 
-n)[^12] visszavétel: fokozottan ellenőrzött szer visszaszolgáltatása a gyógyszertárba;
+n)[^10] visszavétel: fokozottan ellenőrzött szer visszaszolgáltatása a gyógyszertárba;
 
-o)[^13]
+o)[^11]
 
 [^1]: Az 1. § b) pontja a 44/2008. (XI. 28.) EüM rendelet 1. § (1) bekezdésével megállapított, a 41/2011. (VII. 5.) NEFMI rendelet 25. § (1) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § c) pontja az 56/2013. (VII. 31.) EMMI rendelet 24. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § d) pontja az 56/2013. (VII. 31.) EMMI rendelet 24. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § e) pontja az 56/2013. (VII. 31.) EMMI rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1. § f) pontja a 44/2008. (XI. 28.) EüM rendelet 1. § (2) bekezdésével megállapított, az 56/2013. (VII. 31.) EMMI rendelet 24. § b) pontja szerint módosított szöveg.
-[^6]: Az 1. § g) pontja az 56/2013. (VII. 31.) EMMI rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^7]: Az 1. § g) pont gc) alpontja a 3/2014. (I. 16.) EMMI rendelet 19. §-a szerint módosított szöveg.
-[^8]: Az 1. § g) pont gd) alpontját a 3/2014. (I. 16.) EMMI rendelet 18. §-a iktatta be.
-[^9]: Az 1. § j)–k) pontját a 44/2008. (XI. 28.) EüM rendelet 8. § (6) bekezdése hatályon kívül helyezte.
-[^10]: Az 1. § l) pontja a 41/2011. (VII. 5.) NEFMI rendelet 24. § a) pontja szerint módosított szöveg.
-[^11]: Az 1. § m) pontja a 44/2008. (XI. 28.) EüM rendelet 1. § (3) bekezdésével megállapított, az 52/2012. (XII. 27.) EMMI rendelet 22. § a) pontja szerint módosított szöveg.
-[^12]: Az 1. § n) pontja az 56/2013. (VII. 31.) EMMI rendelet 24. § a) pontja szerint módosított szöveg.
-[^13]: Az 1. § o) pontját a 44/2008. (XI. 28.) EüM rendelet 8. § (6) bekezdése hatályon kívül helyezte.
+[^5]: Az 1. § f) pontja a 78/2022. (XII. 28.) BM rendelet 4. §-ával megállapított szöveg.
+[^6]: Az 1. § g) pontja a 78/2022. (XII. 28.) BM rendelet 4. §-ával megállapított szöveg.
+[^7]: Az 1. § j)–k) pontját a 44/2008. (XI. 28.) EüM rendelet 8. § (6) bekezdése hatályon kívül helyezte.
+[^8]: Az 1. § l) pontja a 41/2011. (VII. 5.) NEFMI rendelet 24. § a) pontja szerint módosított szöveg.
+[^9]: Az 1. § m) pontja a 44/2008. (XI. 28.) EüM rendelet 1. § (3) bekezdésével megállapított, az 52/2012. (XII. 27.) EMMI rendelet 22. § a) pontja szerint módosított szöveg.
+[^10]: Az 1. § n) pontja az 56/2013. (VII. 31.) EMMI rendelet 24. § a) pontja szerint módosított szöveg.
+[^11]: Az 1. § o) pontját a 44/2008. (XI. 28.) EüM rendelet 8. § (6) bekezdése hatályon kívül helyezte.

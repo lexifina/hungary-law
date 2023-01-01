@@ -8,6 +8,6 @@
 
 ## * Törzskönyvi név, hatáserősség, illetve magisztrális szernél a hatóanyag nemzetközi neve és mennyisége egy adagolási egységben.
 
-3. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^126]
+3. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^124]
 
-[^126]: A 3. számú mellékletet a 41/2011. (VII. 5.) NEFMI rendelet 25. § (2) bekezdése hatályon kívül helyezte.
+[^124]: A 3. számú mellékletet a 41/2011. (VII. 5.) NEFMI rendelet 25. § (2) bekezdése hatályon kívül helyezte.

@@ -16,9 +16,7 @@
 
 ## P. H.
 
-8. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^133]
-
-Káreseti jegyzőkönyv
+8. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^131]
 
 Káreseti jegyzőkönyv*
 
@@ -46,4 +44,4 @@ ___________
 
 * Jegyzőkönyv a fokozottan ellenőrzött szer készletében bekövetkezett káresemény miatt mutatkozó veszteség dokumentálásáról.
 
-[^133]: A 8. számú melléklet az 56/2013. (VII. 31.) EMMI rendelet 24. § c) és d) pontja szerint módosított szöveg.
+[^131]: A 8. számú melléklet az 56/2013. (VII. 31.) EMMI rendelet 24. § c) és d) pontja szerint módosított szöveg.

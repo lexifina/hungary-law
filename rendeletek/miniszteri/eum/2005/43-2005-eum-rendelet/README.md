@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-43-20-0
 | 2017-01-01 | 2005-43-20-0B.15 | 56/2013. (VII. 31.) EMMI rendelet |
 | 2017-04-01 | 2005-43-20-0B.16 | 47/2015. (X. 19.) EMMI rendelet |
 | 2017-11-01 | 2005-43-20-0B.17 | 29/2017. (X. 31.) EMMI rendelet |
+| 2023-01-01 | 2005-43-20-0B.18 | 78/2022. (XII. 28.) BM rendelet |

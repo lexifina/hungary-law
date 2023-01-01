@@ -42,6 +42,6 @@
 
 ## P. H.
 
-2. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^125]
+2. számú melléklet a 43/2005. (X. 15.) EüM rendelethez[^123]
 
-[^125]: A 2. számú melléklet a 20/2010. (IV. 29.) EüM rendelet 8. § c) pontja, az 56/2013. (VII. 31.) EMMI rendelet 24. § d) pontja szerint módosított szöveg.
+[^123]: A 2. számú melléklet a 20/2010. (IV. 29.) EüM rendelet 8. § c) pontja, az 56/2013. (VII. 31.) EMMI rendelet 24. § d) pontja szerint módosított szöveg.
