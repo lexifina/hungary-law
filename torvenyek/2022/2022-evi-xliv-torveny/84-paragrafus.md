@@ -20,7 +20,7 @@
 
 10.
 
-11.
+11. 42. § (1) bekezdés a) pontjában a „megyei” szövegrészek helyébe a „vármegyei” szöveg,
 
 12.
 

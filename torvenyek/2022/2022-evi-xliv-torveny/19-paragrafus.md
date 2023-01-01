@@ -4,4 +4,4 @@
 
 ## 9. A Főigazgatóság szervezete
 
-### 19. §
+19. § A Főigazgatóság szervezetében igazgatóságok és osztályok működhetnek.

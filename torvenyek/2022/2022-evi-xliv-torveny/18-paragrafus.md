@@ -1,1 +1,1 @@
-### 18. §
+18. § Az ellenőrzött szervezet vezetője minden év november 30-áig tájékoztatást ad a Főigazgatóság főigazgatója részére a Főigazgatóság ellenőrzési jelentése alapján készített intézkedési tervben foglaltak időarányos teljesítéséről a megvalósítást alátámasztó dokumentumok csatolásával.
