@@ -12,7 +12,7 @@ c)[^3] a személyeket a vagyoni értékű gazdasági, műszaki és szervezési i
 
 d)[^4] az a) és c) pontokban említett szellemi alkotások, ismeretek és tapasztalatok vagy ezek összeállítása tekintetében a tisztességtelen versennyel és az üzleti döntések tisztességtelen befolyásolásával szemben a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló törvény rendelkezéseiben biztosított védelem
 
-## alapján fennálló jogok érvényesítésével összefüggő bármely jogvita.
+alapján fennálló jogok érvényesítésével összefüggő bármely jogvita.
 
 (3) E rendelet alkalmazásában iparjogvédelmi kérdésnek minősül a (2) bekezdésben meghatározott jogok gyakorlásával kapcsolatos bármely kérdés.
 
