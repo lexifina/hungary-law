@@ -88,7 +88,7 @@
 
 ## m. vezetőjének vezetői pályázatában rögzített, a művészeti tevékenységgel összefüggő vállalások teljesülése, a 2011. augusztus 18. után meghirdetett vezetői pályázatok esetén az évadra vonatkozó teljesülés, illetve a pályázatban foglalt koncepcióval való összevetés.
 
-## 2X82243.pdf
+## 2X2016616.pdf
 
 | Összes saját bemutató száma |  |
 

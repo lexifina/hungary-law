@@ -34,9 +34,9 @@
 
 |  | b) székhelyen kívül |  |
 
-|  | ba) megyén belül: |  |
+|  | ba) vármegyén belül: |  |
 
-|  | bb) megyén kívül: |  |
+|  | bb) vármegyén kívül: |  |
 
 | Az énekkar összes fellépésének számán belül a cappella hangversenyek száma: |  |
 
