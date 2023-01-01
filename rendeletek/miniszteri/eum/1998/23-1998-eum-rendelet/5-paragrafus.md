@@ -1,4 +1,4 @@
-5. §[^10] (1) A felügyelő tanács tagjának megbízatása
+5. §[^12] (1) A felügyelő tanács tagjának megbízatása
 
 a) a megbízási idő lejártával,
 
@@ -14,7 +14,7 @@ db) a tagnak a társadalmi szervezeti tagsága megszűnésekor,
 
 e) intézményi küldött esetén a küldöttnek a fekvőbeteg-intézménnyel való munkavégzésre irányuló jogviszonya megszűnésekor
 
-## szűnik meg.
+szűnik meg.
 
 (2) A felügyelő tanács tagjának megbízatása megszűnik továbbá, ha a tag ellen büntetőeljárás indul, és a büntetőeljárás során a bíróság jogerősen megállapítja, hogy bűncselekményt követett el.
 
@@ -22,4 +22,4 @@ e) intézményi küldött esetén a küldöttnek a fekvőbeteg-intézménnyel va
 
 (4) A felügyelő tanács tagja nem lehet a fekvőbeteg-intézmény vezetője, valamint a kórházi etikai bizottság tagja.
 
-[^10]: Az 5.§ a 46/1999. ( X.1.) Eü M rendelet 5. §-ával megállapított szöveg.
+[^12]: Az 5.§ a 46/1999. ( X.1.) Eü M rendelet 5. §-ával megállapított szöveg.
