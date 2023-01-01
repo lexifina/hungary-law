@@ -10,9 +10,9 @@ A 2014–2020 programozási időszakban a transznacionális és interregionális
 
 | 3. | igazoló hatóság | Magyar Államkincstár | – | – | – | – | – |
 
-| 4. | audit hatóság | Európai Támogatásokat Auditáló Főigazgatóság | – | – | – | – | – |
+| 4. |  |  |  |  |  |  |  |
 
-| 5. | auditor csoport magyar tagja | – | Európai Támogatásokat Auditáló Főigazgatóság | Európai Támogatásokat Auditáló Főigazgatóság | – | – | Európai Támogatásokat Auditáló Főigazgatóság |
+| 5. |  |  |  |  |  |  |  |
 
 | 6. | nemzeti hatóság | területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium | területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium | területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium | területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium | területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium | településfejlesztésért és településrendezésért felelős miniszter által vezetett minisztérium |
 
@@ -22,4 +22,4 @@ A 2014–2020 programozási időszakban a transznacionális és interregionális
 
 | 9. | az együttműködési program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás biztosítója | területfejlesztés stratégiai tervezéséért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | településfejlesztésért és településrendezésért felelős miniszter |
 
-[^74]: Az 1. melléklet a 92/2019. (IV. 23.) Korm. rendelet 10. § 13. pontja szerint módosított szöveg.
+[^74]: Az 1. melléklet a 92/2019. (IV. 23.) Korm. rendelet 10. § 13. pontja, a 615/2022. (XII. 29.) Korm. rendelet 13. §-a szerint módosított szöveg.
