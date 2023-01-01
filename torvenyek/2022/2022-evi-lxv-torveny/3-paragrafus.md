@@ -1,0 +1,1 @@
+3. § E törvényen alapuló eljárásban (a továbbiakban: eljárás) tilos minden olyan különbségtétel, kizárás vagy korlátozás, amelynek célja vagy következménye a törvény előtti egyenlő bánásmód megsértése, az eljárás bármely résztvevője e törvényben biztosított jogának csorbítása.

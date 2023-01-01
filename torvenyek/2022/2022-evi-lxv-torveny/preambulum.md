@@ -1,0 +1,1 @@
+Az Országgyűlés annak érdekében, hogy a Közös Agrárpolitika pénzügyi alapjaiból, valamint a nemzeti költségvetésből nyújtott agrártámogatások végrehajtásával összefüggő alapelveket, egységes intézményi, információs és eljárási kereteket megállapítsa, a következő törvényt alkotja:

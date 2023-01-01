@@ -1,0 +1,1 @@
+6. § Annak érdekében, hogy az eljárások ténylegesen a jogszabályokban vagy pályázati felhívásokban meghatározott célok megvalósítását szolgálják, a támogató megteremti és biztosítja a szabálytalanságok elleni hatékony fellépéshez szükséges feltételeket.

@@ -1,0 +1,1 @@
+8. § Az eljárás hivatalos nyelve a magyar. A magyar nyelvet nem ismerő kedvezményezett – a fordítási és tolmácsolási költség előlegezése és viselése mellett – kérheti, hogy a hatóság bírálja el az anyanyelvén vagy valamely közvetítő nyelven megfogalmazott kérelmét.

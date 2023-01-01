@@ -1,0 +1,3 @@
+5. § (1) A kedvezményezettet megilleti a tisztességes eljáráshoz való jog. A kedvezményezett jogainak gyakorlása és kötelezettségeinek teljesítése során köteles jóhiszeműen eljárni, valamint elősegíteni a törvény végrehajtásában közreműködő szervek, szervezetek feladatainak végrehajtását. A kedvezményezett magatartása nem irányulhat a támogató megtévesztésére vagy a döntéshozatal, illetve a végrehajtás indokolatlan késleltetésére. A kedvezményezett jóhiszeműségét az eljárásban vélelmezni kell, a rosszhiszeműség bizonyítása a támogatót terheli.
+
+(2) A támogató eljárása során a kedvezményezett a támogatási feltétellel összefüggésben őt terhelő kötelezettség alól egyedi méltányosság alapján történő mentesítésének nincs helye.

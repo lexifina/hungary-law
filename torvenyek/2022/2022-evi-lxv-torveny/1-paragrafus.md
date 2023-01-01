@@ -1,0 +1,3 @@
+## 1. A törvény alapelvei
+
+1. § A támogató az európai uniós és a nemzeti forrásból folyósított támogatások igénybevételének és a közös agrárpolitika egyéb,támogatás kifizetésével nem járó piacszabályozási intézkedéseiben (a továbbiakban együtt: intézkedés) való részvételhez kapcsolódó információhoz való egyenlő hozzájutási esélyek biztosítása mellett megadja a kedvezményezett részére a vonatkozó nemzeti jogszabályok és európai uniós jogi aktusok, valamint egyéb rendelkezések megtartásához szükséges tájékoztatást, és lehetővé teszi az intézkedésekben való részvétel európai uniós jogi aktusokon, nemzeti jogszabályokon és egyéb rendelkezéseken alapuló rendjének megismerését.

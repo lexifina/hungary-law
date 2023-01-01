@@ -1,0 +1,1 @@
+27. § Amennyiben a döntés ellen jogorvoslati kérelem benyújtásának van helye, a jogorvoslati kérelemmel érintett döntés a jogorvoslati kérelem elbírálásáról szóló döntés közléséig nem keletkeztet sem jogokat, sem kötelezettségeket, kivéve, ha a támogató a jogorvoslati kérelemmel érintett döntésben bármilyen összegű kifizetésről rendelkezett.

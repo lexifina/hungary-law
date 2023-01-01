@@ -1,0 +1,1 @@
+2. § A támogató megkülönböztetés nélkül, az adott intézkedésre vonatkozó európai uniós jogi aktusoknak és nemzeti hatáskörben kiadott jogszabályoknak, továbbá az ezeken alapuló más rendelkezéseknek megfelelően, valamint a támogatási cél megvalósítását és rendeltetését elősegítő módon jár el az e törvény hatálya alá tartozó intézkedések során.
