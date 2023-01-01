@@ -1,6 +1,6 @@
 2. melléklet a 231/2019. (X. 4.) Korm. rendelethez
 
-## A bejegyzett egyház, a nyilvántartásba vett egyház, a vallási egyesület (a továbbiakban: szervezet), ezek belső egyházi jogi személye és a vallási egyesület jogi személyiségű szervezeti egységének változásbejegyzése iránti kérelme elektronikus űrlapjának adattartalma
+A bejegyzett egyház, a nyilvántartásba vett egyház, a vallási egyesület (a továbbiakban: szervezet), ezek belső egyházi jogi személye és a vallási egyesület jogi személyiségű szervezeti egységének változásbejegyzése iránti kérelme elektronikus űrlapjának adattartalma
 
 1. A nyilvántartást vezető bíróság megjelölése.
 

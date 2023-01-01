@@ -12,7 +12,7 @@ ab) létesítő okiratának keltét,
 
 b) ha a változás a bevett egyház belső egyházi jogi személye nyilvántartásban szereplő adatait érinti, a bevett egyház belső egyházi jogi személye az Ehtv. 18. § (2) bekezdés a) pontjában meghatározott adatait, valamint ezen adatok módosítására történő utalást
 
-## tartalmazza.
+tartalmazza.
 
 (3) Amennyiben a bevett egyház vagy belső egyházi jogi személye képviselője változik, akkor a változás átvezetésére vonatkozó kérelemhez csatolni kell az új képviselő aláírásmintáját tartalmazó okirat hiteles másolatát.
 

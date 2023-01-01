@@ -1,0 +1,1 @@
+29. § Az egyházi jogi személy a 28. § (1) bekezdés a)–f) pontja szerinti támogatás felhasználásáról a jogszabályok keretei között és a megállapodásokban foglaltak szerint, a belső szabályában meghatározott módon önállóan dönt, a támogatás céljának megfelelően.

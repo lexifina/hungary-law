@@ -8,7 +8,7 @@ a) a bevett egyház nevét, rövidített elnevezését vagy köznyelvben meghono
 
 b) a belső egyházi jogi személy tekintetében a 15. § (3) bekezdése szerinti adatokat
 
-## tartalmazza.
+tartalmazza.
 
 (3) A kérelemhez csatolni kell
 

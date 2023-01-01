@@ -1,8 +1,6 @@
-## 48. §[^10]
-
 1. melléklet a 231/2019. (X. 4.) Korm. rendelethez
 
-## A bejegyzett egyház, a nyilvántartásba vett egyház, a vallási egyesület (a továbbiakban: szervezet), ezek belső egyházi jogi személye, és a vallási egyesület jogi személyiségű szervezeti egységének nyilvántartásba vételére irányuló eljárás adattartalma
+A bejegyzett egyház, a nyilvántartásba vett egyház, a vallási egyesület (a továbbiakban: szervezet), ezek belső egyházi jogi személye, és a vallási egyesület jogi személyiségű szervezeti egységének nyilvántartásba vételére irányuló eljárás adattartalma
 
 1. Az eljáró bíróság megjelölése, hiánypótlás esetén az eljárás és a hiánypótlásra felhívó határozat száma
 
@@ -135,5 +133,3 @@
 11. Az űrlapon lévő tájékoztatások, figyelmeztetések
 
 11.1. A kérelemhez csatolandó iratok
-
-[^10]: A 48. §-t újból az 534/2021. (IX. 14.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 3. §.

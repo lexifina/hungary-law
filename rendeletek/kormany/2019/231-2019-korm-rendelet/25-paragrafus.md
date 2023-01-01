@@ -13,3 +13,5 @@ c) a nyilvántartásból való törlés iránti kérelemhez
 ca) a 17. § (4) bekezdése szerinti dokumentumokat, és
 
 cb) a b) pontban foglalt eset kivételével a megszűnő belső egyházi jogi személy vagyoni viszonyai az Ehtv. 30. § (2) bekezdésének megfelelően való rendezésére vonatkozó nyilatkozatot
+
+kell csatolni.

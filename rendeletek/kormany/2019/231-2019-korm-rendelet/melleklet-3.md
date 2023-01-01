@@ -1,6 +1,6 @@
 3. melléklet a 231/2019. (X. 4.) Korm. rendelethez
 
-## A bejegyzett egyház, a nyilvántartásba vett egyház, a vallási egyesület (a továbbiakban: szervezet) törlése iránti kérelem elektronikus űrlapjának adattartalma
+A bejegyzett egyház, a nyilvántartásba vett egyház, a vallási egyesület (a továbbiakban: szervezet) törlése iránti kérelem elektronikus űrlapjának adattartalma
 
 1. A nyilvántartást vezető bíróság megjelölése.
 
