@@ -1,5 +1,3 @@
-## foglalkoztatás köthető ki.
-
 ## 6. A kinevezéstől eltérő ideiglenes foglalkoztatáshoz kapcsolódó szabályok
 
 10. § (1) A kinevezéstől eltérő ideiglenes foglalkoztatásról – ide nem értve az átirányítást – szóló írásbeli munkáltatói intézkedésben legalább meg kell határozni:

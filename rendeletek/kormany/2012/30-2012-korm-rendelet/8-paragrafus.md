@@ -1,21 +1,37 @@
-## 5. A munkáltatót terhelő tájékoztatási kötelezettség
+## 5.[^3] A munkáltatót terhelő tájékoztatási kötelezettség és az atipikus foglalkoztatási formára való áttérés
 
 8. § (1) A kinevezéssel egyidejűleg a munkáltatói jogkör gyakorlója a közszolgálati tisztviselőt tájékoztatja:
 
-a) az irányadó munkarendről,
+a)[^4] az irányadó munkarendről, a napi munkaidő tartamáról, a hét napjairól, amelyekre munkaidő osztható be, a beosztás szerinti napi munkaidő lehetséges kezdő és befejező időpontjáról, a rendkívüli munkaidő lehetséges tartamáról,
 
 b) a jubileumi jutalomra jogosító szolgálati idő kezdő időpontjáról, valamint a soron következő besorolási, fizetési fokozat elérésének várható időpontjáról,
 
 c) az egyéb juttatásokról és azok mértékéről,
 
-d) az illetmény átutalásának napjáról,
+d)[^5] az illetménykifizetés módjáról és gyakoriságáról, a kifizetés napjáról,
 
 e) a munkába lépés napjáról,
 
-f) a felmentési idő megállapításának szabályairól,
+f)[^6] a szolgálati jogviszony megszüntetésének alapvető szabályairól, ideértve a felmentési idő megállapításának szabályait,
 
-g) a rendes szabadság mértékéről és kiadásának rendjéről, valamint
+g)[^7] a rendes szabadság mértékéről és kiadásának rendjéről,
 
 h) a munkáltatói jogkör gyakorlójáról.
 
-(2) A munkáltatói jogkör gyakorlója az (1) bekezdésben előírt tájékoztatást legkésőbb a kinevezéstől számított harminc napon belül írásban is köteles a közszolgálati tisztviselő részére átadni. Az írásbeli tájékoztatás jogszabály vagy belső szabályozás rendelkezésére történő hivatkozással kiegészítve is megadható. Az (1) bekezdés a)–d) és f)–g) pontjaiban meghatározottak változásáról a munkáltatói jogkör gyakorlója legkésőbb a változás bekövetkezését követő harminc napon belül köteles írásban tájékoztatni a közszolgálati tisztviselőt.
+i)[^8] a munkáltató által biztosított képzésekre való jogosultságról, a közszolgálati tisztviselőt terhelő továbbképzési kötelezettségről,
+
+j)[^9] a hatóság megnevezéséről, amely részére a munkáltató a szolgálati jogviszonnyal kapcsolatos közterhet megfizeti.
+
+(2)[^10] A munkáltatói jogkör gyakorlója az (1) bekezdésben előírt tájékoztatást legkésőbb a kinevezéstől számított hét napon belül írásban is köteles a közszolgálati tisztviselő részére átadni. Az írásbeli tájékoztatás jogszabály vagy belső szabályozás rendelkezésére történő hivatkozással kiegészítve is megadható.
+
+(3)[^11] Az (1) bekezdésben foglaltak változásáról a munkáltatói jogkör gyakorlója legkésőbb a változás hatálybalépésének időpontjában köteles írásban tájékoztatni a közszolgálati tisztviselőt. Nem terheli a munkáltatót tájékoztatási kötelezettség, ha a tájékoztatást – a (2) bekezdés szerint – jogszabály vagy belső szabályozás rendelkezésére hivatkozással adta meg.
+
+[^3]: Az 5. alcím címe az 534/2022. (XII. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^4]: A 8. § (1) bekezdés a) pontja az 534/2022. (XII. 21.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^5]: A 8. § (1) bekezdés d) pontja az 534/2022. (XII. 21.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^6]: A 8. § (1) bekezdés f) pontja az 534/2022. (XII. 21.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^7]: A 8. § (1) bekezdés g) pontja az 534/2022. (XII. 21.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^8]: A 8. § (1) bekezdés i) pontját az 534/2022. (XII. 21.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^9]: A 8. § (1) bekezdés j) pontját az 534/2022. (XII. 21.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^10]: A 8. § (2) bekezdése az 534/2022. (XII. 21.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^11]: A 8. § (3) bekezdését az 534/2022. (XII. 21.) Korm. rendelet 4. § (6) bekezdése iktatta be.

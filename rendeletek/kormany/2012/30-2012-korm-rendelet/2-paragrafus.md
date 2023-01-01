@@ -18,7 +18,7 @@ c) a munkáltató által, a próbaidő alatt indokolás nélküli azonnali hatá
 
 d) a Kttv. 63. § (1) bekezdésében foglalt okok, valamint a Kttv. 63. § (2) bekezdés c), d) és f) pontjában foglalt ok miatti felmentéssel
 
-## szűnik meg és a közszolgálati tisztviselő az általános munkaidő-beosztás, valamint a napi munkaidő alapulvételével meghatározott munkaidőnél többet dolgozott.
+szűnik meg és a közszolgálati tisztviselő az általános munkaidő-beosztás, valamint a napi munkaidő alapulvételével meghatározott munkaidőnél többet dolgozott.
 
 (4) Az állásidőre vonatkozó szabályokat kell megfelelően alkalmazni, ha a szolgálati jogviszony a munkaidőkeret lejárta előtt
 
@@ -30,7 +30,7 @@ c) a munkáltató által, a próbaidő alatt indokolás nélküli azonnali hatá
 
 d) a Kttv. 63. § (1) bekezdésében foglalt okok, valamint a Kttv. 63. § (2) bekezdés c), d) és f) pontjában foglalt ok miatti felmentéssel
 
-## szűnik meg és a közszolgálati tisztviselő az általános munkaidő-beosztás, valamint a napi munkaidő alapulvételével meghatározott munkaidőnél kevesebbet dolgozott.
+szűnik meg és a közszolgálati tisztviselő az általános munkaidő-beosztás, valamint a napi munkaidő alapulvételével meghatározott munkaidőnél kevesebbet dolgozott.
 
 (5) Az előlegnyújtásból eredő követelésre vonatkozó szabályokat kell megfelelően alkalmazni, ha a szolgálati jogviszony a munkaidőkeret lejárta előtt
 
@@ -41,3 +41,5 @@ b) a közszolgálati tisztviselő által, a próbaidő alatt indokolás nélkül
 c) a Kttv. 60. § (1) bekezdés i) pontja szerint, vagy
 
 d) a Kttv. 63. § (2) bekezdés a), b), vagy e) pontjaiban foglalt okok miatti felmentéssel
+
+szűnik meg és a közszolgálati tisztviselő a beosztás szerinti munkaidőre járó illetményénél magasabb összegű illetményben részesült.

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-30-20-2
 | 2014-09-05 | 2012-30-20-22.4 | 366/2012. (XII. 17.) Korm. rendelet |
 | 2018-06-12 | 2012-30-20-22.5 | 366/2012. (XII. 17.) Korm. rendelet |
 | 2019-04-24 | 2012-30-20-22.6 | 88/2019. (IV. 23.) Korm. rendelet |
+| 2023-01-01 | 2012-30-20-22.7 | 534/2022. (XII. 21.) Korm. rendelet |
