@@ -2,7 +2,7 @@
 
 a) összeállítja a Magyar Értéktárat;
 
-b) ha valamely megyében nem hoztak létre Megyei Értéktár Bizottságot, vagy ha a megyei önkormányzat nem bízott meg a megyei értékek azonosításával, a megyei értéktár létrehozatalával és annak gondozásával, valamint adatainak a Magyar Értéktárba történő megküldésével megyei szervezetet, úgy ellátja annak feladatait;
+b) ha valamely vármegyében nem hoztak létre Vármegyei Értéktár Bizottságot, vagy ha a vármegyei önkormányzat nem bízott meg a vármegyei értékek azonosításával, a vármegyei értéktár létrehozatalával és annak gondozásával, valamint adatainak a Magyar Értéktárba történő megküldésével vármegyei szervezetet, úgy ellátja annak feladatait;
 
 c) évente tájékoztatást ad az Országgyűlésnek a nemzeti értékek azonosításának és rendszerezésének helyzetéről, a nemzeti értékek fenntarthatóságáról és hasznosításáról, valamint a HB működéséről;
 

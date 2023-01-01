@@ -8,7 +8,7 @@ a) a nemzeti értékek szakterületenkénti kategóriáit,
 
 b) a nemzeti értékek és a hungarikumok kapcsán nyilvántartandó adatok körét, valamint az adatok egységes osztályozási, besorolási, nyilvántartási rendszerét,
 
-c) a települési, tájegységi és megyei értéktárak létrehozására és gondozására, valamint a Települési, Tájegységi és Megyei Értéktár Bizottságok, továbbá az ágazati értéktárak felállítására és működésére vonatkozó szabályokat,
+c) a települési, tájegységi és vármegyei értéktárak létrehozására és gondozására, valamint a Települési, Tájegységi és Vármegyei Értéktár Bizottságok, továbbá az ágazati értéktárak felállítására és működésére vonatkozó szabályokat,
 
 d) az egyes ágazatokért felelős miniszterek feladatkörébe tartozó, ágazati értéktárba foglalható nemzeti értékek meghatározásának alapját,
 

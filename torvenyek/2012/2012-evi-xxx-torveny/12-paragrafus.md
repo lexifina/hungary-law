@@ -10,7 +10,7 @@ a) a HB tagja,
 
 b) a Települési, illetve Tájegységi Értéktár Bizottság, valamint a települési szervezet,
 
-c) a Megyei Értéktár Bizottság vagy a megyei szervezet,
+c) a Vármegyei Értéktár Bizottság vagy a vármegyei szervezet,
 
 d) a Külhoni Nemzetrész Értéktár Bizottság,
 
