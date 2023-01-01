@@ -1,3 +1,1 @@
-4. §[^1]
-
-[^1]: A 4. § a 3. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+4. § A turisztikai térségek meghatározásáról szóló 429/2020. (IX. 14.) Korm. rendelet 7. §-ában a „Helikon Kastélymúzeum Közhasznú Nonprofit Korlátolt Felelősségű Társaságot” szövegrész helyébe a „NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaságot” szöveg lép.
