@@ -1,6 +1,6 @@
 3. § (1) A támogatás iránti kérelmet a munkaadó a Nemzeti Foglalkoztatási Szolgálat honlapján közzétett, erre rendszeresített formanyomtatványon, elektronikus úton nyújtja be.
 
-(2) A támogatás iránti kérelmet a munkavállaló foglalkoztatási helye szerint illetékes állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivatalnál (a továbbiakban: kormányhivatal) kell előterjeszteni.
+(2)[^2] A támogatás iránti kérelmet a munkavállaló foglalkoztatási helye szerint illetékes állami foglalkoztatási szerv hatáskörében eljáró fővárosi és vármegyei kormányhivatalnál (a továbbiakban: kormányhivatal) kell előterjeszteni.
 
 Ha a munkavállaló foglalkoztatására több foglalkoztatási helyen kerül sor, a támogatás iránti kérelmet a munkaadó választása szerinti telephelynek megfelelő illetékes kormányhivatalnál kell benyújtani.
 
@@ -21,3 +21,5 @@ b) a munkavállaló adatait a (6) bekezdés alapján a támogatás megállapít�
 (6) A kormányhivatal kezeli a támogatás megállapításához szükséges, a támogatás iránti kérelemmel összefüggő, a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény (a továbbiakban: Flt.) 57/A. § (1) bekezdése szerinti adatokat.
 
 (7) Az Flt. szabályait, a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvényt és annak végrehajtási rendeleteit e rendelettel összhangban alkalmazni kell.
+
+[^2]: A 3. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 326. §-a szerint módosított szöveg.
