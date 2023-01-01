@@ -1,3 +1,3 @@
-## 68. §[^174]
+69. §[^176]
 
-[^174]: A 68. §-t a 138/2008. (V. 16.) Korm. rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^176]: A 69. §-t a 202/2006. (X. 5.) Korm. rendelet 48. §-a hatályon kívül helyezte.

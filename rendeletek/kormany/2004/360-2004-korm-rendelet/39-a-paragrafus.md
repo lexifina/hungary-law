@@ -1,3 +1,3 @@
-## 39. §[^91]
+39/A. §[^93]
 
-[^91]: A 39. §-t a 113/2011. (VII. 7.) Korm. rendelet 30. §-a hatályon kívül helyezte.
+[^93]: A 39/A. §-t a 281/2006. (XII. 23.) Korm. rendelet 66. § (10) bekezdése iktatta be, hatályon kívül helyezte a 113/2011. (VII. 7.) Korm. rendelet 30. §-a.

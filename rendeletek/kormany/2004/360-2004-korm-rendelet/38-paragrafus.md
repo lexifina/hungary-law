@@ -1,3 +1,3 @@
-## 37. §[^89]
+38. §[^91]
 
-[^89]: A 37. §-t a 113/2011. (VII. 7.) Korm. rendelet 30. §-a hatályon kívül helyezte.
+[^91]: A 38. §-t a 113/2011. (VII. 7.) Korm. rendelet 30. §-a hatályon kívül helyezte.

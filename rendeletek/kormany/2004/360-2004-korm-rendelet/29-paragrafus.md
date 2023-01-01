@@ -4,11 +4,11 @@
 
 (3) A (bank)számlák feletti rendelkezési jogosultságot két bejelentett személy együttes aláírásával lehet gyakorolni.
 
-(4)[^76] A (bank)számlák vezetésével kapcsolatos forgalmi jutalék elszámolása az államháztartásért felelős miniszter által vezetett minisztérium költségvetési fejezete terhére történik.
+(4)[^77] A (bank)számlák vezetésével kapcsolatos forgalmi jutalék elszámolása az államháztartásért felelős miniszter által vezetett minisztérium költségvetési fejezete terhére történik.
 
 (5) A forint lebonyolítási (bank)számlákon év végével csak a kifizetésekre átutalt saját erő maradhat, ezért a (bank)számla fölött rendelkezőknek legkésőbb a december havi utolsó előtti banki munkanapon gondoskodniuk kell a lebonyolítási (bank)számlán rendelkezésre álló támogatásnak a forrásszámlákra történő visszavezetéséről.
 
-(6)[^77] A lebonyolítási (bank)számlákról indított átutalásokhoz az átutalási megbízást minden esetben az EMIR-ben kell kiállítani.
+(6)[^78] A lebonyolítási (bank)számlákról indított átutalásokhoz az átutalási megbízást minden esetben az EMIR-ben kell kiállítani.
 
-[^76]: A 29. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 293. § d) pontja szerint módosított szöveg.
-[^77]: A 29. § (6) bekezdését a 202/2006. (X. 5.) Korm. rendelet 16. §-a iktatta be.
+[^77]: A 29. § (4) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 293. § d) pontja szerint módosított szöveg.
+[^78]: A 29. § (6) bekezdését a 202/2006. (X. 5.) Korm. rendelet 16. §-a iktatta be.
