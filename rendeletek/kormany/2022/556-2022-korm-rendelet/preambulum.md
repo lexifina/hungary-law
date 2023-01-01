@@ -1,0 +1,1 @@
+A Kormány a büntetőeljárásról szóló 2017. évi XC. törvény 866. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
