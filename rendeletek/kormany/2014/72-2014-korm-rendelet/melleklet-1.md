@@ -1,8 +1,6 @@
-## 16. §[^16]
-
 1. melléklet a 72/2014. (III. 13.) Korm. rendelethez
 
-## Az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezet szakmai vezetője és a szervezetnél szolgáltatást végző személy számára előírt képesítés
+Az örökbefogadást elősegítő és az örökbefogadás utánkövetését végző közhasznú szervezet szakmai vezetője és a szervezetnél szolgáltatást végző személy számára előírt képesítés
 
 1. A szolgáltatásért felelős szakmai vezető képesítése
 
@@ -39,5 +37,3 @@
 2.8. teológus
 
 2.9. szakirányú továbbképzésben mentálhigiéniai szakon szerzett felsőfokú szakképzettség
-
-[^16]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

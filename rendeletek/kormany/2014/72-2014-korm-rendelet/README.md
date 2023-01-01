@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-72-20-2
 | 2021-03-01 | 2014-72-20-22.10 | 94/2021. (II. 27.) Korm. rendelet |
 | 2021-09-18 | 2014-72-20-22.11 | 610/2020. (XII. 18.) Korm. rendelet |
 | 2022-07-01 | 2014-72-20-22.12 | 238/2022. (VI. 30.) Korm. rendelet |
+| 2023-01-01 | 2014-72-20-22.13 | 70/2015. (III. 30.) Korm. rendelet |
