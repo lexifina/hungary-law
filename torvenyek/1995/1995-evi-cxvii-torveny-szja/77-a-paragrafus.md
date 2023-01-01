@@ -36,7 +36,7 @@ j) az értékpapírt a társaság által ki nem fizetett és a tagok törzsbeté
 
 k) a szövetkezeti formában működő szövetkezeti hitelintézet tagjaként a tulajdonában álló részjegynek – a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény rendelkezései alapján Holding Szövetkezetnek minősülő – szövetkezet részére történő átruházása ellenében részjegyet szerez a szövetkezetben.
 
-l) az értékpapírt a KMRP szervezet résztvevőjeként szerezte; a KMRP szervezet résztvevőnként, az adóévet követő év január 31-ig adatot szolgáltat az állami adó- és vámhatóság részére a résztvevőnek a vagyon felosztása során átadott összes vagyonrésznek az átadásuk napjára megállapított együttes szokásos piaci értékéről, valamint a vagyonrészek megszerzése érdekében a résztvevő által teljesített összegéről.
+l) az értékpapírt a KMRP szervezet résztvevőjeként vagy a KMRP keretében létesített vagyonkezelő alapítvány kedvezményezettjeként szerezte; a KMRP szervezet résztvevőnként, a vagyonkezelő alapítvány kedvezményezettenként az adóévet követő év január 31-ig adatot szolgáltat az állami adó- és vámhatóság részére a résztvevőnek, illetve a kedvezményezettnek a vagyon felosztása során átadott összes értékpapírnak az átadásuk napjára megállapított együttes szokásos piaci értékéről, valamint az azok megszerzése érdekében a résztvevő által teljesített vagyoni hozzájárulás összegéről.
 
 (3) A (2) bekezdés alkalmazásában társas vállalkozás az a külföldi székhelyű jogi személy és egyéb szervezet is, amely a székhelye szerinti államban (kivéve az alacsony adókulcsú államot) a társasági adónak megfelelő adó alanya.
 

@@ -1,6 +1,6 @@
 ## Nyereményből származó jövedelem
 
-76. § (1) A nyeremény esetében – ha az nem tartozik a kamatjövedelemre vonatkozó rendelkezések hatálya alá – a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvényben (a továbbiakban: Szjtv.) meghatározott engedélyhez kötött sorsolásos játékból, az ajándéksorsolásból, a fogadásból, valamint az Szjtv. 29/Q. §-a szerinti külföldi jackpot rendszerből származó nyeremény (a továbbiakban együtt: adóköteles nyeremény) címén kapott bevétel egészét jövedelemnek kell tekinteni.
+76. § (1) A nyeremény esetében – ha az nem tartozik a kamatjövedelemre vonatkozó rendelkezések hatálya alá – a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvényben (a továbbiakban: Szjtv.) meghatározott engedélyhez kötött sorsolásos játékból, a fogadásból, valamint az Szjtv. 29/Q. §-a szerinti külföldi jackpot rendszerből származó nyeremény (a továbbiakban együtt: adóköteles nyeremény) címén kapott bevétel egészét jövedelemnek kell tekinteni.
 
 (2) Pénzbeli nyeremény esetén az adót a magánszemélyeknek kiosztandó teljes nyereményösszegből egy tételben kell a kifizetőnek levonnia, és befizetnie.
 

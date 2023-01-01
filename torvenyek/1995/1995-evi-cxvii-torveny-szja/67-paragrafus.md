@@ -38,7 +38,7 @@ ae) csődeljárás, felszámolás vagy helyi önkormányzatok adósságrendezés
 
 af) olyan értékpapír esetében, amelynek alapján megállapított összeg az értékpapír megszerzésekor e törvény szerint jövedelemnek minősül, a jövedelem összege, növelve a magánszemély által az értékpapír átruházásáig teljesített, igazolt ellenértékkel,
 
-ag) az MRP szervezet analitikájában a számvitelről szóló törvény felhatalmazása alapján kiadott kormányrendelet szerint elkülönítetten, a megszerzett részvények, üzletrészek között kimutatott, a résztvevő tulajdonába adott értékpapír esetében az átadásig a résztvevő által saját erő címén befizetett összegből az értékpapírra arányosan jutó rész,
+ag) az MRP szervezet analitikájában a számvitelről szóló törvény felhatalmazása alapján kiadott kormányrendelet szerint elkülönítetten, a megszerzett részvények, üzletrészek között kimutatott, az MRP szervezet vagy az MRP szervezetben fennálló tagi részesedést kezelő vagyonkezelő alapítvány által a résztvevő tulajdonába adott értékpapír esetében az átadásig a résztvevő által saját erő címén befizetett összegből az értékpapírra arányosan jutó rész,
 
 ah) a szövetkezetekről szóló 1992. évi I. törvény hatálybalépéséről és az átmeneti szabályokról szóló törvény szerinti átalakulás során a magánszemélynek ellenérték nélkül juttatott szövetkezeti üzletrész, részjegy esetében az eredeti szerzőnél vagy – ha az értékpapír a hagyaték tárgyát képezte – örökösénél az értékpapírnak az átalakulás befejezésekor lezárt névértéke,
 

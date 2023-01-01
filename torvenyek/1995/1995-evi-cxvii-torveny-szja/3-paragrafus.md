@@ -148,7 +148,7 @@ b) az adóköteles társadalombiztosítási ellátás;
 
 c) a szociális igazgatásról és szociális ellátásokról szóló törvény alapján folyósított adóköteles ellátás;
 
-d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított álláskeresési járadék, álláskeresési segély, ha ennek megállapítására nem a magánszemélyre irányadó öregségi nyugdíjkorhatár öt évet meg nem haladó időtartamon belüli betöltésére is figyelemmel került sor, továbbá a keresetkiegészítés és keresetpótló juttatás, valamint a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendelet alapján nyújtott álláskeresést ösztönző juttatás;
+d) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított álláskeresési járadék, nyugdíj előtti álláskeresési segély, álláskeresési segély, ha ennek megállapítására nem a magánszemélyre irányadó öregségi nyugdíjkorhatár öt évet meg nem haladó időtartamon belüli betöltésére is figyelemmel került sor, továbbá a keresetkiegészítés és keresetpótló juttatás, valamint a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendelet alapján nyújtott álláskeresést ösztönző juttatás;
 
 e) a Magyar Honvédségnél tartalékos katonai szolgálatot teljesítő magánszemély e jogviszonyból származó jövedelme;
 
@@ -160,7 +160,7 @@ g) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység díja
 
 23. Nyugdíj:
 
-a) a társadalombiztosítási nyugellátásról szóló törvényben meghatározott saját jogú nyugellátások és hozzátartozói nyugellátások, a rehabilitációs járadékról szóló törvényben meghatározott rehabilitációs járadék, továbbá a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított nyugdíj előtti munkanélküli-segély, álláskeresési segély, ha annak megállapítására a magánszemélyre irányadó öregségi nyugdíjkorhatár öt évet meg nem haladó időtartamon belüli betöltésére is figyelemmel került sor;
+a) a társadalombiztosítási nyugellátásról szóló törvényben meghatározott saját jogú nyugellátások és hozzátartozói nyugellátások, a rehabilitációs járadékról szóló törvényben meghatározott rehabilitációs járadék, továbbá a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján folyósított nyugdíj előtti munkanélküli-segély, nyugdíj előtti álláskeresési segély, álláskeresési segély, ha annak megállapítására a magánszemélyre irányadó öregségi nyugdíjkorhatár öt évet meg nem haladó időtartamon belüli betöltésére is figyelemmel került sor;
 
 b) a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvényben meghatározott korhatár előtti ellátás és szolgálati járandóság;
 
@@ -232,15 +232,15 @@ b) ingatlan átruházása esetében az átruházást megelőző 24 hónapon bel�
 
 42. Költségek fedezetére vagy fejlesztési célra folyósított támogatás: jogszabály vagy nemzetközi szerződés alapján költségek fedezetére vagy fejlesztési célra folyósított olyan támogatás, amelyet a magánszemély kizárólag a ténylegesen felmerült, igazolt kiadásainak a folyósítóval történő elszámolási kötelezettsége mellett, vagy a tevékenység megvalósulásának ellenőrzését követően kap, továbbá az Európai Mezőgazdasági Vidékfejlesztési Alapból társfinanszírozott, a fiatal mezőgazdasági termelők indulásához, gazdaságalapításhoz, valamint a mezőgazdasági kisüzemek fejlesztéséhez nyújtandó támogatások;
 
-43. Korábban munkanélküli személy az, aki a foglalkoztatását közvetlenül megelőzően
+43. Korábban álláskereső személy az, aki a foglalkoztatását közvetlenül megelőzően
 
-a) legalább 6 hónapig az állami foglalkoztatási szerv által nyilvántartott munkanélküli volt, vagy
+a) legalább 6 hónapig az állami foglalkoztatási szerv által nyilvántartott álláskereső volt, vagy
 
 b) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény alapján álláskeresők támogatásában a szociális igazgatásról és szociális ellátásokról szóló törvény alapján aktív korúak ellátásában részesült, vagy
 
 c) a b) pontban említett ellátásra való jogosultságát már kimerítette, de az állami foglalkoztatási szervvel továbbra is együttműködött,
 
-azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjából azt az időtartamot, amely alatt a munkanélküli csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási segélyben részesül, továbbá a letartóztatás, szabadságvesztés, elzárás időtartamát, valamint a tartalékos katonai szolgálatban, a polgári szolgálatban töltött időt (a szolgálat megkezdése és befejezése közötti időtartamot) figyelmen kívül kell hagyni.
+azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjából azt az időtartamot, amely alatt az álláskereső csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási segélyben részesül, továbbá a letartóztatás, szabadságvesztés, elzárás időtartamát, valamint a tartalékos katonai szolgálatban, a polgári szolgálatban töltött időt (a szolgálat megkezdése és befejezése közötti időtartamot) figyelmen kívül kell hagyni.
 
 44. Azonos munkakör: a 7/2010. (IV. 23.) KSH közleménnyel kiadott, 2011. január 1-jétől hatályos Foglalkozások Egységes Osztályozási Rendszere (FEOR-08) szerint azonosnak minősülő munkakör.
 
@@ -288,7 +288,7 @@ feltéve, hogy kizárólag magánszemély alapító, csatlakozó által rendelke
 
 63. Csoportos személyszállítás: ha a munkáltató a munkavégzés érdekében legalább négy munkavállaló szállításáról gondoskodik
 
-a) a tulajdonában (üzemeltetésében) lévő járművel, vagy
+a) a tulajdonában (üzemeltetésében) lévő vagy általa bérelt, lízingelt járművel, vagy
 
 b) kifizetőtől igénybe vett személyszállítási szolgáltatás útján
 

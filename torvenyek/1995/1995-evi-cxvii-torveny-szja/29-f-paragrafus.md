@@ -26,6 +26,8 @@ de adóévenként legfeljebb a jogosultsági hónapok számának és a teljes mu
 
 (3) Jogosultsági hónapként azok a hónapok vehetők figyelembe, amelyekben a fiatal a 25. életévét nem töltötte be, utoljára a 25. életéve betöltésének hónapja.
 
+(3a) Az állami adó- és vámhatóság az adóbevallási tervezetben a nyilvántartásaiban szereplő adatok alapján feltünteti a 25 év alatti fiatalok kedvezményének jogosultat megillető összegét.
+
 (4) Amennyiben a 25 év alatti fiatalok kedvezményére való jogosultság az adóév egészében nem áll fenn, és a jogosultsági hónapokban megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelem másként nem állapítható meg, azt az ilyen címen megszerzett adóévi jövedelemnek a jogosultsági hónapokkal arányos részeként kell figyelembe venni.
 
 (5) Ha a 29/C. § szerinti első házasok kedvezményére jogosult házaspár esetén mindkét házastárs 25 év alatti fiatal, az első házasok kedvezménye érvényesítésének első jogosultsági hónapja a 29/C. § (4) bekezdésétől eltérően az a hónap, amelyet megelőző hónapban a házastársak valamelyike a 25. életévét betölti.

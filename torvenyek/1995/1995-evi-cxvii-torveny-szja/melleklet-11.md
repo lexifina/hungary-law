@@ -1,6 +1,4 @@
-11. számú melléklet a személyi jövedelemadóról szóló
-
-1995. évi CXVII. törvényhez
+11. számú melléklet a személyi jövedelemadóról szóló 1995. évi CXVII. törvényhez
 
 A vállalkozói költségek elszámolásáról
 
@@ -58,7 +56,7 @@ valamint más magánszemély javára megállapodás alapján nyugellátásra jog
 
 ## 12. az üzlet, a műhely, a gazdasági épület, az iroda bérleti díja, a fűtés, a világítás és a technológiai energia költsége, a telefon, mobiltelefon, telefax, cb-rádió (ha a lakás és a telephely műszakilag nem elkülönített, akkor a tevékenységgel arányosan lehet e kiadásokat figyelembe venni az adott költségre jellemző mértékegységek – például nap, m2, m3 – alapulvételével), továbbá az internet használat díja (ha a lakás és a telephely műszakilag nem elkülönített, az internet használati díjának 50 százaléka) azzal, hogy kizárólag a közüzemi számlák esetében a házastárs nevére szóló számla is elfogadható;
 
-## 13. a telefon, a mobiltelefon, a telefax, a cb-rádió, az internet telephelyre történő beszerelése esetén a készülék ára és a beszerelés díja, azzal, hogy a telefon árának és beszerelési díjának 50 százaléka számolható el költségként abban az esetben, ha az egyéni vállalkozó lakása és telephelye műszakilag nem elkülönített;
+13. a telefon, a mobiltelefon, a telefax, a cb-rádió, az internet telephelyre történő beszerelése esetén a készülék ára és a beszerelés díja, azzal, hogy a telefon árának és beszerelési díjának 50 százaléka számolható el költségként abban az esetben, ha az egyéni vállalkozó lakása és telephelye műszakilag nem elkülönített;
 
 14. a telefonfejlesztési hozzájárulás, továbbá a közműfejlesztési hozzájárulásnak a helyi önkormányzat által visszatérített összeggel csökkentett része, azzal, hogy ha a hozzájárulás alapjául szolgáló berendezést a lakástól műszakilag el nem különült telephelyre szerelik be, költségként az egyéni vállalkozó által fizetett magasabb hozzájárulás és az ilyen esetben magánszemélyként egyébként fizetendő összeg különbözete számolható el;
 

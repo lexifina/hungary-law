@@ -22,7 +22,7 @@ bb) az egyéni vállalkozót – az adóévben már megfizetett, igazolt kamat a
 
 (5)
 
-(6) Ha az egyéni vállalkozó családi járulékkedvezményt kíván igénybe venni, akkor – saját döntése alapján, az e fejezetben előírtaktól eltérően – a vállalkozói kivét vagy az átalányban megállapított jövedelem adóelőlegét havonta állapítja meg és vallja be.
+(6) Ha az egyéni vállalkozó családi járulékkedvezményt kíván igénybe venni, akkor – saját döntése alapján, az e fejezetben előírtaktól eltérően – a vállalkozói kivét adóelőlegét havonta, az átalányban megállapított jövedelem adóelőlegét negyedévente állapítja meg és vallja be az adózás rendjéről szóló törvény szerinti adó- és járulékbevallásban.
 
 (7) Amennyiben a négy vagy több gyermeket nevelő anyának minősülő magánszemély kedvezményre való jogosultsága az adott negyedév egészében nem áll fenn, és az adott negyedévi, jogosultsági időszakban megszerzett, összevont adóalapba tartozó önálló tevékenységből származó jövedelmének adóelőleg-alapja másként nem állapítható meg, azt az adott negyedévi önálló tevékenységből származó jövedelem adóelőleg-alapjának a jogosultsági időszak hónapjával (hónapjaival) arányos részeként kell figyelembe venni.
 

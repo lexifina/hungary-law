@@ -1,5 +1,7 @@
 60. § (1) Az ingatlan (ingatlanrész), továbbá az ingatlan-nyilvántartásba bejegyzésre kötelezett vagyoni értékű jog megszerzése időpontjának azt a napot kell tekinteni, amikor az erről szóló érvényes szerződést (okiratot, bírósági, hatósági határozatot) az ingatlanügyi hatósághoz benyújtották. Az ingatlan-nyilvántartásba bejegyzésre nem kötelezett vagyoni értékű jog szerzési időpontjának az erről szóló szerződés szerinti időpontot kell tekinteni. Öröklés esetén az örökség megnyíltának napját kell a szerzés időpontjának tekinteni.
 
+(1a) Házassági vagyonközösség fennállása alatt megszerzett ingatlan esetén az (1) bekezdés szerint meghatározott szerzési időpont mindkét házastársnál azonos, kivéve, ha házassági vagyonjogi szerződés ettől eltérően rendelkezik.
+
 (2) Az (1) bekezdés rendelkezésétől eltérően a földrendezés vagy kisajátítás során kapott csereingatlan szerzési időpontjának az eredeti ingatlan szerzési időpontját kell tekinteni.
 
 (3) Az (1) bekezdés rendelkezésétől eltérően, az ingatlan tulajdonban (birtokban) tartásának időszakában a 2007. december 31-ét követően az ingatlanon létesített épített-ingatlan (épület, épületrész, építmény, építményrész) esetében – ideértve a megszerzéskor, illetőleg az említett időpont előtt meglévő épített-ingatlan helyett létesített (újjáépített, leválasztott, megosztott) épített-ingatlan esetét is –, valamint a megszerzéskor, illetőleg az említett időpont előtt meglévő épített-ingatlan helyiségei hasznos alapterületének hat négyzetmétert meghaladó növelése esetében a szerzést
