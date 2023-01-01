@@ -1,12 +1,10 @@
-## A kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező közigazgatási szervek
-
 |  | A | B | C | D |
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyek | Eljáró hatóság |
 
 | 2. | A Pesti Vigadó épületének rekonstrukciója | Budapest, belterület 24.429/1 hrsz. | műemléki védelem alatt álló építmények építésügyi hatósági engedélye | Budapest Főváros Kormányhivatala |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Megyei Kormányhivatal |
+| 3. | környezetvédelmi hatósági engedélyezési eljárások | Pest Vármegyei Kormányhivatal[^11] |
 
 | 4. | vízügyi hatósági eljárások | illetékes katasztrófavédelmi igazgatóság |
 
@@ -24,6 +22,7 @@
 
 | 11. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-2. melléklet a 142/2011. (VII. 21.) Korm. rendelethez[^9]
+2. melléklet a 142/2011. (VII. 21.) Korm. rendelethez[^12]
 
-[^9]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.
+[^11]: Az 1. mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^12]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.
