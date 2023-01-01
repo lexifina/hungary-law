@@ -1,3 +1,3 @@
-35/E. §[^204] A 12/B. §-nak az egyes energetikai tárgyú kormányrendeletek módosításáról szóló 275/2017. (IX. 21.) Korm. rendelettel megállapított módosításait a hatálybalépésükkor folyamatban lévő ügyekben is alkalmazni kell.
+35/E. §[^209]
 
-[^204]: A Vhr. 35/E. §-át a 275/2017. (IX. 21.) Korm. rendelet 2. §-a iktatta be.
+[^209]: A Vhr. 35/E. §-át a 275/2017. (IX. 21.) Korm. rendelet 2. §-a iktatta be, a 606/2022. (XII. 28.) Korm. rendelet 3. § i) pontja hatályon kívül helyezte.

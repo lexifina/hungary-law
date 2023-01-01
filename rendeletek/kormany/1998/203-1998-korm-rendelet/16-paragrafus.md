@@ -1,5 +1,5 @@
 ## (A Bt. 28. §-ához)
 
-16. §[^73]
+16. §[^74]
 
-[^73]: A Vhr. 16. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 6. pontja hatályon kívül helyezte.
+[^74]: A Vhr. 16. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 6. pontja hatályon kívül helyezte.
