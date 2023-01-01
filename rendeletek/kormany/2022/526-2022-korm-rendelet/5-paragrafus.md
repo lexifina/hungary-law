@@ -1,0 +1,19 @@
+5. § (1) A pénzügyi biztosíték mértéke az 1. § (2) bekezdés a)–c) pontja szerinti dokumentumban, vagy az 1. § (4) bekezdés c) pontja szerinti esetben az igényelt csatlakozási kapacitásra vetítve 4,5 millió Ft/MVA. A pénzügyi biztosíték 1 MVA teljesítmény alatt tized MVA-ra kerekített, de legalább 0,1 MVA, 1 MVA teljesítmény felett egész MVA értékre kerekített teljesítménynek megfelelő összeg, amelyből megfizetettnek minősül
+
+a) az igénybejelentő által a hálózati engedélyes részére az elosztói vagy üzemi szabályzat alapján csatlakozási igénybejelentési eljárásban már megfizetett biztosíték és
+
+b) a hálózati csatlakozási szerződés alapján már megfizetett csatlakozási díj összege.
+
+(2) Az 1. § (2) bekezdés a)–c) pontja szerinti igénybejelentő pénzügyi biztosítékot fizet, ha
+
+a) az igénybejelentő nyilatkozatában a csatlakozás igénybevételére megjelölt naptári évet a hálózati engedélyes visszaigazolja, vagy
+
+b) az igénybejelentő nyilatkozatában a csatlakozás igénybevételére megjelölt naptári évet a hálózati engedélyes a 6. § (1) bekezdése alapján módosítja és a csatlakozás igénybevételére megjelölt új naptári évet az igénybejelentő elfogadja. A pénzügyi biztosítékot az igénybejelentő a hálózati engedélyes által megjelölt bankszámlaszámra történő átutalással teljesíti.
+
+(3) A pénzügyi biztosíték összegének a határidő utolsó napjáig a hálózati engedélyes bankszámláján jóváírásra kell kerülnie. Nem kell megfizetni a pénzügyi biztosítékot, ha az erőmű üzembe helyezése a befizetési határidő letelte előtt megtörténik.
+
+(4) A megfizetett pénzügyi biztosíték a csatlakozási díjba beleszámít és a legkorábban esedékessé váló csatlakozási díj részletben a hálózati engedélyes jóváírja. Ha a megfizetett biztosíték meghaladja a hálózati csatlakozási szerződés szerint elszámolható csatlakozási díjat, úgy a pénzügyi biztosítékot a hálózati engedélyes a csatlakozási pont üzembe helyezését követő 15 napon belül visszatéríti. Az e bekezdés szerinti biztosítékra az e rendeletben nem szabályozott kérdésekben a hálózati csatlakozási eljárás keretében megfizetendő biztosíték üzemi és elosztói szabályzatban részletezett szabályai alkalmazandóak.
+
+(5) A biztosíték határidőn belüli megfizetésének elmulasztása esetén az 1. § (2) bekezdés a)–c) pontja szerinti igénybejelentő a csatlakozás igénybevételére vonatkozó igényét a soron következő Vet. 35. § (8) bekezdése szerinti kapacitáskiosztási eljárás során tett egyedi igénybejelentés útján tudja érvényesíteni, mely egyedi igénybejelentésre az irányadó villamosenergia-ellátási szabályzat előírásai alkalmazandók, azzal, hogy az igénybejelentő változatlan műszaki tartalom szerinti csatlakozása tényleges időpontjának meghatározása során elsőbbséget élvez a soron következő kapacitáskiosztási eljárásban benyújtott új egyedi igénybejelentésekkel szemben. Az egyedi igénybejelentési eljárásban meghatározott szükséges hálózatfejlesztések alapján a korábban az igénybejelentő számára a csatlakozás tekintetében meghatározott csatlakozási díj a közvetett csatlakozási beruházások változása miatt nem növelhető.
+
+(6) Az (5) bekezdés szerinti egyedi igénybejelentés elmulasztása esetén az 1. § (2) bekezdés a)–c) pontja szerinti igénybejelentő csatlakozásra vonatkozó rendelkezési joga az egyedi igénybejelentés megtételére nyitva álló határidő leteltét követő napon megszűnik. A hálózati engedélyes a nyilatkozattételi határidőt követő 45 napon belül az igénybejelentő által korábban az elosztói vagy üzemi szabályzat alapján teljesített pénzügyi biztosítékot az igénybejelentőnek visszatéríti, és a megfizetett csatlakozási díjat – a hálózati csatlakozási szerződésben meghatározott elszámolási szabályok mellett – az igénybejelentővel elszámolja.
