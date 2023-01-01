@@ -1,5 +1,3 @@
-## 7. §[^1]
+## 7. § A 4. §-ban a „Megyei” szövegrész helyébe a „Vármegyei” szöveg lép.
 
 1. melléklet a 308/2022. (VIII. 11.) Korm. rendelethez
-
-[^1]: A 7. § az 5. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
