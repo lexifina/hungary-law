@@ -44,7 +44,7 @@
 
 | 10. Vállalaton belüli áthelyezés időpontját megelőzően a harmadik országban letelepedett vállalkozásnál vagy vállalkozáscsoporton belül fennálló munkaviszony időtartama: | 11. Munkakör (FEOR szám): |
 
-| 12. Munkavégzés helye(i): 12.1. Egyetlen munkavégzési hely van? □ igen □ nem Ha igen: ………. (irányítószám) ……………………………..(cím) | 12.2. A munka természetéből adódóan a munkavégzés helye több megye területére terjed ki? □ igen □ nem Ha igen, a munkavégzés megkezdésének helye: …………….(irányítószám) ………………………………………..(cím) | 12.3. A foglalkoztató több – különböző megye területén lévő – telephelyén fog dolgozni? □ igen □ nem |
+| 12. Munkavégzés helye(i): 12.1. Egyetlen munkavégzési hely van? □ igen □ nem Ha igen: ………. (irányítószám) ……………………………..(cím) | 12.2. A munka természetéből adódóan a munkavégzés helye több vármegye területére terjed ki? □ igen □ nem Ha igen, a munkavégzés megkezdésének helye: …………….(irányítószám) ………………………………………..(cím) | 12.3. A foglalkoztató több – különböző vármegye területén lévő – telephelyén fog dolgozni? □ igen □ nem |
 
 | 13. A munkakör ellátásához szükséges készségei, ismeretei: Az ellátandó munkakörre vonatkozó szakmai gyakorlati ideje: Az ellátandó munkakörrel összefüggő speciális ismerete, képessége: Nyelvismerete: Anyanyelve: Egyéb nyelvismerete: Beszél-e magyarul? □ igen □ nemKorábban dolgozott-e már Magyarországon? □ igen □ nem Ha igen: Előző magyarországi foglalkoztatója: neve:…………………………………………………………………………………… címe:…………………………………………………………………………………… |
 
@@ -52,6 +52,6 @@
 
 | Kelt: ...................................................... | ..................................................... fogadó szervezet képviselőjének aláírása |
 
-40. melléklet a 25/2007. (V. 31.) IRM rendelethez[^98]
+40. melléklet a 25/2007. (V. 31.) IRM rendelethez[^100]
 
-[^98]: A 40. mellékletet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés u) pontja iktatta be, szövege az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése, a 27/2019. (VI. 28.) BM rendelet 5. § e) pontja szerint módosított szöveg.
+[^100]: A 40. mellékletet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés u) pontja iktatta be, szövege az 58/2016. (XII. 22.) BM rendelet 19. § (1) bekezdése, a 27/2019. (VI. 28.) BM rendelet 5. § e) pontja szerint módosított szöveg.

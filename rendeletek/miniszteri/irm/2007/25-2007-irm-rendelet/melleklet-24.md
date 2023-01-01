@@ -84,4 +84,6 @@
 
 ## o bevándorlási engedéllyel, letelepedési engedéllyel, nemzeti letelepedési engedéllyel vagy EK letelepedési engedéllyel rendelkező szülő esetén nemzeti letelepedési engedélyt kell kiállítani.
 
-24. melléklet a 25/2007. (V. 31.) IRM rendelethez
+24. melléklet a 25/2007. (V. 31.) IRM rendelethez[^84]
+
+[^84]: A 24. melléklet a 61/2022. (XII. 27.) BM rendelet 1. §-ával megállapított szöveg.

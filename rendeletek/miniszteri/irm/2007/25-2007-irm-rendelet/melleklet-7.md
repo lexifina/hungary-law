@@ -92,7 +92,7 @@
 
 ## Az okmány típusa: „Uniós polgár 2004/38/EK irányelv 20. cikke szerinti családtagja”
 
-7. melléklet a 25/2007. (V. 31.) IRM rendelethez[^66]
+7. melléklet a 25/2007. (V. 31.) IRM rendelethez[^67]
 
 ## 9K04194M_0
 
@@ -124,4 +124,4 @@ I. Alulírott
 
 II. Alulírott
 
-[^66]: A 7. melléklet a 35/2018. (XII. 21.) BM rendelet 6. § c) pontjával megállapított, a 27/2019. (VI. 28.) BM rendelet 5. § e) pontja szerint módosított szöveg.
+[^67]: A 7. melléklet a 35/2018. (XII. 21.) BM rendelet 6. § c) pontjával megállapított, a 27/2019. (VI. 28.) BM rendelet 5. § e) pontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
-## 22/B. §[^40] A tartózkodási, ideiglenes-, nemzeti- és EK letelepedési engedély, EU Kék Kártya okmány kiadása, meghosszabbítása, a tartózkodási, bevándorlási, letelepedési, ideiglenes-, nemzeti- és EK letelepedési engedély, EU Kék Kártya okmány pótlása, valamint cseréje iránti kérelem formanyomtatványán a bekeretezett aláírás minta rovatot a kérelmező saját kezűleg írja alá. Ha a cselekvőképes kérelmező írásképtelen, ezen tényt az eljáró hatóság a bekeretezett aláírás minta rovatban vízszintes vonal elhelyezésével jelzi. A cselekvőképtelen vagy korlátozottan cselekvőképes kérelmező írásképtelensége esetén a bekeretezett aláírás minta rovatot a törvényes képviselő írja alá.
+## 22/B. §[^41] A tartózkodási, ideiglenes-, nemzeti- és EK letelepedési engedély, EU Kék Kártya okmány kiadása, meghosszabbítása, a tartózkodási, bevándorlási, letelepedési, ideiglenes-, nemzeti- és EK letelepedési engedély, EU Kék Kártya okmány pótlása, valamint cseréje iránti kérelem formanyomtatványán a bekeretezett aláírás minta rovatot a kérelmező saját kezűleg írja alá. Ha a cselekvőképes kérelmező írásképtelen, ezen tényt az eljáró hatóság a bekeretezett aláírás minta rovatban vízszintes vonal elhelyezésével jelzi. A cselekvőképtelen vagy korlátozottan cselekvőképes kérelmező írásképtelensége esetén a bekeretezett aláírás minta rovatot a törvényes képviselő írja alá.
 
 ## Az idegenrendészeti eljárással összefüggő költségek megtérítése
 
-23. § (1)[^41] A harmadik országbeli állampolgárt terhelő költségek megállapítása során a következő kiadásokat kell figyelembe venni:
+23. § (1)[^42] A harmadik országbeli állampolgárt terhelő költségek megállapítása során a következő kiadásokat kell figyelembe venni:
 
 a) az utazási költségek,
 
@@ -14,7 +14,7 @@ d) a harmadik országbeli állampolgár részére megelőlegezett költségek, k
 
 (2) Az utazási költségek megállapításánál az érvényes belföldi utazási díjtételeket, illetve gépjárművel történő szállítás esetén az üzemeltetésre vonatkozó normákat kell figyelembe venni.
 
-(2a)[^42] Az őrizetes tartására és ellátására fordított költségek megállapításánál a következő kiadásokat kell figyelembe venni:
+(2a)[^43] Az őrizetes tartására és ellátására fordított költségek megállapításánál a következő kiadásokat kell figyelembe venni:
 
 a) az őrizetes étkezésére fordított költséget,
 
@@ -28,15 +28,15 @@ e) az őrizetes sürgősségi és alapellátásnak nem minősülő gyógykezelé
 
 f) az őrizet végrehajtásával össze nem függő ügyben biztosított tolmács közreműködésének költségét.
 
-(2b)[^43] Az őrizetet elrendelő hatóság megkeresésére az őrzött szállás soron kívül megküldi az őrizet időtartama alatt az őrizetes tartására és ellátására fordított költségekről készített jegyzéket. Az őrizetet elrendelő idegenrendészeti hatóság a költségjegyzék alapján haladéktalanul elkészíti a költség-végzést.
+(2b)[^44] Az őrizetet elrendelő hatóság megkeresésére az őrzött szállás soron kívül megküldi az őrizet időtartama alatt az őrizetes tartására és ellátására fordított költségekről készített jegyzéket. Az őrizetet elrendelő idegenrendészeti hatóság a költségjegyzék alapján haladéktalanul elkészíti a költség-végzést.
 
-(3)[^44] Ha jogszabály eltérően nem rendelkezik, a harmadik országbeli állampolgár a megállapított összeget köteles a költségviselésről rendelkező döntés közlésekor készpénzben megfizetni. Ha ez nem lehetséges, a harmadik országbeli állampolgár köteles a megállapított költséget a döntésben megjelölt számlára készpénz-átutalási megbízás vagy az állandó vagy szokásos tartózkodási helye szerint illetékes magyar külképviseleten történő befizetés útján a Főigazgatóságnak visszatéríteni.
+(3)[^45] Ha jogszabály eltérően nem rendelkezik, a harmadik országbeli állampolgár a megállapított összeget köteles a költségviselésről rendelkező döntés közlésekor készpénzben megfizetni. Ha ez nem lehetséges, a harmadik országbeli állampolgár köteles a megállapított költséget a döntésben megjelölt számlára készpénz-átutalási megbízás vagy az állandó vagy szokásos tartózkodási helye szerint illetékes magyar külképviseleten történő befizetés útján a Főigazgatóságnak visszatéríteni.
 
-(4)[^45] A külképviselet a költségek visszatérítéséről igazolást ad ki, ezzel egyidejűleg – a beutazási és tartózkodási tilalmat elrendelő hatóság tájékoztatása céljából – a Külügyminisztérium útján haladéktalanul értesíti a központi nyilvántartó szervet, és gondoskodik a befizetett összegnek a Főigazgatósághoz történő átutalásáról.
+(4)[^46] A külképviselet a költségek visszatérítéséről igazolást ad ki, ezzel egyidejűleg – a beutazási és tartózkodási tilalmat elrendelő hatóság tájékoztatása céljából – a Külügyminisztérium útján haladéktalanul értesíti a központi nyilvántartó szervet, és gondoskodik a befizetett összegnek a Főigazgatósághoz történő átutalásáról.
 
-[^40]: A 22/B. §-t a 12/2010. (XII. 23.) BM rendelet 10. §-a iktatta be, szövege a 27/2011. (VIII. 24.) BM rendelet 3. §-ával megállapított szöveg.
-[^41]: A 23. § (1) bekezdése a 35/2018. (XII. 21.) BM rendelet 3. §-ával megállapított szöveg.
-[^42]: A 23. § (2a) bekezdését a 12/2010. (XII. 23.) BM rendelet 11. § (2) bekezdése iktatta be.
-[^43]: A 23. § (2b) bekezdését a 12/2010. (XII. 23.) BM rendelet 11. § (2) bekezdése iktatta be.
-[^44]: A 23. § (3) bekezdése a 27/2019. (VI. 28.) BM rendelet 5. § c) pontja szerint módosított szöveg.
-[^45]: A 23. § (4) bekezdése a 27/2019. (VI. 28.) BM rendelet 5. § d) pontja szerint módosított szöveg.
+[^41]: A 22/B. §-t a 12/2010. (XII. 23.) BM rendelet 10. §-a iktatta be, szövege a 27/2011. (VIII. 24.) BM rendelet 3. §-ával megállapított szöveg.
+[^42]: A 23. § (1) bekezdése a 35/2018. (XII. 21.) BM rendelet 3. §-ával megállapított szöveg.
+[^43]: A 23. § (2a) bekezdését a 12/2010. (XII. 23.) BM rendelet 11. § (2) bekezdése iktatta be.
+[^44]: A 23. § (2b) bekezdését a 12/2010. (XII. 23.) BM rendelet 11. § (2) bekezdése iktatta be.
+[^45]: A 23. § (3) bekezdése a 27/2019. (VI. 28.) BM rendelet 5. § c) pontja szerint módosított szöveg.
+[^46]: A 23. § (4) bekezdése a 27/2019. (VI. 28.) BM rendelet 5. § d) pontja szerint módosított szöveg.
