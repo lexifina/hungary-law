@@ -1,5 +1,3 @@
-## A bruttó működési eredmény csökkenés mértékének kiszámítása
-
 ## Bruttó működési eredmény csökkenés mértékének kiszámítási módja:
 
 ## Bázisidőszak: 2015. 12. hó – 2016. 04. hó
@@ -12,7 +10,7 @@
 
 2. melléklet a 16/2018. (VII. 12.) AM rendelethez
 
-## A támogatási kérelem adattartalma
+A támogatási kérelem adattartalma
 
 1. Az igénylő azonosító adatai
 

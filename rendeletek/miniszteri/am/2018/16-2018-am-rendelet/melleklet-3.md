@@ -1,6 +1,6 @@
 3. melléklet a 16/2018. (VII. 12.) AM rendelethez
 
-## A Szakmai Ellenőrzési Lap adattartalma
+A Szakmai Ellenőrzési Lap adattartalma
 
 1. Igénylő azonosító adatai
 

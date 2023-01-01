@@ -6,7 +6,7 @@
 
 2. bruttó működési eredmény: üzemi (üzleti) tevékenység eredménye az értékcsökkenési leírással növelve;
 
-3. érintett terület: Bács-Kiskun megye, Békés megye, Csongrád megye, Győr-Moson-Sopron megye, Jász-Nagykun-Szolnok megye, Hajdú-Bihar megye, Somogy megye, Veszprém megye;
+3.[^1] érintett terület: Bács-Kiskun vármegye, Békés vármegye, Csongrád-Csanád vármegye, Győr-Moson-Sopron vármegye, Jász-Nagykun-Szolnok vármegye, Hajdú-Bihar vármegye, Somogy vármegye, Veszprém vármegye;
 
 4. feldolgozó vállalkozás: vágás céljából élő víziszárnyast felvásárló, amely az e rendelet szerinti támogatási kérelem benyújtásakor vágóhídként szerepel a Nemzeti Élelmiszer-biztonsági Hivatal által közzétett engedélyezett létesítmények nyilvántartásában;
 
@@ -19,3 +19,5 @@
 8. tárgyidőszak: a madárinfluenza-járvánnyal érintett, 2016. december 1-től 2017. április 30-ig tartó időszak;
 
 9. víziszárnyastermék feldolgozása: kacsa- vagy libaterméken elvégzett bármely olyan művelet, amely esetében a keletkező termék szintén mezőgazdasági terméknek minősül, kivéve a mezőgazdasági üzemben végzett, az állati termékek első értékesítésre való előkészítéséhez szükséges tevékenységeket.
+
+[^1]: Az 1. § 3. pontja a 150/2022. (XII. 27.) AM rendelet 1. § a) és b) pontja szerint módosított szöveg.
