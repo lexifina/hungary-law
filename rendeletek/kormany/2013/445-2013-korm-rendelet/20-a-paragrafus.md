@@ -1,4 +1,4 @@
-20/A. §[^99] (1) A kormányhivatal a szakhatósági állásfoglalásában támogatja a harmadik országbeli állampolgárnak vállalaton belül áthelyezett személy számára szóló tartózkodási engedéllyel történő, 90 napot meghaladó magyarországi foglalkoztatását, ha
+20/A. §[^106] (1) A kormányhivatal a szakhatósági állásfoglalásában támogatja a harmadik országbeli állampolgárnak vállalaton belül áthelyezett személy számára szóló tartózkodási engedéllyel történő, 90 napot meghaladó magyarországi foglalkoztatását, ha
 
 a) a harmadik országbeli állampolgár vagy fogadó szervezet igazolja, hogy
 
@@ -22,4 +22,4 @@ c) a fogadó szervezet nyilatkozik arról, hogy az engedély tárgyát képező 
 
 (2) Az (1) bekezdés b) pont bc) alpontjában meghatározott munkabér nem lehet kevesebb, mint Magyarországon a hasonló munkakörben foglalkoztatott munkavállaló munkabére.
 
-[^99]: A 20/A. §-t a 113/2016. (V. 30.) Korm. rendelet 86. §-a iktatta be.
+[^106]: A 20/A. §-t a 113/2016. (V. 30.) Korm. rendelet 86. §-a iktatta be.

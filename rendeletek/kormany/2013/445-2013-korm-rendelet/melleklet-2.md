@@ -1,4 +1,4 @@
-2. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^123]
+2. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^130]
 
 KÉRELEM
 
@@ -14,9 +14,9 @@ Az egyéni munkavállalási engedély és a 9. § szerinti munkavállalási enge
 
 Kivételek:
 
-— a foglalkoztatás megkezdésének helye szerinti kormányhivatalnál kell benyújtani, ha a munka természetéből adódóan a foglalkoztatás több megye területére terjedhet ki,
+— a foglalkoztatás megkezdésének helye szerinti kormányhivatalnál kell benyújtani, ha a munka természetéből adódóan a foglalkoztatás több vármegye területére terjedhet ki,
 
-— a foglalkoztató székhelye szerinti kormányhivatalnál kell benyújtani, ha a foglalkoztató a harmadik országbeli állampolgárt több, különböző megye területén lévő telephelyén kívánja foglalkoztatni.
+— a foglalkoztató székhelye szerinti kormányhivatalnál kell benyújtani, ha a foglalkoztató a harmadik országbeli állampolgárt több, különböző vármegye területén lévő telephelyén kívánja foglalkoztatni.
 
 1. A kérelmező foglalkoztató adatai:
 
@@ -196,4 +196,4 @@ Dátum: ........................................................
 
 foglalkoztató cégszerű aláírása
 
-[^123]: A 2. melléklet a 89/2014. (III. 20.) Korm. rendelet 7. § (16) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 236. § (8) bekezdése, a 217/2016. (VII. 22.) Korm. rendelet 42. §-a, a 457/2017. (XII. 28.) Korm. rendelet 470. §-a és 471. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^130]: A 2. melléklet a 89/2014. (III. 20.) Korm. rendelet 7. § (16) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 236. § (8) bekezdése, a 217/2016. (VII. 22.) Korm. rendelet 42. §-a, a 457/2017. (XII. 28.) Korm. rendelet 470. §-a és 471. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 171. § b) pontja szerint módosított szöveg.

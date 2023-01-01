@@ -1,6 +1,6 @@
-## 28. §[^120] E rendeletnek a harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet módosításáról szóló 430/2021. (VII. 16.) Korm. rendelettel (a továbbiakban: Módr.) módosított 9. § (1) bekezdés 3. pontját a Módr. hatálybalépésekor[^121] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 28. §[^127] E rendeletnek a harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet módosításáról szóló 430/2021. (VII. 16.) Korm. rendelettel (a továbbiakban: Módr.) módosított 9. § (1) bekezdés 3. pontját a Módr. hatálybalépésekor[^128] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-1. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^122]
+1. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^129]
 
 KÉRELEM
 
@@ -12,9 +12,9 @@ Az általános szabályok szerint a kérelmet a harmadik országbeli állampolg�
 
 Kivételek:
 
-– a foglalkoztatás megkezdésének helye szerinti kormányhivatalnál kell benyújtani, ha a munka természetéből adódóan a foglalkoztatás több megye területére terjedhet ki,
+– a foglalkoztatás megkezdésének helye szerinti kormányhivatalnál kell benyújtani, ha a munka természetéből adódóan a foglalkoztatás több vármegye területére terjedhet ki,
 
-– a foglalkoztató székhelye szerinti kormányhivatalnál kell benyújtani, ha a foglalkoztató a harmadik országbeli állampolgárt több, különböző megye területén lévő telephelyén kívánja foglalkoztatni.
+– a foglalkoztató székhelye szerinti kormányhivatalnál kell benyújtani, ha a foglalkoztató a harmadik országbeli állampolgárt több, különböző vármegye területén lévő telephelyén kívánja foglalkoztatni.
 
 1. A kérelmező foglalkoztató (kölcsönbeadó) adatai:
 
@@ -136,6 +136,6 @@ Dátum: .................................................
 
 foglalkoztató cégszerű aláírása
 
-[^120]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 430/2021. (VII. 16.) Korm. rendelet 2. §-a iktatta be.
-[^121]: A hatálybalépés időpontja 2021. július 17.
-[^122]: Az 1. melléklet a 113/2016. (V. 30.) Korm. rendelet 90. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 471. § a) pontja, a 116/2021. (III. 10.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^127]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 430/2021. (VII. 16.) Korm. rendelet 2. §-a iktatta be.
+[^128]: A hatálybalépés időpontja 2021. július 17.
+[^129]: Az 1. melléklet a 113/2016. (V. 30.) Korm. rendelet 90. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 471. § a) pontja, a 116/2021. (III. 10.) Korm. rendelet 24. §-a, a 616/2022. (XII. 29.) Korm. rendelet 171. § b) pontja szerint módosított szöveg.
