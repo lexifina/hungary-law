@@ -14,13 +14,17 @@
 
 (7)[^27]
 
-(8)[^28]
+(8) A 84/2012. (IV. 21.) Korm. rendelet 4. §-a a következő x) ponttal egészül ki:
 
-(9)[^29]
+(A Kormány a szabályozott elektronikus ügyintézési szolgáltatások, illetve a központi elektronikus ügyintézési szolgáltatások szolgáltatóiként az alábbi szervezeteket jelöli ki:)
 
-(10)[^30]
+## „x) szerepkör-tanúsító platform szolgáltatás vonatkozásban az IdomSoft Zrt.-t, a szolgáltatás igénybevételi feltételeinek ellenőrzésére, a csatlakozó szervezetek nyilvántartására és az alkalmazáshoz kapcsolódó minőségbiztosítási feladatokra a KOPINT-DATORG Informatikai és Vagyonkezelő Kft.-t.”
 
-(11)[^31]
+(9)[^28]
+
+(10)[^29]
+
+(11) A 84/2012. (IV. 21.) Korm. rendelet a következő 5/e. alcímmel egészül ki:
 
 [^21]: A 14. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^22]: A 14. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -29,7 +33,5 @@
 [^25]: A 14. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^26]: A 14. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^27]: A 14. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 14. § (8) bekezdése a 35. § (4) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^29]: A 14. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: A 14. § (10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^31]: A 14. § (11) bekezdése a 35. § (4) bekezdése alapján 2023. január 1-jén lép hatályba.
+[^28]: A 14. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 14. § (10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

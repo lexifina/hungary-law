@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-717-20-
 | 2022-01-02 | 2021-717-20-22.4 | 2010: CXXX. törvény |
 | 2022-07-01 | 2021-717-20-22.5 | 2010: CXXX. törvény |
 | 2022-07-02 | 2021-717-20-22.6 | 2010: CXXX. törvény |
+| 2023-01-01 | 2021-717-20-22.7 | 618/2022. (XII. 29.) Korm. rendelet |

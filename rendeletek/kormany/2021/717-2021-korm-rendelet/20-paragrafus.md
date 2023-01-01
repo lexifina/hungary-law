@@ -1,56 +1,37 @@
-## 19. §[^53]
-
 ## 11. Az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet módosítása
 
-20. § (1)[^54]
+20. § (1)[^51]
 
-(2)[^55]
+(2)[^52]
 
-(3)[^56]
+(3)[^53]
 
-(4)[^57]
+(4)[^54]
 
-(5)[^58]
+(5)[^55]
 
-(6)[^59]
+(6)[^56]
 
-(7)[^60]
+(7)[^57]
 
-(8)[^61]
+(8)[^58]
 
-(9)[^62]
+(9)[^59]
 
-(10)[^63]
+(10)[^60]
 
-(11)[^64]
+(11)[^61]
 
-(12)[^65]
+(12) A 451/2016. (XII. 19.) Korm. rendelet a 134/L. §-át követően a következő alcímmel egészül ki:
 
-(13)[^66]
-
-(14)[^67]
-
-(15)[^68]
-
-(16)[^69]
-
-(17)[^70]
-
-[^53]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^54]: A 20. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^55]: A 20. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^56]: A 20. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^57]: A 20. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^58]: A 20. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^59]: A 20. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^60]: A 20. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^61]: A 20. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^62]: A 20. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^63]: A 20. § (10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^64]: A 20. § (11) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^65]: A 20. § (12) bekezdése a 35. § (4) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^66]: A 20. § (13) bekezdése a 35. § (4) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^67]: A 20. § (14) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^68]: A 20. § (15) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^69]: A 20. § (16) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^70]: A 20. § (17) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 20. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 20. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: A 20. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: A 20. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^55]: A 20. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: A 20. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: A 20. § (7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: A 20. § (8) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 20. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: A 20. § (10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: A 20. § (11) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-4. melléklet a 717/2021. (XII. 20.) Korm. rendelethez[^93]
+4. melléklet a 717/2021. (XII. 20.) Korm. rendelethez[^90]
 
-[^93]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

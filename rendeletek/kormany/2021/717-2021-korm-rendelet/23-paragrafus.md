@@ -1,14 +1,13 @@
 ## 23. § Hatályát veszíti a 451/2016. (XII. 19.) Korm. rendelet
 
-a)[^75]
+a)[^70]
 
-b)[^76]
+b)[^71]
 
-c)[^77]
+c) 155. § (23) bekezdése,
 
-d)[^78]
+d)[^72]
 
-[^75]: A 23. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^76]: A 23. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^77]: A 23. § c) pontja a 35. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
-[^78]: A 23. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^70]: A 23. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: A 23. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^72]: A 23. § d) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
