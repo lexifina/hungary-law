@@ -58,21 +58,7 @@
 
 ## 1.9. az 1.7. pont szerinti beruházások előkészítésének kormányzati felelőseként a miniszterelnök kabinetfőnökét jelöli ki;
 
-## 1.10.[^3] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, az 1.7. pont szerinti beruházások előkészítési feladatainak finanszírozása érdekében a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Turisztikai fejlesztési célelőirányzat jogcímcsoport javára – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – összesen 454 474 500 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## a miniszterelnök kabinetfőnöke
-
-## Határidő: 2019. január 31.
-
-## Az elszámolási és a visszafizetési kötelezettség tekintetében
-
-## Felelős: a miniszterelnök kabinetfőnöke
-
-## Határidő: az 1.12. pont a) alpontja szerint
+## 1.10.[^3]
 
 ## 1.11. egyetért azzal, hogy az 1.7. pont szerinti előkészítési fázisokat az Önkormányzat valósítsa meg, és felkéri a kormányzati felelőst, hogy az Önkormányzat részére az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § hatálya alá tartozó támogatást nyújtson;
 
@@ -106,78 +92,11 @@
 
 ## 3. Az 1.7–1.13. pont 2019. január 1-jén lép hatályba.
 
-1. melléklet az 1837/2018. (XII. 27.) Korm. határozathoz
-
-| XV. Pénzügyminisztérium XXI. Miniszterelnöki Kabinetiroda ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2019. forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XV. |  |  |  |  |  | Pénzügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 26 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 2 |  |  |  |  |  | Központi tartalékok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 368573 |  |  |  | 4 |  |  |  |  |  | Beruházás Előkészítési Alap |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -454 474 500 |  |  |  |
-
-|  | XXI. |  |  |  |  |  | Miniszterelnöki Kabinetiroda |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 360239 |  |  |  | 11 |  |  |  |  |  | Turisztikai fejlesztési célelőirányzat |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  | 454 474 500 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XXI. |  |  |  |  |  | Miniszterelnöki Kabinetiroda |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 360239 |  |  |  | 11 |  |  |  |  |  | Turisztikai fejlesztési célelőirányzat |  |  |  |  |  |  |  |  | 454 474 500 |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az előirányzatmódosítás érvényessége: a.) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 5 példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) |  | Összesen |  |  |  |  |  |  |  |  | I. n.év | II. n.év | III. n.év | IV. n.év |
-
-| Fejezetet irányító szerv |  | 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Állami Számvevőszék |  | 1 példány |  |  | teljesítményarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Magyar Államkincstár |  | 1 példány |  |  | egyéb: | 2019. január 31. |  | 454 474 500 |  |  |  |  |  |  |  |  | 454 474 500 |  |  |  |
-
-| Pénzügyminisztérium |  |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1. melléklet az 1837/2018. (XII. 27.) Korm. határozathoz[^6]
 
 [^1]: Az 1.6. pont az 1290/2019. (V. 17.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
 [^2]: Az 1.8. pont az 1290/2019. (V. 17.) Korm. határozat 1. pontjával megállapított, záró szövegrésze az 1603/2021. (VIII. 16.) Korm. határozat 1. pont a) alpontja, az 1034/2022. (II. 1.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
-[^3]: Az 1.10. pont az 1016/2019. (I. 28.) Korm. határozat 7. pontja, az 1603/2021. (VIII. 16.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
+[^3]: Az 1.10. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^4]: Az 1.12. pont nyitó szövegrésze az 1290/2019. (V. 17.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
 [^5]: Az 1.12. pont a) alpontja az 1290/2019. (V. 17.) Korm. határozat 2. pont c) alpontja, az 1603/2021. (VIII. 16.) Korm. határozat 1. pont c) alpontja, az 1034/2022. (II. 1.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^6]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
