@@ -30,6 +30,8 @@ b) második magánútlevél és hivatalos útlevél érvényességi ideje legfel
 
 (7) A hivatalos útlevél adattartalma – a hajós szolgálati útlevél kivételével – kiegészül a használatára jogosult személy diplomáciai rangjának, illetve az útlevél kiállítására alapot szolgáltató tisztségének vagy egyéb jogcímének megjelölésével.
 
+(7a) Kérelemre a magánútlevél a nemzetiséghez tartozó személy nevét – az anyakönyvi bejegyzésben foglaltnak megfelelően – nemzetisége nyelvén is tartalmazza.
+
 (8) Az útlevélbe az útlevélhatóság, a rendőrség, a külföldi hatóság, valamint jogszabályban erre felhatalmazott szerv tehet bejegyzést.
 
 (9) Az útlevél érvényességének időtartama nem hosszabbítható meg.
