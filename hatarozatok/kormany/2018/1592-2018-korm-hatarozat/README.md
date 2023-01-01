@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1592-30
 | 2018-11-24 | 2018-1592-30-22.2 | 2010: CXXX. törvény |
 | 2020-02-20 | 2018-1592-30-22.3 | 1053/2020. (II. 19.) Korm. határozat |
 | 2021-04-29 | 2018-1592-30-22.4 | 1213/2021. (IV. 29.) Korm. határozat |
+| 2023-01-01 | 2018-1592-30-22.10 | 2011: CXCV. törvény |

@@ -58,13 +58,7 @@
 
 ## az egyes projektelemek megvalósítása vonatkozásában: az 1. melléklet 1. pontjában foglalt táblázatban szereplő határidők szerint
 
-## 1.4. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: 2019. évi Kvtv.) 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím 51. Debreceni Észak-Nyugati Gazdasági Övezet infrastruktúra kapcsolatainak javítása érdekében szükséges önkormányzati feladatok ellátása jogcímcsoporttal történő kiegészítését;
-
-## Felelős: pénzügyminiszter
-
-## innovációért és technológiáért felelős miniszter
-
-## Határidő: 2019. január 15.
+## 1.4.[^1]
 
 ## 1.5. egyetért azzal, hogy az 1. melléklet 1. pontjában foglalt táblázat szerinti, „KÖZÚT-1”, „KÖZÚT-2” és „KÖZÚT-3” azonosítóval jelölt közúti projektek megvalósítása, valamint a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak finanszírozása érdekében szükséges, összesen 44 115 000 000 forint központi költségvetési forrás kerüljön biztosításra a 2019–2023. évek között, az alábbi, költségvetési évek szerinti bontásban:
 
@@ -148,7 +142,7 @@
 
 ## az egyes projektelemek megvalósítása vonatkozásában: az 1. melléklet 1. pontjában foglalt táblázatban szereplő határidő szerint
 
-## 2.4.[^1] egyetért azzal, hogy a vasúti projektek megvalósítása, valamint a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak finanszírozása érdekében szükséges, összesen 73 183 895 290 forint központi költségvetési forrás kerüljön biztosításra a 2019–2021. közötti években az alábbi, költségvetési évek szerinti bontásban:
+## 2.4.[^2] egyetért azzal, hogy a vasúti projektek megvalósítása, valamint a kifizetésekhez kapcsolódó pénzügyi tranzakciós illeték és kincstári díjak finanszírozása érdekében szükséges, összesen 73 183 895 290 forint központi költségvetési forrás kerüljön biztosításra a 2019–2021. közötti években az alábbi, költségvetési évek szerinti bontásban:
 
 ## a) a 2019. évben 6 340 490 290 forint,
 
@@ -156,7 +150,7 @@
 
 ## c) a 2021. évben 37 813 222 025 forint;
 
-## 2.5.[^2]
+## 2.5.[^3]
 
 ## 2.6. felhívja a pénzügyminisztert, valamint az innovációért és technológiáért felelős minisztert, hogy gondoskodjanak a 2.4. pont b) és c) alpontjában meghatározott forrásnak a 2020. és 2021. évi központi költségvetés Innovációs és Technológiai Minisztérium fejezet, vasúthálózat fejlesztését szolgáló fejezeti kezelésű előirányzata javára történő biztosításáról;
 
@@ -166,9 +160,9 @@
 
 ## Határidő: az adott évi központi költségvetés tervezése során
 
-## 2.7.[^3] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az innovációért és technológiáért felelős miniszter a 2.1., 2.2. és a 2.3. pontban foglalt feladatok finanszírozása érdekében a 2019–2021. évek tekintetében összesen legfeljebb 73 128 375 974 forint összegben kötelezettséget vállaljon.
+## 2.7.[^4] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az innovációért és technológiáért felelős miniszter a 2.1., 2.2. és a 2.3. pontban foglalt feladatok finanszírozása érdekében a 2019–2021. évek tekintetében összesen legfeljebb 73 128 375 974 forint összegben kötelezettséget vállaljon.
 
-## 2.8.[^4] felhívja a pénzügyminisztert, valamint az innovációért és technológiáért felelős minisztert, hogy Debrecen Megyei Jogú Város Önkormányzata 2. pont szerinti vasúti projektekhez kapcsolódó területszerzési és előkészítési feladatainak megvalósítása érdekében gondoskodjanak a 3. pont szerinti közmű projektek megvalósítása során fel nem használt forrásból 309 399 173 forint biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím javára, az államháztartásról szóló 2011. évi CXCV. törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 152. § (2) bekezdése szerint – az Innovációs és Technológiai Minisztérium által – teljesített befizetés terhére, az Ávr. 153. §-ában foglaltak szerint;
+## 2.8.[^5] felhívja a pénzügyminisztert, valamint az innovációért és technológiáért felelős minisztert, hogy Debrecen Megyei Jogú Város Önkormányzata 2. pont szerinti vasúti projektekhez kapcsolódó területszerzési és előkészítési feladatainak megvalósítása érdekében gondoskodjanak a 3. pont szerinti közmű projektek megvalósítása során fel nem használt forrásból 309 399 173 forint biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XVII. Innovációs és Technológiai Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 32. Közlekedési ágazati programok alcím javára, az államháztartásról szóló 2011. évi CXCV. törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 152. § (2) bekezdése szerint – az Innovációs és Technológiai Minisztérium által – teljesített befizetés terhére, az Ávr. 153. §-ában foglaltak szerint;
 
 ## Felelős: pénzügyminiszter
 
@@ -176,7 +170,7 @@
 
 ## Határidő: a fel nem használt forrás rendelkezésre állását követően azonnal
 
-## 2.9.[^5] felhívja az innovációért és technológiáért felelős minisztert, hogy a 2.8. alpont szerinti feladat végrehajtása érdekében az ott megjelölt összeg terhére gondoskodjon a támogatás biztosításáról Debrecen Megyei Jogú Város Önkormányzata részére, a vonatkozó támogatási jogviszonyok módosításával;
+## 2.9.[^6] felhívja az innovációért és technológiáért felelős minisztert, hogy a 2.8. alpont szerinti feladat végrehajtása érdekében az ott megjelölt összeg terhére gondoskodjon a támogatás biztosításáról Debrecen Megyei Jogú Város Önkormányzata részére, a vonatkozó támogatási jogviszonyok módosításával;
 
 ## Felelős: innovációért és technológiáért felelős miniszter
 
@@ -200,7 +194,7 @@
 
 ## Határidő: azonnal
 
-## 3.3.[^6] egyetért azzal, hogy a belügyminiszter a 3.2. pont szerint átcsoportosított előirányzat terhére, az abban meghatározott támogatási célra, külön pályázat és kérelem benyújtása nélkül, támogatási előlegként az Ávr. 101/A. §-a hatálya alá tartozó egyedi támogatást nyújtson Debrecen Megyei Jogú Város Önkormányzata részére, az 1. melléklet 2. pontjában foglalt táblázat szerinti, „KÖZMŰ-3” azonosítóval jelölt közmű projekt megvalósítása érdekében, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján;
+## 3.3.[^7] egyetért azzal, hogy a belügyminiszter a 3.2. pont szerint átcsoportosított előirányzat terhére, az abban meghatározott támogatási célra, külön pályázat és kérelem benyújtása nélkül, támogatási előlegként az Ávr. 101/A. §-a hatálya alá tartozó egyedi támogatást nyújtson Debrecen Megyei Jogú Város Önkormányzata részére, az 1. melléklet 2. pontjában foglalt táblázat szerinti, „KÖZMŰ-3” azonosítóval jelölt közmű projekt megvalósítása érdekében, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján;
 
 ## Felelős: belügyminiszter
 
@@ -228,23 +222,23 @@
 
 ## 4. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 5.[^7]
+## 5.[^8]
 
-## 6.[^8]
+## 6.[^9]
 
-## 7.[^9]
+## 7.[^10]
 
-## 8.[^10]
+## 8.[^11]
 
-## 9.[^11]
+## 9.[^12]
 
-## 10.[^12]
+## 10.[^13]
 
-## 11.[^13]
+## 11.[^14]
 
-## 12.[^14]
+## 12.[^15]
 
-1. melléklet az 1592/2018. (XI. 22.) Korm. határozathoz[^15]
+1. melléklet az 1592/2018. (XI. 22.) Korm. határozathoz[^16]
 
 1. A debreceni Észak-Nyugati Gazdasági Övezet infrastrukturális fejlesztése keretében tervezett
 
@@ -326,18 +320,19 @@ közmű projektek
 
 | 7. | KÖZMŰ-5 | Az Észak-Nyugati Gazdasági Övezet területén meglévő távközlési infrastruktúra kiváltásával és új távközlési hálózat kiépítése [1464/2018. (IX. 25.) Korm. határozat 5. pont e) alpont] | Debrecen MJV | 2019.09.30. |
 
-[^1]: A 2.4. pont az 1053/2020. (II. 19.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 2.5. pontot az 1053/2020. (II. 19.) Korm. határozat 4. pontja hatályon kívül helyezte.
-[^3]: A 2.7. pont az 1053/2020. (II. 19.) Korm. határozat 2. pontjával megállapított szöveg.
-[^4]: A 2.8. pontot az 1213/2021. (IV. 29.) Korm. határozat 2. pontja iktatta be.
-[^5]: A 2.9. pontot az 1213/2021. (IV. 29.) Korm. határozat 2. pontja iktatta be.
-[^6]: A 3.3. pont az 1213/2021. (IV. 29.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^7]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: Az 1. melléklet az 1053/2020. (II. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1.4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2.4. pont az 1053/2020. (II. 19.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 2.5. pontot az 1053/2020. (II. 19.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^4]: A 2.7. pont az 1053/2020. (II. 19.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: A 2.8. pontot az 1213/2021. (IV. 29.) Korm. határozat 2. pontja iktatta be.
+[^6]: A 2.9. pontot az 1213/2021. (IV. 29.) Korm. határozat 2. pontja iktatta be.
+[^7]: A 3.3. pont az 1213/2021. (IV. 29.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^8]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: Az 1. melléklet az 1053/2020. (II. 19.) Korm. határozat 3. pontja szerint módosított szöveg.
