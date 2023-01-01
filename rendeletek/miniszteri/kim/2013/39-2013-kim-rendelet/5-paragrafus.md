@@ -4,11 +4,11 @@
 
 (3) A kormányablak ügyintéző a kártya elvesztését, megrongálódását, megsemmisülését, illetéktelen birtokába kerülését haladéktalanul köteles bejelenteni a járási hivatal vezetőjének.
 
-(4)[^10] A (3) bekezdésben meghatározott esetben a járási hivatal vezetője haladéktalanul, de legkésőbb a tudomásszerzés napját követő munkanapon a BM által rendszeresített formanyomtatványon köteles tájékoztatni a BM-et a szükséges intézkedések végrehajtása érdekében.
+(4)[^11] A (3) bekezdésben meghatározott esetben a járási hivatal vezetője haladéktalanul, de legkésőbb a tudomásszerzés napját követő munkanapon a BM által rendszeresített formanyomtatványon köteles tájékoztatni a BM-et a szükséges intézkedések végrehajtása érdekében.
 
-(5)[^11] A BM a SMART kártya pótlását 5 munkanapon belül biztosítja.
+(5)[^12] A BM a SMART kártya pótlását 5 munkanapon belül biztosítja.
 
 (6) A kormányablak ügyintéző a kártyát a hozzáférési jogosultsága megszűnésekor, az utolsó kormányablak ügyintézői munkakörben töltött munkanapján, valamint új kártya kibocsátása esetén köteles leadni a járási hivatal vezetőjének, aki az átvételt írásban igazolja, és a 3. § (6) bekezdése szerint jár el.
 
-[^10]: Az 5. § (4) bekezdése a 37/2016. (XII. 29.) MvM rendelet 5. § (2) bekezdés b) és c) pontja szerint módosított szöveg.
-[^11]: Az 5. § (5) bekezdése a 37/2016. (XII. 29.) MvM rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^11]: Az 5. § (4) bekezdése a 37/2016. (XII. 29.) MvM rendelet 5. § (2) bekezdés b) és c) pontja szerint módosított szöveg.
+[^12]: Az 5. § (5) bekezdése a 37/2016. (XII. 29.) MvM rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.

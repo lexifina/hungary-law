@@ -1,4 +1,4 @@
-4. § (1)[^9] A BM a 3. § szerinti értesítés alapján 5 munkanapon belül gondoskodik a hozzáférés igényelt terjedelemben történő biztosításáról vagy visszavonásáról és erről – új kormányablak ügyintéző esetén a felhasználónév és a SMART kártya megküldésével – tájékoztatja a járási hivatal vezetőjét.
+4. § (1)[^10] A BM a 3. § szerinti értesítés alapján 5 munkanapon belül gondoskodik a hozzáférés igényelt terjedelemben történő biztosításáról vagy visszavonásáról és erről – új kormányablak ügyintéző esetén a felhasználónév és a SMART kártya megküldésével – tájékoztatja a járási hivatal vezetőjét.
 
 (2) A járási hivatal vezetője nyilvántartást vezet azokról a kormányablak ügyintézőkről, akik hozzáféréssel rendelkeznek a kormányablakból elérhető nyilvántartási rendszerekhez. Az e bekezdés szerinti nyilvántartás tartalmazza a kormányablak ügyintéző:
 
@@ -14,4 +14,4 @@ e) hozzáférési jogosultságával érintett nyilvántartási rendszer megnevez
 
 (3) A (2) bekezdés szerinti nyilvántartás adatait a hozzáférési jogosultság megszűnésétől számított 5 évig kell kezelni.
 
-[^9]: A 4. § (1) bekezdése a 37/2016. (XII. 29.) MvM rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^10]: A 4. § (1) bekezdése a 37/2016. (XII. 29.) MvM rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.

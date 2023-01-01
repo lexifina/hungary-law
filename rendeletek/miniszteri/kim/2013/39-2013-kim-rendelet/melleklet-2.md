@@ -1,6 +1,6 @@
 2. melléklet a 39/2013. (XII. 30.) KIM rendelethez
 
-## Az okmánykiadáshoz biztosított speciális eszközök
+Az okmánykiadáshoz biztosított speciális eszközök
 
 1. Photoshop munkahelyre (az általános munkahelyre biztosított hálózati lehetőségeken felül):
 
@@ -30,11 +30,11 @@ b) bárkódolvasó,
 
 c) biztonsági nyomtatók (biztonsági elemekkel ellátott tintasugaras és lézernyomtatók, biztonsági festékkel töltött tintapatronok és biztonsági adalékot tartalmazó nyomtatóegységek),
 
-d)[^38]
+d)[^36]
 
 e) HW alapú autentikációhoz kártyaolvasó,
 
-f)[^39] személyi igazolvány elektronikus tároló elemének adattartalmát író-olvasó periféria.
+f)[^37] személyi igazolvány elektronikus tároló elemének adattartalmát író-olvasó periféria.
 
 3. Okmánykiadó munkahelyekről elérhetően:
 
@@ -46,5 +46,5 @@ b) papírvágó (asztali).
 
 a) páncélszekrény (biankó okmányok, egyéb biztonságos tárolást igénylő tárgyak részére).
 
-[^38]: A 2. melléklet 2. pont d) alpontját a 11/2015. (II. 27.) MvM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
-[^39]: A 2. melléklet 2. pont f) alpontját a 19/2016. (VI. 29.) MvM rendelet 5. § (2) bekezdése iktatta be.
+[^36]: A 2. melléklet 2. pont d) alpontját a 11/2015. (II. 27.) MvM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^37]: A 2. melléklet 2. pont f) alpontját a 19/2016. (VI. 29.) MvM rendelet 5. § (2) bekezdése iktatta be.

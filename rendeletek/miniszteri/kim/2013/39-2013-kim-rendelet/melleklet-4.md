@@ -1,6 +1,6 @@
-4. melléklet a 39/2013. (XII. 30.) KIM rendelethez[^41]
+4. melléklet a 39/2013. (XII. 30.) KIM rendelethez[^39]
 
-## A települési ügysegédek részére biztosított eszközök és szolgáltatások
+A települési ügysegédek részére biztosított eszközök és szolgáltatások
 
 1. Települési ügysegédenként
 
@@ -8,9 +8,9 @@ a) 1 darab hordozható számítógép [legalább 14”-os képernyő, hordozhat�
 
 b) mobil internet elérés
 
-c)[^42]
+c)[^40]
 
-d)[^43] mobiltelefon (okostelefon kategória, legalább hat megapixel felbontású fényképkészítési lehetőséggel)
+d)[^41] mobiltelefon (okostelefon kategória, legalább hat megapixel felbontású fényképkészítési lehetőséggel)
 
 2. Minden irodai ügyfélfogadási helyszínen
 
@@ -22,11 +22,11 @@ c) NTG hálózat elérhetősége
 
 bankkártyás fizetést lehetővé tevő terminál, ahol a c) alpont szerinti hálózati kapcsolat rendelkezésre áll.
 
-d)[^44] bankkártyás fizetést lehetővé tevő terminál, ahol a c) alpont szerinti hálózati kapcsolat rendelkezésre áll.
+d)[^42] bankkártyás fizetést lehetővé tevő terminál, ahol a c) alpont szerinti hálózati kapcsolat rendelkezésre áll.
 
 3. Kormányhivatalonként 5 darab okmányok, bizonyítványok digitalizálására is alkalmas hordozható kézi scanner
 
-4.[^45] Biztosítandó informatikai szolgáltatások:
+4.[^43] Biztosítandó informatikai szolgáltatások:
 
 a) internetelérés egyes szakrendszeri funkciók használatához nyomtatási lehetőség biztosításával,
 
@@ -56,11 +56,11 @@ m) elektronikus dokumentum ügyintéző általi hitelesítési lehetősége (azo
 
 n) irat megtekintési, AVDH irathitelesítési és ügyfélkapus feltöltési szolgáltatás elérése,
 
-o)[^46] ügyfélkapu regisztrációs szolgáltatás elérése.
+o)[^44] ügyfélkapu regisztrációs szolgáltatás elérése.
 
-[^41]: A 4. mellékletet a 18/2015. (III. 31.) MvM rendelet 3. § (4) bekezdése iktatta be.
-[^42]: A 4. melléklet 1. pont c) alpontját a 19/2016. (VI. 29.) MvM rendelet 5. § (4) bekezdése hatályon kívül helyezte.
-[^43]: A 4. melléklet 1. pont d) alpontja a 19/2016. (VI. 29.) MvM rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^44]: A 4. melléklet 2. pont d) alpontját a 19/2016. (VI. 29.) MvM rendelet 5. § (4) bekezdése iktatta be.
-[^45]: A 4. melléklet 4. pontja a 19/2016. (VI. 29.) MvM rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^46]: A 4. melléklet 4. pont o) alpontját a 13/2017. (IV. 10.) MvM rendelet 1. §-a iktatta be.
+[^39]: A 4. mellékletet a 18/2015. (III. 31.) MvM rendelet 3. § (4) bekezdése iktatta be.
+[^40]: A 4. melléklet 1. pont c) alpontját a 19/2016. (VI. 29.) MvM rendelet 5. § (4) bekezdése hatályon kívül helyezte.
+[^41]: A 4. melléklet 1. pont d) alpontja a 19/2016. (VI. 29.) MvM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^42]: A 4. melléklet 2. pont d) alpontját a 19/2016. (VI. 29.) MvM rendelet 5. § (4) bekezdése iktatta be.
+[^43]: A 4. melléklet 4. pontja a 19/2016. (VI. 29.) MvM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^44]: A 4. melléklet 4. pont o) alpontját a 13/2017. (IV. 10.) MvM rendelet 1. §-a iktatta be.
