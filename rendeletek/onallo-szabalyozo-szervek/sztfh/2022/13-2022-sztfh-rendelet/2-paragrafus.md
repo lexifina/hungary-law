@@ -14,6 +14,8 @@
 
 6. hulladék: a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 2. § (1) bekezdés 23. pontjában meghatározott hulladék;
 
+6a.[^1] hulladék birtokosa: a bányászati hulladék termelője vagy az a természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet, akinek a hulladék a birtokában van;
+
 7. hulladékkezelő létesítmény: a szilárd vagy folyékony halmazállapotú, oldatban vagy szuszpenzióban lévő bányászati hulladéknak az a)–d) pontban meghatározott időtartamon túl történő gyűjtésére vagy elhelyezésére szolgáló, a bányafelügyelet által engedélyezett kijelölt terület. Ezek a létesítmények magukban foglalnak bármely gátat vagy egyéb, tárolásra, visszatartásra, elkülönítésre szolgáló, illetve a létesítményt egyéb módon szolgáló építményt, továbbá – bár nem kizárólagosan – a meddőhányókat és tározókat, de nem beleértve a bányatérségeket, amelyekbe a hulladékot az ásvány kitermelését követően rehabilitációs és építési célból visszatöltik
 
 a) időkorlát nélkül az „A” osztályba sorolt hulladékkezelő létesítmények és a hulladékgazdálkodási tervben veszélyesnek minősített hulladékot kezelő létesítmények esetében,
@@ -41,3 +43,5 @@ d) három évet meghaladó időtartamnál a nem szennyezett talaj; a nem veszél
 15. üzemeltető: az a természetes vagy jogi személy, aki a bányászati hulladék kezeléséért felelős, beleértve a bányászati hulladék ideiglenes tárolását, valamint a működési és a bezárás utáni időszakot is;
 
 16. veszélyes hulladék: a Ht. 2. § (1) bekezdés 48. pontjában meghatározott hulladék.
+
+[^1]: A 2. § 6a. pontját a 40/2022. (XII. 19.) SZTFH rendelet 29. §-a iktatta be.
