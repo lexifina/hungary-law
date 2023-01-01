@@ -20,7 +20,7 @@ h) közlekedési, valamint
 
 i) ásványvagyon-gazdálkodási
 
-## szempontokat figyelembe véve, meghatározásra kerüljenek azok a terület- és térrészek, ahol bányászati tevékenység nem folytatható, valamint hogy megállapítsa a bányászati tevékenység folytatásának pályázati kiírásban előírni szükséges követelményeit.
+szempontokat figyelembe véve, meghatározásra kerüljenek azok a terület- és térrészek, ahol bányászati tevékenység nem folytatható, valamint hogy megállapítsa a bányászati tevékenység folytatásának pályázati kiírásban előírni szükséges követelményeit.
 
 (3) A vizsgálat lefolytatása nem mentesít a tevékenység megkezdéséhez szükséges engedélyezési eljárások lefolytatásának kötelezettsége alól.
 

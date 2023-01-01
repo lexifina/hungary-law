@@ -1,18 +1,16 @@
-## A jelentés elkészítésében közreműködő szervek, valamint a véleményezés és adatszolgáltatás köre
-
 |  | A | B |
 
 | 1. | Az adatszolgáltatás és véleményezés köre | A jelentés elkészítésében közreműködő szerv |
 
-| 2. | A tervezett koncessziós tevékenység érint-e oltalom alatt álló területet (védett természeti terület, Natura 2000 terület), az érintett védett természeti területekre, Natura 2000 területekre vonatkozó adatok, az érintett védett természeti területek, Natura 2000 területek térképi ábrázolása. | környezetvédelmi és természetvédelmi hatáskörében eljáró megyei kormányhivatal |
+| 2. | A tervezett koncessziós tevékenység érint-e oltalom alatt álló területet (védett természeti terület, Natura 2000 terület), az érintett védett természeti területekre, Natura 2000 területekre vonatkozó adatok, az érintett védett természeti területek, Natura 2000 területek térképi ábrázolása. | környezetvédelmi és természetvédelmi hatáskörében eljáró vármegyei kormányhivatal |
 
 | 3. | Vízbázisvédelmi terület, védőidom aktualizálása, kiegészítése. A tervezett tevékenység a felszíni és felszín alatti víztestek állapotára, hasznosítási lehetőségeire gyakorolt hatása. | katasztrófavédelmi igazgatóság vízgazdálkodási és vízvédelmi hatáskörében eljárva |
 
 | 4. | A területen és annak környezetében levő gyógyhelyek ásvány-, gyógyvíz, gyógygáz és gyógyiszap lelőhelyek megadása. | népegészségügyi feladatkörében eljáró Budapest Főváros Kormányhivatala |
 
-| 5. | A területen található termőföld mennyiségi védelmére vonatkozó követelmények. | ingatlanügyi, földügyi igazgatási hatáskörében eljáró fővárosi és megyei kormányhivatal |
+| 5. | A területen található termőföld mennyiségi védelmére vonatkozó követelmények. | ingatlanügyi, földügyi igazgatási hatáskörében eljáró fővárosi és vármegyei kormányhivatal |
 
-| 6. | A területen található erdő és a védelmére vonatkozó követelmények. | erdészeti hatáskörében eljáró megyei kormányhivatal |
+| 6. | A területen található erdő és a védelmére vonatkozó követelmények. | erdészeti hatáskörében eljáró vármegyei kormányhivatal |
 
 | 7. | A területen elhelyezkedő országos és helyi közutak közúti forgalmának biztonságára vonatkozó követelmények. | a közút kezelője |
 
@@ -26,11 +24,11 @@
 
 | 12. | A tervezett koncessziós tevékenység érint-e helyi természetvédelmi oltalom alatt álló (önkormányzati rendeletben meghatározott) területet, és a helyi építési szabályzatnak való megfelelése. | Települési önkormányzat jegyzője, fővárosban a főjegyző |
 
-| 13. | A kulturális örökségvédelmi hatósági nyilvántartás alapján, a területen található nyilvántartott vagy védetté nyilvánított régészeti lelőhelyre, régészeti védőövezetre vagy műemlékre és műemléki területre vonatkozó követelmények. | kulturális örökségvédelmi hatáskörében eljáró fővárosi és megyei kormányhivatal |
+| 13. | A kulturális örökségvédelmi hatósági nyilvántartás alapján, a területen található nyilvántartott vagy védetté nyilvánított régészeti lelőhelyre, régészeti védőövezetre vagy műemlékre és műemléki területre vonatkozó követelmények. | kulturális örökségvédelmi hatáskörében eljáró fővárosi és vármegyei kormányhivatal |
 
 2. melléklet a 25/2022. (I. 31.) SZTFH rendelethez
 
-## A komplex érzékenységi és terhelhetőségi vizsgálati tanulmány tartalma
+A komplex érzékenységi és terhelhetőségi vizsgálati tanulmány tartalma
 
 1. A koncessziós pályázatra javasolt terület jellemzése.
 
