@@ -4,7 +4,7 @@
 
 (3) Nem minősül belföldi kiküldetésnek, ha a bíró a feladatait rendszeresen a beosztásáról szóló okiratban szereplő szolgálati helyén vagy a kinevezési okiratában meghatározott szolgálati helyén kívül, de
 
-a) az ítélőtábla – kivéve a c) pontban meghatározott ítélőtábla – mint szolgálati hely esetében az ítélőtábla székhelye szerinti megye területén,
+a) az ítélőtábla – kivéve a c) pontban meghatározott ítélőtábla – mint szolgálati hely esetében az ítélőtábla székhelye szerinti vármegye területén,
 
 b) a törvényszék – kivéve a c) pontban meghatározott törvényszéket – mint szolgálati hely esetében az érintett törvényszék illetékességi területén,
 

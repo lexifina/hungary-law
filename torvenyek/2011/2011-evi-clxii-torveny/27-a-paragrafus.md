@@ -10,7 +10,7 @@ d) az ügyészségre,
 
 e) központi államigazgatási szervhez,
 
-f) fővárosi és megyei kormányhivatalhoz
+f) fővárosi és vármegyei kormányhivatalhoz
 
 beoszthatja.
 

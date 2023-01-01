@@ -8,9 +8,9 @@ c) az ESZSZ, az UNICE és a CEEP által a határozott ideig tartó munkaviszonyr
 
 d) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelvnek,
 
-e) a BUSINESSEUROPE, az UEAPME, a CEEP és az ESZSZ által a szülői szabadságról kötött felülvizsgált keretmegállapodás végrehajtásáról és a 96/34/EK hatályon kívül helyezéséről szóló, 2010. március 8-i 2010/18/EU tanácsi irányelvnek,
+e) a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és a tanácsi irányelvnek,
 
-f) a munkaadónak a munkavállalóval szembeni, a szerződés, illetve a munkaviszony feltételeire vonatkozó tájékoztatási kötelezettségéről szóló, 1991. október 14-i 91/533/EGK tanácsi irányelvnek,
+f) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és a tanácsi irányelvnek,
 
 g) 40. § (5) bekezdése az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelvnek való
 
