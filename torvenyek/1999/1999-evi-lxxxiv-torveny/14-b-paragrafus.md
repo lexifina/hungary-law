@@ -4,7 +4,7 @@ a) a polgárok személyi adatainak és lakcímének nyilvántartásából,
 
 b) az útiokmány-nyilvántartásból,
 
-c) a központi idegenrendészeti nyilvántartásból,
+c) a központi idegenrendészeti nyilvántartásból a harmadik országbeli állampolgárok tekintetében a természetes személyazonosító adatokat, az úti okmány azonosító adatokat, az érvényes tartózkodási engedély számára, sorozatszámára és érvényességi idejére (kezdete és vége) vonatkozó adatokat, valamint a szálláshely címadatokat,
 
 d) a közúti közlekedési nyilvántartás engedély-nyilvántartásából a 8. § (1) bekezdés a) pont aa)–ad) alpontjában, továbbá a 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokat érintően,
 

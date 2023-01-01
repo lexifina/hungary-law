@@ -1,0 +1,3 @@
+5/A. § (1) A közúti közlekedés ellenőrzésére jogosult hatóság a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott esetekben a vezetési jogosultság azonnali felfüggesztését a helyszínen bejegyzi az engedély-nyilvántartásba.
+
+(2) A közúti közlekedés ellenőrzésére jogosult hatóság a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott esetekben, a jármű forgalomban való részvétele jogosultságának azonnali felfüggesztését a helyszínen bejegyzi a járműnyilvántartásba.

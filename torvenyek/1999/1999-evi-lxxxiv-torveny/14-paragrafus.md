@@ -28,7 +28,7 @@ eb)
 
 ec) a jármű forgalomba helyezés előtti és időszakos vizsgálata során, továbbá a jármű-honosítási eljárásban megállapított, a 9. § (2) bekezdés a), b), d) és g) pontjában meghatározott adatairól,
 
-ed)
+ed) a bontási átvételi igazolás adatairól,
 
 f) a biztosító elektronikus úton a külön jogszabályban meghatározott kötelező gépjármű-felelősségbiztosítási kötvény adatairól;
 
@@ -40,20 +40,22 @@ ha) a járművezetőnek a 8. § (1) bekezdés a) pont aa)–ae) alpontjában meg
 
 hb) az engedélynek a 8. § (1) bekezdés b) pont bd) alpontjában meghatározott adatairól,
 
-hc) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról és érvényességi idejéről,
+hc) a „Gépjármű-vezetői képesítési igazolvány” sorszámáról, kategóriájáról, kiadásának dátumáról, érvényességi idejéről, kiállító országáról, valamint az azon szereplő vezetői engedély számáról, típusáról, kiállító országáról, továbbá a 95-ös harmonizált uniós kódról és annak érvényességi idejéről,
 
 hd) a járművezető 8. § (1) bekezdés a) pont am) alpontjában meghatározott, járművezetői képzés és vizsgáztatás folyamatában tett nyilatkozatairól,
 
 i) a gondnokoltak nyilvántartásának adatkezelője elektronikus úton a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény 3. § (1) bekezdés a) pont aa)–ae) alpontjában, valamint b)–e) pontjában meghatározott adatokról, a cselekvőképesség, valamint a közlekedésbiztonsági alkalmasság fennállásának ellenőrzése céljából,
 
-j) a bűnügyi nyilvántartó szerv elektronikus úton a 8. § (1) bekezdés a) pont ak) alpontjában meghatározott adatokról.
+j)
 
 k) a vizsgálatot végző szerv elektronikus úton a 8. § (1) bekezdés a) pont ae) alpontjában meghatározott egészségi alkalmassági adatokról és azok változásáról az Elektronikus Egészségügyi Szolgáltatási Téren keresztül,
 
-l) a Magyar Vöröskereszt fővárosi, megyei szervezete elektronikus úton a 8. § (1) bekezdés a) pont al) alpontjában foglalt adatokról,
+l) a Magyar Vöröskereszt fővárosi, vármegyei szervezete elektronikus úton a 8. § (1) bekezdés a) pont al) alpontjában foglalt adatokról,
 
 m) a személyiadat- és lakcímnyilvántartást kezelő szerv a járművezető 8. § (1) bekezdés a) pont am) alpontjában meghatározott, az anyakönyvvezetőnél a házasságkötési szándék bejelentésekor tett nyilatkozatairól.
 
 n) a kötvénynyilvántartó szerv elektronikusan a 9. § (2a) bekezdésében, illetve a 9/D. § (4a) bekezdésében meghatározott adatokról.
 
 (3) A Központi Ügyfél-regisztrációs Nyilvántartás regisztrációhoz tartozó tárhelyszolgáltatás kijelölt szolgáltatója a nyilvántartó természetes személyazonosító adatokat tartalmazó elektronikus kérelmére megküldi a nyilvántartó részére a természetes személy kapcsolati kódját és tárhely-azonosítóját. Az adatszolgáltatás adatait a nyilvántartó a járművezetővel vagy járművezető-jelölttel, a jármű tulajdonosával (üzembentartójával), valamint a parkolási igazolvány jogosultjával való elektronikus úton történő kapcsolatfelvételre használhatja fel.
+
+(4) A vezetői engedély kiadása, cseréje, meghosszabbítása, pótlása, honosítása és visszahonosítása során, a közlekedési igazgatási hatóság és a nyilvántartó a közlekedésbiztonsági alkalmasság vizsgálata céljából, informatikai adatkapcsolat útján, térítésmentesen adatot igényelhet és vehet át a bűnügyi nyilvántartási rendszerből kizárólag azon adatra vonatkozóan, hogy az adatigénylés időpontjában a járművezető vagy a járművezető-jelölt kényszergyógykezelés hatálya alatt áll-e.

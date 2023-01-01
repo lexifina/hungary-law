@@ -50,7 +50,7 @@ t) az anyakönyvvezető a személyazonosság ellenőrzése, az elhunyt személy 
 
 u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a), b) és e) pontjában, valamint (2) bekezdés a)–c) pontjában, valamint a 9/D. § (1) bekezdés a)–b) pontjában, (2) bekezdés a)–b) pontjában és (3) bekezdésében megjelölt adatokat térítésmentesen;
 
-v) a környezetvédelmi és természetvédelmi hatóság az engedély nélküli hulladéklerakással összefüggő feladatai ellátásához a 9. § (1) és (1a) bekezdésében és a 9/D. § (1) bekezdésében megjelölt adatokat;
+v) a hulladékgazdálkodási hatóság az engedély nélküli hulladéklerakással összefüggő feladatai ellátásához a 9. § (1) és (1a) bekezdésében, a 9. § (2) bekezdés a)–b) és d)–e) pontjában, valamint a 9/D. § (1) bekezdésében megjelölt adatokat.
 
 w) a büntetés-végrehajtási intézet a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a 8. § (1) bekezdés a) pont aa)–ad), af) és ag) alpontjában, valamint a b) pont ba) és bb) alpontjában foglalt adatokat;
 
