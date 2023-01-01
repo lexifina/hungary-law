@@ -38,19 +38,7 @@ a) irányítása alatt az Országút folyóirat megalapításával,
 
 b) feladatellátása keretében műtárgyak, hagyatékok állam általi megvásárlásához, feldolgozásához és azok bemutatásához szükséges forrás biztosításával;
 
-6. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet
-
-a) XX. Emberi Erőforrások Minisztériuma fejezetet a 8. Egyéb történetkutató intézetek címmel egészíti ki,
-
-b) XX. Emberi Erőforrások Minisztériuma fejezet, 8. Rendszerváltás Történetét Kutató Intézet és Archívum cím besorolását a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 8. Egyéb történetkutató intézetek cím, 1. Rendszerváltás Történetét Kutató Intézet és Archívum alcímre változtatja,
-
-c) XX. Emberi Erőforrások Minisztériuma fejezet, 9. VERITAS Történetkutató Intézet cím besorolását a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 8. Egyéb történetkutató intézetek cím, 2. VERITAS Történetkutató Intézet és Levéltár alcímre változtatja,
-
-d) XX. Emberi Erőforrások Minisztériuma fejezetet a 9. Petőfi Irodalmi Múzeum címmel egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: 2019. július 1.
+6.[^1]
 
 7. felhívja a pénzügyminisztert, hogy a Magyar Államkincstár útján intézkedjen a 6. pont b)–c) alpontok szerinti címrendi változás 2019. július 1-jei határnappal történő átvezetéséről és egyidejűleg az átrendezés időpontjáig végrehajtott évközi előirányzat-módosítások, teljesítési adatok és a kapcsolódó költségvetési maradványok átvezetéséről;
 
@@ -97,3 +85,5 @@ Felelős: pénzügyminiszter
 emberi erőforrások minisztere
 
 Határidő: a 2020. évi központi költségvetés tervezése során
+
+[^1]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
