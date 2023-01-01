@@ -1,5 +1,3 @@
-## A Beruházás által érintett ingatlanok
-
 |  | A | B |
 
 | 1. | A település megnevezése | A beruházás megvalósításának helyszíne (helyrajzi szám) |
@@ -214,7 +212,7 @@
 
 2. melléklet a 330/2020. (VII. 2.) Korm. rendelethez
 
-## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. vízügyi és vízvédelmi hatósági eljárások,
 
@@ -230,7 +228,7 @@
 
 7. útügyi hatósági eljárások,
 
-8. az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági eljárások,
+8.[^1] az ágazati jogszabály alapján a fővárosi és vármegyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági eljárások,
 
 9. hírközlési hatósági eljárások,
 
@@ -261,3 +259,5 @@
 22. azok az 1–21. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. mellékletben meghatározott ingatlanokon tervezett beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^1]: A 2. melléklet 8. pontja az 546/2022. (XII. 22.) Korm. rendelet 250. §-a szerint módosított szöveg.
