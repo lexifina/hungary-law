@@ -6,6 +6,6 @@
 
 (2) Nem kötelező pályázat kiírása az 1. mellékletben foglalt táblázat szerinti egyéb munkakörök esetén, továbbá a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 2. számú melléklete szerint meghatározott tanári munkakörök esetén.
 
-(3)[^1] A pályázatot a rektor és a kancellár esetében a felsőoktatásért felelős miniszter által vezetett minisztérium hivatalos lapjában is meg kell hirdetni.
+(3)[^1]
 
-[^1]: A 3. § (3) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 153. §-a szerint módosított szöveg.
+[^1]: A 3. § (3) bekezdését az 533/2022. (XII. 19.) Korm. rendelet 8. §-a hatályon kívül helyezte.
