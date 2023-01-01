@@ -12,6 +12,8 @@ a) az ideiglenes ellátás során rendelkezésre bocsátott szállítóeszköz u
 
 b) a szükségellátás során rendelkezésre bocsátott szállítóeszköz után az előfinanszírozás terhére a katasztrófavédelmi szerv
 
+fizeti ki.
+
 [^37]: A 15. § (1) bekezdése a 330/2016. (XI. 4.) Korm. rendelet 7. § g) pontja szerint módosított szöveg.
 [^38]: A 15. § (3) bekezdését az 505/2013. (XII. 29.) Korm. rendelet 5. §-a hatályon kívül helyezte.
 [^39]: A 15. § (4) bekezdését a 249/2018. (XII. 17.) Korm. rendelet 5. §-a hatályon kívül helyezte.

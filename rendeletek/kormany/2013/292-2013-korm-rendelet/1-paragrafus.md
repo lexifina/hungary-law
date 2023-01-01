@@ -20,7 +20,7 @@ d) a hulladékszállítására alkalmas eszközök számát és kapacitását.
 
 (3) A (2) bekezdés szerinti adatszolgáltatás valóságtartalmát a katasztrófavédelmi szerv ellenőrzi.
 
-(4)[^3] A környezetvédelmi feladatkörében eljáró Pest Megyei Kormányhivatal (a továbbiakban: országos környezetvédelmi hatóság) a katasztrófavédelmi szervet folyamatosan, heti rendszerességgel elektronikus úton tájékoztatja
+(4)[^3] A környezetvédelmi feladatkörében eljáró Pest Vármegyei Kormányhivatal (a továbbiakban: országos környezetvédelmi hatóság) a katasztrófavédelmi szervet folyamatosan, heti rendszerességgel elektronikus úton tájékoztatja
 
 a) a hulladékgazdálkodási engedéllyel rendelkező közszolgáltatókról,
 
@@ -36,5 +36,5 @@ e) a minősítési engedély iránti kérelmet benyújtó közszolgáltatók lis
 
 [^1]: Az 1. § az 505/2013. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (4) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 238. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (4) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 238. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 161. §-a szerint módosított szöveg.
 [^4]: Az 1. § (5) bekezdését a 330/2016. (XI. 4.) Korm. rendelet 1. §-a iktatta be.
