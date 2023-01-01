@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-28-20-0
 | 2000-11-10 | 2000-28-20-0B.1 | 28/2000. (X. 11.) EüM rendelet |
 | 2012-11-29 | 2000-28-20-0B.2 | 42/2012. (XI. 28.) EMMI rendelet |
 | 2015-04-29 | 2000-28-20-0B.3 | 23/2015. (IV. 28.) EMMI rendelet |
+| 2023-01-01 | 2000-28-20-0B.4 | 23/2015. (IV. 28.) EMMI rendelet |
