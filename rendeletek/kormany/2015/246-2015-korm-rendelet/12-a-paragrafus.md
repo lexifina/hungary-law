@@ -1,4 +1,4 @@
-## 6/A. [^15] Az alapvető szolgáltatásokkal kapcsolatos jelentős zavar mértéke és küszöbértékek az egészségügy ágazatban
+## 6/A. [^17] Az alapvető szolgáltatásokkal kapcsolatos jelentős zavar mértéke és küszöbértékek az egészségügy ágazatban
 
 12/A. § (1) A Vhr. 3. melléklete szerinti egészségügy ágazatba tartozó alapvető szolgáltatás vonatkozásában jelentős zavarnak minősül minden olyan biztonsági esemény, amely hatására az egészségügyi szolgáltatás csökkenésére vagy kiesésére kerül sor, és amely
 
@@ -24,4 +24,4 @@ c) az aktív fekvőbeteg-ellátásban minden olyan biztonsági esemény, amely a
 
 12/B. § A Vhr. 3. melléklete szerinti egészségügy ágazatba tartozó alapvető szolgáltatást nyújtó szereplőként azonosítható a 4–7. §-ban és a 10. §-ban meghatározott valamely kritériumnak megfelelő szolgáltató.
 
-[^15]: A 6/A. alcímet (12/A. §) a 375/2020. (VII. 30.) Korm. rendelet 75. §-a iktatta be.
+[^17]: A 6/A. alcímet (12/A. §) a 375/2020. (VII. 30.) Korm. rendelet 75. §-a iktatta be.

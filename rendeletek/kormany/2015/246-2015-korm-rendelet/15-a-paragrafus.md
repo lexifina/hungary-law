@@ -1,4 +1,4 @@
-## 9/A. [^21] Rendkívüli esemény
+## 9/A. [^23] Rendkívüli esemény
 
 ## 15/A. § Az egészségügyi ágazatban rendkívüli eseménynek minősül
 
@@ -12,4 +12,4 @@ d) az, ha az illetékes hatóság a kijelölt létfontosságú rendszerelemnél 
 
 e) a humánerőforrás olyan mértékű kritikus hiánya, ami a tevékenység leállításához, szüneteltetéséhez vezethet.
 
-[^21]: A 9/A. alcímet (15/A. §) a 375/2020. (VII. 30.) Korm. rendelet 76. §-a iktatta be.
+[^23]: A 9/A. alcímet (15/A. §) a 375/2020. (VII. 30.) Korm. rendelet 76. §-a iktatta be.

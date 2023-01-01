@@ -1,6 +1,6 @@
 ## 7. Biztonsági összekötő személyre vonatkozó szabályok
 
-13. §[^16] (1) A Vhr. 6. § (1) bekezdése szerinti, az egészségügyi ágazatnak megfelelő szakirányú végzettségnek minősül az orvosi végzettség.
+13. §[^18] (1) A Vhr. 6. § (1) bekezdése szerinti, az egészségügyi ágazatnak megfelelő szakirányú végzettségnek minősül az orvosi végzettség.
 
 (2) Laboratóriumban történő foglalkoztatás esetén az (1) bekezdésben foglaltakon túl
 
@@ -20,4 +20,4 @@ minősül a Vhr. 6. § (1) bekezdése szerinti, az egészségügyi ágazatnak me
 
 (4) A gyógyszer-nagykereskedelemben történő foglalkoztatás kivételével az (1) és (2) bekezdésben foglaltakon túl a Vhr. 6. § (1) bekezdése szerinti, az egészségügyi ágazatnak megfelelő szakirányú végzettségnek minősül minden egyéb – az (1) és (2) bekezdésben foglaltaktól eltérő – felsőfokú végzettség, ha a felsőfokú végzettséggel rendelkező egészségügyi igazgatási feladatkörben legalább 3 éves szakmai gyakorlatot szerzett foglalkoztatásra irányuló vagy megbízási jogviszony keretében.
 
-[^16]: A 13. § a 368/2016. (XI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^18]: A 13. § a 368/2016. (XI. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
