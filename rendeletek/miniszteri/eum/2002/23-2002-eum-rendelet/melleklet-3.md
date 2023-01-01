@@ -1,6 +1,6 @@
-## Bejelentés beavatkozással nem járó vizsgálathoz
-
 ## Intézmény, egészségügyi szolgáltató neve:
+
+## 4K00356M_0
 
 | 1. A vizsgálat megnevezése |
 
@@ -14,6 +14,6 @@
 
 | 4. Vizsgálati helyszín(ek) Dátum: .................................................. ................................................ megbízó aláírása |
 
-3. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^107]
+3. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^110]
 
-[^107]: A 3. számú mellékletet az 1/2007. (I. 24.) EüM rendelet 2. § b) pontja iktatta be, szövege a 13/2022. (IV. 29.) EMMI rendelet 17. §-ával megállapított szöveg.
+[^110]: A 3. számú mellékletet az 1/2007. (I. 24.) EüM rendelet 2. § b) pontja iktatta be, szövege a 13/2022. (IV. 29.) EMMI rendelet 17. §-ával megállapított, a 45/2022. (XII. 20.) BM rendelet 24. §-a, az 55/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.

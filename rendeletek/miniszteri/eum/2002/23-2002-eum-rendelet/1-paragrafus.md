@@ -12,7 +12,7 @@ e) a közegészségügyi-járványügyi érdekből végzett,
 
 f) az ivarsejten, embrión végzett
 
-## kutatás.
+kutatás.
 
 (2) E rendelet beavatkozással nem járó vizsgálatokra vonatkozó rendelkezéseit az e rendeletben foglaltak szerint alkalmazni kell az Eütv. 164/A. § (10) bekezdése szerinti, in vitro diagnosztikai orvostechnikai eszközökkel végzett teljesítőképesség-vizsgálatokra.
 
