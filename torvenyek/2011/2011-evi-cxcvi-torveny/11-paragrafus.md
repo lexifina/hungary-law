@@ -70,7 +70,13 @@ a) államháztartási körbe tartozó szervezet,
 
 b) jogszabályban előírt állami vagy önkormányzati feladatot ellátó gazdálkodó szervezet, továbbá jogszabályban előírt állami vagy önkormányzati feladatot ellátó egyházi jogi személy,
 
-c) államháztartási körbe tartozó szervezet vagyonkezelésében lévő, az állam vagy a helyi önkormányzat tulajdonában álló lakások tekintetében a vagyonkezelő szervezettel foglalkoztatásra irányuló jogviszonyban álló személyek, vagy
+c) államháztartási körbe tartozó szervezet vagyonkezelésében lévő
+
+ca) az állam tulajdonában álló lakások tekintetében a vagyonkezelő szervezettel vagy központi költségvetési szervvel,
+
+cb) a helyi önkormányzat tulajdonában álló lakások tekintetében a vagyonkezelő szervezettel
+
+foglalkoztatásra irányuló jogviszonyban álló személyek, vagy
 
 d) a közfeladatot ellátó, az állam közvetlen vagy közvetett tulajdonában álló gazdasági társaság vagyonkezelésében lévő, az állam tulajdonában álló lakások tekintetében a vagyonkezelővel vagy a vagyonkezelő tulajdonában álló gazdasági társasággal foglalkoztatásra irányuló jogviszonyban álló személyek
 

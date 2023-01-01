@@ -18,7 +18,7 @@
 
 (3f) A (3e) bekezdés alapján létrejött osztott tulajdon esetén az épület vonatkozásában az (1) bekezdésben foglalt korlátozó rendelkezéseket alkalmazni kell.
 
-(4) A 2. mellékletben megjelölt nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon e törvény erejénél fogva, a (7) bekezdésben, valamint a 14. § (1) bekezdésében foglalt kivétellel, elidegenítési és – vagyonkezelői jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog, vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – terhelési tilalom alatt áll, biztosítékul nem adható, azon osztott tulajdon nem létesíthető.
+(4) A 2. mellékletben megjelölt nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyon e törvény erejénél fogva, a 14. § (1) bekezdésében foglalt kivétellel, elidegenítési és – vagyonkezelői jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog, vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – terhelési tilalom alatt áll, biztosítékul nem adható, azon osztott tulajdon nem létesíthető.
 
 (5) Törvényben, kormányrendeletben vagy – a helyi önkormányzati vagyon tekintetében – a helyi önkormányzat rendeletében nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonként meghatározott vagyonelem az erről rendelkező jogszabály erejénél fogva, a 14. § (1) bekezdésében foglalt kivétellel, elidegenítési és – vagyonkezelői jog, jogszabályon alapuló, továbbá az ingatlanra közérdekből külön jogszabályban feljogosított szervek javára alapított használati jog, vezetékjog, vagy ugyanezen okokból alapított szolgalom, továbbá a helyi önkormányzat javára alapított vezetékjog kivételével – terhelési tilalom alatt áll, biztosítékul nem adható, azon osztott tulajdon nem létesíthető.
 
@@ -26,6 +26,6 @@
 
 (7)
 
-(8) Az olyan – pályázat alapján megkötött – szerződés, amelynek nemzeti vagyon a tárgya, a pályázati kiírástól, illetve a nyertes pályázattól eltérő tartalommal nem módosítható, kivéve a szerződés időtartama jogszabályban meghatározott meghosszabbításának esetét.
+(8) Az olyan – pályázat vagy bérleti licit alapján megkötött – szerződés, amelynek nemzeti vagyon a tárgya, pályázat esetén a pályázati kiírástól és a nyertes pályázattól, bérleti licit esetén a hirdetménytől eltérő tartalommal nem módosítható, kivéve a szerződés időtartama jogszabályban meghatározott meghosszabbításának esetét.
 
 (9) Nemzeti vagyonba tartozó ingatlanok esetében a hulladékról szóló törvény szerinti elhagyott hulladék felszámolásának kötelezettsége az ingatlan tulajdonosát terheli azzal, hogy az elhagyott hulladék elszállításáról a 11. §-ban meghatározott személyeknek kell gondoskodnia.

@@ -10,7 +10,7 @@ c) a hasadó és sugárzó anyagok előállítása és forgalmazása,
 
 d) a csatornák, az állami tulajdonban álló víziközművek, valamint a regionális közműrendszerek létrehozása és működtetése,
 
-e) a szerencsejátékok szervezésére és működtetésére irányuló tevékenység,
+e) a szerencsejátékok szervezésére és működtetésére irányuló tevékenység, távszerencsejáték szervezése kivételével,
 
 f) az országos törzshálózati vasúti pályán történő személyszállítás és árufuvarozás,
 
@@ -20,7 +20,7 @@ h) az állami tulajdonba tartozó nemzetközi kereskedelmi repülőtér létreho
 
 i) az országos közutak és műtárgyaik, állam kizárólagos tulajdonát képező, országos jelentőségű vasútvonal, valamint azt magába foglaló pályahálózat létrehozása és működtetése,
 
-j) állami tulajdont képező terek, parkok felszíne alatt építmény létrehozása és működtetése,
+j) állami tulajdont képező terek, parkok és közkertek felszíne alatt építmény létrehozása és működtetése,
 
 k) a földgáz biztonsági készletezéséről szóló 2006. évi XXVI. törvény szerinti biztonsági földgáztároló létrehozása és annak működtetése,
 
