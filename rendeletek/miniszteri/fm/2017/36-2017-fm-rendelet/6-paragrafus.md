@@ -4,7 +4,7 @@ a) a 2. § 14. és 15. pontja szerinti adatokat országosan jelentősnek minős�
 
 b) a 2. § 16. pontja szerinti adatokat aszály fennállása esetén az OMSZ internetes honlapján közzétett tájékoztatót is figyelembe véve
 
-## köteles elektronikus úton feltölteni a kockázatkezelési adatbázisba.
+köteles elektronikus úton feltölteni a kockázatkezelési adatbázisba.
 
 (2) Az FTFF a 2. § 14–16. pont szerinti adatokat az (1) bekezdésben meghatározott adatfeltöltést követően tizennégy naponta köteles frissíteni a kockázatkezelési adatbázisba az országosan jelentősnek minősülő ár-, belvízhelyzet, illetve aszály fennállását követő tizennégy napig.
 

@@ -1,15 +1,15 @@
-4. § (1)[^4] Az AKI Nonprofit Kft. a tárgyévre vonatkozó,
+4. § (1)[^7] Az AKI Nonprofit Kft. a tárgyévre vonatkozó,
 
 a) 2. § 11. pontja szerinti adatokat tárgyév szeptember 30-ig,
 
 b) 2. § 12. pontja szerinti adatokat tárgyév október 20-ig
 
-## köteles szolgáltatni a kockázatkezelési adatbázisba.
+köteles szolgáltatni a kockázatkezelési adatbázisba.
 
-(2)[^5] Az AKI Nonprofit Kft. a kockázatkezelési adatbázis teljes adatállományának megismerésére, és annak az agrárkárenyhítési, valamint a mezőgazdasági biztosítási díjtámogatásokkal kapcsolatos feladatainak ellátásához szükséges mértékben, továbbá statisztikai, kutatási célú – egyedi azonosításra is alkalmas módon történő – felhasználására jogosult.
+(2)[^8] Az AKI Nonprofit Kft. a kockázatkezelési adatbázis teljes adatállományának megismerésére, és annak az agrárkárenyhítési, valamint a mezőgazdasági biztosítási díjtámogatásokkal kapcsolatos feladatainak ellátásához szükséges mértékben, továbbá statisztikai, kutatási célú – egyedi azonosításra is alkalmas módon történő – felhasználására jogosult.
 
-(3)[^6] A 2. § 13. pontja szerinti növényélettani modell karbantartásáról és aktualizálásáról az agrárkárenyhítési szerv közreműködésével az AKI Nonprofit Kft. gondoskodik.
+(3)[^9] A 2. § 13. pontja szerinti növényélettani modell karbantartásáról és aktualizálásáról az agrárkárenyhítési szerv közreműködésével az AKI Nonprofit Kft. gondoskodik.
 
-[^4]: A 4. § (1) bekezdés nyitó szövegrésze a 3/2021. (II. 19.) AM rendelet 8. § c) pontja szerint módosított szöveg.
-[^5]: A 4. § (2) bekezdése a 3/2021. (II. 19.) AM rendelet 8. § d) pontja szerint módosított szöveg.
-[^6]: A 4. § (3) bekezdése a 3/2021. (II. 19.) AM rendelet 8. § b) pontja szerint módosított szöveg.
+[^7]: A 4. § (1) bekezdés nyitó szövegrésze a 3/2021. (II. 19.) AM rendelet 8. § c) pontja szerint módosított szöveg.
+[^8]: A 4. § (2) bekezdése a 3/2021. (II. 19.) AM rendelet 8. § d) pontja szerint módosított szöveg.
+[^9]: A 4. § (3) bekezdése a 3/2021. (II. 19.) AM rendelet 8. § b) pontja szerint módosított szöveg.

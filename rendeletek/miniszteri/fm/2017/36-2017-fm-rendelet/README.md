@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-36-20-1
 | 2019-05-11 | 2017-36-20-11.4 | 17/2019. (V. 10.) AM rendelet |
 | 2020-09-28 | 2017-36-20-11.5 | 46/2020. (IX. 23.) AM rendelet |
 | 2021-02-20 | 2017-36-20-11.6 | 3/2021. (II. 19.) AM rendelet |
+| 2023-01-01 | 2017-36-20-11.7 | 146/2022. (XII. 27.) AM rendelet |

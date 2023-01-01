@@ -9,3 +9,5 @@
 a) a mezőgazdasági termelők által tárgyévet megelőző évben befizetett összes kárenyhítési hozzájárulás tárgyévet megelőző év december 31-ei pénzállománya, valamint
 
 b) a központi költségvetésből nyújtott tárgyévi támogatás
+
+összegének legfeljebb 4%-a (a továbbiakban: működtetési és fejlesztési forrás).
