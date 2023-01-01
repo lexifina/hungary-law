@@ -1,3 +1,3 @@
-## 9. §[^27]
+10. §[^30]
 
-[^27]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

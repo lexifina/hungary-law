@@ -1,6 +1,3 @@
-## 13. §[^36]
+1. melléklet az 53/2021. (II. 9.) Korm. rendelethez[^38]
 
-1. melléklet az 53/2021. (II. 9.) Korm. rendelethez[^37]
-
-[^36]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^37]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-5. melléklet az 53/2021. (II. 9.) Korm. rendelethez[^41]
+5. melléklet az 53/2021. (II. 9.) Korm. rendelethez[^42]
 
-[^41]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

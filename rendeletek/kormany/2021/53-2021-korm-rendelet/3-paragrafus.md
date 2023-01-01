@@ -12,7 +12,7 @@ e) a praxis aggregált morbiditási, mortalitási és a praxiskezelő által ké
 
 f)[^12] a területen működő szolgálatokkal közös helyettesítési rend kialakítását,
 
-g)[^13] a területen működő szolgálatokkal és ügyeleti szolgálatokkal ügyeleti rend kialakítását.
+g)[^13] a területen működő szolgálatokkal és ügyeleti szolgálatokkal, valamint az állami mentőszolgálattal együttműködve ügyeleti rend kialakítását.
 
 (2)[^14] A praxiskezelő a hiánytalan felvételi kérelem esetén a szolgálatot a kollegiális praxisközösségbe felveszi, amelyről igazolást küld a szolgáltatónak és a Nemzeti Egészségbiztosítási Alapkezelőnek (a továbbiakban: finanszírozó).
 
@@ -22,7 +22,7 @@ g)[^13] a területen működő szolgálatokkal és ügyeleti szolgálatokkal üg
 
 [^11]: A 3. § (1) bekezdés nyitó szövegrésze a 277/2021. (V. 26.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
 [^12]: A 3. § (1) bekezdés f) pontja a 277/2021. (V. 26.) Korm. rendelet 23. § c) pontja szerint módosított szöveg.
-[^13]: A 3. § (1) bekezdés g) pontja a 277/2021. (V. 26.) Korm. rendelet 23. § d) pontja szerint módosított szöveg.
+[^13]: A 3. § (1) bekezdés g) pontja a 277/2021. (V. 26.) Korm. rendelet 23. § d) pontja, a 630/2022. (XII. 30.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
 [^14]: A 3. § (2) bekezdése a 277/2021. (V. 26.) Korm. rendelet 23. § e) pontja szerint módosított szöveg.
 [^15]: A 3. § (3) bekezdése a 277/2021. (V. 26.) Korm. rendelet 23. § f) pontja szerint módosított szöveg.
 [^16]: A 3. § (4) bekezdése a 277/2021. (V. 26.) Korm. rendelet 23. § g) pontja szerint módosított szöveg.

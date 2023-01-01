@@ -26,7 +26,7 @@ b)[^8] az a) pont szerinti személy vagy személyek – közeli hozzátartozóiv
 
 c) állami vagy önkormányzati fenntartású egészségügyi szolgáltató
 
-## lehet.
+lehet.
 
 (7)[^9] A (3) bekezdés szerinti praxisközösség vagy – létrejöttét megelőzően – az ilyen praxisközösséget létrehozni szándékozó szolgálatok kérelmére indokolt esetben a (3) bekezdésben meghatározott feltételek alól a praxiskezelő határozott vagy határozatlan időre felmentést adhat. Az így kiadott felmentés időtartama alatt a (3) bekezdésben meghatározott praxisközösségi formák létrehozhatóak, nyilvántartásba vehetőek és működtethetőek. A határozott időre adott felmentés – indokolt esetben – meghosszabbítható.
 
