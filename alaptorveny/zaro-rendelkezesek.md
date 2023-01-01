@@ -190,6 +190,6 @@ A Magyarország Alaptörvényének tizenegyedik módosításával megállapítot
 
 28.
 
-*
+A vármegyére való utalásként a megyére utaló elnevezés a 2022. december 31-én hatályos jogszabályi rendelkezések szerint az Alaptörvény tizenegyedik módosítása hatálybalépését követően is használható mindaddig, amíg az Alaptörvény szerinti megnevezés használatára való áttérés a felelős gazdálkodás elvei szerint meg nem valósítható.
 
-Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.
+## * Mi, a 2010. április 25-én megválasztott Országgyűlés képviselői, Isten és ember előtti felelősségünk tudatában, élve alkotmányozó hatalmunkkal, Magyarország első egységes Alaptörvényét a fentiek szerint állapítjuk meg.
