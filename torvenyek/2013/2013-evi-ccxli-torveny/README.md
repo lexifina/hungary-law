@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-241-00-00
 | 2022-08-01 | 2022. évi XVIII. törvény | 2013-241-00-00.8 |
 | 2022-11-01 | 2022. évi XXXI. törvény | 2013-241-00-00.10 |
 | 2022-12-15 | 2022. évi LVI. törvény | 2013-241-00-00.11 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2013-241-00-00.9 |
