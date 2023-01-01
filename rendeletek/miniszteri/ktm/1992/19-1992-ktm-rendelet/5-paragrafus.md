@@ -6,15 +6,15 @@
 
 Ez a rendelet 1992. november 15-én lép hatályba.
 
-Melléklet[^3]
+Melléklet
 
-a 19/1992. (XI. 6.) KTM rendelethez
+a 19/1992. (XI. 6.) KTM rendelethez[^3]
 
 A Pannonhalmi Tájvédelmi Körzet
 
 ingatlan-nyilvántartási helyrajzi számai
 
-GYŐR-MOSON-SOPRON MEGYE
+GYŐR-MOSON-SOPRON VÁRMEGYE
 
 Bőnyrétalap
 
@@ -68,13 +68,13 @@ Tényő
 
 086/3, 086/7, 088/C, 088/F, 092/1, 096/13, 098/5, 0100, 0103/5, 0105, 0107/4, 0108, 0109/7, 0111, 0117, 0120, 0121/1—2, 0129, 0130/3—5, 0131—0132, 0134/3—4, 0135, 0136/1, 0138, 0139/1—2, 0140—0151
 
-KOMÁROM-ESZTERGOM MEGYE
+KOMÁROM-ESZTERGOM VÁRMEGYE
 
 Komárom
 
 016/9
 
-VESZPRÉM MEGYE
+VESZPRÉM VÁRMEGYE
 
 Bakonypéterd
 
@@ -84,4 +84,4 @@ Gic
 
 0123/1
 
-[^3]: A Magyar Közlöny 1992. évi 120. számában megjelent helyesbítésnek megfelelő szöveg.
+[^3]: A Melléklet a 44/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
