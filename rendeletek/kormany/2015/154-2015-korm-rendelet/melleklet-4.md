@@ -1,5 +1,3 @@
-## A rendvédelmi szervhez tartozásra utaló rendfokozati jelzők és azok rövidítése
-
 |  | A | B | C |
 
 | 1. | Rendvédelmi szerv | Rendfokozati jelző | Rendfokozati jelző rövidítése |
@@ -26,6 +24,6 @@
 
 | 12. | Országos Idegenrendészeti Főigazgatóság | „rendőr” | „r.” |
 
-4. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^55]
+4. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^57]
 
-[^55]: A 4. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (3) bekezdése, a 217/2016. (VII. 22.) Korm. rendelet 52. §-a, a 272/2018. (XII. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^57]: A 4. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (3) bekezdése, a 217/2016. (VII. 22.) Korm. rendelet 52. §-a, a 272/2018. (XII. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.

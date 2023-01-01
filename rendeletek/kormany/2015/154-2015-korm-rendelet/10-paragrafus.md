@@ -2,7 +2,7 @@
 
 10. § (1) A hivatásos állomány tagjának
 
-a)[^6] közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezése,
+a)[^7] közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezése,
 
 b) más rendvédelmi szervhez történő áthelyezése, vagy
 
@@ -20,4 +20,4 @@ a) az áthelyezést a hivatásos állomány tagja vagy az állományilletékes p
 
 b) a hivatásos állomány tagjának kezdeményezése esetén a kérelmet az állományilletékes parancsnoknak címezve kell előterjeszteni és a kérelem teljesíthetőségére vonatkozó nyilatkozatot az állományilletékes parancsnok saját hatáskörében adja ki.
 
-[^6]: A 10. § (1) bekezdés a) pontja a 217/2016. (VII. 22.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^7]: A 10. § (1) bekezdés a) pontja a 217/2016. (VII. 22.) Korm. rendelet 50. §-ával megállapított szöveg.

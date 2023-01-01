@@ -1,11 +1,11 @@
-63. § (1)[^42] A szolgálati viszony szünetelésének időtartama a szolgálati viszony folyamatosságát nem érinti.
+63. § (1)[^43] A szolgálati viszony szünetelésének időtartama a szolgálati viszony folyamatosságát nem érinti.
 
-(2)[^43]
+(2)[^44]
 
-(3)[^44] A szolgálati viszony megszűnik, ha a szolgálati viszony megszüntetésére fegyelmi fenyítésként kerül sor.
+(3)[^45] A szolgálati viszony megszűnik, ha a szolgálati viszony megszüntetésére fegyelmi fenyítésként kerül sor.
 
 (4) A szünetelés időtartama a Hszt. 282. § (2) bekezdésében meghatározott feltétel teljesülése esetén a hivatásos szolgálati időbe beszámít, tényleges szolgálati időként azonban nem vehető figyelembe.
 
-[^42]: A 65. § (1) bekezdése a 394/2015. (XII. 12.) Korm. rendelet 9. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^43]: A 63. § (2) bekezdését a 394/2015. (XII. 12.) Korm. rendelet 9. § (3) bekezdés d) pontja hatályon kívül helyezte.
-[^44]: A 65. § (3) bekezdése a 394/2015. (XII. 12.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^43]: A 65. § (1) bekezdése a 394/2015. (XII. 12.) Korm. rendelet 9. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^44]: A 63. § (2) bekezdését a 394/2015. (XII. 12.) Korm. rendelet 9. § (3) bekezdés d) pontja hatályon kívül helyezte.
+[^45]: A 65. § (3) bekezdése a 394/2015. (XII. 12.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.

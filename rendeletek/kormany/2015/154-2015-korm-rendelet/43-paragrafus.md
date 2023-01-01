@@ -6,7 +6,7 @@ a) a tartós külszolgálatot teljesítő kormányzati szolgálati jogviszonyban
 
 b) az összekötő tiszt részére a külföldre vezényléskor az 5. mellékletben foglalt keretek között meghatározott szorzószám
 
-## szorzata.
+szorzata.
 
 (3) Az összekötő tiszt részére a devizaellátmány a tartós külszolgálat megkezdése napjától a tartós külszolgálat megszűnésének vagy megszüntetésének napjáig jár. A töredékhavi ellátmány kiszámításánál a tárgyhó naptári napjainak számát kell alapul venni.
 

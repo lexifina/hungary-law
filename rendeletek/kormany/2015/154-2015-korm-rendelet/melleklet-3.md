@@ -4,6 +4,8 @@
 
 | 2. | Országos Idegenrendészeti Főigazgatóság | főigazgató |
 
-3. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^54]
+3. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^56]
 
-[^54]: A 3. melléklet a 186/2016. (VII. 13.) Korm. rendelet 15. §-a, a 126/2019. (V. 30.) Korm. rendelet 24. § (3) bekezdése, a 239/2022. (VI. 30.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
+A rendvédelmi szervhez tartozásra utaló rendfokozati jelzők és azok rövidítése
+
+[^56]: A 3. melléklet a 186/2016. (VII. 13.) Korm. rendelet 15. §-a, a 126/2019. (V. 30.) Korm. rendelet 24. § (3) bekezdése, a 239/2022. (VI. 30.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.

@@ -4,9 +4,9 @@
 
 | 2. | Országos Idegenrendészeti Főigazgatóság | – | – |
 
-2. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^53]
+2. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^55]
 
-## A rendvédelmi szervek önálló állománytáblázattal rendelkező szervezeti egységei és az állományilletékes parancsnokok
+A rendvédelmi szervek önálló állománytáblázattal rendelkező szervezeti egységei és az állományilletékes parancsnokok
 
 I. Az általános rendőrségi feladatok ellátására létrehozott szerv
 
@@ -30,7 +30,7 @@ I. Az általános rendőrségi feladatok ellátására létrehozott szerv
 
 | 9. | Rendőrségi Oktatási és Kiképző Központ | igazgató |
 
-| 10. | a 11. és 12. sorban foglalt szervezeti egységek kivételével a megyei, fővárosi rendőr-főkapitányság | megyei, fővárosi rendőr-főkapitány |
+| 10. | a 11. és 12. sorban foglalt szervezeti egységek kivételével a vármegyei, fővárosi rendőr-főkapitányság | vármegyei, fővárosi rendőr-főkapitány |
 
 | 11. | rendőrkapitányság | rendőrkapitány |
 
@@ -62,13 +62,13 @@ IV. Hivatásos katasztrófavédelmi szerv
 
 | 2. | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | főigazgató |
 
-| 3. | megyei, fővárosi katasztrófavédelmi igazgatóság | igazgató |
+| 3. | vármegyei, fővárosi katasztrófavédelmi igazgatóság | igazgató |
 
 | 4. | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság Gazdasági Ellátó Központ | igazgató |
 
 | 5. | Katasztrófavédelmi Oktatási Központ | igazgató |
 
-V. Büntetés-végrehajtási szervezet
+## V. Büntetés-végrehajtási szervezet
 
 |  | A | B |
 
@@ -78,13 +78,17 @@ V. Büntetés-végrehajtási szervezet
 
 | 3. | Büntetés-végrehajtás Egészségügyi Központ | főigazgató |
 
-| 4. | Igazságügyi Megfigyelő és Elmegyógyító Intézet | főigazgató-főorvos |
+| 4. | Igazságügyi Megfigyelő és Elmegyógyító Intézet | főigazgató főorvos |
 
-| 4a. | Központi Kivizsgáló és Módszertani Intézet | főigazgató |
+| 5. | Központi Kivizsgáló és Módszertani Intézet | főigazgató |
 
-| 5. | a 3–4a. sorban nem szereplő büntetés-végrehajtási intézet | büntetés-végrehajtási intézet parancsnoka |
+| 6. | Agglomerációs központ | parancsnok (agglomerációs központ vezetője) |
 
-| 6. | büntetés-végrehajtási intézmény | igazgató |
+| 7. | Büntetés-végrehajtás Gazdasági Ellátó Intézete | igazgató |
+
+| 8. | Büntetés-végrehajtási Szervezet Oktatási, Továbbképzési és Rehabilitációs Központja | igazgató |
+
+| 9. | A 3–5. sorban nem szereplő büntetés-végrehajtási intézet | büntetés-végrehajtási intézet parancsnoka |
 
 VI. Országgyűlési Őrség
 
@@ -140,4 +144,4 @@ X. Nemzeti Információs Központ
 
 XI. Idegenrendészeti szerv
 
-[^53]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § b) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés b) pontja, a 126/2019. (V. 30.) Korm. rendelet 24. § (2) bekezdése, a 308/2020. (VI. 30.) Korm. rendelet 2. § b) pontja, a 239/2022. (VI. 30.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
+[^55]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § b) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés b) pontja, a 126/2019. (V. 30.) Korm. rendelet 24. § (2) bekezdése, a 308/2020. (VI. 30.) Korm. rendelet 2. § b) pontja, a 239/2022. (VI. 30.) Korm. rendelet 26. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 212. § a) pontja, a 628/2022. (XII. 30.) Korm. rendelet 39. § (3) bekezdése szerint módosított szöveg.

@@ -4,10 +4,12 @@
 
 a) a Hszt. 143–146. § szerinti alap- és pótszabadság igénybevételének engedélyezése,
 
-b) a Hszt. 149. §-a szerinti szülési szabadság kiadása.
+b)[^6] a Hszt. 149. §-a szerinti szülési szabadság és a 149/A. §-a szerinti szülői szabadság kiadása.
 
 (2) A fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság vezetője gyakorolja az alábbi munkáltatói jogköröket:
 
 a) a Hszt. 79. §-a szerinti könnyített szolgálatban foglalkoztatás elrendelése,
 
 b) a Hszt. 140. §-a szerinti túlszolgálat elrendelése.
+
+[^6]: A 9. § (1) bekezdés b) pontja a 628/2022. (XII. 30.) Korm. rendelet 40. § a) pontja szerint módosított szöveg.
