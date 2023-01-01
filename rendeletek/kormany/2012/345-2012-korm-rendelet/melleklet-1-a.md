@@ -364,7 +364,7 @@
 
 ## 1.2.98. A 25. számú főút, Borsodnádasd és Bánréve közötti szakasz fejlesztése.
 
-## 1.2.99. A 31. számú főút, Budapest és Nagykáta (Pest – Jász-Nagykun-Szolnok megyehatár) közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
+## 1.2.99. A 31. számú főút, Budapest és Nagykáta (Pest – Jász-Nagykun-Szolnok vármegyehatár) közötti szakasz fejlesztése, párhuzamos kerékpárút fejlesztéssel.
 
 ## 1.2.100. A 32. számú főút, M3 autópálya és Jászberény közötti szakasz négynyomúsítása.
 
@@ -1170,7 +1170,7 @@
 
 ## 1.8.47. Oroszlány–Majk–Várgesztes–Vérteskozma–Csákvár–Nadap kerékpárút előkészítése.
 
-## 1.8.48. Rákos-patak menti kerékpárút Pécel–Isaszeg–Gödöllő–Zsámbok szakaszának előkészítése (Budapest közigazgatási határ és Pest Megye közigazgatási határ között).
+## 1.8.48. Rákos-patak menti kerékpárút Pécel–Isaszeg–Gödöllő–Zsámbok szakaszának előkészítése (Budapest közigazgatási határ és Pest Vármegye közigazgatási határ között).
 
 ## 1.8.49. Ipolydamásd, Duna bal parti EV6 Szob–Ipolydamásd közötti kerékpárút megvalósítása.
 
@@ -1370,7 +1370,7 @@
 
 ## 1.8.147. A Maklár – Füzesabony közötti kerékpárút fejlesztése.
 
-## 1.8.148. Az Apc – Megyehatár közötti kerékpárút fejlesztése.
+## 1.8.148. Az Apc – Vármegyehatár közötti kerékpárút fejlesztése.
 
 ## 1.8.149. Az Eger déli hiányzó közötti kerékpárút fejlesztése.
 
@@ -1400,9 +1400,9 @@
 
 ## 1.8.162. A Tata – Naszály közötti kerékpárút fejlesztése.
 
-## 1.8.163. A Dorog – Leányvár-megyehatár közötti kerékpárút fejlesztése.
+## 1.8.163. A Dorog – Leányvár-vármegyehatár közötti kerékpárút fejlesztése.
 
-## 1.8.164. A Bábolna – Bana – megyehatár (8152. jelű út) közötti kerékpárút fejlesztése.
+## 1.8.164. A Bábolna – Bana – vármegyehatár (8152. jelű út) közötti kerékpárút fejlesztése.
 
 ## 1.8.165. A Kisbér – Bakonybánk közötti kerékpárút fejlesztése.
 
@@ -1946,39 +1946,39 @@
 
 ## 3.2. Átszállókapcsolatok
 
-## 3.2.1. Debreceni intermodális személyszállítási központ létrehozása a NIF Zrt. mint építtető megvalósításában.
+## 3.2.1. Debreceni intermodális személyszállítási központ létrehozása az Építési és Közlekedési Minisztérium mint építtető megvalósításában.
 
-## 3.2.2. Kecskemét megyei jogú város intermodális pályaudvar és közösségi közlekedés fejlesztése a NIF Zrt. mint építtető megvalósításában.
+## 3.2.2. Kecskemét megyei jogú város intermodális pályaudvar és közösségi közlekedés fejlesztése az Építési és Közlekedési Minisztérium mint építtető megvalósításában.
 
-## 3.2.3. Miskolc Megyei Jogú Város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása a NIF Zrt. mint építtető megvalósításában.
+## 3.2.3. Miskolc Megyei Jogú Város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása az Építési és Közlekedési Minisztérium mint építtető megvalósításában.
 
-## 3.2.4. Kaposvár megyei jogú város intermodális pályaudvar és a hozzá kapcsolódó közösségi közlekedés fejlesztése a NIF Zrt. mint építtető megvalósításában.
+## 3.2.4. Kaposvár megyei jogú város intermodális pályaudvar és a hozzá kapcsolódó közösségi közlekedés fejlesztése az Építési és Közlekedési Minisztérium mint építtető megvalósításában.
 
 ## 3.2.5. Kelenföldi pályaudvar, átszállási csomópont fejlesztése.
 
-## 3.2.6. Megyei jogú városok vasútállomásai intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása megyeszékhelyek vasúti elővárosi körzetében.
+## 3.2.6. Megyei jogú városok vasútállomásai intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása vármegyeszékhelyek vasúti elővárosi körzetében.
 
-## 3.2.7. Nyíregyháza megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása a megyeszékhely vasúti elővárosi körzetében I. ütem a NIF Zrt. mint építtető megvalósításában.
+## 3.2.7. Nyíregyháza megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása a vármegyeszékhely vasúti elővárosi körzetében I. ütem az Építési és Közlekedési Minisztérium mint építtető megvalósításában.
 
-## 3.2.8. Székesfehérvár megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása a NIF Zrt. mint építtető megvalósításában.
+## 3.2.8. Székesfehérvár megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása az Építési és Közlekedési Minisztérium mint építtető megvalósításában.
 
-## 3.2.9. Tatabánya megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása a NIF Zrt. mint építtető megvalósításában.
+## 3.2.9. Tatabánya megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása az Építési és Közlekedési Minisztérium mint építtető megvalósításában.
 
-## 3.2.10. Eger megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása a NIF Zrt. mint építtető megvalósításában.
+## 3.2.10. Eger megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása az Építési és Közlekedési Minisztérium mint építtető megvalósításában.
 
-## 3.2.11. Dunaújváros megyei jogú város intermodális pályaudvar és közösségi közlekedés fejlesztése a NIF Zrt. mint építtető megvalósításában.
+## 3.2.11. Dunaújváros megyei jogú város intermodális pályaudvar és közösségi közlekedés fejlesztése az Építési és Közlekedési Minisztérium mint építtető megvalósításában.
 
-## 3.2.12. Szombathely megyei jogú város intermodális pályaudvar és közösségi közlekedés fejlesztése a NIF Zrt. mint építtető megvalósításában.
+## 3.2.12. Szombathely megyei jogú város intermodális pályaudvar és közösségi közlekedés fejlesztése az Építési és Közlekedési Minisztérium mint építtető megvalósításában.
 
-## 3.2.13. Zalaegerszegi vasút- és autóbusz-állomások felújítása a NIF Zrt. mint építtető megvalósításában.
+## 3.2.13. Zalaegerszegi vasút- és autóbusz-állomások felújítása az Építési és Közlekedési Minisztérium mint építtető megvalósításában.
 
-## 3.2.14. Győr megyei jogú város intermodális pályaudvar és közösségi közlekedés fejlesztése a NIF Zrt. mint építtető megvalósításában.
+## 3.2.14. Győr megyei jogú város intermodális pályaudvar és közösségi közlekedés fejlesztése az Építési és Közlekedési Minisztérium mint építtető megvalósításában.
 
-## 3.2.15. Salgótarján megyei jogú város intermodális pályaudvar és közösségi közlekedés fejlesztése a NIF Zrt. mint építtető megvalósításában.
+## 3.2.15. Salgótarján megyei jogú város intermodális pályaudvar és közösségi közlekedés fejlesztése az Építési és Közlekedési Minisztérium mint építtető megvalósításában.
 
-## 3.2.16. Kőszeg város intermodális pályaudvar és közösségi közlekedés fejlesztése a NIF Zrt. mint építtető megvalósításában.
+## 3.2.16. Kőszeg város intermodális pályaudvar és közösségi közlekedés fejlesztése az Építési és Közlekedési Minisztérium mint építtető megvalósításában.
 
-## 3.2.17. Bicske vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása a NIF Zrt. mint építtető megvalósításában.
+## 3.2.17. Bicske vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása az Építési és Közlekedési Minisztérium mint építtető megvalósításában.
 
 ## 3.2.18. A miskolci Gömöri pályaudvar – mint emelt szolgáltatást nyújtó megállóhely – fejlesztése.
 

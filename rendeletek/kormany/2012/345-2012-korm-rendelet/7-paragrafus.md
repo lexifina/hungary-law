@@ -46,7 +46,7 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 
 (12)[^43] E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 355/2016. (XI. 18.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 1. §-át a Módr5. hatálybalépésekor[^44] folyamatban lévő hatósági eljárásokban is alkalmazni kell.
 
-(13)[^45] A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság a Módr5. hatálybalépését[^46] megelőzően nála indult szakhatósági állásfoglalás vagy előzetes szakhatósági állásfoglalás kiadásával még le nem zárt ügyeket átteszi az illetékes megyei katasztrófavédelmi igazgatósághoz, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatósághoz.
+(13)[^45] A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság a Módr5. hatálybalépését[^46] megelőzően nála indult szakhatósági állásfoglalás vagy előzetes szakhatósági állásfoglalás kiadásával még le nem zárt ügyeket átteszi az illetékes vármegyei katasztrófavédelmi igazgatósághoz, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatósághoz.
 
 (14)[^47] E rendeletnek az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet módosításáról szóló 368/2017. (XII. 7.) Korm. rendelettel (a továbbiakban: Módr.6.) megállapított 5/A. §-át a Módr.6. hatálybalépésekor[^48] folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -84,7 +84,7 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 [^42]: A 7. § (11) bekezdés b) pontját a 441/2015. (XII. 28.) Korm. rendelet 185. § b) pontja hatályon kívül helyezte.
 [^43]: A 7. § (12) bekezdését a 355/2016. (XI. 18.) Korm. rendelet 2. §-a iktatta be.
 [^44]: A hatálybalépés időpontja 2016. november 19.
-[^45]: A 7. § (13) bekezdését a 355/2016. (XI. 18.) Korm. rendelet 2. §-a iktatta be.
+[^45]: A 7. § (13) bekezdését a 355/2016. (XI. 18.) Korm. rendelet 2. §-a iktatta be, szövege az 546/2022. (XII. 22.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
 [^46]: A hatálybalépés időpontja 2016. november 19.
 [^47]: A 7. § (14) bekezdését a 368/2017. (XII. 7.) Korm. rendelet 2. §-a iktatta be.
 [^48]: A hatálybalépés időpontja 2017. december 8.
