@@ -1,8 +1,8 @@
-## 22. §[^26] A laboratóriumi vizsgálatok végzésére a NÉBIH jogosult, melynek feladatait a melléklet tartalmazza.
+## 22. §[^28] A laboratóriumi vizsgálatok végzésére a NÉBIH jogosult, melynek feladatait a melléklet tartalmazza.
 
 ## Jelentéstételi kötelezettség
 
-23. § (1)[^27] Tekintettel az Európai Közösségek Bizottságának 2000/556/EK határozatára az állatbetegségek Közösségen belül történő bejelentésére vonatkozó 82/894/EGK Tanácsi irányelv módosításáról – figyelemmel a Tv. 26. §-ának d) pontjára – az afrikai lópestis betegség elsődleges és másodlagos kitörésekor a földművelésügyi miniszter huszonnégy órán belül írásban értesíti az Európai Unió Állategészségügyi Bizottságát (a továbbiakban: EÁB), valamint közvetlenül az Európai Unió tagországainak állategészségügyi hatóságát, ezzel egy időben a Nemzetközi Járványügyi Hivatalt (a továbbiakban: OIE).
+23. § (1)[^29] Tekintettel az Európai Közösségek Bizottságának 2000/556/EK határozatára az állatbetegségek Közösségen belül történő bejelentésére vonatkozó 82/894/EGK Tanácsi irányelv módosításáról – figyelemmel a Tv. 26. §-ának d) pontjára – az afrikai lópestis betegség elsődleges és másodlagos kitörésekor az élelmiszerlánc-felügyeletért felelős miniszter huszonnégy órán belül írásban értesíti az Európai Unió Állategészségügyi Bizottságát (a továbbiakban: EÁB), valamint közvetlenül az Európai Unió tagországainak állategészségügyi hatóságát, ezzel egy időben a Nemzetközi Járványügyi Hivatalt (a továbbiakban: OIE).
 
 (2) Az (1) bekezdés szerinti jelentésnek – mind az elsődleges, mind a másodlagos kitörés esetén – tartalmaznia kell:
 
@@ -56,5 +56,5 @@ d) a betegség nevét és a vírus szerotípusát,
 
 e) a betegséggel kapcsolatos korlátozások megszüntetésének a dátumát.
 
-[^26]: A 22. § a 70/2013. (VII. 31.) VM rendelet 17. § e) pontja szerint módosított szöveg.
-[^27]: A 23. § (1) bekezdése a 42/2017. (VIII. 17.) FM rendelet 34. § i) pontja szerint módosított szöveg.
+[^28]: A 22. § a 70/2013. (VII. 31.) VM rendelet 17. § e) pontja szerint módosított szöveg.
+[^29]: A 23. § (1) bekezdése a 68/2022. (XII. 27.) AM rendelet 1. § f) pontja szerint módosított szöveg.

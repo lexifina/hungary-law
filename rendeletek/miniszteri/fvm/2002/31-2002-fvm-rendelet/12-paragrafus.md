@@ -2,7 +2,7 @@
 
 ## Járványügyi nyomozás
 
-## 12. §[^16] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság
+## 12. §[^18] Az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság
 
 a) meghatározza azt a vélhető időtartamot, ami a telephely befertőződése óta eltelt,
 
@@ -14,4 +14,4 @@ d) felderíti a lóféléknek az érintett telephelyre, illetve az érintett tel
 
 e) megállapítja, hogy az elhullott lófélék teteméhez ebek hozzáférhettek-e.
 
-[^16]: A 12. § nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 17. § d) pontja szerint módosított szöveg.
+[^18]: A 12. § nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 17. § d) pontja szerint módosított szöveg.

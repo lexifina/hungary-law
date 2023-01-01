@@ -4,15 +4,15 @@
 
 1.[^1] állattartó: a lófélék tartásáért felelős természetes vagy jogi személy, jogi személyiséggel nem rendelkező szervezet;
 
-2.[^2] betegség megállapítása: a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalának (a továbbiakban: járási hivatal) laboratóriumi vizsgálati eredményén alapuló hatósági intézkedése;
+2.[^2] betegség megállapítása: a vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalának (a továbbiakban: járási hivatal) laboratóriumi vizsgálati eredményén alapuló hatósági intézkedése;
 
 3. eset: afrikai lópestis élő vagy elhullott állatban történt megállapítása, melynek tényét hivatalosan megerősítették;
 
 4. kitörés: az afrikai lópestis egy vagy több esetének hivatalos megerősítése egy telephelyen;
 
-5. elsődleges kitörés: afrikai lópestis olyan kitörése, amely nem kapcsolódik járványügyileg egy, ugyanazon megye területén történt előző kitöréshez, vagy az első kitörés egy másik megyében;
+5.[^3] elsődleges kitörés: afrikai lópestis olyan kitörése, amely nem kapcsolódik járványügyileg egy, ugyanazon vármegye területén történt előző kitöréshez, vagy az első kitörés egy másik vármegyében;
 
-6. másodlagos kitörés: az afrikai lópestis olyan kitörése, amely járványügyileg kapcsolatba hozható egy, ugyanazon megyében már bekövetkezett előző kitöréssel;
+6.[^4] másodlagos kitörés: az afrikai lópestis olyan kitörése, amely járványügyileg kapcsolatba hozható egy, ugyanazon vármegyében már bekövetkezett előző kitöréssel;
 
 7. lófélék: a patások (Ungulata) rendjébe tartozó emlősállat család (Equidae): ló, szamár, öszvér, zebra;
 
@@ -27,4 +27,6 @@
 12. afrikai lópestis fertőzöttségre gyanús az a lóféle, amely harminc napon belül érintkezhetett a betegség vírusával.
 
 [^1]: Az 1. § 1. pontja a 22/2014. (III. 14.) VM rendelet 11. §-a szerint módosított szöveg.
-[^2]: Az 1. § 2. pontja a 42/2017. (VIII. 17.) FM rendelet 34. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 2. pontja a 42/2017. (VIII. 17.) FM rendelet 34. § a) pontja, a 68/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 5. pontja a 68/2022. (XII. 27.) AM rendelet 1. § b) és c) pontja szerint módosított szöveg.
+[^4]: Az 1. § 6. pontja a 68/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

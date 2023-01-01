@@ -7,3 +7,5 @@ b) a vektor előfordulási és elterjedtségi adatai,
 c) a 12. §-ban részletezett járványnyomozási és laboratóriumi vizsgálati eredmények, valamint
 
 d) a leküzdés, ezen belül a leölések és megsemmisítések végrehajtásának adatai
+
+alapján.
