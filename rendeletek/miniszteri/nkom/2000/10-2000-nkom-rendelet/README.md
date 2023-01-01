@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-10-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2003-12-27 | 2000-10-20-86.2 | 10/2000. (V. 26.) NKÖM rendelet |
+| 2023-01-01 | 2000-10-20-86.3 | 6/2022. (XII. 27.) ÉKM rendelet |
