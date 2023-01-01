@@ -4,7 +4,7 @@
 
 (3) Az állami adó- és vámhatóság a becsértéket közli az MNV Zrt.-vel, és nyilatkozattételre hívja fel arról, hogy a vagyonelkobzás végrehajtásának keretében az ingatlan tulajdonjogára vagy az értékesítéséből befolyt vételárra tart igényt az állam.
 
-(4) Ha az állam az ingatlan tulajdonjogára tart igényt, az állami adó- és vámhatóság a becsérték megállapításáról szóló döntés véglegessé válását követően a 125/C. § (4) bekezdés szabályainak alkalmazásával intézkedik a tulajdonjog bejegyzése iránt.
+(4) Ha az állam az ingatlan tulajdonjogára tart igényt, az állami adó- és vámhatóság a becsérték végrehajtási kifogással már nem támadható megállapítását követően a 125/C. § (4) bekezdés szabályainak alkalmazásával intézkedik a tulajdonjog bejegyzése iránt.
 
 (5) Ha a (4) bekezdésben meghatározott esetben,
 
@@ -19,3 +19,5 @@ az állami adó- és vámhatóság felhívja az MNV Zrt.-t a végrehajtási köl
 (7) Az (5) bekezdés, vagy a (6) bekezdés szerinti összeg beérkezését követően az állami adó- és vámhatóság intézkedik a tagállam, illetve a külföldi állam részére való átutalása iránt.
 
 (8) Ha az állam az ingatlan értékesítéséből befolyt vételárra tart igényt, az állami adó- és vámhatóság a pénzkövetelés behajtásának szabályai szerint folytatja az eljárást; és a végrehajtási költségek, valamint a jelzálogjoggal biztosított követelések kielégítése után fennmaradó pénzösszeg illeti meg az államot.
+
+(9) Ha a másik tagállamban vagy külföldi államban a vagyonelkobzást ingóságra rendelték el, az állami adó- és vámhatóság a végrehajtást e § ingatlanokra vonatkozó rendelkezéseinek megfelelő alkalmazásával foganatosítja.
