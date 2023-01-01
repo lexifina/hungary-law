@@ -1,4 +1,4 @@
-## 8/A. §[^7] Az agrárgazdaság ágazatban rendkívüli eseménynek minősül
+## 8/A. §[^8] Az agrárgazdaság ágazatban rendkívüli eseménynek minősül
 
 a) az olyan esemény, amely a kijelölt létfontosságú rendszerelem működése szempontjából kritikus feltételek, műveletek, technológiák, szolgáltatások leállásához vagy az alaptevékenység átalakításához vezet,
 
@@ -12,4 +12,4 @@ e) az olyan élelmiszer-biztonsági esemény, amely megakadályozza a biztonság
 
 f) az állatjárvány leküzdését megakadályozó esemény.
 
-[^7]: A 8/A. §-t a 375/2020. (VII. 30.) Korm. rendelet 60. §-a iktatta be.
+[^8]: A 8/A. §-t a 375/2020. (VII. 30.) Korm. rendelet 60. §-a iktatta be.
