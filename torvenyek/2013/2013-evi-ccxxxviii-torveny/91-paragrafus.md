@@ -24,6 +24,6 @@ h) a bírság megfizetésének részletes szabályait,
 
 i) azon településeket és külképviseleteket, ahol a magyarországi lakcímmel nem rendelkező választópolgár – kérelmére – átveheti a szavazási levélcsomagot,
 
-j) a fővárosi és megyei kormányhivatal népszavazással összefüggő informatikai feladatai ellátásának részletes szabályait,
+j) a fővárosi és vármegyei kormányhivatal népszavazással összefüggő informatikai feladatai ellátásának részletes szabályait,
 
 k) a Nemzeti Választási Bizottság választott tagjai – a Nemzeti Választási Bizottság működése kapcsán felmerülő – indokolt és igazolt költségeinek körét és a megtérítésre vonatkozó szabályokat.
