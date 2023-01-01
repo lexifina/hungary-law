@@ -2,15 +2,15 @@
 
 (1) A szokásos piaci árat megállapító határozat hatálya határozott időre, legalább három, legfeljebb öt teljes adóévre állapítható meg. A határozat hatályának kezdő napját a kérelem alapján kell megállapítani, amely azonban nem lehet korábbi, mint a kérelem benyújtása adóévének első napja, és nem lehet későbbi, mint a határozat véglegessé válását követő adóév első napja.
 
-(2) Kétoldalú vagy többoldalú eljárásban az illetékes hatóságok megállapodása alapján a határozat kötőereje a kérelem benyújtása előtti időszakra is kiterjedhet, feltéve, ha ez az időszak
+(2) Ha az adózó kéri, a kétoldalú vagy többoldalú eljárásban az illetékes hatóságok megállapodása alapján a határozat kötőereje a kérelem benyújtása adóévének első napja előtti adóévekre is kiterjedhet, feltéve, ha ezek
 
 a) ellenőrzéssel le nem zárt,
 
-b) el nem évült és
+b) el nem évült, és
 
 c) az illetékes hatóságok megállapodásának megkötésekor folyamatban lévő – ellenőrzéssel lezárt időszakot eredményező – ellenőrzéssel nem érintett
 
-időszak.
+adóévek.
 
 (3) A határozatban foglaltak változatlan tényállás esetén kötik az adóhatóságot, kivéve, ha a határozat véglegessé válását követően megállapítható, hogy
 

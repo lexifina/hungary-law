@@ -27,3 +27,5 @@ g) az adózó az Európai Unió más tagállamában illetőséggel bíró gazdas
 a) a csoportos általános forgalmi adóalanyiság létrejöttétől, illetve a csoporthoz csatlakozástól számított harminc napon belül a csoporttag az általános forgalmi adójáról,
 
 b) a csoportazonosító szám törlése esetén, a csoportképviselő – a törlő határozat véglegessé válásától számított harminc napon belül – a csoport általános forgalmi adójáról.
+
+(5) Ha a biztosított mezőgazdasági őstermelő, az Szja tv. rendelkezései szerint átalányadózást alkalmazó biztosított egyéni vállalkozó öregségi nyugdíj iránti igényt nyújt be, az igénylés benyújtását követő harminc napon belül saját magára vonatkozóan soron kívüli adóbevallást tesz az 50. § (2) bekezdésében meghatározott adatokról a bevallással még le nem fedett, az öregségi nyugdíj megállapításának általa kért kezdő napját megelőző napig terjedő időszakra vonatkozóan.
