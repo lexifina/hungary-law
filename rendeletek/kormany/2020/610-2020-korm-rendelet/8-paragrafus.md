@@ -22,7 +22,7 @@ i) a VEKOP-7.5.1-16-2016-00001 Szociális humán erőforrás fejlesztése,
 
 j) az EFOP-1.9.5-VEKOP-16-2016-00001 A kora gyermekkori intervenció ágazatközi fejlesztése
 
-## kiemelt projektek tekintetében.
+kiemelt projektek tekintetében.
 
 (2) 2021. január 1-jétől az Emberi Erőforrások Minisztériuma és a Nemzeti Fogyatékosságügyi- és Szociálpolitikai Központ Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: NFSZK) mint lebonyolító között fennálló együttműködési megállapodásokba az NFSZK helyébe az Intézet lép, az azokból származó – korábban az NFSZK-t megillető, illetve terhelő – jogok és kötelezettségek az Intézetet illetik, illetve terhelik.
 

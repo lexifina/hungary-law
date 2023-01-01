@@ -1,5 +1,3 @@
-## szociálpolitikai feladatok ellátására.
-
 ## 4. § Az Intézet a fogyatékos személyek esélyegyenlőségének biztosítása és a megváltozott munkaképességű személyek ellátása körében
 
 a) ellátja a fogyatékos személyek rehabilitációjára irányuló szolgáltatások és ellátások tekintetében – ideérteve a látássérült személyek számára biztosított elemi rehabilitációs szolgáltatást is – jogszabályban részére meghatározott feladatokat, és ehhez kapcsolódóan módszertani tevékenységet végez,

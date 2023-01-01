@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-610-20-
 | 2021-11-26 | 2020-610-20-22.5 | 644/2021. (XI. 25.) Korm. rendelet |
 | 2022-01-01 | 2020-610-20-22.6 | 376/2021. (VI. 30.) Korm. rendelet |
 | 2022-07-01 | 2020-610-20-22.7 | 238/2022. (VI. 30.) Korm. rendelet |
+| 2023-01-01 | 2020-610-20-22.8 | 629/2022. (XII. 30.) Korm. rendelet |
