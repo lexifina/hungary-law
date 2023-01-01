@@ -12,11 +12,7 @@ A Kormány
 
 6.[^1] a Beruházás Előkészítési Alap terhére a Beruházás megvalósíthatósági tanulmányának, tervezési programjának, költség- és időkalkulációjának, vázlattervének, engedélyezési és kivitelezési dokumentációjának elkészítésére, valamint az engedélyeztetés lefolytatására összesen 698 000 000 forintot biztosít azzal, hogy az előkészítési fázisokat legkésőbb 2021. október 30-ig kell megvalósítani;
 
-7. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: 2019. évi Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 3. Kiemelt kormányzati magasépítési beruházásokkal kapcsolatos kiadások cím, 3. Egyedi magasépítési beruházások alcímet a 14. Semmelweis Egyetem II. Sz. Patológiai Intézet Nemzeti Orvosi Innovációs Képző Központ jogcímcsoporttal és azon belül az 1. Beruházás előkészítés jogcímmel egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+7.[^2]
 
 8. felhívja a pénzügyminisztert és a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy – az elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel – gondoskodjon a 6. pont szerinti összeg 2020. évi pénzügyi teljesítéssel érintett részének 488 600 000 forint rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: 2020. évi Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a 2020. évi Kvtv. 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet javára;
 
@@ -44,7 +40,7 @@ Határidő: a 2021. évi központi költségvetés tervezése során
 
 10. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy
 
-a)[^2]
+a)[^3]
 
 b) a Beruházás megvalósítására lefolytatott feltételes közbeszerzési eljárás eredménye alapján készítsen előterjesztést a Kormány részére a Beruházás megvalósításáról, a kivitelezéshez kapcsolódó kötelezettségvállalási összeg és a kifizetések ütemezésének bemutatásával;
 
@@ -65,4 +61,5 @@ Felelős: innovációért és technológiáért felelős miniszter
 Határidő: a felmerülés ütemében
 
 [^1]: A 6. pont az 1416/2021. (VI. 30.) Korm. határozat 1. pontja, az 1172/2022. (III. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^2]: A 10. pont a) alpontját a Kormány az 1416/2021. (VI. 30.) Korm. határozat 2. pontjával visszavonta.
+[^2]: A 7. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 10. pont a) alpontját a Kormány az 1416/2021. (VI. 30.) Korm. határozat 2. pontjával visszavonta.
