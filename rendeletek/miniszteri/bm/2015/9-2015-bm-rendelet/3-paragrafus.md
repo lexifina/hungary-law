@@ -8,7 +8,7 @@ b)[^10] a szakmai tanfolyamokat – mint belső képzéseket – a 2. melléklet
 
 c) az 1. melléklet 1. pontjában felsoroltakon túl elismert szakmai képesítéseket a 3. melléklet
 
-## tartalmazza.
+tartalmazza.
 
 (2)[^11] A hivatásos katasztrófavédelmi szervnél vezetői, tiszti és tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások betöltéséhez elismerhető iskolai végzettségeket, továbbá az egyes szolgálati beosztások ellátásához szükséges szakképzettségeket, szakmai alap-, közép- és felsőszintű szakmai képzettségeket, valamint az egyéb képzettségi feltételeket a 4. melléklet tartalmazza.
 

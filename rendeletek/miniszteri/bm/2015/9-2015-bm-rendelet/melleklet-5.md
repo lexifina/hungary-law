@@ -1,6 +1,6 @@
-5. melléklet a 9/2015. (III. 25.) BM rendelethez[^55]
+5. melléklet a 9/2015. (III. 25.) BM rendelethez[^56]
 
-## A gazdálkodó szervezeteknél a katasztrófavédelem, a polgári védelem szakágazatban foglalkoztatottak által e rendelet hatálybalépése előtt megszerzett, elismerhető szakmai képesítések szintjei
+A gazdálkodó szervezeteknél a katasztrófavédelem, a polgári védelem szakágazatban foglalkoztatottak által e rendelet hatálybalépése előtt megszerzett, elismerhető szakmai képesítések szintjei
 
 1. Középszintű:
 
@@ -48,4 +48,4 @@
 
 2.16. a hazai vagy külföldi belügyi és államilag elismert felsőoktatási intézményben okleveles tűzvédelmi mérnöki és tűzvédelmi szakon szerzett végzettség.
 
-[^55]: Az 5. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (5) bekezdésével megállapított szöveg.
+[^56]: Az 5. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (5) bekezdésével megállapított szöveg.

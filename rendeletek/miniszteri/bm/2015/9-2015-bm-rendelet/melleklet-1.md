@@ -1,8 +1,6 @@
-## 22. §[^49]
+1. melléklet a 9/2015. (III. 25.) BM rendelethez[^51]
 
-1. melléklet a 9/2015. (III. 25.) BM rendelethez[^50]
-
-## Szakmai képesítések szintjei az alkalmazó szerveknél szakterületenként és szolgálati beosztások vagy munkakörök szerint
+Szakmai képesítések szintjei az alkalmazó szerveknél szakterületenként és szolgálati beosztások vagy munkakörök szerint
 
 1. A hivatásos katasztrófavédelmi szerv tagjainak és a katasztrófa- és tűzvédelmi szakmai képesítést nyújtó oktatási intézmények oktatást, képzést, vizsgáztatást végző tagjaira, valamint azok szakmai felügyeletét végző személyekre vonatkozóan
 
@@ -362,5 +360,4 @@
 
 5.3. Felsőszintű: kéményseprő mester (felsőfokú szakirányú állami végzettséggel).
 
-[^49]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^50]: Az 1. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (1) bekezdésével megállapított, a 9/2022. (IV. 21.) BM rendelet 3. § a) pontja szerint módosított szöveg.
+[^51]: Az 1. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (1) bekezdésével megállapított, a 9/2022. (IV. 21.) BM rendelet 3. § a) pontja szerint módosított szöveg.
