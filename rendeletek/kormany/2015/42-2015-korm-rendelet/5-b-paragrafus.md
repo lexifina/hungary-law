@@ -1,4 +1,4 @@
-## 5/B. §[^24] Az informatikai rendszer megfelel a Hpt. 67/A. § (1) bekezdésében, a Bszt. 12. § (12)–(14) bekezdésében, az Fsztv. 12/A. §-ában és a Bit. 94. § (4)–(6) bekezdésében foglalt, a rendszerelemek zártságával, az informatikai rendszerhez történő jogosulatlan hozzáférés és észrevétlen módosítás megakadályozásával kapcsolatos, valamint az általános információbiztonsági zártsági követelményeknek, ha
+## 5/B. §[^25] Az informatikai rendszer megfelel a Hpt. 67/A. § (1) bekezdésében, a Bszt. 12. § (12)–(14) bekezdésében, az Fsztv. 12/A. §-ában és a Bit. 94. § (4)–(6) bekezdésében foglalt, a rendszerelemek zártságával, az informatikai rendszerhez történő jogosulatlan hozzáférés és észrevétlen módosítás megakadályozásával kapcsolatos, valamint az általános információbiztonsági zártsági követelményeknek, ha
 
 a) az élesüzemi rendszer elemei azonosíthatóak és dokumentáltak;
 
@@ -38,7 +38,7 @@ r) a szervezet detektálja és kezeli az egyes biztonsági eseményeket;
 
 s) az élesüzemi rendszer üzemeltetésében és használatában részt vevő személyek rendszeres biztonságtudatossági oktatáson vesznek részt, valamint a szervezet dolgozóinak munkaügyi szabályozása megfelel a biztonsági előírásoknak;
 
-t)[^25] a szervezet által a távoli munkavégzés és digitális ügyfélkiszolgálás során alkalmazott rendszerek és megoldások garantálják az ügyféladatok, üzleti adatok és személyes adatok hitelességét, a hitelesség hosszú távú fenntarthatóságát, valamint az adatok biztonságos és zárt kezelését.
+t)[^26] a szervezet által a távoli munkavégzés és digitális ügyfélkiszolgálás során alkalmazott rendszerek és megoldások garantálják az ügyféladatok, üzleti adatok és személyes adatok hitelességét, a hitelesség hosszú távú fenntarthatóságát, valamint az adatok biztonságos és zárt kezelését.
 
-[^24]: Az 5/B. §-t a 157/2016. (VI. 13.) Korm. rendelet 2. §-a iktatta be.
-[^25]: Az 5/B. § t) pontját a 399/2020. (VIII. 12.) Korm. rendelet 3. §-a iktatta be.
+[^25]: Az 5/B. §-t a 157/2016. (VI. 13.) Korm. rendelet 2. §-a iktatta be.
+[^26]: Az 5/B. § t) pontját a 399/2020. (VIII. 12.) Korm. rendelet 3. §-a iktatta be.

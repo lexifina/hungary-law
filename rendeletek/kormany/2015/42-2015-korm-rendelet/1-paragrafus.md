@@ -8,4 +8,6 @@ c) a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény (a t
 
 d) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) szerinti befektetési vállalkozásra és árutőzsdei szolgáltatóra
 
+(a továbbiakban együtt: intézmény) terjed ki.
+
 [^1]: Az 1. § a 157/2016. (VI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
