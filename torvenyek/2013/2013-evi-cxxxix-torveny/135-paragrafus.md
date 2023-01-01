@@ -7,3 +7,5 @@
 (4) Az MNB elnöke az MNB működésének irányításával összefüggő, a működés szempontjából kiemelten fontos, az igazgatóság 12. § szerinti jogkörében meghozott döntésekről a döntés meghozatalát követően tájékoztatja a minisztert. Az MNB köteles az általa végrehajtott devizaműveletekről, valamint az arany- és devizatartalékokról a minisztert hetente tájékoztatni. A miniszter és az MNB elnöke évente írásban megállapodnak az MNB által szolgáltatandó további információk köréről.
 
 (5) A Kormány felkérése alapján az MNB elláthatja a nemzetközi pénzügyi szervezetekben a Kormányra háruló feladatokat, amennyiben erről törvény eltérően nem rendelkezik.
+
+(6) Az MNB a Széchenyi Pihenő Kártya kibocsátásának és felhasználásának szabályairól szóló kormányrendelet szerint a pénzforgalmi szolgáltató adatszolgáltatásán alapuló adatokat a turisztikai térségek fejlesztésének állami feladatát ellátó szerv erre irányuló megkeresése alapján – az érintettekkel kapcsolatba nem hozható módon – a turisztikai térségek fejlesztésének állami feladatát ellátó szerv részére átadja.
