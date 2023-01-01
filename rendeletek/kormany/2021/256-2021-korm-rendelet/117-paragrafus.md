@@ -2,7 +2,7 @@
 
 117. § (1) A 75. § (2) bekezdése szerinti esetben az irányító hatóság döntés-előkészítő bizottságot hív össze a támogatási döntés megalapozása érdekében.
 
-(2)[^103] A döntés-előkészítő bizottságba egy-egy tagot delegál
+(2)[^108] A döntés-előkészítő bizottságba egy-egy tagot delegál
 
 a) az irányító hatóság,
 
@@ -12,9 +12,9 @@ c) az a gazdaságfejlesztési zóna komplex fejlesztéséért felelős kormányb
 
 d) a Terület- és Településfejlesztési Operatív Program Plusz 3. prioritása keretében meghirdetett, alap- és középfokú köznevelési intézményekhez kapcsolódó infrastrukturális fejlesztések megvalósítására irányuló felhívás esetén az Emberi Erőforrás Fejlesztési Operatív Program Plusz 2. prioritásának szakpolitikai felelőse.
 
-(3)[^104]
+(3)[^109]
 
 (4) Az (1) bekezdés szerinti esetben csak az a támogatási kérelem támogatható, amelyet a területi szereplő képviselője is támogatásra javasolt. A területi szereplő képviselője a döntés-előkészítő bizottságban a területi szereplő közgyűlése határozatában hozott döntési javaslatot képviseli.
 
-[^103]: A 117. § (2) bekezdése a 75/2022. (III. 3.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^104]: A 117. § (3) bekezdését a 75/2022. (III. 3.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^108]: A 117. § (2) bekezdése a 75/2022. (III. 3.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^109]: A 117. § (3) bekezdését a 75/2022. (III. 3.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
