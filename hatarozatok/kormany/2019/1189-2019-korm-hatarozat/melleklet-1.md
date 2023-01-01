@@ -12,11 +12,7 @@
 
 ## nyújtandó költségvetési támogatás biztosításával;
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcímet a 36. Magyar Kézilabda Szövetség szakmai feladatainak támogatása jogcímcsoporttal egészíti ki;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
+## 2.[^1]
 
 ## 3. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával gondoskodjon az 1. pont a) alpont aa) pontja szerinti támogatási cél megvalósításához szükséges 1 680 000 000 forint központi költségvetési forrás rendelkezésre állásáról a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 36. Magyar Kézilabda Szövetség szakmai feladatainak támogatása jogcímcsoport javára;
 
@@ -34,15 +30,9 @@
 
 ## Határidő: azonnal
 
-## 5.[^1]
+## 5.[^2]
 
-## 6. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 500 000 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 40. Egyedi sportlétesítmény-fejlesztések támogatása jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 11. Sportlétesítmények fejlesztése és fenntartása jogcímcsoport, 2. Állami, önkormányzati és egyéb sportlétesítmények fejlesztése, fenntartása jogcím javára, az 1. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
+## 6.[^3]
 
 ## 7. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával gondoskodjon az 1. pont b) alpontja szerinti támogatási cél megvalósításához – az 5. pont szerinti forráson felül – szükséges 633 157 776 forint központi költségvetési többletforrás rendelkezésre állásáról a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 11. Sportlétesítmények fejlesztése és fenntartása jogcímcsoport, 2. Állami, önkormányzati és egyéb sportlétesítmények fejlesztése, fenntartása jogcím javára;
 
@@ -66,9 +56,12 @@
 
 ## Határidő: a 3–4. és a 6–8. pont teljesülését követően azonnal
 
-## 10.[^2]
+## 10.[^4]
 
-1. melléklet az 1189/2019. (IV. 5.) Korm. határozathoz
+1. melléklet az 1189/2019. (IV. 5.) Korm. határozathoz[^5]
 
-[^1]: Az 5. pontot az 1299/2019. (V. 27.) Korm. határozat 10. pont b) alpontja visszavonta.
-[^2]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 5. pontot az 1299/2019. (V. 27.) Korm. határozat 10. pont b) alpontja visszavonta.
+[^3]: A 6. pont a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
