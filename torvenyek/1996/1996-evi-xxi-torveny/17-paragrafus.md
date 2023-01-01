@@ -28,7 +28,7 @@ h) a természetvédelemért felelős miniszter képviselője.
 
 (3) A Tokaj Borvidék Fejlesztési Tanács tagjai:
 
-a) a Borsod-Abaúj-Zemplén megyei közgyűlés elnöke és a megyei közgyűlés egy további képviselője,
+a) a Borsod-Abaúj-Zemplén vármegyei közgyűlés elnöke és a vármegyei közgyűlés egy további képviselője,
 
 b) az európai uniós források felhasználásáért felelős miniszter képviselője,
 

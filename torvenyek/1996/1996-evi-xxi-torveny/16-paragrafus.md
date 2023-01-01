@@ -6,7 +6,7 @@
 
 (4) A térségi fejlesztési tanács működtetését a tagok által képviselt szervezetek befizetései és egyéb bevételek biztosítják. A működtetéshez a központi költségvetés támogatást nem nyújt.
 
-(5) A térségi fejlesztési tanács működésének törvényességi felügyeletét a térségi fejlesztési tanács székhelye szerint illetékes megyei kormányhivatal látja el.
+(5) A térségi fejlesztési tanács működésének törvényességi felügyeletét a térségi fejlesztési tanács székhelye szerint illetékes vármegyei kormányhivatal látja el.
 
 (6) A térségi fejlesztési tanács
 
@@ -20,6 +20,6 @@ d) megállapodást köthet az érintett miniszterekkel a térségi fejlesztési 
 
 e) figyelemmel kíséri az operatív programok térséget érintő feladatainak végrehajtását, erre irányuló kormányzati döntés esetén közreműködik az operatív programok térséget érintő feladatainak végrehajtásában,
 
-f) előzetesen véleményezi az illetékességi területe szerinti megyék területfejlesztési koncepcióját és programját,
+f) előzetesen véleményezi az illetékességi területe szerinti vármegyék területfejlesztési koncepcióját és programját,
 
 g) tevékenységéről a tárgyévet követő év március 31-éig beszámolót készít, amelyet megküld a területfejlesztés stratégiai tervezéséért felelős miniszternek.

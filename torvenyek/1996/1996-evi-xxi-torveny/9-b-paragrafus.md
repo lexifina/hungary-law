@@ -6,7 +6,7 @@ b) kidolgozza az országos fejlesztési és területfejlesztési koncepciót, va
 
 c) elősegíti a területi tervek, valamint a területi tervek és az ágazati tervek összhangját;
 
-d) a Kormány részére javaslatot tesz a régiók területi lehatárolására, az érintett megyei önkormányzatok és az országos önkormányzati szövetségek véleményének figyelembevételével, a területfejlesztési miniszterrel egyetértésben;
+d) a Kormány részére javaslatot tesz a régiók területi lehatárolására, az érintett vármegyei önkormányzatok és az országos önkormányzati szövetségek véleményének figyelembevételével, a területfejlesztési miniszterrel egyetértésben;
 
 e)
 
@@ -14,7 +14,7 @@ f) gondoskodik a területfejlesztéssel kapcsolatos információs rendszerről, 
 
 g) kezeli a területfejlesztési célok megvalósítását közvetlenül szolgáló fejezeti kezelésű előirányzatot és koordinálja a területfejlesztési célok megvalósítását közvetetten szolgáló fejezeti kezelésű előirányzatok felhasználását;
 
-h) a megyei önkormányzatok, a fővárosi önkormányzat és a megyei jogú városok önkormányzatainak bevonásával kidolgozza a területi szempontú fejlesztéseket tartalmazó operatív programokat, gondoskodik megvalósításukról, érvényesülésük érdekében nyomon követi és értékeli azok végrehajtását;
+h) a vármegyei önkormányzatok, a fővárosi önkormányzat és a megyei jogú városok önkormányzatainak bevonásával kidolgozza a területi szempontú fejlesztéseket tartalmazó operatív programokat, gondoskodik megvalósításukról, érvényesülésük érdekében nyomon követi és értékeli azok végrehajtását;
 
 i) javaslatot tesz a kedvezményezett járások besorolásának feltételrendszerére és besorolására, a településfejlesztésért és településrendezésért felelős miniszter közreműködésével;
 

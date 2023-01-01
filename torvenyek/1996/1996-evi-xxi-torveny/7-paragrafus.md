@@ -44,4 +44,4 @@ p) dönt a regionális támogatási térkép koncepciójáról;
 
 q) meghatározza a térségi fejlesztési tanács létrehozásával, működésével, sajátos gazdálkodásával kapcsolatos feladatokat és szabályokat, a térségi fejlesztési tanács szervezeti és működési rendjének általános szabályait;
 
-r) meghatározza a megyei önkormányzatok és a térségi fejlesztési tanácsok területfejlesztési tevékenységében végzett beszámolási kötelezettségét, valamint a területfejlesztés érdekegyeztetési és konzultációs fórumainak működését.
+r) meghatározza a vármegyei önkormányzatok és a térségi fejlesztési tanácsok területfejlesztési tevékenységében végzett beszámolási kötelezettségét, valamint a területfejlesztés érdekegyeztetési és konzultációs fórumainak működését.

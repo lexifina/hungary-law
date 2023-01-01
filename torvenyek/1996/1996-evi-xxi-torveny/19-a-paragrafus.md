@@ -18,11 +18,11 @@ e) operatív program,
 
 f) kiemelt térségi szintű területfejlesztési program,
 
-g) megyei és budapesti szintű területfejlesztési koncepció,
+g) vármegyei és budapesti szintű területfejlesztési koncepció,
 
-h) megyei szintű területrendezési terv,
+h) vármegyei szintű területrendezési terv,
 
-i) megyei és budapesti szintű területfejlesztési program,
+i) vármegyei és budapesti szintű területfejlesztési program,
 
 j) térségi fejlesztési tanács által elfogadott területfejlesztési koncepció,
 

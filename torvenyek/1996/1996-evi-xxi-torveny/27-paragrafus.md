@@ -1,6 +1,6 @@
 27. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-a) a térségi fejlesztési tanács létrehozásával, működésével, sajátos gazdálkodásával kapcsolatos feladatokat, és szabályokat, valamint a megyei önkormányzatok és a térségi fejlesztési tanácsok e törvény alapján ellátott tevékenységéről szóló éves beszámolási, illetve tájékoztatási kötelezettség szabályait;
+a) a térségi fejlesztési tanács létrehozásával, működésével, sajátos gazdálkodásával kapcsolatos feladatokat, és szabályokat, valamint a vármegyei önkormányzatok és a térségi fejlesztési tanácsok e törvény alapján ellátott tevékenységéről szóló éves beszámolási, illetve tájékoztatási kötelezettség szabályait;
 
 b) a kedvezményezett járások és települések besorolásának feltételrendszerét és besorolását,
 
@@ -12,7 +12,7 @@ e) a szabad vállalkozási zónák létrehozásának és működésének, valami
 
 f) a területfejlesztéssel és területrendezéssel kapcsolatos információs rendszert és a kötelező adatközlés szabályait;
 
-g) a 8. § szerinti esetekben az egyedi, az országos, a kiemelt térségi és a megyei területrendezési terv rendelkezéseitől eltérő vagy annak alkalmazását kizáró területrendezési szabályokat és különös hatósági eljárási szabályokat.
+g) a 8. § szerinti esetekben az egyedi, az országos, a kiemelt térségi és a vármegyei területrendezési terv rendelkezéseitől eltérő vagy annak alkalmazását kizáró területrendezési szabályokat és különös hatósági eljárási szabályokat.
 
 h) a területi monitoring rendszer feladat- és hatáskörét, szervezeti és működési rendjét, a területfejlesztést közvetlenül vagy közvetve szolgáló források felhasználásáról készülő területi értékelés elkészítésének módszertani szabályait;
 
@@ -44,7 +44,7 @@ t) a területrendezési tervekben nem szereplő műszaki infrastruktúrahálóza
 
 u) a 23/D. § (3) bekezdésében meghatározott övezetekben és esetekben a beépítésre szánt területek kivételes kijelölésére, valamint a területcserére vonatkozó területrendezési hatósági eljárás részletes szabályait;
 
-v) a kiemelt térségi vagy megyei területrendezési terv övezeti tervlapjain meghatározott övezeti határok és a térségi szerkezeti tervben meghatározott műszaki infrastruktúrahálózatok nyomvonalainak településrendezési mélységű pontosítására vonatkozó területrendezési hatósági eljárás részletes szabályait;
+v) a kiemelt térségi vagy vármegyei területrendezési terv övezeti tervlapjain meghatározott övezeti határok és a térségi szerkezeti tervben meghatározott műszaki infrastruktúrahálózatok nyomvonalainak településrendezési mélységű pontosítására vonatkozó területrendezési hatósági eljárás részletes szabályait;
 
 w)
 
@@ -56,9 +56,9 @@ z) a területfejlesztéssel és a területrendezéssel összefüggésben megőrz
 
 (3)
 
-(4) Felhatalmazást kap a megyei önkormányzat, hogy önkormányzati rendeletet alkosson a területfejlesztési és vidékfejlesztési koordináció részletes szabályairól.
+(4) Felhatalmazást kap a vármegyei önkormányzat, hogy önkormányzati rendeletet alkosson a területfejlesztési és vidékfejlesztési koordináció részletes szabályairól.
 
-(5) A területfejlesztés stratégiai tervezéséért felelős miniszter évente, a tárgyévet követő június 15-éig beszámol a Kormánynak a megyei önkormányzatok területfejlesztési feladatairól, valamint a térségi fejlesztési tanácsok működéséről.
+(5) A területfejlesztés stratégiai tervezéséért felelős miniszter évente, a tárgyévet követő június 15-éig beszámol a Kormánynak a vármegyei önkormányzatok területfejlesztési feladatairól, valamint a térségi fejlesztési tanácsok működéséről.
 
 (6)
 

@@ -8,4 +8,4 @@
 
 (2)
 
-(3) A területfejlesztési önkormányzati társulások felett a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) törvényességi felügyeletet gyakorol.
+(3) A területfejlesztési önkormányzati társulások felett a fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) törvényességi felügyeletet gyakorol.

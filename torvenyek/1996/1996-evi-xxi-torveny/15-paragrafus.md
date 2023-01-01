@@ -1,12 +1,12 @@
 ## Térségi Fejlesztési Tanács
 
-15. § (1) Az e törvényben foglalt egyes feladatok ellátása érdekében a megyei önkormányzat önállóan vagy a szomszédos megye megyei önkormányzatával közösen térségi fejlesztési tanács létrehozását kezdeményezheti.
+15. § (1) Az e törvényben foglalt egyes feladatok ellátása érdekében a vármegyei önkormányzat önállóan vagy a szomszédos vármegye vármegyei önkormányzatával közösen térségi fejlesztési tanács létrehozását kezdeményezheti.
 
 (2) A térségi fejlesztési tanács jogi személy, amelyet megalakulását követően a Magyar Államkincstár vesz nyilvántartásba.
 
 (3) A térségi fejlesztési tanács tagjai:
 
-a) a térségi fejlesztési tanács illetékességi területén működő megyei közgyűlés elnöke és a megyei közgyűlés egy további delegáltja, valamint
+a) a térségi fejlesztési tanács illetékességi területén működő vármegyei közgyűlés elnöke és a vármegyei közgyűlés egy további delegáltja, valamint
 
 b) a területfejlesztésért felelős miniszter képviselője.
 
@@ -16,7 +16,7 @@ a) a térségi fejlesztési tanács illetékességi területe szerinti
 
 aa) területi gazdasági kamarák egy-egy képviselője,
 
-ab) megyei kormányhivatalok vezetője és állami főépítésze, valamint
+ab) vármegyei kormányhivatalok vezetője és állami főépítésze, valamint
 
 b) a gazdaságfejlesztésért felelős miniszter képviselője,
 

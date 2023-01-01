@@ -1,10 +1,10 @@
-## A megyei önkormányzat vidékfejlesztési és koordinációs feladatai
+## A vármegyei önkormányzat vidékfejlesztési és koordinációs feladatai
 
-13. § A megyei önkormányzat vidékfejlesztési feladatkörében:
+13. § A vármegyei önkormányzat vidékfejlesztési feladatkörében:
 
 a) dönt a hatáskörébe utalt vidékfejlesztési források felhasználásáról,
 
-b) összehangolja a vidékfejlesztési stratégiákat és akciókat a megyei, térségi, határ menti és határon átnyúló fejlesztési és területfejlesztési koncepciókkal és programokkal, valamint a megyét érintő területrendezési tervekkel,
+b) összehangolja a vidékfejlesztési stratégiákat és akciókat a vármegyei, térségi, határ menti és határon átnyúló fejlesztési és területfejlesztési koncepciókkal és programokkal, valamint a vármegyét érintő területrendezési tervekkel,
 
 c) egyetértési jogkört gyakorol a vidékfejlesztési stratégiák, akciók jóváhagyását megelőzően,
 

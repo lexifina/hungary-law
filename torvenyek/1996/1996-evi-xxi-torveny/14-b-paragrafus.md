@@ -1,11 +1,11 @@
-## Megyei területfejlesztési konzultációs fórum
+## Vármegyei területfejlesztési konzultációs fórum
 
-14/B. § (1) A megyei közgyűlés és a – megye területén működő – megyei jogú város(ok) közgyűlése(i) megyei területfejlesztési konzultációs fórumot működtetnek.
+14/B. § (1) A vármegyei közgyűlés és a – vármegye területén működő – megyei jogú város(ok) közgyűlése(i) vármegyei területfejlesztési konzultációs fórumot működtetnek.
 
-(2) A megyei területfejlesztési konzultációs fórumba a megyei jogú város közgyűlése egy képviselőt delegál. A megyei területfejlesztési konzultációs fórumba a megyei közgyűlés a megyei jogú várost képviselők számával azonos számú képviselőt delegál.
+(2) A vármegyei területfejlesztési konzultációs fórumba a megyei jogú város közgyűlése egy képviselőt delegál. A vármegyei területfejlesztési konzultációs fórumba a vármegyei közgyűlés a megyei jogú várost képviselők számával azonos számú képviselőt delegál.
 
-(3) A megyei területfejlesztési konzultációs fórum előzetesen állást foglal a megyei közgyűlés területfejlesztést érintő ügyeiben.
+(3) A vármegyei területfejlesztési konzultációs fórum előzetesen állást foglal a megyei közgyűlés területfejlesztést érintő ügyeiben.
 
-(4) A megyei területfejlesztési konzultációs fórum véleményét a megyei közgyűlés ülésén a vonatkozó napirend tárgyalásakor ismertetni kell.
+(4) A vármegyei területfejlesztési konzultációs fórum véleményét a vármegyei közgyűlés ülésén a vonatkozó napirend tárgyalásakor ismertetni kell.
 
-(5) A megyei területfejlesztési konzultációs fórum munkaszervezettel nem rendelkezik. Titkársági feladatait a tagok megegyezése szerinti önkormányzati hivatal látja el.
+(5) A vármegyei területfejlesztési konzultációs fórum munkaszervezettel nem rendelkezik. Titkársági feladatait a tagok megegyezése szerinti önkormányzati hivatal látja el.

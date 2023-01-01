@@ -12,4 +12,4 @@ d) települési szintű tervek.
 
 (3) Az egyes szakpolitikai stratégiák és a hálózatfejlesztési terv szakpolitikai tartalmat adnak az országos szintű területrendezési terv kidolgozásához.
 
-(4) A települési szintű terveknek meg kell felelnie a megyei szintű területfejlesztési koncepciónak és területrendezési tervnek.
+(4) A települési szintű terveknek meg kell felelnie a vármegyei szintű területfejlesztési koncepciónak és területrendezési tervnek.
