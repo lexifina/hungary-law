@@ -6,11 +6,7 @@ A Kormány
 
 3. egyetért azzal, hogy a fejlesztés megvalósítója a Beruházási Ügynökség legyen;
 
-4. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 3. Kiemelt kormányzati magasépítési beruházásokkal kapcsolatos kiadások cím, 3. Egyedi magasépítési beruházások alcímet a 2. Szegedi Tudományegyetem Állam- és Jogtudományi Kar épületének fejlesztése jogcímcsoporttal egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+4.[^1]
 
 5. felhívja a pénzügyminisztert és a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a fejlesztés megvalósításához szükséges költségvetési fedezetet – amelynek a kivitelezési dokumentáción alapuló becsült értéke 1 692 000 000 forint – a Beruházási Ügynökség kezelése alatt álló kiadási előirányzatként biztosítsa, a fejlesztésre már rendelkezésre álló fedezet bevonásával, a beruházási kiadások felmerülésének ütemében.
 
@@ -19,3 +15,5 @@ Felelős: pénzügyminiszter
 nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: a felmerülés ütemében
+
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
