@@ -1,5 +1,3 @@
-## teljesíthető.
-
 3. § (1) Az e rendelet alapján beszedett igazgatási szolgáltatási díjak ellenőrzése céljából az eljáró szerv a beszedett igazgatási szolgáltatási díjakról nyilvántartást vezet.
 
 (2) Az (1) bekezdés szerinti nyilvántartás tartalmazza
