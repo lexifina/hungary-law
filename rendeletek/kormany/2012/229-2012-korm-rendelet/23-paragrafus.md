@@ -6,7 +6,7 @@ a) a felvételi lehetőségről szóló tájékoztatót,
 
 b) a beiratkozásra meghatározott időt, a fenntartó által engedélyezett osztályok, csoportok számát,
 
-c)[^54] köznevelési alapfeladatot ellátó intézményegységenként a térítési díj, a tandíj, egyéb díjfizetési kötelezettség (a továbbiakban együtt: díj) jogcímét és mértékét, továbbá tanévenként, nevelési évenként az egy főre megállapított díjak mértéket, a fenntartó által adható kedvezményeket, beleértve a jogosultsági és igénylési feltételeket is,
+c)[^56] köznevelési alapfeladatot ellátó intézményegységenként a térítési díj, a tandíj, egyéb díjfizetési kötelezettség (a továbbiakban együtt: díj) jogcímét és mértékét, továbbá tanévenként, nevelési évenként az egy főre megállapított díjak mértéket, a fenntartó által adható kedvezményeket, beleértve a jogosultsági és igénylési feltételeket is,
 
 d) a fenntartó nevelési-oktatási intézmény munkájával összefüggő értékelésének nyilvános megállapításait és idejét, a köznevelési alapfeladattal kapcsolatos – nyilvános megállapításokat tartalmazó – vizsgálatok, ellenőrzések felsorolását, idejét, az Állami Számvevőszék ellenőrzéseinek nyilvános megállapításait, egyéb ellenőrzések, vizsgálatok nyilvános megállapításait,
 
@@ -58,7 +58,7 @@ c) az első minősítés évéhez viszonyítva az előképző, az alapfokú és 
 
 d) az országos, nemzetközi és egyéb szakmai bemutatókon, rendezvényeken, versenyeken, fesztiválokon, kiállításokon való részvételt,
 
-e) a megyei, területi szakmai bemutatókon, versenyeken elért eredményeket,
+e)[^57] a vármegyei, területi szakmai bemutatókon, versenyeken elért eredményeket,
 
 f) az alapfokú művészeti iskola rendezvényeit, hagyományait,
 
@@ -76,4 +76,5 @@ c) a nevelési-oktatási intézményekkel, pedagógiai szakszolgálat esetén a 
 
 d) tanévenkénti bontásban a díjfizetés mellett igénybe vehető szolgáltatásokat, azok díjtételeit.
 
-[^54]: A 23. § (1) bekezdés c) pontja a 13/2020. (II. 7.) Korm. rendelet 73. § 8. pontja szerint módosított szöveg.
+[^56]: A 23. § (1) bekezdés c) pontja a 13/2020. (II. 7.) Korm. rendelet 73. § 8. pontja szerint módosított szöveg.
+[^57]: A 23. § (5) bekezdés e) pontja a 616/2022. (XII. 29.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.

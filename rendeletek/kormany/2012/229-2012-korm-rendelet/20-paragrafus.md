@@ -34,7 +34,7 @@ a) a személyi jellegű kifizetéseket:
 
 aa) bérköltséget, ebből pedagógus-, nevelő-oktató munkát közvetlenül segítő-, pedagógiai előadó-, pedagógiai szakértő-munkakört, gazdasági, ügyviteli, műszaki, kisegítő munkakört betöltőkre vonatkozó kifizetéseket,
 
-ab)[^45] munkaadókat terhelő járulékokat, ebből a pedagógusokra, valamint a szociális hozzájárulási adóra vonatkozó kifizetéseket,
+ab)[^46] munkaadókat terhelő járulékokat, ebből a pedagógusokra, valamint a szociális hozzájárulási adóra vonatkozó kifizetéseket,
 
 ac) személyi jellegű egyéb kifizetéseket, ebből a pedagógusokra vonatkozó kifizetéseket,
 
@@ -42,7 +42,7 @@ ad) egyéb, különösen az adatszolgáltatás évét megelőző naptári évben
 
 b) az óraadó tanárok számára történő kifizetéseket,
 
-c)[^46] a dologi, anyagi jellegű kifizetéseket, felújításokat, beruházásokat, a köznevelésialapfeladat-ellátást szolgáló épület karbantartásával kapcsolatos kiadásokat,
+c)[^47] a dologi, anyagi jellegű kifizetéseket, felújításokat, beruházásokat, a köznevelésialapfeladat-ellátást szolgáló épület karbantartásával kapcsolatos kiadásokat,
 
 d) az étkezésre, a könyvtári állomány gyarapítására, a tartós tankönyvek beszerzésére fordított kifizetéseket.
 
@@ -52,5 +52,5 @@ d) az étkezésre, a könyvtári állomány gyarapítására, a tartós tanköny
 
 (6) A nyilvántartást úgy kell felépíteni, hogy az alkalmas legyen a korábban gyűjtött adatok tárolására, összehasonlító elemzések készítésére, valamint a fenntartó által megadott adatok alapján megállapítható legyen az egy gyermekre, tanulóra jutó állami támogatás összege, továbbá az, hogy az egyes köznevelési intézmények feladatainak ellátásához igénybe vett állami támogatás intézményegységenként a teljes intézményi költségvetés hány százalékát fedezte.
 
-[^45]: A 20. § (3) bekezdés a) pont ab) alpontja a 307/2017. (X. 27.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
-[^46]: A 20. § (3) bekezdés c) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § i) pontja, a 13/2020. (II. 7.) Korm. rendelet 73. § 6. pontja szerint módosított szöveg.
+[^46]: A 20. § (3) bekezdés a) pont ab) alpontja a 307/2017. (X. 27.) Korm. rendelet 9. § 2. pontja szerint módosított szöveg.
+[^47]: A 20. § (3) bekezdés c) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § i) pontja, a 13/2020. (II. 7.) Korm. rendelet 73. § 6. pontja szerint módosított szöveg.

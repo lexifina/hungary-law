@@ -40,7 +40,7 @@
 
 16. a tanulói teljesítménymérések lebonyolításához szükséges adatokat, a tanulók teljesítményével kapcsolatos mérési eredményeket,
 
-17.[^6] a köznevelési intézmény köznevelési feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) által megküldött, köznevelési intézmény által felvett baleseti jegyzőkönyvek alapján készített jelentést,
+17.[^6] a köznevelési intézmény köznevelési feladatkörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) által megküldött, köznevelési intézmény által felvett baleseti jegyzőkönyvek alapján készített jelentést,
 
 18.[^7] az országos szakértői és érettségi vizsgaelnöki névjegyzéket,
 
@@ -71,7 +71,7 @@ e) a begyűjtött és tárolt adatokból az Európai Unió közvetlenül alkalma
 [^3]: Az 1. § (2) bekezdés 1. pontja a 13/2020. (II. 7.) Korm. rendelet 74. § (1) bekezdés 1. pontja szerint módosított szöveg.
 [^4]: Az 1. § (2) bekezdés 6. pontja a 307/2017. (X. 27.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
 [^5]: Az 1. § (2) bekezdés 10. pontja a 307/2017. (X. 27.) Korm. rendelet 9. § 1. pontja szerint módosított szöveg.
-[^6]: Az 1. § (2) bekezdés 17. pontja a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^6]: Az 1. § (2) bekezdés 17. pontja a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 141. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (2) bekezdés 18. pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont aa) alpontja szerint módosított szöveg.
 [^8]: Az 1. § (2) bekezdés 20. pontja a 486/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja, a 457/2017. (XII. 28.) Korm. rendelet 403. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^9]: Az 1. § (2) bekezdés 21. pontját a 354/2016. (XI. 18.) Korm. rendelet 1. §-a iktatta be.

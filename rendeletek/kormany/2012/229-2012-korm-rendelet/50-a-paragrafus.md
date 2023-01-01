@@ -1,3 +1,3 @@
-## 50. §[^265]
+50/A. §[^274]
 
-[^265]: Az 50. §-t a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 5. pontja hatályon kívül helyezte.
+[^274]: Az 50/A. §-t a 353/2013. (X. 4.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 13/2020. (II. 7.) Korm. rendelet 74. § (2) bekezdés 6. pontja.
