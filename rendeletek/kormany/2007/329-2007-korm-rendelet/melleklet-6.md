@@ -1,4 +1,4 @@
-6. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^176]
+6. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^239]
 
 1. A Nemzetközi Bűnügyi Együttműködési Központ
 
@@ -18,4 +18,4 @@
 
 1.8. ellátja a készpénz-helyettesítő fizetési eszközzel elkövetett csalás és a készpénz-helyettesítő fizetési eszközök hamisítása elleni küzdelemről, valamint a 2001/413/IB tanácsi kerethatározat felváltásáról szóló, 2019. április 17-i (EU) 2019/713 európai parlamenti és tanácsi irányelv 14. cikke szerinti nemzeti kapcsolattartó pont feladatait.
 
-[^176]: A 6. mellékletet a 276/2021. (V. 26.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^239]: A 6. mellékletet a 276/2021. (V. 26.) Korm. rendelet 6. § (3) bekezdése iktatta be.

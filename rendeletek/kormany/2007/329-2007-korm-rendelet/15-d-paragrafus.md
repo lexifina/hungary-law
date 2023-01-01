@@ -1,3 +1,3 @@
-## 15/C. §[^157] A Belügyminisztérium Nemzetközi Oktatási Központ 2016. szeptember 1-jétől Nemzetközi Oktatási Központként működik tovább.
+## 15/C. §[^180] A Belügyminisztérium Nemzetközi Oktatási Központ 2016. szeptember 1-jétől Nemzetközi Oktatási Központként működik tovább.
 
-[^157]: A 15/C. §-t a 227/2016. (VII. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^180]: A 15/C. §-t a 227/2016. (VII. 29.) Korm. rendelet 1. § (4) bekezdése iktatta be.

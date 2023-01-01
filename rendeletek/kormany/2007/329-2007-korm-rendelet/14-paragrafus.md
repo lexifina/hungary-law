@@ -2,24 +2,34 @@
 
 (2) A Határőrség megszűnt szerveinél bármely foglalkoztatási jogviszonyban álló személyek tekintetében a foglalkoztatási jogviszonyból származó, munkáltatót megillető jogok és terhelő kötelezettségek vonatkozásában:
 
-a) a Győri Határőr Igazgatóság jogutódja a Győr-Moson-Sopron Megyei Rendőr-főkapitányság,
+a)[^160] a Győri Határőr Igazgatóság jogutódja a Győr-Moson-Sopron Vármegyei Rendőr-főkapitányság,
 
-b) a Szombathelyi Határőr Igazgatóság jogutódja a Vas Megyei Rendőr-főkapitányság,
+b)[^161] a Szombathelyi Határőr Igazgatóság jogutódja a Vas Vármegyei Rendőr-főkapitányság,
 
-c) a Nagykanizsai Határőr Igazgatóság jogutódja a Zala Megyei Rendőr-főkapitányság,
+c)[^162] a Nagykanizsai Határőr Igazgatóság jogutódja a Zala Vármegyei Rendőr-főkapitányság,
 
-d) a Pécsi Határőr Igazgatóság jogutódja a Baranya Megyei Rendőr-főkapitányság,
+d)[^163] a Pécsi Határőr Igazgatóság jogutódja a Baranya Vármegyei Rendőr-főkapitányság,
 
-e) a Kiskunhalasi Határőr Igazgatóság jogutódja a Bács-Kiskun Megyei Rendőr-főkapitányság,
+e)[^164] a Kiskunhalasi Határőr Igazgatóság jogutódja a Bács-Kiskun Vármegyei Rendőr-főkapitányság,
 
-f) az Orosházi Határőr Igazgatóság jogutódja a Békés Megyei Rendőr-főkapitányság,
+f)[^165] az Orosházi Határőr Igazgatóság jogutódja a Békés Vármegyei Rendőr-főkapitányság,
 
-g) a Nyírbátori Határőr Igazgatóság jogutódja a Szabolcs-Szatmár-Bereg Megyei Rendőr-főkapitányság,
+g)[^166] a Nyírbátori Határőr Igazgatóság jogutódja a Szabolcs-Szatmár-Bereg Vármegyei Rendőr-főkapitányság,
 
-h) a Miskolci Határőr Igazgatóság jogutódja a Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság,
+h)[^167] a Miskolci Határőr Igazgatóság jogutódja a Borsod-Abaúj-Zemplén Vármegyei Rendőr-főkapitányság,
 
-i) Balassagyarmati Határőr Igazgatóság jogutódja a Nógrád Megyei Rendőr-főkapitányság,
+i)[^168] Balassagyarmati Határőr Igazgatóság jogutódja a Nógrád Vármegyei Rendőr-főkapitányság,
 
 j) a Budapesti Határőr Igazgatóság jogutódja a Repülőtéri Rendőr Igazgatóság,
 
 k) a Határőrség Országos Parancsnoksága és az irányítása alatt álló, az a)–j) pontban fel nem sorolt szervek jogutódja az Országos Rendőr-főkapitányság.
+
+[^160]: A 14. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^161]: A 14. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^162]: A 14. § (2) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^163]: A 14. § (2) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^164]: A 14. § (2) bekezdés e) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^165]: A 14. § (2) bekezdés f) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^166]: A 14. § (2) bekezdés g) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^167]: A 14. § (2) bekezdés h) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
+[^168]: A 14. § (2) bekezdés i) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.

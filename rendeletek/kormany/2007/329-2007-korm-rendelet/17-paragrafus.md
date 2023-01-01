@@ -1,6 +1,4 @@
-## való megfelelést szolgálja.
-
-17. §[^160] (1) Ez a rendelet
+17. §[^183] (1) Ez a rendelet
 
 a) a pirotechnikai termékek nyomonkövetési rendszerének a 2007/23/EK európai parlamenti és tanácsi irányelv alapján történő létrehozásáról szóló, 2014. április 16-i 58/2014/EU bizottsági rendelet,
 
@@ -18,7 +16,7 @@ g) a Schengeni Információs Rendszer második generációjának (SIS II) létre
 
 h) a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet (a továbbiakban: 2018/1862 európai parlamenti és tanácsi rendelet)
 
-## végrehajtásához szükséges rendelkezéseket állapít meg.
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) Ez a rendelet
 
@@ -34,4 +32,6 @@ e) a határokon átnyúló vonatkozású, járművekkel kapcsolatos bűncselekm�
 
 f) a SIRENE Kézikönyvről és a Schengeni Információs Rendszer második generációja (SIS II) további végrehajtási intézkedéseiről szóló 2003/115/EU végrehajtási határozat mellékletének felváltásáról szóló, 2017. augusztus 31-i (EU) 2017/1528 bizottsági végrehajtási határozat
 
-[^160]: A 17. §-t a 100/2015. (IV. 20.) Korm. rendelet 31. §-a iktatta be, szövege a 276/2021. (V. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
+[^183]: A 17. §-t a 100/2015. (IV. 20.) Korm. rendelet 31. §-a iktatta be, szövege a 276/2021. (V. 26.) Korm. rendelet 5. §-ával megállapított szöveg.

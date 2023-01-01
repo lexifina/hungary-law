@@ -1,1 +1,3 @@
-## ellátja a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 4. §-ában meghatározott hatósági feladatokat, valamint első fokon elbírálja a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény 10/A. §-a szerinti panaszt.
+10/A. §[^92]
+
+[^92]: A 10/A. §-t a 276/2010. (XII. 15.) Korm. rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 350/2016. (XI. 18.) Korm. rendelet 13. § (2) bekezdése.
