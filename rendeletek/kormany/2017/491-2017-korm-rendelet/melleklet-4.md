@@ -1,5 +1,3 @@
-## A beépített tűzjelző berendezés, illetve a beépített tűzoltó berendezés használatbavételéhez szükséges engedély iránti kérelem mellékletét képező dokumentáció tartalma
-
 ## A) Valamennyi berendezés esetében vizsgálja a hatóság:
 
 ## 1. a kivitelezésért felelős műszaki vezető, ennek hiányában a kivitelező nyilatkozatát arról, hogy a berendezés
@@ -76,9 +74,9 @@
 
 ## 4. az oltóközpont helyiségét határoló építményszerkezetek előírt tűzterjedés elleni védelmét biztosító megoldások megfelelőségét, teljesítményét igazoló iratokat.
 
-4. melléklet a 491/2017. (XII. 29.) Korm. rendelethez[^13]
+4. melléklet a 491/2017. (XII. 29.) Korm. rendelethez[^14]
 
-## A beépített tűzjelző berendezés, illetve a beépített tűzoltó berendezés megszüntetéséhez szükséges engedély iránti kérelem mellékletét képező nyilatkozat tartalma
+A beépített tűzjelző berendezés, illetve a beépített tűzoltó berendezés megszüntetéséhez szükséges engedély iránti kérelem mellékletét képező nyilatkozat tartalma
 
 ## A) Valamennyi berendezés esetében vizsgálja a hatóság:
 
@@ -94,4 +92,4 @@
 
 1.5. arról, hogy tudomásul veszi a berendezés megszüntetésével kialakuló tűzvédelmi biztonsági szintet és annak következményeit.
 
-[^13]: A 4. mellékletet a 176/2019. (VII. 18.) Korm. rendelet 14. § (7) bekezdés d) pontja iktatta be.
+[^14]: A 4. mellékletet a 176/2019. (VII. 18.) Korm. rendelet 14. § (7) bekezdés d) pontja iktatta be.

@@ -6,7 +6,7 @@ b) használatbavétele vagy
 
 c) megszüntetése
 
-## iránti kérelmet írásban kell a tűzvédelmi hatósághoz benyújtani.
+iránti kérelmet írásban kell a tűzvédelmi hatósághoz benyújtani.
 
 (2) A kérelem tartalmazza:
 
@@ -28,7 +28,7 @@ c) meglévő berendezés átalakításának, bővítésének létesítési enged
 
 d) megszüntetés esetén a 4. melléklet szerinti
 
-## tartalmi követelményeket vizsgálja az engedélyező hatóság.
+tartalmi követelményeket vizsgálja az engedélyező hatóság.
 
 (4) A kérelem papír alapon vagy elektronikusan nyújtható be. Elektronikusan vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 1. § 45. pontja szerinti tartós adathordozón történő benyújtás esetében PDF/A formátumban, 300 dpi felbontású ábrákkal kell benyújtani.
 
