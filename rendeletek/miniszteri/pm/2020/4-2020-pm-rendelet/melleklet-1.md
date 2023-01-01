@@ -1,5 +1,3 @@
-## 6. §[^1]
-
 1. melléklet a 4/2020. (VI. 30.) PM rendelethez
 
 A nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
@@ -118,7 +116,7 @@ B) Központi hivatal
 
 3.15. a Nemzeti Adó- és Vámhivatal Kiemelt Adó- és Vámigazgatósága valamennyi vezetője, az igazgató, valamint az igazgatóhelyettesek közvetlen munkatársai, továbbá azon foglalkoztatottjai, akik munkaköri leírásuk alapján a Kiemelt Adó- és Vámigazgatóság különös hatáskörébe tartozó adózók ügyeivel foglalkoznak,
 
-3.16. a Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága azon főosztályainak vezetői, foglalkoztatottjai, továbbá azon kijelölt megyei (fővárosi) adó- és vámigazgatóságokon eljáró ügyfélszolgálati foglalkoztatottak, akik munkaköri leírásuk alapján a Kiemelt Adó- és Vámigazgatóság különös hatáskörébe tartozó egyes adózók ügyeit intézik,
+3.16.[^3] a Nemzeti Adó- és Vámhivatal Fellebbviteli Igazgatósága azon főosztályainak vezetői, foglalkoztatottjai, továbbá azon kijelölt vármegyei (fővárosi) adó- és vámigazgatóságokon eljáró ügyfélszolgálati foglalkoztatottak, akik munkaköri leírásuk alapján a Kiemelt Adó- és Vámigazgatóság különös hatáskörébe tartozó egyes adózók ügyeit intézik,
 
 3.17. az informatikai feladatokat ellátó intézet alaptevékenységébe tartozó szervezeti egységek vezetői,
 
@@ -172,4 +170,4 @@ C) Központi államigazgatási szervnek nem minősülő költségvetési szerv
 
 1.14. a miniszterelnök elhelyezését biztosító épületbe állandó belépési engedéllyel rendelkező, szolgáltatási tevékenységet ellátó valamennyi személy munkaköre.
 
-[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet B) rész 3. pont 3.16. alpontja a 22/2022. (XII. 22.) PM rendelet 1. §-a szerint módosított szöveg.

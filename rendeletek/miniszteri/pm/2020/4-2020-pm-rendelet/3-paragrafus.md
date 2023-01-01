@@ -1,5 +1,3 @@
-## minősül az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak.
-
 ## 3. § A foglalkoztató szervezettel foglalkoztatási jogviszonyban vagy a Polgári Törvénykönyvről szóló törvény szerinti szerződéses jogviszonyban álló személy jogviszonya az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak minősül,
 
 a) ha a jogviszony a foglalkoztató szervezet által meghatározott funkcionális jellegű, a foglalkoztató szervezet közhatalmi tevékenységét nem érintő feladat ellátására irányul, és a jogviszony betöltője a feladatellátásával összefüggésben fokozottan ki van téve jogellenes befolyásolási szándéknak, leplezett támadásnak vagy fenyegetésnek,

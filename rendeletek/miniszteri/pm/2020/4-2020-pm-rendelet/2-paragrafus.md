@@ -3,3 +3,5 @@
 a) munkakör, álláshely, tisztség, beosztás betöltésére irányuló foglalkoztatási jogviszony, illetve
 
 b) feladat ellátására irányuló, a Polgári Törvénykönyvről szóló törvény szerinti szerződéses jogviszony
+
+minősül az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak.
