@@ -8,7 +8,7 @@ b) monitoring, és
 
 c) kommunikációs
 
-## feladatokat lát el.
+feladatokat lát el.
 
 (2) Az európai uniós források felhasználásáért felelős miniszter ellenőrzési és monitoring feladatai körében:
 

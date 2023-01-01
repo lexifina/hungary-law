@@ -15,3 +15,5 @@ c) a tagállami ellenőrzések követelményeit, szempontrendszerét, a tagálla
 d) a projektekkel összefüggő folyamatos adatszolgáltatás és beszámolás szabályait,
 
 e) a költségvetési támogatást nem tartalmazó projektek tekintetében a nemzeti hatóság, a kedvezményezett, a közbenső szervezet és a végrehajtó szerv monitoring tevékenységét, valamint a CEF-fel összefüggő szektor-specifikus monitoring tevékenységet
+
+az európai uniós ügyek koordinációjáért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott rendeletben.

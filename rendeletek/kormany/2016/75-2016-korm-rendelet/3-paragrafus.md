@@ -42,6 +42,6 @@ c) a transzeurópai energiaipari infrastruktúrára vonatkozó iránymutatásokr
 
 d) a távközlési infrastruktúrák területén működő transzeurópai hálózatokra vonatkozó iránymutatásokról és az 1336/97/EK határozat hatályon kívül helyezéséről szóló, 2014. március 11-i 283/2014/EU európai parlamenti és tanácsi rendelet
 
-## szerint kell értelmezni.
+szerint kell értelmezni.
 
 (3) E rendeletet az e rendelet hatálya alá tartozó projektek támogatására vonatkozó, kötelezően alkalmazandó európai uniós jogi aktusokban foglalt eltérésekre figyelemmel kell alkalmazni és értelmezni.

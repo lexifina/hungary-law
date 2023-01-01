@@ -8,7 +8,7 @@ b) a tagállami teljeskörűségi nyilatkozat kibocsátását, vagy
 
 c) az a) vagy a b) pont szerinti nyilatkozat kibocsátásának megtagadását
 
-## követő két munkanapon belül jelentést küld az Európai Bizottság részére.
+követő két munkanapon belül jelentést küld az Európai Bizottság részére.
 
 (2) A jelentésnek tartalmaznia kell:
 

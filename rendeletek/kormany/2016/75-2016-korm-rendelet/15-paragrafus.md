@@ -7,3 +7,5 @@ a) a közlekedési ágazatban a közlekedésért felelős miniszter,
 b) az energetikai ágazatban az energiapolitikáért felelős miniszter,
 
 c) a távközlési ágazatban az informatikáért felelős miniszter
+
+látja el.

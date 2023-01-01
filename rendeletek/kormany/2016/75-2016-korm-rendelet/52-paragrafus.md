@@ -12,5 +12,7 @@ c) a transzeurópai energiaipari infrastruktúrára vonatkozó iránymutatásokr
 
 d) a távközlési infrastruktúrák területén működő transzeurópai hálózatokra vonatkozó iránymutatásokról és az 1336/97/EK határozat hatályon kívül helyezéséről szóló, 2014. március 11-i 283/2014/EU európai parlamenti és tanácsi rendelet
 
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
 [^8]: Az 51/A. §-t a 411/2016. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
 [^9]: A hatálybalépés időpontja 2016. december 14.

@@ -1,5 +1,3 @@
-## látja el.
-
 ## 9. A nemzeti hatóság feladatai
 
 14. § (1) A nemzeti hatóság
@@ -38,6 +36,6 @@ a) a tagállami hozzájáruló-, előrehaladási- és teljeskörűségi nyilatko
 
 b) a CEF-ből finanszírozott intézkedéseknek az Európai Bizottsággal együttműködésben történő értékelésével
 
-## kapcsolatos feladatát.
+kapcsolatos feladatát.
 
 (4) A nemzeti hatóság az 1316/2013/EU európai parlamenti és tanácsi rendelet 22. cikke szerinti tagállami teljeskörűségi nyilatkozatokat csak az általa kibocsátott hozzájáruló nyilatkozattal rendelkező projektek tekintetében adhatja ki akkor, ha azok kedvezményezettje eleget tett a tagállam felé fennálló folyamatos adatszolgáltatási és beszámolási kötelezettségének.

@@ -1,5 +1,3 @@
-## látja el.
-
 ## 10. A közbenső szervezet feladatai
 
 16. § (1) Az a költségvetési szerv, amelyet
@@ -8,7 +6,7 @@ a) jogszabály ekként kijelöl, vagy
 
 b) a nemzeti hatósággal megkötött megállapodás ekként meghatároz
 
-## közbenső szervezetnek minősül.
+közbenső szervezetnek minősül.
 
 (2) A közbenső szervezet a nemzeti hatóság feladatkörébe tartozó, az (1) bekezdés szerint rá átruházott feladatokat látja el. A közbenső szervezet a nemzeti hatóság nevében jár el. A közbenső szervezet tevékenységét a jogszabályokban és a nemzeti hatósággal kötött megállapodásban foglaltak szerint végzi.
 
