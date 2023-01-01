@@ -1,0 +1,5 @@
+22. § Az önkormányzati és létesítményi tűzoltóságokra, valamint a hivatásos tűzoltóság, önkormányzati tűzoltóság és önkéntes tűzoltó egyesület fenntartásához való hozzájárulásra vonatkozó szabályokról szóló 239/2011. (XI. 18.) Korm. rendelet V. Fejezete a következő 37. §-sal egészül ki:
+
+„37. § (1) E rendeletnek a Magyarország biztonságát szolgáló egyes törvények módosításáról szóló törvény végrehajtásával kapcsolatos egyes kormányrendeletek módosításáról szóló 628/2022. (XII. 30.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 18. § (3a) bekezdése szerinti határozatban a hatóság a repülőtéri létesítményi tűzoltóság létrehozására vonatkozó kötelezettséget legkorábban 2023. október 1-től állapíthatja meg.
+
+(2) Ha 2023. október 1-jéig nem születik meg a 18. § (3a) bekezdése szerinti végleges közigazgatási vagy jogerős bírósági határozat, úgy a 18. § (1) bekezdés c) pontja alá tartozó repülőtéren az üzemeltető köteles legalább, a Módr. hatálybalépésének időpontjában a repülőtéren fennálló személyi- és eszközállományú tűzoltó szolgálatot működtetni a végleges, illetve jogerős határozat meghozataláig.”

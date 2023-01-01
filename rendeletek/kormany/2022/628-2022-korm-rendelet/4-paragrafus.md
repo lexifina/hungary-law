@@ -1,0 +1,3 @@
+4. § A külföldre utazásról szóló 1998. évi XII. törvény végrehajtásáról szóló 101/1998. (V. 22.) Korm. rendelet 20/C. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha a kérelmet előterjesztő vagy a javaslatot tevő szerv birtokában korábban kiállított diplomata- vagy külügyi szolgálati útlevél van, és a diplomata vagy a külügyi szolgálati útlevél birtokosának a jogosultságot megalapozó megbízatása vagy jogviszonya megszűnt, akkor az okmányt megküldi a külpolitikáért felelős miniszternek. A diplomata vagy a külügyi szolgálati útlevél érvénytelenítéséről az útlevélhatóság gondoskodik.”

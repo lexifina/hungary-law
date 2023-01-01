@@ -1,0 +1,3 @@
+38. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet 15. alcíme a következő 77. §-sal egészül ki:
+
+„77. § E rendeletnek a Magyarország biztonságát szolgáló egyes törvények módosításáról szóló törvény végrehajtásával kapcsolatos egyes kormányrendeletek módosításáról szóló 628/2022. (XII. 30.) Korm. rendelettel megállapított 9. § (1) bekezdés b) pontja a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”

@@ -1,0 +1,3 @@
+14. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet 158. §-a a következő (5a) bekezdéssel egészül ki:
+
+„(5a) Az idegenrendészeti eljárás során zár alá vett, vagy a külföldre utazási korlátozás érdekében elvett úti okmányt, valamint az idegenrendészeti hatóság rendelkezésére álló, külföldi hatóság által kiállított okmányt az idegenrendészeti hatóság a kiállító hatóságnak visszaküldi, ha az okmány a hatósági eljárásban felhasználásra – különösen országhatár átlépésére – alkalmatlan, és a külföldi részére történő kiadására sincs mód.”

@@ -1,0 +1,3 @@
+28. § A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet 58. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Ha az egyénileg kiválasztott vagy az egyedileg előállított rendszámtábla jogosítottja a rendszámtáblát más, az üzemben tartásában lévő járműre kívánja átszerelni, az eredeti járművet át kell rendszámozni, vagy átmeneti időszakra vagy véglegesen a forgalomból ki kell vonni, és az egyénileg kiválasztott vagy az egyedileg előállított rendszámtáblát a jogosított részére vissza kell adni.”
