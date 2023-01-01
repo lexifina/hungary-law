@@ -1,3 +1,3 @@
-## 17. §[^86] A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal – a gyermekek és az ifjúság védelméért felelős miniszter, örökbefogadással összefüggésben a gyermek- és ifjúságpolitikáért felelős miniszter által meghatározottak szerint – közreműködik az ágazati képzések, továbbképzések szervezésében.
+18. §[^93] A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal a Slachta Margit Nemzeti Szociálpolitikai Intézet bevonásával véleményezi a helyi önkormányzatnak – a Gyvt. 121. §-ának (2) bekezdése alapján megküldött – az önkormányzati ellátórendszer átalakítására vonatkozó javaslatait, és szükség esetén kezdeményezi a javaslatok megváltoztatását.
 
-[^86]: A 17. § a 70/2015. (III. 30.) Korm. rendelet 89. § (6) bekezdés a) pontja, a 238/2022. (VI. 30.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
+[^93]: A 18. § a 70/2015. (III. 30.) Korm. rendelet 89. § (6) bekezdés a) pontja, a 610/2020. (XII. 18.) Korm. rendelet 9. §-a, a 448/2021. (VII. 26.) Korm. rendelet 1. §-a, a 616/2022. (XII. 29.) Korm. rendelet 69. § a) pontja szerint módosított szöveg.

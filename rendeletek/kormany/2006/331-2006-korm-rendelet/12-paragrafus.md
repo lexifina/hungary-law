@@ -1,3 +1,3 @@
-## 11/B. §[^74]
+12. §[^79]
 
-[^74]: A 11/B. §-t a 411/2017. (XII. 15.) Korm. rendelet 6. §-a iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 44. § (11) bekezdés c) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^79]: A 12. §-t a 414/2021. (VII. 13.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.

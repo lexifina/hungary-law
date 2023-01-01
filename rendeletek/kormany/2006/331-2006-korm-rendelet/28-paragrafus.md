@@ -1,1 +1,0 @@
-## Budapest Főváros Kormányhivatala V. Kerületi Gyámhivatala iratjegyzékkel ellátva átadja a XI. Kerületi Gyámhivatal részére, a Budapest Főváros Kormányhivatala Szociális és Gyámhivatala közreműködésével.

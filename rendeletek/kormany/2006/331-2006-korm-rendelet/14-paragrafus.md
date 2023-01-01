@@ -1,11 +1,13 @@
-14. §[^81] (1) A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal ellenőrzési jogkörében legalább négyévenként ellenőrzi a települési önkormányzat jegyzője és a gyámhivatal gyámügyi és gyermekvédelmi hatósági tevékenységének jogszerűségét.
+14. §[^85] (1)[^86] A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal ellenőrzési jogkörében legalább négyévenként ellenőrzi a települési önkormányzat jegyzője és a gyámhivatal gyámügyi és gyermekvédelmi hatósági tevékenységének jogszerűségét.
 
-(2) A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal az (1) bekezdésben meghatározott ellenőrzési jogkörét éves ellenőrzési terv és program szerint gyakorolja, amelyben meghatározza a teljes körű, illetve célellenőrzés alá vont szerveket, valamint a célvizsgálati tárgyköröket.
+(2)[^87] A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal az (1) bekezdésben meghatározott ellenőrzési jogkörét éves ellenőrzési terv és program szerint gyakorolja, amelyben meghatározza a teljes körű, illetve célellenőrzés alá vont szerveket, valamint a célvizsgálati tárgyköröket.
 
-(3)[^82] Az örökbefogadással összefüggő ügyekben és a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter, egyéb tekintetben a gyermekek és az ifjúság védelméért felelős miniszter a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt a gyermekvédelmi és gyámügyi feladatok ellátása tekintetében az ellenőrzési tervben meghatározottakon túl vizsgálat lefolytatására utasíthatja.
+(3)[^88] Az örökbefogadással összefüggő ügyekben és a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter, egyéb tekintetben a gyermekek és az ifjúság védelméért felelős miniszter a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatalt a gyermekvédelmi és gyámügyi feladatok ellátása tekintetében az ellenőrzési tervben meghatározottakon túl vizsgálat lefolytatására utasíthatja.
 
-(4)[^83] A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal az ellenőrzési tervről, valamint az ellenőrzések tapasztalatairól tájékoztatja a gyermekek és az ifjúság védelméért felelős minisztert, valamint a gyermek- és ifjúságpolitikáért felelős minisztert.
+(4)[^89] A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal az ellenőrzési tervről, valamint az ellenőrzések tapasztalatairól tájékoztatja a gyermekek és az ifjúság védelméért felelős minisztert, valamint a gyermek- és ifjúságpolitikáért felelős minisztert.
 
-[^81]: A 14. § a 70/2015. (III. 30.) Korm. rendelet 89. § (4) bekezdésével megállapított szöveg.
-[^82]: A 14. § (3) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 44. § d) pontja szerint módosított szöveg.
-[^83]: A 14. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 44. § e) pontja szerint módosított szöveg.
+[^85]: A 14. § a 70/2015. (III. 30.) Korm. rendelet 89. § (4) bekezdésével megállapított szöveg.
+[^86]: A 14. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 69. § a) pontja szerint módosított szöveg.
+[^87]: A 14. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 69. § a) pontja szerint módosított szöveg.
+[^88]: A 14. § (3) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 44. § d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 69. § a) pontja szerint módosított szöveg.
+[^89]: A 14. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 44. § e) pontja, a 616/2022. (XII. 29.) Korm. rendelet 69. § a) pontja szerint módosított szöveg.
