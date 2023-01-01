@@ -1,0 +1,5 @@
+19. § Az R. a következő 41. §-sal egészül ki:
+
+„41. § (1) E rendeletnek a Magyar Honvédség élelmezési ellátásáról szóló 14/2018. (IX. 17.) HM rendelet módosításáról szóló 27/2022. (XII. 28.) HM rendelettel (a továbbiakban: Módr.2) megállapított 8. § (1) bekezdés 3. pontját nem kell alkalmazni az I. számú élelmezési norma szerinti természetbeni ellátásra jogosult személyi állomány azon tagjára, aki a szolgálat érdekében áthelyezett, kinevezett vagy a Hjt. 42. § (2) bekezdés b) pontja szerint vezényelt hivatásos és szerződéses katona, és a 8. § (1) bekezdés 3. pontja szerinti jogosultságot a Módr.2 hatálybalépése előtt szerezte.
+
+(2) Az (1) bekezdés szerinti igényjogosult állomány részére, amennyiben a meleg étkeztetés feltételei nem biztosítottak, készpénz-megváltás adható.”
