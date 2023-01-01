@@ -1,5 +1,3 @@
-## A beruházások megnevezése és azonosítója
-
 |  | A | B |
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója (település és helyrajzi szám) |
@@ -22,6 +20,8 @@
 
 | 10. | Mezőtúr-Álomzugi belvízöblözet | Mezőtúr 0283, 0325, Túrkeve 0540 |
 
-2. melléklet a 12/2013. (I. 22.) Korm. rendelethez[^10]
+2. melléklet a 12/2013. (I. 22.) Korm. rendelethez[^12]
 
-[^10]: A 2. melléklet a 361/2019. (XII. 30.) Korm. rendelet 32. §-ával megállapított szöveg. E módosító rendelet rendelkezéseit a 96. §-a alapján 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező hatóságok
+
+[^12]: A 2. melléklet a 361/2019. (XII. 30.) Korm. rendelet 32. §-ával megállapított szöveg. E módosító rendelet rendelkezéseit a 96. §-a alapján 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.

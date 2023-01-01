@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-12-20-2
 | 2018-01-01 | 2013-12-20-22.11 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2020-03-01 | 2013-12-20-22.12 | 361/2019. (XII. 30.) Korm. rendelet |
 | 2020-09-11 | 2013-12-20-22.13 | 352/2014. (XII. 29.) Korm. rendelet |
+| 2023-01-01 | 2013-12-20-22.14 | 546/2022. (XII. 22.) Korm. rendelet |
