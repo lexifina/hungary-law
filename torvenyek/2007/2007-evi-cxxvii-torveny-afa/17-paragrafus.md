@@ -28,6 +28,8 @@ i) a köztestületek jogszabályon alapuló átalakulását, ha az tartalmában 
 
 j) egyházi jogi személynek a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti átalakulását, jogutódlással történő megszűnését vagy fenntartójának megváltozását.
 
+k) az agrárgazdaságok átadásáról szóló törvény szerinti gazdaságátadási szerződés alapján megvalósuló gazdaságátadást.
+
 (4) Szintén nem áll be a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás az adóalany általi üzletág-átruházás esetében, feltéve, hogy az a 18. § (1)–(2) bekezdésében meghatározott feltételek szerint történik, és a szerző az üzletágat a további működtetés céljából szerzi meg.
 
 (5) Szintén nem áll be a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás a Ptk. szerinti bizalmi vagyonkezelési szerződés alapján

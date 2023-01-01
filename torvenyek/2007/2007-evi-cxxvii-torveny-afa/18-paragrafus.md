@@ -14,7 +14,7 @@ b) ha a szerzett vagyon olyan ingatlant (ingatlanrészt) tartalmaz
 
 ba) amelyre vonatkozóan az üzletágat átruházó adóalany élt a 88. §-ban említett választási jogával, vagy
 
-bb) amelynek értékesítése az üzletág-átruházás időpontjában a 86. § (1) bekezdés j) pont ja) vagy jb) alpontja hatálya alá tartozna,
+bb) amelynek értékesítése az üzletág-átruházás időpontjában a 86. § (1) bekezdés j) pont ja), jb) vagy jc) alpontja hatálya alá tartozna,
 
 az üzletágat megszerző adóalany a 88. § szerinti adófizetési kötelezettséget válasszon. Az üzletágat megszerző adóalanynak ezen választásáról legkésőbb azon a napon kell bejelentést tennie az állami adóhatóságnak, amelyen a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás beállna, ha a 17. § (4) bekezdése nem lenne alkalmazható.
 
@@ -33,6 +33,8 @@ e) azt a 17. § (3) bekezdés g) pontja szerinti, az Európai Mezőgazdasági Vi
 f) az üzletágat átruházó adóalanyt,
 
 g) a 17. § (5) bekezdés a) pontja esetén a vagyonrendelőt, b) pontja esetén pedig a bizalmi vagyonkezelőt,
+
+h) a gazdaságot átadó személyt a 17. § (3) bekezdés k) pontja szerinti esetben,
 
 azon e törvényben szabályozott kötelezettségek teljesítéséért, amelyek az (1) bekezdés b) pontjában említett vagyonhoz fűződően a szerzésig bezárólag keletkeztek.
 

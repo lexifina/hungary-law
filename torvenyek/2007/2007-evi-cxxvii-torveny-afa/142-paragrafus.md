@@ -2,7 +2,7 @@
 
 a) a 10. § d) pontja szerinti termékértékesítés esetében;
 
-b) a szolgáltatás nyújtásának minősülő olyan építési-szerelési és egyéb szerelési munka esetében, amely ingatlan létrehozatalára, bővítésére, átalakítására vagy egyéb megváltoztatására – ideértve az ingatlan bontással történő megszüntetését is – irányul, feltéve, hogy az ingatlan létrehozatala, bővítése, átalakítása, egyéb megváltoztatása építési hatósági engedély-köteles, építési hatósági tudomásulvételi eljáráshoz vagy egyszerű bejelentéshez kötött, amelyről a szolgáltatás igénybevevője előzetesen és írásban köteles nyilatkozni a szolgáltatás nyújtójának;
+b) a szolgáltatás nyújtásának minősülő olyan építési-szerelési és egyéb szerelési munka esetében, amely ingatlan létrehozatalára, bővítésére, átalakítására vagy egyéb megváltoztatására – ideértve az ingatlan bontással történő megszüntetését és rendeltetésének megváltoztatását is – irányul, feltéve, hogy az ingatlan létrehozatala, bővítése, átalakítása, egyéb megváltoztatása hatósági engedélyhez vagy hatósághoz történő bejelentéshez kötött, amelyről a szolgáltatás igénybevevője előzetesen és írásban köteles nyilatkozni a szolgáltatás nyújtójának;
 
 c) munkaerő kölcsönzése, kirendelése, rendelkezésre bocsátása esetén, amely az a) pont szerinti termékértékesítéshez vagy szolgáltatásnyújtásnak minősülő olyan építési szerelési és egyéb szerelési munkához kapcsolódik, amely ingatlan létrehozatalára, bővítésére, átalakítására vagy egyéb megváltoztatására – ideértve a bontással történő megszüntetését is – irányul;
 

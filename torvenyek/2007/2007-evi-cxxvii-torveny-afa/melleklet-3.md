@@ -678,9 +678,7 @@ Házi sertéshús frissen, hűtve vagy fagyasztva
 
 |
 
-A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan, többlakásos lakóingatlanban kialakítandó vagy kialakított lakás, amelynek összes hasznos alapterülete nem haladja meg
-
-a 150 négyzetmétert (kivéve az 59. pont szerinti lakást)
+A 86. § (1) bekezdés j) pont ja), jb) vagy jc) alpontja alá tartozó olyan, többlakásos lakóingatlanban kialakítandó vagy kialakított lakás, amelynek összes hasznos alapterülete nem haladja meg a 150 négyzetmétert (kivéve az 59. pont szerinti lakást)
 
 |
 
@@ -690,7 +688,7 @@ a 150 négyzetmétert (kivéve az 59. pont szerinti lakást)
 
 |
 
-A 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó olyan egylakásos lakóingatlan, amelynek összes hasznos alapterülete nem haladja meg a 300 négyzetmétert”
+A 86. § (1) bekezdés j) pont ja), jb) vagy jc) alpontja alá tartozó olyan egylakásos lakóingatlan, amelynek összes hasznos alapterülete nem haladja meg a 300 négyzetmétert
 
 |
 
@@ -788,7 +786,7 @@ Házi sertés élelmezési célra alkalmas vágási mellékterméke és belsős�
 
 |
 
-Az épített környezet alakításáról és védelméről szóló törvényben meghatározott rozsdaövezeti akcióterületen található földrészleten létesített többlakásos lakóingatlanban kialakítandó vagy kialakított, 150 négyzetmétert meg nem haladó összes hasznos alapterülettel rendelkező, a 86. § (1) bekezdés j) pont ja) vagy jb) alpontja alá tartozó lakás értékesítése
+Az épített környezet alakításáról és védelméről szóló törvényben meghatározott rozsdaövezeti akcióterületen található földrészleten létesített többlakásos lakóingatlanban kialakítandó vagy kialakított, 150 négyzetmétert meg nem haladó összes hasznos alapterülettel rendelkező, a 86. § (1) bekezdés j) pont ja), jb) vagy jc) alpontja alá tartozó lakás értékesítése
 
 |
 

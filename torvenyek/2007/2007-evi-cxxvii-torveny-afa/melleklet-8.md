@@ -25,5 +25,3 @@ II. rész: gyűjteménydarabok
 2. állattani, növénytani, ásványtani, anatómiai, történelmi értékű, archeológiai, paleontológiai, etnográfiai vagy numizmatikai gyűjtemény és gyűjteménydarab (vtsz. 9705).
 
 III. rész: régiségek
-
-– a vtsz. 9701–9705 alá nem tartozó, 100 évnél idősebb régiség (vtsz. 9706).
