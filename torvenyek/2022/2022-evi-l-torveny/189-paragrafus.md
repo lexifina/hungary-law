@@ -18,7 +18,7 @@
 
 9.
 
-10.
+10. 288/E. § (4) bekezdés e) pontjában a „jogviszonyba, katonai” szövegrész helyébe a „jogviszonyba, adó- és vámhatósági szolgálati jogviszonyba, katonai” szöveg,
 
 11.
 
@@ -28,7 +28,7 @@
 
 14.
 
-15.
+15. 289/I. §-ában az „a 149–151” szövegrész helyébe az „a 142. § (2) bekezdését, 144. § (4) bekezdését, a 149–151” szöveg,
 
 16.
 
@@ -38,7 +38,7 @@
 
 19.
 
-20.
+20. 336/A. § (1) bekezdésében a „tagjának az” szövegrész helyébe a „tagjának, valamint a polgári nemzetbiztonsági szolgálathoz vezényelt hivatásos állomány tagjának az” szöveg,
 
 21.
 

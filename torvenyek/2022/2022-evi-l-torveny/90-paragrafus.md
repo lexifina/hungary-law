@@ -24,7 +24,7 @@
 
 12.
 
-13.
+13. 8. § (3) bekezdésében az „és aj)” szövegrész helyébe az „ , aj) és ak)” szöveg,
 
 14.
 
