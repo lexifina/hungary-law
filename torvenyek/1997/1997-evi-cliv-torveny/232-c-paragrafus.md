@@ -1,4 +1,4 @@
-232/C. § (1) A katasztrófavédelemről szóló törvény szerinti katasztrófaveszély esetén az egészségügyi feladatatok biztosítása érdekében a fővárosi és megyei kormányhivatal egészségügyi veszélyhelyzetet hirdethet és
+232/C. § (1) A katasztrófavédelemről szóló törvény szerinti katasztrófaveszély esetén az egészségügyi feladatatok biztosítása érdekében a fővárosi és vármegyei kormányhivatal egészségügyi veszélyhelyzetet hirdethet és
 
 a) az illetékességi területén átmenetileg módosíthatja
 

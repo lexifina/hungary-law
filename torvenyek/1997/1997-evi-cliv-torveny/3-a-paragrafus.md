@@ -8,7 +8,7 @@ c) szerv: az emberi test olyan része, amely szövetek meghatározott szerkezet�
 
 d) in vitro diagnosztikai orvostechnikai eszköz: az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/746 rendelet] 2. cikk 2. pontjában meghatározott fogalom.
 
-e) alapvető munkáltatói jog: a foglalkoztatási jogviszony létrehozása és megszüntetése, a vezetői megbízatás adása és visszavonása, az illetmény megállapítása és módosítása, valamint a fegyelmi jogkör gyakorlása;
+e) alapvető munkáltatói jog: a foglalkoztatási jogviszony létrehozása és megszüntetése, a munkavégzés helyének kijelölése, a vezetői megbízatás adása és visszavonása, az illetmény megállapítása és módosítása, valamint a fegyelmi jogkör gyakorlása;
 
 f) egyéb munkáltatói jog: mindazon munkáltatói jogkörök, amelyek nem minősülnek alapvető munkáltatói jognak.
 

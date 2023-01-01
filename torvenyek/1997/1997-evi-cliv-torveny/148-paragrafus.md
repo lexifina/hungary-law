@@ -6,13 +6,13 @@
 
 (3) A Tanács tagja
 
-a) az adott térség megyei önkormányzatainak egy-egy képviselője, valamint a fővárosi térség esetében a fővárosi önkormányzat egy képviselője,
+a) az adott térség vármegyei önkormányzatainak egy-egy képviselője, valamint a fővárosi térség esetében a fővárosi önkormányzat egy képviselője,
 
-b) az adott térségben működő fővárosi és megyei kormányhivatal egy-egy népegészségügyi feladatokért felelős képviselője,
+b) az adott térségben működő fővárosi és vármegyei kormányhivatal egy-egy népegészségügyi feladatokért felelős képviselője,
 
 c) azon minisztériumok egy-egy képviselője, amelyek fenntartói valamely, a térség területén működő egészségügyi szolgáltatónak,
 
-d) a térségben található járásokban levő önkormányzatok megyénként egy képviselője, továbbá a fővárosban az egészségügyi térségben érintett fővárosi kerületek önkormányzatainak egy közös képviselője,
+d) a térségben található járásokban levő önkormányzatok vármegyénként egy képviselője, továbbá a fővárosban az egészségügyi térségben érintett fővárosi kerületek önkormányzatainak egy közös képviselője,
 
 e) a térségben működő egyetemi centrumot és klinikát működtető egyetem képviselője,
 

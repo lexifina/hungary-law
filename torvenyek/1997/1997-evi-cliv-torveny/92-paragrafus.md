@@ -9,7 +9,3 @@ b) sürgős szükség fennállása esetén, illetőleg a területi ellátási k�
 c) a speciális ellátásra indokul szolgáló szakmai feltételek esetén a háziorvos
 
 beutalása alapján vehető igénybe.
-
-4. CÍM
-
-Egyéb egészségügyi ellátások

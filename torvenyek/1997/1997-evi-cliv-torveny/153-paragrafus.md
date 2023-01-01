@@ -1,6 +1,6 @@
 153. § (1) A települési önkormányzat a környezet- és település-egészségügyi feladatok körében
 
-a) gondoskodik a köztisztasági és településtisztasági feladatok ellátásáról,
+a) gondoskodik a köztisztasági és településtisztasági feladatok ellátásáról, ennek körében a közterületek tisztán tartásáról, a közterületről összegyűjtött települési hulladék kezeléséről,
 
 b) biztosítja a 73. § (1) bekezdése szerinti külön jogszabályban meghatározott rovarok és rágcsálók irtását,
 

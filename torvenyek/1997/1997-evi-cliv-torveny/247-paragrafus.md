@@ -96,15 +96,15 @@ h) kijelölje a 151/B. § (1) bekezdése szerinti egészségügyi intézményeke
 
 i) határozza meg az állami fenntartású – 151/B. § (1) bekezdése szerinti – egészségügyi intézmények irányításával kapcsolatosan az egészségügyi szolgáltatás irányításáért felelős szerv általi joggyakorlás szabályait,
 
-j) határozza meg a Budapesten és Pest megyében működő egészségügyi szakellátást nyújtó egészségügyi intézmények tekintetében az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket,
+j) határozza meg a Budapesten és Pest vármegyében működő egészségügyi szakellátást nyújtó egészségügyi intézmények tekintetében az irányító jogkört gyakorló egészségügyi intézményeket és az általuk irányított egészségügyi intézményeket,
 
 k) határozza meg az egyidejűleg több ágazat irányítása alá tartozó országos gyógyintézet fenntartására és irányítására alkalmazandó szabályokat,
 
 l) egészségügyi válsághelyzetben az egészségügyi szolgáltatás irányításáért felelős szerv, valamint az állam tulajdonában és fenntartásában működő egészségügyi intézmények irányítására sajátos irányítási rendet vezessen be,
 
-m) határozza meg a honvédelmi irányítású egészségügyi szolgáltatókat,
+m)
 
-n) határozza meg a Hvt. 16. § (1) bekezdés a) pontja szerinti honvédelmi egészségügyi szolgáltató és az annak irányítása alá tartozó, honvédelmi szervezetnek nem minősülő egészségügyi szolgáltatók minősítési rendszerére vonatkozó szabályokat.
+n) határozza meg a honvédelmi egészségügyi szolgáltató minősítési rendszerére vonatkozó szabályokat.
 
 (1b) Felhatalmazást kap a Kormány, hogy járványügyi készültség keretében szükség esetén rendeletben
 
@@ -139,6 +139,8 @@ j) a 74/E. § szerinti eljárásban közreműködő adatfeldolgozókat,
 k) a 74/K. § (1) bekezdése szerinti szolgáltatásokat, üzlethelyiségeket, egyéb helyeket, eseteket, a védettség igazolásához szükséges okmányokat,
 
 l) a 74/K. § (2) bekezdése szerinti személyeket.
+
+m) a köztisztaság és a településtisztaság környezet- és település-egészségügyi szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
@@ -254,7 +256,7 @@ v) az orvosi bélyegzők adattartalmára, kérelmezésére, kiállítására, cs
 
 w) az Állami Egészségügyi Tartalékkal való gazdálkodás részletes szabályait, valamint
 
-x)
+x) a városi és a vármegyei kórház szakmai összetételét és feladatait
 
 y) a pszichiátriai betegekre vonatkozó korlátozó intézkedések alkalmazására, az időszakos ellenőrzésre, a gondoskodásra, ezek dokumentálására, valamint az elrendelés időtartamára vonatkozó részletes szabályokat,
 
@@ -363,3 +365,43 @@ g) a miniszter, hogy – a rendészetért felelős miniszterrel egyetértésben 
 h) a miniszter, hogy a terrorizmus elleni küzdelemért felelős miniszterrel egyetértésben az egészségügyi intézmények terrorveszély idején ellátandó feladatait, működési és jelentési rendjét, a terrorizmus elleni védelmével kapcsolatos intézkedések körét és az erre való felkészülés részletes szabályait
 
 i) a büntetés-végrehajtásért felelős miniszter, hogy – a miniszterrel és az igazságügyért felelős miniszterrel egyetértésben – a büntetés-végrehajtási intézetekben fogvatartottak élelmezési szakmai és táplálkozás-egészségügyi követelményeire vonatkozó szabályokat,
+
+j) az állami vagyon felügyeletéért felelős miniszter, hogy a 244/A. § (19) bekezdés szerinti kártalanítás mértékét
+
+rendeletben állapítsa meg.
+
+(5a) Felhatalmazást kap
+
+a) a közigazgatás-szervezésért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a védettségi igazolvány kiállításáért fizetendő igazgatási szolgáltatási díjat, a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
+
+b) a külpolitikáért felelős miniszter, hogy – az egészségügyért felelős miniszterrel és a közbiztonságért felelős miniszterrel egyetértésben – a 74/J. § (2) bekezdése szerinti országokat
+
+rendeletben állapítsa meg.
+
+(6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) – szabályozási tárgykörben – az Európai Parlament és a Tanács 2005/36/EK irányelve (2005. szeptember 7.) a szakmai képesítések elismeréséről, 21–45. cikk, 56. cikk (2) bekezdése;
+
+b) a Tanács 93/42/EGK irányelve (1993. június 14.) az orvostechnikai eszközökről;
+
+c) az Európai Parlament és a Tanács 2007/47/EK irányelve (2007. szeptember 5.) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról;
+
+d) az Európai Parlament és a Tanács 2004/23/EK irányelve (2004. március 31.) az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára, feldolgozására, megőrzésére, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról;
+
+e) az Európai Parlament és a Tanács 2010/53/EU irányelve (2010. július 7.) az átültetésre szánt emberi szervekre vonatkozó minőségi és biztonsági előírások megállapításáról;
+
+f) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv. 107m. cikk (1)–(4) és (8) bekezdések, 107n. cikk (2) bekezdés;
+
+g) a Bizottság 2015/566/EU irányelve a 2004/23/EK irányelvnek az importált szövetekre és sejtekre vonatkozó minőségi és biztonsági előírások egyenértékűségének ellenőrzését szolgáló eljárások tekintetében történő végrehajtásáról;
+
+i)
+
+j) a Tanács 2013/59/EURATOM Irányelve (2013. december 5.) az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről;
+
+k) az Európai Parlament és a Tanács 2004/38/EK irányelve az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről, 24. cikk,
+
+l) az Európai Parlament és a Tanács 2011/24/EU irányelve (2011. március 9.) a határon átnyúló egészségügyi ellátásra vonatkozó betegjogok érvényesítéséről.
+
+(7) Ez a törvény az európai statisztikákról és a titoktartási kötelezettség hatálya alá tartozó statisztikai adatoknak az Európai Közösségek Statisztikai Hivatala részére történő továbbításáról szóló 1101/2008/EK, Euratom európai parlamenti és tanácsi rendelet, a közösségi statisztikákról szóló 322/97/EK tanácsi rendelet és az Európai Közösségek statisztikai programbizottságának létrehozásáról szóló 89/382/EGK, Euratom tanácsi határozat hatályon kívül helyezéséről szóló, 2009. március 11-i 223/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(8) Ez a törvény
