@@ -14,4 +14,6 @@ d) kis létszámú tenyészállomány esetében az állományban lévő valamenn
 
 e) önálló árutermelő hízóállományok esetében az állomány 95%-os megbízhatóság és 10%-os előfordulási arány figyelembevételével meghatározott számú egyedére kiterjedő, egy időben végzett gB-ELISA vizsgálat negatív eredményt adott; amennyiben a hízóállomány 20 egyednél kevesebből áll, az állatok 10%-át, de évente minimum 1 állatot kell megvizsgálni.
 
-(3) Aujeszky-betegségtől mentes az a megye, amelynek területén csak „M” minősítésű állomány található.
+(3)[^2] Aujeszky-betegségtől mentes az a vármegye, amelynek területén csak „M” minősítésű állomány található.
+
+[^2]: A 4. § (3) bekezdése a 112/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.

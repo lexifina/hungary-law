@@ -1,6 +1,6 @@
-## A járási hivatal feladatai[^7]
+## A járási hivatal feladatai[^9]
 
-## 16. §[^8] A járási hivatal köteles:
+## 16. §[^10] A járási hivatal köteles:
 
 a) az állományok minősítését határozatban kiadni;
 
@@ -22,8 +22,8 @@ cb) az állomány felszámolását elrendelni és az állami kártalanításról
 
 cc) a hatósági állatorvos útján intézkedni annak érdekében, hogy mindazon sertéstartó helyek, amelyek a helyi zárlat alatt álló állománnyal élőállat, sertéstermék vagy ragályfogó tárgyak útján kapcsolatba kerültek, megfigyelési zárlat alá kerüljenek;
 
-cd)[^9] a megyei kormányhivatalt a megtett intézkedésekről tájékoztatni.
+cd)[^11] a vármegyei kormányhivatalt a megtett intézkedésekről tájékoztatni.
 
-[^7]: A 16. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 123. § b) pontja szerint módosított szöveg.
-[^8]: A 16. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 123. § b) pontja szerint módosított szöveg.
-[^9]: A 16. § c) pont cd) alpontja a 70/2013. (VII. 31.) VM rendelet 103. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 123. § g) pontja szerint módosított szöveg.
+[^9]: A 16. §-t megelőző alcím a 42/2017. (VIII. 17.) FM rendelet 123. § b) pontja szerint módosított szöveg.
+[^10]: A 16. § nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 123. § b) pontja szerint módosított szöveg.
+[^11]: A 16. § c) pont cd) alpontja a 70/2013. (VII. 31.) VM rendelet 103. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 123. § g) pontja, a 112/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

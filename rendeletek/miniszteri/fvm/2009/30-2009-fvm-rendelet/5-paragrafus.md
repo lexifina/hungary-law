@@ -14,4 +14,6 @@ e) kis létszámú tenyészállomány esetében az állományban lévő valamenn
 
 f) önálló árutermelő hízóállományok esetében az állomány 95%-os megbízhatóság és 10%-os előfordulási arány figyelembevételével meghatározott számú egyedére kiterjedő, egy időben végzett gE-ELISA vizsgálat negatív eredményt adott; amennyiben a hízóállomány 20 egyednél kevesebből áll, az állatok 10%-át, de évente minimum 1 állatot kell megvizsgálni.
 
-(2) Aujeszky-betegségtől vakcinázott mentes az a megye, amelynek területén nincs minősítetlen vagy fertőzött, azaz „C” minősítésű állomány és még van legalább egy „MV” minősítésű állomány.
+(2)[^3] Aujeszky-betegségtől vakcinázott mentes az a vármegye, amelynek területén nincs minősítetlen vagy fertőzött, azaz „C” minősítésű állomány és még van legalább egy „MV” minősítésű állomány.
+
+[^3]: Az 5. § (2) bekezdése a 112/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@ a) tenyészállomány esetében valamennyi 6 hónaposnál idősebb állatot,
 
 b) önálló árutermelő hízóállomány esetében 95%-os megbízhatóság és 10%-os előfordulási arány figyelembevételével meghatározott számú egyedet
 
-## is meg kell vizsgálni gB-ELISA módszerrel.
+is meg kell vizsgálni gB-ELISA módszerrel.
 
 (6) Amennyiben a leölt állat laboratóriumi vizsgálata során a betegség vírusát, antigénjét vagy DNS-ét nem lehet kimutatni, és a vele egy légtérben tartott állatok (5) bekezdés szerinti vizsgálata negatív eredménnyel végződött, akkor a megfigyelési zárlatot fel kell oldani, és az állomány visszakapja „M” minősítését.
 
