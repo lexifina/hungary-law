@@ -2,7 +2,7 @@
 
 1. melléklet a 494/2017. (XII. 29.) Korm. rendelethez
 
-## Az egyes elosztói működési területenként alkalmazandó nagycsaládos kedvezmény mértéke gyermekenként és jogosultsági időszakonként fogyasztói közösségek esetében
+Az egyes elosztói működési területenként alkalmazandó nagycsaládos kedvezmény mértéke gyermekenként és jogosultsági időszakonként fogyasztói közösségek esetében
 
 1. 20 m3/h-nál kisebb névleges teljesítményű gázmérővel rendelkező fogyasztói közösségek esetében
 

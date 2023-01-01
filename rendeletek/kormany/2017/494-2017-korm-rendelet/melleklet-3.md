@@ -1,6 +1,6 @@
 3. melléklet a 494/2017. (XII. 29.) Korm. rendelethez
 
-## A kedvezményre jogosultakról szóló értesítés adatai
+A kedvezményre jogosultakról szóló értesítés adatai
 
 1. A kedvezményre való jogosultságot megállapító szerv megnevezése
 

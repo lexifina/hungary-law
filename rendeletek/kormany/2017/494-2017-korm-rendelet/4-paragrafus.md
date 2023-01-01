@@ -1,6 +1,4 @@
-## arányos mértékben jár.
-
-4. § (1)[^2] A nagycsaládos kedvezményre való jogosultság tekintetében – az igénylő kérelmére – a fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) jár el. A nagycsaládos kedvezményre való jogosultságot a kormányhivatal egyszerűsített határozattal állapítja meg. A jogosultakról a nyilvántartást a Kincstár vezeti.
+4. § (1)[^2] A nagycsaládos kedvezményre való jogosultság tekintetében – az igénylő kérelmére – a fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) jár el. A nagycsaládos kedvezményre való jogosultságot a kormányhivatal egyszerűsített határozattal állapítja meg. A jogosultakról a nyilvántartást a Kincstár vezeti.
 
 (2)[^3] Ha a nagycsaládos kedvezményre vonatkozó kérelem szerint a családi pótlékot a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló kormányrendelet szerinti családtámogatási kifizetőhely folyósítja, a családi pótlékra való jogosultság igazolása érdekében a kormányhivatal megkeresi a Kincstárt és az igazolás alapján – a további jogosultsági feltételek fennállása esetén – az (1) bekezdés szerinti határozatot hoz.
 
@@ -18,6 +16,6 @@
 
 (9) A nagycsaládos kedvezmény a családi pótlékra való jogosultságot megállapító végleges határozat szerinti időponttól, a nagycsaládos kedvezményre való jogosultság fennállásának idejéig jár. Ha a kérelem benyújtásakor a családi pótlékra való jogosultság két hónapnál hosszabb ideje áll fenn, a nagycsaládos kedvezmény visszamenőlegesen legfeljebb a kérelem benyújtását megelőző második hónap első napjától állapítható meg.
 
-[^2]: A 4. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^2]: A 4. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 279. §-a szerint módosított szöveg.
 [^3]: A 4. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^4]: A 4. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 188. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

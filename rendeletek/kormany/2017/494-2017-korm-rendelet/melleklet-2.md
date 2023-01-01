@@ -1,6 +1,6 @@
 2. melléklet a 494/2017. (XII. 29.) Korm. rendelethez[^14]
 
-## Igénylőlap a nagycsaládos kedvezményre való jogosultság megállapításához
+Igénylőlap a nagycsaládos kedvezményre való jogosultság megállapításához
 
 1. Az igénylőlapot felhasználási helyenként kell kitölteni.
 
@@ -30,7 +30,7 @@
 
 |  |  | □□□□-□□-□□ | □□□-□□□-□□□ |
 
-A táblázatban fel kell tüntetni minden olyan személyt, akinek az igénylővel közös a lakcíme, ideértve azon gyermekeket, akik után az igénylő családi pótlékban részesül, illetve akik a családi pótlék összegének megállapítása szempontjából figyelembevételre kerülnek.
+## A táblázatban fel kell tüntetni minden olyan személyt, akinek az igénylővel közös a lakcíme, ideértve azon gyermekeket, akik után az igénylő családi pótlékban részesül, illetve akik a családi pótlék összegének megállapítása szempontjából figyelembevételre kerülnek.
 
 4. A kérelem benyújtása során igazolni kell:
 

@@ -3,3 +3,5 @@
 a) a 3. § (1) bekezdés a) pontja esetében MJ-ban,
 
 b) a 3. § (1) bekezdés b) pontja esetében forintban
+
+kifejezve kell rendelkezni.

@@ -1,5 +1,3 @@
-## kifejezve kell rendelkezni.
-
 6. § (1)[^5] A nagycsaládos kedvezményre való jogosultság megállapításáról vagy annak megszűnéséről a Kincstár az egyetemes szolgáltatót, a kormányhivatal a fogyasztói közösség képviselőjét a 3. melléklet szerinti adatok közlésével postai vagy elektronikus úton 5 napon belül értesíti.
 
 (2)[^6] Ha az (1) bekezdés szerinti értesítés hiányos, vagy hibás adatot tartalmaz, az egyetemes szolgáltató felhívására a kormányhivatal soron kívül gondoskodik az adatok helyesbítéséről és pótlásáról. A nagycsaládos kedvezmény csak a kormányhivatal által teljeskörűen és helyes adattartalommal átadott értesítés alapján érvényesíthető.

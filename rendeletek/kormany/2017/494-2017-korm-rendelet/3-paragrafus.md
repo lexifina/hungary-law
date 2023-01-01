@@ -4,7 +4,7 @@ a) önálló felhasználási hely esetében a (4) bekezdés,
 
 b) fogyasztói közösség esetében az 1. melléklet
 
-## szerint részesülhet nagycsaládos kedvezményben.
+szerint részesülhet nagycsaládos kedvezményben.
 
 (2) A jogosult a nagycsaládos kedvezményt csak egy felhasználási helyen veheti igénybe. Fogyasztói közösség esetében egy felhasználási helyen több jogosult is igénybe vehet nagycsaládos kedvezményt.
 
@@ -17,3 +17,5 @@ b) fogyasztói közösség esetében az 1. melléklet
 a) az (1) bekezdés a) pontja szerinti esetben a naptári évből hátralévő időtartam fogyasztási jelleggörbe szerinti fogyasztásával,
 
 b) az (1) bekezdés b) pontja szerinti esetben a naptári évből hátralévő időtartammal
+
+arányos mértékben jár.
