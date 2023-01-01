@@ -1,5 +1,5 @@
-## 20. §
+## 16.[^142]
 
-## 16.[^135]
+21. §
 
-[^135]: A 16. alcímet (21. §-t) a 457/2017. (XII. 28.) Korm. rendelet 588. § a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+[^142]: A 16. alcímet (21. §-t) a 457/2017. (XII. 28.) Korm. rendelet 588. § a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.

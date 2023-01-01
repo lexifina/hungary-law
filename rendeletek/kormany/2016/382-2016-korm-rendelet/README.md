@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-382-20-
 | 2022-01-27 | 2016-382-20-22.39 | 609/2021. (XI. 5.) Korm. rendelet |
 | 2022-02-01 | 2016-382-20-22.40 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2022-03-05 | 2016-382-20-22.41 | 66/2022. (II. 28.) Korm. rendelet |
+| 2023-01-01 | 2016-382-20-22.42 | 616/2022. (XII. 29.) Korm. rendelet |
