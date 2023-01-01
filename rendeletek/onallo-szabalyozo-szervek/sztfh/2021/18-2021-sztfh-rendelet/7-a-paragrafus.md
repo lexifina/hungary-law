@@ -1,4 +1,4 @@
-## 5/A. [^17] A hatósági ellenőrzés, az ellenőrzési feladatok ellátása
+## 5/A. [^21] A hatósági ellenőrzés, az ellenőrzési feladatok ellátása
 
 7/A. § (1) A Hatóság az 1. §-ban meghatározott személyek (a továbbiakban: ellenőrzött személy) tevékenységét hatósági felügyelet keretében a hatósági ellenőrzés típusa szerint
 
@@ -12,7 +12,7 @@ d) témavizsgálat vagy
 
 e) utóvizsgálat
 
-## útján ellenőrzi.
+útján ellenőrzi.
 
 (2) Az ellenőrzés módja szerint lefolytatható
 
@@ -52,4 +52,4 @@ f) az ellenőrzés alá vont időszak megjelölését.
 
 (10) Helyszíni ellenőrzés keretében az ellenőrzési jogosultságot az ellenőr az ellenőrzés megkezdését megelőzően a Hatóság által kiállított arcképes igazolvány és megbízólevél elnevezésű okirattal köteles igazolni, és az ellenőrzés típusáról, tárgyáról tájékoztatást adni, kivéve a helyszíni ellenőrzés keretében végzett próbavásárlást. Próbavásárlás esetén az ellenőrzési jogosultságot a próbavásárlás befejezésekor kell igazolni. A helyszíni ellenőrzést legalább két ellenőr együttesen végzi.
 
-[^17]: Az 5/A. alcímet (7/A. §) § a 34/2022. (VIII. 4.) SZTFH rendelet 8. §-a iktatta be.
+[^21]: Az 5/A. alcímet (7/A. §) § a 34/2022. (VIII. 4.) SZTFH rendelet 8. §-a iktatta be.

@@ -2,15 +2,15 @@
 
 a) annak legalább elektromos árammal való ellátottsága nem függ más üzlet nyitvatartásától akkor sem, ha a dohánybolt és e másik üzlet fogyasztásmérője adott esetben közös, és
 
-b)[^3] a dohánybolt bejárata más üzlet üzlethelyiségébe való belépés nélkül kültérről, szabad ég alól közelíthető meg.
+b)[^4] a dohánybolt bejárata más üzlet üzlethelyiségébe való belépés nélkül kültérről, szabad ég alól közelíthető meg.
 
 (2) Nem minősül más üzlettől elkülönült, önálló üzlethelyiségnek különösen
 
 a) az olyan bevásárlóközpont-beli üzlethelyiség, amelyik csak a bevásárlóközpont bejáratain át megközelíthető belső közlekedőfolyosójáról („sétálóutcájáról”) érhető el, ha a bevásárlóközpont ezen közlekedőfolyosója a bevásárlóközpont rendes nyitvatartási idején kívül (ideértve például az ünnepnapokat is) a vásárlók elől el van zárva;
 
-b)[^4] az az üzlethelyiség, amelynek a bejárata kapualjból, körbekerített kertből közelíthető meg, és a kapu (kertkapu) – az üzlethelyiség nyitvatartási ideje alatt – nem állandóan nyitott.
+b)[^5] az az üzlethelyiség, amelynek a bejárata kapualjból, körbekerített kertből közelíthető meg, és a kapu (kertkapu) – az üzlethelyiség nyitvatartási ideje alatt – nem állandóan nyitott.
 
-(3)[^5] A dohánybolt önálló, más üzlettől elkülönült jellegét nem befolyásolja, ha az árukészlet vagy annak egy részének raktározása nem közvetlenül a dohányboltban megoldott.
+(3)[^6] A dohánybolt önálló, más üzlettől elkülönült jellegét nem befolyásolja, ha az árukészlet vagy annak egy részének raktározása nem közvetlenül a dohányboltban megoldott.
 
 (4) Ha az üzlethelyiség részekre bontás nélkül mozgó vagy mozgatható, akkor nem felel meg az Fdvtv. 3. § 8. pontjában meghatározottaknak, akkor sem, ha egy adott helyhez rögzítik.
 
@@ -20,7 +20,7 @@ a) a dohánybolt üzletterében, vagy
 
 b) az Fdvtv. rendelkezéseinek megfelelő esetben az elkülönített helyen, azaz az üzlet térben leválasztott helyiségrészén belül
 
-## történhet.
+történhet.
 
 (6) A (5) bekezdés b) pontjának alkalmazásában az elkülönített hely akkor minősül térben leválasztott helyiségrésznek, ha az az üzlet más részeitől legalább mozgatható vagy rögzített, nem átlátszó térelválasztóval, így különösen paravánnal vagy függönnyel elkülönül.
 
@@ -28,6 +28,6 @@ b) az Fdvtv. rendelkezéseinek megfelelő esetben az elkülönített helyen, aza
 
 (8) Az (5) bekezdés b) pontjának alkalmazásában az Fdvtv. 1. § (1) bekezdése szerinti termékek fizikai átadására minden esetben az elkülönített helyen belül kerülhet csak sor, adott esetben – ha az üzlet üzemeltetője és a koncesszió jogosultja ugyanazon személy – az értékesítés más elemei (pl. az áru pénztárgépben való rögzítése) történhetnek az üzlethelyiség más részében is.
 
-[^3]: A 3. § (1) bekezdés b) pontja a 34/2022. (VIII. 4.) SZTFH rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^4]: A 3. § (2) bekezdés b) pontja a 34/2022. (VIII. 4.) SZTFH rendelet 11. § a) pontja szerint módosított szöveg.
-[^5]: A 3. § (3) bekezdése a 34/2022. (VIII. 4.) SZTFH rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^4]: A 3. § (1) bekezdés b) pontja a 34/2022. (VIII. 4.) SZTFH rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^5]: A 3. § (2) bekezdés b) pontja a 34/2022. (VIII. 4.) SZTFH rendelet 11. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (3) bekezdése a 34/2022. (VIII. 4.) SZTFH rendelet 3. § (2) bekezdésével megállapított szöveg.

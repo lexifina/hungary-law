@@ -1,5 +1,3 @@
-## irányuló eljárásokban kell alkalmazni.
-
 ## 2. Engedélyezési eljárás
 
 2. § (1) Magyarországi székhellyel rendelkező kérelmező esetén az engedély iránti kérelmet kizárólag
@@ -8,7 +6,7 @@ a) a koncessziós szerződésben a dohánytermék-kiskereskedelmi jogosultság g
 
 b) az a betéti társaság, illetve közkereseti társaság
 
-## terjesztheti elő, amelyik a dohánytermék-kiskereskedelmi tevékenységet koncessziós szerződés alapján végezni jogosult.
+terjesztheti elő, amelyik a dohánytermék-kiskereskedelmi tevékenységet koncessziós szerződés alapján végezni jogosult.
 
 (2) Nem magyarországi székhellyel rendelkező kérelmező esetén a kérelmező személyes joga alapján kell megállapítani azt, hogy megfelel-e az Fdvtv. 13. § (1) bekezdésében meghatározott feltételeknek.
 
@@ -22,7 +20,7 @@ a) a koncessziós szerződést;
 
 b) a dohánybolt vagy elkülönített hely használati jogcímének megállapítására alkalmas okiratot (különösen bérleti szerződést vagy annak kivonatát, tulajdoni lapot) vagy használati jogot engedő, teljes bizonyító erejű magánokiratba foglalt nyilatkozatot;
 
-c) a dohánybolt vagy elkülönített hely legalább kézzel rajzolt alaprajzát;
+c)[^3] a dohánybolt vagy elkülönített hely olyan alaprajzát, amely ábrázolja a helyiség beosztását, feltünteti a falak, ablakok, ajtók helyét, a beépített részeket, és ha a bejárat közterületre nyílik, akkor jelöli annak nevét;
 
 d) a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének a dohánytermék-kiskereskedelmi tevékenység engedélyezése során lefolytatott eljárásokért fizetendő igazgatási szolgáltatási díjak mértékéről, valamint a díjak beszedésének, kezelésének, nyilvántartásának és visszatérítésének részletes szabályairól szóló rendeletében meghatározott igazgatási szolgáltatási díj megfizetését igazoló okiratot;
 
@@ -39,3 +37,4 @@ g) a kérelmet benyújtó székhelye, lakóhelye szerint illetékes települési
 h) a kérelmező nyilatkozatát a 4. § (2) bekezdése szerinti feltétel teljesüléséről.
 
 [^2]: A 2. § (5) bekezdését a 34/2022. (VIII. 4.) SZTFH rendelet 2. §-a iktatta be.
+[^3]: A 2. § (5) bekezdés c) pontja a 40/2022. (XII. 19.) SZTFH rendelet 3. §-ával megállapított szöveg.

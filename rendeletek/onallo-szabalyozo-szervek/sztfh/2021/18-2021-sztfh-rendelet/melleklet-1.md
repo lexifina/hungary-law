@@ -1,8 +1,8 @@
-## 11. §[^18] A dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó engedélyezés és ellenőrzés egyes szabályairól szóló 18/2021. (X. 29.) SZTFH rendelet módosításáról szóló 34/2022. (VIII. 4.) SZTFH rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
+## 11. §[^22] A dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó engedélyezés és ellenőrzés egyes szabályairól szóló 18/2021. (X. 29.) SZTFH rendelet módosításáról szóló 34/2022. (VIII. 4.) SZTFH rendelet tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-1. melléklet a 18/2021. (X. 29.) SZTFH rendelethez[^19]
+1. melléklet a 18/2021. (X. 29.) SZTFH rendelethez[^23]
 
-## A dohánytermék-kiskereskedelmi engedély iránti kérelem adattartalma
+A dohánytermék-kiskereskedelmi engedély iránti kérelem adattartalma
 
 1. Koncesszió jogosultjának
 
@@ -60,5 +60,5 @@
 
 8. Öröklés esetén az örökhagyó adószáma, engedélyszáma, az örökhagyó elhalálozásának napja, a közjegyzői határozat véglegessége.
 
-[^18]: A 11. §-t a 34/2022. (VIII. 4.) SZTFH rendelet 9. §-a iktatta be.
-[^19]: Az 1. mellékelt a 34/2022. (VIII. 4.) SZTFH rendelet 10. §-ával megállapított szöveg.
+[^22]: A 11. §-t a 34/2022. (VIII. 4.) SZTFH rendelet 9. §-a iktatta be.
+[^23]: Az 1. mellékelt a 34/2022. (VIII. 4.) SZTFH rendelet 10. §-ával megállapított szöveg.

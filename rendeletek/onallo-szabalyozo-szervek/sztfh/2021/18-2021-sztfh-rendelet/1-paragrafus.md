@@ -8,4 +8,6 @@ b) a dohány-kiskereskedelmi tevékenységet folytató személy, a dohány-kiske
 
 c) a dohánytermék-kiskereskedőkkel és a dohány-kiskereskedelmi ellátóval megkötött koncessziós szerződések szerinti koncesszióköteles tevékenység gyakorlásának hatósági ellenőrzésére
 
+irányuló eljárásokban kell alkalmazni.
+
 [^1]: Az 1. § a 34/2022. (VIII. 4.) SZTFH rendelet 1. §-ával megállapított szöveg.
