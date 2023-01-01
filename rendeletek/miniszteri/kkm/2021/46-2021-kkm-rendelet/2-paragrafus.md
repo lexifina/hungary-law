@@ -16,7 +16,7 @@ f) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 g) az Európai Bizottságnak az állami támogatási intézkedésekre vonatkozó ideiglenes keret a gazdaságnak a jelenlegi COVID–19-járvánnyal összefüggésben való támogatása céljából című, C(2020) 1863 final számú közleménye [módosította a C(2020) 2215, C(2020) 3156, C(2020) 4509, C(2020) 7127, illetve C(2021) 564 számú bizottsági közlemény, a továbbiakban: átmeneti közlemény] szerinti támogatás
 
-## [az a)–g) pont a továbbiakban együtt: támogatás] a külgazdasági ügyekért felelős miniszter egyedi döntésével nyújtható.
+[az a)–g) pont a továbbiakban együtt: támogatás] a külgazdasági ügyekért felelős miniszter egyedi döntésével nyújtható.
 
 (2) E rendelet alapján vissza nem térítendő, az (1) bekezdés e) pontja szerinti támogatás kivételével működési támogatásnak nem minősülő támogatás nyújtható.
 

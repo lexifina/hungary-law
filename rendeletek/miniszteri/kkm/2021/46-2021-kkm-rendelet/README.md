@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-46-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-12-25 | 2021-46-20-6Q.1 | 46/2021. (XII. 22.) KKM rendelet |
+| 2023-01-01 | 2021-46-20-6Q.2 | 27/2022. (XII. 28.) KKM rendelet |

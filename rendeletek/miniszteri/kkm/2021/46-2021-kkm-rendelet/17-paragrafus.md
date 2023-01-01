@@ -17,3 +17,5 @@ c) olyan egyéb kötelezettségvállalás, amely a beruházást vagy annak bárm
 d) létesítmény felvásárlása esetén a felvásárlás időpontja, vagy
 
 e) az a)–d) pontok közül több pont együttes megvalósulása esetén a legkorábbi időpont,
+
+azzal, hogy nem minősül a beruházás megkezdésének a földterület megvásárlása, ha az nem képezi a beruházás elszámolható költségét, valamint az előkészítő munka költségének felmerülése.
