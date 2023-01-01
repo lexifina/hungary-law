@@ -12,7 +12,7 @@ d) az a)–c) pontból következő feladatok, valamint külső segítségnyújt�
 
 e) a nukleárisbaleset-elhárítási szervezet felszerelése és felkészítése a nukleárisbaleset-elhárítási intézkedési tervben rögzített feladatok végrehajtására,
 
-f)[^28] a nukleáris létesítmények esetében naptári évenként a feladatok teljesítésének értékelése és a következő év feladatainak meghatározása, azokról a hivatásos katasztrófavédelmi szerv központi szerve útján a kormányzati koordinációs szerv tájékoztatása,
+f)[^35] a nukleáris létesítmények esetében naptári évenként a feladatok teljesítésének értékelése és a következő év feladatainak meghatározása, azokról a hivatásos katasztrófavédelmi szerv központi szerve útján a kormányzati koordinációs szerv tájékoztatása,
 
 g) az atomenergia alkalmazójának tevékenysége során bekövetkező rendkívüli esemény nyomán elrendelt magasabb szintű működési állapotban a nukleárisbaleset-elhárítási intézkedési tervben előirányzott feladatok végrehajtása,
 
@@ -20,9 +20,9 @@ h) nukleáris veszélyhelyzet vagy annak várható kifejlődése esetén – a n
 
 i) a 12. § (3) bekezdése szerinti, halasztást nem tűrő esetben javaslat adása az érintett védelmi bizottság elnöke részére a lakosság védelme érdekében foganatosítandó konkrét intézkedésekre,
 
-j)[^29] a lakosság hiteles és időben történő tájékoztatása érdekében a hivatásos katasztrófavédelmi szerv központi szervével egyeztetve sajtótájékoztató tartása,
+j)[^36] a lakosság hiteles és időben történő tájékoztatása érdekében a hivatásos katasztrófavédelmi szerv központi szervével egyeztetve sajtótájékoztató tartása,
 
 k) a nukleáris létesítmény kivételével az atomenergia alkalmazója felkészültségének rendszeres önértékelése a nukleáris veszélyhelyzeti feladataik ellátására.
 
-[^28]: A 14. § f) pontja a 361/2011. (XII. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^29]: A 14. § j) pontja a 361/2011. (XII. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^35]: A 14. § f) pontja a 361/2011. (XII. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^36]: A 14. § j) pontja a 361/2011. (XII. 30.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.

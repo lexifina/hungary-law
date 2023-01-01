@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-167-20-
 | 2020-01-02 | 2010-167-20-22.13 | 345/2019. (XII. 23.) Korm. rendelet |
 | 2020-07-01 | 2010-167-20-22.14 | 317/2020. (VII. 1.) Korm. rendelet |
 | 2022-06-15 | 2010-167-20-22.15 | 361/2011. (XII. 30.) Korm. rendelet |
+| 2023-01-01 | 2010-167-20-22.16 | 616/2022. (XII. 29.) Korm. rendelet |

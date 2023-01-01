@@ -10,7 +10,7 @@
 
 | 4 | III. fokú | fokozott riasztási jelzés | 500 nSv/h | három szomszédos mérőállomáson |
 
-3. melléklet a 167/2010. (V. 11.) Korm. rendelethez[^43]
+3. melléklet a 167/2010. (V. 11.) Korm. rendelethez[^52]
 
 Az Országos Nukleárisbaleset-elhárítási Intézkedési Terv minimális tartalmi elemei
 
@@ -40,9 +40,9 @@ A veszélyhelyzet-elhárítási terv tekintetében
 
 A) Veszélyhelyzetre való felkészülés területén:
 
-1.[^44] A lakossági sugárterhelés vonatkoztatási szintjei, az Országos Atomenergia Hivatal elnökének az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló rendeletében (a továbbiakban: OAHr.) előírt kritériumok figyelembevételével.
+1.[^53] A lakossági sugárterhelés vonatkoztatási szintjei, az Országos Atomenergia Hivatal elnökének az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló rendeletében (a továbbiakban: OAHr.) előírt kritériumok figyelembevételével.
 
-2.[^45] A veszélyhelyzeti foglalkoztatási sugárterhelés vonatkoztatási szintjei az OAHr. figyelembevételével.
+2.[^54] A veszélyhelyzeti foglalkoztatási sugárterhelés vonatkoztatási szintjei az OAHr. figyelembevételével.
 
 3. Optimált stratégiák a lakosság azon tagjainak védelmére, akiket sugárterhelés érhet, a különböző lehetséges események esetére, valamint az ezekhez tartozó forgatókönyvek.
 
@@ -68,6 +68,6 @@ A veszélyhelyzeti sugárzási helyzetek elhárítása a felkészülési előír
 
 4. a védekezési stratégiák meghatározásának módszerei.
 
-[^43]: A 3. mellékletet a 286/2017. (IX. 22.) Korm. rendelet 9. §-a iktatta be.
-[^44]: A 3. melléklet A) pont 1. alpontja a 209/2022. (VI. 14.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^45]: A 3. melléklet A) pont 2. alpontja a 209/2022. (VI. 14.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^52]: A 3. mellékletet a 286/2017. (IX. 22.) Korm. rendelet 9. §-a iktatta be.
+[^53]: A 3. melléklet A) pont 1. alpontja a 209/2022. (VI. 14.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^54]: A 3. melléklet A) pont 2. alpontja a 209/2022. (VI. 14.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
