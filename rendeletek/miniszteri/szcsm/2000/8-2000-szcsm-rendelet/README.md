@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-8-20-85
 | 2021-01-10 | 2000-8-20-85.15 | 16/2003. (IV. 9.) ESZCSM rendelet |
 | 2021-01-21 | 2000-8-20-85.16 | 2/2021. (I. 18.) EMMI rendelet |
 | 2021-09-18 | 2000-8-20-85.17 | 12/2006. (XII. 27.) SZMM rendelet |
+| 2023-01-01 | 2000-8-20-85.18 | 16/2003. (IV. 9.) ESZCSM rendelet |

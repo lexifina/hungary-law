@@ -14,7 +14,7 @@ b) a továbbképzési, vezetőképzési kötelezettség jellege változásának 
 
 c) – a vezetőképzésre nem kötelezett és a továbbképzési kötelezettség alól a reá irányadó öregségi nyugdíjkorhatárra vagy a nevelőszülő-képesítés megszerzése alóli mentességre tekintettel mentesülő személy esetén – a munkaviszony, a nevelőszülői foglalkoztatási jogviszony vagy a személyes gondoskodást nyújtó tevékenység megszűnéséig
 
-## érvényes.
+érvényes.
 
 (3) A nyilvántartó az igazolást a munkáltatónak, önbejelentés esetén a nyilvántartásba vett személynek küldi meg. A munkáltató az igazolást a munkavállaló részére köteles átadni.
 
@@ -26,7 +26,7 @@ a) az (1) bekezdés b) vagy c) pontja szerinti új igazolás kiállításáig, v
 
 b) – ha a személyes gondoskodást végző személyek továbbképzéséről szóló miniszteri rendelet alapján a továbbképzési kötelezettség alól a reá irányadó öregségi nyugdíjkorhatárra vagy a nevelőszülő-képesítés megszerzése alóli mentességre tekintettel mentesül, és a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló miniszteri rendelet alapján vezetőképzésre nem kötelezett – a munkaviszonyának, nevelőszülői foglalkoztatási jogviszonyának, vagy önbejelentésre kötelezett személy esetén a személyes gondoskodást nyújtó tevékenységének megszűnéséig
 
-## köteles megőrizni.
+köteles megőrizni.
 
 (6) Ha a munkavállaló nem tett eleget a továbbképzési kötelezettségének, a nyilvántartó erről értesíti a munkáltatót.
 

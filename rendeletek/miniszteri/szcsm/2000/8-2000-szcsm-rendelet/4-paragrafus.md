@@ -1,5 +1,3 @@
-## történik.
-
 4. § (1) A 3. § szerinti bejelentési kötelezettségnek
 
 a)[^5] a szociális, gyermekjóléti vagy gyermekvédelmi intézményben, illetve javítóintézetben munkaviszonyban főállásban foglalkoztatott, illetőleg nevelőszülői foglalkoztatási jogviszonyban álló személyes gondoskodást végző személyre (a továbbiakban együtt: munkavállaló) vonatkozóan az intézmény vezetője, illetőleg a működtető (a továbbiakban együtt: munkáltató),
@@ -12,7 +10,7 @@ bb)[^7] a személyes gondoskodást vállalkozóként végző személy,
 
 bc) a települési önkormányzattal munkaviszonyban álló, egyszemélyes szolgáltatásként személyes gondoskodást végző személy (családgondozó, házigondozó, falugondnok stb.)
 
-## tesz eleget.
+tesz eleget.
 
 (2)[^8] A munkáltató a bejelentési kötelezettsége teljesítésekor az 1. számú melléklet szerinti nyomtatványokat a 3. számú melléklet szerinti adatösszesítővel továbbítja a nyilvántartónak. A munkáltató bejelentési kötelezettsége a próbaidőre alkalmazottakra nem vonatkozik.
 

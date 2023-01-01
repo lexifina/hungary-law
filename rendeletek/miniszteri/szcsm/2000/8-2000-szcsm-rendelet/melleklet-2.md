@@ -4,7 +4,7 @@
 
 | Nyilvántartási szám* |  |  |  |  |  |  |
 
-| 1. Megye: |
+| 1. Vármegye: |
 
 | 2. Név: |
 
@@ -140,7 +140,7 @@
 
 ## 5. szakmai vezető
 
-## 6. megyei/fővárosi gyermekvédelmi szakértői bizottság vezető
+## 6. vármegyei vagy fővárosi gyermekvédelmi szakértői bizottság vezető
 
 ## 7. vezető ápoló
 

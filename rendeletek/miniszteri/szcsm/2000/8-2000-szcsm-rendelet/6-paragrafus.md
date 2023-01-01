@@ -1,5 +1,3 @@
-## köteles a munkáltatónak bejelenteni és rendelkezésre bocsátani az igazolásokra szolgáló iratok másolatát.
-
 6. §[^12] (1) A munkáltató
 
 a)[^13] a továbbképzésre kötelezett munkavállaló kötelező, munkakörhöz kötött és választható továbbképzési kötelezettségének teljesítését a tárgyévet követő év február 28-áig,

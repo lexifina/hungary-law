@@ -107,3 +107,5 @@
 ## a bejelentésre kötelezett aláírása
 
 3. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez
+
+Adatösszesítő
