@@ -1,1 +1,3 @@
-## 16. § A Művelődési Minisztérium 58.905/1986. számú határozatával régészeti jelentőségű védett területté nyilvánított Moha (Fejér megye), külterület 018/1 helyrajzi szám alatt nyilvántartott erdő, valamint a 020/2 helyrajzi szám alatt nyilvántartott szántó, gyep és kivett művelési ágú ingatlanok régészeti védettségét megszüntetem. A területet a bányaművelést megelőzően leletmentő ásatásokkal feltárták, régészeti leletek, illetve jelenségek előkerülése a továbbiakban nem várható, így a régészeti védettség további fenntartása nem indokolt.
+17. §[^15]
+
+[^15]: A 17. §-t a 79/2012. (XII. 28.) BM rendelet 2. §-a hatályon kívül helyezte.
