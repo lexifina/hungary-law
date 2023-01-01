@@ -20,7 +20,7 @@ a) megalapozott előrejelzések alapján kell meghatározni, és előzetesen, va
 
 b) visszafizetési mechanizmus alkalmazásával utólag
 
-## kell levonni az elszámolható költségekből.
+kell levonni az elszámolható költségekből.
 
 (9) A beruházási támogatást nyújtó köteles adatot szolgáltatni az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából az 500 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásról.
 

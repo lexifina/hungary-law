@@ -50,7 +50,7 @@ azzal, hogy nem tekintendő a beruházás megkezdésének az előkészítő munk
 
 9. önkormányzati társulás: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 87. §-ában meghatározott önkormányzati társulás;
 
-9a.[^10] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a támogatási igényben szereplő beruházást és a támogatási igényt benyújtó beruházó, valamint a támogatási igényt benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a támogatási igényben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a támogatási igényben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást;
+9a.[^10] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a támogatási igényben szereplő beruházást és a támogatási igényt benyújtó beruházó, valamint a támogatási igényt benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a támogatási igényben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a támogatási igényben szereplő beruházással azonos vármegyében megkezdett, regionális beruházási támogatásban részesülő beruházást;
 
 9b.[^11] regionális beruházási támogatás: a 651/2014/EU bizottsági rendelet 2. cikk 41. pontja szerinti támogatás;
 
@@ -71,7 +71,7 @@ azzal, hogy nem tekintendő a beruházás megkezdésének az előkészítő munk
 [^7]: Az 1. § 7b. pontját a 226/2019. (IX. 25.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 671/2020. (XII. 28.) Korm. rendelet 34. §-a, a 356/2021. (VI. 24.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
 [^8]: Az 1. § 8. pontja a 226/2019. (IX. 25.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^9]: Az 1. § 8a. pontját a 226/2019. (IX. 25.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^10]: Az 1. § 9a. pontját a 226/2019. (IX. 25.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 356/2021. (VI. 24.) Korm. rendelet 36. § a) és c) pontja szerint módosított szöveg.
+[^10]: Az 1. § 9a. pontját a 226/2019. (IX. 25.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 356/2021. (VI. 24.) Korm. rendelet 36. § a) és c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 252. §-a szerint módosított szöveg.
 [^11]: Az 1. § 9b. pontját a 226/2019. (IX. 25.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^12]: Az 1. § 9c. pontját a 226/2019. (IX. 25.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^13]: Az 1. § 9d. pontját a 226/2019. (IX. 25.) Korm. rendelet 1. § (5) bekezdése iktatta be.

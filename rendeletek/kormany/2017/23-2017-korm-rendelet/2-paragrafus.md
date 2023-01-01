@@ -52,7 +52,7 @@ a)[^27] a támogatást igénylő valamennyi – jogszabály alapján beszedési 
 
 b) hitelintézet által vállalt, feltétel nélküli és visszavonhatatlan garancia
 
-## fogadható el.
+fogadható el.
 
 (3b)[^28] A biztosíték mértéke
 
