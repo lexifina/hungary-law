@@ -1,0 +1,9 @@
+# 601/2022. (XII. 28.) Korm. rendelet
+
+a Közös Agrárpolitika és a nemzeti költségvetésből biztosított agrártámogatások végrehajtásának szervezetéről és intézményeiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-601-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-01-01 | 2022-601-20-22.1 | 601/2022. (XII. 28.) Korm. rendelet |
