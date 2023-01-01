@@ -1,0 +1,3 @@
+## 49. A Rendőrség légiközlekedés-rendészeti feladatai ellátásának rendjéről, valamint a szakszolgálati engedély, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány helyszíni elvételének szabályairól szóló 19/2009. (VI. 18.) IRM rendelet módosítása
+
+50. § A Rendőrség légiközlekedés-rendészeti feladatai ellátásának rendjéről, valamint a szakszolgálati engedély, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány helyszíni elvételének szabályairól szóló 19/2009. (VI. 18.) IRM rendelet 1. § (2) bekezdésében, 2. § (3) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.

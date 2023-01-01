@@ -1,0 +1,3 @@
+## 88. A Magyarország területén tartózkodó, egészségügyi szolgáltatásra a társadalombiztosítás keretében nem jogosult személyek egészségügyi ellátásának, valamint az egészségügyi szolgáltatás biztosítására kötött megállapodás egyes szabályairól szóló 28/2020. (VIII. 19.) EMMI rendelet módosítása
+
+91. § A Magyarország területén tartózkodó, egészségügyi szolgáltatásra a társadalombiztosítás keretében nem jogosult személyek egészségügyi ellátásának, valamint az egészségügyi szolgáltatás biztosítására kötött megállapodás egyes szabályairól szóló 28/2020. (VIII. 19.) EMMI rendelet [a továbbiakban: 28/2020. (VIII. 19.) EMMI rendelet] 3. § (2) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg lép.

@@ -1,0 +1,1 @@
+63. § Hatályát veszti a belügyminiszter irányítása alá tartozó szervek sugárvédelmi ellenőrző rendszerének működési szabályairól szóló 7/2012. (III. 7.) BM rendelet 4. § b) pontjában a „– Nemzeti Népegészségügyi Központban működő –” szövegrész.
