@@ -1,12 +1,10 @@
-## Ionizáló sugárzással való kezelésre engedélyezett élelmiszerek és a megengedett sugárdózisok
-
 | Élelmiszer-kategória | Maximális teljes átlagos elnyelt dózis (kGy) |
 
 | Szárított aromás növények, fűszerek és fűszerkeverékek | 10 |
 
 2. melléklet a 67/2011. (VII. 13.) VM rendelethez
 
-## Élelmiszerek ionizáló sugárzással való kezelésének feltételei
+Élelmiszerek ionizáló sugárzással való kezelésének feltételei
 
 1. Élelmiszereket csak akkor szabad ionizáló sugárzással kezelni, ha
 

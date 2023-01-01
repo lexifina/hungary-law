@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-67-20-2
 | 2011-07-28 | 2011-67-20-2Y.1 | 67/2011. (VII. 13.) VM rendelet |
 | 2011-07-29 | 2011-67-20-2Y.2 | 2010: CXXX. törvény |
 | 2017-08-18 | 2011-67-20-2Y.3 | 42/2017. (VIII. 17.) FM rendelet |
+| 2023-01-01 | 2011-67-20-2Y.4 | 42/2017. (VIII. 17.) FM rendelet |

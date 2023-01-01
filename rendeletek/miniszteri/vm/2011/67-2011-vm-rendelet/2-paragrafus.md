@@ -6,13 +6,13 @@
 
 (4) Az ionizáló sugárzással kezelt élelmiszerek által teljes átlagos elnyelt dózist a 4. melléklet szerint kell számítani.
 
-(5)[^1] Az 1. mellékletben fel nem sorolt élelmiszerek ionizáló sugárzással való kezelését az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró Pest Megyei Kormányhivatal (a továbbiakban: Pest Megyei Kormányhivatal) engedélyezheti.
+(5)[^1] Az 1. mellékletben fel nem sorolt élelmiszerek ionizáló sugárzással való kezelését az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró Pest Vármegyei Kormányhivatal (a továbbiakban: Pest Vármegyei Kormányhivatal) engedélyezheti.
 
 (6) Az engedély kiadásáért, az élelmiszer-ellenőrzési igazgatási szolgáltatási díjakról szóló jogszabályban foglaltak szerinti, igazgatási szolgáltatási díjat kell fizetni. Az engedély kérelmet a kezelni kívánt élelmiszer első forgalomba hozatalát megelőzően kell benyújtani.
 
 (7) Az engedélyhez a kérelmet az élelmiszert kezeltetni kívánó élelmiszer-vállalkozás nyújthatja be a 2. mellékletben foglaltak teljesülése esetén. A kérelemnek tartalmaznia kell a kezelés indokait, a kezelés szükségességét és eredményességét alátámasztó vizsgálati eredményeket, az elnyelt ionizáló energia dózist és minden olyan adatot, amely segíti a kérelem elbírálását.
 
-(8)[^2] A Pest Megyei Kormányhivatal az élelmiszerek ionizáló sugárzással történő kezelésére vonatkozó engedélyt abban az esetben adja meg, ha
+(8)[^2] A Pest Vármegyei Kormányhivatal az élelmiszerek ionizáló sugárzással történő kezelésére vonatkozó engedélyt abban az esetben adja meg, ha
 
 a) az érintett élelmiszer kezeléséről az Európai Élelmiszer-biztonsági Hatóság (a továbbiakban: Hatóság) kedvező véleményt alkotott;
 
@@ -20,8 +20,8 @@ b) a teljes átlagos elnyelt dózis nem lépi túl a Hatóság által ajánlott 
 
 c) az ionizáló besugárzás és a forgalomba hozatal e rendelet rendelkezéseinek megfelelően történik.
 
-(9)[^3] A Földművelésügyi Minisztérium (a továbbiakban: minisztérium) a Pest Megyei Kormányhivatal által kiadott megindokolt engedélyt az Európai Bizottsághoz és az Európai Unió tagállamainak illetékes hatóságaihoz továbbítja.
+(9)[^3] Az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) a Pest Vármegyei Kormányhivatal által kiadott megindokolt engedélyt az Európai Bizottsághoz és az Európai Unió tagállamainak illetékes hatóságaihoz továbbítja.
 
-[^1]: A 2. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 169. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § (8) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 169. § b) pontja szerint módosított szöveg.
-[^3]: A 2. § (9) bekezdése a 42/2017. (VIII. 17.) FM rendelet 169. § c) pontja szerint módosított szöveg.
+[^1]: A 2. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 169. § a) pontja, a 128/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (8) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 169. § b) pontja, a 128/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (9) bekezdése a 42/2017. (VIII. 17.) FM rendelet 169. § c) pontja, a 128/2022. (XII. 27.) AM rendelet 1. § b) és c) pontja szerint módosított szöveg.

@@ -10,7 +10,7 @@
 
 4. melléklet a 67/2011. (VII. 13.) VM rendelethez
 
-## Az ionizáló sugárzással kezelt élelmiszerek által elnyelt átlagos dózis számítása
+Az ionizáló sugárzással kezelt élelmiszerek által elnyelt átlagos dózis számítása
 
 1. Dozimetria
 
@@ -18,27 +18,35 @@ Teljes átlagos elnyelt dózis
 
 Feltételezhető a teljes átlagos 10 kGy vagy az annál kisebb dózissal kezelt élelmiszer ártalmatlanságának meghatározásakor, hogy a teljes sugárkémiai hatás ebben a meghatározott dózistartományban arányos a dózissal.
 
+## 1M23023B_0
+
 |  | A teljes átlagdózis |  | következő integrál képlettel határozható meg a termékek teljes volumenére: |
 
-ahol
+## ahol
 
-M = a kezelt minta összes tömege
+## M = a kezelt minta összes tömege
 
-p = a helyi sűrűség az (x, y, z) pontban
+## p = a helyi sűrűség az (x, y, z) pontban
 
-d = a helyi elnyelt dózis az (x, y, z) pontban
+## d = a helyi elnyelt dózis az (x, y, z) pontban
 
-dV = dx, dy, dz végtelen kicsiny térfogatelem, amelyet valós esetekben térfogathányadok képviselnek.
+## dV = dx, dy, dz végtelen kicsiny térfogatelem, amelyet valós esetekben térfogathányadok képviselnek.
 
-A teljes átlagos elnyelt dózis közvetlenül meghatározható homogén termékekre, vagy ömlesztett, homogén fajlagos sűrűségű árukra, ha az áru egész térfogatában célzottan és véletlen elosztásban megfelelő számú dózismérőt helyeznek el. Az ilyen módon meghatározott dóziseloszlásból számított átlag a teljes átlagos elnyelt dózis.
+## A teljes átlagos elnyelt dózis közvetlenül meghatározható homogén termékekre, vagy ömlesztett, homogén fajlagos sűrűségű árukra, ha az áru egész térfogatában célzottan és véletlen elosztásban megfelelő számú dózismérőt helyeznek el. Az ilyen módon meghatározott dóziseloszlásból számított átlag a teljes átlagos elnyelt dózis.
 
-Ha jól határozzuk meg a dóziseloszlási görbét az egész termékben, akkor a minimális és a maximális dózis helyét megismerjük. A dóziseloszlásnak a termék egy mintasorozatában e két helyen végzett mérései a teljes átlagos dózis becslésére felhasználhatók.
+## Ha jól határozzuk meg a dóziseloszlási görbét az egész termékben, akkor a minimális és a maximális dózis helyét megismerjük. A dóziseloszlásnak a termék egy mintasorozatában e két helyen végzett mérései a teljes átlagos dózis becslésére felhasználhatók.
+
+## 1M23023B_1
 
 |  | Egyes esetekben a minimális dózis |  | és a maximális dózis |  | átlagértékének középarányosa lesz a teljes dózis |
 
-helyes becslése,azaz ezekben az esetekben:
+## helyes becslése,azaz ezekben az esetekben:
+
+## 1M23023B_2
 
 |  | a teljes átlagdózis = |  |
+
+## 1M23023B_3
 
 |  | A |  | arány legfeljebb 3. |
 

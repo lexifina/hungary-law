@@ -1,6 +1,6 @@
 5. melléklet a 67/2011. (VII. 13.) VM rendelethez
 
-## Az élelmiszerbesugárzó létesítmények ajánlott működési szabályzata[^9]
+Az élelmiszerbesugárzó létesítmények ajánlott működési szabályzata[^10]
 
 1. ÁLTALÁNOS ELŐÍRÁS
 
@@ -34,9 +34,9 @@ A termék mozgását, a pásztázási szélességet és sebességét, valamint a
 
 2.2. Dozimetria és folyamatellenőrzés
 
-Bármely élelmiszer besugárzása előtt bizonyos dozimetriás méréseket[^10] kell végezni, amelyek azt jelzik, hogy az eljárás megfelel a jogszabályi követelményeknek.
+Bármely élelmiszer besugárzása előtt bizonyos dozimetriás méréseket[^11] kell végezni, amelyek azt jelzik, hogy az eljárás megfelel a jogszabályi követelményeknek.
 
-Radionuklid és gépi sugárforrásokra vonatkozó dozimetriához különböző technikák állnak rendelkezésre az elnyelt dózis kvantitatív mérésére[^11]. Dozimetriás beállító méréseket kell végezni minden egyes új élelmiszer és besugárzási technológia esetében, valamint mindenkor, amikor változtatják a sugárforrás erősségét vagy a sugárforrás-termék geometriáját.
+Radionuklid és gépi sugárforrásokra vonatkozó dozimetriához különböző technikák állnak rendelkezésre az elnyelt dózis kvantitatív mérésére[^12]. Dozimetriás beállító méréseket kell végezni minden egyes új élelmiszer és besugárzási technológia esetében, valamint mindenkor, amikor változtatják a sugárforrás erősségét vagy a sugárforrás-termék geometriáját.
 
 Rutin dozimetriát kell végezni a működés során és ezekről a mérésekről nyilvántartást kell vezetni.
 
@@ -62,27 +62,35 @@ A berendezés tervezésénél meg kell kísérelni a sugárdózis egyenletesség
 
 Feltételezhető a teljes átlagos 10 kGy vagy annál kisebb dózissal kezelt élelmiszer ártalmatlanságának meghatározásakor, hogy a teljes sugárkémiai hatás ezen meghatározott dózistartományban arányos a dózissal.
 
+## 1M23025_0
+
 |  | A teljes átlagdózis |  | következő integrál képlettel határozható meg a termékek teljes volumenére: |
 
-ahol:
+## ahol:
 
-M = a kezelt minta összes tömege
+## M = a kezelt minta összes tömege
 
-p = a helyi sűrűség /x,y,z/ pontokban
+## p = a helyi sűrűség /x,y,z/ pontokban
 
-d = a helyi elnyelt dózis az /x,y,z/ pontokban
+## d = a helyi elnyelt dózis az /x,y,z/ pontokban
 
-dV = dx, dy, dz végtelen kicsiny térfogatelem, amelyet valós esetekben térfogathányadok képviselnek.
+## dV = dx, dy, dz végtelen kicsiny térfogatelem, amelyet valós esetekben térfogathányadok képviselnek.
 
-A teljes átlagos elnyelt dózis közvetlenül meghatározható a homogén termékekre vagy ömlesztett, homogén fajlagos sűrűségű árukra, ha az áru egész térfogatában célzottan és véletlen eloszlásban megfelelő számú dózismérőt helyeznek el. Az ilyen módon meghatározott dóziseloszlásból számított átlag a teljes átlagos elnyelt dózis.
+## A teljes átlagos elnyelt dózis közvetlenül meghatározható a homogén termékekre vagy ömlesztett, homogén fajlagos sűrűségű árukra, ha az áru egész térfogatában célzottan és véletlen eloszlásban megfelelő számú dózismérőt helyeznek el. Az ilyen módon meghatározott dóziseloszlásból számított átlag a teljes átlagos elnyelt dózis.
 
-Ha jól határozzuk meg a dóziseloszlási görbét az egész termékben, akkor a minimális és maximális dózis helyét megismerjük. A dóziseloszlásnak a termék egy mintasorozatában e két helyen végzett mérései a teljes átlagos dózis becslésére felhasználhatók.
+## Ha jól határozzuk meg a dóziseloszlási görbét az egész termékben, akkor a minimális és maximális dózis helyét megismerjük. A dóziseloszlásnak a termék egy mintasorozatában e két helyen végzett mérései a teljes átlagos dózis becslésére felhasználhatók.
+
+## 1M23025_1
 
 |  | Egyes esetekben a minimális dózis |  | és a maximális dózis |  | átlagértékének középarányosa lesz a teljes dózis |
 
-helyes becslése,azaz ezekben az esetekben:
+## helyes becslése,azaz ezekben az esetekben:
+
+## 1M23025_2
 
 |  | a teljes átlagdózis = |  |
+
+## 1M23025_3
 
 |  | A |  | arány legfeljebb 3. |
 
@@ -110,7 +118,7 @@ A szakaszos üzemelésű radionuklid létesítményben automatikusan lehet regis
 
 Gépi berendezésben folyamatosan regisztrálhatók a sugárnyaláb paraméterei, azaz a feszültség, áramerősség, a pásztázási sebesség és szélesség, pulzus ismétlés és a sugártéren történő áthaladás sebessége. Ez utóbbit lehet felhasználni a folyamatos eljárás ellenőrzésére a rutin dozimetriás mérések alátámasztására.
 
-6. Példák egyes élelmiszerféleségek besugárzásánál alkalmazott technológiai körülményekre[^12]
+6. Példák egyes élelmiszerféleségek besugárzásánál alkalmazott technológiai körülményekre[^13]
 
 6.1. Baromfi (Gallus domesticus)
 
@@ -290,7 +298,7 @@ A búza és darált búzatermékek besugárzásának célja, hogy meggátoljuk a
 
 Ezeket a termékeket függetlenül attól, hogy csomagolva vagy ömlesztve vannak tárolva, amennyire csak lehetséges, olyan körülmények között kell tartani, amely meggátolja újrafertőzésüket.
 
-[^9]: Recommended international code of practice for the operation of irradation facilities used for the treatment of foods (reference FAO/WHO/CAC, Vol. XV, edition 1)
-[^10]: Lásd: B rész
-[^11]: Részletesen ismertetve az Élelmiszerbesugárzás Dozimetriájának Kézikönyvében, IAEA Bécs, 1977, 178. sorozatszámú Technikai Jelentés
-[^12]: Ezek az információkat a közös FAO/IAEA/WHO Élelmiszer-besugárzási Szakértői Bizottság jelentéseiből (WHO Műszaki Jelentések sorozat 604. sz. 1977 és 659. sz. 1981) származnak és a besugárzás hasznosságát mutatják be. A jelentések leírják a biztonságos és gazdaságos besugárzási eljárás céljainak eléréséhez szükséges műszaki körülményeket is.
+[^10]: Recommended international code of practice for the operation of irradation facilities used for the treatment of foods (reference FAO/WHO/CAC, Vol. XV, edition 1)
+[^11]: Lásd: B rész
+[^12]: Részletesen ismertetve az Élelmiszerbesugárzás Dozimetriájának Kézikönyvében, IAEA Bécs, 1977, 178. sorozatszámú Technikai Jelentés
+[^13]: Ezek az információkat a közös FAO/IAEA/WHO Élelmiszer-besugárzási Szakértői Bizottság jelentéseiből (WHO Műszaki Jelentések sorozat 604. sz. 1977 és 659. sz. 1981) származnak és a besugárzás hasznosságát mutatják be. A jelentések leírják a biztonságos és gazdaságos besugárzási eljárás céljainak eléréséhez szükséges műszaki körülményeket is.
