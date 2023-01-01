@@ -2,6 +2,6 @@
 
 a) 3. §-a a következő (7) bekezdéssel egészül ki:
 
-## ,,(7) A soron kívüli munkaköri, illetve személyi higiénés alkalmasság vizsgálata keretében végzett, HIV fertőzés megállapítására irányuló szűrővizsgálati kötelezettség körét, a szűrővizsgálatok elvégzésének rendjét külön jogszabály állapítja meg.''
+## „,,(7) A soron kívüli munkaköri, illetve személyi higiénés alkalmasság vizsgálata keretében végzett, HIV fertőzés megállapítására irányuló szűrővizsgálati kötelezettség körét, a szűrővizsgálatok elvégzésének rendjét külön jogszabály állapítja meg.''”
 
 b) 14. §-ának (3) bekezdése a következő szövegrésszel egészül ki:

@@ -6,7 +6,7 @@
 
 (4) A megerősítő szűrővizsgálat negatív eredménye esetén az egészségügyi szolgáltató – amennyiben azok rendelkezésre állnak – a vizsgált személy egészségügyi, illetőleg személyazonosító adatait a nyilvántartásból haladéktalanul törli.
 
-(5)[^18] Anonim szűrővizsgálat elvégzésére, valamint a szűrővizsgálattal összefüggő tanácsadó tevékenységre a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal, a területi bőr- és nemibeteg-gondozó intézetek, a Semmelweis Egyetem Bőr-, Nemikórtani és Bőronkológiai Klinika STD centruma, valamint azon egészségügyi szolgáltatók jogosultak, amelyek a szűrővizsgálat céljából történő vérvételhez, valamint az ahhoz kapcsolódó tanácsadáshoz megfelelő működési engedéllyel rendelkeznek.
+(5)[^18] Anonim szűrővizsgálat elvégzésére, valamint a szűrővizsgálattal összefüggő tanácsadó tevékenységre a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal, a területi bőr- és nemibeteg-gondozó intézetek, a Semmelweis Egyetem Bőr-, Nemikórtani és Bőronkológiai Klinika STD centruma, valamint azon egészségügyi szolgáltatók jogosultak, amelyek a szűrővizsgálat céljából történő vérvételhez, valamint az ahhoz kapcsolódó tanácsadáshoz megfelelő működési engedéllyel rendelkeznek.
 
 [^17]: A 12. § (3) bekezdése a 46/2009. (XII. 22.) EüM rendelet 7. § (3) bekezdés e) pontja szerint módosított szöveg.
-[^18]: A 12. § (5) bekezdése a 46/2009. (XII. 22.) EüM rendelet 5. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 38. §-a szerint módosított szöveg.
+[^18]: A 12. § (5) bekezdése a 46/2009. (XII. 22.) EüM rendelet 5. §-ával megállapított, a 23/2015. (IV. 28.) EMMI rendelet 38. §-a, a 45/2022. (XII. 20.) BM rendelet 23. § b) pontja szerint módosított szöveg.

@@ -10,7 +10,7 @@ a) a fertőző betegségek és a járványok megelőzése érdekében szüksége
 
 b) a foglalkozásuk gyakorlása, illetve egyéb jövedelemszerző tevékenységük során – ide nem értve az egészségügyi dolgozók által az egészségügyi szolgáltatások nyújtásával vagy annak érdekében végzett tevékenységet – rendszeresen vagy esetenként az emberi vérrel, illetőleg a fertőzés átvitelére alkalmas emberi ondóval, illetve hüvelyváladékkal (a továbbiakban: váladék) közvetlen érintkezésbe kerülhetnek
 
-## amennyiben ezen tevékenységük végzése közben bekövetkezett sérülésük HIV fertőződésüket eredményezhette, és saját vérükkel vagy váladékukkal másokat megfertőzhetnek.
+amennyiben ezen tevékenységük végzése közben bekövetkezett sérülésük HIV fertőződésüket eredményezhette, és saját vérükkel vagy váladékukkal másokat megfertőzhetnek.
 
 (2) Az (1) bekezdés b) pontjában foglalt kötelező szűrővizsgálat elvégzése feltételeinek fennálltáról és ennek alapján a szűrővizsgálat elvégzésének szükségességéről a munkaköri alkalmasság vizsgálatára jogosult foglalkozás-egészségügyi alapellátást nyújtó orvos, illetőleg – előzetes infektológiai szakorvosi vélemény figyelembevételével – a személyi higiénés alkalmasság vizsgálatát végző háziorvos dönt. Az (1) bekezdés szerinti szűrővizsgálatot és megerősítő vizsgálatot a HIV fertőzés kimutatásához szükséges időtartam megfelelő figyelembevételével meghatározott időpontban kell elvégezni.
 
