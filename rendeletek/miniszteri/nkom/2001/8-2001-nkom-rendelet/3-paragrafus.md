@@ -1,4 +1,4 @@
-3. § (1) Műemlékké nyilvánítom a Baranya megyei Pécs városban a 40504/1, 40504/3, 40504/4, 40511 hrsz.-ú, Zsolnay Vilmos u. 69–73. sz. és Felsővámház u. 72. sz. alatti Zsolnay gyár területén a mellékleten jelölt és az alábbiakban felsorolt épületeket, építményeket:
+3. § (1)[^1] Műemlékké nyilvánítom a Baranya vármegyei Pécs városban a 40504/1, 40504/3, 40504/4, 40511 hrsz.-ú, Zsolnay Vilmos u. 69–73. sz. és Felsővámház u. 72. sz. alatti Zsolnay gyár területén a mellékleten jelölt és az alábbiakban felsorolt épületeket, építményeket:
 
 a) a 40504/3 hrsz.-ú ingatlanon
 
@@ -39,3 +39,5 @@ K17 sz. kémény.
 (4) A műemlékvédelmi bírság megállapításának alapjául szolgáló érték szempontjából az (1) bekezdés c) pont alatti Zöld házat II., míg a többi műemléket III. kategóriába sorolom.
 
 (5) A védetté nyilvánítás célja az 1853-as alapítású gyár 1860 és 1924 között épített, kívül és belül gazdagon díszített lakó- és üzemi épületeinek, építményeinek, berendezéseinek, kéményeinek és kemencéinek megőrzése, a Zsolnay Vilmos és örökösei által létrehozott értékek fennmaradásának biztosítása.
+
+[^1]: A 3. § (1) bekezdés nyitó szövegrésze a 7/2022. (XII. 27.) ÉKM rendelet 2. § a) pontja szerint módosított szöveg.

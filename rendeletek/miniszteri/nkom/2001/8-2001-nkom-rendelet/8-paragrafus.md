@@ -2,9 +2,9 @@
 
 8. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-Melléklet[^1]
+Melléklet
 
-a 8/2001. (III. 30.) NKÖM rendelethez
+a 8/2001. (III. 30.) NKÖM rendelethez[^5]
 
 Helyszínrajz
 
@@ -14,4 +14,4 @@ a Pécsi Geodéziai és Térképészeti Vállalat 5020/1439/513 munkaszámú
 
 1:2000
 
-[^1]: A Magyar Közlöny 2001. évi 41. számában közzétett helyesbítésnek megfelelő szöveg.
+[^5]: A Magyar Közlöny 2001. évi 41. számában közzétett helyesbítésnek megfelelő szöveg.
