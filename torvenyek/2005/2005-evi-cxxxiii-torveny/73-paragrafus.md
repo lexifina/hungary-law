@@ -2,4 +2,4 @@
 
 ## VEGYES ÉS ÉRTELMEZŐ RENDELKEZÉSEK
 
-73. §
+### 73. §

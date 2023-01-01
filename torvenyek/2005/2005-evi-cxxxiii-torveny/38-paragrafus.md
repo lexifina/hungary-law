@@ -24,7 +24,7 @@ j) kapcsolatot tart az illetékes gazdasági kamarákkal, továbbá a hasonló j
 
 k) kezdeményezi szabványok kiadását;
 
-l) valamennyi személy- és vagyonőr tekintetében elbírálja az e törvény 26–29. §-aiban meghatározott jogosultságok gyakorlásával szemben benyújtott, az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló törvényben meghatározott panaszt,
+l) valamennyi személy- és vagyonőr tekintetében elbírálja az Erfesztv. 22. § (4) bekezdés a) pontja szerinti panaszt,
 
 m) tagjai támogatására – a kamara önkormányzati szabályzataiban meghatározott szabályok szerint – segélyalapot hoz létre és használ fel;
 

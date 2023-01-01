@@ -6,13 +6,13 @@
 
 (2) A kamara a feladatait
 
-a) a megyékben és a fővárosban működő területi szervezetei (a továbbiakban együtt: területi szervezet), valamint
+a) a vármegyékben és a fővárosban működő területi szervezetei (a továbbiakban együtt: területi szervezet), valamint
 
 b) országos szervezete
 
 útján látja el.
 
-(3) Területi szervezetet több megye közösen is létrehozhat. Ez esetben az érintett megyékben külön megyei szervezetek nem hozhatók létre.
+(3) Területi szervezetet több vármegye közösen is létrehozhat. Ez esetben az érintett vármegyékben külön vármegyei szervezetek nem hozhatók létre.
 
 (4) A kamara területi szervezetei, valamint országos szervezete jogi személyek.
 

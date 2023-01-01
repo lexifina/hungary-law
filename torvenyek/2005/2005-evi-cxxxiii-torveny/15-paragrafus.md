@@ -1,6 +1,6 @@
 15. § (1) A vállalkozás a szerződésekről a naplóban nyilvántartást vezet, és e naplót az utolsó bejegyzés napjától számított öt évig megőrzi.
 
-(2) A naplóban – vagy más alkalmas módon – kell nyilvántartani a szerződést ténylegesen teljesítő személy vagy személyek nevét, a megbízó nevét, lakcímét vagy székhelyét, a 20. § alapján a fizetett egészségügyi szabadság kezdetének és befejezésének dátumát, az igazolást kiállító háziorvos nevét és pecsétszámát.
+(2) A naplóban kell nyilvántartani a szerződést ténylegesen teljesítő személy vagy személyek nevét, a megbízó nevét, lakcímét vagy székhelyét, a 20. § alapján a fizetett egészségügyi szabadság kezdetének és befejezésének dátumát, az igazolást kiállító háziorvos nevét és pecsétszámát.
 
 (3) A naplóban, az ahhoz kapcsolódó egyéb nyilvántartásban kiegészítés, javítás csak úgy végezhető, hogy az eredetileg rögzített szöveg olvasható maradjon.
 
