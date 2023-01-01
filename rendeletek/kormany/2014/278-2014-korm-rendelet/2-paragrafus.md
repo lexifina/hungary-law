@@ -16,11 +16,14 @@ b) a földhasználati, földhasználat-változtatási ágazatra vonatkozó rész
 
 c) a forgalmi jegyzékre vonatkozó része tartalmára az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény (a továbbiakban: 2012. évi CCXVII. törvény) szerinti forgalmi jegyzék kezelője tesz javaslatot a Szolgálat részére.
 
-(4)[^3] A Nemzeti Kibocsátási Leltárt és a kapcsolódó leltárjelentést a környezetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter, a földügyért felelős miniszter, az erdőgazdálkodásért felelős miniszter és a miniszter jóváhagyásával a Szolgálat nyújtja be minden év április 15. napjáig a Keretegyezmény Titkárságának.
+d)[^3] a mezőgazdasági ágazatra vonatkozó részének tartalmára az AKI Agrárközgazdasági Intézet Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: AKI Nonprofit Kft.) javaslatot tesz a Szolgálat részére.
 
-(5)[^4] A miniszter a környezetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter, az erdőgazdálkodásért felelős miniszter és a földügyért felelős miniszter közreműködésével gondoskodik a (2)–(4) bekezdés szerinti jelentés összeállításáról.
+(4)[^4] A Nemzeti Kibocsátási Leltárt és a kapcsolódó leltárjelentést a környezetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter, a földügyért felelős miniszter, az erdőgazdálkodásért felelős miniszter és a miniszter jóváhagyásával a Szolgálat nyújtja be minden év április 15. napjáig a Keretegyezmény Titkárságának.
+
+(5)[^5] A miniszter a környezetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter, az erdőgazdálkodásért felelős miniszter és a földügyért felelős miniszter közreműködésével gondoskodik a (2)–(4) bekezdés szerinti jelentés összeállításáról.
 
 [^1]: A 2. § (3) bekezdése a 236/2019. (X. 15.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^2]: A 2. § (3) bekezdés a) pontja a 120/2021. (III. 10.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^3]: A 2. § (4) bekezdése a 135/2018. (VII. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § (5) bekezdése a 135/2018. (VII. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (3) bekezdés d) pontját a 620/2022. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
+[^4]: A 2. § (4) bekezdése a 135/2018. (VII. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (5) bekezdése a 135/2018. (VII. 25.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

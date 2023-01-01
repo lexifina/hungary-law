@@ -1,12 +1,10 @@
-## Állami szervek által szolgáltatandó adatok
-
 |  | A | B | C | D | E |
 
 | 1. | Adatszolgáltató | Adattípus | Adat megnevezése | Adatszolgáltatás | A 4. § (4) bekezdésében meghatározottaktól eltérő adatszolgáltatási határidő |
 
 | 2. | AKI Agrárközgazdasági Intézet Nonprofit Korlátolt Felelősségű Társaság | Műtrágyázás. PÁIR adatok. | – Műtrágya-értékesítés értékesítési irányok szerint (hatóanyag-tartalom). – Nyers tehéntej éves beltartalmának alakulása (fehérje%, zsír%). |  |  |
 
-| 3. | Nemzeti Élelmiszerlánc- biztonsági Hivatal, növény- és talajvédelmi hatósági feladatkörükben eljáró megyei kormányhivatalok | Talajvédelmi Információs és Monitoring rendszer adatai az összes mérőhelyre vonatkozóan. Termőföldön felhasznált talajmeszező anyagok adatai a hatályos talajjavítási engedélyek alapján, meszező anyagonként és művelési áganként (szántó és gyep). A vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméről szóló kormányrendelet alapján gyűjtött nitrát adatbázis adatai. | – Talaj szervesanyag-tartalma. – Szén-dioxid produkció. – Összes nitrogén tartalom; nitrát-nitrit tartalom. – Felhasznált mennyiség (t). – Kijuttatással érintett terület (ha). A trágyatermelésre vonatkozó adatok állatfajonként és tartásmódonként. |  |  |
+| 3. | Nemzeti Élelmiszerlánc- biztonsági Hivatal, növény- és talajvédelmi hatósági feladatkörükben eljáró vármegyei kormányhivatalok | Talajvédelmi Információs és Monitoring rendszer adatai az összes mérőhelyre vonatkozóan. Termőföldön felhasznált talajmeszező anyagok adatai a hatályos talajjavítási engedélyek alapján, meszező anyagonként és művelési áganként (szántó és gyep). A vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméről szóló kormányrendelet alapján gyűjtött nitrát adatbázis adatai. | – Talaj szervesanyag-tartalma. – Szén-dioxid produkció. – Összes nitrogén tartalom; nitrát-nitrit tartalom. – Felhasznált mennyiség (t). – Kijuttatással érintett terület (ha). – Trágyatárolásra, feldolgozásra és kijuttatásra, valamint a legeltetésre vonatkozó adatok. A trágyatermelésre vonatkozó adatok állatfajonként és tartásmódonként. |  |  |
 
 | 4. | Környezetvédelemért felelős miniszter | Légszennyező pont- és diffúz források kibocsátási és technológiai és engedélyezési adatai. | – A levegő védelméről szóló kormányrendelet szerint bejelentett adatok (LAL és LM), – az Európai Szennyezőanyag-kibocsátási és -szállítási nyilvántartás létrehozásáról, valamint a 91/689/EGK és a 96/61/EK tanácsi irányelv módosításáról szóló 166/2006/EK európai parlamenti és tanácsi rendelet (2006. január 18.) szerinti nemzeti jelentés elkészítéséhez a tárgyévet megelőző évekről összegyűjtött adatok. | Az OKIR-ban rendelkezésre álló adatok. |  |
 
@@ -60,9 +58,9 @@
 
 | 29. | Központi Statisztikai Hivatal | Környezeti adatok. | Szennyvíz- és hulladékstatisztika. Városi zöldterületek nagysága (ha). | Az adatok rendelkezésre állásának függvényében. | A rendelkezésre állás függvényében, lehetőség szerint a 4. § (4) bekezdésében megjelölt határidőkre. |
 
-| 30. | Központi Statisztikai Hivatal | Mezőgazdasági adatok. | – Szántóföldi vetésszerkezet megyénként. – Növényi termékek terméseredményei megyénként. – Állatállomány évközi és év végi adatai állatfajonként és megyénként. – Állati termékek termelése. – Rendelkezésre álló agrotechnikai adatok (szerves- és műtrágyázás, talajmeszezés, növényvédelem, öntözés) területi és mennyiségi adatai – országos összesítés. – Az Általános Mezőgazdasági Összeírás adatai megyei bontásban [szántó művelése; mezőgazdasági terület trágyázása; mezőgazdasági terület öntözése; legeltetés; trágyatárolás; állattartás épületei; megújuló energia termelő berendezések (biometán termelés)]. | Az adatok rendelkezésre állásának függvényében. | A rendelkezésre állás függvényében, lehetőség szerint a 4. § (4) bekezdésében megjelölt határidőkre. |
+| 30. | Központi Statisztikai Hivatal | Mezőgazdasági adatok. | – Szántóföldi vetésszerkezet vármegyénként. – Növényi termékek terméseredményei vármegyénként. – Állatállomány évközi és év végi adatai állatfajonként és vármegyénként. – Állati termékek termelése. – Rendelkezésre álló agrotechnikai adatok (szerves- és műtrágyázás, talajmeszezés, növényvédelem, öntözés) területi és mennyiségi adatai – országos összesítés. – Az Általános Mezőgazdasági Összeírás adatai vármegyei bontásban [szántó művelése; mezőgazdasági terület trágyázása; mezőgazdasági terület öntözése; legeltetés; trágyatárolás; állattartás épületei; megújuló energia termelő berendezések (biometán termelés)]. | Az adatok rendelkezésre állásának függvényében. | A rendelkezésre állás függvényében, lehetőség szerint a 4. § (4) bekezdésében megjelölt határidőkre. |
 
-| 31. | Központi Statisztikai Hivatal | Földhasználati adatok. | – A földterület használata művelési ágak szerint, megyénként. | Az adatok rendelkezésre állásának függvényében. | A rendelkezésre állás függvényében, lehetőség szerint a 4. § (4) bekezdésében megjelölt határidőkre. |
+| 31. | Központi Statisztikai Hivatal | Földhasználati adatok. | – A földterület használata művelési ágak szerint, vármegyénként. | Az adatok rendelkezésre állásának függvényében. | A rendelkezésre állás függvényében, lehetőség szerint a 4. § (4) bekezdésében megjelölt határidőkre. |
 
 | 32. | Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet | Üvegházhatású gázokat tartalmazó gyógyszer-termékek forgalmazása. | Belföldi fogyasztási adatok üvegházhatású gázokat tartalmazó gyógyszertermékekről [ideértve a HFC-134a (norfluran), HFC-227ea, valamint N2O gázokat], különösen az 517/2014/EU európai parlamenti és tanácsi rendelet, valamint a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendelet szerint összegyűjtött adatok. |  |  |
 
@@ -70,7 +68,7 @@
 
 | 34. | Nemzeti Adó- és Vámhivatal | Üzemanyag-statisztika. | Magyarországon forgalmazott üzemanyagok mennyisége részletes típus szerinti bontásban, különös tekintettel a bioüzemanyagokra (HVO, FAME). |  |  |
 
-2. melléklet a 278/2014. (XI. 14.) Korm. rendelethez[^32]
+2. melléklet a 278/2014. (XI. 14.) Korm. rendelethez[^42]
 
 A források által kibocsátott üvegházhatású gázokról szolgáltatandó adatok
 
@@ -100,4 +98,4 @@ A források által kibocsátott üvegházhatású gázokról szolgáltatandó ad
 
 | 12. | Nitrogén-trifluorid termelése és forgalmazása | NF3 termelése, forgalmazása és felhasználása: mennyiség, felhasználási mód, technológiai adatok. |
 
-[^32]: A 2. melléklet a 236/2019. (X. 15.) Korm. rendelet 17. § b) pontjával megállapított szöveg.
+[^42]: A 2. melléklet a 236/2019. (X. 15.) Korm. rendelet 17. § b) pontjával megállapított szöveg.

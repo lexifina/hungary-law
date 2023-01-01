@@ -1,7 +1,7 @@
-## 8. [^18] Integrált jelentéstétel az éghajlatváltozáshoz való alkalmazkodás elleni nemzeti fellépésről
+## 8. [^28] Integrált jelentéstétel az éghajlatváltozáshoz való alkalmazkodás elleni nemzeti fellépésről
 
 12. § (1) A miniszter az éghajlatváltozáshoz való alkalmazkodást célzó, alkalmazkodási tervezésre és stratégiákra vonatkozó nemzeti fellépésről szóló integrált jelentést első alkalommal 2021. március 15-ig, majd utána kétévente nyújtja be a Bizottság felé.
 
 (2) A jelentés tartalmára, felépítésére, formátumára, benyújtási eljárására és felülvizsgálatára az (EU) 2018/1999 rendelet, valamint az (EU) 2020/1208 bizottsági végrehajtási rendelet előírásai az irányadók.
 
-[^18]: A 8. alcím (12. §) az 527/2020. (XI. 26.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^28]: A 8. alcím (12. §) az 527/2020. (XI. 26.) Korm. rendelet 20. §-ával megállapított szöveg.
