@@ -1,5 +1,3 @@
-## 36. §[^18]
-
 37. § (1) A riasztás a készenléti jellegű szolgálatba beosztott személyi állomány és az általuk kezelt gépjárművek, felszerelések, oltó- és segédanyagok vonulására szóló felhívás. A riasztást az annak elrendelésére jogosult személynek a riasztólámpa működtetését követően az arra rendszeresített hang- és vizuális jelek vagy élőszó alkalmazásával kell elrendelni.
 
 (2) Az önkormányzati, és a létesítményi tűzoltóság erőinek, eszközeinek riasztási módját az előzőekben foglaltak figyelembevételével az egység tűzoltóparancsnoka határozza meg.
@@ -36,12 +34,10 @@ d) IV-es a riasztási fokozat, amelyben a beavatkozáshoz 4,5–6 raj,
 
 e) V-ös a riasztási fokozat, amelyben a beavatkozáshoz 6-nál több raj
 
-## riasztása szükséges.
+riasztása szükséges.
 
 (7) Ha a jelzésből egyértelműen megállapítható, hogy a beavatkozáshoz az I-es riasztási fokozatban tervezett erőkre, eszközökre teljes egészében nincs szükség, akkor legalább egy félraj, vagy más különleges szer – amennyiben ezeken a szereken tűzoltás vezetésére jogosult személy vonul – önálló vonultatására is lehet intézkedni, a riasztási fokozat ebben az esetben is I-es.
 
 (8) Ha a beavatkozás a riasztott erőkkel, eszközökkel számottevő kárnövekedés nélkül nem végezhető el, úgy további erők, eszközök kirendelésére kell intézkedni.
 
 (9) A riasztási fokozathoz tartozó, de nem vonultatható gépjármű helyett a legközelebbi tűzoltóság gépjárművét kell riasztani, a riasztási fokozat emelése nélkül.
-
-[^18]: A 36. §-t a 24/2012. (V. 8.) BM rendelet 5. § b) pontja hatályon kívül helyezte.

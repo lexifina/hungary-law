@@ -1,4 +1,4 @@
-## 34/A. §[^15] A megyei műveletirányító ügyeletes:
+34/A. §[^15] A vármegyei műveletirányító ügyeletes:
 
 a) ellátja a KI illetékességi területén lévő tűzoltóságok működési területéről beérkező tűzjelzések fogadásával, értékelésével és a riasztással kapcsolatos, valamint a jelentési és hír-összeköttetési feladatait, irányítja az adatszolgáltatás elvégzését,
 
@@ -12,9 +12,11 @@ e) rögzíti a tűzoltásvezető visszajelzéseit és a tűzesetekkel, műszaki 
 
 f) amennyiben nem az illetékességi területén lévő tűzoltóságok működési területéről érkezik hozzá tűzjelzés, haladéktalanul továbbítja azt az illetékes KI műveletirányító ügyeletére,
 
-g) tevékenységét a műveletirányítás rendje és a megyei főügyelet ügyrendje szerint végzi,
+g)[^17] tevékenységét a műveletirányítás rendje és a vármegyei főügyelet ügyrendje szerint végzi,
 
-h) végrehajtja a megyei főügyelet és az OKF Központi Főügyeletének utasításait a riasztások és jelentések végrehajtásával kapcsolatosan.
+h)[^18] végrehajtja a vármegyei főügyelet és az OKF Központi Főügyeletének utasításait a riasztások és jelentések végrehajtásával kapcsolatosan.
 
-[^15]: A 34/A. §-t a 24/2012. (V. 8.) BM rendelet 3. § (3) bekezdése iktatta be.
+[^15]: A 34/A. §-t a 24/2012. (V. 8.) BM rendelet 3. § (3) bekezdése iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 55. § a) pontja szerint módosított szöveg.
 [^16]: A 34/A. § b) pontja a 9/2014. (II. 7.) BM rendelet 7. § e) pontja szerint módosított szöveg.
+[^17]: A 34/A. § g) pontja a 45/2022. (XII. 20.) BM rendelet 55. § a) pontja szerint módosított szöveg.
+[^18]: A 34/A. § h) pontja a 45/2022. (XII. 20.) BM rendelet 55. § a) pontja szerint módosított szöveg.

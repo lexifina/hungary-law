@@ -1,5 +1,3 @@
-## történik.
-
 ## 4. A tűzoltás vezetésének átadása-átvétele
 
 12. § (1) A helyszínre érkező magasabb beosztású – tűzoltás vezetésére jogosult – személy a helyzetértékelés alapján dönt a tűzoltás vezetésének átvételéről.
