@@ -158,7 +158,7 @@
 
 ## 11. Szakorvosi vélemény
 
-## 11.1. Nyilatkozat arról, hogy országos gyógyintézet, klinika vagy korábbi megyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény rendelkezésre áll-e
+## 11.1. Nyilatkozat arról, hogy országos gyógyintézet, klinika vagy korábbi vármegyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény rendelkezésre áll-e
 
 ## 11.2. Az eszköz pontos megnevezése, meghatározása
 
@@ -184,4 +184,4 @@
 
 5. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^173]
 
-[^173]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 47/2015. (X. 19.) EMMI rendelet 31. §-a és 32. § e) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (5) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 21. § g) pontja, a 13/2022. (IV. 29.) EMMI rendelet 34. § f) pontja szerint módosított szöveg. [A 13/2022. (IV. 29.) EMMI rendelet 34. § g) pontjában foglalz módosítás, mely szerint a „az R. 4. § (1) bekezdés 15. pontja szerinti alkalmazási célja” szövegrész helyébe a „rendeltetése” szöveg lép, nem vezethető át.]
+[^173]: Az 5. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (5) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 47/2015. (X. 19.) EMMI rendelet 31. §-a és 32. § e) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (5) bekezdése, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 35/2021. (VIII. 16.) EMMI rendelet 21. § g) pontja, a 13/2022. (IV. 29.) EMMI rendelet 34. § f) pontja, a 48/2022. (XII. 27.) BM rendelet 4. §-a szerint módosított szöveg. [A 13/2022. (IV. 29.) EMMI rendelet 34. § g) pontjában foglalz módosítás, mely szerint a „az R. 4. § (1) bekezdés 15. pontja szerinti alkalmazási célja” szövegrész helyébe a „rendeltetése” szöveg lép, nem vezethető át.]

@@ -144,7 +144,7 @@
 
 ## 11. Szakorvosi vélemény
 
-## 11.1. Nyilatkozat arról, hogy országos gyógyintézet, a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdése szerinti klinika (a továbbiakban: klinika) vagy korábbi megyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény rendelkezésre áll-e
+## 11.1. Nyilatkozat arról, hogy országos gyógyintézet, a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (1) bekezdése szerinti klinika (a továbbiakban: klinika) vagy korábbi vármegyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény rendelkezésre áll-e
 
 ## 11.2. Az eszköz pontos megnevezése, meghatározása
 
@@ -172,4 +172,4 @@
 
 2. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^170]
 
-[^170]: A 2. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés e) pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 32/2021. (VII. 29.) EMMI rendelet 9. § (2) bekezdése, a 13/2022. (IV. 29.) EMMI rendelet 33. §-a, 34. § d)–e) pontja és 35. § a)–b) pontja szerint módosított szöveg.
+[^170]: A 2. számú melléklet a 34/2010. (V. 14.) EüM rendelet 12. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 84. § h) pontja, a 7/2016. (III. 30.) EMMI rendelet 15. § (2) bekezdése, az 54/2016. (XII. 30.) EMMI rendelet 53. § (1) bekezdés e) pontja, a 8/2018. (II. 13.) EMMI rendelet 42. § e) pontja, a 32/2021. (VII. 29.) EMMI rendelet 9. § (2) bekezdése, a 13/2022. (IV. 29.) EMMI rendelet 33. §-a, 34. § d)–e) pontja és 35. § a)–b) pontja, a 48/2022. (XII. 27.) BM rendelet 4. §-a szerint módosított szöveg.

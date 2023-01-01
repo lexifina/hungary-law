@@ -94,7 +94,7 @@
 
 ## 10. Szakorvosi vélemény
 
-## 10.1. Nyilatkozat arról, hogy országos gyógyintézet, klinika vagy korábbi megyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény rendelkezésre áll-e
+## 10.1. Nyilatkozat arról, hogy országos gyógyintézet, klinika vagy korábbi vármegyei kórház által kiállított, öt évnél nem régebbi szakorvosi vélemény rendelkezésre áll-e
 
 ## 10.2. Az eszköz pontos megnevezése, meghatározása
 
