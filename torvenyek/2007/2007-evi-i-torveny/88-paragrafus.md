@@ -10,4 +10,8 @@
 
 (5) Az EGT-állampolgár és a családtag által e törvény hatálybalépése előtt benyújtott, elsőfokú határozattal még el nem bírált tartózkodási vagy letelepedési engedély iránti kérelmekkel kapcsolatos eljárásban e törvény rendelkezéseit kell alkalmazni.
 
-(6)–(8)
+(6)
+
+(7)
+
+(8)
