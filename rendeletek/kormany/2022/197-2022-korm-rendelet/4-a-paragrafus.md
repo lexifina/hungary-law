@@ -1,4 +1,4 @@
-4/A. §[^6] (1) A gyógyszergyártó a 2022. és a 2023. adóévre vonatkozóan az e §-ban foglaltak szerinti különadó megállapítására, bevallására és megfizetésére kötelezett.
+4/A. §[^7] (1) A gyógyszergyártó a 2022. és a 2023. adóévre vonatkozóan az e §-ban foglaltak szerinti különadó megállapítására, bevallására és megfizetésére kötelezett.
 
 (2) E § alkalmazásában gyógyszergyártó a TEÁOR 2120 (Gyógyszerkészítmény gyártása) és a TEÁOR 2110 (Gyógyszeralapanyag-gyártás) szakágazat szerinti tevékenységet végző.
 
@@ -26,4 +26,4 @@ c) 150 milliárd forintot meghaladó része után 8 százalék.
 
 (11) Az e § szerinti különadóból származó bevétel a központi költségvetés Rezsivédelmi Alapjának bevétele.
 
-[^6]: A 4/A. §-t az 582/2022. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
+[^7]: A 4/A. §-t az 582/2022. (XII. 23.) Korm. rendelet 1. §-a iktatta be.

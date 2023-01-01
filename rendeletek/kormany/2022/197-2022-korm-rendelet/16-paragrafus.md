@@ -36,7 +36,7 @@ aa) 2 milliárd forintot meg nem haladó része után 2 százalék,
 
 ab) 2 milliárd forintot meghaladó, de 36 milliárd forintot meg nem haladó része után 4 százalék,
 
-ac)[^15] 36 milliárd forintot meghaladó része után 12 százalék, valamint
+ac)[^19] 36 milliárd forintot meghaladó része után 12 százalék, valamint
 
 b) a (2) bekezdés b) pontja szerinti adóalaprész
 
@@ -44,11 +44,11 @@ ba) 2 milliárd forintot meg nem haladó része után 1 százalék,
 
 bb) 2 milliárd forintot meghaladó, de 36 milliárd forintot meg nem haladó része után 1,5 százalék,
 
-bc)[^16] 36 milliárd forintot meghaladó része után 5 százalék.
+bc)[^20] 36 milliárd forintot meghaladó része után 5 százalék.
 
 (5) A biztosítónak
 
-a)[^17] 2022. november 30-ig a 2021. július 1-jétől 2022. június 30-ig elszámolt biztosítási díj alapulvételével a (4) bekezdés szerinti adómértékkel, a (7) bekezdésre figyelemmel számított,
+a)[^21] 2022. november 30-ig a 2021. július 1-jétől 2022. június 30-ig elszámolt biztosítási díj alapulvételével a (4) bekezdés szerinti adómértékkel, a (7) bekezdésre figyelemmel számított,
 
 b) 2023. május 31-ig a (3) bekezdés szerinti adómértékkel számított, 2023. január 31-ig bevallandó pótadóval egyező
 
@@ -64,6 +64,6 @@ b) 2023. május 31-ig a (3) bekezdés szerinti adómértékkel számított, 2023
 
 (10) A pótadóval kapcsolatos hatósági feladatokat az állami adóhatóság látja el. A pótadóból származó bevétel az államháztartás központi alrendszerének bevétele. A pótadót az állami adóhatóság által meghatározott államháztartási számlára kell megfizetni.
 
-[^15]: A 16. § (4) bekezdés a) pont ac) alpontja az 582/2022. (XII. 23.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^16]: A 16. § (4) bekezdés b) pont bc) alpontja az 582/2022. (XII. 23.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^17]: A 16. § (5) bekezdés a) pontja a 257/2022. (VII. 18.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^19]: A 16. § (4) bekezdés a) pont ac) alpontja az 582/2022. (XII. 23.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^20]: A 16. § (4) bekezdés b) pont bc) alpontja az 582/2022. (XII. 23.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^21]: A 16. § (5) bekezdés a) pontja a 257/2022. (VII. 18.) Korm. rendelet 8. §-a szerint módosított szöveg.
