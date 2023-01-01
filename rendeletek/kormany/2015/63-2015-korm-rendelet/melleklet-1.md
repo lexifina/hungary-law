@@ -2,7 +2,7 @@
 
 1. melléklet a 63/2015. (III. 24.) Korm. rendelethez
 
-A Borsod-Abaúj-Zemplén Megyei Büntetés-végrehajtási Intézet szirmabesenyői új objektum beruházással összefüggő, kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági eljárások:
+A Borsod-Abaúj-Zemplén Vármegyei Büntetés-végrehajtási Intézet szirmabesenyői új objektum beruházással összefüggő, kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági eljárások:[^7]
 
 1. általános építésügyi hatósági engedélyezési eljárások,
 
@@ -12,7 +12,7 @@ A Borsod-Abaúj-Zemplén Megyei Büntetés-végrehajtási Intézet szirmabeseny�
 
 4. útügyi hatósági engedélyezési eljárások,
 
-5.[^6] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+5.[^8] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 6. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
 
@@ -32,4 +32,5 @@ A Borsod-Abaúj-Zemplén Megyei Büntetés-végrehajtási Intézet szirmabeseny�
 
 14. közegészségügyi hatósági eljárások.
 
-[^6]: Az 1. melléklet 5. pontja a 380/2016. (XII. 2.) Korm. rendelet 98. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^7]: Az 1. melléklet címe a 616/2022. (XII. 29.) Korm. rendelet 206. §-a szerint módosított szöveg.
+[^8]: Az 1. melléklet 5. pontja a 380/2016. (XII. 2.) Korm. rendelet 98. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.

@@ -1,3 +1,3 @@
-4. §[^5]
+4. §[^6]
 
-[^5]: A 4. §-t az 523/2022. (XII. 15.) Korm. rendelet 39. § 11. pontja hatályon kívül helyezte.
+[^6]: A 4. §-t az 523/2022. (XII. 15.) Korm. rendelet 39. § 11. pontja hatályon kívül helyezte.
