@@ -16,8 +16,9 @@ c) megfelel a pályázati felhívásban foglalt egyéb feltételeknek.
 
 (4) Az ösztöndíjat a pályázati feltételek és az értékelési szempontok alapján a KÖB javaslatának figyelembevételével a miniszter ítéli oda.
 
-(5) A pályázati felhívást a Központ honlapján és a miniszter által vezetett minisztérium hivatalos lapjában kell közzé tenni.
+(5)[^11] A pályázati felhívást a Központ honlapján kell közzé tenni.
 
 [^8]: A 7. § (3) bekezdés a) pontja a 191/2019. (VII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
 [^9]: A 7. § (3) bekezdés b) pont ba) alpontja a 191/2019. (VII. 30.) Korm. rendelet 40. § (2) bekezdésével megállapított szöveg.
 [^10]: A 7. § (3) bekezdés b) pont bb) alpontját a 191/2019. (VII. 30.) Korm. rendelet 40. § (3) bekezdésével megállapított szöveg.
+[^11]: A 7. § (5) bekezdése az 533/2022. (XII. 19.) Korm. rendelet 5. §-a szerint módosított szöveg.
