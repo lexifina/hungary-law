@@ -1,0 +1,1 @@
+1. § Az étkezési tojást termelő tyúkállományok, valamint tenyészbaromfi fajok állatjóléti támogatásának feltételeiről szóló 38/2016. (VI. 6.) FM rendelet 1. § 11. pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
