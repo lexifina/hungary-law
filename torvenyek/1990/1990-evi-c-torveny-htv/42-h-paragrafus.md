@@ -1,6 +1,6 @@
 42/H. § (1) A különleges gazdasági övezet létrejötte napját megelőző napon a helyi iparűzési adó alanyának a különleges gazdasági övezet fekvése szerinti települési önkormányzat illetékességi területén fennálló iparűzésiadó-kötelezettsége megszűnik, amelyet az iparűzési tevékenység utáni adókötelezettség szempontjából úgy kell tekinteni, mintha az iparűzési adó alanya székhelyét áthelyezte, telephelyét megszüntette volna.
 
-(2) A különleges gazdasági övezet fekvése szerinti megyei önkormányzat illetékességi területén az iparűzésiadó-kötelezettség a különleges gazdasági övezet létrejötte napján keletkezik.
+(2) A különleges gazdasági övezet fekvése szerinti vármegyei önkormányzat illetékességi területén az iparűzésiadó-kötelezettség a különleges gazdasági övezet létrejötte napján keletkezik.
 
 (3) Ha az adóalany előrehozott adót fizetett a különleges gazdasági övezet fekvése szerinti települési önkormányzat számára, akkor a be nem számított előrehozott adót visszaigényelheti a települési önkormányzat adóhatóságától az adózás rendjéről szóló törvény túlfizetésre vonatkozó szabályai szerint, feltéve, hogy a veszélyhelyzettel összefüggésben a nemzetgazdaság stabilitásának érdekében szükséges intézkedésekről szóló 135/2020. (IV. 17.) Korm. rendeletben biztosított visszaigénylési jogával nem élt.
 

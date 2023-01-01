@@ -23,3 +23,5 @@ hb) a határozott időszak harmadik naptári évétől vagy az azt követően ke
 i) ha a h) pont hb) alpont alkalmazásával az adó mértékét növelte, akkor az adó mértékét a határozott időszakra eredetileg megállapított adómértékkel egyező mértékben kell megállapítani azon naptári évtől kezdődően, amelyet megelőző – és a h) pont hb) alpont alkalmazását követő – naptári év első tíz hónapjában az adott adónemben bevallott, kivetett adóból származó bevétel eléri a viszonyítási bevételt,
 
 j) ha a 39/C. § (4) bekezdése alapján adómentességet vagy adókedvezményt állapít meg, akkor azt legalább három egymást követő naptári éven át nem helyezheti hatályon kívül, az adóalany hátrányára nem változtathatja meg.
+
+k) a turisztikai térségek fejlesztésének állami feladatairól szóló 2016. évi CLVI. törvény (a továbbiakban: Turizmus törvény) hatálya alá tartozó szálláshely-szolgáltató terhére az idegenforgalmi adó-kötelezettség nyilvántartására a Turizmus törvény szerinti szálláshelykezelő szoftver (a továbbiakban: szálláshelykezelő szoftver) használatán túl egyéb nyilvántartás-vezetési kötelezettséget nem írhat elő.

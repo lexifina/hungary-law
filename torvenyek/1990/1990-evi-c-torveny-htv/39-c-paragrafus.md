@@ -2,7 +2,7 @@
 
 39/C. § (1) Az önkormányzat rendeletében a (2)–(4) bekezdésben foglaltak alapján jogosult adómentességet, adókedvezményt megállapítani a vállalkozó számára.
 
-(2) Az önkormányzat rendeletében adómentességet, adókedvezményt állapíthat meg annak a vállalkozónak, akinek/amelynek a 39. § (1) bekezdés, illetőleg a 39/A. § vagy 39/B. § alapján számított (vállalkozási szintű) adóalapja nem haladja meg a 2,5 millió Ft-ot. Az önkormányzat az adómentességre, adókedvezményre való jogosultság szempontjából 2,5 millió Ft-nál alacsonyabb adóalapösszeget is meghatározhat. Az adómentesség, adókedvezmény terjedelmének, mértékének valamennyi mentességre jogosult vállalkozó számára azonosnak kell lennie.
+(2) Az önkormányzat rendeletében adómentességet, adókedvezményt állapíthat meg annak a vállalkozónak, akinek/amelynek a 39. § (1) bekezdés, illetőleg a 39/B. § alapján számított (vállalkozási szintű) adóalapja nem haladja meg a 2,5 millió Ft-ot. Az önkormányzat az adómentességre, adókedvezményre való jogosultság szempontjából 2,5 millió Ft-nál alacsonyabb adóalapösszeget is meghatározhat. Az adómentesség, adókedvezmény terjedelmének, mértékének valamennyi mentességre jogosult vállalkozó számára azonosnak kell lennie.
 
 (3) Az önkormányzat rendeletében jogosult a háziorvos, védőnő vállalkozó számára adómentességet, adókedvezményt megállapítani, feltéve, ha annak vállalkozási szintű iparűzési adóalapja az adóévben a 20 millió forintot nem haladja meg. Az adómentességnek, adókedvezménynek valamennyi háziorvos, védőnő vállalkozó számára azonosnak kell lennie.
 

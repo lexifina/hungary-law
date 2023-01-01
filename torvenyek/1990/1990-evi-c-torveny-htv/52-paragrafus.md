@@ -4,7 +4,7 @@
 
 52. § E törvény alkalmazásában:
 
-1. önkormányzat illetékességi területe: a települési önkormányzat illetékességi területe vagy a megyei önkormányzat illetékességi területe;
+1. önkormányzat illetékességi területe: a települési önkormányzat illetékességi területe vagy a vármegyei önkormányzat illetékességi területe;
 
 2. külföldi: az a természetes személy, akinek állandó lakóhelye külföldön van és nem tartózkodik Magyarországon 183 napnál hosszabb időtartamban; továbbá az a jogi személy, gazdálkodó szervezet vagy más személyi egyesülés, amelynek székhelye (központja) külföldön van, ide nem értve a Magyarországon működő telepeit, fiókjait, képviseleteit,
 
@@ -63,6 +63,8 @@ g) a halgazdálkodásról és a hal védelméről szóló törvény szerinti ví
 h) az erdőt,
 
 i) az ingatlan-nyilvántartásban mocsárként nyilvántartott földterületet,
+
+j) a folyóval összefüggő vízterületet alkotó, – kizárólag a hajózási hatóság engedélyével megszüntethető – kereskedelmi áruk ki- és berakodásának céljából szabad kikötőként használt, vízzel borított medencét;
 
 17. termőföld: az ingatlan-nyilvántartásban szántó, szőlő, gyümölcsös, kert, rét, legelő (gyep), nádas, fásított terület, halastó művelési ágban nyilvántartott földrészlet;
 
@@ -222,7 +224,7 @@ keretében végzett kötelezettség;
 
 57. települési önkormányzat illetékességi területe: az önkormányzat közigazgatási határa által behatárolt – bel- és külterületet magában foglaló – térség, amelyre az önkormányzati hatáskör kiterjed, ide nem értve a különleges gazdasági övezet területét;
 
-58. megyei önkormányzat illetékességi területe: a megyei önkormányzat közigazgatási határa által behatárolt – bel- és külterületet magában foglaló – térségben lévő különleges gazdasági övezet területe;
+58. vármegyei önkormányzat illetékességi területe: a vármegyei önkormányzat közigazgatási határa által behatárolt – bel- és külterületet magában foglaló – térségben lévő különleges gazdasági övezet területe;
 
 59.
 
