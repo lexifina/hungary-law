@@ -10,7 +10,7 @@
 
 (4)[^7] A közhasznú szervezetként működő felsőoktatási intézménynek, a Magyar Felsőoktatási Akkreditációs Bizottságnak, a Felsőoktatási Tervezési Testületnek, az Országos Tudományos Diákköri Tanácsnak, a Magyar Rektori Konferenciának, valamint a közhasznú szervezetként működő európai területi együttműködési csoportosulásnak a beszámoló készítési és könyvvezetési kötelezettsége megállapításánál a Tv. előírásait az Ectv. vonatkozó előírásai figyelembevételével kell alkalmaznia.
 
-(5) Az egyéb szervezetek által alapított, fenntartott egészségügyi, szociális és oktatási tevékenységet ellátó, jogi személyiséggel rendelkező szervezetnél a Tv. 6. § (3) bekezdése szerint kell eljárni.
+(5)[^8] Az egyéb szervezetek által alapított, fenntartott egészségügyi, szociális, kulturális és oktatási tevékenységet ellátó, jogi személyiséggel rendelkező szervezetnél a Tv. 6. § (3) bekezdése szerint kell eljárni.
 
 (6) A 2. § (1) bekezdés m) pontja szerinti szervezet beszámoló készítési és könyvvezetési kötelezettségére az azt létrehozó szervezet beszámoló készítési és könyvvezetési kötelezettségére vonatkozó előírásokat kell alkalmazni.
 
@@ -18,3 +18,4 @@
 [^5]: A 3. § (3a) bekezdését a 445/2017. (XII.27.) Korm. rendelet 30. §-a iktatta be.
 [^6]: A 3. § (3b) bekezdését a 445/2017. (XII.27.) Korm. rendelet 30. §-a iktatta be.
 [^7]: A 3. § (4) bekezdése a 616/2020. (XII. 21.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^8]: A 3. § (5) bekezdése a 603/2022. (XII. 28.) Korm. rendelet 15. §-a szerint módosított szöveg.

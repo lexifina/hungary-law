@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-479-20-
 | 2021-01-01 | 2016-479-20-22.7 | 616/2020. (XII. 21.) Korm. rendelet |
 | 2021-12-21 | 2016-479-20-22.8 | 719/2021. (XII. 20.) Korm. rendelet |
 | 2022-01-01 | 2016-479-20-22.9 | 719/2021. (XII. 20.) Korm. rendelet |
+| 2023-01-01 | 2016-479-20-22.10 | 603/2022. (XII. 28.) Korm. rendelet |

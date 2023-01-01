@@ -6,7 +6,7 @@ a) az állam és a tagintézetek által jegyzett tőke címén rendelkezésre bo
 
 b) a jogutódlással szerzett vagyon azon része, amelyet az állam, a tagintézetek és a Takarékbank Zrt. a jogelődök részére vagyoni hozzájárulásként teljesített.
 
-(3)[^41] Az Integrációs Szervezet jegyzett tőkéjéből a már nem tagintézetre jutó jegyzett tőke azon részét, amely a tagsági viszony megszűnésekor nem került kifizetésre, át kell vezetni a tartalékok közé.
+(3)[^44] Az Integrációs Szervezet jegyzett tőkéjéből a már nem tagintézetre jutó jegyzett tőke azon részét, amely a tagsági viszony megszűnésekor nem került kifizetésre, át kell vezetni a tartalékok közé.
 
 (4) Az Integrációs Szervezet jegyzett tőkéje a tulajdonosi hányadok megtartása mellett leszállítható a tartalék javára az erről szóló közgyűlési döntés időpontjával.
 
@@ -26,4 +26,4 @@ c) a jegyzett tőke leszállítása során a (4) bekezdés alapján átvezetett 
 
 (9) Egyéb rövid lejáratú kötelezettségként kell kimutatni az olyan rövid lejáratú kötelezettségeket, amelyeket az 5. melléklet szerinti mérlegben nem kell külön tételként szerepeltetni.
 
-[^41]: A 37. § (3) bekezdése a 445/2017. (XII.27.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^44]: A 37. § (3) bekezdése a 445/2017. (XII.27.) Korm. rendelet 33. §-ával megállapított szöveg.

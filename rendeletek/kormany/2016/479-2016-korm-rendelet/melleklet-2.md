@@ -1,5 +1,3 @@
-## Az egyszerűsített beszámoló mérlegének előírt tagolása az egyéb szervezetnél
-
 | ESZKÖZÖK (AKTÍVÁK) |
 
 | A. | Befektetett eszközök |
@@ -50,7 +48,7 @@
 
 2. melléklet a 479/2016. (XII. 28.) Korm. rendelethez
 
-## Az egyszerűsített beszámoló eredménylevezetésének előírt tagolása az egyéb szervezetnél
+Az egyszerűsített beszámoló eredménylevezetésének előírt tagolása az egyéb szervezetnél
 
 ## Alaptevékenység/ Vállalkozási tevékenység/ Összesen
 

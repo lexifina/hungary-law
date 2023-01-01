@@ -28,7 +28,7 @@ l) a külön jogszabályban meghatározott, jogi személynek minősülő egyéb 
 
 m) az a)–c) pont szerinti szervezetek jogi személyiséggel rendelkező szervezeti egységére
 
-## terjed ki.
+terjed ki.
 
 (2) Az (1) bekezdés l) pontja szerinti külön jogszabályban meghatározott, jogi személynek minősülő egyéb szervezet, különösen:
 

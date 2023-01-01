@@ -18,16 +18,16 @@ a) egyszerűsített beszámoló,
 
 b) egyszerűsített éves beszámoló,
 
-c)[^10] a Tv. szerinti éves beszámoló.
+c)[^11] a Tv. szerinti éves beszámoló.
 
 (5) Az egyéb szervezet egyszerűsített beszámolója az 1. melléklet szerinti egyszerűsített mérlegből és a 2. melléklet szerinti eredménylevezetésből áll.
 
-(6)[^11] Az egyéb szervezet egyszerűsített éves beszámolója a 3. melléklet szerinti mérlegből és a 4. melléklet szerinti eredménykimutatásból, valamint a Tv. szerinti kiegészítő mellékletből áll.
+(6)[^12] Az egyéb szervezet egyszerűsített éves beszámolója a 3. melléklet szerinti mérlegből és a 4. melléklet szerinti eredménykimutatásból, valamint a Tv. szerinti kiegészítő mellékletből áll.
 
-(7)[^12] Annak az egyéb szervezetnek, amely a Tv. szerinti éves beszámolót készít, és vállalkozási tevékenységet is folytat, a Tv.-ben előírt beszámoló készítése során biztosítania kell az alap- és a vállalkozási tevékenységéből származó bevételeinek, ráfordításainak (költségeinek), kiadásainak, valamint a vállalkozási tevékenység adózás előtti eredményének elkülönített bemutatását.
+(7)[^13] Annak az egyéb szervezetnek, amely a Tv. szerinti éves beszámolót készít, és vállalkozási tevékenységet is folytat, a Tv.-ben előírt beszámoló készítése során biztosítania kell az alap- és a vállalkozási tevékenységéből származó bevételeinek, ráfordításainak (költségeinek), kiadásainak, valamint a vállalkozási tevékenység adózás előtti eredményének elkülönített bemutatását.
 
 (8) Az egyéb szervezet az egyszerűsített mérleg, a mérleg, továbbá az eredménylevezetés, az eredménykimutatás tételeit – ha azt más jogszabály előírja – továbbtagolja, valamint saját igényei szerint továbbtagolhatja.
 
-[^10]: A 7. § (4) bekezdés c) pontja a 343/2019. (XII. 23.) Korm. rendelet 25 § 1. pontja szerint módosított szöveg.
-[^11]: A 7. § (6) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 24. § 1. pontja szerint módosított szöveg.
-[^12]: A 7. § (7) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 24. § 2. pontja szerint módosított szöveg.
+[^11]: A 7. § (4) bekezdés c) pontja a 343/2019. (XII. 23.) Korm. rendelet 25 § 1. pontja szerint módosított szöveg.
+[^12]: A 7. § (6) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 24. § 1. pontja szerint módosított szöveg.
+[^13]: A 7. § (7) bekezdése a 343/2019. (XII. 23.) Korm. rendelet 24. § 2. pontja szerint módosított szöveg.
