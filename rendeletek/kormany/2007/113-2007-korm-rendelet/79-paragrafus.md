@@ -8,7 +8,7 @@ a) 16. § (2) bekezdése,
 
 b) 17. és 18. §-a
 
-## a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon lép hatályba.
+a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon lép hatályba.
 
 (3)–(4)[^212]
 

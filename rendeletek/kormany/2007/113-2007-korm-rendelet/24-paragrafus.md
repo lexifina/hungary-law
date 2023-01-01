@@ -1,5 +1,3 @@
-## igazolhatja.
-
 24. § (1)[^90] A családtag családtagi jogállását a családi kapcsolat fennállását igazoló okirattal, így különösen
 
 a) születési anyakönyvi kivonattal,
@@ -12,7 +10,7 @@ d) örökbefogadásról szóló okirattal, vagy
 
 e) egyéb hitelt érdemlő módon
 
-## igazolhatja.
+igazolhatja.
 
 (2)[^91] Ahol e rendelet anyakönyvi kivonatot említ, azon a külföldi hatóság által kiállított, ezzel egyenértékű okiratot is érteni kell.
 

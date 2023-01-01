@@ -1,5 +1,3 @@
-## iránt.
-
 ## Kitoloncolás
 
 53. §[^166] (1) A kitoloncolás feltételeinek megteremtéséről – a (2) bekezdésben foglalt kivétellel – a Rendőrség intézkedik.

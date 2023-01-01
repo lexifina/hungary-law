@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-113-20-
 | 2021-01-01 | 2007-113-20-22.38 | 636/2020. (XII. 22.) Korm. rendelet |
 | 2021-08-01 | 2007-113-20-22.39 | 259/2021. (V. 20.) Korm. rendelet |
 | 2021-12-21 | 2007-113-20-22.40 | 696/2021. (XII. 13.) Korm. rendelet |
+| 2023-01-01 | 2007-113-20-22.42 | 70/2015. (III. 30.) Korm. rendelet |

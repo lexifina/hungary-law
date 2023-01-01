@@ -6,7 +6,7 @@ b)[^111] 33. §-a alapján aktív korúak ellátásában,
 
 c) 43/B. §-a alapján ápolási díjban
 
-## három hónapnál hosszabb ideig részesül.
+három hónapnál hosszabb ideig részesül.
 
 (2)[^112]
 

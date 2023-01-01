@@ -6,4 +6,6 @@ b) tanulói vagy hallgatói jogviszonyt igazoló okirattal, vagy
 
 c) egyéb hitelt érdemlő módon
 
+igazolhatja.
+
 [^89]: A 23. § a) pontja a 113/2016. (V. 30.) Korm. rendelet 8. §-ával megállapított szöveg.

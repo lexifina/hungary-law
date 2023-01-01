@@ -14,6 +14,8 @@ a) a kiutasítás ténye, végrehajtásának időpontja, valamint ha beutazási 
 
 b) a tartózkodási jogot igazoló okmány visszavonása
 
+iránt.
+
 [^161]: Az 52. §-t megelőző alcím a 277/2018. (XII. 21.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
 [^162]: Az 52. § (1) bekezdése a 277/2018. (XII. 21.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^163]: Az 52. § (1a) bekezdését a 277/2018. (XII. 21.) Korm. rendelet 7. § (2) bekezdése iktatta be.

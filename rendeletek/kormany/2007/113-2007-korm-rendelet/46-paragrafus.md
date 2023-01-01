@@ -12,7 +12,7 @@ b) napi háromszori étkezést, valamint
 
 c) személyi felszerelést
 
-## köteles biztosítani.
+köteles biztosítani.
 
 (4)[^147] A Tv. 37. § (4) bekezdésében meghatározott esetben a Rendőrség az érintett EGT-állampolgárt vagy a családtagot a határátlépés helye szerint illetékes regionális igazgatósághoz állítja elő.
 

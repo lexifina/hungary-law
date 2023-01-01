@@ -14,6 +14,8 @@ d)[^12] az országos illetékességgel rendelkező Nyugat-dunántúli Regionáli
 
 e)[^13] a regionális igazgatóság
 
+(a továbbiakban együtt: vízumkiadó hatóság) hatáskörébe tartozik.
+
 [^9]: A 3. § a 327/2007. (XII. 11.) Korm. rendelet 4. § (2) bekezdése, a 276/2011. (XII. 20.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
 [^10]: A 4. § a 96/2010. (III. 31.) Korm. rendelet 1. §-ával megállapított, nyitó szövegrésze a 446/2013. (XI. 28.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^11]: A 4. § c) pontja a 126/2019. (V. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.

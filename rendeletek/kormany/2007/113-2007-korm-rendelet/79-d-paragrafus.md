@@ -22,12 +22,14 @@ a) – a b) pont szerinti eset kivételével – a munkavégzés helye szerint i
 
 b) ha a munkavégzés helye változó, a foglalkoztató székhelye szerint illetékes regionális igazgatóságon
 
-## kell előterjeszteni.
+kell előterjeszteni.
 
 (6) A Tv. 95. § (17) bekezdése szerinti kérelmet
 
 a) – a b) pont szerinti eset kivételével – a jövedelemszerzés helye szerint illetékes regionális igazgatóságon, vagy
 
 b) ha a jövedelemszerzés helye változó, az egyéni vállalkozás bejegyzett irodájának helye szerint illetékes regionális igazgatóságon
+
+kell előterjeszteni.
 
 [^227]: A 79/D. §-t a 636/2020. (XII. 22.) Korm. rendelet 1. §-a iktatta be.

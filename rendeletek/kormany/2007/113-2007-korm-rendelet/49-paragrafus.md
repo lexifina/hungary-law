@@ -8,4 +8,6 @@ a) a kiutasítás ténye, végrehajtásának időpontja, valamint – ha beutaz�
 
 b) a tartózkodási jogot igazoló okmány visszavonása
 
+iránt.
+
 [^157]: A 49. § (3) bekezdését a 290/2010. (XII. 21.) Korm. rendelet 20. §-a iktatta be.

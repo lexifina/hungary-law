@@ -1,5 +1,3 @@
-## érdekében.
-
 ## Felelősségi szabályok
 
 69. § (1)[^182] A Tv. 65. §-ában foglaltak során a fuvarozót terhelő közrendvédelmi bírságot, továbbá a visszaszállítási, illetve a költségviselési kötelezettség teljesítését a Rendőrség állapítja meg, illetve rendeli el.

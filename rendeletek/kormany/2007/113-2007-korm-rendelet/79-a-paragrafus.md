@@ -12,7 +12,7 @@ a) a Módr2. hatálybalépésekor[^218] még el nem rendelt és
 
 b) a Módr2. hatálybalépésekor[^219] folyamatban lévő
 
-## végrehajtási eljárásokra is alkalmazni kell.
+végrehajtási eljárásokra is alkalmazni kell.
 
 (5)[^220] Az e rendelet alapján a Módr2. hatálybalépése[^221] előtt kiadott jogerőssé vált hatósági döntéseket e rendelet alkalmazásában véglegessé vált döntésnek kell tekinteni.
 

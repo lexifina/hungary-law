@@ -26,7 +26,7 @@ j) telefonhasználati lehetőség,
 
 k) az őrizetben lévő személyek és a személyzet elhelyezésére szolgáló helyiségekben, az orvosi szobában, a látogatók fogadására szolgáló helyiségekben, az élelmezést ellátó helyiségekben, valamint a közösségi célú helyiségekben ablak és természetes szellőzés
 
-## biztosítható.
+biztosítható.
 
 (2) Őrzött szállás rendőrségi fogda vagy büntetés-végrehajtási intézet területén nem létesíthető.
 

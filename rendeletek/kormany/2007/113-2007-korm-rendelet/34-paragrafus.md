@@ -18,7 +18,7 @@ a) az öregségi vagy korengedményes nyugdíj folyósítását megállapító h
 
 b) a balesettel vagy egészségkárosodással összefüggő és gyógykezelést igénylő állapotról az orvosszakértői szerv által kiállított szakvéleménnyel, illetve az orvosszakértői szerv szakvéleményére alapozott – a munkaképesség-változás mértékét megállapító – egyéb okirattal
 
-## igazolható.
+igazolható.
 
 (3) A Tv. 18. § (5) bekezdése alkalmazásában az állandó tartózkodás joga az EGT-állampolgár halálának körülményeit megállapító munkabaleseti jegyzőkönyvvel igazolható.
 
