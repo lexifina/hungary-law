@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-327-20-
 | 2020-02-18 | 2019-327-20-22.1 | 327/2019. (XII. 20.) Korm. rendelet |
 | 2020-02-19 | 2019-327-20-22.2 | 2010: CXXX. törvény |
 | 2022-01-01 | 2019-327-20-22.3 | 825/2021. (XII. 28.) Korm. rendelet |
+| 2023-01-01 | 2019-327-20-22.4 | 616/2022. (XII. 29.) Korm. rendelet |
