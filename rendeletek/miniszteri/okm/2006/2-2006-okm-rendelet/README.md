@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-2-20-1W
 | --- | --- | --- |
 | 2006-07-27 | 2006-2-20-1W.1 | 2/2006. (VII. 19.) OKM rendelet |
 | 2013-01-01 | 2006-2-20-1W.2 | 79/2012. (XII. 28.) BM rendelet |
+| 2023-01-01 | 2006-2-20-1W.3 | 1/2022. (XII. 27.) ÉKM rendelet |
