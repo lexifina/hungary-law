@@ -1,0 +1,1 @@
+9. § A bíróság a szerkezetátalakítási szakértő részvételének a Szát. 27. § (6) bekezdése szerinti jóváhagyása esetén a jóváhagyó végzésben megjelölt szerkezetátalakítási szakértő kijelölésének tényét az informatikai alkalmazásban haladéktalanul rögzíti, a művelet befejezésekor az informatikai alkalmazás által generált okiratot elektronikusan elmenti, és az ügyiratokhoz csatolja.

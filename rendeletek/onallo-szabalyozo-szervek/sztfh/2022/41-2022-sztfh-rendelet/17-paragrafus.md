@@ -1,0 +1,1 @@
+17. § A szerkezetátalakítási szakértők továbbképzésének szabályairól szóló 10/2022. (IV. 29.) NVTNM rendelet szerinti, a szerkezetátalakítási szakértők listájára történő felvételhez szükséges továbbképzés teljesítése az 1. § (2) bekezdése szerinti alapképzés teljesítésének minősül. A továbbképzési kötelezettség ezen személyek számára 2023. szeptember 1-jén kezdődik.

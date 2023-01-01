@@ -1,0 +1,1 @@
+A szerkezetátalakításról és egyes törvények jogharmonizációs célú módosításáról szóló 2021. évi LXIV. törvény 66. § (3) bekezdés a) és b) pontjában kapott felhatalmazás alapján, a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § n) és x) pontjában foglalt feladatkörömben eljárva a következőket rendelem el:

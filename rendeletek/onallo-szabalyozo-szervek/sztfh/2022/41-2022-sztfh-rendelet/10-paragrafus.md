@@ -1,0 +1,3 @@
+10. § (1) Ha az informatikai alkalmazás felhasználásával kiválasztott szerkezetátalakítási szakértővel vagy a nevében eljáró szerkezetátalakítási szakértő természetes személlyel szemben kizáró vagy összeférhetetlenségi ok áll fenn, és ezért ez a szerkezetátalakítási szakértő nem rendelhető ki, vagy a kirendelését a bíróság megszünteti, akkor az informatikai alkalmazás igénybevételével másik szerkezetátalakítási szakértőt kell kiválasztani, és annak kirendeléséről végzést hozni.
+
+(2) A Szát. 60. § (1) bekezdése szerinti esetben a bíróság a 8. §-ban foglaltak alkalmazásával választja ki a másik szerkezetátalakítási szakértőt, és hoz végzést annak kirendeléséről.
