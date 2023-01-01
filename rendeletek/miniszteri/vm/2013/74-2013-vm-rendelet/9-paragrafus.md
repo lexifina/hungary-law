@@ -1,4 +1,4 @@
-9. § (1) Ha az egyes fertőző állatbetegségek elleni védekezésre vonatkozó jogszabályok megengedik, az eljáró hatóság elkülönített vagy zárt vágást is előírhat járványügyi intézkedésként. A döntés meghozatala előtt, amennyiben a döntést a járási hivatal hozza, értesítenie kell a káresemény helye szerint illetékes megyei kormányhivatalt az élelmiszer hasznosíthatóságának lehetőségéről, az állatfaj, kor, tömeg, darabszám, egyed, illetve állományazonosító megjelölésével.
+9. § (1)[^48] Ha az egyes fertőző állatbetegségek elleni védekezésre vonatkozó jogszabályok megengedik, az eljáró hatóság elkülönített vagy zárt vágást is előírhat járványügyi intézkedésként. A döntés meghozatala előtt, amennyiben a döntést a járási hivatal hozza, értesítenie kell a káresemény helye szerint illetékes vármegyei kormányhivatalt az élelmiszer hasznosíthatóságának lehetőségéről, az állatfaj, kor, tömeg, darabszám, egyed, illetve állományazonosító megjelölésével.
 
 (2) A káresemény helye szerint illetékes eljáró hatóság a NÉBIH által vezetett nyilvántartásban szereplő engedélyezett létesítmények közül – műszaki-technológiai, járványvédelmi és élelmiszerhigiéniai feltételek, valamint a 7. § (3) bekezdésében foglaltak figyelembevételével – választja ki, és határozatban kötelezi az aktív közreműködőt az elkülönített vagy zárt vágás végrehajtására.
 
@@ -14,7 +14,7 @@ c) az állatok, – vágóhídon történt betegség-megállapítás esetén –
 
 d) a szállítás, vágás, darabolás, hűtés, feldolgozás, állati eredetű melléktermék ártalmatlanítás, fertőtlenítés becsült költségét,
 
-e)[^42] az élelmiszerek értékesítéséből származó bevételnek lebonyolító szerv részére való befizetési kötelezettségét és ennek határidejét, ha a zárt vagy elkülönített vágásból származó élelmiszer hasznosítható,
+e)[^49] az élelmiszerek értékesítéséből származó bevételnek lebonyolító szerv részére való befizetési kötelezettségét és ennek határidejét, ha a zárt vagy elkülönített vágásból származó élelmiszer hasznosítható,
 
 f) az e) pont szerinti befizetési kötelezettség elmulasztásának jogkövetkezményeit.
 
@@ -32,13 +32,14 @@ d) az elkülönített, illetve zárt vágás végrehajtása során felmerült �
 
 (7) A (6) bekezdés szerinti elszámolást a vágóhidat, valamint feldolgozóüzemet felügyelő hatósági állatorvos ellenjegyzi.
 
-(8)[^43] A (6) bekezdés szerinti elszámolás alapján, a végrehajtást végző aktív közreműködő az elkülönített vagy zárt vágás végrehajtásáról számlát állít ki a megyei kormányhivatal nevére. Az aktív közreműködő a számlát és a (6) bekezdés szerinti elszámolást a számla kiállítását követő nyolc napon belül megküldi a megyei kormányhivatalnak. A megyei kormányhivatal intézkedik a számla kifizetéséről az aktív közreműködő felé, valamint a számlát és az aktív közreműködést elrendelő határozatot a végrehajtást követően tizenöt napon belül megküldi a lebonyolító szervnek, igazolva, hogy a számla kibocsátására az általa elrendelt járványügyi intézkedések végrehajtása alatt került sor. A lebonyolító szerv a számla összegét az előirányzat terhére téríti meg a megyei kormányhivatal részére.
+(8)[^50] A (6) bekezdés szerinti elszámolás alapján, a végrehajtást végző aktív közreműködő az elkülönített vagy zárt vágás végrehajtásáról számlát állít ki a vármegyei kormányhivatal nevére. Az aktív közreműködő a számlát és a (6) bekezdés szerinti elszámolást a számla kiállítását követő nyolc napon belül megküldi a vármegyei kormányhivatalnak. A vármegyei kormányhivatal intézkedik a számla kifizetéséről az aktív közreműködő felé, valamint a számlát és az aktív közreműködést elrendelő határozatot a végrehajtást követően tizenöt napon belül megküldi a lebonyolító szervnek, igazolva, hogy a számla kibocsátására az általa elrendelt járványügyi intézkedések végrehajtása alatt került sor. A lebonyolító szerv a számla összegét az előirányzat terhére téríti meg a vármegyei kormányhivatal részére.
 
-(8a)[^44] Ha az elkülönített vagy zárt vágás végrehajtását elrendelő határozatban hasznosíthatóként megjelölt összes élelmiszer, vagy azok egy része időközben járványügyi okból értékesíthetetlenné vált, akkor az eljáró hatóság az eredeti határozatot módosítja, és azt a NÉBIH-hel közli.
+(8a)[^51] Ha az elkülönített vagy zárt vágás végrehajtását elrendelő határozatban hasznosíthatóként megjelölt összes élelmiszer, vagy azok egy része időközben járványügyi okból értékesíthetetlenné vált, akkor az eljáró hatóság az eredeti határozatot módosítja, és azt a NÉBIH-hel közli.
 
-(9)[^45]
+(9)[^52]
 
-[^42]: A 9. § (4) bekezdés e) pontja a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés f) pontja szerint módosított szöveg.
-[^43]: A 9. § (8) bekezdése a 7/2021. (III. 10.) AM rendelet 7. §-ával megállapított, ugyanezen módosító rendelet 11. § (2) bekezdés b)–c) pontja szerint módosított szöveg.
-[^44]: A 9. § (8a) bekezdését a 7/2021. (III. 10.) AM rendelet 7. §-a iktatta be.
-[^45]: A 9. § (9) bekezdését a 7/2021. (III. 10.) AM rendelet 12. § b) pontja hatályon kívül helyezte.
+[^48]: A 9. § (1) bekezdése a 135/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^49]: A 9. § (4) bekezdés e) pontja a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^50]: A 9. § (8) bekezdése a 7/2021. (III. 10.) AM rendelet 7. §-ával megállapított, ugyanezen módosító rendelet 11. § (2) bekezdés b)–c) pontja, a 135/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^51]: A 9. § (8a) bekezdését a 7/2021. (III. 10.) AM rendelet 7. §-a iktatta be.
+[^52]: A 9. § (9) bekezdését a 7/2021. (III. 10.) AM rendelet 12. § b) pontja hatályon kívül helyezte.

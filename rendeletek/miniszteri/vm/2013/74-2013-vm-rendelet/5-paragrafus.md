@@ -2,7 +2,7 @@
 
 5. § (1) Az Éltv. 55. § (1) bekezdés a) és b) pontja szerinti kártalanítási eljárást a (2)–(11) bekezdésekben foglaltak szerint kell lefolytatni.
 
-(2)[^14] A kártalanítás összegéről a járási hivatal
+(2)[^17] A kártalanítás összegéről a járási hivatal
 
 a) az általa lefolytatott becslési eljárás,
 
@@ -10,13 +10,13 @@ b) az eljáró hatósági állatorvos eljárási jelentése, illetve a 3. § (5)
 
 c) a 7. § (4) bekezdése szerinti számlák adatai
 
-d)[^15] a kártalanításra jogosult által benyújtott, az 1. mellékletben található táblázatban foglalt, százalékpontokat tartalmazó növelő tényezők igazolására szolgáló dokumentumok
+d)[^18] a kártalanításra jogosult által benyújtott, az 1. mellékletben található táblázatban foglalt, százalékpontokat tartalmazó növelő tényezők igazolására szolgáló dokumentumok
 
-## alapján dönt.
+alapján dönt.
 
-(3)[^16] A becslési eljárást a járványügyi intézkedések elrendeléséről szóló határozat végrehajtásával párhuzamosan meg kell kezdeni, de legkésőbb a végrehajtás befejezését követő tizenöt napon belül be kell fejezni. A becslési eljárást a kártalanításból történő esetleges kizárástól függetlenül le kell folytatni.
+(3)[^19] A becslési eljárást a járványügyi intézkedések elrendeléséről szóló határozat végrehajtásával párhuzamosan meg kell kezdeni, de legkésőbb a végrehajtás befejezését követő tizenöt napon belül be kell fejezni. A becslési eljárást a kártalanításból történő esetleges kizárástól függetlenül le kell folytatni.
 
-(4)[^17] A járási hivatal a kártalanítás alapjául szolgáló összeg megállapítása céljából lefolytatott becslési eljárásról becslési jegyzőkönyvet készít.
+(4)[^20] A járási hivatal a kártalanítás alapjául szolgáló összeg megállapítása céljából lefolytatott becslési eljárásról becslési jegyzőkönyvet készít.
 
 (5) A becslési jegyzőkönyv tartalmazza
 
@@ -26,7 +26,7 @@ b) az érintett állattartó (cég) nevét, lakhelyét, illetve székhelyét, FE
 
 c) az érintett állattartó telep (udvar) címét, illetve helyrajzi számát, jogszabályban meghatározott tenyészetkódját és tartási hely azonosítóját,
 
-d)[^18] a végrehajtott járványügyi intézkedéseket, és azok időpontját,
+d)[^21] a végrehajtott járványügyi intézkedéseket, és azok időpontját,
 
 e) az eljáró hatósági állatorvos nevét,
 
@@ -42,7 +42,7 @@ fd) jogszabályban meghatározott egyedi jelölését,
 
 fe) egészségi állapotának leírását,
 
-ff)[^19] kilogrammonkénti vagy darabonkénti forgalmi értékét nettó összeg és általános forgalmi adó bontásban,
+ff)[^22] kilogrammonkénti vagy darabonkénti forgalmi értékét nettó összeg és általános forgalmi adó bontásban,
 
 g) az ártalmatlanításra, illetve megsemmisítésre kerülő fertőzésközvetítő anyagok, eszközök, tárgyak, élelmiszerek és takarmányok
 
@@ -52,13 +52,13 @@ gb) megnevezését,
 
 gc) tömegét vagy darabszámát,
 
-gd)[^20] kilogrammonkénti vagy darabonkénti forgalmi értékét nettó összeg és általános forgalmi adó bontásban.
+gd)[^23] kilogrammonkénti vagy darabonkénti forgalmi értékét nettó összeg és általános forgalmi adó bontásban.
 
-h)[^21] az állami kártalanításra jogosult nyilatkozatát az általános forgalmi adó adóalanyiságáról, valamint az általános forgalmi adó fizetési kötelezettségről vagy az alóli mentességről, és
+h)[^24] az állami kártalanításra jogosult nyilatkozatát az általános forgalmi adó adóalanyiságáról, valamint az általános forgalmi adó fizetési kötelezettségről vagy az alóli mentességről, és
 
-i)[^22] a becslési eljárást lefolytató hatóság, valamint az állami kártalanításra jogosult (vagy annak képviselője) aláírását, illetve bélyegzőjének lenyomatát vagy cégszerű aláírását.
+i)[^25] a becslési eljárást lefolytató hatóság, valamint az állami kártalanításra jogosult (vagy annak képviselője) aláírását, illetve bélyegzőjének lenyomatát vagy cégszerű aláírását.
 
-(6)[^23] Az állat, anyag, eszköz, tárgy, élelmiszer vagy takarmány káreseménykori nettó forgalmi értéke megállapításának alapja:
+(6)[^26] Az állat, anyag, eszköz, tárgy, élelmiszer vagy takarmány káreseménykori nettó forgalmi értéke megállapításának alapja:
 
 a) az állatok esetében
 
@@ -112,30 +112,30 @@ k) fertőzésközvetítő anyagok, eszközök, tárgyak esetén szakértő álta
 
 (7) A fertőzésközvetítő anyagokat, tárgyakat és eszközöket, amennyiben azok megfelelő eljárással fertőtleníthetők, a fertőtlenítés elvégzése után a tulajdonos rendelkezésére kell bocsátani, aki azokat felhasználhatja vagy értékesítheti. Ebben az esetben kártalanítás nem jár.
 
-(8)[^24] A tulajdonos kérelmére – nagy létszámú állatállomány esetén a termelés mielőbbi beindítása érdekében – részkártalanítási eljárást lehet lefolytatni. A részkártalanítás különösen akkor indokolt, ha szakértő igénybevétele miatt a becslési eljárás elhúzódik.
+(8)[^27] A tulajdonos kérelmére – nagy létszámú állatállomány esetén a termelés mielőbbi beindítása érdekében – részkártalanítási eljárást lehet lefolytatni. A részkártalanítás különösen akkor indokolt, ha szakértő igénybevétele miatt a becslési eljárás elhúzódik.
 
 (9) Az Éltv. 51. § (3) bekezdés p) pontja szerinti intézkedés elrendelése esetén kártalanítási összeget úgy kell megállapítani, mintha az adott földterületet, járművet, épületet, berendezést vagy eszközt bérbe adták volna a káresemény időszakában az adott területen kialakult bérleti díjak figyelembevételével.
 
-(10)[^25] A felhasznált anyagok esetében a kártalanítási összeget az adott anyag forgalmi értéke alapján kell megállapítani. A becslési eljárás során a járási hivatal szakértőt is igénybe vehet.
+(10)[^28] A felhasznált anyagok esetében a kártalanítási összeget az adott anyag forgalmi értéke alapján kell megállapítani. A becslési eljárás során a járási hivatal szakértőt is igénybe vehet.
 
 (11) Ha a földterület, jármű, épület, berendezés, eszköz igénybevételét követően felmerül, hogy az már nem használható a rendeltetésének megfelelően, akkor a kártalanítási összeget független szakértő bevonásával kell megállapítani.
 
-(12)[^26] A rendelet hatálya alá tartozó eljárásokban elsősorban olyan szakértőt lehet igénybe venni, aki vagy amely
+(12)[^29] A rendelet hatálya alá tartozó eljárásokban elsősorban olyan szakértőt lehet igénybe venni, aki vagy amely
 
 a) az érintett állatfaj – illetve azon belül állatfajta – vonatkozásában elismert tenyésztő szervezet vagy annak hiányában tenyésztő szövetség vagy egyesület, mezőgazdasági és élelmiszeripari termékek tekintetében az adott ágazatban elismert szakmaközi szervezet, vagy
 
 b) meghatározott anyagok, eszközök és tárgyak esetében az adott anyag, eszköz, tárgy értékesítésével, illetve értékbecslésével foglalkozó vagy az ilyen tevékenységgel kapcsolatosan megfelelő szakértelemmel rendelkező természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet.
 
-[^14]: Az 5. § (2) bekezdés nyitó szövegrésze a 29/2016. (IV. 11.) FM rendelet 9. § e) pontja szerint módosított szöveg.
-[^15]: Az 5. § (2) bekezdés d) pontját a 7/2021. (III. 10.) AM rendelet 3. § (1) bekezdése iktatta be.
-[^16]: Az 5. § (3) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^17]: Az 5. § (4) bekezdése a 29/2016. (IV. 11.) FM rendelet 9. § e) pontja szerint módosított szöveg.
-[^18]: Az 5. § (5) bekezdés d) pontja a 7/2021. (III. 10.) AM rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^19]: Az 5. § (5) bekezdés f) pont ff) alpontja a 7/2021. (III. 10.) AM rendelet 11. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^20]: Az 5. § (5) bekezdés g) pont gd) alpontja a 7/2021. (III. 10.) AM rendelet 11. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^21]: Az 5. § (5) bekezdés h) pontját a 7/2021. (III. 10.) AM rendelet 3. § (2) bekezdése iktatta be.
-[^22]: Az 5. § (5) bekezdés i) pontját a 7/2021. (III. 10.) AM rendelet 3. § (2) bekezdése iktatta be.
-[^23]: Az 5. § (6) bekezdése a 7/2021. (III. 10.) AM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^24]: Az 5. § (8) bekezdése a 7/2021. (III. 10.) AM rendelet 12. § a) pontja szerint módosított szöveg.
-[^25]: Az 5. § (10) bekezdése a 29/2016. (IV. 11.) FM rendelet 9. § e) pontja szerint módosított szöveg.
-[^26]: Az 5. § (12) bekezdését a 29/2016. (IV. 11.) FM rendelet 5. §-a iktatta be.
+[^17]: Az 5. § (2) bekezdés nyitó szövegrésze a 29/2016. (IV. 11.) FM rendelet 9. § e) pontja szerint módosított szöveg.
+[^18]: Az 5. § (2) bekezdés d) pontját a 7/2021. (III. 10.) AM rendelet 3. § (1) bekezdése iktatta be.
+[^19]: Az 5. § (3) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^20]: Az 5. § (4) bekezdése a 29/2016. (IV. 11.) FM rendelet 9. § e) pontja szerint módosított szöveg.
+[^21]: Az 5. § (5) bekezdés d) pontja a 7/2021. (III. 10.) AM rendelet 11. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^22]: Az 5. § (5) bekezdés f) pont ff) alpontja a 7/2021. (III. 10.) AM rendelet 11. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^23]: Az 5. § (5) bekezdés g) pont gd) alpontja a 7/2021. (III. 10.) AM rendelet 11. § (1) bekezdés e) pontja szerint módosított szöveg.
+[^24]: Az 5. § (5) bekezdés h) pontját a 7/2021. (III. 10.) AM rendelet 3. § (2) bekezdése iktatta be.
+[^25]: Az 5. § (5) bekezdés i) pontját a 7/2021. (III. 10.) AM rendelet 3. § (2) bekezdése iktatta be.
+[^26]: Az 5. § (6) bekezdése a 7/2021. (III. 10.) AM rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^27]: Az 5. § (8) bekezdése a 7/2021. (III. 10.) AM rendelet 12. § a) pontja szerint módosított szöveg.
+[^28]: Az 5. § (10) bekezdése a 29/2016. (IV. 11.) FM rendelet 9. § e) pontja szerint módosított szöveg.
+[^29]: Az 5. § (12) bekezdését a 29/2016. (IV. 11.) FM rendelet 5. §-a iktatta be.
