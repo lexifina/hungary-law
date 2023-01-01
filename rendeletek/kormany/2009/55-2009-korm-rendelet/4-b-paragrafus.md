@@ -24,7 +24,7 @@ g) a piac nyitva tartási idejét.
 
 (5)[^44] A jegyző a bejelentés másolatát a nyilvántartásba vételt követően a nyilvántartási számmal együtt megküldi:
 
-a)[^45] a népegészségügyi, valamint élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal járási hivatalának, illetve a növény- és talajvédelmi, valamint fogyasztóvédelmi feladatkörében eljáró fővárosi és megyei kormányhivatalnak,
+a)[^45] a népegészségügyi, valamint élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal járási hivatalának, illetve a növény- és talajvédelmi, valamint fogyasztóvédelmi feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak,
 
 b)[^46] a kereskedelmi feladatkörében eljáró Budapest Főváros Kormányhivatalának,
 
@@ -40,6 +40,6 @@ d) a Nemzeti Adó- és Vámhivatalnak.
 [^42]: A 4/B. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 14. § (3) bekezdése iktatta be, szövege a 611/2020. (XII. 18.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
 [^43]: A 4/B. § (4) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont gb) alpontja, a 611/2020. (XII. 18.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^44]: A 4/B. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 131. § (5) bekezdésével megállapított szöveg.
-[^45]: A 4/B. § (5) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 68. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^45]: A 4/B. § (5) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 68. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 98. § a) pontja szerint módosított szöveg.
 [^46]: A 4/B. § (5) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 130. § (1) bekezdésével megállapított szöveg.
 [^47]: A 4/B. § (6) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés b) pontja szerint módosított szöveg.

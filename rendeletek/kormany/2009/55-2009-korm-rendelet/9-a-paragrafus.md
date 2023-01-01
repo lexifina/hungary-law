@@ -1,0 +1,3 @@
+9/A. §[^65] A fővárosi és vármegyei kormányhivatal e rendelet alapján ellátott feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a kereskedelemért felelős miniszter gyakorolja.
+
+[^65]: A 9/A. §-t a 70/2015. (III. 30.) Korm. rendelet 131. § (7) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 130. § (2) bekezdés c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 68. § (4) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 98. § b) pontja szerint módosított szöveg.

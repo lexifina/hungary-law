@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-55-20-2
 | 2020-03-01 | 2009-55-20-22.19 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2021-01-01 | 2009-55-20-22.20 | 203/2013. (VI. 14.) Korm. rendelet |
 | 2021-03-11 | 2009-55-20-22.21 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2023-01-01 | 2009-55-20-22.22 | 360/2019. (XII. 30.) Korm. rendelet |
