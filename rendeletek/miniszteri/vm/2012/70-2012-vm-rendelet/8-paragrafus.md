@@ -1,6 +1,6 @@
 ## 7. Eljáró hatóságok
 
-8. § (1)[^15] A Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), illetve a borászati hatáskörben eljáró megyei kormányhivatal a borászati melléktermékek lepárlására vonatkozó kötelezettségek teljesítésének ellenőrzéséhez kapcsolódó hatósági feladatok tekintetében
+8. § (1)[^15] A Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH), illetve a borászati hatáskörben eljáró vármegyei kormányhivatal a borászati melléktermékek lepárlására vonatkozó kötelezettségek teljesítésének ellenőrzéséhez kapcsolódó hatósági feladatok tekintetében
 
 a) évente legalább egy alkalommal ellenőrzi az Európai Unión belüli, vagy a Nemzetközi Szőlészeti és Borászati Szervezet (a továbbiakban: OIV) előírásai szerinti analitikai vizsgálati szabályok betartását a 14. §-nak megfelelő lepárlóüzemeknél,
 
@@ -20,7 +20,7 @@ a) a Kincstár részére minden év június 30. napjáig megküldi a tárgyév v
 
 b) a Kincstár részére minden tárgyhót követő hónap 10. napjáig megküldi a tárgyhó vonatkozásában az adóraktárak adatszolgáltatása alapján a támogatás alapjául szolgáló ipari célú nyers alkoholra vonatkozóan a jövedéki adóról szóló 2016. évi LXVIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 45/2016. (XI. 29.) NGM rendelet (a továbbiakban: jövedéki vhr.) 1. melléklete szerinti nyilvántartásából a jövedéki adóról szóló 2016. évi LXVIII. törvény (a továbbiakban: Jöt.) 24. §-a alapján szolgáltatott adatokat napi bontásban.
 
-[^15]: A 8. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 184. § b) pontja, a 46/2020. (IX. 23.) AM rendelet 25. §-a, a 26/2021. (VII. 29.) AM rendelet 68. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^15]: A 8. § (1) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 184. § b) pontja, a 46/2020. (IX. 23.) AM rendelet 25. §-a, a 26/2021. (VII. 29.) AM rendelet 68. § (5) bekezdés d) pontja, a 132/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
 [^16]: A 8. § (1) bekezdés b) pontját a 26/2021. (VII. 29.) AM rendelet 68. § (5) bekezdés e) pontja hatályon kívül helyezte.
 [^17]: A 8. § (1) bekezdés e) pontja a 88/2016. (XII. 29.) FM rendelet 52. § b) pontja szerint módosított szöveg.
 [^18]: A 8. § (1) bekezdés f) pontja a 88/2016. (XII. 29.) FM rendelet 52. § b) pontja szerint módosított szöveg.

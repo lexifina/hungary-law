@@ -1,5 +1,3 @@
-## 6. §
-
 ## 6. A borászati melléktermékek elszámolása
 
 7. § (1)[^12]
