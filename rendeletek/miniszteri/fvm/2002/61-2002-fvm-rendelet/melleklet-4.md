@@ -1,6 +1,6 @@
 4. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^77]
 
-## A juh és kecske szaporításának részletes állat-egészségügyi feltételei
+A juh és kecske szaporításának részletes állat-egészségügyi feltételei
 
 I. A hímivarú állatokra vonatkozó feltételek
 

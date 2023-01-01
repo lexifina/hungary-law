@@ -90,7 +90,7 @@
 
 6. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez
 
-## Az egyes házi- és díszállatok, valamint a vadászható állatok szaporításának részletes állategészségügyi feltételei
+Az egyes házi- és díszállatok, valamint a vadászható állatok szaporításának részletes állategészségügyi feltételei
 
 E melléklet előírásait kell alkalmazni értékesítés vagy bemutatás céljára szaporított, köztenyésztésre, vagy szaporítóanyag forgalmazása céljára használt 1–5. számú mellékletben nem szereplő házi- és díszállatok, valamint vadászható állatok egyedei esetében (a halak és a méhek szaporítására külön jogszabályok rendelkezései vonatkoznak).
 

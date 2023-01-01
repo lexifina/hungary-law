@@ -130,7 +130,7 @@
 
 3. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^71]
 
-## A lófélék szaporításának részletes állat-egészségügyi feltételei
+A lófélék szaporításának részletes állat-egészségügyi feltételei
 
 I. Általános feltételek
 

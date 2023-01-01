@@ -1,6 +1,6 @@
 1. számú melléklet a 61/2002. (VIII. 1.) FVM rendelethez[^64]
 
-## A szarvasmarha és a bivaly szaporításának részletes állategészségügyi feltételei
+A szarvasmarha és a bivaly szaporításának részletes állategészségügyi feltételei
 
 1.[^65] A mesterséges termékenyítő állomásra csak olyan bika szállítható,
 
