@@ -132,7 +132,7 @@
 
 ## –
 
-## 9. §[^12] Az illetékes megyei (fővárosi) rendőr-főkapitányság:
+## 9. §[^12] Az illetékes vármegyei (fővárosi) rendőr-főkapitányság:
 
 ## a)[^13]
 
@@ -546,7 +546,7 @@
 
 ## (2)[^57]
 
-## (3)[^58] A szolgálati igazolványt az Fbő. törvény 7. § (1) bekezdés b) pontja szerinti eredményes szakmai vizsga alapján a vizsgáztatásban részt vevő – más szerv által végzett vizsgáztatás esetén az őrséget fenntartó szerv székhelye szerint illetékes – megyei (fővárosi) rendőr-főkapitányságtól az őrséget fenntartó szerv igényli a rendőrség által rendszeresített igénylőlapon. Az igénylőlapot a rendőrségre kell eljuttatni.
+## (3)[^58] A szolgálati igazolványt az Fbő. törvény 7. § (1) bekezdés b) pontja szerinti eredményes szakmai vizsga alapján a vizsgáztatásban részt vevő – más szerv által végzett vizsgáztatás esetén az őrséget fenntartó szerv székhelye szerint illetékes – vármegyei (fővárosi) rendőr-főkapitányságtól az őrséget fenntartó szerv igényli a rendőrség által rendszeresített igénylőlapon. Az igénylőlapot a rendőrségre kell eljuttatni.
 
 ## (4) Az igénylőlapon szereplő adatok hitelességének ellenőrzése a felügyeletet ellátó szerv felelősségi körébe tartozik.
 
@@ -580,7 +580,7 @@
 
 ## 35. § (1)[^60] A kinevezéskor átadott, továbbá a bármely okból használhatatlanná vált szolgálati igazolvány, illetőleg szolgálati jelvény pótlásának költségeit az őrt alkalmazó munkáltató megtéríti.
 
-## (2)[^61] A szolgálati igazolvány és a szolgálati jelvény előállítási költségeinek az (1) bekezdésben meghatározott megtérítési kötelezettségét az őrséget fenntartó szerv a szolgálati igazolvány igénylés benyújtását megelőzően a Rendőrség kincstári előirányzat-felhasználási keret számlájára – amelynek száma: 10023002–01451715 – köteles teljesíteni. A befizetést igazoló okmányt (átutalási megbízás) a szolgálati igazolvány igénylő laphoz csatolva kell az illetékes megyei rendőr-főkapitányságnak felterjeszteni.
+## (2)[^61] A szolgálati igazolvány és a szolgálati jelvény előállítási költségeinek az (1) bekezdésben meghatározott megtérítési kötelezettségét az őrséget fenntartó szerv a szolgálati igazolvány igénylés benyújtását megelőzően a Rendőrség kincstári előirányzat-felhasználási keret számlájára – amelynek száma: 10023002–01451715 – köteles teljesíteni. A befizetést igazoló okmányt (átutalási megbízás) a szolgálati igazolvány igénylő laphoz csatolva kell az illetékes vármegyei rendőr-főkapitányságnak felterjeszteni.
 
 ## (3)–(4)[^62]
 
@@ -762,7 +762,7 @@
 
 ## a) az országos rendőrfőkapitány és helyettesei országosan vagy valamely régióban;
 
-## b) az őrség felügyeletét ellátó rendőr-főkapitányság vezetője a megyében működő őrségek részére;
+## b)[^76] az őrség felügyeletét ellátó rendőr-főkapitányság vezetője a vármegyében működő őrségek részére;
 
 ## c) rendkívüli esetben (biztosítási feladat, elemi csapás stb.), valamint az őrzésbiztonság ellenőrzése céljából a munkáltató vezető a felügyeletet ellátó rendőrfőkapitány kezdeményezésére, illetve tájékoztatása mellett.
 
@@ -824,13 +824,13 @@
 
 ## b) a munkáltató;
 
-## c)[^76] az őrség irányítására jogosult személy.
+## c)[^77] az őrség irányítására jogosult személy.
 
 ## (2) Az őrséget ellenőrizni köteles:
 
 ## a) az őrségparancsnok havonta, váltásonként és napszakonként egy-egy alkalommal;
 
-## b)[^77] az őrparancsnok és a felvezető (helyettes), illetve az Fbő. törvény 1. § (7) bekezdésében meghatározott feladat ellátása esetén az ellenőrzéssel megbízott és őrutasításban meghatározott személy minden szolgálatos napon, négyóránként legalább egy-egy alkalommal.
+## b)[^78] az őrparancsnok és a felvezető (helyettes), illetve az Fbő. törvény 1. § (7) bekezdésében meghatározott feladat ellátása esetén az ellenőrzéssel megbízott és őrutasításban meghatározott személy minden szolgálatos napon, négyóránként legalább egy-egy alkalommal.
 
 ## (3) Az ellenőrzést végző személyek a felállított őrhöz kérdéseket intézhetnek. Az őrség ellenőrzésére az őrségparancsnok havi ellenőrzési tervet köteles készíteni. Az ellenőrzést munkaszüneti, illetőleg ünnepnapokra is tervezni kell.
 
@@ -912,7 +912,7 @@
 
 ## 69. § (1) Az őrség elhelyezési körletéről, berendezési tárgyairól, okmányairól a munkáltató köteles gondoskodni. Az őrség elhelyezési körlete és annak berendezése biztosítsa az őrszolgálat maradéktalan ellátását, az őrhelyekkel való összeköttetést, a kulturált – és a létesítményen belül elkülönített – elhelyezést (étkezést, pihenést, tisztálkodást stb.).
 
-## (2)[^78] Az őrség elhelyezési körlete – az őrség szervezeti felépítésétől függően – a következőkből álljon:
+## (2)[^79] Az őrség elhelyezési körlete – az őrség szervezeti felépítésétől függően – a következőkből álljon:
 
 ## a) az őrségparancsnok részére egy szolgálati helyiségből;
 
@@ -976,7 +976,7 @@
 
 ## i) a riadótervet;
 
-## j)[^79] az őrparancsnok okmányait, ha az őrségnél az őrparancsnoki beosztást nem hozták létre.
+## j)[^80] az őrparancsnok okmányait, ha az őrségnél az őrparancsnoki beosztást nem hozták létre.
 
 ## 71. § (1) Az őrparancsnok szolgálati helyiségének tárgyai:
 
@@ -1034,7 +1034,7 @@
 
 ## 73. § (1) Az őrtevékenység nagyfokú önfegyelmet, határozottságot, tartós figyelemkoncentrációt, megfelelő elméleti és gyakorlati felkészültséget, problémamegoldó képességet és fizikai erőnlétet igényel. Az őrnek tudnia kell a feladata ellátásához szükséges alapvető jogi rendelkezéseket, kriminalisztikai és pszichológiai ismereteket, az őrzött objektum védelme és az azok biztonsága ellen irányuló fenyegetés, támadás elhárítására kidolgozott szabályokat és módszereket.
 
-## (2)[^80] Képzési, felkészülési követelmények:
+## (2)[^81] Képzési, felkészülési követelmények:
 
 ## a) jogi ismeretek:
 
@@ -1106,11 +1106,11 @@
 
 ## c) az önvédelmi vizsga alól, ha a jelölt igazolja, hogy valamely küzdősportban sportminősítést (pl. övfokozat) szerzett.
 
-## X. Fejezet[^81]
+## X. Fejezet[^82]
 
-## ZÁRÓ RENDELKEZÉSEK[^82]
+## ZÁRÓ RENDELKEZÉSEK[^83]
 
-## 77. §[^83] E Szabályzat alkalmazásában az őrség irányítására jogosult személy a kötelezett, illetve az őrséget működtető szervezet vezetője és a helyettesítésére, illetve a nevében utasítás kiadására jogosult személy, továbbá az Fbő. törvény 1. § (6) bekezdésében meghatározott szerveknél a hivatásos állomány ügyeleti szolgálatot ellátó, valamint azt irányító tagja.
+## 77. §[^84] E Szabályzat alkalmazásában az őrség irányítására jogosult személy a kötelezett, illetve az őrséget működtető szervezet vezetője és a helyettesítésére, illetve a nevében utasítás kiadására jogosult személy, továbbá az Fbő. törvény 1. § (6) bekezdésében meghatározott szerveknél a hivatásos állomány ügyeleti szolgálatot ellátó, valamint azt irányító tagja.
 
 ## 1. számú függelék
 
@@ -1331,7 +1331,7 @@ aláírás
 [^9]: A melléklet 8. § a)–b) pontját a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
 [^10]: A melléklet 8. § f) pontja a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
 [^11]: A melléklet 8. § g) pontja a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése szerint módosított szöveg.
-[^12]: A melléklet 9. §-ának bevezető szövegrésze a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 20. pontja szerint módosított szöveg.
+[^12]: A melléklet 9. § nyitó szövegrésze a 8/2008. (IV. 22.) IRM rendelet 1. § 20. pontja, az 59/2022. (XII. 27.) BM rendelet 1. § a) pontja szerint módosított szöveg.
 [^13]: A melléklet 9. § a) pontját a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
 [^14]: A melléklet 9. § d) pontját a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
 [^15]: A melléklet 9. § f) pont első franciabekezdését a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
@@ -1377,10 +1377,10 @@ aláírás
 [^55]: A 33., 34. és 35. § a 31/1998. (VII. 10.) BM rendelet 1. §-ával megállapított szöveg.
 [^56]: A melléklet 33. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
 [^57]: A melléklet 33. § (2) bekezdését a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
-[^58]: A melléklet 33. § (3) bekezdése a 86/2009. (XII. 30.) IRM rendelet 7. §-ával megállapított, az 58/2016. (XII. 22.) BM rendelet 3. §-a szerint módosított szöveg.
+[^58]: A melléklet 33. § (3) bekezdése a 86/2009. (XII. 30.) IRM rendelet 7. §-ával megállapított, az 58/2016. (XII. 22.) BM rendelet 3. §-a, az 59/2022. (XII. 27.) BM rendelet 1. § a) pontja szerint módosított szöveg.
 [^59]: A 33/A. §-t az 50/2012. (X. 11.) BM rendelet 2. § (1) bekezdése iktatta be.
 [^60]: A melléklet 35. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése szerint módosított szöveg.
-[^61]: A melléklet 35. § (2) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. §-ának 20. pontja, a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^61]: A melléklet 35. § (2) bekezdése a 8/2008. (IV. 22.) IRM rendelet 1. § 20. pontja, a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése, az 59/2022. (XII. 27.) BM rendelet 1. § a) pontja szerint módosított szöveg.
 [^62]: A melléklet 35. § (3)–(4) bekezdését a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése hatályon kívül helyezte.
 [^63]: A melléklet 38. § (1) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
 [^64]: A melléklet 43. § alcíme a 86/2009. (XII. 30.) IRM rendelet 11. § (3) bekezdése szerint módosított szöveg.
@@ -1395,11 +1395,12 @@ aláírás
 [^73]: A Melléklet 52. § (10) bekezdését a 4/2010. (XI. 25.) BM rendelet 3. §-a iktatta be.
 [^74]: A melléklet 52. § (11) bekezdését a 11/2022. (IV. 29.) BM rendelet 1. §-a iktatta be.
 [^75]: A melléklet 53. § (2) bekezdés d) pontja a 34/2013. (VI. 30.) BM rendelet 12. §-ával megállapított szöveg.
-[^76]: A melléklet 61. § (1) bekezdés c) pontját a 86/2009. (XII. 30.) IRM rendelet 8. §-a iktatta be.
-[^77]: A melléklet 61. § (2) bekezdés b) pontja a 11/2022. (IV. 29.) BM rendelet 1. §-ával megállapított szöveg.
-[^78]: A melléklet 69. § (2) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^79]: A melléklet 70. § (2) bekezdés j) pontját a 86/2009. (XII. 30.) IRM rendelet 9. §-a iktatta be.
-[^80]: A melléklet 73. § (2) bekezdése a 11/2022. (IV. 29.) BM rendelet 1. §-ával megállapított szöveg.
-[^81]: A melléklet X. Fejezetét (77. §) a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
-[^82]: A melléklet X. Fejezet címét a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
-[^83]: A 77. §-t a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
+[^76]: A melléklet 53. § (3) bekezdés b) pontja az 59/2022. (XII. 27.) BM rendelet 1. § b) pontja szerint módosított szöveg.
+[^77]: A melléklet 61. § (1) bekezdés c) pontját a 86/2009. (XII. 30.) IRM rendelet 8. §-a iktatta be.
+[^78]: A melléklet 61. § (2) bekezdés b) pontja a 11/2022. (IV. 29.) BM rendelet 1. §-ával megállapított szöveg.
+[^79]: A melléklet 69. § (2) bekezdése a 86/2009. (XII. 30.) IRM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^80]: A melléklet 70. § (2) bekezdés j) pontját a 86/2009. (XII. 30.) IRM rendelet 9. §-a iktatta be.
+[^81]: A melléklet 73. § (2) bekezdése a 11/2022. (IV. 29.) BM rendelet 1. §-ával megállapított szöveg.
+[^82]: A melléklet X. Fejezetét (77. §) a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
+[^83]: A melléklet X. Fejezet címét a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
+[^84]: A 77. §-t a 86/2009. (XII. 30.) IRM rendelet 10. §-a iktatta be.
