@@ -1,5 +1,3 @@
-## 3/A. §[^12] A fővárosi és megyei kormányhivatal építésügyi és építésfelügyeleti feladatköreinek gyakorlásával összefüggésben az általános közigazgatási rendtartásról szóló törvényben a felügyeleti szervre ruházott jogköröket, továbbá az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
-
 ## A sajátos építményfajták körébe tartozó nemzetbiztonsági célú, illetve rendeltetésű építmények engedélyezését ellátó építésügyi hatóság és építésfelügyeletét ellátó hatóság kijelölése[^13]
 
 3/B. §[^14] (1)[^15] A Kormány a nemzetbiztonsági célú, illetve rendeltetésű építmények vonatkozásában az építésügyi és építésfelügyeleti hatósági jogkör gyakorlójaként, országos illetékességgel a honvédelemért felelős minisztert jelöli ki.
@@ -38,7 +36,6 @@ b) a tisztálkodást, az illemhely-használatot, valamint
 
 c) a mosást, főzést, élelmiszertárolást, mosogatást, az étkezést, valamint a használathoz szükséges berendezések és használati tárgyak tárolását, továbbá egyéb ellátást nyújtó szolgáltatásokat.
 
-[^12]: A 3/A. §-t újonnan a 322/2012. (XI. 16.) Korm. rendelet 36. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 184. § (2) bekezdésével megállapított, a 13/2019. (II. 11.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^13]: A 3/B. §-t megelőző alcímet a 196/2009. (IX. 15.) Korm. rendelet 14. §-a iktatta be.
 [^14]: A 3/B. §-t a 196/2009. (IX. 15.) Korm. rendelet 14. §-a iktatta be. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2011. január 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
 [^15]: A 3/B. § (1) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 98. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 45. § (13) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

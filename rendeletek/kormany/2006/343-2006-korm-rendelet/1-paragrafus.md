@@ -12,6 +12,6 @@ d) az Országos Atomenergia Hivatal nukleáris energiával kapcsolatos európai 
 
 e) műemlék jókarbantartási ügyek
 
-kivételével az építésügyi hatósági feladatokat ellátó általános építésügyi hatóságként az építmények, építési tevékenységek tekintetében a fővárosi és megyei kormányhivatalt (a továbbiakban: építésügyi hatóság) jelöli ki.
+kivételével az építésügyi hatósági feladatokat ellátó általános építésügyi hatóságként az építmények, építési tevékenységek tekintetében a fővárosi és vármegyei kormányhivatalt (a továbbiakban: építésügyi hatóság) jelöli ki.
 
-[^1]: Az 1. § a 360/2019. (XII. 30.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^1]: Az 1. § a 360/2019. (XII. 30.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg, záró szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 70. §-a szerint módosított szöveg.
