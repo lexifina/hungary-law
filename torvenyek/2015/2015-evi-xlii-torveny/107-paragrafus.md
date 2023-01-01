@@ -8,6 +8,8 @@ c) rangsor állítása,
 
 d) fejlesztés.
 
+e) adatelemzéshez és statisztikai lekérdezésekhez szükséges adatszolgáltatás biztosítása.
+
 (2) Ezen alcím tekintetében
 
 a) fejlesztés: az alkalmasságvizsgálati eljárásban vizsgált minimumfeltételek mint alapkritériumok eredménye alapján a hivatásos állomány tagjának az egyéni továbbképzési rendszer keretében megvalósított célzott, egyénre szabott kompetenciafejlesztése,
@@ -26,7 +28,7 @@ alkalmasságvizsgálat során felállított, a kiválasztási döntést támogat
 
 (4) Az (1) bekezdésben meghatározott célból az egészségi vagy pszichológiai állapotra vonatkozó vizsgálati adatokat, a vizsgálatok teljes egészségügyi és pszichológiai dokumentációját az alkalmasság megállapításában részt vevő orvos vagy pszichológus, az orvosi bizottság, vagy a pszichológusokból álló háromfős bizottság kezeli, az kizárólag részükre továbbítható. Az (1) bekezdésben meghatározott célból a fizikai alkalmasságra vonatkozó adatokat a felmérésben közreműködő, az alkalmasság megállapításában részt vevő orvos, az orvosi bizottság, valamint a jogszabály szerinti sportszakemberekből álló háromfős bizottság kezeli.
 
-(5) A hivatásos állomány tagja jogosult az egészségi vagy pszichológiai állapotára vonatkozó vizsgálat teljes dokumentációját megismerni, és kérelmére annak másolatát az általános adatvédelmi rendelet 15. cikk (3) bekezdésében foglaltak szerint rendelkezésére kell bocsátani.
+(5) A hivatásos állomány tagja jogosult az egészségi vagy pszichológiai állapotára vonatkozó vizsgálat teljes dokumentációját megismerni, és kérelmére annak másolatát a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről (általános adatvédelmi rendelet) szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendelet (a továbbiakban: általános adatvédelmi rendelet) 15. cikk (3) bekezdésében foglaltak szerint rendelkezésére kell bocsátani.
 
 (6) Az állományilletékes parancsnoknak és a személyügyi szervnek az alkalmasság minősítésére vonatkozó adat, továbbá a rangsor továbbítható. Ha az alkalmassági vizsgálatot az állományilletékes parancsnok kezdeményezi, akkor az alkalmassági vizsgálat megindulása előtt tudomására jutott egészségügyi, pszichológiai adatot is jogosult kezelni, és az egészségügyi valamint a pszichológiai adatot az eljárásban részt vevő orvos és pszichológus, az orvosi bizottság, valamint pszichológusokból álló háromfős bizottság részére továbbíthatja.
 

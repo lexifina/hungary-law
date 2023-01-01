@@ -44,7 +44,15 @@ munkanap pótszabadság jár.
 
 (9) A pótszabadságra való jogosultság szempontjából a gyermeket először a születésének évében, utoljára pedig abban az évben kell figyelembe venni, amelyben a tizenhatodik életévét betölti.
 
-(10) Az apának gyermeke születése esetén, legkésőbb a születést követő második hónap végéig tíz, ikergyermekek születése esetén tizenöt munkanap pótszabadság jár, amelyet kérésének megfelelő időpontban kell kiadni. A szabadság akkor is jár, ha a gyermek halva születik vagy meghal.
+(10) Gyermeke születése esetén apasági szabadságként tíz, ikergyermekek esetén tizenöt munkanap pótszabadság illeti meg az apát, amelyet
+
+a) legkésőbb a születést követő második hónap végéig,
+
+b) a kérésének megfelelő időpontban, és
+
+c) legfeljebb két részletben
+
+kell kiadni.
 
 (11) A nagyszülőnek unokája esetén legkésőbb a születést követő második hónap végéig öt, ikergyermekek születése esetén hét munkanap pótszabadság jár, melyet kérésének megfelelő időpontban kell kiadni.
 
@@ -61,3 +69,13 @@ c) vakok személyi járadékára jogosult,
 évenként öt munkanap pótszabadság jár.
 
 (14) Az a rendvédelmi alkalmazott, aki vezetői pótszabadságra és a (7) és (8) bekezdés szerinti pótszabadságra nem jogosult, az ötvenedik életévének betöltésétől évente három munkanap pótszabadságot is igénybe vehet.
+
+(15) Az apasági szabadság az apát akkor is megilleti, ha a gyermek halva születik vagy meghal. Az apasági szabadság tartamára távolléti díj jár.
+
+(16) A (10) bekezdés alkalmazása során apán
+
+a) a Ptk. szerinti apai jogállású férfit, vagy
+
+b) az örökbefogadó férfit
+
+kell érteni.

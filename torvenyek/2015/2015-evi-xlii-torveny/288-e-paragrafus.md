@@ -30,7 +30,7 @@ c) azonnali hatályú lemondással,
 
 d) felmentéssel,
 
-e) kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, hivatásos szolgálati jogviszonyba, katonai szolgálati jogviszonyba vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel,
+e) kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati, hivatásos szolgálati jogviszonyba, adó- és vámhatósági szolgálati jogviszonyba, katonai szolgálati jogviszonyba vagy igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezéssel,
 
 f) más rendvédelmi szervhez történő áthelyezéssel,
 
@@ -42,7 +42,7 @@ g) azonnali hatállyal a próbaidő alatt.
 
 a) az e törvényben és végrehajtási rendeleteiben meghatározott, az igazgatási jogviszony fenntartásához szükséges, a munkáltatói jogkör gyakorlója által a rendvédelmi alkalmazottnak előírt képzési és vizsgakötelezettség teljesítését önhibájából elmulasztotta,
 
-b) országgyűlési vagy európai parlamenti képviselővé, nemzetiségi szószólóvá, főpolgármesterré, főpolgármester-helyettessé, megyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, helyi vagy nemzetiségi önkormányzati képviselővé megválasztották,
+b) országgyűlési vagy európai parlamenti képviselővé, nemzetiségi szószólóvá, főpolgármesterré, főpolgármester-helyettessé, vármegyei közgyűlés elnökévé, alelnökévé, polgármesterré, alpolgármesterré, helyi vagy nemzetiségi önkormányzati képviselővé megválasztották,
 
 c) az összeférhetetlenség megszüntetését elmulasztotta,
 

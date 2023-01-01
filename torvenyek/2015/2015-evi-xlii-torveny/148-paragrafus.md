@@ -22,6 +22,8 @@ dc) háromévesnél idősebb, de hatévesnél fiatalabb gyermek esetén a c) pon
 
 dd) hatévesnél idősebb, de tizenkét évesnél fiatalabb gyermek esetén a c) pont cc) alpontjában meghatározott mértékben.
 
+(1a) Az (1) bekezdés c) vagy d) pontja, illetve (2) bekezdés alapján gyermekápolás céljából igényelt egészségügyi szabadság tekintetében előzményként a gyermek előző születésnapjától a gyermek következő születésnapjáig e jogcímen egészségügyi szabadságon töltött napokat kell figyelembe venni.
+
 (2) A gyermek betegségére tekintettel az (1) bekezdésben foglaltakon túl a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 50. § (3) bekezdésének megfelelő alkalmazásával méltányosságból egészségügyi szabadság állapítható meg a hivatásos állomány szülő, nevelőszülő, valamint helyettes szülő tagja részére,
 
 a) ha tizenkét éves, vagy annál idősebb, de tizennyolc évesnél fiatalabb beteg gyermekét otthon ápolja, vagy

@@ -18,6 +18,8 @@ h) a törvény szerinti, örökbefogadás előtti kötelező gondozásba helyez�
 
 i) a közeli hozzátartozó otthoni gondozása céljából kapott illetmény nélküli szabadság
 
+j) az apasági szabadság és a 150. § (2) bekezdés c) pontja szerinti
+
 időtartama alatt.
 
 (2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a rendvédelmi alkalmazottra, ha
@@ -27,3 +29,19 @@ a) nyugdíjasnak minősül, vagy
 b) felmentését maga kérte.
 
 (3) Az (1) bekezdésben meghatározott védelem fennállása szempontjából a felmentés közlésének időpontja az irányadó. A felmentés közlésének az tekintendő, amikor a felmentésről szóló írásba foglalt munkáltatói intézkedést a rendvédelmi alkalmazottnak kézbesítették.
+
+(4) A munkáltatói jogkör gyakorlója – a rendvédelmi alkalmazott kérelmére – indokolási kötelesség hiányában is megindokolja az igazgatási jogviszony megszüntetésére irányuló jognyilatkozatát, ha a rendvédelmi alkalmazott hivatkozása szerint az igazgatási jogviszony megszüntetésére
+
+a) a 138/A. § szerinti rész-szolgálatteljesítés,
+
+b) a 149. § szerinti szülési szabadság,
+
+c) a 149/A. § szerinti szülői szabadság,
+
+d) a 150. § (2) bekezdés c) pontja szerinti illetmény nélküli szabadság, vagy
+
+e) a 289/P. § (10) bekezdése szerinti apasági szabadság
+
+igénylése vagy igénybevétele miatt került sor.
+
+(5) A rendvédelmi alkalmazott a (4) bekezdés szerinti jognyilatkozat indokolását annak közlésétől számított tizenöt napon belül írásban kérheti. A munkáltatói jogkör gyakorlója az indokolást a kérelem kézhezvételétől számított tizenöt napon belül közli.

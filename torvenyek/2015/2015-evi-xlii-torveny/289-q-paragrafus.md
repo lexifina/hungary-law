@@ -1,4 +1,4 @@
-289/Q. § (1) A szabadságot esedékességének évében kell kiadni és kivenni.
+289/Q. § (1) A szabadságot – az apasági szabadságot és a szülői szabadságot kivéve – esedékességének évében kell kiadni és kivenni.
 
 (2) Az esedékesség évében kell kiadottnak tekinteni a szabadságot, ha igénybevétele az esedékesség évében megkezdődik és a szabadság következő évben kiadott része nem haladja meg az öt munkanapot.
 

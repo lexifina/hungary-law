@@ -19,3 +19,19 @@ a) a rendvédelmi szervnek azzal a szervezeti egységével, vagy ha a szolgálat
 b) az (1) bekezdés b) pontja esetében a szolgálatteljesítési hely szerinti szervezeti egységgel szemben indíthatja meg.
 
 (4) Ha a hivatásos állomány tagja a bíróság előtt – indokolással alátámasztva – arra hivatkozik, hogy a szolgálati viszonyát ténylegesen a 45. § (4) bekezdésében foglalt tájékoztatási kötelezettséggel kapcsolatos igénye miatt szüntették meg, a rendvédelmi szerv köteles bizonyítani, hogy a szolgálati viszony megszüntetésére nem ezen okból került sor.
+
+(5) Ha a hivatásos állomány tagja a bíróság előtt – indokolással alátámasztva – arra hivatkozik, hogy a szolgálati viszonyát ténylegesen
+
+a) a 138/A. § szerinti rész-szolgálatteljesítés,
+
+b) a 145. § (1) bekezdése szerinti apasági szabadság,
+
+c) a 149. § szerinti szülési szabadság,
+
+d) a 149/A. § szerinti szülői szabadság,
+
+e) a 150. § (1) bekezdése szerinti gyermek gondozása céljából fizetés nélküli szabadság, vagy
+
+f) a 150. § (2) bekezdés c) pontja szerinti illetmény nélküli szabadság
+
+igénylése vagy igénybevétele miatt szüntették meg, a rendvédelmi szerv köteles bizonyítani, hogy a szolgálati viszony megszüntetésére nem ezen okból került sor.

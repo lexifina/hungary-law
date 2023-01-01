@@ -1,0 +1,1 @@
+368/C. § Ha a hivatásos állomány tagjának és a rendvédelmi alkalmazottnak gyermeke 2022. augusztus 2. és 2023. június 30. között tölti be a harmadik életévét, a munkáltatói jogkör gyakorlója a szülői szabadságot – a hivatásos állomány tagja és a rendvédelmi alkalmazott kérésének megfelelő időpontban – legkésőbb 2023. június 30-ig terjedő időszakban adja ki.

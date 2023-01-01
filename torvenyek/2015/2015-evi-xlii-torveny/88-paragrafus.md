@@ -14,6 +14,8 @@ f) a hivatásos állomány nő tagjának jogszabály szerinti, az emberi reprodu
 
 g) a szolgálati viszony szünetelésének időtartama.
 
+h) a 145. § (1) bekezdése szerinti pótszabadság (a továbbiakban: apasági szabadság), valamint a 149/A. §-a és a 150. § (2) bekezdés c) pontja szerinti időtartam.
+
 (2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a hivatásos állomány tagjára, ha
 
 a) a 86. § (2) bekezdés b) vagy c) pontja alapján alkalmatlanná vált,

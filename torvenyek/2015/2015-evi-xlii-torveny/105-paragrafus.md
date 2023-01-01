@@ -20,6 +20,10 @@ i) az egészségkárosodási ellátásra jogosultság megállapítására irány
 
 j) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb tíz munkanapra.
 
+k) betegség vagy baleset okozta sürgős családi okból adódó vis maior esetén évente legfeljebb kétszer, egy munkanapra.
+
 (1a) Az (1) bekezdés j) pontja szerinti esetben a hivatásos állomány tagját a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a hivatásos állomány tagja legalább öt munkanappal korábban tájékoztatja a munkáltatói jogkört gyakorlót.
 
-(2) A szolgálatteljesítési kötelezettség alóli (1) bekezdés szerinti mentesülés esetében a hivatásos állomány tagja a távollét idejére távolléti díjra jogosult.
+(2) A szolgálatteljesítési kötelezettség alóli (1) bekezdés szerinti mentesülés esetében a hivatásos állomány tagja a távollét idejére – a (3) bekezdésben foglaltak kivételével – távolléti díjra jogosult.
+
+(3) A szolgálatteljesítési kötelezettség alóli (1) bekezdés k) pontja szerinti mentesülés esetében a hivatásos állomány tagját a távollét idejére illetmény, távolléti díj nem illeti meg.

@@ -8,4 +8,4 @@
 
 (5) Tartozásátvállalásnak csak pénzkövetelés esetén van helye. Munkáltatói tartozást a hivatásos állomány tagja nem vállalhat át.
 
-(6) A rendvédelmi szerv és a hivatásos állomány tagjának megállapodása alapján pénztartozás után kamat köthető ki. A kamat mértéke nem haladhatja meg a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Polgári Törvénykönyv) 6:47. §-a szerinti mértéket.
+(6) A rendvédelmi szerv és a hivatásos állomány tagjának megállapodása alapján pénztartozás után kamat köthető ki. A kamat mértéke nem haladhatja meg a Ptk. 6:47. §-a szerinti mértéket.

@@ -4,7 +4,7 @@
 
 (2) A szabadság tartamának 50%-át egybefüggően, a 25%-át, de legalább tíz napot pedig a hivatásos állomány tagja által megjelölt időben és időtartamban kell kiadni úgy, hogy az a rendvédelmi szerv működőképességét ne veszélyeztesse. A rendvédelmi szerv az általa meghatározott szabadság kezdő napját harminc nappal előbb köteles közölni a hivatásos állomány tagjával.
 
-(3) A szabadságot az esedékesség évében kell kiadni. Szolgálati érdekből a szabadságot a tárgyévet követő év január 31-éig, kivételesen fontos szolgálati érdekből legkésőbb március 31-éig, a hivatásos állomány tagjának betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított harminc napon belül kell kiadni.
+(3) A szabadságot – az apasági szabadságot és a szülői szabadságot kivéve – az esedékesség évében kell kiadni. Szolgálati érdekből a szabadságot a tárgyévet követő év január 31-éig, kivételesen fontos szolgálati érdekből legkésőbb március 31-éig, a hivatásos állomány tagjának betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított harminc napon belül kell kiadni.
 
 (4) A tárgyévre esedékes és a tárgyévben megkezdett, de a következő évre áthúzódó szabadságot a tárgyévi szabadságként kell figyelembe venni.
 
@@ -15,3 +15,5 @@
 (7) Szabadság pénzbeni megváltására csak az (5) és (6) bekezdésben meghatározott esetben, valamint a szolgálati viszony megszűnésekor kerülhet sor.
 
 (8) Ha a hivatásos állomány tagjának szolgálati viszonya év közben kezdődik vagy szűnik meg, a hivatásos állomány tagja a szabadság arányos részére jogosult. Ha a hivatásos állomány tagja a tárgyévben az időarányosan járó szabadságnál többet vett igénybe – ide nem értve azt, akinek a szolgálati viszonya nyugállományba helyezésére vagy halálára tekintettel szűnik meg – a különbözetre kifizetett távolléti díjat köteles visszatéríteni.
+
+(9) A 145. § (1) bekezdése és a 289/P. § (10) bekezdése szerinti apasági szabadság, valamint a szülői szabadság pénzbeli megváltása nem lehetséges.

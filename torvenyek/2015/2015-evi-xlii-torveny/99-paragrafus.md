@@ -13,3 +13,5 @@ c) az illetményéből határozat vagy jogszabály alapján levonandó tartozás
 d) a szolgálati viszony megszűnésének évében igénybe vett szabadsága időtartamát, valamint
 
 e) a kifizetett végkielégítés összegét.
+
+f) a szülői szabadság és az apasági szabadság kiadott tartamát, amely tartalmazza a korábbi munkáltató által, ezen jogcímeken kiadott szabadság tartamát is.
