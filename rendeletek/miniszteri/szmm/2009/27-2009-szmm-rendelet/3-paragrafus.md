@@ -14,7 +14,10 @@ bd) vakvezető kutya kiképzése esetén az Országos Képzési Jegyzékben szer
 
 c) amely vakvezető kutya kiképzése esetén biztosítja, hogy a látássérült emberek kutyával közlekedésére való felkészítését a szakképzett kutyakiképző mellett gyógypedagógus látássérültek pedagógiája szakirányon szakképzettséggel, illetve rehabilitációs szakember a látássérülés területén szakképzettséggel rendelkező személy végzi.
 
-(2)[^6] Terápiás kutyát alkalmazó szervezet az a kutyát kiképző szervezet, amely az általa vagy egy másik kutyát kiképző szervezet által kiképzett és levizsgáztatott terápiás kutyát és gazdáját alkalmazza.
+(1a)[^6] Az (1) bekezdés b) pontjában foglaltaktól eltérően az a kutyát kiképző szervezet is képezhet ki segítő kutyát, és készíthet fel a segítő kutya használatára, gondozására, amely biztosítja, hogy a kiképzést olyan kiképző végzi, aki a szociális ágazati képzésekről és vizsgakövetelményekről szóló 14/2022. (IV. 29.) EMMI rendelet 1. § (1) bekezdés f)–i) pontja szerinti képzés eredményes elvégzését igazoló tanúsítvánnyal rendelkezik.
+
+(2)[^7] Terápiás kutyát alkalmazó szervezet az a kutyát kiképző szervezet, amely az általa vagy egy másik kutyát kiképző szervezet által kiképzett és levizsgáztatott terápiás kutyát és gazdáját alkalmazza.
 
 [^5]: A 3. § (1) bekezdése a 9/2016. (V. 12.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^6]: A 3. § (2) bekezdése a 9/2016. (V. 12.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^6]: A 3. § (1a) bekezdését a 80/2022. (XII. 30.) BM rendelet 33. §-a iktatta be.
+[^7]: A 3. § (2) bekezdése a 9/2016. (V. 12.) EMMI rendelet 3. §-ával megállapított szöveg.
