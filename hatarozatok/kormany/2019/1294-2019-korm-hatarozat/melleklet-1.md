@@ -1,36 +1,6 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 35. A falu- és tanyagondnoki szolgálatok kiegészítő támogatása címmel történő kiegészítését;
+## 1.[^1]
 
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## 2. a Kvtv. 19. § (4) bekezdése, valamint az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – a falu és tanyagondnoki szolgálatok bővítése érdekében – elrendeli:
-
-## a) a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 2. Országvédelmi Alap jogcímcsoport terhére 1 551 350 000 forint egyszeri átcsoportosítását, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 35. A falu- és tanyagondnoki szolgálatok kiegészítő támogatása cím javára, az 1. melléklet szerint,
-
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## b) a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 2. Országvédelmi Alap jogcímcsoport terhére 71 300 000 forint egyszeri átcsoportosítását, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 19. Szociális célú humánszolgáltatások alcím, 1. Szociális célú nem állami humánszolgáltatások támogatása jogcímcsoport javára, a fel nem használt rész tekintetében visszatérítési kötelezettséggel, az 1. melléklet szerint;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
-
-## Az elszámolás és a visszatérítési kötelezettség tekintetében
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: 2019. december 30.
+## 2.[^2]
 
 ## 3. egyetért azzal, hogy a belügyminiszter a 2. pont a) alpontja szerint átcsoportosított előirányzat terhére, a települési önkormányzatok által fenntartott falu- és tanyagondnoki szolgálatok kiegészítő támogatására, pályázat és támogatási kérelem benyújtása nélkül, támogatási előlegként, egy összegben a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján a 2. melléklet szerinti települési önkormányzatok részére, az ott meghatározott összegben költségvetési támogatást nyújtson 2019. december 31-i felhasználási határidővel;
 
@@ -76,4 +46,8 @@
 
 ## Határidő: a 2020. és 2022. évi központi költségvetés tervezése során
 
-1. melléklet az 1294/2019. (V. 27.) Korm. határozathoz
+1. melléklet az 1294/2019. (V. 27.) Korm. határozathoz[^3]
+
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
