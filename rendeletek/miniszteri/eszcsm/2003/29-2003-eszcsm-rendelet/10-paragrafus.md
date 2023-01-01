@@ -1,3 +1,3 @@
-10. §[^35]
+10. § (1) A GyOP alapján történő gyermekvédelmi gyámi képzés (a továbbiakban: GyOP-képzés) időtartama 90 óra.
 
-[^35]: A 9–12. §-t és a 9. §-t megelőző alcímet a 19/2017. (IX. 18.) EMMI rendelet 19. § b) pontja hatályon kívül helyezte.
+(2) A GyOP-képzés témaköreit, óraszámait, elméleti és gyakorlati óraszámainak arányát a 10. számú melléklet tartalmazza.

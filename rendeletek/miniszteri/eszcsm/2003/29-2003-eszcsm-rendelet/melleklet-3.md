@@ -1,6 +1,6 @@
 ## – Ismereteket összegző beszélgetés 1 óra
 
-3. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez[^63]
+3. számú melléklet a 29/2003. (V. 20.) ESZCSM rendelethez[^47]
 
 A nevelőszülői tanfolyam részletes tematikája
 
@@ -112,4 +112,4 @@ A nevelőszülői tanfolyam részletes tematikája
 
 2 óra
 
-[^63]: A 3. számú mellékletet a 83/2013. (XII. 29.) EMMI rendelet 33. § c) pontja hatályon kívül helyezte, újonnan a 6/2015. (I. 28.) EMMI rendelet 24. § (2) bekezdése iktatta be.
+[^47]: A 3. számú mellékletet a 83/2013. (XII. 29.) EMMI rendelet 33. § c) pontja hatályon kívül helyezte, újonnan a 6/2015. (I. 28.) EMMI rendelet 24. § (2) bekezdése iktatta be.

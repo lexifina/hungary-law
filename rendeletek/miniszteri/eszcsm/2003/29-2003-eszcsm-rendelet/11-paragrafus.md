@@ -1,3 +1,3 @@
-11. §[^36]
+11. § (1) A GyOP-képzést és vizsgáztatást az Országos Gyermekvédelmi Szakszolgálat (ezen alcím alkalmazásában a továbbiakban: képző intézmény) végzi.
 
-[^36]: A 9–12. §-t és a 9. §-t megelőző alcímet a 19/2017. (IX. 18.) EMMI rendelet 19. § b) pontja hatályon kívül helyezte.
+(2) A GyOP-képzés szakmai felügyeletét az Intézet (ezen alcím alkalmazásában a továbbiakban: GyOP-képzésért felelős szerv) végzi.
