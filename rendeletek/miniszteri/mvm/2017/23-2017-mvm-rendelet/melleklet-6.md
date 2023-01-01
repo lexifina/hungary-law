@@ -162,7 +162,7 @@
 
 ## 70. Az EAK rendszer működése (jellemzők, okirat-kiállítási funkciók, előállítható okiratok, megszemélyesítetlen anyakönyvi kivonat nyomtatvány igénylése, bevételezése, a nyomdai hibás vagy megrongálódott megszemélyesítetlen anyakönyvi kivonat nyomtatványok érvénytelenítése, levelező és fórum használata)
 
-6. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^16]
+6. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^17]
 
 ## Az anyakönyvi szakvizsga bizonyítvány adattartalma
 
@@ -184,4 +184,4 @@
 
 9. A vizsgabizottság elnökének és tagjainak aláírása.
 
-[^16]: A 6. melléklet a 13/2022. (VIII. 31.) MvM rendelet 6. § d) pontjával megállapított szöveg.
+[^17]: A 6. melléklet a 13/2022. (VIII. 31.) MvM rendelet 6. § d) pontjával megállapított szöveg.

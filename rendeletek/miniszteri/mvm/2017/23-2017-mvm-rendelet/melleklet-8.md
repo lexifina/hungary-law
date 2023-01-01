@@ -56,6 +56,6 @@
 
 ## 17. A polgárok személyi adatainak és lakcímének nyilvántartása (a nyilvántartás személyi hatálya, adatforrások, a konzul feladatai a nyilvántartás vezetésével kapcsolatosan, a nyilvántartásba vételi eljáráshoz szükséges iratok továbbítása), személyes adatok védelme, közérdekű adatok nyilvánossága
 
-8. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^18]
+8. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^19]
 
-[^18]: A 8. mellékletet a 13/2022. (VIII. 31.) MvM rendelet 8. §-a hatályon kívül helyezte.
+[^19]: A 8. mellékletet a 13/2022. (VIII. 31.) MvM rendelet 8. §-a hatályon kívül helyezte.

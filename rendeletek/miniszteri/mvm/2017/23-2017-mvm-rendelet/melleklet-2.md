@@ -1,4 +1,4 @@
-2. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^13]
+2. melléklet a 23/2017. (VIII. 7.) MvM rendelethez[^14]
 
 ## Szakvizsga vizsgaszabályzata
 
@@ -40,4 +40,4 @@ A szakvizsga bizonyítvány minősítése:
 
 10. A gyakorlati vizsga eredményének megállapítása elleni kifogást az eredmény közlésétől számított három napon belül a gyakorlati vizsgabizottság tagjainál, a szóbeli vizsga eredményének megállapítása elleni kifogást pedig a vizsgabizottság elnökénél lehet benyújtani, aki arról három munkanapon belül dönt, és erről a jelöltet írásban tájékoztatja.
 
-[^13]: A 2. melléklet a 13/2022. (VIII. 31.) MvM rendelet 7. § h) és i) pontja szerint módosított szöveg.
+[^14]: A 2. melléklet a 13/2022. (VIII. 31.) MvM rendelet 7. § h) és i) pontja szerint módosított szöveg.

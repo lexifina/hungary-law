@@ -1,4 +1,4 @@
-3. § (1)[^4] A gyakorlati vizsgát 2 tagú, a szóbeli vizsgát 3 tagú közszolgálati tisztviselőkből vagy kormánytisztviselőből álló bizottság előtt kell teljesíteni. A gyakorlati és szóbeli vizsgabizottság legalább egyik tagjának általános anyakönyvi szakvizsgával is rendelkeznie kell.
+3. § (1)[^5] A gyakorlati vizsgát 2 tagú, a szóbeli vizsgát 3 tagú közszolgálati tisztviselőkből vagy kormánytisztviselőből álló bizottság előtt kell teljesíteni. A gyakorlati és szóbeli vizsgabizottság legalább egyik tagjának általános anyakönyvi szakvizsgával is rendelkeznie kell.
 
 (2) A szervező a gyakorlati és szóbeli vizsgabizottság tagjairól tájékoztatja az anyakönyvi ügyekért felelős minisztert. A szóbeli vizsgabizottság elnökét az anyakönyvi ügyekért felelős miniszter jelöli ki.
 
@@ -34,7 +34,7 @@ e) összeállítja a vizsgabizottságot,
 
 f) a szóbeli vizsga eredményes letételéig őrzi az írásbeli vizsgadolgozatot, és biztosítja a jelölt részére az értékelést követő betekintést,
 
-g)[^5] gondoskodik a 4. mellékletben foglalt adattartalmú vizsgajegyzőkönyv vezetéséről, valamint a szakvizsga bizonyítványok kitöltéséről,
+g)[^6] gondoskodik a 4. mellékletben foglalt adattartalmú vizsgajegyzőkönyv vezetéséről, valamint a szakvizsga bizonyítványok kitöltéséről,
 
 h) értesíti az anyakönyvi szakvizsga nyilvántartót a sikeres szakvizsgát tett jelölt 3. mellékletben meghatározott adatairól, és megküldi elektronikus úton a szakvizsga bizonyítvány másolatát.
 
@@ -50,5 +50,5 @@ b) azt a számot, hogy az adott évben a jelölt hányadikként tett eredményes
 
 c) a bizonyítvány kiállításának évét.
 
-[^4]: A 3. § (1) bekezdése a 13/2022. (VIII. 31.) MvM rendelet 7. § d) pontja szerint módosított szöveg.
-[^5]: A 3. § (9) bekezdés g) pontja a 13/2022. (VIII. 31.) MvM rendelet 7. § e) pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdése a 13/2022. (VIII. 31.) MvM rendelet 7. § d) pontja szerint módosított szöveg.
+[^6]: A 3. § (9) bekezdés g) pontja a 13/2022. (VIII. 31.) MvM rendelet 7. § e) pontja szerint módosított szöveg.
