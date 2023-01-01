@@ -4,19 +4,11 @@
 
 ## 3. egyetért azzal, hogy az 1. pontban ismertetett program módszertani támogatását a Magyar Máltai Szeretetszolgálat Egyesület valósítsa meg;
 
-## 4. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Társadalmi felzárkózást segítő programok alcím 12. A Magyar Máltai Szeretetszolgálat Egyesület felzárkózási feladatainak támogatása jogcímcsoporttal történő kiegészítését;
+## 4.[^1]
 
-## Felelős: pénzügyminiszter
+## 5.[^2]
 
-## Határidő: azonnal
-
-## 5. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Társadalmi felzárkózást segítő programok alcím 13. A „Felzárkózó települések” hosszú távú programjának támogatása jogcímcsoporttal történő kiegészítését;
-
-## 6. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva és az Ávr. 34. § (2) bekezdés b) pontja értelmében felhívja a Nemzeti Foglalkoztatási Alap kezelőjét, hogy a Kvtv. 1. melléklet LXIII. Nemzeti Foglalkoztatási Alap fejezet, 8. Start-munkaprogram cím előirányzatról utaljon át
-
-## a) 2 000 000 000 forintot a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet 20. Fejezeti kezelésű előirányzatok fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Társadalmi felzárkózást segítő programok alcím, 12. A Magyar Máltai Szeretetszolgálat Egyesület felzárkózási feladatainak támogatása jogcímcsoport fejezeti kezelésű előirányzat javára, a jelen Korm. határozatban meghatározott feladatok finanszírozására,
-
-## b) 8 000 000 000 forintot a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 5. Társadalmi felzárkózást segítő programok alcím, 13. A „Felzárkózó települések” hosszú távú programjának támogatása jogcímcsoport fejezeti kezelésű előirányzat javára, a jelen Korm. határozatban meghatározott feladatok finanszírozására, valamint a Magyarország egyes területei közötti gazdasági egyenlőtlenség csökkentése érdekében szükséges fejlesztési programcsomagról szóló 1403/2019. (VII. 5.) Korm. határozatban meghatározott feladatok pótlólagos finanszírozására;
+## 6.[^3]
 
 ## 7. egyetért azzal, hogy a 6. pont a) alpontja alapján biztosított forrás terhére a Magyar Máltai Szeretetszolgálat Egyesület részére a belügyminiszter 2 000 000 000 forint támogatást nyújtson, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján;
 
@@ -113,3 +105,7 @@
 29. Vizsoly
 
 30. Zemplénagárd
+
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
