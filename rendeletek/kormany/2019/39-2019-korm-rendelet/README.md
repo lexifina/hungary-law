@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-39-20-2
 | 2021-01-01 | 2019-39-20-22.5 | 663/2020. (XII. 24.) Korm. rendelet |
 | 2021-07-07 | 2019-39-20-22.6 | 397/2021. (VII. 6.) Korm. rendelet |
 | 2022-01-01 | 2019-39-20-22.7 | 397/2021. (VII. 6.) Korm. rendelet |
+| 2023-01-01 | 2019-39-20-22.8 | 397/2021. (VII. 6.) Korm. rendelet |
