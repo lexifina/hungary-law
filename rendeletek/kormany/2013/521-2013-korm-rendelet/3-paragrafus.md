@@ -1,3 +1,3 @@
 3. §[^4] Aki egészségügyi válsághelyzetet előidéző esemény bekövetkezését észleli, vagy erről kap információt az érintett egészségügyi szolgáltatótól vagy a területi szakellátási kötelezettséggel rendelkező szervtől, ezt haladéktalanul köteles jelenteni a területi védelmi bizottság elnöke, valamint az országos tisztifőorvos útján az egészségügyért felelős miniszter részére.
 
-[^4]: A 3. § a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés c) pontja, a 408/2022. (X. 24.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^4]: A 3. § a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés c) pontja, a 408/2022. (X. 24.) Korm. rendelet 23. § b) pontja szerint módosított szöveg. [Nem vezethető át a 616/2022.(XII. 29.) Korm. rendelet 176. § a) pontjában foglalt azon módosítás, amely szerint a 3. §-ban a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.]
