@@ -1,3 +1,1 @@
-10. §[^3]
-
-[^3]: A 10. § a 13. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+10. § A használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló 45/2020. (XI. 28.) ITM rendeletet (a továbbiakban: ITM rendelet) azzal az eltéréssel kell alkalmazni, hogy az útdíjfizetési-szolgáltatásért felelős miniszter látja el az ITM rendelet 6. §-a szerinti ellenőrzési feladatot.

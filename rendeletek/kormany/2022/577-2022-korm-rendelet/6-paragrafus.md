@@ -1,3 +1,1 @@
-6. §[^2]
-
-[^2]: A 6. § a 13. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+6. § A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet módosításáról szóló 698/2021. (XII. 13.) Korm. rendelet 1. §-át 2023. január 1. napjától 2023. december 31. napjáig nem kell alkalmazni.
