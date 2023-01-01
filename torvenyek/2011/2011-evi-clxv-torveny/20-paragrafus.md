@@ -2,7 +2,7 @@
 
 (2) A polgárőr a rendőri intézkedést igénylő baleset helyszínére érkezését követően haladéktalanul értesíti az általános rendőrségi feladatok ellátására létrehozott szervet. Az értesítés kiterjed a baleset jellegére, a sérültek számára, valamint arra, hogy a polgárőr megítélése szerint milyen veszélyhelyzet állt elő.
 
-(3) A polgárőr – a bölcsőde, az óvoda, valamint az általános és középiskola fenntartójának értesítése mellett – a megyei (fővárosi) rendőr-főkapitánysággal kötött együttműködési megállapodása alapján jogosult a gyermekek úttesten történő biztonságos átkelésének elősegítése érdekében a bölcsődék, az óvodák és az általános iskolák közvetlen közelében jelzőőri feladatokat ellátni.
+(3) A polgárőr – a bölcsőde, az óvoda, valamint az általános és középiskola fenntartójának értesítése mellett – a vármegyei (fővárosi) rendőr-főkapitánysággal kötött együttműködési megállapodása alapján jogosult a gyermekek úttesten történő biztonságos átkelésének elősegítése érdekében a bölcsődék, az óvodák és az általános iskolák közvetlen közelében jelzőőri feladatokat ellátni.
 
 (4) Az (1) és a (3) bekezdésben foglalt célból a jelzőőr nappal jelzőtárcsával, éjszaka és korlátozott látási viszonyok esetén piros fényt adó lámpával irányítja a forgalmat. Munkáját jól látható és hallható jelzésekkel köteles összehangolni. A jelzőőri tevékenységet végzőnek és jelzéseinek a megállási látótávolságból folyamatosan láthatóknak kell lenniük.
 

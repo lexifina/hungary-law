@@ -28,6 +28,6 @@ h) kapcsolatot tart a polgárőri tevékenységet ellátó külföldi szervezete
 
 i) a polgárőröket a polgárőr tevékenység végzésére jogosító igazolvánnyal ellátja, az ifjú polgárőröket a 9/A. § (2) bekezdésében meghatározott feladatok ellátására jogosító ifjú polgárőr igazolvánnyal ellátja.
 
-(3) Az Országos Polgárőr Szövetség működési, elhelyezési feltételeit az általános rendőrségi feladatok ellátására létrehozott szerv központi szervével kötött együttműködési megállapodásban meghatározott módon az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve vagy a megyei (fővárosi) rendőr-főkapitányság biztosíthatja.
+(3) Az Országos Polgárőr Szövetség működési, elhelyezési feltételeit az általános rendőrségi feladatok ellátására létrehozott szerv központi szervével kötött együttműködési megállapodásban meghatározott módon az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve vagy a vármegyei (fővárosi) rendőr-főkapitányság biztosíthatja.
 
 (4) Az Országos Polgárőr Szövetség felkérésére az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve gondoskodik a polgárőrök képzésében, szakmai ismereteinek bővítésében való rendőrségi közreműködésről.

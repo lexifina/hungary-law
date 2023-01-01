@@ -1,4 +1,4 @@
-5. § (1) A polgárőr egyesület a helyi rendőri szervnél kezdeményezi a 4. § (1) bekezdés a) pontja szerinti együttműködési megállapodás megkötését. A helyi rendőri szerv az együttműködési megállapodás megkötésére irányuló kérelmet – a kézhezvételt követő – 30 napon belül, javaslatával együtt köteles felterjeszteni a megyei (fővárosi) rendőr-főkapitányságra. A megyei (fővárosi) rendőr-főkapitányság az együttműködési megállapodást a kérelem és a helyi rendőri szerv javaslatának kézhezvételét követő 30 napon belül köti meg.
+5. § (1) A polgárőr egyesület a helyi rendőri szervnél kezdeményezi a 4. § (1) bekezdés a) pontja szerinti együttműködési megállapodás megkötését. A helyi rendőri szerv az együttműködési megállapodás megkötésére irányuló kérelmet – a kézhezvételt követő – 30 napon belül, javaslatával együtt köteles felterjeszteni a vármegyei (fővárosi) rendőr-főkapitányságra. A vármegyei (fővárosi) rendőr-főkapitányság az együttműködési megállapodást a kérelem és a helyi rendőri szerv javaslatának kézhezvételét követő 30 napon belül köti meg.
 
 (2) Az együttműködési megállapodás tartalmazza különösen
 
@@ -32,6 +32,6 @@ d) az együttműködők valamelyike jogutód nélkül megszűnik.
 
 (7) Az együttműködési megállapodás vonatkozásában – e törvényben foglalt kivételekkel – a Polgári Törvénykönyv, az azzal kapcsolatos jogvita bíróság előtti eljárására a polgári perrendtartásról szóló törvény szabályai az irányadók.
 
-(8) Ha a polgárőr egyesületnek korábban azért kellett az e törvény szerinti tevékenységével felhagynia, mert az együttműködési megállapodást a megyei (fővárosi) rendőr-főkapitányság felmondta, akkor e polgárőr egyesülettel, valamint a tagjai által alapított új polgárőr egyesülettel az azonnali hatályú felmondástól számított 1 éven belül nem köthető újabb együttműködési megállapodás.
+(8) Ha a polgárőr egyesületnek korábban azért kellett az e törvény szerinti tevékenységével felhagynia, mert az együttműködési megállapodást a vármegyei (fővárosi) rendőr-főkapitányság felmondta, akkor e polgárőr egyesülettel, valamint a tagjai által alapított új polgárőr egyesülettel az azonnali hatályú felmondástól számított 1 éven belül nem köthető újabb együttműködési megállapodás.
 
 (9) A 4. § (4) bekezdésben meghatározott együttműködési megállapodásra az (1)–(8) bekezdésben meghatározott előírásokat kell értelemszerűen alkalmazni, azzal, hogy a közforgalmú vasúti, illetve autóbuszos személyszállítási szolgáltatást végző vállalkozás a polgárőr részére írásbeli igazolást állít ki a tevékenység folytatásához.
