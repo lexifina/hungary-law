@@ -8,13 +8,7 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: azonnal
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím 23. A magyar–szerb kétoldalú gazdasági és technikai segítségnyújtásról szóló megállapodás végrehajtását célzó támogatási eszköz jogcímcsoporttal történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-külgazdasági és külügyminiszter
-
-Határidő: azonnal
+3.[^1]
 
 4. felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter javaslata alapján, átcsoportosítás útján gondoskodjon az 1. pontban foglalt feladat végrehajtásához a 2019. évben szükséges, mindösszesen 1 616 000 000 forint rendelkezésre állásáról a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezeten belül, a 3. pontban meghatározott előirányzat javára, az alábbiak szerint:
 
@@ -39,3 +33,5 @@ Határidő: 2019. december 31.
 Felelős: külgazdasági és külügyminiszter
 
 Határidő: 2019. december 31.
+
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
