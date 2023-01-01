@@ -2,7 +2,6 @@
 
 a)[^1]
 
-b)[^2]
+b) 2. melléklete helyébe a 2. melléklet lép.
 
 [^1]: Az 1. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. § b) pontja a 3. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
