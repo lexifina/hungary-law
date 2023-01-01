@@ -8,9 +8,9 @@
 
 (5) Nem minősül rendkívüli munkavégzésnek, ha az igazságügyi alkalmazott a munkáltató által engedélyezett távollét idejét – megállapodás alapján – később ledolgozza.
 
-(6) A nő terhessége megállapításától a gyermek egyéves koráig, a gyermekét egyedül nevelő férfi a gyermeke egyéves koráig, továbbá a 44. § (3) bekezdésében meghatározott munkát végző igazságügyi alkalmazott – a korlátozás alá eső munkavégzés tekintetében – rendkívüli munkavégzésre nem kötelezhető.
+(6) Az igazságügyi alkalmazott a terhessége megállapításától a gyermeke egyéves koráig, a gyermekét egyedül nevelő igazságügyi alkalmazott a gyermeke egyéves koráig, továbbá a 44. § (3) bekezdésében meghatározott munkát végző igazságügyi alkalmazott – a korlátozás alá eső munkavégzés tekintetében – rendkívüli munkavégzésre nem kötelezhető.
 
-(7) A gyermekét egyedül nevelő igazságügyi alkalmazott – gyermeke egyéves korától négyéves koráig – csak a beleegyezésével vehető igénybe rendkívüli munkavégzésre.
+(7) Az igazságügyi alkalmazott – gyermeke egyéves korától hároméves koráig –, valamint a gyermekét egyedül nevelő igazságügyi alkalmazott – gyermeke egyéves korától négyéves koráig – csak a beleegyezésével vehető igénybe rendkívüli munkavégzésre.
 
 (8) Az elrendelhető rendkívüli munkavégzés felső határa naptári évenként összesen legfeljebb háromszáz óra.
 

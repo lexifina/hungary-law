@@ -14,13 +14,19 @@ a) a betegség miatti keresőképtelenség, legfeljebb azonban a betegszabadság
 
 b) a gyermek ápolása, illetve gondozása céljára kapott fizetés nélküli szabadság ideje, illetve – a fizetés nélküli szabadság igénybevétele nélkül is – a gyermek hároméves koráig terjedő időtartam,
 
-c) a külön törvény szerinti emberi reprodukciós eljárással összefüggő kezelés, a terhesség ideje, a szülést követő 6. hónap vége, valamint a gyermek gondozása céljából kapott fizetés nélküli szabadság ideje,
+c) törvény szerinti emberi reprodukciós eljárással összefüggő kezelés, a terhesség ideje, a szülést követő 6. hónap vége, valamint a gyermek gondozása céljából kapott fizetés nélküli szabadság ideje,
 
-d) a külön törvény szerint rehabilitációs járadékban részesülő személy keresőképtelenségének teljes időtartama,
+d) törvény szerint rehabilitációs járadékban részesülő személy keresőképtelenségének teljes időtartama,
 
 e) a beteg gyermek ápolására táppénzes állományba helyezés, valamint a közeli hozzátartozó otthoni ápolása vagy gondozása céljából kapott fizetés nélküli szabadság ideje,
 
-f) a külön törvény szerinti, örökbefogadás előtti kötelező gondozásba helyezés esetén az örökbe fogadni szándékozó igazságügyi alkalmazottat – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított hat hónap, illetve, ha a gyermek a hat hónap letelte előtt kikerül a gondozásból, a kötelező gondozás ideje.
+f) törvény szerinti, örökbefogadás előtti kötelező gondozásba helyezés esetén az örökbe fogadni szándékozó igazságügyi alkalmazottat – közösen örökbe fogadni szándékozó házastársak döntése alapján a gyermek nevelésében nagyobb szerepet vállaló házastársat – érintően a kötelező gondozásba helyezéstől számított hat hónap, illetve, ha a gyermek a hat hónap letelte előtt kikerül a gondozásból, a kötelező gondozás ideje,
+
+g) a szülői szabadság ideje,
+
+h) az apasági szabadság ideje, és
+
+i) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 55. § (1) bekezdés l) pontja szerinti mentesülés ideje.
 
 (3) Ha az alkalmatlanság egészségügyi ok következménye, a szolgálati viszony csak akkor szüntethető meg, ha részére az egészségi állapotának és a 18. § (2) bekezdésében foglaltaknak megfelelő más munkakört nem ajánlottak fel, vagy a megfelelő új munkakört nem fogadta el.
 

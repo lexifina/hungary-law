@@ -4,14 +4,18 @@
 
 (2) Az (1) bekezdés szerinti igazolás
 
-a) a szolgálati viszony megszűnésének a jogcímét,
+a) a szolgálati viszony megszűnésének jogcímét,
 
 b) a szolgálati viszony kezdő és végső időpontját,
 
 c) az illetményből jogszerűen levonható tartozások összegét és jogcímét, valamint ezek jogosultját, illetve azt, hogy az igazságügyi alkalmazottnak nincs tartozása,
 
-d) a szolgálati viszony megszűnésének az évében igénybe vett betegszabadság napjainak a számát,
+d) a szolgálati viszony megszűnésének évében igénybe vett betegszabadság napjainak számát,
 
-e) a kifizetett végkielégítés összegét
+e) a kifizetett végkielégítés összegét,
+
+f) a szülői szabadságra jogosult igazságügyi alkalmazott esetében a kiadott, valamint a korábbi munkáltató által kiadott szülői szabadság tartamát,
+
+g) az apasági szabadságra jogosult igazságügyi alkalmazott esetében a kiadott, valamint a korábbi munkáltató által kiadott apasági szabadság tartamát
 
 tartalmazza.
