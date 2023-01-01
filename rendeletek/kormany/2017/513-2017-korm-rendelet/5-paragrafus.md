@@ -26,12 +26,16 @@ bb) hivatalból indult eljárásban az ügyintéző
 
 (1b)[^14] Az okirattár az iratokat az adott ügytől függően eredeti papíralapú, papíralapú hiteles másolat, továbbá elektronikus eredeti és elektronikus hiteles vagy az eljáró hatóság által hitelesített papíralapú vagy elektronikus másolat formátumban tartalmazza.
 
-(2) Az okmánytár a közlekedési igazgatással összefüggő jogok keletkezésével, módosulásával és megszűnésével kapcsolatos iratokat nyilvántartásba veszi, és a Kknyt.-ben meghatározott ideig kezeli.
+(1c)[^15] Az okirattár az adatlapot eredeti papíralapú vagy elektronikus eredeti formátumban tartalmazza.
 
-(3)[^15] Az okirattár a Nyilvántartónak megküldött rendszámtáblákat a beérkezésüktől számított egy évig őrzi meg, ezt követően az iratkezelési szabályoknak megfelelően selejtezi.
+(2)[^16] Az okirattár a közlekedési igazgatással összefüggő jogok keletkezésével, módosulásával és megszűnésével kapcsolatos iratokat nyilvántartásba veszi, és a Kknyt.-ben meghatározott ideig kezeli.
+
+(3)[^17] Az okirattár a Nyilvántartónak megküldött rendszámtáblákat a beérkezésüktől számított egy évig őrzi meg, ezt követően az iratkezelési szabályoknak megfelelően selejtezi.
 
 [^11]: A 3. alcím címe a 375/2021. (VI. 30.) Korm. rendelet 29. § f) pontja szerint módosított szöveg.
 [^12]: Az 5. § (1) bekezdés nyitó szövegrésze a 375/2021. (VI. 30.) Korm. rendelet 29. § g) pontja szerint módosított szöveg.
 [^13]: Az 5. § (1a) bekzdését a 375/2021. (VI. 30.) Korm. rendelet 27. § (4) bekezdése iktatta be.
 [^14]: Az 5. § (1b) bekzdését a 375/2021. (VI. 30.) Korm. rendelet 27. § (4) bekezdése iktatta be.
-[^15]: Az 5. § (3) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 29. § h) pontja szerint módosított szöveg.
+[^15]: Az 5. § (1c) bekezdését az 569/2022. (XII. 23.) Korm. rendelet 39. §-a iktatta be.
+[^16]: Az 5. § (2) bekezdése az 569/2022. (XII. 23.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
+[^17]: Az 5. § (3) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 29. § h) pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@
 
 ## A nyilatkozat nem érinti törvényben előírt adatok nyilvántartását és adatszolgáltatások teljesítését.
 
-3. melléklet az 513/2017. (XII. 29.) Korm. rendelethez[^19]
+3. melléklet az 513/2017. (XII. 29.) Korm. rendelethez[^27]
 
 A. A járműnyilvántartással kapcsolatos közlekedési igazgatási eljárások alapiratai
 
@@ -226,6 +226,8 @@ C. A vezetői engedély kiállítására irányuló eljárások alapiratai
 
 2.2. az illetékének megfizetését tanúsító igazolás eljáró hatóság által hitelesített példánya, ha az eljárásért illetéket kellett fizetni.
 
+2.3. a nem elektronikus úton tett nyilatkozat esetén a vezetői engedély elvesztéséről, eltulajdonításáról, megsemmisüléséről és a találásról készült jegyzőkönyv.
+
 3. Külföldi vezetői engedély cseréje esetén:
 
 3.1. a külföldi vezetői engedély eredeti példánya,
@@ -244,4 +246,10 @@ C. A vezetői engedély kiállítására irányuló eljárások alapiratai
 
 4.4. az eljárási díj megfizetését tanúsító igazolás eljáró hatóság által hitelesített példánya.
 
-[^19]: A 3. mellékletet a 375/2021. (VI. 30.) Korm. rendelet 28. §-a iktatta be, szövege a 251/2022. (VII. 13.) Korm. rendelet 2. § b) pontja, e) pontja és 3. §-a szerint módosított szöveg. [A 251/2022. (VII. 13.) Korm. rendelet 2. § a) pontjában foglalt módosítás, mely szerint a 3. melléklet B. pont 1. alpontjában az „A P betűjelű ideiglenes rendszámtábla és az ideiglenes forgalomban tartási engedély” szövegrész helyébe az „A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet (a továbbiakban: kormányrendelet) 63/A. § (2) bekezdés 7–11. pontja szerinti I betűjelű ideiglenes rendszámtábla és az ideiglenes forgalmi engedély” szöveg, a 2. § c) pontjában foglalt módosítás, mely szerint a 3. melléklet B. pont 4. alpontjában az „Az E betűjelű ideiglenes rendszámtábla és az ideiglenes forgalomban tartási engedély” szövegrész helyébe az „A kormányrendelet 63/A. § (2) bekezdés 1–5. pontja szerinti I betűjelű ideiglenes rendszámtábla és az ideiglenes forgalmi engedély” szöveg, valamint a 2. § d) pontjában foglalt módosítás, mely szerint a 3. melléklet B. pont 5. alpontjában az „ideiglenes forgalomban tartási engedély” szövegrész helyébe az „ideiglenes forgalmi engedély” szöveg lép, nem vezethető át.]
+5. PÁV kategória megszerzésének nyilvántartásban történő rögzítése esetén a PÁV határozat vagy PÁV alkalmassági vélemény, ha az a vizsgaközponttól nem érkezett meg elektronikus úton.
+
+6. Egyéb alapiratok:
+
+6.1. egyéb a nyilvántartásba történő bejegyzést megalapozó okirat elektronikus vagy eljáró hatóság által hitelesített példánya.
+
+[^27]: A 3. mellékletet a 375/2021. (VI. 30.) Korm. rendelet 28. §-a iktatta be, szövege a 251/2022. (VII. 13.) Korm. rendelet 2. § b) pontja, e) pontja és 3. §-a, az 569/2022. (XII. 23.) Korm. rendelet 42. §-a szerint módosított szöveg. [A 251/2022. (VII. 13.) Korm. rendelet 2. § a) pontjában foglalt módosítás, mely szerint a 3. melléklet B. pont 1. alpontjában az „A P betűjelű ideiglenes rendszámtábla és az ideiglenes forgalomban tartási engedély” szövegrész helyébe az „A közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet (a továbbiakban: kormányrendelet) 63/A. § (2) bekezdés 7–11. pontja szerinti I betűjelű ideiglenes rendszámtábla és az ideiglenes forgalmi engedély” szöveg, a 2. § c) pontjában foglalt módosítás, mely szerint a 3. melléklet B. pont 4. alpontjában az „Az E betűjelű ideiglenes rendszámtábla és az ideiglenes forgalomban tartási engedély” szövegrész helyébe az „A kormányrendelet 63/A. § (2) bekezdés 1–5. pontja szerinti I betűjelű ideiglenes rendszámtábla és az ideiglenes forgalmi engedély” szöveg, valamint a 2. § d) pontjában foglalt módosítás, mely szerint a 3. melléklet B. pont 5. alpontjában az „ideiglenes forgalomban tartási engedély” szövegrész helyébe az „ideiglenes forgalmi engedély” szöveg lép, nem vezethető át.]

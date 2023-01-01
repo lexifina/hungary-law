@@ -4,16 +4,18 @@
 
 (2) A Kormány által rendeletben kijelölt adatigénylő szervek eseti jelleggel egyedi adatszolgáltatási kérelmet nyújthatnak be a Nyilvántartóhoz.
 
-(3) Csoportképző ismérvek szerinti adatszolgáltatás iránti kérelmet a Nyilvántartóhoz lehet benyújtani.
+(3)[^18] Csoportos adatszolgáltatás iránti kérelmet a Nyilvántartóhoz lehet benyújtani.
 
-(4)[^16]
+(4)[^19]
 
 (5) A kérelmező az adat igénylésekor azt a tényt vagy eseményt köteles megjelölni, amely az adatfelhasználási cél alapját képező – az érintett és közötte fennálló – kapcsolatot hitelt érdemlően igazolja.
 
 (6) A kérelmező az általa megjelölt személy, személyi kör kapcsolatfelvétel céljából történő megkeresését a Nyilvántartótól igényelheti.
 
-(7) A kérelmet személyesen vagy meghatalmazott képviselő útján vagy postai úton írásban lehet benyújtani, illetve az adatszolgáltatás közvetlen hozzáféréssel is igényelhető.
+(7)[^20]
 
 (8) A kérelemnek tartalmaznia kell az 1. melléklet szerinti adatokat.
 
-[^16]: A 6. § (4) bekezdését a 31/2020. (II. 29.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^18]: A 6. § (3) bekezdése az 569/2022. (XII. 23.) Korm. rendelet 43. § b) pontja szerint módosított szöveg.
+[^19]: A 6. § (4) bekezdését a 31/2020. (II. 29.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^20]: A 6. § (7) bekezdését az 569/2022. (XII. 23.) Korm. rendelet 44. §-a hatályon kívül helyezte.
