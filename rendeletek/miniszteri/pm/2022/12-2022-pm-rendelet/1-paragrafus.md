@@ -1,0 +1,1 @@
+1. § Az eljárási illetékek megfizetésének és a megfizetés ellenőrzésének részletes szabályairól szóló 44/2004. (XII. 20.) PM rendelet 1. § (1) bekezdés a) pontjában és 7. § (5a) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg lép.
