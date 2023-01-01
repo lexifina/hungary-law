@@ -1,48 +1,46 @@
-## A telepengedélyezési eljárásban kizárás esetén másodfokon eljáró kormányhivatalok
-
 |  | A | B |
 
-|  | A telephely fekvése | A telepengedély kiadása iránti eljárásban másodfokú hatóságként eljáró fővárosi és megyei kormányhivatal |
+|  | A telephely fekvése | A telepengedély kiadása iránti eljárásban másodfokú hatóságként eljáró fővárosi és vármegyei kormányhivatal |
 
-| 1. | Budapest főváros | Komárom-Esztergom Megyei Kormányhivatal |
+| 1. | Budapest főváros | Komárom-Esztergom Vármegyei Kormányhivatal |
 
-| 2. | Pest megye | Komárom-Esztergom Megyei Kormányhivatal |
+| 2. | Pest vármegye | Komárom-Esztergom Vármegyei Kormányhivatal |
 
-| 3. | Bács-Kiskun megye | Tolna Megyei Kormányhivatal |
+| 3. | Bács-Kiskun vármegye | Tolna Vármegyei Kormányhivatal |
 
-| 4. | Baranya megye | Somogy Megyei Kormányhivatal |
+| 4. | Baranya vármegye | Somogy Vármegyei Kormányhivatal |
 
-| 5. | Békés megye | Bács-Kiskun Megyei Kormányhivatal |
+| 5. | Békés vármegye | Bács-Kiskun Vármegyei Kormányhivatal |
 
-| 6. | Borsod-Abaúj-Zemplén megye | Heves Megyei Kormányhivatal |
+| 6. | Borsod-Abaúj-Zemplén vármegye | Heves Vármegyei Kormányhivatal |
 
-| 7. | Csongrád-Csanád megye | Békés Megyei Kormányhivatal |
+| 7. | Csongrád-Csanád vármegye | Békés Vármegyei Kormányhivatal |
 
-| 8. | Fejér megye | Veszprém Megyei Kormányhivatal |
+| 8. | Fejér vármegye | Veszprém Vármegyei Kormányhivatal |
 
-| 9. | Győr-Moson-Sopron megye | Veszprém Megyei Kormányhivatal |
+| 9. | Győr-Moson-Sopron vármegye | Veszprém Vármegyei Kormányhivatal |
 
-| 10. | Hajdú-Bihar megye | Heves Megyei Kormányhivatal |
+| 10. | Hajdú-Bihar vármegye | Heves Vármegyei Kormányhivatal |
 
-| 11. | Heves megye | Nógrád Megyei Kormányhivatal |
+| 11. | Heves vármegye | Nógrád Vármegyei Kormányhivatal |
 
-| 12. | Jász-Nagykun-Szolnok megye | Bács-Kiskun Megyei Kormányhivatal |
+| 12. | Jász-Nagykun-Szolnok vármegye | Bács-Kiskun Vármegyei Kormányhivatal |
 
-| 13. | Komárom-Esztergom megye | Veszprém Megyei Kormányhivatal |
+| 13. | Komárom-Esztergom vármegye | Veszprém Vármegyei Kormányhivatal |
 
-| 14. | Nógrád megye | Heves Megyei Kormányhivatal |
+| 14. | Nógrád vármegye | Heves Vármegyei Kormányhivatal |
 
-| 15. | Somogy megye | Tolna Megyei Kormányhivatal |
+| 15. | Somogy vármegye | Tolna Vármegyei Kormányhivatal |
 
-| 16. | Szabolcs-Szatmár-Bereg megye | Heves Megyei Kormányhivatal |
+| 16. | Szabolcs-Szatmár-Bereg vármegye | Heves Vármegyei Kormányhivatal |
 
-| 17. | Tolna megye | Somogy Megyei Kormányhivatal |
+| 17. | Tolna vármegye | Somogy Vármegyei Kormányhivatal |
 
-| 18. | Vas megye | Zala Megyei Kormányhivatal |
+| 18. | Vas vármegye | Zala Vármegyei Kormányhivatal |
 
-| 19. | Veszprém megye | Komárom-Esztergom Megyei Kormányhivatal |
+| 19. | Veszprém vármegye | Komárom-Esztergom Vármegyei Kormányhivatal |
 
-| 20. | Zala megye | Somogy Megyei Kormányhivatal |
+| 20. | Zala vármegye | Somogy Vármegyei Kormányhivatal |
 
 6. melléklet az 57/2013. (II. 27.) Korm. rendelethez
 

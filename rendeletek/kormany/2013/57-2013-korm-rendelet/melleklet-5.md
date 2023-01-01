@@ -1,6 +1,6 @@
-5. melléklet az 57/2013. (II. 27.) Korm. rendelethez[^23]
+5. melléklet az 57/2013. (II. 27.) Korm. rendelethez[^24]
 
-## Tűzvédelmi hatóság ellenőrzéséhez, illetve szakhatósági állásfoglalásához kötött tevékenységek
+Tűzvédelmi hatóság ellenőrzéséhez, illetve szakhatósági állásfoglalásához kötött tevékenységek
 
 I. Szakhatósági állásfoglaláshoz kötött tevékenységek
 
@@ -94,4 +94,4 @@ II. Ellenőrzéshez kötött tevékenységek
 
 29. textil, szőrme mosása, tisztítása
 
-[^23]: Az 5. melléklet a 441/2015. (XII. 28.) Korm. rendelet 192. § c) pontjával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^24]: Az 5. melléklet a 441/2015. (XII. 28.) Korm. rendelet 192. § c) pontjával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

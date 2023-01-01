@@ -1,6 +1,6 @@
-1. melléklet az 57/2013. (II. 27.) Korm. rendelethez[^19]
+1. melléklet az 57/2013. (II. 27.) Korm. rendelethez[^20]
 
-## Bejelentés-köteles tevékenységek
+Bejelentés-köteles tevékenységek
 
 1. alsóruházat gyártása
 
@@ -238,4 +238,4 @@
 
 118. nem közművel összegyűjtött háztartási szennyvíz szállítása
 
-[^19]: Az 1. melléklet a 441/2015. (XII. 28.) Korm. rendelet 192. § a) pontjával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^20]: Az 1. melléklet a 441/2015. (XII. 28.) Korm. rendelet 192. § a) pontjával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
