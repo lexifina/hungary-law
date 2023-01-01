@@ -22,8 +22,8 @@ d) az ügyfél nevét és utolsó ismert lakcímét, valamint székhelyét, adó
 
 e) azt a figyelemfelhívást, hogy a vámhatóság az ügyben döntést hozott, de annak kézbesítése meghiúsult, ezért az ügyfél vagy meghatalmazottja a még véglegessé nem vált döntést a vámhatóság szervénél átveheti.
 
-(3) A hirdetményt a vámhatóság hirdetőtáblájára ki kell függeszteni, és a vámhatóság elektronikus tájékoztatásra szolgáló honlapján közzé kell tenni.
+(3) A hirdetményt a vámhatóság 15 napra közzéteszi az elektronikus tájékoztatásra szolgáló honlapján.
 
-(4) A hirdetmény vámhatóság hirdetőtábláján való kifüggesztésének és elektronikus tájékoztatásra szolgáló honlapján való megjelentetésének azonos napon kell megtörténnie. A hirdetményi közléshez kapcsolódó határidők számításánál a hirdetménynek a vámhatóság hirdetőtábláján való kifüggesztését kell alapul venni. Hirdetményi közlés esetén a hirdetmény vámhatósági hirdetőtábláján való kifüggesztésének és levételének napját az iraton meg kell jelölni, az internetes honlapon történő közzététel idejét pedig visszakereshető módon dokumentálni kell.
+(4) A hirdetményi közléshez kapcsolódó határidők számításánál a hirdetménynek a vámhatóság honlapján történő közzététel napját kell alapul venni. Hirdetményi közlés esetén, az internetes honlapon történő közzététel idejét visszakereshető módon dokumentálni kell.
 
 (5) Ha a hirdetményi úton történő közlés feltételei már nem állnak fenn, a vámhatóság haladéktalanul gondoskodik a hirdetmény eltávolításáról, és a kapcsolattartás általános szabályai szerint felveszi a kapcsolatot az ügyféllel.
