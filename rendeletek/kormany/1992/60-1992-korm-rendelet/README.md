@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-60-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2010-01-01 | 1992-60-20-22.5 | 60/1992. (IV. 1.) Korm. rendelet |
+| 2023-01-01 | 1992-60-20-22.6 | 616/2022. (XII. 29.) Korm. rendelet |

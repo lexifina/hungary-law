@@ -12,7 +12,7 @@
 
 | e) 3001 cm3 felett | 13,3 liter/100 kilométer. |
 
-(3)[^6] A gázolajüzemű személygépkocsi alapnorma-átalány mértéke a beépített motor hengerűrtartalma szerint:
+(3) [^6] A gázolajüzemű személygépkocsi alapnorma-átalány mértéke a beépített motor hengerűrtartalma szerint:
 
 | a) 1500 cm3-ig | 5,7 liter/100 kilométer, |
 
@@ -30,7 +30,7 @@ b) földgáz (CNG, LNG) üzem esetén 0,8 (Nm3/liter) értékű
 
 módosító tényező szorzataként kell megállapítani.
 
-(5)[^7] A segédmotoros kerékpár és a motorkerékpár alapnorma-átalány mértéke a beépített motor hengerűrtartalma szerint:
+(5) [^7] A segédmotoros kerékpár és a motorkerékpár alapnorma-átalány mértéke a beépített motor hengerűrtartalma szerint:
 
 | a) segédmotoros kerékpár: | 3,0 liter/100 km, |
 
