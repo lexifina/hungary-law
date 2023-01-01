@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-332-20-
 | 2013-08-01 | 2007-332-20-22.11 | 297/2013. (VII. 29.) Korm. rendelet |
 | 2016-12-17 | 2007-332-20-22.12 | 118/2008. (V. 8.) Korm. rendelet |
 | 2017-03-21 | 2007-332-20-22.13 | 55/2017. (III. 20.) Korm. rendelet |
+| 2023-01-01 | 2007-332-20-22.14 | 616/2022. (XII. 29.) Korm. rendelet |
