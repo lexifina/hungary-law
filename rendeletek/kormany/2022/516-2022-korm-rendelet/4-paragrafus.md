@@ -1,0 +1,3 @@
+4. § Az R. a következő 48. §-sal egészül ki:
+
+„48. § E rendeletnek a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény végrehajtásáról szóló 231/2019. (X. 4.) Korm. rendelet módosításáról szóló 516/2022. (XII. 13.) Korm. rendelettel (a továbbiakban: Módr.) módosított 28. § (1) bekezdés d) pontját, 30. § (4) bekezdését, valamint megállapított 28. § (1) bekezdés b) pont ba) alpontját és c) pontját, 28/A–28/G. §-át, 30. § (5) bekezdését és 6. mellékletét a Módr. hatálybalépését követően nyújtott támogatások vonatkozásában kell alkalmazni.”

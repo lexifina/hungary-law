@@ -1,0 +1,3 @@
+3. § Az R. 30. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Az (1) bekezdés szerinti támogatás esetén, amennyiben a támogató az Áht. 50/A. §-a szerinti biztosíték kikötésétől az Ávr. 84. § (1) bekezdése alapján nem tekint el, úgy az Ávr. 85. §-ától eltérően a fenntartási időszakra biztosítékként kizárólag a kedvezményezett – jogszabály alapján beszedési megbízással megterhelhető – fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozata írható elő, a követelés legfeljebb harmincöt napra való sorba állítására vonatkozó rendelkezéssel együtt.”
