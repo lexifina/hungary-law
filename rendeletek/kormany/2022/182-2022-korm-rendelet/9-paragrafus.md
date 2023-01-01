@@ -34,6 +34,10 @@
 
 16. minősített adatok védelmének szakmai felügyeletéért
 
+17.[^2] útdíjfizetési-szolgáltatásért
+
 felelős tagja.
 
 (2) A Kormány a Kit. 13/A. § (4) bekezdése szerinti miniszterként a minisztert jelöli ki.
+
+[^2]: A 9. § (1) bekezdés 17. pontját az 579/2022. (XII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.

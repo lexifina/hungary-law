@@ -1,4 +1,4 @@
-111/B. §[^22] (1) A miniszter a foglalkoztatáspolitikáért való felelőssége keretében előkészíti
+111/B. §[^35] (1) A miniszter a foglalkoztatáspolitikáért való felelőssége keretében előkészíti
 
 a) – a mezőgazdasági foglalkoztatás tekintetében az agrárpolitikáért felelős miniszter együttműködésével – a munkaviszonyra, a közalkalmazotti jogviszonyra,
 
@@ -46,4 +46,4 @@ h) részt vesz a Kormány elosztás- és jövedelempolitikai koncepciójának ki
 
 i) képviseli a Kormányt a Nemzetközi Munkaügyi Szervezetben.
 
-[^22]: A 111/B. §-t a 467/2022. (XI. 21.) Korm. rendelet 6. §-a iktatta be.
+[^35]: A 111/B. §-t a 467/2022. (XI. 21.) Korm. rendelet 6. §-a iktatta be.

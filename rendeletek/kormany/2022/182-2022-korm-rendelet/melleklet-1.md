@@ -1,4 +1,4 @@
-1. melléklet a 182/2022. (V. 24.) Korm. rendelethez[^60]
+1. melléklet a 182/2022. (V. 24.) Korm. rendelethez[^73]
 
 A Kormány tagja által irányított vagy felügyelt központi államigazgatási szervek, valamint területi kormányzati igazgatási szervek
 
@@ -42,7 +42,7 @@ C) Miniszterelnökséget vezető miniszter
 
 | 1 | A szerv neve | A miniszter hatásköre |
 
-| 2 | Fővárosi és megyei kormányhivatalok | irányítás |
+| 2 | Fővárosi és vármegyei kormányhivatalok | irányítás |
 
 D) Agrárminiszter
 
@@ -134,7 +134,7 @@ J) Pénzügyminiszter
 
 | 1 | A szerv neve | A miniszter hatásköre |
 
-| 2 | Európai Támogatásokat Auditáló Főigazgatóság | irányítás |
+| 2 |  |  |
 
 | 3 | Magyar Államkincstár | irányítás |
 
@@ -158,4 +158,4 @@ L) Gazdaságfejlesztési miniszter
 
 | 2 | Nemzeti Akkreditáló Hatóság | irányítás |
 
-[^60]: Az 1. melléklet a 238/2022. (VI. 30.) Korm. rendelet 221. § (1) bekezdése és (3) bekezdés d) pontja, a 337/2022. (IX. 7.) Korm. rendelet 9. §-a, a 467/2022. (XI. 21.) Korm. rendelet 15. §-a, 16. § (2) bekezdés f) pontja és 17. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^73]: Az 1. melléklet a 238/2022. (VI. 30.) Korm. rendelet 221. § (1) bekezdése és (3) bekezdés d) pontja, a 337/2022. (IX. 7.) Korm. rendelet 9. §-a, a 410/2022. (X. 24.) Korm. rendelet 18. § a) pontja, a 615/2022. (XII. 29.) Korm. rendelet 20. §- szerint módosított szöveg.

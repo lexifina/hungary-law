@@ -1,3 +1,3 @@
-175. §[^42]
+175. §[^55]
 
-[^42]: A 175. §-t a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés f) pontja hatályon kívül helyezte.
+[^55]: A 175. §-t a 467/2022. (XI. 21.) Korm. rendelet 17. § (1) bekezdés f) pontja hatályon kívül helyezte.
