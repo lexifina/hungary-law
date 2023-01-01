@@ -10,10 +10,10 @@ a) haladéktalanul értesíti a bíróságot
 
 b) amennyiben a pénzügyi és vagyoni korlátozó intézkedés vonatkozásában azt ENSZ BT határozat előírja, haladéktalanul tájékoztatja – a külpolitikáért felelős miniszter útján – az ENSZ BT illetékeseit, továbbá
 
-c) értesíti az adópolitikáért felelős minisztert.
+c) értesíti a minisztert.
 
 (5) A mentesítésről a bíróság a Vht. rendelkezései alapján nemperes eljárásban a kérelem beérkezésétől számított hatvan napon belül – a zárlatot elrendelő korábbi végzésére is tekintettel – végzéssel dönt.
 
-(6) A bíróság a végzését kézbesíti a hatóságnak és az adópolitikáért felelős miniszternek, továbbá a zárlat feloldása esetén az állami adó- és vámhatóságnak is.
+(6) A bíróság a végzését kézbesíti a hatóságnak és a miniszternek, továbbá a zárlat feloldása esetén az állami adó- és vámhatóságnak is.
 
-(7) Az adópolitikáért felelős miniszter az uniós jogi aktusoknak megfelelően tájékoztatja az Európai Unió többi tagállamát és illetékes intézményeit.
+(7) A miniszter az uniós jogi aktusoknak megfelelően tájékoztatja az Európai Unió többi tagállamát és illetékes intézményeit.

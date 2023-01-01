@@ -12,6 +12,6 @@
 
 (6) Ha a pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításáért felelős szerv az (5) bekezdésben előírt határidőn belül nem hoz döntést, az engedélyt megadottnak kell tekinteni.
 
-(7) A pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításáért felelős szerv az általa kiadott előzetes engedélyekről tájékoztatja az adópolitikáért felelős minisztert, aki az uniós jogi aktusoknak megfelelően tájékoztatja az Európai Unió többi tagállamát és illetékes intézményeit.
+(7) A pénzeszközök átutalására vonatkozó korlátozó intézkedés foganatosításáért felelős szerv az általa kiadott előzetes engedélyekről tájékoztatja a minisztert, aki az uniós jogi aktusoknak megfelelően tájékoztatja az Európai Unió többi tagállamát és illetékes intézményeit.
 
 (8) Ha az uniós jogi aktus, illetve az ENSZ BT határozat pénzeszközök átutalására vonatkozó korlátozó intézkedést rendel el, az (1) bekezdés szerinti szolgáltató köteles a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben foglalt ügyfél-átvilágítási és nyilvántartási kötelezettségének eleget tenni, továbbá a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben rögzített bejelentési kötelezettségét proliferáció-finanszírozásra utaló adat, tény, körülmény felmerülése esetén is köteles az ott meghatározott szabályok szerint teljesíteni.

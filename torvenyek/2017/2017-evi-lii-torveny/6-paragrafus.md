@@ -10,4 +10,4 @@ arról az (1) bekezdésben meghatározott módon értesíti a hatóságot.
 
 (3) Az (1) bekezdés szerinti zárlatot a pénzügyi és vagyoni korlátozó intézkedés alanyával szemben, a pénzügyi és vagyoni korlátozó intézkedés hatálya alá tartozó befagyasztandó vagyonra kell elrendelni. A zárlat végrehajtása az Avt. alapján az állami adó- és vámhatóság feladata.
 
-(4) Az állami adó- és vámhatóság a pénzügyi és vagyoni korlátozó intézkedés végrehajtásáról, illetve a végrehajtás befejezéséről három munkanapon belül értesíti a hatóságot, a bíróságot, továbbá az adópolitikáért felelős minisztert.
+(4) Az állami adó- és vámhatóság a pénzügyi és vagyoni korlátozó intézkedés végrehajtásáról, illetve a végrehajtás befejezéséről három munkanapon belül értesíti a hatóságot, a bíróságot, továbbá a minisztert.

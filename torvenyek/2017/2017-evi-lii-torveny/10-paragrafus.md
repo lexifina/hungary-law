@@ -1,1 +1,1 @@
-10. § Az Európai Unió többi tagállama és illetékes intézményei felé a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktusban a végrehajtott intézkedésekről és egyéb körülményekről előírt tájékoztatást az adópolitikáért felelős miniszter teljesíti.
+10. § Az Európai Unió többi tagállama és illetékes intézményei felé a pénzügyi és vagyoni korlátozó intézkedést elrendelő uniós jogi aktusban a végrehajtott intézkedésekről és egyéb körülményekről előírt tájékoztatást a miniszter teljesíti.

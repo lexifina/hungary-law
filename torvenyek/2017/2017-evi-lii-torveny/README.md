@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-52-00-00
 | 2020-01-01 | 2019. évi LXXXI. törvény | 2017-52-00-00.5 |
 | 2020-01-10 | 2019. évi CXIX. törvény | 2017-52-00-00.6 |
 | 2021-10-01 | 2021. évi XXXII. törvény | 2017-52-00-00.7 |
+| 2023-01-01 | 2022. évi LXVIII. törvény | 2017-52-00-00.8 |

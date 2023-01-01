@@ -6,7 +6,7 @@ b) a vagyon fekvése szerint illetékes törvényszéket (a továbbiakban: bír�
 
 c) az illetékes cégbíróságot,
 
-d) az adópolitikáért felelős minisztert, valamint
+d) a pénz-, tőke- és biztosítási piac szabályozásáért felelős minisztert (a továbbiakban: miniszter), valamint
 
 e) az adott vagyoni nyilvántartást vezető illetékes szervet, ha a pénzügyi és vagyoni korlátozó intézkedés alanya vagyoni nyilvántartásban nyilvántartott vagyonnal rendelkezik.
 
