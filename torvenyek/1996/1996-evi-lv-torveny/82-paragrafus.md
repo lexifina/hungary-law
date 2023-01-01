@@ -11,3 +11,5 @@
 (3) A tevékenység végzésétől történő eltiltás legfeljebb öt vadászati évre rendelhető el.
 
 (4) Figyelmeztetés nem alkalmazható közigazgatási szankcióként a 83. § (1) bekezdésében, valamint a 84. § (1) bekezdésében meghatározott esetekben.
+
+(5) A vadászati hatóság az e § alapján kiszabott bírságfizetési kötelezettségének teljesítése érdekében a bírság megfizetésére a végrehajtás elrendelése előtt a kötelezett kérelmére fizetési halasztást vagy részletekben történő teljesítést engedélyezhet, amennyiben a fizetési nehézség a kérelmezőnek nem róható fel, vagy annak elkerülése érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.

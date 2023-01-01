@@ -1,6 +1,8 @@
 ## A miniszter feladatai és hatásköre
 
-90. § (1)–(2)
+90. § (1)
+
+(2)
 
 (3) A miniszter a vadgazdálkodással, a vad, valamint élőhelyének védelmével, továbbá a vadászattal összefüggő irányítási, valamint szabályozási feladatkörében:
 

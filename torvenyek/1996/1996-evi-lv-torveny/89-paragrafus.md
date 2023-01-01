@@ -10,7 +10,13 @@ d) a vadat veszélyeztető, vagy annak számító tevékenység abbahagyását, 
 
 e) a vadállomány egészségi állapotát veszélyeztető beteg, sérült vagy elhullott vad elszállítását elrendelni;
 
-f)–i)
+f)
+
+g)
+
+h)
+
+i)
 
 (2) A vadászati hatósági feladatokat ellátó személy a szolgálati lőfegyverét előzetes felszólítás és figyelmeztető lövés leadása után, az életet vagy testi épséget közvetlenül fenyegető támadás elhárítására – ha a támadás másként nem hárítható el, az elkövető személlyel szemben az arányosság követelményeinek betartásával – használhatja. A fegyverhasználat nem lépheti túl a jogos védelem mértékét. Fegyverhasználatnak csak a szándékosan személyre leadott lövés minősül, nem minősül fegyverhasználatnak a véletlenül bekövetkezett, az állatra, a tárgyra leadott lövés vagy figyelmeztető lövés. A fegyverhasználatot haladéktalanul jelenteni kell a rendőrségnek. A fegyverhasználat jogszerűségét a rendőrség vizsgálja ki.
 
