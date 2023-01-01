@@ -10,6 +10,8 @@
 
 (4a) A meghatalmazás hatálya – ha a meghatalmazásból más nem tűnik ki – a büntetőeljárás jogerős befejezését követően kiterjed azon eljárásokra, amelyek a végrehajtás körében az alapügyben eljárt bíróság hatáskörébe tartoznak, valamint a büntetés-végrehajtási ügyre. Letartóztatott vagy előzetes kényszergyógykezelt esetében a büntetőeljárásban adott meghatalmazás vagy kirendelés hatálya kiterjed a büntetés-végrehajtási ügyre is.
 
+(4b) Ha az elítélt vagy az egyéb jogcímen fogvatartott érdekében több védő jár el, az elítéltet vagy az egyéb jogcímen fogvatartottat nyilatkoztatni kell arról, hogy kit jelöl meg vezető védőként. Nyilatkozat hiányában vezető védőként a bv. intézet a meghatalmazást elsőként benyújtó védőt jelöli ki. A hivatalos iratokat a vezető védőnek kell kézbesíteni.
+
 (5) A fogvatartással kapcsolatos ügyben az elítélt vagy az egyéb jogcímen fogvatartott képviselőt hatalmazhat meg, akinek a képviseleti jogosultságát igazolni kell. A képviselő tevékenysége nem sértheti vagy veszélyeztetheti a fogvatartás biztonságát, illetve a végrehajtás rendjét. Nem járhat el képviselőként, akit a rendelkezési jogkör gyakorlója vagy a végrehajtásért felelős szerv vezetője a fogvatartottal való kapcsolattartásból kizárt.
 
 (5a) Ha a védő, illetve a képviselő magatartása súlyosan sérti vagy veszélyezteti a fogvatartás biztonságát vagy a végrehajtás rendjét, a végrehajtásért felelős szerv vezetője a védőt, illetve a képviselőt indokolt határozattal az elítélttel vagy az egyéb jogcímen fogvatartottal való kapcsolattartásból kizárja. Az elítélt vagy az egyéb jogcímen fogvatartott és a védő, illetve a képviselő a határozat ellen bírósági felülvizsgálati kérelmet nyújthat be.

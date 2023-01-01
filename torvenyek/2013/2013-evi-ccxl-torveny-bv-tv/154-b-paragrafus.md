@@ -1,0 +1,1 @@
+154/B. § A bv. szerv a bv. intézet területén található engedély nélkül tartott elektronikus hírközlő eszköz vagy információs rendszer azonosítására, hollétének a megállapítására és használatának korlátozására szolgáló eszközt alkalmazhat.

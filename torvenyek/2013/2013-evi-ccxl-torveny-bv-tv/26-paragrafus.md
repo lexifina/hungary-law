@@ -4,7 +4,7 @@
 
 (2) Aki az (1) bekezdés szerint az iratokat megismerheti, azokba betekinthet, azokról feljegyzést készíthet, valamint – jogszabály eltérő rendelkezése hiányában – saját költségén másolat kiadását kérheti. A minősített adatot tartalmazó irat megismerésére a Be. 105–106. §-át értelemszerűen alkalmazni kell.
 
-(3) Az iratokról a végrehajtásért felelős szerv a kérelem előterjesztésétől számított nyolc munkanapon belül másolatot ad ki. Az iratban keltezéssel fel kell jegyezni, hogy mely iratról, kinek a részére, hány példányban készült másolat. Ha az irat elektronikus okiratként, papíralapú okirat elektronikus másolataként vagy elektronikus formában rendelkezésre áll, a megismerésére jogosult kérheti a másolat elektronikus úton vagy elektronikus adathordozón való kiadását.
+(3) Az iratokról a végrehajtásért felelős szerv a kérelem előterjesztésétől számított nyolc munkanapon belül másolatot ad ki. Az iratban fel kell jegyezni, vagy a fogvatartotti nyilvántartásban, illetve a belső elektronikus ügykezelő rendszerben rögzíteni kell, hogy mely iratról, mely időpontban, kinek a részére, hány példányban készült másolat. Ha az irat elektronikus okiratként, papíralapú okirat elektronikus másolataként vagy elektronikus formában rendelkezésre áll, a megismerésére jogosult kérheti a másolat elektronikus úton vagy elektronikus adathordozón való kiadását.
 
 (3a) Az irat akkor áll elektronikus formában rendelkezésre, ha a bíróság, az ügyészség, illetve a végrehajtásért felelős szerv a papíralapú iratot információs rendszer alkalmazásával szerkesztette meg.
 

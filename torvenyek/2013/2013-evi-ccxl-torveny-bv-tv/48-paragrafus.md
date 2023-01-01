@@ -10,6 +10,6 @@ b) a Btk. 92–92/B. §-a szerinti beszámítás alapján az elítélt a szabads
 
 (4) A büntetés-végrehajtási bíró a hibás formában vagy tartalommal kiállított értesítőlap kijavítását saját hatáskörben elvégezheti.
 
-(5) Elzárás, közérdekű munka helyébe lépő szabadságvesztés és pénzbüntetés helyébe lépő szabadságvesztés esetén, ha az elítélt szabadlábon van, a büntetés végrehajtásának megkezdésére szóló felhívást a büntetés-végrehajtási bíró adja ki.
+(5) Közérdekű munka helyébe lépő szabadságvesztés és pénzbüntetés helyébe lépő szabadságvesztés esetén, ha az elítélt szabadlábon van, a büntetés végrehajtásának megkezdésére szóló felhívást a büntetés-végrehajtási bíró adja ki.
 
 (6) A büntetés-végrehajtási bíró a büntetés-végrehajtás során az általa lefolytatott eljárásokban hivatalból vizsgálja a büntetés vagy az intézkedés végrehajtásának törvényi akadályát, és annak fennállását – a 27. § (1) bekezdés a) és c) pontja kivételével – határozattal állapítja meg.

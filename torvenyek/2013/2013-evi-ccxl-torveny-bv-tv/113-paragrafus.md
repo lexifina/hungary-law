@@ -26,4 +26,6 @@ idézik.
 
 (6) Ha az elítélt az előállítás költségeit nem tudja megelőlegezni, az intézet tájékoztatja, hogy közigazgatási hatósági ügyben költségmentesség engedélyezését, polgári ügyben a polgári perrendtartás szabályai szerint költségmentesség, költségfeljegyzési jog engedélyezését, illetve pártfogó ügyvéd kirendelését kérheti. Az intézet az előállítás költségeit az elítélt írásbeli kérelmére kivételesen megelőlegezheti, ha a kérelemben a költségek visszafizetését vállalja.
 
+(6a) A (3)–(5) bekezdésben meghatározott esetben, továbbá ha az elítélt az előállítás költségeit nem tudja megelőlegezni, és azt kellő időben kezdeményezi, a bv. intézet az elítélt meghallgatását elektronikus hírközlő hálózat, illetve telekommunikációs eszköz útján biztosítja, ha a személyes jelenlét ily módon történő biztosításáról az eljáró bíróság vagy hatóság rendelkezett, és az a tárgyalásra vagy meghallgatásra kitűzött határnapon technikailag kivitelezhető.
+
 (7) A bírósági ügyekben való előállításra vonatkozó szabályokat a közjegyzői eljárásra is megfelelően alkalmazni kell.

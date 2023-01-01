@@ -4,7 +4,7 @@
 
 a) egy naptári évben kilencven napig terjedő időtartamra a parancsnok,
 
-b) az a) pontban szabályozottnál hosszabb időre, de legfeljebb egyévi időtartamra az országos parancsnok
+b) az a) pontban szabályozottnál hosszabb időre, de legfeljebb egyévi időtartamra az agglomerációs központ vezetője
 
 dönt.
 

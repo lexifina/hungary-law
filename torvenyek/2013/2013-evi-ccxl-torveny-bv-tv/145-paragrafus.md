@@ -1,6 +1,6 @@
 ## A végrehajtás rendjének és a fogvatartás biztonságának fenntartása
 
-145. § (1) Az elítélttel szemben alkalmazható biztonsági intézkedések:
+145. § (1) Az elítélttel szemben a végrehajtás rendjének megőrzése és a fogvatartás biztonságának fenntartása érdekében a következő biztonsági intézkedések alkalmazhatók
 
 a) biztonsági elkülönítés,
 
@@ -19,6 +19,8 @@ g) biztonsági ellenőrzés, biztonsági vizsgálat és biztonsági szemle,
 h) az ajtók zárva tartásának elrendelése,
 
 i) egyes jogok gyakorlásának felfüggesztése.
+
+j) az engedély nélkül tartott elektronikus hírközlő eszköz vagy információs rendszer felkutatása és használatának korlátozása érdekében alkalmazott eszköz.
 
 (2) Az (1) bekezdés a)–d) pontjában meghatározott biztonsági intézkedések egyéni kockázatelemzés alapján alkalmazhatók.
 

@@ -1,4 +1,4 @@
-250. § (1) Az elrendelhető rendkívüli munkaidő felső határa havonta tizenhat óra, két egymást követő napon – e korlátozás nem vonatkozik a heti pihenőnapon és a munkaszüneti napon végzett munkára – összesen négy óra.
+250. § (1) Az elrendelhető rendkívüli munkaidő felső határa havonta húsz, az elítélt hozzájárulásával további tizenkét óra, két egymást követő napon – e korlátozás nem vonatkozik a heti pihenőnapon és a munkaszüneti napon végzett munkára – összesen négy óra.
 
 (2) Az (1) bekezdésben foglaltakat arányosan kell alkalmazni, ha
 

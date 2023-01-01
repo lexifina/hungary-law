@@ -1,11 +1,13 @@
-141. § (1) Az elítélt a fogvatartásával összefüggő ügyben írásban, kérelemmel fordulhat a büntetés-végrehajtási szervezet ügyintézésre jogosult tagjához.
+141. § (1) Az elítélt az e törvényben szabályozott, fogvatartásával összefüggő ügyben kérelemmel fordulhat a bv. intézet szervezeti egységének vezetőjéhez.
 
-(2) Az elítélt személyes meghallgatást kérhet a bv. intézet parancsnokától, a bv. intézet szervezeti egységének a vezetőjétől. Az elítélt a bv. intézet parancsnokához írásban, közvetlenül is fordulhat.
+(2) A döntést a bv. intézet parancsnoka által meghatározott esetben az általa kijelölt bizottság jogosult meghozni.
 
-(3) Az elítélt kérelmét a fogvatartotti nyilvántartásban rögzíteni kell, és a bv. intézet által kezelt iratokhoz kell csatolni.
+(3) Az elítélt személyes meghallgatást kérhet a bv. intézet szervezeti egységének a vezetőjétől. Az elítélt a bv. intézet parancsnokához írásban, közvetlenül is fordulhat.
 
-(4) A kérelemnek helyt adó döntésről az elítélt szóban is tájékoztatható.
+(4) Az elítélt kérelmét a fogvatartotti nyilvántartásban rögzíteni kell.
 
-(5) A döntés lényegét és a közlés időpontját a nyilvántartásban rögzíteni kell, ezzel egyidejűleg az írásba foglalt döntést az elítélt számára át kell adni.
+(5) A 20. § (9) bekezdésében meghatározottakon túl érdemi vizsgálat nélkül el lehet utasítani azt a kérelmet, amelyet nem 140. § (2) bekezdésében foglaltak szerint nyújtottak be.
 
-(6) Ha az elítélt az (5) bekezdés szerinti irat átvételét megtagadja, akkor annak tényét az iraton fel kell tüntetni, vagy azt jegyzőkönyvbe kell foglalni.
+(6) A döntés lényegét és a közlés időpontját a fogvatartotti nyilvántartásban rögzíteni kell, ezzel egyidejűleg az írásba foglalt döntést az elítélt részére át kell adni vagy a 17/A. § (1a) bekezdésében foglaltaknak megfelelően kézbesíteni kell. Az elítélt eltérő nyilatkozata hiányában a kérelemnek helyt adó döntésről az elítélt szóban is tájékoztatható.
+
+(7) Ha az elítélt a (6) bekezdés szerinti irat átvételét megtagadja, akkor annak tényét a fogvatartotti nyilvántartásban rögzíteni kell.

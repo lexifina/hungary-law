@@ -18,7 +18,7 @@
 
 (8) A fogvatartásért
 
-a) rendőrkapitányság fogdájában és a megyei (fővárosi) rendőr-főkapitánysági (központi) fogdában a rendőrfőkapitány,
+a) rendőrkapitányság fogdájában és a vármegyei (fővárosi) rendőr-főkapitánysági (központi) fogdában a rendőrfőkapitány,
 
 b) a Készenléti Rendőrség Nemzeti Nyomozó Iroda fogdájában a Készenléti Rendőrség parancsnoka
 

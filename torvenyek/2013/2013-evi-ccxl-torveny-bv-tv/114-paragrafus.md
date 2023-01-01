@@ -2,7 +2,7 @@
 
 (2) Az elítéltet az intézetben a hatósági ügyben eljáró más szerv a bv. intézettel való előzetes egyeztetés alapján hallgathatja ki.
 
-(3) Az elítéltet az illetékes ügyészség, illetve a nyomozó hatóságnak az illetékes ügyészség engedélyét is tartalmazó írásbeli megkeresésére a parancsnok adja ki, eljárási cselekmények lefolytatása, továbbá a Bnytv.-ben meghatározott bűnügyi nyilvántartási adat mintavétele céljából.
+(3) Az elítéltet az illetékes ügyészség, illetve a nyomozó hatóságnak az illetékes ügyészség engedélyét is tartalmazó írásbeli megkeresésére a biztonsági osztályvezető adja ki, eljárási cselekmények lefolytatása, továbbá a Bnytv.-ben meghatározott bűnügyi nyilvántartási adat mintavétele céljából.
 
 (4) Ha az elítélt kiadása a rendőrségi fogdán történő elhelyezéssel jár, úgy azt az illetékes ügyészség legfeljebb hatvan napra engedélyezheti. A határozattal szemben panasznak nincs helye.
 

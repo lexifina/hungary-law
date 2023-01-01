@@ -40,6 +40,8 @@ b) a letartóztatott hozzátartozójának kapcsolattartóként való nyilvántar
 
 (6) Az (1) bekezdés d) pontjában meghatározott előállításra vonatkozó idézés, értesítés esetén a bv. intézet a Be. 113. § (2) bekezdése alapján állítja elő a terheltet.
 
-(7) Fokozott őrzés elrendelése esetén a letartóztatott fogvatartásáról, szállításáról, valamint előállítása, illetve a 394. § (3) és (7) bekezdése szerinti jogának a gyakorlása során az őrzéséről a magas szintű biztonsági kockázati besorolásnak megfelelően kell gondoskodni.
+(6a) A letartóztatott ellen folyamatban lévő büntetőeljárásban – az (1) bekezdés d) pontjától eltérően – a nyomozó hatóság a rendelkezési jogkör gyakorlójának egyidejű értesítése mellett jogosult intézkedni a letartóztatott eljárási cselekményen való jelenlétének telekommunikációs eszköz útján történő biztosítása érdekében.
+
+(7) Fokozott őrzés elrendelése esetén a letartóztatott fogvatartásának, szállításának, valamint előállításának egyedi biztonsági előírásairól, illetve a 394. § (3) és (7) bekezdése szerinti jogának a gyakorlása során az őrzéséről a bv. intézet parancsnoka dönt.
 
 (8)

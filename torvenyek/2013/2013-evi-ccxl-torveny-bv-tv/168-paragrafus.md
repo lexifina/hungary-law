@@ -8,7 +8,7 @@ b) a magánál tartható tárgyak körének – a 98. § (2) bekezdés f) pontj�
 
 c) bv. intézet által szervezett programokon, rendezvényeken, művelődési, szabadidős, illetve sportprogramokon való részvétel korlátozása, attól való eltiltás,
 
-d) a 155. § (6) bekezdés a)–c) pontjában meghatározott többletszolgáltatások megvonása,
+d) a jogszabályban meghatározott többletszolgáltatások megvonása,
 
 e) a személyes szükségletekre fordítható összeg csökkentése,
 

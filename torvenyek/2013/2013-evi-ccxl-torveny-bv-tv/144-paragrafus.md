@@ -1,4 +1,4 @@
-144. § (1) Az elítélt a szabadságvesztés végrehajtása során okozott kárért a Polgári Törvénykönyv alapján felelős, a munkával összefüggésben okozott kárért fennálló felelősségére az Mt. értelemszerűen irányadó.
+144. § (1) Az elítélt a szabadságvesztés végrehajtása során okozott kárért a Polgári Törvénykönyv alapján felelős, a munkával összefüggésben okozott kárért fennálló felelősségére ha e törvény eltérően nem rendelkezik, vagy a büntetés-végrehajtási jogviszony sajátosságaiból más nem következik, az Mt. irányadó.
 
 (1a) Az (1) bekezdés szerinti esetben a kártérítési eljárást a 143. § (1) bekezdésében meghatározott bv. szerv folytatja le.
 

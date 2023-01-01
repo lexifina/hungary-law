@@ -2,7 +2,9 @@
 
 3. § E törvény alkalmazásában
 
-1. büntetés-végrehajtási ügy: a bíróságnak, a végrehajtásért felelős szervnek és az adott ügyben döntési jogkörrel rendelkező személynek a büntetés, az intézkedés, a kényszerintézkedés, valamint a rendbírság helyébe lépő és a szabálysértési elzárás végrehajtásával kapcsolatos olyan eljárása – ide nem értve a Be. 128. § (2) és (5) bekezdése, XCIV. Fejezete és Huszonegyedik Része szerinti eljárásokat – amely érinti annak tartalmát, mértékét, a végrehajtás helyét vagy módját, megkezdésének időpontját, a félbeszakítás, a feltételes szabadságra bocsátás, az ideiglenes elbocsátás, illetve a végrehajthatóság kérdését, vagy a végrehajtás rendjének fenntartására irányul, és lényeges kihatással van az elítélt és az egyéb jogcímen fogvatartott jogaira és kötelezettségeire,
+1. arcképfelismerő rendszer: arcképek összehasonlító elemzésére képes, a személyazonosítást elősegítő informatikai alkalmazás,
+
+1a. büntetés-végrehajtási ügy: a bíróságnak, a végrehajtásért felelős szervnek és az adott ügyben döntési jogkörrel rendelkező személynek a büntetés, az intézkedés, a kényszerintézkedés, valamint a rendbírság helyébe lépő és a szabálysértési elzárás végrehajtásával kapcsolatos olyan eljárása – ide nem értve a Be. 128. § (2) és (5) bekezdése, XCIV. Fejezete és Huszonegyedik Része szerinti eljárásokat – amely érinti annak tartalmát, mértékét, a végrehajtás helyét vagy módját, megkezdésének időpontját, a félbeszakítás, a feltételes szabadságra bocsátás, az ideiglenes elbocsátás, illetve a végrehajthatóság kérdését, vagy a végrehajtás rendjének fenntartására irányul, és lényeges kihatással van az elítélt és az egyéb jogcímen fogvatartott jogaira és kötelezettségeire,
 
 2. büntetés-végrehajtási intézet (a továbbiakban: bv. intézet) tisztántartását, karbantartását és ellátását szolgáló munka: az elítélt, a kényszerintézkedés hatálya alatt álló személy, a rendbírság helyébe lépő elzárásra kötelezett személy és a szabálysértési elzárásra kötelezett elkövető által, jogszabályban meghatározott feltételekkel és tartamban, alkalomszerűen, a fogva tartó bv. intézet fenntartása körében, díjazás nélkül végzett takarítási, karbantartási és ellátási tevékenység, amely nem minősül munkáltatásnak,
 
@@ -17,6 +19,8 @@
 6a. ellenőrzést biztosító megfigyelési eszköz: olyan, az elektronikus megfigyelési eszköz körén kívül eső műszaki-technikai megoldás, amelynek segítségével az elítélt vagy az egyéb jogcímen fogvatartott tevékenysége időszakosan megfigyelhető,
 
 7. értesítőlap: a bíróság által a végrehajtás érdekében a végrehajtásért felelős szerv részére a kiszabott büntetésről, az alkalmazott intézkedésről, valamint az ezeket érintő, az ügydöntő határozat meghozatalát követő érdemi rendelkezésekről, továbbá a kényszerintézkedés elrendeléséről, fenntartásáról, megszüntetéséről kiállított értesítés, amelynek része a szabadságelvonással járó büntetés, intézkedés vagy kényszerintézkedés foganatosítására, avagy a szabadításra adott bírói rendelvény,
+
+7a. fogvatartás biztonsága: olyan állapot fenntartása, amelynél az elítélt és az egyéb jogcímen fogvatartott őrzése, felügyelete, ellenőrzése, a bv. intézetben tartózkodó személyek életének, testi épségének és anyagi javainak védelme, a büntetés-végrehajtási szervezet anyagi javainak sértetlensége, valamint a büntetés-végrehajtási feladatok zavartalan ellátása a jogszabályi rendelkezéseknek megfelelően biztosított,
 
 8. fogvatartással kapcsolatos ügy: minden olyan ügy, amely nem tartozik a büntetés-végrehajtási ügy körébe, de az elítélt vagy az egyéb jogcímen fogvatartott fogvatartásával összefügg, ideértve a bv. intézet által lefolytatandó kártérítési eljárást is,
 
@@ -40,7 +44,7 @@ f) a bv. szervvel kötött megállapodás alapján a bv. intézetben jogvédő v
 
 12. kényszerintézkedés: a büntetőeljárásban, az Európai Unió tagállamaival folytatott bűnügyi együttműködés keretében és a nemzetközi bűnügyi jogsegély ügyekben elrendelt szabadságelvonással járó kényszerintézkedés,
 
-12a. kézbesítési cím: az elítélt vagy az egyéb jogcímen fogvatartott által megjelölt, a lakcímétől, értesítési címétől, tényleges tartózkodási helyétől eltérő, a postai úton történő kapcsolattartásra szolgáló cím;
+12a. kézbesítési cím: az elítélt vagy az egyéb jogcímen fogvatartott, továbbá a pártfogó felügyelet külön magatartási szabályának végrehajtásával összefüggésben a sértett vagy az egyéb érintett által megjelölt, a lakcímétől, értesítési címétől, tényleges tartózkodási helyétől eltérő, a postai úton történő kapcsolattartásra szolgáló cím;
 
 13. munkáltatás: a reintegrációs tevékenység azon formája, amikor az elítéltek vagy a kényszerintézkedés hatálya alatt álló személy és a szabálysértési elzárásra kötelezett elkövető munkavégzése szervezetten, rendszeresen, haszon- vagy bevételszerzési céllal, a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) által szabályozott munkaviszonytól eltérő, jogszabályban meghatározott feltételekkel és díjazás ellenében történik, az így létrejövő munkáltatási jogviszony alanyai munkáltatóként a bv. intézet, a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság vagy a bv. szerv szerződése és az elítéltek vagy a kényszerintézkedés hatálya alatt álló személy és a szabálysértési elzárásra kötelezett elkövető hozzájárulása alapján más gazdálkodó szervezet, valamint munkavégzőként – a reintegrációs őrizetben lévő elítélt kivételével – az elítélt, a kényszerintézkedés hatálya alatt álló személy vagy a szabálysértési elzárásra kötelezett elkövető;
 
@@ -53,3 +57,5 @@ f) a bv. szervvel kötött megállapodás alapján a bv. intézetben jogvédő v
 15. védő: a Be. szerinti védő, valamint a büntetések és az intézkedések végrehajtása alatt az elítélt vagy az egyéb jogcímen fogvatartott büntetés-végrehajtási ügyében eljáró ügyvéd,
 
 16. végrehajtásért felelős szerv: a büntetés-végrehajtási szervezet, a javítóintézet, a pártfogó felügyelői szolgálatként a Kormány által kijelölt szerv (a továbbiakban: pártfogó felügyelői szolgálat).
+
+17. végrehajtás rendje: a büntetések és a kényszerintézkedések végrehajtására vonatkozó jogszabályok és ezeken alapuló normatív utasítások érvényesülésének összessége, amely biztosítja a büntetés-végrehajtási feladatok zavartalan ellátását, valamint az elítéltek és az egyéb jogcímen fogvatartottak jogainak érvényesülését és kötelezettségeinek teljesítését.

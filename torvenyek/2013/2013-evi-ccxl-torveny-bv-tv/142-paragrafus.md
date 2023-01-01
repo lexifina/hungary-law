@@ -1,9 +1,17 @@
-142. § (1) Az elítélt a bv. szerv ügyintézésre jogosult tagjának döntése – kivéve a kérelemnek helyt adó – vagy az intézkedés ellen, illetve annak elmulasztása esetén, ha a törvény eltérően nem rendelkezik, a 21. § (3) bekezdése szerint panasszal fordulhat annak a bv. intézetnek a parancsnokához, ahol a döntés, az intézkedés vagy a mulasztás történt.
+142. § (1) Az elítélt – a kérelemnek helyt adó döntés kivételével – a bv. szerv szervezeti egysége vezetőjének vagy a bv. intézet parancsnoka által kijelölt bizottságnak a döntése, intézkedése, illetve annak elmulasztása esetén, ha a törvény eltérően nem rendelkezik, a 21. § (3) bekezdése szerint panasszal fordulhat annak a bv. intézetnek a parancsnokához, ahol a döntés, az intézkedés vagy a mulasztás történt.
 
-(2) Ha
+(2) A 21. § (7) bekezdésében meghatározottakon túl nincs helye panasznak és azt érdemi vizsgálat nélkül el kell utasítani, ha
 
-a) a döntést vagy az intézkedést a bv. intézet parancsnoka vagy a BVOP kijelölt szervezeti egységének a vezetője hozta vagy a mulasztás őt terheli, a panaszt az országos parancsnok,
+a) kizárólag olyan ügyre vonatkozik, amelyben kérelem benyújtásának lenne helye,
 
-b) a döntést vagy az intézkedést az országos parancsnok hozta vagy a mulasztás őt terheli, a panaszt a büntetés-végrehajtásért felelős miniszter
+b) a döntés közlésétől, az intézkedéstől, illetve annak elmulasztásától számított hat hónap eltelt,
 
-bírálja el.
+c) a jogosult nem a 140. § (2) bekezdésében foglaltak szerint nyújtotta be.
+
+(3) Ha
+
+a) a döntést vagy az intézkedést a bv. intézet parancsnoka hozta vagy a mulasztás őt terheli, a panaszt az agglomerációs központ vezetője,
+
+b) a döntést az agglomerációs központ vezetője hozta, a panaszt az országos parancsnok
+
+bírálja el, amely döntés ellen további jogorvoslatnak nincs helye.

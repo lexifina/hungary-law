@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti kártérítés iránti igényt határozattal kell elbírálni, amely ellen az elítélt a közléstől számított harmincnapos jogvesztő határidőn belül, a határozatot hozó bv. szerv székhelye szerint illetékes bíróság előtt, illetve a munkáltatással összefüggésben keletkezett kár megtérítése iránti igény esetén a munkaügyi perben eljáró bíróság előtt keresetet indíthat.
 
-(3) Az elítéltet ért kárért a bv. szerv a Polgári Törvénykönyv szabályai szerint felel. A munkával összefüggésben okozott kárért, ha más gazdálkodó szervezetnél munkáltatták az elítéltet, az Mt. irányadó azzal, hogy az elítéltet ért kárt a gazdálkodó szervezettel szerződésben álló bv. szerv téríti meg. A társadalmi integrációs programban résztvevő elítéltnek okozott kárt a Polgári Törvénykönyv rendelkezése értelmében az ilyen programot lebonyolító szervezettel szerződött bv. szerv téríti meg.
+(3) Az elítéltet ért kárért a bv. szerv a Polgári Törvénykönyv szabályai szerint felel, a munkával összefüggésben okozott kárért való felelősségre, ha e törvény eltérően nem rendelkezik, vagy a büntetés-végrehajtási jogviszony sajátosságaiból más nem következik, az Mt. rendelkezései irányadók azzal, hogy ha más gazdálkodó szervezetnél munkáltatták az elítéltet, az elítéltet ért kárt a gazdálkodó szervezettel szerződésben álló bv. szerv téríti meg. A társadalmi integrációs programban részt vevő elítéltnek okozott kárt a Polgári Törvénykönyv rendelkezése értelmében az ilyen programot lebonyolító szervezettel szerződött bv. szerv téríti meg.
 
 (4) A kár bv. szerv általi megtérítése a kárért való felelősséget nem érinti, és a bv. szerv visszkereseti igényét nem gátolja.
 
