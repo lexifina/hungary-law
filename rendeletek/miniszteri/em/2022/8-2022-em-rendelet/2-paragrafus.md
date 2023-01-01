@@ -1,5 +1,3 @@
-## 2.[^2]
+## 2. A távhőszolgáltatási támogatásról szóló 51/2011. (IX. 30.) NFM rendelet módosítása
 
-2. §
-
-[^2]: A 2. alcím a 6. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+2. § A távhőszolgáltatási támogatásról szóló 51/2011. (IX. 30.) NFM rendelet 1. melléklete a 3. melléklet szerint módosul.

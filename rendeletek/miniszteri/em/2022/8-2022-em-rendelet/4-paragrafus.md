@@ -1,5 +1,5 @@
 ## 4. A 2022. évi Országos Hulladékgazdálkodási Közszolgáltatási Tervről szóló 1/2022. (I. 7.) ITM rendelet módosítása
 
-4. §[^4]
+4. §[^1]
 
-[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
