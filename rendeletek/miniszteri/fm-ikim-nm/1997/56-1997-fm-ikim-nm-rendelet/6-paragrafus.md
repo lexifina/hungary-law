@@ -6,13 +6,13 @@ a) a népegészségügyi hatáskörben eljáró járási (fővárosi kerületi) 
 
 b) a fogyasztóvédelmi hatóság,
 
-c) az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal,
+c)[^5] az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal,
 
-d) a megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatala,
+d)[^6] a vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatala,
 
-e) a megyei kormányhivatal növény- és talajvédelmi hatáskörben eljáró járási hivatala,
+e)[^7] a vármegyei kormányhivatal növény- és talajvédelmi hatáskörben eljáró járási hivatala,
 
-f) a borászati hatáskörben eljáró Pest Megyei Kormányhivatal,
+f)[^8] a borászati hatáskörben eljáró Pest Vármegyei Kormányhivatal,
 
 g) a Nemzeti Adó- és Vámhivatal,
 
@@ -21,3 +21,7 @@ h) az általános rendőrségi feladatok ellátására létrehozott szerv és
 i) a Nemzeti Élelmiszerlánc-biztonsági Hivatal.
 
 [^4]: A 6. § a 42/2017. (VIII. 17.) FM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^5]: A 6. § c) pontja az 56/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^6]: A 6. § d) pontja az 56/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^7]: A 6. § e) pontja az 56/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^8]: A 6. § f) pontja az 56/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

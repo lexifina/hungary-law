@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-56-20-1
 | 2013-01-01 | 1997-56-20-11.3 | 45/2005. (X. 21.) EüM–FVM–GKM–IHM–KvVM–NKÖM–TNM együttes rendelet |
 | 2013-08-01 | 1997-56-20-11.4 | 70/2013. (VII. 31.) VM rendelet |
 | 2017-08-18 | 1997-56-20-11.5 | 42/2017. (VIII. 17.) FM rendelet |
+| 2023-01-01 | 1997-56-20-11.6 | 56/2022. (XII. 27.) AM rendelet |
