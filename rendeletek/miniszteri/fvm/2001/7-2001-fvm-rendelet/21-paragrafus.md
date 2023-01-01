@@ -8,6 +8,7 @@ b) az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a tov�
 
 c) az Áfa tv. alapján adóalanynak (a továbbiakban: áfaalany) minősülő kártalanítási jogosult nyilatkozatát arról, hogy alanyi adómentességet választott-e.
 
-(2) A termelő által a termelés mielőbbi beindítása érdekében a megsemmisítés végrehajtásával megbízott megyei kormányhivatalhoz benyújtható részkártalanítási kérelem esetén a kártalanítás összege a várható teljes kártalanítás 50%-áig terjedhet.
+(2)[^119] A termelő által a termelés mielőbbi beindítása érdekében a megsemmisítés végrehajtásával megbízott vármegyei kormányhivatalhoz benyújtható részkártalanítási kérelem esetén a kártalanítás összege a várható teljes kártalanítás 50%-áig terjedhet.
 
 [^118]: A 21. § a 9/2022. (II. 28.) AM rendelet 1. §-ával megállapított szöveg.
+[^119]: A 21. § (2) bekezdése a 61/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.

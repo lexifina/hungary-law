@@ -82,7 +82,7 @@
 
 | 32. Unaspis citri Comstock | Citrus L., Fortunella Swingle, Poncirus Raf. növények és hibridjeik, a termés és a vetőmag kivételével |
 
-## 1 Az Aphelenchoides besseyi Christie nem fordul elő Oryza növényeken az Európai Unióban.
+## 1Az Aphelenchoides besseyi Christie nem fordul elő Oryza növényeken az Európai Unióban.
 
 ## b) Baktériumok
 
@@ -174,9 +174,9 @@
 
 | 15. Witches' broom (MLO) syn.: Phytoplasma aurantifolia | Citrus L., Fortunella Swingle, Poncirus Raf. növények és hibridjeik, a termés és a vetőmag kivételével |
 
-## 1 A Cherry leafroll vírus Rubus L. fajokon nem fordul elő az Európai Unióban.
+## 1A Cherry leafroll vírus Rubus L. fajokon nem fordul elő az Európai Unióban.
 
-## 2 A Prunus necrotic ringspot vírus Rubus L. fajokon nem fordul elő az Európai Unióban.
+## 2A Prunus necrotic ringspot vírus Rubus L. fajokon nem fordul elő az Európai Unióban.
 
 ## II. szakasz
 
@@ -378,6 +378,6 @@
 
 | 3. Grapevine flavescence dorée MLO | A Vitis L. fajhoz tartozó növények, a termés és a vetőmag kivételével | Csehország, Franciaország (Elzász, Champagne-Ardenne, Pikárdia (Aisne megye), Île-de-France (Citry, Nanteuil-sur-Marne és Saâcy-sur-Marne települések és Lotaringia), Olaszország (Puglia, Basilicata és Szardínia) |
 
-3. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^371]
+3. számú melléklet a 7/2001. (I. 17.) FVM rendelethez[^379]
 
-[^371]: A 3. számú mellékletet a 37/2003. (IV. 4.) FVM rendelet 41. § (4) bekezdése hatályon kívül helyezte.
+[^379]: A 3. számú mellékletet a 37/2003. (IV. 4.) FVM rendelet 41. § (4) bekezdése hatályon kívül helyezte.

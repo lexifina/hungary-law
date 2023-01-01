@@ -26,7 +26,7 @@
 
 10a.[^3] Gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet.
 
-11.[^4] Helyi piac: olyan, egy adott megyére vagy szomszédos megyékre kiterjedő körzet, ahol a kistermelő vagy feldolgozó növényt, növényi terméket végső felhasználás céljából értékesít.
+11.[^4] Helyi piac: olyan, egy adott vármegyére vagy szomszédos vármegyékre kiterjedő körzet, ahol a kistermelő vagy feldolgozó növényt, növényi terméket végső felhasználás céljából értékesít.
 
 12. Károsító bekerülése: a károsító bejutása egy olyan területre, ahol az még nem fordult elő, vagy előfordult, de még nem terjedt el, és közérdekű védekezést folytatnak ellene.
 
@@ -105,7 +105,7 @@
 [^1]: Az 1. § 6. pontja a 22/2014. (III. 14.) VM rendelet 8. § (2) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § 10. pontja a 65/2007. (VII. 23.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § 10a. pontját a 22/2014. (III. 14.) VM rendelet 8. § (1) bekezdése iktatta be.
-[^4]: Az 1. § 11. pontja a 25/2010. (X. 20.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § 11. pontja a 25/2010. (X. 20.) VM rendelet 1. § (1) bekezdésével megállapított, a 61/2022. (XII. 27.) AM rendelet 1. § a) pont aa) és ab) alpontja szerint módosított szöveg.
 [^5]: Az 1. § 21. pontja a 25/2010. (X. 20.) VM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^6]: Az 1. § 24. pontja a 65/2007. (VII. 23.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 1. § 28. pontját a 37/2003. (IV. 4.) FVM rendelet 1. §-ának (2) bekezdése iktatta be, szövege a 25/2010. (X. 20.) VM rendelet 1. § (3) bekezdésével megállapított szöveg.
