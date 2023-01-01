@@ -4,7 +4,7 @@ a) a területi környezetvédelmi hatóság és a NÉBIH a miniszternek,
 
 b) a népegészségügyi járási hivatal az egészségügyért felelős miniszternek
 
-## küldi meg.
+küldi meg.
 
 (2) Az (1) bekezdése b) pontja szerinti értesítést az egészségügyért felelős miniszter az értesítés kézhezvételét követő 30 napon belül megküldi a miniszternek.
 
@@ -15,3 +15,5 @@ a) a jegyzékbe vételre irányuló javaslatot az Európai Bizottság (a tovább
 b) a 4. cikk (2) bekezdése szerinti értesítést a Bizottság és az Európai Vegyianyag-ügynökség (a továbbiakban: Ügynökség), továbbá
 
 c) a 4. cikk (3) bekezdése szerinti értesítést a környezetben tartósan megmaradó szerves szennyező anyagokról szóló Stockholmi Egyezmény Titkársága, a Bizottság és az Ügynökség
+
+részére megküldi.

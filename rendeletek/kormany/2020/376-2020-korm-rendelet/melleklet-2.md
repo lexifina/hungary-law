@@ -1,6 +1,6 @@
 2. melléklet a 376/2020. (VII. 30.) Korm. rendelethez
 
-## Adatgyűjtéshez szükséges adatok
+Adatgyűjtéshez szükséges adatok
 
 1. Azonosításra vonatkozó adatok:
 

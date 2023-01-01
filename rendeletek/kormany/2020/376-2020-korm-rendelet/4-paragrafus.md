@@ -4,7 +4,7 @@ a) a levegőben és a talajban való jelenlétéről, valamint
 
 b) a hulladékokból származó tényleges vagy becsült teljes mennyiségéről
 
-## a területi környezetvédelmi hatóság évente adatgyűjtést végez.
+a területi környezetvédelmi hatóság évente adatgyűjtést végez.
 
 (2) Az (1) bekezdés szerinti adatokat a területi környezetvédelmi hatóság a miniszternek a tárgyévet követő év május 31. napjáig megküldi.
 

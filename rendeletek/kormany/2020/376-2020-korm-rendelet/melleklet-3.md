@@ -1,6 +1,6 @@
 3. melléklet a 376/2020. (VII. 30.) Korm. rendelethez
 
-## A készletre vonatkozó adatok
+A készletre vonatkozó adatok
 
 1. Tárgyév
 
