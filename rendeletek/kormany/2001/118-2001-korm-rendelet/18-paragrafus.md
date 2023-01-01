@@ -22,7 +22,7 @@ a) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK 
 
 b) a munkaerő-kölcsönzés keretében történő munkavégzésről szóló, 2008. november 19-i 2008/104/EK európai és parlamenti tanácsi irányelvnek
 
-## való megfelelést szolgálja.
+való megfelelést szolgálja.
 
 (3)[^83] A 14/A. § szerinti adatszolgáltatásnak első alkalommal 2022. január 31. napjáig kell eleget tenni a 2021. év első, második, harmadik és negyedik negyedévére vonatkozóan.
 
