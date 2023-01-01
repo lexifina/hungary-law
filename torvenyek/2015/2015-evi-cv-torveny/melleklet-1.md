@@ -84,7 +84,7 @@ ed) együtt élő személyek életkora
 
 ee) együtt élő személyek eltartásra jogosultak-e
 
-ef) együtt élő személyeknek van-e az öregségi nyugdíj legkisebb összegét meghaladó mértékű rendszeres bevételük
+ef) együtt élő személyeknek van-e a szociális vetítési alap összegét meghaladó mértékű rendszeres bevételük
 
 eg) együtt élő személyek között van-e fogyatékkal élő, súlyosan vagy tartósan beteg
 

@@ -196,7 +196,7 @@ d) lakóingatlanra kötött vagyonbiztosítási szerződés, felelősségbiztos�
 
 42. minimálbér: külön jogszabály rendelkezése alapján megállapított kötelező legkisebb munkabér,
 
-43. öregségi nyugdíj legkisebb mértéke: az erről szóló jogszabályban meghatározott, évente felülvizsgált összeg,
+43.
 
 44. önállóan forgalomképes ingatlan: olyan ingatlan, amely önálló helyrajzi számmal rendelkezik, vagy olyan önálló tulajdoni illetőség, amely a természetben elkülönült, és a használatát megosztási megállapodás rendezi,
 
@@ -206,9 +206,9 @@ d) lakóingatlanra kötött vagyonbiztosítási szerződés, felelősségbiztos�
 
 47. privilegizált követelés:
 
-a) a törvényen alapuló tartásra jogosult részére jogerős határozattal vagy egyezséggel megállapított tartásdíj, szüléssel járó költség és tartásra irányuló járadékszerű szolgáltatás (a továbbiakban együtt: tartásdíj) jogosultanként legfeljebb az öregségi nyugdíj legkisebb mértékének kétszeresét – a bíróság által megállapított méltánylandó esetekben legfeljebb az öregségi nyugdíj legkisebb mértékének háromszorosát – meg nem haladó havi összeggel számolva,
+a) a törvényen alapuló tartásra jogosult részére jogerős határozattal vagy egyezséggel megállapított tartásdíj, szüléssel járó költség és tartásra irányuló járadékszerű szolgáltatás (a továbbiakban együtt: tartásdíj) jogosultanként legfeljebb a szociális vetítési alap összegének kétszeresét – a bíróság által megállapított méltánylandó esetekben legfeljebb a szociális vetítési alap összegének háromszorosát – meg nem haladó havi összeggel számolva,
 
-b) bíróság által jogerősen megállapított, természetes személyt járadékszerűen megillető kártérítés, jogosultanként legfeljebb az öregségi nyugdíj legkisebb mértékének másfélszeresét meg nem haladó havi összeggel számolva,
+b) bíróság által jogerősen megállapított, természetes személyt járadékszerűen megillető kártérítés, jogosultanként legfeljebb a szociális vetítési alap összegének másfélszeresét meg nem haladó havi összeggel számolva,
 
 c) társasházi közös költségre vonatkozó követelés, lakásszövetkezeti fenntartási célú követelés, társasházanként, lakásszövetkezetenként legfeljebb 15 000 forintot meg nem haladó havi összeggel számolva, ha pedig a közös költség részeként közműdíjakat is meg kell fizetni, akkor legfeljebb 30 000 forintot meg nem haladó havi összeggel számolva,
 
@@ -264,7 +264,7 @@ b) az adósra számlában áthárított vagy az adós ügyletei során keletkeze
 
 c) kisadózó vállalkozások tételes adója,
 
-d) a települési (községi, városi, fővárosi és kerületi) önkormányzat, valamint a megyei önkormányzat képviselő-testülete (a továbbiakban együtt: önkormányzat) által, az önkormányzat illetékességi területén rendelettel bevezetett helyi adók, valamint települési adók,
+d) a települési (községi, városi, fővárosi és kerületi) önkormányzat, valamint a vármegyei önkormányzat képviselő-testülete (a továbbiakban együtt: önkormányzat) által, az önkormányzat illetékességi területén rendelettel bevezetett helyi adók, valamint települési adók,
 
 e) gépjárműadó.
 
