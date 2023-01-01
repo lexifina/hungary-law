@@ -8,7 +8,7 @@ b) a vízgazdálkodási objektumokhoz tartozó vízkészlet- és vízhasználat-
 
 c) a vízilétesítményekkel, a vízimunkákkal és a vízhasználatokkal összefüggő jogokat és kötelezettségeket, jogi szempontból jelentős – a hatósági nyilvántartás körébe tartozó – tényeket és adatokat
 
-## külön jogszabály[^11] határozza meg.
+külön jogszabály[^11] határozza meg.
 
 (3)[^12] A vízkészlet- és vízhasználati adatok nyilvántartását és feldolgozását a nemzetközi adatszolgáltatási és az Országos Statisztikai Adatgyűjtési Program vízgazdálkodást érintő statisztikai adatátvételi igényeknek is megfelelően kell végezni.
 

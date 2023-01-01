@@ -4,7 +4,7 @@ a) a vízgazdálkodási közfeladatokat ellátó állami szervekre, a helyi víz
 
 b) az a) pontban meghatározott személyek és szervezetek vízgazdálkodási tevékenysége során keletkező, a vízgazdálkodási feladataik ellátásához rendszeresen szükséges alapadatok gyűjtésére, feldolgozására és szolgáltatására vonatkozó jogokra és kötelezettségekre
 
-## terjed ki.
+terjed ki.
 
 (2)[^2]
 
