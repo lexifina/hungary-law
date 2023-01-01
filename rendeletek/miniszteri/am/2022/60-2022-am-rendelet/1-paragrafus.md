@@ -1,0 +1,1 @@
+1. § A Tiszakürti Arborétum Természetvédelmi Terület országos jelentőségű védett természeti területté történő átminősítéséről szóló 21/2000. (VIII. 31.) KöM rendelet 3. §-ában és Mellékletének 3.1. pontjában a „Megyei” szövegrész helyébe a „Vármegyei” szöveg lép.
