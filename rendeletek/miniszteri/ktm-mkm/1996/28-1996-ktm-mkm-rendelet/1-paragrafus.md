@@ -1,3 +1,5 @@
-1. § (1) Városképi jelentőségűvé nyilvánítjuk a Baranya megyei Pécs, Király u. 23–25. szám alatti, a 2079/0 számú tulajdoni lapon felvett, 17297/A hrsz.-ú 15 lakást, irodákat és a Belvárosi Áruházat magában foglaló épületet. A védelem kiterjed az 1479 m2 területű ingatlan teljes egészére.
+1. § (1)[^2] Városképi jelentőségűvé nyilvánítjuk a Baranya vármegyei Pécs, Király u. 23–25. szám alatti, a 2079/0 számú tulajdoni lapon felvett, 17297/A hrsz.-ú 15 lakást, irodákat és a Belvárosi Áruházat magában foglaló épületet. A védelem kiterjed az 1479 m2 területű ingatlan teljes egészére.
 
 (2) A pécsi Király utcai városkép meghatározó épülete az 1886-ban a Pécsi Kölcsönös Segélyző Egylet számára Schlauch Imre által emelt épület. A három utcára néző, egyemeletes, gazdag homlokzati díszítésű épület a város XIX. század végi architektúrájának színvonalas emléke, így műemléki védettség alá helyezése indokolt.
+
+[^2]: Az 1. § (1) bekezdése a 4/2022. (XII. 27.) ÉKM rendelet 1. § a) pontja szerint módosított szöveg.
