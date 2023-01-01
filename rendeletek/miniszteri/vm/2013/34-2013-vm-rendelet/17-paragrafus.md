@@ -1,5 +1,3 @@
-## 16. §[^39] A gazdasági szereplő kérelmezheti a tanúsító szervezet ellenőrzési és tanúsítási feladatainak ellátásával kapcsolatos eljárások kivizsgálását a 10. § (5) bekezdésben meghatározott feladatmegosztásnak megfelelően a gazdasági szereplő lakóhelye, székhelye, illetve telephelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalnál vagy a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatalnál.
-
 ## 9. Tanúsító szervezet váltása
 
 17. § (1) A tanúsító szervezet a gazdasági szereplő tanúsító szervezet váltását nem korlátozhatja.
@@ -16,7 +14,6 @@
 
 (7) A tanúsító szervezet által a gazdasági szereplő számára kiállított tanúsítvány a tanúsítási szerződés megszűnéséig érvényes.
 
-[^39]: A 16. § a 46/2020. (IX. 23.) AM rendelet 26. § (1) bekezdés f) pontja szerint módosított szöveg.
 [^40]: A 17. § (2) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.
 [^41]: A 17. § (3) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.
 [^42]: A 17. § (4) bekezdése a 34/2014. (XII. 12.) FM rendelet 11. §-ával megállapított szöveg.

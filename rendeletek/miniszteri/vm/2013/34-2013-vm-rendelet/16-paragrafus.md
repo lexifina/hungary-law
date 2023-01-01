@@ -1,0 +1,3 @@
+16. §[^39] A gazdasági szereplő kérelmezheti a tanúsító szervezet ellenőrzési és tanúsítási feladatainak ellátásával kapcsolatos eljárások kivizsgálását a 10. § (5) bekezdésben meghatározott feladatmegosztásnak megfelelően a gazdasági szereplő lakóhelye, székhelye, illetve telephelye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalnál vagy a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatalnál.
+
+[^39]: A 16. § a 46/2020. (IX. 23.) AM rendelet 26. § (1) bekezdés f) pontja, a 134/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.

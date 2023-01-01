@@ -32,7 +32,7 @@ db) felsőfokú állattenyésztő mérnök, vagy
 
 dc) okleveles agrármérnök
 
-## végzettséggel rendelkezik.
+végzettséggel rendelkezik.
 
 (3) Az (1) bekezdés a) és b) pontjában foglalt feltételeknek való megfelelést a tanúsító szervezetnek működése során folyamatosan biztosítania kell.
 

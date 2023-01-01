@@ -1,4 +1,4 @@
-## 25/A. §[^61] Az élelmiszerlánc-biztonsági és állategészségügyi, valamint növény- és talajvédelmi hatáskörében eljáró Pest Megyei Kormányhivatal
+25/A. §[^61] Az élelmiszerlánc-biztonsági és állategészségügyi, valamint növény- és talajvédelmi hatáskörében eljáró Pest Vármegyei Kormányhivatal
 
 a) megállapítja a 889/2008/EK bizottsági rendelet 15. cikk (2) bekezdésében szabályozott állategységeket,
 
@@ -32,6 +32,6 @@ o) biztosítja a tanúsító szervezetek közötti információk cseréjét,
 
 p)[^63] a 889/2008/EK rendelet 39. cikke alapján kis méretű gazdaságokban engedélyezi a szarvasmarhák kötött tartását.
 
-[^61]: A 25/A. §-t a 42/2017. (VIII. 17.) FM rendelet 193. § (7) bekezdése iktatta be.
+[^61]: A 25/A. §-t a 42/2017. (VIII. 17.) FM rendelet 193. § (7) bekezdése iktatta be, nyitó szövegrésze a 134/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^62]: A 25/A. § k) pontja a 46/2020. (IX. 23.) AM rendelet 26. § (1) bekezdés j) pontja szerint módosított szöveg.
 [^63]: A 25/A. § p) pontját a 46/2020. (IX. 23.) AM rendelet 26. § (2) bekezdése iktatta be.

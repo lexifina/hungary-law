@@ -1,5 +1,3 @@
-## írásban értesíti a NÉBIH-et, valamint ezzel egyidejűleg az általa tanúsított gazdasági szereplőket.
-
 ## 7. A tanúsítás rendszere
 
 10. § (1)[^16] A gazdasági szereplő ökológiai termelést egyidejűleg csak egy tanúsító szervezet ellenőrzése alatt végezhet, amelyről a tanúsító szervezet felé történő bejelentkezéskor nyilatkozik.
@@ -18,16 +16,16 @@
 
 a)[^19] állati eredetű alaptermék termelése és forgalomba hozatala, takarmány, feldolgozatlan és feldolgozott állati, valamint feldolgozott növényi eredetű termék előállítása, feldolgozása, felhasználása, illetve forgalomba hozatala esetén az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalnál,
 
-b)[^20] növényi eredetű alaptermék termelése és forgalomba hozatala, valamint feldolgozatlan növényi eredetű termék előállítása és forgalomba hozatala esetén a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatalnál,
+b)[^20] növényi eredetű alaptermék termelése és forgalomba hozatala, valamint feldolgozatlan növényi eredetű termék előállítása és forgalomba hozatala esetén a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatalnál,
 
-c)[^21] az a) és b) pont alapján az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatalt és a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatalt érintő termékkörrel kapcsolatban az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatalnál.
+c)[^21] az a) és b) pont alapján az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatalt és a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatalt érintő termékkörrel kapcsolatban az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatalnál.
 
-(6)[^22] Az (5) bekezdés szerinti kérelemről az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal, illetve a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal a (3) bekezdésben foglalt szempontok vizsgálata alapján dönt.
+(6)[^22] Az (5) bekezdés szerinti kérelemről az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal, illetve a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal a (3) bekezdésben foglalt szempontok vizsgálata alapján dönt.
 
 [^16]: A 10. § (1) bekezdése a 34/2014. (XII. 12.) FM rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^17]: A 10. § (4a) bekezdését a 34/2014. (XII. 12.) FM rendelet 7. § (2) bekezdése iktatta be.
 [^18]: A 10. § (4b) bekezdését a 34/2014. (XII. 12.) FM rendelet 7. § (2) bekezdése iktatta be.
 [^19]: A 10. § (5) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 194. § a) pontja szerint módosított szöveg.
-[^20]: A 10. § (5) bekezdés b) pontja a 46/2020. (IX. 23.) AM rendelet 26. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^21]: A 10. § (5) bekezdés c) pontja a 46/2020. (IX. 23.) AM rendelet 26. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^22]: A 10. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 194. § c) pontja, a 46/2020. (IX. 23.) AM rendelet 26. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^20]: A 10. § (5) bekezdés b) pontja a 46/2020. (IX. 23.) AM rendelet 26. § (1) bekezdés a) pontja, a 134/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^21]: A 10. § (5) bekezdés c) pontja a 46/2020. (IX. 23.) AM rendelet 26. § (1) bekezdés b) pontja, a a 134/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^22]: A 10. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 194. § c) pontja, a 46/2020. (IX. 23.) AM rendelet 26. § (1) bekezdés c) pontja, a 134/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.

@@ -1,5 +1,3 @@
-## szerinti fogalom-meghatározásokat kell figyelembe venni.
-
 ## 2. A tanúsító szervezet elismerése
 
 3. § (1) Tanúsító szervezetként az működhet, akit a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) a 834/2007/EK tanácsi rendelet 27. cikk (4) bekezdés b) pontjára tekintettel a gazdasági szereplőknél ellenőrzést és tanúsítást végző tanúsító szervezetként elismer.

@@ -14,5 +14,7 @@ e) a takarmány- és élelmiszerjog, valamint az állat-egészségügyi és az �
 
 f)[^65] a 889/2008/EK rendeletnek az ökológiai termelés ellenőrzési rendszere tekintetében történő módosításáról szóló, 2013. április 29-i 392/2013/EU bizottsági végrehajtási rendelet
 
+végrehajtásához szükséges rendelkezéseket állapítja meg.
+
 [^64]: A 28/A. §-t a 34/2014. (XII. 12.) FM rendelet 19. §-a iktatta be.
 [^65]: A 29. § f) pontját a 34/2014. (XII. 12.) FM rendelet 20. §-a iktatta be.
