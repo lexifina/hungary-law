@@ -12,7 +12,7 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 4. vízügyi és vízvédelmi hatósági eljárások,
 
-5. az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó az egyes sajátos ipari létesítményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló kormányrendelet szerinti építésügyi hatósági engedélyezési eljárások, illetve villamosenergia-ipari építésügyi hatósági eljárások,
+5.[^5] az ágazati jogszabály alapján a fővárosi és vármegyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó az egyes sajátos ipari létesítményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló kormányrendelet szerinti építésügyi hatósági engedélyezési eljárások, illetve villamosenergia-ipari építésügyi hatósági eljárások,
 
 6. műszaki biztonsági hatósági engedélyezési eljárások,
 
@@ -51,3 +51,5 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 23. az 1–22. pontban nem szereplő hatósági engedélyezési eljárások, melyek az 1. § (1) bekezdése szerinti beruházás megvalósításához, az ingatlan megosztásához, valamint az emlékhely kialakításához és fenntartásához szükséges méretű ingatlan tartós állami tulajdonba kerüléséhez közvetlenül szükségesek, kivéve a kisajátítási eljárást,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^5]: Az 1. melléklet 5. pontja az 546/2022. (XII. 22.) Korm. rendelet 153. § c) pontja szerint módosított szöveg.
