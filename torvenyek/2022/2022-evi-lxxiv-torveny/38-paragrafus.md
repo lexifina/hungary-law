@@ -1,0 +1,3 @@
+38. § A munkavédelemről szóló 1993. évi XCIII. törvény a következő 83/F. §-sal egészül ki:
+
+„83/F. § A területileg illetékes munkavédelmi hatósághoz érkező munkavédelmi tárgyú bejelentések és a területileg illetékes munkavédelmi hatóság által vezetett nyilvántartások adatait a felügyeleti szerv a felügyeleti tevékenység ellátása érdekében, valamint statisztikai célú összesítés céljából megismerheti.”
