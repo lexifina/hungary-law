@@ -68,7 +68,7 @@
 
 | 33 |  |  | legfelső szintű domain név (TLD) nyilvántartó szolgáltatás | a legfelső szintű domain (TLD) alatti internetes domain nevek regisztrációjára, illetve kezelésére irányuló szolgáltatás |
 
-4. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^96]
+4. melléklet a 65/2013. (III. 8.) Korm. rendelethez[^98]
 
 BÍRSÁG
 
@@ -102,4 +102,4 @@ BÍRSÁG
 
 | 13 | A komplex gyakorlat megállapításai eredményeképp az üzemeltetői biztonsági terv módosításának elmulasztása | 500 000 | 500 000 |
 
-[^96]: A 4. mellékletet a 375/2020. (VII. 30.) Korm. rendelet 51. § d) pontja iktatta be, szövege a 375/2021. (VI. 30.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^98]: A 4. mellékletet a 375/2020. (VII. 30.) Korm. rendelet 51. § d) pontja iktatta be, szövege a 375/2021. (VI. 30.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.
