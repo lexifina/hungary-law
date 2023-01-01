@@ -22,6 +22,6 @@
 
 ## Az étkező az átalánydíj-fizetés szempontjából fél szobának minősül.
 
-3–5. melléklet a 69/2016. (XII. 29.) NFM rendelethez[^13]
+3. melléklet a 69/2016. (XII. 29.) NFM rendelethez[^14]
 
-[^13]: A 3–5. mellékletet az 52/2017. (XII. 22.) NFM rendelet 39. § f) pontja hatályon kívül helyezte.
+[^14]: A 3–5. mellékletet az 52/2017. (XII. 22.) NFM rendelet 39. § f) pontja hatályon kívül helyezte.

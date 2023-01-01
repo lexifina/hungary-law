@@ -1,4 +1,4 @@
-1. melléklet a 69/2016. (XII. 29.) NFM rendelethez[^12]
+1. melléklet a 69/2016. (XII. 29.) NFM rendelethez[^13]
 
 1. Az egyetemes szolgáltató által az I. árkategória esetében alkalmazandó díjak
 
@@ -124,4 +124,4 @@
 
 | 8. | C) | Gázmérővel nem rendelkezők |  |  | 2,551 |
 
-[^12]: Az 1. melléklet az 52/2017. (XII. 22.) NFM rendelet 38. § b) pontja, a 48/2019. (XII. 23.) ITM rendelet 10. § (2) bekezdése, a 14/2021. (III. 31.) ITM rendelet 8. §-a, a 48/2021. (IX. 30.) ITM rendelet 5. § b) pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet az 52/2017. (XII. 22.) NFM rendelet 38. § b) pontja, a 48/2019. (XII. 23.) ITM rendelet 10. § (2) bekezdése, a 14/2021. (III. 31.) ITM rendelet 8. §-a, a 48/2021. (IX. 30.) ITM rendelet 5. § b) pontja szerint módosított szöveg.

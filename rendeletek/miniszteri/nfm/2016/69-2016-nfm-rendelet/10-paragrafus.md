@@ -2,11 +2,11 @@
 
 (2) A 3. § (1) bekezdés c)–f) pontja szerinti felhasználók vételezési helye tekintetében a II. árkategória vonatkozó díjszabása alkalmazandó.
 
-(3)[^5] Az (1) bekezdés szerinti felhasználók által az I. árkategória díjszabása szerint maximálisan vételezhető földgázmennyiség – a nagycsaládosokat megillető földgáz árkedvezményről szóló kormányrendelet szerinti eltéréssel – felhasználási helyenként és naptári évenként 41040 MJ.
+(3)[^6] Az (1) bekezdés szerinti felhasználók által az I. árkategória díjszabása szerint maximálisan vételezhető földgázmennyiség – a nagycsaládosokat megillető földgáz árkedvezményről szóló kormányrendelet szerinti eltéréssel – felhasználási helyenként és naptári évenként 41040 MJ.
 
 (4) Új felhasználási hely évközi bekapcsolásakor, a szerződő fél személyében történő évközi változás, továbbá kereskedőváltás vagy földgáz egyetemes szolgáltatói szerződés évközi megszűnése esetén az I. árkategória szerint maximálisan vételezhető földgázmennyiség a földgázkereskedő üzletszabályzatában – az üzletszabályzat rendelkezése hiányában a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet (a továbbiakban: Vhr.) 13. számú mellékletében – meghatározott fogyasztási jelleggörbe (a továbbiakban: fogyasztási jelleggörbe) szerinti aránnyal vehető figyelembe.
 
-(5)[^6] A (3) bekezdés szerinti mennyiséget szolgáltatás szüneteltetése vagy szerződésszegés miatti kikapcsolás időtartamával arányosan csökkenteni kell.
+(5)[^7] A (3) bekezdés szerinti mennyiséget szolgáltatás szüneteltetése vagy szerződésszegés miatti kikapcsolás időtartamával arányosan csökkenteni kell.
 
-[^5]: A 10. § (3) bekezdése az 52/2017. (XII. 22.) NFM rendelet 38. § a) pontja szerint módosított szöveg.
-[^6]: A 10. § (5) bekezdése az 52/2017. (XII. 22.) NFM rendelet 39. § b) pontja szerint módosított szöveg.
+[^6]: A 10. § (3) bekezdése az 52/2017. (XII. 22.) NFM rendelet 38. § a) pontja szerint módosított szöveg.
+[^7]: A 10. § (5) bekezdése az 52/2017. (XII. 22.) NFM rendelet 39. § b) pontja szerint módosított szöveg.
