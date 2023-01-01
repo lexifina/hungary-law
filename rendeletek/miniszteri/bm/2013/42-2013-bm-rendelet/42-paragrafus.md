@@ -1,1 +1,3 @@
-## 41. § A 22059/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel műemlékké nyilvánított, Tata (Komárom-Esztergom megye) Hajdú utca 2. számú, 1465 helyrajzi számú ingatlan műemléki védettségét – a műemléki érték (lakóház) megsemmisülésére tekintettel – megszüntetem.
+42. §[^25] Az Országos Műemléki Felügyelőség 08101/1967. számú határozatával műemlékké nyilvánított, Vaskeresztes (Vas vármegye) 73 helyrajzi számú ingatlan műemléki védettségét – a műemléki érték (gazdasági épület) megsemmisülésére tekintettel – megszüntetem.
+
+[^25]: A 42. § a 11/2022. (XII. 27.) ÉKM rendelet 1. §-a szerint módosított szöveg.

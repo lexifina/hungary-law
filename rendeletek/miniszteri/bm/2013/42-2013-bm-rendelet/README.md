@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-42-20-0
 | 2013-08-13 | 2013-42-20-0A.2 | 2010: CXXX. törvény |
 | 2013-12-19 | 2013-42-20-0A.3 | 70/2013. (XII. 16.) BM rendelet |
 | 2015-02-10 | 2013-42-20-0A.4 | 5/2015. (III. 2.) MvM rendelet |
+| 2023-01-01 | 2013-42-20-0A.5 | 11/2022. (XII. 27.) ÉKM rendelet |
