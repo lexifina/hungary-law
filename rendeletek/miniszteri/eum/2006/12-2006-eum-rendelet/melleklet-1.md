@@ -1,6 +1,6 @@
 1. melléklet a 12/2006. (III. 23.) EüM rendelethez[^12]
 
-## Különös szempontok az azbesztexpozíciónak kitett munkavállalók munkaköri alkalmasságának orvosi vizsgálatához
+Különös szempontok az azbesztexpozíciónak kitett munkavállalók munkaköri alkalmasságának orvosi vizsgálatához
 
 1. A jelenlegi ismeretek szerint az azbesztexpozíció a következő betegségeket okozhatja:
 

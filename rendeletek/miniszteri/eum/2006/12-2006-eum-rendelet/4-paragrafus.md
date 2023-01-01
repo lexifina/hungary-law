@@ -1,4 +1,4 @@
-4. § (1)[^2] Az 1. § szerintinek minősülő tevékenységet a munkáltatónak a munka megkezdése előtt 15 nappal be kell jelentenie a munkavégzés helye szerint illetékes fővárosi és megyei kormányhivatalnak mint munkavédelmi hatóságnak (a továbbiakban: munkavédelmi hatóság) a 2. melléklet szerinti bejelentőlapon nyilvántartásba vétel céljából.
+4. § (1)[^2] Az 1. § szerintinek minősülő tevékenységet a munkáltatónak a munka megkezdése előtt 15 nappal be kell jelentenie a munkavégzés helye szerint illetékes fővárosi és vármegyei kormányhivatalnak mint munkavédelmi hatóságnak (a továbbiakban: munkavédelmi hatóság) a 2. melléklet szerinti bejelentőlapon nyilvántartásba vétel céljából.
 
 (2)[^3]
 
@@ -16,7 +16,7 @@
 
 (8) Közmű meghibásodása miatt végzett, előre nem tervezhető, azbeszt-expozíció kockázatával járó munkavégzés esetén az (1) bekezdés szerinti bejelentést a munka megkezdését követő három munkanapon belül kell megtenni.
 
-[^2]: A 4. § (1) bekezdése a 62/2016. (XII. 29.) NGM rendelet 60. § (1) bekezdésével megállapított, a 22/2020. (VI. 29.) ITM rendelet 20. §-a szerint módosított szöveg.
+[^2]: A 4. § (1) bekezdése a 62/2016. (XII. 29.) NGM rendelet 60. § (1) bekezdésével megállapított, a 22/2020. (VI. 29.) ITM rendelet 20. §-a, a 28/2022. (XII. 30.) GFM rendelet 13. § a) pontja szerint módosított szöveg.
 [^3]: A 4. § (2) bekezdését a 62/2016. (XII. 29.) NGM rendelet 60. § (7) bekezdése hatályon kívül helyezte.
 [^4]: A 4. § (3a) bekezdését a 62/2016. (XII. 29.) NGM rendelet 60. § (2) bekezdése iktatta be, hatályon kívül helyezte e módosító rendelet 60. § (8) bekezdése.
 [^5]: A 4. § (4) bekezdése a 62/2016. (XII. 29.) NGM rendelet 60. § (3) bekezdésével megállapított szöveg.

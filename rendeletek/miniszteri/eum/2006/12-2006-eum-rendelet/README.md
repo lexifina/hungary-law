@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-12-20-0
 | 2017-01-01 | 2006-12-20-0B.7 | 62/2016. (XII. 29.) NGM rendelet |
 | 2018-01-01 | 2006-12-20-0B.8 | 62/2016. (XII. 29.) NGM rendelet |
 | 2020-06-30 | 2006-12-20-0B.9 | 62/2016. (XII. 29.) NGM rendelet |
+| 2023-01-01 | 2006-12-20-0B.10 | 62/2016. (XII. 29.) NGM rendelet |

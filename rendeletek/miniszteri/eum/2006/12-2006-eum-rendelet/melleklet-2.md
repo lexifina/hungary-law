@@ -22,7 +22,7 @@ Azbeszttel végzett tevékenységek bejelentése
 
 | 10. | Munkavégzés pontos helye |  |
 
-| 11. | Megye (Munkavégzés pontos helye alapján) |  |
+| 11. | Vármegye (Munkavégzés pontos helye alapján) |  |
 
 | 12. | Azbeszt típus |  |
 
@@ -52,4 +52,4 @@ PH.
 
 aláírás
 
-[^13]: A 2. mellékletet a 62/2016. (XII. 29.) NGM rendelet 60. § (6) bekezdése iktatta be.
+[^13]: A 2. mellékletet a 62/2016. (XII. 29.) NGM rendelet 60. § (6) bekezdése iktatta be, szövege a 28/2022. (XII. 30.) GFM rendelet 13. § b) pontja szerint módosított szöveg.
