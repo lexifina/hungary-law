@@ -1,0 +1,1 @@
+4. § Hatályát veszti az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet szerint egyetemes szolgáltatás keretében vételezett földgáz versenypiaci költségeket tükröző árának meghatározásáról szóló 6/2022. (VII. 21.) MEKH rendelet.
