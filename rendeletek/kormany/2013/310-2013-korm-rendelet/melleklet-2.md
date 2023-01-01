@@ -1,6 +1,6 @@
-2. melléklet a 310/2013. (VIII. 16.) Korm. rendelethez[^12]
+2. melléklet a 310/2013. (VIII. 16.) Korm. rendelethez[^13]
 
-## A hulladékgazdálkodási terv szerkezeti felépítése és tartalmi elemei
+A hulladékgazdálkodási terv szerkezeti felépítése és tartalmi elemei
 
 1. A hulladékgazdálkodási terv szerkezeti felépítése:
 
@@ -136,4 +136,4 @@ A hulladékgazdálkodási terven belül a megelőzési program önálló szerkez
 
 Az összefoglalásban be kell mutatni a tervezési időszak alatt várható eredményeket, valamint a hulladékgazdálkodás további fejlesztésének lehetőségeit.
 
-[^12]: A 2. melléklet a 158/2021. (III. 31.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.
+[^13]: A 2. melléklet a 158/2021. (III. 31.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.

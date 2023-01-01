@@ -1,8 +1,6 @@
-## 4–5. §[^10]
+1. melléklet a 310/2013. (VIII. 16.) Korm. rendelethez[^12]
 
-1. melléklet a 310/2013. (VIII. 16.) Korm. rendelethez[^11]
-
-## A hulladékgazdálkodási terv és a megelőzési program előkészítésébe bevonandó területileg illetékes hatóságok
+A hulladékgazdálkodási terv és a megelőzési program előkészítésébe bevonandó területileg illetékes hatóságok
 
 A hulladékgazdálkodási terv és a megelőzési program előkészítése során a hulladékgazdálkodásért felelős miniszter a következő hatóságokat vonja be:
 
@@ -24,9 +22,9 @@ A hulladékgazdálkodási terv és a megelőzési program előkészítése sorá
 
 9. az Országos Meteorológiai Szolgálatot a meteorológiai szakkérdések vonatkozásában,
 
-10. a megyei katasztrófavédelmi igazgatóságot, a Fővárosi Katasztrófavédelmi Igazgatóságot a tűz- és katasztrófavédelmi szakkérdések vonatkozásában,
+10. a vármegyei katasztrófavédelmi igazgatóságot, a Fővárosi Katasztrófavédelmi Igazgatóságot a tűz- és katasztrófavédelmi szakkérdések vonatkozásában,
 
-11. a területileg illetékes fővárosi és megyei kormányhivatalt, illetve járási (fővárosi kerületi) hivatalát
+11. a területileg illetékes fővárosi és vármegyei kormányhivatalt, illetve járási (fővárosi kerületi) hivatalát
 
 a) erdészeti hatáskörében eljárva az erdővédelem vonatkozásában,
 
@@ -44,5 +42,4 @@ g) fogyasztóvédelmi hatáskörében eljárva a fogyasztóvédelmi szakkérdés
 
 h) népegészségügyi hatáskörében eljárva a környezetbiztonsági és a közegészségügyi szakkérdések vonatkozásában.
 
-[^10]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: Az 1. melléklet a 70/2015. (III. 30.) Korm. rendelet 228. § (2) bekezdésével megállapított, a 70/2016. (III. 31.) Korm. rendelet 3. § 4. pontja, a 259/2016. (VIII. 31.) Korm. rendelet 30. §-a, a 379/2016. (XII. 2.) Korm. rendelet 239. § (1) bekezdés e)–h) pontja, a 132/2018. (VII. 23.) Korm. rendelet 9. § (3) bekezdése, a 825/2021. (XII. 28.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^12]: Az 1. melléklet a 70/2015. (III. 30.) Korm. rendelet 228. § (2) bekezdésével megállapított, a 70/2016. (III. 31.) Korm. rendelet 3. § 4. pontja, a 259/2016. (VIII. 31.) Korm. rendelet 30. §-a, a 379/2016. (XII. 2.) Korm. rendelet 239. § (1) bekezdés e)–h) pontja, a 132/2018. (VII. 23.) Korm. rendelet 9. § (3) bekezdése, a 825/2021. (XII. 28.) Korm. rendelet 33. §-a, a 616/2022. (XII. 29.) Korm. rendelet 163. §-a szerint módosított szöveg.

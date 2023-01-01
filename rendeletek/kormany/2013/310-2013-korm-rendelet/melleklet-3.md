@@ -1,6 +1,6 @@
-3. melléklet a 310/2013. (VIII. 16.) Korm. rendelethez[^13]
+3. melléklet a 310/2013. (VIII. 16.) Korm. rendelethez[^14]
 
-## A megelőzési program szerkezeti felépítése és tartalmi elemei
+A megelőzési program szerkezeti felépítése és tartalmi elemei
 
 1. A megelőzési program szerkezeti felépítése:
 
@@ -94,4 +94,4 @@ Be kell mutatni a tervezési időszak alatt a megelőzési programtól várható
 
 2.6. Élelmiszer-hulladék megelőzési program, különös tekintettel a Ht. 76. § (5) bekezdésében foglaltakra.
 
-[^13]: A 3. melléklet a 158/2021. (III. 31.) Korm. rendelet 13. § (2) bekezdése, 14. § b) pontja szerint módosított szöveg.
+[^14]: A 3. melléklet a 158/2021. (III. 31.) Korm. rendelet 13. § (2) bekezdése, 14. § b) pontja szerint módosított szöveg.
