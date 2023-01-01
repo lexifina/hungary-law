@@ -1,5 +1,5 @@
-1. melléklet a 156/2011. (VIII. 10.) Korm. rendelethez[^15]
+1. melléklet a 156/2011. (VIII. 10.) Korm. rendelethez[^17]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósításához szükséges hatósági engedélyezési eljárások és az eljárások lefolytatására hatáskörrel rendelkező közigazgatási szervek
 
-[^15]: Az 1. számú melléklet a 361/2019. (XII. 30.) Korm. rendelet 18. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 96. §-át.
+[^17]: Az 1. számú melléklet a 361/2019. (XII. 30.) Korm. rendelet 18. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 96. §-át.
