@@ -8,26 +8,27 @@
 
 (4)[^63] A díszítő mák mákszalmáját vagy kifejtetlen máktokját a szárával a díszítő mák termesztője virágkötészeti céllal értékesítheti, amennyiben
 
-a) a KKR. 1. számú melléklete szerint kábítószernek minősülő ópium alkaloidok összes hatóanyag koncentrációja a légszáraz állapotú kifejtett máktokban 0,7% vagy az alatti, vagy
+a)[^64] az egészségügyért felelős miniszter ellenőrzött anyagokról szóló rendelete szerint kábítószernek minősülő ópium alkaloidok összes hatóanyag koncentrációja a légszáraz állapotú kifejtett máktokban 0,7% vagy az alatti, vagy
 
-b)[^64] a máktokot kábítószerként való felhasználást megnehezítő eljárással (így különösen festéssel, lakkozással, fehérítéssel) kezelték, vagy
+b)[^65] a máktokot kábítószerként való felhasználást megnehezítő eljárással (így különösen festéssel, lakkozással, fehérítéssel) kezelték, vagy
 
-c)[^65] Magyarország területén kívülre történő értékesítés esetében a fogadó állam importőre írásos nyilatkozatban vállalja, hogy a máktokot a b) pont szerint, illetve saját nemzeti előírásainak megfelelően kezelni fogja.
+c)[^66] Magyarország területén kívülre történő értékesítés esetében a fogadó állam importőre írásos nyilatkozatban vállalja, hogy a máktokot a b) pont szerint, illetve saját nemzeti előírásainak megfelelően kezelni fogja.
 
-(5)[^66]
+(5)[^67]
 
-(6)[^67] A díszítő mák virágkötészeti célra fel nem használt mákszalmáját vagy kifejtetlen máktokját a termesztő felajánlhatja az ipari mákot termesztetőnek átvételre, aki a mákszalma vagy kifejtetlen máktok elfogadása esetén az elszállításról saját költségén gondoskodik, továbbá a nyilvántartás érdekében jegyzőkönyvvel dokumentálja az elszállítást, és a jegyzőkönyv másolatát megküldi az OGYÉI-nek.
+(6)[^68] A díszítő mák virágkötészeti célra fel nem használt mákszalmáját vagy kifejtetlen máktokját a termesztő felajánlhatja az ipari mákot termesztetőnek átvételre, aki a mákszalma vagy kifejtetlen máktok elfogadása esetén az elszállításról saját költségén gondoskodik, továbbá a nyilvántartás érdekében jegyzőkönyvvel dokumentálja az elszállítást, és a jegyzőkönyv másolatát megküldi az OGYÉI-nek.
 
-(7)[^68] A fel nem ajánlott, továbbá át nem vett, valamint virágkötészeti célra nem értékesített díszítő mák mákszalmáját égetéssel vagy talajba forgatással legkésőbb november 30-ig meg kell semmisíteni. A megsemmisítés módjáról és tervezett időpontjáról legalább hét nappal a megsemmisítés időpontja előtt a díszítő mák termesztőjének tájékoztatnia kell a kormányhivatalt. A 9/B. § (2) bekezdésében foglalt előírásokat a díszítő mák szalmájának megsemmisítésével kapcsolatban alkalmazni kell.
+(7)[^69] A fel nem ajánlott, továbbá át nem vett, valamint virágkötészeti célra nem értékesített díszítő mák mákszalmáját égetéssel vagy talajba forgatással legkésőbb november 30-ig meg kell semmisíteni. A megsemmisítés módjáról és tervezett időpontjáról legalább hét nappal a megsemmisítés időpontja előtt a díszítő mák termesztőjének tájékoztatnia kell a kormányhivatalt. A 9/B. § (2) bekezdésében foglalt előírásokat a díszítő mák szalmájának megsemmisítésével kapcsolatban alkalmazni kell.
 
-(8)[^69] A díszítő mák termesztője minden, az általános termesztési gyakorlattól eltérő különleges esetet, így különösen a zöld tok megkarcolását, a tokok károsítását, lopását a rendőrségnek köteles jelenteni.
+(8)[^70] A díszítő mák termesztője minden, az általános termesztési gyakorlattól eltérő különleges esetet, így különösen a zöld tok megkarcolását, a tokok károsítását, lopását a rendőrségnek köteles jelenteni.
 
 [^61]: A 10. § (2) bekezdése a 62/2010. (III. 18.) Korm. rendelet 8. § (1) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 15. pontja, a 360/2019. (XII. 30.) Korm. redelet 29. § (3) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^62]: A 10. § (3) bekezdése a 337/2007. (XII. 13.) Korm. rendelet 17. § (1) bekezdés g) pontja, a 62/2010. (III. 18.) Korm. rendelet 16. § h) pontja, a 19/2015. (II. 16.) Korm. rendelet 9. § 16. pontja, a 70/2015. (III. 30.) Korm. rendelet 61. § (5) bekezdés c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^63]: A 10. § (4) bekezdését az 58/2006. (III. 21.) Korm. rendelet 2. §-a hatályon kívül helyezte, újonnan a 228/2006. (XI. 20.) Korm. rendelet 3. § (1) bekezdése iktatta be, szövege a 62/2010. (III. 18.) Korm. rendelet 8. § (2) bekezdésével megállapított, nyitó szövegrésze a 19/2015. (II. 16.) Korm. rendelet 9. § 17. pontja szerint módosított szöveg.
-[^64]: A 10. § (4) bekezdés b) pontja a 19/2015. (II. 16.) Korm. rendelet 9. § 18. pontja szerint módosított szöveg.
-[^65]: A 10. § (4) bekezdés c) pontja a 347/2019. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^66]: A 10. § (5) bekezdését a 347/2019. (XII. 23.) Korm. rendelet 3. § d) pontja hatályon kívül helyezte.
-[^67]: A 10. § (6) bekezdése a 62/2010. (III. 18.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 20–21. pontja, a 379/2016. (XII. 2.) Korm. rendelet 58. § d) pontja szerint módosított szöveg.
-[^68]: A 10. § új (7) bekezdése a 19/2015. (II. 16.) Korm. rendelet 7. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^69]: A 10. § eredeti (7) bekezdésének számozását (8) bekezdésre változtatta a 228/2006. (XI. 20.) Korm. rendelet 3. § (2) bekezdése, szövege a 62/2010. (III. 18.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^64]: A 10. § (4) bekezdés a) pontja a 607/2022. (XII. 28.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^65]: A 10. § (4) bekezdés b) pontja a 19/2015. (II. 16.) Korm. rendelet 9. § 18. pontja szerint módosított szöveg.
+[^66]: A 10. § (4) bekezdés c) pontja a 347/2019. (XII. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^67]: A 10. § (5) bekezdését a 347/2019. (XII. 23.) Korm. rendelet 3. § d) pontja hatályon kívül helyezte.
+[^68]: A 10. § (6) bekezdése a 62/2010. (III. 18.) Korm. rendelet 8. § (3) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 20–21. pontja, a 379/2016. (XII. 2.) Korm. rendelet 58. § d) pontja szerint módosított szöveg.
+[^69]: A 10. § új (7) bekezdése a 19/2015. (II. 16.) Korm. rendelet 7. §-ával megállapított, a 360/2019. (XII. 30.) Korm. rendelet 29. § (3) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^70]: A 10. § eredeti (7) bekezdésének számozását (8) bekezdésre változtatta a 228/2006. (XI. 20.) Korm. rendelet 3. § (2) bekezdése, szövege a 62/2010. (III. 18.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
