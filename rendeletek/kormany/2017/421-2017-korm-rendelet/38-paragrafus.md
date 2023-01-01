@@ -1,5 +1,3 @@
-## haladéktalanul kézbesíti a fél részére.
-
 ## X. Fejezet
 
 ## A TÁMOGATÁS IGÉNYBEVÉTELÉVEL KAPCSOLATOS ELJÁRÁS

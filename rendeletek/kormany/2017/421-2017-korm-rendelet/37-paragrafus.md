@@ -7,3 +7,5 @@
 a) a támogatást engedélyező határozat véglegessé válását követően, vagy
 
 b) a támogatást engedélyező határozat elleni keresetlevél benyújtása esetén a bíróság határozatának kézhezvételét követően
+
+haladéktalanul kézbesíti a fél részére.
