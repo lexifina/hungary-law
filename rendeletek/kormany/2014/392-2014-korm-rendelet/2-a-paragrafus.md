@@ -1,7 +1,7 @@
-2/A. §[^3] (1)[^4] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű hatósági ügyekben koordinációs feladatokat ellátó főispánként a Csongrád-Csanád Megyei Kormányhivatalt vezető főispánt (a továbbiakban: főispán) jelöli ki.
+2/A. §[^3] (1)[^4] A Kormány az 1. § (1) bekezdése szerinti kiemelt jelentőségű hatósági ügyekben koordinációs feladatokat ellátó főispánként a Csongrád-Csanád Vármegyei Kormányhivatalt vezető főispánt (a továbbiakban: főispán) jelöli ki.
 
 (2)[^5] A főispán az (1) bekezdés szerinti koordinációs feladatainak ellátása során együttműködik a Digitális Jólét Programjával kapcsolatos kormányzati feladatok összehangolásáért és megvalósításáért felelős miniszterelnöki biztossal (a továbbiakban: miniszterelnöki biztos), és minden hónap ötödik napjáig a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó főispánok felé, továbbá a koordinációs feladatokat ellátó főispánok által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályairól szóló 33/2013. (XII. 23.) KIM rendelet 3–6. mellékletében foglalt – kitöltött – táblázatok megküldésével tájékoztatja a miniszterelnöki biztost a kiemelt jelentőségű ügyekkel kapcsolatos intézkedéseiről és a kiemelt jelentőségű ügyek állásáról.
 
 [^3]: A 2/A. §-t a 346/2016. (XI. 17.) Korm. rendelet 1. §-a iktatta be.
-[^4]: A 2/A. § (1) bekezdése a 371/2020. (VII. 30.) Korm. rendelet 31. §-a, az 546/2022. (XII. 22.) Korm. rendelet 64. § a) pontja szerint módosított szöveg.
+[^4]: A 2/A. § (1) bekezdése a 371/2020. (VII. 30.) Korm. rendelet 31. §-a, az 546/2022. (XII. 22.) Korm. rendelet 64. § a) és b) pontja szerint módosított szöveg.
 [^5]: A 2/A. § (2) bekezdése az 546/2022. (XII. 22.) Korm. rendelet 64. § c) pontja szerint módosított szöveg.
