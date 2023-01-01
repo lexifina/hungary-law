@@ -2,7 +2,7 @@
 
 (2) A könyvek és kották kölcsönzéséről adatszolgáltatásra felkérhető könyvtárak a (3) bekezdésben foglalt kivétellel a következők:
 
-a) a megyei könyvtárak,
+a)[^1] a vármegyei könyvtárak,
 
 b) a fővárosi önkormányzat által fenntartott közkönyvtár,
 
@@ -13,3 +13,5 @@ d) a községi könyvtárak,
 e) az állami egyetemek könyvtárai.
 
 (3) Nem lehet adatszolgáltató az a könyvtár, amely nem rendelkezik a szolgáltatandó adatokat tartalmazó, számítógépen vezetett nyilvántartással.
+
+[^1]: Az 1. § (2) bekezdés a) pontja a 7/2022. (XII. 28.) KIM rendelet 1. §-a szerint módosított szöveg.
