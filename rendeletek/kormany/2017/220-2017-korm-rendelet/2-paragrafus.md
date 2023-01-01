@@ -14,6 +14,7 @@ c) nyilatkozik arról, hogy a bekötővezeték kiépítéséhez és biztonságos
 
 (4) A Hatóság a (2) bekezdésben meghatározott feltételeknek megfelelő személyekről (a továbbiakban: vízszerelő) nyilvántartást vezet.
 
-(5) A vízszerelőknek a víziközmű-szolgáltatásról szóló törvény szerinti jegyzékét a Hatóság honlapján, valamint a kormányzati portálon megyénkénti bontásban közzé kell tenni.
+(5)[^2] A vízszerelőknek a víziközmű-szolgáltatásról szóló törvény szerinti jegyzékét a Hatóság honlapján, valamint a kormányzati portálon vármegyénkénti bontásban közzé kell tenni.
 
 [^1]: A 2. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 614. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
+[^2]: A 2. § (5) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 261. § a) pontja szerint módosított szöveg.
