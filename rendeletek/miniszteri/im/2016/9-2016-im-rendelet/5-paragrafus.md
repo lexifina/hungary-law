@@ -1,6 +1,6 @@
 5. § (1) A kormányhivatal a népszavazási feladatok ellátása érdekében a TVI, illetve a HVI vezetője számára – megállapodás alapján – biztosítja
 
-a)[^1] a megfelelő számú, a kormányhivatallal állami szolgálati jogviszonyban álló állami tisztviselő választási iroda tagjává történő megbízásának lehetőségét és
+a)[^3] a megfelelő számú, a kormányhivatallal állami szolgálati jogviszonyban álló állami tisztviselő választási iroda tagjává történő megbízásának lehetőségét és
 
 b) a választási iroda tagjának közreműködését a népszavazási feladatok ellátásában, a választási iroda vezetőjének rendelkezése szerint.
 
@@ -12,7 +12,7 @@ b) a választási informatikai hálózat eléréséhez szükséges eszközöket 
 
 c) az a) és b) pontban foglaltakhoz szükséges kiemelt rendelkezésre állást.
 
-(3)[^2] A választási iroda tagjává történő megbízása esetén a kormányhivatallal állami szolgálati jogviszonyban álló állami tisztviselő is a választási iroda tagjával megegyező díjazásra jogosult.
+(3)[^4] A választási iroda tagjává történő megbízása esetén a kormányhivatallal állami szolgálati jogviszonyban álló állami tisztviselő is a választási iroda tagjával megegyező díjazásra jogosult.
 
 (4) Az (1) és (2) bekezdésben foglaltak különösen a következő népszavazási feladatok elvégzését szolgálhatják:
 
@@ -24,5 +24,5 @@ c) a választások pénzügyi és logisztikai elszámolási feladatai informatik
 
 (5) A választási iroda és a kormányhivatal együttműködik a népszavazási feladatok határidőre történő elvégzése érdekében. A népszavazási feladatok határidőre történő elvégzése elsőbbséget élvez a kormányhivatal egyéb feladataival szemben.
 
-[^1]: Az 5. § (1) bekezdés a) pontja a 23/2016. (XII. 21.) IM rendelet 6. §-a szerint módosított szöveg.
-[^2]: Az 5. § (3) bekezdése a 23/2016. (XII. 21.) IM rendelet 6. §-a szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdés a) pontja a 23/2016. (XII. 21.) IM rendelet 6. §-a szerint módosított szöveg.
+[^4]: Az 5. § (3) bekezdése a 23/2016. (XII. 21.) IM rendelet 6. §-a szerint módosított szöveg.

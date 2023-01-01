@@ -32,10 +32,10 @@ i) gondoskodik a megfelelő szavazóhelyiség és a szavazáshoz szükséges egy
 
 (3) A HVI vezetője – a Ve.-ben foglalt feladatain túl –
 
-a)[^3]
+a)[^5]
 
 b) a kinyomtatott névjegyzéket és a mozgóurnát igénylő választópolgárok kinyomtatott jegyzékét az utolsó oldalon aláírásával és lebélyegzéssel hitelesíti, és erről tájékoztatja az NVI-t.
 
 (4) Az R. 1. melléklet 1. pontjában meghatározott település HVI-je a személyazonosság ellenőrzését és az átvétel igazolását követően átadja a szavazási levélcsomagot a választópolgárnak.
 
-[^3]: A 10. § (3) bekezdés a) pontját a 26/2018. (IX. 7.) IM rendelet 29. § a) pontja hatályon kívül helyezte.
+[^5]: A 10. § (3) bekezdés a) pontját a 26/2018. (IX. 7.) IM rendelet 29. § a) pontja hatályon kívül helyezte.

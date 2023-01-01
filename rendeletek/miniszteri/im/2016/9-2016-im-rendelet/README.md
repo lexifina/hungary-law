@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-9-20-06
 | 2017-01-01 | 2016-9-20-06.4 | 23/2016. (XII. 21.) IM rendelet |
 | 2018-07-01 | 2016-9-20-06.5 | 16/2018. (VI. 22.) IM rendelet |
 | 2018-09-08 | 2016-9-20-06.6 | 26/2018. (IX. 7.) IM rendelet |
+| 2023-01-01 | 2016-9-20-06.7 | 42/2022. (XII. 28.) IM rendelet |

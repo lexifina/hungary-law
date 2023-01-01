@@ -1,5 +1,3 @@
-## Az országos népszavazáson használandó nyomtatványok
-
 | 1. | nyomtatvány megnevezése |
 
 | 2. | Szavazóköri névjegyzék |
@@ -36,7 +34,7 @@
 
 2. melléklet a 9/2016. (VI. 28.) IM rendelethez
 
-## Szavazóköri névjegyzék
+Szavazóköri névjegyzék
 
 SZAVAZÓKÖRI NÉVJEGYZÉK
 
@@ -51,31 +49,3 @@ ORSZÁGOS NÉPSZAVAZÁS
 (szavazóhelyiség címe)
 
 1. oldal
-
-|  | A választópolgár adatai | A választópolgár aláírása |
-
-| 1. | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) |  |
-
-| 2. | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) |  |
-
-| 3. | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) |  |
-
-| 4. | (név) (személyi azonosító) (születési név) (lakcím) (szavazási segítség) |  |
-
-| … |  |  |
-
-(A névjegyzék utolsó oldalán)
-
-| a névjegyzékben és a mozgóurnát igénylő választópolgárok jegyzékében szereplő választópolgárok száma összesen |
-
-|  | A |
-
-| a szavazóhelyiségben megjelent választópolgárok száma: (aláírások száma a névjegyzéken) |  |  |
-
-|  | + |  |
-
-| mozgóurnával szavazó választópolgárok száma: (aláírások száma a mozgóurnát igénylő választópolgárok jegyzékén) |  |  |
-
-|  | = |  |
-
-| a szavazóként megjelent választópolgárok száma összesen: |  | E |

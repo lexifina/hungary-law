@@ -10,7 +10,7 @@ a) ellátja a külképviseleti szavazással és a levélben szavazással kapcsol
 
 b) átadja a megfigyelőnek a kitűzőt, valamint tájékoztatja jogairól és kötelezettségeiről,
 
-c)[^7] a külképviselet épületében a szavazást megelőző 15. naptól, valamint a külképviseleti szavazás időtartama alatt külön urnát biztosít a levélben szavazók válaszborítékjának leadására, amelyet a válaszboríték leadására rendelkezésre álló időben folyamatosan felügyel,
+c)[^9] a külképviselet épületében a szavazást megelőző 15. naptól, valamint a külképviseleti szavazás időtartama alatt külön urnát biztosít a levélben szavazók válaszborítékjának leadására, amelyet a válaszboríték leadására rendelkezésre álló időben folyamatosan felügyel,
 
 d) minden munkanap, valamint a külképviseleti szavazás napján a válaszboríték leadására rendelkezésre álló nyitvatartási idő elteltét követően felbontja az urnát, megszámlálja a leadott válaszborítékokat, és azokat becsomagolja úgy, hogy a csomagolás megsértése nélkül ne lehessen a csomag tartalmát megváltoztatni,
 
@@ -28,4 +28,4 @@ i) kinyomtatja és hitelesíti a külképviseleti névjegyzéket, ha azt az NVI 
 
 (3) Az R. 1. melléklet 2. pontjában meghatározott külképviseleten működő KÜVI a személyazonosság ellenőrzését és az átvétel igazolását követően átadja a szavazási levélcsomagot a választópolgárnak.
 
-[^7]: A 13. § (1) bekezdés c) pontja a 26/2018. (IX. 7.) IM rendelet 29. § b) pontja szerint módosított szöveg.
+[^9]: A 13. § (1) bekezdés c) pontja a 26/2018. (IX. 7.) IM rendelet 29. § b) pontja szerint módosított szöveg.

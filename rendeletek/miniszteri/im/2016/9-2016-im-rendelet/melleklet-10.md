@@ -1,4 +1,4 @@
-## Visszautasítottak jegyzéke
+## 6K07398_0
 
 | VISSZAUTASÍTOTTAK JEGYZÉKE |
 
@@ -30,10 +30,12 @@
 
 | 10. |  |  |  |
 
+## 6K07398_1
+
 |  | , |  | év |  | hó | nap |
 
 |  | jegyzőkönyvvezető |
 
-10. melléklet a 9/2016. (VI. 28.) IM rendelethez[^19]
+10. melléklet a 9/2016. (VI. 28.) IM rendelethez[^21]
 
-[^19]: A 10. melléklet a 26/2018. (IX. 7.) IM rendelet 28. § d) pontjával megállapított szöveg.
+[^21]: A 10. melléklet a 42/2022. (XII. 28.) IM rendelet 4. § (2) bekezdésével megállapított szöveg.

@@ -6,6 +6,8 @@
 
 ## A NÉPSZAVAZÁS EREDMÉNYÉRŐL
 
+## 6K07408_1
+
 | (A NÉPSZAVAZÁSRA BOCSÁTOTT KÉRDÉS) | A Nemzeti Választási Bizottság állítja ki két példányban! |
 
 | Ez a ⎕ számú példány. |
@@ -48,6 +50,8 @@
 
 ## NEMZETI VÁLASZTÁSI BIZOTTSÁG
 
+## 6K07408_9
+
 | NÉV | Aláírás az eredmény megállapításakor | Aláírás a jegyzőkönyv átvételéről |
 
 | ………………………………………………………..…… Nemzeti Választási Bizottság elnöke |  | – |
@@ -80,6 +84,6 @@
 
 ## p. h.
 
-18–21. melléklet a 9/2016. (VI. 28.) IM rendelethez[^22]
+18. melléklet a 9/2016. (VI. 28.) IM rendelethez[^24]
 
-[^22]: A 18–21. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 18–21. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

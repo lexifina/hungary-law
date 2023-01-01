@@ -8,6 +8,8 @@
 
 ## (A NÉPSZAVAZÁSRA BOCSÁTOTT KÉRDÉS)
 
+## 6K07404_1
+
 |  | A Nemzeti Választási Iroda állítja ki két példányban! |
 
 | Ez a |  | számú példány. |
@@ -39,6 +41,8 @@
 | I | N |
 
 ## NEMZETI VÁLASZTÁSI BIZOTTSÁG JELEN LÉVŐ TAGJAI, MEGFIGYELŐK
+
+## 6K07404_7
 
 | NÉV | Aláírás | Aláírás a jegyzőkönyv átvételéről |
 
