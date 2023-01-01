@@ -31,3 +31,5 @@
 ## ii. a kockázatfinanszírozási támogatásra való jogosultság szempontjából olyan kis- és középvállalkozások esetében, amelyeknél az első kereskedelmi értékesítéstől számítva hét év még nem telt el, amennyiben a kis- és középvállalkozás a kiválasztott pénzügyi közvetítő hivatalos átvilágítása alapján kockázatfinanszírozási befektetésre jogosult.
 
 7. melléklet a 165/2014. (VII. 17.) Korm. rendelethez
+
+Az elszámolható költség jelenértékének meghatározása

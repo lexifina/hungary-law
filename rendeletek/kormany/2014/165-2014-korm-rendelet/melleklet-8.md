@@ -1,5 +1,3 @@
-## Az elszámolható költség jelenértékének meghatározása
-
 ## ahol
 
 ## EJ - az elszámolható költség jelenértéken;
@@ -12,7 +10,7 @@
 
 ## i - diszkont kamatláb.
 
-8. melléklet a 165/2014. (VII. 17.) Korm. rendelethez[^62]
+8. melléklet a 165/2014. (VII. 17.) Korm. rendelethez[^63]
 
 Az adókedvezmény támogatástartalmának meghatározása
 
@@ -28,4 +26,4 @@ Xn - a kérelem, bejelentés adóévét követő n. adóévben igénybe vehető/
 
 i - a kérelem, bejelentés benyújtásakor érvényes diszkont kamatláb
 
-[^62]: A 8. mellékletet a 395/2017. (XII. 13.) Korm. rendelet 7. § (4) bekezdése iktatta be.
+[^63]: A 8. mellékletet a 395/2017. (XII. 13.) Korm. rendelet 7. § (4) bekezdése iktatta be.

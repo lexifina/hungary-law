@@ -32,7 +32,7 @@ b) az újonnan létrehozott munkakörökben foglalkoztatott munkavállalók teki
 
 c) a foglalkoztatottak átlagos állományi létszámát az adókedvezmény első igénybevételének adóévét követő harmadik és az azt követő négy adóévben
 
-## benyújtott társasági adóbevallásban kell az adózónak szerepeltetnie.
+benyújtott társasági adóbevallásban kell az adózónak szerepeltetnie.
 
 (5) Ha az adózó a beruházást a kérelemben beruházási kezdőnapként megjelölt napot követő két naptári éven belül nem kezdte meg, ennek tényéről azon adóévről készült társasági adóbevallásában köteles nyilatkozni, amely adóévben a beruházás megkezdésére nyitva álló két naptári év eredménytelenül letelt.
 

@@ -16,7 +16,7 @@ a) kisvállalkozásnak minősül, akkor a támogatási intenzitás 20 százalék
 
 b) középvállalkozásnak minősül, akkor a támogatási intenzitás 10 százalékponttal
 
-## növelt értéke a (2) bekezdésben meghatározott mértéknek, kivéve, ha a beruházás nagyberuházásnak minősül.
+növelt értéke a (2) bekezdésben meghatározott mértéknek, kivéve, ha a beruházás nagyberuházásnak minősül.
 
 (5)[^42] Nagyberuházás esetén a támogatási intenzitás a (2) bekezdés alapján meghatározott támogatási intenzitás
 
