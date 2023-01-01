@@ -1,6 +1,6 @@
 7. melléklet a 121/2016. (VI. 7.) Korm. rendelethez
 
-## Okmány a robbanóanyagok Európai Gazdasági Térségen belüli szállításához
+Okmány a robbanóanyagok Európai Gazdasági Térségen belüli szállításához
 
 [a 2014/28/EU irányelv 11. cikkének (5) és (6) bekezdése]
 
@@ -72,7 +72,7 @@
 
 |  | (aláírás) |
 
-Magyarázó megjegyzések:
+## Magyarázó megjegyzések:
 
 1. A robbanóanyagok címzettje tölti ki a robbanóanyagok Európai Gazdasági Térségen belüli szállítására szolgáló okmány 1–4. részét és az okmányt a címzett illetékes hatóságához nyújtja be engedélyezés céljából.
 

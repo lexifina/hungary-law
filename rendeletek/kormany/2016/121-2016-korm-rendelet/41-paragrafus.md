@@ -1,5 +1,5 @@
-## 40. §
+## 25.[^40]
 
-## 25.[^39]
+41. §
 
-[^39]: A 25. alcímet (41. §) a 26/2022. (I. 28.) Korm. rendelet 17. § 11. pontja hatályon kívül helyezte.
+[^40]: A 25. alcímet (41. §) a 26/2022. (I. 28.) Korm. rendelet 17. § 11. pontja hatályon kívül helyezte.

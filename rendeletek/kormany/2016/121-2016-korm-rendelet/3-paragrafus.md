@@ -1,5 +1,3 @@
-## 2. §[^3]
-
 ## 2. Értelmező rendelkezések
 
 ## 3. § E rendelet alkalmazásában:
@@ -60,7 +58,6 @@
 
 28.[^17]
 
-[^3]: A 2. §-t a 26/2022. (I. 28.) Korm. rendelet 17. § 1. pontja hatályon kívül helyezte.
 [^4]: A 3. § 1. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
 [^5]: A 3. § 7. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
 [^6]: A 3. § 8. pontját a 26/2022. (I. 28.) Korm. rendelet 17. § 2. pontja hatályon kívül helyezte.
