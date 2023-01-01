@@ -46,7 +46,7 @@
 
 23. teljesítményértékelés kötelező elemei: a Korm. rendelet 5. §-a szerinti munkaköri egyéni teljesítménykövetelmények, valamint a kompetencia alapú munkamagatartás értékelési tényezők;
 
-24.[^14] területi szerv: a megyei, fővárosi rendőr-főkapitányság, a büntetés-végrehajtási intézet, a fővárosi, megyei katasztrófavédelmi igazgatóság, az egyes feladatok létrehozására törvény vagy kormányrendelet által létrehozott más rendőri szerv, a büntetés-végrehajtási intézmény, az Országos Katasztrófavédelmi Főigazgatóság Gazdasági Ellátó Központ, a Katasztrófavédelmi Oktatási Központ, a Nemzeti Védelmi Szolgálat igazgatósága, az Országos Idegenrendészeti Főigazgatóság igazgatósága, valamint a Terrorelhárítási Központ igazgatósága;
+24.[^14] területi szerv: a vármegyei, fővárosi rendőr-főkapitányság, a büntetés-végrehajtási intézet, a fővárosi, vármegyei katasztrófavédelmi igazgatóság, az egyes feladatok létrehozására törvény vagy kormányrendelet által létrehozott más rendőri szerv, a büntetés-végrehajtási intézmény, az Országos Katasztrófavédelmi Főigazgatóság Gazdasági Ellátó Központ, a Katasztrófavédelmi Oktatási Központ, a Nemzeti Védelmi Szolgálat igazgatósága, az Országos Idegenrendészeti Főigazgatóság igazgatósága, valamint a Terrorelhárítási Központ igazgatósága;
 
 25. vezető besorolású értékelt személy: osztályvezető, vagy annál magasabb besorolású vezető.
 
@@ -59,4 +59,4 @@
 [^11]: A 2. § 19. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 3. pontja szerint módosított szöveg.
 [^12]: A 2. § 20. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 1. pontja szerint módosított szöveg.
 [^13]: A 2. § 22. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^14]: A 2. § 24. pontja a 27/2019. (VI. 28.) BM rendelet 37. § f) pontja szerint módosított szöveg.
+[^14]: A 2. § 24. pontja a 27/2019. (VI. 28.) BM rendelet 37. § f) pontja, a 45/2022. (XII. 20.) BM rendelet 73. §-a szerint módosított szöveg.
