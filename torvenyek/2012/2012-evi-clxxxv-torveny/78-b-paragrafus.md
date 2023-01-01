@@ -1,4 +1,4 @@
-78/B. § (1) A hulladékgazdálkodásért felelős miniszter a hulladékgazdálkodási igazgatásért való felelőssége körében
+78/B. § (1) A miniszter a hulladékgazdálkodási igazgatásért való felelőssége körében
 
 a) közreműködik a nemzeti hulladékgazdálkodási politika végrehajtásában,
 
@@ -30,7 +30,7 @@ c) a hulladékgyűjtő pontok listáját, és
 
 d) a hulladékudvarok listáját,
 
-3. a körforgásos gazdaság tekintetében a terméklánc különböző etapjaiban részt vevők és a hulladékgazdálkodási tevékenységet folytatók segítése érdekében – elvi jelentőségű jogértelmezési kérdésekben a hulladékgazdálkodásért felelős miniszterrel szükség szerint egyeztetve – állásfoglalásokat ad,
+3. a körforgásos gazdaság tekintetében a terméklánc különböző etapjaiban részt vevők és a hulladékgazdálkodási tevékenységet folytatók segítése érdekében – elvi jelentőségű jogértelmezési kérdésekben a miniszterrel szükség szerint egyeztetve – állásfoglalásokat ad,
 
 4. figyelemmel kíséri e törvény, valamint a végrehajtására kiadott jogszabályok érvényesülését, kezdeményezi az arra jogosultnál a szükséges jogszabályok megalkotását, módosítását,
 
@@ -46,17 +46,17 @@ d) a hulladékudvarok listáját,
 
 10. ellátja a jogszabályban a hatáskörébe utalt egyéb feladatokat,
 
-11. folyamatos hulladékgazdálkodási adatelemzéseket végez a hulladékgazdálkodásért felelős miniszter utasításának megfelelően,
+11. folyamatos hulladékgazdálkodási adatelemzéseket végez a miniszter utasításának megfelelően,
 
-12. folyamatos piacelemzést végez, a hulladékgazdálkodásért felelős miniszter utasításának megfelelően,
+12. folyamatos piacelemzést végez, a miniszter utasításának megfelelően,
 
 13. javaslatot tesz a hulladékstátusz megszűnésére vonatkozó hazai jogszabályokra, egyéb szabályozókra,
 
-14. a hulladékgazdálkodásért felelős miniszter egyetértésében kidolgozza a hulladékgazdálkodási szabványokat és öko-címkéket,
+14. a miniszter egyetértésével kidolgozza a hulladékgazdálkodási szabványokat és öko-címkéket,
 
 15. gondoskodik a körforgásos gazdaság és a hulladékgazdálkodás területén az iskolarendszeren kívüli hatósági jellegű képzések és vizsgáztatás szervezéséről, illetve végzéséről,
 
-16. végzi az ellenőrzések során vett minták vizsgálati eredményeinek országos értékelését és annak eredményét negyedévente megküldi a hulladékgazdálkodásért felelős miniszter részére,
+16. végzi az ellenőrzések során vett minták vizsgálati eredményeinek országos értékelését és annak eredményét negyedévente megküldi a miniszter részére,
 
 17. felügyeli és ellenőrzi a hulladékgazdálkodás e törvényben meghatározott egyes szereplőinek tevékenységét, tapasztalatairól beszámol a miniszternek,
 
@@ -64,15 +64,15 @@ d) a hulladékudvarok listáját,
 
 19. ellátja a hulladékgazdálkodási ágazat piacfelügyeleti ellenőrzési feladatait,
 
-20. egységes elveken alapuló kockázatbecslési eljárásokat dolgoz ki és a hulladékgazdálkodásért felelős minisztert tájékoztatja azok eredményeiről,
+20. egységes elveken alapuló kockázatbecslési eljárásokat dolgoz ki és a minisztert tájékoztatja azok eredményeiről,
 
-21. kockázatbecslést végez, illetve felkérésre közreműködik más szervek által végzett kockázatbecslésben és a hulladékgazdálkodásért felelős minisztert tájékoztatja e tevékenységek eredményéről,
+21. kockázatbecslést végez, illetve felkérésre közreműködik más szervek által végzett kockázatbecslésben és a minisztert tájékoztatja e tevékenységek eredményéről,
 
-22. koordinálja az érintett hatóságok között az ellenőrzési tervek, illetve módszerek egyeztetését, összehangolását, és az ellenőrzési tapasztalatok közös értékelését, illetve közös ellenőrzési jelentések készítését és a hulladékgazdálkodásért felelős minisztert tájékoztatja e tevékenységek eredményéről,
+22. koordinálja az érintett hatóságok között az ellenőrzési tervek, illetve módszerek egyeztetését, összehangolását, és az ellenőrzési tapasztalatok közös értékelését, illetve közös ellenőrzési jelentések készítését és a minisztert tájékoztatja e tevékenységek eredményéről,
 
 23. ellátja az e törvény hatálya alá tartozó termékekkel, szolgáltatásokkal és tevékenységekkel kapcsolatos tanúsítványok ellenőrzési, felügyeleti és minősítési feladatokat,
 
-24. központi kockázatkezelési rendszert működtet a hulladékgazdálkodási szabályok megsértésére irányuló cselekmények megelőzése, felszámolása, utókezelése, valamint a hatósági intézkedések koordinációja érdekében és a hulladékgazdálkodásért felelős minisztert tájékoztatja e tevékenységek eredményéről,
+24. központi kockázatkezelési rendszert működtet a hulladékgazdálkodási szabályok megsértésére irányuló cselekmények megelőzése, felszámolása, utókezelése, valamint a hatósági intézkedések koordinációja érdekében és a minisztert tájékoztatja e tevékenységek eredményéről,
 
 25. ellátja a hatósági feladatokat annak érdekében, hogy minden új hulladékgazdálkodási létesítmény, különösen a hulladéklerakó, vagy egyéb hulladékártalmatlanító helyszín kijelölése, az ilyen tevékenység megkezdése kizárólag a hulladékgazdálkodási hatóság előzetes szakhatósági állásfoglalása vagy engedélye birtokában legyen lehetséges,
 
@@ -94,4 +94,4 @@ d) a hulladékudvarok listáját,
 
 (4) Az e törvényben meghatározott hulladékgazdálkodási feladatok ellátása érdekében a 86. § (11) és (13) bekezdése szerinti szervezetek, valamint az utak és a vasutak vonatkozásában elhelyezett informatikai rendszerek adatgazdái kötelesek a hulladékgazdálkodási hatósággal szorosan együttműködni, és minden szükséges információt megadni a hulladékgazdálkodási hatóság hatékony tevékenységének elősegítése érdekében. E szervezetek a hulladékgazdálkodási hatóság megkeresésére a hulladékgazdálkodási hatóság rendelkezésére bocsátják a feladatkörükben tudomásra jutott, a hulladékgazdálkodás szempontjából jelentős áruforgalmi, rendészeti és határellenőrzési adatokat.
 
-(5) A hulladékgazdálkodásért felelős miniszter szakmai irányító tevékenysége keretében a megyei kormányhivatalok – személyes adatok kivételével – adatgyűjtést végeznek, nyilvántartást vezetnek, valamint adatot küldenek a hulladékgazdálkodásért felelős miniszternek az országos adatbázisok kialakítása és fenntartása érdekében.
+(5) A miniszter szakmai irányító tevékenysége keretében a vármegyei kormányhivatalok – személyes adatok kivételével – adatgyűjtést végeznek, nyilvántartást vezetnek, valamint adatot küldenek a miniszternek az országos adatbázisok kialakítása és fenntartása érdekében.

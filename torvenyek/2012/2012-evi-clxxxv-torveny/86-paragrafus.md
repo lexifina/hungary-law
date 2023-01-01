@@ -10,7 +10,7 @@ c) a melléktermék előállításáról vagy képződéséről a hulladékgazd�
 
 d) terméket a hulladékképződés megelőzésével kapcsolatos jogszabály, közvetlenül alkalmazandó uniós jogi aktus vagy hatósági határozat előírásait megsértve forgalmaz,
 
-a hulladékgazdálkodási hatóság a hulladékgazdálkodási bírság mértékéről, valamint kiszabásának és megállapításának módjáról szóló kormányrendelet szerint hulladékgazdálkodási bírság megfizetésére kötelezi.
+a hulladékgazdálkodási hatóság az e törvény végrehajtására kiadott kormányrendelet szerint hulladékgazdálkodási bírság megfizetésére kötelezi.
 
 (2) Az (1) bekezdés szerinti jogsértést elkövető – a tízezer forintot el nem érő hulladékgazdálkodási bírság kiszabása helyett az elhagyott hulladék felszámolása mellett – a hulladékgazdálkodási hatóság által szervezett hulladékgazdálkodással összefüggő képzésen (a továbbiakban: hulladékgazdálkodási képzés) való részvételre kötelezhető.
 
@@ -73,3 +73,5 @@ k) az élelmiszer-rendész
 (15) A hulladékgazdálkodási bírság megfizetése nem mentesít a büntetőjogi, továbbá a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására vagy a megfelelő védekezés kialakítására, a természetes vagy eredeti környezeti állapot helyreállítására vonatkozó kötelezettség teljesítése alól.
 
 (16) A hulladék mennyiségének meghatározása különösen méréssel, számítással, valamint műszaki becsléssel történhet.
+
+(17) A hulladékgazdálkodási bírság megfizetésére a területi hulladékgazdálkodási hatóság a végrehajtás elrendelése előtt – kérelemre – legfeljebb 3 évig terjedő részletfizetést engedélyezhet.

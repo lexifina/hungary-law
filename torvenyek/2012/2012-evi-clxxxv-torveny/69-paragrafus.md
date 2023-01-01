@@ -10,7 +10,7 @@ kamattal növelt összegben történő megfizetésére.
 
 (3) A járulékfizetésre kötelezett által megfizetett összeget – ha az összes tartozásnál kisebb – sorrendben (ezen belül nemenként a legrégebbi tartozástól kezdve) az adóbírságra, a mulasztási bírságra, azt követően a késedelmi pótlékra, végül a hulladéklerakási járulék tartozásra kell elszámolni.
 
-(4) Ha a járulékfizetésre kötelezett a bejelentési, a nyilvántartási, az adatszolgáltatási, valamint a hulladéklerakási járulék- és pótlékbefizetési kötelezettségének nem tesz eleget, az adózás rendjéről szóló törvényt kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon hulladékgazdálkodási hatóságot kell érteni.
+(4) Ha a járulékfizetésre kötelezett a bejelentési, a nyilvántartási, az adatszolgáltatási, valamint a hulladéklerakási járulék- és pótlékbefizetési kötelezettségének nem tesz eleget, az adózás rendjéről szóló törvényt, valamint az adóigazgatási rendtartásról szóló törvényt kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon hulladékgazdálkodási hatóságot kell érteni. Az adózás rendjéről szóló törvény, valamint az adóról és az adóigazgatási eljárásról szóló törvény alkalmazásakor a hulladékgazdálkodási hatóság eljárása adóigazgatási eljárásnak minősül.
 
 (4a)
 

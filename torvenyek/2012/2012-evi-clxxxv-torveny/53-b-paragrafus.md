@@ -26,7 +26,7 @@ a) a Koordináló szerv a hulladékgazdálkodási közszolgáltatással összef�
 
 b) a helyi önkormányzat – szükség esetén ideértve az önkormányzati társulást is – a hulladékgazdálkodási közszolgáltatással nem érintett hulladékgazdálkodási tevékenység ellátásába bevont önkormányzati vagyonelemekkel kapcsolatos, az önkormányzati vagyonkataszterben szereplő,
 
-c) a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter – a fővárosi és megyei kormányhivatalok bevonásával – a nem hulladékgazdálkodási közszolgáltatási tevékenységet végző gazdálkodó szervezeteknek a hulladék gyűjtéséhez, szállításához, közvetítéséhez, kereskedelméhez és a hasznosítás kivételével a kezeléséhez igénybevett – ideértve a bérletet vagy lízinget is – vagyonelemek hulladékgazdálkodási engedélyében szereplő
+c) a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter – a fővárosi és vármegyei kormányhivatalok bevonásával – a nem hulladékgazdálkodási közszolgáltatási tevékenységet végző gazdálkodó szervezeteknek a hulladék gyűjtéséhez, szállításához, közvetítéséhez, kereskedelméhez és a hasznosítás kivételével a kezeléséhez igénybevett – ideértve a bérletet vagy lízinget is – vagyonelemek hulladékgazdálkodási engedélyében szereplő
 
 adatokat.
 

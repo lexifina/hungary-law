@@ -6,8 +6,8 @@
 
 73. § (1) A hulladékgazdálkodási hatóság a hulladékgazdálkodás stratégiai célkitűzéseinek, az e törvényben megállapított célok elérésének, továbbá az alapvető hulladékgazdálkodási elvek – különösen a hulladékképződés megelőzésének elve – érvényesítésének érdekében előkészíti az Országos Hulladékgazdálkodási Tervet (a továbbiakban: OHT), és annak részeként az Országos Megelőzési Programot (a továbbiakban: OMP).
 
-(2) Az OHT és az OMP kidolgozásakor a hulladékgazdálkodásért felelős miniszter együttműködik az Európai Unió érintett tagállamaival és az Európai Bizottsággal.
+(2) Az OHT és az OMP kidolgozásakor a miniszter együttműködik az Európai Unió érintett tagállamaival és az Európai Bizottsággal.
 
-(3) Az OHT-t és az OMP-t a hulladékgazdálkodásért felelős miniszter terjeszti a Kormány elé.
+(3) Az OHT-t és az OMP-t a miniszter terjeszti a Kormány elé.
 
 (4) Az OHT és az OMP elfogadásáról a Kormány határozatban dönt, az OHT és az OMP normatív tartalommal rendelkező előírásait e törvény végrehajtására kiadott kormányrendelet állapítja meg.

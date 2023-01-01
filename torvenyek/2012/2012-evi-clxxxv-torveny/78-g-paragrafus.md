@@ -2,4 +2,4 @@
 
 (2) A helyszíni ellenőrzés és szemle költségét a hulladékgazdálkodási hatóság önköltségszámításra vonatkozó szabályzatában foglaltak szerint kell megállapítani.
 
-(3) A kötelezett jogsértő magatartása miatt felmerült, a hulladékgazdálkodási hatóság által hivatalból végzett vizsgálat költségét a kötelezett viseli.
+(3) A kötelezett jogsértő magatartása miatt felmerült, a hulladékgazdálkodási hatóság által hivatalból végzett eljárás és vizsgálat költségét a kötelezett viseli.

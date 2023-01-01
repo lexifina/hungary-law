@@ -1,12 +1,18 @@
-53/K. § (1) A koncessziós társaság a hulladékgazdálkodási kötelezettségeit szolgáló tevékenységeinek bemutatására évente, tízéves időtartamra gördülő fejlesztési rendszertervet készít, melyet az első 10 évre vonatkozóan 2022. október 31-ig nyújt be. A 10 évre vonatkozó gördülő fejlesztési rendszertervek felülvizsgált változatát a koncessziós társaság az adott év január 15. napjáig köteles – a hulladékgazdálkodási hatóság útján – benyújtani a miniszternek.
+53/K. § (1) A koncessziós társaság a hulladékgazdálkodási kötelezettségeit szolgáló tevékenységeinek bemutatására évente, tízéves időtartamra gördülő fejlesztési rendszertervet készít, melyet az első 10 évre vonatkozóan 2022. október 31-ig nyújt be. A 10 évre vonatkozó gördülő fejlesztési rendszertervek felülvizsgált változatát a koncessziós társaság az adott év január 15. napjáig köteles benyújtani a miniszternek.
 
-(2) A gördülő fejlesztési rendszerterveket a miniszter – a hulladékgazdálkodási hatóság javaslata alapján, a Hivatal véleményének kikérését követően – hagyja jóvá a benyújtást követő 45 napon belül.
+(2) A gördülő fejlesztési rendszerterveket a miniszter a Hivatal véleményének kikérését követően hagyja jóvá a benyújtást követő 45 napon belül.
 
-(3) A miniszter a rendszerelem fejlesztését akkor hagyja jóvá, ha a koncessziós társaság igazolja, hogy a fejlesztés szükséges a hulladékgazdálkodási jogszabályokban meghatározott hulladékgazdálkodási kötelezettségek, különösen az egyes, a koncessziós szerződéssel érintett hulladékáramokra meghatározott célértékek teljesítéséhez és a fejlesztéssel járó költségek arányban állnak az elérni kívánt környezetvédelmi és gazdasági előnyökkel.
+(3) A gördülő fejlesztési rendszerterv tételének vagy elemének jóváhagyását a miniszter megtagadja, ha:
 
-(4) A megvalósított éves fejlesztésekről a koncessziós társaság a következő év január 15. napjáig beszámol – a hulladékgazdálkodási hatóságon keresztül – a miniszternek.
+a) a benne foglalt valamely beruházás vagy beszerzés nem szükséges az e törvény végrehajtására kiadott jogszabályban vagy a koncessziós szerződésben meghatározott hulladékgazdálkodási tevékenységhez, különösen az egyes hulladékáramokra meghatározott célértékek teljesítéséhez,
 
-(5) A miniszter – a hulladékgazdálkodási hatóság bevonásával – a koncessziós társaság (4) bekezdésben foglalt beszámolója alapján a kézhezvételtől számított 30 napon belül elvégzi a megvalósított fejlesztések fejlesztési rendszertervben foglaltakkal való összhangjának ellenőrzését.
+b) valamely beruházás vagy beszerzés költsége nem áll arányban az elérni kívánt környezetvédelmi és gazdasági előnyökkel, vagy
+
+c) az nem felel meg a koncessziós társaság által a koncessziós szerződésben vállalt kötelezően elvégzendő beruházásoknak és beszerzéseknek, vagy a koncessziós időszak első 10 évére készített beruházási ütemtervnek.
+
+(4) A megvalósított éves fejlesztésekről a koncessziós társaság a következő év január 15. napjáig beszámol a miniszternek. A beszámolót egyidejűleg megküldi a Hivatal részére is.
+
+(5) A miniszter a koncessziós társaság (4) bekezdésben foglalt beszámolója alapján a kézhezvételtől számított 30 napon belül elvégzi a megvalósított fejlesztések fejlesztési rendszertervben foglaltakkal való összhangjának ellenőrzését.
 
 (6) A koncessziós szerződés hatálya alatti rendszerelem fejlesztés során keletkező vagyonelem tulajdonjoga a koncessziós társaságot illeti meg azzal, hogy azt a koncessziós szerződés megszűnéséig – az állam részére történő elidegenítés kivételével – nem idegenítheti el és nem terhelheti meg. A koncesszió időtartama alatt fejlesztett vagyonelemek tekintetében az államot a koncessziós szerződés megszűnésekor könyv szerinti értéken vételi jog illeti meg.
 

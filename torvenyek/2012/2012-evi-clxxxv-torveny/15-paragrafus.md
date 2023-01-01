@@ -4,7 +4,7 @@
 
 (1a) A hulladék hasznosítója az (1) bekezdés előírásainak megfelelően azt a hasznosítási műveletet alkalmazza, amely a hasznosítandó hulladék vonatkozásában az összességében a legjobb környezeti eredményt biztosítja.
 
-(2) Hasznosítási művelet – ha törvény vagy kormányrendelet eltérően nem rendelkezik – a hulladékgazdálkodási hatóság által kiadott hulladékgazdálkodási engedéllyel végezhető.
+(2) Hasznosítási művelet – ha törvény vagy kormányrendelet eltérően nem rendelkezik, valamint ha törvény vagy kormányrendelet az engedély kiadását más hatóság hatáskörébe nem utalja – a hulladékgazdálkodási hatóság által kiadott hulladékgazdálkodási engedéllyel végezhető.
 
 (3) Ha a hasznosítási művelet elvégzéséhez a hulladék más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal való összekeverése szükséges, a hulladékkezelő a hasznosítandó hulladékot csak abban az esetben keverheti össze más hulladékkal vagy eltérő tulajdonságokkal rendelkező más anyagokkal, ha az összességében legjobb környezeti eredmény másképp nem biztosítható. Ilyen művelet csak kezelésre vonatkozó hulladékgazdálkodási engedéllyel végezhető.
 

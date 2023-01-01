@@ -24,7 +24,7 @@ b) adatokat gyűjt – a termék értékláncra és a hulladékgazdálkodásra v
 
 c) felméréseket végez a hulladékra, valamint az e törvény hatálya alá tartozó létesítményekre, tevékenységekre, és a tevékenységet végzőkre vonatkozóan.
 
-(4) Az (1) bekezdésben meghatározott felügyeletet a hulladékgazdálkodásért felelős miniszter a hulladékgazdálkodási hatóság útján látja el.
+(4) Az (1) bekezdésben meghatározott felügyeletet a miniszter a hulladékgazdálkodási hatóság útján látja el.
 
 (5) A hulladékgazdálkodási hatóság feladatait a Kormány által – e törvény végrehajtására kiadott kormányrendeletben – kijelölt szerv látja el.
 
@@ -37,3 +37,5 @@ b) a hulladékgazdálkodási ágazat megfelelőségéhez kapcsolódó minőségb
 c) a körforgásos gazdaságra történő átállás érdekében a termék életciklus valamennyi szakaszának ellenőrzésére, minőségbiztosítására és felügyeletére vonatkozó feladatokat, valamint
 
 d) az elhagyott hulladék felszámolásával kapcsolatos, e törvényben a települési önkormányzatok számára előírt feladatok körébe nem tartozó feladatokat.
+
+(7) Az állam – a koncessziós társaság véleményének kikérése mellett – nemzeti célértékeket határozhat meg olyan termékáramok vonatkozásában, amelyekre európai uniós jogi aktus és az alapján hazai jogszabály célértékek teljesítését nem írja elő.

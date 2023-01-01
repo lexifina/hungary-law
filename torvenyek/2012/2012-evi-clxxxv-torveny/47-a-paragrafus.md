@@ -1,6 +1,6 @@
 47/A. § (1) A hulladékgazdálkodási közszolgáltatási résztevékenység ellátásáért szedhető közszolgáltatási díjat és a hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díjakat a Hivatal javaslatának figyelembevételével a miniszter rendeletben állapítja meg a tárgyévet megelőző év november 30. napjáig.
 
-(2) A Hivatal a díjmegállapítással, díjváltozással kapcsolatos javaslatát a Hivatal elnökének az 53/N. § (1) és (2) bekezdése szerinti rendelete és módszertani útmutatója alapján meghatározott indokolt költség figyelembevételével, valamint a 88. § (3) bekezdés b) pont be) alpontjában kapott felhatalmazás alapján megalkotott rendeletben foglaltak szerint küldi meg a miniszter részére a tárgyévet megelőző év szeptember 15. napjáig.
+(2) A Hivatal a díjmegállapítással, díjváltozással kapcsolatos javaslatát a Hivatal elnökének az 53/N. § (1) és (2) bekezdése szerinti rendelete és módszertani útmutatója alapján meghatározott indokolt költség figyelembevételével küldi meg a miniszter részére a tárgyévet megelőző év szeptember 15. napjáig.
 
 (3) A hulladékgazdálkodási közszolgáltatási díjat, és a hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díjakat a miniszter a (2) bekezdés szerinti javaslat hiányában is megállapíthatja. Ebben az esetben a miniszter megkeresheti a Hivatalt, hogy 45 napon belül tegye meg javaslatát.
 

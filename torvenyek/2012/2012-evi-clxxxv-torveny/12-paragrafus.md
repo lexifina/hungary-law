@@ -10,6 +10,8 @@
 
 (1b) Az (1a) bekezdésben foglalt rendelkezések megsértése miatt indult hulladékgazdálkodási hatósági eljárásban az ügyintézési határidő kilencven nap.
 
+(1c) Ha az (1) bekezdés szerinti hulladéktermelő vagy az (1a) bekezdés szerinti természetes személy nem teljesítette a hulladékgazdálkodási hatóság végleges döntésével elrendelt hulladék-felszámolási kötelezettségét, és a hulladékgazdálkodási hatóság a 78/E. § (1) bekezdés b) pontja szerinti jogkörében eljárva végrehajtást foganatosít, a hulladékgazdálkodási hatóság a magyar állam javára a végrehajtási cselekményekkel összefüggő követelés és kamatai összegéig jelzáloggal terheli meg a kötelezéssel érintett ingatlant. Az ingatlanügyi hatóság a hulladékgazdálkodási hatóság megkeresésére a hulladékgazdálkodási hatóság véglegessé vált határozata alapján a jelzálogjogot az ingatlan-nyilvántartásba soron kívül bejegyzi.
+
 (2) A gyűjtő – a (2a) és (2c) bekezdésben, valamint a 28. § (5) bekezdésében meghatározott kivétellel – tevékenységét gyűjtésre vonatkozó hulladékgazdálkodási engedéllyel végzi.
 
 (2a) A nevelési-oktatási intézmény, illetve a szakképző intézmény papírhulladék gyűjtése céljából évente legfeljebb 2 alkalommal, és alkalmanként legfeljebb 5 nap időtartamban papírhulladék-gyűjtési kampányt szervezhet, amelynek során a papírhulladékot a vele jogviszonyban álló gyermektől, tanulótól gyűjtésre vonatkozó hulladékgazdálkodási engedély nélkül, a területén kialakított átvételi helyen átveheti. Az átvett papírhulladék kezeléséről a nevelési-oktatási intézmény a 31. § (2) bekezdése szerint gondoskodik.

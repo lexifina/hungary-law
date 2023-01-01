@@ -12,9 +12,9 @@
 
 (6) A hulladékgazdálkodási hatóság a hulladékgazdálkodási engedély iránti kérelmet elutasítja, illetve a nyilvántartásba vételt megtagadja, ha a hulladékgazdálkodási tevékenység során alkalmazni tervezett művelet nem felel meg a jogszabályokban foglaltaknak, vagy az nem áll összhangban a 6. § (1) bekezdésében foglaltakkal.
 
-(7) Nem adható hulladékgazdálkodási engedély, illetve minősítési engedély annak, továbbá nem vehető nyilvántartásba az, akinek vagy amelynek az önkormányzati vagy az állami adóhatósággal szemben köztartozása van.
+(7) Nem adható hulladékgazdálkodási engedély annak, továbbá nem vehető nyilvántartásba az, akinek vagy amelynek az önkormányzati vagy az állami adóhatósággal szemben köztartozása van.
 
-(8) A hulladékgazdálkodási hatósági engedélyezési eljárásokban az ügyintézési határidő 30 nap.
+(8) A hulladékgazdálkodási hatósági engedélyezési eljárásokban az ügyintézési határidő 55 nap.
 
 (9) Az e törvény végrehajtására kiadott kormányrendelet vagy miniszteri rendelet a (4)–(7) bekezdésben foglalt feltételekhez kapcsolódó szabályokat részletesen meghatározhatja.
 

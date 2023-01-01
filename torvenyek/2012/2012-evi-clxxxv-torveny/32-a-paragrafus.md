@@ -4,7 +4,7 @@
 
 ## 17/A. Az állami hulladékgazdálkodási közfeladatra vonatkozó rendelkezések
 
-32/A. § (1) Az állami hulladékgazdálkodási közfeladat keretében a hulladékgazdálkodásért felelős miniszter – a (2) bekezdésben meghatározott kivétellel –
+32/A. § (1) Az állami hulladékgazdálkodási közfeladat keretében a miniszter – a (2) bekezdésben meghatározott kivétellel –
 
 a) meghatározza a hulladékgazdálkodás országos céljait, amelyek a 73. § (1) bekezdése szerinti e törvényben megállapított céloknak minősülnek,
 
@@ -30,7 +30,7 @@ f) ellátja az elhagyott hulladék felszámolására vonatkozó jogszabályokban
 
 (4c) A megfelelőségi vélemény kiállítására irányuló eljárásban az ügyintézési határidő 60 nap.
 
-(4d) A (2)–(4) és a (4b) bekezdés szerinti feladatokhoz kapcsolódó nyilvántartások adatait a hulladékgazdálkodásért felelős miniszter az (1) bekezdés e) pontja szerinti feladatainak ellátása érdekében megismerheti és kezeli.
+(4d) A (2)–(4) és a (4b) bekezdés szerinti feladatokhoz kapcsolódó nyilvántartások adatait a miniszter az (1) bekezdés e) pontja szerinti feladatainak ellátása érdekében megismerheti és kezeli.
 
 (4e) A Koordináló szerv:
 
@@ -42,7 +42,7 @@ c) a hulladékgazdálkodás országos szintű céljainak és fejlesztési irány
 
 d) kezeli az önkormányzatok, önkormányzati társulások által önkéntesen vagyonkezelés körében rábízott vagyont,
 
-e) beszedi a közszolgáltatási díjat és kifizeti a közszolgáltatóknak a hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős miniszter (a továbbiakban: miniszter) rendeletében foglaltaknak megfelelően meghatározott szolgáltatási díjat,
+e) beszedi a közszolgáltatási díjat és kifizeti a közszolgáltatóknak a miniszter rendeletében foglaltaknak megfelelően meghatározott szolgáltatási díjat,
 
 f) kezeli a közszolgáltatás keretében keletkező kintlévőségeket.
 
@@ -54,7 +54,7 @@ f) kezeli a közszolgáltatás keretében keletkező kintlévőségeket.
 
 (5) A Koordináló szerv térítésmentesen jogosult az elszámolási, számlázási, és kintlevőség-kezelési feladatkörében a 38. § (3) bekezdésében meghatározott személyes adatok körére kiterjedő eseti és csoportos adatszolgáltatást kérni a személyiadat- és lakcímnyilvántartás szerveitől.
 
-(5a) A közszolgáltató a 38. § (3) bekezdésében meghatározott adatokat az általa ellátandó hulladékgazdálkodási közszolgáltatás ellátását, illetve jogszabályban foglalt kötelezettségei teljesítését követő 5 évig kezeli.
+(5a) A közszolgáltató a 38. § (3) bekezdésében meghatározott adatokat a hulladékgazdálkodási közszolgáltatás ellátását, illetve jogszabályban foglalt kötelezettségei teljesítését követő 5 évig kezeli.
 
 (6)
 

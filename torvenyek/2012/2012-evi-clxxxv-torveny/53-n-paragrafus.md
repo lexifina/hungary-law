@@ -1,7 +1,13 @@
-53/N. § (1) A koncesszor – ideértve a koncessziós társaságot és a koncesszori alvállalkozókat is – indokolt költségeinek meghatározására és szabályozására, valamint a 47/A. § (2) bekezdése szerinti díjjavaslat elkészítésére vonatkozó alapelveket és keretszabályokat a Hivatal elnöke rendeletben állapítja meg a tárgyévet megelőző év augusztus 15-ig.
+53/N. § (1) A koncessziós társaság és a koncesszori alvállalkozók indokolt költségeinek, az önkormányzatok 30/C. § (2) bekezdése szerinti indokolt költségeinek meghatározására és szabályozására, valamint a 47/A. § (2) bekezdése szerinti díjjavaslat elkészítésére vonatkozó alapelveket és keretszabályokat a Hivatal elnöke az e törvény végrehajtására kiadott rendeletben állapítja meg a rendeletben meghatározott árszabályozási ciklus első naptári évét megelőző év augusztus 15-ig.
 
-(2) Az (1) bekezdés szerinti rendelet figyelembevételével a Hivatal módszertani útmutatót ad ki, amelyet a honlapján közzétesz a tárgyévet megelőző év augusztus 31-ig.
+(1a) A Hivatal az (1) bekezdésben meghatározott rendeletet évente, augusztus 15-ig felülvizsgálja.
 
-(3) Az (1) bekezdés szerinti rendelet, valamint a módszertani útmutatók előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
+(2) Az (1) bekezdés szerinti rendelet figyelembevételével a Hivatal módszertani útmutatót ad ki, amelyet a honlapján közzétesz az (1) bekezdés szerinti rendeletben meghatározott árszabályozási ciklus első naptári évét megelőző év augusztus 31-ig.
 
-(4) Az (1) bekezdés szerinti indokolt költség mértékét a Hivatal elnöke – figyelemmel az (1) bekezdés szerinti rendeletre és a (2) bekezdés szerinti módszertani útmutatókra – rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak kell eltelnie.
+(2a) A Hivatal a (2) bekezdésben meghatározott módszertani útmutatót évente, augusztus 31-ig felülvizsgálja.
+
+(3) Az (1) bekezdés szerinti rendelet, valamint a módszertani útmutató előkészítése során a Hivatal közzéteszi a honlapján a tervezeteket, amelyeket az érintett engedélyesek és a felhasználók reprezentatív érdekképviseletei véleményezhetnek
+
+(4) A koncesszori alvállalkozók (1) bekezdés szerinti indokolt költségeinek mértékét – hulladékgazdálkodási tevékenységenkénti bontásban – valamint az önkormányzatok 30/C. § (2) bekezdése szerinti indokolt költségeinek mértékét a Hivatal elnöke, figyelemmel az (1) bekezdés szerinti rendeletre és a (2) bekezdés szerinti módszertani útmutatóra, az e törvény végrehajtására kiadott rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
+
+(5) A költséghatékony állami hulladékgazdálkodási közfeladat-ellátás érvényesülése érdekében a 47/A. § (2) bekezdése szerinti díjjavaslat elkészítésekor figyelembe vett indokolt költségekről, az ezekkel összefüggő eszköz- és költség-felülvizsgálatról – különösen az eszközértékelés, a statikus, a transzferár és a benchmark vizsgálatok eredményéről –, az alkalmazott ösztönzőkről és elvonásokról a Hivatal elnöke a 47/A. § (2) bekezdése szerinti díjjavaslat miniszter számára történő megküldésével egyidejűleg tájékoztatja a koncessziós társaságot.

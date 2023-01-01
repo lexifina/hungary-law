@@ -8,6 +8,8 @@ c) a gazdálkodó szervezet nem üzletszerűen, alkalmilag, az elkülönítetten
 
 d) a természetes személy ingatlantulajdonos vagy ingatlanbirtokos által használt ingatlanon képződő, elkülönítetten gyűjtött 17 06 05* azonosító kódú, azbesztet tartalmazó építőanyag megnevezésű veszélyes hulladékot az annak szállítására és tárolására alkalmas gyűjtőedényben, környezetveszélyeztetést kizáró módon – nem üzletszerű szállítás keretében – az (5)–(8) bekezdésben foglaltak betartásával hulladékgyűjtő pontra vagy hulladékkezelő létesítménybe szállítja.
 
+e) a hulladékgazdálkodási hatóság a költséghatékonyság mérlegelését követően a jogellenesen elhelyezett vagy elhagyott, legfeljebb 2 m3 mennyiségű, nem veszélyes hulladékot hulladékgyűjtő pontra, hulladékgyűjtő udvarba, átvételi helyre vagy hulladékkezelő létesítménybe szállítja.
+
 (2) A hulladék szállítója felelős a hulladék rendeltetési helyére történő biztonságos eljuttatásáért.
 
 (3) Szállításból eredő szennyezés esetén a hulladék szállítója gondoskodik az eredeti környezeti állapot helyreállításáról, így különösen a terület szennyezésmentesítéséről és a hulladék elszállításáról.

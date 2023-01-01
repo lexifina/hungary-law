@@ -14,7 +14,7 @@
 
 5. a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségeket;
 
-6. az Országos Hulladékgazdálkodási Terv és az Országos Megelőzési Program előkészítésének részletes szabályait, részletes tartalmi követelményeit, valamint azok normatív előírásait;
+6. az Országos Hulladékgazdálkodási Terv és az Országos Megelőzési Program előkészítésének részletes szabályait, továbbá tartalmi követelményeit és az Országos Hulladékgazdálkodási Tervet és az Országos Megelőzési Programot;
 
 7. a hulladékgazdálkodási bírság mértékét, megállapításának szempontrendszerét, a helyszíni bírság kiszabásának és a bírság megfizetése módjának részletes szabályait;
 
@@ -70,7 +70,7 @@
 
 32. az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének részletes szabályait, valamint az üzemnapló vezetésével kapcsolatos részletes szabályokat;
 
-33. a Koordináló szerv kijelölésének módját, a részletes feladatkörét, a koordinációjával, valamint tulajdonjogával kapcsolatos egyes szabályokat, valamint az erőforrás-gazdálkodásával összefüggő szabályokat;
+33. a Koordináló szerv kijelölésének módját, a részletes feladatkörét;
 
 34. az Országos Hulladékgazdálkodási Közszolgáltatási Tervre vonatkozó részletes szabályokat, e körben a közszolgáltatási területek lehatárolásának részletes szabályait;
 
@@ -98,13 +98,15 @@
 
 46. a gördülő fejlesztési rendszerterv jóváhagyásának, felülvizsgálatának, a jóváhagyott terv végrehajtása ellenőrzésének szabályait.
 
+47. a hulladékgazdálkodási hatóság közigazgatási jogköre gyakorlásával és a közigazgatási feladataival összefüggő nyilvántartás adattartalmával és vezetésével kapcsolatos részletes szabályokat.
+
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a hulladékgazdálkodási hatóságot és a hulladékgazdálkodási szakhatóságot.
 
-(2) Felhatalmazást kap a hulladékgazdálkodásért felelős miniszter, hogy rendeletben állapítsa meg:
+(2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg:
 
 1. a veszélyes és nem veszélyes hulladéktípusokat tartalmazó hulladékjegyzéket, és a hulladék veszélyességét eredményező tulajdonságok megállapítására vonatkozó részletes szabályokat;
 
-2. az elhagyott hulladék ingatlanról történő elszállításának és megfelelő hulladékkezelési helyre történő elszállítás tényének igazolására vonatkozó formai előírásokat;
+2. az elhagyott hulladék ingatlanról történő elszállításának és megfelelő hulladékkezelési helyre történő elszállítás tényének igazolására vonatkozó formai és tartalmi előírásokat;
 
 3. a hulladéklerakás technikai követelményeit, a betelt lerakók lezárásának és utógondozásának technikai feltételeit, valamint részletes szabályait és a hulladéklerakás körforgásos gazdasággal összefüggő követelményeit;
 
@@ -120,13 +122,29 @@
 
 9. a hasznosítási műveleteket és az energetikai hasznosítás feltételeként meghatározott energiahatékonysági mutató megállapítására vonatkozó szabályokat, valamint az ártalmatlanítási műveleteket;
 
-10. a hulladékgazdálkodási engedélyre és a nyilvántartásba vételre vonatkozó felügyeleti díjjal kapcsolatos részletes szabályokat.
+10. a hulladékgazdálkodási engedélyre és a nyilvántartásba vételre vonatkozó felügyeleti díjjal kapcsolatos részletes szabályokat;
 
-11. a hulladékgazdálkodási képzés részletes szabályait.
+11. a hulladékgazdálkodási képzés részletes szabályait;
+
+12. a 78. § (7) bekezdése szerinti nemzeti célértékeket;
+
+13. a hulladékgazdálkodási közszolgáltatási résztevékenységre vonatkozó díjképzés átláthatóságának biztosítása érdekében a hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság által közérdekből közzéteendő adatok – különösen a hulladékgazdálkodási közszolgáltatási résztevékenységgel kapcsolatos díjmegállapítás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját;
+
+14. a 47/A. § (1) bekezdésében meghatározott díjakat, a díjalkalmazási feltételeket, a díjmegfizetés rendjét;
+
+15. a Hivatal miniszter részére történő adatszolgáltatási kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat;
+
+16. a Hivatal hulladékgazdálkodási közszolgáltatási díjra vonatkozó javaslattételi kötelezettségének rendjére, módjára, tartalmára vonatkozó részletes szabályokat;
+
+17. a Koordináló szerv részére történő adatszolgáltatás tartalmát és rendjét;
+
+18. a gördülő fejlesztési rendszerterv részletes tartalmi és formai követelményeit,
+
+19. az Országos Hulladékgazdálkodási Közszolgáltatási Tervet.
 
 (3) Felhatalmazást kap:
 
-a) az egészségügyért felelős miniszter a hulladékgazdálkodásért felelős miniszterrel egyetértésben, hogy
+a) az egészségügyért felelős miniszter a miniszterrel egyetértésben, hogy
 
 aa) a humán gyógyszer hulladékká válását megelőző tevékenységek és a gyógyszerhulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének szabályait, valamint a gyógyszergyártók biztosítékadására és tájékoztatási kötelezettségére vonatkozó részletes szabályokat,
 
@@ -134,39 +152,25 @@ ab) az egészségügyi intézményekben képződő hulladékkal kapcsolatos hull
 
 ac) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladékkal kapcsolatos közegészségügyi követelményeket;
 
-b) miniszter, hogy
+b)
 
-ba) a hulladékgazdálkodási közszolgáltatásra vonatkozó díjképzés átláthatóságának biztosítása érdekében a közszolgáltatók által közérdekből közzéteendő adatok – különösen a hulladékgazdálkodási közszolgáltatással kapcsolatos díjmegállapítás, költségek, bevételek, kiadások, beruházások, valamint az ezzel összefüggő műszaki információk – körét és a közzététel módját,
-
-bb) a hulladékgazdálkodási közszolgáltatás díjait, a díjalkalmazási feltételeket, a díjmegfizetés rendjét,
-
-bc) a Hivatal miniszter részére történő adatszolgáltatási kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
-
-bd) az Országos Hulladékgazdálkodási Közszolgáltatási Tervet,
-
-be) a Hivatal hulladékgazdálkodási közszolgáltatási díjra vonatkozó javaslattételi kötelezettségének időpontjára, rendjére, módjára, tartalmára vonatkozó részletes szabályokat,
-
-bf) a Koordináló szerv részére történő adatszolgáltatás tartalmát és rendjét,
-
-bg) a díjhátralék kezelésére vonatkozó részletszabályokat,
-
-bh) a szolgáltatási díjat, a díjalkalmazási feltételeket, a díjmegfizetés rendjét, a közszolgáltatási díj felosztásának elvét,
-
-bi) a gördülő fejlesztési rendszerterv részletes tartalmi és formai követelményeit
-
-c) a hulladékgazdálkodásért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az igazgatási szolgáltatási díjköteles hulladékgazdálkodási eljárások, igazgatási jellegű szolgáltatások és bejelentések után fizetendő díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
+c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az igazgatási szolgáltatási díjköteles hulladékgazdálkodási eljárások, igazgatási jellegű szolgáltatások és bejelentések után fizetendő díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat
 
 rendeletben állapítsa meg.
 
 (3a) Felhatalmazást kap a Hivatal elnöke, hogy
 
-a) a 18/B. § (3) bekezdésében és a 18/D. § (1) bekezdésében meghatározott díj mértékét, elemeit, a díjalkalmazási feltételeket és a díjmegfizetés rendjét,
+a) a 18/B. § (3) bekezdésében meghatározott díj mértékét, elemeit, a díjalkalmazási feltételeket és a díjmegfizetés rendjét,
 
 b) az 53/B. § (7) bekezdés d) pontjában meghatározott érték meghatározásának szempontrendszerét,
 
-c) az 53/N. § (1) bekezdése szerinti alapelveket és keretszabályokat, továbbá az indokolt költség mértékét
+c) az 53/N. § (1) bekezdése szerinti alapelveket és keretszabályokat, továbbá az 53/N. § (4) bekezdése szerinti indokolt költség mértékét,
 
 d) a kompenzáció összegének Hivatal általi meghatározásának keretszabályait, az így meghatározott kompenzáció megfizetésének módját, továbbá a kompenzáció meghatározására irányuló kérelem tartalmi követelményeit és a részletes kiegészítő eljárási szabályokat
+
+e) a 18/D. § (1) bekezdésében meghatározott díj megállapításának szabályait, a díj meghatározására irányuló kérelem tartalmi követelményeit és a részletes eljárási szabályokat,
+
+f) az e törvényben a Hivatal felé a rendszeres adatszolgáltatásra kötelezettek és az általuk szolgáltatandó adatok körét, valamint az adatszolgáltatási kötelezettség formáját és határidejét
 
 rendeletben állapítsa meg.
 

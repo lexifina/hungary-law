@@ -1,4 +1,4 @@
-77. § (1) Az OHT-t és az OMP-t a hulladékgazdálkodásért felelős miniszter az általa vezetett minisztérium honlapján közzéteszi, és elérhetőségét folyamatosan biztosítja.
+77. § (1) Az OHT-t és az OMP-t a miniszter az általa vezetett minisztérium honlapján közzéteszi, és elérhetőségét folyamatosan biztosítja.
 
 (2) A Kormány az OHT és az OMP végrehajtásának feltételeit biztosítja.
 

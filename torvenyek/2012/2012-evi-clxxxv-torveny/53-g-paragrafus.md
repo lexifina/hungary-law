@@ -1,4 +1,4 @@
-53/G. § (1) A koncessziós díjat a miniszter a hulladékgazdálkodási hatóság útján szedi be.
+53/G. § (1) A koncessziós díjat a miniszter az általa vezetett minisztérium kijelölt szervezeti egysége útján szedi be.
 
 (2) A koncessziós díjból befolyt összeg a miniszter által vezetett minisztérium bevétele, azt a hulladékképződés csökkentését támogató feladatokra kell fordítani.
 
