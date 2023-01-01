@@ -10,7 +10,7 @@ előírások, valamint
 
 b) a biztonsági okmányokra vonatkozó megőrzési, átadás-átvételi és visszaszolgáltatási kötelezettségek
 
-## betartását.
+betartását.
 
 (2) A biztonsági okmány kezelésével, felhasználásával, visszaszolgáltatásával kapcsolatos kötelezettségek megsértése esetén a bírság legkisebb összege tizenötezer, legmagasabb összege százezer forint.
 
