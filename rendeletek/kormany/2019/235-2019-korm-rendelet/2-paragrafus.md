@@ -12,7 +12,7 @@
 
 4. szálláshely-szolgáltató: a Kertv. 2. § 23. és 24. pontjában meghatározott szolgáltatást nyújtó gazdálkodó szervezet (ideértve a gazdasági társaságokat, a tevékenységük okán adószámmal rendelkező magánszemélyeket, valamint az egyéni vállalkozókat is);
 
-5.[^5] szálláshelykezelő szoftver: a szálláshely-szolgáltató által kötelezően használt olyan informatikai program, amely tartalmazza az adatküldő modult, okmányolvasóval kialakított kapcsolattal rendelkezik, alkalmas a Nemzeti Turisztikai Adatszolgáltató Központ, valamint a tárhely számára adatok továbbítására, továbbá a Turizmus tv. 9/I. § (2) bekezdése szerinti szoftver;
+5.[^5] szálláshelykezelő szoftver: a szálláshely-szolgáltató által kötelezően használt olyan informatikai program, amely tartalmazza az adatküldő modult, okmányolvasóval kialakított kapcsolattal rendelkezik, alkalmas a Nemzeti Turisztikai Adatszolgáltató Központ, valamint a tárhely számára adatok továbbítására, idegenforgalmi adó-kötelezettség nyilvántartás vezetésére, továbbá a Turizmus tv. 9/I. § (2) bekezdése szerinti szoftver;
 
 6. vendég: az a természetes személy, aki a szálláshely-szolgáltatást ténylegesen igénybe veszi, és ideiglenesen a szálláshelyen elszállásolják, függetlenül a szálláshely-szolgáltatásért ellenértéket fizető személyétől;
 
@@ -36,12 +36,14 @@
 
 16.[^13] látogató: az a természetes személy, aki az adatszolgáltatásra kötelezett turisztika attrakció által nyújtott szolgáltatást jeggyel, belépővel vagy bérlettel igénybe veszi, függetlenül szolgáltatásért ellenértéket fizető személyétől;
 
-17.[^14] vendéglátó szoftver: az adatszolgáltatásra kötelezett vendéglátó üzlet üzemeltető által kötelezően használt olyan informatikai program, amely a Nemzeti Turisztikai Adatszolgáltató Központ számára adatok továbbítására alkalmas.
+17.[^14] vendéglátó szoftver: az adatszolgáltatásra kötelezett vendéglátó üzlet üzemeltetője által kötelezően használt olyan informatikai program, amely a Nemzeti Turisztikai Adatszolgáltató Központ számára adatok továbbítására alkalmas, ideértve a rendelésben közreműködő platform által biztosított szoftvert is;
+
+18.[^15] rendelésben közreműködő platform: a fogyasztók részére biztosított olyan online rendelésközvetítő szolgáltatás, amelynek célja a vendéglátó üzlet által nyújtott kínálat összekapcsolása a fogyasztó által támasztott kereslettel távoli vagy helyben leadott rendelések rögzítése és kezelése által.
 
 [^2]: A 2. § 1. pontja az 501/2021. (VIII. 18.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § 1a. pontját a 383/2020. (VIII. 7.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^4]: A 2. § 2. pontja a 383/2020. (VIII. 7.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^5]: A 2. § 5. pontja a 278/2021. (V. 26.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § 5. pontja a 619/2022. (XII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § 9. pontját a 383/2020. (VIII. 7.) Korm. rendelet 5. §-a iktatta be, szövege a 278/2021. (V. 26.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^7]: A 2. § 10. pontját a 383/2020. (VIII. 7.) Korm. rendelet 5. §-a iktatta be.
 [^8]: A 2. § 11. pontját a 383/2020. (VIII. 7.) Korm. rendelet 5. §-a iktatta be.
@@ -50,4 +52,5 @@
 [^11]: A 2. § 14. pontját az 501/2021. (VIII. 18.) Korm. rendelet 20. § (2) bekezdése iktatta be.
 [^12]: A 2. § 15. pontját az 501/2021. (VIII. 18.) Korm. rendelet 20. § (2) bekezdése iktatta be.
 [^13]: A 2. § 16. pontját az 501/2021. (VIII. 18.) Korm. rendelet 20. § (2) bekezdése iktatta be.
-[^14]: A 2. § 17. pontját az 501/2021. (VIII. 18.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^14]: A 2. § 17. pontja a 619/2022. (XII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^15]: A 2. § 18. pontját a 619/2022. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.

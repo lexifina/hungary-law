@@ -1,4 +1,4 @@
-## 4/B. [^19] A turisztikai attrakció üzemeltető Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációja
+## 4/B. [^20] A turisztikai attrakció üzemeltető Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációja
 
 6/C. § (1) Az adatszolgáltatásra kötelezett turisztikai attrakció üzemeltető (a továbbiakban: turisztikai attrakció üzemeltető) köteles a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője által e célra működtetett elektronikus felületen (a továbbiakban: elektronikus felület) a regisztrációt elvégezni.
 
@@ -30,4 +30,4 @@ a) azt nem az arra jogosult kezdeményezte,
 
 b) a regisztrálni kívánó turisztikai attrakció üzemeltető adószáma megegyezik egy, már regisztrált turisztikai attrakció üzemeltető adószámával.
 
-[^19]: A 4/B. alcímet (6/C–6/D. §) az 501/2021. (VIII. 18.) Korm. rendelet 23. §-a iktatta be.
+[^20]: A 4/B. alcímet (6/C–6/D. §) az 501/2021. (VIII. 18.) Korm. rendelet 23. §-a iktatta be.

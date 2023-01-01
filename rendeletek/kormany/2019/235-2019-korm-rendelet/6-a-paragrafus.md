@@ -1,4 +1,4 @@
-## 4/A. [^18] A vendéglátó üzlet üzemeltető Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációja
+## 4/A. [^19] A vendéglátó üzlet üzemeltető Nemzeti Turisztikai Adatszolgáltató Központba történő regisztrációja
 
 6/A. § (1) Az adatszolgáltatásra kötelezett vendéglátó üzlet üzemeltető (a továbbiakban: vendéglátó üzlet üzemeltető) köteles a Nemzeti Turisztikai Adatszolgáltató Központ üzemeltetője által e célra működtetett elektronikus felületen (a továbbiakban: elektronikus felület) a regisztrációt elvégezni.
 
@@ -30,4 +30,4 @@ a) azt nem az arra jogosult kezdeményezte,
 
 b) a regisztrálni kívánó vendéglátó üzlet üzemeltető adószáma megegyezik egy, már regisztrált vendéglátó üzlet üzemeltető adószámával.
 
-[^18]: A 4/A. alcímet (6/A–6/B. §) az 501/2021. (VIII. 18.) Korm. rendelet 23. §-a iktatta be.
+[^19]: A 4/A. alcímet (6/A–6/B. §) az 501/2021. (VIII. 18.) Korm. rendelet 23. §-a iktatta be.
