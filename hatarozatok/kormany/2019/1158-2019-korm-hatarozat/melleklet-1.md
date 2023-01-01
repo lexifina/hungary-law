@@ -8,29 +8,9 @@
 
 ## 3. a Beruházásnak a Beruházás Előkészítési Alap felhasználásáról szóló 233/2018. (XII. 6.) Korm. rendelet (a továbbiakban: Rendelet) 2. § (2) bekezdés c), l) és m) pontja szerinti előkészítési fázisaira összesen – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 3 045 000 000 forint forrást biztosít a Magyarország 2019. évi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, azzal, hogy a támogatott előkészítési fázisokat legkésőbb 2019. október 31-ig kell megvalósítani;
 
-## 4. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoportnak a 10. Új budapesti multifunkcionális sport- és rendezvénycsarnok megvalósításának támogatása jogcímmel történő kiegészítését;
+## 4.[^1]
 
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: azonnal
-
-## 5. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva a 3. pontban foglaltak megvalósítása érdekében – a kifizetésekhez kapcsolódó pénzügyi tranzakciós illetékkel és kincstári díjakkal együtt – 3 045 000 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. Budapest és a fővárosi agglomeráció fejlesztése jogcímcsoport, 10. Új budapesti multifunkcionális sport- és rendezvénycsarnok megvalósításának támogatása jogcím javára az 1. melléklet szerint, a fel nem használt rész tekintetében a Beruházás Előkészítési Alapba történő visszafizetési kötelezettséggel;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: azonnal
-
-## Az elszámolási és visszafizetési kötelezettség tekintetében
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## Határidő: a 7. pont szerinti jelentés tudomásulvételét követő 15 napon belül
+## 5.[^2]
 
 ## 6. egyetért azzal, hogy – a 2022. évi férfi kézilabda Európa-bajnokság Budapesten való megrendezéséhez szükséges létesítményfejlesztés kiemelt budapesti fejlesztéssé, valamint a beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, továbbá a beruházással kapcsolatos sajátos szabályok megállapításáról szóló kormányrendeletben – kiemelt budapesti fejlesztéssé nyilvánított – Beruházás előkészítője a KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: KKBK Nonprofit Zrt.) legyen, és a 3. pont szerinti előkészítési fázisokat a KKBK Nonprofit Zrt. valósítsa meg;
 
@@ -58,84 +38,11 @@
 
 ## 10. egyetért azzal, hogy a KKBK Nonprofit Zrt. a lefolytatott feltételes közbeszerzési eljárás eredményeként megkötött szerződéseket a Beruházás megvalósítójára átruházhassa;
 
-## 11.[^1]
+## 11.[^3]
 
-1. melléklet az 1158/2019. (III. 27.) Korm. határozathoz
+1. melléklet az 1158/2019. (III. 27.) Korm. határozathoz[^4]
 
-| XI. Miniszterelnökség |
-
-| XV. Pénzügyminisztérium |
-
-| ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA |
-
-| Költségvetési év: 2019. |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XV. |  |  |  |  |  | Pénzügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 26 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 2 |  |  |  |  |  | Központi tartalékok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 375739 |  |  |  | 4 |  |  |  |  |  | Beruházás Előkészítési Alap |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -3 045 000 000 |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  | 11 |  |  |  |  |  | Budapest és a fővárosi agglomeráció fejlesztése |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 376584 |  |  |  |  | 10 |  |  |  |  |  | Új budapesti multifunkcionális sport- és rendezvénycsarnok megvalósításának támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 3 045 000 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  | 11 |  |  |  |  |  | Budapest és a fővárosi agglomeráció fejlesztése |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 376584 |  |  |  |  | 10 |  |  |  |  |  | Új budapesti multifunkcionális sport- és rendezvénycsarnok megvalósításának támogatása |  |  |  |  |  |  |  |  | 3 045 000 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I. n.év | II. n.év | III. n.év | IV. n.év |
-
-|  |  |  | időarányos |  |  |  |  |  |  |  |  |
-
-|  |  | teljesítményarányos |  |  |  |  |  |  |
-
-| Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnal |  |  | 3 045 000 000 | 3 045 000 000 |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
-
-[^1]: A 11. pontot az 1359/2020. (VII. 1.) Korm. határozat 2. pontja visszavonta.
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 11. pontot az 1359/2020. (VII. 1.) Korm. határozat 2. pontja visszavonta.
+[^4]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
