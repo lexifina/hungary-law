@@ -14,6 +14,6 @@ c) a gyalogosok részére szolgáló vasúti gyalogos-átkelőhely és a kizár�
 
 (4)
 
-(5) A 20. § (11) bekezdésében – a foglalkoztatás-felügyeleti hatóság és a közlekedési hatóságként eljáró fővárosi és megyei kormányhivatal, valamint járási (fővárosi kerületi) hivatal kivételével – felsorolt szervezetek által végrehajtott közúti és telephelyi ellenőrzéssel összefüggő elsőfokú döntéssel szemben fellebbezésnek van helye.
+(5) A 20. § (11) bekezdésében – a foglalkoztatás-felügyeleti hatóság és a közlekedési hatóságként eljáró fővárosi és vármegyei kormányhivatal, valamint járási (fővárosi kerületi) hivatal kivételével – felsorolt szervezetek által végrehajtott közúti és telephelyi ellenőrzéssel összefüggő elsőfokú döntéssel szemben fellebbezésnek van helye.
 
 (6) A miniszter e törvény szerinti döntésével szemben indított közigazgatási perre a Fővárosi Törvényszék kizárólagosan illetékes.

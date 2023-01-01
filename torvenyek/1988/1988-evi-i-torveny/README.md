@@ -94,3 +94,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2022-01-17 | 2021. évi CXXXVI. törvény | 1988-1-00-00.125 |
 | 2022-02-02 | 2021. évi CXXXVI. törvény | 1988-1-00-00.126 |
 | 2022-02-17 | 2021. évi CXXXVI. törvény | 1988-1-00-00.127 |
+| 2023-01-01 | 2017. évi CLXXXII. törvény | 1988-1-00-00.128 |

@@ -8,4 +8,6 @@
 
 (5) A hulladékká vált gépjárművekről szóló kormányrendelet hatálya alá tartozó hulladékká vált jármű bontásához a jármű tulajdonosának kérelmére a közlekedési hatóság által kiadott egyedi engedély szükséges. A regisztrált bontó-hulladékkezelő – a közlekedési hatóság engedélye alapján – a bontási engedély kiadását megelőző vizsgálatban közreműködik. A jármű forgalomból történő végleges kivonását csak a bontási engedély véglegessé válását követően lehet elvégezni.
 
+(5a) Az (5) bekezdés szerinti engedély adattartalmát a közlekedési hatóság elektronikus adatkapcsolaton keresztül küldi meg a közlekedési nyilvántartó szerv részére.
+
 (6) A járműfenntartó tevékenység tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóság feladatait a közlekedési hatóság látja el.

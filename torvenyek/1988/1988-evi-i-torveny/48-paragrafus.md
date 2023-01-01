@@ -6,7 +6,7 @@
 
 a) a Kormány, hogy
 
-1. a szakirányú továbbképzés és az utánképzés általános szabályait
+1. a szakirányú továbbképzés és az utánképzés általános szabályait,
 
 2. a kombinált fuvarozási tevékenység szabályait,
 

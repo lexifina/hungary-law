@@ -62,7 +62,7 @@ vonatkozó rendelkezések megsértői bírság fizetésére kötelezhetők.
 
 (2a) A 20. § (1) bekezdés p) pontja szerinti bírságolással kapcsolatos eljárás lefolytatására – a (11) bekezdésben meghatározott ellenőrzési jogosultsághoz igazodóan – a közlekedési hatóság, a rendőrség, a vámhatóság, a katasztrófavédelmi hatóság jogosult.
 
-(2b) A rendőrség, a katasztrófavédelmi hatóság, a közlekedési hatóság – kivéve a közlekedési hatóságként eljáró fővárosi és megyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal – és a vámhatóság közigazgatási hatósági eljárásban hozott határozata ellen fellebbezésnek van helye.
+(2b) A rendőrség, a katasztrófavédelmi hatóság, a közlekedési hatóság – kivéve a közlekedési hatóságként eljáró fővárosi és vármegyei kormányhivatal, valamint a járási (fővárosi kerületi) hivatal – és a vámhatóság közigazgatási hatósági eljárásban hozott határozata ellen fellebbezésnek van helye.
 
 (3) A (2) bekezdés szerinti bírságolási eljárásra az eljáró hatóság ellenőrző tevékenységét szabályozó külön jogszabályban foglalt rendelkezéseket az e §-ban meghatározott eltérésekkel kell alkalmazni.
 

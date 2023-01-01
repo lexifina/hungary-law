@@ -16,6 +16,6 @@ f) nemzetközi együttműködés elősegítése,
 
 g) a hátrányos térségek, települések felzárkóztatásának célja,
 
-h) az országos, regionális, kiemelt térségi, megyei, valamint helyi területfejlesztési és -rendezési célok,
+h) az országos, regionális, kiemelt térségi, vármegyei, valamint helyi területfejlesztési és -rendezési célok,
 
 i) a közúthálózat-fejlesztéssel szorosan összefüggő egyéb sajátos szempontok, különös tekintettel a honvédelmi, idegenforgalmi és vidékfejlesztési szempontokra.

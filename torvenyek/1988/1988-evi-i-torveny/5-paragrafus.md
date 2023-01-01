@@ -6,7 +6,7 @@ b) a közúti jelzések rendelkezéseinek eleget tenni, a forgalom irányítás�
 
 c) úgy közlekedni, hogy a személy- és vagyonbiztonságot ne veszélyeztesse, másokat közlekedésükben indokolatlanul ne akadályozzon és ne zavarjon.
 
-(2) Közúton járművet az vezethet, aki a biztonságos vezetésre alkalmas állapotban van, a jármű vezetéséhez előírt engedéllyel rendelkezik.
+(2) Közúton járművet az vezethet, aki a biztonságos vezetésre alkalmas állapotban van, a jármű vezetéséhez előírt engedéllyel vagy az engedély-nyilvántartásba bejegyzett érvényes vezetési jogosultsággal rendelkezik.
 
 (3) A jármű vezetését az üzembentartó nem engedheti meg, illetőleg a vezető nem engedheti át olyan személynek, aki a (2) bekezdésben említett feltételeknek nem felel meg.
 
