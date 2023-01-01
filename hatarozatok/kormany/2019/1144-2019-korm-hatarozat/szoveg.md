@@ -16,7 +16,7 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: azonnal
 
-4. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet XXI. Miniszterelnöki Kabinetiroda fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcímének 23. Aktív- és Ökoturisztikai Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság működtetése jogcímcsoporttal történő kiegészítését;
+4.[^1]
 
 5. felhívja a pénzügyminisztert, hogy gondoskodjon a 2. pontban meghatározott gazdasági társaság működtetéséhez szükséges források biztosítása érdekében
 
@@ -79,3 +79,5 @@ a projektekkel érintett miniszterek
 aktív Magyarországért felelős kormánybiztos
 
 Határidő: 2019. november 30.
+
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
