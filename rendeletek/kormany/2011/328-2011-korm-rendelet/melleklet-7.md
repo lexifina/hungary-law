@@ -102,7 +102,7 @@
 
 ## 9. A családban az egy főre jutó havi jövedelem összegének kiszámítása: a család összes nettó jövedelme [a 2. pont szerinti személyek 3. pont szerinti jövedelmének együttes összege] csökkentve a fizetett gyermektartásdíj összegével, majd osztva a jövedelemszámításnál figyelembe veendő személyek számával [2. pont].
 
-7. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^69]
+7. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^70]
 
 NYILATKOZAT a Gyvt. 21/C. §-a szerinti szünidei gyermekétkeztetés igénybevételéhez
 
@@ -138,4 +138,4 @@ más törvényes képviselő) aláírása
 
 4 Kizárólag abban az esetben töltendő, amennyiben a jogosult az adott szünet, zárva tartás vonatkozásában az előző oszlopban nemmel nyilatkozott. Ez esetben azon munkanapok felsorolása szükséges, amelyek tekintetében – az adott szünidei gyermekétkeztetés időtartamán belül – a jogosult kéri az étkeztetés biztosítását.
 
-[^69]: A 7. mellékletet a 431/2015. (XII. 23.) Korm. rendelet 7. § (2) bekezdés a) pontja iktatta be, szövege a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés p) pontja szerint módosított szöveg.
+[^70]: A 7. mellékletet a 431/2015. (XII. 23.) Korm. rendelet 7. § (2) bekezdés a) pontja iktatta be, szövege a 191/2016. (VII. 13.) korm. rendelet 14. § (2) bekezdés p) pontja szerint módosított szöveg.
