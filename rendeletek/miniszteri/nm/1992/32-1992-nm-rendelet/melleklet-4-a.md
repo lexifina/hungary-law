@@ -1,6 +1,6 @@
 ## „A"
 
-## 1.[^19] KÉRŐLAP A TERHESSÉG MEGSZAKÍTÁSÁHOZ
+## 1.[^21] KÉRŐLAP A TERHESSÉG MEGSZAKÍTÁSÁHOZ
 
 ## A magzati élet védelméről szóló törvény 6. § (1) bekezdés c) és d) pontja alapján, a 6. § (2) bekezdésének figyelembevételével a Családvédelmi Szolgálat munkatársa tölti ki.
 
@@ -264,7 +264,7 @@
 
 ## *mb. helyettese/*adjunktus
 
-## [^20]
+## [^22]
 
 ## M204719A_0
 
@@ -350,7 +350,7 @@
 
 ## ”
 
-4/a. számú melléklet a 32/1992. (XII. 23.) NM rendelethez[^21]
+4/a. számú melléklet a 32/1992. (XII. 23.) NM rendelethez[^23]
 
 Súlyos válsághelyzet esetén a térítési díj kedvezményre jogosító pénzbeli ellátások
 
@@ -386,6 +386,6 @@ Súlyos válsághelyzet esetén a térítési díj kedvezményre jogosító pén
 
 3.3. Vakok személyi járadéka
 
-[^19]: A 4. számú melléklet „A” jelű rész 1. alcíme a 29/2022. (IX. 12.) BM rendelet 1. §-ával megállapított szöveg.
-[^20]: A Statisztikai adatlapot ld. 1992. MK 132. szám 4719-4720. oldal.
-[^21]: A 4/a. számú mellékletet a 18/2000. (VI. 29.) EüM rendelet 7. § (1) bekezdése iktatta be, szövege a 16/2015. (III. 30.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^21]: A 4. számú melléklet „A” jelű rész 1. alcíme a 29/2022. (IX. 12.) BM rendelet 1. §-ával megállapított szöveg.
+[^22]: A Statisztikai adatlapot ld. 1992. MK 132. szám 4719-4720. oldal.
+[^23]: A 4/a. számú mellékletet a 18/2000. (VI. 29.) EüM rendelet 7. § (1) bekezdése iktatta be, szövege a 16/2015. (III. 30.) EMMI rendelet 6. §-ával megállapított szöveg.
