@@ -34,7 +34,11 @@ o) az országos közút melletti pihenő- és várakozóhelyeken 2011. december 
 
 p) zálogtárgy tulajdonjogának zálogjogosult által történő megszerzése esetén.
 
-q) a 37. § (2) és (3) bekezdése alapján történő értékesítések esetén.
+q) ha a 37. § (2) bekezdése szerinti értékesítéssel érintett ingatlan
+
+qa) a közvetlenül határos ingatlan tulajdonosa részére kerül értékesítésre, vagy
+
+qb) osztatlan közös tulajdonban álló védett természeti terület, amely földrészlet tekintetében az állam kisebbségi tulajdonostársnak minősül és olyan tulajdonostárstól érkezik a vételi ajánlat, aki az ajánlata megtételekor legalább három éve tulajdoni hányaddal rendelkezik,
 
 r) hulladéknak nem minősülő vissznyereményi anyagok értékesítése esetén.
 

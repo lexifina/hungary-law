@@ -10,7 +10,7 @@ a) az állam szükségképpeni törvényes öröklése útján állami tulajdonb
 
 b) az 1. § (6a) bekezdése szerint, köztartozások fejében állami tulajdonba kerülő vagyonelemek,
 
-c) az MNV Zrt. által – a tulajdonosi joggyakorlása alatt álló, általa közvetlenül hasznosított, kis értékű vagyonelemek köréből – kivezetésre szánt állami vagyonba tartozó vagyonnak minősített és az MVH részére átadott vagyonelemek, valamint
+c) az MNV Zrt. által – a tulajdonosi joggyakorlása alatt álló, általa közvetlenül kezelt, kis értékű vagyonelemek köréből – kivezetésre szánt állami vagyonba tartozó vagyonnak minősített és az MVH részére átadott vagyonelemek, valamint
 
 d) az államra öröklés útján átszállt, továbbá a köztartozások fejében átvett, az MNV Zrt. által az MVH részére átadott követelések.
 

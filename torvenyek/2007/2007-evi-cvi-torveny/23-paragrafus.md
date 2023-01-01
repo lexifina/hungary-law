@@ -14,4 +14,4 @@ c) egyoldalú nyilatkozatával – a 28/A. § (2) bekezdése szerinti állami el
 
 (3) A tulajdonosi joggyakorló és a vagyonkezelő a vagyon hasznosítására csak olyan szerződést köthet, amely – az állami vagyon megőrzését, gyarapítását, pénzügyileg és gazdaságilag minél előnyösebb hasznosítását szem előtt tartva – az állam számára a várható bevétel, megtakarítás, vagy más előny alapján a lehető legkedvezőbb.
 
-(4) Állami vagyon hasznosítását biztosító szerződés megkötésére kiírt pályázati eljárás eredményeként a szerződés a pályázati kiírástól, valamint a nyertes pályázattól eltérő tartalommal nem köthető meg.
+(4) Állami vagyon hasznosítását biztosító szerződés megkötésére kiírt pályázati eljárás, vagy lefolytatott bérleti licit eredményeként a szerződés a pályázati kiírástól, a bérleti licit hirdetménytől, valamint a nyertes pályázattól, a nyertes ajánlattól eltérő tartalommal nem köthető meg.

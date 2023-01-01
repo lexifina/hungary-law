@@ -16,7 +16,7 @@ részére.
 
 a) osztatlan közös tulajdonban álló ingatlan állami tulajdoni hányadát a tulajdonostárs részére ingyenesen átruházhatja, ha az állam kisebbségi tulajdonostársnak minősül és az állami tulajdonban álló ingatlanhányad értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
 
-b) beépítésre és önmagában hasznosításra nem alkalmas önálló ingatlanok tulajdonjogát, az érintett ingatlannal közvetlenül határos magántulajdonban álló ingatlan tulajdonosa részére ingyenesen átruházhatja, ha az ingatlan értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
+b) beépítésre és önmagában hasznosításra nem alkalmas önálló, így különösen a kisajátításból visszamaradt ingatlanok tulajdonjogát, az érintett ingatlannal közvetlenül határos magántulajdonban álló ingatlan tulajdonosa vagy az ingatlan fekvése szerinti településen ingatlantulajdonnal rendelkező személy részére ingyenesen átruházhatja, ha az ingatlan értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
 
 c) földhasználati joggal terhelt ingatlant a földhasználati jog jogosultja részére ingyenesen átruházhatja, ha az ingatlan értéke nem éri el az e törvény végrehajtási rendeletében meghatározott nyilvántartási értéket;
 

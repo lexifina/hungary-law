@@ -24,13 +24,13 @@ f) azon országgyűlési képviselőről, aki más, Alaptörvényben nevesített
 
 a) a koncesszióról (az állami monopóliumok hasznosításáról),
 
-b) a Magyar Nemzeti Bank, az Államadósság Kezelő Központ Zrt. és a Magyar Távirati Iroda Zrt. működéséről,
+b) a Magyar Nemzeti Bank, az Államadósság Kezelő Központ Zrt. működéséről,
 
 c) a Nemzeti Földalapról.
 
 (4) Az állami tulajdonban álló, a hatályos jogszabályok szerint lakásnak minősülő ingatlanok értékesítésére vagy bérbeadására vonatkozó eljárásokban e törvény rendelkezéseit külön törvényben foglalt eltérésekkel kell alkalmazni.
 
-(5) Nem tartozik e törvény hatálya alá az a vagyon, amelynél az állami tulajdonszerzésre az állam közjogi kötelezettségeinek, jogosultságainak gyakorlása következtében, vagy azzal összefüggésben kerül sor, így a szabálysértési és büntetőeljárásokban elkobzás, vagyonelkobzás útján állami tulajdonba kerülő vagyon.
+(5) Nem tartozik e törvény hatálya alá az a vagyon, amelynél az állami tulajdonszerzésre az állam közjogi kötelezettségeinek, jogainak gyakorlása következtében, vagy azzal összefüggésben kerül sor, – különösen a szabálysértési és büntetőeljárásban elkobzás, vagyonelkobzás útján állami tulajdonba kerülő vagyon –, ide nem értve azt a vagyont, amely az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 125/C. §-a és 125/D. §-a szerinti eljárás útján kerül állami tulajdonba.
 
 (6) Az (5) bekezdés szerinti vagyon hasznosítása, értékesítése során e törvény rendelkezéseit kell alkalmazni, azzal, hogy az államot megillető tulajdonosi jogokat az az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerinti központi költségvetési szerv – ide nem értve az állami adó- és vámhatóságot –, továbbá az a 100%-ban állami tulajdonban álló gazdasági társaság gyakorolja, amely az állami tulajdonjogot keletkeztető hatósági határozatot hozta, illetve amely szervezetet megillető követelés fejében került sor a vagyonnak az állam általi elfogadására.
 
