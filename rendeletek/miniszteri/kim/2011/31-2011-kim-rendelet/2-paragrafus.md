@@ -10,13 +10,13 @@ a) a településazonosító törzsszámból és
 
 b) csoportképző ismérvek kódjaiból, amelyek a következők:
 
-ba) a megyét,
+ba)[^3] a vármegyét,
 
 bb) a főváros kerületeit,
 
 bc) a település jogállását,
 
-bd) a megyeszékhelyet,
+bd)[^4] a vármegyeszékhelyet,
 
 be) a jogállás 2005-öt,
 
@@ -50,5 +50,9 @@ bs) a szabad vállalkozási zónákat,
 
 bt) a területfejlesztési szempontból kiemelt térségeket
 
+jelölő kód.
+
 [^1]: A 2. § (2) bekezdése a 13/2013. (VII. 9.) KIM rendelet 2. §-a szerint módosított szöveg.
 [^2]: A 2. § (3) bekezdése a 15/2019. (XI. 27.) MvM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (3) bekezdés b) pont ba) alpontja a 22/2022. (XII. 28.) MK rendelet 2. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdés b) pont bd) alpontja a 22/2022. (XII. 28.) MK rendelet 2. § b) pontja szerint módosított szöveg.
