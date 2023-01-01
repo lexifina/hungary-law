@@ -1,6 +1,6 @@
-8. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^164]
+8. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^167]
 
-## A megszüntetési (bontási) engedély és a bontás megkezdésének tudomásulvétele iránti kérelem adattartalma
+A megszüntetési (bontási) engedély és a bontás megkezdésének tudomásulvétele iránti kérelem adattartalma
 
 A kérelem a következő adatokat tartalmazza:
 
@@ -24,4 +24,4 @@ d) kivitelezés tervezett befejezési időpontja.
 
 6. Az építési engedély száma, kelte.
 
-[^164]: A 8. számú melléklet a 441/2015. (XII. 28.) Korm. rendelet 100. § (4) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^167]: A 8. számú melléklet a 441/2015. (XII. 28.) Korm. rendelet 100. § (4) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
