@@ -1,3 +1,3 @@
-6. §[^6]
+6. § (1) A Turizmus tv. 3. § (5) bekezdésétől eltérően a Turizmus tv. 3. § (4) bekezdés d) pontjában foglalt feladatokat a miniszter is elláthatja.
 
-[^6]: A 6. § a 10. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+(2) A Turizmus tv. 4. § (1a) bekezdésétől eltérően a Turizmus tv. 4. § (1) bekezdésében foglalt feladatokat a miniszter is elláthatja.

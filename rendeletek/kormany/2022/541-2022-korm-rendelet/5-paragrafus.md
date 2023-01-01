@@ -1,3 +1,1 @@
-5. §[^5]
-
-[^5]: Az 5. § a 10. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+5. § Az Áht. 95. § (2) bekezdésétől eltérően az Áht. 95. § (1) bekezdése szerinti kötelezettség vállalása és teljesítése során az állam nevében az államháztartásért felelős miniszter jár el.

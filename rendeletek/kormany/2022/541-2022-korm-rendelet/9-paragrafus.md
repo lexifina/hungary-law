@@ -1,3 +1,1 @@
-9. §[^8]
-
-[^8]: A 9. § a 10. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+9. § Az Áhsz. 6. § (1) bekezdés e) pontja szerinti éves költségvetési beszámolót a miniszter által vezetett minisztérium esetében az irányítása alá tartozó fejezetenként kell elkészíteni.
