@@ -2,7 +2,7 @@
 
 ## (Faxon vagy e-mail-ben továbbítandó)
 
-## Bejelentő: OMSZ .............................. megyei mentőszervezet
+## Bejelentő: OMSZ .............................. vármegyei mentőszervezet
 
 ## Az esemény helye:
 
@@ -60,6 +60,6 @@
 
 ## OMSZ főigazgató/szolgálatvezető főorvos
 
-3. számú melléklet a 10/2005. (IV. 12.) EüM rendelethez[^24]
+3. számú melléklet a 10/2005. (IV. 12.) EüM rendelethez[^25]
 
-[^24]: A 3. számú melléklet a 68/2013. (XI. 15.) EMMI rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^25]: A 3. számú melléklet a 68/2013. (XI. 15.) EMMI rendelet 15. § (2) bekezdésével megállapított, a 45/2022. (XII. 20.) BM rendelet 38. § c) pontja szerint módosított szöveg.

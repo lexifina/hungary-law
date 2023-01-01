@@ -1,4 +1,4 @@
-7. számú melléklet a 10/2005. (IV. 12.) EüM rendelethez[^27]
+7. számú melléklet a 10/2005. (IV. 12.) EüM rendelethez[^28]
 
 ORSZÁGOS ELLÁTÁS KAPACITÁS JELENTÉS
 
@@ -70,4 +70,4 @@ Diagnosztikai és terápiás egységek, eszközök
 
 aláírás
 
-[^27]: A 7. számú mellékletet a 38/2018. (X. 31.) EMMI rendelet 11. § (4) bekezdése iktatta be.
+[^28]: A 7. számú mellékletet a 38/2018. (X. 31.) EMMI rendelet 11. § (4) bekezdése iktatta be.

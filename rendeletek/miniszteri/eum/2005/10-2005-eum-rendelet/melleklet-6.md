@@ -1,10 +1,10 @@
 ## Lapszám:  ⬜⬜
 
-## MEGYEI ELLÁTÁS KAPACITÁS JELENTÉS
+## VÁRMEGYEI ELLÁTÁS KAPACITÁS JELENTÉS
 
 ## .................... év .................... hó .......... nap .......... óra
 
-## ⬜⬜⬜⬜⬜⬜⬜⬜⬜  ........................................  megyei kormányhivatal
+## ⬜⬜⬜⬜⬜⬜⬜⬜⬜  ........................................  vármegyei kormányhivatal
 
 ## ágazati azonosító
 
@@ -70,6 +70,6 @@
 
 ## aláírás
 
-6. számú melléklet a 10/2005. (IV. 12.) EüM rendelethez[^26]
+6. számú melléklet a 10/2005. (IV. 12.) EüM rendelethez[^27]
 
-[^26]: A 6. számú mellékletet az 54/2016. (XII. 30.) EMMI rendelet 46. § (4) bekezdés b) pontja hatályon kívül helyezte.
+[^27]: A 6. számú mellékletet az 54/2016. (XII. 30.) EMMI rendelet 46. § (4) bekezdés b) pontja hatályon kívül helyezte.

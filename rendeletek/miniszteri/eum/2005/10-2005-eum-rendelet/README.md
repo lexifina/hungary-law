@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-10-20-0
 | 2015-04-29 | 2005-10-20-0B.7 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2017-04-01 | 2005-10-20-0B.8 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2018-11-01 | 2005-10-20-0B.9 | 38/2018. (X. 31.) EMMI rendelet |
+| 2023-01-01 | 2005-10-20-0B.10 | 23/2015. (IV. 28.) EMMI rendelet |

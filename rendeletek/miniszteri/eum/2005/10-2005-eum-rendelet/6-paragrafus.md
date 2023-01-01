@@ -1,10 +1,10 @@
 ## 5. § A 3. § (1) bekezdése, továbbá a 4. § (1) bekezdése szerinti írásbeli jelentést az 1. számú melléklet szerinti adatlap felhasználásával kell megtenni.
 
-6. § (1)[^11] A megyei kormányhivatal a hozzá bejelentett haladéktalan jelentési kötelezettségű eseményről szóló bejelentést – a (2) bekezdésben foglalt kivétellel –, illetve a megyei kormányhivatalnál bekövetkezett rendkívüli eseményt – a saját hatáskörében megtett vagy tervezett intézkedések ismertetésével együtt – szóban haladéktalanul, de legkésőbb az írásbeli bejelentést követő 1 órán belül írásban is továbbjelenti az országos tisztifőorvos részére. A megyei kormányhivatal a rendkívüli esemény általi érintettség esetén egyidejűleg tájékoztatja az OMSZ megyei (fővárosi) mentőszervezetét is.
+6. § (1)[^11] A vármegyei kormányhivatal a hozzá bejelentett haladéktalan jelentési kötelezettségű eseményről szóló bejelentést – a (2) bekezdésben foglalt kivétellel –, illetve a vármegyei kormányhivatalnál bekövetkezett rendkívüli eseményt – a saját hatáskörében megtett vagy tervezett intézkedések ismertetésével együtt – szóban haladéktalanul, de legkésőbb az írásbeli bejelentést követő 1 órán belül írásban is továbbjelenti az országos tisztifőorvos részére. A vármegyei kormányhivatal a rendkívüli esemény általi érintettség esetén egyidejűleg tájékoztatja az OMSZ vármegyei (fővárosi) mentőszervezetét is.
 
 (2) Az (1) bekezdésben foglaltakat nem kell alkalmazni akkor, ha a 2. § (1) bekezdés a) pont szerinti haladéktalan jelentési kötelezettségű eseményeket az alapellátást nyújtó egészségügyi szolgáltató jelentette be.
 
 (3)[^12] Az országos tisztifőorvos a hozzá a 6. § (1) bekezdése alapján bejelentett eseményeket – a saját hatáskörében megtett vagy tervezett intézkedések ismertetésével együtt – szóban haladéktalanul, de legkésőbb 1 órán belül írásban is továbbjelenti a minisztérium részére.
 
-[^11]: A 6. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 71. § b)–c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 46. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^11]: A 6. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 71. § b)–c) pontja, az 54/2016. (XII. 30.) EMMI rendelet 46. § (3) bekezdés a) pontja, a 45/2022. (XII. 20.) BM rendelet 38. § a) pontja szerint módosított szöveg.
 [^12]: A 6. § (3) bekezdését a 38/2018. (X. 31.) EMMI rendelet 11. § (1) bekezdése iktatta be.
