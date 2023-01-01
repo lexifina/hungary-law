@@ -1,4 +1,4 @@
-## 7/A. §[^64] A Nyilvántartás működését elősegítő elektronikus alkalmazások közül
+## 7/A. §[^65] A Nyilvántartás működését elősegítő elektronikus alkalmazások közül
 
 a) a készenlétbe helyezett e-építési naplóból csak az építtető vagy annak meghatalmazottja adhat ki adatot,
 
@@ -8,4 +8,4 @@ c) az e-tanúsításból a tanúsított épület tulajdonosa vagy annak meghatal
 
 d) az ÉTDR-ből az építtető vagy az építmény tulajdonosa – kizárólag a tulajdonában álló építményre vonatkozóan – vagy azok meghatalmazottja részére azon hatóság adhat ki az általános közigazgatási rendtartás szabályai szerint iratot, amely előtt (a jogutódlásra vonatkozó szabályok figyelembevételével) az eljárás folyamatban volt.
 
-[^64]: A 7/A. §-t a 788/2021. (XII. 27.) Korm. rendelet 22. §-a iktatta be.
+[^65]: A 7/A. §-t a 788/2021. (XII. 27.) Korm. rendelet 22. §-a iktatta be.

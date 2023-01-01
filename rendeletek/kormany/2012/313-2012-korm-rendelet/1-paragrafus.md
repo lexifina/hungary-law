@@ -56,7 +56,7 @@ s)[^9] az Étv. 33/A. §-a szerinti egyszerű bejelentéssel megépített vagy b
 
 t)[^10] a településtervezés önkormányzat által elfogadott dokumentumai
 
-## [a továbbiakban az a)–t) pont együtt: dokumentációk] kezelésére, az építésügy körébe tartozó tevékenységekkel összefüggő adatokra, azok átadására, kezelésére, továbbá az építésügy körébe tartozó hatósági és szakmai tevékenységeket kiszolgáló központi elektronikus alkalmazások és adatállományok működésére és működtetésére.
+[a továbbiakban az a)–t) pont együtt: dokumentációk] kezelésére, az építésügy körébe tartozó tevékenységekkel összefüggő adatokra, azok átadására, kezelésére, továbbá az építésügy körébe tartozó hatósági és szakmai tevékenységeket kiszolgáló központi elektronikus alkalmazások és adatállományok működésére és működtetésére.
 
 (1a)[^11] E rendelet hatálya kiterjed a Dokumentációs Központ részére átadni vagy szolgáltatni rendelt, az állami költségvetési források felhasználásával megvalósítani tervezett építészeti tervpályázatok tervanyagának és dokumentációinak gyűjtésére, kezelésére és szolgáltatására.
 
@@ -81,6 +81,8 @@ g) a távhőszolgáltatásról szóló törvény szerinti távhő-szolgáltatás
 h) a vasúti pálya, a vasút egyéb helyhez kötött létesítményei és berendezései, a sikló, a függőpálya, a távolsági szalagpálya és a sífelvonó,
 
 i)[^14] a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdés a)–j) pontjában meghatározott sajátos építményfajták
+
+dokumentációinak kezelésére.
 
 [^1]: Az 1. § (1) bekezdés záró szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 5. § (2) bekezdése szerint, a 280/2018. (XII. 21.) Korm. rendelet 6. § a) pontja, a 420/2021. (VII. 15.) Korm. rendelet 65. § c) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés a) pontja a 280/2018. (XII. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

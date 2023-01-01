@@ -1,5 +1,3 @@
-## dokumentációinak kezelésére.
-
 ## 2. § E rendelet alkalmazásában
 
 1.[^15] Dokumentációs Központ: az Építésügyi Dokumentációs és Információs Központ, amely az építésügy, a településfejlesztés és -rendezés, valamint a régészeti örökség és a műemléki érték védelme körébe tartozó dokumentációk és adatok központi gyűjteménye és azok nyilvántartása, mely magában foglalja a Nyilvántartás működéséhez szükséges, valamint az abban létrehozott adatállományt, dokumentációkat és adatokat is;

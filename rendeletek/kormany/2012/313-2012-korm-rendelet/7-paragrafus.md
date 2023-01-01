@@ -18,8 +18,8 @@ a) elektronikus formátumú dokumentum esetében az adat vagy dokumentum keletke
 
 b) nem elektronikus vagy az előírttól eltérő formátumú dokumentum esetében az adat vagy dokumentumnak a hatósághoz történő beérkezését követő két munkanapon belül
 
-## kell elvégezni.
+kell elvégezni.
 
-(5)[^63] A Nyilvántartásban keletkezett elektronikus dokumentumokat az eljárás, alkalmazás lezárását követően a Dokumentációs Központ tárolja a 7/A. §-ban foglaltak figyelembevételével, amely a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló törvény és végrehatási rendeletei, valamint a keletkezett dokumentum típusára vonatkozó irattári terv szerint – az Étv. 59. § (6)–(8) bekezdése figyelembevételével – gondoskodik az archiválásáról és megőrzéséről vagy a törléséről.
+(5)[^64] A Nyilvántartásban keletkezett elektronikus dokumentumokat az eljárás, alkalmazás lezárását követően a Dokumentációs Központ tárolja a 7/A. §-ban foglaltak figyelembevételével, amely a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló törvény és végrehatási rendeletei, valamint a keletkezett dokumentum típusára vonatkozó irattári terv szerint – az Étv. 59. § (6)–(8) bekezdése figyelembevételével – gondoskodik az archiválásáról és megőrzéséről vagy a törléséről.
 
-[^63]: A 7. § (5) bekezdése a 788/2021. (XII. 27.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^64]: A 7. § (5) bekezdése a 788/2021. (XII. 27.) Korm. rendelet 23. §-a szerint módosított szöveg.

@@ -1,5 +1,3 @@
-## A rendszerhasználati díj mértéke
-
 |  | A | B |
 
 | 1. | e-építési napló vezetési kötelezettséggel érintett építmény az építésügyi bírság megállapításának részletes szabályairól szóló 245/2006. (XII. 5.) Korm. rendelet alapján számított építményértéke | e-építési napló rendszerhasználati díj bruttó (általános forgalmi adót tartalmazó) összege |
@@ -16,6 +14,6 @@
 
 | 7. | 1 000 000 001 Ft felett | 500 000 Ft |
 
-2. melléklet a 313/2012. (XI. 8.) Korm. rendelethez[^69]
+2. melléklet a 313/2012. (XI. 8.) Korm. rendelethez[^71]
 
-[^69]: A 2. mellékletet a 334/2017. (XI. 9.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 38/2020. (III. 10.) Korm. rendelet 11. § b) pontja.
+[^71]: A 2. mellékletet a 334/2017. (XI. 9.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 38/2020. (III. 10.) Korm. rendelet 11. § b) pontja.
