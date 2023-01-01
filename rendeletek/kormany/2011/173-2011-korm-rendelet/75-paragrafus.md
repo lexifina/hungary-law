@@ -26,7 +26,7 @@ e) a gyártó vagy az importőr e rendelet szerinti adatai nem, hamisan vagy hi�
 
 f) a gyártó vagy az importőr nem tett eleget az e rendelet szerinti adminisztrációs kötelezettségének,
 
-## köteles soron kívül, de legkésőbb a rendőrség felszólítására intézkedni az a)–f) pont szerinti hiányosságok kijavítása iránt.
+köteles soron kívül, de legkésőbb a rendőrség felszólítására intézkedni az a)–f) pont szerinti hiányosságok kijavítása iránt.
 
 (2) Ha a bejelentett szervezet a pirotechnikai termék tanúsítványát visszavonja vagy egy gyártási tételt nem megfelelőnek minősít, erről – a visszavonást vagy a minősítést követően – haladéktalanul értesíti a rendőrséget.
 

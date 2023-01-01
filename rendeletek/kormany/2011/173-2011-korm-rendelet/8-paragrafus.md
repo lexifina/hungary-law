@@ -1,5 +1,3 @@
-## foglalja magában.
-
 8. § (1)[^26] Az e rendeletben meghatározott hatóság engedélyével rendelkező gyártó a bejelentett szervezet felé közli a teljesítményi jellemzőket a lehető legnagyobb biztonság és megbízhatóság elérése érdekében.
 
 (2) A pirotechnikai terméket úgy kell megtervezni és előállítani, hogy a megfelelő eljárás alkalmazásával biztonságosan kezelt hulladékként a lehető legkisebb hatást gyakorolja a környezetre.

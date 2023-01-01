@@ -24,4 +24,6 @@ d) „-” jelet,
 
 e) az (1) bekezdés c) pontja szerinti feldolgozási számot
 
+foglalja magában.
+
 [^25]: A 7/A. §-t a 100/2015. (IV. 20.) Korm. rendelet 3. § (3) bekezdése iktatta be.

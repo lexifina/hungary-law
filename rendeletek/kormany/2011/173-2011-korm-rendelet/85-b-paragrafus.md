@@ -1,4 +1,4 @@
-85/B. §[^77] (1) Kormányablaknál nem terjeszthető elő
+85/B. §[^79] (1) Kormányablaknál nem terjeszthető elő
 
 a) a polgári célú pirotechnikai tevékenységhez szükséges engedély iránti kérelem,
 
@@ -18,4 +18,4 @@ e) a 105. § (1) bekezdése szerinti bejelentés.
 
 (5) A rendőrkapitányság a 99. § (5) bekezdése, illetve a 105. § (1) bekezdése szerinti bejelentés alapján végzett tevékenységet tiltó döntése elleni fellebbezést az engedélyező hatóság bírálja el, az általános közigazgatási rendtartásról szóló törvény szerinti felügyeleti szervként a fellebbezés elbírálására jogosult hatóság jár el.
 
-[^77]: A 85/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 337. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^79]: A 85/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 337. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.

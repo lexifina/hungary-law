@@ -1,4 +1,4 @@
-1. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^143]
+1. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^145]
 
 1. A telepítési távolság meghatározása
 
@@ -8,7 +8,7 @@
 
 1.3. A pirotechnikai raktárépület „RV-besorolású” építményeinek környezetében – mind a létesítményen belüli „RV-besorolású” építmények, mind pedig a külső létesítmények, építmények irányában – megtartandó védőtávolságokat az alábbi képletből kiindulva, számítással kell meghatározni:
 
-ahol:
+## ahol:
 
 1.3.1. „R”: a védőtávolság, méterben (az 1.1. pont fogalmi meghatározása szerint),
 
@@ -38,7 +38,7 @@ ahol:
 
 2.1. Azokon a helyeken, ahol a robbantás napi feladatokat képez, a környező építmények védelme érdekében a robbantások szeizmikus hatása ellen védő védőtávolságokat is meg kell állapítani. A szeizmikus védőtávolságokat az alábbi képlet alapján kell meghatározni:
 
-ahol:
+## ahol:
 
 2.1.1. „L”: a szeizmikus védőtávolság (az egyidejűleg felrobbanó töltet súlypontjától a megvédendő építménynek a legközelebbi talajfelszíni pontjáig mért távolság) méterben,
 
@@ -52,7 +52,7 @@ ahol:
 
 2.2. Ha a 2.1. pontban szereplő képlet szerint meghatározott szeizmikus védőtávolságon belül védendő építmény van, arra vonatkozóan a következő képlettel kell meghatározni a várható rezgési sebesség értékét:
 
-ahol:
+## ahol:
 
 2.2.1. „v”: az a rezgési sebesség (mm/s), amelynél nagyobb nem várható „l” távolságban,
 
@@ -88,7 +88,7 @@ ahol:
 
 4.1. A pirotechnikai termékekben használatos robbanóképes anyagok TNT-egyenértékét („E”) az alábbi módon kell kiszámítani:
 
-ahol:
+## ahol:
 
 4.1.1. „Qrobbanóanyag”: a robbanóképes pirotechnikai anyag fajlagos égéshője (kJ/kg)
 
@@ -220,4 +220,4 @@ ahol:
 
 |  | 20 | 1 | a kifúvófal és kifúvó födém esetében. |
 
-[^143]: Az 1. melléklet a 300/2014. (XII. 5.) Korm. rendelet 9. §-a, a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 18–22. pontja, a 6/2020. (I. 31.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^145]: Az 1. melléklet a 300/2014. (XII. 5.) Korm. rendelet 9. §-a, a 100/2015. (IV. 20.) Korm. rendelet 26. § (1) bekezdés 18–22. pontja, a 6/2020. (I. 31.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.

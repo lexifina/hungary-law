@@ -1,6 +1,6 @@
 2. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez
 
-## A CE-jelölés
+A CE-jelölés
 
 1. A CE-jelölés a „CE” kezdőbetűknek a következő formában, legalább 5 mm-es nagyságban való feltüntetését jelenti:
 

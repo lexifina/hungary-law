@@ -1,5 +1,3 @@
-## A tárolóhelyek tartó- és szakipari szerkezeteire vonatkozó tűzállósági követelmények
-
 | Szerkezet megnevezése | Tűzvédelmi osztály Tűzállósági határérték (perc) |
 
 | Teherhordó pillérek | A2 R 60 |
@@ -56,6 +54,6 @@
 
 | Csapadékvíz elleni szigetelések | D |
 
-6. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^155]
+6. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^157]
 
-[^155]: A 6. mellékletet a 137/2017. (VI. 9.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^157]: A 6. mellékletet a 137/2017. (VI. 9.) Korm. rendelet 8. §-a hatályon kívül helyezte.
