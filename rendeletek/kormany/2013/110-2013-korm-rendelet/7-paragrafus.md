@@ -1,10 +1,8 @@
-## jogosult bejegyzést tenni.
-
 ## 5. Az állattartó, a vágóhíd, az állatorvos, a kancafedeztetési állomás és a kibocsátó szerv kötelezettségei
 
 7. § (1) Amennyiben az állat tulajdonosa és tartója nem azonos, az állattartó az e rendeletben foglalt kötelezettségek elvégzése tekintetében köteles a tulajdonost tájékoztatni, illetve annak megbízásából eljárni.
 
-(2)[^23] A lófélék egyedeinek azonosítása keretében az állat tulajdonosa, illetve annak megbízásából az állattartó köteles
+(2)[^24] A lófélék egyedeinek azonosítása keretében az állat tulajdonosa, illetve annak megbízásából az állattartó köteles
 
 a) gondoskodni a 2015/262/EU bizottsági végrehajtási rendeletben foglaltak betartásáról,
 
@@ -24,7 +22,7 @@ h) a kancafedeztetési jegyzőkönyvet megőrizni és a lóféle azonosításako
 
 i) a lóútlevelet az állat tartási helyén tartani, és a kezelő állatorvos rendelkezésére bocsátani az elvégzett kezelések bejegyzése érdekében.
 
-(3)[^24] A kibocsátó szerv tulajdonosváltás esetén köteles a lóútlevélbe is bejegyezni az adatváltozást. A 6. § (3) bekezdés b) pontja szerinti adatokat a kibocsátó szerv az adatrögzítéstől számított 15 napon belül továbbítja a központi adatbázisba. A kibocsátó szerv az adatbázisokba történő adatrögzítést követően köteles az adatváltozás bejelentését szolgáló lótulajdonos nyilvántartó betétlapot a NÉBIH-nek megküldeni.
+(3)[^25] A kibocsátó szerv tulajdonosváltás esetén köteles a lóútlevélbe is bejegyezni az adatváltozást. A 6. § (3) bekezdés b) pontja szerinti adatokat a kibocsátó szerv az adatrögzítéstől számított 15 napon belül továbbítja a központi adatbázisba. A kibocsátó szerv az adatbázisokba történő adatrögzítést követően köteles az adatváltozás bejelentését szolgáló lótulajdonos nyilvántartó betétlapot a NÉBIH-nek megküldeni.
 
-[^23]: A 7. § (2) bekezdése a 320/2016. (X. 25.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^24]: A 7. § (3) bekezdése a 320/2016. (X. 25.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^24]: A 7. § (2) bekezdése a 320/2016. (X. 25.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^25]: A 7. § (3) bekezdése a 320/2016. (X. 25.) Korm. rendelet 6. §-ával megállapított szöveg.

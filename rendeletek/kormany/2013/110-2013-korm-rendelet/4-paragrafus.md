@@ -10,7 +10,7 @@ a) a transzponder beültetését a kibocsátó szerv megbízásából a Magyar �
 
 b) a lófélék alternatív jelölését a kibocsátó szerv
 
-## végzi.
+végzi.
 
 (4) A transzponderes, illetve az alternatív jelöléssel egyidejűleg a transzponder beültetését végző állatorvos vagy állatorvosi asszisztens, illetve a kibocsátó szerv kitölti a nyilvántartásba vételhez, valamint a lóútlevél kiadásához szükséges adatokat tartalmazó csikójelölési jegyzőkönyvet, valamint kitölteti az állattartóval a lóútlevél-igénylő lapot. Az állattartó átadja a transzponder beültetését végző állatorvosnak vagy állatorvosi asszisztensnek, illetve a kibocsátó szervnek a tulajdonosnak a tulajdonjogára vonatkozó nyilatkozatát (a továbbiakban: tulajdonosi nyilatkozat). A transzponder beültetését végző állatorvos vagy állatorvosi asszisztens továbbítja a kibocsátó szervnek a csikójelölési jegyzőkönyvet, a lóútlevél-igénylő lapot, valamint a tulajdonosi nyilatkozatot.
 

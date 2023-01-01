@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-110-20-
 | 2016-05-01 | 2013-110-20-22.5 | 88/2016. (IV. 29.) Korm. rendelet |
 | 2016-10-28 | 2013-110-20-22.6 | 320/2016. (X. 25.) Korm. rendelet |
 | 2017-01-01 | 2013-110-20-22.7 | 328/2016. (X. 28.) Korm. rendelet |
+| 2023-01-01 | 2013-110-20-22.8 | 616/2022. (XII. 29.) Korm. rendelet |
