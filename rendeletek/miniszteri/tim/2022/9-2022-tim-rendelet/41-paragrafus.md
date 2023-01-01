@@ -1,3 +1,3 @@
-## 40. §[^52]
+## 40. § Az R8. 17. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^52]: A 40. § a 72. § (6) bekezdése alapján 2023. január 1-jén lép hatályba.
+## „(3) A névjegyzékbe felvett, valamint a 21. § (1) bekezdés szerinti továbbképzés esetén vizsgakötelezettségét sikeresen teljesített szakoktatónak a közlekedési hatóság a vizsga letételétől számított két évig hatályos elektronikus szakoktatói igazolványt ad ki, ide nem értve az ideiglenes névjegyzékbe történő felvételt.”

@@ -1,3 +1,3 @@
-15. melléklet a 9/2022. (VIII. 1.) TIM rendelethez[^145]
+15. melléklet a 9/2022. (VIII. 1.) TIM rendelethez[^142]
 
-[^145]: A 15. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^142]: A 15. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

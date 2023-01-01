@@ -1,4 +1,4 @@
-## 71. §[^130]
+## 71. §[^127]
 
 ## 23. Záró rendelkezések
 
@@ -14,4 +14,4 @@
 
 (6) A 28. § a) és b) pontja és a 40. § 2023. január 1-jén lép hatályba.
 
-[^130]: A 71. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^127]: A 71. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

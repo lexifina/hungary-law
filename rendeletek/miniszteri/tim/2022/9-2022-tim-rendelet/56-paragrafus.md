@@ -1,3 +1,3 @@
-## 55. §[^114]
+## 55. §[^111]
 
-[^114]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^111]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
