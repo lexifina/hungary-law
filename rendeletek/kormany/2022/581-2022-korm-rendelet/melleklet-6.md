@@ -1,3 +1,5 @@
-6. melléklet az 581/2022. (XII. 23.) Korm. rendelethez[^11]
+## „5. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
 
-[^11]: A 6. melléklet az 5. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+## 2X10200.pdf”
+
+6. melléklet az 581/2022. (XII. 23.) Korm. rendelethez

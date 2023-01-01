@@ -1,12 +1,11 @@
 4. § Az R.
 
-a) 1. § c) pontjában az „(a továbbiakban: Szja tv.) 3. § 17. pontja” szövegrész helyébe a „3. § 17. pontja” szöveg, az „az Szja tv. 3. § 18. pontja” szövegrész helyébe az „a családi gazdaságokról szóló 2020. CXXIII. törvény 3. § (2) bekezdése” szöveg,
+a)[^1]
 
-b)[^4]
+b) 2. § (1) bekezdésében az „1–11. melléklet” szövegrész helyébe az „1–12. melléklet” szöveg,
 
-c)[^5]
+c) 4. §-ában a „12. mellékletben” szövegrész helyébe a „13. mellékletben” szöveg
 
 lép.
 
-[^4]: A 4. § b) pontja az 5. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
-[^5]: A 4. § c) pontja az 5. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+[^1]: A 4. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
