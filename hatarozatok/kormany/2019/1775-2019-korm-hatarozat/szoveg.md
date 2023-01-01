@@ -10,11 +10,7 @@ b) a Dunaújvárosi Tankerületi Központ vagyonkezelésébe kerüljenek;
 
 3. a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 864 981 392 forintban határozza meg;
 
-4. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 2. Programszerű magasépítési beruházások címnek a 3. Tornaterem fejlesztések megvalósítása alcímmel történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: 2020. január 10.
+4.[^2]
 
 5. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 3. pont szerinti összeg 2020. évi részének rendelkezésre állásáról a Kvtv. 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 2. Programszerű magasépítési beruházások cím, 3. Tornaterem fejlesztések megvalósítása alcím javára;
 
@@ -39,3 +35,4 @@ Felelős: emberi erőforrások minisztere
 Határidő: 2020. február 29.
 
 [^1]: Az 1. pont az 1080/2020. (III. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
