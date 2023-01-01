@@ -1,4 +1,4 @@
-## 49. §[^24] Az analitikai vizsgálat mérési eredményeit és a vizsgálati jegyzőkönyvet a laboratórium a vizsgálat lezárásának napján elektronikusan átadja a NÉBIH részére, aki azt megküldi a borászati üzem és a hegybíró részére.
+## 49. §[^26] Az analitikai vizsgálat mérési eredményeit és a vizsgálati jegyzőkönyvet a laboratórium a vizsgálat lezárásának napján elektronikusan átadja a NÉBIH részére, aki azt megküldi a borászati üzem és a hegybíró részére.
 
 ## 21. Az érzékszervi vizsgálat
 
@@ -6,4 +6,4 @@
 
 (2) Az (1) bekezdés szerinti érzékszervi vizsgálat nem megfelelő minősítése esetén az adott borászati termék érzékszervi vizsgálata legfeljebb két alkalommal, az érzékszervi vizsgálat nem megfelelő eredményének kézhezvételétől számított 7 napon belül történő kérelmezése esetén megismételhető. A megismételt első érzékszervi vizsgálatot az FBB, a másodikat az Országos Borszakértő Bizottság (a továbbiakban: OBB) végzi.
 
-[^24]: A 49. § a 23/2022. (I. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^26]: A 49. § a 23/2022. (I. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
