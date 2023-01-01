@@ -2,7 +2,7 @@
 
 813. § (1) Ha a bíróság a vádlottat felmentette vagy vele szemben az eljárást megszüntette, a pótmagánvádló viseli a 145. § (1) bekezdésében és az 576. § (1) bekezdés b) pontjában meghatározott bűnügyi költségből azt a költséget, amely a pótmagánvádló fellépése után keletkezett.
 
-(2) Ha a vádat pótmagánvádló képviselte, és a bíróság a vádlottat az 566. § (3) bekezdésében meghatározott eset kivételével felmenti, vagy vele szemben az eljárást a pótmagánvádló vádejtése miatt megszünteti, a pótmagánvádló az ügydöntő határozat jogerőre emelkedésétől számított egy hónapon belül – jogszabályban meghatározott mértékben – megtéríti a vádlott meghatalmazott védőjének azon díját és költségét, amely a pótmagánvádló fellépése után keletkezett.
+(2) Ha a vádat pótmagánvádló képviselte, és a bíróság a vádlottat az 566. § (3) bekezdésében meghatározott eset kivételével felmenti, vagy vele szemben az eljárást a 801. § (5) bekezdése, a 806. § (2) bekezdése vagy a 810. § (1a) bekezdése miatt megszünteti, a pótmagánvádló az ügydöntő határozat jogerőre emelkedésétől számított egy hónapon belül – jogszabályban meghatározott mértékben – megtéríti a vádlott meghatalmazott védőjének azon díját és költségét, amely a pótmagánvádló fellépése után keletkezett.
 
 (3) A pótmagánvádlót csak azzal a cselekménnyel, illetve a tényállásnak azzal a részével kapcsolatban felmerült bűnügyi költség viselésére és a (2) bekezdésben meghatározott díj és költség azon részének megtérítésére lehet kötelezni, amelyre a vádindítványt előterjesztette vagy az írásbeli bejelentést tette, és amelyre a bíróság az 566. § (3) bekezdésében meghatározott eset kivételével felmentő ítéletet hozott vagy az eljárást megszüntette.
 

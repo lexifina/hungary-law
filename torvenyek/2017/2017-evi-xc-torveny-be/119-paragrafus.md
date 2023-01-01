@@ -14,7 +14,7 @@ a) huszonnégy órán belül az elfogatóparancsot kibocsátó vagy az abban meg
 
 b) hetvenkét órán belül az elfogatóparancsot kibocsátó vagy az abban megjelölt más bíróság
 
-elé kell kísérni.
+elé kell kísérni, vagy jelenlétét telekommunikációs eszköz útján kell biztosítani, ha annak feltételei fennállnak.
 
 (3) Ha hatóság vagy hivatalos személy olyan személy elérhetőségéről szerez tudomást, aki ellen elfogatóparancsot bocsátottak ki, erről a kibocsátó bíróságot, ügyészséget, vagy nyomozó hatóságot tájékoztatja.
 

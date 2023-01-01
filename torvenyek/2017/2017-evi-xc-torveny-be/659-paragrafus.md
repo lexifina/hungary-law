@@ -4,7 +4,7 @@
 
 (3) A 649. § (3) bekezdésében meghatározott esetben a felülvizsgálati indítványt az alaptörvény-ellenes jogszabály figyelmen kívül hagyásával, illetve az Alkotmánybíróság döntésének alapulvételével kell elbírálni.
 
-(4) A 649. § (5) bekezdésében meghatározott esetben a felülvizsgálati indítványt a törvénnyel kihirdetett nemzetközi szerződéssel ellentétes jogszabály figyelmen kívül hagyásával, illetve a nemzetközi emberi jogi szerv döntésének alapulvételével kell elbírálni.
+(4) A 649. § (4) és (5) bekezdésében meghatározott esetben a felülvizsgálati indítványt a törvénnyel kihirdetett nemzetközi szerződéssel ellentétes jogszabály figyelmen kívül hagyásával, illetve a nemzetközi emberi jogi szerv döntésének alapulvételével kell elbírálni.
 
 (5) A Kúria a jogerős ügydöntő határozatot – a (6) bekezdésben meghatározott kivétellel – csak a felülvizsgálati indítvánnyal megtámadott részében és csak a felülvizsgálati indítványban meghatározott ok alapján bírálja felül.
 

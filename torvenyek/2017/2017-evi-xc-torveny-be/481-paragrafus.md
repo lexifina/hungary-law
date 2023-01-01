@@ -4,4 +4,4 @@
 
 (3) A fellebbezést a bíróság a (4) bekezdésben meghatározott kivétellel tanácsülésen bírálja el.
 
-(4) A 480. § (3) bekezdése esetén a törvényszék másodfokú tanácsa ülést tart. A törvényszék erre irányuló indítvány hiányában is ülést tarthat. Az ülés tartására a 474–475. §-t kell alkalmazni. A fellebbezés elbírálásának nem akadálya, ha a terhelt az ülésen nem jelenik meg. Az ülésen a letartóztatás elrendelését indítványozó ügyészségen működő ügyész vesz részt.
+(4) A 480. § (3) bekezdése esetén, vagy, ha a tanács elnöke egyéb okból szükségesnek tartja, a törvényszék másodfokú tanácsa ülést tart. A törvényszék erre irányuló indítvány hiányában is ülést tarthat. Az ülés tartására a 474–475. §-t kell alkalmazni. A fellebbezés elbírálásának nem akadálya, ha a terhelt az ülésen nem jelenik meg. Az ülésen a letartóztatás elrendelését indítványozó ügyészségen működő ügyész vesz részt.

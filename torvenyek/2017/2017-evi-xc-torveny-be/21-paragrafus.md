@@ -14,7 +14,7 @@ lakcíme vagy tényleges tartózkodási helye található, ha az ügyészség ot
 
 (4) Több terhelt esetében a terheltek egyikére illetékes bíróság a többi terhelttel szemben is eljárhat, ha ez a hatáskörét nem haladja meg. Ha több ilyen bíróság van, a megelőzés alapján kell eljárni.
 
-(5) A törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a megye, illetve a főváros területére kiterjedő illetékességgel
+(5) A törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a vármegye, illetve a főváros területére kiterjedő illetékességgel
 
 1. a közveszély okozása – kivéve a Btk. 322. § (2) bekezdés b) pontja szerinti közveszély okozását –,
 

@@ -11,3 +11,11 @@ c) az elsőfokú bíróság által lefolytatott bizonyítást érintő ügyirato
 (3) A másodfokú bíróság az elsőfokú bíróság ítéletét a helyesbített, kiegészített, illetve az eltérően megállapított tényállás alapján bírálja felül.
 
 (4) Ha a megalapozatlanság nyilvánvalóan a 164. § (1) bekezdésében foglalt kötelezettség elmulasztására vezethető vissza, a megalapozatlanság következményei nem alkalmazhatók.
+
+(5) Eltérő tényállás megállapításának a tényállás olyan megváltoztatása minősül, amely
+
+a) a vádlott felmentését vagy az eljárás vele szemben történt megszüntetését követően a vádlott bűnösségének megállapítását, vagy
+
+b) a vádlott bűnösségének megállapítását követően a vádlott felmentését vagy az eljárás megszüntetését
+
+eredményezi.

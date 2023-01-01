@@ -20,6 +20,8 @@ c) a zár alá vétel tárgyának értéke a százmillió forintot meghaladja.
 
 a) ügyészség vagy nyomozó hatóság a 366. § megfelelő alkalmazásával, vagy
 
-b) a bíróság a vádemelés előtt az ügyészség, a terhelt, továbbá ha a sértett zár alá vételt indítványozott, a sértett, valamint a vagyoni érdekelt indítványára, a vádemelés után hivatalból
+b) a bíróság a vádemelés előtt az ügyészség, a terhelt, továbbá ha a sértett zár alá vételt indítványozott, a sértett, valamint a vagyoni érdekelt és a jogszabály alapján a bűnügyi hitelezői igény képviseletére jogosult egyéb érdekelt indítványára, a vádemelés után hivatalból
 
-a (6) bekezdésnek megfelelően határoz a zár alá vételről rendelkező határozat kiegészítéséről.
+a (6) bekezdésnek megfelelően határoz a zár alá vételről rendelkező határozat megváltoztatásáról.
+
+(8) A (6) és (7) bekezdés szerinti határozatokat haladéktalanul kézbesíteni kell a vagyoni érdekeltnek, valamint a jogszabály alapján a bűnügyi hitelezői igény képviseletére jogosult egyéb érdekeltnek is.

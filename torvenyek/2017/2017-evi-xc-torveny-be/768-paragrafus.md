@@ -6,15 +6,9 @@
 
 (2) Ha kölcsönösen elkövetett könnyű testi sértés, rágalmazás vagy becsületsértés esetén mindkét érintett személy feljelentést tett, a személyes meghallgatáson mindkét érintett személy sértettként és feljelentettként is részt vesz.
 
-(3) Ha a sértett a személyes meghallgatáson
+(3) A személyes meghallgatásra szóló idézésben, illetve értesítésben a bíróság a 771. § (1) bekezdésében meghatározott jogkövetkezményekre is figyelmezteti a sértettet.
 
-a) nem jelenik meg, és magát alapos okkal, előzetesen, haladéktalanul nem mentette ki, illetve elérhetetlenné vált, vagy
-
-b) önhibájából olyan állapotban jelenik meg, hogy az eljárási kötelezettségeit nem képes teljesíteni, továbbá az eljárási cselekményről engedély nélkül távozik,
-
-úgy kell tekinteni, hogy a feljelentést visszavonta. A sértettet erre az idézésben figyelmeztetni kell.
-
-(3a) A sértett a személyes meghallgatásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki. Ha a sértett a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi a személyes meghallgatás jelenlétében való folytatását, úgy kell tekinteni, hogy a feljelentést visszavonta.
+(3a) A sértett és – ha a sértett jogi képviselőjének jelenléte kötelező – a sértett jogi képviselője a személyes meghallgatásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki.
 
 (4) A feljelentettet a sértett nevére és a bűncselekmény lényegére utalással kell idézni.
 

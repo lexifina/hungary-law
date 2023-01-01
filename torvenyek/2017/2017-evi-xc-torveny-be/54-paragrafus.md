@@ -2,6 +2,6 @@
 
 54. § (1) A pótmagánvádló az a sértett, aki vagy amely az e törvényben meghatározott esetekben közvádra üldözendő bűncselekmény miatt a vádat képviseli.
 
-(2) Ha a pótmagánvádló tartós, súlyos betegsége miatt nem képes személyes megjelenési kötelezettségének eleget tenni, helyébe törvényes képviselője vagy meghatalmazott képviselője léphet.
+(2) Ha a pótmagánvádló tartós, súlyos betegsége miatt nem képes személyes megjelenési kötelezettségének eleget tenni, helyébe törvényes képviselője vagy meghatalmazott képviselője léphet. Ha a pótmagánvádlónak nincs törvényes vagy meghatalmazott képviselője, akkor a bíróság felhívja a magánvádlót, hogy a felhívás kézbesítésétől számított egy hónapon belül gondoskodjon a képviseletről.
 
-(3) Ha a (2) bekezdésben meghatározott esetben nem lép képviselő a pótmagánvádló helyébe, és a pótmagánvádló idézés ellenére személyes megjelenési kötelezettségének nem tesz eleget, úgy kell tekintetni, hogy a feljelentést visszavonta, a vádat ejtette vagy a fellebbezést visszavonta.
+(3)

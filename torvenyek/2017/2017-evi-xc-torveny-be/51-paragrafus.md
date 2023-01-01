@@ -44,4 +44,4 @@ f) javítóintézeti nevelés esetén a fiatalkorú ideiglenes vagy végleges el
 
 a) az eljárási cselekményeken – a szakértői vizsgálatot is ideértve – a bíróság, az ügyészség és a nyomozó hatóság rendelkezéseinek megfelelően az e törvényben meghatározottak szerint részt venni,
 
-b) a lakcímét, értesítési címét, tényleges tartózkodási helyét, kézbesítési címét, és – a változást követő három munkanapon belül – ennek megváltozását az eljáró bírósággal, ügyészséggel vagy nyomozó hatósággal közölni.
+b) a lakcímét, értesítési címét, tényleges tartózkodási helyét, kézbesítési címét, telefonos elérhetőségét, elektronikus levelezési címét vagy más elektronikus elérhetőségét és – a változást követő három munkanapon belül – ennek megváltozását az eljáró bírósággal, ügyészséggel vagy nyomozó hatósággal közölni.

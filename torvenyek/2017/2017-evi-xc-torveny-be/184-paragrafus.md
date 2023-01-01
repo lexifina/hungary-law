@@ -16,4 +16,4 @@ e) személyazonosító okmányának száma,
 
 f) lakcíme, értesítési címe, tényleges tartózkodási helye,
 
-g) kézbesítési címe, telefonos elérhetősége.
+g) kézbesítési címe, telefonos elérhetősége, elektronikus levelezési címe vagy más elektronikus elérhetősége.

@@ -10,7 +10,7 @@
 
 (5) A kizárásra irányuló, nyilvánvalóan alaptalan bejelentés érdemi indokolás nélkül elutasítható, és a bejelentés előterjesztője rendbírsággal sújtható.
 
-(6) A megyei főügyészség területén lévő járási ügyészség ügyésze, vezetője, illetve a főügyészségi ügyész kizárásáról a főügyész határoz. A főügyész, valamint a legfőbb ügyészségi ügyész kizárásáról a legfőbb ügyész határoz. Ha a járási ügyészség ügyésze, vezetője, illetve a főügyészségi ügyész kizárása iránti bejelentés egyúttal a főügyészt is érinti, a kizárásról a legfőbb ügyész határoz.
+(6) A vármegyei főügyészség területén lévő járási ügyészség ügyésze, vezetője, illetve a főügyészségi ügyész kizárásáról a főügyész határoz. A főügyész, valamint a legfőbb ügyészségi ügyész kizárásáról a legfőbb ügyész határoz. Ha a járási ügyészség ügyésze, vezetője, illetve a főügyészségi ügyész kizárása iránti bejelentés egyúttal a főügyészt is érinti, a kizárásról a legfőbb ügyész határoz.
 
 (7) Az ügyészség vezetője a tudomására jutott kizárási ok miatt az ügyész kizárását hivatalból kezdeményezi.
 

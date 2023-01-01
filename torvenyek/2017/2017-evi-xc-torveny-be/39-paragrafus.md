@@ -40,7 +40,7 @@ e) törvénnyel kihirdetett nemzetközi szerződésben meghatározott személlye
 
 a) az eljárási cselekményeken a bíróság, az ügyészség és a nyomozó hatóság rendelkezéseinek megfelelően az e törvényben meghatározottak szerint jelen lenni,
 
-b) a lakcímét, értesítési címét, tényleges tartózkodási helyét, kézbesítési címét, valamint ezek megváltozását – a változást követő három munkanapon belül – az eljáró bírósággal, ügyészséggel vagy nyomozó hatósággal közölni.
+b) a lakcímét, értesítési címét, tényleges tartózkodási helyét, kézbesítési címét, telefonos elérhetőségét, elektronikus levelezési címét vagy más elektronikus elérhetőségét, valamint ezek megváltozását – a változást követő három munkanapon belül – az eljáró bírósággal, ügyészséggel vagy nyomozó hatósággal közölni.
 
 (4) A bíróság, az ügyészség vagy a nyomozó hatóság a terheltet a büntetőeljárásban történő részvételének kezdetekor a jogairól tájékoztatja és a kötelezettségeire figyelmezteti. A tájékoztatás kiterjed arra, hogy költségkedvezmény iránti kérelmet nyújthat be, annak feltételeire, valamint az anyanyelv használatához való jogra is.
 

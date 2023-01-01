@@ -14,4 +14,4 @@
 
 (7) A magánvádas eljárásban hozott jogerős ügydöntő határozatot a bíróság kézbesíti az ügyben korábban eljárt ügyészségnek is.
 
-(8) Ha a fellebbezésért az illetéket az illetékekről szóló törvény szerinti határidőben nem fizetik meg, azt a fellebbezés visszavonásának kell tekinteni.
+(8)

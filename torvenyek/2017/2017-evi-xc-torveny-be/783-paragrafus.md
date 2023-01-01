@@ -1,6 +1,6 @@
 ## A rendkívüli jogorvoslatokra vonatkozó eltérő szabályok
 
-783. § (1) A magánvádló kizárólag akkor terjeszthet elő perújítási indítványt, ha a terheltet felmentették vagy az eljárást – a vádejtést kivéve – megszüntették.
+783. § (1) A magánvádló kizárólag akkor terjeszthet elő perújítási indítványt, ha a terheltet felmentették vagy az eljárást – a 771. § (1) bekezdésében, a 776. § (2) bekezdésében és a 779. § (2) bekezdésében foglaltak kivételével – megszüntették.
 
 (2) A perújítási indítványt a perújítás megengedhetőségének kérdésében döntésre jogosult bíróságnál kell írásban benyújtani vagy jegyzőkönyvbe mondani.
 

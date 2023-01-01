@@ -1,3 +1,3 @@
-804. § (1) A pótmagánvádló a tárgyalásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki. Ha a pótmagánvádló a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi a tárgyalás jelenlétében való folytatását, úgy kell tekinteni, hogy a vádat ejtette.
+804. § (1) A pótmagánvádló a tárgyalásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki.
 
 (2) A pótmagánvádló jogi képviselője a tárgyalásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki. Ha a jogi képviselő a rendzavarással nem hagy fel, és ezzel lehetetlenné teszi a tárgyalás jelenlétében való folytatását, a bíróság a tárgyalást megszakítja. Ebben az esetben a pótmagánvádló más jogi képviselőt hatalmazhat meg, vagy a jogi segítségnyújtó szolgálattól másik pártfogó ügyvéd kirendelését kérheti. Ha ez nyomban nem lehetséges, a bíróság a tárgyalást a rendzavaró jogi képviselő költségére elnapolja.
