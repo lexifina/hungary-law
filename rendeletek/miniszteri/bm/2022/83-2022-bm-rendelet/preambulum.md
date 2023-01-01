@@ -1,0 +1,1 @@
+A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 83. § (6) bekezdés e) és f) pontjában kapott felhatalmazás alapján a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 25. pontjában meghatározott feladatkörömben eljárva, következőket rendelem el:
