@@ -1,6 +1,6 @@
 ## 1. A nemzeti értékek szakterületenkénti kategóriái
 
-1. § (1) A nemzeti értékek adatait a települési, tájegységi, megyei és ágazati értéktárakban, a Magyar Értéktárban, valamint a Hungarikumok Gyűjteményében a következő, szakterületenkénti kategóriák szerint kell azonosítani és rendszerezni:
+1. § (1)[^1] A nemzeti értékek adatait a települési, tájegységi, vármegyei és ágazati értéktárakban, a Magyar Értéktárban, valamint a Hungarikumok Gyűjteményében a következő, szakterületenkénti kategóriák szerint kell azonosítani és rendszerezni:
 
 a) agrár- és élelmiszergazdaság: az agrárium szellemi termékei és tárgyi javai beleértve az erdészet, halászat, vadászat, az élelmiszerek és állategészségügy területét;
 
@@ -21,3 +21,5 @@ h) természeti környezet: az ember természetes környezetének tárgyi javai, 
 i) turizmus és vendéglátás: a turizmus és a vendéglátás szellemi termékei és tárgyi javai.
 
 (2) A külhoni magyarság értéktára – az egységesség érdekében – alkalmazhatja az (1) bekezdés szerinti kategorizálást.
+
+[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 304. § a) pontja szerint módosított szöveg.

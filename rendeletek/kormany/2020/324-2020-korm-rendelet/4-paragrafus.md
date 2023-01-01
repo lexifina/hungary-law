@@ -1,8 +1,8 @@
 ## 3. A Települési, Tájegységi és Megyei Értéktár Bizottság működése
 
-4. § (1) A Települési Értéktár Bizottság működési szabályzatát a települési, a Megyei Értéktár Bizottság működési szabályzatát a megyei önkormányzat határozza meg.
+4. § (1)[^8] A Települési Értéktár Bizottság működési szabályzatát a települési, a Vármegyei Értéktár Bizottság működési szabályzatát a vármegyei önkormányzat határozza meg.
 
-A Települési, valamint a Megyei Értéktár Bizottság
+A Települési, valamint a Vármegyei Értéktár Bizottság
 
 a) legalább három tagból áll,
 
@@ -19,3 +19,5 @@ a) legalább három tagból áll,
 b) munkájába bevonja az érintett településeken működő közművelődési feladatellátás országos módszertani intézményét, továbbá az értékek gyűjtésével, megőrzésével, hasznosításával foglalkozó országos és területi illetékességű szakmai, egyházi vagy civil szervezeteket, valamint egyéb szakértőket, és
 
 c) évente beszámol a tevékenységéről az alapító települési önkormányzatoknak.
+
+[^8]: A 4. § (1) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 304. § a) és c) pontja szerint módosított szöveg.
