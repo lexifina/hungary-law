@@ -1,0 +1,1 @@
+A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 162. § (3) bekezdés g) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 128. § 6. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
