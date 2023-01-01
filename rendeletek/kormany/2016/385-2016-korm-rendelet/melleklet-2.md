@@ -1,10 +1,10 @@
-2. melléklet a 385/2016. (XII. 2.) Korm. rendelethez[^64]
+2. melléklet a 385/2016. (XII. 2.) Korm. rendelethez[^73]
 
 1. A népegészségügyi feladatokat ellátó járási hivatalok illetékességi területe
 
 |  | A | B |
 
-| 1. | BARANYA MEGYE |  |
+| 1. | BARANYA VÁRMEGYE |  |
 
 | 2. | Komlói Járási Hivatal |  |
 
@@ -46,7 +46,7 @@
 
 | 21. |  | Szentlőrinci járás |
 
-| 22. | BÁCS-KISKUN MEGYE |  |
+| 22. | BÁCS-KISKUN VÁRMEGYE |  |
 
 | 23. | Bajai Járási Hivatal |  |
 
@@ -86,7 +86,7 @@
 
 | 41. |  | Kiskunmajsai járás |
 
-| 42. | BÉKÉS MEGYE |  |
+| 42. | BÉKÉS VÁRMEGYE |  |
 
 | 43. | Békéscsabai Járási Hivatal |  |
 
@@ -118,7 +118,7 @@
 
 | 57. |  | Mezőkovácsházai járás |
 
-| 58. | BORSOD-ABAÚJ-ZEMPLÉN MEGYE |  |
+| 58. | BORSOD-ABAÚJ-ZEMPLÉN VÁRMEGYE |  |
 
 | 59. | Edelényi Járási Hivatal |  |
 
@@ -248,7 +248,7 @@
 
 | 122. |  | XXIII. kerület |
 
-| 123. | CSONGRÁD-CSANÁD MEGYE |  |
+| 123. | CSONGRÁD-CSANÁD VÁRMEGYE |  |
 
 | 124. | Hódmezővásárhelyi Járási Hivatal |  |
 
@@ -276,7 +276,7 @@
 
 | 136. |  | Csongrádi járás |
 
-| 137. | FEJÉR MEGYE |  |
+| 137. | FEJÉR VÁRMEGYE |  |
 
 | 138. | Dunaújvárosi Járási Hivatal |  |
 
@@ -306,7 +306,7 @@
 
 | 151. |  | Gárdonyi járás |
 
-| 152. | GYŐR-MOSON-SOPRON MEGYE |  |
+| 152. | GYŐR-MOSON-SOPRON VÁRMEGYE |  |
 
 | 153. | Csornai Járási Hivatal |  |
 
@@ -338,7 +338,7 @@
 
 | 167. | Illetékességi terület: | Soproni járás |
 
-| 168. | HAJDÚ-BIHAR MEGYE |  |
+| 168. | HAJDÚ-BIHAR VÁRMEGYE |  |
 
 | 169. | Balmazújvárosi Járási Hivatal |  |
 
@@ -380,7 +380,7 @@
 
 | 188. | Illetékességi terület: | Berettyóújfalui járás |
 
-| 189. | HEVES MEGYE |  |
+| 189. | HEVES VÁRMEGYE |  |
 
 | 190. | Egri Járási Hivatal |  |
 
@@ -408,7 +408,7 @@
 
 | 202. |  | Gyöngyösi járás |
 
-| 203. | JÁSZ-NAGYKUN-SZOLNOK MEGYE |  |
+| 203. | JÁSZ-NAGYKUN-SZOLNOK VÁRMEGYE |  |
 
 | 204. | Jászberényi Járási Hivatal |  |
 
@@ -444,7 +444,7 @@
 
 | 220. |  | Törökszentmiklósi járás |
 
-| 221. | KOMÁROM-ESZTERGOM MEGYE |  |
+| 221. | KOMÁROM-ESZTERGOM VÁRMEGYE |  |
 
 | 222. | Esztergomi Járási Hivatal |  |
 
@@ -470,7 +470,7 @@
 
 | 233. |  | Oroszlányi járás |
 
-| 234. | NÓGRÁD MEGYE |  |
+| 234. | NÓGRÁD VÁRMEGYE |  |
 
 | 235. | Balassagyarmati Járási Hivatal |  |
 
@@ -492,7 +492,7 @@
 
 | 244. |  | Pásztói járás |
 
-| 245. | PEST MEGYE |  |
+| 245. | PEST VÁRMEGYE |  |
 
 | 246. | Ceglédi Járási Hivatal |  |
 
@@ -562,7 +562,7 @@
 
 | 279. |  | Dunakeszi járás |
 
-| 280. | SOMOGY MEGYE |  |
+| 280. | SOMOGY VÁRMEGYE |  |
 
 | 281. | Kaposvári Járási Hivatal |  |
 
@@ -596,7 +596,7 @@
 
 | 296. |  | Fonyódi járás |
 
-| 297. | SZABOLCS-SZATMÁR-BEREG MEGYE |  |
+| 297. | SZABOLCS-SZATMÁR-BEREG VÁRMEGYE |  |
 
 | 298. | Kisvárdai Járási Hivatal |  |
 
@@ -640,7 +640,7 @@
 
 | 318. |  | Baktalórántházai járás |
 
-| 319. | TOLNA MEGYE |  |
+| 319. | TOLNA VÁRMEGYE |  |
 
 | 320. | Dombóvári Járási Hivatal |  |
 
@@ -666,7 +666,7 @@
 
 | 331. |  | Tolnai járás |
 
-| 332. | VAS MEGYE |  |
+| 332. | VAS VÁRMEGYE |  |
 
 | 333. | Körmendi Járási Hivatal |  |
 
@@ -694,7 +694,7 @@
 
 | 345. |  | Celldömölki járás |
 
-| 346. | VESZPRÉM MEGYE |  |
+| 346. | VESZPRÉM VÁRMEGYE |  |
 
 | 347. | Ajkai Járási Hivatal |  |
 
@@ -732,7 +732,7 @@
 
 | 364. |  | Zirci járás |
 
-| 365. | ZALA MEGYE |  |
+| 365. | ZALA VÁRMEGYE |  |
 
 | 366. | Keszthelyi Járási Hivatal |  |
 
@@ -764,16 +764,16 @@
 
 | 1. | A sugáregészségügyi feladatokat ellátó kormányhivatalok | A sugáregészségügyi feladatokat ellátó kormányhivatalok illetékességi területe |
 
-| 2. | Budapest Főváros Kormányhivatala | Budapest és Pest megye |
+| 2. | Budapest Főváros Kormányhivatala | Budapest és Pest vármegye |
 
-| 3. | Tolna Megyei Kormányhivatal | Baranya, Somogy, Tolna és Fejér megye |
+| 3. | Tolna Vármegyei Kormányhivatal | Baranya, Somogy, Tolna és Fejér vármegye |
 
-| 4. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Borsod-Abaúj-Zemplén, Nógrád és Heves megye |
+| 4. | Borsod-Abaúj-Zemplén Vármegyei Kormányhivatal | Borsod-Abaúj-Zemplén, Nógrád és Heves vármegye |
 
-| 5. | Csongrád-Csanád Megyei Kormányhivatal | Bács-Kiskun, Békés és Csongrád-Csanád megye |
+| 5. | Csongrád-Csanád Vármegyei Kormányhivatal | Bács-Kiskun, Békés és Csongrád-Csanád vármegye |
 
-| 6. | Győr-Moson-Sopron Megyei Kormányhivatal | Győr-Moson-Sopron, Vas, Zala, Komárom-Esztergom és Veszprém megye |
+| 6. | Győr-Moson-Sopron Vármegyei Kormányhivatal | Győr-Moson-Sopron, Vas, Zala, Komárom-Esztergom és Veszprém vármegye |
 
-| 7. | Hajdú-Bihar Megyei Kormányhivatal | Hajdú-Bihar, Jász-Nagykun-Szolnok és Szabolcs-Szatmár-Bereg megye |
+| 7. | Hajdú-Bihar Vármegyei Kormányhivatal | Hajdú-Bihar, Jász-Nagykun-Szolnok és Szabolcs-Szatmár-Bereg vármegye |
 
-[^64]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés i) pontja, a 303/2020. (VI. 29.) Korm. rendelet 4. § b) pontja, a 371/2020. (VII. 30.) Korm. rendelet 42. §-a szerint módosított szöveg. Alkalmazására lásd a 303/2020. (VI. 29.) Korm. rendelet 6. §-át.
+[^73]: A 2. melléklet a 360/2019. (XII. 30.) Korm. rendelet 161. § (7) bekezdés i) pontja, a 303/2020. (VI. 29.) Korm. rendelet 4. § b) pontja, a 371/2020. (VII. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 245. § b), d)-e) pontja szerint módosított szöveg.

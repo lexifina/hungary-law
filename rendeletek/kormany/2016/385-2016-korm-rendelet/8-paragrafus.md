@@ -1,8 +1,8 @@
-8. § (1)[^21] A Kormány egészségügyi államigazgatási szervként az NNK-t jelöli ki
+8. § (1)[^23] A Kormány egészségügyi államigazgatási szervként az NNK-t jelöli ki
 
 a) az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény (a továbbiakban: Ehi.)
 
-aa)[^22] 4. § (1) bekezdés k), l) és o) pontja, 4/A. § (1) bekezdése,
+aa)[^24] 4. § (1) bekezdés k), l) és o) pontja, 4/A. § (1) bekezdése,
 
 ab) 6. § (1) bekezdés p) pontja,
 
@@ -22,7 +22,7 @@ bf) 215. § (4) bekezdése,
 
 bg) 243. § (7) bekezdése,
 
-bh)[^23] 232/B. § (14) bekezdése,
+bh)[^25] 232/B. § (14) bekezdése,
 
 c) az Eüak.
 
@@ -36,7 +36,7 @@ da) 6. § (1) és (2) bekezdése,
 
 db) 7. §-a,
 
-dc)[^24] 8. § (3) és (5) bekezdése, valamint a 8/A. § (1) és (5) bekezdése,
+dc)[^26] 8. § (3) és (5) bekezdése, valamint a 8/A. § (1) és (5) bekezdése,
 
 dd) 10. § (3) bekezdése,
 
@@ -100,15 +100,15 @@ g) az iskolai egészségfejlesztési programok tekintetében a népegészségüg
 
 h) az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény 14. §-a,
 
-i)[^25] a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 20. § (7) bekezdése
+i)[^27] a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Ebtv.) 20. § (7) bekezdése
 
-j)[^26] a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 91. § (1) bekezdése
+j)[^28] a veszélyhelyzettel összefüggő átmeneti szabályokról szóló 2021. évi XCIX. törvény 91. § (1) bekezdése
 
 szerinti feladatok ellátására.
 
 (2) Az országos tisztifőorvos kijelöli a mikrobiológiai referencia laboratóriumokat, valamint a járványügyi feladatok ellátására kijelölt laboratóriumokat. Ha a kijelölés érinti a kormányhivatalt, a kijelöléshez a közigazgatás-szervezésért felelős miniszter egyetértése szükséges.
 
-(3)[^27] Az NNK munkahigiénés és foglalkozás-egészségügyi szervként részt vesz
+(3)[^29] Az NNK munkahigiénés és foglalkozás-egészségügyi szervként részt vesz
 
 a) a munkahigiénés és foglalkozás-egészségügyi tevékenységgel összefüggő kormányzati döntések, stratégiák megalapozásában, ezzel kapcsolatos felmérésekben,
 
@@ -120,7 +120,7 @@ d) a munkaegészségügyi vonatkozású hazai és európai uniós programok vég
 
 e) a munkaegészségüggyel foglalkozó hazai és nemzetközi szervezetek tevékenységében.
 
-(4)[^28] Az NNK az (1) bekezdés b) pont bh) alpontjában foglalt feladat ellátása céljából az adatok kutatása során olyan adatfeldolgozóval köthet szerződést, amely az általános adatvédelmi rendeletben foglaltak mellett megfelel a következő feltételeknek:
+(4)[^30] Az NNK az (1) bekezdés b) pont bh) alpontjában foglalt feladat ellátása céljából az adatok kutatása során olyan adatfeldolgozóval köthet szerződést, amely az általános adatvédelmi rendeletben foglaltak mellett megfelel a következő feltételeknek:
 
 a) székhelye Magyarországon található,
 
@@ -130,17 +130,17 @@ c) biztosítja az általa feldolgozott adatok Magyarországon történő tárol�
 
 d) adatfeldolgozói tevékenysége során biztosítja orvos közreműködését.
 
-(5)[^29] A (4) bekezdés b) és d) pontjában szereplő feltételt nem kell alkalmazni azon adatfeldolgozóra, amely az adatkezelő megbízásából kizárólag technikai közreműködést biztosít, így különösen az adatok rögzítését, tárolását, anonimizálását, továbbítását, korlátozását, törlését vagy megsemmisítését végzi.
+(5)[^31] A (4) bekezdés b) és d) pontjában szereplő feltételt nem kell alkalmazni azon adatfeldolgozóra, amely az adatkezelő megbízásából kizárólag technikai közreműködést biztosít, így különösen az adatok rögzítését, tárolását, anonimizálását, továbbítását, korlátozását, törlését vagy megsemmisítését végzi.
 
-(6)[^30] A Kormány nemzeti koordinációs fókuszpontként az egészségügyért felelős minisztert jelöli ki az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezményének kihirdetéséről szóló 2005. évi III. törvénnyel kihirdetett, az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezménye 5. Cikk 2. pont a) alpontja szerinti feladat ellátására.
+(6)[^32] A Kormány nemzeti koordinációs fókuszpontként az egészségügyért felelős minisztert jelöli ki az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezményének kihirdetéséről szóló 2005. évi III. törvénnyel kihirdetett, az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezménye 5. Cikk 2. pont a) alpontja szerinti feladat ellátására.
 
-[^21]: A 8. § (1) bekezdés nyitó szövegrésze az 514/2022. (XII. 13.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
-[^22]: A 8. § (1) bekezdés a) pont aa) alpontja a 360/2019. (XII. 30.) Korm. rendelet 161. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^23]: A 8. § (1) bekezdés b) pont bh) alpontját az 514/2022. (XII. 13.) Korm. rendelet 1. §-a iktatta be.
-[^24]: A 8. § (1) bekezdés d) pont dc) alpontja a 418/2020. (VIII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^25]: A 8. § (1) bekezdés i) pontját a 360/2019. (XII. 30.) Korm. rendelet 161. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^26]: A 8. § (1) bekezdés j) pontját a 457/2022. (XI. 9.) Korm. rendelet 1. §-a iktatta be.
-[^27]: A 8. § (3) bekezdés nyitó szövegrésze az 514/2022. (XII. 13.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
-[^28]: A 8. § (4) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte, újonnan az 514/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
-[^29]: A 8. § (5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte, újonnan az 514/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
-[^30]: A 8. § (6) bekezdése a 300/2018. (XII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 164. §-a szerint módosított szöveg.
+[^23]: A 8. § (1) bekezdés nyitó szövegrésze az 514/2022. (XII. 13.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^24]: A 8. § (1) bekezdés a) pont aa) alpontja a 360/2019. (XII. 30.) Korm. rendelet 161. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^25]: A 8. § (1) bekezdés b) pont bh) alpontját az 514/2022. (XII. 13.) Korm. rendelet 1. §-a iktatta be.
+[^26]: A 8. § (1) bekezdés d) pont dc) alpontja a 418/2020. (VIII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^27]: A 8. § (1) bekezdés i) pontját a 360/2019. (XII. 30.) Korm. rendelet 161. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^28]: A 8. § (1) bekezdés j) pontját a 457/2022. (XI. 9.) Korm. rendelet 1. §-a iktatta be.
+[^29]: A 8. § (3) bekezdés nyitó szövegrésze az 514/2022. (XII. 13.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^30]: A 8. § (4) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte, újonnan az 514/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^31]: A 8. § (5) bekezdését a 250/2017. (IX. 5.) Korm. rendelet 71. §-a hatályon kívül helyezte, újonnan az 514/2022. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^32]: A 8. § (6) bekezdése a 300/2018. (XII. 27.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 164. §-a szerint módosított szöveg.
