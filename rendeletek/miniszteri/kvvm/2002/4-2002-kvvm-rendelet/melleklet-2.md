@@ -56,7 +56,7 @@
 
 2. számú melléklet a 4/2002. (X. 7.) KvVM rendelethez[^6]
 
-| KSH kód | Megye | Település | Zóna |
+| KSH kód | Vármegye | Település | Zóna |
 
 | 00001 | 1 | BUDAPEST | 1 |
 
@@ -468,4 +468,4 @@
 
 | 32054 | 20 | ZALAEGERSZEG |  |
 
-[^6]: A 2. számú melléklet a 2/2008. (I. 16.) KvVM rendelet 1. §-ával megállapított, a 8/2010. (III. 31.) KvVM rendelet 1. §-a, a 15/2015. (III. 31.) FM rendelet 8. §-a szerint módosított szöveg.
+[^6]: A 2. számú melléklet a 2/2008. (I. 16.) KvVM rendelet 1. §-ával megállapított, a 8/2010. (III. 31.) KvVM rendelet 1. §-a, a 15/2015. (III. 31.) FM rendelet 8. §-a, az 1/2022. (XII. 27.) EM rendelet 1. §-a szerint módosított szöveg.
