@@ -1,4 +1,4 @@
-8. § (1) Védett műemlékké nyilvánítom a Biatorbágy (Pest megye) 9278/2, 9279, 9280, 9283 és 9285/1 helyrajzi számú ingatlanokon lévő viaduktot alkotó vasúti hídpárt, a hídfőket és hídpilléreket, a széncsúszda építményét, valamint a viadukt-pár látványához tartozó Biatorbágy 087/16 helyrajzi számú ingatlanon lévő patakmeder szakaszát.
+8. § (1)[^6] Védett műemlékké nyilvánítom a Biatorbágy (Pest vármegye) 9278/2, 9279, 9280, 9283 és 9285/1 helyrajzi számú ingatlanokon lévő viaduktot alkotó vasúti hídpárt, a hídfőket és hídpilléreket, a széncsúszda építményét, valamint a viadukt-pár látványához tartozó Biatorbágy 087/16 helyrajzi számú ingatlanon lévő patakmeder szakaszát.
 
 (2) Az örökségvédelmi bírság megállapításának alapjául szolgáló érték szempontjából a műemléket II. kategóriába sorolom.
 
@@ -19,3 +19,5 @@ f) eredeti korlát, öntöttvas tartóoszlopok és korláttartók,
 g) széncsúsztató.
 
 (4) Műemléki környezetnek a Biatorbágy 9278/1, 9281, 9282 és 087/10 helyrajzi számú ingatlanokat jelölöm ki.
+
+[^6]: A 8. § (1) bekezdése a 17/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.

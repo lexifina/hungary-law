@@ -1,0 +1,3 @@
+11. §[^9] Az egyes ingatlanok műemlékké, valamint műemléki jelentőségű területté nyilvánításáról, illetőleg műemléki védettségének megszüntetéséről szóló 25/2005. (IX. 16.) NKÖM rendelettel védetté nyilvánított Debrecen (Hajdú-Bihar vármegye), a közhiteles műemléki nyilvántartásban 11119 törzsszámon nyilvántartott Zsuzsi Erdei Vasút építményegyüttes telekalakítás után kialakult ingatlanai közül a Debrecen 1300/13 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy a telekalakítás következtében az ingatlanon védett érték nem található – megszüntetem.
+
+[^9]: A 11. § a 17/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.

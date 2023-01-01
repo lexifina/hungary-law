@@ -1,3 +1,5 @@
-16. § (1) A 863-4/1953. FOM számú miniszteri döntéssel védetté nyilvánított Nagyberki (Somogy megye), Fő u. 11. szám alatti volt Vigyázó-kastély telekalakítás után kialakult utódingatlanai közül a Nagyberki 67/4 helyrajzi számú, valamint a Nagyberki 67/5 helyrajzi számú ingatlanok műemléki védettségét – tekintettel arra, hogy a telekalakítás következtében az ingatlanokon védett érték nem található – megszüntetem.
+16. § (1)[^14] A 863-4/1953. FOM számú miniszteri döntéssel védetté nyilvánított Nagyberki (Somogy vármegye), Fő u. 11. szám alatti volt Vigyázó-kastély telekalakítás után kialakult utódingatlanai közül a Nagyberki 67/4 helyrajzi számú, valamint a Nagyberki 67/5 helyrajzi számú ingatlanok műemléki védettségét – tekintettel arra, hogy a telekalakítás következtében az ingatlanokon védett érték nem található – megszüntetem.
 
 (2) A Nagyberki 67/3 helyrajzi számú ingatlanon álló, a közhiteles műemléki nyilvántartásban 4484 törzsszámon és 8027 azonosító számon nyilvántartott volt Vigyázó-kastély és parkjának kiemelten védett műemlék védettségét fenntartom.
+
+[^14]: A 16. § (1) bekezdése a 17/2022. (XII. 27.) ÉKM rendelet 2. §-a szerint módosított szöveg.
