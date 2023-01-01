@@ -2,29 +2,29 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos engedélyezési eljárás | Eljáró hatóság |
 
-| 2. | Lakitelek Népfőiskola épületeinek rekonstrukciója és fejlesztése | Az 1. § (1) bekezdése szerinti területek | általános építésügyi hatósági eljárások | Bács-Kiskun Megyei Kormányhivatal |
+| 2. | Lakitelek Népfőiskola épületeinek rekonstrukciója és fejlesztése | Az 1. § (1) bekezdése szerinti területek | általános építésügyi hatósági eljárások | Bács-Kiskun Vármegyei Kormányhivatal |
 
-| 3. | környezetvédelmi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal |
+| 3. | környezetvédelmi hatósági engedélyezési eljárás | Bács-Kiskun Vármegyei Kormányhivatal |
 
-| 4. | természetvédelmi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal |
+| 4. | természetvédelmi hatósági engedélyezési eljárás | Bács-Kiskun Vármegyei Kormányhivatal |
 
-| 5. | vízjogi engedélyezési eljárás | illetékes megyei katasztrófavédelmi igazgatóság |
+| 5. | vízjogi engedélyezési eljárás | illetékes vármegyei katasztrófavédelmi igazgatóság |
 
-| 6. | útügyi hatósági engedélyezési eljárás | Bács-Kiskun Megyei Kormányhivatal |
+| 6. | útügyi hatósági engedélyezési eljárás | Bács-Kiskun Vármegyei Kormányhivatal |
 
-| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Csongrád-Csanád Megyei Kormányhivatal |
+| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Csongrád-Csanád Vármegyei Kormányhivatal |
 
-| 8. | művelési ágból történő kivétel hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal |
+| 8. | művelési ágból történő kivétel hatósági eljárás | Bács-Kiskun Vármegyei Kormányhivatal |
 
-| 9. | ingatlan- nyilvántartási hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal |
+| 9. | ingatlan- nyilvántartási hatósági eljárás | Bács-Kiskun Vármegyei Kormányhivatal |
 
-| 10. | telekalakítási hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal |
+| 10. | telekalakítási hatósági eljárás | Bács-Kiskun Vármegyei Kormányhivatal |
 
-| 11. | földmérési hatósági eljárás | Bács-Kiskun Megyei Kormányhivatal |
+| 11. | földmérési hatósági eljárás | Bács-Kiskun Vármegyei Kormányhivatal |
 
 | 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 13. | bányahatósági engedélyezési eljárás | Jász-Nagykun-Szolnok Megyei Kormányhivatal |
+| 13. | bányahatósági engedélyezési eljárás | Jász-Nagykun-Szolnok Vármegyei Kormányhivatal |
 
 | 14. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
 
@@ -34,6 +34,6 @@
 
 | 17. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 133/2013. (V. 9.) Korm. rendelethez[^11]
+2. melléklet a 133/2013. (V. 9.) Korm. rendelethez[^13]
 
-[^11]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 80. § d) pontja hatályon kívül helyezte.
+[^13]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 80. § d) pontja hatályon kívül helyezte.
