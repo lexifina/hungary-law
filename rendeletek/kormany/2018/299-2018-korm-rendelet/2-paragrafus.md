@@ -1,14 +1,12 @@
-## 1. § A Kormány Beruházási Ügynökségként a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaságot jelöli ki.
-
 ## 2. A Beruházási Ügynökség feladatai az állami magasépítési beruházások megvalósítása során
 
-2. § (1)[^1] A Beruházási Ügynökség a megvalósítója azoknak a kormányzati magasépítési beruházásoknak, amelyek kivitelezési becsült értéke – figyelemmel a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 19. § (2) és (3) bekezdésére is – meghaladja a nettó 700 millió forintot.
+2. § (1)[^2] A Beruházási Ügynökség a megvalósítója azoknak a kormányzati magasépítési beruházásoknak, amelyek kivitelezési becsült értéke – figyelemmel a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 19. § (2) és (3) bekezdésére is – meghaladja a nettó 700 millió forintot.
 
 (2) A becsült kivitelezési értéktől függetlenül a Beruházási Ügynökség a megvalósítója a Kormány által elfogadott, programszerűen megvalósítandó kormányzati magasépítési beruházásoknak.
 
 (3) Az (1) és a (2) bekezdés szerinti kormányzati magasépítési beruházások esetén a 4. § e), j), l)–n) és p) pontja szerinti dokumentumok elkészítésére irányuló, illetve e dokumentumok elkészítését magába foglaló beszerzési és közbeszerzési eljárások járulékos közbeszerzési szolgáltatója kizárólagos joggal a Beruházási Ügynökség.
 
-(4)[^2] A központi költségvetési támogatás felhasználásával megvalósuló önkormányzati magasépítési beruházások esetén, amelyek kivitelezési becsült értéke – figyelemmel a Kbt. 19. § (2) és (3) bekezdésére is – meghaladja a nettó 700 millió forintot, a beruházás tervellenőre, beruházás-lebonyolítója és építési műszaki ellenőre, valamint járulékos közbeszerzési szolgáltatója kizárólagos joggal a Beruházási Ügynökség.
+(4)[^3] A központi költségvetési támogatás felhasználásával megvalósuló önkormányzati magasépítési beruházások esetén, amelyek kivitelezési becsült értéke – figyelemmel a Kbt. 19. § (2) és (3) bekezdésére is – meghaladja a nettó 700 millió forintot, a beruházás tervellenőre, beruházás-lebonyolítója és építési műszaki ellenőre, valamint járulékos közbeszerzési szolgáltatója kizárólagos joggal a Beruházási Ügynökség.
 
 (5) Az (1) bekezdésben foglaltak alól kivételt képeznek:
 
@@ -24,5 +22,5 @@ d) az állami magasépítési beruházások megvalósításáról szóló 2018. 
 
 (7) Abban az esetben, ha a Beruházási Ügynökség a kormányzati magasépítési beruházás előkészítője és megvalósítója is egyben, a Beruházási Ügynökség együttműködik a beruházás tárgya szerint érintett miniszterrel.
 
-[^1]: A 2. § (1) bekezdése a 10/2020. (I. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § (4) bekezdése a 10/2020. (I. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^2]: A 2. § (1) bekezdése a 10/2020. (I. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § (4) bekezdése a 10/2020. (I. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
