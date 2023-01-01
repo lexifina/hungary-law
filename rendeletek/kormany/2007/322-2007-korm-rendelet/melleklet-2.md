@@ -1,10 +1,8 @@
-## Jogszabályban foglalt gazdálkodási követelményeket ellenőrző szervek
-
 |  | A | B |
 
 |  | Közösségi irányelv vagy rendelet vonatkozó rendelkezései | Hatáskörrel rendelkező ellenőrző szervek |
 
-| JFGK 1. | A vizek mezőgazdasági eredetű nitrátszennyezésével szembeni védelméről szóló, 1991. december 12-i 91/676/EGK tanácsi irányelv 4. és 5. cikke | termőföldön: a növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatal; állattartó telepen: elsőfokú vízvédelmi hatósági hatáskörében a fővárosi, megyei katasztrófavédelmi igazgatóság |
+| JFGK 1. | A vizek mezőgazdasági eredetű nitrátszennyezésével szembeni védelméről szóló, 1991. december 12-i 91/676/EGK tanácsi irányelv 4. és 5. cikke | termőföldön: a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal; állattartó telepen: elsőfokú vízvédelmi hatósági hatáskörében a fővárosi, vármegyei katasztrófavédelmi igazgatóság |
 
 | JFGK 2. | A vadon élő madarak védelméről szóló, 2009. november 30-i 2009/147/EK európai parlamenti és tanácsi irányelv 3. cikk (1) bekezdése, (2) bekezdés b) pontja, 4. cikk (1), (2) és (4) bekezdése | Magyar Államkincstár |
 
@@ -22,7 +20,7 @@
 
 | JFGK 9. | Az egyes fertőző szivacsos agyvelőbántalmak megelőzésére, az ellenük való védekezésre és a felszámolásukra vonatkozó szabályok megállapításáról szóló, 2001. május 22-i 999/2001/EK európai parlamenti és tanácsi rendelet 7., 11., 12., 13. és 15. cikke | az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatal |
 
-| JFGK 10. | A növényvédő szerek forgalomba hozataláról, valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről szóló, 2009. október 21-i 1107/2009/EK európai parlamenti és tanácsi rendelet 55. cikk első és második mondata | a növény- és talajvédelmi hatáskörében eljáró megyei kormányhivatal |
+| JFGK 10. | A növényvédő szerek forgalomba hozataláról, valamint a 79/117/EGK és a 91/414/EGK tanácsi irányelvek hatályon kívül helyezéséről szóló, 2009. október 21-i 1107/2009/EK európai parlamenti és tanácsi rendelet 55. cikk első és második mondata | a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal |
 
 | JFGK 11. | A borjak védelmére vonatkozó minimumkövetelmények megállapításáról szóló, 2008. december 18-i 2008/119/EK tanácsi irányelv 3. és 4. cikke | az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatal |
 
@@ -30,6 +28,6 @@
 
 | JFGK 13. | A tenyésztés céljából tartott állatok védelméről szóló, 1998. július 20-i 98/58/EK tanácsi irányelv 4. cikke | az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatal |
 
-2–3. számú melléklet a 322/2007. (XII. 5.) Korm. rendelethez[^24]
+2. számú melléklet a 322/2007. (XII. 5.) Korm. rendelethez[^24]
 
 [^24]: A 2–3. számú mellékletet a 94/2015. (IV. 9.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.

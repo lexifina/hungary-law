@@ -2,7 +2,7 @@
 
 (2)[^8] A jogszabályban foglalt gazdálkodási követelmények végrehajtását a kölcsönös megfeleltetés szempontjából ellenőrző szerveket az 1. melléklet tartalmazza.
 
-(2a)[^9] A kölcsönös megfeleltetési szabályok betartásának ellenőrzésére vonatkozó eljárásban a döntéshozatalra a Magyar Államkincstár, a fővárosi és megyei kormányhivatal, valamint a fővárosi, illetve megyei katasztrófavédelmi igazgatóság jogosult, az 1. mellékletben foglaltak szerint.
+(2a)[^9] A kölcsönös megfeleltetési szabályok betartásának ellenőrzésére vonatkozó eljárásban a döntéshozatalra a Magyar Államkincstár, a fővárosi és vármegyei kormányhivatal, valamint a fővárosi, illetve vármegyei katasztrófavédelmi igazgatóság jogosult, az 1. mellékletben foglaltak szerint.
 
 (2b)[^10]
 
@@ -20,7 +20,7 @@
 
 [^7]: A 3. § (1) bekezdése a 31/2009. (II. 19.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^8]: A 3. § (2) bekezdése a 31/2009. (II. 19.) Korm. rendelet 3. §-ával megállapított, a 94/2015. (IV. 9.) Korm. rendelet 6. § a)–b) pontja szerint módosított szöveg.
-[^9]: A 3. § (2a) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 54. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^9]: A 3. § (2a) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 54. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 85. §-a szerint módosított szöveg.
 [^10]: A 3. § (2b) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 31/2020. (II. 29.) Korm. rendelet 8. § (2) bekezdése.
 [^11]: A 3. § (2c) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 31/2020. (II. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^12]: A 3. § (2d) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be.
