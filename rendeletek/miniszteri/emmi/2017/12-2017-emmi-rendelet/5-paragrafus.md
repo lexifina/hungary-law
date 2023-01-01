@@ -10,7 +10,7 @@ b) három vagy ennél több egészségügyi dolgozó foglalkoztatásával járó
 
 c) fekvőbeteg-szakellátást nyújtanak,
 
-## olyan felelős személyt kell kijelölni, aki a (3) bekezdésben meghatározott tevékenységeket elvégzi.
+olyan felelős személyt kell kijelölni, aki a (3) bekezdésben meghatározott tevékenységeket elvégzi.
 
 (3) Az egészségügyi szolgáltató által kijelölt felelős személy feladata, hogy
 
@@ -32,6 +32,8 @@ h) évente közreműködjön a 6. § (1) bekezdése szerinti hulladékgazdálkod
 
 i) tartsa meg az egészségügyi hulladékkal és a gyógyszerhulladékkal végzett hulladékgazdálkodási tevékenységekkel kapcsolatos munkavédelmi, környezetvédelmi és veszélyes áruszállítást érintő oktatásokat, és
 
-j) gondoskodjon az egészségügyi szolgáltató telephelyén képződő egészségügyi hulladékkal és gyógyszerhulladékkal kapcsolatos, a 9. § szerinti nyilvántartás vezetéséről és az adatszolgáltatási kötelezettségek teljesítéséről a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) felé.
+j)[^1] gondoskodjon az egészségügyi szolgáltató telephelyén képződő egészségügyi hulladékkal és gyógyszerhulladékkal kapcsolatos, a 9. § szerinti nyilvántartás vezetéséről és az adatszolgáltatási kötelezettségek teljesítéséről a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) felé.
 
 (4) Az egészségügyi szolgáltató telephelyén üzemi gyűjtőhelyet kell kialakítani, ha az egészségügyi hulladék, illetve a gyógyszerhulladék munkahelyi gyűjtőhelyről történő közvetlen elszállítása nem biztosított.
+
+[^1]: Az 5. § (3) bekezdés j) pontja a 49/2022. (XII. 27.) BM rendelet 2. § a) pontja szerint módosított szöveg.

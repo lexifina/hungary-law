@@ -10,7 +10,7 @@ a) az éles vagy hegyes eszközöket tartalmazó hulladékot merev falú, szúr�
 
 b) a fertőző hulladékot folyadékzáró, mechanikai sérülésnek ellenálló
 
-## olyan gyűjtőedényben kell gyűjteni, amely a lezárást követően roncsolásmentesen nem nyitható ki.
+olyan gyűjtőedényben kell gyűjteni, amely a lezárást követően roncsolásmentesen nem nyitható ki.
 
 (4) Az egészségügyi veszélyes hulladék közül a nem fertőző betegek ellátásából származó, nem éles vagy hegyes hulladék elhelyezésére hulladékgyűjtő zsákot lehet alkalmazni. A hulladékgyűjtő zsákot tartó tartálynak jól záródónak, továbbá lábbal nyithatónak és zárhatónak kell lennie.
 

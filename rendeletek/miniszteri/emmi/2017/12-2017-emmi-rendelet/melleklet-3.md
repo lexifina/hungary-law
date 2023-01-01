@@ -1,6 +1,6 @@
 3. melléklet a 12/2017. (VI. 12.) EMMI rendelethez
 
-## A hulladékfertőtlenítési eljárásra vonatkozó részletes szabályok
+A hulladékfertőtlenítési eljárásra vonatkozó részletes szabályok
 
 1. A hővel történő fertőtlenítő eljárás követelményei
 

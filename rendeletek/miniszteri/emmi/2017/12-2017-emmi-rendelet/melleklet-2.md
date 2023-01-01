@@ -1,8 +1,6 @@
-## A biológiai veszély nemzetközi jele
-
 2. melléklet a 12/2017. (VI. 12.) EMMI rendelethez
 
-## Az egészségügyi szolgáltatónál a speciális egészségügyi veszélyes hulladék gyűjtésére szolgáló eszközök minőségi követelményei
+Az egészségügyi szolgáltatónál a speciális egészségügyi veszélyes hulladék gyűjtésére szolgáló eszközök minőségi követelményei
 
 1. A hulladékgyűjtő zsákokra vonatkozó követelmények
 

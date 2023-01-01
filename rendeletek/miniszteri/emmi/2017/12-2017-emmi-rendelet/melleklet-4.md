@@ -4,6 +4,8 @@ Az egészségügyi szolgáltatóknál képződő hulladék éves mennyiségérő
 
 1. táblázat
 
+7K08716_0
+
 |  | A | B |
 
 | 1. | Általános adatok |
