@@ -1,12 +1,12 @@
 46. § (1) A nemzetiséghez tartozó személy
 
-a) kérheti a gyermek családi nevének a nemzetiségi nyelv szabályainak megfelelő anyakönyvezését, és gyermekének az adott nemzetiségnek megfelelő utónevet adhat,
+a) kérheti gyermeke családi nevének a nemzetiségi nyelv szabályainak megfelelő anyakönyvezését, és gyermekének az adott nemzetiségnek megfelelő utónevet adhat,
 
 b) kérheti az anyakönyvezett utóneve helyett az annak megfelelő nemzetiségi utónév bejegyzését,
 
 c) kérheti az anyakönyvezett családi neve helyett az adott nemzetiségi nyelv szabályai szerint képzett családi név bejegyzését, és
 
-d) kérheti, hogy a családi és utónevét, illetve a gyermek családi és utónevét az adott nemzetiségi nyelven is bejegyezzék.
+d) kérheti, hogy a családi és utónevét, illetve gyermeke családi és utónevét az adott nemzetiségi nyelven is bejegyezzék.
 
 (2) A nemzetiségi utónév bejegyzésére irányuló kérelemben nyilatkozni kell arról, hogy a választott nevet mely nemzetiség használja.
 

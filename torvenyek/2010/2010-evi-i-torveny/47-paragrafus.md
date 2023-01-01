@@ -6,7 +6,7 @@
 
 (3) Ha az egyik vagy mindkét házastárs születési családi neve vagy az előző házassági nevének a családi nevekből képzett része kéttagú, a házastársaknak nyilatkozniuk kell arról, hogy melyik két családi nevet kívánják összekapcsolt házassági névként viselni.
 
-(4) Ha a házasulók legkésőbb a házasság megkötéséig nem nyilatkoznak a házasságkötés után viselni kívánt házassági nevükről, házassági névként a házasságkötést megelőzően viselt nevüket kell bejegyezni.
+(4)
 
 (5) Ha a feleség a házasságkötést megelőzően olyan házassági nevet viselt, amelyet az újabb házasságkötést követően nem viselhet tovább és a házasság megkötéséig nem nyilatkozott a házasságkötés után viselni kívánt házassági nevéről, házassági névként a születési nevét kell bejegyezni.
 

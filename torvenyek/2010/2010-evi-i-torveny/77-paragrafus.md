@@ -6,7 +6,7 @@ a) a nyilvántartó szerv az arra jogosultnak közvetlen hozzáférést biztosí
 
 b) a nyilvántartó szerv, az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv törvényben meghatározott kötelező adattovábbítást végez,
 
-c) az anyakönyvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az arra jogosult részére adatigénylés alapján adattovábbítást végez,
+c) az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az arra jogosult részére adatigénylés alapján adattovábbítást végez,
 
 d) az anyakönyvvezető, valamint az anyakönyvi szerv kormánytisztviselője az arra jogosult részére anyakönyvi okiratot állít ki, vagy
 

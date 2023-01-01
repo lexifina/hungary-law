@@ -1,6 +1,6 @@
 ## Az adatigénylés alapján történő adattovábbítás feltételei
 
-84. § (1) Az anyakönyvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv adatigénylés alapján kizárólag annak az adatigénylőnek és abban a körben továbbíthat adatot, amely adatigénylő tekintetében törvény az adatok átvételét és kezelését az adatkezelés céljának és az átvehető adatok körének pontos meghatározásával előírja.
+84. § (1) Az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv adatigénylés alapján kizárólag annak az adatigénylőnek és abban a körben továbbíthat adatot, amely adatigénylő tekintetében törvény az adatok átvételét és kezelését az adatkezelés céljának és az átvehető adatok körének pontos meghatározásával előírja.
 
 (2) Adatigénylés alapján kizárólag abban az esetben továbbítható adat, ha az adatigénylő közölte a következő adatokat:
 
@@ -18,7 +18,7 @@ ae)
 
 b) az adatigénylő pontos megnevezését és címét.
 
-(3) Az anyakönyvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az anyakönyvi nyilvántartások rendszerében meghatározott adatok kezelésére feljogosított adatkezelő részére adatigénylésre az adatokat – törvény rendelkezése alapján – akkor továbbíthatja, ha az adatigénylő pontosan megjelöli az adatátvétel célját, továbbá azt az adatkört és azt a törvényi rendelkezést, amely tekintetében és amely rendelkezés szerint az igényelt adatok kezelésére törvény feljogosította.
+(3) Az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az anyakönyvi nyilvántartások rendszerében meghatározott adatok kezelésére feljogosított adatkezelő részére adatigénylésre az adatokat – törvény rendelkezése alapján – akkor továbbíthatja, ha az adatigénylő pontosan megjelöli az adatátvétel célját, továbbá azt az adatkört és azt a törvényi rendelkezést, amely tekintetében és amely rendelkezés szerint az igényelt adatok kezelésére törvény feljogosította.
 
 (3a) A nyilvántartó szerv adatigénylés alapján a 81/A. § (1) bekezdés a)–d) pontjában meghatározott szervek részére, az ott meghatározott célból az okirat-nyilvántartásból és a jogosultsági nyilvántartásból adatot továbbít.
 

@@ -1,6 +1,6 @@
 57. § (1) Az e törvény hatálybalépését követően bekövetkezett vagy az e törvény hatálybalépésekor az anyakönyvbe még be nem jegyzett anyakönyvi eseményekre vonatkozó bejegyzéseket az elektronikus anyakönyvbe kell teljesíteni.
 
-(2) A papír alapú anyakönyvben nyilvántartott anyakönyvi eseményt – a 60. § (1) bekezdésében foglalt kivétellel – a törvény hatálybalépését követően az anyakönyvi eljárás lefolytatásához, az anyakönyvi okiratok kiállításához az elektronikus anyakönyvbe be kell jegyezni.
+(2) A papír alapú anyakönyvben nyilvántartott anyakönyvi esemény adatait – a 60. § (1) bekezdésében foglalt kivétellel – a törvény hatálybalépését követően az anyakönyvi eljárás lefolytatásához, az anyakönyvi okiratok kiállításához az elektronikus anyakönyvbe be kell jegyezni.
 
 (3) Ha az anyakönyvi eljárás olyan születési, házassági, bejegyzett élettársi vagy halotti anyakönyvi bejegyzést is érint, amelyet az eljáró anyakönyvvezető vagy hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv tart nyilván, akkor az anyakönyvi bejegyzés teljesítését megelőzően az érintett papír alapú anyakönyvi bejegyzés adatait az elektronikus anyakönyvbe be kell jegyezni.
 

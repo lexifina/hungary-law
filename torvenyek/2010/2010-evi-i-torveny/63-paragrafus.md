@@ -8,7 +8,7 @@
 
 (4) Amennyiben az anya sem a bejelentés során, sem az anyakönyvvezető felhívásától számított tizenöt napon belül nem igazolja a személyazonosságát, vagy a szülő a bejelentési kötelezettségének az anyakönyvvezető felhívására sem tesz eleget, a születés anyakönyvezésére az ismeretlen szülőktől származó gyermekre irányadó rendelkezéseket kell alkalmazni.
 
-(5) Amennyiben az elhunyt személyazonosságának igazolására személyazonosságot igazoló okmány nem áll rendelkezésre és az elhunyt személyazonosságának megállapítására tett rendőrségi intézkedés nem vezetett eredményre, a haláleset anyakönyvezésére az ismeretlen holttest anyakönyvezésének szabályait kell alkalmazni.
+(5) Amennyiben az elhunyt személyazonosságának igazolására személyazonosságot igazoló hatósági igazolvány okmányazonosítója nem áll rendelkezésre és az elhunyt személyazonosságának tisztázására tett intézkedés nem vezetett eredményre, a haláleset anyakönyvezésére az ismeretlen holttest anyakönyvezésének szabályait kell alkalmazni.
 
 (6) Az anyakönyvvezető a házasságot és a bejegyzett élettársi kapcsolatot annak létrejöttét követően haladéktalanul anyakönyvezi.
 

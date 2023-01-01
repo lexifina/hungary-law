@@ -24,7 +24,13 @@ b) dönt a névváltoztatási kérelemről és bejegyzi a névváltoztatást,
 
 c) nyilatkozik a házasságkötéshez, bejegyzett élettársi kapcsolat létesítéséhez benyújtott külföldi okirat elfogadhatóságáról,
 
-d) a hazai anyakönyvezés kivételével, teljesíti az anyakönyvi bejegyzést, ha annak alapja külföldi okirat – ide nem értve a személyazonosságot, illetve állampolgárságot igazoló okiratot –, kivéve, ha az anyakönyvi bejegyzés teljesítéséről való döntésre a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló 2003. november 27-i 2201/2003/EK tanácsi rendelet az irányadó,
+d) a hazai anyakönyvezés kivételével, teljesíti az anyakönyvi bejegyzést, ha annak alapja külföldi okirat – ide nem értve a személyazonosságot, illetve állampolgárságot igazoló okiratot –, kivéve, ha az anyakönyvi bejegyzés teljesítéséről való döntésre
+
+da) a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló 2003. november 27-i 2201/2003/EK tanácsi rendelet vagy
+
+db) a házassági és szülői felelősségi ügyekben a joghatóságról, a határozatok elismeréséről és végrehajtásáról, valamint a gyermekek jogellenes külföldre viteléről szóló 2019. június 25-i (EU) 2019/1111 tanácsi rendelet
+
+az irányadó,
 
 e) teljesíti az anyakönyvi bejegyzést, ha annak alapja nem magyar állampolgár anyától származó gyermekre tett teljes hatályú apai elismerő nyilatkozat,
 

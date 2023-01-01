@@ -16,4 +16,4 @@ d) utónevének módosítását,
 
 e) – a kiskorú gyermekre kiterjedő névváltoztatás esetei kivételével – névváltoztatásának engedélyezését.
 
-(4) Az anyakönyvi okiratot a törvényes képviselő és a meghatalmazott elektronikus azonosítást követően elektronikus kapcsolattartás keretében is kérelmezheti.
+(4) Az anyakönyvi okiratot a törvényes képviselő és a meghatalmazott, valamint a halotti anyakönyvi kivonatot a hozzátartozó elektronikus azonosítást követően elektronikus kapcsolattartás keretében is kérelmezheti.

@@ -14,14 +14,22 @@ f) az érvényes házasság magyar jog szerinti kezdő időpontját,
 
 g) a házasság megszűnésének, felbontásának vagy érvénytelenné nyilvánításának tényét, időpontját,
 
-h) a b) pontban meghatározott adatoknak a házasság fennállása alatt bekövetkezett változását, valamint a házasság megszűnését követően a házassági névviselési forma módosításának tényét és időpontját,
+h) a házasság fennállása alatt a b) pontban meghatározott adatokban bekövetkezett változást,
 
-i) az e)–g) pontban szereplő adatok változását,
+i) a házasság megszűnését követően
 
-j) az adatot bejegyző személy nevét és felhasználói azonosítóját,
+ia) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak a házassági névviselési forma módosítása következtében történt változását és annak időpontját,
 
-k) a bejegyzés idejét, az e törvény hatálybalépését megelőzően teljesített papír alapú anyakönyvi bejegyzés folyószámát és
+ib) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak a házassági név megváltoztatása következtében történt változását és annak időpontját,
 
-l) a keletkezett anyakönyvi alapiratok típusát és azonosító számát.
+ic) a 69/B. § (1) bekezdés b) pont bi) alpontja szerinti adatnak az utónév-módosítás következtében történt változását és annak időpontját,
+
+j) az e)–g) pontban szereplő adatok változását,
+
+k) az adatot bejegyző személy nevét és felhasználói azonosítóját,
+
+l) a bejegyzés idejét, az e törvény hatálybalépését megelőzően teljesített papír alapú anyakönyvi bejegyzés folyószámát és
+
+m) a keletkezett anyakönyvi alapiratok típusát és azonosító számát.
 
 (2) Ha a házasságkötést nyilvántartó anyakönyvvezető vagy a bíróság a házasság nem létezését állapítja meg, a házasságkötést nyilvántartó anyakönyvvezető a határozat véglegessé válását vagy a bíróság értesítését követően az (1) bekezdésben foglalt adatokat törli, egyúttal intézkedik a házassági anyakönyvi kivonat érvénytelenítéséről és gondoskodik az okirat bevonásáról.
