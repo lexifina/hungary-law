@@ -8,7 +8,7 @@
 
 (1a) A rekreációs célú földhasználati szerződés a települési önkormányzat, mint használatba adó, valamint a földművesnek nem minősülő belföldi természetes személy vagy tagállami állampolgár, illetve mezőgazdasági termelőszervezetnek nem minősülő civil szervezet, mint használó között létrejött olyan szerződés, melynek alapján a használó a települési önkormányzat tulajdonában álló, legfeljebb 1 hektár területnagyságú földet a saját, illetve az együttélő családtagjai szükségleteit meg nem haladó mértékben használja, és szedi annak hasznait. A rekreációs célú földhasználati szerződés határozott időtartamra, legalább 1 gazdasági évre, és legfeljebb 5 évre köthető meg. Ha a rekreációs célú földhasználati szerződés alapján a használó a földhasználatért ellenszolgáltatással tartozik, a szerződés megszűnésére a haszonbérleti szerződés megszűnésére vonatkozó rendelkezéseket kell alkalmazni.
 
-(2) A haszonbérletre e törvény rendelkezései mellett a Polgári Törvénykönyv (a továbbiakban: Ptk.), valamint a Fétv. haszonbérletre vonatkozó szabályait is alkalmazni kell. E törvény rendelkezéseit nem kell alkalmazni, ha a haszonbérlő öröklés jogcímén lépett a jogelődje helyébe.
+(2) A haszonbérletre e törvény rendelkezései mellett a Ptk., valamint a Fétv. haszonbérletre vonatkozó szabályait is alkalmazni kell. E törvény rendelkezéseit nem kell alkalmazni, ha a haszonbérlő öröklés jogcímén lépett a jogelődje helyébe.
 
 (3) A szívességi földhasználat tartalmára vonatkozó szabályokat a Fétv. állapítja meg azzal, hogy e földhasználatokra a 39–43. §-ban foglalt rendelkezéseket alkalmazni kell.
 

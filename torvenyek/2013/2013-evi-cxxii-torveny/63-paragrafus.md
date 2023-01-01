@@ -2,4 +2,6 @@
 
 (2) A bírság a föld szerzéskori aranykorona-értéke húszezerszeres szorzatának megfelelő forintösszeg.
 
+(2a) Erdő művelési ágú ingatlan esetén a bírság az ingatlan hektárban kifejezett térmértéke egymilliószoros szorzatának megfelelő forintösszeg.
+
 (3) A bírság ismételten kiszabható mindaddig, amíg a jogsértő állapot fennáll.

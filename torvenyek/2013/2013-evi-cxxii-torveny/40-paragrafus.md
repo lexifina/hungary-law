@@ -6,7 +6,7 @@
 
 (3) Haszonbérlet címén
 
-a) az agrárágazathoz tartozó köznevelési feladatot ellátó intézmény,
+a) az agrárágazathoz tartozó szakképzési feladatot ellátó intézmény,
 
 b) az agrárágazathoz tartozó felsőoktatási intézmény
 

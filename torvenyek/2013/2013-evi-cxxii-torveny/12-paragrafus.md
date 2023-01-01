@@ -6,7 +6,7 @@ b) a cserepartnerek
 
 ba) egyike helyben lakónak minősül, vagy
 
-bb) egyikének lakóhelye vagy a mezőgazdasági üzemközpontja legalább 3 éve azon a településen van, amelynek közigazgatási határa a csere tárgyát képező föld fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 20 km távolságra van.
+bb) egyikének életvitelszerű lakáshasználata helye vagy a mezőgazdasági üzemközpontja legalább 3 éve azon a településen van, amelynek közigazgatási határa a csere tárgyát képező föld fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 20 km távolságra van.
 
 (2) A föld tulajdonjogát ajándékozás címén csak közeli hozzátartozó, bevett egyház, illetve annak belső egyházi jogi személye, önkormányzat, és az állam javára lehet átruházni.
 

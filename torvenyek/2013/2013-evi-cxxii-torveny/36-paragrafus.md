@@ -12,7 +12,7 @@ d) a közeli hozzátartozók közötti tulajdonjog átruházásához;
 
 e)
 
-f) a földnek jogszabályban foglalt módon, támogatás feltételeként más földműves részére való átadásával megvalósuló adás-vételhez;
+f) földnek gazdaságátadási szerződéssel történő átruházásához;
 
 g) a telekalakítás keretében történő tulajdonszerzéshez, ha egy vagy több, önálló helyrajzi számú földet érintő telekalakítás következtében a tulajdonosok tulajdoni hányadát képező földterület nagysága az ingatlan-nyilvántartásban a kiinduló állapot szerinti tulajdoni hányadból számítható területnagyságot nem haladja meg;
 

@@ -6,10 +6,12 @@
 
 (4) A Nemzeti Földalapba tartozó föld tekintetében e törvény rendelkezéseit a Nemzeti Földalapról szóló törvényben foglalt eltérésekkel kell alkalmazni.
 
-(5)
+(5) E törvény rendelkezéseit az agrárgazdaságok átadásáról szóló 2021. évi CXLIII. törvényben foglalt eltéréssel kell alkalmazni.
 
 (6) A borszőlő termőhelyi kataszterében nyilvántartott föld eladása vagy haszonbérbe adása esetén az elővásárlásra vagy előhaszonbérletre jogosultak és azok sorrendje tekintetében e törvény rendelkezéseit a hegyközségekről szóló törvényben foglalt eltérésekkel kell alkalmazni.
 
 (7) E törvény rendelkezéseit a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvényben foglalt eltérésekkel kell alkalmazni.
 
 (8) E törvény rendelkezéseit az egykori Rozmaring Mezőgazdasági Termelőszövetkezet működési területén kárpótlásra váró személyek helyzetének rendezéséről szóló 2021. évi CXLV. törvényben foglalt eltérésekkel kell alkalmazni.
+
+(9) E törvény rendelkezéseit nem kell alkalmazni az állam tulajdonában és a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság vagyonkezelésében lévő ingatlanoknak az egyes otthonteremtési állami feladatok karitatív szervezetek általi átvállalásáról szóló 2021. évi LXXXVI. törvény alapján az MR Közösségi Lakásalap Közhasznú Nonprofit Korlátolt Felelősségű Társaság részére ingyenesen történő tulajdonába adására.

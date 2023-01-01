@@ -2,7 +2,7 @@
 
 a) a közeli hozzátartozók közötti,
 
-b) a föld használati jogosultságának jogszabályban foglalt módon, támogatás feltételeként más földműves vagy mezőgazdasági termelőszervezet részére való átadásával megvalósuló,
+b) a föld használati jogosultságának gazdaságátadási szerződéssel történő átadásával megvalósuló,
 
 c) a mezőgazdasági termelőszervezet, mint földhasználó, és az annak legalább 25%-ban tulajdonos természetes személy tagja, illetve annak közeli hozzátartozója, továbbá legalább 3 éve foglalkoztatott alkalmazottja, mint használatba adó közötti,
 

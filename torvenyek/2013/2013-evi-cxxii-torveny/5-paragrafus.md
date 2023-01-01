@@ -24,13 +24,17 @@ b) a legalább 25%-ban tulajdonában álló, Magyarországon bejegyzett mezőgaz
 
 8.
 
-9. helyben lakó: az a természetes személy, akinek az életvitelszerű lakóhelye legalább 3 éve azon a településen van, amelynek közigazgatási területén az adás-vételi, a csere, illetve a haszonbérleti szerződés tárgyát képező föld fekszik;
+9. helyben lakó:
+
+a) az a természetes személy, akinek az életvitelszerű lakáshasználatának helye legalább 3 éve azon a településen van, amelynek közigazgatási területén az adásvételi, a csere- vagy a haszonbérleti szerződés tárgyát képező föld fekszik, továbbá
+
+b) ha az adásvételi, a csere- vagy a haszonbérleti szerződés tárgya szőlő művelési ágban nyilvántartott föld, akkor az a hegyközségi tag természetes személy is, aki életvitelszerűen legalább 3 éve annak a hegyközségnek a működési területéhez tartozó borvidéki településen lakik, amely hegyközség működési területén az adásvételi, a csere vagy a haszonbérleti szerződés tárgyát képező föld fekszik;
 
 10. helyben lakó szomszéd:
 
-a) aki helyben lakó és a tulajdonában vagy használatában lévő föld szomszédos az adásvételi, a csere vagy a haszonbérleti szerződés tárgyát képező földdel, vagy
+a) aki helyben lakó és a legalább egy éve tulajdonában vagy használatában lévő föld szomszédos az adásvételi, a csere- vagy a haszonbérleti szerződés tárgyát képező földdel, vagy
 
-b) akinek az életvitelszerű lakóhelye legalább 3 éve azon a településen van, mely szomszédos az adásvételi, a csere vagy a haszonbérleti szerződés tárgyát képező föld fekvése szerinti településsel, és a tulajdonában vagy használatában lévő, a lakóhelye szerinti településen fekvő földje szomszédos az adásvételi, a csere vagy a haszonbérleti szerződés tárgyát képező földdel;
+b) akinek az életvitelszerű lakáshasználatának helye legalább 3 éve azon a településen van, amely szomszédos az adásvételi, a csere- vagy a haszonbérleti szerződés tárgyát képező föld fekvése szerinti településsel, és a legalább egy éve tulajdonában vagy használatában lévő, az életvitelszerű lakáshasználatának helye szerinti településen fekvő földje szomszédos az adásvételi, a csere- vagy a haszonbérleti szerződés tárgyát képező földdel;
 
 11. helybeli illetőségű: az a jogi személy, illetve jogi személyiséggel nem rendelkező más szervezet, amelynek mezőgazdasági üzemközpontja legalább 3 éve azon a településen van, amelynek közigazgatási területén a haszonbérleti szerződés tárgyát képező föld fekszik;
 
@@ -80,7 +84,7 @@ d) a mezőgazdasági és vidékfejlesztési támogatási szervnél pályakezdő 
 
 22a. rekreációs célú földszerzés: a földművesnek nem minősülő belföldi természetes személy vagy tagállami állampolgár által a települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat (a továbbiakban együtt: települési önkormányzat) tulajdonában álló és határozattal ilyen célú megszerzésre kijelölt, legfeljebb 1 hektár területnagyságú föld megszerzése abból a célból, hogy a szerző fél a földet a saját, valamint az együttélő családtagjai szükségleteit meg nem haladó mértékben használja és szedje annak hasznait;
 
-23. szomszédos föld: az olyan föld, amely – a település közigazgatási határától függetlenül – a jogügylet tárgyát képező földdel közvetlenül, illetve önálló helyrajzi szám alatt nyilvántartott út, árok, csatorna közbeékelődésével közvetve érintkezik;
+23. szomszédos föld: az olyan föld, amely – a település közigazgatási határától függetlenül – a jogügylet tárgyát képező földdel közvetlenül, illetve önálló helyrajzi szám alatt nyilvántartott út, vasút, kerékpárút, árok, csatorna közbeékelődésével közvetve érintkezik;
 
 24. tagállami állampolgár: az Európai Unió tagállamának állampolgára, az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgára, valamint a nemzetközi szerződés alapján velük egy tekintet alá eső állam állampolgára, ide nem értve a belföldi természetes személyt;
 

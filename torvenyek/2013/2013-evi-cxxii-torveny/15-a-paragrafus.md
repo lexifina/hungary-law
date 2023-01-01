@@ -1,0 +1,1 @@
+15/A. § Ha a tulajdonjog átruházásáról szóló szerződés tárgyát képező földet hatályos vagy a szerződéskötés időpontjában még hatályba nem lépett földhasználati szerződés érinti, akkor a szerződés tartalmazza a földhasználat időtartamára és ellenértékére vonatkozó tájékoztatást.

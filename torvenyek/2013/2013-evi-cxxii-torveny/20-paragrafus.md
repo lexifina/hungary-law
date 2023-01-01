@@ -4,7 +4,7 @@ a) a közeli hozzátartozók közötti adás-vétel,
 
 b) az adott földben legalább három éve tulajdonrésszel rendelkező vevő által kötött, a közös tulajdon megszüntetését eredményező adás-vétel,
 
-c) a földnek jogszabályban foglalt módon, támogatás feltételeként más földműves részére való átadásával megvalósuló adás-vétel,
+c) földnek gazdaságátadási szerződéssel történő átruházása„
 
 d) a 11. § (2) bekezdés c) pontjában meghatározott célból történő adás-vétel,
 

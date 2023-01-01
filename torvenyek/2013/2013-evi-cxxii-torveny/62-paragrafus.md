@@ -2,7 +2,7 @@
 
 (2) Ha a mezőgazdasági igazgatási szerv az ellenőrzése során megállapítja, hogy a tulajdonos, illetve a földhasználó
 
-a) nem tartotta be a szerzéshez vállalt kötelezettségeket, vagy a szerzéshez szükséges feltétellel nem rendelkezik
+a) nem tartotta be a szerzéshez vállalt kötelezettségeket vagy a szerzéshez szükséges feltétellel nem rendelkezik
 
 b) a szerzés feltételeként az e törvényben előírt meghatározott célú földhasználattól, tevékenységtől tartósan eltért,
 

@@ -4,6 +4,6 @@
 
 (3) A mezőgazdasági igazgatási szerv azt vizsgálja, hogy az örökös szerzőképessége fennáll-e, és a végintézkedés nem eredményezi-e tulajdonszerzési korlátozás megsértését vagy megkerülését. A mezőgazdasági igazgatási szerv a döntését közli a közjegyzővel is.
 
-(4) Ha a mezőgazdasági igazgatási szerv megtagadja az örökös javára a tulajdonszerzés jóváhagyását, és a föld törvény erejénél fogva az állam tulajdonába és a Nemzeti Földalapba kerül, akkor az örököst kártalanítás illeti meg. A kártalanítás összege az ingatlan értékbecslésében megállapított érték, melyből le kell vonni az államot mint örököst terhelő hagyatéki tartozások összegét. Az értékbecslés elkészítéséről és a kártalanítás megfizetéséről a tulajdonosi joggyakorló gondoskodik a tulajdonszerzést követő 60 napon belül.
+(4) Ha a mezőgazdasági igazgatási szerv megtagadja az örökös javára a tulajdonszerzés jóváhagyását, és a föld törvény erejénél fogva az állam tulajdonába és a Nemzeti Földalapba kerül, akkor az örököst kártalanítás illeti meg. A kártalanítás összege az ingatlan értékbecslésében megállapított érték, melyből le kell vonni az államot mint örököst terhelő hagyatéki tartozások összegét. Az értékbecslés elkészítéséről és a kártalanítás megfizetéséről a tulajdonosi joggyakorló gondoskodik a Nemzeti Földalap kezeléséért felelős szerv tulajdonosi joggyakorlásának ingatlan-nyilvántartási bejegyzését követő 60 napon belül.
 
 (5) A (4) bekezdésben foglaltak nem alkalmazhatóak, ha az állam tulajdonszerzése azért következett be, mert a törvényes örökös az örökséget visszautasította.
