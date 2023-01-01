@@ -32,7 +32,7 @@ i) egyéb befejező intézkedést tett (a nemperes eljárás lefolytatása irán
 
 2. az okirat, illetve információhordozó megőrzésére irányuló eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes az okirat átvételéről jegyzőkönyvet vett fel;
 
-3.[^8] a végrehajtási eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
+3.[^9] a végrehajtási eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
 
 a) a végrehajtás elrendelését megtagadta,
 
@@ -66,7 +66,7 @@ b) ennek hiányában a ki nem utalt letét visszautalásáról
 
 döntött;
 
-12.[^9] a fizetési meghagyásos eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
+12.[^10] a fizetési meghagyásos eljárásban, amelyben a közjegyző vagy a közjegyzőhelyettes
 
 a) a fizetési meghagyást kibocsátotta,
 
@@ -100,5 +100,5 @@ d) rész-hagyatékátadás után az eljárást megszüntette;
 
 (5) A KÜR-nek alkalmasnak kell lennie arra, hogy a befejezett, de további intézkedést igénylő ügyek a befejezett és további intézkedést nem igénylő ügyektől elkülönítve legyenek lekérdezhetők.
 
-[^8]: A 35. § (3) bekezdés 3. pontja az 1/2021. (III. 12.) IM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^9]: A 35. § (3) bekezdés 12. pontja az 1/2021. (III. 12.) IM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^9]: A 35. § (3) bekezdés 3. pontja az 1/2021. (III. 12.) IM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^10]: A 35. § (3) bekezdés 12. pontja az 1/2021. (III. 12.) IM rendelet 3. § (2) bekezdésével megállapított szöveg.

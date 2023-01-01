@@ -4,7 +4,7 @@
 
 (2) Az ügyintéző az olyan iratot, amelynek átvételéhez joghatás fűződik, vagy amely átvételének igazolására szükség van, továbbá más hatósághoz intézett megkeresését vagy válasziratát az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti biztonságos kézbesítési szolgáltatás útján küldi meg elektronikusan, vagy a hivatalos iratok kézbesítésére vonatkozó jogszabály szerint postai úton kézbesíti; személyes kézbesítés esetén az átvevő az átvétel tényét az átvett irat megjelölésével és keltezéssel ellátott aláírásával igazolja.
 
-(2a)[^13] Az iratnak a közjegyző hivatali helyiségében jelen lévő címzett részére való átadása esetén a címzett a papíralapú irat átvételét átadóíven vagy aláírást rögzítő technikai eszközzel igazolja, amelyen nyilatkozhat a fellebbezési jogáról történő lemondásról is. Az átadóívet, illetve az aláírást rögzítő technikai eszközzel rögzített adatot az ügyintéző rögzíti az ügy digitális aktájában.
+(2a)[^14] Az iratnak a közjegyző hivatali helyiségében jelen lévő címzett részére való átadása esetén a címzett a papíralapú irat átvételét átadóíven vagy aláírást rögzítő technikai eszközzel igazolja, amelyen nyilatkozhat a fellebbezési jogáról történő lemondásról is. Az átadóívet, illetve az aláírást rögzítő technikai eszközzel rögzített adatot az ügyintéző rögzíti az ügy digitális aktájában.
 
 (3) Tértivevényes kézbesítés esetén az A/2. jelzésű értesítés alkalmazandó. Ha az ügyintéző megítélése szerint az iratot kizárólag a címzett saját kezéhez lehet kézbesíteni, az A/6. jelzésű értesítést kell használni.
 
@@ -18,4 +18,4 @@
 
 (8) Ha az ügyintéző az iratot a Kjnp. 15/B. §-a szerint kézbesíti, a tértivevényt a MOKK rögzíti a KÜR-ben.
 
-[^13]: A 38. § (2a) bekezdését az 1/2021. (III. 12.) IM rendelet 5. §-a iktatta be.
+[^14]: A 38. § (2a) bekezdését az 1/2021. (III. 12.) IM rendelet 5. §-a iktatta be.

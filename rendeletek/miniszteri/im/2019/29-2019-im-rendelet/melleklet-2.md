@@ -54,7 +54,7 @@ Statisztikai jelentés adattartalma a fizetési meghagyásos ügyek és a fizet�
 
 11. Végrehajtói kézbesítések száma
 
-11.1.[^42] végrehajtói kézbesítéssel érintett kötelezettek száma
+11.1.[^43] végrehajtói kézbesítéssel érintett kötelezettek száma
 
 12. Fizetési meghagyás kibocsátása iránti kérelmet előterjesztő jogosultak száma
 
@@ -62,4 +62,4 @@ Statisztikai jelentés adattartalma a fizetési meghagyásos ügyek és a fizet�
 
 12.2. nem természetes személy jogosultak száma
 
-[^42]: A 2. melléklet 11. pont 11.1. alpontja az 1/2021. (III. 12.) IM rendelet 21. § h) pontja szerint módosított szöveg.
+[^43]: A 2. melléklet 11. pont 11.1. alpontja az 1/2021. (III. 12.) IM rendelet 21. § h) pontja szerint módosított szöveg.

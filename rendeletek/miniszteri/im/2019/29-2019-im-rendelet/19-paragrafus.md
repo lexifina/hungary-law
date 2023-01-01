@@ -4,8 +4,8 @@
 
 (2) Az ügyintéző a nyilvántartást elektronikusan, a KÜR-ben vezeti.
 
-(3)[^2] Az állandó és a tartós helyettes a helyettesítés időtartamában a helyettesített közjegyző ügyszámát használva a helyettesített közjegyző nyilvántartását köteles folyamatosan vezetni. A KÜR-nek alkalmasnak kell lennie arra, hogy a helyettesítés ténye és időtartama a nyilvántartásból kitűnjön.
+(3)[^3] Az állandó és a tartós helyettes a helyettesítés időtartamában a helyettesített közjegyző ügyszámát használva a helyettesített közjegyző nyilvántartását köteles folyamatosan vezetni. A KÜR-nek alkalmasnak kell lennie arra, hogy a helyettesítés ténye és időtartama a nyilvántartásból kitűnjön.
 
 (4) Ha a közjegyzői ügyben az eljárás megindulása előtt válik szükségessé intézkedés, azt az ügyintéző ideiglenes ügyszám alatt veszi nyilvántartásba. Az ideiglenes ügyszámot a kezdőirat nyilvántartásba vételével az ügyintéző véglegesre változtatja.
 
-[^2]: A 19. § (3) bekezdése az 1/2021. (III. 12.) IM rendelet 21. § b) pontja szerint módosított szöveg.
+[^3]: A 19. § (3) bekezdése az 1/2021. (III. 12.) IM rendelet 21. § b) pontja szerint módosított szöveg.

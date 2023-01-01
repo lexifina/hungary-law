@@ -48,7 +48,7 @@ b) az elektronikus okiratról készített papíralapú másolat látványának a
 
 21. közjegyzői iroda: a közjegyzőkről szóló 1991. évi XLI. törvény (a továbbiakban: Kjtv.) 31/A. § (2) bekezdése szerinti szervezet;
 
-22. közjegyző székhelyének azonosító száma: a MOKK által megállapított, a közjegyzői székhely azonosítására szolgáló ötjegyű számsor, amelynek első számjegye a területi kamarát, a második számjegye a megyét, harmadik, negyedik és ötödik számjegye a közjegyző székhelyét jelöli;
+22.[^2] közjegyző székhelyének azonosító száma: a MOKK által megállapított, a közjegyzői székhely azonosítására szolgáló ötjegyű számsor, amelynek első számjegye a területi kamarát, a második számjegye a vármegyét, harmadik, negyedik és ötödik számjegye a közjegyző székhelyét jelöli;
 
 23. közjegyzői ügyviteli rendszer: a MOKK-nak a külön jogszabály alapján létrehozott számítástechnikai rendszerrel nem támogatott közjegyzői eljárások informatikai támogatására szolgáló, a Kjtv. 54. § (1) bekezdés q) pontja szerinti egységes ügykezelő alkalmazása;
 
@@ -89,3 +89,4 @@ c) közjegyzőjelölt alatt az azonos székhelyen működő közjegyzőjelöltet
 is érteni kell.
 
 [^1]: A 2. § (1) bekezdés 2. pontja az 1/2021. (III. 12.) IM rendelet 21. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés 22. pontja a 38/2022. (XII. 27.) IM rendelet 13. §-a szerint módosított szöveg.

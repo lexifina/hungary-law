@@ -1,4 +1,4 @@
-4. melléklet a 29/2019. (XII. 20.) IM rendelethez[^43]
+4. melléklet a 29/2019. (XII. 20.) IM rendelethez[^44]
 
 Irattári Terv
 
@@ -400,4 +400,4 @@ Irattári Terv
 
 | IT-00 | A 4. alcsoportba tartozó ügyek iratainak selejtezési jegyzőkönyvei | NS | --- | --- |
 
-[^43]: A 4. melléklet az 1/2021. (III. 12.) IM rendelet 20. §-ával megállapított szöveg.
+[^44]: A 4. melléklet az 1/2021. (III. 12.) IM rendelet 20. §-ával megállapított szöveg.

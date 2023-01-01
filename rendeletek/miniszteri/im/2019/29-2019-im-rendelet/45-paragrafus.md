@@ -4,11 +4,11 @@
 
 a) a papíralapú és elektronikus közjegyzői ügyleti okiratot, valamint az azzal összefüggő egyéb jognyilatkozatot (pl. bejegyzési engedély) tartalmazó közjegyzői okiratot,
 
-b)[^15] a papíralapú és elektronikus jegyzőkönyvi ténytanúsítványt, a Kjtv. 158–161/B. §-a, valamint 163. §-a szerint felvett jegyzőkönyvet (a III. és IV. fejezet alkalmazásában a továbbiakban együtt: közjegyzői okirat),
+b)[^16] a papíralapú és elektronikus jegyzőkönyvi ténytanúsítványt, a Kjtv. 158–161/B. §-a, valamint 163. §-a szerint felvett jegyzőkönyvet (a III. és IV. fejezet alkalmazásában a továbbiakban együtt: közjegyzői okirat),
 
 c) az a)–b) pont szerinti közjegyzői okirat elkészítésére irányuló kérelmet a közjegyzői okirattal együtt,
 
-d)[^16] a hagyatéki eljárásban hozott jogerős,
+d)[^17] a hagyatéki eljárásban hozott jogerős,
 
 da) ideiglenes hatályú hagyatékátadó, illetve részhagyatékátadó végzést a teljes hatályúvá válást vagy az eljárás befejezését megállapító végzéssel együtt,
 
@@ -40,5 +40,5 @@ g) az a)–f) pont szerinti közjegyzői okiratokkal és határozatokkal érinte
 
 (5) Az archiválási kötelezettség alá nem tartozó, nemperes eljárásban hozott jogerős határozatot – a bírósági végrehajtásról szóló 1994. évi LIII. törvény (a továbbiakban: Vht.) alapján kiállított végrehajtási lap és végrehajtási záradék, valamint a fizetési meghagyásos eljárás során hozott határozatok kivételével –, a záradéki tanúsítványt, illetve a záradéki tanúsítvánnyal ellátott okiratot a közjegyző a fél kérelmére archiválhatja.
 
-[^15]: A 45. § (1) bekezdés b) pontja az 1/2021. (III. 12.) IM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^16]: A 45. § (1) bekezdés d) pontja az 1/2021. (III. 12.) IM rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^16]: A 45. § (1) bekezdés b) pontja az 1/2021. (III. 12.) IM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^17]: A 45. § (1) bekezdés d) pontja az 1/2021. (III. 12.) IM rendelet 7. § (2) bekezdésével megállapított szöveg.
