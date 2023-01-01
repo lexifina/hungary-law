@@ -4,9 +4,9 @@ a) az árverési jegyzőkönyvbe foglalt döntés ellen jogorvoslattal nem élne
 
 b) az árverés nem eredménytelen [ide nem értve a 9. § (1) bekezdés d) pontja szerinti eredménytelenséget] és
 
-c)[^36] a földszerzést jóváhagyó hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal az árverési jegyzőkönyvet záradékolja,
+c)[^36] a földszerzést jóváhagyó hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatal az árverési jegyzőkönyvet záradékolja,
 
-## a mezőgazdasági igazgatási szerv haladéktalanul felhívja az árverési vevőt – 60 napnál nem hosszabb megfelelő határidő tűzésével –, hogy a teljes vételárat utalja át a mezőgazdasági igazgatási szerv letéti számlájára; ha ezt elmulasztja, előlegét elveszti.
+a mezőgazdasági igazgatási szerv haladéktalanul felhívja az árverési vevőt – 60 napnál nem hosszabb megfelelő határidő tűzésével –, hogy a teljes vételárat utalja át a mezőgazdasági igazgatási szerv letéti számlájára; ha ezt elmulasztja, előlegét elveszti.
 
 (2)[^37] Azt az előleget, amelynek visszafizetését az (1) bekezdés szerint az árverező nem igényelheti, valamint azt a vételár-különbözetet, amelyet a 8. § (8) bekezdése szerint a fizetést elmulasztó megfizet, a mezőgazdasági igazgatási szerv átutalja a megkereső által megadott letéti, illetve pénzforgalmi számlára. Ezek az összegek a végrehajtás, a felszámolás, illetve az önkormányzati adósságrendezési eljárás értékesítési bevételeként számolhatók el.
 
@@ -17,7 +17,7 @@ c)[^36] a földszerzést jóváhagyó hatósági hatáskörében eljáró fővá
 (5)[^39] Végrehajtási eljárás esetén a mezőgazdasági igazgatási szerv intézkedik a tulajdonjog bejegyeztetése iránt az ingatlanügyi hatóság megkeresésével.
 
 [^35]: A 13. § (1) bekezdés záró szövegrésze a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés i) pontja szerint módosított szöveg.
-[^36]: A 13. § (1) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés k) pontja szerint módosított szöveg.
+[^36]: A 13. § (1) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés k) pontja, a 616/2022. (XII. 29.) Korm. rendelet 187. §-a szerint módosított szöveg.
 [^37]: A 13. § (2) bekezdése az 523/2017. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^38]: A 13. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés f) pontja szerint módosított szöveg.
 [^39]: A 13. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) és e) pontja szerint módosított szöveg.

@@ -24,7 +24,7 @@ b) a Földforgalmi törvény 9. §-ában meghatározott személy,
 
 c) a Cstv. 49. § (3) és (3b) bekezdésében meghatározott személy,
 
-d)[^19] a fővárosi és megyei kormányhivatal, illetve az árveréssel kapcsolatos jogorvoslatot elbíráló hatóság állományába tartozó olyan személy, aki az árverés lebonyolításában, illetve az árverési jegyzőkönyv szerinti határozatok meghozatalában, illetve a jogorvoslat során történő elbírálásában részt vesz,
+d)[^19] a fővárosi és vármegyei kormányhivatal, illetve az árveréssel kapcsolatos jogorvoslatot elbíráló hatóság állományába tartozó olyan személy, aki az árverés lebonyolításában, illetve az árverési jegyzőkönyv szerinti határozatok meghozatalában, illetve a jogorvoslat során történő elbírálásában részt vesz,
 
 e) az (1) bekezdésben foglaltaknak meg nem felelő személy.
 
@@ -38,4 +38,4 @@ e) az (1) bekezdésben foglaltaknak meg nem felelő személy.
 [^16]: Az 5. § (1) bekezdés d) pontját az 523/2017. (XII. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be. Az 5. § (1) bekezdés d) pontját a 12/2022. (VI. 2.) AB határozat 1. pontja megsemmisítete 2022. június 3. napjával.
 [^17]: Az 5. § (1a) bekezdését az 523/2017. (XII. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, hatályon kívül helyezte a 186/2018. (X. 9.) Korm. rendelet 12. §-a.
 [^18]: Az 5. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés i) pontja, a 457/2017. (XII. 28.) Korm. rendelet 501. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^19]: Az 5. § (4) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^19]: Az 5. § (4) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés h) pontja, a 616/2022. (XII. 29.) Korm. rendelet 187. §-a szerint módosított szöveg.
