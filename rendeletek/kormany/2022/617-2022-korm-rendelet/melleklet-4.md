@@ -1,3 +1,5 @@
+## A Rendelet 2. mellékletében foglalt táblázat 37. sora helyébe a következő rendelkezés lép:
+
 |  | [A | B |
 
 | 1. | Beruházás megnevezése | Beruházás azonosító adatai (ingatlan-nyilvántartás szerinti helyrajzi szám)] |
@@ -9,6 +11,8 @@
 ## ”
 
 4. melléklet a 617/2022. (XII. 29.) Korm. rendelethez
+
+A Rendelet 3. mellékletében foglalt táblázat a következő 3. sorral egészül ki:
 
 |  | (A | B | C | D |
 

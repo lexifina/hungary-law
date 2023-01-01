@@ -1,3 +1,5 @@
-2. §[^2]
+2. § Hatályát veszti a 86/1996. (VI. 14.) Korm. rendelet
 
-[^2]: A 2. § a 29. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+a) 14. § (2) bekezdés g) pontja,
+
+b) 1. számú melléklet II. pont 17. alpontja.

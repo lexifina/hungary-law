@@ -1,3 +1,1 @@
-25. §[^28]
-
-[^28]: A 25. § a 29. § (2) bekezdés alapján 2023. január 1-jén lép hatályba.
+25. § A Rendelet 3. mellékletében az „A 4/B. §” szövegrész helyébe az „A 4/B. és 4/D. §” szöveg lép.
