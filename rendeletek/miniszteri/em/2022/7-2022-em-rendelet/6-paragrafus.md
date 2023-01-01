@@ -1,0 +1,1 @@
+6. § Ez a rendelet a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelv 2. cikk 2. pontjának, 23. cikkének, V. és VI. mellékletének való megfelelést szolgálja.
