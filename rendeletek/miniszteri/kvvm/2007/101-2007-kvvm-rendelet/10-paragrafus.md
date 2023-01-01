@@ -14,7 +14,7 @@ d) a termelt víz kémiai összetételére (vízkémiai összetétel, gáz-víz 
 
 e) a kútfej-kiképzés biztonsági követelményeinek betartására
 
-## vonatkozó adatokat és az átadással járó egyéb rendelkezéseket, követelményeket.
+vonatkozó adatokat és az átadással járó egyéb rendelkezéseket, követelményeket.
 
 (3) A kitermelt víz mennyiségét összegző vízhozammérővel – vagy amennyiben azt a víz kémiai összetétele megkívánja, induktív vízhozammérővel – kell mérni. A termelt víz hőmérsékletének, a kút üzemi vízszintjének, illetve kútfejnyomásának mérését biztosítani kell.
 

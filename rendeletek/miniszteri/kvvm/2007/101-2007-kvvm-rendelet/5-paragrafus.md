@@ -12,6 +12,8 @@ a) a települési önkormányzat jegyzőjének engedélyéhez kötött kutak ese
 
 b) a vízügyi hatóság engedélyéhez kötött felszín alatti vízilétesítmények esetében EOV-ban, az Y, X koordináták, továbbá a Z Balti-tenger szint feletti magassági érték megadásával a vízföldtani napló-készítési kötelezettség alá eső kutaknál, vagy ha azt a vízügyi hatóság a létesítmény helyzetétől, rendeltetésétől függően előírja, geodéziai mérésre jogosult szakember bevonásával
 
+kell meghatározni.
+
 [^5]: Az 5. § (1) bekezdése a 67/2014. (XII. 17.) BM rendelet 18. § (1) bekezdésével megállapított szöveg.
 [^6]: Az 5. § (2)–(3) bekezdését a 42/2017. (XII. 29.) BM rendelet 5. § b) pontja hatályon kívül helyezte.
 [^7]: Az 5. § (4) bekezdése a 67/2014. (XII. 17.) BM rendelet 18. § (2) bekezdésével megállapított szöveg.

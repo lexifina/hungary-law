@@ -6,7 +6,7 @@
 
 | Vízföldtani napló |
 
-| Helység: Megye: ……………………………………………... Pontos cím: Hrsz: …..…………………………………………… Helyi neve: A vízkivétel célja: A vízjogi létesítési engedély száma: Vízikönyvi szám: |
+| Helység: Vármegye: ……………………………………………... Pontos cím: Hrsz: …..…………………………………………… Helyi neve: A vízkivétel célja: A vízjogi létesítési engedély száma: Vízikönyvi szám: |
 
 | A csövezett kút mélysége: m A fúrás közben elért mélység: m |  | ………………………… Térképlapszám EOV-koordináták: X = ……………………….. Y = ……………………….. Földrajzi koordináták: ……..fok ……………...km |
 
@@ -76,7 +76,9 @@
 
 ## M1.6. A fúrt vízkút áttekinthető helyszínrajza
 
-|  | Áttekintő helyszínrajz Helyiség: Megye:……………………….……………………… A kút helyének leírása: |
+## 7M14693M.docx
+
+|  | Áttekintő helyszínrajz Helyiség: Vármegye:……………………….……………………… A kút helyének leírása: |
 
 |  |  | x = y= | É D |
 
@@ -86,7 +88,9 @@
 
 ## M1.7. A fúrt kút részletes helyszínrajza és fényképe
 
-|  | Részletes helyszínrajz Helyiség: Megye:……………………….……………………… A kút helyének leírása: |
+## 7M14693N.docx
+
+|  | Részletes helyszínrajz Helyiség: Vármegye:……………………….……………………… A kút helyének leírása: |
 
 |  |  | x = y= | É D |
 
@@ -96,7 +100,7 @@
 
 ## M1.8. Vízhozamgörbe
 
-|  | Vízhozamgörbe Helyiség: Megye:……………………….……………………… A kút helyének leírása: |
+|  | Vízhozamgörbe Helyiség: Vármegye:……………………….……………………… A kút helyének leírása: |
 
 |  |  |  | Q |  |
 
@@ -113,6 +117,8 @@
 |  | …………………………………………………… | …………………………………………………………………. |
 
 |  | helyiség | a kút helyének leírása |
+
+## 7M14693_17
 
 |  | Idő (min) | Vízszint (m) |  |  |  |
 
@@ -174,7 +180,9 @@
 
 ## M1.10. Vízföldtani szelvény
 
-| Vízföldtani szelvény helység ……………………………………………….megye utca ……….házszám ……………………………hrsz …………………………………………………………..határrész A fúrás: …………. Nyilvántartási szám: ………………….. |
+## 7M14693O.docx
+
+| Vízföldtani szelvény helység ……………………………………………….vármegye utca ……….házszám ……………………………hrsz …………………………………………………………..határrész A fúrás: …………. Nyilvántartási szám: ………………….. |
 
 | Méret (m) | Műszaki szelvény | Földtani szelvény | Települési mélység (m) | A kőzet megnevezése |
 
@@ -190,15 +198,15 @@
 
 | Talphő: m-ben °C | A víz gázos-e: | Hőfok: °C |
 
-| Arzén: | (mg/l) | Vas: | (mg/l) | Klorid: | (mg/l) |
+| Arzén: (mg/l) | Vas: (mg/l) | Klorid: (mg/l) |
 
-| Alkalinitás: | (mmól/l) | Ammónia: | (mg/l) | Nitrát: | (mg/l) |
+| Alkalinitás: (mmól/l) | Ammónia: (mg/l) | Nitrát: (mg/l) |
 
-| Nitrit: | (mg/l) | Oxigénfogyasztás: | (mg/l) | Szulfát: | (mg/l) |
+| Nitrit: (mg/l) | Oxigénfogyasztás: (mg/l) | Szulfát: (mg/l) |
 
-| Mangán: | (mg/l) | Kalcium: | (mg/l) | Magnézium: | (mg/l) |
+| Mangán: (mg/l) | Kalcium: (mg/l) | Magnézium: (mg/l) |
 
-| Keménység (CaO): | (mg/l) | Összes szilárd alkatrész: | (mg/l) |
+| Keménység (CaO): (mg/l) | Összes szilárd alkatrész: (mg/l) |
 
 | …………………………………. kivitelező vállalat | …………………………………. geológus | …………………………………. adatrögzítő |
 
@@ -294,6 +302,6 @@
 
 ## A magmintavételt és a mintával elvégzett vizsgálatokat a vízföldtani napló tartalomjegyzékében kell megadni az „egyéb mérési adatok” pont alatt van lehetőség a részletezésre (M1.6.).
 
-3. melléklet a 101/2007. (XII. 23.) KvVM rendelethez[^37]
+3. melléklet a 101/2007. (XII. 23.) KvVM rendelethez[^38]
 
-[^37]: A 3. mellékletet a 42/2017. (XII. 29.) BM rendelet 5. § g) pontja hatályon kívül helyezte.
+[^38]: A 3. mellékletet a 42/2017. (XII. 29.) BM rendelet 5. § g) pontja hatályon kívül helyezte.

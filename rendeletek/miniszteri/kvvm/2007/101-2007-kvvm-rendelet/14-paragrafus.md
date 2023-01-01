@@ -1,5 +1,3 @@
-## 13/A. §[^31]
-
 ## Átmeneti és záró rendelkezések
 
 14. § (1) E rendelet 2008. január 1-jén lép hatályba, rendelkezéseit a hatálybalépés után indult eljárásokban kell alkalmazni.
@@ -10,5 +8,4 @@
 
 (4)–(6)[^32]
 
-[^31]: A 13/A. §-t a 10/2010. (VIII. 18.) VM rendelet 9. §-a iktatta be, hatályon kívül helyezte a 42/2017. (XII. 29.) BM rendelet 5. § f) pontja.
 [^32]: A 14. § (4)–(6) bekezdése e rendelet 15. §-a alapján hatályát vesztette.

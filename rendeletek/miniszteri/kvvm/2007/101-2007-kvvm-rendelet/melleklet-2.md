@@ -1,3 +1,5 @@
+## 4K24608_0
+
 | 1. Mélyfúrás-geofizikai és befejező kútvizsgálati mérések |
 
 |  | A | B | C | D | E | F | G |
@@ -66,4 +68,6 @@
 
 | 8 | 10–50 MF | = | 10 m és 50 m közötti talpmélységű parti szűrésű-, vagy talajvíz megfigyelő kutak esetében, amennyiben a kút a felszín alatti vizek védelméről szóló kormányrendelet szerinti kármentesítéshez kapcsolódik, vagy a vízbázisok, a távlati vízbázisok, valamint az ivóvízellátást szolgáló vízilétesítmények védelméről szóló kormányrendelet szerinti megfigyelő hálózat részét képezi. |
 
-2. melléklet a 101/2007. (XII. 23.) KvVM rendelethez
+2. melléklet a 101/2007. (XII. 23.) KvVM rendelethez[^37]
+
+[^37]: A 2. melléklet a 45/2022. (XII. 20.) BM rendelet 48. §-a szerint módosított szöveg.

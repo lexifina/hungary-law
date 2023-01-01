@@ -1,5 +1,3 @@
-## kell meghatározni.
-
 5/A. §[^10] (1) A hévízkutat a hévíz-készlettel való takarékos gazdálkodás érdekében olyan kútfej-szerelvénnyel kell ellátni, amely lehetővé teszi a vízkivétel mértékének igény szerinti szabályozását, a termálvíztestekre meghatározott vízkészleteket figyelembe vevő, fenntartható, dinamikus vízkészlet-gazdálkodást.
 
 (2) A hévízkutak kialakításánál olyan vezetéket, berendezéseket és szerelvényeket kell alkalmazni, amelyek ellenállnak a hőmérséklet-ingadozásból és a külső-belső agresszív hatásokból származó igénybevételeknek.
