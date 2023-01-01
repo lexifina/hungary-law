@@ -1,6 +1,6 @@
 ## 8. § Az Interreg V–A Szlovénia–Magyarország Együttműködési Program vonatkozásában
 
-a) az auditor csoport magyar tagja: az EUTAF,
+a)[^11]
 
 b) nemzeti hatóság: a miniszter,
 
@@ -10,6 +10,7 @@ d) a program technikai segítségnyújtási keretéhez történő nemzeti hozzá
 
 e) információs pont: a Széchenyi Programiroda,
 
-f)[^5] a közös titkárság magyar tagja: a Széchenyi Programiroda.
+f)[^12] a közös titkárság magyar tagja: a Széchenyi Programiroda.
 
-[^5]: A 8. § f) pontját a 77/2017. (IV. 3.) Korm. rendelet 1. §-a iktatta be.
+[^11]: A 8. § a) pontját a 615/2022. (XII. 29.) Korm. rendelet 12. § g) pontja hatályon kívül helyezte.
+[^12]: A 8. § f) pontját a 77/2017. (IV. 3.) Korm. rendelet 1. §-a iktatta be.

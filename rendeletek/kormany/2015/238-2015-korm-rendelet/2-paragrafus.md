@@ -4,7 +4,7 @@ a)[^2] irányító hatóság: a külgazdasági ügyekért felelős miniszter (a 
 
 b) igazoló hatóság: a Magyar Államkincstár (a továbbiakban: kincstár),
 
-c) audit hatóság: az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF),
+c)[^3]
 
 d) közös titkárság: a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Széchenyi Programiroda),
 
@@ -15,3 +15,4 @@ f) hitelesítési tevékenységre kijelölt szervezet: a Széchenyi Programiroda
 g) a program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás biztosítója: a miniszter.
 
 [^2]: A 2. § a) pontja a 127/2018. (VII. 18.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^3]: A 2. § c) pontját a 615/2022. (XII. 29.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
