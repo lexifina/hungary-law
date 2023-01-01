@@ -1,5 +1,3 @@
-## A taxaméter adóügyi moduljának állapotai
-
 |  | A | B | C |
 
 | 1. | ÁLLAPOT | JELENSÉG | ÁLLAPOTJELZŐ ÉRTÉKE |
@@ -49,3 +47,5 @@
 | 23. | Euró üzemmód be van állítva | E = 1 |
 
 7. melléklet az 49/2013. (XI. 15.) NGM rendelethez
+
+A taxaméter funkciók és az adóügyi modul állapotának kapcsolatai (1)

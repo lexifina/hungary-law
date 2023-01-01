@@ -14,7 +14,7 @@ c) a taxaméter eltulajdonítása,
 
 d) a taxaméter megsemmisülése, elvesztése
 
-## esetén.
+esetén.
 
 (3) A (2) bekezdés szerinti mentesülés
 
@@ -24,6 +24,6 @@ b) a taxaméter bevonása esetén a bevonás idején,
 
 c) a taxaméter eltulajdonítása, megsemmisülése, elvesztése esetén az új taxaméter üzembe helyezéséig, de legfeljebb az eltulajdonítás, megsemmisülés, elvesztés észlelésétől számított 15. napig
 
-## érvényes.
+érvényes.
 
 (4) a (2) bekezdés a)–d) pontja szerinti esemény bekövetkezésétől a nyugtakibocsátási kötelezettség taxaméterrel történő teljesítése feltételeinek helyreálltáig újabb fuvart kezdeni nem lehet.

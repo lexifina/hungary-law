@@ -1,6 +1,6 @@
 5. melléklet az 49/2013. (XI. 15.) NGM rendelethez
 
-## A taxaméter funkciók listája (adómemória indítási, technikai és egyéb funkciók)
+A taxaméter funkciók listája (adómemória indítási, technikai és egyéb funkciók)
 
 |  | A | B | C |
 
@@ -28,7 +28,7 @@
 
 | 12. | Információs lista |  | „Információs lista” kinyomtatása nem adóügyi bizonylatként. |
 
-A funkciókhoz tartozó általános ellenőrzési tevékenységek
+## A funkciókhoz tartozó általános ellenőrzési tevékenységek
 
 1. A funkció végrehajthatóságának ellenőrzése (lásd 8. melléklet).
 

@@ -1,5 +1,3 @@
-## 32. § Az üzemeltető köteles a taxaméter megsemmisülését, elvesztését, eltulajdonítását annak észlelését követően haladéktalanul bejegyezni a taxaméternaplóba, és azt az észlelést követő 8 napon belül, az erre rendszeresített nyomtatványon bejelenteni az állami adóhatóságnak. A bejelentést egyidejűleg az illetékes megyei (fővárosi) Kereskedelmi és Iparkamara felé is teljesíteni kell.
-
 ## 10. A taxaméternapló
 
 33. § (1) A taxaméternapló a taxaméterrel kapcsolatos események dokumentálására szolgál. A taxaméternaplót szigorú számadás alá kell vonni.

@@ -1,5 +1,3 @@
-## A taxaméter funkciók és az adóügyi modul állapotának kapcsolatai (1)
-
 |  | A | B | C | D | E | F | G | H | I | J | K |
 
 | 1. | FUNKCIÓ | A VÉGREHAJTÁS |
@@ -22,7 +20,7 @@
 
 8. melléklet az 49/2013. (XI. 15.) NGM rendelethez
 
-## A taxaméter funkciók és az adóügyi modul állapotának kapcsolatai (2)
+A taxaméter funkciók és az adóügyi modul állapotának kapcsolatai (2)
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S |
 
@@ -62,7 +60,7 @@
 
 | 18. | Euró üzemmód beállítása | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
-* Az állapotjelző értéke 1-re változik, ha az adómemória megtelt, egyébként = 0.
+## * Az állapotjelző értéke 1-re változik, ha az adómemória megtelt, egyébként = 0.
 
 1. A „bizonylat megszakítás” állapotjelzőt az adóügyi modul 1-re állítja, ha bizonylat nyomtatás közben:
 

@@ -8,7 +8,7 @@
 
 ## 3. A taxaméternek szerkezetében és kialakításában olyannak kell lennie, hogy az üzembe helyezés utáni lezárást és plombálást követően a plomba megbontása nélkül, a működőképesség megtartása mellett rendellenes vagy illetéktelen beavatkozást, programozást, adattörlést ne tegyen lehetővé, a megbontás felismerhető legyen. A taxaméter burkolatát úgy kell kialakítani, hogy a készülék nyílásain keresztül se legyen lehetőség a tárolt adatok módosítására. A plombálással biztosítani kell, hogy a készülék a gépkocsiból a plomba megsértése nélkül ne legyen kivehető.
 
-## 4.[^26] A plombával történő lezárást a Kormányhivatal által kiadott Hitelesítési Előírásban meghatározottak szerint kell elvégezni. A taxaméter lezárására kizárólag a NAV által biztosított pecsétnyomó használható. A pecsétnyomó anyaga acél. A pecsétnyomó mérete 8 mm, a pecsétanyag ólom. A lenyomat homorú.
+## 4.[^27] A plombával történő lezárást a Kormányhivatal által kiadott Hitelesítési Előírásban meghatározottak szerint kell elvégezni. A taxaméter lezárására kizárólag a NAV által biztosított pecsétnyomó használható. A pecsétnyomó anyaga acél. A pecsétnyomó mérete 8 mm, a pecsétanyag ólom. A lenyomat homorú.
 
 ## A plomba helyét úgy kell meghatározni, hogy felbontása nélkül a készüléken illetéktelen beavatkozás, adattörlés ne legyen végrehajtható.
 
@@ -420,7 +420,7 @@
 
 ## - Euró bevezetésének időpontja (év, hó, nap).
 
-## 2.[^27] Az euró kezelésére alkalmas taxaméter adómemóriájának inicializálásakor, vagy az adóügyi modul működtető programjának cseréjekor a szerviz a rekord alapértékeként a 2030. 01. 01. dátumot adja meg és tárolja az adómemóriában. Az alapérték forint üzemmódban, lezárt adóügyi nap esetén a szerviz által, új rekord beírásával módosítható. Az euró bevezetésének kelte típusú rekord tartalmát és beírásának dátumát a taxaméternaplóban is rögzíteni kell.
+## 2.[^28] Az euró kezelésére alkalmas taxaméter adómemóriájának inicializálásakor, vagy az adóügyi modul működtető programjának cseréjekor a szerviz a rekord alapértékeként a 2030. 01. 01. dátumot adja meg és tárolja az adómemóriában. Az alapérték forint üzemmódban, lezárt adóügyi nap esetén a szerviz által, új rekord beírásával módosítható. Az euró bevezetésének kelte típusú rekord tartalmát és beírásának dátumát a taxaméternaplóban is rögzíteni kell.
 
 ## 3. Az euró kezelésére alkalmas, forint üzemmódban működő taxaméter adóügyi moduljának az adóügyi nap megnyitásakor ellenőrizni kell, hogy az aktuális dátum (év, hó, nap) kisebb-e, mint az euró bevezetésének adómemóriában rögzített időpontja. Ha
 
@@ -594,11 +594,11 @@
 
 ## A taxaméter üzembe helyezésére, szervizelésére, használatára vonatkozó további szabályok
 
-## 1.[^28] A taxaméter üzembe helyezésekor a szerviz elvégzi a taxaméter inicializálását, beszereli és az előírt helyeken leplombálja a taxamétert. Az ilyen módon előkészített berendezés a mérőeszközökre vonatkozó egyedi előírásokról szóló 43/2016. (XI. 23.) NGM rendelet szerinti megfelelőségértékelési eljárás lefolytatását követően helyezhető üzembe.
+## 1.[^29] A taxaméter üzembe helyezésekor a szerviz elvégzi a taxaméter inicializálását, beszereli és az előírt helyeken leplombálja a taxamétert. Az ilyen módon előkészített berendezés a mérőeszközökre vonatkozó egyedi előírásokról szóló 43/2016. (XI. 23.) NGM rendelet szerinti megfelelőségértékelési eljárás lefolytatását követően helyezhető üzembe.
 
 ## 2. A szerviznek az üzembe helyezéskor a B) pont Adómemória alcím 7. a) alpontja szerinti Azonosító rekordot, a B) pont Adómemória alcím 7. c) alpontja szerinti Áfa rekordot, a Fejléc rekordot és az Euró bevezetésének kelte rekordot kell a taxaméteren beállítania.
 
-## 3.[^29] A taxaméter mérésügyi hitelesítéséhez a szerviz megfelelő helyiséget és olyan vizsgálóberendezést köteles biztosítani, amely a taxaméter beépített állapotú hitelesítésére alkalmas. A vizsgálóberendezés akkor felel meg ezen követelményeknek, ha típusát a Kormányhivatal használati etalonnak minősítette.
+## 3.[^30] A taxaméter mérésügyi hitelesítéséhez a szerviz megfelelő helyiséget és olyan vizsgálóberendezést köteles biztosítani, amely a taxaméter beépített állapotú hitelesítésére alkalmas. A vizsgálóberendezés akkor felel meg ezen követelményeknek, ha típusát a Kormányhivatal használati etalonnak minősítette.
 
 ## 4. Az üzembe helyezéskor a szerviz köteles a taxaméternaplóban rögzíteni az adómemória azonosító adatait, és a taxaméter adómemóriájának induló állását.
 
@@ -616,7 +616,7 @@
 
 3. melléklet az 49/2013. (XI. 15.) NGM rendelethez
 
-## A típusvizsgálat részei
+A típusvizsgálat részei
 
 A taxaméterek típusvizsgálata különösen az alábbiakra terjed ki
 
@@ -624,7 +624,7 @@ A) Műszaki vizsgálat
 
 Biztonság
 
-[^26]: A 2. melléklet A) A taxaméterekre vonatkozó műszaki követelmények rész 4. pontja a 63/2016. (XII. 29.) NGM rendelet 14. § g) pontja szerint módosított szöveg.
-[^27]: A 2. melléklet C) Az euró kezelésére alkalmas taxaméterek alcím 2. pont b) alpont 2. pontja az 5/2019. (V. 30.) PM rendelet 4. §-a szerint módosított szöveg.
-[^28]: A 2. melléklet E) A taxaméter üzembe helyezésére, szervizelésére, használatára vonatkozó további szabályok rész 1. pontja a 63/2016. (XII. 29.) NGM rendelet 14. § h) pontja szerint módosított szöveg.
-[^29]: A 2. melléklet E) A taxaméter üzembe helyezésére, szervizelésére, használatára vonatkozó további szabályok rész 3. pontja a 63/2016. (XII. 29.) NGM rendelet 14. § g) pontja szerint módosított szöveg.
+[^27]: A 2. melléklet A) A taxaméterekre vonatkozó műszaki követelmények rész 4. pontja a 63/2016. (XII. 29.) NGM rendelet 14. § g) pontja szerint módosított szöveg.
+[^28]: A 2. melléklet C) Az euró kezelésére alkalmas taxaméterek alcím 2. pont b) alpont 2. pontja az 5/2019. (V. 30.) PM rendelet 4. §-a szerint módosított szöveg.
+[^29]: A 2. melléklet E) A taxaméter üzembe helyezésére, szervizelésére, használatára vonatkozó további szabályok rész 1. pontja a 63/2016. (XII. 29.) NGM rendelet 14. § h) pontja szerint módosított szöveg.
+[^30]: A 2. melléklet E) A taxaméter üzembe helyezésére, szervizelésére, használatára vonatkozó további szabályok rész 3. pontja a 63/2016. (XII. 29.) NGM rendelet 14. § g) pontja szerint módosított szöveg.

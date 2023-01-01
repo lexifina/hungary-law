@@ -1,5 +1,3 @@
-## Igazgatási szolgáltatási díjak
-
 |  | A | B | C |
 
 | 1. | Tételszám | Megnevezés | Díjtétel |

@@ -56,7 +56,7 @@
 
 4. melléklet az 49/2013. (XI. 15.) NGM rendelethez
 
-## A taxaméter napi funkcióinak leírása
+A taxaméter napi funkcióinak leírása
 
 |  | A | B | C |
 
@@ -78,7 +78,7 @@
 
 | 9. | Napi zárás |  | Fejléc sorok nyomtatása, GT érték növelése a napi szintű forgalmi gyűjtők összegével, „Napi forgalmi jelentés” nyomtatása, a nyomtatás ellenőrzése, „Napi forgalom rekord” adómemóriába írása, az írás ellenőrzése, napi szintű forgalmi- és km gyűjtők tartalmának ürítése, napi számlálók nullázása, zárás-számláló növelése. |
 
-A funkciókhoz tartozó általános ellenőrzési tevékenységek
+## A funkciókhoz tartozó általános ellenőrzési tevékenységek
 
 1. A funkció végrehajthatóságának ellenőrzése (lásd 7-8. melléklet).
 
