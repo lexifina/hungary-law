@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-42-00-00
 | 2022-01-17 | 2021. évi CXXXVI. törvény | 2000-42-00-00.60 |
 | 2022-05-25 | 2022. évi IV. törvény | 2000-42-00-00.61 |
 | 2022-07-28 | 2022. évi XXIV. törvény | 2000-42-00-00.62 |
+| 2023-01-01 | 2022. évi XXII. törvény | 2000-42-00-00.63 |
