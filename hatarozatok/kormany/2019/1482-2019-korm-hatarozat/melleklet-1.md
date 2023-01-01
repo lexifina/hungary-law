@@ -18,21 +18,9 @@
 
 ## 2. a természetes személyek tulajdonában lévő károsodott ingatlanok tekintetében
 
-## 2.1. elrendeli – az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva – a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 41. Az egyes Szabolcs-Szatmár-Bereg megyei településeket 2019 júniusában ért, viharos időjárás okozta lakossági károk enyhítése címmel és az 1. mellékletben meghatározott alcímekkel történő kiegészítését;
+## 2.1.[^1]
 
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## 2.2. elrendeli, az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva, 69 494 109 forint egyszeri átcsoportosítását a Kvtv. 1. melléklet IX. fejezet, 2. A helyi önkormányzatok működési célú kiegészítő támogatási cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 41. Az egyes Szabolcs-Szatmár-Bereg megyei településeket 2019 júniusában ért, viharos időjárás okozta lakossági károk enyhítése cím, 1. melléklet szerinti alcímei javára, az ott megjelölt célokra, a 2. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
+## 2.2.[^2]
 
 ## 2.3. egyetért azzal, hogy a belügyminiszter a 2.2. pont szerint átcsoportosított előirányzat terhére, az abban meghatározott támogatási célra pályázat és támogatási kérelem benyújtása nélkül, az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § hatálya alá tartozó vissza nem térítendő egyedi támogatást nyújtson az érintett önkormányzatok részére támogatási előlegként a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján, 2019. december 31-ei felhasználási határidővel;
 
@@ -42,7 +30,7 @@
 
 ## 3. az egyházi tulajdonú ingatlanok tekintetében
 
-## 3.1.[^1] felhívja a pénzügyminisztert, hogy a miniszterelnök általános helyettese és a Miniszterelnökséget vezető miniszter bevonásával gondoskodjon az egyházi ingatlanokat 2019 júniusában ért károk enyhítése érdekében szükséges – a kifizetésekhez kapcsolódó kincstári díjjal együtt – legfeljebb 181 689 652 forint rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 8. Egyházi közösségi célú programok támogatása jogcímen;
+## 3.1.[^3] felhívja a pénzügyminisztert, hogy a miniszterelnök általános helyettese és a Miniszterelnökséget vezető miniszter bevonásával gondoskodjon az egyházi ingatlanokat 2019 júniusában ért károk enyhítése érdekében szükséges – a kifizetésekhez kapcsolódó kincstári díjjal együtt – legfeljebb 181 689 652 forint rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 8. Egyházi közösségi célú programok támogatása jogcímen;
 
 ## Felelős: pénzügyminiszter
 
@@ -52,7 +40,7 @@
 
 ## Határidő: 2020. január 31.
 
-## 3.2.[^2] felhívja a miniszterelnök általános helyettesét, hogy – a Miniszterelnökséget vezető miniszter bevonásával – legfeljebb 181 598 853 forint forrás terhére adjon ki – az egyházi épületekben okozott károk helyreállításának és a védekezési költségeknek a fenntartó egyházak pénzügyi teljesítőképességét meghaladó, más forrásból meg nem térülő költségek finanszírozása érdekében – támogatói okiratot a 3. melléklet szerinti egyházi ingatlanok vonatkozásában a kedvezményezettek részére, elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében visszafizetési kötelezettség rögzítésével.
+## 3.2.[^4] felhívja a miniszterelnök általános helyettesét, hogy – a Miniszterelnökséget vezető miniszter bevonásával – legfeljebb 181 598 853 forint forrás terhére adjon ki – az egyházi épületekben okozott károk helyreállításának és a védekezési költségeknek a fenntartó egyházak pénzügyi teljesítőképességét meghaladó, más forrásból meg nem térülő költségek finanszírozása érdekében – támogatói okiratot a 3. melléklet szerinti egyházi ingatlanok vonatkozásában a kedvezményezettek részére, elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében visszafizetési kötelezettség rögzítésével.
 
 ## Felelős: a miniszterelnök általános helyettese
 
@@ -60,7 +48,10 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-1. melléklet az 1482/2019. (VIII. 1.) Korm. határozathoz
+1. melléklet az 1482/2019. (VIII. 1.) Korm. határozathoz[^5]
 
-[^1]: A 3. pont 3.1. alpontja az 1713/2019. (XII. 11.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 3. pont 3.2. alpontja az 1713/2019. (XII. 11.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: A 2. pont 2.1. alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont 2.2. alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 3. pont 3.1. alpontja az 1713/2019. (XII. 11.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 3. pont 3.2. alpontja az 1713/2019. (XII. 11.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
