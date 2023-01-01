@@ -1,3 +1,3 @@
-## 2. §[^5]
+## 2. § A 43/2010. (IV. 23.) FVM rendelet 48. §-a a következő (4) bekezdéssel egészül ki:
 
-[^5]: A 2. § a 4. § (2) bekezdése alapján 2023. január 1-jén lép hatályba.
+## „(4) A 30. § (8) bekezdése szerinti elektronikus adatszolgáltatást első alkalommal 2024. január 31-ig kell teljesíteni a 2023. naptári év vonatkozásában.”
