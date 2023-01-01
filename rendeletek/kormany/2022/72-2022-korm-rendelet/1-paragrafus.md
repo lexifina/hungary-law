@@ -1,0 +1,3 @@
+1. §[^1] Az Élelmiszermentő Központ Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: ÉMK) az élelmiszermentés során a Nemzeti Élelmiszerlánc-biztonsági Hivatallal, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatallal, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatallal mint kijelölt élelmiszerlánc-felügyeleti szervekkel (a továbbiakban: élelmiszerlánc-felügyeleti szerv) szorosan együttműködik, és szabálytalanság észlelése esetén az élelmiszerlánc-felügyeleti szervet értesíti, és az eljárását kezdeményezi.
+
+[^1]: Az 1. § a 616/2022. (XII. 29.) Korm. rendelet 322. §-a szerint módosított szöveg.
