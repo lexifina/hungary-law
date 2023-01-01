@@ -8,4 +8,4 @@
 
 (4) Magyarország részt vesz az Európai Foglalkoztatási Szolgálat (a továbbiakban: EURES) tevékenységében.
 
-(5) Foglalkoztatást elősegítő szolgáltatás – az állami foglalkoztatási szerv által nyújtott foglalkoztatást elősegítő szolgáltatás kivételével – a Gazdaságvédelmi Foglalkoztatási Alapból vagy európai uniós forrásból nyújtható.
+(5) Foglalkoztatást elősegítő szolgáltatás – az állami foglalkoztatási szerv által nyújtott foglalkoztatást elősegítő szolgáltatás kivételével – a foglalkoztatási programokkal kapcsolatos elkülönített állami pénzalapból (a továbbiakban: az Alap) vagy európai uniós forrásból nyújtható.

@@ -17,3 +17,5 @@ b) munkaügyi bírság.
 a) a három évnél korábban megkezdett jogszabálysértés a hatósági ellenőrzés megkezdésekor folyamatosan fennáll, vagy
 
 b) a közigazgatási ügyekben eljáró bíróság vagy a felügyeleti szerv a foglalkoztatás-felügyeleti hatóságot új eljárás lefolytatására kötelezte.
+
+(7) A foglalkoztatás-felügyeleti hatóság a pénzfizetési kötelezettség teljesítésére a kötelezettnek a véglegessé vált határozat illetékes adóhatóságnak történő megküldése előtt benyújtott kérelme alapján részletfizetést biztosíthat. A foglalkoztatás-felügyeleti hatóság bármely részlet megfizetésének elmulasztása esetén haladéktalanul megküldi a végleges határozatot az adóhatóságnak a hatáskörébe tartozó intézkedések megtétele céljából.

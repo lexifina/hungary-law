@@ -1,3 +1,3 @@
 ## 31. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
 
-40. §
+### 40. §
