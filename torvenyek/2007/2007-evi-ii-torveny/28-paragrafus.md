@@ -2,10 +2,34 @@
 
 (2) Az (1) bekezdésben meghatározott tartózkodási engedély érvényességi ideje legfeljebb öt év, amely alkalmanként legfeljebb öt évvel meghosszabbítható.
 
-(3)–(7)
+(3)
 
-(7a)–(7f)
+(4)
 
-(8)–(11)
+(5)
+
+(6)
+
+(7)
+
+(7a)
+
+(7b)
+
+(7c)
+
+(7d)
+
+(7e)
+
+(7f)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
 
 (12)

@@ -1,6 +1,6 @@
 86/C. § (1) Az idegenrendészeti eljárásokban – e törvény eltérő rendelkezése hiányában – az ügyféli jogutódlás kizárt.
 
-(2) A jogi személy meghívó – e törvény által meghatározott – jogai és kötelezettségei annak a polgári jog szerinti jogutódját terhelik. Természetes személy meghívó – e törvény által meghatározott – kötelezettségei a természetes személy halála esetén annak polgári jog szerinti örökösét terhelik.
+(2)
 
 (3) A közrendvédelmi bírság esetében a bírság megfizetésének kötelezettsége a természetes személy kötelezett halála esetén annak a polgári jog szerinti jogutódját, a jogi személy kötelezett esetén annak a polgári jog szerinti jogutódját terhelik.
 

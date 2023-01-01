@@ -10,7 +10,7 @@ ab) az az eljárás, amely során az idegenrendészeti hatóság hatósági elle
 
 ac) a hontalanság megállapítása iránti eljárás,
 
-ad) a meghívólevél hatósági záradékolása iránti eljárás,
+ad)
 
 ae) a közrendvédelmi bírság kiszabásával kapcsolatos eljárás;
 

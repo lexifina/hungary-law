@@ -28,17 +28,17 @@ m) a nyugdíjbiztosítási igazgatási szerv,
 
 n) a helyi önkormányzat hatósági feladatot ellátó szerve és
 
-o) az fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
+o) az fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala,
 
 p) a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez a szabálysértési, illetve az előkészítő eljárást folytató hatóságok,
 
-q) a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a büntetés-végrehajtási intézet,
+q) a befogadás során az elítélt személyazonosságának ellenőrzése, valamint az elítélttel szemben elrendelt idegenrendészeti kiutasításról történő tájékoztatás érdekében a büntetés-végrehajtási intézet,
 
 r) a Menekültügyi, a Migrációs és az Integrációs alapra, valamint a rendőrségi együttműködés, a bűnmegelőzés és a bűnözés elleni küzdelem, valamint a válságkezelés pénzügyi támogatására szolgáló eszközre vonatkozó általános rendelkezések megállapításáról szóló, 2014. április 16-i 514/2014/EU európai parlamenti és tanácsi rendelet 27. cikkéből következően, a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében a 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapból és a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználásáról szóló kormányrendeletben meghatározott Felelős Hatóság (a továbbiakban: Felelős Hatóság),
 
 s) a cégnyilvántartásban szereplő személyek személyazonosságának ellenőrzéséhez a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat
 
-t) a közúti közlekedési nyilvántartásban szereplő személy személyazonosságának ellenőrzéséhez a közúti közlekedési nyilvántartást vezető szerv
+t) a közúti közlekedési nyilvántartásban szereplő személy személyazonosságának ellenőrzéséhez, a képviseleti jogosultság ellenőrzéséhez, továbbá a közlekedési igazgatási és nyilvántartási feladatai ellátásához közvetlen hozzáférés útján a közúti közlekedési nyilvántartást vezető szerv, valamint a közlekedési igazgatási hatóság,
 
 u) az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 12., 31., 36–40., 48., 49., 51. és 52. cikkéből következően, az (EU) 2019/1896 európai parlamenti és tanácsi rendeletben meghatározott célok érdekében az Európai Határ- és Partvédelmi Ügynökség és állománya, valamint az (EU) 2019/1896 európai parlamenti és tanácsi rendelet 12., 31., 36–40., 48., 49., 51. és 52. cikke alapján felállított állomány tagja
 
@@ -52,7 +52,7 @@ részére továbbíthat adatot.
 
 (1c) Az idegenrendészeti hatóság a központi idegenrendészeti nyilvántartáshoz a Magyar igazolvány, illetve a Magyar hozzátartozói igazolvány kiadása iránti kérelmet elbíráló hatóság részére a kérelem elbírálására irányuló eljárás során a jogosultsági feltételek vizsgálatához, továbbá az igazolvány visszavonására irányuló eljárás során a visszavonási ok fennállásának vizsgálatához a kiutasításra, a beutazási és tartózkodási tilalom fennállására, valamint a bevándorolt vagy letelepedett jogállás fennállására vonatkozó adatok tekintetében közvetlen hozzáférést biztosít.
 
-(1d) Az idegenrendészeti hatóság a szociális ellátások ügyvitelét támogató rendszer útján megkeresésre adatot szolgáltat a fővárosi és megyei kormányhivatalok részére a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti pénzbeli és természetbeni szociális ellátások, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti gyermektartásdíj megelőlegezésének a jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából.
+(1d) Az idegenrendészeti hatóság a szociális ellátások ügyvitelét támogató rendszer útján megkeresésre adatot szolgáltat a fővárosi és vármegyei kormányhivatalok részére a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti pénzbeli és természetbeni szociális ellátások, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti gyermektartásdíj megelőlegezésének a jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából.
 
 (2) Az (1)–(1c) bekezdésben meghatározott adattovábbításról az idegenrendészeti hatóság adattovábbítási nyilvántartást vezet, amely tartalmazza, hogy mely szervnek, milyen célból továbbított adatokat. Az idegenrendészeti hatóság az adattovábbítási nyilvántartásban az adatokat az adat továbbításától számított öt évig kezeli.
 

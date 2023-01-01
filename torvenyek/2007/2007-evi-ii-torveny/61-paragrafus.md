@@ -36,4 +36,6 @@ d) a személyét érintő vizsgálatoknak magát alávetni, a ruházat átvizsg�
 
 e) az (5) bekezdésben meghatározott kivétellel a tartására és ellátására fordított költséget és az általa szándékosan okozott kárt megtéríteni.
 
+(4a) A (4) bekezdés d) pontja szerinti, az őrizetben lévő személyt érintő vizsgálatba beleértendő az őrizetben lévő jogszabályban meghatározott kitoloncolás feltételei körébe tartozó, a célországba történő beutazásához, illetve a tranzitországokon történő átutazásához szükséges egészségügyi vizsgálata is. Ezek a vizsgálatok kikényszeríthetőek, és a harmadik országbeli állampolgárt nem illeti meg az ellátás visszautasításának joga.
+
 (5) A harmadik országbeli állampolgárnak a tartására és ellátására fordított költséget nem kell megtérítenie, ha a menekültügyi hatóság vagy bíróság nemzetközi vagy kiegészítő védelemben részesítette, vagy befogadotti jogállást szerzett.

@@ -14,7 +14,7 @@ f) az idegenrendészeti hatóság,
 
 g) az állami adó- és vámhatóság,
 
-h) a fenti, lakcímkártyával nem rendelkező személyek tekintetében a magyarországi tartózkodási hely szerint illetékes helyi önkormányzat jegyzője, illetve az illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
+h) a fenti, lakcímkártyával nem rendelkező személyek tekintetében a magyarországi tartózkodási hely szerint illetékes helyi önkormányzat jegyzője, illetve az illetékes fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala,
 
 i) külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok,
 

@@ -26,9 +26,9 @@ b) a tartózkodás magatartási szabályait;
 
 c) ha a tartózkodási hely nem közösségi szállás vagy befogadó állomás, a hatóság előtti időszakonkénti megjelenésre való kötelezést.
 
-(2a) A (2) bekezdés b) pontjában meghatározott magatartási szabályok meghatározása során rendelkezni kell arról is, hogy a kijelölt tartózkodási helyet elrendelő határozatban meghatározott megye közigazgatási területét a harmadik országbeli állampolgár nem hagyhatja el, kivéve, ha a 29. § (1) bekezdés b), illetve e) pontja alapján kiállított humanitárius célú tartózkodási engedéllyel rendelkezik, vagy a külföldi kérelmére azt az idegenrendészeti hatóság engedélyezte.
+(2a) A (2) bekezdés b) pontjában meghatározott magatartási szabályok meghatározása során rendelkezni kell arról is, hogy a kijelölt tartózkodási helyet elrendelő határozatban meghatározott vármegye közigazgatási területét a harmadik országbeli állampolgár nem hagyhatja el, kivéve, ha a 29. § (1) bekezdés b), illetve e) pontja alapján kiállított humanitárius célú tartózkodási engedéllyel rendelkezik, vagy a külföldi kérelmére azt az idegenrendészeti hatóság engedélyezte.
 
-(3) A kötelező tartózkodási helyet közösségi szálláson vagy befogadó állomáson lehet kijelölni, ha a harmadik országbeli állampolgár magát eltartani nem képes, megfelelő lakással, anyagi fedezettel vagy jövedelemmel, eltartásra köteles meghívóval, eltartásra kötelezhető hozzátartozóval nem rendelkezik.
+(3) A kötelező tartózkodási helyet közösségi szálláson vagy befogadó állomáson lehet kijelölni, ha a harmadik országbeli állampolgár magát eltartani nem képes, megfelelő lakással, anyagi fedezettel vagy jövedelemmel, illetve tartásra kötelezhető hozzátartozóval nem rendelkezik.
 
 (3a) Tömeges bevándorlás okozta válsághelyzetben kötelező tartózkodási helyet tranzitzónában is ki lehet jelölni.
 

@@ -27,3 +27,5 @@ a) a harmadik országbeli állampolgárral szemben a beutazási és tartózkodá
 b) további fenntartása az elrendelésére okot adó körülmények jelentős megváltozására figyelemmel nem indokolt.
 
 (10) A 43. § (2) bekezdése alapján elrendelt idegenrendészeti kiutasítást, valamint a beutazási és tartózkodási tilalmat az idegenrendészeti hatóság – hivatalból – visszavonhatja, ha a kiutasítás végrehajtására a harmadik országbeli állampolgárnak nem felróható okból a kiutasítás végrehajthatóvá válásától számított tizenkét hónapig nem került sor.
+
+(11) A 43. § (2) bekezdése alapján elrendelt idegenrendészeti kiutasítást, valamint a beutazási és tartózkodási tilalmat az idegenrendészeti hatóság visszavonja, ha a kiutasított a kiutasítás elrendelését követően a magyar hatóságok döntése alapján befogadottként vagy menekültként került elismerésre, illetve ideiglenes vagy kiegészítő védelemben részesült.

@@ -12,7 +12,7 @@ d) az érvényes úti okmányok körét;
 
 e) a humanitárius célú tartózkodási engedély kiadása, meghosszabbítása és visszavonása indítványozásának, valamint az idegenrendészeti és a nemzetbiztonsági, illetve a bűnüldöző szervek együttműködésének részletes szabályait;
 
-f) a meghívólevél hatósági záradékkal történő ellátásának feltételeit és az eljárás részletes szabályait;
+f)
 
 g) a kiutasítást előkészítő, valamint az idegenrendészeti őrizet és a kötelező tartózkodási hely létesítésével, illetve kijelölésével kapcsolatos végrehajtás szabályait, továbbá az őrizetben lévő harmadik országbeli állampolgárok egészségügyi ellátásának és támogatásának részletes szabályait;
 

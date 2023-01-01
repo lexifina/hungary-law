@@ -2,7 +2,7 @@
 
 65. § (1) A visszairányítást, illetve a kiutasítást elrendelő bírósági vagy idegenrendészeti, vagy menekültügyi hatósági döntést hatósági kísérettel (a továbbiakban: kitoloncolás) kell végrehajtani, ha a harmadik országbeli állampolgár
 
-a) szándékosan elkövetett bűncselekmény miatt kiszabott szabadságvesztés büntetésből szabadult;
+a)
 
 b)
 

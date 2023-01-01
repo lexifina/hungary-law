@@ -4,7 +4,7 @@
 
 a) az a természetes személy, aki beutazása és tartózkodása engedélyezését kéri az idegenrendészeti hatóságtól,
 
-b) az a természetes vagy jogi személy, egyéb szervezet, aki (amely) külön jogszabályban meghatározott meghívólevél hatósági záradékolása iránti kérelmet terjeszt elő,
+b)
 
 c) az a természetes vagy jogi személy, egyéb szervezet, akire (amelyre) nézve az idegenrendészeti nyilvántartás adatot tartalmaz,
 

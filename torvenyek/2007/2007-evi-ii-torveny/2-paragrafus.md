@@ -32,7 +32,7 @@ j) beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés:
 
 k) munkáltató: az a természetes vagy jogi személy, jogi személyiség nélküli szervezet – a munka törvénykönyvéről szóló 2012. évi I. törvény 214. § (1) bekezdés b) pontjában meghatározott kölcsönbeadót is ideértve – amelynek javára, vagy irányítása alatt a foglalkoztatására sor kerül;
 
-l) meghívó: az a természetes vagy jogi személy, illetve jogi személyiség nélküli szervezet, aki, illetve amely hatósági hozzájárulással ellátott meghívólevélben kötelezettséget vállal arra, hogy a meghívott harmadik országbeli állampolgár részére – Magyarország területén történő tartózkodása időtartamára – szállást biztosít, eltartásáról gondoskodik, továbbá – ha nemzetközi szerződés másként nem rendelkezik – egészségügyi ellátásának, valamint kiutazásának költségeit fedezi;
+l)
 
 m) száznyolcvan napon belül kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum: a Közösségi Vízumkódex létrehozásáról (vízumkódex) szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Vízumkódex) 2. cikk 2. pontjában meghatározott engedély;
 
