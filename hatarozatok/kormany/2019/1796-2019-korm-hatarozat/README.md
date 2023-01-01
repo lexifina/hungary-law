@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1796-30
 | 2019-12-23 | 2019-1796-30-22.1 | 1796/2019. (XII. 23.) Korm. határozat |
 | 2019-12-24 | 2019-1796-30-22.2 | 2010: CXXX. törvény |
 | 2020-08-11 | 2019-1796-30-22.3 | 1498/2020. (VIII. 11.) Korm. határozat |
+| 2023-01-01 | 2019-1796-30-22.4 | 2011: CXCV. törvény |
