@@ -1,1 +1,3 @@
-3. § A Kr. 35. § (13) bekezdésében az „a 3700” szövegrész helyébe az „a 4700” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
