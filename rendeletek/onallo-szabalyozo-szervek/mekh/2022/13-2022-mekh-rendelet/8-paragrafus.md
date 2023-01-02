@@ -1,3 +1,3 @@
-8. §[^7]
+8. §[^8]
 
-[^7]: A 8. § a 17. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^8]: A 8. § a 17. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
