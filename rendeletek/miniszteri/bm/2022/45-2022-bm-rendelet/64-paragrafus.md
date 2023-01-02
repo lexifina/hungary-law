@@ -1,3 +1,5 @@
 ## 61. A belügyminiszter irányítása alatt álló fegyveres szervek hivatásos állományú tagjai szolgálati igazolványának rendszeresítéséről, kiadásának és nyilvántartásának eljárási rendjéről szóló 14/2012. (III. 30.) BM rendelet módosítása
 
-64. § A belügyminiszter irányítása alatt álló fegyveres szervek hivatásos állományú tagjai szolgálati igazolványának rendszeresítéséről, kiadásának és nyilvántartásának eljárási rendjéről szóló 14/2012. (III. 30.) BM rendelet 1. melléklet 4. pontjában foglalt táblázat C:9–C:27 mezőjében, 5. melléklet 4. pontjában foglalt táblázat C:6–C:24 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg lép.
+64. §[^65]
+
+[^65]: A 64. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

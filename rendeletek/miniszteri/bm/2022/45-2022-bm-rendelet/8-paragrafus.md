@@ -1,3 +1,5 @@
 ## 8. A betegszállításról szóló 19/1998. (VI. 3.) NM rendelet módosítása
 
-8. § A betegszállításról szóló 19/1998. (VI. 3.) NM rendelet 1. számú melléklet 4. pontjában a „megyében” szövegrész helyébe a „vármegyében” szöveg lép.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
 ## 77. A hivatásos katasztrófavédelmi szerveknél, az önkormányzati és létesítményi tűzoltóságoknál, az önkéntes tűzoltó egyesületeknél, valamint az ez irányú szakágazatokban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló 9/2015. (III. 25.) BM rendelet módosítása
 
-80. § A hivatásos katasztrófavédelmi szerveknél, az önkormányzati és létesítményi tűzoltóságoknál, az önkéntes tűzoltó egyesületeknél, valamint az ez irányú szakágazatokban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló 9/2015. (III. 25.) BM rendelet 12. § (3) bekezdésében, 3. melléklet 2.1.2.8. pontjában, 6. melléklet 2.3. pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+80. §[^81]
+
+[^81]: A 80. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

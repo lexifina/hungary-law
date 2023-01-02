@@ -1,9 +1,5 @@
 ## 48. Az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet módosítása
 
-49. § Az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet
+49. §[^50]
 
-a) 28. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 14. mellékletében a „Megye:” szövegrész helyébe a „Vármegye:” szöveg
-
-lép.
+[^50]: A 49. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

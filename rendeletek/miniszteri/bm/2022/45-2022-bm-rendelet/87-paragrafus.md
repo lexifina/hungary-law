@@ -1,3 +1,5 @@
 ## 84. Az egészségügyi szolgáltatók szakfelügyeletéről szóló 16/2019. (VII. 30.) EMMI rendelet módosítása
 
-87. § Az egészségügyi szolgáltatók szakfelügyeletéről szóló 16/2019. (VII. 30.) EMMI rendelet 3. § (1) bekezdésében, 9. § (1) bekezdés b) pontjában és 9. § (2) bekezdés b) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+87. §[^88]
+
+[^88]: A 87. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

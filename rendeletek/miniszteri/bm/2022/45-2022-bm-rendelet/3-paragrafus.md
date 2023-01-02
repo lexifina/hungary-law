@@ -1,3 +1,5 @@
 ## 3. Az árvíz- és belvízvédekezésről szóló 10/1997. (VII. 17.) KHVM rendelet módosítása
 
-3. § Az árvíz- és belvízvédekezésről szóló 10/1997. (VII. 17.) KHVM rendelet 3. § (6) bekezdés b) pontjában, 3/B. § (1) bekezdés b) pontjában, 3/B. § (2) bekezdés c) pontjában a „megyehatárt” szövegrész helyébe a „vármegyehatárt” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

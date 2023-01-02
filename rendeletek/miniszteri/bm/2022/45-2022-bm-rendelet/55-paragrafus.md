@@ -1,9 +1,5 @@
 ## 54. A tűzoltóság tűzoltási és műszaki mentési tevékenységének általános szabályairól szóló 39/2011. (XI. 15.) BM rendelet módosítása
 
-55. § A tűzoltóság tűzoltási és műszaki mentési tevékenységének általános szabályairól szóló 39/2011. (XI. 15.) BM rendelet
+55. §[^56]
 
-a) 34. § b) pontjában, 34/A. § nyitó szövegrészében, 34/A. § g) és h) pontjában, 39. § (1) bekezdésében, 48. § (4) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg,
-
-b) 56. § (3) bekezdésében a „megye” szövegrész helyébe a „vármegye” szöveg
-
-lép.
+[^56]: Az 55. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

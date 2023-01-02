@@ -1,3 +1,5 @@
 ## 44. A menekültügy szervezeti rendszeréről szóló 52/2007. (XII. 11.) IRM rendelet módosítása
 
-44. § A menekültügy szervezeti rendszeréről szóló 52/2007. (XII. 11.) IRM rendelet 1. § (2) bekezdés i) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+44. §[^45]
+
+[^45]: A 44. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
