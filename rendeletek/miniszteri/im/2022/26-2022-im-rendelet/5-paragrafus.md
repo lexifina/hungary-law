@@ -1,1 +1,3 @@
-5. § Hatályát veszti a 30/2017. (XII. 27.) IM rendelet 9. § (4) bekezdése.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

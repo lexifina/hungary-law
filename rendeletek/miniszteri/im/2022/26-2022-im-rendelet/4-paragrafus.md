@@ -1,1 +1,3 @@
-4. § A 30/2017. (XII. 27.) IM rendelet 6. § (1) bekezdésében az „összegéről értesítést állít ki” szövegrész helyébe az „összegéről a költségjegyzék lezárását követő tizenöt napon belül értesítést állít ki” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
