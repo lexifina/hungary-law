@@ -38,7 +38,7 @@ a) külön jogszabályban meghatározott követelmények figyelembevételével k
 
 b) szakmai tanácsadással és utógondozással segíti, továbbá
 
-c) folyamatosan segíti és ellenőrzi a nevelési díj, az ellátmány és a családi pótlék felhasználásában, a szakmai tevékenysége ellátásában.
+c) folyamatosan segíti és ellenőrzi a nevelési ellátmány és a családi pótlék felhasználásában, a szakmai tevékenysége ellátásában.
 
 d)
 

@@ -22,9 +22,9 @@ a) külön jogszabályban meghatározott szakmai követelmények figyelembevéte
 
 b) tevékenységükben folyamatos szakmai tanácsadással segíti, továbbá
 
-c) folyamatosan ellenőrzi a nevelési díj és a külön ellátmány felhasználásában, a szakmai tevékenységük ellátásában.
+c) folyamatosan ellenőrzi a nevelési ellátmány felhasználásában, a szakmai tevékenységük ellátásában.
 
-(5) A helyettes szülőt a gyermek ellátására az 56. § szerinti nevelési díj és külön ellátmány illeti meg.
+(5) A helyettes szülőt a gyermek ellátására az 56. § szerinti nevelési ellátmány illeti meg.
 
 (6) Indokolt esetben, így különösen testvérek együttes elhelyezésénél, a helyettes szülő kérelmére vagy beleegyezésével a (3) bekezdésben meghatározott gyermeklétszámtól – a gyermek érdekében – el lehet térni.
 
