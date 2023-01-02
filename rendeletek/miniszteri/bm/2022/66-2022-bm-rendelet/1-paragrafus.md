@@ -1,9 +1,3 @@
-1. § A Rendőrség nyomozó hatóságainak hatásköréről és illetékességéről szóló 25/2013. (VI. 24.) BM rendelet
+1. §[^2]
 
-a) 1. melléklete az 1. melléklet,
-
-b) 2. melléklete a 2. melléklet,
-
-c) 3. melléklete a 3. melléklet
-
-szerint módosul.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
