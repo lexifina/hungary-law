@@ -1,7 +1,3 @@
-6. § Az R.
+6. §[^7]
 
-a) 28. § (1) bekezdés d) pontjában a „határon túli” szövegrész helyébe a „külhoni” szöveg,
-
-b) 30. § (4) bekezdésében a „miniszter” szövegrész helyébe a „köznevelésért felelős miniszter” szöveg és a „8” szövegrész helyébe a „hat” szöveg
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

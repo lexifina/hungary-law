@@ -1,1 +1,3 @@
-5. § Az R. az 1. melléklet szerinti 6. melléklettel egészül ki.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

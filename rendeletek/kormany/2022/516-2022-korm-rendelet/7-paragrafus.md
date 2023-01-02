@@ -1,5 +1,3 @@
-7. § Hatályát veszti az R.
+7. §[^8]
 
-a) 28. § (2)–(4) bekezdése, valamint
-
-b) 30. § (3) bekezdése.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
