@@ -1,1 +1,3 @@
-1. § A kedvtelésből tartott állatok nem kereskedelmi célú szállításának állategészségügyi feltételeiről szóló 21/2015. (IV. 30.) FM rendelet 5. § (6) bekezdésében a „Megyei” szövegrészek helyébe a „Vármegyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
