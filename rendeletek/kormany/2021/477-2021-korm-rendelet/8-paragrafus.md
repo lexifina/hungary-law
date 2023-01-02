@@ -1,1 +1,3 @@
-## 7. § Hatályát veszti a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet 3. melléklet 63. pontja.
+## 7. §[^9]
+
+[^9]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
