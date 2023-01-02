@@ -1,1 +1,3 @@
-19. § Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 20. § (2) bekezdésében a „használatba vett tárgyi eszközöket” szövegrész helyébe a „használatba vett immateriális javakat, tárgyi eszközöket” szöveg lép.
+19. §[^20]
+
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
