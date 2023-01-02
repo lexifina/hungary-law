@@ -1,9 +1,3 @@
-2. melléklet a 8/2022. (XII. 28.) KIM rendelethez
+2. melléklet a 8/2022. (XII. 28.) KIM rendelethez[^6]
 
-Az R. 2. melléklet 3. pont 3.2. alpontja a következő 3.2.8. ponttal egészül ki:
-
-(Kiemelt minősítésű zeneművészeti szervezet:
-
-Önkormányzattal közszolgáltatási szerződést kötött kiemelt zeneművészeti szervezet:)
-
-„3.2.8. Magyar Élőzene Művészeti Nonprofit Kft. – Duna Szimfonikus Zenekar (Budapest)”
+[^6]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

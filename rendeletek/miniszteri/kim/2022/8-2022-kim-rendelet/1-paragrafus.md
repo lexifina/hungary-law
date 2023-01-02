@@ -1,1 +1,3 @@
-1. § A minősített előadó-művészeti szervezetek körének meghatározásáról szóló 5/2012. (VI. 15.) EMMI rendelet (a továbbiakban: R.) 1. melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

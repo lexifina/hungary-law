@@ -1,1 +1,3 @@
-3. § Hatályát veszti az R. 2. melléklet 2. pont 2.1. alpont 2.1.5. pontja.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
