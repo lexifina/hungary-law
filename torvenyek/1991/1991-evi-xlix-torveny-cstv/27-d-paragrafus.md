@@ -34,10 +34,16 @@ b) a környezeti teherrel érintett ingatlanok értékesíthetőségével kapcso
 
 (15) A Hatóság a felszámolóbiztos, a vagyonfelügyelő, az ideiglenes vagyonfelügyelő és a rendkívüli vagyonfelügyelő (e § alkalmazásában a továbbiakban együtt: fizetésképtelenségi szakértő) részére e minőségének igazolására fizetésképtelenségi szakértői igazolványt állít ki. A fizetésképtelenségi szakértői igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát a Hatóság elnöke rendeletben állapítja meg. A fizetésképtelenségi szakértő az igazolványát a névjegyzékbe történő bejegyzése után veheti át.
 
-(16) A fizetésképtelenségi szakértői igazolvány az alábbi személyes adatokat tartalmazza:
+(16) A fizetésképtelenségi szakértői igazolvány a következő személyes adatokat tartalmazza:
 
-a) a fizetésképtelenségi szakértő nevét, arcképét,
+a) a fizetésképtelenségi szakértő nevét, arcképmását, a 27/C. § (4) bekezdés f) pont fd) alpontja szerinti nyilvántartási számát,
 
-b) a fizetésképtelenségi szakértőt foglalkoztató felszámoló vagy felszámolók székhelyét,
+b) a fizetésképtelenségi szakértőt foglalkoztató felszámoló vagy felszámolók nevét és székhelyét,
 
-c) az igazolvány okmányazonosítóját.
+c) az igazolvány okmányazonosítóját és érvényességi ideje lejártának időpontját.
+
+(17) A Hatóság a fizetésképtelenségi szakértői igazolvány kiállításához a (16) bekezdés szerinti személyes adatokat az igazolvány megszemélyesítése céljából az igazolvány megszemélyesítését végző szervezet részére átadhatja, aki azokat az igazolvány megszemélyesítéséig kezeli.
+
+(18) A Hatóság a fizetésképtelenségi szakértői igazolványokról nyilvántartást vezet, amely a (16) bekezdés a) és c) pontja szerinti személyes adatokat tartalmazza.
+
+(19) Ha a fizetésképtelenségi szakértői igazolvány elveszett, eltulajdonították vagy megsemmisült, a Hatóság intézkedik az igazolvány okmányazonosítójának és az érvénytelenség tényének a Hivatalos Értesítőben történő közzététele iránt.
