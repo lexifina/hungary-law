@@ -1,3 +1,3 @@
-1. § Az igazságügyi szakértői igazolványról szóló 19/2006. (IV. 24.) IM rendelet 8. § a) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(A miniszter)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
