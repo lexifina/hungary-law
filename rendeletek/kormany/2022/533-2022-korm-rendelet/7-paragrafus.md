@@ -1,9 +1,5 @@
 ## 6. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet módosítása
 
-7. § Hatályát veszti a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet
+7. §[^8]
 
-a) 48. § (8) bekezdésében az „és a minisztérium hivatalos lapjában közzé kell tenni” szövegrész,
-
-b) 68. § (3) bekezdése,
-
-c) 68. § (10) bekezdése.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

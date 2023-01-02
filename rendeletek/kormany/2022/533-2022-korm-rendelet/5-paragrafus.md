@@ -1,3 +1,5 @@
 ## 4. A Klebelsberg Képzési Ösztöndíjról szóló 52/2013. (II. 25.) Korm. rendelet módosítása
 
-5. § Hatályát veszti a Klebelsberg Képzési Ösztöndíjról szóló 52/2013. (II. 25.) Korm. rendelet 7. § (5) bekezdésében az „és a miniszter által vezetett minisztérium hivatalos lapjában” szövegrész.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
