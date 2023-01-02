@@ -1,1 +1,3 @@
-1. § A belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati, fegyverzeti, kényszerítőeszköz- és világítástechnikai felszereléséről szóló 14/2016. (V. 10.) BM rendelet 2. melléklet 7. pont b) alpont bg) pontjában a „Karmelita Őrség” szövegrész helyébe a „Karmelita Őrségi” szöveg és a „Köztársasági Elnöki Őrség Objektumvédelmi” szövegrész helyébe az „a Sándor-palota Őrségi” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
