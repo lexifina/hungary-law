@@ -1,3 +1,1 @@
-47. § A Ht. 69. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Ha a járulékfizetésre kötelezett a bejelentési, a nyilvántartási, az adatszolgáltatási, valamint a hulladéklerakási járulék- és pótlékbefizetési kötelezettségének nem tesz eleget, az adózás rendjéről szóló törvényt, valamint az adóigazgatási rendtartásról szóló törvényt kell alkalmazni azzal az eltéréssel, hogy ahol a törvény adóhatóságot említ, azon hulladékgazdálkodási hatóságot kell érteni. Az adózás rendjéről szóló törvény, valamint az adóról és az adóigazgatási eljárásról szóló törvény alkalmazásakor a hulladékgazdálkodási hatóság eljárása adóigazgatási eljárásnak minősül.”
+### 47. §
