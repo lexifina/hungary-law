@@ -1,1 +1,3 @@
-1. § A géntechnológiával módosított, a hagyományos, valamint az ökológiai gazdálkodással termesztett növények egymás mellett folytatott termesztéséről szóló 86/2006. (XII. 23.) FVM rendelet 9. §-ában a „megyeszékhely szerinti járási hivatal ellenőrzik” szövegrész helyébe a „vármegyei kormányhivatal ellenőrzi” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
