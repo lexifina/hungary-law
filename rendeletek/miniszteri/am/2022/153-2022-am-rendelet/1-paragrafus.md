@@ -1,1 +1,3 @@
-1. § A haszongalamb vásárlásához nyújtott csekély összegű támogatásról szóló 39/2019. (VIII. 23.) AM rendelet 4. § d) pontjában és 5. § (3) bekezdés d) pont nyitó szövegrészében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
