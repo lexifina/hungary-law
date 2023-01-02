@@ -1,1 +1,3 @@
-3. § Hatályát veszti az R1. 7. § (1) bekezdés a) pontjában az „és nem hiteles” szövegrész.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

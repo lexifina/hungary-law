@@ -1,3 +1,3 @@
-1. § A számítógépes ingatlan-nyilvántartási rendszerből lekérdezés útján szolgáltatható egyes ingatlan-nyilvántartási adatok szolgáltatásáról és igazgatási szolgáltatási díjáról, valamint az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának megállapításáról és a díjak megfizetésének részletes szabályairól szóló 176/2009. (XII. 28.) FVM rendelet (a továbbiakban: R1.) 17. §-a a következő (6) bekezdéssel egészül ki:
+1. §[^2]
 
-„(6) E rendeletnek a számítógépes ingatlan-nyilvántartási rendszerből lekérdezés útján szolgáltatható egyes ingatlan-nyilvántartási adatok szolgáltatásáról és igazgatási szolgáltatási díjáról, valamint az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának megállapításáról és a díjak megfizetésének részletes szabályairól szóló 176/2009. (XII. 28.) FVM rendelet módosításáról szóló 24/2022. (XII. 28.) MvM rendelet (a továbbiakban: Mr3.) 2. §-ával módosított 2. § (2) bekezdését és 7. § (3) bekezdését az Mr3. hatálybalépésekor még nem teljesített díjátutalásokra is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
