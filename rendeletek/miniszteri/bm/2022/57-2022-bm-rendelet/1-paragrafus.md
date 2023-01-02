@@ -1,7 +1,3 @@
-1. § A vízi közlekedés rendőrhatósági igazgatásáról szóló 13/1996. (VI. 28.) BM rendelet
+1. §[^2]
 
-a) 2. § f) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 14. § (1) bekezdésében a „Megyei” szövegrészek helyébe a „Vármegyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
