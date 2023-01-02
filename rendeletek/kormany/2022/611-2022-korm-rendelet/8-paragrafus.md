@@ -1,7 +1,3 @@
-8. § A Korm. rendelet
+8. §[^9]
 
-a) 1. melléklete helyébe az 1. melléklet,
-
-b) 2. melléklete helyébe a 2. melléklet
-
-lép.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

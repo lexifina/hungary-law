@@ -1,3 +1,3 @@
-6. § A Korm. rendelet 15. § (4) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(4) A Hivatal a (3) bekezdés a) pontja szerinti döntéshez jogosult meghatározni a hozzájárulás feltételeit, ideértve azt is, ha a szponzoráció megvalósítását követően beszerzési vagy rendkívüli beszerzési igény előterjesztése szükséges.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
