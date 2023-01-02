@@ -1,5 +1,1 @@
-8. § A Vtv. 28/A. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) Az MNV Zrt. a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek elhelyezését állami elhelyezési célú ingatlanokban biztosítja. Az állami elhelyezési célú ingatlanok üzemeltetéséről, továbbá az MNV Zrt. tulajdonosi joggyakorlása alatt álló állami elhelyezési célú ingatlanok állagának megóvásáról, karbantartásáról, beruházásainak és felújításainak előkészítéséről, illetve megvalósításáról – a központi költségvetés terhére – az MNV Zrt. gondoskodik.
-
-(2) Az MNV Zrt. az (1) bekezdés szerinti költségvetési szervek elhelyezése érdekében egyoldalú nyilatkozatával – az (1) bekezdés szerinti költségvetési szervek igényének kielégítésére alkalmas, az MNV Zrt. által megfelelőnek ítélt ingatlanra vonatkozóan – állami elhelyezési célú ingatlanhasználati jogviszonyt létesít, amely jogviszony nem minősül az Nvtv. 3. § (1) bekezdés 4. pontja szerinti hasznosításnak. Az MNV Zrt. az elhelyezésről kijelölő okiratot állít ki, amely alapján az (1) bekezdés szerinti költségvetési szerv köteles az MNV Zrt. által választott, a kijelölő okiratban számára megjelölt ingatlant az abban megjelölt határidőben birtokba venni.”
+### 8. §
