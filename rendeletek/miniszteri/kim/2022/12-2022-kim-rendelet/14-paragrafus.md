@@ -1,1 +1,3 @@
-14. § A 48/2020. (XII. 23.) EMMI rendelet 1. §-ában, 2. § (1) bekezdés nyitó szövegrészében és 2. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+14. §[^15]
+
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

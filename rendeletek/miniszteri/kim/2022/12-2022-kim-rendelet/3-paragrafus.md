@@ -1,3 +1,5 @@
 ## 3. A könyvtári szakfelügyeletről szóló 14/2001. (VII. 5.) NKÖM rendelet módosítása
 
-3. § A könyvtári szakfelügyeletről szóló 14/2001. (VII. 5.) NKÖM rendelet 2. § (3) bekezdés c) és e) pontjában, valamint 7. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
