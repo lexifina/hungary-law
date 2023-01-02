@@ -1,1 +1,3 @@
-10. § Hatályát veszti a „Minősített Közművelődési Intézmény Cím” és a „Közművelődési Minőség Díj” adományozásáról szóló 10/2010. (III. 11.) OKM rendelet.
+10. §[^1]
+
+[^1]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
