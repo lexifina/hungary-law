@@ -1,1 +1,3 @@
-1. § Az állati hulla elszállítási és ártalmatlanítási költségeinek támogatásáról szóló 56/2008. (IV. 25.) FVM rendelet 1. § j) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
