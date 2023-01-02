@@ -1,1 +1,3 @@
-1. § A légi közlekedés védelme érdekében ellenőrzés alá vonható munkavállalók köréről szóló 50/2003. (XII. 18.) BM rendelet 4. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
