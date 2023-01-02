@@ -1,5 +1,3 @@
-8. § Hatályát veszti
+8. §[^1]
 
-a) a gyermek születése esetén az apát megillető pótszabadság igénybevételéről és a pótszabadsággal összefüggő költségek megtérítéséről szóló 350/2014. (XII. 29.) Korm. rendelet,
-
-b) a gyermek születése esetén az apát megillető pótszabadság közszférában történő igénybevételéről szóló 351/2014. (XII. 29.) Korm. rendelet.
+[^1]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
