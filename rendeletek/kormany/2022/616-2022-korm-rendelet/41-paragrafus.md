@@ -1,1 +1,3 @@
-41. § Hatályát veszti a 12/2001. (I. 31.) Korm. rendelet 1. § (4) bekezdés 18. pontjában az „(a továbbiakban: kormányhivatal)” szövegrész.
+41. §[^42]
+
+[^42]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

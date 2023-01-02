@@ -1,3 +1,5 @@
 ## 261. A faanyag kereskedelmi lánc felügyeletével kapcsolatos eljárás, bejelentés, adatszolgáltatás, nyilvántartás és ellenőrzés részletes szabályairól szóló 414/2017. (XII. 18.) Korm. rendelet módosítása
 
-267. § A faanyag kereskedelmi lánc felügyeletével kapcsolatos eljárás, bejelentés, adatszolgáltatás, nyilvántartás és ellenőrzés részletes szabályairól szóló 414/2017. (XII. 18.) Korm. rendelet 10. § (3) bekezdés b) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+267. §[^268]
+
+[^268]: A 267. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

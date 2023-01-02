@@ -1,1 +1,3 @@
-243. § Hatályát veszti a földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 383/2016. (XII. 2.) Korm. rendelet 42. § (3) bekezdése.
+243. §[^244]
+
+[^244]: A 243. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

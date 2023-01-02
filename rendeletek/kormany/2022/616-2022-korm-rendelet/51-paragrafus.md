@@ -1,3 +1,5 @@
 ## 48. A nukleáris és radiológiai veszélyhelyzet esetén végzett lakossági tájékoztatás rendjéről szóló 165/2003. (X. 18.) Korm. rendelet módosítása
 
-51. § A nukleáris és radiológiai veszélyhelyzet esetén végzett lakossági tájékoztatás rendjéről szóló 165/2003. (X. 18.) Korm. rendelet 3. § (1) bekezdés c) pontjában, 4. § e) pontjában, 7. § (2) bekezdés b) pontjában és 1. melléklet 4. pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+51. §[^52]
+
+[^52]: Az 51. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

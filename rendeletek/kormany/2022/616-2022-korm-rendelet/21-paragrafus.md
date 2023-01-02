@@ -1,3 +1,5 @@
 ## 21. Az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet módosítása
 
-21. § Az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet 10. § (2) bekezdésében és 18/B. § (4) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+21. §[^22]
+
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

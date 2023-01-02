@@ -1,9 +1,5 @@
 ## 107. Az egészségügyi államigazgatási szerv eljárásában kiszabott egészségügyi bírság megfizetésének részletes szabályairól szóló 79/2010. (III. 25.) Korm. rendelet módosítása
 
-110. § Az egészségügyi államigazgatási szerv eljárásában kiszabott egészségügyi bírság megfizetésének részletes szabályairól szóló 79/2010. (III. 25.) Korm. rendelet
+110. §[^111]
 
-a) 1. § (1) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg,
-
-b) 1/A. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg
-
-lép.
+[^111]: A 110. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

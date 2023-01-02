@@ -1,3 +1,5 @@
 ## 184. A mező- és erdőgazdasági hasznosítású földek végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás keretében árverés útján történő értékesítésének szabályairól szóló 191/2014. (VII. 31.) Korm. rendelet módosítása
 
-187. § A mező- és erdőgazdasági hasznosítású földek végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás keretében árverés útján történő értékesítésének szabályairól szóló 191/2014. (VII. 31.) Korm. rendelet 1. § (1) bekezdésében, 3. § e) pontjában, 5. § (4) bekezdés d) pontjában, 12. § (2) bekezdésében és 13. § (1) bekezdés c) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+187. §[^188]
+
+[^188]: A 187. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

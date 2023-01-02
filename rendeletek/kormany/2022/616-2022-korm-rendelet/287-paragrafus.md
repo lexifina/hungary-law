@@ -1,1 +1,3 @@
-287. § Hatályát veszti a 68/2018. (IV. 9.) Korm. rendelet 3. § (2) bekezdésében, valamint 10. § (1) és (7) bekezdésében a „fővárosi és megyei” szövegrész.
+287. §[^288]
+
+[^288]: A 287. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

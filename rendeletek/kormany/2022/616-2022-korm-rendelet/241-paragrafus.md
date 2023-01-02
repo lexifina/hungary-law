@@ -1,3 +1,5 @@
 ## 236. A közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet módosítása
 
-241. § A közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet 1. § (1) bekezdésében, 2. § (1) bekezdés b) és c) pontjában, 2. § (2) bekezdés 11. pontjában, 2. § (3) bekezdés nyitó szövegrészében, 2. § (4) bekezdés nyitó szövegrészében, 4. § (1) bekezdés d) pontjában, 4. § (4) bekezdés nyitó szövegrészében, 12. § (1) bekezdés b) és c) pontjában, 16. § (1) bekezdésében, 1. melléklet 2. pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+241. §[^242]
+
+[^242]: A 241. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

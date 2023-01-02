@@ -1,11 +1,5 @@
 ## 76. A cirkuszi menazséria létesítése és működtetése engedélyezésének, valamint fenntartásának részletes szabályairól szóló 222/2007. (VIII. 29.) Korm. rendelet módosítása
 
-79. § A cirkuszi menazséria létesítése és működtetése engedélyezésének, valamint fenntartásának részletes szabályairól szóló 222/2007. (VIII. 29.) Korm. rendelet
+79. §[^80]
 
-a) 3. § (2) bekezdésében és 3. § (8) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 3. § (8) bekezdésében az „a vidékfejlesztési miniszter” szövegrész helyébe az „az élelmiszerlánc-felügyeletért felelős miniszter (a továbbiakban: miniszter)” szöveg,
-
-c) 4. § (1) bekezdésében a „földművelésügyi és vidékfejlesztési miniszter” szövegrész helyébe a „miniszter” szöveg
-
-lép.
+[^80]: A 79. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

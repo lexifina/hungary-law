@@ -1,9 +1,5 @@
 ## 285. A babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet módosítása
 
-292. § A babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet
+292. §[^293]
 
-a) 3. § (1) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei”, és a „megye” szövegrész helyébe a „vármegye” szöveg,
-
-b) 5. § (5) bekezdés d) pontjában, valamint 5. § (7) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg
-
-lép.
+[^293]: A 292. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

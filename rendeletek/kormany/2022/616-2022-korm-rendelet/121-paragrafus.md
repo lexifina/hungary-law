@@ -1,3 +1,5 @@
 ## 118. A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozásának biztosításáról szóló 38/2011. (III. 22.) Korm. rendelet módosítása
 
-121. § A nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozásának biztosításáról szóló 38/2011. (III. 22.) Korm. rendelet 1. mellékletében foglalt táblázat B:8 és B:11 mezőjében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+121. §[^122]
+
+[^122]: A 121. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

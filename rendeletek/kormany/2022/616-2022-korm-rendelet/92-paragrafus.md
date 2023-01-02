@@ -1,3 +1,5 @@
 ## 89. A közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegéről, felhasználásának rendjéről és az ellenőrzésben történő közreműködés feltételeiről szóló 410/2007. (XII. 29.) Korm. rendelet módosítása
 
-92. § A közigazgatási bírsággal sújtandó közlekedési szabályszegések köréről, az e tevékenységekre vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegéről, felhasználásának rendjéről és az ellenőrzésben történő közreműködés feltételeiről szóló 410/2007. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pont aa) és ab) alpontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg, a „megye” szövegrészek helyébe a „vármegye” szöveg lép.
+92. §[^93]
+
+[^93]: A 92. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

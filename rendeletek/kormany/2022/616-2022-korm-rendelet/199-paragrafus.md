@@ -1,9 +1,5 @@
 ## 195. A hulladékká vált gépjárművekről szóló 369/2014. (XII. 30.) Korm. rendelet módosítása
 
-199. § A hulladékká vált gépjárművekről szóló 369/2014. (XII. 30.) Korm. rendelet
+199. §[^200]
 
-a) 4. § (7) bekezdésében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg,
-
-b) 20. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg
-
-lép.
+[^200]: A 199. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

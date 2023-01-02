@@ -1,9 +1,5 @@
 ## 301. Az Országos Kórházi Főigazgatóság feladatairól szóló 516/2020. (XI. 25.) Korm. rendelet módosítása
 
-308. § Az Országos Kórházi Főigazgatóság feladatairól szóló 516/2020. (XI. 25.) Korm. rendelet
+308. §[^309]
 
-a) 4. § nyitó szövegrészében és 4. § c)–i) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 4. § a), j) pontjában a „megyei” szövegrészek helyébe a „vármegyei” szöveg
-
-lép.
+[^309]: A 308. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

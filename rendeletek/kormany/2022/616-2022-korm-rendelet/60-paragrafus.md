@@ -1,9 +1,5 @@
 ## 57. A távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló 157/2005. (VIII. 15.) Korm. rendelet módosítása
 
-60. § A távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló 157/2005. (VIII. 15.) Korm. rendelet
+60. §[^61]
 
-a) 8. § (6) bekezdésében, 13. § (1) és (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 10. § (3) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg
-
-lép.
+[^61]: A 60. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

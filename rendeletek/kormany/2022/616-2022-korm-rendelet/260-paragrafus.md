@@ -1,9 +1,5 @@
 ## 254. A villanyszerelők bejelentéséről és nyilvántartásáról szóló 219/2017. (VII. 31.) Korm. rendelet módosítása
 
-260. § A villanyszerelők bejelentéséről és nyilvántartásáról szóló 219/2017. (VII. 31.) Korm. rendelet
+260. §[^261]
 
-a) 2. § (5) bekezdésében a „megyénkénti” szövegrész helyébe a „vármegyénkénti” szöveg,
-
-b) 1. mellékletében a „megye” szövegrész helyébe a „vármegye” szöveg
-
-lép.
+[^261]: A 260. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

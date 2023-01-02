@@ -1,3 +1,5 @@
 ## 130. A Nemzeti Jogszabálytárról szóló 338/2011. (XII. 29.) Korm. rendelet módosítása
 
-133. § A Nemzeti Jogszabálytárról szóló 338/2011. (XII. 29.) Korm. rendelet 8/A. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+133. §[^134]
+
+[^134]: A 133. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

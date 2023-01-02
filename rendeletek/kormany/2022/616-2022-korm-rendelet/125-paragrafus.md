@@ -1,3 +1,5 @@
 ## 122. A polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet módosítása
 
-125. § A polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet 79. § (1) bekezdés a) pontjában, 84. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+125. §[^126]
+
+[^126]: A 125. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

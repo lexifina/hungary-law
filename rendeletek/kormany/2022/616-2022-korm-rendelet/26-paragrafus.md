@@ -1,3 +1,5 @@
 ## 25. A gyámhatóságok, a területi gyermekvédelmi szakszolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló 235/1997. (XII. 17.) Korm. rendelet módosítása
 
-26. § A gyámhatóságok, a területi gyermekvédelmi szakszolgálatok, a gyermekjóléti szolgálatok és a személyes gondoskodást nyújtó szervek és személyek által kezelt személyes adatokról szóló 235/1997. (XII. 17.) Korm. rendelet 5. §-ában, 11/O. § (3) bekezdés d) pontjában, 11/P. § (2) bekezdés a) és b) pontjában, 11/P. § (21) bekezdésében, valamint 11/Q. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+26. §[^27]
+
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

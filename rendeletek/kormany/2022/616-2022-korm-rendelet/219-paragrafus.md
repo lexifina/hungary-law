@@ -1,9 +1,5 @@
 ## 214. Az egészségügyi létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 246/2015. (IX. 8.) Korm. rendelet módosítása
 
-219. § Az egészségügyi létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 246/2015. (IX. 8.) Korm. rendelet
+219. §[^220]
 
-a) 5. §-ában, 11. § (1) bekezdés b) pontjában a „megyére” szövegrész helyébe a „vármegyére” szöveg,
-
-b) 15. § a) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg
-
-lép.
+[^220]: A 219. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
 ## 87. A földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet módosítása
 
-90. § A földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet 2. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+90. §[^91]
+
+[^91]: A 90. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

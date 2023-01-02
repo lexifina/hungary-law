@@ -1,9 +1,5 @@
 ## 152. Az állatkísérletekről szóló 40/2013. (II. 14.) Korm. rendelet módosítása
 
-155. § Az állatkísérletekről szóló 40/2013. (II. 14.) Korm. rendelet
+155. §[^156]
 
-a) 3. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 11. § (4) bekezdésében a „Megyei” szövegrészek helyébe a „Vármegyei” szöveg
-
-lép.
+[^156]: A 155. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

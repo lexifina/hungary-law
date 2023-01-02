@@ -1,3 +1,5 @@
 ## 302. A gyermeket nevelő családok otthonfelújítási támogatásáról szóló 518/2020. (XI. 25.) Korm. rendelet módosítása
 
-309. § A gyermeket nevelő családok otthonfelújítási támogatásáról szóló 518/2020. (XI. 25.) Korm. rendelet 13. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+309. §[^310]
+
+[^310]: A 309. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

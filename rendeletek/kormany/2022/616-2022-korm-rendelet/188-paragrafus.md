@@ -1,21 +1,5 @@
 ## 185. A vízügyi igazgatási és a vízügyi, valamint a vízvédelmi hatósági feladatokat ellátó szervek kijelöléséről szóló 223/2014. (IX.4.) Korm. rendelet módosítása
 
-188. § A vízügyi igazgatási és a vízügyi, valamint a vízvédelmi hatósági feladatokat ellátó szervek kijelöléséről szóló 223/2014. (IX. 4.) Korm. rendelet
+188. §[^189]
 
-a) 3. § (4) bekezdés b) pontjában, 7. § (7) bekezdésében a „megyére” szövegrész helyébe a „vármegyére” szöveg,
-
-b) 10. § (1) bekezdés 1. és 3–12. pontjában, 2. melléklet 1. és 3–12. alcím címében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg,
-
-c) 17. § (3) bekezdésében a „Megyei” szövegrészek helyébe a „Vármegyei” szöveg,
-
-d) 1. melléklet 1. alcím A) pont a) és b) alpontjában, 1. melléklet 1. alcím C) pontjában, 1. melléklet 2. alcím A) pont b) és c) alpontjában, 1. melléklet 2. alcím C) pontjában, 1. melléklet 3. alcím A) pont a) alpontjában, 1. melléklet 3. alcím C) pontjában, 1. melléklet 4. alcím A) pont a), b) és c) alpontjában, 1. melléklet 4. alcím C) pontjában, 1. melléklet 5. alcím A) pont b) és c) alpontjában, 1. melléklet 5. alcím C) pontjában, 1. melléklet 6. alcím A) pont a) és b) alpontjában, 1. melléklet 7. alcím A) pont a) alpontjában, 1. melléklet 7. alcím C) pontjában, 1. melléklet 8. alcím A) pont a) és c) alpontjában, 1. melléklet 8. alcím C) pontjában, 1. melléklet 9. alcím A) pont a) alpontjában, 1. melléklet 9. alcím C) pontjában, 1. melléklet 10. alcím A) pont a) alpontjában, 1. melléklet 10. alcím C) pontjában, 1. melléklet 11. alcím A) pont a) alpontjában, 1. melléklet 11. alcím C) pontjában, 1. melléklet 12. alcím A) pont a) alpontjában, 2. melléklet 1. alcím a) és b) pontjában, 2. melléklet 2. alcím b) és c) pontjában, 2. melléklet 3. alcím a) pontjában, 2. melléklet 4. alcím a)–c) pontjában, 2. melléklet 5. alcím a) és b) pontjában, 2. melléklet 6. alcím a) és b) pontjában, 2. melléklet 7. alcím a) pontjában, 2. melléklet 8. alcím a) és c) pontjában, 2. melléklet 9. alcím a) pontjában, 2. melléklet 10. alcím a) pontjában, 2. melléklet 11. alcím a) pontjában, valamint 2. melléklet 12. alcím a) pontjában a „megye” szövegrész helyébe a „vármegye” szöveg,
-
-e) 1. melléklet 1. alcím A) pont c) és d) alpontjában, 1. melléklet 2. alcím A) pont d) alpontjában, 1. melléklet 3. alcím A) pont b) és c) alpontjában, 1. melléklet 4. alcím A) pont d)–j) alpontjában, 1. melléklet 5. alcím A) pont d) alpontjában, 1. melléklet 5. alcím B) pont c) alpontjában, 1. melléklet 6. alcím A) pont c)–e) alpontjában, 1. melléklet 6. alcím B) pont c) alpontjában, 1. melléklet 7. alcím A) pont b) és c) alpontjában, 1. melléklet 7. alcím B) pont c) alpontjában, 1. melléklet 8. alcím A) pont b), d) és e) alpontjában, 1. melléklet 9. alcím A) pont b)–e) alpontjában, 1. melléklet 10. alcím A) pont b)–g) alpontjában, 1. melléklet 11. alcím A) pont b)–d) alpontjában, 1. melléklet 11. alcím B) pont c) alpontban, 1. melléklet 12. alcím A) pont b) és c) alpontjában, 2. melléklet 1. alcím c) és d) pontjában, 2. melléklet 2. alcím d) pontjában, 2. melléklet 3. alcím b) és c) pontjában, 2. melléklet 4. alcím d)–j) pontjában, 2. melléklet 5. alcím c) pontjában, 2. melléklet 6. alcím c)–e) pontjában, 2. melléklet 7. alcím b) és c) pontjában, 2. melléklet 8. alcím b), d) és e) pontjában, 2. melléklet 9. alcím b)–e) pontjában, 2. melléklet 10. alcím b)–g) pontjában, 2. melléklet 11. alcím b)–d) pontjában, valamint 2. melléklet 12. alcím b) és c) pontjában a „megyéből” szövegrész helyébe a „vármegyéből” szöveg,
-
-f) 1. melléklet 1. alcím B) pont c) alpontjában, 1. melléklet 2. alcím B) pont c) alpontjában, 1. melléklet 3. alcím B) pont c) alpontjában, 1. melléklet 4. alcím B) pont c) alpontjában, 1. melléklet 8. alcím B) pont c) alpontjában, 1. melléklet 9. alcím B) pont c) alpontjában, valamint 1. melléklet 10. alcím B) pont c) alpontjában a „megyében” szövegrészek helyébe a „vármegyében” szöveg,
-
-g) 1. melléklet 1. alcím B) pont c) alpontjában a „megyéből” szövegrészek helyébe a „vármegyéből” szöveg,
-
-h) 1. melléklet 2. alcím A) pont e)–g) alpontjában, 1. melléklet 5. alcím B) pont c) alpontjában, 1. melléklet 6. alcím B) pont c) alpontjában, 1. melléklet 11. alcím B) pont c) alpontjában, 1. melléklet 12. alcím B) pont c) alpontjában és 2. melléklet 2. alcím e)–g) pontjában a „megyében” szövegrész helyébe a „vármegyében” szöveg
-
-lép.
+[^189]: A 188. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

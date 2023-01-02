@@ -1,11 +1,5 @@
 ## 128. A megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet módosítása
 
-131. § A megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet
+131. §[^132]
 
-a) 1. § (1) bekezdésében, 6. § (2) és (6a) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 2. § (2) bekezdésében a „megye” szövegrész helyébe a „vármegye” szöveg,
-
-c) 13/B. § (3) bekezdésében a „megyében” szövegrész helyébe a „vármegyében” szöveg
-
-lép.
+[^132]: A 131. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

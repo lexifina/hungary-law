@@ -1,3 +1,5 @@
 ## 58. A közérdekű adatok elektronikus közzétételére, az egységes közadatkereső rendszerre, valamint a központi jegyzék adattartalmára, az adatintegrációra vonatkozó részletes szabályokról szóló 305/2005. (XII. 25.) Korm. rendelet módosítása
 
-61. § A közérdekű adatok elektronikus közzétételére, az egységes közadatkereső rendszerre, valamint a központi jegyzék adattartalmára, az adatintegrációra vonatkozó részletes szabályokról szóló 305/2005. (XII. 25.) Korm. rendelet 1. melléklet IV. pontjában foglalt táblázatában a „megye” szövegrész helyébe a „vármegye” szöveg lép.
+61. §[^62]
+
+[^62]: A 61. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

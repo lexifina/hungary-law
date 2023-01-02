@@ -1,3 +1,5 @@
 ## 201. A Borsod-Abaúj-Zemplén Megyei Büntetés-végrehajtási Intézet szirmabesenyői új objektum beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 63/2015. (III. 24.) Korm. rendelet módosítása
 
-206. § A Borsod-Abaúj-Zemplén Megyei Büntetés-végrehajtási Intézet szirmabesenyői új objektum beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 63/2015. (III. 24.) Korm. rendelet 1. § (1) bekezdésében, valamint 1. melléklet címében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg lép.
+206. §[^207]
+
+[^207]: A 206. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

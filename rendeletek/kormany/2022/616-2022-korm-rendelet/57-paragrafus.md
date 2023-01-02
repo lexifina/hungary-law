@@ -1,3 +1,5 @@
 ## 54. A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet módosítása
 
-57. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 4. § (1) és (1a) bekezdésében, 4. § (3) és (4) bekezdésében, 4/A. § (1) bekezdés a) és b) pontjában, 10. § (1) bekezdés a) pont ak) alpontjában, 10. § (2) és (3) bekezdésében, 11. § (1) bekezdésében, 17. § nyitó szövegrészében, 20/A. § (4) bekezdésében, 28. § (2) bekezdés a) pontjában, 38. § (3) bekezdésében, 43. § (5) bekezdésében, 48. § (3) bekezdésében, valamint 23. mellékletében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+57. §[^58]
+
+[^58]: Az 57. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

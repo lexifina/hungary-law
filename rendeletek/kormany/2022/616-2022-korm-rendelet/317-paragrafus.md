@@ -1,3 +1,5 @@
 ## 310. A településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről 419/2021. (VII. 15.) Korm. rendelet módosítása
 
-317. § A településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről 419/2021. (VII. 15.) Korm. rendelet 3. § (1) bekezdésében, 49. § b) pontjában, 59. § (3) bekezdésében, 64. § (3) bekezdés b) pontjában, 73. § (1) és (2) bekezdésében, 10. mellékletében foglalt táblázat B:27, B:46–49, B:101, B:103 és C:121 mezőjében, 11. mellékletben foglalt táblázat A:5, A:11, A:12, A:16–20, A:22 és A:28 mezőjében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+317. §[^318]
+
+[^318]: A 317. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

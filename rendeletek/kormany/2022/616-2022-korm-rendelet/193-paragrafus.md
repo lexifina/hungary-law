@@ -1,5 +1,3 @@
-193. § Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet
+193. §[^194]
 
-a) 1. melléklet 36.5a. pontja,
-
-b) 1. melléklet 37.1. pontjában az „– a megyei fejlesztési biztos kivételével –” szövegrész.
+[^194]: A 193. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

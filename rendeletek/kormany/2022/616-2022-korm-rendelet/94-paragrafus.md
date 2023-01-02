@@ -1,9 +1,5 @@
 ## 91. A fogyasztóvédelmi hatóság eljárása során felmerülő egyes eljárási költségekről szóló 212/2008. (VIII. 29.) Korm. rendelet módosítása
 
-94. § A fogyasztóvédelmi hatóság eljárása során felmerülő egyes eljárási költségekről szóló 212/2008. (VIII. 29.) Korm. rendelet
+94. §[^95]
 
-a) 3. § (3) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 3. § (4) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg
-
-lép.
+[^95]: A 94. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

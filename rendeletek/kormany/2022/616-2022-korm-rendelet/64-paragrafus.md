@@ -1,3 +1,5 @@
 ## 61. Az egyes pénzbeli szociális ellátások elszámolásának szabályairól 62/2006. (III. 27.) Korm. rendelet módosítása
 
-64. § Az egyes pénzbeli szociális ellátások elszámolásának szabályairól szóló 62/2006. (III. 27.) Korm. rendelet 1. § (1), (2) és (4) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+64. §[^65]
+
+[^65]: A 64. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

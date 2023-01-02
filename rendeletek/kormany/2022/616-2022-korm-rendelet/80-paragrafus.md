@@ -1,3 +1,5 @@
 ## 77. A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet módosítása
 
-80. § A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet 81. § (1) bekezdésében a „megye” szövegrész helyébe a „vármegye” szöveg és a „megyébe” szövegrész helyébe a „vármegyébe” szöveg lép.
+80. §[^81]
+
+[^81]: A 80. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
