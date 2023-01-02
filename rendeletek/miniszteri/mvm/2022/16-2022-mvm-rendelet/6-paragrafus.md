@@ -1,1 +1,3 @@
-6. § Hatályát veszti a fővárosi és megyei kormányhivatalok informatikai működésére vonatkozó szakmai követelményekről szóló 38/2016. (XII. 29.) MvM rendelet.
+6. §[^1]
+
+[^1]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
