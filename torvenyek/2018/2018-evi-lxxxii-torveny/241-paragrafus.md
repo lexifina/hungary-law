@@ -6,4 +6,4 @@
 
 (4)
 
-(5) Az MRP tv. 24/D. § (1) bekezdésében a „négy év elteltével” szövegrészek helyébe az „öt év elteltével” szöveg lép.
+(5)
