@@ -1,3 +1,3 @@
 ## 107. A Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló 2011. évi XXXIV. törvény módosítása
 
-126. § A Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló 2011. évi XXXIV. törvény 7. § (3) bekezdés k) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+### 126. §
