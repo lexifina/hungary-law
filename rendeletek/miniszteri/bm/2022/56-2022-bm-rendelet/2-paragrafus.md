@@ -1,7 +1,3 @@
-2. § A kézilőfegyverek, lőszerek, gáz- és riasztófegyverek megszerzésének és tartásának egészségi alkalmassági feltételeiről és vizsgálatáról szóló 22/1991. (XI. 15.) NM rendelet
+2. §[^3]
 
-a) 2. számú melléklete helyébe az 1. melléklet, valamint
-
-b) 4. számú melléklete helyébe a 2. melléklet
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

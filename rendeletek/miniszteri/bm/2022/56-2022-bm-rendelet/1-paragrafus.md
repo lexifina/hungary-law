@@ -1,11 +1,3 @@
-1. § (1) A kézilőfegyverek, lőszerek, gáz- és riasztófegyverek megszerzésének és tartásának egészségi alkalmassági feltételeiről és vizsgálatáról szóló 22/1991. (XI. 15.) NM rendelet 1. §-a a következő (1b) bekezdéssel egészül ki:
+1. §[^2]
 
-„(1b) A muzeális fegyver sportlövészeti célú használatára jogosító engedély feltételeként előírt egészségi alkalmasság vizsgálatának a célja annak a megállapítása, hogy az engedélyt kérelmező vagy az engedéllyel rendelkező személynek nincs-e olyan betegsége, testi vagy szellemi, érzékszervi fogyatékossága, amely őt a muzeális fegyver sportlövészeti célú biztonságos használatára egészségi szempontból alkalmatlanná teszi.”
-
-(2) A kézilőfegyverek, lőszerek, gáz- és riasztófegyverek megszerzésének és tartásának egészségi alkalmassági feltételeiről és vizsgálatáról szóló 22/1991. (XI. 15.) NM rendelet 1. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet (a továbbiakban: KR1.) 30. § (1) bekezdés b) pontja szerinti, a muzeális fegyver sportlövészeti célú használatára jogosító engedélyt kérelmező személy – az engedély kiadása iránti kérelmének benyújtása előtt – előzetes egészségi alkalmassági vizsgálaton, a muzeális fegyver sportlövészeti célú használatára jogosító engedéllyel már rendelkező természetes személy pedig az időszakos vagy soron kívüli egészségi alkalmassági vizsgálaton köteles megjelenni az orvosi alkalmasságot vizsgáló szervnél, és köteles magát a szükséges orvosi és pszichológiai vizsgálatoknak alávetni.”
-
-(3) A kézilőfegyverek, lőszerek, gáz- és riasztófegyverek megszerzésének és tartásának egészségi alkalmassági feltételeiről és vizsgálatáról szóló 22/1991. (XI. 15.) NM rendelet 1. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) Ha a muzeális fegyver sportlövészeti célú használatára jogosító engedéllyel rendelkező a két vizsgálat időpontja között egészségi állapotában olyan mértékű állapotromlást észlel, amely a muzeális fegyver sportlövészeti célú biztonságos használatára időlegesen vagy véglegesen alkalmatlanná teheti, illetve azt hátrányosan befolyásolhatja, köteles az orvosi alkalmasságot vizsgáló, a 8. § (1) bekezdés a) pontja szerinti elsőfokú szervnél orvosi vizsgálatra jelentkezni annak megállapítása érdekében, hogy a muzeális fegyver biztonságos használatára alkalmas-e.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

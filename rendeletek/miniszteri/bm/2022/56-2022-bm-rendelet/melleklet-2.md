@@ -1,13 +1,3 @@
-## „2. számú melléklet a 22/1991. (XI. 15.) NM rendelethez
+2. melléklet az 56/2022. (XII. 27.) BM rendelethez[^6]
 
-## 2x10467.pdf
-
-## ”
-
-2. melléklet az 56/2022. (XII. 27.) BM rendelethez
-
-„4. számú melléklet a 22/1991. (XI. 15.) NM rendelethez
-
-2X10468.pdf
-
-”
+[^6]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
