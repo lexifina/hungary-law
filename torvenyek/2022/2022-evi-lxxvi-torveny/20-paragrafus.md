@@ -1,15 +1,1 @@
-20. § (1) A hulladékról szóló 2012. évi CLXXXV. törvény 18/D. § (1)–(5) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) Az állami hulladékgazdálkodási közfeladat ellátásához szükséges hulladékgazdálkodási eszköz – a 18/A. § (1) bekezdése szerinti létesítményeket ide nem értve – (e § alkalmazásában a továbbiakban: eszköz) használatával, valamint igénybevételével összefüggő használati és igénybevételi díjak megállapítására vonatkozó szabályokat, a (4) bekezdés szerinti kérelem tartalmi követelményeit, a használati és igénybevételi díj meghatározására irányuló eljárási szabályokat a Hivatal elnöke az e törvény végrehajtására kiadott rendeletében határozza meg.
-
-(2) Az eszköz üzemeltetője vagy tulajdonosa a szabad kapacitásai erejéig nem tagadhatja meg a koncesszor, a koncessziós társaság, vagy a koncesszori alvállalkozó által igényelt eszköz használatot vagy igénybevételt az állami hulladékgazdálkodási közfeladat ellátásával összefüggésben, az (1) bekezdés szerint meghatározott használati vagy igénybevételi díj ellenében.
-
-(3) A koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérésére a hulladékgazdálkodási hatóság az érintett eszközök tekintetében a szabad kapacitásokról tájékoztatást ad.
-
-(4) Ha az érintett eszköz üzemeltetője vagy tulajdonosa a szabad kapacitás ellenére az eszköz használatát vagy igénybevételét legkésőbb az 53/H. § (1) bekezdésében meghatározott időpontot megelőző egy hónappal, vagy új eszköz létesítése esetén a vonatkozó hulladékgazdálkodási engedély véglegessé válását követő egy hónapon belül, nem teszi lehetővé, a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérelmére a hulladékgazdálkodási hatóság kötelezi arra az üzemeltetőt vagy a tulajdonost. A hulladékgazdálkodási hatóság kötelezést megállapító határozatával (e §-ban a továbbiakban: kötelezés) érintett eszköz használati vagy igénybevételi díját – kérelemre induló hatósági eljárásban – a Hivatal határozza meg.
-
-(5) Ha a kötelezés véglegessé válását követően a kötelezéssel érintett eszköz üzemeltetője vagy tulajdonosa, valamint a kötelezés iránti kérelmet előterjesztő koncesszor, koncessziós társaság vagy koncesszori alvállalkozó az eszköz használati vagy igénybevételi díjának összegében nem tudnak megállapodni, akkor annak meghatározása tárgyában – a felek bármelyikének kérelmére – a Hivatal dönt. A Hivatal az eljárása során mindkét féltől jogosult adatot kérni.”
-
-(2) A hulladékról szóló 2012. évi CLXXXV. törvény 18/D. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A Hivatal (4) bekezdés szerinti eljárásában az ügyintézési határidő 30 nap.”
+### 20. §

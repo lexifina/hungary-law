@@ -1,9 +1,3 @@
-42. § (1) A hulladékról szóló 2012. évi CLXXXV. törvény a következő 92/A. §-sal egészül ki:
-
-„92/A. § (1) A koncessziós társaság részére azon hulladékgazdálkodási tevékenységet végző gazdálkodó szervezet, amely 2022. december 31. napján gazdálkodó szervezettel intézményi résztevékenység körébe tartozó hulladék kezeléséről a közszolgáltatáson kívül szerződött, 2023. január 15. napjáig adatot szolgáltat a szolgáltatás műszaki tartalmáról.
-
-(2) Azon gazdálkodó szervezetek, amelyek 2023. február 28. napján a hulladékgazdálkodási intézményi résztevékenység körébe tartozó hulladékot termelnek, a koncessziós társasággal történő szerződéskötés érdekében a koncessziós társaság által biztosított elektronikus felületen, 2023. március 1. és 2023. április 30. között az ott megjelölt, a szerződéskötéshez szükséges adataikat megadják. Azon gazdálkodó szervezetek, amelyek 2023. március 1-jén vagy azt követően kezdik meg a tevékenységüket, az adott tevékenység megkezdését követő 15 napon belül teljesítik e kötelezettségüket. A gazdálkodó szervezetek az adataikban bekövetkezett változást vagy a tevékenységük megszűnését az elektronikus felületen 8 napon belül bejelentik.
-
-(3) Az 50. § szerint 2023. július 1-je előtt számviteli szétválasztásra kötelezett közszolgáltató 2023. június 30-i fordulónappal féléves, közbenső mérleget készít.”
+42. § (1)
 
 (2)

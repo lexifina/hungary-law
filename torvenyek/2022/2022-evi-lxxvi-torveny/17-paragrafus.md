@@ -1,7 +1,1 @@
-17. § A hulladékról szóló 2012. évi CLXXXV. törvény 18/A. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(1) A B3 alkategóriájú hulladéklerakó üzemeltetője, tulajdonosa, valamint a koncessziós területen hulladékgazdálkodási engedély alapján legnagyobb éves befogadó kapacitással rendelkező, és a hulladékgazdálkodási koncessziós jogosultság átengedésével kapcsolatos nyilvános pályázat kiírásának időpontját megelőzően üzembe helyezett nem veszélyes vegyes települési hulladékot égető hulladékégető mű üzemeltetője, tulajdonosa (e § alkalmazásában a továbbiakban együtt: üzemeltető) a szabad kapacitásai erejéig nem tagadhatja meg a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó által az állami hulladékgazdálkodási közfeladat ellátásával összefüggésben keletkezett – és a B3 alkategóriájú hulladéklerakóban lerakható, vagy a hulladékégető műben kezelhető – hulladéknak a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) elnökének e törvény végrehajtására kiadott rendeletében meghatározott átvételi díj ellenében történő átvételét.
-
-(2) A koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérésére a hulladékgazdálkodási hatóság az érintett (1) bekezdés szerinti B3 alkategóriájú hulladéklerakó vagy a hulladékégető mű szabad kapacitásáról tájékoztatást ad.
-
-(3) Ha az üzemeltető a szabad kapacitás ellenére az (1) bekezdés szerinti B3 alkategóriájú lerakóban vagy a hulladékégető műben kezelhető hulladék átvételét legkésőbb az 53/H. § (1) bekezdésében meghatározott időpontot megelőző egy hónappal szerződés megkötésével nem teszi lehetővé, a koncesszor, a koncessziós társaság vagy a koncesszori alvállalkozó kérelmére a hulladékgazdálkodási hatóság kötelezi arra az üzemeltetőt.”
+### 17. §

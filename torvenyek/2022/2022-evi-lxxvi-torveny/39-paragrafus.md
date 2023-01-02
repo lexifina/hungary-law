@@ -1,3 +1,1 @@
-39. § A hulladékról szóló 2012. évi CLXXXV. törvény 69/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A (2) bekezdés szerinti elektronikus megfigyelő rendszert úgy kell telepíteni, hogy a szállító jármű raktere, szállítmánya folyamatosan és teljes egészében látható legyen, a megfigyelőrendszer látóteréből ne kerüljön ki. A felvételek alapján egyértelműen megállapíthatónak kell lennie, hogy a hulladékgazdálkodási létesítmény területére belépő, valamint ott közlekedő járművek ténylegesen a depónián vagy a létesítménynek más kezelőhelyén helyezték-e el a hulladékot. A felvétel az érintett személy azonosítására alkalmas személyes adatot nem rögzíthet.”
+### 39. §
