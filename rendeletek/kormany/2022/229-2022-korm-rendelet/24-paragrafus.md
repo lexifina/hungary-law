@@ -1,4 +1,4 @@
-## 23. § Nem lép hatályba az egyes energetikai tárgyú jogszabályok módosításáról szóló 787/2021. (XII. 27.) Korm. rendelet 31. §-a és 63. §-a.
+## 23. §[^24]
 
 ## 4. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) A 9. § és a 20. § az e rendelet kihirdetését követő hónap első napján lép hatályba.
 
 (3) A 23. § 2023. január 1-jén lép hatályba.
+
+[^24]: A 23. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
