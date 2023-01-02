@@ -1,3 +1,3 @@
-2. § A Rendelet 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(1) Az előirányzatoknak az Áht. 109. § (5) bekezdése szerinti felhasználási szabályait az 1. melléklet tartalmazza.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

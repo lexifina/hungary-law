@@ -1,5 +1,3 @@
-9. § Hatályát veszti a Rendelet
+9. §[^10]
 
-a) 5. § (1) bekezdés 86. pontja,
-
-b) 2. melléklete.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

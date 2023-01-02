@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-23-20-5
 | 2022-12-24 | 2022-23-20-53.1 | 23/2022. (XII. 23.) PM rendelet |
 | 2022-12-25 | 2022-23-20-53.2 | 2010. évi CXXX. törvény |
 | 2023-01-01 | 2022-23-20-53.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2023-01-02 | 2022-23-20-53.4 | 2010. évi CXXX. törvény |
