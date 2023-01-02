@@ -1,1 +1,3 @@
-1. § Hatályát veszti a szakiskola és a szakközépiskola kilencedik évfolyamán a gyakorlati oktatás támogatásának igényléséről, folyósításáról és elszámolásának rendjéről szóló 14/2006. (IV. 3.) OM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
