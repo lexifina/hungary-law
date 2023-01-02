@@ -1,7 +1,3 @@
-1. § A Körös–Maros Nemzeti Park bővítéséről szóló 4/1999. (V. 5.) KöM rendelet Mellékletében
+1. §[^2]
 
-a) a „Békés megye” szövegrész helyébe a „Békés vármegye” szöveg,
-
-b) a „Csongrád megye” szövegrész helyébe a „Csongrád-Csanád vármegye” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
