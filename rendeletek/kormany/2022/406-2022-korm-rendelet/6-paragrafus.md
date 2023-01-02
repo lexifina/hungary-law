@@ -1,1 +1,3 @@
-6. § Az 1. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+6. §[^2]
+
+[^2]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
