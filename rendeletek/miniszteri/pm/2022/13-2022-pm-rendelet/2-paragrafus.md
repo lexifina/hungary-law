@@ -1,1 +1,3 @@
-2. § Az 51/2004. (XII. 29.) PM rendelet 1. § (3) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
