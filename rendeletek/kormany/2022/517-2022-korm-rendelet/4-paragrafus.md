@@ -1,1 +1,3 @@
-4. § A turisztikai térségek meghatározásáról szóló 429/2020. (IX. 14.) Korm. rendelet 7. §-ában a „Helikon Kastélymúzeum Közhasznú Nonprofit Korlátolt Felelősségű Társaságot” szövegrész helyébe a „NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaságot” szöveg lép.
+4. §[^1]
+
+[^1]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
