@@ -1,3 +1,3 @@
-9. § A Vhr. 17. § b) pontja helyébe a következő rendelkezés lép, és a § a következő c) ponttal egészül ki:
+9. §[^10]
 
-(E rendelet az Európai Unió alábbi jogi aktusainak való megfelelést szolgálja:)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

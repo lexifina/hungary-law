@@ -1,3 +1,3 @@
-5. § A Vhr. 5. alcímének címe helyébe a következő alcím cím lép:
+5. §[^6]
 
-„5. A munkáltatót terhelő tájékoztatási kötelezettség és az atipikus foglalkoztatási formára való áttérés”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
