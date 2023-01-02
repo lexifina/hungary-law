@@ -1,1 +1,3 @@
-7. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 172/A. § (2b) bekezdésében az „1–8” szövegrész helyébe az „1–9” szöveg, a „9–21” szövegrész helyébe a „20–22” szöveg lép.
+7. §[^1]
+
+[^1]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
