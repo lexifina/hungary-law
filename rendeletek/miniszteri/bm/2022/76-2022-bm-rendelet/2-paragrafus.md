@@ -1,5 +1,3 @@
-2. § Hatályát veszti az iskolaőrök képzéséről, kiegészítő képzéséről, vizsgáztatásáról, valamint a képzés és vizsga helyett elfogadható szakirányú képesítések és képzettségek jegyzékéről szóló 28/2020. (VII. 17.) BM rendelet
+2. §[^3]
 
-a) 7. § (1) bekezdésében a „ , valamint a Nemzeti Bűnmegelőzési Tanáccsal” szövegrész,
-
-b) 7. § (4) bekezdés b) pontja.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
