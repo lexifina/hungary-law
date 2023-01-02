@@ -1,3 +1,3 @@
-1. § A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet (a továbbiakban: Korm. r.) 14. § (2) bekezdése a következő d) ponttal egészül ki:
+1. §[^2]
 
-[A hallgatói hitel törlesztőrészletének alapja – a (3) bekezdésben szabályozott esetet kivéve – a tárgyévet megelőző második évben:]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
