@@ -1,1 +1,3 @@
-1. § A nyilvános haszonkölcsönzésért a szerzőt megillető díj megállapításához és felosztásához szükséges adatokról, valamint az adatszolgáltatásra kötelezett nyilvános könyvtárakról szóló 14/2011. (IV. 7.) NEFMI rendelet 1. § (2) bekezdés a) pontjában, 3. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
