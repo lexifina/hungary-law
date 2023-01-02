@@ -1,3 +1,3 @@
-3. § A felnőttképzésről szóló törvény végrehajtásáról szóló 11/2020. (II. 7.) Korm. rendelet 22. §-a a következő (3a) bekezdéssel egészül ki:
+3. §[^3]
 
-„(3a) A felnőttképző a kiállított tanúsítványt legkésőbb annak aláírását követő két munkanapon belül a felnőttképzés adatszolgáltatási rendszerébe feltölti.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
