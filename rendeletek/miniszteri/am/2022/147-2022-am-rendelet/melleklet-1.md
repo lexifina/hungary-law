@@ -1,11 +1,3 @@
-1. melléklet a 147/2022. (XII. 27.) AM rendelethez
+1. melléklet a 147/2022. (XII. 27.) AM rendelethez[^4]
 
-„5. melléklet a 47/2017. (IX. 29.) FM rendelethez
-
-A földminősítő igazolvány
-
-Előlap
-
-Hátlap
-
-”
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
