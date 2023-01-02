@@ -1,1 +1,3 @@
-6. § Hatályát veszti a Vhr. 53/B. § (1) bekezdésében az „a kijelölt használót vagy” szövegrész.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-2. § A Vhr. 47/E. §-a a következő (2a) bekezdéssel egészül ki:
+2. §[^3]
 
-„(2a) A 47/N. § (2) bekezdése szerinti árverés esetén árverési biztosíték kikötésére nem kerül sor.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
