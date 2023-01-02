@@ -1,5 +1,3 @@
-## „j) a rendvédelmi informatikai központi szolgáltatót.”
-
 ## 13. Záró rendelkezések
 
 33. § (1) Ez a törvény – a (2)–(3) bekezdésben meghatározott kivétellel – 2023. január 1-jén lép hatályba.

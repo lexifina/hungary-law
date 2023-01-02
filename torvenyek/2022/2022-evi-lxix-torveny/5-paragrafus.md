@@ -1,3 +1,1 @@
-5. § Az Öpt. 21. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A közgyűlést az éves beszámoló és a pénzügyi terv elfogadása céljából évente össze kell hívni. A közgyűlés, küldöttgyűlés – ideértve a küldöttválasztó gyűlést és részközgyűlést is – összehívásának módjáról az alapszabályban kell rendelkezni. A hirdetmény közzététele vagy a meghívó elküldése, valamint a közgyűlés időpontja között legalább 15 napnak kell eltelnie. A pénztár a meghívó elküldésével egyidejűleg az abban foglaltakat – amennyiben rendelkezik ilyen felülettel – az internetes honlapján is közzéteszi. A közgyűlés összehívásáról szóló értesítésben meg kell jelölni a közgyűlés helyét, idejét, napirendjét, valamint a napirendhez tartozó iratok megtekintésének helyét és idejét. A közgyűlés (ha van: a részközgyűlés, illetve a küldöttközgyűlés) elektronikus hírközlő eszköz útján vagy más személyazonosítást lehetővé tevő elektronikus eszköz igénybevételével is megtartható.”
+### 5. §

@@ -1,5 +1,3 @@
 ## 1. A Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény módosítása
 
-1. § A Munkavállalói Résztulajdonosi Programról szóló 1992. évi XLIV. törvény (a továbbiakban: MRPtv.) 24/N. §-a a következő (14) bekezdéssel egészül ki:
-
-„(14) Ha a társaság a KMRP vagy a KMRP keretében létesített vagyonkezelő alapítvány számára társasági hozzájárulást fizet, vagy visszafizetendő forrást nyújt, a társaság ügyvezetése, testületi ügyvezetés esetén az ügyvezető testület valamennyi tagja, felügyelőbizottság működése esetén a felügyelőbizottság valamennyi tagja az erről szóló döntés előkészítésében és meghozatalában – a Polgári Törvénykönyvről szóló 2013. évi V. törvény 3:112. § (2) bekezdésében foglaltakkal összhangban – a KMRP-ben való részvétele esetén, továbbá akkor is részt vehet, ha a vagyonkezelő alapítvány kedvezményezettje. Az ügyvezetés által hozott döntés a társaság ügyvezetőire, illetve felügyelőbizottságának tagjaira nézve nem lehet kedvezőbb a KMRP többi résztvevőjéhez, illetve a vagyonkezelő alapítvány kedvezményezettjéhez képest.”
+### 1. §

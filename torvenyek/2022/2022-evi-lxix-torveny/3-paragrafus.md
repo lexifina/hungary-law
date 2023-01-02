@@ -1,5 +1,3 @@
 ## 2. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
-3. § Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény (a továbbiakban: Öpt.) 11. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A tagsági viszony, a tagdíjfizetési kötelezettség és a várakozási idő a pénztárhoz benyújtott belépési nyilatkozatnak a pénztár általi elfogadásával kezdődik. A pénztár a belépési nyilatkozat elfogadását annak záradékolásával tanúsítja. A belépési nyilatkozatot a benyújtástól számított 30 napon belül kell záradékolni, majd annak egy példányát vagy a tagsági okiratot a pénztártagnak nyomtatott formában, vagy a pénztártag kérésére elektronikus iratként át kell adni. Az internetes honlappal rendelkező pénztár a tagot a belépési nyilatkozatban vagy a tagsági okiratban tájékoztatja arról, hogy a pénztár honlapján az alapszabály elérhető. Az alapszabályt a tag kérésére, illetve internetes honlappal nem rendelkező pénztár esetében díjmentesen, nyomtatott formában is ki kell adni.”
+### 3. §
