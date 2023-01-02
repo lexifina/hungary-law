@@ -1,5 +1,3 @@
-5. § A Rendelet 4. §-a helyébe a következő rendelkezés lép:
+5. §[^5]
 
-„4. § (1) Az NMHH nyilvántartja az átadott adattörlő kódokkal kapcsolatban a 7. § alapján szolgáltatott adatokat.
-
-(2) Az NMHH a nyilvántartásban foglalt adatokat a 7. § szerinti adatszolgáltatástól számított 10 évig megőrzi.”
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
