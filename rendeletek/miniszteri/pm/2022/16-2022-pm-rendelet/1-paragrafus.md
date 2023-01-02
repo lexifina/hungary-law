@@ -1,1 +1,3 @@
-1. § A taxaméterek műszaki követelményeiről, a nyugtakibocsátásra szolgáló taxaméterek forgalmazásáról, használatáról és szervizeléséről szóló 49/2013. (XI. 15.) NGM rendelet 32. §-ában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
