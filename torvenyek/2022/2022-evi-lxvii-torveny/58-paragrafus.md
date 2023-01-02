@@ -1,3 +1,1 @@
-58. § A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény 11. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az osztatlan közös tulajdon megszüntetése eredményeként kialakításra kerülő ingatlan – ide nem értve az ingatlanok megközelítésére szolgáló utat – nem lehet szőlő, kert, gyümölcsös, nádas művelési ág esetén 3000 m2-nél, szántó, rét, legelő, erdő és fásított terület művelési ág esetén 10 000 m2-nél kisebb területnagyságú. Vegyes művelési ágú ingatlan esetén a kisebb területi minimummal rendelkező művelési ágra vonatkozó mérték irányadó. Erdőnek minősülő ingatlan esetén az Evt.-nek az erdő megosztására irányadó további előírásait nem kell alkalmazni.”
+### 58. §

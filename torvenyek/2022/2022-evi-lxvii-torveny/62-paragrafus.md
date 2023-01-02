@@ -1,5 +1,1 @@
-## „d) a 18/A. § (4) bekezdése és a 18/B. § (4) bekezdése szerinti kényszerértékesítés részletes szabályait.”
-
-62. § A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény 7/A. alcíme a következő 30/B. §-sal egészül ki:
-
-„30/B. § A 4. § (6) bekezdésének az egyes földügyi tárgyú törvények módosításáról szóló 2022. évi LXVII. törvénnyel (a továbbiakban: Módtv2.) megállapított rendelkezéseit alkalmazni kell az ingatlanügyi hatóságnál a Módtv2. hatálybalépésekor folyamatban lévő tényfeljegyzésre irányuló eljárásokban is, továbbá azokban az esetekben, amikor a tényfeljegyzésre a Módtv2. hatálybalépését megelőzően kerül sor, és a tényfeljegyzés óta 90 nap még nem telt el, feltéve, hogy az ingatlanügyi hatóság a megosztás átvezetése iránti kérelem alapján indult eljárásban a kérelmet még nem utasította vissza, érdemben nem utasította el és az eljárást nem szüntette meg.”
+### 62. §

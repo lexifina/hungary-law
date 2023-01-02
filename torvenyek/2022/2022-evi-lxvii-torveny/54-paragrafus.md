@@ -1,5 +1,3 @@
 ## 7. A termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény módosítása
 
-54. § A termelőszövetkezeti földhasználati jog alatt álló földrészletek tulajdonjogának rendezéséről és egyes földügyi tárgyú törvények módosításáról szóló 2020. évi XL. törvény a következő 6/B. §-sal egészül ki:
-
-„6/B. § Az a személy vagy örököse, aki a szövetkezetben a szövetkezeti tagok és alkalmazottak, állami gazdaságnál az alkalmazottak földtulajdonhoz juttatása céljából képzett földalap terhére földtulajdonhoz jutott, azonban a részére juttatott ingatlanon fennálló tulajdonjoga az ingatlan-nyilvántartásból az ingatlan védettsége okán utólag törlésre került, ha kártalanítására más módon nem került sor, a neki juttatott föld aranykorona (a továbbiakban: AK) értékével megegyező AK értékű föld tulajdonjogát igényelheti a Nemzeti Földalap kezeléséért felelős szervhez 2023. június 30. napjáig benyújtott kérelmével. A határidő elmulasztása jogvesztő, annak elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.”
+### 54. §

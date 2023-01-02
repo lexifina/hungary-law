@@ -1,3 +1,1 @@
-57. § A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény 9. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdésben foglaltak teljesítéséhez a tulajdonostársak adatszolgáltatás keretében kérhetik az ingatlanügyi hatóságtól a megosztandó ingatlan tulajdoni lapján szereplő helyhez kötött jogok bejegyzésének, illetve tények feljegyzésének alapjául szolgáló vázrajzok kiadását. Az ingatlanügyi hatóság az adatszolgáltatásnak a megkereséstől számított 15 napon belül eleget tesz.”
+### 57. §

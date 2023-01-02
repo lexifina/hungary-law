@@ -1,1 +1,1 @@
-53. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 18/A. § (1) bekezdésében a „termelőként az” szövegrész helyébe a „termelőként saját maga vagy a legalább 25%-ban tulajdonában, vagy a közeli hozzátartozójának legalább 25%-ban tulajdonában álló mezőgazdasági termelőszervezet az” szöveg lép.
+### 53. §
