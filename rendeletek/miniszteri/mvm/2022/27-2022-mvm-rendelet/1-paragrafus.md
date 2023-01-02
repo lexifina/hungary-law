@@ -1,1 +1,3 @@
-1. § Az önálló ingatlanok helyrajziszámozásáról és az alrészletek megjelöléséről szóló 44/2006. (VI. 13.) FVM rendelet 7. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
