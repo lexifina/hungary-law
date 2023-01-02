@@ -1,1 +1,3 @@
-1. § A Székesfehérvári homokbánya Természetvédelmi Terület létesítéséről és a Hansági Tájvédelmi Körzet bővítéséről, valamint természetvédelmi kezelők kijelöléséről szóló 2/1990. (XI. 21.) KTM rendelet Mellékletében a „megye” szövegrész helyébe a „vármegye” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
