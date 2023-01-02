@@ -1,1 +1,3 @@
-1. § Az élő állatok belföldi szállításának állat-egészségügyi szabályairól szóló 87/2012. (VIII. 27.) VM rendelet 14/A. § (1) bekezdésében a „megyében” szövegrész helyébe a „vármegyében” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
