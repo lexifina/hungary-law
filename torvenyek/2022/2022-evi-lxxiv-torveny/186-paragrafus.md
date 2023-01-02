@@ -1,5 +1,1 @@
-## „13c. kulturális intézeti titkársági referens: a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló, a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter szakmai irányítása alatt álló olyan adminisztratív munkaköri osztályba kihelyezett, aki kulturális intézet működéséhez kapcsolódó adminisztratív feladatokat a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter feladatkörébe tartozó, a 3. § (3) bekezdése szerinti intézetben végzi;”
-
-186. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 11. § (1a) bekezdése helyébe a következő rendelkezés lép:
-
-„(1a) A kulturális intézet igazgatója (a továbbiakban: intézetigazgató), a kulturális diplomata, valamint a kulturális intézet működéséhez kapcsolódó adminisztratív és technikai munkakörben feladatokat ellátó kihelyezett szakmai felkészítése a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter bevonásával történik, azzal, hogy a külügyi felkészítését a külpolitikáért felelős miniszter, a kulturális szakmai felkészítését a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter által vezetett szervezet biztosítja.”
+### 186. §

@@ -1,1 +1,1 @@
-234. § Hatályát veszti a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 94. § (3) bekezdésében a „nem köt álláskeresési megállapodást,” szövegrész.
+### 234. §
