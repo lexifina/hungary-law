@@ -1,3 +1,3 @@
-1. § A mozgóképszakmai hatóság által vezetett nyilvántartások részletes szabályairól és az igazolások kiadásának rendjéről szóló 8/2019. (XII. 30.) MK rendelet 7. § (3) bekezdés e) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(A nyilvántartás az állami támogatásban részesülő filmalkotások esetében tartalmazza továbbá az alábbi adatokat:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
