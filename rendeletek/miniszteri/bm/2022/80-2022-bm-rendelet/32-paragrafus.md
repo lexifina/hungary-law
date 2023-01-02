@@ -1,1 +1,3 @@
-32. § A Kr. 7. § (2) bekezdésében a „(2a) bekezdésben” szövegrész helyébe a „(3) bekezdésben” szöveg lép.
+32. §[^33]
+
+[^33]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

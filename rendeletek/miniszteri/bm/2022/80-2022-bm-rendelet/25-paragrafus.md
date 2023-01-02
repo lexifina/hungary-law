@@ -1,1 +1,3 @@
-25. § Az R1. 1. §-ában a „nevelőszülőre” szövegrész helyébe a „nevelőszülőre, továbbá gyermekvédelmi gyámra” szöveg lép.
+25. §[^26]
+
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,11 +1,3 @@
-## „a) az elméleti és gyakorlati oktatás képzési programban megállapított kötelező óraszámának
+29. §[^30]
 
-## aa) az adósságkezelési tanácsadó képzés vonatkozásában összesen legalább a 90%-át,
-
-## ab) az aa) alpont alá nem tartozó képzés esetén összesen legalább a 80%-át,”
-
-## (teljesítette.)
-
-29. § A Kr. 17/A. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az óvodai és iskolai szociális segítő képzésben a 10. § (1) és (2) bekezdése nem alkalmazható. A képzésen részt vevő személyek a képzés végén írásban tesznek záróvizsgát az oktatási programban meghatározottak szerint.”
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-16. § Az R. 3. számú melléklete helyébe a 2. melléklet lép.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

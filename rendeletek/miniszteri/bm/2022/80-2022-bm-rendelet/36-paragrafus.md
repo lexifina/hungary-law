@@ -1,3 +1,3 @@
-36. § Az Sr. 9. §-a a következő (5) bekezdéssel egészül ki:
+36. §[^37]
 
-„(5) Segítő kutyával – ha az állatkert szabályzata másként nem rendelkezik – póráz használatával lehet az állatkertben tartózkodni. Ha az állatkert szabályzata a kutyával történő látogatást nem teszi lehetővé, a segítő kutyát alkalmazó személy a segítő kutyát a látogatás időtartama alatt az erre a célra szakszerűen kialakított kutya megőrzőben helyezi el.”
+[^37]: A 36. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

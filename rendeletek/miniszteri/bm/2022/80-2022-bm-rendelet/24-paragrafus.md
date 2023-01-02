@@ -1,3 +1,3 @@
-24. § (1) Az R1. a 3. melléklet szerinti 10. számú melléklettel egészül ki.
+24. §[^25]
 
-(2) Az R1. a 4. melléklet szerinti 11. számú melléklettel egészül ki.
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

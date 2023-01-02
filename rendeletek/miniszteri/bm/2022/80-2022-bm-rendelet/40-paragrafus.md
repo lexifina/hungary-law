@@ -1,5 +1,5 @@
 ## 12. A vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet módosítása
 
-40. § A vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet (a továbbiakban: R2.) 1. § (2) bekezdése a következő g) ponttal egészül ki:
+40. §[^41]
 
-(A vezetőképzésben való részvételi kötelezettség nem vonatkozik:)
+[^41]: A 40. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

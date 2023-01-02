@@ -1,3 +1,3 @@
-4. § Az Nmr. 93/A. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+4. §[^5]
 
-(A fiatal felnőtt az utógondozói ellátás meghosszabbítása iránti kérelmet az utógondozói ellátást biztosító intézmény vagy nevelőszülői hálózat fenntartójához nyújthatja be a 25. életévének elérését megelőző két hónappal. A fiatal felnőtt a kérelméhez csatolja)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

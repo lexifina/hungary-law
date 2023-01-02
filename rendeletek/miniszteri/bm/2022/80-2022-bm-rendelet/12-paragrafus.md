@@ -1,3 +1,3 @@
-12. § Az R. 42/A. §-a helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„42/A. § Ha a fenntartó vis maior helyzetben vagy az ellátás építési beruházással történő fejlesztése érdekében, az ellátás céljára korábban általa nem használt épületet, épületrészt von be, ezen épületre, épületrészre nem kell alkalmazni a 41. § (2) bekezdés d), f) és g) pontjában, a 41. § (4) bekezdés a) pontjában és a 42. § (2) bekezdésében foglaltakat, valamint a személyes gondoskodást nyújtó szociális ellátások igénybevételéről szóló 9/1999. (XI. 24.) SzCsM rendelet 2/C. § (1) bekezdés a) pontját. A felmentés vis maior esetén legfeljebb 6 hónapra, fejlesztéshez kapcsolódó építési beruházás esetén 1 évre adható meg.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

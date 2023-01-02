@@ -1,3 +1,3 @@
-50. § Az R3. 12. §-a a következő (3) bekezdéssel egészül ki:
+50. §[^51]
 
-„(3) A tanoda együttműködik a Társadalmi Esélyteremtési Főigazgatóság által működtetett, a tanodák módszertani támogatását biztosító tanácsadói hálózattal.”
+[^51]: Az 50. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

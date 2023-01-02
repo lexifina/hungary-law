@@ -1,3 +1,3 @@
-43. § Az R2. 12. § (1) bekezdése helyébe a következő rendelkezés lép:
+43. §[^44]
 
-„(1) A vezetőképzésre a miniszter által kijelölt szerv által vezetett jelentkezési és képzésszervezési nyilvántartás elektronikus felületén kell jelentkezni. A jelentkezés elfogadásának feltétele a képzési díj megfizetése.”
+[^44]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

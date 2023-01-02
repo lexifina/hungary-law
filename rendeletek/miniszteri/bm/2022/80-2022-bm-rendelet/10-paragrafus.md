@@ -1,7 +1,5 @@
 ## 3. A személyes gondoskodást nyújtó szociális ellátások igénybevételéről szóló 9/1999. (XI. 24.) SzCsM rendelet módosítása
 
-10. § Hatályát veszti a személyes gondoskodást nyújtó szociális ellátások igénybevételéről szóló 9/1999. (XI. 24.) SzCsM rendelet
+10. §[^11]
 
-a) 2/C. § (2) bekezdése,
-
-b) 2/E. §-a.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-34. § Az Sr. 4. § (1) bekezdése a következő e) ponttal egészül ki:
+34. §[^35]
 
-(A szociál- és nyugdíjpolitikáért felelős miniszter pályázat útján a kutyát kiképző szervezetek, illetve a segítő kutyák alkalmazásának elősegítésével foglalkozó szervezetek közül közreműködő szervezetet jelöl ki, amely)
+[^35]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
