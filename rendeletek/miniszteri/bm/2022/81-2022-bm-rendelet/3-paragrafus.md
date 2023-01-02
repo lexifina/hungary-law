@@ -1,5 +1,3 @@
-3. § Hatályát veszti az R1.
+3. §[^4]
 
-a) 16. számú mellékletében foglalt táblázat 14., 15. és 16. sora.
-
-b) 16. számú melléklet végjegyzetében az „A 14–16. pont szerinti fix díjat a járvány elleni védekezés célját szolgáló személyi és tárgyi feltételek biztosítására kell fordítani.” szövegrész.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
