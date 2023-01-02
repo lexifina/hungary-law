@@ -10,9 +10,10 @@ a)[^12]
 
 b)[^13]
 
-c) 2. melléklete a 4. melléklet
+c)[^14]
 
 [^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^11]: A 11. § a 14. § (3) bekezdése alapján 2023. február 21-én lép hatályba.
 [^12]: A 12. § a) pontja a 14. § (3) bekezdése alapján 2023. február 21-én lép hatályba.
 [^13]: A 12. § b) pontja a 14. § (5) bekezdése alapján 2025. január 18-án lép hatályba.
+[^14]: A 12. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
