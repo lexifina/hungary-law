@@ -1,1 +1,3 @@
-14. § Hatályát veszti a tizenharmadik havi ellátásról szóló 342/2020. (VII. 14.) Korm. rendelet 1. § (1) bekezdés 14. pontjában az „a honvédelmi alkalmazottak jogállásáról szóló törvény szerinti” szövegrész.
+14. §[^10]
+
+[^10]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
