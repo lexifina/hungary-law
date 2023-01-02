@@ -1,3 +1,3 @@
-## 99. §[^112]
+## 99. §[^113]
 
-[^112]: A 99. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^113]: A 99. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## 63. §[^75]
+## 63. §[^76]
 
-[^75]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^76]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

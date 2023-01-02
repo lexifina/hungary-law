@@ -1,3 +1,3 @@
-## 74. §[^87]
+## 74. §[^88]
 
-[^87]: A 74. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^88]: A 74. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 18. §
 
-## 7.[^19]
+## 7.[^20]
 
-[^19]: A 7. alcím (19. §) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 7. alcím (19. §) a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

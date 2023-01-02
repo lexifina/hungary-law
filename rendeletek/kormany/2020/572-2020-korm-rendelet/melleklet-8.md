@@ -1,3 +1,3 @@
-8. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^144]
+8. melléklet az 572/2020. (XII. 9.) Korm. rendelethez[^145]
 
-[^144]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^145]: A 8. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

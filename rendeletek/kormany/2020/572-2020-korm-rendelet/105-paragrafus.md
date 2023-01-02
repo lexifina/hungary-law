@@ -1,3 +1,3 @@
-## 104. §[^117]
+## 104. §[^118]
 
-[^117]: A 104. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^118]: A 104. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
