@@ -1,1 +1,0 @@
-4. § Ez a rendelet a 2009/48/EK európai parlamenti és tanácsi irányelvnek az egyes játékokban található anilinre vonatkozó egyedi határértékek tekintetében történő módosításáról szóló, 2021. június 3-i (EU) 2021/903 bizottsági irányelvnek való megfelelést szolgálja.
