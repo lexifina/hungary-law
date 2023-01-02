@@ -1,1 +1,1 @@
-25. § A Gytv. 32. § (4) bekezdés b) pontjában a „nemzetközi egyezmények értelmében kábítószernek vagy pszichotróp anyagnak” szövegrész helyébe az „a kábítószernek vagy pszichotróp anyagnak” szöveg lép.
+### 25. §

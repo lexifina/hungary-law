@@ -1,3 +1,1 @@
-58. § A Bv. tv. 26. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az iratokról a végrehajtásért felelős szerv a kérelem előterjesztésétől számított nyolc munkanapon belül másolatot ad ki. Az iratban fel kell jegyezni, vagy a fogvatartotti nyilvántartásban, illetve a belső elektronikus ügykezelő rendszerben rögzíteni kell, hogy mely iratról, mely időpontban, kinek a részére, hány példányban készült másolat. Ha az irat elektronikus okiratként, papíralapú okirat elektronikus másolataként vagy elektronikus formában rendelkezésre áll, a megismerésére jogosult kérheti a másolat elektronikus úton vagy elektronikus adathordozón való kiadását.”
+### 58. §

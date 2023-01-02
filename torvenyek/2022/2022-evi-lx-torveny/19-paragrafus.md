@@ -1,1 +1,1 @@
-19. § A Jszbt. 11. § (3a) bekezdésében a „vagyoni érdekelt” szövegrész helyébe a „vagyoni érdekelt vagy a jogszabály alapján a bűnügyi hitelezői igény képviseletére jogosult egyéb érdekelt” szöveg, valamint a „kiegészítéséről” szövegrész helyébe a „megváltoztatásáról” szöveg lép.
+### 19. §

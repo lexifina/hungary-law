@@ -1,5 +1,1 @@
-## „17. végrehajtás rendje: a büntetések és a kényszerintézkedések végrehajtására vonatkozó jogszabályok és ezeken alapuló normatív utasítások érvényesülésének összessége, amely biztosítja a büntetés-végrehajtási feladatok zavartalan ellátását, valamint az elítéltek és az egyéb jogcímen fogvatartottak jogainak érvényesülését és kötelezettségeinek teljesítését.”
-
-54. § A Bv. tv. 8. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A büntetés vagy az intézkedés végrehajtása során az elítélt köteles a lakcímében, az értesítési címében, a tényleges tartózkodási helyében, kézbesítési címében, biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségében, elektronikus levelezési címében, hangkapcsolatot biztosító vagy más elektronikus elérhetőségében a büntetőeljárás befejezését követően bekövetkező változást – a változás bekövetkeztétől számított három munkanapon belül – a végrehajtásért felelős szervnek, ha ez nem ismert, a büntetőügyben első fokon eljárt bíróság székhelye szerint illetékes büntetés-végrehajtási bírónak bejelenteni.”
+### 54. §
