@@ -1,3 +1,3 @@
-21. § Az önkormányzati és létesítményi tűzoltóságokra, valamint a hivatásos tűzoltóság, önkormányzati tűzoltóság és önkéntes tűzoltó egyesület fenntartásához való hozzájárulásra vonatkozó szabályokról szóló 239/2011. (XI. 18.) Korm. rendelet 19. § (4) bekezdése helyébe a következő rendelkezés lép:
+21. §[^21]
 
-„(4) A létesítményi tűzoltóság vonulási területe a fenntartására kötelezett szervezet létesítményének területe, valamint azon más létesítmények területe, amelyekre a szerződésben működési kötelezettséget vállal, és a 21. § (1) bekezdésben rögzített követelményeket teljesíti. Repülőtéri létesítményi tűzoltóság esetén a vonulási terület megfelel az ICAO által kiadott előírásokban és ajánlásokban, valamint a 139/2014/EU rendeletben meghatározottaknak.”
+[^21]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-29. §[^3]
+29. §[^29]
 
-[^3]: A 29. § a 44. § (4) bekezdés alapján 2023. június 30-án lép hatályba.
+[^29]: A 29. § a 44. § (4) bekezdés alapján 2023. június 30-án lép hatályba.

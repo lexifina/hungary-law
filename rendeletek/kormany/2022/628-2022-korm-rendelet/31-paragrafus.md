@@ -1,3 +1,3 @@
-31. §[^5]
+31. §[^31]
 
-[^5]: A 31. § a 44. § (5) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^31]: A 31. § a 44. § (5) bekezdés alapján 2023. július 1-jén lép hatályba.
