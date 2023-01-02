@@ -1,5 +1,3 @@
-2. § Hatályát veszti az AMr.
+2. §[^3]
 
-a) 1. melléklet 4. pont e) alpontjában az „és” szövegrész,
-
-b) 1. melléklet 4. pont f) alpontja.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
