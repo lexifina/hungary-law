@@ -1,3 +1,5 @@
 ## 1. Az egyes ingatlanok műemlékké nyilvánításáról, illetve műemléki védettségének megszüntetéséről, valamint egyes műemlékvédelmi tárgyú miniszteri rendeletek módosításáról szóló 19/2019. (XII. 20.) MvM rendelet módosítása
 
-1. § Az egyes ingatlanok műemlékké nyilvánításáról, illetve műemléki védettségének megszüntetéséről, valamint egyes műemlékvédelmi tárgyú miniszteri rendeletek módosításáról szóló 19/2019. (XII. 20.) MvM rendelet 1. § (1) bekezdésében, 2. § (1) bekezdésében, 3. § (1) bekezdésében, 6. § (1) bekezdésében, 7. § (1) bekezdésében, 8. § (1) bekezdésében, 9. § (1) bekezdésében és 10. § (1) bekezdésében a „megye” szövegrész helyébe a „vármegye” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
