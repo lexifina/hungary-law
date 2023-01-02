@@ -1,1 +1,3 @@
-69. § Hatályát veszti a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 86/2019. (IV. 23.) Korm. rendelet.
+69. §[^1]
+
+[^1]: A 69. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
