@@ -1,1 +1,3 @@
-## 16. § A 256/2013. (VII. 5.) Korm. rendelet 9. melléklete helyébe a 6. melléklet lép.
+## 16. §[^17]
+
+[^17]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
