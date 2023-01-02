@@ -2,8 +2,8 @@
 
 a)
 
-b) 7. § (2) bekezdés d) és e) pontja,
+b)
 
-c) 11. § (1) bekezdésében az „ , illetve a csoportpraxis” szövegrész,
+c)
 
-d) 11. § (2) bekezdésében az „és csoportpraxisok” szövegrész.
+d)

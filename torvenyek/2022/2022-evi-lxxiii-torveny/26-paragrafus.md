@@ -1,5 +1,1 @@
-26. § Az Eszjtv. a következő 20/A. §-sal egészül ki:
-
-„20/A. § (1) Az 1. § (12) bekezdése 2022. december 31. napjáig hatályos rendelkezései szerinti engedély alapján megkötött, munkaerő-kölcsönzésre irányuló szerződés 2024. január 1-jén hatályát veszti. Az e törvény hatálya alá tartozó egészségügyi szolgáltató és a munkaerő-kölcsönző a szerződésből eredő jogok és kötelezettségek tekintetében legkésőbb 2024. január 31. napjáig elszámolnak egymással.
-
-(2) 2024. január 1-jétől nem köthető új szerződés a Kormány rendeletében meghatározott személyes közreműködésre, ide nem értve a Kormány rendeletében meghatározott egészségügyben dolgozóval kötött szerződést.”
+### 26. §

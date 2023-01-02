@@ -1,1 +1,1 @@
-12. § Az Mötv. 13. § (1) bekezdés 4. pontjában és 23. § (5) bekezdés 9. pontjában az „egészségügyi alapellátás,” szövegrész helyébe a „törvényben meghatározott kivételekkel az egészségügyi alapellátás,” szöveg lép.
+### 12. §
