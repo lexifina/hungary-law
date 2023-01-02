@@ -1,5 +1,5 @@
 ## 113. A Magyar Művészeti Akadémia Művészetelméleti és Módszertani Kutatóintézetének megvalósítását szolgáló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről, valamint a Magyar Művészeti Akadémia Székháza kialakítását szolgáló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 319/2015. (X. 30.) Korm. rendelet módosításáról szóló 131/2016. (VI. 7.) Korm. rendelet módosítása
 
-113. §[^116]
+113. §[^114]
 
-[^116]: A 113. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^114]: A 113. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

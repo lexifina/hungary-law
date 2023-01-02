@@ -1,9 +1,5 @@
 ## 12. Az EM-Bioetanol Kft. Bioetanol-Biogáz-Kiserőmű projekt Kaba város közigazgatási területén megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 61/2010. (III. 18.) Korm. rendelet módosítása
 
-12. § Az EM-Bioetanol Kft. Bioetanol-Biogáz-Kiserőmű projekt Kaba város közigazgatási területén megvalósuló nagyberuházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 61/2010. (III. 18.) Korm. rendelet
+12. §[^13]
 
-a) 4. § (2) bekezdésében és 5. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 1. mellékletében foglalt táblázat D:2–D:4, D:6, D:8–D:12, D:14–D:16 és D:22 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
-
-lép.
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

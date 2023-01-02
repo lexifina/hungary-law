@@ -1,3 +1,5 @@
 ## 30. Sík- és dombvidéki tározók létesítéséhez és rekonstrukciójához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 12/2013. (I. 22.) Korm. rendelet módosítása
 
-30. § Sík- és dombvidéki tározók létesítéséhez és rekonstrukciójához kapcsolódó beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 12/2013. (I. 22.) Korm. rendelet 4. § (2) bekezdésében, 5. § (2) bekezdésében és 2. mellékletében foglalt táblázat B:2–B:7 és B:9–B:13 mezőjében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+30. §[^31]
+
+[^31]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
