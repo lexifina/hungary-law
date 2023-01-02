@@ -1,3 +1,3 @@
-3. § Az R. 248. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-[A (2) bekezdéstől eltérően a központi katonai igazgatási szerv]
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
