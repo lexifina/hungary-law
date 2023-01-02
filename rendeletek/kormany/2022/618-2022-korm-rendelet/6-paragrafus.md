@@ -1,5 +1,3 @@
-6. § Hatályát veszti a 309/2011. (XII. 23.) Korm. rendelet
+6. §[^6]
 
-a) 5. §-a,
-
-b) 6. § (2) bekezdésében a „szolgáltatásiszint-alapú” szövegrész.
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

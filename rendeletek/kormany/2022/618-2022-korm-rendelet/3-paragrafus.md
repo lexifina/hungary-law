@@ -1,1 +1,3 @@
-3. § Hatályát veszti a 346/2010. (XII. 28.) Korm. rendelet 1. § (1) bekezdés e) pontjában a „valamint” szövegrész.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

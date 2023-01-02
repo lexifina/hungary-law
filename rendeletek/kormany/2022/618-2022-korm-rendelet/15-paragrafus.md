@@ -1,7 +1,3 @@
-15. § A 466/2017. (XII. 28.) Korm. rendelet
+15. §[^17]
 
-a) 4. § (5) bekezdésében az „alkalommal” szövegrész helyébe az „alkalommal, valamint minden teljes állomány mentése esetén” szöveg,
-
-b) 13. § (1) bekezdésében a „tartalmazza” szövegrész helyébe a „tartalmazza az adattrezor archiválás végrehajtására,” szöveg
-
-lép.
+[^17]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

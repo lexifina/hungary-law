@@ -1,1 +1,3 @@
-16. § Hatályát veszti a 466/2017. (XII. 28.) Korm. rendelet 14. § (1) bekezdésében az „– éves ellenőrzési terv alapján, valamint szükség esetén azon túl is –” szövegrész.
+16. §[^18]
+
+[^18]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

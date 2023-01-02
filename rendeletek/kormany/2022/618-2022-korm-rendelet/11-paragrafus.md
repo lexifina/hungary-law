@@ -1,5 +1,3 @@
-11. § Hatályát veszti az Eüvhr.
+11. §[^13]
 
-a) 68/A. § (2) bekezdésében a „j) és” szövegrész,
-
-b) 2. melléklet 1. pontjában a „j) és” szövegrész.
+[^13]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
