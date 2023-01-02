@@ -1,17 +1,1 @@
-16. § (1) Az ÁSZ tv. 28. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az Állami Számvevőszék ellenőrzéseinek lefolytatása, illetve az ellenőrzések megtervezése érdekében az ellenőrzött, illetve törvény alapján ellenőrizhető szervezet (a továbbiakban együtt: ellenőrzött szervezet) és annak munkavállalója közreműködésre köteles. Az ellenőrzött szervezet és annak munkavállalója közreműködési kötelezettsége a (2), (3) és (7) bekezdés, a 31. §, valamint a 33. § (1) bekezdése szerinti kötelezettségeket foglalja magában.”
-
-(2) Az ÁSZ tv. 28. § (2) bekezdése helyébe a következő rendelkezés lép, és az ÁSZ tv. 28. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2) A közreműködésre felhívott szervezet az Állami Számvevőszék által meghatározott – legalább 5 munkanapos – adatszolgáltatási határidőn belül az ellenőrzés tervezhetősége, meghatározása, illetve lefolytatása érdekében szükséges adatokat és dokumentumokat köteles rendelkezésre bocsátani, illetve a kapcsolódó tájékoztatást megadni.
-
-(2a) Az adatszolgáltatás teljesítésének biztosítása érdekében a közreműködésre felhívott szervezetet az Állami Számvevőszék hiánypótlásra hívhatja fel. Indokolt esetben az Állami Számvevőszék soron kívüli adatszolgáltatást kérhet a közreműködésre felhívott szervezettől.”
-
-(3) Az ÁSZ tv. 28. §-a a következő (6)–(8) bekezdéssel egészül ki:
-
-„(6) Az (1) és (2) bekezdésben foglalt közreműködési kötelezettségre vonatkozó rendelkezéseket kell alkalmazni az Állami Számvevőszék 5. § (13) bekezdése szerinti elemzési tevékenységének előkészítése, illetve lefolytatása érdekében megkeresett szervezetekre és azok munkavállalóira, valamint az ennek során beszerzett, rendelkezésre bocsátott adatokra, azzal, hogy az elemzési tevékenység kapcsán a (3) bekezdés, valamint 31. §, 31/A. § és a 33. § szerinti intézkedések nem alkalmazhatóak.
-
-(7) Az Állami Számvevőszék hatáskörei gyakorlásával összefüggésben az ellenőrzéseinek megtervezése, előkészítése, illetve lefolytatása érdekében a 27. §-ban foglaltak figyelembevételével közvetlen adathozzáférésre és adatfelhasználásra jogosult az információs önrendelkezési jogról és az információszabadságról szóló törvényben meghatározott közérdekű adatokat és közérdekből nyilvános adatokat (a továbbiakban együtt: közadatok) tartalmazó állami és önkormányzati nyilvántartásokhoz és adatbázisokhoz. A közadatokat tartalmazó nyilvántartást, adatbázist vezető közfeladatot ellátó szerv (a továbbiakban: adathozzáférésre felhívott szervezet) az Állami Számvevőszék felhívását követően köteles a felhívás szerinti közvetlen adathozzáférést díjmentesen biztosítani. A közvetlen adathozzáférés minősített adatokat tartalmazó adatokhoz való adathozzáférést nem eredményezhet. Amennyiben a közvetlen adathozzáférés biztosítása közérdekből egyébként nem nyilvános személyes adatokhoz, vagy egyéb, törvény által védett titkot tartalmazó adatokhoz való adathozzáférést is eredményezne, úgy az Állami Számvevőszék az adathozzáférés biztosítása érdekében az adathozzáférésre felhívott szervezettel és egyéb szervezetekkel megállapodást köthet (a továbbiakban: adathozzáférési megállapodás), amelyben a felek a 27. §-ban foglalt követelményektől való eltérés nélkül rendelkeznek az adatvédelmi követelmények biztosításának részletes szabályairól, az adathozzáférés feltételeiről. Az adathozzáférési megállapodást a felek a honlapjukon nyilvánosságra hozzák.
-
-(8) A (7) bekezdés alkalmazásában adathozzáférésnek minősül a közvetlen adatátvételt biztosító elektronikus információs rendszeren keresztüli hozzáférés biztosítása, valamint a közvetlen adatátvételt biztosító elektronikus információs rendszeren keresztüli hozzáférés biztosítása nélkül az adatok felhívásnak megfelelő rendelkezésre bocsátása.”
+### 16. §
