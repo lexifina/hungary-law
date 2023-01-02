@@ -1,1 +1,3 @@
-1. § A termelői csoportok elismeréséről szóló 42/2015. (VII. 22.) FM rendelet 7. § (1) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
