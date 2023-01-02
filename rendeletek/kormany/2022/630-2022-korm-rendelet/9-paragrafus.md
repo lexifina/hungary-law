@@ -1,3 +1,3 @@
-9. § Az R1. 25. § (1) bekezdése helyébe a következő rendelkezés lép:
+9. §[^11]
 
-„(1) A rendelések teljesítményéről a fogászati szolgáltató a 4. § (2) bekezdése és a 23. § (8) bekezdése szerint jelentést küld a finanszírozónak, legkésőbb a tárgyhónapot követő hónap 5. munkanapjáig. A NEAK a kiszámított díjat a jelentés megküldésének hónapjában utalványozza a szolgáltatónak. A teljesítménydíjjal egyidejűleg kerül kifizetésre az alapdíj és a 23. § (2b) bekezdése szerinti kiegészítő díj, a 4/A. § (4) bekezdése szerinti jogviszony-ellenőrzési díj. A NEAK a 25/B. § (2) bekezdése szerinti minősítő teljesítménydíjat a jelentés megküldését követő második hónapban utalványozza a szolgáltatónak.”
+[^11]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

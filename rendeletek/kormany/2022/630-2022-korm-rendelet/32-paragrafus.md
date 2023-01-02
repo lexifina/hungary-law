@@ -1,5 +1,3 @@
-32. § Az R6. 2. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+32. §[^37]
 
-„(1a) A Szolgáltatóközpont támogatja az egészségügyért felelős miniszternek az EESZT csatlakozáshoz használt informatikai rendszer engedélyezéséhez szükséges műszaki bevizsgáláshoz kapcsolódó feladatait.
-
-(1b) A Szolgáltatóközpont ellátja az 1. melléklet 1–3. pontja szerinti központi egészséginformatikai rendszerekhez kapcsolódó oktatási feladatokat.”
+[^37]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## „a) háziorvosi körzet: a területi ellátási kötelezettség alapján – jogszabályban meghatározottak figyelembevételével – meghatározott település, települések, illetve településrész, településrészek;”
+21. §[^26]
 
-21. § Az R3. 14. § (1) bekezdésében a „bejelentheti” szövegrész helyébe a „bejelenti” szöveg lép.
+[^26]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-36. § Hatályát veszti az R6. 4. §-ában az „– az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) bevonásával –” szövegrész.
+36. §[^41]
+
+[^41]: A 36. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

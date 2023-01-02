@@ -1,1 +1,3 @@
-28. § Az R5. 11. § (1) bekezdésében a „8 nap” szövegrész helyébe a „7 nap” szöveg lép.
+28. §[^33]
+
+[^33]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

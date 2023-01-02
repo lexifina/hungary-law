@@ -1,1 +1,3 @@
-18. § Az R2. 13. § (17) bekezdésében az „(1)–(16)” szövegrész helyébe az „(1)–(16a)” szöveg lép.
+18. §[^23]
+
+[^23]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

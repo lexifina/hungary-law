@@ -1,5 +1,5 @@
 ## 9. Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény végrehajtásáról szóló 528/2020. (XI. 28.) Korm. rendelet módosítása
 
-26. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény végrehajtásáról szóló 528/2020. (XI. 28.) Korm. rendelet (a továbbiakban: R5.) 11. §-a a következő (3) bekezdéssel egészül ki:
+26. §[^31]
 
-„(3) Az (1) bekezdésben előírt valamennyi tájékoztatási pontban történő változásáról legkésőbb a hatálybalépésük napján tájékoztatni kell az egészségügyi szolgálati jogviszonyban álló személyeket.”
+[^31]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,9 +1,3 @@
-7. § Az R1. 19. § (1) bekezdése helyébe a következő rendelkezés lép:
+7. §[^7]
 
-„(1) A NEAK az ügyeleti szolgáltatás finanszírozására
-
-a) a területileg illetékes önkormányzattal vagy azzal az egészségügyi intézményével, akivel az önkormányzat feladat átadási/átvállalási szerződést kötött,
-
-b) az alapellátáshoz kapcsolódó háziorvosi, házi gyermekorvosi ügyeleti feladatokat ellátó állami mentőszolgálattal
-
-köt szerződést.”
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

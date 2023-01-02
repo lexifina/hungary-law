@@ -1,7 +1,5 @@
 ## 8. Az Országos Kórházi Főigazgatóság feladatairól szóló 516/2020. (XI. 25.) Korm. rendelet módosítása
 
-25. § Hatályát veszíti az Országos Kórházi Főigazgatóság feladatairól szóló 516/2020. (XI. 25.) Korm. rendelet
+25. §[^30]
 
-a) 7. § (4)–(6a) bekezdése,
-
-b) 7. § (12) bekezdése.
+[^30]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

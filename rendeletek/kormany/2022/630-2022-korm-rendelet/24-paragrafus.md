@@ -1,1 +1,3 @@
-24. § Hatályát veszti az R4. 3. § (4) bekezdése.
+24. §[^29]
+
+[^29]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

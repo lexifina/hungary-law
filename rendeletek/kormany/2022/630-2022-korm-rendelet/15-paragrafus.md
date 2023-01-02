@@ -1,7 +1,3 @@
-15. § Az R1.
+15. §[^17]
 
-a) 11 §. (5) bekezdésében a „2400” szövegrészek helyébe a „3600” szöveg, az „1200” szövegrészek helyébe az „1800” szöveg,
-
-b) 25. § (3) bekezdésében a „Pénztár” szövegrész helyébe a „NEAK” szöveg
-
-lép.
+[^17]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
