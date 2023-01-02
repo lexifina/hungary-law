@@ -1,3 +1,3 @@
-18. § Az R. 35. § (2) bekezdése helyébe a következő rendelkezés lép:
+18. §[^19]
 
-„(2) Az (1) bekezdés szerinti élelmezési támogatás mértéke a 34. § alapján térítés ellenében igénybe vett ellátás nyersanyag-költségének 50%-a, amelyet készpénz-megváltás formájában kell biztosítani.”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

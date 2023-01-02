@@ -1,3 +1,3 @@
-8. § Az R. 10. § (3) bekezdése a következő e) ponttal egészül ki:
+8. §[^9]
 
-[A II. számú élelmezési norma szerinti igényjogosultságot – a (4) bekezdésben foglalt kivétellel – napiparancsban meg kell szüntetni annak, aki]
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

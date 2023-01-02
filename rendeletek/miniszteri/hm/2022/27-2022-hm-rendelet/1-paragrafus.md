@@ -1,3 +1,3 @@
-1. § A Magyar Honvédség élelmezési ellátásáról szóló 14/2018. (IX. 17.) HM rendelet (a továbbiakban: R.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) E rendeletet – az állami protokolláris vendéglátás, valamint a személyi és rendezvényi reprezentáció körébe tartozó feladatok kivételével – a Magyarország területén, valamint az e rendelet szerint meghatározott esetekben a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 59. § (1) bekezdés d) és j) pontjában meghatározott feladatok teljesítése során, külföldön megvalósuló élelmezési ellátásra kell alkalmazni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

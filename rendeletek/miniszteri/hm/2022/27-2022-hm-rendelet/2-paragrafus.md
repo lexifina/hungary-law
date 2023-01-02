@@ -1,3 +1,3 @@
-2. § Az R. 2. § 8. és 9. pontja helyébe a következő rendelkezések lépnek:
+2. §[^3]
 
-(E rendelet alkalmazásában:)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

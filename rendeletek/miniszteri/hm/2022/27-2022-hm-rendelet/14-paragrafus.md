@@ -1,3 +1,3 @@
-14. § Az R. 20. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+14. §[^15]
 
-(A kiegészítő élelmezési normát a honvédelmi szervezet és a miniszter fenntartói irányítása alá tartozó köznevelési intézmény abban az esetben számolhatja fel, ha:)
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
