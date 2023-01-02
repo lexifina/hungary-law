@@ -2,4 +2,4 @@
 
 40. § (1)
 
-(2) Nem lép hatályba a 2019. évi CX. törvény 12. § (2) bekezdése.
+(2)
