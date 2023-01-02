@@ -1,3 +1,3 @@
-6. § Az R3. a következő 24. §-sal egészül ki:
+6. §[^7]
 
-„24. § Az egyes egészségügyi tárgyú miniszteri rendeletek módosításáról szóló 82/2022. (XII. 30.) BM rendelettel megállapított 15. § (4a), (5), (8a)–(8d) bekezdésében foglaltakat 2024. február 29-ig csak abban az esetben kell alkalmazni, ha az egészségügyről szóló 1997. évi CLIV. törvény és az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény értelmében az OMSZ látja el az egészségügyi alapellátáshoz kapcsolódó háziorvosi és házi gyermekorvosi ügyeleti ellátást, egyéb esetekben a 2022. december 31-én hatályos rendelkezések az irányadók.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
