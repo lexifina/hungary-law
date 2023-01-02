@@ -1,7 +1,5 @@
 ## 6. A Svájci–Magyar Együttműködési Program végrehajtási rendjéről szóló 237/2008. (IX. 26.) Korm. rendelet módosítása
 
-7. § Hatályát veszti a Svájci–Magyar Együttműködési Program végrehajtási rendjéről szóló 237/2008. (IX. 26.) Korm. rendelet
+7. §[^8]
 
-a) 2. § (1) bekezdés 13a. pontjában az „az Európai Támogatásokat Auditáló Főigazgatóság,” szövegrész, és
-
-b) 76. § (2) bekezdésében az „államháztartásért felelős miniszternek és az” szövegrész.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

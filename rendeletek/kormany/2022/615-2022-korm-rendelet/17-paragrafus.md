@@ -1,3 +1,3 @@
-17. § (1) Hatályát veszti a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 24. § (2) bekezdése.
+17. §[^18]
 
-(2) Hatályát veszti a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 24. § (1) bekezdés nyitó szövegrészében az „és az államháztartásért felelős miniszter” szövegrész.
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
