@@ -1,5 +1,3 @@
-## A 653/2021. Korm.r. 1. melléklete a következő 4. ponttal egészül ki:
+3. melléklet az 570/2022. (XII. 23.) Korm. rendelethez[^19]
 
-## „4. Észak-Pesti Centrum Kórház – Honvédkórház”
-
-3. melléklet az 570/2022. (XII. 23.) Korm. rendelethez
+[^19]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

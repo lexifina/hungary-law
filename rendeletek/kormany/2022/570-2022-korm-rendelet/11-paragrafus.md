@@ -1,3 +1,5 @@
 ## 8. Az Egészséges Budapest Program megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 98/2017. (IV. 27.) Korm. rendelet módosítása
 
-11. § Az Egészséges Budapest Program megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 98/2017. (IV. 27.) Korm. rendelet 2. mellékletében foglalt táblázat A:13 mezőjében a „Magyar Honvédség Egészségügyi Központ (Honvéd Kórház)” szövegrész helyébe az „Észak-Pesti Centrum Kórház – Honvédkórház” szöveg lép.
+11. §[^12]
+
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

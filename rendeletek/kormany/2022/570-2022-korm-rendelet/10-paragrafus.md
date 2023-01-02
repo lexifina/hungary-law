@@ -1,3 +1,5 @@
 ## 7. A Nemzeti Adó- és Vámhivatal szerveinek hatásköréről és illetékességéről szóló 485/2015. (XII. 29.) Korm. rendelet módosítása
 
-10. § A Nemzeti Adó- és Vámhivatal szerveinek hatásköréről és illetékességéről szóló 485/2015. (XII. 29.) Korm. rendelet 92. § (2) bekezdésében az „a Magyar Honvédség Egészségügyi Központban” szövegrész helyébe az „a Magyar Honvédség Egészségügyi Központban és az Észak-Pesti Centrum Kórház – Honvédkórházban” szöveg lép.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

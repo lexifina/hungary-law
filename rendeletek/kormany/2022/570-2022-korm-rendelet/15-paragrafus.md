@@ -1,1 +1,3 @@
-15. § Hatályát veszti a 653/2021. Korm.r. 4. alcíme, valamint 4. és 4/A. melléklete.
+15. §[^16]
+
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
