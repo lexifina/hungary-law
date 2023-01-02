@@ -1,3 +1,5 @@
 ## 16. Az egyes régészeti lelőhelyek védetté nyilvánításáról szóló 81/2013. (XII. 23.) BM rendelet módosítása
 
-16. § Az egyes régészeti lelőhelyek védetté nyilvánításáról szóló 81/2013. (XII. 23.) BM rendelet 1. § (1) bekezdésében, 2. § (1) bekezdésében, 3. § (1) bekezdésében, 4. § (1) bekezdésében, 5. § (1) bekezdésében, 6. § (1) bekezdésében, 7. § (1) bekezdésében, 8. § (1) bekezdésében, 9. § (1) bekezdésében, 12. § (1) bekezdésében, 13. § (1) bekezdésében, 14. § (1) bekezdésében, 15. § (1) bekezdésében, 16. § (1) bekezdésében, 17. § (1) és (2) bekezdésében, 18. § (1) bekezdésében, 19. § (1) bekezdésében, 20. § (1) bekezdésében, 21. § (1) bekezdésében, 22. § (1) bekezdésében, 23. § (1) bekezdésében, 24. § (1) bekezdésében, 25. § (1) bekezdésében, 26. § (1) bekezdésében, 27. § (1) bekezdésében, 28. § (1) bekezdésében, valamint 29. § (1) bekezdésében a „megye” szövegrész helyébe a „vármegye” szöveg lép.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
