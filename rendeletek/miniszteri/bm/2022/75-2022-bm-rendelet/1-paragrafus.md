@@ -1,1 +1,3 @@
-1. § Hatályát veszti a közfeladatot ellátó szerveknél alkalmazható iratkezelési szoftverekkel szemben támasztott követelményekről szóló 3/2018. (II. 21.) BM rendelet 41. § (4) bekezdése.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
