@@ -1,1 +1,3 @@
-11. § Az 1. mellékletben foglalt táblázat B:16 és B:17 mezőjében a „Jász-Nagykun-Szolnok Megyei” szövegrész helyébe a „Jász-Nagykun-Szolnok Vármegyei” szöveg lép.
+11. §[^3]
+
+[^3]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

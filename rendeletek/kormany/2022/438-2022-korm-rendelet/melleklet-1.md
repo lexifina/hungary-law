@@ -34,9 +34,9 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 | 15. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-| 16. | természetvédelmi és környezetvédelmi hatósági eljárások | Jász-Nagykun-Szolnok Vármegyei Kormányhivatal mint környezetvédelmi, természetvédelmi és hulladékgazdálkodási hatóság[^3] |
+| 16. | természetvédelmi és környezetvédelmi hatósági eljárások | Jász-Nagykun-Szolnok Vármegyei Kormányhivatal mint környezetvédelmi, természetvédelmi és hulladékgazdálkodási hatóság[^4] |
 
-| 17. | vízügyi és vízvédelmi hatósági engedélyezési eljárások | Jász-Nagykun-Szolnok Vármegyei Katasztrófavédelmi Igazgatóság mint vízügyi és vízvédelmi hatóság[^4] |
+| 17. | vízügyi és vízvédelmi hatósági engedélyezési eljárások | Jász-Nagykun-Szolnok Vármegyei Katasztrófavédelmi Igazgatóság mint vízügyi és vízvédelmi hatóság[^5] |
 
 | 18. | erdészeti hatósági engedélyezési eljárások | az erdő igénybevétel helye és a felújításpótló csereerdősítések helyei szerint illetékes kormányhivatalok erdészeti hatóságai |
 
@@ -44,5 +44,5 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 | 20. | a 2–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások | a 2–19. pontban kijelölt hatóság |
 
-[^3]: Az 1. mellékletben foglalt táblázat B:16 mezője a 11. § szerint módosított szöveg.
-[^4]: Az 1. mellékletben foglalt táblázat B:17 mezője a 11. § szerint módosított szöveg.
+[^4]: Az 1. mellékletben foglalt táblázat B:16 mezője a 11. § szerint módosított szöveg.
+[^5]: Az 1. mellékletben foglalt táblázat B:17 mezője a 11. § szerint módosított szöveg.
