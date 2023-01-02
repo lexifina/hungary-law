@@ -1,7 +1,3 @@
-3. § A Rendelet
+3. §[^4]
 
-a) 5. §-ában a „megyét” szövegrész helyébe a „vármegyét” szöveg,
-
-b) 1. mellékletében a „(megye)” szövegrész helyébe a „(vármegye)” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
