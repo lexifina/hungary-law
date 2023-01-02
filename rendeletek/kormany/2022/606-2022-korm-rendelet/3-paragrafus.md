@@ -1,22 +1,29 @@
 3. § Hatályát veszti a Rendelet
 
-a)[^1]
+a)[^3]
 
-b) 3. § (5) bekezdése,
+b)[^4]
 
-c) 23. § (8) bekezdése,
+c)[^5]
 
-d) 23/A. § (1)–(3) bekezdése,
+d)[^6]
 
-e) 23/A. § (4) bekezdésében az „A szolgalmi jognak az ingatlan-nyilvántartásba történő bejegyzése iránti kérelmet a bányavállalkozónak kell benyújtania az ingatlanügyi hatósághoz.” szövegrész,
+e)[^7]
 
-f) 23/B. § (2) bekezdésében a „vagy a Bt. 38. § (4) bekezdése szerinti helyreállítási kötelezettség nem vagy nem megfelelő végzésével” szövegrész,
+f)[^8]
 
-g)[^2]
+g)[^9]
 
-h) 35/A. §-a és 35/B. §-a,
+h)[^10]
 
-i) 35/D. §-a és 35/E. §-a.
+i)[^11]
 
-[^1]: A 3. § a) pontja a 4. § (2) bekezdés alapján 2023. március 1-jén lép hatályba.
-[^2]: A 3. § g) pontja a 4. § (2) bekezdés alapján 2023. március 1-jén lép hatályba.
+[^3]: A 3. § a) pontja a 4. § (2) bekezdés alapján 2023. március 1-jén lép hatályba.
+[^4]: A 3. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 3. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 3. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 3. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 3. § g) pontja a 4. § (2) bekezdés alapján 2023. március 1-jén lép hatályba.
+[^10]: A 3. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 3. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
