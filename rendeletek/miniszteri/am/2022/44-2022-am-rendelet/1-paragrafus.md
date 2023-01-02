@@ -1,1 +1,3 @@
-1. § A Pannonhalmi Tájvédelmi Körzet létesítéséről szóló 19/1992. (XI. 6.) KTM rendelet Mellékletében a „MEGYE” szövegrészek helyébe a „VÁRMEGYE” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
