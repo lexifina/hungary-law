@@ -1,3 +1,5 @@
 ## 14. A kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló 178/2008. (VII. 3.) Korm. rendelet módosítása
 
-32. § A kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló 178/2008. (VII. 3.) Korm. rendelet 11. § (3) bekezdés a) és b) pontjában, 11. § (4) bekezdés a) és b) pontjában az „az öregségi nyugdíj legkisebb összegének” szövegrész helyébe az „a szociális vetítési alap összegének” szöveg lép.
+32. §[^32]
+
+[^32]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

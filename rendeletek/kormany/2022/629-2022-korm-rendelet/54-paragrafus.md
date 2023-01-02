@@ -1,9 +1,5 @@
 ## 26. A Nemzeti Szociálpolitikai Intézetről szóló 610/2020. (XII. 18.) Korm. rendelet módosítása
 
-54. § A Nemzeti Szociálpolitikai Intézetről szóló 610/2020. (XII. 18.) Korm. rendelet 6. § a) pontja a következő ac) alponttal egészül ki:
+54. §[^54]
 
-(Az Intézet
-
-működteti)
-
-„ac) az országos jelentkezési és képzésszervezői felületet,”
+[^54]: Az 54. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

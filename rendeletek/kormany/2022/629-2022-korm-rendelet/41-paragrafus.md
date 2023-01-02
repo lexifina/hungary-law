@@ -1,1 +1,3 @@
-41. § Az Sznyr. 41. § (3) bekezdésében a „nevelési díjat, külön ellátmányt” szövegrész helyébe a „nevelési ellátmányt” szöveg lép.
+41. §[^41]
+
+[^41]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

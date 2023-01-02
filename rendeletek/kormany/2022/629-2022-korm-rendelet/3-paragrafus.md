@@ -1,5 +1,5 @@
 ## 3. A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet módosítása
 
-3. § A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet (a továbbiakban: Gyer.) 2. § b) pontja helyébe a következő rendelkezés lép:
+3. §[^3]
 
-(E rendelet alkalmazásában)
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

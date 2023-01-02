@@ -1,3 +1,3 @@
-17. § A Gyer. 165. § (1) bekezdése helyébe a következő rendelkezés lép:
+17. §[^17]
 
-„(1) A nemzetközi vonatkozású gyámhatósági ügyben – az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa, nemzetközi szerződés vagy törvény eltérő rendelkezése hiányában – a gyámhatóság közvetlenül juttatja el külföldre irányuló megkeresését vagy a külföldi hatóság megkeresésére adott válaszát a címzettnek.”
+[^17]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

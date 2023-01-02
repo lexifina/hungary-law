@@ -1,3 +1,3 @@
-12. § A Gyer. 104. §-a a következő (1a) bekezdéssel egészül ki:
+12. §[^12]
 
-„(1a) A gyámhivatal abban az esetben is elfogadhatja az elhelyezési javaslatot és egyéni elhelyezési tervet, ha azok tekintetében kizárólag a gyermek és a kapcsolattartásra jogosult szülő, vagy más hozzátartozó kapcsolattartására vonatkozó javaslattal nem ért egyet.”
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

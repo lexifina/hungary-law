@@ -1,1 +1,3 @@
-28. § Hatályát veszti a Pr. 9. § (8) bekezdése.
+28. §[^28]
+
+[^28]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

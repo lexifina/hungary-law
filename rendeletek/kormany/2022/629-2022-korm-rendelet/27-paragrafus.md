@@ -1,1 +1,3 @@
-27. § A Pr. 7. § (2) bekezdés a) pontjában az „az öregségi nyugdíj legkisebb” szövegrész helyébe az „a szociális vetítési alap” szöveg lép.
+27. §[^27]
+
+[^27]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
