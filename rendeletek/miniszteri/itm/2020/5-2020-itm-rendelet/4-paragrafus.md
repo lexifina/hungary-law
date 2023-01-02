@@ -12,4 +12,6 @@ a)[^5] a Nemzeti Akkreditáló Hatóság által e területre és a mérendő veg
 
 b) a nemzeti vagy nemzetközi jártassági vizsgálatban írásban igazolt módon eredményesen részt vevő
 
+laboratórium végezhet.
+
 [^5]: A 4. § (4) bekezdés a) pontja a 32/2021. (VII. 26.) ITM rendelet 24. § c) pontja szerint módosított szöveg.

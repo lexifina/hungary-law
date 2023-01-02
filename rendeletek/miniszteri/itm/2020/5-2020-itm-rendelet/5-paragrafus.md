@@ -1,5 +1,3 @@
-## laboratórium végezhet.
-
 ## 3. Veszélyes anyagok meghatározása és a kockázatbecslés
 
 5. § (1) A munkáltató köteles a veszélyes anyagok munka közbeni alkalmazásából eredő kockázatokat felkutatni, megbecsülni, és a kockázatelemzést elvégezni az Mvt. 54. § (2) bekezdésével összhangban. A kockázatelemzés lépései a (2) bekezdés szerinti kockázatbecslés, a 6–13. §-ban foglaltak alapján végrehajtott kockázatkezelés, valamint a 14. § alapján elvégzett kockázat-kommunikáció.
@@ -32,7 +30,7 @@ d) a 4. § (2) bekezdése szerinti biológiai monitorozás elvégzéséről.
 
 (6) A (4) bekezdés c) pontja szerinti expozíciós terhelés meghatározásánál a munkavállaló szervezetébe felszívódó veszélyes anyagok tekintetében
 
-a) az 1. melléklet 1. pont 1.1. alpont G oszlopában foglalt értékek szerint a határértékkel rendelkező anyagokat,
+a)[^7] az 1. melléklet 1. pont 1.1. alpont I oszlopában foglalt értékek szerint a határértékkel rendelkező anyagokat,
 
 b) az a) alpontban nem szereplő, bőrön át felszívódó anyagok közül
 
@@ -40,7 +38,7 @@ ba) a rákkeltő hatású, többgyűrűs aromás szénhidrogén keverékeket,
 
 bb) az eredeti célját és alkalmazását tekintve korábban belső égésű motorokban a mozgó alkatrészek kenésére és hűtésére használt ásványolajokat
 
-## kell figyelembe venni.
+kell figyelembe venni.
 
 (7) A kockázatelemzést dokumentálni kell. A kockázatelemzést és annak dokumentációját folyamatosan naprakésszé kell tenni, ha olyan jelentős változások következtek be, amelyek a kockázatelemzést elavulttá tehetik, vagy ha a foglalkozás-egészségügyi vizsgálatok ezt indokolttá teszik.
 
@@ -55,3 +53,4 @@ bb) az eredeti célját és alkalmazását tekintve korábban belső égésű mo
 (12) Ha az (1) és (2) bekezdésben foglaltak alapján végzett kockázatelemzés eredménye azt mutatja, hogy a munkahelyen alkalmazott vegyi anyagok felhasznált mennyisége miatt a munkavállalók egészségét és biztonságát fenyegető veszély elhanyagolható mértékű, továbbá a megtett megelőző intézkedések összhangban állnak a 6. § (1)–(3) bekezdésében foglaltakkal, a 7–13. §-ban meghatározott intézkedéseket nem kell alkalmazni.
 
 [^6]: Az 5. § (4) bekezdés c) pontját a 32/2021. (VII. 26.) ITM rendelet 25. § b) pontja hatályon kívül helyezte.
+[^7]: Az 5. § (6) bekezdés a) pontja a 29/2022. (XII. 30.) GFM rendelet 4. § a) pontja szerint módosított szöveg.

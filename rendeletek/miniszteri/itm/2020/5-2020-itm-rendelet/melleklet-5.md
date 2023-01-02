@@ -1,6 +1,6 @@
 5. melléklet az 5/2020. (II. 6.) ITM rendelethez
 
-## A füstképződéssel járó hegesztési és plazmavágási folyamatok vagy az ezekhez hasonló munkafolyamatok esetében
+A füstképződéssel járó hegesztési és plazmavágási folyamatok vagy az ezekhez hasonló munkafolyamatok esetében
 
 ## a króm (VI) szervetlen vegyületek expozíciója
 

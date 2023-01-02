@@ -1,6 +1,6 @@
 4. melléklet az 5/2020. (II. 6.) ITM rendelethez
 
-## A foglalkozási vegyi expozíció esetén ajánlott biológiai expozíciós
+A foglalkozási vegyi expozíció esetén ajánlott biológiai expozíciós
 
 ## és hatásmutatók határértékei
 

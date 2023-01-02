@@ -6,9 +6,11 @@ a) a füstképződéssel járó hegesztési és plazmavágási folyamatok vagy a
 
 b) a földalatti bányászat és az alagútfúrás terén a nitrogén-monoxidra, a nitrogén-dioxidra és a szén-monoxidra vonatkozóan a 6. mellékletben
 
-c)[^8] az arzén és szervetlen vegyületeire vonatkozóan (arzin kivételével, As-ra számítva) – a rézkohósítási ágazatot kivéve – az 1. mellékletben,
+c)[^9] az arzén és szervetlen vegyületeire vonatkozóan (arzin kivételével, As-ra számítva) – a rézkohósítási ágazatot kivéve – az 1. mellékletben,
 
-d)[^9] az egészségügyi ágazat, a temetkezés és balzsamozás területén a formaldehid expozícióra vonatkozóan a 7. mellékletben
+d)[^10] az egészségügyi ágazat, a temetkezés és balzsamozás területén a formaldehid expozícióra vonatkozóan a 7. mellékletben
 
-[^8]: A 21. § c) pontját a 32/2021. (VII. 26.) ITM rendelet 19. §-a iktatta be.
-[^9]: A 21. § d) pontját a 32/2021. (VII. 26.) ITM rendelet 19. §-a iktatta be.
+meghatározott határértékeket kell alkalmazni.
+
+[^9]: A 21. § c) pontját a 32/2021. (VII. 26.) ITM rendelet 19. §-a iktatta be.
+[^10]: A 21. § d) pontját a 32/2021. (VII. 26.) ITM rendelet 19. §-a iktatta be.

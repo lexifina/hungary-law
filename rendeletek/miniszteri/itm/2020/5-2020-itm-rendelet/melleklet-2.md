@@ -1,38 +1,34 @@
-2. melléklet az 5/2020. (II. 6.) ITM rendelethez[^14]
+2. melléklet az 5/2020. (II. 6.) ITM rendelethez[^15]
 
-## Szálló- és rostszerkezetű porok koncentrációi mg/m3-ben
+Szálló- és rostszerkezetű porok koncentrációi mg/m3-ben
 
 1. Szálló porok megengedett koncentrációi mg/m3-ben
 
 |  | A | B | C | D |
 
-| 1. | Megnevezés | ÁK-érték, belélegezhető koncentráció, mg/m3-ben | ÁK-érték, respirábilis koncentráció, mg/m3-ben | Hivatkozás |
+| 1 | Megnevezés | ÁK-érték, belélegezhető koncentráció, mg/m3-ben | ÁK-érték, respirábilis koncentráció, mg/m3-ben | Hivatkozás |
 
-| 2. | Talkum (azbesztmentes) |  | 2 |  |
+| 2 | Talkum (azbesztmentes) |  | 2 |  |
 
-| 3. | Kristályos szilícium-dioxid (kvarc) |  | 0,1 | EU6 |
+| 3 | Kristályos szilícium-dioxid (beleértve kvarc, krisztobalit, tridimit és egyéb formák) |  | 0,1 | EU6 |
 
-| 4. | Krisztobalit |  | 0,1 | EU6 |
+| 4 | Keményfaporok | 3 |  | EU6 |
 
-| 5. | Tridimit |  | 0,1 | EU6 |
+| 5 | Pamut, gyapot (nyers) | 1,5 |  |  |
 
-| 6. | Keményfaporok | 2 |  | EU6 |
+| 6 | Liszt | 3 |  |  |
 
-| 7. | Pamut, gyapot (nyers) | 1,5 |  |  |
+| 7 | Papír | 2 |  |  |
 
-| 8. | Liszt | 3 |  |  |
+| 8 | Textil | 1 |  |  |
 
-| 9. | Papír | 2 |  |  |
+| 9 | Grafit por (7782-42-5) | 5 | 2 |  |
 
-| 10. | Textil | 1 |  |  |
+| 10 | Ipari korom [„Carbon Black” (1333-86-4)] | 3 |  |  |
 
-| 11. | Grafit por (7782-42-5) | 5 | 2 |  |
+| 11 | PVC | 1 | 0,5 |  |
 
-| 12. | Ipari korom [„Carbon Black” (1333-86-4)] | 3 |  |  |
-
-| 13. | PVC | 1 | 0,5 |  |
-
-| 14. | Egyéb inert porok | 10 | 6 |  |
+| 12 | Egyéb inert porok | 10 | 6 |  |
 
 1.1. Ha a keményfapor más faporral keveredik, a határérték a keverékben szereplő összes faporra vonatkozik.
 
@@ -62,4 +58,4 @@
 
 |  | 11. | Tűzálló kerámia rostok (Refrakter kerámia rostok – RCF) | 0,3 | k(1B) | EU6 | T |
 
-[^14]: A 2. melléklet a 6/2020. (II. 7.) ITM rendelet 12. § c) pontja szerint módosított szöveg.
+[^15]: A 2. melléklet a 6/2020. (II. 7.) ITM rendelet 12. § c) pontja, a 29/2022. (XII. 30.) GFM rendelet 3. § b) pontja szerint módosított szöveg.

@@ -1,14 +1,14 @@
-7. melléklet az 5/2020. (II. 6.) ITM rendelethez[^16]
+7. melléklet az 5/2020. (II. 6.) ITM rendelethez[^18]
 
-## Az egészségügyi ágazat, a temetkezés és balzsamozás területén a formaldehid expozíciója
+Az egészségügyi ágazat, a temetkezés és balzsamozás területén a formaldehid expozíciója
 
 1. A Formaldehidre vonatkozó határértékek
 
-|  | A | B | C | D | E | F |
+|  | A | B | C | D | E | F | G | H |
 
-| 1. | Megnevezés | ÁK-érték mg/m3 | CK-érték mg/m3 | Jellemző tulajdonság | Hivatkozás | ÁK korrekciós csoport |
+| 1 | Megnevezés | ÁK-érték mg/m3 | ÁK-érték ppm | CK-érték mg/m3 | CK-érték ppm | Jellemző tulajdonság | Hivatkozás | ÁK korrekciós csoport |
 
-| 2. | FORMALDEHID | 0,6 | 0,6 | k(1B), b, m, sz | EU8 | T |
+| 2 | FORMALDEHID | 0,6 | 0,5 | 0,6 | 0,5 | k(1B), b, m, sz | EU7 | T |
 
 2. Rövidítések magyarázata az 1. pontban foglalt táblázathoz:
 
@@ -24,8 +24,8 @@
 
 | 5. | sz | Túlérzékenységet okozó (szenzibilizáló) tulajdonságú anyag. Az anyagra érzékeny egyéneken „túlérzékenységen” alapuló bőr-, légzőrendszeri, esetleg más szervet/szervrendszert károsító megbetegedést okozhat. |
 
-| 6. | EU8 | 2019/983 EU irányelvben közölt érték |
+| 6. | EU7 | 2019/983 EU irányelvben közölt érték |
 
 | 7. | T | Azok az anyagok, amelyek egészségkárosító hatása TARTÓS expozíciót követően jelentkezik. |
 
-[^16]: A 7. mellékletet a 32/2021. (VII. 26.) ITM rendelet 23. §-a iktatta be.
+[^18]: A 7. mellékletet a 32/2021. (VII. 26.) ITM rendelet 23. §-a iktatta be, szövege a 29/2022. (XII. 30.) GFM rendelet 3. § a) pontja és 4. § d) pontja szerint módosított szöveg.
