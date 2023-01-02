@@ -1,1 +1,3 @@
-1. § Hatályát veszti a Kormányzati Adatközpont működéséről szóló 467/2017. (XII. 28.) Korm. rendelet 2. melléklet 10. sora.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
