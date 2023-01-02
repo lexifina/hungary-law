@@ -1,25 +1,5 @@
 ## 5. Az országgyűlési képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eredmény országosan összesített adatai körének megállapításáról, valamint a választási eljárásban használandó nyomtatványokról, valamint egyes választási tárgyú rendeletek módosításáról szóló 1/2018. (I. 3.) IM rendelet módosítása
 
-7. § (1) Az országgyűlési képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eredmény országosan összesített adatai körének megállapításáról, valamint a választási eljárásban használandó nyomtatványokról, valamint egyes választási tárgyú rendeletek módosításáról szóló 1/2018. (I. 3.) IM rendelet 7. melléklete helyébe a 6. melléklet lép.
+7. §[^8]
 
-(2) Az országgyűlési képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eredmény országosan összesített adatai körének megállapításáról, valamint a választási eljárásban használandó nyomtatványokról, valamint egyes választási tárgyú rendeletek módosításáról szóló 1/2018. (I. 3.) IM rendelet 12. melléklete helyébe a 7. melléklet lép.
-
-(3) Az országgyűlési képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eredmény országosan összesített adatai körének megállapításáról, valamint a választási eljárásban használandó nyomtatványokról, valamint egyes választási tárgyú rendeletek módosításáról szóló 1/2018. (I. 3.) IM rendelet 20. melléklete helyébe a 8. melléklet lép.
-
-(4) Az országgyűlési képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eredmény országosan összesített adatai körének megállapításáról, valamint a választási eljárásban használandó nyomtatványokról, valamint egyes választási tárgyú rendeletek módosításáról szóló 1/2018. (I. 3.) IM rendelet 24. melléklete helyébe a 9. melléklet lép.
-
-(5) Az országgyűlési képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eredmény országosan összesített adatai körének megállapításáról, valamint a választási eljárásban használandó nyomtatványokról, valamint egyes választási tárgyú rendeletek módosításáról szóló 1/2018. (I. 3.) IM rendelet 25. melléklete helyébe a 10. melléklet lép.
-
-(6) Az országgyűlési képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eredmény országosan összesített adatai körének megállapításáról, valamint a választási eljárásban használandó nyomtatványokról, valamint egyes választási tárgyú rendeletek módosításáról szóló 1/2018. (I. 3.) IM rendelet 26. melléklete helyébe a 11. melléklet lép.
-
-(7) Az országgyűlési képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eredmény országosan összesített adatai körének megállapításáról, valamint a választási eljárásban használandó nyomtatványokról, valamint egyes választási tárgyú rendeletek módosításáról szóló 1/2018. (I. 3.) IM rendelet 27. melléklete helyébe a 12. melléklet lép.
-
-(8) Az országgyűlési képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eredmény országosan összesített adatai körének megállapításáról, valamint a választási eljárásban használandó nyomtatványokról, valamint egyes választási tárgyú rendeletek módosításáról szóló 1/2018. (I. 3.) IM rendelet 28. melléklete helyébe a 13. melléklet lép.
-
-(9) Az országgyűlési képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eredmény országosan összesített adatai körének megállapításáról, valamint a választási eljárásban használandó nyomtatványokról, valamint egyes választási tárgyú rendeletek módosításáról szóló 1/2018. (I. 3.) IM rendelet 29. melléklete helyébe a 14. melléklet lép.
-
-(10) Az országgyűlési képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eredmény országosan összesített adatai körének megállapításáról, valamint a választási eljárásban használandó nyomtatványokról, valamint egyes választási tárgyú rendeletek módosításáról szóló 1/2018. (I. 3.) IM rendelet 30. melléklete helyébe a 15. melléklet lép.
-
-(11) Az országgyűlési képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eredmény országosan összesített adatai körének megállapításáról, valamint a választási eljárásban használandó nyomtatványokról, valamint egyes választási tárgyú rendeletek módosításáról szóló 1/2018. (I. 3.) IM rendelet 31. melléklete helyébe a 16. melléklet lép.
-
-(12) Az országgyűlési képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eredmény országosan összesített adatai körének megállapításáról, valamint a választási eljárásban használandó nyomtatványokról, valamint egyes választási tárgyú rendeletek módosításáról szóló 1/2018. (I. 3.) IM rendelet 35. melléklete helyébe a 17. melléklet lép.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

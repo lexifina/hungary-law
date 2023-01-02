@@ -1,7 +1,3 @@
-## „39. melléklet a 20/2019. (VII. 30.) IM rendelethez
+45. melléklet a 42/2022. (XII. 28.) IM rendelethez[^62]
 
-## 2X10986.pdf
-
-## ”
-
-45. melléklet a 42/2022. (XII. 28.) IM rendelethez
+[^62]: A 45. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

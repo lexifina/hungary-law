@@ -1,1 +1,3 @@
-10. § Az országgyűlési képviselők választása költségeinek normatíváiról, tételeiről, elszámolási és belső ellenőrzési rendjéről szóló 2/2018. (I. 3.) IM rendelet 3. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

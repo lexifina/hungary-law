@@ -1,13 +1,3 @@
-## „49. melléklet a 20/2019. (VII. 30.) IM rendelethez
+53. melléklet a 42/2022. (XII. 28.) IM rendelethez[^70]
 
-## 2X10997.pdf
-
-## ”
-
-53. melléklet a 42/2022. (XII. 28.) IM rendelethez
-
-„50. melléklet a 20/2019. (VII. 30.) IM rendelethez
-
-2X10999.pdf
-
-”
+[^70]: Az 53. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

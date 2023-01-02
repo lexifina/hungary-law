@@ -1,7 +1,3 @@
-## „48. melléklet a 20/2019. (VII. 30.) IM rendelethez
+52. melléklet a 42/2022. (XII. 28.) IM rendelethez[^69]
 
-## 2X10995.pdf
-
-## ”
-
-52. melléklet a 42/2022. (XII. 28.) IM rendelethez
+[^69]: Az 52. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

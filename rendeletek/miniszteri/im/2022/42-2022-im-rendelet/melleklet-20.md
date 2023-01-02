@@ -1,7 +1,3 @@
-## „2. melléklet a 2/2018. (I. 3.) IM rendelethez
+20. melléklet a 42/2022. (XII. 28.) IM rendelethez[^37]
 
-## 2X10935.pdf
-
-## ”
-
-20. melléklet a 42/2022. (XII. 28.) IM rendelethez
+[^37]: A 20. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

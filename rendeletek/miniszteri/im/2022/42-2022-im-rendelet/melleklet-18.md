@@ -1,7 +1,3 @@
-## „35. melléklet az 1/2018. (I. 3.) IM rendelethez
+18. melléklet a 42/2022. (XII. 28.) IM rendelethez[^35]
 
-## 2X10924.pdf
-
-## ”
-
-18. melléklet a 42/2022. (XII. 28.) IM rendelethez
+[^35]: A 18. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

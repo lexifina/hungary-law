@@ -1,7 +1,3 @@
-## „30. melléklet a 20/2019. (VII. 30.) IM rendelethez
+38. melléklet a 42/2022. (XII. 28.) IM rendelethez[^55]
 
-## 2X10972.pdf
-
-## ”
-
-38. melléklet a 42/2022. (XII. 28.) IM rendelethez
+[^55]: A 38. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

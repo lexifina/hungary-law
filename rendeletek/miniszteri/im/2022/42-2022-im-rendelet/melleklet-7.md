@@ -1,7 +1,3 @@
-## „7. melléklet az 1/2018. (I. 3.) IM rendelethez
+7. melléklet a 42/2022. (XII. 28.) IM rendelethez[^24]
 
-## 2X10902.pdf
-
-## ”
-
-7. melléklet a 42/2022. (XII. 28.) IM rendelethez
+[^24]: A 7. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

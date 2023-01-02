@@ -1,7 +1,3 @@
-## „36. melléklet a 20/2019. (VII. 30.) IM rendelethez
+43. melléklet a 42/2022. (XII. 28.) IM rendelethez[^60]
 
-## 2X10982.pdf
-
-## ”
-
-43. melléklet a 42/2022. (XII. 28.) IM rendelethez
+[^60]: A 43. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

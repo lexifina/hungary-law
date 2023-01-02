@@ -1,7 +1,3 @@
-## „31. melléklet az 1/2018. (I. 3.) IM rendelethez
+17. melléklet a 42/2022. (XII. 28.) IM rendelethez[^34]
 
-## 2X10922.pdf
-
-## ”
-
-17. melléklet a 42/2022. (XII. 28.) IM rendelethez
+[^34]: A 17. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
