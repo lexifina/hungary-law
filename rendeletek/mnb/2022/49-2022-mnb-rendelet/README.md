@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-49-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-01-01 | 2022-49-20-2C.1 | 49/2022. (XI. 22.) MNB rendelet |
+| 2023-01-02 | 2022-49-20-2C.2 | 2010. évi CXXX. törvény |
