@@ -1,1 +1,3 @@
-1. § A pénzügyminiszter felügyelete alá tartozó szervek katasztrófák elleni védekezésének irányításáról és feladatairól szóló 39/2001. (X. 31.) PM rendelet 11. §-ában a „megyei” szövegrészek helyébe a „vármegyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
