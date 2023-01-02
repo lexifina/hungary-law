@@ -1,1 +1,3 @@
-126. § Az R3. 8. § (2) bekezdésében az „ER.-ben” szövegrész helyébe az „Alk.r.-ben” szöveg lép.
+126. §[^8]
+
+[^8]: A 126. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

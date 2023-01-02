@@ -1,5 +1,5 @@
 ## 36. Az Országgyűlési Őrségnél alkalmazható rendvédelmi egészségkárosodási ellátásról szóló 56/2016. (XII. 22.) BM rendelet módosítása
 
-124. § Az Országgyűlési Őrségnél alkalmazható rendvédelmi egészségkárosodási ellátásról szóló 56/2016. (XII. 22.) BM rendelet (a továbbiakban: R3.) 2. § 3. pontja helyébe a következő rendelkezés lép:
+124. §[^6]
 
-(E rendelet alkalmazásában)
+[^6]: A 124. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

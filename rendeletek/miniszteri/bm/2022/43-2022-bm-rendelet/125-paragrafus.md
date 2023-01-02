@@ -1,5 +1,3 @@
-## „3. FÜV Bizottság: az Országgyűlési Őrségnél foglalkoztatott hivatásos állomány alkalmasságvizsgálatáról, valamint egészségügyi és pszichológiai ellátásáról szóló miniszteri rendeletben (a továbbiakban: Alk.r.) meghatározott, a megváltozott egészségi állapotú hivatásos állományúak alkalmasságát vizsgáló bizottság,”
+125. §[^7]
 
-125. § Az R3. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az Alk.r.-ben foglaltak szerint az Országgyűlési Őrség parancsnokának kézbesített, a FÜV Bizottságnak az egészségi alkalmasság felülvizsgálatára irányuló eljárása során az egészségi alkalmatlanság kérdésében hozott, „Hivatásos szolgálatra alkalmatlan” minősítést tartalmazó végrehajtható határozat (a továbbiakban: FÜV határozat) minősítő részében foglaltak alapján az Országgyűlési Őrség parancsnoka haladéktalanul intézkedik arra, hogy a humánigazgatási szakszolgálat a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény szerinti eljárást megkezdje.”
+[^7]: A 125. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

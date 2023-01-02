@@ -1,1 +1,3 @@
-121. § Az R1. 3. § (1) bekezdés c) pontjában a „vezetői” szövegrész helyébe az „irányítói és vezetői” szöveg, 3. § (2) bekezdésében az „és a vezetői” szövegrész helyébe az „az irányítói és a vezetői” szöveg lép.
+121. §[^3]
+
+[^3]: A 121. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,5 @@
 ## 34. Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet módosítása
 
-122. § Az Országgyűlési Őrség hivatásos állományát érintő humánigazgatási tárgyú szabályokról szóló 56/2012. (XI. 22.) BM rendelet 54. § (2) bekezdés b) pont bk) alpontja helyébe a következő rendelkezés lép:
+122. §[^4]
 
-(Az Országgyűlési Őrség állománytáblázata tartalmazza)
-
-„bk) a szolgálati beosztás alkalmasságvizsgálati kategóriájának megjelölését,”
+[^4]: A 122. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

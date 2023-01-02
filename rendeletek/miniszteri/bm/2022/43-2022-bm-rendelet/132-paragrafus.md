@@ -1,1 +1,3 @@
-132. § Hatályát veszti az R4. 8. § (1) bekezdésében az „a KLIR végrehajtása érdekében” szövegrész.
+132. §[^14]
+
+[^14]: A 132. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

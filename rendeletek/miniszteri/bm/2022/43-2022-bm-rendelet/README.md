@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-43-20-0
 | --- | --- | --- |
 | 2022-12-20 | 2022-43-20-0A.1 | 43/2022. (XII. 19.) BM rendelet |
 | 2023-01-01 | 2022-43-20-0A.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2023-01-02 | 2022-43-20-0A.3 | 2010. évi CXXX. törvény |
