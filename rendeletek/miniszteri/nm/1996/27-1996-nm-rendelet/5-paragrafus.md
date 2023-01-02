@@ -4,13 +4,11 @@
 
 (1a)[^24] Amennyiben a munkáltató jogutód nélkül megszűnt, és a külön jogszabályban előírtak alapján a munkakörülmények rekonstruálásához szükséges dokumentumok nem kerültek elhelyezésre a fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalánál (a továbbiakban: népegészségügyi feladatkörében eljáró járási hivatal) vagy a munkavédelmi hatóságnál, a foglalkozási eredetet a munkahigiénés és foglalkozás-egészségügyi szerv bírálja el.
 
-(2)[^25] A foglalkozási megbetegedés vagy a fokozott expozíciós eset körülményeinek kivizsgálásába a foglalkozás-egészségügyi szolgálat orvosát, a munkáltatót vagy annak képviselőjét és a munkavállalók érdekképviseletét (munkavédelmi képviselőt) is be kell vonni, valamint a vizsgálat során a megbetegedés és az expozíció okainak feltárása érdekében más hatóság, illetve intézmény is megkereshető. Ezen túlmenően a foglalkozási megbetegedés körülményeinek kivizsgálásába
+(2)[^25] A foglalkozási megbetegedés vagy a fokozott expozíciós eset körülményeinek kivizsgálásába a foglalkozás-egészségügyi szolgálat orvosát, a munkáltatót vagy annak képviselőjét és a munkavállalók érdekképviseletét is be kell vonni, valamint a vizsgálat során a megbetegedés és az expozíció okainak feltárása érdekében más hatóság, illetve intézmény is megkereshető. Ezen túlmenően a foglalkozási megbetegedés körülményeinek kivizsgálásában – ha azt a munkavédelmi hatóság kezdeményezi – részt vesz
 
-a) a miniszter által vezetett minisztérium orvos végzettségű foglalkozás-orvostan, üzemorvostan, munkahigiéné, közegészségtan-járványtan, megelőző orvostan és népegészségtan szakképesítéssel rendelkező kormánytisztviselőjét vagy
+a) a miniszter által vezetett minisztérium orvos végzettségű foglalkozás-orvostan, üzemorvostan, munkahigiéné, közegészségtan-járványtan, megelőző orvostan és népegészségtan szakképesítéssel rendelkező kormánytisztviselője vagy
 
-b) az a) pontban nevesített szakképesítéssel rendelkező megbízott orvost
-
-is minden esetben be kell vonni.
+b) az a) pontban nevesített szakképesítéssel rendelkező megbízott orvos.
 
 (3)[^26] Az (1) és (1a) bekezdés szerinti vizsgálatot a körülmények által lehetővé tett legrövidebb időn belül meg kell kezdeni, valamint a bejelentés napjától számított legkésőbb 30 napon – különösen bonyolult esetekben 60 napon – belül intézkedni kell a további foglalkozási megbetegedések megelőzése érdekében.
 
@@ -89,7 +87,7 @@ küldi meg.
 [^22]: Az 5. § a 27/2010. (XII. 31.) NGM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^23]: Az 5. § (1) bekezdése a 10/2019. (IX. 4.) PM rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^24]: Az 5. § (1a) bekezdését a 10/2019. (IX. 4.) PM rendelet 10. § (2) bekezdése iktatta be, szövege a 28/2022. (XII. 30.) GFM rendelet 3. § a) pontja szerint módosított szöveg.
-[^25]: A 5. § (2) bekezdése a 32/2021. (VII. 26.) ITM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^25]: Az 5. § (2) bekezdése a 29/2022. (XII. 30.) GFM rendelet 1. §-ával megállapított szöveg.
 [^26]: Az 5. § (3) bekezdése a 10/2019. (IX. 4.) PM rendelet 12. § c) pontja szerint módosított szöveg.
 [^27]: Az 5. § (5) bekezdése a 9/2015. (III. 31.) Korm. rendelet 8. §-ával megállapított, nyitó szövegrésze a 10/2019. (IX. 4.) PM rendelet 12. § d) pontja szerint módosított szöveg.
 [^28]: Az 5. § (5) bekezdés a) pontja a 22/2020. (VI. 29.) ITM rendelet 4. § b) pontja, a 28/2022. (XII. 30.) GFM rendelet 3. § a) pontja szerint módosított szöveg.

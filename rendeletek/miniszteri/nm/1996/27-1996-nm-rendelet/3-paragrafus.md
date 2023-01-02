@@ -1,6 +1,6 @@
 ## A foglalkozási betegségek és fokozott expozíciók bejelentése
 
-3. §[^9] (1)[^10] Az orvosi tevékenység körében észlelt – a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) hivatalos honlapján közzétett jegyzékben szereplő – foglalkozási betegség, foglalkozási eredetű heveny vagy idült mérgezés (a továbbiakban együtt: foglalkozási betegség) gyanúját a munkáltató telephelye szerint illetékes fővárosi és vármegyei kormányhivatalhoz mint munkavédelmi hatósághoz (a továbbiakban: munkavédelmi hatóság) be kell jelenteni, ki kell vizsgálni és elfogadásuk esetén nyilvántartásba kell venni. A munkavédelmi hatóság a hozzá érkezett, a foglalkozási betegség gyanújával kapcsolatos bejelentéseket egy munkanapon belül továbbítja a miniszter részére.
+3. §[^9] (1)[^10] Az orvosi tevékenység körében észlelt – a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) hivatalos honlapján közzétett jegyzékben szereplő – foglalkozási betegség, foglalkozási eredetű heveny vagy idült mérgezés (a továbbiakban együtt: foglalkozási betegség) gyanúját a munkáltató telephelye szerint illetékes fővárosi és vármegyei kormányhivatalhoz mint munkavédelmi hatósághoz (a továbbiakban: munkavédelmi hatóság) be kell jelenteni, ki kell vizsgálni és elfogadásuk esetén nyilvántartásba kell venni.
 
 (2)[^11] Az (1) bekezdés szerinti bejelentést
 
@@ -39,7 +39,7 @@ h) a bejelentést indokoló, csatolt orvosi dokumentumok számát.
 (6)[^17] A tüdőfibrózist okozó porok esetében a diagnózist felállító egészségügyi szolgáltató, illetve a munkahigiénés és foglalkozás-egészségügyi szerv végzi a bejelentést.
 
 [^9]: A 3. § a 27/2010. (XII. 31.) NGM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^10]: A 3. § (1) bekezdése a 10/2019. (IX. 4.) PM rendelet 9. § (1) bekezdésével megállapított, a 22/2020. (VI. 29.) ITM rendelet 4. § a) pontja, a 28/2022. (XII. 30.) GFM rendelet 3. § a) pontja szerint módosított szöveg.
+[^10]: A 3. § (1) bekezdése a 10/2019. (IX. 4.) PM rendelet 9. § (1) bekezdésével megállapított, a 22/2020. (VI. 29.) ITM rendelet 4. § a) pontja, a 28/2022. (XII. 30.) GFM rendelet 3. § a) pontja, a 29/2022. (XII. 30.) GFM rendelet 2. §-a szerint módosított szöveg.
 [^11]: A 3. § (2) bekezdése a 10/2019. (IX. 4.) PM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^12]: A 3. § (2a) bekezdését a 10/2019. (IX. 4.) PM rendelet 9. § (3) bekezdése iktatta be.
 [^13]: A 3. § (2a) bekezdés a) pontja a 28/2022. (XII. 30.) GFM rendelet 3. § b) pontja szerint módosított szöveg.
