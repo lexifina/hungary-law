@@ -1,1 +1,3 @@
-2. § A 33/2007. (XII. 23.) PM rendelet 15. §-ában a „megyei” szövegrészek helyébe a „vármegyei” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
