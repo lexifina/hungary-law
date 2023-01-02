@@ -1,1 +1,3 @@
-3. § Hatályát veszti az úthasználati díjelszámolásról szóló 363/2016. (XI. 29.) Korm. rendelet.
+3. §[^1]
+
+[^1]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
