@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-53-20-2
 | 2022-01-01 | 2021-53-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-01-02 | 2021-53-20-22.7 | 2010: CXXX. törvény |
 | 2023-01-01 | 2021-53-20-22.8 | 630/2022. (XII. 30.) Korm. rendelet |
+| 2023-01-02 | 2021-53-20-22.9 | 2010: CXXX. törvény |
