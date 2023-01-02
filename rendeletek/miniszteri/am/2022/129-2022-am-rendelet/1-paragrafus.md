@@ -1,1 +1,3 @@
-1. § A gyümölcs tájfajták állami elismeréséről, valamint szaporítóanyagaik előállítási és forgalomba hozatali feltételeiről szóló 27/2012. (III. 24.) VM rendelet 10. § (2) bekezdésében és 11. § (3) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
