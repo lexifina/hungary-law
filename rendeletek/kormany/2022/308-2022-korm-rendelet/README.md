@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-308-20-
 | --- | --- | --- |
 | 2022-08-12 | 2022-308-20-22.1 | 308/2022. (VIII. 11.) Korm. rendelet |
 | 2023-01-01 | 2022-308-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2023-01-02 | 2022-308-20-22.3 | 2010: CXXX. törvény |
