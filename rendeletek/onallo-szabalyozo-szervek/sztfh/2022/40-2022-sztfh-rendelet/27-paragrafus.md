@@ -1,9 +1,3 @@
-27. § Az R6.
+27. §[^35]
 
-a) 10. § (4) bekezdésében a „hatályos.” szövegrész helyébe a „hatályos. A használatbavételi engedély hatályát veszti, ha a sajátos építmény bontását megkezdik.” szöveg,
-
-b) 3. melléklet 1. pontjában a „34. §” szövegrész helyébe a „33. §” szöveg,
-
-c) 3. melléklet 2. pontjában a „35. §” szövegrész helyébe a „34. §” szöveg
-
-lép.
+[^35]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

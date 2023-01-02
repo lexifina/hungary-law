@@ -1,9 +1,3 @@
-17. § Az R3.
+17. §[^20]
 
-a) az 1. melléklet szerinti 2/a. melléklettel,
-
-b) a 2. melléklet szerinti 2/b. melléklettel és
-
-c) a 3. melléklet szerinti 2/c. melléklettel
-
-egészül ki.
+[^20]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
 ## 6. A szerencsejáték felügyeleti díjról és a szerencsejáték-szervező tevékenység engedélyezéséért és a szerencsejáték-felügyeleti hatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjról szóló 3/2022. (I. 24.) SZTFH rendelet módosítása
 
-20. § A szerencsejáték felügyeleti díjról és a szerencsejáték-szervező tevékenység engedélyezéséért és a szerencsejáték-felügyeleti hatóság által végzett egyes igazgatási szolgáltatások igénybevételéért fizetendő igazgatási-szolgáltatási díjról szóló 3/2022. (I. 24.) SZTFH rendelet (a továbbiakban: R4.) 2. § (1) bekezdés b) pontjában az „esetekben” szövegrész helyébe az „esetben” szöveg lép.
+20. §[^23]
+
+[^23]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

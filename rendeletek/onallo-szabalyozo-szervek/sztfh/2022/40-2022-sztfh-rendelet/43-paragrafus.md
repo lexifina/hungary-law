@@ -1,11 +1,11 @@
 43. § Hatályát veszti az R8.
 
-a)[^10]
+a)[^65]
 
-b) 29. § (2) bekezdésében a „ , valamint az ezekkel egy időben végzett tájrendezésre”,
+b)[^66]
 
-c) 36. § (1) bekezdésében az „az érdekeltek meghallgatásával”
+c)[^67]
 
-szövegrész.
-
-[^10]: A 43. § a) pontja a 47. § (3) bekezdés alapján 2023. március 1-jén lép hatályba.
+[^65]: A 43. § a) pontja a 47. § (3) bekezdés alapján 2023. március 1-jén lép hatályba.
+[^66]: A 43. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: A 43. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

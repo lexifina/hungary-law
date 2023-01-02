@@ -1,11 +1,5 @@
 ## 13. A polgári felhasználású robbanóanyagok forgalmazásáról és felügyeletéről szóló 28/2022. (I. 31.) SZTFH rendelet módosítása
 
-46. § A polgári felhasználású robbanóanyagok forgalmazásáról és felügyeletéről szóló 28/2022. (I. 31.) SZTFH rendelet
+46. §[^70]
 
-a) 5. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 5. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-c) 7. § (1) bekezdés záró szövegrészében a „megyei” szövegrész helyébe a „vármegyei” szöveg
-
-lép.
+[^70]: A 46. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

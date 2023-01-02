@@ -1,17 +1,17 @@
 23. § Az R5.
 
-a)[^6]
+a)[^26]
 
-b)[^7]
+b)[^27]
 
-c)[^8]
+c)[^28]
 
-d) 1. melléklet 1. pontjában foglalt táblázat B:35 mezőjében a „bányászatról szóló 1993. évi XLVIII. törvény” szövegrész helyébe a „Bt.” szöveg,
+d)[^29]
 
-e) 2. mellékletében foglalt táblázat A:5 mezőjében a „megyei” szövegrész helyébe a „vármegyei” szöveg
+e)[^30]
 
-lép.
-
-[^6]: A 23. § a) pontja a 47. § (3) bekezdés alapján 2023. március 1-jén lép hatályba.
-[^7]: A 23. § b) pontja a 47. § (3) bekezdés alapján 2023. március 1-jén lép hatályba.
-[^8]: A 23. § c) pontja a 47. § (2) bekezdés alapján 2023. február 1-jén lép hatályba.
+[^26]: A 23. § a) pontja a 47. § (3) bekezdés alapján 2023. március 1-jén lép hatályba.
+[^27]: A 23. § b) pontja a 47. § (3) bekezdés alapján 2023. március 1-jén lép hatályba.
+[^28]: A 23. § c) pontja a 47. § (2) bekezdés alapján 2023. február 1-jén lép hatályba.
+[^29]: A 23. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 23. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

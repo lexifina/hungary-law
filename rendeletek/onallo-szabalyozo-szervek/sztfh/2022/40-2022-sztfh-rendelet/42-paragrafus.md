@@ -1,35 +1,49 @@
 42. § Az R8.
 
-a) 4. § (1) bekezdésében a „körülhatárolását, az” szövegrész helyébe a „körülhatárolását és az” szöveg,
+a)[^50]
 
-b) 7. § (1) bekezdés g) pontjában az „ajánlatot, és” szövegrész helyébe az „ajánlatot,” szöveg,
+b)[^51]
 
-c) 7. § (1) bekezdés h) pontjában az „indokát.” szövegrész helyébe az „indokát és” szöveg,
+c)[^52]
 
-d) 8. § (1) bekezdés c) pontjában az „ütemezését és” szövegrész helyébe az „ütemezését,” szöveg,
+d)[^53]
 
-e) 8. § (1) bekezdés d) pontjában a „rendelkezéseket.” szövegrész helyébe a „rendelkezéseket és” szöveg,
+e)[^54]
 
-f) 20. § (5) bekezdésében az „április” szövegrész helyébe a „június” szöveg,
+f)[^55]
 
-g) 24. § (3) bekezdésében a „megállapítani.” szövegrész helyébe a „megállapítani. Szilárd ásványi nyersanyagra megállapított külfejtéses bányatelek alatti és feletti térrészre nem lehet szilárd ásványi nyersanyagra vonatkozó külfejtéses bányatelket megállapítani.” szöveg,
+g)[^56]
 
-h) 28. § (8) bekezdésében a „belül” szövegrész helyébe a „belül egy alkalommal” szöveg,
+h)[^57]
 
 i) 29. § (3) bekezdésében a „minimális” szöveg helyébe a „(2) bekezdés l) pontja szerinti minimális” szöveg,
 
-j) 30. § (5) bekezdésében a „nem” szövegrész helyébe a „nem teljes mértékben” szöveg,
+j)[^58]
 
-k) 30. § (6) bekezdésében a „kérelmei.” szövegrész helyébe a „kérelmezi. Nem kell a műszaki üzemi tervet módosítani, ha a 29. § (2) bekezdés c) pontja és j) pont jc) alpontja szerinti létesítmények tekintetében történik a módosulás.” szöveg,
+k)[^59]
 
-l) 35. § (3) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
+l)[^60]
 
-m) 38. § (7) bekezdés a) pontjában a „kijelöléséről” szövegrész helyébe a „kijelöléséről, továbbá a (6) bekezdés szerinti tilalmak betartásáról,” szöveg,
+m)[^61]
 
-n) 38. § (8) bekezdésében a „felelős.” szövegrész helyébe a „felelős. Az üzemeletető a kijelölés megtörténtét írásban rögzíti, a kijelöléssel érintett keresztezett létesítmény beazonosítására alkalmas módon.” szöveg,
+n)[^62]
 
-o) 38. § (10) bekezdés nyitó szövegrészében a „munkanapon” szövegrész helyébe a „három munkanapon belül” szöveg,
+o)[^63]
 
-p) 40. § (1) bekezdésében az „amelyre a műszaki” szövegrész helyébe az „amelyre a 29. § (1) bekezdése vagy a bánya bezárására kidolgozott műszaki” szöveg
+p)[^64]
 
-lép.
+[^50]: A 42. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 42. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 42. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^53]: A 42. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: A 42. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^55]: A 42. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: A 42. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: A 42. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: A 42. § j) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 42. § k) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: A 42. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^61]: A 42. § m) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^62]: A 42. § n) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: A 42. § o) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^64]: A 42. § p) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

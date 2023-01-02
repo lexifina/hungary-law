@@ -1,1 +1,3 @@
-9. § Az R2. 5. § (2) bekezdésében a „kérelmet” szövegrész helyébe a „kérelmet a szerencsejáték-szervező” szöveg lép.
+9. §[^12]
+
+[^12]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

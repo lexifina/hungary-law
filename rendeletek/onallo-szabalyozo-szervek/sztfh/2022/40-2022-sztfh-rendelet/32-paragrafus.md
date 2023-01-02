@@ -1,5 +1,5 @@
 ## 10. A bányászatról szóló 1993. évi XLVIII. törvény végrehajtásának egyes szabályairól szóló 20/2022. (I. 31.) SZTFH rendelet módosítása
 
-32. § A bányászatról szóló 1993. évi XLVIII. törvény végrehajtásának egyes szabályairól szóló 20/2022. (I. 31.) SZTFH rendelet (a továbbiakban: R8.) 2. §-a a következő (11) bekezdéssel egészül ki:
+32. §[^40]
 
-„(11) A bejelentő az előkutatás bejelentését a bejelentés megtételét követő 30 napon belül visszavonhatja. A visszavonást a bányafelügyelet tudomásul veszi.”
+[^40]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-31. § Az R7.
+31. §[^39]
 
-a) 5. § (12) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg,
-
-b) 5. § (14) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg
-
-lép.
+[^39]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
