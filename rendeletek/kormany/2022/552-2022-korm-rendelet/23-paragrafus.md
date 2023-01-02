@@ -1,1 +1,3 @@
-23. § Az R. 4. melléklete a 2. melléklet szerint módosul.
+23. §[^24]
+
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

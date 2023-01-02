@@ -1,3 +1,3 @@
-21. § Az R. a következő 56. §-sal egészül ki:
+21. §[^22]
 
-„56. § A Gazdaság újraindítását szolgáló sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok cím, Sportlétesítmény fejlesztések támogatása alcím jogutód előirányzata 2023. január 1. napjától a XIII. Honvédelmi Minisztérium fejezet, 21. Sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok cím, 06. Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása alcím. A Gazdaság újraindítását szolgáló sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok cím, Sportlétesítmény fejlesztések támogatása alcím terhére kifizetett vagy azon kimutatott követelések és folyamatban lévő kötelezettségek összegei 2023. január 1. napjától a XIII. Honvédelmi Minisztérium fejezet, 21. Sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok cím, 06. Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása alcímre átvezetésre kerülnek.”
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
