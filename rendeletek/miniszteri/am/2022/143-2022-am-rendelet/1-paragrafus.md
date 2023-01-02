@@ -1,7 +1,3 @@
-1. § Az államot megillető halgazdálkodási jog vagyonkezelésbe, pályázati úton történő haszonbérbe, valamint alhaszonbérbe adásának egyes szabályairól szóló 89/2015. (XII. 22.) FM rendelet
+1. §[^2]
 
-a) 3. § (4) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg,
-
-b) 1. mellékletében foglalt táblázat I.1. sor 5. pontjában és I.2.1. sorában a „megyei” szövegrész helyébe a „vármegyei” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
