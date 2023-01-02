@@ -1,1 +1,3 @@
-1. § A Cserebökényi puszták Tájvédelmi Körzet létesítéséről szóló 18/1991. (XII. 24.) KTM rendelet Mellékletében a „Csongrád megye” szövegrész helyébe a „Csongrád-Csanád vármegye” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
