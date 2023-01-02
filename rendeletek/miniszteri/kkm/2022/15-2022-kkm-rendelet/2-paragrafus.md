@@ -1,1 +1,3 @@
-2. § A külképviseletek besorolásáról, valamint a tartós külszolgálaton lévőknek járó deviza-alapilletmény és költségtérítés kiszámításának részletes szabályairól szóló 3/2017. (II. 28.) KKM rendelet 1. melléklete helyébe a 2. melléklet lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
