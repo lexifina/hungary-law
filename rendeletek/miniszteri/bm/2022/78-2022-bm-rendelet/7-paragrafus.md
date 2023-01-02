@@ -1,1 +1,3 @@
-7. § Hatályát veszti az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló 55/2014. (XII. 30.) EMMI rendelet.
+7. §[^4]
+
+[^4]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
