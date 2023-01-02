@@ -1,9 +1,9 @@
 33. § Hatályát veszti a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény
 
-a) 9. § (3) bekezdése,
+a)
 
-b) 16. §-a,
+b)
 
-c) 110. § (1) bekezdés 14. pontja, valamint
+c)
 
 d)
