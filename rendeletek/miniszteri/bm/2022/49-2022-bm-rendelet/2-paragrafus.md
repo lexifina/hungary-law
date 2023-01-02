@@ -1,9 +1,5 @@
 ## 2. Az egészségügyi szolgáltatónál képződő hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 12/2017. (VI. 12.) EMMI rendelet módosítása
 
-2. § Az egészségügyi szolgáltatónál képződő hulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 12/2017. (VI. 12.) EMMI rendelet
+2. §[^3]
 
-a) 5. § (3) bekezdés j) pontjában, 9. § (2) és (3) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 7. § (2) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
