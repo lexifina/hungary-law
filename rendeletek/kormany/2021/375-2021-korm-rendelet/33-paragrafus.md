@@ -1,4 +1,4 @@
-## 32. §[^97]
+## 32. §[^96]
 
 ## 19. Záró rendelkezések
 
@@ -8,14 +8,14 @@
 
 (3) Az 1. § (2) és (4) bekezdése, a 3. § 2. pontja, a 22. § (2), (6), (8) és (9) bekezdése, a 23. §, valamint a 7. melléklet 2021. szeptember 11-én lép hatályba.
 
-(4)[^98] A 2. §, a 3. § 1. pontja, a 4. § 1. és 2. pontja, a 9. §, a 10. §, a 11. § (1), (3), (4) és (6) bekezdése, a 14. § (1) és (15) bekezdése, a 16. § 8., 9., 11., 12., 15–17., 20., 21. és 24. pontja, a 18. § (4) és (8) bekezdése, a 27. §, a 28. §, a 29. § c)–i) pontja, valamint az 1. és 10. melléklet 2022. január 1-jén lép hatályba.
+(4)[^97] A 2. §, a 3. § 1. pontja, a 4. § 1. és 2. pontja, a 9. §, a 10. §, a 11. § (1), (3), (4) és (6) bekezdése, a 14. § (1) és (15) bekezdése, a 16. § 8., 9., 11., 12., 15–17., 20., 21. és 24. pontja, a 18. § (4) és (8) bekezdése, a 27. §, a 28. §, a 29. § c)–i) pontja, valamint az 1. és 10. melléklet 2022. január 1-jén lép hatályba.
 
 (5) A 32. § 2022. július 1-jén lép hatályba.
 
-(6)[^99] A 6. § (1) bekezdése, a 17. § a) pontja, valamint a 31. § (1) bekezdése 2023. január 1-jén lép hatályba.
+(6)[^98] A 6. § (1) bekezdése, a 17. § a) pontja, valamint a 31. § (1) bekezdése 2023. január 1-jén lép hatályba.
 
 (7) A 18. § (9), (11) és (14) bekezdése, a 19. § (3) bekezdése, a 20. § c) pontja, valamint a 6. melléklet 2023. július 1-jén lép hatályba.
 
-[^97]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^98]: A 33. § (4) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 118. §-a, a 717/2021. (XII. 20.) Korm. rendelet 32. §-a szerint módosított szöveg.
-[^99]: A 33. § (6) bekezdése a 717/2021. (XII. 20.) Korm. rendelet 33. §-a szerint módosított szöveg.
+[^96]: A 32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: A 33. § (4) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 118. §-a, a 717/2021. (XII. 20.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^98]: A 33. § (6) bekezdése a 717/2021. (XII. 20.) Korm. rendelet 33. §-a szerint módosított szöveg.
