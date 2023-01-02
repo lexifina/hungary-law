@@ -1,1 +1,3 @@
-1. § A Látrányi Puszta Természetvédelmi Terület létesítéséről szóló 8/1992. (III. 25.) KTM rendelet Mellékletében a „megye” szövegrész helyébe a „vármegye” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
