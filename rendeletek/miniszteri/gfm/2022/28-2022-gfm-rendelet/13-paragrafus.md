@@ -1,9 +1,5 @@
 ## 13. Az azbeszttel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 12/2006. (III. 23.) EüM rendelet módosítása
 
-13. § Az azbeszttel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 12/2006. (III. 23.) EüM rendelet
+13. §[^14]
 
-a) 4. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 2. melléklet szerinti táblázat 11. sorában a „Megye” szövegrész helyébe a „Vármegye” szöveg
-
-lép.
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
