@@ -1,1 +1,3 @@
-6. § Az R2. 19/A. § (2) bekezdésében a „2022.” szövegrész helyébe a „2024.” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
