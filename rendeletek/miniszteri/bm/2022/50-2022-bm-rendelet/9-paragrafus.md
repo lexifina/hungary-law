@@ -1,1 +1,3 @@
-9. § Hatályát veszti a javítóintézetek rendtartásáról szóló 1/2015. (I. 14.) EMMI rendelet 59. § b) pontjában a „megyei, fővárosi” szövegrész.
+9. §[^10]
+
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

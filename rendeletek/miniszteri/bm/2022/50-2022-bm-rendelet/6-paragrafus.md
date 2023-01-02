@@ -1,9 +1,5 @@
 ## 4. A Rendőrség nyomozó hatóságainak hatásköréről és illetékességéről szóló 25/2013. (VI. 24.) BM rendelet módosítása
 
-6. § A Rendőrség nyomozó hatóságainak hatásköréről és illetékességéről szóló 25/2013. (VI. 24.) BM rendelet
+6. §[^7]
 
-a) 1. § (2) bekezdésében, 10/B. § (1) bekezdés b) pontjában, 1. melléklet címében a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 2. melléklet 8.1. pontjában a „megyét” szövegrész helyébe a „vármegyét” szöveg
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

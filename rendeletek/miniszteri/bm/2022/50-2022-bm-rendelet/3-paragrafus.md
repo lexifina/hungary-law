@@ -1,1 +1,3 @@
-3. § A 25/2007. (V. 31.) IRM rendelet 34. mellékletében és 39. mellékletében a „megye” szövegrészek helyébe a „vármegye” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

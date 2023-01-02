@@ -1,13 +1,3 @@
-## „11. melléklet a 25/2007. (V. 31.) IRM rendelethez
+2. melléklet az 50/2022. (XII. 27.) BM rendelethez[^15]
 
-## 2X10401.pdf
-
-## ”
-
-2. melléklet az 50/2022. (XII. 27.) BM rendelethez
-
-„41. melléklet a 25/2007. (V. 31.) IRM rendelethez
-
-2X10448.pdf
-
-”
+[^15]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

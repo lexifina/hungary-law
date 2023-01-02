@@ -1,1 +1,3 @@
-2. § A 25/2007. (V. 31.) IRM rendelet 41. melléklete helyébe a 2. melléklet lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
