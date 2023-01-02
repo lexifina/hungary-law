@@ -1,1 +1,3 @@
-2. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló 257/2000. (XII. 26.) Korm. rendelet (a továbbiakban: R.) 7. számú melléklete az 1. melléklet szerint módosul.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
