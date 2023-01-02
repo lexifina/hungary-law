@@ -1,1 +1,3 @@
-1. § A Tarnavidéki Tájvédelmi Körzet létesítéséről szóló 16/1993. (IV. 7.) KTM rendelet 1. számú mellékletében a „MEGYE” szövegrészek helyébe a „VÁRMEGYE” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
