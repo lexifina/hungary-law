@@ -1,5 +1,5 @@
 ## 7. A számviteli törvény szerinti egyes egyéb szervezetek beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 479/2016. (XII. 28.) Korm. rendelet módosítása
 
-12. § A számviteli törvény szerinti egyes egyéb szervezetek beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 479/2016. (XII. 28.) Korm. rendelet (a továbbiakban: Eszkr.) 8. §-a a következő (3a) bekezdéssel egészül ki:
+12. §[^13]
 
-„(3a) Az éves beszámolóval egyidejűleg üzleti jelentést nem kell készíteni.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-6. § A Hitkr. 25. § 40. pontjában, 26. § (6) bekezdés c) pontjában és 27/A. § (4) bekezdés b) pontjában az „átlagos” szövegrész helyébe az „átlagos statisztikai állományi” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

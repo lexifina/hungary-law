@@ -1,1 +1,3 @@
-8. § A Befkr. 17. § 21. pontjában és 17/A. § (2) bekezdés c) pontjában az „átlagos” szövegrész helyébe az „átlagos statisztikai állományi” szöveg lép.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

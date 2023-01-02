@@ -1,1 +1,3 @@
-15. § Az Eszkr. 3. § (5) bekezdésében a „szociális” szövegrész helyébe a „szociális, kulturális” szöveg lép.
+15. §[^16]
+
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
