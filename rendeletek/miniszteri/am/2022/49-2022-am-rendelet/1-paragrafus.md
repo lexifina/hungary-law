@@ -1,1 +1,3 @@
-1. § A Sóstó-legelő Természetvédelmi Terület létesítéséről szóló 15/1994. (IV. 29.) KTM rendelet 1. §-ában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
