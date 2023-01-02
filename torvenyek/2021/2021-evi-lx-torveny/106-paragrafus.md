@@ -1,5 +1,5 @@
-106. § Hatályát veszti a Fétv.
+106. §
 
 a)
 
-b) 110/E §-a.
+b)
