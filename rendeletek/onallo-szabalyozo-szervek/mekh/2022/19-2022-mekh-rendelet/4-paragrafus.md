@@ -1,1 +1,3 @@
-4. § Hatályát veszti az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet szerint egyetemes szolgáltatás keretében vételezett földgáz versenypiaci költségeket tükröző árának meghatározásáról szóló 6/2022. (VII. 21.) MEKH rendelet.
+4. §[^1]
+
+[^1]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
