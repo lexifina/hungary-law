@@ -1,5 +1,5 @@
 ## 23. Az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet módosítása
 
-28. § Az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 1. §-a helyébe a következő rendelkezés lép:
+28. §[^29]
 
-„1. § A Kormány Beruházási Ügynökségként az Építési és Közlekedési Minisztériumot jelöli ki.”
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

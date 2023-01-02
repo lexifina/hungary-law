@@ -1,7 +1,3 @@
-9. § Hatályát veszti a 339/2014. (XII. 19.) Korm. rendelet
+9. §[^10]
 
-a) 3. § (2) bekezdése,
-
-b) 5. § (4) bekezdése,
-
-c) 17. §-a.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
 ## 17. Az egyes ivóvízminőség-javítási, szennyvíz-elvezetési és -tisztítási, valamint hulladékgazdálkodási beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 272/2017. (IX. 14.) Korm. rendelet módosítása
 
-22. § Az egyes ivóvízminőség-javítási, szennyvíz-elvezetési és -tisztítási, valamint hulladékgazdálkodási beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 272/2017. (IX. 14.) Korm. rendelet 1. melléklet 1. pontjában foglalt táblázat B:98–B:100 mezőjében, valamint 1. melléklet 2. pontjában foglalt táblázat B:95–B:96 mezőjében az „NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társasággal” szövegrész helyébe az „Építési és Közlekedési Minisztériummal” szöveg lép.
+22. §[^23]
+
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

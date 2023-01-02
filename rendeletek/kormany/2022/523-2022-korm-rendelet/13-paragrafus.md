@@ -1,5 +1,3 @@
-13. § Hatályát veszti a 435/2015. (XII. 28.) Korm. rendelet
+13. §[^14]
 
-a) 3. § (2) bekezdése és
-
-b) 5. § (4) bekezdése.
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

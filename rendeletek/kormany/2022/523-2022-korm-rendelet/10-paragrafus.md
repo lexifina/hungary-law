@@ -1,3 +1,5 @@
 ## 8. A kecskeméti, a kisvárdai és a szolnoki atlétikai centrum beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 107/2015. (IV. 23.) Korm. rendelet módosítása
 
-10. § A kecskeméti, a kisvárdai és a szolnoki atlétikai centrum beruházások megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 107/2015. (IV. 23.) Korm. rendelet 5. § (1) bekezdésében az „a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zrt.” szövegrész helyébe az „az Építési és Közlekedési Minisztérium” szöveg lép.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

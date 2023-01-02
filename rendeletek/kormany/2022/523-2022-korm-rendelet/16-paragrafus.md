@@ -1,7 +1,3 @@
-16. § Hatályát veszti a 158/2016. (VI. 13.) Korm. rendelet
+16. §[^17]
 
-a) 3. § (2) bekezdése,
-
-b) 5. § (4) bekezdése és
-
-c) 6/A. § (2) bekezdése.
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
