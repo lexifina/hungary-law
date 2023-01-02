@@ -1,5 +1,3 @@
-5. § Hatályát veszti a 4/2008. (VIII. 1.) ÖM rendelet
+5. §[^6]
 
-a) 5. § (7) bekezdésében a „megyei” szövegrész,
-
-b) 9. § (4) és (9) bekezdésében, 15. §-ában, 17. § (1) bekezdés a) pontjában a „megyei, fővárosi” szövegrész.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

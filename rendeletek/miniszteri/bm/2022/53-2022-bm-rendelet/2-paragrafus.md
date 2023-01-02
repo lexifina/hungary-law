@@ -1,9 +1,5 @@
 ## 2. Az étrend-kiegészítőkről szóló 37/2004. (IV. 16.) ESZCSM rendelet módosítása
 
-2. § Az étrend-kiegészítőkről szóló 37/2004. (IV. 16.) ESZCSM rendelet
+2. §[^3]
 
-a) 12. § (1) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg,
-
-b) 12. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
