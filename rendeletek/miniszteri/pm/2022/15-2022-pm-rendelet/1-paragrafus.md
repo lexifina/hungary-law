@@ -1,1 +1,3 @@
-1. § A fiatalok életkezdési támogatásával összefüggő igazolásokról és adatszolgáltatásokról szóló 43/2013. (X. 1.) NGM rendelet 2. mellékletében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
