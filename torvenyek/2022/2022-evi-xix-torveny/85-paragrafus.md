@@ -1,5 +1,5 @@
-85. § Hatályát veszti a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény
+85. §
 
-a) 15/D. § (1a) bekezdése,
+a)
 
 b)
