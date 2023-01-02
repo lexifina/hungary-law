@@ -1,1 +1,3 @@
-3. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományát érintő személyügyi igazgatás rendjéről szóló 31/2015. (VI. 16.) BM rendelet 92. § (2) bekezdés g) pontjában a „szabadság és” szövegrész helyébe a „szabadság, a szülői szabadság és” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
