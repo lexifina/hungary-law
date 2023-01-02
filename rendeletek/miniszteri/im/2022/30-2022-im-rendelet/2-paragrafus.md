@@ -1,3 +1,3 @@
-## „i) az adózás rendjéről szóló 2017. évi CL. törvény 16. §-a szerinti nyilatkozat kitöltésének konzisztenciáját,”
+2. §[^3]
 
-2. § A Cvhr. 1. számú melléklete az 1. melléklet szerint módosul.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

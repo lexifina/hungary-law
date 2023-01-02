@@ -1,9 +1,5 @@
 ## 3. A Céginformációs és az Elektronikus Cégeljárásban Közreműködő Szolgálat működéséről, valamint a céginformáció költségtérítéséről szóló 1/2006. (VI. 26.) IRM rendelet módosítása
 
-6. § Hatályát veszti a Céginformációs és az Elektronikus Cégeljárásban Közreműködő Szolgálat működéséről, valamint a céginformáció költségtérítéséről szóló 1/2006. (VI. 26.) IRM rendelet
+6. §[^7]
 
-a) 6. § (2) bekezdésében a „ , valamint a 2. § (1) és (3) bekezdésének esetében telefaxon,”,
-
-b) 8. § (1) bekezdésében a „ , telefaxon”
-
-szövegrész.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
