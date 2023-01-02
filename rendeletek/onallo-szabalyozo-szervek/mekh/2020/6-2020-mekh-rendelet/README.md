@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-6-20-5Z
 | 2021-01-02 | 2020-6-20-5Z.5 | 2010: CXXX. törvény |
 | 2021-12-17 | 2020-6-20-5Z.6 | 17/2021. (XII. 16.) MEKH rendelet |
 | 2023-01-01 | 2020-6-20-5Z.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2023-01-02 | 2020-6-20-5Z.8 | 2010: CXXX. törvény |

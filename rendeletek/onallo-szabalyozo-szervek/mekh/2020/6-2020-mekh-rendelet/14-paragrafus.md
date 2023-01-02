@@ -1,4 +1,4 @@
-## 13. § Nem lép hatályba az R3. 7. § c) pontja.
+## 13. §[^14]
 
 ## 5. Záró rendelkezések
 
@@ -6,6 +6,7 @@
 
 (2) Az 1. alcím a rendelet kihirdetését követő 31. napon lép hatályba.
 
-(3)[^12] A 11. § 2023. január 1-jén lép hatályba.
+(3)[^15] A 11. § 2023. január 1-jén lép hatályba.
 
-[^12]: A 14. § (3) bekezdése a 17/2021. (XII. 16.) MEKH rendelet 3. §-ával megállapított szöveg.
+[^14]: A 13. § a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 14. § (3) bekezdése a 17/2021. (XII. 16.) MEKH rendelet 3. §-ával megállapított szöveg.

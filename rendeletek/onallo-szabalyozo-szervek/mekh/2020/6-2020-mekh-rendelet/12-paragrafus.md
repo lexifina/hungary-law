@@ -1,3 +1,3 @@
-## 11. § Az R3. 3. §-a a következő (2) bekezdéssel egészül ki:
+## 11. §[^12]
 
-## „(2) Az energetikai szakreferens igénybevételére kötelezett gazdálkodó szervezet villamosenergia-felhasználásának figyelemmel kísérése, az indokolatlan fogyasztások feltárása és az energiamegtakarítási lehetőségek azonosítása érdekében köteles almérőt felszerelni, ahol az e rendeletben meghatározott almérővel már mért fogyasztású berendezések figyelmen kívül hagyása mellett az egy betáplálási ponton keresztül megtáplált és technológiai sorba állított berendezések (különösen: gép, gépsor, gyártósor, üzemcsarnok, illetve épület) esetében a beépített legnagyobb egyidejű teljesítményigény meghaladja a 100 kW-ot.”
+[^12]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
