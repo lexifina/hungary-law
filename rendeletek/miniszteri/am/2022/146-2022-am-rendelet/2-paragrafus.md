@@ -1,1 +1,3 @@
-2. § Hatályát veszti a 36/2017. (VII. 6.) FM rendelet 2. § 18. pontja.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
