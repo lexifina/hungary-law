@@ -1,1 +1,3 @@
-25. § A Rendelet 3. mellékletében az „A 4/B. §” szövegrész helyébe az „A 4/B. és 4/D. §” szöveg lép.
+25. §[^28]
+
+[^28]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

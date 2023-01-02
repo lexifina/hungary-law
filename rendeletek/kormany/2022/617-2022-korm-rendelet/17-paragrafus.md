@@ -1,1 +1,3 @@
-17. § A 87/2015. (IV. 9.) Korm. rendelet 5. melléklete a 2. melléklet szerint módosul.
+17. §[^19]
+
+[^19]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

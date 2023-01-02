@@ -1,9 +1,10 @@
 18. § A 87/2015. (IV. 9.) Korm. rendelet
 
-a) 38. § (4) bekezdés a) pontjában az „okirattal” szövegrész helyébe az „okirattal vagy elektronikusan hiteles eredeti okirattal” szöveg,
+a)[^20]
 
-b)[^14]
+b)[^21]
 
 lép.
 
-[^14]: A 18. § b) pontja a 29. § (3) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
+[^20]: A 18. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 18. § b) pontja a 29. § (3) bekezdés alapján 2023. szeptember 1-jén lép hatályba.
