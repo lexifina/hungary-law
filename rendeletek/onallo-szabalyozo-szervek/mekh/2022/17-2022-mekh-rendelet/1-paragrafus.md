@@ -1,1 +1,3 @@
-1. § A víziközmű-szolgáltatók és ellátásért felelősök adatszolgáltatási kötelezettségéről szóló 13/2019. (X. 4.) MEKH rendelet 1. melléklete helyébe az 1. melléklet lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
