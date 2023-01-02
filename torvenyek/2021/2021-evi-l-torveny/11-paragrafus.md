@@ -2,9 +2,7 @@
 
 11. § (1)
 
-(2) Az Utv. 7. §-a a következő (7a) bekezdéssel egészül ki:
-
-„(7a) Kérelemre a magánútlevél a nemzetiséghez tartozó személy nevét – az anyakönyvi bejegyzésben foglaltnak megfelelően – nemzetisége nyelvén is tartalmazza.”
+(2)
 
 (3)
 
