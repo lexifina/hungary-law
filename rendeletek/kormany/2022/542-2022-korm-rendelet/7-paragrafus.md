@@ -1,3 +1,3 @@
-7. § (1) Hatályát veszti a sportbeli dopping elleni nemzetközi egyezmény I. és II. melléklete módosításának kihirdetéséről szóló 537/2020. (XII. 1.) Korm. rendelet.
+7. §[^1]
 
-(2) Hatályát veszti a sportbeli dopping elleni nemzetközi egyezmény I. melléklete módosításának kihirdetéséről szóló 730/2021. (XII. 20.) Korm. rendelet.
+[^1]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
