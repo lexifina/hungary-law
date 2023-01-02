@@ -1,3 +1,1 @@
-3. § Az Aktv. 6. §-a helyébe a következő rendelkezés lép:
-
-„6. § A magyar megkereső hatóság, illetve a magyar megkeresett hatóság az adómegállapítási jogsegély szabályait a magyar jogszabályok szerinti, 5. § (1) bekezdésnek megfelelő adóval kapcsolatos eljárásban a járulék kivételével az Art. szerinti adóval összefüggésben alkalmazza.”
+### 3. §

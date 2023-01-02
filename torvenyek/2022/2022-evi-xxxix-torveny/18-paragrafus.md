@@ -1,3 +1,1 @@
-18. § Az Aktv. 46. §-a a következő (10) bekezdéssel egészül ki:
-
-„(10) A 3/B–3/D. §, a 4. § (1) bekezdés 10. pontja, a 4. § (3) bekezdés 19. pontja, a 4. § (3a) bekezdése, a 6. § (1), a 7. § (1), (1a)–(1c) és (3) bekezdése, a 8. § (1) és (4) bekezdése, a 11. §, a 12. § (4) bekezdése, a 12/A. §, a 16. § (1a) és (2) bekezdése, a 19/A. § (1) és (2) bekezdése, a 19/B. § (1) és (4) bekezdés 2. pontja, a 20. § (4)–(6) bekezdése, a II/A. fejezet, a 43/L. § (3) bekezdése, a 45/O. §, a 45/P. §, valamint az 5. melléklet az adózás területén való közigazgatási együttműködésről szóló 2011/16/EU tanácsi irányelv módosításáról szóló, 2021. március 22-i (EU) 2021/514 tanácsi irányelvnek való megfelelést szolgálja.”
+### 18. §

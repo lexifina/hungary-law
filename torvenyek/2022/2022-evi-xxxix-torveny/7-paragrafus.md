@@ -1,3 +1,1 @@
-7. § Az Aktv. 12. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A megállapodás végrehajtása során, más részes fél javaslatának beérkezése esetén a magyar megkeresett hatóság, illetve magyar megkereső hatóság – a javaslat magyar jogszabályoknak való megfelelése és költséghatékonyság elve szerinti mérlegeléssel – dönt az egyidejű ellenőrzésben való részvételről. A magyar megkeresett hatóság, illetve magyar megkereső hatóság a részvételről szóló nyilatkozatát vagy a részvétel indokolt elutasítását a javaslat beérkezésétől számított 60 napon belül továbbítja a javaslatot küldő részes fél részére.”
+### 7. §
