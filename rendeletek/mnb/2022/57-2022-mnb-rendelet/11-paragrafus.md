@@ -1,5 +1,3 @@
-11. § Hatályát veszti a Rendelet
+11. §[^18]
 
-a) 21. § (2) bekezdése,
-
-b) 39. § (4) bekezdésében a „vagy a Hpt.-ben meghatározottak szerinti azonosított elektronikus úton” szövegrész.
+[^18]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

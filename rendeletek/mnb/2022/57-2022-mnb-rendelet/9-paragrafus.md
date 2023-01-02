@@ -1,3 +1,3 @@
-9. §[^8]
+9. §[^14]
 
-[^8]: A 9. § a ... alapján 2024. február 1-jén lép hatályba.
+[^14]: A 9. § a ... alapján 2024. február 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-2. §[^5]
+2. §[^6]
 
-[^5]: A 2. § a 12. § (3) bekezdés alapján 2024. február 1-jén lép hatályba.
+[^6]: A 2. § a 12. § (3) bekezdés alapján 2024. február 1-jén lép hatályba.
