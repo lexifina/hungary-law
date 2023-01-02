@@ -1,33 +1,34 @@
 4. § A Díjrendelet
 
-a) 8. § (2) bekezdésében az „árának alapját” szövegrész helyébe az „árát” szöveg,
+a)[^19]
 
-b)[^17]
+b)[^20]
 
-c)[^18]
+c)[^21]
 
-d)[^19]
+d)[^22]
 
-e)[^20]
+e)[^23]
 
-f)[^21]
+f)[^24]
 
-g)[^22]
+g)[^25]
 
-h)[^23]
+h)[^26]
 
-i)[^24]
+i)[^27]
 
-j)[^25]
+j)[^28]
 
 lép.
 
-[^17]: A 4. § b) pontja a 6. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^18]: A 4. § c) pontja a 6. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^19]: A 4. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 4. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 4. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 4. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 4. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 4. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 4. § j) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 4. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 4. § b) pontja a 6. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^21]: A 4. § c) pontja a 6. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^22]: A 4. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 4. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 4. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 4. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 4. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 4. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 4. § j) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
