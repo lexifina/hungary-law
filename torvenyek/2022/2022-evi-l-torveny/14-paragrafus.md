@@ -1,5 +1,1 @@
-14. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 66/A. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) Az ötven fő feletti, fogyatékos vagy pszichiátriai beteg személyek számára tartós ápolást, gondozást nyújtó intézmény nem állami vagy egyházi fenntartója 2025. december 31-ig az európai uniós finanszírozású projekt keretében kialakított új támogatott lakhatási férőhelyek számával csökkenti az ötven fő feletti, fogyatékos vagy pszichiátriai beteg személyek számára tartós ápolást, gondozást nyújtó intézményei férőhelyeinek számát.
-
-(5) Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv az európai uniós finanszírozású projekt keretében kialakított, a (4) bekezdés hatálya alá nem tartozó új támogatott lakhatási férőhelyek számával 2025. december 31-ig országos szinten csökkenti az ötven fő feletti, fogyatékos vagy pszichiátriai beteg személyek számára tartós ápolást, gondozást nyújtó intézmények férőhelyeinek számát.”
+### 14. §
