@@ -1,3 +1,3 @@
-15. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 23. § (3) bekezdése helyébe a következő rendelkezés lép:
+15. §[^15]
 
-„(3) Az (1) bekezdés alkalmazása során minősített sportlövő az, akinek az országos sportági szakszövetség által kiadott minősítése van.”
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

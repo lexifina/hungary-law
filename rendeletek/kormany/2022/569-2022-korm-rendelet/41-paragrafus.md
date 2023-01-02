@@ -1,3 +1,3 @@
-41. § A közúti közlekedési nyilvántartás működéséről és az adatszolgáltatás rendjéről szóló 513/2017. (XII. 29.) Korm. rendelet 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+41. §[^40]
 
-„(1) Az adatszolgáltatás teljesíthető a közlekedési igazgatási hatóság és a Nyilvántartó hivatali helyiségében történő kézbesítéssel, infokommunikációs eszközön, postai úton vagy közvetlen hozzáféréssel.”
+[^40]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## „b) a területi védelmi bizottság (a továbbiakban: védelmi bizottság) elnöke,”
+10. §[^10]
 
-## (javaslatot tesz a vízügyi igazgatási szervek irányításáért felelős miniszternek a veszélyhelyzet kihirdetésének kezdeményezésére.)
-
-10. § A vizek kártételei elleni védekezés szabályairól szóló 232/1996. (XII. 26.) Korm. rendelet 16. § b) pontjában a „Helyi Védelmi Bizottság” szövegrész helyébe a „helyi védelmi bizottság” szöveg, valamint a „Megyei Védelmi Bizottság” szövegrész helyébe a „védelmi bizottság” szöveg lép.
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

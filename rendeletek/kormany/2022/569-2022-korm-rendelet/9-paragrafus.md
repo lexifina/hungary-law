@@ -1,5 +1,5 @@
 ## 4. A vizek kártételei elleni védekezés szabályairól szóló 232/1996. (XII. 26.) Korm. rendelet módosítása
 
-9. § A vizek kártételei elleni védekezés szabályairól szóló 232/1996. (XII. 26.) Korm. rendelet 4. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
+9. §[^9]
 
-(A katasztrófavédelemről szóló törvényben meghatározott veszélyhelyzeti feltételek fennállása esetén)
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

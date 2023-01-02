@@ -1,7 +1,3 @@
-## „10. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez
+3. melléklet az 569/2022. (XII. 23.) Korm. rendelethez[^49]
 
-## 2X10053.pdf
-
-## ”
-
-3. melléklet az 569/2022. (XII. 23.) Korm. rendelethez
+[^49]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

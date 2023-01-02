@@ -1,1 +1,3 @@
-42. § A közúti közlekedési nyilvántartás működéséről és az adatszolgáltatás rendjéről szóló 513/2017. (XII. 29.) Korm. rendelet 3. melléklete a 6. melléklet szerint módosul.
+42. §[^41]
+
+[^41]: A 42. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

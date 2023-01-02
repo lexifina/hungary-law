@@ -1,1 +1,3 @@
-44. § Hatályát veszti a közúti közlekedési nyilvántartás működéséről és az adatszolgáltatás rendjéről szóló 513/2017. (XII. 29.) Korm. rendelet 6. § (7) bekezdése.
+44. §[^43]
+
+[^43]: A 44. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

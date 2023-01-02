@@ -1,9 +1,3 @@
-13. § A fegyverekről és lőszerekről szóló 253/2004. (VIII. 31.) Korm. rendelet 12. §-a helyébe a következő rendelkezés lép:
+13. §[^13]
 
-„12. § A 4. számú mellékletben meghatározott hatósági igazolvánnyal kell ellátni
-
-a) a lőfegyver gyártását, valamint
-
-b) a forgalmazási és javítási tevékenységet közvetlenül
-
-végző személyeket.”
+[^13]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
