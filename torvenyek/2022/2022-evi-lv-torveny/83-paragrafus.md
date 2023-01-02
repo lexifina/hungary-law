@@ -1,3 +1,1 @@
-83. § A Tpvt. 80/F. §-a helyébe a következő rendelkezés lép:
-
-„80/F. § Ha az 1/2003/EK tanácsi rendelet alapján az Európai Bizottság, illetve más tagállam versenyhatósága vagy a 139/2004/EK tanácsi rendelet alapján az Európai Bizottság vizsgálati cselekmény foganatosítását kéri a Gazdasági Versenyhivataltól, e foganatosításra a versenyfelügyeleti eljárás szabályait kell alkalmazni. Ilyen esetben az eljárás a vizsgálónak a beszerzett bizonyítékok átadásáról szóló végzésével zárul. A Bizottság vagy másik tagállam versenyhatósága nem kötelezhető az eljárás során felmerült költségek viselésére.”
+### 83. §

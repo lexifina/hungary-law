@@ -1,9 +1,1 @@
-108. § (1) Az Szjt. 26. § (8a) és (8b) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(8a) Ha a rádió- vagy televízió-szervezet kiegészítő online szolgáltatás keretében rádióműsort, televíziós hír-, illetve időszerű, napi eseményekről szóló műsort, valamint a kizárólag saját forrásaiból készített televíziós műsort nyilvánossághoz közvetíti, ebbe beleértve a nyilvánosság számára lehívásra hozzáférhetővé tételt is, e felhasználásokat és az azokhoz szükséges többszörözést úgy kell tekinteni, hogy az kizárólag az Európai Gazdasági Térség azon tagállamában valósul meg, amelyben a szervezet fő tevékenységi helye található. E bekezdés – a rádió szervezetek műsora kivételével – a sporteseményre, valamint az abban foglalt műveket tartalmazó műsorszámra nem alkalmazható.
-
-(8b) A (8a) bekezdés szerinti kiegészítő online szolgáltatásnak minősül az olyan, a (7) és (8) bekezdés szerinti felhasználást megvalósító szolgáltatás, amely a rádió- vagy televízió-szervezet által vagy annak ellenőrzése és felelőssége mellett, televízió- vagy rádióműsornak a szervezet által megvalósított sugárzással egyidejűleg vagy azt követően meghatározott ideig történő nyilvánossághoz közvetítésből áll, ebbe beleértve a nyilvánosság számára hozzáférhetővé tételt, valamint bármilyen, a sugárzott műsort kiegészítő tartalom lehívásra hozzáférhetővé tételét is.”
-
-(2) Az Szjt. 26. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A (8a) bekezdésben foglalt felhasználásra adott engedély fejében járó díjazás megállapításakor figyelembe kell venni különösen a kiegészítő online szolgáltatás valamennyi jellemzőjét, ideértve a szolgáltatás elérhetőségének időtartamát, az elért közönséget és az elérhető nyelvi változatokat. E rendelkezés nem zárja ki a díjazásnak a műsorszolgáltató szervezet bevételei alapján történő kiszámítását.”
+### 108. §

@@ -1,3 +1,1 @@
-73. § A Tpvt. 33. §-a a következő (2d) bekezdéssel egészül ki:
-
-„(2d) A Gazdasági Versenyhivatal a digitális ágazat vonatkozásában a versengő és tisztességes piacokról, valamint az (EU) 2019/1937 és az (EU) 2020/1828 irányelv módosításáról (digitális piacokról szóló jogszabály) szóló, 2022. szeptember 14-i (EU) 2022/1925 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2022/1925 európai parlamenti és tanácsi rendelet] szerinti illetékes hatóságként az (EU) 2022/1925 európai parlamenti és tanácsi rendelet alkalmazása során együttműködik az Európai Bizottsággal és az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóságokkal.”
+### 73. §

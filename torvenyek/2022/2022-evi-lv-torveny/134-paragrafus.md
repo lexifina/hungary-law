@@ -1,3 +1,1 @@
-134. § A Ctv. 117/E. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Ha az eltiltással érintett személy vitatja a bejelentett követelést vagy annak egy részét, meg kell jelölnie a vitatás indokát és az annak alapjául szolgáló tényeket, valamint csatolnia kell azt az okiratot vagy annak másolatát, amelyre bizonyítékként hivatkozik. Ha a követelés közokiraton alapul, a követelés a kényszertörlési eljárásban nem vitatható, ide nem értve az arra való hivatkozást, hogy a követelés megfizetése részben vagy egészben már megtörtént. Ha az eltiltással érintett személy a vitatás indokát nem jelöli meg vagy az ellentmondásos, vagy a követelés a kényszertörlési eljárásban nem vitatható, a cégbíróság a (3) bekezdés szerinti végzésében elutasítja a követelés vitatását.”
+### 134. §
