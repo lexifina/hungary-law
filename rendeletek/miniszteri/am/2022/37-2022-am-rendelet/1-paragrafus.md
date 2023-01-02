@@ -1,5 +1,5 @@
 ## 1. A növényfajták állami elismeréséről szóló 40/2004. (IV. 7.) FVM rendelet módosítása
 
-1. § A növényfajták állami elismeréséről szóló 40/2004. (IV. 7.) FVM rendelet [a továbbiakban: 40/2004. (IV. 7.) FVM rendelet] 30. §-a a következő 36. ponttal egészül ki:
+1. §[^2]
 
-(Ez a rendelet a következő irányelveknek való megfelelést szolgálja:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

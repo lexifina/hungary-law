@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-37-20-7
 | 2022-12-09 | 2022-37-20-7R.1 | 37/2022. (XII. 6.) AM rendelet |
 | 2022-12-10 | 2022-37-20-7R.2 | 2010. évi CXXX. törvény |
 | 2023-01-01 | 2022-37-20-7R.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2023-01-02 | 2022-37-20-7R.4 | 2010. évi CXXX. törvény |
