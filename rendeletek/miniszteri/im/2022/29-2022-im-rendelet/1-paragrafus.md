@@ -1,1 +1,3 @@
-1. § Hatályát veszti a jogi segítői névjegyzék vezetésének részletes szabályairól szóló 42/2003. (XII. 19.) IM rendelet 2. §-a és 3. § (1) bekezdés d) pontja.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
