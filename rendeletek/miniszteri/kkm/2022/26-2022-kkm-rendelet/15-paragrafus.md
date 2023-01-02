@@ -1,7 +1,3 @@
-15. § A KKM rendelet
+15. §[^16]
 
-a) 1. mellékletében foglalt táblázat címében a „2022.” szövegrész helyébe a „2023.” szöveg,
-
-b) 4. mellékletében foglalt táblázat címében a „2022.” szövegrész helyébe a „2023.” szöveg
-
-lép.
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
