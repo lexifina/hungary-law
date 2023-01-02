@@ -1,1 +1,3 @@
-1. § Hatályát veszti a szerkezetátalakítási szakértő bírósági kirendelése és kirendelése megszüntetésének részletes szabályairól szóló 7/2022. (IV. 4.) IM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
