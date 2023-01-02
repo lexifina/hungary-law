@@ -1,1 +1,3 @@
-42. § Hatályát veszti a külképviseletek gazdálkodásának részletes szabályairól szóló 223/2017. (VIII. 11.) Korm. rendelet.
+42. §[^1]
+
+[^1]: A 42. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
