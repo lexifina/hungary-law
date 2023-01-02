@@ -1,1 +1,3 @@
-1. § A Sárvíz-völgye Tájvédelmi Körzet létesítéséről szóló 26/1997. (VIII. 1.) KTM rendelet Mellékletében a „megye” szövegrész helyébe a „vármegye” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
