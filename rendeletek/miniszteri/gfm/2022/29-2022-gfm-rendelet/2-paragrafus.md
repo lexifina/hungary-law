@@ -1,0 +1,1 @@
+2. § Hatályát veszti a 27/1996. NM rendelet 3. § (1) bekezdésében az „A munkavédelmi hatóság a hozzá érkezett, a foglalkozási betegség gyanújával kapcsolatos bejelentéseket egy munkanapon belül továbbítja a miniszter részére.” szövegrész.
