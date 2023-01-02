@@ -1,1 +1,3 @@
-1. § Hatályát veszti a szerkezetátalakítási szakértők továbbképzésének szabályairól szóló 10/2022. (IV. 29.) NVTNM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
