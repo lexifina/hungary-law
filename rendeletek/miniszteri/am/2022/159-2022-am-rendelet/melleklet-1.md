@@ -1,3 +1,3 @@
-1. melléklet a 159/2022. (XII. 27.) AM rendelethez[^13]
+1. melléklet a 159/2022. (XII. 27.) AM rendelethez[^11]
 
-[^13]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
