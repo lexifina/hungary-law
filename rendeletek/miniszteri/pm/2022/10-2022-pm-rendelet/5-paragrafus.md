@@ -1,1 +1,3 @@
-5. § Hatályát veszti a pénzügyminiszter irányítása alá tartozó központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 21/2021. (XII. 29.) PM rendelet.
+5. §[^1]
+
+[^1]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
