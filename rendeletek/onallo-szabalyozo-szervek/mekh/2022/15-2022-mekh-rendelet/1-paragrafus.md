@@ -1,1 +1,3 @@
-1. § A megújuló energiaforrásból termelt villamos energia működési támogatásának mértékéről szóló 13/2017. (XI. 8.) MEKH rendelet (a továbbiakban: Rendelet) 7. § (9) bekezdésében az „500 000” szövegrész helyébe a „100 000” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
