@@ -1,3 +1,3 @@
-## 40. § Az R8. 17. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 40. §[^54]
 
-## „(3) A névjegyzékbe felvett, valamint a 21. § (1) bekezdés szerinti továbbképzés esetén vizsgakötelezettségét sikeresen teljesített szakoktatónak a közlekedési hatóság a vizsga letételétől számított két évig hatályos elektronikus szakoktatói igazolványt ad ki, ide nem értve az ideiglenes névjegyzékbe történő felvételt.”
+[^54]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

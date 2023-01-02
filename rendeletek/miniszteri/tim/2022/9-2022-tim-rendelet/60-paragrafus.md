@@ -1,3 +1,3 @@
-## 59. §[^115]
+## 59. §[^120]
 
-[^115]: Az 59. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^120]: Az 59. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
