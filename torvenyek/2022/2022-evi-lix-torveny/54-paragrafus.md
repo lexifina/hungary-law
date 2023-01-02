@@ -30,7 +30,7 @@
 
 15.
 
-16. 107/A. § (4) bekezdésében az „a miniszter által vezetett minisztérium hivatalos lapjában” szövegrész helyébe az „a Magyar Közlöny mellékletét képező Hivatalos Értesítőben” szöveg,
+16.
 
 17.
 
