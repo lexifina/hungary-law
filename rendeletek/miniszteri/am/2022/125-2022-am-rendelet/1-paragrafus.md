@@ -1,7 +1,3 @@
-1. § Az arborétumok jegyzékéről szóló 19/2011. (III. 16.) VM rendelet 1. mellékletében
+1. §[^2]
 
-a) a „megye” szövegrészek helyébe a „vármegye” szöveg,
-
-b) a „Csongrád” szövegrész helyébe a „Csongrád-Csanád” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
