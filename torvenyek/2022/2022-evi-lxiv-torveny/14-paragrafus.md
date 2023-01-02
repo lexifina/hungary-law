@@ -22,6 +22,6 @@ j)
 
 k)
 
-l) 32. § (2) bekezdésében az „az érintettek meghallgatásával” szövegrész,
+l)
 
 m)
