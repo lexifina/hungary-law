@@ -1,3 +1,1 @@
-17. § A Tao. törvény 26. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Amennyiben a csoporttag csoporttagsága a jogutód nélküli megszűnéstől eltérő ok miatt szűnik meg, a csoportos társasági adóalany és a volt csoporttag, továbbá a csoportos társasági adóalany megszűnése esetén a volt csoporttag köteles a csoporttagság megszűnésére okot adó körülmény napját, illetve a csoportos társasági adóalany megszűnésére okot adó körülmény napját követő 30 napon belül a csoportos társasági adóalany által bevallott adóelőleget megosztani és bevallani, és ennek alapján a csoporttagság megszűnése, illetve a csoportos társasági adóalany megszűnése napjától az adóévet követő hatodik hónap utolsó napjáig az adóelőleget megfizetni.”
+### 17. §
