@@ -1,3 +1,3 @@
-14. § A 821/2021. (XII. 28.) Korm. rendelet 9. § (6) bekezdése helyébe a következő rendelkezés lép:
+14. §[^15]
 
-„(6) A megújuló forrásokból származó, teljes bruttó energiafogyasztásnak, valamint a kötelező bioüzemanyag-részarány kiszámításához ILUC-kockázatot jelentő anyagokból történő kiszámításához használt hozzájárulás mértéke, amely élelmiszer- vagy takarmánynövények esetében jelentős a nagy szénkészletekkel rendelkező földterületekre való termőterület-kiterjesztés megfigyelt mértéke, nem haladhatja meg ezen üzemanyagok 2019-es fogyasztási szintjét. Kivételt képez ez alól, ha az adott bioüzemanyagokat, folyékony bio-energiahordozókat vagy biomasszából előállított tüzelőanyagokat a földhasználat közvetett megváltozása tekintetében alacsony kockázatot jelentőnek minősítette a Bizottság 2019. március 13-i (EU) 2019/807 felhatalmazáson alapuló rendelete.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
