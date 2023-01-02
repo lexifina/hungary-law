@@ -1,3 +1,1 @@
-71. § A Tám. tv. 76. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Azon intézkedések igénybevételéhez megállapított mezőgazdasági vagyoni értékű jogokhoz, amelyek helyett a 2021/2115/EU európai parlamenti és tanácsi rendelet 147. cikk (2) bekezdés második albekezdésével összhangban Magyarország 2023–2027. évekre vonatkozó KAP Stratégiai Tervében foglaltak szerint új mezőgazdasági vagyoni értékű jogok kerülnek megállapításra, az új jogok megállapítását követően, vagy 2023. június 30-áig – a későbbi időpontot figyelembe véve – jogosultságok és kötelezettségek nem kapcsolódnak, azokat a mezőgazdasági és vidékfejlesztési támogatási szerv a továbbiakban nem tartja nyilván.”
+### 71. §
