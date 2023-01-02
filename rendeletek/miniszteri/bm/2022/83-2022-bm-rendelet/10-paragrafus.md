@@ -1,1 +1,3 @@
-10. § Hatályát veszti a háziorvosok indikátor alapú teljesítményértékeléséről és az orvosok gyógyszerrendelése értékelésének egyes szabályairól szóló 11/2011. (III. 30.) NEFMI rendelet.
+10. §[^1]
+
+[^1]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
