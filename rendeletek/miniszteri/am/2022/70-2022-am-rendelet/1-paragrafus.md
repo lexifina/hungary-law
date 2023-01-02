@@ -1,1 +1,3 @@
-1. § Az egyes állatok szaporításának, a szaporítóanyag felhasználásának, valamint behozatalának és kivitelének állategészségügyi feltételeiről szóló 61/2002. (VIII. 1.) FVM rendelet 4. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
