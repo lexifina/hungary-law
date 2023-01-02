@@ -1,3 +1,5 @@
 ## 1. Az egyes ingatlanok műemlékké, valamint műemléki jelentőségű területté nyilvánításáról, illetőleg műemléki védettségének megszüntetéséről szóló 25/2005. (IX. 16.) NKÖM rendelet módosítása
 
-1. § Az egyes ingatlanok műemlékké, valamint műemléki jelentőségű területté nyilvánításáról, illetőleg műemléki védettségének megszüntetéséről szóló 25/2005. (IX. 16.) NKÖM rendelet 1. § (1) bekezdésében, 2. § (1) bekezdésében, 3. § (1) bekezdésében, 9. § (1) bekezdésében, 10. § (1) bekezdésében, 11. § (1) bekezdésében, 12. § (1) bekezdésében, 13. § (1) bekezdésében, 14. § (1) bekezdésében, 15. § (1) bekezdésében, 16. § (1) bekezdésében, 17. § (1) bekezdésében, 18. § (1) bekezdésében, 19. § (1) bekezdésében, 21. § (1) bekezdésében, 22. § (1) bekezdésében, 23. § (1) bekezdésében, 24. § (1) bekezdésében, 25. § (1) bekezdésében, 26. § (1) bekezdésében, 27. § (1) bekezdésében, 28. § (1) bekezdésében, 29. § (1) bekezdésében, 30. § (1) bekezdésében, 31. § (1) bekezdésében, 34. § (1) bekezdésében, 37. § (1) bekezdésében, 38. § (1) bekezdésében, 40. § (1) bekezdésében, 41. § (1) bekezdésében, 42. § (1) bekezdésében, 43. § (1) bekezdésében, 44. § (1) bekezdésében, 45. § (1) bekezdésében és 46. § (1) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

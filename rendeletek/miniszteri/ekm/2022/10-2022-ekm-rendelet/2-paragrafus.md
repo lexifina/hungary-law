@@ -1,9 +1,5 @@
 ## 2. Az egyes ingatlanok műemlékké nyilvánításáról, valamint műemléki jelentőségű területté nyilvánításáról, illetve műemléki védettségének megszüntetéséről szóló 24/2012. (IX. 14.) EMMI rendelet módosítása
 
-2. § Az egyes ingatlanok műemlékké nyilvánításáról, valamint műemléki jelentőségű területté nyilvánításáról, illetve műemléki védettségének megszüntetéséről szóló 24/2012. (IX. 14.) EMMI rendelet
+2. §[^3]
 
-a) 1. § (1) bekezdésében, 2. § (2) bekezdésében, 13. § (1) és (2) bekezdésében, 14. § (1) és (2) bekezdésében, 15. § (2) bekezdésében, 16. § (1) bekezdésében, 17. § (1) és (2) bekezdésében, 18. § (1) és (2) bekezdésében, 19. § (1) és (2) bekezdésében, 20. § (1) és (2) bekezdésében, 21. § (1) bekezdésében, 22. § (1) és (2) bekezdésében, 23. § (1) és (2) bekezdésében, 24. § (1) és (2) bekezdésében, 25. § (1) és (2) bekezdésében, 26. § (1) és (2) bekezdésében, 27. § (1) és (2) bekezdésében, 28. § (1) és (2) bekezdésében, 29. § (1) bekezdésében, 30. § (1) és (2) bekezdésében, 31. § (1) és (2) bekezdésében, 32. § (1) és (2) bekezdésében, 33. § (1) és (2) bekezdésében, 34. § (1) bekezdésében, 35. § (1) bekezdésében, 36. § (1) és (2) bekezdésében, 37. § (1) és (2) bekezdésében, 38. § (1) bekezdésében, 39. § (1) és (2) bekezdésében, 40. § (1) és (2) bekezdésében, 41. § (1) bekezdésében, 42. § (1) és (2) bekezdésében, 43. § (2) bekezdésében, 44. § (1) bekezdésében, 45. § (1) és (2) bekezdésében, 46. § (1) és (2) bekezdésében, 47. § (1) és (2) bekezdésében, 48. § (1) bekezdésében, 50. § (1) és (2) bekezdésében, 51. § (1) bekezdésében, 53. § (1) bekezdésében, 54. § (1) bekezdésében, 55. § (1) bekezdésében, 56. § (1) és (2) bekezdésében, valamint 57. § (1) bekezdésében a „megye” szövegrész helyébe a „vármegye” szöveg,
-
-b) 2. § (1) bekezdésében, 15. § (1) bekezdésében, 43. § (1) bekezdésében és 49. § (1) bekezdésében a „megye” szövegrészek helyébe a „vármegye” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
