@@ -1,1 +1,3 @@
-1. § A zöldség-gyümölcs termelői szervezetekről szóló 50/2017. (X. 10.) FM rendelet 4. § (3a) bekezdés b) pontjában és 26. § (1) bekezdés b) pontjában a „megye” szövegrész helyébe a „vármegye” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
