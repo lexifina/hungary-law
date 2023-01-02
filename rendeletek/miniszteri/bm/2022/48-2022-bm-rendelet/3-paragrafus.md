@@ -1,9 +1,5 @@
 ## 3. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény végrehajtásáról szóló 22/2006. (IV. 25.) BM rendelet módosítása
 
-3. § A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény végrehajtásáról szóló 22/2006. (IV. 25.) BM rendelet
+3. §[^4]
 
-a) 5. § (2) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg,
-
-b) 1. mellékletében foglalt táblázat A:4–A:22 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

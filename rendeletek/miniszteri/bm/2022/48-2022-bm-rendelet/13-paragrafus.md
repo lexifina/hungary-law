@@ -1,9 +1,5 @@
 ## 12. A vízügyi és a vízvédelmi hatósági eljárások igazgatási szolgáltatási díjairól szóló 13/2015. (III. 31.) BM rendelet módosítása
 
-13. § A vízügyi és a vízvédelmi hatósági eljárások igazgatási szolgáltatási díjairól szóló 13/2015. (III. 31.) BM rendelet
+13. §[^14]
 
-a) 1. §-ában a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 3. mellékletében foglalt táblázat A:3–A:8 és A:10–A:14 mezőjében a „Megyei” szövegrész helyébe a „Vármegyei” szöveg
-
-lép.
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
