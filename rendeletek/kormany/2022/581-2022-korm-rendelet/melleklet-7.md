@@ -1,5 +1,3 @@
-## „6. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
+7. melléklet az 581/2022. (XII. 23.) Korm. rendelethez[^12]
 
-## 2X10205.pdf”
-
-7. melléklet az 581/2022. (XII. 23.) Korm. rendelethez
+[^12]: A 7. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

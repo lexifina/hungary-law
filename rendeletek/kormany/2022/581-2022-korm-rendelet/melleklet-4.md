@@ -1,5 +1,3 @@
-## „3. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
+4. melléklet az 581/2022. (XII. 23.) Korm. rendelethez[^9]
 
-## 2X10194.pdf”
-
-4. melléklet az 581/2022. (XII. 23.) Korm. rendelethez
+[^9]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## „11. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
+12. melléklet az 581/2022. (XII. 23.) Korm. rendelethez[^17]
 
-## 2X10215.pdf”
-
-12. melléklet az 581/2022. (XII. 23.) Korm. rendelethez
+[^17]: A 12. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

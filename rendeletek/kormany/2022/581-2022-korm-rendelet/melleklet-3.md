@@ -1,5 +1,3 @@
-## „2. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
+3. melléklet az 581/2022. (XII. 23.) Korm. rendelethez[^8]
 
-## 2X10193.pdf”
-
-3. melléklet az 581/2022. (XII. 23.) Korm. rendelethez
+[^8]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
