@@ -1,1 +1,3 @@
-1. § A szőlőfeldolgozás és a borkészítés során keletkező melléktermékek kivonásáról és támogatással történő lepárlásáról szóló 70/2012. (VII. 16.) VM rendelet 8. § (1) bekezdés nyitó szövegrészében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
