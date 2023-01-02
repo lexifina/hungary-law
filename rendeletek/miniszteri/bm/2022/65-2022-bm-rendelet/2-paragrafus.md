@@ -1,15 +1,3 @@
-2. § (1) A rendőrség szolgálati szabályzatáról szóló 30/2011. (IX. 22.) BM rendelet 97/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(1) Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában a külföldi rendészeti feladatokat ellátó hatóság szolgálati lőfegyvereinek, lőszereinek szolgálati célból Magyarország területére történő behozatalát
-
-a) az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve,
-
-b) a Nemzeti Védelmi Szolgálat vagy
-
-c) a Terrorelhárítási Központ
-
-vezetője írásban engedélyezi.”
-
-(2) A rendőrség szolgálati szabályzatáról szóló 30/2011. (IX. 22.) BM rendelet 97/B. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés szerinti engedélyt annak a rendőri szervnek a vezetője adja ki, amely rendőri szerv feladatellátásához a külföldi rendészeti feladatokat ellátó hatóság magyarországi tevékenysége kapcsolódik.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
