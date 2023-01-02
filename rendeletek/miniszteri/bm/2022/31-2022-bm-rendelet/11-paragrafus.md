@@ -1,1 +1,3 @@
-11. § Hatályát veszti a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományának 2022. évi ruházati utánpótlási ellátmánya terhére kiadandó természetbeni ellátásról szóló 42/2021. (XII. 9.) BM rendelet.
+11. §[^2]
+
+[^2]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
