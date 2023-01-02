@@ -1,9 +1,5 @@
 ## 5. A cégbejegyzési eljárás és a cégnyilvántartás egyes kérdéseiről szóló 21/2006. (V. 18.) IM rendelet módosítása
 
-5. § A cégbejegyzési eljárás és a cégnyilvántartás egyes kérdéseiről szóló 21/2006. (V. 18.) IM rendelet
+5. §[^6]
 
-a) 9. § (1) bekezdésében a „megyét” szövegrész helyébe a „vármegyét” szöveg,
-
-b) 2. mellékletében a „megyének” szövegrész helyébe a „vármegyének” szöveg és a „megye” szövegrészek helyébe a „vármegye” szöveg
-
-lép.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

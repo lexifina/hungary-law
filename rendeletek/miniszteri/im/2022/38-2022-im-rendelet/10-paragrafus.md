@@ -1,9 +1,5 @@
 ## 10. A büntető ügyekben közvetítői tevékenységet végző pártfogó felügyelő képesítési követelményeiről szóló 38/2015. (XII. 21.) IM rendelet módosítása
 
-10. § A büntető ügyekben közvetítői tevékenységet végző pártfogó felügyelő képesítési követelményeiről szóló 38/2015. (XII. 21.) IM rendelet
+10. §[^11]
 
-a) 1. § (1) bekezdés b) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 1. § (3) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg
-
-lép.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
