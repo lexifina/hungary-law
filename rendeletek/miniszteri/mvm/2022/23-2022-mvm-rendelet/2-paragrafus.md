@@ -1,3 +1,3 @@
-2. § Az Inyvhr. 47. §-a a következő (3) bekezdéssel egészül ki:
+2. §[^3]
 
-„(3) Az erdő művelési ágban nyilvántartott ingatlannak minőségi osztálya és kataszteri tisztajövedelme nincs.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
