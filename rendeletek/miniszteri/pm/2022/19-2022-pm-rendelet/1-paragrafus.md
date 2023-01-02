@@ -1,1 +1,3 @@
-1. § A fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 9/2018. (X. 19.) PM rendelet 5. § (1) bekezdés 65. pontjában és 16. § (4) bekezdésében a „megyében” szövegrész helyébe a „vármegyében” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
