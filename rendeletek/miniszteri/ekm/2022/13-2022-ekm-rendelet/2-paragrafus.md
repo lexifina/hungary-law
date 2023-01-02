@@ -1,3 +1,5 @@
 ## 2. Az egyes ingatlanok műemlékké nyilvánításáról, műemléki védettségének megszüntetéséről, valamint egyes műemlékvédelmi tárgyú miniszteri rendeletek módosításáról szóló 7/2017. (III. 7.) MvM rendelet módosítása
 
-2. § Az egyes ingatlanok műemlékké nyilvánításáról, műemléki védettségének megszüntetéséről, valamint egyes műemlékvédelmi tárgyú miniszteri rendeletek módosításáról szóló 7/2017. (III. 7.) MvM rendelet 2. § (1) bekezdésében, 3. § (1) bekezdésében, 4. § (1) bekezdésében, 5. § (1) bekezdésében, 6. § (1) bekezdésében, 10. § (1) bekezdésében, 11. § (1) bekezdésében, 12. § (1) bekezdésében, 13. § (1) bekezdésében, 14. § (1) bekezdésében, 15. § (1) bekezdésében, 16. § (1) bekezdésében, 17. § (1) bekezdésében és 18. § (1) bekezdésében a „megye” szövegrész helyébe a „vármegye” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
