@@ -1,1 +1,3 @@
-1. § A kerékbilincs közterület-felügyelet általi alkalmazására, a járművek elszállítására, valamint a felmerült költségekre vonatkozó szabályokról szóló 55/2009. (X. 16.) IRM rendelet 8. § b) pontjában az „úton álló” szövegrész helyébe az „úton vagy területen álló” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
