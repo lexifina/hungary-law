@@ -1,1 +1,0 @@
-A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 100. § (1) bekezdés c) pont 6. alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 11. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
