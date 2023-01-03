@@ -1,1 +1,0 @@
-Az anyakönyvi eljárásról szóló 2010. évi I. törvény 95. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 30. § (1) bekezdés 14. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
