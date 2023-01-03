@@ -1,7 +1,0 @@
-A hulladékról szóló 2012. évi CLXXXV. törvény 88. § (3) bekezdés a) pont aa) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 26. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 6. pontjában meghatározott feladatkörében eljáró energiaügyi miniszterrel egyetértésben –,
-
-a 2. alcím tekintetében a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (3) bekezdés a) pont aa) és ab) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 26. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 6. pontjában meghatározott feladatkörében eljáró energiaügyi miniszterrel egyetértésben –,
-
-a 3. alcím tekintetében a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (3) bekezdés a) pont ac) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 26. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 160. § 6. pontjában meghatározott feladatkörében eljáró energiaügyi miniszterrel egyetértésben –
-
-a következőket rendelem el:
