@@ -1,5 +1,0 @@
-## 133. A Budapest X. kerületben megvalósuló ingatlanfejlesztéssel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és egyes eljáró hatóságok kijelöléséről szóló 308/2016. (X. 13.) Korm. rendelet módosítása
-
-133. §[^134]
-
-[^134]: A 133. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
