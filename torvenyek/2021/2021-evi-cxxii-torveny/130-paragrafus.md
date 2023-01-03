@@ -1,3 +1,0 @@
-130. § (1) A 8. alcímben, a 9. alcímben, a 14. alcímben, a 16. alcímben, valamint a 25. alcímben meghatározott módosításokkal érintett, az e törvény hatálybalépésekor hivatalban lévő személyek megbízatását – a (2) bekezdésben meghatározott kivételekkel – az ezen alcímekben foglalt módosítások nem érintik.
-
-(2) A 8. alcímben, a 9. alcímben, a 14. alcímben, a 16. alcímben, valamint a 25. alcímben meghatározott módosításokkal érintett, az e törvény hatálybalépésekor hivatalban lévő személyek megbízatásának megszűnésére, illetve megszüntetésére, valamint helyettesítésére a 8. alcímben, a 9. alcímben, a 14. alcímben, a 91. §-ban, a 92. §-ban, a 123. §-ban, a 124. §-ban, valamint a 125. §-ban foglalt módosításokat alkalmazni kell.
