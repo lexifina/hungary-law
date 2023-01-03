@@ -1,1 +1,0 @@
-Az országgyűlési képviselők választása kampányköltségeinek átláthatóvá tételéről szóló 2013. évi LXXXVII. törvény 10. § a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 148. § (1) bekezdés 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
