@@ -1,1 +1,0 @@
-A szőlészetről és borászatról szóló 2020. évi CLXIII. törvény 23. § (3) bekezdés 10. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
