@@ -1,1 +1,0 @@
-4. § Ez a rendelet a statisztikai célú területi egységek nómenklatúrájának (NUTS) létrehozásáról szóló, 2003. május 26-i 1059/2003/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
