@@ -1,5 +1,0 @@
-## 67. A rendészeti feladatokat ellátó személyek és a segédfelügyelők által alkalmazható kényszerítő eszközök igénylésének, átvételének és visszavételének szabályairól, a térítés módjáról, a kényszerítő eszközök típusaira, fajtáira és az alkalmazásukra, valamint a jelentéstétel és a kivizsgálás rendjére vonatkozó részletes szabályokról szóló 86/2012. (XII. 28.) BM rendelet módosítása
-
-70. §[^71]
-
-[^71]: A 70. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
