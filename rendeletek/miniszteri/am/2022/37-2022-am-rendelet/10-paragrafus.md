@@ -1,1 +1,0 @@
-10. § E rendelet 1. alcíme a 2003/90/EK és 2003/91/EK irányelvnek a mezőgazdasági növényfajok és a zöldségfajok egyes fajtáinak vizsgálatára vonatkozó előírások tekintetében történő módosításáról szóló, 2022. június 9-i (EU) 2022/905 bizottsági végrehajtási irányelvnek való megfelelést szolgálja.
