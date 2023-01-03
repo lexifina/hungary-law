@@ -1,1 +1,0 @@
-A büntetőeljárásról szóló 2017. évi XC. törvény 866. § (2) bekezdés 1. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
