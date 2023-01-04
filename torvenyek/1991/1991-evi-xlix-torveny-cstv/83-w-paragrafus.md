@@ -16,6 +16,8 @@ c) a felszámoló köteles beszerezni a bűnügyi hitelezői igénybejelentés a
 
 (6) A közérdekű nyugdíjas szövetkezet és a kisgyermekkel otthon lévők szövetkezete tagjai védelméről szóló 2022. évi XXVI. törvénnyel (a továbbiakban: 2022. évi XXVI. törvény) megállapított 57. § (2) bekezdés a) pont ac) alpontját a folyamatban lévő felszámolási eljárásokban a 2022. évi XXVI. törvény hatálybalépése után esedékessé vált kifizetésekre kell alkalmazni, kivéve, ha a felszámoló a 2022. évi XXVI. törvény hatálybalépése napjáig a zárómérleget már benyújtotta.
 
+(7) E törvénynek az egyes büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2022. évi LX. törvénnyel (a továbbiakban: 2022. évi LX. törvény) megállapított rendelkezéseit a 2022. évi LX. törvény hatálybalépésekor folyamatban lévő felszámolási eljárásokban is alkalmazni kell, kivéve, ha a folyamatban lévő felszámolási eljárásban már sor került a felszámolási zárómérleg bírósághoz történő benyújtására.
+
 (7) E törvénynek az egyes gazdasági tárgyú törvények, valamint egyes vagyongazdálkodást és postaügyet érintő törvények módosításáról szóló 2022. évi LXVIII. törvénnyel (a továbbiakban: 2022. évi LXVIII. törvény) megállapított rendelkezéseit – a (8) és (9) bekezdés szerinti kivétellel – e rendelkezések hatálybalépését követően kezdeményezett csődeljárásokban és felszámolási eljárásokban kell alkalmazni.
 
 (8) E törvénynek a 2022. évi LXVIII. törvénnyel megállapított 27/A. § (11) bekezdését, 27/A. § (11b)–(11c) bekezdését, 66. § (3) bekezdését, 79/A. § (7) bekezdését abban a felszámolási eljárásban kell alkalmazni, amelyben a felszámoló felmentésére a 2022. évi LXVIII. törvény hatálybalépését követően került sor.

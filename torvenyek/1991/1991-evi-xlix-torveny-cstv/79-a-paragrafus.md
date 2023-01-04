@@ -2,7 +2,7 @@
 
 ## A BŰNÜGYI VAGYONT ÉRINTŐ FELSZÁMOLÁS
 
-79/A. § (1) E törvény rendelkezéseit az e Fejezetben meghatározott eltérésekkel kell alkalmazni, ha az adós vagyonára
+79/A. § (1) E törvény rendelkezéseit az e Fejezetben meghatározott eltérésekkel kell alkalmazni, ha az adóssal szemben nyilvántartásba vett hitelezői követelésre vonatkozóan büntetőeljárásban zár alá vétel elrendelésére került sor vagy ha az adós vagyonára
 
 a) a büntetőeljárásról szóló törvényben vagy a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben meghatározott zár alá vétel elrendelésére vagy bűnügyi költség viselésére kötelezésre,
 
@@ -34,9 +34,13 @@ a) amelyet a fedezetet biztosító zár alá vétel biztosít, vagy ha ez kevese
 
 b) amely a pénzösszegben kifejezett vagyonelkobzásról, a pénzbírságról, vagy a bűnügyi költségről rendelkező határozatban szerepel.
 
+(3a) A bűnügyi hitelezői igénybejelentés alapjául szolgáló követelés hitelezői igényként történő nyilvántartásba vételére és visszaigazolására a (7) bekezdés szerinti állami felszámoló jogosult.
+
 (4) A felszámoló értesíti a büntetőeljárást lefolytató szervet a bűnügyi hitelezői igénybejelentés alapjául szolgáló követelés összegének a (3) bekezdés a) pontja szerinti változásáról.
 
-(5) Ha az adós vagyonára zár alá vételt, vagyonelkobzást rendeltek el, az adóssal szemben pénzbírságot szabtak ki, vagy az adóst bűnügyi költség viselésére kötelezték, a felszámoló a büntetőeljárást lefolytató szervtől beszerzi az erről szóló határozatot.
+(5) Ha az adós vagyonára zár alá vételt, vagyonelkobzást rendeltek el, az adóssal szemben pénzbírságot szabtak ki, vagy az adóst bűnügyi költség viselésére kötelezték, a felszámoló a tudomásszerzéstől számított 8 napon belül intézkedik az erről szóló határozat büntetőeljárást lefolytató szervtől történő beszerzése iránt.
+
+(5a) A felszámoló az (5) bekezdés szerinti határozat kézhezvételétől számított 8 napon belül megküldi az (5) bekezdés szerinti határozatot az állami adó- és vámhatóság részére.
 
 (6) E törvény alkalmazásában a bűnügyi hitelezői igénybejelentést is hitelezői igénybejelentésnek kell tekinteni.
 
@@ -57,3 +61,5 @@ d) a jogerős ügydöntő határozattal vagy véglegessé vált nem ügydöntő 
 az annak tárgyát képező vagyont a gazdálkodó szervezet vagyonába nem tartozó vagyonként kell kezelni, és a zár alá vételt, a lefoglalást, a vagyonelkobzást vagy az elkobzást végrehajtó szerv rendelkezésére kell bocsátani.
 
 (10) A (9) bekezdésben meghatározott esetekben a 38. § (1) bekezdése nem alkalmazható.
+
+(11) A bíróság a felszámolót az e §-ban meghatározott kötelezettségeinek az elmulasztása miatt 500.000 forintig terjedő – ismételten kiszabható – bírsággal sújthatja.

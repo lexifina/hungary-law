@@ -72,9 +72,9 @@ m) a szerkezetátalakítási szakértő bíróság jogerős határozatával meg�
 
 (6) Ha az (1) bekezdés e) pontjába tartozó hitelezők teljes kielégítésére nincs elegendő fedezet, ezen a csoporton belül a következő kielégítési sorrendben előrébb álló hitelezői igény teljes egészében való kielégítését követően kell a hátrébb álló hitelezői igényeket kielégíteni:
 
-a) pénzösszegben kifejezett vagyonelkobzás alapján fennálló bűnügyi hitelezői igény,
+a) pénzösszegben kifejezett vagyonelkobzás alapján fennálló bűnügyi hitelezői igény, a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben meghatározott pénzbírság alapján fennálló bűnügyi hitelezői igény,
 
-b) jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben meghatározott pénzbírság alapján fennálló bűnügyi hitelezői igény,
+b) fedezetet biztosító zár alá vétel alapján fennálló bűnügyi hitelezői igény,
 
 c) társadalombiztosítási alapok javára fennálló tartozások (ideértve a szociális hozzájárulási adót is) alapján fennálló hitelezői igény,
 
