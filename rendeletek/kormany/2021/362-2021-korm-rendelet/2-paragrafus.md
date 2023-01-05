@@ -6,6 +6,6 @@ a) az Iváncsa község közigazgatási területén elhelyezkedő, az 1. mellék
 
 b) a Rácalmás város közigazgatási területén elhelyezkedő, az 1. melléklet szerinti – a Hankook Tire Magyarország Kft. Rácalmáson megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 526/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdése szerinti, valamint a Rácalmás városban megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 31/2016. (II. 25.) Korm. rendelet 1. § (1) bekezdése szerinti – nemzetgazdasági szempontból kiemelt jelentőségű beruházás
 
-## [az a) és b) pontban foglaltak a továbbiakban együtt: Beruházás] megvalósítását szolgáló ingatlanokat, valamint az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokat.
+[az a) és b) pontban foglaltak a továbbiakban együtt: Beruházás] megvalósítását szolgáló ingatlanokat, valamint az ezen ingatlanokból a telekalakítási eljárásban hozott döntés véglegessé válását követően kialakított ingatlanokat.
 
 (2) A Beruházással közvetlenebbül érintett települési önkormányzat Adony Város Önkormányzata, Iváncsa Község Önkormányzata, Kulcs Község Önkormányzata és Rácalmás Város Önkormányzata.

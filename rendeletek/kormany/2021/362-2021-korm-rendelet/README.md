@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-362-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-07-01 | 2021-362-20-22.1 | 362/2021. (VI. 28.) Korm. rendelet |
+| 2023-01-05 | 2021-362-20-22.2 | 1/2023. (I. 4.) Korm. rendelet |
