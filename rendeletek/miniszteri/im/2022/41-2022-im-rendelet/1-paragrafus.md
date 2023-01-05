@@ -1,3 +1,3 @@
-1. § A fogyasztó és vállalkozás közötti szerződés keretében eladott dolgokra vonatkozó szavatossági és jótállási igények intézésének eljárási szabályairól szóló 19/2014. (IV. 29.) NGM rendelet 4. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(A vállalkozás a fogyasztó nála bejelentett szavatossági vagy jótállási igényéről jegyzőkönyvet köteles felvenni, amelyben rögzíti)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
