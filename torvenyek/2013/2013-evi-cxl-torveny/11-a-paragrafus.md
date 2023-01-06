@@ -20,4 +20,4 @@ b) a 3. § (5) bekezdése szerinti fémkereskedelmi engedélyköteles anyagot a 
 
 (5) A bírság mértéke a 11. § (2) bekezdés c) pontja és a 11. § (3) bekezdés a), f) és h) pontja esetén 30 ezer forinttól 2 millió forintig terjedhet.
 
-(6) Az e törvény hatálya alá tartozó természetes személyre 100 ezer forintig, az egyéni vállalkozóra és a gazdálkodó szervezetre 500 ezer forintig terjedő bírságot kell kiszabni az e törvényben előírt kötelezettség megsértése, elmulasztása miatt, ha arra külön jogkövetkezményt e törvény nem határoz meg.
+(6) Az e törvény hatálya alá tartozó természetes személyre 100 ezer forintig, az egyéni vállalkozóra és a gazdálkodó szervezetre 500 ezer forintig terjedő bírságot kell kiszabni az e törvényben vagy az e törvény végrehajtására kiadott kormányrendeletben előírt kötelezettség megsértése, elmulasztása miatt, ha arra külön jogkövetkezményt e törvény nem határoz meg.

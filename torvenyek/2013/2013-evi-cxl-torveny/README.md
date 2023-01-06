@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-140-00-00
 | 2021-01-07 | 2020. évi CLXVIII. törvény | 2013-140-00-00.14 |
 | 2021-03-01 | 2021. évi II. törvény | 2013-140-00-00.15 |
 | 2023-01-01 | 2022. évi LXXVI. törvény | 2013-140-00-00.16 |
+| 2023-01-06 | 2022. évi LXXVI. törvény | 2013-140-00-00.17 |
