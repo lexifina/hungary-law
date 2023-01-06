@@ -1,0 +1,1 @@
+A Kormány a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (1) bekezdés b) pont ba) alpontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

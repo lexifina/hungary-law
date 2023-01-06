@@ -1,0 +1,1 @@
+1. § Hatályát veszti a radioaktív hulladékok átmeneti tárolását vagy végleges elhelyezését biztosító tároló létesítmények biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló 155/2014. (VI. 30.) Korm. rendelet.
