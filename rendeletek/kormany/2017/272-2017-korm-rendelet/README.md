@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-272-20-
 | 2018-07-28 | 2017-272-20-22.3 | 2010: CXXX. törvény |
 | 2021-12-29 | 2017-272-20-22.4 | 823/2021. (XII. 28.) Korm. rendelet |
 | 2023-01-01 | 2017-272-20-22.5 | 141/2018. (VII. 27.) Korm. rendelet |
+| 2023-01-06 | 2017-272-20-22.6 | 621/2022. (XII. 29.) Korm. rendelet |

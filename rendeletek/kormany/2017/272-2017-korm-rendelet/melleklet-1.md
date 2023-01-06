@@ -1,6 +1,4 @@
-## 6. §[^3] E rendelet rendelkezéseit – a 2. § a) pontja kivételével – az egyes ivóvízminőség-javítási, szennyvíz-elvezetési és -tisztítási, valamint hulladékgazdálkodási beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 272/2017. (IX. 14.) Korm. rendelet módosításáról szóló 823/2021. (XII. 28.) Korm. rendelettel (a továbbiakban: Módr2.) módosított 1. melléklet szerinti beruházásokkal összefüggő, a Módr2.-vel módosított 2. mellékletben meghatározott, a Módr2. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
-
-1. melléklet a 272/2017. (IX. 14.) Korm. rendelethez[^5]
+1. melléklet a 272/2017. (IX. 14.) Korm. rendelethez[^7]
 
 1. Ivóvízminőség-javító projektek
 
@@ -578,6 +576,32 @@
 
 | 33 | Szilárdhulladék- gazdálkodási rendszer továbbfejlesztése a Heves Vármegyei Regionális Hulladékgazdálkodási Társulás területén | Heves Vármegyei Regionális Hulladékgazdálkodási Társulás |
 
-[^3]: A 6. §-t a 823/2021. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
-[^4]: A hatálybalépés időpontja 2021. december 29.
-[^5]: Az 1. melléklet a 141/2018. (VII. 27.) Korm. rendelet 13. §-ával megállapított, a 823/2021. (XII. 28.) Korm. rendelet 2. § (1) bekezdése és 3–4. §-a, az 523/2022. (XII. 15.) Korm. rendelet 22. §-a, az 546/2022. (XII. 22.) Korm. rendelet 189. § a)-d) pontja szerint módosított szöveg.
+4. Víziközmű-szolgáltatás ellátásbiztonságát és hatékonyságát javító projektek
+
+|  | A | B |
+
+| 1. | Projekt neve | Támogatást igénylő neve |
+
+| 2. | A Balaton és térsége ivóvízellátásának modernizációjához kapcsolódó előkészítés | Dunántúli Regionális Vízmű Zártkörűen Működő Részvénytársaság |
+
+| 3. | Zalaegerszeg közigazgatási területén ivóvízhálózatok és szennyvízhálózatok hatékonyságnövelő fejlesztése | Zalaegerszeg Megyei Jogú Város Önkormányzata |
+
+| 4. | Idegenvíz csökkentés és hatékonyságnövelő fejlesztés a mórahalmi szennyvízcsatorna hálózatban | Mórahalom Városi Önkormányzat |
+
+| 5. | DMRV Zrt. kapacitásbővítő fejlesztések | NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság |
+
+| 6. | Keleti Főcsatorna Felszíni Ivóvíztisztító mű – Balmazújváros– Hajdúnánás–Hajdúböszörmény távvezeték építése | NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság |
+
+| 7. | A „Borsod megyei regionális víziközmű rendszerek bővítése keretében távvezetékek építése” című projekt, az „ÉRV Zrt. Miskolc-Borsodi régió közötti kooperációs vezeték létesítése” című projekt és a „Verpelét és térsége biztonságos vízellátása” című projekt | NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság |
+
+| 8. | Keleti Főcsatorna Felszíni Ivóvíztisztító művének (Balmazújváros) és a Debrecen 1. sz. vízműig húzódó távvezetékek korszerűsítése az ivóvíz minőség javítása és az ellátás biztonságának növelése érdekében | NFP Nemzeti Fejlesztési Programiroda Nonprofit Korlátolt Felelősségű Társaság |
+
+| 9. | Szolnok, Gátőr úti ivóvízhálózat rekonstrukciója | Szolnok Megyei Jogú Város Önkormányzata |
+
+| 10. | Víziközmű hálózatok átalakítása, hatékonyságnövelő fejlesztése Pécsett | Pécs Megyei Jogú Város Önkormányzata |
+
+| 11. | Vízveszteség csökkentés, víziközműszolgáltatás energiahatékonyságának növelése Kecskemét és Ballószög településeken | BÁCSVÍZ Víz- és Csatornaszolgáltató Zártkörűen Működő Részvénytársaság |
+
+| 12. | Víziközmű hálózat rekonstrukció Nagykanizsán – a Platán sori és Teleki utcai ivóvíz közhálózat felújítása | Nagykanizsa Megyei Jogú Város Önkormányzata |
+
+[^7]: Az 1. melléklet a 141/2018. (VII. 27.) Korm. rendelet 13. §-ával megállapított, a 823/2021. (XII. 28.) Korm. rendelet 2. § (1) bekezdése és 3–4. §-a, az 523/2022. (XII. 15.) Korm. rendelet 22. §-a, az 546/2022. (XII. 22.) Korm. rendelet 189. § a)-d) pontja, a 621/2022. (XII. 29.) Korm. rendelet 2. §-a szerint módosított szöveg.

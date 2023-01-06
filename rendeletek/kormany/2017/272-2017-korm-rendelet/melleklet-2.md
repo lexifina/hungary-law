@@ -40,24 +40,24 @@ Az 1. mellékletben foglalt beruházásokkal összefüggő, nemzetgazdasági sze
 
 19. víziközmű-szolgáltatással összefüggő hatósági eljárások (víziközmű-szolgáltatói engedély kiadása, működési engedély kiadása, Gördülő Fejlesztési Terv jóváhagyása),
 
-20.[^6] hulladékgazdálkodási hatósági eljárások,
+20.[^8] hulladékgazdálkodási hatósági eljárások,
 
-21.[^7] kapcsolódó villamos energia, gáz és egyéb közművek engedélyeztetése,
+21.[^9] kapcsolódó villamos energia, gáz és egyéb közművek engedélyeztetése,
 
-22.[^8] bányahatósági engedélyezési eljárások,
+22.[^10] bányahatósági engedélyezési eljárások,
 
-23.[^9] élelmiszerlánc-felügyeleti eljárás,
+23.[^11] élelmiszerlánc-felügyeleti eljárás,
 
-24.[^10] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+24.[^12] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
 
-25.[^11] katasztrófavédelmi hatósági engedélyezési eljárások,
+25.[^13] katasztrófavédelmi hatósági engedélyezési eljárások,
 
-26.[^12] az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+26.[^14] az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^6]: A 2. melléklet 20. pontja a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^7]: A 2. melléklet 21. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^8]: A 2. melléklet 22. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^9]: A 2. melléklet 23. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^10]: A 2. melléklet 24. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^11]: A 2. melléklet 25. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^12]: A 2. melléklet 26. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^8]: A 2. melléklet 20. pontja a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. melléklet 21. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^10]: A 2. melléklet 22. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^11]: A 2. melléklet 23. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^12]: A 2. melléklet 24. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^13]: A 2. melléklet 25. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^14]: A 2. melléklet 26. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
