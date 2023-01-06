@@ -1,0 +1,1 @@
+3. § A 2. §-ban nem szabályozott fogalmakra az Országos Atomenergia Hivatal elnökének az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló rendelete szerinti értelmező rendelkezéseket kell alkalmazni.

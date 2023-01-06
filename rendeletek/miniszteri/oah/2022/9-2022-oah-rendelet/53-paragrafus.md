@@ -1,0 +1,1 @@
+53. § A tároló létesítményt a létesítést megalapozó biztonsági jelentésben leírt terv alapján, a megfelelő technológiák alkalmazásával kell megvalósítani úgy, hogy a hulladékelhelyezési rendszer biztonsági funkciói a lezárás utáni életciklus szakaszban is biztosítottak legyenek.

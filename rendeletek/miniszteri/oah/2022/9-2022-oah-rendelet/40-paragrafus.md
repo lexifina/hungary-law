@@ -1,0 +1,1 @@
+40. § A telephelykutatási keretprogram magába foglalja a telephely földtani alkalmasságának igazolását szolgáló földtani kutatási programot is. A földtani kutatási programot úgy kell elkészíteni, hogy az lehetővé tegye a földtani környezet eredeti, természetes állapotának megismerését.

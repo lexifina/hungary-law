@@ -1,0 +1,1 @@
+11. § Az engedélyesnek biztosítania kell, hogy a biztonságot érintő megoldások megalapozásának felülvizsgálatához, valamint a cserék, javítások, átalakítások végrehajtásához szükséges információ, dokumentáció és tervek folyamatosan rendelkezésre álljanak a passzív intézményes ellenőrzésre történő áttérésig.

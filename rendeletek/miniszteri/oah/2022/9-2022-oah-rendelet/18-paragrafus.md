@@ -1,0 +1,5 @@
+18. § (1) Az engedélyes ellenőrzi, hogy az átvett radioaktív hulladék megfelel a hulladék átvételi követelményeknek. Az ellenőrzés követelményeit írásban kell meghatározni és azt annak megfelelően kell végrehajtani. A követelményeknek ki kell terjednie az elvégzendő vizsgálatokra és elemzésekre, az ellenőrzés dokumentálására. Az engedélyes az ellenőrzés követelményeiről tájékoztatja a radioaktív hulladékot átadó szervezetet.
+
+(2) Az engedélyesnek ellenőriznie kell a radioaktív hulladék termelője által a radioaktív hulladékkal kapcsolatban közölt adatokat a hulladék átvételi követelményeknek való megfelelés ellenőrzése céljából. Ha a hulladék átvételi követelmények teljesítésének ellenőrzése szükségessé teszi, akkor az engedélyes a hulladékot termelő, átadó szervezet által alkalmazott hulladékkezelési eljárásról tájékoztatást kérhet, és azt az átvételt megelőzően a helyszínen megtekintheti.
+
+(3) A típus-hulladékforma és típuscsomagolás hulladék átvételi követelményeknek való megfelelőségét tesztsorozattal kell igazolni.

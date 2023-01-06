@@ -1,0 +1,1 @@
+14. § Az engedélyes a biztonsági célkitűzések teljesítése érdekében az 1. melléklet szerint hatékony irányítási rendszert működtet, és gondoskodik arról, hogy a szervezet vezetését olyan munkavállalók végezzék, akik elkötelezettek a biztonságért és az erős biztonsági kultúra fenntartásáért.

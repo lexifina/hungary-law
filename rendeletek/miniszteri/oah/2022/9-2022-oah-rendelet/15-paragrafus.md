@@ -1,0 +1,1 @@
+15. § Az engedélyes biztosítja, hogy a tároló létesítménnyel kapcsolatos felelősségének fennállása alatt, a tevékenységéhez szükséges személyi és tárgyi erőforrások a kellő időben rendelkezésre álljanak.

@@ -1,0 +1,5 @@
+100. § (1) Az atomenergia-felügyeleti szerv az engedélyes javaslata alapján megállapítja a bekövetkezett esemény INES minősítését.
+
+(2) Az atomenergia-felügyeleti szerv az INES minősítés szerinti 1 fokozatú vagy annál magasabb fokozatú eseményről az esemény bekövetkezését vagy észlelését követő 24 órán belül tájékoztatja a Nemzetközi Atomenergia Ügynökséget. Az engedélyes a tájékoztatáshoz szükséges adatokat tartalmazó, angol nyelven kitöltött eseményminősítési formalapot az eseményt követő 20 órán belül az atomenergia-felügyeleti szervnek megküldi.
+
+(3) Az engedélyes az atomenergia-felügyeleti szervvel egyeztetett módon az INES minősítés szerinti 1 fokozatú vagy annál magasabb fokozatú eseményről 24 órán belül, az INES minősítés szerinti skála alatti eseményről rendszeresen tájékoztatja a lakosságot. Az INES minősítés szerinti 1 fokozatú vagy annál magasabb fokozatú eseményről készített tájékoztató közleményt az engedélyes az esemény bekövetkezését vagy észlelését követő 20 órán belül, annak közlését megelőzően megküldi az atomenergia-felügyeleti szervnek.

@@ -1,0 +1,1 @@
+13. § Az engedélyes az egyes folyamatok felügyelete érdekében teljes körű, az atomenergia-felügyeleti szerv ellenőrzési tevékenységétől független, a biztonság szempontjából differenciált ellenőrzési rendszert működtet, amely az adott életciklus szakaszra jellemző valamennyi folyamatra és résztvevőre kiterjed.

@@ -1,0 +1,7 @@
+96. § (1) Az engedélyes elvégzi a tároló létesítmény biztonságának átfogó értékelését, és az időszakos biztonsági felülvizsgálat eredményei alapján bemutatja, hogy a tároló létesítmény igazoltan biztonságos.
+
+(2) A felülvizsgálat eredménye alapján az engedélyes a feltárt hiányosságok megszüntetése érdekében intézkedési programot készít és hajt végre.
+
+(3) Az engedélyes az időszakos biztonsági felülvizsgálatának eredményét, a tároló létesítmény biztonságát befolyásoló tényezőket és a szükséges intézkedések programját tartalmazó időszakos biztonsági jelentést legkésőbb a felülvizsgálat lezárására a 102. § (2) bekezdésben meghatározott határidőt megelőzően egy évvel korábban benyújtja az atomenergia-felügyeleti szervnek.
+
+(4) Az atomenergia-felügyeleti szerv az engedélyes időszakos biztonsági jelentése és az időszakos biztonsági jelentés hatósági felülvizsgálatának megállapításai alapján hozza meg a határozatát. A határozatban az atomenergia-felügyeleti szerv az üzemeltetési vagy az aktív intézményes ellenőrzésre vonatkozó engedélyt módosíthatja, ha az annak megadásához alapul szolgáló körülmények megváltozását, vagy a kockázat mértékének növekedését állapította meg. A kockázat nem elfogadható mértékű növekedése esetén az atomenergia-felügyeleti szerv határozatában – határidő tűzésével és a jogkövetkezményekre történő figyelmeztetéssel – a tevékenység további folytatásához új feltételeket határozhat meg, az engedélyes számára kötelezettséget írhat elő.

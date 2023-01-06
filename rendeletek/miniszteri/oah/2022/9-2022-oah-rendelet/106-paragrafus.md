@@ -1,0 +1,5 @@
+106. § (1) Az engedélyes az atomenergia alkalmazásával összefüggő veszélyhelyzet kialakulása, természeti vagy ipari katasztrófa bekövetkezése után haladéktalanul – de legkésőbb a felismerést követő 15 percen belül – elvégzi a veszélyhelyzeti osztály megállapítását. Az engedélyes a veszélyhelyzet felismerése után 30 percen belül a baleset-elhárítási intézkedési tervben meghatározott módon és tartalommal riasztja az országos baleset-elhárítási rendszer érintett szerveit.
+
+(2) Az engedélyes a veszélyhelyzet felismerése után legkésőbb 60 percen belül a baleset-elhárítási intézkedési terv szerint írásban tájékoztatást ad a veszélyhelyzet ismertté vált körülményeiről és következményeiről.
+
+(3) A riasztási feladatok elvégzése után az engedélyes rendszeresen tájékoztatja az országos baleset-elhárítási rendszer kijelölt intézményeit. A helyzetismertető és technológiai jelentéseket a veszélyhelyzeti eseményekhez igazodva, de legalább 1,5–2 óránként kell továbbítani, vagy bármely más módon tájékoztatást adni, amely egyenértékűen biztosítja a veszélyhelyzeti állapot független értékeléséhez szükséges információt.

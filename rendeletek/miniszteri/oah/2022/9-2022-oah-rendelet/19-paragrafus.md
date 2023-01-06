@@ -1,0 +1,1 @@
+19. § Az engedélyes a tároló létesítményben folytatott tevékenység során keletkező radioaktív hulladékot és a hulladék átvételi követelményeknek nem megfelelő radioaktív hulladékot a telephelyén kondicionálja, vagy az ilyen tevékenység folytatására jogosultsággal rendelkező tároló létesítménybe kondicionálás céljából való elszállításáról gondoskodik.

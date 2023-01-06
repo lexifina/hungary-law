@@ -1,0 +1,1 @@
+56. § A tároló létesítmény létesítése során szükségessé váló bármely átalakítást oly módon kell megtervezni, értékelni, dokumentálni és megvalósítani, hogy az összhangban legyen az átalakítás biztonságra gyakorolt hatásával. Biztosítani kell, hogy az átalakítás ne csökkentse a biztonság szintjét.

@@ -1,0 +1,1 @@
+20. § Az engedélyes által átvett radioaktív hulladékkal, valamint az azokkal összefüggő saját tevékenysége során keletkező radioaktív hulladékkal kapcsolatos további követelményeket a 2. melléklet tartalmazza.

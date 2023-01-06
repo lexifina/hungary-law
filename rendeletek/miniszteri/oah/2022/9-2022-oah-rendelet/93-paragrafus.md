@@ -1,0 +1,1 @@
+93. § Az atomenergia-felügyeleti szerv az éves jelentés alapján értékeli az engedélyes tevékenységét. Az értékelés során atomenergia-felügyeleti szerv értékeli a tároló létesítmény biztonságos üzemeltetésének, valamint a biztonságtudatos üzemeltetés megfelelőségét.
