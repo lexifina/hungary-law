@@ -1,3 +1,0 @@
-## 6. §[^15] A képzési programokban követni kell a nukleáris létesítményben vagy a radioaktívhulladék-tárolóban, annak rendszereiben, rendszerelemeiben, az üzemeltetés módjában, a műszaki és adminisztratív utasításokban bevezetett, valamint az üzemeltetési tapasztalatok alapján szükségesnek tartott és megvalósított változásokat. A képzési programokat és tananyagokat időszakosan – legalább háromévente – felül kell vizsgálni. Biztosítani kell, hogy a munkavállaló felkészüléséhez megfelelő minőségű és mennyiségű oktatási anyag, valamint megfelelő segédanyagok, üzemi dokumentációk, segédletek és a gyakorlati képzést támogató eszközök álljanak rendelkezésre.
-
-[^15]: A 6. § a 6/2018. (VII. 19.) ITM rendelet 3. § 8. pontja szerint módosított szöveg.
