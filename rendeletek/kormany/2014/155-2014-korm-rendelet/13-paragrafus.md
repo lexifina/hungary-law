@@ -1,1 +1,0 @@
-## 12. § Az engedélyesnek az egyes folyamatok felügyelete érdekében teljes körű, az atomenergia-felügyeleti szerv ellenőrzési tevékenységétől független, a biztonság szempontjából differenciált ellenőrzési rendszert kell működtetnie, amely az adott életciklus szakaszra jellemző valamennyi folyamatra és résztvevőre kiterjed.

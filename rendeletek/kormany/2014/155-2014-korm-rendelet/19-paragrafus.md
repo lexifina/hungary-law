@@ -1,1 +1,0 @@
-## 18. § Az engedélyes köteles a tároló létesítményben folytatott tevékenység során keletkező radioaktív hulladékot és a hulladék átvételi követelményeknek nem megfelelő radioaktív hulladékot a telephelyén kondicionálni, vagy az ilyen tevékenység folytatására jogosultsággal rendelkező tároló létesítménybe kondicionálás céljából való elszállításáról gondoskodni.

@@ -1,7 +1,0 @@
-33. § (1) Ha az atomenergia-felügyeleti szerv az ellenőrzés eredményeként megállapítja, hogy a hatósági ellenőrzés alá vont a saját belső szabályozásában, vagy beszállító esetén az engedélyes belső szabályozásában meghatározott előírásokat megsértette, a jegyzőkönyvben erre felhívja a hatósági ellenőrzés alá vont figyelmét, és határidő kitűzésével, valamint a jogkövetkezményekre történő figyelmeztetéssel kötelezi – beszállítóknál történt ellenőrzés esetén is az engedélyest – az atomenergia biztonságos alkalmazásához előírt állapot és feltételek helyreállítására.
-
-(2) A hatósági ellenőrzés alá vont köteles a jegyzőkönyvbe foglalt kötelezésnek az abban meghatározott határidőben eleget tenni. A kötelezés teljesítésére megállapított határidő elmulasztása esetén az atomenergia-felügyeleti szerv a mulasztás okát hivatalból indított eljárásban kivizsgálja és a feltételek fennállása esetén érvényesítési eljárást folytat le.
-
-(3)[^68] Az atomenergia-felügyeleti szerv a tároló létesítmény életciklus szakaszához igazodó ellenőrzéseket végez. Az ellenőrzés területeit a tároló létesítmény életciklus szakasza és a vonatkozó jogszabályok, az ellenőrzés gyakoriságát és részletességét az ellenőrzött terület atomenergia biztonságos alkalmazásának biztonsági fontossága, valamint az engedélyezés és a korábbi értékelési és ellenőrzési tapasztalatok alapján határozza meg az atomenergia-felügyeleti szerv.
-
-[^68]: A 33. § (3) bekezdése a 70/2018. (IV. 9.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
