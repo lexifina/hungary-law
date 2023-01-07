@@ -4,7 +4,7 @@ a) vezetékes elektronikus hírközlő hálózat esetében a hírközlő vezeté
 
 b) vezeték nélküli elektronikus hírközlő hálózat esetében az antennák és antenna-tartószerkezetek – tornyok – darabszámáról
 
-## földrajzi terület szerinti bontásban szolgáltasson adatot.
+földrajzi terület szerinti bontásban szolgáltasson adatot.
 
 (2) Ha az (1) bekezdés alapján szolgáltatott adat módosul, azt az adatszolgáltató a változás bekövetkeztétől számított harminc napon belül bejelenti a Hivatalnak.
 
