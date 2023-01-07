@@ -1,1 +1,3 @@
-1. § Hatályát veszti a nukleáris létesítményben foglalkoztatott munkavállalók speciális szakmai képzéséről, továbbképzéséről és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak köréről szóló 55/2012. (IX. 17.) NFM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-9-20-8Y
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-01-06 | 2022-9-20-8Y.1 | 9/2022. (XII. 29.) EM rendelet |
+| 2023-01-07 | 2022-9-20-8Y.2 | 2010. évi CXXX. törvény |
