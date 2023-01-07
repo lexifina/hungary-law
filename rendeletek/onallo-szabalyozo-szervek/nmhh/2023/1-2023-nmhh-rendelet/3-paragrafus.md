@@ -1,0 +1,3 @@
+3. § Az R. 11. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A felügyeleti díj visszatérítés mértéke éves szinten nem haladhatja meg az adatszolgáltató felügyeleti díj visszatérítési kérelemmel érintett felügyeleti díjának 50 százalékát. A díjvisszatérítés maximális mértékére akkor jogosult az adatszolgáltató, ha a tárgyév december 31. napján az 1. mellékletben foglalt táblázat B oszlopában meghatározott, kötelezően elérendő adatszolgáltatási szintet – a 8. § alapján szolgáltatott adat 20 százalékát, az 1. mellékletben foglalt táblázat B oszlopának 6. sora tekintetében 5 százalékát – elérő mértékben túlteljesíti. Felügyeleti díj visszatérítésre csak az 1. mellékletben meghatározott időszakban szolgáltatott adatokkal összefüggésben kerülhet sor.”
