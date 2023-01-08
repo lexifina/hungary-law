@@ -1,0 +1,1 @@
+2. § A kormányzati ellenőrzési szerv – a Jet. 6/A. § (4) bekezdése alapján – a Jet. 6/A. § (1) bekezdése szerinti ellenőrzése során az államháztartásról szóló 2011. évi CXCV. törvénynek és a Kormányzati Ellenőrzési Hivatalról szóló 355/2011. (XII. 30.) Korm. rendeletnek a kormányzati ellenőrzési szerv ellenőrzésére vonatkozó rendelkezései megfelelő alkalmazásával jár el.
