@@ -1,0 +1,7 @@
+14. § Az R2. „A felszíni és a felszín alatti vizek, valamint a védett területek állapotának monitoringja” alcíme a következő 15/A. §-sal és 15/B. §-sal egészül ki:
+
+„15/A. § Ha a vízszolgáltató számára megengedett egy paraméter monitorozási gyakoriságának csökkentése vagy egy paraméter törlése az ellenőrizendő paraméterek listájából, a 15. § (1) bekezdésében előírt monitoring program részeként biztosítani szükséges, hogy a vízkivételi pontok vízgyűjtő területeire vonatkozó kockázatértékelés és kockázatkezelés – az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelettel összhangban – elvégzett felülvizsgálata során megtörténjen e paraméterek megfelelő monitorozása, legfeljebb hatévenkénti gyakorisággal.
+
+15/B. § (1) A kockázatkezelési intézkedések részeként a felszíni vizekben és a felszín alatti vizekben, valamint a vízkivételi pontok vízgyűjtő területein vagy a nyersvízben azon paraméterek, anyagok vagy szennyező anyagok megfelelő monitoringját biztosítani kell, amelyek a vízfogyasztás révén kockázatot jelenthetnek az emberi egészségre, vagy az emberi fogyasztásra szánt víz minőségének elfogadhatatlan romlását okozhatják, és amelyek a 15. § (1) bekezdése szerint elvégzett monitoring program során nem kerültek figyelembevételre.
+
+(2) Az (1) bekezdés szerinti monitoring eredményei részét képezik a 15. § (1) bekezdése szerinti felülvizsgált monitoring programnak.”
