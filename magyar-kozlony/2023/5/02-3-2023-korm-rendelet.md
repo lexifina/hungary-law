@@ -1,0 +1,233 @@
+# A Kormány 3/2023. (I. 12.) Korm. rendelete
+
+Magyar Közlöny 2023. évi 5. szám, 2023. január 12. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/xSQXReJNPue44t7f6iRJ63b2de9779b8a/dokumentumok/8cd76bfd04d1c57a6045370a0d363eec340c7317/letoltes)
+
+---
+
+A Kormány 3/2023. (I. 12.) Korm. rendelete
+a veszélyhelyzet ideje alatt egyes büntetés-végrehajtást érintő rendelkezések eltérő alkalmazásáról
+A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi
+és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Általános rendelkezések
+1. §
+Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek
+magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes
+veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet (a továbbiakban:
+veszélyhelyzet) ideje alatt
+a) a nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény (a továbbiakban: Nbjt.),
+b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló
+2007. évi I. törvény (a továbbiakban: Szmtv.),
+c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény
+(a továbbiakban: Harmtv.),
+d) az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény
+(a továbbiakban: EUtv.), valamint
+e) a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló
+2013. évi CCXL. törvény (a továbbiakban: Bv. tv.)
+rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
+2. A Bv. tv. eltérő alkalmazására vonatkozó szabályok
+2. § (1) A nem magyar állampolgárságú elítélt (a továbbiakban: külföldi elítélt) kérelmére a szabadságvesztés végrehajtását
+a büntetés-végrehajtás országos parancsnoka (a továbbiakban: országos parancsnok) a végrehajtás átadásáig
+félbeszakítja, ha
+a) az igazságügyért felelős miniszter (a továbbiakban: miniszter) nyilatkozik, hogy a szabadságvesztés
+végrehajtásának átadása nem kizárt;
+b) az Országos Idegenrendészeti Főigazgatóság (a továbbiakban: főigazgatóság) előzetes véleménye alapján
+ba) a kiutasítás hatálya alatt álló külföldi elítélt esetében a kiutasítás,
+bb) a kiutasítás hatálya alatt nem álló külföldi elítélttel szemben az idegenrendészeti kiutasítás
+elrendelhető, és annak
+végrehajthatósága nem kizárt;
+c) a b) pont alá nem tartozó külföldi elítéltnek a szabadságvesztés végrehajtásának átadásával érintett államba
+történő visszatérése biztosított;
+d) a külföldi elítélt vállalja, hogy a szabadságvesztés végrehajtásának félbeszakítását követően
+da) Magyarország területét elhagyja, ennek érdekében a hatóságokkal együttműködik, valamint aláveti
+magát a vele szemben indított idegenrendészeti eljárásnak,
+db) a szabadságvesztés végrehajtásának átadásával érintett államba visszatér, és
+dc) Magyarország területére a szabadságvesztés végrehajtásának befejezése vagy végrehajthatósága
+megszűnése előtt, illetve a kiutasítás, vagy ha idegenrendészeti kiutasítását rendelik el, a beutazási
+és tartózkodási tilalom tartama alatt nem tér vissza;
+e) a külföldi elítélt hozzájárul ahhoz, hogy a szabadságvesztést más államban hajtsák végre;
+f) a (2) bekezdésben foglalt kizáró ok nem áll fenn.
+
+(2) Az (1) bekezdés alapján a szabadságvesztés végrehajtása nem szakítható félbe, ha
+a) további olyan szabadságvesztés vár végrehajtásra, amelynek vonatkozásában az (1) és (2) bekezdésben
+foglalt feltételek nem állnak fenn,
+b) a külföldi elítélttel szemben Magyarország területén büntetőeljárás van folyamatban,
+c) a szabadságvesztés végrehajtásának e § szerint engedélyezett félbeszakítása a külföldi elítélt 10. §
+(2) bekezdés a) vagy d) pontja szerinti felróható magatartása miatt korábban megszüntetésre került,
+d) nem biztosítható, hogy a szabadságvesztés végrehajtásának félbeszakítását olyan módon hajtsák végre, hogy
+a szabadságvesztés fennmaradó része az átadható szabadságvesztés büntetés legrövidebb tartamát elérje,
+e) a szabadságvesztés tartamából öt év vagy annál hosszabb idő van hátra,
+f) a külföldi elítélttel szemben életfogytig tartó szabadságvesztést szabtak ki,
+g) a külföldi elítéltet az alábbi bűncselekmények miatt ítélték végrehajtandó szabadságvesztésre:
+ga) emberiesség elleni bűncselekmény [a Büntető Törvénykönyvről szóló 2012. évi C. törvény
+(a továbbiakban: Btk.) XIII. Fejezet] vagy béke elleni bűncselekmény [a Büntető Törvénykönyvről
+szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) XI. fejezet I. cím],
+gb) háborús bűncselekmény [Btk. XIV. Fejezet, 1978. évi IV. törvény XI. fejezet II. cím],
+gc) állam elleni bűncselekmény [Btk. XXIV. Fejezet, 1978. évi IV. törvény X. fejezet],
+gd) terrorcselekmény [Btk. 314. §, 1978. évi IV. törvény 261. §],
+ge) jármű hatalomba kerítése [Btk. 320. §] vagy légijármű, vasúti, vízi, közúti tömegközlekedési vagy
+tömeges áruszállításra alkalmas jármű hatalomba kerítése [1978. évi IV. törvény 262. §],
+gf) halált okozó bűncselekmény.
+(3) A fogvatartást foganatosító büntetés-végrehajtási intézet (a továbbiakban: bv. intézet) tájékoztatja a külföldi
+elítéltet az (1)–(2) bekezdésben foglaltakról.
+3. § (1) A külföldi elítélt a 2. § szerinti szabadságvesztés végrehajtásának félbeszakítása iránti kérelmét a bv. intézetben
+terjesztheti elő.
+(2) A külföldi elítéltnek a kérelmében nyilatkoznia kell arról, hogy mely állam vonatkozásában járul hozzá
+a szabadságvesztés végrehajtásának átadásához, valamint az általa megjelölt államhoz fűződő személyi
+körülményeiről, különös tekintettel arra, hogy ottani tartózkodási jogosultságát milyen jogcímre alapítja, azt milyen
+okirattal igazolja, és a szabadságvesztés végrehajtásának átadásával érintett országba történő visszatérése miként
+biztosított.
+(3) A bv. intézet a külföldi elítélt kérelmét az országos parancsnok részére továbbítja.
+(4) Az országos parancsnok a külföldi elítélt kérelme kézhezvételét követő tizenöt napon belül megvizsgálja, hogy a 2. §
+(2) bekezdésében foglalt kizáró ok fennáll-e, és ha
+a) kizáró ok áll fenn, indokolt határozatával a külföldi elítélt kérelmét elutasítja,
+b) kizáró ok nem áll fenn, a külföldi elítélt kérelmét megküldi
+ba) a miniszternek,
+bb) a végrehajtás helye szerint illetékes büntetés-végrehajtási bírónak és
+bc) a főigazgatóságnak.
+(5) A miniszter 2. § (1) bekezdés a) pontja szerinti nyilatkozatát az országos parancsnok haladéktalanul megküldi
+a főigazgatóság részére.
+(6) Az országos parancsnok a külföldi elítélt kérelmével együtt az elítéltre vonatkozó jogerős ítéletet és a büntetés-
+végrehajtás adatait is megküldi a miniszter részére.
+4. §
+A miniszter a kérelem kézhezvételét követő harminc napon belül nyilatkozik, hogy a szabadságvesztés
+végrehajtásának átadása kizárt-e, egyúttal megjelöli a külföldi elítélt esetében átadható szabadságvesztés büntetés
+legrövidebb tartamát, ha a szabadságvesztés végrehajtásának átadása nem kizárt.
+5. § (1) A büntetés-végrehajtási bíró a kérelem kézhezvételét követő harminc napon belül a külföldi elítéltet nyilatkoztatja
+a) a 2. § (1) bekezdés d)–e) pontjában foglaltakról,
+b) más államban található tartózkodási helyéről,
+c) a végrehajtás átadhatóságát megalapozó személyi körülményeiről, különös tekintettel arra, hogy
+a szabadságvesztés végrehajtásának átadásával érintett államban a tartózkodási jogosultságát milyen
+jogcímre alapítja, és azt milyen okirattal igazolja, és
+
+d) arról, hogy a szabadságvesztés végrehajtásának átadásával érintett államba történő visszatérése milyen
+módon biztosított.
+(2) A külföldi elítéltet az (1) bekezdés szerinti meghallgatása során, a nyilatkozattételt megelőzően a büntetés-
+végrehajtási bíró tájékoztatja
+a) a szabadságvesztés végrehajtása átadásának lényeges körülményeiről, következményeiről,
+b) a specialitás szabályáról, továbbá arról, hogy hozzájárulása esetén a specialitás szabálya nem alkalmazható,
+c) a szabadságvesztés végrehajtásának félbeszakítását megszüntető okokról, továbbá arról, hogy ha erre neki
+felróható okból kerül sor, akkor a bíróság a feltételes szabadságra bocsátás lehetőségéből kizárja, és
+d) arról, hogy a kiutasítás, vagy ha vele szemben idegenrendészeti kiutasítást rendelnek el, annak végrehajtása
+azon a napon valósul meg, amikor Magyarország területét elhagyja.
+(3) A büntetés-végrehajtási bíró a meghallgatásról készült jegyzőkönyvet megküldi az országos parancsnok részére.
+(4) A külföldi elítélt meghallgatásáról kép- és hangfelvételt kell készíteni, vagy a meghallgatásról készült jegyzőkönyvet
+a büntetés-végrehajtási bírónak és a nyilatkozattevőnek alá kell írnia. A meghallgatás telekommunikációs eszköz
+útján is biztosítható.
+(5) A külföldi elítélt (1) bekezdés a) pontja szerinti nyilatkozata nem vonható vissza.
+(6) Az e § szerinti meghallgatás során bírósági titkár is eljárhat.
+6. § (1) A kérelem kézhezvételét követően a főigazgatóság előzetes véleményt ad a kiutasítás, vagy ha annak elrendelése
+szükséges, az idegenrendészeti kiutasítás végrehajthatóságáról.
+(2) Ha a főigazgatóság azt állapítja meg, hogy
+a) a kiutasítás nem végrehajtható, vagy
+b) a kiutasítás hatálya alatt nem álló külföldi elítélttel szemben idegenrendészeti kiutasítás elrendelése
+szükséges és az végrehajtható,
+haladéktalanul tájékoztatja az országos parancsnokot.
+(3) A főigazgatóság az országos parancsnok 7. § (1) bekezdés a) pontja szerinti döntésének kézhezvételét követően
+haladéktalanul intézkedik a kiutasítás végrehajtása vagy az idegenrendészeti kiutasítás elrendelése és végrehajtása
+érdekében.
+(4) A kiutasítás végrehajtásáról rendelkező végzést vagy az idegenrendészeti kiutasítást elrendelő határozatot
+a főigazgatóság a Büntetés-végrehajtás Országos Parancsnoksága (a továbbiakban: BVOP) útján kézbesíti.
+7. § (1) Az országos parancsnok a külföldi elítélt meghallgatásáról készült jegyzőkönyv, a miniszter nyilatkozata, valamint
+a főigazgatóság 2. § (1) bekezdés b) pontja szerinti véleményének hozzá érkezését követő három napon belül
+dönt a szabadságvesztés végrehajtásának félbeszakításáról. Ha a szabadságvesztés végrehajtása félbeszakításának
+feltételei
+a) fennállnak, indokolt határozattal a végrehajtás átadásáig engedélyezi a szabadságvesztés végrehajtásának
+félbeszakítását, vagy
+b) nem állnak fenn, indokolt határozattal a külföldi elítélt kérelmét elutasítja.
+(2) Az országos parancsnok határozatát kézbesíteni kell
+a) a külföldi elítéltnek és
+b) a szabadságvesztés végrehajtásának törvényességi felügyeletét ellátó ügyészségnek.
+(3) Az országos parancsnok a külföldi elítélt kérelme tárgyában hozott döntésről haladéktalanul értesíti
+a főigazgatóságot.
+8. § (1) A kézbesítéstől számított három munkanapon belül a Bv. tv. 24. §-a szerinti bírósági felülvizsgálati kérelmet
+terjeszthet elő
+a) a külföldi elítélt a szabadságvesztés végrehajtásának félbeszakítása iránti kérelmét elutasító határozattal
+szemben, és
+b) a szabadságvesztés végrehajtásának törvényességi felügyeletét ellátó ügyészség a külföldi elítélt kérelme
+tárgyában hozott határozattal szemben, amelynek a félbeszakítás végrehajtására halasztó hatálya van.
+(2) A bírósági felülvizsgálati kérelmet a meghallgatás helye szerint illetékes büntetés-végrehajtási bíró, ennek
+hiányában a fogvatartás helye szerint illetékes büntetés-végrehajtási bíró az iratok alapján bírálja el.
+
+9. § (1) A szabadságvesztés végrehajtása félbeszakításának végrehajtása során
+a) a bv. intézet a kiutasítás vagy az idegenrendészeti kiutasítás hatálya alatt álló külföldi elítéltet az általános
+rendőrségi feladatok ellátására létrehozott szerv részére adja át a 14. § (2) bekezdésében meghatározottak
+szerint a hatósági kíséret foganatosítása érdekében,
+b) az a) pont alá nem tartozó külföldi elítéltet a bv. intézet szabadítja.
+(2) A szabadságvesztés végrehajtásának félbeszakítását követően az országos parancsnok hivatalból kezdeményezi
+a szabadságvesztés végrehajtásának átadását.
+10. § (1) A szabadságvesztés végrehajtásának félbeszakítása megszűnik, ha a külföldi elítélt szabadságveszésének
+végrehajtását másik állam átvette.
+(2) Az országos parancsnok a szabadságvesztés végrehajtásának félbeszakítását határozattal megszünteti, ha
+a) a külföldi elítélt nem működik együtt az eljáró szervekkel Magyarország területének elhagyásában,
+b) a miniszter megtagadja a végrehajtás átadását,
+c) a szabadságvesztés végrehajtását a másik állam nem vette át, vagy
+d) a külföldi elítélt Magyarország elhagyása során megszökik – ideértve, ha önkéntes távozással
+elrendelt kiutasítás esetén kötelezettségének az előírt határidőben nem tesz eleget – vagy a büntetés
+félbeszakításának tartama alatt annak területére visszatér,
+e) a főigazgatóság a szabadságvesztés végrehajtása félbeszakításának engedélyezését követően a kiutasítás és
+az idegenrendészeti kiutasítás végrehajthatóságának kizártságát állapítja meg.
+(3) A (2) bekezdés esetén a BVOP haladéktalanul intézkedik a szabadságvesztés foganatba vétele iránt.
+(4) A (2) bekezdés a) és e) pontja esetén az eljáró idegenrendészeti hatóság vagy az általános rendőrségi feladatok
+ellátására létrehozott szerv a külföldi elítéltet a legközelebbi büntetés-végrehajtási intézethez előállítja. Ilyen
+esetben a külföldi elítélt bármikor befogadható, és a befogadása nem tagadható meg.
+(5) Ha a külföldi elítélt a kiutasítás végrehajtása során megszökik – ideértve, ha önkéntes távozással elrendelt kiutasítás
+esetén kötelezettségének az előírt határidőben nem tesz eleget –, vagy a kiutasítás végrehajtása bármely más okból
+meghiúsul, a főigazgatóság haladéktalanul értesíti a BVOP-t.
+(6) A (2) bekezdés b)–d) pontja esetén a BVOP haladéktalanul intézkedik a végrehajtás foganatba vétele, illetve
+a Bv. tv. 19. §-a szerint a külföldi elítélt felkutatása érdekében, amely esetben a külföldi elítélttel szemben
+elfogatóparancs kibocsátására akkor kerülhet sor, ha a végrehajtás foganatba vétele más módon nem biztosítható.
+(7) A (2) bekezdés esetén a BVOP a félbeszakítás megszüntetéséről hozott határozatot haladéktalanul megküldi
+a főigazgatóságnak.
+11. §
+Ha a szabadságvesztés végrehajtása félbeszakításának megszüntetésére a külföldi elítélt 10. § (2) bekezdés a) vagy
+d) pontja szerinti felróható magatartása alapján került sor, a büntetés-végrehajtási bíró a Bv. tv. 55. §-a szerinti
+eljárásban dönt a feltételes szabadságra bocsátás lehetőségének a kizárásáról.
+12. § (1) A veszélyhelyzet következményeinek elhárítása és az egyes intézmények földgázfelhasználásának szabályozásáról
+szóló 354/2022. (IX. 19.) Korm. rendeletben (a továbbiakban: R.) meghatározott, a büntetés-végrehajtási szervezetet
+érintő kötelezettség teljesítése érdekében a büntetés-végrehajtásért felelős miniszter rendeletben
+a) a szabadságvesztésre ítéltek reintegrációs őrizetbe helyezésére vonatkozóan a Bv. tv.-től eltérő és
+az otthonápolási őrizetbe helyezésére vonatkozóan a Bv. tv.-t kiegészítő szabályokat állapíthat meg,
+b) az elítéltek vagy egyéb jogcímen fogvatartottak – ide nem értve a kényszergyógykezelteket és az előzetes
+kényszergyógykezelteket – által birtokban tartható elektronikus eszközök birtokban tartásának korlátozására
+vonatkozó szabályokat határozhat meg.
+(2) A büntetés-végrehajtásért felelős miniszter az (1) bekezdés a)–b) pontja szerinti rendelet kiadását követően azok
+fenntartása szükségességét rendszeresen vizsgálja, és köteles azokat hatályon kívül helyezni, ha fenntartásuk
+az R.-ben meghatározott, a büntetés-végrehajtási szervezetet érintő kötelezettség teljesítése érdekében már nem
+szükséges, így különösen, ha a Kormány az energia-veszélyhelyzettel összefüggő egyes szükségszerű intézkedések
+megtételéről szóló 1335/2022. (VII. 15.) Korm. határozat szerinti energia-veszélyhelyzetet visszavonja.
+
+3. Az Nbjt. és az EUtv. rendelkezéseinek eltérő alkalmazása
+13. §
+A 2. § (1) bekezdése alapján engedélyezett szabadságvesztés végrehajtásának félbeszakítását követően
+a szabadságvesztés végrehajtásának átadása során
+a) a külföldi elítélt 5. § szerinti jegyzőkönyvbe foglalt nyilatkozatát az elítélt átadáshoz való hozzájárulásának
+kell tekinteni, és
+b) ideiglenes végrehajtási letartóztatás iránti kérelem nem indítványozható.
+4. Az Szmtv. és a Harmtv. rendelkezéseinek eltérő alkalmazása
+14. § (1) Ha a 2. § (1) bekezdése alapján az országos parancsnok a szabadságvesztés végrehajtásának félbeszakítását
+engedélyezte, a bíróság által elrendelt kiutasítást vagy idegenrendészeti kiutasítást hatósági kísérettel kell
+végrehajtani, ha a külföldi kiutazásának ellenőrzése a nemzetbiztonság, nemzetközi szerződésben vállalt
+kötelezettség érvényesítése, illetve a közbiztonság vagy a közrend védelme érdekében szükséges.
+(2) Az (1) bekezdés szerinti esetben az idegenrendészeti hatóság a kiutasítás, illetve az idegenrendészeti kiutasítás
+végrehajtásának időpontjáról és módjáról annak ismertté válását követően haladéktalanul értesíti az országos
+parancsnokot.
+(3) A 9. § (1) bekezdés a) pontja szerinti esetben a külföldi elítéltet a főigazgatóság az általános rendőrségi feladatok
+ellátására létrehozott szerv közreműködésével a kiutasítás végrehajtása céljából a bv. intézettől a kiutasítás
+végrehajtása megkezdésének napján átveszi.
+5. Záró rendelkezések
+15. §
+Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy az R.-ben meghatározott, a büntetés-
+végrehajtási szervezetet érintő kötelezettség teljesítése érdekében rendeletben állapítsa meg
+a) a reintegrációs őrizetbe helyezés és a krónikus betegségben szenvedő szabadságvesztésre ítéltek
+otthonápolási őrizetének és
+b) az elítéltek vagy az egyéb jogcímen fogvatartottak – ide nem értve a kényszergyógykezelteket és az előzetes
+kényszergyógykezeltek – birtokában tartható elektronikai eszközök birtokban tartása korlátozásának
+különös szabályait.
+16. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+17. §
+A 2–12. §-ban foglalt rendelkezéseket az e rendelet hatálybalépésekor már foganatba vett szabadságvesztés,
+elzárás, kényszerintézkedés és szabálysértési elzárás végrehajtása során is alkalmazni kell.
+ Orbán Viktor s. k.,
+ miniszterelnök
