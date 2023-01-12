@@ -1,6 +1,6 @@
 1. számú melléklet a 123/1997. (VII. 18.) Korm. rendelethez
 
-## Fogalommeghatározások
+Fogalommeghatározások
 
 ## E rendelet alkalmazásában
 
@@ -49,3 +49,7 @@ h) talajvízbázis: olyan vízbázis, melyben az igénybe vett vagy arra előir�
 i) biztonságban lévő vízbázis: amelynek felszíni és felszín alatti vízgyűjtőjén: ismertek a földtani és hidrogeológiai adottságok, a víz áramlási, lefolyási viszonyai, utánpótlódásának módja és mértéke, az utánpótlódás területe, a víz minősége, az ezeket befolyásoló természeti hatótényezők és emberi tevékenységek, illetve mindezek térben és időben való változása a vízkitermelés előtti és a víztermelés hatására kialakuló viszonyok között; a kijelölt és kialakított védőterületen a vízbázist veszélyeztető tevékenységek nem folynak; az ellenőrzés alatt álló potenciális szennyezőforrások esetleges veszélyeztető hatása intézkedésekkel még a vízbázis károsodása előtt megszüntethető,
 
 j) részleges biztonságban lévő vízbázis: ahol a biztonsági intézkedéseket csak az utánpótlódási terület egy részére vagy csak részlegesen hajtották végre.
+
+9.[^63] veszélyek és veszélyesemények: az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendeletben meghatározott fogalmak.
+
+[^63]: Az 1. melléklet 9. pontját a 6/2023. (I. 12.) Korm. rendelet 7. §-a iktatta be.

@@ -10,8 +10,8 @@ b) a terepfelszínt úgy kell kialakítani, hogy ott csapadékvízből visszamar
 
 c) a folyószakasz mederviszonyait csak úgy szabad megváltoztatni, hogy az ne legyen káros hatással a vízkivételre, és a víz minőségére;
 
-d)[^9] közcélú vizilétesítmények esetén az övezetet magába foglaló földrészletnek – az építmény tulajdonjogától függetlenül – állami vagy önkormányzati tulajdonban kell állni. A belső védőövezetet be kell keríteni és szükség esetén biztonságáról egyéb módon, így különösen őrzéssel is gondoskodni kell.
+d)[^17] közcélú vizilétesítmények esetén az övezetet magába foglaló földrészletnek – az építmény tulajdonjogától függetlenül – állami vagy önkormányzati tulajdonban kell állni. A belső védőövezetet be kell keríteni és szükség esetén biztonságáról egyéb módon, így különösen őrzéssel is gondoskodni kell.
 
 e) rendszeresen a vízilétesítmény üzemeltetőjének azok a dolgozói tartózkodhatnak, akik ott munkát végeznek, és a külön jogszabályban meghatározott rendszeres egészségügyi ellenőrzést igazoló egészségügyi könyvvel rendelkeznek. Belépésre jogosultak továbbá az itt dolgozók munkájának irányítói, valamint az ellenőrzésre jogosult hatósági személyek, továbbá azok, akiket a védőterület tulajdonosa erre (így például átmeneti munkavégzésre) esetileg feljogosít. A belépésre engedélyt adó köteles gondoskodni arról, hogy az ideiglenesen ott tartózkodók szennyezést ne okozzanak.
 
-[^9]: A 11. § (2) bekezdésének d) pontja a 298/2007. (XI. 9.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napját követően indított eljárásokban kell alkalmazni.
+[^17]: A 11. § (2) bekezdésének d) pontja a 298/2007. (XI. 9.) Korm. rendelet 1. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2008. január 1. napját követően indított eljárásokban kell alkalmazni.

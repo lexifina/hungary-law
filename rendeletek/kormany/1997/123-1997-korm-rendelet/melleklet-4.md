@@ -1,5 +1,3 @@
-## Felszíni vízbázisok védőterületének méretezése
-
 |  | Tározók és tavak | Folyók és egyéb vízfolyások |
 
 | Védőterület | 10 ha alatt vagy 60 napnál kisebb tartózkodási idő esetén | 10 ha felett vagy 60 napnál nagyobb tartózkodási idő esetén | Q95 = 50 m/s alatt | Q95 = 50 m/s felett |
@@ -23,3 +21,5 @@
 ## LKV = legkisebb vízállás, LNV = legnagyobb vízállás.
 
 4. számú melléklet a 123/1997. (VII. 18.) Korm. rendelethez
+
+Az ivóvíz- és ásvány-gyógyvíz kezelő, tározó műtárgyak és szállító vezetékek védőterületeinek és védősávjainak méretezéséről

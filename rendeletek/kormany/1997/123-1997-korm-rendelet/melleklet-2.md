@@ -1,6 +1,6 @@
 2. számú melléklet a 123/1997. (VII. 18.) Korm. rendelethez
 
-## Felszín alatti vízbázisok védőidomainak, védőövezeteinek méretezése elérési idők alapján
+Felszín alatti vízbázisok védőidomainak, védőövezeteinek méretezése elérési idők alapján
 
 | Védőidom, | Figyelembe veendő vízhozam | Elérési idő | Felszíni védőterület |
 

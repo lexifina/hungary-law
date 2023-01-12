@@ -1,0 +1,3 @@
+9. §[^15] A védőidomot, védőterületet és a kijelölést megalapozó dokumentációt – a 8. § (4) bekezdés l) pontja szerinti felülvizsgálattól függetlenül – az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelet szerinti ivóvízbiztonsági terv minden második felülvizsgálatával egyidejűleg, tizenkét évente az engedélyesnek felül kell vizsgálni, és a felülvizsgálat eredményét a vízügyi hatóságnak meg kell küldeni. A felülvizsgálat eredményétől függően, a vízügyi igazgatóság véleményének kikérését követően a vízügyi hatóság dönt a kijelölt védőidom, védőterület esetleges módosításáról.
+
+[^15]: A 9. § a 6/2023. (I. 12.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.

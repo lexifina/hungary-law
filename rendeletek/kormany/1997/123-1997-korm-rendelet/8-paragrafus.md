@@ -1,12 +1,12 @@
 ## A védőidomok, védőterületek, védősávok kijelölése
 
-8. § (1)[^3] A védőidomot, védőterületet és védősávot a védett vagy védeni tervezett vízbázis, vízilétesítmény megvalósítására, a vízhasználat gyakorlásának engedélyezésére hatáskörrel rendelkező vízügyi hatóság e rendelet előírásai alapján jelöli ki.
+8. § (1)[^10] A védőidomot, védőterületet és védősávot a védett vagy védeni tervezett vízbázis, vízilétesítmény megvalósítására, a vízhasználat gyakorlásának engedélyezésére hatáskörrel rendelkező vízügyi hatóság e rendelet előírásai alapján jelöli ki.
 
 (2) A kiemelt vízminőségvédelmi vagy természetvédelmi oltalom alatti területen lévő vagy azt érintő vízbázis védőidoma, illetőleg védőterülete kijelölése, kialakítása és fenntartása során a külön jogszabály szerinti környezetvédelmi és a természetvédelmi előírásokat is alkalmazni kell.
 
-(3)[^4] A már igénybe vett és az igénybe venni tervezett vízbázis védőidomának, védőterületének kijelölése iránt benyújtott kérelemről a vízjogi engedélyezési eljáráshoz szükséges kérelemről és mellékleteiről szóló jogszabályban foglaltakra figyelemmel a vízügyi hatóság dönt.
+(3)[^11] A már igénybe vett és az igénybe venni tervezett vízbázis védőidomának, védőterületének kijelölése iránt benyújtott kérelemről a vízjogi engedélyezési eljáráshoz szükséges kérelemről és mellékleteiről szóló jogszabályban foglaltakra figyelemmel a vízügyi hatóság dönt.
 
-(4)[^5] A kijelöléssel, kialakítással és fenntartással kapcsolatos vízügyi hatósági eljárás során – üzemelő vízkivétel (igénybe vett vízbázis) esetében – dönteni kell
+(4)[^12] A kijelöléssel, kialakítással és fenntartással kapcsolatos vízügyi hatósági eljárás során – üzemelő vízkivétel (igénybe vett vízbázis) esetében – dönteni kell
 
 a) a védelem alá helyezett vízbázis, vízilétesítmény, vízkivétel megjelöléséről, továbbá a védőidomok, védőterületek megállapításáról;
 
@@ -16,7 +16,7 @@ c) a védelem alá helyezett vízkészletről és az azt magába foglaló földt
 
 d) védőidomok, védőterületek lehatárolásáról, feltüntetve a védőidomok felszínt el nem érő, a védőterületnél nagyobb kiterjedésének felszíni vetületei vonalát is; a védőterületekkel érintett ingatlanoknak ingatlan-nyilvántartási térképi bemutatásával, feltüntetve, illetve megadva az egyes ingatlanok művelési ág szerinti besorolását és tényleges használati módját; a szennyező forrásokat és minden, a vízkészletet érintő beavatkozást;
 
-e)[^6] a védőterületekre vonatkozó területhasználati korlátozásokról, az előírt intézkedések felsorolásáról, megadva a megvalósítás időbeli ütemezésére vonatkozó előírásokat; az egyes védőidomokat, védőterületeket illetően meg kell határozni azokat a tevékenységeket, melyeket
+e)[^13] a védőterületekre vonatkozó területhasználati korlátozásokról, az előírt intézkedések felsorolásáról, megadva a megvalósítás időbeli ütemezésére vonatkozó előírásokat; az egyes védőidomokat, védőterületeket illetően meg kell határozni azokat a tevékenységeket, melyeket
 
 ea) tilos végezni, vagy
 
@@ -42,10 +42,10 @@ l) a védőidomok, védőterületek következő felülvizsgálatának idejéről
 
 (6) A hidrogeológiai ,,B'' zónában a (5) bekezdésben foglaltak azokra az ingatlanokra vonatkozóan végzendők el, amelyeken tényleges műszaki beavatkozás vagy a területhasználat megváltoztatása szükséges.
 
-(7)[^7] A védőidom, védőterület kijelöléséig az előzetesen lehatárolt védőidomokra, védőterületekre vonatkozóan a vízügyi hatóságnak e rendelet 10–14. §-aiban foglaltakat kell figyelembe vennie. Az előzetesen lehatárolt védőidomokat, védőterületeket a vízikönyvben kell nyilvántartani.
+(7)[^14] A védőidom, védőterület kijelöléséig az előzetesen lehatárolt védőidomokra, védőterületekre vonatkozóan a vízügyi hatóságnak e rendelet 10–14. §-aiban foglaltakat kell figyelembe vennie. Az előzetesen lehatárolt védőidomokat, védőterületeket a vízikönyvben kell nyilvántartani.
 
-[^3]: A 8. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 116. §-a szerint módosított szöveg. [A 8. § (1) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 7. § (7) bekezdés b) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrész helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
-[^4]: A 8. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^5]: A 8. § (4) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 39. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^6]: A 8. § (4) bekezdésének e) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 68. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
-[^7]: [A 8. § (7) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 7. § (7) bekezdés d) pontjával elrendelt módosítás, amely szerint a „felügyelőségnek” szövegrész helyébe a „vízügyi hatóságnak” szöveg lép, nem vezethető át.]
+[^10]: A 8. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 116. §-a szerint módosított szöveg. [A 8. § (1) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 7. § (7) bekezdés b) pontjával elrendelt módosítás, amely szerint a „felügyelőség” szövegrész helyébe a „vízügyi hatóság” szöveg lép, nem vezethető át.]
+[^11]: A 8. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^12]: A 8. § (4) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 39. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^13]: A 8. § (4) bekezdésének e) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdésének 68. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1. napját követően indult eljárásokban kell alkalmazni.
+[^14]: [A 8. § (7) bekezdésében az 527/2013. (XII. 30.) Korm. rendelet 7. § (7) bekezdés d) pontjával elrendelt módosítás, amely szerint a „felügyelőségnek” szövegrész helyébe a „vízügyi hatóságnak” szöveg lép, nem vezethető át.]

@@ -10,7 +10,7 @@ c) a közutakon a külső védőövezeten áthaladó útszakasz egészére vonat
 
 d) a létesítmények, így például lakóépületek, sport- és szabadidő-létesítmények, üzemek szennyvizét zárt, nyomáspróbával ellenőrzött szennyvízcsatornával kell elvezetni;
 
-e) a növénytermesztéssel összefüggésben meg kell állapítani, hogy az milyen hatással van a védelemben részesülő vízre. Ehhez meg kell vizsgálni a termőtalajt, a víz fölötti képződményeket és a vizet. A vizsgálati eredményenyek alapján meg kell állapítani, hogy
+e)[^18] a növénytermesztéssel összefüggésben meg kell állapítani, hogy az milyen hatással van a védelemben részesülő vízre. Ehhez meg kell vizsgálni a termőtalajt, a víz fölötti képződményeket és a vizet. A vizsgálati eredményenyek alapján meg kell állapítani a veszélyeket, azaz,, hogy
 
 ea) okozott-e a növénytermesztés kimutatható károsodást a vízben;
 
@@ -18,23 +18,24 @@ eb) a termőtalaj és a víz fölött elhelyezkedő képződmények állapotáb�
 
 (3) Amennyiben a vizsgálat eredményétől függően megállapítható, hogy
 
-a)[^10] a növénytermesztés a víz károsodását okozta vagy meghatározott időn belül okozhatja, és a vízkivétel fenntartása érdekében a károsodás megszüntetése indokolt, a működési területével érintett vízügyi igazgatóság véleménye alapján a vízügyi hatóság, valamint a növény- és talajvédelmi hatóság által alkalmasnak tartott technológiát kell alkalmazni, amely mellett a víz további károsodása, a károsodás lehetősége megszűnik;
+a)[^19] a növénytermesztés a víz károsodását okozta vagy meghatározott időn belül okozhatja, és a vízkivétel fenntartása érdekében a károsodás megszüntetése indokolt, a működési területével érintett vízügyi igazgatóság véleménye alapján a vízügyi hatóság, valamint a növény- és talajvédelmi hatóság által alkalmasnak tartott technológiát kell alkalmazni, amely mellett a víz további károsodása, a károsodás lehetősége megszűnik;
 
 b) a növénytermesztés alkalmazott módja nem károsítja a vizet, az adott technológia csak az illetékes hatóságok olyan állásfoglalása alapján változtatható meg, amely szerint a megváltoztatott technológia sem lesz káros hatással a vízre.
 
 (4) A külső védőövezet területén:
 
-a)[^11] a mezőgazdasági földterület használója a tevékenységéről a (3) bekezdés szerinti hatósági állásfoglalás alapján szolgáltat adatot a vízügyi igazgatóságnak. Amennyiben megállapítható, hogy a víz károsodik vagy károsodása várható, az alkalmazott technológiát a (3) bekezdés a) pontjában foglaltak szerint meg kell változtatni;
+a)[^20] a mezőgazdasági földterület használója a tevékenységéről a (3) bekezdés szerinti hatósági állásfoglalás alapján szolgáltat adatot a vízügyi igazgatóságnak. Amennyiben megállapítható, hogy a víz károsodik vagy károsodása várható, az alkalmazott technológiát a (3) bekezdés a) pontjában foglaltak szerint meg kell változtatni;
 
-b)[^12] tilos az állattenyésztés, azonban háziállatok (kutya, macska és – korlátozott számban – baromfi) tartása megengedhető. Baromfitartás esetén az ólakat úgy kell kialakítani, hogy a talaj és talajvíz szennyeződése kizárt legyen (így például vízzáró kivitellel, zárt hulladékszállítással). Egyes esetekben (így például 2 m-nél mélyebb talajvízszint) ellenőrzés mellett a legeltetés is megengedhető, de az állatok itatása és deleltetése a védőterületen kívül történjen;
+b)[^21] tilos az állattenyésztés, azonban háziállatok (kutya, macska és – korlátozott számban – baromfi) tartása megengedhető. Baromfitartás esetén az ólakat úgy kell kialakítani, hogy a talaj és talajvíz szennyeződése kizárt legyen (így például vízzáró kivitellel, zárt hulladékszállítással). Egyes esetekben (így például 2 m-nél mélyebb talajvízszint) ellenőrzés mellett a legeltetés is megengedhető, de az állatok itatása és deleltetése a védőterületen kívül történjen;
 
 c) tilos folyékony üzemanyagot vagy vegyi anyagot tárolni. A vízmű működtetéséhez szükséges üzemanyag, illetőleg vegyszer tárolását szolgáló fém, illetve műanyag tartályt olyan vízzáró betonmedencében kell elhelyezni, amely a tartály meghibásodása esetén a teljes üzemanyag-mennyiséget magában foglalja;
 
 d) a folyószakasz mederviszonyait partiszűrésű vízkivétel esetében csak úgy szabad megváltoztatni, hogy az ne legyen káros hatással a víz minőségére. (A védőövezetet legalább a partiszűrésű vízkivételi létesítmények és a partél közötti területen ki kell jelölni);
 
-e)[^13] kutató fúrás vagy új kút a – vízügyi igazgatóság hozzájárulása és a vízügyi hatóság engedélye alapján – csak akkor létesíthető, ha a meglévő vízkitermelés zavarása nélkül (így például más vízadóréteg felhasználásával) további vízkivételt, a vízmű tönkrement kútjának pótlását vagy a vízkészlet mennyiségének, minőségének ellenőrzését szolgálja.
+e)[^22] kutató fúrás vagy új kút a – vízügyi igazgatóság hozzájárulása és a vízügyi hatóság engedélye alapján – csak akkor létesíthető, ha a meglévő vízkitermelés zavarása nélkül (így például más vízadóréteg felhasználásával) további vízkivételt, a vízmű tönkrement kútjának pótlását vagy a vízkészlet mennyiségének, minőségének ellenőrzését szolgálja.
 
-[^10]: A 12. § (3) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^11]: A 12. § (4) bekezdés a) pontja a 298/2007. (XI. 9.) Korm. rendelet 6. § (4) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 7. § (7) bekezdés e) pontja szerint módosított szöveg.
-[^12]: A 12. § (4) bekezdésének b) pontja a 324/2006. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^13]: A 12. § (4) bekezdés e) pontja a 298/2007. (XI. 9.) Korm. rendelet 6. § (4) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 7. § (7) bekezdés f) pontja szerint módosított szöveg.
+[^18]: A 12. § (2) bekezdés e) pont nyitó szövegrésze a 6/2023. (I. 12.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^19]: A 12. § (3) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^20]: A 12. § (4) bekezdés a) pontja a 298/2007. (XI. 9.) Korm. rendelet 6. § (4) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 7. § (7) bekezdés e) pontja szerint módosított szöveg.
+[^21]: A 12. § (4) bekezdésének b) pontja a 324/2006. (XII. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^22]: A 12. § (4) bekezdés e) pontja a 298/2007. (XI. 9.) Korm. rendelet 6. § (4) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 7. § (7) bekezdés f) pontja szerint módosított szöveg.

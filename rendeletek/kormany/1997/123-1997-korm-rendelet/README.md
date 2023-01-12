@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-123-20-
 | 2014-01-01 | 1997-123-20-22.13 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2014-02-25 | 1997-123-20-22.14 | 42/2014. (II. 24.) Korm. rendelet |
 | 2018-01-01 | 1997-123-20-22.15 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2023-01-12 | 1997-123-20-22.16 | 6/2023. (I. 12.) Korm. rendelet |

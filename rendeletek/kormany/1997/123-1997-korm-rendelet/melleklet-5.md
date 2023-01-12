@@ -1,5 +1,3 @@
-## Az ivóvíz- és ásvány-gyógyvíz kezelő, tározó műtárgyak és szállító vezetékek védőterületeinek és védősávjainak méretezéséről
-
 | Műtárgyak | Védőterületek méretezése |
 
 | Zárt vagy épületben lévő vízkezelő vagy tároló | A védőterület sugara a műtárgy vagy építmény külső szélétől számított 10 m 5 m-nél magasabb földfeltöltés esetén a rézsü talpától mért 5 m |
@@ -30,9 +28,9 @@
 
 | – ha a szennyvízcsatorna mélyebben fekszik, mint a vízcső és a két vezeték közötti szintkülönbség 0,5-1 m között van | A vezetékek építésére az előző bekezdésben a szennyvízcsatornára vonatkozóan foglaltak irányadók |
 
-5. számú melléklet a 123/1997. (VII. 18.) Korm. rendelethez[^49]
+5. számú melléklet a 123/1997. (VII. 18.) Korm. rendelethez[^64]
 
-## A védőterületek és védőidomok övezeteire vonatkozó korlátozások
+A védőterületek és védőidomok övezeteire vonatkozó korlátozások
 
 1. A védőterületek és védőidomok övezeteire vonatkozó korlátozások
 
@@ -168,10 +166,10 @@
 
 | 1 | – | = | Tilos |
 
-| 2 | x | = | Új létesítménynél, tevékenységnél tilos, a meglévőnél a környezetvédelmi felülvizsgálat vagy a környezeti hatásvizsgálat eredményétől függően megengedhető |
+| 2 | x | = | Új létesítménynél, tevékenységnél tilos, a meglévőnél a környezetvédelmi felülvizsgálat vagy a környezeti hatásvizsgálat, illetve az ezeknek megfelelő tartalmú egyedi kockázatértékelési vizsgálat eredményétől függően megengedhető |
 
-| 3 | o | = | Új vagy meglévő létesítménynél, tevékenységnél a környezeti hatásvizsgálat, illetve a környezetvédelmi felülvizsgálat, illetve az ezeknek megfelelő tartalmú egyedi vizsgálat eredményétől függően megengedhető |
+| 3 | o | = | Új vagy meglévő létesítménynél, tevékenységnél a környezeti hatásvizsgálat, illetve a környezetvédelmi felülvizsgálat, illetve az ezeknek megfelelő tartalmú egyedi kockázatértékelési vizsgálat eredményétől függően megengedhető |
 
 | 4 | + | = | Nincs korlátozva |
 
-[^49]: Az 5. számú melléklet a 147/2010. (IV. 29.) Korm. rendelet 79. §-ával megállapított szöveg.
+[^64]: Az 5. számú melléklet a 147/2010. (IV. 29.) Korm. rendelet 79. §-ával megállapított, a 6/2023. (I. 12.) Korm. rendelet 8. § c) és d) pontja szerint módosított szöveg.
