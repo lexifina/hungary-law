@@ -40,6 +40,8 @@ q) a közjóléti feladatellátás körében a vízitúrázás és a kerékpáro
 
 r) a vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatok ellátása.
 
+s) a megfelelő mennyiségű és minőségű ivóvízhez való hozzáférés biztosítása minden természetes személy számára.
+
 (2) Az (1) bekezdésben felsorolt feladatok közül
 
 a) a Kormány az a), f), i) és az m) pontban;
@@ -54,6 +56,6 @@ e) az állami beruházásokért felelős miniszter, a vízügyi igazgatási szer
 
 meghatározott feladatokat látja el.
 
-(3) Az (1) bekezdésben felsorolt feladatok közül a c) és a d) pontban említetteket a vízgazdálkodásért felelős miniszter a Kormány által meghatározott munkamegosztás szerinti rendben az érdekelt miniszterek közreműködésével látja el.
+(3) Az (1) bekezdés c), d) és s) pontja szerinti feladatokat a vízgazdálkodásért felelős miniszter a Kormány által meghatározott munkamegosztás alapján az érintett miniszterek közreműködésével látja el.
 
 (4) Az állam víziközmű-működtetés és víziközmű-szolgáltatás tekintetében felmerülő, a vízügyi tevékenységektől és vízügyi igazgatástól elkülönült feladatait a víziközmű-szolgáltatásról szóló törvény szabályozza.

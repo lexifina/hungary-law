@@ -36,7 +36,7 @@ i) az ivóvízminőség-javító program megvalósítását szolgáló célelői
 
 j) a települési szennyvíztisztításra vonatkozó nyilvántartási és jelentési kötelezettség;
 
-k) az emberi fogyasztásra szolgáló víz (ivóvíz), valamint a fürdővíz minőségi követelményeire, továbbá a vízminőség ellenőrzésére vonatkozó szabályok;
+k) az emberi fogyasztásra szolgáló víz (ivóvíz), valamint a fürdővíz minőségi követelményeire, az ivóvízhez való hozzáférésre, továbbá a vízminőség ellenőrzésére vonatkozó szabályok;
 
 l) a vízügyi őrszemélyzet (gát-, csatorna-, meder- és tározó őrök) feladat- és hatáskörének;
 

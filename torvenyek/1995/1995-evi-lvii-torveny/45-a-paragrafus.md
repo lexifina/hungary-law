@@ -2,7 +2,7 @@
 
 a) a települési szennyvíz kezeléséről szóló, 1991. május 21-i 91/271/EGK tanácsi irányelv 2. cikk (4) bekezdésének, (6) bekezdésének és (9) bekezdésének, valamint 3. cikkének;
 
-b) az emberi fogyasztásra szánt víz minőségéről szóló, 1998. november 3-i 98/83/EK tanácsi irányelvnek;
+b) az emberi fogyasztásra szánt víz minőségéről szóló, 2020. december 16-i (EU) 2020/2184 európai parlamenti és tanácsi irányelvnek;
 
 c) a vízvédelmi politika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 4. cikk (1) és (2) bekezdésének, 6. cikk (2) bekezdésének, 9. cikkének és 14. cikk (1) bekezdésének;
 
