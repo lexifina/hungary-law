@@ -1,3 +1,0 @@
-2/A. §[^18] A Kormány egészségügyi államigazgatási szervként az 1000 m3/nap mennyiségnél kisebb kapacitású és 5000 főnél kevesebb állandó népességet ellátó vízellátó rendszerek esetén az illetékes fővárosi és vármegyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát, az ennél nagyobb, illetve egy járás határán átnyúló vízellátó rendszerek esetén az illetékes népegészségügyi feladatkörében eljáró vármegyei kormányhivatalt jelöli ki.
-
-[^18]: A 2/A. §-t a 430/2013. (XI. 15.) Korm. rendelet 3. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 46. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 44. § a) pontja szerint módosított szöveg.
