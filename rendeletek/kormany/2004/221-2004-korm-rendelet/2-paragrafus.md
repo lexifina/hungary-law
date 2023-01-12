@@ -42,6 +42,12 @@ s) védelem alatt álló terület (védett terület, védőövezet és védőter
 
 t)[^11] Duna közvetlen részvízgyűjtő: Magyarország területén a Dunához tartozó részvízgyűjtő a Tisza, a Dráva és a Balaton részvízgyűjtőjének kivételével.
 
+u)[^12] ivóvíz kivételi pont: felszíni vagy felszín alatti vízkészletből emberi fogyasztásra szánt víz kivételi pontja;
+
+v)[^13] ivóvíz kivételi pontok vízgyűjtő területe: az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelet alkalmazásában ivóvíznek szánt vízkészletet érő veszélyek és veszélyesemények, valamint kockázatok azonosítása és kezelése érdekében a 14/A. § (1) bekezdése alapján kijelölt terület;
+
+w)[^14] ivóvízszolgáltató: az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelet szerinti ivóvízszolgáltató.
+
 [^3]: A 2. § c) pontja a 314/2008. (XII. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § d) pontja a 314/2008. (XII. 22.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § f) pontja a 314/2008. (XII. 22.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
@@ -51,3 +57,6 @@ t)[^11] Duna közvetlen részvízgyűjtő: Magyarország területén a Dunához 
 [^9]: A 2. § m) pontját a 230/2010. (VIII. 18.) Korm. rendelet 20. §-a hatályon kívül helyezte.
 [^10]: A 2. § r) pontja a 314/2008. (XII. 22.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^11]: A 2. § t) pontját a 314/2008. (XII. 22.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^12]: A 2. § u) pontját a 6/2023. (I. 12.) Korm. rendelet 9. §-a iktatta be.
+[^13]: A 2. § v) pontját a 6/2023. (I. 12.) Korm. rendelet 9. §-a iktatta be.
+[^14]: A 2. § w) pontját a 6/2023. (I. 12.) Korm. rendelet 9. §-a iktatta be.

@@ -2,7 +2,7 @@
 
 ## környezeti hatásai
 
-12. §[^24] (1) A vízgyűjtőre jellemző környezeti, vízgazdálkodási és ezzel összefüggő egyéb, a vízgyűjtő-gazdálkodási terv tartalma szempontjából lényeges adatok megismerése és elemzése körében meg kell határozni a felszíni és felszín alatti víztestek elhelyezkedését, határait, valamint meg kell adni azok jellemzését a (2) és (3) bekezdéseknek megfelelően.
+12. §[^28] (1) A vízgyűjtőre jellemző környezeti, vízgazdálkodási és ezzel összefüggő egyéb, a vízgyűjtő-gazdálkodási terv tartalma szempontjából lényeges adatok megismerése és elemzése körében meg kell határozni a felszíni és felszín alatti víztestek elhelyezkedését, határait, valamint meg kell adni azok jellemzését a (2) és (3) bekezdéseknek megfelelően.
 
 (2) A felszíni víztestekre vonatkozóan
 
@@ -34,4 +34,7 @@ c) azon felszín alatti víztesteket, amelyektől a felszíni vízi vagy száraz
 
 d) az első jellemzést követően a kockázatos és országhatárral osztott víztestek esetében további jellemzést kell készíteni a környezeti célkitűzések elérésére teendő intézkedések meghatározására.
 
-[^24]: A 12. § a 314/2008. (XII. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
+(4)[^29] Az ivóvíz kivételi pontok vízgyűjtő területeinek jellemzését, valamint a veszélyek és a veszélyesemények azonosítását a vízgyűjtő-gazdálkodási tervet összeállító vízügyi igazgatási szerv a (2) és (3) bekezdés szerinti jellemzés, valamint terhelés-hatás vizsgálatok alapján végzi, figyelemmel a vízgyűjtő területeken zajló területhasználatra, felszíni lefolyási és vízutánpótlódási folyamatokra.
+
+[^28]: A 12. § a 314/2008. (XII. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^29]: A 12. § (4) bekezdését a 6/2023. (I. 12.) Korm. rendelet 10. §-a iktatta be.

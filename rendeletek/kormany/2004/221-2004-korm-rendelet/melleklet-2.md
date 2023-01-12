@@ -92,7 +92,7 @@
 
 |  | 4–2 | Balaton közvetlen | KÖDUVIZIG, Székesfehérvár |
 
-2. számú melléklet a 221/2004. (VII. 21.) Korm. rendelethez[^51]
+2. számú melléklet a 221/2004. (VII. 21.) Korm. rendelethez[^64]
 
 A vízgyűjtő-gazdálkodási terv
 
@@ -252,4 +252,7 @@ II. A vízgyűjtő-gazdálkodási terv felülvizsgálata során beépítendő to
 
 5. A felszín alatti vizek védelméről szóló külön jogszabály szerint megállapított küszöbértékeket érintő változásokról szóló jelentés.
 
-[^51]: A 2. számú melléklet a 248/2015. (IX. 8.) Korm. rendelet 11. §-ával megállapított szöveg.
+6.[^65] Az ivóvíz kivételi pontok vízgyűjtő területeire az ivóvízbiztonsági tervek alapján a népegészségügyi szerv által jóváhagyott megelőző, illetve kockázatcsökkentő intézkedések összefoglalása.
+
+[^64]: A 2. számú melléklet a 248/2015. (IX. 8.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^65]: A 2. melléklet „II. A vízgyűjtő-gazdálkodási terv felülvizsgálata során beépítendő további tartalmi elemek” alcím 6. pontját a 6/2023. (I. 12.) Korm. rendelet 17. §-a iktatta be.

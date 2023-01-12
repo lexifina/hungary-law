@@ -1,0 +1,3 @@
+15/A. §[^36] Ha a vízszolgáltató számára megengedett egy paraméter monitorozási gyakoriságának csökkentése vagy egy paraméter törlése az ellenőrizendő paraméterek listájából, a 15. § (1) bekezdésében előírt monitoring program részeként biztosítani szükséges, hogy a vízkivételi pontok vízgyűjtő területeire vonatkozó kockázatértékelés és kockázatkezelés – az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelettel összhangban – elvégzett felülvizsgálata során megtörténjen e paraméterek megfelelő monitorozása, legfeljebb hatévenkénti gyakorisággal.
+
+[^36]: A 15/A. §-t a 6/2023. (I. 12.) Korm. rendelet 14. §-a iktatta be.

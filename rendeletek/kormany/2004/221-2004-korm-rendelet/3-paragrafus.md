@@ -4,17 +4,17 @@
 
 ## Vízgyűjtő-gazdálkodási terv
 
-3. §[^12] (1) A vízgyűjtő-gazdálkodási terv tartalmazza a vízgyűjtők jellemzőinek, a környezeti célkitűzéseknek és a vizek jó állapotának elérése érdekében – a Nemzeti Környezetvédelmi Programmal összhangban – azokat a tevékenységeket, beavatkozásokat, amelyek hatással lehetnek a vizek mennyiségi, minőségi és ökológiai állapotára, valamint ezen hatások elemzését, továbbá a vizek jó állapotának elérése érdekében tett és teendő intézkedéseket, intézkedési programokat, a vizek állapotának jellemzéséhez szükséges monitoring programmal együtt.
+3. §[^15] (1) A vízgyűjtő-gazdálkodási terv tartalmazza a vízgyűjtők jellemzőinek, a környezeti célkitűzéseknek és a vizek jó állapotának elérése érdekében – a Nemzeti Környezetvédelmi Programmal összhangban – azokat a tevékenységeket, beavatkozásokat, amelyek hatással lehetnek a vizek mennyiségi, minőségi és ökológiai állapotára, valamint ezen hatások elemzését, továbbá a vizek jó állapotának elérése érdekében tett és teendő intézkedéseket, intézkedési programokat, a vizek állapotának jellemzéséhez szükséges monitoring programmal együtt.
 
 (2) A vízgyűjtő-gazdálkodási tervet az ország egész területére, ezen belül a Duna közvetlen, a Tisza, a Dráva, valamint a Balaton részvízgyűjtőre, továbbá ezeken belül összesen negyvenkét vízgyűjtő-gazdálkodási tervezési alegységre egységes módszertannal kell elkészíteni.
 
-(3)[^13] A vízgyűjtő-gazdálkodási terv elkészítéséről a vízgazdálkodásért felelős miniszter (a továbbiakban: miniszter) gondoskodik. A miniszter irányításával
+(3)[^16] A vízgyűjtő-gazdálkodási terv elkészítéséről a vízgazdálkodásért felelős miniszter (a továbbiakban: miniszter) gondoskodik. A miniszter irányításával
 
-a)[^14] a vízgyűjtő-gazdálkodási tervezési alegység tervét a hatáskörrel rendelkező hatóságok, valamint egyéb érintett államigazgatási szervek közreműködésével a területi vízgazdálkodási tanács jóváhagyásával az 1. számú mellékletben meghatározott vízügyi igazgatóság,
+a)[^17] a vízgyűjtő-gazdálkodási tervezési alegység tervét a hatáskörrel rendelkező hatóságok, valamint egyéb érintett államigazgatási szervek közreműködésével a területi vízgazdálkodási tanács jóváhagyásával az 1. számú mellékletben meghatározott vízügyi igazgatóság,
 
-b)[^15] a részvízgyűjtő szintű tervet a hatáskörrel rendelkező hatóságok, valamint egyéb érintett államigazgatási szervek közreműködésével a területi hatáskörű vízgazdálkodási tanács jóváhagyásával a miniszter által kijelölt vízügyi igazgatóság,
+b)[^18] a részvízgyűjtő szintű tervet a hatáskörrel rendelkező hatóságok, valamint egyéb érintett államigazgatási szervek közreműködésével a területi hatáskörű vízgazdálkodási tanács jóváhagyásával a miniszter által kijelölt vízügyi igazgatóság,
 
-c)[^16] az országos szintű tervet az országos hatáskörű vízgazdálkodási tanács jóváhagyásával az Országos Vízügyi Főigazgatóság
+c)[^19] az országos szintű tervet az országos hatáskörű vízgazdálkodási tanács jóváhagyásával az Országos Vízügyi Főigazgatóság
 
 állítja össze.
 
@@ -26,17 +26,17 @@ b) a részvízgyűjtőre vonatkozó vízgyűjtő-gazdálkodási tervet a Részv�
 
 c) a tervezési alegység vízgyűjtő-gazdálkodási tervet a Területi Vízgazdálkodási Tanácsnak küldi meg.
 
-(5)[^17]
+(5)[^20]
 
 (6) A vízgyűjtő-gazdálkodási terv tartalmazza különösen:
 
 a) a vízszennyező anyagok kibocsátásának csökkentése és megelőzése érdekében a szennyvízbevezetéseknél a kibocsátási határértékeken, valamint elérhető legjobb technikán (BAT), nem pontszerű (diffúz) szennyezőforrások esetén a lehetséges legjobb környezeti gyakorlaton alapuló intézkedéseket;
 
-b) a védett területek, védőövezetek, védőterületek kijelölését és a nyilvántartással kapcsolatos tevékenységeket;
+b)[^21] a védett területek, védőövezetek, védőterületek, valamint az ivóvíz kivételi pontok vízgyűjtő területei kijelölését és a nyilvántartással kapcsolatos tevékenységeket;
 
 c) a víz használatával összefüggő gazdasági elemzést, a vízszolgáltatások tekintetében a költség-visszatérülés elvének érvényesítését;
 
-d)[^18] a felszín alatti vizek védelméről szóló kormányrendelet szerint meghatározott küszöbértékeket és a meghatározásukra vonatkozó, e rendelet 2. számú mellékletének 11. pontjában felsorolt információkat, illetve annak okát, ha valamely előírt információ nem szerepel a vízgyűjtő-gazdálkodási tervben;
+d)[^22] a felszín alatti vizek védelméről szóló kormányrendelet szerint meghatározott küszöbértékeket és a meghatározásukra vonatkozó, e rendelet 2. számú mellékletének 11. pontjában felsorolt információkat, illetve annak okát, ha valamely előírt információ nem szerepel a vízgyűjtő-gazdálkodási tervben;
 
 e) a felszín alatti vizek kémiai állapotának meghatározásáról készült, e rendelet 2. számú melléklete szerint összeállított összefoglalót; beleértve a szennyezett területekről származó szennyezőanyag-csóvák hatásának értékelését is;
 
@@ -52,10 +52,11 @@ g) a felszín alatti vizek kémiai állapotának értékelését, beleértve ann
 
 (10) A vízgyűjtő-gazdálkodási terveket az egyéb szakterületi tervekkel – különös tekintettel a környezetvédelmi, természetvédelmi, tájhasználati és vidékfejlesztési tervekre – összhangban kell kialakítani.
 
-[^12]: A 3. § a 314/2008. (XII. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^13]: A 3. § (3) bekezdése a 229/2013. (VI. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^14]: A 3. § (3) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
-[^15]: A 3. § (3) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
-[^16]: A 3. § (3) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
-[^17]: A 3. § (5) bekezdését a 300/2011. (XII. 22.) Korm. rendelet 30. § i) pontja hatályon kívül helyezte.
-[^18]: A 3. § (6) bekezdés d) pontja a 248/2015. (IX. 8.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^15]: A 3. § a 314/2008. (XII. 22.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^16]: A 3. § (3) bekezdése a 229/2013. (VI. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^17]: A 3. § (3) bekezdés a) pontja az 527/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
+[^18]: A 3. § (3) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
+[^19]: A 3. § (3) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 28. § (1) bekezdése szerint módosított szöveg.
+[^20]: A 3. § (5) bekezdését a 300/2011. (XII. 22.) Korm. rendelet 30. § i) pontja hatályon kívül helyezte.
+[^21]: A 3. § (6) bekezdés b) pontja a 6/2023. (I. 12.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^22]: A 3. § (6) bekezdés d) pontja a 248/2015. (IX. 8.) Korm. rendelet 9. §-ával megállapított szöveg.
