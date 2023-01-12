@@ -1,8 +1,8 @@
-## 7. §[^1] E rendeletnek az egyes miniszteri rendeletek vízügyi tárgyú módosításáról szóló 6/2018. (III. 5.) BM rendelettel (a továbbiakban: Módr.) megállapított 1–4. mellékletét a Módr. hatálybalépését[^2] követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+## 7. §[^2] E rendeletnek az egyes miniszteri rendeletek vízügyi tárgyú módosításáról szóló 6/2018. (III. 5.) BM rendelettel (a továbbiakban: Módr.) megállapított 1–4. mellékletét a Módr. hatálybalépését[^3] követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
 
-1. melléklet a 41/2017. (XII. 29.) BM rendelethez[^3]
+1. melléklet a 41/2017. (XII. 29.) BM rendelethez[^4]
 
-## Az elvi vízjogi engedélyezési eljáráshoz szükséges dokumentáció tartalma
+Az elvi vízjogi engedélyezési eljáráshoz szükséges dokumentáció tartalma
 
 1. Általános adatok
 
@@ -82,6 +82,6 @@ db) a vízrendezéssel érintett terület helyszínrajza vagy – a kérelmező 
 
 2.4. A környezeti hatások jelentősége vizsgálatának eredménye.
 
-[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 6/2018. (III. 5.) BM rendelet 5. §-a iktatta be.
-[^2]: A hatálybalépés időpontja 2018. március 20.
-[^3]: Az 1. melléklet a 6/2018. (III. 5.) BM rendelet 6. § a) pontja, a 43/2019. (XII. 14.) BM rendelet 4. § a) pontja szerint módosított szöveg.
+[^2]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 6/2018. (III. 5.) BM rendelet 5. §-a iktatta be.
+[^3]: A hatálybalépés időpontja 2018. március 20.
+[^4]: Az 1. melléklet a 6/2018. (III. 5.) BM rendelet 6. § a) pontja, a 43/2019. (XII. 14.) BM rendelet 4. § a) pontja szerint módosított szöveg.

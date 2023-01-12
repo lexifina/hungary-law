@@ -1326,7 +1326,7 @@
 
 4. melléklet a 41/2017. (XII. 29.) BM rendelethez
 
-## A vízügyi szakhatósági állásfoglaláshoz szükséges mellékletek tartalma
+A vízügyi szakhatósági állásfoglaláshoz szükséges mellékletek tartalma
 
 1. Műszaki leírás
 
@@ -1342,17 +1342,17 @@
 
 1.6. A felülvizsgált és elfogadott vízgyűjtő-gazdálkodási tervhez való igazodás vizsgálata, továbbá a nagyvízi mederkezelési tervvel való összhang megteremtése.
 
-2.[^6] Átnézetes helyszínrajz M=1:25 000 vagy 1:10 000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, a tervbe vett létesítmény és a meglevő vízilétesítmények feltüntetésével.
+2.[^7] Átnézetes helyszínrajz M=1:25 000 vagy 1:10 000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, a tervbe vett létesítmény és a meglevő vízilétesítmények feltüntetésével.
 
-3.[^7] Részletes helyszínrajz M=1:10 000, 1:4000 vagy 1:2000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, a tervbe vett létesítmény, a meglévő érintett (megközelített, keresztezett) vízilétesítmények, és a vízgazdálkodási létesítmény magassági adatainak és mértékadó árvízszintjének feltüntetésével.
+3.[^8] Részletes helyszínrajz M=1:10 000, 1:4000 vagy 1:2000 méretarányban, vagy – a kérelmező döntése szerint a helyszínrajz helyett – digitális térkép, a tervbe vett létesítmény, a meglévő érintett (megközelített, keresztezett) vízilétesítmények, és a vízgazdálkodási létesítmény magassági adatainak és mértékadó árvízszintjének feltüntetésével.
 
 4. Keresztezési műtárgyak általános terve M=1:100 vagy 1:200 méretarányban, feltüntetve a keresztezett létesítmény minden műszaki jellemzőjét, fenékszint, levezetési szint, rézsűfenék szélesség, vízhozam, keresztezési magassági elhelyezés, védőtávolság, egyéb adatok.
 
-5.[^8] Vonalas létesítmények esetén a hossz-szelvény a részletes helyszínrajznak vagy digitális térképnek megfelelő méretarányban, az úgynevezett abszolút magassági adatok feltüntetésével.
+5.[^9] Vonalas létesítmények esetén a hossz-szelvény a részletes helyszínrajznak vagy digitális térképnek megfelelő méretarányban, az úgynevezett abszolút magassági adatok feltüntetésével.
 
-6.[^9] Pontszerű létesítmények (így például kutak, szikkasztók, zárt gyűjtők, közműpótló létesítmények) esetében a létesítmény részletterve, a vízgazdálkodási és a létesítményre vonatkozó műszaki paraméterek feltüntetésével.
+6.[^10] Pontszerű létesítmények (így például kutak, szikkasztók, zárt gyűjtők, közműpótló létesítmények) esetében a létesítmény részletterve, a vízgazdálkodási és a létesítményre vonatkozó műszaki paraméterek feltüntetésével.
 
-[^6]: A 4. melléklet 2. pontja a 43/2019. (XII. 14.) BM rendelet 4. § d) pontja szerint módosított szöveg.
-[^7]: A 4. melléklet 3. pontja a 43/2019. (XII. 14.) BM rendelet 4. § d) pontja szerint módosított szöveg.
-[^8]: A 4. melléklet 5. pontját a 6/2018. (III. 5.) BM rendelet 6. § d) pontja iktatta be, szövege a 43/2019. (XII. 14.) BM rendelet 4. § d) pontja szerint módosított szöveg.
-[^9]: A 4. melléklet 6. pontját a 6/2018. (III. 5.) BM rendelet 6. § d) pontja iktatta be.
+[^7]: A 4. melléklet 2. pontja a 43/2019. (XII. 14.) BM rendelet 4. § d) pontja szerint módosított szöveg.
+[^8]: A 4. melléklet 3. pontja a 43/2019. (XII. 14.) BM rendelet 4. § d) pontja szerint módosított szöveg.
+[^9]: A 4. melléklet 5. pontját a 6/2018. (III. 5.) BM rendelet 6. § d) pontja iktatta be, szövege a 43/2019. (XII. 14.) BM rendelet 4. § d) pontja szerint módosított szöveg.
+[^10]: A 4. melléklet 6. pontját a 6/2018. (III. 5.) BM rendelet 6. § d) pontja iktatta be.
