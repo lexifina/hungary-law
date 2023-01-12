@@ -46,10 +46,10 @@ szolgáló szabályokat.
 
 a) a vizsgálatok gyakorisága;
 
-b)[^4] a vizsgálandó fizikai, kémiai mikroszkópos biológiai és bakteriológiai összetevők;
+b)[^8] a vizsgálandó fizikai, kémiai mikroszkópos biológiai és bakteriológiai összetevők;
 
 c) a vizsgálandó minták száma
 
 meghatározására terjed ki.
 
-[^4]: A 3. § (6) bekezdés b) pontja a 42/2017. (XII. 29.) BM rendelet 18. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § (6) bekezdés b) pontja a 42/2017. (XII. 29.) BM rendelet 18. § a) pontja szerint módosított szöveg.

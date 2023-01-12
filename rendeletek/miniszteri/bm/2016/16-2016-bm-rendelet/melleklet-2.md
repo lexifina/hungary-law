@@ -10,8 +10,8 @@
 
 ## Közüzemi ivóvízellátás-csatornázás üzemeltetési munkahelyeken az alapdiploma megszerzését követően eltöltött idő.
 
-2. melléklet a 16/2016. (V. 12.) BM rendelethez[^28]
+2. melléklet a 16/2016. (V. 12.) BM rendelethez[^40]
 
 Vízkivételi műveknél végzendő kémiai, bakteriológiai és indikátor vizsgálatok
 
-[^28]: A 2. melléklet a 42/2017. (XII. 29.) BM rendelet 19. § b) pontja szerint módosított szöveg.
+[^40]: A 2. melléklet a 42/2017. (XII. 29.) BM rendelet 19. § b) pontja szerint módosított szöveg.
