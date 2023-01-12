@@ -36,6 +36,8 @@ k) gondoskodik a közfoglalkoztatás feltételeinek rendelkezésre állásáról
 
 l) irányítja a veszélyes áruk szállításának ellenőrzésével kapcsolatos, a hivatásos katasztrófavédelmi szerv hatáskörébe tartozó hatósági feladatok ellátását.
 
+m) ellátja a veszélyes áruk szállítására használt nem nyomástartó csomagoló- és szállítóeszközök gyártási típus jóváhagyási engedélyezésével, a gyártás ellenőrzésével és azzal összefüggő szankcionálással kapcsolatos hatósági feladatok irányítását.
+
 (5) A hivatásos katasztrófavédelmi szerv központi szerve vezetője a nemzetközi együttműködéssel kapcsolatos jogkörében:
 
 a) közreműködik a katasztrófavédelemmel kapcsolatos nemzetközi szerződések szakmai előkészítésében, részt vesz a nemzetközi együttműködésben, ennek keretében folyamatos kapcsolatot tart fenn a nemzetközi katasztrófavédelmi szervezetekkel,
