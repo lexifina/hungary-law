@@ -2,7 +2,7 @@
 
 ## 2. Értelmező rendelkezések
 
-## 2. § E rendelet alkalmazásában:
+2. §[^1] E rendelet alkalmazásában
 
 a) aeroszol: a gáznemű közegben nem ülepedő, szabad szemmel nem látható, folyadék vagy szilárd részecskéket (10–500 nanométer) finom eloszlásban tartalmazó diszperz rendszer;
 
@@ -14,14 +14,16 @@ d) Legionella: vizes környezetekben és talajban gyakran előforduló baktériu
 
 e) Legionella-expozíció szempontjából kockázatot jelentő közeg: azon 20–50 °C közötti hőmérsékletű víz és az azt tartalmazó berendezések vagy rendszerek, amelyek használata, működése, bemutatása vagy karbantartása során aeroszol képződés lehetséges;
 
-f) Legionella-fertőzési kockázatot jelentő létesítmények: olyan közforgalmú létesítmények, amelyekben Legionella-expozíció szempontjából kockázatot jelentő közegek találhatóak;
+f) Legionella-fertőzési kockázatot jelentő létesítmény: olyan közintézmény, valamint munkahelyként szolgáló épület, amelyben Legionella-expozíció szempontjából kockázatot jelentő közeg található;
 
-g)[^1] fokozott Legionella-fertőzési kockázatot jelentő létesítmények: a nedves hűtőtornyok, továbbá az f) pont szerinti létesítmények közül az egészségügyi és szociális intézmények, kereskedelmi szálláshelyek, nedves hűtőtornyok és azon közfürdők, ahol aeroszol előállító meleg vizű medencét üzemeltetnek, különösen pezsgőmedencét, élménymedencét, hidroterápiás kezelőt;
+g) fokozott Legionella-fertőzési kockázatot jelentő közeg: a nedves hűtőtornyok hűtővize, a Legionella-fertőzési kockázatot jelentő létesítményekben üzemelő aeroszol előállító melegvizű medencék (különösen pezsgőmedencék, élménymedencék, hidroterápiás kezelők) vize, az egészségügyi intézmények és a bölcsődék kivételével a szociális intézmények ivó- és használati melegvize, a magánszálláshelyek és falusi szálláshelyek kivételével a szálláshelyek ivó- és használati melegvize, a sportközpontok ivó- és használati melegvize, valamint a büntetés-végrehajtási intézetek ivó- és használati melegvize;
 
-h) monitoring: a vízhőmérséklet mérése vagy a Legionella-koncentráció – speciális esetekben a 22 °C-on számolt telepszám – vizsgálata;
+h) fokozott Legionella-fertőzési kockázatot jelentő létesítmények: olyan létesítmények, amelyekben a g) pontban felsorolt közeg valamelyike található;
 
-i) nedves hűtőtorony: olyan berendezés, amelyben a felmelegedett víz légárammal szemben haladva lehűl, miközben a víz egy része a környezeti levegőbe párolog és a lehűtött víz jellemzően valamilyen hőcserélőhöz kerül visszavezetésre, ahol ismét felmelegszik;
+i) monitoring: a vízhőmérséklet mérése vagy a Legionella-koncentráció – speciális esetekben a 22 °C-on számolt telepszám – vizsgálata;
 
-j) vízhőmérséklet mérése: a végkifolyókon végzett hőmérsékletmérés, amelyet kalibrált vízhőmérővel kell végezni meleg víz esetén a víz egy perces, hideg víz esetén annak két perces kifolyatását követően.
+j) nedves hűtőtorony: olyan berendezés, amelyben a felmelegedett víz légárammal szemben haladva lehűl, miközben a víz egy része a környezeti levegőbe párolog, és a lehűtött víz jellemzően valamilyen hőcserélőhöz kerül visszavezetésre, ahol ismét felmelegszik;
 
-[^1]: A 2. § g) pontja a 44/2016. (XII. 28.) EMMI rendelet 65. §-a szerint módosított szöveg.
+k) vízhőmérséklet mérése: a végkifolyókon végzett hőmérsékletmérés, amelyet kalibrált vízhőmérővel kell végezni meleg víz esetén a víz egyperces, hideg víz esetén annak kétperces kifolyatását követően.
+
+[^1]: A 2. § az 1/2023. (I. 12.) BM rendelet 4. §-ával megállapított szöveg.

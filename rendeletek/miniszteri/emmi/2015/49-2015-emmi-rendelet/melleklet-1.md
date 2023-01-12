@@ -1,8 +1,6 @@
-## 12. § A rendelet tervezetének a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás megállapításáról és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló, 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.
-
 1. melléklet a 49/2015. (XI. 6.) EMMI rendelethez
 
-## A kockázatbecslési dokumentáció kötelező tartalmi elemei
+A kockázatbecslési dokumentáció kötelező tartalmi elemei
 
 1. A létesítmény megnevezése, címe, üzemeltetője (ennek hiányában tulajdonosa), székhelye vagy lakcíme.
 
@@ -140,6 +138,6 @@ ae) Legionella megelőző beavatkozások leírása (pl. rendszeres vagy időszak
 
 b) Legionella kockázatkezeléssel kapcsolatos oktatási anyagok, oktatásban részesültek felsorolása, oktatási jegyzőkönyvek.
 
-9.[^11] Az országos tisztifőorvos módszertani levele alapján kitöltött értékelőlap.
+9.[^21] Az országos tisztifőorvos módszertani levele alapján kitöltött értékelőlap.
 
-[^11]: Az 1. melléklet 9. pontja az 54/2016. (XII. 30.) EMMI rendelet 100. § f) pontja szerint módosított szöveg.
+[^21]: Az 1. melléklet 9. pontja az 54/2016. (XII. 30.) EMMI rendelet 100. § f) pontja szerint módosított szöveg.

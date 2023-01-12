@@ -1,10 +1,12 @@
 ## 5. Monitoring
 
-6. § (1)[^2] A Legionella-fertőzési kockázatot jelentő azon létesítmények esetén, ahol az 1. melléklet 9. pontja szerinti értékelés magas kockázatot állapít meg, a Nemzeti Népegészségügyi Központ által kiadott módszertani útmutatóban meghatározott gyakorisággal monitoringot kell végezni.
+6. § (1)[^5] Azon Legionella-fertőzési kockázatot jelentő létesítmények esetén, ahol az NNK által kiadott 5. § (3) bekezdése szerinti módszertani útmutató szerinti értékelés magas kockázatot állapít meg valamely közegre, az adott közegre monitoringot kell végezni az útmutatóban meghatározott gyakorisággal.
 
-(2) A fokozott Legionella-fertőzési kockázatot jelentő létesítményekben minden esetben kötelező monitoring vizsgálatot végezni dokumentált módon, a (3)–(5) bekezdésben foglaltak szerint.
+(2)[^6] A fokozott Legionella-fertőzési kockázatot jelentő közegből minden esetben kötelező monitoring vizsgálatot végezni dokumentált módon, a (3)–(5) bekezdésben foglaltak szerint.
 
-(3) Használati melegvíz rendszerek esetén hőmérsékletmérést havonta, Legionella-csíraszám meghatározást évente egyszer kell végezni a kockázatbecslés alapján kijelölt számú és elhelyezkedésű vizsgálati ponton, de épületenként legalább egy, a melegvíz előállítás helyétől távol eső végkifolyón.
+(3)[^7] Ivó- és használati melegvízből Legionella-csíraszám-meghatározást évente egyszer kell végezni a kockázatbecslés alapján kijelölt számú és elhelyezkedésű vizsgálati ponton, de épületenként legalább egy, a melegvíz előállítás helyétől távol eső végkifolyón vagy az expozíció szempontjából leginkább releváns ponton. A vizsgálatot az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendelet alapján jogosultsággal rendelkező laboratórium végezheti.
+
+(3a)[^8] A használati melegvíz hőmérsékletét havonta kell ellenőrizni a kockázatbecslés alapján kijelölt számú és elhelyezkedésű vizsgálati ponton.
 
 (4) Közfürdők esetén a Legionella-csíraszám meghatározása érdekében a medence vízvizsgálatát havonta, a szűrt víz vizsgálatát negyedévente kell elvégezni. Három egymást követő, kimutatási határ alatti eredmény esetén a medencevíz-vizsgálat gyakorisága negyedévesre csökkenthető.
 
@@ -12,4 +14,10 @@
 
 (6) A (3)–(5) bekezdésben foglaltak szerint elvégzett valamennyi monitoring eredményt 5 évre visszamenőleg, azonnal hozzáférhető módon meg kell őrizni a létesítményben.
 
-[^2]: A 6. § (1) bekezdése a 38/2018. (X. 31.) EMMI rendelet 23. §-ával megállapított szöveg.
+(7)[^9] A Legionella-csíraszám meghatározásához a mintavételt akkreditált módon kell végezni az EN ISO 19458 szabvány „a)” mintavételi céljával összhangban.
+
+[^5]: A 6. § (1) bekezdése az 1/2023. (I. 12.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^6]: A 6. § (2) bekezdése az 1/2023. (I. 12.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^7]: A 6. § (3) bekezdése az 1/2023. (I. 12.) BM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^8]: A 6. § (3a) bekezdését az 1/2023. (I. 12.) BM rendelet 6. § (2) bekezdése iktatta be.
+[^9]: A 6. § (7) bekezdését az 1/2023. (I. 12.) BM rendelet 6. § (3) bekezdése iktatta be.
