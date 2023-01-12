@@ -1,0 +1,1 @@
+9. § Hatályát veszti a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény végrehajtásáról szóló 234/2011. (XI. 10.) Korm. rendelet 4/D. §-a, valamint 12. melléklete.
