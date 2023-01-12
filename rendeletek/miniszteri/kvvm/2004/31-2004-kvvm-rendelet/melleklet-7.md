@@ -300,6 +300,6 @@
 
 |  | ** Határvíz vizsgálatokban országhatáron kívül lévő mintavételi helyek |
 
-7. melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^27]
+7. melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^28]
 
-[^27]: A 7. mellékletet a 34/2008. (XII. 31.) KvVM rendelet 5. § (3) bekezdése iktatta be, szövege a 49/2015. (IX. 8.) BM rendelet 7. §-ával megállapított szöveg.
+[^28]: A 7. mellékletet a 34/2008. (XII. 31.) KvVM rendelet 5. § (3) bekezdése iktatta be, szövege a 49/2015. (IX. 8.) BM rendelet 7. §-ával megállapított szöveg.

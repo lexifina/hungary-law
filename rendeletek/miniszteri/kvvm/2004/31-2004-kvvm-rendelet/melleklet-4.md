@@ -1,3 +1,3 @@
-4. számú melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^24]
+4. számú melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^25]
 
-[^24]: A 4. számú melléklet a 34/2008. (XII. 31.) KvVM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^25]: A 4. számú melléklet a 34/2008. (XII. 31.) KvVM rendelet 5. § (3) bekezdésével megállapított szöveg.

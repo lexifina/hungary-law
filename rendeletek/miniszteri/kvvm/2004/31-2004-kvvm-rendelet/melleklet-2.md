@@ -1,4 +1,4 @@
-2. melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^22]
+2. melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^23]
 
 ## Az ökológiai állapot osztályozásának általános meghatározásai
 
@@ -200,5 +200,5 @@ c) az így levezetett szintet egybe kell vetni a terepi vizsgálatokból szárma
 
 d) a kiszámított szintet a pontosabb biztonsági tényező számítása érdekében szakértői felülvizsgálatnak és társadalmi vitának kell alávetni.
 
-[^22]: A 2. melléklet a 49/2015. (IX. 8.) BM rendelet 5. §-a szerint módosított szöveg.
+[^23]: A 2. melléklet a 49/2015. (IX. 8.) BM rendelet 5. §-a szerint módosított szöveg.
 [^1.]: A rövidítések a következők: bgl = háttér-szint, EQS = környezetminőségi szint.

@@ -66,6 +66,6 @@
 
 | Bármely vonatkozó CEN/ISO szabvány |  |
 
-8. melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^28]
+8. melléklet a 31/2004. (XII. 30.) KvVM rendelethez[^29]
 
-[^28]: A 8. mellékletet a 49/2015. (IX. 8.) BM rendelet 8. §-a iktatta be, szövege a 35/2021. (X. 14.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^29]: A 8. mellékletet a 49/2015. (IX. 8.) BM rendelet 8. §-a iktatta be, az 1/2023. (I. 12.) BM rendelet 3. §-a hatályon kívül helyezte.
