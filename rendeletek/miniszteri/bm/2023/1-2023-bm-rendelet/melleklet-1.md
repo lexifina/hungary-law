@@ -1,0 +1,33 @@
+1. melléklet az 1/2023. (I. 12.) BM rendelethez
+
+„2. melléklet a 49/2015. (XI. 6.) EMMI rendelethez
+
+1. A Legionella parametrikus értékének meghatározása ivó- és használati melegvízre
+
+|  | A | B | C | D |
+
+| 1. | Paraméter | Parametrikus érték* | Mértékegység | Vizsgálati módszer |
+
+| 2. | Legionella | 1000 | Telepképző egység (TKE)/l | MSZ EN ISO 11731 [A kockázatalapú igazoló monitorozás céljából, valamint a tenyésztési módszerek kiegészítésére más módszerek, például az ISO/TS 12869 szabvány, gyors tenyésztési módszerek, nem tenyésztésen alapuló módszerek és molekuláris alapú módszerek – különösen a mennyiségi meghatározásra alkalmas polimeráz láncreakció (qPCR) – is alkalmazhatók.] |
+
+* Fertőzések vagy járványok esetén a parametrikus érték alatt mért érték esetén is meg kell erősíteni a fertőzés forrását, és azonosítani kell a Legionella fajt.
+
+2. Kockázatkezelés**
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Létesítmény/közeg megnevezése | Figyelmeztető szint | Figyelmeztető szint esetén szükséges intézkedések | Beavatkozási szint | Beavatkozási szint esetén szükséges intézkedések | Azonnali beavatkozási szint | Azonnali beavatkozási szint esetén szükséges intézkedések |
+
+| 2. | Ivó- és használati melegvíz | A Legionella-koncentráció parametrikus érték feletti legalább egy mintában, de kevesebb, mint a minták 50%-ában, és egyben sem magasabb a parametrikus érték tízszeresénél | Kockázatbecslés és üzemelés felülvizsgálata, valamint a szükséges helyesbítő tevékenységek elvégzése | A Legionella-koncentráció a parametrikus értéknél magasabb több, mint a minták 50%-ában vagy a parametrikus érték tízszerese feletti legalább egy mintában | Kockázatbecslés és üzemelés felülvizsgálata, valamint a szükséges helyesbítő tevékenységek elvégzése; Azonnali újramintázás; Újbóli hasonlóan magas csíraszám esetén kockázatcsökkentő beavatkozás | A Legionella-koncentráció a parametrikus érték tízszerese feletti a minták több mint 50%-ában | Kockázatbecslés és üzemelés felülvizsgálata, valamint a szükséges helyesbítő tevékenységek elvégzése; azonnali kockázatcsökkentő beavatkozás***; Azonnali újramintázás |
+
+| 3. | Ivó- és használati melegvíz a fekvőbeteg-ellátást biztosító egészségügyi szolgáltató érzékeny osztályain*** | A Legionella-koncentráció a parametrikus érték 10 %-a feletti legalább egy mintában, de kevesebb, mint a minták 50%-ában, és egyben sem magasabb a parametrikus értéknél | Kockázatbecslés és üzemelés felülvizsgálata, valamint a szükséges helyesbítő tevékenységek elvégzése | A Legionella-koncentráció a parametrikus érték 10 %-ánál magasabb több, mint a minták 50%-ában vagy parametrikus érték feletti legalább egy mintában | Kockázatbecslés és üzemelés felülvizsgálata, valamint a szükséges helyesbítő tevékenységek elvégzése; Azonnali újramintázás, fokozott kórházhigiénés felügyelet a tüdőgyulladásos esetek vonatkozásában | A Legionella-koncentráció parametrikus érték feletti a minták több mint 50%-ában | Kockázatbecslés és üzemelés felülvizsgálata, valamint a szükséges helyesbítő tevékenységek elvégzése; Azonnali újramintázás, fokozott kórházhigiénés felügyelet a tüdőgyulladásos esetek vonatkozásában; Azonnali kockázatcsökkentő beavatkozás*** vagy az érintett kórterem/osztály bezárása |
+
+| 4. | Aeroszol előállító meleg vizű medencék (>30 ºC) | A Legionella-koncentráció egyszeri 100 TKE/l feletti eredménye (medencevíz) | Kockázatbecslés és üzemelés felülvizsgálata, valamint a szükséges helyesbítő tevékenységek elvégzése | A Legionella-koncentráció ismételt 100 TKE/l feletti vagy egyszeri 1000 TKE/l feletti eredménye (medencevíz/ szűrt víz) | Kockázatbecslés és üzemelés felülvizsgálata, valamint a szükséges helyesbítő tevékenységek elvégzése; Azonnali újramintázás, szűrő után is; 20 m3 víztérfogatúnál kisebb medence tisztítása és fertőtlenítése | A Legionella-koncentráció ismételt 1000 TKE/l feletti eredménye (medencevíz/ szűrt víz) | Kockázatbecslés és üzemelés felülvizsgálata, valamint a szükséges helyesbítő tevékenységek elvégzése; Azonnali kockázatcsökkentő intézkedés***; Azonnali újramintázás, szűrő után is; Medence tisztítása és fertőtlenítése; Medence üzemeltetésének felfüggesztése a figyelmeztető szintet meg nem haladó vizsgálati eredmények eléréséig |
+
+| 5. | Nedves hűtőtorony | A Legionella-koncentráció 1000 TKE/l feletti eredménye vagy a Legionella- koncentráció nem értékelhető a nem Legionella- szervezetek túlzott növekedése miatt | Kockázatbecslés és üzemelés felülvizsgálata, valamint a szükséges helyesbítő tevékenységek elvégzése | A Legionella-koncentráció 10 000 TKE/l feletti vagy a 22 °C-os telepszám 500 000 TKE/ml feletti eredménye | Kockázatbecslés és üzemelés felülvizsgálata, valamint a szükséges helyesbítő tevékenységek elvégzése; Azonnali újramintázás; Újbóli hasonlóan magas csíraszám esetén azonnali kockázatcsökkentő intézkedések alkalmazása, a figyelmeztető szintet meg nem haladó vizsgálati eredmények eléréséig | A Legionella-koncentráció 100 000 TKE/l feletti vagy a 22 °C-os telepszám 5 000 000 TKE/ml feletti eredménye | Kockázatbecslés és üzemelés felülvizsgálata, valamint a szükséges helyesbítő tevékenységek elvégzése; Azonnali újramintázás; Azonnali kockázatcsökkentő intézkedés***, szükség esetén a rendszer leállítása |
+
+| 6. | Egyéb, Legionella- fertőzési kockázatot jelentő közegek | A Legionella-koncentráció 1000 TKE/l feletti legalább egy mintában, de kevesebb, mint a minták 50%-ában, és egyben sem magasabb 10 000 TKE/l-nél | Kockázatbecslés és üzemelés felülvizsgálata, valamint a szükséges helyesbítő tevékenységek elvégzése | A Legionella-koncentráció 1000 TKE/l-nél magasabb több, mint a minták 50%-ában vagy 10 000 TKE/l feletti legalább egy mintában | Kockázatbecslés és üzemelés felülvizsgálata, valamint a szükséges helyesbítő tevékenységek elvégzése; Azonnali újramintázás | A Legionella-koncentráció 10 000 TKE/l feletti a minták több mint 50%-ában | Kockázatbecslés és üzemelés felülvizsgálata, valamint a szükséges helyesbítő tevékenységek elvégzése; Kockázatcsökkentő beavatkozás***; Azonnali újramintázás |
+
+| 7. | Egészségügyi ellátás során alkalmazott berendezések, amelyek működése során aeroszol képződés lehetséges, különösen a fogászati kezelőegységek és a párásítók*** |  |  |  |  | A Legionella-koncentráció egyszeri 100 TKE/l feletti eredménye | Berendezés tisztítása és fertőtlenítése, valamint a fertőtlenítést követő újramintázás |
+
+| **Ha a létesítményhez igazoltan legionellosis megbetegedés vagy járvány köthető, a Legionella-csíraszám értéktől függetlenül az azonnali beavatkozási szintnek megfelelő intézkedéseket kell elvégezni. *** A Nemzeti Népegészségügyi Központ által kiadott módszertani útmutató alapján. |
