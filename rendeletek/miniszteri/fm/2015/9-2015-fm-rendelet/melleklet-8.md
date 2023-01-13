@@ -1,5 +1,3 @@
-## A szálas fehérjetakarmány-növények jegyzéke, valamint minimális hektáronkénti vetőmag, palánta és gumó értékei
-
 |  | A | B | C | D | E | F |
 
 | 1 | Megnevezés magyarul | Megnevezés latinul | Minimum vetőmag kg/hektár | Minimum csíraszám db/hektár | Minimum palánta db/hektár | Minimum gumó kg/hektár |

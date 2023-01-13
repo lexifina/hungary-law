@@ -1,5 +1,3 @@
-## Az ipari zöldségnövények keretében támogatható burgonya (Solanum Tuberosum) méret szerinti minimális gumó mennyiség értékei
-
 |  | A | B | C |
 
 | 1 | Burgonya gumó méret kategória | Minimum gumó darab/hektár | Minimum gumósúly kg/hektár |
@@ -17,5 +15,7 @@
 | 7 | 25–60 mm | 39 333 | 1916 |
 
 4/b. melléklet a 9/2015. (III. 13.) FM rendelethez[^179]
+
+Az ipari olajnövények jegyzéke és minimális hektáronkénti vetőmag értékei
 
 [^179]: A 4/b. mellékletet a 13/2017. (III. 17.) FM rendelet 29. § (5) bekezdése iktatta be.

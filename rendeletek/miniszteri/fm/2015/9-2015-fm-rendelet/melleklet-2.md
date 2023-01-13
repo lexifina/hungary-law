@@ -1,5 +1,3 @@
-## Az egyes termeléshez kötött közvetlen támogatási jogcímekre vonatkozó 2021–2022. évi támogatási keretösszegek (millió euró)
-
 | 1. | A | B | C |
 
 | Támogatási jogcím megnevezése | 2021. év | 2022. év |
@@ -31,3 +29,5 @@
 | 14. | Szálas fehérjetakarmány-növény termesztés | 13,057 | 13,057 |
 
 2. melléklet a 9/2015. (III. 13.) FM rendelethez
+
+A 11. §-ban említett szarvasmarhafajták jegyzéke

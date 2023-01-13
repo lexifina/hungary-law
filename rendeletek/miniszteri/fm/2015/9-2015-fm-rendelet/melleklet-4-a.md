@@ -1,5 +1,3 @@
-## Az ipari zöldségnövények jegyzéke és minimális hektáronkénti vetőmag értékei
-
 |  | A | B | C | D |
 
 | 1 | Megnevezés magyarul | Megnevezés latinul | Minimum vetőmag darab/hektár | Ezermagtömeg gramm |
@@ -25,5 +23,7 @@
 ## 1 A vetőmag minősítésnél a zöldbabra vonatkozó szaporítóanyag előírásoknak kell megfelelni.
 
 4/a. melléklet a 9/2015. (III. 13.) FM rendelethez[^178]
+
+Az ipari zöldségnövények keretében támogatható burgonya (Solanum Tuberosum) méret szerinti minimális gumó mennyiség értékei
 
 [^178]: A 4/a. mellékletet a 13/2017. (III. 17.) FM rendelet 29. § (4) bekezdése iktatta be.

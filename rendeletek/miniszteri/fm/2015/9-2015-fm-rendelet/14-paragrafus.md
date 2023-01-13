@@ -68,7 +68,7 @@ db) a termeltetővel vagy termelői csoporttal kötött szerződéssel, és
 
 dc) a termeltető vagy termelői csoport által a mezőgazdasági termelő részére átadott minősített szaporítóanyag mennyiségét, valamint a származás megjelölését tartalmazó, a termeltető vagy a termelői csoport által kiállított dokumentummal
 
-## igazolja.
+igazolja.
 
 (5a)[^97] Az (5) bekezdés a) pont ab) alpontja szerinti számlához vagy a c) pont cd) alpontja szerinti számla másolatához a következő dokumentumok valamelyikét kell csatolni:
 

@@ -2,6 +2,8 @@
 
 Tárolási napló
 
+7K01767_0
+
 | Név: | Cím: | Kincstár ügyfélazonosító-szám: | Év: |
 
 | Megnevezés, méret, minőség: | Nyilvántartási szám: | Oldalszám: |

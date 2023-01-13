@@ -1,5 +1,3 @@
-## A 11. §-ban említett szarvasmarhafajták jegyzéke
-
 |  | A |
 
 | 1 | Megnevezés |
@@ -85,5 +83,7 @@
 | 41 | Zwartbonten van België/pie noire de Belgique |
 
 3. melléklet a 9/2015. (III. 13.) FM rendelethez[^176]
+
+A zöldségnövények jegyzéke, valamint minimális hektáronkénti vetőmag, palánta, hagyma, tősarj és dugvány értékei
 
 [^176]: A 3. melléklet a 14/2022. (III. 30.) AM rendelet 15. §-ával megállapított szöveg.

@@ -1,5 +1,3 @@
-## A zöldségnövények jegyzéke, valamint minimális hektáronkénti vetőmag, palánta, hagyma, tősarj és dugvány értékei
-
 |  | A | B | C | D | E | F | G | H | I | J |
 
 | 1. | Megnevezése magyarul | Megnevezése latinul | Szántóföldi termesztés esetén | Hajtatás esetén | A fajta feltüntetése a szaporítóanyag igazoláson | A növény megőrzése a virágzás kezdetéig |
@@ -101,5 +99,7 @@
 | 48. | Közönséges szurokfű | Origanum vulgare | 65 000 | 0,1 | – | – | 45 000 | – | Nem szükséges a fajta feltüntetése a szaporítóanyag igazoláson | Nem kell a virágzás kezdetéig megőrizni |
 
 4. melléklet a 9/2015. (III. 13.) FM rendelethez[^177]
+
+Az ipari zöldségnövények jegyzéke és minimális hektáronkénti vetőmag értékei
 
 [^177]: A 4. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (3) bekezdésével megállapított szöveg.

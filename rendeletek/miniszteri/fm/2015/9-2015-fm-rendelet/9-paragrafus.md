@@ -1,4 +1,4 @@
-9. § (1)[^40] Az egységes kérelem rendelet szabályait kell alkalmazni a támogatási kérelem benyújtása, az adatváltozás bejelentése, a kérelem késedelmes benyújtása, a meghatalmazott, a kamarai meghatalmazott és a vélelmezett örökös eljárása, az előzetes ellenőrzés, az elektronikus kapcsolattartás, valamint a helyszíni ellenőrzésről szóló jegyzőkönyvre tett ügyfélészrevétel tekintetében. Az előzetes ellenőrzés szabályait a 7. § (1) bekezdés a) pontja szerinti támogatási jogcímre nem kell alkalmazni.
+9. § (1)[^40] Az egységes kérelem rendelet szabályait kell alkalmazni a támogatási kérelem benyújtása, az adatváltozás bejelentése, a kérelem késedelmes benyújtása, a meghatalmazott és a vélelmezett örökös eljárása, az előzetes ellenőrzés, az elektronikus kapcsolattartás, valamint a helyszíni ellenőrzésről szóló jegyzőkönyvre tett ügyfélészrevétel tekintetében. Az előzetes ellenőrzés szabályait a 7. § (1) bekezdés a) pontja szerinti támogatási jogcímre nem kell alkalmazni.
 
 (2) A támogatási kérelemben a módosításokat az adott támogatási jogcím tárgyévi benyújtására nyitva álló határidő lejártáig lehet megtenni.
 
@@ -24,7 +24,7 @@ c) teljesíti a támogatás igénybevételéhez szükséges összes feltételt.
 
 (8)[^48] Ha a (7) bekezdés szerinti átruházás az átvevő egyéb támogatási kérelmével kapcsolatos feltételek teljesítését kedvezőtlenül érinti, az átruházott állatokat az adott tárgyévben különálló gazdaságnak kell tekinteni.
 
-[^40]: A 9. § (1) bekezdése a 14/2022. (III. 30.) AM rendelet 9. §-ával megállapított szöveg.
+[^40]: A 9. § (1) bekezdése a 14/2022. (III. 30.) AM rendelet 9. §-ával megállapított, az 1/2023. (I. 12.) AM rendelet 11. § (2) bekezdése szerint módosított szöveg.
 [^41]: A 9. § (4) bekezdése a 25/2016. (IV. 11.) FM rendelet 53. § a) pontja szerint módosított szöveg.
 [^42]: A 9. § (5) bekezdése a 25/2016. (IV. 11.) FM rendelet 47. § (2) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 80. § e) pontja szerint módosított szöveg.
 [^43]: A 9. § (5a) bekezdését a 40/2015. (VII. 13.) FM rendelet 10. § (2) bekezdése iktatta be, szövege a 88/2016. (XII. 29.) FM rendelet 80. § d) pontja szerint módosított szöveg.

@@ -1,5 +1,3 @@
-## A gyümölcsök jegyzéke, valamint minimális hektáronkénti tőszámának és az ültetvény maximális életkorának értéke
-
 |  | A | B | C | D | E |
 
 | 1 | Megnevezés magyarul | Megnevezés latinul | Extenzív ültetvény minimum tő/hektár | Intenzív ültetvény minimum tő/hektár | Maximális életkor |
@@ -61,5 +59,7 @@
 | 29 | Közönséges füge | Ficus carica | 330 | 625 | 25 év |
 
 6. melléklet a 9/2015. (III. 13.) FM rendelethez[^181]
+
+A szemes fehérjetakarmány-növények jegyzéke és minimális hektáronkénti vetőmag értékei
 
 [^181]: A 6. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (7) bekezdésével megállapított szöveg.

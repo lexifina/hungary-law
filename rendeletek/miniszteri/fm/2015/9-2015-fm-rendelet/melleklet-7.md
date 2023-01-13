@@ -1,5 +1,3 @@
-## A szemes fehérjetakarmány-növények jegyzéke és minimális hektáronkénti vetőmag értékei
-
 |  | A | B | C |
 
 | 1 | Megnevezés magyarul | Megnevezés latinul | Minimum vetőmag kg/hektár |
@@ -31,5 +29,7 @@
 | 14 | Mezei borsó | Pisum arvense | 100 |
 
 7. melléklet a 9/2015. (III. 13.) FM rendelethez[^182]
+
+A szálas fehérjetakarmány-növények jegyzéke, valamint minimális hektáronkénti vetőmag, palánta és gumó értékei
 
 [^182]: A 7. melléklet a 13/2017. (III. 17.) FM rendelet 29. § (8) bekezdésével megállapított szöveg.

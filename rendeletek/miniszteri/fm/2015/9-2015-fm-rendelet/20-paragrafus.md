@@ -16,7 +16,7 @@ a) betárolása esetén a 9. melléklet szerinti tárolási naplóval vagy a tá
 
 b) a betakarítást követő két héten belüli értékesítés esetén a számlával vagy felvásárlási jeggyel
 
-## igazolja.
+igazolja.
 
 (3)[^146]
 
