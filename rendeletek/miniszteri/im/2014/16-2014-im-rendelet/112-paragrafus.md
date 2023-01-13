@@ -6,6 +6,6 @@
 
 (3) A vallási foglalkozásokon a különböző végrehajtási fokozatú elítéltek együtt vehetnek részt.
 
-(4)[^141] Az ugyanazon büntetőeljárásban letartóztatottak is részt vehetnek vallási foglalkozásokon, ha a bv. intézet biztosítani tudja a rendelkezési jogkör gyakorlója által meghatározott elkülönítési szabályok maradéktalan betartását.
+(4)[^147] Az ugyanazon büntetőeljárásban letartóztatottak is részt vehetnek vallási foglalkozásokon, ha a bv. intézet biztosítani tudja a rendelkezési jogkör gyakorlója által meghatározott elkülönítési szabályok maradéktalan betartását.
 
-[^141]: A 112. § (4) bekezdése a 14/2018. (VI. 15.) IM rendelet 20. § d) pontja szerint módosított szöveg.
+[^147]: A 112. § (4) bekezdése a 14/2018. (VI. 15.) IM rendelet 20. § d) pontja szerint módosított szöveg.

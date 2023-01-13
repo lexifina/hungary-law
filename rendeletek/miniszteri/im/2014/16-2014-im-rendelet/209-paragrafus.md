@@ -1,6 +1,6 @@
-209. § (1)[^310]
+209. § (1)[^324]
 
-(2)[^311]
+(2)[^325]
 
-[^310]: A 209. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^311]: A 209. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^324]: A 209. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^325]: A 209. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

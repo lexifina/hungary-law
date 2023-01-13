@@ -4,8 +4,8 @@
 
 (3) Ha az elítélt vagy az egyéb jogcímen fogvatartott nem rendelkezik letéti pénzzel, kérelmére a (2) bekezdésben meghatározott szervekhez küldött levelét a bv. intézet átirattal továbbítja.
 
-(4)[^8] Ha az elítélt vagy az egyéb jogcímen fogvatartott az ügyész általi meghallgatását kéri, erről haladéktalanul értesíteni kell a törvényességi felügyeletet ellátó ügyészséget.
+(4)[^10] Ha az elítélt vagy az egyéb jogcímen fogvatartott az ügyész általi meghallgatását kéri, erről haladéktalanul értesíteni kell a törvényességi felügyeletet ellátó ügyészséget.
 
 (5) A panaszokról és a közérdekű bejelentésekről szóló törvény szerinti panasz vagy közérdekű bejelentés esetén, ha a panaszos vagy a közérdekű bejelentő személye azonosítható és személyes adatai nyilvánosságra hozatalának szükségessége merül fel, ezt megelőzően a bv. intézetnek nyilatkoztatni kell arról, hogy hozzájárul-e személyes adatainak nyilvánosságra hozatalához.
 
-[^8]: A 9. § (4) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 5. pontja szerint módosított szöveg.
+[^10]: A 9. § (4) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 5. pontja szerint módosított szöveg.

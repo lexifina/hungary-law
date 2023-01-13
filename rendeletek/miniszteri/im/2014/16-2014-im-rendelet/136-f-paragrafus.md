@@ -1,4 +1,4 @@
-136/F. § (1)[^179] A reintegrációs őrizet megszűnik
+136/F. § (1)[^188] A reintegrációs őrizet megszűnik
 
 a) a reintegrációs őrizet elrendeléséről szóló határozatban megjelölt napon, külön rendelkezés hiányában a Bv. tv. 187/A. § (1a) bekezdésében meghatározott tartam elteltével,
 
@@ -10,7 +10,7 @@ d) az elítélt ismeretlen helyre távozásával a reintegrációs őrizet megsz
 
 e) a reintegrációs őrizet büntetés-végrehajtási bíró általi megszüntetésének napjával.
 
-(2)[^180] Az elektronikus távfelügyeletet
+(2)[^189] Az elektronikus távfelügyeletet
 
 a) a reintegrációs őrizet megszűnése napján, vagy
 
@@ -22,11 +22,11 @@ meg kell szüntetni.
 
 (4) A bv. intézet ezt követően elvégzi az elítélt szabadításával kapcsolatosan előírt tájékoztatási kötelezettségeit és kiállítja a szabaduló igazolást.
 
-(5)[^181] Ha az elítélt a megjelenési kötelezettségének nem tesz eleget, a bv. intézet megkeresi a reintegrációs őrizet ellenőrzésében közreműködő büntetés-végrehajtási pártfogó felügyelőt, hogy az elítéltet keresse fel az elektronikus távfelügyeleti eszköz eltávolítása és átvétele céljából. Ha ez nem vezet eredményre, a bv. intézet értesíti a kijelölt lakás helye szerint az illetékes vármegyei (fővárosi) rendőr-főkapitányságot az elektronikus távfelügyeleti eszköz eltávolításában történő közreműködés érdekében.
+(5)[^190] Ha az elítélt a megjelenési kötelezettségének nem tesz eleget, a bv. intézet megkeresi a reintegrációs őrizet ellenőrzésében közreműködő büntetés-végrehajtási pártfogó felügyelőt, hogy az elítéltet keresse fel az elektronikus távfelügyeleti eszköz eltávolítása és átvétele céljából. Ha ez nem vezet eredményre, a bv. intézet értesíti a kijelölt lakás helye szerint az illetékes vármegyei (fővárosi) rendőr-főkapitányságot az elektronikus távfelügyeleti eszköz eltávolításában történő közreműködés érdekében.
 
-(6)[^182] Ha az elítélt megjelenési kötelezettségének nem tett eleget, a szabaduló igazolást és a szabadítással kapcsolatos írásbeli tájékoztatást a lakcímére, vagy ha tényleges tartózkodási helyet jelentett be, a tényleges tartózkodási helyére postai úton kell megküldeni.
+(6)[^191] Ha az elítélt megjelenési kötelezettségének nem tett eleget, a szabaduló igazolást és a szabadítással kapcsolatos írásbeli tájékoztatást a lakcímére, vagy ha tényleges tartózkodási helyet jelentett be, a tényleges tartózkodási helyére postai úton kell megküldeni.
 
-[^179]: A 136/F. § (1) bekezdése a 22/2017. (XII. 22.) IM rendelet 44. §-ával megállapított szöveg.
-[^180]: A 136/F. § (2) bekezdése a 22/2017. (XII. 22.) IM rendelet 44. §-ával megállapított szöveg.
-[^181]: A 136/F. § (5) bekezdése a 35/2022. (XII. 27.) IM rendelet 3. § f) pontja szerint módosított szöveg.
-[^182]: A 136/F. § (6) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 33. pontja szerint módosított szöveg.
+[^188]: A 136/F. § (1) bekezdése a 22/2017. (XII. 22.) IM rendelet 44. §-ával megállapított szöveg.
+[^189]: A 136/F. § (2) bekezdése a 22/2017. (XII. 22.) IM rendelet 44. §-ával megállapított szöveg.
+[^190]: A 136/F. § (5) bekezdése a 35/2022. (XII. 27.) IM rendelet 3. § f) pontja szerint módosított szöveg.
+[^191]: A 136/F. § (6) bekezdése a 14/2018. (VI. 15.) IM rendelet 19. § 33. pontja szerint módosított szöveg.
