@@ -1,0 +1,3 @@
+1. §[^1] A Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet, 2. A Nemzeti Földalappal kapcsolatos kiadások címébe sorolt központi kezelésű előirányzatok, továbbá az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet alapján a költségvetési fejezetben a költségvetési évben megállapított új központi kezelésű kiadási előirányzatok felhasználási szabályait az 1. melléklet tartalmazza.
+
+[^1]: Az 1. § a 10/2021. (III. 17.) AM rendelet 3. §-a, a 2/2023. (I. 12.) AM rendelet 2. § a) pontja szerint módosított szöveg.

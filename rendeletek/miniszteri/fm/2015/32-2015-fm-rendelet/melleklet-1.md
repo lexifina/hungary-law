@@ -2,7 +2,7 @@
 
 1. melléklet a 32/2015. (VI. 19.) FM rendelethez[^4]
 
-XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet 2022. évi költségvetési kiadási előirányzatainak feladatterve
+XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet 2023. évi költségvetési kiadási előirányzatainak feladatterve
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -10,7 +10,7 @@ XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet 2022. 
 
 | 2 |  | A Nemzeti Földalappal kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |
 
-| 3 | 278323 |  | Termőföld vásárlás | 1. Az államnak a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvényben (a továbbiakban: Nfatv.) foglalt termőföld elővásárlási jogának gyakorlásához kapcsolódó kiadások finanszírozása. 2. Az Nfatv. alapján az állam részére ellenérték fejében felajánlott termőföldek megvétele kiadásainak finanszírozása. 3. Az állam részére ingyenesen felajánlott termőföldek állami tulajdonba vételével felmerülő tehermentesítési kiadások finanszírozása. 4. A birtokösszevonási célú termőföldcserék államot terhelő értékkülönbözetének elszámolása. 5. A kisajátítással kapcsolatos termőföldvásárlások finanszírozása. 6. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény(a továbbiakban: Földforgalmi törvény)alapján a sikertelen árverések következtében a Nemzeti Földalapba kerülő földrészletek ellenértékének megfizetése. 7. Az állam jogszabályon alapuló termőföld-visszavásárlási jogának gyakorlásához kapcsolódó kiadások finanszírozása. 8. A Földforgalmi törvény 67/A. §-a szerinti – a Magyar Állam vételi jogához kapcsolódó – kiadások finanszírozása. 9. A Földforgalmi törvény 34. § (4) bekezdése alapján az állam tulajdonába és a Nemzeti Földalapba kerülő ingatlanok kapcsán az örökösöket megillető kártalanítások finanszírozása. | 1. szerződés 2. közigazgatási hatósági döntés 3. bírósági döntés szerinti jogosult | – | – | 1. tulajdonjog- változást eredményező okirat 2. közigazgatási hatósági döntés 3. bírósági döntés alapján egy összegben vagy részletekben | – | – | Nemzeti Földügyi Központ (a továbbiak- ban: NFK) | – | – |
+| 3 | 278323 |  | Termőföld vásárlás | 1. Az államnak a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvényben (a továbbiakban: Nfatv.) foglalt termőföld elővásárlási jogának gyakorlásához kapcsolódó kiadások finanszírozása. 2. Az Nfatv. alapján az állam részére ellenérték fejében felajánlott termőföldek megvétele kiadásainak finanszírozása. 3. Az állam részére ingyenesen felajánlott termőföldek állami tulajdonba vételével felmerülő tehermentesítési kiadások finanszírozása. 4. A birtokösszevonási célú termőföldcserék államot terhelő értékkülönbözetének elszámolása. 5. A kisajátítással kapcsolatos termőföldvásárlások finanszírozása. 6. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény(a továbbiakban: Földforgalmi törvény)alapján a sikertelen árverések következtében a Nemzeti Földalapba kerülő földrészletek ellenértékének megfizetése. 7. Az állam jogszabályon alapuló termőföld-visszavásárlási jogának gyakorlásához, valamint a termőföld értékesítés meghiúsulása miatti visszatérítéshez kapcsolódó kiadások finanszírozása. 8. A Földforgalmi törvény 67/A. §-a szerinti – a Magyar Állam vételi jogához kapcsolódó – kiadások finanszírozása. 9. A Földforgalmi törvény 34. § (4) bekezdése alapján az állam tulajdonába és a Nemzeti Földalapba kerülő ingatlanok kapcsán az örökösöket megillető kártalanítások finanszírozása. | 1. szerződés 2. közigazgatási hatósági döntés 3. bírósági döntés szerinti jogosult | – | – | 1. tulajdonjog- változást eredményező okirat 2. közigazgatási hatósági döntés 3. bírósági döntés alapján egy összegben vagy részletekben | – | – | Nemzeti Földügyi Központ (a továbbiak- ban: NFK) | – | – |
 
 | 4 | 278390 |  | Életjáradék termőföldért | Az állam által megkötött életjáradéki szerződésekben az állam terhére vállalt fizetési kötelezettségek kiadásainak finanszírozása. | 1. életjáradékra jogosult 2. Magyar Államkincstár | – | – | 1. életjáradéki szerződés 2. megálla- podás alapján részletekben | – | – | NFK | – | – |
 
@@ -30,4 +30,4 @@ XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet 2022. 
 
 [^2]: A 4. §-t a 10/2021. (III. 17.) AM rendelet 1. §-a iktatta be.
 [^3]: A hatálybalépés időpontja 2021. március 18.
-[^4]: Az 1. melléklet a 10/2021. (III. 17.) AM rendelet 2. §-ával megállapított, a 7/2022. (II. 17.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet a 10/2021. (III. 17.) AM rendelet 2. §-ával megállapított, a 7/2022. (II. 17.) AM rendelet 1. § b) pontja, a 2/2023. (I. 12.) AM rendelet 1. §-a és 2. § b) pontja szerint módosított szöveg.

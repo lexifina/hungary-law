@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-32-20-1
 | 2020-06-17 | 2015-32-20-11.7 | 19/2020. (VI. 16.) AM rendelet |
 | 2021-03-18 | 2015-32-20-11.8 | 10/2021. (III. 17.) AM rendelet |
 | 2022-02-18 | 2015-32-20-11.9 | 10/2021. (III. 17.) AM rendelet |
+| 2023-01-13 | 2015-32-20-11.10 | 10/2021. (III. 17.) AM rendelet |
