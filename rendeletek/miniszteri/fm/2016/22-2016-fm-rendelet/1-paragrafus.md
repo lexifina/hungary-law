@@ -24,7 +24,7 @@ b) a tárgyévet megelőző évi egységes kérelemben az ügyfél bejelentett t
 
 9. hasznosító: az egységes kérelemben bejelentett terület vonatkozásában hasznosítást végző mezőgazdasági termelő;
 
-10. kamarai meghatalmazott: a Magyar Agrár-Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK) munkavállalója, aki e rendelet szerinti agrárigazgatási feladatai teljesítése kapcsán az elektronikus benyújtás és elektronikus kapcsolattartás választása esetén kizárólag technikai segítséget nyújtó személyként jár el;
+10.[^2]
 
 11. kölcsönös megfeleltetés: a közvetlen mezőgazdasági támogatások, valamint az egyes vidékfejlesztési és borpiaci támogatások egységes feltételrendszere, amely a kölcsönös megfeleltetés körébe tartozó ellenőrzések lefolytatásával, valamint a jogkövetkezmények alkalmazásával kapcsolatos szabályokról szóló 81/2009. (VII. 10.) FVM rendelet 1. melléklete szerinti értékelési szempontok és a HMKÁ rendelet 1. számú melléklete szerinti előírások érvényesítése;
 
@@ -32,7 +32,7 @@ b) a tárgyévet megelőző évi egységes kérelemben az ügyfél bejelentett t
 
 13. Központi Elektronikus Szolgáltató Rendszer: az elektronikus közszolgáltatások nyújtását, illetve igénybevételét támogató központi informatikai és kommunikációs rendszer;
 
-14.[^2] KR dokumentum: az ügyfél által ügyfélkapus azonosítással benyújtott vagy az ügyfél elektronikus ügyintézésre szolgáló értesítési tárhelyére (a továbbiakban: értesítési tárhely) továbbított dokumentum tartalmát, valamint az elektronikus benyújtás vagy továbbítás adatait tartalmazó elektronikus dokumentum, amelyet a Magyar Államkincstár (a továbbiakban: Kincstár) az ügyfél értesítési tárhelyére a Központi Elektronikus Szolgáltató Rendszeren (a továbbiakban: KR) keresztül megküld;
+14.[^3] KR dokumentum: az ügyfél által ügyfélkapus azonosítással benyújtott vagy az ügyfél elektronikus ügyintézésre szolgáló értesítési tárhelyére (a továbbiakban: értesítési tárhely) továbbított dokumentum tartalmát, valamint az elektronikus benyújtás vagy továbbítás adatait tartalmazó elektronikus dokumentum, amelyet a Magyar Államkincstár (a továbbiakban: Kincstár) az ügyfél értesítési tárhelyére a Központi Elektronikus Szolgáltató Rendszeren (a továbbiakban: KR) keresztül megküld;
 
 15. mezőgazdasági parcella: az 1306/2013/EU európai parlamenti és tanácsi rendelet 67. cikk (4) bekezdés a) pontja szerinti földterület, figyelemmel az adott támogatási jogcím sajátosságaira;
 
@@ -42,7 +42,7 @@ b) a tárgyévet megelőző évi egységes kérelemben az ügyfél bejelentett t
 
 18. nem támogatható terület: a MePAR rendelet 1. § 10. pontja szerinti terület;
 
-19.[^3] ökológiai jelentőségű terület: a 10/2015. (III. 13.) FM rendelet 13. § (1) bekezdése szerinti terület;
+19.[^4] ökológiai jelentőségű terület: a 10/2015. (III. 13.) FM rendelet 13. § (1) bekezdése szerinti terület;
 
 20. pontosítás: az egységes kérelemben megadott adatokra vonatkozó minden olyan adatváltozás bejelentése, ami az egységes kérelemben megadott adatok valóságnak megfelelő kiigazítására irányul;
 
@@ -58,7 +58,7 @@ d) az egybeművelt terület,
 
 e) egyes, a MePAR rendelet 1. § 17. pontja szerinti tematikus rétegek (a továbbiakban: tematikus fedvény) területe,
 
-f)[^4] MePAR-ban lehatárolt ökológiai jelentőségű terület és ennek a maximálisan leigényelhető területe;
+f)[^5] MePAR-ban lehatárolt ökológiai jelentőségű terület és ennek a maximálisan leigényelhető területe;
 
 22. referenciaterület mérete:
 
@@ -72,13 +72,13 @@ d) az egybeművelt terület helyszíni ellenőrzése során mért területének 
 
 e) a tematikus fedvények területének mérete,
 
-f)[^5] MePAR-ban lehatárolt ökológiai jelentőségű területek igényelhető területe;
+f)[^6] MePAR-ban lehatárolt ökológiai jelentőségű területek igényelhető területe;
 
 23. támogatható terület: az 1307/2013/EU európai parlamenti és tanácsi rendelet 32. cikk (2)–(6) bekezdésében meghatározott, a támogatás szempontjából valamennyi feltételnek megfelelő földterület;
 
 24. tárgyév: azon naptári év, amelynek vonatkozásában a mezőgazdasági termelő az egységes kérelmet benyújtja;
 
-25.[^6] termesztő berendezés: az 1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés f) pontjában meghatározott szántóterületen lévő üvegház, valamint rögzített vagy mobil fedél, amely alatt a termeszteni kívánt növény közvetlen kapcsolatban áll a lefedett szántóterülettel;
+25.[^7] termesztő berendezés: az 1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés f) pontjában meghatározott szántóterületen lévő üvegház, valamint rögzített vagy mobil fedél, amely alatt a termeszteni kívánt növény közvetlen kapcsolatban áll a lefedett szántóterülettel;
 
 26. terménycsoport: a 640/2014/EU felhatalmazáson alapuló bizottsági rendelet 17. cikk (1) bekezdése és 22. cikk (1) bekezdése szerint megkülönböztetett területek;
 
@@ -87,8 +87,9 @@ f)[^5] MePAR-ban lehatárolt ökológiai jelentőségű területek igényelhető
 28. termőképes terület: azon mezőgazdasági parcella, ahol a növényegyedek legalább 50%-a terméshozásra képes.
 
 [^1]: Az 1. § 8. pontja a 14/2022. (III. 30.) AM rendelet 21. §-ával megállapított szöveg.
-[^2]: Az 1. § 14. pontja a 8/2018. (III. 29.) FM rendelet 42. §-ával megállapított szöveg.
-[^3]: Az 1. § 19. pontja a 10/2019. (IV. 1.) AM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § 21. pont f) alpontja a 10/2019. (IV. 1.) AM rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^5]: Az 1. § 22. pont f) alpontja a 10/2019. (IV. 1.) AM rendelet 16. § (3) bekezdésével megállapított szöveg.
-[^6]: Az 1. § 25. pontja a 10/2019. (IV. 1.) AM rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 10. pontját az 1/2023. (I. 12.) AM rendelet 11. § (4) bekezdés a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § 14. pontja a 8/2018. (III. 29.) FM rendelet 42. §-ával megállapított szöveg.
+[^4]: Az 1. § 19. pontja a 10/2019. (IV. 1.) AM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § 21. pont f) alpontja a 10/2019. (IV. 1.) AM rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. § 22. pont f) alpontja a 10/2019. (IV. 1.) AM rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^7]: Az 1. § 25. pontja a 10/2019. (IV. 1.) AM rendelet 16. § (4) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-15. § (1)[^42] Az egységes kérelem, az adatváltozás bejelentése, az adategyeztetés során tett nyilatkozat, a jogszerű földhasználatra vonatkozó nyilatkozat és a 10. § (5) bekezdése szerinti ügyféli észrevétel (a továbbiakban együtt: beadvány) Kincstár általi elektronikus fogadásának tényét az ezeket tartalmazó KR dokumentumnak a benyújtó ügyfél vagy meghatalmazott értesítési tárhelyére történő feltöltése jelenti, beérkezésének időpontját pedig KR dokumentum igazolja. A beadvány beérkezéséről a Kincstár elektronikus úton értesíti az ügyfelet.
+15. § (1)[^39] Az egységes kérelem, az adatváltozás bejelentése, az adategyeztetés során tett nyilatkozat, a jogszerű földhasználatra vonatkozó nyilatkozat és a 10. § (5) bekezdése szerinti ügyféli észrevétel (a továbbiakban együtt: beadvány) Kincstár általi elektronikus fogadásának tényét az ezeket tartalmazó KR dokumentumnak a benyújtó ügyfél vagy meghatalmazott értesítési tárhelyére történő feltöltése jelenti, beérkezésének időpontját pedig KR dokumentum igazolja. A beadvány beérkezéséről a Kincstár elektronikus úton értesíti az ügyfelet.
 
 (2) Az (1) bekezdés szerinti értesítésnek tartalmaznia kell:
 
@@ -12,7 +12,7 @@ d) a beadvány érkeztetési számát, valamint
 
 e) a beadvány mellékleteként elektronikusan csatolt dokumentumok darabszámát.
 
-(3)[^43] Az egységes kérelem benyújtásáról szóló igazolást a Kincstár az ügyfél írásbeli kérelmére harminc napon belül papír alapon is kiállítja és megküldi az ügyfél részére.
+(3)[^40] Az egységes kérelem benyújtásáról szóló igazolást a Kincstár az ügyfél írásbeli kérelmére harminc napon belül papír alapon is kiállítja és megküldi az ügyfél részére.
 
 (4) A (3) bekezdés szerinti igazolás az egységes kérelemben foglaltaknak megfelelően tartalmazza:
 
@@ -38,5 +38,5 @@ f) a támogatás vonatkozásában kérelmezett állategyed azonosító számát,
 
 g) a támogatás vonatkozásában kérelmezett állatlétszámot.
 
-[^42]: A 15. § (1) bekezdése a 10/2019. (IV. 1.) AM rendelet 19. §-ával megállapított szöveg.
-[^43]: A 15. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 109. § b) pontja szerint módosított szöveg.
+[^39]: A 15. § (1) bekezdése a 10/2019. (IV. 1.) AM rendelet 19. §-ával megállapított szöveg.
+[^40]: A 15. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 109. § b) pontja szerint módosított szöveg.

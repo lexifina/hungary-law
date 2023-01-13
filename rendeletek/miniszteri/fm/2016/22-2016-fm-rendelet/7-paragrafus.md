@@ -16,7 +16,7 @@ a) a 11/2015. (III. 13.) FM rendelet 3. § a) pontja szerinti uralmi szerződés
 
 b) a 11/2015. (III. 13.) FM rendelet 3. § b) pontja szerinti ellenőrzés esetén az ellenőrzést gyakorló társaságnak az adott társasági formára a Ptk.-ban meghatározott, módosításokkal egységes szerkezetbe foglalt létesítő okirata másolatát
 
-## is csatolnia kell az egységes kérelemhez.
+is csatolnia kell az egységes kérelemhez.
 
 (5) Az igénylő szövetkezet vezető tisztségviselője a mezőgazdasági termeléssel összefüggő személyes közreműködés tényleges megvalósulását az ezt igazoló okirat másolatának az egységes kérelemhez történő csatolásával köteles igazolni.
 
