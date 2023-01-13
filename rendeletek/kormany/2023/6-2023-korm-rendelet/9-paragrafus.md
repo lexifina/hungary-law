@@ -1,5 +1,5 @@
 ## 2. A vízgyűjtő-gazdálkodás egyes szabályairól szóló 221/2004. (VII. 21.) Korm. rendelet módosítása
 
-9. § A vízgyűjtő-gazdálkodás egyes szabályairól szóló 221/2004. (VII. 21.) Korm. rendelet (a továbbiakban: R2.) 2. §-a a következő u)–w) ponttal egészül ki:
+9. §[^10]
 
-(E rendelet alkalmazásában:)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
