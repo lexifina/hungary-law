@@ -1,0 +1,1 @@
+4. § A miniszter a kérelem kézhezvételét követő harminc napon belül nyilatkozik, hogy a szabadságvesztés végrehajtásának átadása kizárt-e, egyúttal megjelöli a külföldi elítélt esetében átadható szabadságvesztés büntetés legrövidebb tartamát, ha a szabadságvesztés végrehajtásának átadása nem kizárt.
