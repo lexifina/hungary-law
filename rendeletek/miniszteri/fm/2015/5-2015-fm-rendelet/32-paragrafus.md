@@ -10,4 +10,6 @@ c) a közös agrárpolitika finanszírozásáról, irányításáról és monito
 
 d) az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről szóló, 2014. március 11-i 640/2014/EU bizottsági felhatalmazáson alapuló rendeletnek
 
+a végrehajtásához szükséges rendelkezéseket állapít meg.
+
 [^73]: A 31/G. §-t a 10/2020. (IV. 3.) AM rendelet 6. §-a iktatta be.

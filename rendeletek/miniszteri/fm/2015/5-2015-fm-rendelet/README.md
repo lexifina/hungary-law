@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-5-20-11
 | 2021-08-21 | 2015-5-20-11.24 | 28/2021. (VIII. 18.) AM rendelet |
 | 2022-03-30 | 2015-5-20-11.25 | 11/2022. (III. 25.) AM rendelet |
 | 2022-04-02 | 2015-5-20-11.26 | 14/2022. (III. 30.) AM rendelet |
+| 2023-01-13 | 2015-5-20-11.27 | 14/2022. (III. 30.) AM rendelet |

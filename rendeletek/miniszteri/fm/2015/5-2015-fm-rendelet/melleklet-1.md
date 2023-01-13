@@ -1,8 +1,6 @@
-## a végrehajtásához szükséges rendelkezéseket állapít meg.
-
 1. melléklet az 5/2015. (II. 19.) FM rendelethez
 
-## Szarvasmarhafajták jegyzéke a 13. § (2) bekezdés alkalmazásához
+Szarvasmarhafajták jegyzéke a 13. § (2) bekezdés alkalmazásához
 
 1. Angler Rotvieh (Angeln) – Rød dansk mælkerace (RMD) – German Red – Lithuanian Red
 

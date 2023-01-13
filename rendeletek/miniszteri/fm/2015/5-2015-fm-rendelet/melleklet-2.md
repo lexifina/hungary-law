@@ -1,6 +1,6 @@
 2. melléklet az 5/2015. (II. 19.) FM rendelethez[^74]
 
-## Az anyatehéntartás termeléshez kötött támogatásához kapcsolódó tejértékesítés során jelentett értékesített tej, illetve tejtermékek mennyisége számítása során alkalmazandó átváltási képletek
+Az anyatehéntartás termeléshez kötött támogatásához kapcsolódó tejértékesítés során jelentett értékesített tej, illetve tejtermékek mennyisége számítása során alkalmazandó átváltási képletek
 
 1.[^75] 1 kg értékesített tej = 0,971 l tej
 
