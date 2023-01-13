@@ -1,5 +1,3 @@
-## ARCKÉPMÁSKÍSÉRŐ ADATLAP
-
 | 1.1. Az eljáró szerv megnevezése: |
 
 | ....................................................................................................................................................................................... |
@@ -56,6 +54,6 @@
 
 |  | ........................................................ Az eljáró szerv képviselője |
 
-13. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^125]
+13. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^128]
 
-[^125]: A 13. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, hatályon kívül helyezte a 12/2016. (V. 4.) BM rendelet 27. § a) pontja.
+[^128]: A 13. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, hatályon kívül helyezte a 12/2016. (V. 4.) BM rendelet 27. § a) pontja.

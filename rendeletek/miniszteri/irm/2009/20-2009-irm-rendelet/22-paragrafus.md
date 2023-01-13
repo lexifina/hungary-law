@@ -1,5 +1,3 @@
-## napjától számított három munkanapon belül kell teljesíteni.
-
 22. §[^87] (1) A bíróság a 9. adatlap megküldésével közli a büntetőeljárás hatálya alatt állók nyilvántartása részére azon tényt, hogy az érintett személy érvényes úti okmánnyal rendelkezik-e, valamint
 
 a)[^88] a Bnytv. 23. § c) és h) pontjában meghatározott adatokat, ha kényszerintézkedést rendelt el,

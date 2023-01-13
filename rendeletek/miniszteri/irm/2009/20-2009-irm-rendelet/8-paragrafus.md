@@ -1,5 +1,3 @@
-## napjától számított három munkanapon belül kell teljesíteni.
-
 ## III. Fejezet
 
 ## AZ ÜGYÉSZSÉG ADATKÖZLÉSI KÖTELEZETTSÉGE

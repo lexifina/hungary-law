@@ -4,7 +4,7 @@ a)[^40] az áttételt elrendelő ügyészség az áttételre került ügyről a 
 
 b)[^41] az ügyet átvevő ügyészség a Bnytv. 23. § c), e), i)–k) pontjában meghatározott adatokat
 
-## az erről szóló külön értesítés megküldésével közli a büntetőeljárás hatálya alatt állók nyilvántartása részére.
+az erről szóló külön értesítés megküldésével közli a büntetőeljárás hatálya alatt állók nyilvántartása részére.
 
 (2)[^42] Ha a nyomozást az ügyészség végzi, az (1) bekezdésben meghatározott adatközlés a Bnytv. 23. § d) pontjára is kiterjed.
 

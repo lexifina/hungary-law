@@ -1,5 +1,3 @@
-## PÓTLAP
-
 | 1. Pótlap a ................................................................................................................................... számú adatlaphoz |
 
 | 1.1. Az eljáró szerv kódja és megnevezése: □□□□□□□ |
@@ -64,6 +62,8 @@
 
 |  | ........................................................ Az eljáró szerv képviselője |
 
-12. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^124]
+12. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^127]
 
-[^124]: A 12. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 12/2022. (IV. 26.) IM rendelet 4. § (12) bekezdésével megállapított szöveg.
+ARCKÉPMÁSKÍSÉRŐ ADATLAP
+
+[^127]: A 12. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 12/2022. (IV. 26.) IM rendelet 4. § (12) bekezdésével megállapított szöveg.

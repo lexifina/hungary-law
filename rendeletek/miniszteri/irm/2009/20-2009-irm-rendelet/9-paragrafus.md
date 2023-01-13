@@ -38,6 +38,8 @@ f)[^34] a vádirat benyújtásának,
 
 g)[^35] ha az nem azonos az a) pontban meghatározott időponttal, az arcképmás rögzítésének
 
+napjától számított három munkanapon belül kell teljesíteni.
+
 [^23]: A 9. § (1) bekezdés a) pontja a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja, 35. § 6. pontja szerint módosított szöveg.
 [^24]: A 9. § (1) bekezdés b) pontja a 60/2012. (XII. 28.) KIM rendelet 9. § c) pontja, a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja, 35. § 1. pontja, a 16/2018. (VI. 22.) IM rendelet 13. § 2. és 3. pontja szerint módosított szöveg.
 [^25]: A 9. § (1) bekezdés c) pontja a 35/2013. (XII. 23.) KIM rendelet 13. § (2) bekezdésével megállapított, a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja és 35. § 6. pontja, a 16/2018. (VI. 22.) IM rendelet 13. § 2. és 4. pontja szerint módosított szöveg.

@@ -6,6 +6,8 @@ a)[^19] az áttételt elrendelő nyomozó hatóság az áttett ügyről a Bnytv.
 
 b)[^20] az ügyet átvevő nyomozó hatóság a Bnytv. 23. § c), d), i)–k) pontjában
 
+meghatározott adatokat az erről szóló külön értesítés megküldésével közli a büntetőeljárás hatálya alatt állók nyilvántartása részére.
+
 [^17]: Az 5. § a 17/2014. (XII. 19.) IM rendelet 35. § 2. pontja szerint módosított szöveg.
 [^18]: A 6. § záró szövegrésze a 17/2014. (XII. 19.) IM rendelet 36. § 3. pontja szerint módosított szöveg.
 [^19]: A 6. § a) pontja a 17/2014. (XII. 19.) IM rendelet 35. § 3–4. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-7. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^119]
+7. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^122]
 
 7. adatlap
 
@@ -110,4 +110,4 @@ ADATKÖZLÉS A BÍRÓSÁG KÜLÖNLEGES ELJÁRÁSBAN, EGYSZERŰSÍTETT FELÜLVIZS
 
 |  | ........................................................ Az eljáró szerv képviselője |
 
-[^119]: A 7. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 12/2022. (IV. 26.) IM rendelet 4. § (7) bekezdésével megállapított szöveg.
+[^122]: A 7. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 12/2022. (IV. 26.) IM rendelet 4. § (7) bekezdésével megállapított szöveg.

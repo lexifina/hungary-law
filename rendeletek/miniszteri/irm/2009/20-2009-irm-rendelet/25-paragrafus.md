@@ -12,6 +12,8 @@ a)[^107] a javítóintézeti nevelésre utalt javítóintézeti nevelésének me
 
 b)[^108] a javítóintézeti nevelésre utalt halálának napjától
 
+számított három munkanapon belül kell teljesíteni.
+
 [^106]: A 25. § (1) bekezdés nyitó szövegrésze a 17/2014. (XII. 19.) IM rendelet 35. § 11. pontja, 36. § 2. pontja szerint módosított szöveg.
 [^107]: A 25. § (2) bekezdés a) pontja a 17/2014. (XII. 19.) IM rendelet 35. § 12. pontja szerint módosított szöveg.
 [^108]: A 25. § (2) bekezdés b) pontja a 17/2014. (XII. 19.) IM rendelet 35. § 12. pontja szerint módosított szöveg.

@@ -10,7 +10,7 @@ a) a Bnytv. 4. § (2) bekezdés d) pontjában, valamint
 
 b) a Bnytv. 11. § (2) bekezdés a)–e) pontjában
 
-## meghatározott adatokat.
+meghatározott adatokat.
 
 (2)[^97] A büntetés-végrehajtási intézet az (1) bekezdésben meghatározott adatokat közli a bűnügyi nyilvántartó szervvel közérdekű munka és pénzbüntetés helyébe lépő szabadságvesztés esetén is.
 
@@ -27,6 +27,8 @@ a) a terhelt halálának napjától,
 b) a terhelt befogadásának napjától,
 
 c) ha az nem azonos a b) pontban meghatározott időponttal, az arcképmás rögzítésének napjától
+
+számított három munkanapon belül kell teljesíteni.
 
 [^96]: A 23. § (1) bekezdés nyitó szövegrésze a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja szerint módosított szöveg.
 [^97]: A 23. § (2) bekezdése a 11/2010. (III. 31.) IRM rendelet 41. §-ával megállapított szöveg.

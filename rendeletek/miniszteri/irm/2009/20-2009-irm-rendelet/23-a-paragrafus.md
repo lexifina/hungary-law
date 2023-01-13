@@ -1,5 +1,3 @@
-## számított három munkanapon belül kell teljesíteni.
-
 23/A. §[^100] (1)[^101] Az első fokon eljárt közlekedési igazgatási hatóság a bűntettesek nyilvántartása részére a 8. adatlapon közli a Bnytv. 11. § (2) bekezdés e) pontja szerinti járművezetéstől eltiltás leteltének napját, az alapügyben eljárt bíróság megnevezését, határozatának számát és jogerőre emelkedésének napját.
 
 (2) Az adatközlést a járművezetéstől eltiltás hatálya megszűnésétől számított tíz munkanapon belül kell teljesíteni.

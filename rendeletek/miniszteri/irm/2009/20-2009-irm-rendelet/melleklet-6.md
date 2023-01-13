@@ -1,4 +1,4 @@
-6. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^118]
+6. melléklet a 20/2009. (VI. 19.) IRM rendelethez[^121]
 
 6. adatlap
 
@@ -172,4 +172,4 @@ ADATKÖZLÉS KÜLFÖLDI ÍTÉLET ELISMERÉSÉRŐL, TAGÁLLAMI ÍTÉLET MEGFELELT
 
 |  | Intézkedés nyilvántartási ideje: |  |  |
 
-[^118]: A 6. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 12/2022. (IV. 26.) IM rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^121]: A 6. mellékletet a 9/2013. (VI. 29.) KIM rendelet 75. § (5) bekezdése iktatta be, szövege a 12/2022. (IV. 26.) IM rendelet 4. § (6) bekezdésével megállapított szöveg.

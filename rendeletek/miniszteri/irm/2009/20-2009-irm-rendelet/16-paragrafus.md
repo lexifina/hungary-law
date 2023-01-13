@@ -24,7 +24,7 @@ j)[^68] a 7. adatlapon az alapeljárás során eljárt bíróság megnevezését
 
 k)[^69]
 
-l)[^70] a 8. adatlapon az eljárt bíróság megnevezését, határozatának számát, a pénzbüntetés megfizetésének napját, ha a terhelt a pénzbüntetést – tekintet nélkül a pénzbüntetés szabadságvesztésre történő átváltoztatására – megfizette,
+l)[^70] a 8. adatlapon az eljárt bíróság megnevezését, határozatának számát és jogerőre emelkedésének a napját, a közérdekű munka vagy a pénzbüntetés végrehajthatósága megszűnésének tényét, a pénzbüntetés megfizetésének napját, ha a terhelt a pénzbüntetést – tekintet nélkül a pénzbüntetés szabadságvesztésre történő átváltoztatására – megfizette,
 
 m)[^71] az erről szóló külön értesítés megküldésével az alapeljárás során eljárt bíróság megnevezését, határozatának számát, a határozat jogerőre emelkedésének napját, valamint a Bnytv. 16. § (1) bekezdés c) és l) pontjában meghatározott adatokat arról, aki az ügydöntő határozat jogerőre emelkedését követően kegyelemben részesült,
 
@@ -45,7 +45,7 @@ n)[^72] a 8. adatlapon az eljárt bíróság megnevezését, a Bnytv. 16. § (2)
 [^67]: A 16. § (1) bekezdés i) pontja a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja, a 16/2018. (VI. 22.) IM rendelet 13. § 11. pontja szerint módosított szöveg.
 [^68]: A 16. § (1) bekezdés j) pontja a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja szerint módosított szöveg.
 [^69]: A 16. § (1) bekezdés k) pontját a 60/2012. (XII. 28.) KIM rendelet 11. §-a hatályon kívül helyezte.
-[^70]: A 16. § (1) bekezdés l) pontja a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja szerint módosított szöveg.
+[^70]: A 16. § (1) bekezdés l) pontja az 1/2023. (I. 12.) IM rendelet 2. §-ával megállapított szöveg.
 [^71]: A 16. § (1) bekezdés m) pontja a 17/2014. (XII. 19.) IM rendelet 36. § 3. pontja, a 16/2018. (VI. 22.) IM rendelet 13. § 10. pontja szerint módosított szöveg.
 [^72]: A 16. § (1) bekezdés n) pontját a 35/2013. (XII. 23.) KIM rendelet 13. § (7) bekezdése iktatta be, szövege a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja szerint módosított szöveg.
 [^73]: A 16. § (2) bekezdése a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja, a 16/2018. (VI. 22.) IM rendelet 13. § 12. pontja szerint módosított szöveg.

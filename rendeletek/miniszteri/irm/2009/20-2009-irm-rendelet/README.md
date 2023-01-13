@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-20-20-1
 | 2019-10-31 | 2009-20-20-1U.15 | 25/2019. (X. 30.) IM rendelet |
 | 2021-01-01 | 2009-20-20-1U.16 | 25/2019. (X. 30.) IM rendelet |
 | 2022-06-28 | 2009-20-20-1U.17 | 12/2022. (IV. 26.) IM rendelet |
+| 2023-01-13 | 2009-20-20-1U.18 | 1/2023. (I. 12.) IM rendelet |

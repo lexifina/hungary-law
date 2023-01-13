@@ -26,6 +26,8 @@ c)[^15] a felfüggesztett eljárás folytatásának elrendelése esetén a hatá
 
 d) ha az nem esik egybe az a) pontban meghatározott időponttal, az arcképmás rögzítésének
 
+napjától számított három munkanapon belül kell teljesíteni.
+
 [^9]: A 3. § (1) bekezdés nyitó szövegrésze a 17/2014. (XII. 19.) IM rendelet 36. § 2. pontja szerint módosított szöveg.
 [^10]: A 3. § (1) bekezdés a) pontja a 17/2014. (XII. 19.) IM rendelet 35. § 1. pontja szerint módosított szöveg.
 [^11]: A 3. § (1) bekezdés b) pontja a 60/2012. (XII. 28.) KIM rendelet 9. § c) pontja, a 17/2014. (XII. 19.) IM rendelet 35. § 1. pontja, a 16/2018. (VI. 22.) IM rendelet 13. § 2. és 3. pontja szerint módosított szöveg.
