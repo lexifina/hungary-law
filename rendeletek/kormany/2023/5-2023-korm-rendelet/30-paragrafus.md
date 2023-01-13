@@ -1,1 +1,3 @@
-30. § Hatályát veszti az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet.
+30. §[^1]
+
+[^1]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
