@@ -1,0 +1,1 @@
+7. § A mezőgazdasági és vidékfejlesztési támogatási szerv által a Kamara részére a kamarai meghatalmazásra tekintettel küldött, a meghatalmazót érintő iratokat a Kamara az iratok kézhezvételét követően haladéktalanul továbbítja a meghatalmazó – ha rendelkezik vele – ügyfélkapujára, valamint a kamarai meghatalmazásban megadott e-mail-címére.

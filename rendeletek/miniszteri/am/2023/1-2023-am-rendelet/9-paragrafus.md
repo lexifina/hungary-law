@@ -1,0 +1,1 @@
+9. § A kamarai meghatalmazáshoz kapcsolódó elektronikus adatszolgáltatás lebonyolításának technikai részleteit a Kamara és a mezőgazdasági és vidékfejlesztési támogatási szerv megállapodásban rögzíti.

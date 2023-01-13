@@ -1,0 +1,3 @@
+3. § (1) A Kamara a meghatalmazónak küldött írásbeli nyilatkozatával jogosult a kamarai meghatalmazást megszüntetni, ha a meghatalmazó nem az adott helyzetben általában elvárható magatartást tanúsítja, így különösen együttműködési és tájékoztatási kötelezettségének nem tesz eleget, illetve nem a jóhiszeműség és tisztesség követelményének megfelelően jár el.
+
+(2) A Kamara a kamarai meghatalmazás megszüntetésének szándékáról a meghatalmazó részére történő kézbesítését követően haladéktalanul köteles értesíteni a mezőgazdasági és vidékfejlesztési támogatási szervet. A megszüntetés hatályosulásáról a meghatalmazót a Kamara haladéktalanul értesíti a kamarai meghatalmazásban megadott valamely elérhetőségén.

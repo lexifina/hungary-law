@@ -1,0 +1,1 @@
+8. § A mezőgazdasági és vidékfejlesztési támogatási szerv haladéktalanul, elektronikus úton tájékoztatja a Kamarát a kamarai meghatalmazás mezőgazdasági és vidékfejlesztési támogatási szervvel szembeni hatályának megszűnéséről.
