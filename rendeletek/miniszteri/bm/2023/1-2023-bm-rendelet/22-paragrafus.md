@@ -1,1 +1,3 @@
-22. § Hatályát veszti az ivóvízkivételre használt vagy ivóvízbázisnak kijelölt felszíni víz, valamint a halak életfeltételeinek biztosítására kijelölt felszíni vizek szennyezettségi határértékeiről és azok ellenőrzéséről szóló 6/2002. (XI. 5.) KvVM rendelet.
+22. §[^21]
+
+[^21]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

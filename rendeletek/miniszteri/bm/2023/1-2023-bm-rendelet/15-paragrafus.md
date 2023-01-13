@@ -1,3 +1,3 @@
-15. § Az R3. 17. § (2) bekezdése a következő e) ponttal egészül ki:
+15. §[^16]
 
-(Felszín alatti vízkivételi művel rendelkező vízbázis esetén:)
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-2. § Az R1. 11. § (3) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(3) Ez a rendelet a 2013/39/EU európai parlamenti és tanácsi irányelvvel módosított, a vízpolitika területén a környezetminőségi előírásokról, a 82/176/EGK, a 83/513/EGK, a 84/156/EGK, a 84/491/EGK és a 86/280/EGK tanácsi irányelv módosításáról és azt követő hatályon kívül helyezéséről, valamint a 2000/60/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2008. december 16-i 2008/105/EK európai parlamenti és tanácsi irányelv 8b. cikke szerinti bizottsági végrehajtási határozat végrehajtásához szükséges rendelkezéseket állapít meg.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

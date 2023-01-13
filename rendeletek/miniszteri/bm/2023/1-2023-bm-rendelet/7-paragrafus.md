@@ -1,3 +1,3 @@
-7. § Az R2. 9. § (3) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(3) Az NNK a honlapján minden év február 15-ig közzéteszi a frissített módszertani útmutatót.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

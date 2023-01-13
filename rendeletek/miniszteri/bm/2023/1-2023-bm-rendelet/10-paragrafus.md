@@ -1,7 +1,3 @@
-10. § Az R2.
+10. §[^11]
 
-a) 7. § (2) és (3) bekezdésében a „2. mellékletben” szövegrész helyébe a „2. melléklet 2. táblázatában” szöveg,
-
-b) 9. § (2) bekezdésében a „levél” szövegrész helyébe az „útmutató” szöveg
-
-lép.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

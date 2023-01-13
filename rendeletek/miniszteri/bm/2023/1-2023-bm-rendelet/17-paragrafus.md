@@ -1,11 +1,3 @@
-17. § Az R3.
+17. §[^18]
 
-a) 5. § (1) bekezdésében az „ellátásért felelős” szövegrész helyébe az „ellátásért felelős, a közösségi ivóvízellátást biztosító saját célú ivóvízmű esetén a tulajdonos” szöveg,
-
-b) 9. § (2) bekezdésében a „közüzemi” szövegrész helyébe a „közcélú” szöveg,
-
-c) 18. § (2) bekezdésében a „víziközmű” szövegrész helyébe a „víziközmű és közösségi ivóvízellátást biztosító saját célú ivóvízmű” szöveg,
-
-d) 19. § c) pontjában az „1998. november 3-i 98/83/EK tanácsi” szövegrész helyébe az „(EU) 2020/2184 (2020. december 16.) parlamenti és tanácsi” szöveg
-
-lép.
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
