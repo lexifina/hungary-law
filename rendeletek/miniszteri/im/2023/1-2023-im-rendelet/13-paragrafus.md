@@ -1,3 +1,3 @@
-13. § A 16/2014. (XII. 19.) IM rendelet 143. § (1) bekezdése a következő j) ponttal egészül ki:
+13. §[^14]
 
-(A szabaduló elítéltet a bv. intézet igazolással látja el. Az igazolás tartalmazza)
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## „f) telekommunikációs eszköz útján történő kapcsolattartása havonta két alkalommal, hatvan perc időtartamban engedhető, amely kérelemre harminc perccel meghosszabbítható.”
+17. §[^18]
 
-17. § A 16/2014. (XII. 19.) IM rendelet 189. § (1) bekezdése a következő f) ponttal egészül ki:
-
-(A szigorúbb rezsimbe sorolt letartóztatott)
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

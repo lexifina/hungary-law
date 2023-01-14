@@ -1,3 +1,3 @@
-## „f) telekommunikációs eszköz útján történő kapcsolattartása havonta egy alkalommal, hatvan perc időtartamban engedhető.”
+18. §[^19]
 
-18. § A 16/2014. (XII. 19.) IM rendelet a 2. melléklet szerinti 9. melléklettel egészül ki.
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
