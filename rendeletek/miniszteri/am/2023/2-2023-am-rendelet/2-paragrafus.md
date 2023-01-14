@@ -1,7 +1,3 @@
-2. § Az R1.
+2. §[^3]
 
-a) 1. §-ában a „2022. évi központi költségvetésről szóló 2021. évi XC. törvény” szövegrész helyébe a „2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény” szöveg,
-
-b) 1. mellékletében foglalt táblázat címében a „2022. évi” szövegrész helyébe a „2023. évi” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
