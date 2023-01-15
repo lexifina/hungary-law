@@ -1,0 +1,1 @@
+13. § Hatályát veszti a Magyar Nemzeti Bank egyes hatósági döntéseivel kapcsolatos hatáskörgyakorlás, valamint a hatáskör gyakorlója helyettesítésének részletes szabályairól szóló 45/2019. (XII. 18.) MNB rendelet.
