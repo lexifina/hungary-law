@@ -44,6 +44,6 @@
 
 | Fekál streptococcus |  | 500/g |
 
-6. számú melléklet az 50/2001. (IV. 3.) Korm. rendelethez[^65]
+6. számú melléklet az 50/2001. (IV. 3.) Korm. rendelethez[^69]
 
-[^65]: A 6. számú melléklet a 40/2008. (II. 26.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^69]: A 6. számú melléklet a 40/2008. (II. 26.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
