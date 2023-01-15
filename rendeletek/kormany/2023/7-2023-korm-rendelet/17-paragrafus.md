@@ -1,0 +1,1 @@
+17. § E rendelet 1–14. §-a a víz újrafelhasználására vonatkozó minimumkövetelményekről szóló, 2020. május 25-i (EU) 2020/741 európai parlamenti és tanácsi rendelet 2., 3., 5., 6., 8., 11. cikkének és 1. mellékletének végrehajtásához szükséges rendelkezéseket állapít meg.
