@@ -1,1 +1,3 @@
-13. § Az R1. az 1. melléklet szerinti 9. melléklettel egészül ki.
+13. §[^13]
+
+[^13]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-9. §[^8]
+9. §[^9]
 
-[^8]: A 9. § a 16. § (2) bekezdés alapján 2023. június 26-án lép hatályba.
+[^9]: A 9. § a 16. § (2) bekezdés alapján 2023. június 26-án lép hatályba.

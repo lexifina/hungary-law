@@ -1,3 +1,3 @@
-11. §[^10]
+11. §[^11]
 
-[^10]: A 11. § a 16. § (2) bekezdés alapján 2023. június 26-án lép hatályba.
+[^11]: A 11. § a 16. § (2) bekezdés alapján 2023. június 26-án lép hatályba.
