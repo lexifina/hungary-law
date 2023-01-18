@@ -1,0 +1,1 @@
+9. § Felhatalmazást kap a miniszter, hogy rendeletben szabályozza a honvédelmi szolgálati juttatásra vonatkozó részletes eljárási szabályokat, így különösen annak megállapításának, folyósításának és megszüntetésének részletes szabályait.

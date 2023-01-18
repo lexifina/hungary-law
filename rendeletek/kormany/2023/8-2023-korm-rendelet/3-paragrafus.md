@@ -1,0 +1,1 @@
+3. § A 2. § szerinti honvédelmi szolgálati juttatásban részesülő személlyel a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény szerinti honvédelmi alkalmazotti, valamint a Hjt. szerinti szolgálati viszony – az önkéntes tartalékos szolgálati viszony kivételével – nem létesíthető.

@@ -1,0 +1,1 @@
+10. § A honvédelmi szolgálati juttatás fedezeteként szolgáló költségvetési forrást a XIII. Honvédelmi Minisztérium fejezet részére a központi költségvetés terhére – a 2024. évtől beépülő jelleggel – kell biztosítani.
