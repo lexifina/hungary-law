@@ -1,8 +1,8 @@
-## 1. egyetért a kiemelt nemzetközi sport- és sportdiplomáciai események (a továbbiakban: Kiemelt Sportesemények), valamint a jogszabály vagy a Kormány egyedi döntése alapján, költségvetési forrásból megrendezendő nem sport jellegű egyéb kiemelt jelentőségű állami rendezvények (a továbbiakban: Kiemelt Állami Rendezvények) előkészítési és lebonyolítási feladatainak folyamat szintű átfogó megújításával;
+## 1.[^1] egyetért a kiemelt nemzetközi sport- és sportdiplomáciai események (a továbbiakban: Kiemelt Sportesemények), valamint a jogszabály vagy a Kormány egyedi döntése alapján, költségvetési forrásból megrendezendő a Kormány normatív határozatában meghatározott nemzeti rendezvények (a továbbiakban: nemzeti rendezvények) előkészítési és lebonyolítási feladatainak folyamat szintű átfogó megújításával;
 
-## 2. egyetért azzal, hogy a Kiemelt Sportesemények, valamint a Kiemelt Állami Rendezvények előkészítését és lebonyolítását a Miniszterelnöki Kabinetiroda a Nemzeti Kommunikációs Hivatal (a továbbiakban: NKOH) útján, az NKOH tulajdonosi joggyakorlása alá tartozó, újonnan létrehozandó gazdasági társaság bevonásával lássa el;
+## 2.[^2] egyetért azzal, hogy a Kiemelt Sportesemények, valamint a nemzeti rendezvények előkészítését és lebonyolítását a Miniszterelnöki Kabinetiroda a Nemzeti Kommunikációs Hivatal (a továbbiakban: NKOH) útján, az NKOH tulajdonosi joggyakorlása alá tartozó, újonnan létrehozandó gazdasági társaság bevonásával lássa el;
 
-## 3.[^1] felhívja a gazdaságfejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gondoskodjon a 2. pont szerinti, az állam 100%-os tulajdonában álló nonprofit gazdasági társaság – 5 000 000 forint jegyzett tőkével és 191 000 000 forint tőketartalékkal történő – megalapításáról Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: NRÜ Zrt.) elnevezéssel;
+## 3.[^3] felhívja a gazdaságfejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gondoskodjon a 2. pont szerinti, az állam 100%-os tulajdonában álló nonprofit gazdasági társaság – 5 000 000 forint jegyzett tőkével és 191 000 000 forint tőketartalékkal történő – megalapításáról Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: NRÜ Zrt.) elnevezéssel;
 
 | Felelős: | gazdaságfejlesztési miniszter |
 
@@ -36,4 +36,6 @@
 
 2X07920.pdf
 
-[^1]: A 3. pont az 1608/2022. (XII. 8.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1007/2023. (I. 20.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: A 2. pont az 1007/2023. (I. 20.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^3]: A 3. pont az 1608/2022. (XII. 8.) Korm. határozat 11. pontja szerint módosított szöveg.

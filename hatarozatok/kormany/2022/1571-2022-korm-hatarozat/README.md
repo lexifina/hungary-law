@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1571-30
 | --- | --- | --- |
 | 2022-11-28 | 2022-1571-30-22.1 | 1571/2022. (XI. 28.) Korm. határozat |
 | 2022-12-08 | 2022-1571-30-22.3 | 1608/2022. (XII. 8.) Korm. határozat |
+| 2023-01-20 | 2022-1571-30-22.4 | 1007/2023. (I. 20.) Korm. határozat |
