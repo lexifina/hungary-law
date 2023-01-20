@@ -28,9 +28,9 @@ c) a Komárom Ipari Park ivóvízvezetéke áthelyezésének
 
 a) az 1. pont a) alpontjában szereplő fejlesztés előkészítésére a Kvtv. 1. melléklet XVI. Építési és Beruházási Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 1. Közúti infrastruktúra-fejlesztések jogcímcsoport javára 35 017 500 forint,
 
-b) az 1. pont b) alpontjában szereplő fejlesztés előkészítésére a Kvtv. 1. melléklet XVI. Építési és Beruházási Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 4. Ipari-innovációs fejlesztési területekhez kapcsolódó beruházások előkészítése jogcímcsoport javára 9 004 500 forint,
+b)[^1] az 1. pont b) alpontjában szereplő fejlesztés előkészítésére a Kvtv. 1. melléklet XVI. Építési és Beruházási Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 4. Ipari-innovációs fejlesztési területekhez kapcsolódó beruházások előkészítése jogcímcsoport javára 32 016 000 forint,
 
-c) az 1. pont c) alpontjában szereplő fejlesztés előkészítésére a Kvtv. 1. melléklet XVI. Építési és Beruházási Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 3. Víziközmű fejlesztések jogcímcsoport javára 32 016 000 forint;
+c)[^2] az 1. pont c) alpontjában szereplő fejlesztés előkészítésére a Kvtv. 1. melléklet XVI. Építési és Beruházási Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 3. Víziközmű fejlesztések jogcímcsoport javára 9 004 500 forint;
 
 | Felelős: | külgazdasági és külügyminiszter építési és közlekedési miniszter |
 
@@ -41,3 +41,6 @@ c) az 1. pont c) alpontjában szereplő fejlesztés előkészítésére a Kvtv. 
 | Felelős: | külgazdasági és külügyminiszter építési és közlekedési miniszter |
 
 | Határidő: | az előkészítés lezárását követően, a felmerülés ütemében |
+
+[^1]: Az 5. pont b) alpontja az 1007/2023. (I. 20.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 5. pont c) alpontja az 1007/2023. (I. 20.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
