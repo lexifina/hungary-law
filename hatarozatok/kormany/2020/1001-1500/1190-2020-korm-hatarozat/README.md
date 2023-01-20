@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1190-30
 | 2020-08-31 | 2020-1190-30-22.3 | 1565/2020. (VIII. 31.) Korm. határozat |
 | 2020-10-23 | 2020-1190-30-22.4 | 1686/2020. (X. 22.) Korm. határozat |
 | 2020-12-31 | 2020-1190-30-22.5 | 2057/2020. (XII. 30.) Korm. határozat |
+| 2023-01-20 | 2020-1190-30-22.6 | 2057/2020. (XII. 30.) Korm. határozat |

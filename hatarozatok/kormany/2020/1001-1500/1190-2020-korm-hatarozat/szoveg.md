@@ -86,13 +86,13 @@ e) az agrárminiszter felel az Országos Meteorológiai Szolgálat közreműköd
 
 10. A miniszterelnök kabinetfőnöke a Kormány által jóváhagyott éves koncepció alapján a nemzeti rendezvény lebonyolításáról, a soron következő nemzeti rendezvény megrendezésének részletes programjáról, a feladatok és a tervezett költségek megosztásáról jelentés formájában tájékoztatja a Kormányt.
 
-11.[^2] A 2. pont szerinti nemzeti rendezvényeket a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság (a továbbiakban: MTÜ Zrt.) vagy a Turisztikai Marketingkommunikációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság szervezi meg, és ellátja a nemzeti rendezvény műszaki, művészeti, produkciós, logisztikai feladatainak előkészítését és lebonyolítását, illetve a nemzeti rendezvény biztosításának koordinációját, továbbá a 4. pont c) alpontjában meghatározott feladatok lebonyolítását.
+11.[^2] A 2. pont szerinti nemzeti rendezvényeket a Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: NRÜ Zrt.) szervezi meg, és ellátja a nemzeti rendezvény műszaki, művészeti, produkciós, logisztikai feladatainak előkészítését és lebonyolítását, illetve a nemzeti rendezvény biztosításának koordinációját, továbbá a 4. pont c) alpontjában meghatározott feladatok lebonyolítását.
 
 4. A nemzeti rendezvény lebonyolítása
 
 12. A miniszterelnök kabinetfőnöke – a TKM munkacsoportjaként – a nemzeti rendezvény lebonyolításához kapcsolódóan működteti az Operatív Törzset (a továbbiakban: OT), amely ellátja a nemzeti rendezvény szervezett és biztonságos lebonyolításával kapcsolatos feladatokat.
 
-13. Az OT-ben a nemzeti rendezvény lebonyolításával kapcsolatos feladatok szakszerű ellátását biztosító szervezetek képviselői – a miniszterelnök kabinetfőnökének felkérése alapján – vesznek részt. Az OT-t a miniszterelnök kabinetfőnöke által – az MTÜ Zrt. véleményének kikérésével – kijelölt személy vezeti. Az OT működésének rendjét az OT első ülésén határozza meg.
+13.[^3] Az OT-ben a nemzeti rendezvény lebonyolításával kapcsolatos feladatok szakszerű ellátását biztosító szervezetek képviselői – a miniszterelnök kabinetfőnökének felkérése alapján – vesznek részt. Az OT-t a miniszterelnök kabinetfőnöke által – az NRÜ Zrt. véleményének kikérésével – kijelölt személy vezeti. Az OT működésének rendjét az OT első ülésén határozza meg.
 
 14. Az OT feladata a nemzeti rendezvény előkészítése során a biztonsági szempontok figyelemmel kísérése, a nemzeti rendezvénnyel kapcsolatban elkészített biztonsági terv, közlekedési terv és egészségügyi terv szakmai véleményezése, legkésőbb a nemzeti rendezvényt megelőző 15. napig, és azoknak az OT vezetője által történő jóváhagyása.
 
@@ -104,14 +104,15 @@ e) az agrárminiszter felel az Országos Meteorológiai Szolgálat közreműköd
 
 17. Ez a határozat – a 18. pontban meghatározott kivétellel – a közzétételét követő napon lép hatályba.
 
-18.[^3]
+18.[^4]
 
-19.[^4]
+19.[^5]
 
-20.[^5]
+20.[^6]
 
 [^1]: A 3. pont az 1686/2020. (X. 22.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 11 .pont a 2057/2020. (XII. 30.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: A 18. pontot az 1565/2020. (VIII. 31.) Korm. határozat 4. pontja hatályon kívül helyezte.
-[^4]: A 19. pont az 1565/2020. (VIII. 31.) Korm. határozat 5. pontja alapján nem lép hatályba.
-[^5]: A 20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 11. pont a 2057/2020. (XII. 30.) Korm. határozat 1. pontjával megállapított, az 1007/2023. (I. 20.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^3]: A 13. pont az 1007/2023. (I. 20.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
+[^4]: A 18. pontot az 1565/2020. (VIII. 31.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^5]: A 19. pont az 1565/2020. (VIII. 31.) Korm. határozat 5. pontja alapján nem lép hatályba.
+[^6]: A 20. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
