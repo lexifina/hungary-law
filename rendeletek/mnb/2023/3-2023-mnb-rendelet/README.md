@@ -1,0 +1,9 @@
+# 3/2023. (I. 19.) MNB rendelet
+
+a felügyeleti díj megfizetésének, kiszámításának módjáról és feltételeiről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-3-20-2C
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-01-20 | 2023-3-20-2C.1 | 3/2023. (I. 19.) MNB rendelet |
