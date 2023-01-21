@@ -16,7 +16,7 @@ Papp Gergelyt, a Nemzeti Agrárgazdasági Kamara jelöltjét,
 
 Sándorné dr. Kriszt Évát, a Magyar Tudományos Akadémia jelöltjét,
 
-dr. Solymár Károly Balázst, az Technológiai és Ipari Minisztérium jelöltjét,[^1]
+dr. Solymár Károly Balázst, az Energiaügyi Minisztérium jelöltjét,[^1]
 
 dr. Sölch Gellért Boldizsárt, az Emberi Erőforrások Minisztériuma jelöltjét és
 
@@ -26,4 +26,4 @@ dr. Szabó Tamás Attilát, az Országos Bírósági Hivatal jelöltjét
 
 az Országos Statisztikai Tanács tagsági teendőinek ellátásával megbízom.
 
-[^1]: A 79/2022. (IX. 22.) ME határozat szerint módosított szöveg.
+[^1]: A 79/2022. (IX. 22.) ME határozat, a 38/2023. (IV. 24.) ME határozat szerint módosított szöveg.
