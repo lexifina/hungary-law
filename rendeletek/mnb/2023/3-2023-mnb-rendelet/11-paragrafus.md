@@ -1,1 +1,3 @@
-11. § Hatályát veszti a felügyeleti díj megfizetésének, kiszámításának módjáról és feltételeiről szóló 17/2018. (V. 29.) MNB rendelet.
+11. §[^1]
+
+[^1]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
