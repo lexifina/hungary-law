@@ -1,0 +1,1 @@
+3. § Az intézmény az e rendelet alapján a földgáz-kereskedelmi szerződés részévé váló árképzésre tekintettel a Ptk. 6:60. § (2) bekezdésétől eltérően a bíróságtól a szerződés módosítását nem kérheti, valamint a szerződéstől nem állhat el.
