@@ -1,1 +1,3 @@
-1. § Hatályát veszti a takarmány- és élelmiszer ellátásbiztonság szempontjából stratégiai jelentőségű mezőgazdasági termékek kivitelével kapcsolatos bejelentési eljárásról és kapcsolódó intézkedésekről szóló 83/2022. (III. 5.) Korm. rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
