@@ -14,7 +14,7 @@ c) a forgalmi engedély időbeli hatályaként a következő időszakos vizsgál
 
 a)[^126] az autóbusznál, a trolibusznál a b) pont alá be nem sorolt 3500 kg megengedett legnagyobb össztömeget meghaladó gépkocsinál és pótkocsinál, valamint a személytaxinál és a személymentő gépkocsinál egy évben,
 
-b)[^127] a motorkerékpárnál, a T1b, T2b, T3b, T4b és T5 járműkategóriába tartozó mezőgazdasági vontatónál, a 3500 kg megengedett legnagyobb össztömeget meg nem haladó gépkocsinál, a „méhesházas” különleges felépítményű gépkocsinál és ilyen felépítményű pótkocsinál, továbbá a motorkerékpár, a személygépkocsi és a T5 járműkategóriába tartozó mezőgazdasági vontató pótkocsijánál
+b)[^127] a motorkerékpárnál, a T1b, T2b, T3b, T4.1b, T4.2b, T4.3b és T5 járműkategóriába tartozó mezőgazdasági vontatónál, a 3500 kg megengedett legnagyobb össztömeget meg nem haladó gépkocsinál, a „méhesházas” különleges felépítményű gépkocsinál és ilyen felépítményű pótkocsinál, továbbá a motorkerékpár, a személygépkocsi, a T1b, T2b, T3b, T4.1b, T4.2b, T4.3b és T5 járműkategóriába tartozó mezőgazdasági vontató pótkocsijánál
 
 ba) új jármű esetében négy évben,
 
@@ -28,7 +28,7 @@ da) 4 naptári éven belül két évben,
 
 db) 4 naptári éven túl egy évben,
 
-e)[^128] „OT” betűjelű különleges rendszámmal üzemeltetett muzeális jellegű jármű, valamint a T1, T1a, T2, T2a, T3, T3a, T4 és T4a járműkategóriába tartozó mezőgazdasági vontató és a kizárólag e járműkategóriákba tartozó mezőgazdasági vontatóval vagy lassú járművel vontatható pótkocsi esetében öt évben,
+e)[^128] OT betűjelű különleges rendszámmal üzemeltetett muzeális jellegű jármű, valamint a T1, T1a, T2, T2a, T3, T3a, T4, T4.1a, T4.2a, T4.3a járműkategóriába tartozó mezőgazdasági vontató és a kizárólag e járműkategóriákba tartozó mezőgazdasági vontatóval vagy lassú járművel vontatható pótkocsi esetében öt évben,
 
 f)[^129] versenyjármű esetében 1 évben
 
@@ -64,8 +64,8 @@ cc)[^135] a versenyjárművek használatára.
 [^124]: A 11. § (2) bekezdését a 12/1998. (V. 22.) KHVM rendelet 20. §-ának (5) bekezdése hatályon kívül helyezte, újonnan a 83/2005. (X. 11.) GKM rendelet 5. § (1) bekezdése iktatta be, szövege a 27/2010. (III. 31.) KHEM rendelet 4. §-ával megállapított szöveg.
 [^125]: A 11. § új (3) bekezdését a 12/1998. (V. 22.) KHVM rendelet 8. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva. A (3) bekezdés a 66/2009. (XI. 27.) KHEM rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^126]: A 11. § (3) bekezdés a) pontja a 62/2011. (XI. 29.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^127]: A 11. § (3) bekezdés b) pontja a 26/2016. (VII. 22.) NFM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^128]: A 11. § (3) bekezdés e) pontja a 26/2016. (VII. 22.) NFM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^127]: A 11. § (3) bekezdés b) pontja az 1/2023. (I. 19.) ÉKM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^128]: A 11. § (3) bekezdés e) pontja az 1/2023. (I. 19.) ÉKM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^129]: A 11. § (3) bekezdés f) pontját a 22/2012. (V. 8.) NFM rendelet 4. § (1) bekezdése iktatta be.
 [^130]: A 11. § (3a) bekezdését a 22/2012. (V. 8.) NFM rendelet 4. § (2) bekezdése iktatta be.
 [^131]: A 11. § új (4) bekezdését a 43/2001. (XII. 18.) KöViM rendelet 4. §-a iktatta a szövegbe, egyidejűleg az eredeti (4) bekezdés számozását (5) bekezdésre változtatva.

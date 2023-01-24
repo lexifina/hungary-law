@@ -2,7 +2,7 @@
 
 ## A minősítő jel négyzetbe írt, nyomtatott, álló nagy H betű. A négyzet és a betű mérete arányos a jelzéssel ellátott pótalkatrész, illetőleg tartozék méretével, de a négyzet oldalhosszúsága 6 mm-nél kevesebb nem lehet. A minősítő jel mellett feltüntetendő a minősítő vizsgálatot végző intézmény megfelelőséget tanúsító vizsgálati jelentésének száma.
 
-5. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^415]
+5. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^419]
 
 A forgalomba helyezés előtti és az időszakos vizsgálat tárgyi feltételei, technológiája és ügyrendje
 
@@ -352,15 +352,15 @@ Az 1.18. pontban meghatározott mérőeszközök esetében – amennyiben a gép
 
 |  | 25. |  | > 3 500 kg | N2, N3 | D | x | x | x |  | x | x | x | x | x |  | x | x | x | x | x |  | x | x |
 
-|  | 26. | 4. Az N kategóriából származtatott különleges gépjárművek, T5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 26. | 4. Az N kategóriából származtatott különleges gépjárművek, valamint a T1b, T2b, T3b, T4.1b, T4.2b, T4.3b és T5 járműkategória |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 |  | 27. |  | 3 500 kg-ig | N1 | P | x | x |  | x |  |  |  |  | x | x |  | x | x | x | x | x | x | x |
 
 |  | 28. |  | 3 500 kg-ig | N1 | D | x | x |  | x |  |  |  |  | x |  | x | x | x | x | x | x | x | x |
 
-|  | 29. |  | > 3 500 kg | N2, N3, T5 | P | x | x | x |  | x | x | x | x | x | x |  | x | x | x | x |  | x | x |
+|  | 29. |  | > 3 500 kg | N2, N3, T1b, T2b, T3b, T4.1b, T4.2b, T4.3b, T5 | P | x | x | x |  | x | x | x | x | x | x |  | x | x | x | x |  | x | x |
 
-|  | 30. |  | > 3 500 kg | N2, N3, T5 | D | x | x | x |  | x | x | x | x | x |  | x | x | x | x | x |  | x | x |
+|  | 30. |  | > 3 500 kg | N2, N3, T1b, T2b, T3b, T4.1b, T4.2b, T4.3b, T5 | D | x | x | x |  | x | x | x | x | x |  | x | x | x | x | x |  | x | x |
 
 |  | 31. | 5. Pótkocsik | 750 kg-ig | O1 |  | x |  |  |  |  |  |  |  |  |  |  |  | x |  |  | x |  | x |
 
@@ -442,4 +442,4 @@ c) Veszélyes hiba: a közúti biztonságra közvetlen és azonnali veszélyt je
 
 5.2. A vizsgálatok tartalmára és módszereire, a járművek hiányosságának értékelésére vonatkozó táblázat
 
-[^415]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja, 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) pontja, a 42/2021. (IX. 8.) ITM rendelet 4. § d) pontja szerint módosított szöveg.
+[^419]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja, 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) pontja, a 42/2021. (IX. 8.) ITM rendelet 4. § d) pontja, az 1/2023. (I. 19.) ÉKM rendelet 3. § (1) bekezdése szerint módosított szöveg.
