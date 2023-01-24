@@ -16,7 +16,7 @@ c) 1,30 méternél nem szélesebb motoros tricikli és lassú jármű esetében 
 
 1 db.
 
-(2)[^155] A tompított fényszórónak aszimmetrikus kivitelűnek kell lennie, a motorkerékpár tompított fényszórója azonban szimmetrikus kivitelű is lehet.
+(2)[^157] A tompított fényszórónak aszimmetrikus kivitelűnek kell lennie, a motorkerékpár tompított fényszórója azonban szimmetrikus kivitelű is lehet.
 
 (3) A tompított fényszórónak — anélkül, hogy a szembejövő jármű vezetőjét vakítaná — az út felületét a jármű előtt sötétben, tiszta időben legalább 40 méter — mezőgazdasági vontató és lassú jármű előtt legalább 30 méter távolságon meg kell világítania. A megvilágítás a tompított fényszóró középpontján átmenő vízszintes síkban és e felett a járműtől 25 méter távolságban
 
@@ -30,4 +30,4 @@ b) szimmetrikus tompított fényszóró esetében
 
 több nem lehet. A tompított fényszóró csak színtelen (fehér) vagy kadmiumsárga fényt bocsáthat ki.
 
-[^155]: A 43. § (2) bekezdése a 12/2000. (V. 24.) KHVM rendelet 8.§-ával megállapított szöveg.
+[^157]: A 43. § (2) bekezdése a 12/2000. (V. 24.) KHVM rendelet 8.§-ával megállapított szöveg.

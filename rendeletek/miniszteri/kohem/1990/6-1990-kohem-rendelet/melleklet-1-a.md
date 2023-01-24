@@ -714,6 +714,8 @@
 
 | XXXIV. | Mechanikus kapcsolószerkezetekre vonatkozó követelmények | K |
 
+## 1. Az M, N, O kategóriájú járművekre, valamint az ilyen járművekhez tervezett és gyártott rendszerekre, alkotóelemekre és önálló műszaki egységekre vonatkozó, típusjóváhagyáshoz megkövetelt ENSZ-előírásokat 2022. július 6-át követően – az 1/A. táblázatban foglaltaktól eltérően – a 2019. november 27-i (EU) 2019/2144 európai parlamenti és tanácsi rendelet 1. melléklete határozza meg.
+
 ## 2. számú táblázat
 
 ## További jóváhagyási kötelezettségek ENSZ-EGB előírások alapján
@@ -742,7 +744,7 @@
 
 ## ** A gyermekülésnek/gyermek visszatartó rendszernek a 44. számú, vagy a 129 számú ENSZ-EGB előírás szerint kell jóváhagyottnak lennie.
 
-1/A. számú melléklet a 6/1990. (IV. 12.) KÖHÉM rendelethez[^378]
+1/A. számú melléklet a 6/1990. (IV. 12.) KÖHÉM rendelethez[^381]
 
 A gépjármű és pótkocsija közlekedésbiztonsági és környezetvédelmi szempontból kiemelten fontos pótalkatrészeinek és tartozékainak minősítési követelményei
 
@@ -770,4 +772,4 @@ tekintetében meghatározott minősítési követelményeknek.
 
 7. Az e melléklet szerinti minősítési követelmények vizsgálatát a jogszabályban meghatározott vagy egyéb vonatkozó kötelező előírás – így különösen ENSZ-EGB előírás – szerint kell elvégezni. Kötelező előírás hiányában a vizsgálatot a vonatkozó szabvány betartásával vagy attól részben vagy teljesen eltérő módon kell elvégezni, ha a vizsgálat egyenértékűségét a kérelmező igazolja. Az előzőek hiányában összehasonlító vizsgálatot kell végezni a gépjármű és pótkocsija gyártása (gyári szerelése) során beépített alkatrész és a pótalkatrész között, azzal, hogy a működésmód és paraméterek vizsgálatánál a helyes működést tanúsító jellemző adatokat ilyen esetben műszeres próbapadi vagy üzemi összehasonlító vizsgálattal kell ellenőrizni.
 
-[^378]: Az 1/A. számú mellékletet a 28/2018. (XI. 15.) ITM rendelet 18. § (1) bekezdése iktatta be.
+[^381]: Az 1/A. számú mellékletet a 28/2018. (XI. 15.) ITM rendelet 18. § (1) bekezdése iktatta be.

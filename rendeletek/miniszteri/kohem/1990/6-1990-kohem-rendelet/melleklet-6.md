@@ -36,11 +36,11 @@
 
 ## A táblázathoz tartozó megjegyzések:
 
-## 5 „emelt fordulatszám” az M1 és N1 kategóriába tartozó gépkocsik esetében nmin = 2500 min-1 és nmax = 3000 min-1 értékek közötti, az M2, M3, N2 és N3 kategóriába tartozó gépkocsik esetében nmin = 2000 min-1 és nmax = 2500 min-1 értékek közötti fordulatszámot jelent.
+## 5„emelt fordulatszám” az M1 és N1 kategóriába tartozó gépkocsik esetében nmin = 2500 min-1 és nmax = 3000 min-1 értékek közötti, az M2, M3, N2 és N3 kategóriába tartozó gépkocsik esetében nmin = 2000 min-1 és nmax = 2500 min-1 értékek közötti fordulatszámot jelent.
 
-## 6 A közúti közlekedési szolgáltatáshoz nem használt, kétütemű motorral ellátott gépkocsi esetében a szénhidrogén (CH) kibocsátási határértéket 2020. december 31-éig teljesítettnek kell tekinteni, ha a gépkocsi motorjának beszabályozása – a közúti járművek környezetvédelmi felülvizsgálatának szabályairól szóló együttes miniszteri rendeletben meghatározott jellemzők tekintetében – megfelel a gyári beállítási adatoknak.
+## 6A közúti közlekedési szolgáltatáshoz nem használt, kétütemű motorral ellátott gépkocsi esetében a szénhidrogén (CH) kibocsátási határértéket 2020. december 31-éig teljesítettnek kell tekinteni, ha a gépkocsi motorjának beszabályozása – a közúti járművek környezetvédelmi felülvizsgálatának szabályairól szóló együttes miniszteri rendeletben meghatározott jellemzők tekintetében – megfelel a gyári beállítási adatoknak.
 
-## 7 A szabadgyorsításos füstkibocsátás [K (m-1)] értéke 0,9 s<t90<1,1 s elektromos időállandójú műszerrel (B-módus) mérve.
+## 7A szabadgyorsításos füstkibocsátás [K (m-1)] értéke 0,9 s<t90<1,1 s elektromos időállandójú műszerrel (B-módus) mérve.
 
 ## 2. Motorkerékpár és segédmotoros kerékpár Otto-rendszerű motorral
 
@@ -150,6 +150,6 @@
 
 ## (13) A tisztán elektromos meghajtású motorkerékpárt az ügyfél kérelmére környezetkímélő motorkerékpárnak kell minősíteni, a nem környezetkímélő motorkerékpárok környezetvédelmi osztályba sorolását nem kell megállapítani.
 
-6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^386]
+6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^389]
 
-[^386]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
+[^389]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
