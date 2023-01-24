@@ -1,5 +1,3 @@
-## A „Környezetvédelmi adatlap” tartalma
-
 ## A Környezetvédelmi adatlap az alábbi adatokat tartalmazza:
 
 ## Kiállító hatóság
@@ -126,9 +124,9 @@
 
 ## Aláírás
 
-5. melléklet a 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelethez[^18]
+5. melléklet a 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelethez[^19]
 
-## A környezetvédelmi felülvizsgálat ellenőrzése, nyilvántartások
+A környezetvédelmi felülvizsgálat ellenőrzése, nyilvántartások
 
 1. Általános előírások
 
@@ -186,4 +184,4 @@ f) a felülvizsgáló állomás nem megfelelő munkavégzésének alapos gyanúj
 
 4.1.3. A közlekedési hatóság az éves ellenőrzés eredményéről és javaslatairól összefoglaló értékelést készít a közlekedésért felelős miniszter részére. Az ellenőrzés során megállapított hiányosságok felszámolása, a jelentésben foglalt javaslatok megvalósítása érdekében tett intézkedésekről a felülvizsgáló helynek 30 napon belül tájékoztatni kell az ellenőrzést végző közlekedési hatóságot.
 
-[^18]: Az 5. melléklet a 2/2018. (II. 5.) NFM rendelet 22. § (3) bekezdésével megállapított szöveg.
+[^19]: Az 5. melléklet a 2/2018. (II. 5.) NFM rendelet 22. § (3) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
-1. melléklet a 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelethez[^14]
+1. melléklet a 77/2009. (XII. 15.) KHEM–IRM–KvVM együttes rendelethez[^15]
 
-## A környezetvédelmi felülvizsgálat végzésének személyi és tárgyi feltételei
+A környezetvédelmi felülvizsgálat végzésének személyi és tárgyi feltételei
 
 1. Személyi feltételek
 
@@ -338,7 +338,7 @@ A vizsgáló állomás az e mellékletben meghatározott személyi és tárgyi f
 
 ## – M1 és N1 kategóriájú járművek esetében 0,5 s < tx < 2,0 s; (ajánlott idő 1 s)
 
-## – M2 és M3 valamint N2 és N3 kategóriájú járművek esetében tx ≥ 2,0 s, (ajánlott idő 2 s).
+## – M2 és M3 valamint N2és N3 kategóriájú járművek esetében tx ≥ 2,0 s, (ajánlott idő 2 s).
 
 ## A nagy teljesítményű dízelmotorok esetében a gázpedál kiengedését követően legalább
 
@@ -620,7 +620,7 @@ A Lambda (λ) értéket a Brettschneider összefüggés alapján az alábbiak sz
 
 Az alap összefüggés:
 
-A lehetséges egyszerűsítések, és alkalmazott állandók:
+## A lehetséges egyszerűsítések, és alkalmazott állandók:
 
 |  |  |  | Benzin | PB gáz | CNG | Etanol |
 
@@ -638,33 +638,33 @@ A lehetséges egyszerűsítések, és alkalmazott állandók:
 
 |  | NO/2 | nitrogén-oxid/2 | 0 |
 
-A gyártó által adott érték hiányában K1 = 6 × 10-4 érték alkalmazható.
+## A gyártó által adott érték hiányában K1 = 6 × 10-4 érték alkalmazható.
 
-Az állandókkal kapcsolatban lásd még az 1.10.5.2.9-ban leírtakat.
+## Az állandókkal kapcsolatban lásd még az 1.10.5.2.9-ban leírtakat.
 
-Az egyszerűsítésekkel adódó számítás benzinüzem esetében:
+## Az egyszerűsítésekkel adódó számítás benzinüzem esetében:
 
-ahol a szögletes zárójelben szereplő gázkoncentrációkat térfogatszázalékban (V/V%) kell behelyettesíteni. PB-gáz vagy CNG esetén a képlet értelemszerűen változik.
+## ahol a szögletes zárójelben szereplő gázkoncentrációkat térfogatszázalékban (V/V%) kell behelyettesíteni. PB-gáz vagy CNG esetén a képlet értelemszerűen változik.
 
 2. A szabadgyorsítások ütemezett végrehajtásának jellemzői
 
-nLL - alapjárati fordulatszám
+## nLL - alapjárati fordulatszám
 
-n10 - 1,1 ∙ nLL
+## n10 - 1,1 ∙ nLL
 
-n90 - 0,9 ∙ nAR
+## n90 - 0,9 ∙ nAR
 
-nAR - leszabályozási fordulatszám
+## nAR - leszabályozási fordulatszám
 
-tB - gyorsulási idő, ezen az időn belül egyenletes gyorsulás van
+## tB - gyorsulási idő, ezen az időn belül egyenletes gyorsulás van
 
-tx - a leszabályozási fordulatszám elérést követő mérési idő rész (forgalmazó által adott érték vagy legalább 0,5 s, maximum 2,0 s),
+## tx - a leszabályozási fordulatszám elérést követő mérési idő rész (forgalmazó által adott érték vagy legalább 0,5 s, maximum 2,0 s),
 
-tM - mérési idő = tB + tx
+## tM - mérési idő = tB + tx
 
-tH - gázpedáltartási idő = tM + legalább 1 s
+## tH - gázpedáltartási idő = tM + legalább 1 s
 
-tL - alapjárati fordulatszám beállási idő (legalább 15 s)
+## tL - alapjárati fordulatszám beállási idő (legalább 15 s)
 
 3. Zavarjelző (MIL) lámpa működésének ellenőrzése:
 
@@ -720,7 +720,7 @@ Ha a feltételek nem teljesülnek, a gyorsításokat, környezetvédelmi vizsgab
 
 6. A füstölés (K) a feltételeket kielégítő, utolsó három csúcsérték számtani középértékének meghatározása
 
-ahol n = a végrehajtott gyorsítás sorszáma (n ≥ 3).
+## ahol n = a végrehajtott gyorsítás sorszáma (n ≥ 3).
 
 7. A füstölésmérés, és OBD kiolvasás eredményének értékelése
 
@@ -742,4 +742,4 @@ A jármű környezetvédelmi állapotát az alábbiak szerint kell értékelni.
 
 | * - csak 2006. január 1-je utáni első ízben forgalomba helyezett járműveknél. |
 
-[^14]: Az 1. melléklet a 2/2018. (II. 5.) NFM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^15]: Az 1. melléklet a 2/2018. (II. 5.) NFM rendelet 22. § (1) bekezdésével megállapított szöveg.
