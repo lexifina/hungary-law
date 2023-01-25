@@ -1,3 +1,3 @@
-8. § A KR. 13. § b) pontja helyébe a következő rendelkezés lép:
+8. §[^9]
 
-(Ez a rendelet)
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
