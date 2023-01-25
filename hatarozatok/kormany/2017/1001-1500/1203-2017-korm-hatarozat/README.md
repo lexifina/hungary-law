@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1203-30
 | 2018-07-26 | 2017-1203-30-22.2 | 1352/2018. (VII. 26.) Korm. határozat |
 | 2019-11-08 | 2017-1203-30-22.3 | 1632/2019. (XI. 8.) Korm. határozat |
 | 2021-01-20 | 2017-1203-30-22.4 | 1010/2021. (I. 20.) Korm. határozat |
+| 2023-01-25 | 2017-1203-30-22.5 | 1011/2023. (I. 25.) Korm. határozat |
