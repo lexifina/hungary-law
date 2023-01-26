@@ -4,6 +4,8 @@ a) a TTF árindexált beszerzési módszertan alapján megkötött egyedi földg
 
 b) a VTP árindexált beszerzési módszertan alapján megkötött egyedi földgáz-kereskedelmi szerződésben meghatározott árképzési meghatározás helyett a VTP földgáz adott hónapokra vonatkozó ICE tőzsdei jegyzésár (3) bekezdés szerinti nyilatkozattételi határidőt követő 6. munkanapi publikációja szerinti Settle Price havi árak átlagát
 
+c)[^2] az a) és a b) pontban foglaltaktól eltérő egyéb árindexált beszerzési módszertan alapján megkötött egyedi földgáz-kereskedelmi szerződésben meghatározott árképzési meghatározás helyett az egyedi földgáz-kereskedelmi szerződésben megjelölt tőzsde szerinti földgáz adott hónapokra vonatkozó, az egyedi földgáz-kereskedelmi szerződésben megjelölt tőzsdére vonatkozó tőzsdei jegyzésár (3) bekezdés szerinti nyilatkozattételi határidőt követő 6. munkanapi publikációja szerinti Settle Price havi árak átlagát
+
 kell alkalmazni.
 
 (2) A (3) bekezdésben foglaltak teljesülése esetén, e rendelet erejénél fogva a földgáz-kereskedelmi szerződéseket az (1) bekezdésben foglalt árképzéssel kell teljesíteni.
@@ -13,3 +15,5 @@ kell alkalmazni.
 (4) A (3) bekezdés szerinti nyilatkozat a földgázkereskedő által e célra biztosított elektronikus felületen keresztül, a felhasználó e-mail-címének megjelölésével és a földgázkereskedő által megadott, jogosultság fennállását igazoló, kitöltött űrlap csatolásával tehető meg, a más módon megtett nyilatkozat, igazolás érvénytelen. A nyilatkozattétel fogadását a földgázkereskedő elektronikus levélben igazolja vissza a nyilatkozatban megadott e-mail-címre.
 
 (5) A földgázkereskedő az intézményt a nyilatkozatban megadott e-mail-címen az e rendelet hatálybalépését követő 14. munkanapig tájékoztatja az (1) bekezdés alapján alkalmazott árképzésről.
+
+[^2]: A 2. § (1) bekezdés c) pontját a 15/2023. (I. 25.) Korm. rendelet 4. §-a iktatta be.
