@@ -1,15 +1,6 @@
-1. A Konstantinápolyi Egyetemes Patriarchátus Magyarországi Ortodox Exarchátus Dialógus Központ, Lelkiségi, Kulturális és Tudományos Akadémiája kialakításához szükséges kormányzati intézkedésekről szóló 1010/2020. (I. 30.) Korm. határozat (a továbbiakban: Korm. határozat) 1/A. pontja helyébe a következő rendelkezés lép:
+1.[^2]
 
-(A Kormány)
+2.[^3]
 
-„1/A. „egyetért azzal, hogy a Beruházás kormányzati felelőse a miniszterelnök általános helyettese;”
-
-2. A Korm. határozat 7. pontja helyébe a következő rendelkezés lép:
-
-(A Kormány)
-
-„7. felhívja a miniszterelnök általános helyettesét, hogy készítsen előterjesztést a Kormány részére a Beruházás megvalósításának további ütemezéséről és többletforrásigényéről.
-
-| Felelős: | a miniszterelnök általános helyettese |
-
-| Határidő: | 2023. január 31-ig |
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
