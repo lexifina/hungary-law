@@ -1,0 +1,17 @@
+1. § (1) Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzetre tekintettel a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény szerinti közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény által, valamint azon gazdasági társaság által, amely felett az országos és a helyi nemzetiségi önkormányzat a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:2. §-a szerinti többségi befolyással vagy közvetett befolyással rendelkezik (a továbbiakban együtt: intézmény), a földgázkereskedővel árindexált beszerzési módszertan alapján megkötött, az árakat nem hirdetményi formában tartalmazó, e rendelet hatálybalépésekor hatályos földgáz-kereskedelmi szerződésben foglaltaktól eltérően az átadott földgáz egységárának meghatározása során 2023. március 1. napjától 2023. szeptember 30. napjáig a tárgyhónapra vonatkozóan
+
+a) a TTF árindexált beszerzési módszertan alapján megkötött egyedi földgáz-kereskedelmi szerződésben meghatározott árképzési meghatározás helyett a TTF földgáz adott hónapokra vonatkozó ICE tőzsdei jegyzésár (3) bekezdés szerinti nyilatkozattételi határidőt követő 6. munkanapi publikációja szerinti Settle Price havi árak átlagát vagy
+
+b) a VTP árindexált beszerzési módszertan alapján megkötött egyedi földgáz-kereskedelmi szerződésben meghatározott árképzési meghatározás helyett a VTP földgáz adott hónapokra vonatkozó ICE tőzsdei jegyzésár (3) bekezdés szerinti nyilatkozattételi határidőt követő 6. munkanapi publikációja szerinti Settle Price havi árak átlagát vagy
+
+c) az a) és a b) pontban foglaltaktól eltérő egyéb árindexált beszerzési módszertan alapján megkötött egyedi földgáz-kereskedelmi szerződésben meghatározott árképzési meghatározás helyett az egyedi földgáz-kereskedelmi szerződésben megjelölt tőzsde szerinti földgáz adott hónapokra vonatkozó, az egyedi földgáz-kereskedelmi szerződésben megjelölt tőzsdére vonatkozó tőzsdei jegyzésár (3) bekezdés szerinti nyilatkozattételi határidőt követő 6. munkanapi publikációja szerinti Settle Price havi árak átlagát
+
+kell alkalmazni.
+
+(2) A (3) bekezdésben foglaltak teljesülése esetén, e rendelet erejénél fogva a földgáz-kereskedelmi szerződéseket az (1) bekezdésben foglalt árképzéssel kell teljesíteni.
+
+(3) Az (1) bekezdés szerinti árképzés akkor alkalmazható, ha az intézmény az e rendelet hatálybalépését követő 5. munkanap végéig nyilatkozik a földgázkereskedő felé, hogy az (1) bekezdés szerinti intézménynek minősül, és az (1) bekezdés szerinti elszámolást igénybe veszi. A határidő jogvesztő.
+
+(4) A (3) bekezdés szerinti nyilatkozat a földgázkereskedő által e célra biztosított elektronikus felületen keresztül, az intézmény e-mail-címének megjelölésével és a földgázkereskedő által megadott, jogosultság fennállását igazoló, kitöltött űrlap csatolásával tehető meg, a más módon megtett nyilatkozat, igazolás érvénytelen. A nyilatkozattétel fogadását a földgázkereskedő elektronikus levélben igazolja vissza a nyilatkozatban megadott e-mail-címre.
+
+(5) A földgázkereskedő az intézményt a nyilatkozatban megadott e-mail-címen az e rendelet hatálybalépését követő 14. munkanapig tájékoztatja az (1) bekezdés alapján alkalmazott árképzésről.

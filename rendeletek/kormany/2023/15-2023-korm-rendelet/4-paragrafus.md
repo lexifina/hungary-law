@@ -1,0 +1,7 @@
+4. § Az egyes intézmények földgázbeszerzéseivel kapcsolatos veszélyhelyzeti szabályokról szóló 12/2023. (I. 20.) Korm. rendelet 2. § (1) bekezdése a következő c) ponttal egészül ki:
+
+[Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzetre tekintettel az intézmény által a földgázkereskedővel árindexált beszerzési módszertan alapján megkötött, az árakat nem hirdetményi formában tartalmazó, e rendelet hatálybalépésekor hatályos földgáz-kereskedelmi szerződésben foglaltaktól eltérően az átadott földgáz egységárának meghatározása során 2023. március 1. napjától 2023. szeptember 30. napjáig a tárgyhónapra vonatkozóan]
+
+„c) az a) és a b) pontban foglaltaktól eltérő egyéb árindexált beszerzési módszertan alapján megkötött egyedi földgáz-kereskedelmi szerződésben meghatározott árképzési meghatározás helyett az egyedi földgáz-kereskedelmi szerződésben megjelölt tőzsde szerinti földgáz adott hónapokra vonatkozó, az egyedi földgáz-kereskedelmi szerződésben megjelölt tőzsdére vonatkozó tőzsdei jegyzésár (3) bekezdés szerinti nyilatkozattételi határidőt követő 6. munkanapi publikációja szerinti Settle Price havi árak átlagát”
+
+[kell alkalmazni.]
