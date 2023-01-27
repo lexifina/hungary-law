@@ -1,0 +1,3 @@
+8. § Az R. 50. alcíme a következő 78/C. §-sal egészül ki:
+
+„78/C. § E rendeletnek a településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló 419/2021. (VII. 15.) Korm. rendelet módosításáról szóló 10/2023. (I. 19.) Korm. rendelettel (a továbbiakban: Mód. Kr.2.) megállapított 60. § (5) és (6) bekezdését, 66. § (7a) bekezdését és 70/A. §-át, valamint módosított 7. § (4) bekezdését, 11. § (4) és (5) bekezdését, 58. § (1) bekezdését, 69. § (1) bekezdés f) pontját, továbbá 10. mellékletét a Mód. Kr.2. hatálybalépésekor folyamatban lévő településterv készítésénél és településrendezési eszköz, településképi rendelet módosításánál, valamint az adatszolgáltatásnál is alkalmazni kell.”
