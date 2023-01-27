@@ -530,7 +530,7 @@
 
 ## A Szabályzat és ezen különös rendelkezések közötti ellentmondás esetén e melléklet különös rendelkezései az irányadóak.
 
-2. melléklet az 507/2022. (XII. 13.) Korm. rendelethez[^7]
+2. melléklet az 507/2022. (XII. 13.) Korm. rendelethez[^8]
 
 FRAMEWORK AGREEMENT between THE SWISS FEDERAL COUNCIL and THE GOVERNMENT OF HUNGARY on THE IMPLEMENTATION OF THE SECOND SWISS CONTRIBUTION TO SELECTED MEMBER STATES OF THE EUROPEAN UNION TO REDUCE ECONOMIC AND SOCIAL DISPARITIES WITHIN THE EUROPEAN UNION
 
@@ -1064,4 +1064,4 @@ e) ensure that recoverable VAT is not included in the Reimbursement Request as e
 
 In the event of a conflict between the Regulations and these specific provisions, the specific provisions of this Annex shall prevail.
 
-[^7]: A 2. melléklet az 5. § (2) bekezdés alapján a Keretmegállapodás 10. cikk 3. bekezdésében meghatározott időpontban lép hatályba. A 2/2023. (I. 12.) KKM közlemény alapján a hatálybalépés időpontja 2023. január 26.
+[^8]: A 2. melléklet az 5. § (2) bekezdés alapján a Keretmegállapodás 10. cikk 3. bekezdésében meghatározott időpontban lép hatályba. A 2/2023. (I. 12.) KKM közlemény alapján a hatálybalépés időpontja 2023. január 26.
