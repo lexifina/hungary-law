@@ -4,19 +4,19 @@
 
 | 2. | Földrészlet (Állami ingatlan-nyilvántartási térképi adatbázis) | – | Lechner Tudásközpont |
 
-| 3. | Művelési ág (Állami ingatlan-nyilvántartási térképi adatbázis) | – | Lechner Tudásközpont |
+| 3. | Minőségi osztály (Állami ingatlan-nyilvántartási térképi adatbázis) | – | Lechner Tudásközpont |
 
 | 4. | Épület (Állami ingatlan-nyilvántartási térképi adatbázis) | – | Lechner Tudásközpont |
 
 | 5. | Szintvonalak | – | Lechner Tudásközpont |
 
-| 6. | DDM | – | Lechner Tudásközpont |
+| 6. | Digitális domborzat modell (DDM) | – | Lechner Tudásközpont |
 
 | 7. | Ortofotó | – | Lechner Tudásközpont |
 
 | 8. | Egyszerűsített felszínborítás (Mezőgazdasági Parcella Azonosító Rendszer) | Nemzeti Földügyi Központ | Lechner Tudásközpont |
 
-| 9. | Védett tájelemek | Nemzeti Földügyi Központ | Lechner Tudásközpont |
+| 9. | Védett tájelem | Nemzeti Földügyi Központ | Lechner Tudásközpont |
 
 | 10. | Világörökségi helyszín | – | Lechner Tudásközpont |
 
@@ -32,117 +32,117 @@
 
 | 16. | Műemléki környezet | – | Lechner Tudásközpont |
 
-| 17. | Történelmi emlékhely | – | Lechner Tudásközpont |
+| 17. | Történelmi emlékhely | Nemzeti Örökség Intézete | Lechner Tudásközpont |
 
-| 18. | Nemzeti emlékhely | – | Lechner Tudásközpont |
+| 18. | Nemzeti emlékhely | Nemzeti Örökség Intézete | Lechner Tudásközpont |
 
-| 19. | Kiemelt nemzeti emlékhely | – | Lechner Tudásközpont |
+| 19. | Kiemelt nemzeti emlékhely | Nemzeti Örökség Intézete | Lechner Tudásközpont |
 
-| 20. | Nemzeti emlékpont | – | Lechner Tudásközpont |
+| 20. | Nemzeti emlékpont | Nemzeti Örökség Intézete | Lechner Tudásközpont |
 
-| 21. | Hadtörténeti örökségnek minősülő hadszíntér, csatatér, védelmi létesítmény | Honvédelmi Minisztérium | Lechner Tudásközpont |
+| 21. | Történeti kert | – | Lechner Tudásközpont |
 
-| 22. | Történeti kert | – | Lechner Tudásközpont |
+| 22. | Történeti temetkezési hely | – | Lechner Tudásközpont |
 
-| 23. | Történeti temetkezési hely | – | Lechner Tudásközpont |
+| 23. | Nyilvántartott régészeti lelőhely | – | Lechner Tudásközpont |
 
-| 24. | Nyilvántartott régészeti lelőhely | – | Lechner Tudásközpont |
+| 24. | Védetté nyilvánított régészeti lelőhely | – | Lechner Tudásközpont |
 
-| 25. | Védetté nyilvánított régészeti lelőhely | – | Lechner Tudásközpont |
+| 25. | Régészeti védőövezet | – | Lechner Tudásközpont |
 
-| 26. | Régészeti védőövezet | – | Lechner Tudásközpont |
+| 26. | Honvédelmi és katonai célú terület övezete | – | honvédelemért felelős miniszter |
 
-| 27. | Erdők övezete, erdőterület rendeltetése és az erdőgazdálkodási tevékenységet közvetlenül szolgáló földterületek | vármegyei kormányhivatalok | Lechner Tudásközpont |
+| 27. | Hadtörténeti örökségnek minősülő hadszíntér, csatatér, védelmi létesítmény | – | honvédelemért felelős miniszter |
 
-| 28. | Natura 2000 terület különleges madárvédelmi terület | Agrárminisztérium | Lechner Tudásközpont |
+| 28. | Natura 2000 terület különleges madárvédelmi terület | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 29. | Natura 2000 természetmegőrzési terület | Agrárminisztérium | Lechner Tudásközpont |
+| 29. | Natura 2000 természetmegőrzési terület | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 30. | Országos jelentőségű, egyedi jogszabállyal védett természeti terület | Agrárminisztérium | Lechner Tudásközpont |
+| 30. | Országos jelentőségű, egyedi jogszabállyal védett természeti terület | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 31. | Védett mesterséges üreg (egyedi jogszabállyal védetté nyilvánított országos jelentőségű védett természeti érték) | Agrárminisztérium | Lechner Tudásközpont |
+| 31. | Védett mesterséges üreg (egyedi jogszabállyal védetté nyilvánított országos jelentőségű védett természeti érték) | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 32. | Barlang (ex lege országos jelentőségű védett természeti érték) | Agrárminisztérium | Lechner Tudásközpont |
+| 32. | Barlang felszíni védőövezete | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 33. | Barlang felszíni védőövezete | Agrárminisztérium | Lechner Tudásközpont |
+| 33. | Geopark | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 34. | Geopark és csillagoségbolt-park | Agrárminisztérium | Lechner Tudásközpont |
+| 34. | Csillagoségbolt-park | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 35. | Natúrpark | Agrárminisztérium | Lechner Tudásközpont |
+| 35. | Natúrpark | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 36. | Bioszféra rezervátum | Agrárminisztérium | Lechner Tudásközpont |
+| 36. | Bioszféra rezervátum | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 37. | Erdőrezervátum és annak magterülete | Agrárminisztérium | Lechner Tudásközpont |
+| 37. | Ramsari terület | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 38. | Ramsari terület | Agrárminisztérium | Lechner Tudásközpont |
+| 38. | Ex lege védett láp | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 39. | Ex lege védett láp, Ex lege védett szikes tó, Ex lege védet víznyelő, Ex lege védett kunhalom, Ex lege védett forrás, Ex lege védett földvár | Agrárminisztérium | Lechner Tudásközpont |
+| 39. | Ex lege védett szikes tó | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 40. | Országos Ökológiai Hálózat övezetei | Agrárminisztérium | Lechner Tudásközpont |
+| 40. | Ex lege védett kunhalom | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 41. | Tájképvédelmi terület övezete | Agrárminisztérium | Lechner Tudásközpont |
+| 41. | Határozattal lehatárolt ex lege védett kunhalom természeti emlék | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 42. | Tájképvédelmi szempontból kiemelten kezelendő terület övezete | Agrárminisztérium | Lechner Tudásközpont |
+| 42. | Ex lege védett földvár | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 43. | Egyedi tájérték | Agrárminisztérium | Lechner Tudásközpont |
+| 43. | Határozattal lehatárolt ex lege védett földvár természeti emlék | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 44. | Fokozottan zajos terület | Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaság | Lechner Tudásközpont |
+| 44. | Ex lege védett víznyelő | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 45. | Légszennyező forrás védelmi övezete | Agrárminisztérium | Lechner Tudásközpont |
+| 45. | Határozattal lehatárolt ex lege védett víznyelő természeti emlék | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 46. | Hulladékgazdálkodási adatok | fővárosi és vármegyei kormányhivatalok | Lechner Tudásközpont |
+| 46. | Forrás | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 47. | Környezetvédelmi határozatokban meghatározott védőterületek, védőtávolságok, kármentesítéssel érintett területek | fővárosi és vármegyei kormányhivatalok | Lechner Tudásközpont |
+| 47. | Határozattal lehatárolt ex lege védett forrás természeti emlék | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 48. | Zaj- és rezgésvédelmi adatok | fővárosi és vármegyei kormányhivatalok | Lechner Tudásközpont |
+| 48. | Országos Ökológiai Hálózat övezetei | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 49. | Környezetvédelmi határozatokban meghatározott védőterületek, védőtávolságok, kármentesítéssel érintett területek | fővárosi és vármegyei kormányhivatalok | Lechner Tudásközpont |
+| 49. | Tájképvédelmi terület övezete | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 50. | Ásványi nyersanyagvagyon övezete, földtani veszélyforrás terület övezete | bányafelügyelet | Lechner Tudásközpont |
+| 50. | Tájképvédelmi szempontból kiemelten kezelendő terület övezete (BKÜTrT.) | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 51. | Vízbázis belső védőövezet | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 51. | Egyedi tájérték | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 52. | Vízbázis külső védőövezet | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 52. | Érzékeny Természeti Területek | természetvédelemért felelős miniszter | Lechner Tudásközpont |
 
-| 53. | Vízbázis hidrogeológiai „A” védőövezet | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 53. | Gyümölcs termőhelyi kataszter | élelmiszerlánc-felügyeletért felelős miniszter | Lechner Tudásközpont |
 
-| 54. | Vízbázis hidrogeológiai „B” védőövezet | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 54. | Környezetvédelmi engedéllyel vagy egységes környezethasználati engedéllyel rendelkező telephelyek, tartós környezeti kárral érintett területek (ide nem értve a nyomvonalas létesítményeket és a repülőterek környezetében kijelölt zajgátló védőövezetek részét képező fokozottan zajos területeket) | vármegyei kormányhivatalok | Lechner Tudásközpont |
 
-| 55. | Vízminőség-védelmi terület övezet | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 55. | Hulladékgazdálkodási létesítmény (ide nem értve az üzemi gyűjtőhelyet) | vármegyei kormányhivatalok | Lechner Tudásközpont |
 
-| 56. | Felszíni víz parti sávja | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 56. | Ivóvízbázis védőövezet (védőterület, védőidom) | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 57. | Felszíni víz védvonala (töltés, gát) | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 57. | Vízminőség-védelmi terület övezete | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 58. | Felszíni víz (vízfolyás és állóvíz) | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 58. | Állami tulajdonú felszíni víz parti sávja | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 59. | Állóvíz víztest | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 59. | Állami tulajdonú árvízvédelmi védvonal (töltés, gát) | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 60. | Vízfolyás víztest | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 60. | Felszíni víz – vízfolyás | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 61. | Felszín alatti víztest sekély porózus és sekély hegyvidéki | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 61. | Felszíni víz – állóvíz | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 62. | Felszín alatti víztest porózus és hegyvidéki | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 62. | Állóvíz víztest | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 63. | Felszín alatti víztest karszt és termálkarszt | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 63. | Vízfolyás víztest | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 64. | Felszín alatti víztest porózus termál | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 64. | Felszín alatti víztest sekély porózus és sekély hegyvidéki | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 65. | Nitrátérzékeny terület | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 65. | Felszín alatti víztest porózus és hegyvidéki | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 66. | Országos csatorna | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 66. | Felszín alatti víztest karszt és termálkarszt | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 67. | Térségi csatorna | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 67. | Felszín alatti víztest porózus termál | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 68. | Országos vízkárelhárítás célú tározó | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 68. | Országos vízkárelhárítás célú tározó (területrendezési szempontból) | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 69. | 1 millió m3-t meghaladó vízkárelhárítási célú tározási fejlesztési lehetőség | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 69. | 1 millió m3-t meghaladó vízkárelhárítási célú tározási fejlesztési lehetőség (területrendezési szempontból) | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 70. | Vásárhelyi Terv Továbbfejlesztése tározó | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 70. | Vásárhelyi Terv Továbbfejlesztése-tározó | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 71. | Kiemelt jelentőségű vízi építmény | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 71. | Kiemelt jelentőségű vízilétesítmény | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 72. | Nagyvízi meder | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 72. | Nagyvízi meder övezete | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
 | 73. | Tómeder övezete (BKÜTrT.) | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
@@ -150,17 +150,17 @@
 
 | 75. | Rendszeresen belvízjárta terület övezete | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 76. | Vízbázis védőterülete, vízminőség-védelmi terület | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
+| 76. | Ivóvíz-kivételi helyek vízgyűjtője | Országos Vízügyi Főigazgatóság | Lechner Tudásközpont |
 
-| 77. | Polgári védelmi terület, veszélyességi övezet | katasztrófavédelmi igazgatóságok | Lechner Tudásközpont |
+| 77. | Polgári védelmi terület, veszélyességi övezet | Országos Katasztrófavédelmi Főigazgatóság | Lechner Tudásközpont |
 
-| 78. | Kiváló termőhelyi adottságú szántók övezete | – | Lechner Tudásközpont |
+| 78. | Borszőlő termőhelyi kataszteri terület övezete (BKÜTrT.) | – | Lechner Tudásközpont |
 
-| 79. | Jó termőhelyi adottságú szántók övezete | – | Lechner Tudásközpont |
+| 79. | Kiváló termőhelyi adottságú szántók övezete | – | Lechner Tudásközpont |
 
-| 80. | Magas Természeti Értékű Területek | Magyar Államkincstár és Nemzeti Földügyi Központ | Lechner Tudásközpont |
+| 80. | Jó termőhelyi adottságú szántók övezete | – | Lechner Tudásközpont |
 
-| 81. | Erdőtelepítésre javasolt terület övezete | Nemzeti Földügyi Központ | Lechner Tudásközpont |
+| 81. | Erdőtelepítésre javasolt terület övezete | – | Lechner Tudásközpont |
 
 | 82. | Erdőrészletek | Nemzeti Földügyi Központ | Lechner Tudásközpont |
 
@@ -168,83 +168,79 @@
 
 | 84. | Szabad rendelkezésű erdők | Nemzeti Földügyi Központ | Lechner Tudásközpont |
 
-| 85. | Borszőlő termőhelyi kataszteri terület övezete (BKÜTrT.) | Nemzeti Földügyi Központ | Lechner Tudásközpont |
+| 85. | VINGIS termőhelyi kataszter | Nemzeti Földügyi Központ | Lechner Tudásközpont |
 
-| 86. | VINGIS termőhelyi kataszter | Nemzeti Földügyi Központ | Lechner Tudásközpont |
+| 86. | VINGIS szőlőültetvények | Nemzeti Földügyi Központ | Lechner Tudásközpont |
 
-| 87. | VINGIS szőlőültetvények | Nemzeti Földügyi Központ | Lechner Tudásközpont |
+| 87. | Ásványi nyersanyagvagyon övezete | Szabályozott Tevékenységek Felügyeleti Hatósága | Lechner Tudásközpont |
 
-| 88. | Gyümölcs termőhelyi kataszter | Agrárminisztérium | Lechner Tudásközpont |
+| 88. | Bányatelek | Szabályozott Tevékenységek Felügyeleti Hatósága | Lechner Tudásközpont |
 
-| 89. | Ásványi nyersanyag tekintetében megkutatott terület | Szabályozott Tevékenységek Felügyeleti Hatósága | Lechner Tudásközpont |
+| 89. | Alábányászott terület | Szabályozott Tevékenységek Felügyeleti Hatósága | Lechner Tudásközpont |
 
-| 90. | Bányatelek | Szabályozott Tevékenységek Felügyeleti Hatósága | Lechner Tudásközpont |
+| 90. | Földtani veszélyforrás terület övezete | Szabályozott Tevékenységek Felügyeleti Hatósága | Lechner Tudásközpont |
 
-| 91. | Olyan terület, ahol a természeti csapások elleni védelemről gondoskodni kell | Országos Katasztrófavédelmi Főigazgatóság | Lechner Tudásközpont |
+| 91. | Gyorsforgalmi út | Magyar Közút Nonprofit Zrt. | Lechner Tudásközpont |
 
-| 92. | Földtani veszélyforrás terület övezete | Szabályozott Tevékenységek Felügyeleti Hatósága | Lechner Tudásközpont |
+| 92. | Főút | Magyar Közút Nonprofit Zrt. | Lechner Tudásközpont |
 
-| 93. | Honvédelmi és katonai célú terület övezete | honvédelemért felelős miniszter | Lechner Tudásközpont |
+| 93. | Országos mellékút | Magyar Közút Nonprofit Zrt. | Lechner Tudásközpont |
 
-| 94. | Gyorsforgalmi út | közlekedésért felelős miniszter | Lechner Tudásközpont |
+| 94. | Kerékpáros létesítmény | Magyar Közút Nonprofit Zrt. | Lechner Tudásközpont |
 
-| 95. | Főút | közlekedésért felelős miniszter | Lechner Tudásközpont |
+| 95. | Vasút | közlekedésért felelős miniszter | Lechner Tudásközpont |
 
-| 96. | Országos mellékút | közlekedésért felelős miniszter | Lechner Tudásközpont |
+| 96. | Repülőtér | közlekedésért felelős miniszter | Lechner Tudásközpont |
 
-| 97. | Országos kerékpárút | közlekedésért felelős miniszter | Lechner Tudásközpont |
+| 97. | Országos közforgalmú, valamint vám- és határkikötő | közlekedésért felelős miniszter | Lechner Tudásközpont |
 
-| 98. | Vasút | közlekedésért felelős miniszter | Lechner Tudásközpont |
+| 98. | Az országos közforgalmú, valamint vám- és határkikötők közé nem sorolt egyéb kikötő | Budapest Főváros Kormányhivatala | Lechner Tudásközpont |
 
-| 99. | Repülőtér | közlekedésért felelős miniszter | Lechner Tudásközpont |
+| 99. | Gyógyhelyek | Budapest Főváros Kormányhivatala | Lechner Tudásközpont |
 
-| 100. | Kikötő | közlekedésért felelős miniszter | Lechner Tudásközpont |
+| 100. | Erőmű | Magyar Energetikai és Közmű-szabályozási Hivatal | Lechner Tudásközpont |
 
-| 101. | Veszélyes hulladék kezelő | fővárosi és vármegyei kormányhivatalok | Lechner Tudásközpont |
+| 101. | 750 kV-os villamos energia átviteli hálózati távvezeték | MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 102. | Radioaktív hulladék tároló | Agrárminisztérium | Lechner Tudásközpont |
+| 102. | 400 kV-os villamos energia átviteli hálózati távvezeték | MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 103. | Hulladékkezelő | fővárosi és vármegyei kormányhivatalok | Lechner Tudásközpont |
+| 103. | 220 kV-os villamos energia átviteli hálózati távvezeték | MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 104. | Gyógyhelyek | Budapest Főváros Kormányhivatala | Lechner Tudásközpont |
+| 104. | Villamos energia alállomás (750, 400 és 220 kV-os villamos energia átviteli hálózathoz kapcsolódóan) | MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 105. | 750 kV-os villamos energia átviteli hálózati távvezeték | MAVIR | Lechner Tudásközpont |
+| 105. | 750 kV-os villamos energia átviteli hálózati távvezeték biztonsági övezete | MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 106. | 400 kV-os villamos energia átviteli hálózati távvezeték | MAVIR | Lechner Tudásközpont |
+| 106. | 400 kV-os villamos energia átviteli hálózati távvezeték biztonsági övezete | MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 107. | 220 kV-os villamos energia átviteli hálózati távvezeték | MAVIR | Lechner Tudásközpont |
+| 107. | 220 kV-os villamos energia átviteli hálózati távvezeték biztonsági övezete | MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 108. | Erőmű | MAVIR | Lechner Tudásközpont |
+| 108. | Nagynyomású földgáz szállítóvezeték (>25 bar) | FGSZ Földgázszállító Zártkörűen Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 109. | Villamos energia alállomás | MAVIR | Lechner Tudásközpont |
+| 109. | Nagynyomású földgáz szállítóvezeték biztonsági övezete | FGSZ Földgázszállító Zártkörűen Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 110. | 750 kV-os villamos energia átviteli hálózati távvezeték biztonsági övezete | MAVIR | Lechner Tudásközpont |
+| 110. | Nagynyomású földgáz szállítóvezeték tartozék (fáklya, fáklya vezeték, hírközlési kábel, korrózióvédelmi kábel, elektromos betápláló kábel) | FGSZ Földgázszállító Zártkörűen Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 111. | 400 kV-os villamos energia átviteli hálózati távvezeték biztonsági övezete | MAVIR | Lechner Tudásközpont |
+| 111. | Nagynyomású földgáz szállítóvezeték tartozék biztonsági övezete | FGSZ Földgázszállító Zártkörűen Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 112. | 220 kV-os villamos energia átviteli hálózati távvezeték biztonsági övezete | MAVIR | Lechner Tudásközpont |
+| 112. | Nagynyomású földgáz szállítóvezeték technológiai létesítmény (csomóponti állomás, gázátadó állomás, görényfogadó állomás, görényindító állomás, görényváltó állomás, kompresszor állomás, leágazó állomás, mérőállomás, szakaszoló állomás) | FGSZ Földgázszállító Zártkörűen Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 113. | Nagynyomású földgáz szállítóvezeték (>25 bar) | FGSZ | Lechner Tudásközpont |
+| 113. | Nagynyomású földgáz szállítóvezeték technológiai létesítmény biztonsági övezete | FGSZ Földgázszállító Zártkörűen Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 114. | Gázátadó állomás | FGSZ | Lechner Tudásközpont |
+| 114. | Kőolajszállító vezeték | MOL Magyar Olaj- és Gázipari Nyilvánosan Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 115. | Gáznyomáscsökkentő | FGSZ Szolgáltatók (e-közmű) | Lechner Tudásközpont |
+| 115. | Termékvezeték | MOL Magyar Olaj- és Gázipari Nyilvánosan Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 116. | Gáztartálypark | FGSZ | Lechner Tudásközpont |
+| 116. | Kőolajszállító vezeték biztonsági övezete | MOL Magyar Olaj- és Gázipari Nyilvánosan Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 117. | Kőolajszállító vezeték | MOL | Lechner Tudásközpont |
+| 117. | Termékvezeték biztonsági övezete | MOL Magyar Olaj- és Gázipari Nyilvánosan Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 118. | Termékvezeték | MOL | Lechner Tudásközpont |
+| 118. | Kőolajszállító- és termékvezeték területigényes létesítményei és azok biztonsági övezete | MOL Magyar Olaj- és Gázipari Nyilvánosan Működő Részvénytársaság | Lechner Tudásközpont |
 
-| 119. | Kőolajszállító vezeték biztonsági övezete | MOL | Lechner Tudásközpont |
+| 119. | Területfejlesztési és területrendezési dokumentumok | – | érintett és közigazgatási határral szomszédos területi (vármegyei, fővárosi) önkormányzat |
 
-| 120. | Termékvezeték biztonsági övezete | MOL | Lechner Tudásközpont |
+| 120. | Hatályos helyi építési szabályzat, kerületi építési szabályzat, fővárosi rendezési szabályzat, valamint a településfejlesztési döntések | – | közigazgatási határral szomszédos települési (fővárosban fővárosi és kerületi) önkormányzat |
 
-| 121. | Területfejlesztési és területrendezési dokumentumok | – | érintett és közigazgatási határral szomszédos területi (vármegyei, fővárosi) önkormányzat |
-
-| 122. | Hatályos helyi építési szabályzat, kerületi építési szabályzat, fővárosi rendezési szabályzat, valamint a településfejlesztési döntések | – | közigazgatási határral szomszédos települési (fővárosban fővárosi és kerületi) önkormányzat |
-
-| 123. | Szegregációszűrés, településrész-kijelölés | – | Központi Statisztikai Hivatal |
+| 121. | Szegregációszűrés, településrész-kijelölés | – | Központi Statisztikai Hivatal |
 
 11. melléklet a 419/2021. (VII. 15.) Korm. rendelethez
 
@@ -260,7 +256,7 @@ A TELEPÜLÉSTERV, A TELEPÜLÉSI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RE
 
 | 4. | a Balaton vízparti területeit érintő településterv esetén a területrendezésért felelős miniszter | területrendezés | – | – |
 
-| 5. | környezetvédelmi és természetvédelmi hatáskörben vármegyei kormányhivatal[^22] | környezetvédelem, természet- és tájvédelem | – | – |
+| 5. | környezetvédelmi és természetvédelmi hatáskörben vármegyei kormányhivatal[^49] | környezetvédelem, természet- és tájvédelem | – | – |
 
 | 6. | nemzeti park igazgatóság | természet- és tájvédelem | természet- és tájvédelem | természet- és tájvédelem |
 
@@ -268,13 +264,13 @@ A TELEPÜLÉSTERV, A TELEPÜLÉSI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RE
 
 | 8. | területi vízügyi hatóság | vízgazdálkodás | – | – |
 
-| 9. | Országos Vízügyi Főigazgatóság | a vizek védelmével, illetve kártételeinek elhárításával összefüggő alapvető szempontok teljesülése, a környezet- és természetvédelmi követelményekre figyelemmel | – | – |
+| 9.[^48] |  |  |  |  |
 
 | 10. | területi vízügyi igazgatási szerv | a vizek védelmével, illetve kártételeinek elhárításával összefüggő alapvető szempontok teljesülése, a környezet- és természetvédelmi követelményekre figyelemmel | – | – |
 
-| 11. | fővárosi és vármegyei katasztrófavédelmi igazgatóság[^23] | polgári védelem, iparbiztonság | – | – |
+| 11. | fővárosi és vármegyei katasztrófavédelmi igazgatóság[^50] | polgári védelem, iparbiztonság | – | – |
 
-| 12. | népegészségügyi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^24] | közegészségügy | – | – |
+| 12. | népegészségügyi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^51] | közegészségügy | – | – |
 
 | 13. | Budapest Főváros Kormányhivatala | közlekedés: gyorsforgalmi utat, közúti határátkelőhelyet, szintbeli közúti-vasúti átjárót érintő településrendezési eszköz esetében | – | – |
 
@@ -282,19 +278,19 @@ A TELEPÜLÉSTERV, A TELEPÜLÉSI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RE
 
 | 15. | a) légiközlekedési hatóság b) katonai légügyi hatóság | közlekedés: légi közlekedéssel érintett település esetében: a) polgári célú légiközlekedés tekintetében b) állami célú légiközlekedés tekintetében | – | – |
 
-| 16. | közlekedési hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^25] | közlekedés: a 12–14. pont kivételével minden közúti közlekedési ügyben | – | – |
+| 16. | közlekedési hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^52] | közlekedés: a 12–14. pont kivételével minden közúti közlekedési ügyben | – | – |
 
-| 17. | örökségvédelmi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^26] | régészeti örökség és műemléki érték, világörökségi és világörökségi várományos terület védelme | a világörökségi, műemléki és régészeti érték védelme | a világörökségi, műemléki és régészeti érték védelme |
+| 17. | örökségvédelmi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^53] | régészeti örökség és műemléki érték, világörökségi és világörökségi várományos terület védelme | a világörökségi, műemléki és régészeti érték védelme | a világörökségi, műemléki és régészeti érték védelme |
 
-| 18. | talajvédelmi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^27] | talajvédelem | – | – |
+| 18. | talajvédelmi hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^54] | talajvédelem | – | – |
 
-| 19. | ingatlanügyi, földügyi igazgatási hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^28] | földvédelem | – | – |
+| 19. | ingatlanügyi, földügyi igazgatási hatáskörében eljáró fővárosi és vármegyei kormányhivatal[^55] | földvédelem | – | – |
 
-| 20. | erdészeti hatáskörében eljáró vármegyei kormányhivatal, Nemzeti Földügyi Központ[^29] | erdőrendezés, erdővédelem | – | – |
+| 20. | erdészeti hatáskörében eljáró vármegyei kormányhivatal, Nemzeti Földügyi Központ[^56] | erdőrendezés, erdővédelem | – | – |
 
 | 21. | honvédelemért felelős miniszter | honvédelem | honvédelmi és katonai rendeltetésű terület érintettsége esetén honvédelem | honvédelmi és katonai rendeltetésű terület érintettsége esetén honvédelem |
 
-| 22. | fővárosi és vármegyei rendőr-főkapitányság[^30] | határrendészet | – | – |
+| 22. | fővárosi és vármegyei rendőr-főkapitányság[^57] | határrendészet | – | – |
 
 | 23. | bányafelügyelet | bányászat, geológia, morfológia, földtani veszélyforrások | – | – |
 
@@ -306,17 +302,18 @@ A TELEPÜLÉSTERV, A TELEPÜLÉSI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RE
 
 | 27. | Magyar Építész Kamara | – | településkép-védelem | – |
 
-| 28. | érintett és közigazgatási határral szomszédos területi (vármegyei, fővárosi) önkormányzat[^31] | területrendezés, településfejlesztés | – | – |
+| 28. | érintett és közigazgatási határral szomszédos területi (vármegyei, fővárosi) önkormányzat[^58] | területrendezés, településfejlesztés | – | – |
 
 | 29. | érintett kiemelt térségi fejlesztési tanács | a kiemelt térség fejlesztési koncepcióval való összhang megteremtése | – | – |
 
-[^22]: A 11. mellékletben foglalt táblázat A:5 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^23]: A 11. mellékletben foglalt táblázat A:11 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^24]: A 11. mellékletben foglalt táblázat A:12 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^25]: A 11. mellékletben foglalt táblázat A:16 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^26]: A 11. mellékletben foglalt táblázat A:17. mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^27]: A 11. mellékletben foglalt táblázat A:18 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^28]: A 11. mellékletben foglalt táblázat A:19 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^29]: A 11. mellékletben foglalt táblázat A:20 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^30]: A 11. mellékletben foglalt táblázat A:22 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^31]: A 11. mellékletben foglalt táblázat A:28 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^49]: A 11. mellékletben foglalt táblázat A:5 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^48]: A 11. mellékletben foglalt táblázat 9. sorát a 10/2023. (I. 19.) Korm. rendelet 11. § e) pontja hatályon kívül helyezte.
+[^50]: A 11. mellékletben foglalt táblázat A:11 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^51]: A 11. mellékletben foglalt táblázat A:12 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^52]: A 11. mellékletben foglalt táblázat A:16 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^53]: A 11. mellékletben foglalt táblázat A:17. mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^54]: A 11. mellékletben foglalt táblázat A:18 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^55]: A 11. mellékletben foglalt táblázat A:19 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^56]: A 11. mellékletben foglalt táblázat A:20 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^57]: A 11. mellékletben foglalt táblázat A:22 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^58]: A 11. mellékletben foglalt táblázat A:28 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.

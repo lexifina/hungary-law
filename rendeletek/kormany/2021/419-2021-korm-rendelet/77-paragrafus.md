@@ -1,5 +1,3 @@
-## 76. § Ha a tervezet vonatkozásában helyi partnerségi egyeztetés történik, a polgármester a tervezettel kapcsolatos 62. § (1) bekezdés b) pontja szerinti véleményezési eljárást kizárólag a helyi partnerségi egyeztetés lezárást követően kezdeményezheti. A 75. § szerinti partnerségi egyeztetés nem mentesít az E-TÉR felületén történő 62. § szerinti egyeztetési kötelezettség alól.
-
 ## X. Fejezet
 
 ## ZÁRÓ RENDELKEZÉSEK
@@ -8,8 +6,8 @@
 
 77. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
 
-(2)[^11] A 34. §, az 56. § (2) bekezdése, a 73. § (2) bekezdése és a 79. § b) pontja 2022. július 1-jén lép hatályba.
+(2)[^32] A 34. §, az 56. § (2) bekezdése, a 73. § (2) bekezdése és a 79. § b) pontja 2022. július 1-jén lép hatályba.
 
 (3) A 79. § c) pontja 2027. július 1-jén lép hatályba.
 
-[^11]: A 77. § (2) bekezdése a 797/2021. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^32]: A 77. § (2) bekezdése a 797/2021. (XII. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
