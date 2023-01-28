@@ -4,6 +4,6 @@
 
 (2) Az előkészítő eljárás részeként a hálózati engedélyes vagy megbízása alapján a tervező nyomvonal-kijelölési dokumentációt köteles készíteni a 3. számú melléklet 1. pontja szerinti tartalommal, méretekben és példányban.
 
-(3)[^33] Az előkészítő eljárás során vizsgálni kell a terület- és településrendezési tervekkel való összhangot, valamint figyelemmel kell lenni az ingatlantulajdonos ingatlanát érintő – okirattal, különösen építési engedéllyel igazolt – középtávú terveire.
+(3)[^36] Az előkészítő eljárás során vizsgálni kell a terület- és településrendezési tervekkel való összhangot, valamint figyelemmel kell lenni az ingatlantulajdonos ingatlanát érintő – okirattal, különösen építési engedéllyel igazolt – középtávú terveire.
 
-[^33]: A 12. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 58. § (3) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^36]: A 12. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 58. § (3) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

@@ -10,7 +10,10 @@
 
 (3)[^31] Ha a hálózati engedélyes a végleges határozatban foglalt jogai gyakorlása során tevékenységével összefüggő kárt az ingatlan tulajdonosának nem fizeti meg, az általa felajánlott és az ingatlan tulajdonosa által át nem vett összeg, valamint a fizetési biztosíték a kártalanítást nem fedezi, vagy az ingatlan tulajdonosa a kártalanítás összegével nem ért egyet, az ingatlan tulajdonosa a további igényét bírósági eljárás során érvényesítheti.
 
+(4)[^32] Az e rendelet szerinti eljárásokban a Polgári Törvénykönyvről szóló törvény, illetve az általános közigazgatási rendtartásról szóló törvény szerint, az ott meghatározott esetben ügygondnokot vagy eseti gondnokot kell kirendelni. Az ügygondnokot az eljáró hatóság, az eseti gondnokot az eljáró hatóság megkeresésére a gyámhatóság rendeli ki. A gyámhatósági eljárás ügyintézési ideje 15 nap. Az eljárásban kirendelt ügygondnok vagy eseti gondnok díját és költségeit az építési engedély iránt kérelmet előterjesztő személy viseli.
+
 [^28]: A 10. § (1) bekezdése a 343/2017. (XI. 15.) Korm. rendelet 8. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 212. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^29]: A 10. § (1a) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 12. §-a iktatta be, szövege a 343/2017. (XI. 15.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^30]: A 10. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 211. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^31]: A 10. § (3) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 13. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 212. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^32]: A 10. § (4) bekezdését a 18/2023. (I. 27.) Korm. rendelet 1. §-a iktatta be.

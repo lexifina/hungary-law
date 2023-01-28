@@ -1,4 +1,4 @@
-5. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^163]
+5. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^170]
 
 Az építési engedély iránti kérelem adattartalma
 
@@ -36,4 +36,4 @@ d) kivitelezés tervezett befejezési időpontja.
 
 9. A kérelem tárgyával összefüggésben korábban keletkezett hatósági döntések megnevezése, iktatószáma és kelte.
 
-[^163]: Az 5. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 58. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^170]: Az 5. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 58. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
