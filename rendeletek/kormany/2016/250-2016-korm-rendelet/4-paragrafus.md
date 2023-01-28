@@ -1,8 +1,8 @@
 4. § (1)[^27] MVP támogatás nyújtható
 
-a)[^28] vármegyei jogú város önkormányzata részére, a Kormány 1. §-ban meghatározott, az adott vármegyei jogú város önkormányzatával kötött együttműködési megállapodások végrehajtásával összefüggő feladatokról szóló nyilvános egyedi kormányhatározatában megfogalmazott és a vármegyei jogú város egyéb fejlesztési céljaival összhangban lévő programelemek megvalósítása érdekében, valamint
+a)[^28] megyei jogú város önkormányzata részére, a Kormány 1. §-ban meghatározott, az adott megyei jogú város önkormányzatával kötött együttműködési megállapodások végrehajtásával összefüggő feladatokról szóló nyilvános egyedi kormányhatározatában megfogalmazott és a megyei jogú város egyéb fejlesztési céljaival összhangban lévő programelemek megvalósítása érdekében, valamint
 
-b)[^29] vármegyei önkormányzat részére, amely az a) pont szerinti vármegyei jogú város önkormányzatával azonos vármegyében található
+b)[^29] vármegyei önkormányzat részére, amely az a) pont szerinti megyei jogú város önkormányzatával azonos vármegyében található
 
 [az a) és b) pont a továbbiakban együtt: kedvezményezett].
 
@@ -19,8 +19,8 @@ a megvalósításhoz szükséges előirányzat rendelkezésre állásáról az �
 (4)[^32]
 
 [^27]: A 4. § (1) bekezdése a 405/2020. (VIII. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^28]: A 4. § (1) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 236. § a) pontja szerint módosított szöveg.
-[^29]: A 4. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 236. § a) és b) pontja szerint módosított szöveg.
+[^28]: A 4. § (1) bekezdés a) pontja a 18/2023. (I. 27.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^29]: A 4. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 236. § b) pontja, a 18/2023. (I. 27.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^30]: A 4. § (2) bekezdése a 436/2017. (XII. 22.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^31]: A 4. § (3) bekezdését a 436/2017. (XII. 22.) Korm. rendelet 27. § (1) bekezdés a) pontja hatályon kívül helyezte.
 [^32]: A 4. § (4) bekezdését a 295/2017. (X. 10.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 436/2017. (XII. 22.) Korm. rendelet 27. § (1) bekezdés a) pontja.

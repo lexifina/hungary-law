@@ -1,4 +1,4 @@
-2. §[^19] (1)[^20] A Kormány és a vármegyei jogú város önkormányzata között létrejött együttműködési megállapodás végrehajtásával összefüggő feladatokról a Kormány nyilvános egyedi határozatban dönt, amelyet a vármegyei jogú város egyéb fejlesztési céljaival összhangban lévő feladatokkal kiegészíthet.
+2. §[^19] (1)[^20] A Kormány és a megyei jogú város önkormányzata között létrejött együttműködési megállapodás végrehajtásával összefüggő feladatokról a Kormány nyilvános egyedi határozatban dönt, amelyet a megyei jogú város egyéb fejlesztési céljaival összhangban lévő feladatokkal kiegészíthet.
 
 (2)[^21] Az együttműködési megállapodáshoz kapcsolódó kormányzati feladatok végrehajtásának irányítását a Magyar Falu Program, valamint a Modern Városok Program működtetéséért felelős miniszter (a továbbiakban: miniszter) látja el.
 
@@ -11,7 +11,7 @@
 (4) A végrehajtás során a miniszter és a szakpolitikai felelős, illetve – ha a végrehajtás a Kormány más tagjának feladat- és hatáskörét is érinti – a Kormány más érintett tagja együttműködik.
 
 [^19]: A 2. § a 436/2017. (XII. 22.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^20]: A 2. § (1) bekezdése a 263/2019. (XI. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 236. § a) pontja szerint módosított szöveg.
+[^20]: A 2. § (1) bekezdése a 263/2019. (XI. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 18/2023. (I. 27.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^21]: A 2. § (2) bekezdése a 101/2018. (VI. 11.) Korm. rendelet 36. § (1) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 162. § a) pontja szerint módosított szöveg.
 [^22]: A 2. § (3) bekezdése a 263/2019. (XI. 14.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 162. § b) pontja szerint módosított szöveg.
 [^23]: A 2. § (3a) bekezdését a 263/2019. (XI. 14.) Korm. rendelet 2. § (2) bekezdése iktatta be.
