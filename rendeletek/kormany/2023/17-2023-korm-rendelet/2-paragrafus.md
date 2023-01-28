@@ -1,0 +1,1 @@
+2. § Az Nkt. 84. § (3) bekezdésében foglaltaktól eltérően az Ukrán Országos Önkormányzat (a továbbiakban: fenntartó) a 2022/2023. tanítási év közben is indíthat kiegészítő nemzetiségi nyelvoktató iskolát (a továbbiakban: intézmény).
