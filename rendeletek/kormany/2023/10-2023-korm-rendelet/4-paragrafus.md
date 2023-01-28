@@ -1,7 +1,6 @@
-4. § (1)[^1]
+4. § (1)[^4]
 
-(2) Az R. 66. §-a a következő (7a) bekezdéssel egészül ki:
+(2)[^5]
 
-„(7a) A vélemények értékelését a főépítész a tervező bevonásával készíti elő a (7) bekezdés szerinti döntésre.”
-
-[^1]: A 4. § (1) bekezdése a 12. § (2) bekezdés alapján 2023. május 1-jén lép hatályba.
+[^4]: A 4. § (1) bekezdése a 12. § (2) bekezdés alapján 2023. május 1-jén lép hatályba.
+[^5]: A 4. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
