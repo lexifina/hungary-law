@@ -1,0 +1,3 @@
+6. § A 382/2007. (XII. 23.) Korm. rendelet 13/B. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A Hatóság és az (1) bekezdés szerinti érintettek a közmeghallgatást követő 15 napon belül végleges véleményt adnak a kiválasztott nyomvonal-kijelölési dokumentáció tekintetében, amiről a Hatóság a hálózati engedélyest legkésőbb a szóbeli konzultációt követő 30. napon értesíti. A vélemények a kiadást követő 2 éven belül megindított engedélyezési eljárásban előzetes szakhatósági állásfoglalásként felhasználhatóak. Ha a közmű kezelője (üzemeltetője) a 15 napon belül nem adja meg nyilatkozatát, akkor azt a megkeresésben foglalt tartalommal megadottnak kell tekinteni.”

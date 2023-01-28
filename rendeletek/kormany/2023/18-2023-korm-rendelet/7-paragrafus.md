@@ -1,0 +1,1 @@
+7. § A 382/2007. (XII. 23.) Korm. rendelet 11. § (1) bekezdésében a „tulajdonosát,” szövegrész helyébe a „tulajdonosát, külterületi termőföld esetén a tulajdonos helyett a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény szerinti földhasználati nyilvántartásban szereplő ténylegesen birtokban lévő földhasználót,” szöveg lép.
