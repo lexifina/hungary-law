@@ -1,3 +1,3 @@
-5. § A 382/2007. (XII. 23.) Korm. rendelet 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(2) A közcélú hálózat építésével kapcsolatban a helyszíni szemlén megjelent szakhatóságok a tervek tekintetében nyilatkozhatnak, továbbá a közművek, kezelők és üzemeltetők az érdekeltségi területüket illetően, az ügyfelek a tulajdonosi nyilatkozat tekintetében a helyszíni szemle szervezőjének nyilatkoznak, vagy nyilatkozatukat 15 napon belül írásban megadják. Amennyiben az ügyfél az előírt határidőn belül nem nyilatkozik, úgy a megkeresését kell hitelt érdemlő módon igazolni. Ha a közmű kezelője (üzemeltetője) e 15 napon belül nem adja meg nyilatkozatát, akkor azt a megkeresésben foglalt tartalommal megadottnak kell tekinteni.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
