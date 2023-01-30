@@ -1,4 +1,4 @@
-20. §[^95] (1) A horgászszövetség a honlapján az állami horgászjegy forgalmazási pontok címeit és elérhetőségi adatait, valamint azok nyitvatartási idejét köteles közzétenni.
+20. §[^98] (1) A horgászszövetség a honlapján az állami horgászjegy forgalmazási pontok címeit és elérhetőségi adatait, valamint azok nyitvatartási idejét köteles közzétenni.
 
 (2) A forgalmazással megbízott horgászszervezet a Hhvtv. 42. § (1) bekezdésében foglalt nyilvántartási kötelezettségének teljesítése érdekében, az állami horgászjegy kiadását megelőzően a Hhvtv. 42. § (2) bekezdés a)–c) pontjaiban felsorolt adatokat a megbízási szerződésben foglaltak szerint, haladéktalanul rögzíti a horgászszövetség a nyilvántartásában. Kivételt képeznek az előre nem látott és a forgalmazással megbízott horgászszervezetnek fel nem róható helyzetek, amelyekről a horgászszövetséget haladéktalanul értesítenie kell.
 
@@ -10,9 +10,9 @@
 
 (6) A forgalmazással megbízott horgászszervezet az általa gyűjtött és feldolgozott fogási naplókat köteles az adatfeldolgozást követő év utolsó napjáig megőrizni és azokba a halgazdálkodási hatóság, illetve a horgászszövetség számára betekintést biztosítani.
 
-(7)[^96]
+(7)[^99]
 
 (8) Állami horgászjegy forgalmazására csak a 22. § (1) bekezdés szerinti regisztrációt is biztosítani tudó horgászszervezetek jogosultak.
 
-[^95]: A 20. § a 45/2018. (XII. 28.) AM rendelet 14. §-ával megállapított szöveg.
-[^96]: A 20. § (7) bekezdését az 5/2021. (II. 23.) AM rendelet 18. § c) pontja hatályon kívül helyezte.
+[^98]: A 20. § a 45/2018. (XII. 28.) AM rendelet 14. §-ával megállapított szöveg.
+[^99]: A 20. § (7) bekezdését az 5/2021. (II. 23.) AM rendelet 18. § c) pontja hatályon kívül helyezte.

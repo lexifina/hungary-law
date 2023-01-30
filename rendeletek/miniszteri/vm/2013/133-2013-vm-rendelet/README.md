@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-133-20-
 | 2021-03-03 | 2013-133-20-2Y.17 | 5/2021. (II. 23.) AM rendelet |
 | 2021-12-28 | 2013-133-20-2Y.18 | 47/2021. (XII. 13.) AM rendelet |
 | 2023-01-01 | 2013-133-20-2Y.19 | 46/2020. (IX. 23.) AM rendelet |
+| 2023-01-30 | 2013-133-20-2Y.20 | 3/2023. (I. 27.) AM rendelet |

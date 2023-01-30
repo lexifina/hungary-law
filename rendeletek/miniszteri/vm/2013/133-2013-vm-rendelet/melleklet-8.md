@@ -1,4 +1,4 @@
-8. melléklet a 133/2013. (XII. 29.) VM rendelethez[^242]
+8. melléklet a 133/2013. (XII. 29.) VM rendelethez[^249]
 
 I. rész
 
@@ -14,11 +14,11 @@ I. rész
 
 | vörösszárnyú keszeg | Scardinius erythrophthalmus | X |  |  |  |
 
-| domolykó | Leuciscus cephalus | X |  |  |  |
+| domolykó | Squalius cephalus / Leuciscus cephalus | X |  |  |  |
 
 | jászkeszeg | Leuciscus idus | X |  |  |  |
 
-| balin | Aspius aspius | X |  | X |  |
+| balin | Leuciscus aspius / Aspius aspius | X |  | X |  |
 
 | szélhajtó küsz | Alburnus alburnus | X |  |  |  |
 
@@ -48,7 +48,7 @@ I. rész
 
 | csuka | Esox lucius | X |  |  |  |
 
-| sebes pisztráng | Salmo trutta | X |  |  |  |
+| sebes pisztráng | Salmo trutta m. fario | X |  |  |  |
 
 | menyhal | Lota lota | X |  |  |  |
 
@@ -62,4 +62,4 @@ I. rész
 
 II. rész
 
-[^242]: A 8. melléklet a 44/2014. (IV. 14.) VM rendelet 25. § f) pontja szerint módosított, a 45/2018. (XII. 28.) AM rendelet 33. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 36. § (3) bekezdését.
+[^249]: A 8. melléklet a 44/2014. (IV. 14.) VM rendelet 25. § f) pontja szerint módosított, a 45/2018. (XII. 28.) AM rendelet 33. § (2) bekezdése, a 3/2023. (I. 27.) AM rendelet 7. § d)-e) pontja szerint módosított szöveg.

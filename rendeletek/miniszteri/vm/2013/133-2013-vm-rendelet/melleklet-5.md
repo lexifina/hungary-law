@@ -1,3 +1,3 @@
-5. melléklet a 133/2013. (XII. 29.) VM rendelethez[^239]
+5. melléklet a 133/2013. (XII. 29.) VM rendelethez[^246]
 
-[^239]: Az 5. mellékletet a 45/2018. (XII. 28.) AM rendelet 35. § e) pontja hatályon kívül helyezte.
+[^246]: Az 5. mellékletet a 45/2018. (XII. 28.) AM rendelet 35. § e) pontja hatályon kívül helyezte.

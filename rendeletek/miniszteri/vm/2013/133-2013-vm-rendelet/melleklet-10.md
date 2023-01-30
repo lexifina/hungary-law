@@ -1,41 +1,39 @@
-| magyar név | fajlagos tilalmi időszak | kifogható halak mérettartománya | naponta kifogható darabszám |
+|  | A. | B. | C. | D. |
 
-| csuka | 02. 01 – 03. 31. | legalább 40 cm | 3 db |
+| 1. | magyar név | fajlagos tilalmi időszak | kifogható halak mérettartománya | naponta kifogható darabszám, illetve mennyiség |
 
-| balin | 03. 01 – 04. 30. | legalább 40 cm | 3 db |
+| 2. | csuka | 02. 01. – 03. 31. | legalább 40 cm | 3 db |
 
-| sügér | 03. 01 – 04. 30. | legalább 15 cm | * |
+| 3. | balin | 03. 01. – 04. 30. | legalább 40 cm | 3 db |
 
-| fogassüllő | 03. 01 – 04. 30. | legalább 30 cm | 3 db |
+| 4. | sügér | 03. 01. – 04. 30. | legalább 15 cm | 3 kg |
 
-| kősüllő | 03. 01 – 06. 30. | legalább 25 cm | 3 db |
+| 5. | fogassüllő | 03. 01. – 04. 30. | legalább 30 cm | 3 db |
 
-| garda | 04. 15 – 05. 31. | legalább 20 cm |  |
+| 6. | kősüllő | 03. 01. – 06. 30. | legalább 25 cm | 3 db |
 
-| domolykó | 04. 15 – 05. 31. | legalább 25 cm | * |
+| 7. | garda | 04. 15. – 05. 31. | legalább 20 cm | 3 kg |
 
-| jászkeszeg | 04. 15 – 05. 31. | legalább 20 cm |  |
+| 8. | domolykó | 04. 15. – 05. 31. | legalább 25 cm | 3 kg |
 
-| szilvaorrú keszeg | 04. 15 – 05. 31. | legalább 20 cm |  |
+| 9. | jászkeszeg | 04. 15. – 05. 31. | legalább 20 cm | 3 kg |
 
-| paduc | 04. 15 – 05. 31. | legalább 20 cm |  |
+| 10. | szilvaorrú keszeg | 04. 15. – 05. 31. | legalább 20 cm | 3 kg |
 
-| márna | 04. 15 – 05. 31. | legalább 40 cm | 3 db |
+| 11. | paduc | 04. 15. – 05. 31. | legalább 20 cm | 3 kg |
 
-| ponty | 05. 02 – 05. 31. | legalább 30 cm | 3 db |
+| 12. | márna | 04. 15. – 05. 31. | legalább 40 cm | 3 db |
 
-| compó | 05. 02 – 06. 15. | legalább 25 cm | 3 db |
+| 13. | ponty | 05. 02. – 05. 31. | legalább 30 cm | 3 db |
 
-| harcsa | 05. 02 – 06. 15. | legalább 60 cm, fajlagos tilalmi időszakban legalább 100 cm | 3 db |
+| 14. | compó | 05. 02. – 06. 15. | legalább 25 cm | 3 db |
 
-| sebes pisztráng | 10. 01 – 03. 31. | legalább 22 cm | 3 db |
+| 15. | harcsa | 05. 02. – 06. 15. | legalább 60 cm | 3 db |
 
-| menyhal | – | legalább 25 cm | * |
+| 16. | sebes pisztráng | 10. 01. – 03. 31. | legalább 22 cm | 3 db |
 
-## A naponta kifogható darabszámmal is védett halfajokból egy személy érvényes állami horgászjeggyel, turista állami horgászjeggyel vagy állami halászjeggyel évente együttesen és összesen legfeljebb 100 darabot foghat ki. A meghatározott kifogható mennyiség az adott személyre vonatkozik, így nem állami vagy területi jegy típusonként értendő.
+| 17. | menyhal | – | legalább 25 cm | 3 kg |
 
-## * Menyhal, sügér és domolykó esetében a naponta kifogható mennyiség darabszámtól függetlenül 3 kg.
+10. melléklet a 133/2013. (XII. 29.) VM rendelethez[^251]
 
-10. melléklet a 133/2013. (XII. 29.) VM rendelethez[^244]
-
-[^244]: A 10. mellékletet a 45/2018. (XII. 28.) AM rendelet 35. § e) pontja hatályon kívül helyezte.
+[^251]: A 10. mellékletet a 45/2018. (XII. 28.) AM rendelet 35. § e) pontja hatályon kívül helyezte.
