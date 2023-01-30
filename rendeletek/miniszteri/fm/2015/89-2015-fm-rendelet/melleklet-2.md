@@ -1,4 +1,4 @@
-## 2X10332M.docx
+## 3X00404M.docx
 
 | Értékelési szempontok | Elérhető pontszám |
 
@@ -26,23 +26,29 @@
 
 | csatolva | 3 |
 
-| 3. Pályázó lakhelye (1/1–2.), székhelye, illetve telephelye (1/3–6.) és a megpályázott nyilvántartott halgazdálkodási vízterület közúton vagy közforgalom elől el nem zárt magánúton mért távolsága (a legkedvezőbbet kell figyelembe venni): | 0–10 km | 6 |
+| 3. Pályázó lakhelye (1/1–2.), székhelye, illetve telephelye (1/3–6.) és a megpályázott nyilvántartott halgazdálkodási vízterület közúton vagy közforgalom elől el nem zárt magánúton mért távolsága (a legkedvezőbbet kell figyelembe venni): | nyilvántartott halgazdálkodási vízterület partján (legalább heti 40 órás nyitvatartási/ ügyfélfogadási idővel) | 6 |
 
-| 10–50 km | 3 |
+| 0–10 km | 3 |
+
+| 10–50 km | 2 |
 
 | 50 km-nél távolabb | 0 |
 
 | 4.1. Pályázó vagy főállású alkalmazottja, illetve – a haszonbérleti időszak teljes időtartama alatt – szerződött partnere, állandó megbízottja halgazdálkodási szakirányú végzettséggel rendelkezik: | nem rendelkezik | 0 |
 
-| középfokú | 3 |
+| középfokú | 2 |
 
-| 133/2013. (XII. 29.) VM r. 32 § (1) szerinti felsőfokú | 6 |
+| felsőfokú | 4 |
+
+| felsőfokú, főállású alkalmazottként | 6 |
 
 | 4.2. Pályázó vagy főállású alkalmazottja halgazdálkodási gyakorlattal rendelkezik: | nem rendelkezik | 0 |
 
-| 5 évnél rövidebb gyakorlat | 3 |
+| 5 évnél rövidebb gyakorlat | 2 |
 
-| 5 évnél hosszabb gyakorlat | 6 |
+| 5 évnél hosszabb gyakorlat | 4 |
+
+| 5 évnél hosszabb gyakorlat, főállású alkalmazott esetében | 6 |
 
 | 5.1 Pályázó a pályázott halgazdálkodási vízterületre előírtakon túl további halőrzést vállal, illetve biztosít [a b) és c) nem additív, mindkettő fennállása esetén a c) szerinti pont számítandó]: | a) nem biztosít | 0 |
 
@@ -96,6 +102,8 @@
 
 | szerződéses kapcsolat létezik | 3 |
 
+| több szerződéses kapcsolat létezik | 5 |
+
 | II./B – a halgazdálkodáshoz kapcsolódó vállalások | 1–25 |
 
 | 8. A halgazdálkodási terv keretében a vízterületre kötelező előírásokon túli, szakmailag indokolt és ellenőrizhető – a haszonbérlet teljes időtartamára érvényes – vállalások: | nincs ilyen vállalás | 0 |
@@ -106,6 +114,6 @@
 
 | MINDÖSSZESEN |  | 1–100 |
 
-2. melléklet a 89/2015. (XII. 22.) FM rendelethez[^22]
+2. melléklet a 89/2015. (XII. 22.) FM rendelethez[^23]
 
-[^22]: A 2. mellékletet az 5/2021. (II. 23.) AM rendelet 19. § b) pontja hatályon kívül helyezte.
+[^23]: A 2. mellékletet az 5/2021. (II. 23.) AM rendelet 19. § b) pontja hatályon kívül helyezte.

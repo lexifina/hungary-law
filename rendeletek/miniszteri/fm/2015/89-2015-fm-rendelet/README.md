@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-89-20-1
 | 2021-03-03 | 2015-89-20-11.7 | 5/2021. (II. 23.) AM rendelet |
 | 2021-08-21 | 2015-89-20-11.8 | 28/2021. (VIII. 18.) AM rendelet |
 | 2023-01-01 | 2015-89-20-11.9 | 143/2022. (XII. 27.) AM rendelet |
+| 2023-01-30 | 2015-89-20-11.10 | 3/2023. (I. 27.) AM rendelet |
