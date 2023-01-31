@@ -41,5 +41,5 @@ n)[^12] felelős annak megállapításáért, hogy az irányítási és ellenőr
 (3)[^14] Az audit hatóság feladatait az Európai Támogatásokat Auditáló Főigazgatóságról és a kondicionalitási eljárás eredményes lezárása érdekében az Európai Bizottság kérésére elfogadott egyes törvények módosításáról szóló 2022. évi XLIV. törvény kijelölése alapján az Európai Támogatásokat Auditáló Főigazgatóság látja el.
 
 [^12]: A 13. § (1) bekezdés n) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 8. pontja szerint módosított szöveg.
-[^13]: A 13. § (2) bekezdését a 615/2022. (XII. 29.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
+[^13]: A 13. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 9. pontja szerint módosított szöveg. A 13. § (2) bekezdését a 615/2022. (XII. 29.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
 [^14]: A 13. § (3) bekezdése a 615/2022. (XII. 29.) Korm. rendelet 21. §-ával megállapított szöveg.

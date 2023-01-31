@@ -1,3 +1,1 @@
-241. §[^70]
-
-[^70]: A 241. § a 236. § (4) bekezdés alapján 2023. január 31-én lép hatályba.
+241. § A 2. melléklet helyébe a 3. melléklet lép.

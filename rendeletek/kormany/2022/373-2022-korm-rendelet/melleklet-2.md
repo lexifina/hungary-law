@@ -10,11 +10,11 @@
 
 | 5. | IV. Vízgazdálkodás | Miniszterelnökség | területfejlesztési miniszter | Belügyminisztérium1, Agrárminisztérium | Nincs |
 
-| 6. | V. Fenntartható zöld közlekedés | Miniszterelnökség | területfejlesztési miniszter | Építési és Közlekedési Minisztérium[^74] | Nincs |
+| 6. | V. Fenntartható zöld közlekedés | Miniszterelnökség | területfejlesztési miniszter | Építési és Közlekedési Minisztérium[^73] | Nincs |
 
-| 7. | VI. Energetika (zöld átállás) | Miniszterelnökség | területfejlesztési miniszter | Energiaügyi Minisztérium[^75] | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság, Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Emberi Erőforrás Támogatáskezelő |
+| 7. | VI. Energetika (zöld átállás) | Miniszterelnökség | területfejlesztési miniszter | Energiaügyi Minisztérium[^74] | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság, Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Emberi Erőforrás Támogatáskezelő |
 
-| 8. | VII. Átállás a körforgásos gazdaságra | Miniszterelnökség | területfejlesztési miniszter | Energiaügyi Minisztérium[^76] | Nincs |
+| 8. | VII. Átállás a körforgásos gazdaságra | Miniszterelnökség | területfejlesztési miniszter | Energiaügyi Minisztérium[^75] | Nincs |
 
 | 9. | VIII. Egészségügy | Miniszterelnökség | területfejlesztési miniszter | Belügyminisztérium | Nincs |
 
@@ -22,7 +22,7 @@
 
 ## 1 Szakmai koordinációra kijelölt minisztérium
 
-2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez
+2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^76]
 
 Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
@@ -54,7 +54,7 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 3.1. azonosító
 
-3.2.[^77] kedvezményezett azonosító
+3.2. végső kedvezményezett azonosító
 
 3.3. konzorciumi tagok:
 
@@ -88,9 +88,27 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 4.5. szerződés aláírásának dátuma
 
-4.6. szerződés elnevezése
+4.6. szerződéshez kapcsolódó leírás
 
 4.7. szerződés összege
+
+4.8. információ a szerződés kiegészítéseihez:
+
+4.8.1. szerződés kiegészítés teljes összege
+
+4.8.2. kiegészítések száma
+
+4.9. szerződés teljesítésében részt vevő szakértők (amennyiben releváns):
+
+4.9.1. keresztnév
+
+4.9.2. vezetéknév
+
+4.9.3. születési dátum
+
+4.10. konzorciumi partner:
+
+4.10.1. konzorciumi partner azonosító
 
 5. Alvállalkozókra vonatkozó adatok:
 
@@ -100,7 +118,7 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 5.3. alvállalkozó azonosító
 
-6.[^78] Jogi személyek (kedvezményezett, konzorciumi tag, szállító, alvállalkozó releváns adatai):
+6. Jogi személyek (végső kedvezményezett, konzorciumi tag, szállító, alvállalkozó releváns adatai):
 
 6.1. név
 
@@ -122,13 +140,13 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 8. Tényleges tulajdonosokra vonatkozó adatok:
 
-8.1.[^79] kedvezményezett tényleges tulajdonosának vezetékneve
+8.1. végső kedvezményezett tényleges tulajdonosának vezetékneve
 
-8.2.[^80] kedvezményezett tényleges tulajdonosának keresztneve
+8.2. végső kedvezményezett tényleges tulajdonosának keresztneve
 
-8.3.[^81] kedvezményezett tényleges tulajdonosának születési dátuma
+8.3. végső kedvezményezett tényleges tulajdonosának születési dátuma
 
-8.4.[^82] kedvezményezett tényleges tulajdonosának adószáma
+8.4. végső kedvezményezett tényleges tulajdonosának adószáma
 
 8.5. szállító tényleges tulajdonosának vezetékneve
 
@@ -136,12 +154,7 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 8.7. szállító tényleges tulajdonosának születési dátuma
 
-[^74]: Az 1. mellékletben foglalt táblázat D:6 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^75]: Az 1. mellékletben foglalt táblázat D:7 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^76]: Az 1. mellékletben foglalt táblázat D:8 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
-[^77]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 3. pont 3.2. alpontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
-[^78]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 6. pontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
-[^79]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 8. pont 8.1. alpontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
-[^80]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 8. pont 8.2. alpontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
-[^81]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 8. pont 8.3. alpontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
-[^82]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint 2. melléklet 8. pont 8.4. alpontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
+[^73]: Az 1. mellékletben foglalt táblázat D:6 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^74]: Az 1. mellékletben foglalt táblázat D:7 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^75]: Az 1. mellékletben foglalt táblázat D:8 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^76]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
