@@ -1,21 +1,29 @@
 13. §[^40] (1) A NEAK 2023. február 1. napjától ellátja
 
-a) mindazon feladatokat, amelyek 2023. január 31-ig a Belügyminisztérium egészségügyi finanszírozásért és fejlesztésért felelős helyettes államtitkára által irányított Egészségbiztosítási Alap Kontrolling Főosztály, Nemzeti Egészségbiztosítási Alapkezelő Működtetésért Felelős Főosztály szervezeti egységek feladatkörébe tartoztak, valamint
+a) mindazon feladatokat, amelyek 2023. január 31-ig a Belügyminisztérium egészségügyi finanszírozásért és fejlesztésért felelős helyettes államtitkára által irányított Egészségbiztosítási Alap Kontrolling Főosztály, Nemzeti Egészségbiztosítási Alapkezelő Működtetésért Felelős Főosztály szervezeti egységek feladatkörébe tartoztak,
 
-b) a NEAK gazdálkodásával kapcsolatos feladatokat.
+b) a NEAK – ideértve az E. Alapba tartozó ingó és ingatlan vagyont is – vagyongazdálkodásával, kezelésével és üzemeltetésével kapcsolatos operatív és koordinációs feladatokat, valamint
 
-(2) Az (1) bekezdés szerinti feladatokhoz kapcsolódó
+c) az egészségügyi ágazati bérfejlesztéssel, bérkiegészítés támogatással, jövedelem kiegészítéssel, fiatal szakorvosi támogatással kapcsolatos feladatokat.
 
-a) központi költségvetési források,
+(2) Az (1) bekezdés szerinti feladatok tekintetében a Belügyminisztérium jogutódja a NEAK.
 
-b) foglalkoztatotti állomány,
+(3) A jogutódlás kiterjed
 
-c) tárgyi eszközök,
+a) a vagyoni jogokra és kötelezettségekre,
 
-d) vagyoni jogok és kötelezettségek
+b) az átvételre kerülő feladatok ellátásához szükséges ingó és ingatlan eszközállományra,
 
-tekintetében a Belügyminisztérium jogutódja a NEAK.
+c) az (1) bekezdés szerinti feladatokat ellátó kormánytisztviselők, más kormányzati szolgálati jogviszonyban állók, illetve munkavállalók feletti munkáltatói jogok, valamint a munkavégzésre irányuló egyéb jogviszonyban foglalkoztatottakkal kapcsolatos jogok gyakorlására és kötelezettségek teljesítésére, valamint a kormányzati szolgálati jogviszonyukra, munkaviszonyukra és munkavégzésre irányuló egyéb jogviszonyukra,
 
-(3) A Belügyminisztérium és a NEAK a feladatok átadásáról átadás-átvételi megállapodást köt.
+d) az átvételre kerülő feladatokhoz kapcsolódó központi költségvetési források felhasználására.
 
-[^40]: A 13. §-t újonnan a 630/2022. (XII. 30.) Korm. rendelet 23. §-a iktatta be.
+(4) A jogutód szerv a jogelőd szerv jogutódjaként jogosult a (3) bekezdés szerinti jogviszonyok vonatkozásában
+
+a) eljárni a jogtalanul igénybe vett vagy visszafizetésre meghatározott összegek beszedése érdekében,
+
+b) jogutódként belépni a folyamatban lévő peres és nemperes eljárásokba.
+
+(5) A Belügyminisztérium és a NEAK a feladatok átadásáról átadás-átvételi megállapodást köt.
+
+[^40]: A 13. §-t újonnan a 630/2022. (XII. 30.) Korm. rendelet 23. §-a iktatta be, szövege a 19/2023. (I. 30.) Korm. rendelet 8. §-ával megállapított szöveg.
