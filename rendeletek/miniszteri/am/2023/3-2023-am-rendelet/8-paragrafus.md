@@ -1,1 +1,3 @@
-8. § Hatályát veszti a Vhr. 28. § (10) bekezdésében a „ , turista állami horgászjeggyel” szövegrész.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

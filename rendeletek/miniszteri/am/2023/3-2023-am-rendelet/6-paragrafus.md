@@ -1,7 +1,3 @@
-6. § A Vhr.
+6. §[^7]
 
-a) 1. melléklete helyébe az 1. melléklet,
-
-b) 9. melléklete helyébe a 2. melléklet
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

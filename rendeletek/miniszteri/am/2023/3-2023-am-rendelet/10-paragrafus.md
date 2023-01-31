@@ -1,1 +1,3 @@
-10. § A 89/2015. (XII. 22.) FM rendelet 12. § (2) bekezdésében az „elektronikus formában, valamint” szövegrész helyébe az „elektronikus formában vagy” szöveg lép.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

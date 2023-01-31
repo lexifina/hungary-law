@@ -1,3 +1,3 @@
-5. § A Vhr. 36. §-a a következő (5a) bekezdéssel egészül ki:
+5. §[^6]
 
-„(5a) A horgászszövetség a leadott fogási naplók nyilvántartott halgazdálkodási vízterületenkénti és azon belül halfaj és horgásznapok szerinti összesített adatait évente június 30-ig megküldi az Országos Halgazdálkodási Adattárat működtető, országos illetékességű halgazdálkodási hatóság részére.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
