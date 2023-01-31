@@ -1,0 +1,1 @@
+7. § A befolyás alatt álló gazdálkodó szervezet vagyontárgyain a felszámolás kezdő időpontjától számított 60 napig nem alapítható zálogjog, és vagyontárgyai egyéb módon sem terhelhetőek meg. Az e tilalom ellenére kötött jogügylet semmis.
