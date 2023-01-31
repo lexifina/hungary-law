@@ -16,7 +16,7 @@
 
 | 8. |  |  |
 
-| 9. | Bács-Kiskun Megyei Kórház a Szegedi Orvostudományi Egyetem Általános Orvostudományi Kar Oktató Kórháza | Kecskemét |
+| 9. | Bács-Kiskun Vármegyei Kórház a Szegedi Orvostudományi Egyetem Általános Orvostudományi Kar Oktató Kórháza | Kecskemét |
 
 | 10. | Bajai Szent Rókus Kórház | Baja |
 
@@ -26,15 +26,15 @@
 
 | 13. | Balatonfüredi Városi Szakorvosi Rendelőintézet | Balatonfüred |
 
-| 14. | Barcs Város Önkormányzata Járóbetegellátó Intézmények | Barcs |
+| 14. | Kistérségi Járóbetegellátó Központ | Barcs |
 
 | 15. | Batthyány Kázmér Szakkórház | Kisbér |
 
 | 16. | Battonya Város Egészségügyi és Szociális Ellátó Szervezet | Battonya |
 
-| 17. | Békés Megyei Körös-menti Szociális Centrum | Mezőkovácsháza |
+| 17. |  |  |
 
-| 18. | Békés Megyei Központi Kórház | Gyula |
+| 18. | Békés Vármegyei Központi Kórház | Gyula |
 
 | 19. | Békési Gyógyászati Központ és Gyógyfürdő | Békés |
 
@@ -50,7 +50,7 @@
 
 | 25. | Bonyhádi Kórház és Rendelőintézet | Bonyhád |
 
-| 26. | Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház | Miskolc |
+| 26. | Borsod-Abaúj-Zemplén Vármegyei Központi Kórház és Egyetemi Oktatókórház | Miskolc |
 
 | 27. | Budai Irgalmasrendi Kórház | Budapest |
 
@@ -58,7 +58,7 @@
 
 | 29. | Budapest Főváros XIX. Ker. Önkormányzat Kispesti Egészségügyi Intézete | Budapest |
 
-| 30. | Budapest Főváros XV. Kerületi Önkormányzat Egészségügyi Intézménye | Budapest |
+| 30. | Budapest Főváros XV. kerület Önkormányzat Dr. Vass László Egészségügyi Intézmény | Budapest |
 
 | 31. | Budapest Főváros XXIII. kerület Soroksár Önkormányzatának Dr. Nádor Ödön Egészségügyi Intézménye | Budapest |
 
@@ -78,11 +78,11 @@
 
 | 39. | Csolnoky Ferenc Kórház | Veszprém |
 
-| 40. | Csongrád-Csanád Megyei Dr. Bugyi István Kórház | Szentes |
+| 40. | Csongrád-Csanád Vármegyei Dr. Bugyi István Kórház | Szentes |
 
-| 41. | Csongrád-Csanád Megyei Egészségügyi Ellátó Központ Hódmezővásárhely- Makó | Hódmezővásárhely |
+| 41. | Csongrád-Csanád Vármegyei Egészségügyi Ellátó Központ Hódmezővásárhely- Makó | Hódmezővásárhely |
 
-| 42. | Csongrád-Csanád Megyei Mellkasi Betegségek Szakkórháza | Deszk |
+| 42. | Csongrád-Csanád Vármegyei Mellkasi Betegségek Szakkórháza | Deszk |
 
 | 43. | Csornai Margit Kórház | Csorna |
 
@@ -118,19 +118,19 @@
 
 | 59. | Dr. Szarka Ödön Egyesített Egészségügyi és Szociális Intézmény | Csongrád |
 
-| 60. | Dr. Tábori Lajos Rendelőintézet | Nyergesújfalu |
+| 60. | Nyergesújfalu Város Önkormányzata | Nyergesújfalu |
 
-| 61. | Dr. Török Sándor Egészségügyi Központ | Balatonboglár |
+| 61. | Balatonboglári Dr. Török Sándor Egészségügyi Központ | Balatonboglár |
 
 | 62. | Dunakeszi-SZTK Egészségügyi és Szociális Közhasznú Nonprofit Kft. | Dunakeszi |
 
-| 63. | Dunavecse Város Önkormányzat Dr. Kolozs Gergely Kistérségi Járóbeteg Szakellátó Centrum és Szociális Intézmény | Dunavecse |
+| 63. | Dunavecse Város Önkormányzat Dr. Kolozs Gergely Kistérségi Egészségügyi Centrum | Dunavecse |
 
 | 64. | Csepreg Város Egészségháza | Csepreg |
 
 | 65. | Egészségügyi Alapellátási Igazgatóság | Nyíregyháza |
 
-| 66. | Egészségügyi Alapellátó Intézmény | Vasvár |
+| 66. | Vasvár Város Önkormányzata | Vasvár |
 
 | 67. | Egészségügyi Központ | Füzesabony |
 
@@ -142,17 +142,17 @@
 
 | 71. | Szántó J. Endre Egyesített Szociális és Egészségügyi Intézet | Szerencs |
 
-| 72. | Ercsi Kistérség Járóbeteg-szakellátó Egészségügyi Központ Kiemelten Közhasznú Nonprofit Kft. | Ercsi |
+| 72. | Ercsi Járóbeteg-szakellátó Egészségügyi Központ Közhasznú Nonprofit Korlátolt Felelősségű Társaság | Ercsi |
 
 | 73. | Európa Egészségház-Baktalórántháza Nonprofit Zrt. | Baktalórántháza |
 
-| 74. | Fejér Megyei Szent György Egyetemi Oktató Kórház | Székesfehérvár |
+| 74. | Fejér Vármegyei Szent György Egyetemi Oktató Kórház | Székesfehérvár |
 
 | 75. | Szent Damján Görögkatolikus Kórház | Kisvárda |
 
-| 76. | Ferencvárosi Egészségügyi Szolgáltató Kiemelkedően Közhasznú Nonprofit Kft. | Budapest |
+| 76. | Ferencvárosi Egészségügyi Szolgáltató Közhasznú Nonprofit Kft. | Budapest |
 
-| 77. | URBS PRO PATIENTE Egészségügyi Fejlesztő és Üzemeltető Közhasznú Nonprofit Kft. | Pomáz |
+| 77. | Boldog Gellért Egészségügyi Közhasznú Nonprofit Kft. | Pomáz |
 
 | 78. | Gazdasági-Mûszaki Ellátó és Szolgáltató Szervezet | Szabadszállás |
 
@@ -186,7 +186,7 @@
 
 | 93. | Jászberényi Szent Erzsébet Kórház | Jászberény |
 
-| 94. | Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház – Rendelőintézet | Szolnok |
+| 94. | Jász-Nagykun-Szolnok Vármegyei Hetényi Géza Kórház – Rendelőintézet | Szolnok |
 
 | 95. | Jávorszky Ödön Kórház | Vác |
 
@@ -266,7 +266,7 @@
 
 | 133. | MEDI-AMB Nonprofit Közhasznú Kft. | Ibrány |
 
-| 134. | Mezőcsáti Kistérségi Egészségfejlesztő Központ Egészségügyi Szolgáltató Kiemelkedően Közhasznú Nonprofit Kft. | Mezőcsát |
+| 134. | Mezőcsáti kistérségi Egészségfejlesztő Központ Egészségügyi Szolgáltató Közhasznú Nonprofit Korlátolt Felelősségű Társaság | Mezőcsát |
 
 | 135. | Mezőtúri Kórház és Rendelőintézet | Mezőtúr |
 
@@ -322,13 +322,13 @@
 
 | 161. | Parádfürdői Állami Kórház | Parádfürdő |
 
-| 162. | Pécs Megyei Jogú Város Egyesített Egészségügyi Intézmények Igazgatósága | Pécs |
+| 162. | Pécs Vármegyei Jogú Város Egyesített Egészségügyi Intézmények Igazgatósága | Pécs |
 
 | 163. | Pécsi Tudományegyetem Klinikai Központ | Pécs |
 
 | 164. | Pécsvárad Város Önkormányzata | Pécsvárad |
 
-| 165. | Pest Megyei Flór Ferenc Kórház | Kistarcsa |
+| 165. | Pest Vármegyei Flór Ferenc Kórház | Kistarcsa |
 
 | 166. | Pestszentlőrinc-Pestszentimre Egészségügyi Szolgáltató Nonprofit Közhasznú Kft. | Budapest |
 
@@ -336,9 +336,9 @@
 
 | 168. | Péterfy Sándor Utcai Kórház-Rendelőintézet | Budapest |
 
-| 169. | Petz Aladár Megyei Oktató Kórház, Győr | Győr |
+| 169. | Petz Aladár Vármegyei Oktató Kórház, Győr | Győr |
 
-| 170. | Pilisvörösvár Városi Önkormányzat Szakorvosi Rendelőintézete | Pilisvörösvár |
+| 170. | Pilisvörösvári Szakrendelő | Pilisvörösvár |
 
 | 171. | Ráckeve Város Szakorvosi Rendelőintézete | Ráckeve |
 
@@ -366,13 +366,13 @@
 
 | 183. | Siófoki Kórház – Rendelőintézet | Siófok |
 
-| 184. | Somogy Megyei Kaposi Mór Oktató Kórház | Kaposvár |
+| 184. | Somogy Vármegyei Kaposi Mór Oktató Kórház | Kaposvár |
 
 | 185. | Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet | Sopron |
 
 | 186. | Sümegi Kistérségi Egészségügyi Szolgálat Közhasznú Nonprofit Kft. | Sümeg |
 
-| 187. | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház | Nyíregyháza |
+| 187. | Szabolcs-Szatmár-Bereg Vármegyei Kórházak és Egyetemi Oktatókórház | Nyíregyháza |
 
 | 188. |  |  |
 
@@ -388,21 +388,21 @@
 
 | 194. | Szegedi Kistérség Többcélú Társulása Egyesített Szociális Intézmény | Szeged |
 
-| 195. | Székesfehérvár Megyei Jogú Város Önkormányzata Humán Szolgáltató Intézet | Székesfehérvár |
+| 195. | Székesfehérvár Vármegyei Jogú Város Önkormányzata Humán Szolgáltató Intézet | Székesfehérvár |
 
 | 196. | Székkutas Községi Önkormányzat | Székkutas |
 
 | 197. | Szent Borbála Kórház | Tatabánya |
 
-| 198. | Szent Imre Kórház | Budapest |
+| 198. | Dél-budai Centrumkórház Szent Imre Egyetemi Oktatókórház | Budapest |
 
 | 199. | Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő | Budapest |
 
-| 200. | Szent Kozma és Damján Rehabilitációs Szakkórház | Visegrád |
+| 200. | Szent Kozma és Damján Rehabilitációs Szakkórház és Gyógyfürdő | Visegrád |
 
 | 201. | Szent László Kórház | Sárvár |
 
-| 202. | Szent Lázár Megyei Kórház | Salgótarján |
+| 202. | Szent Lázár Vármegyei Kórház | Salgótarján |
 
 | 203. | Szent Margit Kórház | Budapest |
 
@@ -436,7 +436,7 @@
 
 | 218. | Toldy Ferenc Kórház és Rendelőintézet | Cegléd |
 
-| 219. | Tolna Megyei Balassa János Kórház | Szekszárd |
+| 219. | Tolna Vármegyei Balassa János Kórház | Szekszárd |
 
 | 220. | Tormay Károly Egészségügyi Központ | Gödöllő |
 
@@ -468,13 +468,13 @@
 
 | 234. | Velencei-tavi Kistérségi Járóbeteg Szakellátó Közhasznú Nonprofit Kft. | Velence |
 
-| 235. | Veszprém Megyei Tüdőgyógyintézet, Farkasgyepû | Farkasgyepû |
+| 235. | Veszprém Vármegyei Tüdőgyógyintézet, Farkasgyepû | Farkasgyepû |
 
 | 236. | XIII. Kerületi Egészségügyi Szolgálat Közhasznú Nonprofit Kft. | Budapest |
 
 | 237. | XVI. Kerület Kertvárosi Egészségügyi Szolgálat | Budapest |
 
-| 238. | Zala Megyei Szent Rafael Kórház | Zalaegerszeg |
+| 238. | Zala Vármegyei Szent Rafael Kórház | Zalaegerszeg |
 
 | 239. | Zirci Erzsébet Kórház – Rendelőintézet | Zirc |
 
@@ -526,7 +526,7 @@
 
 | 263. | Forgács Intézet Egészségügyi és Szolgáltató Kft. | Budapest |
 
-| 264. | KAÁLI Ambuláns Nőgyógyászati Intézet Kft. | Budapest |
+| 264. | DUNAMENTI REK Reprodukciós Központ Korlátolt Felelősségű Társaság | Budapest |
 
 | 265. | Sterilitás Egészségügyi Ellátó Kft. | Budapest |
 
@@ -566,7 +566,9 @@
 
 | 283. | Észak-Pesti Centrum Kórház – Honvédkórház | Budapest |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^106]
+| 284. | Siklósi Kórház Humán-Egészségügyi Szolgáltató Közhasznú Nonprofit Korlátolt Felelősségű Társaság | Siklós |
+
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^109]
 
 Az egészségügyi szakdolgozó munkakörének fizetési osztályba történő besorolása
 
@@ -646,4 +648,4 @@ kötött; valamint
 
 10. „J” fizetési osztályba kell sorolni a 8. MKKR szintű végzettséggel betölthető munkakört, amelynek ellátásához egyetemi (MSc) végzettségre és tudományos fokozatra van szükség.
 
-[^106]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^109]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.

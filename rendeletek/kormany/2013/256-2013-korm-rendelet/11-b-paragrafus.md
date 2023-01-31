@@ -1,3 +1,3 @@
-11/B. §[^53]
+11/B. §[^54]
 
-[^53]: A 11/B. §-t a 359/2016. (XI. 23.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja.
+[^54]: A 11/B. §-t a 359/2016. (XI. 23.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja.

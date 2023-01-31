@@ -38,6 +38,6 @@
 
 | 17 | 49–51 | 84 386 | 271 385 | 271 385 |
 
-7. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^110]
+7. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^113]
 
-[^110]: A 7. mellékletet újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés c) pontja iktatta be, szövege a 139/2019. (VI. 14.) Korm. rendelet 7. § (5) bekezdés a) pontjával megállapított szöveg.
+[^113]: A 7. mellékletet újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés c) pontja iktatta be, szövege a 139/2019. (VI. 14.) Korm. rendelet 7. § (5) bekezdés a) pontjával megállapított szöveg.

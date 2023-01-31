@@ -1,3 +1,3 @@
-11/D. §[^55]
+11/D. §[^56]
 
-[^55]: A 11/D. §-t a 320/2017. (XI. 8.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja.
+[^56]: A 11/D. §-t a 320/2017. (XI. 8.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja.

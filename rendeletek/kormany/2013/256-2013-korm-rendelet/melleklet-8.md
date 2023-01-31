@@ -40,8 +40,8 @@
 
 | 17 | 49–51 | 291 943 | 335 123 | 367 218 | 398 619 | 490 069 | 636 991 | 672 712 | 747 261 | 779 452 | 855 905 |
 
-8. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^111]
+8. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^114]
 
 Egyéb, nem egészségügyi főiskolai végzettséggel rendelkező egészségügyi dolgozók illetmény-, illetve bérnövelése (Ft/hó, bruttó)
 
-[^111]: A 8. mellékletet újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés d) pontja iktatta be, szövege a 139/2019. (VI. 14.) Korm. rendelet 7. § (5) bekezdés b) pontjával megállapított szöveg.
+[^114]: A 8. mellékletet újonnan a 461/2016. (XII. 23.) Korm. rendelet 9. § (2) bekezdés d) pontja iktatta be, szövege a 139/2019. (VI. 14.) Korm. rendelet 7. § (5) bekezdés b) pontjával megállapított szöveg.

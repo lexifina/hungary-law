@@ -60,3 +60,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-256-20-
 | 2022-01-01 | 2013-256-20-22.52 | 139/2019. (VI. 14.) Korm. rendelet |
 | 2022-03-01 | 2013-256-20-22.53 | 64/2022. (II. 28.) Korm. rendelet |
 | 2023-01-01 | 2013-256-20-22.54 | 529/2020. (XI. 28.) Korm. rendelet |
+| 2023-01-31 | 2013-256-20-22.55 | 19/2023. (I. 30.) Korm. rendelet |

@@ -1,3 +1,3 @@
-22. §[^84]
+22. §[^87]
 
-[^84]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^87]: A 22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

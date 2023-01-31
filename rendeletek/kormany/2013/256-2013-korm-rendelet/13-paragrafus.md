@@ -1,5 +1,5 @@
 ## 8. Módosító rendelkezések
 
-13. §[^75]
+13. §[^78]
 
-[^75]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^78]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
