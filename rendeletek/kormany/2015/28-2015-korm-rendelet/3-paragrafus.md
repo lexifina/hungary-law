@@ -44,16 +44,19 @@ of) az egyes eszköztípusok időszakos felülvizsgálatára jogosult gazdasági
 
 og) az MDR 5. cikk (5) bekezdése szerinti orvostechnikai eszközök és az IVDR 5. cikk (2) bekezdése szerinti in vitro diagnosztikai orvostechnikai eszközök gyártásának és használatba adásának hatósági felügyeletét,
 
-p)[^6] lefolytatja a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekkel kapcsolatos engedélyezési eljárásokat és vezeti az ezzel összefüggő nyilvántartásokat,
+oh)[^6] az IVDR 100. cikke szerinti európai uniós referencialaboratóriummá történő kijelöléssel kapcsolatos, az IVDR-ben és az (EU) 2017/746 európai parlamenti és tanácsi rendeletnek az in vitro diagnosztikai orvostechnikai eszközökkel foglalkozó európai uniós referencialaboratóriumok feladatai és a rájuk vonatkozó kritériumok tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2022. június 17-i (EU) 2022/944 bizottsági végrehajtási rendeletben meghatározott tagállami feladatokat,
 
-q)[^7] ellátja a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 161/2016 bizottsági rendeletben meghatározott nemzeti hatósági feladatokat,
+p)[^7] lefolytatja a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekkel kapcsolatos engedélyezési eljárásokat és vezeti az ezzel összefüggő nyilvántartásokat,
 
-r)[^8] ellátja az orvostechnikai eszközök és az in vitro diagnosztikai orvostechnikai eszközök megfelelőség-értékelésére jogosult szervek kijelölésével és felügyeletével kapcsolatos hatásköröket.
+q)[^8] ellátja a 2001/83/EK európai parlamenti és tanácsi irányelvnek az emberi felhasználásra szánt gyógyszerek külső csomagolásán elhelyezendő biztonsági elemekre vonatkozó részletes szabályok meghatározása tekintetében történő kiegészítéséről szóló, 2015. október 2-i (EU) 161/2016 bizottsági rendeletben meghatározott nemzeti hatósági feladatokat,
+
+r)[^9] ellátja az orvostechnikai eszközök és az in vitro diagnosztikai orvostechnikai eszközök megfelelőség-értékelésére jogosult szervek kijelölésével és felügyeletével kapcsolatos hatásköröket.
 
 [^2]: A 3. § a) pontja a 457/2017. (XII. 28.) Korm. rendelet 527. § a) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^3]: A 3. § d) pontját a 164/2020. (IV. 30.) Korm. rendelet 28. §-a hatályon kívül helyezte.
 [^4]: A 3. § l) pontja a 379/2016. (XII. 2.) Korm. rendelet 290. § (8) bekezdése szerint módosított szöveg.
 [^5]: A 3. § o) pontját a 379/2016. (XII. 2.) Korm. rendelet 290. § (1) bekezdése iktatta be, szövege a 135/2022. (IV. 7.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^6]: A 3. § p) pontját a 379/2016. (XII. 2.) Korm. rendelet 290. § (1) bekezdése iktatta be.
-[^7]: A 3. § q) pontját a 250/2017. (IX. 5.) Korm. rendelet 54. §-a iktatta be.
-[^8]: A 3. § r) pontját a 164/2020. (IV. 30.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^6]: A 3. § o) pont oh) alpontját a 19/2023. (I. 30.) Korm. rendelet 6. §-a iktatta be.
+[^7]: A 3. § p) pontját a 379/2016. (XII. 2.) Korm. rendelet 290. § (1) bekezdése iktatta be.
+[^8]: A 3. § q) pontját a 250/2017. (IX. 5.) Korm. rendelet 54. §-a iktatta be.
+[^9]: A 3. § r) pontját a 164/2020. (IV. 30.) Korm. rendelet 24. § (2) bekezdése iktatta be.
