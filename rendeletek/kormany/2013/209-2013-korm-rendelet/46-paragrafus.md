@@ -10,4 +10,8 @@
 
 (3)[^56] E rendeletnek az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról szóló 209/2013. (VI. 18.) Korm. rendelet módosításáról szóló 466/2020. (X. 27.) Korm. rendelettel megállapított 3. § (5) bekezdését és 9/A. §-át első alkalommal a 2021. évre vonatkozó útdíjak megállapítása során kell alkalmazni.
 
+(4)[^57] E rendeletnek az egyes kormányrendeleteknek a közúti infrastruktúra fejlesztésével összefüggő, valamint jogharmonizációs célú módosításáról szóló 67/2022. (II. 28.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 29. §-át az egyetemes útdíjszolgáltató és a szerződött díjfizető között a Módr. hatálybalépését[^58] megelőzően létrejött szerződésekre is alkalmazni kell, azzal, hogy a felek között más módon – a Módr. hatálybalépését megelőzően – létrejött elszámolást e rendelkezések nem érintik.
+
 [^56]: A 46. § (3) bekezdését a 466/2020. (X. 27.) Korm. rendelet 3. §-a iktatta be.
+[^57]: A 46. § (4) bekezdését a 67/2022. (II. 28.) Korm. rendelet 9. § (14) bekezdése iktatta be.
+[^58]: A hatálybalépés időpontja 2022. március 5.
