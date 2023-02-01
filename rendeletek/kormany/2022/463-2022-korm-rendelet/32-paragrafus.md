@@ -1,1 +1,3 @@
-32. § A 373/2022. (IX. 30.) Korm. rendelet 3. melléklet 3. pont 3.2. alpontja, 6. pontja, 8. pont 8.1–8.4. alpontja a „kedvezményezett” szövegrész helyett a „végső kedvezményezett” szöveggel lép hatályba.
+32. §[^33]
+
+[^33]: A 32. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
