@@ -1,0 +1,9 @@
+## „f) tömbösített”
+
+## (szolgálati időrendszerben teljesíti szolgálatát.)
+
+8. § Az 56/2012. (XI. 22.) BM rendelet a következő 43/F. §-sal egészül ki:
+
+„43/F. § (1) A tömbösített szolgálati időrendszer a Hszt. 135/A. § (1) bekezdése szerinti szolgálati beosztásokban alkalmazható. A tömbösített szolgálati időrendszer a hét bármely napján teljesíthető, egyenlőtlenül beosztható, amelyben a napi szolgálatteljesítési idő a Hszt. 135/A. § (1) bekezdése alapján – a Hszt. 135/A. § (2) bekezdésében foglalt heti szolgálatteljesítési idő figyelembevételével – legalább négy óra és legfeljebb tizenhat óra időtartamban határozható meg.
+
+(2) A tömbösített szolgálati időrendszerben a heti pihenőnapoknak naptári hónaponként legalább egy alkalommal vasárnapra kell esniük úgy, hogy hozzájuk szombati vagy hétfői pihenőnap kapcsolódjon.”
