@@ -1,8 +1,8 @@
-1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^284]
+1. melléklet az 56/2012. (XI. 22.) BM rendelethez[^293]
 
 Az Országgyűlési Őrség szolgálati beosztásai
 
-I. Vezetői besorolási osztályba tartozó szolgálati beosztások
+1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D | E |
 
@@ -10,51 +10,21 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | kiemelt vezető | központi szerv vezetője | parancsnok | 550 |  |
+| 3. | kiemelt vezető | központi szerv vezetője | parancsnok |  |  |
 
-| 4. | kiemelt vezető | központi szerv vezetőjének helyettese | parancsnok-helyettes | 550 | 550 |
+| 4. | kiemelt vezető | központi szerv vezetőjének helyettese | parancsnok-helyettes |  |  |
 
-| 5. | középvezető | szakirányító 1 | igazgató | 550 |  |
+| 5. | középvezető | szakirányító 1 | igazgató | 600-800 |  |
 
-| 6. | középvezető | szakirányító 1 | igazgató-helyettes | 550 |  |
+| 6. | középvezető | szakirányító 1 | igazgató-helyettes | 600-800 |  |
 
-| 7. | középvezető | szakirányító 2 | főosztályvezető | 550 | 550 |
+| 7. | középvezető | szakirányító 2 | főosztályvezető | 600-800 | 600-800 |
 
-| 8. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes | 550 650* | 550 |
+| 8. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető- helyettes | 600-800 700-900* | 600-800 |
 
-| 9. | beosztott vezető | főosztályvezető- helyettes 2 | osztályvezető | 550 650* | 550 |
+| 9. | beosztott vezető | főosztályvezető- helyettes 2 | osztályvezető | 600-800 700-900* | 600-800 |
 
-II. Tiszti besorolási osztályba tartozó szolgálati beosztások
-
-|  | A | B | C | D |
-
-| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alapfeladat |
-
-| 3. | D | osztályvezető-helyettes | 500 650* | 500 |
-
-| 4. | D | ügyeletvezető I. | 500 |  |
-
-| 5. | D | ügyeletvezető II. | 450 |  |
-
-| 6. | D | kiemelt főreferens | 500 600* 650* | 450 |
-
-| 7. | D | jogtanácsos |  | 550 |
-
-| 8. | C | kiemelt főelőadó | 500 | 450 |
-
-| 9. | C | kiemelt biztonsági főtiszt | 650 |  |
-
-| 10. | C | főmérnök | 600 |  |
-
-| 11. | B | biztonsági főtiszt | 550 |  |
-
-| 12. | B | mérnök | 400 |  |
-
-| 13. | B | rajparancsnok | 400 |  |
-
-III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
@@ -62,42 +32,74 @@ III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | D | csoportvezető | 500 | 500 |
+| 3. | D | osztályvezető-helyettes | 750 900* | 750 |
 
-| 4. | D | szolgálatparancsnok | 500 |  |
+| 4. | D | ügyeletvezető I. | 750 |  |
 
-| 5. | D | szakreferens | 500 | 450 |
+| 5. | D | ügyeletvezető II. | 700 |  |
 
-| 6. | D | ügyeletes | 450 |  |
+| 6. | D | kiemelt főreferens | 750 850* 900* | 700 |
 
-| 7. | C | szolgálatparancsnok-helyettes | 450 |  |
+| 7. | D | jogtanácsos |  | 800 |
 
-| 8. | C | főreferens | 450 | 400 |
+| 8. | C | kiemelt főelőadó | 750 | 700 |
 
-| 9. | C | technikus | 450 |  |
+| 9. | C | kiemelt biztonsági főtiszt | 900 |  |
 
-| 10. | C | helyszínbiztosító | 650 |  |
+| 10. | C | főmérnök | 850 |  |
 
-| 11. | C | lakásbiztosító | 650 |  |
+| 11. | B | biztonsági főtiszt | 800 |  |
 
-| 12. | C | biztonsági gépkocsivezető | 650 |  |
+| 12. | B | mérnök | 650 |  |
 
-| 13. | B | objektumőr I. | 450 |  |
+| 13. | B | rajparancsnok | 650 |  |
 
-| 13a. | B | járőr I. | 100 |  |
+3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-| 14. | B | beosztott tűzoltó I. | 450 |  |
+|  | A | B | C | D |
 
-| 15. | A | objektumőr II. | 450 |  |
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 15a. | A | járőr II. | 100 |  |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 16. | A | beosztott tűzoltó II. | 450 |  |
+| 3. | D | csoportvezető | 750 | 750 |
 
-IV. Megjegyzések
+| 4. | D | szolgálatparancsnok | 750 |  |
 
-1. 650*: Az Országgyűlési Őrség Személyvédelmi Igazgatóság beosztott vezetői és kiemelt főreferense esetében a hivatásos pótlék mértéke 650%.
+| 5. | D | szakreferens | 750 | 700 |
 
-2. 600*: Az Országgyűlési Őrség Híradó- és Biztonságtechnikai Osztályán szolgálatot teljesítők esetében a hivatásos pótlék mértéke 600%.
+| 6. | D | ügyeletes | 700 |  |
 
-[^284]: Az 1. melléklet a 34/2018. (XII. 20.) BM rendelet 6. § a) pontjával megállapított, a 38/2020. (X. 14.) BM rendelet 18. § a) pontja szerint módosított szöveg.
+| 7. | C | szolgálatparancsnok-helyettes | 700 |  |
+
+| 8. | C | főreferens | 700 | 650 |
+
+| 9. | C | technikus | 700 |  |
+
+| 10. | C | helyszínbiztosító | 900 |  |
+
+| 11. | C | lakásbiztosító | 900 |  |
+
+| 12. | C | biztonsági gépkocsivezető | 900 |  |
+
+| 13. | B | objektumőr I. | 700 |  |
+
+| 14. | B | járőr I. | 350 |  |
+
+| 15. | B | beosztott tűzoltó I. | 700 |  |
+
+| 16. | A | objektumőr II. | 700 |  |
+
+| 17. | A | járőr II. | 350 |  |
+
+| 18. | A | beosztott tűzoltó II. | 700 |  |
+
+4. Megjegyzések
+
+4.1. 700-900*: Az Országgyűlési Őrség Személyvédelmi Igazgatóság beosztott vezetői tekintetében a hivatásos pótlék mértéke 700-900%.
+
+4.2. 900*: Az Országgyűlési Őrség Személyvédelmi Igazgatóság osztályvezető-helyettese és kiemelt főreferense esetében a hivatásos pótlék mértéke 900%.
+
+4.3. 850*: Az Országgyűlési Őrség Híradó és Biztonságtechnikai Osztályon szolgálatot teljesítők esetében a hivatásos pótlék mértéke 850%.
+
+[^293]: Az 1. melléklet a 2/2023. (I. 30.) BM rendelet 13. §-ával megállapított szöveg.

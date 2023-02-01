@@ -1,9 +1,9 @@
-65/B. § (1)[^163] A szolgálati jelvény megrendeléséért, kiadásáért, cseréjéért, nyilvántartásáért, visszavonásáért és selejtezéséért (a továbbiakban együtt: ellátás), valamint az ezekkel járó költségek biztosításáért a humánigazgatási szakszolgálat felel.
+65/B. § (1)[^170] A szolgálati jelvény megrendeléséért, kiadásáért, cseréjéért, nyilvántartásáért, visszavonásáért és selejtezéséért (a továbbiakban együtt: ellátás), valamint az ezekkel járó költségek biztosításáért a humánigazgatási szakszolgálat felel.
 
-(2)[^164] A szolgálati jelvény kiadására, cseréjére, visszavonására a humánigazgatási szakszolgálat személyi állományparancs, jegyzőkönyv, jelentés vagy szolgálati jegy alapján intézkedik.
+(2)[^171] A szolgálati jelvény kiadására, cseréjére, visszavonására a humánigazgatási szakszolgálat személyi állományparancs, jegyzőkönyv, jelentés vagy szolgálati jegy alapján intézkedik.
 
-(3)[^165] A szolgálati jelvény továbbítását, nyilvántartását és ellenőrzését a személyügyi számítógépes nyilvántartó rendszer adatai alapján a humánigazgatási szakszolgálat végzi.
+(3)[^172] A szolgálati jelvény továbbítását, nyilvántartását és ellenőrzését a személyügyi számítógépes nyilvántartó rendszer adatai alapján a humánigazgatási szakszolgálat végzi.
 
-[^163]: A 65/B. § (1) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § i) pontja szerint módosított szöveg.
-[^164]: A 65/B. § (2) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § j) pontja szerint módosított szöveg.
-[^165]: A 65/B. § (3) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § j) pontja szerint módosított szöveg.
+[^170]: A 65/B. § (1) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § i) pontja szerint módosított szöveg.
+[^171]: A 65/B. § (2) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § j) pontja szerint módosított szöveg.
+[^172]: A 65/B. § (3) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § j) pontja szerint módosított szöveg.

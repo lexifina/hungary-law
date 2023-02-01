@@ -1,4 +1,4 @@
-50. §[^123] (1) A hivatásos állományba történő kinevezéskor meg kell állapítani
+50. §[^130] (1) A hivatásos állományba történő kinevezéskor meg kell állapítani
 
 a) a Hszt. 280. § (1) bekezdése és (4) bekezdés a) pontja alapján
 
@@ -30,4 +30,4 @@ b) a fizetési fokozat megállapításakor a fizetési várakozási időben elt�
 
 (5) A hivatásos állományba visszavett személy esetében a végkielégítésre jogosító hivatásos szolgálati idő kezdetét külön kell megállapítani, és abba csak a korábbi végkielégítést követő, hivatásos szolgálati időnek minősülő időt lehet figyelembe venni.
 
-[^123]: Az 50. § a 38/2020. (X. 14.) BM rendelet 15. §-ával megállapított szöveg.
+[^130]: Az 50. § a 38/2020. (X. 14.) BM rendelet 15. §-ával megállapított szöveg.

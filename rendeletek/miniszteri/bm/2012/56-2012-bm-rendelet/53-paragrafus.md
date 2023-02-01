@@ -1,18 +1,18 @@
 ## 11. Az állományra vonatkozó munkáltatói intézkedések kiadásának rendje
 
-53. § (1)[^124] A szolgálati viszony keletkezésével, módosításával, megszüntetésével kapcsolatos és a szolgálati viszony fennállása alatt tett munkáltatói intézkedéseket – ha jogszabály eltérően nem rendelkezik – a rendvédelmi szervnél állományparancsban, az Országgyűlés elnökének hatáskörében hozott intézkedéseket határozatban kell elrendelni.
+53. § (1)[^131] A szolgálati viszony keletkezésével, módosításával, megszüntetésével kapcsolatos és a szolgálati viszony fennállása alatt tett munkáltatói intézkedéseket – ha jogszabály eltérően nem rendelkezik – a rendvédelmi szervnél állományparancsban, az Országgyűlés elnökének hatáskörében hozott intézkedéseket határozatban kell elrendelni.
 
 (2) Állományparancsban vagy határozatban kell elrendelni
 
-a)[^125] a szolgálati viszony keletkezését, a kinevezést, a változó szolgálatteljesítési helyre vonatkozó kinevezést a szolgálatteljesítési helyek meghatározásával, a
+a)[^132] a szolgálati viszony keletkezését, a kinevezést, a változó szolgálatteljesítési helyre vonatkozó kinevezést a szolgálatteljesítési helyek meghatározásával, a
 
-b)[^126] a szolgálati hely, a szolgálati beosztás változását, módosítását,
+b)[^133] a szolgálati hely, a szolgálati beosztás változását, módosítását,
 
 c) a besorolást, az előléptetést, az előresorolást,
 
 d) iskolai végzettség megszerzésére vonatkozó előírást,
 
-e)[^127] az elismerést, a jutalmazást,
+e)[^134] az elismerést, a jutalmazást,
 
 f) a fegyelmi eljárással kapcsolatos intézkedéseket,
 
@@ -22,11 +22,11 @@ h) a szolgálati viszony szünetelését,
 
 i) a névváltozás átvezetését,
 
-j)[^128] a rendvédelmi szervek közötti, továbbá a rendvédelmi szerv és a Magyar Honvédség között történő áthelyezést, az ideiglenes átrendelés kivételével az átrendelést, más szervhez vezénylést, a megbízást és a helyettesítést,
+j)[^135] a rendvédelmi szervek közötti, továbbá a rendvédelmi szerv és a Magyar Honvédség között történő áthelyezést, az ideiglenes átrendelés kivételével az átrendelést, más szervhez vezénylést, a megbízást és a helyettesítést,
 
 k) a rendelkezési állományba helyezést, annak megszüntetését,
 
-l)[^129] a szolgálati viszony megszüntetését,
+l)[^136] a szolgálati viszony megszüntetését,
 
 m) a korábbi munkáltatói intézkedés módosítását és
 
@@ -34,7 +34,7 @@ n) mindazokat a döntéseket, amelyek az addig hatályos állományparancs vagy 
 
 (3) Ha a szolgálati beosztás betöltéséhez egyéb szakirányú képzettség megszerzése, szaktanfolyam elvégzése szükséges, annak elvégzését – határidő megjelölésével – a kinevezéskor vagy a szolgálati viszony módosításakor elő kell írni.
 
-(4)[^130] Az állományparancs, valamint a határozat szakszerű előkészítéséért a humánigazgatási szakszolgálat, az abban foglaltak jogszerűségéért az adott munkáltatói jogkört gyakorló elöljáró a felelős.
+(4)[^137] Az állományparancs, valamint a határozat szakszerű előkészítéséért a humánigazgatási szakszolgálat, az abban foglaltak jogszerűségéért az adott munkáltatói jogkört gyakorló elöljáró a felelős.
 
 (5) A munkáltató által egyidejűleg hozott valamennyi intézkedést lehetőség szerint egy állományparancsban vagy határozatban kell elrendelni.
 
@@ -44,10 +44,10 @@ n) mindazokat a döntéseket, amelyek az addig hatályos állományparancs vagy 
 
 (8) Más szerv által kiadott állományparancs vagy határozat intézkedésre megküldött példányait személyi iratként kell kezelni, és az iratkezelési szabályzatnak megfelelően az irattári terv előírásai szerint kell selejtezni.
 
-[^124]: Az 53. § (1) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 9. pontja szerint módosított szöveg.
-[^125]: Az 53. § (2) bekezdés a) pontja a 38/2015. (VI. 18.) BM rendelet 18. § 11. pontja szerint módosított szöveg.
-[^126]: Az 53. § (2) bekezdés b) pontja a 38/2015. (VI. 18.) BM rendelet 17. § 8. pontja szerint módosított szöveg.
-[^127]: Az 53. § (2) bekezdés e) pontjaa 38/2015. (VI. 18.) BM rendelet 17. § 45. pontja szerint módosított szöveg.
-[^128]: Az 53. § (2) bekezdés j) pontja a 81/2012. (XII. 28.) BM rendelet 43. § (4) bekezdés h) pontja, a 38/2015. (VI. 18.) BM rendelet 17. § 32. és 46. pontja szerint módosított szöveg.
-[^129]: Az 53. § (2) bekezdés l) pontja a 38/2015. (VI. 18.) BM rendelet 18. § 12. pontja szerint módosított szöveg.
-[^130]: Az 53. § (4) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § b) pontja szerint módosított szöveg.
+[^131]: Az 53. § (1) bekezdése a 38/2015. (VI. 18.) BM rendelet 17. § 9. pontja szerint módosított szöveg.
+[^132]: Az 53. § (2) bekezdés a) pontja a 38/2015. (VI. 18.) BM rendelet 18. § 11. pontja szerint módosított szöveg.
+[^133]: Az 53. § (2) bekezdés b) pontja a 38/2015. (VI. 18.) BM rendelet 17. § 8. pontja szerint módosított szöveg.
+[^134]: Az 53. § (2) bekezdés e) pontjaa 38/2015. (VI. 18.) BM rendelet 17. § 45. pontja szerint módosított szöveg.
+[^135]: Az 53. § (2) bekezdés j) pontja a 81/2012. (XII. 28.) BM rendelet 43. § (4) bekezdés h) pontja, a 38/2015. (VI. 18.) BM rendelet 17. § 32. és 46. pontja szerint módosított szöveg.
+[^136]: Az 53. § (2) bekezdés l) pontja a 38/2015. (VI. 18.) BM rendelet 18. § 12. pontja szerint módosított szöveg.
+[^137]: Az 53. § (4) bekezdése a 38/2020. (X. 14.) BM rendelet 19. § b) pontja szerint módosított szöveg.
