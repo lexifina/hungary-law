@@ -1,3 +1,5 @@
 ## 1. Az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételéről, valamint a külön meghatározott személyek tekintetében fennálló egészségügyi ellátás rendjéről szóló 175/2007. (VI. 30.) Korm. rendelet módosítása
 
-1. § Az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételéről, valamint a külön meghatározott személyek tekintetében fennálló egészségügyi ellátás rendjéről szóló 175/2007. (VI. 30.) Korm. rendelet 2. § (1) bekezdés a) pontjában a „járandóságban részesülő és biztosított családtagja” szövegrész helyébe a „járandóságban részesülő és biztosított családtagja, továbbá ha jogszabály honvédelmi szolgálati juttatást előír, a jogszabály szerinti honvédelmi szolgálati juttatásban részesülő és biztosított családtagja” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

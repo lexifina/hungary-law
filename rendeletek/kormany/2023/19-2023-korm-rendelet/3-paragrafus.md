@@ -1,9 +1,5 @@
 ## 3. Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet módosítása
 
-3. § Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet (a továbbiakban: R1.) a következő 11/W. §-sal egészül ki:
+3. §[^4]
 
-„11/W. § (1) A 2. mellékletbenfoglalt táblázat A:284 mezőjében meghatározott egészségügyi szolgáltatónak az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, a belügyi ágazathoz tartozó egyes szervek feladatainak és megnevezésének változásáról szóló 19/2023. (I. 30.) Korm. rendelet hatálybalépésének napján jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2022. november 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
-
-(2) Az (1) bekezdés szerinti munkáltató illetmény- vagy bérnövelésre jogosult foglalkoztatottja részére az (1) bekezdés szerinti emelt összegű illetményt (bért) első alkalommal a 2022. november és december, valamint a 2023. január hónapra esedékes illetmény (bér) tekintetében kell megfizetni a 2023. február havi munkabér kifizetésével egyidejűleg.
-
-(3) Az (1) bekezdés szerinti munkáltató a bértámogatási igényének kérelmére a 4. § rendelkezéseit kell megfelelően alkalmazni.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
