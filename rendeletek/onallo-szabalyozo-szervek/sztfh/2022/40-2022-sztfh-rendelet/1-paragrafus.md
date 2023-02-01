@@ -1,5 +1,3 @@
 ## 1. A dohánytermék-kiskereskedelmi tevékenység engedélyezése során lefolytatott eljárásokért fizetendő igazgatási szolgáltatási díjak mértékéről, valamint a díjak beszedésének, kezelésének, nyilvántartásának és visszatérítésének részletes szabályairól szóló 2/2021. (X. 14.) SZTFH rendelet módosítása
 
-1. §[^1]
-
-[^1]: Az 1. § a 47. § (2) bekezdés alapján 2023. február 1-jén lép hatályba.
+1. § A dohánytermék-kiskereskedelmi tevékenység engedélyezése során lefolytatott eljárásokért fizetendő igazgatási szolgáltatási díjak mértékéről, valamint a díjak beszedésének, kezelésének, nyilvántartásának és visszatérítésének részletes szabályairól szóló 2/2021. (X. 14.) SZTFH rendelet 1. § (2) bekezdésében az „engedély módosításáért” szövegrész helyébe az „engedély módosításáért, az ideiglenes kiköltözés engedélyezésére irányuló eljárásért, az ideiglenes kiköltözésre vonatkozó engedély meghosszabbításáért, valamint a dohánytermék-kiskereskedelmi tevékenység szüneteltetésének engedélyezésére irányuló eljárásért” szöveg lép.
