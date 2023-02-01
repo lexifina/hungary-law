@@ -110,6 +110,8 @@ k) az (1) bekezdés m) pontja szerinti adatváltozás-kezelési szolgáltató,
 
 l) az (1) bekezdés n) pontja szerinti SZIN Nonprofit Kft.,
 
+l) a (2) bekezdés h) pontja szerinti ingatlan-nyilvántartás és földhasználati nyilvántartás szervei,
+
 m) az (1) bekezdés i) pontja szerinti bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló törvény szerinti nyilvántartást vezető szerv,
 
 n) a (2) bekezdés f) pontja szerinti gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető szerv
