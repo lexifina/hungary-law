@@ -2,17 +2,17 @@
 
 ## 3. §[^8] A belügyi szervek lakásügyi szervei:
 
-a) központi lakásügyi szerv: a Belügyminisztérium Műszaki Főosztály,
+a)[^9] központi lakásügyi szerv: a Belügyminisztérium,
 
-b)[^9] helyi lakásügyi szerv:
+b)[^10] helyi lakásügyi szerv:
 
 ba) a Belügyminisztérium Pénzügyi Erőforrás-gazdálkodási Főosztály: a Belügyminisztérium hivatali szervezetében a saját dolgozói állomány vonatkozásában,
 
-bb)[^10] a Készenléti Rendőrség: a saját, valamint külön megállapodás alapján az Országos Rendőr-főkapitányság állománya vonatkozásában, továbbá a rendvédelmi technikumok, a Nemzeti Bűnügyi Együttműködési Központ, a Rendőrségi Oktatási és Kiképző Központ, a Repülőtéri Rendőr Igazgatóság, a Nemzetközi Oktatási Központ, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Nemzeti Védelmi Szolgálat, a Nemzeti Szakértői és Kutató Központ dolgozói állománya vonatkozásában,
+bb)[^11] a Készenléti Rendőrség: a saját, valamint külön megállapodás alapján az Országos Rendőr-főkapitányság állománya vonatkozásában, továbbá a rendvédelmi technikumok, a Nemzeti Bűnügyi Együttműködési Központ, a Rendőrségi Oktatási és Kiképző Központ, a Repülőtéri Rendőr Igazgatóság, a Nemzetközi Oktatási Központ, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Nemzeti Védelmi Szolgálat, a Nemzeti Szakértői és Kutató Központ dolgozói állománya vonatkozásában,
 
 bc) a Budapesti Rendőr-főkapitányság: a saját dolgozói állománya vonatkozásában,
 
-bd)[^11] a vármegyei rendőr-főkapitányságok: a saját dolgozói állományuk vonatkozásában,
+bd)[^12] a vármegyei rendőr-főkapitányságok: a saját dolgozói állományuk vonatkozásában,
 
 be) a Nemzetbiztonsági Szakszolgálat: a saját dolgozói állománya vonatkozásában,
 
@@ -22,23 +22,24 @@ bg) a Büntetés-végrehajtás Országos Parancsnoksága: a saját, továbbá a 
 
 bh) a hivatásos katasztrófavédelmi szerv központi szerve (Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság, a továbbiakban: BM OKF): a saját, a területi és a területi jogállású, valamint a helyi szervei dolgozói állománya vonatkozásában, továbbá jogutódként a megszűnt Belügyminisztérium Központi Gazdasági Főigazgatóság e §-ban nem szabályozott ellátási körébe tartozók vonatkozásában,
 
-bi)[^12] az Országos Idegenrendészeti Főigazgatóság: a saját dolgozói állománya vonatkozásában,
+bi)[^13] az Országos Idegenrendészeti Főigazgatóság: a saját dolgozói állománya vonatkozásában,
 
 bj) az Országos Vízügyi Főigazgatóság: a saját dolgozói állománya vonatkozásában,
 
 bk) a vízügyi igazgatóságok a saját dolgozói állományuk vonatkozásában,
 
-bl)[^13]
+bl)[^14]
 
 bm) a Terrorelhárítási Központ: a saját dolgozói állománya vonatkozásában,
 
-bn)[^14] a belügyi szervekhez, valamint a Nemzeti Közszolgálati Egyetem Rendészettudományi Karhoz kirendelt és vezényelt dolgozók vonatkozásában a kirendelés vagy vezénylés szerinti munkáltatói jogkör gyakorlója szerinti, a ba)–bm) alpontban felsorolt szervek.
+bn)[^15] a belügyi szervekhez, valamint a Nemzeti Közszolgálati Egyetem Rendészettudományi Karhoz kirendelt és vezényelt dolgozók vonatkozásában a kirendelés vagy vezénylés szerinti munkáltatói jogkör gyakorlója szerinti, a ba)–bm) alpontban felsorolt szervek.
 
 [^7]: A 2/A. §-t a 31/2018. (XII. 19.) BM rendelet 9. § (3) bekezdése iktatta be.
 [^8]: A 3. § nyitó szövegrésze az 1/2018. (I. 18.) BM rendelet 12. § a) pontja szerint módosított szöveg.
-[^9]: A 3. § b) pontja a 15/2016. (V. 11.) BM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
-[^10]: A 3. § b) pont bb) alpontja a 29/2016. (VII. 15.) BM rendelet 21. § (1) bekezdésével megállapított, a 37/2016. (IX. 1.) BM rendelet 8. §-a, az 58/2016. (XII. 22.) BM rendelet 32. § (2) bekezdés a) pontja, az 1/2018. (I. 18.) BM rendelet 12. § b) pontja, a 18/2020. (VI. 30.) BM rendelet 6. §-a szerint módosított szöveg.
-[^11]: A 3. § b) pont bd) alpontja az 51/2022. (XII. 27.) BM rendelet 2. §-a szerint módosított szöveg.
-[^12]: A 3. § b) pont bi) alpontja a 35/2018. (XII. 21.) BM rendelet 16. §-ával megállapított, a 27/2019. (VI. 28.) BM rendelet 26. § a) pontja szerint módosított szöveg.
-[^13]: A 3. § b) pont bl) alpontját az 58/2016. (XII. 22.) BM rendelet 32. § (3) bekezdése hatályon kívül helyezte.
-[^14]: A 3. § b) pont bn) alpontja a 29/2016. (VII. 15.) BM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^9]: A 3. § a) pontja a 2/2023. (I. 30.) BM rendelet 4. §-ával megállapított szöveg.
+[^10]: A 3. § b) pontja a 15/2016. (V. 11.) BM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
+[^11]: A 3. § b) pont bb) alpontja a 29/2016. (VII. 15.) BM rendelet 21. § (1) bekezdésével megállapított, a 37/2016. (IX. 1.) BM rendelet 8. §-a, az 58/2016. (XII. 22.) BM rendelet 32. § (2) bekezdés a) pontja, az 1/2018. (I. 18.) BM rendelet 12. § b) pontja, a 18/2020. (VI. 30.) BM rendelet 6. §-a szerint módosított szöveg.
+[^12]: A 3. § b) pont bd) alpontja az 51/2022. (XII. 27.) BM rendelet 2. §-a szerint módosított szöveg.
+[^13]: A 3. § b) pont bi) alpontja a 35/2018. (XII. 21.) BM rendelet 16. §-ával megállapított, a 27/2019. (VI. 28.) BM rendelet 26. § a) pontja szerint módosított szöveg.
+[^14]: A 3. § b) pont bl) alpontját az 58/2016. (XII. 22.) BM rendelet 32. § (3) bekezdése hatályon kívül helyezte.
+[^15]: A 3. § b) pont bn) alpontja a 29/2016. (VII. 15.) BM rendelet 21. § (2) bekezdésével megállapított szöveg.
