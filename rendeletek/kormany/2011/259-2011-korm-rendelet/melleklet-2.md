@@ -42,6 +42,8 @@
 
 | 21. | a jogszabály vagy hatóság által előírt beépített tűzjelző vagy tűzoltó berendezés készenlétben tartásának, üzemeltetésének, karbantartásának, felülvizsgálatának hiánya, működésének akadályozása, ha a védett tér 500 m2 feletti alapterületű | 200 000 | 2 000 000 |
 
+| 21a[^85] | a jogszabály vagy hatóság által előírt fokozott üzembiztonságú tűzoltó berendezés készenlétben tartásának, üzemeltetésének, karbantartásának, felülvizsgálatának hiánya, működésének akadályozása | 100 000 | 3 000 000 |
+
 | 22. | tűzjelző vagy tűzoltó berendezés központjának jogszabály vagy hatóság által előírt állandó felügyeletének, tűzátjelzés hiánya | 100 000 | 1 500 000 |
 
 | 23. | jogszabály vagy hatóság által előírt beépített tűzjelző vagy tűzoltó eszköz, felszerelés, készülék, berendezés hibái igazolt megszüntetésének, vagy a megszüntetésre tett intézkedés kezdeményezésének hiánya, ha a hiba észlelése óta több mint 8 nap eltelt | 50 000 | 1 000 000 |
@@ -100,6 +102,7 @@
 
 | 50. | eltérés a tűzvédelmi hatóság által jóváhagyott eltérő műszaki megoldástól, kivéve, ha a jogszabályban, nemzeti szabványban vagy tűzvédelmi műszaki irányelvben foglalt műszaki megoldást alkalmazzák | 50 000 | 1 000 000 |
 
-2. melléklet a 259/2011. (XII. 7.) Korm. rendelethez[^84]
+2. melléklet a 259/2011. (XII. 7.) Korm. rendelethez[^86]
 
-[^84]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^85]: Az 1. mellékletben foglalt táblázat 21a. sorát az 569/2022. (XII. 23.) Korm. rendelet 28. §-a iktatta be.
+[^86]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
