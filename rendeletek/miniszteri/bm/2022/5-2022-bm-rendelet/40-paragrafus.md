@@ -12,7 +12,7 @@ a) két év vagy annál rövidebb volt, legfeljebb hathavi részletfizetés,
 
 b) a két évet meghaladta, legfeljebb tizenkét havi részletfizetés
 
-## engedélyezhető.
+engedélyezhető.
 
 (6) A részletfizetésre irányuló kérelmet a (2) bekezdés szerinti írásbeli felszólítás kézhezvételétől számított tizenöt napon belül az országos parancsnoknak címezve, a központi szakszolgálathoz kell benyújtani.
 

@@ -1,8 +1,6 @@
-## 47. §[^4]
-
 1. melléklet az 5/2022. (III. 31.) BM rendelethez
 
-## A rendvédelmi tisztjelölt kényszerítő eszközzel, egyéni védőeszközzel és egyéni védőfelszereléssel való ellátásának cikkösszetétele
+A rendvédelmi tisztjelölt kényszerítő eszközzel, egyéni védőeszközzel és egyéni védőfelszereléssel való ellátásának cikkösszetétele
 
 1. Az általános rendőrségi feladatok ellátására létrehozott szerv, valamint az idegenrendészeti szerv rendvédelmi tisztjelöltje esetében
 
@@ -45,5 +43,3 @@
 2.6. Mászóöv és tartozékai
 
 2.7. Komplett légzőkészülék
-
-[^4]: A 47. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

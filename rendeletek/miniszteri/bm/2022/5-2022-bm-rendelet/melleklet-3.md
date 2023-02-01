@@ -1,6 +1,6 @@
 3. melléklet az 5/2022. (III. 31.) BM rendelethez
 
-## A rendvédelmi tisztjelölt egyenruházati ellátásának összetétele
+A rendvédelmi tisztjelölt egyenruházati ellátásának összetétele
 
 1. A rendészeti alapfelkészítés kezdetekor, annak végrehajtásához szükséges egyenruházati ellátás
 

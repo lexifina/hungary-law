@@ -6,7 +6,7 @@ a) a Hszt. 285. § (7) bekezdése alapján a próbaidő alatt azonnali hatállya
 
 b) a Hszt. 285/A. § (2) bekezdés a) vagy b) pontja alapján felmentéssel
 
-## történő megszüntetését az országos parancsnok által a központi szakszolgálat személyi állományából kijelölt személy személyzeti megbeszélés keretében közli a rendvédelmi tisztjelölttel, továbbá átadja az erről szóló munkáltatói intézkedést.
+történő megszüntetését az országos parancsnok által a központi szakszolgálat személyi állományából kijelölt személy személyzeti megbeszélés keretében közli a rendvédelmi tisztjelölttel, továbbá átadja az erről szóló munkáltatói intézkedést.
 
 (2) A rendvédelmi tisztjelölti jogviszony (1) bekezdés szerinti megszüntetése érdekében a központi szakszolgálat a megszüntetéshez vezető körülménynek a rendvédelmi szerv tudomására jutását követően haladéktalanul intézkedik.
 

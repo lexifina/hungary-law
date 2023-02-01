@@ -5,3 +5,5 @@
 a) a tisztjelölti szolgálati viszony létesítésétől 2022. július 31. napjáig tartó időszakra a rendvédelmi szerv által jogszabály vagy ösztöndíjszerződés alapján nyújtott képzési költségeket, illetve
 
 b) a 2022. augusztus 1-től a rendvédelmi tisztjelölti jogviszony megszűnéséig tartó időszakra a 38. § (3) bekezdése szerinti képzési költségeket
+
+kell figyelembe venni.

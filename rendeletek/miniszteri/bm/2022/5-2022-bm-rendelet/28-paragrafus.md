@@ -14,7 +14,7 @@ d) temetési segélyre, valamint
 
 e) kegyeleti gondoskodásra
 
-## (a továbbiakban együtt: szociális juttatás) az ott meghatározott feltételek szerint jogosult, a (2) és (3) bekezdés szerinti eltérésekkel.
+(a továbbiakban együtt: szociális juttatás) az ott meghatározott feltételek szerint jogosult, a (2) és (3) bekezdés szerinti eltérésekkel.
 
 (2) A rendvédelmi tisztjelölt szociális segély iránti kérelméről az országos parancsnok dönt. A szociális támogatás mértéke nem haladhatja meg a rendvédelmi illetményalap 250%-ának megfelelő összeget.
 

@@ -6,6 +6,6 @@ b) határrendész és útlevélkezelő rendőrjárőr szakképesítésének vagy
 
 c) tűzoltó szakképesítésének
 
-## megfelelően, a hivatásos szolgálati jogviszonyban állóval együtt teljesíti.
+megfelelően, a hivatásos szolgálati jogviszonyban állóval együtt teljesíti.
 
 (2) A rendvédelmi szerv a tanulmányi osztálytól tájékoztatást kérhet a rendvédelmi tisztjelölt hallgatói jogairól és kötelezettségeiről a rendvédelmi szervnél teljesítendő szolgálat megszervezése érdekében.
