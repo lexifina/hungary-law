@@ -1,6 +1,6 @@
 2. melléklet a 22/2021. (XII. 28.) SZTFH rendelethez
 
-## A nyilvántartás-vezetési és adatszolgáltatási kötelezettséggel érintett adatok köre
+A nyilvántartás-vezetési és adatszolgáltatási kötelezettséggel érintett adatok köre
 
 1. Az adatszolgáltatásra kötelezett személyre vonatkozó adatok:
 

@@ -1,6 +1,6 @@
 4. melléklet a 22/2021. (XII. 28.) SZTFH rendelethez
 
-## A Jöt. szerinti árközzétételi kötelezettséggel érintett dohánygyártmány regisztrációs lapjának tartalma árváltozás esetén
+A Jöt. szerinti árközzétételi kötelezettséggel érintett dohánygyártmány regisztrációs lapjának tartalma árváltozás esetén
 
 1. A termékregisztrátor megnevezése.
 

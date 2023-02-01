@@ -2,26 +2,12 @@
 
 1. melléklet a 22/2021. (XII. 28.) SZTFH rendelethez
 
-## A nyilvántartás-vezetési és adatszolgáltatási kötelezettséggel érintett termékek köre
+A nyilvántartás-vezetési és adatszolgáltatási kötelezettséggel érintett termékek köre
 
 1. Érintett termék
 
-1.1. az Fdvtv. 1. § (1) bekezdése szerinti
-
-a) dohánytermék
-
-b) cigarettahüvely és cigarettapapír,
-
-c) elektronikus cigaretta,
-
-d) utántöltő flakon, patron,
-
-e) nikotinmentes utántöltő flakon,
-
-f) dohányzást imitáló elektronikus eszköz,
-
-g) dohányzást helyettesítő nikotintartalmú termék, valamint
-
-h) az új dohánytermék-kategóriák kiegészítő terméke.
+1.1.[^1] az Fdvtv. 1. § (1) bekezdése szerinti termék,
 
 1.2. a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendeletben meghatározott füstszűrő.
+
+[^1]: Az 1. melléklet 1. pont 1.1. alpontja a 2/2023. (I. 31.) SZTFH rendelet 3. §-ával megállapított szöveg.

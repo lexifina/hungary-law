@@ -8,7 +8,7 @@ b) az Fdvtv. 15/F. §-a szerint szolgáltatott adatokra és azok felhasználás�
 
 c) a jövedéki adóról szóló 2016. évi LXVIII. törvény (a továbbiakban: Jöt.) szerinti dohánygyártmányok árbejelentésére és árközzétételére
 
-## terjed ki.
+terjed ki.
 
 (2) E rendelet alkalmazásában
 

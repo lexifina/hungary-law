@@ -1,6 +1,6 @@
 5. melléklet a 22/2021. (XII. 28.) SZTFH rendelethez
 
-## Az állami adó- és vámhatóság részére heti rendszerességgel továbbított adatok:
+Az állami adó- és vámhatóság részére heti rendszerességgel továbbított adatok:
 
 1. Adatszolgáltatásra kötelezett személy adatai:
 

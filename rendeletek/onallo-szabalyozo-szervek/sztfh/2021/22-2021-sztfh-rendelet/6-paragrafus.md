@@ -1,5 +1,3 @@
-## hozzáférhetővé teszi.
-
 6. § (1) A Hatóság a kiskereskedelmi eladási ár érvénybe lépésének napját megelőző munkanapon 12 órától honlapján közzéteszi a következő adatokat:
 
 a) hatósági azonosító,

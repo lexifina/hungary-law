@@ -1,6 +1,6 @@
 3. melléklet a 22/2021. (XII. 28.) SZTFH rendelethez
 
-## A nyilvántartás-vezetési és adatszolgáltatási kötelezettséggel érintett termékek regisztrációs lapjának tartalmi elemei
+A nyilvántartás-vezetési és adatszolgáltatási kötelezettséggel érintett termékek regisztrációs lapjának tartalmi elemei
 
 1. A bejelentő neve, címe, adószáma, jövedéki típusú engedélyének a száma.
 

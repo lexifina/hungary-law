@@ -9,3 +9,5 @@
 a) az állami adó- és vámhatóság, illetve a dohány-kiskereskedelmi ellátó részére az új ár érvénybe lépésének napját megelőző második munkanapon 12 órától,
 
 b) az adatszolgáltatásra kötelezett személyek részére az új ár érvénybe lépésének napját megelőző munkanapon 0 órától
+
+hozzáférhetővé teszi.
