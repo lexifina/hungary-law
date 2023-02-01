@@ -1,500 +1,10 @@
-2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^30]
+2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^31]
 
 Az általános rendőrségi feladatok ellátására létrehozott szerv szolgálati beosztásai
 
-I. Vezetői besorolási osztályba tartozó szolgálati beosztások
-
-1. Központi szervnél
-
-## 2X05476R_0
-
-|  | A | B | C | D | E |
-
-| 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alap- feladat |
-
-| 3. | kiemelt vezető | központi szerv vezetője | országos rendőrfőkapitány |  |  |
-
-| 4. | központi szerv vezetőjének helyettese | bűnügyi országos rendőrfőkapitány-helyettes |  |  |
-
-| 5. | rendészeti országos rendőrfőkapitány-helyettes |  |  |
-
-| 6. | gazdasági országos rendőrfőkapitány-helyettes |  |  |
-
-| 6a. | kiemelt vezető | központi szerv vezetőjének helyettese | személyügyi országos rendőrfőkapitány-helyettes |  |  |
-
-| 7. | közép- vezető | szakirányító 1 | szolgálatvezető (ORFK humánigazgatási, ellenőrzési, kommunikációs) |  | 100 |
-
-| 8. | hivatalvezető (ORFK) |  | 100 |
-
-| 9. | szakirányító 2 | főosztályvezető | 100 | 100 |
-
-| 10. | főosztályvezető 1 | főtanácsadó (főkapitányi biztos) | 100 | 100 |
-
-| 10a. | főosztályvezető 1 | főtanácsadó | 100 | 100 |
-
-| 11. | beosztott vezető | főosztályvezető-helyettes 1 | főosztályvezető-helyettes | 100 | 100 |
-
-| 12. | irodavezető |  | 100 |
-
-| 13. | főosztályvezető-helyettes 2 | osztályvezető | 100 | 100 |
-
-2. Területi szervnél
-
-## 2X05476R_1
-
-|  | A | B | C | D | E |
-
-| 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alap- feladat |
-
-| 3. | kiemelt vezető | területi szerv vezetője | rendőrfőkapitány | 100 |  |
-
-| 4. | igazgató (RRI) | 100 |  |
-
-| 5. | közép- vezető | szakirányító 2 | igazgató-helyettes (RRI) | 100 | 100 |
-
-| 6. | bűnügyi rendőrfőkapitány-helyettes (MRFK) | 100 |  |
-
-| 7. | rendészeti rendőrfőkapitány-helyettes (MRFK) | 100 |  |
-
-| 8. | gazdasági rendőrfőkapitány-helyettes (MRFK) |  | 100 |
-
-| 9. | főosztályvezető 2 | főosztályvezető | 100 |  |
-
-| 10. | beosztott vezető | főosztályvezető- helyettes 2 | szolgálatvezető (MRFK, RRI humánigazgatási, ellenőrzési, határrendészeti, KHSZ) | 100 | 100 |
-
-| 11. |
-
-| 12. | hivatalvezető |  | 100 |
-
-| 13. | osztályvezető 1 | osztályvezető | 100 | 100 |
-
-3. Helyi szervnél
-
-## 2X05476R_2
-
-|  | A | B | C | D | E |
-
-| 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alap-feladat |
-
-| 3. | közép- vezető | főosztályvezető 1 | kapitányságvezető (kiemelt) | 100 |  |
-
-| 4. | határrendészeti kirendeltségvezető (kiemelt) | 100 |  |
-
-| 5. | főosztályvezető 2 | kapitányságvezető | 100 |  |
-
-| 6. | beosztott vezető | főosztályvezető- helyettes 2 | határrendészeti kirendeltségvezető | 100 |  |
-
-| 7. | kapitányságvezető-helyettes (kiemelt) | 100 |  |
-
-| 8. | osztályvezető 2 | osztályvezető | 100 | 100 |
-
-| 9. | hivatalvezető (kiemelt) |  | 100 |
-
-| 10. | őrsparancsnok (osztály jogállású) | 100 |  |
-
-II. Tiszti besorolási osztályba tartozó szolgálati beosztások
-
-## 2X05476R_3
-
-|  | A | B | C | D | E |
-
-| 1. | szerv | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alap- feladat | nem alap- feladat |
-
-| 3. | központi | E | ügyeletvezető | 150 |  |
-
-| 4. | kiemelt főreferens | 150 | 100 |
-
-| 5. | osztályvezető-helyettes | 150 | 100 |
-
-| 6. | alosztályvezető | 150 | 100 |
-
-| 7. | D | kiemelt főnyomozó | 150 |  |
-
-| 8. | főügyeletes | 150 |  |
-
-| 9. | csoportvezető | 150 | 100 |
-
-| 10. | kiemelt főelőadó | 150 | 100 |
-
-| 11. | kiemelt főellenőr***** | 150 | 100 |
-
-| 12. | C | főnyomozó | 150 |  |
-
-| 13. | ügyeletes | 150 |  |
-
-| 14. | nyomozótiszt | 150 |  |
-
-| 15. | főelőadó | 150 | 100 |
-
-| 16. | területi | E | ügyeletvezető | 100 |  |
-
-| 17. | alosztályvezető | 100 125** | 50 |
-
-| 18. | alosztályvezető (közterületi támogató) | 200 |  |
-
-| 19. | osztályvezető-helyettes | 100 200**** | 50 |
-
-| 20. | titkárságvezető (alosztály jogállású) |  | 50 |
-
-| 21. | főorvos |  | 50 |
-
-| 22. | szolgálatirányító tiszt | 100 200**** |  |
-
-| 23. | sajtószóvivő |  | 100 |
-
-| 24. | D | főügyeletes | 100 |  |
-
-| 25. | alosztályvezető-helyettes | 100 | 50 |
-
-| 26. | alosztályvezető-helyettes (közterületi támogató) | 200 |  |
-
-| 27. | csoportvezető | 100, 125** 200**** | 50 |
-
-| 28. | kiemelt főellenőr***** | 100 | 50 |
-
-| 29. | kiemelt főelőadó | 100 200**** | 50 |
-
-| 30. | kiemelt főmérnök |  | 50 |
-
-| 31. | kiemelt főnyomozó | 100 200**** |  |
-
-| 32. | kiemelt főtechnikus | 100 | 50 |
-
-| 33. | kiemelt fővizsgáló | 100 |  |
-
-| 34. | kiképzésvezető |  | 100 |
-
-| 35. | kiképzésszervező |  | 100 |
-
-| 36. | lőtérvezető |  | 50 |
-
-| 37. | pszichológus (bűnügyi) | 100 |  |
-
-| 38. | szakorvos (bűnügyi) | 100 |  |
-
-| 39. | C | főellenőr***** | 100 | 50 |
-
-| 40. | főelőadó | 100 200**** | 50 |
-
-| 41. | főnyomozó | 100 200**** |  |
-
-| 42. | főrevizor |  | 50 |
-
-| 43. | főtechnikus | 100 | 50 |
-
-| 44. | fővizsgáló | 100 |  |
-
-| 45. | ügyeletes | 100 |  |
-
-| 46. | B | ellenőr ***** | 100 | 50 |
-
-| 47. | előadó I. | 100 | 50 |
-
-| 48. | mérnök |  | 50 |
-
-| 49. | nyomozótiszt | 100 |  |
-
-| 50. | technikustiszt | 100 | 50 |
-
-| 51. | vizsgálótiszt | 100 |  |
-
-| 52. | A | előadó II. | 100 | 50 |
-
-| 53. | helyi | D | alosztályvezető | 100 | 50 |
-
-| 54. | hivatalvezető (alosztály jogállású) |  | 50 |
-
-| 55. | osztályvezető-helyettes | 100 | 50 |
-
-| 56. | őrsparancsnok (alosztály jogállású) | 100 |  |
-
-| 57. | őrsparancsnok-helyettes (osztály jogállású) | 100 |  |
-
-| 58. | szolgálatirányító tiszt | 100 |  |
-
-| 59. | C | alosztályvezető-helyettes | 100 | 50 |
-
-| 60. | csoportvezető | 100 | 50 |
-
-| 61. | kiemelt főelőadó | 100 | 50 |
-
-| 62. | kiemelt főnyomozó | 100 |  |
-
-| 63. | kiemelt főtechnikus | 100 |  |
-
-| 64. | kiemelt fővizsgáló | 100 |  |
-
-| 65. | őrsparancsnok-helyettes (alosztály jogállású) | 100 |  |
-
-| 66. | B | főnyomozó | 100 |  |
-
-| 67. | főtechnikus | 100 |  |
-
-| 68. | fővizsgáló | 100 |  |
-
-| 69. | főelőadó | 100 | 50 |
-
-| 70. | A | nyomozótiszt | 100 |  |
-
-| 71. | technikustiszt | 100 |  |
-
-| 72. | vizsgálótiszt | 100 |  |
-
-| 73. | előadó I. | 100 | 50 |
-
-III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
-
-## 2X05476R_4
-
-|  | A | B | C | D | E |
-
-| 1. | szerv | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alap- feladat |
-
-| 3. | központi | E | csoportparancsnok | 150 | 100 |
-
-| 4. | D | referens | 150 | 100 |
-
-| 5. | C | segédelőadó | 150 | 100 |
-
-| 6. | területi | E | csoportparancsnok | 100 200**** | 50 |
-
-| 7. | őrparancsnok | 100 |  |
-
-| 8. | szolgálatparancsnok | 100 |  |
-
-| 9. | szolgálatparancsnok (közterületi támogató) | 200 |  |
-
-| 10. | D | helyszínelő | 100 |  |
-
-| 11. | helyszínelő és balesetvizsgáló | 100 |  |
-
-| 12. | nyomozó | 100 |  |
-
-| 13. | szakoktató |  | 100 |
-
-| 14. | technikus | 100 125** | 50 |
-
-| 15. | ügyeletes | 100 |  |
-
-| 16. | referens | 100 200**** | 50 |
-
-| 17. | raktárvezető |  | 50 |
-
-| 18. | vizsgáló | 100 |  |
-
-| 19. | kiemelt főhatárrendész | 100 |  |
-
-| 20. | járőrparancsnok | 100 125** 200**** |  |
-
-| 21. | C | fogdafelügyelő | 100 |  |
-
-| 22. | főhatárrendész | 100 125** |  |
-
-| 23. | futár |  | 50 |
-
-| 24. | járőrvezető | 100 125** |  |
-
-| 25. | járőrvezető (közterületi támogató) | 200 |  |
-
-| 26. | kutyavezető | 125 200**** |  |
-
-| 27. | szolgálatparancsnok-helyettes | 100 |  |
-
-| 28. | segédelőadó | 100 | 50 |
-
-| 29. | kiképző |  | 100 |
-
-| 30. | bűnügyi referens | 100 |  |
-
-| 31. | B | fogdaőr | 100 |  |
-
-| 31a. | határrendész | 100 125** |  |
-
-| 32. | járőr | 100 125** |  |
-
-| 33. | járőr (közterületi támogató) | 200 |  |
-
-| 34. | gépjárművezető | 100 | 50 |
-
-| 35. | kísérőőr | 100 |  |
-
-| 36. | bűnügyi segédelőadó | 100 |  |
-
-| 37. | A | objektumőr | 75* 100 |  |
-
-| 38. | járőrtárs | 75* |  |
-
-| 39. | helyi | E | őrparancsnok | 100 |  |
-
-| 40. | szolgálatparancsnok | 100 200**** |  |
-
-| 41. | szolgálatirányító parancsnok | 100 200**** |  |
-
-| 42. | csoportparancsnok | 100 125** |  |
-
-| 43. | D | helyszínelő | 100 |  |
-
-| 44. | helyszínelő és balesetvizsgáló | 100 |  |
-
-| 45. | körzeti megbízott | 100 125** |  |
-
-| 46. | nyomozó | 100 |  |
-
-| 47. | határrendészeti szakértő | 100 200**** |  |
-
-| 48. | szolgálatparancsnok-helyettes | 100 |  |
-
-| 49. | technikus | 100 125** |  |
-
-| 50. | vizsgáló | 100 |  |
-
-| 51. | referens | 100 | 50 |
-
-| 52. | C | segédtechnikus | 100 |  |
-
-| 53. | ügyeletes | 100 |  |
-
-| 54. | kiképző |  | 100 |
-
-| 55. | kiemelt főhatárrendész | 100 125** 200**** 225* |  |
-
-| 56. | járőrparancsnok | 100 125** |  |
-
-| 57. | bűnügyi referens | 100 |  |
-
-| 57a. | hajóvezető | 100 |  |
-
-| 58. | B | fogdafelügyelő | 100 |  |
-
-| 59. | főhatárrendész | 100 125** 200**** 225* |  |
-
-| 60. |  |  |  |
-
-| 61. | hajóvizsgáló | 100 |  |
-
-| 62. | járőrvezető | 100 125** |  |
-
-| 63. | kutyavezető | 125 |  |
-
-| 64. | segédelőadó | 100 | 50 |
-
-| 65. | bűnügyi segédelőadó | 100 |  |
-
-| 66. | A | fogdaőr | 100 |  |
-
-| 67. | határrendész | 100 125** 200**** 225* |  |
-
-| 68. | járőr | 100 125** |  |
-
-| 69. | kísérőőr | 100 |  |
-
-| 70. | motorcsónakvezető | 100 |  |
-
-| 71. | objektumőr | 75* 100 |  |
-
-| 72. | gépjárművezető | 100 | 75 |
-
-| 73. | bűnügyi fogalmazó | 100 |  |
-
-| 74. | járőrtárs | 75* |  |
-
-## 75* Az önálló intézkedésre nem jogosult rész-szakképesítéssel rendelkező állomány esetében a hivatásos pótlék mértéke 75%.
-
-## 125**: A szolgálati állat kiképzésében résztvevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében a hivatásos pótlék mértéke 125%.
-
-## 200****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 200%.
-
-## 225*: A hivatásos állomány közúti határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében, ha szolgálati állat kiképzésében részt vesz, azzal folyamatosan foglalkozik, arról gondoskodik, valamint azzal szolgálati tevékenységet ellát, a hivatásos pótlék mértéke 225%.
-
-## ***** Az ellenőr/főellenőr/kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági, vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
-
-IV. Nemzetközi Bűnügyi Együttműködési Központ
-
-## (területi szerv besorolású)
-
 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 2X05476R_5
-
-|  | A | B | C | D | E |
-
-| 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alap- feladat |
-
-| 3. | kiemelt vezető | területi szerv vezetője | igazgató | 100 |  |
-
-| 4. | közép- vezető | szakirányító 2 | igazgató-helyettes | 100 |  |
-
-| 5. | főosztályvezető 2 | főosztályvezető | 100 |  |
-
-| 6. | beosztott vezető | osztályvezető 1 | osztályvezető | 100 |  |
-
-| 7. | osztályvezető (BEI) | 200 |  |
-
-2. Tiszti besorolási osztályba tartozó szolgálati beosztások
-
-## 2X05476R_6
-
-|  | A | B | C | D |
-
-| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alapfeladat |
-
-| 3. | E | alosztályvezető | 150 175* 300** 450*** | 100 |
-
-| 4. | osztályvezető-helyettes | 150 175* 300** 450*** | 100 |
-
-| 5. | D | kiemelt főelőadó | 150 175* 300** 450*** | 100 |
-
-| 6. | kiemelt főnyomozó | 150 175* 300** 450*** 600**** |  |
-
-| 7. | C | főelőadó | 150 | 100 |
-
-| 8. | főnyomozó | 150 175* 300** 450*** 600**** |  |
-
-3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
-
-## 2X05476R_7
-
-|  | A | B | C | D |
-
-| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alapfeladat |
-
-| 2a. | D | nyomozó | 150 175* 300** 450*** 600**** |  |
-
-| 3. | technikus | 150 175* 300** 450*** 600**** |  |
-
-| 4. | referens | 150 300** 450*** | 100 |
-
-| 5. | C | segédelőadó | 100 | 100 |
-
-## 175* a titkos információgyűjtésre feljogosított bűnüldöző szervek részére háttértámogató és ellátó alapfeladatot végző állománya esetében a hivatásos pótlék mértéke 175%.
-
-## 300**: tényleges műveleti támogató feladatot közvetlenül ellátó állomány esetében a hivatásos pótlék mértéke 300%.
-
-## 450***: speciális műveleti feladatot ténylegesen ellátó állomány esetében a hivatásos pótlék mértéke 450%.
-
-## 600****: a kilétét, rendőri jelleget tartósan leplező, speciális műveleti feladatot ténylegesen ellátó állomány esetében a hivatásos pótlék mértéke 600%.
-
-V. Rendőrségi Oktatási és Kiképző Központ
-
-(területi szerv besorolású)
-
-1. Vezetői besorolási osztályba tartozó szolgálati beosztások
+1.1. Központi szervnél
 
 |  | A | B | C | D | E |
 
@@ -502,636 +12,1164 @@ V. Rendőrségi Oktatási és Kiképző Központ
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | kiemelt vezető | területi szerv vezetője | igazgató |  | 100 |
+| 3. | kiemelt vezető | központi szerv vezetője | országos rendőrfőkapitány |  |  |
 
-| 4. | középvezető | szakirányító 1 | igazgatóhelyettes |  | 100 |
+| 4. | központi szerv vezetőjének helyettese | bűnügyi országos rendőr- főkapitány-helyettes |  |  |
 
-| 5. | középvezető | szakirányító 2 | intézményvezető-helyettes |  | 100 |
+| 5. | rendészeti országos rendőr- főkapitány-helyettes |  |  |
 
-| 6. | középvezető | főosztályvezető 1 | tagozatparancsnok |  | 100 |
+| 6. | gazdasági országos rendőrfőkapitány-helyettes |  |  |
 
-| 7. | középvezető | főosztályvezető 1 | főosztályvezető |  | 100 |
+| 7. | kiemelt vezető | központi szerv vezetőjének helyettese | személyügyi országos rendőrfőkapitány-helyettes |  |  |
 
-| 8. | beosztott vezető | főosztályvezető-helyettes 1 | főosztályvezető-helyettes |  | 100 |
+| 8. | középvezető | szakirányító 1 | szolgálatvezető (ORFK humánigazgatási, ellenőrzési, kommunikációs) |  | 150-350 |
 
-| 9. | beosztott vezető | osztályvezető 1 | osztályvezető |  | 100 |
+| 9. | hivatalvezető (ORFK) |  | 150-350 |
 
-2. Tiszti besorolási osztályba tartozó szolgálati beosztások
+| 10. | szakirányító 2 | főosztályvezető | 150-350 | 150-350 |
 
-|  | A | B | C | D |
+| 11. | főosztályvezető 1 | főtanácsadó (főkapitányi biztos) | 150-350 | 150-350 |
 
-| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+| 12. | középvezető | főosztályvezető 1 | főtanácsadó | 150-350 | 150-350 |
 
-| 2. | alapfeladat | nem alapfeladat |
+| 13. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes | 150-350 | 150-350 |
 
-| 3. | E | osztályvezető- helyettes |  | 100 |
+| 14. | irodavezető |  | 150-350 |
 
-| 4. | E | alosztályvezető |  | 100 |
+| 15. | főosztályvezető- helyettes 2 | osztályvezető | 150-350 | 150-350 |
 
-| 5. | E | szakcsoportvezető |  | 100 |
-
-| 6. | E | kiemelt főreferens |  | 100 |
-
-| 7. | E | mesteroktató |  | 100 |
-
-| 8. | E | főorvos |  | 100 |
-
-| 9. | D | kiemelt főelőadó |  | 100 |
-
-| 10. | D | kiképzésvezető |  | 100 |
-
-| 11. | D | kiképzésszervező |  | 100 |
-
-| 12. | D | lőtérvezető |  | 100 |
-
-| 13. | D | kiemelt oktató |  | 100 |
-
-| 14. | D | csoportvezető |  | 100 |
-
-| 15. | D | orvos |  | 100 |
-
-| 16. | C | főelőadó |  | 100 |
-
-| 17. | C | oktatótiszt |  | 100 |
-
-3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
-
-|  | A | B | C | D |
-
-| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alapfeladat |
-
-| 3. | E | mesterkiképző |  | 100 |
-
-| 4. | E | ügyeletes |  | 100 |
-
-| 5. | D | referens |  | 100 |
-
-| 6. | D | szakoktató |  | 100 |
-
-| 7. | D | felcser |  | 100 |
-
-| 8. | C | segédelőadó |  | 100 |
-
-VI. Készenléti Rendőrség szolgálati beosztásai
-
-## (területi szerv besorolású)
-
-1. Vezetői besorolási osztályba tartozó szolgálati beosztások
-
-## 2X05476R_11
+1.2. Területi szervnél
 
 |  | A | B | C | D | E |
 
-| 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 2. | alapfeladat | nem alap- feladat |
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | kiemelt vezető | területi szerv vezetője | rendőrfőkapitány | 150-350 |  |
+
+| 4. | igazgató (RRI) | 150-350 |  |
+
+| 5. | középvezető | szakirányító 2 | igazgató-helyettes (RRI) | 150-350 | 150-350 |
+
+| 6. | bűnügyi rendőrfőkapitány- helyettes (VMRFK) | 150-350 |  |
+
+| 7. | rendészeti rendőrfőkapitány- helyettes (VMRFK) | 150-350 |  |
+
+| 8. | gazdasági rendőrfőkapitány- helyettes (VMRFK) |  | 150-350 |
+
+| 9. | főosztályvezető 2 | főosztályvezető | 150-350 |  |
+
+| 10. | beosztott vezető | főosztályvezető- helyettes 2 | szolgálatvezető (VMRFK, RRI humánigazgatási, ellenőrzési, határrendészeti, KHSZ) | 150-350 | 150-350 |
+
+| 11. |  |  |
+
+| 12. | hivatalvezető |  | 150-350 |
+
+| 13. | osztályvezető 1 | osztályvezető | 150-350 | 150-350 |
+
+1.3. Helyi szervnél
+
+|  | A | B | C | D | E |
+
+| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | középvezető | főosztályvezető 1 | kapitányságvezető (kiemelt) | 150-350 |  |
+
+| 4. | határrendészeti kirendeltség- vezető (kiemelt) | 150-350 |  |
+
+| 5. | főosztályvezető 2 | kapitányságvezető | 150-350 |  |
+
+| 6. | beosztott vezető | főosztályvezető- helyettes 2 | határrendészeti kirendeltség- vezető | 150-350 |  |
+
+| 7. | kapitányságvezető-helyettes (kiemelt) | 150-350 |  |
+
+| 8. | osztályvezető 2 | osztályvezető | 150-350 | 150-350 |
+
+| 9. | hivatalvezető (kiemelt) |  | 150-350 |
+
+| 10. | őrsparancsnok (osztály jogállású) | 150-350 |  |
+
+2. Tiszti besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D | E |
+
+| 1. | szerv | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | központi | E | ügyeletvezető | 400 |  |
+
+| 4. | kiemelt főreferens | 400 | 350 |
+
+| 5. | osztályvezető-helyettes | 400 | 350 |
+
+| 6. | alosztályvezető | 400 | 350 |
+
+| 7. | D | kiemelt főnyomozó | 400 |  |
+
+| 8. | főügyeletes | 400 |  |
+
+| 9. | csoportvezető | 400 | 350 |
+
+| 10. | kiemelt főelőadó | 400 | 350 |
+
+| 11. | kiemelt főellenőr***** | 400 | 350 |
+
+| 12. | C | főnyomozó | 400 |  |
+
+| 13. | ügyeletes | 400 |  |
+
+| 14. | nyomozótiszt | 400 |  |
+
+| 15. | főelőadó | 400 | 350 |
+
+| 16. | területi | E | ügyeletvezető | 350 |  |
+
+| 17. | alosztályvezető | 350 375** 450** 475** | 300 |
+
+| 18. | alosztályvezető (közterületi támogató) | 450 |  |
+
+| 19. | osztályvezető-helyettes | 350 450**** | 300 |
+
+| 20. | titkárságvezető (alosztály jogállású) |  | 300 |
+
+| 21. | főorvos |  | 300 |
+
+| 22. | szolgálatirányító tiszt | 350 450**** |  |
+
+| 23. | sajtószóvivő |  | 350 |
+
+| 24. | D | főügyeletes | 350 |  |
+
+| 25. | alosztályvezető-helyettes | 350 | 300 |
+
+| 26. | alosztályvezető-helyettes (közterületi támogató) | 450 |  |
+
+| 27. | csoportvezető | 350, 375** 450** 450**** 475** | 300 |
+
+| 28. | kiemelt főellenőr***** | 350 | 300 |
+
+| 29. | kiemelt főelőadó | 350 450**** | 300 |
+
+| 30. | kiemelt főmérnök |  | 300 |
+
+| 31. | kiemelt főnyomozó | 350 450**** |  |
+
+| 32. | kiemelt főtechnikus | 350 | 300 |
+
+| 33. | kiemelt fővizsgáló | 350 |  |
+
+| 34. | kiképzésvezető |  | 350 |
+
+| 35. | kiképzésszervező |  | 350 |
+
+| 36. | lőtérvezető |  | 300 |
+
+| 37. | pszichológus (bűnügyi) | 350 |  |
+
+| 38. | szakorvos (bűnügyi) | 350 |  |
+
+| 39. | C | főellenőr***** | 350 | 300 |
+
+| 40. | főelőadó | 350 450**** | 300 |
+
+| 41. | főnyomozó | 350 450**** |  |
+
+| 42. | főrevizor |  | 300 |
+
+| 43. | főtechnikus | 350 | 300 |
+
+| 44. | fővizsgáló | 350 |  |
+
+| 45. | ügyeletes | 350 |  |
+
+| 46. | B | ellenőr ***** | 350 | 300 |
+
+| 47. | előadó I. | 350 | 300 |
+
+| 48. | mérnök |  | 300 |
+
+| 49. | nyomozótiszt | 350 |  |
+
+| 50. | technikustiszt | 350 | 300 |
+
+| 51. | vizsgálótiszt | 350 |  |
+
+| 52. | A | előadó II. | 350 | 300 |
+
+| 53. | helyi | D | alosztályvezető | 350 | 300 |
+
+| 54. | hivatalvezető (alosztály jogállású) |  | 300 |
+
+| 55. | osztályvezető-helyettes | 350 | 300 |
+
+| 56. | őrsparancsnok (alosztály jogállású) | 350 |  |
+
+| 57. | őrsparancsnok-helyettes (osztály jogállású) | 350 |  |
+
+| 58. | szolgálatirányító tiszt | 350 |  |
+
+| 59. | C | alosztályvezető-helyettes | 350 | 300 |
+
+| 60. | csoportvezető | 350 | 300 |
+
+| 61. | kiemelt főelőadó | 350 | 300 |
+
+| 62. | kiemelt főnyomozó | 350 |  |
+
+| 63. | kiemelt főtechnikus | 350 |  |
+
+| 64. | kiemelt fővizsgáló | 350 |  |
+
+| 65. | őrsparancsnok-helyettes (alosztály jogállású) | 350 |  |
+
+| 66. | B | főnyomozó | 350 |  |
+
+| 67. | főtechnikus | 350 |  |
+
+| 68. | fővizsgáló | 350 |  |
+
+| 69. | főelőadó | 350 | 300 |
+
+| 70. | A | nyomozótiszt | 350 |  |
+
+| 71. | technikustiszt | 350 |  |
+
+| 72. | vizsgálótiszt | 350 |  |
+
+| 73. | előadó I. | 350 | 300 |
+
+2.1. Megjegyzés:
+
+2.1.1. 375**: A szolgálati kutya kivételével a szolgálati állat kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében a hivatásos pótlék mértéke 375%.
+
+2.1.2. 450**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 450%.
+
+2.1.3. 450****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 450%.
+
+2.1.4. 475**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy annál több kutya gondozása esetén a hivatásos pótlék mértéke 475%.
+
+2.1.5. *****: Az ellenőr/főellenőr/kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
+
+3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D | E |
+
+| 1. | szerv | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | központi | E | csoportparancsnok | 400 | 350 |
+
+| 4. | D | referens | 400 | 350 |
+
+| 5. | C | segédelőadó | 400 | 350 |
+
+| 6. | területi | E | csoportparancsnok | 350 450**** | 300 |
+
+| 7. | őrparancsnok | 350 |  |
+
+| 8. | szolgálatparancsnok | 350 |  |
+
+| 9. | szolgálatparancsnok (közterületi támogató) | 450 |  |
+
+| 10. | D | helyszínelő | 350 |  |
+
+| 11. | helyszínelő és balesetvizsgáló | 350 |  |
+
+| 12. | nyomozó | 350 |  |
+
+| 13. | szakoktató |  | 350 |
+
+| 14. | technikus | 350 375** 450** 475** | 300 |
+
+| 15. | ügyeletes | 350 |  |
+
+| 16. | referens | 350 450**** | 300 |
+
+| 17. | raktárvezető |  | 300 |
+
+| 18. | vizsgáló | 350 |  |
+
+| 19. | kiemelt főhatárrendész | 350 375** 450** 475** 550* 575* |  |
+
+| 20. | járőrparancsnok | 350 375** 450** 450**** 475** |  |
+
+| 21. | C | fogdafelügyelő | 350 |  |
+
+| 22. | főhatárrendész | 350 375** 450** 475** 550* 575* |  |
+
+| 23. | futár |  | 300 |
+
+| 24. | járőrvezető | 350 375** 450** 475** |  |
+
+| 25. | járőrvezető (közterületi támogató) | 450 |  |
+
+| 26. | kutyavezető | 450** 450**** 475** |  |
+
+| 27. | szolgálatparancsnok-helyettes | 350 |  |
+
+| 28. | segédelőadó | 350 | 300 |
+
+| 29. | kiképző |  | 350 |
+
+| 30. | bűnügyi referens | 350 |  |
+
+| 31. | B | fogdaőr | 350 |  |
+
+| 32. | B | határrendész | 350 375** 450** 475** 550* 575* |  |
+
+| 33. | járőr | 350 375** 450** 475** |  |
+
+| 34. | járőr (közterületi támogató) | 450 |  |
+
+| 35. | gépjárművezető | 350 | 300 |
+
+| 36. | kísérőőr | 350 |  |
+
+| 37. | bűnügyi segédelőadó | 350 |  |
+
+| 38. | A | objektumőr | 325* 350 |  |
+
+| 39. | járőrtárs | 325* |  |
+
+| 40. | helyi | E | őrparancsnok | 350 |  |
+
+| 41. | szolgálatparancsnok | 350 450**** |  |
+
+| 42. | szolgálatirányító parancsnok | 350 450**** |  |
+
+| 43. | csoportparancsnok | 350 375** 450** 475** |  |
+
+| 44. | D | helyszínelő | 350 |  |
+
+| 45. | helyszínelő és balesetvizsgáló | 350 |  |
+
+| 46. | körzeti megbízott | 350 375** 450** 475** |  |
+
+| 47. | nyomozó | 350 |  |
+
+| 48. | határrendészeti szakértő | 350 450**** |  |
+
+| 49. | szolgálatparancsnok-helyettes | 350 |  |
+
+| 50. | technikus | 350 375** 450** 475** |  |
+
+| 51. | vizsgáló | 350 |  |
+
+| 52. | referens | 350 | 300 |
+
+| 53. | C | segédtechnikus | 350 |  |
+
+| 54. | ügyeletes | 350 |  |
+
+| 55. | kiképző |  | 350 |
+
+| 56. | kiemelt főhatárrendész | 350 375** 450** 450**** 475** 550* 575* |  |
+
+| 57. | járőrparancsnok | 350 375** 450** 475** |  |
+
+| 58. | bűnügyi referens | 350 |  |
+
+| 59. | C | hajóvezető | 350 |  |
+
+| 60. | B | fogdafelügyelő | 350 |  |
+
+| 61. | főhatárrendész | 350 375** 450** 450**** 475** 550* 575* |  |
+
+| 62. | hajóvizsgáló | 350 |  |
+
+| 63. | járőrvezető | 350 375** 450** 475** |  |
+
+| 64. | kutyavezető | 450** 475** |  |
+
+| 65. | segédelőadó | 350 | 300 |
+
+| 66. | bűnügyi segédelőadó | 350 |  |
+
+| 67. | A | fogdaőr | 350 |  |
+
+| 68. | határrendész | 350 375** 450** 450**** 475** 550* 575* |  |
+
+| 69. | járőr | 350 375** 450** 475** |  |
+
+| 70. | kísérőőr | 350 |  |
+
+| 71. | motorcsónakvezető | 350 |  |
+
+| 72. | objektumőr | 325* 350 |  |
+
+| 73. | gépjárművezető | 350 | 325 |
+
+| 74. | bűnügyi fogalmazó | 350 |  |
+
+| 75. | járőrtárs | 325* |  |
+
+3.1. Megjegyzés:
+
+3.1.1. 325*: Az önálló intézkedésre nem jogosult rész-szakképesítéssel rendelkező állomány esetében a hivatásos pótlék mértéke 325%.
+
+3.1.2. 375**: A szolgálati kutya kivételével a szolgálati állat kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében a hivatásos pótlék mértéke 375%.
+
+3.1.3. 450%**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 450%.
+
+3.1.4. 450****: A közterületi támogató feladatok ellátására létrehozott szervezet – MEKTA – közterületi támogató feladatokat közvetlenül ellátó állománya, a Repülőtéri Rendőr Igazgatóság Idegenrendészeti Osztály Légitolonc Alosztály szakfeladatot közvetlenül ellátó állománya, valamint a hivatásos állomány közúti határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében a hivatásos pótlék mértéke 450%.
+
+3.1.5. 475%**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy annál több kutya gondozása esetén a hivatásos pótlék mértéke 475%.
+
+3.1.6. 550*: A gondozásból adódó többletteher ellentételezése érdekében a hivatásos állomány közúti határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében, ha a szolgálati kutya kiképzésében részt vesz, azzal folyamatosan foglalkozik, arról gondoskodik, valamint azzal szolgálati tevékenységet ellát, egy kutya gondozása esetén a hivatásos pótlék mértéke 550%.
+
+3.1.7. 575*: A gondozásból adódó többletteher ellentételezése érdekében a hivatásos állomány közúti határátkelőhelyen útlevélkezelői vagy a határátkelőhely forgalmának ellenőrzésével kapcsolatos feladatot ténylegesen ellátó tagja esetében, ha a szolgálati kutya kiképzésében részt vesz, azzal folyamatosan foglalkozik, arról gondoskodik, valamint azzal szolgálati tevékenységet ellát, két vagy annál több kutya gondozása esetén a hivatásos pótlék mértéke 575%.
+
+3.1.8. *****: Az ellenőr/főellenőr/kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági, vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
+
+4. Nemzetközi Bűnügyi Együttműködési Központ
+
+(területi szerv besorolású)
+
+4.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D | E |
+
+| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | kiemelt vezető | területi szerv vezetője | igazgató | 150-350 |  |
+
+| 4. | középvezető | szakirányító 2 | igazgató-helyettes | 150-350 |  |
+
+| 5. | főosztályvezető 2 | főosztályvezető | 150-350 |  |
+
+| 6. | beosztott vezető | osztályvezető 1 | osztályvezető | 150-350 |  |
+
+| 7. | osztályvezető (BEI) | 250-450 |  |
+
+4.2. Tiszti besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D |
+
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | E | alosztályvezető | 400 425* 550** 700*** | 350 |
+
+| 4. | osztályvezető-helyettes | 400 425* 550** 700*** | 350 |
+
+| 5. | D | kiemelt főelőadó | 400 425* 550** 700*** | 350 |
+
+| 6. | kiemelt főnyomozó | 400 425* 550** 700*** 850**** |  |
+
+| 7. | C | főelőadó | 400 | 350 |
+
+| 8. | főnyomozó | 400 425* 550** 700*** 850**** |  |
+
+4.3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D |
+
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | D | nyomozó | 400 425* 550** 700*** 850**** |  |
+
+| 4. | D | technikus | 400 425* 550** 700*** 850**** |  |
+
+| 5. |  | referens | 400 550** 700*** | 350 |
+
+| 6. | C | segédelőadó | 350 | 350 |
+
+4.4. Megjegyzés:
+
+4.4.1. 425*: A titkos információgyűjtésre feljogosított bűnüldöző szervek részére háttértámogató és ellátó alapfeladatot végző állománya esetében a hivatásos pótlék mértéke 425%.
+
+4.4.2. 550**: Tényleges műveleti támogató feladatot közvetlenül ellátó állomány esetében a hivatásos pótlék mértéke 550%.
+
+4.4.3. 700***: Speciális műveleti feladatot ténylegesen ellátó állomány esetében a hivatásos pótlék mértéke 700%.
+
+4.4.4. 850****: A kilétét, rendőri jelleget tartósan leplező, speciális műveleti feladatot ténylegesen ellátó állomány esetében a hivatásos pótlék mértéke 850%.
+
+5. Rendőrségi Oktatási és Kiképző Központ
+
+(területi szerv besorolású)
+
+5.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D | E |
+
+| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | kiemelt vezető | területi szerv vezetője | igazgató |  | 150-350 |
+
+| 4. | középvezető | szakirányító 1 | igazgatóhelyettes |  | 150-350 |
+
+| 5. | középvezető | szakirányító 2 | intézményvezető-helyettes |  | 150-350 |
+
+| 6. | középvezető | főosztályvezető 1 | tagozatparancsnok |  | 150-350 |
+
+| 7. | középvezető | főosztályvezető 1 | főosztályvezető |  | 150-350 |
+
+| 8. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes |  | 150-350 |
+
+| 9. | beosztott vezető | osztályvezető 1 | osztályvezető |  | 150-350 |
+
+5.2. Tiszti besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D |
+
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | E | osztályvezető-helyettes |  | 350 |
+
+| 4. | E | alosztályvezető |  | 350 |
+
+| 5. | E | szakcsoportvezető |  | 350 |
+
+| 6. | E | kiemelt főreferens |  | 350 |
+
+| 7. | E | mesteroktató |  | 350 |
+
+| 8. | E | főorvos |  | 350 |
+
+| 9. | D | kiemelt főelőadó |  | 350 |
+
+| 10. | D | kiképzésvezető |  | 350 |
+
+| 11. | D | kiképzésszervező |  | 350 |
+
+| 12. | D | lőtérvezető |  | 350 |
+
+| 13. | D | kiemelt oktató |  | 350 |
+
+| 14. | D | csoportvezető |  | 350 |
+
+| 15. | D | orvos |  | 350 |
+
+| 16. | C | főelőadó |  | 350 |
+
+| 17. | C | oktatótiszt |  | 350 |
+
+5.3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D |
+
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | E | mesterkiképző |  | 350 |
+
+| 4. | E | ügyeletes |  | 350 |
+
+| 5. | D | referens |  | 350 |
+
+| 6. | D | szakoktató |  | 350 |
+
+| 7. | D | felcser |  | 350 |
+
+| 8. | C | segédelőadó |  | 350 |
+
+6. Készenléti Rendőrség szolgálati beosztásai
+
+(területi szerv besorolású)
+
+6.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D | E |
+
+| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
 
 | 3. | kiemelt vezető | központi szerv vezetőjének helyettese | műveleti országos rendőrfőkapitány-helyettes (Készenléti Rendőrség parancsnoka) |  |  |
 
-| 3a. | kiemelt vezető | területi szerv vezetője | igazgató (NNI) | 200 |  |
+| 4. | kiemelt vezető | területi szerv vezetője | igazgató (NNI) | 250-450 |  |
 
-| 4. | közép- vezető | szakirányító 1 | igazgató | 200 | 150 |
+| 5. | középvezető | szakirányító 1 | igazgató | 250-450 | 200-400 |
 
-| 4a. | ezredparancsnok | 200 |  |
+| 6. | szakirányító 1 | ezredparancsnok | 250-450 |  |
 
-| 5. | főosztályvezető 1 | igazgató-helyettes (KR MÜIG, KR KIG, KR RBI) |  | 150 |
+| 7. | szakirányító 2 | igazgató-helyettes (NNI) | 250-450 |  |
 
-| 5a. | szolgálatvezető (TŰSZ) | 500 |  |
+| 8. | főosztályvezető 1 | igazgató-helyettes (MÜIG, KIG, RBI) | 250-450 | 200-400 |
 
-| 6. | főosztályvezető 2 | szolgálatvezető (humánigazgatási, ellenőrzési, ÁFSZ, KR LRSZ) | 200 | 150 |
+| 9. | középvezető | főosztályvezető 1 | szolgálatvezető (TŰSZ) | 550-750 |  |
 
-| 7. | főosztályvezető | 200 | 150 |
+| 10. | főosztályvezető 2 | szolgálatvezető (humánigazgatási, ellenőrzési, ÁFSZ, LRSZ) | 250-450 | 200-400 |
 
-| 7a. | főosztályvezető (TŰSZ) | 500 |  |
+| 11. | főosztályvezető | 250-450 | 200-400 |
 
-| 8. | főosztályvezető (Személy- és Objektumvédelmi Igazgatóság Személybiztosítási Főosztály) | 500 |  |
+| 12. | középvezető | főosztályvezető 2 | főosztályvezető (TŰSZ) | 550-750 |  |
 
-| 9. | hivatalvezető |  | 150 |
+| 13. | főosztályvezető (Személy- és Objektumvédelmi Igazgatóság Személybiztosítási Főosztály) | 550-750 |  |
 
-| 10. | igazgató-helyettes (NNI, GI) | 200 | 150 |
+| 14. | hivatalvezető |  | 200-400 |
 
-| 10a. | főosztályvezető 2 | főosztályvezető (KR NNI KEF) | 400 |  |
+| 15. | középvezető | főosztályvezető 2 | főosztályvezető (NNI KEF) | 450-650 |  |
 
-| 11. | beosztott vezető | főosztályvezető- helyettes 1 | szolgálatvezető (ÜVSZ) | 200 |  |
+| 16. | beosztott vezető | főosztályvezető- helyettes 1 | szolgálatvezető (ÜVSZ) | 250-450 |  |
 
-| 12. | főosztályvezető- helyettes 2 | főosztályvezető-helyettes | 200 | 150 |
+| 17. | főosztályvezető-helyettes 2 | főosztályvezető-helyettes | 250-450 | 200-400 |
 
-| 13. |  |  |  |
+| 18. | osztályvezető 1 | osztályvezető | 250-450 | 200-400 |
 
-| 14. | osztályvezető 1 | osztályvezető | 200 | 150 |
+| 19. | osztályvezető (TŰSZ) | 550-750 |  |
 
-| 15. | osztályvezető (TŰSZ) | 500 |  |
+| 20. | osztályvezető 1 | osztályvezető (Személy- és Objektumvédelmi Igazgatóság Személybiztosítási Főosztály Kiemelt Személybiztosítási Osztály) | 550-750 |  |
 
-| 15a | osztályvezető (Személy- és Objektumvédelmi Igazgatóság Személybiztosítási Főosztály Kiemelt Személybiztosítási Osztály) | 500 |  |
+| 21. | szolgálatvezető-helyettes (LRSZ) | 250-450* 700-900 |  |
 
-| 16. | szolgálatvezető-helyettes (KR LRSZ) | 200* 650 |  |
+| 22. | beosztott vezető | osztályvezető 1 | osztályvezető (NNI KEF) | 450-650 |  |
 
-| 17. | osztályvezető 1 | osztályvezető (KR NNI KEF) | 400 |  |
+6.1.1. 250-450*: A Légirendészeti Szolgálat nem fedélzeti szolgálattevő szolgálatvezető-helyettes szolgálati beosztásban a hivatásos pótlék mértéke 250-450%.
 
-a) 200*: a Légirendészeti Szolgálat nem fedélzeti szolgálattevő szolgálatvezető-helyettes szolgálati beosztásban a hivatásos pótlék mértéke 200%.
-
-2. Tiszti szolgálati beosztások
-
-## 2X05476R_12
+6.2. Tiszti szolgálati beosztások
 
 |  | A | B | C | D |
 
-| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | E | osztályvezető-helyettes | 150** 200 | 100 |
+| 3. | E | osztályvezető-helyettes | 400** 450 | 350 |
 
-| 4. | alosztályvezető | 150** 200 225*** 600****** | 100 |
+| 4. | alosztályvezető | 400** 450 475*** 550** 575** 850****** | 350 |
 
-| 4a. | századparancsnok | 200 |  |
+| 5. | századparancsnok | 450 |  |
 
-| 5. | karmester |  | 100 |
+| 6. | karmester |  | 350 |
 
-| 6. | főorvos |  | 100 |
+| 7. | főorvos |  | 350 |
 
-| 7. | ügyeletvezető | 200 |  |
+| 8. | ügyeletvezető | 450 |  |
 
-| 7a. | osztályvezető-helyettes (KR NNI KEF) | 400 |  |
+| 9. | E | osztályvezető-helyettes (NNI KEF) | 650 |  |
 
-| 7b. | alosztályvezető (KR NNI KEF) | 400 |  |
+| 10. | E | alosztályvezető (NNI KEF) | 650 |  |
 
-| 8. | D | helikoptervezető | 650 |  |
+| 11. | D | helikoptervezető | 900 |  |
 
-| 9. | alosztályvezető-helyettes | 200 600****** | 100 |
+| 12. | alosztályvezető-helyettes | 450 850****** | 350 |
 
-| 10. | csoportvezető | 200 225***, 600****** | 100 |
+| 13. | csoportvezető | 450 475*** 550** 575** 850****** | 350 |
 
-| 11. | kiemelt főelőadó | 150** 200 225*** 400***** 600****** | 100 |
+| 14. | kiemelt főelőadó | 400** 450 475*** 550** 575** 650***** 850****** | 350 |
 
-| 12. | kiemelt főellenőr******* | 200 | 100 |
+| 15. | kiemelt főellenőr******* | 450 | 350 |
 
-| 13. | kiemelt főnyomozó | 200 225*** 400***** |  |
+| 16. | kiemelt főnyomozó | 450 475*** 650***** |  |
 
-| 13a. | kiemelt fötechnikus | 200 | 100 |
+| 17. | (D) | kiemelt főtechnikus | 450 | 350 |
 
-| 14. | karmester-helyettes |  | 100 |
+| 18. | karmester-helyettes |  | 350 |
 
-| 15. | kiemelt főmérnök | 200 | 100 |
+| 19. | kiemelt főmérnök | 450 | 350 |
 
-| 16. | kiképzésvezető | 200 | 100 |
+| 20. | kiképzésvezető | 450 | 350 |
 
-| 17. | kiemelt biztonsági főtiszt | 200 600****** |  |
+| 21. | kiemelt biztonsági főtiszt | 450 850****** |  |
 
-| 18. | C | főelőadó | 200 600****** | 100 |
+| 22. | C | főelőadó | 450 850****** | 350 |
 
-| 19. | főrevizor |  | 100 |
+| 23. | főrevizor |  | 350 |
 
-| 20. | főtechnikus | 200 | 100 |
+| 24. | főtechnikus | 450 | 350 |
 
-| 21. | biztonsági főtiszt | 200 |  |
+| 25. | biztonsági főtiszt | 450 |  |
 
-| 22. | főmérnök | 200 | 100 |
+| 26. | főmérnök | 450 | 350 |
 
-| 22a. | főnyomozó | 200 225*** 400***** |  |
+| 27. | C | főnyomozó | 450 475*** 650***** |  |
 
-| 23. | B | mérnök | 200 | 100 |
+| 28. | B | mérnök | 450 | 350 |
 
-| 24. | előadó I. | 200 | 100 |
+| 29. | előadó I. | 450 | 350 |
 
-| 24a. | technikustiszt | 200 | 100 |
+| 30. | (B) | technikustiszt | 450 | 350 |
 
-| 25. | biztonsági tiszt | 200 |  |
+| 31. | biztonsági tiszt | 450 |  |
 
-| 26. | szólamvezető |  | 100 |
+| 32. | szólamvezető |  | 350 |
 
-| 26a. | nyomozótiszt | 200 225*** 400***** |  |
+| 33. | B | nyomozótiszt | 450 475*** 650***** |  |
 
-| 27. | A | előadó II. | 200 | 100 |
+| 34. | A | előadó II. | 450 | 350 |
 
-3. Tiszthelyettesi szolgálati beosztások
+6.3. Tiszthelyettesi szolgálati beosztások
 
-## 2X05476R_13
+| A | A | B | C | D |
 
-|  | A | B | C | D |
-
-| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | E | szolgálatparancsnok | 150** 200 225*** | 100 |
+| 3. | E | szolgálatparancsnok | 400** 450 475*** 550** 575** | 350 |
 
-| 4. | csoportparancsnok | 200 225*** 600****** | 100 |
+| 4. | csoportparancsnok | 450 475*** 550** 575** 850****** | 350 |
 
-| 5. | szolgálatirányító | 200 600****** |  |
+| 5. | szolgálatirányító | 450 850****** |  |
 
-| 5a. | szakaszparancsnok | 200 |  |
+| 6. | szakaszparancsnok | 450 |  |
 
-| 6. | őrparancsnok | 200 |  |
+| 7. | őrparancsnok | 450 |  |
 
-| 7. | D | biztonsági gépkocsivezető | 200 600****** |  |
+| 8. | D | biztonsági gépkocsivezető | 450 850****** |  |
 
-| 8. | fedélzeti szolgálattevő (helikopter hajózó) | 300**** |  |
+| 9. | fedélzeti szolgálattevő (helikopter hajózó) | 550**** |  |
 
-| 9. | referens | 200 | 100 |
+| 10. | referens | 450 | 350 |
 
-| 10. | raktárvezető | 150** 200 | 100 |
+| 11. | raktárvezető | 400** 450 | 350 |
 
-| 11. | PSZH parancsnok | 200 |  |
+| 12. | PSZH parancsnok | 450 |  |
 
-| 12. | technikus | 150** 200 | 100 |
+| 13. | technikus | 400** 450 | 350 |
 
-| 13. | nyomozó | 200 225*** |  |
+| 14. | nyomozó | 450 475*** |  |
 
-| 14. | tűzszerész | 600 |  |
+| 15. | tűzszerész | 850 |  |
 
-| 15. | személybiztosító | 200 600****** |  |
+| 16. | személybiztosító | 450 850****** |  |
 
-| 16. | helyszínbiztosító | 200 600****** |  |
+| 17. | helyszínbiztosító | 450 850****** |  |
 
-| 17. | lakásbiztosító | 200 600****** |  |
+| 18. | lakásbiztosító | 450 850****** |  |
 
-| 18. | zenész |  | 100 |
+| 19. | zenész |  | 350 |
 
-| 19. | vízágyúgépkocsi-parancsnok | 200 |  |
+| 20. | vízágyúgépkocsi-parancsnok | 450 |  |
 
-| 20. | járőrparancsnok | 200 225*** |  |
+| 21. | járőrparancsnok | 450 475*** 550** 575** |  |
 
-| 21. | szakoktató | 200 | 100 |
+| 22. | szakoktató | 450 | 350 |
 
-| 22. | C | járőrvezető | 200 225*** |  |
+| 23. | C | járőrvezető | 450 475*** 550** 575** |  |
 
-| 23. | kiemelt kísérőőr | 200 |  |
+| 24. | kiemelt kísérőőr | 450 |  |
 
-| 24. | kutyavezető | 225 |  |
+| 25. | kutyavezető | 550** 575** |  |
 
-| 25. | kiemelt objektumőr | 150** 200 |  |
+| 26. | kiemelt objektumőr | 400** 450 |  |
 
-| 26. | segédelőadó | 200 225*** | 100 |
+| 27. | segédelőadó | 450 475*** | 350 |
 
-| 27. | futár |  | 100 |
+| 28. | futár |  | 350 |
 
-| 28. | kiképző | 200 | 100 |
+| 29. | kiképző | 450 | 350 |
 
-| 29. | fogdafelügyelő | 200 |  |
+| 30. | fogdafelügyelő | 450 |  |
 
-| 30. | B | járőr | 200 225*** |  |
+| 31. | B | járőr | 450 475*** 550** 575** |  |
 
-| 31. | PSZH kezelő | 200 |  |
+| 32. | PSZH kezelő | 450 |  |
 
-| 32. | vízágyú gépkocsi-kezelő | 200 |  |
+| 33. | vízágyú gépkocsi-kezelő | 450 |  |
 
-| 33. | gépjárművezető | 200 | 100 |
+| 34. | gépjárművezető | 450 | 350 |
 
-| 34. | kísérőőr | 200 |  |
+| 35. | kísérőőr | 450 |  |
 
-| 35. | objektumőr | 150** 200 |  |
+| 36. | objektumőr | 400** 450 |  |
 
-| 36. | A | járőrtárs | 100* |  |
+| 37. | A | járőrtárs | 350* |  |
 
-## 100*: Az önálló intézkedésre nem jogosult rész-szakképesítéssel rendelkező állomány esetében a hivatásos pótlék mértéke 100%.
+| 6.4. Megjegyzés: 6.4.1. 350*: Az önálló intézkedésre nem jogosult rész-szakképesítéssel rendelkező állomány esetében a hivatásos pótlék mértéke 350%. 6.4.2. 400**: A Személy- és Objektumvédelmi Igazgatóság Objektumvédelmi Főosztály alapfeladatokat ellátó állomány esetében a hivatásos pótlék mértéke 400%. 6.4.3. 475***: A Rendészeti Igazgatóság, valamint a határrendészeti igazgatóságok bevetési főosztályainak támogató alegységeinél támogató szolgálati feladatot teljesítő állomány, a Személy- és Objektumvédelmi Igazgatóság Különleges Védelmi Osztály Tanúvédelmi Szolgálat állománya, a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati állat kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány, a Különleges Szolgálatok Igazgatósága Bevetési Főosztály III. Bevetést Támogató Osztály beosztotti állomány esetében a hivatásos pótlék mértéke 475%. 6.4.4. 550**: A gondozásból adódó többletteher ellentételezése érdekében a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 550%. 6.4.5. 550****: A Különleges Szolgálatok Igazgatósága Légirendészeti Szolgálat fedélzeti szolgálattevő (helikopter hajózó) beosztások esetében a hivatásos pótlék mértéke 550%. 6.4.6. 575** A gondozásból adódó többletteher ellentételezése érdekében a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy több kutya gondozása esetén a hivatásos pótlék mértéke 575%. 6.4.7. 650*****: A Nemzeti Nyomozó Iroda Kiberbűnözés Elleni Főosztály esetében a hivatásos pótlék mértéke 650%. 6.4.8. 850******: A KR Személy- és Objektumvédelmi Igazgatóság Személybiztosítási Főosztály Kiemelt Személybiztosítási Osztályának (a volt köztársasági elnök utóbiztosítását ellátó) állománya és a Tűzszerész Szolgálat beosztotti állománya esetében a hivatásos pótlék mértéke 850%. 6.4.9. *******: A kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették. |
 
-## 150**: A Személy és Objektumvédelmi Igazgatóság Objektumvédelmi Főosztály alapfeladatokat ellátó állomány esetében a hivatásos pótlék mértéke 150%.
+7. Budapesti Rendőr-főkapitányság
 
-## 225***: A Rendészeti Igazgatóság, valamint a határrendészeti igazgatóságok bevetési főosztályainak támogató alegységeinél támogató szolgálati feladatot teljesítő állomány, a Személy és Objektumvédelmi Igazgatóság Különleges Védelmi Osztály Tanúvédelmi Szolgálat állománya, a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati állat kiképzésében résztvevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány, a Különleges Szolgálatok Igazgatósága Bevetési Főosztály III. Bevetést Támogató Osztály beosztotti állomány esetében a hivatásos pótlék mértéke 225%.
+7.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-## 300****: A Különleges Szolgálatok Igazgatósága Légirendészeti Szolgálat fedélzeti szolgálattevő (helikopter hajózó) beosztások esetében a hivatásos pótlék mértéke 300%.
-
-## 400*****: A Nemzeti Nyomozó Iroda Kiberbűnözés Elleni Főosztály esetében a hivatásos pótlék mértéke 400%.
-
-## 600******: A KR Személy- és Objektumvédelmi Igazgatóság Személybiztosítási Főosztály Kiemelt Személybiztosítási Osztályának (a volt köztársasági elnök utóbiztosítását ellátó) állománya és a Tűzszerész Szolgálat beosztotti állománya esetében a hivatásos pótlék mértéke 600%.
-
-## ******* A kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági, vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
-
-VII. Budapesti Rendőr-főkapitányság
-
-1. Vezetői besorolási osztályba tartozó szolgálati beosztások
-
-a) Területi szervnél
-
-2X05476R_14
+7.1.1. Területi szervnél
 
 |  | A | B | C | D | E |
 
-| 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 2. | alapfeladat | nem alap-feladat |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 3. | kiemelt vezető | területi szerv vezetője | rendőrfőkapitány | 100 |  |
+| 3. | kiemelt vezető | területi szerv vezetője | rendőrfőkapitány | 150-350 |  |
 
-| 4. | közép- vezető | szakirányító 1 | bűnügyi rendőrfőkapitány-helyettes (BRFK) | 100 |  |
+| 4. | középvezető | szakirányító 1 | bűnügyi rendőrfőkapitány- helyettes (BRFK) | 150-350 |  |
 
-| 5. | rendészeti rendőrfőkapitány-helyettes (BRFK) | 100 |  |
+| 5. | rendészeti rendőrfőkapitány- helyettes (BRFK) | 150-350 |  |
 
-| 6. | gazdasági rendőrfőkapitány-helyettes (BRFK) |  | 100 |
+| 6. | gazdasági rendőrfőkapitány- helyettes (BRFK) |  | 150-350 |
 
-| 7. | főosztályvezető 2 | főosztályvezető | 100 | 100 |
+| 7. | főosztályvezető 2 | főosztályvezető | 150-350 | 150-350 |
 
-| 8. | szolgálatvezető (humánigazgatási, ellenőrzési) |  | 100 |
+| 8. | szolgálatvezető (humánigazgatási, ellenőrzési) |  | 150-350 |
 
-| 9. | hivatalvezető |  | 100 |
+| 9. | hivatalvezető |  | 150-350 |
 
-| 10. | beosztott vezető | főosztályvezető- helyettes 2 | főosztályvezető-helyettes | 100 | 100 |
+| 10. | beosztott vezető | főosztályvezető- helyettes 2 | főosztályvezető-helyettes | 150-350 | 150-350 |
 
-| 11. | osztályvezető 1 | osztályvezető | 100 | 100 |
+| 11. | osztályvezető 1 | osztályvezető | 150-350 | 150-350 |
 
-b) Helyi szervnél
-
-2X05476R_15
+7.1.2. Helyi szervnél
 
 |  | A | B | C | D | E |
 
-| 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 2. | alapfeladat | nem alap- feladat |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 3. | közép- vezető | főosztályvezető 1 | kapitányságvezető (kiemelt) | 100 |  |
+| 3. | középvezető | főosztályvezető 1 | kapitányságvezető (kiemelt) | 150-350 |  |
 
-| 4. | főosztályvezető 2 | kapitányságvezető | 100 |  |
+| 4. | főosztályvezető 2 | kapitányságvezető | 150-350 |  |
 
-| 5. | beosztott vezető | főosztályvezető- helyettes 2 | kapitányságvezető-helyettes (kiemelt) | 100 |  |
+| 5. | beosztott vezető | főosztályvezető- helyettes 2 | kapitányságvezető-helyettes (kiemelt) | 150-350 |  |
 
-| 6. | osztályvezető 2 | osztályvezető | 100 | 100 |
+| 6. | osztályvezető 2 | osztályvezető | 150-350 | 150-350 |
 
-| 7. | hivatalvezető (kiemelt) |  | 100 |
+| 7. | hivatalvezető (kiemelt) |  | 150-350 |
 
-| 8. | őrsparancsnok (osztály jogállású) | 100 |  |
+| 8. | őrsparancsnok (osztály jogállású) | 150-350 |  |
 
-II. Tiszti besorolási osztályba tartozó szolgálati beosztások
-
-## 2X05476R_16
+7.2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D | E |
 
-| 1. | szerv | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | szerv | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 2. | alapfeladat | nem alap- feladat |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 3. | területi | E | ügyeletvezető | 125 |  |
+| 3. | területi | E | ügyeletvezető | 375 |  |
 
-| 4. | alosztályvezető | 125 200*** | 75 |
+| 4. | alosztályvezető | 375 450*** | 325 |
 
-| 5. | osztályvezető-helyettes | 125 200*** | 75 |
+| 5. | osztályvezető-helyettes | 375 450*** | 325 |
 
-| 6. | főorvos |  | 75 |
+| 6. | főorvos |  | 325 |
 
-| 7. | szolgálatirányító tiszt | 125 |  |
+| 7. | szolgálatirányító tiszt | 375 |  |
 
-| 8. | D | főügyeletes | 125 |  |
+| 8. | D | főügyeletes | 375 |  |
 
-| 9. | alosztályvezető-helyettes | 125 | 75 |
+| 9. | alosztályvezető-helyettes | 375 | 325 |
 
-| 10. | csoportvezető | 125 | 75 |
+| 10. | csoportvezető | 375 | 325 |
 
-| 11. | kiemelt főellenőr**** | 125 | 75 |
+| 11. | kiemelt főellenőr**** | 375 | 325 |
 
-| 12. | kiemelt főelőadó | 125 | 75 |
+| 12. | kiemelt főelőadó | 375 | 325 |
 
-| 13. | kiemelt főnyomozó | 125 200*** |  |
+| 13. | kiemelt főnyomozó | 375 450*** |  |
 
-| 14. | kiemelt főtechnikus | 125 | 75 |
+| 14. | kiemelt főtechnikus | 375 | 325 |
 
-| 15. | kiemelt fővizsgáló | 125 |  |
+| 15. | kiemelt fővizsgáló | 375 |  |
 
-| 16. | lőtérvezető |  | 75 |
+| 16. | lőtérvezető |  | 325 |
 
-| 17. | C | főellenőr**** | 125 | 75 |
+| 17. | C | főellenőr**** | 375 | 325 |
 
-| 18. | főelőadó | 125 | 75 |
+| 18. | főelőadó | 375 | 325 |
 
-| 19. | főnyomozó | 125 200*** |  |
+| 19. | főnyomozó | 375 450*** |  |
 
-| 20. | főrevizor |  | 75 |
+| 20. | főrevizor |  | 325 |
 
-| 21. | főtechnikus | 125, | 75 |
+| 21. | főtechnikus | 375 | 325 |
 
-| 22. | fővizsgáló | 125 |  |
+| 22. | fővizsgáló | 375 |  |
 
-| 23. | ügyeletes | 125 |  |
+| 23. | ügyeletes | 375 |  |
 
-| 24. | B | ellenőr**** | 125 | 75 |
+| 24. | B | ellenőr**** | 375 | 325 |
 
-| 25. | előadó I. | 125 | 75 |
+| 25. | előadó I. | 375 | 325 |
 
-| 26. | nyomozótiszt | 125 200*** |  |
+| 26. | nyomozótiszt | 375 450*** |  |
 
-| 27. | technikustiszt | 125, | 75 |
+| 27. | technikustiszt | 375 | 325 |
 
-| 28. | vizsgálótiszt | 125 |  |
+| 28. | vizsgálótiszt | 375 |  |
 
-| 29. | A | előadó II. | 125 | 75 |
+| 29. | A | előadó II. | 375 | 325 |
 
-| 30. | helyi | D | alosztályvezető | 125 | 75 |
+| 30. | helyi | D | alosztályvezető | 375 | 325 |
 
-| 31. | hivatalvezető (alosztály jogállású) |  | 75 |
+| 31. | hivatalvezető (alosztály jogállású) |  | 325 |
 
-| 32. | őrsparancsnok (alosztály jogállású) | 125 |  |
+| 32. | őrsparancsnok (alosztály jogállású) | 375 |  |
 
-| 33. | őrsparancsnok-helyettes (osztály jogállású) | 125 |  |
+| 33. | őrsparancsnok-helyettes (osztály jogállású) | 375 |  |
 
-| 34. | szolgálatirányító tiszt | 125 |  |
+| 34. | szolgálatirányító tiszt | 375 |  |
 
-| 35. | C | alosztályvezető-helyettes | 125 | 75 |
+| 35. | C | alosztályvezető-helyettes | 375 | 325 |
 
-| 36. | csoportvezető | 125 | 75 |
+| 36. | csoportvezető | 375 | 325 |
 
-| 37. | kiemelt főelőadó | 125 | 75 |
+| 37. | kiemelt főelőadó | 375 | 325 |
 
-| 38. | kiemelt főnyomozó | 125 |  |
+| 38. | kiemelt főnyomozó | 375 |  |
 
-| 39. | kiemelt főtechnikus | 125 | 75 |
+| 39. | kiemelt főtechnikus | 375 | 325 |
 
-| 40. | kiemelt fővizsgáló | 125 |  |
+| 40. | kiemelt fővizsgáló | 375 |  |
 
-| 41. | őrsparancsnok-helyettes (alosztály jogállású) | 125 |  |
+| 41. | őrsparancsnok-helyettes (alosztály jogállású) | 375 |  |
 
-| 42. | B | főnyomozó | 125 |  |
+| 42. | B | főnyomozó | 375 |  |
 
-| 43. | főtechnikus | 125 |  |
+| 43. | főtechnikus | 375 |  |
 
-| 44. | fővizsgáló | 125 |  |
+| 44. | fővizsgáló | 375 |  |
 
-| 45. | főelőadó | 125 | 75 |
+| 45. | főelőadó | 375 | 325 |
 
-| 46. | A | nyomozótiszt | 125 |  |
+| 46. | A | nyomozótiszt | 375 |  |
 
-| 47. | technikustiszt | 125 |  |
+| 47. | technikustiszt | 375 |  |
 
-| 48. | vizsgálótiszt | 125 |  |
+| 48. | vizsgálótiszt | 375 |  |
 
-| 49. | előadó I. | 125 | 75 |
+| 49. | előadó I. | 375 | 325 |
 
-2. Tiszthelyettesi szolgálati beosztások
-
-## 2X05476R_17
+7.3. Tiszthelyettesi szolgálati beosztások
 
 |  | A | B | C | D | E |
 
-| 1. | szerv | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | szerv | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 2. | alapfeladat | nem alap- feladat |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 3. | területi | E | csoportparancsnok | 125 |  |
+| 3. | területi | E | csoportparancsnok | 375 |  |
 
-| 4. | őrparancsnok | 125 |  |
+| 4. | őrparancsnok | 375 |  |
 
-| 5. | szolgálatparancsnok | 125 |  |
+| 5. | szolgálatparancsnok | 375 |  |
 
-| 6. | D | helyszínelő | 125 |  |
+| 6. | D | helyszínelő | 375 |  |
 
-| 7. | helyszínelő és balesetvizsgáló | 125 |  |
+| 7. | helyszínelő és balesetvizsgáló | 375 |  |
 
-| 8. | nyomozó | 125 200*** |  |
+| 8. | nyomozó | 375 450*** |  |
 
-| 9. | szakoktató |  | 100 |
+| 9. | szakoktató |  | 350 |
 
-| 10. | technikus | 125 | 75 |
+| 10. | technikus | 375 | 325 |
 
-| 11. | ügyeletes | 125 |  |
+| 11. | ügyeletes | 375 |  |
 
-| 12. | referens | 125 | 75 |
+| 12. | referens | 375 | 325 |
 
-| 13. | vizsgáló | 125 |  |
+| 13. | vizsgáló | 375 |  |
 
-| 14. | járőrparancsnok | 125 150** |  |
+| 14. | járőrparancsnok | 375 475** 500** |  |
 
-| 15. | C | fogdafelügyelő | 125 |  |
+| 15. | C | fogdafelügyelő | 375 |  |
 
-| 16. | járőrvezető | 125 150** |  |
+| 16. | járőrvezető | 375 475** 500** |  |
 
-| 17. | kutyavezető | 150** |  |
+| 17. | kutyavezető | 475** 500** |  |
 
-| 18. | segédelőadó | 125 200*** | 75 |
+| 18. | segédelőadó | 375 450*** | 325 |
 
-| 19. | bűnügyi referens | 125 |  |
+| 19. | bűnügyi referens | 375 |  |
 
-| 20. | B | fogdaőr | 125 |  |
+| 20. | B | fogdaőr | 375 |  |
 
-| 21. | járőr | 125 150** |  |
+| 21. | járőr | 375 475** 500** |  |
 
-| 22. | gépjárművezető | 125 | 75 |
+| 22. | gépjárművezető | 375 | 325 |
 
-| 23. | kísérőőr | 125 |  |
+| 23. | kísérőőr | 375 |  |
 
-| 24. | bűnügyi segédelőadó | 125 200*** |  |
+| 24. | bűnügyi segédelőadó | 375 450*** |  |
 
-| 25. | A | objektumőr | 100* 125 |  |
+| 25. | A | objektumőr | 350* 375 |  |
 
-| 26. | járőrtárs | 100* |  |
+| 26. | járőrtárs | 350* |  |
 
-| 27. | helyi | E | őrparancsnok | 125 |  |
+| 27. | helyi | E | őrparancsnok | 375 |  |
 
-| 28. | szolgálatirányító parancsnok | 125 |  |
+| 28. | szolgálatirányító parancsnok | 375 |  |
 
-| 29. | csoportparancsnok | 125 |  |
+| 29. | csoportparancsnok | 375 |  |
 
-| 30. | D | helyszínelő | 125 |  |
+| 30. | D | helyszínelő | 375 |  |
 
-| 31. | helyszínelő és balesetvizsgáló | 125 |  |
+| 31. | helyszínelő és balesetvizsgáló | 375 |  |
 
-| 32. | körzeti megbízott | 125 150** |  |
+| 32. | körzeti megbízott | 375 475** 500** |  |
 
-| 33. | nyomozó | 125 |  |
+| 33. | nyomozó | 375 |  |
 
-| 34. | technikus | 125 | 75 |
+| 34. | technikus | 375 | 325 |
 
-| 35. | vizsgáló | 125 |  |
+| 35. | vizsgáló | 375 |  |
 
-| 36. | referens | 125 | 75 |
+| 36. | referens | 375 | 325 |
 
-| 37. | C | segédtechnikus | 125 | 75 |
+| 37. | C | segédtechnikus | 375 | 325 |
 
-| 38. | ügyeletes | 125 |  |
+| 38. | ügyeletes | 375 |  |
 
-| 39. | járőrparancsnok | 125 150* |  |
+| 39. | járőrparancsnok | 375 475** 500** |  |
 
-| 40. | bűnügyi referens | 125 |  |
+| 40. | bűnügyi referens | 375 |  |
 
-| 40a. | hajóvezető | 125 |  |
+| 41. | C | hajóvezető | 375 |  |
 
-| 41. | B | fogdafelügyelő | 125 |  |
+| 42. | B | fogdafelügyelő | 375 |  |
 
-| 42. |  |  |  |
+| 43. | hajóvizsgáló | 375 |  |
 
-| 43. | hajóvizsgáló | 125 |  |
+| 44. | járőrvezető | 375 475** 500** |  |
 
-| 44. | járőrvezető | 125 150** |  |
+| 45. | kutyavezető | 475** 500** |  |
 
-| 45. | kutyavezető | 150 |  |
+| 46. | segédelőadó | 375 | 325 |
 
-| 46. | segédelőadó | 125 | 75 |
+| 47. | bűnügyi segédelőadó | 375 |  |
 
-| 47. | bűnügyi segédelőadó | 125 |  |
+| 48. | A | fogdaőr | 375 |  |
 
-| 48. | A | fogdaőr | 125 |  |
+| 49. | járőr | 375 475** 500** |  |
 
-| 49. | járőr | 125 150** |  |
+| 50. | kísérőőr | 375 |  |
 
-| 50. | kísérőőr | 125 |  |
+| 51. | motorcsónak-vezető | 375 |  |
 
-| 51. | motorcsónak-vezető | 125 |  |
+| 52. | objektumőr | 350* 375 |  |
 
-| 52. | objektumőr | 100* 125 |  |
+| 53. | gépjárművezető | 375 | 350 |
 
-| 53. | gépjárművezető | 125 | 100 |
+| 54. | bűnügyi fogalmazó | 375 |  |
 
-| 54. | bűnügyi fogalmazó | 125 |  |
+| 55. | járőrtárs | 350* |  |
 
-| 55. | járőrtárs | 100* |  |
+7.4. Megjegyzés:
 
-## 100*: Az önálló intézkedésre nem jogosult rész-szakképesítéssel rendelkező állomány esetében a hivatásos pótlék mértéke 100%.
+7.4.1. 350*: Az önálló intézkedésre nem jogosult rész-szakképesítéssel rendelkező állomány esetében a hivatásos pótlék mértéke 350%.
 
-## 150**: A szolgálati állat kiképzésében résztvevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében a hivatásos pótlék mértéke 150%.,
+7.4.2. 450***: A Bűnügyi Szervek Kiemelt Ügyek Főosztálya Bűnügyi Bevetési Osztály bevetési feladatokat közvetlenül ellátó állománya esetében a hivatásos pótlék mértéke 450%.
 
-## 200***: A Bűnügyi Szervek Kiemelt Ügyek Főosztálya Bűnügyi Bevetési Osztály bevetési feladatokat közvetlenül ellátó állománya esetében a hivatásos pótlék mértéke 200%.
+7.4.3. 475**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 475%.
 
-## **** Az ellenőr/főellenőr/kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági, vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
+7.4.4. 500**: A gondozásból adódó többletteher ellentételezése érdekében a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy annál több kutya gondozása esetén a hivatásos pótlék mértéke 500%.
 
-VIII. A Nemzetközi Oktatási Központ szolgálati beosztásai
+7.4.5. ****: Az ellenőr/főellenőr/kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
 
-## (területi szerv besorolású)
+8. A Nemzetközi Oktatási Központ szolgálati beosztásai
 
-1. Vezetői besorolási osztályba tartozó szolgálati beosztások
+(területi szerv besorolású)
+
+8.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D | E |
 
-| 1. | vezetői |  |  | hivatásos pótlék mértéke (%) |
+| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 2. | kategória | besorolási kategória | beosztás | alapfeladat | nem alap- feladat |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 3. | kiemelt | területi szerv vezetője | igazgató | 100 |  |
+| 3. | kiemelt | területi szerv vezetője | igazgató | 150-350 |  |
 
-| 4. | középvezető | szakirányító 2 | igazgató-helyettes | 100 |  |
+| 4. | középvezető | szakirányító 2 | igazgató-helyettes | 150-350 |  |
 
-| 5. | középvezető | főosztályvezető 2 | osztályvezető (NEO) | 100 |  |
+| 5. | középvezető | főosztályvezető 2 | osztályvezető (NEO) | 150-350 |  |
 
-| 6. | beosztott vezető | főosztályvezető- helyettes 1 | osztályvezető (ILEA, KERA, CEPOL, ICOFI, TKO) | 100 |  |
+| 6. | beosztott vezető | főosztályvezető-helyettes 1 | osztályvezető (ILEA, KERA, CEPOL, ICOFI, TKO) | 150-350 |  |
 
-2. Tiszti besorolási osztályba tartozó szolgálati beosztások
+8.2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
-| 1. | besorolási |  | hivatásos pótlék mértéke (%) |
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 2. | kategória | beosztás | alapfeladat | nem alap- feladat |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 3. | E | osztályvezető-helyettes | 100 | 100 |
+| 3. | E | osztályvezető-helyettes | 350 | 350 |
 
-| 4. | E | alosztályvezető | 100 | 100 |
+| 4. | E | alosztályvezető | 350 | 350 |
 
-| 5. | D | kiemelt főelőadó | 100 | 100 |
+| 5. | D | kiemelt főelőadó | 350 | 350 |
 
-| 6. | C | főelőadó | 100 | 100 |
+| 6. | C | főelőadó | 350 | 350 |
 
-3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+8.3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
-| 1. | besorolási |  | hivatásos pótlék mértéke (%) |
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 2. | kategória | beosztás | alapfeladat | nem alap- feladat |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 3. | D | referens | 100 | 100 |
+| 3. | D | referens | 350 | 350 |
 
-| 4. | C | segédelőadó |  | 100 |
+| 4. | C | segédelőadó |  | 350 |
 
-| 5. | B | gépjárművezető |  | 100 |
+| 5. | B | gépjárművezető |  | 350 |
 
-[^30]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 17/2017. (VII. 5.) BM rendelet 2. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (1) bekezdése, a 13/2019. (IV. 12.) BM rendelet 2. §-a, a 19/2019. (V. 13.) BM rendelet 1. §-a, a 2/2020. (I. 17.) BM rendelet 2. § a) pontja, a 18/2020. (VI. 30.) BM rendelet 12. §-a, a 20/2021. (VII. 14.) BM rendelet 20. § (1) bekezdése, a 4/2022. (III. 25.) BM rendelet 11. §-a, a 16/2022. (V. 4.) BM rendelet 1. §-a, a 19/2022. (VII. 15.) BM rendelet 89. § (2) bekezdés, (3) bekezdés a) pontja és (4) bekezdés a) pontja szerint, a 23/2022. (VII. 29.) BM rendelet 18. § (1) bekezdése szerint módosított szöveg. [A 2. melléklet VI. alcímében a 16/2022. (V. 4.) BM rendelet 1. melléklet 3. pont c) és d) alpontjával, VIII. alcímében a 23/2022. (VII. 29.) BM rendelet 18. § (2) bekezdésével, a 45/2022. (XII. 20.) BM rendelet 82. § a)-c) pontja által elrendelt módosítás elrendelt módosítás nem vezethető át.]
+9. Rövidítések és megjegyzések
+
+9.1. E melléklet alkalmazásában:
+
+9.1.1. ÁFSZ: Készenléti Rendőrség Állami Futárszolgálat,
+
+9.1.2. BEI: Nemzetközi Bűnügyi Együttműködési Központ Bűnügyi Ellátó Igazgatóság,
+
+9.1.3. BRFK: Budapesti Rendőr-főkapitányság,
+
+9.1.4. CEPOL: Nemzetközi Oktatási Központ Európai Rendőr Akadémia (European Police College),
+
+9.1.5. ICOFI: Nemzetközi Oktatási Központ Nemzetközi Pénzügyi Nyomozói Akadémia (International College of Financial Investigation),
+
+9.1.6. ILEA: Nemzetközi Oktatási Központ Nemzetközi Rendészeti Akadémia (International Law Enforcement Academy),
+
+9.1.7. KERA: Nemzetközi Oktatási Központ Közép-európai Rendőr Akadémia,
+
+9.1.8. KHSZ: Közigazgatási Hatósági Szolgálat,
+
+9.1.9. KIG: Készenléti Rendőrség Költségvetési Igazgatóság,
+
+9.1.10. KR: Készenléti Rendőrség,
+
+9.1.11. LRSZ: Készenléti Rendőrség Légirendészeti Szolgálat,
+
+9.1.12. MÜIG: Készenléti Rendőrség Műszaki és Üzemeltetési Igazgatóság,
+
+9.1.13. VMRFK: Vármegyei Rendőr-főkapitányság,
+
+9.1.14. NEO: Nemzetközi Oktatási Központ Nemzetközi Ellátó Osztály,
+
+9.1.15. NNI: Készenléti Rendőrség Nemzeti Nyomozó Iroda,
+
+9.1.16. NNI KEF: Készenléti Rendőrség Nemzeti Nyomozó Iroda Kiberbűnözés Elleni Főosztály,
+
+9.1.17. ORFK: Országos Rendőr-főkapitányság,
+
+9.1.18. RBI: Készenléti Rendőrség Regionális Bevetési Igazgatóság,
+
+9.1.19. RRI: Repülőtéri Rendőr Igazgatóság,
+
+9.1.20. TKO: Nemzetközi Oktatási Központ Továbbképzési és Koordinációs Osztály,
+
+9.1.21. TŰSZ: Készenléti Rendőrség Tűzszerész Szolgálat,
+
+9.1.22. ÜVSZ: Készenléti Rendőrség Ügyeleti Védelmi Szolgálat.
+
+9.2. Megjegyzés:
+
+9.2.1. központi szerv: Országos Rendőr-főkapitányság (ORFK),
+
+9.2.2. területi szervek: (vármegyei illetékességű középirányító és azonos jogállású): BRFK, VMRFK-k, KR, RRI, Rendőrségi Oktatási és Kiképző Központ, Nemzetközi Bűnügyi Együttműködési Központ, Nemzetközi Oktatási Központ,
+
+9.2.3. helyi szervek: rendőrkapitányságok, határrendészeti kirendeltségek,
+
+9.2.4. kiemelt rendőrkapitányságok: a BRFK II., III., IV., V., VII., VIII., IX., X., XI., XIII., XIV. kerületi Rendőrkapitányság és a Dunai Vízirendészeti Rendőrkapitányság, a vármegyeszékhelyi rendőrkapitányságok, a Gödöllői, a Soproni, a Nagykanizsai, a Dunaújvárosi, az Érdi, a Hódmezővásárhelyi Rendőrkapitányság,
+
+9.2.5. kiemelt határrendészeti kirendeltségek: a Szegedi, a Kiszombori, a Nagylaki, a Kelebiai, a Hercegszántói, a Bácsbokodi, a Bácsalmási, a Záhonyi Határrendészeti Kirendeltség.
+
+[^31]: A 2. melléklet a 2/2023. (I. 30.) BM rendelet 19. § a) pontjával megállapított szöveg.

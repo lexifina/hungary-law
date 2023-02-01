@@ -1,6 +1,6 @@
-## 21. §[^26] A 9. és 10. mellékletnek a képesítési követelményekkel összefüggésben egyes belügyi tárgyú miniszteri rendeletek módosításáról szóló 14/2021. (VI. 16.) BM rendelet (a továbbiakban: Módr.4.) hatálybalépését[^27] megelőző napon hatályos szabályai szerinti, legkésőbb 2022. december 31-ig megszerzett képesítés a Módr.4. hatálybalépését követően is megfelel az e rendelet szerinti rendvédelmi végzettségnek.
+## 21. §[^27] A 9. és 10. mellékletnek a képesítési követelményekkel összefüggésben egyes belügyi tárgyú miniszteri rendeletek módosításáról szóló 14/2021. (VI. 16.) BM rendelet (a továbbiakban: Módr.4.) hatálybalépését[^28] megelőző napon hatályos szabályai szerinti, legkésőbb 2022. december 31-ig megszerzett képesítés a Módr.4. hatálybalépését követően is megfelel az e rendelet szerinti rendvédelmi végzettségnek.
 
-22. §[^28] (1) Ha a 9. melléklet képesítési követelményként a közbiztonsági rendőrjárőr szakképesítést vagy a határrendész és útlevélkezelő rendőrjárőr szakképesítést határozza meg, e képesítési követelményt az is teljesíti, aki 2021. június 15-ét követően e szakképesítés képesítő vizsgáját sikeresen letette, ugyanakkor a szakképesítésről kiállított bizonyítványt a „B” kategóriás gépjárművezetői engedély bemutatásának hiányában nem kapta meg, azzal, hogy részére
+22. §[^29] (1) Ha a 9. melléklet képesítési követelményként a közbiztonsági rendőrjárőr szakképesítést vagy a határrendész és útlevélkezelő rendőrjárőr szakképesítést határozza meg, e képesítési követelményt az is teljesíti, aki 2021. június 15-ét követően e szakképesítés képesítő vizsgáját sikeresen letette, ugyanakkor a szakképesítésről kiállított bizonyítványt a „B” kategóriás gépjárművezetői engedély bemutatásának hiányában nem kapta meg, azzal, hogy részére
 
 a) a „B” kategóriás gépjárművezetői engedélynek és
 
@@ -16,6 +16,6 @@ b) a szakmai bizonyítványnak
 
 a szakmai vizsga sikeres teljesítésétől számított egy éven belüli megszerzését és a rendvédelmi szerv részére történő bemutatását elő kell írni.
 
-[^26]: A 21. §-t a 14/2021. (VI. 16.) BM rendelet 19. §-a iktatta be.
-[^27]: A hatálybalépés időpontja 2021. június 19.
-[^28]: A 22. §-t a 19/2021. (VII. 6.) BM rendelet 1. §-a iktatta be.
+[^27]: A 21. §-t a 14/2021. (VI. 16.) BM rendelet 19. §-a iktatta be.
+[^28]: A hatálybalépés időpontja 2021. június 19.
+[^29]: A 22. §-t a 19/2021. (VII. 6.) BM rendelet 1. §-a iktatta be.

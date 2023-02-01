@@ -1,78 +1,8 @@
-## Rövidítések:
-
-## NEO Nemzetközi Ellátó Osztály
-
-## ILEA Nemzetközi Rendészeti Akadémia (International Law Enforcement Academy)
-
-## KERA Közép-európai Rendőr Akadémia
-
-## CEPOL Európai Rendőr Akadémia (European Police College)
-
-## ICOFI Nemzetközi Pénzügyi Nyomozói Akadémia (International College of Financial Investigation)
-
-## TKO Továbbképzési és Koordinációs Osztály
-
-## Megjegyzés:
-
-## Központi szerv:
-
-## Országos Rendőr-főkapitányság (ORFK)
-
-## Területi szervek: (megyei illetékességű középirányító és azonos jogállású):
-
-## BRFK + MRFK-k + KR + RRI + Rendőrségi Oktatási és Kiképző Központ + Nemzetközi Bűnügyi Együttműködési Központ + Nemzetközi Oktatási Központ
-
-## Helyi szervek:
-
-## rendőrkapitányságok, határrendészeti kirendeltségek
-
-## Kiemelt rendőrkapitányságok:
-
-## a BRFK II., III., IV., V., VII., VIII., IX., X., XI., XIII., XIV. kerületi és a Dunai Vízirendészeti Rendőrkapitányság, a megyeszékhelyi rendőrkapitányságok, a Gödöllői, a Soproni, a Nagykanizsai, a Dunaújvárosi, az Érdi, a Hódmezővásárhelyi Rendőrkapitányság
-
-## Kiemelt Határrendészeti Kirendeltségek:
-
-## a Szegedi, a Kelebiai, a Záhonyi Határrendészeti Kirendeltség
-
-## Egyéb rövidítések:
-
-## ÁFSZ: Készenléti Rendőrség Állami Futárszolgálat
-
-## BRFK: Budapesti Rendőr-főkapitányság
-
-## KHSZ: Közigazgatási Hatósági Szolgálat
-
-## KR: Készenléti Rendőrség
-
-## KR MÜIG: Készenléti Rendőrség Műszaki és Üzemeltetési Igazgatóság
-
-## KR KIG: Készenléti Rendőrség Költségvetési Igazgatóság
-
-## KR NNI: Készenléti Rendőrség Nemzeti Nyomozó Iroda
-
-## KR NNI KEF: Készenléti Rendőrség Nemzeti Nyomozó Iroda Kiberbűnözés Elleni Főosztály
-
-## KR TŰSZ: Készenléti Rendőrség Tűzszerész Szolgálat
-
-## KR ÜVSZ: Készenléti Rendőrség Ügyeleti Védelmi Szolgálat
-
-## KR KEŐ: Készenléti Rendőrség Köztársasági Elnöki Őrség
-
-## KR KEŐ SZO: Készenléti Rendőrség Köztársasági Elnöki Őrség Személyvédelmi Osztály
-
-## KR LRSZ: Légirendészeti Szolgálat
-
-## MRFK: Megyei Rendőr-főkapitányság
-
-## RRI: Repülőtéri Rendőr Igazgatóság
-
-3. melléklet a 30/2015. (VI. 16.) BM rendelethez[^31]
+3. melléklet a 30/2015. (VI. 16.) BM rendelethez[^32]
 
 A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv szolgálati beosztásai
 
-I. Vezetői besorolási osztályba tartozó szolgálati beosztások
-
-## 1X06174N_0
+1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D | E |
 
@@ -82,35 +12,33 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 | 3. | kiemelt vezető | központi szerv vezetője (tábornok) | főigazgató |  |  |
 
-| 4. | központi szerv vezetőjének helyettese (tábornok) | főigazgató-helyettes |  |  |
+| 4. | kiemelt vezető | központi szerv vezetőjének helyettese (tábornok) | főigazgató-helyettes |  |  |
 
-| 5. | területi szerv vezetője* | igazgató | 300 | 300 |
+| 5. | kiemelt vezető | területi szerv vezetője* | igazgató | 350-550 | 350-550 |
 
-| 6. | középvezető | szakirányító 1 | igazgatóhelyettes hivatalvezető | 300 | 300 |
+| 6. | középvezető | szakirányító 1 | igazgatóhelyettes hivatalvezető | 350-550 | 350-550 |
 
-| 7. | szakirányító 2 | főosztályvezető | 300 | 300 |
+| 7. | középvezető | szakirányító 2 | főosztályvezető | 350-550 | 350-550 |
 
-| 8. | főosztályvezető 1 | főtanácsadó | 300 | 300 |
+| 8. | középvezető | főosztályvezető 1 | főtanácsadó | 350-550 | 350-550 |
 
-| 9. | főosztályvezető 1 | önálló osztályvezető (főigazgató közvetlen irányítása alatt) | 300 | 300 |
+| 9. | középvezető | főosztályvezető 1 | önálló osztályvezető (főigazgató közvetlen irányítása alatt) | 350-550 | 350-550 |
 
-| 10. | beosztott vezető | főosztályvezető-helyettes 1 | főosztályvezető-helyettes | 450 |  |
+| 10. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes | 500-700 |  |
 
-| 11. | főosztályvezetőt helyettesítő osztályvezető | 450 | 350 |
+| 11. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezetőt helyettesítő osztályvezető | 500-700 | 400-600 |
 
-| 12. | főosztályvezető- helyettes 2 | osztályvezető | 450 | 350 |
+| 12. | beosztott vezető | főosztályvezető- helyettes 2 | osztályvezető | 500-700 | 400-600 |
 
-| 13. | osztályvezető 1 | tanácsadó | 500 | 400 |
+| 13. | beosztott vezető | osztályvezető 1 | tanácsadó | 550-750 | 450-650 |
 
-| 14. | osztályvezető 2 | osztályvezető-helyettes (kiemelt) | 500 | 350 |
+| 14. | beosztott vezető | osztályvezető 2 | osztályvezető-helyettes (kiemelt) | 550-750 | 400-600 |
 
-| 15. | kirendeltségvezető (osztályvezető-helyettes kiemelt) | 500 |  |
+| 15. | beosztott vezető | osztályvezető 2 | kirendeltségvezető (osztályvezető-helyettes kiemelt) | 550-750 |  |
 
-| 16. | kirendeltségvezető (kiemelt) | 500 |  |
+| 16. | beosztott vezető | osztályvezető 2 | kirendeltségvezető (kiemelt) | 550-750 |  |
 
-II. Tiszti besorolási osztályba tartozó szolgálati beosztások
-
-## 1X06174N_1
+2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
@@ -118,18 +46,28 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | D | osztályvezető-helyettes | 550 | 400 |
+| 3. | D | osztályvezető-helyettes | 800 | 650 |
 
-| 4. | D | kirendeltségvezető (osztályvezető-helyettes) | 550 |  |
+| 4. | D | kirendeltségvezető (osztályvezető-helyettes) | 800 |  |
 
-| 5. | D | alosztályvezető | 500 | 350 |
+| 5. | D | alosztályvezető | 750 | 600 |
 
-| 6. | D | kirendeltségvezető | 500 |  |
+| 6. | D | kirendeltségvezető | 750 |  |
 
-| 7. | D | kiemelt főreferens | 450 | 300 |
+| 7. | D | kiemelt főreferens | 700 | 550 |
 
-| 8. | C | kiemelt főelőadó | 450 | 300 |
+| 8. | C | kiemelt főelőadó | 700 | 550 |
 
-III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^31]: A 3. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § b) pontja, a 20/2021. (VII. 14.) BM rendelet 20. § (2) bekezdése szerint módosított szöveg.
+|  | A | B | C | D |
+
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | D | szakreferens | 700 | 550 |
+
+4. Megjegyzés: * A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv központi szervi jogállású, de igazgatója a vezetői beosztás szempontjából a területi szerv vezetőjével esik egy kategóriába.
+
+[^32]: A 3. melléklet a 2/2023. (I. 30.) BM rendelet 19. § b) pontjával megállapított szöveg.

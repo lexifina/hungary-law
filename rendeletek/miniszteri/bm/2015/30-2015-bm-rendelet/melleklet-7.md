@@ -1,141 +1,175 @@
+7. melléklet a 30/2015. (VI. 16.) BM rendelethez[^37]
+
+A Belügyminisztériumban és a belügyminiszter által irányított szervnél vezényléssel betölthető szolgálati beosztások, azok besorolása és a szolgálati beosztás betöltéséhez szükséges képesítési követelmények, valamint a vezényléssel betölthető szolgálati beosztások száma
+
+1. A Belügyminisztériumba vezényléssel betölthető szolgálati beosztások
+
+1.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
+
 |  | A | B | C | D | E |
 
-| 1. | szerv | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
+| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | központi | E | raktárvezető | 150 |  |
+| 3. | középvezető | szakirányító 1 | sajtófőnök | 200-400 | 200-400 |
 
-| 4. | központi | E | főfelügyelő (műveleti, készenléti) | 350 |  |
+| 4. | középvezető | szakirányító 1 | főosztályvezető | 200-400 | 200-400 |
 
-| 5. | központi | D | referens | 150 | 100 |
+| 5. | középvezető | főosztályvezető 1 | főtanácsadó | 200-400 | 200-400 |
 
-| 5a. | központi | C | segédelőadó | 150 | 100 |
+| 6. | középvezető | főosztályvezető 2 | osztályvezető* | 200-400 | 200-400 |
 
-| 5b. | központi | C | felügyelő (körlet) | 250 |  |
+| 7. | beosztott vezető | főosztályvezető- helyettes 1 | osztályvezető** | 200-400 | 200-400 |
 
-| 6. | területi | E | körlet-főfelügyelő | 250 |  |
+| 8. | beosztott vezető | osztályvezető 1 | tanácsadó | 200-400 | 200-400 |
 
-| 7. | területi | E | főfelügyelő | 200 |  |
+| 9. | beosztott vezető | osztályvezető 1 | sajtószóvivő | 200-400 | 200-400 |
 
-| 7a. | területi | E | főfelügyelő (műveleti) | 250 |  |
+1.1.1. Megjegyzés:
 
-| 8. | területi | E | raktárvezető | 100 |  |
+1.1.1.1. *: a hivatásos állomány tagját középvezetőként kell osztályvezető szolgálati beosztásba sorolni, ha megfelel a Hszt. 58. § (4) bekezdésében foglaltaknak, mely szerint középvezetői beosztásba a hivatásos állomány azon tagja nevezhető ki, aki beosztott vezetői beosztásban legalább három évet eltöltött.
 
-| 9. | területi | E | élelmezésvezető | 100 |  |
+1.1.1.2. **: a hivatásos állomány tagja akkor sorolható be beosztott vezetőként osztályvezető szolgálati beosztásba, ha nem felel meg a Hszt. 58. § (4) bekezdésének, ennek megfelelően beosztott vezetői beosztásban nem töltött el legalább három évet.
 
-| 10. | területi | D | kutyatelep-vezető | 150 |  |
+1.2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-| 11. | területi | D | konyhavezető | 100 |  |
+|  | A | B | C | D |
 
-| 12. | területi | D | mosodavezető | 100 |  |
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 13. | területi | D | vezető szakasszisztens | 100 |  |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 14. | területi | D | főápoló | 100 |  |
+| 3. | E | kiemelt főreferens | 400 | 400 |
 
-| 15. | területi | D | szakoktató |  | 100 |
+| 4. | D | kiemelt főelőadó | 400 | 400 |
 
-| 16. | területi | D | műhelyvezető | 100 |  |
+1.3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-| 17. | területi | D | kiemelt művezető | 100 |  |
+|  | A | B | C | D |
 
-| 18. | területi | D | biztonságtechnikus | 100 |  |
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 19. | területi | C | fegyvermester | 100 |  |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 20. | területi | C | szállítmányvezető | 100 |  |
+| 3. | E | referens | 375 | 375 |
 
-| 21. | területi | C | raktáros | 100 |  |
+| 4. | C | gépkocsivezető |  | 375 |
 
-| 22. | területi | C | szociális segédelőadó | 150* vagy 100 |  |
+2. A belügyminiszter által irányított szervnél vezényléssel betölthető szolgálati beosztások
 
-| 23. | területi | C | segédelőadó | 150* vagy 100 | 50 |
+2.1. A Nemzeti Szakértői és Kutató Központ szolgálati beosztásai
 
-| 23a. | területi | C | segédelőadó (műveleti) | 250 |  |
+2.1.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-| 24. | területi | C | művezető | 100 |  |
+|  | A | B | C | D | E |
 
-| 25. | területi | C | felügyelő (körlet) | 250 |  |
+| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 25a. | területi | C | kutyavezető | 200 |  |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 26. | területi | C | szakasszisztens | 100 |  |
+| 3. | középvezető | szakirányító 2 | főigazgató-helyettes | 150-350 | 150-350 |
 
-| 27. | területi | C | szakápoló | 100 |  |
+| 4. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes | 150-350 | 150-350 |
 
-| 28. | területi | B | felügyelő (foglalkoztatási) | 150* vagy 100 |  |
+| 5. | beosztott vezető | osztályvezető 1 | osztályvezető | 150-350 | 150-350 |
 
-| 29. | területi | B | gépjárművezető | 200 | 75 |
+2.1.2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-| 30. | területi | B | biztonsági felügyelő | 200 |  |
+|  | A | B | C | D |
 
-| 31. | területi | B | ápoló | 100 |  |
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 32. | területi | A | segédfelügyelő | 100 |  |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 33. | helyi | E | körlet-főfelügyelő | 150 |  |
+| 3. | E | kiemelt főreferens | 350 | 350 |
 
-| 34. | főfelügyelő | 150* vagy 125 |  |
+| 4. | D | kiemelt főelőadó | 350 | 350 |
 
-| 35. | raktárvezető | 100 |  |
+| 5. | C | főelőadó | 350 | 350 |
 
-| 36. | élelmezésvezető | 100 |  |
+2.1.3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-| 37. | D | kutyatelep-vezető | 125 |  |
+|  | A | B | C | D |
 
-| 38. | konyhavezető | 100 |  |
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 39. | mosodavezető | 100 |  |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 40. | vezető szakasszisztens | 100 |  |
+| 3. | D | referens | 350 | 350 |
 
-| 41. | főápoló | 100 |  |
+| 4. | C | segédelőadó | 350 | 350 |
 
-| 42. | szakoktató |  | 100 |
+2.2. A rendvédelmi technikum szolgálati beosztásai
 
-| 43. | műhelyvezető | 100 |  |
+2.2.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-| 44. | kiemelt művezető | 100 |  |
+|  | A | B | C | D | E |
 
-| 45. | C | biztonságtechnikus | 100 |  |
+| 1. | vezetői kategória | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 46. | fegyvermester | 100 |  |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 47. | szállítmányvezető | 100 |  |
+| 3. | kiemelt vezető | területi szerv vezetője | igazgató | 150-350 |  |
 
-| 48. | raktáros | 100 |  |
+| 4. | középvezető | főosztályvezető 1 | igazgató-helyettes | 150-350 | 150-350 |
 
-| 49. |  |  | szociális segédelőadó | 150* vagy 100 |  |
+| 5. | beosztott vezető | osztályvezető 1 | osztályvezető | 150-350 | 150-350 |
 
-| 50. | segédelőadó | 150* vagy 100 | 50 |
+2.2.2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
-| 51. | művezető | 100 |  |
+|  | A | B | C | D |
 
-| 52. | szakasszisztens | 100 |  |
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
 
-| 53. | szakápoló | 100 |  |
+| 2. | alapfeladat | nem alapfeladat |
 
-| 54. | B | felügyelő (körlet, foglalkoztatási, munkáltatási) | 150* vagy 100 |  |
+| 3. | E | alosztályvezető | 350 | 350 |
 
-| 55. | kutyavezető | 125 |  |
+| 4. | E | osztályvezető-helyettes | 350 | 350 |
 
-| 56. | ápoló | 100 |  |
+| 5. | E | szakcsoportvezető | 350 |  |
 
-| 57. | A | gépjárművezető | 125 | 75 |
+| 6. | E | vezetőorvos |  | 350 |
 
-| 58. | biztonsági felügyelő | 125 |  |
+| 7. | E | évfolyamparancsnok | 350 |  |
 
-| 59. | segédfelügyelő | 100 |  |
+| 8. | E | kiemelt főreferens |  | 350 |
 
-## Megjegyzés:
+| 9. | E | mesteroktató | 350 |  |
 
-## 150*: 150% a pótlék mértéke, amennyiben speciális (hosszúidős biztonsági, gyógyító-terápiás, pszichoszociális, szexuális bűncselekményt elkövetettek, drogprevenciós) részlegen, különleges biztonsági részlegen vagy HIV részlegen, műveleti osztályon, illetve csoportban teljesít szolgálatot, vagy páncélozott szállító járművet vezet, vagy ténylegesen életfogytiglani szabadságvesztésre ítélt fogvatartottat munkáltat.
+| 10. | D | kiemelt oktató | 350 | 350 |
 
-## Kiemelt büntetés-végrehajtási intézetek:
+| 11. | D | kiemelt főelőadó |  | 350 |
 
-## Budapesti Fegyház és Börtön, Fővárosi Büntetés-végrehajtási Intézet, Pálhalmai Országos Büntetés-végrehajtási Intézet, Sopronkőhidai Fegyház és Börtön, Szegedi Fegyház és Börtön, Szombathelyi Országos Büntetés-végrehajtási Intézet, Állampusztai Országos Büntetés-végrehajtási Intézet, Közép-dunántúli Országos Büntetés-végrehajtási Intézet, Márianosztrai Fegyház és Börtön, Tiszalöki Országos Büntetés-végrehajtási Intézet, Váci Fegyház és Börtön
+| 12. | D | csoportvezető | 350 | 350 |
 
-7. melléklet a 30/2015. (VI. 16.) BM rendelethez[^36]
+| 13. | C | oktatótiszt | 350 |  |
 
-[^36]: A 7. melléklet a 29/2016. (VII. 15.) BM rendelet 38. § c) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (3) bekezdés c) pontja, az 58/2016. (XII. 22.) BM rendelet 50. §-a, a 15/2017. (VI. 22.) BM rendelet 6. §-a, a 14/2018. (VI. 7.) BM rendelet 1. §-a, a 20/2018. (VI. 29.) BM rendelet 5. § (3) bekezdés b) pontja, a 13/2019. (IV. 12.) BM rendelet 3. §-a, a 18/2020. (VI. 30.) BM rendelet 13. §-a, a 20/2021. (VII. 14.) BM rendelet 21. § e) pontja szerint módosított szöveg.
+| 14. | C | főelőadó | 350 | 350 |
+
+| 15. | C | orvos |  | 350 |
+
+2.2.3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D |
+
+| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+
+| 2. | alapfeladat | nem alapfeladat |
+
+| 3. | E | szakoktató | 350 |  |
+
+| 4. | ügyeletes | 350 |  |
+
+| 5. | D | felcser |  | 350 |
+
+| 6. | referens | 350 | 350 |
+
+| 7. | szolgálatvezető |  | 350 |
+
+| 8. | C | segédelőadó |  | 350 |
+
+| 9. | szolgálatparancsnok-helyettes | 350 | 350 |
+
+[^37]: A 7. melléklet a 2/2023. (I. 30.) BM rendelet 19. § g) pontjával megállapított szöveg.
