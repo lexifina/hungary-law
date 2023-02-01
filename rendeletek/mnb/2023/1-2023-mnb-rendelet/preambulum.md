@@ -1,0 +1,1 @@
+A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 171. § (1) bekezdés e), f) és i) pontjában, valamint a 171. § (2) bekezdés b) és c) pontjában kapott felhatalmazás alapján, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 4. § (2), (5) és (6) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:

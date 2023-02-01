@@ -1,0 +1,1 @@
+13. § A hitelintézet pénztárral rendelkező fiókjaiban az ügyfélkiszolgálás folyamatában a pénztári készpénzes fizetési műveleteket lebonyolítani kívánó ügyfelek nem szenvedhetnek hátrányt, a pénztári kiszolgálás színvonala és várakozási ideje nem lehet kedvezőtlenebb az egyéb pénzügyi és kiegészítő pénzügyi szolgáltatásokat igénybe venni kívánó ügyfelekhez képest.
