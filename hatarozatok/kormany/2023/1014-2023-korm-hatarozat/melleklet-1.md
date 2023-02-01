@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat
-
-## a) 1. melléklet 1. pontjában foglalt táblázat C:26b. mezőjében a „7,90” szövegrész helyébe a „20,85” szöveg,
-
-## b) 2. mellékletében foglalt táblázat D:13a. mezőjében a „7,90” szövegrész helyébe a „20,85” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1014/2023. (I. 30.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Hatályos összköltség (bruttó, forint) | Többlettámogatás legfeljebb (bruttó, forint) Az EFOP-1.4.5-20 felhívás keretében finanszírozandó összeg (bruttó, forint) | Projekt megnövelt összköltsége legfeljebb (bruttó, forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-1.4.5-20-2020-00001 | Fókuszban a gyermek | Magyar Máltai Szeretetszolgálat Egyesület (konzorciumvezető), Baptista Szeretetszolgálat Egyházi Jogi Személy, Magyar Református Szeretetszolgálat Alapítvány, Katolikus Karitász – Caritas Hungarica, Magyar Ökumenikus Segélyszervezet, Don Bosco Szalézi Társasága, Miskolci Egyházmegye, Hajdúdorogi Metropolitai Egyház, Hit Gyülekezete Roma Missziós Hálózata, Igazgyöngy Alapítvány, Jézus Társasága Magyarországi Rendtartománya, Kaposfői Szent Erzsébet Alapítvány, Magyar Pünkösdi Egyház Országos Cigánymisszió, Oltalom Szeretetszolgálat, Szent Ferenc Szegényei Alapítvány, Szent Márton Caritas Alapítvány, TUTOR Alapítvány a Betegek és Szegények Megsegítéséért, VILÁGÍTANI FOGOK EGYESÜLET, ADRA Adventista Fejlesztési és Segély Alapítvány, Magyar Bencés Kongregáció Pannonhalmi Főapátság | 7 900 000 000 | 12 950 000 000 | 20 850 000 000 | A projekttel érintett 177 településen élő gyermekek esélyeinek növelése, életkörülményeinek javítása, a gyermekszegénység negatív hatásainak csökkentése helyben elérhető, intenzív, komplex szociális munkával, a családokat és a gyermekgondozást támogató szolgáltatásokkal, eszközökkel és a felhívás keretében megvalósuló tevékenységek szakmai-módszertani támogatásának biztosításával. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
