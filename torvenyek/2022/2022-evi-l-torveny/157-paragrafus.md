@@ -1,1 +1,5 @@
-### 157. §
+## „24a. szerződéses határvadász: az általános rendőrségi feladatok ellátására létrehozott szerv tisztesi rendfokozati állománycsoportba tartozó személyi állományának tagja, aki három éves határozott időre szóló szerződésben vállalja a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 10., 11. és 13. pontjában meghatározott feladatokhoz kapcsolódó rendvédelmi feladatok (a továbbiakban együtt: határvadász feladat) ellátását;”
+
+157. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 42. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A hivatásos állományba jelentkező életvitelét a hivatásos állományba vétel előtt, a rendvédelmi oktatási intézmény tanulója, valamint a rendvédelmi tisztjelölt életvitelét a tanulói, valamint a hallgatói jogviszony létesítése előtt, továbbá a hivatásos állomány tagja, a tanuló, valamint a rendvédelmi tisztjelölt életvitelét a miniszter által meghatározott gyakorisággal, de legfeljebb évente egy alkalommal a jogviszony fennállása alatt ellenőrizni kell. A szolgálati viszony fennállása alatt a kifogástalan életvitel soron kívüli ellenőrzésére akkor kell intézkedni, ha a kifogástalan életvitel ellenőrzésének kezdeményezésére jogosult tudomására jutott adatokból a kifogásolható életvitelre alapos okkal lehet következtetni.”

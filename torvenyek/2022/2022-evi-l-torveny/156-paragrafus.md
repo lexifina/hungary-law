@@ -1,1 +1,3 @@
-### 156. §
+156. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 2. §-a a következő 24a. ponttal egészül ki:
+
+(E törvény alkalmazásában:)
