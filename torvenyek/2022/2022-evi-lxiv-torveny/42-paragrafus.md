@@ -4,7 +4,7 @@ a)
 
 b)
 
-c)
+c) 22. § (3) bekezdés záró szövegrészében a „Különös méltánylást érdemlő esetben a Hatóság a bírságot 50%-kal mérsékelheti.” szövegrész,
 
 d)
 
