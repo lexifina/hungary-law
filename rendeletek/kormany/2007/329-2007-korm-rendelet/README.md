@@ -51,3 +51,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-329-20-
 | 2022-05-10 | 2007-329-20-22.50 | 102/2012. (V. 18.) Korm. rendelet |
 | 2022-07-01 | 2007-329-20-22.51 | 186/2016. (VII. 13.) korm. rendelet |
 | 2023-01-01 | 2007-329-20-22.52 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2023-02-01 | 2007-329-20-22.53 | 616/2022. (XII. 29.) Korm. rendelet |

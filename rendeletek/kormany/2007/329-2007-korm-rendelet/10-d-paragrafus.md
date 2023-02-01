@@ -1,4 +1,4 @@
-10/D. §[^99] (1) A Rendőrségi Oktatási és Kiképző Központ országos illetékességgel végzi az oktatással, képzéssel, szolgálati állatokkal, szabadidős és sporttevékenységgel, a hivatásos állomány alkalmasságával kapcsolatosan hatáskörébe utalt, valamint egyéb, jogszabályban és az alapító okiratban meghatározott feladatokat:
+10/D. §[^100] (1) A Rendőrségi Oktatási és Kiképző Központ országos illetékességgel végzi az oktatással, képzéssel, szolgálati állatokkal, szabadidős és sporttevékenységgel, a hivatásos állomány alkalmasságával kapcsolatosan hatáskörébe utalt, valamint egyéb, jogszabályban és az alapító okiratban meghatározott feladatokat:
 
 a) a rendőrség oktatási, kiképzési stratégiája alapján véleményezi, kidolgozza a rendőrséget érintő oktatási, képzési, kiképzési szakmai anyagokat,
 
@@ -20,4 +20,4 @@ i) működteti a rendőrség vizsgaközpontját.
 
 (2) A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 89. § (1) és (2) bekezdésében meghatározott feladatok végrehajtása érdekében a Rendőrségi Oktatási és Kiképző Központ döntés-előkészítő feladatokat lát el.
 
-[^99]: A 10/D. §-t a 157/2015. (VI. 25.) Korm. rendelet 15. §-a iktatta be, szövege a 223/2020. (V. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^100]: A 10/D. §-t a 157/2015. (VI. 25.) Korm. rendelet 15. §-a iktatta be, szövege a 223/2020. (V. 22.) Korm. rendelet 1. §-ával megállapított szöveg.

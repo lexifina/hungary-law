@@ -54,6 +54,8 @@ v)[^79] a p)–r) pontban meghatározott feladataival kapcsolatban végrehajtja 
 
 w)[^80] a büntetőeljárásról szóló törvényre tekintettel bűnügyi technikai feladatokat lát el, ennek keretében végzi a meghatározott bűnügyi helyszínek esetében a gyakorlati tevékenységet, illetve végzi az általános rendőri szerv bűnügyi technikai tevékenységének szakmai irányítását.
 
+x)[^81] közreműködik az államhatár őrzésében, az államhatár jogellenes átlépésének megelőzésében és megakadályozásában, az államhatár rendjét közvetlenül veszélyeztető konfliktushelyzet és a tömeges méretű migráció kezeléséhez szükséges intézkedésekben, valamint a határrendészeti feladatok végrehajtásában.
+
 [^66]: A 9. § nyitó szövegrésze a 227/2012. (VIII. 23.) Korm. rendelet 4. §-a, a 352/2014. (XII. 29.) Korm. rendelet 2. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^67]: A 9. § b) pontja a 102/2012. (V. 18.) Korm. rendelet 15. § (1) bekezdésével megállapított, nyitó szövegrésze a 83/2015. (III. 31.) Korm. rendelet 3. §-a, a 441/2016. (XII. 16.) Korm. rendelet 18. §-a, a 179/2022. (V. 4.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^68]: A 9. § f) pontja a 102/2012. (V. 18.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
@@ -69,3 +71,4 @@ w)[^80] a büntetőeljárásról szóló törvényre tekintettel bűnügyi techn
 [^78]: A 9. § u) pontját a 286/2013. (VII. 26.) Korm. rendelet 20. § (2) bekezdése iktatta be, szövege a 259/2021. (V. 20.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^79]: A 9. § v) pontját a 447/2013. (XI. 28.) Korm. rendelet 4. § (5) bekezdése iktatta be, szövege a 443/2015. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^80]: A 9. § w) pontját a 350/2016. (XI. 18.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^81]: A 9. § x) pontját az 569/2022. (XII. 23.) Korm. rendelet 21. §-a iktatta be.
