@@ -12,9 +12,11 @@ b) igazságügyi alkalmazottakból,
 
 c) rendvédelmi igazgatási alkalmazottakból,
 
-d) a munka törvénykönyvéről szóló törvény hatálya alá tartozó munkavállalókból, valamint
+d) a munka törvénykönyvéről szóló törvény hatálya alá tartozó munkavállalókból,
 
-e) tisztjelöltekből
+e) tisztjelöltekből, valamint
+
+f) szerződéses határvadászokból
 
 állhat.
 

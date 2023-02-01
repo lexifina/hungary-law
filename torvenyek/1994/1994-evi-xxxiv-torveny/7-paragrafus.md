@@ -36,9 +36,11 @@ e) a rendvédelmi igazgatási szolgálati jogviszonyban,
 
 f) a rendvédelmi feladatokat ellátó szervnél fennálló tisztjelölti szolgálati jogviszonyban,
 
-g) az egészségügyi szolgálati jogviszonyban, és
+g) az egészségügyi szolgálati jogviszonyban,
 
-h) a munkaviszonyban
+h) a munkaviszonyban, és
+
+i) a szerződéses határvadász jogviszonyban
 
 foglalkoztatott.
 

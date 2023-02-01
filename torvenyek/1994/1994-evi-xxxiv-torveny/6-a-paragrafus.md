@@ -1,1 +1,1 @@
-### 6/A. §
+6/A. § Az általános rendőrségi feladatok ellátására létrehozott szerv az 1. § (2) bekezdés 10–11. és 13. pontjában meghatározott feladatok ellátásáról a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti, szerződéses határvadász jogviszonyban foglalkoztatott tagja (a továbbiakban: határvadász) útján is gondoskodhat.
