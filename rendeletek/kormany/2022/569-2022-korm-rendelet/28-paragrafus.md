@@ -1,5 +1,3 @@
-## 10.[^28]
+## 10. A tűzvédelmi hatósági feladatokat ellátó szervezetekről, a tűzvédelmi bírságról és a tűzvédelemmel foglalkozók kötelező élet- és balesetbiztosításáról szóló 259/2011. (XII. 7.) Korm. rendelet módosítása
 
-28. §
-
-[^28]: A 10. alcím (28-29. §) az 53. § (2) bekezdése alapján 2023. február 1-jén lép hatályba.
+28. § A tűzvédelmi hatósági feladatokat ellátó szervezetekről, a tűzvédelmi bírságról és a tűzvédelemmel foglalkozók kötelező élet- és balesetbiztosításáról szóló 259/2011. (XII. 7.) Korm. rendelet 1. melléklete az 5. melléklet szerint módosul.

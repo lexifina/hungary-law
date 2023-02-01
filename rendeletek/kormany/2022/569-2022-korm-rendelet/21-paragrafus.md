@@ -1,3 +1,3 @@
-21. §[^21]
+21. § A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 9. §-a a következő x) ponttal egészül ki:
 
-[^21]: A 21. § az 53. § (2) bekezdés alapján 2023. február 1-jén lép hatályba.
+(A Készenléti Rendőrség az ORFK – közvetlenül az országos rendőrfőkapitány útján ellátott – irányítása alatt önálló feladat- és hatáskörrel, országos illetékességgel önálló szervként)
