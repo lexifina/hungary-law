@@ -6,9 +6,9 @@ a) a belügyi szervvel foglalkoztatási jogviszonyban áll, és
 
 b) foglalkoztatási helyén önálló lakással nem rendelkezik, kivéve, ha az általa használt lakás nem éri el lakásigénye mértékének a lakáscélú állami támogatásokról szóló kormányrendelet által meghatározott méltányolható lakásigény alsó határát és e lakást a belügyi szerv hasznosíthatja, és
 
-c)[^11] az 1. § (2) bekezdés a)–c) pontjában szereplő belügyi szerv vagyonkezelésében lévő lakás esetében hozzájárul a lakásbérleti díj (lakáshasználati díj) és a külön szolgáltatások díjának foglalkoztatási jogviszony alapján járó juttatásból történő levonásához.
+c)[^12] az 1. § (2) bekezdés a)–c) pontjában szereplő belügyi szerv vagyonkezelésében lévő lakás esetében hozzájárul a lakásbérleti díj (lakáshasználati díj) és a külön szolgáltatások díjának foglalkoztatási jogviszony alapján járó juttatásból történő levonásához.
 
-(2)[^12] A már fennálló bérleti jogviszony változatlan feltételekkel fenntartható, ha a foglalkoztatási jogviszonyban álló az Országgyűlési Őrség állományába kerül át.
+(2)[^13] A már fennálló bérleti jogviszony változatlan feltételekkel fenntartható, ha a foglalkoztatási jogviszonyban álló a belügyminiszter irányítása alá nem tartozó rendvédelmi feladatokat ellátó szerv állományába vagy az Országgyűlési Őrség állományába kerül áthelyezésre.
 
 (3) Amennyiben a belügyi szervvel foglalkoztatási jogviszonyban álló személynek állandó jelleggel a foglalkoztatási helyén kell tartózkodnia, részére a munkaköri szolgálati lakás abban az esetben is bérbe adható, ha a munkahelyén, foglalkoztatási helyén önálló lakással rendelkezik.
 
@@ -30,11 +30,11 @@ g) aki foglalkoztatási helyén lakásépítéshez vagy -vásárláshoz 5 éven 
 
 h) aki korábban belügyi rendelkezésű lakásban jogcím nélküli lakáshasználót hagyott vissza.
 
-(4a)[^13] Nem adható bérbe ugyanaz a belügyi rendelkezésű lakás annak, aki az adott belügyi rendelkezésű lakást korábban már bérelte, és bérleti jogviszonya az 5. § (1) bekezdés b) pontja vagy az 5. § (2) bekezdése szerint meghatározott időtartam lejártával szűnt meg.
+(4a)[^14] Nem adható bérbe ugyanaz a belügyi rendelkezésű lakás annak, aki az adott belügyi rendelkezésű lakást korábban már bérelte, és bérleti jogviszonya az 5. § (1) bekezdés b) pontja vagy az 5. § (2) bekezdése szerint meghatározott időtartam lejártával szűnt meg.
 
-(5)[^14] Az 5. melléklet szerinti vezető a (4) bekezdés a)–g) pontjában foglaltaktól eltérést engedélyezhet, ha azt kivételes foglalkoztatási érdek, vagy rendkívüli egyéni körülmények indokolják.
+(5)[^15] Az 5. melléklet szerinti vezető a (4) bekezdés a)–g) pontjában foglaltaktól eltérést engedélyezhet, ha azt kivételes foglalkoztatási érdek, vagy rendkívüli egyéni körülmények indokolják.
 
-[^11]: A 4. § (1) bekezdés c) pontja a 15/2016. (V. 11.) BM rendelet 16. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
-[^12]: A 4. § (2) bekezdése a 15/2016. (V. 11.) BM rendelet 16. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
-[^13]: A 4. § (4a) bekezdését az 1/2018. (I. 18.) BM rendelet 13. §-a iktatta be.
-[^14]: A 4. § (5) bekezdése a 31/2018. (XII. 19.) BM rendelet 19. §-ával megállapított szöveg.
+[^12]: A 4. § (1) bekezdés c) pontja a 15/2016. (V. 11.) BM rendelet 16. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
+[^13]: A 4. § (2) bekezdése a 2/2023. (I. 30.) BM rendelet 17. §-ával megállapított szöveg.
+[^14]: A 4. § (4a) bekezdését az 1/2018. (I. 18.) BM rendelet 13. §-a iktatta be.
+[^15]: A 4. § (5) bekezdése a 31/2018. (XII. 19.) BM rendelet 19. §-ával megállapított szöveg.
