@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-67-20-2
 | --- | --- | --- |
 | 2022-03-05 | 2022-67-20-22.1 | 67/2022. (II. 28.) Korm. rendelet |
 | 2022-03-06 | 2022-67-20-22.2 | 2010: CXXX. törvény |
+| 2023-02-01 | 2022-67-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

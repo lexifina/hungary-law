@@ -24,15 +24,7 @@
 
 (11)[^19]
 
-(12)[^20]
-
-(13)[^21]
-
-(14)[^22]
-
-(15)[^23]
-
-(16)[^24]
+(12) A 209/2013. (VI. 18.) Korm. rendelet a 28. §-át követően a következő 16. alcímmel egészül ki:
 
 [^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^9]: A 9. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -46,8 +38,3 @@
 [^17]: A 9. § (9) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^18]: A 9. § (10) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^19]: A 9. § (11) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 9. § (12) bekezdése a 12. § (2) bekezdése alapján 2023. február 1-jén lép hatályba.
-[^21]: A 9. § (13) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 9. § (14) bekezdése a 12. § (2) bekezdése alapján 2023. február 1-jén lép hatályba.
-[^23]: A 9. § (15) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 9. § (16) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
