@@ -1,0 +1,3 @@
+58. § (1) A másodfokon eljáró személy a személyesen jelen lévő határvadász vizsgálata és meghallgatása, valamint a rendelkezésre álló dokumentáció alapján dönt. Ha szükséges, a másodfokon eljáró személy a döntés meghozatala előtt újabb vizsgálatokat rendelhet el.
+
+(2) Az érintett határvadász távolmaradása esetén öt napon belül igazolással élhet, ebben az esetben új időpontot kell kitűzni a vizsgálatra. Ha a határvadász az ismételten kitűzött vizsgálaton sem jelenik meg, igazolásnak nincs helye, ebben az esetben a személyes megjelenése nélkül, a rendelkezésre álló iratok alapján dönt a másodfokon eljáró személy.

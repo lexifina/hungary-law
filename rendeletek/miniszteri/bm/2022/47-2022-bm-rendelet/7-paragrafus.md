@@ -1,0 +1,1 @@
+7. § A szerződés munkáltató általi tervezett felbontása esetén, a Hszt. 319/F. § (3) bekezdése szerinti esetekben a munkáltató írásban tájékoztatja a határvadászt a szerződés megszűnésének tényéről, okáról, a megszűnés napjáról és – amennyiben a Hszt. 319/F. § (11) bekezdése szerint szükséges – a hátralévő időtartamra járó alapilletmény 50%-ának kifizetéséről.

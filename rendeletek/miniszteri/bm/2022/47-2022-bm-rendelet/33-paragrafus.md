@@ -1,0 +1,1 @@
+33. § A pszichológiai alkalmasságvizsgálatot a KOMP-rendszer támogatásával a vizsgálatot végző pszichológusnak vagy az őt segítő asszisztensnek dokumentálnia kell, amelynek tartalmaznia kell a végrehajtott vizsgálatok időpontját, megnevezését, a végrehajtott vizsgálatok dokumentumait, eredményeit és kiértékelését.

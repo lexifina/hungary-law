@@ -1,0 +1,1 @@
+8. § A jogviszony Hszt. 319/F. § (4) bekezdése szerinti közös megegyezéssel történő megszüntetése esetén a határvadász vagy a munkáltató – a Hszt. 6. §-ának figyelembevételével – írásban közli erre vonatkozó szándékát, az ezredparancsnok intézkedik a megállapodás írásba foglalására.

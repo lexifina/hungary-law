@@ -1,0 +1,1 @@
+70. § A határvadász egyenruházatát csak feladatai ellátása során, valamint a munkába utazás vagy a munkából történő hazautazás céljából, a lakóhelye és a szolgálatteljesítési helye közötti legrövidebb útvonalon viselheti, egyéb esetekben az egyenruházat viselése tilos.
