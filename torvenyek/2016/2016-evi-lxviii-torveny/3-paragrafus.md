@@ -414,13 +414,13 @@ az egyszerűsített adóraktárban, a kisüzemi bortermelő telephelyén vagy a 
 
 1. cigaretta:
 
-a) a dohányrúd, amely meglévő állapotában dohányzásra alkalmas és nem minősül szivarnak vagy szivarkának,
+a) a dohányrúd, amely meglévő állapotában dohányzásra alkalmas és nem minősül szivarnak, szivarkának vagy hevített terméknek,
 
-b) a dohányrúd, amelyet egyszerű, nem ipari eljárással cigarettapapír-hüvelybe töltenek, vagy cigarettapapír-lappal körbevesznek,
+b) a dohányrúd, amelyet egyszerű, nem ipari eljárással cigarettapapír-hüvelybe töltenek vagy cigarettapapír-lappal körbevesznek, és nem minősül hevített terméknek,
 
-c) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot tartalmaz, de egyébként megfelel az a)–b) pontban meghatározott kritériumoknak;
+c) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot tartalmaz, de egyébként megfelel az a) és b) pontban meghatározott kritériumoknak;
 
-2. dohánygyártmány: a cigaretta, a szivar, szivarka, a finomra vágott fogyasztási dohány, az egyéb fogyasztási dohány, a füst nélküli dohánytermék, a töltőfolyadék, az új dohánytermék-kategóriák és a dohányzást helyettesítő nikotintartalmú termék, kivéve a kizárólag gyógyászati célra használt, gyógyhatású anyagot tartalmazó terméket, amely nem tartalmaz dohányt és a külön jogszabályban meghatározott hatóság által kiadott hatályos forgalomba hozatali engedéllyel rendelkezik;
+2. dohánygyártmány: a cigaretta, a szivar, a szivarka, a finomra vágott fogyasztási dohány, az egyéb fogyasztási dohány, a füst nélküli dohánytermék, a töltőfolyadék, a hevített termék, az új dohánytermék-kategóriák és a dohányzást helyettesítő nikotintartalmú termék, kivéve a kizárólag gyógyászati célra használt, gyógyhatású anyagot tartalmazó terméket, amely nem tartalmaz dohányt és jogszabályban meghatározott hatóság által kiadott hatályos forgalombahozatali engedéllyel rendelkezik;
 
 3. dohánynövény: a 0602 90 50 KN-kód szerinti növény;
 
@@ -452,6 +452,12 @@ b) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot t
 
 9a. füst nélküli dohánytermék: a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvény szerint ekként meghatározott termék;
 
+9b. hevített termék:
+
+a) az olyan dohányrúd és a teljesen vagy részben rúdtól eltérő formájú kapszula, amely a használatához rendelt készülék segítségével hevítés által belélegezhető aeroszolt bocsát ki a dohány elégetése nélkül,
+
+b) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot tartalmaz, de egyébként megfelel az a) pontban meghatározott kritériumoknak;
+
 10. kész dohányvágat: olyan dohánygyártmány, amely pipadohány esetében pipában történő elszívásra, cigarettadohány esetében kézi töltésű cigaretta elkészítésére szolgál, beleértve a dohányzásra alkalmas, ilyenkénti értékesítésre felkínált dohánytörmeléket is;
 
 11. szárított dohány: a tőről leszakított nyersdohány, a 2401 10 35-2401 20 95 KN-kód szerinti feldolgozatlan dohány, továbbá a 2401 30 00 KN-kód szerinti dohányhulladék;
@@ -466,4 +472,4 @@ c) az olyan termék, amely teljesen vagy részben dohánytól eltérő anyagot t
 
 13. töltőfolyadék: olyan folyadék, amelyet az elektronikus cigarettába vagy a dohányzást imitáló elektronikus eszközbe a gyártási folyamat során töltenek be, ideértve az elektronikus cigaretta vagy a dohányzást imitáló elektronikus eszköz utántöltésére, többszöri használatára szolgáló folyadékot is;
 
-14. új dohánytermék-kategóriák: e törvény szerint cigarettának, szivarnak, szivarkának, fogyasztási dohánynak vagy töltőfolyadéknak nem minősülő, a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott dohánytermék.
+14. új dohánytermék-kategóriák: e törvény szerint cigarettának, szivarnak, szivarkának, fogyasztási dohánynak, hevített terméknek vagy töltőfolyadéknak nem minősülő, a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott dohánytermék.

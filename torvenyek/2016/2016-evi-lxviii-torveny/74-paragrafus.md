@@ -46,6 +46,8 @@ l) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott 
 
 m) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott füst nélküli dohányterméket.
 
+n) a külföldre történő kiszállítási céllal szabadforgalomba bocsátott hevített terméket.
+
 (2) A zárjegyet a Magyar Állam állíttatja elő és az állami adó- és vámhatóság bocsátja megrendelés alapján és
 
 a) elszámolási kötelezettség mellett,

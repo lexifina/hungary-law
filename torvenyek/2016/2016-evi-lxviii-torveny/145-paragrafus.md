@@ -44,6 +44,8 @@ ga) a 2021. január 1. és 2021. március 31. közötti időszakban 22 400 forin
 
 gb) 2021. április 1-jétől 23 600 forint kilogrammonként.
 
+h) a hevített termékre 35 forint darabonként (szálanként).
+
 (2) A jövedéki adó megállapítása szempontjából a cigaretta tételes adójának alapját kétszerezni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 8 centimétert, de nem hosszabb, mint 11 centiméter, háromszorozni kell, ha annak hossza – füstszűrő és szopóka nélkül – meghaladja a 11 centimétert, de nem hosszabb, mint 14 centiméter; az előzőek szerinti mérettartomány minden további 3 centiméterenkénti növekedése esetén a tételes adó alapjának szorzószámát eggyel növelni kell.
 
 (3) Az általános forgalmi adó alapja – figyelemmel a (4) bekezdésre – a Szabályozott Tevékenységek Felügyeleti Hatósága honlapján közzétett, az adót tartalmazó kiskereskedelmi eladási ár. Az általános forgalmi adó mértéke az áfatörvény általános adó mértékének megfelelő azon százalékérték, amelyet akkor kell alkalmazni, amikor az adott pénzösszeget úgy kell tekinteni, mint amely fizetendő általános forgalmi adót is tartalmaz.

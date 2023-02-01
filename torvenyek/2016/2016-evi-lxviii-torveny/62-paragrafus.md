@@ -50,6 +50,8 @@ l) füst nélküli dohánytermék esetében 500 gramm,
 
 m) dohányzást helyettesítő nikotintartalmú termék esetében 500 gramm.
 
+n) hevített termék esetében 800 darab.
+
 (5) Nem minősül kereskedelmi célú szállításnak
 
 a) a két tagállam között közlekedő repülőgépek fedélzetén lévő jövedéki termékek szállítása, ha azokat nem hozzák forgalomba, mialatt a repülőgép belföldön tartózkodik,
