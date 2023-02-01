@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-40-20-0
 | 2019-04-09 | 2000-40-20-0A.17 | 7/2002. (II. 28.) AB határozat |
 | 2022-01-01 | 2000-40-20-0A.18 | 41/2021. (XI. 25.) BM rendelet |
 | 2023-01-01 | 2000-40-20-0A.19 | 45/2022. (XII. 20.) BM rendelet |
+| 2023-02-01 | 2000-40-20-0A.20 | 2/2023. (I. 30.) BM rendelet |

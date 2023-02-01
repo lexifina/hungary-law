@@ -10,7 +10,7 @@ c) az arra jogosult felmondásával,
 
 d) a szállóférőhely használójának, illetőleg házastársának, élettársának, kiskorú gyermekének lakásbérleti jogviszonya létesítésével vagy lakástulajdon szerzésével,
 
-e)[^17] a szállóférőhely használója belügyi szolgálati jogviszonyának megszűnésével, kivéve, ha a használó az Országgyűlési Őrség állományába kerül áthelyezésre,
+e)[^17] a szállóférőhely használója belügyi szolgálati jogviszonyának megszűnésével, kivéve, ha a használó a belügyminiszter irányítása alá nem tartozó rendvédelmi feladatokat ellátó szerv állományába vagy az Országgyűlési Őrség állományába kerül áthelyezésre,
 
 f) a szállóférőhely használójának halálával,
 
@@ -28,5 +28,5 @@ d) a szállóférőhely használója vagy a vele együtt lakó személy a házir
 
 e) házaspári lakóegység esetében, ha a házastársak, élettársak életközösségüket felbontják, illetőleg megszüntetik.
 
-[^17]: A 8. § (1) bekezdés e) pontja a 75/2013. (XII. 18.) BM rendelet 29. §-ával megállapított szöveg, e módosító rendelet 27. §-a alapján rendelkezéseit a benyújtott, de még el nem bírált kérelmek esetén is alkalmazni kell.
+[^17]: A 8. § (1) bekezdés e) pontja a 2/2023. (I. 30.) BM rendelet 3. §-ával megállapított szöveg.
 [^18]: A 8. § (2) bekezdésének b) pontját a 31/2003. (VII. 18.) BM rendelet 10. §-ának (2) bekezdése hatályon kívül helyezte.
