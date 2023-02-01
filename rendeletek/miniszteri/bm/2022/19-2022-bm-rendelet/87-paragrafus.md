@@ -1,7 +1,0 @@
-## 86. § A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos szolgálati viszonyban álló tagjai illetményének és egyéb juttatásainak megállapításáról, valamint a folyósítás szabályairól szóló 33/2015. (VI. 16.) BM rendelet IV. Fejezet 17–38. §-át, valamint az V. Fejezetét a Készenléti Rendőrség Határvadász Ezred állományába tartozó határvadászra alkalmazni kell azzal, hogy a hivatásos állomány tagján a határvadászt kell érteni.
-
-## 36. Az egészségügyi és pszichológiai alapellátás
-
-87. § (1) A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szerveknél foglalkoztatott hivatásos szolgálati jogviszonyban állók és rendvédelmi igazgatási alkalmazottak egészségügyi és pszichológiai ellátással összefüggő kérdéseiről szóló 2/2021. (I. 14.) BM rendelet 4. és 13. §-át a Készenléti Rendőrség Határvadász Ezred állományába tartozó határvadászra alkalmazni kell.
-
-(2) A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szerveknél foglalkoztatott hivatásos szolgálati jogviszonyban állók és rendvédelmi igazgatási alkalmazottak egészségügyi és pszichológiai ellátással összefüggő kérdéseiről szóló 2/2021. (I. 14.) BM rendelet 12. §-át a határvadász esetében azzal az eltéréssel kell alkalmazni, hogy a (2) bekezdés b) pontja szerinti pszichológiai gondozásra akkor kerül sor, ha a határvadász pszichológiai alkalmasságvizsgálata során az alkalmasságot megállapító rendvédelmi alapellátó pszichológus „Alkalmas gondozással” minősítést adott.
