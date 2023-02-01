@@ -12,7 +12,7 @@ c) vérszerinti, örökbefogadott, nevelt vagy mostohagyermeke addig, amíg a ne
 
 2. harmadik ország: olyan állam, amely nem tagállama az Európai Uniónak;
 
-3.[^40] kihelyező elöljáró: a miniszter;
+3.[^41] kihelyező elöljáró: a miniszter;
 
 4. kihelyező szerv: az a rendvédelmi szerv, amelynek állományába a hivatásos állomány tagja tartozik;
 
@@ -22,4 +22,4 @@ c) vérszerinti, örökbefogadott, nevelt vagy mostohagyermeke addig, amíg a ne
 
 7. tartós külszolgálat: az a külföldi állomáshelyen teljesített szolgálat, amelynek tervezett időtartama – megszakítás nélkül – a három hónapot meghaladja.
 
-[^40]: A 33. § 3. pontja a 671/2020. (XII. 28.) Korm. rendelet 32. § i) pontja szerint módosított szöveg.
+[^41]: A 33. § 3. pontja a 671/2020. (XII. 28.) Korm. rendelet 32. § i) pontja szerint módosított szöveg.

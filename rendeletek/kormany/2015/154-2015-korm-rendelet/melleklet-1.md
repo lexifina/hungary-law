@@ -1,4 +1,4 @@
-1. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^54]
+1. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^55]
 
 A rendvédelmi szervnek a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szempontjából központi, területi vagy helyi szervnek minősülő szervei
 
@@ -130,4 +130,4 @@ X. Nemzeti Információs Központ
 
 XI. Idegenrendészeti szerv
 
-[^54]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § a) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés a) pontja, a 2/2019. (I. 22.) Korm. rendelet 2. §-a, a 126/2019. (V. 30.) Korm. rendelet 24. § (1) bekezdése, a 327/2020. (VII. 2.) Korm. rendelet 1. §-a, a 308/2020. (VI. 30.) Korm. rendelet 2. § a) pontja, a 239/2022. (VI. 30.) Korm. rendelet 26. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 212. § a)-b) pontja, a 628/2022. (XII. 30.) Korm. rendelet 39. § (1) bekezdése szerint módosított szöveg.
+[^55]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § a) pontja, a 350/2016. (XI. 18.) Korm. rendelet 20. § (3) bekezdés a) pontja, a 2/2019. (I. 22.) Korm. rendelet 2. §-a, a 126/2019. (V. 30.) Korm. rendelet 24. § (1) bekezdése, a 327/2020. (VII. 2.) Korm. rendelet 1. §-a, a 308/2020. (VI. 30.) Korm. rendelet 2. § a) pontja, a 239/2022. (VI. 30.) Korm. rendelet 26. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 212. § a)-b) pontja, a 628/2022. (XII. 30.) Korm. rendelet 39. § (1) bekezdése szerint módosított szöveg.

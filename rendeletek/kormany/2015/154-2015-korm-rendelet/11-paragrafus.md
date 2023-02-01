@@ -1,6 +1,6 @@
 11. § (1) Az áthelyezésről
 
-a)[^8] a közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezés esetén a Hszt. 96. §-a szerinti személyek két- vagy háromoldalú megállapodást kötnek,
+a)[^9] a közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezés esetén a Hszt. 96. §-a szerinti személyek két- vagy háromoldalú megállapodást kötnek,
 
 b) a más rendvédelmi szervhez történő áthelyezés esetén az átadó szerv, az átvevő szerv és a hivatásos állomány tagja háromoldalú megállapodást köt,
 
@@ -14,4 +14,4 @@ c) a Magyar Honvédséghez történő áthelyezés esetén a hivatásos állomá
 
 (5) Ha az áthelyezésre a rendvédelmi szerven belül kerül sor, az áthelyezett személyi anyaggyűjtőjét az átadó szerv az áthelyezés elrendelését követően az átvevő szerv részére végleg eredetben átadja.
 
-[^8]: A 11. § (1) bekezdés a) pontja a 217/2016. (VII. 22.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^9]: A 11. § (1) bekezdés a) pontja a 217/2016. (VII. 22.) Korm. rendelet 51. §-ával megállapított szöveg.
