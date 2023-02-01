@@ -1,6 +1,6 @@
 3. számú melléklet a 4/1998. (XI. 11.) EüM rendelethez
 
-## Az élelmiszerrel kapcsolatos tevékenység során használt berendezés, felszerelés, gép, munkaeszköz, élelmiszerrel közvetlenül érintkező munkafelület és csomagolóanyag, valamint a személyi tisztaság élelmiszer-biztonsági mikrobiológiai vizsgálata
+Az élelmiszerrel kapcsolatos tevékenység során használt berendezés, felszerelés, gép, munkaeszköz, élelmiszerrel közvetlenül érintkező munkafelület és csomagolóanyag, valamint a személyi tisztaság élelmiszer-biztonsági mikrobiológiai vizsgálata
 
 1. Mintavétel
 

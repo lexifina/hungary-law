@@ -20,23 +20,25 @@
 
 ## II.[^12] A Magyarország területén előállított élelmiszerek esetében kötelező vizsgálatok és határértékek
 
+## 5K09389M_0
+
 | MEGNEVEZÉS | VIZSGÁLAT | n | c | m | M |
 
-| 1. Nyershús, hústermékek |  |  |  |  |  |
+| 1. Nyershús, hústermékek |  |  |  |  |  |
 
-|  | 1.1. darabolt hús, belsőség, baromfi (nyers, egész és darabolt), és azon állatfajok, amelyekre a 2073/2005/EK rendelet nem tartalmaz szabályozást | E. coli* Mikrobaszám* | 5 5 | 2 3 | 50/g 106 | 5×102 107 |
+|  | 1.1. darabolt hús, belsőség, baromfi (nyers, egész és darabolt), és azon állatfajok, amelyekre a 2073/2005/EK rendelet nem tartalmaz szabályozást | E. coli* Mikrobaszám* | 5 5 | 2 3 | 50/g 106 | 5×102 107 |
 
-|  | 1.2.** feldolgozott hús, húsipari termék (vörösáru, felvágott, kolbász, nyers, füstölt és érlelt termék) | S. aureus* C. perfringens* vákuumcsomagolt termékek esetében E. faecalis* hőkezelt termékek esetében | 5 5 5 | 1 1 2 | 103 10 103 | 104 102 105 |
+|  | 1.2.** feldolgozott hús, húsipari termék (vörösáru, felvágott, kolbász, nyers, füstölt és érlelt termék) | S. aureus* C. perfringens* vákuumcsomagolt termékek esetében E. faecalis* hőkezelt termékek esetében | 5 5 5 | 1 1 2 | 103 10 103 | 104 102 105 |
 
-| 2. Szárított zöldség és gyümölcs (pl. dió, mogyoró, kókuszreszelék stb.) | Salmonella E. coli* Penészgomba* | 5 5 5 | – 2 2 | – 102 103 | 0/25 g 103 104 |
+| 2. Szárított zöldség és gyümölcs (pl. dió, mogyoró, kókuszreszelék stb.) | Salmonella E. coli* Penészgomba* | 5 5 5 | – 2 2 | – 102 103 | 0/25 g 103 104 |
 
-| 3. Üdítőital, gyümölcslé prezerv, koncent- rátum, szörp | Mikrobaszám* | 5 | 2 | 10 | 103 |
+| 3. Üdítőital, gyümölcslé prezerv, koncent- rátum, szörp | Mikrobaszám* | 5 | 2 | 10 | 103 |
 
-| 4. Gabona és gabonaipari termékek |  |  |  |  |  |
+| 4. Gabona és gabonaipari termékek |  |  |  |  |  |
 
-|  | 4.1. szójakoncentrátum és szójakészítmény, szójaizolátum | Salmonella Penészgomba* | 5 5 | – 2 | – 103 | 0/25 g 104 |
+|  | 4.1. szójakoncentrátum és szójakészítmény, szójaizolátum | Salmonella Penészgomba* | 5 5 | – 2 | – 103 | 0/25 g 104 |
 
-|  | 4.2. liszt, gabona- és kukoricaőrlemény, búzadara, korpa, rizs, gabonapehely, müzli | Salmonella Penészgomba* | 5 5 | – 2 | – 102 | 0/25 g 103 |
+|  | 4.2. liszt, gabona- és kukoricaőrlemény, búzadara, korpa, rizs, gabonapehely, müzli | Salmonella Penészgomba* | 5 5 | – 2 | – 102 | 0/25 g 103 |
 
 | 5. Fűszerek: fűszer és fűszerkeverék adalékanyag, technológiai segédanyag, élesztő, gyógynövény- és gyümölcsteák |  |  |  |  |  |
 
@@ -56,11 +58,11 @@
 
 | Penészgombák* | 5 | 2 | 104 | 105 |
 
-| 6. Édes-, cukoripari és cukrászati termékek: kakaó, csokoládé, cukrászati termék, keksz, töltött vagy bevont egyéb termék | Salmonella E. coli* | 10 5 | – 1 | – 10 | 0/25 g 102 |
+| 6. Édes-, cukoripari és cukrászati termékek: kakaó, csokoládé, cukrászati termék, keksz, töltött vagy bevont egyéb termék | Salmonella E. coli* | 10 5 | – 1 | – 10 | 0/25 g 102 |
 
-| 7. Kenyér, pékáru, zsemlemorzsa | Salmonella E. coli* | 10 5 | – 2 | – 0/g | 0/25 g 10 |
+| 7. Kenyér, pékáru, zsemlemorzsa | Salmonella E. coli* | 10 5 | – 2 | – 0/g | 0/25 g 10 |
 
-| 8. Szárított, instant készítmények: pudingpor, krémpor, fagylaltpor | Salmonella | 10 | – | – | 0/25 g |
+| 8. Szárított, instant készítmények: pudingpor, krémpor, fagylaltpor | Salmonella | 10 | – | – | 0/25 g |
 
 | 9. Szárított készítmények, hőkezelést igénylő termékek: |  |  |  |  |  |
 
@@ -70,11 +72,11 @@
 
 | 10. Hidegkonyhai termékek (pl. saláták, szendvicsek, majonéz) | Salmonella S. aureus* E. coli* | 5 5 5 | – 1 2 | – 102 10 | 0/25 g 103 102 |
 
-| 11.** Félkész és készételek (gyorsfagyasz- tott is) |  |  |  |  |  |
+| 11.** Félkész és készételek (gyorsfagyasz- tott is) |  |  |  |  |  |
 
-|  | 11.1. hőkezelés nélkül fogyasztható készétel (hűtött konyhai készétel is) | Salmonella S. aureus* C. perfringens* | 10 5 5 | – 1 2 | – 102 10 | 0/25 g 103 102 |
+|  | 11.1. hőkezelés nélkül fogyasztható készétel (hűtött konyhai készétel is) | Salmonella S. aureus* C. perfringens* | 10 5 5 | – 1 2 | – 102 10 | 0/25 g 103 102 |
 
-|  | 11.2. hőkezelés után fogyasztandó félkész étel | Salmonella S. aureus* | 10 5 | 0 2 | – 102 | 0/25 g 104 |
+|  | 11.2. hőkezelés után fogyasztandó félkész étel | Salmonella S. aureus* | 10 5 | 0 2 | – 102 | 0/25 g 104 |
 
 | 12. Egyéb, hőkezelés nélkül fogyasztható élelmiszerek: pörkölt, sózott, olajos magvak, burgonyaszirom | Salmonella E. coli* | 10 5 | – 2 | – 10 | 0/25 g 102 |
 
@@ -148,7 +150,7 @@
 
 2. számú melléklet a 4/1998. (XI. 11.) EüM rendelethez[^14]
 
-## Az élelmiszer megítélését befolyásoló kórokozók
+Az élelmiszer megítélését befolyásoló kórokozók
 
 Minősített kórokozók, amelyek a vizsgált mintában nem fogadhatók el (a határérték: 0):
 

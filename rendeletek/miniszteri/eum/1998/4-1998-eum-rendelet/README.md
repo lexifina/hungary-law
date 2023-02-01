@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-4-20-0B
 | 2015-02-07 | 1998-4-20-0B.4 | 3/2015. (II. 6.) FM rendelet |
 | 2015-06-28 | 1998-4-20-0B.5 | 34/2015. (VI. 25.) FM rendelet |
 | 2015-07-10 | 1998-4-20-0B.6 | 34/2015. (VI. 25.) FM rendelet |
+| 2023-02-01 | 1998-4-20-0B.7 | 34/2015. (VI. 25.) FM rendelet |
