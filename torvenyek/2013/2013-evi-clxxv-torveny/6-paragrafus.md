@@ -40,6 +40,8 @@ k) a szociális hatóság és – az f) pont alá nem tartozó – rehabilitáci
 
 l) a kormányablak az előtte folyamatban lévő eljárásban a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és c)–e) pontjában szereplő adatokat.
 
+m) az ingatlanügyi hatóság a hatósági eljárásaiban a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és b)–f) pontjában szereplő adatokat.
+
 n) az adóhatóság az eljárása során az adózó vagy az eljárás egyéb résztvevője eljárási képessége fennállásának vagy hiányának megállapításához a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és b)–e) pontjában szereplő adatokat.
 
 (3) A közúti közlekedési nyilvántartó szerv és a közlekedési igazgatási hatóság a cselekvőképesség és a közlekedésbiztonsági alkalmasság fennállásának ellenőrzése céljából közvetlen hozzáféréssel jogosult megismerni és kezelni a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és a 3. § (1) bekezdés b)–e) pontjában szereplő adatokat.
