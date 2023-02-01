@@ -4,7 +4,7 @@ a)
 
 b)
 
-c) az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–h) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére vonatkozó különös szabályokat,
+c) az új dohánytermék-kategóriák, valamint az 1. § (1) bekezdés d)–i) pontjában meghatározott termékek forgalmazására, illetve e termékek bemutatására és ismertetésére vonatkozó különös szabályokat,
 
 d)
 

@@ -12,9 +12,11 @@ e) utántöltő flakon, patron, nikotinmentes utántöltő flakon,
 
 f) dohányzást imitáló elektronikus eszköz,
 
-g) dohányzást helyettesítő nikotintartalmú termék, valamint,
+g) dohányzást helyettesítő nikotintartalmú termék,
 
-h) az új dohánytermék-kategóriák kiegészítő termékeinek
+h) az új dohánytermék-kategóriák kiegészítő termékeinek, valamint
+
+i) a dohányzási célú gyógynövénytermék
 
 kiskereskedelme.
 

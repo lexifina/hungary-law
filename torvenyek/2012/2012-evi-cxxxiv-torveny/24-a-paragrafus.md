@@ -23,3 +23,5 @@
 (12) E törvénynek a Módtv.3.-mal megállapított 23. §-át a Módtv.3. hatálybalépését követően indult eljárásokban kell alkalmazni.
 
 (13) E törvénynek a Módtv.3.-mal megállapított 10/B. § (5) bekezdése alapján előírt fizetési kötelezettséget első alkalommal 2022. március 31-ig, a jogviszony 2021. évközi megszűnése esetén a megszűnést követő negyedév végéig kell a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv felhívására teljesíteni.
+
+(14) E törvénynek az egyes bányászati és gazdasági tárgyú törvények módosításáról szóló 2022. évi LXIV. törvénnyel (a továbbiakban: Módtv.5.) megállapított 11. § (1) bekezdésétől eltérően mindazok, akik a Módtv.5. 41. § 4. pontjának hatálybalépését megelőző napon jogszerűen forgalmaztak az 1. § (1) bekezdés i) pontja szerinti terméket, de a Módtv.5. 41. § 4. pontjának hatálybalépését követően erre a továbbiakban nem jogosultak, a még készleten lévő termékeiket a Módtv.5. 41. § 4. pontjának hatálybalépésétől számított 150 napig tovább forgalmazhatják azzal, hogy a Módtv.5. 41. § 4. pontjának hatálybalépését követően új terméket már nem szerezhetnek be.
