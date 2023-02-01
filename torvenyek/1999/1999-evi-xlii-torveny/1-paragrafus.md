@@ -28,7 +28,7 @@ l) tájékoztatás: dohányzásra szánt dohánytermékek csomagolási egységé
 
 m) csomagolási egység: a forgalomba hozott dohánytermék vagy kapcsolódó termék legkisebb egyedi csomagolása;
 
-n) dohányzási célú gyógynövénytermék: növény-, gyógynövény- vagy gyümölcsalapú termék, amely nem tartalmaz dohányt és égési folyamat során fogyasztható;
+n) dohányzási célú gyógynövénytermék: növény-, gyógynövény- vagy gyümölcsalapú termék, amely nem tartalmaz dohányt és hevítéssel, vagy égési folyamat során fogyasztható;
 
 o) határokon átnyúló távértékesítés: fogyasztók részére történő távértékesítés, amelynek során a fogyasztó a termék kiskereskedelmi egységből való megrendelésének időpontjában egy olyan tagállamban tartózkodik, amely nem a kiskereskedelmi egység letelepedése szerinti tagállam vagy harmadik ország; egy kiskereskedelmi egység akkor tekinthető egy adott tagállamban letelepedett kiskereskedelmi egységnek:
 
