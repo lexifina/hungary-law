@@ -68,7 +68,7 @@
 
 | 31. | Bányabezárás, tájrendezés elvégzésének elfogadása | 112 000 | A0420 |
 
-| 32. | Bányászati jog átruházásához történő hozzájárulás | 80 000 | A0430 |
+| 32. | Bányászati jog átruházásához történő hozzájárulás; a bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.) 6/B. § (1) bekezdése szerinti előzetes hozzájárulás, | 80 000 | A0430 |
 
 | 33. | Védőpillér kijelölése; védő-, illetve határpillér meggyengítésének vagy lefejtésének engedélyezése; a védőpillér törlése | 40 000 | A0440 |
 
@@ -129,6 +129,8 @@
 | 61. | Használati jog megállapítása műtárgyanként | 21 000 | A1540 |
 
 | 62. | Vezetékjogi, használati jogi engedély másolatának kiadmányozása | 11 000 | A1550 |
+
+| 62a | A Bt. 38. §-a szerinti szolgalom alapításával kapcsolatos eljárás | Szolgalom alapítása | 100 000 |  |
 
 | 63. | Bányászati hulladékkezelő létesítményekkel kapcsolatos eljárások | Bányászati-hulladékgazdálkodási terv jóváhagyása | 36 000 | A1610 |
 
@@ -258,4 +260,4 @@
 
 4. Polgári robbantási, robbanóanyag-forgalmazási tevékenység engedélyezésének díjai, egyes robbanóanyagok és tárgyak, illetve egyes anyagok besorolásának jóváhagyása
 
-[^4]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a, a 40/2022. (XII. 19.) SZTFH rendelet 23. § d) pontja és 24. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a, a 40/2022. (XII. 19.) SZTFH rendelet 22. §-a, 23. § c) és d) pontja és 24. § a) pontja szerint módosított szöveg.
