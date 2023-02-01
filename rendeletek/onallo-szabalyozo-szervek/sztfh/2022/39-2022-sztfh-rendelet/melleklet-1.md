@@ -16,10 +16,12 @@ A fizetésképtelenségi szakértői igazolvány tartalmi elemei
 
 5. a fizetésképtelenségi szakértő
 
-5.1. arcképe,
+5.1.[^4] arcképmása,
 
 5.2. neve,
 
 5.3. a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény 27/C. § (4) bekezdés f) pont fd) alpontja szerinti nyilvántartási száma,
 
 6. a fizetésképtelenségi szakértőt foglalkoztató felszámoló szervezet vagy szervezetek neve és székhelye.
+
+[^4]: Az 1. melléklet 5. pont 5.1. alpontja a 2/2023. (I. 31.) SZTFH rendelet 5. § a) pontja szerint módosított szöveg.
