@@ -4,7 +4,7 @@
 
 (3) A kamarai meghatalmazás létrehozását a meghatalmazó
 
-a)[^1]
+a) elektronikus úton, ügyfélkapus azonosítást követően a Kamara által biztosított elektronikus felületen kezdeményezheti a Kamara elektronikus rendszeréből kiállított kamarai meghatalmazás nyomtatvány alkalmazásával, azt ott elektronikusan írhatja alá és nyújthatja be elektronikusan a Kamara részére, vagy
 
 b) a Kamara erre kijelölt munkavállalójánál ügyfélkapu hiányában személyesen kezdeményezheti a kamarai meghatalmazás papíralapú létrehozását, amelyet a Kamara munkavállalója saját ügyfélkapus azonosítását követően, a Kamara által biztosított elektronikus rendszerben hoz létre a mezőgazdasági és vidékfejlesztési támogatási szerv által biztosított jelszó felhasználásával, ezt követően a meghatalmazást a meghatalmazó papír alapon aláírja.
 
@@ -69,5 +69,3 @@ c) a kamarai meghatalmazás meghatalmazó általi aláírásának és a Kamara �
 d) azon támogatási jogcímeket és intézkedéseket, amelyekre a kamarai meghatalmazás kiterjed.
 
 (7) A kamarai meghatalmazás mezőgazdasági és vidékfejlesztési támogatási szervvel szembeni hatálybalépésének időpontjáról a mezőgazdasági és vidékfejlesztési támogatási szerv elektronikus úton tájékoztatja a Kamarát. A Kamara a hatálybalépés időpontjára vonatkozó elektronikus tájékoztatás beérkezését követően haladéktalanul, a kamarai meghatalmazásban megadott valamely elérhetőségén tájékoztatja erről a meghatalmazót.
-
-[^1]: Az 1. § (3) bekezdés a) pontja a 10. § (2) bekezdése alapján 2023. február 1-jén lép hatályba.
