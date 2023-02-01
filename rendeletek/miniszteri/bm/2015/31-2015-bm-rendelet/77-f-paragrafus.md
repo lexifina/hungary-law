@@ -1,0 +1,1 @@
+77/F. § Ha az önként vállalt túlszolgálatra a Hszt. 140. § (21) bekezdése alapján kerül sor, abban az esetben a hivatásos állomány tagjának szolgálati elöljárója az előzetes hozzájárulásáról soron kívül dönt, figyelemmel az operatív szolgálatszervezési érdekekre.

@@ -1,4 +1,4 @@
-93/B. §[^75] (1) A kézbesítési fikció alapján kézbesítettnek tekintett munkáltatói intézkedés vonatkozásában a kézbesítési fikció beálltáról történő tudomásszerzés napjától számított tizenöt napon belül terjeszthet elő kérelmet a hivatásos állomány tagja a kézbesítési fikció megdöntésére a munkáltatói intézkedést kiadónál. A kérelem benyújtásának a kézbesítési fikció beállta napjától számított egy év elteltével nincs helye. E határidő elmulasztása miatt igazolással élni nem lehet.
+93/B. §[^80] (1) A kézbesítési fikció alapján kézbesítettnek tekintett munkáltatói intézkedés vonatkozásában a kézbesítési fikció beálltáról történő tudomásszerzés napjától számított tizenöt napon belül terjeszthet elő kérelmet a hivatásos állomány tagja a kézbesítési fikció megdöntésére a munkáltatói intézkedést kiadónál. A kérelem benyújtásának a kézbesítési fikció beállta napjától számított egy év elteltével nincs helye. E határidő elmulasztása miatt igazolással élni nem lehet.
 
 (2) A kézbesítési fikció megdöntésére irányuló kérelemnek a munkáltatói jogkör gyakorlója akkor ad helyt, ha
 
@@ -12,4 +12,4 @@ b) a címzettnek a munkáltatói intézkedést más, az a) pontban nem említett
 
 (5) Ha a munkáltatói jogkör gyakorlója a kézbesítési fikció megdöntésére irányuló kérelemnek helyt ad, a kézbesítéshez fűződő jogkövetkezmények hatálytalanok, és a kézbesítést, valamint a munkáltatói intézkedés végrehajtása érdekében megtett intézkedéseket meg kell ismételni.
 
-[^75]: A 93/B. §-t a 40/2017. (XII. 29.) BM rendelet 12. § (5) bekezdése iktatta be.
+[^80]: A 93/B. §-t a 40/2017. (XII. 29.) BM rendelet 12. § (5) bekezdése iktatta be.

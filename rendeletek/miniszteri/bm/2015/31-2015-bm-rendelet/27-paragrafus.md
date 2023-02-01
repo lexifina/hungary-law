@@ -8,5 +8,5 @@ b) a polgári nemzetbiztonsági szolgálatok hivatásos állománya vonatkozás�
 
 (3)[^39] A (2) bekezdés a) pontja szerinti alkalmasságvizsgálat azon pályázatot benyújtó személyek esetében rendelhető el, illetve a (2) bekezdés b) pontja szerinti előzetes véleményt azon pályázatot benyújtó személyekről kell kérni, akik a 21. § (4) bekezdés g) pontja alapján közzétett, tartalmi és iratcsatolási követelményeknek megfelelő pályázatot nyújtottak be és a pályázati kiírásban a 21. § (4) bekezdés d) és e) pontja alapján meghatározott előírásoknak maradéktalanul megfelelnek.
 
-[^38]: A 27. § (2) bekezdése a 45/2020. (XII. 16.) BM rendelet 118. §-ával megállapított szöveg.
+[^38]: A 27. § (2) bekezdése a 45/2020. (XII. 16.) BM rendelet 118. §-ával megállapított szöveg. [Nem vezethető át a 2/2023. (I. 30.) BM rendelet 26. § a) pontjában foglalt módosítás, amely szerint a „BM rendelet” szövegrész helyébe a „BM rendelet [a továbbiakban: 45/2020. (XII. 16.) BM rendelet] szöveg lép.]
 [^39]: A 27. § (3) bekezdése a 45/2020. (XII. 16.) BM rendelet 118. §-ával megállapított szöveg.

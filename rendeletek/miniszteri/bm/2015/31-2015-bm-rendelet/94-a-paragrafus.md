@@ -1,4 +1,4 @@
-## 29. [^76] A szolgálati viszonyra vonatkozó tájékoztatás
+## 29. [^81] A szolgálati viszonyra vonatkozó tájékoztatás
 
 94/A. § (1) A munkáltatói jogkör gyakorlója a Hszt. 45. § (4) bekezdése szerinti tájékoztatási kötelezettséget a hivatásos állomány tagja felé a (2) bekezdés szerinti rendben teljesíti.
 
@@ -42,4 +42,4 @@ e) a szociális biztonsággal kapcsolatos, a munkáltató által biztosított sz
 
 (6) A (2) bekezdés e) pontjában és az (5) bekezdés c) és e) pontjában foglalt tájékoztatás megadható az ezekre a pontokra irányadó jogszabályi rendelkezésre történő hivatkozással.
 
-[^76]: A 29. alcímet (94/A–94/D. §) a 4/2022. (III. 25.) BM rendelet 13. §-a iktatta be.
+[^81]: A 29. alcímet (94/A–94/D. §) a 4/2022. (III. 25.) BM rendelet 13. §-a iktatta be.
