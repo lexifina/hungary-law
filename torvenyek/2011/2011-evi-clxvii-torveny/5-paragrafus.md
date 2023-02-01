@@ -14,9 +14,11 @@ a) a szolgálati viszony megszüntetésére egészségi, pszichikai, fizikai alk
 
 b) a jogosult 2011 decemberére járó szolgálati nyugdíjának összege – a 2012. január 1-jét megelőzően hatályos szabályok alapján csökkentett mértékben folyósított szolgálati nyugdíj esetén a jogosult 2011 decemberére járó szolgálati nyugdíjának a 2012. január 1-jét megelőzően hatályos szabályok szerinti csökkentések nélküli havi összege – nem haladta meg a 2011. december 31-én hatályos kötelező legkisebb munkabér havi összegének 150 százalékát,
 
-c) a jogosult önkéntes tartalékos szerződést – ide nem értve a honvédelmért felelős miniszter rendeletében meghatározott, területvédelmi feladatok ellátására irányuló önkéntes tartalékos szolgálati viszony létesítésére irányuló szerződést – kötött, a szerződés megkötését követő hónap első napjától a szerződés megszűnése hónapjának utolsó napjáig, vagy
+c) a jogosult önkéntes tartalékos szerződést – ide nem értve a honvédelmért felelős miniszter rendeletében meghatározott, területvédelmi feladatok ellátására irányuló önkéntes tartalékos szolgálati viszony létesítésére irányuló szerződést – kötött, a szerződés megkötését követő hónap első napjától a szerződés megszűnése hónapjának utolsó napjáig,
 
-d) a jogosult a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 29/D. § (3) bekezdése alapján négy vagy több gyermeket nevelő anyának minősül.
+d) a jogosult a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 29/D. § (3) bekezdése alapján négy vagy több gyermeket nevelő anyának minősül, vagy
+
+e) a jogosult a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény szerinti szerződéses határvadász vagy iskolaőri feladat ellátására irányuló jogviszonyt létesít, a jogviszony létesítését követő hónap első napjától a jogviszony megszűnése hónapjának utolsó napjáig.
 
 (4) Ha a személyi jövedelemadó mértéke megváltozik, a (2) bekezdés szerint csökkentett szolgálati járandóság folyósított összegét módosítani kell.
 

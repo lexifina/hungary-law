@@ -4,7 +4,11 @@
 
 (1a) Ha a kötelező legkisebb munkabér havi összege a tárgyévben emelkedik, az éves keretösszeget a megemelt összeg alapján kell meghatározni, és az (1) bekezdés szerint már elrendelt szüneteltetést ennek figyelembevételével – a kötelező legkisebb munkabér megemelt havi összegének hatálybalépését követő 30 napon belül – felül kell vizsgálni.
 
-(2) Szolgálati járandóság esetén az éves keretösszeg számítása során figyelmen kívül kell hagyni az önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 59. § (1) bekezdés i) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített tényleges szolgálatára figyelemmel kifizetett, a kifizető szerv által – a kifizetést követő hónap tizedik napjáig – a nyugdíjfolyósító szerv számára bejelentett összegű juttatásait.
+(2) Szolgálati járandóság esetén az éves keretösszeg számítása során figyelmen kívül kell hagyni
+
+a) az önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 59. § (1) bekezdés i) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített tényleges szolgálatára tekintettel kifizetett juttatásait, és
+
+b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény szerinti szerződéses határvadásznak és iskolaőrnek az e jogviszonyából származó jövedelmét.
 
 (3) A nyugdíjbiztosítási igazgatási szerv a folyósítás szüneteltetéséről, újbóli folyósításáról, valamint a jogalap nélkül felvett korhatár előtti ellátás, illetve szolgálati járandóság visszafizettetéséről – a korhatár előtti ellátásban, illetve szolgálati járandóságban részesülő személynek a Tny. 97. § (5) bekezdése szerint tett bejelentése, illetve az állami adóhatóság által közölt, az éves keretösszegre vonatkozó összesített adatok alapján – hivatalból dönt.
 
