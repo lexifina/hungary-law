@@ -2,14 +2,12 @@
 
 ## Méltányosság
 
-24. § (1)[^40] Az állományilletékes parancsnok a Hszt. 240. §-a alapján, az erre irányuló kérelemre engedélyezheti a kártérítés összegének mérséklését vagy részletekben történő megfizetését, a levonás vagy végrehajtás elhalasztását. Az állományilletékes parancsnok e jogkörében eljárva a károkozás és a károkozó körülményeire, különösen a vétkesség fokára, a károkozás jellegére, gyakoriságára figyelemmel dönt.
+24. §[^40] (1) Az állományilletékes parancsnok, a Hszt. 240. § (1) bekezdés a) és b) pontjában vagy a Hszt. 240. § (2) bekezdésében meghatározott jogkörében eljárva a károkozás és a károkozó körülményeire, a vétkesség fokára, a károkozás jellegére, gyakoriságára figyelemmel dönt.
 
-(1a)[^41] Az állományilletékes parancsnok méltányosságból mérsékelheti vagy elengedheti az eljárás alá vont személyt terhelő szakértői díj megfizetését figyelemmel a károkozás és a károkozó körülményeire, különösen a vétkesség fokára, a károkozás jellegére és gyakoriságára.
+(2) Az állományilletékes parancsnok méltányosságból mérsékelheti vagy elengedheti az eljárás alá vont személyt terhelő szakértői díj megfizetését figyelemmel a károkozás és a károkozó körülményeire, különösen a vétkesség fokára, a károkozás jellegére és gyakoriságára.
 
-(2) Az állományilletékes parancsnok a méltányossági kérelmet haladéktalanul, de legfeljebb 8 napon belül határozattal bírálja el. Az állományilletékes parancsnok határozatával szemben panasznak nincs helye.
+(3) Az állományilletékes parancsnok a méltányossági kérelmet haladéktalanul, de legfeljebb 8 napon belül határozattal bírálja el. Az állományilletékes parancsnok határozatával szemben panasznak nincs helye.
 
-(3)[^42] A 14/A. § (1) bekezdésében meghatározott esetben az állományilletékes parancsnok az (1) bekezdés szerinti döntés meghozatala előtt a hivatásos állomány tagjának korábbi, a károkozás helye szerinti állományilletékes parancsnokának véleményét kikéri.
+(4) A 14/A. § (1) bekezdésében meghatározott esetben az állományilletékes parancsnok az (1) bekezdés szerinti döntés meghozatala előtt a hivatásos állomány tagjának korábbi, a károkozás helye szerinti állományilletékes parancsnokának véleményét kikéri.
 
-[^40]: A 24. § (1) bekezdése a 37/2015. (VI. 16.) BM rendelet 9. § e) pontja szerint módosított szöveg.
-[^41]: A 24. § (1a) bekezdését a 34/2014. (IV. 24.) BM rendelet 9. §-a iktatta be.
-[^42]: A 24. § (3) bekezdését a 40/2017. (XII. 29.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^40]: A 24. § a 2/2023. (I. 30.) BM rendelet 1. §-ával megállapított szöveg.

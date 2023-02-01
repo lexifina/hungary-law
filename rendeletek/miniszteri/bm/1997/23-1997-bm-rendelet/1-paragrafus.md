@@ -10,7 +10,7 @@ b) hivatásos állomány tagján a rendvédelmi tisztjelöltet,
 
 c) szolgálati viszonyon a rendvédelmi tisztjelölti szolgálati jogviszonyt
 
-## kell érteni.
+kell érteni.
 
 (3)[^5] E rendeletet – a 19–23. §, valamint a II/A. Fejezet kivételével – a (4) bekezdésben meghatározott eltérésekkel alkalmazni kell a Hszt. 1. § (1) bekezdés a)–f) pontja szerinti rendvédelmi szerv által rendvédelmi igazgatási szolgálati jogviszonyban foglalkoztatott rendvédelmi igazgatási alkalmazottra is.
 
@@ -27,6 +27,8 @@ d) állományilletékes parancsnokon a szervezeti egység vezetőjét,
 e) szolgálati helyen a munkavégzés helyét,
 
 f) szolgálatteljesítésen a munkavégzést
+
+kell érteni.
 
 [^1]: Az 1. § a 20/2016. (VI. 9.) BM rendelet 43. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdése a 27/2019. (VI. 28.) BM rendelet 1. §-a szerint módosított szöveg.

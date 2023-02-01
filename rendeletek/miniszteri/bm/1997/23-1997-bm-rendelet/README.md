@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-23-20-0
 | 2019-07-01 | 1997-23-20-0A.13 | 27/2019. (VI. 28.) BM rendelet |
 | 2021-07-17 | 1997-23-20-0A.14 | 20/2021. (VII. 14.) BM rendelet |
 | 2022-08-01 | 1997-23-20-0A.15 | 5/2022. (III. 31.) BM rendelet |
+| 2023-02-01 | 1997-23-20-0A.16 | 40/2017. (XII. 29.) BM rendelet |
