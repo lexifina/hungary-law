@@ -1,0 +1,1 @@
+145/A. § A hivatásos állományba tartozó nagyszülő unokája születése esetén öt munkanap – ikergyermekek esetében hét munkanap – pótszabadság igénybevételére jogosult, amelyet legkésőbb a születést követő második hónap végéig, a kérésének megfelelő időpontban kell kiadni.

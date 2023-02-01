@@ -56,6 +56,8 @@
 
 24. szervezeti egység: a rendvédelmi szervnek a rendvédelmi szerv szervezeti rendszerében elhelyezkedő, különböző szervezeti elemekből álló, önálló feladatra és működésre létrehozott, meghatározott székhellyel vagy telephellyel rendelkező, az állományilletékes parancsnok által vezetett szervezete;
 
+24a. szerződéses határvadász: az általános rendőrségi feladatok ellátására létrehozott szerv tisztesi rendfokozati állománycsoportba tartozó személyi állományának tagja, aki három éves határozott időre szóló szerződésben vállalja a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 10., 11. és 13. pontjában meghatározott feladatokhoz kapcsolódó rendvédelmi feladatok (a továbbiakban együtt: határvadász feladat) ellátását;
+
 25. szolgálati beosztás: az állománytáblázatban rendszeresített, a hivatásos állomány tagjával betölthető munkakör;
 
 26. szolgálati elöljáró: a hivatásos állomány tagjával szemben a magasabb szolgálati beosztásánál fogva parancs, intézkedés kiadására vagy munkáltatói jogkör gyakorlására jogosult személy; szolgálati elöljárónak vezető beosztású, rendvédelmi igazgatási alkalmazottként vagy igazságügyi alkalmazottként foglalkoztatott személy is minősülhet;

@@ -6,7 +6,7 @@ a) a rendvédelmi szervnél
 
 aa) igazgatási jogviszonyban,
 
-ab) szolgálati viszonyban,
+ab) hivatásos szolgálati viszonyban,
 
 ac) közalkalmazotti jogviszonyban,
 

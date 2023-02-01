@@ -7,3 +7,5 @@
 (3) A rendvédelmi tisztjelölt pénzbeli járandóságait a rendvédelmi szerv havonta egy összegben a tisztjelölt által megnevezett fizetési számlára átutalja.
 
 (4) Nem jogosult illetményre a rendvédelmi tisztjelölt, ha a rendvédelmi tisztjelölti jogviszonya szünetel, valamint ha jogellenesen távol van.
+
+(5) Távolléti díj fejében a rendvédelmi tisztjelölt részére az alapilletmény, a tanulmányi díj, valamint az illetménypótlék együttes összegének távollét idejére számított időarányos átlaga jár.

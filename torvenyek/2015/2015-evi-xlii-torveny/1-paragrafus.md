@@ -36,7 +36,7 @@ a) a hivatásos szolgálatra jelentkezőkre,
 
 b) a rendvédelmi oktatási intézménybe, hivatásos szolgálat ellátására jogosító képzésre jelentkezőkre,
 
-c) a rendvédelmi oktatási intézmény nem hivatásos állományának ösztöndíjas hallgatóira, tanulóira,
+c) a rendvédelmi oktatási intézmény nem hivatásos állományának tanulóira,
 
 d) a rendvédelmi tisztjelöltre,
 
@@ -57,3 +57,5 @@ is alkalmazni kell.
 (9) A 255/A. §-t és a 362/D. §-t a rendvédelmi szerv teljes személyi állományára alkalmazni kell.
 
 (10) A 291–307. §-t a Nemzeti Adó- és Vámhivatal tekintetében is alkalmazni kell.
+
+(11) A 124/A. alcím rendelkezéseit az általános rendőrségi feladatok ellátására létrehozott szervvel szerződéses jogviszonyban álló szerződéses határvadászra is alkalmazni kell.

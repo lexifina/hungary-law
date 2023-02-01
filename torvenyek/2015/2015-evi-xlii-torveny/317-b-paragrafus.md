@@ -1,6 +1,6 @@
 317/B. § (1) A szolgálati viszonyban álló egészségügyi feladatot ellátó dolgozó
 
-a) a 154–158. § szerinti illetmény helyett az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) 1. mellékletében meghatározott illetmény 106%-ára jogosult, az Eszjtv. 8. § (8a)–(9a) bekezdése alapján részére meghatározott gyakorlati idő figyelembevételével,
+a) a 154–158. § szerinti illetmény helyett az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) 1. mellékletében meghatározott illetmény 106%-ára jogosult, az Eszjtv. 8. § (8a)–(9a) bekezdése és az Eszjtv. végrehajtásáról szóló kormányrendelet alapján részére meghatározott gyakorlati idő figyelembevételével,
 
 b) részére a 180. § (2) bekezdése szerinti tanácsosi és főtanácsosi címpótlék nem folyósítható, azonban a cím használatára jogosult,
 
@@ -10,7 +10,7 @@ d) esetében nem alkalmazható a 160. §, a 6., 8. és 9. mellékletben foglalt,
 
 (2) A rendvédelmi igazgatási szolgálati viszonyban álló egészségügyi feladatot ellátó dolgozó
 
-a) a 289. § szerinti illetmény helyett az Eszjtv. 1. mellékletében meghatározott illetményre jogosult, az Eszjtv. 8. § (8a)–(9a) bekezdése alapján részére meghatározott gyakorlati idő figyelembevételével,
+a) a 289. § szerinti illetmény helyett az Eszjtv. 1. mellékletében meghatározott illetményre jogosult, az Eszjtv. 8. § (8a)–(9a) bekezdése és az Eszjtv. végrehajtásáról szóló kormányrendelet alapján részére meghatározott gyakorlati idő figyelembevételével,
 
 b) esetében a 289/A. § nem alkalmazható azzal, hogy a rendvédelmi igazgatási szolgálati viszonyban álló e törvény szerinti fizetési fokozatát vezetni kell,
 

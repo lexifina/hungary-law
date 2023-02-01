@@ -16,7 +16,7 @@ c) az egészségügyi tapasztalatot
 
 kell figyelembe venni.
 
-(4) Az egészségügyi szakdolgozói pótlék megállapításához szükséges gyakorlati időt az Eszjtv. 8. § (8a)–(9a) bekezdésében foglalt idők figyelembevételével kell megállapítani.
+(4) Az egészségügyi szakdolgozói pótlék megállapításához szükséges gyakorlati időt az Eszjtv. 8. § (8a)–(9a) bekezdésében és az Eszjtv. végrehajtásáról szóló kormányrendeletben foglalt idők figyelembevételével kell megállapítani.
 
 (5) Az egészségügyi szakdolgozói pótlékra jogosító szolgálati beosztást és munkakört a középfokú, emeltszintű és felsőfokú végzettséghez kötött szakdolgozói szolgálati beosztásba vagy munkakörbe kell besorolni. Az egészségügyi szakdolgozói pótlék megállapításához szükséges szakdolgozói végzettség szintjeit a miniszter rendeletben határozza meg.
 

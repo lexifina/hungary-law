@@ -8,4 +8,4 @@ b) az állományilletékes parancsnok és a rendvédelmi szerv másik szervezeti
 
 c) az állományilletékes parancsnok és a kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati vagy igazságügyi alkalmazotti szolgálati jogviszony létrehozására feljogosított munkáltatói szerv vezetője
 
-megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi szolgálati vagy igazságügyi alkalmazotti szolgálati jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba történő áthelyezésében.
+megállapodhatnak a hivatásos állomány tagjának kormányzati szolgálati, közszolgálati, közalkalmazotti, egészségügyi, igazságügyi alkalmazotti vagy szolgálati jogviszonyba, rendvédelmi igazgatási szolgálati jogviszonyba történő áthelyezésében.

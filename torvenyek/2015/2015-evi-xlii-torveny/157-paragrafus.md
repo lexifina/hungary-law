@@ -1,4 +1,6 @@
-157. § (1) A hivatásos pótlék a hivatásos állomány esküjében vállalt többletkötelezettségek és a szolgálati beosztással járó többlet-igénybevétel és -terhelés ellentételezését szolgálja. Mértékét a miniszter a rendvédelmi illetményalap 50–650%-a közötti értékben állapítja meg. (2) A hivatásos pótlék mértékének megállapításánál
+157. § (1) A hivatásos pótlék a hivatásos állomány esküjében vállalt többletkötelezettségek és a szolgálati beosztással járó többlet-igénybevétel és -terhelés ellentételezését szolgálja. Mértékét a miniszter a rendvédelmi illetményalap 50–1070%-a közötti értékben állapítja meg.
+
+(2) A hivatásos pótlék mértékének megállapításánál
 
 a) a szolgálatellátás sajátosságaiból adódó valóságos és rendszeresen felmerülő – az életet, testi épséget, egészséget fenyegető – kockázatot,
 

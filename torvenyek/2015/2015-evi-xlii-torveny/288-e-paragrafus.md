@@ -48,7 +48,7 @@ c) az összeférhetetlenség megszüntetését elmulasztotta,
 
 d) állami vezetővé nevezték ki,
 
-e)
+e) a foglalkozás végzéséhez szükséges engedély visszavonásra kerül.
 
 (7) Az igazgatási jogviszony a törvény erejénél fogva azon a napon szűnik meg, amikor a munkáltatói jogkört gyakorló elöljáró a törvényi feltétel beálltát megállapította.
 

@@ -28,6 +28,8 @@ m) az egészségügyi és pszichológiai alapellátás igénybevételének módj
 
 n) a munkavégzés alapvető feltételeiről és szempontjairól szóló tájékoztatás tartalmát és rendjét.
 
+o) az önként vállalt túlmunka vállalásának és elszámolásának rendjét.
+
 (2) A miniszter a polgári nemzetbiztonsági szolgálatok rendvédelmi igazgatási alkalmazottai tekintetében közjogi szervezetszabályozó eszközben határozza meg:
 
 a) azokat a munkaköröket, amelyek esetében a 6/A. § (3)–(5) bekezdése nem alkalmazható,

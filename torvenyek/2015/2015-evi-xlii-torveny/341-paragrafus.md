@@ -108,6 +108,8 @@ b) a túlszolgálat, valamint a készenlét elrendelésének és a pihenőidő k
 
 c) a szabadság nyilvántartásának és kiadásának rendjét, valamint a hivatali munkarendtől eltérő szolgálati időbeosztás esetén szabadságként kiadandó szolgálati napok kiszámításának módját, továbbá a rekreációs célú pótszabadságra jogosultság szempontjából figyelembe vehető, terrorelhárítási feladatok ellátására rendszeresített szolgálati beosztások meghatározását,
 
+d) az önként vállalt túlszolgálat vállalásának és elszámolásának rendjét,
+
 21. meghatározza
 
 a) az illetmény, illetményjellegű juttatások, pótlékok és egyéb juttatások megállapításának és folyósításának rendjét, a költségek viselésének szabályait, a végkielégítés kifizetésének rendjét,

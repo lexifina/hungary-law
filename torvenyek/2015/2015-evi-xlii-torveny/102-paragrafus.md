@@ -2,7 +2,7 @@
 
 a) az előírt helyen és időben, szolgálatképes állapotban megjelenni, ezt az állapotot a szolgálat teljes ideje alatt fenntartani és feladatát teljesíteni, valamint e célból rendelkezésre állni,
 
-b) a szolgálati feladatait a törvényes előírásoknak, a parancsoknak és intézkedéseknek megfelelően – szükség esetén a veszély vállalásával –, az elvárható szakértelemmel és gondossággal, pártatlanul és igazságosan végrehajtani,
+b) a szolgálati beosztásából eredő, valamint – a rendes szolgálatteljesítési idején belül külön ellentételezés nélkül – a szolgálati beosztásához nem tartozó, a végzettsége, képzettsége alapján részére a foglalkoztató szervezeti egység feladatkörén belül meghatározott szolgálati feladatait a törvényes előírásoknak, a parancsoknak és intézkedéseknek megfelelően – szükség esetén a veszély vállalásával –, az elvárható szakértelemmel és gondossággal, pártatlanul és igazságosan végrehajtani,
 
 c) a munkatársaival együttműködni, munkáját úgy végezni és általában olyan magatartást tanúsítani, hogy az – kivéve, ha ez a feladat végrehajtásával elkerülhetetlenül együtt jár – más egészségét, testi épségét ne veszélyeztesse, anyagi károsodását ne idézze elő,
 

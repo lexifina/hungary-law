@@ -1,4 +1,4 @@
-291. § (1) Az MRK a rendvédelmi szervek hivatásos állománya tagjainak, rendvédelmi igazgatási alkalmazottainak, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottainak önkormányzattal rendelkező rendvédelmi szakmai köztestülete.
+291. § (1) Az MRK a rendvédelmi szervek hivatásos állománya tagjainak, szerződéses határvadász tagjainak, rendvédelmi igazgatási alkalmazottainak, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottainak önkormányzattal rendelkező rendvédelmi szakmai köztestülete.
 
 (2) Az MRK kötelező tagsági viszony alapján működik. A rendvédelmi szervvel fennálló szolgálati viszony vagy rendvédelmi igazgatási szolgálati jogviszony, illetve a Nemzeti Adó- és Vámhivatallal fennálló szolgálati jogviszony alapján a hivatásos állomány tagja és a közalkalmazott, illetve a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottja az MRK tagjává válik.
 

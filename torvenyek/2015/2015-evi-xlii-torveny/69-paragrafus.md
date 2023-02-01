@@ -6,7 +6,7 @@ a) a nemzetközi szervezetek által béketámogató, fegyveres vagy egyéb rend�
 
 b) nemzetközi kötelezettségvállalás alapján külföldi béketámogató, fegyveres vagy egyéb rendészeti misszióban való részvételre önkéntes jelentkezés alapján,
 
-c) az Európai Unió intézményeibe nemzeti szakértőként, kormányrendeletben meghatározott jelölési eljárás alapján vagy gyakornokként a miniszter támogatásával,
+c) az Európai Unió intézményeibe, valamint nemzetközi szervezetbe nemzeti szakértőként, kormányrendeletben meghatározott jelölési eljárás alapján vagy gyakornokként a miniszter támogatásával,
 
 d) egyéb, Magyarország nemzetközi kötelezettségeinek ellátásához kapcsolódó feladatok ellátására,
 

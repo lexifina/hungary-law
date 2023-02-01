@@ -4,7 +4,7 @@
 
 280. § (1) Ahol e törvény hivatásos szolgálati időről rendelkezik, szolgálati időként kell figyelembe venni:
 
-a) a rendvédelmi szervnél szolgálati viszonyban töltött időt,
+a) a rendvédelmi szervnél szolgálati viszonyban, szerződéses határvadász jogviszonyban töltött időt,
 
 b) a rendvédelmi szervnél kormánytisztviselői, köztisztviselői, közalkalmazotti, igazságügyi alkalmazotti jogviszonyban, rendvédelmi igazgatási szolgálati jogviszonyban és munkaviszonyban töltött időt,
 
@@ -24,7 +24,7 @@ i) a Nemzeti Adó- és Vámhivatalnál adó- és vámhatósági szolgálati jogv
 
 (2) Ahol e törvény tényleges szolgálati időről rendelkezik, szolgálati időként kell figyelembe venni
 
-a) a valamely rendvédelmi szervnél vagy a Magyar Honvédségnél szolgálati viszonyban eltöltött – naptári napban meghatározandó – időt
+a) a valamely rendvédelmi szervnél szolgálati viszonyban, szerződéses határvadász jogviszonyban vagy a Magyar Honvédségnél szolgálati viszonyban eltöltött – naptári napban meghatározandó – időt
 
 b) az e törvény hatálybalépése előtt az 1996. évi XLIII. törvény rendelkezései alapján tényleges hivatásos szolgálatban eltöltött szolgálati időt.
 

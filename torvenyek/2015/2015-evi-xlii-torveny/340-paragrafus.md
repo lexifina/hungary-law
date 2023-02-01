@@ -22,6 +22,8 @@
 
 9. megállapítsa a hivatásos állomány Európai Unió vagy nemzetközi szervezetek által finanszírozott fejlesztési programban szakértőként részt vevő tagjának szolgálati viszonyára és sajátos jogállására vonatkozó rendelkezéseket,
 
+9a. meghatározza a nemzeti szakértőként a nemzetközi szervezet intézményeiben alkalmazott hivatásos állomány tagjának szolgálati viszonyára és sajátos jogállására vonatkozó szabályokat,
+
 10. meghatározza a szolgálati viszony szünetelésének eljárási rendjét,
 
 11. meghatározza a tartalékállományba vételre és a tartalékállomány működtetésre vonatkozó szabályokat,

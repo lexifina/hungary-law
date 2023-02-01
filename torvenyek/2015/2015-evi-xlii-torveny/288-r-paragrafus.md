@@ -14,6 +14,6 @@ b) a munkakör ellátásához szükséges gyakorlati tapasztalat, készségek é
 
 c) a munkáltató által meghatározott szintű teljesítményértékelés.
 
-(3) A rendvédelmi alkalmazottat és a vezetőt az iskolai végzettség, a munkakör és az igazgatási jogviszonyban eltöltött idő alapján kell a 12. mellékletben megállapított illetménytábla megfelelő fizetési fokozatába sorolni.
+(3) A rendvédelmi alkalmazottat és a vezetőt az iskolai végzettség, a munkakör és az igazgatási jogviszonyban eltöltött idő alapján, a szolgálati idő figyelembevételével kell a 12. mellékletben megállapított illetménytábla megfelelő fizetési fokozatába sorolni.
 
 (4) A rendvédelmi alkalmazottat a 12. mellékletben megállapított illetménytábla szerinti fizetési fokozathoz tartozó szolgálati idő elérése esetén előre kell sorolni és illetményét meg kell állapítani.

@@ -14,7 +14,7 @@ e) az egészségi alkalmatlanság megállapítását követően rendvédelmi eg�
 
 f) az egészségi alkalmatlanság megállapítását követően a rendvédelmi szervnél történő munkaviszony létesítésére tekintettel részére rendvédelmi egészségkárosodási keresetkiegészítést állapítanak meg,
 
-g)
+g) a foglalkozás végzéséhez szükséges engedély visszavonásra kerül.
 
 (2) A szolgálati viszony a törvény erejénél fogva azon a napon szűnik meg, amikor a munkáltatói jogkört gyakorló elöljáró a törvényi feltétel beálltát megállapította.
 

@@ -6,4 +6,4 @@
 
 (2) A rendvédelmi tisztjelöltre e törvénynek a hivatásos állomány tagjára vonatkozó rendelkezéseit az e Fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(3) A rendvédelmi tisztjelölti jogviszonyra nem alkalmazható a 15. §, az 52–72. §, a 78. és 79. §, a 86–95. §, a 96–98. §, a 114–133. §, valamint a 154–178. §.
+(3) A rendvédelmi tisztjelölti jogviszonyra nem alkalmazható a 15. §, az 52–72. §, a 78. és 79. §, a 86–95. §, a 96–98. §, a 111–133. §, a 154–167. §, valamint a 169–178. §.
