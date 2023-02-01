@@ -1,0 +1,3 @@
+33/G. § (1) A Hszt. 289/L. § (16) bekezdése szerinti, a rendvédelmi szerven belül más szervezeti egység vezetőjével kötendő önként vállalt túlmunkára irányuló megállapodásról a rendvédelmi alkalmazott a munkáltatói jogkör gyakorlóját az önként vállalt túlmunkára irányuló megállapodás megkötését megelőző tizenöt napon belül írásban tájékoztatni köteles.
+
+(2) A munkáltatói jogkört gyakorló az (1) bekezdés szerinti tájékoztatás kézhezvételétől számított nyolc napon belül, de legkésőbb az önként vállalt túlmunkára irányuló megállapodás tervezett megkötését megelőző utolsó előtti munkanapon írásban tájékoztatja a rendvédelmi alkalmazottat a tájékoztatás tudomásulvételéről.

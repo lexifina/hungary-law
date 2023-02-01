@@ -1,0 +1,1 @@
+33/J. § Ha az önként vállalt túlmunkára a Hszt. 289/L. § (25) bekezdése alapján kerül sor, abban az esetben a rendvédelmi alkalmazott közvetlen vezetője az előzetes hozzájárulásáról soron kívül dönt, figyelemmel az operatív munkaszervezési érdekekre.
