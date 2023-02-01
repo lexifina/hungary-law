@@ -34,9 +34,11 @@ c) utántöltő flakonra, patronra, nikotinmentes utántöltő flakonra,
 
 d) dohányzást imitáló elektronikus eszközre,
 
-e) dohányzást helyettesítő nikotintartalmú termékre, valamint
+e) dohányzást helyettesítő nikotintartalmú termékre,
 
-f) az új dohánytermék-kategóriák kiegészítő termékeire
+f) az új dohánytermék-kategóriák kiegészítő termékeire, valamint
+
+g) a dohányzási célú gyógynövénytermékre
 
 is megfelelően alkalmazni kell.
 
