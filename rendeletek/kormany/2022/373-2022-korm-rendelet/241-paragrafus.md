@@ -1,1 +1,3 @@
-241. § A 2. melléklet helyébe a 3. melléklet lép.
+241. §[^70]
+
+[^70]: A 241. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
