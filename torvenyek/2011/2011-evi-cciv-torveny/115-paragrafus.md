@@ -99,3 +99,5 @@ megnevezéssel működik.
 (33) Az Eszterházy Károly Egyetemből kiváló Sárospataki Comenius Campus 2021. augusztus 1. napjától Tokaj-Hegyalja Egyetemként jön létre.
 
 (34) Az Eszterházy Károly Egyetem 2021. augusztus 1. napjától Eszterházy Károly Katolikus Egyetem megnevezéssel működik.
+
+(35) A Gábor Dénes Főiskola 2023. február 1-jétől Gábor Dénes Egyetem megnevezéssel, alkalmazott tudományok egyetemeként működik.
