@@ -4,7 +4,7 @@
 
 2.
 
-3.
+3. 12. § (1c) bekezdésében a „megkeresésére” szövegrész helyébe a „felhívására” szöveg,
 
 4.
 
