@@ -1,12 +1,10 @@
-39. § (1)[^39]
+39. § (1)[^37]
 
-(2)[^40]
+(2) A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet 2. melléklete a 3. melléklet szerint módosul.
 
-(3)[^41]
+(3)[^38]
 
-(4)[^42]
+(4) A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet 3. melléklete az 5. melléklet szerint módosul.
 
-[^39]: A 39. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^40]: A 39. § (2) bekezdése a 44. § (2) bekezdés alapján 2023. február 1-jén lép hatályba.
-[^41]: A 39. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^42]: A 39. § (4) bekezdése a 44. § (2) bekezdés alapján 2023. február 1-jén lép hatályba.
+[^37]: A 39. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 39. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,10 +1,9 @@
 40. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény végrehajtásáról szóló 154/2015. (VI. 19.) Korm. rendelet
 
-a)[^43]
+a)[^39]
 
-b)[^44]
+b) 10. § (1) bekezdés a) pontjában az „állami szolgálati, közalkalmazotti,” szövegrész helyébe a „közalkalmazotti, egészségügyi szolgálati,” szöveg
 
 lép.
 
-[^43]: A 40. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^44]: A 40. § b) pontja a 44. § (2) bekezdés alapján 2023. február 1-jén lép hatályba.
+[^39]: A 40. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
