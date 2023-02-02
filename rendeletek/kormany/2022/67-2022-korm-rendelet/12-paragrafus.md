@@ -1,4 +1,4 @@
-## 11. §[^24]
+## 11. §[^27]
 
 ## 6. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 9. § (12) és (14) bekezdése 2023. február 1-jén lép hatályba.
 
-[^24]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
