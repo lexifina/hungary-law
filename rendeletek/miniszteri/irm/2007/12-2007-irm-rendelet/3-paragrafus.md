@@ -14,7 +14,7 @@ e) a katasztrófaveszély esetén, illetve katasztrófahelyzetben a KKB elnöke 
 
 f)[^7] a bányamentő szolgálatok gépjárműire.
 
-g)[^8] a Közbeszerzési és Ellátási Főigazgatóság, a Honvédelmi Minisztérium és a Külgazdasági és Külügyminisztérium 1. § cb) alpontjában meghatározott közérdekű feladatok ellátására rendszeresített gépjárműveire
+g)[^8] a Köztársasági Elnöki Hivatal, a Közbeszerzési és Ellátási Főigazgatóság, a Honvédelmi Minisztérium és a Külgazdasági és Külügyminisztérium 1. § c) pont cb) alpontjában meghatározott feladatok ellátására rendszeresített gépjárműveire,
 
 h)[^9] a Kormány által kijelölt országos illetékességgel közúti közlekedési hatósági ellenőrzést végző közlekedési hatóság meghatározott engedélyhez és meghatározott okmány meglétéhez kötött belföldi vagy nemzetközi közúti közlekedési szolgáltatás, valamint az útdíjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra vonatkozó szabályok ellenőrzésére rendszeresített gépjárműveire.
 
@@ -38,7 +38,7 @@ m)[^14] az Országgyűlési Őrség által jogszabályban meghatározott, védet
 [^5]: A 3. § (1) bekezdés c) pontja a 16/2019. (V. 3.) BM rendelet 1. §-ával megállapított, a 37/2019. (X. 15.) BM rendelet 3. § a) pontja szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdés d) pontja a 2/2015. (II. 3.) BM rendelet 5. § a) pontja szerint módosított szöveg.
 [^7]: A 3. § (1) bekezdésének f) pontját a 41/2009. (IX. 15.) IRM rendelet 46. §-a iktatta be. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^8]: A 3. § (1) bekezdés g) pontját a 62/2011. (XII. 29.) BM rendelet iktatta be, szövege a 2/2015. (II. 3.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdés g) pontját a 62/2011. (XII. 29.) BM rendelet iktatta be, szövege a 3/2023. (II. 1.) BM rendelet 1. §-ával megállapított szöveg.
 [^9]: A 3. § (1) bekezdés h) pontját a 30/2016. (VII. 20.) BM rendelet 1. §-a iktatta be.
 [^10]: A 3. § (1) bekezdés i) pontját a 20/2018. (VI. 29.) BM rendelet 1. § (1) bekezdése iktatta be.
 [^11]: A 3. § (1) bekezdés j) pontját a 27/2018. (X. 4.) BM rendelet 1. §-a iktatta be.
