@@ -1,1 +1,1 @@
-138. § A korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló 2011. évi CLXVII. törvény 5. § (3) bekezdés d) pontjában a „minősül.” szövegrész helyébe a „minősül, vagy” szöveg lép.
+### 138. §
