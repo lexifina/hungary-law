@@ -1,1 +1,3 @@
-1. § Az élelmiszerekben előforduló mikrobiológiai szennyeződések megengedhető mértékéről szóló 4/1998. (XI. 11.) EüM rendelet 3. § (3) bekezdésében a „megyei” szövegrészek helyébe a „vármegyei” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
