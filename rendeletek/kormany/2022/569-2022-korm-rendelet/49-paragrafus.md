@@ -1,3 +1,3 @@
-49. § A nemzetközi szervezeteknél nemzeti szakértőként történő foglalkoztatásról szóló 200/2022. (VI. 7.) Korm. rendelet a következő 3/A. §-sal egészül ki:
+49. §[^50]
 
-„3/A. § A rendvédelmi szervek hivatásos állományának tagja a nemzetközi szervezetbe való vezénylésére a rendvédelmi szerv Hszt. szerinti országos parancsnoka vagy országos főigazgatója – a nemzetközi szervezet felhívásában meghatározott nemzeti szakértői álláshely betöltésére vonatkozó alkalmassági vizsgálata és a jelölt írásbeli hozzájárulása alapján – kezdeményezheti a jelölést. A jelölést a küldő rendvédelmi szervet irányító miniszter a külpolitikáért felelős miniszter útján teszi meg a nemzetközi szervezet felé. A jelölésre egyebekben a 3. §-ban foglaltakat kell alkalmazni.”
+[^50]: A 49. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

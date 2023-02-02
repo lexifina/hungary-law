@@ -1,1 +1,3 @@
-29. § A tűzvédelmi hatósági feladatokat ellátó szervezetekről, a tűzvédelmi bírságról és a tűzvédelemmel foglalkozók kötelező élet- és balesetbiztosításáról szóló 259/2011. (XII. 7.) Korm. rendelet 1. § (2) bekezdés g) pontjában a „létesítési és használatbavételi” szövegrész helyébe az „engedélyezési” szöveg lép.
+29. §[^30]
+
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

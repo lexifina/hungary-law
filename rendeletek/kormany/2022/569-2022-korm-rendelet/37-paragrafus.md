@@ -1,5 +1,5 @@
 ## 15. Az egyes műszaki termékek tűzvédelmi megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló 492/2017. (XII. 29.) Korm. rendelet módosítása
 
-37. §[^34]
+37. §[^38]
 
-[^34]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
