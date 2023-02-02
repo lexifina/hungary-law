@@ -1,3 +1,5 @@
 ## végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-38. § Hatályát veszti a bankjegyek feldolgozásáról, forgalmazásáról, valamint hamisítás elleni védelmével kapcsolatos technikai feladatokról szóló 19/2019. (V. 13.) MNB rendelet.
+38. §[^1]
+
+[^1]: A 38. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

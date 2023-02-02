@@ -56,7 +56,7 @@ A bankjegyek szakértői vizsgálatához kapcsolódó jegyzőkönyv tartalmi ele
 
 1. A jegyzőkönyvnek – a 2. pontban foglalt eltérésekkel – a következő adatokat kell tartalmaznia:
 
-1.1. A szakértői vizsgálat kezdeményezésének oka[^1]:
+1.1. A szakértői vizsgálat kezdeményezésének oka[^2]:
 
 a) hamisgyanús bankjegy,
 
@@ -92,4 +92,4 @@ i) a jegyzőkönyv sorszáma.
 
 2.3. Az ügyfél által kezelt gépből származó hamisgyanús bankjegyre vonatkozóan a jegyzőkönyvet az 1.2. pont e) és f) alpontjában meghatározott adatok nélkül kell elkészíteni.
 
-[^1]: A megfelelő ok aláhúzással jelölendő.
+[^2]: A megfelelő ok aláhúzással jelölendő.
