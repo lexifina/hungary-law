@@ -1,14 +1,14 @@
 16. § Hatályát veszti az R1.
 
-a)[^15]
+a)[^18]
 
-b)[^16]
+b)[^19]
 
-c)[^17]
+c)[^20]
 
-d)[^18]
+d)[^21]
 
-[^15]: A 16. § a) pontja a 37. § (3) bekezdés alapján 2023. április 1-jén lép hatályba.
-[^16]: A 16. § b) pontja a 37. § (3) bekezdés alapján 2023. április 1-jén lép hatályba.
-[^17]: A 16. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 16. § d) pontja a 37. § (3) bekezdés alapján 2023. április 1-jén lép hatályba.
+[^18]: A 16. § a) pontja a 37. § (3) bekezdés alapján 2023. április 1-jén lép hatályba.
+[^19]: A 16. § b) pontja a 37. § (3) bekezdés alapján 2023. április 1-jén lép hatályba.
+[^20]: A 16. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 16. § d) pontja a 37. § (3) bekezdés alapján 2023. április 1-jén lép hatályba.
