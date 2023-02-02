@@ -1,7 +1,3 @@
-1. melléklet a 2/2023. (I. 31.) SZTFH rendelethez
+1. melléklet a 2/2023. (I. 31.) SZTFH rendelethez[^7]
 
-A dohánytermék-kiskereskedelmi tevékenységhez kapcsolódó nyilvántartás-vezetési és adatszolgáltatási kötelezettségről, valamint a dohánygyártmányok árbejelentésének és árközzétételének részletes szabályairól szóló 22/2021. (XII. 28.) SZTFH rendelet 1. melléklet 1. pont 1.1. alpontja helyébe a következő rendelkezés lép:
-
-(Érintett termék)
-
-„1.1. az Fdvtv. 1. § (1) bekezdése szerinti termék,”
+[^7]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
