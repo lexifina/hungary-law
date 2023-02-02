@@ -16,4 +16,6 @@ A Kormány
 
 | Határidő: | a versenyeztetési eljárás eredményét követő 90 napon belül |
 
-5. visszavonja a taszári repülőtér hasznosításával összefüggő intézkedésekről szóló 1822/2021. (XI. 25.) Korm. határozatot.
+5.[^1]
+
+[^1]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
