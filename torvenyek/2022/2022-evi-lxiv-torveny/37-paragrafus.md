@@ -1,3 +1,1 @@
-37. § A fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 24/A. §-a a következő (14) bekezdéssel egészül ki:
-
-„(14) E törvénynek az egyes bányászati és gazdasági tárgyú törvények módosításáról szóló 2022. évi LXIV. törvénnyel (a továbbiakban: Módtv.5.) megállapított 11. § (1) bekezdésétől eltérően mindazok, akik a Módtv.5. 41. § 4. pontjának hatálybalépését megelőző napon jogszerűen forgalmaztak az 1. § (1) bekezdés i) pontja szerinti terméket, de a Módtv.5. 41. § 4. pontjának hatálybalépését követően erre a továbbiakban nem jogosultak, a még készleten lévő termékeiket a Módtv.5. 41. § 4. pontjának hatálybalépésétől számított 150 napig tovább forgalmazhatják azzal, hogy a Módtv.5. 41. § 4. pontjának hatálybalépését követően új terméket már nem szerezhetnek be.”
+### 37. §

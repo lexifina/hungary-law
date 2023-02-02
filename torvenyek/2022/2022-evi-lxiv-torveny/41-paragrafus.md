@@ -6,9 +6,9 @@
 
 3.
 
-4. 11. § (1) bekezdésében a „b)–h)” szövegrész helyébe a „b)–i)” szöveg,
+4.
 
-5. 11. § (4) bekezdésében a „b)–h)” szövegrész helyébe az „b)–i)” szöveg,
+5.
 
 6.
 
@@ -28,9 +28,9 @@
 
 14.
 
-15. 15/D. § (6) bekezdésében a „d)–h)” szövegrész helyébe a „d)–i)” szöveg,
+15.
 
-16. 15/G. §-ában a „d)–h)” szövegrész helyébe a „d)–i)” szöveg,
+16.
 
 17.
 
@@ -50,7 +50,7 @@
 
 25.
 
-26. 24/C. § c) pontjában a „d)–h)” szövegrész helyébe a „d)–i)” szöveg,
+26.
 
 27.
 
