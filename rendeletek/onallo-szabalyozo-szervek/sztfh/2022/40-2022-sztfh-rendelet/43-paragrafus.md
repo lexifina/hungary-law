@@ -1,11 +1,11 @@
 43. § Hatályát veszti az R8.
 
-a)[^59]
+a)[^62]
 
-b)[^60]
+b)[^63]
 
-c)[^61]
+c)[^64]
 
-[^59]: A 43. § a) pontja a 47. § (3) bekezdés alapján 2023. március 1-jén lép hatályba.
-[^60]: A 43. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^61]: A 43. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^62]: A 43. § a) pontja a 47. § (3) bekezdés alapján 2023. március 1-jén lép hatályba.
+[^63]: A 43. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^64]: A 43. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
