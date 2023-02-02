@@ -1,1 +1,3 @@
-27. § Hatályát veszti a 31/2015. (VI. 16.) BM rendelet 71. § (1) bekezdés e) pontjában a „vagy” szövegrész.
+27. §[^27]
+
+[^27]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

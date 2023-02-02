@@ -1,7 +1,5 @@
-## „e) a szállóférőhely használója belügyi szolgálati jogviszonyának megszűnésével, kivéve, ha a használó a belügyminiszter irányítása alá nem tartozó rendvédelmi feladatokat ellátó szerv állományába vagy az Országgyűlési Őrség állományába kerül áthelyezésre,”
-
 ## 3. A lakáscélú munkáltatói kölcsönről szóló 44/2012. (VIII. 29.) BM rendelet módosítása
 
-4. § A lakáscélú munkáltatói kölcsönről szóló 44/2012. (VIII. 29.) BM rendelet [a továbbiakban: 44/2012. (VIII. 29.) BM rendelet] 3. § a) pontja helyébe a következő rendelkezés lép:
+4. §[^4]
 
-(A belügyi szervek lakásügyi szervei:)
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

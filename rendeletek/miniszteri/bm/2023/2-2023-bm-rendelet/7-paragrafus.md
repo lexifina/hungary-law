@@ -1,3 +1,3 @@
-7. § Az 56/2012. (XI. 22.) BM rendelet 43. § (1) bekezdése a következő f) ponttal egészül ki:
+7. §[^7]
 
-(A hivatásos állomány tagja szolgálati beosztásától függően az Országgyűlési Őrség jogszabályban meghatározott feladatainak folyamatos ellátása érdekében)
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

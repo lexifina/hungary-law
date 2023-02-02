@@ -1,1 +1,3 @@
-13. § Az 56/2012. (XI. 22.) BM rendelet 1. melléklete helyébe az 1. melléklet lép.
+13. §[^13]
+
+[^13]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

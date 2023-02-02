@@ -1,7 +1,3 @@
-2. § A 23/1997. (III. 19.) BM rendelet
+2. §[^2]
 
-a) 2. § (3) bekezdésében a „károkozó személye” szövegrész helyébe a „károkozásban érintett személye” szöveg,
-
-b) 3. § (1) bekezdésében a „károkozó” szövegrész helyébe a „károkozásban érintett személy” szöveg
-
-lép.
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
