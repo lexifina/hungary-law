@@ -1,3 +1,3 @@
-1. § A megkülönböztető és figyelmeztető jelzést adó készülékek felszerelésének és használatának szabályairól szóló 12/2007. (III. 13.) IRM rendelet 3. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(Nem kell hatósági engedély a megkülönböztető jelzést adó készülék felszereléséhez)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
