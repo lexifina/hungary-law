@@ -4,6 +4,6 @@
 
 58. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 8. napon lép hatályba.
 
-(2)[^118] A 21. melléklet 2. pontjának c) alpontja 2013. január 1-jén lép hatályba,
+(2)[^123] A 21. melléklet 2. pontjának c) alpontja 2013. január 1-jén lép hatályba,
 
-[^118]: Az 58. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^123]: Az 58. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.

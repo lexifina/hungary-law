@@ -1,4 +1,4 @@
-## 8/A. [^11] Szolgáltató Önkormányzat Díj
+## 8/A. [^10] Szolgáltató Önkormányzat Díj
 
 8/A. § (1) A Szolgáltató Önkormányzat Díj adományozható a „Szolgáltató Önkormányzat” kritériumrendszer szerinti, az együttműködés, átláthatóság és nyitottság, hatásosság, hatékonyságjavulás, fontosság, fenntarthatóság és megismételhetőség szempontjából jó gyakorlatot megvalósító helyi önkormányzatok számára.
 
@@ -24,4 +24,4 @@ az a) pont esetében a határozat véglegessé válásától vagy jogerőre emel
 
 (7) A Szolgáltató Önkormányzat Díj átadása évente egyszer a Helyi Önkormányzatok Napja (szeptember 30.) alkalmával történik.
 
-[^11]: A 8/A. alcímet (8/A. §) a 4/2018. (II. 23.) BM rendelet 1. §-a iktatta be.
+[^10]: A 8/A. alcímet (8/A. §) a 4/2018. (II. 23.) BM rendelet 1. §-a iktatta be.

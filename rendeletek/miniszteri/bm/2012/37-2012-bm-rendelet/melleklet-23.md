@@ -1,23 +1,3 @@
-## A Nemzetbiztonsági Szolgálati Jel kitüntető cím leírása és viselési rendje
-
-## A Szolgálati Jel
-
-## a) 10 év szolgálat után 15x10 milliméter nagyságú, bronzpatinázott színesfém kitűző, amely kiterjesztett szárnyú turult ábrázol. A turul csőrében kardot tart, karmai között tölgyfalombbal keretezett pajzs található. A kitűző tartozéka a díszdobozban található bronzpatinázott, 35x20 milliméter nagyságú gravírozott színesfém lap, amelyen a felirat: „10 ÉV A NEMZET BIZTONSÁGÁNAK SZOLGÁLATÁBAN”. A kitűző és a lap díszdobozban helyezkedik el.
-
-## b) 20 év szolgálat után:
-
-## Leírása azonos az a) pontban leírtakkal azzal a különbséggel, hogy a kitűző ezüstből készül, és az ezüstözött lapon 20-as szám található.
-
-## c) 30 év szolgálat után:
-
-## Leírása megfelel a az a) pontban leírtakkal azzal a különbséggel, hogy a kitűző aranyból készül, és az aranyozott lapon a 30-as szám található.
-
-## d) 40 év szolgálat után:
-
-## Leírása megfelel az c) pontban leírtakkal, azzal a különbséggel, hogy a lapon 40-es szám található.
-
-## A Szolgálati Jel eredeti formában csak dísz- és társasági öltözeten viselhető. A kitüntetést a bal felső zubbonyzseb fölé úgy kell elhelyezni, hogy az alsó széle a zsebtakaró felső varrását érintse. A kitüntetést úgy kell viselni, hogy a zsebtakaró középvonalával egybeessen. A kitűző változat a köznapi, a szolgálati és a megengedett öltözeten is viselhető a fenti előírás szerint.
-
 23. melléklet a 37/2012. (VIII. 2.) BM rendelethez
 
 A miniszteri emléktárgyak leírása

@@ -1,4 +1,4 @@
-## 9/L.[^25] Brunszvik Teréz-díj
+## 9/L.[^24] Brunszvik Teréz-díj
 
 9/L. § (1) A Brunszvik Teréz-díj kiemelkedő óvodapedagógiai munkáért és az óvodapedagógus képzésben kiemelkedő munkát végző oktatók elismerésére, a szakma fejlesztéséért, a családok és a gyermekek jólétének növelése érdekében tett közszolgálati tevékenység elismeréseként adományozható.
 
@@ -10,4 +10,4 @@
 
 (5) A Brunszvik Teréz-díjhoz pénzjutalom jár. A Brunszvik Teréz-díjjal járó pénzjutalom mértéke az illetményalap nyolcszorosának megfelelő összeg.
 
-[^25]: A 9/L. alcímet (9/L. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^24]: A 9/L. alcímet (9/L. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.

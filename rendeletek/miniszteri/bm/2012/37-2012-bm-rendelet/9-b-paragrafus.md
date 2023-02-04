@@ -1,4 +1,4 @@
-## 9/B.[^15] Hőgyes Endre-díj
+## 9/B.[^14] Hőgyes Endre-díj
 
 9/B. § (1) A Hőgyes Endre-díj a kiemelkedő orvos-szakmai életmű elismeréseként adományozható, különös tekintettel az orvostudományi kutatásban végzett jelentős tevékenységre, illetve ennek eredményére.
 
@@ -10,4 +10,4 @@
 
 (5) A Hőgyes Endre-díjhoz pénzjutalom jár. A Hőgyes Endre-díjjal járó pénzjutalom mértéke az illetményalap tízszeresének megfelelő összeg.
 
-[^15]: A 9/B. alcímet (9/B. §) a 21/2014. (III. 10.) BM rendelet 2. §-a iktatta be, szövege a 39/2022. (XI. 22.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^14]: A 9/B. alcímet (9/B. §) a 21/2014. (III. 10.) BM rendelet 2. §-a iktatta be, szövege a 39/2022. (XI. 22.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.

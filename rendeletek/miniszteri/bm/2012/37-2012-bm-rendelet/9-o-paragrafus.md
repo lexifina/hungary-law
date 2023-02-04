@@ -1,4 +1,4 @@
-## 9/O.[^28] ÉRTÉK VAGY! díj
+## 9/O.[^27] ÉRTÉK VAGY! díj
 
 9/O. § (1) Az ÉRTÉK VAGY! díj olyan munkáltatónak, foglalkozási rehabilitációs szolgáltatónak, valamint magánszemélynek adható, aki a megváltozott munkaképességű vagy fogyatékossággal élő személyek foglalkoztatása érdekében tett tevékenységével kimagasló eredményt ért el, vagy ezen a területen olyan teljesítményt nyújtott, amely a társadalom számára példaértékkel szolgál.
 
@@ -24,4 +24,4 @@ e) a megváltozott munkaképességű vagy fogyatékossággal élő, valamint a m
 
 (7) A (2) bekezdés e) pontja szerinti díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap nyolcszorosának megfelelő összeg.
 
-[^28]: A 9/O. alcímet (9/O. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^27]: A 9/O. alcímet (9/O. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.

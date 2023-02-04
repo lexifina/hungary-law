@@ -1,4 +1,4 @@
-## 9/M.[^26] Pro Caritate díj
+## 9/M.[^25] Pro Caritate díj
 
 9/M. § (1) A Pro Caritate díj a szociális ellátás fejlesztéséhez való hozzájárulásért, a szociális szakmák területén végzett kiemelkedő tevékenység elismerésére, a gyermekvédelem, a fogyatékossággal élő és megváltozott munkaképességű emberek rehabilitációja érdekében, illetve az ezzel foglalkozó intézményekben végzett, továbbá a belügyminiszter feladatkörébe tartozóan az esélyteremtés előmozdítása területén végzett kiemelkedő szakmai, közszolgálati, karitatív tevékenységért adományozható.
 
@@ -10,4 +10,4 @@
 
 (5) A Pro Caritate díjhoz pénzjutalom jár. A Pro Caritate díjjal járó pénzjutalom mértéke az illetményalap tízszeresének megfelelő összeg.
 
-[^26]: A 9/M. alcímet (9/M. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^25]: A 9/M. alcímet (9/M. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 9/C.[^16] Semmelweis Ignác-díj
+## 9/C.[^15] Semmelweis Ignác-díj
 
 9/C. § (1) A Semmelweis Ignác-díj annak adományozható, aki az egészség megőrzése, a betegségek megelőzése és a gyógyítás terén kivételesen magas színvonalú, példaértékű eredményt ért el, illetve tevékenységével jelentősen hozzájárult ilyen eredmény eléréséhez.
 
@@ -12,4 +12,4 @@
 
 (6) A Semmelweis Ignác-díjhoz természetes személy díjazott esetén pénzjutalom jár. A Semmelweis Ignác-díjjal járó pénzjutalom mértéke az illetményalap tízszeresének megfelelő összeg.
 
-[^16]: A 9/C. alcímet (9/C. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^15]: A 9/C. alcímet (9/C. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.

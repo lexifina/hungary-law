@@ -1,4 +1,4 @@
-## 9/E.[^18] Pro Sanitate díj
+## 9/E.[^17] Pro Sanitate díj
 
 9/E. § (1) A Pro Sanitate díj az egészségügyi ellátás érdekében kifejtett kiemelkedő szakmai vagy közszolgálati tevékenységért adományozható.
 
@@ -10,4 +10,4 @@
 
 (5) A Pro Sanitate díjhoz pénzjutalom jár. A Pro Sanitate díjjal járó pénzjutalom összege az illetményalap hatszorosának megfelelő összeg.
 
-[^18]: A 9/E. alcímet (9/E. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^17]: A 9/E. alcímet (9/E. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.

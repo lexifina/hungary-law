@@ -1,4 +1,4 @@
-33. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^144]
+33. melléklet a 37/2012. (VIII. 2.) BM rendelethez[^153]
 
 A Szolgáltató Önkormányzat Díj Emléktábla leírása és az adományozására vonatkozó eljárás
 
@@ -22,4 +22,4 @@ b) a pályázat többször is benyújtható, azonban a díj ugyanazon jó gyakor
 
 c) a díj elnyerése esetén a nyertes önkormányzat a díj adományozását igazoló oklevelet és emléktáblát kap.
 
-[^144]: A 33. mellékletet a 4/2018. (II. 23.) BM rendelet 7. §-a iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 67. § c) pontja szerint módosított szöveg.
+[^153]: A 33. mellékletet a 4/2018. (II. 23.) BM rendelet 7. §-a iktatta be, szövege a 45/2022. (XII. 20.) BM rendelet 67. § c) pontja szerint módosított szöveg.

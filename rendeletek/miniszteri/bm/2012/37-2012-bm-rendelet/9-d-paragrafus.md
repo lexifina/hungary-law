@@ -1,4 +1,4 @@
-## 9/D.[^17] Batthyány-Strattmann László-díj
+## 9/D.[^16] Batthyány-Strattmann László-díj
 
 9/D. § (1) A Batthyány-Strattmann László-díj annak adományozható, aki szakmai vagy közszolgálati munkájával a betegellátás során vagy a tudományos kutatás során hozzájárult az egészségügyi ellátás fejlesztéséhez, e tevékenysége során elért kimagasló teljesítménye elismeréseként.
 
@@ -10,4 +10,4 @@
 
 (5) A Batthyány-Strattmann László-díjhoz pénzjutalom jár. A Batthyány-Strattmann László-díjjal járó pénzjutalom mértéke az illetményalap nyolcszorosának megfelelő összeg.
 
-[^17]: A 9/D. alcímet (9/D. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^16]: A 9/D. alcímet (9/D. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
