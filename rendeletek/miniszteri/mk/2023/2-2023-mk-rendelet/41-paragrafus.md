@@ -1,0 +1,1 @@
+41. § A belügyminiszter által alapított és adományozott elismerésekről szóló 37/2012. (VIII. 2.) BM rendelet (a továbbiakban: R.) 10. § (3) bekezdésében az „1–5. és 9. §-ban” szövegrész helyébe az „1–3. §-ban, az 5. §-ban és a 9. §-ban” szöveg lép.

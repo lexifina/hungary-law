@@ -1,0 +1,1 @@
+21. § A polgári nemzetbiztonsági szolgálatok személyi állománya és az onnan nyugállományba helyezettek miniszteri elismeréssel együtt járó pénzjutalmának fedezetét – ha a miniszter eltérően nem rendelkezik – a minisztérium központi igazgatásának költségvetéséből kell biztosítani, a mindenkori költségvetési helyzetre tekintettel.

@@ -1,0 +1,1 @@
+22. § Jutalomüdülésként a személyi állomány tagja részére hazai vagy külföldi üdültetési, turisztikai intézményben biztosított üdülés vagy utazási iroda által szervezett turistaút adományozható. A jutalomüdülés költségeinél a szállás, az ellátás és ezen felül legfeljebb az oda- és visszautazás költségei számolhatók el.

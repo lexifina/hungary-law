@@ -1,0 +1,1 @@
+25. § A kitüntetéseket, a kitüntető címeket és díjakat, továbbá az e rendeletben meghatározott elismeréseket lehetőség szerint az adományozónak vagy annak megbízásából az elismerésben részesülőnél magasabb beosztású vezetőnek az elismerés szintjéhez méltó körülmények között kell átadnia.

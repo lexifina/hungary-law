@@ -1,0 +1,1 @@
+31. § A polgári nemzetbiztonsági szolgálatok személyi állományába nem tartozó elismerésre javasolt az elismerési kezdeményezés miniszteri döntésre való felterjesztését megelőző – személyes adatai kezeléséhez hozzájáruló – nyilatkozata hiányában elismerésben nem részesíthető.
