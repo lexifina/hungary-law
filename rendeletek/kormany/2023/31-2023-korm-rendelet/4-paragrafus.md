@@ -1,0 +1,7 @@
+## „a) villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet alapján engedélyezett építési tevékenységre vonatkozó építési engedély, a termőföld védelméről szóló törvény szerinti termőföld más célú hasznosítási engedély, a természet védelméről szóló 1996. évi LIII. törvény 21. § (1) bekezdése szerint kiadott engedély és a környezetvédelmi engedély hatálya, valamint a villamosenergia-termelői engedélyben megállapított kivitelezési határidő,”
+
+## (a csatlakozás igénybevételére meghatározott új határidő utolsó napjáig meghosszabbodik, ha annak időbeli hatálya ezt megelőzően megszűnne.)
+
+4. § Az 526/2022. Korm. rendelet 10. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) A kiegészítő pénzügyi biztosítékra az 5. § (3)–(6) bekezdése megfelelően alkalmazandó, azzal, hogy a bankgarancia formájában biztosított kiegészítő pénzügyi biztosítékot a hálózati engedélyes az igénybejelentőnek a csatlakozási igénybejelentéssel vagy a csatlakozási szerződéssel összefüggő lejárt esedékességű fizetési kötelezettségének nem teljesítése esetén lehívja, vagy a bankgaranciaként biztosított kiegészítő pénzügyi biztosítékot a hálózati engedélyes a hálózati csatlakozási szerződés szerinti csatlakozási díj maradéktalan teljesítése esetén a hálózati csatlakozási szerződés szerinti névleges teljesítőképességnek megfelelő erőmű és csatlakozási pont üzembe helyezését követő 15 napon belül felszabadítja.”

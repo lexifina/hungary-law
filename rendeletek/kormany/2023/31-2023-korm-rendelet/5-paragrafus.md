@@ -1,0 +1,3 @@
+5. § Az 526/2022. Korm. rendelet 11. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Az 1. § és 9. § szerinti igénybejelentő a 10. § szerinti kiegészítő pénzügyi biztosítékot minden év április 23. napjáig fizeti meg vagy teljesíti bankgarancia formájában. Ha a 9. § szerinti igénybejelentő számára a hálózati engedélyes 2023. április 23. napját követően a csatlakozás igénybevételére a 2028. évnél korábbi naptári évet állapít meg úgy, hogy a 10. § (2) bekezdése szerint a 2023. évben esedékes kiegészítő biztosíték fizetési kötelezettsége ez alapján keletkezik, úgy az igénybejelentő a 2023. évben esedékes kiegészítő pénzügyi biztosítékot a csatlakozás új időpontjának megállapítását követő 60 napon belül teljesíti.”
