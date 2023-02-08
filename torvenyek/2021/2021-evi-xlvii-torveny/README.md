@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-47-00-00
 | --- | --- | --- |
 | 2021-05-28 | 2021. évi XLVII. törvény | 2021-47-00-00.0 (közlönyállapot) |
 | 2021-05-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-47-00-00.1 |
+| 2023-02-08 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-47-00-00.2 |
