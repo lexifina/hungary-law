@@ -18,13 +18,13 @@ megvalósításával;
 
 3. egyetért azzal, hogy – az innovációért és technológiáért felelős miniszter javaslata alapján – a 2. pont szerinti célok megvalósításához szükséges feladatok (a továbbiakban: projekt) elvégzése keretében sor kerüljön
 
-a) új kutak fúrására, vízkezelő technológia, gépészet fejlesztésére és gépház bővítésére, 1000 m3 térfogatú, vasbeton szerkezetű víztorony építésére, vízellátó hálózat fejlesztésére, valamint a szükséges rekonstrukciók elvégzésére,
+a)[^1] új kutak fúrására, vízkezelő technológia, gépészet fejlesztésére és gépház bővítésére, 1500 m3 térfogatú, vasbeton szerkezetű víztorony építésére, vízellátó hálózat fejlesztésére, valamint a szükséges rekonstrukciók elvégzésére,
 
 b) szennyvízelvezető rendszer fejlesztésére (nyomóvezeték és új szennyvízátemelő), rekonstrukciók elvégzésére, szennyvíztisztító telep fejlesztésére;
 
 4. egyetért azzal, hogy a 2. pont szerinti projekt komplex előkészítésének finanszírozása 428 214 000 forint központi költségvetési forrásból valósuljon meg;
 
-5.[^1] felhívja a pénzügyminisztert, hogy az energiaügyi miniszter kezdeményezésére, a 2. pont szerinti projekt komplex előkészítése érdekében gondoskodjon 428 214 000 forint forrás biztosításáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 37. Gazdaságfejlesztési feladatok alcím, 3. Térségi fejlesztési feladatok jogcímcsoport javára;
+5.[^2] felhívja a pénzügyminisztert, hogy az energiaügyi miniszter kezdeményezésére, a 2. pont szerinti projekt komplex előkészítése érdekében gondoskodjon 428 214 000 forint forrás biztosításáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 37. Gazdaságfejlesztési feladatok alcím, 3. Térségi fejlesztési feladatok jogcímcsoport javára;
 
 | Felelős: | pénzügyminiszter energiaügyi miniszter |
 
@@ -38,4 +38,5 @@ Határidő: az 5. pont szerinti forrás rendelkezésre állását követően 30 
 
 7. egyetért azzal, hogy a 2. pont szerinti projekt előkészítésének és megvalósításának indikatív forrásigénye lehetőség szerint a 2021–2027 közötti programozási időszakban a Magyarország számára elérhető európai uniós források felhasználásával kerüljön finanszírozásra, annak európai uniós eljárásrendben történő elfogadását követően.
 
-[^1]: Az 5. pont az 1608/2022. (XII. 8.) Korm. határozat 7. pontjával megállapított szöveg.
+[^1]: A 3. pont a) alpontja az 1026/2023. (II. 9.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: Az 5. pont az 1608/2022. (XII. 8.) Korm. határozat 7. pontjával megállapított szöveg.
