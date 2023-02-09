@@ -74,6 +74,9 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
 
+7.[^4] egyetért a fenntarthatóság és az energiahatékonyság szempontjainak erőteljesebb érvényesítése érdekében Szolnok komplex energetikai programjának fejlesztésével Okos Hálózat (SMART GRID) és Okos Mérés (SMART METERING) rendszer kialakítása útján.
+
 [^1]: A 4. pont az 1734/2015. (X. 8.) Korm. határozat 14. pontja szerint módosított szöveg.
 [^2]: A 4. pont a) alpontja az 1333/2018. (VII. 23.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
 [^3]: A 4. pont b) alpontja az 1333/2018. (VII. 23.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^4]: A 7. pontot az 1024/2023. (II. 9.) Korm. határozat 2. pontja iktatta be.
