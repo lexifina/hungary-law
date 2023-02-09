@@ -20,6 +20,8 @@
 
 ## 1.10.[^4] a Bük város gazdaságfejlesztéséhez kapcsolódó infrastruktúra-fejlesztésekről szóló 1259/2022. (V. 19.) Korm. határozatra
 
+## 1.11.[^5] a Bük város iparterületének fejlesztéséhez szükséges víziközmű-beruházásról szóló 1026/2023. (II. 9.) Korm. határozatra
+
 ## a következőkről dönt.
 
 ## 2. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 3. Térségi fejlesztési feladatok jogcím terhére vállalható kötelezettségek mértékét
@@ -32,17 +34,17 @@
 
 ## d) 2026-ban az 1. melléklet szerinti táblázat G oszlopának összegében
 
-## e)[^5] 2027-ben az 1. melléklet szerinti táblázat H oszlopának összegében
+## e)[^6] 2027-ben az 1. melléklet szerinti táblázat H oszlopának összegében
 
 ## állapítja meg.
 
-## 3.[^6] A Kormány az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az 1. melléklet A oszlopa szerinti kormányhatározatokban foglalt, ötmilliárd forintot elérő vagy azt meghaladó kötelezettségvállalással járó feladatok végrehajtása érdekében legfeljebb az adott sor I oszlopában szereplő összegében kötelezettséget vállaljon.
+## 3.[^7] A Kormány az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az innovációért és technológiáért felelős miniszter az 1. melléklet A oszlopa szerinti kormányhatározatokban foglalt, ötmilliárd forintot elérő vagy azt meghaladó kötelezettségvállalással járó feladatok végrehajtása érdekében legfeljebb az adott sor I oszlopában szereplő összegében kötelezettséget vállaljon.
 
-## 4.[^7]
+## 4.[^8]
 
-## 5.[^8] A Kormány az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy a technológiai és ipari miniszter a debreceni Déli Gazdasági Övezet infrastrukturális fejlesztése előkészítéséhez és egyes elemek ütemezett megvalósításához szükséges intézkedésekről szóló 1025/2022. (I. 27.) Korm. határozat végrehajtása érdekében a 2022. évben a szabad előirányzatot meghaladó mértékben kötelezettséget vállaljon legfeljebb 1 606 000 000 forint értékig a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 3. Térségi fejlesztési feladatok jogcím terhére.
+## 5.[^9] A Kormány az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy a technológiai és ipari miniszter a debreceni Déli Gazdasági Övezet infrastrukturális fejlesztése előkészítéséhez és egyes elemek ütemezett megvalósításához szükséges intézkedésekről szóló 1025/2022. (I. 27.) Korm. határozat végrehajtása érdekében a 2022. évben a szabad előirányzatot meghaladó mértékben kötelezettséget vállaljon legfeljebb 1 606 000 000 forint értékig a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 3. Térségi fejlesztési feladatok jogcím terhére.
 
-1. melléklet az 1023/2022. (I. 27.) Korm. határozathoz[^9]
+1. melléklet az 1023/2022. (I. 27.) Korm. határozathoz[^10]
 
 A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előirányzaton (kincstári díj nélkül)
 
@@ -50,7 +52,7 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 
 | 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | 2027. évi költségvetési év (nettó forint) | Összesen (nettó forint) |
 
-| 2. | 1173/2020. (IV. 22.) Korm. határozat | 12 481 560 388 | 6 382 140 000 | 20 776 335 649 | 16 994 311 547 | 5 545 000 | 0 | 0 | 62 179 367 584 |
+| 2. | 1173/2020. (IV. 22.) Korm. határozat | 12 481 560 388 | 6 382 140 000 | 20 776 355 649 | 16 994 311 547 | 5 545 000 000 | 0 | 0 | 62 179 367 584 |
 
 | 3. | 1292/2020. (VI. 10.) Korm. határozat | 6 306 346 827 | 14 681 759 120 | 7 476 661 669 | 0 | 0 | 0 | 0 | 28 464 767 616 |
 
@@ -68,12 +70,15 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 
 | 10. | 1259/2022. (V. 19.) Korm. határozat | 0 | 0 | 428 000 000 | 0 | 0 | 0 | 0 | 428 000 000 |
 
+| 11. | 1026/2023. (II. 9.) Korm. határozat | 0 | 0 | 5 909 945 000 | 2 862 580 000 | 0 | 0 | 0 | 8 772 525 000 |
+
 [^1]: Az 1. pont 1.7. alpontját az 1041/2022. (II. 4.) Korm. határozat 2. pontja iktatta be.
 [^2]: Az 1. pont 1.8. alpontját az 1251/2022. (V. 4.) Korm. határozat 2. pontja iktatta be.
 [^3]: Az 1. pont 1.9. alpontját az 1302/2022. (VI. 22.) Korm. határozat 24. pontja iktatta be.
 [^4]: Az 1. pont 1.10. alpontját az 1608/2022. (XII. 8.) Korm. határozat 8. pontja iktatta be.
-[^5]: A 2. pont e) alpontját az 1251/2022. (V. 4.) Korm. határozat 3. pontja iktatta be.
-[^6]: A 3. pont az 1251/2022. (V. 4.) Korm. határozat 4. pontja szerint módosított szöveg.
-[^7]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: Az 5. pontot az 1302/2022. (VI. 22.) Korm. határozat 25. pontja iktatta be.
-[^9]: Az 1. melléklet az 1251/2022. (V. 4.) Korm. határozat 5. pontjával megállapított, az 1306/2022. (VI. 22.) Korm. határozat, az 1495/2022. (X. 19.) Korm. határozat 5. pontja, az 1567/2022. (XI. 24.) Korm. határozat 5. pontja, az 1577/2022. (XI. 28.) Korm. határozat 1. pontja, az 1608/2022. (XII. 8.) Korm. határozat 9. pontja, az 1013/2023. (I. 25.) Korm. határozat 1. pontja szerint módosított szöveg. [Nem vezethető át az 1415/2022. (VIII. 18.) Korm. határozat 5. pontjában foglalt módosítás, mely szerint az 1. mellékletben foglalt táblázat 8. sora a módosító határozatban foglaltak alapján lecserélésre kerül.]
+[^5]: Az 1. pont 1.11. alpontját az 1026/2023. (II. 9.) Korm. határozat 2. pontja iktatta be.
+[^6]: A 2. pont e) alpontját az 1251/2022. (V. 4.) Korm. határozat 3. pontja iktatta be.
+[^7]: A 3. pont az 1251/2022. (V. 4.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^8]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 5. pontot az 1302/2022. (VI. 22.) Korm. határozat 25. pontja iktatta be.
+[^10]: Az 1. melléklet az 1251/2022. (V. 4.) Korm. határozat 5. pontjával megállapított, az 1306/2022. (VI. 22.) Korm. határozat, az 1495/2022. (X. 19.) Korm. határozat 5. pontja, az 1567/2022. (XI. 24.) Korm. határozat 5. pontja, az 1577/2022. (XI. 28.) Korm. határozat 1. pontja, az 1608/2022. (XII. 8.) Korm. határozat 9. pontja, az 1013/2023. (I. 25.) Korm. határozat 1. pontja, az 1026/2023. (II. 9.) Korm. határozat 3. pontja szerint módosított szöveg. [Nem vezethető át az 1415/2022. (VIII. 18.) Korm. határozat 5. pontjában foglalt módosítás, mely szerint az 1. mellékletben foglalt táblázat 8. sora a módosító határozatban foglaltak alapján lecserélésre kerül.]
