@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1496-30
 | 2021-12-22 | 2021-1496-30-22.3 | 1953/2021. (XII. 22.) Korm. határozat |
 | 2022-02-01 | 2021-1496-30-22.4 | 1953/2021. (XII. 22.) Korm. határozat |
 | 2022-03-23 | 2021-1496-30-22.5 | 1953/2021. (XII. 22.) Korm. határozat |
+| 2023-02-09 | 2021-1496-30-22.7 | 1953/2021. (XII. 22.) Korm. határozat |
