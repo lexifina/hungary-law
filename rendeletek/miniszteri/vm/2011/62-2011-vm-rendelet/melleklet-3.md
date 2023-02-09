@@ -1,6 +1,6 @@
 3. melléklet a 62/2011. (VI. 30.) VM rendelethez[^17]
 
-## Vendéglátó tevékenység keretében végzett fagyasztás feltételei
+Vendéglátó tevékenység keretében végzett fagyasztás feltételei
 
 ## 1 A megfelelő előkészítő helyiségekkel rendelkező létesítményben, fagyasztó- és fagyasztva tároló berendezésekkel a várható felhasználás szerint adagolva, csomagolva és az 5. pont szerint jelölve, saját vendéglátó tevékenység céljára élelmiszer-alapanyagok, ételkészítéshez felhasználni kívánt félkész termékek, valamint késztermékek lefagyaszthatók.
 

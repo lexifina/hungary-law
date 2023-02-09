@@ -22,7 +22,7 @@
 
 2. melléklet a 62/2011. (VI. 30.) VM rendelethez[^16]
 
-## Fagylalt előállításra, az adagolva forgalmazott fagylaltra és az adagolva forgalmazott jégkrémre vonatkozó szabályok
+Fagylalt előállításra, az adagolva forgalmazott fagylaltra és az adagolva forgalmazott jégkrémre vonatkozó szabályok
 
 1. A pasztőrözött, folyékony fagylaltot a hőkezelés befejezése után 2 órán belül +8 °C-ra vagy ez alá kell hűteni. Lehűtés után 24 órán belül 0 és +4 °C közötti hőmérsékleten szabad tárolni és szállítani a nyomon követésre alkalmas jelölésekkel ellátva.
 

@@ -4,7 +4,7 @@
 
 a)[^2] munkaidőben az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalt,
 
-b)[^3] munkaidőn kívül az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró megyei kormányhivatal készenléti ügyeletét.
+b)[^3] munkaidőn kívül az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal készenléti ügyeletét.
 
 [^2]: A 4. § (2) bekezdés a) pontja a 42/2017. (VIII. 17.) FM rendelet 166. § a) pontja szerint módosított szöveg.
-[^3]: A 4. § (2) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 166. § b) pontja szerint módosított szöveg.
+[^3]: A 4. § (2) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 166. § b) pontja, a 6/2023. (II. 8.) AM rendelet 1. §-a szerint módosított szöveg.

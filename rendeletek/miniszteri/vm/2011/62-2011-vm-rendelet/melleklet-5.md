@@ -1,6 +1,6 @@
 5. melléklet a 62/2011. (VI. 30.) VM rendelethez[^19]
 
-## Elejtett vad vendéglátó-ipari alapanyagként történő felhasználása
+Elejtett vad vendéglátó-ipari alapanyagként történő felhasználása
 
 1. Elejtett vad kizárólag a hozzá tartozó, hatósági állatorvos által kiállított, 43/2011. (V. 26.) VM rendelet szerinti húsvizsgálati igazolással együtt vehető át.
 

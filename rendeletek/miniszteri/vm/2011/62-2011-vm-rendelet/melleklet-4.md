@@ -1,6 +1,6 @@
 4. melléklet a 62/2011. (VI. 30.) VM rendelethez[^18]
 
-## Ételminta eltételére vonatkozó előírások
+Ételminta eltételére vonatkozó előírások
 
 1. Közétkeztetésben, valamint rendezvényi étkeztetés során napi 29 adag fölött valamennyi ételféleségből külön legalább 100 gramm ételmintát, a 3. pont szerinti tárolóedénybe csomagolva, 72 órán át 0 és +5 °C közötti hőmérsékletű hűtőtérben meg kell őrizni.
 
