@@ -1,3 +1,3 @@
-1. § A villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 526/2022. (XII. 16.) Korm. rendelet (a továbbiakban: 526/2022. Korm. rendelet) 5. § (1) bekezdése a következő c) ponttal egészül ki:
+1. §[^2]
 
-[A pénzügyi biztosíték mértéke az 1. § (2) bekezdés a)–c) pontja szerinti dokumentumban, vagy az 1. § (4) bekezdés c) pontja szerinti esetben az igényelt csatlakozási kapacitásra vetítve 4,5 millió Ft/MVA. A pénzügyi biztosíték 1 MVA teljesítmény alatt tized MVA-ra kerekített, de legalább 0,1 MVA, 1 MVA teljesítmény felett egész MVA értékre kerekített teljesítménynek megfelelő összeg, amelyből megfizetettnek minősül]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
