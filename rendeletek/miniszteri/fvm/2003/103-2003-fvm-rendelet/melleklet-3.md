@@ -18,6 +18,8 @@
 
 ,,NK” kísérőjegy növényvédő szer tisztított csomagolóeszköz hulladékának szállításához
 
+3M07976B_0
+
 | Gyűjtőhely neve: címe/telefonszáma: | Sorszám: |
 
 | A tisztított csomagolóeszköz hulladék | Megjegyzés |
