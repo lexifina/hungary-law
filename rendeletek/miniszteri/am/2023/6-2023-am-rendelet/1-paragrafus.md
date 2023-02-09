@@ -1,0 +1,1 @@
+1. § A vendéglátó-ipari termékek előállításának és forgalomba hozatalának élelmiszerbiztonsági feltételeiről szóló 62/2011. (VI. 30.) VM rendelet 4. § (2) bekezdés b) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
