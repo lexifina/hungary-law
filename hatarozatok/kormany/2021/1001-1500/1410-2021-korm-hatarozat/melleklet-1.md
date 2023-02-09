@@ -1,12 +1,12 @@
 ## 1. megtárgyalta és elfogadta az emberi erőforrások minisztere által kialakított, a kiemelt vidéki sportszervezetek hosszú távú támogatását megalapozó, az 1. melléklet szerinti sportszakmai szempontrendszert;
 
-## 2. egyetért azzal, hogy a sportszakmai szempontrendszer alapján kategóriákba sorolt, a 2. melléklet szerinti kiemelt vidéki sportszervezetek (a továbbiakban: sportszervezetek) az éves sportfejlesztési feladataik megvalósítása érdekében az alábbi támogatásokban részesüljenek:
+## 2.[^1] egyetért azzal, hogy a sportszakmai szempontrendszer alapján kategóriákba sorolt, a 2. melléklet szerinti kiemelt vidéki sportszervezetek (a továbbiakban: sportszervezetek) az éves sportfejlesztési feladataik megvalósítása érdekében az alábbi támogatásokban részesüljenek:
 
-## a) 1. kategória (legalább 14 szakosztállyal vagy mintegy 1000 fő és azt meghaladó igazolt sportolóval rendelkező sportszervezetek köre): 300 000 000 forint,
+## a) 1. kategória (legalább 14 szakosztállyal vagy mintegy 1000 fő és azt meghaladó igazolt sportolóval rendelkező sportszervezetek köre): 300 000 000 – 340 000 000 forint,
 
-## b) 2. kategória (az 1. kategóriába nem tartozó, de legalább 7 szakosztállyal és 700 főt meghaladó igazolt sportolóval rendelkező sportszervezetek köre): 220 000 000 forint,
+## b) 2. kategória (az 1. kategóriába nem tartozó, de legalább 7 szakosztállyal és 700 főt meghaladó igazolt sportolóval rendelkező sportszervezetek köre): 220 000 000 – 250 000 000 forint,
 
-## c) 3. kategória (az 1. és 2. kategóriába nem tartozó, de legalább 5 szakosztállyal és 350 fő igazolt sportolóval rendelkező sportszervezetek köre): 25 000 000 – 180 000 000 forint;
+## c) 3. kategória (az 1. és 2. kategóriába nem tartozó, de legalább 5 szakosztállyal és 350 fő igazolt sportolóval rendelkező sportszervezetek köre): 28 000 000 – 200 000 000 forint;
 
 ## 3. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával gondoskodjon a sportszervezetek
 
@@ -42,10 +42,18 @@
 
 ## Határidő: az adott évi központi költségvetés tervezése során, első alkalommal a 2023. évi központi költségvetés tervezése során
 
-## 7. felhívja az emberi erőforrások miniszterét, hogy készítsen előterjesztést a Kormány részére az egyes kiemelt vidéki sportszervezetek 2022–2026. közötti sportlétesítmény-fejlesztési koncepcióiról, valamint az azok megvalósításához szükséges költségvetési támogatásokról éves ütemezésben, mely során kiemelt figyelmet fordítson arra, hogy a sportlétesítmény-fejlesztések az érintett sportszervezetekben igazolt sportolók létszámához, valamint a lakosság igényeihez igazodjanak, elkerülve a fejlesztések helyszínei közötti földrajzi átfedéseket.
+## 7.[^2]
 
-## Felelős: emberi erőforrások minisztere
+## 8.[^3] felhívja a honvédelmi minisztert, hogy gondoskodjon a sportszervezetek 2023. évi sportfejlesztési feladatai megvalósításának támogatásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvénynek a Magyarország 2023. évi központi költségvetésének a veszélyhelyzettel összefüggő eltérő szabályairól szóló 613/2022. (XII. 29.) Korm. rendelet 1. mellékletével eltérően megállapított XIII. Honvédelmi Minisztérium fejezet, 21. Sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok cím, 7. Kiemelt sportegyesületek támogatása alcímen rendelkezésre álló forrás terhére.
 
-## Határidő: 2021. október 31.
+| Felelős: | honvédelmi miniszter |
+
+| Határidő: | az egyes kiemelt vidéki sportszervezetek 2021–2026. évre vonatkozó sportfejlesztési feladataival összefüggő kormányzati intézkedésekről szóló 1410/2021. (VI. 30.) Korm. határozat módosításáról szóló 1025/2023. (II. 9.) Korm. határozat közzétételét követő 60 napon belül |
 
 1. melléklet az 1410/2021. (VI. 30.) Korm. határozathoz
+
+Az egyes kiemelt vidéki sportszervezetek kiválasztására vonatkozó sportszakmai szempontrendszer
+
+[^1]: A 2. pont az 1025/2023. (II. 9.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 7. pontot az 1025/2023. (II. 9.) Korm. határozat 4. pontja visszavonta.
+[^3]: A 8. pontot az 1025/2023. (II. 9.) Korm. határozat 2. pontja iktatta be.
