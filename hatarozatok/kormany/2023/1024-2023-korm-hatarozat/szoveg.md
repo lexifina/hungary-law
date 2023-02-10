@@ -18,8 +18,6 @@ e) felhívja a Miniszterelnökséget vezető minisztert, hogy a Modern Városok 
 
 | Határidő: | a Modern Városok Program Bizottság jóváhagyó döntését követően azonnal |
 
-2. Az 1428/2015. (VI. 25.) Korm. határozat a következő 7. ponttal egészül ki:
+2.[^1]
 
-[A Kormány 2015. június 3. napján együttműködési megállapodást (a továbbiakban: Megállapodás) kötött Szolnok Megyei Jogú Város Önkormányzatával. A Kormány a Megállapodásban foglaltak eredményes kormányzati végrehajtása érdekében]
-
-„7. egyetért a fenntarthatóság és az energiahatékonyság szempontjainak erőteljesebb érvényesítése érdekében Szolnok komplex energetikai programjának fejlesztésével Okos Hálózat (SMART GRID) és Okos Mérés (SMART METERING) rendszer kialakítása útján.”
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
