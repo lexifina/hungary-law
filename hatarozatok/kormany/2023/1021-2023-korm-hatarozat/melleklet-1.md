@@ -36,6 +36,8 @@
 
 | Határidő: | azonnal |
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Gazdaság-újraindítási programok előirányzatból, a Beruházás Előkészítési Alapból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, címrendi kiegészítésről, valamint kormányhatározatok módosításáról és visszavonásáról szóló 1496/2021. (VII. 23.) Korm. határozat 1. pont d) alpontjában a „3 456 850 000 forint tekintetében 2022. december 31.” szövegrész helyébe a „3 456 850 000 forint tekintetében 2023. augusztus 31.” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1021/2023. (II. 9.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
