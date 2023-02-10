@@ -1,0 +1,4 @@
+5/A. §[^6] E rendeletnek a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet és a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet egyes rendelkezéseinek veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 445/2022. (XI. 7.) Korm. rendelet módosításáról szóló 34/2023. (II. 9.) Korm. rendelettel [a továbbiakban: 34/2023. (II. 9.) Korm. rendelet] megállapított 2/A. és 3/A. §-át a 34/2023. (II. 9.) Korm. rendelet hatálybalépését[^7] megelőzően benyújtott kérelmekre is alkalmazni kell.
+
+[^6]: Az 5/A. §-t a 34/2023. (II. 9.) Korm. rendelet 4. §-a iktatta be.
+[^7]: A hatálybalépés időpontja 2023. február 10.
