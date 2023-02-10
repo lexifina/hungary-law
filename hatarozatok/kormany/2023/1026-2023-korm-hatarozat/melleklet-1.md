@@ -38,40 +38,15 @@
 
 | Határidő: | a c) alpont szerinti forrás tekintetében a forrás rendelkezésre állását követően harminc napon belül a d) alpont szerinti forrás tekintetében a forrás rendelkezésre állását követően harminc napon belül |
 
-## 2. A Térségi fejlesztési feladatokhoz szükséges kötelezettségvállalásokról szóló 1023/2022. (I. 27.) Korm. határozat [a továbbiakban: 1023/2022. (I. 27.) Korm. határozat] 1. pontja a következő 1.11. alponttal egészül ki:
+## 2.[^1]
 
-## (A Kormány, tekintettel)
+## 3.[^2]
 
-## „1.11. a Bük város iparterületének fejlesztéséhez szükséges víziközmű-beruházásról szóló 1026/2023. (II. 9.) Korm. határozatra”
+## 4.[^3]
 
-## (a következőkről dönt.)
+1. melléklet az 1026/2023. (II. 9.) Korm. határozathoz[^4]
 
-## 3. Az 1023/2022. (I. 27.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
-
-## 4. A Bük város gazdaságfejlesztéséhez kapcsolódó infrastruktúra-fejlesztésekről szóló 1259/2022. (V. 19.) Korm. határozat 3. pont a) alpontjában az „1000 m3” szövegrész helyébe az „1500 m3” szöveg lép.
-
-1. melléklet az 1026/2023. (II. 9.) Korm. határozathoz
-
-1. Az 1023/2022. (I. 27.) Korm. határozat 1. mellékletében foglalt táblázat 2. sora helyébe a következő rendelkezés lép:
-
-|  | [A | B | C | D | E | F | G | H | I |
-
-| 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | 2027. évi költségvetési év (nettó forint) | Összesen (nettó forint)] |
-
-## „
-
-| 2. | 1173/2020. (IV. 22.) Korm. határozat | 12 481 560 388 | 6 382 140 000 | 20 776 355 649 | 16 994 311 547 | 5 545 000 000 | 0 | 0 | 62 179 367 584 |
-
-## ”
-
-2. Az 1023/2022. (I. 27.) Korm. határozat 1. mellékletében foglalt táblázat a következő 11. sorral egészül ki:
-
-|  | [A | B | C | D | E | F | G | H | I |
-
-| 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | 2027. évi költségvetési év (nettó forint) | Összesen (nettó forint)] |
-
-„
-
-| 11. | 1026/2023. (II. 9.) Korm. határozat | 0 | 0 | 5 909 945 000 | 2 862 580 000 | 0 | 0 | 0 | 8 772 525 000 |
-
-”
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
