@@ -1,6 +1,6 @@
 ## A növényfajta-oltalmi bejelentési kérelem
 
-## 17. §[^28] A növényfajta oltalmi bejelentési kérelmet egy példányban kell benyújtani, és annak az Szt. 114/I. § (3) bekezdésében meghatározott adatokon kívül tartalmaznia kell:
+## 17. §[^39] A növényfajta oltalmi bejelentési kérelmet egy példányban kell benyújtani, és annak az Szt. 114/I. § (3) bekezdésében meghatározott adatokon kívül tartalmaznia kell:
 
 a) a növényfajta oltalom megadására irányuló kérést;
 
@@ -18,4 +18,4 @@ g) nyilatkozatot arról, hogy a bejelentő a növényfajta nemesítője vagy ann
 
 h) a bejelentési kérelem mellékleteinek felsorolását, feltüntetve az egyes iratok lapszámát és példányszámát is.
 
-[^28]: A 17. § a 30/2018. (XII. 12.) IM rendelet 8. §-ával megállapított szöveg.
+[^39]: A 17. § a 30/2018. (XII. 12.) IM rendelet 8. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## A bejelentési kérelem
 
-3. §[^4] (1) A bejelentési kérelmet egy példányban kell benyújtani, és annak az Szt. 57. § (3) bekezdésében meghatározott adatokon kívül tartalmaznia kell:
+3. §[^5] (1) A bejelentési kérelmet egy példányban kell benyújtani, és annak az Szt. 57. § (3) bekezdésében meghatározott adatokon kívül tartalmaznia kell:
 
 a) a szabadalom megadására irányuló kérést;
 
@@ -22,4 +22,4 @@ i) a bejelentési kérelem mellékleteinek felsorolását, feltüntetve az egyes
 
 (2) A bejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában (a továbbiakban: Hivatal) díjtalanul beszerezhető formanyomtatvány vagy a Hivatal honlapjáról letölthető elektronikus űrlap kitöltésével is elkészíthető.
 
-[^4]: A 3. § a 30/2018. (XII. 12.) IM rendelet 3. §-ával megállapított szöveg.
+[^5]: A 3. § a 30/2018. (XII. 12.) IM rendelet 3. §-ával megállapított szöveg.

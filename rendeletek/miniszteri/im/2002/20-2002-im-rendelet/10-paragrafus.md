@@ -10,7 +10,7 @@ b) az európai szabadalmi bejelentés közzétett igénypontjainak magyar nyelv�
 
 c) képviselet esetén annak igazolását.
 
-(2)[^9] A kérelmet egy példányban kell benyújtani, és annak az Szt. 84/E. § (3) bekezdésében meghatározott adatokon kívül tartalmaznia kell:
+(2)[^20] A kérelmet egy példányban kell benyújtani, és annak az Szt. 84/E. § (3) bekezdésében meghatározott adatokon kívül tartalmaznia kell:
 
 a) az igénypontok magyar nyelvű fordításának benyújtásáról szóló hatósági tájékoztatás közlésére irányuló kérést;
 
@@ -26,7 +26,7 @@ f) a találmány nemzetközi osztályjelzetét;
 
 g) a kérelem mellékleteinek felsorolását.
 
-(3)[^10] Az igénypontok fordítását a 2. § (2)–(5) bekezdéseiben foglaltak szerint kell elkészíteni, azzal az eltéréssel, hogy azt egy példányban kell benyújtani.
+(3)[^21] Az igénypontok fordítását a 2. § (2)–(5) bekezdéseiben foglaltak szerint kell elkészíteni, azzal az eltéréssel, hogy azt egy példányban kell benyújtani.
 
-[^9]: A 10. § (2) bekezdése a 30/2018. (XII. 12.) IM rendelet 4. §-ával megállapított szöveg.
-[^10]: A 10. § (3) bekezdése a 35/2011. (XII. 22.) KIM rendelet 1. §-ával megállapított szöveg.
+[^20]: A 10. § (2) bekezdése a 30/2018. (XII. 12.) IM rendelet 4. §-ával megállapított szöveg.
+[^21]: A 10. § (3) bekezdése a 35/2011. (XII. 22.) KIM rendelet 1. §-ával megállapított szöveg.
