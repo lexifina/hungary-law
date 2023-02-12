@@ -1,6 +1,6 @@
-2. § (1) A Központi Nukleáris Pénzügyi Alap kezelő szerve a társulással évente – legkésőbb a tárgyév februárjának 10. napjáig – támogatási szerződést köt.
+2. § (1)[^1] A Központi Nukleáris Pénzügyi Alap kezelő szerve a társulással évente – legkésőbb a tárgyév februárjának 28. napjáig – támogatási szerződést köt.
 
-(2)[^1] A támogatási szerződés az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 76. § (1) bekezdésében meghatározottakon túl tartalmazza legalább:
+(2)[^2] A támogatási szerződés az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 76. § (1) bekezdésében meghatározottakon túl tartalmazza legalább:
 
 a) a társulás megnevezését, székhelyét, adószámát, a képviseletre jogosult személy megnevezését, törzskönyvi azonosító számát, valamint a társulás fizetési számla számát és a számláját vezető pénzforgalmi szolgáltató megnevezését;
 
@@ -22,4 +22,5 @@ e) a jogszabály által meghatározott, valamint a felek által szükségesnek t
 
 f) a támogatási szerződéssel kapcsolatban felmerülő vitás kérdésekben eljáró bíróság megnevezését.
 
-[^1]: A 2. § (2) bekezdés nyitó szövegrésze a 175/2015. (VII. 7.) Korm. rendelet 75. §-a szerint módosított szöveg.
+[^1]: A 2. § (1) bekezdése a 33/2023. (II. 9.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdés nyitó szövegrésze a 175/2015. (VII. 7.) Korm. rendelet 75. §-a szerint módosított szöveg.
