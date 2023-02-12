@@ -1,12 +1,14 @@
 ## 3. Az eljáró hatóságok
 
-3. § (1)[^5] Az Lrtv. 1. mellékletében foglalt táblázat 23–25. sora szerinti alágazatba tartozó nemzeti létfontosságú rendszerelem kijelölése és a kijelölés visszavonása során ágazati kijelölő hatóságként a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) Hivatala jár el.
+3. § (1)[^7] Az Lrtv. 1. mellékletében foglalt táblázat 23–25. sora szerinti alágazatba tartozó nemzeti létfontosságú rendszerelem kijelölése és a kijelölés visszavonása során ágazati kijelölő hatóságként a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) Hivatala jár el.
 
 (2) Az (1) bekezdés szerinti eljárásban a kijelölő hatóság
 
-a)[^6] a 9–10/A. § szerinti ágazati kritériumok és
+a)[^8] a 9–10/A. § szerinti ágazati kritériumok és
 
 b) a létfontosságú rendszerek és létesítmények azonosításról, kijelöléséről és védelméről szóló 2012. évi CLXVI. törvény végrehajtásáról szóló 65/2013. (III. 8.) Korm. rendeletben (a továbbiakban: Vhr.) meghatározott horizontális kritériumok
 
-[^5]: A 3. § (1) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 100. § b) pontja szerint módosított szöveg.
-[^6]: A 3. § (2) bekezdés a) pontja a 375/2020. (VII. 30.) Korm. rendelet 100. § c) pontja szerint módosított szöveg.
+alapján dönt a kijelölésről.
+
+[^7]: A 3. § (1) bekezdése a 375/2020. (VII. 30.) Korm. rendelet 100. § b) pontja szerint módosított szöveg.
+[^8]: A 3. § (2) bekezdés a) pontja a 375/2020. (VII. 30.) Korm. rendelet 100. § c) pontja szerint módosított szöveg.

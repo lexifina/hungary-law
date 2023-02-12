@@ -1,8 +1,6 @@
-## 13. § Ha a 9–12. §-ban meghatározott rendszerelemeknek a honvédelmi létfontosságú rendszerelemek azonosításáról, kijelöléséről és védelméről szóló 359/2015. (XII. 2.) Korm. rendelet 4. § (1) bekezdés a) és b) pontja szerint ágazaton kívüli honvédelmi létfontosságú rendszerelemnek való kijelölés szüksége is felmerül, a honvédelmi ágazat javaslattevő hatósága vagy a rendszerelem üzemeltetője – az azonosítási eljárást megelőzően – a 3. § (1) bekezdésében, az 5. § (2) bekezdésében és a 6. § (1) bekezdésében meghatározott ágazati kijelölő hatósággal egyeztetést kezdeményez.
+## 4/A. [^29] A jelentős zavar mértéke a digitális infrastruktúra ágazatban
 
-## 4/A. [^21] A jelentős zavar mértéke a digitális infrastruktúra ágazatban
-
-13/A. §[^22] (1) A Vhr. 3. mellékletében foglalt táblázat 28–30. sora szerinti helyhez kötött internet-hozzáférési (elérési) szolgáltatás, nomadikus internet-hozzáférési (elérési) szolgáltatás, valamint mobil internet-hozzáférési (elérési) szolgáltatás esetében az üzemeltető által nyújtott szolgáltatást érintő biztonsági esemény akkor okoz jelentős zavart a szolgáltatás nyújtásában, ha az üzemeltető által a szolgáltatás nyújtása érdekében üzemeltetett
+13/A. §[^30] (1) A Vhr. 3. mellékletében foglalt táblázat 28–30. sora szerinti helyhez kötött internet-hozzáférési (elérési) szolgáltatás, nomadikus internet-hozzáférési (elérési) szolgáltatás, valamint mobil internet-hozzáférési (elérési) szolgáltatás esetében az üzemeltető által nyújtott szolgáltatást érintő biztonsági esemény akkor okoz jelentős zavart a szolgáltatás nyújtásában, ha az üzemeltető által a szolgáltatás nyújtása érdekében üzemeltetett
 
 a) rendszerelem működése közvetlenül vagy közvetve összesen több mint húszezer előfizetőt érinthet,
 
@@ -24,5 +22,5 @@ a) a TLD regisztrátor authoritatív DNS-szolgáltatása több mint 50 000 domai
 
 b) a TLD regisztrátor által kezelt DNS-bejegyzések módosítását a domain név jogosultjai 24 órát meghaladó időtartamon keresztül nem tudják elvégezni.
 
-[^21]: A 4/A. alcímet (13/A. §) a 375/2020. (VII. 30.) Korm. rendelet 99. §-a iktatta be.
-[^22]: A 13/A. §-t a 375/2020. (VII. 30.) Korm. rendelet 99. §-a iktatta be.
+[^29]: A 4/A. alcímet (13/A. §) a 375/2020. (VII. 30.) Korm. rendelet 99. §-a iktatta be.
+[^30]: A 13/A. §-t a 375/2020. (VII. 30.) Korm. rendelet 99. §-a iktatta be.
