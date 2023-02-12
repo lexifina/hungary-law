@@ -1,3 +1,3 @@
-6. § A használati mintaoltalmi bejelentés részletes alaki szabályairól szóló 18/2004. (IV. 28.) IM rendelet 6. § b) és c) pontja helyébe a következő rendelkezések lépnek:
+6. §[^7]
 
-(A rajzokat – ideértve a folyamatábrákat és diagramokat is – a műszaki rajz szabályainak alkalmazásával a következők szerint kell elkészíteni:)
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
