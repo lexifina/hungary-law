@@ -42,7 +42,7 @@ d)[^10] az Energiatudományi Kutatóközpont,
 
 e) a Budapesti Műszaki és Gazdaságtudományi Egyetem Nukleáris Technikai Intézete,
 
-f)[^11] MVM Magyar Villamos Művek Zártkörűen Működő Részvénytársaság,
+f)[^11] MVM Energetika Zártkörűen Működő Részvénytársaság,
 
 g)[^12] az országos tisztifőorvos,
 
@@ -52,7 +52,7 @@ i)[^14] a köznevelésért felelős miniszter.
 
 (4)[^15] A Központi Nukleáris Pénzügyi Alappal rendelkező miniszter képviselője egyben a KNPA Szakbizottság elnöke.
 
-(5) A KNPA Szakbizottság elnöke az ülésére tanácskozási joggal más személyeket is meghívhat.
+(5)[^16] A KNPA Szakbizottság elnöke az ülésére tanácskozási joggal az atomenergiáról szóló törvény szerinti ellenőrzési és információs célú önkormányzati társulások képviselőit és más személyeket is meghívhat.
 
 [^1]: Az 1. § (2) bekezdés a) pontja a 767/2021. (XII. 23.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdés i) pontja a 294/2014. (XI. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 101/2018. (VI. 11.) Korm. rendelet 22. §-a szerint módosított szöveg.
@@ -64,8 +64,9 @@ i)[^14] a köznevelésért felelős miniszter.
 [^8]: Az 1. § (3) bekezdés nyitó szövegrésze a 294/2014. (XI. 26.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^9]: Az 1. § (3) bekezdés b) pontja a 70/2018. (IV. 9.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
 [^10]: Az 1. § (3) bekezdés d) pontja a 204/2019. (VIII. 23.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^11]: Az 1. § (3) bekezdés f) pontját a 162/2018. (IX. 10.) Korm. rendelet 23. §-a hatályon kívül helyezte, újonnan a 36/2020. (III. 5.) Korm. rendelet 7. §-a iktatta be.
+[^11]: Az 1. § (3) bekezdés f) pontját a 162/2018. (IX. 10.) Korm. rendelet 23. §-a hatályon kívül helyezte, újonnan a 36/2020. (III. 5.) Korm. rendelet 7. §-a iktatta be, szövege a 33/2023. (II. 9.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^12]: Az 1. § (3) bekezdés g) pontját a 294/2014. (XI. 26.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 234. § b) pontjával megállapított szöveg.
 [^13]: Az 1. § (3) bekezdés h) pontját a 294/2014. (XI. 26.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 125. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^14]: Az 1. § (3) bekezdés i) pontját a 238/2022. (VI. 30.) Korm. rendelet 125. § (3) bekezdése iktatta be.
 [^15]: Az 1. § (4) bekezdése a 767/2021. (XII. 23.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^16]: Az 1. § (5) bekezdése a 33/2023. (II. 9.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.

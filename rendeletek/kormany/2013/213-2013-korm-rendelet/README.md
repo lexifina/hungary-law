@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-213-20-
 | 2020-03-21 | 2013-213-20-22.12 | 162/2018. (IX. 10.) Korm. rendelet |
 | 2022-01-01 | 2013-213-20-22.13 | 767/2021. (XII. 23.) Korm. rendelet |
 | 2022-07-01 | 2013-213-20-22.14 | 238/2022. (VI. 30.) Korm. rendelet |
+| 2023-02-12 | 2013-213-20-22.15 | 33/2023. (II. 9.) Korm. rendelet |
