@@ -1,0 +1,1 @@
+1. § Az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) 22/B. § (1) bekezdés b) pontja szerinti tanúsító hatóság (a továbbiakban: tanúsító hatóság) részére a kérelemre indított egyes tanúsító hatósági eljárásért az Ibtv. 22/B. § (10) bekezdése alapján igazgatási szolgáltatási díjat kell fizetni.
