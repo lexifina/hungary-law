@@ -1,3 +1,9 @@
-13. §[^18]
+13. § Hatályát veszti a 45/2016. (XI. 29.) NGM rendelet
 
-[^18]: A 13. § a 14. § (3) bekezdés alapján 2023. február 13-án lép hatályba.
+a) 36. § (8) bekezdése,
+
+b) 43. § a) pont ab) alpontja,
+
+c) 68. § (2) bekezdésében az „és e)” szövegrész,
+
+d) 8. melléklete.

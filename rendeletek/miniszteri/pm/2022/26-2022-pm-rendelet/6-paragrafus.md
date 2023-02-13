@@ -1,3 +1,3 @@
-6. §[^6]
+6. § A 45/2016. (XI. 29.) NGM rendelet 33. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-[^6]: A 6. § a 14. § (3) bekezdés alapján 2023. február 13-án lép hatályba.
+(Az e-TKO tervezetben ki kell tölteni)

@@ -1,3 +1,9 @@
-9. §[^9]
+9. § A 45/2016. (XI. 29.) NGM rendelet 43. § a) pont ad) alpontja helyébe a következő rendelkezés lép:
 
-[^9]: A 9. § a 14. § (3) bekezdés alapján 2023. február 13-án lép hatályba.
+[A Jöt. 84. § (1) bekezdésében meghatározott elektronikus ügyintézés keretében
+
+az állami adó- és vámhatósággal létesített közvetlen kapcsolati rendszeren keresztül intézhető]
+
+„ad) az uniós számítógépes rendszerben alkalmazott elektronikus okmányok,”
+
+[megküldése,]

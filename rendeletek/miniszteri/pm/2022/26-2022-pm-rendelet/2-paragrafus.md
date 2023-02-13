@@ -1,3 +1,5 @@
-2. §[^2]
+## „k) – ha az adófelfüggesztéssel történő termékszállításnál vagy a szabadforgalomba bocsátott jövedéki termék másik tagállamból, kereskedelmi céllal belföldre történő szállításánál az adóraktár engedélyese, a bejegyzett feladó, a bejegyzett kereskedő, az eseti bejegyzett kereskedő vagy a jövedéki engedélyes kereskedő helyett a Jöt. 18. § (12) bekezdése szerinti személyek közül többen együttesen kívánnak jövedéki biztosítékot nyújtani – a kérelmet benyújtó személy részére adott megbízás másolatát,”
 
-[^2]: A 2. § a 14. § (3) bekezdés alapján 2023. február 13-án lép hatályba.
+2. § A 45/2016. (XI. 29.) NGM rendelet 8. § (12) bekezdése helyébe a következő rendelkezés lép:
+
+„(12) A kezességvállalás formájában nyújtott jövedéki biztosíték esetén, vagy ha az adóraktár engedélyese, a bejegyzett feladó, a bejegyzett kereskedő, az eseti bejegyzett kereskedő vagy a jövedéki engedélyes kereskedő helyett a Jöt. 18. § (12) bekezdése szerinti személy nyújt jövedéki biztosítékot, az állami adó- és vámhatóság a döntését – a kérelmező részére történő megküldéssel egyidejűleg – megküldi az adóraktár engedélyesének, a bejegyzett feladónak, a bejegyzett kereskedőnek, az eseti bejegyzett kereskedőnek vagy a jövedéki engedélyes kereskedőnek. Az adóraktár engedélyese, a bejegyzett feladó, a bejegyzett kereskedő, az eseti bejegyzett kereskedő vagy a jövedéki engedélyes kereskedő a szállítmány beazonosítása érdekében az e-TKO vagy az e-EKO tervezeten feltünteti a jövedéki biztosíték átvállalását engedélyező határozat számát is.”
