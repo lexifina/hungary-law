@@ -1,1 +1,3 @@
-3. § Hatályát veszti a 213/2013. (VI. 21.) Korm. rendelet 3. § d) pontjában a „továbbá” szövegrész.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

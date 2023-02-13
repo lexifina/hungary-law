@@ -1,5 +1,5 @@
 ## 1. A Központi Nukleáris Pénzügyi Alap Szakbizottságról szóló 213/2013. (VI. 21.) Korm. rendelet módosítása
 
-1. § A Központi Nukleáris Pénzügyi Alap Szakbizottságról szóló 213/2013. (VI. 21.) Korm. rendelet [a továbbiakban: 213/2013. (VI. 21.) Korm. rendelet] 3. §-a a következő f) ponttal egészül ki:
+1. §[^2]
 
-(A KNPA Szakbizottság értékelést végez és előzetes állásfoglalást alakít ki a Központi Nukleáris Pénzügyi Alappal rendelkező miniszter döntéséhez)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
