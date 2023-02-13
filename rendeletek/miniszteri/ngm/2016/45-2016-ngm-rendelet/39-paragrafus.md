@@ -1,5 +1,3 @@
-39. § (1) A Jöt. 62. § (1) bekezdése szerinti EKO-t magyar nyelven kell kitölteni.
+39. §[^61] A szabadforgalomban, kereskedelmi céllal szállított jövedéki termék másik tagállamba történő feladása és másik tagállamból történő átvétele esetén a 33. és a 34. § rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy az e-TKO alatt e EKO t, az adófelfüggesztési eljárás keretében történő szállítás alatt szabadforgalomban végzett kereskedelmi célú szállítást kell érteni, továbbá az e-EKO nem alkalmazható jövedéki termék harmadik országba történő szállításához.
 
-(2) Az EKO 1. és 4. rovatában megnevezett szám alatt az állami adó- és vámhatóság által kiadott közösségi adószámot kell érteni.
-
-(3) Az EKO különleges bélyegzővel is ellátható.
+[^61]: A 39. § a 26/2022. (XII. 28.) PM rendelet 8. §-ával megállapított szöveg.

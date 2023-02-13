@@ -32,10 +32,11 @@ e) a (6) bekezdés szerinti kötelezettségvállalást.
 
 (11) A kezességvállalási nyilatkozat elfogadása esetén az állami adó- és vámhatóság a kezességvállalási engedélyhez nyújtott biztosítékból a kezességi nyilatkozatban vállalt összeget elkülönítetten kezeli és az elkülönítéssel egyidejűleg értesítést küld a kezességvállaló részére.
 
-(12) A kezességvállalás formájában nyújtott jövedéki biztosíték esetén vagy ha az adófelfüggesztéssel történő termékszállításhoz az adóraktár engedélyese vagy a bejegyzett feladó helyett a Jöt. 18. § (12) bekezdése szerinti személy nyújt jövedéki biztosítékot, az állami adó- és vámhatóság a döntését a kérelmezőnek megküldéssel egyidejűleg megküldi az adóraktár engedélyesének vagy a bejegyzett feladónak. Az adóraktár engedélyese vagy a bejegyzett feladó az adófelfüggesztési eljárás keretében feladandó szállítmány beazonosítása érdekében az e-TKO tervezeten feltünteti a jövedéki biztosíték átvállalását engedélyező határozat számát is.
+(12)[^15] A kezességvállalás formájában nyújtott jövedéki biztosíték esetén, vagy ha az adóraktár engedélyese, a bejegyzett feladó, a bejegyzett kereskedő, az eseti bejegyzett kereskedő vagy a jövedéki engedélyes kereskedő helyett a Jöt. 18. § (12) bekezdése szerinti személy nyújt jövedéki biztosítékot, az állami adó- és vámhatóság a döntését – a kérelmező részére történő megküldéssel egyidejűleg – megküldi az adóraktár engedélyesének, a bejegyzett feladónak, a bejegyzett kereskedőnek, az eseti bejegyzett kereskedőnek vagy a jövedéki engedélyes kereskedőnek. Az adóraktár engedélyese, a bejegyzett feladó, a bejegyzett kereskedő, az eseti bejegyzett kereskedő vagy a jövedéki engedélyes kereskedő a szállítmány beazonosítása érdekében az e-TKO vagy az e-EKO tervezeten feltünteti a jövedéki biztosíték átvállalását engedélyező határozat számát is.
 
-(13)[^14]
+(13)[^16]
 
 (14) A kezességvállalás alapján elkülönített biztosítékösszeg felszabadításáról az állami adó- és vámhatóság elektronikus értesítést küld a kezességvállaló részére.
 
-[^14]: A 8. § (13) bekezdése az 5/2017. (III. 30.) NGM rendelet 32. § a) pontja alapján nem lép hatályba.
+[^15]: A 8. § (12) bekezdése a 26/2022. (XII. 28.) PM rendelet 2. §-ával megállapított szöveg.
+[^16]: A 8. § (13) bekezdése az 5/2017. (III. 30.) NGM rendelet 32. § a) pontja alapján nem lép hatályba.

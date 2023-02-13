@@ -26,9 +26,9 @@ e) a Jöt. 18. § (12) bekezdése szerinti esetben az ott meghatározott, az ál
 
 (3) Az e-TKO tervezetben ki kell tölteni
 
-a) a 2008/118/EK tanácsi irányelvnek a jövedéki termékek jövedékiadó-felfüggesztéssel történő szállításához kapcsolódó számítógépes eljárások tekintetében történő végrehajtásáról szóló, 2009. július 24-i 684/2009/EK bizottsági rendelet (a továbbiakban: EK rendelet) I. melléklet 1. táblázat 9.c, 12.a–b, valamint a 17.p rovatát,
+a)[^45] a 2020/262 tanácsi irányelvnek a jövedéki termékek szállításával összefüggésben kicserélt okmányok szerkezetének és tartalmának, valamint a termékek jellegéből eredő károsodások határértékeinek megállapítása tekintetében történő kiegészítéséről szóló, 2022. július 5-i (EU) 2022/1636 bizottsági rendelet (a továbbiakban: EU rendelet) I. Melléklet 1. Táblázat 9.c, 12.a–b, valamint 17.p rovatát,
 
-b) a rendeltetési hely megváltoztatása esetén az alkalmazandó üzenetben az EK rendelet I. melléklet 3. táblázat 2.f rovatát is.
+b)[^46] a rendeltetési hely megváltoztatása esetén az alkalmazandó üzenetben az EU rendelet I. melléklet 3. táblázat 2.f rovatát is.
 
 (4) Az elektronikus átvételi elismervényben kiegészítő adatként meg kell adni
 
@@ -40,9 +40,11 @@ c) dohánygyártmány esetében a kiszerelési egységet és a kiskereskedelmi e
 
 d) az adóraktárban átvett jövedéki termék adóraktári készlettípusát és az átvétel jogcímkódját,
 
-e)[^41] azon felhasználói engedélyes engedélyszámát vagy nyilvántartásba vett felhasználó nyilvántartási számát, akinek a részére a bejegyzett kereskedő a jövedéki terméket tagállamból behozza.
+e)[^47] azon felhasználói engedélyes engedélyszámát vagy nyilvántartásba vett felhasználó nyilvántartási számát, akinek a részére a bejegyzett kereskedő a jövedéki terméket tagállamból behozza.
 
-(5)[^42] A Jöt. 3. § (4) bekezdés 4a., 9a. és 13. pontja szerinti jövedéki termék belföldön és harmadik országba adófelfüggesztési eljárás keretében történő szállításához az állami adó- és vámhatóság az EK rendeletben szereplőtől eltérő technikai jövedéki termékkódot határozhat meg.
+(5)[^48] A Jöt. 3. § (4) bekezdés 4a., 9a. és 13. pontja szerinti jövedéki termék belföldön és harmadik országba adófelfüggesztési eljárás keretében történő szállításához az állami adó- és vámhatóság az EU rendeletben szereplőtől eltérő technikai jövedéki termékkódot határozhat meg.
 
-[^41]: A 33. § (4) bekezdés e) pontját az 5/2017. (III. 30.) NGM rendelet 11. §-a iktatta be.
-[^42]: A 33. § (5) bekezdését a 7/2020. (VII. 30.) PM rendelet 3. §-a iktatta be.
+[^45]: A 33. § (3) bekezdés a) pontja a 26/2022. (XII. 28.) PM rendelet 6. §-ával megállapított szöveg.
+[^46]: A 33. § (3) bekezdés b) pontja a 26/2022. (XII. 28.) PM rendelet 12. § c) pontja szerint módosított szöveg.
+[^47]: A 33. § (4) bekezdés e) pontját az 5/2017. (III. 30.) NGM rendelet 11. §-a iktatta be.
+[^48]: A 33. § (5) bekezdését a 7/2020. (VII. 30.) PM rendelet 3. §-a iktatta be, szövege a 26/2022. (XII. 28.) PM rendelet 12. § c) pontja szerint módosított szöveg.

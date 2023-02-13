@@ -20,13 +20,11 @@ e) felhasználói engedély iránti kérelem esetében az előállított, felhas
 
 f) a tevékenység végzésére használni kívánt telephelyen folytatott tevékenységhez jogszabályban előírt engedélyek, igazolások listáját telephelyenkénti összeállításban (kiadó vagy nyilvántartásba vevő hatóság, engedély vagy igazolás megnevezése, száma, kiadásának időpontja),
 
-g)[^2] a nyilvántartás alapbizonylataként használt egyéb bizonylat, az üzemszünet ideje alatt alkalmazott papíralapú okmány, valamint a szabad forgalomban nem szabadforgalomba bocsátáskor vagy nem tagállami szállítás esetén alkalmazott bizonylat kivételével a Jöt. 90. §-a szerinti nem elektronikus okmányok aláírására jogosult személy aláírásmintáját, kivéve, ha
+g)[^2] a nyilvántartás alapbizonylataként használt egyéb bizonylat, az üzemszünet ideje alatt alkalmazott papíralapú okmány, valamint a szabadforgalomba bocsátott termékek szállítása esetén alkalmazott szállítólevél kivételével a Jöt. 90. §-a szerinti nem elektronikus okmányok aláírására jogosult személy aláírásmintáját, kivéve, ha
 
-ga) az aláírásra jogosult aláírásmintáját az állami adó- és vámhatóság képviselőjének jelenlétében megadja,
+ga) az aláírásra jogosult aláírásmintáját az állami adó- és vámhatóság képviselőjének jelenlétében megadja, vagy
 
-gb) az engedély iránti kérelemmel egyidejűleg az engedélyes aláírásával egyenértékű, EKO hitelességét igazoló, az állami adó- és vámhatóság által engedélyezett, a 8. melléklet szerinti bélyegző (a továbbiakban: különleges bélyegző) alkalmazásának engedélyezését is kérik, vagy
-
-gc) az engedély iránti kérelemmel egyidejűleg a szállítólevélen annak hitelességét igazoló felirat alkalmazásának engedélyezését kérik az állami adó- és vámhatóságtól,
+gb) az engedély iránti kérelemmel egyidejűleg a szállítólevélen annak hitelességét igazoló felirat alkalmazásának engedélyezését kérik az állami adó- és vámhatóságtól,
 
 h) – a Jöt. 18. § (15) bekezdése és 21. § (7) bekezdése szerinti esetek kivételével – a felajánlott jövedéki biztosíték számításának levezetését,
 
@@ -34,21 +32,21 @@ i)[^3] a pénzügyi biztosítékról kiállított okiratot,
 
 j)[^4] – kezességvállalás formájában nyújtott jövedéki biztosíték esetén – a kezességvállalási engedéllyel rendelkező személy kezességvállalási nyilatkozatát,
 
-k) – ha az adófelfüggesztéssel történő termékszállításnál az adóraktár engedélyese helyett a Jöt. 18. § (12) bekezdése szerinti személyek közül többen együttesen kívánnak jövedéki biztosítékot nyújtani – a kérelmet benyújtó személy részére adott megbízás másolatát,
+k)[^5] – ha az adófelfüggesztéssel történő termékszállításnál vagy a szabadforgalomba bocsátott jövedéki termék másik tagállamból, kereskedelmi céllal belföldre történő szállításánál az adóraktár engedélyese, a bejegyzett feladó, a bejegyzett kereskedő, az eseti bejegyzett kereskedő vagy a jövedéki engedélyes kereskedő helyett a Jöt. 18. § (12) bekezdése szerinti személyek közül többen együttesen kívánnak jövedéki biztosítékot nyújtani – a kérelmet benyújtó személy részére adott megbízás másolatát,
 
 l) az engedélyes vagy az engedélyes által jövedéki ügyintézőként foglalkoztatott vagy megbízott személy jövedéki ügyintézői szakképesítést igazoló bizonyítványának vagy a 6. § (1) bekezdés szerinti egyéb szakképesítést, szakmai végzettséget igazoló bizonyítványának, továbbá – megbízott személy esetén – a jövedéki ügyintézői tevékenység ellátásáról kiállított megbízásnak a másolatát,
 
-m)[^5] az alkalmazott denaturálási eljárás leírását, valamint a 100. § (1) bekezdésben meghatározottól eltérő részleges denaturálási eljárás alkalmazása esetén a Jöt. 133. § (2) bekezdése szerinti iratok másolatát,
+m)[^6] az alkalmazott denaturálási eljárás leírását, valamint a 100. § (1) bekezdésben meghatározottól eltérő részleges denaturálási eljárás alkalmazása esetén a Jöt. 133. § (2) bekezdése szerinti iratok másolatát,
 
 n) bejegyzett kereskedői engedélykérelem esetében egyéb ellenőrzött ásványolaj felhasználói engedélyes vagy nyilvántartásba vett felhasználó részére történő beszerzése esetében, a felhasználói engedélyes, nyilvántartásba vett felhasználó kérelmező részére kiállított nyilatkozatának másolatát egyéb ellenőrzött ásványolaj beszerzésére adott megbízásáról és az egyéb ellenőrzött ásványolajnak a nyilatkozatot tevő telephelyén történő átvételéről,
 
-o)[^6] a Jöt. 92. § (1) bekezdés a) pontja szerinti esetben a hatósági erkölcsi bizonyítványt,
+o)[^7] a Jöt. 92. § (1) bekezdés a) pontja szerinti esetben a hatósági erkölcsi bizonyítványt,
 
-p)[^7] jogi személy jogutódlása esetén a cégbírósághoz benyújtott cégbejegyzés vagy változásbejegyzés iránti kérelem másolatát,
+p)[^8] jogi személy jogutódlása esetén a cégbírósághoz benyújtott cégbejegyzés vagy változásbejegyzés iránti kérelem másolatát,
 
-q)[^8] öröklés esetén az elhunyt engedélyes halotti anyakönyvi kivonatának és az örökös adóraktárra vonatkozó használati jogcímének megállapítására alkalmas okirat másolatát,
+q)[^9] öröklés esetén az elhunyt engedélyes halotti anyakönyvi kivonatának és az örökös adóraktárra vonatkozó használati jogcímének megállapítására alkalmas okirat másolatát,
 
-r)[^9] a 21. § (2a) bekezdés szerinti tevékenység engedélyezése iránti kérelem esetén az előállítási célt igazoló irat másolatát.
+r)[^10] a 21. § (2a) bekezdés szerinti tevékenység engedélyezése iránti kérelem esetén az előállítási célt igazoló irat másolatát.
 
 (3) Az engedélyt kérőnek az engedélyezési feltételek helyszíni hatósági ellenőrzésekor a helyszínen rendelkeznie kell az alábbi dokumentumokkal és azok másolatát a helyszíni ellenőrzés alkalmával elektronikus formában az állami adó- és vámhatóság rendelkezésére kell bocsátania:
 
@@ -78,11 +76,12 @@ b) a (3) bekezdésbeliből csak az a) pont szerinti kötelezettséget kell telje
 
 c) – a 19. § szerinti esetben – csatolni kell az egyszerűsített adóraktár helyszínrajzát, amelyen pontosan fel van tüntetve a kérelmező által adóraktárként használt pincerész, azon belül a tárolóedények pontos helye, azonosításra alkalmas jele, darabszáma, űrtartalma.
 
-[^2]: A 2. § (2) bekezdés g) pontja az 5/2017. (III. 30.) NGM rendelet 3. § (1) bekezdésével megállapított, nyitó szövegrésze a 47/2017. (XII. 27.) NGM rendelet 14. § 1. pontja, a 23/2020. (XII. 30.) PM rendelet 5. §-a szerint módosított szöveg.
+[^2]: A 2. § (2) bekezdés g) pontja a 26/2022. (XII. 28.) PM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (2) bekezdés i) pontja a 47/2017. (XII. 27.) NGM rendelet 14. § 2. pontja szerint módosított szöveg.
 [^4]: A 2. § (2) bekezdés j) pontja a 47/2017. (XII. 27.) NGM rendelet 14. § 2. pontja szerint módosított szöveg.
-[^5]: A 2. § (2) bekezdés m) pontja az 5/2017. (III. 30.) NGM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^6]: A 2. § (2) bekezdés o) pontját az 5/2017. (III. 30.) NGM rendelet 3. § (3) bekezdése iktatta be, a 47/2017. (XII. 27.) NGM rendelet 13. § 1. pontja szerint módosított szöveg.
-[^7]: A 2. § (2) bekezdés p) pontját a 15/2018. (XII. 18.) PM rendelet 1. §-a iktatta be.
-[^8]: A 2. § (2) bekezdés q) pontját a 15/2018. (XII. 18.) PM rendelet 1. §-a iktatta be.
-[^9]: A 2. § (2) bekezdés r) pontját a 7/2020. (VII. 30.) PM rendelet 1. §-a iktatta be.
+[^5]: A 2. § (2) bekezdés k) pontja a 26/2022. (XII. 28.) PM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § (2) bekezdés m) pontja az 5/2017. (III. 30.) NGM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (2) bekezdés o) pontját az 5/2017. (III. 30.) NGM rendelet 3. § (3) bekezdése iktatta be, a 47/2017. (XII. 27.) NGM rendelet 13. § 1. pontja szerint módosított szöveg.
+[^8]: A 2. § (2) bekezdés p) pontját a 15/2018. (XII. 18.) PM rendelet 1. §-a iktatta be.
+[^9]: A 2. § (2) bekezdés q) pontját a 15/2018. (XII. 18.) PM rendelet 1. §-a iktatta be.
+[^10]: A 2. § (2) bekezdés r) pontját a 7/2020. (VII. 30.) PM rendelet 1. §-a iktatta be.

@@ -1,3 +1,3 @@
-7. §[^13]
+7. §[^14]
 
-[^13]: A 7. §-t a 47/2017. (XII. 27.) NGM rendelet 14. § 3. pontja hatályon kívül helyezte.
+[^14]: A 7. §-t a 47/2017. (XII. 27.) NGM rendelet 14. § 3. pontja hatályon kívül helyezte.

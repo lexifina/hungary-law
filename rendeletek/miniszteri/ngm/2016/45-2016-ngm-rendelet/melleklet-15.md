@@ -27,13 +27,3 @@ A hivatalos zár előállításáról vezetett nyilvántartás adattartalma (zá
 3.4. szállítási okmány száma
 
 3.5. felhasználó
-
-3.5.1. neve
-
-3.5.2. felhasználói minősége
-
-3.5.3. címe
-
-4. Zárókészlet
-
-4.1. mennyisége (darab)

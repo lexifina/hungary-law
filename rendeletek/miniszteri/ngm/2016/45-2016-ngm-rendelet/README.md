@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-45-20-2
 | 2022-07-01 | 2016-45-20-2X.17 | 47/2017. (XII. 27.) NGM rendelet |
 | 2022-12-29 | 2016-45-20-2X.18 | 26/2022. (XII. 28.) PM rendelet |
 | 2023-01-01 | 2016-45-20-2X.19 | 5/2017. (III. 30.) NGM rendelet |
+| 2023-02-13 | 2016-45-20-2X.20 | 26/2022. (XII. 28.) PM rendelet |

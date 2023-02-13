@@ -10,10 +10,10 @@ a) a tárolóhely megnevezését;
 
 b) a tárolóegységek (tárolótartály, hordó, palack, gyűjtőcsomag, bála, karton stb.) tételszámát, megnevezését és számjelét;
 
-c)[^20] a tárolóegységekben lévő jövedéki termék megnevezését, – az üzemanyagtöltő állomás kivételével – KN-kódját, mennyiségét (az adó alapjául szolgáló mértékegységben, üzemanyagtöltő állomás esetén az értékesítésnél alkalmazott mértékegységben, jövedéki engedélyes kereskedő esetében a kenőolajon kívüli energiatermék kivételével kiszerelési egységben);
+c)[^23] a tárolóegységekben lévő jövedéki termék megnevezését, – az üzemanyagtöltő állomás kivételével – KN-kódját, mennyiségét (az adó alapjául szolgáló mértékegységben, üzemanyagtöltő állomás esetén az értékesítésnél alkalmazott mértékegységben, jövedéki engedélyes kereskedő esetében a kenőolajon kívüli energiatermék kivételével kiszerelési egységben);
 
 d) a készletbevallás elkészítésének időpontját;
 
 e) a nyilatkozatot arról, hogy a telephelyen a készletbevallásban feltüntetett helyeken kívül nem tárolnak máshol jövedéki terméket.
 
-[^20]: A 14. § (3) bekezdés c) pontja a 26/2022. (XII. 28.) PM rendelet 4. §-ával megállapított szöveg.
+[^23]: A 14. § (3) bekezdés c) pontja a 26/2022. (XII. 28.) PM rendelet 4. §-ával megállapított szöveg.
