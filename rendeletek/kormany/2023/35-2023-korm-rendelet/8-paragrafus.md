@@ -1,5 +1,3 @@
-## „f) különleges jogrend, katasztrófaveszély, összehangolt védelmi tevékenység idején vagy váratlan támadás esetén bekövetkezett minden olyan esemény, amely a meteorológiai infrastruktúrán keresztül történő hivatalos meteorológiai információ szolgáltatás ellátásának megszűnéséhez, átalakításához vezet.”
+8. §[^9]
 
-8. § Az R. 14. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) Az Lrtv. 1. mellékletébenfoglalt táblázat 24. sora alapján európai létfontosságú rendszerelemként lehet kijelölni azt a rendszerelemet, amely az uniós űrprogram és az Európai Unió Űrprogramügynökségének a létrehozásáról, valamint a 912/2010/EU, az 1285/2013/EU és a 377/2014/EU rendelet és az 541/2014/EU határozat hatályon kívül helyezéséről szóló, 2021. április 28-i (EU) 2021/696 európai parlamenti és tanácsi rendeletben meghatározott uniós űrprogram komponenseit képező nemzetközi műholdas hálózat vagy rendszer része, vagy ezen hálózatok vagy rendszerek számára közvetlen hozzáférést biztosít, és az általa nyújtott szolgáltatás kiesése más rendszerelemmel nem váltható ki.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

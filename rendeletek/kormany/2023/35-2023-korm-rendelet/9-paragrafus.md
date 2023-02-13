@@ -1,3 +1,3 @@
-9. § Az R. a következő 18. §-sal egészül ki:
+9. §[^10]
 
-„18. § Ez a rendelet az uniós űrprogram és az Európai Unió Űrprogramügynökségének a létrehozásáról, valamint a 912/2010/EU, az 1285/2013/EU és a 377/2014/EU rendelet és az 541/2014/EU határozat hatályon kívül helyezéséről szóló, 2021. április 28-i (EU) 2021/696 európai parlamenti és tanácsi rendelet 27. cikk (8) bekezdésének és 34. cikk (6) bekezdésének végrehajtásához szükséges rendelkezéseket állapít meg.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-7. § Az R. 13/C. § (1) bekezdése a következő f) ponttal egészül ki:
+7. §[^8]
 
-(Infokommunikációs technológiák ágazatban rendkívüli eseménynek minősül)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

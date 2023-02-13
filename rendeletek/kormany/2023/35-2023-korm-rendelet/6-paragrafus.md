@@ -1,3 +1,3 @@
-6. § Az R. a következő 11/A. §-sal egészül ki:
+6. §[^7]
 
-„11/A. § Nemzeti létfontosságú rendszerelemnek lehet kijelölni az Lrtv. 1. mellékletébenfoglalt táblázat 26a. sora szerinti alágazatba tartozó azon rendszerelemet, amely hivatalos meteorológiai információt szolgáltat a meteorológiai infrastruktúrán keresztül.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

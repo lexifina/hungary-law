@@ -1,3 +1,3 @@
-5. § Az R. a következő 9/A. §-sal egészül ki:
+5. §[^6]
 
-„9/A. § Nemzeti létfontosságú rendszerelemnek lehet kijelölni az Lrtv. 1. mellékletébenfoglalt táblázat 24. sora szerinti alágazatba tartozó azon műholdas rendszer részét képező műholdkövetési, távmérési és távvezérlési funkciókat ellátó földi állomást és berendezéseit, amely műholdas rendszer tervezett üzemeltetési ideje a három évet meghaladja.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
