@@ -1,4 +1,4 @@
-51. § (1) A 2008. december 16-i 2008/118/EK tanácsi irányelv 40. cikke szerinti, másik tagállambeli személy által adófelfüggesztési eljárás keretében feladott csendes és habzóbor átvételét – az 55. §-tól eltérően –
+51. § (1) A jövedéki adóra vonatkozó általános rendelkezések megállapításáról szóló, 2019. december 19-i (EU) 2020/262 tanácsi irányelv 48. cikke szerinti, másik tagállambeli személy által adófelfüggesztési eljárás keretében feladott csendes és habzóbor átvételét – az 55. §-tól eltérően –
 
 a) az adóraktár engedélyese a 24. § szerinti adatszolgáltatás keretében,
 

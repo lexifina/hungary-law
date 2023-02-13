@@ -23,3 +23,5 @@ f) ha az adófizetési kötelezettség a 117. § (4) bekezdése esetében keletk
 (5) A nulla adómértékű csendes borra, valamint a 129. § (2) bekezdés a) pontja szerinti termékre nem kell adóbevallást benyújtani.
 
 (6) Az adóraktár engedélyesének a felszámolási és a végelszámolási eljárás miatti megszűnés kivételével az adóraktári engedélyének hatályvesztését követő 30 napon belül bevallást kell benyújtania. A felszámolási és a végelszámolási eljárás miatti megszűnés esetében az adóbevallásra az Art.-ot, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvényt vagy a csődeljárásról és a felszámolási eljárásról szóló törvényt kell alkalmazni.
+
+(7) Ha a jövedéki engedélyes kereskedőnek a tárgyhóban nem keletkezett adófizetési kötelezettsége, akkor nem kell adóbevallást benyújtania.

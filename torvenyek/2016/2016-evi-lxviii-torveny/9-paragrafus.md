@@ -46,13 +46,13 @@ b) feltárja az eset körülményeit az állami adó- és vámhatóság vizsgál
 
 c) gondoskodik a helyszín biztosításáról és a további megsemmisülés megakadályozásáról.
 
-(4) Belföldön az állami adó- és vámhatóság
+(4) Az állami adó- és vámhatóság
 
 a) a benyújtott bizonyítékok alapján bírálja el, hogy milyen mennyiség minősül a 3. § (1) bekezdés 45. pont a) alpontja szerint teljesen megsemmisültnek vagy helyrehozhatatlanul károsodottnak,
 
-b) legfeljebb a végrehajtási rendeletben, csendes és habzóbor esetében a Btv. végrehajtására kiadott jogszabályban meghatározott mértéket ismeri el a 3. § (1) bekezdés 45. pont b) alpontja szerinti hiányként.
+b) legfeljebb az Európai Unió kötelező jogi aktusában vagy ennek eltérő rendelkezése hiányában a végrehajtási rendeletben, csendes és habzóbor esetében a Btv. végrehajtására kiadott jogszabályban meghatározott mértéket ismeri el a 3. § (1) bekezdés 45. pont b) alpontja szerinti hiányként.
 
-(4a) Az állami adó- és vámhatóság kérelemre és hivatalból előírhatja a (4) bekezdés b) pontjában meghatározottól eltérő elismert mennyiségű hiány alkalmazását, ha azt a tevékenység jellege vagy a műszaki-technológiai feltételek indokolják, a helyszíni mérés adatai, az állami adó- és vámhatóság által szükségesnek tartott esetben az állami adó- és vámhatóság jelenlétében elvégzett próbagyártás, valamint szükség esetén szakértői vélemény alátámasztja.
+(4a) Az állami adó- és vámhatóság kérelemre és hivatalból előírhatja a (4) bekezdés b) pontjában a végrehajtási rendeletben vagy a Btv. végrehajtására kiadott jogszabályban meghatározottól eltérő elismert mennyiségű hiány alkalmazását, ha azt a tevékenység jellege vagy a műszaki-technológiai feltételek indokolják, a helyszíni mérés adatai, az állami adó- és vámhatóság által szükségesnek tartott esetben az állami adó- és vámhatóság jelenlétében elvégzett próbagyártás, valamint szükség esetén szakértői vélemény alátámasztja.
 
 (5) Az állami adó- és vámhatóság a (4) bekezdés a) pontja szerinti döntéséről, ha a jövedéki termék feladója nem belföldi személy, kérésre tájékoztatja a jövedéki termék feladóját és a feladás helye szerinti tagállam illetékes hatóságát.
 

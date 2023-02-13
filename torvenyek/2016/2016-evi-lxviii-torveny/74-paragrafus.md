@@ -54,7 +54,7 @@ a) elszámolási kötelezettség mellett,
 
 b) a zárjegy előállítási költségének a megfizetése ellenében,
 
-c) a másik tagállamban szabadforgalomba bocsátott terméket kereskedelmi céllal belföldre szállító személy esetében a 62. § (6) bekezdés c) pont ca) alpontjában meghatározott jövedéki biztosíték nyújtása esetén
+c) a másik tagállamban szabadforgalomba bocsátott terméket kereskedelmi céllal belföldre szállító személy esetében a 28. § (7) bekezdésében meghatározott jövedéki biztosíték nyújtása esetén
 
 a (3) bekezdés szerinti igénylő rendelkezésére.
 

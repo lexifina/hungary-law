@@ -35,3 +35,5 @@ g) LPG-vel, egyéb ellenőrzött ásványolajjal és repülőgép-üzemanyaggal 
 (5) Ha a jövedéki engedélyes kereskedő adóraktári engedéllyel vagy bejegyzett kereskedői engedéllyel is rendelkezik, jövedéki biztosítékot csak olyan összegben kell nyújtania, amennyivel meghaladja az (1)–(3) bekezdés alapján nyújtandó biztosíték összege az adóraktári engedélyhez vagy a bejegyzett kereskedői engedélyhez kapcsolódóan nyújtott jövedéki biztosíték összegét.
 
 (6) Ha a jövedéki engedélyes kereskedő kizárólag egyéb ellenőrzött ásványolajat importál vagy hoz be másik tagállamból és felhasználói engedéllyel is rendelkezik, jövedéki biztosítékot csak a felhasználói engedélyéhez kapcsolódóan kell nyújtania.
+
+(7) Ha a másik tagállamban szabadforgalomba bocsátott, a jövedéki engedélyes kereskedő részére feladott jövedéki termékek adótartamára nyújtandó jövedéki biztosíték összege meghaladja az (1)–(3) bekezdés alapján nyújtandó biztosíték összegét, a jövedéki biztosítékot a szállítás megkezdése előtt ki kell egészíteni a jövedéki termék adótartamára nyújtandó biztosítéki összeg erejéig.

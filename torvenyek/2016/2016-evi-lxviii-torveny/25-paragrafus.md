@@ -6,4 +6,4 @@
 
 (3) A bejegyzett kereskedőnek az engedély kiadása évét követő évtől független könyvvizsgáló által hitelesített (auditált) mérleggel kell rendelkeznie.
 
-(4) A bejegyzett kereskedő által nyújtott jövedéki biztosíték összegének el kell érnie az adófelfüggesztési eljárás keretében átvett azon jövedéki termékek adótartalmának összegét, amelyek után a bejegyzett kereskedő az adót nem fizette meg.
+(4) A bejegyzett kereskedő által nyújtott jövedéki biztosíték összegének el kell érnie az adófelfüggesztési eljárás keretében, valamint a másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal szállított, átvett azon jövedéki termékek adótartalmának összegét, amelyek után a bejegyzett kereskedő az adót nem fizette meg.

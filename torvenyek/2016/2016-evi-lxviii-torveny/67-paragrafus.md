@@ -42,4 +42,4 @@ b) jövedéki termék magánszemély részére
 
 készpénzfizetéssel is értékesíthető.
 
-(7) A jövedéki termék értékesítéséről a jövedéki engedélyes kereskedő olyan számlát állít ki, amelyen feltünteti a jövedéki termék KN-kódját és az engedélyének számát.
+(7) A jövedéki termék belföldi értékesítéséről a jövedéki engedélyes kereskedő olyan számlát állít ki, amelyen feltünteti a jövedéki termék KN-kódját és az engedélyének számát.

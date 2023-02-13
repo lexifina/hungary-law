@@ -26,7 +26,7 @@ b) nem veszélyezteti, az állami adó- és vámhatóság felszólítja az enged
 
 (6) Az (5) bekezdés szerinti feltétel fennállását az állami adó- és vámhatóság az engedélyes kérelmére az engedélyben rögzítheti.
 
-(7) Ha az engedély felfüggesztésére okot adó körülményt az állami adó- és vámhatóság által működtetett elektronikus rendszer észleli, az elektronikus rendszer automatikus intézkedése útján megtagadja az elektronikus átvételi elismervény továbbítását és az e-TKO tervezet jóváhagyását, továbbítását, valamint erről értesíti az engedélyest.
+(7) Ha az engedély felfüggesztésére okot adó körülményt az állami adó- és vámhatóság által működtetett elektronikus rendszer észleli, az elektronikus rendszer automatikus intézkedése útján megtagadja az elektronikus átvételi elismervény továbbítását, az e-TKO és az e-EKO tervezet jóváhagyását, továbbítását, valamint erről értesíti az engedélyest.
 
 (8) A (7) bekezdés szerinti automatikus intézkedést az állami adó- és vámhatóság soron kívül, de legkésőbb 3 napon belül felülvizsgálja és fenntartásának szükségessége esetén indokolt döntést hoz az engedély felfüggesztéséről, amely ellen önálló fellebbezésnek van helye. Ha a felülvizsgálat eredményeként az intézkedés fenntartása nem indokolt, az állami adó- és vámhatóság automatikusan megszünteti, és erről az engedélyest tájékoztatja. Az engedély felfüggesztésének időtartama alatt
 

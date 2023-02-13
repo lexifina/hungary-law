@@ -1,6 +1,6 @@
 8. § (1) Az adófizetési kötelezettség a
 
-a) 7. § (1) bekezdés b) pontja szerinti esetben a jövedéki termék EKO-n feltüntetett címzettjét, ennek hiányában a jövedéki termék birtokosát,
+a) 7. § (1) bekezdés b) pontja szerinti esetben a jövedéki termék e-EKO-n feltüntetett címzettjét, ennek hiányában a jövedéki termék birtokosát,
 
 b) 7. § (1) bekezdés c) pontja szerinti esetben a csomagküldő kereskedőt,
 
@@ -38,7 +38,7 @@ oc) a 3. § (1) bekezdés 44. pont e) alpontjában meghatározott szabálytalans
 
 od) a 3. § (1) bekezdés 44. pont f) alpontjában meghatározott szabálytalanság esetében a jövedéki termék előállítóját és minden olyan személyt, aki a szabálytalan előállításban részt vesz,
 
-oe) a 3. § (1) bekezdés 44. pont g) alpontjában meghatározott szabálytalanság esetében a szabálytalan importálásban résztvevő személyt,
+oe) a 3. § (1) bekezdés 44. pont g) alpontjában meghatározott szabálytalanság esetében a szabálytalan behozatalban résztvevő személyt,
 
 of) a 3. § (1) bekezdés 44. pont h) alpontjában meghatározott szabálytalanság esetében az adóraktár engedélyesét,
 

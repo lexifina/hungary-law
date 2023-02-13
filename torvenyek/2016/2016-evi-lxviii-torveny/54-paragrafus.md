@@ -2,7 +2,7 @@
 
 54. § (1) Jövedéki termék adófelfüggesztési eljárás keretében – az e törvényben foglalt kivételekkel – e-TKO-val szállítható.
 
-(2) A jövedéki termék feladója – legkorábban a kitárolást 7 nappal megelőzően – kiállítja és az állami adó- és vámhatóságnak megküldi az e-TKO-nak a 684/2009/EK rendeletben, valamint a végrehajtási rendeletben előírtak szerint kitöltött tervezetét.
+(2) A jövedéki termék feladója – legkorábban a kitárolást 7 nappal megelőzően – kiállítja és az állami adó- és vámhatóságnak megküldi az e-TKO tervezetét.
 
 (3) Az állami adó- és vámhatóság az uniós számítógépes rendszerben ellenőrzi az e-TKO tervezetében szereplő adatokat. Ha az adatok
 
@@ -24,7 +24,7 @@ az uniós számítógépes rendszerben haladéktalanul továbbítja.
 
 (6) A jövedéki termék feladója a szállítást végző személy részére átadja az e-TKO kinyomtatott példányát vagy az AHK-szám feltüntetését tartalmazó számlát, szállítólevelet vagy más fuvarokmányt, amely a szállítás teljes ideje alatt kíséri a szállítmányt és azt a tagállamok illetékes hatóságainak kérésére be kell mutatni.
 
-(7) A jövedéki termék feladója a 684/2009/EK rendeletre figyelemmel az adófelfüggesztési eljárás keretében végzett szállítás
+(7) A jövedéki termék feladója az adófelfüggesztési eljárás keretében végzett szállítás
 
 a) kezdetéig törölheti – az uniós számítógépes rendszeren keresztül – az e-TKO-t,
 

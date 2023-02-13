@@ -4,7 +4,7 @@
 
 a) az előállított jövedéki termék mennyiségére,
 
-b) a szabadforgalomba bocsátott jövedéki termék mennyiségére,
+b) a belföldön szállítólevéllel szabadforgalomba bocsátott jövedéki termék mennyiségére,
 
 c) az átvett zárjegyekről a 78. § szerinti adatokra,
 
@@ -18,13 +18,13 @@ g) a 120. § (3) bekezdés szerinti jegyzőkönyvre, és
 
 h) a 89. § (2) bekezdése szerinti jegyzőkönyvre.
 
-(3) Az adatszolgáltatásának nem kell kiterjednie az állami adó- és vámhatóság rendelkezésére álló adatokra, ideértve a (2) bekezdés b) pontja szerinti adatokat, ha az adóraktár engedélyese a jövedéki termék szabadforgalomba bocsátásáról az EKO adattartalmával megegyező, és a végrehajtási rendeletben meghatározott adatokkal kiegészített adatokat, a szabadforgalomba bocsátással egyidejűleg megküldi az állami adó- és vámhatóságnak.
+(3) Az adatszolgáltatásának nem kell kiterjednie az állami adó- és vámhatóság rendelkezésére álló adatokra, ideértve a (2) bekezdés b) pontja szerinti adatokat is, ha az adóraktár engedélyese a jövedéki termék belföldi címzett részére történő szabadforgalomba bocsátásáról a szállítólevél adattartalmával megegyező, és a végrehajtási rendeletben meghatározott adatokkal kiegészített adatokat, a szabadforgalomba bocsátással egyidejűleg megküldi az állami adó- és vámhatóságnak.
 
 (4) Az adóraktár engedélyese
 
 a) a (2) bekezdés c) pontja szerinti adatszolgáltatást, valamint az (5) bekezdés szerinti bejelentéseket akkor is a változást követő munkanapon küldi meg az állami adó- és vámhatóságnak, ha az (1) bekezdés szerint egyébként nem kötelezett a változást követő munkanapon teljesítendő adatszolgáltatásra, és
 
-b) a 21. § (7) bekezdése szerinti összegű biztosíték nyújtása esetén a jövedéki termék szabadforgalomba bocsátásáról az EKO adattartalmával megegyező adatokat a szabadforgalomba bocsátással egyidejűleg küldi meg az állami adó- és vámhatóságnak.
+b) a 21. § (7) bekezdése szerinti összegű biztosíték nyújtása esetén a jövedéki termék belföldi címzett részére történő szabadforgalomba bocsátásáról a szállítólevél adattartalmával megegyező adatokat a szabadforgalomba bocsátással egyidejűleg küldi meg az állami adó- és vámhatóságnak.
 
 (5) Az adóraktár engedélyese az adatszolgáltatás keretében teszi meg az e törvényben és a végrehajtási rendeletben meghatározott bejelentéseit az állami adó- és vámhatóságnak, kivéve az azonnal vagy papíralapon teljesítendő, így a 9. § (3) bekezdése szerinti, a (6) bekezdés szerinti, az 54. § (8) bekezdése szerinti, az 58–60. § szerinti és a 88. § (3) bekezdése szerinti bejelentéseit.
 
@@ -36,6 +36,6 @@ b) a 21. § (7) bekezdése szerinti összegű biztosíték nyújtása esetén a 
 
 (9) Az elektronikus nyilvántartásban az energiatermék, a sör, a csendes és habzóbor, az egyéb csendes és habzó erjesztett ital, a köztes alkoholtermék és az alkoholtermék KN-kód szerinti bontásban, a dohánygyártmányok dohánygyártmányonként a jövedéki adó alapjául szolgáló mennyiségi egységben szerepelnek.
 
-(10) Az adóraktár engedélyese az elektronikus átvételi elismervény kiállítását követően a jövedéki terméket haladéktalanul felveszi elektronikus nyilvántartásába.
+(10) Az adóraktár engedélyese az elektronikus átvételi elismervény kiállítását követően a jövedéki terméket haladéktalanul felveszi az elektronikus nyilvántartásába, az adófelfüggesztés alatt álló készletébe.
 
 (11) Az adóraktárban felhasználói engedélyes tevékenységet is folytató engedélyes e tevékenységéről a 31. § (1) és (3) bekezdése szerinti nyilvántartást vezet és a 31. § (4) bekezdése szerinti adatszolgáltatást teljesít.

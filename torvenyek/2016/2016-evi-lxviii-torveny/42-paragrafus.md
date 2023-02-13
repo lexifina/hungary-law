@@ -1,3 +1,3 @@
-## 31. Tagállamba szállító kisüzemi bortermelő
+## 31. Exportáló, tagállamba feladó kisüzemi bortermelő
 
-42. § Állami adó- és vámhatósági nyilvántartásba vétel szükséges a másik tagállamba csendes bort, saját előállítású csendes borból előállított palackos erjesztésű habzóbort adófelfüggesztési eljárás keretében szállító kisüzemi bortermelőnek.
+42. § A csendes bort, saját előállítású csendes borból előállított palackos erjesztésű habzóbort exportáló vagy másik tagállamba feladó kisüzemi bortermelőt az állami adó- és vámhatóság nyilvántartásba veszi.

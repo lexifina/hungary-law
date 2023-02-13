@@ -2,7 +2,7 @@
 
 152. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) a jövedéki adóra vonatkozó általános rendelkezésekről és a 92/12/EGK irányelv hatályon kívül helyezéséről szóló, 2008. december 16-i 2008/118/EK tanácsi irányelv,
+a) a jövedéki adóra vonatkozó általános rendelkezések megállapításáról szóló, 2019. december 19-i (EU) 2020/262 tanácsi irányelv,
 
 b) az energiatermékek és a villamos energia közösségi adóztatási keretének átszervezéséről szóló, 2003. október 27-i 2003/96/EK tanácsi irányelv,
 
@@ -18,4 +18,4 @@ g) a dohánygyártmányokra alkalmazott jövedéki adó szerkezetéről és adó
 
 h) a 2008/118/EK tanácsi irányelv ellenőrzési és szállítási rendelkezéseinek a 2003/96/EK tanácsi irányelv 20. cikkének (2) bekezdésével összhangban egyes adalékokra történő alkalmazásáról szóló, 2012. április 20-i 2012/209/EU bizottsági végrehajtási határozat.
 
-i) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek és a jövedéki adóra vonatkozó általános rendelkezésekről szóló 2008/118/EK irányelvnek az uniós keretben végzett védelmi feladatok tekintetében történő módosításáról szóló, 2019. december 16-i (EU) 2019/2235 tanácsi irányelv.
+i)

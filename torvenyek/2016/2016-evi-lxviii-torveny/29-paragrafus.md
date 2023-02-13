@@ -16,7 +16,7 @@ rendelkezik vagy azt bérel.
 
 (3) Az országos közforgalmú vasút üzemeltetője mentesül az (1) bekezdés a) pontjában meghatározott feltétel teljesítése alól, ha a gázolajat kizárólag a vasúti pályához kötött járművek, munkagépek vasúti szállítási főtevékenységhez közvetlenül kapcsolódó üzemeltetése céljára értékesíti.
 
-(4) A jövedéki engedélyes kereskedő a beszerzéseiről és a készletében csökkenést eredményező eseményekről, valamint a napi zárókészletéről – telephelyenként – folyamatosan elektronikus nyilvántartást vezet, amelyből a tárgyhóra vonatkozóan a végrehajtási rendelet szerinti adattartalmú adatszolgáltatást teljesít az állami adó- és vámhatóság részére a tárgyhót követő hónap 12. napjáig.
+(4) A jövedéki engedélyes kereskedő a beszerzéseiről és a készletében csökkenést eredményező eseményekről, valamint a napi zárókészletéről – telephelyenként – folyamatosan elektronikus nyilvántartást vezet, amelyből a tárgyhóra vonatkozóan a végrehajtási rendelet szerinti adattartalmú adatszolgáltatást teljesít az állami adó- és vámhatóság részére a tárgyhót követő hónap 12. napjáig, amelynek nem kell kiterjednie az állami adó- és vámhatóság rendelkezésére álló adatokra.
 
 (5) A jövedéki engedélyes kereskedő abban az esetben végezhet azonos telephelyen és időben jövedéki kiskereskedelmi tevékenységet is, ha a jövedéki engedélyes és a jövedéki kiskereskedelmi tevékenysége keretében végzett értékesítéseiről nyilvántartást vezet, amely alapján a jövedéki engedélyes és a jövedéki kiskereskedelmi készletek egyértelműen elkülöníthetőek.
 

@@ -1,6 +1,6 @@
 ## 14. Adóraktári engedély
 
-19. § (1) Jövedéki termék adóraktárban állítható elő és tárolható az adófizetési kötelezettség keletkezéséig, kivéve
+19. § (1) Jövedéki termék adóraktárban állítható elő, birtokolható és tárolható az adófizetési kötelezettség keletkezéséig, kivéve
 
 a) az ellenőrzött energiaterméken kívüli energiaterméket,
 

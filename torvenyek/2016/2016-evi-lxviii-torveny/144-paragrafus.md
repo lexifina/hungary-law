@@ -4,7 +4,7 @@
 
 (2) A denaturálás időpontját az azt megelőző 3. napig be kell jelenteni az állami adó- és vámhatóságnak.
 
-(3) A teljesen denaturált alkohol EKO-val szállítható.
+(3) A teljesen denaturált alkohol tagállamba e-EKO-val, belföldön, valamint belföld és harmadik ország között a 64. § (1) bekezdése szerinti szállítólevéllel szállítható.
 
 (4) 2 liter vagy annál nagyobb kiszerelésű teljesen denaturált alkoholt adóraktár engedélyese, felhasználói engedélyes vagy nyilvántartásba vett felhasználó használhat fel.
 

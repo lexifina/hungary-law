@@ -6,4 +6,4 @@ a) aki nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt,
 
 b) akinek nincs meg nem fizetett köztartozása, társadalombiztosításijárulék-tartozása, kivéve, ha arra részletfizetést vagy fizetési halasztást engedélyeztek,
 
-c) aki az adófelfüggesztési eljárás keretében átvett jövedéki termékek adótartalmával megegyező összegű jövedéki biztosítékot nyújt.
+c) aki az adófelfüggesztési eljárás keretében, valamint a másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal szállított, átvett jövedéki termékek adótartalmával megegyező összegű jövedéki biztosítékot nyújt.

@@ -34,7 +34,7 @@ b) – a nyilvántartás alapbizonylataként használt egyéb bizonylat, az üze
 
 c) a 92. (1) bekezdés a) pontjának alkalmazása esetén a hatósági erkölcsi bizonyítványt.
 
-(2) Az állami adó- és vámhatóság az engedély iránti kérelmet 30 napon belül, az eseti bejegyzett kereskedő és a bejegyzett feladó esetében 15 napon belül bírálja el, amelyet az állami adó- és vámhatóság kivételesen indokolt esetben egy alkalommal, legfeljebb 30 nappal meghosszabbíthat.
+(2) Az állami adó- és vámhatóság az engedély iránti kérelmet 30 napon belül, az eseti bejegyzett kereskedő, az eseti igazolt feladó és a bejegyzett feladó esetében 15 napon belül bírálja el, amelyet az állami adó- és vámhatóság kivételesen indokolt esetben egy alkalommal, legfeljebb 30 nappal meghosszabbíthat.
 
 (3) Egy adott, földrajzilag körülhatárolt hely telephelyként való működése a kérelmező részére nem engedélyezhető, ha a korábban ott folytatott, e törvény hatálya alá tartozó tevékenységgel összefüggésben megállapított adó-, bírság-, pótléktartozás vagy zárjegyhiánnyal kapcsolatos tartozás nem került megfizetésre, feltéve, hogy a tartozást eredményező tevékenységet
 

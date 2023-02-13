@@ -8,7 +8,7 @@
 
 a) a jövedéki terméket belföldön előállítják,
 
-b) a jövedéki terméket importálják,
+b) a jövedéki terméket importálják vagy szabálytalanul behozzák,
 
 c) másik tagállamban szabadforgalomba bocsátott jövedéki terméket a 62. § szerinti kereskedelmi céllal vagy csomagküldő kereskedelem keretében belföldre szállítják, vagy
 

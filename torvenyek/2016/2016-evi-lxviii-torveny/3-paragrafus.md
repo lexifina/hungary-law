@@ -4,25 +4,25 @@
 
 1. adó: a jövedéki termékek után fizetendő jövedéki adó és a dohánygyártmányok általános forgalmi adója;
 
-2. adófelfüggesztési eljárás: a jövedéki termék vámfelfüggesztési eljáráson kívüli előállítására, tárolására vagy szállítására alkalmazott, az adófizetési kötelezettséget felfüggesztő adóeljárás;
+2. adófelfüggesztési eljárás: a jövedéki termék előállítására, birtoklására, tárolására vagy szállítására alkalmazott, az adófizetési kötelezettséget felfüggesztő adóeljárás;
 
-3. adómentességi igazolás: a jövedéki adómentességi igazolásról szóló 1996. január 10-i 31/96/EK bizottsági rendelet mellékletében közzétett okmány;
+3. adómentességi igazolás: az (EU) 2020/262 tanácsi irányelvnek a jövedéki termékek adófelfüggesztés melletti szállításához és szabad forgalomba bocsátást követő szállításához kapcsolódó okmányhasználat tekintetében történő alkalmazására vonatkozó szabályok megállapításáról, valamint az adómentességi igazoláshoz használandó űrlap meghatározásáról szóló, 2022. július 5-i (EU) 2022/1637 bizottsági végrehajtási rendelet mellékletében közzétett okmány;
 
-4. adóraktár: az adóraktár engedélyese által működtetett, jövedéki termék adófelfüggesztési eljárás keretében történő előállítására, tárolására, felhasználására más termék előállításához, feladására és átvételére szolgáló,
+4. adóraktár: az adóraktár engedélyese által működtetett, jövedéki termék adófelfüggesztési eljárás keretében történő előállítására, birtoklására, tárolására, felhasználására más termék előállításához, feladására és átvételére, továbbá másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal belföldre feladott jövedéki termék átvételére és szabadforgalomba bocsátott jövedéki termék, kereskedelmi céllal másik tagállamba történő feladására szolgáló,
 
-a) belföldön fizikailag, így különösen fallal, kerítéssel, mérési ponttal elkülönített, egy technológiai egységet képező üzem, raktár, amely megfelel az e törvényben meghatározott feltételeknek,
+a) fizikailag, így különösen fallal, kerítéssel, mérési ponttal elkülönített, egy technológiai egységet képező, belföldön található üzem, raktár, amely megfelel az e törvényben meghatározott feltételeknek,
 
-b) egy másik tagállam illetékes hatósága által az adóraktár engedélyezésére meghatározott feltételeknek megfelelő hely;
+b) egy másik tagállam jogszabálya vagy illetékes hatósága által az adóraktár engedélyezésére meghatározott feltételeknek megfelelő hely;
 
 5. adóraktár engedélyese: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által az adóraktár működtetésére kiadott engedéllyel rendelkező személy;
 
-6. AHK-szám: az e-TKO egyedi adminisztratív hivatkozási kódja;
+6. AHK-szám: az e-TKO és az e-EKO egyedi adminisztratív hivatkozási kódja;
 
 7. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló Korm. rendelet szerinti támogatás;
 
-8. bejegyzett feladó: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély birtokában harmadik országból behozott jövedéki terméket adófelfüggesztési eljárás keretében feladni jogosult személy;
+8. bejegyzett feladó: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély birtokában harmadik országból behozott jövedéki terméket adófelfüggesztési eljárás keretében, valamint szabadforgalomba bocsátott, kereskedelmi céllal szállított jövedéki terméket másik tagállamba feladni jogosult személy;
 
-9. bejegyzett kereskedő: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély birtokában másik tagállamból adófelfüggesztési eljárás keretében szállított jövedéki termék átvételére jogosult személy;
+9. bejegyzett kereskedő: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély birtokában másik tagállamból adófelfüggesztési eljárás keretében szállított jövedéki termék, valamint másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal szállított jövedéki termék átvételére jogosult személy;
 
 10. csomagküldő kereskedelem: szabadforgalomba bocsátott jövedéki termék másik tagállamba magánszemélynek vagy független gazdasági tevékenységet nem folytató személynek, közvetlen vagy megbízott útján megvalósuló szállítással történő értékesítése, figyelemmel a termékre vonatkozó jogszabály által előírt korlátozásokra;
 
@@ -34,15 +34,17 @@ a) az 1965. évi 22. törvényerejű rendelettel kihirdetett, a diplomáciai kap
 
 b) az a családtag, aki az a) pontban megjelölt személlyel igazoltan közös háztartásban él, feltéve, hogy az illetőt a fogadó állam arra jogosított hatósága ilyenként elismeri;
 
-13. EKO: a feladási tagállamban szabadforgalomba bocsátott jövedéki termékek Közösségen belüli szállításának egyszerűsített kísérőokmányáról szóló, 1992. december 17-i 3649/92/EGK bizottsági rendelet szerinti követelményeknek megfelelő okmány;
+13. e-EKO: szabadforgalomba bocsátott jövedéki termék feladója által az uniós számítógépes rendszerben kiállított, AHK-számmal ellátott elektronikus okmány;
 
-14. elektronikus átvételi elismervény: az e-TKO-val feladott jövedéki termék címzettje által a jövedéki termék átvételéről az uniós számítógépes rendszerben kiállított, a 2008/118/EK tanácsi irányelvnek a jövedéki termékek jövedékiadó-felfüggesztéssel történő szállításához kapcsolódó számítógépes eljárások tekintetében történő végrehajtásáról szóló, 2009. július 24-i 684/2009/EK bizottsági rendeletben (a továbbiakban: 684/2009/EK rendelet) meghatározott adattartalmú elektronikus okmány;
+14. elektronikus átvételi elismervény: az e-TKO-val vagy e-EKO-val feladott jövedéki termék címzettje által a jövedéki termék átvételéről az uniós számítógépes rendszerben kiállított elektronikus okmány;
 
-15. elektronikus kiviteli elismervény: az e-TKO-val harmadik országba történő kiszállítás céljára feladott jövedéki termék harmadik országba történt kiléptetéséről a kivitel helye szerinti tagállam illetékes hatósága (belföldön az állami adó- és vámhatóság) által az uniós számítógépes rendszerben kiállított, a 684/2009/EK rendeletben meghatározott adattartalmú elektronikus okmány;
+15. elektronikus kiviteli elismervény: az e-TKO-val harmadik országba történő kiszállítás céljára feladott jövedéki termék harmadik országba történt kiléptetéséről a kivitel helye szerinti tagállam illetékes hatósága (belföldön az állami adó- és vámhatóság) által az uniós számítógépes rendszerben kiállított elektronikus okmány;
 
-16. eseti bejegyzett kereskedő: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély birtokában másik tagállamból adófelfüggesztési eljárás keretében szállított jövedéki terméket egy alkalommal átvenni jogosult személy;
+16. eseti bejegyzett kereskedő: az állami adó- és vámhatóság vagy egy másik tagállam illetékes hatósága által kiadott engedély, másik tagállam illetékes hatóságának bejegyzése birtokában másik tagállamból adófelfüggesztési eljárás keretében szállított jövedéki terméket, valamint másik tagállamban szabadforgalomba bocsátott, kereskedelmi céllal szállított jövedéki terméket egy alkalommal átvenni jogosult személy;
 
-17. e-TKO: az uniós számítógépes rendszerben a jövedéki termék feladója által kiállított, AHK-számmal ellátott elektronikus okmány;
+16a. eseti igazolt feladó: az állami adó- és vámhatóság által kiadott engedély vagy egy másik tagállam illetékes hatóságának bejegyzése birtokában a szabad forgalomba bocsátott jövedéki terméket másik tagállamba kereskedelmi céllal egy alkalommal feladni jogosult személy;
+
+17. e-TKO: adófelfüggesztési eljárás alatt álló jövedéki termék feladója által az uniós számítógépes rendszerben kiállított, AHK-számmal ellátott elektronikus okmány;
 
 17a. étrend-kiegészítő: az egészségügyért felelős miniszter rendeletében ekként meghatározott és forgalomba hozatalra bejelentett (beleértve az Európai Gazdasági Térség más tagállamában fogalomban lévő termék első bejelentésének a rendelet szerinti belföldi benyújtását is) termék;
 
@@ -72,7 +74,7 @@ jogosult személy;
 
 22. háztartás: az egy lakásban életvitelszerűen együtt élő, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező természetes személyek közössége;
 
-23. importálás: jövedéki terméknek harmadik országból közvetlenül vagy másik tagállam(ok)on keresztül belföldre történő behozatala azzal, hogy ha a jövedéki termék vámfelfüggesztési eljárás keretében lép be belföldre, az importálás a vámfelfüggesztési eljárásnak a jövedéki termék vámjogi szabad forgalomba bocsátását eredményező lezárásával egyidejűleg valósul meg;
+23. importálás: a jövedéki termékek vámjogi szabadforgalomba bocsátása a 952/2013/EU rendelet 201. cikkével összhangban;
 
 24. importálás helye: az a hely, ahol a jövedéki termék a vámjogi szabad forgalomba bocsátásakor van;
 
@@ -130,7 +132,9 @@ b) adózatlan jövedéki termék adófelfüggesztési eljáráson kívüli birto
 
 c) jövedéki termék adófelfüggesztési eljáráson kívüli előállítása, ideértve a szabálytalanság esetét is,
 
-d) jövedéki termék importálása, ideértve a szabálytalanság esetét is, kivéve ha a jövedéki termék adófelfüggesztési eljárás alá kerül;
+d) jövedéki termék importálása, kivéve, ha a jövedéki termék adófelfüggesztési eljárás alá kerül, és a jövedéki termék szabálytalan behozatala, kivéve, ha a vámtartozás a 952/2013/EU rendelet 124. cikke (1) bekezdés e), f), g), vagy k) pontja alapján kiegyenlítésre került;
+
+43a. szabálytalan behozatal: olyan jövedéki terméknek az Európai Unió területére való behozatala, amelyeket nem bocsátottak a 952/2013/EU rendelet 201. cikkével összhangban szabad forgalomba, és amelyekre vonatkozóan a 952/2013/EU rendelet 79. cikk (1) bekezdésével összhangban vámtartozás keletkezett, illetve keletkezett volna, ha az áruk vámkötelesek lennének;
 
 44. szabálytalanság: ha
 
@@ -146,7 +150,7 @@ e) az adózatlan jövedéki terméket adóraktáron kívül birtokolják,
 
 f) a jövedéki terméket a 19. § megsértésével állítják elő,
 
-g) a jövedéki terméket harmadik országból a vámjogszabályok megsértésével hozzák be belföldre;
+g) a jövedéki terméket harmadik országból szabálytalan behozatal során hozzák be belföldre;
 
 h) a 9. § (1) bekezdés m) pontja szerint külföldre kiszállított dohányzást helyettesítő nikotintartalmú termék kiszállításának végrehajtási rendelet szerinti igazolása a kiszállítást követő 121. napon nem áll rendelkezésre;
 
@@ -156,7 +160,7 @@ a) a baleset vagy – a lopás esetét kivéve – elháríthatatlan ok miatt me
 
 b) a termék tulajdonságaiból adódó, elismert mennyiségű hiány;
 
-46. uniós számítógépes rendszer: a jövedéki termékek szállításának és felügyeletének számítógépesítéséről szóló, 2003. július 16-ai 1152/2003/EK európai parlamenti és tanácsi határozattal létrehozott, az Európai Bizottság és a tagállamok illetékes hatóságai által működtetett számítógépes rendszer;
+46. uniós számítógépes rendszer: a jövedéki termékek szállításának és felügyeletének számítógépesítéséről szóló 2020. január 15-i 2020/263/EU európai parlamenti és tanácsi határozat szerinti, az Európai Bizottság és a tagállamok illetékes hatóságai által működtetett számítógépes rendszer;
 
 47. üzemanyag: – az 5 liter vagy 5 kilogramm vagy annál kisebb kiszerelésű, nem közúti járművek üzemanyagaként kínált, értékesített vagy felhasznált 2710 12 41 KN-kód szerinti termék kivételével – a benzin, az üzemanyag célú gázolaj, – a 0 adómérték alá tartozó és az egyéb motorikus célú termék kivételével – LPG, a biodízel, a bioüzemanyag, az üzemanyag célú földgáz és az E85;
 
@@ -176,7 +180,7 @@ c) az uniós számítógépes rendszer használójának számítógépes rendsze
 
 51. vagyoni hátrány: az e törvényben és a végrehajtási rendeletben foglalt kötelezettség megszegésével az állami költségvetésnek okozott adóbevétel-kiesés és a jogosulatlan adó-visszaigénylés;
 
-52. vámfelfüggesztési eljárás: az Uniós Vámkódex létrehozásáról szóló 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet 226. cikke szerinti külső árutovábbítás, VII. cím 3. fejezete szerinti tárolás, 250–253. cikke szerinti ideiglenes behozatal és 256–258. cikke szerinti aktív feldolgozás bármelyike;
+52.
 
 53. zárjegy: a zárjegyköteles jövedéki termék legkisebb fogyasztói csomagolási egységére felhelyezett bélyeg;
 

@@ -48,7 +48,7 @@ j) az állami adó- és vámhatóság a 17. § (1) bekezdés a)–b) és d) pont
 
 (3) Az adófizetési kötelezettség keletkezésének időpontja
 
-a) az (1) bekezdés b) pontja szerinti esetben az az időpont, amikor a jövedéki termék belföldre megérkezik,
+a) az (1) bekezdés b) pontja szerinti esetben az az időpont, amikor a jövedéki terméket a bejegyzett kereskedő, az eseti bejegyzett kereskedő vagy a jövedéki engedélyes kereskedő átveszi,
 
 b) az (1) bekezdés c) pontja szerinti esetben az az időpont, amikor a jövedéki terméket a címzett átveszi,
 

@@ -24,4 +24,4 @@ b) a jövedéki termék adófelfüggesztési eljárás keretében végzett szál
 
 (5) A jövedéki termék feladója az adó megállapításához való jog elévülési idején belül köteles megőrizni az általa kiállított papíralapú okmány egy példányát.
 
-(6) A jövedéki termék feladója az üzemszünet ideje alatt a rendeltetési hely 54. § (7) bekezdése szerinti megváltoztatását – figyelemmel a 684/2009/EK rendeletre – előzetesen bejelenti az állami adó- és vámhatóságnak. Az üzemszünet végét követően a jövedéki termék adófelfüggesztési eljárás keretében végzett szállítására vonatkozó szabályokat kell alkalmazni.
+(6) A jövedéki termék feladója az üzemszünet ideje alatt a rendeltetési hely 54. § (7) bekezdése szerinti megváltoztatását előzetesen bejelenti az állami adó- és vámhatóságnak. Az üzemszünet végét követően a jövedéki termék adófelfüggesztési eljárás keretében végzett szállítására vonatkozó szabályokat kell alkalmazni.

@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-68-00-00
 | 2022-08-01 | 2022. évi XXIV. törvény | 2016-68-00-00.33 |
 | 2022-11-24 | 2022. évi XLV. törvény | 2016-68-00-00.36 |
 | 2023-02-01 | 2022. évi LXIV. törvény | 2016-68-00-00.38 |
+| 2023-02-13 | 2021. évi LXIX. törvény | 2016-68-00-00.34 |
