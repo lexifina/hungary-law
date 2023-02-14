@@ -1,9 +1,3 @@
-9. § A 45/2016. (XI. 29.) NGM rendelet 43. § a) pont ad) alpontja helyébe a következő rendelkezés lép:
+9. §[^9]
 
-[A Jöt. 84. § (1) bekezdésében meghatározott elektronikus ügyintézés keretében
-
-az állami adó- és vámhatósággal létesített közvetlen kapcsolati rendszeren keresztül intézhető]
-
-„ad) az uniós számítógépes rendszerben alkalmazott elektronikus okmányok,”
-
-[megküldése,]
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

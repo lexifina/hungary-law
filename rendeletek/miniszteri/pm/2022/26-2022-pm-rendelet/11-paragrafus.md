@@ -1,9 +1,3 @@
-11. § A 45/2016. (XI. 29.) NGM rendelet
+11. §[^11]
 
-a) 1. melléklete az 1. melléklet szerint,
-
-b) 3. melléklete a 2. melléklet szerint,
-
-c) 21. melléklete a 3. melléklet szerint
-
-módosul.
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

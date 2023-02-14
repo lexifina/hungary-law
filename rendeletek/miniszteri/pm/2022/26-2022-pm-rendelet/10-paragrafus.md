@@ -1,3 +1,3 @@
-10. § A 45/2016. (XI. 29.) NGM rendelet 68. § (1) bekezdése helyébe a következő rendelkezés lép:
+10. §[^10]
 
-„(1) A Jöt. 62. § (13) bekezdésében felsorolt termékek utáni, Jöt. 12. § d) pontja szerinti adó-visszaigénylési jogosultság érvényesítéséhez benyújtott, a címzett tagállam hatóságának igazolása valóságtartalmának ellenőrzése érdekében az állami adó- és vámhatóság – a jövedéki adók területén való közigazgatási együttműködésről és a 2073/2004/EK rendelet hatályon kívül helyezéséről szóló, 2012. május 2-i 389/2012/EU tanácsi rendelet szerint eljárva – megkereséssel élhet a címzett tagállam illetékes hatósága felé.”
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

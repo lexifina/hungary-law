@@ -1,9 +1,3 @@
-13. § Hatályát veszti a 45/2016. (XI. 29.) NGM rendelet
+13. §[^18]
 
-a) 36. § (8) bekezdése,
-
-b) 43. § a) pont ab) alpontja,
-
-c) 68. § (2) bekezdésében az „és e)” szövegrész,
-
-d) 8. melléklete.
+[^18]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

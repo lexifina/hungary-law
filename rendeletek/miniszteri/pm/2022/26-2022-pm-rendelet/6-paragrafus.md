@@ -1,3 +1,3 @@
-6. § A 45/2016. (XI. 29.) NGM rendelet 33. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+6. §[^6]
 
-(Az e-TKO tervezetben ki kell tölteni)
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
