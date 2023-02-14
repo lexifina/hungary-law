@@ -1,11 +1,11 @@
-65. § Hatályát veszti a Jöt.
+### 65. §
 
-a) 3. § (1) bekezdés 52. pontja,
+a)
 
-b) 25. alcíme,
+b)
 
-c) 90. § (1) bekezdés „az EKO,” szövegrésze,
+c)
 
 d)
 
-e) 152. § i) pontja.
+e)
