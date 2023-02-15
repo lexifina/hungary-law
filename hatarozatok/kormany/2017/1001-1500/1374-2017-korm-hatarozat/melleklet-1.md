@@ -60,7 +60,7 @@
 
 | 16. | IKOP-2.1.0-15-2017- 0039 | MÁV nagykapacitású motorvonatok beszerzése | MÁV-START Vasúti Személyszállító Zártkörűen Működő Részvénytársaság | – | – | – | – | – | Benyújtása és jóváhagyása megtörtént |
 
-| 17. | IKOP-1.1.0-15-2016- 00025 | M2 gyorsforgalmi út megvalósítása Budapest–Vác | NIF Zrt. | – | 2019. február 28. | – | – | – | 2019. február 28. |
+| 17. |  |  |  |  |  |  |  |  |  |
 
 | 18. | IKOP-1.1.0-15-2016- 00026 | M6 Bóly–Ivándárda, országhatár közötti szakasz megvalósítása | NIF Zrt. | 2019. szeptember 30. | 2019. szeptember 30. | 2019. június 30. | 2020. március 31. | – | 2019. december 31. |
 
@@ -90,4 +90,4 @@
 [^6]: A 6. pontot az 1082/2019. (III. 1.) Korm. határozat 4. pontja visszavonta.
 [^7]: A 7. pont az 1996/2017. (XII. 19.) Korm. határozat 4. pontja, az 1082/2019. (III. 1.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^8]: A 8. pontot az 1789/2019. (XII. 23.) Korm. határozat visszavonta.
-[^9]: Az 1. melléklet az 1082/2019. (III. 1.) Korm. határozat 2. pontjával megállapított, az 1303/2020. (VI. 11.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^9]: Az 1. melléklet az 1082/2019. (III. 1.) Korm. határozat 2. pontjával megállapított, az 1303/2020. (VI. 11.) Korm. határozat 4. pontja, az 1030/2023. (II. 14.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
