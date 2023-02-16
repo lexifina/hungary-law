@@ -6,7 +6,11 @@
 
 (4) Az 1. és 2. mellékletben meghatározott felhasználási szabályok abban az esetben is irányadóak, amennyiben az előirányzat ÁHT azonosítójának változatlansága mellett az előirányzat elnevezése vagy címrendi besorolása az Ávr.-ben meghatározottak szerint jogszerűen módosul.
 
-(5)[^23] E rendeletnek a fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 17/2022. (XII. 1.) MK rendelet uniós támogatási szabályok változásával összefüggő módosításáról szóló 20/2022. (XII. 27.) MK rendelettel (a továbbiakban: Módr1.) megállapított rendelkezéseit a Módr1. hatálybalépésekor[^24] folyamatban lévő ügyekben is alkalmazni kell.
+(5)[^29] E rendeletnek a fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 17/2022. (XII. 1.) MK rendelet uniós támogatási szabályok változásával összefüggő módosításáról szóló 20/2022. (XII. 27.) MK rendelettel (a továbbiakban: Módr1.) megállapított rendelkezéseit a Módr1. hatálybalépésekor[^30] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^23]: Az 55. § (5) bekezdését a 20/2022. (XII. 27.) MK rendelet 9. §-a iktatta be.
-[^24]: A hatálybalépés időpontja 2022. december 28.
+(6)[^31] E rendeletnek a fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 17/2022. (XII. 1.) MK rendelet kezelő szervi kijelöléssel összefüggő módosításáról szóló 3/2023. (II. 15.) MK rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseit a Módr2. hatálybalépésekor[^32] folyamatban lévő ügyekben is alkalmazni kell.
+
+[^29]: Az 55. § (5) bekezdését a 20/2022. (XII. 27.) MK rendelet 9. §-a iktatta be.
+[^30]: A hatálybalépés időpontja 2022. december 28.
+[^31]: Az 55. § (6) bekezdését a 3/2023. (II. 15.) MK rendelet 1. §-a iktatta be.
+[^32]: A hatálybalépés időpontja 2023. február 16.

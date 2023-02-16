@@ -4,6 +4,6 @@
 
 (3) A támogatás akkor halmozható az EUMSz 107. cikk (2) bekezdés b) pontja szerinti támogatással, ha az nem vezet a kedvezményezett által elszenvedett kár túlkompenzációjához.
 
-(4)[^13] A támogatás azonos vagy részben azonos elszámolható költségekre nem halmozható a 25. alcím szerinti támogatással.
+(4)[^19] A támogatás azonos vagy részben azonos elszámolható költségekre nem halmozható a 25. alcím szerinti támogatással.
 
-[^13]: A 39. § (4) bekezdését a 20/2022. (XII. 27.) MK rendelet 4. §-a iktatta be.
+[^19]: A 39. § (4) bekezdését a 20/2022. (XII. 27.) MK rendelet 4. §-a iktatta be.

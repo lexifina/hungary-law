@@ -1,15 +1,15 @@
-37. § (1)[^8] A támogatás támogatástartalma a válságközlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve, a (2) és (3) bekezdésben meghatározott kivétellel – nem haladhatja meg a 2 000 000 eurónak megfelelő forintösszeget.
+37. § (1)[^14] A támogatás támogatástartalma a válságközlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve, a (2) és (3) bekezdésben meghatározott kivétellel – nem haladhatja meg a 2 000 000 eurónak megfelelő forintösszeget.
 
-(2)[^9] A mezőgazdasági termékek elsődleges termelésével foglalkozó vállalkozások esetén az e tevékenységhez nyújtott támogatás támogatástartalma a válságközlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 250 000 eurónak megfelelő forintösszeget.
+(2)[^15] A mezőgazdasági termékek elsődleges termelésével foglalkozó vállalkozások esetén az e tevékenységhez nyújtott támogatás támogatástartalma a válságközlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 250 000 eurónak megfelelő forintösszeget.
 
-(3)[^10] A halászati- és akvakultúra-ágazathoz tartozó vállalkozások esetén az e tevékenységhez nyújtott támogatás támogatástartalma a válságközlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget.
+(3)[^16] A halászati- és akvakultúra-ágazathoz tartozó vállalkozások esetén az e tevékenységhez nyújtott támogatás támogatástartalma a válságközlemény 2.1. szakasza alapján nyújtott egyéb támogatásokkal együtt vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget.
 
-(4)[^11] Ha egy vállalkozás több ágazatban is folytat tevékenységet, és ezekre az (1)–(3) bekezdés szerinti eltérő maximális összegek vonatkoznak, a vállalkozás a támogatásokról olyan elkülönített nyilvántartást vezet, amely biztosítja az érintett tevékenységekre vonatkozó, (1)–(3) bekezdés szerinti felső határok betartását, és azt, hogy a teljes maximális összeg vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – ne haladja meg a 2 000 000 eurónak megfelelő forintösszeget.
+(4)[^17] Ha egy vállalkozás több ágazatban is folytat tevékenységet, és ezekre az (1)–(3) bekezdés szerinti eltérő maximális összegek vonatkoznak, a vállalkozás a támogatásokról olyan elkülönített nyilvántartást vezet, amely biztosítja az érintett tevékenységekre vonatkozó, (1)–(3) bekezdés szerinti felső határok betartását, és azt, hogy a teljes maximális összeg vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – ne haladja meg a 2 000 000 eurónak megfelelő forintösszeget.
 
-(5)[^12] Ha egy vállalkozás a (2) és (3) bekezdés szerinti ágazatokban tevékenykedik, a teljes maximális támogatási összeg vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget.
+(5)[^18] Ha egy vállalkozás a (2) és (3) bekezdés szerinti ágazatokban tevékenykedik, a teljes maximális támogatási összeg vállalkozásonként – a vállalkozás kapcsolt vállalkozásait is figyelembe véve – nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget.
 
-[^8]: A 37. § (1) bekezdése a 20/2022. (XII. 27.) MK rendelet 12. § e) pontja szerint módosított szöveg.
-[^9]: A 37. § (2) bekezdése a 20/2022. (XII. 27.) MK rendelet 12. § f) pontja szerint módosított szöveg.
-[^10]: A 37. § (3) bekezdése a 20/2022. (XII. 27.) MK rendelet 12. § g) pontja szerint módosított szöveg.
-[^11]: A 37. § (4) bekezdése a 20/2022. (XII. 27.) MK rendelet 12. § h) pontja szerint módosított szöveg.
-[^12]: A 37. § (5) bekezdése a 20/2022. (XII. 27.) MK rendelet 12. § i) pontja szerint módosított szöveg.
+[^14]: A 37. § (1) bekezdése a 20/2022. (XII. 27.) MK rendelet 12. § e) pontja szerint módosított szöveg.
+[^15]: A 37. § (2) bekezdése a 20/2022. (XII. 27.) MK rendelet 12. § f) pontja szerint módosított szöveg.
+[^16]: A 37. § (3) bekezdése a 20/2022. (XII. 27.) MK rendelet 12. § g) pontja szerint módosított szöveg.
+[^17]: A 37. § (4) bekezdése a 20/2022. (XII. 27.) MK rendelet 12. § h) pontja szerint módosított szöveg.
+[^18]: A 37. § (5) bekezdése a 20/2022. (XII. 27.) MK rendelet 12. § i) pontja szerint módosított szöveg.
