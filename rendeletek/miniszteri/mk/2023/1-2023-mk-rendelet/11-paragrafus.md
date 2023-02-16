@@ -1,0 +1,3 @@
+11. § (1) Ha a rendvédelmi alkalmazott elháríthatatlan ok miatt tartósan nem tud munkavégzésre rendelkezésre állni, illetve munkavégzési kötelezettségét teljesíteni, az ok megszűnéséig nem lehet a rendvédelmi alkalmazottat a Hszt. 289/T. § (4) bekezdése szerint állásából felfüggeszteni.
+
+(2) A Hszt. 289/T. § (4) bekezdése szerinti felfüggesztést haladéktalanul meg kell szüntetni, ha annak indokai megszűntek. Ha az állásból történő felfüggesztés határideje letelt, de a munkavégzés helyétől való távoltartás továbbra is szükséges, az eljárás befejezéséig az eljárás alá vont személy más munkakörben foglalkoztatható.

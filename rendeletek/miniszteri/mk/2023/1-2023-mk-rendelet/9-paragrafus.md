@@ -1,0 +1,1 @@
+9. § A munkáltatói jogkör gyakorlója gondoskodik arról, hogy a fegyelmi eljárás megindulásától annak jogerős befejezéséig a fegyelmi eljárásra vonatkozó adatok a személyügyi számítógépes nyilvántartó rendszerbe felvételre kerüljenek.

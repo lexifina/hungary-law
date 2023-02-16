@@ -1,0 +1,1 @@
+4. § A munkáltatói jogkör gyakorlója a fegyelmi eljárásban ellátja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 289/T. § (4)–(6) bekezdésében és az e rendeletben meghatározott feladatokat.

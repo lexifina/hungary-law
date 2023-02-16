@@ -1,0 +1,3 @@
+10. § (1) A fegyelmi eljárás lefolytatásával összefüggő összes költséget – a (2) bekezdés szerinti kivétellel – a polgári nemzetbiztonsági szolgálat viseli. A fegyelmi eljárás lefolytatásával összefüggő költségeket az előlegezi, akinek a személye miatt felmerült.
+
+(2) Ha a rendvédelmi alkalmazott fegyelmi felelősségét jogerősen megállapították, a rendvédelmi alkalmazott viseli az általa indítványozott eljárási cselekmények és az általa igénybe vett jogi képviselő költségeit. A munkáltatói jogkör gyakorlója méltányosságból mérsékelheti vagy elengedheti a rendvédelmi alkalmazottat terhelő, a fegyelmi eljárással összefüggő költségeket.
