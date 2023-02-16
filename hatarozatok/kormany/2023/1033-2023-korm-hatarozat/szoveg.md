@@ -1,0 +1,1 @@
+A Kormány a sportról szóló 2004. évi I. törvény 62. § (1) bekezdése alapján – megismerve és tudomásul véve a Nemzet Sportolóinak javaslatát – Vaskuti István kenus részére a Nemzet Sportolója címet és az azzal járó életjáradékot adományozza.
