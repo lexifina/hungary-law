@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-155-20-
 | 2015-06-06 | 2009-155-20-82.6 | 29/2015. (VI. 5.) FM rendelet |
 | 2017-08-18 | 2009-155-20-82.7 | 29/2015. (VI. 5.) FM rendelet |
 | 2020-12-21 | 2009-155-20-82.8 | 63/2020. (XII. 16.) AM rendelet |
+| 2023-02-16 | 2009-155-20-82.9 | 29/2015. (VI. 5.) FM rendelet |

@@ -1,9 +1,6 @@
-## 4. §[^7]
-
 5. § (1)[^8] Ha a kérelem, a megkeresés és a díj megfizetését igazoló okiratok alapján megállapítható, hogy a kérelmező, illetve a megkereső szerv a jogszerű mértéket meghaladó összegű díjat fizetett, a többletet vissza kell téríteni. A visszatérítést hivatalból a többletbefizetés megállapítását követő 8 napon belül, amennyiben pedig a többletfizetést a kérelmező, illetve a megkereső szerv jelzi az eljáró hatóságnak, a visszatérítésre vonatkozó kérelem beérkezését követő 8 napon belül kell elrendelni, és a visszatérítés teljesítése iránt a visszatérítés elrendelését követő 30 napon belül intézkedni kell.
 
 (2)[^9] Ha a megfizetett díj – részleges vagy teljes – visszatérítése válik szükségessé, az eljáró hatóság a vonatkozó bizonylatot megküldi a kérelmezőnek, illetve a megkereső szervnek, ezzel egyidejűleg – határidő megjelölésével – felhívja annak a bankszámlaszámnak a megadására, amelyre a visszatérítést a kérelmező, illetve a megkereső szerv kéri. Ha a megjelölt határidőn belül a kérelmező, illetve a megkereső szerv nem ad meg bankszámlaszámot, a visszatérítés készpénz-átutalással postai úton történik, az adatszolgáltatás iránti kérelemben, illetve megkeresésben megjelölt címadat alapulvételével.
 
-[^7]: A 4. §-t a 63/2020. (XII. 16.) AM rendelet 2. § 2. pontja hatályon kívül helyezte.
 [^8]: Az 5. § (1) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (38) bekezdése, a 29/2015. (VI. 5.) FM rendelet 6. § (3) bekezdés e) pontja, a 63/2020. (XII. 16.) AM rendelet 1. § 2. pontja szerint módosított szöveg.
 [^9]: Az 5. § (2) bekezdése a 29/2015. (VI. 5.) FM rendelet 6. § (3) bekezdés c) pontja, a 63/2020. (XII. 16.) AM rendelet 1. § 3. pontja szerint módosított szöveg.
