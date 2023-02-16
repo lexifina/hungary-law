@@ -1,0 +1,3 @@
+2. § A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet a következő 15/E. §-sal egészül ki:
+
+„15/E. § A Nemzetközi Bűnügyi Együttműködési Központból a Bűnügyi Ellátó Igazgatóság elnevezésű szervezeti elem – a közfeladatok hatékony ellátása érdekében – kiválik. A kiválással érintett szervezeti elem a Készenléti Rendőrségbe a Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet módosításáról szóló 37/2023. (II. 15.) Korm. rendelet hatálybalépésének napjával beolvad. A Bűnügyi Ellátó Igazgatóság által ellátott feladatok tekintetében a Nemzetközi Bűnügyi Együttműködési Központ jogutódja a Készenléti Rendőrség.”
