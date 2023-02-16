@@ -1,5 +1,3 @@
-## kell érteni.
-
 ## 2. A fegyelemsértés megalapozott gyanúja
 
 2. § (1) A hivatásos állomány tagja tekintetében elöljárói vagy egyéb vezetői, irányítói viszonyban állók, ha a fegyelmi jogkör gyakorlására nem jogosultak, kötelesek a fegyelmi jogkör gyakorlóját haladéktalanul tájékoztatni a fegyelmi vétségre utaló tényről, adatról.
