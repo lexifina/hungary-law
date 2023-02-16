@@ -446,53 +446,41 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 6. | beosztott vezető | osztályvezető 1 | osztályvezető | 150-350 |  |
 
-| 7. | osztályvezető (BEI) | 250-450 |  |
+| 7. |  |  |  |
 
 4.2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
-| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | E | alosztályvezető | 400 425* 550** 700*** | 350 |
+| 3. | E | alosztályvezető | 400 | 350 |
 
-| 4. | osztályvezető-helyettes | 400 425* 550** 700*** | 350 |
+| 4. |  | osztályvezető-helyettes | 400 | 350 |
 
-| 5. | D | kiemelt főelőadó | 400 425* 550** 700*** | 350 |
+| 5. | D | kiemelt főelőadó | 400 | 350 |
 
-| 6. | kiemelt főnyomozó | 400 425* 550** 700*** 850**** |  |
+| 6. |  | kiemelt főnyomozó | 400 |  |
 
 | 7. | C | főelőadó | 400 | 350 |
 
-| 8. | főnyomozó | 400 425* 550** 700*** 850**** |  |
+| 8. |  | főnyomozó | 400 |  |
 
 4.3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
-| 1. | besorolási kategória | szolgálati beosztás | hivatásos pótlék mértéke (%) |
+| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | D | nyomozó | 400 425* 550** 700*** 850**** |  |
+| 3. | D | nyomozó | 400 |  |
 
-| 4. | D | technikus | 400 425* 550** 700*** 850**** |  |
+| 4. | C | segédelőadó | 350 | 350 |
 
-| 5. |  | referens | 400 550** 700*** | 350 |
-
-| 6. | C | segédelőadó | 350 | 350 |
-
-4.4. Megjegyzés:
-
-4.4.1. 425*: A titkos információgyűjtésre feljogosított bűnüldöző szervek részére háttértámogató és ellátó alapfeladatot végző állománya esetében a hivatásos pótlék mértéke 425%.
-
-4.4.2. 550**: Tényleges műveleti támogató feladatot közvetlenül ellátó állomány esetében a hivatásos pótlék mértéke 550%.
-
-4.4.3. 700***: Speciális műveleti feladatot ténylegesen ellátó állomány esetében a hivatásos pótlék mértéke 700%.
-
-4.4.4. 850****: A kilétét, rendőri jelleget tartósan leplező, speciális műveleti feladatot ténylegesen ellátó állomány esetében a hivatásos pótlék mértéke 850%.
+4.4.
 
 5. Rendőrségi Oktatási és Kiképző Központ
 
@@ -640,9 +628,9 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | E | osztályvezető-helyettes | 400** 450 | 350 |
+| 3. | E | osztályvezető-helyettes | 400** 425* 450 550** 700*** | 350 |
 
-| 4. | alosztályvezető | 400** 450 475*** 550** 575** 850****** | 350 |
+| 4. | alosztályvezető | 400** 425* 450 475*** 550** 575** 700*** 850****** | 350 |
 
 | 5. | századparancsnok | 450 |  |
 
@@ -662,11 +650,11 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 13. | csoportvezető | 450 475*** 550** 575** 850****** | 350 |
 
-| 14. | kiemelt főelőadó | 400** 450 475*** 550** 575** 650***** 850****** | 350 |
+| 14. | kiemelt főelőadó | 400** 425* 450 475*** 550** 575** 650***** 700*** 850****** | 350 |
 
 | 15. | kiemelt főellenőr******* | 450 | 350 |
 
-| 16. | kiemelt főnyomozó | 450 475*** 650***** |  |
+| 16. | kiemelt főnyomozó | 425* 450 475*** 550** 650***** 700*** 850****** |  |
 
 | 17. | (D) | kiemelt főtechnikus | 450 | 350 |
 
@@ -688,7 +676,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 26. | főmérnök | 450 | 350 |
 
-| 27. | C | főnyomozó | 450 475*** 650***** |  |
+| 27. | C | főnyomozó | 425* 450 475*** 550** 650***** 700*** 850****** |  |
 
 | 28. | B | mérnök | 450 | 350 |
 
@@ -726,15 +714,15 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 9. | fedélzeti szolgálattevő (helikopter hajózó) | 550**** |  |
 
-| 10. | referens | 450 | 350 |
+| 10. | referens | 450 550** 700*** | 350 |
 
 | 11. | raktárvezető | 400** 450 | 350 |
 
 | 12. | PSZH parancsnok | 450 |  |
 
-| 13. | technikus | 400** 450 | 350 |
+| 13. | technikus | 400** 425* 450 550** 700*** 850****** | 350 |
 
-| 14. | nyomozó | 450 475*** |  |
+| 14. | nyomozó | 425* 450 475*** 550** 700*** 850****** |  |
 
 | 15. | tűzszerész | 850 |  |
 
@@ -782,7 +770,7 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 | 37. | A | járőrtárs | 350* |  |
 
-| 6.4. Megjegyzés: 6.4.1. 350*: Az önálló intézkedésre nem jogosult rész-szakképesítéssel rendelkező állomány esetében a hivatásos pótlék mértéke 350%. 6.4.2. 400**: A Személy- és Objektumvédelmi Igazgatóság Objektumvédelmi Főosztály alapfeladatokat ellátó állomány esetében a hivatásos pótlék mértéke 400%. 6.4.3. 475***: A Rendészeti Igazgatóság, valamint a határrendészeti igazgatóságok bevetési főosztályainak támogató alegységeinél támogató szolgálati feladatot teljesítő állomány, a Személy- és Objektumvédelmi Igazgatóság Különleges Védelmi Osztály Tanúvédelmi Szolgálat állománya, a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati állat kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány, a Különleges Szolgálatok Igazgatósága Bevetési Főosztály III. Bevetést Támogató Osztály beosztotti állomány esetében a hivatásos pótlék mértéke 475%. 6.4.4. 550**: A gondozásból adódó többletteher ellentételezése érdekében a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 550%. 6.4.5. 550****: A Különleges Szolgálatok Igazgatósága Légirendészeti Szolgálat fedélzeti szolgálattevő (helikopter hajózó) beosztások esetében a hivatásos pótlék mértéke 550%. 6.4.6. 575** A gondozásból adódó többletteher ellentételezése érdekében a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy több kutya gondozása esetén a hivatásos pótlék mértéke 575%. 6.4.7. 650*****: A Nemzeti Nyomozó Iroda Kiberbűnözés Elleni Főosztály esetében a hivatásos pótlék mértéke 650%. 6.4.8. 850******: A KR Személy- és Objektumvédelmi Igazgatóság Személybiztosítási Főosztály Kiemelt Személybiztosítási Osztályának (a volt köztársasági elnök utóbiztosítását ellátó) állománya és a Tűzszerész Szolgálat beosztotti állománya esetében a hivatásos pótlék mértéke 850%. 6.4.9. *******: A kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették. |
+| 6.4. Megjegyzés: 6.4.1. 350*: Az önálló intézkedésre nem jogosult rész-szakképesítéssel rendelkező állomány esetében a hivatásos pótlék mértéke 350%. 6.4.2. 400**: A Személy- és Objektumvédelmi Igazgatóság Objektumvédelmi Főosztály alapfeladatokat ellátó állománya esetében a hivatásos pótlék mértéke 400%. 6.4.3. 425*: A titkos információgyűjtésre feljogosított bűnüldöző szervek részére háttértámogató és ellátó alapfeladatot végző állomány esetében a hivatásos pótlék mértéke 425%. 6.4.4. 475***: A Rendészeti Igazgatóság támogató alegységeinél támogató szolgálati feladatot teljesítő állomány, a Nemzeti Nyomozó Iroda Műveleti Szolgálat Műveleti Főosztály állománya, a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati állat kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány, a Különleges Szolgálatok Igazgatósága Bevetési Főosztály III. Bevetést Támogató Osztály beosztotti állománya esetében a hivatásos pótlék mértéke 475%. 6.4.5. 550**: A tényleges műveleti támogató feladatot közvetlenül ellátó állomány esetében, valamint a gondozásból adódó többletteher ellentételezése érdekében a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében egy kutya gondozása esetén a hivatásos pótlék mértéke 550%. 6.4.6. 550****: A Különleges Szolgálatok Igazgatósága Légirendészeti Szolgálat fedélzeti szolgálattevő (helikopter hajózó) beosztások esetében a hivatásos pótlék mértéke 550%. 6.4.7. 575**: A gondozásból adódó többletteher ellentételezése érdekében a Lovas és Kutyás Szolgálati Osztály állományában, a szolgálati kutya kiképzésében részt vevő, azzal folyamatosan foglalkozó, arról gondoskodó, valamint azzal szolgálati tevékenységet ellátó állomány esetében két vagy több kutya gondozása esetén a hivatásos pótlék mértéke 575%. 6.4.8. 650*****: A Nemzeti Nyomozó Iroda Bűnügyi Szolgálat Kiberbűnözés Elleni Főosztály esetében a hivatásos pótlék mértéke 650%. 6.4.9. 700***: Speciális műveleti feladatot ténylegesen ellátó állomány esetében a hivatásos pótlék mértéke 700%. 6.4.10. 850******: A KR Személy- és Objektumvédelmi Igazgatóság Személybiztosítási Főosztály Kiemelt Személybiztosítási Osztályának (a volt köztársasági elnök utóbiztosítását ellátó) állománya és a Tűzszerész Szolgálat beosztotti állománya esetében, valamint a kilétét, rendőri jelleget tartósan leplező, speciális műveleti feladatot ténylegesen ellátó állomány esetében a hivatásos pótlék mértéke 850%. 6.4.11. *******: A kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették. |
 
 7. Budapesti Rendőr-főkapitányság
 
@@ -1172,4 +1160,4 @@ Az általános rendőrségi feladatok ellátására létrehozott szerv szolgála
 
 9.2.5. kiemelt határrendészeti kirendeltségek: a Szegedi, a Kiszombori, a Nagylaki, a Kelebiai, a Hercegszántói, a Bácsbokodi, a Bácsalmási, a Záhonyi Határrendészeti Kirendeltség.
 
-[^31]: A 2. melléklet a 2/2023. (I. 30.) BM rendelet 19. § a) pontjával megállapított szöveg.
+[^31]: A 2. melléklet a 2/2023. (I. 30.) BM rendelet 19. § a) pontjával megállapított, az 5/2023. (II. 15.) BM rendelet 2. §-a szerint módosított szöveg.
