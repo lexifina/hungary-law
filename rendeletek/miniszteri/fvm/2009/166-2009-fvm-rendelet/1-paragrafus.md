@@ -1,4 +1,4 @@
-1. § (1)[^1] A telekalakítás engedélyezésére irányuló első fokú eljárás során
+1. § (1)[^2] A telekalakítás engedélyezésére irányuló első fokú eljárás során
 
 a) 2–5 érintett ingatlan esetén ingatlanonként: 12 000 Ft,
 
@@ -8,9 +8,9 @@ c) 16–25 érintett ingatlan esetén: 160 000 Ft, valamit a tizenhatodik ingatl
 
 d) 26, illetve több érintett ingatlan esetén: 170 000 Ft, valamit a huszonhatodik ingatlantól ingatlanonként további 500 Ft
 
-## összegű igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni.
+összegű igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetni.
 
-(1a)[^2] A díj a telekalakítási dokumentáció záradékolásának díját nem tartalmazza.
+(1a)[^3] A díj a telekalakítási dokumentáció záradékolásának díját nem tartalmazza.
 
 (2) Az engedélyezési eljárásban érintett ingatlanként:
 
@@ -20,10 +20,10 @@ b) telekfelosztás, telekcsoport újraosztása esetén a kialakuló földrészle
 
 kell figyelembe venni.
 
-(2a)[^3]
+(2a)[^4]
 
 (3) A telekalakítási engedélyezési eljárásban hozott döntés ellen benyújtott fellebbezés díja 30 000 forint.
 
-[^1]: Az 1. § (1) bekezdése a 16/2014. (III. 7.) VM rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (1a) bekezdését a 16/2014. (III. 7.) VM rendelet 2. § (1) bekezdése iktatta be.
-[^3]: Az 1. § (2a) bekezdését a 16/2014. (III. 7.) VM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 46/2017. (IX. 20.) FM rendelet.
+[^2]: Az 1. § (1) bekezdése a 16/2014. (III. 7.) VM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (1a) bekezdését a 16/2014. (III. 7.) VM rendelet 2. § (1) bekezdése iktatta be.
+[^4]: Az 1. § (2a) bekezdését a 16/2014. (III. 7.) VM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 46/2017. (IX. 20.) FM rendelet.
