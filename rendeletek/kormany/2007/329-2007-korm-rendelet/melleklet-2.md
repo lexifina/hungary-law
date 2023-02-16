@@ -1,3 +1,3 @@
-2. melléklet a 329/2007 (XII. 13.) Korm. rendelethez[^212]
+2. melléklet a 329/2007 (XII. 13.) Korm. rendelethez[^198]
 
-[^212]: A 2. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^198]: A 2. melléklet a 148/2010. (IV. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

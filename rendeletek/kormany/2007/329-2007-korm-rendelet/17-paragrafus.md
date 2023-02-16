@@ -1,4 +1,4 @@
-17. §[^184] (1) Ez a rendelet
+17. §[^170] (1) Ez a rendelet
 
 a) a pirotechnikai termékek nyomonkövetési rendszerének a 2007/23/EK európai parlamenti és tanácsi irányelv alapján történő létrehozásáról szóló, 2014. április 16-i 58/2014/EU bizottsági rendelet,
 
@@ -34,4 +34,4 @@ f) a SIRENE Kézikönyvről és a Schengeni Információs Rendszer második gene
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^184]: A 17. §-t a 100/2015. (IV. 20.) Korm. rendelet 31. §-a iktatta be, szövege a 276/2021. (V. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^170]: A 17. §-t a 100/2015. (IV. 20.) Korm. rendelet 31. §-a iktatta be, szövege a 276/2021. (V. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
