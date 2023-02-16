@@ -34,4 +34,6 @@ h) olyan feltétellel, amely az európai uniós jog megsértését eredményezi.
 
 (8) A több részletben kifizetett támogatást a támogatási döntés időpontja szerinti értékre kell diszkontálni a diszkont kamatláb alkalmazásával.
 
-(9) E rendelet alapján a 4. § szerinti támogatások esetén 2021. június 30-ig lehet támogatási döntést hozni.
+(9)[^5] E rendelet alapján a 4. § szerinti támogatások esetén 2024. június 30-ig lehet támogatási döntést hozni.
+
+[^5]: Az 5. § (9) bekezdése az 1/2023. (II. 15.) TNM rendelet 5. § (1) bekezdése szerint módosított szöveg.
