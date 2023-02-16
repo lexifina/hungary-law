@@ -106,7 +106,7 @@ B) Rendvédelmi szervek
 
 1.3.1. az igazgatói, a főosztályvezetői és az azzal azonos jogállású munkakör, valamint a helyettesítésükkel megbízott vezetői munkakör
 
-1.3.2.[^38] a Személy- és Objektumvédelmi Igazgatóságon a Személyvédelmi Főosztály, a Személybiztosítási Főosztály, a Karmelita Őrségi Osztály, a Sándor-palota Őrségi Osztály, a Különleges Védelmi Osztály, az Objektumvédelmi Főosztály I. Őrségi Osztály, Külgazdasági és Külügyminisztérium Őrségi Alosztály, az Objektumvédelmi Főosztály III. Őrségi Osztály Információs Hivatal Őrségi Alosztály valamennyi munkaköre, valamint az Objektumvédelmi Főosztály Technikai Ellenőrző és Koordinációs Osztályának a biztonsági területtel rendelkező védett létesítményben szolgálati feladatot ellátó munkaköre
+1.3.2.[^38] a Személy- és Objektumvédelmi Igazgatóságon a Személyvédelmi Főosztály, a Személybiztosítási Főosztály, a Karmelita Őrségi Osztály, a Sándor-palota Őrségi Osztály, az Objektumvédelmi Főosztály I. Őrségi Osztály, Külgazdasági és Külügyminisztérium Őrségi Alosztály, az Objektumvédelmi Főosztály III. Őrségi Osztály Információs Hivatal Őrségi Alosztály valamennyi munkaköre, valamint az Objektumvédelmi Főosztály Technikai Ellenőrző és Koordinációs Osztályának a biztonsági területtel rendelkező védett létesítményben szolgálati feladatot ellátó munkaköre
 
 1.3.3. a Különleges Szolgálatok Igazgatóságán a Bevetési Főosztály III. Bevetést Támogató Osztály valamennyi munkaköre
 
@@ -378,7 +378,7 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 [^35]: Az 1. melléklet A) rész 1.30. pontját a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
 [^36]: Az 1. melléklet A) rész 1.31. pontját a 36/2022. (X. 19.) BM rendelet 3. §-a iktatta be.
 [^37]: Az 1. melléklet B) rész 1. pontja a 20/2021. (VII. 14.) BM rendelet 16. §-ával megállapított szöveg.
-[^38]: Az 1. melléklet B) rész 1.3.2. pontja a 36/2022. (X. 19.) BM rendelet 3. §-ával megállapított szöveg.
+[^38]: Az 1. melléklet B) rész 1.3.2. pontja a 36/2022. (X. 19.) BM rendelet 3. §-ával megállapított, az 5/2023. (II. 15.) BM rendelet 1. §-a szerint módosított szöveg.
 [^39]: Az 1. melléklet B) rész 1.3.5. pontját a 36/2022. (X. 19.) BM rendelet 3. §-a hatályon kívül helyezte.
 [^40]: Az 1. melléklet B) rész 1.8. pontja a 36/2022. (X. 19.) BM rendelet 3. §-ával megállapított szöveg.
 [^41]: Az 1. melléklet B) pont 1.8.1. pontja az 51/2022. (XII. 27.) BM rendelet 3. § a) pontja szerint módosított szöveg.
