@@ -1,3 +1,3 @@
-2. § A Rendelet 56. § (1) bekezdése a következő j) ponttal egészül ki:
+2. §[^3]
 
-(Az 1. mellékletben foglalt táblázat)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
