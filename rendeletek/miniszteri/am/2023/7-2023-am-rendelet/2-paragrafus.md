@@ -1,1 +1,3 @@
-2. § Hatályát veszti a 155/2009. (XI. 16.) FVM rendelet 6. § (2) bekezdésében a „megyei” szövegrész.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
