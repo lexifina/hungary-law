@@ -1,3 +1,5 @@
-1. Hatályát veszti a Tokaj-Zemplén térség fejlesztéséért felelős kormánybiztos kinevezéséről és feladatairól szóló 1278/2022. (V. 27.) Korm. határozat.
+1.[^2]
 
 2. Ez a határozat a közzététele napján 23 órakor lép hatályba.
+
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
