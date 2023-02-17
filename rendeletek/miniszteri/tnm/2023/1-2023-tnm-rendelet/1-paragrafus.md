@@ -1,3 +1,3 @@
-1. § A nemzetiségi és egyházi célú fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 2/2019. (III. 19.) TNM rendelet (a továbbiakban: R.) 1. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„1. § E rendelet hatálya a központi költségvetés XI. Miniszterelnökség fejezetébe sorolt azon fejezeti kezelésű előirányzatokra (a továbbiakban: előirányzat) terjed ki, amelyek esetében az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 1. melléklet I. pont 10. alpont a) pontja alapján a fejezetet irányító szerv vezetője a Kormánynak a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 48. § (1) bekezdése szerinti tagja (a továbbiakban: miniszter).”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

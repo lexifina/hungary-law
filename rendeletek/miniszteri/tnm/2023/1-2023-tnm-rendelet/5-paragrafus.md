@@ -1,3 +1,3 @@
-5. § (1) Az R. 5. § (9) bekezdésében a „2021. június 30-ig” szövegrész helyébe a „2024. június 30-ig” szöveg lép.
+5. §[^6]
 
-(2) Az R. 1. mellékletének címében a „2022.” szövegrész helyébe a „2023.” szöveg lép.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
