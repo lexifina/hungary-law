@@ -146,9 +146,11 @@
 
 ## g)[^32] egyes Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Programhoz tartozó projektek támogatása növelésének jóváhagyásáról és a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1847/2021. (XI. 30.) Korm. határozattal módosított, 2. mellékletben foglalt táblázat 59. sora szerinti kiemelt projekt
 
+## h) [^33] a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program módosításáról, valamint a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program éves fejlesztési keretének megállapításáról szóló 1004/2016. (I. 18.) Korm. határozat módosításáról szóló 1035/2023. (II. 16.) Korm. határozattal módosított, 2. mellékletben foglalt táblázat 50–55. sora szerinti kiemelt projekt
+
 ## szakpolitikai felelős által javasolt műszaki-szakmai tartalmának bővítéséhez kapcsolódó, azzal arányos keretemelése és annak végrehajtása során a Kormányrendelet 3–6. §-ában foglalt eljárási szabályok ne kerüljenek alkalmazásra.
 
-## 1/B.[^33] A Kormány
+## 1/B.[^34] A Kormány
 
 ## a) egyetért a KÖFOP módosításának indokoltságával, és felhatalmazza a Miniszterelnökséget vezető minisztert, hogy az irányító hatósággal együttműködve kezdje meg a KÖFOP módosításával kapcsolatos tárgyalást az Európai Bizottsággal, és felhívja a Miniszterelnökséget vezető minisztert, hogy tájékoztassa a Kormányt az Európai Bizottsággal folytatott tárgyalás eredményeképpen létrejött KÖFOP módosítás végleges javaslatáról,
 
@@ -156,7 +158,7 @@
 
 ## Határidő: 2020. szeptember 30.
 
-## b)[^34] felhívja Miniszterelnöki Kabinetirodát vezető minisztert, hogy az irányító hatóság útján gondoskodjon a KÖFOP-ban átcsoportosítani tervezett költségkeretek mértékének megfelelő kötelezettségek vállalásáról.
+## b)[^35] felhívja Miniszterelnöki Kabinetirodát vezető minisztert, hogy az irányító hatóság útján gondoskodjon a KÖFOP-ban átcsoportosítani tervezett költségkeretek mértékének megfelelő kötelezettségek vállalásáról.
 
 ## Felelős: Miniszterelnöki Kabinetirodát vezető miniszter
 
@@ -164,11 +166,11 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^35]
+## 3.[^36]
 
-1. melléklet az 1004/2016. (I. 18.) Korm. határozathoz[^36]
+1. melléklet az 1004/2016. (I. 18.) Korm. határozathoz[^37]
 
-## A KÖFOP éves fejlesztési kerete
+A KÖFOP éves fejlesztési kerete
 
 1. Az adminisztratív terhek csökkentéséről szóló 1. prioritás
 
@@ -312,19 +314,19 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | KÖFOP-3.1.1-16 | Partnerek és a lakosság bevonása az operatív programok megvalósításába | 8,074 | kiemelt | Meghirdetve: 2016. június |
+| 2. | KÖFOP-3.1.1-16 | Partnerek és a lakosság bevonása az operatív programok megvalósításába | 8,070 | kiemelt | Meghirdetve: 2016. június |
 
-| 3. | KÖFOP-3.2.1-16 | Az Audit Hatóság által végzett ellenőrzések színvonalának fenntartása | 10,635 | kiemelt | Meghirdetve: 2016. március |
+| 3. | KÖFOP-3.2.1-16 | Az Audit Hatóság által végzett ellenőrzések színvonalának fenntartása | 11,779 | kiemelt | Meghirdetve: 2016. március |
 
-| 4. | KÖFOP-3.2.2-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése az Emberi Erőforrás Fejlesztési Operatív Program végrehajtásánál | 2,623 | kiemelt | Meghirdetve: 2016. február |
+| 4. | KÖFOP-3.2.2-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése az Emberi Erőforrás Fejlesztési Operatív Program végrehajtásánál | 11,178 | kiemelt | Meghirdetve: 2016. február |
 
-| 5. | KÖFOP-3.2.3-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a Környezeti és Energiahatékonysági Operatív Program, valamint az Integrált Közlekedésfejlesztési Operatív Program végrehajtásánál | 2,023 | kiemelt | Meghirdetve: 2016. február |
+| 5. | KÖFOP-3.2.3-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a Környezeti és Energiahatékonysági Operatív Program, valamint az Integrált Közlekedésfejlesztési Operatív Program végrehajtásánál | 8,607 | kiemelt | Meghirdetve: 2016. február |
 
-| 6. | KÖFOP-3.2.4-15 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a Gazdaságfejlesztési és Innovációs Operatív Program, a Terület- és Településfejlesztési Operatív Program, valamint a Versenyképes Közép-Magyarország Operatív Program végrehajtásánál, továbbá az igazoló hatósági feladatok ellátásánál | 9,054 | kiemelt | Meghirdetve: 2016. február |
+| 6. | KÖFOP-3.2.4-15 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a Gazdaságfejlesztési és Innovációs Operatív Program, a Terület- és Településfejlesztési Operatív Program, valamint a Versenyképes Közép-Magyarország Operatív Program végrehajtásánál, továbbá az igazoló hatósági feladatok ellátásánál | 24,524 | kiemelt | Meghirdetve: 2016. február |
 
-| 7. | KÖFOP-3.2.5-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program végrehajtásánál | 0,454 | kiemelt | Meghirdetve: 2016. március |
+| 7. | KÖFOP-3.2.5-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program végrehajtásánál | 1,336 | kiemelt | Meghirdetve: 2016. március |
 
-| 8. | KÖFOP-3.2.6-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a központi koordinációs feladatok ellátásánál | 2,489 | kiemelt | Meghirdetve: 2016. március |
+| 8. | KÖFOP-3.2.6-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a központi koordinációs feladatok ellátásánál | 7,027 | kiemelt | Meghirdetve: 2016. március |
 
 | 9. | KÖFOP-3.2.7-15 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése a Miniszterelnökség közbeszerzés szabályossági ellenőrzési feladatainak ellátásánál | 4,826 | kiemelt | Meghirdetve: 2015. december |
 
@@ -332,13 +334,13 @@
 
 | 11. | KÖFOP-3.2.9-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése az operatív programokat végrehajtók informatikai és infokommunikációs ellátásánál | 2,00 | kiemelt | Meghirdetve: 2016. március |
 
-| 12. | KÖFOP-3.2.10-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése az operatív programok végrehajtása során keletkezett dokumentumok digitalizálásánál és irattárazásánál | 2,080 | kiemelt | Meghirdetve: 2016. február |
+| 12. | KÖFOP-3.2.10-16 | A támogatáskezelés menedzsment feltételeinek biztosítása, színvonalának megőrzése az operatív programok végrehajtása során keletkezett dokumentumok digitalizálásánál és irattárazásánál | 2,045 | kiemelt | Meghirdetve: 2016. február |
 
-| 13. | KÖFOP-3.3.1-16 | A közösségi előírásnak megfelelő értékelések megvalósítása, valamint az eredményes és hatékony végrehajtáshoz szükséges kompetencia biztosítása | 2,605 | kiemelt | Meghirdetve: 2016. február |
+| 13. | KÖFOP-3.3.1-16 | A közösségi előírásnak megfelelő értékelések megvalósítása, valamint az eredményes és hatékony végrehajtáshoz szükséges kompetencia biztosítása | 2,619 | kiemelt | Meghirdetve: 2016. február |
 
-| 14. | KÖFOP-3.3.2-16 | Az e-kohéziós irányelv átültetése | 10,068 | kiemelt | Meghirdetve: 2016. február |
+| 14. | KÖFOP-3.3.2-16 | Az e-kohéziós irányelv átültetése | 10,066 | kiemelt | Meghirdetve: 2016. február |
 
-| 15. | KÖFOP-3.3.3-15 | A pályázók és kedvezményezettek kapacitásainak támogatása | 11,272 | kiemelt | Meghirdetve: 2015. december |
+| 15. | KÖFOP-3.3.3-15 | A pályázók és kedvezményezettek kapacitásainak támogatása | 11,223 | kiemelt | Meghirdetve: 2015. december |
 
 [^1]: Az 1. pont c) alpontját az 1056/2018. (II. 21.) Korm. határozat 5. pontja hatályon kívül helyezte.
 [^2]: Az 1. pont d) alpontját az 1369/2016. (VII. 13.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
@@ -372,7 +374,8 @@
 [^30]: Az 1/A. pont e) alpontját az 1134/2021. (III. 23.) Korm. határozat 4. pontja iktatta be.
 [^31]: Az 1/A. pont f) alpontját az 1647/2021. (IX. 21.) Korm. határozat 3. pontja iktatta be.
 [^32]: Az 1/A. pont g) alpontját az 1847/2021. (XI. 30.) Korm. határozat 3. pontja iktatta be.
-[^33]: Az 1/B. pontot az 1477/2020. (VIII. 7.) Korm. határozat 2. pontja iktatta be.
-[^34]: Az 1/B. pont b) alpontja az 1359/2022. (VII. 21.) Korm. határozat 1. pont 1.2. alpontja szerint módosított szöveg.
-[^35]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^36]: Az 1. melléklet az 1200/2016. (IV. 15.) Korm. határozat 3. és 5. pontja, az 1369/2016. (VII. 13.) Korm. határozat 2. pont a) alpontja és 3. pont 3.2–3.4. alpontja, az 1585/2016. (X. 25.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3–5.5. alpontja, az 1740/2016. (XII. 13.) Korm. határozat 1. pont a) alpontja, az 1117/2017. (III. 13.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1287/2017. (VI. 2.) Korm. határozat 3. pont a) alpontja és 4. pont 4.3–4.5. alpontja, az 1592/2017. (VIII. 28.) Korm. határozat 3. pont a) alpontja, az 1936/2017. (XII. 8.) Korm. határozat 4. pont a)–b) alpontja, az 1056/2018. (II. 21.) Korm. határozat 3. pont a) alpontja és a 4. pont b)–c) alpontja, az 1340/2018. (VII. 25.) Korm. határozat 1. pont 1.1. és 1.2. alpontja, az 1591/2018. (XI. 22.) Korm. határozat 3. pont a) alpontja és 4. pont 4.2–4.3. alpontja, az 1787/2018. (XII. 21.) Korm. határozat 4. pont a) alpontja, az 1584/2019. (X. 15.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.3. alpontja, az 1129/2020. (III. 25.) Korm. határozat 3. pont 3.1–3.2. alpontja, az 1477/2020. (VIII. 7.) Korm. határozat 3. pont a) alpontja és 4. pont 4.1–4.3. alpontja, az 1882/2020. (XII. 4.) Korm. határozat 5. pontja, a 2063/2020. (XII. 31.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1134/2021. (III. 23.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1647/2021. (IX. 21.) Korm. határozat 4. pont a) alpontja, 5. pontja, az 1847/2021. (XI. 30.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^33]: Az 1/A. pont h) alpontját az 1035/2023. (II. 16.) Korm. határozat 4. pontja iktatta be.
+[^34]: Az 1/B. pontot az 1477/2020. (VIII. 7.) Korm. határozat 2. pontja iktatta be.
+[^35]: Az 1/B. pont b) alpontja az 1359/2022. (VII. 21.) Korm. határozat 1. pont 1.2. alpontja szerint módosított szöveg.
+[^36]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: Az 1. melléklet az 1200/2016. (IV. 15.) Korm. határozat 3. és 5. pontja, az 1369/2016. (VII. 13.) Korm. határozat 2. pont a) alpontja és 3. pont 3.2–3.4. alpontja, az 1585/2016. (X. 25.) Korm. határozat 4. pont a) alpontja és 5. pont 5.3–5.5. alpontja, az 1740/2016. (XII. 13.) Korm. határozat 1. pont a) alpontja, az 1117/2017. (III. 13.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1287/2017. (VI. 2.) Korm. határozat 3. pont a) alpontja és 4. pont 4.3–4.5. alpontja, az 1592/2017. (VIII. 28.) Korm. határozat 3. pont a) alpontja, az 1936/2017. (XII. 8.) Korm. határozat 4. pont a)–b) alpontja, az 1056/2018. (II. 21.) Korm. határozat 3. pont a) alpontja és a 4. pont b)–c) alpontja, az 1340/2018. (VII. 25.) Korm. határozat 1. pont 1.1. és 1.2. alpontja, az 1591/2018. (XI. 22.) Korm. határozat 3. pont a) alpontja és 4. pont 4.2–4.3. alpontja, az 1787/2018. (XII. 21.) Korm. határozat 4. pont a) alpontja, az 1584/2019. (X. 15.) Korm. határozat 2. pont a) alpontja és 3. pont 3.1.–3.3. alpontja, az 1129/2020. (III. 25.) Korm. határozat 3. pont 3.1–3.2. alpontja, az 1477/2020. (VIII. 7.) Korm. határozat 3. pont a) alpontja és 4. pont 4.1–4.3. alpontja, az 1882/2020. (XII. 4.) Korm. határozat 5. pontja, a 2063/2020. (XII. 31.) Korm. határozat 2. pont a) alpontja és 3. pontja, az 1134/2021. (III. 23.) Korm. határozat 5. pont a) alpontja és 7. pontja, az 1647/2021. (IX. 21.) Korm. határozat 4. pont a) alpontja, 5. pontja, az 1847/2021. (XI. 30.) Korm. határozat 5. pontja, az 1035/2023. (II. 16.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
