@@ -1,1 +1,3 @@
-25. § Hatályát veszti az Információs Hivatal hivatásos állományú tagjai Fegyelmi Szabályzatáról, a méltatlanná válás és a szolgálatképes állapot megállapításának szabályairól, valamint a szolgálati nyugdíjasok egyenruha és rendfokozat viseléstől való eltiltásáról szóló 28/2016. (X. 19.) MvM rendelet 1/A. §-a, 27/A. §-a, 30/A. §-a és 22. alcíme.
+25. §[^2]
+
+[^2]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-24. § Hatályát veszti a rendvédelmi igazgatási alkalmazottal szemben lefolytatható fegyelmi eljárásról szóló 5/2019. (III. 11.) BM rendelet 1. §-ában az „és a belügyminiszter irányítása alatt álló polgári nemzetbiztonsági szolgálatokra” szövegrész.
+24. §[^1]
+
+[^1]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
