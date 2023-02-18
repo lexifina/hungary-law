@@ -1,1 +1,3 @@
-6. § Hatályát veszti a Magyarország Kormánya és a Délkelet-ázsiai Nemzetek Szövetsége közötti oktatási együttműködési megállapodás kihirdetéséről szóló 227/2017. (VIII. 14.) Korm. rendelet.
+6. §[^3]
+
+[^3]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
