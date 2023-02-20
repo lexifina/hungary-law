@@ -1,0 +1,1 @@
+A Kormány a helyközi autóbuszos személyszállítási közszolgáltatások és a vasúti személyszállítási közszolgáltatások – Pest vármegye esetében Budapest közigazgatási határáig – egységes igénybevételét biztosító helyközi ország- és vármegyebérlet 2023. május 1-jétől történő tervezett bevezetésével kapcsolatosan
