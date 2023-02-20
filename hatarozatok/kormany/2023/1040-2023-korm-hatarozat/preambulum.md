@@ -1,0 +1,1 @@
+A Kormány – figyelemmel a Török Köztársaságot és a Szíriai Arab Köztársaságot sújtó földrengés okozta katasztrófa és súlyos szerencsétlenség következményeinek elhárítása, enyhítése érdekében kialakult széles körű nemzetközi együttműködésre, valamint a Magyar Honvédség rendelkezésére álló és átadható készleteire –
