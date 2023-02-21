@@ -1,5 +1,3 @@
-## 7. § Az elhunyt hivatásos, szerződéses vagy nyugállományú katona árvája (a továbbiakban: árva) tanulmányi ösztöndíjra (a továbbiakban: árvák ösztöndíja) pályázatot nyújthat be az ezen alcímben meghatározottak szerint.
-
 8. § (1) Az árvák ösztöndíjára az az árva pályázhat (a továbbiakban: pályázó), aki
 
 a) a társadalombiztosítási nyugdíjrendszer keretében megállapított árvaellátásra (a továbbiakban: árvaellátás) jogosult,
