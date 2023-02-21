@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-103-20-
 | 2011-05-15 | 2003-103-20-0L.6 | 19/2011. (V. 10.) NFM rendelet |
 | 2017-01-03 | 2003-103-20-0L.7 | 1/2017. (I. 3.) NFM rendelet |
 | 2018-01-01 | 2003-103-20-0L.8 | 55/2017. (XII. 27.) NFM rendelet |
+| 2023-02-21 | 2003-103-20-0L.9 | 2/2023. (II. 20.) ÉKM rendelet |
