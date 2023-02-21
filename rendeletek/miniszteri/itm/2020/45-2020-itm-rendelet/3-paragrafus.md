@@ -14,9 +14,9 @@ jogosít az úthasználatra.
 
 (3) A (2) bekezdés a) és b) pontja tekintetében, amennyiben a jogosultság megváltása és a jogosultság időtartamának a vásárló által megjelölt kezdő napja ugyanarra a napra esik, a jogosultság a megváltás időpontjától gyakorolható. A (2) bekezdés c) pontja tekintetében az éves jogosultság évközi megváltása esetén a megváltás időpontjától biztosít úthasználati jogosultságot, a 16. § (1) bekezdésében foglaltak kivételével.
 
-(4) Az e rendelet szerinti díjkategóriába tartozó gépjárművek után egy vagy több megye díjköteles úthálózatára érvényes jogosultság (a továbbiakban: megyei jogosultság) váltható. A megyei jogosultság a tárgyév első napjától a tárgyévet követő év január 31. napján 24 óráig jogosít a díjköteles úthálózat használatára. A megyei jogosultság évközi vásárlása esetén a megváltás időpontjától biztosít úthasználati jogosultságot. Az egyes megyei jogosultságokkal használható gyorsforgalmi utak körét az 1. melléklet tartalmazza.
+(4)[^1] Az e rendelet szerinti díjkategóriába tartozó gépjárművek után egy vagy több vármegye díjköteles úthálózatára érvényes jogosultság (a továbbiakban: vármegyei jogosultság) váltható. A vármegyei jogosultság a tárgyév első napjától a tárgyévet követő év január 31. napján 24 óráig jogosít a díjköteles úthálózat használatára. A vármegyei jogosultság évközi vásárlása esetén a megváltás időpontjától biztosít úthasználati jogosultságot. Az egyes vármegyei jogosultságokkal használható gyorsforgalmi utak körét az 1. melléklet tartalmazza.
 
-(5) A Pest megye területére megváltott megyei jogosultsággal a főváros közigazgatási határán belüli díjköteles úthálózat is használható. Kizárólag a főváros területére megyei jogosultság nem váltható.
+(5)[^2] A Pest vármegye területére megváltott vármegyei jogosultsággal a főváros közigazgatási határán belüli díjköteles úthálózat is használható. Kizárólag a főváros területére vármegyei jogosultság nem váltható.
 
 (6) A jogosultságok
 
@@ -25,3 +25,6 @@ a) a NÚSZ Zrt. saját vagy
 b) a NÚSZ Zrt.-vel megállapodást kötő viszonteladók
 
 (a továbbiakban együtt: értékesítők) árusítóhelyein, valamint elektronikus értékesítési csatornáin keresztül vásárolhatók meg.
+
+[^1]: A 3. § (4) bekezdése a 2/2023. (II. 20.) ÉKM rendelet 13. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (5) bekezdése a 2/2023. (II. 20.) ÉKM rendelet 13. § b) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 |  | A | B | C | D | E |
 
-| 1. | Díjkategória | Heti | Havi | Éves | Megyei |
+| 1. | Díjkategória | Heti | Havi | Éves | Vármegyei |
 
 | 2. | D1 | 5 500 | 8 900 | 49 190 | 5 720 |
 

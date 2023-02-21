@@ -6,6 +6,6 @@
 
 (4) A 14. és 15. § a 2020. november 1-jét követő jogosulatlan úthasználat esetében alkalmazandó.
 
-(5)[^23] A 3. § (4) bekezdése alapján a 2022. évre, Jász-Nagykun-Szolnok Megye díjköteles úthálózatára megváltott megyei jogosultság árát a NÚSZ Zrt. – a vásárló kérelmére – 2022. december 31-ig ügyintézési díj felszámítása nélkül visszatéríti, vagy – a 7. § (4) bekezdésében meghatározott esetben, a vásárló választása szerint – a vásárlóval egyedi megállapodás alapján elszámol.
+(5)[^26] A 3. § (4) bekezdése alapján a 2022. évre, Jász-Nagykun-Szolnok Vármegye díjköteles úthálózatára megváltott vármegyei jogosultság árát a NÚSZ Zrt. – a vásárló kérelmére – 2022. december 31-ig ügyintézési díj felszámítása nélkül visszatéríti, vagy – a 7. § (4) bekezdésében meghatározott esetben, a vásárló választása szerint – a vásárlóval egyedi megállapodás alapján elszámol.
 
-[^23]: A 22. § (5) bekezdését a 6/2022. (II. 17.) ITM rendelet 1. § (1) bekezdése iktatta be.
+[^26]: A 22. § (5) bekezdését a 6/2022. (II. 17.) ITM rendelet 1. § (1) bekezdése iktatta be, szövege a 2/2023. (II. 20.) ÉKM rendelet 13. § d) pontja szerint módosított szöveg.

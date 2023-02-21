@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-45-20-7
 | 2022-02-18 | 2020-45-20-7Q.6 | 6/2022. (II. 17.) ITM rendelet |
 | 2022-10-15 | 2020-45-20-7Q.7 | 19/2022. (IX. 19.) TIM rendelet |
 | 2023-01-01 | 2020-45-20-7Q.8 | 19/2022. (IX. 19.) TIM rendelet |
+| 2023-02-21 | 2020-45-20-7Q.10 | 2/2023. (II. 20.) ÉKM rendelet |
