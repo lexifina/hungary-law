@@ -1,4 +1,4 @@
-1. melléklet az 5/2020. (II. 6.) ITM rendelethez[^14]
+1. melléklet az 5/2020. (II. 6.) ITM rendelethez[^15]
 
 Veszélyes anyagok a munkahelyi levegőben
 
@@ -756,4 +756,4 @@ Veszélyes anyagok a munkahelyi levegőben
 
 1.5.3. Nyolc órát meghaladó napi, vagy 40 órát meghaladó heti munkaidő-beosztás esetén a számításokban a korrigált ÁK-értékeket kell alkalmazni, ahol ez releváns.
 
-[^14]: Az 1. melléklet a 29/2022. (XII. 30.) GFM rendelet 3. § a) és 4, § c) pontja szerint módosított szöveg.
+[^15]: Az 1. melléklet a 29/2022. (XII. 30.) GFM rendelet 3. § a) pontja és 4. § c) pontja szerint módosított szöveg. [A 6/2020. (II. 7.) ITM rendelet 12. § a) pontjával elrendelt módosítás nem vezethető át.]

@@ -10,7 +10,10 @@ c)[^9] az arzén és szervetlen vegyületeire vonatkozóan (arzin kivételével,
 
 d)[^10] az egészségügyi ágazat, a temetkezés és balzsamozás területén a formaldehid expozícióra vonatkozóan a 7. mellékletben
 
+e)[^11] a dízelmotor-kipufogógáz expozícióra vonatkozóan – a földalatti bányászat és az alagútfúrás területét kivéve – az 1. mellékletben
+
 meghatározott határértékeket kell alkalmazni.
 
 [^9]: A 21. § c) pontját a 32/2021. (VII. 26.) ITM rendelet 19. §-a iktatta be.
 [^10]: A 21. § d) pontját a 32/2021. (VII. 26.) ITM rendelet 19. §-a iktatta be.
+[^11]: A 21. § e) pontját a 6/2020. (II. 7.) ITM rendelet 11. §-a iktatta be.

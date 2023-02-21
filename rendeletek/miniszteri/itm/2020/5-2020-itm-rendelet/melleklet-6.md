@@ -2,7 +2,7 @@
 
 A földalatti bányászat és az alagútfúrás terén a nitrogén-monoxid, a nitrogén-dioxid és a szén-monoxid expozíciója
 
-1.[^17] A földalatti bányászat és az alagútfúrás terén a nitrogén-monoxidra, a nitrogén-dioxidra és a szén-monoxidra vonatkozó határértékek
+1.[^18] A földalatti bányászat és az alagútfúrás terén a nitrogén-monoxidra, a nitrogén-dioxidra és a szén-monoxidra vonatkozó határértékek
 
 |  | A | B | C | D | E | F | G | H |
 
@@ -26,4 +26,4 @@ A földalatti bányászat és az alagútfúrás terén a nitrogén-monoxid, a ni
 
 | 4. | m | maró hatású anyag, amely felmarja a bőrt, nyálkahártyát, szemet vagy mindhármat |
 
-[^17]: A 6. melléklet 1. pontja a 29/2022. (XII. 30.) GFM rendelet 3. § c) pontjával megállapított szöveg.
+[^18]: A 6. melléklet 1. pontja a 29/2022. (XII. 30.) GFM rendelet 3. § c) pontjával megállapított szöveg.

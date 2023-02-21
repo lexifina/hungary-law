@@ -1,4 +1,4 @@
-2. melléklet az 5/2020. (II. 6.) ITM rendelethez[^15]
+2. melléklet az 5/2020. (II. 6.) ITM rendelethez[^16]
 
 Szálló- és rostszerkezetű porok koncentrációi mg/m3-ben
 
@@ -58,4 +58,4 @@ Szálló- és rostszerkezetű porok koncentrációi mg/m3-ben
 
 |  | 11. | Tűzálló kerámia rostok (Refrakter kerámia rostok – RCF) | 0,3 | k(1B) | EU6 | T |
 
-[^15]: A 2. melléklet a 6/2020. (II. 7.) ITM rendelet 12. § c) pontja, a 29/2022. (XII. 30.) GFM rendelet 3. § b) pontja szerint módosított szöveg.
+[^16]: A 2. melléklet a 6/2020. (II. 7.) ITM rendelet 12. § c) pontja szerint módosított szöveg.
