@@ -8,7 +8,7 @@ a) azonnali hatályú lemondással vagy
 
 b) fizikai alkalmatlanság megállapítása miatt
 
-## szűnik meg.
+szűnik meg.
 
 (3) Az (1) bekezdéstől eltérően időarányos visszatérítési kötelezettség terheli azt a pénzügyőrt, aki 2021. december 31. napján nem rendelkezett három év folyamatos szolgálati jogviszonnyal, és a három év folyamatos szolgálati jogviszony elérését megelőzően, kérelmére, tisztviselői munkakörbe kerül kinevezésre.
 
@@ -24,8 +24,12 @@ d) a hivatásos szolgálatot ellátó személy szolgálati jogviszonya, folytat�
 
 e) a Navtv., a Hszt. és a Hjt. szerinti egészségkárosodási ellátásra való jogosultságra figyelemmel
 
-## szűnik meg.
+szűnik meg.
 
 (5) A szolgálati juttatásra való jogosultság szempontjából a hivatásos szolgálatot ellátó személy szolgálati jogviszonyát folyamatosnak kell tekinteni, ha a jogosultsági idő alatt a Hszt., a Hjt. vagy a Navtv. hatálya alá tartozó szolgálati viszonyok közötti áthelyezésre kerül sor.
 
 (6) Az (1)–(4) bekezdésben foglaltak alkalmazásában, a pénzügyőr esetén a három év folyamatos szolgálati jogviszony fennállását a 2021. január 1-jét megelőzően fennálló, a Hszt. szerinti hivatásos szolgálati jogviszony figyelembevételével kell megállapítani.
+
+(7)[^2] Az (1) bekezdéstől eltérően időarányos visszatérítési kötelezettség terheli azt a szolgálati juttatásban részesült katonát, akinek a szolgálati viszonya a honvédek jogállásáról szóló 2012. évi CCV. törvény hatálya alá tartozókra vonatkozó egyes veszélyhelyzeti intézkedésekről szóló 8/2023. (I. 17.) Korm. rendelet (a továbbiakban: Korm. rendelet) 6. § (3) bekezdése szerint szűnik meg, és a szolgálati viszonya megszűnésének időpontjában nem rendelkezik három év folyamatos szolgálati viszonnyal.
+
+[^2]: A 10. § (7) bekezdését a 40/2023. (II. 20.) Korm. rendelet 4. §-a iktatta be.

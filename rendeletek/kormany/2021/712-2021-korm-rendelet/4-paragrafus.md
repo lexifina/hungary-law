@@ -8,6 +8,6 @@ ba) szolgálatellátása során vagy azzal összefüggésben szerzett sérülés
 
 bb) szolgálati kötelmekkel összefüggésben bekövetkezett megbetegedése
 
-## miatt szűnt vagy szűnik meg a szolgálati jogviszonya,
+miatt szűnt vagy szűnik meg a szolgálati jogviszonya,
 
 c) a 2021. december 31. napján nyugdíj előtti rendelkezési állományban lévő.

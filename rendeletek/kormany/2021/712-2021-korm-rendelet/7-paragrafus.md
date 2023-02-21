@@ -5,3 +5,5 @@
 a) a katona és a pénzügyőr vonatkozásában a részére megállapított illetményből számított távolléti díj összege, illetve
 
 b) a hivatásos szolgálati jogviszonyban álló vonatkozásában a távolléti díjnak, valamint – ha ilyen megállapítására sor került – a miniszter által rendeletben megállapított kiegészítő juttatásnak az együttes összege,
+
+amely a hivatásos szolgálatot ellátó személyt 2021. december 31. napján megilleti.

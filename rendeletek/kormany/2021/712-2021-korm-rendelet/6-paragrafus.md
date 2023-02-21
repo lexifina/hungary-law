@@ -8,7 +8,7 @@ c) akivel szemben 2021. december 31. napján büntetőeljárás, fegyelmi eljár
 
 d) aki 2021. december 31. napján kifogástalan életvitel ellenőrzés alatt áll
 
-## [az a)–d) pont a továbbiakban együtt: korlátozó ok] jogosult a szolgálati juttatásra, de részére a szolgálati juttatás kifizetésére csak a korlátozó ok megszűnését követően – a (2)–(4) bekezdésben meghatározottak szerint – kerül sor.
+[az a)–d) pont a továbbiakban együtt: korlátozó ok] jogosult a szolgálati juttatásra, de részére a szolgálati juttatás kifizetésére csak a korlátozó ok megszűnését követően – a (2)–(4) bekezdésben meghatározottak szerint – kerül sor.
 
 (2) Az (1) bekezdés a) pontja szerint próbaidőt töltő hivatásos szolgálatot ellátó személy esetében a szolgálati juttatást a próbaidő lejártát követően, abban az esetben kell kifizetni, ha a jogviszonya nem szűnt meg. Ebben az esetben a szolgálati juttatást a próbaidő lejártát követő hónapra járó illetménnyel együtt kell kifizetni, és a szolgálati juttatás alapját a 2021. december 31-én érvényes illetményből, a 7. §-ban foglaltak alapján kell számítani.
 
