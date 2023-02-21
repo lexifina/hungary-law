@@ -1,19 +1,19 @@
-## 10. §[^10]
+## 11. §[^11] A kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló 5/2020. (II. 6.) ITM rendelet (a továbbiakban: 5/2020. ITM rendelet) 21. §-a a következő e) ponttal egészül ki:
 
-## 2. A kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló 5/2020. (II. 6.) ITM rendelet módosítása
+## [A 4. § (1) bekezdésében foglaltaktól eltérően]
 
-## 11.. §[^11]
+## „e) a dízelmotor-kipufogógáz expozícióra vonatkozóan – a földalatti bányászat és az alagútfúrás területét kivéve – az 1. mellékletben”
+
+## (meghatározott határértékeket kell alkalmazni.)
 
 ## 12. § Az 5/2020. ITM rendelet
 
-a)[^12]
+a) 1. melléklete a 2. melléklet,
 
-b)[^13]
+b)[^12]
 
-c)[^14]
+c)[^13]
 
-[^10]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 11. § a 14. § (3) bekezdése alapján 2023. február 21-én lép hatályba.
-[^12]: A 12. § a) pontja a 14. § (3) bekezdése alapján 2023. február 21-én lép hatályba.
-[^13]: A 12. § b) pontja a 14. § (5) bekezdése alapján 2025. január 18-án lép hatályba.
-[^14]: A 12. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 11. § a 32/2021. (VII. 26.) ITM rendelet 26. §-ával megállapított szöveg.
+[^12]: A 12. § b) pontja a 14. § (5) bekezdése alapján 2025. január 18-án lép hatályba.
+[^13]: A 12. § c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
