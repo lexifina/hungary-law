@@ -1,0 +1,3 @@
+3. §[^4] A 2. § szerinti esemény (a továbbiakban:esemény) bekövetkezésekor az érintett Szervezet vezetője az emberi élet, az anyagi javak mentése érdekében a halaszthatatlan és tőle elvárható intézkedéseket haladéktalanul megteszi. Egyidejűleg gondoskodik arról, hogy az eseményről az elhárítására hivatott szervek (rendőrség, tűzoltóság, mentők, tűzszerészek, polgári védelem, Magyar Honvédség, környezetvédelmi központi ügyelet, a népegészségügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal stb.) mielőbb értesüljenek.
+
+[^4]: A 3. § a 9/2015. (III. 31.) NGM rendelet 36. § b) pontja, a 2/2023. (II. 20.) ÉKM rendelet 8. §-a szerint módosított szöveg.

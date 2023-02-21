@@ -12,6 +12,8 @@ b)[^2]
 
 c)[^3] az Energetikai Főügyelet feladatait a bányafelügyelet műszaki-biztonsági, munkavédelmi hatáskörébe tartozó ügyekben a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: bányafelügyelet), a villamosenergetikai ügyekben a MAVIR Magyar Villamosenergia-ipari Rendszerirányító Részvénytársaság
 
+látja el.
+
 [^1]: Az 1. § (2) bekezdése a 35/2015. (XII. 23.) NGM rendelet 2. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (4) bekezdés b) pontját a 35/2015. (XII. 23.) NGM rendelet 2. § b) pontja hatályon kívül helyezte.
 [^3]: Az 1. § (4) bekezdésének c) pontja a 86/2006. (XII. 26.) GKM rendelet 17. § (1) bekezdésével megállapított, a 24/2017. (VI. 30.) NFM rendelet 2. § a) pontja, a 2/2022. (I. 7.) ITM rendelet 2. § a) pontja szerint módosított szöveg.

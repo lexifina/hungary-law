@@ -1,5 +1,3 @@
-## látja el.
-
 ## 2. § A miniszter hatáskörébe tartozó ágazatok területén működő költségvetési szerv és gazdálkodó szervezet (a továbbiakban együtt: Szervezet) az Ágazati Főügyeleten keresztül a GKM Főügyeletnek haladéktalanul bejelenti a tevékenységi körében, illetve a működési területén bekövetkezett alábbi eseményeket:
 
 a) a katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény 3. § p) pontja szerinti rendkívüli eseményt,

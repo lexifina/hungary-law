@@ -1,5 +1,3 @@
-## 3. §[^4] A 2. § szerinti esemény (a továbbiakban:esemény) bekövetkezésekor az érintett Szervezet vezetője az emberi élet, az anyagi javak mentése érdekében a halaszthatatlan és tőle elvárható intézkedéseket haladéktalanul megteszi. Egyidejűleg gondoskodik arról, hogy az eseményről az elhárítására hivatott szervek (rendőrség, tűzoltóság, mentők, tűzszerészek, polgári védelem, Magyar Honvédség, környezetvédelmi központi ügyelet, a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal stb.) mielőbb értesüljenek.
-
 4. § (1) A bejelentéseket távbeszélőn és telefaxon vagy távbeszélőn és elektronikus levélben kell megtenni.
 
 (2) A bejelentésnek tartalmaznia kell:
@@ -22,5 +20,4 @@ c) a megtett vagy folyamatban lévő intézkedéseket.
 
 (8) Amennyiben olyan esemény következik be, amely területi elhelyezkedésénél fogva érintheti Magyarországon működő külképviselet működését, arról a GKM Főügyelet haladéktalanul értesíti a Külügyminisztérium Válságkezelő Központját.
 
-[^4]: A 3. § a 9/2015. (III. 31.) NGM rendelet 36. § b) pontja szerint módosított szöveg.
 [^5]: A gazdasági és közlekedési ágazat katasztrófavédelmi feladatairól szóló 33/2003. (V. 20.) GKM rendelet 3. §.

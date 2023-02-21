@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-59-20-0
 | 2016-01-01 | 2005-59-20-0L.7 | 35/2015. (XII. 23.) NGM rendelet |
 | 2017-07-01 | 2005-59-20-0L.8 | 86/2006. (XII. 26.) GKM rendelet |
 | 2022-01-08 | 2005-59-20-0L.9 | 86/2006. (XII. 26.) GKM rendelet |
+| 2023-02-21 | 2005-59-20-0L.10 | 9/2015. (III. 31.) NGM rendelet |
