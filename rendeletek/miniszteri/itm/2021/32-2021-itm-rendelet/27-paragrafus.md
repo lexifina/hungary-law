@@ -1,3 +1,9 @@
-## 26. §[^29]
+## 26. § A foglalkozási eredetű rákkeltő anyagok elleni védekezésről és az általuk okozott egészségkárosodások megelőzéséről szóló 26/2000. (IX. 30.) EüM rendelet és a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló 5/2020. (II. 6.) ITM rendelet módosításáról szóló 6/2020. (II. 7.) ITM rendelet (a továbbiakban: 6/2020. ITM rendelet) 11. §-a a következő szöveggel lép hatályba:
 
-[^29]: A 26. § a 29. § (5) bekezdése alapján 2023. február 21-én lép hatályba.
+## „11. § A kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló 5/2020. (II. 6.) ITM rendelet (a továbbiakban: 5/2020. ITM rendelet) 21. §-a a következő e) ponttal egészül ki:
+
+## [A 4. § (1) bekezdésében foglaltaktól eltérően]
+
+## „e) a dízelmotor-kipufogógáz expozícióra vonatkozóan – a földalatti bányászat és az alagútfúrás területét kivéve – az 1. mellékletben”
+
+## (meghatározott határértékeket kell alkalmazni.)
