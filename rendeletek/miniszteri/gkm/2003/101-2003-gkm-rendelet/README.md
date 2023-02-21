@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-101-20-
 | 2017-01-03 | 2003-101-20-0L.9 | 1/2017. (I. 3.) NFM rendelet |
 | 2018-01-01 | 2003-101-20-0L.10 | 55/2017. (XII. 27.) NFM rendelet |
 | 2021-03-06 | 2003-101-20-0L.11 | 12/2021. (III. 5.) ITM rendelet |
+| 2023-02-21 | 2003-101-20-0L.12 | 36/2008. (XII. 11.) KHEM rendelet |

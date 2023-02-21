@@ -558,6 +558,8 @@ Gyártmány: ................................................... Típus:
 
 Vizsgálati eredmények
 
+4M11023_0
+
 | Műszaki állapot | Működés |
 
 | Fékrendszer |

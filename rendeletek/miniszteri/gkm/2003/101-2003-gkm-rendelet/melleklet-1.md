@@ -1,5 +1,3 @@
-## 6. §[^13]
-
 1. számú melléklet a 101/2003. (XII. 23.) GKM rendelethez[^14]
 
 I. rész
@@ -34,6 +32,8 @@ A vizsgálatnak legalább a 2. és 3. pontokban meghatározott témakörökre ke
 
 3.1.1. Szabályozott keverékképzésű, Otto-motoros járművek:
 
+## 3M12184_1
+
 | Kipufogógáz kibocsátás |
 
 | A vizsgálat tárgya | Az elutasítás főbb oka(i) |
@@ -60,9 +60,9 @@ A vizsgálatnak legalább a 2. és 3. pontokban meghatározott témakörökre ke
 
 | = emelt alapjárati fordulatszámon a lambda (λ) érték az 1 ± 0,03 tartományon vagy a gyártó által megadott értéken kívül van |
 
-(1) Az 1986. október 1. előtt először forgalomba helyezett járművek esetén.
+## (1) Az 1986. október 1. előtt először forgalomba helyezett járművek esetén.
 
-(2) Az 1986. október 1. után először forgalomba helyezett járművek esetén.
+## (2) Az 1986. október 1. után először forgalomba helyezett járművek esetén.
 
 3.1.2. Kompresszió gyújtású (dízelmotoros) járművek:
 
@@ -84,9 +84,9 @@ A vizsgálatnak legalább a 2. és 3. pontokban meghatározott témakörökre ke
 
 | = „K” érték több, mint 3,0 m–1 turbófeltöltésű motorok esetében |
 
-(1) Az 1980. január 1. előtt először forgalomba helyezett járművekre nem vonatkozik.
+## (1) Az 1980. január 1. előtt először forgalomba helyezett járművekre nem vonatkozik.
 
-(2) Egyenértékű mérési módszer megengedett.
+## (2) Egyenértékű mérési módszer megengedett.
 
 4. Zaj kibocsátás
 
@@ -120,5 +120,4 @@ II. rész
 
 A „Nemzetközi időszakos vizsgálati bizonyítvány” kiadására vonatkozó környezetvédelmi konstrukciós követelmények
 
-[^13]: A 6. §-t a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 193. pontja hatályon kívül helyezte.
 [^14]: Az eredeti melléklet számozását 1. számú mellékletre változtatta a 105/2004. (IX. 11.) GKM rendelet 2. §-a.
