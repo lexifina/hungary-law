@@ -1,6 +1,6 @@
 2. melléklet a 15/2010. (III. 5.) KHEM rendelethez
 
-## A pályahálózat-működtető adatszolgáltatási kötelezettsége
+A pályahálózat-működtető adatszolgáltatási kötelezettsége
 
 1. Vonalak és szolgálati helyek távolság-adatai szelvényszám és kilométeradatok szerint, a hibaszelvények figyelembevételével.
 

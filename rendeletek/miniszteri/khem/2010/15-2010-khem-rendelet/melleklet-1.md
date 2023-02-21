@@ -1,8 +1,6 @@
-## 18. §[^14]
-
 1. melléklet a 15/2010. (III. 5.) KHEM rendelethez
 
-## A Regionális Közlekedési Szakbizottságok
+A Regionális Közlekedési Szakbizottságok
 
 1. Észak-magyarországi Regionális Közlekedési Szakbizottság az Észak-magyarországi Régió vonatkozásában;
 
@@ -17,5 +15,3 @@
 6. Nyugat-dunántúli Regionális Közlekedési Szakbizottság a Nyugat-dunántúli Régió vonatkozásában;
 
 7. Dél-dunántúli Regionális Közlekedési Szakbizottság a Dél-dunántúli Régió vonatkozásában.
-
-[^14]: A 18. § ugyanezen § alapján hatályát vesztette.

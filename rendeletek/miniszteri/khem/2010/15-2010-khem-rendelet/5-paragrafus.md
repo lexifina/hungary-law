@@ -10,12 +10,13 @@ d) részvétel a menetrendnek az egységes egyeztetési eljárás során a régi
 
 e) a régiónak a szomszédos régiók egységes egyeztetési eljárásában történő képviselete,
 
-f) javaslattétel a területi (megyei, kistérségi) kiegészítő források alapján történő többlet szolgáltatások meghatározására, és
+f)[^6] javaslattétel a területi (vármegyei, kistérségi) kiegészítő források alapján történő többlet szolgáltatások meghatározására, és
 
 g) közreműködés a menetrend előkészítésére vonatkozó jogszabályi kötelezettségeknek, valamint a menetrendi felhívásnak és menetrendi koncepciónak megfelelően az érintett közlekedési szolgáltatókkal, a szomszédos régiókkal, valamint a miniszterrel együttműködve a régió közösségi közlekedésére vonatkozó menetrend előkészítésében.
 
-(2)[^4] Az RKSZ az országos közlekedésszervező illetékes regionális irodája szakmai támogatásával látja el feladatát.
+(2)[^7] Az RKSZ az országos közlekedésszervező illetékes regionális irodája szakmai támogatásával látja el feladatát.
 
 (3) Az RKSZ ügyrendjét maga alkotja meg és a miniszter hagyja jóvá.
 
-[^4]: Az 5. § (2) bekezdése a 14/2022. (VIII. 16.) TIM rendelet 1. § c) pontja szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdés f) pontja a 2/2023. (II. 20.) ÉKM rendelet 9. § d) pontja szerint módosított szöveg.
+[^7]: Az 5. § (2) bekezdése a 14/2022. (VIII. 16.) TIM rendelet 1. § c) pontja szerint módosított szöveg.

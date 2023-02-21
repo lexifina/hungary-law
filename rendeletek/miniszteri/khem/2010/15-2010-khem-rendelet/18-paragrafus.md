@@ -1,3 +1,3 @@
-## 17. §[^13]
+18. §[^17]
 
-[^13]: A 17. §-t a 18. § hatályon kívül helyezte.
+[^17]: A 18. § ugyanezen § alapján hatályát vesztette.
