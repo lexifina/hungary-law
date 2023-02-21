@@ -102,7 +102,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 39.[^14] nehéz helyzetben lévő vállalkozás: az Atr. 6. § (4a) és (4b) bekezdésében meghatározott vállalkozás,
 
-39a.[^15] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
+39a.[^15] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos vármegyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
 
 40. pénzügyi közvetítő: a 651/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti pénzügyi intézmény,
 
@@ -141,5 +141,5 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 [^12]: A 4. § 18a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (4) bekezdése iktatta be.
 [^13]: A 4. § 37a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (5) bekezdése iktatta be.
 [^14]: A 4. § 39. pontja a 18/2020. (XII. 8.) MvM rendelet 1. §-ával megállapított szöveg.
-[^15]: A 4. § 39a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (6) bekezdése iktatta be.
+[^15]: A 4. § 39a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (6) bekezdése iktatta be, szövege az 1/2023. (II. 20.) MVM rendelet 7. § b) pontja szerint módosított szöveg.
 [^16]: A 4. § 40a. pontját a 17/2022. (X. 18.) MVM rendelet 3. § (7) bekezdése iktatta be.

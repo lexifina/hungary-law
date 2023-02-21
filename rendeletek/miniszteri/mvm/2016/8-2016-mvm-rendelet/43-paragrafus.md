@@ -10,8 +10,11 @@ c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 d) az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012.1.11., 3. o.), és
 
-e)[^78] az Európai Bizottság SA.46515 (2016/N) és az SA.59053 (2020/N) számú határozata
+e)[^82] az Európai Bizottság SA.46515 (2016/N) és az SA.59053 (2020/N) számú határozata
+
+f)[^83] „Az állami támogatásokra vonatkozó, az Ukrajna elleni orosz invázióval összefüggésben a gazdaság támogatását célzó ideiglenes válságkeret” című, 2022/C 426/01 számú európai bizottsági közlemény
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^78]: A 43. § e) pontja a 17/2022. (X. 18.) MVM rendelet 10. §-ával megállapított szöveg.
+[^82]: A 43. § e) pontja a 17/2022. (X. 18.) MVM rendelet 10. §-ával megállapított szöveg.
+[^83]: A 43. § f) pontját az 1/2023. (II. 20.) MVM rendelet 5. §-a iktatta be.

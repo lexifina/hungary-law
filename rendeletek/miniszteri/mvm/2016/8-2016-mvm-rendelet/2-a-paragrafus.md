@@ -1,3 +1,3 @@
-## 2. §[^3] Az egyes előirányzatok különös felhasználási szabályait az 1. és a 2. melléklet tartalmazza. Az 1. és a 2. mellékletben meghatározott különös felhasználási szabályokat az egyes előirányzatokhoz rendelt megfelelő államháztartási egyedi azonosító számmal (a továbbiakban: ÁHT azonosító) azonosított előirányzatra kell alkalmazni, annak a fejezeten belüli címrendi besorolásától vagy címrendi módosításától függetlenül.
+2/A. §[^4] A 4. § 2. pontja szerinti állami támogatás az 1. melléklet alapján, a 4–23/A. alcím szerinti támogatásként nyújtható.
 
-[^3]: A 2. § az 1/2021. (II. 9.) MvM rendelet 5. § a) pontja szerint módosított szöveg.
+[^4]: A 2/A. §-t a 2/2022. (I. 21.) MvM rendelet 1. §-a iktatta be, szövege az 1/2023. (II. 20.) MVM rendelet 7. § a) pontja szerint módosított szöveg.
