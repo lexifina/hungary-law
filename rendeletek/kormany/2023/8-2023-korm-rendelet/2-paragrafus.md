@@ -14,9 +14,11 @@ b) a jogosult az öregségi nyugdíjkorhatárt betölti,
 
 c) a jogosult részére a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 18. § (2a)–(2d) bekezdése alapján öregségi nyugdíjat állapítanak meg,
 
-d) a központi pénzügyi szervezet a jogosult kérelmére megszünteti, vagy
+d)[^3] a központi pénzügyi szervezet a jogosult kérelmére megszünteti,
 
-e) a központi pénzügyi szervezet a (6) bekezdésben foglaltak szerint hivatalból megszünteti.
+e)[^4] a központi pénzügyi szervezet a (6) bekezdésben foglaltak szerint hivatalból megszünteti, vagy
+
+f)[^5] a jogosult a korhatár előtti öregségi nyugdíjak megszüntetéséről, a korhatár előtti ellátásról és a szolgálati járandóságról szóló törvény szerinti korhatár előtti ellátást vagy szolgálati járandóságot veszi igénybe.
 
 (6) Meg kell szüntetni a honvédelmi szolgálati juttatást, ha a jogosultat
 
@@ -25,3 +27,16 @@ a) jogerősen végrehajtandó szabadságvesztésre ítélték, vagy
 b) jogerősen felfüggesztett szabadságvesztésre ítélték, és előzetesen nem mentesítették a büntetett előélethez fűződő hátrányok alól.
 
 (7) A honvédelmi szolgálati juttatás végrehajtás alá vonható juttatásnak minősül.
+
+(8)[^6] Ha
+
+a) a 2. § (1) bekezdése szerinti honvédelmi szolgálati juttatásra jogosult vagy
+
+b) a 2. § (5) bekezdés c) vagy f) pontja szerinti személy
+
+betölti a rá irányadó öregségi nyugdíjkorhatárt, annak betöltése napjától a Hjt. 2. § 30. pontjától eltérően nyugállományú katonának minősül.
+
+[^3]: A 2. § (5) bekezdés d) pontja a 40/2023. (II. 20.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^4]: A 2. § (5) bekezdés e) pontja a 40/2023. (II. 20.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (5) bekezdés f) pontját a 40/2023. (II. 20.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^6]: A 2. § (8) bekezdését a 40/2023. (II. 20.) Korm. rendelet 7. §-a iktatta be.
