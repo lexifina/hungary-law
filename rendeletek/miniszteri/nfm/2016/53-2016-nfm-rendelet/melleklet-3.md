@@ -1,6 +1,6 @@
 3. melléklet az 53/2016. (XII. 16.) NFM rendelethez
 
-## Motoros sárkányrepülő eszköz vezető szakszolgálati engedély és az ahhoz kapcsolódó jogosítások megszerezésére irányuló képzések és vizsgák tematikáinak, valamint a kompetencia felmérések témakörei
+Motoros sárkányrepülő eszköz vezető szakszolgálati engedély és az ahhoz kapcsolódó jogosítások megszerezésére irányuló képzések és vizsgák tematikáinak, valamint a kompetencia felmérések témakörei
 
 | Szakszolgálati engedély megnevezése | Szakszolgálati engedélybe történő bejegyzés | Szakszolgálati engedély rovatszáma | Szakszolgálati engedélyhez adható jogosítás | Szakszolgálati engedélybe történő bejegyzés | Szakszolgálati engedély rovatszáma | Időbeli hatály |
 

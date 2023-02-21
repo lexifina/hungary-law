@@ -1,6 +1,6 @@
 10. melléklet az 53/2016. (XII. 16.) NFM rendelethez
 
-## Ejtőernyős oktatói és tandemugró tevékenység végzéséhez szükséges elméleti és gyakorlati képzés, valamint elméleti és gyakorlati vizsga témakörei
+Ejtőernyős oktatói és tandemugró tevékenység végzéséhez szükséges elméleti és gyakorlati képzés, valamint elméleti és gyakorlati vizsga témakörei
 
 1. Az ejtőernyős oktatói és tandemugró tevékenység végzéséhez szükséges elméleti és gyakorlati képzés, valamint elméleti és gyakorlati vizsga témakörei
 

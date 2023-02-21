@@ -1,6 +1,6 @@
 9. melléklet az 53/2016. (XII. 16.) NFM rendelethez
 
-## Siklóernyős oktatói és tandempilóta tevékenység végzéséhez szükséges elméleti és gyakorlati képzés, valamint elméleti és gyakorlati vizsga témakörei
+Siklóernyős oktatói és tandempilóta tevékenység végzéséhez szükséges elméleti és gyakorlati képzés, valamint elméleti és gyakorlati vizsga témakörei
 
 1. A siklóernyős oktatói és tandempilóta tevékenység végzéséhez szükséges elméleti és gyakorlati képzés, valamint elméleti és gyakorlati vizsga témakörei
 

@@ -1,6 +1,6 @@
 8. melléklet az 53/2016. (XII. 16.) NFM rendelethez
 
-## Lábról induló sárkányrepülő eszköz oktatói és tandempilóta tevékenység végzéséhez szükséges elméleti és gyakorlati képzés, valamint elméleti és gyakorlati vizsga témakörei
+Lábról induló sárkányrepülő eszköz oktatói és tandempilóta tevékenység végzéséhez szükséges elméleti és gyakorlati képzés, valamint elméleti és gyakorlati vizsga témakörei
 
 1. A lábról induló sárkányrepülő eszköz oktatói és tandempilóta tevékenység végzéséhez szükséges elméleti és gyakorlati képzés, valamint elméleti és gyakorlati vizsga témakörei
 

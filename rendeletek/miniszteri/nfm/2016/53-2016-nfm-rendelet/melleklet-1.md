@@ -1,8 +1,6 @@
-## 148. §[^50]
-
 1. melléklet az 53/2016. (XII. 16.) NFM rendelethez
 
-## Ultralight repülőgép pilóta szakszolgálati engedély és az ahhoz kapcsolódó jogosítások megszerezésére irányuló képzések és vizsgák tematikáinak, valamint a kompetencia felmérések témakörei
+Ultralight repülőgép pilóta szakszolgálati engedély és az ahhoz kapcsolódó jogosítások megszerezésére irányuló képzések és vizsgák tematikáinak, valamint a kompetencia felmérések témakörei
 
 | Szakszolgálati engedély megnevezése | Szakszolgálati engedélybe történő bejegyzés | Szakszolgálati engedély rovatszáma | Szakszolgálati engedélyhez adható jogosítás | Szakszolgálati engedélybe történő bejegyzés | Szakszolgálati engedély rovatszáma | Időbeli hatály |
 
@@ -277,5 +275,3 @@ c) 5 szoktatórepülést egy repülőgéppel vagy ultralight repülőgéppel fel
 a) egy a vontatórepüléssel és eljárásokkal kapcsolatos elméleti képzést és
 
 b) 10 gyakorlórepülést transzparens vontatása közben, amely tartalmaz legalább 5 kétkormányos repülést.
-
-[^50]: A 148. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

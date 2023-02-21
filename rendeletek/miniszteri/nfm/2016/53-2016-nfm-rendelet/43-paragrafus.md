@@ -4,6 +4,6 @@
 
 (2) A motoros sárkányrepülő eszköz vezető szakszolgálati engedély megszerzésére irányuló elméleti vizsga keretében a növendéknek bizonyítania kell, hogy a 3. mellékletben meghatározott elméleti témakörökből rendelkezik azzal a szakismerettel, amely a motoros sárkányrepülő eszköz vezető szakszolgálati engedély engedélyesét megillető jogosultságoknak megfelel.
 
-(3)[^17] A jártassági vizsgát a légiközlekedési hatóság által, a 3. mellékletben meghatározott témakörök figyelembevételével kialakított vizsgaszabályzat szerint kell lefolytatni.
+(3)[^23] A jártassági vizsgát a légiközlekedési hatóság által, a 3. mellékletben meghatározott témakörök figyelembevételével kialakított vizsgaszabályzat szerint kell lefolytatni.
 
-[^17]: A 43. § (3) bekezdése az 55/2017. (XII. 27.) NFM rendelet 98. §-ával megállapított szöveg.
+[^23]: A 43. § (3) bekezdése az 55/2017. (XII. 27.) NFM rendelet 98. §-ával megállapított szöveg.

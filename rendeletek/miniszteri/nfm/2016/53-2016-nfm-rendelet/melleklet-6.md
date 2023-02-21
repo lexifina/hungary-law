@@ -1,6 +1,6 @@
 6. melléklet az 53/2016. (XII. 16.) NFM rendelethez
 
-## A repülőgép és helikopter magánpilóta, kereskedelmi pilóta és légitársasági pilóta szakszolgálati engedélyekhez kapcsolódóan e rendelet szerint kiadható betétlapra bejegyezhető jogosítások
+A repülőgép és helikopter magánpilóta, kereskedelmi pilóta és légitársasági pilóta szakszolgálati engedélyekhez kapcsolódóan e rendelet szerint kiadható betétlapra bejegyezhető jogosítások
 
 1. Repülőgép pilóta szakszolgálati engedélyekbe bejegyezhető jogosítások
 

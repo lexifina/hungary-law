@@ -1,5 +1,3 @@
-## 17–19. §[^12]
-
 ## 11. A szakszolgálati tevékenység folyamatos ellátásának követelményei
 
 20. § (1) Az ultralight repülőgép pilóta szakszolgálati engedély engedélyese csak akkor gyakorolhatja a szakszolgálati engedélye által biztosított jogosultságokat, ha ultralight repülőgépen az előző 24 hónapban teljesített
@@ -35,5 +33,3 @@ b) legalább egy óra teljes repülési idővel, oktatóval végrehajtott ismere
 a) részt kell vennie egy vizsgáztató által végzett készségellenőrzésen, vagy
 
 b) teljesítenie kell a hiányzó repülési időt, valamint a felszállásokat és a leszállásokat oktató felügyelete mellett kétkormányos légijárművön vagy egyedülrepülések során.
-
-[^12]: A 17–19. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § b) pontja hatályon kívül helyezte.

@@ -20,4 +20,6 @@ f) siklóernyős oktatói vagy tandempilóta és
 
 g) ejtőernyős oktatói vagy tandemugró
 
+tevékenységet végző személyek képzésére, vizsgáztatására és engedélyeire, a képzést végző szervezetekre, az oktatásban és a vizsgáztatásban részt vevő személyekre, az egyes engedélyek, tanúsítások és tanúsítványok kiadására, valamint a légiközlekedési hatóságra terjed ki.
+
 [^1]: Az 1. § a) pontja a 47/2019. (XII. 23.) ITM rendelet 18. § a) pontja szerint módosított szöveg.

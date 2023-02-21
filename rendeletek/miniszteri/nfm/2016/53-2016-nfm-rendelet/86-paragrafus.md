@@ -1,5 +1,3 @@
-## 83–85. §[^26]
-
 ## HARMADIK RÉSZ
 
 ## A SZAKSZOLGÁLATI ENGEDÉLY NÉLKÜL VÉGEZHETŐ TEVÉKENYSÉGEK
@@ -11,5 +9,3 @@ a) lábról induló sárkányrepülő eszköz oktatói vagy tandempilóta tevék
 b) siklóernyős oktatói vagy tandempilóta tevékenység,
 
 c) ejtőernyős oktatói vagy tandemugró tevékenység.
-
-[^26]: A 83–85. §-t az 55/2017. (XII. 27.) NFM rendelet 101. § n) pontja hatályon kívül helyezte.

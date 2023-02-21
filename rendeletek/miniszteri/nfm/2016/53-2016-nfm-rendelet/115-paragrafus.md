@@ -1,10 +1,10 @@
 ## 49. A vizsga lefolytatása
 
-115. § (1)[^32]
+115. § (1)[^47]
 
-(2)–(4)[^33]
+(2)–(4)[^48]
 
 (5) Ha a légiközlekedési hatóság a vizsga során szabálytalanságot állapít meg, a vizsgát felfüggesztheti.
 
-[^32]: A 115. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 101. § t) pontja hatályon kívül helyezte.
-[^33]: A 115. § (2)–(4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 101. § u) pontja hatályon kívül helyezte.
+[^47]: A 115. § (1) bekezdését az 55/2017. (XII. 27.) NFM rendelet 101. § t) pontja hatályon kívül helyezte.
+[^48]: A 115. § (2)–(4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 101. § u) pontja hatályon kívül helyezte.

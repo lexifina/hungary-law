@@ -12,7 +12,7 @@ d) a fedélzeti mérnök esetében a 4. melléklet,
 
 e) a fedélzeti navigátor esetében az 5. melléklet
 
-## tartalmazza.
+tartalmazza.
 
 (2) A 9. § (2) bekezdésében meghatározott betétlapra bejegyezhető, repülőgép és helikopter vezetésére jogosító szakszolgálati engedélyekhez kiadható mezőgazdasági és tűzoltó jogosítások a VIII. Fejezetben és a 6. mellékletben meghatározott követelmények teljesítése esetén adhatóak meg.
 

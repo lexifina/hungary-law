@@ -5,3 +5,5 @@ a) a lábról induló sárkányrepülő eszköz oktatói és tandempilóta tevé
 b) a siklóernyős oktatói és tandempilóta tevékenység esetében a 9. melléklet,
 
 c) az ejtőernyős oktatói és tandemugró tevékenység esetében a 10. melléklet
+
+tartalmazza.

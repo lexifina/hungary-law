@@ -4,6 +4,6 @@
 
 (3) Az elméleti vizsgán tanfolyami jegyzetek használata nem megengedett.
 
-(4)[^35] Az elméleti vizsgáztatást végző képző szervezetnek vagy a légiközlekedési vizsgaközpontnak rendelkeznie kell az adott témakört teljes mértékben lefedő vizsgakérdés adatbázissal. A képző szervezetnek vagy a légiközlekedési vizsgaközpontnak gondoskodnia kell a vizsgakérdés adatbázis titkosságáról.
+(4)[^50] Az elméleti vizsgáztatást végző képző szervezetnek vagy a légiközlekedési vizsgaközpontnak rendelkeznie kell az adott témakört teljes mértékben lefedő vizsgakérdés adatbázissal. A képző szervezetnek vagy a légiközlekedési vizsgaközpontnak gondoskodnia kell a vizsgakérdés adatbázis titkosságáról.
 
-[^35]: A 117. § (4) bekezdése a 9/2022. (VIII. 1.) TIM rendelet 64. §-a szerint módosított szöveg.
+[^50]: A 117. § (4) bekezdése a 9/2022. (VIII. 1.) TIM rendelet 64. §-a szerint módosított szöveg.

@@ -1,5 +1,3 @@
-## tartalmazza.
-
 ## 35. A tevékenység végzésének folyamatosságára vonatkozó követelmények
 
 88. § (1) A lábról induló sárkányrepülő eszköz oktató vagy tandempilóta, a siklóernyős oktató vagy tandempilóta, valamint az ejtőernyős oktató vagy tandemugró akkor gyakorolhatja e tevékenységét, ha a tevékenység végzését megelőzően nem volt 12 hónapnál hosszabb megszakítás tevékenységének gyakorlásában.

@@ -1,5 +1,3 @@
-## Az e rendelet alapján kiadható szakszolgálati engedélyhez, jogosításhoz vagy tanúsítványhoz kapcsolódó képzést végző képző szervezetre vonatkozó követelmények
-
 ## 1. Szervezeti követelmények
 
 ## 1.1. VEZETŐSÉG

@@ -1,6 +1,6 @@
 7. melléklet az 53/2016. (XII. 16.) NFM rendelethez
 
-## Az e rendelet alapján kiadott szakszolgálati engedélyek és betétlapok általános formai követelményei és kötelező tartalmi elemei
+Az e rendelet alapján kiadott szakszolgálati engedélyek és betétlapok általános formai követelményei és kötelező tartalmi elemei
 
 1. A légiközlekedési hatóság által e rendelet szerint kiadott szakszolgálati engedélyek és betétlapok általános formai követelményei
 
@@ -16,7 +16,7 @@
 
 2. A légiközlekedési hatóság által e rendelet szerint kiadott szakszolgálati engedélyek kötelező tartalmi elemei
 
-2.1. Állandó adatpontok
+2.1.[^66] Állandó adatpontok
 
 I Kiállító állam (State of issue)
 
@@ -26,7 +26,7 @@ III H betűvel kezdődő engedélyszám (Licence number), melyet egy számkód �
 
 IV Engedélyes neve (Last and first name of licence holder)
 
-V Lakcím (utca, város, megye, irányítószám) [Address (Street, town, area, zip code)]
+V Lakcím (utca, város, vármegye, irányítószám) [Address (Street, town, county, zip code)]
 
 VI Állampolgárság (Nationality)
 
@@ -50,7 +50,7 @@ XIV A légiközlekedési hatóság által megkövetelt bármely további részle
 
 3. A légiközlekedési hatóság által e rendelet szerint kiadott betétlapok kötelező tartalmi elemei
 
-3.1. Állandó adatpontok
+3.1.[^67] Állandó adatpontok
 
 I Kiállító állam (State of issue)
 
@@ -60,7 +60,7 @@ III A kiadás alapjául szolgáló szakszolgálati engedély engedélyszáma (Li
 
 IV Engedélyes neve (Last and first name of licence holder)
 
-V Lakcím (utca, város, megye, irányítószám) [Address (Street, town, area, zip code)]
+V Lakcím (utca, város, vármegye, irányítószám) [Address (Street, town, county, zip code)]
 
 VI Állampolgárság (Nationality)
 
@@ -81,3 +81,6 @@ XII Jogosítások (Ratings)
 XIII Megjegyzések (Remarks)
 
 XIV A légiközlekedési hatóság által megkövetelt bármely további részlet
+
+[^66]: A 7. melléklet 2.1. pontja a 2/2023. (II. 20.) ÉKM rendelet 12. § a) pontja szerint módosított szöveg.
+[^67]: A 7. melléklet 3.1. pontja a 2/2023. (II. 20.) ÉKM rendelet 12. § b) pontja szerint módosított szöveg.

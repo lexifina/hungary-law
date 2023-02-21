@@ -1,5 +1,3 @@
-## tevékenységet végző személyek képzésére, vizsgáztatására és engedélyeire, a képzést végző szervezetekre, az oktatásban és a vizsgáztatásban részt vevő személyekre, az egyes engedélyek, tanúsítások és tanúsítványok kiadására, valamint a légiközlekedési hatóságra terjed ki.
-
 ## 2. Értelmező rendelkezések
 
 ## 2. § E rendelet alkalmazásában:
@@ -114,7 +112,7 @@ e) együléses szárazföldön üzemelő, sárkányszerkezetre szerelt ejtőerny
 
 f) kétüléses szárazföldön üzemelő, sárkányszerkezetre szerelt ejtőernyős mentőrendszerrel rendelkező repülőgép esetén a 472,5 kg-ot
 
-## azzal, hogy a c) és d) pontban szereplő kétéltű repülőgépek legnagyobb felszálló tömege szárazföldön üzemelés esetén nem haladhatja meg az a) és b) pontban meghatározott értéket;
+azzal, hogy a c) és d) pontban szereplő kétéltű repülőgépek legnagyobb felszálló tömege szárazföldön üzemelés esetén nem haladhatja meg az a) és b) pontban meghatározott értéket;
 
 50. útvonalrepülés: az 1178/2011/EU bizottsági rendelet I. Mellékletében meghatározott fogalom;
 

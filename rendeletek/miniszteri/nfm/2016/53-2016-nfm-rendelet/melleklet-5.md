@@ -1,6 +1,6 @@
 5. melléklet az 53/2016. (XII. 16.) NFM rendelethez
 
-## Fedélzeti navigátor szakszolgálati engedély és a szakszolgálati engedélybe bejegyezhető jogosítások megszerezésére irányuló képzések és vizsgák tematikái
+Fedélzeti navigátor szakszolgálati engedély és a szakszolgálati engedélybe bejegyezhető jogosítások megszerezésére irányuló képzések és vizsgák tematikái
 
 | Szakszolgálati engedély megnevezése | Szakszolgálati engedélybe történő bejegyzés | Szakszolgálati engedély rovatszáma | Szakszolgálati engedélyhez adható jogosítás | Szakszolgálati engedélybe történő bejegyzés | Szakszolgálati engedély rovatszáma | Időbeli hatály |
 
