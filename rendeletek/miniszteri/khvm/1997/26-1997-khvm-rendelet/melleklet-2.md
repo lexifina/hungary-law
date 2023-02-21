@@ -450,7 +450,7 @@
 
 | [93/2012. (V. 10.) Korm. rendelet 29. §] |  |
 
-2. számú melléklet a 26/1997. (XII. 12.) KHVM rendelethez[^12]
+2. számú melléklet a 26/1997. (XII. 12.) KHVM rendelethez[^13]
 
 |  | A | B |
 
@@ -458,44 +458,44 @@
 
 | 1. | Nemzeti Fejlesztési Minisztérium | 10032000-00290713-38100004 |
 
-| 2. | Bács-Kiskun Megyei Kormányhivatal | 10025004-00299657-00000000 |
+| 2. | Bács-Kiskun Vármegyei Kormányhivatal | 10025004-00299657-00000000 |
 
-| 3. | Baranya Megyei Kormányhivatal | 10024003-00299585-00000000 |
+| 3. | Baranya Vármegyei Kormányhivatal | 10024003-00299585-00000000 |
 
-| 4. | Békés Megyei Kormányhivatal | 10026005-00299578-00000000 |
+| 4. | Békés Vármegyei Kormányhivatal | 10026005-00299578-00000000 |
 
-| 5. | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | 10027006-00299561-00000000 |
+| 5. | Borsod-Abaúj-Zemplén Vármegyei Kormányhivatal | 10027006-00299561-00000000 |
 
 | 6. | Budapest Főváros Kormányhivatala | 10023002-00299592-00000000 |
 
-| 7. | Csongrád-Csanád Megyei Kormányhivatal | 10028007-00299664-00000000 |
+| 7. | Csongrád-Csanád Vármegyei Kormányhivatal | 10028007-00299664-00000000 |
 
-| 8. | Fejér Megyei Kormányhivatal | 10029008-00299640-00000000 |
+| 8. | Fejér Vármegyei Kormányhivatal | 10029008-00299640-00000000 |
 
-| 9. | Győr-Moson-Sopron Megyei Kormányhivatal | 10033001-00299633-00000000 |
+| 9. | Győr-Moson-Sopron Vármegyei Kormányhivatal | 10033001-00299633-00000000 |
 
-| 10. | Hajdú-Bihar Megyei Kormányhivatal | 10034002-00299626-00000000 |
+| 10. | Hajdú-Bihar Vármegyei Kormányhivatal | 10034002-00299626-00000000 |
 
-| 11. | Heves Megyei Kormányhivatal | 10035003-00299619-00000000 |
+| 11. | Heves Vármegyei Kormányhivatal | 10035003-00299619-00000000 |
 
-| 12. | Jász-Nagykun-Szolnok Megyei Kormányhivatal | 10045002-00299602-00000000 |
+| 12. | Jász-Nagykun-Szolnok Vármegyei Kormányhivatal | 10045002-00299602-00000000 |
 
-| 13. | Komárom-Esztergom Megyei Kormányhivatal | 10036004-00299554-00000000 |
+| 13. | Komárom-Esztergom Vármegyei Kormányhivatal | 10036004-00299554-00000000 |
 
-| 14. | Nógrád Megyei Kormányhivatal | 10037005-00299547-00000000 |
+| 14. | Nógrád Vármegyei Kormányhivatal | 10037005-00299547-00000000 |
 
-| 15. | Pest Megyei Kormányhivatal | 10023002-00299671-00000000 |
+| 15. | Pest Vármegyei Kormányhivatal | 10023002-00299671-00000000 |
 
-| 16. | Somogy Megyei Kormányhivatal | 10039007-00299688-00000000 |
+| 16. | Somogy Vármegyei Kormányhivatal | 10039007-00299688-00000000 |
 
-| 17. | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal | 10044001-00299695-00000000 |
+| 17. | Szabolcs-Szatmár-Bereg Vármegyei Kormányhivatal | 10044001-00299695-00000000 |
 
-| 18. | Tolna Megyei Kormányhivatal | 10046003-00299530-00000000 |
+| 18. | Tolna Vármegyei Kormányhivatal | 10046003-00299530-00000000 |
 
-| 19. | Vas Megyei Kormányhivatal | 10047004-00299523-00000000 |
+| 19. | Vas Vármegyei Kormányhivatal | 10047004-00299523-00000000 |
 
-| 20. | Veszprém Megyei Kormányhivatal | 10048005-00299516-00000000 |
+| 20. | Veszprém Vármegyei Kormányhivatal | 10048005-00299516-00000000 |
 
-| 21. | Zala Megyei Kormányhivatal | 10049006-00299509-00000000 |
+| 21. | Zala Vármegyei Kormányhivatal | 10049006-00299509-00000000 |
 
-[^12]: A 2. számú mellékletet a 97/2006. (XII. 28.) GKM rendelet 17. § (2) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 6/2014. (II. 12.) NFM rendelet 3. §-a iktatta be, szövege az 1/2017. (I. 3.) NFM rendelet 10. § (2) bekezdése, a 42/2020. (XI. 17.) ITM rendelet 2. §-a szerint módosított szöveg.
+[^13]: A 2. számú mellékletet a 97/2006. (XII. 28.) GKM rendelet 17. § (2) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 6/2014. (II. 12.) NFM rendelet 3. §-a iktatta be, szövege az 1/2017. (I. 3.) NFM rendelet 10. § (2) bekezdése, a 42/2020. (XI. 17.) ITM rendelet 2. §-a, a 2/2023. (II. 20.) ÉKM rendelet 2. § e) pontja szerint módosított szöveg.
