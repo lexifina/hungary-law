@@ -10,7 +10,7 @@ meghatározott követelményrendszer szerint kell lefolytatni.
 
 (2)[^86] A vizsgáztatás során a képzésre előírt – a 3., és 5. mellékletben meghatározott – szakmai feltételeket a vizsgáztatás sajátosságainak megfelelően kell alkalmazni.
 
-(3)[^87] A vizsgaközpontnak biztosítania kell minden megyében a vizsgázás lehetőségét.
+(3)[^87] A vizsgaközpontnak biztosítania kell minden vármegyében a vizsgázás lehetőségét.
 
 (4)[^88] A vizsgaközpont a székhelyén – ha jogszabály eltérően nem rendelkezik – minden munkanapon tart vizsgát.
 
@@ -41,7 +41,7 @@ megegyezik. Az a)–c) pont tekintetében a 3. számú melléklet 3.2.1. pontjá
 [^84]: A 9. § az 58/2011. (XI. 24.) NFM rendelet 10. §-sal megállapított szöveg.
 [^85]: A 9. § (1) bekezdése a 45/2019. (XII. 20.) ITM rendelet 20. §-ával megállapított szöveg. [A 45/2019. (XII. 20.) ITM rendelet 28. § 6. pontjával, a 9. § (1) bekezdésére vonatkozó módosítás nem vezethető át.]
 [^86]: A 9. § (2) bekezdése a 14/2015. (III. 31.) NFM rendelet 11. § d) pontja szerint módosított szöveg.
-[^87]: A 9. § (3) bekezdése az 1/2019. (I. 7.) ITM rendelet 15. § 3. pontja szerint módosított szöveg.
+[^87]: A 9. § (3) bekezdése az 1/2019. (I. 7.) ITM rendelet 15. § 3. pontja, a 2/2023. (II. 20.) ÉKM rendelet 7. §-a szerint módosított szöveg.
 [^88]: A 9. § (4) bekezdése az 1/2019. (I. 7.) ITM rendelet 15. § 1. pontja szerint módosított szöveg.
 [^89]: A 9. § (5) bekezdése az 1/2019. (I. 7.) ITM rendelet 15. § 1. pontja szerint módosított szöveg.
 [^90]: A 9. § (6) bekezdését a 9/2022. (VIII. 1.) TIM rendeet 52. § e) pontja hatályon kívül helyezte.
