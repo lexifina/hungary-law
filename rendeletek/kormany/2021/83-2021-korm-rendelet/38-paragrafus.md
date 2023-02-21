@@ -1,4 +1,4 @@
-## 37. §[^121] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 583/2021. (X. 12.) Korm. rendelettel (a továbbiakban: Módr29.) megállapított 1. § (3) bekezdését, 3. § (3) bekezdését, 7/F. §-át, 7/Z. §-át és 2. mellékletében foglalt táblázat 54. sorát a Módr29. hatálybalépésekor[^122] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 37. §[^122] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 583/2021. (X. 12.) Korm. rendelettel (a továbbiakban: Módr29.) megállapított 1. § (3) bekezdését, 3. § (3) bekezdését, 7/F. §-át, 7/Z. §-át és 2. mellékletében foglalt táblázat 54. sorát a Módr29. hatálybalépésekor[^123] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^121]: A 37. §-t az 583/2021. (X. 12.) Korm. rendelet 2. §-a iktatta be.
-[^122]: A hatálybalépés időpontja 2021. október 14.
+[^122]: A 37. §-t az 583/2021. (X. 12.) Korm. rendelet 2. §-a iktatta be.
+[^123]: A hatálybalépés időpontja 2021. október 14.

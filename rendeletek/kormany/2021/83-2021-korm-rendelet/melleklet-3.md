@@ -182,6 +182,8 @@
 
 | 91. | Szegedi Tudományegyetem Science Park Szeged Tudományos és Innovációs Park megvalósítása | Szeged II. kerület külterület 01392/3, 01392/4, 01392/6, 01392/17, 01392/23, 01392/24, 01392/26, 01392/27, 01392/28, 01392/29, 01392/33, 01392/36 helyrajzi számú ingatlanok | Csongrád-Csanád Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^177]
+| 92. | Köznevelési intézmény korszerűsítése | Budapest VII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 33379 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
 
-[^177]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^180]
+
+[^180]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
