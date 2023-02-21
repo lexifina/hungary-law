@@ -1,4 +1,4 @@
-4/A. §[^4] (1) Az 1. § (1) bekezdésében meghatározott földrészletek közül a 2. mellékletben megjelölt, az Egységes Országos Vetületi Rendszerben megadott koordináták (a továbbiakban: EOV koordináták) által lehatárolt ingatlanrészen megvalósuló beépítés szabályait a (2)–(6) bekezdés állapítja meg azzal, hogy
+4/A. §[^4] (1)[^5] Az 1. § (1) bekezdésében meghatározott földrészletek közül a 2. mellékletben megjelölt, az Egységes Országos Vetületi Rendszerben megadott koordináták (a továbbiakban: EOV koordináták) által lehatárolt ingatlanrészen, valamint a Komárom város külterületén az ingatlan-nyilvántartás szerinti 036/1, 036/2, 036/4, 036/5, 036/6, 036/7, 036/8, 036/9, 036/10, 036/11, 036/12, 036/13, 036/14, 036/15, 036/16, 036/17, 038/2 helyrajzi számokon nyilvántartott földrészleteken, illetve az ezen földrészletekből a telekalakítási eljárás véglegessé válását követően kialakított földrészleteken megvalósuló beépítés szabályait a (2)–(6) bekezdés állapítja meg azzal, hogy
 
 a) a hatályos településrendezési eszközök és az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2)–(6) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -35,3 +35,4 @@ a) – az OTÉK 4. számú melléklete szerint meghatározott számú – szemé
 b) autóbusz-várakozóhelyet nem kell biztosítani.
 
 [^4]: A 4/A. §-t a 47/2021. (II. 5.) Korm. rendelet 2. §-a iktatta be.
+[^5]: A 4/A. § (1) bekezdés nyitó szövegrésze a 44/2023. (II. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
