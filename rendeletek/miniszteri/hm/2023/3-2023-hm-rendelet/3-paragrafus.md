@@ -1,0 +1,9 @@
+## 2. A honvédelmi szolgálati juttatás folyósítása
+
+3. § (1) A központi pénzügyi szervezet a honvédelmi szolgálati juttatást havonta utólag, a tárgyhónapot követő hónap 10. napjáig a honvédelmi szolgálati juttatásra jogosult által megjelölt fizetési számlára történő átutalással folyósítja.
+
+(2) Ha a honvédelmi szolgálati juttatás összegét megállapító határozat az R. 2. § (1) bekezdésében meghatározott időpontot követően emelkedik jogerőre, a központi pénzügyi szervezet a honvédelmi szolgálati juttatásra való jogosultság kezdő napjától a honvédelmi szolgálati juttatás összegét megállapító határozat jogerőre emelkedésének napjáig járó honvédelmi szolgálati juttatás összegét visszamenőleg, a honvédelmi szolgálati juttatás összegét megállapító határozat jogerőre emelkedésének napját követő hónap 10. napjáig a honvédelmi szolgálati juttatásra jogosult által megjelölt fizetési számlára történő átutalással folyósítja.
+
+(3) Ha a honvédelmi szolgálati juttatás összegét megállapító határozat az adott hónap 20. napját követően emelkedik jogerőre, a központi pénzügyi szervezet a honvédelmi szolgálati juttatást – az (1) és (2) bekezdéstől eltérően – a honvédelmi szolgálati juttatás összegét megállapító határozat jogerőre emelkedését követő második hónap 10. napjáig a honvédelmi szolgálati juttatásra jogosult által megjelölt fizetési számlára történő átutalással folyósítja.
+
+(4) A honvédelmi szolgálati juttatásra való jogosultság hóközi megállapítása, az R. 2. § (5) bekezdése szerinti megszűnése esetén a törthónapra járó honvédelmi szolgálati juttatás összegének meghatározásakor a teljes hónapra járó honvédelmi szolgálati juttatás összegét el kell osztani az adott hónap naptári napjainak a számával, és az így kapott, forintra kerekített összeget meg kell szorozni a törthónap azon naptári napjainak a számával, amely alatt a honvédelmi szolgálati juttatásra való jogosultság fennállt.

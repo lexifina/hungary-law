@@ -1,0 +1,1 @@
+A honvédek jogállásáról szóló 2012. évi CCV. törvény hatálya alá tartozókra vonatkozó egyes veszélyhelyzeti intézkedésekről szóló 8/2023. (I. 17.) Korm. rendelet 9. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 112. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
