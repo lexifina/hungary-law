@@ -1,4 +1,4 @@
-252/B. §[^208] A tanuló, illetve a képzésben részt vevő személy mentesül a duális képzőhelyen történő rendelkezésreállási és munkavégzési kötelezettségének teljesítése alól
+252/B. §[^209] A tanuló, illetve a képzésben részt vevő személy mentesül a duális képzőhelyen történő rendelkezésreállási és munkavégzési kötelezettségének teljesítése alól
 
 a) a közismereti és olyan oktatási napokon, amikor a szakirányú oktatáshoz kapcsolódó tananyagelemet a szakirányú oktatás 223/A. § (2) bekezdése szerint közösen elfogadott képzési programja szerint a szakképző intézmény végzi,
 
@@ -8,4 +8,4 @@ c) a tanuló, illetve a képzésben részt vevő személy vizsgája napján és 
 
 d) minden olyan esetben, amikor a munkajogi szabályok szerint a munkavállaló mentesül a munkavégzési kötelezettség alól.
 
-[^208]: A 252/B. §-t a 380/2021. (VI. 30.) Korm. rendelet 37. §-a iktatta be.
+[^209]: A 252/B. §-t a 380/2021. (VI. 30.) Korm. rendelet 37. §-a iktatta be.
