@@ -1,0 +1,3 @@
+2. § Az R. a következő 61. §-sal egészül ki:
+
+„61. § E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 45/2023. (II. 20.) Korm. rendelettel (a továbbiakban: Módr53.) módosított 3. § (3) bekezdését, 3. § (5) bekezdését, 6/X. §-át, valamint 2. mellékletébenfoglalt táblázat 92. sorát a Módr53. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
