@@ -12,7 +12,7 @@ b)[^7] az Ipari Védekezési Munkabizottságban a Budapest Főváros Kormányhiv
 
 a) részt vesznek a minisztérium katasztrófavédelmi feladatainak ellátásában,
 
-b) területi szerveik útján a külön jogszabályban[^8] vagy intézkedésben meghatározottak szerint részt vesznek a megyei (fővárosi) védelmi bizottságok katasztrófavédelmi tevékenységében,
+b)[^8] területi szerveik útján a külön jogszabályban[^9] vagy intézkedésben meghatározottak szerint részt vesznek a vármegyei (fővárosi) védelmi bizottságok katasztrófavédelmi tevékenységében,
 
 c) engedélyezési és felügyeleti feladataik keretében gondoskodnak a katasztrófák megelőzésével összefüggő ágazati előírások érvényesítéséről,
 
@@ -24,4 +24,5 @@ e) feladat- és hatáskörüknek megfelelően gondoskodnak a részükre külön 
 [^5]: A katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény végrehajtásáról szóló 179/1999. (XII. 10.) Korm. rendelet (a továbbiakban: Vhr.) 5. § (1) bekezdés.
 [^6]: Az 5. § (1) bekezdés a) pontja az 1/2017. (I. 3.) NFM rendelet 34. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^7]: Az 5. § (1) bekezdésének b) pontja a 86/2006. (XII. 26.) GKM rendelet 9. § (1) bekezdésével megállapított, az 1/2017. (I. 3.) NFM rendelet 34. § (2) bekezdés d)–e) pontja, a 24/2017. (VI. 30.) NFM rendelet 1. § a) pontja, a 2/2022. (I. 7.) ITM rendelet 1. § a) pontja szerint módosított szöveg.
-[^8]: Vhr.
+[^8]: Az 5. § (2) bekezdés b) pontja a 2/2023. (II. 20.) ÉKM rendelet 4. § a) pontja szerint módosított szöveg.
+[^9]: Vhr.
