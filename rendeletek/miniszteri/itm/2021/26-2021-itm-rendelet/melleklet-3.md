@@ -1,4 +1,4 @@
-## A TEN-T közúti hálózat elemei Magyarországon
+## 1X05749_0
 
 |  | A | B | C | D | E |
 
@@ -111,3 +111,5 @@
 | 54. | 55. sz. főút | 8–98 | Baja – Szeged |
 
 3. melléklet a 26/2021. (VI. 28.) ITM rendelethez
+
+Az országos közúthálózat számozási rendszere és az utak számozása, szektorelv

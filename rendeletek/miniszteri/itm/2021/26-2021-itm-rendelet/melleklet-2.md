@@ -1,4 +1,4 @@
-## Az ENSZ EGB nemzetközi („E” jelzésű) úthálózatához tartozó közutak Magyarországon
+## 1X05745_0
 
 |  | A | B | C | D | E |
 
@@ -151,3 +151,5 @@
 | 74. | M4 | 211 + 025 | 242 + 037 |
 
 2. melléklet a 26/2021. (VI. 28.) ITM rendelethez
+
+A TEN-T közúti hálózat elemei Magyarországon

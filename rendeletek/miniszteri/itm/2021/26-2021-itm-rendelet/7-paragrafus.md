@@ -12,7 +12,7 @@ c) a közforgalom elől el nem zárt magánutak esetén a tulajdonos által megh
 
 d) a Magyar Közút Nonprofit Zrt. kezelésében lévő kerékpárutakra a 4. melléklet A. és B. pontja esetében is a mellékutakon alkalmazott díjtételek figyelembevételével
 
-## kell megállapítani.
+kell megállapítani.
 
 (3) Nem kell igénybevételi díjat fizetni
 
@@ -22,7 +22,7 @@ b) a közút építéséhez vagy üzemeltetéséhez, fenntartásához kapcsolód
 
 c) az állami, önkormányzati vagy egyházi ünnepeken rendezett legfeljebb 2 óra időtartamú megemlékezés
 
-## esetén, ha az elfoglalt útterület járműforgalmának elvezetésére az érintett közútkezelő műszakilag alkalmas terelőutat jelöl ki.
+esetén, ha az elfoglalt útterület járműforgalmának elvezetésére az érintett közútkezelő műszakilag alkalmas terelőutat jelöl ki.
 
 (4) Az igénybevételi díj szempontjából elfoglalt útterületnek a forgalom számára nem járható, korlátozóelemekkel lehatárolt, útburkolattal rendelkező teljes terület számít.
 
