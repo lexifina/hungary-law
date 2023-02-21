@@ -2,9 +2,9 @@
 
 (2) Az adatközlést
 
-a)[^28] a bíróság vagy az eljáró hatóság előtt indult eljárásban hozott döntés véglegessé válásának,
+a)[^31] a bíróság vagy az eljáró hatóság előtt indult eljárásban hozott döntés véglegessé válásának,
 
-b)[^29] a bírság mértékének csökkentésére vagy a véglegesen kiszabott bírságra vonatkozó fizetési kedvezményről szóló döntésnek,
+b)[^32] a bírság mértékének csökkentésére vagy a véglegesen kiszabott bírságra vonatkozó fizetési kedvezményről szóló döntésnek,
 
 c) a nyilvántartott bírságadatai módosulása azonosításának,
 
@@ -14,7 +14,7 @@ e) a bírság megfizetésének,
 
 f) az adók módjára történő behajtás elrendeléséről szóló döntés meghozatalának,
 
-g)[^30] a gépjárművezető távollétében kiszabott bírság megfizetésének
+g)[^33] a gépjárművezető távollétében kiszabott bírság megfizetésének
 
 napjától számított öt munkanapon belül kell teljesíteni.
 
@@ -28,6 +28,6 @@ napjától számított öt munkanapon belül kell teljesíteni.
 
 (7) A közlekedési hatóság gondoskodik a kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása, nyilvánosságra hozatala vagy törlése, illetve sérülés vagy megsemmisülés elleni védelméről, valamint felel a nyilvántartásból történő adatszolgáltatás jogszerűségéért.
 
-[^28]: A 12. § (2) bekezdés a) pontja az 55/2017. (XII. 27.) NFM rendelet 47. § b) pontja szerint módosított szöveg.
-[^29]: A 12. § (2) bekezdés b) pontja az 55/2017. (XII. 27.) NFM rendelet 47. § c) pontja szerint módosított szöveg.
-[^30]: A 12. § (2) bekezdés g) pontját a 47/2012. (VIII. 23.) NFM rendelet 7. §-a iktatta be.
+[^31]: A 12. § (2) bekezdés a) pontja az 55/2017. (XII. 27.) NFM rendelet 47. § b) pontja szerint módosított szöveg.
+[^32]: A 12. § (2) bekezdés b) pontja az 55/2017. (XII. 27.) NFM rendelet 47. § c) pontja szerint módosított szöveg.
+[^33]: A 12. § (2) bekezdés g) pontját a 47/2012. (VIII. 23.) NFM rendelet 7. §-a iktatta be.

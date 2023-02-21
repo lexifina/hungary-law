@@ -1,6 +1,6 @@
 2. melléklet a 42/2011. (VIII. 11.) NFM rendelethez
 
-## Írásbeli tájékoztatás a visszatartásról
+Írásbeli tájékoztatás a visszatartásról
 
 1. Az eljáró hatóság megnevezése.
 

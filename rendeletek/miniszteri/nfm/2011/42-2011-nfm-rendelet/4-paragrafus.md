@@ -6,6 +6,6 @@ a) az 1. § a) pontja alapján kivetett és befizetett bírság összegét a kö
 
 b) az 1. § c) pontja alapján kivetett és befizetett bírság összegét az utak létesítésével, korszerűsítésével, a forgalom részére történő átadásával, megszüntetésével, elbontásával, helyreállításával kapcsolatos engedélyezési, ellenőrzési, építés-felügyeleti tevékenység ellátására
 
-## az államháztartásról szóló törvényben meghatározottak figyelembevételével használhatja fel.
+az államháztartásról szóló törvényben meghatározottak figyelembevételével használhatja fel.
 
 (2) Az 1. § b) pontja alapján kivetett és befizetett bírság összege a központi költségvetést illeti meg.
