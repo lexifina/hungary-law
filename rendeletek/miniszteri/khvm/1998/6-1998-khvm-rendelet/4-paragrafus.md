@@ -18,8 +18,9 @@ figyelembevételével kell végrehajtani.
 
 a) a lehető leghosszabb összefüggő útszakaszokat azonos szolgáltatási osztályba sorolják, azonban egy-egy útszakasz a forgalomnagyság alapján a melléklet 1.1. pontjában meghatározottnál alacsonyabb osztályba csak különösen indokolt esetben sorolható,
 
-b) a települések bevezető, kivezető és lakott területen belüli szakaszai, valamint az azokhoz csatlakozó, lakott területen kívüli szakaszok, továbbá a megyehatárokon találkozó útszakaszok szolgáltatási osztálya azonos legyen.
+b)[^16] a települések bevezető, kivezető és lakott területen belüli szakaszai, valamint az azokhoz csatlakozó, lakott területen kívüli szakaszok, továbbá a vármegyehatárokon találkozó útszakaszok szolgáltatási osztálya azonos legyen.
 
 [^13]: A 3. § a 42/2004. (IV. 9.) GKM rendelet 2. §-ával megállapított, a 73/2012. (XII. 20.) NFM rendelet 6. § d) pontja szerint módosított szöveg.
 [^14]: A 4. § (1) bekezdése a 42/2004. (IV. 9.) GKM rendelet 3. §-ával megállapított, és a 48/2009. (IX. 30.) KHEM rendelet 7. § (2) bekezdése, a 73/2012. (XII. 20.) NFM rendelet 5. § c) pontja, az 1/2017. (I. 3.) NFM rendelet 11. § d) pontja szerint módosított szöveg.
 [^15]: A 4. § (3) bekezdése a 103/2005. (XII. 7.) GKM rendelet 1. §-ával megállapított szöveg.
+[^16]: A 4. § (3) bekezdés b) pontja a 2/2023. (II. 20.) ÉKM rendelet 3. § a) pontja szerint módosított szöveg.

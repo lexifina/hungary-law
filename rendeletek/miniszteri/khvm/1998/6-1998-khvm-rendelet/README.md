@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-6-20-6B
 | 2013-11-01 | 1998-6-20-6B.11 | 6/2010. (II. 16.) KHEM rendelet |
 | 2016-01-01 | 1998-6-20-6B.12 | 73/2012. (XII. 20.) NFM rendelet |
 | 2017-01-03 | 1998-6-20-6B.13 | 1/2017. (I. 3.) NFM rendelet |
+| 2023-02-21 | 1998-6-20-6B.14 | 2/2023. (II. 20.) ÉKM rendelet |
