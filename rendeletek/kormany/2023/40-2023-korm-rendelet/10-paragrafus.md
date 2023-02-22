@@ -1,1 +1,3 @@
-10. § Az R. 1. § (1) bekezdésében a „25 év tényleges szolgálati” szövegrész helyébe a „25 év – a Hjt. 92. § (1) és (2) bekezdése figyelembevételével számított – tényleges szolgálati” szöveg lép.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

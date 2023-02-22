@@ -1,11 +1,3 @@
-6. § (1) Az R. 2. § (5) bekezdés d) és e) pontja helyébe a következő rendelkezések lépnek:
+6. §[^7]
 
-(A honvédelmi szolgálati juttatás megszűnik, ha)
-
-## „d) a központi pénzügyi szervezet a jogosult kérelmére megszünteti,
-
-## e) a központi pénzügyi szervezet a (6) bekezdésben foglaltak szerint hivatalból megszünteti, vagy”
-
-(2) Az R. 2. § (5) bekezdése a következő f) ponttal egészül ki:
-
-(A honvédelmi szolgálati juttatás megszűnik, ha)
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
