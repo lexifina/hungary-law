@@ -1,4 +1,4 @@
-## 28. §[^30]
+## 28. §[^31]
 
 ## 7. Záró rendelkezések
 
@@ -18,4 +18,4 @@
 
 (8) A 4. melléklet 12. pontja 2027. július 12-én lép hatályba.
 
-[^30]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
