@@ -1,3 +1,3 @@
-5. § Az R. 43. §-a a következő f) ponttal egészül ki:
+5. §[^6]
 
-(Ez a rendelet)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
