@@ -1,7 +1,3 @@
-4. § Az R.
+4. §[^5]
 
-a) 3. § (3) bekezdésében a „84–91. sora” szövegrész helyébe a „84–92. sora” szöveg,
-
-b) 3. § (5) bekezdésében a „86–91. sora” szövegrész helyébe a „86–92. sora” szöveg
-
-lép.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
