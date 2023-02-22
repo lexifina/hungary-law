@@ -1,0 +1,1 @@
+A veszélyhelyzet ideje alatt egyes büntetés-végrehajtást érintő rendelkezések eltérő alkalmazásáról szóló 3/2023. (I. 12.) Korm. rendelet 15. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
