@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-6-20-7Q
 | 2023-01-01 | 2020-6-20-7Q.4 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2023-01-02 | 2020-6-20-7Q.5 | 2010: CXXX. törvény |
 | 2023-02-21 | 2020-6-20-7Q.6 | 32/2021. (VII. 26.) ITM rendelet |
+| 2023-02-22 | 2020-6-20-7Q.7 | 2010: CXXX. törvény |
