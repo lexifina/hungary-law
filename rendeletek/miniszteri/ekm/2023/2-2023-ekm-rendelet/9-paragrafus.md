@@ -1,13 +1,5 @@
 ## 9. A személyszállítási közszolgáltatási menetrendek egységes egyeztetési eljárásáról szóló 15/2010. (III. 5.) KHEM rendelet módosítása
 
-9. § A személyszállítási közszolgáltatási menetrendek egységes egyeztetési eljárásáról szóló 15/2010. (III. 5.) KHEM rendelet
+9. §[^10]
 
-a) 4. § (3) bekezdés b) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-b) 4. § (3) bekezdés d) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg,
-
-c) 4. § (3) bekezdés g) pontjában a „megyénként” szövegrész helyébe a „vármegyénként” szöveg,
-
-d) 5. § (1) bekezdés f) pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg
-
-lép.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
