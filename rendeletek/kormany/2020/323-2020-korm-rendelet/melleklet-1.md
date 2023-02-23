@@ -46,18 +46,18 @@ A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontbó
 
 22. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
 
-23.[^21] katasztrófavédelmi hatósági engedélyezési eljárások,
+23.[^24] katasztrófavédelmi hatósági engedélyezési eljárások,
 
-24.[^22] művelési ág megváltoztatására vonatkozó hatósági eljárások,
+24.[^25] művelési ág megváltoztatására vonatkozó hatósági eljárások,
 
-25.[^23] kapcsolódó villamos energia, gáz és egyéb közművek engedélyeztetése,
+25.[^26] kapcsolódó villamos energia, gáz és egyéb közművek engedélyeztetése,
 
-26.[^24] azok az 1–25. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+26.[^27] azok az 1–25. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
-27.[^25] az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+27.[^28] az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^21]: Az 1. melléklet 23. pontja a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontjával megállapított szöveg.
-[^22]: Az 1. melléklet 24. pontja a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontjával megállapított szöveg.
-[^23]: Az 1. melléklet 25. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
-[^24]: Az 1. melléklet 26. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
-[^25]: Az 1. melléklet 27. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
+[^24]: Az 1. melléklet 23. pontja a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontjával megállapított szöveg.
+[^25]: Az 1. melléklet 24. pontja a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontjával megállapított szöveg.
+[^26]: Az 1. melléklet 25. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
+[^27]: Az 1. melléklet 26. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.
+[^28]: Az 1. melléklet 27. pontját a 397/2020. (VIII. 12.) Korm. rendelet 1. § a) pontja iktatta be.

@@ -14,6 +14,9 @@ c) a 2. mellékletben a Beruházások megvalósításának helyszíneként megje
 
 (5)[^3] A Beruházások esetében az (1) bekezdés szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – nyolc nap, a vízügyi és vízvédelmi, a környezetvédelmi, valamint a természetvédelmi eljárások esetén tizenöt nap.
 
+(6)[^4] A Beruházások tekintetében nem kell alkalmazni a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 12. § (1) bekezdés a) pontját.
+
 [^1]: Az 1. § (3) bekezdését a 437/2022. (XI. 2.) Korm. rendelet 3. §-a iktatta be.
 [^2]: Az 1. § (4) bekezdését a 437/2022. (XI. 2.) Korm. rendelet 3. §-a iktatta be.
 [^3]: Az 1. § (5) bekezdését a 437/2022. (XI. 2.) Korm. rendelet 3. §-a iktatta be.
+[^4]: Az 1. § (6) bekezdését a 42/2023. (II. 20.) Korm. rendelet 5. §-a iktatta be.
