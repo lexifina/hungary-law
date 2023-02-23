@@ -16,4 +16,6 @@ pénzügyminiszter
 
 Határidő: folyamatos
 
-3. egyetért azzal, hogy a 2014–2020 programozási időszak forrásaiból megvalósuló, részben eszközbeszerzésre irányuló projekt esetén a projekt más lényeges céljáról eszközbeszerzésre történő forrásátcsoportosításra 2021. január 1-jétől ne legyen lehetőség.
+3.[^1]
+
+[^1]: A 3. pontot az 1044/2023. (II. 22.) Korm. határozat 4. pont a) alpontja visszavonta.
