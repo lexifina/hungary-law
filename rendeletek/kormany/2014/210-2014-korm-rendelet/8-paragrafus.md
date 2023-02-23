@@ -10,7 +10,7 @@ d)[^59] a 2. § (1) bekezdés c) pontjában foglalt eset kivételével a szintet
 
 e) az ellenszolgáltatás fejében végzett légi, tengeri, közúti, vasúti és belvízi úton történő személy- vagy áruszállítási szolgáltatás nyújtásához, vagy a kapcsolódó infrastruktúrához;
 
-f) elsődleges mezőgazdasági termeléshez;
+f)[^60] elsődleges mezőgazdasági termeléshez, kivéve, ha a támogatás tárgya az elsődleges mezőgazdasági termeléshez kapcsolódó kutatás-fejlesztési projekt, és annak nyújtására a 2. § (1) bekezdés b) pontja alapján kerül sor;
 
 g) mezőgazdasági termék feldolgozásához, ha
 
@@ -20,13 +20,13 @@ gb) a támogatás az elsődleges termelőknek történő teljes vagy részleges 
 
 h) az 1379/2013/EU rendelet hatálya alá tartozó halászati és akvakultúra-ágazatban történő beruházáshoz;
 
-i)[^60] energiatermelést, energiaszolgáltatást, valamint az energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz a 18. § (8) bekezdésében foglaltak figyelembevételével;
+i)[^61] energiatermelést, energiaszolgáltatást, valamint az energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz a 18. § (8) bekezdésében foglaltak figyelembevételével;
 
 j) kereskedelmi tevékenységhez;
 
 k) koncesszióköteles körbe tartozó tevékenységet megvalósító beruházáshoz;
 
-l)[^61] turisztikai tevékenységre irányuló beruházáshoz;
+l)[^62] turisztikai tevékenységre irányuló beruházáshoz;
 
 m) szélessávú infrastruktúra kiépítését szolgáló beruházáshoz;
 
@@ -40,42 +40,43 @@ q) olyan támogatásként, amelynek feltétele, hogy a kedvezményezett belföld
 
 r) olyan támogatásként, amely korlátozza a kedvezményezett azon lehetőségét, hogy a kutatás-fejlesztés és innováció eredményeit más tagállamokban hasznosítsa;
 
-s)[^62] alapkutatáshoz, a regionális szolgáltató központ által végezhető, az 1. melléklet 6. pontjában szereplő 72. ágazat keretébe tartozó alapkutatás kivételével;
+s)[^63] alapkutatáshoz, a regionális szolgáltató központ által végezhető, az 1. melléklet 6. pontjában szereplő 72. ágazat keretébe tartozó alapkutatás kivételével;
 
 t) az általános csoportmentességi rendelet 1. cikke (3) bekezdésének d) pontjában kizárt ágazathoz, és olyan feltétellel amely az általános csoportmentességi rendelet 1. cikkének (5) bekezdésébe ütközik.
 
-u)[^63] a 2. § (1) bekezdés c) pontjában foglalt esetben a lignitipar fejlesztéséhez.
+u)[^64] a 2. § (1) bekezdés c) pontjában foglalt esetben a lignitipar fejlesztéséhez.
 
 (2) E rendelet alapján nem nyújtható továbbá támogatás
 
-a)[^64] nehéz helyzetben lévő vállalkozás részére, kivéve azt a vállalkozást, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és 2021. június 30. között nehéz helyzetbe került,
+a)[^65] nehéz helyzetben lévő vállalkozás részére, kivéve azt a vállalkozást, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és 2021. június 30. között nehéz helyzetbe került,
 
-b)[^65] azon vállalkozás részére, amely nem szerepel a köztartozásmentes adózói adatbázisban legkésőbb a támogatási szerződés megkötésének napjáig,
+b)[^66] azon vállalkozás részére, amely nem szerepel a köztartozásmentes adózói adatbázisban legkésőbb a támogatási szerződés megkötésének napjáig,
 
-c)[^66] azon vállalkozás részére, amely nem felel meg a rendezett munkaügyi kapcsolatok követelményének a támogatási kérelem benyújtását megelőző 2 naptári éven belül és a támogatási szerződés aláírásakor,
+c)[^67] azon vállalkozás részére, amely nem felel meg a rendezett munkaügyi kapcsolatok követelményének a támogatási kérelem benyújtását megelőző 2 naptári éven belül és a támogatási szerződés aláírásakor,
 
-d)[^67] annak a vállalkozásnak, amelyik a beruházást, vagy a fejlesztést olyan ingatlanon kívánja megvalósítani, amely a támogatás odaítélésének időpontjában nem per- és igénymentes, kivéve, ha a támogatást kérelmező, vagy valamely állami támogatás okán a támogatást nyújtó költségvetési szerv az igény jogosultja, vagy az igény a beruházás érdekében jött létre, továbbá kivéve, ha az ingatlant a helyi önkormányzat javára bejegyzett vételi jog vagy visszavásárlási jog terheli, ha azok gyakorlására a helyi önkormányzat csak azzal a feltétellel jogosult, ha a beruházás meghiúsult, minden esetben azzal, hogy a támogató az igény fennállásához a támogatási szerződésben vagy annak hatálya alatt előzetesen hozzájárul. Ez utóbbi hozzájárulás esetén az Ávr. 102. §-ának foglalkoztatási, szolgáltatási és egyéb kötelezettségek átvállalására, átruházására vonatkozó rendelkezések nem alkalmazandók.
+d)[^68] annak a vállalkozásnak, amelyik a beruházást, vagy a fejlesztést olyan ingatlanon kívánja megvalósítani, amely a támogatás odaítélésének időpontjában nem per- és igénymentes, kivéve, ha a támogatást kérelmező, vagy valamely állami támogatás okán a támogatást nyújtó költségvetési szerv az igény jogosultja, vagy az igény a beruházás érdekében jött létre, továbbá kivéve, ha az ingatlant a helyi önkormányzat javára bejegyzett vételi jog vagy visszavásárlási jog terheli, ha azok gyakorlására a helyi önkormányzat csak azzal a feltétellel jogosult, ha a beruházás meghiúsult, minden esetben azzal, hogy a támogató az igény fennállásához a támogatási szerződésben vagy annak hatálya alatt előzetesen hozzájárul. Ez utóbbi hozzájárulás esetén az Ávr. 102. §-ának foglalkoztatási, szolgáltatási és egyéb kötelezettségek átvállalására, átruházására vonatkozó rendelkezések nem alkalmazandók.
 
-e)[^68] annak a vállalkozásnak, amelyik a beruházást vagy a fejlesztést olyan bérelt vagy lízingelt ingatlanon kívánja megvalósítani, amely esetében a bérleti, illetve a lízingszerződés kizárólagos joggal nem biztosítja a támogatással megvalósuló létesítmény üzemeltetésének lehetőségét legalább a kötelező üzemeltetési időszak idejére, és
+e)[^69] annak a vállalkozásnak, amelyik a beruházást vagy a fejlesztést olyan bérelt vagy lízingelt ingatlanon kívánja megvalósítani, amely esetében a bérleti, illetve a lízingszerződés kizárólagos joggal nem biztosítja a támogatással megvalósuló létesítmény üzemeltetésének lehetőségét legalább a kötelező üzemeltetési időszak idejére, és
 
 ea) a támogatási szerződésben nem vállalja, hogy a bérleti, illetve a lízingszerződés lejárta előtt a fenti feltételeknek megfelelő helyszín rendelkezésre állását igazolja, vagy
 
 eb) a támogatási szerződésben nem vállalja, hogy a beruházás eredeti helyszínével azonos tervezési-statisztikai régióban fekvő másik, a fenti feltételeknek megfelelő helyszín rendelkezésre állását igazolja, feltéve, hogy a beruházás vagy fejlesztés megfelel az új helyszínre vonatkozó, a 9. § (1) bekezdésében meghatározott jogosultsági feltételeknek,
 
-f)[^69] olyan vállalkozásnak, vagy olyan vállalkozás kapcsolt vállalkozásának, amely az Európai Bizottság korábbi, Magyarországnak címzett határozata alapján tiltott állami támogatásban részesült, és ezért a támogatás visszafizetésére kötelezték, és ezen visszafizetési kötelezettségének nem tett eleget.
+f)[^70] olyan vállalkozásnak, vagy olyan vállalkozás kapcsolt vállalkozásának, amely az Európai Bizottság korábbi, Magyarországnak címzett határozata alapján tiltott állami támogatásban részesült, és ezért a támogatás visszafizetésére kötelezték, és ezen visszafizetési kötelezettségének nem tett eleget.
 
-g)[^70] olyan beruházáshoz, amely bármely más vissza nem térítendő költségvetési támogatásban részesül, kivéve, ha az adott támogatás nyújtásának feltétele az e rendelet alapján nyújtott támogatás.
+g)[^71] olyan beruházáshoz, amely bármely más vissza nem térítendő költségvetési támogatásban részesül, kivéve, ha az adott támogatás nyújtásának feltétele az e rendelet alapján nyújtott támogatás.
 
 [^58]: A 8. § (1) bekezdése a 426/2016. (XII. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^59]: A 8. § (1) bekezdés d) pontja a 310/2022. (VIII. 11.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^60]: A 8. § (1) bekezdés i) pontja a 36/2019. (III. 5.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^61]: A 8. § (1) bekezdés l) pontja a 720/2021. (XII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^62]: A 8. § (1) bekezdés s) pontja a 36/2019. (III. 5.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^63]: A 8. § (1) bekezdés u) pontját a 310/2022. (VIII. 11.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^64]: A 8. § (2) bekezdés a) pontja a 463/2020. (X. 21.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^65]: A 8. § (2) bekezdés b) pontja a 36/2019. (III. 5.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^66]: A 8. § (2) bekezdés c) pontja a 36/2019. (III. 5.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^67]: A 8. § (2) bekezdés d) pontja a 426/2016. (XII. 15.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^68]: A 8. § (2) bekezdés e) pontja a 36/2019. (III. 5.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
-[^69]: A 8. § (2) bekezdés f) pontja a 463/2020. (X. 21.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^70]: A 8. § (2) bekezdés g) pontja a 227/2019. (IX. 26.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^60]: A 8. § (1) bekezdés f) pontja az 50/2023. (II. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^61]: A 8. § (1) bekezdés i) pontja a 36/2019. (III. 5.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^62]: A 8. § (1) bekezdés l) pontja a 720/2021. (XII. 20.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^63]: A 8. § (1) bekezdés s) pontja a 36/2019. (III. 5.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^64]: A 8. § (1) bekezdés u) pontját a 310/2022. (VIII. 11.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^65]: A 8. § (2) bekezdés a) pontja a 463/2020. (X. 21.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^66]: A 8. § (2) bekezdés b) pontja a 36/2019. (III. 5.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^67]: A 8. § (2) bekezdés c) pontja a 36/2019. (III. 5.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^68]: A 8. § (2) bekezdés d) pontja a 426/2016. (XII. 15.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^69]: A 8. § (2) bekezdés e) pontja a 36/2019. (III. 5.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^70]: A 8. § (2) bekezdés f) pontja a 463/2020. (X. 21.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^71]: A 8. § (2) bekezdés g) pontja a 227/2019. (IX. 26.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.

@@ -8,7 +8,7 @@
 
 (4) Nem minősül elszámolható költségnek
 
-a) a 18. § (2) bekezdésében felsorolt költség – ide nem értve a 18. § (2) bekezdés 27. pontját –,
+a)[^193] – a 18. § (2) bekezdés 27. pontja kivételével – a 18. § (2) bekezdése szerinti költség,
 
 b) az ingatlanvásárlás költsége,
 
@@ -25,3 +25,5 @@ g) az önellátást meghaladó mértékű energiatermelő beruházás arányos k
 (5) A támogatás alapja a beruházás ÁFA nélkül számított nettó összköltsége.
 
 (6) A támogatott beruházás kapcsán beszerzett eszköznek számviteli szempontból újnak kell lennie, és az egy vállalatcsoporton belülről beszerzett új eszközök esetén az elszámolható költség alapja nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
+
+[^193]: A 26/ZL. § (4) bekezdés a) pontja az 50/2023. (II. 22.) Korm. rendelet 6. §-ával megállapított szöveg.
