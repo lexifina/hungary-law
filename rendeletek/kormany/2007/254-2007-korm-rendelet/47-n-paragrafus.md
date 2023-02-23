@@ -1,6 +1,6 @@
 ## Az elektronikus árverésre kerülő vagyontárgyak kikiáltási árai
 
-47/N. §[^258] (1) Ingatlan, értékpapír, társasági részesedés árverése esetén az árverési tétel kikiáltási ára:
+47/N. §[^261] (1) Ingatlan, értékpapír, társasági részesedés árverése esetén az árverési tétel kikiáltási ára:
 
 a) az első árverés során legalább az árverési tétel becsértéke,
 
@@ -16,4 +16,4 @@ b) az ötödik árverés során legalább az első árverés során alkalmazott 
 
 c) a hatodik árverés során egyezer forint.
 
-[^258]: A 47/N. § a 604/2022. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^261]: A 47/N. § a 604/2022. (XII. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
