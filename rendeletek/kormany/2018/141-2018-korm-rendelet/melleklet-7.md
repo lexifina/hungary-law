@@ -738,8 +738,8 @@
 
 | 6. | 669 368,90 | 232 810,04 |
 
-7. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^330]
+7. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^333]
 
 A 2. mellékletben foglalt táblázat B:7a mezőjében megjelölt telkek közúti közlekedési célt szolgáló területének lehatárolása a terület határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátáival
 
-[^330]: A 7. mellékletet a 811/2021. (XII. 28.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^333]: A 7. mellékletet a 811/2021. (XII. 28.) Korm. rendelet 4. § (1) bekezdése iktatta be.

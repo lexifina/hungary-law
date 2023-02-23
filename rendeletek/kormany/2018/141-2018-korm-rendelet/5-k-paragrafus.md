@@ -1,4 +1,4 @@
-5/K. §[^27] (1) A 2. mellékletben foglalt táblázat 101. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+5/K. §[^28] (1) A 2. mellékletben foglalt táblázat 101. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -6,4 +6,4 @@ b) ha a hatályos településrendezési terv és az OTÉK a beépítés (2) beke
 
 (2) A 2. mellékletben foglalt táblázat 101. sora szerinti beruházással érintett ingatlanra vonatkozóan a zöldfelület megengedett legkisebb mértéke 15%.
 
-[^27]: Az 5/K. §-t a 211/2022. (VI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^28]: Az 5/K. §-t a 211/2022. (VI. 14.) Korm. rendelet 1. §-a iktatta be.

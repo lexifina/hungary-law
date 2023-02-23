@@ -1,4 +1,4 @@
-## 73. §[^241] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 630/2021. (XI. 16.) Korm. rendelettel (a továbbiakban: Módr65.) megállapított 2. mellékletében foglalt táblázat 77. sorát a Módr65. hatálybalépésekor[^242] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 73. §[^242] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 630/2021. (XI. 16.) Korm. rendelettel (a továbbiakban: Módr65.) megállapított 2. mellékletében foglalt táblázat 77. sorát a Módr65. hatálybalépésekor[^243] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^241]: A 73. §-t a 630/2021. (XI. 16.) Korm. rendelet 1. §-a iktatta be.
-[^242]: A hatálybalépés időpontja 2021. november 17.
+[^242]: A 73. §-t a 630/2021. (XI. 16.) Korm. rendelet 1. §-a iktatta be.
+[^243]: A hatálybalépés időpontja 2021. november 17.
