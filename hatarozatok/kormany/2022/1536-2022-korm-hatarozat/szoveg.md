@@ -24,11 +24,7 @@ d) felhívja a területfejlesztési minisztert, hogy a Gazdaságfejlesztési és
 
 | Határidő: | 2022. december 31. |
 
-e) felhívja a területfejlesztési minisztert, hogy azon projektek vonatkozásában, amelyek esetén indokolt az éves fejlesztési keretek módosításainak pénzügyi hatásairól szóló 1481/2020. (VIII. 7.) Korm. határozat 3. pontja szerinti tilalom részleges vagy teljes feloldása, tegyen javaslatot a Kormány részére e tilalom feloldására;
-
-| Felelős: | területfejlesztési miniszter |
-
-| Határidő: | 2022. november 15. |
+e) [^1]
 
 f) felhívja az építési és beruházási minisztert, valamint a területfejlesztési minisztert, hogy vizsgálják felül a Magyarország szomszédságában zajló háború idején a rezsicsökkentés megvédése és a honvédelmi célok teljesítése érdekében szükséges költségvetési intézkedésekről szóló 1281/2022. (VI. 4.) Korm. határozat [a továbbiakban: 1281/2022. (VI. 4.) Korm. határozat] 2. pontja szerinti felfüggesztéssel érintett, európai uniós forrás terhére finanszírozott állami beruházások körét;
 
@@ -42,6 +38,7 @@ g) felhívja az érintett minisztereket, hogy az f) alpont szerinti felülvizsg�
 
 | Határidő: | folyamatos |
 
-2.[^1]
+2.[^2]
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont e) alpontját az 1044/2023. (II. 22.) Korm. határozat 4. pont b) alpontja visszavonta.
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
