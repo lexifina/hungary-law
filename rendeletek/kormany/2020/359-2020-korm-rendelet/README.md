@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-359-20-
 | 2021-04-10 | 2020-359-20-22.2 | 174/2021. (IV. 9.) Korm. rendelet |
 | 2021-07-01 | 2020-359-20-22.3 | 342/2021. (VI. 15.) Korm. rendelet |
 | 2023-01-05 | 2020-359-20-22.4 | 342/2021. (VI. 15.) Korm. rendelet |
+| 2023-02-23 | 2020-359-20-22.5 | 42/2023. (II. 20.) Korm. rendelet |
