@@ -18,4 +18,6 @@ A Kormány
 
 | Határidő: | 2024. március 1. |
 
-4. visszavonja a helyközi autóbusz-közlekedés közszolgáltatásának pályáztatásához szükséges intézkedésekről szóló 1949/2020. (XII. 18.) Korm. határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
