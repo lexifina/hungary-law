@@ -1,3 +1,3 @@
-1. § A beruházás ösztönzési célelőirányzat felhasználásáról szóló 210/2014. (VIII. 27.) Korm. rendelet (a továbbiakban: Korm. rendelet) 8. § (1) bekezdés f) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(Az Ávr. 81. §-ában meghatározottakon kívül e rendelet alapján nem nyújtható támogatás)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

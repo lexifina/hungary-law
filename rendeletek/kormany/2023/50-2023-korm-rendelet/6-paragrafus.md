@@ -1,3 +1,3 @@
-6. § A Korm. rendelet 26/ZL. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
+6. §[^7]
 
-(Nem minősül elszámolható költségnek)
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

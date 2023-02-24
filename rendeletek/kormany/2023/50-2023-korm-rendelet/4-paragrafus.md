@@ -1,3 +1,3 @@
-4. § A Korm. rendelet 26. § (2) bekezdés e) és f) pontja helyébe a következő rendelkezések lépnek:
+4. §[^5]
 
-(A támogató eláll a támogatási szerződéstől, ha)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

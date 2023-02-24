@@ -1,5 +1,3 @@
-11. § Hatályát veszti a Korm. rendelet
+11. §[^12]
 
-a) 18. § (2) bekezdés 27. pontjában az „a (7) bekezdésben meghatározott kivételekkel,” szövegrész,
-
-b) 18. § (7) bekezdése.
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
