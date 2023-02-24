@@ -4,7 +4,7 @@ a) földvédelmi hatósági és földvédelmi szakhatósági, valamint
 
 b) földminősítési
 
-## eljárások során fizetendő igazgatási szolgáltatási díj (a továbbiakban: díj) mértékének megállapítására, valamint a díj megfizetésének szabályaira terjed ki.
+eljárások során fizetendő igazgatási szolgáltatási díj (a továbbiakban: díj) mértékének megállapítására, valamint a díj megfizetésének szabályaira terjed ki.
 
 (2) E rendelet szerint megállapított díjak nem foglalják magukba a földvédelmi eljárás során – a földvédelmi szakkérdés vizsgálatának kivételével – más szakkérdések vizsgálatával kapcsolatos költségeket.
 
