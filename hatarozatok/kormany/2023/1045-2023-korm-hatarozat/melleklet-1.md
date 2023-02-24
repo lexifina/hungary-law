@@ -12,13 +12,7 @@
 
 | Határidő: | az e határozat közzétételét követő 60 napon belül |
 
-## 2. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat
-
-## a) 1. melléklet 3. pontjában foglalt táblázat C:31 mezőjében a „6,29” szövegrész helyébe a „6,92” szöveg,
-
-## b) 2. melléklet D:62a. mezőjében a „6,29” szövegrész helyébe a „6,92” szöveg
-
-## lép.
+## 2.[^1]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -29,3 +23,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Projekt eredeti támogatási összege (forint) | Projekt hatályos támogatási szerződés szerinti támogatása (forint) | Többlettámogatás az EFOP-3.7.1-17 felhívás keretéből (forint) | Projekt megnövelt támogatása (forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-3.7.1-17-2017-00001 | Aktívan a tudásért | Társadalmi Esélyteremtési Főigazgatóság | 6 300 000 000 | 6 289 040 194 | 627 660 462 | 6 916 700 656 | Az alacsony iskolai végzettségű vagy iskolai végzettséggel nem rendelkező, 16–60 év közötti személyek bevonása általános iskola befejezését támogató, valamint a funkcionális analfabetizmust mérséklő, illetve alapkészségeiket, kompetenciáikat fejlesztő képzésekbe, foglalkoztathatóvá válásuk és öngondoskodásra való képességük segítése érdekében. |
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
