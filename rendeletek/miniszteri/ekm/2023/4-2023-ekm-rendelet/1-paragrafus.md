@@ -1,0 +1,1 @@
+1. § Az építési beruházások megvalósítására kötött szerződések módosításának kezdeményezéséről szóló 13/2023. (I. 24.) Korm. rendelet (a továbbiakban: Korm. rendelet) 1. §-a szerinti építőanyagok és beépítésre kerülő építőipari termékek listáját az 1. melléklet tartalmazza.

@@ -1,0 +1,1 @@
+Az építési beruházások megvalósítására kötött szerződések módosításának kezdeményezéséről szóló 13/2023. (I. 24.) Korm. rendelet 4. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 95. § 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
