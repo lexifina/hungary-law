@@ -1,3 +1,3 @@
-6. § A 323/2020. (VII. 1.) Korm. rendelet a következő 14. §-sal egészül ki:
+6. §[^7]
 
-„14. § E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 42/2023. (II. 20.) Korm. rendelettel (a továbbiakban: Módr7.) megállapított 1. § (6) bekezdését a Módr7. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

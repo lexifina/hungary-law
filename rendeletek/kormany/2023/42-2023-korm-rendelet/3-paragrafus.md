@@ -1,5 +1,5 @@
 ## 2. Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosítása
 
-3. § Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet [a továbbiakban: 141/2018. (VII. 27.) Korm. rendelet] 3. §-a a következő (2a) bekezdéssel egészül ki:
+3. §[^4]
 
-„(2a) A 2. mellékletbenfoglalt táblázat 7., 7a., 34., 42., 58., 63., 69., 71., 78., 79., 83., 85., 86., 100., 101. és 108. sora szerinti beruházás esetében nem kell alkalmazni a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 12. § (1) bekezdés a) pontját.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
