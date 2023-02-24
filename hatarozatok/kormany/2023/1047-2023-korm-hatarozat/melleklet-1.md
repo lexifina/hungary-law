@@ -14,13 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat
-
-## a) 1. melléklet 7. pontjában foglalt táblázat C:6 mezőjében az „5,08” szövegrész helyébe a „4,27” szöveg,
-
-## b) 1. melléklet 7. pontjában foglalt táblázat C:8 mezőjében az „51,915” szövegrész helyébe az „52,728” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1047/2023. (II. 22.) Korm. határozathoz
 
@@ -29,3 +23,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Hatályos támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | GINOP-7.1.9-17-2018-00023 | Veszprém kulturális turisztikai kínálatának fejlesztése | Veszprém Megyei Jogú Város Önkormányzata, Balatongyörök Község Önkormányzata, Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság, Magyar Turisztikai Szövetség Alapítvány | 1 500 000 000 | 881 849 234 | 2 381 849 234 | A projekt célja a Veszprémi vár turisztikai kínálatának további fejlesztése egy olyan területen, amely közvetlenül kapcsolódik a vár vonzáskörzetéhez, azonban évek óta elhanyagoltan, kihasználatlanul áll. Itt kerül kialakításra egy rendezvénytér, ahol több, új funkcióval rendelkező épület kap helyet: kávézó-ajándékbolt, gyermekfoglalkoztató, kiállítóterem makettkiállítással, illetve a Kabóca Bábszínház épülete. A kiemelt turisztikai látványosságok új díszvilágítást kapnak, illetve a parkolóterület nagysága is bővül a területen. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
