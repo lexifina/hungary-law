@@ -12,17 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat
-
-## a) 1. melléklet 1. pontjában foglalt táblázat C:38i. mezőjében az „1,00” szövegrész helyébe az „1,07” szöveg,
-
-## b) 1. melléklet 2. pontjában foglalt táblázat C:16j. mezőjében a „6,30” szövegrész helyébe a „6,86” szöveg,
-
-## c) 2. mellékletében foglalt táblázat D:21e. mezőjében az „1,00” szövegrész helyébe az „1,07” szöveg,
-
-## d) 2. mellékletében foglalt táblázat D:43c. mezőjében a „6,30” szövegrész helyébe a „6,86” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1043/2023. (II. 22.) Korm. határozathoz
 
@@ -33,3 +23,5 @@
 | 2. | EFOP-1.8.24-22-2022-00002 | NASZLADY ATTILA egészség-fejlesztési program – humán-erőforrás fejlesztés komponens | Magyar Máltai Szeretetszolgálat Egyesület | 986 422 338 | 77 702 440 | 0 | 1 064 124 778 | Az EFOP-2.2.24-22-2022-00002 azonosító számú projekt infrastrukturális fejlesztéseihez az EFOP-1.8.24-22-2022-00002 azonosító számú projekt nyújtja a szakmai és humánerőforrás- támogatást. Fejlesztések: mobil egészségügyi központok működtetése telemedicinális egészségügyi szolgáltatásokkal, Máltai Egészségpontok létrehozása, gyermek-szemészeti szűrővizsgálatok szervezése és szűrési szolgáltatás nyújtása, laboratórium és bliszterközpont szakmai hátterének biztosítása. |
 
 | 3. | EFOP-2.2.24-22-2022-00002 | NASZLADY ATTILA egészség-fejlesztési program – beruházási komponens | Magyar Máltai Szeretetszolgálat Egyesület | 6 300 000 000 | 0 | 555 388 225 | 6 855 388 225 | Az EFOP-2.2.24-22-2022-00002 azonosító számú projekt fejlesztéseivel kiemelten a hátrányos helyzetű embereknél és az elmaradott térségekben elérhető az egészségtudatosság növelése, a szűrővizsgálatok elvégzése és szükség esetén a betegek szakellátáshoz való eljuttatása, összességében a jobb egészségügyi szolgáltatásokhoz való hozzáférés biztosítása. A projekt keretében 8 db Mobil Egészségügyi Központ kialakítására, gyermekszemészeti szűrőgépjármű beszerzésére és kialakítására, laboratórium létrehozására és kialakítására, valamint gyógyszerhasználat optimalizálására kerül sor. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
