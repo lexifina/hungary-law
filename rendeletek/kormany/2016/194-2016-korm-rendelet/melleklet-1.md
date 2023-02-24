@@ -6,7 +6,7 @@
 
 | 2 | 5a Bodajk – Balinka |
 
-| 3 | 5b Mór – Pusztavám |
+| 3 |  |
 
 | 4 | 6 (1) Székesfehérvár – Lovasberény |
 
@@ -188,4 +188,4 @@
 
 | 93 | 392 Bácsalmás – Csikéria |
 
-[^2]: Az 1. melléklet a 259/2017. (IX. 11.) Korm. rendelet 11. §-a, a 340/2022. (IX. 7.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 259/2017. (IX. 11.) Korm. rendelet 11. §-a, a 340/2022. (IX. 7.) Korm. rendelet 1. §-a, az 52/2023. (II. 23.) Korm. rendelet 1. §-a szerint módosított szöveg.
