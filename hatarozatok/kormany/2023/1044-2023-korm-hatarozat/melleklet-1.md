@@ -14,19 +14,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat
+## 3.[^1]
 
-## a) 1. mellékletében foglalt 2. táblázat C:4 mezőjében a „17,82 (ebből indikatív önerő: 6,91)” szövegrész helyébe a „18,51 (ebből indikatív önerő: 6,91)” szöveg,
-
-## b) 2. mellékletében foglalt táblázat D:32 mezőjében a „10,92” szövegrész helyébe a „11,61” szöveg
-
-## lép.
-
-## 4. A Kormány visszavonja
-
-## a) az éves fejlesztési keretek módosításainak pénzügyi hatásairól szóló 1481/2020. (VIII. 7.) Korm. határozat 3. pontját,
-
-## b) a 2014–2020 programozási időszakban rendelkezésre álló európai uniós források maradéktalan felhasználása érdekében szükséges intézkedésekről szóló 1536/2022. (XI. 9.) Korm. határozat 1. pont e) alpontját.
+## 4.[^2]
 
 1. melléklet az 1044/2023. (II. 22.) Korm. határozathoz
 
@@ -35,3 +25,6 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás/ összköltség (bruttó, forint) | Hatályos támogatási összeg (bruttó, forint) | Hatályos összköltség (bruttó, forint) | EFOP 2. prioritás terhére történő többletforrás legfeljebb (bruttó, forint) | Projekt megnövelt támogatási összege legfeljebb (bruttó, forint) | Projekt megnövelt összköltsége legfeljebb (bruttó, forint) | Projekt rövid bemutatása |
 
 | 2. | EFOP-2.2.1-VEKOP- 16-2016-00001 | Gyermek sürgősségi, baleseti ellátás fejlesztése | Országos Kórházi Főigazgatóság | 10 000 000 000 | 10 914 479 990 | 17 867 383 043 | 686 327 168 | 11 600 807 158 | 18 553 710 211 | A Projekt célja országos, legmagasabb progresszivitási szintű gyermekbaleseti és gyermeksürgősségi ellátóközpont (III. a. szint) és vidéki ellátást biztosító országos háromszintű (I. szint, II. szint és III. szint) gyermekbaleseti és gyermeksürgősségi ellátóhálózat létrehozása, gyermektraumatológia kialakítása. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
