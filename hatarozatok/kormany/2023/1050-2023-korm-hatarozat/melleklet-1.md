@@ -62,8 +62,11 @@
 
 | Határidő: | 2023. március 1. |
 
-## 2. Az Arany János-emlékév programjainak megvalósításához szükséges forrás biztosításáról szóló 1067/2017. (II. 9.) Korm. határozat 2. pontjában a „2022. december 31.” szövegrész helyébe a „2023. december 31.” szöveg lép.
+## 2.[^1]
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Gazdaság-újraindítási programok előirányzatból, a Beruházás Előkészítési Alapból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, címrendi kiegészítésről, valamint kormányhatározatok módosításáról és visszavonásáról szóló 1496/2021. (VII. 23.) Korm. határozat 1. pont d) alpontjában a „2022. december 31.” szövegrész helyébe a „2023. június 30.” szöveg lép.
+## 3.[^2]
 
 1. melléklet az 1050/2023. (II. 23.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
