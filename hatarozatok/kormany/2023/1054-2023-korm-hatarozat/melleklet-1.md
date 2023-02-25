@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat
-
-## a) 1. melléklet 7. pontjában foglalt táblázat C:6 mezőjében a „4,27” szövegrész helyébe a „4,08” szöveg,
-
-## b) 1. melléklet 7. pontjában foglalt táblázat C:8 mezőjében az „52,728” szövegrész helyébe az „52,917” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1054/2023. (II. 23.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | GINOP-7.1.9-17-2017-00003 | Hévíz Gyógyhely fejlesztése | Hévíz Város Önkormányzata (konzorciumvezető), Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság | 1 000 000 000 | 188 149 770 | 1 188 149 770 | A projekt célja a gyógyfürdő közvetlen környezetében lévő terek megújítása, az eddig hiányzó városi főtér és turisztikai városmag létrehozása, a település infrastrukturális és turisztikai szolgáltatásainak megújítása, minőségi fejlesztése és a gyógyhelyarculat koncepcionális erősítése. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
