@@ -1,1 +1,3 @@
-1. § Hatályát veszti az országos vasúti mellékvonalak felsorolásáról szóló 194/2016. (VII. 13.) Korm. rendelet 1. mellékletében foglalt táblázat A:3 mezője.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
