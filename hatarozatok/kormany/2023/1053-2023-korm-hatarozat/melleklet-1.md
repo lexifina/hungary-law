@@ -16,26 +16,12 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat [a továbbiakban: 1247/2016. (V. 18.) Korm. határozat] 2. melléklete az 1. melléklet szerint módosul.
+## 3.[^1]
 
-## 4. Az 1247/2016. (V. 18.) Korm. határozat
+## 4.[^2]
 
-## a) 1. pont f) alpont fa) pont fab) alpontjában a „127,81%-áig” szövegrész helyébe a „151,19%-áig” szöveg,
+1. melléklet az 1053/2023. (II. 23.) Korm. határozathoz[^3]
 
-## b) 1. melléklet 3. pontjában foglalt táblázat C:2 mezőjében a „296,006” szövegrész helyébe a „350,154” szöveg
-
-## lép.
-
-1. melléklet az 1053/2023. (II. 23.) Korm. határozathoz
-
-Az 1247/2016. (V. 18.) Korm. határozat 2. mellékletében foglalt táblázat a következő 76f. sorral egészül ki:
-
-|  | [A | B | C | D | E |
-
-| 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Szakmai elvárások] |
-
-„
-
-| 76f. | IKOP-3.1.0-15 | 51 db CAF villamos beszerzése Budapest részére | BKK Zrt. | 54,15 (becsült támogatási intenzitás: 99,44%) | 51 darab (46 rövid és 5 hosszú) új, alacsonypadlós villamos szerelvény beszerzése |
-
-”
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
