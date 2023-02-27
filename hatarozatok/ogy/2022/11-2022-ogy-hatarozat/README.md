@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-11-30-4
 | 2022-09-26 | 2022-11-30-41.10 | 38/2022. (IX. 27.) OGY határozat |
 | 2022-10-04 | 2022-11-30-41.11 | 47/2022. (X. 5.) OGY határozat |
 | 2022-12-07 | 2022-11-30-41.12 | 60/2022. (XII. 8.) OGY határozat |
+| 2023-02-27 | 2022-11-30-41.13 | 1/2023. (II. 28.) OGY határozat |
