@@ -32,6 +32,8 @@ a) a (3)–(4) bekezdés alapján a kérelem érdemi vizsgálat nélküli elutas
 
 b) a vizsgálat folytatására okot adó körülmény már nem áll fenn.
 
+(5a) A Hatóság – a 33/A. alcím szerinti átláthatósági hatósági eljárás hivatalbóli megindításával egyidejűleg – a vizsgálatot megszünteti vagy a vizsgálatot az e részében megszünteti, ha a vizsgálat során jut arra a megállapításra, hogy a közzétételre kötelezett a 24/B. alcím szerinti közzétételi kötelezettségének feltehetően nem tesz eleget. A megszüntetésről a bejelentőt a 63/A. § (2) bekezdése szerint megfelelően értesíteni kell.
+
 (6) A Hatóság a bejelentés érdemi vizsgálatának elutasításáról, a vizsgálat megszüntetéséről és az elutasítás, illetve a megszüntetés indokairól értesíti a bejelentőt.
 
 (7) A Hatóság a hatáskörébe nem tartozó ügyre vonatkozó bejelentést – a bejelentő egyidejű értesítése mellett – a bejelentésben foglaltak tekintetében eljárásra hatáskörrel rendelkező szervhez átteszi, ha a rendelkezésre álló adatok alapján a hatáskörrel rendelkező szerv kiléte megállapítható. Ha a Hatóság hatáskörébe nem tartozó ügyre vonatkozó bejelentés alapján a Hatóság azt állapítja meg, hogy az ügyben bírósági eljárás kezdeményezésének van helye, erről a bejelentőt értesíti.

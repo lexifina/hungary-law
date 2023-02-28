@@ -24,7 +24,7 @@ d) a közérdekű adatokkal és a közérdekből nyilvános adatokkal kapcsolato
 
 e) a más által indított perbe beavatkozhat;
 
-f)
+f) bejelentés alapján és hivatalból átláthatósági hatósági eljárást folytat;
 
 g) kérelemre adatkezelési engedélyezési eljárást folytat;
 

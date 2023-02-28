@@ -2,6 +2,8 @@
 
 (1a) A Hatóság vizsgálata a 31. § (1) bekezdésében meghatározott indokok valamelyikén alapuló bejelentés esetén az igény elutasításának közlésétől, a határidő eredménytelen elteltétől, illetve a költségtérítés megfizetésére vonatkozó határidő lejártától számított egy éven belül kezdeményezhető.
 
+(1b) A Hatóság vizsgálata a 24/B. alcím szerinti közzétételi kötelezettség teljesítése ellenőrzésével összefüggésben nem indítható, az erre irányuló bejelentést a 63/A. § (2) bekezdése szerinti átláthatósági hatósági eljárás kezdeményezésére irányuló bejelentésnek kell tekinteni.
+
 (2) A Hatóság vizsgálata nem minősül közigazgatási hatósági eljárásnak.
 
 (3) A Hatósághoz tett bejelentése miatt senkit sem érhet hátrány. A bejelentő kilétét a Hatóság csak akkor fedheti fel, ha ennek hiányában a vizsgálat nem lenne lefolytatható. Ha a bejelentő kéri, kilétét a Hatóság akkor sem fedheti fel, ha ennek hiányában a vizsgálat nem folytatható le. Erről a következményről a Hatóság a bejelentőt köteles tájékoztatni.
