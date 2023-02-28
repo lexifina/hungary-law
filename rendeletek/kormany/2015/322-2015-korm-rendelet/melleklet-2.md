@@ -1,6 +1,6 @@
 2. melléklet a 322/2015. (X. 30.) Korm. rendelethez
 
-## Műemlékekkel kapcsolatos követelmények
+Műemlékekkel kapcsolatos követelmények
 
 1. A műemlékkel kapcsolatos építési beruházások esetén az ajánlatkérési műszaki dokumentáció az 1. mellékletben foglaltakon kívül tartalmazza az építési engedélyben jóváhagyott következő dokumentumokat:
 

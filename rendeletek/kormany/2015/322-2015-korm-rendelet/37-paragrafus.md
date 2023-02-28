@@ -8,5 +8,7 @@ b) a közbeszerzésről és a 2004/18/EK irányelv hatályon kívül helyezésé
 
 c) a vízügyi, energiaipari, közlekedési és postai szolgáltatási ágazatban működő ajánlatkérők beszerzéseiről és a 2004/17/EK irányelv hatályon kívül helyezéséről szóló 2014. február 26-i 2014/25/EU európai parlamenti és tanácsi irányelvnek
 
+való megfelelést szolgálja.
+
 [^46]: A 36/A. §-t a 223/2018. (XI. 29.) Korm. rendelet 10. §-a iktatta be.
 [^47]: A hatálybalépés időpontja 2018. november 30.

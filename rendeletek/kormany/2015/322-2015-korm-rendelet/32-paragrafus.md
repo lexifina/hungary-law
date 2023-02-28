@@ -1,5 +1,3 @@
-## 31. §[^30]
-
 32. §[^31] (1) Hat hónapot meghaladó teljesítési időszakról rendelkező és egyben ötvenmillió forintot meghaladó összegű nettó ellenszolgáltatást tartalmazó szerződések esetén az ajánlatkérő az adott építési beruházás jellemzőinek megfelelő időszakonként vagy kivitelezési szakaszonként részszámlázási lehetőséget biztosít.
 
 (2) Az (1) bekezdésben meghatározott esetben az általános forgalmi adó nélkül számítva egymilliárd forint alatti szerződéses értékű építési beruházásoknál az ajánlatkérő legalább öt részszámla (ideértve a végszámlát is) benyújtásának lehetőségét biztosítja.
@@ -14,5 +12,4 @@
 
 (7) A részszámla összegét a szerződés szerinti kötelezettségteljesítés megvalósulásának mértéke alapján kell meghatározni, úgy, hogy a részszámla szerinti nettó ellenszolgáltatás a szerződés dokumentáltan megvalósult értékét nem haladhatja meg.
 
-[^30]: A 31. §-t az 503/2021. (VIII. 18.) Korm. rendelet 11. § c) pontja hatályon kívül helyezte.
 [^31]: A 32. § az 503/2021. (VIII. 18.) Korm. rendelet 7. §-ával megállapított szöveg.
