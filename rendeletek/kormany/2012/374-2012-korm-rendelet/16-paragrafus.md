@@ -158,6 +158,10 @@
 
 79. [^79] a 2011/65/EU európai parlamenti és tanácsi irányelv III. mellékletének a higanynak az egyéb általános világítási célra szolgáló, vagy különleges rendeltetésű fénycsövekben való felhasználására vonatkozó mentesség tekintetében, a tudományos és műszaki fejlődéshez történő hozzáigazítás céljából történő módosításáról szóló, 2021. december 13-i (EU) 2022/287 felhatalmazáson alapuló bizottsági irányelvnek
 
+80. [^80] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítás céljából, az ólom bizmut-stroncium-kalcium-réz-oxid szupravezető kábelekben és huzalokban, valamint ezek elektromos csatlakozásaiban való felhasználására vonatkozó mentesség tekintetében történő módosításáról szóló, 2022. május 12-i (EU) 2022/1631 felhatalmazáson alapuló bizottsági irányelvnek,
+
+81. [^81] a 2011/65/EU európai parlamenti és tanácsi irányelv IV. mellékletének a tudományos és műszaki fejlődéshez történő hozzáigazítás céljából, az ólom egyes mágneses rezonanciás képalkotó eszközökben való használatára vonatkozó mentesség tekintetében történő módosításáról szóló, 2022. május 12-i (EU) 2022/1632 felhatalmazáson alapuló bizottsági irányelvnek
+
 [^27]: A 16. § a 258/2014. (X. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^28]: A 16. § 28. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
 [^29]: A 16. § 29. pontját a 365/2015. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
@@ -211,3 +215,5 @@
 [^77]: A 16. § 77. pontját a 378/2022. (X. 5.) Korm. rendelet 1. §-a iktatta be.
 [^78]: A 16. § 78. pontját a 378/2022. (X. 5.) Korm. rendelet 1. §-a iktatta be.
 [^79]: A 16. § 79. pontját a 378/2022. (X. 5.) Korm. rendelet 1. §-a iktatta be.
+[^80]: A 16. § 80. pontját a 43/2023. (II. 20.) Korm. rendelet 1. §-a iktatta be.
+[^81]: A 16. § 81. pontját a 43/2023. (II. 20.) Korm. rendelet 1. §-a iktatta be.

@@ -354,7 +354,7 @@
 
 | 91. | A nem kizárólag fogyasztói felhasználásra szánt berendezések motorrendszereinek gumialkatrészeiben használt bisz(2-etil-hexil)-ftalát (DEPH) a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó, de a 90. sorban nem említett, gumit tartalmazó alkatrészek esetében, amennyiben a lágyított anyag nem érintkezik emberi nyálkahártyával vagy tartósan emberi bőrrel. (Az emberi bőrrel való tartós érintkezés több mint 10 perc megszakítás nélküli érintkezést vagy napi 30 percet kitevő szakaszos érintkezést jelent.) | a gumi ≤ 10 m% | 2024. július 21-ig |
 
-3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^83]
+3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^85]
 
 A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a ellenőrző és vezérlő eszközök vonatkozásában
 
@@ -452,6 +452,10 @@ b) a részecsketerápiához alkalmazott ciklotronmágnesek, sugártovábbító m
 
 a mentesség 2020. június 30-án lejár.
 
+c) olyan nem integrált MRI-tekercsekben alkalmaznak, amelyek esetében az adott modellre vonatkozó megfelelőségi nyilatkozatot első alkalommal 2022. szeptember 23. előtt állították ki, vagy
+
+d) olyan integrált tekercseket tartalmazó MRI-eszközökben alkalmaznak, amelyek a mágneses rezonanciás orvosi képalkotó berendezésekben található mágnes izocentrumát körülvevő legfeljebb 1 m sugarú mágneses mezőben használatosak, és amelyek esetében a megfelelőségi nyilatkozatot első alkalommal 2024. június 30. előtt állították ki − a mentesség 2027. június 30-án lejár.
+
 32. Digitális kadmium-tellurid és kadmium-cink-tellurid sordetektorok nyomtatott áramköri lapokra való szereléséhez használt forraszanyagokban lévő ólom – a mentesség 2017. december 31-én lejár.
 
 33. Kriogén hűtők hideg fejeiben és/vagy kriogén hűtésű hideg szondákban és/vagy kriogén hűtésű ekvipotenciális kötési rendszerekben, orvostechnikai eszközökben (8. kategória) és/vagy ipari ellenőrző és vezérlő eszközökben szupravezetőként vagy hővezetőként használt ötvözetekben alkalmazott ólom – a mentesség 2021. június 30-án lejár.
@@ -544,4 +548,6 @@ lejár.
 
 51. Az emberi testnedvekben és/vagy dializátfolyadékokban jelen lévő ionos anyagok betegközeli elemzéséhez használatos ionszelektív elektródokban található bisz(2-etilhexil)-ftalát (DEHP). A mentesség 2028. július 21-én lejár.
 
-[^83]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja, a 369/2020. (VII. 28.) Korm. rendelet 2. §-a, az 596/2020. (XII. 17.) Korm. rendelet 2. § (2) bekezdése, az 52/2022. (II. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
+52. Bizmut-stroncium-kalcium-réz-oxid (BSCCO) szupravezető kábelekben és huzalokban lévő és az ilyen huzalok elektromos csatlakozásaiban található ólom − a mentesség 2027. június 30-án lejár.
+
+[^85]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja, a 369/2020. (VII. 28.) Korm. rendelet 2. §-a, az 596/2020. (XII. 17.) Korm. rendelet 2. § (2) bekezdése, az 52/2022. (II. 23.) Korm. rendelet 3. §-a, a 43/2023. (II. 20.) Korm. rendelet 2. §-a szerint módosított szöveg.
