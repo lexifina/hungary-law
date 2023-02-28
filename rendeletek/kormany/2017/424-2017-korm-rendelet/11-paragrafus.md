@@ -1,5 +1,3 @@
-## 10. §[^20]
-
 11. § (1) Az EKR-ben az ajánlatkérőnek a közbeszerzési dokumentumok között elektronikus űrlapként kell létrehoznia a felolvasólap mintáját, amelyet az ajánlattevő az elektronikus űrlap formájában köteles az ajánlat részeként kitölteni.
 
 (2) Amennyiben az EKR-ben az ajánlat részeként csatolt dokumentum nem tesz eleget a közbeszerzési dokumentumokban meghatározott, az ajánlat részét képező dokumentumok informatikai jellemzőire vonatkozó követelményeknek, de az ajánlatkérő számára olvasható, illetve megjeleníthető, az ajánlatkérő – ha azt nem tartja szükségesnek – nem köteles hiánypótlásra felhívni az ajánlattevőt, és úgy kell tekinteni, hogy az ajánlat megfelelt az előírt követelményeknek. Amennyiben az ajánlat részeként csatolt dokumentum nem tesz eleget az előírt informatikai követelményeknek és az ajánlatkérő számára nem olvasható, illetve jeleníthető meg, ez nem tekinthető formai hiányosságnak, azt úgy kell kezelni, mintha az ajánlattevő az érintett dokumentumot nem nyújtotta volna be és a Kbt. hiánypótlásra vonatkozó szabályaira figyelemmel kell eljárni.
@@ -14,14 +12,13 @@
 
 (7) Ahol az EKR az ajánlatkérő által létrehozandó dokumentumra elektronikus űrlapot biztosít, az ajánlatkérő ezen dokumentumokat az elektronikus űrlap alkalmazásával köteles létrehozni.
 
-(8)[^21] A (7) bekezdés alkalmazásában az EKR által biztosított elektronikus űrlapok
+(8)[^23] A (7) bekezdés alkalmazásában az EKR által biztosított elektronikus űrlapok
 
 a) nem jogszabályi változásból eredő, technikai módosítása esetén az ajánlatkérők jogosultak az eljárás megindítása és annak lefolytatása során azon elektronikus űrlapok alkalmazására, amelyek az eljárás előkészítése során rendelkezésre álltak; vagy
 
 b) jogszabályi változásból eredő módosítása esetén az ajánlatkérő köteles – a jogszabályok által meghatározott átmeneti rendelkezések és hatálybalépésre vonatkozó szabályok figyelembevételével – az előkészítés során rendelkezésre álló űrlapok helyett, a jogszabályi változásokra figyelemmel módosított elektronikus űrlapok alkalmazásával megindítani az eljárást.
 
-(9)[^22] Az ajánlattevőnek vagy részvételre jelentkezőnek az ajánlatát vagy részvételi jelentkezését az EKR azok benyújtására szolgáló funkciója alkalmazásával kell ajánlatként vagy részvételi jelentkezésként benyújtania. Az egyéb módon benyújtott dokumentum nem minősül ajánlatnak vagy részvételi jelentkezésnek.
+(9)[^24] Az ajánlattevőnek vagy részvételre jelentkezőnek az ajánlatát vagy részvételi jelentkezését az EKR azok benyújtására szolgáló funkciója alkalmazásával kell ajánlatként vagy részvételi jelentkezésként benyújtania. Az egyéb módon benyújtott dokumentum nem minősül ajánlatnak vagy részvételi jelentkezésnek.
 
-[^20]: A 10. §-t a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés d) pontja hatályon kívül helyezte.
-[^21]: A 11. § (8) bekezdését a 66/2019. (III. 27.) Korm. rendelet 30. § (1) bekezdése iktatta be.
-[^22]: A 11. § (9) bekezdését a 66/2019. (III. 27.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^23]: A 11. § (8) bekezdését a 66/2019. (III. 27.) Korm. rendelet 30. § (1) bekezdése iktatta be.
+[^24]: A 11. § (9) bekezdését a 66/2019. (III. 27.) Korm. rendelet 30. § (2) bekezdése iktatta be.

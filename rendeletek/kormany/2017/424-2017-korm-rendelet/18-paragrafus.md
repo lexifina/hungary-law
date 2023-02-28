@@ -1,3 +1,5 @@
-## 10.[^37]
+## 10.[^40]
 
-[^37]: A 10. alcímet (18. §) a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés i) pontja hatályon kívül helyezte.
+18. §
+
+[^40]: A 10. alcímet (18. §) a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés i) pontja hatályon kívül helyezte.

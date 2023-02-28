@@ -2,7 +2,7 @@
 
 a) a Kbt. 37. § (1) bekezdés h)–i) pontja szerinti eljárás eredményéről szóló tájékoztatót – az erre szolgáló űrlap alkalmazásával – a közbeszerzésekért felelős miniszter által üzemeltetett egységes elektronikus közbeszerzési rendszeren (a továbbiakban: EKR) keresztül nyilvánosan közzétenni,
 
-b) az EKR útján nyilvánosan közzétenni a Kbt. 43. § (1) bekezdés a)–c) pontja szerinti adatokat – a 7. § (3) bekezdése szerint –, valamint a Kbt. 43. § (2) bekezdés a)–d) pontja szerinti adatokat,
+b)[^3] az EKR útján nyilvánosan közzétenni a Kbt. 43. § (1) bekezdés a)–c) pontja szerinti adatokat – a 7. § (3) bekezdése szerint –, valamint a Kbt. 43. § (2) bekezdés a)–e) pontja szerinti adatokat,
 
 c) az EKR-ben az erre szolgáló űrlapon rögzíteni a 8. § szerinti adatokat,
 
@@ -37,3 +37,4 @@ a) az EKR-en kívüli más informatikai rendszer alkalmazása esetén, kivéve, 
 b) ha az ajánlatok, több szakaszból álló eljárásban a részvételi jelentkezések benyújtása során nem kötelező az elektronikus úton történő kommunikáció.
 
 [^2]: A 2. § a 66/2019. (III. 27.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdés b) pontja az 54/2023. (II. 27.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
