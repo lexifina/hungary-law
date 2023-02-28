@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1751-30
 | 2017-01-01 | 2014-1751-30-22.2 | 1853/2016. (XII. 27.) Korm. határozat |
 | 2020-08-12 | 2014-1751-30-22.3 | 1505/2020. (VIII. 12.) Korm. határozat |
 | 2021-02-19 | 2014-1751-30-22.4 | 1505/2020. (VIII. 12.) Korm. határozat |
+| 2023-02-28 | 2014-1751-30-22.5 | 1057/2023. (II. 27.) Korm. határozat |
