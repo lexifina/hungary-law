@@ -1,5 +1,3 @@
-## való megfelelést szolgálja.
+40. §[^37]
 
-40. §[^32]
-
-[^32]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

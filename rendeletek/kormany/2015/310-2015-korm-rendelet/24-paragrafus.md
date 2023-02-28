@@ -2,7 +2,7 @@
 
 24. § (1) A pályaművek elbírálásának és értékelésének szempontjai a hirdetményben – egyszerű eljárás esetén a közvetlenül megküldött tervpályázati kiírásban – és a dokumentációban, valamint a pályázók kérdéseire adott válaszokban meghatározott követelményektől nem térhetnek el.
 
-(2)[^12] A határidőben elektronikusan benyújtott pályaművek bontására az elektronikus közbeszerzés részletes szabályairól szóló kormányrendelet az ajánlatok bontására vonatkozó rendelkezései megfelelően alkalmazandóak. A határidőben részben elektronikusan benyújtott pályaművek nem elektronikusan benyújtott részét a bírálóbizottság legalább három tagjának jelenlétében kell felbontani. A pályaművek valamennyi munkarészét bírálati sorszámmal kell ellátni.
+(2)[^14] A határidőben elektronikusan benyújtott pályaművek bontására az elektronikus közbeszerzés részletes szabályairól szóló kormányrendelet az ajánlatok bontására vonatkozó rendelkezései megfelelően alkalmazandóak. A határidőben részben elektronikusan benyújtott pályaművek nem elektronikusan benyújtott részét a bírálóbizottság legalább három tagjának jelenlétében kell felbontani. A pályaművek valamennyi munkarészét bírálati sorszámmal kell ellátni.
 
 (3) A bontásról jegyzőkönyvet kell készíteni (a továbbiakban: bontási jegyzőkönyv), amelynek legalább a pályaművek bírálati sorszámát, postai azonosítóját (adott esetben), továbbá a pályaművek munkarészeinek megnevezését és darabszámát kell tartalmaznia. A bontási jegyzőkönyvet a 25. § (1) bekezdése szerinti folyamatos jegyzőkönyvhöz kell csatolni.
 
@@ -20,13 +20,18 @@ a) a határidő után benyújtott pályaművet, bontás nélkül;
 
 b) azt a pályaművet, amely a dokumentációban meghatározott tartalmi követelményeket nem teljesíti;
 
-c) a titkosságot sértő pályaműveket, valamint
+c)[^15] a titkosságot sértő pályaműveket,
 
-d) azt a pályaművet, amelynek szerzőivel szemben a 17. § (3) bekezdése és a 18. § értelmében kizáró ok áll fenn.
+d)[^16] azt a pályaművet, amelynek szerzőivel szemben a 17. § (3) bekezdése értelmében kizáró ok áll fenn, valamint
+
+e)[^17] azt a pályaművet, amelynek szerzőivel szemben fennálló összeférhetetlenségből eredő versenytorzulást a pályamű kizárásán kívül nem lehet más módon orvosolni.
 
 (9) A bírálóbizottság az eljárásból kizárhatja a formai követelményeket nem teljesítő vagy a hiányos pályaműveket, feltéve, hogy a formai hiba a pályamű bírálatát ellehetetleníti.
 
-(10)[^13] A bírálóbizottság a pályaművek bírálata során tisztázó kérdéseket tehet fel a pályázóknak az általuk benyújtott pályaművekkel kapcsolatban. A tisztázó kérdéseket és az arra adott válaszokat a folyamatos jegyzőkönyvben rögzíteni kell.
+(10)[^18] A bírálóbizottság a pályaművek bírálata során tisztázó kérdéseket tehet fel a pályázóknak az általuk benyújtott pályaművekkel kapcsolatban. A tisztázó kérdéseket és az arra adott válaszokat a folyamatos jegyzőkönyvben rögzíteni kell.
 
-[^12]: A 24. § (2) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
-[^13]: A 24. § (10) bekezdését a 487/2016. (XII. 28.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^14]: A 24. § (2) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 8. § (5) bekezdésével megállapított szöveg.
+[^15]: A 24. § (8) bekezdés c) pontja az 54/2023. (II. 27.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^16]: A 24. § (8) bekezdés d) pontja az 54/2023. (II. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^17]: A 24. § (8) bekezdés e) pontját az 54/2023. (II. 27.) Korm. rendelet 4. §-a iktatta be.
+[^18]: A 24. § (10) bekezdését a 487/2016. (XII. 28.) Korm. rendelet 6. § (1) bekezdése iktatta be.

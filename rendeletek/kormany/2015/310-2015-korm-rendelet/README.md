@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-310-20-
 | 2019-01-01 | 2015-310-20-22.6 | 280/2018. (XII. 21.) Korm. rendelet |
 | 2020-02-01 | 2015-310-20-22.7 | 9/2020. (I. 31.) Korm. rendelet |
 | 2021-01-01 | 2015-310-20-22.8 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2023-02-28 | 2015-310-20-22.9 | 54/2023. (II. 27.) Korm. rendelet |

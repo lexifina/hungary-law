@@ -1,6 +1,6 @@
 ## 7. A tervpályázat meghirdetése
 
-19. § (1)[^5] A tervpályázati eljárás – a Kbt. 37. § (1) bekezdés f) pontja szerinti – tervpályázati kiírással indul, amelyet az ajánlatkérő hirdetmény útján köteles közzétenni. A tervpályázati kiírást a közbeszerzési és tervpályázati hirdetmények mintáit meghatározó külön jogszabály szerinti minta alkalmazásával kell elkészíteni. A hirdetmények megküldésére és közzétételére az elektronikus közbeszerzés részletes szabályairól szóló kormányrendeletben foglaltak alkalmazandóak.
+19. § (1)[^7] A tervpályázati eljárás – a Kbt. 37. § (1) bekezdés f) pontja szerinti – tervpályázati kiírással indul, amelyet az ajánlatkérő hirdetmény útján köteles közzétenni. A tervpályázati kiírást a közbeszerzési és tervpályázati hirdetmények mintáit meghatározó külön jogszabály szerinti minta alkalmazásával kell elkészíteni. A hirdetmények megküldésére és közzétételére az elektronikus közbeszerzés részletes szabályairól szóló kormányrendeletben foglaltak alkalmazandóak.
 
 (2) Ha a tervpályázat becsült értéke a tervpályázatra irányadó uniós értékhatárt eléri, illetve meghaladja, a tervpályázati kiírást az Európai Unió Hivatalos Lapjában és a hirdetmények elektronikus napilapjában (TED adatbank) kell közzétenni.
 
@@ -12,4 +12,4 @@
 
 (6) Az ajánlatkérő a tervpályázati kiírásban köteles meghatározni a pályázatok elbírálási szempontjait.
 
-[^5]: A 19. § (1) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^7]: A 19. § (1) bekezdése a 481/2017. (XII. 28.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
