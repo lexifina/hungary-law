@@ -1,4 +1,4 @@
-## 6/C.[^23] A kikötőkbe, hajózsilipekbe történő behajózás tilalma alól mentesítést biztosító engedélyek
+## 6/C.[^26] A kikötőkbe, hajózsilipekbe történő behajózás tilalma alól mentesítést biztosító engedélyek
 
 13/C. § (1) A 833/2014/EU tanácsi rendelet 3ea. cikk (5), (5a) és (5b) bekezdése szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet a hajó tulajdonosa vagy üzemeltetője nyújthatja be.
 
@@ -18,4 +18,4 @@ d) a 833/2014/EU tanácsi rendelet 3ea. cikkében foglalt tilalom alól adható 
 
 (5) A 833/2014/EU tanácsi rendelet 3ea. cikk (6) bekezdése szerinti tájékoztatási kötelezettséget a kormányhivatal teljesíti.
 
-[^23]: A 6/C. alcímet (13/C. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.
+[^26]: A 6/C. alcímet (13/C. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.

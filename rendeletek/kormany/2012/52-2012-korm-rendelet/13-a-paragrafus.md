@@ -1,10 +1,10 @@
-## 6/A. [^21] A közbeszerzésekkel kapcsolatos engedélyek
+## 6/A. [^22] A közbeszerzésekkel kapcsolatos engedélyek
 
-13/A. § (1) A 3. § (4) bekezdése szerinti szerződés megkötésére vagy a már megkötött szerződés teljesítésének folytatására vonatkozó engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet a szerződést kötni kívánó vagy a szerződésben részes, a közbeszerzési jogszabályok szerint ajánlatkérőnek minősülő fél nyújthatja be.
+13/A. § (1)[^23] A 3. § (4) és (5) bekezdése szerinti szerződés megkötésére vagy a már megkötött szerződés teljesítésének folytatására vonatkozó engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet a szerződést kötni kívánó vagy a szerződésben részes, a közbeszerzési jogszabályok szerint ajánlatkérőnek minősülő fél nyújthatja be.
 
 (2) A kérelemben meg kell jelölni
 
-a) a megkötni tervezett vagy már megkötött szerződés tárgyát, értékét, a teljesítés időtartamát,
+a)[^24] a megkötni tervezett vagy már megkötött szerződés tárgyát, továbbá – amennyiben az a kérelem benyújtásakor ismert – a szerződés értékét, valamint a teljesítés időtartamát,
 
 b) a 833/2014/EU tanácsi rendelet 5k. cikk (1) bekezdése szerinti tilalommal érintett gazdasági szereplőt vagy szereplőket és azok részvételének módját a szerződés teljesítésében,
 
@@ -16,4 +16,6 @@ c) a 833/2014/EU tanácsi rendelet 5k. cikk (2) bekezdés a)–f) pontja szerint
 
 (5) Az e §-ban meghatározott korlátozásokra a 14. § (1) bekezdése és a 15. § (3) bekezdése nem alkalmazandó akkor, ha a jogsértés megállapítása a Közbeszerzési Döntőbizottság hatáskörébe tartozik.
 
-[^21]: A 6/A. alcímet (13/A. §) a 225/2022. (VI. 22.) Korm. rendelet 2. §-a iktatta be.
+[^22]: A 6/A. alcímet (13/A. §) a 225/2022. (VI. 22.) Korm. rendelet 2. §-a iktatta be.
+[^23]: A 13/A. § (1) bekezdése az 54/2023. (II. 27.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^24]: A 13/A. § (2) bekezdés a) pontja az 54/2023. (II. 27.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.

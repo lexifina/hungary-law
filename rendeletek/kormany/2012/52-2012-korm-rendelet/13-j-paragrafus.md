@@ -1,4 +1,4 @@
-## 6/J.[^30] Az Oroszországgal folytatott kereskedelem és az oroszországi befektetésekre vonatkozó tilalom alól mentesítést biztosító engedélyek
+## 6/J.[^33] Az Oroszországgal folytatott kereskedelem és az oroszországi befektetésekre vonatkozó tilalom alól mentesítést biztosító engedélyek
 
 13/J. § (1) A 833/2014/EU tanácsi rendelet 2e. cikk (4) bekezdése szerinti engedélyek kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet a befektetést eszközlő természetes vagy jogi személy nyújthatja be.
 
@@ -14,4 +14,4 @@ c) a 833/2014/EU tanácsi rendelet 2e. cikke (4) bekezdésébe foglalt tilalom a
 
 (4) Az engedély a 833/2014/EU tanácsi rendelet 2e. cikk (4) bekezdésében foglalt feltétel teljesülése esetén adható meg.
 
-[^30]: A 6/J. alcímet (13/J. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.
+[^33]: A 6/J. alcímet (13/J. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.

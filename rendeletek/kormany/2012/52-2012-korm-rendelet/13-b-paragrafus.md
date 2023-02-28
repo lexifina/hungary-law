@@ -1,4 +1,4 @@
-## 6/B.[^22] A közúti fuvarozókra vonatkozó belépési tilalom alól mentesítést biztosító engedélyek
+## 6/B.[^25] A közúti fuvarozókra vonatkozó belépési tilalom alól mentesítést biztosító engedélyek
 
 13/B. § (1) A 833/2014/EU tanácsi rendelet 3l. cikk (4) bekezdése és a 765/2006/EK tanácsi rendelet 1zc. cikk (4) bekezdése szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet az eladó, a megrendelő vagy a fuvarozó nyújthatja be.
 
@@ -18,4 +18,4 @@ d) a 833/2014/EU tanácsi rendelet 3l. cikkében és a 765/2006/EK tanácsi rend
 
 (5) A 833/2014/EU tanácsi rendelet 3l. cikk (5) bekezdése és a 765/2006/EK tanácsi rendelet 1zc. cikk (5) bekezdése szerinti tájékoztatási kötelezettséget a kormányhivatal teljesíti.
 
-[^22]: A 6/B. alcímet (13/B. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.
+[^25]: A 6/B. alcímet (13/B. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.

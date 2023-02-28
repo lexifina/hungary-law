@@ -1,4 +1,4 @@
-## 6/F.[^26] A szolgáltatások tilalma alóli mentesítést biztosító engedélyek
+## 6/F.[^29] A szolgáltatások tilalma alóli mentesítést biztosító engedélyek
 
 13/F. § (1) A 833/2014/EU tanácsi rendelet 5n. cikk (10) és (11) bekezdése szerinti engedélyek kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet a szolgáltatást nyújtó természetes vagy jogi személy nyújthatja be.
 
@@ -16,4 +16,4 @@ c) a 833/2014/EU tanácsi rendelet 5n. cikkében foglalt tilalom alól adható m
 
 (5) A 833/2014/EU tanácsi rendelet 5n. cikk (12) bekezdése szerinti tájékoztatási kötelezettséget a kormányhivatal teljesíti.
 
-[^26]: A 6/F. alcímet (13/F. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.
+[^29]: A 6/F. alcímet (13/F. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.

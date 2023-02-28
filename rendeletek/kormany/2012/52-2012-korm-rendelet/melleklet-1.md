@@ -1,4 +1,4 @@
-1. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^39]
+1. melléklet az 52/2012. (III. 28.) Korm. rendelethez[^42]
 
 Áruk, amelyek behozatalával, kivitelével, reexportjával kapcsolatos tevékenységek megkezdéséhez tevékenységi engedélyre van szükség
 
@@ -140,4 +140,4 @@
 
 | 5 | ex | 4811 | Biztonsági papír |
 
-[^39]: Az 1. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^42]: Az 1. melléklet a 441/2013. (XI. 20.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.

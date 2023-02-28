@@ -1,4 +1,4 @@
-## 6/G.[^27] A bizalmi vagyonkezelésre vagy hasonló jogi konstrukciókra vonatkozó tilalmak alól mentesítést biztosító engedélyek
+## 6/G.[^30] A bizalmi vagyonkezelésre vagy hasonló jogi konstrukciókra vonatkozó tilalmak alól mentesítést biztosító engedélyek
 
 13/G. § (1) A 833/2014/EU tanácsi rendelet 5m. cikk (5) és (6) bekezdése szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet a bizalmi vagyonkezelői vagy hasonló jogi konstrukció nyilvántartásba vételét végző, székhely, üzleti cím vagy igazgatási címet biztosító, menedzsmentszolgáltatásokat nyújtó természetes vagy jogi személy nyújthatja be.
 
@@ -16,4 +16,4 @@ c) a 833/2014/EU tanácsi rendelet 5m. cikkében foglalt tilalom alól adható m
 
 (5) A 833/2014/EU tanácsi rendelet 5m. cikk (7) bekezdése szerinti tájékoztatási kötelezettséget a kormányhivatal teljesíti.
 
-[^27]: A 6/G. alcímet (13/G. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.
+[^30]: A 6/G. alcímet (13/G. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.

@@ -1,5 +1,5 @@
 9. § (1) A tevékenységi engedély legfeljebb három évre adható.
 
-(2)[^14]
+(2)[^15]
 
-[^14]: A 9. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 384. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^15]: A 9. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 384. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

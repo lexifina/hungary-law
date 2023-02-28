@@ -1,4 +1,4 @@
-## 6/I.[^29] Az arany importjára vonatkozó tilalmak alól mentesítést biztosító engedélyek
+## 6/I.[^32] Az arany importjára vonatkozó tilalmak alól mentesítést biztosító engedélyek
 
 13/I. § (1) A 833/2014/EU tanácsi rendelet 3o. cikk (7) bekezdése szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet az importőr nyújthatja be.
 
@@ -14,4 +14,4 @@ c) a 833/2014/EU tanácsi rendelet 3o. cikkében foglalt tilalom alól adható m
 
 (4) Az engedély a 833/2014/EU tanácsi rendelet 3o. cikk (7) bekezdésében foglalt feltétel teljesülése esetén adható meg.
 
-[^29]: A 6/I. alcímet (13/I. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.
+[^32]: A 6/I. alcímet (13/I. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.

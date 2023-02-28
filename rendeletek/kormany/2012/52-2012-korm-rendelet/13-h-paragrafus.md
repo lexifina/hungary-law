@@ -1,4 +1,4 @@
-## 6/H.[^28] Az Oroszország számára jelentős bevételt generáló és a vas- és acéltermékek importjára vonatkozó tilalmak alóli mentesítést biztosító engedélyek
+## 6/H.[^31] Az Oroszország számára jelentős bevételt generáló és a vas- és acéltermékek importjára vonatkozó tilalmak alóli mentesítést biztosító engedélyek
 
 13/H. § (1) A 833/2014/EU tanácsi rendelet 3i. cikk (3c) bekezdése és 3g. cikk (7) bekezdése szerinti engedély kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet az importőr nyújthatja be.
 
@@ -14,4 +14,4 @@ b) a 833/2014/EU tanácsi rendelet 3i. és 3g. cikkében foglalt tilalom alól a
 
 (5) A 833/2014/EU tanácsi rendelet 3i. cikk (6) bekezdése és 3g. cikk (8) bekezdése szerinti tájékoztatási kötelezettséget a kormányhivatal teljesíti.
 
-[^28]: A 6/H. alcímet (13/H. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.
+[^31]: A 6/H. alcímet (13/H. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.
