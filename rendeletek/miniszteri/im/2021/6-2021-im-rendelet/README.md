@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-6-20-06
 | 2021-09-02 | 2021-6-20-06.2 | 2010: CXXX. törvény |
 | 2022-10-25 | 2021-6-20-06.3 | 22/2022. (X. 24.) IM rendelet |
 | 2023-01-01 | 2021-6-20-06.5 | 22/2022. (X. 24.) IM rendelet |
+| 2023-02-28 | 2021-6-20-06.4 | 22/2022. (X. 24.) IM rendelet |
