@@ -46,19 +46,7 @@ m)[^249] magyar állampolgár családtagjaként kérelmez tartózkodási engedé
 
 (4a)[^251] Ha a harmadik országbeli állampolgár Magyarország területén történő foglalkoztatása a (10) bekezdésben meghatározott, a Tv. 86/J. § (4) bekezdése szerinti foglalkoztatónál (a továbbiakban: kiemelt foglalkoztató) valósul meg, a kormányhivatal a szakhatósági állásfoglalását nyolc napon belül adja meg a regionális igazgatóságnak.
 
-(4b)[^252] Ha a harmadik országbeli állampolgár Magyarország területén történő foglalkoztatása a (3a) bekezdés alapján mentes a szakhatóság vizsgálata alól, a regionális igazgatóság a következő adatok közlésével értesíti a munkavégzés helye szerint illetékes kormányhivatalt az összevont engedély kiállításáról:
-
-a) a foglalkoztató megnevezése, adószáma, statisztikai törzsszáma, főtevékenysége TEÁOR-száma,
-
-b) a harmadik országbeli állampolgár állampolgársága, neme, életkora, iskolai végzettsége,
-
-c) a munkavégzés helye,
-
-d) a munkakör (FEOR-szám),
-
-e) a tartózkodási engedély érvényességének ideje,
-
-f) a (3a) bekezdésben meghatározott mentességet megalapozó ok.
+(4b)[^252]
 
 (4c)[^253] A (2) és (3) bekezdésben meghatározott szervek szakhatósági eljárására a Tv. 87/A. § (4) bekezdése nem alkalmazható.
 
@@ -102,7 +90,7 @@ e)[^259] a minősített kölcsönbeadói nyilvántartásban szereplő munkáltat
 [^249]: A 72/H. § (3a) bekezdés m) pontját a 227/2022. (VI. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^250]: A 72/H. § (4) bekezdése a 113/2016. (V. 30.) Korm. rendelet 35. § (4) bekezdésével megállapított szöveg.
 [^251]: A 72/H. § (4a) bekezdését a 113/2016. (V. 30.) Korm. rendelet 35. § (5) bekezdése iktatta be, szövege a 411/2017. (XII. 15.) Korm. rendelet 34. § e) pontja szerint módosított szöveg.
-[^252]: A 72/H. § (4b) bekezdését a 113/2016. (V. 30.) Korm. rendelet 35. § (5) bekezdése iktatta be.
+[^252]: A 72/H. § (4b) bekezdését a 113/2016. (V. 30.) Korm. rendelet 35. § (5) bekezdése iktatta be, a 60/2023. (II. 28.) Korm. rendelet 14. §-a hatályon kívül helyezte.
 [^253]: A 72/H. § (4c) bekezdését a 411/2017. (XII. 15.) Korm. rendelet 24. § (2) bekezdése iktatta be.
 [^254]: A 72/H. § (7) bekezdése a 113/2016. (V. 30.) Korm. rendelet 35. § (6) bekezdésével megállapított szöveg.
 [^255]: A 72/H. § (9) bekezdése a 113/2016. (V. 30.) Korm. rendelet 35. § (7) bekezdésével megállapított szöveg.
