@@ -1,4 +1,4 @@
-3. § (1)[^6] A vállalkozás köteles a fogyasztási cikkel együtt a jótállási jegyet a fogyasztó rendelkezésére bocsátani olyan formában, amely a jótállási határidő végéig biztosítja a jótállási jegy tartalmának jól olvashatóságát.
+3. § (1)[^6] A vállalkozás köteles a fogyasztási cikkel együtt a jótállási jegyet igazolható módon a fogyasztó rendelkezésére bocsátani olyan formában, amely a jótállási határidő végéig biztosítja a jótállási jegy tartalmának jól olvashatóságát.
 
 (2) A jótállási jegyet közérthetően és egyértelműen, magyar nyelven kell megfogalmazni.
 
@@ -24,7 +24,7 @@ g)[^9] a vállalkozás bélyegzőlenyomatát és a kiállítás során a képvis
 
 (6)[^12] Vita esetén az (5) bekezdésben meghatározott kötelezettség teljesítését a vállalkozás köteles bizonyítani.
 
-[^6]: A 3. § (1) bekezdése a 97/2014. (III. 25.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^6]: A 3. § (1) bekezdése a 97/2014. (III. 25.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 60/2023. (II. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^7]: A 3. § (3) bekezdése a 97/2014. (III. 25.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^8]: A 3. § (3) bekezdés f) pontja a 270/2020. (VI. 12.) Korm. rendelet 7. §-a, a 616/2022. (XII. 29.) Korm. rendelet 49. §-a szerint módosított szöveg.
 [^9]: A 3. § (3) bekezdés g) pontját a 270/2020. (VI. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
