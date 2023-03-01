@@ -17,3 +17,7 @@ g) 74–76. §-a
 rendelkezéseit.
 
 (2) A Metvhr. 1. melléklete szerinti menedékes személyazonosságát és tartózkodási jogát igazoló okmányra vonatkozó rendelkezés helyett az 1. melléklet szerinti menedékes személyazonosságát és tartózkodási jogát igazoló okmányra vonatkozó rendelkezést kell alkalmazni.
+
+(3)[^4] A (2) bekezdés alapján kiállított – 1. melléklet szerinti –, a menedékes személyazonosságát és tartózkodási jogát igazoló okmány érvényességi ideje a Metvhr. 8. § (3) bekezdésétől eltérően – az okmányon fizikailag megjelenített érvényességi idő helyett – 2024. március 4. napja.
+
+[^4]: Az 5. § (3) bekezdését az 58/2023. (II. 28.) Korm. rendelet 1. §-a iktatta be.
