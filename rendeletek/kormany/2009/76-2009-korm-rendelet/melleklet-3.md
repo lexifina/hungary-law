@@ -12,7 +12,7 @@
 
 | 6. | Azoknál az eljárásoknál, amelyek a termőföldet érintik. | A termőföld mennyiségi védelme. |
 
-| 7. | Minden eljárásnál | A szénhidrogén-szállító vezetékek esetén a szakkérdés a műszaki- biztonsági követelmények érvényesítésére vonatkozik. A nyilvántartott ásványi nyersanyag lelőhelyek figyelembevételének biztosítása, a földtani veszély megítélése (földtani veszélyforrás megléte), a felszínmozgásra utaló jellegek vizsgálata. |
+| 7. |  |  |
 
 | 8. | Erőmű pontosítási és beillesztési eljárásánál. A 132 kV-os elosztóhálózat pontosítási és beillesztési eljárásánál. | A műszaki-biztonsági követelmények érvényesítése. |
 

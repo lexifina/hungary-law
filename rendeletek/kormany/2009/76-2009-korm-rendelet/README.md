@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-76-20-2
 | 2019-06-04 | 2009-76-20-22.22 | 121/2019. (V. 27.) Korm. rendelet |
 | 2021-07-16 | 2009-76-20-22.23 | 420/2021. (VII. 15.) Korm. rendelet |
 | 2023-01-01 | 2009-76-20-22.24 | 25/2014. (II. 7.) Korm. rendelet |
+| 2023-03-01 | 2009-76-20-22.25 | 70/2015. (III. 30.) Korm. rendelet |
