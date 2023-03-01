@@ -4,9 +4,9 @@ a) nem veszélyezteti a vízkészlet védelméhez fűződő érdekeket, és
 
 b) megfelel a vízimunkára, a vízilétesítmények megvalósítására, átépítésére és megszüntetésére, valamint üzemeltetésére és a vízhasználatok gyakorlására kiadott vízgazdálkodási, műszaki és biztonsági szabályoknak, a vízháztartás, vízminőség, felszín alatti és felszíni vizek védelmével összefüggő egyéb szabályozásnak.
 
-(2) Termálvíz kizárólag energiahasznosítás céljából történő kitermelésére vonatkozó létesítési engedélyben – a jogszabályokban előírt feltételek szerint – rendelkezni kell a kitermelt víz elhelyezésének módjáról.
+(2) Termálvíz kizárólag energiahasznosítás céljából történő kitermelésére vonatkozó bányafelügyeleti szerződésben – a jogszabályokban előírt feltételek szerint – rendelkezni kell a kitermelt víz elhelyezésének módjáról.
 
-(3) Új vízjogi engedély csak abban az esetben adható ki, ha az engedélyesek számára az engedélyben meghatározott vízmennyiség biztosítható.
+(3) Új vízjogi engedély abban az esetben adható vagy bányafelügyeleti szerződés akkor köthető, ha az engedélyesek számára az engedélyben meghatározott vízmennyiség biztosítható.
 
 (4) Ha a vízimunka elvégzése, illetve a vízilétesítmény megépítése vagy átalakítása végleges hatósági engedély nélkül, vagy a végleges hatósági engedélytől eltérően történt, a létesítő részére az üzemeltetési engedély kiadása megtagadható. Amennyiben a vízügyi hatóság a vízimunka, vízilétesítmény megvizsgálása után – az eset összes körülményeire is figyelemmel – a létesítő részére a fennmaradási engedélyt utólag megadja, egyidejűleg vízgazdálkodási bírság megfizetését kell előírni. A bírság az engedély nélkül létrehozott építmény értékének 80%-áig, engedély nélküli vízimunka vagy vízhasználat esetén 1 000 000 forintig terjedhet. A természetes személyre kiszabott bírság összege nem haladhatja meg a 300 000 forintot.
 

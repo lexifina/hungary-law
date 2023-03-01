@@ -10,7 +10,7 @@ d) a talajvízdúsításra betáplált vízmennyiséggel azonos vízmennyiség k
 
 e) az ár- és belvíz befogadására kijelölt csatornák, halastavak, tározók védekezési célból történő feltöltésére használt és a főműveken átvezetett, a vízjogi engedélyben meghatározott vízmennyiség után,
 
-f) a vízjogi engedély szerinti vízmennyiség azon része után, amely nem vehető igénybe, mert a vízkészlet természeti okokból nem áll rendelkezésre,
+f) a vízjogi engedély vagy bányafelügyeleti szerződés szerinti vízmennyiség azon része után, amely nem vehető igénybe, mert a vízkészlet természeti okokból nem áll rendelkezésre,
 
 g) ha a vízügyi hatóság a vízkivételt korlátozta,
 
@@ -38,12 +38,12 @@ n) a vízügyi hatósági jogkörben kiadott vízjogi engedélyben megadott víz
 
 (5) Az üzemi fogyasztó köteles fizetési kötelezettségét annak keletkezésétől számított 15 napon belül az illetékes vízügyi hatóságnak az e célra készített nyomtatványon bejelenteni (bejelentkezés).
 
-(6) A vízkészletjárulék-fizetési kötelezettség a vízhasználónál a vízjogi engedély véglegessé válásával, üzemi fogyasztónál – figyelemmel a 15/B. § (4) bekezdésében foglaltakra – a 10 000 m3-t meghaladó vízmennyiség felhasználásának megkezdésével keletkezik.
+(6) A vízkészletjárulék-fizetési kötelezettség a vízhasználónál a vízjogi engedély véglegessé válásával, a bányafelügyeleti szerződés hatálybalépésével, üzemi fogyasztónál – figyelemmel a 15/B. § (4) bekezdésében foglaltakra – a 10 000 m3-t meghaladó vízmennyiség felhasználásának megkezdésével keletkezik.
 
 (6a) A vízkészletjárulék-fizetési kötelezettség a vízhasználónál a 28/A. § (1a) bekezdésében foglalt esetben a bejelentés az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény szerinti öntözési igazgatási szerv (a továbbiakban: öntözési igazgatási szerv) általi jóváhagyás közlésével keletkezik.
 
 (7) Azt, hogy a vízkészletjárulék az államháztartás mely szervezete javára számolható fel, továbbá annak mértékét külön jogszabály állapítja meg.
 
-(8) A vízhasználó a kizárólag energiahasznosítás céljából kitermelt termálvíz használatára tekintettel általa fizetendő víz-készletjárulékot – legfeljebb a vízkészletjárulék összege erejéig – csökkentheti a termálvíz visszatáplálását biztosító kút kialakításával, illetve a berendezések korszerűsítésével összefüggésben, az adóévben felmerült igazolt és a vízügyi hatósági feladatokat ellátó szerv által elfogadott költségének az összegével.
+(8) A vízhasználó a kizárólag energiahasznosítás céljából kitermelt termálvíz használatára tekintettel általa fizetendő víz-készletjárulékot – legfeljebb a vízkészletjárulék összege erejéig – csökkentheti a termálvíz visszatáplálását biztosító kút kialakításával, illetve a berendezések korszerűsítésével összefüggésben felmerült igazolt és a vízügyi hatósági feladatokat ellátó szerv által elfogadott költségének az összegével.
 
 (9) A tartósan vízhiányos időszak várható kezdetét és végét a hidrometeorológiai előrejelzések figyelembevételével a vízgazdálkodásért felelős miniszter a Hivatalos Értesítőben közleményben közzéteszi.

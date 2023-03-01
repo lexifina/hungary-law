@@ -1,4 +1,4 @@
-28/A. § (1) A jogszabály alapján bejelentéshez kötött tevékenységektől eltekintve, vízjogi engedély szükséges
+28/A. § (1) A jogszabály alapján bejelentéshez kötött tevékenységektől eltekintve – a termálvíz kitermeléssel történő geotermikus energia kinyerését és hasznosítását kivéve –, vízjogi engedély szükséges
 
 a) a vízimunka elvégzéséhez, a vízilétesítmény megépítéséhez és átalakításához (vízjogi létesítési engedély),
 
