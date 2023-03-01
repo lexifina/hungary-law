@@ -50,3 +50,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-314-20-
 | 2022-02-01 | 2012-314-20-22.42 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2022-07-01 | 2012-314-20-22.43 | 419/2021. (VII. 15.) Korm. rendelet |
 | 2023-01-01 | 2012-314-20-22.44 | 269/2019. (XI. 19.) Korm. rendelet |
+| 2023-03-01 | 2012-314-20-22.45 | 2/2022. (I. 7.) Korm. rendelet |
