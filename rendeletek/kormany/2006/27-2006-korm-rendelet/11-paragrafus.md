@@ -6,7 +6,7 @@ a)[^18] állattartó telepen a vízvédelmi hatóság, termőföldön a talajvé
 
 b) a talajvédelmi hatóság a 9. § (2) bekezdése alapján a külön jogszabály szerinti adatszolgáltatás és nyilvántartás esetében nitrát adatszolgáltatási bírság
 
-## megfizetésére kötelezi.
+megfizetésére kötelezi.
 
 (3) A nitrátszennyezési bírság mértéke a mulasztás, illetve az előírások megszegésének mértékétől függően 50 000–500 000 forint közötti összeg.
 

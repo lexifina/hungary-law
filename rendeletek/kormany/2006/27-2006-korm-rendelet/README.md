@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-27-20-2
 | 2013-09-01 | 2006-27-20-22.7 | 171/2013. (V. 29.) Korm. rendelet |
 | 2014-01-01 | 2006-27-20-22.8 | 527/2013. (XII. 30.) Korm. rendelet |
 | 2014-09-05 | 2006-27-20-22.9 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2023-03-01 | 2006-27-20-22.10 | 60/2023. (II. 28.) Korm. rendelet |
