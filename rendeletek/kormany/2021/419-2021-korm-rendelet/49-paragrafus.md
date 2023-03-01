@@ -4,6 +4,6 @@
 
 a) az 50. § szerint jár el, vagy
 
-b)[^9] reklám, reklámhordozó elhelyezése esetén 15 napon belül értesíti a fővárosi és vármegyei kormányhivatalt.
+b)[^10] reklám, reklámhordozó elhelyezése esetén 15 napon belül értesíti a fővárosi és vármegyei kormányhivatalt.
 
-[^9]: A 49. § b) pontja a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^10]: A 49. § b) pontja a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.

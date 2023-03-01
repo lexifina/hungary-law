@@ -26,6 +26,6 @@ d) a 7. § (7) bekezdése szerinti feljegyzés elfogadását
 
 együttesen tartalmazó döntése alapozza meg.
 
-(3)[^11] Ha az (1) bekezdés c) pontja szerinti egyeztetés típusa nem határozható meg egyértelműen, a polgármester, illetve a főpolgármester (a továbbiakban együtt: polgármester) egyeztetést kezdeményez a kérdés eldöntése érdekében az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatalnál (a továbbiakban: állami főépítész), amely az egyeztetés alapján javaslatot tesz az eljárás típusára.
+(3)[^12] Ha az (1) bekezdés c) pontja szerinti egyeztetés típusa nem határozható meg egyértelműen, a polgármester, illetve a főpolgármester (a továbbiakban együtt: polgármester) egyeztetést kezdeményez a kérdés eldöntése érdekében az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatalnál (a továbbiakban: állami főépítész), amely az egyeztetés alapján javaslatot tesz az eljárás típusára.
 
-[^11]: Az 59. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^12]: Az 59. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.

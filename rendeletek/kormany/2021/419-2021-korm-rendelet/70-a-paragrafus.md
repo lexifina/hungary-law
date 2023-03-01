@@ -1,3 +1,3 @@
-70/A. §[^27] Ha a településképi rendelet módosítása – magasabb szintű jogszabályi változás átvezetésére való tekintettel – rendelkezés hatályon kívül helyezése érdekében történik, vagy elírás javítására kerül sor, a 70. § a) pontja szerinti véleményezési szakaszban csak az állami főépítész ad véleményt, a véleményezési szakasz kezdetétől számított 10 napon belül.
+70/A. §[^28] Ha a településképi rendelet módosítása – magasabb szintű jogszabályi változás átvezetésére való tekintettel – rendelkezés hatályon kívül helyezése érdekében történik, vagy elírás javítására kerül sor, a 70. § a) pontja szerinti véleményezési szakaszban csak az állami főépítész ad véleményt, a véleményezési szakasz kezdetétől számított 10 napon belül.
 
-[^27]: A 70/A. §-t a 10/2023. (I. 19.) Korm. rendelet 7. §-a iktatta be.
+[^28]: A 70/A. §-t a 10/2023. (I. 19.) Korm. rendelet 7. §-a iktatta be.

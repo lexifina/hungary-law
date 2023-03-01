@@ -8,7 +8,7 @@
 
 a) államigazgatási szerv esetében a feladat- és hatáskörébe tartozó követelmények megállapítását,
 
-b)[^17] területi önkormányzat esetében a vármegyei területrendezési terveknek való megfelelés megállapítását, továbbá
+b)[^18] területi önkormányzat esetében a vármegyei területrendezési terveknek való megfelelés megállapítását, továbbá
 
 c) települési önkormányzat esetében a közigazgatási területét érintő infrastrukturális kapcsolatokra, valamint egyéb környezeti hatásokra vonatkozó észrevételeket.
 
@@ -28,4 +28,4 @@ az adott eljárási szakaszban kifogást nem emelő véleményezőnek kell tekin
 
 (7) Abban az esetben, ha az összevont telepítési eljárással egyidejűleg a településterv módosítása is szükséges, az eljárásba bevont szakhatóságok véleménye kiváltja a településterv egyeztetési eljárásában való részvételüket.
 
-[^17]: A 64. § (3) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^18]: A 64. § (3) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.

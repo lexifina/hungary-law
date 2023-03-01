@@ -16,11 +16,11 @@ d) helyi építési szabályzatban meghatározott előírás pontosítása érde
 
 e) a településképi rendelettel történő összhang megteremtése érdekében történik, vagy
 
-f)[^25] a fejlesztési tervben szereplő cselekvési programra és ezzel összefüggésben a fejlesztési tervlapra, részletes fejlesztési tervlapra terjed ki.
+f)[^26] a fejlesztési tervben szereplő cselekvési programra és ezzel összefüggésben a fejlesztési tervlapra, részletes fejlesztési tervlapra terjed ki.
 
 (2) A rövid eljárásban a véleményezési és záró szakaszra a 62–67. §-ban foglaltak alkalmazandók azzal az eltéréssel, hogy
 
-a)[^26] a véleményezési szakaszban csak a partner ad véleményt külön lakossági fórum megtartása nélkül, a 65. § (5) bekezdés c) pontja szerint, a véleményezési szakasz kezdetétől számított 5 napon belül,
+a)[^27] a véleményezési szakaszban csak a partner ad véleményt külön lakossági fórum megtartása nélkül, a 65. § (5) bekezdés c) pontja szerint, a véleményezési szakasz kezdetétől számított 5 napon belül,
 
 b) a véleményezési szakaszban véleményeltérés esetén a polgármester 5 napon belül kezdeményezhet egyeztetést,
 
@@ -32,5 +32,5 @@ cb) záró véleményének kiadásához valamely szakterületi vélemény beszer
 
 d) a záró szakmai véleményt az állami főépítész 10 napon – a c) pont szerinti egyeztető tárgyalás esetén 15 napon – belül adja ki.
 
-[^25]: A 69. § (1) bekezdés f) pontja a 10/2023. (I. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^26]: A 69. § (2) bekezdés a) pontja a 10/2023. (I. 19.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
+[^26]: A 69. § (1) bekezdés f) pontja a 10/2023. (I. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^27]: A 69. § (2) bekezdés a) pontja a 10/2023. (I. 19.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
