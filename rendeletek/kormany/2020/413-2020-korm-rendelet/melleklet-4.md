@@ -1,6 +1,6 @@
 4. melléklet a 413/2020. (VIII. 30.) Korm. rendelethez
 
-## Alrendszerek EK-hitelesítési eljárása
+Alrendszerek EK-hitelesítési eljárása
 
 1. Általános alapelvek
 

@@ -12,7 +12,7 @@ b) a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a további
 
 c) a vasúti közlekedéssel összefüggő vagy a vasúti alrendszerekre vonatkozó tevékenységet végző
 
-## személyekre és szervezetekre terjed ki.
+személyekre és szervezetekre terjed ki.
 
 (2) E rendelet hatálya a vasúti rendszer hálózatát képező következő elemekre terjed ki:
 

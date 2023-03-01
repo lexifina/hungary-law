@@ -10,7 +10,7 @@ a) az EK-hitelesítési eljárás részeként,
 
 b) egy másik tagállamban, azonos működési feltételek melletti azonos követelményeknek való megfelelés ellenőrzése céljából
 
-## már elvégeztek.
+már elvégeztek.
 
 (2) A vasúti rendszer azon strukturális alrendszere tekinthető az alapvető követelményeknek megfelelőnek, amely
 
@@ -18,7 +18,7 @@ a) az ÁME-k tekintetében a 10. § szerinti eljárásnak megfelelően kiállít
 
 b) a nemzeti szabályok tekintetében a 10. § szerinti eljárásnak megfelelően kiállított hitelesítési nyilatkozattal
 
-## rendelkezik.
+rendelkezik.
 
 (3) A vasúti rendszert alkotó valamely strukturális alrendszer kölcsönös átjárhatóságának EK-hitelesítési eljárását a bejelentett szervezet, a vonatkozó ÁME-kra történő hivatkozással végzi el.
 

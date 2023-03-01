@@ -20,7 +20,7 @@ b) – olyan esetben, amikor ilyen előírás alkalmazására sor kerül – az 
 
 c) az európai előírás hiányossága
 
-## miatt nem felel meg az alapvető követelményeknek.
+miatt nem felel meg az alapvető követelményeknek.
 
 (4) Ha a hatóság tájékoztatása alapján az Ügynökség megállapítja, hogy a (2) bekezdés szerinti intézkedés nem indokolt, az intézkedést a hatóság az Ügynökség értesítésének kézhezvételét követően haladéktalanul megszünteti.
 

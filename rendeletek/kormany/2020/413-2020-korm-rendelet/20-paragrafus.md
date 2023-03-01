@@ -1,10 +1,8 @@
-## végrehajtásához szükséges rendelkezéseket állapítja meg.
-
 ## 17. Hatályon kívül helyező rendelkezés
 
-20. § (1)[^3]
+20. § (1)[^4]
 
-(2)[^4]
+(2)[^5]
 
-[^3]: A 20. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 20. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 20. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 20. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
