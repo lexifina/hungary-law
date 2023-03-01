@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-386-20-
 | 2022-07-01 | 2016-386-20-22.16 | 70/2021. (II. 19.) Korm. rendelet |
 | 2023-01-01 | 2016-386-20-22.17 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-01-31 | 2016-386-20-22.18 | 630/2022. (XII. 30.) Korm. rendelet |
+| 2023-03-01 | 2016-386-20-22.19 | 155/2018. (IX. 3.) Korm. rendelet |

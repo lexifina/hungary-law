@@ -60,7 +60,7 @@ foglalt feladatok ellátására.
 
 (5)[^36] A Kormány az illetékekről szóló 1990. évi XCIII. törvény 5. § (1) bekezdés h) pontjában foglalt feladat ellátására egészségbiztosítási szervként a NEAK-ot és a kormányhivatalt jelöli ki.
 
-(6)[^37] A Kormány a vármegye egész területére kiterjedő illetékességgel egészségbiztosítási szervként a kormányablakot jelöli ki a Tbj. szerint biztosított, illetve Tbj. szerint egészségügyi szolgáltatásra jogosult belföldi személyek
+(6)[^37] A Kormány egészségbiztosítási szervként a kormányablakot jelöli ki a Tbj. szerint biztosított, illetve Tbj. szerint egészségügyi szolgáltatásra jogosult belföldi személyek
 
 a) TAJ-t igazoló hatósági igazolvány másodlatának kiadásával és
 
@@ -75,4 +75,4 @@ kapcsolatos feladatok ellátására.
 [^34]: A 8. § (4) bekezdés e) pont ec) alpontja a 147/2019. (VI. 25.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
 [^35]: A 8. § (4) bekezdés h) pontja a 316/2020. (VII. 1.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^36]: A 8. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^37]: A 8. § (6) bekezdését a 155/2018. (IX. 3.) Korm. rendelet 5. §-a iktatta be, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés g) pontja, a 616/2022. (XII. 29.) Korm. rendelet 246. § b) pontja szerint módosított szöveg.
+[^37]: A 8. § (6) bekezdését a 155/2018. (IX. 3.) Korm. rendelet 5. §-a iktatta be, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés g) pontja, a 616/2022. (XII. 29.) Korm. rendelet 246. § b) pontja, a 60/2023. (II. 28.) Korm. rendelet 37. §-a szerint módosított szöveg.
