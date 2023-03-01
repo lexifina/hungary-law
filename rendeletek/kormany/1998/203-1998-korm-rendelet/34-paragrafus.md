@@ -26,7 +26,7 @@
 
 13.[^182] Mező: a szénhidrogén telepek termeltetésével kapcsolatos bányaüzemi fogalom. Egy vagy több hidrodinamikai kapcsolatban nem álló szénhidrogén tároló réteget, vagy telepet tartalmazó földtani térség külszíni vetülete.
 
-14.[^183] Geotermikus védőidom: geotermikus energiahasznosítás céljából a földkéreg lehatárolt része, amelyben adott technológiát alkalmazva a kinyerni tervezett geotermikus energia mennyiség legalább 25 évre biztosított.
+14.[^183]
 
 15.[^184]
 
@@ -44,7 +44,7 @@
 [^180]: A Vhr. 34. § 11. pontját a 26/2022. (I. 28.) Korm. rendelet 3. § 18. pontja hatályon kívül helyezte.
 [^181]: A Vhr. 34. § 12. pontját a 311/2014. (XII. 11.) Korm. rendelet 21. § (1) bekezdés e) pontja hatályon kívül helyezte.
 [^182]: A Vhr. 34. § 13. pontját a 282/2003. (XII. 29.) Korm. rendelet 23. §-a iktatta a szövegbe.
-[^183]: A Vhr. 34. § 14. pontját a 146/2012. (VII. 5.) Korm. rendelet 17. §-a iktatta be.
+[^183]: A Vhr. 34. § 14. pontját a 146/2012. (VII. 5.) Korm. rendelet 17. §-a iktatta be, a 606/2022. (XII. 28.) Korm. rendelet 3. § g) pontja hatályon kívül helyezte.
 [^184]: A Vhr. 34. § 15. pontját a 146/2012. (VII. 5.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 26/2022. (I. 28.) Korm. rendelet 3. § 18. pontja.
 [^185]: A Vhr. 34. § 16. pontját a 146/2012. (VII. 5.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 26/2022. (I. 28.) Korm. rendelet 3. § 18. pontja.
 [^186]: A Vhr. 34. § 17. pontját a 146/2012. (VII. 5.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 26/2022. (I. 28.) Korm. rendelet 3. § 18. pontja.
