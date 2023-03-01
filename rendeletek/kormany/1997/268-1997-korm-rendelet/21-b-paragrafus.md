@@ -6,7 +6,7 @@ b) a kizárásról való döntést,
 
 c) a pénztártag halála miatt szükségessé váló egyösszegű kifizetés vagy átutalás esetén a jogosultság igazolását
 
-## követő 15 napon belül végzi el a kifizetést, átutalást.
+követő 15 napon belül végzi el a kifizetést, átutalást.
 
 (1a)[^71] Az (1) bekezdéstől eltérően – a végelszámolás alatt álló pénztárak esetében – a tagsági jogviszonyt átlépéssel, kilépéssel megszüntető tagokra az Öpt.-ben meghatározott kifizetési, átutalási határidők az irányadóak.
 

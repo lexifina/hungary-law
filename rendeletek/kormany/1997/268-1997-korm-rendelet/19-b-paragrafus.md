@@ -20,7 +20,7 @@ b) hozamszámításon alapuló módszerrel, vagy
 
 c) újraelőállítási költségen alapuló módszerrel
 
-## történhet azzal, hogy az értékelési módszer választását részletesen indokolni kell és a továbbiakban – a (6) bekezdésben foglaltak kivételével – minden időszakban ugyanezen módszerrel kell az adott ingatlan esetében elvégezni.
+történhet azzal, hogy az értékelési módszer választását részletesen indokolni kell és a továbbiakban – a (6) bekezdésben foglaltak kivételével – minden időszakban ugyanezen módszerrel kell az adott ingatlan esetében elvégezni.
 
 (6)[^56] Az (5) bekezdés szerint kiválasztott és alkalmazott értékelési módszert akkor kell megváltoztatni, ha az ingatlanértékelő úgy ítéli meg, hogy ez a továbbiakban már nem alkalmas az ingatlan piaci értékének becslésére, és egy másik módszer alkalmazása a korábbiaknál pontosabb becslést eredményez. Ez esetben az adott ingatlanra alkalmazott értékelési módszer megváltoztatásának indokait az értékelési szakvéleményben részletesen be kell mutatni.
 

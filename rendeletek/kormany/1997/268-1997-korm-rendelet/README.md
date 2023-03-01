@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-268-20-
 | 2018-01-01 | 1997-268-20-22.29 | 260/2003. (XII. 24.) Korm. rendelet |
 | 2020-12-26 | 1997-268-20-22.30 | 586/2020. (XII. 15.) Korm. rendelet |
 | 2022-07-01 | 1997-268-20-22.31 | 330/2004. (XII. 11.) Korm. rendelet |
+| 2023-03-01 | 1997-268-20-22.32 | 48/2023. (II. 21.) Korm. rendelet |
