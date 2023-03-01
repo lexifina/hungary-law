@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-147-20-
 | 2022-01-01 | 2010-147-20-22.24 | 769/2021. (XII. 23.) Korm. rendelet |
 | 2023-01-01 | 2010-147-20-22.25 | 289/2016. (IX. 22.) Korm. rendelet |
 | 2023-01-12 | 2010-147-20-22.26 | 6/2023. (I. 12.) Korm. rendelet |
+| 2023-03-01 | 2010-147-20-22.28 | 182/2013. (VI. 7.) Korm. rendelet |
