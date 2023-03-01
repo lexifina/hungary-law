@@ -1,3 +1,5 @@
-66. § (1)
+66. § (1) Az Fktv. 16. alcíme a következő 32. §-sal egészül ki:
+
+„32. § E törvénynek az egyes felsőoktatással, szakképzéssel és felnőttképzéssel összefüggő törvények módosításáról szóló 2022. évi LIX. törvénnyel (a továbbiakban: Módtv3.) megállapított rendelkezései szerint programkövetelményre, annak módosítására és törlésére vonatkozó javaslat 2023. március 1-jétől nyújtható be a felnőttképzésért felelős miniszternek azzal, hogy a 2023. március 1-jén a programkövetelmény nyilvántartásba vétele, módosítása és törlése tárgyában folyamatban lévő eljárásban a Módtv3.-nak a hatálybalépését megelőző napon hatályos, a szakképzésről szóló 2019. évi LXXX. törvény rendelkezéseit kell alkalmazni.”
 
 (2)
