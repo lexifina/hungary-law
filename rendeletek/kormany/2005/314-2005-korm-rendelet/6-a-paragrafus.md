@@ -1,4 +1,4 @@
-## 6/A. §[^94] A környezeti hatásvizsgálat magában foglalja
+## 6/A. §[^96] A környezeti hatásvizsgálat magában foglalja
 
 a) a környezeti hatástanulmánynak a kérelmező által történő elkészítését és benyújtását,
 
@@ -14,4 +14,4 @@ f) szükség szerint a környezetvédelmi hatóság rendelkezésére álló egy�
 
 g) a környezetvédelmi engedély tárgyában hozott, a c)–f) pontok szerinti információk és vizsgálatok eredményeinek figyelembevételével meghozott döntést.
 
-[^94]: A 6/A. §-t a 139/2017. (VI. 9.) Korm. rendelet 5. §-a iktatta be.
+[^96]: A 6/A. §-t a 139/2017. (VI. 9.) Korm. rendelet 5. §-a iktatta be.

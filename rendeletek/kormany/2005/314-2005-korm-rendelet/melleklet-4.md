@@ -308,7 +308,7 @@
 
 | b) 10 000 m3 össztároló-kapacitástól egyéb éghető gázok esetében |
 
-| c) 500 m3 össztároló-kapacitástól védett természeti területen, Natura 2000 területen, barlang védőövezetén |
+| c) 500 m3össztároló-kapacitástól védett természeti területen, Natura 2000 területen, barlang védőövezetén |
 
 | 97. | Szén, lignit önálló felszíni tárolója | a) 100 000 t össztároló-kapacitástól |
 

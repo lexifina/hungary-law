@@ -2,7 +2,7 @@
 
 ## Általános szabályok
 
-17. §[^161] (1) A környezethasználónak a környezetszennyezés megelőzése, illetve a környezet terhelésének csökkentése érdekében az elérhető legjobb technika alkalmazásával intézkednie kell:
+17. §[^163] (1) A környezethasználónak a környezetszennyezés megelőzése, illetve a környezet terhelésének csökkentése érdekében az elérhető legjobb technika alkalmazásával intézkednie kell:
 
 a) a tevékenység folytatásához szükséges, környezetterhelést okozó anyag felhasználásának fajlagos csökkentéséről;
 
@@ -16,9 +16,9 @@ e) a környezeti hatással járó balesetek megelőzéséről, és ezek bekövet
 
 f) a tevékenység felhagyása esetén a környezetszennyezés, illetve környezetkárosítás megakadályozásáról, valamint az esetlegesen károsodott környezet helyreállításáról.
 
-(2)[^162] A környezetvédelmi hatóság a tevékenységre vonatkozó, az Európai Bizottság határozatában foglalt elérhető legjobb technika-következtetések alapján az egységes környezethasználati engedélyben rendelkezik a tevékenység végzésének feltételeiről.
+(2)[^164] A környezetvédelmi hatóság a tevékenységre vonatkozó, az Európai Bizottság határozatában foglalt elérhető legjobb technika-következtetések alapján az egységes környezethasználati engedélyben rendelkezik a tevékenység végzésének feltételeiről.
 
-(3)[^163] Ha a környezetvédelmi hatóság az engedélyben foglalt feltételeket olyan elérhető legjobb technika alapján határozza meg, amelyet a tevékenységre vonatkozó elérhető legjobb technika-következtetések nem tartalmaznak, a tevékenység végzésének feltételeit úgy határozza meg, hogy
+(3)[^165] Ha a környezetvédelmi hatóság az engedélyben foglalt feltételeket olyan elérhető legjobb technika alapján határozza meg, amelyet a tevékenységre vonatkozó elérhető legjobb technika-következtetések nem tartalmaznak, a tevékenység végzésének feltételeit úgy határozza meg, hogy
 
 a) az alkalmazandó technika megfeleljen a 9. számú mellékletben meghatározott kritériumoknak,
 
@@ -26,12 +26,12 @@ b) az előírt feltételek betartásával a tevékenységből származó kibocs�
 
 c) az alkalmazandó technika biztosítson a vonatkozó elérhető legjobb technika-következtetésekben leírt elérhető legjobb technikák által biztosított védelemmel legalább azonos szintű védelmet.
 
-(4)[^164] Ha a tevékenység vagy a létesítményben alkalmazott valamely gyártási eljárás nem tartozik az elérhető legjobb technikakövetkeztetések egyikének hatálya alá sem, vagy ha e következtetések nem tartalmazzák a tevékenység vagy eljárás összes lehetséges környezeti hatását, a tevékenység végzése vagy az eljárás alkalmazása feltételeinek előírásához alapul szolgáló elérhető legjobb technika meghatározása érdekében a környezetvédelmi hatóság a környezethasználóval szakmai konzultációt folytat, szükség szerint szakértőt vesz igénybe, és a technika meghatározása során figyelembe veszi a 9. számú mellékletben foglalt kritériumokat.
+(4)[^166] Ha a tevékenység vagy a létesítményben alkalmazott valamely gyártási eljárás nem tartozik az elérhető legjobb technikakövetkeztetések egyikének hatálya alá sem, vagy ha e következtetések nem tartalmazzák a tevékenység vagy eljárás összes lehetséges környezeti hatását, a tevékenység végzése vagy az eljárás alkalmazása feltételeinek előírásához alapul szolgáló elérhető legjobb technika meghatározása érdekében a környezetvédelmi hatóság a környezethasználóval szakmai konzultációt folytat, szükség szerint szakértőt vesz igénybe, és a technika meghatározása során figyelembe veszi a 9. számú mellékletben foglalt kritériumokat.
 
-(5)[^165] A miniszter figyelemmel kíséri az elérhető legjobb technikákban bekövetkező fejlődést, az új vagy frissített elérhető legjobb technika következtetések közzétételét, és azokról tájékoztatja a környezetvédelmi hatóságot.
+(5)[^167] A miniszter figyelemmel kíséri az elérhető legjobb technikákban bekövetkező fejlődést, az új vagy frissített elérhető legjobb technika következtetések közzétételét, és azokról tájékoztatja a környezetvédelmi hatóságot.
 
-[^161]: A 17. § a 480/2013. (XII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^162]: A 17. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^163]: A 17. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^164]: A 17. § (4) bekezdése a 88/2017. (IV. 10.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^165]: A 17. § (5) bekezdését a 88/2017. (IV. 10.) Korm. rendelet 3. §-a iktatta be.
+[^163]: A 17. § a 480/2013. (XII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^164]: A 17. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^165]: A 17. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^166]: A 17. § (4) bekezdése a 88/2017. (IV. 10.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^167]: A 17. § (5) bekezdését a 88/2017. (IV. 10.) Korm. rendelet 3. §-a iktatta be.
