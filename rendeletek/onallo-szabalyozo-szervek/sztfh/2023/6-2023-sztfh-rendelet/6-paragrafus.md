@@ -1,0 +1,1 @@
+6. § Az R2. 41. § (6) bekezdésében a „zálogjogosultja a bányafelügyelet” szövegrész helyébe a „zálogjogosultja a bányafelügyelet, vagy az ingatlanra közérdekű használati jogot vagy az állam Bt. 48. §-a szerinti elővásárlási jogát jegyezték be az ingatlan-nyilvántartásba” szöveg lép.
