@@ -2,7 +2,7 @@
 
 a)[^94] 4. §-ában, 16. § (2) bekezdésében, 28. § l) pontjában, 29. § c) pontjában, 30. § (2) bekezdésében, 33. § d) pontjában, 35. § (3) bekezdés a) és c)–f) pontjában, 35. § (7) bekezdésében az 1169/2011/EU rendeletben foglaltak ellenőrzése vonatkozásában, 38/A. § (2) bekezdés d) pontjában, 38/C. § (1) bekezdésében, 44. § (1), (2)–(6a), (8) és (9) bekezdésében, 53/B. §-ában, 56. §-ában, 57. § a)–u) és y) pontjában, 58. §-ában, 58/A. § (1)–(4), (6) és (7) bekezdésében, 59. § (6) bekezdésében, 59/A. § (1) bekezdésében, 63. § (1) bekezdés a)–d) pontjában, 64. § (7) bekezdésében, 72. §-ában foglaltak tekintetében a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal, valamint a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal,
 
-b)[^95] 34. § (2) bekezdés b)–l) pontjában, a közcélú igénybevétel kivételével a 34. § (3) bekezdés a) pontjában, 34. § (4) bekezdés k) pontjában, 53. § (3) és (4) bekezdésében, 61. §-ában, 63/B. §-ában foglaltak tekintetében a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal,
+b)[^95] 34. § (2) bekezdés b)–l) pontjában, a közcélú igénybevétel kivételével a 34. § (3) bekezdés a) pontjában, 34. § (4) bekezdés k) pontjában, 53. § (3) és (4) bekezdésében, 61. §-ában foglaltak tekintetében a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal,
 
 c)[^96] 60. §-ában foglaltak tekintetében a NÉBIH, valamint a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal,
 
@@ -61,7 +61,7 @@ tekintetében az élelmiszerlánc-biztonsági és állategészségügyi hatásk�
 (11)[^115]
 
 [^94]: A 18. § (1) bekezdés a) pontja a 425/2020. (IX. 10.) Korm. rendelet 10. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § a) pontja szerint módosított szöveg.
-[^95]: A 18. § (1) bekezdés b) pontja a 23/2022. (I. 27.) Korm. rendelet 2. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
+[^95]: A 18. § (1) bekezdés b) pontja a 23/2022. (I. 27.) Korm. rendelet 2. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja, a 60/2023. (II. 28.) Korm. rendelet 36. §-a szerint módosított szöveg.
 [^96]: A 18. § (1) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 6. pontja, (45) bekezdés 9. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
 [^97]: A 18. § (1) bekezdés d) pontját a 171/2017. (VI. 29.) Korm. rendelet 24. § (3) bekezdése iktatta be, szövege a 425/2020. (IX. 10.) Korm. rendelet 10. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
 [^98]: A 18. § (1) bekezdés e) pontját a 171/2017. (VI. 29.) Korm. rendelet 24. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 6. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § a) pontja szerint módosított szöveg.

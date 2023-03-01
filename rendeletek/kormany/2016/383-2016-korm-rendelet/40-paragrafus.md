@@ -1,3 +1,3 @@
-40. §[^202]
+40. §[^203]
 
-[^202]: A 40. §-t a 30/2020. (II. 29.) Korm. rendelet 29. § (5) bekezdés f) pontja hatályon kívül helyezte.
+[^203]: A 40. §-t a 30/2020. (II. 29.) Korm. rendelet 29. § (5) bekezdés f) pontja hatályon kívül helyezte.

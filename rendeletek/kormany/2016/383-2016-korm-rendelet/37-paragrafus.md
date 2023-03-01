@@ -12,6 +12,8 @@
 
 (6)[^187] A Kormány az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 79/A. §-ában foglaltak tekintetében a jogszabálysértés megállapítására és a közigazgatási bírság kiszabására országos illetékességgel a Békés Vármegyei Kormányhivatalt jelöli ki.
 
+(7)[^188] Azon ingatlan-nyilvántartási eljárásokban, amelyekben erdő művelésiág-változás átvezetésére kerül sor, ingatlanügyi hatóságként az erdőterület fekvése szerint illetékes, 2. mellékletben meghatározott vármegyei kormányhivatal jár el. Az erdészeti hatóság és az ingatlanügyi hatóság a művelési ág változásával kapcsolatban egybefoglalt döntést hoz.
+
 [^181]: A 37. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (33) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
 [^182]: A 37. § (2) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 15. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
 [^183]: A 37. § (2a) bekezdését a 186/2018. (X. 9.) Korm. rendelet 16. §-a iktatta be, szövege a 30/2020. (II. 29.) Korm. rendelet 29. § (5) bekezdés b) pontja, a 713/2020. (XII. 30.) Korm. rendelet 46. § b) pontja szerint módosított szöveg.
@@ -19,3 +21,4 @@
 [^185]: A 37. § (4) bekezdése a 30/2020. (II. 29.) Korm. rendelet 29. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b)-c) pontja szerint módosított szöveg.
 [^186]: A 37. § (5) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 242. § a) és c) pontja szerint módosított szöveg.
 [^187]: A 37. § (6) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 44. § (4) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
+[^188]: A 37. § (7) bekezdését a 60/2023. (II. 28.) Korm. rendelet 35. §-a iktatta be.

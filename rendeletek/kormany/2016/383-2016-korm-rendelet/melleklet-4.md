@@ -1,4 +1,4 @@
-4. melléklet a 383/2016. (XII. 2.) Korm. rendelethez[^330]
+4. melléklet a 383/2016. (XII. 2.) Korm. rendelethez[^331]
 
 A növénytermesztési hatóságként több vármegyére kiterjedő illetékességgel eljáró kormányhivatalok illetékességi területe
 
@@ -52,4 +52,4 @@ III. Erdészeti szaporítóanyagokat érintő feladatok
 
 | 5. | Fejér Vármegyei Kormányhivatal | Fejér, Heves, Nógrád, Pest és Veszprém vármegyére |
 
-[^330]: A 4. melléklet a 360/2019. (XII. 30.) Korm. rendelet 159. § (43) bekezdés b) pontjával megállapított, a 371/2020. (VII. 30.) Korm. rendelet 41. § b)–d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § c)-d), f,) és j)-k) pontja szerint módosított szöveg.
+[^331]: A 4. melléklet a 360/2019. (XII. 30.) Korm. rendelet 159. § (43) bekezdés b) pontjával megállapított, a 371/2020. (VII. 30.) Korm. rendelet 41. § b)–d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § c)-d), f,) és j)-k) pontja szerint módosított szöveg.
