@@ -18,9 +18,10 @@ e) szövetkezet esetében a szövetkezet hozzájáruló nyilatkozatával.
 
 a) ha az e rendelet hatálya alá tartozó sajátos építményt a Bt. 38. § (10) bekezdése vagy a Bt. 38/A. § (5a) bekezdése szerinti közterületen helyezik el, valamint
 
-b) az 1. melléklet 2. pont 2.2. és 2.3. alpontja szerinti építmények építése esetében.
+b)[^5] az 1. melléklet 2. pont 2.1–2.3. alpontja szerinti építmények építése esetében.
 
-(4)[^5] A (3) bekezdés b) pontja szerinti esetben az építtető idegen ingatlant az építés céljára akkor vehet igénybe, ha az ingatlan igénybevételére vonatkozó jogosultsággal rendelkezik.
+(4)[^6] A (3) bekezdés b) pontja szerinti esetben az építtető idegen ingatlant az építés céljára akkor vehet igénybe, ha az ingatlan igénybevételére vonatkozó jogosultsággal rendelkezik.
 
 [^4]: A 6. § (3) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 25. §-ával megállapított szöveg.
-[^5]: A 6. § (4) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 25. §-a iktatta be.
+[^5]: A 6. § (3) bekezdés b) pontja a 6/2023. (II. 28.) SZTFH rendelet 1. § a) pontja szerint módosított szöveg.
+[^6]: A 6. § (4) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 25. §-a iktatta be.
