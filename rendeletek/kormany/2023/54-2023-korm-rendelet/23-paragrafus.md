@@ -1,1 +1,3 @@
-23. § Hatályát veszti a 63/2022. (II. 28.) Korm. rendelet 4. § (3) bekezdés d) és e) pontja.
+23. §[^23]
+
+[^23]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-13. § A 492/2015. (XII. 30.) Korm. rendelet 1. § (1) bekezdésében az „alapvető biztonsági, nemzetbiztonsági érdeket érintő” szövegrész helyébe az „alapvető biztonsági érdeket érintő” szöveg lép.
+13. §[^13]
+
+[^13]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

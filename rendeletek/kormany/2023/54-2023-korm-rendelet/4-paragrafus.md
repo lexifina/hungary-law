@@ -1,3 +1,3 @@
-4. § A 310/2015. (X. 28.) Korm. rendelet 24. § (8) bekezdés d) pontja helyébe a következő rendelkezés lép, és a bekezdés a következő e) ponttal egészül ki:
+4. §[^4]
 
-(A bírálóbizottság a tervpályázatból kizárja:)
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
