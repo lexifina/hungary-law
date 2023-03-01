@@ -68,14 +68,8 @@
 
 ## – nagyon zavart, különösen inhomogén: ≥160 db/km2.
 
-2. melléklet a 20/2022. (I. 31.) SZTFH rendelethez
+2. melléklet a 20/2022. (I. 31.) SZTFH rendelethez[^50]
 
-A geotermikus védőidom kijelöléséhez szükséges műszaki leírás tartalma
+A kutatási zárójelentés tartalma
 
-1. A termelő és visszatápláló kutakra, valamint a hasznosítás külszíni berendezéseire vonatkozó műszaki adatok.
-
-2. A kutak és feltáró fúrások geofizikai, földtani, vízföldtani, vízminőségi és vízhőmérsékleti adatai.
-
-3. A földtani kutatás adatai alapján a terület földtani-geofizikai, hidrogeológiai, vízminőségi és geotermikus, hőmérsékleti és termofizikai viszonyainak ismertetése.
-
-4. A tervezett geotermikus energia-termelése során a geotermikus energia időegység alatt kinyert mennyisége, a várható üzemmód, a normál üzemeltetési rend, valamint az üzemeltetési rend karbantartás és havária esetén.
+[^50]: A 2. melléklet a 6/2023. (II. 28.) SZTFH rendelet 5. §-ával megállapított szöveg.

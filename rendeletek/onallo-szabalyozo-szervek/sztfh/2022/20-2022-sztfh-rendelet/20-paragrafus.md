@@ -12,8 +12,8 @@ a) a haszonanyag és meddőanyag tájrendezésre felhasznált, hasznosított vag
 
 b) a humuszos feltalaj mentett vagy tájrendezésre felhasznált, továbbá más célra hasznosított mennyiségét.
 
-(5)[^18] A bányafelügyelet az anyagmérleg humuszos feltalajra vonatkozó adatait június 30-ig megküldi a talajvédelmi hatóságnak.
+(5)[^19] A bányafelügyelet az anyagmérleg humuszos feltalajra vonatkozó adatait június 30-ig megküldi a talajvédelmi hatóságnak.
 
 (6) A 30 °C-ot elérő vagy azt meghaladó hőmérsékletű energiahordozó esetében a – geotermikus energiát koncessziós szerződés, a bányafelügyelet által kiadott engedély vagy vízjogi engedély alapján kinyerő és hasznosító – bányavállalkozó az általa kinyert és a kinyert mennyiségből hasznosított geotermikus energia mennyiségét a bányafelügyeletnek a tárgyévet követő év február 28-ig bejelenti.
 
-[^18]: A 20. § (5) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § f) pontja szerint módosított szöveg.
+[^19]: A 20. § (5) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § f) pontja szerint módosított szöveg.

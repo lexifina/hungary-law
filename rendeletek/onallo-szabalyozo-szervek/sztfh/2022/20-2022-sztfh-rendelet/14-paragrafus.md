@@ -1,7 +1,11 @@
-14. § (1) Ha a kijelölt védőidomba tartozó térrészben végleges vízjogi létesítési vagy üzemeltetési engedéllyel rendelkező, termálvíz kitermelésére vagy visszasajtolására szolgáló kút van, a geotermikus energia kinyerés és hasznosítás megkezdéséhez a vízjogi engedélyessel kötött megállapodás szükséges. A megállapodást a műszaki üzemi terv jóváhagyása iránti kérelemhez mellékelni kell.
+14. § (1) A kutatási területet blokkokban kell megállapítani. A kutatási blokk térképi vetülete egyenes szakaszokkal határolt zárt sokszög. Vetületi határvonal lehet az országhatár, más mesterséges objektum vagy természeti képződmény határvonala is. Egy kutatási területen belül minden blokk legalább egy határoló oldalának érintkeznie kell a szomszédos blokk egy határoló oldalával.
 
-(2) A kijelölt geotermikus védőidom zárttá nyilvánított térrészében olyan egyéb termálvíz kitermelésére szolgáló kút nem hozható létre, amely a hatásával a geotermikus energia-utánpótlódást korlátozza.
+(2) Egy kutatási blokk területe a kutatási tevékenység elvégzéséhez szükséges mértékű lehet, de legfeljebb
 
-(3) Geotermikus energia gazdasági célú kinyerésére és hasznosítására elvi vízjogi engedély vagy vízjogi létesítési engedély a geotermikus védőidom kijelöléséig a koncessziós szerződésben meghatározott zárt térrész feletti nyílt térrészre csak a bányavállalkozóval kötött megállapodást követően adható ki.
+a) a természetes felszíntől 1000 méterig történő kutatás esetén 100 km2,
 
-(4) A geotermikus védőidom-nyilvántartás tartalmazza a védőidom alakjának egyértelmű meghatározásához szükséges mennyiségű térbeli pontok x, y és z koordinátáit, a kijelöléshez felhasznált műszaki és földtani alapadatokat, valamint módszereket és számításokat.
+b) a természetes felszíntől mért 1000 és 2000 méter közötti kutatás esetén 200 km2,
+
+c) a természetes felszíntől mért 2000 méter alatt történő kutatás esetén 400 km2.
+
+(3) Egy bányavállalkozó és kapcsolt vállalkozása egyidejűleg legfeljebb nyolc kutatási blokkon rendelkezhet kutatási engedéllyel.

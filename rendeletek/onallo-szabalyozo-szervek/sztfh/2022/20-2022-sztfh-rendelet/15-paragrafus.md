@@ -1,15 +1,5 @@
-15. § (1) A Bt. 22/B. § (5) bekezdése szerinti nyilvántartás tartalmazza:
+15. § (1) A bányavállalkozó a geotermikus energia kutatásáról kutatási zárójelentést készít a 2. melléklet szerinti tartalommal, amely a geotermikus védőidom megállapításához szükséges adatokat is tartalmazza.
 
-a) a geotermikus energia kinyerését végző engedélyes megnevezését, az engedélyező határozat számát, az engedélyt kiadó hatóság megnevezését,
+(2) A kutatás során nyert, felhasznált, valamint a korábbi adatokból felhasznált adatokat egységes digitális és térinformatikai adatbázisba kell szervezni olyan részletességgel és formában, hogy azokból a következtetések utólagosan is reprodukálhatóak legyenek.
 
-b) a geotermikus energiát kinyerő létesítmény megnevezését, közigazgatási helyét, súlyponti EOV koordinátáit,
-
-c) a kitermelt felszín alatti víz vagy cirkuláltatott folyadék mennyiségével súlyozott éves átlaghőmérsékletét a kútfejen és a geotermikus energiát hasznosító berendezés kimeneti pontján,
-
-d) a kitermelt víz éves mennyiségét,
-
-e) a felhasznált geotermikus energia éves mennyiségét és
-
-f) kijelölt geotermikus védőidom esetében a 14. § (4) bekezdése szerinti adatokat.
-
-(2) A geotermikus energia kinyerését végző engedélyes köteles a bányafelügyelet részére a kinyeréssel érintett évet követő év február 28-ig az (1) bekezdés c)–e) pontjában foglalt adatokat szolgáltatni.
+(3) A bányavállalkozó a kutatási zárójelentést a kutatási időszak utolsó napját követő 90 napon belül megküldi a bányafelügyeletnek, ha a geotermikus védőidom megállapítását nem kezdeményezi.

@@ -6,8 +6,10 @@
 
 (3) A bányafelügyelet cseppfolyós propán-bután gázok és elegyeinek töltő és tároló tevékenységére, illetve palackban vagy tartályban történő belföldi forgalmazására megállapított hatósági hatásköre (Bt. 44. §) nem terjed ki a gázüzemű közúti járművek és munkagépek üzemanyag-ellátó berendezéseire és az autógáz töltőállomások töltőlétesítményeire.
 
-(4) A bányafelügyeleti hatósági feladatokat ellátó személyek részére biztosítandó szolgálati igazolvány és jelvény részletes szabályait az 5. melléklet tartalmazza.
+(4)[^49]
 
 (5) A bányafelügyelet általános vagy egyedi eltérést, felmentést engedélyezhet a biztonsági szabályzatok egyes előírásai alól.
 
 (6) Eltérés, felmentés csak egyenértékű biztonsági szintet eredményező műszaki megoldás esetén adható. A biztonsági szabályzatban meghatározott határidőre vonatkozó eltérés, felmentés nem adható.
+
+[^49]: A 43. § (4) bekezdését a 2/2023. (I. 31.) SZTFH rendelet 4. § a) pontja hatályon kívül helyezte.

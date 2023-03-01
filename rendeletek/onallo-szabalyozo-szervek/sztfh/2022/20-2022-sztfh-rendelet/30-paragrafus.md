@@ -6,7 +6,7 @@ a) a műszaki üzemi terv teljesítési határidejét és a bányaüzem lehatár
 
 b) a kitermelésre engedélyezett haszonanyag mennyiségét, föld alatti gáztárolás esetében a ki- és betárolható földgáz mennyiségét,
 
-c)[^26] a Bt. 27. § (7) bekezdése szerinti bányatelek esetén évenkénti ütemezésben a bányavállalkozó által minimálisan kitermelendő haszonanyag mennyiségét,
+c)[^27] a Bt. 27. § (7) bekezdése szerinti bányatelek esetén évenkénti ütemezésben a bányavállalkozó által minimálisan kitermelendő haszonanyag mennyiségét,
 
 d) meddőértékesítés engedélyezése esetén a bányajáradék fizetésével kapcsolatos rendelkezést,
 
@@ -30,11 +30,11 @@ c) a művelet nem veszélyezteti a környezeti elemek – különösen a felszí
 
 d) a b) és c) pontban foglaltak teljesülése a bányavállalkozó által folyamatosan ellenőrzött, és az ellenőrzés dokumentált.
 
-(5)[^27] Kitermelésre vonatkozó műszaki üzemi terv mélyművelés, vagy kőolaj- és földgázbányászat esetében legfeljebb 5 év, míg külfejtések esetében legfeljebb 15 év időtartamra hagyható jóvá. Ha a bányavállalkozó a kitermelésre engedélyezett területet a tervidőszakban nem teljes mértékben vette igénybe, a jóváhagyó határozat teljesítési határideje legfeljebb egy alkalommal az eredetileg engedélyezett teljesítési idő felével meghosszabbítható.
+(5)[^28] Kitermelésre vonatkozó műszaki üzemi terv mélyművelés, vagy kőolaj- és földgázbányászat esetében legfeljebb 5 év, míg külfejtések esetében legfeljebb 15 év időtartamra hagyható jóvá. Ha a bányavállalkozó a kitermelésre engedélyezett területet a tervidőszakban nem teljes mértékben vette igénybe, a jóváhagyó határozat teljesítési határideje legfeljebb egy alkalommal az eredetileg engedélyezett teljesítési idő felével meghosszabbítható.
 
-(6)[^28] A műszaki üzemi tervet a bányavállalkozó évente felülvizsgálja, és megváltozott viszonyok esetén a műszaki üzemi terv módosítását kérelmezi. Nem kell a műszaki üzemi tervet módosítani, ha a 29. § (2) bekezdés c) pontja és j) pont jc) alpontja szerinti létesítmények tekintetében történik a módosulás.
+(6)[^29] A műszaki üzemi tervet a bányavállalkozó évente felülvizsgálja, és megváltozott viszonyok esetén a műszaki üzemi terv módosítását kérelmezi. Nem kell a műszaki üzemi tervet módosítani, ha a 29. § (2) bekezdés c) pontja és j) pont jc) alpontja szerinti létesítmények tekintetében történik a módosulás.
 
-(7)[^29] A Bt. 27. § (7) bekezdése szerinti bányatelek esetében a felülvizsgálatnak ki kell terjednie
+(7)[^30] A Bt. 27. § (7) bekezdése szerinti bányatelek esetében a felülvizsgálatnak ki kell terjednie
 
 a) jóváhagyott műszaki üzemi terv szöveges részében és a műszaki üzemi tervet jóváhagyó határozatban foglaltak tárgyévre vonatkozó teljesítésének bemutatására,
 
@@ -64,7 +64,7 @@ c) a jogosultságot megállapító végleges hatósági határozattal vagy joger
 
 igazolhatja.
 
-[^26]: A 30. § (2) bekezdés c) pontja a 33/2022. (VII. 29.) SZTFH rendelet 8. § c) pontja szerint módosított szöveg.
-[^27]: A 30. § (5) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § j) pontja szerint módosított szöveg.
-[^28]: A 30. § (6) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § k) pontja szerint módosított szöveg.
-[^29]: A 30. § (7) bekezdése nyitó szövegrésze a 33/2022. (VII. 29.) SZTFH rendelet 8. § d) pontja szerint módosított szöveg.
+[^27]: A 30. § (2) bekezdés c) pontja a 33/2022. (VII. 29.) SZTFH rendelet 8. § c) pontja szerint módosított szöveg.
+[^28]: A 30. § (5) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § j) pontja szerint módosított szöveg.
+[^29]: A 30. § (6) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § k) pontja szerint módosított szöveg.
+[^30]: A 30. § (7) bekezdése nyitó szövegrésze a 33/2022. (VII. 29.) SZTFH rendelet 8. § d) pontja szerint módosított szöveg.

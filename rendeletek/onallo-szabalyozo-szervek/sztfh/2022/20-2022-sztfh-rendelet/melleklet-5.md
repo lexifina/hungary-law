@@ -120,52 +120,6 @@
 
 ## Folyamatosan egyéb használhatósági vizsgálat szükséges közösen a bányafelügyelettel.
 
-5. melléklet a 20/2022. (I. 31.) SZTFH rendelethez
+5. melléklet a 20/2022. (I. 31.) SZTFH rendelethez[^51]
 
-A bányafelügyeleti hatósági feladatokat ellátó személyek részére biztosítandó szolgálati igazolvány és jelvény biztosításának, használatának és nyilvántartásának részletes szabályai
-
-1. A bányafelügyelet a hatósági feladatokat ellátó közszolgálati jogviszonyban álló köztisztviselői részére a 2. pont szerinti tartalmú bányafelügyeleti szolgálati igazolványt és az igazolvánnyal azonos sorszámú szolgálati jelvényt biztosít.
-
-2. A bányafelügyeleti hatósági feladatok ellátására szolgáló bányafelügyeleti igazolvány tartalmazza:
-
-2.1. az igazolvány számát,
-
-2.2. az igazolvány birtokosának:
-
-2.2.1. fényképét,
-
-2.2.2. nevét, beosztását,
-
-2.3. a Szabályozott Tevékenységek Felügyeleti Hatósága, mint bányafelügyelet megnevezését és székhelyét,
-
-2.4. annak feltüntetését, hogy az igazolvány birtokosa jogosult az ország egész területén a bányafelügyeleti hatósági feladatok ellátására,
-
-2.5. azt, hogy az igazolvány visszavonásig érvényes,
-
-2.6. kiállításának időpontját, a kiállításra jogosult aláírását,
-
-2.7. az arról szóló tájékoztatást, hogy az igazolvány birtokosát hatósági eljárása során megilleti a hivatalos személyeknek járó büntetőjogi védelem, valamint hogy jogosult az általános közigazgatási rendtartásról szóló törvényben, a bányászatról szóló 1993. évi XLVIII. törvényben, valamint végrehajtási rendeleteiben és a külön jogszabályban meghatározott ellenőrzésre és intézkedések megtételére.
-
-3. A bányafelügyelet köztisztviselői hatósági feladataik ellátása során hivatalos eljárásuk igazolása céljából kötelesek a jelvényt ruházatukon viselni, vagy azt igazolásul felmutatni.
-
-4. A jelvény leírása: 40×45 mm átmérőjű, ovális alakú, ezüstszínű fémjelvény, melyen jobbról és balról félkör alakban futó csertölgy ágak felül nyitott szárai között középen elhelyezett, színesre zománcozott Magyarország címer, a félkörívek középpontjában a bányászjelvény (kalapács és ék, egymást keresztező nyelekkel), alul „BÁNYAFELÜGYELET” felirat helyezkedik el.
-
-5. A bányafelügyeleti szolgálati igazolvánnyal, valamint jelvénnyel ellátott, hatósági feladatokat végző köztisztviselőkről a bányafelügyelet nyilvántartást vezet. A nyilvántartás tartalmazza:
-
-5.1. az igazolvány és a jelvény számát,
-
-5.2. az igazolvány birtokosának
-
-5.2.1. nevét,
-
-5.2.2. születési helyét, idejét,
-
-5.2.3. lakóhelyét,
-
-5.3. a kiadás időpontját,
-
-5.4. ha az igazolvány és a jelvény visszavonásra kerül, annak okát.
-
-6. A szolgálati igazolvány és jelvény elvesztését haladéktalanul be kell jelenteni a bányafelügyelet részére.
-
-7. A közszolgálati jogviszony megszűnésekor a köztisztviselő az igazolványt és a jelvényt legkésőbb az utolsó munkában töltött napon átadja a bányafelügyelet részére.
+[^51]: Az 5. mellékletet a 2/2023. (I. 31.) SZTFH rendelet 4. § b) pontja hatályon kívül helyezte.
