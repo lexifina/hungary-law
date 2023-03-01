@@ -8,7 +8,7 @@ b) ellátja a foglalkoztatási programokkal kapcsolatos elkülönített állami 
 
 c) kiadja a képzési és kimeneti követelményeket és a programtantervet a Kormány adott ágazatért felelős tagjának egyetértésével,
 
-d) vezeti a szakmai képzéshez kapcsolódóan megszerezhető szakképesítések programkövetelményeinek nyilvántartását,
+d)
 
 e) – a Kormány adott ágazatért felelős tagjának egyetértésével –
 

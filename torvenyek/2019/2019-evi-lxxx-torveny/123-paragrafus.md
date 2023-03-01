@@ -24,7 +24,7 @@
 
 2. a képzési és kimeneti követelmények, a programtanterv és a szakmai program meghatározásának szabályait,
 
-3. a programkövetelmény és a szakmai képzés képzési programja meghatározásának szabályait és nyilvántartásba vételének rendjét, valamint az eljárásba bevonásra kerülő szakértőket és a szakértői szakvélemény elkészítéséért fizetendő szakértői díj mértékét,
+3. a szakmai képzés képzési programja meghatározásának szabályait,
 
 4. a szakképző intézmény alapításának, megszüntetésének, átszervezésének és fenntartói irányítási hatásköre átadásának, a nem állami szakképző intézmény működési engedélye kiadásának és a szakképző intézmények nyilvántartásának részletes szabályait, a szakképző intézmény alapító okiratának kötelező tartalmi elemeit, a szakképző intézmények névhasználatának szabályait, valamint a szakképző intézmény belső szabályzatainak kötelező tartalmi elemeit,
 
@@ -124,4 +124,4 @@
 
 48. a külföldi szakképző intézmény Magyarországon történő és a magyar szakképző intézmény külföldön történő működésének és nyilvántartásának részletes szabályait.
 
-(3) Felhatalmazást kap a szakképzésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a 13. § (3a) bekezdése és a 96. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.
+(3) Felhatalmazást kap a szakképzésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a 96. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.

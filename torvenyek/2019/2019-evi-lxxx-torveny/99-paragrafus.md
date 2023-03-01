@@ -4,7 +4,7 @@
 
 (2) Az ágazati készségtanács folyamatosan figyelemmel kíséri a saját ágazatában a szakképzési szerkezet fejlesztését, a gazdasági, munkaerő-piaci, technikai-technológiai folyamatokat, és ennek alapján
 
-a) szakvéleményt ad a szakmai képzés programkövetelményének nyilvántartásba vételével összefüggésben,
+a) szakvéleményt ad a felnőttképzésért felelős miniszter számára a szakmai képzés programkövetelményének nyilvántartásba vételével összefüggésben,
 
 b) kidolgozott javaslatot tehet
 
