@@ -34,7 +34,13 @@ g) a munkaerő-piaci előrejelző rendszer működésére, az adatszolgáltatás
 
 h) a komplex felzárkózási képzések részletes szabályait, valamint, hogy ezen képzések szervezéséért és a képzések engedélyezéséért, ellenőrzéséért felelős szervet rendeletben jelölje ki.
 
-(3) Felhatalmazást kap a felnőttképzésért felelős miniszter, hogy az adópolitikáért felelős miniszter egyetértésével rendeletben határozza meg a 3. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint a felnőttképzők ellenőrzése során kiszabott közigazgatási bírság befizetésének rendjét.
+i) a programkövetelmény nyilvántartásba vételének rendjét, valamint az eljárásba bevonásra kerülő szakértőkre vonatkozó rendelkezéseket és a szakértői vélemény elkészítéséért fizetendő szakértői díj mértékét,
+
+(3) Felhatalmazást kap a felnőttképzésért felelős miniszter, hogy
+
+a) az adópolitikáért felelős miniszter egyetértésével rendeletben határozza meg a 3. § (2) bekezdése, valamint a 11/A. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint a felnőttképzők ellenőrzése során kiszabott közigazgatási bírság befizetésének rendjét,
+
+b) a szakképzésért felelős miniszter egyetértésével kiadott rendeletben határozza meg a programkövetelmény nyilvántartásba vételének tartalmi szabályait,
 
 (4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg
 
