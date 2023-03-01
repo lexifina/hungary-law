@@ -1,3 +1,5 @@
-6. §[^1]
+6. § Hatályát veszti
 
-[^1]: A 6. § az 5. § (2) bekezdés alapján 2023. március 1-jén lép hatályba.
+a) az 1. § nyitó szövegrészében az „és a geotermikus energia” szövegrész,
+
+b) az 1. § záró szövegrészében a „vagy a geotermikus energia kutatása és kinyerése” szövegrész.
