@@ -4,7 +4,7 @@ a) ha rendelkezik ebrendészeti teleppel, akkor saját szervezeti keretei közö
 
 b) ebrendészeti telepet működtető természetes vagy jogi személlyel kötött szerződés keretében
 
-## biztosítja.
+biztosítja.
 
 (2) Az (1) bekezdés a) pontja szerinti esetben az önkormányzat köteles a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) részére a 4. § (3) bekezdés b)–e) pontja szerinti adatot átadni, valamint az e rendelet szerinti, az ebrendészeti telep működésére és a kóbor állatok elhelyezésére vonatkozó feltételeket teljesíteni.
 

@@ -1,8 +1,6 @@
-## 20. §[^1]
-
 1. melléklet a 785/2021. (XII. 27.) Korm. rendelethez
 
-## Az ebrendészeti telep működésének műszaki feltételei
+Az ebrendészeti telep működésének műszaki feltételei
 
 1. Az ebrendészeti telepnek rendelkeznie kell
 
@@ -43,5 +41,3 @@
 4. A nyílászáró szerkezetnek könnyen tisztán tarthatónak és fertőtleníthetőnek kell lennie. Az oldalfalat és a rácsot mosható, fertőtleníthető anyagból kell készíteni.
 
 5. Az állatférőhelyek számát úgy szükséges meghatározni, hogy az újonnan befogott állatok elhelyezése is biztosítható legyen.
-
-[^1]: A 20. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

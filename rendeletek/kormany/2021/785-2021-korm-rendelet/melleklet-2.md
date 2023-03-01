@@ -1,6 +1,6 @@
 2. melléklet a 785/2021. (XII. 27.) Korm. rendelethez
 
-## Az ebrendészeti telep működési szabályzatának tartalmi elemei
+Az ebrendészeti telep működési szabályzatának tartalmi elemei
 
 1. A működési szabályzatnak tartalmaznia kell
 
