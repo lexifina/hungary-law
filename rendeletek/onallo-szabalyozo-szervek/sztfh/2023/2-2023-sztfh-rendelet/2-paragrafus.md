@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 7. § (2) bekezdés alapján 2023. március 1-jén lép hatályba.
+2. § Az R1. 7/A. § (10) bekezdésében az „a Hatóság által kiállított arcképes igazolvány és megbízólevél elnevezésű okirattal” szövegrész helyébe az „a bányafelügyeleti, a szerencsejáték-felügyeleti és a dohánytermék-kiskereskedelem felügyeletével kapcsolatos hatósági feladatokat ellátó személyek igazolványáról szóló SZTFH rendelet szerinti szolgálati igazolvánnyal” szöveg lép.

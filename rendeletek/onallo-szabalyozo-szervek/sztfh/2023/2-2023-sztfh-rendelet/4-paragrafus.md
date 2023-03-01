@@ -1,5 +1,7 @@
 ## 3. A bányászatról szóló 1993. évi XLVIII. törvény végrehajtásának egyes szabályairól szóló 20/2022. (I. 31.) SZTFH rendelet módosítása
 
-4. §[^4]
+4. § Hatályát veszti a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásának egyes szabályairól szóló 20/2022. (I. 31.) SZTFH rendelet
 
-[^4]: A 4. § a 7. § (2) bekezdés alapján 2023. március 1-jén lép hatályba.
+a) 43. § (4) bekezdése,
+
+b) 5. melléklete.
