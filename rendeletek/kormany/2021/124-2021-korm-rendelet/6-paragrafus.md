@@ -16,6 +16,6 @@ c) ellátja a miniszter által rábízott feladatokat.
 
 (5) A minisztériumi hulladékgazdálkodási hatóság és az országos hulladékgazdálkodási hatóság közreműködik a nemzetközi feladatok végrehajtásában.
 
-(6)[^8] Az országos hulladékgazdálkodási hatóság véleményezi a kiemelt térségre és a vármegyére készülő területfejlesztési koncepciót és programot, valamint területrendezési tervet, továbbá a településrendezési eszközöket.
+(6)[^8]
 
-[^8]: A 6. § (6) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 315. § e) pontja szerint módosított szöveg.
+[^8]: A 6. § (6) bekezdését a 60/2023. (II. 28.) Korm. rendelet 45. § a) pontja hatályon kívül helyezte.
