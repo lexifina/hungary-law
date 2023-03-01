@@ -8,10 +8,6 @@
 
 (4) Ha a csatlakozott szolgáltató a (2) bekezdésben rögzített értesítés kézhezvételétől számított 30 napon belül a módosítással kapcsolatban kifogást az üzemeltetővel nem közöl, az a szerződésmódosítás elfogadásának minősül. A csatlakozott szolgáltató figyelmét a jelen bekezdésben rögzítettekre az üzemeltető a (2) bekezdés szerinti értesítésben felhívja.
 
-(5) A csatlakozási szerződés megszűnik
+(5)[^2] A csatlakozási szerződés megszűnik a csatlakozott szolgáltató szolgáltatói engedélyének visszavonásával.
 
-a) a csatlakozott szolgáltató és az üzemeltető írásbeli közös megegyezése alapján,
-
-b) a csatlakozott szolgáltató írásbeli rendes felmondásával indokolás nélkül vagy
-
-c) a csatlakozott szolgáltató vagy az üzemeltető írásbeli rendkívüli felmondása esetén.
+[^2]: Az 5. § (5) bekezdése a 60/2023. (II. 28.) Korm. rendelet 48. §-ával megállapított szöveg.

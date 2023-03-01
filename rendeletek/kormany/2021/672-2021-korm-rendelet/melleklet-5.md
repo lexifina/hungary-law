@@ -1,3 +1,3 @@
-5. melléklet a 672/2021. (XII. 2.) Korm. rendelethez[^11]
+5. melléklet a 672/2021. (XII. 2.) Korm. rendelethez[^12]
 
-[^11]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

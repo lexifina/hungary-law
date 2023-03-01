@@ -11,3 +11,5 @@
 a) automatizált adatváltozás-bejelentési szolgáltatás igénybevétele esetén a szolgáltatással érintett adatok, illetve
 
 b) a Khtv. 20/R. § (4) bekezdése szerint közhiteles nyilvántartásból átvett adatok
+
+tekintetében.
