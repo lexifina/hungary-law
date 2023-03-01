@@ -50,6 +50,7 @@ f) az ellenőrzés alá vont időszak megjelölését.
 
 (9) A Hatóság a hatósági ellenőrzés során, a dohánytermék-nagykereskedők kivételével, próbavásárlást végezhet.
 
-(10) Helyszíni ellenőrzés keretében az ellenőrzési jogosultságot az ellenőr az ellenőrzés megkezdését megelőzően a Hatóság által kiállított arcképes igazolvány és megbízólevél elnevezésű okirattal köteles igazolni, és az ellenőrzés típusáról, tárgyáról tájékoztatást adni, kivéve a helyszíni ellenőrzés keretében végzett próbavásárlást. Próbavásárlás esetén az ellenőrzési jogosultságot a próbavásárlás befejezésekor kell igazolni. A helyszíni ellenőrzést legalább két ellenőr együttesen végzi.
+(10)[^25] Helyszíni ellenőrzés keretében az ellenőrzési jogosultságot az ellenőr az ellenőrzés megkezdését megelőzően a bányafelügyeleti, a szerencsejáték-felügyeleti és a dohánytermék-kiskereskedelem felügyeletével kapcsolatos hatósági feladatokat ellátó személyek igazolványáról szóló SZTFH rendelet szerinti szolgálati igazolvánnyal köteles igazolni, és az ellenőrzés típusáról, tárgyáról tájékoztatást adni, kivéve a helyszíni ellenőrzés keretében végzett próbavásárlást. Próbavásárlás esetén az ellenőrzési jogosultságot a próbavásárlás befejezésekor kell igazolni. A helyszíni ellenőrzést legalább két ellenőr együttesen végzi.
 
 [^24]: Az 5/A. alcímet (7/A. §) § a 34/2022. (VIII. 4.) SZTFH rendelet 8. §-a iktatta be.
+[^25]: A 7/A. § (10) bekezdése a 2/2023. (I. 31.) SZTFH rendelet 2. §-a szerint módosított szöveg.
