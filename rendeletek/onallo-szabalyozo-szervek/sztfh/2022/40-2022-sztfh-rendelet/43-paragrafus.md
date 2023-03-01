@@ -1,11 +1,10 @@
 43. § Hatályát veszti az R8.
 
-a)[^62]
+a) 4. § (1) bekezdésében a „ , valamint a geotermikus energia esetében az erre történő utalást”,
 
-b)[^63]
+b)[^59]
 
-c)[^64]
+c)[^60]
 
-[^62]: A 43. § a) pontja a 47. § (3) bekezdés alapján 2023. március 1-jén lép hatályba.
-[^63]: A 43. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^64]: A 43. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 43. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: A 43. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
