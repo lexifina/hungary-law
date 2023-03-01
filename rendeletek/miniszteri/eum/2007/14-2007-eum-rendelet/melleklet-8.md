@@ -248,8 +248,8 @@
 
 | 8. | 21 45 30 | Hallásjavító készülékek tartozékai és a hallásjavítás egyéb eszközei |
 
-8. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^176]
+8. számú melléklet a 14/2007. (III. 14.) EüM rendelethez[^177]
 
 Tartós, vagy nem tartós használatra, illetve ruházati jellegű tartós használatra szánt gyógyászati segédeszközök
 
-[^176]: A 8. számú melléklet a 8/2008. (III. 4.) EüM rendelet 13. §-a, és a 74/2011. (XII. 29.) NEFMI rendelet 4. § (1) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (7) bekezdése, a 32/2019. (XII. 17.) EMMI rendelet 4. § (3) bekezdése, a 32/2021. (VII. 29.) EMMI rendelet 9. § (6) bekezdése szerint módosított szöveg.
+[^177]: A 8. számú melléklet a 8/2008. (III. 4.) EüM rendelet 13. §-a, és a 74/2011. (XII. 29.) NEFMI rendelet 4. § (1) bekezdésével megállapított, a 7/2016. (III. 30.) EMMI rendelet 15. § (7) bekezdése, a 32/2019. (XII. 17.) EMMI rendelet 4. § (3) bekezdése, a 32/2021. (VII. 29.) EMMI rendelet 9. § (6) bekezdése szerint módosított szöveg.

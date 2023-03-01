@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-14-20-0
 | 2022-04-01 | 2007-14-20-0B.55 | 10/2022. (III. 31.) EMMI rendelet |
 | 2022-05-26 | 2007-14-20-0B.56 | 34/2010. (V. 14.) EüM rendelet |
 | 2023-01-01 | 2007-14-20-0B.57 | 34/2010. (V. 14.) EüM rendelet |
+| 2023-03-01 | 2007-14-20-0B.58 | 4/2023. (II. 8.) BM rendelet |
