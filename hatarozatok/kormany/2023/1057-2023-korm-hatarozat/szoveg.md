@@ -24,40 +24,17 @@ d) felhívja a pénzügyminisztert és a gazdaságfejlesztési minisztert, hogy 
 
 | Határidő: | 2023. március 31. |
 
-2. Az 1749/2014. (XII. 15.) Korm. határozat 1. pontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány)
+3.[^2]
 
-„1. egyetért azzal, hogy az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) 8 milliárd forint keretösszeggel a Magyar Fejlesztési Bank Részvénytársaságról szóló 2001. évi XX. törvény (a továbbiakban: MFB törvény) 2. § c) pontja alapján – 2023. december 31-éig történő hitelszerződés-kötési lehetőség biztosításával – meghirdesse az MFB TÉSZ Forgóeszköz Hitelprogram 2020-at (a továbbiakban: Hitelprogram) az agrárpolitikáért felelős miniszter által kiadott elismeréssel rendelkező,
+4.[^3]
 
-a) a tej- és tejtermék-ágazatban működő termelői szervezetek és társulásaik nemzeti szabályozásáról szóló 3/2016. (I. 7.) FM rendelet szerint a tej- és tejtermék-ágazatban működő termelői szervezetek és társulásaik,
-
-b) a zöldség-gyümölcs termelői szervezetekről szóló 50/2017. (X. 10.) FM rendelet szerint a gyümölcs- és zöldségfélék ágazatban működő termelői szervezetek és társulásaik,
-
-c) a termelői integrációs szervezetekről szóló 24/2020. (VI. 22.) AM rendelet szerint az a) és b) pontban felsoroltaktól eltérő mezőgazdasági ágazatokban működő termelői integrációs szervezetek és társulásaik, valamint
-
-d) a termelői csoportok elismeréséről szóló 42/2015. (VII. 22.) FM rendelet szerint működő termelői csoportok
-
-számára, maximum 6 éves lejárattal, azon belül maximum 3 év türelmi idővel, maximum 500 millió forint összegű hitelösszeggel, amely forgóeszköz-finanszírozásra használható fel;”
-
-3. Az 1749/2014. (XII. 15.) Korm. határozat 8. pontjában a „nemzetgazdasági minisztert” szövegrész helyébe a „pénzügyminisztert” szöveg, a „nemzetgazdasági miniszter” szövegrész helyébe a „pénzügyminiszter” szöveg, a „Miniszterelnökséget vezető miniszter” szövegrész helyébe a „gazdaságfejlesztési miniszter” szöveg lép.
-
-4. Az 1750/2014. (XII. 15.) Korm. határozat
-
-a) 1. pont nyitó szövegrészében a „4. § (2) bekezdése” szövegrész helyébe a „2. § c) pontja” szöveg, a „2022. december 31-éig” szövegrész helyébe a „2023. december 31-éig” szöveg,
-
-b) 1. pont záró szövegrészében a „150 millió forint” szövegrész helyébe az „500 millió forint” szöveg,
-
-c) 5. pontjában a „nemzetgazdasági minisztert” szövegrész helyébe a „pénzügyminisztert” szöveg, a „9 év, lejárata 2029. december 31.” szövegrész helyébe a „10 év, lejárata 2030. december 31.” szöveg, a „nemzetgazdasági miniszter” szövegrész helyébe a „pénzügyminiszter” szöveg, a „Miniszterelnökséget vezető miniszter” szövegrész helyébe a „gazdaságfejlesztési miniszter” szöveg
-
-lép.
-
-5. Az 1751/2014. (XII. 15.) Korm. határozat
-
-a) 1. pontjában a „4. § (2) bekezdése” szövegrész helyébe a „2. § c) pontja” szöveg, a „2022. december 31-éig” szövegrész helyébe a „2023. december 31-éig” szöveg,
-
-b) 5. pontjában a „nemzetgazdasági minisztert” szövegrész helyébe a „pénzügyminisztert” szöveg, a „9 év, lejárata 2029. december 31.” szövegrész helyébe a „10 év, lejárata 2030. december 31.” szöveg, a „nemzetgazdasági miniszter” szövegrész helyébe a „pénzügyminiszter” szöveg, a „Miniszterelnökséget vezető miniszter” szövegrész helyébe a „gazdaságfejlesztési miniszter” szöveg
-
-lép.
+5.[^4]
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
