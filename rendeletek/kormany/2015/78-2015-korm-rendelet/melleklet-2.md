@@ -44,7 +44,7 @@
 
 | 8. | Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet szerinti eljárások |  |
 
-| 8.1. | Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 21. § (2) bekezdése szerinti sajátos építményfajtákkal kapcsolatos hatósági eljárások | 14 000 |
+| 8.1. | Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 22. § (2) bekezdése szerinti sajátos építményfajtákkal kapcsolatos hatósági eljárások | 14 000 |
 
 | 8.2. | Villamosenergia-ipari építésügyi engedélyezési eljárás [a villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet] | 10 000 |
 
