@@ -1,0 +1,152 @@
+# A Kormány 64/2023. (III. 1.) Korm. rendelete
+
+Magyar Közlöny 2023. évi 31. szám, 2023. március 1. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/flHsv0ZAcYdtB7T7lzGR63f65fb3e6d2b/dokumentumok/4d15def3bef089c96f799992749eec73a8aed996/letoltes)
+
+---
+
+A Kormány 64/2023. (III. 1.) Korm. rendelete
+a többségi befolyás alatt álló gazdálkodó szervezetek felszámolásának veszélyhelyzeti szabályairól
+A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi
+és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvényt (a továbbiakban: Cstv.), a bírósági
+végrehajtásról szóló 1994. évi LIII. törvényt (a továbbiakban: Vht.), a Magyarország gazdasági stabilitásáról
+szóló 2011. évi CXCIV. törvényt, az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi
+CLIII. törvényt (a továbbiakban: Avt.), a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény,
+valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény veszélyhelyzet
+ideje alatt történő eltérő alkalmazásáról szóló 521/2022. (XII. 13.) Korm. rendeletet (a továbbiakban: R.),
+valamint a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, a bírósági végrehajtásról
+szóló 1994. évi LIII. törvény, a Polgári Törvénykönyvről szóló 2013. évi V. törvény veszélyhelyzet ideje alatt való
+eltérő alkalmazásáról, továbbá a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint
+a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény veszélyhelyzet
+ideje alatt történő eltérő alkalmazásáról szóló 521/2022. (XII. 13.) Korm. rendelet alapján elrendelt felszámolási
+eljárások veszélyhelyzet ideje alatti részletszabályairól szóló 21/2023. (I. 30.) Korm. rendeletet (a továbbiakban: R2.)
+az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek
+magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes
+veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet ideje alatt az e rendeletben
+foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
+2. §
+E rendeletet az R. 4. §-a alapján elrendelt felszámolási eljárásokban, valamint az R. 4. §-a alapján elrendelt
+felszámolási eljárás adósának (a továbbiakban: adós) a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:2. §
+(1) bekezdése szerinti többségi befolyása alatt álló gazdálkodó szervezet (a továbbiakban: befolyás alatt álló
+gazdálkodó szervezet) vonatkozásában kell alkalmazni.
+3. § (1) A Cstv. 22. § (1) bekezdését, valamint a Cstv. 27. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy
+a felszámolási eljárás az adós, illetve a befolyás alatt álló gazdálkodó szervezet kérelmére is lefolytatható a befolyás
+alatt álló gazdálkodó szervezet ellen, ha a befolyás alatt álló gazdálkodó szervezet tartozásai meghaladják
+a vagyonát, illetve a tartozását (tartozásait) az esedékességkor nem tudta kielégíteni.
+(2) Az adós az R2. 8. § (1) bekezdése és 10. § a) pontja alapján meghatározott határidőn belül felhívja a befolyás
+alatt álló gazdálkodó szervezetet, hogy a felhívás kézhezvételétől számított 3 napon belül írásban nyilatkozzon
+a tartozásairól, azok jogcíméről és esedékességéről – külön megjelölve a lejárt tartozásokat –, a tartozás (tartozások)
+kiegyenlítésére rendelkezésre álló vagyonról, illetve annak összetételéről. A befolyás alatt álló gazdálkodó szervezet
+vezető tisztségviselője teljességi nyilatkozatot tesz az általa átadott iratok tekintetében.
+(3) Ha a (2) bekezdés szerinti nyilatkozat alapján fennállnak az (1) bekezdésben meghatározott feltételek, az adós
+felhívja a befolyás alatt álló gazdálkodó szervezetet a lejárt tartozás (tartozások) 8 napon belüli kiegyenlítésére.
+(4) A befolyás alatt álló gazdálkodó szervezet köteles a (3) bekezdés szerinti felhívás kézhezvételétől számított
+8 napon belül felszámolási eljárást kezdeményezni, ha a tartozásai meghaladják a vagyonát, illetve a lejárt tartozását
+(tartozásait) a (3) bekezdés szerinti határidőben nem tudja kiegyenlíteni.
+(5) A befolyás alatt álló gazdálkodó szervezet a (4) bekezdés szerinti határidőn belül tájékoztatja az adóst, hogy lejárt
+tartozását (tartozásait) kiegyenlítette-e.
+(6) Az adós a (4) bekezdés szerinti határidő elteltét követő 8 napon belül a befolyás alatt álló gazdálkodó
+szervezet felszámolását kezdeményezheti, ha a befolyás alatt álló gazdálkodó szervezet a (4) bekezdés szerinti
+kötelezettségének a felhívás ellenére nem tett eleget.
+
+(7) Ha a befolyás alatt álló gazdálkodó szervezet a (2) vagy (5) bekezdés szerinti kötelezettségének nem vagy csak
+részben tesz eleget, a fizetésképtelenség tényét vélelmezni kell.
+(8) Az e § szerinti felszámolási eljárás lefolytatása iránti kérelemnek tartalmaznia kell a (2) bekezdés szerinti
+nyilatkozatban foglalt adatokat, kivéve a (7) bekezdés szerinti vélelemre alapított kérelmet, amelyben
+az adósnak kizárólag azt kell igazolni, hogy a befolyás alatt álló gazdálkodó szervezet felé megtette a (2), illetve
+– az (5) bekezdés szerinti kötelezettség elmulasztására alapított kérelem esetén – a (3) bekezdés szerinti
+felhívásokat, és a befolyás alatt álló gazdálkodó szervezet a felhívásnak nem tett eleget.
+(9) A bíróság eljárására a Cstv. 24. § (2) és (3) bekezdése, valamint 26. § (3) bekezdése nem alkalmazandó.
+(10) Ha a bíróság a befolyás alatt álló gazdálkodó szervezet (1) vagy (7) bekezdés szerinti fizetésképtelenségét állapítja
+meg, a bíróság eljárására a Cstv. 27. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a bíróság a felszámolást
+elrendelő végzést a kérelem beérkezését követő 8 napon belül hozza meg. A fellebbezést az iratok másodfokú
+bírósághoz érkezését követő 8 napon belül kell elbírálni.
+4. § (1) A Cstv. 6. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a 3. § szerinti felszámolási eljárásra az a bíróság
+kizárólagosan illetékes, amely az adós felszámolását elrendelte.
+(2) A befolyás alatt álló gazdálkodó szervezet ellen más bíróságoknál benyújtott felszámolási eljárás lefolytatása iránti
+kérelmeket a bíróság haladéktalanul az (1) bekezdés szerint illetékességgel rendelkező bírósághoz teszi át.
+5. § (1) Az adós felszámolója és a befolyás alatt álló gazdálkodó szervezet felszámolója kötelesek egymást tájékoztatni és
+együttműködni. Különösen vonatkozik ez az adós és a befolyás alatt álló gazdálkodó szervezet vagyoni és pénzügyi
+helyzetére, azon vagyontárgyainak értékesítésére, amelyek a másik érintett felszámolási eljárásban jelentőséggel
+bírnak, és amelyekről kötelesek haladéktalanul tájékoztatást adni.
+(2) A bíróság az (1) bekezdés szerinti felszámolót e rendeletben meghatározott kötelezettségeinek megszegése vagy
+elmulasztása esetén pénzbírsággal sújthatja, melynek összege legfeljebb 900 000 forint lehet. A bírság kiszabása
+során a bíróság figyelembe veszi a mulasztás vagy jogszabálysértés jellegét, súlyosságát, egyszeri vagy ismétlődő
+jellegét, a hitelezők érdekeinek veszélyeztetését vagy sérelmét.
+(3) A Cstv. 27/A. § (7) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy a bíróság akkor is felmenti
+az (1) bekezdés szerinti felszámolót, ha az eljárás adatai alapján megállapítja, hogy a felszámoló súlyosan és
+ismétlődően megsértette az (1) bekezdés szerinti kötelezettségét.
+6. § (1) A felszámoló az adós és a befolyás alatt álló gazdálkodó szervezet főtevékenységéhez nem kapcsolódó
+vagyonelemeinek (ingó- és ingatlanvagyon és az ezek hasznosításával összefüggő immateriális javak, társasági
+részesedés) értékesítését a felszámolás kezdő időpontjától megkezdheti.
+(2) A zálogjoggal terhelt vagyonelemek az (1) bekezdés alapján nem értékesíthetőek.
+(3) Az (1) bekezdés szerinti értékesítésre a Cstv. 49. § (2) bekezdése nem alkalmazandó.
+7. § (1) Az Avt. III., IV. és V. Fejezetét az e §-ban foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
+(2) Az adós felszámolását elrendelő végzés meghozatala napjától számított 60 napig az adóhatóság nem hívhatja fel
+a tartozás megfizetésére, illetve nem indíthat végrehajtást a befolyás alatt álló gazdálkodó szervezet ellen.
+(3) Ha a befolyás alatt álló gazdálkodó szervezet ellen a végrehajtási eljárást az adós felszámolását elrendelő végzés
+meghozatalának időpontjában már megindították, a (2) bekezdésben meghatározott időtartam alatt a befolyás alatt
+álló gazdálkodó szervezet elleni végrehajtási eljárásban végrehajtási cselekmény nem foganatosítható.
+(4) Ha a (2) bekezdés szerinti határidőn belül a 3. § alapján meghozzák a befolyás alatt álló gazdálkodó szervezet
+felszámolását elrendelő végzést, a befolyás alatt álló gazdálkodó szervezet felszámolásának kezdő időpontjáig
+az adóhatóság nem hívhatja fel a tartozás megfizetésére, illetve nem indíthat végrehajtást a befolyás alatt álló
+gazdálkodó szervezet ellen.
+(5) Ha a (2) bekezdés szerinti határidőn belül a 3. § alapján meghozzák a befolyás alatt álló gazdálkodó szervezet
+felszámolását elrendelő végzést, a befolyás alatt álló gazdálkodó szervezet felszámolását elrendelő végzés
+meghozatalának időpontjában a befolyás alatt álló gazdálkodó szervezet ellen már megindított végrehajtási
+eljárásban végrehajtási cselekmény nem foganatosítható a befolyás alatt álló gazdálkodó szervezet felszámolásának
+kezdő időpontjáig.
+(6) A (2)–(5) bekezdés szerinti időtartam alatt nyugszik a tartozás végrehajtásához való jog elévülése.
+
+8. § (1) A Vht. II. és III. Fejezetét az e §-ban foglalt eltérésekkel és kiegészítésekkel kell alkalmazni.
+(2) Ha az R2. 8. § (1) bekezdése és 10. § a) pontja alapján meghatározott határidőn belül a 3. § alapján meghozzák
+a befolyás alatt álló gazdálkodó szervezet felszámolását elrendelő végzést, a befolyás alatt álló gazdálkodó szervezet
+felszámolásának kezdő időpontjáig nem rendelhető el végrehajtás a befolyás alatt álló gazdálkodó szervezet ellen.
+(3) Ha az R2. 8. § (1) bekezdése és 10. § a) pontja alapján meghatározott határidőn belül a 3. § alapján meghozzák
+a befolyás alatt álló gazdálkodó szervezet felszámolását elrendelő végzést, a befolyás alatt álló gazdálkodó szervezet
+felszámolását elrendelő végzés meghozatalának időpontjában a befolyás alatt álló gazdálkodó szervezet ellen
+már elrendelt végrehajtási eljárásban végrehajtási cselekmény nem foganatosítható a befolyás alatt álló gazdálkodó
+szervezet felszámolásának kezdő időpontjáig.
+(4) A (2)–(3) bekezdés szerinti időtartam alatt a végrehajtási jog elévülése nyugszik.
+9. §
+Ha a 3. § alapján elrendelik a befolyás alatt álló gazdálkodó szervezet felszámolását, a bíróság haladéktalanul
+intézkedik – e rendeletre történő hivatkozással – az elsőfokú végzés Cégközlönyben történő közzétételéről.
+A Cégközlönyben történő közzétételre a Cégközlöny honlapján napi feltöltéssel kerül sor.
+10. §
+E rendelet alapján indult eljárásokban az R. mellett a Bérgarancia Alapról szóló 1994. évi LXVI. törvény, valamint
+a munka törvénykönyvéről szóló 2012. évi I. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról,
+továbbá a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a cégnyilvánosságról,
+a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény veszélyhelyzet ideje alatt történő eltérő
+alkalmazásáról szóló 521/2022. (XII. 13.) Korm. rendelet alapján elrendelt felszámolási eljárások részletszabályairól
+szóló 562/2022. (XII. 23.) Korm. rendelet, az R2., a csődeljárásról és a felszámolási eljárásról szóló 1991. évi
+XLIX. törvény, a Bérgarancia Alapról szóló 1994. évi LXVI. törvény veszélyhelyzet ideje alatt történő eltérő
+alkalmazásáról, továbbá a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint
+a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény veszélyhelyzet ideje
+alatt történő eltérő alkalmazásáról szóló 521/2022. (XII. 13.) Korm. rendelet alapján elrendelt felszámolási eljárások
+részletszabályairól szóló 28/2023. (II. 1.) Korm. rendelet rendelkezéseit is alkalmazni kell.
+11. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) Az 5. § (2) bekezdése az e rendelet kihirdetését követő 15. napon lép hatályba.
+12. § (1) E rendeletet – a (2)–(7) bekezdésben foglalt kivétellel – az e rendelet hatálybalépését követően indult eljárásokban
+kell alkalmazni.
+(2) E rendeletet az e rendelet hatálybalépésekor folyamatban lévő, az R. 4. §-a alapján elrendelt felszámolási
+eljárásokban, és az e felszámolási eljárások adósának többségi befolyása alatt álló gazdálkodó szervezetek
+vonatkozásában is alkalmazni kell.
+(3) Az R. 4. §-a alapján elrendelt és az e rendelet hatálybalépésekor folyamatban lévő felszámolási eljárások adósának
+többségi befolyása alatt álló gazdálkodó szervezet vonatkozásában a 7. § (2) bekezdését azzal az eltéréssel
+kell alkalmazni, hogy az abban meghatározott határidőt e rendelet hatálybalépésének napjától kell számítani.
+(4) A 7. § (3) bekezdését az e rendelet hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell,
+azzal, hogy az e rendelet hatálybalépését követő hatvan napig nem foganatosítható végrehajtási cselekmény.
+(5) Az R. 4. §-a alapján elrendelt és az e rendelet hatálybalépésekor folyamatban lévő felszámolási eljárások adósának
+többségi befolyása alatt álló gazdálkodó szervezet vonatkozásában a 8. § (2) bekezdését azzal az eltéréssel
+kell alkalmazni, hogy az abban meghatározott 60 napos határidőt az R2. hatálybalépésének napjától kell számítani.
+(6) A 8. § (3) bekezdését az e rendelet hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell,
+azzal, hogy az abban meghatározott 60 napos határidőt az R2. hatálybalépésének napjától kell számítani.
+(7) E rendeletet az e rendelet hatálybalépésekor már folyamatban lévő azon ügyekben is alkalmazni kell, amelyekben
+a befolyás alatt álló gazdálkodó szervezet ellen benyújtott felszámolási eljárás lefolytatása iránti kérelmet
+az e rendelet hatálybalépésekor még nem bírálták el.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+V. A Kormány tagjainak rendeletei
