@@ -1,5 +1,5 @@
 ## (Az Nytv. 22—24. §-aihoz)
 
-28. §[^220]
+28. §[^221]
 
-[^220]: Az R. 28. §-át a 417/2012. (XII. 29.) Korm. rendelet 43. §-a hatályon kívül helyezte.
+[^221]: Az R. 28. §-át a 417/2012. (XII. 29.) Korm. rendelet 43. §-a hatályon kívül helyezte.

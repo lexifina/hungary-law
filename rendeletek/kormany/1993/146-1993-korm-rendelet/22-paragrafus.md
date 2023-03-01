@@ -34,6 +34,8 @@ f)[^205] a vezetői engedély automatikus hivatalbóli kiállítása érdekében
 
 g)[^206] a hivatásos katasztrófavédelmi szerv részére hatósági feladatai ellátásához szükséges
 
+h)[^207] az erdészeti hatóságként eljáró vármegyei kormányhivatal
+
 kutatási kérelmére a közölt hiányos, illetve töredékadatoknak megfelelő személyek adatait szolgáltatja.
 
 (6) Az adatigénylő felelősséggel tartozik azért, hogy a nyilvántartás szerve által tévedésből közölt, vagy a (4)–(5) bekezdések szerinti adatszolgáltatás esetén a személyazonosítás elvégzését vagy meghiúsulását követően feleslegessé vált adatokat haladéktalanul törölje.
@@ -45,10 +47,11 @@ kutatási kérelmére a közölt hiányos, illetve töredékadatoknak megfelelő
 [^197]: Az R. 22. §-ának (2) bekezdése a 117/2009. (VI. 4.) Korm. rendelet 12. § (3) bekezdése, a 375/2021. (VI. 30.) Korm. rendelet 3. § 2. pontja szerint módosított szöveg.
 [^198]: Az R. 22. § (2a) bekezdését a 403/2015. (XII. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 6/2020. (I. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^199]: Az R. 22. § (2b) bekezdését a 403/2015. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
-[^200]: A 22. § (2c) bekezdését a a 6/2020. (I. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^200]: Az R. 22. § (2c) bekezdését a a 6/2020. (I. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^201]: Az R. 22. § (4) bekezdése a 375/2021. (VI. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^202]: Az R. 22. § (5) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^203]: Az R. 22. § (5) bekezdés c) pontja az 569/2022. (XII. 23.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^204]: Az R. 22. § (5) bekezdés e) pontját a 717/2021. (XII. 20.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege az 569/2022. (XII. 23.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
 [^205]: Az R. 22. § (5) bekezdés f) pontját az 569/2022. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
 [^206]: Az R. 22. § (5) bekezdés g) pontját az 569/2022. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^207]: A 22. § (5) bekezdés h) pontját a 60/2023. (II. 28.) Korm. rendelet 1. §-a iktatta be.

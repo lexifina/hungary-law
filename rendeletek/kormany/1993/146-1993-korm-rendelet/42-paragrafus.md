@@ -16,6 +16,6 @@ c) rendszeresen menti az adatállományt, és a másolatot olyan helyen tárolja
 
 d) gondoskodik a vírusvédelemről.
 
-(3)[^294] A nyilvántartást kezelő szervnél kezelt, illetve a helyi papír alapú nyilvántartások esetén is megfelelően gondoskodik a kezelő a fizikai megsemmisülés elleni védelméről, és arról, hogy e nyilvántartásokhoz csak a 43. § (1) bekezdés szerint jogosult személyek férhessenek hozzá.
+(3)[^295] A nyilvántartást kezelő szervnél kezelt, illetve a helyi papír alapú nyilvántartások esetén is megfelelően gondoskodik a kezelő a fizikai megsemmisülés elleni védelméről, és arról, hogy e nyilvántartásokhoz csak a 43. § (1) bekezdés szerint jogosult személyek férhessenek hozzá.
 
-[^294]: Az R. 42. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 3. pontja szerint módosított szöveg.
+[^295]: Az R. 42. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 3. pontja szerint módosított szöveg.
