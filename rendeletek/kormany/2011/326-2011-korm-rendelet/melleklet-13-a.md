@@ -1,10 +1,10 @@
-13/A. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^603]
+13/A. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^612]
 
 A 2022. július 1-jén bevezetett különleges rendszámtáblák leírása
 
 1. A CD betűjelű különleges rendszámtábla alapszíne világoskék, karakterei és a keret színe fehér, a CD betűjeleket és kötőjellel elválasztott három-három (összesen hat) számjegyet tartalmaz.
 
-2.[^604] Az OT betűjelű különleges rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, az OT betűjeleket követő címer után két betűjelet, kötőjelet és három számjegyet tartalmaz. Az 54. § (2) bekezdése szerint kiadott OT rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, két betűjelet és kötőjellel elválasztott két-két (összesen 4), a 13. melléklet 3. pont 3.1. alpontjában meghatározott rendszámtáblák esetében két betűjelet, két számjegyet és kötőjelet követően három (összesen 5) számjegyet tartalmaz.
+2.[^613] Az OT betűjelű különleges rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, az OT betűjeleket követő címer után két betűjelet, kötőjelet és három számjegyet tartalmaz. Az 54. § (2) bekezdése szerint kiadott OT rendszámtábla alapszíne fehér, karakterei és a keret színe fekete, két betűjelet és kötőjellel elválasztott két-két (összesen 4), a 13. melléklet 3. pont 3.1. alpontjában meghatározott rendszámtáblák esetében két betűjelet, két számjegyet és kötőjelet követően három (összesen 5) számjegyet tartalmaz.
 
 3. A TX betűjelű, a közúti közlekedési szolgáltatást végző járműre kiadott különleges rendszámtábla alapszíne sárga, karakterei és a keret színe fekete, TX betűjeleket követő címer után két betűjelet, kötőjelet és három számjegyet tartalmaz. A TX betűjelű rendszámtábla környezetkímélő gépjárműre a 9. pontban meghatározott színben kerül kiadásra.
 
@@ -24,5 +24,5 @@ A 2022. július 1-jén bevezetett különleges rendszámtáblák leírása
 
 11. A különleges rendszámtáblák betűjelei helyén ékezetes magánhangzók nem állhatnak.
 
-[^603]: A 13/A. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (2) bekezdése iktatta be.
-[^604]: A 13/A. melléklet 2. pontja a 251/2022. (VII. 13.) Korm. rendelet 1. § l) pontja szerint módosított szöveg.
+[^612]: A 13/A. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^613]: A 13/A. melléklet 2. pontja a 251/2022. (VII. 13.) Korm. rendelet 1. § l) pontja szerint módosított szöveg.

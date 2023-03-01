@@ -1,6 +1,6 @@
 97. § (1) Az ellenőrző hatósági személy a hatósági engedélyt és jelzést a helyszínen elveszi, ha
 
-a)[^438] a jelzés nem felel meg az 53–63/A. §-ban meghatározott szabályoknak,
+a)[^445] a jelzés nem felel meg az 53–63/A. §-ban meghatározott szabályoknak,
 
 b) érvénytelen külföldi hatósági engedéllyel és jelzéssel vettek részt a közúti forgalomban,
 
@@ -8,13 +8,13 @@ c) azért érvénytelen a hatósági engedély és jelzés, mert a járművet a 
 
 d) a járművet a forgalomból hivatalból ideiglenesen kivonták, de a jármű hatósági engedélye és jelzése nem került leadásra,
 
-e)[^439] a járművel a személygépkocsival díj ellenében végzett közúti személyszállításról szóló kormányrendeletben meghatározott tevékenységi engedély nélkül végeztek személytaxi-szolgáltatást vagy személygépkocsis személyszállító szolgáltatást.
+e)[^446] a járművel a személygépkocsival díj ellenében végzett közúti személyszállításról szóló kormányrendeletben meghatározott tevékenységi engedély nélkül végeztek személytaxi-szolgáltatást vagy személygépkocsis személyszállító szolgáltatást.
 
-(1a)[^440] A magyar hatóság által kiállított forgalmi engedéllyel vagy igazolólappal rendelkező jármű esetén az (1) bekezdésben foglaltaktól eltérően az ellenőrző hatósági személy a helyszínen a forgalomban való részvétel jogosultságának azonnali felfüggesztését a járműnyilvántartásba bejegyzi, és ezzel egyidejűleg – amennyiben rendelkezésre áll – az állandó forgalmi engedélyt vagy igazolólapot elveszi. E rendelkezés az (1) bekezdés a)–d) pontjában foglalt esetekben nem alkalmazható.
+(1a)[^447] A magyar hatóság által kiállított forgalmi engedéllyel vagy igazolólappal rendelkező jármű esetén az (1) bekezdésben foglaltaktól eltérően az ellenőrző hatósági személy a helyszínen a forgalomban való részvétel jogosultságának azonnali felfüggesztését a járműnyilvántartásba bejegyzi, és ezzel egyidejűleg – amennyiben rendelkezésre áll – az állandó forgalmi engedélyt vagy igazolólapot elveszi. E rendelkezés az (1) bekezdés a)–d) pontjában foglalt esetekben nem alkalmazható.
 
 (2) Az ellenőrző hatóság által a 96. § (6) bekezdése alapján megküldött hatósági engedélyt, jelzést a közlekedési igazgatási hatóság bevonja, illetve visszavonja.
 
-(2a)[^441] Nem kell visszavonni
+(2a)[^448] Nem kell visszavonni
 
 a) a 63/A. § (2) bekezdés 6–11. pontja alapján kiadott ideiglenes rendszámtáblát és a hozzá tartozó ideiglenes forgalmi engedélyt a 96. § (1) bekezdés a) pontjában, b) pont bc) alpontjában, valamint a c) és f) pontjában meghatározott esetben,
 
@@ -22,10 +22,10 @@ b) a 63/A. § (2) bekezdés 13–18. pontja alapján kiadott ideiglenes rendszá
 
 c) a 63/A. § (2) bekezdése alapján kiadott ideiglenes rendszámtáblát és a hozzá tartozó ideiglenes forgalmi engedélyt a 96. § (1) bekezdés e) pontjában meghatározott esetben.
 
-(3)[^442] Az ellenőrző hatóság az (1) bekezdés b) pontjában meghatározott külföldi hatósági engedélyt és jelzést a Nyilvántartónak megküldi. A Nyilvántartó viszonosság esetén megküldi azt a kiadó külföldi hatóságnak.
+(3)[^449] Az ellenőrző hatóság az (1) bekezdés b) pontjában meghatározott külföldi hatósági engedélyt és jelzést a Nyilvántartónak megküldi. A Nyilvántartó viszonosság esetén megküldi azt a kiadó külföldi hatóságnak.
 
-[^438]: A 97. § (1) bekezdés a) pontja a 789/2021. (XII. 27.) Korm. rendelet 51. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^439]: A 97. § (1) bekezdés e) pontját a 20/2016. (II. 11.) Korm. rendelet 1. §-a iktatta be, szövege a 164/2016. (VI. 23.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^440]: A 97. § (1a) bekezdését a 317/2020. (VII. 1.) Korm. rendelet 13. § (6) bekezdése iktatta be.
-[^441]: A 97. § (2a) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 20. §-a iktatta be.
-[^442]: A 97. § (3) bekezdése a 60/2017. (III. 20.) Korm. rendelet 18. § (6) bekezdésével megállapított szöveg.
+[^445]: A 97. § (1) bekezdés a) pontja a 789/2021. (XII. 27.) Korm. rendelet 51. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^446]: A 97. § (1) bekezdés e) pontját a 20/2016. (II. 11.) Korm. rendelet 1. §-a iktatta be, szövege a 164/2016. (VI. 23.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^447]: A 97. § (1a) bekezdését a 317/2020. (VII. 1.) Korm. rendelet 13. § (6) bekezdése iktatta be.
+[^448]: A 97. § (2a) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 20. §-a iktatta be.
+[^449]: A 97. § (3) bekezdése a 60/2017. (III. 20.) Korm. rendelet 18. § (6) bekezdésével megállapított szöveg.

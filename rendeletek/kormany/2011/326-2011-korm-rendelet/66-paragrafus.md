@@ -1,3 +1,3 @@
-66. §[^324]
+66. §[^330]
 
-[^324]: A 66. §-t a 303/2021. (VI. 1.) Korm. rendelet 29. § d) pontja hatályon kívül helyezte.
+[^330]: A 66. §-t a 303/2021. (VI. 1.) Korm. rendelet 29. § d) pontja hatályon kívül helyezte.

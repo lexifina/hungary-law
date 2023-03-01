@@ -1,4 +1,4 @@
-## I.[^611] A járműkísérő lap tartalmi elemei
+## I.[^620] A járműkísérő lap tartalmi elemei
 
 ## H
 
@@ -134,11 +134,11 @@
 
 ## a kiállítás helye, ideje, a kiállító közlekedési igazgatási hatóság megnevezése, bélyegzőlenyomat helye
 
-## II.[^612] A járműkísérő lap kitöltésének szabályai
+## II.[^621] A járműkísérő lap kitöltésének szabályai
 
 ## I. Új jármű forgalomba helyezése előtt;
 
-## a)[^613] A járműimportőr:
+## a)[^622] A járműimportőr:
 
 ## Az importőrnek – a Központi Okmányiroda által nyilvántartott, Járműkísérő lap felvételére és kiadására feljogosított gazdálkodó szervezet – a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletben meghatározott Megfelelőségi nyilatkozattal összhangban a Járműkísérő lap következő adatmezőit kell kitölteni:
 
@@ -158,13 +158,13 @@
 
 ## ah) A fenti adatokat kitöltő cégbélyegzője, a kiállításért felelős aláírása, a kiállítás dátuma.
 
-## b)[^614] Az értékesítő:
+## b)[^623] Az értékesítő:
 
 ## A gyártótól, illetve az importőrtől az adott járműhöz tartozó Járműkísérő lapot az érvényes megfelelőségi nyilatkozat alapján, illetve a Közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendeletben meghatározottak szerinti eljárást követően az értékesítés során az alábbi adatokkal kell kiegészíteni:
 
 ## ba) C.1. adatmező,
 
-## bb)[^615] G adatmező (Megfelelőségi nyilatkozat szerint,
+## bb)[^624] G adatmező (Megfelelőségi nyilatkozat szerint,
 
 ## bc) Műszaki érvényességre vonatkozó adatok,
 
@@ -188,8 +188,63 @@
 
 16. melléklet a 326/2011. (XII. 28.) Korm. rendelethez
 
-[^611]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.
-[^612]: A 15. melléklet II. fejezete a 90/2015. (IV. 9.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
-[^613]: A 15. melléklet II. rész I. pont a) alpontja a 265/2020. (VI. 11.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
-[^614]: A 15. melléklet II. cím I. pont b) alpontja a 457/2017. (XII. 28.) Korm. rendelet 368. § t) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^615]: A 15. melléklet II. cím I. pont b) alpont bb) pontja a 457/2017. (XII. 28.) Korm. rendelet 369. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+A.
+
+A törzskönyv tartalmi elemei
+
+Első oldal
+
+H
+
+JÁRMŰ TÖRZSKÖNYV
+
+1. Sorszám
+
+2. Gyártmány
+
+3. Típus
+
+4. Szín
+
+5. Alvázszám
+
+6. Motorszám
+
+7. Gyártási év
+
+8. Hengerűrtartalom (cm3)
+
+9. Teljesítmény (kW)
+
+10. Saját tömeg (kg)
+
+11. Össztömeg (kg)
+
+12. Szállítható személyek száma
+
+13. Kiállítás helye, kelte
+
+14. Kiállító hatóság
+
+Második oldal
+
+15. Tulajdonosi adatok (természetes személynél: név, születési hely és idő, anyja neve; gazdálkodó szervezetnél: a gazdálkodó szervezet megnevezése, a cégjegyzék vagy nyilvántartási száma)
+
+16. Hivatalos feljegyzések
+
+17. A törzskönyv nyomdai sorszámának vonalkódja
+
+B.[^625]
+
+A 2009. július 1-jét követően kiadásra kerülő törzskönyv tartalmi elemei
+
+Első oldal
+
+JÁRMŰ TÖRZSKÖNYV
+
+[^620]: A 15. melléklet I. fejezete a 90/2015. (IV. 9.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.
+[^621]: A 15. melléklet II. fejezete a 90/2015. (IV. 9.) Korm. rendelet 14. § (8) bekezdésével megállapított szöveg.
+[^622]: A 15. melléklet II. rész I. pont a) alpontja a 265/2020. (VI. 11.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^623]: A 15. melléklet II. cím I. pont b) alpontja a 457/2017. (XII. 28.) Korm. rendelet 368. § t) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^624]: A 15. melléklet II. cím I. pont b) alpont bb) pontja a 457/2017. (XII. 28.) Korm. rendelet 369. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^625]: A 16. melléklet B. része a 717/2021.(XII. 20.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.

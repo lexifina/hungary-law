@@ -1,3 +1,3 @@
-50. §[^245]
+50. §[^251]
 
-[^245]: Az 50. §-t a 477/2016. (XII. 27.) Korm. rendelet 57. § (10) bekezdés b) pontja hatályon kívül helyezte.
+[^251]: Az 50. §-t a 477/2016. (XII. 27.) Korm. rendelet 57. § (10) bekezdés b) pontja hatályon kívül helyezte.
