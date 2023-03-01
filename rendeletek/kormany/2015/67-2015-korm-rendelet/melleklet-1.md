@@ -3588,9 +3588,9 @@ Törökszentmiklós
 
 12.1. Esztergomi Járási Hivatal
 
-12.1.1. Székhelye: Esztergom
+12.1.1.[^17] Székhelye: Esztergom
 
-Munkaerőpiaci pont: Dorog
+Munkaerőpiaci Pont: Esztergom
 
 12.1.2. Illetékesség:
 
@@ -3776,7 +3776,7 @@ Vértessomló
 
 Vértesszőlős
 
-13.[^17] Nógrád vármegye
+13.[^18] Nógrád vármegye
 
 13.1. Balassagyarmati Járási Hivatal
 
@@ -4076,7 +4076,7 @@ Szécsényfelfalu
 
 Varsány
 
-14.[^18] Pest vármegye
+14.[^19] Pest vármegye
 
 14.1. Budakeszi Járási Hivatal,
 
@@ -4520,7 +4520,7 @@ Taksony
 
 Tököl
 
-15.[^19] Somogy vármegye
+15.[^20] Somogy vármegye
 
 15.1. Barcsi Járási Hivatal
 
@@ -4958,9 +4958,9 @@ Tarany
 
 15.7. Siófoki Járási Hivatal
 
-15.7.1.[^20] Székhelye: Siófok
+15.7.1.[^21] Székhelye: Siófok
 
-15.7.2.[^21] Illetékesség:
+15.7.2.[^22] Illetékesség:
 
 ## Ádánd
 
@@ -5010,7 +5010,7 @@ Tarany
 
 ## Zamárdi
 
-15.8. [^22] Tabi Járási Hivatal
+15.8. [^23] Tabi Járási Hivatal
 
 15.8.1. Székhelye: Tab
 
@@ -5064,7 +5064,7 @@ Tarany
 
 ## Zics
 
-16.[^23] Szabolcs-Szatmár-Bereg vármegye
+16.[^24] Szabolcs-Szatmár-Bereg vármegye
 
 16.1. Baktalórántházai Járási Hivatal
 
@@ -5584,7 +5584,7 @@ Vámosatya
 
 Vásárosnamény
 
-17.[^24] Tolna vármegye
+17.[^25] Tolna vármegye
 
 17.1. Bonyhádi Járási Hivatal
 
@@ -5836,7 +5836,7 @@ Udvari
 
 Varsád
 
-18.[^25] Vas vármegye
+18.[^26] Vas vármegye
 
 18.1. Celldömölki Járási Hivatal
 
@@ -6312,7 +6312,7 @@ Telekes
 
 Vasvár
 
-19.[^26] Veszprém vármegye
+19.[^27] Veszprém vármegye
 
 19.1. Ajkai Járási Hivatal
 
@@ -6808,7 +6808,7 @@ Szápár
 
 Zirc
 
-20.[^27] Zala vármegye
+20.[^28] Zala vármegye
 
 20.1. Keszthelyi Járási Hivatal
 
@@ -6918,267 +6918,267 @@ Zalavár
 
 Zalavég
 
-20.2. Lenti Járási Hivatal
+20.2.[^29] Lenti Járási Hivatal
 
 20.2.1. Székhelye: Lenti
 
-Munkaerőpiaci pont: Letenye
-
 20.2.2. Illetékesség:
 
-Alsószenterzsébet
+## Alsószenterzsébet
 
-Baglad
+## Baglad
 
-Barlahida
+## Barlahida
 
-Bánokszentgyörgy
+## Belsősárd
 
-Bázakerettye
+## Bödeháza
 
-Becsehely
+## Csesztreg
 
-Belsősárd
+## Csömödér
 
-Borsfa
+## Dobri
 
-Bödeháza
+## Felsőszenterzsébet
 
-Bucsuta
+## Gáborjánháza
 
-Csesztreg
+## Gosztola
 
-Csömödér
+## Hernyék
 
-Csörnyeföld
+## Iklódbördőce
 
-Dobri
+## Kálócfa
 
-Felsőszenterzsébet
+## Kányavár
 
-Gáborjánháza
+## Kerkabarabás
 
-Gosztola
+## Kerkafalva
 
-Hernyék
+## Kerkakutas
 
-Iklódbördőce
+## Kerkateskánd
 
-Kálócfa
+## Kissziget
 
-Kányavár
+## Kozmadombja
 
-Kerkabarabás
+## Külsősárd
 
-Kerkafalva
+## Lendvadedes
 
-Kerkakutas
+## Lendvajakabfa
 
-Kerkaszentkirály
+## Lenti
 
-Kerkateskánd
+## Lovászi
 
-Kiscsehi
+## Magyarföld
 
-Kissziget
+## Márokföld
 
-Kistolmács
+## Mikekarácsonyfa
 
-Kozmadombja
+## Nemesnép
 
-Külsősárd
+## Nova
 
-Lasztonya
+## Ortaháza
 
-Lendvadedes
+## Páka
 
-Lendvajakabfa
+## Pórszombat
 
-Lenti
+## Pördefölde
 
-Letenye
+## Pusztaapáti
 
-Lispeszentadorján
+## Ramocsa
 
-Lovászi
+## Resznek
 
-Magyarföld
+## Rédics
 
-Maróc
+## Szentgyörgyvölgy
 
-Márokföld
+## Szécsisziget
 
-Mikekarácsonyfa
+## Szíjártóháza
 
-Molnári
+## Szilvágy
 
-Murarátka
+## Tormafölde
 
-Muraszemenye
+## Tornyiszentmiklós
 
-Nemesnép
+## Zalabaksa
 
-Nova
+## Zalaszombatfa
 
-Oltárc
+## Zebecke
 
-Ortaháza
-
-Páka
-
-Petrivente
-
-Pórszombat
-
-Pördefölde
-
-Pusztaapáti
-
-Pusztamagyaród
-
-Ramocsa
-
-Resznek
-
-Rédics
-
-Semjénháza
-
-Szentliszló
-
-Szentmargitfalva
-
-Szentgyörgyvölgy
-
-Szécsisziget
-
-Szíjártóháza
-
-Szilvágy
-
-Tormafölde
-
-Tornyiszentmiklós
-
-Tótszentmárton
-
-Tótszerdahely
-
-Valkonya
-
-Várfölde
-
-Zajk
-
-Zalabaksa
-
-Zalaszombatfa
-
-Zebecke
-
-20.3. Nagykanizsai Járási Hivatal
+20.3. [^30] Nagykanizsai Járási Hivatal
 
 20.3.1. Székhelye: Nagykanizsa
 
+## Munkaerőpiaci pont: Letenye
+
 20.3.2. Illetékesség:
 
-Alsórajk
+## Alsórajk
 
-Balatonmagyaród
+## Balatonmagyaród
 
-Belezna
+## Bánokszentgyörgy
 
-Bocska
+## Bázakerettye
 
-Börzönce
+## Becsehely
 
-Csapi
+## Belezna
 
-Eszteregnye
+## Bocska
 
-Felsőrajk
+## Borsfa
 
-Fityeház
+## Börzönce
 
-Fűzvölgy
+## Bucsuta
 
-Galambok
+## Csapi
 
-Garabonc
+## Csörnyeföld
 
-Gelse
+## Eszteregnye
 
-Gelsesziget
+## Felsőrajk
 
-Hahót
+## Fityeház
 
-Homokkomárom
+## Fűzvölgy
 
-Hosszúvölgy
+## Galambok
 
-Kacorlak
+## Garabonc
 
-Kerecseny
+## Gelse
 
-Kilimán
+## Gelsesziget
 
-Kisrécse
+## Hahót
 
-Liszó
+## Homokkomárom
 
-Magyarszentmiklós
+## Hosszúvölgy
 
-Magyarszerdahely
+## Kacorlak
 
-Miháld
+## Kerecseny
 
-Murakeresztúr
+## Kerkaszentkirály
 
-Nagybakónak
+## Kilimán
 
-Nagykanizsa
+## Kiscsehi
 
-Nagyrada
+## Kisrécse
 
-Nagyrécse
+## Kistolmács
 
-Nemespátró
+## Lasztonya
 
-Orosztony
+## Letenye
 
-Pat
+## Lispeszentadorján
 
-Pölöskefő
+## Liszó
 
-Pötréte
+## Magyarszentmiklós
 
-Rigyác
+## Magyarszerdahely
 
-Sand
+## Maróc
 
-Sormás
+## Miháld
 
-Surd
+## Molnári
 
-Szepetnek
+## Murakeresztúr
 
-Újudvar
+## Murarátka
 
-Zalakaros
+## Muraszemenye
 
-Zalakomár
+## Nagybakónak
 
-Zalamerenye
+## Nagykanizsa
 
-Zalasárszeg
+## Nagyrada
 
-Zalaszabar
+## Nagyrécse
 
-Zalaszentbalázs
+## Nemespátró
 
-Zalaszentjakab
+## Oltárc
 
-Zalaújlak
+## Orosztony
+
+## Pat
+
+## Petrivente
+
+## Pölöskefő
+
+## Pötréte
+
+## Pusztamagyaród
+
+## Rigyác
+
+## Sand
+
+## Sormás
+
+## Surd
+
+## Semjénháza
+
+## Szentliszló
+
+## Szentmargitfalva
+
+## Szepetnek
+
+## Tótszentmárton
+
+## Tótszerdahely
+
+## Újudvar
+
+## Valkonya
+
+## Várfölde
+
+## Zajk
+
+## Zalakaros
+
+## Zalakomár
+
+## Zalamerenye
+
+## Zalasárszeg
+
+## Zalaszabar
+
+## Zalaszentbalázs
+
+## Zalaszentjakab
+
+## Zalaújlak
 
 20.4. Zalaegerszegi Járási Hivatal
 
@@ -7368,14 +7368,17 @@ Zalatárnok
 [^14]: Az 1. melléklet 10. pont 10.4. alpontja a 119/2019. (V. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^15]: Az 1. melléklet 11. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
 [^16]: Az 1. melléklet 12. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
-[^17]: Az 1. melléklet 13. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
-[^18]: Az 1. melléklet 14. pontja az 52/2017. (III. 20.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
-[^19]: Az 1. melléklet 15. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
-[^20]: Az 1. melléklet 15. pont 15.7. alpont 15.7.1. pontja a 352/2022. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^21]: Az 1. melléklet 15. pont 15.7. alpont 15.7.2. pontja a 352/2022. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^22]: Az 1. melléklet 15. pont 15.8. alpontját a 352/2022. (IX. 13.) Korm. rendelet 1. §-a iktatta be.
-[^23]: Az 1. melléklet 16. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
-[^24]: Az 1. melléklet 17. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
-[^25]: Az 1. melléklet 18. pontja a 473/2016. (XII. 27.) Korm. rendelet 14. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
-[^26]: Az 1. melléklet 19. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
-[^27]: Az 1. melléklet 20. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^17]: Az 1. melléklet 12.1.1. pontja a 60/2023. (II. 28.) Korm. rendelet 31. §-a szerint módosított szöveg.
+[^18]: Az 1. melléklet 13. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^19]: Az 1. melléklet 14. pontja az 52/2017. (III. 20.) Korm. rendelet 9. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^20]: Az 1. melléklet 15. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^21]: Az 1. melléklet 15. pont 15.7. alpont 15.7.1. pontja a 352/2022. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^22]: Az 1. melléklet 15. pont 15.7. alpont 15.7.2. pontja a 352/2022. (IX. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^23]: Az 1. melléklet 15. pont 15.8. alpontját a 352/2022. (IX. 13.) Korm. rendelet 1. §-a iktatta be.
+[^24]: Az 1. melléklet 16. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^25]: Az 1. melléklet 17. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet 18. pontja a 473/2016. (XII. 27.) Korm. rendelet 14. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^27]: Az 1. melléklet 19. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^28]: Az 1. melléklet 20. pontja a 616/2022. (XII. 29.) Korm. rendelet 207. § c) pontja szerint módosított szöveg.
+[^29]: Az 1. melléklet 20.2. pontja a 60/2023. (II. 28.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^30]: Az 1. melléklet 20.3. pontja a 60/2023. (II. 28.) Korm. rendelet 30. §-ával megállapított szöveg.
