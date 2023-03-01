@@ -1,3 +1,3 @@
-85. §[^99] A kancellár akadályoztatása, érintettsége, illetve a kancellári tisztség betöltetlensége esetén a kancellár helyett a szakképzési centrum szervezeti és működési szabályzatában kijelölt vezető jogosult eljárni.
+85. §[^101] A kancellár akadályoztatása, érintettsége, illetve a kancellári tisztség betöltetlensége esetén a kancellár helyett a szakképzési centrum szervezeti és működési szabályzatában kijelölt vezető jogosult eljárni.
 
-[^99]: A 85. § a 319/2020. (VII. 1.) Korm. rendelet 24. § 13. pontja szerint módosított szöveg.
+[^101]: A 85. § a 319/2020. (VII. 1.) Korm. rendelet 24. § 13. pontja szerint módosított szöveg.

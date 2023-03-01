@@ -1,4 +1,4 @@
-177/A. §[^170] (1) A nappali rendszerű szakmai oktatásban kilencedik–tizenkettedik évfolyamon részt vevő, magyar állampolgársággal rendelkező tanuló Béri Balogh Ádám honvéd kadét ösztöndíjra (a továbbiakban: honvéd kadét ösztöndíj) jogosult, ha a honvéd kadét ösztöndíj kifizetésének félévében
+177/A. §[^172] (1) A nappali rendszerű szakmai oktatásban kilencedik–tizenkettedik évfolyamon részt vevő, magyar állampolgársággal rendelkező tanuló Béri Balogh Ádám honvéd kadét ösztöndíjra (a továbbiakban: honvéd kadét ösztöndíj) jogosult, ha a honvéd kadét ösztöndíj kifizetésének félévében
 
 a) részt vesz
 
@@ -16,9 +16,9 @@ c) honvédségi szakképző intézmény (a továbbiakban: HKP III. szintje) tanu
 
 (2) A honvéd kadét ösztöndíj összegét félévente kell megállapítani, a félévet közvetlenül megelőző félévi, illetve év végi minősítés két tizedesjegyre kerekített számtani átlagaként meghatározott tanulmányi átlageredmény (a továbbiakban: tanulmányi átlageredmény) alapján. Ha a honvéd kadétnak javítóvizsgát, osztályozó vizsgát vagy pótlóvizsgát kell tennie, a tanulmányi átlageredményt a javítóvizsga, az osztályozó vizsga vagy a pótlóvizsga letételét követően, annak eredménye figyelembevételével a félév első napjáig visszamenőlegesen kell megállapítani.
 
-(3)[^171]
+(3)[^173]
 
-(4)[^172] A honvéd kadét ösztöndíj havonkénti összege
+(4)[^174] A honvéd kadét ösztöndíj havonkénti összege
 
 a) a HKP I. szintjén a kilencedik évfolyam második félévétől kezdődően és a további félévekben
 
@@ -52,6 +52,6 @@ cd) ötvennyolcezer forint, ha a tanulmányi átlageredmény 4,49 fölött van.
 
 (7) A honvéd kadét ösztöndíj tervezését, elszámolását és kifizetését, valamint a honvéd kadét ösztöndíj kifizetéséhez szükséges adatoknak a honvédelemért felelős miniszter által biztosított informatikai rendszerbe történő rögzítését a Magyar Honvédség parancsnoka által kijelölt honvédségi szervezet látja el a HKP-hoz csatlakozott szakképző intézmény adatszolgáltatása alapján.
 
-[^170]: A 177/A. §-t a 461/2021. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.
-[^171]: A 177/A. § (3) bekezdését az 54/2022. (II. 23.) Korm. rendelet 5. §-a hatályon kívül helyezte.
-[^172]: A 177/A. § (4) bekezdése az 54/2022. (II. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^172]: A 177/A. §-t a 461/2021. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.
+[^173]: A 177/A. § (3) bekezdését az 54/2022. (II. 23.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^174]: A 177/A. § (4) bekezdése az 54/2022. (II. 23.) Korm. rendelet 1. §-ával megállapított szöveg.

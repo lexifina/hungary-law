@@ -1,3 +1,3 @@
-19. §[^35] A szakképzésért felelős miniszter minden év november utolsó napjáig felülvizsgálja a nyilvántartásban szereplő programkövetelményeket és felülvizsgálati eljárásban hozott döntése alapján a programkövetelményt – a 17. § (3) bekezdése szerinti esetben a Kormány adott ágazatért felelős tagjának egyetértésével – a nyilvántartásból törli, ha annak szakmai kompetenciái beépítésre kerültek valamely szakma szakmai kompetenciái közé. A törlésről hozott döntését a szakképzésért felelős miniszter a szakképzési tájékoztatási és információs központ keretében működtetett honlapon hirdetményi úton közli.
+19. §[^35]
 
-[^35]: A 19. § a 380/2021. (VI. 30.) Korm. rendelet 58. § 16. pontja szerint módosított szöveg.
+[^35]: A 19. §-t a 631/2022. (XII. 30.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.

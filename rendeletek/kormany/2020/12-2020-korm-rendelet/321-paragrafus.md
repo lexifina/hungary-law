@@ -14,17 +14,17 @@
 
 a) szakképző intézményi forduló,
 
-b)[^257] vármegyei és – ha szerveznek – területi válogató, illetve
+b)[^259] vármegyei és – ha szerveznek – területi válogató, illetve
 
 c) országos döntő,
 
-6.[^258] a vármegyei, és – ha szerveznek – területi válogatókról történő továbbjutás feltételeit, a továbbjutott versenyzők értesítésének módját, határidejét,
+6.[^260] a vármegyei, és – ha szerveznek – területi válogatókról történő továbbjutás feltételeit, a továbbjutott versenyzők értesítésének módját, határidejét,
 
 7. az országos döntőben részt vevő versenyzők maximális létszámát,
 
 8. a nevezés módját, a nevezési lapot,
 
-9.[^259] a versenyző vagy a szakképző intézmény által fizetendő díjakat, különösen a nevezési díjat, a vármegyei és – ha szerveznek – a területi fordulón való részvétel díját, a részvételi díjat (szállás, ellátás) a döntő fordulóra, valamint ezek mértékét, továbbá annak megjelölését, hogy a fizetés tanulónként vagy csapatonként, iskolánként értendő-e, valamint a díjak fizetésének módját,
+9.[^261] a versenyző vagy a szakképző intézmény által fizetendő díjakat, különösen a nevezési díjat, a vármegyei és – ha szerveznek – a területi fordulón való részvétel díját, a részvételi díjat (szállás, ellátás) a döntő fordulóra, valamint ezek mértékét, továbbá annak megjelölését, hogy a fizetés tanulónként vagy csapatonként, iskolánként értendő-e, valamint a díjak fizetésének módját,
 
 10. az országos szakmai tanulmányi verseny témáját, ismeretanyagát, a felkészüléshez felhasználható irodalmat,
 
@@ -38,6 +38,6 @@ c) országos döntő,
 
 (3) A versenyszabályzatot és a versenyfelhívást évente szeptember 15-éig kell megküldeni a szakképzésért felelős miniszter részére. A szakképzésért felelős miniszter a versenyfelhívást a Hivatalos Értesítőben évente november 15-éig közzéteszi.
 
-[^257]: A 321. § (1) bekezdés 5. pont b) alpontja a 616/2022. (XII. 29.) Korm. rendelet 303. § b) pontja szerint módosított szöveg.
-[^258]: A 321. § (1) bekezdés 6. pontja a 616/2022. (XII. 29.) Korm. rendelet 303. § b) pontja szerint módosított szöveg.
-[^259]: A 321. § (1) bekezdés 9. pontja a 616/2022. (XII. 29.) Korm. rendelet 303. § b) pontja szerint módosított szöveg.
+[^259]: A 321. § (1) bekezdés 5. pont b) alpontja a 616/2022. (XII. 29.) Korm. rendelet 303. § b) pontja szerint módosított szöveg.
+[^260]: A 321. § (1) bekezdés 6. pontja a 616/2022. (XII. 29.) Korm. rendelet 303. § b) pontja szerint módosított szöveg.
+[^261]: A 321. § (1) bekezdés 9. pontja a 616/2022. (XII. 29.) Korm. rendelet 303. § b) pontja szerint módosított szöveg.
