@@ -1,3 +1,3 @@
-23/B. §[^85]
+23/B. §[^86]
 
-[^85]: A 23/B. §-t a 277/2016. (IX. 15.) Korm. rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 214. § f) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^86]: A 23/B. §-t a 277/2016. (IX. 15.) Korm. rendelet 6. § (2) bekezdése iktatta be, hatályon kívül helyezte a 457/2017. (XII. 28.) Korm. rendelet 214. § f) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.

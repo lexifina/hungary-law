@@ -1,3 +1,3 @@
-8. §[^26]
+8. §[^27]
 
-[^26]: Az „Elvi építési engedélyezési eljárás” alcímet (8. §) a 360/2019. (XII. 30.) Korm. rendelet 58. § (3) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^27]: Az „Elvi építési engedélyezési eljárás” alcímet (8. §) a 360/2019. (XII. 30.) Korm. rendelet 58. § (3) bekezdés b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
