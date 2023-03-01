@@ -18,7 +18,7 @@ f) a b) pontban említettől kisebb mértékben minőségében károsodott takar
 
 g) egyéb, a Tv. végrehajtására kiadott jogszabályi előírásoknak való meg nem felelés esetén: a tétel értékének másfélszerese,
 
-## de legalább a 2. számú melléklet A) táblázata szerinti minimumösszeg.
+de legalább a 2. számú melléklet A) táblázata szerinti minimumösszeg.
 
 (2) Ha a jogsértő magatartással egyidejűleg több, az (1) bekezdésben szereplő eset is megvalósul, a bírság alapösszegét a súlyosabb bírságtétellel fenyegetett jogsértésre irányadó bírságkiszabási szabályok szerint kell megállapítani.
 

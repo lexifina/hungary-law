@@ -1,5 +1,3 @@
-## A növényvédelmi bírság tételes mértéke
-
 ## A) A növényvédelmi bírság mértéke a Tv. 60. § (1) bekezdésének az alább felsorolt pontjában foglalt tényállások szerint:
 
 | a) A zárlati károsítóval való fertőzés azonnali felszámolására vonatkozó kötelezettség megszegése, zárlati károsító terjesztése vagy a terjedés elősegítése, a zárlati intézkedés megszegése |  |

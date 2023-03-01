@@ -32,7 +32,7 @@
 
 | Azonos tényállású jogsértés miatt a megelőző három évben történő bírság kiszabása esetén a cselekmény súlyától függően: | 1,5–5 |
 
-5. számú melléklet a 194/2008. (VII. 31.) Korm. rendelethez[^19]
+5. számú melléklet a 194/2008. (VII. 31.) Korm. rendelethez[^20]
 
 Az élelmiszerlánc-felügyeleti bírság tételes mértékének megállapítása során alkalmazandó szorzók
 
@@ -98,4 +98,4 @@ B) Súlyosbító tényező fennállása esetén alkalmazandó szorzók
 
 | Azonos tényállású jogsértés miatt a megelőző három évben történő bírság kiszabása esetén a cselekmény súlyától függően: | 1,5–5 |
 
-[^19]: Az 5. számú melléklet a 98/2014. (III. 25.) Korm. rendelet 7. § (8) bekezdésével megállapított szöveg.
+[^20]: Az 5. számú melléklet a 98/2014. (III. 25.) Korm. rendelet 7. § (8) bekezdésével megállapított szöveg.

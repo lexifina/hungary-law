@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-194-20-
 | 2020-04-19 | 2008-194-20-22.4 | 111/2020. (IV. 14.) Korm. rendelet |
 | 2020-08-15 | 2008-194-20-22.5 | 376/2020. (VII. 30.) Korm. rendelet |
 | 2021-01-01 | 2008-194-20-22.6 | 713/2020. (XII. 30.) Korm. rendelet |
+| 2023-03-01 | 2008-194-20-22.7 | 60/2023. (II. 28.) Korm. rendelet |
