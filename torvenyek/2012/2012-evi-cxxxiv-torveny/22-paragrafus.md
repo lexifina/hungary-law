@@ -10,6 +10,8 @@ c) a számára előírt nyilvántartási, adatszolgáltatási kötelezettségnek
 
 d) a fiatalkorúak különös védelmére vonatkozó, a 16. §-ban foglalt szabályokat megsérti.
 
+e) a 13. § (4a) bekezdése szerinti kötelező szakmai képzést nem teljesíti.
+
 (3) A jogosulatlan dohánytermék kiskereskedelmi tevékenységet folyató személyt a Hatóság
 
 a) természetes személy esetében 1 millió forinttól 50 millió forintig,

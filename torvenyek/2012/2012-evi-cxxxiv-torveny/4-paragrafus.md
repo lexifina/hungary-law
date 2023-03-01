@@ -28,7 +28,7 @@ e)
 
 f) végzi a dohánytermék-nagykereskedőknek a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvény szerinti hatósági ellenőrzésével, felügyeletével kapcsolatos feladatokat,
 
-g) a dohánytermék-kiskereskedők részére országos szakmai képzési rendszert működtet és oktatási feladatokat lát el,
+g) a dohánytermék-kiskereskedelmi tevékenységet végző személyek részére országos szakmai képzési rendszert működtet és oktatási feladatokat lát el,
 
 h) létrehozza és folyamatosan működteti a dohányipari ágazati konzultációs fórumot,
 

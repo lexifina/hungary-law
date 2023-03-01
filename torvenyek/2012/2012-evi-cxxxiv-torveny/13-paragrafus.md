@@ -10,7 +10,7 @@ b) olyan gazdasági társaság folytathat, amelynek legalább egy természetes s
 
 (4) Dohánytermék-kiskereskedelmi tevékenységet 18 éven aluli személy nem folytathat.
 
-(4a) A dohánytermék-kiskereskedelmi tevékenységet folytató személy szakmai tudását önképzés és kötelező továbbképzés útján fejleszti. A kötelező továbbképzés megszervezése a Hatóság feladata.
+(4a) A dohánytermék-kiskereskedelmi tevékenységet végző személy szakmai tudását önképzés és kötelező képzés útján fejleszti. A képzés teljesítésének részletszabályait a Hatóság elnökének a dohánytermék-kiskereskedelmi tevékenységet végző személyek országos képzési rendszerének működtetéséről, szakmai képzés feltételeiről, annak teljesítéséről és díjáról szóló rendelete tartalmazza. Nem kötelező a képzés azon, a 10. § (1) bekezdése alapján a dohánytermék kiskereskedelmi tevékenység folytatására külön feljogosított személy részére, aki tevékenységét olyan településen folytatja, ahol az állandó lakosok száma a 4000 főt nem haladja meg.
 
 (5) Nem adható meg az engedély, ha
 

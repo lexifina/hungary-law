@@ -14,4 +14,6 @@ f) a dohánytermék-kiskereskedelmi tevékenységet végző személyek nyilvánt
 
 g) az 1. § (1) bekezdésében meghatározottakon kívül a dohányboltban forgalmazható termékekre és nyújtható szolgáltatásokra
 
+h) a dohánytermék-kiskereskedelmi tevékenységet végző személyek országos képzési rendszerének működtetésére, szakmai képzés feltételeire, annak teljesítésére és díjára
+
 vonatkozó részletes szabályokat rendeletben megállapítsa.
