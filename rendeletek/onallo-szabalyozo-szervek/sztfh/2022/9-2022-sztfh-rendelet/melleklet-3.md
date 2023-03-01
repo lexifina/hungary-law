@@ -32,4 +32,4 @@ A felügyeleti díj elszámolásához szükséges adatlap tartalma
 
 7. Cégszerű aláírás
 
-[^5]: A 2. mellékletben foglalt táblázat A:5 mezője a 40/2022. (XII. 19.) SZTFH rendelet 23. § e) pontja szerint módosított szöveg.
+[^5]: 

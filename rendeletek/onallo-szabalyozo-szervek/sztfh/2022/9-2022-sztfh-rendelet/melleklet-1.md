@@ -8,7 +8,7 @@
 
 | 1. | Egyes igazgatási eljárások | Díj (Ft) | Kódszám |
 
-| 2. | Ásványi nyersanyag, valamint szénhidrogének tárolására alkalmas földtani szerkezetek kutatása | Szilárd ásványi nyersanyagra vonatkozó kutatás engedélyezése, kutatási engedély átruházása, előkutatás bejelentése | 25 000 | A0111 |
+| 2. | Ásványi nyersanyag, geotermikus energia, valamint szénhidrogének tárolására alkalmas földtani szerkezetek kutatása | Szilárd ásványi nyersanyagra, geotermikus energiára vonatkozó kutatás engedélyezése, kutatási engedély átruházása, előkutatás bejelentése | 25 000 | A0111 |
 
 | 3. | Kőolajra és földgázra vonatkozó kutatás engedélyezése, kutatási engedély átruházása | 50 000 | A0112 |
 
@@ -200,7 +200,7 @@
 
 | 18. | Propán-butángáz töltő és tároló telep a technológiai egységeivel együtt | 90 000 | B0330 | 98 000 | B0330H |
 
-| 19. | Egyéb építmények | A geotermikus energia felszín alatti víz kitermelését nem igénylő, 120 métert meghaladó mélységből történő kinyerésének és energetikai célú hasznosításának építményei az épületgépészeti berendezések kivételével | 113 000 | B0410 | 113 000 | B0410H |
+| 19. | Egyéb építmények |  |  |  |  |  |
 
 | 20. | Földtani kutatást, vagy a radioaktívhulladék-tároló telephely földtani alkalmasságának igazolását szolgáló, illetve a nukleáris létesítmény telephely vizsgálati és értékelési programjának végrehajtásához szükséges 400 méter mélységet meghaladó mélyfúrás, kutatótáró | 140 000 | B0420 | 141 000 | B0420H |
 
@@ -260,4 +260,4 @@
 
 4. Polgári robbantási, robbanóanyag-forgalmazási tevékenység engedélyezésének díjai, egyes robbanóanyagok és tárgyak, illetve egyes anyagok besorolásának jóváhagyása
 
-[^4]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a, a 40/2022. (XII. 19.) SZTFH rendelet 22. §-a, 23. § c) és d) pontja és 24. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet a 33/2022. (VII. 29.) SZTFH rendelet 4. §-a és 5. §-a, a 40/2022. (XII. 19.) SZTFH rendelet 22. §-a, 23. § a)–d) pontja és 24. § a) és b) pontja szerint módosított szöveg.
