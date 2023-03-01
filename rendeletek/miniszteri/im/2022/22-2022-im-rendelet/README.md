@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-22-20-0
 | 2022-10-25 | 2022-22-20-06.1 | 22/2022. (X. 24.) IM rendelet |
 | 2022-10-26 | 2022-22-20-06.2 | 2010. évi CXXX. törvény |
 | 2023-02-28 | 2022-22-20-06.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2023-03-01 | 2022-22-20-06.4 | 2010. évi CXXX. törvény |

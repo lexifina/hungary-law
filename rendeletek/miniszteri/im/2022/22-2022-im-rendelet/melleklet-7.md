@@ -1,3 +1,3 @@
-7. melléklet a 22/2022. (X. 24.) IM rendelethez[^10]
+7. melléklet a 22/2022. (X. 24.) IM rendelethez[^12]
 
-[^10]: A 7. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 7. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
