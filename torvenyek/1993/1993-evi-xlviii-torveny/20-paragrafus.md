@@ -94,7 +94,7 @@ f) a vízjogi engedély alapján gyógyászati (balneológiai) célra hasznosít
 
 a) az ásványi nyersanyag fajták,
 
-b) a kitermelés, illetve a geotermikus energia hasznosítás eredményességét befolyásoló természeti adottságok és
+b) a kitermelés eredményességét befolyásoló természeti adottságok és
 
 c) egyéb közérdek
 

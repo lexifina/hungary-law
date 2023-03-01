@@ -136,9 +136,9 @@ vonatkozó részletes szabályok rendeletben történő megállapítására.
 
 11. a bányászati jog új jogosítottjának kijelölésére vonatkozó hatósági pályázati eljárásra, és a meghirdetett bányászati jog ellenértékének meghatározására,
 
-12. a geotermikus védőidom meghatározására és kijelölésére, valamint a geotermikusenergia-hasznosító létesítmények, a kitermelt és hasznosított geotermikus energia mennyiségének, és a megállapított geotermikus védőidomok nyilvántartására,
+12. a geotermikus energia kutatására, a kutatási terület kialakítására és mértékére, a geotermikus energia kutatásának engedélyezésére, a kutatási engedély tartalmi követelményeire, a kutatási engedélyhez szükséges pénzügyi biztosítékra, az azonos bányavállalkozó jogosultságában álló kutatási területek számára, a geotermikus védőidom meghatározására és kijelölésére, a geotermikus energia kinyerésére és hasznosítására vonatkozó szerződésre, a szerződés megszűnése esetén az új jogosult kijelölése iránti pályázatra, továbbá a geotermikusenergia-hasznosító létesítmények, a kitermelt és hasznosított geotermikus energia mennyiségének, és a megállapított geotermikus védőidomok nyilvántartására,
 
-13. az ásványi nyersanyag és a geotermikus energia természetes előfordulási területén elvégzendő érzékenységi és terhelhetőségi vizsgálat lefolytatására, valamint a vizsgálatban részt vevő közigazgatási és egyéb szervek közreműködésére,
+13. az ásványi nyersanyag természetes előfordulási területén elvégzendő érzékenységi és terhelhetőségi vizsgálat lefolytatására, valamint a vizsgálatban részt vevő közigazgatási és egyéb szervek közreműködésére,
 
 14. a bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedély vagy bejelentés alapján történő építésére, használatbavételére, javítására, átalakítására,
 

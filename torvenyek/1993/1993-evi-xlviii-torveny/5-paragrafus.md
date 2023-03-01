@@ -14,7 +14,7 @@ e) az 1. § (1) bekezdés f) pontja szerinti létesítmények, továbbá a föld
 
 f) a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazását, a cseppfolyós propán-, bután gázok és ezek elegyei töltő és tároló létesítményeinek, valamint elosztóvezetékeinek létesítését, használatba vételét és elbontását, valamint felhagyását,
 
-g) a geotermikus energia kinyerését és hasznosítását, valamint az ehhez szükséges – külön jogszabályban meghatározott – földalatti és felszíni létesítmények megépítését és használatba vételét, ha a tevékenység nem vízjogi engedély köteles,
+g) a termálvíz kitermeléssel történő geotermikus energia kutatását, kinyerését, hasznosítását, az elsődlegesen gyógyászati vagy elsődlegesen mezőgazdasági célú termálvíz kitermelés kivételével,
 
 h) a bányászati hulladék kezelését,
 
@@ -34,7 +34,7 @@ m) az ásványvagyon-gazdálkodási célokat szolgáló, a szénhidrogén kutat�
 
 (4) A bányafelügyelet az engedély kiadását nem tagadhatja meg, ha az engedély iránti kérelemben foglaltak a jogszabályokban meghatározott követelményeknek megfelelnek.
 
-(4a) A bányafelügyelet kutatási engedély, bányatelek megállapítása, feltárási és kitermelési műszaki üzemi terv jóváhagyása, valamint meddőhányóhasznosítás-engedélyezés iránti kérelmet elutasítja, ha
+(4a) A bányafelügyelet kutatási engedély, bányatelek megállapítása, feltárási és kitermelési műszaki üzemi terv jóváhagyása, a 21/C. § szerinti szerződés megkötése, valamint meddőhányóhasznosítás-engedélyezés iránti kérelmet elutasítja, ha
 
 a) a kérelmezőnek
 

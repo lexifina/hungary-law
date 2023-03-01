@@ -8,7 +8,7 @@ a) zárt területen
 
 aa) az ásványi nyersanyagok kutatását, feltárását, kitermelését,
 
-ab) a geotermikus energia kutatását, kinyerését és hasznosítását,
+ab)
 
 ac)
 
