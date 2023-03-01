@@ -1,3 +1,7 @@
-10. §[^10]
+10. § Hatályát veszti a szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet
 
-[^10]: A 10. § a 11. § (2) bekezdés alapján 2023. március 1-jén lép hatályba.
+a) V. fejezet címében az „A PROGRAMKÖVETELMÉNY ÉS” szövegrész,
+
+b) 16–19. §-a,
+
+c) 45. § (1) bekezdés a) pontja és c) pont cb) alpontja.
