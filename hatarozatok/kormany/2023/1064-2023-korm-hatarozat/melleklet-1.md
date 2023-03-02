@@ -10,7 +10,7 @@
 
 | Határidő: | 2023. május 31. |
 
-## 5. visszavonja a GINOP-7.1.1-15-2017-00030 azonosító számú („A várpalotai Zichy-kastély – Trianon Múzeum turisztikai célú fejlesztése” című) projekt támogatásának növeléséről szóló 1060/2022. (II. 15.) Korm. határozatot.
+## 5.[^1]
 
 1. melléklet az 1064/2023. (III. 1.) Korm. határozathoz
 
@@ -19,3 +19,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Hatályos támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | GINOP-7.1.1-15-2017-00030 | A várpalotai Zichy-kastély – Trianon Múzeum turisztikai célú fejlesztése | NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság (konzorciumvezető), Trianon Múzeum Alapítvány | 463 550 000 | 208 653 428 | 672 203 428 | A projekt keretében a várpalotai Zichy-kastélyban működő Trianon Múzeum turisztikai célú fejlesztésére kerül sor. |
+
+[^1]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
