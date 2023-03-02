@@ -1,3 +1,3 @@
-1. § Az extraprofit adókról szóló 197/2022. (VI. 4.) Korm. rendelet (a továbbiakban: Korm. rendelet) 4/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) E § alkalmazásában gyógyszergyártó a TEÁOR 2110 (Gyógyszeralapanyag-gyártás) és a TEÁOR 2120 (Gyógyszerkészítmény gyártása) szakágazat szerinti tevékenységet végző, amennyiben a TEÁOR 2110 és a TEÁOR 2120 szakágazati tevékenységből származó összesített nettó árbevétele az adóév első napján rendelkezésre álló legutolsó éves beszámoló alapján meghaladja a teljes nettó árbevétele 33,33 százalékát.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
