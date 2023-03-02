@@ -1,5 +1,3 @@
-6. § Hatályát veszti
+6. §[^2]
 
-a) az 1. § nyitó szövegrészében az „és a geotermikus energia” szövegrész,
-
-b) az 1. § záró szövegrészében a „vagy a geotermikus energia kutatása és kinyerése” szövegrész.
+[^2]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
