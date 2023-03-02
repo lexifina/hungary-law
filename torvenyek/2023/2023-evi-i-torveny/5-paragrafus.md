@@ -1,0 +1,13 @@
+5. § Az Ekt. a következő 32. §-sal egészül ki:
+
+„32. § (1) Aki az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény és az egészségügyről szóló 1997. évi CLIV. törvény módosításáról szóló 2023. évi I. törvény (a továbbiakban: Módtv.) hatálybalépése napján a Magyar Orvosi Kamara tagja, a Módtv. hatálybalépését követő 30 napon belül – a Magyar Orvosi Kamara országos elnökségéhez intézett – egyoldalú, írásbeli nyilatkozattal nyilatkozik arról, hogy fenn kívánja-e tartani a kamarai tagsági viszonyát. A tagsági viszonyt fenntartó nyilatkozattétel hiányában a kamarai tagsági viszony a Módtv. hatálybalépését követő 31. napon megszűnik. A tagságot fenntartó nyilatkozat érvényességéhez a Magyar Orvosi Kamara külön elfogadó nyilatkozata nem szükséges.
+
+(2) A tagsági viszonyukat fenn nem tartó kamarai tagok személyes adatait a kamarai tagsági nyilvántartásokból haladéktalanul, a (4) bekezdés szerinti esetben az ott meghatározott iratok és adatok átadását követően haladéktalanul törölni kell. A Magyar Orvosi Kamara a tagsági viszonyát fenntartani nem kívánó vagy megszüntető tag számára az éves tagdíj arányosan fennmaradó részét a tagsági viszony megszűnését követő 8 napon belül visszatéríti.
+
+(3) A tagsági viszonyukat fenn nem tartó kamarai tagokkal szemben a tagsági viszony megszűnése előtt kiszabott jogerős etikai büntetést a működési nyilvántartást vezető szerv az Eütv. 112. § (4) bekezdés j) pontja szerint annak elévüléséig nyilvántartja azzal, hogy
+
+a) a kizárás etikai büntetés jogerőre emelkedésétől számított két évig nem végezhet egészségügyi tevékenységet az, akit a 25. § (1) bekezdés f) pontja szerinti kizárás etikai büntetéssel a Módtv. hatálybalépését megelőzően a kamarából kizártak,
+
+b) nem végezhet egészségügyi tevékenységet az, akivel szemben a Módtv. hatálybalépését megelőzően a Magyar Orvosi Kamara a 25. § (1) bekezdés d) pontja szerinti, a tagsági viszony 1–6 hónapig terjedő felfüggesztése etikai büntetést hozott, a határozat jogerőre emelkedésétől számítva a határozatban foglalt ideig.
+
+(4) A 20/A. § szerinti személyekkel szemben – tekintet nélkül arra, hogy az érintett kamarai tag vagy sem – a folyamatban lévő etikai eljárásokat az Egészségügyi Tudományos Tanács folytatja le. Az érintett taggal szemben folyamatban lévő etikai eljárások iratait és az etikai eljárással kapcsolatos adatokat – az etikai eljárás lefolytatása érdekében – a Magyar Orvosi Kamara a Módtv. hatálybalépését követő 15 napon belül átadja az Egészségügyi Tudományos Tanács részére.”
