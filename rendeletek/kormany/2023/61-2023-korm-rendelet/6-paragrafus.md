@@ -1,1 +1,3 @@
-6. § Hatályát veszti az R2. 1. melléklet 1. pontjában foglalt táblázat 12., 13. és 17. sora.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
