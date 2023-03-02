@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-129-20-
 | 2017-01-01 | 2015-129-20-22.2 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2018-01-01 | 2015-129-20-22.3 | 457/2017. (XII. 28.) Korm. rendelet |
 | 2020-03-01 | 2015-129-20-22.4 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2023-03-02 | 2015-129-20-22.5 | 65/2023. (III. 2.) Korm. rendelet |

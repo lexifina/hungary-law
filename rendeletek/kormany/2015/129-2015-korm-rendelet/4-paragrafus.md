@@ -4,4 +4,6 @@ a) amennyiben az adat részben vagy egészben közpénz felhasználásával ker�
 
 b) amennyiben nem közpénz felhasználásával került az adat előállításra, 50 000 forint.
 
-(2) A bírságot a honvédelem térképészeti támogatásáért felelős szerv szabja ki.
+(2)[^3] A bírságot a honvédelmi térképészeti hatósági feladatokért felelős szerv szabja ki.
+
+[^3]: A 4. § (2) bekezdése a 65/2023. (III. 2.) Korm. rendelet 5. §-a szerint módosított szöveg.
