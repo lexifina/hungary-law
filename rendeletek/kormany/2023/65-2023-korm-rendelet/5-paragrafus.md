@@ -1,0 +1,1 @@
+5. § A földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvényben meghatározott bírságok kiszabásának részletes szabályairól szóló 129/2015. (V. 27.) Korm. rendelet 4. § (2) bekezdésében, 6. § (2) bekezdésében, 7. § (2) bekezdésében a „honvédelem térképészeti támogatásáért” szövegrész helyébe a „honvédelmi térképészeti hatósági feladatokért” szöveg lép.
