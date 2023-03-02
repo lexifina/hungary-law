@@ -26,7 +26,7 @@ k) kidolgozza jogszabály alapján az egészségügyi szakmai irányelveket.
 
 (2) A miniszter ágazati irányító jogköre kiterjed minden egészségügyi tevékenységre, illetőleg – jogállásától függetlenül – minden egészségügyi szolgáltatóra.
 
-(3) A miniszter tevékenységét az Egészségügyi Tudományos Tanács (a továbbiakban: ETT), az egészségügyi szakmai kollégium, a Közép- és Kelet-európai Onkológiai Akadémia Alapítvány, valamint az országos gyógyintézetek segítik.
+(3) A miniszter tevékenységét az ETT, az egészségügyi szakmai kollégium, a Közép- és Kelet-európai Onkológiai Akadémia Alapítvány, valamint az országos gyógyintézetek segítik.
 
 (3a) Az országos gyógyintézet az egészségügyért felelős miniszter által vezetett minisztérium gyógyító-megelőző, szervezési-módszertani, továbbképző és tudományos alapintézményeként, népegészségügyi szempontból kiemelkedő jelentőségű szakmacsoportokon belül lát el gyógyító, módszertani, epidemiológiai, szervezési, kutatási és oktatási tevékenységet.
 
