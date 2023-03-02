@@ -2,7 +2,7 @@
 
 1.
 
-2. 4. § (3) bekezdés g) pontjában a „dohánytermék-kiskereskedők” szövegrész helyébe a „dohánytermék-kiskereskedelmi tevékenységet végző személyek” szöveg,
+2.
 
 3.
 
