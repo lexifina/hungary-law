@@ -1,1 +1,3 @@
-16. § Az R3. 6. § (3) bekezdésében a „3. pontja” szövegrész helyébe a „2. pontja” szöveg lép.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

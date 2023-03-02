@@ -1,1 +1,3 @@
-23. § Az R5. 103. § (1) bekezdése a következő i) ponttal egészül ki:
+23. §[^24]
+
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-3. § Hatályát veszti az R1. 34. § (4) bekezdésében és 35. § (4) bekezdésében az „a jegyző, illetve” szövegrész.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

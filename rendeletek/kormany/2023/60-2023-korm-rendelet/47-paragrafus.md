@@ -1,1 +1,3 @@
-47. § Az R13. 11. melléklete a 7. melléklet szerint módosul.
+47. §[^48]
+
+[^48]: A 47. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

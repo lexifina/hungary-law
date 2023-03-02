@@ -1,1 +1,3 @@
-12. § Hatályát veszti az R2. 13. § (1) bekezdésében az „A környezetvédelmi hatóság egyidejűleg – határidő tűzésével – felhívja a környezethasználót a kérelem és mellékletei további egy nyomtatott példányban történő benyújtására.” szövegrész.
+12. §[^13]
+
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

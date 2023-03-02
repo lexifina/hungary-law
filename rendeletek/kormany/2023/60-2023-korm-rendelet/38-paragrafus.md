@@ -1,5 +1,5 @@
 ## 20. A vizsgálóállomás engedélyezésének részletes eljárási szabályairól szóló 181/2017. (VII. 5.) Korm. rendelet módosítása
 
-38. § A vizsgálóállomás engedélyezésének részletes eljárási szabályairól szóló 181/2017. (VII. 5.) Korm. rendelet 14. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+38. §[^39]
 
-(A közlekedési hatóság az engedélyt visszavonja, ha)
+[^39]: A 38. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

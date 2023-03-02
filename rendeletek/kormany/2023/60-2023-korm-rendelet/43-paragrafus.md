@@ -1,5 +1,3 @@
-43. § Hatályát veszti az R12.
+43. §[^44]
 
-a) 1. melléklet 1. pontjában foglalt táblázat B:42 mezőjében az „és minőségi” szövegrész,
-
-b) 1. melléklet 4. pontjában foglalt táblázat 43/A. sora.
+[^44]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

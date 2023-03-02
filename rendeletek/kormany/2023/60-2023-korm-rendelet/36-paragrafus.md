@@ -1,1 +1,3 @@
-36. § Hatályát veszti az R10. 18. § (1) bekezdés b) pontjában a „ , 63/B. §-ában” szövegrész.
+36. §[^37]
+
+[^37]: A 36. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

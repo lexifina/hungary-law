@@ -1,3 +1,3 @@
-## „j) a szolgáltató a szolgáltatási tevékenység folytatásának feltételével már nem rendelkezik.”
+40. §[^41]
 
-40. § Az R11. 6. § (2) bekezdésében a „tiltásra okot adó körülmény megszüntetésétől” szövegrész helyébe az „a döntés véglegessé válásától” szöveg lép.
+[^41]: A 40. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

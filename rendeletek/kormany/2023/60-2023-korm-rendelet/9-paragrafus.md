@@ -1,3 +1,3 @@
-9. § Az R2. 20/A. §-a a következő (14) bekezdéssel egészül ki:
+9. §[^10]
 
-„(14) A környezetvédelmi hatóság az egységes környezethasználati engedélyt módosításakor a korábbi módosításaival együtt egységes szerkezetbe foglalja.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

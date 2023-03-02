@@ -1,3 +1,3 @@
-6. § Az R2. 5. §-a a következő (9) bekezdéssel egészül ki:
+6. §[^7]
 
-„(9) A környezetvédelmi hatóság az előzetes vizsgálati eljárást lezáró döntését a körülményekben bekövetkezett változások esetén – hivatalból vagy kérelemre – módosíthatja.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

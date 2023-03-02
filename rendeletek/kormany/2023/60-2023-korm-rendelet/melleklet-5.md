@@ -1,9 +1,3 @@
-## Az R4. 11. melléklet 10. pont a) alpontja a következő ah) ponttal egészül ki:
+5. melléklet a 60/2023. (II. 28.) Korm. rendelethez[^55]
 
-## (az érintett területi államigazgatási szervek közül:
-
-## fővárosi és vármegyei kormányhivatal)
-
-## „ah) területi hulladékgazdálkodási hatáskörében,”
-
-5. melléklet a 60/2023. (II. 28.) Korm. rendelethez
+[^55]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
