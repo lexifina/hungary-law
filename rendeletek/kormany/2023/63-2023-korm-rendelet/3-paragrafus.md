@@ -1,5 +1,3 @@
-3. § A Korm. rendelet a következő 12. §-sal egészül ki:
+3. §[^4]
 
-„12. § (1) E rendeletnek a Debrecenben megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 75/2015. (III. 30.) Korm. rendelet módosításáról szóló 63/2023. (II. 28.) Korm. rendelettel (a továbbiakban: Módr6.) módosított 1. § (1) bekezdését, 3. §-át, 3/A. §-át, 2., 3. és 4. mellékletét a Módr6. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
-
-(2) E rendeletnek a Módr6.-tal hatályon kívül helyezett 5. mellékletét a Módr6. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben nem kell alkalmazni.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
