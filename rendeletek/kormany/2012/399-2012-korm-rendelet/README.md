@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-399-20-
 | 2013-03-01 | 2012-399-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-03-26 | 2012-399-20-22.3 | 98/2014. (III. 25.) Korm. rendelet |
 | 2018-01-01 | 2012-399-20-22.4 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2023-03-02 | 2012-399-20-22.5 | 65/2023. (III. 2.) Korm. rendelet |
