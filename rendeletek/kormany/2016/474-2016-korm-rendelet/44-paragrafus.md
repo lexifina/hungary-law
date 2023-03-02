@@ -2,7 +2,7 @@
 
 44. § (1) A miniszter Gerevich Aladár-sportösztöndíjként kiemelt sportösztöndíjat és szövetségi sportösztöndíjat adományozhat az olimpiai, paralimpiai, sakkolimpiai, speciális világjáték-válogatott kerettag versenyző, valamint a felkészítésében közreműködő edző, szövetségi kapitány, válogatott vezetőedző és a versenyző felkészítésében közvetlenül részt vevő egyéb sportszakember [a (8)–(17) bekezdés alkalmazásában, a továbbiakban együtt: edző] részére.
 
-(2)[^93] A sportösztöndíj tárgyévi keretösszegét, valamint a (8)–(17) bekezdés alapján sportösztöndíjban részesíthető természetes személyek legnagyobb számát a miniszter állapítja meg. A szövetségi sportösztöndíj keretét a miniszter a sportági eredményesség figyelembevételével és az érintett sportköztestület javaslatára figyelemmel határozza meg.
+(2)[^93] A sportösztöndíj tárgyévi keretösszegét, a sportösztöndíjban részesíthető természetes személyek legnagyobb számát a miniszter állapítja meg. A kiemelt és a szövetségi sportösztöndíj feltételeit, kategóriáit és azok díjazását a miniszter szabályzat keretében határozza meg. A szövetségi sportösztöndíj keretét a miniszter a sportági eredményesség figyelembevételével és az érintett sportköztestület javaslatára figyelemmel határozza meg.
 
 (3) A (8)–(17) bekezdésben meghatározott jogosultsági feltételek mellett sportösztöndíjra
 
@@ -44,23 +44,7 @@ c) az előző négy évben paralimpián érmes vagy világbajnokságon paralimpi
 
 d) a c) pont szerinti versenyzőt felkészítő edző.
 
-(9) A kiemelt sportösztöndíj mértéke
-
-a) a (8) bekezdés a) pontja szerinti versenyző esetén
-
-aa) egyéni sportágban elért, sportösztöndíjra jogosító eredmény után havonta négyszázezer forint,
-
-ab) egyéni sportág csapat versenyszámaiban vagy csapatsportágban elért, sportösztöndíjra jogosító eredmény után versenyzőnként havonta legalább kétszázezer, legfeljebb háromszázezer forint,
-
-b) a (8) bekezdés b) pontja szerinti edző esetén – a (13) bekezdésben foglaltakra is figyelemmel –
-
-ba) az a) pont aa) alpontjában meghatározott versenyző által elért, kiemelt sportösztöndíjra jogosító eredmény után havonta négyszázezer forint,
-
-bb) az a) pont ab) alpontjában meghatározott versenyzők, csapat által elért, kiemelt sportösztöndíjra jogosító eredmény után havonta háromszázezer forint,
-
-c) a (8) bekezdés c) pontja szerinti versenyző és a (8) bekezdés d) pontja szerinti edző esetén egyéni sportágban elért, sportösztöndíjra jogosító eredmény után havonta legfeljebb kétszázezer forint,
-
-d) a (8) bekezdés c) pontja szerinti versenyző és a (8) bekezdés d) pontja szerinti edző esetén egyéni sportág csapat versenyszámaiban vagy csapatsportágban elért, sportösztöndíjra jogosító eredmény után versenyzőnként és edzőnként havonta legfeljebb egyszázezer forint.
+(9)[^95]
 
 (10) A kiemelt sportösztöndíjban részesülő személyekről a miniszter
 
@@ -70,36 +54,35 @@ b) edző esetén a legjobb eredményt elért versenyzőjének eredményessége �
 
 figyelemmel dönt.
 
-(11)[^95] A versenyző a (9) bekezdés a) pont aa) és ab) alpontjában, c) és d) pontjában meghatározott jogcímek közül csak egy alapján jogosult költségvetési támogatásra. Az edző a (9) bekezdés b) pont ba) és bb) alpontjában, c) és d) pontjában meghatározott jogcímek közül csak egy alapján jogosult költségvetési támogatásra. Egy személy versenyzőként vagy edzőként részesülhet költségvetési támogatásban.
+(11)[^96] Egy személy versenyzőként vagy edzőként részesülhet költségvetési támogatásban.
 
 (12) Szövetségi sportösztöndíjban részesíthető a (8) bekezdés hatálya alá nem tartozó felnőtt, valamint utánpótlás korosztályban induló versenyző, és a felkészítését végző edző.
 
-(13) A szövetségi sportösztöndíj mértéke a (14) és (15) bekezdésben foglaltakra is figyelemmel
+(13)[^97]
 
-a) sportoló esetén havonta legalább harmincezer, legfeljebb háromszázezer forint,
-
-b) edző esetén havonta legalább ötvenezer, legfeljebb háromszázezer forint.
-
-(14) A fogyatékosok sportjában működő sportszövetségek vagy ezek tagszervezetei által foglalkoztatott edző, továbbá a fogyatékosok sportjának versenyrendszerében induló versenyző sportösztöndíjának mértéke – a (15) bekezdésre is figyelemmel – versenyző és edző esetén egyaránt havonta legalább húszezer, legfeljebb százötvenezer forint.
+(14)[^98]
 
 (15) A Magyar Speciális Olimpiai Szövetség részére biztosítandó sportösztöndíj-keret kizárólag edzők támogatására fordítható.
 
-(16)[^96] A szövetségi sportösztöndíj a sportszövetségek egyedi kérelme alapján kerül felhasználásra, a miniszter dönt a szövetségi ösztöndíjban részesülő személyekről és a sportösztöndíj összegéről.
+(16)[^99] A szövetségi sportösztöndíj a sportszövetségek egyedi kérelme alapján kerül felhasználásra, a miniszter dönt a szövetségi ösztöndíjban részesülő személyekről és a sportösztöndíj összegéről.
 
-(17)[^97] Az Stv. 58. § (2) bekezdésében meghatározott sportköztestületek, továbbá az érintett országos sportági szakszövetségek félévente egy alkalommal a miniszter részére javasolhatják az éves keretösszegen belül a költségvetési támogatás mértékének, valamint a támogatott személyek körének a módosítását.
+(17)[^100] Az Stv. 58. § (2) bekezdésében meghatározott sportköztestületek, továbbá az érintett országos sportági szakszövetségek félévente egy alkalommal a miniszter részére javasolhatják az éves keretösszegen belül a költségvetési támogatás mértékének, valamint a támogatott személyek körének a módosítását.
 
-(18)[^98] Gerevich Aladár-sportösztöndíjban részesülő személy egyidejűleg nem támogatható a Kiemelt Edzői Program keretében.
+(18)[^101] Gerevich Aladár-sportösztöndíjban részesülő személy egyidejűleg nem támogatható a Kiemelt Edzői Program keretében.
 
-(19)[^99] A Gerevich Aladár-sportösztöndíjban részesülő edzőnek – az ösztöndíjra jogosultságának időtartama alatt – részt kell vennie a miniszter által kijelölt szervezet által szervezett edzői továbbképzési rendszerben. Amennyiben az edző a miniszter által kijelölt szervezet által szervezett edzői továbbképzési rendszerben történő részvételt megtagadja, vagy annak felszólítás ellenére nem tesz eleget, a sportösztöndíjat a miniszter megvonhatja.
+(19)[^102] A Gerevich Aladár-sportösztöndíjban részesülő edzőnek – az ösztöndíjra jogosultságának időtartama alatt – részt kell vennie a miniszter által kijelölt szervezet által szervezett edzői továbbképzési rendszerben. Amennyiben az edző a miniszter által kijelölt szervezet által szervezett edzői továbbképzési rendszerben történő részvételt megtagadja, vagy annak felszólítás ellenére nem tesz eleget, a sportösztöndíjat a miniszter megvonhatja.
 
-(20)[^100] A Gerevich Aladár-sportösztöndíjban részesülő sportoló abban az időszakban, amelyben várandósságára és gyermekének megszületését követően annak gondozására tekintettel az edzésmunkában, felkészülésben nem vesz részt, a várandósságot megelőző hónapban részére folyósított sportösztöndíj felének megfelelő mértékű sportösztöndíjra válik jogosulttá. A sportoló edzésmunkából történő kimaradásáról, illetve visszatéréséről a sportszövetség a minisztert haladéktalanul köteles tájékoztatni.
+(20)[^103]
 
 [^92]: A 13. alcím címe az 552/2022. (XII. 22.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^93]: A 44. § (2) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 20. § (1) bekezdésével megállapított, az 552/2022. (XII. 22.) Korm. rendelet 24. § o) pontja szerint módosított szöveg.
+[^93]: A 44. § (2) bekezdése az 56/2023. (II. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^94]: A 44. § (4) bekezdés c) pontja a 206/2019. (VIII. 23.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
-[^95]: A 44. § (11) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
-[^96]: A 44. § (16) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
-[^97]: A 44. § (17) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
-[^98]: A 44. § (18) bekezdését a 279/2018. (XII. 21.) Korm. rendelet 20. § (4) bekezdése iktatta be.
-[^99]: A 44. § (19) bekezdését a 472/2020. (X. 29.) Korm. rendelet 13. §-a iktatta be.
-[^100]: A 44. § (20) bekezdését a 472/2020. (X. 29.) Korm. rendelet 13. §-a iktatta be.
+[^95]: A 44. § (9) bekezdését az 56/2023. (II. 27.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^96]: A 44. § (11) bekezdése az 56/2023. (II. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^97]: A 44. § (13) bekezdését az 56/2023. (II. 27.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^98]: A 44. § (14) bekezdését az 56/2023. (II. 27.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^99]: A 44. § (16) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^100]: A 44. § (17) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^101]: A 44. § (18) bekezdését a 279/2018. (XII. 21.) Korm. rendelet 20. § (4) bekezdése iktatta be.
+[^102]: A 44. § (19) bekezdését a 472/2020. (X. 29.) Korm. rendelet 13. §-a iktatta be.
+[^103]: A 44. § (20) bekezdését a 472/2020. (X. 29.) Korm. rendelet 13. §-a iktatta be, az 56/2023. (II. 27.) Korm. rendelet 3. §-a hatályon kívül helyezte.

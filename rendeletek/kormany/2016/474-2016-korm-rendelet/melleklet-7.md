@@ -1,3 +1,3 @@
-7. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^140]
+7. melléklet a 474/2016. (XII. 27.) Korm. rendelethez[^144]
 
-[^140]: A 7. mellékletet az 552/2022. (XII. 22.) Korm. rendelet 25. § i) pontja hatályon kívül helyezte.
+[^144]: A 7. mellékletet az 552/2022. (XII. 22.) Korm. rendelet 25. § i) pontja hatályon kívül helyezte.
