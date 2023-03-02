@@ -1,3 +1,3 @@
-1. § Az ideiglenes védelemre jogosultként elismert személyekkel kapcsolatos veszélyhelyzeti szabályokról, továbbá a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény szabályainak eltérő alkalmazásáról szóló 86/2022. (III. 7.) Korm. rendelet 5. §-a a következő (3) bekezdéssel egészül ki:
+1. §[^2]
 
-„(3) A (2) bekezdés alapján kiállított – 1. melléklet szerinti –, a menedékes személyazonosságát és tartózkodási jogát igazoló okmány érvényességi ideje a Metvhr. 8. § (3) bekezdésétől eltérően – az okmányon fizikailag megjelenített érvényességi idő helyett – 2024. március 4. napja.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
