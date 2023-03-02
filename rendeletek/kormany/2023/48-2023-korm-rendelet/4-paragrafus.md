@@ -1,1 +1,3 @@
-4. § Az Ebr. 24/G. § a) pontjában a „kártya” szövegrész helyébe a „pénztári kártya” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

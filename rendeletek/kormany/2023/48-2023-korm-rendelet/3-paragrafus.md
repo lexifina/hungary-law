@@ -1,3 +1,3 @@
-3. § Az Ebr. 24/H. § (1) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(1) A pénztár alapszabálya rendelkezhet úgy, hogy a pénztári kártya igénylésével a tag hozzájárul ahhoz, hogy a pénztári kártya elfogadója az általa kiállított, a 24/C. § (2) bekezdésében foglaltaknak megfelelő számlát közvetlenül, az adatvédelmi jogszabályok figyelembevételével a pénztár részére küldje meg kiegyenlítés végett. Ebben az esetben, amennyiben elektronikus számlát alkalmaznak, az Eszr. szerinti szerződést a pénztártag javára a pénztár köti meg, és az összesítőt a pénztár részére kell megküldeni. A pénztári kártya igénylésekor erre a tag figyelmét írásban fel kell hívni. A számla pénztárhoz való közvetlen továbbítása esetén biztosítani kell, hogy a pénztári kártya elfogadója a számlával azonos adattartalmú dokumentumot bocsásson a tag rendelkezésére.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
