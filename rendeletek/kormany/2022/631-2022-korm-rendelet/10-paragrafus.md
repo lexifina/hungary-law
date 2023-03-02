@@ -1,7 +1,3 @@
-10. § Hatályát veszti a szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet
+10. §[^10]
 
-a) V. fejezet címében az „A PROGRAMKÖVETELMÉNY ÉS” szövegrész,
-
-b) 16–19. §-a,
-
-c) 45. § (1) bekezdés a) pontja és c) pont cb) alpontja.
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
