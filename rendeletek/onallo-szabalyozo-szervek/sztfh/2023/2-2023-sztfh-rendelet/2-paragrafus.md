@@ -1,1 +1,3 @@
-2. § Az R1. 7/A. § (10) bekezdésében az „a Hatóság által kiállított arcképes igazolvány és megbízólevél elnevezésű okirattal” szövegrész helyébe az „a bányafelügyeleti, a szerencsejáték-felügyeleti és a dohánytermék-kiskereskedelem felügyeletével kapcsolatos hatósági feladatokat ellátó személyek igazolványáról szóló SZTFH rendelet szerinti szolgálati igazolvánnyal” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
