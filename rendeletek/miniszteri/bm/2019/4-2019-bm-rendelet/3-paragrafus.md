@@ -44,7 +44,7 @@ i) titkos ügykezeléssel kapcsolatos munkakör,
 
 j) belső ellenőri munkakör.
 
-k)[^2] költségvetési vagy egyéb pénzeszközök, támogatások tekintetében javaslattevő, döntési vagy ellenőrzési feladatot ellátó munkakörök.
+k)[^3] költségvetési vagy egyéb pénzeszközök, támogatások tekintetében javaslattevő, döntési vagy ellenőrzési feladatot ellátó munkakörök.
 
 (3) A büntetés-végrehajtási szervezetnél a kifogástalan életvitel ellenőrzése alá eső munkakörök:
 
@@ -70,7 +70,7 @@ j) pártfogó felügyelői munkakör,
 
 k) belső ellenőri munkakör.
 
-(4)[^3] Az idegenrendészeti szervnél a kifogástalan életvitel ellenőrzése alá eső munkakörök:
+(4)[^4] Az idegenrendészeti szervnél a kifogástalan életvitel ellenőrzése alá eső munkakörök:
 
 a) főigazgatói munkaköri kategóriába tartozó munkakör,
 
@@ -92,5 +92,5 @@ i) kiemelt ügykezelői munkakör,
 
 j) titkos ügykezeléssel kapcsolatos munkakör.
 
-[^2]: A 3. § (2) bekezdés k) pontját a 20/2021. (VII. 14.) BM rendelet 31. §-a iktatta be.
-[^3]: A 3. § (4) bekezdését a 20/2019. (V. 15.) BM rendelet 12. §-a iktatta be.
+[^3]: A 3. § (2) bekezdés k) pontját a 20/2021. (VII. 14.) BM rendelet 31. §-a iktatta be.
+[^4]: A 3. § (4) bekezdését a 20/2019. (V. 15.) BM rendelet 12. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 6/A. [^6] Illetményelőleg
+## 6/A. [^7] Illetményelőleg
 
 33/A. § (1) A rendvédelmi alkalmazott részére családi, egészségügyi vagy más szociális ok figyelembevételével a kamatmentes illetményelőleg kifizetését az arra vonatkozó, indokolással alátámasztott kérelem alapján a munkáltatói jogkör gyakorlója engedélyezheti.
 
@@ -10,4 +10,4 @@
 
 (5) A munkáltatói jogkör gyakorlója kivételesen, rendkívüli méltánylást érdemlő esetben engedélyezheti az illetményelőlegből eredő tartozás törlését. A vissza nem fizetett támogatás adóköteles jövedelemnek minősül.
 
-[^6]: A 6/A. alcímet (33/A. §) a 34/2021. (X. 6.) BM rendelet 1. §-a iktatta be.
+[^7]: A 6/A. alcímet (33/A. §) a 34/2021. (X. 6.) BM rendelet 1. §-a iktatta be.
