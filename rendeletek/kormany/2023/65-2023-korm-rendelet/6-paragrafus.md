@@ -1,1 +1,3 @@
-6. § Hatályát veszti a honvédelem térképészeti támogatásáért felelős szerv kijelöléséről, hatósági hatásköréről és eljárásának egyes szabályairól szóló 501/2017. (XII. 29.) Korm. rendelet.
+6. §[^3]
+
+[^3]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
