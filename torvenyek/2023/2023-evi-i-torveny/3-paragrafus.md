@@ -1,3 +1,1 @@
-3. § Az Ekt. a következő 14/C. §-sal egészül ki:
-
-„14/C. § A tagsági viszonyáról a 18. § (1) bekezdés a) pontja szerint lemondó, az orvos, a fogorvos, továbbá a nem orvos- és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozó tag számára a Magyar Orvosi Kamara az éves tagdíj arányosan fennmaradó részét a tagsági viszony megszűnését követő 8 napon belül visszatéríti.”
+### 3. §
