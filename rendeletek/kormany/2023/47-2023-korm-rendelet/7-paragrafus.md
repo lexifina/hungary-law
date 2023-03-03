@@ -1,3 +1,0 @@
-7. § (1) Az 5. § a vasúti rendszer Európai Unión belüli kölcsönös átjárhatóságáról szóló, 2016. május 11-i (EU) 2016/797 európai parlamenti és tanácsi irányelv helyesbítésének való megfelelést szolgálja.
-
-(2) Ez a rendelet – a 15. cikk (2) bekezdése kivételével – a személygépkocsik és a könnyű haszongépjárművek szén-dioxid-kibocsátásával kapcsolatos adatok (EU) 2019/631 európai parlamenti és tanácsi rendelet szerinti nyomon követéséről és bejelentéséről, valamint az 1014/2010/EU, a 293/2012/EU, az (EU) 2017/1152 és az (EU) 2017/1153 bizottsági végrehajtási rendelet hatályon kívül helyezéséről szóló, 2021. március 4-i (EU) 2021/392 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
