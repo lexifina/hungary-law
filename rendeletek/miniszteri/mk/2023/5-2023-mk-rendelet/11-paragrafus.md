@@ -1,5 +1,3 @@
-11. § Hatályát veszti a rendvédelmi igazgatási alkalmazottak rendvédelmi igazgatási szolgálati jogviszonyával összefüggő egyes szabályokról szóló 4/2019. (III. 11.) BM rendelet
+11. §[^2]
 
-a) 1. § (2) bekezdése,
-
-b) 35. § (9) bekezdése.
+[^2]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

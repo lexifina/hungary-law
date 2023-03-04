@@ -1,1 +1,3 @@
-12. § Hatályát veszti az Információs Hivatal rendvédelmi igazgatási alkalmazottainak teljesítményértékelési rendszeréről szóló 5/2019. (VIII. 30.) KKM rendelet.
+12. §[^3]
+
+[^3]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
