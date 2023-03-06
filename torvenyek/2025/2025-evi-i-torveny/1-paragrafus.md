@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország és a Kolumbiai Köztársaság között az ideiglenesen munkát vállaló turisták programjáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
