@@ -2,4 +2,4 @@ Az Alaptörvény 9. cikk (3) bekezdés k) pontja, valamint a bírák jogállás�
 
 KEH ügyszám: IV-4/00864-13/2017.
 
-[^1]: A 112/2020. (II. 28.) KE határozat alapján a köztársasági elnök dr. Palkovics-Révész Dalma bírói kinevezését 2020. március 1. napjától 2023. február 28. napjáig terjedő időtartamra meghosszabbítja.
+[^1]: A 40/2023. (III. 6.) KE határozat alapján a köztársasági elnök dr. Palkovics-Révész Dalma bírói kinevezését a 2023. március 1. napjától 2026. február 28. napjáig terjedő időtartamra meghosszabbította.
