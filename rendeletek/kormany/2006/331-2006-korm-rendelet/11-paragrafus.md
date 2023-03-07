@@ -1,12 +1,12 @@
-## 10/A. §[^73] Az egészségügyről szóló 1997. évi CLIV. törvény 187/A. §-a szerinti hozzájárulás megadása a tizennyolcadik életévét betöltött, cselekvőképességében bármely ügycsoportban részlegesen korlátozott személy művi meddővé tétel elvégzése iránti kérelméhez a gyámhivatal hatáskörébe tartozik.
+## 10/A. §[^74] Az egészségügyről szóló 1997. évi CLIV. törvény 187/A. §-a szerinti hozzájárulás megadása a tizennyolcadik életévét betöltött, cselekvőképességében bármely ügycsoportban részlegesen korlátozott személy művi meddővé tétel elvégzése iránti kérelméhez a gyámhivatal hatáskörébe tartozik.
 
-## 11. §[^74] A gyámhivatal a vagyonkezeléssel kapcsolatban
+## 11. §[^75] A gyámhivatal a vagyonkezeléssel kapcsolatban
 
-a)[^75] dönt a gyermekek és gondnokoltak készpénzvagyonának gyámi fenntartásos betétben vagy fizetési számlán történő elhelyezéséről, az elhelyezett pénz felhasználásáról, államilag garantált értékpapírba, biztosítási kötvénybe történő befektetéséről, letétben kezeléséről, valamint egyéb tárgyak letétbe helyezéséről, továbbá a Ptk. 4:159. §-a szerinti intézkedések közül azt alkalmazza, amellyel legnagyobb biztonsággal megóvható a gyermek vagyona,
+a)[^76] dönt a gyermekek és gondnokoltak készpénzvagyonának gyámi fenntartásos betétben vagy fizetési számlán történő elhelyezéséről, az elhelyezett pénz felhasználásáról, államilag garantált értékpapírba, biztosítási kötvénybe történő befektetéséről, letétben kezeléséről, valamint egyéb tárgyak letétbe helyezéséről, továbbá a Ptk. 4:159. §-a szerinti intézkedések közül azt alkalmazza, amellyel legnagyobb biztonsággal megóvható a gyermek vagyona,
 
 b) dönt a gyám, a gondnok vagyon- és bérlakás kezeléséhez kapcsolódó jognyilatkozata érvényességéhez szükséges jóváhagyásról,
 
-c)[^76]
+c)[^77]
 
 d) elbírálja a rendszeres és az eseti számadást, meghatározott esetekben a végszámadást,
 
@@ -14,7 +14,7 @@ e) közreműködik a gyermekek, gondnokoltak ingó és ingatlan vagyonával és 
 
 f) közreműködik a hagyatéki eljárásban.
 
-[^73]: A 10/A. §-t a 70/2014. (III. 13.) Korm. rendelet 95. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
-[^74]: A 11. § nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
-[^75]: A 11. § a) pontja a 70/2014. (III. 13.) Korm. rendelet 96. §-ával megállapított szöveg.
-[^76]: A 11. § c) pontját a 70/2014. (III. 13.) Korm. rendelet 102. §-a hatályon kívül helyezte.
+[^74]: A 10/A. §-t a 70/2014. (III. 13.) Korm. rendelet 95. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^75]: A 11. § nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^76]: A 11. § a) pontja a 70/2014. (III. 13.) Korm. rendelet 96. §-ával megállapított szöveg.
+[^77]: A 11. § c) pontját a 70/2014. (III. 13.) Korm. rendelet 102. §-a hatályon kívül helyezte.

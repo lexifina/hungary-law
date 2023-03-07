@@ -14,7 +14,13 @@ f) a számadási kötelezettség, illetve a számadás helyességének megállap
 
 iránt.
 
-(2)[^61] A gyámhivatal feljelentést tesz
+(1a)[^61] A gyámhivatal a gyámság alatt álló gyermek jogellenes elvitelének veszélye esetén a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény 22/F. § (2) bekezdése és 22/K. § (1) bekezdése alapján
+
+a) a gyám kérelmére vagy hivatalból bírósági polgári nemperes eljárást kezdeményezhet figyelmeztető jelzés elhelyezésének elrendelése iránt, illetve a figyelmeztető jelzés felülvizsgálata iránt,
+
+b) a gyám kérelmére jóváhagyhatja a figyelmeztető jelzés elhelyezésének elrendelése és annak felülvizsgálata iránti bírósági polgári nemperes eljárás gyám által történő megindítását.
+
+(2)[^62] A gyámhivatal feljelentést tesz
 
 a) a gyermek veszélyeztetése,
 
@@ -28,4 +34,5 @@ miatt.
 [^58]: A 8. § (1) bekezdés a) pontja a 70/2014. (III. 13.) Korm. rendelet 91. § (1) bekezdésével megállapított szöveg.
 [^59]: A 8. § (1) bekezdés d) pontját a 174/2012. (VII. 26.) Korm. rendelet 93. § (1) bekezdés h) pont hb) alpontja hatályon kívül helyezte.
 [^60]: A 8. § (1) bekezdés e) pontja a 70/2014. (III. 13.) Korm. rendelet 91. § (2) bekezdésével megállapított szöveg.
-[^61]: A 8. § (2) bekezdése a 70/2014. (III. 13.) Korm. rendelet 91. § (3) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^61]: A 8. § (1a) bekezdését az 564/2021. (X. 4.) Korm. rendelet 35. §-a iktatta be.
+[^62]: A 8. § (2) bekezdése a 70/2014. (III. 13.) Korm. rendelet 91. § (3) bekezdésével megállapított, nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.

@@ -1,11 +1,11 @@
-## 25. §[^152] Az egyes gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 237/2010. (IX. 13.) Korm. rendelettel megállapított 13. § c) pontját a 2010. szeptember 30-án folyamatban lévő ügyekben is alkalmazni kell.
+## 25. §[^153] Az egyes gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 237/2010. (IX. 13.) Korm. rendelettel megállapított 13. § c) pontját a 2010. szeptember 30-án folyamatban lévő ügyekben is alkalmazni kell.
 
-26. §[^153] (1) E rendeletnek az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 140/2011. (VII. 21.) Korm. rendelettel (a továbbiakban: R.) megállapított 9. § i) pontját az R. hatálybalépését[^154] követően a központi hatóságtól érkező megkeresések intézése során kell alkalmazni.
+26. §[^154] (1) E rendeletnek az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 140/2011. (VII. 21.) Korm. rendelettel (a továbbiakban: R.) megállapított 9. § i) pontját az R. hatálybalépését[^155] követően a központi hatóságtól érkező megkeresések intézése során kell alkalmazni.
 
-(2) Az R. hatálybalépését[^155] megelőzően a tartásdíj külföldön való behajtása tárgyában New Yorkban, az 1956. évi június hó 20. napján kelt egyezmény alapján benyújtott tartásdíj-kérelmek ügyében az R. hatálybalépését[^156] megelőző napon hatályos rendelkezések szerint kell eljárni.
+(2) Az R. hatálybalépését[^156] megelőzően a tartásdíj külföldön való behajtása tárgyában New Yorkban, az 1956. évi június hó 20. napján kelt egyezmény alapján benyújtott tartásdíj-kérelmek ügyében az R. hatálybalépését[^157] megelőző napon hatályos rendelkezések szerint kell eljárni.
 
-[^152]: A 25. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 187. pontja hatályon kívül helyezte, újonnan a 237/2010. (IX. 13.) Korm. rendelet 20. §-a iktatta be.
-[^153]: A 26. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 187. pontja hatályon kívül helyezte, újonnan a 140/2011. (VII. 21.) Korm. rendelet 27. §-a iktatta be.
-[^154]: A hatálybalépés időpontja 2011. július 27.
+[^153]: A 25. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 187. pontja hatályon kívül helyezte, újonnan a 237/2010. (IX. 13.) Korm. rendelet 20. §-a iktatta be.
+[^154]: A 26. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 187. pontja hatályon kívül helyezte, újonnan a 140/2011. (VII. 21.) Korm. rendelet 27. §-a iktatta be.
 [^155]: A hatálybalépés időpontja 2011. július 27.
 [^156]: A hatálybalépés időpontja 2011. július 27.
+[^157]: A hatálybalépés időpontja 2011. július 27.
