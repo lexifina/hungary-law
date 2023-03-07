@@ -1,5 +1,3 @@
-## Az energetikai felülvizsgálói nyilvántartásba vételhez szükséges jogosultságok
-
 ## Energetikai felülvizsgálóként a természetes személy akkor kezdeményezheti a nyilvántartásba vételét, ha a Magyar Mérnöki Kamara névjegyzéke szerint az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló 266/2013. (VII. 11.) Korm. rendelet szerinti alábbi jogosultságok valamelyikével rendelkezik:
 
 |  | A | B | C |
@@ -16,7 +14,7 @@
 
 2. melléklet a 19/2021. (IV. 14.) ITM rendelethez
 
-## A felülvizsgálati jelentés minimális tartalmi követelményei
+A felülvizsgálati jelentés minimális tartalmi követelményei
 
 1. A fűtési rendszer energetikai felülvizsgálata
 

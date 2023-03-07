@@ -2,7 +2,7 @@
 
 1. § (1) Energetikai felülvizsgálóként az a Magyar Mérnöki Kamara által névjegyzékbe vett személy kezdeményezheti a Nemzeti Klímavédelmi Hatóság (a továbbiakban: Hatóság) által üzemeltetett adatbázisban (a továbbiakban: Adatbázis) történő nyilvántartásba vételét, aki az 1. mellékletben szereplő jogosultságok valamelyikével rendelkezik.
 
-(2) Az energetikai felülvizsgáló az energiahatékonyságról szóló 2015. évi LVII. törvény (a továbbiakban: Ehat. Tv.) 43/B. § (4) bekezdése szerinti éves felügyeleti díjat átutalási megbízással az Ehat. Tv. 43/B. § (3) bekezdésében rögzítettek szerint fizeti meg az Innovációs és Technológiai Minisztérium Magyar Államkincstárnál vezetett ITM igazgatás 10032000-00290713-00000000 számú fizetési számlájára.
+(2)[^1] Az energetikai felülvizsgáló az energiahatékonyságról szóló 2015. évi LVII. törvény (a továbbiakban: Ehat. Tv.) 43/B. § (4) bekezdése szerinti éves felügyeleti díjat átutalási megbízással az Ehat. Tv. 43/B. § (3) bekezdésében rögzítettek szerint fizeti meg az Energiaügyi Minisztérium (a továbbiakban: EM) Magyar Államkincstárnál vezetett EM igazgatás 10032000-00290713-00000000 számú fizetési számlájára.
 
 (3) Az átutalási megbízás közlemény rovatában fel kell tüntetni az energetikai felülvizsgáló nyilvántartási számát és a „felügyeleti díj” megjelölést mint a befizetés jogcímét.
 
@@ -17,3 +17,5 @@
 (8) Az utaló a visszatérítést azon időszakban kérheti, amely évben a túlfizetés keletkezett. Az 1000 forintot el nem érő túlfizetés visszatérítését az energetikai felülvizsgáló regisztrációjának adatbázisból való törlése esetén kérheti.
 
 (9) Tévesen teljesített éves felügyeleti díjfizetés esetén a Hatóság a téves fizetésről történő tudomásszerzést követő 30 napon belül intézkedik a visszafizetésről azon pénzforgalmi szolgáltatónál vezetett fizetési számla javára, amelyről a téves fizetés a Hatósághoz érkezett.
+
+[^1]: Az 1. § (2) bekezdése az 1/2023. (III. 6.) EM rendelet 3. §-a szerint módosított szöveg.
