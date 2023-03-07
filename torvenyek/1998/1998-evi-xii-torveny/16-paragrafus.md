@@ -16,9 +16,11 @@ cb) a szabadságvesztés büntetés végrehajthatóságának megszűnéséig,
 
 d) akinek a bíróság a kényszergyógykezelését rendelte el, az ítélet jogerőre emelkedésétől a kényszergyógykezelés tartama alatt,
 
-e) akinek a bíróság a javítóintézeti nevelését rendelte el, az ítélet jogerőre emelkedésétől a javítóintézeti nevelés tartama alatt, illetve a javítóintézetből történő ideiglenes elbocsátás tartama alatt, vagy
+e) akinek a bíróság a javítóintézeti nevelését rendelte el, az ítélet jogerőre emelkedésétől a javítóintézeti nevelés tartama alatt, illetve a javítóintézetből történő ideiglenes elbocsátás tartama alatt,
 
-f) akinek az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján megtiltották Magyarország területének elhagyását és úti okmányának átadására kötelezték.
+f) akinek az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény alapján megtiltották Magyarország területének elhagyását és úti okmányának átadására kötelezték, vagy
+
+g) akivel szemben a bíróság a jogellenes elvitellel veszélyeztetett gyermekek tekintetében szükséges utazás megakadályozásával járó figyelmeztető jelzést helyezett el a Schengeni Információs Rendszerben.
 
 (2) Az (1) bekezdésben meghatározott kényszerintézkedés, büntetés, intézkedés vagy egyéb korlátozás elrendelése vagy kiszabása esetén
 

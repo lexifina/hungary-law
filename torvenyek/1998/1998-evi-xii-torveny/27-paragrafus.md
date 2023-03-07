@@ -28,7 +28,7 @@
 
 (4a) Az útlevélhatóság a közúti közlekedési nyilvántartó szerv és közlekedési igazgatási hatóság részére a közlekedési igazgatási eljárások során a személyazonosítás céljára a 24. § (1) bekezdés a)–b), valamint e) pontjában meghatározott adatokat szolgáltathatja.
 
-(5) Az adatkezelő szerv jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe és a Nemzetközi Bűnügyi Rendőrség Szervezetének az INTERPOL FIND hálózati adatbázis által elérhető adatbázisába (a továbbiakban: a Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisa) továbbítja az útiokmány-nyilvántartásban érvénytelenítésre került hivatalos útlevél és magánútlevél törvényben meghatározott adatait, ha az okmány nincs az útlevélhatóság, vagy a 20. § (1) bekezdés g) pontja szerinti esetben a visszatartására jogosult szerv birtokában.
+(5) Az adatkezelő szerv jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe és az Interpol FIND SLTD-be továbbítja az útiokmány-nyilvántartásban érvénytelenítésre került hivatalos útlevélnek és magánútlevélnek törvényben meghatározott adatait, ha az okmány nincs az útlevélhatóság vagy a 20. § (1) bekezdés g) pontja szerinti esetben a visszatartására jogosult szerv birtokában.
 
 (6) Ha az (5) bekezdés szerinti hivatalos útlevél vagy magánútlevél
 
@@ -36,15 +36,15 @@ a) időközben megkerült, vagy
 
 b) lefoglalás vagy büntetőeljárásban bizonyítékként történő felhasználása céljából elrendelt körözésének adatai a körözési nyilvántartási rendszerből törlésre kerültek,
 
-az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmeztető jelzés és a Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisában szereplő tétel törléséről.
+az adatkezelő szerv az (5) bekezdés szerint gondoskodik a schengeni figyelmeztető jelzés és az Interpol FIND SLTD-ben szereplő tétel törléséről.
 
-(7) Ha a kitöltetlen úti okmány eltűnéséről, elvesztéséről, eltulajdonításáról, illetve az eltűnt kitöltetlen okmány megkerüléséről értesül, az adatkezelő szerv gondoskodik a schengeni figyelmeztető jelzés jogszabály szerinti NS.CP Portál felületen keresztül történő elhelyezéséről, illetve törléséről, valamint az Interpol Magyar Nemzeti Iroda értesítésével kezdeményezi az okmányadatok Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisába történő továbbítását, illetve az abban szereplő tétel törlését.
+(7) Ha a kitöltetlen úti okmány eltűnéséről, elvesztéséről, eltulajdonításáról, illetve az eltűnt kitöltetlen okmány megkerüléséről értesül, az adatkezelő szerv gondoskodik a schengeni figyelmeztető jelzés jogszabály szerinti NS.CP Portál felületen keresztül történő elhelyezéséről, illetve törléséről, valamint az Interpol Magyar Nemzeti Iroda értesítésével kezdeményezi az okmányadatok Interpol FIND SLTD-be történő továbbítását, illetve az abban szereplő tétel törlését.
 
 (8) Az anyakönyvvezető a személyazonosság és állampolgárság ellenőrzése, valamint az elhunyt személy személyazonosság igazolására alkalmas hatósági igazolványának bevonása céljából a 24. § (1) bekezdés a), e) és f) pontjában foglalt adatokat lekérdezheti.
 
 (9) A büntetés-végrehajtási intézet a befogadás során az elítélt személyazonosságának ellenőrzése érdekében – közvetlen adathozzáféréssel – a 24. § (1) bekezdés a), b), e) és f) pontjában meghatározott adatokat átveheti.
 
-(10) Az adatkezelő szerv az (5) és (6) bekezdés szerinti jelzéskezelési művelet végrehajtásával egyidejűleg gondoskodik az okmányadatok Nemzetközi Bűnügyi Rendőrség Szervezete körözési adatbázisában történő elhelyezéséről, illetve törléséről.
+(10) Az adatkezelő szerv az (5) és (6) bekezdés szerinti jelzéskezelési művelet végrehajtásával egyidejűleg gondoskodik az okmányadatok Interpol FIND SLTD-ben történő elhelyezéséről, illetve törléséről.
 
 (11) Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározott igénybevételre jogosult szervek a 24. § (1) bekezdésének l) pontjában meghatározott adat közlésével is igényelhetnek adatot az útiokmány-nyilvántartásból.
 
