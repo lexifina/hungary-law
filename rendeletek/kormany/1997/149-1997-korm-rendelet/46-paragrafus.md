@@ -83,4 +83,4 @@ b) a szülői felügyeleti jog egyedül történő gyakorlásának igazolása é
 [^335]: A 46. § (6) bekezdés b) pontja a 97/2013. (III. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^336]: A 46. § (6) bekezdés f) pontja a 296/2012. (X. 17.) Korm. rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^337]: A 46. § (7) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 16. § (2) bekezdése iktatta be. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^338]: A 46. § (8) bekezdését a 325/2020. (VII. 1.) Korm. rendelet 8. §-a iktatta be, szövege az 534/2022. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^338]: A 40. § (8) bekezdését a 325/2020. (VII. 1.) Korm. rendelet 8. §-a iktatta be, szövege az 534/2022. (XII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.

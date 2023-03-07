@@ -52,25 +52,27 @@ l)[^874] az azonnali végrehajthatóság kimondását,
 
 m)[^875] megelőző pártfogás alatt álló gyermek esetében a megelőző pártfogás fenntartását vagy megszüntetését.
 
-(1a)[^876] A gyámhivatal a megelőző pártfogás fenntartása esetén az (1) bekezdés szerinti döntésében rendelkezik a 91/M. §-ban foglaltakról is, egyidejűleg felhívja a gyermek gyermekvédelmi gyámját és gondozási helyét a megelőző pártfogó felügyelővel való együttműködésre.
+n)[^876] a tájékoztatást arról, hogy a gyermekvédelmi gyám kérheti a gyermek jogellenes elvitelének veszélye esetén figyelmeztető jelzés elhelyezésének elrendelése iránti, illetve a figyelmeztető jelzés felülvizsgálata iránti bírósági polgári nemperes eljárás megindításához a gyámhivatal jóváhagyását vagy a gyámhivatal ez irányú intézkedését.
 
-(1b)[^877] A kísérő nélküli kiskorú gondozási helyének meghatározására irányuló eljárás eredményeként hozott határozat az (1) bekezdés c) pontja keretében azt tartalmazza, hogy nincs Magyarország területén olyan hozzátartozó, aki tekintetében a kapcsolattartást szabályozni lehetne. A gyámhivatal egyidejűleg felhívja a kísérő nélküli kiskorú gyermekvédelmi gyámját, hogy ha kapcsolattartásra jogosult hozzátartozó létezéséről szerez tudomást, segítse a korlátozottan cselekvőképes kísérő nélküli kiskorút a kapcsolattartás szabályozása iránti kérelme előterjesztésében, vagy cselekvőképtelen kísérő nélküli kiskorú esetén a gyermek nevében terjessze elő a kérelmet.
+(1a)[^877] A gyámhivatal a megelőző pártfogás fenntartása esetén az (1) bekezdés szerinti döntésében rendelkezik a 91/M. §-ban foglaltakról is, egyidejűleg felhívja a gyermek gyermekvédelmi gyámját és gondozási helyét a megelőző pártfogó felügyelővel való együttműködésre.
 
-(1c)[^878] A különleges ellátási szükséglet kezdő időpontja
+(1b)[^878] A kísérő nélküli kiskorú gondozási helyének meghatározására irányuló eljárás eredményeként hozott határozat az (1) bekezdés c) pontja keretében azt tartalmazza, hogy nincs Magyarország területén olyan hozzátartozó, aki tekintetében a kapcsolattartást szabályozni lehetne. A gyámhivatal egyidejűleg felhívja a kísérő nélküli kiskorú gyermekvédelmi gyámját, hogy ha kapcsolattartásra jogosult hozzátartozó létezéséről szerez tudomást, segítse a korlátozottan cselekvőképes kísérő nélküli kiskorút a kapcsolattartás szabályozása iránti kérelme előterjesztésében, vagy cselekvőképtelen kísérő nélküli kiskorú esetén a gyermek nevében terjessze elő a kérelmet.
+
+(1c)[^879] A különleges ellátási szükséglet kezdő időpontja
 
 a) sajátos nevelési igény fennállása esetén, az ezt megállapító, a nemzeti köznevelésről szóló törvény szerinti szakértői bizottsági szakértői vélemény elkészítésének időpontja, vagy, ha ez nem egyezik meg a sajátos nevelési igény megállapításának időpontjával, akkor a szakértői véleményben ezzel kapcsolatban feltüntetett időpont,
 
 b) tartós betegség esetén a magasabb összegű családi pótlékra jogosultságról szóló határozatban jóváhagyott, az Mcspr. 3. melléklete szerinti szakorvosi igazolás kiállításának dátuma.
 
-(1d)[^879] A gyermekvédelmi szakellátásba bekerülő gyermek esetén a különleges ellátási szükséglet kezdő időpontja, ha a sajátos nevelési igény, illetve a tartós betegség fennállása megelőzte a bekerülés időpontját, a gyermekvédelmi szakellátásba kerülés kezdő időpontja.
+(1d)[^880] A gyermekvédelmi szakellátásba bekerülő gyermek esetén a különleges ellátási szükséglet kezdő időpontja, ha a sajátos nevelési igény, illetve a tartós betegség fennállása megelőzte a bekerülés időpontját, a gyermekvédelmi szakellátásba kerülés kezdő időpontja.
 
-(1e)[^880] A speciális ellátási szükséglet kezdő időpontja a speciális ellátási szükségletet megállapító vármegyei, fővárosi vagy országos gyermekvédelmi szakértői bizottsági szakmai véleménye elkészítésének időpontja.
+(1e)[^881] A speciális ellátási szükséglet kezdő időpontja a speciális ellátási szükségletet megállapító vármegyei, fővárosi vagy országos gyermekvédelmi szakértői bizottsági szakmai véleménye elkészítésének időpontja.
 
 (2) A gyámhivatal a gondozási díjról külön határozatban is rendelkezhet.
 
 (3) A gondozási helyről szóló határozat meghozatalával egyidejűleg a gyámhivatal közli a családtámogatási ellátást és az árvaellátást folyósító szervvel, továbbá a gyermeket ellátó védőnővel a gyermek gondozási helyét, feltéve, hogy az eltér az ideiglenes gondozási helytől.
 
-(4)[^881] Megelőző pártfogás alatt álló gyermek esetén a gyámhivatal a határozatát közli a pártfogó felügyelői szolgálattal.
+(4)[^882] Megelőző pártfogás alatt álló gyermek esetén a gyámhivatal a határozatát közli a pártfogó felügyelői szolgálattal.
 
 [^869]: A 105. §-t megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 36. §-a iktatta be.
 [^870]: A 105. § a 97/2013. (III. 29.) Korm. rendelet 36. §-ával megállapított szöveg.
@@ -79,9 +81,10 @@ b) tartós betegség esetén a magasabb összegű családi pótlékra jogosults�
 [^873]: A 105. § (1) bekezdés d) pontja a 744/2021. (XII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^874]: A 105. § (1) bekezdés l) pontja a 457/2017. (XII. 28.) Korm. rendelet 41. § 17. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^875]: A 105. § (1) bekezdés m) pontját a 353/2014. (XII. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be.
-[^876]: A 105. § (1a) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^877]: A 105. § (1b) bekezdését a 284/2015. (IX. 29.) Korm. rendelet 6. §-a iktatta be.
-[^878]: A 105. § (1c) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^879]: A 105. § (1d) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^880]: A 105. § (1e) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
-[^881]: A 105. § (4) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 16. § (3) bekezdése iktatta be.
+[^876]: A 105. § (1) bekezdés n) pontját az 564/2021. (X. 4.) Korm. rendelet 32. §-a iktatta be.
+[^877]: A 105. § (1a) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^878]: A 105. § (1b) bekezdését a 284/2015. (IX. 29.) Korm. rendelet 6. §-a iktatta be.
+[^879]: A 105. § (1c) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^880]: A 105. § (1d) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^881]: A 105. § (1e) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^882]: A 105. § (4) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 16. § (3) bekezdése iktatta be.

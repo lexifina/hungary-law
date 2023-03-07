@@ -19,11 +19,3 @@ b) annak az egy vagy több személynek a meghatározását, akit, akiket kizár 
 c) annak meghatározását, hogy a cselekvőképességének korlátozása esetén a gondnok egyes személyes és vagyoni ügyeiben miként járjon el,
 
 d) a kiskorú gyermeke számára a gyám megnevezését vagy meghatározott személyeknek a gyámságból történő kizárását,
-
-e) nyilatkozatát arról, hogy kéri előzetes jognyilatkozatának az előzetes jognyilatkozatok nyilvántartásába történő bejegyzését, és
-
-f) az előzetes jognyilatkozat szempontjából jelentőséggel bíró egyéb tényeket és nyilatkozatokat.
-
-(3) Az előzetes jognyilatkozat bejegyzése iránti gyámhivatali megkeresés tartalmazza
-
-a) az eljáró gyámhivatal megnevezését,

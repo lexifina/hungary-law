@@ -42,7 +42,11 @@ f)[^100] jóváhagyó határozatában megállapítja, hogy a jóváhagyás a ké
 
 g)[^101] határozatában kötelezi a gyermek törvényes képviselőjét, hogy a külföldre költözés időpontját igazolható módon közölje a kapcsolattartásra jogosult szülővel és a gyámhivatallal.
 
-(6)[^102] A gyermek külföldi tartózkodási helyének kijelölésére irányuló kérelem elutasítása esetén a gyámhivatal határozatában tájékoztatja a gyermek törvényes képviselőjét – a gyermek tervezett külföldi tartózkodási helyére figyelemmel – a gyermek jogellenes elvitelének várható jogkövetkezményeiről.
+(6)[^102] A gyermek külföldi tartózkodási helyének kijelölésére irányuló kérelem elutasítása esetén a gyámhivatal határozatában tájékoztatja:
+
+a) a gyermek törvényes képviselőjét – a gyermek tervezett külföldi tartózkodási helyére figyelemmel – a gyermek jogellenes elvitelének várható jogkövetkezményeiről, és
+
+b) a gyermek szülőjét arról, hogy a gyermek jogellenes elvitelének veszélye esetén figyelmeztető jelzés elhelyezésének elrendelése iránt bírósági polgári nemperes eljárás indítható.
 
 (7)[^103] Ha a gyermek a gyámhivatal által kijelölt külföldi tartózkodási helyéről visszatér Magyarországra azzal a céllal, hogy itt szokásos tartózkodási helyet létesítsen, ismételt külföldre történő távozásakor újból kérelmet kell benyújtani a gyámhivatalhoz a külföldi tartózkodási hely kijelölése érdekében, feltéve, hogy a szülői felügyeleti jogot gyakorló szülők között továbbra is vita van.
 
@@ -53,5 +57,5 @@ g)[^101] határozatában kötelezi a gyermek törvényes képviselőjét, hogy a
 [^99]: A 24. § (5) bekezdés d) pontja a 208/2022. (VI. 14.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
 [^100]: A 24. § (5) bekezdés f) pontját a 629/2022. (XII. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^101]: A 24. § (5) bekezdés g) pontját a 629/2022. (XII. 30.) Korm. rendelet 5. § (1) bekezdése iktatta be.
-[^102]: A 24. § (6) bekezdését a 306/2018. (XII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^102]: A 24. § (6) bekezdését a 306/2018. (XII. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege az 564/2021. (X. 4.) Korm. rendelet 31. §-ával megállapított szöveg.
 [^103]: A 24. § (7) bekezdését a 629/2022. (XII. 30.) Korm. rendelet 5. § (2) bekezdése iktatta be.
