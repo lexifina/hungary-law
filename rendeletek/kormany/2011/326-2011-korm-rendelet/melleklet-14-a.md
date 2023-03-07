@@ -1,4 +1,4 @@
-14/A. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^618]
+14/A. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^621]
 
 A 2022. július 1-jén bevezetett ideiglenes rendszámtáblák leírása
 
@@ -14,4 +14,4 @@ A 2022. július 1-jén bevezetett ideiglenes rendszámtáblák leírása
 
 6. Az ideiglenes rendszámtáblák C típusban, továbbá – a 63/A. § (2) bekezdés 12. pontja alapján kiadott I betűjelű ideiglenes rendszámtábla kivételével – D típusban nem adhatóak ki.
 
-[^618]: A 14/A. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^621]: A 14/A. mellékletet a 303/2021. (VI. 1.) Korm. rendelet 27. § (3) bekezdése iktatta be.
