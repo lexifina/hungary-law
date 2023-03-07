@@ -10,9 +10,9 @@ d) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazás�
 
 e) a körözési nyilvántartási rendszerből a nyilvántartásban szereplő valamennyi adat,
 
-f) az európai vagy a nemzetközi elfogatóparancsot kibocsátó bíróságtól a 12. §-ban meghatározott adatok, illetve feltételezések, valamint a 14–15. §-ban meghatározott adatok,
+f) az európai vagy a nemzetközi elfogatóparancsot kibocsátó bíróságtól a 12. §-ban meghatározott adatok, illetve a lehetséges viselkedésre vonatkozó feltevések, valamint a 14–15. §-ban meghatározott adatok,
 
-g) a bűnügyi nyilvántartási rendszerről szóló törvény szerinti bűntettesek nyilvántartásában, a büntetőeljárás hatálya alatt állók nyilvántartásában, a külföldre utazási korlátozás hatálya alatt álló személyek nyilvántartásában, továbbá a bűnügyi és rendészeti biometrikus adatok nyilvántartásában szereplő valamennyi adat,
+g) a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló törvény szerinti bűntettesek nyilvántartásában, a büntetőeljárás hatálya alatt állók nyilvántartásában, a külföldre utazási korlátozás hatálya alatt álló személyek nyilvántartásában, továbbá a bűnügyi és rendészeti biometrikus adatok nyilvántartásában szereplő valamennyi adat,
 
 h) a büntetés-végrehajtási szervezetről szóló törvény szerinti fogvatartotti nyilvántartásban szereplő adatok közül a fogvatartott személyazonosító adatai, fényképe és lakcíme, a fogva tartás jogalapja, helye, a szabadulással összefüggő adatok,
 
@@ -26,4 +26,4 @@ j) a lőfegyverekről és lőszerekről szóló törvény szerinti lőfegyverek 
 
 k) a víziközlekedésről szóló törvény szerinti, az úszólétesítmények hajózási hatóság által vezetett nyilvántartásában szereplő valamennyi adat, valamint
 
-l) a Magyarország Állami Légijármű Lajstromában szereplő valamennyi adat.
+l) a Magyarország Légijármű Lajstromában szereplő valamennyi adat.

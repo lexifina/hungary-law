@@ -1,6 +1,6 @@
 ## 8. Figyelmeztető jelzések közötti kapcsolatok
 
-18. § (1) A SIRENE Iroda végzi az arra feljogosított jelzéskezelők együttes kérésére a figyelmeztető jelzések közötti kapcsolatok létrehozását és törlését. A kérés benyújtása előtt az érintett jelzéskezelők egymással egyeztetnek. A jelzéskezelők egyeztetése és a kapcsolatok létrehozása nem járhat a hozzáférési jogosultságok sérelmével. A létrehozott kapcsolatban két vagy több figyelmeztető jelzés szerepelhet.
+18. § (1) A SIRENE Iroda végzi az arra feljogosított jelzéskezelők együttes kérésére a magyar figyelmeztető jelzések közötti kapcsolatok létrehozását és törlését. A kérés benyújtása előtt az érintett jelzéskezelők egymással egyeztetnek. A jelzéskezelők egyeztetése és a kapcsolatok létrehozása nem járhat a hozzáférési jogosultságok sérelmével. A létrehozott kapcsolatban két vagy több figyelmeztető jelzés szerepelhet.
 
 (2) A kapcsolatot törölni kell, ha célját elérte, vagy létrehozásának indoka megszűnt. A törölt figyelmeztető jelzés automatikusan kikerül a kapcsolatból. A kapcsolat megszűnik, ha az abban szereplő figyelmeztető jelzések száma kettő alá csökken.
 

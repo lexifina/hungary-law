@@ -1,4 +1,4 @@
-38. § (1) Az N.SIS II Hivatal az NS.CP-hez rendszer-rendszer kapcsolat útján hozzáférő szervezetekről nyilvántartást vezet, amely az alábbi adatokat tartalmazza:
+38. § (1) Az N.SIS Hivatal az NS.CP-hez rendszer-rendszer kapcsolat útján hozzáférő szervezetekről nyilvántartást vezet, amely az alábbi adatokat tartalmazza:
 
 a) a jelzéskezelő rendszer nevét, azonosítóját,
 
@@ -8,7 +8,7 @@ c) a lekérdezési jogosultsággal rendelkező szervezet nevét, azonosítóját
 
 d) az adatkezelési műveletet végző személy nevét és jogosultságazonosítóját.
 
-(2) Az N.SIS II Hivatal az NS.CP-t és a CS.SIS-t az NS.CP Portál felületen keresztül elérő felhasználókról a jogosulatlan adatkezelés elkerülése érdekében jogosultsági nyilvántartást vezet, amely tartalmazza a hozzáférést igénylő
+(2) Az N.SIS Hivatal az NS.CP-t és a CS.SIS-t az NS.CP Portál felületen keresztül elérő felhasználókról a jogosulatlan adatkezelés elkerülése érdekében jogosultsági nyilvántartást vezet, amely tartalmazza a hozzáférést igénylő
 
 a) viselt családi és utónevét (utónevek),
 

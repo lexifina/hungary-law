@@ -1,4 +1,4 @@
-15. § A nemzetközi elfogatóparancson alapuló figyelmeztető jelzés elhelyezésével egyidejűleg a SIRENE Iroda a SIS II-t alkalmazó államok részére továbbítja a következő kiegészítő információkat is:
+15. § A nemzetközi elfogatóparancson alapuló figyelmeztető jelzés elhelyezésével egyidejűleg a SIRENE Iroda a SIS-t alkalmazó államok részére továbbítja a következő kiegészítő információkat is:
 
 a) a nemzetközi elfogatóparancsot kibocsátó bíróság megnevezése,
 

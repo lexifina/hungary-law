@@ -1,21 +1,41 @@
-10. § (1) Ha a körözés tényét a nyilvántartásba bejegyezték, a körözési nyilvántartási rendszert működtető szerv haladéktalanul elhelyezi a figyelmeztető jelzést a CS.SIS-ben a lefoglalás vagy büntetőeljárásban bizonyítékként való felhasználás céljából körözött alábbi tárgyakról:
+10. § (1) Ha a körözés tényét az elrendelő szerv a nyilvántartásba bejegyezte, a körözési nyilvántartási rendszert működtető szerv haladéktalanul elhelyezi a figyelmeztető jelzést a CS.SIS-ben a lefoglalás vagy büntetőeljárásban bizonyítékként való felhasználás céljából körözött alábbi tárgyakról:
 
-a) 50 cm3-t meghaladó hengerűrtartalmú gépjármű,
+a) gépjármű, függetlenül a meghajtó rendszertől,
 
-b) úszólétesítmény, valamint légijármű,
+b) 750 kg-ot meghaladó öntömegű pótkocsi,
 
-c) 750 kg-ot meghaladó saját tömegű pótkocsi, továbbá lakókocsi, ipari berendezés, külső motor, valamint konténer,
+c) lakókocsi,
 
-d) lőfegyver,
+d) ipari berendezés,
 
-e) feljegyzett sorszámú bankjegy,
+e) hajó,
 
-f) értékpapír és készpénz helyettesítő fizetőeszköz, továbbá
+f) hajómotor,
 
-g) külföldi hatóság által kiállított eltulajdonított vagy elveszett okmányok, úgy mint:
+g) konténer,
 
-ga) úti okmány, személyazonosító igazolvány, tartózkodásra jogosító okmány, vezetői engedély, valamint
+h) légi jármű,
 
-gb) gépjármű hatósági jelzése és forgalmi engedélye.
+i) légijármű-motor,
+
+j) lőfegyver,
+
+k) külföldi hatóság által kibocsátott eltulajdonított, jogellenesen felhasznált, elveszett vagy hamis kitöltetlen hivatalos okmány,
+
+l) külföldi hatóság által kibocsátott eltulajdonított, jogellenesen felhasznált, elveszett, érvénytelenített, vagy hamis kitöltött személyazonosító okmány, így különösen útlevél, személyazonosító igazolvány, tartózkodási engedély, úti okmány és vezetői engedély,
+
+m) külföldi hatóság által kibocsátott eltulajdonított, jogellenesen felhasznált, elveszett, érvénytelenített vagy hamis jármű-forgalmiengedély és járműrendszámtábla,
+
+n) bankjegy (regisztrált bankjegy) és hamis bankjegy,
+
+o) információtechnológiai eszköz,
+
+p) gépjárművek azonosítható alkotóeleme,
+
+q) ipari berendezés azonosítható alkotóeleme,
+
+r) egyéb nagy értékű, könnyen azonosítható tárgy.
 
 (2) Ha az érintett személy a külföldi kiállítású okmányai elvesztéséről, eltulajdonításáról nem a rendőrségen tesz bejelentést, a bejelentést fogadó hatóság haladéktalanul értesíti a rendőrséget.
+
+(3) Az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 55. cikk (5) bekezdésében meghatározott esetekben a körözést elrendelő szerv a SIRENE Iroda értesítését vagy a tudomásszerzést követően az (1) bekezdés szerinti figyelmeztető jelzést haladéktalanul törli.

@@ -10,11 +10,11 @@ c) a 18. § szerint kezdeményezik a figyelmeztető jelzések közötti kapcsola
 
 d) kezelik a figyelmeztető jelzéseket érintő találatokról szóló tájékoztatást és megteszik az annak alapján szükséges intézkedéseket,
 
-e) jogszabályban foglalt feltételek fennállása esetén döntenek a magyar figyelmeztető jelzések továbbításának, adattartalmuk eltérő célra történő felhasználásának engedélyezéséről,
+e) jogszabályban foglalt feltételek fennállása esetén döntenek az általuk a SIS-be bevitt figyelmeztető jelzések eltérő célú felhasználásának engedélyezéséről,
 
-f) biztosítják, hogy az általuk a CS.SIS-ben elhelyezett adatok megfeleljenek a SIS II adatminőségi követelményeinek,
+f) biztosítják, hogy az általuk a CS.SIS-ben elhelyezett adatok megfeleljenek a SIS adatminőségi követelményeinek,
 
-g) haladéktalanul kezdeményezik az általuk továbbított adatnak a SIS II-ben történő módosítását, kiegészítését, javítását vagy törlését, ha az szükségessé válik, valamint
+g) haladéktalanul kezdeményezik az általuk továbbított adatnak a SIS-ben történő módosítását, kiegészítését, javítását vagy törlését, ha az szükségessé válik, valamint
 
 h) a tevékenységükkel összefüggésben felelősek az adatbiztonsági szabályok betartásáért és a jelzéskezelői feladataikkal érintett személyzet adatvédelmi és adatbiztonsági képzéséért.
 

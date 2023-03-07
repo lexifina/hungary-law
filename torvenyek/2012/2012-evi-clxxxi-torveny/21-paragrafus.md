@@ -1,1 +1,1 @@
-21. § A rendőrség jogszabályban meghatározott feltételek szerint a határellenőrzési feladatok folyamatos biztosítása érdekében technikai másolatokat működtethet a SIS II-ben tárolt adatokról. A rendszer üzemzavara esetén a rendőrség határellenőrzési feladatokat ellátó szerve a technikai másolatból lekérdezéseket végezhet.
+### 21. §

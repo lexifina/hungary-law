@@ -1,49 +1,49 @@
 ## 1. Értelmező rendelkezések
 
-1. § E törvény alkalmazásában:
+1. § E törvény alkalmazásában
 
-1. figyelmeztető jelzés: a Schengeni Információs Rendszer második generációjának (SIS II) létrehozásáról, működtetéséről és használatáról szóló, 2006. december 20-i, 1987/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: SIS II Rendelet) 3. cikk a) pontja szerint a Schengeni Információs Rendszer második generációjába bevitt személyes, továbbá az e törvényben meghatározott tárgyakra vonatkozó adatok összessége, amely az illetékes hatóságok számára lehetővé teszi, hogy egy foganatosítandó egyedi intézkedés céljából valamely személyt vagy tárgyat azonosítsanak;
+1. biometrikus adat: az (EU) 2018/1861 európai parlamenti és tanácsi rendelet 3. cikk 13. pontja és az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 3. cikk 12. pontja szerinti adat;
 
-2. figyelmeztető jelzések közötti kapcsolat: a SIS II-be bevitt egy vagy több figyelmeztető jelzés között a SIS II Rendelet 37. cikke alapján létrehozott összefüggés;
+2. egyezés: az a tényhelyzet, amikor a végfelhasználó – az általa végzett lekérdezés nyomán – a bevitt alfanumerikus adatoknak megfelelő figyelmeztető jelzést azonosít;
 
-3. jelzéskezelési művelet: figyelmeztető jelzések és kiegészítő adatok SIS II-ben történő elhelyezése, módosítása – ideértve a lejárati idő meghosszabbítását is – és törlése;
+3. figyelmeztető jelzés: a SIS-be bevitt adatállomány, amely az arra jogosult hatóságok számára lehetővé teszi, hogy egy foganatosítandó egyedi intézkedés céljából valamely személyt vagy tárgyat azonosítsanak;
 
-4. jelzéskezelő: az az adatkezelő hatóság vagy szerv, amely a rá vonatkozó törvény szerint általa kezelt adatállományból vagy egyedi adatok alapján jelzéskezelési művelet végzésére jogosult;
+4. figyelmeztető jelzések közötti kapcsolat: olyan összefüggés, amely a SIS-be bevitt két vagy több figyelmeztető jelzés között jön létre, illetve amelynél a lekérdezés eredményeként az összekapcsolt jelzések együttesen jelennek meg találatként;
 
-5. kiegészítő adat: a SIS II Rendelet 3. cikk c) pontja alapján a SIS II-ben elhelyezett fénykép és ujjnyomat, továbbá az európai elfogatóparancsnak, valamint fordításának elektronikus példánya vagy digitalizált képe;
+5. jelzéskezelési művelet: figyelmeztető jelzések és kiegészítő adatok SIS-ben történő elhelyezése, módosítása – ideértve a lejárati idő meghosszabbítását is – és törlése;
 
-6. kiegészítő információ: a SIS II Rendelet 3. cikk b) pontjában meghatározott információ;
+6. jelzéskezelő: az az adatkezelő hatóság vagy szerv, amely a rá vonatkozó törvény szerint általa kezelt adatállományból vagy egyedi adatok alapján jelzéskezelési művelet végzésére jogosult;
 
-7. megjelölés: a 6–7. § és a 8. § (1) bekezdés a) pontja szerinti figyelmeztető jelzéshez csatolt megjegyzés, amellyel a SIS II-ben részt vevő állam azt jelzi, hogy a figyelmeztető jelzés alapján végrehajtandó intézkedést a területén nem hajtja végre, mert az nemzeti jogával, nemzetközi kötelezettségeivel vagy alapvető nemzeti érdekeivel nem egyeztethető össze;
+7. kiegészítő adat: a SIS-ben tárolt és a SIS figyelmeztető jelzésekkel összefüggő biometrikus adat, továbbá az európai elfogatóparancs, valamint fordításának elektronikus példánya vagy digitalizált képe;
 
-8. N.SIS II: a SIS II magyar nemzeti rendszere, amely a következő részekből áll:
+8. kiegészítő információ: a figyelmeztető jelzés SIS-ben tárolt adatainak részét nem képező, azonban a SIS figyelmeztető jelzéssel összefüggő, a SIRENE Irodákon keresztül cserélt információ;
 
-a) a SIS II Rendelet 4. cikk a) pontjában meghatározott SIS II adatbázist támogató funkcióval (a továbbiakban: CS.SIS) kommunikáló nemzeti központ;
+9. megjelölés: a 6. §, a 7. §, valamint a 8. § (1) bekezdés a) és d) pontja szerinti figyelmeztető jelzéshez csatolt megjegyzés, amellyel a SIS-ben részt vevő állam azt jelzi, hogy a figyelmeztető jelzés alapján végrehajtandó intézkedést a területén nem hajtja végre, mert az nemzeti jogával, nemzetközi kötelezettségeivel vagy alapvető nemzeti érdekeivel nem egyeztethető össze;
 
-b) az NS.CP-n keresztül a CS.SIS-szel kapcsolatban álló jelzéskezelők, valamint a SIS II-ben kezelt adatokhoz hozzáférési jogosultsággal rendelkező szervezetek informatikai rendszerei;
+10. NS.CP: a SIS magyar nemzeti rendszer központi informatikai alkalmazása, amely biztosítja a jelzéskezelők, a SIRENE Iroda, valamint az arra jogosult magyar hatóságok számára a nemzeti másolat és a SIS adatbázis elérését;
 
-c) a SIRENE Iroda informatikai rendszere;
+11. N.SIS: a SIS magyar nemzeti rendszere, amely a következő részekből áll:
 
-d) a központi SIS II adatbázissal megegyező adattartalmú nemzeti másolat, valamint technikai másolatok, és
+a) a SIS adatbázist (a továbbiakban: CS.SIS) támogató funkcióval kommunikáló nemzeti központ (NS.CP), ideértve a tartalék nemzeti központot és az egységes nemzeti interfészt (NI-SIS, a továbbiakban: SIS nemzeti hálózati hozzáférési pont),
+
+b) az NS.CP-n keresztül a CS.SIS-el kapcsolatban álló jelzéskezelők, valamint a SIS-ben kezelt adatokhoz hozzáférési jogosultsággal rendelkező szervezetek informatikai rendszerei,
+
+c) a SIRENE Iroda informatikai rendszere,
+
+d) a SIS-adatbázis teljes másolatából álló adatállomány (a továbbiakban: nemzeti másolat) és
 
 e) a nemzeti infokommunikációs gerinchálózat;
 
-9. NS.CP: az N.SIS II központi informatikai alkalmazása, amely biztosítja a jelzéskezelők, a SIRENE Iroda, valamint az arra jogosult magyar hatóságok számára a SIS II Rendelet 4. cikk a) pontjában meghatározott SIS II adatbázis és a CS.SIS elérését;
+12. N.SIS Hivatal: a Kormány által rendeletben kijelölt hatóság, amely ellátja az (EU) 2018/1860 európai parlamenti és tanácsi rendeletben, az (EU) 2018/1861 európai parlamenti és tanácsi rendeletben, az (EU) 2018/1862 európai parlamenti és tanácsi rendeletben és az e törvényben számára meghatározott feladatokat;
 
-10. N.SIS II Hivatal: az a Kormány által a SIS II Rendelet 7. cikk (1) bekezdése alapján rendeletben kijelölt hatóság, amely ellátja a SIS II Rendeletben és az e törvényben számára meghatározott feladatokat;
+13. Schengeni Információs Rendszer (SIS): az (EU) 2018/1860 európai parlamenti és tanácsi rendelet, az (EU) 2018/1861 európai parlamenti és tanácsi rendelet és az (EU) 2018/1862 európai parlamenti és tanácsi rendelet szerinti információs rendszer;
 
-11. Schengeni Információs Rendszer második generációja (SIS II): a SIS II Rendelet előírásaira figyelemmel létrehozott információs rendszer, amely az alábbi részekből áll:
+14. SIRENE Iroda: a kiegészítő információk cseréjét és a SIS-be bevitt információk minőség-ellenőrzését koordináló, e törvényben kijelölt nemzeti hatóság, amely ellátja továbbá az (EU) 2018/1860 európai parlamenti és tanácsi rendeletben, az (EU) 2018/1861 európai parlamenti és tanácsi rendeletben, az (EU) 2018/1862 európai parlamenti és tanácsi rendeletben és az e törvényben számára meghatározott feladatokat;
 
-a) a CS.SIS, valamint egységes nemzeti interfész;
+15. SIRENE Kézikönyv: olyan kézikönyv, amely részletes szabályokat tartalmaz a figyelmeztető jelzés alapján foganatosítandó intézkedésekkel kapcsolatos kiegészítő információk cseréjére vonatkozóan;
 
-b) a SIS II Rendelet 4. cikk b) pont szerinti, a SIS II adatbázisának teljes másolatából álló nemzeti másolattal működő magyar nemzeti alrendszer;
+16. találat: a végfelhasználó, illetve – ha az egyezés biometrikus adatok összehasonlításán alapult és annak megerősítése indokolt – a szakértői vizsgálatot lefolytató szerv által megerősített egyezés, amely alapján további intézkedéseket kell tenni;
 
-c) a többi SIS II-t alkalmazó állam nemzeti rendszerei, valamint
+17. terrorista bűncselekmény: az alkotmányos rend erőszakos megváltoztatása [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 254. § (1) és (2) bekezdése], az alkotmányos rend elleni szervezkedés [Btk. 255. § (1) és (2) bekezdése], a terrorcselekmény [Btk. 314. § (1) és (2) bekezdése, 315. § (1) és (2) bekezdése, 316. §-a, 316/A. §-a], a terrorizmus finanszírozása [Btk. 318. §-a és 318/A. §-a] és a háborús uszítás [Btk. 331. §-a], valamint az e bűncselekményekre való felbujtás, bűnsegély, kísérlet;
 
-d) a SIS II Rendelet 4. cikk c) pont szerinti kommunikációs infrastruktúra;
-
-12. SIRENE Iroda: a kiegészítő információk cseréjének biztosításáért és a SIS II-be bevitt adatok minőségellenőrzésének koordinálásáért felelős, a SIS II Rendelet 7. cikk (2) bekezdésének megfelelő hatóság, amely ellátja a SIS II Rendeletben és az e törvényben számára meghatározott feladatokat;
-
-13. találat: a SIS II-ben kezelt adatokhoz hozzáférési jogosultsággal rendelkező által végzett lekérdezés során bevitt adatnak megfelelő, a SIS II-ben talált figyelmeztető jelzés, amely alapján további intézkedésnek van helye;
-
-14. SIRENE Kézikönyv: az Európai Bizottság határozata a SIRENE Kézikönyvnek és a Schengeni Információs Rendszer második generációja (SIS II) további végrehajtási intézkedéseinek elfogadásáról.
+18. végfelhasználó: az (EU) 2018/1861 európai parlamenti és tanácsi rendelet 3. cikk 12. pontja és az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 3. cikk 11. pontja szerinti felhasználó.
