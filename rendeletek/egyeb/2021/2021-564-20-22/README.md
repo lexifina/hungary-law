@@ -1,0 +1,9 @@
+# 564/2021. (X. 4.) Korm. rendelete
+
+a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) keretében történő információcsere részletes szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-564-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-03-07 | 2021-564-20-22.1 | 564/2021. (X. 4.) Korm. rendelete |
