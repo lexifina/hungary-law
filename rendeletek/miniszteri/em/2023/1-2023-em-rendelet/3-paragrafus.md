@@ -1,0 +1,1 @@
+3. § A 19/2021. ITM rendelet 1. § (2) bekezdésében az „Innovációs és Technológiai Minisztérium Magyar Államkincstárnál vezetett ITM” szövegrész helyébe az „Energiaügyi Minisztérium (a továbbiakban: EM) Magyar Államkincstárnál vezetett EM” szöveg lép.
