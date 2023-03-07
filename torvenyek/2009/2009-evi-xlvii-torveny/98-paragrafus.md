@@ -20,6 +20,14 @@ való megfelelést szolgálja.
 
 (2) Ez a törvény az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti kereskedelmi és együttműködési megállapodás Harmadik Része végrehajtásához szükséges rendelkezéseket állapít meg.
 
+(3) A 83. § (1a) bekezdése
+
+a) a Schengeni Információs Rendszernek a jogellenesen tartózkodó harmadik országbeli állampolgárok visszaküldése céljából történő használatáról szóló, 2018. november 28-i (EU) 2018/1860 európai parlamenti és tanácsi rendelet,
+
+b) a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a Schengeni Megállapodás végrehajtásáról szóló egyezmény módosításáról, valamint az 1987/2006/EK rendelet módosításáról és hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1861 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
 (4) Ez a törvény
 
 a) az Európai Bűnügyi Nyilvántartási Információs Rendszer kiegészítése érdekében a harmadik országbeli állampolgárokkal és a hontalan személyekkel szemben hozott ítéletekre vonatkozó információval rendelkező tagállamok azonosítására szolgáló központosított rendszer (ECRIS-TCN) létrehozásáról, valamint az (EU) 2018/1726 rendelet módosításáról szóló, 2018. november 14-i (EU) 2019/816 európai parlamenti és tanácsi rendelet,
