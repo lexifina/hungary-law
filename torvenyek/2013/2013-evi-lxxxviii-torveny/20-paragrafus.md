@@ -1,6 +1,6 @@
 ## 20. Az eltűnt személyekre, illetve az ismeretlen személyazonosságú holttestekre, holttestrészekre vonatkozó különös körözési eljárási szabályok, a mintavételi eljárás rendje az ujj- és tenyérnyomat, valamint a DNS-profil nyilvántartásba vétele céljából
 
-20. § (1) A rendőrség körözését rendelheti, – eltűnt személy esetén – rendeli el
+20. § (1) A rendőrség a körözését rendelheti, valamint – eltűnt személy, azonosítandó holttest vagy holttestrész esetén – rendeli el
 
 a) a tartózkodási hely megállapítása érdekében annak az ismeretlen helyen lévő személynek, akinek eltűnését a rendőrségen bejelentették,
 
@@ -8,7 +8,7 @@ b) a személyazonosság megállapítása érdekében
 
 ba) az ismeretlen, adatait közölni nem képes személynek,
 
-bb) az ismeretlen személyazonosságú holttestnek, holttestrésznek.
+bb) az ismeretlen holttestnek, holttestrésznek.
 
 (2) E törvény alkalmazásában, valamint a körözés elrendelése szempontjából eltűntnek kell tekinteni az ismeretlen helyen lévő személyt, ha
 

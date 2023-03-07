@@ -1,6 +1,6 @@
 ## 4. A körözött dolgok nyilvántartása
 
-4. § (1) A körözött dolgok nyilvántartásának célja az ismeretlen helyen lévő dolog felkutatása.
+4. § (1) A körözött dolgok nyilvántartásának célja az ismeretlen helyen lévő dolog felkutatása, az ismeretlen eredetű dolog azonosítása.
 
 (2) A körözött dolgok nyilvántartása a következő adatokat tartalmazza:
 

@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-88-00-00
 | 2022-11-01 | 2017. évi CXCVII. törvény | 2013-88-00-00.23 |
 | 2022-12-03 | 2022. évi L. törvény | 2013-88-00-00.27 |
 | 2023-01-01 | 2022. évi LX. törvény | 2013-88-00-00.24 |
+| 2023-03-07 | 2020. évi XLII. törvény | 2013-88-00-00.26 |

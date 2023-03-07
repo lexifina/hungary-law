@@ -37,3 +37,5 @@ b) a bíróság – ideértve a büntetés-végrehajtási bírót is – által 
 (7) Ha az adatok rögzítésének technikai vagy informatikai akadálya van, a körözést a körözést elrendelő a nyilvántartó részére megküldi. Ebben az esetben a körözés e törvényben meghatározott adatait a nyilvántartó rögzíti a nyilvántartásban.
 
 (8) A nyilvántartás törvényességi felügyeletét az ügyészség látja el.
+
+(9) A körözési nyilvántartási rendszer az e törvényben meghatározott adatokon kívül tartalmazza a Schengeni Információs Rendszerben elhelyezendő figyelmeztető jelzés (a továbbiakban: figyelmeztető jelzés) kezelésével kapcsolatos, jogszabályban meghatározott adatokat is.

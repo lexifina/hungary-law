@@ -1,6 +1,6 @@
 ## 3. A körözött személyek nyilvántartása
 
-3. § (1) A körözött személyek nyilvántartásának célja az ismeretlen helyen lévő személy felkutatása.
+3. § (1) A körözött személyek nyilvántartásának célja az ismeretlen helyen lévő személy felkutatása, az ismeretlen személyazonosságú személy személyazonosságának megállapítása.
 
 (2) A körözött személyek nyilvántartása a következő adatokat tartalmazza:
 
@@ -98,6 +98,12 @@ lc) befejezésének időpontját, valamint
 
 ld) tartalmi leírását,
 
+m) az ismeretlen elkövető azonosítása céljából keresett személy ujjnyomatadatát, a rendőrségről szóló törvényben meghatározottak szerint,
+
+n) az eltűnés miatt keresett személy közvetlen felmenő ági rokonainak, leszármazóinak és testvéreinek szakértői nyilvántartó szervtől beszerzett DNS-profilját, a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvényben meghatározott feltételek szerint,
+
+o) az eltűnés miatt, a büntetőeljárásban, az európai és nemzetközi elfogatóparancs miatt keresett személy, valamint a személyazonossággal visszaélés áldozatának a daktiloszkópiai nyilvántartást kezelő szakértői nyilvántartó szervtől beszerzett ujjnyomat-, tenyérnyomatadatát.
+
 p) eltűnés miatti körözés esetén a belső azonosító kódot, a körözés azonosítására szolgáló kapcsolati kódot, valamint a szakrendszeri azonosító kódot.
 
 (3) A körözött személyek nyilvántartásába a (2) bekezdés a) pont aa)–ai) alpontjában, valamint a (2) bekezdés b), d)–j), valamint p) pontjában meghatározott adatokat a körözést elrendelő rögzíti.
@@ -108,7 +114,7 @@ p) eltűnés miatti körözés esetén a belső azonosító kódot, a körözés
 
 (6) A körözött személyek nyilvántartásába a (2) bekezdés k) pontjában meghatározott adatokat az eltűntnek nyilvánító rendőri szerv rögzíti.
 
-(7)
+(7) A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 14. alcímében meghatározott eljárás esetén rögzítendő – az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 62. cikk (3) bekezdése szerinti – adatokat a körözési nyilvántartási rendszerben a 3. § (2) bekezdés h) pontjában meghatározott adatok között kell rögzíteni.
 
 (8)
 
