@@ -1,9 +1,19 @@
-1. § (1)[^1]
+1. § (1) A körözési nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlésről és a körözési eljárás lefolytatásának részletes szabályairól, valamint egyes miniszteri rendeletek módosításáról szóló 63/2013. (XI. 28.) BM rendelet 3. § (1) bekezdés a) pont aa) alpontja helyébe a következő rendelkezés lép:
 
-(2)[^2]
+(Az első adatrögzítés során a körözési nyilvántartási rendszerben rögzíteni kell
 
-(3)[^3]
+minden esetben a Körtv.)
 
-[^1]: Az 1. § (1) bekezdése a 7. § (2) bekezdés alapján a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, (EU) 2018/1862 európai parlamenti és tanácsi rendelet 79. cikk (2) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
-[^2]: Az 1. § (2) bekezdése a 7. § (2) bekezdés alapján a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, (EU) 2018/1862 európai parlamenti és tanácsi rendelet 79. cikk (2) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
-[^3]: Az 1. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+„aa) 3. § (2) bekezdés a) pont aa) alpontjában meghatározott családi név adatot, 3. § (2) bekezdés a) pont ad) alpontjában meghatározott születési idő adatot, továbbá a 3. § (2) bekezdés d) pont da) alpontjában és 3. § (2) bekezdés i) pontjában meghatározott adatokat;”
+
+(2) A körözési nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlésről és a körözési eljárás lefolytatásának részletes szabályairól, valamint egyes miniszteri rendeletek módosításáról szóló 63/2013. (XI. 28.) BM rendelet 3. § (1) bekezdés a) pont ae) alpontja helyébe a következő rendelkezés lép:
+
+(Az első adatrögzítés során a körözési nyilvántartási rendszerben rögzíteni kell
+
+minden esetben a Körtv.)
+
+„ae) 3. § (2) bekezdés b) pont bb)–bd) alpontjában, 3. § (2) bekezdés d) pont da) alpontjában, 3. § (2) bekezdés i) és j) pontjában meghatározott adatokat, valamint a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény (a továbbiakban: SIS II. tv.) 8. § (1) bekezdés e) pontjában meghatározott esetben a daktiloszkópiai adatot ismeretlen személy körözése esetén;”
+
+(3)[^1]
+
+[^1]: Az 1. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
