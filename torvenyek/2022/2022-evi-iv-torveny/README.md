@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2022-4-00-00
 | 2022-12-01 | 2022. évi XLVIII. törvény | 2022-4-00-00.18 |
 | 2023-01-01 | 2022. évi L. törvény | 2022-4-00-00.7 |
 | 2023-01-02 | 2010. évi CXXX. törvény | 2022-4-00-00.8 |
+| 2023-03-07 | 1/2023. (II. 15.) BM határozat | 2022-4-00-00.21 |
