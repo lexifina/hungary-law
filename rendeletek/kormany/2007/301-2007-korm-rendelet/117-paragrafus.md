@@ -56,6 +56,14 @@ a) a Tanács 407/2002/EK rendelete (2002. február 28.) a Dublini Egyezmény hat
 
 b) a Bizottság 1560/2003/EK rendelete (2003. szeptember 2.) egy harmadik ország állampolgára által a tagállamok egyikében benyújtott menedékjog iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó szempontok és eljárási szabályok megállapításáról szóló 343/2003/EK tanácsi rendelet részletes alkalmazási szabályainak megállapításáról.
 
+(4)[^275] Ez a rendelet
+
+a) a Schengeni Információs Rendszernek a jogellenesen tartózkodó harmadik országbeli állampolgárok visszaküldése céljából történő használatáról szóló, 2018. november 28-i (EU) 2018/1860 európai parlamenti és tanácsi rendelet,
+
+b) a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a Schengeni Megállapodás végrehajtásáról szóló egyezmény módosításáról, valamint az 1987/2006/EK rendelet módosításáról és hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1861 európai parlamenti és tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
 [^267]: A 117. § (1) bekezdés i) pontját a 221/2013. (VI. 24.) Korm. rendelet 52. § b) pontja hatályon kívül helyezte.
 [^268]: A 117. § (1) bekezdés j) pontja a 81/2012. (IV. 13.) Korm. rendelet 21. §-ával megállapított szöveg.
 [^269]: A 117. § (1) bekezdés k) pontját a 15/2013. (I. 28.) Korm. rendelet 36. § (2) bekezdése iktatta be.
@@ -64,3 +72,4 @@ b) a Bizottság 1560/2003/EK rendelete (2003. szeptember 2.) egy harmadik orszá
 [^272]: A 117. § (1) bekezdés n) pontját a 204/2015. (VII. 23.) Korm. rendelet 26. § (1) bekezdése iktatta be.
 [^273]: A 117. § (1) bekezdés o) pontját a 411/2017. (XII. 15.) Korm. rendelet 52. §-a iktatta be.
 [^274]: A 117. § (2) bekezdése a 267/2019. (XI. 19.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^275]: A 117. § (4) bekezdését az 565/2021. (X. 4.) Korm. rendelet 26. §-a iktatta be.

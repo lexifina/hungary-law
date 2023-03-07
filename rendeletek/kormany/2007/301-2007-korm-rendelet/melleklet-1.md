@@ -1,6 +1,6 @@
-1. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^275]
+1. melléklet a 301/2007. (XI. 9.) Korm. rendelethez[^276]
 
-A menedékes személyazonosságát és tartózkodási jogát igazoló okmány[^276]
+A menedékes személyazonosságát és tartózkodási jogát igazoló okmány[^277]
 
 Az okmány formája és adattartalma: a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i, 1030/2002/EK tanácsi rendeletben, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK tanácsi rendelet módosításáról szóló, 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendeletben meghatározottak szerint.
 
@@ -16,5 +16,5 @@ A megjegyzések között
 
 kell feltüntetni.
 
-[^275]: Az 1. melléklet a 267/2019. (XI. 19.) Korm. rendelet 12. §-a szerint módosított szöveg.
-[^276]: Az 1. számú melléklet „A menedékes személyazonosságát és tartózkodási jogát igazoló okmány” alcímet követő szöveg a 290/2010. (XII. 21.) Korm. rendelet 124. §-ával megállapított szöveg.
+[^276]: Az 1. melléklet a 267/2019. (XI. 19.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^277]: Az 1. számú melléklet „A menedékes személyazonosságát és tartózkodási jogát igazoló okmány” alcímet követő szöveg a 290/2010. (XII. 21.) Korm. rendelet 124. §-ával megállapított szöveg.
