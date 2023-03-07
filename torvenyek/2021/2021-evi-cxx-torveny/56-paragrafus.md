@@ -1,3 +1,5 @@
-## 14.
+## 14. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
 
-### 56. §
+56. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 83. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A szakértői nyilvántartó szerv erre irányuló adatigénylése alapján a Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló törvény szerinti, az idegenrendészeti hatóság által elhelyezendő figyelmeztető jelzés, illetve kiegészítő adat adattartalmának beszerzése, technikai minőség-ellenőrzése céljából az idegenrendészeti hatóság részére a daktiloszkópiai nyilvántartásban kezelt ujj- és tenyérnyomat azonos másolatát továbbítja.”
