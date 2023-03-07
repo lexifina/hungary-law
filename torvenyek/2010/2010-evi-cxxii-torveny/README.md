@@ -62,3 +62,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-122-00-00
 | 2022-11-01 | 2021. évi XCIII. törvény | 2010-122-00-00.54 |
 | 2022-11-24 | 2022. évi XLV. törvény | 2010-122-00-00.58 |
 | 2023-01-01 | 2022. évi XXII. törvény | 2010-122-00-00.55 |
+| 2023-03-07 | 2020. évi XLII. törvény | 2010-122-00-00.56 |
