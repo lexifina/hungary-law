@@ -28,7 +28,11 @@ h) fuvarozó: bármely természetes vagy jogi személy, illetve jogi személyis�
 
 i) visszafogadási egyezmény: személyeknek az államhatáron történő átadás-átvételéről, hatósági kísérettel történő átszállításának, illetve átutazásának engedélyezéséről szóló nemzetközi szerződés;
 
-j) beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés: valamely schengeni állam által a Schengeni Információs Rendszerben abból a célból elhelyezett adatcsoport, hogy egy harmadik országbeli állampolgárnak a schengeni államok területére történő beutazását vagy tartózkodását megtagadják;
+j) SIS figyelmeztető jelzés:
+
+ja) a kiutasításra vonatkozó SIS figyelmeztető jelzés, amely valamely schengeni állam által a Schengeni Információs Rendszerben a kiutasítási határozat hatálya alá tartozó harmadik országbeli állampolgárokra vonatkozóan a visszatérési kötelezettség teljesítésének ellenőrzése, valamint a kiutasítási határozatok végrehajtásának támogatása céljából elhelyezett adatcsoport, valamint
+
+jb) a beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés, amely valamely schengeni állam által a Schengeni Információs Rendszerben abból a célból elhelyezett adatcsoport, hogy egy harmadik országbeli állampolgárnak a schengeni államok területére történő beutazását vagy tartózkodását megtagadják;
 
 k) munkáltató: az a természetes vagy jogi személy, jogi személyiség nélküli szervezet – a munka törvénykönyvéről szóló 2012. évi I. törvény 214. § (1) bekezdés b) pontjában meghatározott kölcsönbeadót is ideértve – amelynek javára, vagy irányítása alatt a foglalkoztatására sor kerül;
 

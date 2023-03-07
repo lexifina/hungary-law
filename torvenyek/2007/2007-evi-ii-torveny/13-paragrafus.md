@@ -38,7 +38,7 @@ g) az egészségügyi ellátások teljes körére biztosítottnak minősül, vag
 
 h) nem áll kiutasítás vagy beutazási és tartózkodási tilalom hatálya alatt, illetve beutazása vagy tartózkodása nem veszélyezteti Magyarország közrendjét, közbiztonságát, nemzetbiztonságát vagy közegészségügyi érdekét.
 
-i) nem áll beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt.
+i) nem áll SIS figyelmeztető jelzés hatálya alatt.
 
 (2) Az (1) bekezdésben meghatározott feltételek hiányában a beutazás és tartózkodás csak kivételesen, nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből engedélyezhető.
 

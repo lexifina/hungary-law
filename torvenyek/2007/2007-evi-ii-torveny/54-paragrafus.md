@@ -39,3 +39,5 @@ e) a harmadik országbeli állampolgár menekültügyi őrizet hatálya alá ker
 (7) A (6) bekezdés c) pontjának alkalmazásában az őrizet időtartamába a kiutasítást előkészítő őrizet időtartama beleszámítandó. A menekültügyi őrizet időtartama az idegenrendészeti őrizet és a kiutasítást előkészítő őrizet időtartamába nem számít bele.
 
 (8) Az idegenrendészeti őrizet (6) bekezdés b), illetve c) pontja alapján történő megszüntetése esetén az őrizetet elrendelő idegenrendészeti hatóság a harmadik országbeli állampolgár számára kijelölt helyen való tartózkodást rendel el.
+
+(9) Amennyiben az idegenrendészeti őrizet megszüntetésére a kiutasítás foganatosítása nélkül kerül sor, az idegenrendészeti hatóság intézkedik a 2. § j) pont ja) alpontja szerinti SIS figyelmeztető jelzés rendszerben való rögzítésére.

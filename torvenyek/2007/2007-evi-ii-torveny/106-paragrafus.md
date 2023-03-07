@@ -62,7 +62,7 @@ részére továbbíthat adatot.
 
 a) a személyi adat- és lakcímnyilvántartásból,
 
-b) a bűntettesek, a kényszerintézkedés, illetve a büntetőeljárás alatt állók nyilvántartásából,
+b) a bűntettesek, a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek, illetve a büntetőeljárás hatálya alatt állók nyilvántartásából, továbbá a bűnügyi és rendészeti biometrikus adatok nyilvántartásából,
 
 c) a közvetlen hozzáférés útján a körözési nyilvántartásból,
 

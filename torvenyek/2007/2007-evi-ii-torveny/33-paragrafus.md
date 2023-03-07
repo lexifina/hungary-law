@@ -12,7 +12,7 @@ a)
 
 b) akinek a letelepedése veszélyezteti Magyarország közbiztonságát vagy nemzetbiztonságát;
 
-c) aki kiutasítás vagy beutazási és tartózkodási tilalom, illetve beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll;
+c) aki kiutasítás vagy beutazási és tartózkodási tilalom, illetve SIS figyelmeztető jelzés hatálya alatt áll;
 
 d) aki az engedély megszerzése érdekében hamis adatot, valótlan tényt közölt, vagy az eljáró hatóságot megtévesztette.
 

@@ -14,7 +14,7 @@ b) nem rendelkezik az (1) bekezdés c) pontjában meghatározottakkal,
 
 c) beutazási és tartózkodási tilalom hatálya alatt áll,
 
-d) beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll.
+d) SIS figyelmeztető jelzés hatálya alatt áll.
 
 (3) A 22/A. § (1) bekezdése szerinti kutatói rövid távú mobilitást gyakorló kutató családtagja jogosult Magyarország területére belépni, amennyiben rendelkezik
 

@@ -12,7 +12,7 @@
 
 (6) Az önkéntes távozásra nem kell határidőt meghatározni, vagy az idegenrendészeti hatóság az Európai Unió tagállamai területe elhagyásának határnapját a kiutasító határozat közlésétől számított hetedik napnál korábbi napra is meghatározhatja, ha a harmadik országbeli állampolgár
 
-a) tartózkodási jogosultsága megszűnésének oka az, hogy a harmadik országbeli állampolgár kiutasítás, beutazási és tartózkodási tilalom, illetve beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt áll;
+a) tartózkodási jogosultsága megszűnésének oka az, hogy a harmadik országbeli állampolgár kiutasítás, beutazási és tartózkodási tilalom, illetve SIS figyelmeztető jelzés hatálya alatt áll;
 
 b) tartózkodási engedély iránti kérelmét a 18. § (1) bekezdés b) vagy d) pontja alapján utasította el a hatóság;
 
@@ -23,3 +23,5 @@ d) magyarországi tartózkodása veszélyezteti a közrendet, a közbiztonságot
 (7) Ha az idegenrendészeti hatóság a kiutasító határozatában a kiutasítás kitoloncolással történő végrehajtásáról rendelkezik, az önkéntes távozásra határnapot nem határoz meg.
 
 (8) A (3)–(4) bekezdés rendelkezéseit a különleges bánásmódot igénylő személyek vonatkozásában a helyzetükből fakadó sajátos szükségleteik figyelembevételével kell alkalmazni.
+
+(9) Az önkéntes távozásra nyitva álló határidő megjelölésével az idegenrendészeti hatóság intézkedik a 2. § j) pont ja) alpontja szerinti SIS figyelmeztető jelzés rendszerben való rögzítésére. A távozásra nyitva álló határidő meghosszabbításának tényét a 2. § j) pont ja) alpontja szerinti SIS figyelmeztető jelzésben rögzíteni kell. A 2. § j) pont ja) alpontja szerinti SIS figyelmeztető jelzésben rögzíteni kell továbbá a kiutasítás végrehajtása felfüggesztésének tényét is.

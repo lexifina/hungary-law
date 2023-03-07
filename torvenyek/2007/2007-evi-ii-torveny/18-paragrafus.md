@@ -56,4 +56,4 @@ b) esetében az (1) bekezdés b) pontjában vagy az (1f) bekezdésben foglaltak 
 
 c) részére az Európai Unió tagállama által vállalaton belüli áthelyezés céljából kiadott tartózkodási engedély érvényességi ideje lejárt.
 
-(2) Az (1) bekezdésben foglaltaktól eltérően, nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből a beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt álló harmadik országbeli állampolgár tartózkodási engedélyt kaphat, illetve a részére kiadott tartózkodási engedélyt nem kell visszavonni.
+(2) Az (1) bekezdésben foglaltaktól eltérően, nemzetközi kötelezettség teljesítése céljából, halaszthatatlan humanitárius okból vagy nemzeti érdekből a SIS figyelmeztető jelzés hatálya alatt álló harmadik országbeli állampolgár tartózkodási engedélyt kaphat, illetve a részére kiadott tartózkodási engedélyt nem kell visszavonni.
