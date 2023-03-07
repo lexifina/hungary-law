@@ -46,7 +46,7 @@ i) ellátja a parkolási igazolvány kiadásával, meghosszabbításával, cser�
 
 j) a vezetői engedélyt – ha a járművezető nyilvántartott pontjainak száma a nyilvántartó értesítése szerint elérte vagy meghaladta a 18-at – az értesítéstől számított nyolc napon belül határozattal visszavonja, és a határozat véglegessé válásakor nyilvántartott pontokat törli;
 
-k) jogosult a törvényben meghatározottak szerint a SIS II-ből adatot igényelni.
+k) jogosult a törvényben meghatározottak szerint a SIS-ből adatot igényelni.
 
 (1a) A közlekedési igazgatási hatóság és a nyilvántartó a hatáskörébe tartozó okmánykiállításra irányuló eljárás során a személyiadat- és lakcímnyilvántartásból közvetlen hozzáférés útján, az érintett személy azonosítása céljából adatot igényel a személyazonosító igazolvány adatairól, valamint az érintett lakcíméről.
 
@@ -60,7 +60,7 @@ b) lefolytatja a járművek azonosító jellel történő utólagos ellátásán
 
 c) a külföldről behozott használt jármű származás-ellenőrzési adatainak nyilvántartásba vételét követően, az első magyarországi forgalomba helyezését megelőzően a jármű származását ellenőrzi, és ennek érdekében
 
-ca) jogosult a nemzetközi körözési nyilvántartásból, a SIS II-ből, valamint más külföldi hatóság nyilvántartásából adatot igényelni,
+ca) jogosult a nemzetközi körözési nyilvántartásból, a SIS-ből, valamint más külföldi hatóság nyilvántartásából adatot igényelni,
 
 cb) jogosult, az Európai Unión kívüli országok részére nemzetközi szerződés, viszonosság alapján, illetve az Európai Unió tagállamának közlekedési nyilvántartása számára a 9. § (1) és (2) bekezdésében meghatározott adatokat továbbítani,
 

@@ -56,4 +56,4 @@ e) szerződő fél megnevezését.
 
 (5) Az ideiglenes rendszámtáblák nyilvántartása az (1)–(4a) bekezdésben meghatározott adatok tekintetében – a természetes személyazonosító, valamint a lakcímazonosító adatok és a (2) bekezdés e) pontjában szereplő elektronikus okiratok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
-(6) A közlekedési igazgatási hatóság a közlekedési igazgatási eljárás során az ideiglenes rendszámtáblák nyilvántartásához informatikai adatkapcsolat útján, közvetlen lekérdezéssel, térítésmentesen jogosult megismerni és átvenni az alvázszámmal vagy rendszámmal azonosított jármű 9. § (2) bekezdés a) és b) pontjában meghatározott adatait.
+(6) Az ideiglenes rendszámtáblák nyilvántartása az (1)–(4) bekezdésben meghatározott adatokon kívül tartalmazza a figyelmeztető jelzés kezelésével kapcsolatos, jogszabályban meghatározott adatokat is.

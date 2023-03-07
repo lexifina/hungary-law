@@ -16,7 +16,7 @@ g)
 
 (1a) A nyilvántartó az (1) bekezdés b) pontjában foglalt feladat- és hatáskörben eljárva, a gyártmány-típus-alvázszám összefüggések helyességének biztosítása érdekében azok előzetes ellenőrzését végzi.
 
-(2) A nyilvántartó a jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe (a továbbiakban: SIS II) továbbítja a közúti közlekedési nyilvántartásban érvénytelenítésre került forgalmi engedélynek, vezetői engedélynek, illetve a jármű hatósági jelzésének a törvényben meghatározott adatait, ha az okmány, illetve a hatósági jelzés nincs a hatóság birtokában.
+(2) A nyilvántartó a jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe (a továbbiakban: SIS) továbbítja a közúti közlekedési nyilvántartásban érvénytelenítésre került forgalmi engedélynek, vezetői engedélynek, illetve a jármű hatósági jelzésének a törvényben meghatározott adatait, ha az okmány, illetve a hatósági jelzés nincs a hatóság birtokában.
 
 (3) Ha a (2) bekezdés szerinti okmány, illetve hatósági jelzés
 
