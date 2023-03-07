@@ -32,6 +32,14 @@ c) a harmadik országok állampolgárai tartózkodási engedélye egységes form
 
 7.[^234] a 35/A. §-ban, a 38. §-ban és a 78/B. §-ban az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendelet
 
+## végrehajtásához szükséges rendelkezéseket állapít meg.
+
+(4) [^235] Ez a rendelet
+
+a) a Schengeni Információs Rendszernek a jogellenesen tartózkodó harmadik országbeli állampolgárok visszaküldése céljából történő használatáról szóló, 2018. november 28-i (EU) 2018/1860 európai parlamenti és tanácsi rendelet,
+
+b) a határforgalom-ellenőrzés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a Schengeni Megállapodás végrehajtásáról szóló egyezmény módosításáról, valamint az 1987/2006/EK rendelet módosításáról és hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1861 európai parlamenti és tanácsi rendelet
+
 [^228]: A 80. § (2) bekezdése a 15/2013. (I. 28.) Korm. rendelet 34. § (3) bekezdésével megállapított szöveg.
 [^229]: A 80. § (2) bekezdés c) pontját a 446/2013. (XI. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 441/2016. (XII. 16.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^230]: A 80. § (3) bekezdését a 327/2007. (XII. 11.) Korm. rendelet 2. §-a iktatta be, szövege a 96/2010. (III. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
@@ -39,3 +47,4 @@ c) a harmadik országok állampolgárai tartózkodási engedélye egységes form
 [^232]: A 80. § (3) bekezdés 4. pontja a 267/2019. (XI. 19.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^233]: A 80. § (3) bekezdés 5. pontját a 290/2010. (XII. 21.) Korm. rendelet 28. § (2) bekezdése iktatta be, szövege a 189/2020. (V. 7.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^234]: A 80. § (3) bekezdés 7. pontját a 259/2021. (V. 20.) Korm. rendelet 10. §-a iktatta be.
+[^235]: A 80. § (4) bekezdését az 565/2021. (X. 4.) Korm. rendelet 22. §-a iktatta be.
