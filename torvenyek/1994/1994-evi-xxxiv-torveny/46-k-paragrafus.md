@@ -1,0 +1,3 @@
+## Az ismeretlen elkövető azonosítása céljából a helyszínen rögzített daktiloszkópiai adatok alapján a Schengeni Információs Rendszerben elhelyezett figyelmeztető jelzések végrehajtása
+
+46/K. § Ha az automatikus ujjnyomat-azonosító rendszer (SIS AFIS) a 46/J. § szerint bevitt figyelmeztető jelzés kapcsán találatot jelez, a rendőr megállapítja és rögzíti az ismeretlen személlyel szemben elrendelt figyelmeztető jelzés alanyának természetes személyazonosító adatait és tájékoztatja a daktiloszkópiai nyilvántartást kezelő szakértői nyilvántartó szervet. A rendőr az ismeretlen elkövető természetes személyazonosító adatainak megismerését követően megkeresi a SIRENE Irodát a találattal érintett figyelmeztető jelzéshez kapcsolódó kiegészítő információk beszerzése céljából.

@@ -6,16 +6,20 @@
 
 (3) A rendőr a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtásakor az intézkedése során rögzítendő adatokon túl – ha ez a rejtett ellenőrzésre irányuló figyelmeztető jelzés végrehajtásának célját nem veszélyezteti – az alábbi adatokat rögzítheti és továbbíthatja a jogszabályban meghatározott szerven keresztül az adott rejtett ellenőrzésre irányuló figyelmeztető jelzést kibocsátó hatóságnak:
 
-a) az intézkedéssel érintett személy vagy jármű megtalálásának ténye, körülményei,
+a) az intézkedéssel érintett személy, valamint a 46/B. § (1) bekezdés b) pontjában meghatározott tárgyak megtalálásának ténye, körülményei,
 
 b) az intézkedés helye, ideje, indoka,
 
 c) az utazás útvonala és az úti cél,
 
-d) az intézkedéssel érintett személyt kísérő, illetve az intézkedéssel érintett járműben utazó személyek természetes személyazonosító adatai,
+d) a figyelmeztető jelzés hatálya alá tartozó személyt, illetve a 46/B. § (1) bekezdés b) pontjában meghatározott tárgyak birtokosát kísérő személy természetes személyazonosító adatai, akiről feltételezhető, hogy a figyelmeztető jelzés hatálya alá tartozó személlyel kapcsolatban van,
 
-e) a használt jármű azonosításához szükséges adatok és
+e) a figyelmeztető jelzés hatálya alá tartozó kitöltetlen vagy kitöltött okmányt használó személy személyazonossága és személyleírása,
 
-f) a szállított tárgyakra vonatkozó adatok.
+f) a 46/B. § (1) bekezdés b) pontja szerinti tárgy,
+
+g) a szállított tárgyra vonatkozó adatok, ideértve a felhasznált úti okmány azonosító adatait is,
+
+h) a figyelmeztető jelzést elhelyező rendőri szerv által a 46/B. § (4) bekezdésével összhangban kért minden egyéb információ.
 
 (4) A (3) bekezdésben meghatározott adatok megszerzése érdekében kényszerítő eszköz nem alkalmazható.

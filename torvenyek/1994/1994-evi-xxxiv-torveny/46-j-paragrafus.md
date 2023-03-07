@@ -1,0 +1,5 @@
+## Ismeretlen elkövető azonosítása céljából a helyszínen rögzített daktiloszkópiai adatok alapján a Schengeni Információs Rendszerben figyelmeztető jelzés elhelyezése
+
+46/J. § (1) A rendőrség – az ismeretlen elkövetők azonosítása céljából – a nyomozás alatt álló terrorcselekmény vagy más súlyos bűncselekmény elkövetésének helyszínén rögzített ujjnyomat vagy tenyérnyomat teljes vagy hiányos sorozatait tartalmazó figyelmeztető jelzés elhelyezését rendelheti el a körözési nyilvántartási rendszer útján a Schengeni Információs Rendszerben, ha megalapozottan feltehető, hogy az ujj- vagy tenyérnyomat a szóban forgó bűncselekmény egyik elkövetőjétől származik és az egyéb releváns nemzeti, uniós vagy nemzetközi adatbázisokban való keresés nem vezetett eredményre.
+
+(2) A rendőrség az (1) bekezdés szerinti figyelmeztető jelzés Schengeni Információs Rendszerben történő elhelyezése céljából a daktiloszkópiai nyilvántartást kezelő szakértői nyilvántartó szervtől jogosult a daktiloszkópiai adatok átvételére.
