@@ -1,0 +1,3 @@
+13. § Az Utv. 27. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az adatkezelő szerv jogszabályban meghatározott, lefoglalásra vagy büntetőeljárásban bizonyítékként való felhasználásra irányuló figyelmeztető jelzés elhelyezése céljából haladéktalanul a Schengeni Információs Rendszerbe és az Interpol FIND SLTD-be továbbítja az útiokmány-nyilvántartásban érvénytelenítésre került hivatalos útlevélnek és magánútlevélnek törvényben meghatározott adatait, ha az okmány nincs az útlevélhatóság vagy a 20. § (1) bekezdés g) pontja szerinti esetben a visszatartására jogosult szerv birtokában.”

@@ -1,0 +1,1 @@
+26. § A Harmtv. 13. § (1) bekezdés i) pontjában, 18. § (2) bekezdésében, 33. § (2) bekezdés c) pontjában, 41/A. § (2) bekezdés d) pontjában és 42. § (6) bekezdés a) pontjában a „beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés” szövegrész helyébe a „SIS figyelmeztető jelzés” szöveg lép.

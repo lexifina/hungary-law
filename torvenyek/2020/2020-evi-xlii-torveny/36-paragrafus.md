@@ -1,0 +1,13 @@
+36. § A SIS tv. 7. §-a helyébe a következő rendelkezés lép:
+
+„7. § (1) A rendőrség, az ügyészség, valamint a Nemzeti Adó- és Vámhivatal nyomozóhatósági feladatot ellátó szervezeti egysége a körözési nyilvántartási rendszer útján figyelmeztető jelzés elhelyezését rendeli el és kiegészítő adatokat csatolhat a Schengeni Információs Rendszerben arról a személyről, illetve figyelmeztető jelzést arról az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 36. cikk (1) bekezdése szerinti tárgyról, készpénz-helyettesítő fizetési eszközről, értékpapírról, akivel vagy amellyel kapcsolatban rejtett vagy célzott ellenőrzést rendelt el.
+
+(2) Az (1) bekezdés szerinti figyelmeztető jelzések és kiegészítő adatok elhelyezésére abban az esetben van lehetőség, ha megalapozottan feltehető, hogy az érintett az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 25. § (2) bekezdése és az 1. számú melléklete szerinti bűncselekményt tervez elkövetni, előkészít, illetve követ el, vagy okkal feltételezhető – különösen az általa elkövetett múltbeli bűncselekmények alapján –, hogy a jövőben is ilyen bűncselekményt követ el a SIS-t alkalmazó állam területén, abban az esetben is, ha a magyar jog szerint az előkészület nem büntetendő.
+
+(3) Az (1) bekezdés szerinti figyelmeztető jelzés elhelyezését és kiegészítő adatok csatolását kezdeményezheti a körözési nyilvántartási rendszer útján
+
+a) a polgári nemzetbiztonsági szolgálat Magyarország nemzetbiztonságát sértő vagy veszélyeztető tevékenység felderítése vagy elhárítása érdekében,
+
+b) a terrorizmust elhárító szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátása érdekében a nemzetbiztonsági szolgálatokról szóló törvény szabályainak alkalmazásával folytatott titkos információgyűjtés során.
+
+(4) Az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 55. cikk (4) bekezdésében meghatározott esetekben a körözést elrendelő szerv a SIRENE Iroda értesítését vagy a tudomásszerzést követően az (1) és (3) bekezdés szerinti figyelmeztető jelzést haladéktalanul törli.”

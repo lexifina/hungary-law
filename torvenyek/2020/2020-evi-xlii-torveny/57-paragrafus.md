@@ -1,0 +1,3 @@
+57. § A SIS tv. 40. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha a figyelmeztető jelzés elhelyezését a SIS-t alkalmazó külföldi állam rendelte el, és Magyarországon információ merül fel arra, hogy valamely adat téves vagy azt jogellenesen tárolják, akkor az (1) bekezdés szerinti jogorvoslatra az elrendelő állam jogszabályai szerint van lehetőség. Ha a SIRENE Iroda megkeresésére az érintett külföldi állam az adatot két hónapon belül nem javítja ki vagy nem törli, a SIRENE Iroda az (EU) 2018/1861 európai parlamenti és tanácsi rendelet 44. cikk (6) bekezdésében, illetve az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 59. cikk (6) bekezdésében meghatározott eljárás lefolytatása érdekében megkeresi a NAIH-ot.”
