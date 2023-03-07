@@ -4,33 +4,35 @@
 
 6. § (1) Az adatszolgáltató – az Elnök erre irányuló külön felhívása vagy döntése nélkül – minden naptári év március 31. napjáig köteles megküldeni az Elnöknek az adatszolgáltatás időpontját megelőző, valamint az adatszolgáltatás benyújtásának naptári évére vonatkozó, (2) és (3) bekezdés szerinti adatokat. A meglévő hálózatra vonatkozó adatokat az adatszolgáltatás időpontját megelőző naptári év utolsó napján fennálló állapotnak megfelelően, a tervezett hálózatra vonatkozó adatokat az adatszolgáltatás naptári évének utolsó napjára tervezett állapot szerint kell benyújtani.
 
-(2) Az adatszolgáltató a szélessávú szolgáltatás nyújtására alkalmas hálózatra vonatkozóan a (6) bekezdés szerinti elektronikus űrlapon szereplő területi bontásban az alábbi adatokat köteles benyújtani:
+(2)[^2] Az adatszolgáltató a szélessávú szolgáltatás nyújtására alkalmas hálózatra vonatkozóan a (6) bekezdés szerinti elektronikus űrlapon szereplő bontásban az alábbi adatokat köteles benyújtani:
 
-a) mobil rádiótelefon-hálózat esetén a (6) bekezdés szerinti elektronikus űrlapon szereplő területi egységenként
+a) mobil rádiótelefon-hálózat esetén területi egységenként
 
 aa) az alkalmazott technológiát,
 
-ab) a hálózati lefedettséget (a lefedett területi egységek %-os lefedettségét),
+ab) a hálózati lefedettséget,
 
 ac) az átviteli sebességet és
 
-ad) a rendkívül nagy kapacitású hálózat elérhetőségét;
+ad) a rádióállomás bekötésének módját;
 
-b) helyhez kötött hálózat esetén címhelyenként megjelölve azt, hogy a címhely lefedett-e, és lefedett címhely esetén továbbá
+b) helyhez kötött elektronikus hírközlő hálózat esetén címhelyenként megjelölve
 
-ba) az átviteli közeget,
+ba) a címhely lefedettségét: vezetékes hálózat esetén jelölve, hogy a címhely elérhető, illetve kiépített címhely-e,
 
-bb) az alkalmazott technológiát,
+bb) az átviteli közeget,
 
-bc) a hálózati lefedettséget (az adott címhelyen kiépített előfizetői hozzáférési pontokat),
+bc) az alkalmazott technológiát,
 
-bd) az átviteli sebességet és
+bd) a címhely típusát az előfizetés jellegének megfelelően,
 
-be) a rendkívül nagy kapacitású hálózat elérhetőségét.
+be) a címhelyen aktivált szolgáltatással rendelkező előfizetői hozzáférési pontok számát és
 
-(3) Az adatszolgáltató az adatszolgáltatás benyújtásának naptári évében tervezett építési tevékenységgel összefüggésben a (2) bekezdésben foglaltakon túl köteles adatszolgáltatásában
+bf) az átviteli sebességet.
 
-a) benyújtani a tervezett építési tevékenységre vonatkozó dokumentációt és
+(3)[^3] Az adatszolgáltató az adatszolgáltatás benyújtásának naptári évében tervezett építési tevékenységgel összefüggésben a (2) bekezdésben foglaltakon túl a (6) bekezdés szerinti elektronikus űrlapnak megfelelően köteles adatszolgáltatásában
+
+a)[^4] benyújtani a tervezett építési tevékenységre vonatkozó információt és
 
 b) nyilatkozni arról, hogy a tervezett építési tevékenység építési engedélyezésére vonatkozó kérelmet a Hatósághoz már benyújtották-e, vagy az engedélyhez nem kötött építési tevékenységet a Hatósághoz bejelentették-e az adatszolgáltatást megelőzően.
 
@@ -49,3 +51,7 @@ b) nyilatkozni arról, hogy a tervezett építési tevékenység építési enge
 (10) Az e rendelet szerinti adatszolgáltatási kötelezettség teljesítését az Elnök általános hatósági felügyeleti eljárás keretében ellenőrzi.
 
 (11) Ha az Elnök a (10) bekezdés szerinti felügyeleti eljárásban a 4. § (2) és (3) bekezdése szerinti bejelentés tartalmának megfelelőségével összefüggésben jogsértést állapít meg, akkor az Eht. szerinti jogkövetkezményeket csak akkor alkalmazhatja, ha megállapítja, hogy az adatszolgáltató a bejelentésében tudatosan vagy súlyos gondatlanságból nyújtott be megtévesztő, téves vagy hiányos adatokat. A jogkövetkezmény alkalmazásánál az Eht. 49. § (2) bekezdése szerinti szempontokon túl figyelembe kell venni azt is, hogy az adatszolgáltató megvalósította-e a tervezett építési tevékenységet, illetve a kiépítési tervei megváltoztatását objektív módon indokolta-e.
+
+[^2]: A 6. § (2) bekezdése a 2/2023. (II. 27.) NMHH rendelet 2. §-ával megállapított szöveg.
+[^3]: A 6. § (3) bekezdés nyitó szövegrésze a 2/2023. (II. 27.) NMHH rendelet 4. § a) pontja szerint módosított szöveg.
+[^4]: A 6. § (3) bekezdés a) pontja a 2/2023. (II. 27.) NMHH rendelet 4. § b) pontja szerint módosított szöveg.
