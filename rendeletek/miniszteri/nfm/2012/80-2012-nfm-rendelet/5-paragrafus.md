@@ -1,1 +1,3 @@
-## értelemszerűen kell alkalmazni azzal az eltéréssel, hogy ahol a törvény „állami adóhatóságot” említ azon az „eljárásra illetékes és hatáskörrel rendelkező közigazgatási szervet”, ahol „illetéket” említ azon „díjat”, ahol „leletet” említ azon „jegyzőkönyvet” kell érteni.
+5. §[^10]
+
+[^10]: Az 5. §-t a 60/2020. (XII. 30.) ITM rendelet 5. § b) pontja hatályon kívül helyezte.

@@ -10,7 +10,7 @@ d) Nemzeti Végrehajtási Intézkedéseket megalapozó adatszolgáltatás,
 
 e) nyomonkövetési módszertani terv módosítására irányuló kérelmek
 
-## elbírálására vonatkozó eljárásért.
+elbírálására vonatkozó eljárásért.
 
 (2) Az igazgatási szolgáltatási díj az eljáró közigazgatási szerv bevétele.
 

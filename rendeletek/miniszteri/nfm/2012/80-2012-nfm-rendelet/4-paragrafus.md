@@ -11,3 +11,5 @@ d) 82. §-ában foglaltakat a díjfizetés elmulasztására és a mulasztási b�
 e) 86. §-ában foglaltakat az elévülés tekintetében,
 
 f) 87. § (1) bekezdésében foglaltakat a késedelmi pótlék megfizetésére
+
+értelemszerűen kell alkalmazni azzal az eltéréssel, hogy ahol a törvény „állami adóhatóságot” említ azon az „eljárásra illetékes és hatáskörrel rendelkező közigazgatási szervet”, ahol „illetéket” említ azon „díjat”, ahol „leletet” említ azon „jegyzőkönyvet” kell érteni.

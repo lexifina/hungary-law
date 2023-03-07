@@ -1,5 +1,3 @@
-## Az üvegházhatású gázok kibocsátásával kapcsolatos egyes tevékenységek és az igazgatási szolgáltatási díj mértéke
-
 |  | A | B | C | D |
 
 | 1. | Sorszám | Az üvegházhatású gázok kibocsátásával kapcsolatos igazgatási szolgáltatási díjköteles tevékenységek megnevezése | Igazgatási szolgáltatási díj mértéke (forint) |
@@ -22,7 +20,7 @@
 
 | 10. | 2. |  | Légi jármű üzembentartó esetében nyomon követési terv jóváhagyása (tervenként) | 211 000 |
 
-2. melléklet a 80/2012. (XII. 28.) NFM rendelethez[^24]
+2. melléklet a 80/2012. (XII. 28.) NFM rendelethez[^25]
 
 A térítésmentes kibocsátási egységek kiosztására irányuló hatósági eljárások igazgatási szolgáltatási díj mértéke
 
@@ -40,4 +38,4 @@ A térítésmentes kibocsátási egységek kiosztására irányuló hatósági e
 
 | 6. | Nyomonkövetési módszertani terv módosítására irányuló kérelmek elbírálása | 100 000 |
 
-[^24]: A 2. mellékletet a 60/2020. (XII. 30.) ITM rendelet 3. §-a iktatta be.
+[^25]: A 2. mellékletet a 60/2020. (XII. 30.) ITM rendelet 3. §-a iktatta be.

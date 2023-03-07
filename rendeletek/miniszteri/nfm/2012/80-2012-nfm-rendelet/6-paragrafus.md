@@ -1,3 +1,3 @@
-## 5. §[^10]
+6. §[^11]
 
-[^10]: Az 5. §-t a 60/2020. (XII. 30.) ITM rendelet 5. § b) pontja hatályon kívül helyezte.
+[^11]: A 6. §-t a 60/2020. (XII. 30.) ITM rendelet 5. § c) pontja hatályon kívül helyezte.
