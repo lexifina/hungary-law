@@ -1,5 +1,0 @@
-24. § (1) Ha a SIS II tv. 6–11. §-a alapján elhelyezett figyelmeztető jelzés kapcsán egy SIS II-t alkalmazó külföldi állam ér el találatot, erről – a SIS II-t alkalmazó külföldi állam SIRENE Irodájától kapott értesítés és kiegészítő információ alapján – a SIRENE Iroda haladéktalanul értesíti az érintett jelzéskezelőt.
-
-(2) A találatot elérő SIS II-t alkalmazó külföldi állam SIRENE Irodájának erre irányuló kérelme esetén a SIRENE Iroda – a kérelemben foglalt terjedelemben – kiegészítő információt szolgáltat. A kiegészítő információ a találattal érintett figyelmeztető jelzésben kért intézkedés végrehajtásához szükséges mértékig tartalmaz személyes vagy egyéb adatokat.
-
-(3) A figyelmeztető jelzés elhelyezését kezdeményező jelzéskezelő és a találatot elérő külföldi hatóság – a SIRENE Iroda közreműködésével – szükség szerint egyeztet a figyelmeztető jelzésben kért intézkedés végrehajtásáról. A jelzéskezelő felülvizsgálja és szükség szerint törli a figyelmeztető jelzést, ha arról értesül, hogy a kért intézkedést a találatot elérő külföldi hatóság végrehajtotta.
