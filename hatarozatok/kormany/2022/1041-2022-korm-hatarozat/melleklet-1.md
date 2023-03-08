@@ -96,17 +96,17 @@
 
 ## 1.7.3.[^7] azzal, hogy az 1.7.2. pont d) alpontjában meghatározott összeg csatlakozási díj része előlegként kerüljön megfizetésre az átviteli és elosztói hálózati engedélyes részére a 2022–2026. költségvetési években;
 
-## 1.8.[^8] az átviteli és elosztó hálózati fejlesztések megvalósítása érdekében felhívja a pénzügyminisztert, hogy a technológiai és ipari miniszter bevonásával gondoskodjon mindösszesen 111 104 246 835 forint biztosításáról, az alábbi ütemezés szerint:
+## 1.8.[^8] az átviteli és elosztó hálózati fejlesztések megvalósítása érdekében felhívja a pénzügyminisztert, hogy a technológiai és ipari miniszter bevonásával gondoskodjon mindösszesen 111 114 895 877 forint biztosításáról, az alábbi ütemezés szerint:
 
 ## a)[^9] a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaság újraindítását szolgaϕló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 3. Térségi fejlesztési feladatok jogcím javára 4 560 580 303 forint,
 
-## b)[^10] a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 37. Gazdaságfejlesztési feladatok alcím, 3. Térségi fejlesztési feladatok jogcím javára 27 079 254 904 forint,
+## b)[^10] a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 37. Gazdaságfejlesztési feladatok alcím, 3. Térségi fejlesztési feladatok jogcím javára 31 342 607 968 forint,
 
-## c)[^11] a 2024. évben 12 214 796 835 forint,
+## c)[^11] a 2024. évben 18 256 388 572 forint,
 
-## d)[^12] a 2025. évben 20 357 390 244 forint,
+## d)[^12] a 2025. évben 30 549 558 248 forint,
 
-## e)[^13] a 2026. évben 46 892 224 549 forint;
+## e)[^13] a 2026. évben 26 405 760 787 forint;
 
 ## Felelős: pénzügyminiszter
 
@@ -175,12 +175,12 @@
 [^5]: Az 1. pont 1.7. alpont 1.7.2. pont c) alpontja az 1577/2022. (XI. 28.) Korm. határozat 3. pont d) pontja szerint módosított szöveg.
 [^6]: Az 1. pont 1.7. alpont 1.7.2. pont d) alpontja az 1577/2022. (XI. 28.) Korm. határozat 3. pont e) pontja szerint módosított szöveg.
 [^7]: Az 1.7. pont 1.7.3. alpontját az 1255/2022. (V. 9.) Korm. határozat 2. pontja iktatta be.
-[^8]: Az 1. pont 1.8. alpontja az 1415/2022. (VIII. 18.) Korm. határozat 2. pontjával megállapított, nyitó szövegrésze az 1577/2022. (XI. 28.) Korm. határozat 4. pont a) pontja szerint módosított szöveg.
+[^8]: Az 1. pont 1.8. alpontja az 1415/2022. (VIII. 18.) Korm. határozat 2. pontjával megállapított, nyitó szövegrésze az 1065/2023. (III. 8.) Korm. határozat 3. pont a) pontja szerint módosított szöveg.
 [^9]: Az 1. pont 1.8. alpont a) pontja az 1577/2022. (XI. 28.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
-[^10]: Az 1. pont 1.8. alpont b) pontja az 1577/2022. (XI. 28.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.
-[^11]: Az 1. pont 1.8. alpont c) pontja az 1577/2022. (XI. 28.) Korm. határozat 4. pont d) alpontja szerint módosított szöveg.
-[^12]: Az 1. pont 1.8. alpont d) pontja az 1577/2022. (XI. 28.) Korm. határozat 4. pont e) alpontja szerint módosított szöveg.
-[^13]: Az 1. pont 1.8. alpont e) pontja az 1577/2022. (XI. 28.) Korm. határozat 4. pont f) alpontja szerint módosított szöveg.
+[^10]: Az 1. pont 1.8. alpont b) pontja az 1065/2023. (III. 8.) Korm. határozat 3. pont b) pontja szerint módosított szöveg.
+[^11]: Az 1. pont 1.8. alpont c) pontja az 1065/2023. (III. 8.) Korm. határozat 3. pont c) pontja szerint módosított szöveg.
+[^12]: Az 1. pont 1.8. alpont d) pontja az 1065/2023. (III. 8.) Korm. határozat 3. pont d) pontja szerint módosított szöveg.
+[^13]: Az 1. pont 1.8. alpont e) pontja az 1065/2023. (III. 8.) Korm. határozat 3. pont e) pontja szerint módosított szöveg.
 [^14]: Az 1. pont 1.9. alpontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
 [^15]: Az 1. pont 1.10. alpontja az 1415/2022. (VIII. 18.) Korm. határozat 3. pontjával megállapított, az 1577/2022. (XI. 28.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
 [^16]: Az 1. pont 1.11. alpontja az 1577/2022. (XI. 28.) Korm. határozat 5. pont c) alpontja szerint módosított szöveg.
