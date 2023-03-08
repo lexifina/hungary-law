@@ -80,4 +80,4 @@
 
 [^1]: Az 1. pont 1.11. alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet az 1428/2022. (IX. 5.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet az 1428/2022. (IX. 5.) Korm. határozat 4. pontja, az 1066/2023. (III. 8.) Korm. határozat 2. pontja szerint módosított szöveg.
