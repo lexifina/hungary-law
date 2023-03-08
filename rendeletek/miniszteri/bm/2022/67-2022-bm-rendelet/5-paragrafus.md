@@ -1,1 +1,3 @@
-5. § A körözési nyilvántartási rendszer egyes nyilvántartásai részére történő adatközlésről és a körözési eljárás lefolytatásának részletes szabályairól, valamint egyes miniszteri rendeletek módosításáról szóló 63/2013. (XI. 28.) BM rendelet 3. § (3) bekezdésében a „Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény (a továbbiakban: SIS II. tv.)” szövegrész helyébe a „SIS II. tv.” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
