@@ -1,3 +1,1 @@
-53. § A SIS tv. 33. §-a helyébe a következő rendelkezés lép:
-
-„33. § A körözést elrendelő szerv az általa elhelyezendő figyelmeztető jelzés, a körözési eljárást lefolytató szerv és a körözési nyilvántartási rendszert működtető szerv a figyelmeztető jelzés kiegészítő adat adattartalmának beszerzése, illetve technikai minőség-ellenőrzése céljából, az ahhoz szükséges mértékben – az adatigénylés céljának meghatározása mellett – jogosult a 16. § a)–d), illetve f)–g) pontja szerinti nyilvántartásokból az ujjnyomatokra, tenyérnyomatokra, DNS-profilokra vonatkozó, valamint a 16. § i)–l) pontja szerinti adatok átvételére.”
+### 53. §

@@ -1,3 +1,1 @@
-55. § A SIS tv. 35. §-a helyébe a következő rendelkezés lép:
-
-„35. § Ha a NAIH által vizsgált adatokat más, a SIS-t alkalmazó állam illetékes hatósága helyezte el a CS.SIS-ben vagy azokat kiegészítő információként közölte, a NAIH az eljárást az érintett tagország ellenőrző hatóságának bevonásával az (EU) 2018/1861 európai parlamenti és tanácsi rendelet 44. cikk (5) és (6) bekezdésében, illetve az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 59. cikk (5) és (6) bekezdésében foglalt eljárás szerint folytatja.”
+### 55. §
