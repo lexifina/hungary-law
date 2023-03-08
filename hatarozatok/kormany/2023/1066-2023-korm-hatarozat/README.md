@@ -1,0 +1,9 @@
+# 1066/2023. (III. 8.) Korm. határozat
+
+címrendi kiegészítésről, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Rezsivédelmi Alap központi kiadása előirányzatból, a Járványügyi kiadások előirányzatból történő, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1066-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-03-08 | 2023-1066-30-22.1 | 1066/2023. (III. 8.) Korm. határozat |
