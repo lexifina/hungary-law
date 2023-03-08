@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés i) pontja, valamint a magyar állampolgárságról szóló 1993. évi LV. törvény 9. §-a alapján – a Miniszterelnökséget vezető miniszter TKF-1/17/1/2023. számú előterjesztésére – Kacsmár Tetyána, született Lőrincz Tetyána (névmódosítás előtti neve: Kacsmár Tetyána Petrivna, született Lőrincz Tetyána Petrivna; születési hely: Bilke, Szovjetunió; születési idő: 1977. június 26.) és férje, Kacsmár Viktor (névmódosítás előtti neve: Kacsmár Viktor Jurijovics; születési hely: Turjasebes, Szovjetunió; születési idő: 1976. május 5.) – jogszabályok megszegésével szerzett – magyar állampolgárságát visszavonom.
+
+KEH ügyszám: KEH/306-3/2023.
