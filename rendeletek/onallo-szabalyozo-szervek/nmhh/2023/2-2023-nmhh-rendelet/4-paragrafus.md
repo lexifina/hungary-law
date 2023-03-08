@@ -1,7 +1,3 @@
-4. § Az R. 6. §
+4. §[^5]
 
-a) (3) bekezdés nyitó szövegrészében a „foglaltakon túl köteles” szövegrész helyébe a „foglaltakon túl a (6) bekezdés szerinti elektronikus űrlapnak megfelelően köteles” szöveg,
-
-b) (3) bekezdés a) pontjában a „vonatkozó dokumentációt” szövegrész helyébe a „vonatkozó információt” szöveg
-
-lép.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
