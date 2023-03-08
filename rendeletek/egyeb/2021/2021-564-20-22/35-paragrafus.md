@@ -1,3 +1,3 @@
-## 34. § A 149/1997. (IX. 10.) Korm. rendelet „Az Európai Unió jogának való megfelelés” alcíme a következő 201. §-sal egészül ki:
+35. §[^10]
 
-## „201. § A 24. § (6) bekezdése, a 105. § (1) bekezdés n) pontja és a 140. § (3) bekezdése a rendőrségi együttműködés és a büntetőügyekben folytatott igazságügyi együttműködés terén a Schengeni Információs Rendszer (SIS) létrehozásáról, működéséről és használatáról, a 2007/533/IB tanácsi határozat módosításáról és hatályon kívül helyezéséről, valamint az 1986/2006/EK európai parlamenti és tanácsi rendelet és a 2010/261/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2018. november 28-i (EU) 2018/1862 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
+[^10]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
