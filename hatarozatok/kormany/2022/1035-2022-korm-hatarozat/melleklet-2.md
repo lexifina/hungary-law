@@ -14,7 +14,7 @@
 
 | 7. | Lesenceistvánd Község Önkormányzata gyermekétkeztetési feladatainak támogatása | 16 000 000 | főzőkonyha fejlesztése eszközbeszerzéssel |
 
-| 8. | Monor „Okos Város” projekt üzemeltetésének támogatása | 189 699 519 | „Okos Város” projekt helyi eredményei üzemeltetésének 2022. évi támogatása |
+| 8. | Monor „Okos Város” projekt üzemeltetésének támogatása | 189 699 519 | „Okos Város” projekt helyi eredményei üzemeltetésének támogatása[^3] |
 
 | 9. | Monorierdő Község Önkormányzata közlekedésfejlesztési feladatainak támogatása | 35 000 000 | útfelújítás |
 
@@ -31,6 +31,8 @@
 | 15. | Vámosszabadi Község Önkormányzata sportfejlesztési feladatainak támogatása | 40 000 000 | tornacsarnok előkészítési munkáinak támogatása |
 
 2. melléklet az 1035/2022. (II. 1.) Korm. határozathoz
+
+2X01061_0
 
 | IX. Helyi önkormányzatok támogatásai ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2022. forintban |
 
@@ -135,3 +137,5 @@
 | 1 004 915 950 | 1 004 915 950 |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^3]: Az 1. mellékletben foglalt táblázat 8. sor 4. mezője az 1066/2023. (III. 8.) Korm. határozat 3. pontja szerint módosított szöveg.
