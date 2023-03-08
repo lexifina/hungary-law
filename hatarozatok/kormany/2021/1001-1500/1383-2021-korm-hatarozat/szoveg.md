@@ -1,6 +1,6 @@
 A Kormány
 
-1. egyetért az iváncsai ipari-innovációs fejlesztési terület infrastruktúra fejlesztéséhez kapcsolódóan a Magyar Energetikai és Közmű-szabályozási Hivatal H 367/2021 határozatával elfogadott „A Magyar Villamosenergia-rendszer Hálózatfejlesztési Terve 2020” című hálózatfejlesztési tervben szereplő, „Iváncsa új 132 kV-os alállomás létesítése, Iváncsa–Perkáta új kétrendszerű távvezeték létesítése” és „Perkáta 400/132 kV alállomásba harmadik 250 MVA-es átviteli transzformátor beépítése” megnevezésű, átviteli hálózati és elosztó hálózati beruházások (a továbbiakban együtt: Beruházások) 10 189 000 000 forint költségvetési forrásból, két ütemben, legkésőbb 2023. június 30-ig történő megvalósításával, az alábbiak szerint:
+1.[^1] egyetért az iváncsai ipari-innovációs fejlesztési terület infrastruktúra fejlesztéséhez kapcsolódóan a Magyar Energetikai és Közmű-szabályozási Hivatal H 367/2021 határozatával elfogadott „A Magyar Villamosenergia-rendszer Hálózatfejlesztési Terve 2020” című hálózatfejlesztési tervben szereplő, „Iváncsa új 132 kV-os alállomás létesítése, Iváncsa–Perkáta új kétrendszerű távvezeték létesítése” és „Perkáta 400/132 kV alállomásba harmadik 250 MVA-es átviteli transzformátor beépítése” megnevezésű, átviteli hálózati és elosztó hálózati beruházások (a továbbiakban együtt: Beruházások) 10 189 000 000 forint költségvetési forrásból, két ütemben, legkésőbb 2023. október 31-ig történő megvalósításával, az alábbiak szerint:
 
 a) a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság által megvalósítandó átviteli hálózati fejlesztések megépítéséhez 4 445 000 000 forint biztosításával,
 
@@ -24,7 +24,7 @@ a b) alpont tekintetében a felmerülés ütemében
 
 a c) alpont tekintetében a 2023. évi központi költségvetés tervezése során
 
-3.[^1]
+3.[^2]
 
 4. felhívja az innovációért és technológiáért felelős minisztert, hogy a Beruházások megvalósítása érdekében, a 2. pont szerinti forrás terhére gondoskodjon a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársaság részére 4 445 000 000 forint összegben támogatói okirat kibocsátásáról;
 
@@ -60,4 +60,5 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
 
-[^1]: A 3. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont b) alpontja visszavonta.
+[^1]: Az 1. pont nyitó szövegrésze az 1065/2023. (III. 8.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 3. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont b) alpontja visszavonta.

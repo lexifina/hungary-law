@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1383-30
 | --- | --- | --- |
 | 2021-06-15 | 2021-1383-30-22.1 | 1383/2021. (VI. 15.) Korm. határozat |
 | 2022-01-27 | 2021-1383-30-22.2 | 1023/2022. (I. 27.) Korm. határozat |
+| 2023-03-08 | 2021-1383-30-22.3 | 1065/2023. (III. 8.) Korm. határozat |
