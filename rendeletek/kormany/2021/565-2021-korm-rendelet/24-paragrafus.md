@@ -1,1 +1,3 @@
-## 23. § A 113/2007. (V. 24.) Korm. rendelet 35/A. §-ában a „beutazási és tartózkodási tilalmat elrendelő SIS jelzés” szövegrész helyébe a „kiutasítást vagy beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés” szöveg lép.
+24. §[^5]
+
+[^5]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
