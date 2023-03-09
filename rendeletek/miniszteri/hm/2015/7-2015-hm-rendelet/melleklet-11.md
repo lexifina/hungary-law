@@ -48,8 +48,8 @@
 
 | 23. | 20. besorolási kategória | vezérezredes | 133 800 | 136 030 | 138 260 | 136 030 | 138 260 | 140 490 |
 
-11. melléklet a 7/2015. (VI. 22.) HM rendelethez[^253]
+11. melléklet a 7/2015. (VI. 22.) HM rendelethez[^255]
 
 Meghatározott vezénylő zászlósi beosztásokhoz tartozó munkaerőpiaci kiegészítő illetmény összege
 
-[^253]: A 11. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § d) pontja iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 48. §-a szerint módosított szöveg.
+[^255]: A 11. mellékletet az 1/2020. (I. 17.) HM rendelet 10. § d) pontja iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 48. §-a szerint módosított szöveg.
