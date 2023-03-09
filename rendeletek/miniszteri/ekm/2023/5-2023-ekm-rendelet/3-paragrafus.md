@@ -1,0 +1,3 @@
+3. § (1) A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Csákvár belterület (Fejér vármegye), Kálvin utca 11. szám alatti, a közhiteles műemléki nyilvántartásban 1600 törzsszámon és 3591 azonosító számon nyilvántartott egykori református iskola telekalakítás után kialakult ingatlanai közül a Csákvár 1897/1 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy a telekalakítás következtében az ingatlanon védett érték nem található – megszüntetem.
+
+(2) A telekalakítás után létrejött Csákvár belterület 1897/2 helyrajzi számú ingatlan műemléki védettségét fenntartom, tekintettel az egykori református iskola épületének fennálló műemléki értékeire.

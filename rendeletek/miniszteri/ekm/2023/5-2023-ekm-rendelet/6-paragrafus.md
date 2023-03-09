@@ -1,0 +1,3 @@
+6. § (1) A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Timár (Szabolcs-Szatmár-Bereg vármegye), Szabadság utca 23. szám alatti, a közhiteles műemléki nyilvántartásban 6184 törzsszámon és 8502 azonosító számon nyilvántartott görög katolikus templom telekalakítás után kialakult ingatlanai közül a Timár belterület 106/4 és 107 helyrajzi számú ingatlanok műemléki védettségét – tekintettel arra, hogy a telekalakítás következtében az ingatlanokon védett érték nem található – megszüntetem.
+
+(2) A telekalakítás után létrejött Timár belterület 106/1 helyrajzi számú ingatlan műemléki védettségét fenntartom, tekintettel a görög katolikus templom fennálló műemléki értékeire.

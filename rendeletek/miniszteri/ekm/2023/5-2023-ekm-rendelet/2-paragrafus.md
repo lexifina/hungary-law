@@ -1,0 +1,3 @@
+2. § (1) A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Beleg belterület (Somogy vármegye), Petőfi Sándor utca 25. szám alatti, a közhiteles műemléki nyilvántartásban 4542 törzsszámon és 7821 azonosító számon nyilvántartott református templom telekalakítás után kialakult ingatlanai közül a Beleg 27/2 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy telekalakítás következtében az adott telken védett érték nem található – megszüntetem.
+
+(2) A telekalakítás után létrejött Beleg belterület 27/1 helyrajzi számú ingatlan műemléki védettségét fenntartom, tekintettel a református templom épületének fennálló műemléki értékeire.

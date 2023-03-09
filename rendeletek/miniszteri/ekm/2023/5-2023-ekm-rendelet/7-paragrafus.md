@@ -1,0 +1,3 @@
+7. § (1) A 22509/1958. ÉM – 120344/1958. MM számú együttes miniszteri döntéssel védetté nyilvánított, Verseg (Pest vármegye), Fenyőharaszt puszta településrészén található, Podmaniczky-kastély telekalakítás folytán létrejött Verseg külterület 0122/2, 0122/3 és 0122/4 helyrajzi számú ingatlanai közül a 0122/3 és 0122/4 helyrajzi számú ingatlanok műemléki védettségét – tekintettel arra, hogy a történeti melléképületek műemléki értéküket helyreállíthatatlanul elvesztették – megszüntetem.
+
+(2) A telekalakítás után létrejött Verseg külterület 0122/2 helyrajzi számú ingatlan műemléki védettségét fenntartom, tekintettel a közhiteles műemléki nyilvántartásban 7492 törzsszámon és 7586 azonosító számon nyilvántartott Podmaniczky-kastély fennálló műemléki értékeire.
