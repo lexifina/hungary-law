@@ -1,0 +1,3 @@
+1. § A fejezeti és központi kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 14/2021. (III. 25.) AM rendelet [a továbbiakban: 14/2021. (III. 25.) AM rendelet] 3. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) A Kvtv. 1. melléklet XII. Agrárminisztérium fejezet 20/04 „Élelmiszergazdasági és élelmiszerlánc-felügyeleti feladatok” fejezeti kezelésű előirányzatának „A hentesüzletek támogatása” célú keretéből az 1407/2013/EU bizottsági rendelet szerinti csekély összegű, az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatás nyújtható.”
