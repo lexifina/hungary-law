@@ -70,12 +70,17 @@
 
 | Határidő: | azonnal |
 
-## 2. A Gazdaság-újraindítási programok előirányzatból, a Központi Maradványelszámolási Alapból, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, valamint címrendi kiegészítésről szóló 1978/2021. (XII. 24.) Korm. határozat 1. mellékletében foglalt táblázat „Támogatási cél” oszlop 2. sorában a „napelem-rendszerének kialakítása, játszótér, edzőpark létrehozása” szövegrész helyébe az „és játszótér kialakítása” szöveg lép.
+## 2.[^1]
 
-## 3. A helyi önkormányzatok támogatásáról, helyi önkormányzatokat érintő kormányhatározatok módosításáról szóló 1035/2022. (II. 1.) Korm. határozat 1. mellékletében foglalt táblázat „Támogatás célja” oszlop 8. sorában az „üzemeltetésének 2022. évi támogatása” szövegrész helyébe az „üzemeltetésének támogatása” szöveg lép.
+## 3.[^2]
 
-## 4. A Nyíregyházi Ipari Park bővítésének támogatásáról szóló 1043/2022. (II. 4.) Korm. határozat 3. pontjában az „infrastrukturális fejlesztése” szövegrész helyébe a „közcélú infrastrukturális fejlesztése részben pénzeszköz átadással” szöveg lép.
+## 4.[^3]
 
-## 5. A fejezetek közötti előirányzat-átcsoportosításról és a Gazdaság-újraindítási programok előirányzatból történő előirányzat-átcsoportosításról szóló 1643/2022. (XII. 21.) Korm. határozat 1. mellékletében foglalt táblázat „Támogatás célja” oszlop 3. sorában a „tartozás rendezése” szövegrész helyébe a „kötelező önkormányzati feladatok ellátása részben támogatás nyújtásával” szöveg lép.
+## 5.[^4]
 
 1. melléklet az 1066/2023. (III. 8.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
