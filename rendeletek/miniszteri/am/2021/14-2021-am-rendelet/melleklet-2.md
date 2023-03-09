@@ -1,4 +1,4 @@
-## 3X00130M.docx
+## 3X00982M.docx
 
 | XII. Agrárminisztérium 2023. évi költségvetési kiadási elõirányzatainak feladatterve |
 
@@ -74,13 +74,13 @@
 
 | 8. A Tokaji Borvidéken megvalósuló szakmai feladatok támogatása 8.1. A Tokaji Borvidék szakmai feladatainak megvalósításához szükséges beruházások és programok támogatása. 8.2. A Tokaji Borvidék Borászati Közösségi Infrastruktúra Programhoz (a továbbiakban: Program) kapcsolódó épületek létesítésének támogatása. 8.3. A Programot kiszolgáló további infrastrukturális fejlesztések megvalósításának támogatása. 8.4. A Program lebonyolítási költségei fedezésének támogatása. 8.5. A Tokaj oltalom alatt álló eredetmegjelölés védelmében folytatott tevékenységtámogatása. |
 
-| 8. | 386928 |  | 4_Élelmiszergazdasági és élelmiszerlánc-felügyeleti feladatok | 1.A parlagfû elleni közérdekû védekezés végrehajtásának támogatása 1.1. A Magyarország parlagfû elleni védekezési tevékenységeit támogató célprogramok finanszírozása. | 1. a feladatok végrehajtásában közremûködõ egyéb gazdálkodó szervezet 2. civil szervezet 3. helyi önkormányzat 4. kártalanításra jogosult szervezet vagy személy 5. költségvetési szerv 6. köztestület | 1. egyedi döntés alapján vagy 2. pályázati eljárás keretében | indokolt esetben nyújtható | 1. egy összegben vagy 2. részletekben, idõarányosan vagy teljesítésarányosan történõ kifizetéssel | – | 1. A kedvezményezett valamennyi – jogszabály alapján beszedési megbízással megterhelhetõ – fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozat, 2. zálogjog, 3. garancia, 4. kezesség vagy 5. óvadék. | – | igénybe vehetõ | – |
+| 8. | 386928 |  | 4_Élelmiszergazdasági és élelmiszerlánc-felügyeleti feladatok | 1.A parlagfû elleni közérdekû védekezés végrehajtásának támogatása 1.1. A Magyarország parlagfû elleni védekezési tevékenységeit támogató célprogramok finanszírozása. | 1. a feladatok végrehajtásában közremûködõ egyéb gazdálkodó szervezet 2. civil szervezet 3. helyi önkormányzat 4. kártalanításra jogosult szervezet vagy személy 5. költségvetési szerv 6. köztestület 7. egyéni vállalkozó 8. gazdasági társaság | 1. egyedi döntés alapján vagy 2. pályázati eljárás keretében | indokolt esetben nyújtható | 1. egy összegben vagy 2. részletekben, idõarányosan vagy teljesítésarányosan történõ kifizetéssel | – | 1. A kedvezményezett valamennyi – jogszabály alapján beszedési megbízással megterhelhetõ – fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozat, 2. zálogjog, 3. garancia, 4. kezesség vagy 5. óvadék. | – | igénybe vehetõ | – |
 
 | 2. A Pálinka Nemzeti Tanács 2.1. A pálinkáról, a törkölypálinkáról és a Pálinka Nemzeti Tanácsról szóló 2008. évi LXXIII. törvényben meghatározott közfeladatok támogatása. 2.2. A Pálinka Nemzeti Tanács mûködésébõl eredõ feladatainak támogatása. |
 
 | 3. Az állatvédelem támogatása 3.1. A menhelyek és az ebrendészeti telepek korszerûsítésének támogatása. 3.2. Az állatmenhelyeken tartott ebek ivartalanításának támogatása. 3.3. A lakosság állatvédelemmel kapcsolatos tájékoztatásának és tudatformálásának támogatása. 3.4. A gazdátlan ebek ivartalanításának támogatása. |
 
-| 4. A sertések reprodukciós zavarokkal és légzõszervi tünetekkel járó szindrómájától történõ mentesítésének támogatása 4.1. A sertésállományoknak a sertés reprodukciós zavarokkal és légzõszervi tünetekkel járó szindrómájától való mentesítésérõl szóló 3/2014. (I. 16.) VM rendelet alapján a mentesítés adott telepen történõ gyorsítása vagy befejezése. |
+| 4. A sertések reprodukciós zavarokkal és légzõszervi tünetekkel járó szindrómájától történõ mentesítésének támogatása 4.1. A sertésállományoknak a sertés reprodukciós zavarokkal és légzõszervi tünetekkel járó szindrómájától való mentesítésérõl szóló 3/2014. (I. 16.) VM rendelet alapján a mentesítés adott telepen történõ gyorsítása vagy befejezése. 5. A hentesüzletek támogatása 5.1. A mikrovállalkozásként működő hentesüzletek működésének támogatása. |
 
 | 9. | 386239 |  | 5_Ágazati szakmai és társadalmi szervezetek támogatása | 1. Az állam természetvédelmi közfeladatainak átvállalása 1.1. A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendeletben, valamint a Nemzeti Környezetvédelmi Program részeként jóváhagyott Nemzeti Természetvédelmi Alaptervben rögzített természetvédelmi célok elérésében, az aktuális feladatok hatékony ellátásában közreműködő környezet- és természetvédelmi céllal létrejött civil szervezetek kizárólag természetvédelmi tematikájú szakmai feladatainak, programjainak, tevékenységének támogatása. | 1. civil szervezet 2. határon túli civil szervezet 3. határon túli szervezet | 1. egyedi döntés alapján vagy 2. pályázati eljárás keretében | indokolt esetben nyújtható | 1. egy összegben vagy 2. részletekben, idõarányosan vagy teljesítésarányosan történõ kifizetéssel | – | 1. A kedvezményezett valamennyi – jogszabály alapján beszedési megbízással megterhelhetõ – fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozat, 2. zálogjog, 3. garancia, 4. kezesség vagy 5. óvadék. | – | igénybe vehetõ | – |
 
@@ -112,8 +112,8 @@
 
 | 14. | 258267 |  | 17_Nemzeti Vidékfejlesztési Terv | Az Európai Mezõgazdasági Orientációs és Garancia Alap Garancia Részlegébõl finanszírozott kísérõ intézkedésekbõl visszakövetelt támogatások nemzeti részének továbbítása a központi költségvetés felé. | – | – | – | egy összegben történõ kifizetéssel | – | – | – | – | igénybe vehetõ |
 
-2. melléklet a 14/2021. (III. 25.) AM rendelethez[^29]
+2. melléklet a 14/2021. (III. 25.) AM rendelethez[^30]
 
 A XII. Agrárminisztérium fejezet központi kezelésű előirányzataira vonatkozó rendelkezések
 
-[^29]: A 2. melléklet a 46/2021. (XII. 8.) AM rendelet 3. § (1) bekezdése, a 7/2022. (II. 17.) AM rendelet 4. § (2) bekezdése, 5. § d) és k)–n) pontja, a 2/2023. (I. 12.) AM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^30]: A 2. melléklet a 46/2021. (XII. 8.) AM rendelet 3. § (1) bekezdése, a 7/2022. (II. 17.) AM rendelet 4. § (2) bekezdése, 5. § d) és k)–n) pontja, a 2/2023. (I. 12.) AM rendelet 6. § (2) bekezdése szerint módosított szöveg.

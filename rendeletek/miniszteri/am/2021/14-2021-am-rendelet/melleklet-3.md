@@ -42,6 +42,6 @@
 
 | 9. | 398839 |  | 9_Földügyi kompenzációs feladatok | 1. A mezőgazdasági földeken fennálló haszonélvezeti jogok ex lege megszüntetése miatt indult C-235/17. számú Európai Bizottság kontra Magyarország ügyben az Európai Unió Bírósága által hozott ítélet végrehajtásával összefüggő – a kompenzációval kapcsolatban felmerülő – feladatok finanszírozása. | 1. jogi személy 2. jogi személyiséggel nem rendelkező szervezet 3. természetes személy | – | – | 1. egy összegben vagy 2. részletekben, időarányosan vagy teljesítésarányosan történő kifizetéssel | – | – | Nemzeti Földügyi Központ | – | – |
 
-3. melléklet a 14/2021. (III. 25.) AM rendelethez[^30]
+3. melléklet a 14/2021. (III. 25.) AM rendelethez[^31]
 
-[^30]: A 3. mellékletet a 2/2023. (I. 12.) AM rendelet 8. § 16. pontja hatályon kívül helyezte.
+[^31]: A 3. mellékletet a 2/2023. (I. 12.) AM rendelet 8. § 16. pontja hatályon kívül helyezte.
