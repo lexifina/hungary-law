@@ -1,0 +1,3 @@
+1. § A kormányzati funkciók és államháztartási szakágazatok osztályozási rendjéről szóló 15/2019. (XII. 7.) PM rendelet 1. §-a helyébe a következő rendelkezés lép:
+
+„1. § A költségvetési szerv, a központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap és a társadalombiztosítás pénzügyi alapja kezelő szerve, az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 2. § (1) bekezdésében meghatározott tulajdonosi joggyakorló szervezet, valamint a helyi önkormányzat, nemzetiségi önkormányzat, társulás, térségi fejlesztési tanács (a továbbiakban együtt: az államháztartás szervezetei) közfeladataikat és egyéb tevékenységeiket, azok bevételeit és kiadásait az e rendeletben foglaltak szerint nyilvántartják és elszámolják.”
