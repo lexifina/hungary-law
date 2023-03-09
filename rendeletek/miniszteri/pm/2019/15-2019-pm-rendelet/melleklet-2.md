@@ -1,6 +1,6 @@
 2. melléklet a 15/2019. (XII. 7.) PM rendelethez
 
-## Tartalmi meghatározások a kormányzati funkciókhoz
+Tartalmi meghatározások a kormányzati funkciókhoz
 
 1. Általános közszolgáltatások
 
@@ -162,11 +162,11 @@
 
 | 78 |  | 018020 Központi költségvetési befizetések |
 
-| 79 |  |  | Ide tartozik: - a központi költségvetés részére történő, funkcióhoz nem köthető befizetések, visszafizetések teljesítése. Technikai-pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Nem ebbe a funkcióba tartozik: - az önkormányzatok funkcióhoz nem köthető elszámolásai a központi költségvetéssel. |
+| 79[^5] |  |  | Ide tartozik: – a helyi önkormányzatok törvényi előíráson alapuló befizetése (különösen a helyi önkormányzatok szolidaritási hozzájárulás jogcímen teljesített befizetése), illetve a központi költségvetés részére történő, funkcióhoz nem köthető befizetés, visszafizetés teljesítése. Technikai-pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Nem ebbe a funkcióba tartozik: – az önkormányzatok funkcióhoz nem köthető elszámolása a központi költségvetéssel. |
 
 | 80 |  | 018030 Támogatási célú finanszírozási műveletek |
 
-| 81 |  |  | Ide tartozik: - a költségvetési maradvány igénybevétele, a vállalkozási maradvány igénybevétele alaptevékenységre, az államháztartás központi alrendszerében a központi támogatás, az önkormányzat alrendszerében az irányító szerv által nyújtott támogatás. - a kormányzati funkciót a felsőoktatási intézmények nem használhatják, finanszírozási bevételeiket a felhasználás célja szerinti kormányzati funkción kell elszámolniuk. Technikai-pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Ezen a kormányzati funkción kell kimutatni az államháztartás önkormányzati alrendszerében azon transzfer jellegű pénzeszköz átadásokat, amelyeket finanszírozási céllal teljesítenek egymás között az államháztartási szervek. |
+| 81[^6] |  |  | Ide tartozik: – a költségvetési maradvány igénybevétele, a vállalkozási maradvány igénybevétele alaptevékenységre, – az államháztartás központi alrendszerében a központi támogatás, az önkormányzati alrendszerében az irányító szerv által nyújtott támogatás, – az egészségügyről szóló 1997. évi CLIV. törvény 155. § (10) bekezdésében meghatározott városi intézmény és az irányító vármegyei intézmény közötti feladatmegosztáshoz kapcsolódó pénzeszköz átadás-átvétel. A kormányzati funkciót a felsőoktatási intézmények nem használhatják, finanszírozási bevételeiket a felhasználás célja szerinti kormányzati funkción kell elszámolniuk. Technikai-pénzforgalmi funkció, alapító okiratban nem szerepeltethető. Ezen a kormányzati funkción kell kimutatni az államháztartás önkormányzati alrendszerében azokat a transzferjellegű pénzeszközátadásokat, amelyeket finanszírozási céllal teljesítenek egymás között az államháztartási szervek. |
 
 | 82 |  | 018040 Elkülönített állami pénzalapok bevételei államháztartáson belülről |
 
@@ -218,17 +218,17 @@
 
 | 17 | 0250 Egyéb védelmi ügyek |
 
-| 18 |  | 025010 Védelmi feladatok igazgatása és szabályozása |
+| 18[^7] |  | 025010 Védelmi és biztonsági feladatok igazgatása és szabályozása |
 
-| 19 |  |  | Ide tartozik: - a honvédelmi és katonai vezetés-irányítási feladatok keretében a kormányzati döntések végrehajtásával, valamint az ellenőrzési, a szabályozási, a hatósági, a szakhatósági tevékenységekkel és a hadisírgondozási tevékenységgel összefüggő feladatok ellátása. |
+| 19[^8] |  |  | Ide tartozik: – a honvédelmi és katonai vezetés-irányítási feladatok keretében a kormányzati döntések végrehajtásával, valamint az ellenőrzési, szabályozási, hatósági, szakhatósági tevékenységekkel és a hadisírgondozási tevékenységgel összefüggő feladatok ellátása, – védelmi és biztonsági feladatok összehangolásával kapcsolatos feladatok ellátása. |
 
 | 20 |  | 025020 Védelmi célú stratégiai tartalékok tárolása, kezelése |
 
-| 21 |  |  | Ide tartozik: - a védelmi feladatok békeidőbeli zavartalan ellátásának biztosítása, illetve katasztrófa vagy minősített időszak esetére, a védelmi és polgári honvédelmi feladatok ellátása céljából a védelmi célú stratégiai tartalék fenntartásával, a készletekkel és a készletek tárolására szolgáló ingatlanokkal összefüggő feladatok ellátása. |
+| 21[^9] |  |  | Ide tartozik: – a védelmi feladatok békeidőbeli zavartalan ellátásának biztosítása, illetve katasztrófa vagy különleges jogrend esetére, a védelmi és biztonsági, a polgári, valamint a honvédelmi feladatok ellátása céljából a védelmi célú stratégiai tartalék fenntartásával, a készletekkel és a készletek tárolására szolgáló ingatlanokkal összefüggő feladatok ellátása. |
 
 | 22 |  | 025090 Egyéb védelmi ügyek |
 
-| 23 |  |  | Ide tartozik: - a más funkcióba nem sorolható egyéb védelmi ügyekkel összefüggő feladatok ellátása. |
+| 23[^10] |  |  | Ide tartozik: – a más funkcióba nem sorolható egyéb védelmi és biztonsági ügyekkel összefüggő feladatok ellátása. |
 
 3. Közrend és közbiztonság
 
@@ -386,9 +386,9 @@
 
 | 22 |  |  | Ide tartozik: - az egészséget nem veszélyeztető és biztonságos munkavégzés céljainak támogatásával, valamint a közcélú állami Munkavédelmi Információs Rendszer (a továbbiakban: MIR) folyamatos működtetésével, ennek keretében a Munkavédelmi Tanácsadó Szolgálat által a munkavédelmi szabályok munkáltatók általi betartásának, a munkahelyi balesetek megelőzésének érdekében tájékoztató, felvilágosító tevékenység végzésével összefüggő feladatok ellátása. |
 
-| 23 |  | 041231 Rövid időtartamú közfoglalkoztatás |
+| 23[^11] |  |
 
-| 24 |  |  | Ide tartozik: - a közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet 3. §-a alapján foglalkoztatást helyettesítő támogatásra (a továbbiakban: FHT) jogosult személy, vagy rehabilitációs ellátásban részesülő személy legfeljebb 4 hónap időtartamra szóló, határozott idejű közfoglalkoztatási jogviszony keretében, napi 4 órás munkaidőben történő foglalkoztatásával összefüggő feladatok ellátása, kifizetések teljesítése. |
+| 24[^12] |  |
 
 | 25 |  | 041232 Start-munka program – Téli közfoglalkoztatás |
 
@@ -1190,7 +1190,7 @@
 
 | 24 |  | 081071 Üdülői szálláshely-szolgáltatás és étkeztetés |
 
-| 25 |  |  | Ide tartozik: - a jellemzően napi vagy heti, elsősorban rövid időtartamú tartózkodás céljára nyújtott szálláshely-szolgáltatással és étkeztetéssel, illetve működtetésük vagy igénybevételük támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. (Ezek a szálláshelyek különböző formában működhetnek, egyáltalán nem vagy minimális kiegészítő szolgáltatásokat nyújtanak. Jellemzően ilyenek: gyermeküdülő, egyéb üdülőház, vendégház és bungaló, falusi ház és faház háztartási szolgáltatások nélkül, ifjúsági szálló, turistaszálló, hegyi menedékhely, bivakszállás, szabadtéri terület biztosítása sátrak, hálózsákok elhelyezésére.) |
+| 25 |  |  | Ide tartozik: - a jellemzően napi vagy heti, elsősorban rövid időtartamú tartózkodás céljára nyújtott szálláshely-szolgáltatással és étkeztetéssel, illetve működtetésük vagy igénybevételük támogatásával összefüggő feladatok ellátása, kifizetések teljesítése. (Ezek a szálláshelyek különböző formában működhetnek, egyáltalán nem vagy minimális kiegészítő szolgáltatásokat nyújtanak. Jellemzően ilyenek: gyermeküdülő, egyéb üdülőház, vendégház és bungaló, falusi ház és faház háztartási szolgáltatások nélkül, ifjúsági szálló, turistaszálló, hegyi menedékhely, bivakszállás, szabadtéri terület biztosítása sátrak, hálózsákok elhelyezésére.)[^13] |
 
 | 26 | 0820 Kulturális szolgáltatások |
 
@@ -1220,7 +1220,7 @@
 
 | 39 |  | 082044 Könyvtári szolgáltatások |
 
-| 40 |  |  | Ide tartozik: - a rendelkezésre bocsátással (a könyvtárak gyűjteményének használókhoz való eljuttatása helyben használat, kölcsönzés és könyvtárközi kölcsönzés útján), a könyvtári tájékoztatással (a használóknak szóló információ-szolgáltatás, amelynek speciális feladata az adott könyvtár és a könyvtári rendszer dokumentumairól és szolgáltatásairól való tájékoztatás), - a megrendelhető könyvtári szolgáltatásokkal (a megyei és nagyobb városi könyvtárak által nyújtott könyvtári szolgáltatások, olyan kistelepülések számára, ahol az önkormányzat nem tart fenn könyvtárat), valamint - a könyvtárak közönségkapcsolati és egyéb tevékenységével összefüggő feladatok ellátása. |
+| 40 |  |  | Ide tartozik: - a rendelkezésre bocsátással (a könyvtárak gyűjteményének használókhoz való eljuttatása helyben használat, kölcsönzés és könyvtárközi kölcsönzés útján), a könyvtári tájékoztatással (a használóknak szóló információ-szolgáltatás, amelynek speciális feladata az adott könyvtár és a könyvtári rendszer dokumentumairól és szolgáltatásairól való tájékoztatás), - a megrendelhető könyvtári szolgáltatásokkal (a vármegyei és nagyobb városi könyvtárak által nyújtott könyvtári szolgáltatások, olyan kistelepülések számára, ahol az önkormányzat nem tart fenn könyvtárat), valamint - a könyvtárak közönségkapcsolati és egyéb tevékenységével összefüggő feladatok ellátása.[^14] |
 
 | 41 |  | 082051 Levéltári állomány gyarapítása, kezelése és védelme |
 
@@ -1997,3 +1997,14 @@
 | 14 |  | 900090 Vállalkozási tevékenységek kiadásai és bevételei |
 
 | 15 |  |  | Ide tartozik: - a vállalkozási maradvány igénybevétele vállalkozási tevékenységre, - a vállalkozási tevékenységek kiadásainak és bevételeinek összesített elszámolása. Technikai-pénzforgalmi funkció, alapító okiratban nem szerepeltethető. |
+
+[^5]: A 2. melléklet 1. pontjában foglalt táblázat 79. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
+[^6]: A 2. melléklet 1. pontjában foglalt táblázat 81. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
+[^7]: A 2. melléklet 2. pontjában foglalt táblázat 18. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
+[^8]: A 2. melléklet 2. pontjában foglalt táblázat 19. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
+[^9]: A 2. melléklet 2. pontjában foglalt táblázat 21. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
+[^10]: A 2. melléklet 2. pontjában foglalt táblázat 23. sora az 1/2023. (III. 6.) PM rendelet 2. § 2. pontjával megállapított szöveg.
+[^11]: A 2. melléklet 4. pontjában foglalt táblázat 23. sorát az 1/2023. (III. 6.) PM rendelet 4. § 2. pontja hatályon kívül helyezte.
+[^12]: A 2. melléklet 4. pontjában foglalt táblázat 24. sorát az 1/2023. (III. 6.) PM rendelet 4. § 2. pontja hatályon kívül helyezte.
+[^13]: [A 2. melléklet 8. pontjában foglalt táblázat C:25 mezőben az 1/2023. (III. 6.) PM rendelet 3. § 1. pontja által elrendelt módosítás, amely szerint a „szálláshelyszolgáltatással” szövegrész helyébe a „szálláshely-szolgáltatással” szöveg, nem vezethető át.]
+[^14]: A 2. melléklet 8. pontjában foglalt táblázat C:40 mezője az 1/2023. (III. 6.) PM rendelet 3. § 2. pontja szerint módosított szöveg.

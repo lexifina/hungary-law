@@ -1,4 +1,4 @@
-3. melléklet a 15/2019. (XII. 7.) PM rendelethez
+3. melléklet a 15/2019. (XII. 7.) PM rendelethez[^15]
 
 Az államháztartás szakágazati rendje
 
@@ -120,7 +120,7 @@ Az államháztartás szakágazati rendje
 
 |  | 841104 Területi általános igazgatási szervek tevékenysége |
 
-|  |  | Ide kell sorolni a fővárosi és megyei kormányhivatalokat. A környezetvédelmi, vízügyi, oktatási célú területi igazgatási szervezeteket a 8412-8413 vagy 842, 843 csoport megfelelő szakágazatába kell besorolni. |
+|  |  | Ide kell sorolni a fővárosi és vármegyei kormányhivatalokat. A környezetvédelmi, vízügyi, oktatási célú területi igazgatási szervezeteket a 8412-8413 vagy 842, 843 csoport megfelelő szakágazatába kell besorolni. |
 
 |  | 841105 Helyi önkormányzatok és társulások igazgatási tevékenysége |
 
@@ -230,9 +230,9 @@ Az államháztartás szakágazati rendje
 
 |  |  | Ebbe a szakágazatba tartozik: - a külügyminisztérium és a külföldön állomásozó, vagy nemzetközi szervezeteknél lévő diplomáciai és konzuli kirendeltségek igazgatása és működtetése, a nemzetközi ügyek, kapcsolatok igazgatása, beleértve a nemzetközi műszaki, tudományos, kulturális ügyek kapcsolatok, a kulturális szakdiplomáciai tevékenység igazgatását is, - az ország határon túli terjesztésre szánt információs és kulturális szolgáltatások igazgatása, működtetése és támogatása, ideértve a könyvtárakat, olvasótermeket és külföldi tájékoztatási referencia szolgálatokat is. |
 
-|  | 842210 Védelmi feladatok központi igazgatása és szabályozása |
+|  | 842210 Védelmi és biztonsági feladatok központi igazgatása és szabályozása |
 
-|  |  | Ebbe a szakágazatba tartozik: - a honvédelemmel kapcsolatos közigazgatási és katonai vezetés-irányítási tevékenység. |
+|  |  | Ebbe a szakágazatba tartozik: – a honvédelemmel kapcsolatos közigazgatási és katonai vezetés-irányítási tevékenység, – a védelmi és biztonsági tevékenységek összehangolásával kapcsolatos feladatok ellátása. |
 
 |  | 842211 Honvédelem ágazati feladatai |
 
@@ -427,3 +427,5 @@ Az államháztartás szakágazati rendje
 |  | 960300 Temetkezés, temetkezést kiegészítő szolgáltatás |
 
 |  |  | Ebbe a szakágazatba tartozik: - az elhunyt személyek és az állati tetemek temetése vagy hamvasztása és a hozzá kapcsolódó tevékenységek: - a holttest előkészítése temetésre, hamvasztásra, balzsamozás, - temetkezés, hamvasztás, - ravatalozók bérbeadása, - sírhelyek, temetési urnahelyek bérbeadása vagy eladása, - sírok és síremlékek gondozása, fenntartása. Nem ebbe a szakágazatba tartozik: - a temetők zöldterületi gondozása, lásd: 8130. |
+
+[^15]: A 3. melléklet az 1/2023. (III. 6.) PM rendelet 2. § 3. pontja és 3. § 2. pontja szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 1. melléklet a 15/2019. (XII. 7.) PM rendelethez
 
-## A kormányzati funkciók rendje
+A kormányzati funkciók rendje
 
 1. Általános közszolgáltatások
 
@@ -106,7 +106,7 @@
 
 018060 Nyugdíjbiztosítási alap bevételei államháztartáson belülről
 
-2. Védelem
+2.[^3] Védelem
 
 0210 Katonai védelem
 
@@ -130,7 +130,7 @@
 
 0250 Egyéb védelmi ügyek
 
-025010 Védelmi feladatok igazgatása és szabályozása
+025010 Védelmi és biztonsági feladatok igazgatása és szabályozása
 
 025020 Védelmi célú stratégiai tartalékok tárolása, kezelése
 
@@ -196,7 +196,7 @@
 
 036020 Jogi segítségnyújtás, áldozatsegítés, kárenyhítés, kárpótlás
 
-4. Gazdasági ügyek
+4.[^4] Gazdasági ügyek
 
 0411 Általános gazdasági és kereskedelmi ügyek
 
@@ -221,8 +221,6 @@
 041210 Munkaügy igazgatása
 
 041220 Munkavédelmi célú támogatások és közcélú információs rendszer működtetése
-
-041231 Rövid időtartamú közfoglalkoztatás
 
 041232 Start-munka program – Téli közfoglalkoztatás
 
@@ -1113,3 +1111,6 @@
 900060 Forgatási és befektetési célú finanszírozási műveletek
 
 900090 Vállalkozási tevékenységek kiadásai és bevételei
+
+[^3]: Az 1. melléklet 2. pontja az 1/2023. (III. 6.) PM rendelet 2. § 1. pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet 4. pontja az 1/2023. (III. 6.) PM rendelet 4. § 1. pontja szerint módosított szöveg.

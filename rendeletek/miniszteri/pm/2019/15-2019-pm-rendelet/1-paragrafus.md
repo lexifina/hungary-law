@@ -1,0 +1,3 @@
+1. §[^1] A költségvetési szerv, a központi kezelésű előirányzat, a fejezeti kezelésű előirányzat, az elkülönített állami pénzalap és a társadalombiztosítás pénzügyi alapja kezelő szerve, az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet 2. § (1) bekezdésében meghatározott tulajdonosi joggyakorló szervezet, valamint a helyi önkormányzat, nemzetiségi önkormányzat, társulás, térségi fejlesztési tanács (a továbbiakban együtt: az államháztartás szervezetei) közfeladataikat és egyéb tevékenységeiket, azok bevételeit és kiadásait az e rendeletben foglaltak szerint nyilvántartják és elszámolják.
+
+[^1]: Az 1. § az 1/2023. (III. 6.) PM rendelet 1. §-ával megállapított szöveg.
