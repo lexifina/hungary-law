@@ -34,14 +34,11 @@
 
 | Határidő: | a támogatási szerződés megkötésére: az 1.3. alpont szerinti forrás rendelkezésre állását követően a műszaki tartalom megvalósítására: az 1.1. alpont a) pontja tekintetében 2024. június 30. az 1.1. alpont b) pontja tekintetében 2025. december 31. |
 
-## 2. A Térségi fejlesztési feladatokhoz szükséges kötelezettségvállalásokról szóló 1023/2022. (I. 27.) Korm. határozat [a továbbiakban: 1023/2022. (I. 27.) Korm. határozat] 1. pontja a következő 1.13. alponttal egészül ki:
+## 2.[^1]
 
-## (A Kormány, tekintettel)
-
-## „1.13. a Kecskeméti Ipari Park villamosenergia infrastruktúra-fejlesztésének támogatásáról szóló 1068/2023. (III. 8.)Korm. határozatra”
-
-## (a következőkről dönt.)
-
-## 3. Az 1023/2022. (I. 27.) Korm. határozat 1. melléklete a 2. melléklet szerint módosul.
+## 3.[^2]
 
 1. melléklet az 1068/2023. (III. 8.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
