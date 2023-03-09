@@ -1,3 +1,3 @@
-## 4. §[^1]
+5. §[^2]
 
-[^1]: A 4. §-t a 15/2005. (IV. 6.) NKÖM rendelet 3. §-ának (2) bekezdése hatályon kívül helyezte.
+[^2]: Az 5. §-t a 31/2014. (IV. 10.) BM rendelet 61. § a) pontja hatályon kívül helyezte.
