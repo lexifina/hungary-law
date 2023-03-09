@@ -1,4 +1,4 @@
-6. §[^14] (1) A kötelező tartalék összege után az MNB a következő képlet alapján fizet kamatot a tartalékköteles hitelintézetnek:
+6. §[^15] (1) A kötelező tartalék összege után az MNB a következő képlet alapján fizet kamatot a tartalékköteles hitelintézetnek:
 
 ## Ahol:
 
@@ -16,4 +16,4 @@
 
 (2) Az MNB a kötelező tartalék után fizetendő kamatot a teljesítési tárgyidőszakot követő hónap 2. MNB munkanapján fizeti meg a tartalékköteles hitelintézetnek.
 
-[^14]: A 6. § a 36/2022. (IX. 15.) MNB rendelet 2. §-ával megállapított szöveg.
+[^15]: A 6. § a 36/2022. (IX. 15.) MNB rendelet 2. §-ával megállapított szöveg.
