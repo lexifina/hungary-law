@@ -22,5 +22,7 @@
 
 1. melléklet az 1495/2021. (VII. 23.) Korm. határozathoz[^2]
 
+Magyarország Helyreállítási és Ellenállóképességi Tervéhez kapcsolódó pályázati rendszerben végrehajtandó intézkedési lista
+
 [^1]: Az 5. pont az 1402/2022. (VIII. 16.) Korm. határozat 3. pont 3.1. alpontja szerint módosított szöveg.
-[^2]: Az 1. melléklet az 1226/2022. (IV. 7.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 1. melléklet az 1074/2023. (III. 10.) Korm. határozat 1. pontjával megállapított szöveg.
