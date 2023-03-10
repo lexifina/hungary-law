@@ -1,10 +1,18 @@
-## 14. § A kapacitás-elosztó szervezet hozzáférést biztosít a vasúti igazgatási szerv részére a vasúti pályahálózathoz való nyílt hozzáférés, a pályakapacitások kihasználásának, valamint az évközi, egyedi, azonnali és üzemi célú menetvonal-igénylés és -elosztás gyakorlatának figyelemmel kísérésére alkalmas informatikai rendszeréhez.
-
 ## 9. Az összehangolási eljárás
 
 15. § (1) Ha az ütköző igények előnyben részesítési sorrendje a 18. § (3) bekezdés alapján nem állapítható meg, a kapacitás-elosztó szervezet az összehangolási eljárást írásban vagy elektronikus úton kezdeményezi – valamennyi érintett igénylő és a vasúti igazgatási szerv egyidejű értesítése mellett – a vasúti pályahálózat-kapacitás iránt bejelentett igények ütközéséről szerzett tudomást követő két munkanapon belül.
 
-(2) Az összehangolási eljárásról szóló értesítésben meg kell jelölni a vasúti pályahálózat-kapacitás iránt bejelentett igények ütközésével érintett kapacitást, az igénytől eltérően – figyelemmel a 10. § (2) bekezdésében foglaltakra – felajánlott kapacitást, az összehangolási eljárás helyét, idejét, valamint az összehangolási eljáráson való részvétel elmulasztásának következményeit.
+(2)[^21] Az összehangolási eljárásról szóló értesítésben a kapacitás-elosztó szervezet megjelöli
+
+a) a vasúti pályahálózat-kapacitás iránt bejelentett igények ütközésével érintett – igényelt, valamint előzetesen kiosztott – kapacitást,
+
+b) az igénytől eltérően – figyelemmel a 10. § (2) bekezdésében foglaltakra – felajánlott kapacitást,
+
+c) a kiosztás során alkalmazott kritériumokra vonatkozó részletes információkat és
+
+d) az összehangolási eljárás helyét, idejét, valamint az összehangolási eljáráson való részvétel elmulasztásának következményeit.
+
+(2a)[^22] A (2) bekezdés szerinti információkat a kérelmező kilétének felfedése nélkül kell megadni, kivéve, ha az érintett kérelmező hozzájárult a (2) bekezdés szerinti információk kiadásához.
 
 (3) Az összehangolási eljárást a kapacitás-elosztó szervezet vezeti le. Az eljárásról jegyzőkönyvet kell felvenni, amelyet valamennyi, az összehangolási eljáráson részt vevő félnek alá kell írnia.
 
@@ -39,3 +47,8 @@ c) a hosszabb viszonylatra vonatkozó menetvonal-igényeknek,
 d) a rendszeresen közlekedő vonatok menetvonal-igényeinek,
 
 e) a korábban benyújtott igényeknek
+
+biztosít elsőbbséget.
+
+[^21]: A 15. § (2) bekezdése a 3/2023. (II. 23.) ÉKM rendelet 3. §-ával megállapított szöveg.
+[^22]: A 15. § (2a) bekezdését a 3/2023. (II. 23.) ÉKM rendelet 3. §-a iktatta be.

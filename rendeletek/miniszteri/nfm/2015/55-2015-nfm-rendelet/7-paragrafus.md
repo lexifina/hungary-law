@@ -1,5 +1,3 @@
-## 6. § A kapacitás-elosztó szervezet a Hálózati Üzletszabályzatot – módosítás esetén az egységes szerkezetű változatot – a hatálybalépéssel egyidejűleg elektronikus úton megküldi a vasúti igazgatási szervnek. A vasúti igazgatási szerv a Hálózati Üzletszabályzat mindenkor hatályos változatáról nyilvántartást vezet.
-
 ## III. Fejezet
 
 ## A VASÚTI PÁLYAHÁLÓZAT KAPACITÁSÁNAK ELOSZTÁSA

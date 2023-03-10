@@ -14,7 +14,7 @@ e) ideiglenes üzemi menetrend: az adott vasúti pályaszakaszon a karbantartás
 
 f) kapacitás-elosztó szervezet:
 
-fa) nem független vasúti pályahálózat-működtető esetén a VPSZ,
+fa)[^1] nem független vasúti pályahálózat-működtető, valamint országos jelentőségű vasútvonalat működtető független pályahálózat-működtető esetén a VPSZ,
 
 fb) az fa) alponthoz nem tartozó pályahálózat-működtető esetén a pályahálózat-működtető,
 
@@ -30,24 +30,25 @@ k) pályahálózat-működtetői kapacitás-igény (vágányzári igény): a pá
 
 l) potenciális kapacitásigénylő: minden olyan kapacitásigénylőnek nem minősülő piaci szereplő, akinek a kapacitás-elosztáshoz kapcsolódó szabályok, eljárások, díjak, egyéb elemek alkalmazása jogát vagy jogos érdekét érintheti, tevékenységét befolyásolhatja,
 
-m)[^1] tervezett jelentős vágányzár: azok a tervezett vágányzári munkák, amelyek legalább hét egymást követő napnál hosszabbak, és amelyek miatt az érintett vasútvonal becsült forgalmának naponta több mint 30%-át törlik, átirányítják vagy más közlekedési móddal helyettesítik,
+m)[^2] tervezett jelentős vágányzár: azok a tervezett vágányzári munkák, amelyek legalább hét egymást követő napnál hosszabbak, és amelyek miatt az érintett vasútvonal becsült forgalmának naponta több mint 30%-át törlik, átirányítják vagy más közlekedési móddal helyettesítik,
 
-n)[^2] ütemes menetrend: az ütemes menetrendi szerkezetet alkotó menetvonallal rendelkező vonat menetrendje,
+n)[^3] ütemes menetrend: az ütemes menetrendi szerkezetet alkotó menetvonallal rendelkező vonat menetrendje,
 
-o)[^3] ütemes menetrendi szerkezet: olyan menetrendi szerkezet, amelyet alkotó menetvonalak egymással 60 perces eltolással legalább egymást követő 12 órán át megszakítás nélkül, percre pontosan fedésbe hozhatók, és amelyben minden menetvonalhoz hozzárendelhető egy bármely, de egyazon (egészóra) időértékre nézve értelmezett, ellenkező irányú menetvonal,
+o)[^4] ütemes menetrendi szerkezet: olyan menetrendi szerkezet, amelyet alkotó menetvonalak egymással 60 perces eltolással legalább egymást követő 12 órán át megszakítás nélkül, percre pontosan fedésbe hozhatók, és amelyben minden menetvonalhoz hozzárendelhető egy bármely, de egyazon (egészóra) időértékre nézve értelmezett, ellenkező irányú menetvonal,
 
-p)[^4] üzemi célú menetvonal: az üzemi menetrendben nem lekötött szabad kapacitás terhére az üzemi vonat közlekedtetésére igénybe vett menetvonal, amelynek igénylésére önállóan vagy a fejlesztési közreműködő kezdeményezésére a pályahálózat-működtető jogosult,
+p)[^5] üzemi célú menetvonal: az üzemi menetrendben nem lekötött szabad kapacitás terhére az üzemi vonat közlekedtetésére igénybe vett menetvonal, amelynek igénylésére önállóan vagy a fejlesztési közreműködő kezdeményezésére a pályahálózat-működtető jogosult,
 
-q)[^5] üzemi menetrendben nem lekötött szabad kapacitás: a menetvonal-katalógus, valamint a vasúti pályahálózat nem megszerkesztett menetvonalakból álló szabad kapacitása,
+q)[^6] üzemi menetrendben nem lekötött szabad kapacitás: a menetvonal-katalógus, valamint a vasúti pályahálózat nem megszerkesztett menetvonalakból álló szabad kapacitása,
 
-r)[^6] üzemi vonat: a nyílt hozzáférésű vasúti pályahálózat működtetése érdekében, valamint rendkívüli esemény miatt közlekedő, vasúti személyszállítást és a pályahálózat-működtetőn kívül más részére vasúti árufuvarozást nem végző vonat, függetlenül annak üzemeltetőjétől,
+r)[^7] üzemi vonat: a nyílt hozzáférésű vasúti pályahálózat működtetése érdekében, valamint rendkívüli esemény miatt közlekedő, vasúti személyszállítást és a pályahálózat-működtetőn kívül más részére vasúti árufuvarozást nem végző vonat, függetlenül annak üzemeltetőjétől,
 
-s)[^7] vasúti pályaszakasz: a nyílt hozzáférésű vasúti pályahálózat egyértelműen azonosítható és összefüggő része.
+s)[^8] vasúti pályaszakasz: a nyílt hozzáférésű vasúti pályahálózat egyértelműen azonosítható és összefüggő része.
 
-[^1]: A 2. § m) pontja a 13/2019. (V. 31.) ITM rendelet 1. §-ával megállapított szöveg.
-[^2]: A 2. § n) pontja a 13/2019. (V. 31.) ITM rendelet 1. §-ával megállapított szöveg.
-[^3]: A 2. § o) pontja a 13/2019. (V. 31.) ITM rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § p) pontja a 13/2019. (V. 31.) ITM rendelet 1. §-ával megállapított szöveg.
-[^5]: A 2. § q) pontja a 13/2019. (V. 31.) ITM rendelet 1. §-ával megállapított szöveg.
-[^6]: A 2. § r) pontja a 13/2019. (V. 31.) ITM rendelet 1. §-ával megállapított szöveg.
-[^7]: A 2. § s) pontját a 13/2019. (V. 31.) ITM rendelet 1. §-a iktatta be.
+[^1]: A 2. § f) pont fa) alpontja a 3/2023. (II. 23.) ÉKM rendelet 6. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § m) pontja a 13/2019. (V. 31.) ITM rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § n) pontja a 13/2019. (V. 31.) ITM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § o) pontja a 13/2019. (V. 31.) ITM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § p) pontja a 13/2019. (V. 31.) ITM rendelet 1. §-ával megállapított szöveg.
+[^6]: A 2. § q) pontja a 13/2019. (V. 31.) ITM rendelet 1. §-ával megállapított szöveg.
+[^7]: A 2. § r) pontja a 13/2019. (V. 31.) ITM rendelet 1. §-ával megállapított szöveg.
+[^8]: A 2. § s) pontját a 13/2019. (V. 31.) ITM rendelet 1. §-a iktatta be.
