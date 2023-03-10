@@ -20,6 +20,7 @@ b) a büntetés-végrehajtási intézet parancsnoka vagy a büntetés-végrehajt
 
 3. a hivatásos katasztrófavédelmi szervnél a főigazgató jár el a kinevezési jogkörébe tartozó vezető esetében, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti helyi szerv vezetőinek kivételével,
 
-4. a polgári nemzetbiztonsági szolgálatoknál a főigazgató jár el az általa vezetett polgári nemzetbiztonsági szolgálat teljes hivatásos állománya vonatkozásában.
+4.[^2]
 
 [^1]: A 2. § 1. pont d) alpontja az 50/2022. (XII. 27.) BM rendelet 11. §-a szerint módosított szöveg.
+[^2]: A 2. § 4. pontját a 4/2023. (III. 2.) MK rendelet 10. § a) pontja hatályon kívül helyezte.
