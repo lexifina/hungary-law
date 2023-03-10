@@ -1,1 +1,3 @@
-13. § Hatályát veszti az egyes műemlékek védetté nyilvánításáról, illetőleg műemléki védettség megszüntetéséről szóló 15/2000. (IX. 15.) NKÖM rendelet 10. §-a.
+13. §[^1]
+
+[^1]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
