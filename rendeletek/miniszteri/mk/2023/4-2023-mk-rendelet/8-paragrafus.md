@@ -1,0 +1,1 @@
+8. § Ha a folyamatban lévő parancsnoki nyomozás során olyan adat merül fel, amely alapján a parancsnok megítélése szerint előkészítő eljárás lefolytatásának lenne helye, a parancsnok előkészítő eljárást kezdeményezhet az annak lefolytatására hatáskörrel és illetékességgel rendelkező szervnél.
