@@ -1,1 +1,3 @@
-2. § A 217/2022. (VI. 17.) Korm. rendelet 10/A. § (3) bekezdésében a „megállapítását megelőzően” szövegrész helyébe a „megállapítását megelőzően – kivéve, ha a felhasználó a jogosultság hiányáról már nyilatkozott –” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
