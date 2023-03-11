@@ -14,6 +14,6 @@ c) a végső kedvezményezettet meghallgathatja.
 
 (5) A szabálytalansági eljárás felfüggesztésének időtartama a 203. § (2) bekezdése szerinti határidőbe nem számít be.
 
-(6)[^50] A nemzeti hatóság a szabálytalansági eljárás felfüggesztéséről és a felfüggesztés megszüntetéséről öt napon belül értesíti a kedvezményezettet.
+(6)[^51] A nemzeti hatóság a szabálytalansági eljárás felfüggesztéséről és a felfüggesztés megszüntetéséről öt napon belül értesíti a kedvezményezettet.
 
-[^50]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 30. pontjában foglalt azon módosítás, amely szerint 201. § (6) bekezdésében a „kezdeményezettet” szövegrész helyébe a „végső kezdeményezettet” szöveg lép, nem vezethető át.]
+[^51]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 30. pontjában foglalt azon módosítás, amely szerint 201. § (6) bekezdésében a „kezdeményezettet” szövegrész helyébe a „végső kezdeményezettet” szöveg lép, nem vezethető át.]

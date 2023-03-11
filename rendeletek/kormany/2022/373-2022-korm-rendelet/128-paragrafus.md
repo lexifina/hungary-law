@@ -6,14 +6,14 @@
 
 (3) A dinamikus beszerzési rendszer alapján megkötött szerződések ellenőrzése vonatkozásában a végső kedvezményezett a nemzeti hatóság, majd a közbeszerzésekért felelős miniszter utóellenőrzését kezdeményezi a 129. § és 130. § szerint.
 
-(4)[^44] A dinamikus beszerzési rendszer fennállása alatt benyújtott valamennyi részvételi jelentkezés esetén a kedvezményezett a közbeszerzésekért felelős miniszter utóellenőrzését kezdeményezi.
+(4)[^45] A dinamikus beszerzési rendszer fennállása alatt benyújtott valamennyi részvételi jelentkezés esetén a kedvezményezett a közbeszerzésekért felelős miniszter utóellenőrzését kezdeményezi.
 
 (5) A részvételi jelentkezések utóellenőrzése során – a (6) és (7) bekezdésben foglalt eltérésekkel – a 130. § (2)–(6) bekezdése és a 131. § megfelelően alkalmazandó.
 
-(6)[^45] A kedvezményezett a dinamikus beszerzési rendszerbe történő felvételről vagy annak elutasításáról hozott döntést követő öt munkanapon belül megküldi a részvételi jelentkezést és annak bírálatához kapcsolódó valamennyi dokumentumot a közbeszerzésekért felelős miniszter részére.
+(6)[^46] A kedvezményezett a dinamikus beszerzési rendszerbe történő felvételről vagy annak elutasításáról hozott döntést követő öt munkanapon belül megküldi a részvételi jelentkezést és annak bírálatához kapcsolódó valamennyi dokumentumot a közbeszerzésekért felelős miniszter részére.
 
-(7)[^46] A közbeszerzésekért felelős miniszter a (6) bekezdés szerinti dokumentumok kézhezvételét követő tizenkét munkanapon belül jelentést állít ki a részvételi jelentkezések elbírálásának közbeszerzési elszámolhatóságáról, amelyet megküld a kedvezményezett részére.
+(7)[^47] A közbeszerzésekért felelős miniszter a (6) bekezdés szerinti dokumentumok kézhezvételét követő tizenkét munkanapon belül jelentést állít ki a részvételi jelentkezések elbírálásának közbeszerzési elszámolhatóságáról, amelyet megküld a kedvezményezett részére.
 
-[^44]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint a 128. § (4) bekezdésében a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
-[^45]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint a 128. § (6) bekezdésében a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
-[^46]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint a 128. § (7) bekezdésében a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
+[^45]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint a 128. § (4) bekezdésében a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
+[^46]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint a 128. § (6) bekezdésében a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
+[^47]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint a 128. § (7) bekezdésében a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]

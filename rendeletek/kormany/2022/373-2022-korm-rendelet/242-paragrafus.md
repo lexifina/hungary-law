@@ -1,3 +1,3 @@
-242. §[^71]
+242. §[^72]
 
-[^71]: A 242. § a 463/2022. (XI. 15.) Korm. rendelet 34. § (2) bekezdése alapján nem lép hatályba.
+[^72]: A 242. § a 463/2022. (XI. 15.) Korm. rendelet 34. § (2) bekezdése alapján nem lép hatályba.

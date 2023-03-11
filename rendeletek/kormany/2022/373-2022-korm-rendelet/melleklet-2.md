@@ -10,11 +10,11 @@
 
 | 5. | IV. Vízgazdálkodás | Miniszterelnökség | területfejlesztési miniszter | Belügyminisztérium1, Agrárminisztérium | Nincs |
 
-| 6. | V. Fenntartható zöld közlekedés | Miniszterelnökség | területfejlesztési miniszter | Építési és Közlekedési Minisztérium[^74] | Nincs |
+| 6. | V. Fenntartható zöld közlekedés | Miniszterelnökség | területfejlesztési miniszter | Építési és Közlekedési Minisztérium[^75] | Nincs |
 
-| 7. | VI. Energetika (zöld átállás) | Miniszterelnökség | területfejlesztési miniszter | Energiaügyi Minisztérium[^75] | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság, Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Emberi Erőforrás Támogatáskezelő |
+| 7. | VI. Energetika (zöld átállás) | Miniszterelnökség | területfejlesztési miniszter | Energiaügyi Minisztérium[^76] | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság, Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Emberi Erőforrás Támogatáskezelő |
 
-| 8. | VII. Átállás a körforgásos gazdaságra | Miniszterelnökség | területfejlesztési miniszter | Energiaügyi Minisztérium[^76] | Nincs |
+| 8. | VII. Átállás a körforgásos gazdaságra | Miniszterelnökség | területfejlesztési miniszter | Energiaügyi Minisztérium[^77] | Nincs |
 
 | 9. | VIII. Egészségügy | Miniszterelnökség | területfejlesztési miniszter | Belügyminisztérium | Nincs |
 
@@ -22,7 +22,7 @@
 
 ## 1 Szakmai koordinációra kijelölt minisztérium
 
-2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^77]
+2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^78]
 
 Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
@@ -154,7 +154,7 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 8.7. szállító tényleges tulajdonosának születési dátuma
 
-[^74]: Az 1. mellékletben foglalt táblázat D:6 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^75]: Az 1. mellékletben foglalt táblázat D:7 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^76]: Az 1. mellékletben foglalt táblázat D:8 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
-[^77]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
+[^75]: Az 1. mellékletben foglalt táblázat D:6 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^76]: Az 1. mellékletben foglalt táblázat D:7 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^77]: Az 1. mellékletben foglalt táblázat D:8 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^78]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
