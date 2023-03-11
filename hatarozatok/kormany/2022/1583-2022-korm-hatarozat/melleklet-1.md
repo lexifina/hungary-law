@@ -14,33 +14,33 @@
 
 1. melléklet az 1583/2022. (XI. 30.) Korm. határozathoz
 
-1. A Magyar Honvédség részvételével tervezett, külföldi fegyveres erők átvonulásával is járó NATO, EU gyakorlatok és kiképzési rendezvények
+1.[^2] A Magyar Honvédség részvételével tervezett, külföldi fegyveres erők átvonulásával is járó NATO, EU gyakorlatok és kiképzési rendezvények
 
 |  | A | B | C | D | E | F | G | H |
 
 | 1. | A gyakorlat megnevezése | Felelős | A gyakorlat jellege | A gyakorlat tervezett helye (ország) | A gyakorlat tervezett időpontja (negyedév) | Külföldi helyszín esetén a Magyar Honvédség létszáma legfeljebb (fő) | Magyarországi helyszín esetén részt vevő külföldi fegyveres erő létszáma legfeljebb (fő) | Magyarországi áthaladás esetén áthaladó külföldi fegyveres erő létszáma legfeljebb (fő) |
 
-| 2. | AIR FIELD MANAGEMENT/ KERESZTKISZOLGÁLÁS | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | NATO- és EU-tagállamok | I–IV. | 50 | 100 | – |
+| 2. | AIR FIELD MANAGEMENT / KERESZTKISZOLGÁLÁS | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | NATO- és EU-tagállamok | I–IV. | 50 | 100 | – |
 
-| 3. | AIR DEFENDER | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Németország | II. és III. | 90 | – | – |
+| 3. | AIR DEFENDER | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Németország | II. és III. | 90 | – | – |
 
-| 4. | ARCTIC CHALLENGE | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Norvégia, Svédország, Finnország | II. és III. | 90 | – | – |
+| 4. | ARCTIC CHALLENGE | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Norvégia, Svédország, Finnország | II. és III. | 90 | – | – |
 
-| 5. | ARRCADE GLOBE | MH TTP/ MH GEOSZ | térképész gyakorlat | NATO-, EU-tagországok | II. és III. | 10 | – | – |
+| 5. | ARRCADE GLOBE | MH TTP | térképész gyakorlat | NATO- és EU-tagállamok | II. és III. | 10 | – | – |
 
-| 6. | BLACK SEA OPERATIONAL INTEGRATION Table Top Exercise (BSOI TTX) | MHP HDMCSF | térképen végrehajtott gyakorlat | Románia/Bulgária | I–IV. | 5 | – | – |
+| 6. | BLACK SEA OPERATIONAL INTEGRATION Table Top Exercise (BSOI TTX) | HVK HDMCSF | térképen végrehajtott, felsővezetői döntést előkészítő gyakorlás | Románia, Bulgária | I–IV. | 5 | – | – |
 
-| 7. | BRAVE BEDUIN | MH TTP/MH GAVIK | CBRN törzsvezetési gyakorlat | Dánia | II. | 5 | – | – |
+| 7. | BRAVE BEDUIN | MH SZFP | CBRN törzsvezetési gyakorlat | Dánia | II. | 5 | – | – |
 
 | 8. | CASUALTY MOVE | MH EK | egészségügyi gyakorlat | NATO- és EU-tagállamok (Észtország) | I. és II. | 30 | – | – |
 
-| 9. | CEDC-tagországok felkészítési és kiképzési rendezvényei, gyakorlatai | MHP KIKCSF | felkészítés, kiképzés | CEDC-tagországok | I–IV. | 65 | – | – |
+| 9. | CEDC-tagállamok felkészítési és kiképzési rendezvényei, gyakorlatai | HVK KIKCSF | felkészítés, kiképzés | CEDC-tagállamok | I–IV. | 65 | – | – |
 
 | 10. | CYBER COALITION | KNBSZ | kibervédelmi gyakorlat | Németország, Hollandia, Észtország, Magyarország | I–IV. | 12 | 20 | – |
 
-| 11. | CRISIS MANAGEMENT EXERCISE Short Notice Exercise | KNBSZ | Hadászati szintű törzsgyakorlás | NATO- és EU-tagállamok | III. és IV. | 30 | – | – |
+| 11. | CRISIS MANAGEMENT EXERCISE Short Notice Exercise | KNBSZ | hadászati szintű törzsgyakorlás | NATO- és EU-tagállamok | III. és IV. | 30 | – | – |
 
-| 12. | CROSSED SWORDS | MHP KIKCSF, NKE | kibervédelmi gyakorlat | NATO-tagállamok | I–IV. | 10 | – | – |
+| 12. | CROSSED SWORDS | HVK KIKCSF, NKE | kibervédelmi gyakorlat | NATO-tagállamok | I–IV. | 10 | – | – |
 
 | 13. | CYBER EUROPE | KNBSZ | kibervédelmi gyakorlat | EU-tagállamok | III. és IV. | 20 | – | – |
 
@@ -50,315 +50,337 @@
 
 | 16. | CYBER TESLA | KNBSZ | kibervédelmi gyakorlat | NATO- és EU-tagállamok, Szerbia, Magyarország | I–IV. | 20 | – | – |
 
-| 17. | CZECH LION | MHP HSZ SZF | Többnemzeti harcászati gyakorlat (V4) | Csehország | I–IV. | 120 | – | – |
+| 17. | CZECH LION | MH SZFP | többnemzeti harcászati gyakorlat (V4-tagállamok) | Csehország | I–IV. | 120 | – | – |
 
-| 18. | DECI tagországok felkészítési, kiképzési rendezvényei | MHP KIKCSF | Harcászati szintű gyakorlat | NATO- és EU-tagállamok | I–IV. | 90 | – | – |
+| 18. | DECI-tagállamok felkészítési, kiképzési rendezvényei | HVK KIKCSF | Harcászati szintű gyakorlat | NATO- és EU-tagállamok | I–IV. | 90 | – | – |
 
-| 19. | EDA Helikopteres kiképzések (Helicopter Tactical Instructor Course) | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Magyarország és NATO- és EU-tagállamok | I–IV. | – | 500 | – |
+| 19. | EDA Helikopteres kiképzések (Helicopter Tactical Instructor Course) | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Magyarország, NATO- és EU-tagállamok | I–IV. | – | 500 | – |
 
-| 20. | EDA Helicopter Exercise Program | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Magyarország és NATO- és EU-tagállamok | I–IV. | 50 | 50 | – |
+| 20. | EDA Helicopter Exercise Program | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Magyarország, NATO- és EU-tagállamok | I–IV. | 50 | 50 | – |
 
-| 21. | EDA Multinational Helicopter Training Centre | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Magyarország és NATO- és EU-tagállamok | I–IV. | 50 | 50 | – |
+| 21. | EDA Multinational Helicopter Training Centre | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Magyarország, NATO- és EU-tagállamok | I–IV. | 50 | 50 | – |
 
 | 22. | EDA MilCERT | KNBSZ | kibervédelmi gyakorlat | EU-tagállamok | I–IV. | 8 | – | – |
 
-| 23. | EU Közös Biztonság- és Védelempolitikai Program felkészítési, kiképzési rendezvényei és gyakorlatai | MHP KIKCSF | felkészítés, kiképzés | Magyarország, EU-tagállamok | I–IV. | 50 | 250 | 500 |
+| 23. | EU Közös Biztonság- és Védelempolitikai Program felkészítési, kiképzési rendezvényei és gyakorlatai | HVK KIKCSF | felkészítés, kiképzés | Magyarország, EU-tagállamok | I–IV. | 50 | 250 | 500 |
 
-| 24. | EU MILEX | MHP KIKCSF | törzsvezetési gyakorlat | Belgium | III. és IV. | 10 | – | – |
+| 24. | EU MILEX | HVK KIKCSF | törzsvezetési gyakorlat | Belgium | III. és IV. | 10 | – | – |
 
-| 25. | EU Multilayer | MHP KIKCSF | válságkezelési gyakorlat | NATO-, EU-tagállamok | I. és II. | 10 | – | – |
+| 25. | EU Multilayer | HVK KIKCSF | válságkezelési gyakorlat | NATO- és EU-tagállamok | I. és II. | 10 | – | – |
 
-| 26. | European Defence Agency (EDA) HOT BLADE helikopter gyakorlat | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Portugália | II. és III. | 90 | – | – |
+| 26. | European Defence Agency (EDA) HOT BLADE helikopter gyakorlat | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Portugália | II. és III. | 90 | – | – |
 
-| 27. | EUROPEAN DEFENCE AGENCY_PERSONNEL RECOVERY-EDUCATION & TRAINING COURSES | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | NATO-, EU-tagállamok, Magyarország | I–IV. | 50 | 50 | – |
+| 27. | EUROPEAN DEFENCE AGENCY_PERSONNEL RECOVERY-EDUCATION & TRAINING COURSES | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | NATO- és EU-tagállamok, Magyarország | I–IV. | 50 | 50 | – |
 
-| 28. | JLSG HQ törzsmegerősítő tartalék kiképzés | MHP LGCSF | logisztikai kiképzés | Németország, Olaszország, Csehország | I–IV. | 10 | – | – |
+| 28. | JLSG HQ törzsmegerősítő tartalék kiképzés | HVK LCSF | logisztikai kiképzés | Németország, Olaszország, Csehország | I–IV. | 10 | – | – |
 
-| 29. | Joint Project Optic Windmill (JPOW) légierő gyakorlat | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Hollandia, Németország | I. és II. | 30 | – | – |
+| 29. | Joint Project Optic Windmill (JPOW) légierő gyakorlat | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Hollandia, Németország | I. és II. | 30 | – | – |
 
-| 30. | LION EFFORT | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Svédország, Csehország | II. és III. | 90 | – | – |
+| 30. | LION EFFORT | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Svédország, Csehország | II. és III. | 90 | – | – |
 
 | 31. | LOCKED SHIELDS | KNBSZ | kibervédelmi gyakorlat | Észtország, Magyarország | I–IV. | 15 | – | – |
 
-| 32. | MATC (Multinational Aviation Training Centre) légierő gyakorlatok | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX/SIMEX | NATO- és EU-tagállamok | I–IV. | 70 | – | – |
+| 32. | MATC (Multinational Aviation Training Centre) légierő gyakorlatok | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX / SIMEX | NATO- és EU-tagállamok | I–IV. | 70 | – | – |
 
 | 33. | MEDEVAC gyakorlatok és kiképzések (”Emergency Medical Multinational Team” összekovácsoló gyakorlat) | MH EK | MEDEVAC helikopter gyakorlat | Belgium, Németország, Hollandia, Olaszország, Magyarország, Egyesült Királyság | I–IV. | 30 | 50 | – |
 
-| 34. | MEDICAL MAN | MH EK | többnemzeti egészségügyi gyakorlat | Csehország | I–IV. | 18 | – | – |
+| 34. | MEDICAL MAN | MH EK | többnemzeti egészségügyi gyakorlat | Csehország | I–IV. | 20 | – | – |
 
-| 35. | MISTRAL NATO CAPEVAL képességellenőrző gyakorlat | MHP HSZ LE (MH LEP) | képességellenőrző gyakorlat | Magyarország | II. és III. | – | 200 | – |
+| 35. | MISTRAL NATO CAPEVAL képességellenőrző gyakorlat | MH LEP | képességellenőrző gyakorlat | Magyarország | II. és III. | – | 200 | – |
 
 | 36. | Mobil Biológiai Laboratórium (MBL) NATO Response Force | MH EK | (NRF) minősítő gyakorlat | NATO-tagállamok | III. | 15 | – | – |
 
-| 37. | MOVCON MILU | MHP HSZ LOG | szállítás tervezői gyakorlat | NATO-, EU-tagállamok | I–IV. | 5 | – | – |
+| 37. | MOVCON MILU | MH TTP | szállítás tervezői gyakorlat | NATO- és EU-tagállamok | I–IV. | 10 | – | – |
 
-| 38. | Multidomain Operations in Urban Environment Wargaming exercise | MH TP | hadijáték | Olaszország | I. | 8 | – | – |
+| 38. | Multidomain Operations in Urban Environment Wargaming exercise | MH HTP | hadijáték | Olaszország | I. | 8 | – | – |
 
-| 39. | MULTINATIONAL AIR GROUP légierő harcászati gyakorlat | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Németország | I–IV. | 90 | – | – |
+| 39. | MULTINATIONAL AIR GROUP légierő harcászati gyakorlat | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Németország | I–IV. | 90 | – | – |
 
-| 40. | NATINAMDS gyakorlatok (RAMSTEIN AMBITION, TORREJON ADVANTAGE, KALKAR SKY, DEU JFAC felajánlás) | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX/CAX/CPX | NATO- és EU-tagállamok | I–IV. | 250 | – | – |
+| 40. | NATINAMDS gyakorlatok (RAMSTEIN AMBITION, TORREJON ADVANTAGE, KALKAR SKY, DEU JFAC felajánlás) | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX / CAX / CPX | NATO- és EU-tagállamok | I–IV. | 250 | – | – |
 
-| 41. | NATO C-IED felkészítési rendezvények, gyakorlatok | MHP HDMCSF/ MHP HSZ SZF/ MH AA | improvizált robbanóeszközök elleni felkészítések | NATO- és EU-tagállamok, Magyarország | I–IV. | 25 | 30 | – |
+| 41. | NATO C-IED felkészítési rendezvények, gyakorlatok | MH SZFP / MH HTP / MH AA | improvizált robbanóeszközök elleni felkészítések | NATO- és EU-tagállamok, Magyarország | I–IV. | 25 | 30 | – |
 
-| 42. | NATO Coalition Warrior Interoperability Exercise (CWIX) | MHP IICSF | interoperabilitási gyakorlat | Lengyelország | II. | 60 | – | – |
+| 42. | NATO Coalition Warrior Interoperability Exercise (CWIX) | HVK IICSF | interoperabilitási gyakorlat | Lengyelország | II. | 60 | – | – |
 
-| 43. | NATO METOC Seminar | MH TTP/ MH GEOSZ | meteorológiai gyakorlat | Belgium | II. | 5 | – | – |
+| 43. | NATO METOC Seminar | MH TTP / MH LMVIK | meteorológiai gyakorlat | Belgium | II. | 5 | – | – |
 
-| 44. | NATO Response Force (NRF) CBRN felkészítés | MH TTP/ MH GAVIK | CBRN felkészítés | Németország, NATO-, EU-tagállamok | I–IV. | 30 | – | – |
+| 44. | NATO Response Force (NRF) CBRN felkészítés | MH SZFP | CBRN felkészítés | Németország, NATO- és EU-tagállamok | I–IV. | 30 | – | – |
 
-| 45. | NATO Response Force (NRF) Különleges Művelet készenléti szolgálatok felkészülései, gyakorlatai | MHP HSZ KM | különleges műveleti gyakorlat | NATO- és EU-tagállamok | I–IV. | 150 | – | – |
+| 45. | NATO Response Force (NRF) Különleges Művelet készenléti szolgálatok felkészülései, gyakorlatai | MH ÖKMP | különleges műveleti gyakorlat | NATO- és EU-tagállamok | I–IV. | 150 | – | – |
 
-| 46. | NATO Response Force (VJTF/NRF 2023 DEU JFAC/SOATG (HQ)) Légierő felkészülései, gyakorlatai | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX/CAX/CPX | NATO- és EU-tagállamok | I–IV. | 150 | – | – |
+| 46. | NATO Response Force (VJTF/NRF 2023 DEU JFAC/SOATG (HQ)) Légierő felkészülései, gyakorlatai | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX / CAX / CPX | NATO- és EU-tagállamok | I–IV. | 150 | – | – |
 
-| 47. | NATO Response Force (VJTF/NRF) 2024-ben szolgálatba lépő állomány felkészítési, kiképzési rendezvényei | MHP HDMCSF | Felajánlott erők felkészítése | NATO- és EU-tagállamok | I–IV. | 90 | – | – |
+| 47. | NATO Response Force (VJTF/NRF) 2024-ben szolgálatba lépő állomány felkészítési, kiképzési rendezvényei | HVK ÖMVIK | Felajánlott erők felkészítése | NATO- és EU-tagállamok | I–IV. | 90 | – | – |
 
-| 48. | NATO TIGER MEET légierő harcászati gyakorlat | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Olaszország | I. és II. | 90 | – | – |
+| 48. | NATO TIGER MEET légierő harcászati gyakorlat | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Olaszország | I. és II. | 90 | – | – |
 
-| 49. | NATO–szerb gyakorlat (RESOLVE) | MHP KIKCSF/MH TTP/MH 2. TVE | harcászati gyakorlat | Szerbia | III. és IV. | 60 | – | – |
+| 49. | NATO–szerb gyakorlat (RESOLVE) | HVK KIKCSF / MH TTP | harcászati gyakorlat | Szerbia | III. és IV. | 60 | – | – |
 
-| 50. | NCO Winter/Summer Training | MHP vez. zls. | altiszti kiképzés | Szlovénia, Horvátország | I–III. | 5 | – | – |
+| 50. | NCO Winter/Summer Training | MH vez. zls. | altiszti kiképzés | Szlovénia, Horvátország | I–III. | 5 | – | – |
 
-| 51. | NEWFIP (RAMSTEIN GUARD) | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Magyarország, Szlovénia és NATO-tagállamok | I. és II. | – | 300 | 50 |
+| 51. | NEWFIP (RAMSTEIN GUARD) | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Magyarország, Szlovénia és NATO-tagállamok | I. és II. | – | 300 | 50 |
 
-| 52. | NOBLE/BRILLIANT BLUEPRINT Table Top Exercise | MHP HDMCSF | törzsvezetési gyakorlat | NATO-tagállamok | II. és III. | 25 | – | – |
+| 52. | NOBLE/BRILLIANT BLUEPRINT Table Top Exercise | HVK HDMCSF | törzsvezetési gyakorlat | NATO-tagállamok | II. és III. | 25 | – | – |
 
-| 53. | NOBLE JUMP SOCC | MHP HSZ KM | NRF 23 telepíthetőséget ellenőrző gyakorlat | Olaszország, Szardínia | I. | 30 | – | – |
+| 53. | NOBLE JUMP SOCC | MH ÖKMP | NRF 23 telepíthetőséget ellenőrző gyakorlat | Olaszország, Szardínia | I. | 30 | – | – |
 
-| 54. | NORTHERN STRIKE | MHP HSZ KM | Sarkvidéki környezetben végrehajtott gyakorlat | USA | II. | 20 | – | – |
+| 54. | NORTHERN STRIKE | MH ÖKMP | Sarkvidéki környezetben végrehajtott gyakorlat | USA | II. | 20 | – | – |
 
-| 55. | NORTHERN SPIRIT Kísérleti / parancsnoki/ | KNBSZ | kísérleti, parancsnoki törzsvezetési gyakorlat | Izland, Hollandia | I–IV. | 10 | – | – |
+| 55. | NORTHERN SPIRIT Kísérleti/parancsnoki | KNBSZ | kísérleti, parancsnoki törzsvezetési gyakorlat | Izland, Hollandia | I–IV. | 10 | – | – |
 
-| 56. | RAVENS CHALLENGE amerikai tűzszerész eljárások megismerése, gyakorlása | MHP HSZ SZF | tűzszerész harcászati gyakorlat | USA | II. és III. | 5 | – | – |
+| 56. | RAVENS CHALLENGE amerikai tűzszerész eljárások megismerése, gyakorlása | MH SZFP | tűzszerész harcászati gyakorlat | USA | II. és III. | 5 | – | – |
 
-| 57. | Sampling and Identification of Biological Chemical and Radiological Agents (SIBCRA) gyakorlat | MH TTP/MH GAVIK | SIBCRA gyakorlat | Olaszország, Hollandia | I–IV. | 20 | – | – |
+| 57. | Sampling and Identification of Biological Chemical and Radiological Agents (SIBCRA) gyakorlat | MH SZFP | SIBCRA gyakorlat | Olaszország, Hollandia | I–IV. | 20 | – | – |
 
-| 58. | SMART DEFENCE 1.29 | MH TTP/MH GAVIK | CBRN gyakorlat | Lengyelország, Szlovákia, Olaszország, Csehország | I–IV. | 10 | – | – |
+| 58. | SMART DEFENCE 1.29 | MH SZFP | CBRN gyakorlat | Lengyelország, Szlovákia, Olaszország, Csehország | I–IV. | 10 | – | – |
 
-| 59. | SOATU nemzetközi kiképzések | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX/CAX/CPX | NATO- és EU-tagállamok, Magyarország | I–IV. | 50 | 50 | – |
+| 59. | SOATU nemzetközi kiképzések | MH ÖKMP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX / CAX / CPX | NATO- és EU-tagállamok, Magyarország | I–IV. | 50 | 50 | – |
 
 | 60. | STEADFAST COBALT | NFIU HUN | CIS gyakorlat | Lengyelország | II. | 5 | – | – |
 
-| 61. | STEADFAST FLOW | NFIU HUN/ MH TTP/MH KKK | NATO, stratégiai, mozgástervező, CAX gyakorlat | Törökország | III. | 10 | – | – |
+| 61. | STEADFAST FLOW | NFIU HUN / MH TTP | NATO, stratégiai, mozgástervező, CAX gyakorlat | Törökország | III. | 10 | – | – |
 
-| 62. | STEADFAST FOUNT | NFIU HUN/ MH TTP/MH KKK | NATO, stratégiai, mozgástervező, CAX gyakorlat | Belgium | II. | 10 | – | – |
+| 62. | STEADFAST FOUNT / FOXTROTT | NFIU HUN / MH TTP | NATO, stratégiai, mozgástervező, CAX gyakorlat | Belgium | II. | 10 | – | – |
 
-| 63. | STEADFAST INTEREST | KNBSZ/ MHP HSZ SZF | valós erőkkel végrehajtott felderítő gyakorlat | Lengyelország, Románia, Spanyolország | II. és III. | 40 | – | – |
+| 63. | STEADFAST INTEREST | KNBSZ / MH SZFP | valós erőkkel végrehajtott felderítő gyakorlat | Lengyelország, Románia, Spanyolország | II. és III. | 40 | – | – |
 
-| 64. | STEADFAST JUPITER I–II | MHP HSZ SZF/ NFIU HUN/MH GAVIK/ MH TTP/MHP HSZ LE/HQ MND-C/MH MI/MHP HSZ KIB | összhaderőnemi NATO Response Force (NRF) minősítő gyakorlat | NATO-tagállamok, Norvégia és a Baltikum | II. és III. | 150 | – | – |
+| 64. | STEADFAST JUPITER | HVK KIKCSF / NFIU HUN / MH SZFP / MH LEP / HQ MND-C / MH HTP / MH KIBP | összhaderőnemi NATO Response Force (NRF) minősítő gyakorlat | NATO-tagállamok, Norvégia és a Baltikum | II–IV. | 200 | – | – |
 
 | 65. | SWEEPSTAKES | KNBSZ | interoperabilitási gyakorlat | NATO- és EU-tagállamok, Szlovénia | III. | 5 | – | – |
 
-| 66. | SWINGING SWORD légvédelmi rakéta éleslövészet | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Lengyelország | II. és III. | 150 | – | – |
+| 66. | SWINGING SWORD légvédelmi rakéta éleslövészet | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Lengyelország | II. és III. | 150 | – | – |
 
-| 67. | TACTICAL LEADERSHIP PROGRAM (TLP21) harcászati szintű nemzetközi repülő képzés | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX/CAX/CPX | Spanyolország | I–IV. | 50 | – | – |
+| 67. | TACTICAL LEADERSHIP PROGRAM (TLP21) harcászati szintű nemzetközi repülő képzés | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX / CAX / CPX | Spanyolország | I–IV. | 50 | – | – |
 
-| 68. | UNIFIED VISION | KNBSZ | Többnemzeti, többszintű, számítógéppel támogatott gyakorlat | NATO- és EU-tagállamok, Magyarország | I. és II. | 10 | 5 | – |
+| 68. | UNIFIED VISION | KNBSZ | többnemzeti, többszintű, számítógéppel támogatott gyakorlat | NATO- és EU-tagállamok, Magyarország | I. és II. | 10 | 5 | – |
 
-| 69. | V4 EU BG 2023. állománya felkészítési, kiképzési rendezvényei | MHP HDMCSF/ MHP KIKCSF | Felajánlott erők felkészítése | NATO- és EU-tagállamok | I–IV. | 200 | – | – |
+| 69. | V4 EU BG 2023. állománya felkészítési, kiképzési rendezvényei | HVK ÖMVIK / HVK KIKCSF | felajánlott erők felkészítése | NATO- és EU-tagállamok | I–IV. | 200 | – | – |
 
-2. A Magyar Honvédség és külföldi fegyveres erők részvételével tervezett, külföldi fegyveres erők átvonulásával is járó két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések
+| 70. | NATO/EU felkészítések, kiképzések, Célkezelő törzsmegerősítés, Összhaderőnemi Tűzmegfigyelő (Joint Fire Observer) felkészítés | HVK ÖMVIK | célkezelő felkészítés, összhaderőnemi tűzmegfigyelő felkészítés | NATO- és EU-tagállamok | II–IV. | 70 | – | – |
+
+| 71. | GRIFFIN gyakorlatsorozat | NFIU HUN, HQ MND-C, HVK KIKCSF | parancsnoki és törzsvezetési gyakorlat | NATO- és EU-tagállamok Lengyelország, Baltikum, Németország | I–IV. | 30 | – | – |
+
+2.[^3] A Magyar Honvédség és külföldi fegyveres erők részvételével tervezett, külföldi fegyveres erők átvonulásával is járó, két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések
 
 |  | A | B | C | D | E | F | G | H |
 
 | 1. | A gyakorlat megnevezése | Felelős | A gyakorlat jellege | A gyakorlat tervezett helye (ország) | A gyakorlat tervezett időpontja (negyedév) | Külföldi helyszín esetén a Magyar Honvédség létszáma legfeljebb (fő) | Magyarországi helyszín esetén részt vevő külföldi fegyveres erő létszáma legfeljebb (fő) | Magyarországi áthaladás esetén áthaladó külföldi fegyveres erő létszáma legfeljebb (fő) |
 
-| 2. | ADAPTIVE INTERACTION | MHP HSZ KIB | CIMIC törzsvezetési gyakorlat | Olaszország | II. és III. | 10 | – | – |
+| 2. | ADAPTIVE INTERACTION | MH KIBP | CIMIC törzsvezetési gyakorlat | Olaszország | II. és III. | 10 | – | – |
 
-| 3. | ADRIATIC STRIKE, (JTAC/CAS) gyakorlat | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX/CAX/CPX | Szlovénia | II. | 70 | – | – |
+| 3. | ADRIATIC STRIKE, (JTAC/CAS) gyakorlat | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX / CAX / CPX | Szlovénia | II. | 70 | – | – |
 
-| 4. | AGILE SPIRIT | MHP KIKCSF | többnemzeti számítógéppel támogatott parancsnoki és törzsvezetési gyakorlat/ LIVEX | Georgia | II. és III. | 20 | – | – |
+| 4. | AGILE SPIRIT | HVK KIKCSF | többnemzeti számítógéppel támogatott parancsnoki és törzsvezetési gyakorlat / LIVEX | Georgia | II. és III. | 20 | – | – |
 
-| 5. | Air to Air Refueling Recurrency Training légi utántöltési gyakorlat | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Magyarország, NATO- és EU-tagállamok | I–IV. | 30 | 30 | – |
+| 5. | Air to Air Refueling Recurrency Training légi utántöltési gyakorlat | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Magyarország, NATO- és EU-tagállamok | I–IV. | 30 | 30 | – |
 
-| 6. | AIR WOLF HUNTING Regionális Légi Kutató-mentő gyakorlás | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Magyarország | III. | – | 120 | – |
+| 6. | AIR WOLF HUNTING Regionális Légi Kutató-mentő gyakorlás | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Magyarország | III. | – | 120 | – |
 
-| 7. | ALLIED SPIRIT | MH TP, MH TTP/MHP HSZ KIB/MH KIMK | többnemzeti terepen végrehajtott gyakorlat | Németország | I. | 60 | – | – |
+| 7. | ALLIED SPIRIT | MH TTP / MH KIBP | többnemzeti terepen végrehajtott gyakorlat | Németország | I. | 60 | – | – |
 
-| 8. | AMPLE STRIKE Közvetlen légi támogatás (Close Air Support, CAS) előkészítésének és végrehajtásának gyakorlása | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Csehország | III. | 20 | – | – |
+| 8. | AMPLE STRIKE Közvetlen légi támogatás (Close Air Support, CAS) előkészítésének és végrehajtásának gyakorlása | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Csehország | III. | 20 | – | – |
 
-| 9. | ANAKONDA/ DRAGON gyakorlat | MHP HSZ SZF | harcászati gyakorlat | Lengyelország | I–III. | 50 | – | – |
+| 9. | ANAKONDA/DRAGON gyakorlat | MH SZFP | harcászati gyakorlat | Lengyelország | I–III. | 50 | – | – |
 
-| 10. | ANATOLIAN EAGLE/PHOENIX légierő gyakorlat | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Törökország | I–III. | 50 | – | – |
+| 10. | ANATOLIAN EAGLE/PHOENIX légierő gyakorlat | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Törökország | I–III. | 50 | – | – |
 
-| 11. | ARDENT DEFENDER | MHP HSZ SZF | tűzszerész gyakorlat | Kanada | III. | 5 | – | – |
+| 11. | ARDENT DEFENDER | MH SZFP | tűzszerész gyakorlat | Kanada | III. | 5 | – | – |
 
-| 12. | ATP-45 manuális értékelő felkészítő nemzetközi felkészítés | MH TTP/MH GAVIK | ABV kiképzés | Magyarország | II. | – | 25 | – |
+| 12. | ATP-45 manuális értékelő felkészítő nemzetközi felkészítés | MH SZFP | ABV kiképzés | Magyarország | II. | – | 25 | – |
 
-| 13. | BEDROCK | MHP LOGCSF | valós befogadó nemzeti támogatást megvalósító gyakorlat | A DE23 tervezése szerint NATO-, EU-tagországok | I–IV. | 150 | 80 | – |
+| 13. | BEDROCK | HVK LCSF | valós befogadó nemzeti támogatást megvalósító gyakorlat | A DEFENDER EUROPE 23 tervezése szerint NATO- és EU-tagállamok | I–IV. | 150 | 80 | – |
 
-| 14. | Belga térítéses gyakorlat | MHP HSZ SZF/MH TP | térítéses gyakorlat | Magyarország | I–IV. | – | 200 | – |
+| 14. | Belga térítéses gyakorlat | MH SZFP / MH TTP / HVK KIKCSF | térítéses gyakorlat | Magyarország | I–IV. | – | 200 | – |
 
-| 15. | BISON COUNTER | MHP HDMCSF/MHP HSZ SZF/MH AA | többnemzeti C-IED gyakorlat | NATO- és EU-tagállamok, Magyarország | IV. | 30 | 50 | – |
+| 15. | BISON COUNTER | MH SZFP / MH HTP / MH AA | többnemzeti C-IED gyakorlat | NATO- és EU-tagállamok, Magyarország | IV. | 30 | 50 | – |
 
-| 16. | BLACK SWAN/JACKAL CAVE | MHP HSZ KM | különleges műveleti gyakorlat | Magyarország, NATO-, EU-tagállamok | II. és III. | 70 | 300 | 120 |
+| 16. | BLACK SWAN / JACKAL CAVE | MH ÖKMP | különleges műveleti gyakorlat | Magyarország, NATO- és EU-tagállamok | II. és III. | 70 | 300 | 120 |
 
-| 17. | BLASTING CAP | MHP HSZ SZF | Amerikai–Magyar tűzszerész közös kiképzés | Németország, Magyarország, NATO-, EU-tagállamok | I–IV. | 20 | 10 | – |
+| 17. | BLASTING CAP | MH SZFP | Amerikai–magyar tűzszerész közös kiképzés | Németország, Magyarország, NATO- és EU-tagállamok | I–IV. | 20 | 10 | – |
 
-| 18. | BLUE HORIZON légierő törzsvezetési gyakorlat | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / CAX/CPX | Magyarország | IV. | – | 80 | – |
+| 18. | BLUE HORIZON légierő törzsvezetési gyakorlat | MH LEP | Légierő / Harcászati szintű gyakorlat / CAX / CPX | Magyarország | IV. | – | 80 | – |
 
-| 19. | BOLD QUEST, (DACAS) JTAC gyakorlat | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | NATO- és EU-tagállamok, Ausztrália | II. és IV. | 20 | – | – |
+| 19. | BOLD QUEST, (DACAS) JTAC gyakorlat | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | NATO- és EU-tagállamok, Ausztrália | II. és IV. | 20 | – | – |
 
-| 20. | BRAVE WARRIOR | MHP HSZ SZF/HQ MND-C | szárazföldi harcászati gyakorlat eVA BG gyakorlata | Magyarország, Szlovákia | I–IV. | – | 1 100 | – |
+| 20. | A NATO kiemelt éberségi tevékenysége keretében Magyarországon települt Többnemzeti Harccsoport (eVA BG) magyarországi gyakorlatai (ideértve a BRAVE WARRIOR I–II gyakorlatot) | MH SZFP / HQ MND-C | szárazföldi harcászati gyakorlat eVA BG gyakorlata | Magyarország, Szlovákia | I–IV. | 50 | 5000 | – |
 
-| 21. | BREAKTHROUGH | MHP HSZ SZF | többnemzeti éleslövészettel egybekötött harcászati gyakorlat | Magyarország | I–III. | – | 500 | – |
+| 21. | BREAKTHROUGH | MH SZFP | többnemzeti éleslövészettel egybekötött harcászati gyakorlat | Magyarország | I–III. | – | 500 | – |
 
-| 22. | Brit–Magyar–amerikai közös légierő felkészítés (HUNGARY PUMA, CENTRAL HAWK CARPATHIAN HAWK FLYING SWORD MAGYAR–BRIT REPÜLŐ HARCÁSZATI REPÜLŐ KIKÉPZÉS) | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | USA, Egyesült Királyság, Magyarország | I–IV. | 50 | 500 | – |
+| 22. | Brit–magyar–amerikai közös légierő felkészítés (HUNGARY PUMA, CENTRAL HAWK CARPATHIAN HAWK FLYING SWORD MAGYAR–BRIT REPÜLŐ HARCÁSZATI REPÜLŐ KIKÉPZÉS) | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | USA, Egyesült Királyság, Magyarország | I–IV. | 50 | 500 | – |
 
-| 23. | BROKEN WING | MHP HSZ LE MHP KIKCSF | légiközlekedés vészhelyzeti gyakorlat | Szlovénia | II. és III. | 5 | – | – |
+| 23. | BROKEN WING | MH LEP / HVK KIKCSF | légiközlekedés vészhelyzeti gyakorlat | Szlovénia | II. és III. | 5 | – | – |
 
-| 24. | Bulk Fuel Installation (BFI) kiképzések, felkészítések | MH TTP/MH ARB | közös kiképzés | Németország, Magyarország | I–IV. | 50 | 45 | – |
+| 24. | Bulk Fuel Installation (BFI) kiképzések, felkészítések | MH TTP / MH ARB | közös kiképzés | Németország, Magyarország | I–IV. | 50 | 45 | – |
 
-| 25. | CETATEA | MHP HSZ SZF/MHP IICSF | vezetés-irányítási (Federated Mission Network) gyakorlat | Románia | III. és IV. | 40 | – | – |
+| 25. | CETATEA | HVK IICSF | vezetés-irányítási (Federated Mission Network) gyakorlat | Románia | III. és IV. | 40 | – | – |
 
-| 26. | CLEAN CARE | MH EK | ABV egészségügyi gyakorlat | NATO-, EU-tagállamok | I. és II. | 10 | – | – |
+| 26. | CLEAN CARE | MH EK | ABV egészségügyi gyakorlat | NATO- és EU-tagállamok | I. és II. | 10 | – | – |
 
-| 27. | CLEARANCE DIVER | MHP HSZ SZF | búvárgyakorlat | Horvátország, Magyarország | I–IV. | 10 | 10 | – |
+| 27. | CLEARANCE DIVER | MH SZFP | búvár gyakorlat | Horvátország, Magyarország | I–IV. | 10 | 10 | – |
 
 | 28. | Combined Joint European Exercise (CJEX) | NKE | törzsvezetési gyakorlat | Olaszország, Franciaország, Spanyolország, Németország, Anglia | II. | 45 | – | – |
 
 | 29. | Common Joint Effort Exercise | NKE | számítógéppel támogatott nemzetközi törzsvezetési gyakorlat | Szlovákia, Lengyelország, Észtország, Németország | I–III. | 15 | – | – |
 
-| 30. | CROSS LANDING román–magyar légi kutató-mentő gyakorlat | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Magyarország, Románia | I–IV. | 30 | 50 | – |
+| 30. | CROSS LANDING román–magyar légi kutató-mentő gyakorlat | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Magyarország, Románia | I–IV. | 30 | 50 | – |
 
-| 31. | DEFENDER EUROPE 23 gyakorlat sorozat (SWIFT RESPONSE, IMMEDIATE RESPONSE, SABER GUARDIAN, JACKAL STONE, ASTRAL KNIGHT) | MHP KIKCSF | harcászati gyakorlat | NATO- és EU-tagállamok | II–IV. | 250 | 800 | 1 500 |
+| 31. | DEFENDER EUROPE 23 gyakorlatsorozat (SWIFT RESPONSE, IMMEDIATE RESPONSE, SABER GUARDIAN, JACKAL STONE, ASTRAL KNIGHT, QUADRIGA) | HVK KIKCSF | közös kiképzés | NATO- és EU-tagállamok, Magyarország | II–IV. | 250 | 1200 | 1500 |
 
-| 32. | DIGITAL SHIELDS | MHP HSZ KIB | többnemzeti, kibervédelmi gyakorlat | Magyarország | I. | – | 10 | – |
+| 32. | DIGITAL SHIELDS | MH KIBP | többnemzeti kibervédelmi gyakorlat | Magyarország | I. | – | 10 | – |
 
-| 33. | DIGITÁLIS CSAPÁS | MHP HSZ KIB | többnemzeti kiberműveleti gyakorlat | Magyarország | III. és IV. | – | 10 | – |
+| 33. | DIGITÁLIS CSAPÁS | MH KIBP | többnemzeti kiberműveleti gyakorlat | Magyarország | III. és IV. | – | 10 | – |
 
-| 34. | The contribution of Cyber in Hybrid Conflict törzsgyakorlás | MHP HSZ KIB | kiber törzsgyakorlás | Finnország | I. és II. | 2 | – | – |
+| 34. | The contribution of Cyber in Hybrid Conflict törzsgyakorlás | MH KIBP | kiber törzsgyakorlás | Finnország | I. és II. | 2 | – | – |
 
-| 35. | DYNAMIC FRONT | MHP HSZ SZF | tüzér törzsvezetési gyakorlat | Németország, Dánia | I–III. | 60 | – | – |
+| 35. | DYNAMIC FRONT | MH SZFP | tüzér törzsvezetési gyakorlat | Németország, Dánia | I–III. | 60 | – | – |
 
-| 36. | EFES | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX/CAX/CPX | Törökország | I–IV. | 25 | – | – |
+| 36. | EFES | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX / CAX / CPX | Törökország | I–IV. | 25 | – | – |
 
-| 37. | Ejtőernyős nemzetközi kiképzések | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | NATO- és EU-tagállamok, Magyarország | I–IV. | 100 | 180 | – |
+| 37. | Ejtőernyős nemzetközi kiképzések | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | NATO- és EU-tagállamok, Magyarország | I–IV. | 100 | 180 | – |
 
-| 38. | FLINTLOCK | MHP HSZ KM | többnemzeti KM gyakorlat | NATO- és EU-tagállamok, Afrika | I–III. | 35 | – | – |
+| 38. | FLINTLOCK | MH ÖKMP | többnemzeti KM gyakorlat | NATO- és EU-tagállamok, Afrika | I–III. | 35 | – | – |
 
-| 39. | FOURLOG | NKE | logisztikai gyakorlat | Ausztria, Magyarország, Cseh Köztársaság | I. | 40 | 20 | – |
+| 39. | FOURLOG | NKE | logisztikai gyakorlat | Ausztria, Magyarország, Csehország | I. | 40 | 20 | – |
 
-| 40. | Haderőfejlesztési és Honvédelmi Programhoz kapcsolódó kiképzési felkészítési rendezvények Leopard-2, PZH-2000; LYNX, felderítő eszközök, H145M, H225M, NASAMS, ELM-2084, KC-390, KM vízi eszközök, kezelőszemélyzetek, alegységek, ejtőernyős nemzetközi felkészítése | MHP KIKCSF MHP HSZ SZF MHP HSZ LE MHP HSZ LOG MHP HSZ KM KNBSZ | terepen valós erőkkel végrehajtott gyakorlatok, felkészítési, kiképzési rendezvények | NATO-, EU-tagállamok, Magyarország | I–IV. | 500 | 50 | – |
+| 40. | Haderőfejlesztési és Honvédelmi Programhoz kapcsolódó kiképzési felkészítési rendezvények Leopard-2, PZH-2000; LYNX, felderítő eszközök, H145M, H225M, NASAMS, ELM-2084, KC-390, KM vízi eszközök, kezelőszemélyzetek, alegységek, ejtőernyős nemzetközi felkészítése | HVK KIKCSF / HVK LCSF / MH SZFP / MH LEP / MH ÖKMP / KNBSZ | terepen valós erőkkel végrehajtott gyakorlatok, felkészítési, kiképzési rendezvények | NATO- és EU-tagállamok, Magyarország | I–IV. | 500 | 75 | – |
 
-| 41. | Holland térítéses gyakorlat I–II. | MHP HSZ SZF/MH TP | térítéses gyakorlat | Magyarország | I–IV. | 800 | – | – |
+| 41. | Holland térítéses gyakorlat I–II. | MH SZFP / MH TTP / HVK KIKCSF | térítéses gyakorlat | Magyarország | I–IV. | 800 | – | – |
 
-| 42. | Horvát–Szlovák–Magyar KM búvár kiképzés | MHP HSZ KM | búvárkiképzés | Horvátország/ Szlovákia/ Magyarország | III. és IV. | 15 | 10 | – |
+| 42. | Horvát–Szlovák–Magyar KM búvár kiképzés | MH ÖKMP | búvár kiképzés | Horvátország, Szlovákia, Magyarország | III. és IV. | 15 | 10 | – |
 
-| 43. | HUN–USA közös kiképzés többnemzeti részvétellel (STEPPE ARCHER, TURUL PARTNER) | MHP HSZ LE /HSZ SZF | Harcászati gyakorlat / LIVEX | Magyarország | I–IV. | – | 600 | – |
+| 43. | HUN–USA közös kiképzés többnemzeti részvétellel (STEPPE ARCHER, TURUL PARTNER) | MH LEP / MH SZFP | Harcászati gyakorlat / LIVEX | Magyarország | I–IV. | – | 600 | – |
 
 | 44. | IANUS | KNBSZ | valós erőkkel, terepen végrehajtott harcászati gyakorlat | Magyarország | II. és III. | – | 50 | – |
 
-| 45. | INFORMATIONSLEHRÜBUNG/ AUSBILDUNGLEHRÜBUNG (ILÜ/ALÜ) logisztikai demonstrációs gyakorlat | MHP HSZ LOG | logisztikai gyakorlat | Németország | III. | 100 | – | – |
+| 45. | INFORMATIONSLEHRÜBUNG/ AUSBILDUNGLEHRÜBUNG (ILÜ/ALÜ) logisztikai demonstrációs gyakorlat | HVK LCSF | logisztikai gyakorlat | Németország | III. | 100 | – | – |
 
-| 46. | INTERCEPTOR Air Policing gyakorlat | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Magyarország, Románia | I–IV. | 15 | 15 | – |
+| 46. | INTERCEPTOR Air Policing gyakorlat | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Magyarország, Románia | I–IV. | 15 | 15 | – |
 
-| 47. | International Survey Networking Exercise | MH TTP | többnemzeti, kibervédelmi gyakorlat | Ausztria | II. és III. | 5 | – | – |
+| 47. | International Survey Networking Exercise | MH TTP | többnemzeti kibervédelmi gyakorlat | Ausztria | II. és III. | 5 | – | – |
 
-| 48. | IRON CAT szerb–magyar közös flottilla gyakorlat | MHP HSZ SZF | harcászati gyakorlat | Szerbia, Magyarország | III. | 35 | 35 | – |
+| 48. | IRON CAT szerb–magyar közös flottilla gyakorlat | MH SZFP | harcászati gyakorlat | Szerbia, Magyarország | III. | 35 | 35 | – |
 
-| 49. | JOLLY VIHAR magyar–amerikai közös helikopter fedélzetéről negyedévente végrehajtott éleslövészet és CSAR gyakorlat | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX, harci Kutató-mentő | Magyarország | I–IV. | – | 300 | – |
+| 49. | JOLLY VIHAR magyar–amerikai közös helikopter fedélzetéről negyedévente végrehajtott éleslövészet és CSAR gyakorlat | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX, harci Kutató-mentő | Magyarország | I–IV. | – | 300 | – |
 
-| 50. | JOINT COOPERATION | MHP HSZ KIB | többnemzeti terepen végrehajtott CIMIC gyakorlat | Németország | II. és III. | 8 | – | – |
+| 50. | JOINT COOPERATION | MH KIBP | többnemzeti terepen végrehajtott CIMIC gyakorlat | Németország | II. és III. | 8 | – | – |
 
-| 51. | JTAC/SOTAC/TACP előretolt/harcászati repülésirányító kiképzés | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Magyarország, NATO- és EU-tagállamok | I–IV. | 100 | 100 | – |
+| 51. | JTAC/SOTAC/TACP előretolt/harcászati repülésirányító kiképzés | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Magyarország, NATO- és EU-tagállamok | I–IV. | 100 | 100 | – |
 
-| 52. | Kadét csapatgyakorlat Saint Cyr-i Katonai Akadémiával történő együttműködés keretében cserekiképzés | MHP HSZ SZF | közös kiképzés | Magyarország | I. | – | 10 | – |
+| 52. | Kadét csapatgyakorlat Saint Cyr-i Katonai Akadémiával, Osztrák Maria Theresian Military Academy | MH SZFP | közös kiképzés | Magyarország | II., III. és IV. | – | 20 | – |
 
-| 53. | KHAAN QUEST | MHP KIKCSF | többnemzeti harcászati gyakorlat | Mongólia | II. és III. | 15 | – | – |
+| 53. | KHAAN QUEST | HVK KIKCSF | többnemzeti harcászati gyakorlat | Mongólia | II. és III. | 15 | – | – |
 
-| 54. | Különleges Műveleti mesterlövész kiképzések | MHP HSZ KM | mesterlövész kiképzés | Magyarország, NATO- és EU-tagállamok | I–IV. | 35 | 45 | – |
+| 54. | Különleges Műveleti mesterlövész kiképzések | MH ÖKMP | mesterlövész kiképzés | Magyarország, NATO- és EU-tagállamok | I–IV. | 35 | 45 | – |
 
-| 55. | LORD MOUNTAIN szlovén–magyar helikopter kiképzés | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Szlovénia | I–III. | 30 | – | – |
+| 55. | LORD MOUNTAIN szlovén–magyar helikopter kiképzés | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Szlovénia | I–III. | 30 | – | – |
 
 | 56. | MADRIGAL | HQ MND-C | számítógéppel támogatott törzsvezetési gyakorlat | Horvátország | I. | 50 | – | – |
 
 | 57. | MAGLITE | NKE | többnemzeti logisztikai kiképzés | Nagy-Britannia, Magyarország | II. és IV. | 30 | 30 | – |
 
-| 58. | Magyar–amerikai különleges műveleti közös kiképzés és felkészítés | MHP HSZ KM | különleges műveleti kiképzés | NATO- és EU-tagállamok | I–IV. | 120 | 50 | – |
+| 58. | Magyar–amerikai különleges műveleti közös kiképzés és felkészítés | MH ÖKMP | különleges műveleti kiképzés | NATO- és EU-tagállamok | I–IV. | 120 | 50 | – |
 
-| 59. | Magyar–belga KM/RL közös kiképzés és felkészítés | MHP HSZ KM | különleges műveleti kiképzés | NATO- és EU-tagállamok | I–IV. | 50 | 50 | – |
+| 59. | Magyar–belga KM/RL közös kiképzés és felkészítés | MH ÖKMP | különleges műveleti kiképzés | NATO- és EU-tagállamok | I–IV. | 50 | 50 | – |
 
-| 60. | MH hajózó állomány magashegyi kondicionáló és túlélő kiképzése | MMHP KIKCSF MHP HSZ KM | túlélő kiképzés | Bulgária | I. és II. | 60 | – | – |
+| 60. | MH hajózó állomány magashegyi kondicionáló és túlélő kiképzése | HVK KIKCSF / MH LEP / MH ÖKMP | túlélő kiképzés | Bulgária | I. és II. | 60 | – | – |
 
-| 61. | NEIGHBOURS | MHP HSZ SZF | magyar–szerb–amerikai szakasz szintű cserekiképzés | Szerbia, Magyarország | II–IV. | 30 | 30 | – |
+| 61. | NEIGHBOURS | MH SZFP | magyar–szerb–amerikai szakasz szintű cserekiképzés | Szerbia, Magyarország | II–IV. | 30 | 30 | – |
 
-| 62. | Nemzetközi logisztikai törzsfelkészítések és gyakorlatok | MHP LGCSF | törzsfelkészítés | Belgium, Hollandia, Törökország, Németország | I–IV. | 10 | – | – |
+| 62. | Nemzetközi logisztikai törzsfelkészítések és gyakorlatok | HVK LCSF | törzsfelkészítés | Belgium, Hollandia, Törökország, Németország | I–IV. | 10 | – | – |
 
 | 63. | NEW BASTION | HQ MND-C | törzsgyakorlás | Magyarország, Szlovákia, Horvátország | I–IV. | 120 | 150 | – |
 
-| 64. | Olasz helikopteres térítéses gyakorlat | MHP HSZ LE (MH LEP) | térítéses gyakorlat | Magyarország | I–IV. | – | 300 | – |
+| 64. | Olasz helikopteres térítéses gyakorlat | MH LEP | térítéses gyakorlat | Magyarország | I–IV. | – | 300 | – |
 
-| 65. | OHANG KC-135 FAMILIARIZATION TRAINING | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Magyarország | I–IV. | – | 100 | – |
+| 65. | OHANG KC-135 FAMILIARIZATION TRAINING | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Magyarország | I–IV. | – | 100 | – |
 
-| 66. | Operation Resolute Castle | MH HSZ SZF | amerikai-magyar közös műszaki gyakorlat | Magyarország | I–IV. | – | 50 | – |
+| 66. | Operation Resolute Castle | MH SZFP | amerikai–magyar közös műszaki gyakorlat | Magyarország | I–IV. | – | 50 | – |
 
-| 67. | részvétel a többnemzeti együttműködés keretében a pakisztáni fegyveres erők szervezésében végrehajtásra kerülő kiképzési rendezvényeken | MHP KIKCSF | közös kiképzés | Pakisztán/ Magyarország | I–IV. | 30 | 20 | – |
+| 67. | részvétel a többnemzeti együttműködés keretében a pakisztáni fegyveres erők szervezésében végrehajtásra kerülő kiképzési rendezvényeken | HVK KIKCSF | közös kiképzés | Pakisztán, Magyarország | I–IV. | 30 | 20 | – |
 
 | 68. | PLATINUM WOLF | MH TTP | békeműveleti harcászati gyakorlat | Szerbia | II. és III. | 50 | – | – |
 
-| 69. | POWERFUL WORLD | KIBSZ | harcászati törzsgyakorlás | Csehország | IV. | 5 | – | – |
+| 69. | POWERFUL WORLD | MH KIBP | harcászati törzsgyakorlás | Csehország | IV. | 10 | – | – |
 
-| 70. | PUMA | MHP HSZ SZF | V4 összhaderőnemi gyakorlat | Lengyelország | I–IV. | 200 | – | – |
+| 70. | PUMA | MH SZFP | V4 összhaderőnemi gyakorlat | Lengyelország | I–IV. | 200 | – | – |
 
-| 71. | PURPLE FIELD | MHP HSZ SZF | CBRN gyakorlat | Szerbia | II. és III. | 50 | – | – |
+| 71. | PURPLE FIELD | MH SZFP | CBRN gyakorlat | Szerbia | II. és III. | 50 | – | – |
 
-| 72. | SAFETY FUEL | MHP TTP/MH ARB | logisztikai gyakorlat | Németország az AIR DEFENDER 23 gyakorlat keretében | II. és III. | 30 | 50 | – |
+| 72. | SAFETY FUEL | MH TTP / MH ARB | logisztikai gyakorlat | Németország az AIR DEFENDER 23 gyakorlat keretében | II. és III. | 30 | 50 | – |
 
-| 73. | SAFETY TRANSPORT | MHP HSZ LOG | logisztikai gyakorlat | Németország, Magyarország, Horvátország | I–III. | 130 | 150 | – |
+| 73. | SAFETY TRANSPORT | MH TTP | logisztikai gyakorlat | Németország, Magyarország, Horvátország | I–III. | 130 | 150 | – |
 
-| 74. | SÁRARANY MEZŐ | MHP HSZ SZF | vegyivédelmi gyakorlat | Szlovákia | I. és II. | 50 | – | – |
+| 74. | SÁRARANY MEZŐ | MH SZFP | vegyivédelmi gyakorlat | Szlovákia | I. és II. | 50 | – | – |
 
 | 75. | SAVA STAR | MH TTP | többnemzeti (tartalékos) harcászati gyakorlat | Horvátország, Szerbia, Egyesült Királyság, Magyarország | I–III. | 300 | 150 | – |
 
-| 76. | SHARP LYNX | MH TTP | terepen végrehajtásra tervezett éleslövészettel egybekötött harcászati gyakorlat | V4-tagországok | III. és IV. | 20 | 60 | 200 |
+| 76. | SHARP LYNX | HVK KRI | katonai rendész gyakorlat | V4-tagállamok | II–IV. | 30 | 60 | 200 |
 
-| 77. | SLOVAK SHIELD | MHP HSZ SZF | V4 harcászati gyakorlat | Szlovákia/ Magyarország | I. és II. | 120 | 110 | – |
+| 77. | SLOVAK SHIELD | MH SZFP | V4 harcászati gyakorlat | Szlovákia, Magyarország | I. és II. | 120 | 110 | – |
 
-| 78. | SOFT CAPS | MHP HSZ KIB | nemzetközi CIMIC, Kiber és PSYOPS gyakorlat | Magyarország | II. | – | 80 | – |
+| 78. | SOFT CAPS | MH KIBP | nemzetközi CIMIC, Kiber és PSYOPS gyakorlat | Magyarország | II. | – | 80 | – |
 
-| 79. | SOTAC (JTAC) | MHP HSZ KM | többnemzeti különleges műveleti kiképzés | NATO- és EU-tagállamok | I–IV. | 10 | – | – |
+| 79. | SOTAC (JTAC) | MH ÖKMP | többnemzeti különleges műveleti kiképzés | NATO- és EU-tagállamok | I–IV. | 10 | – | – |
 
-| 80. | STRONG BASTION | HQ MND-C/ MHP KIKCSF | Közép-európai Többnemzeti Hadosztály-parancsnokság minősítő gyakorlata | Magyarország/ Horvátország, Szlovákia | II. | 150 | 150 | 200 |
+| 80. | STRONG BASTION | HQ MND-C / HVK KIKCSF | Közép-európai Többnemzeti Hadosztályparancsnokság minősítő gyakorlata | Magyarország, Horvátország, Szlovákia | II. | 150 | 150 | 200 |
 
-| 81. | STRONG WILL | KNBSZ | Harcászati szintű, mélységi/ csapatfelderítő szakasz/század szintű, nemzetközi gyakorlat | Magyarország | III. és IV. | – | 180 | – |
+| 81. | STRONG WILL | KNBSZ | Harcászati szintű, mélységi/csapatfelderítő szakasz/század szintű, nemzetközi gyakorlat | Magyarország | III. és IV. | – | 180 | – |
 
 | 82. | SUMMER RECONNAISSANCE TRAINING GROUPING | KNBSZ | terepen végrehajtott harcászati gyakorlat | Lengyelország | II. | 50 | – | – |
 
-| 83. | SZLOVÁK/HORVÁT MAGASHEGYI HELIKOPTERES KIKÉPZÉSEK | MHP HSZ LE (MH LEP) | Légierő / Harcászati szintű gyakorlat / LIVEX/ AIREX | Szlovákia/ Horvátország | I–III. | 50 | – | – |
+| 83. | SZLOVÁK/HORVÁT MAGASHEGYI HELIKOPTERES KIKÉPZÉSEK | MH LEP | Légierő / Harcászati szintű gyakorlat / LIVEX / AIREX | Szlovákia, Horvátország | I–III. | 50 | – | – |
 
-| 84. | Szlovák–Magyar közös búvár kiképzés | MHP HSZ SZF | közös búvárkiképzés | Szlovákia, Magyarország | I–III. | 12 | 15 | – |
+| 84. | Szlovák–Magyar közös búvár kiképzés | MH SZFP | közös búvár kiképzés | Szlovákia, Magyarország | I–III. | 20 | 20 | – |
 
-| 85. | TIMRAC CBRN gyakorlat | HP HSZ SZF | CBRN gyakorlat | Ausztria | II. és III. | 10 | – | – |
+| 85. | TIMRAC CBRN gyakorlat | MH SZFP | CBRN gyakorlat | Ausztria | II. és III. | 10 | – | – |
 
-| 86. | TOXIC LANCE vegyivédelmi gyakorlat | MHP HSZ SZF | vegyivédelmi gyakorlat | Szlovákia | II. | 45 | – | – |
+| 86. | TOXIC LANCE vegyivédelmi gyakorlat | MH SZFP | vegyivédelmi gyakorlat | Szlovákia | II. | 45 | – | – |
 
-| 87. | TOXIC VALLEY gyakorlat | MHP HSZ SZF | SICA/SIBCRA vegyivédelmi gyakorlat | Szlovákia | III. | 40 | – | – |
+| 87. | TOXIC VALLEY gyakorlat | MH SZFP | SICA/SIBCRA vegyivédelmi gyakorlat | Szlovákia | III. | 40 | – | – |
 
-| 88. | FORT, FLINTLOCK, KOBRA | MHP HSZ KM | Többnemzeti harcászati különleges műveleti gyakorlatok | NATO- és EU-tagállamok, Afrika Lengyelország, Szenegál | I–IV. | 200 | – | – |
+| 88. | FORT, FLINTLOCK, KOBRA | MH ÖKMP | többnemzeti harcászati különleges műveleti gyakorlatok | NATO- és EU-tagállamok, Afrika, Lengyelország, Szenegál | I–IV. | 200 | – | – |
 
-| 89. | Többnemzeti Szárazföldi Kötelék (Multinational Land Force – MLF) gyakorlatai és kiképzési rendezvényei (CLEVER FERRET) | MHP HSZ SZF/NKE | harcászati gyakorlat | Szlovénia, Olaszország, Magyarország | I–IV. | 120 | 250 | – |
+| 89. | Többnemzeti Szárazföldi Kötelék (Multinational Land Force – MLF) gyakorlatai és kiképzési rendezvényei (CLEVER FERRET) | MH SZFP / NKE | harcászati gyakorlat | Szlovénia, Olaszország, Magyarország | I–IV. | 120 | 250 | – |
 
-| 90. | TRIGLAV STAR | HSZ SZF/HSZ KM, KNBSZ | terepen végrehajtott harcászati gyakorlat | Szlovénia | III. és IV. | 50 | – | – |
+| 90. | TRIGLAV STAR | MH SZFP / MH ÖKMP / KNBSZ | terepen végrehajtott harcászati gyakorlat | Szlovénia | III. és IV. | 50 | – | – |
 
-| 91. | Tűzszerész felkészítés | MHP HSZ SZF | tűzszerész felkészítés | NATO-, EU-tagállamok | I–IV. | 25 | 10 | – |
+| 91. | Tűzszerész felkészítés | MH SZFP | tűzszerész felkészítés | NATO- és EU-tagállamok | I–IV. | 25 | 10 | – |
 
-| 92. | US OHNG gyakorlat | MHP HDMCSF/MH TTP | katasztrófavédelmi gyakorlat | USA, Magyarország | I–IV. | 150 | 80 | – |
+| 92. | US OHNG gyakorlat | HVK HDMCSF /MH TTP | katasztrófavédelmi gyakorlat | USA, Magyarország | I–IV. | 150 | 150 | – |
 
-| 93. | US OHNG Erők Védelme (FP) felkészítés | MHP HDMCSF/ | harcászati kiképzés | USA | II–IV. | 20 | – | – |
+| 93. | US OHNG Erők Védelme (FP) felkészítés | HVK HDMCSF /MH TTP | harcászati kiképzés | USA | II–IV. | 20 | – | – |
 
 | 94. | VALIANT LYNX | HQ MND-C | számítógéppel támogatott törzsvezetési gyakorlat | Magyarország, Spanyolország | IV. | 80 | 600 | – |
 
-| 95. | V4 kiképzési rendezvények | MHP KIKCSF | harcászati gyakorlat | EU, V4-tagországok | I–IV. | 120 | 330 | – |
+| 95. | V4 kiképzési rendezvények | HVK KIKCSF | harcászati gyakorlat | EU-, V4-tagállamok | I–IV. | 120 | 330 | – |
 
-| 96. | V4 JLSG HQ felkészítések | MHP LGCSF | logisztikai kiképzések | NATO-, EU-tagországok (V4-nemzetek) | I–IV. | 20 | – | – |
+| 96. | V4 JLSG HQ felkészítések | HVK LCSF | logisztikai kiképzések | NATO- és EU-tagállamok (V4-tagállamok) | I–IV. | 20 | – | – |
 
 | 97. | V4 Mapping | MH TTP | térképész gyakorlat | Magyarország | IV. | 5 | – | – |
 
-| 98. | VIKING | MHP HSZ KIB | számítógéppel támogatott törzsvezetési gyakorlat (CIMIC) | Svédország | I–IV. | 2 | – | – |
+| 98. | VIKING | MH KIBP | számítógéppel támogatott törzsvezetési gyakorlat (CIMIC) | Svédország | I–IV. | 2 | – | – |
 
-| 99. | WISE FORESIGHT román–magyar békefenntartó zászlóalj gyakorlata | MHP HSZ SZF | harcászati gyakorlat | Magyarország és Románia | III. és IV. | 35 | 45 | – |
+| 99. | WISE FORESIGHT román–magyar békefenntartó zászlóalj gyakorlata | MH SZFP | harcászati gyakorlat | Magyarország, Románia | III. és IV. | 35 | 45 | – |
 
-| 100. | YGGDRASIL | MHP HSZ KIB | PSYOPS gyakorlat | Dánia | I. és II. | 8 | – | – |
+| 100. | YGGDRASIL | MH KIBP | PSYOPS gyakorlat | Dánia | I. és II. | 10 | – | – |
+
+| 101. | PROUD JUMP | MH TTP | Harcászati, többnemzeti, zászlóalj szintű, RSOM (csapatok fogadása, állomásoztatása és előrevonása) típusú, többnemzeti | Németország, Csehország | I. | 10 | – | – |
+
+| 102. | Német–magyar ISR | KNBSZ | felderítő gyakorlat terepen (LIVEX) | Németország, Magyarország | I–IV. | 30 | 50 | – |
+
+| 103. | ENGINEER THUNDER | MH SZFP | műszaki gyakorlat terepen (LIVEX) | Litvánia | III. | 20 | – | – |
+
+| 104. | US OHNG katasztrófavédelmi gyakorlat | HVK HDMCSF | katasztrófavédelmi gyakorlat | USA | II–IV. | 5 | – | – |
+
+| 105. | MOON STAR | MH TTP | tartalékos harcászati gyakorlat US erőkkel | Magyarország | II–IV. | – | 60 | – |
+
+| 106. | JOINT STAR | MH KIBP | Small Joint Operation (SJO) végrehajtása nemzetközi környezetben | Olaszország | II. | 10 | – | – |
+
+| 107. | DOUBLE EAGLE | MH SZFP | egyéni, szakmai vegyivédelmi felkészítés | Szerbia | II–IV. | 10 | – | – |
+
+| 108. | Bundeswehr MP modul kiképzés | HVK KRI | katonai rendészeti intézkedés taktikai, személyvédelmi és gépjárművezetési kiképzés | Németország, Magyarország | II–IV. | 25 | 35 | – |
+
+| 109. | ANATOLIAN KM gyakorlat | MH ÖKMP | Különleges Műveleti gyakorlat | Törökország | II. és III. | 30 | – | – |
 
 3. Külföldi fegyveres erők átvonulása
 
@@ -433,3 +455,5 @@
 | 9. | HQ MND-C által szervezett magyarországi gyakorlatok | I–IV. | 500 |
 
 [^1]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet 1. pontja az 1069/2023. (III. 10.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 1. melléklet 2. pontja az 1069/2023. (III. 10.) Korm. határozat 1. pontjával megállapított szöveg.

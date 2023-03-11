@@ -1,55 +1,47 @@
-2. melléklet az 1583/2022. (XI. 30.) Korm. határozathoz
+2. melléklet az 1583/2022. (XI. 30.) Korm. határozathoz[^4]
 
 Az 1. melléklet 1. és 2. pontja szerinti felelős szervek rövid megjelölése
 
 1. HQ MND-C: Közép-európai Többnemzeti Hadosztály-parancsnokság
 
-2. KNBSZ: Katonai Nemzetbiztonsági Szolgálat
+2. HVK HDMCSF: Honvéd Vezérkar Hadműveleti Csoportfőnökség
 
-3. MH 2. TVE: Magyar Honvédség 2. vitéz Vattay Antal Területvédelmi Ezred
+3. HVK IICSF: Honvéd Vezérkar Infokommunikációs és Információvédelmi Csoportfőnökség
 
-4. MH AA: Magyar Honvédség Altiszti Akadémia
+4. HVK KIKCSF: Honvéd Vezérkar Kiképzési Csoportfőnökség
 
-5. MH ARB: Magyar Honvédség Anyagellátó Raktárbázis
+5. HVK KRI: Honvéd Vezérkar Katonai Rendészeti Iroda
 
-6. MH EK: Magyar Honvédség Egészségügyi Központ
+6. HVK LCSF: Honvéd Vezérkar Logisztikai Csoportfőnökség
 
-7. MH GAVIK: Magyar Honvédség Görgei Artúr Vegyivédelmi Információs Központ
+7. HVK ÖMVIK: Honvéd Vezérkar Összhaderőnemi Műveletvezető és Irányító Központ
 
-8. MH GEOSZ: Magyar Honvédség Geoinformációs Szolgálat
+8. KNBSZ: Katonai Nemzetbiztonsági Szolgálat
 
-9. MH KIMK: Magyar Honvédség Kiber- és Információs Műveleti Központ
+9. MH AA: Magyar Honvédség Altiszti Akadémia
 
-10. MH KKK: Magyar Honvédség Katonai Közlekedési Központ
+10. MH ARB: Magyar Honvédség Anyagellátó Raktárbázis
 
-11. MH LEP: MH Légierő Parancsnokság
+11. MH EK: Magyar Honvédség Egészségügyi Központ
 
-12. MH MI: MH Modernizációs Intézet
+12. MH HTP: MH Haderőmodernizációs és Transzfromációs Parancsnokság
 
-13. MH TP: Magyar Honvédség Transzformációs Parancsnokság
+13. MH KIBP: MH Kiberműveleti Parancsnokság
 
-14. MH TTP: Magyar Honvédség Tartalékképző és Támogató Parancsnokság
+14. MH LMVIK: Magyar Honvédség Légi Műveleti Vezetési és Irányítási Központ
 
-15. MHP HDMCSF: Magyar Honvédség Parancsnoksága Hadműveleti Csoportfőnökség
+15. MH LEP: MH Légierő Parancsnokság
 
-16. MHP HSZ KIB: Magyar Honvédség Parancsnoksága Haderőnemi Szemlélőség (Kibervédelmi)
+16. MH ÖKMP: MH Összhaderőnemi Különleges Műveleti Parancsnokság
 
-17. MHP HSZ KM: Magyar Honvédség Parancsnoksága Haderőnemi Szemlélőség (Különleges Műveleti)
+17. MH SZFP: MH Szárazföldi Parancsnokság
 
-18. MHP HSZ LE: Magyar Honvédség Parancsnoksága Haderőnemi Szemlélőség (Légierő)
+18. MH TTP: Magyar Honvédség Tartalékképző és Támogató Parancsnokság
 
-19. MHP HSZ LOG: Magyar Honvédség Parancsnoksága Haderőnemi Szemlélőség (Logisztikai)
+19. MH vez. zls.: Magyar Honvédség Vezénylő Zászlósa
 
-20. MHP HSZ SZF: Magyar Honvédség Parancsnoksága Haderőnemi Szemlélőség (Szárazföldi)
+20. NFIU HUN: NATO Force Integration Unit Hungary (Magyarországon települő NATO Erőket Integráló Elem)
 
-21. MHP IICSF: Magyar Honvédség Parancsnoksága Infokommunikációs és Információvédelmi Csoportfőnökség
+21. NKE: Nemzeti Közszolgálati Egyetem
 
-22. MHP KIKCSF: Magyar Honvédség Parancsnoksága Kiképzési Csoportfőnökség
-
-23. MHP LGCSF: Magyar Honvédség Parancsnoksága Logisztikai és Gazdálkodási Csoportfőnökség
-
-24. MHP vez. zls.: Magyar Honvédség Parancsnoksága Vezénylő Zászlós
-
-25. NFIU HUN: NATO Force Integration Unit Hungary (Magyarországon települő NATO Erőket Integráló Elem)
-
-26. NKE: Nemzeti Közszolgálati Egyetem
+[^4]: A 2. melléklet az 1069/2023. (III. 10.) Korm. határozat 2. pontjával megállapított szöveg.
