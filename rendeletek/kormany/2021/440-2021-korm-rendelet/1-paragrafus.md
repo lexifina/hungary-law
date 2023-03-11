@@ -12,9 +12,9 @@ e) Modern Mintaüzem Program folytatása;
 
 f) a zöldgazdasághoz kapcsolódni képes vállalkozások célzott fejlesztése és a Zöld Nemzeti Bajnokok Program megvalósítása;
 
-g) stratégiailag kiemelt ágazatok megerősítését célzó programok bevezetése és
+g)[^1] stratégiailag kiemelt ágazatok megerősítését célzó programok bevezetése
 
-h) a Tanítsunk Magyarországért Program folytatása.
+h)[^2]
 
 (2) Az IFKA (1) bekezdésben meghatározott feladatai nem terjednek ki az elsődlegesen digitalizációs célú fejlesztésekben való közreműködésre, különösen a Digitális Megújulás Operatív Program Plusz keretében megvalósuló, mikro-, kis- és középvállalkozások fejlesztését célzó projektekre.
 
@@ -33,3 +33,6 @@ e) a vállalkozásfejlesztési programokkal kapcsolatos ügyfélszolgálati és 
 f) a vállalkozói szakmai portál fejlesztését, fenntartását és működtetését és
 
 g) a vállalkozói tudásbővítést célzó képzési és szemléletformálási tevékenységek megvalósítását.
+
+[^1]: Az 1. § (1) bekezdés g) pontja a 69/2023. (III. 10.) Korm. rendelet 5. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 4. §-át.
+[^2]: Az 1. § (1) bekezdés h) pontját a 69/2023. (III. 10.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 4. §-át.
