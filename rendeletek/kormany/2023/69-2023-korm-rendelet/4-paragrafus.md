@@ -1,0 +1,7 @@
+4. § (1) Az IFKA Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: IFKA) a Program megvalósítása során a tulajdonába került és a Program megvalósításához szükséges eszközöket és szellemi alkotásokat, védjegyeket, szellemi termékeket és a kapcsolódó tulajdonjogokat, használati jogokat, amelyekre az NTK igényt tart, és a feladat szakmai megvalósításához feltétlenül szükséges, ingyenesen átadja az e rendelet hatálybalépését követő 30. napig.
+
+(2) Az IFKA a Program 2023. évi megvalósításához biztosított forrást több ütemben utalja át az NTK részére. Az IFKA a Program elszámolással érintett részösszegére vonatkozó elszámolást az e rendelet hatálybalépését követő 30. napig benyújtja a Nemzeti Szakképzési és Felnőttképzési Hivatal részére, amely intézkedik az elszámolás legkésőbb 2023. május 31-éig történő elfogadása érdekében. Az IFKA az elszámolás elfogadását követően 5 munkanapon belül a forrás fennmaradó részét átadja az NTK részére. Az IFKA a Program elszámolással nem érintett részösszegét az e rendelet hatálybalépését követő 30. napig átutalja az NTK részére.
+
+(3) Az e rendelet hatálybalépését megelőzően megkötött, a Programhoz kapcsolódó feladatok korábbi ellátásából adódó, átadásra nem kerülő szerződések elszámolási kötelezettségeit az IFKA a továbbiakban is teljesíti.
+
+(4) A 2023. évre vonatkozó, 2. § (2) bekezdése szerinti megállapodásnak legkésőbb az e rendelet hatálybalépését követő 30. napig kell megtörténnie.
