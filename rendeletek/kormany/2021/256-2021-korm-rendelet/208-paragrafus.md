@@ -8,15 +8,15 @@
 
 (4) A dinamikus beszerzési rendszer alapján megkötött szerződések ellenőrzése vonatkozásában a kedvezményezett az irányító hatóság, majd a közbeszerzésekért felelős miniszter utóellenőrzését kezdeményezi a 209. § és 210. § szerint.
 
-(5)[^120] A dinamikus beszerzési rendszer fennállása alatt benyújtott valamennyi részvételi jelentkezés esetén a kedvezményezett a közbeszerzésekért felelős miniszter utóellenőrzését kezdeményezi.
+(5)[^121] A dinamikus beszerzési rendszer fennállása alatt benyújtott valamennyi részvételi jelentkezés esetén a kedvezményezett a közbeszerzésekért felelős miniszter utóellenőrzését kezdeményezi.
 
-(6)[^121] A részvételi jelentkezések utóellenőrzése során – a (7) és (8) bekezdésben foglalt eltérésekkel – a 210. § (2)–(6) bekezdése és a 211. § megfelelően alkalmazandó.
+(6)[^122] A részvételi jelentkezések utóellenőrzése során – a (7) és (8) bekezdésben foglalt eltérésekkel – a 210. § (2)–(6) bekezdése és a 211. § megfelelően alkalmazandó.
 
-(7)[^122] A kedvezményezett a dinamikus beszerzési rendszerbe történő felvételről vagy annak elutasításáról hozott döntést követő öt munkanapon belül megküldi a részvételi jelentkezést és annak bírálatához kapcsolódó valamennyi dokumentumot a közbeszerzésekért felelős miniszter részére.
+(7)[^123] A kedvezményezett a dinamikus beszerzési rendszerbe történő felvételről vagy annak elutasításáról hozott döntést követő öt munkanapon belül megküldi a részvételi jelentkezést és annak bírálatához kapcsolódó valamennyi dokumentumot a közbeszerzésekért felelős miniszter részére.
 
-(8)[^123] A közbeszerzésekért felelős miniszter a (7) bekezdés szerinti dokumentumok kézhezvételét követő tizenkét munkanapon belül jelentést állít ki a részvételi jelentkezések elbírálásának közbeszerzési elszámolhatóságáról, amelyet megküld a kedvezményezett részére.
+(8)[^124] A közbeszerzésekért felelős miniszter a (7) bekezdés szerinti dokumentumok kézhezvételét követő tizenkét munkanapon belül jelentést állít ki a részvételi jelentkezések elbírálásának közbeszerzési elszámolhatóságáról, amelyet megküld a kedvezményezett részére.
 
-[^120]: A 208. § (5) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be.
-[^121]: A 208. § (6) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be.
-[^122]: A 208. § (7) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be.
-[^123]: A 208. § (8) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be.
+[^121]: A 208. § (5) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be.
+[^122]: A 208. § (6) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be.
+[^123]: A 208. § (7) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be.
+[^124]: A 208. § (8) bekezdését a 319/2022. (VIII. 16.) Korm. rendelet 5. §-a iktatta be.
