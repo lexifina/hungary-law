@@ -2,8 +2,8 @@
 
 (1a)[^661] A DKÜ rendelet 13. § (1) bekezdés b) pontja szerinti beszerzések esetében az (1) bekezdés szerinti tanúsítvánnyal egyenértékű az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter jóváhagyása is, ha arra a DKÜ rendelet 5. § (9) bekezdése szerinti miniszteri rendelet lehetőséget biztosít.
 
-(2)[^662] Az ÁAFK Kr. szerinti soron kívüli alkalmazásfejlesztés esetén az (1) bekezdés szerinti tanúsítvány helyett a soron kívüliség bejelentése is mellékelhető. Ha a támogató tanúsítványt az ÁAFK Kr. szerinti szerv a 101. § (5) bekezdése szerinti előterjesztés elbírálásának ideje alatt megadta vagy megtagadta, az (1) bekezdés szerinti szervezet köteles azt a közbeszerzésekért felelős miniszter részére soron kívül megküldeni.
+(2)[^662]
 
 [^660]: A 101/B. §-t a a 314/2018. (XII. 27.) Korm. rendelet 28. § (2) bekezdése iktatta be.
 [^661]: A 101/B. § (1a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 2. § (4) bekezdése iktatta be.
-[^662]: A 101/B. § (2) bekezdése a 153/2019. (VI. 26.) Korm. rendelet 32. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^662]: A 101/B. § (2) bekezdését a 72/2023. (III. 10.) Korm. rendelet 4. §-a hatályon kívül helyezte.
