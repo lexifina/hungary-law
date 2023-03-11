@@ -1,0 +1,1 @@
+4. § A települési önkormányzatot a 2. § (2) bekezdése szerinti fajlagos összegek figyelembevételével megillető kiegészítő támogatás összege a települési önkormányzat által teljesített, az Ávr. alapján kiadott tájékoztatóban szereplő évközi előirányzat-módosítások szerint módosul.
