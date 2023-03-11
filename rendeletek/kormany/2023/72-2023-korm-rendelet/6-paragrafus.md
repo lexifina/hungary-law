@@ -1,0 +1,3 @@
+6. § Az R3. 8. alcíme a következő 30/D. §-sal egészül ki:
+
+„30/D. § Az állami alkalmazás-fejlesztésekkel, valamint a központosított informatikai és elektronikus hírközlési szolgáltatásokkal összefüggő kormányrendeletek módosításáról szóló 72/2023. (III. 10.) Korm. rendelet hatálybalépésének napján folyamatban lévő, az ÁAFK Kr. 2022. december 31-én hatályos rendelkezései szerinti soron kívüli alkalmazásfejlesztés esetén, ha annak helye van, és a támogató tanúsítványt az ÁAFK Kr. szerinti szerv a beszerzési igény elbírálása ideje alatt megadta vagy megtagadta, az érintett szervezet köteles – a Portálra történő feltöltéssel – a miniszter részére soron kívül megküldeni.”

@@ -1,0 +1,5 @@
+## 2. A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet módosítása
+
+3. § A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet (a továbbiakban: R2.) 66. alcíme a következő 201/ZF. §-sal egészül ki:
+
+„201/ZF. § Az állami alkalmazás-fejlesztésekkel, valamint a központosított informatikai és elektronikus hírközlési szolgáltatásokkal összefüggő kormányrendeletek módosításáról szóló 72/2023. (III. 10.) Korm. rendelet hatálybalépésének napján folyamatban lévő, az ÁAFK Kr. 2022. december 31-én hatályos rendelkezései szerinti soron kívüli alkalmazásfejlesztés esetén, ha a támogató tanúsítványt az ÁAFK Kr. szerinti szerv a 101. § (5) bekezdése szerinti előterjesztés elbírálásának ideje alatt megadta vagy megtagadta, a 101/B. § (1) bekezdése szerinti szervezet köteles azt a közbeszerzésekért felelős miniszter részére soron kívül megküldeni.”
