@@ -1,4 +1,4 @@
-4. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^68]
+4. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^72]
 
 A KOPINT-DATORG Informatikai és Vagyonkezelő Kft. által kötelezően biztosítandó központosított alkalmazás-üzemeltetési, alkalmazás-üzemeltetés támogatási és e rendszereket érintő alkalmazás-fejlesztési szolgáltatások
 
@@ -14,4 +14,4 @@ A KOPINT-DATORG Informatikai és Vagyonkezelő Kft. által kötelezően biztosí
 
 6. Termék Minőségbiztosítási Rendszer (TMR) tekintetében alkalmazás-üzemeltetési, alkalmazás-üzemeltetés támogatási és alkalmazás-fejlesztési szolgáltatások
 
-[^68]: A 4. mellékletet a 717/2021. (XII. 20.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^72]: A 4. mellékletet a 717/2021. (XII. 20.) Korm. rendelet 8. § (3) bekezdése iktatta be.

@@ -136,7 +136,9 @@
 
 ## 4.[^36] A lakosság részére készített kormányzati tájékoztató levelekkel, kiadványokkal, illetve kérdőívekkel kapcsolatos adatfeldolgozói és adminisztrációs tevékenység, valamint a postai szolgáltatásokról szóló 2012. évi CLIX. törvény 2. § 35. pontja szerinti postai küldeménynek minősülő küldemények címzettek részére postai úton történő soron kívüli megküldésével kapcsolatos feladatok ellátása a Magyar Posta Zrt. bevonásával.
 
-2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^37]
+## 5.[^37] A Nemzeti Konzultációk IT kiszolgáló rendszere
+
+2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^38]
 
 A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervek
 
@@ -158,23 +160,24 @@ A kötelezően biztosítandó központosított informatikai és elektronikus hí
 
 9. Pénzügyminisztérium
 
-10.[^38] Miniszterelnöki Kormányiroda, valamint az általa a működésében támogatott
+10.[^39] Miniszterelnöki Kormányiroda, valamint az általa a működésében támogatott
 
 a) Nemzeti Hírközlési és Informatikai Tanács
 
 11. Közbeszerzési és Ellátási Főigazgatóság
 
-12.[^39] Mádl Ferenc Összehasonlító Jogi Intézet
+12.[^40] Mádl Ferenc Összehasonlító Jogi Intézet
 
-13.[^40] Társadalmi Esélyteremtési Főigazgatóság
+13.[^41] Társadalmi Esélyteremtési Főigazgatóság
 
-14.[^41] Védelmi Igazgatási Hivatal
+14.[^42] Védelmi Igazgatási Hivatal
 
 [^34]: Az 1. melléklet A) rész 1. pont 1.2. alpontja a 717/2021. (XII. 20.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^35]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
 [^36]: Az 1. melléklet C) pont 4. alpontját a 16/2017. (I. 31.) Korm. rendelet 1. §-a iktatta be.
-[^37]: A 2. melléklet a 95/2018. (V. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^38]: A 2. melléklet 10. pontja a 81/2019. (IV. 18.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
-[^39]: A 2. melléklet 12. pontját a 95/2019. (IV. 25.) Korm. rendelet 7. §-a iktatta be.
-[^40]: A 2. melléklet 13. pontját a 262/2019. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
-[^41]: A 2. melléklet 14. pontját a 337/2022. (IX. 7.) Korm. rendelet 7. §-a iktatta be.
+[^37]: Az 1. melléklet C) pont 5. alpontját a 72/2023. (III. 10.) Korm. rendelet 1. § a) pontja iktatta be.
+[^38]: A 2. melléklet a 95/2018. (V. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^39]: A 2. melléklet 10. pontja a 81/2019. (IV. 18.) Korm. rendelet 5. § a) pontjával megállapított szöveg.
+[^40]: A 2. melléklet 12. pontját a 95/2019. (IV. 25.) Korm. rendelet 7. §-a iktatta be.
+[^41]: A 2. melléklet 13. pontját a 262/2019. (XI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^42]: A 2. melléklet 14. pontját a 337/2022. (IX. 7.) Korm. rendelet 7. §-a iktatta be.
