@@ -238,8 +238,10 @@
 
 | 110. | Gyártókapacitás létrehozására irányuló beruházás Vácrátót külterületén | Vácrátót külterület 038/18 helyrajzi számú ingatlan | Pest Megyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^329]
+| 111. | Új csirkevágó, -feldolgozó üzem kialakítására irányuló beruházás Szentes területén | Szentes belterület 4130/3, 4130/10, 4141, 4142/1, 4139/3, 4130/13, 4134, 4130/9, 4124/2, 4123/7, 4698/4, 4128, 4122/3 helyrajzi számú ingatlanok | Csongrád-Csanád Vármegyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^331]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^329]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^331]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
