@@ -1,0 +1,1 @@
+A Kormány – figyelemmel a Török Köztársaságot sújtó földrengés okozta katasztrófa és súlyos szerencsétlenség következményeinek elhárítása, enyhítése érdekében kialakult nemzetközi együttműködésre, a helyi szükségletekre és igényekre, valamint Magyarország rendelkezésére álló és átadható egészségügyi készleteire –
