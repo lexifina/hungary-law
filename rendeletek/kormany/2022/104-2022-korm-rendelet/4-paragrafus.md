@@ -26,8 +26,9 @@ c) az igényben foglaltak megalapozatlanságát állapítja meg.
 
 (9) A helyi önkormányzatot a (8) bekezdés szerint megillető támogatást a helyi önkormányzatokért felelős miniszter utalványozása alapján a Magyar Államkincstár (a továbbiakban: kincstár) a (8) bekezdés szerinti értesítéstől számított tíz napon belül folyósítja.
 
-(10) A helyi önkormányzat a támogatás felhasználásáról 2022. december 31-i fordulónappal az éves költségvetési beszámolójában számol el.
+(10)[^7] A helyi önkormányzat a támogatást a folyósítás évének december 31. napjáig használhatja fel, a támogatás felhasználásáról az éves költségvetési beszámolójában számol el.
 
 [^4]: A 4. § (1a) bekezdését a 379/2022. (X. 5.) Korm. rendelet 5. §-a iktatta be.
 [^5]: A 4. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 324. § a) pontja szerint módosított szöveg.
 [^6]: A 4. § (7) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 324. § a) pontja szerint módosított szöveg.
+[^7]: A 4. § (10) bekezdése a 78/2023. (III. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
