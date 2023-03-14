@@ -1,1 +1,0 @@
-## Informatikai rendszer
