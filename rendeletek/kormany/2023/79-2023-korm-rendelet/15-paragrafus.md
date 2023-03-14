@@ -1,0 +1,3 @@
+15. § (1) Az ágazati miniszter a tartalékolással összefüggő feladatát – saját felelőssége megtartása mellett – átruházhatja költségvetési szervre, illetve egyéb gazdálkodó szervezetre (a továbbiakban együtt: tartalékkezelő).
+
+(2) Az ágazati miniszter rendszeresen ellenőrizteti a rendelkezésre álló tartalék minőségét, mennyiségét és a tartalék kezelésére vonatkozó előírás betartását. A tartalék kezelésével és nyilvántartásával összefüggő tevékenység végrehajtásáról a felelős vezető – a tartalékkezelő és a 6. § (2) bekezdésében megjelölt szervezeti egység szakmai felügyelete útján – gondoskodik.

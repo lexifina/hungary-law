@@ -1,0 +1,5 @@
+18. § (1) Különleges jogrendi időszakban a követelménytámasztó szerv – térítés ellenében – igénybe veheti a tartalékból a részére fenntartott elemet. A követelménytámasztó szerv az igénybevétel ellenértékét a 13. § (1) bekezdése szerint számára biztosított forrásból fedezi. Különleges jogrendi időszaknak nem minősülő védelmi és biztonsági esemény esetén a Kormány dönt a tartalékelem igénybevételéről és az igénybevétel feltételéről.
+
+(2) A tartalék egyes elemeiből a felelős vezető ideiglenes készletre vételt, illetve ideiglenes felszabadítást engedélyezhet. A készletszint a törzskészlet szintjéig, maximum 12 hónapos időtartamra csökkenthető. Különösen indokolt esetben a tartalék – ideértve annak törzskészletét is – meghatározott időpontig történő visszapótlási kötelezettséggel, a belgazdaságért felelős miniszter és az államháztartásért felelős miniszter egyetértésével felszabadítható.
+
+(3) A tartalékkezelő a tartalékban lévő ideiglenes hasznosításra alkalmas eszközt bérbe adhatja azzal a feltétellel, hogy az gazdaságmozgósítási helyzetben azonnal átadható és felhasználható legyen.
