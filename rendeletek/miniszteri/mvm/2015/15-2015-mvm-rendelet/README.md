@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-15-20-6
 | 2019-02-22 | 2015-15-20-6N.5 | 2/2019. (II. 21.) MvM rendelet |
 | 2020-01-07 | 2015-15-20-6N.6 | 1/2020. (I. 6.) MvM rendelet |
 | 2022-10-04 | 2015-15-20-6N.7 | 14/2022. (X. 3.) MVM rendelet |
+| 2023-03-14 | 2015-15-20-6N.8 | 1/2020. (I. 6.) MvM rendelet |

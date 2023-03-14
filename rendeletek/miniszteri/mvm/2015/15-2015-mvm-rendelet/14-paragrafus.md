@@ -8,4 +8,6 @@
 
 (5) A kisplasztika bronzból készült, magassága 30 cm, Magyary Zoltán mellképét ábrázolja, az egyik könyv gerincén Magyary Zoltán saját kezű aláírása olvasható. A kisplasztika Takács Szilvia szobrászművész alkotása.
 
-(6) A díjhoz 1 000 000 Ft összegű pénzjutalom jár.
+(6)[^12] A díjhoz 1 500 000 Ft összegű pénzjutalom jár.
+
+[^12]: A 14. § (6) bekezdése a 2/2023. (III. 13.) MVM rendelet 1. § b) pontja szerint módosított szöveg.
