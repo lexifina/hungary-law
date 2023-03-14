@@ -34,4 +34,6 @@ bb) Lóga Mátét, a Gazdaságfejlesztési Minisztérium államtitkárát a Gazd
 
 elnökévé kinevezem.
 
-3. Visszavonom a monitoring bizottságok elnökeinek felmentéséről és monitoring bizottságok elnökeinek kinevezéséről szóló 84/2022. (X. 5.) ME határozat 1. pont a) alpontját és 1. pont b) alpont ba) és bb) pontját.
+3.[^1]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
