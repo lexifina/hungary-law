@@ -20,13 +20,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. melléklet 2. pontjában foglalt táblázat C:2 mezőjében az „1259,375” szövegrész helyébe az „1259,384” szöveg,
-
-## b) 2. mellékletében foglalt táblázat D:51 mezőjében a „105,97” szövegrész helyébe a „107,33” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1083/2023. (III. 13.) Korm. határozathoz
 
@@ -41,3 +35,5 @@
 | 4. | IKOP-2.1.0-15-2018-00051 | MÁV-START Zrt. gördülőállomány fejlesztése 19 db nagykapacitású motorvonat beszerzésével | MÁV-START Zrt. | 100% | 105 966 272 846 | 0 | 0 | 0 | 0 | 1 358 272 605 | 0 | 0 | 0 | 100% | 107 324 545 451 | 0 | 0 | 0 | 107 324 545 451 | Nagykapacitású, 160 km/h sebességű elővárosi villamos motorvonatok beszerzése ETCS2 felszereltséggel. |
 
 | 5. | IKOP-2.1.0-15-2020-00054 | ÉKM vasúti infrastruktúra fejlesztési projektek előkészítése | ÉKM | 100% | 11 665 000 000 | 0 | 3 149 550 000 | 0 | 0% | –1 349 100 000 | 0 | –364 257 000 | 0 | 100% | 10 315 900 000 | 0 | 2 785 293 000 | 0 | 13 101 193 000 |  |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
