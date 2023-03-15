@@ -1,0 +1,1 @@
+1. § E rendelet rendelkezéseit a világörökségi területen folytatott ásványi nyersanyag kitermelése esetén a kitermelési műszaki üzemi terv jóváhagyására és az ásványi nyersanyag kitermelésére kell alkalmazni.

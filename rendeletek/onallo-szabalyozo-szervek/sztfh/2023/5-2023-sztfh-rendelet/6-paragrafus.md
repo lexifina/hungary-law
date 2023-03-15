@@ -1,0 +1,1 @@
+6. § Világörökségi területen az e rendelet kihirdetését megelőzően megkezdődött ásványi nyersanyag kitermelés esetében a 2. §-ban foglalt követelményeket az e rendelet hatálybalépésétől számított 60 napon belül kell teljesíteni.

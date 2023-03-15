@@ -1,0 +1,1 @@
+4. § Ha az ásványi nyersanyag kitermelés területe világörökségi terület részévé válik, a kitermelés esetében a 2. §-ban foglalt követelményeket a terület világörökségi területté nyilvánításától számított 60 napon belül kell teljesíteni.
