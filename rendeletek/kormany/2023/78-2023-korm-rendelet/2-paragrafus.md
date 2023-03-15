@@ -1,7 +1,3 @@
-2. § Az R.
+2. §[^3]
 
-a) 3. § (1) bekezdésében a „2023. március 31.” szövegrész helyébe a „2023. május 31.” szöveg, valamint a „2023. április 15.” szövegrész helyébe a „2023. június 15.” szöveg,
-
-b) 3. § (2) bekezdésében a „2023. március 31.” szövegrész helyébe a „2023. május 31.” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
