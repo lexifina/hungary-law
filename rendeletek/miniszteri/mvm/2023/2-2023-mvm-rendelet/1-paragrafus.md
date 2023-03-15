@@ -1,7 +1,3 @@
-1. § A Miniszterelnökséget vezető miniszter által adományozható elismerésekről szóló 15/2015. (III. 11.) MvM rendelet
+1. §[^2]
 
-a) 12. § (6) bekezdésében az „1 500 000” szövegrész helyébe a „2 500 000” szöveg,
-
-b) 14. § (6) bekezdésében az „1 000 000” szövegrész helyébe az „1 500 000” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
