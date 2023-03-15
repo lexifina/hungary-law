@@ -2,11 +2,11 @@
 
 a) az egységes jogalkalmazás érdekében – a jogszabályok és szabványok keretei között, ügyfelekre nem kiterjedő hatállyal – meghatározza a közúti gépjármű-közlekedési hatósági eljárásban alkalmazott vizsgálatok és ellenőrzések követelményeit és módszereit, ideértve különösen az egyes vizsgálóműszerek megfelelőségét, alkalmazhatóságát,
 
-b)[^73]
+b)[^76]
 
-c)[^74]
+c)[^77]
 
 d) működteti a Közlekedési Szakértői Testületet.
 
-[^73]: Az 5. § b) pontját a 248/2019. (X. 24.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
-[^74]: Az 5. § c) pontját a 248/2019. (X. 24.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
+[^76]: Az 5. § b) pontját a 248/2019. (X. 24.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
+[^77]: Az 5. § c) pontját a 248/2019. (X. 24.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
