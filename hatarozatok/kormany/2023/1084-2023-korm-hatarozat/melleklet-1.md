@@ -20,15 +20,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont f) alpont fa) pont fac) alpontjában a „140,66%-áig” szövegrész helyébe a „140,78%-áig” szöveg;
-
-## b) 1. melléklet 3. pontjában foglalt táblázat C:3 mezőjében a „177,223” szövegrész helyébe a „177,379” szöveg;
-
-## c) 2. mellékletében foglalt táblázat D:102e mezőjében a „0,11” szövegrész helyébe a „0,27” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1084/2023. (III. 13.) Korm. határozathoz
 
@@ -41,3 +33,5 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható áfaösszege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az Európai Unió felé el nem számolható áfaösszege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az Európai Unió felé el nem számolható költségek összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható áfaösszege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az Európai Unió felé el nem számolható költségek összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján |
 
 | 4. | IKOP-3.2.0-15-2020-00035 | A GYSEV Zrt. vasúti infrastruktúra fejlesztési projekt előkészítése | GYSEV Zrt. | 100% | 110 000 000 | 0 | 0 | 0 | 0 | 156 481 820 | 0 | 0 | 0 | 100% | 266 481 820 | 0 | 0 | 0 | 266 481 820 | Szombathely– Kőszeg vasútvonal villamosításának előkészítése |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
