@@ -26,11 +26,11 @@ figyelemmel.
 
 (5) Az (1) bekezdésben meghatározott biztosítékként hitelintézettel vagy biztosítóval e célra megkötött fedezeti megállapodás – garanciaszerződés, garanciavállaló nyilatkozat, biztosítási szerződés alapján kiállított, garanciát tartalmazó biztosítói kötelezvény, hitelintézet vagy biztosító szerződésben vállalt készfizető kezessége –, zálogjog, óvadék vagy a szénipari szerkezetátalakítási támogatás meghatározásának és kezelésének részletes szabályairól szóló kormányrendelet alapján megállapított támogatás szolgálhat.
 
-(5a)[^44] Zálogként olyan dolog vagy ingatlan ajánlható fel, amelynek értéke legalább a biztosíték összegének kétszeresét eléri.
+(5a)[^45] Zálogként olyan dolog vagy ingatlan ajánlható fel, amelynek értéke legalább a biztosíték összegének kétszeresét eléri.
 
-(5b)[^45] Ha a bányavállalkozó által felajánlott zálogtárgy értékét nem igazságügyi szakértő határozta meg, a bányafelügyelet igazságügyi szakértőt rendel ki a zálogtárgy értékének meghatározására.
+(5b)[^46] Ha a bányavállalkozó által felajánlott zálogtárgy értékét nem igazságügyi szakértő határozta meg, a bányafelügyelet igazságügyi szakértőt rendel ki a zálogtárgy értékének meghatározására.
 
-(6)[^46] A zálogjogszerződést vagy óvadéki szerződést a bányafelügyelettel kell megkötni. Zálogként – kivéve, ha a biztosítékul felajánlott ingatlan zálogjogosultja a bányafelügyelet, vagy az ingatlanra közérdekű használati jogot vagy az állam Bt. 48. §-a szerinti elővásárlási jogát jegyezték be az ingatlan-nyilvántartásba – csak per-, teher- és igénymentes ingatlan vagy dolog szolgálhat. Óvadékként csak pénz szolgálhat, amelyet a bányavállalkozó a bányafelügyelet hatósági letéti számláján köteles elhelyezni.
+(6)[^47] A zálogjogszerződést vagy óvadéki szerződést a bányafelügyelettel kell megkötni. Zálogként – kivéve, ha a biztosítékul felajánlott ingatlan zálogjogosultja a bányafelügyelet, vagy az ingatlanra közérdekű használati jogot vagy az állam Bt. 48. §-a szerinti elővásárlási jogát jegyezték be az ingatlan-nyilvántartásba – csak per-, teher- és igénymentes ingatlan vagy dolog szolgálhat. Óvadékként csak pénz szolgálhat, amelyet a bányavállalkozó a bányafelügyelet hatósági letéti számláján köteles elhelyezni.
 
 (7) A (6) bekezdés szerinti szerződés hatályát – a biztosítékadási kötelezettség fennállását – a szerződés jogalapját képező (1) bekezdés szerinti bányafelügyeleti határozat hatálya nem érinti.
 
@@ -40,6 +40,6 @@ figyelemmel.
 
 (10) Föld alatti szénelgázosítással történő ásványi nyersanyag kitermelése esetén a biztosíték összege nem lehet kevesebb kétszázmillió forintnál.
 
-[^44]: A 41. § (5a) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 40. §-a iktatta be.
-[^45]: A 41. § (5b) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 40. §-a iktatta be.
-[^46]: A 41. § (6) bekezdése a 6/2023. (II. 28.) SZTFH rendelet 6. §-a szerint módosított szöveg.
+[^45]: A 41. § (5a) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 40. §-a iktatta be.
+[^46]: A 41. § (5b) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 40. §-a iktatta be.
+[^47]: A 41. § (6) bekezdése a 6/2023. (II. 28.) SZTFH rendelet 6. §-a szerint módosított szöveg.

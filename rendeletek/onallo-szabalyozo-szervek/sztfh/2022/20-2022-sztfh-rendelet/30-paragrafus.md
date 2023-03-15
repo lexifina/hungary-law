@@ -18,6 +18,8 @@ g) az engedélyezett ásványvagyon-gazdálkodási célokat szolgáló rétegrep
 
 h) az (1) bekezdésben meghatározott esetben az ingatlan igénybevételi ütemterv módosítására vonatkozó rendelkezést.
 
+i)[^28] a tájrendezés elvégzésével kapcsolatos rendelkezést.
+
 (3) A bányafelügyelet az ásványvagyon-gazdálkodási célokat szolgáló, a szénhidrogén kutatása és kitermelése során alkalmazott rétegrepesztést, rétegsavazást, gázbesajtolást, rétegenergia-pótlást, valamint a rétegrepesztési technológia és rétegenergia pótlás céljából alkalmazott vízbesajtolást a szénhidrogének feltárására, kitermelésére készített műszaki üzemi terv jóváhagyása során engedélyezi.
 
 (4) A bányafelügyelet a (3) bekezdésben megjelölt műveleteket akkor engedélyezi, ha
@@ -30,11 +32,11 @@ c) a művelet nem veszélyezteti a környezeti elemek – különösen a felszí
 
 d) a b) és c) pontban foglaltak teljesülése a bányavállalkozó által folyamatosan ellenőrzött, és az ellenőrzés dokumentált.
 
-(5)[^28] Kitermelésre vonatkozó műszaki üzemi terv mélyművelés, vagy kőolaj- és földgázbányászat esetében legfeljebb 5 év, míg külfejtések esetében legfeljebb 15 év időtartamra hagyható jóvá. Ha a bányavállalkozó a kitermelésre engedélyezett területet a tervidőszakban nem teljes mértékben vette igénybe, a jóváhagyó határozat teljesítési határideje legfeljebb egy alkalommal az eredetileg engedélyezett teljesítési idő felével meghosszabbítható.
+(5)[^29] Kitermelésre vonatkozó műszaki üzemi terv mélyművelés, vagy kőolaj- és földgázbányászat esetében legfeljebb 5 év, míg külfejtések esetében legfeljebb 15 év időtartamra hagyható jóvá. Ha a bányavállalkozó a kitermelésre engedélyezett területet a tervidőszakban nem teljes mértékben vette igénybe, a jóváhagyó határozat teljesítési határideje legfeljebb egy alkalommal az eredetileg engedélyezett teljesítési idő felével meghosszabbítható.
 
-(6)[^29] A műszaki üzemi tervet a bányavállalkozó évente felülvizsgálja, és megváltozott viszonyok esetén a műszaki üzemi terv módosítását kérelmezi. Nem kell a műszaki üzemi tervet módosítani, ha a 29. § (2) bekezdés c) pontja és j) pont jc) alpontja szerinti létesítmények tekintetében történik a módosulás.
+(6)[^30] A műszaki üzemi tervet a bányavállalkozó évente felülvizsgálja, és megváltozott viszonyok esetén a műszaki üzemi terv módosítását kérelmezi. Nem kell a műszaki üzemi tervet módosítani, ha a 29. § (2) bekezdés c) pontja és j) pont jc) alpontja szerinti létesítmények tekintetében történik a módosulás.
 
-(7)[^30] A Bt. 27. § (7) bekezdése szerinti bányatelek esetében a felülvizsgálatnak ki kell terjednie
+(7)[^31] A Bt. 27. § (7) bekezdése szerinti bányatelek esetében a felülvizsgálatnak ki kell terjednie
 
 a) jóváhagyott műszaki üzemi terv szöveges részében és a műszaki üzemi tervet jóváhagyó határozatban foglaltak tárgyévre vonatkozó teljesítésének bemutatására,
 
@@ -65,6 +67,7 @@ c) a jogosultságot megállapító végleges hatósági határozattal vagy joger
 igazolhatja.
 
 [^27]: A 30. § (2) bekezdés c) pontja a 33/2022. (VII. 29.) SZTFH rendelet 8. § c) pontja szerint módosított szöveg.
-[^28]: A 30. § (5) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § j) pontja szerint módosított szöveg.
-[^29]: A 30. § (6) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § k) pontja szerint módosított szöveg.
-[^30]: A 30. § (7) bekezdése nyitó szövegrésze a 33/2022. (VII. 29.) SZTFH rendelet 8. § d) pontja szerint módosított szöveg.
+[^28]: A 30. § (2) bekezdés i) pontját az 5/2023. (II. 28.) SZTFH rendelet 7. §-a iktatta be, alkalmazására lásd e módosító rendelet 6. §-át.
+[^29]: A 30. § (5) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § j) pontja szerint módosított szöveg.
+[^30]: A 30. § (6) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § k) pontja szerint módosított szöveg.
+[^31]: A 30. § (7) bekezdése nyitó szövegrésze a 33/2022. (VII. 29.) SZTFH rendelet 8. § d) pontja szerint módosított szöveg.
