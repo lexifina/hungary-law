@@ -2,21 +2,21 @@
 
 a) március 15-i nemzeti ünnep,
 
-b)[^8]
+b)[^20]
 
 c) Föld napja (április 22.),
 
-d) internet világnapja (május 18.),
+d)[^21]
 
 e) építők napja (minden év június hónap első vasárnapja),
 
-f) a tanítási év utolsó tanítási napja (a tanév rendjéről szóló miniszteri rendelet szerint),
+f)[^22]
 
 g) vasutasnap (július 10.),
 
 h) augusztus 20-i állami ünnep,
 
-i) a magyar felsőoktatás napja (szeptember 1.),
+i)[^23]
 
 j) bányásznap (minden év szeptember hónap első vasárnapja),
 
@@ -30,9 +30,9 @@ n) Borbála-nap (december 4.),
 
 o) nemzetközi polgári repülés világnapja (december 7.),
 
-p)[^9] nemzetközi minőségügyi világnap (november 12.),
+p)[^24] nemzetközi minőségügyi világnap (november 12.),
 
-q)[^10] kiemelkedő szakmai alkalom, esemény, évforduló, illetve a miniszter által kijelölt időpont.
+q)[^25] kiemelkedő szakmai alkalom, esemény, évforduló, illetve a miniszter által kijelölt időpont.
 
 (2) Az elismeréseket a miniszter vagy az általa megbízott személy ünnepélyes keretek között adja át. A miniszter által megbízott személy az adományozást nem delegálhatja tovább.
 
@@ -48,6 +48,9 @@ q)[^10] kiemelkedő szakmai alkalom, esemény, évforduló, illetve a miniszter 
 
 (8) Az elismerések adományozásáról, illetve visszavonásáról rendelkező miniszteri közleményt a minisztérium honlapján, valamint a Hivatalos Értesítőben közzé kell tenni.
 
-[^8]: Az 5. § (1) bekezdés b) pontját a 19/2022. (IX. 26.) IM rendelet 9. § b) pontja hatályon kívül helyezte.
-[^9]: Az 5. § (1) bekezdés p) pontja a 49/2020. (XII. 16.) ITM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^10]: Az 5. § (1) bekezdés q) pontját a 49/2020. (XII. 16.) ITM rendelet 3. § (2) bekezdése iktatta be.
+[^20]: Az 5. § (1) bekezdés b) pontját a 19/2022. (IX. 26.) IM rendelet 9. § b) pontja hatályon kívül helyezte.
+[^21]: Az 5. § (1) bekezdés d) pontját a 2/2023. (III. 8.) KIM rendelet 14. § b) pont bf) alpontja hatályon kívül helyezte.
+[^22]: Az 5. § (1) bekezdés f) pontját a 2/2023. (III. 8.) KIM rendelet 14. § b) pont bf) alpontja hatályon kívül helyezte.
+[^23]: Az 5. § (1) bekezdés i) pontját a 2/2023. (III. 8.) KIM rendelet 14. § b) pont bf) alpontja hatályon kívül helyezte.
+[^24]: Az 5. § (1) bekezdés p) pontja a 49/2020. (XII. 16.) ITM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^25]: Az 5. § (1) bekezdés q) pontját a 49/2020. (XII. 16.) ITM rendelet 3. § (2) bekezdése iktatta be.

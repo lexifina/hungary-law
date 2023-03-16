@@ -4,13 +4,13 @@ a) kormányzati igazgatási szerv szakmai vezetője, szakmai felsővezetője, po
 
 b) szakmai szervezet vezetője,
 
-c) felsőoktatási intézmény magasabb vezetője,
+c)[^16]
 
 d) a Magyar Tudományos Akadémia elnöke,
 
-e) szakképzéssel és felnőttképzéssel foglalkozó köznevelési intézmény vezetője, fenntartója és gazdálkodó szervezet vezetője,
+e)[^17]
 
-f) az Ipar 4.0 Nemzeti Technológiai Platform Szövetség elnöke
+f)[^18]
 
 kezdeményezheti, ha az elismerés célja a kezdeményező szakmai tevékenységéhez kapcsolódik.
 
@@ -27,3 +27,7 @@ d) a Gyimesi Zoltán-díj esetében az OAH főigazgatója és az OAH Tudományos
 kezdeményezhetik.
 
 (3) Az elismerés adományozására vonatkozó javaslatot az elismerés adományozásának tervezett időpontja előtt legalább három hónappal a miniszternek címezve – az 1. melléklet szerinti formai és tartalmi követelmények szerint, valamint a 2. melléklet csatolásával – kell benyújtani a minisztérium elismeréshez kapcsolódó szakterületért felelős önálló szervezeti egységéhez.
+
+[^16]: A 3. § (1) bekezdés c) pontját a 2/2023. (III. 8.) KIM rendelet 14. § b) pont be) alpontja hatályon kívül helyezte.
+[^17]: A 3. § (1) bekezdés e) pontját a 2/2023. (III. 8.) KIM rendelet 14. § b) pont be) alpontja hatályon kívül helyezte.
+[^18]: A 3. § (1) bekezdés f) pontját a 2/2023. (III. 8.) KIM rendelet 14. § b) pont be) alpontja hatályon kívül helyezte.

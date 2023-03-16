@@ -1,7 +1,3 @@
-16. § (1) Eötvös József-díj (felsőoktatási tagozat) az oktatói élethivatás melletti elkötelezettség elismeréséért adományozható az életpályájuk során kiemelkedő munkát végző főiskolai, egyetemi oktatóknak.
+16. §[^28]
 
-(2) Évente legfeljebb 5 díj adományozható.
-
-(3) A díj bronzból készült kisplasztika, magassága 200 mm. A kisplasztika Kutas László szobrászművész alkotása. A kisplasztika Eötvös József álló alakját ábrázolja.
-
-(4) A díj adományozására a magyar felsőoktatás napja alkalmából kerülhet sor.
+[^28]: A 16. §-t a 2/2023. (III. 8.) KIM rendelet 14. § b) pont bh) alpontja hatályon kívül helyezte.
