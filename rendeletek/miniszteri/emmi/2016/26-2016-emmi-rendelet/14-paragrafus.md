@@ -1,1 +1,0 @@
-## 13. § Az emberi erőforrások minisztere által adományozható elismerések adományozására e rendelet hatálybalépését megelőzően benyújtott kezdeményezéseket az adott ágazatban vagy szakterületen e rendelettel alapított díjra történő kezdeményezésnek kell tekinteni és ekként kell elbírálni.
