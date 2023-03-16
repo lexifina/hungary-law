@@ -1,0 +1,9 @@
+# 2/2023. (III. 8.) KIM rendelet
+
+a kultúráért és innovációért felelős miniszter által adományozható elismerésekről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-2-20-8O
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-03-16 | 2023-2-20-8O.1 | 2/2023. (III. 8.) KIM rendelet |
