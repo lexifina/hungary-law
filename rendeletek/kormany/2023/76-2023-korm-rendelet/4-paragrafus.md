@@ -1,7 +1,3 @@
-4. § Hatályát veszti az R.
+4. §[^5]
 
-a) 4. § (2) bekezdés 2. pontjában az „egyéb jármű esetén” szövegrész,
-
-b) 4. § (2) bekezdés 3. pontja,
-
-c) 4. § (3) bekezdés 3. és 4. pontja.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
