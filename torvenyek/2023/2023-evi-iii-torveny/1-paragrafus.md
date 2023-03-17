@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió és tagállamai, másrészről a Thaiföldi Királyság közötti Átfogó Partnerségi és Együttműködési Keretmegállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
