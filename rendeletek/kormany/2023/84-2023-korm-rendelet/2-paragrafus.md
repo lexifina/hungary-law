@@ -1,0 +1,3 @@
+2. § Az R. a következő 7. §-sal egészül ki:
+
+„7. § A 2022. október 1. napja és 2023. szeptember 30. napja közötti időszakra vonatkozóan az egyes intézmények földgázfelhasználásának szabályozásáról szóló 354/2022. (IX. 19.) Korm. rendelet módosításáról szóló 84/2023. (III. 16.) Korm. rendelet (a továbbiakban: Módr2.) hatálybalépésének napján hatályos 2. § (1) bekezdése szerinti minimális földgázmennyiségen felül át nem vett földgázmennyiség miatt keletkezett kötbérigény nem érvényesíthető, továbbá a Módr2. hatálybalépésének napját megelőző napig érvényesített, de nem teljesített kötbér összegét nem kell teljesíteni.”

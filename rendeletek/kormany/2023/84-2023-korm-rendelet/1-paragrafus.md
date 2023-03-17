@@ -1,0 +1,3 @@
+1. § Az egyes intézmények földgázfelhasználásának szabályozásáról szóló 354/2022. (IX. 19.) Korm. rendelet (a továbbiakban: R.) 2. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) A csatlakozásra jogosult, ha a (4) bekezdésben megállapított határidőn belül nem tett nyilatkozatot a földgázkereskedő felé arról, hogy a földgázkereskedővel megkötött hatályos földgáz-kereskedelmi szerződésben foglaltaktól eltérően az (1) bekezdés szerinti minimális földgázmennyiséget kívánja érvényesíteni, akkor nyilatkozatát a földgázkereskedő felé a (4) bekezdésben megállapított módon 2023. április 15. napjáig megteheti. A határidő elmulasztása jogvesztő.”
