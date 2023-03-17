@@ -48,56 +48,27 @@ dc) a 2025. évben 2 316 000 000 forint.
 
 | Határidő: | a da) pont tekintetében a felmerülés ütemében a db)–dc) pont tekintetében az adott évi központi költségvetés tervezése során |
 
-2. A Kormány visszavonja az 1213/2022. (IV. 5.) Korm. határozat 1. melléklet I. pontjában foglalt táblázat 1. sorát és II. pontjában foglalt táblázat 1. és 7. sorát.
+2.[^1]
 
-3. Az 1213/2022. (IV. 5.) Korm. határozat 1. melléklet I. pontjában foglalt táblázat 3. sorában, valamint II. pontjában foglalt táblázat 3–6. sorában az „építése” szövegrész helyébe a „tervezése” szöveg lép.
+3.[^2]
 
-4. Az 1213/2022. (IV. 5.) Korm. határozat 1. melléklet II. pontjában foglalt táblázat 2. sorában a „megvalósítása” szövegrész helyébe a „tervezése” szöveg lép.
+4.[^3]
 
-5. Az 1213/2022. (IV. 5.) Korm. határozat 1. melléklet II. pontjában foglalt táblázat 2–6. sorában – az Építési és Beruházási Minisztérium tulajdonosi joggyakorlása alá tartozó, 100%-os állami tulajdonban lévő gazdasági társaságok által ellátott feladatok központi költségvetési szerv általi átvételéről és a társaságok megszüntetéséről, az ezzel kapcsolatos eljárási kérdések rendezéséről szóló 362/2022. (IX. 19.) Korm. rendelet 1. § (1) bekezdés a) pontja alapján – a „NIF Zrt.” szövegrész helyébe az „ÉKM” szöveg lép.
+5.[^4]
 
-6. Az 1213/2022. (IV. 5.) Korm. határozat 1. melléklet I. pontjában foglalt táblázat a következő 11–12. sorral egészül ki:
+6.[^5]
 
-| (Sorszám | Támogatott fejlesztések) |
+7.[^6]
 
-„
+8.[^7]
 
-| 11. | Kiskunhalas település logisztikai központjához kiszolgálás kialakítása a kiágazásig (vasúti kapcsolat kiépítése a logisztikai központtal) |
+9.[^8]
 
-| 12. | A vonal menti települési többletigények zajvédelme (Dunaharaszti, Taksony, Kelebia) |
-
-”
-
-7. Az 1213/2022. (IV. 5.) Korm. határozat 1. melléklet II. pontjában foglalt táblázat a következő 10. sorral egészül ki:
-
-| (Sorszám | Támogatott fejlesztések | Beruházó) |
-
-„
-
-| 10. | Katonai rakodók megvalósítása (Kiskunlacháza és Szabadszállás vasútállomásokon) | MÁV Zrt. |
-
-”
-
-8. Az 1213/2022. (IV. 5.) Korm. határozat 1. melléklete a következő IV. ponttal egészül ki:
-
-„IV. A Projekttel összefüggésben felmerülő MÁV Zrt. által elvégzendő feladatok
-
-| Sorszám | Elvégzendő feladatok |
-
-| 1. | Az állomási mellékvágányok átépítéséhez használt, felújított, minősített sínek biztosítása |
-
-| 2. | Budapest–Belgrád vasútfejlesztés projekten belüli kármentesítés (talaj- és talajvízszennyezés megszüntetése) |
-
-| 3. | Budapest–Belgrád vasútfejlesztés projekten belüli illegális hulladéktelepek felszámolása |
-
-| 4. | Budapest–Belgrád vasútfejlesztés projekt Ferencváros (Soroksári úti állomás) – Soroksár állomás szakaszán mérnök feladatok ellátása |
-
-| 5. | Budapest–Belgrád vasútfejlesztés projekt Ferencváros (Soroksári úti állomás) – Soroksár állomás szakaszával kapcsolatban a kisajátítási eljárás kezdeményezése és kapcsolódó feladatok |
-
-9. Az 1213/2022. (IV. 5.) Korm. határozat 1. melléklete a következő V. ponttal egészül ki:
-
-„V. Budapest–Belgrád vasútvonal fejlesztésétől műszakilag elválasztható MÁV Zrt. által elvégzendő feladatok
-
-| Sorszám | Elvégzendő feladatok |
-
-| 1. | A MÁV Zrt. üzemi forgalmi, pályafenntartási, felsővezetéki, távközlési és biztosítóberendezési szakaszépületei és telephelyei felújításának, új épületek létesítésének tervezése és megvalósítása |
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
