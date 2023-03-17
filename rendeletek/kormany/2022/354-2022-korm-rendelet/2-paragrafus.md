@@ -6,11 +6,14 @@
 
 (4)[^8] A csatlakozásra jogosult az egyes intézmények földgázfelhasználásának szabályozásáról szóló 354/2022. (IX. 19.) Korm. rendelet módosításáról szóló 380/2022. (X. 5.) Korm. rendelet hatálybalépésétől számított tizenöt napon belül elektronikus vagy postai úton nyilatkozhat úgy a földgázkereskedő felé, hogy a földgázkereskedővel megkötendő vagy megkötött hatályos földgáz-kereskedelmi szerződésben foglaltaktól eltérően az (1) bekezdés szerinti minimális földgázmennyiséget kívánja érvényesíteni.
 
-(5)[^9] A csatlakozásra jogosult (4) bekezdés szerinti nyilatkozata a földgázkereskedővel történő közlés napjával a földgáz-kereskedelmi szerződés részévé válik.
+(4a)[^9] A csatlakozásra jogosult, ha a (4) bekezdésben megállapított határidőn belül nem tett nyilatkozatot a földgázkereskedő felé arról, hogy a földgázkereskedővel megkötött hatályos földgáz-kereskedelmi szerződésben foglaltaktól eltérően az (1) bekezdés szerinti minimális földgázmennyiséget kívánja érvényesíteni, akkor nyilatkozatát a földgázkereskedő felé a (4) bekezdésben megállapított módon 2023. április 15. napjáig megteheti. A határidő elmulasztása jogvesztő.
 
-(6)[^10] Az (1)–(5) bekezdés szerinti esetben a hatályos földgáz-kereskedelmi szerződések nem módosíthatók az intézmény, a csatlakozásra jogosult hátrányára, továbbá az e rendelet alapján keletkező vagyoni hátrány az intézményre, a csatlakozásra jogosultra nem hárítható át.
+(5)[^10] A csatlakozásra jogosult (4) és (4a) bekezdés szerinti nyilatkozata a földgázkereskedővel történő közlés napjával a földgáz-kereskedelmi szerződés részévé válik.
+
+(6)[^11] Az (1)–(5) bekezdés szerinti esetben a hatályos földgáz-kereskedelmi szerződések nem módosíthatók az intézmény, a csatlakozásra jogosult hátrányára, továbbá az e rendelet alapján keletkező vagyoni hátrány az intézményre, a csatlakozásra jogosultra nem hárítható át.
 
 [^7]: A 2. § (1) bekezdése az 528/2022. (XII. 16.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^8]: A 2. § (4) bekezdése a 380/2022. (X. 5.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^9]: A 2. § (5) bekezdését a 380/2022. (X. 5.) Korm. rendelet 3. §-a iktatta be.
-[^10]: A 2. § (6) bekezdését a 380/2022. (X. 5.) Korm. rendelet 3. §-a iktatta be.
+[^9]: A 2. § (4a) bekezdését a 84/2023. (III. 16.) Korm. rendelet 1. §-a iktatta be.
+[^10]: A 2. § (5) bekezdését a 380/2022. (X. 5.) Korm. rendelet 3. §-a iktatta be, szövege a 84/2023. (III. 16.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^11]: A 2. § (6) bekezdését a 380/2022. (X. 5.) Korm. rendelet 3. §-a iktatta be.
