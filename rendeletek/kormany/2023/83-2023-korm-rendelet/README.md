@@ -1,0 +1,9 @@
+# 83/2023. (III. 16.) Korm. rendelet
+
+a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet és a Közbeszerzési és Ellátási Főigazgatóságról szóló 250/2014. (X. 2.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-83-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-03-17 | 2023-83-20-22.1 | 83/2023. (III. 16.) Korm. rendelet |
