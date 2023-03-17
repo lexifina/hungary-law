@@ -104,9 +104,15 @@
 
 ## 8.[^149] Létesítménygazdálkodással kapcsolatos szolgáltatások fekvőbeteg szakellátást nyújtó egészségügyi intézmények részére
 
-## 8.1. Fekvőbeteg szakellátást nyújtó egészségügyi intézmények őrzés-védelmére irányuló szolgáltatás
+## 8.1. Őrzés-védelemre irányuló szolgáltatás
 
-## 8.2. Fekvőbeteg szakellátást nyújtó egészségügyi intézmények részére takarítási és egyéb higiéniás szolgáltatás
+## 8.2. Takarítási és egyéb higiénés szolgáltatás
+
+## 8.3. Műszaki üzemeltetés, karbantartás és az ezekkel összefüggő épületfelújítás
+
+## 8.4. Biztonságtechnikai berendezések üzemeltetése
+
+## 8.5. Létesítménygazdálkodáshoz kapcsolódó egyéb szolgáltatások
 
 ## 9. Energia
 
@@ -125,6 +131,6 @@
 [^146]: Az 1. számú melléklet 3. pont 3.8. alpontját a 771/2021. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
 [^147]: Az 1. számú melléklet 5. pont 5.2. alpontját a 771/2021. (XII. 23.) Korm. rendelet 9. §-a iktatta be.
 [^148]: Az 1. melléklet 7. pontja a 648/2020. (XII. 23.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
-[^149]: Az 1. melléklet 8. pontja a 648/2020. (XII. 23.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^149]: Az 1. számú melléklet 8. pontja a 83/2023. (III. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^150]: Az 1. melléklet 11. pontját a 771/2021. (XII. 23.) Korm. rendelet 9. §-a hatályon kívül helyezte.
 [^151]: A 2. számú mellékletet a 10/2005. (I. 19.) Korm. rendelet 9. §-ának (1) bekezdése hatályon kívül helyezte.

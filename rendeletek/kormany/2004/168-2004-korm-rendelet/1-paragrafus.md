@@ -30,13 +30,13 @@ az e rendelet előírásai szerint kötelesek eljárni.
 
 (2d)[^9] Az 1. számú melléklet 7. és 8. pontjában meghatározott eszközök és szolgáltatások beszerzése során központi beszerző szervezetként a Közbeszerzési és Ellátási Főigazgatóság jár el. Az 1. számú melléklet 7. pontjában meghatározott eszközök beszerzése során
 
-a)[^10] az Egészségbiztosítási Alapból finanszírozott, a Magyar Állam, költségvetési szerv, helyi önkormányzat vagy önkormányzati társulás fenntartása alá tartozó fekvőbeteg- és járóbeteg szakellátást nyújtó intézmények, az Országos Kórházi Főigazgatóság, a Központi Humánfejlesztési Nonprofit Korlátolt Felelősségű Társaság, valamint a Magyar Állam többségi befolyása alatt álló, egészségügyi szolgáltatási tevékenységet végző gazdasági társaságok,
+a)[^10] az Egészségbiztosítási Alapból finanszírozott, a Magyar Állam, költségvetési szerv, helyi önkormányzat vagy önkormányzati társulás fenntartása alá tartozó fekvőbeteg- és járóbeteg szakellátást nyújtó intézmények, az Országos Kórházi Főigazgatóság, az Egészségügyi Infrastruktúra Fejlesztő Nonprofit Korlátolt Felelősségű Társaság, valamint a Magyar Állam többségi befolyása alatt álló, egészségügyi szolgáltatási tevékenységet végző gazdasági társaságok,
 
 b) a Magyar Állam többségi befolyása alatt álló laboratóriumi, mikrobiológiai, patológiai, képalkotó diagnosztikai tevékenységet végző gazdasági társaságok,
 
 c) a központosított közbeszerzési rendszerbe önként csatlakozó, az a) és b) pont hatálya alá nem tartozó egészségügyi szolgáltatók
 
-kötelesek e rendelet szerint eljárni. Az 1. számú melléklet 8. pontjában meghatározott szolgáltatások beszerzése során az a) pontban meghatározott fekvőbeteg szakellátó intézmények kötelesek e rendelet szerint eljárni.
+kötelesek e rendelet szerint eljárni. Az 1. számú melléklet 8. pont 8.1. és 8.2. alpontjában meghatározott szolgáltatások beszerzése során az a) pontban meghatározott fekvőbeteg szakellátást nyújtó intézmények kötelesek e rendelet szerint eljárni.
 
 (2e)[^11] Az intézmények nem kötelesek e rendelet szabályai szerint beszerezni azokat a gyógyszereket és orvostechnikai eszközöket, amelyeket az intézeti gyógyszertár közvetlen lakossági gyógyszerellátás keretében szolgáltat ki.
 
@@ -70,8 +70,8 @@ kötelesek e rendelet szerint eljárni. Az 1. számú melléklet 8. pontjában m
 [^6]: Az 1. § (2a) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 771/2021. (XII. 23.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § (2b) bekezdését a 182/2019. (VII. 26.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^8]: Az 1. § (2c) bekezdését a 329/2019. (XII. 20.) Korm. rendelet 16. § (1) bekezdése iktatta be.
-[^9]: Az 1. § (2d) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 648/2020. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^10]: Az 1. § (2d) bekezdés a) pontja a 771/2021. (XII. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^9]: Az 1. § (2d) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 648/2020. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított, záró szövegrésze a 83/2023. (III. 16.) Korm. rendelet 3. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^10]: Az 1. § (2d) bekezdés a) pontja a 771/2021. (XII. 23.) Korm. rendelet 10. § b) pontja, a 83/2023. (III. 16.) Korm. rendelet 3. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^11]: Az 1. § (2e) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 648/2020. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^12]: Az 1. § (2f) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 771/2021. (XII. 23.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
 [^13]: Az 1. § (2g) bekezdését a 165/2020. (IV. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
