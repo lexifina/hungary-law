@@ -1,11 +1,6 @@
-3. § (1) A 168/2004. (V. 25.) Korm. rendelet
+3. § (1)[^3]
 
-a) 1. § (2d) bekezdés a) pontjában az „a Központi Humánfejlesztési” szövegrész helyébe az „az Egészségügyi Infrastruktúra Fejlesztő” szöveg,
+(2)[^4]
 
-b) 1. § (2d) bekezdés záró szövegrészében a „8. pontjában” szövegrész helyébe a „8. pont 8.1. és 8.2. alpontjában” szöveg, a „szakellátó” szövegrész helyébe a „szakellátást nyújtó” szöveg
-
-lép.
-
-(2)[^2]
-
-[^2]: A 3. § (2) bekezdése a 7. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^3]: A 3. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. § (2) bekezdése a 7. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
