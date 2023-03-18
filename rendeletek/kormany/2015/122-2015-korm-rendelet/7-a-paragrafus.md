@@ -1,6 +1,6 @@
-## 7. §[^7] Az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) gondoskodik a felújítandó központi kormányzati épületek nyilvántartásában szereplő adatok közzétételéről az általa vezetett minisztérium honlapján.
+## 7. §[^8] Az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) gondoskodik a felújítandó központi kormányzati épületek nyilvántartásában szereplő adatok közzétételéről az általa vezetett minisztérium honlapján.
 
-## 5/A. [^8] Az energetikai szakreferens
+## 5/A. [^9] Az energetikai szakreferens
 
 7/A. § (1) Energetikai szakreferens igénybevételére az a gazdálkodó szervezet köteles, amelynek a tárgyévet megelőző 3 évben az éves energiafelhasználásának átlaga meghaladja a
 
@@ -10,7 +10,7 @@ b) 100 000 m3 földgázt vagy
 
 c) 3 400 GJ hőmennyiséget.
 
-(1a)[^9] Az (1) bekezdés alkalmazásában a mérés nélkül továbbadott energia a továbbadó fogyasztásának számít.
+(1a)[^10] Az (1) bekezdés alkalmazásában a mérés nélkül továbbadott energia a továbbadó fogyasztásának számít.
 
 (2) Az energetikai szakreferens
 
@@ -22,14 +22,14 @@ c) gondoskodik a végrehajtott energiahatékonysági fejlesztések, alkalmazott 
 
 d) az igénybevételére köteles gazdálkodó szervezet számára havi jelentést készít tevékenységéről, az igénybevételére köteles gazdálkodó szervezet tárgyhavi energiafogyasztásának mértékéről és annak értékeléséről a korábbi fogyasztási adatok, beruházások, fejlesztések, valamint egyéb körülmények tükrében,
 
-e)[^10] összefoglaló éves jelentést készít az igénybevételére köteles gazdálkodó szervezet számára készített havi jelentések alapján a havi jelentésekkel érintett évet követő év május 15-ig a végrehajtott energiahatékonysági fejlesztések, alkalmazott üzemeltetési megoldások által elért energiamegtakarítási eredményekről, amelyet az igénybevételére köteles gazdálkodó szervezet május 31-ig honlapján közzétesz,
+e)[^11] összefoglaló éves jelentést készít az igénybevételére köteles gazdálkodó szervezet számára készített havi jelentések alapján a havi jelentésekkel érintett évet követő év május 15-ig a végrehajtott energiahatékonysági fejlesztések, alkalmazott üzemeltetési megoldások által elért energiamegtakarítási eredményekről, amelyet az igénybevételére köteles gazdálkodó szervezet május 31-ig honlapján közzétesz,
 
 f) ellátja az energia beszerzéssel, energiabiztonsággal, energiahatékonysággal kapcsolatos, hatáskörébe utalt feladatokat.
 
-g)[^11] értékeli az energiafelhasználás mérését, és – ha energiahatékonysági szempontból indokolt – javaslatot tesz ideiglenes vagy végleges jelleggel telepítendő mérőeszközök, almérők felszerelésére, mérés-felügyeleti rendszer bevezetésére, továbbá ha energiahatékonysági szempontból indokolt, mérési tervet készít.
+g)[^12] értékeli az energiafelhasználás mérését, és – ha energiahatékonysági szempontból indokolt – javaslatot tesz ideiglenes vagy végleges jelleggel telepítendő mérőeszközök, almérők felszerelésére, mérés-felügyeleti rendszer bevezetésére, továbbá ha energiahatékonysági szempontból indokolt, mérési tervet készít.
 
-[^7]: A 7. § a 393/2016. (XII. 5.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
-[^8]: Az 5/A. alcímet (7/A–7/B. §) a 393/2016. (XII. 5.) Korm. rendelet 4. §-a iktatta be.
-[^9]: A 7/A. § (1a) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 35. §-a iktatta be.
-[^10]: A 7/A. § (2) bekezdés e) pontja a 80/2019. (IV. 15.) Korm. rendelet 39. § a) pontja szerint módosított szöveg.
-[^11]: A 7/A. § (2) bekezdés g) pontját a 715/2020. (XII. 30.) Korm. rendelet 11. §-a iktatta be.
+[^8]: A 7. § a 393/2016. (XII. 5.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^9]: Az 5/A. alcímet (7/A–7/B. §) a 393/2016. (XII. 5.) Korm. rendelet 4. §-a iktatta be.
+[^10]: A 7/A. § (1a) bekezdését a 80/2019. (IV. 15.) Korm. rendelet 35. §-a iktatta be.
+[^11]: A 7/A. § (2) bekezdés e) pontja a 80/2019. (IV. 15.) Korm. rendelet 39. § a) pontja szerint módosított szöveg.
+[^12]: A 7/A. § (2) bekezdés g) pontját a 715/2020. (XII. 30.) Korm. rendelet 11. §-a iktatta be.

@@ -4,6 +4,6 @@
 
 (2) Az Európai Bizottság felé teljesítendő tájékoztatási kötelezettség alapjául szolgáló esetköröket, a kötelezettség teljesítéséért felelős szervezetet, valamint a kötelezettség teljesítésének módját (a továbbiakban: a kötelezettség teljesítésére szolgáló dokumentum) és határidejét a 9. melléklet tartalmazza.
 
-(3)[^35] Ha a 9. mellékletben meghatározott kötelezettség teljesítéséért a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) felelős, a Hivatal a kötelezettség teljesítésére szolgáló dokumentumot köteles az Európai Bizottság mellett a miniszternek is megküldeni és honlapján közzétenni. Ha a kötelezettség teljesítésére szolgáló dokumentum a Hivatal határozata, azt a Hivatal honlapján nem kell közzétenni.
+(3)[^36] Ha a 9. mellékletben meghatározott kötelezettség teljesítéséért a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) felelős, a Hivatal a kötelezettség teljesítésére szolgáló dokumentumot köteles az Európai Bizottság mellett a miniszternek is megküldeni és honlapján közzétenni. Ha a kötelezettség teljesítésére szolgáló dokumentum a Hivatal határozata, azt a Hivatal honlapján nem kell közzétenni.
 
-[^35]: A 11. § (3) bekezdése a 393/2016. (XII. 5.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^36]: A 11. § (3) bekezdése a 393/2016. (XII. 5.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.

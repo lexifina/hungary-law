@@ -1,4 +1,4 @@
-8. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^103]
+8. melléklet a 122/2015. (V. 26.) Korm. rendelethez[^105]
 
 I. rész: A 2021–2030 közötti időszakra vonatkozó végfelhasználási energiamegtakarítás éves célértékei
 
@@ -158,4 +158,4 @@ III. rész: Az egyes alternatív szakpolitikai intézkedések, a megvalósítás
 
 IV. rész: Az energiahatékonysági kötelezettségi rendszerből eredő halmozott energiamegtakarítás éves célértékei a 2021–2030-as időszakban (PJ)
 
-[^103]: A 8. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (4) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 149. §-a szerint módosított szöveg.
+[^105]: A 8. melléklet a 715/2020. (XII. 30.) Korm. rendelet 19. § (4) bekezdésével megállapított, a 238/2022. (VI. 30.) Korm. rendelet 149. §-a szerint módosított szöveg.

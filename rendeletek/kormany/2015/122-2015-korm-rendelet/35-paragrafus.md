@@ -1,3 +1,3 @@
-35. §[^87]
+35. §[^89]
 
-[^87]: A 32–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^89]: A 32–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
