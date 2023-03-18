@@ -6,4 +6,14 @@ a) az igazolás valótlanságát az annak kiállításához alapul szolgáló, m
 
 b) a valótlan adattartalom nem szándékos számítási hibából származik.
 
-(2) A BÜHG nyilvántartásból való törlés tényét a mezőgazdasági igazgatási szerv a honlapján közzéteszi.
+(2)[^14] A BÜHG nyilvántartásból való törlés tényét a mezőgazdasági igazgatási szerv a honlapján közzéteszi, valamint az alábbi adatok megküldésével tájékoztatja a valótlan tartalmú fenntarthatósági igazolás vagy biomassza igazolás kapcsán az Európai Unió tagállamainak nemzeti hatóságát:
+
+a) partner neve,
+
+b) székhelye,
+
+c) cégjegyzékszáma és
+
+d) törlés indoklása.
+
+[^14]: A 20. § (2) bekezdése a 75/2023. (III. 10.) Korm. rendelet 3. §-ával megállapított szöveg.
