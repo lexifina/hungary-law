@@ -1,1 +1,3 @@
-3. § Az R. 2. § (5) bekezdésében a „jogosult (4)” szövegrész helyébe a „jogosult (4) és (4a)” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
