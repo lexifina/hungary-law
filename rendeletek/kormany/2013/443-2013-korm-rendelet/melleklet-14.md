@@ -110,7 +110,7 @@
 
 ## (bélyegzője)
 
-14. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^52]
+14. melléklet a 443/2013. (XI. 27.) Korm. rendelethez[^55]
 
 A telephely fenntartása nélkül fémkereskedelmi tevékenységet végző fémkereskedő által fémkereskedelmi engedélyköteles anyag szállításáról szóló bejelentés adattartalma
 
@@ -176,4 +176,4 @@ dc) átvett súly:
 
 9. Dátum, aláírás
 
-[^52]: A 14. mellékletet a 713/2020. (XII. 30.) Korm. rendelet 39. § (7) bekezdése iktatta be.
+[^55]: A 14. mellékletet a 713/2020. (XII. 30.) Korm. rendelet 39. § (7) bekezdése iktatta be.

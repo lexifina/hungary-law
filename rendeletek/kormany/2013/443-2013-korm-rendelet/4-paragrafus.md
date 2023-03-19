@@ -1,6 +1,6 @@
 ## 3. A fémkereskedő telephely működésének feltételei
 
-4. § (1)[^8] A fémkereskedelmi engedély iránti kérelmet a 2. melléklet szerinti adattartalommal, a fémkereskedelmi hatóság honlapján közzétett formátumban – papír alapon vagy elektronikus úton – az engedélyező vámszervhez kell benyújtani.
+4. § (1)[^8] A fémkereskedelmi engedély iránti kérelmet a 2. melléklet szerinti adattartalommal, a fémkereskedelmi hatóság honlapján közzétett formátumban – a gazdálkodó szervezeteknek elektronikus úton – az engedélyező vámszervhez kell benyújtani.
 
 (1a)[^9] Az elektronikus úton benyújtott kérelem esetén a kérelmezőnek az engedélyezési eljárás folyamán – az eljárás végleges befejezéséig – a fémkereskedelmi hatósággal a kapcsolatot elektronikus úton kell tartania.
 
@@ -22,7 +22,7 @@ e) a fémkereskedő engedélyköteles anyagok azonosításához alkalmazott leí
 
 (4) A Fémtv. 7. § (3) bekezdésében foglalt tartozásmentességről szóló igazolás alatt a NAV által kiállított igazolás értendő.
 
-[^8]: A 4. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 214. § (1) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^8]: A 4. § (1) bekezdése a 82/2023. (III. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^9]: A 4. § (1a) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 214. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 468. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^10]: A 4. § (1b) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 214. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 468. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^11]: A 4. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 467. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

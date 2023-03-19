@@ -34,13 +34,13 @@ e) az eladó címe:
 
 f) az eladó adószáma vagy adóazonosítója:
 
-g)[^50] természetes személy esetében a személyazonosságot igazoló hatósági okmány száma:
+g)[^53] természetes személy esetében a személyazonosságot igazoló hatósági okmány száma:
 
 h) a számla vagy a kísérő okmány száma:
 
 i) mért mennyiség (kg):
 
-j)[^51] természetes személy eladó esetén a bruttó vételár:
+j)[^54] természetes személy eladó esetén a bruttó vételár:
 
 k) visszaigazolás száma:
 
@@ -66,5 +66,5 @@ h) mért mennyiség (kg):
 
 i) szállítóeszköz azonosítója:
 
-[^50]: A 4. melléklet 2. pont g) alpontja a 713/2020. (XII. 30.) Korm. rendelet 40. § f) pontja szerint módosított szöveg.
-[^51]: A 4. melléklet 2. pont j) alpontja a 713/2020. (XII. 30.) Korm. rendelet 40. § g) pontja szerint módosított szöveg.
+[^53]: A 4. melléklet 2. pont g) alpontja a 713/2020. (XII. 30.) Korm. rendelet 40. § f) pontja szerint módosított szöveg.
+[^54]: A 4. melléklet 2. pont j) alpontja a 713/2020. (XII. 30.) Korm. rendelet 40. § g) pontja szerint módosított szöveg.

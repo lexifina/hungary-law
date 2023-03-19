@@ -4,6 +4,8 @@
 
 (2) A megállapodást két eredeti példányban kell kiállítani, melyből az egyik példányt a fémkereskedő nyilvántartásai mellett köteles őrizni.
 
-(3) A megállapodás második példányát a fémkereskedelmi engedélyköteles anyagot átadó személy az átadástól számított 5 évig köteles megőrizni.
+(3)[^38]
 
 (4) A fémkereskedő a Fémtv. 5. § (5) bekezdésében foglalt értesítési kötelezettségét az engedélyező vámszerv, illetve az engedélyező vámszerv illetékességi területén kívül lévő telephelye tekintetében a telephely szerint illetékes vámszerv részére írásbelinek minősülő elektronikus úton (ideértve a telefaxot), hangkapcsolatot biztosító elektronikus úton (ideértve a telefont), vagy írásbelinek nem minősülő elektronikus úton (ideértve az e-mailt) teljesíti.
+
+[^38]: A 21. § (3) bekezdését a 82/2023. (III. 16.) Korm. rendelet 3. §-a hatályon kívül helyezte.
