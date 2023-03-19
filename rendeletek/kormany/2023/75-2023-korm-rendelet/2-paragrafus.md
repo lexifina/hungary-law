@@ -1,3 +1,3 @@
-2. § Az Ehat. vhr. 29. §-a a következő d) ponttal egészül ki:
+2. §[^3]
 
-(Ez a rendelet)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
