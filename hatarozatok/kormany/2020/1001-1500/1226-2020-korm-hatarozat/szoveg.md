@@ -24,10 +24,11 @@ Felelős: pénzügyminiszter
 
 Határidő: a 2022–2025. évi központi költségvetés tervezésekor
 
-4. felhívja a külgazdasági és külügyminisztert, hogy a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaság bevonásával folyamatosan vizsgálja a tagság külgazdasági hatásait és a magyar gazdasági szereplők bekapcsolódási lehetőségét az Együttműködési Központ közreműködésével létrejövő projektek végrehajtásába, és tegyen javaslatot a pénzügyminiszter számára az Együttműködési Központtal való további együttműködésre.
+4.[^2] felhívja a gazdaságfejlesztési minisztert, hogy az Eximbank bevonásával folyamatosan vizsgálja a tagság külgazdasági hatásait és a magyar gazdasági szereplők bekapcsolódási lehetőségét a Multilaterális Fejlesztésfinanszírozási Együttműködési Központ közreműködésével létrejövő projektek végrehajtásába, tegyen javaslatot az Együttműködési Központtal való további együttműködésre, valamint delegáljon képviselőt az Együttműködési Központ operatív feladatait ellátó Koordinációs Bizottságba.
 
-Felelős: külgazdasági és külügyminiszter
+| Felelős: | gazdaságfejlesztési miniszter |
 
-Határidő: évente, június 30-ig
+| Határidő: | folyamatos, illetve a képviselő delegálására 2023. március 31. |
 
 [^1]: A 2. pont az 1311/2022. (VI. 28.) Korm. határozattal megállapított szöveg.
+[^2]: A 4. pont az 1092/2023. (III. 21.) Korm. határozattal megállapított szöveg.
