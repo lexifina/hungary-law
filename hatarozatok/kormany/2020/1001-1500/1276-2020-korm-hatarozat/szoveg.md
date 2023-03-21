@@ -6,4 +6,6 @@ A Kormány
 
 3. felhívja a külgazdasági és külügyminisztert, hogy az Egyezmény szövegének végleges megállapításához szükséges meghatalmazási okiratot adja ki;
 
-4. elfogadja az Egyezmény kihirdetéséről szóló törvénytervezetet, és elrendeli az Egyezmény szövegének végleges megállapítását követően annak az Országgyűléshez történő benyújtását. A törvényjavaslat előadójának a Kormány a belügyminisztert jelöli ki.
+4.[^1] elfogadja az Egyezmény kihirdetéséről szóló törvénytervezetet, és elrendeli az Egyezmény szövegének végleges megállapítását követően annak az Országgyűléshez történő benyújtását.
+
+[^1]: A 4. pont az 1098/2023. (III. 21.) Korm. határozat 1. pontja szerint módosított szöveg.
