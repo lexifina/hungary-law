@@ -1,1 +1,0 @@
-A Kormány a fémkereskedelemről szóló 2013. évi CXL. törvény 15. § (7) bekezdés b), c), e) és n) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
