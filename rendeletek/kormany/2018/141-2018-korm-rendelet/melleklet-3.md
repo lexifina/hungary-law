@@ -240,8 +240,10 @@
 
 | 111. | Új csirkevágó, -feldolgozó üzem kialakítására irányuló beruházás Szentes területén | Szentes belterület 4130/3, 4130/10, 4141, 4142/1, 4139/3, 4130/13, 4134, 4130/9, 4124/2, 4123/7, 4698/4, 4128, 4122/3 helyrajzi számú ingatlanok | Csongrád-Csanád Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^331]
+| 112. | Logisztikai raktárcsarnok építésére és kiegészítő funkciók kialakítására irányuló beruházás Tát város területén | Tát külterület 072/4 helyrajzi számú ingatlan, valamint Tát belterület 1788/42 és 1788/50 helyrajzi számú ingatlanok | Komárom-Esztergom Vármegyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^334]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^331]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^334]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
