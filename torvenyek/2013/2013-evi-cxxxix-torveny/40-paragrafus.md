@@ -75,3 +75,5 @@
 (38) Az MNB a 39. § (1) bekezdés c), i), k)–m) pontjában meghatározott feladatai során ellátja a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet végrehajtását.
 
 (39) Az MNB a 4. § (9) bekezdésében meghatározott feladatkörében ellátja az Unióban történő határon átnyúló fizetésekről szóló 2021. július 14-i (EU) 2021/1230 európai parlamenti és tanácsi rendelet (a továbbiakban: az (EU) 2021/1230 európai parlamenti és tanácsi rendelet) 8. és 9. cikke szerinti illetékes hatóságként az (EU) 2021/1230 európai parlamenti és tanácsi rendelet végrehajtásából eredő feladatokat.
+
+(40) Az MNB a 39. § (1) bekezdés h) és l) pontjában meghatározott feladatai során ellátja a megosztott főkönyvi technológián alapuló piaci infrastruktúrák kísérleti rendszeréről, valamint a 600/2014/EU és a 909/2014/EU rendelet, továbbá a 2014/65/EU irányelv módosításáról szóló, 2022. május 30-i (EU) 2022/858 parlamenti és tanácsi rendelet végrehajtását.

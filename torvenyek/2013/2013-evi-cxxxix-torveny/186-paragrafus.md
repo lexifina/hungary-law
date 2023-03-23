@@ -60,6 +60,8 @@ végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatk�
 
 23. (39) bekezdése az (EU) 2021/1230 európai parlamenti és tanácsi rendelet
 
+24. (40) bekezdése a megosztott főkönyvi technológián alapuló piaci infrastruktúrák kísérleti rendszeréről, valamint a 600/2014/EU és a 909/2014/EU rendelet, továbbá a 2014/65/EU irányelv módosításáról szóló, 2022. május 30-i (EU) 2022/858 parlamenti és tanácsi rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg az MNB feladatkörében és eljárásában.
 
 (6) A pénzügyi fogyasztói jogvita tekintetében
