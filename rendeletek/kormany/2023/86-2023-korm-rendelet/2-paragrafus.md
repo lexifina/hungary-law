@@ -1,3 +1,3 @@
-2. § A 141/2018. (VII. 27.) Korm. rendelet a következő 118. §-sal egészül ki:
+2. §[^3]
 
-„118. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 86/2023. (III. 21.) Korm. rendelettel (a továbbiakban: Módr110.) megállapított 5/P. §-át és 2. mellékletébenfoglalt táblázat 112. sorát a Módr110. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
