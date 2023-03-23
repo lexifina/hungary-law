@@ -1,1 +1,0 @@
-A Debrecen megyei jogú város külterületén található földrészletek beruházási célterületté nyilvánításáról szóló 1147/2018. (III. 26.) Korm. határozat 1. mellékletében a „0359/2” szövegrész helyébe a „0359/2, 0367/112, 0367/113, 0367/114, 0367/149, 0367/150, 0367/153, 0367/154” szöveg lép.
