@@ -1,4 +1,4 @@
-6. § Pénzügyi eszköz
+6. § Pénzügyi eszköz – ideértve annak megosztott főkönyvi technológia útján kibocsátott formáját is –
 
 a) az átruházható értékpapír,
 
