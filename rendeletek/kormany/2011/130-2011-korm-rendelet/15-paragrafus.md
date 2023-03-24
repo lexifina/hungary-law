@@ -1,5 +1,5 @@
 ## 14. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-15. §[^36]
+15. §[^42]
 
-[^36]: A 15–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 15–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,4 +1,4 @@
-8. § (1)[^27] Az államháztartásról szóló 2011. évi CXCV. törvény 104. § (1) bekezdése szerinti törzskönyvi nyilvántartás a Szolgálatokról a Szolgálat
+8. § (1)[^32] Az államháztartásról szóló 2011. évi CXCV. törvény 104. § (1) bekezdése szerinti törzskönyvi nyilvántartás a Szolgálatokról a Szolgálat
 
 1. törzskönyvi azonosító számát,
 
@@ -8,7 +8,7 @@
 
 4. alaptevékenységét az alapító okirat szerint,
 
-5.[^28] adószámát, KSH statisztikai számjelét és a Nemzeti Adó- és Vámhivatal Kiemelt Adó- és Vámigazgatósága kizárólagos illetékességi körébe tartozását,
+5.[^33] adószámát, KSH statisztikai számjelét és a Nemzeti Adó- és Vámhivatal Kiemelt Adó- és Vámigazgatósága kizárólagos illetékességi körébe tartozását,
 
 6. felett alapítói jogok gyakorlására jogosult megnevezését,
 
@@ -30,5 +30,5 @@ tartalmazza.
 
 (2) A törzskönyvi nyilvántartás szerinti, de kincstári nyilvántartásba nem vehető adatokat a Szolgálatok tartják nyilván. Ezen adatokról külső szerv csak a főigazgató engedélyével kaphat tájékoztatást.
 
-[^27]: A 8. § (1) bekezdése az 553/2013. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^28]: A 8. § (1) bekezdés 5. pontja a 486/2015. (XII. 29.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^32]: A 8. § (1) bekezdése az 553/2013. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^33]: A 8. § (1) bekezdés 5. pontja a 486/2015. (XII. 29.) Korm. rendelet 30. §-a szerint módosított szöveg.

@@ -10,9 +10,10 @@
 
 (4)[^6] A Szolgálatok házipénztárába befolyt bevételeket értékhatártól függetlenül a kincstári egységes számlára nem kell befizetni, ugyanakkor – ha szükséges – gondoskodni kell a bevételeknek megfelelő összegű előirányzat-módosítások végrehajtásáról, azzal, hogy a bevételek – a bevételi előirányzaton felüli többletbevétel kivételével – addig is közvetlenül felhasználhatók a kiadások teljesítésére. A Szolgálatoknak a házipénztár forgalmáról külön bejelentési kötelezettségük nincs a Kincstár részére.
 
-(5) A Szolgálatok házipénztárukban az erről szóló miniszteri utasításban meghatározott összegig tarthatnak készpénzt.
+(5)[^7]
 
 [^3]: A 2. § (1a) bekezdését a 801/2021. (XII. 28.) Korm. rendelet 1. §-a iktatta be.
 [^4]: A 2. § (2) bekezdése az 553/2013. (XII. 31.) Korm. rendelet 2. §-ével megállapított szöveg.
 [^5]: A 2. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 569. §-a szerint módosított szöveg.
 [^6]: A 2. § (4) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 2. § (5) bekezdését a 85/2023. (III. 21.) Korm. rendelet 5. §-a hatályon kívül helyezte.
