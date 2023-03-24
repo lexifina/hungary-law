@@ -2,9 +2,9 @@
 
 (2) A mezőgazdasági haszonállatok tartásának állatvédelmi szabályairól szóló 32/1999. (III. 31.) FVM rendelet 4. számú mellékletében foglaltaknak megfelelően hizlalt libából és kacsából Magyarországon előállított termékek végső fogyasztó számára történő forgalomba hozatala esetén az előrecsomagolt élelmiszeren fel kell tüntetni „Az állatvédelmi előírásoknak megfelelő töméses hizlalásból” kiegészítő jelölést.
 
-(3)[^14] A nem előrecsomagolt friss vagy hűtött sertés-, juh-, kecske- és baromfihús (a darált hús és a húsnyesedék kivételével) végső fogyasztónak történő értékesítése esetén a származási országot az 1169/2011/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak a friss, hűtött vagy fagyasztott sertés-, juh-, kecske- és baromfihús származási országa vagy eredete helyének feltüntetése tekintetében történő megállapításáról szóló, 2013. december 13-i 1337/2013/EU bizottsági végrehajtási rendeletnek (a továbbiakban: 1337/2013/EU bizottsági végrehajtási rendelet) megfelelően, jól látható módon, fizikai vagy elektronikus hordozón, az eladásra kínálás helyén fel kell tüntetni oly módon, hogy az eladásra kínált, különböző származási országú húsok a végső fogyasztó számára egymástól egyértelműen elkülöníthetőek legyenek.
+(3)[^17] A nem előrecsomagolt friss vagy hűtött sertés-, juh-, kecske- és baromfihús (a darált hús és a húsnyesedék kivételével) végső fogyasztónak történő értékesítése esetén a származási országot az 1169/2011/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak a friss, hűtött vagy fagyasztott sertés-, juh-, kecske- és baromfihús származási országa vagy eredete helyének feltüntetése tekintetében történő megállapításáról szóló, 2013. december 13-i 1337/2013/EU bizottsági végrehajtási rendeletnek (a továbbiakban: 1337/2013/EU bizottsági végrehajtási rendelet) megfelelően, jól látható módon, fizikai vagy elektronikus hordozón, az eladásra kínálás helyén fel kell tüntetni oly módon, hogy az eladásra kínált, különböző származási országú húsok a végső fogyasztó számára egymástól egyértelműen elkülöníthetőek legyenek.
 
-(4)[^15] A (3) bekezdés szerinti jelölés feltüntetésére szolgáló fizikai vagy elektronikus hordozón fel kell tüntetni
+(4)[^18] A (3) bekezdés szerinti jelölés feltüntetésére szolgáló fizikai vagy elektronikus hordozón fel kell tüntetni
 
 a) a származási országra vonatkozó szöveges információt sötét színnel, világos háttéren, úgy, hogy az 1169/2011/EU európai parlamenti és tanácsi rendelet IV. melléklete szerinti x-magasság legalább 5 mm legyen, és
 
@@ -14,17 +14,19 @@ ba) származási hely esetén legalább 50 mm × 30 mm;
 
 bb) állattartás helye és vágás helye együttes jelölése esetén legalább 40 mm × 25 mm
 
-## méretben.
+méretben.
 
-(5)[^16] Az 1337/2013/EU bizottsági végrehajtási rendelet 5. cikk (1) bekezdésének második és harmadik albekezdésében, valamint 6. cikkében meghatározott esetekben a származási országot elegendő szöveges információval jelölni.
+(5)[^19] Az 1337/2013/EU bizottsági végrehajtási rendelet 5. cikk (1) bekezdésének második és harmadik albekezdésében, valamint 6. cikkében meghatározott esetekben a származási országot elegendő szöveges információval jelölni.
 
-(6)[^17] A (3)–(5) bekezdés alkalmazásában származási országnak
+(6)[^20] A (3)–(5) bekezdés alkalmazásában származási országnak
 
 a) a származási helyet vagy
 
 b) az állattartás helyét és a vágás helyét
 
-[^14]: A 7/B. § (3) bekezdését az 53/2019. (XI. 25.) AM rendelet 2. §-a iktatta be, szövege a 33/2020. (VI. 26.) AM rendelet 3. §-a szerint módosított szöveg.
-[^15]: A 7/B. § (3) bekezdését az 53/2019. (XI. 25.) AM rendelet 2. §-a iktatta be.
-[^16]: A 7/B. § (5) bekezdését az 53/2019. (XI. 25.) AM rendelet 2. §-a iktatta be.
-[^17]: A 7/B. § (6) bekezdését az 53/2019. (XI. 25.) AM rendelet 2. §-a iktatta be.
+kell tekinteni.
+
+[^17]: A 7/B. § (3) bekezdését az 53/2019. (XI. 25.) AM rendelet 2. §-a iktatta be, szövege a 33/2020. (VI. 26.) AM rendelet 3. §-a szerint módosított szöveg.
+[^18]: A 7/B. § (3) bekezdését az 53/2019. (XI. 25.) AM rendelet 2. §-a iktatta be.
+[^19]: A 7/B. § (5) bekezdését az 53/2019. (XI. 25.) AM rendelet 2. §-a iktatta be.
+[^20]: A 7/B. § (6) bekezdését az 53/2019. (XI. 25.) AM rendelet 2. §-a iktatta be.
