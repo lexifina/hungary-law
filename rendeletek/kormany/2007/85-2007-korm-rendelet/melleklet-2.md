@@ -28,13 +28,17 @@
 
 | 14. | Tanulói és hallgatói jogviszony alapján igénybe vehető utazási kedvezmények |
 
-| 15. | 6 éven felüli óvodás | 3. § (1) bekezdés a) pontja | – | 90% | az Szr. 1. mellékletében meghatározott mértékű kedvezmény |
+| 15. | 6 éven felüli óvodás | 3. § (1) bekezdés a) pontja, továbbá 3. § (1a) bekezdése | – | 90% | az Szr. 1. mellékletében meghatározott mértékű kedvezmény |
 
 | 16. | nappali oktatás munkarendje és esti oktatás munkarendje szerint folyó oktatásban részt vevő tanuló középiskola végéig iskola–lakhely közötti utazásra | 3. § (1) bekezdés b) pont ba) alpont 1–2. alpontja | 50% | 90% | az Szr. 1. mellékletében meghatározott mértékű kedvezmény |
+
+| 16a | nappali oktatás munkarendje és esti oktatás munkarendje szerint folyó oktatásban részt vevő tanuló középiskola végéig | 3. § (1a) bekezdése | – | 90% | – |
 
 | 17. | nappali és esti oktatás munkarendje szerint folyó oktatásban részt vevő tanuló középiskola, szakiskola végéig bármely viszonylatú utazásra | 3. § (1) bekezdés b) pont ba) alpont 1. és 3. alpontja | 50% | – | az Szr. 1. mellékletében meghatározott mértékű kedvezmény |
 
 | 18. | nappali és esti képzés munkarendje szerint felsőoktatásban tanulmányokat folytató hallgató intézmény–lakhely közötti utazásra | 3. § (1) bekezdés b) pont bc) alpont 1. és 2. alpontja | 50% | 90% | az Szr. 1. mellékletében meghatározott mértékű kedvezmény |
+
+| 18a | nappali és esti képzés munkarendje szerint felsőoktatásban tanulmányokat folytató hallgató | 3. § (1a) bekezdése | – | 90% | – |
 
 | 19. | nappali és esti tagozatos felsőoktatásban tanuló bármely viszonylatban | 3. § (1) bekezdés b) pont bc) alpont 2. alpontja | 50% | – | az Szr. 1. mellékletében meghatározott mértékű kedvezmény |
 
@@ -80,11 +84,11 @@
 
 | 40. | Fogyatékos személyek utazási kedvezménye |
 
-| 41. | vak személy | 8. § (1) bekezdés a) pontja | 90% | 90% | 100% |
+| 41. | vak személy | 8. § (1) bekezdés a) pontja, továbbá 8. § (1a) bekezdése | 90% | 90% | 100% |
 
-| 42. | hallássérült személy | 8. § (1) bekezdés b) pontja | 90% | 90% | 100% |
+| 42. | hallássérült személy | 8. § (1) bekezdés b) pontja, továbbá 8. § (1a) bekezdése | 90% | 90% | 100% |
 
-| 43. | a magasabb összegű családi pótlékban részesülő gyermek, valamint az 1998. évi XXVI. törvény szerint súlyosan fogyatékos személy | 8. § (1) bekezdés c) és d) pontja | 90% | 90% | 100% |
+| 43. | a magasabb összegű családi pótlékban részesülő gyermek, valamint az 1998. évi XXVI. törvény szerint súlyosan fogyatékos személy | 8. § (1) bekezdés c) és d) pontja, továbbá 8. § (1a) bekezdése | 90% | 90% | 100% |
 
 | 44. | a magasabb összegű családi pótlékban részesülő gyermek, valamint az 1998. évi XXVI. törvény szerinti súlyosan fogyatékos személy, a vak személy és hallássérült személy 1 fő kísérője | 8. § (1) bekezdés e) pontja | 90% | – | 100% |
 
@@ -110,6 +114,6 @@
 
 | 55. | a szülő (szülők) és a vele (velük) együtt utazó legalább 3 gyermekük | 9. § (1) bekezdés f) pontja | 90% | – | – |
 
-2. melléklet a 85/2007. (IV. 25.) Korm. rendelethez[^45]
+2. melléklet a 85/2007. (IV. 25.) Korm. rendelethez[^52]
 
-[^45]: A 2. számú melléklet a Magyar Közlöny 2007. évi 65. számában megjelent helyesbítésnek megfelelő szöveg.
+[^52]: A 2. számú melléklet a Magyar Közlöny 2007. évi 65. számában megjelent helyesbítésnek megfelelő szöveg.
