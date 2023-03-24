@@ -1,4 +1,4 @@
-4. §[^17] (1) A munkavállaló részére a 3. § szerinti térítés helyett a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 25. § (2) bekezdésében munkába járás költségtérítése címén meghatározott összeg 60 százaléka akkor jár, ha
+4. §[^19] (1) A munkavállaló részére a 3. § szerinti térítés helyett a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) 25. § (2) bekezdésében munkába járás költségtérítése címén meghatározott összeg 60 százaléka akkor jár, ha
 
 a) a munkavállaló lakóhelye vagy tartózkodási helye, valamint a munkavégzés helye között nincsen közösségi közlekedés;
 
@@ -10,4 +10,4 @@ d) a munkavállalónak bölcsődei ellátást igénybe vevő vagy tíz év alatt
 
 (2) A költségtérítést az Szja tv. 25. § (2) bekezdésében meghatározott összeg és az (1) bekezdésben meghatározott összeg különbözetéig a munkáltató mérlegelési jogkörben nyújthatja az (1) bekezdésben foglalt feltételeknek megfelelő munkavállaló számára.
 
-[^17]: A 4. § a 4/2017. (I. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^19]: A 4. § a 4/2017. (I. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-39-20-2
 | 2019-03-13 | 2010-39-20-22.14 | 217/2016. (VII. 22.) Korm. rendelet |
 | 2021-01-01 | 2010-39-20-22.15 | 217/2016. (VII. 22.) Korm. rendelet |
 | 2022-04-12 | 2010-39-20-22.16 | 134/2022. (IV. 7.) Korm. rendelet |
+| 2023-03-24 | 2010-39-20-22.17 | 91/2023. (III. 23.) Korm. rendelet |

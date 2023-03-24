@@ -16,7 +16,7 @@ utazik a munkavégzés helyére, továbbá, ha hazautazás céljából légi kö
 
 a) bármely menetjegy vagy bérlet, amelyről a feltüntetett viszonylat alapján megállapítható, hogy alkalmas napi munkába járásra és hazautazásra,
 
-b) országosnál kisebb területi érvényességű bérlet, amely meghatározott területen érvényes, továbbá alkalmas és szükséges a napi munkába járásra és hazautazásra történő felhasználásra.
+b)[^14] helyközi országbérlet, helyközi vármegyebérlet, valamint egyéb olyan, az országosnál kisebb területi érvényességű bérlet, amely meghatározott területen érvényes, továbbá alkalmas és szükséges a napi munkába járásra és hazautazásra történő felhasználásra.
 
 (2) A munkáltató által fizetett napi munkába járással kapcsolatos költségtérítés a bérlettel vagy menetjeggyel való elszámolás ellenében azok árának legalább 86%-a.
 
@@ -24,14 +24,18 @@ b) országosnál kisebb területi érvényességű bérlet, amely meghatározott
 
 a) 2010-ben 30 000 forint,
 
-b) 2011-től minden évben az előző évben irányadó összegnek a Központi Statisztikai Hivatal által a megelőző évre megállapított és közzétett éves átlagos fogyasztói árnövekedés mértékével növelt összege.[^14]
+b) 2011-től minden évben az előző évben irányadó összegnek a Központi Statisztikai Hivatal által a megelőző évre megállapított és közzétett éves átlagos fogyasztói árnövekedés mértékével növelt összege.[^15]
 
-(4)[^15] A hazautazással kapcsolatos költségtérítés e rendeletben meghatározott felső korlátjának a tárgyévre vonatkozó mértékét a foglalkoztatáspolitikáért felelős miniszter 2011-től kezdődően minden év január 25-ig a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közleményében teszi közzé.[^16]
+(3a)[^16] Ha a munkába járáshoz a bérletet vagy menetjegyet elektronikus úton és papírra ki nem nyomtatható módon váltották meg, a (2) és (3) bekezdés szerinti elszámolás a bérlet vagy menetjegy vásárlásáról kiállított elektronikus számla és a szolgáltató által ahhoz kiadott igazolás alapján történik.
+
+(4)[^17] A hazautazással kapcsolatos költségtérítés e rendeletben meghatározott felső korlátjának a tárgyévre vonatkozó mértékét a foglalkoztatáspolitikáért felelős miniszter 2011-től kezdődően minden év január 25-ig a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közleményében teszi közzé.[^18]
 
 [^10]: A 3. § (1) bekezdés b) pontja a 193/2015. (VII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^11]: A 3. § (1) bekezdés c) pontja a 193/2015. (VII. 21.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^12]: A 3. § (1a) bekezdését a 335/2016. (XI. 11.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^13]: A 3. § (1b) bekezdését a 134/2022. (IV. 7.) Korm. rendelet 3. §-a iktatta be.
-[^14]: A munkáltató által fizetett hazautazással kapcsolatos költségtérítés havi felső korlátja a 2021. évben 39 730 forint.
-[^15]: A 3. § (4) bekezdése a 4/2017. (I. 12.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^16]: Lásd a Hivatalos Értesítő 2021. évi 7. számában megjelent ITM közleményt.
+[^14]: A 3. § (1b) bekezdés b) pontja a 91/2023. (III. 23.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^15]: A munkáltató által fizetett hazautazással kapcsolatos költségtérítés havi felső korlátja a 2021. évben 39 730 forint.
+[^16]: A 3. § (3a) bekezdését a 91/2023. (III. 23.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^17]: A 3. § (4) bekezdése a 4/2017. (I. 12.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^18]: Lásd a Hivatalos Értesítő 2021. évi 7. számában megjelent ITM közleményt.
