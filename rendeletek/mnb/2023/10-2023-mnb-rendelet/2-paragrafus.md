@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 75% réz és 25% nikkel ötvözetéből készült, súlya 12,5 gramm, átmérője 30 mm, széle recézett.
+
+(2) Az emlékérme előlapján egy felület differenciálgeometriájára utaló térbeli elem ábrázolása látható, utalva Raoul Bottnak ezen a területen végzett kutatásaira. A térbeli elem ábrázolásától balra, fent, köriratban a „MAGYARORSZÁG” felirat, két vízszintes sorban a „3000” értékjelzés és a „FORINT” felirat, a térbeli elem ábrázolásától jobbra, lent, két vízszintes sorban a „2023” verési évszám és a „BP.” verdejel olvasható, alatta Holló István tervezőművész mesterjegye látható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján Raoul Bott időskori portréja látható. A portrétól jobbra Raoul Bott periodicitási tételét leíró „πn(0(∞))≅πn+8(0(∞))” képlet olvasható. A hátlap szélén, fent, köriratban – egymástól egy díszítő ponttal elválasztva – a „RAOUL BOTT”, valamint Raoul Bott matematikai díját és az odaítélés évét jelölő „WOLF-DÍJ 2000” felirat olvasható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
