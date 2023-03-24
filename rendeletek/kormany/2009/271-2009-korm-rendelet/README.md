@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-271-20-
 | 2019-12-03 | 2009-271-20-22.21 | 128/2019. (V. 30.) Korm. rendelet |
 | 2020-10-31 | 2009-271-20-22.16 | 415/2020. (VIII. 30.) Korm. rendelet |
 | 2022-04-12 | 2009-271-20-22.17 | 134/2022. (IV. 7.) Korm. rendelet |
+| 2023-03-24 | 2009-271-20-22.20 | 91/2023. (III. 23.) Korm. rendelet |

@@ -34,11 +34,11 @@ g) a menetdíj, a menetdíj-különbözet vagy a pótdíj megfizetését megtaga
 
 (6) A vonatról a neki felróható rendellenes magatartása miatt a (3) bekezdés alapján a személyszállításból kizárt utas nem követelheti vissza a kifizetett menetdíjat vagy egyéb díjat, és feladott útipoggyásza kiszolgáltatását is csak az eredeti célállomáson kérheti.
 
-(7)[^20] A vasúti társaság üzletpolitikai kedvezménnyel igénybe vehető személyszállítási szolgáltatásnál
+(7)[^21] A vasúti társaság üzletpolitikai kedvezménnyel igénybe vehető személyszállítási szolgáltatásnál
 
 a) az utazás megszakítására,
 
-b)[^21] az utazás megkezdésének időpontja szabad megválasztására,
+b)[^22] az utazás megkezdésének időpontja szabad megválasztására,
 
 c) az utazás útirányának szabad megválasztására,
 
@@ -46,5 +46,5 @@ d) a menetjegy visszaváltására
 
 vonatkozó jogosultság tekintetében az üzletszabályzatban e rendelet rendelkezéseitől eltérhet.
 
-[^20]: A 10. § (7) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 10. §-a iktatta be.
-[^21]: A 10. § (7) bekezdés b) pontja a 134/2022. (IV. 7.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^21]: A 10. § (7) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 10. §-a iktatta be.
+[^22]: A 10. § (7) bekezdés b) pontja a 134/2022. (IV. 7.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

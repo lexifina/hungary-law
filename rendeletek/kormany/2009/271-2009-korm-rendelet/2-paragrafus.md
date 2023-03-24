@@ -22,9 +22,12 @@ i)[^5] utazási feltételek: az utasok számára az üzletszabályzatban meghat�
 
 j)[^6] elektronikus bérlet: olyan, elektronikus adathordozón rögzített, személyhez kötött utazási jogosultság, ami a rajta feltüntetett időszakon és viszonylaton vagy érvényességi területen belül korlátlan számú utazásra jogosít.
 
+k)[^7] területi érvényességű menetjegy: viszonylatmegjelölés nélküli, nem távolságalapú díjszámítás alapján árazott menetjegy.
+
 [^1]: A 2. § b) pontja a 134/2022. (IV. 7.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § c) pontja a 328/2013. (IX. 3.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § g) pontját a 328/2013. (IX. 3.) Korm. rendelet 6. §-a iktatta be.
 [^4]: A 2. § h) pontját a 328/2013. (IX. 3.) Korm. rendelet 6. §-a iktatta be.
 [^5]: A 2. § i) pontját a 328/2013. (IX. 3.) Korm. rendelet 6. §-a iktatta be.
 [^6]: A 2. § j) pontját a 134/2022. (IV. 7.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^7]: A 2. § k) pontját a 91/2023. (III. 23.) Korm. rendelet 8. §-a iktatta be.

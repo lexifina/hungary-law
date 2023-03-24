@@ -4,6 +4,6 @@
 
 (3) Ha az utas – annak ellenére, hogy felszállása előtt a menetjegy megváltási lehetőségét a vasúti társaság az indulási állomáson biztosította – érvényes menetjegy nélkül utazik, a menetdíjon felül pótdíjat köteles fizetni. A kísérő nélkül utazó fogyatékkal élő vagy csökkent mozgásképességű személy (EK rendelet 3. cikk 15. pont) a felszállást követő első jegykezelés alkalmával a menetjegyét pótdíjmentesen megvásárolhatja.
 
-(4)[^32] A közforgalmú menetrendben megjelölt, kalauz nélkül (KN) közlekedő vonatok csak előzetesen megváltott menetjeggyel vehetők igénybe.
+(4)[^33] A közforgalmú menetrendben megjelölt, kalauz nélkül (KN) közlekedő vonatok csak előzetesen megváltott menetjeggyel vehetők igénybe.
 
-[^32]: A 12. § (4) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 12. §-a iktatta be.
+[^33]: A 12. § (4) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 12. §-a iktatta be.

@@ -1,10 +1,10 @@
 ## A vasúti társaság felelőssége a szerződésszegéssel okozott károkért
 
-16. § (1)[^35] Amennyiben az utas felárral igénybe vehető közforgalmú személyszállító vonattal utazott, a vonat kimaradása, illetve az utas célállomására 5 percet meghaladó késéssel történő érkezése esetén a vasúti társaság a (6) bekezdésben foglaltak kivételével köteles – az utas bizonyított kára esetén – kártérítést fizetni. Egyéb esetekben a vasúti társaság kártérítés fizetésére nem kötelezett.
+16. § (1)[^36] Amennyiben az utas felárral igénybe vehető közforgalmú személyszállító vonattal utazott, a vonat kimaradása, illetve az utas célállomására 5 percet meghaladó késéssel történő érkezése esetén a vasúti társaság a (6) bekezdésben foglaltak kivételével köteles – az utas bizonyított kára esetén – kártérítést fizetni. Egyéb esetekben a vasúti társaság kártérítés fizetésére nem kötelezett.
 
 (2) Nem minősül járatkimaradásnak vagy késésnek, ha az utasok továbbszállításáról a vasúti társaság oly módon gondoskodott, vagy arra más vonattal lehetőség volt úgy, hogy az utas vonatkimaradás esetében 180 percet, a vonat késése esetén 30 percet meg nem haladó késéssel a célállomására megérkezzék.
 
-(3)[^36] A kártérítés összege nem haladhatja meg a (4) bekezdés szerinti kártérítési összeg alapjának
+(3)[^37] A kártérítés összege nem haladhatja meg a (4) bekezdés szerinti kártérítési összeg alapjának
 
 a) vonat kimaradása esetén a tizenötszörösét,
 
@@ -14,8 +14,8 @@ b) 5 percet meg nem haladó késés esetében egyszeresét, 5 perc és 30 perc k
 
 (5) A kártérítési igény elbírálásával kapcsolatos részletes szabályokat – ideértve a kárigény-bejelentés helyét, a kártérítés jogalapját alátámasztó dokumentumok körét és a vonatkozó eljárási szabályokat – a vasúti társaság az üzletszabályzatában határozza meg.
 
-(6)[^37] Ha a (3) bekezdésben meghatározott kártérítés összege az 1000 forintot nem haladja meg, a vasúti társaság kártérítés fizetésére nem köteles. Ha a vasúti társaság úgy dönt, hogy az 1000 forintot el nem érő kártérítést is megfizeti, ezt a tényt az üzletszabályzatában rögzíteni köteles.
+(6)[^38] Ha a (3) bekezdésben meghatározott kártérítés összege az 1000 forintot nem haladja meg, a vasúti társaság kártérítés fizetésére nem köteles. Ha a vasúti társaság úgy dönt, hogy az 1000 forintot el nem érő kártérítést is megfizeti, ezt a tényt az üzletszabályzatában rögzíteni köteles.
 
-[^35]: A 16. § (1) bekezdése a 25. § (2) bekezdésével megállapított, a 328/2013. (IX. 3.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
-[^36]: A 16. § (3) bekezdése a 328/2013. (IX. 3.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^37]: A 16. § (6) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 13. § (2) bekezdése iktatta be.
+[^36]: A 16. § (1) bekezdése a 25. § (2) bekezdésével megállapított, a 328/2013. (IX. 3.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^37]: A 16. § (3) bekezdése a 328/2013. (IX. 3.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^38]: A 16. § (6) bekezdését a 328/2013. (IX. 3.) Korm. rendelet 13. § (2) bekezdése iktatta be.

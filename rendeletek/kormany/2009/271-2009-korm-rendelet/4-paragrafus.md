@@ -1,10 +1,10 @@
 ## Előzetes kifizetés az utas halála vagy súlyos sérülése esetén
 
-4. § (1)[^8] Az EK rendelet 13. cikkének alkalmazása szempontjából
+4. § (1)[^9] Az EK rendelet 13. cikkének alkalmazása szempontjából
 
-a)[^9] az utas halála esetén a vasúti társaság által kifizetendő kártérítés és sérelemdíj mértéke a halál napján hivatalos, a Magyar Nemzeti Bank által meghatározott középárfolyam szerint számított forint összege,
+a)[^10] az utas halála esetén a vasúti társaság által kifizetendő kártérítés és sérelemdíj mértéke a halál napján hivatalos, a Magyar Nemzeti Bank által meghatározott középárfolyam szerint számított forint összege,
 
-b)[^10] halállal nem járó sérülés esetében a sérülés súlyosságára tekintettel a vasúti társaság által kifizetendő kártérítés és sérelemdíj összegét az üzletszabályzat tartalmazza. A végtagvesztéssel járó maradandó fogyatékosság esetében a kifizetés összege nem lehet kevesebb az (1) bekezdésben meghatározottnál.
+b)[^11] halállal nem járó sérülés esetében a sérülés súlyosságára tekintettel a vasúti társaság által kifizetendő kártérítés és sérelemdíj összegét az üzletszabályzat tartalmazza. A végtagvesztéssel járó maradandó fogyatékosság esetében a kifizetés összege nem lehet kevesebb az (1) bekezdésben meghatározottnál.
 
 (2) Az előzetes kifizetési kötelezettség teljesítése nem zárja ki és nem korlátozza az utas egyéb igényérvényesítését.
 
@@ -16,6 +16,6 @@ b) a vonaton tartózkodott és érvényes menetjeggyel, vagy utazási igazolván
 
 c) a vonaton tartózkodott, de a 11. § (7) bekezdésben foglaltak alapján nem rendelkezett érvényes menetjeggyel.
 
-[^8]: A 4. § (1) bekezdését a 24. § (4) bekezdés e) pontja hatályon kívül helyezi 2024. december 3. napjával.
-[^9]: A 4. § (1) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 22. §-a szerint módosított szöveg.
-[^10]: A 4. § (1) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^9]: A 4. § (1) bekezdését a 24. § (4) bekezdés e) pontja hatályon kívül helyezi 2024. december 3. napjával.
+[^10]: A 4. § (1) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^11]: A 4. § (1) bekezdés b) pontja az 53/2014. (III. 3.) Korm. rendelet 22. §-a szerint módosított szöveg.
