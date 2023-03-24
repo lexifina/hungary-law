@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 12,5 gramm, átmérője 30 mm, széle recézett.
+
+(2) Az emlékérme előlapján, körvonallal határolt középmezőben az Erdős Pál matematikus által is bizonyított Csebisev-tételt leíró „n < p < 2n” képlet olvasható. A képlet hátterében egy prímspirál ábrázolása látható. Az előlap szélén, köriratban, fent a „MAGYARORSZÁG” felirat, lent a „7500” értékjelzés és a „FORINT” felirat olvasható, melyeket bal oldalon a „BP.” verdejel, jobb oldalon a „2023” verési évszám választ el. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján Erdős Pál félalakos portréja látható. A portrétól jobbra, három egymás alatti sorban Erdős Pál matematikai díját és az odaítélés évét jelölő „WOLF-DÍJ • 1983”, az „ERDŐS PÁL”, valamint Erdős Pál születésének és halálának évét jelölő „1913–1996” felirat olvasható. A hátlap jobb oldali szélén, lent Kovács Zoltán tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
