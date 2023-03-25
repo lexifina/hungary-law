@@ -1,5 +1,3 @@
-## Az önálló bírósági végrehajtói állások száma
-
 ## Országosan: 227
 
 ## I.
@@ -352,9 +350,9 @@
 
 | Összesen: | 9 |
 
-2. melléklet a 6/2021. (X. 29.) SZTFH rendelethez[^22]
+2. melléklet a 6/2021. (X. 29.) SZTFH rendelethez[^30]
 
-## A bírósági végrehajtói állásra pályázók értékelésének szempontjai és az értékelés során adható pontok
+A bírósági végrehajtói állásra pályázók értékelésének szempontjai és az értékelés során adható pontok
 
 1. Iskolai végzettség – maximális pontszám: 20
 
@@ -424,4 +422,4 @@
 
 | 3. | egyéb szakirányú tudományos eredmény, oktatás, vizsgáztatás | 5 |  |
 
-[^22]: A 2. melléklet az 1/2022. (I. 14.) SZTFH rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^30]: A 2. melléklet az 1/2022. (I. 14.) SZTFH rendelet 6. § (1) bekezdésével megállapított szöveg.

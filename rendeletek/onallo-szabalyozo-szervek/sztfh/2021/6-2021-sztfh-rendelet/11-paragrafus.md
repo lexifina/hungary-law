@@ -1,4 +1,4 @@
-11. § (1)[^12] A kinevezési javaslatnak tartalmaznia kell
+11. § (1)[^20] A kinevezési javaslatnak tartalmaznia kell
 
 a) az adott álláshelyre pályázók adatait,
 
@@ -10,29 +10,27 @@ d) pontazonosság fennállása esetén az adott álláshelyre pályázók közü
 
 e) pontazonosság esetén a sorrend megállapításáról készült közjegyzői okirat eredeti példányát.
 
-(2)[^13]
+(2)[^21]
 
-(3)[^14] A Kar Hivatali szerve az értékelő bizottság kinevezési javaslatához csatolja
+(3)[^22] A Kar Hivatali szerve a kinevezési javaslathoz csatolja
 
 a) a pályázat szabályszerű meghirdetését igazoló iratokat,
 
-b) a beérkezett pályázatokat mellékleteikkel, a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítványokkal együtt,
+b) a bűnügyi nyilvántartó szerv által a Kar hivatali szerve részére továbbított hatósági erkölcsi bizonyítványokat és
 
-c) a 7. § (3) bekezdése szerinti adatokat igazoló kari iratokat (végrehajtó-helyettesi névjegyzékbe vételről szóló határozat, gyakorlati idő igazolása stb.),
+c) a 7. § (3) bekezdése szerinti adatokat igazoló kari iratokat, ideértve a végrehajtó-helyettesi névjegyzékbe vételről szóló határozatot és a gyakorlati idő igazolását is,
 
-d)[^15]
+azzal, hogy a Kar Hivatali szerve az egyes álláshelyek meghirdetési sorrendjében, álláshelyenként készíti el a kinevezési javaslatot, és továbbítja azt a Hatóság elnöke részére.
 
-és továbbítja a Hatóság elnöke részére.
+(4)[^23] A Hatóság elnöke az önálló bírósági végrehajtói állást a kinevezési javaslatban szereplő három legmagasabb pontszámot kapott pályázó egyikének kinevezésével töltheti be. A Hatóság elnöke a kinevezésről tájékoztatja a Kar Hivatali szervének vezetőjét, és értesíti arról a törvényszék elnökét is.
 
-(4)[^16] A Hatóság elnöke az önálló bírósági végrehajtói állást a kinevezési javaslatban szereplő három legmagasabb pontszámot kapott pályázó egyikének kinevezésével töltheti be. A Hatóság elnöke a kinevezésről – a pályázati anyagok visszaküldésével együtt – tájékoztatja a Kar Hivatali szervének vezetőjét, és értesíti arról a törvényszék elnökét is.
+(4a)[^24] Az adott álláshely tekintetében a pályázati kiírást a Hatóság elnöke eredménytelennek nyilvánítja, ha a Hatóság elnöke a kinevezési javaslatban felterjesztett szöveges értékelés alapján arra a megállapításra jut, hogy egyik jelölt sem alkalmas az álláshely betöltésére. Az eredménytelenség tényéről a Hatóság értesíti a Kar Hivatali szervének vezetőjét, aki az (5) bekezdés alapján jár el.
 
-(4a)[^17] Az adott álláshely tekintetében a pályázati kiírást a Hatóság elnöke eredménytelennek nyilvánítja, ha a Hatóság elnöke a kinevezési javaslatban felterjesztett szöveges értékelés alapján arra a megállapításra jut, hogy egyik jelölt sem alkalmas az álláshely betöltésére. Az eredménytelenség tényéről a Hatóság értesíti a Kar Hivatali szervének vezetőjét, aki az (5) bekezdés alapján jár el.
+(5)[^25] Ha a pályázat eredményeképpen nem kerül sor kinevezésre, a Hatóság elnöke erről szóló tájékoztatásától számított hat hónapon belül újabb pályázatot kell kiírni. Ha a második pályázat is eredménytelen, a végrehajtási ügyek ellátását újabb pályázat kiírásával kell biztosítani.
 
-(5) Ha a pályázat eredményeképpen nem kerül sor kinevezésre, a Hatóság elnöke erről szóló tájékoztatásától számított 30 napon belül újabb pályázatot kell kiírni. Ha a második pályázat is eredménytelen, a végrehajtási ügyek ellátását újabb pályázat kiírásával kell biztosítani.
-
-[^12]: A 11. § (1) bekezdése az 1/2022. (I. 14.) SZTFH rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^13]: A 11. § (2) bekezdését az 1/2022. (I. 14.) SZTFH rendelet 8. § a) pontja hatályon kívül helyezte.
-[^14]: A 11. § (3) bekezdés nyitó és záró szövegrésze az 1/2022. (I. 14.) SZTFH rendelet 7. § b)–c) pontja szerint módosított szöveg.
-[^15]: A 11. § (3) bekezdés d) pontját az 1/2022. (I. 14.) SZTFH rendelet 8. § b) pontja hatályon kívül helyezte.
-[^16]: A 11. § (4) bekezdése az 1/2022. (I. 14.) SZTFH rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^17]: A 11. § (4a) bekezdését az 1/2022. (I. 14.) SZTFH rendelet 5. § (2) bekezdése iktatta be.
+[^20]: A 11. § (1) bekezdése az 1/2022. (I. 14.) SZTFH rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^21]: A 11. § (2) bekezdését az 1/2022. (I. 14.) SZTFH rendelet 8. § a) pontja hatályon kívül helyezte.
+[^22]: A 11. § (3) bekezdése a 7/2023. (III. 22.) SZTFH rendelet 6. §-ával megállapított szöveg.
+[^23]: A 11. § (4) bekezdése az 1/2022. (I. 14.) SZTFH rendelet 5. § (2) bekezdésével megállapított, a 7/2023. (III. 22.) SZTFH rendelet 8. § b) pontja szerint módosított szöveg.
+[^24]: A 11. § (4a) bekezdését az 1/2022. (I. 14.) SZTFH rendelet 5. § (2) bekezdése iktatta be.
+[^25]: A 11. § (5) bekezdése a 7/2023. (III. 22.) SZTFH rendelet 7. § d) pontja szerint módosított szöveg.
