@@ -1,1 +1,3 @@
-7. § Hatályát veszti az R1. 4. § (1) bekezdés a) pont ac) és ae) alpontja.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
