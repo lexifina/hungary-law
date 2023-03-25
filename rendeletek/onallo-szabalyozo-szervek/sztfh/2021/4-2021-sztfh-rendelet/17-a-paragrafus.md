@@ -1,0 +1,3 @@
+17/A. §[^3] A felügyeletet ellátó hatóság a szolgáltató Pmt. 64. §-ában foglalt kötelezettségei teljesítésének támogatása érdekében évente legalább egyszer képzést szervez, amelyen a szolgáltató a Pmt. 64. § (3) bekezdése szerint legalább egy vezető beosztású alkalmazottja részvételét biztosítja. A felügyeletet ellátó hatóság a képzés során a tudatosság növelése érdekében tájékoztatást ad különösen a szektort érintő kockázatokról, a felügyeleti tapasztalatokról és az ügyfél-átvilágítási intézkedések megfelelő alkalmazásáról. A képzésen elhangzott információkat a szolgáltató beépíti a 17. § (2) bekezdése szerinti képzési programjába.
+
+[^3]: A 17/A. §-t a 7/2023. (III. 22.) SZTFH rendelet 1. §-a iktatta be.

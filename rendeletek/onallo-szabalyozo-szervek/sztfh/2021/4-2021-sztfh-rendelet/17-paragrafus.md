@@ -14,7 +14,7 @@ c) a személyazonosság igazolására alkalmas hatósági okmányok formai és b
 
 d) a pénzügyi és vagyoni korlátozó intézkedések végrehajtására, illetve az auditált elektronikus hírközlő eszköz alkalmazására
 
-## vonatkozó ismereteket.
+vonatkozó ismereteket.
 
 (4) A képzésen részt vett személyeket a szolgáltató írásban vagy szóban vizsgáztatja az általa meghatározott szempontrendszernek megfelelően.
 

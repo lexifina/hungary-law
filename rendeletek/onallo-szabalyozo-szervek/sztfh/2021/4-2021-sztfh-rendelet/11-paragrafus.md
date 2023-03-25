@@ -56,6 +56,6 @@ fc) az International Information Systems Security Certification Consortium Inc. 
 
 fd) az Információbiztonsági irányítási rendszerekre vonatkozó ISO/IEC 27001 Vezető Auditor (Lead Auditor)
 
-## képesítéssel és minősítéssel, valamint
+képesítéssel és minősítéssel, valamint
 
 g) az ügyfél kérésére az ügyfél számára lehetővé tegye az azonosításával, hitelesítésével és a nyilatkozatával kapcsolatos adatoknak az adatkezelés céljának megfelelő ideig történő tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését.
