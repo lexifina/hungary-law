@@ -23,3 +23,7 @@ d) dohánygyártmány: a Jöt.-ben ekként meghatározott termék;
 e) érintett termékek: az 1. mellékletben felsorolt termékek;
 
 f) hatósági azonosító: egyszer egykarakteres betűből és hat számból (A000000) álló azonosítószám.
+
+g)[^1] adatszolgáltatásra kötelezett személy: az Fdvtv. 3. § (1) bekezdés 16. pontja szerinti dohánytermék-kiskereskedelmi tevékenységet végző személy.
+
+[^1]: Az 1. § (2) bekezdés g) pontját a 7/2023. (III. 22.) SZTFH rendelet 15. §-a iktatta be.
