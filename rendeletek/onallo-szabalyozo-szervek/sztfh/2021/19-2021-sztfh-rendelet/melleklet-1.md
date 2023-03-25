@@ -14,7 +14,7 @@ A szervező személyi megfelelőségének igazolásához szükséges kérelemhez
 
 1.1.3. meghatalmazás, ha a szervező törvényes képviselője a szerencsejáték-felügyeleti hatóság előtti eljárásban nem személyesen jár el.
 
-1.2. A kérelmező külföldi vezető tisztségviselője vagy tagja esetén az Szjtv. 7/A. § (7) bekezdése szerinti okiratot, az 1.1.3. alpontban szereplő okirattal egyenértékű külföldi okiratot, az Szjtv. 2. § (5) bekezdésében meghatározottakat igazoló külföldi okiratot és ezek alapjául szolgáló kérelmet, valamint ezek hiteles fordítását nyújtja be. A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény hatálya alá tartozó kérelmező a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti külföldi tényleges tulajdonosa esetén (a továbbiakban: tényleges tulajdonos) e természetes személyre vonatkozóan az Szjtv. 7/A. § (7) bekezdése szerinti okiratot és ennek alapjául szolgáló kérelmet, valamint ezek hiteles fordítását nyújtja be.
+1.2.[^6] A kérelmező, a kérelmező külföldi vezető tisztségviselője vagy tagja esetén az Szjtv. 7/A. § (7) bekezdése szerinti okiratot, az 1.1.3. alpontban szereplő okirattal egyenértékű külföldi okiratot, az Szjtv. 2. § (5) bekezdésében meghatározottakat igazoló külföldi okiratot és az ezek alapjául szolgáló kérelmet, valamint ezek hiteles fordítását nyújtja be. A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény hatálya alá tartozó kérelmező a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti külföldi tényleges tulajdonosa esetén (a továbbiakban: tényleges tulajdonos) e természetes személyre vonatkozóan az Szjtv. 7/A. § (7) bekezdése szerinti okiratot és az ennek alapjául szolgáló kérelmet, valamint ezek hiteles fordítását nyújtja be.
 
 1.3. A kérelemhez nem kell csatolni az 1.1.1. alpont szerinti okiratokat, ha a tag, a tényleges tulajdonos, illetve vezető tisztségviselő által korábban a szerencsejáték-felügyeleti hatósághoz benyújtott hatósági bizonyítvány a kérelem előterjesztésekor is érvényes.
 
@@ -39,3 +39,5 @@ A szervező személyi megfelelőségének igazolásához szükséges kérelemhez
 2.2.2. adószám,
 
 2.2.3. székhely.
+
+[^6]: Az 1. melléklet 1.2. pontja a 7/2023. (III. 22.) SZTFH rendelet 11. §-ával megállapított szöveg.
