@@ -1,5 +1,3 @@
-## a játékos rendelkezésére bocsátja.
-
 ## 2. A személyazonosításhoz kötött szerencsejáték szervezőjének kötelezettségei
 
 6. § (1) A játékkaszinó üzemeltető, a kártyaterem üzemeltető, a távszerencsejáték és online kaszinójáték szervező (a továbbiakban együtt a 6–9. § alkalmazásában: személyazonosításhoz kötött szerencsejáték szervezője) a játékos azonosítását nem folytatja és a nyilvántartásba vételt megtagadja, ha a játékos 18 év alatti személy, vagy életkora az azonosítás során kétséget kizáróan nem állapítható meg.

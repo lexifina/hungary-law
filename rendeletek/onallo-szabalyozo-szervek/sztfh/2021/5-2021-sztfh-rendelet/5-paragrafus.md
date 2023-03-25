@@ -14,7 +14,7 @@ b) postai úton teljes bizonyító erejű magánokiratban vagy
 
 c) a nyilatkozattevő elektronikus azonosítását követően elektronikusan hitelesítve, elektronikus úton,
 
-## az a) pont esetében a Hatóság ügyfélszolgálatán, a b) és c) pont esetében a Hatósághoz nyújtja be.
+az a) pont esetében a Hatóság ügyfélszolgálatán, a b) és c) pont esetében a Hatósághoz nyújtja be.
 
 (3) A jelentős önkorlátozó nyilatkozatban a szerencsejáték fajták a következő felosztás szerint jelölhetők meg:
 
@@ -37,3 +37,5 @@ a) a (2) bekezdés a) pontja esetén a jelentős önkorlátozó nyilatkozat átv
 b) a (2) bekezdés b) pontja esetén a jelentős önkorlátozó nyilatkozat beérkezését követő 2 munkanapon belül nyomtatott formában postai úton vagy
 
 c) a (2) bekezdés c) pontja esetén az elektronikus nyilatkozat beérkezését követő 1 munkanapon belül elektronikus formában
+
+a játékos rendelkezésére bocsátja.
