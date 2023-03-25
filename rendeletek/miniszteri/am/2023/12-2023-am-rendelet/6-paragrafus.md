@@ -1,9 +1,3 @@
-6. § Az élelmiszerekkel kapcsolatos tájékoztatásról szóló 36/2014. (XII. 17.) FM rendelet
+6. §[^7]
 
-a) 3. § (3) bekezdés c) pontjában az „információkat.” szövegrész helyébe az „információkat, valamint” szöveg,
-
-b) 7/D. § (2) bekezdés a) pontjában a „megfelelően, és” szövegrész helyébe a „megfelelően,” szöveg,
-
-c) 7/D. § (2) bekezdés b) pontjában az „adatokról” szövegrész helyébe az „adatokról, és” szöveg
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
