@@ -78,7 +78,7 @@
 
 | 39. | 3/1981. (II. 23.) MT rendelet a Magyar Népköztársaság Kormánya és Spanyolország Kormánya között Madridban, 1980. évi február hó 19. napján aláírt nemzetközi közúti fuvarozási megállapodás kihirdetéséről |
 
-| 40. | 1969. évi 29. törvényerejű rendelet a Magyar Népköztársaság Kormánya és a Török Köztársaság Kormánya között a nemzetközi közúti fuvarozás tárgyában Budapesten, 1968. évi szeptember hó 14. napján aláírt egyezmény kihirdetéséről |
+| 40. | 2020. évi XI. törvény a Magyarország Kormánya és a Török Köztársaság Kormánya között a nemzetközi közúti személyszállításról és árufuvarozásról szóló Megállapodás kihirdetéséről |
 
 | 41. | 35/1982. (VIII. 25.) MT rendelet a Magyar Népköztársaság Kormánya és a Tunéziai Köztársaság Kormánya között Budapesten, 1981. évi július hó 6. napján aláírt nemzetközi közúti fuvarozási Megállapodás kihirdetéséről |
 
@@ -96,6 +96,6 @@
 
 | 48. | 2018. évi XXIX. törvény a Magyarország Kormánya és az Azerbajdzsáni Köztársaság Kormánya között a nemzetközi közúti személyszállításról és árufuvarozásról szóló Megállapodás kihirdetéséről |
 
-13. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^98]
+13. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^99]
 
-[^98]: A 13. mellékletet a 138/2013. (V. 10.) Korm. rendelet 11. § (4) bekezdése iktatta be, szövege a 713/2020. (XII. 30.) Korm. rendelet 19. § l) pontjával megállapított, a 18/2021. (I. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^99]: A 13. mellékletet a 138/2013. (V. 10.) Korm. rendelet 11. § (4) bekezdése iktatta be, szövege a 713/2020. (XII. 30.) Korm. rendelet 19. § l) pontjával megállapított, a 18/2021. (I. 27.) Korm. rendelet 2. §-a szerint módosított szöveg.

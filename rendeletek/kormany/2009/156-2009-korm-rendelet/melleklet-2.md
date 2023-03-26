@@ -4,11 +4,11 @@
 
 | b) Nemzetközi forgalomban közösségi engedély nélkül (nem létezik, hamis, visszavonták, lejárt) végzett közúti közlekedési szolgáltatás | RSJ | 800 000 | szállító |
 
-| c) Az előírt engedély nélkül, szabálytalanul végzett kabotázs-tevékenység, az előírt engedély nélkül végzett különjárati személyszállítás | RSJ | 800 000 | szállító |
+| c) Az előírt kabotázs engedély nélkül, szabálytalanul végzett kabotázstevékenység, az előírt engedély nélkül végzett különjárati személyszállítás | NSJ | 800 000 | szállító |
 
 | d) Közúti árutovábbítási engedély, közúti személyszállítási engedély időbeni hatálya 30 napot meghaladóan, de 90 napot meg nem haladóan lejárt | NSJ | 300 000 | szállító |
 
-| e) személygépkocsival érvényes engedély kivonat nélkül végzett közlekedési szolgáltatás | NSJ | 200 000 | szállító |
+| e) Személygépkocsival érvényes engedély kivonat nélkül végzett közlekedési szolgáltatás | NSJ | 200 000 | szállító |
 
 | 2. | A szállító vagy a járművezető nem tudja bemutatni az érvényes közösségi engedélyt vagy a közösségi engedély hitelesített másolatát (elvesztette, elfelejtette, sérült, olvashatatlan) |  |  | szállító járművezető |
 
@@ -58,7 +58,7 @@
 
 | 8. | Járművezetői igazolvány hiánya | NSJ | 200 000 | járművezető |
 
-| 8/A. | A járművezető vagy a szállító nem tudja bemutatni az érvényes járművezetői igazolványt vagy az érvényes járművezetői igazolvány hitelesített másolatát (elvesztette, elfelejtette, sérült, olvashatatlan) | NSJ | 100 000 | járművezető szállító |
+| 8/A. | A járművezető vagy a szállító nem tudja bemutatni az érvényes járművezetői igazolványt vagy az érvényes járművezetői igazolvány hitelesített másolatát (elvesztette, elfelejtette, sérült, olvashatatlan) | SJ | 100 000 | járművezető szállító |
 
 | 9. | Személy- vagy áruszállítás érvényes vezetői engedély nélkül | RSJ | 600 000 | járművezető |
 
@@ -84,12 +84,28 @@
 
 | 16. | A tagállami gazdálkodó szervezet elmulasztja a kiküldetési nyilatkozatot benyújtani | NSJ | 300 000 | szállító |
 
-| 17. | A tagállami gazdálkodó szervezet hiányosan nyújtja be a kiküldetési nyilatkozatot | NSJ | 200 000 | szállító |
+| 17. | A tagállami gazdálkodó szervezet hiányosan nyújtja be a kiküldetési nyilatkozatot | SJ | 200 000 | szállító |
 
 | 18. | A külföldi járművezető nem tudja bemutatni a kiküldetés ellenőrzéséhez szükséges információkat a közúti ellenőrzés során | NSJ | 200 000 | járművezető |
 
 | 19. | Ugyanazzal a gépjárművel vagy járműszerelvény esetében ugyanazon jármű gépjárművével kabotázsművelet végrehajtása a kabotázsművelet végét követő négy napon belül | NSJ | 300 000 | szállító |
 
-2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^79]
+| 20. | Egyértelmű bizonyítékok felmutatásának hiánya a megelőző nemzetközi fuvarozásról és/vagy minden egyes egymást követő kabotázsműveletről és/vagy minden olyan műveletről, amelyet olyankor végeztek el, amikor a jármű a nemzetközi fuvarozást megelőző négynapos időszakban Magyarországon tartózkodott, és ezeket a bizonyítékokat a közúti ellenőrzés során sem tudja bemutatni | NSJ | 300 000 | szállító járművezető |
 
-[^79]: A 2. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § b) pontjával megállapított szöveg.
+| 21. | A jármű fedélzetén nem tartják, vagy az ellenőrzésre jogosult személy kérésére nem tudják bemutatni a kabotázsműveletekre vonatkozó ellenőrző okmányokat (menetlevél különjáratokra vagy a fuvarozó és a szakmai irányító által megkötött szerződés vagy annak hitelesített másolata menetrend szerinti különcélú járat esetén) | NSJ | 300 000 | szállító járművezető |
+
+| 22. | A járművezetők kiküldetési nyilatkozatának meghamisítása | NSJ | 300 000 | szállító |
+
+| 23. | A járművezető nem tud érvényes kiküldetési nyilatkozatot bemutatni | NSJ | 300 000 | járművezető |
+
+| 24. | Nem bocsátottak érvényes kiküldetési nyilatkozatot a járművezető rendelkezésére | NSJ | 300 000 | szállító |
+
+| 25. | A kért dokumentumokat nem nyújtották be a fogadó tagállamnak a megkeresés időpontjától számított nyolc héten belül | NSJ | 300 000 | szállító |
+
+| 26. | A szállító nem tartja naprakészen a kiküldetési nyilatkozatokat az IMI-hez kapcsolódó nyilvános felületen | SJ | 200 000 | szállító |
+
+| 27. | A szerződéses kötelezettségekre alkalmazandó jog megsértése | SJ | 200 000 | szállító |
+
+2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^80]
+
+[^80]: A 2. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § b) pontjával megállapított szöveg.

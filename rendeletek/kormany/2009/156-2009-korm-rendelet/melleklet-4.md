@@ -156,6 +156,10 @@
 
 | D35 | 18 h ≤ ... | 250 000 |
 
+| D36 | Két egymást követő csökkentett heti pihenőidő esetén nincs kompenzációs pihenőidő | NSJ | 200 000 | járművezető szállító |
+
+| D37 | A munkáltató nem fedezi a járművön kívüli szállás költségeit | SJ | 150 000 | szállító |
+
 | E | Eltérés a 12-napos szabálytól (Nemzetközi, nem menetrend szerinti autóbuszjárat) |
 
 | E1 | 12 egymást követő 24 órás időszak túllépése az előző rendszeres heti pihenőidő után | ...< 3h | EJ | 10 000 | járművezető szállító |
@@ -192,6 +196,8 @@
 
 | F3 | A rendszeres heti pihenőidő és a korábbi csökkentett heti pihenőidő kompenzációjaként tartott, 45 óránál hosszabb heti pihenőidő járműben való eltöltése | NSJ | 400 000 | járművezető |
 
-4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^81]
+| F4 | A járművezetők munkájának nem olyan módon történő megszervezése, hogy a járművezetők visszatérhessenek a munkáltató működési központjába vagy a lakóhelyükre | NSJ | 250 000 | szállító |
 
-[^81]: A 4. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § d) pontjával megállapított, a 722/2020. (XII. 31.) Korm. rendelet 9. § (3) bekezdése szerint módosított szöveg.
+4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^82]
+
+[^82]: A 4. melléklet a 713/2020. (XII. 30.) Korm. rendelet 19. § d) pontjával megállapított, a 722/2020. (XII. 31.) Korm. rendelet 9. § (3) bekezdése, az 51/2023. (II. 23.) Korm. rendelet 2. § (3) bekezdése és 3. §-a szerint módosított szöveg.

@@ -88,8 +88,6 @@
 
 | H33 | Az adatrögzítő lapról hiányzik a járműcsere időpontja | EJ | 20 000 | járművezető |
 
-| H34 | Az ország betűjele beírásának elmulasztása a menetíró készülékbe | EJ | 20 000 | járművezető |
-
 | I | Adatok bemutatása |
 
 | I1 | Ellenőrzés megtagadása, vagy jármű visszatartása esetén a helyszín engedély nélküli elhagyása | NSJ | 800 000 | járművezető |
@@ -103,6 +101,12 @@
 | I4 | A járművezető nem tudja bemutatni az adott napon és az azt megelőző, jogszabály által meghatározott időszakra vonatkozó kézi feljegyzéseket és kinyomatokat | NSJ | 400 000 | járművezető |
 
 | I5 | A járművezető nem tudja bemutatni a járművezetői kártyát | NSJ | 400 000 | járművezető |
+
+| I6 | A komp-/vonatjel helytelen használata vagy használatának mellőzése | SJ | 100 000 | járművezető |
+
+| I7 | Az adatok nem tartalmazzák azoknak az országoknak a betűjeleit, amelyek határait a járművezető a napi munkaidőben átlépte | SJ | 100 000 | járművezető |
+
+| I8 | Az adatok nem tartalmazzák azoknak az országoknak a betűjeleit, amelyekben a járművezető a napi munkaidejét megkezdte és befejezte | SJ | 100 000 | járművezető |
 
 | J | Hibás működés |
 
@@ -142,6 +146,6 @@
 
 | M7 | Menetíró készüléket befolyásoló eszköz járműbe vagy menetíró készülékbe történő beépítése | NSJ | 300 000 | a menetíró szerelőműhely üzeme |
 
-4/A. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^82]
+4/A. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^83]
 
-[^82]: A 4/A. mellékletet a 476/2016. (XII. 27.) Korm. rendelet 7. § (5) bekezdése iktatta be, szövege a 713/2020. (XII. 30.) Korm. rendelet 19. § e) pontjával megállapított szöveg.
+[^83]: A 4/A. mellékletet a 476/2016. (XII. 27.) Korm. rendelet 7. § (5) bekezdése iktatta be, szövege a 713/2020. (XII. 30.) Korm. rendelet 19. § e) pontjával megállapított szöveg.
