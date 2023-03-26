@@ -1,1 +1,0 @@
-Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (2) bekezdés 26. pontjában és (5) bekezdés c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 3. és 12. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
