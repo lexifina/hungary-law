@@ -1,0 +1,1 @@
+5. § Ez a rendelet az (EU) 2016/403 rendeletnek az uniós jogszabályokat érintő – adott esetben a közúti fuvarozó jó hírnevének elveszítését eredményező – új súlyos jogsértések tekintetében történő módosításáról szóló, 2022. május 2-i (EU) 2022/694 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
