@@ -1,5 +1,3 @@
-8. § Hatályát veszti az R1.
+8. §[^8]
 
-a) 8. § (4) bekezdésében az „– a Kar Elnöksége a tagjai közül –” szövegrész,
-
-b) 11. § (4) bekezdésében az „– a pályázati anyagok visszaküldésével együtt –” szövegrész.
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
