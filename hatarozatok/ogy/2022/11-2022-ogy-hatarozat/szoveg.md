@@ -370,7 +370,7 @@ Szatmáry Kristóf (Fidesz)
 
 Tasó László (Fidesz)
 
-Varju László (DK)[^33]
+Varga Ferenc (független)[^33]
 
 Lőcsei Lajos (Momentum)
 
@@ -632,7 +632,7 @@ Alelnök: Tasó László (Fidesz)[^58]
 
 Szatmáry Kristóf (Fidesz)
 
-Kordás László (DK)
+Varga Ferenc (független)[^59]
 
 o) Törvényalkotási bizottság
 
@@ -640,7 +640,7 @@ Elnök: Hende Csaba (Fidesz)
 
 Alelnök: dr. Bajkai István (Fidesz)
 
-Pogácsás Tibor (Fidesz)[^59]
+Pogácsás Tibor (Fidesz)[^60]
 
 dr. Salacz László (Fidesz)
 
@@ -654,17 +654,17 @@ p) Magyarországi nemzetiségek bizottsága
 
 Elnök: Ritter Imre (nemzetiségi képviselő)
 
-Alelnök: Alexov Lyubomir (nemzetiségi szószóló),[^60]
+Alelnök: Alexov Lyubomir (nemzetiségi szószóló),[^61]
 
-Kissné Köles Erika (nemzetiségi szószóló),[^61]
+Kissné Köles Erika (nemzetiségi szószóló),[^62]
 
-Varga Szimeon (nemzetiségi szószóló)[^62]
+Varga Szimeon (nemzetiségi szószóló)[^63]
 
 5. Ez a határozat az elfogadásakor lép hatályba.
 
 6. A bizottságok megbízatása e határozat hatálybalépésekor kezdődik.
 
-7.[^63]
+7.[^64]
 
 [^2]: A 29/2022. (VII. 5.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: Az 1/2023. (II. 28.) OGY határozat 1. pontjával megállapított szöveg.
@@ -697,7 +697,7 @@ Varga Szimeon (nemzetiségi szószóló)[^62]
 [^30]: A 34/2022. (VII. 19.) OGY határozat 1. pontjával megállapított szöveg.
 [^31]: Az 1/2023. (II. 28.) OGY határozat 1. pontjával megállapított szöveg.
 [^32]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
-[^33]: A 2/2023. (III. 8.) OGY határozat 1. pontjával megállapított szöveg.
+[^33]: A 4/2023. (III. 27.) OGY határozat 1. pontjával megállapított szöveg.
 [^34]: A 21/2022. (VI. 14.) OGY határozat 2. pontjával megállapított szöveg.
 [^35]: A 17/2022. (VI. 8.) OGY határozat 2. pontjával megállapított szöveg.
 [^36]: A 17/2022. (VI. 8.) OGY határozat 2. pontjával megállapított szöveg.
@@ -723,8 +723,9 @@ Varga Szimeon (nemzetiségi szószóló)[^62]
 [^56]: A 34/2022. (VII. 19.) OGY határozat 3. pontjával megállapított szöveg.
 [^57]: A 38/2022. (IX. 27.) OGY határozat 3. pontjával megállapított szöveg.
 [^58]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
-[^59]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
-[^60]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
+[^59]: A 4/2023. (III. 27.) OGY határozat 2. pontjával megállapított szöveg.
+[^60]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
 [^61]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
 [^62]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
-[^63]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^63]: A 12/2022. (V. 13.) OGY határozat 1. pontja iktatta be.
+[^64]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
