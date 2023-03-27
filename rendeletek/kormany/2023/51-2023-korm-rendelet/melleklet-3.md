@@ -1,7 +1,3 @@
-## „
+3. melléklet az 51/2023. (II. 23.) Korm. rendelethez[^7]
 
-| F4 | A járművezetők munkájának nem olyan módon történő megszervezése, hogy a járművezetők visszatérhessenek a munkáltató működési központjába vagy a lakóhelyükre | NSJ | 250 000 | szállító |
-
-## ”
-
-3. melléklet az 51/2023. (II. 23.) Korm. rendelethez
+[^7]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
