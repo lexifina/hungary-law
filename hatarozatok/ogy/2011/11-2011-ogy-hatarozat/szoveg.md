@@ -12,12 +12,8 @@ dr. Gottfried Pétert 2021. január 1-jei hatállyal
 
 a Magyar Nemzeti Bank monetáris tanácsa tagjává
 
-dr. Parragh Biankát
-
-2017. március 23-i hatállyal hat évre a Magyar Nemzeti Bank monetáris tanácsa tagjává
-
 megválasztja.
 
 2. E határozat elfogadásakor lép hatályba.
 
-[^2]: Az 1. pont a 22/2011. (III. 22.) OGY határozat 1. pontja, a 10/2013. (III. 5.) OGY határozat 1. pontja, a 76/2013. (X. 1.) OGY határozat 1–2. pontja, a 33/2015. (VII. 7.) OGY határozat 1–2. pontja, a 15/2016. (IX. 14.) OGY határozat 1. pontja, a 8/2017. (III. 22.) OGY határozat 1. pontja, a 39/2020. (XII. 1.) OGY határozat 1. pontja, a 30/2022. (VII. 12.) OGY határozat 2. pont a) és b) alpontja alapján módosított szöveg.
+[^2]: Az 1. pont a 22/2011. (III. 22.) OGY határozat 1. pontja, a 10/2013. (III. 5.) OGY határozat 1. pontja, a 76/2013. (X. 1.) OGY határozat 1–2. pontja, a 33/2015. (VII. 7.) OGY határozat 1–2. pontja, a 15/2016. (IX. 14.) OGY határozat 1. pontja, a 8/2017. (III. 22.) OGY határozat 1. pontja, a 39/2020. (XII. 1.) OGY határozat 1. pontja, a 30/2022. (VII. 12.) OGY határozat 2. pont a) és b) alpontja, a 3/2023. (III. 27.) OGY határozat 2. pont a) alpontja alapján módosított szöveg.
