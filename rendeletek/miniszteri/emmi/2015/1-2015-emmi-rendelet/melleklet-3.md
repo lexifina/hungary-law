@@ -82,29 +82,21 @@
 
 1.1. Lányok részére:
 
-Emberi Erőforrások Minisztériuma
-
-Rákospalotai Javítóintézete
+Rákospalotai Javítóintézet és Központi Speciális Gyermekotthon
 
 1151 Budapest XV., Pozsony u. 36.
 
 1.2. Fiúk részére:
 
-1.2.1. Emberi Erőforrások Minisztériuma
-
-Aszódi Javítóintézete
+1.2.1. Aszódi Javítóintézet, Általános Iskola, Szakiskola és Speciális Szakiskola
 
 2170 Aszód, Baross tér 2.
 
-1.2.2. Emberi Erőforrások Minisztériuma
-
-Debreceni Javítóintézete
+1.2.2. Debreceni Javítóintézet
 
 4300 Debrecen, Böszörményi út 173.
 
-1.2.3. Emberi Erőforrások Minisztériuma
-
-Nagykanizsai Javítóintézete
+1.2.3. Nagykanizsai Javítóintézet
 
 8800 Nagykanizsa, Kemping utca 6.
 
@@ -112,30 +104,22 @@ Nagykanizsai Javítóintézete
 
 2.1. Lányok részére:
 
-Emberi Erőforrások Minisztériuma
-
-Rákospalotai Javítóintézete
+Rákospalotai Javítóintézet és Központi Speciális Gyermekotthon
 
 1151 Budapest XV., Pozsony u. 36.
 
 2.2. Fiúk részére:
 
-2.2.1. Emberi Erőforrások Minisztériuma
-
-Budapesti Javítóintézete
+2.2.1. Budapesti Javítóintézet
 
 1032 Budapest III., Szőlő u. 60.
 
-2.2.2. Emberi Erőforrások Minisztériuma
-
-Debreceni Javítóintézete
+2.2.2. Debreceni Javítóintézet
 
 4300 Debrecen, Böszörményi út 173.
 
-2.2.3. Emberi Erőforrások Minisztériuma
-
-Nagykanizsai Javítóintézete
+2.2.3. Nagykanizsai Javítóintézet
 
 8800 Nagykanizsa, Kemping utca 6.
 
-[^72]: A 3. melléklet a 44/2015. (X. 2.) EMMI rendelet 1. §-a, a 4/2018. (I. 23.) EMMI rendelet 5. §-a, a 6/2019. (III. 12.) EMMI rendelet 5. § v) pontja, a 6/2020. (III. 6.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^72]: A 3. melléklet a 44/2015. (X. 2.) EMMI rendelet 1. §-a, a 4/2018. (I. 23.) EMMI rendelet 5. §-a, a 6/2019. (III. 12.) EMMI rendelet 5. § v) pontja, a 6/2020. (III. 6.) Korm. rendelet 10. § b) pontja, a 8/2023. (III. 28.) BM rendelet 1. § a)-e) pontja szerint módosított szöveg.
