@@ -1,3 +1,3 @@
-1. melléklet a 16/2011. (V. 10.) KIM rendelethez[^10]
+1. melléklet a 16/2011. (V. 10.) KIM rendelethez[^2]
 
-[^10]: Az 1. melléklet a 15/2021. (XII. 20.) MvM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. melléklet a 6/2023. (III. 28.) MK rendelet 2. §-ával megállapított szöveg.
