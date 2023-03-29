@@ -1,0 +1,1 @@
+A hivatalos statisztikáról szóló 2016. évi CLV. törvény 47. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 1. melléklet B) pont 8. alpontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
