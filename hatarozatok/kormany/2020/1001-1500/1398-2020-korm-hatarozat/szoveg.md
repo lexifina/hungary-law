@@ -12,18 +12,12 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: 2021. augusztus 31.
 
-4. egyetért azzal, hogy a Formula–1 Világbajnokság Magyar Nagydíj 2021–2027 között megrendezésre kerüljön azzal, hogy a 2021-ben kifizetendő jogdíj összege 45 035 552,63 USD, az ezt követő években kifizetendő éves jogdíj összege pedig az előző éves jogdíj összegének 4 százalékkal növelt összege;
+4.[^1]
 
-5. felhívja a pénzügyminisztert, hogy az innovációért és technológiáért felelős miniszter bevonásával gondoskodjon a Formula–1 Világbajnokság Magyar Nagydíj megrendezéséről szóló, a Formula One World Championship Ltd. és a Társaság közötti szerződés szerinti, a Társaságot terhelő rendezői jogdíjjal megegyező összegű költségvetési támogatásnak a XVII. Innovációs és Technológiai Minisztérium fejezetben való biztosításáról a 2021–2027 közötti évekre folyamatosan;
+5.[^2]
 
-Felelős: pénzügyminiszter
+6.[^3]
 
-innovációért és technológiáért felelős miniszter
-
-Határidő: a 2021. évben a 2021. évi központi költségvetés végrehajtása során, a felmerülés ütemében
-
-a 2022–2027. évek között az adott évi központi költségvetés tervezése során
-
-6.[^1]
-
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 4. pontot az 1115/2023. (III. 30.) Korm. határozat 6. pontja visszavonta.
+[^2]: Az 5. pontot az 1115/2023. (III. 30.) Korm. határozat 6. pontja visszavonta.
+[^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
