@@ -1,6 +1,6 @@
-## Bejárat[^405]
+## Bejárat[^408]
 
-96. § (1)[^406] Az építményeket olyan méretű és számú bejárattal kell megvalósítani, hogy az építmény rendeltetése szerint biztonságosan használható és esetleges tűz vagy más veszélyhelyzet esetén az előírt időn belül kiüríthető legyen.
+96. § (1)[^409] Az építményeket olyan méretű és számú bejárattal kell megvalósítani, hogy az építmény rendeltetése szerint biztonságosan használható és esetleges tűz vagy más veszélyhelyzet esetén az előírt időn belül kiüríthető legyen.
 
 (2) Bejáratként kizárólag forgó-, billenő-, tolóajtó – az automatikus üzemű és veszély esetén kézzel is megnyitható tolóajtó kivételével – nem alkalmazható
 
@@ -8,13 +8,13 @@ a) akadálymentes használhatóság követelménye esetén,
 
 b) egészségi állapotuk vagy koruk miatt mozgásukban korlátozott személyek (pl. a 6 éven aluliak, az időskorúak, a betegek stb.) használatára is szolgáló helyiségekben,
 
-c)[^407] a tömegtartózkodásra szolgáló építményben, önálló rendeltetési egységekben, akkor, ha az ilyen nyílászáróval ellátott helyiségekből a kiürítés más módon nem lehetséges,
+c)[^410] a tömegtartózkodásra szolgáló építményben, önálló rendeltetési egységekben, akkor, ha az ilyen nyílászáróval ellátott helyiségekből a kiürítés más módon nem lehetséges,
 
 d) kereskedelmi célú önálló rendeltetési egység vásárlóinak útvonalán.
 
-(3)–(4)[^408]
+(3)–(4)[^411]
 
-[^405]: A 96. §-t megelőző alcím a 211/2012. (VII. 30.) Korm. rendelet 33. § 15. pontja szerint módosított szöveg.
-[^406]: A 96. § (1) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 32. § 43. pontja szerint módosított szöveg.
-[^407]: A 96. § (2) bekezdés c) pontja a 211/2012. (VII. 30.) Korm. rendelet 32. § 44. pontja szerint módosított szöveg.
-[^408]: A 96. § (3)–(4) bekezdését a 211/2012. (VII. 30.) Korm. rendelet 33. § 16. pontja hatályon kívül helyezte.
+[^408]: A 96. §-t megelőző alcím a 211/2012. (VII. 30.) Korm. rendelet 33. § 15. pontja szerint módosított szöveg.
+[^409]: A 96. § (1) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 32. § 43. pontja szerint módosított szöveg.
+[^410]: A 96. § (2) bekezdés c) pontja a 211/2012. (VII. 30.) Korm. rendelet 32. § 44. pontja szerint módosított szöveg.
+[^411]: A 96. § (3)–(4) bekezdését a 211/2012. (VII. 30.) Korm. rendelet 33. § 16. pontja hatályon kívül helyezte.

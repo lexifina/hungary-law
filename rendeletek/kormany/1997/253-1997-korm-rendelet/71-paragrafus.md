@@ -4,12 +4,12 @@
 
 (2) A légudvar induló szintjén legalább 0,50 m2 szabad keresztmetszeten át folyamatos külső frisslevegő bevezetésről kell gondoskodni.
 
-(3)[^330] Légudvarba nem szellőztethető bűzös, gőzös üzemű helyiség, nem helyezhető el zavaró hatású, zajt, rezgést, lecsapódást okozó, vagy más káros hatást keltő berendezés vagy annak tartozéka.
+(3)[^333] Légudvarba nem szellőztethető bűzös, gőzös üzemű helyiség, nem helyezhető el zavaró hatású, zajt, rezgést, lecsapódást okozó, vagy más káros hatást keltő berendezés vagy annak tartozéka.
 
-(4)[^331] Légudvarban – az (5) bekezdésben foglaltak kivételével – gázüzemű lakásfűtő és vízmelegítő készülék homlokzati égéstermék-kivezetéssel nem alkalmazható.
+(4)[^334] Légudvarban – az (5) bekezdésben foglaltak kivételével – gázüzemű lakásfűtő és vízmelegítő készülék homlokzati égéstermék-kivezetéssel nem alkalmazható.
 
-(5)[^332] Az 50 m2 -nél nagyobb szabad légtér keresztmetszetű légudvarba a 80. §-ban meghatározott feltételek megléte esetén 6 kW-nál nem nagyobb hőteljesítményű helyiségfűtő gázfogyasztó készülék égésterméke kivezethető.
+(5)[^335] Az 50 m2 -nél nagyobb szabad légtér keresztmetszetű légudvarba a 80. §-ban meghatározott feltételek megléte esetén 6 kW-nál nem nagyobb hőteljesítményű helyiségfűtő gázfogyasztó készülék égésterméke kivezethető.
 
-[^330]: A 71. § (3) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 28. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^331]: A 71. § (4) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 28. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^332]: A 71. § (5) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 28. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^333]: A 71. § (3) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 28. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^334]: A 71. § (4) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 28. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^335]: A 71. § (5) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 28. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

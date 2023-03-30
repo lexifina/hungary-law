@@ -1,10 +1,10 @@
 ## ÉPÍTMÉNYEK, ÖNÁLLÓ RENDELTETÉSI EGYSÉGEK ÁLTALÁNOS ELŐÍRÁSAI
 
-104. § (1)[^424] A közhasználatú építmény akadálymentes használatra kialakított önálló rendeltetési egységéhez akadálymentes megközelíthetőséget kell biztosítani.
+104. § (1)[^427] A közhasználatú építmény akadálymentes használatra kialakított önálló rendeltetési egységéhez akadálymentes megközelíthetőséget kell biztosítani.
 
 (2) Egy építményben több önálló rendeltetési egység akkor helyezhető el, ha
 
-a)[^425]
+a)[^428]
 
 b) a rendeltetésszerű használat során egészségkárosító, tűz- és robbanáshatással, vagy más módon egymást nem veszélyeztetik,
 
@@ -16,30 +16,30 @@ e) a közös közlekedők (folyosók, lépcsők, lejtők, felvonók stb) az ép�
 
 (3) Többcélú felhasználás céljára építményt, építményrészt, helyiséget úgy kell megvalósítani, hogy az valamennyi rendeltetésére vonatkozó hatósági előírások közül a legszigorúbbat is kielégítse.
 
-(4)[^426] Vegyes rendeltetésű épületben az egyes önálló rendeltetési egységek esetében a rájuk vonatkozó előírásokat kell alkalmazni. Az épület egészére vonatkozó követelményeket úgy kell megállapítani, hogy minden rendeltetési egységre vonatkozó követelmény érvényesüljön.
+(4)[^429] Vegyes rendeltetésű épületben az egyes önálló rendeltetési egységek esetében a rájuk vonatkozó előírásokat kell alkalmazni. Az épület egészére vonatkozó követelményeket úgy kell megállapítani, hogy minden rendeltetési egységre vonatkozó követelmény érvényesüljön.
 
-(5)[^427]
+(5)[^430]
 
 (6) Azokban az építményekben, építményrészekben, helyiségekben, amelyekben a tervezett tevékenység az egészséget befolyásolja, az egészségvédelem követelményeinek megfelelően kell kialakítani a helyiségeket, azok kapcsolatait, felszereltségét, továbbá ennek megfelelően kell biztosítani a tisztántarthatóság és a fertőtleníthetőség műszaki feltételeit (pl. gyógykezelő intézmények, gyógyszer és élelmiszer előállítására és forgalmazására szolgáló építmények stb.).
 
 (7) Közvetlen a közterületről vagy az épület telkéről nyíló bejárattal kell megvalósítani a (2) bekezdés rendelkezéseinek keretei között az olyan önálló rendeltetési egységet, amelyben tömegtartózkodásra szolgáló helyiség van, vagy amelynek használati biztonsága, vagyonbiztonsága azt megköveteli (pl. postai, pénzügyi intézmény).
 
-(8)[^428] Bármilyen gyógykezelés céljára szolgáló önálló rendeltetési egység, helyiség egyéb önálló rendeltetési egységet is tartalmazó épületben a (2) bekezdés rendelkezéseinek keretei között helyezhető el, amely kiterjed a közvetlen közterületi bejárat létesítésének követelményére is.
+(8)[^431] Bármilyen gyógykezelés céljára szolgáló önálló rendeltetési egység, helyiség egyéb önálló rendeltetési egységet is tartalmazó épületben a (2) bekezdés rendelkezéseinek keretei között helyezhető el, amely kiterjed a közvetlen közterületi bejárat létesítésének követelményére is.
 
-(9)[^429]
+(9)[^432]
 
-(10)[^430]
+(10)[^433]
 
-(11)[^431]
+(11)[^434]
 
-(12)[^432]
+(12)[^435]
 
-[^424]: A 104. § (1) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^425]: A 104. § (2) bekezdés a) pontját a 211/2012. (VII. 30.) Korm. rendelet 33. § 20. pontja hatályon kívül helyezte.
-[^426]: A 104. § (4) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének v) pontja, a 196/2009. (IX. 15.) Korm. rendelet 61. § (6) bekezdésének f) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
-[^427]: A 104. § (5) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése hatályon kívül helyezte.
-[^428]: A 104. § (8) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének v) pontja és a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 65. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^429]: A 104. § (9) bekezdését a 211/2012. (VII. 30.) Korm. rendelet 33. § 21. pontja hatályon kívül helyezte.
-[^430]: A 104. § (10) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 46. §-a iktatta be, hatályon kívül helyezte a 211/2012. (VII. 30.) Korm. rendelet 33. § 21. pontja.
-[^431]: A 104. § (11) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 46. §-a iktatta be, hatályon kívül helyezte a 211/2012. (VII. 30.) Korm. rendelet 33. § 21. pontja.
-[^432]: A 104. § (12) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 46. §-a iktatta be, hatályon kívül helyezte a 211/2012. (VII. 30.) Korm. rendelet 33. § 21. pontja.
+[^427]: A 104. § (1) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^428]: A 104. § (2) bekezdés a) pontját a 211/2012. (VII. 30.) Korm. rendelet 33. § 20. pontja hatályon kívül helyezte.
+[^429]: A 104. § (4) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének v) pontja, a 196/2009. (IX. 15.) Korm. rendelet 61. § (6) bekezdésének f) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^430]: A 104. § (5) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése hatályon kívül helyezte.
+[^431]: A 104. § (8) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének v) pontja és a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 65. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 45. § (1) bekezdése alapján a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^432]: A 104. § (9) bekezdését a 211/2012. (VII. 30.) Korm. rendelet 33. § 21. pontja hatályon kívül helyezte.
+[^433]: A 104. § (10) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 46. §-a iktatta be, hatályon kívül helyezte a 211/2012. (VII. 30.) Korm. rendelet 33. § 21. pontja.
+[^434]: A 104. § (11) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 46. §-a iktatta be, hatályon kívül helyezte a 211/2012. (VII. 30.) Korm. rendelet 33. § 21. pontja.
+[^435]: A 104. § (12) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 46. §-a iktatta be, hatályon kívül helyezte a 211/2012. (VII. 30.) Korm. rendelet 33. § 21. pontja.

@@ -1,4 +1,4 @@
-2. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^512]
+2. számú melléklet a 253/1997. (XII. 20.) Korm. rendelethez[^517]
 
 1. A beépítésre szánt területek építési használatának megengedett felső határértékei
 
@@ -60,9 +60,9 @@
 
 | 11. | egyéb erdőterület | 0,5 |  |  |
 
-| 12. | kertes mezőgazdasági terület | 10, kivéve birtokközpont, tanya és tanyás telek | 7,5 |  |
+| 12. | kertes mezőgazdasági terület | 10, kivéve birtokközpont, tanya | 7,5 |  |
 
-| 13. | általános mezőgazdasági terület | 6, kivéve birtokközpont, tanya és tanyás telek | 7,5 lakóépületnél |  |
+| 13. | általános mezőgazdasági terület | 6, kivéve birtokközpont, tanya | 7,5 lakóépületnél |  |
 
 | 14. | tájgazdálkodási mezőgazdasági terület | 3 | 4,5 |  |
 
@@ -72,4 +72,4 @@
 
 | 17. | különleges beépítésre nem szánt terület | 10 |  |  |
 
-[^512]: A 2. számú melléklet a 420/2021. (VII. 15.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
+[^517]: A 2. számú melléklet a 420/2021. (VII. 15.) Korm. rendelet 37. § (2) bekezdésével megállapított, a 90/2023. (III. 22.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.

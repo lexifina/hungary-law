@@ -26,7 +26,7 @@ mezőgazdasági terület.
 
 (2d)[^131] A tájgazdálkodási mezőgazdasági terület alapvetően természetközeli használatot folytató telkekből áll, amely jellemzően nádas, gyep (rét, legelő), I. és II. osztályú borszőlő termőhelyi kataszterhez vagy ökológiai hálózat magterületéhez tartozó kert, szőlő, gyümölcsös művelési ágban nyilvántartott területekből, a védett és Natura 2000 területbe sorolt szántóterületekből, a vízgazdálkodási célú mezőgazdasági területekből, valamint a vízbázis külső védőterületébe sorolt területekből áll. Az övezetben a helyi építési szabályzat kizárhatja az épület elhelyezését.
 
-(3)[^132] A mezőgazdasági területen – a (8) bekezdésben foglalt telek kivételével –
+(3)[^132] A mezőgazdasági területen – a (8), (12) és (13) bekezdésben foglalt telek kivételével –
 
 1.[^133] a 720 m2-t el nem érő területű telken épületet elhelyezni nem szabad,
 
@@ -46,9 +46,27 @@ mezőgazdasági terület.
 
 (9)[^140] A Balaton Kiemelt Üdülőkörzet általános mezőgazdasági terület övezete esetében a (3)–(7) bekezdés előírásai helyett a területrendezési tervek készítésének és alkalmazásának kiegészítő szabályozásáról szóló miniszteri rendelet speciális övezeti előírásait kell alkalmazni.
 
-(10)[^141] Tanya vagy tanyás telek kizárólag a területrendezési szabályozás szerinti tanyás területek térségi övezetben jelölhető ki, és a tanya vagy tanyás telek területének beépítettsége legfeljebb 30% lehet. A telken az (1) bekezdésben meghatározott rendeltetések mellett lakórendeltetés a helyi építési szabályzatban meghatározott módon és számban létesíthető.
+(10)[^141] Tanya a település külterületén, mezőgazdasági területen fekvő, legalább 1500 m2, legfeljebb 10 000 m2 nagyságú olyan földrészlet, amelyhez a föld mellett növénytermesztés és állattenyésztés, továbbá az ezekkel kapcsolatos termékfeldolgozás és terméktárolás célját szolgáló lakó- és gazdasági épület, illetve ilyen épületcsoport is tartozik. A tanya területén vendéglátást szolgáló épület is elhelyezhető.
 
-(11)[^142] Tervezett tanya csak a helyi építési szabályzatban meghatározott övezetben, módon és számban létesíthető.
+(11)[^142] Tanyának minősül a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény hatálybalépése előtt tanyaként az ingatlan-nyilvántartásba bejegyzésre vagy jogi jellegként feljegyzésre került terület is.
+
+(12)[^143] A tanya területének megengedett beépítettsége legfeljebb 30% lehet, az épület legnagyobb megengedett beépítési magassága 4,5 méter.
+
+(13)[^144] Tanyán a mezőgazdasági termelés céljára létesített gazdasági épület vagy épületcsoport mellett legfeljebb kettő önálló lakórendeltetést tartalmazó épület helyezhető el, azzal, hogy
+
+a) a lakórendeltetést tartalmazó épület nagysága
+
+aa) 2000 m2-es telekméretig a (12) bekezdés szerinti beépíthetőség 45%-át,
+
+ab) 2001 és 6000 m2-es telekméret között a (12) bekezdés szerinti beépíthetőség 35%-át,
+
+ac) 6000 m2-es telekméret felett a (12) bekezdés szerinti beépíthetőség 25%-át
+
+nem haladhatja meg, és
+
+b) a tanya területe legalább 60%-ának az ingatlan-nyilvántartásról szóló törvény végrehajtásáról szóló miniszteri rendelet szerinti művelési ágban kell nyilvántartásban lennie, vagy – ennek hiányában – azon többszintes növényállományból álló zöldfelületeket kell kialakítani.
+
+(14)[^145] Új tanya létesítése esetén a (10) bekezdés szerinti lakó- és gazdasági épületet, épületcsoportot a településrendezési eszköz, településterv elfogadásától számított 2 éven belül kell megvalósítani.
 
 [^125]: A 29. § a 36/2002. (III. 7.) Korm. rendelet 8. §-ával megállapított szöveg, e módosító rendelet 20. § (1) bekezdése alapján rendelkezéseit a 2002. 03. 15. napját követően indított ügyekben kell alkalmazni.
 [^126]: A 29. § (1) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
@@ -57,7 +75,7 @@ mezőgazdasági terület.
 [^129]: A 29. § (2b) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 24. § (1) bekezdése iktatta be.
 [^130]: A 29. § (2c) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 24. § (1) bekezdése iktatta be.
 [^131]: A 29. § (2d) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 24. § (1) bekezdése iktatta be.
-[^132]: A 29. § (3) bekezdés nyitó szövegrésze a 156/2016. (VI. 13.) Korm. rendelet 1. § (2) bekezdés c) pontjával megállapított szöveg.
+[^132]: A 29. § (3) bekezdés nyitó szövegrésze a 156/2016. (VI. 13.) Korm. rendelet 1. § (2) bekezdés c) pontjával megállapított, a 90/2023. (III. 22.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^133]: A 29. § (3) bekezdés 1. pontja a 90/2012. (IV. 26.) Korm. rendelet 32. § 14. pontja szerint módosított szöveg.
 [^134]: A 29. § (3) bekezdés 2. pontja a 156/2016. (VI. 13.) Korm. rendelet 1. § (2) bekezdése d) pontja szerint módosított szöveg.
 [^135]: A 29. § (3) bekezdés 3. pontja a 156/2016. (VI. 13.) Korm. rendelet 1. § (2) bekezdése e) pontja szerint módosított szöveg.
@@ -66,5 +84,8 @@ mezőgazdasági terület.
 [^138]: A 29. § (6) bekezdése a 90/2012. (IV. 26.) Korm. rendelet 21. §-ával megállapított szöveg.
 [^139]: A 29. § (8) bekezdését újonnan a 156/2016. (VI. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 420/2021. (VII. 15.) Korm. rendelet 39. § 7. pontja, a 420/2021. (VII. 15.) Korm. rendelet 38. § 34. pontja szerint módosított szöveg.
 [^140]: A 29. § (9) bekezdését a 121/2019. (V. 27.) Korm. rendelet 3. §-a iktatta be.
-[^141]: A 29. § (10) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 24. § (2) bekezdése iktatta be.
-[^142]: A 29. § (11) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^141]: A 29. § (10) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 90/2023. (III. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^142]: A 29. § (11) bekezdését a 420/2021. (VII. 15.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 90/2023. (III. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^143]: A 29. § (12) bekezdését a 90/2023. (III. 22.) Korm. rendelet 1. §-a iktatta be.
+[^144]: A 29. § (13) bekezdését a 90/2023. (III. 22.) Korm. rendelet 1. §-a iktatta be.
+[^145]: A 29. § (14) bekezdését a 90/2023. (III. 22.) Korm. rendelet 1. §-a iktatta be.

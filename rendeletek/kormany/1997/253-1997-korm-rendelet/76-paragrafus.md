@@ -2,19 +2,19 @@
 
 76. § (1) Az építménybe úgy kell becsatlakozni, hogy a víz- és a szennyvízvezeték között – védőcső hiányában – legalább 1,0 m-es vízszintes távolság legyen, vagy a vízvezetéket a csatornavezeték fölött kell bevezetni.
 
-(2)[^344] Vízvezetéket nem szabad – biztonságos átvezetés kivételével – vezetni
+(2)[^347] Vízvezetéket nem szabad – biztonságos átvezetés kivételével – vezetni
 
 a) villamos berendezések elhelyezésére szolgáló helyiségekben (pl. transzformátor-, főkapcsoló helyiségben) és ezek falában, födémében, padozatában,
 
 b) olyan helyiségben, amelynek belső hőmérséklete +2 °C alá süllyedhet (pl. hűtőkamában),
 
-c)[^345] önálló rendeltetési egységek közötti elválasztó falban, födémben, ha az huzamos tartózkodás céljára szolgáló helyiséget határol (pl. lakáselválasztó falban, ahol az lakószobával határos),
+c)[^348] önálló rendeltetési egységek közötti elválasztó falban, födémben, ha az huzamos tartózkodás céljára szolgáló helyiséget határol (pl. lakáselválasztó falban, ahol az lakószobával határos),
 
-d)[^346] védelem alatt álló, képző- és iparművészeti értékű kiképzéssel megvalósított helyiségekben, valamint e helyiségek feletti helyiségekben, ezek határoló szerkezeteiben (falában, födémében, padozatában),
+d)[^349] védelem alatt álló, képző- és iparművészeti értékű kiképzéssel megvalósított helyiségekben, valamint e helyiségek feletti helyiségekben, ezek határoló szerkezeteiben (falában, födémében, padozatában),
 
-e)[^347] az építmény tűzgátló szerkezeteiben, a szükséges átvezetések kivételével.
+e)[^350] az építmény tűzgátló szerkezeteiben, a szükséges átvezetések kivételével.
 
-[^344]: A 76. § (2) bekezdés nyitó szövegrésze a 211/2012. (VII. 30.) Korm. rendelet 32. § 25. pontja szerint módosított szöveg.
-[^345]: A 76. § (2) bekezdésének c) pontja a 182/2008. (VII. 14.) Korm. rendelet 31. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^346]: A 76. § (2) bekezdésének d) pontját a 182/2008. (VII. 14.) Korm. rendelet 31. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^347]: A 76. § (2) bekezdés e) pontját a 211/2012. (VII. 30.) Korm. rendelet 19. §-a iktatta be.
+[^347]: A 76. § (2) bekezdés nyitó szövegrésze a 211/2012. (VII. 30.) Korm. rendelet 32. § 25. pontja szerint módosított szöveg.
+[^348]: A 76. § (2) bekezdésének c) pontja a 182/2008. (VII. 14.) Korm. rendelet 31. §-ával megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^349]: A 76. § (2) bekezdésének d) pontját a 182/2008. (VII. 14.) Korm. rendelet 31. §-a iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^350]: A 76. § (2) bekezdés e) pontját a 211/2012. (VII. 30.) Korm. rendelet 19. §-a iktatta be.
