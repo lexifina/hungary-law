@@ -20,11 +20,17 @@ h)[^21] a Nemzeti Szakértői és Kutató Központ személyi állománya és biz
 
 i)[^22] a Corvin-lánc Testület tagja, valamint biztosított közeli hozzátartozója.
 
-(2)[^23] Az ÉPC-HK egészségügyi szolgáltatásaira jogosult továbbá az, akik tekintetében az ÉPC-HK területi ellátásra kötelezett.
+j)[^23] a Nemzet Színésze cím viselésére jogosult személy, valamint a vele egy háztartásban élő házastársa, élettársa,
 
-(3)[^24] Az MH EK egészségügyi szolgáltatására is igényjogosult az (1) bekezdés a) pontjában foglalt személy.
+k)[^24] a Nemzet Sportolója cím viselésére jogosult személy, valamint a vele egy háztartásban élő házastársa, élettársa,
 
-(4)[^25] Az MH EK egészségügyi szolgáltatására jogosult az, akik tekintetében az MH EK területi ellátásra kötelezett.
+l)[^25] a j) és k) pont szerinti igényjogosult elhalálozása esetén az igényjogosulttal, az igényjogosult elhalálozásakor egy háztartásban élő házastárs, élettárs.
+
+(2)[^26] Az ÉPC-HK egészségügyi szolgáltatásaira jogosult továbbá az, akik tekintetében az ÉPC-HK területi ellátásra kötelezett.
+
+(3)[^27] Az MH EK egészségügyi szolgáltatására is igényjogosult az (1) bekezdés a) pontjában foglalt személy.
+
+(4)[^28] Az MH EK egészségügyi szolgáltatására jogosult az, akik tekintetében az MH EK területi ellátásra kötelezett.
 
 [^12]: Az „AZ ÉSZAK-PESTI CENTRUM KÓRHÁZ – HONVÉDKÓRHÁZ ÉS A MAGYAR HONVÉDSÉG EGÉSZSÉGÜGYI KÖZPONT SZOLGÁLTATÁSAIRA IGÉNYJOGOSULTAK ÉS JOGOSULTAK” alcím címe az 570/2022. (XII. 23.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^13]: A 2. § (1) bekezdés nyitó szövegrésze az 570/2022. (XII. 23.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
@@ -37,6 +43,9 @@ i)[^22] a Corvin-lánc Testület tagja, valamint biztosított közeli hozzátart
 [^20]: A 2. § (1) bekezdés g) pontját a 163/2019. (VII. 5.) Korm. rendelet 2. § (4) bekezdése iktatta be.
 [^21]: A 2. § (1) bekezdés h) pontját a 163/2019. (VII. 5.) Korm. rendelet 2. § (4) bekezdése iktatta be.
 [^22]: A 2. § (1) bekezdés i) pontját az 561/2020. (XII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^23]: A 2. § (2) bekezdése az 570/2022. (XII. 23.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
-[^24]: A 2. § (3) bekezdését az 570/2022. (XII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^25]: A 2. § (4) bekezdését az 570/2022. (XII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^23]: A 2. § (1) bekezdés j) pontját a 98/2023. (III. 29.) Korm. rendelet 1. §-a iktatta be.
+[^24]: A 2. § (1) bekezdés k) pontját a 98/2023. (III. 29.) Korm. rendelet 1. §-a iktatta be.
+[^25]: A 2. § (1) bekezdés l) pontját a 98/2023. (III. 29.) Korm. rendelet 1. §-a iktatta be.
+[^26]: A 2. § (2) bekezdése az 570/2022. (XII. 23.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^27]: A 2. § (3) bekezdését az 570/2022. (XII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^28]: A 2. § (4) bekezdését az 570/2022. (XII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.

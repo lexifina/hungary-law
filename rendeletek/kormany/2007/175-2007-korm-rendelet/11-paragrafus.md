@@ -1,6 +1,6 @@
-11. §[^49]
+11. §[^52]
 
-Melléklet a 175/2007. (VI. 30.) Korm. rendelethez[^50]
+Melléklet a 175/2007. (VI. 30.) Korm. rendelethez[^53]
 
 (fejléc)
 
@@ -24,7 +24,7 @@ Igényjogosult anyja neve:
 
 Igényjogosult születési helye és ideje:
 
-Hozzátartozó saját jogú igényjogosult neve és szolgálatteljesítési helye[^51]:
+Hozzátartozó saját jogú igényjogosult neve és szolgálatteljesítési helye[^54]:
 
 Érvényességi idő:
 
@@ -34,6 +34,6 @@ P. H.
 
 ...............................................
 
-[^49]: A 11. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 53. pontja hatályon kívül helyezte.
-[^50]: A melléklet a 236/2009. (X. 20.) Korm. rendelet 4. §-ával megállapított, a 318/2011. (XII. 27.) Korm. rendelet 7. § (2) bekezdés d) pontja, a 163/2019. (VII. 5.) Korm. rendelet 6. §-a, az 570/2022. (XII. 23.) Korm. rendelet 5. § n) és o) pontja szerint módosított szöveg.
-[^51]: A nemzetbiztonsági szolgálatok által kiállított igazolás esetén nem kell kitölteni.
+[^52]: A 11. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 53. pontja hatályon kívül helyezte.
+[^53]: A melléklet a 236/2009. (X. 20.) Korm. rendelet 4. §-ával megállapított, a 318/2011. (XII. 27.) Korm. rendelet 7. § (2) bekezdés d) pontja, a 163/2019. (VII. 5.) Korm. rendelet 6. §-a, az 570/2022. (XII. 23.) Korm. rendelet 5. § n) és o) pontja szerint módosított szöveg.
+[^54]: A nemzetbiztonsági szolgálatok által kiállított igazolás esetén nem kell kitölteni.
