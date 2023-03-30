@@ -2694,26 +2694,6 @@ Egységes számlatükör
 
 0511042. Kötelezettségvállalás, más fizetési kötelezettség készenléti, ügyeleti, helyettesítési díjra, túlórára, túlszolgálatra
 
-0511043. Készenléti, ügyeleti, helyettesítési díj, túlóra, túlszolgálat teljesítése
-
-051105. Végkielégítés
-
-0511051. Végkielégítés előirányzata
-
-0511052. Kötelezettségvállalás, más fizetési kötelezettség végkielégítésre
-
-0511053. Végkielégítés teljesítése
-
-051106. Jubileumi jutalom
-
-0511061. Jubileumi jutalom előirányzata
-
-0511062. Kötelezettségvállalás, más fizetési kötelezettség jubileumi jutalomra
-
-0511063. Jubileumi jutalom teljesítése
-
-051107. Béren kívüli juttatások
-
 [^363]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K1. SZEMÉLYI JUTTATÁSOK alpont, K11. Foglalkoztatottak személyi juttatásai alpont K1101. Törvény szerinti illetmények, munkabérek alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 3. pontjával megállapított szöveg.
 [^364]: A 15. melléklet K1101. pont a) alpontja a 480/2022. (XI. 28.) Korm. rendelet 18. § (2) bekezdés 5. pontjával megállapított szöveg.
 [^365]: A 15. melléklet I. Egységes rovatrend a költségvetési és finanszírozási bevételekhez, kiadásokhoz pont, K1–8. Költségvetési kiadások alpont, K1. Személyi juttatások pont, K11. Foglalkoztatottak személyi juttatásai alpont, K1101. Törvény szerinti illetmények, munkabérek pont b) alpontja a 47/2019. (III. 12.) Korm. rendelet 9. §-ával megállapított szöveg.

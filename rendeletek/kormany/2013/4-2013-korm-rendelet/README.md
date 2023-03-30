@@ -46,3 +46,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-4-20-22
 | 2022-07-15 | 2013-4-20-22.38 | 340/2019. (XII. 23.) Korm. rendelet |
 | 2022-12-01 | 2013-4-20-22.39 | 480/2022. (XI. 28.) Korm. rendelet |
 | 2023-01-01 | 2013-4-20-22.40 | 480/2022. (XI. 28.) Korm. rendelet |
+| 2023-03-30 | 2013-4-20-22.41 | 95/2023. (III. 29.) Korm. rendelet |
