@@ -1,1 +1,3 @@
-1. § Az állami tulajdonú légi jármű tulajdonosi joggyakorlójának kijelöléséről szóló 21/2021. (XI. 19.) NVTNM rendelet 1. §-ában a „2023. március 31-ig” szövegrész helyébe a „2024. június 30-ig” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
