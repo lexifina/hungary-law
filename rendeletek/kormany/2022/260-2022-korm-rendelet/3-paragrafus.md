@@ -4,4 +4,6 @@
 
 (3) A különleges földgázkészlethez tartozó, a biztonsági földgáztárolókban rendelkezésre álló kapacitásokhoz meglévő, nem megszakítható minimum betárolási és – az adott biztonsági földgáztárolóban tárolt különleges földgázkészlet kitárolását 70 napnál nem rövidebb időn belül biztosító – kitárolási kapacitások mértékét a miniszter rendeletben határozza meg.
 
-(4) A Szolgáltatásért fizetendő díj megegyezik a Kereskedő által a biztonsági földgáztárolóknak fizetendő kapacitás- és forgalmi díjak, valamint a Szolgáltatáshoz kapcsolódóan a szállítási rendszerüzemeltetőnek fizetendő kapacitás- és forgalmi díjak összegével. Ezen tételek közül a mobilkapacitásért fizetendő díj nem haladhatja meg a 0,3632 forint/kWh/év mértéket.
+(4)[^4] A Szolgáltatásért fizetendő díj megegyezik a Kereskedő által a biztonsági földgáztárolóknak fizetendő kapacitás- és forgalmi díjak, valamint a Szolgáltatáshoz kapcsolódóan a szállítási rendszerüzemeltetőnek fizetendő kapacitás- és forgalmi díjak összegével. Ezen tételek közül a mobilkapacitásért fizetendő díj nem haladhatja meg a 0,3906 forint/kWh/év mértéket.
+
+[^4]: A 3. § (4) bekezdése a 101/2023. (III. 29.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.

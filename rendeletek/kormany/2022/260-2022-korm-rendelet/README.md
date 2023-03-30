@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-260-20-
 | 2022-09-13 | 2022-260-20-22.3 | 349/2022. (IX. 12.) Korm. rendelet |
 | 2022-10-21 | 2022-260-20-22.4 | 396/2022. (X. 20.) Korm. rendelet |
 | 2022-11-01 | 2022-260-20-22.5 | 2022. évi VI. törvény |
+| 2023-03-30 | 2022-260-20-22.6 | 101/2023. (III. 29.) Korm. rendelet |
