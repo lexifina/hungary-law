@@ -1,1 +1,0 @@
-## 5. § A hat órát meghaladó kiküldetés esetén a belföldi közúti árufuvarozásban és személyszállításban gépkocsivezetőként és árukísérőként foglalkoztatott magánszemély részére adható napidíj-átalány háromezer forint, feltéve, hogy a munkáltató a kiküldetésre nem alkalmazza a 3. §-ban foglaltakat, és a kiküldetés többletköltségeire tekintettel más juttatást nem ad.
