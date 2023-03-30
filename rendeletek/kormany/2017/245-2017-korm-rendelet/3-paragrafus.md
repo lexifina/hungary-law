@@ -162,7 +162,7 @@
 
 ## d) facilitate co-operation between NCPs where appropriate; and
 
-## e) promote the Guidelines in relevant international forums and meetings and provide support to NCPs and the Committee in their efforts to raise awareness of the Guidelines among non-adhering countries.”
+## e) promote the Guidelines in relevant international forums and meetings and provide support to NCPs and the Committee in their efforts to raise awareness of the Guidelines among non-adhering countries.
 
 ## COMMENTARY ON THE IMPLEMENTATION PROCEDURES OF THE OECD GUIDELINES FOR MULTINATIONAL ENTERPRISES
 
@@ -750,7 +750,7 @@
 
 ## A MAGYAR NEMZETI KAPCSOLATTARTÓ PONT
 
-## 1. Feladatok
+## 1. Feladatok”
 
 3. § (1) A Kormány a Határozat alapján létrehozza a Határozatban foglalt OECD Multinacionális vállalatokra vonatkozó irányelvek (a továbbiakban: Irányelvek) Magyar Nemzeti Kapcsolattartó Pontját (a továbbiakban: MNKP).
 
