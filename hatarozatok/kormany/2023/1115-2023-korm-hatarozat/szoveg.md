@@ -18,4 +18,6 @@ A Kormány
 
 | Határidő: | a 2024–2032. évi központi költségvetés tervezése során |
 
-6. visszavonja a HUNGARORING Sport Zártkörűen Működő Részvénytársaság Stratégiai Fejlesztési Programjának előkészítéséhez szükséges intézkedésekről és a Formula–1 Világbajnokság Magyar Nagydíj megrendezésének 2027-ig történő meghosszabbításával kapcsolatos kormányzati szerepvállalásról szóló 1398/2020. (VII. 15.) Korm. határozat 4. és 5. pontját.
+6.[^1]
+
+[^1]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
