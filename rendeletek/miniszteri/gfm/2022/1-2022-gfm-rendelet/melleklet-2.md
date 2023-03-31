@@ -2,13 +2,7 @@
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. | Magyar Fejlesztésösztönző Iroda Nonprofit Korlátolt Felelősségű Társaság | 01-09-380926 | 2026. december 31. |
-
-| 2. | BTTF Badacsony és térsége Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság | 19-10-500364 | 2026. december 31. |
-
-| 3. | Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság | 01-09-278283 | 2026. december 31. |
-
-| 4. |  |  |  |
+| 1. | Magyarság Háza Nonprofit Korlátolt Felelősségű Társaság | 01-09-335243 | 2026. december 31. |
 
 2. melléklet az 1/2022. (V. 26.) GFM rendelethez[^4]
 
