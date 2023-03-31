@@ -4,7 +4,7 @@
 
 a) a bíróság polgári vagy közigazgatási ügyben hozott marasztaló határozata alapján,
 
-b) a bíróság büntetőügyben hozott határozatának a polgári jogi igénynek helyt adó rendelkezése alapján,
+b)
 
 c) a bíróság által jóváhagyott egyezség alapján.
 
