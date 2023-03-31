@@ -28,7 +28,7 @@
 
 14.
 
-15.
+15. 46. § (4) bekezdésében az „az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény” szövegrész helyébe az „a Vnytv.” szöveg,
 
 16.
 
