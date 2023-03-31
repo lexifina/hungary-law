@@ -1,3 +1,3 @@
-1. § A különleges földgázkészlet létrehozásáról szóló 260/2022. (VII. 21.) Korm. rendelet (a továbbiakban: Rendelet) 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) A miniszter legkésőbb 2024. január 31-ig megvizsgálja a különleges földgázkészlet további fenntartásának szükségességét, és ha a különleges földgázkészlet további fenntartása indokolt, úgy kezdeményezi az e rendelet szerinti intézkedések fenntartásához szükséges intézkedéseket. Amennyiben 2024. február 15-ig nem születik döntés az e rendelet szerinti intézkedések 2024. április 1-jét meghaladó meghosszabbításáról, úgy a miniszter 2024. február 29-ig a 6. § szerinti rendeletében dönt a teljes különleges földgázkészlet értékesítéséről és annak feltételeiről.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

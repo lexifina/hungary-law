@@ -1,7 +1,3 @@
-2. § A Rendelet
+2. §[^3]
 
-a) 2. § (2) bekezdésében a „2023.” szövegrész helyébe a „2024.” szöveg,
-
-b) 3. § (4) bekezdésében a „0,3632” szövegrész helyébe a „0,3906” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
