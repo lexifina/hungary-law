@@ -1,9 +1,5 @@
 ## 2. Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet módosítása
 
-2. § Az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet
+2. §[^3]
 
-a) 1. melléklete helyébe a 2. melléklet és
-
-b) 2. melléklete helyébe a 3. melléklet
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
