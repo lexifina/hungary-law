@@ -8,4 +8,6 @@ b)[^1] a közszolgáltatóra és az 5. § (5a) bekezdése tekintetében a közsz
 
 c) a települési önkormányzatra, a települési önkormányzatok társulására (a továbbiakban együttesen: önkormányzat)
 
+terjed ki.
+
 [^1]: Az 1. § b) pontja a 69/2021. (XII. 30.) ITM rendelet 1. §-ával megállapított szöveg.
