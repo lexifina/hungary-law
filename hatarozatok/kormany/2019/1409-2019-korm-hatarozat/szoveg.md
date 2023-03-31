@@ -34,7 +34,7 @@ l) gondoskodik arról, hogy a tervezett és javasolt pénzmosás és a terrorizm
 
 3. A Tanács elnöke a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által vezetett minisztériumnak a miniszter pénz-, tőke- és biztosítási piac szabályozásáért való felelősségével kapcsolatos feladatokat ellátó államtitkára.
 
-4. A Tanács tagja:
+4.[^1] A Tanács tagja:
 
 a) a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter,
 
@@ -46,31 +46,33 @@ d) az igazságügyért felelős miniszter,
 
 e) a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter,
 
-f)[^1] a szerencsejáték szabályozásért felelős miniszter,
+f) a szerencsejáték szabályozásért felelős miniszter,
 
 g) a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter,
 
-h) a Nemzeti Adó- és Vámhivatal vezetője,
+h) az adópolitikáért felelős miniszter,
 
-i) az országos rendőrfőkapitány,
+i) a Nemzeti Adó- és Vámhivatal elnöke,
 
-j) az Alkotmányvédelmi Hivatal főigazgatója,
+j) az országos rendőrfőkapitány,
 
-k) a Terrorelhárítási Központ főigazgatója,
+k) az Alkotmányvédelmi Hivatal főigazgatója,
 
-l) a Terrorelhárítási Információs és Bűnügyi Elemző Központ főigazgatója,
+l) a Terrorelhárítási Központ főigazgatója,
 
-m) az Információs Hivatal főigazgatója,
+m) a Nemzeti Információs Központ főigazgatója,
 
-n) a Nemzeti Védelmi Szolgálat főigazgatója,
+n) az Információs Hivatal főigazgatója,
 
-o)[^2] a Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke,
+o) a Nemzeti Védelmi Szolgálat főigazgatója,
 
-p) a kereskedelmi hatóságként eljáró Budapest Főváros Kormányhivatalát vezető kormánymegbízott,
+p) a kereskedelmi hatóságként eljáró Budapest Főváros Kormányhivatalát vezető főispán,
 
 q) a Magyarország Európai Unió melletti Állandó Képviseletének vezetője,
 
-r) a Központi Statisztikai Hivatal elnöke
+r) a Központi Statisztikai Hivatal elnöke,
+
+s) a Katonai Nemzetbiztonsági Szolgálat főigazgatója
 
 által kijelölt személy.
 
@@ -88,13 +90,15 @@ e) a Magyar Ügyvédi Kamara elnökét,
 
 f) a Magyar Országos Közjegyzői Kamara elnökét,
 
+g)[^2] a Szabályozott Tevékenységek Felügyeleti Hatóságának elnökét,
+
 hogy delegáljon képviselőt a Tanácsba. A delegáltak állandó meghívottként vesznek részt a Tanács ülésein.
 
 6. A pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter eseti jelleggel a Tanács működésébe más szervezeteket és személyeket is bevonhat.
 
-7. A 4. pont a)–g) alpontja vonatkozásában a Tanács tagjaként államtitkár jelölhető ki.
+7.[^3] A 4. pont a)–h) alpontja vonatkozásában a Tanács tagjaként államtitkár jelölhető ki.
 
-8. A 4. pont h)–r) alpontja vonatkozásában a Tanács tagjaként vezetői munkakört betöltő, illetve vezetői álláshelyen foglalkoztatott személy jelölhető ki.
+8.[^4] A 4. pont i)–s) alpontja vonatkozásában a Tanács tagjaként vezetői munkakört betöltő, illetve vezetői álláshelyen foglalkoztatott személy jelölhető ki.
 
 9. A Tanács tagjai – e szerepkörükben ellátott tevékenységükért – tiszteletdíjban nem részesülnek.
 
@@ -112,5 +116,7 @@ hogy delegáljon képviselőt a Tanácsba. A delegáltak állandó meghívottké
 
 16. A Kormány felhívja a 4. pontban meghatározott személyeket, és felkéri az 5. pontban meghatározott személyeket, hogy 2019. augusztus 31. napjáig gondoskodjanak a Tanács tagjainak, illetve állandó meghívottjainak kijelöléséről.
 
-[^1]: A 4. pont f) alpontja az 1607/2021. (VIII. 18.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
-[^2]: A 4. pont o) alpontja az 1607/2021. (VIII. 18.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^1]: A 4. pont az 1112/2023. (III. 30.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 5. pont g) alpontját az 1112/2023. (III. 30.) Korm. határozat 2. pontja iktatta be.
+[^3]: A 7. pont az 1112/2023. (III. 30.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^4]: A 8. pont az 1112/2023. (III. 30.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
