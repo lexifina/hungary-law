@@ -1,1 +1,0 @@
-A Kormány a nemzeti köznevelésről szóló 2011. évi CXC. törvény 94. § (4) bekezdés j) pontjában és a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 75. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
