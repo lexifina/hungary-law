@@ -46,7 +46,19 @@ végzésére irányuló jogviszony létesítésekor.
 
 (7) Az Eszjtv. 4. § (5) bekezdésének alkalmazása alóli kivételeket a Kormány külön rendeletben állapítja meg.
 
+(8)[^10] Az Eszjtv. 4. § (2) bekezdése szerinti előzetes engedélyt az Országos Kórházi Főigazgatóság adja meg.
+
+(9)[^11] Az engedélyező szerv a (8) bekezdés szerinti előzetes engedélyt
+
+a) a koraszülött mentés és -szállítás (szakma kód: 6201) és
+
+b) a dialízis ellátás (szakma kód: 0110)
+
+során nyújtott tevékenység végzésére adhatja meg.
+
 [^6]: A 7. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 310. § a) pontja szerint módosított szöveg.
 [^7]: A 7. § (1) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 310. § a) pontja szerint módosított szöveg.
 [^8]: A 7. § (1) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 310. § b) pontja szerint módosított szöveg.
 [^9]: A 7. § (1) bekezdés g) pontját a 70/2021. (II. 19.) Korm. rendelet 19. §-a iktatta be.
+[^10]: A 7. § (8) bekezdését a 106/2023. (III. 30.) Korm. rendelet 3. §-a iktatta be.
+[^11]: A 7. § (9) bekezdését a 106/2023. (III. 30.) Korm. rendelet 3. §-a iktatta be.

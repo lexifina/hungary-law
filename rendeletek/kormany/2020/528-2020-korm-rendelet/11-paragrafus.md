@@ -1,4 +1,4 @@
-11. § (1)[^10] Az egészségügyi intézmény vezetőjének az egészségügyi szolgálati jogviszony kezdetétől számított 7 nap áll rendelkezésére ahhoz, hogy írásban tájékoztatást adjon az egészségügyi szolgálati jogviszonyban állónak
+11. § (1)[^12] Az egészségügyi intézmény vezetőjének az egészségügyi szolgálati jogviszony kezdetétől számított 7 nap áll rendelkezésére ahhoz, hogy írásban tájékoztatást adjon az egészségügyi szolgálati jogviszonyban állónak
 
 a) a napi munkaidőről, az elrendelhető ügyelet, készenlét és az önként vállalt többletmunka szabályairól,
 
@@ -20,7 +20,7 @@ i) az összeférhetetlenségre vonatkozó szabályokról.
 
 (2) Az (1) bekezdés a)–c) és e)–f) pontjában előírt tájékoztatás munkaviszonyra vonatkozó szabály rendelkezésére történő hivatkozással is megadható.
 
-(3)[^11] Az (1) bekezdésben előírt valamennyi tájékoztatási pontban történő változásáról legkésőbb a hatálybalépésük napján tájékoztatni kell az egészségügyi szolgálati jogviszonyban álló személyeket.
+(3)[^13] Az (1) bekezdésben előírt valamennyi tájékoztatási pontban történő változásáról legkésőbb a hatálybalépésük napján tájékoztatni kell az egészségügyi szolgálati jogviszonyban álló személyeket.
 
-[^10]: A 11. § (1) bekezdés nyitó szövegrésze a 630/2022. (XII. 30.) Korm. rendelet 28. §-a szerint módosított szöveg.
-[^11]: A 11. § (3) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 26. §-a iktatta be.
+[^12]: A 11. § (1) bekezdés nyitó szövegrésze a 630/2022. (XII. 30.) Korm. rendelet 28. §-a szerint módosított szöveg.
+[^13]: A 11. § (3) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 26. §-a iktatta be.
