@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-96-20-2
 | 2020-06-01 | 2003-96-20-22.49 | 147/2020. (IV. 22.) Korm. rendelet |
 | 2021-01-01 | 2003-96-20-22.50 | 713/2020. (XII. 30.) Korm. rendelet |
 | 2023-01-01 | 2003-96-20-22.51 | 137/2012. (VI. 29.) Korm. rendelet |
+| 2023-03-31 | 2003-96-20-22.52 | 106/2023. (III. 30.) Korm. rendelet |
