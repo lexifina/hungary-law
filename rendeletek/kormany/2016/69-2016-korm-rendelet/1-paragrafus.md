@@ -16,5 +16,7 @@ f) az ingatlanhasználóra
 
 g)[^2] az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény (a továbbiakban: 2013. évi CXXXIV. törvény) alapján ideiglenes ellátást végző közérdekű szolgáltatóra
 
+terjed ki.
+
 [^1]: Az 1. § a) pontja a 768/2021. (XII. 23.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § g) pontját a 330/2016. (XI. 4.) Korm. rendelet 9. §-a iktatta be.

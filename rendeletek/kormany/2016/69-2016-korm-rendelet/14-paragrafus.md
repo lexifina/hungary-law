@@ -4,8 +4,9 @@ a) az ideiglenes ellátás keretében az ideiglenes ellátási díjat a Koordin�
 
 b) a 2013. évi CXXXIV. törvény 3. § (5a) bekezdés szerinti díjfizetési kötelezettséget az ingatlanhasználó a Koordináló szerv részére teljesíti,
 
-c) a Koordináló szerv a kijelölt közérdekű szolgáltatónak utólag, negyedévente szolgáltatási díjat fizet a nem rendszeres hulladékszállítás szabályairól és az ennek során eljáró állami szervek kijelöléséről szóló kormányrendeletben foglaltaknak megfelelően.
+c)[^13] a Koordináló szerv a kijelölt közérdekű szolgáltató részére a Koordináló szerv által fizetendő hulladékgazdálkodási szolgáltatási díjról szóló miniszteri rendeletben foglaltak szerint szolgáltatási díjat fizet.
 
 (2) Ideiglenes ellátás esetén a 4. § (1) és (2) bekezdés, a 11. § (2)–(6) bekezdés, valamint a 12. § rendelkezéseit azzal az eltéréssel kell alkalmazni, hogy a közszolgáltató alatt közérdekű szolgáltatót, a közszolgáltatási díj alatt pedig ideiglenes ellátási díjat kell érteni.
 
 [^12]: A 14. § a 330/2016. (XI. 4.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^13]: A 14. § (1) bekezdés c) pontja a 107/2023. (III. 30.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.

@@ -14,6 +14,6 @@ e) köteles az általa a közszolgáltatás körébe bevont, valamint a közszol
 
 (2) Az (1) bekezdés e) pontjában meghatározott ingatlanokra vonatkozó adatszolgáltatásra az önkormányzatok tulajdonában lévő ingatlanvagyon nyilvántartási és adatszolgáltatási rendjéről szóló 147/1992. (XI. 6.) Korm. rendelet ingatlanvagyon-kataszterre vonatkozó rendelkezéseit kell alkalmazni.
 
-(3)[^17] A települési önkormányzat a Hivatal részére a közszolgáltatási szerződés megkötésének vagy módosításának időpontjától számított tíz napon belül a Hivatal által megjelölt formában, elektronikus úton közli a kiválasztott közszolgáltató nevét, a közszolgáltatási szerződés időtartamát, valamint – ha a közszolgáltatás ellátása alvállalkozó útján történik – az alvállalkozó megnevezését, továbbá annak a tevékenységi körnek a megnevezését, amit az alvállalkozó ellát.
+(3)[^18] A települési önkormányzat a Hivatal részére a közszolgáltatási szerződés megkötésének vagy módosításának időpontjától számított tíz napon belül a Hivatal által megjelölt formában, elektronikus úton közli a kiválasztott közszolgáltató nevét, a közszolgáltatási szerződés időtartamát, valamint – ha a közszolgáltatás ellátása alvállalkozó útján történik – az alvállalkozó megnevezését, továbbá annak a tevékenységi körnek a megnevezését, amit az alvállalkozó ellát.
 
-[^17]: A 22. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 572. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
+[^18]: A 22. § (3) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 572. § (1) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 618. §-át.
