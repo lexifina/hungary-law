@@ -1,0 +1,337 @@
+## 1. elfogadja az 1. mellékletben foglalt, a közbeszerzésekben a verseny szintjének növelését célzó intézkedésekről (2023–2026) szóló cselekvési tervet (a továbbiakban: Cselekvési terv);
+
+## 2. felhívja a területfejlesztési minisztert, hogy gondoskodjon a Cselekvési terv Miniszterelnökség honlapján történő nyilvánosságra hozataláról;
+
+| Felelős: | területfejlesztési miniszter |
+
+| Határidő: | azonnal |
+
+## 3. felhívja a területfejlesztési minisztert, hogy végezze el a Cselekvési terv intézkedéseinek évenkénti felülvizsgálatát;
+
+| Felelős: | területfejlesztési miniszter |
+
+| Határidő: | az első felülvizsgálat esetében 2024. március 31., ezt követően évente március hó 31. napjáig |
+
+## 4. felhívja a területfejlesztési minisztert, hogy alakítson ki szakmai együttműködést a Gazdasági Együttműködési és Fejlesztési Szervezettel (OECD), amely kiterjed a magyarországi közbeszerzési piacon a verseny szintjének további elemzésére, valamint a közbeszerzési rendszer teljesítményének mérésére szolgáló keretrendszer fejlesztésére;
+
+| Felelős: | területfejlesztési miniszter |
+
+| Határidő: | 2023. március 31. |
+
+## 5. felhívja a területfejlesztési minisztert, hogy gondoskodjon az Elektronikus Közbeszerzési Rendszer (a továbbiakban: EKR) olyan irányú fejlesztéséről, amelynek eredményeként lehetővé válik a Közbeszerzési Hatóság és a Gazdasági Versenyhivatal által vezetett, a kizáró okok hiánya igazolására szolgáló adatbázisok automatizált lekérdezése;
+
+| Felelős: | területfejlesztési miniszter |
+
+| Határidő: | 2024. június 30. |
+
+## 6. felhívja a területfejlesztési minisztert, hogy gondoskodjon az EKR olyan irányú fejlesztéséről, amelynek eredményeként bárki automatikus, e-mail útján történő értesítéseket kérhet az EKR-ben megjelenő hirdetményekről;
+
+| Felelős: | területfejlesztési miniszter |
+
+| Határidő: | 2024. június 30. |
+
+## 7. felhívja a területfejlesztési minisztert, hogy gondoskodjon az EKR olyan irányú fejlesztéséről, amelynek eredményeként fejlettebb keresési funkciók állnak rendelkezésre;
+
+| Felelős: | területfejlesztési miniszter |
+
+| Határidő: | 2024. június 30. |
+
+## 8. felhívja a területfejlesztési minisztert, hogy gondoskodjon az EKR olyan irányú fejlesztéséről, amely biztosítja az EKR-ben a közbeszerzési dokumentumok anonim módon történő elérhetőségét;
+
+| Felelős: | területfejlesztési miniszter |
+
+| Határidő: | 2024. december 31. |
+
+## 9. felhívja a területfejlesztési minisztert, hogy a közbeszerzési eljárásokban való szélesebb körű részvétel ösztönzése érdekében vizsgálja felül a jogorvoslati díjak mértékét, és dolgozzon ki javaslatot a Közbeszerzési Döntőbizottság eljárásáért fizetendő díjakat szabályozó jogszabályok módosítására;
+
+| Felelős: | területfejlesztési miniszter |
+
+| Határidő: | 2023. október 31. |
+
+## 10. felhívja a területfejlesztési minisztert, hogy az előzetes piaci konzultáció kötelező adattartalmának alkalmassági követelményekkel és értékelési szempontokkal való bővítése érdekében dolgozzon ki javaslatot az egyajánlatos közbeszerzések számának csökkentését szolgáló intézkedésekről szóló 63/2022. (II. 28.) Korm. rendelet előzetes piaci konzultációra vonatkozó szabályainak módosítására;
+
+| Felelős: | területfejlesztési miniszter |
+
+| Határidő: | 2023. október 31. |
+
+## 11. felhívja a területfejlesztési minisztert, hogy gondoskodjon az egyajánlatos közbeszerzések elkerülését segítő módszerekről és gyakorlatokról szóló útmutató frissítéséről (figyelemmel az ajánlatkérők által benyújtott intézkedési tervekben szereplő, a verseny hiányát eredményező lehetséges indokokra is) és újabb jó gyakorlatokkal történő kiegészítéséről;
+
+| Felelős: | területfejlesztési miniszter |
+
+| Határidő: | 2023. október 31. |
+
+## 12. felhívja a területfejlesztési minisztert, hogy az Új Világ Nonprofit Kft. bevonásával alakítson ki a mikro-, kis- és középvállalkozások számára ingyenesen elérhető közbeszerzési képzési rendszert;
+
+| Felelős: | területfejlesztési miniszter |
+
+| Határidő: | 2023. június 30. |
+
+## 13. felhívja a területfejlesztési minisztert, hogy az Új Világ Nonprofit Kft. bevonásával alakítson ki a mikro-, kis- és középvállalkozások számára támogatási programot a közbeszerzési eljárásokban való részvételük támogatása érdekében;
+
+| Felelős: | területfejlesztési miniszter |
+
+| Határidő: | 2023. március 31. |
+
+## 14. felhívja a miniszterelnök politikai igazgatóját, hogy a Nemzeti Közszolgálati Egyetem útján, a belügyminiszterrel együttműködésben
+
+## a) gondoskodjon a közszférában foglalkoztatottak, valamint a közbeszerzés más szereplői számára a szervezeti integritás elősegítését célzó, valamint a korrupciós kockázatokkal és az összeférhetetlenséggel kapcsolatos konferenciák, tájékoztató rendezvények szakmai programjának összeállításáról, és
+
+## b) gondoskodjon az a) alpont szerinti szakmai programban szereplő konferenciák és rendezvények megszervezéséről;
+
+| Felelős: | a miniszterelnök politikai igazgatója belügyminiszter |
+
+| Határidő: | az a) alpont szerinti feladat tekintetében 2023. december 31. a b) alpont szerinti feladat tekintetében a felmerülés ütemében |
+
+## 15. felkéri a Közbeszerzési Hatóság elnökét, hogy a Közbeszerzési Hatóság keretében működő Tanács útján 2023. december 31-ig gondoskodjon az összeférhetetlenségről szóló új útmutató elkészítéséről és közzétételéről;
+
+## 16. felkéri a Közbeszerzési Hatóság elnökét, valamint a Gazdasági Versenyhivatal elnökét, hogy 2023. december 31-ig gondoskodjanak a közbeszerzési verseny tisztaságát érintő korrupciós kockázatokkal és kartellmegállapodásokkal kapcsolatos szakmai iránymutatás elkészítéséről és közzétételéről;
+
+## 17. felkéri a Közbeszerzési Hatóság elnökét, hogy 2023. december 31-ig gondoskodjon olyan – a területfejlesztési miniszterrel egyeztetett – szakmai iránymutatás elkészítéséről és közzétételéről, amely a közbeszerzési szerződések előkészítése során iránymutatást nyújt a kiszámíthatatlan piaci körülmények hatékony kezeléséhez, valamint a nyertes ajánlattevőt terhelő üzleti kockázatok arányos meghatározásához.
+
+1. melléklet az 1118/2023. (III. 31.) Korm. határozathoz
+
+Cselekvési terv A közbeszerzésekben a verseny szintjének növelését célzó intézkedések (2023–2026)
+
+1. Bevezetés
+
+Az Európai Bizottság 2022. április 27-én az uniós költségvetés védelmét szolgáló általános feltételrendszerről szóló, 2020. december 16-i (EU, Euratom) 2020/2092 európai parlamenti és tanácsi rendelet 6. cikke szerinti ún. kondicionalitási eljárást indított Magyarországgal szemben, amelynek keretében a Kormány számos korrekciós intézkedés végrehajtását vállalta. A vállalások között szerepel, hogy a Kormány 2023. március 31-ig átfogó cselekvési tervet fogad el a közbeszerzési verseny fokozása céljából. Ezt a vállalást Magyarország Helyreállítási és Ellenállóképességi Terve (a továbbiakban: HET) is tartalmazza, amelyet 2022. november 30-án jóváhagyásra javasolt a Bizottság és 2022 decemberében fogadta el a Tanács.
+
+Jelen dokumentum célja a fentiekben foglalt vállalás teljesítése, egyértelmű és ambiciózus határidők meghatározásával az egyes intézkedések 2023–2026 közötti időszakban történő végrehajtására.
+
+A cselekvési terv időhorizontjának meghatározására a HET időtartamának figyelembevételével került sor, amely összesen 2300 milliárd forintnyi stratégiai fejlesztési projektet foglal össze a 2026. augusztus 31-ig tartó időszak vonatkozásában.
+
+A cselekvési terv tartalmának kialakításakor a Kormány figyelembe vette a közbeszerzési versenyt elősegítő hazai és nemzetközi jó gyakorlatokat, a 2022 decemberében működésbe lépett teljesítménymérési keretrendszer (a továbbiakban: Keretrendszer) első eredményeit és a Keretrendszerben készült, 2023. február 28. napján közzétett elemzés megállapításait, valamint az Integritás Hatóság által a Korrupcióellenes Munkacsoport keretében a közbeszerzési területet érintő, a verseny szintjének fokozása szempontjából releváns megállapításokat és ajánlásokat.
+
+A cselekvési terv szervesen kapcsolódik más, a kondicionalitási eljárásban vállalt kötelezettségekhez is, amelyeknek hatékony végrehajtását elő kell segíteni a cselekvési tervben megfogalmazott intézkedések által. Ilyen vállalás, és a közbeszerzési verseny fokozása szempontjából kiemelkedő jelentőséggel bír az egyajánlatos közbeszerzések arányának csökkentése, melynek értelmében az egyajánlatos közbeszerzések arányát 2024-ig 15%-osnál alacsonyabb mértékűre kell csökkentetni mind az EU-forrásból megvalósuló, mind pedig a tisztán hazai forrásból megvalósuló közbeszerzések tekintetében. A 2022. február 28-i, az egyajánlatos közbeszerzések számának csökkentését szolgáló intézkedésekről szóló 63/2022. Korm. rendelet (a továbbiakban: Korm. rendelet) útján elfogadott intézkedések már működnek a verseny fokozása és az egyajánlatos közbeszerzései eljárások előfordulásának csökkentése érdekében. A versenyt elősegítő jó gyakorlatok körében értékelésre kerültek a Korm. rendelet gyakorlati alkalmazásával összefüggő tapasztalatok is az Elektronikus Közbeszerzési Rendszerben (a továbbiakban: EKR) elérhető adatok alapján. Továbbá a közbeszerzésekért felelős minisztérium megkeresést intézett a Közbeszerzési Szakértői Csoport (EXPP) európai uniós tagállamok által delegált képviselőihez, valamint a Külgazdasági és Külügyminisztérium közbenjárásával, Magyarország külképviseleteihez, kérve őket a közbeszerzési verseny növelése érdekében bevezetett általuk ismert intézkedések, illetve a közbeszerzési verseny terén fennálló tapasztalataik és esetleges jó gyakorlatok megosztására. A megkeresésekre beérkezett tájékoztatásokat a Kormány szintén felhasználta jelen cselekvési terv elkészítésekor.
+
+A cselekvési terv minden évre konkrét és mérhető célokat határoz meg az intézkedések tekintetében, tartalmazza a releváns célok és mutatók elérésére kialakított intézkedéseket – a végrehajtásukra vonatkozó konkrét határidőkkel –, megjelöli az intézkedések tekintetében a felelős intézményeket vagy hatóságokat és bemutatja a célok elérése nyomon követésének módját.
+
+A verseny intenzitásának fokozása érdekében kiemelten fontos területet képez az egyajánlatos közbeszerzések okainak feltárása, amely további, mélyreható vizsgálatot igényel. Ennek érdekében tovább vizsgálható különösen az egyes piaci szektorokban fennálló versenyhelyzet, a különböző típusú ajánlatkérők közbeszerzési gyakorlata, valamint a már bevezetett intézkedések, jogszabályi változások és egyéb külső körülmények hatása a közbeszerzésekben tapasztalható versenyhelyzetre. A közbeszerzésekért felelős miniszter (a továbbiakban: Miniszter) ezen a téren együttműködik nemzetközi szervezetekkel, különösen igénybe veszi a Gazdasági Együttműködési és Fejlesztési Szervezet (a továbbiakban: OECD) módszertani és szakmai támogatását.
+
+A Kormány vállalta a cselekvési terv évenkénti felülvizsgálatát, melynek eredményeként a meglévő intézkedések módosíthatók és új intézkedések vezethetőek be. A cselekvési terv első felülvizsgálatát 2024. március 31-ig kell elvégezni. Az éves felülvizsgálat keretében közzé kell tenni a cselekvési tervben szereplő intézkedések végrehajtásának állására vonatkozó beszámolót. Az intézkedések előrehaladását a Miniszter rendszeres időközönként monitorozza, amelynek érdekében információt kér be a végrehajtásért felelős szervezetektől. Szükség esetén a Miniszter év közben is kezdeményezheti a cselekvési terv felülvizsgálatát.
+
+2. A magyarországi közbeszerzésekben tapasztalható versenyhelyzet és az ahhoz kapcsolódó célkitűzések
+
+Az egyajánlatos közbeszerzések aránya az Egységes Piaci Eredménytábla 2021. évre vonatkozó összesítése alapján Magyarországon 40% volt. A Kormány ugyanakkor elkötelezett a közbeszerzésekben a verseny szintjének növelése iránt, így már az 1027/2021. (II. 5.) Korm. határozatban is célként határozta meg a verseny fokozását és az egyajánlatos közbeszerzések Európai Unió módszertana szerinti arányának 15%-nál alacsonyabb mértékűre történő csökkentését.
+
+Az Eredménytábla csupán az Európai Unió Tenders Electronic Daily portálján (a továbbiakban: TED adatbázis) megjelenő hirdetményeket veszi alapul, azonban az adatok kiegészíthetők az uniós értékhatárokat el nem érő értékű közbeszerzések adataival is, amelyek az EKR-ben érhetők el.
+
+Az egyajánlatos közbeszerzések aránya darabszám tekintetében, eljárásrendek szerint a következőképp alakult[^1]:
+
+Külön vizsgálva az uniós és a hazai forrásból megvalósuló közbeszerzéseket, az egyajánlatos közbeszerzésekkel kapcsolatos adatok 2019–2022 között a következőképpen alakultak az EKR-ben szereplő adatok alapján:
+
+| Eredménytájékoztató közzétételének éve | EU finanszírozott (%) | Hazai finanszírozott (%) |
+
+| 2019 | 21,3 | 34,0 |
+
+| 2020 | 17,2 | 35,5 |
+
+| 2021 | 15,9 | 35,9 |
+
+| 2022 | 13,3 | 31,3 |
+
+Forrás: EKR
+
+A kondicionalitási eljárásban és a HET-ben a Kormány az alábbi ütemezés szerint vállalta az egyajánlatos közbeszerzések arányának csökkentését:
+
+| Eredménytájékoztató közzétételének éve | EU finanszírozott cél (%) | Hazai finanszírozott cél (%) |
+
+| 2022 | 15 | 32 |
+
+| 2023 | 15 | 24 |
+
+| 2024 | 15 | 15 |
+
+| 2025 | 15 | 15 |
+
+| 2026 (január–március)[^2] | 15 | 15 |
+
+A Kormány a 2022. év során már hozott intézkedéseket az egyajánlatos közbeszerzések számának csökkentése érdekében, amelyek az alábbiak szerint foglalhatók össze.
+
+2021 februárjában a Kormány az 1027/2021. (II. 5.) Korm. határozatban vállalta, hogy az egyajánlatos közbeszerzések arányát 15%-nál alacsonyabb mértékűre csökkenti, az Európai Unió által használt módszertannal számolva (Egységes Piaci Eredménytábla módszertana).
+
+2022. február 28-án konkrét intézkedések léptek életbe a közbeszerzési eljárásokban a verseny javítása érdekében a Korm. rendelet elfogadásával és kihirdetésével. A rendelet 2022. március 15-én lépett hatályba.
+
+A Korm. rendelet kulcsfontosságú rendelkezései a következők:
+
+– Kötelezővé vált az előzetes piaci konzultáció alkalmazása nyílt vagy meghívásos eljárás alkalmazásakor az uniós közbeszerzési értékhatárokat meghaladó értékű közbeszerzési eljárásokban az olyan termékek és szolgáltatások beszerzése esetén, amelyeknél a leggyakrabban fordul elő egyajánlatos közbeszerzés (30%-ot meghaladó arányban csak egy ajánlat érkezik és a közbeszerzések teljes száma meghaladja az előző naptári évben az uniós közbeszerzési értékhatárt meghaladó összes eredményes közbeszerzés 2%-át). Az ajánlatkérő vagylagosan élhet az eljárás eredménytelenné nyilvánításának lehetőségével, amennyiben csak egyetlen ajánlat érkezik [1. § (1) bekezdés].
+
+– Kötelezővé vált az előzetes piaci konzultáció alkalmazása nyílt vagy meghívásos eljárás alkalmazásakor az uniós közbeszerzési értékhatárokat meghaladó valamennyi közbeszerzési eljárás esetén is a Kormány ellenőrzése alatt álló olyan ajánlatkérők esetében, amelyek a leginkább érintettek az egyajánlatos közbeszerzési eljárásokkal (akik esetében az uniós közbeszerzési értékhatárokat meghaladó értékű közbeszerzési eljárások több mint 20%-ában csak egy ajánlat érkezik, feltéve, hogy az előző naptári évben legalább tíz közbeszerzést folytattak le). Az ajánlatkérő vagylagosan élhet az eljárás eredménytelenné nyilvánításának lehetőségével, amennyiben csak egyetlen ajánlat érkezik [1. § (2) bekezdés].
+
+– Az egyajánlatos közbeszerzésekkel leginkább érintett ajánlatkérők (akik esetében az uniós közbeszerzési értékhatárokat meghaladó értékű közbeszerzési eljárások több mint 20%-ában csak egy ajánlat érkezik, feltéve, hogy az előző naptári évben legalább öt, az uniós értékhatárt elérő becsült értékű közbeszerzést folytattak le) számára kötelező egy intézkedési tervet készíteni és közzétenni minden év március 31-ig (2022-ben a határidő április 30-a volt), az egyajánlatos közbeszerzéseik csökkentése érdekében (5. §).
+
+– A Miniszter folyamatosan figyelemmel kíséri az egyajánlatos közbeszerzések alakulását és minden év február 15-ig (2022-ben a határidő április 30-a volt) köteles közzétenni egy éves jelentést a kapcsolódó adatok elemzésével (8. §).
+
+Magyarország a kondicionalitási eljárásban és a HET-ben a 2022. évre vállalt célkitűzéseit teljesítette, azonban a következő években meghatározott célok teljesítéséhez további intézkedésekre is szükség van. Jelen cselekvési terv célja további olyan intézkedések bevezetése, amelyek alkalmasak arra, hogy a közbeszerzésekben a versenyt tovább növeljék, többek között az elektronikus közbeszerzésben rejlő lehetőségek szélesebb kiaknázásával, az adminisztratív terhek és költségek csökkentésével, az egyajánlatos közbeszerzések mögöttes okairól további információk gyűjtésével, valamint ezek által a gazdasági szereplők közbeszerzésekhez való jobb hozzáférésének és részvételi képességének támogatásával.
+
+3. A verseny szintjének növelését célzó intézkedések és azok indokai
+
+I. Horizontális intézkedés
+
+1. A verseny szintjének értékelését, valamint a verseny intenzitásának növelését támogató elemzések és kutatások elvégzése (Keretrendszer továbbfejlesztése) az OECD bevonásával
+
+Az OECD közbeszerzésekkel kapcsolatos nemzetközi tapasztalataira és szakértelmére tekintettel szakmai együttműködés kerül kialakításra az OECD szakértői és a Miniszter munkaszervezete között. Az együttműködés célja egyrészt az OECD szakmai támogatásának igénybevétele a magyarországi közbeszerzési piacon a verseny szintjének további értékelésére és az egyajánlatos közbeszerzések lehetséges okainak mélyreható feltárására, másrészt pedig az OECD segítséget nyújt a közbeszerzésre vonatkozó adatok elemzésében és a közbeszerzési rendszer teljesítményének mérésére szolgáló további releváns mutatók meghatározásában.
+
+Az egyajánlatos közbeszerzések problematikája a különböző áruk, szolgáltatások és építési beruházások beszerzését nem ugyanolyan mértékben érinti, bizonyos szektorok esetében az ilyen közbeszerzések aránya magasabb. A Miniszter által a Korm. rendelet 8. §-a alapján elkészített és közzétett legfrissebb elemzés alapján megállapítható például, hogy a 2019–2022 közötti időszakban az egyajánlatos közbeszerzések közül darabszám szerinti mennyiségüket tekintve kiemelkednek a 33000000-0 Orvosi felszerelések, gyógyszerek és testápolási termékek főcsoportba tartozó beszerzések. A szállítófelszerelések és kiegészítő szállítási cikkek (pl. gépjárművek beszerzése), a laboratóriumi, optikai és precíziós felszerelések, valamint a javítási és karbantartási szolgáltatások esetében más beszerzési tárgyakhoz képest szintén magasabb volt az egyajánlatos közbeszerzések aránya.
+
+Az OECD szakmai tapasztalatának és tudásának igénybevétele nagymértékben hozzá tud járulni a Kormány által kitűzött célhoz, miszerint az egyajánlatos közbeszerzések az Európai Unió módszertana szerinti arányát 15%-nál alacsonyabb mértékűre kell csökkenteni. Az együttműködés keretében az OECD vállalja, hogy – a Miniszterrel együttműködésben – az egyajánlatos közbeszerzésekkel leginkább érintett szektorok vonatkozásában kutatást végez és konkrét intézkedéseket is tartalmazó, a nemzetközi jó gyakorlatok felmérésén is alapuló, a verseny fokozására irányuló javaslatokat fogalmaz meg az akcióterv 2024. évi felülvizsgálatához. Az OECD egy, a magyarországi egyajánlatos közbeszerzések lehetséges okairól szóló jelentést készít. Az együttműködés kiterjed továbbá a Keretrendszer továbbfejlesztésének szakmai támogatására is, melynek keretében az OECD javaslatokat fogalmaz meg az indikátorok felülvizsgálata, valamint az adatgyűjtés és elemzés módszertanának fejlesztése vonatkozásában.
+
+A verseny szintjének elemzése során részletes vizsgálat elvégzése szükséges a szektorspecifikus jellemzők mellett különösen az ajánlatkérő szervezetek közbeszerzési gyakorlata, valamint a jogszabályi változások hatásának (pl. előzetes piaci konzultációk) értékelése tekintetében is. Ezen kutatási területek esetében az OECD által készített jelentés ugyancsak hozzájárul majd a megfelelő következtetések levonásához, illetve a vonatkozó intézkedések előkészítéséhez.
+
+II. A közbeszerzési eljárások adminisztratív terheinek csökkentése
+
+2. Kizáró okok hiánya igazolására szolgáló adatbázisok automatizált lekérdezése
+
+A jelenlegi közbeszerzési folyamatban adminisztrációs terhet jelent az ajánlattevők számára – amely különösen jelentős a legkisebb vállalkozások esetében –, hogy egyes kizáró okok hiányának igazolására hivatalos dokumentumokat kell benyújtaniuk, valamint külön meg kell jelölniük azokat az adatbázisokat, ahol a feltételek teljesülése ellenőrizhető. Ajánlatkérői oldalról pedig sok időt vesz igénybe a benyújtott igazolások, illetve a rendelkezésre álló különböző adatbázisok ellenőrzése. A közbeszerzési folyamat megkönnyítése érdekében az EKR fejlesztése nyomán lehetővé válik a Közbeszerzési Hatóság és a Gazdasági Versenyhivatal által vezetett, kizáró okok hiánya igazolására szolgáló nyilvántartások adattartalmának automatikus megjelenítése egy-egy gazdasági szereplő vonatkozásában. Ezáltal az ajánlatkérők számára nem lesz szükséges ezeket az adatbázisokat minden egyes gazdasági szereplőre vonatkozóan külön-külön lekérdezni, amellyel gyorsulhat a bírálati folyamat, így rövidülhet a közbeszerzési eljárások időtartama[^3]. Az automatizált lekérdezési funkció az ajánlattevők számára is elérhetővé válik, amely jelentősen megkönnyíti az adott ajánlattevő vonatkozásában az egyes adatbázisokban szereplő információk az ajánlat benyújtását megelőző ellenőrzését.
+
+A fejlesztés bevezetésével csökkennek a közbeszerzési eljárásban mind az ajánlatkérők, mind pedig az ajánlattevők adminisztratív terhei. Ezáltal rövidülhet a közbeszerzési eljárások időtartama is, amely az adminisztráció egyszerűsödésével együtt alkalmas arra, hogy ösztönözze a közbeszerzésekben a szélesebb körű ajánlattételt. Ezt megerősítik a Keretrendszer keretében végzett kérdőíves felmérés eredményei is, amelyek alapján a kitöltők döntő többsége szerint ösztönzőleg hatna a versenyre az EKR-ben további automatizációk bevezetése (a 485 válaszadó közel 90 százaléka), illetve a bírálat és az értékelés időtartamának csökkentése (a 485 válaszadó kétharmada). A nemzetközi kutatásból kiderült, hogy például Szlovákiában is sor került az elektronikus közbeszerzési eszközökben végzett változtatásokra a verseny növelése érdekében.
+
+III. A közbeszerzési eljárásokhoz történő hozzáférés, illetve a részvétel támogatása
+
+3. Automatikus értesítések beállításának lehetősége az EKR-ben
+
+Az EKR jelenleg is számos különböző szempont alapján teszi lehetővé a hirdetmények közötti keresést az érdeklődők számára. Ehhez két külön felület is rendelkezésre áll, nevezetesen a „Megindított eljárások” és a „Közbeszerzési hirdetmények” menüpont. Emellett külön keresési felületen kereshetők a „Megindított előzetes piaci konzultációk”, valamint a „Keretmegállapodás alapján indított beszerzések”. A közbeszerzési eljárások nyújtotta üzleti lehetőségek feltérképezéséhez azonban a gazdasági szereplőknek minden esetben fel kell menniük az EKR honlapjára és a megfelelő keresési paraméterek beállításával (vagy akár anélkül) keresést kell indítaniuk a rendszerben. Jelenleg azonban az őket potenciálisan érdeklő eljárásokról nem kapnak külön értesítést a rendszerből, amellyel a számukra releváns hirdetmények felkutatása időigényes folyamat lehet.
+
+A releváns közbeszerzési eljárások könnyebb azonosítása érdekében az EKR fejlesztésére kerül sor oly módon, hogy a gazdasági szereplők vagy akár bármely érdeklődő személy vagy szervezet automatikus, email útján történő értesítéseket kérhet az EKR-ben megjelenő hirdetményekről. A fejlesztést követően a felhasználók kérhetik majd, hogy bármely megjelenő hirdetményről kapjanak értesítést vagy beállíthatnak preferenciákat (pl. beszerzés tárgya, CPV kód, teljesítés helye, eljárásrend), amely által csak a számukra potenciálisan releváns hirdetményekről kapnak értesítést. Az értesítések beállítására lehetőség lesz a közbeszerzési eljárásokhoz kapcsolódó hirdetmények és az előzetes piaci konzultációkra vonatkozó hirdetmények esetén is. A funkció ingyenesen elérhető lesz.
+
+Az értesítések beállításával a gazdasági szereplők hamarabb értesülhetnek a számukra releváns közbeszerzési eljárásokról és előzetes piaci konzultációkról, amellyel időt takaríthatnak meg, hiszen nem kell folyamatosan böngészni az EKR oldalát, a Közbeszerzési Értesítőt, illetve a TED adatbázist, amely által nagyobb eséllyel tudnak időben értesülni és ajánlatot tenni vagy részt venni előzetes piaci konzultációban. A cselekvési terv elkészítése során végzett nemzetközi kutatás eredményei alapján Németországban például javasolják a potenciálisan alkalmas ajánlattevők értesítését a TED-en megjelenő hirdetményekről a verseny növelése érdekében. A Keretrendszer keretében végzett kérdőíves felmérés eredménye alapján szintén ösztönzőleg hatna a versenyre az EKR értesítési funkcióinak bővítése: az összesen 485 válaszadó közel 90 százaléka vélte úgy, hogy az EKR értesítési funkcióinak továbbfejlesztése és további automatizációk bevezetése elősegítené a verseny intenzitását és a közbeszerzésekben való ajánlattételi hajlandóságot.
+
+4. CPV kód szerinti keresési funkció további fejlesztése és bővítése az EKR-ben
+
+Az EKR-ben a „Közbeszerzési hirdetmények” menüpontban jelenleg is van lehetőség CPV kód szerinti keresésre, azonban tetszőleges CPV kód megadása nem lehetséges, a CPV kódoknak csupán egy része választható ki egy legördülő menüből. Bár szabad szöveges keresési funkció is rendelkezésre áll, ez a beszerzési tárgyak különféle, ajánlatkérők általi elnevezése miatt nem minden esetben alkalmas kellően pontos keresési eredmények megjelenítésére. Ez megnehezíti a gazdasági szereplők számára az őket érdeklő hirdetmények közti gyors és hatékony keresést. Ennek megoldásaként az EKR fejlesztésére kerül sor, amelynek eredményeként egy differenciáltabb keresést lehetővé tevő keresési funkció fog a felhasználók rendelkezésére állni. Ennek segítségével a felhasználók jóval pontosabb eredményeket kaphatnak majd a keresések során, ha konkrét beszerzési tárgyra szeretnének rákeresni.
+
+Jelen pontban leírt fejlesztés szorosan kapcsolódik a 3. pontban leírt fejlesztéshez, hiszen a CPV kód szerinti keresési funkciók további fejlesztésével és bővítésével egyúttal lehetővé válik a CPV kód szerinti automatikus értesítések bevezetése is. A Keretrendszer keretében végzett kérdőíves felmérés az előző pontban már hivatkozott eredményei is azt támasztják alá, hogy az EKR értesítési funkcióinak továbbfejlesztése és további automatizációk bevezetése elősegítené a verseny intenzitását és ösztönözné a közbeszerzési eljárásokban való részvételt.
+
+5. Közbeszerzési dokumentumok anonim módon történő elérhetőségének biztosítása az EKR-ben
+
+A közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 39. § (1) bekezdése szerint az ajánlatkérő köteles a közbeszerzési dokumentumokat a gazdasági szereplők számára elektronikus úton, – a regisztrálási adatok megkérésének kivételével – közvetlenül, korlátlanul és teljeskörűen, térítésmentesen hozzáférhetővé tenni. A gyakorlatban egy potenciális ajánlattevő jellemzően csak akkor fér hozzá a részletes közbeszerzési dokumentumokhoz, ha a közbeszerzési eljárásra már jelezte az érdeklődését.
+
+A felelős akkreditált közbeszerzési szaktanácsadók szakmai testületével folytatott egyeztetés szerint már az is elrettenthet egyes ajánlattevőket az érdeklődés jelzésétől és a későbbi ajánlattételtől, hogy az érdeklődés jelzése nem történhet anonim módon, tehát az ajánlatkérő számára már az ajánlattételi szakaszban láthatóvá válik, hogy mely gazdasági szereplők érték el az adott közbeszerzési eljárás dokumentumait. E mellett a Korrupcióellenes Munkacsoport is javasolta a közbeszerzési dokumentumok anonimizált elérése biztosításának megteremtését, mind a kormányzati szereplők, mind pedig a nem kormányzati szervek támogatása mellett.
+
+A fentiek megoldása érdekében lehetővé válik az EKR-ben, hogy a közbeszerzési dokumentumokat anélkül tekinthessék meg, illetve tölthessék le a regisztrált felhasználók, hogy külön jelezniük kellene az érdeklődésüket egy-egy közbeszerzési eljárásban. Ez a lehetőség a közbeszerzési dokumentumok elérhetőségét szabályozó jogszabályok módosításával biztosítható, amire a Miniszter tesz javaslatot. Az ajánlatérők így nem fognak értesülni arról, hogy mely felhasználók töltötték le a dokumentumokat, tehát lényegében azok anonim módon elérhetők lesznek. Ezzel javulhat a közbeszerzési eljárásokba vetett bizalom, valamint a dokumentumok könnyebb elérhetősége önmagában is ösztönző hatással lehet az eddiginél szélesebb körű ajánlattételre a közbeszerzési eljárásokban.
+
+6. A jogorvoslati díjakra vonatkozó szabályozás felülvizsgálata
+
+A közbeszerzési eljárásokban a jogorvoslat lehetősége Magyarországon széles körben biztosított, azonban a kérelemre induló jogorvoslati eljárásokért igazgatási szolgáltatási díjat (a továbbiakban: jogorvoslati díj) kell fizetni. Ennek mértéke a közbeszerzési eljárás értékétől, illetve a kérelmi elemek számától függően akár 50 millió forint is lehet. Bár a jogorvoslati díj mértéke hivatott garantálni, hogy csak indokolt esetben kezdeményezzen valaki jogorvoslati eljárást, a Keretrendszer keretében elvégzett kérdőíves kutatás eredményei alapján látható, hogy egyrészt indokolt könnyíteni a versenyt korlátozó ajánlatkérői gyakorlatokkal szembeni fellépést, másrészt a jogorvoslati díjak mértéke a jogorvoslathoz való hozzáférés megnehezítése útján közvetve az ajánlattételtől is visszatarthat potenciális ajánlattevőket. Ki kell emelni továbbá, hogy az ajánlattétellel járó költségeket is jelentősen megemelhetik egy esetleges jogorvoslati eljárás költségei.
+
+A kérdőíves felmérés adatai szerint a válaszadók jelentős hányada vélte úgy, hogy egy közbeszerzési jogorvoslati eljárás igénybevétele vonatkozásában visszatartó hatása van az igazgatási szolgáltatási díj mértékének (a válaszadók több mint 80 százaléka). A verseny mértékét tovább fokozhatná, amennyiben a közbeszerzési dokumentumokkal, a bírálattal és az értékeléssel kapcsolatos jogorvoslat igénybevételének feltételeit könnyítené a jogalkotó.
+
+A nemzetközi kutatás alapján például Szlovákiában is az ajánlattételre ösztönző hatásúnak látják a jogorvoslati díjak csökkentését.
+
+A Közbeszerzési Döntőbizottság előtt indított jogorvoslati eljárásért fizetendő díjak a jogorvoslathoz való hozzáférésre és a gazdasági szereplők a közbeszerzési eljárásokban való részvételére gyakorolt hatását mind a Keretrendszer, mind a Korrupcióellenes Munkacsoport közbeszerzési almunkacsoportja részletesen vizsgálta. A Korrupcióellenes Munkacsoportban a kormányzati tagok és a nem kormányzati szereplők is egyetértettek abban, hogy a jogorvoslati díjakat felül kell vizsgálni a piaci szereplők (különösen a KKV-k) jogorvoslatokhoz való jobb hozzáférése érdekében, biztosítva azonban, hogy a jogorvoslati díjak változása ne teremtsen lehetőséget a jogorvoslati kérelmek benyújtási jogának visszaélésszerű alkalmazására. A fentiek ismeretében a Miniszter a jogorvoslati díjak mértékét felülvizsgálja és javaslatot tesz azok módosítására oly módon, hogy az jobban ösztönözze a közbeszerzési eljárásokban való szélesebb körű részvételt. Ennek keretében a közbeszerzési eljárást megindító felhívás és az egyéb közbeszerzési dokumentumok versenykorlátozó jellege miatt indított jogorvoslati eljárások díjainak jelentős csökkentésének lehetősége is külön vizsgálat tárgyát fogja képezni. A fentiek alapján a Miniszter javaslatot nyújt be a Közbeszerzési Döntőbizottság eljárásáért fizetendő díjat szabályozó jogszabályok módosítására.
+
+7. Az előzetes piaci konzultáció kötelező adattartalmának bővítése a tervezett alkalmassági követelményekkel és értékelési szempontokkal
+
+Az egyajánlatos közbeszerzések számának csökkentése és a verseny fokozása érdekében a Korm. rendeletben a Kormány meghatározta, hogy a közbeszerzési eljárást megelőző, független szakértőkkel, hatóságokkal, illetve piaci résztvevőkkel lefolytatott előzetes piaci konzultáció alkalmazása mely esetekben és milyen feltételek mellett kötelező. Ennek megfelelően, a Korm. rendelet 1. § (5) bekezdés a) és b) pontja alapján az előzetes piaci konzultáció során az ajánlatkérő köteles a közbeszerzés tárgyát, a műszaki leírás tervezetét és a szerződéstervezetet vagy a főbb szerződéses feltételeket a konzultáció meghirdetésekor közzétenni és a közzétett dokumentumok véleményezésének lehetőségét bármely potenciális ajánlattevő vagy egyéb érdekelt szervezet részére biztosítani.
+
+A Keretrendszerben készített elemzés és a kérdőíves adatfelmérés eredményei rámutattak arra, hogy a versenyt aránytalanul korlátozó alkalmassági követelmények alkalmazása és az értékelési szempontok diszkriminatív alkalmazási gyakorlata a verseny intenzitására is negatív hatással van. Az ajánlattevő szervezetek több mint 60 százaléka nevezte legalább gyakori problémának az alkalmassági követelmények a versenyt aránytalanul korlátozó alkalmazását, míg az értékelési szempontok diszkriminatív alkalmazását legalább gyakori problémának tartók aránya közel 40 százalék volt. A kérdőívet független tanácsadóként kitöltők is hasonlóan magas arányban értékelték a verseny intenzitását érintő, legalább gyakori problémának az aránytalan alkalmassági követelmények alkalmazását (válaszadók valamivel több mint 40 százaléka) és az értékelési szempontok diszkriminatív alkalmazását (válaszadók közel fele). Az előzetes piaci konzultációk hatékonyságának növelését a Korrupcióellenes Munkacsoport is szorgalmazta.
+
+Ugyan a közbeszerzési dokumentumok jogsértő voltának orvoslása érdekében már az ajánlattételi szakaszban is több jogintézmény áll az ajánlattevők rendelkezésére (előzetes vitarendezés, jogorvoslat), a fenti probléma megoldása érdekében, a megelőzésre helyezve a hangsúlyt, az előzetes piaci konzultáció keretében kötelezően közzéteendő adatok és dokumentumok köre a Korm. rendelet módosításával kibővítésre kerül az alkalmassági követelményekkel és az értékelési szempontokkal annak érdekében, hogy a gazdasági szereplők még a közbeszerzési eljárás megindítását megelőzően megismerhessék és véleményezhessék ezen, a verseny és a szerződés odaítélésének szempontjából kiemelt jelentőséggel bíró feltételeket. Ez elősegíti egyfelől a közbeszerzési eljárások még alaposabb előkészítését, másrészt visszaszorítja az aránytalan alkalmassági követelmények és az értékelési szempontok diszkriminatív módon történő alkalmazását, fokozva ezzel a potenciális ajánlattevők részvételét a közbeszerzési eljárásokban.
+
+IV. A közbeszerzésekhez kapcsolódó képességek fejlesztése a közbeszerzések szereplői körében
+
+8. Az egyajánlatos közbeszerzések elkerülését segítő módszerekről és gyakorlatokról szóló útmutató frissítése és kiegészítése újabb jó gyakorlatokkal
+
+A Korm. rendelet 5. §-a értelmében az egyajánlatos közbeszerzésekkel legnagyobb arányban érintett ajánlatkérőknek intézkedési tervet kell közzétenniük az ilyen közbeszerzéseik csökkentése érdekében. A Korm. rendelet 6. §-a értelmében a Miniszter útmutatót tett közzé az egyajánlatos közbeszerzések elkerülését segítő legjobb módszerekről, illetve gyakorlatokról. Az útmutató segítségül szolgált a Korm. rendelet alapján intézkedési terv elkészítésére kötelezett ajánlatkérők számára az első intézkedési tervek elkészítéséhez. A tervekben az ajánlatkérőknek be kellett mutatniuk egyrészt az egyajánlatos közbeszerzések magas számának lehetséges okait, valamint a közbeszerzési eljárásaikban a verseny növelése és az egyajánlatos közbeszerzések csökkentése érdekében meghozni tervezett intézkedéseiket. Számos ajánlatkérő az útmutatóban javasolt intézkedések bevezetéséről nyilatkozott, azonban a közzétett intézkedési tervekben többen olyan intézkedést is megjelöltek, amelyek jó gyakorlatként szolgálhatnak a jövőben más ajánlatkérők számára is. Második alkalommal az érintett ajánlatkérőknek 2023. március 31-ig kell intézkedési tervet közzétenniük, amelyben a korábbihoz képest új intézkedéseket is szerepeltethetnek, valamint lehetőségük van a korábbi intézkedések hasznosságát is értékelni.
+
+A fentiek fényében a Miniszter összesíti az intézkedési tervekben bemutatott, azonban az útmutatóban nem szereplő jó gyakorlatokat, valamint megvizsgálja a verseny hiányának intézkedési tervekben szereplő lehetséges indokait és ezeket alapul véve kiegészíti a meglévő útmutató szövegét. Az útmutatóban szereplő intézkedések alapjául szolgálhatnak továbbá a nemzetközi szinten feltárt, a verseny szintjére pozitív hatással járó jó gyakorlatok is. Az aktualizált útmutató segítségül szolgálhat az ajánlatkérők számára a jövőbeli intézkedési terveik elkészítéséhez, valamint bármely ajánlatkérő segítségül hívhatja az útmutatót, annak érdekében, hogy növelni tudja a verseny szintjét az általa lefolytatott közbeszerzési eljárásokban.
+
+9. Közbeszerzési képzés KKV-k számára
+
+A közbeszerzési rendszer bonyolultsága és a vonatkozó szabályrendszer megfelelő ismeretének hiánya, valamint az EKR használatával kapcsolatos gyakorlati tudás hiánya számos vállalkozást visszatarthat a közbeszerzési eljárásokban való részvételtől, különös tekintettel a KKV-kra. Egy közbeszerzési ismereteket tartalmazó, kifejezetten az ajánlattevőket célzó képzési rendszer azonban alkalmas lehet arra, hogy olyan vállalkozásokat is ösztönözzön a közbeszerzési eljárásokban való részvételre, akik eddig nem, vagy csak kevés alkalommal tettek ajánlatot közbeszerzésben. A közbeszerzésekben a verseny elősegítésének egyik fontos eszköze a KKV-k segítése és ösztönzése a közbeszerzési eljárásokban való részvételre, amit a nemzetközi kutatás során kapott tagállami válaszok is alátámasztanak; pl. Dániában és Litvániában is KKV-k segítését és ösztönzését tekintik a verseny növelése egyik legfontosabb eszközének.
+
+A Keretrendszer eredményei is alátámasztják a közbeszerzési képzés szükségességét. A kérdőíves felmérés adatai alapján megállapítható volt, hogy a válaszadók több mint fele legalább gyakori problémának tartja a verseny intenzitása szempontjából az ajánlattevő szervezetek hiányos közbeszerzési ismereteit. A válaszadók hasonló aránya, közel fele tartotta problémának a verseny mértéke szempontjából, hogy az ajánlattevők az EKR-rel kapcsolatos ismeretei hiányosak. A képzési program szükségességét indokolja továbbá, hogy a kérdőíves felmérés adatai szerint a válaszadók több mint 40 százaléka szerint korlátozza a verseny intenzitását és az ajánlattevők közbeszerzési eljárásokban való részvételét, hogy egy közbeszerzési eljárás a versenypiaci folyamatokhoz képest átláthatatlan, bonyolult, a szabályozást és a jogalkalmazási gyakorlatot érintő gyakori változások miatt nehezen tervezhető folyamat. A fenti eredményekkel egybevágnak a kérdőíves felmérés arra vonatkozó adatai, miszerint a válaszadók jelentős hányada, több mint 90 százaléka szerint fokozná a verseny intenzitását és a gazdasági szereplők a közbeszerzési eljárásokban való részvételét az ajánlattevők a közbeszerzésekkel és az EKR-rel kapcsolatos általános ismereteinek bővítése.
+
+A fentiek érdekében egy kifejezetten az ajánlattevői oldal számára kifejlesztett képzési rendszer kerül felállításra, amely magában foglalja a releváns tananyagok kidolgozását. A képzési rendszer mikro-, kis- és középvállalkozások számára lesz ingyenesen elérhető. A képzés elsősorban e-learning tananyagok önálló feldolgozásán és online oktatás során történik majd, azonban esetenként személyes oktatásra is sor kerülhet. A képzések a legfontosabb elméleti és gyakorlati információkat nyújtják arról, hogy a mikro-, kis- és középvállalkozások hogyan tudnak sikeresen felkészülni és részt venni a közbeszerzési eljárásokban. A képzési anyagok különösen a jogorvoslatok igénybevételére, az ajánlattétel kérdéseire, az EKR használatára és a közbeszerzési szerződések teljesítése során felmerülő sajátosságokra fognak kiterjedni. A Korrupcióellenes Munkacsoport javaslatára a képzés tartalma kiterjed az integritással és a korrupció elkerülésével kapcsolatos témákra is. Az online oktatásokon és jelenléti képzéseken egy vállalkozásból csak korlátozott számú résztvevő vehet majd részt annak érdekében, hogy minél több vállalkozás képviselői számára nyíljon lehetőség az oktatásokon való részvételre.
+
+A képzésekhez és az e-learning tanfolyamokhoz való hozzáféréshez online regisztrációs mechanizmus kerül létrehozásra. Biztosítva lesz, hogy a képzéseken való részvételt az online rendszer bejelentkezési adatai és a foglalkozások során megválaszolandó tesztkérdések segítségével a képzés megvalósításáért felelős szerv ellenőrizni tudja. A Miniszter gondoskodik arról is, hogy az érdeklődő mikro-, kis- és középvállalkozások is regisztrálhassanak a közelgő képzésekről szóló e-mail-értesítésekre, amelyek tartalmazzák a tanfolyam tartalmának és a regisztrációs folyamatnak a részleteit.
+
+A képzések lebonyolítását és a tananyagok kidolgozását az Európai Unió finanszírozza a Helyreállítási és Ellenállóképességi Eszközön (RRF) keresztül.
+
+10. Támogatási program KKV-k számára
+
+A közbeszerzésekben történő részvételt illetően további visszatartó erő lehet a gazdasági szereplők számára az ajánlattétel költsége. Egy KKV, aki nem rendelkezik megfelelő belső erőforrással és szaktudással, tipikusan külsős tanácsadó bevonásával tud ajánlatot tenni egy-egy közbeszerzési eljárásban. Ezt azonban nem minden potenciális ajánlattevő – különösen a KKV-k – tudja vagy hajlandó megfizetni, különös tekintettel arra, hogy bizonytalan, hogy végül ők kerülnek-e nyertesként kihirdetésre az eljárásban. A 9. pontban említettek alapján a KKV-k részvételének támogatása nemzetközi szinten is jó gyakorlatnak tekinthető a közbeszerzésekben a verseny fokozásának eszközeként.
+
+A mikro-, kis- és középvállalkozások (különös tekintettel a mikro- és kisvállalkozásokra) közbeszerzési eljárásokban való részvételének támogatása érdekében kapcsolatos költségeikért közvetlenül kifizetendő átalánykompenzációt biztosító támogatási rendszer kerül felállításra a közbeszerzési eljárásokban való részvételük megkönnyítése és a belépési akadályok csökkentése céljából. A támogatási rendszer keretében nyújtott pénzügyi támogatás különösen a közbeszerzési tanácsadó igénybevételének költségeit fedezi, de nem fedezi a közbeszerzési eljárásban való részvételnek az adott vállalkozás által viselt összes költségét. A támogatás kedvezményezettjei objektív, megkülönböztetéstől mentes és átlátható kiválasztási kritériumok alapján kerülnek kiválasztásra.
+
+A támogatásra csak azok a mikro-, kis- és középvállalkozások lesznek jogosultak, amelyek érvényes ajánlatot nyújtottak be egy közbeszerzési eljárásban (vagy azt a közbeszerzési eljárás szabályai szerint az ajánlatkérőnek nem kellett elbírálnia, és bírálat hiányában az ajánlatot nem nyilvánította érvénytelennek), és amelyek a közbeszerzési eljárásban való ajánlat benyújtását megelőző tizenkét hónapban nem vettek részt más közbeszerzési eljárásban. Az egy vállalkozás által benyújtott támogatási kérelmek száma korlátozott lesz.
+
+A támogatási programot az Európai Unió finanszírozza a Helyreállítási és Ellenállóképességi Eszközön (RRF) keresztül.
+
+11. Az összeférhetetlenségről szóló új útmutató kiadása
+
+Az összeférhetetlenség jogintézménye megfelelő alkalmazásának és az ilyen helyzetek elkerülésének, feltárásának és orvoslásának kiemelt jelentősége van a verseny tisztasága és átláthatósága szempontjából. A Kbt. 2022 őszi módosítása jelentős mértékben módosította a Kbt. 25. §-ában szabályozott összeférhetetlenségi szabályt az uniós jognak – különösen az (EU, Euratom) 2018/1046 Rendelet 61. cikkének – való maradéktalan megfelelés érdekében. Ennek megfelelően 2022. október 11. napjától a Kbt. 25. § (4) bekezdése értelmében összeférhetetlenség áll fenn akkor, ha az ajánlatkérő részéről az eljárással vagy annak előkészítésével kapcsolatos tevékenységbe bevont vagy az eljárás eredményét befolyásolni képes személy – ideértve a közbeszerzési szolgáltatót, valamint az általa foglalkoztatottakat is – közvetve vagy közvetlenül olyan pénzügyi, gazdasági vagy egyéb személyes érdekeltséggel rendelkezik, amely úgy tekinthető, hogy befolyásolja funkcióinak pártatlan és tárgyilagos gyakorlását.
+
+Figyelemmel arra, hogy az összeférhetetlenség fennállása sok esetben nem egy mérlegelés nélkül megítélhető kérdés, a jogalkalmazóknak kiemelt figyelmet kell fordítani, és különös körültekintéssel kell eljárni annak érdekében, hogy az összeférhetetlenségi helyzet felmerülése esetén a jogszabálynak megfelelő döntést meg tudják hozni, és a szükséges megfelelő intézkedéseket meg tudják tenni az ilyen helyzetek megelőzése, feltárása és orvoslása érdekében.
+
+A Keretrendszerben elvégzett kérdőíves felmérés eredményei alapján a válaszadók közel fele szerint legalább gyakran előforduló probléma a közbeszerzési verseny intenzitása szempontjából, hogy a szabályozást és a jogalkalmazási gyakorlatot érintő gyakori változások miatt a közbeszerzési eljárásban való részvétel nehezen tervezhető folyamat. Megjegyzendő, hogy a fenti problémát gyakorinak nevező válaszadók közül a mind az ajánlatkérői, mind az ajánlattevői oldalra rálátó független tanácsadók több mint 60 százalékos aránya volt a legmagasabb. Ki kell emelni, hogy a Keretrendszer eredményei rámutattak arra is, hogy a közbeszerzési verseny intenzitását korlátozó gyakori probléma a közbeszerzési eljárás összetettsége a versenypiaci folyamatokhoz képest (összességében a válaszadók több mint 40 százaléka, ezen belül a független tanácsadók több mint fele válaszolt így). A jogalkalmazók támogatásának szükségességét támasztják alá továbbá a kérdőíves felmérés arra vonatkozó adatai, miszerint a válaszadók jelentős hányada, több mint 90 százaléka szerint fokozná a verseny intenzitását és a gazdasági szereplők a közbeszerzési eljárásokban való részvételét az ajánlattevők a közbeszerzésekkel kapcsolatos általános ismereteinek bővítése. Az összeférhetetlenségről szóló útmutató kidolgozását a Korrupcióellenes Munkacsoport is javasolta, mind a kormányzati szereplők, mind pedig a nem kormányzati szervek támogatása mellett.
+
+A fentiek orvoslásaként a Közbeszerzési Hatóság keretében működő Tanács a Kbt. 183. § c) pontjában foglalt feladatkörében eljárva a törvény összeférhetetlenséggel kapcsolatos előírásai gyakorlati alkalmazásának támogatása, továbbá az összeférhetetlenség megelőzésére, észlelésére, kezelésére vonatkozóan, valamint az összeférhetetlenség jelensége elleni fellépés elősegítése céljából új útmutatót dolgoz ki és tesz közzé a jogalkalmazók támogatása érdekében.
+
+12. A közbeszerzési verseny tisztaságát érintő korrupciós kockázatokkal kapcsolatos szakmai iránymutatás kiadása
+
+A Keretrendszer eredményei rávilágítottak arra, hogy a közbeszerzésekben ajánlattevőként és független tanácsadóként részt vevő szereplők többsége szerint a közbeszerzési verseny intenzitását korlátozó gyakori probléma a közbeszerzésekbe vetett ajánlattevői bizalom hiánya.
+
+A Korrupcióellenes Munkacsoport közbeszerzési almunkacsoportja számos javaslatot megvitatott, és a nem kormányzati szereplőket képviselő tagok, valamint az állami szerveket képviselő tagok által egyaránt támogatott (konszenzusos) javaslatok között rögzítette, hogy a verseny tisztaságának növelése szempontjából szükséges egy új, a korrupciós kockázatok és kartellmagatartások felismerésére és megelőzésére vonatkozó útmutató kidolgozása.
+
+A közbeszerzési verseny átláthatóságának és tisztaságának javítása ösztönzőleg hathat a potenciális ajánlattevők ajánlattételi hajlandóságára, így – figyelembe véve a Korrupcióellenes Munkacsoport vonatkozó javaslatát is – a Közbeszerzési Hatóság a Gazdasági Versenyhivatallal együttműködve új szakmai iránymutatást dolgoz ki és tesz közzé a korrupciós kockázatok és kartellmegállapodások felismerése és megelőzése tárgyában.
+
+13. A közszférában foglalkoztatottak és a közbeszerzés más szereplői számára a szervezeti integritás elősegítését támogató konferenciák, tájékoztató rendezvények megszervezése
+
+A 11. és 12. pontban ismertetett intézkedésekkel szorosan összefügg a közbeszerzési eljárásokban ajánlatkérőként részt vevő szervezeteknél foglalkoztatottak, valamint a közbeszerzés más szereplői az összeférhetetlenség jogintézményével, az ilyen helyzetek felismerésével, feltárásával és orvoslásával, valamint a korrupciós kockázatokkal kapcsolatos képzésének szükségessége.
+
+A közbeszerzésekbe vetett bizalom hiánya mint a közbeszerzési verseny intenzitását korlátozó gyakori probléma megoldása érdekében a jogalkalmazói oldal valamennyi szereplőjének, így mind az ajánlattevők, mind az ajánlatkérő szervezetek képzésére nagy hangsúlyt kell fektetni. Az ajánlatkérői oldal szereplői a korrupciós kockázatokkal és az összeférhetetlenség jogintézményével kapcsolatos ismereteinek bővítése javítja a verseny tisztaságát és átláthatóságát, amely a potenciális ajánlattevők közbeszerzési eljárásokban való aktívabb részvételét is pozitívan befolyásolhatja.
+
+A Korrupcióellenes Munkacsoport közbeszerzési almunkacsoportja számos javaslatot megvitatott, és a nem kormányzati szereplőket képviselő tagok, valamint az állami szerveket képviselő tagok által egyaránt támogatott (konszenzusos) javaslatok között rögzítette a közszféra munkatársai számára a szervezeti integritás elősegítése érdekében az esetleges korrupt befolyásból eredő összeférhetetlen helyzetek felismerését, és annak jelentését segítő konferenciák, tájékoztató rendezvények Nemzeti Közszolgálati Egyetem szervezésében történő megtartásának szükségességét. Emellett az intézkedés megvalósításába a belügyminiszter (Nemzeti Védelmi Szolgálat) bevonása is indokolt az integritás és korrupciómegelőzés terén fennálló szakértelmére és feladataira tekintettel.
+
+A fentiek alapján a Nemzeti Közszolgálati Egyetem – a belügyminiszter (Nemzeti Védelmi Szolgálat) bevonásával – összeállítja a szervezeti integritást elősegítő, a korrupciós kockázatokkal és az összeférhetetlenséggel kapcsolatos konferenciák és tájékoztató rendezvények programtervét, valamint ezt követően megszervezi azokat a közszféra munkatársai, illetve a közbeszerzés más szereplői számára. A feladat végrehajtásához a Miniszter a közbeszerzési szakmai kérdésekben támogatást nyújt.
+
+14. Iránymutatások kidolgozása a kiszámíthatatlan piaci körülmények hatékony kezelése, valamint a nyertes ajánlattevőt terhelő üzleti kockázatok arányosabbá tétele körében a közbeszerzési szerződések előkészítéséhez kapcsolódóan
+
+Az utóbbi években a piacot érintő rendkívüli események, így a COVID–19 világjárvány és az orosz–ukrán háború következtében az ellátási láncokban keletkezett zavarok a közbeszerzési piacon is éreztették a hatásukat. Az eredménytelen közbeszerzési eljárások aránya mind uniós, mind nemzeti eljárásrendben emelkedő tendenciát mutatott 2021-ről 2022-re, míg a szerződések teljesítésének hatékonysága terén végzett vizsgálat alapján – a közbeszerzési eljárás nem megfelelő előkészítése mellett – ezen rendkívüli körülmények elsősorban a teljesítési késedelem terén voltak tetten érhetők.
+
+A Keretrendszer eredményei közül ki kell emelni azt is, hogy az ajánlattevők több mint 60 százaléka és a független tanácsadók több mint fele szerint a közbeszerzési verseny intenzitását korlátozó gyakori tényező a szerződési feltételeknek a piaci feltételekkel össze nem egyeztethető volta, vagy hogy azok túlzó mértékű kockázatot hárítanak a nyertes gazdasági szereplőre.
+
+A Keretrendszer keretében elvégzett kérdőíves felmérés adatai arra is rámutattak, hogy a válaszadók többsége szerint a verseny mértékét korlátozó gyakori tényezőnek kell tekinteni a kiszámíthatatlan piaci körülményeket (válaszadók 53 százaléka), illetve 45 százalékuk az ajánlatkérők releváns piaci ismereteinek hiányát is ilyen tényezőként jellemezte.
+
+Figyelemmel arra, hogy a Kbt. csak meghatározott eljárásfajták esetében teszi lehetővé az ajánlatkérő és az ajánlattevők közti tárgyalások lefolytatását, a szerződéses feltételek megfelelő előkészítésének kiemelt jelentősége van mind a megfelelő ajánlattétel és a széles körű verseny, mind a szerződés szerződésszerű teljesítésének, teljesíthetőségének biztosítása szempontjából.
+
+A szerződéstervezetek megfelelő, az utóbbi évek rendkívüli eseményeit és a nyertes ajánlattevő által vállalt észszerű kockázatot figyelembe vevő előkészítése nagymértékben javítaná a potenciális ajánlattevők ajánlattételi hajlandóságát és a közbeszerzési verseny intenzitását, így a Közbeszerzési Hatóság – a területfejlesztési miniszterrel egyeztetve – szakmai iránymutatás kiadásával támogatja a jogalkalmazókat a szerződések előkészítésével összefüggésben. Az iránymutatás a kiszámíthatatlan piaci körülmények hatékony kezelése, valamint a nyertes ajánlattevőt terhelő üzleti kockázatok arányosabbá tétele érdekében a közbeszerzési szerződéses feltételek megfelelő kidolgozását támogatja, és beépítésre kerülnek a közbeszerzési eljárások ellenőrzését végző szervezetek ellenőrzési tapasztalatai is.
+
+Melléklet
+
+A közbeszerzésekben a verseny szintjének növelésére irányuló intézkedési terv
+
+|  | Intézkedés leírása | Kapcsolódó célok, indikátorok | Felelős szerv | Határidő | Teljesítés igazolása, nyomonkövetési mód |
+
+| 1. | A verseny szintjének értékelését, valamint a verseny intenzitásának növelését támogató elemzések és kutatások elvégzése (Keretrendszer továbbfejlesztése) a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) bevonásával A közbeszerzésekben fennálló versenyhelyzet felmérése, az egyajánlatos közbeszerzések okainak elemzése és további intézkedések kidolgozása érdekében a Miniszter együttműködést alakít ki az OECD-vel, amelynek alapján az OECD szakmai támogatást nyújt a Miniszter részére. Ennek keretében az OECD vállalja a Miniszterrel együttműködésben egy szektorspecifikus kutatás elkészítését, a magyarországi egyajánlatos közbeszerzések lehetséges okairól szóló jelentés összeállítását és a cselekvési terv 2024. évi felülvizsgálatának, valamint a Keretrendszer továbbfejlesztésének szakmai támogatását. | A Miniszter és az OECD rögzítik az együttműködés kereteit. Az OECD elvégez egy szektorspecifikus kutatást, és jelentést készít a magyarországi egyajánlatos közbeszerzések lehetséges okairól, valamint a közbeszerzési verseny javítására és az egyajánlatos közbeszerzések elkerülésére vonatkozó nemzetközi jó gyakorlatokról, és a határidőig javaslatokat tesz a verseny növelését segítő, jelen cselekvési tervben nem szereplő intézkedésekre. Továbbá szakmai támogatást nyújt a cselekvési terv 2024. évi felülvizsgálatához és a Keretrendszer továbbfejlesztéséhez. | TFM KFF HÁT (az OECD-vel együttműködésben) | 2023.03.31. együttműködés kialakítása | Az együttműködés formális kereteinek létrehozása az OECD-vel. OECD-jelentés elkészítése és közzététele a magyarországi egyajánlatos közbeszerzések lehetséges okairól, valamint a közbeszerzési verseny javítására és az egyajánlatos közbeszerzések elkerülésére vonatkozó nemzetközi jó gyakorlatokról. |
+
+| 2. | Kizáró okok hiánya igazolására szolgáló adatbázisok automatizált lekérdezése Az EKR-ben a Közbeszerzési Hatóság és a Gazdasági Versenyhivatal által vezetett, kizáró okok hiánya igazolására szolgáló nyilvántartások adattartalmának a közbeszerzési eljárások folyamatába épített lekérdezhetőségének biztosítása. | A kizáró okok hiánya igazolására szolgáló adatbázisok automatizált lekérdezését biztosító funkció az EKR honlapján a határidőig elérhetővé válik, és folyamatosan működőképes. | TFM KFF HÁT | 2024.06.30. | A kizáró okok hiánya igazolására szolgáló adatbázisok automatizált lekérdezését biztosító funkció az EKR honlapján elérhető. |
+
+| 3. | Automatikus értesítések beállításának lehetősége az EKR-ben Az EKR-ben a meglévő keresési funkciók mellett a felhasználók automatikus értesítéseket is kérhetnek a rendszerben megjelenő közbeszerzési eljárásokhoz és előzetes piaci konzultációkhoz kapcsolódó hirdetményekről e-mailben. A felhasználók maguk állíthatják be az EKR keresőmezői alapján, hogy mely hirdetményekről kérnek értesítést. | Automatikus értesítési funkció az EKR honlapján a határidőig elérhetővé válik. | TFM KFF HÁT | 2024.06.30. | Automatikus értesítési funkció az EKR honlapján elérhető, és folyamatosan működőképes. |
+
+| 4. | CPV kód szerinti keresési funkció további fejlesztése és bővítése az EKR-ben Az EKR jelenlegi CPV kód alapján történő keresési funkciói továbbfejlesztésre és bővítésre kerülnek, amely keretében a felhasználó CPV kód alapján hatékonyabban kereshet rá hirdetményekre az EKR-ben. | A bővített CPV kód szerinti keresési funkció az EKR honlapján a határidőig elérhetővé válik. | TFM KFF HÁT | 2024.06.30. | A bővített CPV kód szerinti keresési funkció az EKR honlapján elérhető, és folyamatosan működőképes. |
+
+| 5. | Közbeszerzési dokumentumok anonim módon történő elérhetőségének biztosítása az EKR-ben Az EKR biztosítja annak lehetőségét, hogy valamennyi regisztrált felhasználó számára bármely közbeszerzési eljárás valamennyi feltöltött dokumentuma elérhető legyen az eljárásban való részvételre történő érdeklődés jelzése nélkül. | A közbeszerzési dokumentumok anonim módon történő elérhetőségének biztosítására vonatkozóan a Miniszter a közbeszerzési dokumentumok elérhetőségét szabályozó jogszabályok módosítására tesz javaslatot. A határidőig a jogszabályok módosítása hatályba lép, és a funkció az EKR-ben élesítésre kerül. | TFM KFF HÁT | 2024.12.31. | A közbeszerzési dokumentumok elérhetőségét szabályozó jogszabályok módosítása megjelenik a Magyar Közlönyben, és hatályba lép, valamint a közbeszerzési dokumentumok anonim módon történő elérhetőségét biztosító funkció az EKR-ben elérhető, és folyamatosan működőképes. |
+
+| 6. | A jogorvoslati díjakra vonatkozó szabályozás felülvizsgálata A Közbeszerzési Döntőbizottság előtt indított jogorvoslati eljárásért fizetendő díjak esetében a Miniszter megvizsgálja, hogy az azok mértékére vonatkozó szabályozás milyen befolyással van a jogorvoslatokhoz való hozzáférésre és a gazdasági szereplők közbeszerzésekben való részvételére. A vizsgálat eredményének ismeretében a Miniszter felülvizsgálja a jogorvoslati díjakra vonatkozó szabályozást, és olyan szabályozásra tesz javaslatot, amely ösztönzi a közbeszerzési eljárásokban való szélesebb körű részvételt. | A Miniszter megvizsgálja a jogorvoslati díjakra vonatkozó szabályozás hatásait, és javaslatot tesz a jogorvoslati díjakat szabályozó jogszabályok módosítására oly módon, hogy a jogorvoslati díjakra irányadó szabályozás ösztönözze a közbeszerzési eljárásokban való szélesebb körű részvételt. A határidőig a szükséges törvénymódosításokat a Kormány benyújtja az Országgyűlés részére. | TFM KFF HÁT | 2023.11.30. | A jogorvoslati díjak újraszabályozására vonatkozóan a jogorvoslati díjakat szabályozó jogszabályok módosítása benyújtásra kerül az Országgyűlés részére, és az megjelenik az Országgyűlés honlapján. |
+
+| 7. | Az előzetes piaci konzultáció kötelező adattartalmának bővítése a tervezett alkalmassági követelményekkel és értékelési szempontokkal Az előzetes piaci konzultáció során kötelezően közzéteendő adatok és dokumentumok köre bővül az alkalmassági követelményekre és az értékelési szempontokra vonatkozó információkkal. | Az előzetes piaci konzultáció során kötelezően közzéteendő adatok és dokumentumok körének az alkalmassági követelményekkel és az értékelési szempontokkal történő kibővítése vonatkozásában a Miniszter a 63/2022. (II. 28.) Korm. rendelet módosítására tesz javaslatot. A határidőig a módosítást a Kormány elfogadja, és az kihirdetésre kerül. | TFM KFF HÁT | 2023.12.31. | A 63/2022. (II. 28.) Korm. rendelet az előzetes piaci konzultáció során kötelezően közzéteendő adatok és dokumentumok körének az alkalmassági követelményekkel és az értékelési szempontokkal történő kibővítésére vonatkozó módosítását a Kormány elfogadja, és az megjelenik a Magyar Közlönyben. |
+
+| 8. | Az egyajánlatos közbeszerzések elkerülését segítő módszerekről és gyakorlatokról szóló útmutató frissítése és kiegészítése újabb jó gyakorlatokkal Az elkészített intézkedési tervek tartalma és a nemzetközi jó gyakorlatok felmérése alapján a Miniszter frissíti az útmutatót, és kiegészíti azt az útmutatóban még nem szereplő, hazai és nemzetközi szinten alkalmazott jó gyakorlatokkal. | Az aktualizált útmutató a határidőig közzétételre kerül az EKR honlapján, és a palyazat.gov.hu oldalon elérhető. | TFM KFF HÁT | 2023.10.31. | Az útmutató aktualizált változata az EKR honlapján és a palyazat.gov.hu oldalon folyamatosan elérhető és letölthető. |
+
+| 9. | Közbeszerzési képzés KKV-k számára KKV-k számára kifejlesztése kerülnek önállóan elvégezhető, illetve online vagy személyes képzések és e-tananyagok, amelyek a legfontosabb elméleti és gyakorlati információkat tartalmazzák arról, hogyan tudnak sikeresen részt venni a közbeszerzési eljárásokban. A képzési anyagok többek között a közbeszerzési eljárások előkészítésének és ajánlattétel kérdéseit, a jogorvoslatok hatékony alkalmazását és a közbeszerzési szerződés teljesítése során felmerülő sajátosságokat fogják tartalmazni. A kifejlesztett tananyagok alapján képzések indulnak KKV-k részére. | Az első képzéseket 2023.06.30-ig meghirdetik a palyazat.gov.hu oldalon. 2024.03.31-ig legalább összesen 1000 db, 2026.06.30-ig legalább összesen 2200 db mikro-, kis- és középvállalkozás ingyenes képzésben részesül. | TFM KFF HÁT Új Világ Nonprofit Kft. | 2023.06.30. az első képzések tananyagának kidolgozására, valamint a képzések meghirdetésére | A képzések meghirdetése a palyazat.gov.hu oldalon. A képzésben részt vevők száma a képzések jelenléti dokumentációja alapján követhető nyomon. |
+
+| 10. | Támogatási program KKV-k számára A mikro-, kis- és középvállalkozásoknak (különös tekintettel a mikro- és kisvállalkozásokra) a közbeszerzési eljárásokban való részvételükkel kapcsolatos költségeikért – objektív, megkülönböztetéstől mentes és átlátható kiválasztási kritériumok alapján – közvetlenül kifizetendő átalánykompenzációt biztosító támogatási rendszer indul a közbeszerzési eljárásokban való részvételük megkönnyítése és a belépési akadályok csökkentése céljából. A támogatási rendszer keretében nyújtott pénzügyi támogatás különösen a közbeszerzési tanácsadó igénybevételének költségeit fedezi, de nem fedezi a közbeszerzési eljárásban való részvételnek az adott vállalkozás által viselt összes költségét. | A támogatási program 2023.03.31-ig elindul, és a támogatási kérelmek benyújthatóvá válnak. 2026.06.30-ig legalább 1800 db mikro-, kis- és középvállalkozás támogatásban részesül. | TFM KFF HÁT Új Világ Nonprofit Kft. | 2023.03.31. | A pályázati felhívás megjelenik a palyazat.gov.hu oldalon, és benyújthatóvá válik a pályázat. A támogatott KKV-k száma a támogatási programot kezelő hatóság hivatalos kifizetése és könyvelési nyilvántartása alapján követhető nyomon. |
+
+| 11. | Az összeférhetetlenségről szóló új útmutató kiadása A Közbeszerzési Hatóság keretében működő Tanács a Kbt. 183. § c) pontjában foglalt feladatkörében eljárva a Kbt. összeférhetetlenséggel kapcsolatos előírásai gyakorlati alkalmazásának támogatása céljából új útmutatót dolgoz ki és tesz közzé. | Az összeférhetetlenség jogintézményével kapcsolatos új útmutató a Közbeszerzési Hatóság honlapján a határidőig közzétételre kerül. | Közbeszerzési Hatóság keretében működő Tanács | 2023.12.31. | Az összeférhetetlenség jogintézményével kapcsolatos új útmutató a Közbeszerzési Hatóság honlapján közzétételre kerül, és folyamatosan elérhető. |
+
+| 12. | A közbeszerzési verseny tisztaságát érintő korrupciós kockázatokkal kapcsolatos szakmai iránymutatás kiadása A Közbeszerzési Hatóság a Gazdasági Versenyhivatallal együttműködve szakmai iránymutatást dolgoz ki és tesz közzé a korrupciós kockázatok és kartellmegállapodások felismerése és megelőzése tárgyában. | A korrupciós kockázatok és kartellmegállapodások felismerésével és megelőzésével kapcsolatos új szakmai iránymutatás a Közbeszerzési Hatóság honlapján a határidőig közzétételre kerül. | Közbeszerzési Hatóság (a Gazdasági Versenyhivatallal együttműködésben) | 2023.12.31. | A korrupciós kockázatok és kartellmegállapodások felismerésével és megelőzésével kapcsolatos új szakmai iránymutatás a Közbeszerzési Hatóság honlapján közzétételre kerül, és folyamatosan elérhető. |
+
+| 13. | A közszférában foglalkoztatottak, valamint a közbeszerzés más szereplői számára a szervezeti integritás elősegítését támogató konferenciák, tájékoztató rendezvények megszervezése A Nemzeti Közszolgálati Egyetem a belügyminiszter (Nemzeti Védelmi Szolgálat) bevonásával a szervezeti integritást elősegítő, a korrupciós kockázatokkal és az összeférhetetlenséggel kapcsolatos konferenciákat és tájékoztató rendezvényeket szervez a közszféra munkatársai, valamint a közbeszerzés más szereplői számára. A feladat végrehajtásához a Miniszter közbeszerzési szakmai kérdésekben támogatást nyújt. | A konferenciák és rendezvények programtervének, illetve szakmai programjának összeállítására 2023.12.31. napjáig sor kerül, és az az NKE honlapján elérhető. | Nemzeti Közszolgálati Egyetem (a Nemzeti Védelmi Szolgálattal együttműködésben) | 2023.12.31. konferenciák és rendezvények programtervének, illetve szakmai programjának összeállítására | A konferenciák és tájékoztató rendezvények programterve az NKE honlapján közzétételre kerül, és folyamatosan elérhető. |
+
+| 14. | Iránymutatások kidolgozása a kiszámíthatatlan piaci körülmények hatékony kezelése, valamint a nyertes ajánlattevőt terhelő üzleti kockázatok arányosabbá tétele körében a közbeszerzési szerződések előkészítéséhez kapcsolódóan A Közbeszerzési Hatóság – a területfejlesztési miniszterrel egyeztetett – szakmai iránymutatást dolgoz ki és tesz közzé a kiszámíthatatlan piaci körülmények hatékony kezelése, valamint a nyertes ajánlattevőt terhelő üzleti kockázatok arányosabbá tétele érdekében. | A kiszámíthatatlan piaci körülmények hatékony kezelése, valamint a nyertes ajánlattevőt terhelő üzleti kockázatok arányosabbá tétele érdekében a szerződések előkészítésével kapcsolatos iránymutatás a Közbeszerzési Hatóság honlapján a határidőig közzétételre kerül. | Közbeszerzési Hatóság | 2023.12.31. | A kiszámíthatatlan piaci körülmények hatékony kezelése, valamint a nyertes ajánlattevőt terhelő üzleti kockázatok arányosabbá tétele érdekében a szerződések előkészítésével kapcsolatos szakmai iránymutatás a Közbeszerzési Hatóság honlapján közzétételre kerül, és folyamatosan elérhető. |
+
+[^1]: Az EKR adatok összesítéséhez használt egyajánlatos eljárások arányának megállapítására vonatkozó módszertannal kapcsolatban az Európai Támogatásokat Auditáló Főigazgatóság (a továbbiakban: EUTAF) megállapította, hogy az alkalmazott módszertan megfelel az Egységes Piaci Eredménytábla módszertanának.
+[^2]: HET vállalás utolsóként a 2026 Q1-es adatokra terjed ki.
+[^3]: Megjegyzendő, hogy a Keretrendszer keretében végzett kérdőíves felmérés eredményei szerint a 485 válaszadó 43,3 százaléka vélte úgy, hogy a közbeszerzési verseny intenzitását korlátozza a közbeszerzési eljárások jelenleg várható időtartama.
