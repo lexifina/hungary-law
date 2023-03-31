@@ -1,5 +1,3 @@
-4. § Hatályát veszti az OTÉK
+4. §[^5]
 
-a) 1. számú melléklet 112. pontja,
-
-b) 2. számú mellékletében foglalt 2. táblázat B:12 és B:13 mezőjében az „és tanyás telek” szövegrész.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

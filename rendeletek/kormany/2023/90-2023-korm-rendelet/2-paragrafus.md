@@ -1,3 +1,3 @@
-2. § Az OTÉK 121. §-a a következő (5) bekezdéssel egészül ki:
+2. §[^3]
 
-„(5) Az (1)–(4) bekezdésben meghatározott rendelkezésektől eltérően e rendeletnek az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendeletnek a tanya beépíthetőségével összefüggő módosításáról szóló 90/2023. (III. 22.) Korm. rendelettel megállapított 29. § (10)–(14) bekezdését és 111. § (1) bekezdését – a településrendezési eszköz, településterv külön módosítása nélkül – alkalmazni kell a tanyán megvalósuló építési tevékenység engedélyezésekor, bejelentésekor, azzal, hogy a településrendezési eszköznek, településtervnek a 29. § (10)–(14) bekezdésével és a 111. § (1) bekezdésével ellentétes vagy ezzel össze nem egyeztethető előírását az engedélyezéskor, bejelentéskor nem lehet alkalmazni.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
