@@ -24,4 +24,6 @@ e) Dr. Fazekas Sándor, volt miniszter.
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
-7. Hatályát veszti a Vidékfejlesztési Kormánybizottságról szóló 1048/2021. (II. 12.) Korm. határozat.
+7.[^2]
+
+[^2]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

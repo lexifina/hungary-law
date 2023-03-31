@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1102-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-03-30 | 2023-1102-30-22.1 | 1102/2023. (III. 29.) Korm. határozat |
+| 2023-03-31 | 2023-1102-30-22.2 | 1447/2023. (X. 16.) Korm. határozat |
