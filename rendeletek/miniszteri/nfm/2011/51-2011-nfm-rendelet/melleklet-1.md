@@ -18,11 +18,11 @@ A támogatás mértéke
 
 | 5. | Algyő | Veolia Energia Magyarország Zrt. | 581 372 | 22 916 |
 
-| 6. | Almásfüzitő | ALFEN Almásfüzitői Energetikai és Szolgáltató Kft. | 21 973 926 | 25 704 |
+| 6. | Almásfüzitő | ALFEN Almásfüzitői Energetikai és Szolgáltató Kft. | 21 973 926 | 26 293 |
 
 | 7. | Baj | T-Szol Tatabányai Szolgáltató Zrt. | 1 642 483 | 21 638 |
 
-| 8. | Baja | Baja Energetika Kft. | 2 803 019 | 13 312 |
+| 8. | Baja | Baja Energetika Kft. | 2 803 019 | 14 033 |
 
 | 9. | Balatonfüred | Füredhő Távhőszolgáltatási Kft. | 6 732 074 | 19 795 |
 
@@ -48,7 +48,7 @@ A támogatás mértéke
 
 | 20. | Cserkeszőlő | Cserkeszőlő Fürdő és Gyógyászati Központ | 0 | 0 |
 
-| 21. | Csongrád | Csongrádi Közmű Szolgáltató Kft. | 2 396 717 | 2 582 |
+| 21. | Csongrád | Csongrádi Közmű Szolgáltató Kft. | 4 153 717 | 2 582 |
 
 | 22. | Csorna | Csornahő Kft. | 9 969 688 | 28 553 |
 
@@ -92,7 +92,7 @@ A támogatás mértéke
 
 | 42. | Kecskemét | Kecskeméti Termostar Hőszolgáltató Kft. | 126 097 569 | 24 423 |
 
-| 43. | Keszthely | VÜZ Nonprofit Kft. | 7 252 586 | 22 452 |
+| 43. | Keszthely | VÜZ Nonprofit Kft. | 7 252 586 | 22 707 |
 
 | 44. | Kiskunfélegyháza | Félegyházi Fejlesztési Nonprofit Kft. | 18 967 971 | 21 377 |
 
@@ -102,9 +102,9 @@ A támogatás mértéke
 
 | 47. | Komárom | Komáromi Távhő Kft. | 11 670 802 | 24 518 |
 
-| 48. | Komló | Komlói Fűtőerőmű Zrt. | 86 264 660 | 8 101 |
+| 48. | Komló | Komlói Fűtőerőmű Zrt. | 86 264 660 | 8 981 |
 
-| 49. | Körmend | RÉGIÓHŐ Kft. | 40 507 854 | 11 480 |
+| 49. | Körmend | RÉGIÓHŐ Kft. | 40 507 854 | 11 996 |
 
 | 50. | Kőszeg | EQUANS Magyarország Kft. | 5 670 062 | 23 915 |
 
@@ -112,9 +112,9 @@ A támogatás mértéke
 
 | 52. | Mátészalka | Mátészalkai Távhőszolgáltató Kft. | 16 876 642 | 20 832 |
 
-| 53. | Miskolc | MIHŐ Kft. | 340 058 793 | 14 745 |
+| 53. | Miskolc | MIHŐ Kft. | 133 930 725 | 14 767 |
 
-| 54. | Mohács | MOHÁCS-HŐ Kft. | 23 786 241 | 10 710 |
+| 54. | Mohács | MOHÁCS-HŐ Kft. | 23 786 241 | 11 281 |
 
 | 55. | Mór | MÓRHŐ Kft. | 11 787 609 | 25 079 |
 
@@ -142,15 +142,15 @@ A támogatás mértéke
 
 | 67. | Pétfürdő | “PÉTKOMM” Kft. | 9 743 860 | 22 955 |
 
-| 68. | Pornóapáti | Pornóapáti Vagyonhasznosító Kft. | 858 716 | 1 288 |
+| 68. | Pornóapáti | Pornóapáti Vagyonhasznosító Kft. | 858 716 | 2 558 |
 
 | 69. | Putnok | Putnoki Városgondnokság | 2 378 849 | 23 157 |
 
-| 70. | Püspökladány | Püspökladányi Városüzemeltető és Gyógyfürdő Kft. | 4 303 934 | 22 784 |
+| 70. | Püspökladány | Püspökladányi Városüzemeltető és Gyógyfürdő Kft. | 8 809 960 | 22 784 |
 
-| 71. | Salgótarján | Salgó Vagyon Kft. | 70 483 913 | 22 839 |
+| 71. | Salgótarján | Salgó Vagyon Kft. | 70 483 913 | 22 955 |
 
-| 72. | Sárbogárd | Engie Sárbogárdi Kft. | 5 207 870 | 24 807 |
+| 72. | Sárbogárd | EQUANS Sárbogárdi Kft. | 5 207 870 | 24 807 |
 
 | 73. | Sárospatak | Patakhő Energiaszolgáltató Nonprofit Kft. | 9 167 361 | 21 803 |
 
@@ -188,11 +188,11 @@ A támogatás mértéke
 
 | 90. | Szolnok | MVM OTSZ Zrt. | 137 019 375 | 26 723 |
 
-| 91. | Szombathely | Szombathelyi Távhőszolgáltató Kft. | 142 540 185 | 22 657 |
+| 91. | Szombathely | Szombathelyi Távhőszolgáltató Kft. | 142 540 185 | 22 750 |
 
 | 92. | Tapolca | Városgazdálkodási Kft. | 12 876 623 | 22 721 |
 
-| 93. | Tata | TATA ENERGIA Kft. | 16 539 281 | 11 139 |
+| 93. | Tata | TATA ENERGIA Kft. | 16 539 281 | 11 780 |
 
 | 94. | Tatabánya | T-Szol Tatabányai Szolgáltató Zrt. | 464 774 381 | 2 838 |
 
@@ -249,4 +249,4 @@ A támogatás mértéke
 | 15. | Szombathely | Dalkia Energia Energiaszolgáltató Zrt. | Vas Vármegyei Markusovszky Kórház Nonprofit Zrt. | 1 553 |
 
 [^25]: A 10. § az 59/2012. (X. 31.) NFM rendelet 11. §-ával megállapított szöveg.
-[^26]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a, az 54/2015. (IX. 30.) NFM rendelet 9. § (1) bekezdése, a 76/2015. (XII. 29.) NFM rendelet 7. §-a, a 40/2016. (IX. 30.) NFM rendelet 5. §-a, a 7/2017. (III. 30.) NFM rendelet 4–5. §-a, a 38/2017. (IX. 29.) NFM rendelet 5–6. §-a, az 59/2017. (XII. 29.) NFM rendelet 4. §-a, a 8/2018. (III. 28.) NFM rendelet 2. §-a, a 19/2018. (IX. 27.) ITM rendelet 3. §-a, a 37/2019. (IX. 30.) ITM rendelet 3. §-a, a 48/2019. (XII. 23.) ITM rendelet 7. §-a, a 32/2020. (IX. 30.) ITM rendelet 2. §-a, az 58/2020. (XII. 29.) ITM rendelet 2. §-a, a 14/2021. (III. 31.) ITM rendelet 5. §-a, a 48/2021. (IX. 30.) ITM rendelet 2. §-a, a 66/2021. (XII. 30.) ITM rendelet 2. §-a, a 2/2022. (XII. 27.) EM rendelet 1. §-a, a 8/2022. (XII. 28.) EM rendelet 2. §-a szerint módosított szöveg. [A 68/2016. (XII. 29.) NFM rendelet 4. §-ával elrendelt módosítás nem vezethető át.]
+[^26]: Az 1. melléklet a 83/2011. (XII. 29.) NFM rendelet 22. §-a, a 2/2012. (I. 31.) NFM rendelet 4. §-a, a 21/2012. (IV. 27.) NFM rendelet 3. §-a, az 59/2012. (X. 31.) NFM rendelet 12. § (1) bekezdése, a 78/2012. (XII. 22.) NFM rendelet 47. §-a, a 64/2013. (X. 30.) NFM rendelet 16. § (1) bekezdése, a 4/2014. (I. 31.) NFM rendelet 3. §-a, a 39/2014. (IX. 30.) NFM rendelet 9. §-a, az 54/2014. (XII. 22.) NFM rendelet 2. §-a, a 37/2015. (VI. 30.) NFM rendelet 22. §-a, az 54/2015. (IX. 30.) NFM rendelet 9. § (1) bekezdése, a 76/2015. (XII. 29.) NFM rendelet 7. §-a, a 40/2016. (IX. 30.) NFM rendelet 5. §-a, a 7/2017. (III. 30.) NFM rendelet 4–5. §-a, a 38/2017. (IX. 29.) NFM rendelet 5–6. §-a, az 59/2017. (XII. 29.) NFM rendelet 4. §-a, a 8/2018. (III. 28.) NFM rendelet 2. §-a, a 19/2018. (IX. 27.) ITM rendelet 3. §-a, a 37/2019. (IX. 30.) ITM rendelet 3. §-a, a 48/2019. (XII. 23.) ITM rendelet 7. §-a, a 32/2020. (IX. 30.) ITM rendelet 2. §-a, az 58/2020. (XII. 29.) ITM rendelet 2. §-a, a 14/2021. (III. 31.) ITM rendelet 5. §-a, a 48/2021. (IX. 30.) ITM rendelet 2. §-a, a 66/2021. (XII. 30.) ITM rendelet 2. §-a, a 2/2022. (XII. 27.) EM rendelet 1. §-a, a 8/2022. (XII. 28.) EM rendelet 2. §-a, a 3/2023. (III. 31.) EM rendelet 2. §-a szerint módosított szöveg. [A 68/2016. (XII. 29.) NFM rendelet 4. §-ával elrendelt módosítás nem vezethető át.]
