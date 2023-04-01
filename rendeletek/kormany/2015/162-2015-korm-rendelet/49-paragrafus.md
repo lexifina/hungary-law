@@ -2,6 +2,6 @@
 
 ## 256/2013. (VII. 5.) Korm. rendelet módosítása
 
-49. §[^167]
+49. §[^168]
 
-[^167]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^168]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
