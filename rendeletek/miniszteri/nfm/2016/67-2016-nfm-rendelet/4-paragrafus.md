@@ -10,6 +10,9 @@
 
 (6)[^23] A (4) bekezdés szerinti többletköltség Hivatal által elismert mértékéről, valamint a veszteség-elszámolásnak az érintett elszámolási időszakokban jelentkező számszakilag bemutatott adatairól a Hivatal tájékoztatja a termelőt és az egyetemes szolgáltatót ellátó földgázkereskedőt.
 
+(7)[^24] A termelő minden év január 31-ig megküldi a hazai termelésű földgáz tervezett mennyiségét a tárgyévre vonatkozóan negyedéves bontásban, valamint a tárgyévet követő két év tekintetében éves bontásban – egy maximálisan elérhető és egy minimálisan elérhető termelési várakozást feltételezve – a Hivatal és az egyetemes szolgáltatót ellátó földgázkereskedő részére.
+
 [^21]: A 4. § (3) bekezdése a 32/2020. (IX. 30.) ITM rendelet 3. §-val megállapított, a 10/2022. (III. 31.) ITM rendelet 2. § a) pontja szerint módosított szöveg.
 [^22]: A 4. § (5) bekezdése a 7/2017. (III. 30.) NFM rendelet 7. §-a szerint módosított szöveg.
 [^23]: A 4. § (6) bekezdése a 10/2022. (III. 31.) ITM rendelet 2. § d) pontja szerint módosított szöveg.
+[^24]: A 4. § (7) bekezdését a 3/2023. (III. 31.) EM rendelet 3. §-a iktatta be.
