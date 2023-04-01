@@ -1,4 +1,4 @@
-## 7. §[^9]
+## 7. §[^7]
 
 ## 4. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 6. § a), d) és h) pontja 2023. április 1-jén lép hatályba.
 
-[^9]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
