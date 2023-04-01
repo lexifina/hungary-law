@@ -1,0 +1,1 @@
+3. § A Budapesti Agglomerációhoz tartozó Pest megyei településeken működő köznevelési intézmények infrastrukturális fejlesztéseivel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 586/2021. (X. 14.) Korm. rendelet 4. § (2) bekezdésében a „2. melléklet” szövegrész helyébe az „1. melléklet” szöveg lép.
