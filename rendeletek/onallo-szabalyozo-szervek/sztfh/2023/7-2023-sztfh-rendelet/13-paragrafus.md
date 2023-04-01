@@ -1,3 +1,3 @@
-13. §[^14]
+13. § Az R3. 44. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^14]: A 13. § a 19. § (2) bekezdés alapján 2023. április 1-jén lép hatályba.
+„(1) Árvának minősül a játékkaszinó területén talált olyan, tétként felhasználható gazdátlan zseton, amelynek a jogszerű birtokosát a szervező nem azonosította a játéknap végéig, kivéve a fel nem használt ajándékzsetont, az ajándékticketet, a belépőzsetont és a színzsetont. Árvának kell tekinteni a készpénzt, továbbá annak a ticketnek az értékét is, amely ticket a játéknap végén az elszámoláskor fizikailag nem állt rendelkezésre, de értéke a játékkaszinó elszámolási rendszeréből egyedileg (a ticket sorszáma szerinti beazonosítását követően) kimutatásra került. Árvának minősül továbbá az elszámolási időszak végén a pénznyerő automatában maradt gazdátlan kreditérték. Nem minősül árvának az olyan összegű gazdátlan kreditérték, amellyel a játékkaszinóban értékénél fogva már nem kezdeményezhető játék.”

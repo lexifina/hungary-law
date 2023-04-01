@@ -1,3 +1,3 @@
-14. §[^15]
+14. § Az R3. 76. §-a a következő 20. ponttal egészül ki:
 
-[^15]: A 14. § a 19. § (2) bekezdés alapján 2023. április 1-jén lép hatályba.
+(E rendelet alkalmazásában)
