@@ -1,3 +1,3 @@
-28/A. §[^325]
+28/A. §[^318]
 
-[^325]: A 28/A. §-t a 318/2006. (XII. 23.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 697/2020. (XII. 29.) Korm. rendelet 28. § c) pontja.
+[^318]: A 28/A. §-t a 318/2006. (XII. 23.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 697/2020. (XII. 29.) Korm. rendelet 28. § c) pontja.

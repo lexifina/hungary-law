@@ -1,4 +1,4 @@
-48/E. §[^513] (1) Az ellátásszervező koordinátor a CKF program keretében történt járó- és fekvőbeteg-szakellátási esetekről az e rendeletben szabályozott módon, az adott ellátási formára előírt adattartalommal jelentést küld a finanszírozó számára.
+48/E. §[^506] (1) Az ellátásszervező koordinátor a CKF program keretében történt járó- és fekvőbeteg-szakellátási esetekről az e rendeletben szabályozott módon, az adott ellátási formára előírt adattartalommal jelentést küld a finanszírozó számára.
 
 (2) A CKF program részét képező ellátási lánc valamennyi elemére a 48/D. § (5) bekezdése szerinti kötegelt finanszírozási díj nyújt fedezetet.
 
@@ -26,4 +26,4 @@ g) azok a laboratóriumi szakmai besorolású szervezeti egységek által végze
 
 (7) Ha a CKF program során a 40. számú mellékletben felsoroltakon kívül egyéb egészségügyi szolgáltató bevonása szükséges az ellátásba, és az ellátás fődiagnózisa BNO J41–J44, az ellátásszervező koordinátor a jogszerűen igénybe vett és teljesített szolgáltatások díját a bevonásra került egészségügyi szolgáltató részére megfizeti.
 
-[^513]: A 48/E. §-t újonnan a 601/2021. (X. 29.) Korm. rendelet 2. §-a iktatta be.
+[^506]: A 48/E. §-t újonnan a 601/2021. (X. 29.) Korm. rendelet 2. §-a iktatta be.

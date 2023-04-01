@@ -1,8 +1,8 @@
 12. §[^127] (1)[^128] Ha a háziorvosi szolgáltató a Hr. szerint a háziorvosi szakvizsgához szükséges szakgyakorlatot letöltött szakorvos-jelöltet, illetve szakorvost alkalmaz a háziorvos felügyeletével, és erről bejelentést tesz a finanszírozónak, a finanszírozó a szerződést módosítja és az elszámolásban a degressziót – teljes munkaidőben történő foglalkoztatás (kivéve az egy hónapot meghaladó tartós távollétét) esetén – 3900 (vegyes körzet esetén 4100) ponttól alkalmazza. A szakorvos jelölt legfeljebb 4 praxisnál történő egyidejű foglalkoztatása esetén az 1500 pont megosztása a praxisok között arányosan történik.
 
-(2)[^129] Az egy pontra jutó díj a praxisfinanszírozás 5. számú melléklet szerinti, a 12/A. § (2) bekezdése alapján módosított kiadási előirányzata egy havi összegének a 4/A. §, a 8. § (4) bekezdése, a 10. § (1) bekezdése, valamint a 14. § (2)–(4a) bekezdése szerinti kiadásokkal csökkentett része és a 11. § (3) bekezdése szerint megállapított, országos szinten összesített pontszám hányadosa.
+(2)[^129] Az egy pontra jutó díj a praxisfinanszírozás 5. számú melléklet szerinti, a 12/A. § (2) bekezdése alapján módosított kiadási előirányzata egy havi összegének a 4/A. §, a 8. § (4) bekezdése, a 10. § (1) bekezdése szerinti kiadásokkal csökkentett része és a 11. § (3) bekezdése szerint megállapított, országos szinten összesített pontszám hányadosa.
 
-(3)[^130] Ha a helyettesítést a 15. § szerinti praxisközösségben a praxisközösség orvosa látja el, akkor a helyettesítést ellátó orvos szakképzettségi szorzójának a figyelembevételével történik a számítás. Az egy éven túl helyettesítéssel ellátott praxis a 14. § (2)–(4) bekezdése szerinti fix összegű díj 60 százalékára jogosult. A fixdíj folyósítása szempontjából nem tekinthető tartós helyettesítésnek, ha a praxis ellátására a szolgáltató teljes munkaidőben a Hr. szerint háziorvosi tevékenység végzésére jogosult legfeljebb két orvost foglalkoztat.
+(3)[^130]
 
 (4)[^131] A korcsoportonkénti pontszámok alapján történő díjazásra a háziorvosi szolgáltató érvényességi időhöz kötötten jogosult. Az érvényességi idő utolsó napjáig ismételt orvosi vizsgálatot kell végezni újabb törzskarton kitöltésével. Az orvosi vizsgálat során nem kell ismételten elvégezni a külön jogszabály szerint előírt vizsgálatokat. Az érvényességi idő számítása a biztosított születési napját követő hónap első napjától kezdődik, és az e bekezdésben meghatározott érvényességi ideig tart.
 
@@ -42,8 +42,8 @@ d) a házi gyermekorvosi szolgálatnál csecsemő- és gyermekgyógyász szakorv
 
 [^127]: Az 58/2009. (III. 18.) Korm. rendelet 18. § (8) bekezdése alapján a háziorvosi szolgáltató a vények és egyéb orvosi dokumentáció részét képező iratok nyomtatásához szükséges eszköz költségeinek részleges fedezetére a 2009. május havi finanszírozás során háziorvosi szolgálatonként egyszeri, 10 000 forint támogatási díjra jogosult.
 [^128]: A 12. § (1) bekezdése a 293/2002. (XII. 27.) Korm. rendelet 26. §-ának (3) bekezdése, a 10/2007. (II. 6.) Korm. rendelet 12. § (4) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 4. § (2) bekezdése, a 40/2014. (II. 24.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^129]: A 12. § (2) bekezdése a 166/2010. (V. 11.) Korm. rendelet 1. §-ával megállapított, a 40/2014. (II. 24.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
-[^130]: A 12. § (3) bekezdése a 29/2001. (III. 2.) Korm. rendelet 6. §-a, a 329/2005. (XII. 29.) Korm. rendelet 16. § (5) bekezdésének a) pontja, a 10/2007. (II. 6.) Korm. rendelet 12. § (3) bekezdése, a 192/2015. (VII. 21.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
+[^129]: A 12. § (2) bekezdése a 166/2010. (V. 11.) Korm. rendelet 1. §-ával megállapított, a 40/2014. (II. 24.) Korm. rendelet 11. § c) pontja, a 630/2022. (XII. 30.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^130]: A 12. § (3) bekezdését a 630/2022. (XII. 30.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.
 [^131]: A 12. § (4) bekezdése a 111/2000. (VI. 29.) Korm. rendelet 9. § (1) bekezdésének a) pontjával megállapított szöveg.
 [^132]: A 12. § (4) bekezdésének a) pontja a 65/2008. (III. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
 [^133]: A 12. § (4) bekezdésének b) pontja a 65/2008. (III. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
