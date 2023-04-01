@@ -1,3 +1,5 @@
 ## 1. A Magyar Energetikai és Közmű-szabályozási Hivatal miniszter részére történő hulladékgazdálkodási közszolgáltatást érintő adatszolgáltatás rendjéről szóló 16/2015. (IV. 9.) NFM rendelet módosítása
 
-1. § A Magyar Energetikai és Közmű-szabályozási Hivatal miniszter részére történő hulladékgazdálkodási közszolgáltatást érintő adatszolgáltatás rendjéről szóló 16/2015. (IV. 9.) NFM rendelet 2. § (1) bekezdésében a „hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért” szövegrész helyébe a „hulladékgazdálkodásért” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
