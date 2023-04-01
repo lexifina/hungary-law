@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-586-20-
 | 2021-10-15 | 2021-586-20-22.1 | 586/2021. (X. 14.) Korm. rendelet |
 | 2022-12-23 | 2021-586-20-22.2 | 546/2022. (XII. 22.) Korm. rendelet |
 | 2023-01-01 | 2021-586-20-22.3 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2023-04-01 | 2021-586-20-22.4 | 111/2023. (III. 31.) Korm. rendelet |
