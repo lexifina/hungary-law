@@ -1,4 +1,4 @@
-3/A. §[^5] (1) Adóköteles az átviteli rendszerirányító által beszerzett, a villamos energia belső piacáról szóló, 2019. június 5-i (EU) 2019/943 európai parlamenti és tanácsi rendelet (a továbbiakban: 2019/943/EU rendelet) 2. cikk 13. pontja szerinti kiegyenlítő szabályozási kapacitás nyújtása.
+3/A. §[^7] (1) Adóköteles az átviteli rendszerirányító által beszerzett, a villamos energia belső piacáról szóló, 2019. június 5-i (EU) 2019/943 európai parlamenti és tanácsi rendelet (a továbbiakban: 2019/943/EU rendelet) 2. cikk 13. pontja szerinti kiegyenlítő szabályozási kapacitás nyújtása.
 
 (2) Az e § szerinti különadó alanya a 2019/943/EU rendelet 2. cikk 12. pontja szerinti kiegyenlítő szabályozási szolgáltató belföldi vagy külföldi személy (ideértve a külföldi személy magyarországi fióktelepét is).
 
@@ -24,4 +24,4 @@ b) 2023-ban az adóalap 10 százaléka.
 
 (11) Az e § szerinti különadóból származó bevétel az államháztartás központi alrendszerének bevétele.
 
-[^5]: A 3/A. §-t a 459/2022. (XI. 9.) Korm. rendelet 1. §-a iktatta be.
+[^7]: A 3/A. §-t a 459/2022. (XI. 9.) Korm. rendelet 1. §-a iktatta be.

@@ -2,11 +2,11 @@
 
 (2) A különadó alapja az Oroszországi Föderációból származó kőolaj (3) bekezdés szerint meghatározott világpiaci árkülönbözetének és a tárgyhónapban beszerzett, az Oroszországi Föderációból származó nyersolaj hordóban mért mennyiségének a szorzata.
 
-(3) E § alkalmazásában a kőolaj világpiaci árkülönbözete a Platts Crude Oil Marketwire Brent (Platts Dated Brent-PCAAS0) tárgyhónapra vonatkozó napi jegyzései Mid értékeinek (amerikai dollár/hordó) számtani átlaga és az Orosz Föderációból származó nyersolaj tárgyhavi hordónkénti beszerzési árainak számtani átlaga közötti különbség, ha az pozitív, azzal, hogy a kőolajtermék-előállító az adókötelezettség megállapításakor a Magyar Nemzeti Bank hivatalos, tárgyhavi átlagos amerikai dollár árfolyamát alkalmazza.
+(3)[^4] E § alkalmazásában a kőolaj világpiaci árkülönbözete a Platts Crude Oil Marketwire Brent (Platts Dated Brent-PCAAS0) tárgyhónapra vonatkozó napi jegyzései Mid értékeinek (amerikai dollár/hordó) számtani átlaga és az Orosz Föderációból származó nyersolaj tárgyhavi hordónkénti beszerzési árainak számtani átlaga közötti különbség hordónként 7,5 amerikai dollárral csökkentett összege, ha az pozitív, azzal, hogy a kőolajtermék-előállító az adókötelezettség megállapításakor a Magyar Nemzeti Bank hivatalos, tárgyhavi átlagos amerikai dollár árfolyamát alkalmazza.
 
 (4) A beszerzési ár a számla szerinti, amerikai dollárban meghatározott beszerzési ár, amely további beszerzéshez kapcsolódó költségekkel nem csökkenthető.
 
-(5)[^4] A különadó mértéke 95 százalék.
+(5)[^5] A különadó mértéke 95 százalék.
 
 (6) A kőolajtermék-előállító az e § szerinti különadó kötelezettséget – a (8) bekezdésben foglalt kivétellel – havonta, a tárgyhónapot követő hónap 20. napjáig állapítja meg, vallja be az állami adóhatóság által rendszeresített nyomtatványon, és fizeti meg.
 
@@ -20,4 +20,5 @@
 
 (11) Az e § szerinti különadóból származó bevétel az államháztartás központi alrendszerének bevétele.
 
-[^4]: A 2. § (5) bekezdése a 496/2022. (XII. 7.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdése a 100/2023. (III. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^5]: A 2. § (5) bekezdése a 496/2022. (XII. 7.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
