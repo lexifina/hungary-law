@@ -14,10 +14,10 @@ c) az a)–b) ponttól eltérő, egyéb módon került sor, úgy a NAV által er
 
 teljesíti.
 
-(5)[^26] A kereskedő a sérült címkét köteles a székhelye vagy telephelye szerinti illetékes járási hivatal részére – legkésőbb a sérült címkéről való tudomásszerzést követő első címkeátvétellel egyidejűleg – visszaszolgáltatni.
+(5)[^26]
 
 [^22]: A 9. § (1) bekezdése az 518/2022. (XII. 13.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^23]: A 9. § (2) bekezdése az 518/2022. (XII. 13.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^24]: A 9. § (3) bekezdése az 518/2022. (XII. 13.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^25]: A 9. § (4) bekezdése az 518/2022. (XII. 13.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^26]: A 9. § (5) bekezdését a 490/2021. (VIII. 13.) Korm. rendelet 11. §-a iktatta be.
+[^26]: A 9. § (5) bekezdését a 490/2021. (VIII. 13.) Korm. rendelet 11. §-a iktatta be, az 518/2022. (XII. 13.) Korm. rendelet 13. § d) pontja hatályon kívül helyezte.
