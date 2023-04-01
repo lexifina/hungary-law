@@ -1,6 +1,6 @@
-7. §[^16] (1) A tartalékköteles hitelintézet tartalékteljesítését az MNB ellenőrzi.
+7. §[^17] (1) A tartalékköteles hitelintézet tartalékteljesítését az MNB ellenőrzi.
 
-(2)[^17] Ha az MNB megállapítja, hogy a tartalékköteles hitelintézet nem tartott a teljesítési tárgyidőszak minden egyes naptári napján legalább a 4. § (1) bekezdésének megfelelő kötelező tartalékot, úgy az MNB ezen tény megállapítását követő 30 napon belül – a tartalékköteles hitelintézet egyidejű értesítése mellett – a megállapított különbözet alapján a következő képlettel meghatározott összeggel megterhelheti a tartalékköteles hitelintézet MNB-nél vezetett forint pénzforgalmi számláját:
+(2)[^18] Ha az MNB megállapítja, hogy a tartalékköteles hitelintézet nem tartott a teljesítési tárgyidőszak minden egyes naptári napján legalább a 4. § (1) bekezdésének megfelelő kötelező tartalékot, úgy az MNB ezen tény megállapítását követő 30 napon belül – a tartalékköteles hitelintézet egyidejű értesítése mellett – a megállapított különbözet alapján a következő képlettel meghatározott összeggel megterhelheti a tartalékköteles hitelintézet MNB-nél vezetett forint pénzforgalmi számláját:
 
 ## Ahol:
 
@@ -38,5 +38,5 @@
 
 (6) E szakasz rendelkezéseit a levelezett tartalékköteles hitelintézetekre az azok pénzforgalmi számlavezetési sajátosságainak megfelelően kell alkalmazni.
 
-[^16]: A 7. § a 36/2022. (IX. 15.) MNB rendelet 2. §-ával megállapított szöveg.
-[^17]: A 7. § (2) bekezdése a 6/2023. (III. 8.) MNB rendelet 6. § e) pontja szerint módosított szöveg.
+[^17]: A 7. § a 36/2022. (IX. 15.) MNB rendelet 2. §-ával megállapított szöveg.
+[^18]: A 7. § (2) bekezdése a 6/2023. (III. 8.) MNB rendelet 6. § e) pontja szerint módosított szöveg.
