@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-10-20-8
 | 2022-08-05 | 2022-10-20-8N.1 | 10/2022. (VIII. 4.) TIM rendelet |
 | 2022-08-25 | 2022-10-20-8N.2 | 16/2022. (VIII. 25.) TIM rendelet |
 | 2022-10-29 | 2022-10-20-8N.3 | 22/2022. (X. 28.) TIM rendelet |
+| 2023-04-01 | 2022-10-20-8N.4 | 3/2023. (III. 31.) EM rendelet |

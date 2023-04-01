@@ -8,6 +8,9 @@ a) 2022. október 1-je és 2022. december 31-e között 726,42 Ft/MWh,
 
 b)[^4] 2023. január 1-je és 2023. március 31-e között 754,72 Ft/MWh.
 
+c)[^5] 2023. április 1-jétől 537,74 Ft/MWh.
+
 [^2]: A 2. § (1) bekezdése a 22/2022. (X. 28.) TIM rendelet 2. §-ával megállapított szöveg.
 [^3]: A 2. § (3) bekezdését 16/2022. (VIII. 25.) TIM rendelet 1. §-a iktatta be.
 [^4]: A 2. § (3) bekezdés b) pontja a 22/2022. (X. 28.) TIM rendelet 3. §-ával megállapított szöveg.
+[^5]: A 2. § (3) bekezdés c) pontját a 3/2023. (III. 31.) EM rendelet 8. §-a iktatta be.
