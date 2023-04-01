@@ -54,36 +54,15 @@
 
 | Határidő: | a Beruházások befejezését követően azonnal |
 
-## 2. A Térségi fejlesztési feladatokhoz szükséges kötelezettségvállalásokról szóló 1023/2022. (I. 27.) Korm. határozat [a továbbiakban: 1023/2022. (I. 27.) Korm. határozat] 1. pontja a következő 1.14. alponttal egészül ki:
+## 2.[^1]
 
-## (A Kormány, tekintettel)
+## 3.[^2]
 
-## „1.14. a Science Park Szeged Tudományos és Innovációs Park teljes közműfejlesztése és az ahhoz kapcsolódó útfejlesztés megvalósításáról szóló 1119/2023. (III. 31.) Korm. határozatra”
+## 4.[^3]
 
-## (a következőkről dönt.)
+1. melléklet az 1119/2023. (III. 31.) Korm. határozathoz[^4]
 
-## 3. Az 1023/2022. (I. 27.) Korm. határozat 4. pontja helyébe a következő rendelkezés lép:
-
-## „4. A Kormány az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az energiaügyi miniszter a 2023. évben
-
-## a) az Északkelet-Magyarországon megvalósuló nagyberuházásokhoz szükséges villamosenergia-hálózatfejlesztéshez köthető forrásbiztosításról szóló 1052/2023. (II. 23.) Korm. határozat végrehajtása érdekében legfeljebb 100 000 000 forint értékig,
-
-## b) a Science Park Szeged Tudományos és Innovációs Park teljes közműfejlesztése és az ahhoz kapcsolódó útfejlesztés megvalósításáról szóló 1119/2023. (III. 31.) Korm. határozat végrehajtása érdekében legfeljebb 6 397 154 366 forint értékig
-
-## szabad előirányzatot meghaladó mértékben kötelezettséget vállaljon a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvénynek a Magyarország 2023. évi központi költségvetésének a veszélyhelyzettel összefüggő eltérő szabályairól szóló 613/2022. (XII. 29.) Korm. rendelet 1. mellékletével eltérően megállapított XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím terhére.”
-
-## 4. Az 1023/2022. (I. 27.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
-
-1. melléklet az 1119/2023. (III. 31.) Korm. határozathoz
-
-Az 1023/2022. (I. 27.) Korm. határozat 1. mellékletében foglalt táblázat a következő 14. sorral egészül ki:
-
-|  | [A | B | C | D | E | F | G | H | I | J |
-
-| 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | 2027. évi költségvetési év (nettó forint) | 2028. évi költségvetési év (nettó forint) | Összesen (nettó forint)] |
-
-„
-
-| 14. | 1119/2023. (III. 31.) Korm. határozat | 0 | 0 | 6 397 154 366 | 3 131 697 941 | 0 | 0 | 0 | 0 | 9 528 852 307 |
-
-”
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
