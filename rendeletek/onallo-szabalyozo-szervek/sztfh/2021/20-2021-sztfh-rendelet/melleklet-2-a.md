@@ -144,7 +144,7 @@
 
 ## 2. A szervező az 1. pont szerinti hibaeseményről köteles a szerencsejáték-felügyeleti hatóságot a hibaesemény észlelését és megszüntetését követően is haladéktalanul értesíteni.
 
-2/a. melléklet a 20/2021. (X. 29.) SZTFH rendelethez[^31]
+2/a. melléklet a 20/2021. (X. 29.) SZTFH rendelethez[^34]
 
 Az EGT-állami gazdasági társaság képviselőjének nyilvántartásba vételére irányuló kérelemhez csatolandó okiratok és megadni szükséges adatok
 
@@ -178,4 +178,4 @@ Az EGT-állami gazdasági társaság képviselőjének nyilvántartásba vétel�
 
 2.2.3. székhelye.
 
-[^31]: A 2/a. mellékletet a 40/2022. (XII. 19.) SZTFH rendelet 17. § a) pontja iktatta be.
+[^34]: A 2/a. mellékletet a 40/2022. (XII. 19.) SZTFH rendelet 17. § a) pontja iktatta be.
