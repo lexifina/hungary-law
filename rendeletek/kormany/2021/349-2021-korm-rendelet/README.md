@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-349-20-
 | 2022-01-01 | 2021-349-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-01-02 | 2021-349-20-22.4 | 2010: CXXX. törvény |
 | 2023-01-01 | 2021-349-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2023-04-02 | 2021-349-20-22.10 | 108/2023. (III. 30.) Korm. rendelet |

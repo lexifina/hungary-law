@@ -1,3 +1,3 @@
-## 5. §[^1]
+6. §[^2]
 
-[^1]: Az 5. § a 19. § (3) bekezdése alapján 2024. július 3-án lép hatályba.
+[^2]: A 6. § a 19. § (3) bekezdése alapján 2024. július 3-án lép hatályba.

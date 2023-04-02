@@ -1,12 +1,10 @@
-## 25. §[^8]
-
 1. melléklet a 349/2021. (VI. 22.) Korm. rendelethez
 
-## Egyszer használatos műanyagtermékek
+Egyszer használatos műanyagtermékek
 
 1. (EU) 2019/904 európai parlamenti és tanácsi irányelv alapján fogyasztáscsökkentési intézkedéssel érintett termékek
 
-1.1. Italtartó poharak, beleértve azok tetejét és fedelét.
+1.1.[^13] Italtartó poharak, beleértve azok tetejét és fedelét, üresen vagy megtöltve.
 
 1.2. Ételtároló edények, azaz ételtartók, például dobozok tetővel vagy anélkül, amelyek olyan ételek tárolására szolgálnak, amelyek:
 
@@ -34,7 +32,7 @@ beleértve például a gyorsételekhez vagy egyéb készételekhez használt ét
 
 3.3. Dohánytermékek szűrővel, valamint azok a szűrők, amelyeket a dohánytermékekkel történő együttes használathoz hoznak forgalomba.
 
-3.4. Italtartó poharak.
+3.4.[^14] Italtartó poharak, üresen vagy megtöltve.
 
 4. Termékkövetelményekkel és elkülönített gyűjtési kötelezettséggel érintett termékek
 
@@ -60,7 +58,7 @@ beleértve például a gyorsételekhez vagy egyéb készételekhez használt ét
 
 5.3. Legfeljebb három liter űrtartalmú italtárolók, vagyis folyadék tárolására használatos tárolók, például italpalackok, beleértve a kupakjukat és a fedelüket is, valamint a kompozit italcsomagolás, beleértve a kupakokat és a fedeleket is, kivéve azokat az üveg vagy fém italtárolókat, amelyeknek a kupakja vagy a fedele műanyagból készült.
 
-5.4. Italtartó poharak, beleértve azok tetejét és a fedelét is.
+5.4.[^15] Italtartó poharak, beleértve azok tetejét és a fedelét is, üresen vagy megtöltve.
 
 5.5. Dohánytermékek szűrővel, valamint azok a szűrők, amelyeket a dohánytermékekkel történő együttes használathoz hoznak forgalomba.
 
@@ -72,4 +70,6 @@ beleértve például a gyorsételekhez vagy egyéb készételekhez használt ét
 
 5.9. Egészségügyi betétek (párnák), tamponok és tamponapplikátorok.
 
-[^8]: A 25. § a 19. § (8) bekezdése alapján 2029. december 31-én lép hatályba.
+[^13]: Az 1. melléklet 1. pont 1.1. alpontja a 108/2023. (III. 30.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^14]: Az 1. melléklet 3. pont 3.4. alpontja a 108/2023. (III. 30.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^15]: Az 1. melléklet 5. pont 5.4. alpontja a 108/2023. (III. 30.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
