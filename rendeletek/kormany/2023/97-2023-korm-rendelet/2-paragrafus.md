@@ -1,1 +1,3 @@
-2. § Az R. 12/A. § (2) bekezdésében a „havi gyakorisággal történik” szövegrész helyébe a „havi gyakorisággal történik, amely a tárgyhónapot követő második hónapban kerül utalványozásra” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
