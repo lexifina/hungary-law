@@ -1,5 +1,3 @@
-4. § Hatályát veszti
+4. §[^1]
 
-a) a kötelező jegybanki tartalék kiszámításáról, illetve képzésének és elhelyezésének módjáról szóló 10/2005. (VI. 11.) MNB rendelet 6. § (1) bekezdése,
-
-b) a kötelező jegybanki tartalék után fizetendő kamat mértékéről szóló 1/2012. (I. 3.) MNB rendelet.
+[^1]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
