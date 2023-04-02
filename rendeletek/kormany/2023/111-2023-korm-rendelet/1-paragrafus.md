@@ -1,1 +1,3 @@
-1. § A filmalkotások közvetett támogatásának céljából fenntartott letéti számlán gyűjthető összeg mértékéről szóló 439/2016. (XII. 16.) Korm. rendelet 1. §-ában a „2022.” szövegrész helyébe a „2023.” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
