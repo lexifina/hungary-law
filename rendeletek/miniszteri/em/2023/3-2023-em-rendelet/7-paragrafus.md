@@ -1,1 +1,3 @@
-7. § Az R1. 3. § (3) bekezdésében az „ellentételezés összegének” szövegrész helyébe az „ellentételezés, valamint különbözeti összeg” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

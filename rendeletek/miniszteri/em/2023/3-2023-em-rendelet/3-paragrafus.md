@@ -1,7 +1,5 @@
-## lép.
-
 ## 3. Az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 67/2016. (XII. 29.) NFM rendelet módosítása
 
-3. § Az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 67/2016. (XII. 29.) NFM rendelet (a továbbiakban: R1.) 4. §-a a következő (7) bekezdéssel egészül ki:
+3. §[^4]
 
-„(7) A termelő minden év január 31-ig megküldi a hazai termelésű földgáz tervezett mennyiségét a tárgyévre vonatkozóan negyedéves bontásban, valamint a tárgyévet követő két év tekintetében éves bontásban – egy maximálisan elérhető és egy minimálisan elérhető termelési várakozást feltételezve – a Hivatal és az egyetemes szolgáltatót ellátó földgázkereskedő részére.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

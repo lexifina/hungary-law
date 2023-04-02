@@ -1,3 +1,3 @@
-5. § Az R1. a következő 13. §-sal egészül ki:
+5. §[^6]
 
-„13. § A termelő e rendeletnek az egyes energetikai tárgyú miniszteri rendeletek módosításáról szóló 3/2023. (III. 31.) EM rendelet 3. §-ával megállapított 4. § (7) bekezdése szerinti kötelezettségét az egyetemes szolgáltatót ellátó földgázkereskedő részére első alkalommal 2023. április 15-ig teljesíti.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-4. § Az R1. 12. §-a a következő (3) bekezdéssel egészül ki:
+4. §[^5]
 
-„(3) Az egyetemes szolgáltatót ellátó földgázkereskedő köteles a 2023. március hónap 3. melléklet szerinti QTöbblet-1 földgázmennyisége mértékéig az adott hónapot követő hónapban tömegáru fedezeti ügyletet kötni a 2023. évi betárolási időszakra vonatkozóan TTF FMI termékre abban az esetben, ha a megkötött fedezeti ügyletek mennyiséggel súlyozott átlagárának 3. melléklet szerinti sp értékkel növelt értéke legfeljebb a QTöbblet-1 földgázmennyiség kitárolásának hónapjára (2023. március) vonatkozó, 3. melléklet szerinti fgL és spL összegével azonos. A fedezeti ügyletet az egyetemes szolgáltatót ellátó földgázkereskedő legfeljebb a korábban megkötött fedezeti ügylettel csökkentett fedezetlen tárolói mennyiség mértékéig köteles megkötni. A fedezett mennyiség a 3. melléklet szerinti fedezett mennyiségnek minősül.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
