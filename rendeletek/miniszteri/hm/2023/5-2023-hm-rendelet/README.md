@@ -1,0 +1,9 @@
+# 5/2023. (IV. 3.) HM rendelet
+
+a honvédelmi ágazatban használt azonosító okmányok és igazolások kiadására és kezelésére vonatkozó eljárási szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-5-20-15
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-04-04 | 2023-5-20-15.1 | 5/2023. (IV. 3.) HM rendelet |

@@ -1,0 +1,1 @@
+4. § A 3. § (1) bekezdés a) és b) pontja szerinti igazolvány első alkalommal az állományba vétel napját követően, a 3. § (1) bekezdés c) pontja szerinti okmány a nyugdíjas igazolványra való jogosultság elérését követően, a 3. § (2) bekezdése szerinti igazolvány első alkalommal a 3. § (2) bekezdésében meghatározott beosztásba helyezés napját követően kerül kiadásra.
