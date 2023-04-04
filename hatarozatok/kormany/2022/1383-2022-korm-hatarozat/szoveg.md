@@ -6,7 +6,7 @@
 
 a) elnökének Schmidt Ádámot, a 2023-ban Budapesten megrendezendő atlétikai világbajnokság megrendezésével kapcsolatos összkormányzati feladatok koordinációjának ellátásáért felelős kormánybiztost,
 
-b) társelnökének Fürjes Balázst, a Miniszterelnökség miniszterhelyettesét,
+b)[^1] társelnökének Fürjes Balázst, a Nemzetközi Olimpiai Bizottság Brisbane 2032 olimpiai előkészítő bizottság tagját,
 
 c) társelnökének Gyulai Miklóst, a Magyar Atlétikai Szövetség elnökét,
 
@@ -41,3 +41,5 @@ vagy az általuk delegált személyt nevezi ki, illetve kéri fel.
 7. A Testület működésével összefüggő szakmai előkészítő és adminisztratív feladatok ellátásáról a Kormánybiztos gondoskodik.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 3. pont b) pontja az 1120/2023. (IV. 3.) Korm. határozat 1. pontja szerint módosított szöveg.
