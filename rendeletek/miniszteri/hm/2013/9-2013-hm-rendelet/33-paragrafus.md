@@ -1,29 +1,43 @@
 ## 11. Tájékoztatási kötelezettség
 
-33. § (1) A szolgálati viszony létesítésére vonatkozó munkáltató jogkört gyakorló által kijelölt személy írásban, legkésőbb a szolgálatteljesítés első napján tájékoztatja az állomány tagját
+33. §[^148] (1) A szolgálati viszony létesítésére vonatkozó munkáltatói jogkört gyakorló által kijelölt személy írásban, legkésőbb a szolgálatteljesítés első napján tájékoztatja az állomány tagját
 
-a) a szolgálati rendről,
+a) a munkáltatói jogkör gyakorlásának rendjéről,
 
-b) az illetmény megállapításának és folyósításának szabályairól,
+b) a szolgálati viszony kezdetéről és jellegéről,
 
-c) a szabadság mértékéről és kiadásának rendjéről,
+c) az állomány tagja szolgálati helyéről,
 
-d) a felmentési idő megállapításának szabályairól,
+d) a szolgálati beosztáshoz tartozó feladatokról,
 
-e) a lemondás és az egyoldalú szerződésbontás szabályairól és korlátozásáról,
+e) próbaidő kikötése esetén annak időtartamáról és feltételeiről,
 
-f) az adható egyéb juttatásokról,
+f) a szolgálati rendről, a napi szolgálatteljesítési idő tartamáról, a hét azon napjairól, amelyekre szolgálatteljesítési idő osztható be, a beosztás szerinti napi szolgálatteljesítési idő lehetséges kezdő és befejező időpontjáról, a túlszolgálat lehetséges éves időtartamáról, elrendelésének és díjazásának szabályairól,
 
-g)[^146] a honvéd jogállásával összefüggő jogainak érvényesítése és kötelezettségeinek teljesítése céljából a honvédelmi adatkezelésekről szóló törvény (a továbbiakban: Haktv.) szerinti kötelező adatkezelésről, a nyilvántartandó adatok köréről, és az adatok nyilvántartásának időtartamáról, és
+g) az illetmény elemeiről, az illetménnyel való elszámolás módjáról, az illetményfizetés gyakoriságáról, a kifizetés napjáról,
 
-h) a Hjt. 38. § (4) bekezdése esetén próbaidős rendfokozat elvesztéséről.
+h) az adható egyéb juttatásokról,
 
-(1a)[^147] A Hjt. 35. § (2) bekezdése szerinti állomány esetében az (1) bekezdés szerinti tájékoztatást az (1) bekezdés d), e), g) és h) pontja szerinti tartalomra nézve kell megadni. A tájékoztatást az (1) bekezdés b), c), illetve f) pontja szerinti tartalomra nézve is meg kell adni, ha a szabadság megállapítására és kiadására a Honvédségnél irányadó szabályokat kell a vezényelt esetében alkalmazni, illetve az (1) bekezdés c) és f) pontja szerinti járandóságok költsége a Honvédséget terheli.
+i) a szabadság mértékéről, számítási módjáról és kiadásának rendjéről,
 
-(2) Az (1) bekezdés a)–c), és f) pontja szerinti tájékoztatás megadható az érintett adatokra irányadó jogszabály, közjogi szervezetszabályozó eszköz vagy belső rendelkezés rendelkezésére történő hivatkozással.
+j) a szolgálati viszony megszüntetésével összefüggő szabályokról, különösen a felmentési idő megállapításának szabályairól, valamint a lemondás és az egyoldalú szerződésbontás szabályairól és korlátozásáról,
 
-(3)[^148] Az (1) bekezdés g) pontja szerinti tájékoztatásra a Haktv. rendelkezéseire történő hivatkozással kerül sor.
+k) a munkáltató képzési politikájáról, az állomány tagja által igénybe vehető, az előmenetelhez szükséges képzésekről és a képzésre fordítható idő tartamáról,
 
-[^146]: A 33. § (1) bekezdés g) pontja a 19/2022. (XII. 28.) HM rendelet 5. § d) pontja szerint módosított szöveg.
-[^147]: A 33. § (1a) bekezdését a 10/2017. (VIII. 31.) HM rendelet 8. §-a iktatta be, szövege a 13/2020. (X. 14.) HM rendelet 31. § d) pontja szerint módosított szöveg.
-[^148]: A 33. § (3) bekezdése a 19/2022. (XII. 28.) HM rendelet 5. § e) pontja szerint módosított szöveg.
+l) a honvéd jogállásával összefüggő jogainak érvényesítése és kötelezettségeinek teljesítése során jelentkező személyes adatok kezelésével kapcsolatban a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény (a továbbiakban: Haktv.) szerinti kötelező adatkezelésről, a nyilvántartandó adatok köréről és az adatok nyilvántartásának időtartamáról,
+
+m) a Hjt. 38. § (4) bekezdése esetén próbaidős rendfokozat elvesztéséről és
+
+n) a hatóság megnevezéséről, amely részére a munkáltató a szolgálati viszonnyal kapcsolatos közterhet megfizeti.
+
+(2) Az állomány Hjt. 35. § (2) bekezdése szerinti tagja esetében az (1) bekezdés szerinti tájékoztatást az (1) bekezdés j), l) és m) pontja szerinti tartalomra nézve kell megadni. A tájékoztatást az (1) bekezdés g), h) és i) pontja szerinti tartalomra nézve is meg kell adni, ha a szabadság megállapítására és kiadására a Honvédségnél irányadó szabályokat kell a vezényelt esetében alkalmazni, illetve az (1) bekezdés h) és i) pontja szerinti járandóságok költsége a Honvédséget terheli.
+
+(3) Az (1) bekezdés a) és f)–i) pontja szerinti tájékoztatás megadható az érintett adatokra irányadó jogszabály, közjogi szervezetszabályozó eszköz vagy belső rendelkezés rendelkezésére történő hivatkozással.
+
+(4) Az (1) bekezdés l) pontja szerinti tájékoztatásra a Haktv. vonatkozó rendelkezéseit tartalmazó adatkezelési tájékoztató átadásával kerül sor.
+
+(5) Az (1) bekezdés b) és c) pontja szerinti tájékoztatást az állományba vételi okmányban vagy a szerződésben kell megadni, az (1) bekezdés d) pontja szerinti tájékoztatás a munkaköri leírás átadásával valósul meg.
+
+(6) Az (1) bekezdésben meghatározottak változásáról az állomány tagját legkésőbb a változás hatálybalépésének időpontjában írásban tájékoztatni kell. A változásról szóló írásos tájékoztatási kötelezettség akkor mellőzhető, ha a tájékoztatás a (3) és (4) bekezdés szerint történt.
+
+[^148]: A 33. § a 6/2023. (IV. 3.) HM rendelet 3. §-ával megállapított szöveg.

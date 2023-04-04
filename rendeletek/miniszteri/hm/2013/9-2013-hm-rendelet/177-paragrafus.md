@@ -8,6 +8,6 @@
 
 (3) A 145. § (2) és (3) bekezdése azzal az eltéréssel alkalmazható, hogy a személyes meghallgatást a fegyelmi jogkört gyakorló által kijelölt személy is kitűzheti és megtarthatja.
 
-(4)[^402] Az MH PK és a KNBSZ főigazgatója az általa hozott döntés ellen benyújtott fellebbezést a miniszterhez terjeszti fel.
+(4)[^406] Az MH PK és a KNBSZ főigazgatója az általa hozott döntés ellen benyújtott fellebbezést a miniszterhez terjeszti fel.
 
-[^402]: A 177. § (4) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 8. pontja szerint módosított szöveg.
+[^406]: A 177. § (4) bekezdése a 20/2018. (XII. 28.) HM rendelet 71. § 8. pontja szerint módosított szöveg.

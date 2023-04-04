@@ -1,6 +1,6 @@
 ## 57/C. § Az állomány tagja a Hjt. 58/E. § (1) bekezdése szerinti szervezetek között vagy a Hjt. 58/E. § (1) bekezdése szerinti szervezeten belül az áthelyezésre, a kinevezésre, a megbízásra és a vezénylésre vonatkozó általános szabályok szerint helyezhető át, nevezhető ki, bízható meg, illetve vezényelhető.
 
-## 19/B. [^184] A szolgálati beosztáshoz tartozó napi szolgálatteljesítési hely megváltoztatása
+## 19/B. [^185] A szolgálati beosztáshoz tartozó napi szolgálatteljesítési hely megváltoztatása
 
 57/D. § (1) Az állományilletékes parancsnok szolgálati érdekből a honvédelmi szervezet székhelye és telephelye, illetve telephelyei között a szolgálati beosztáshoz tartozó napi szolgálatteljesítési helyet a Hjt. 2. § 29. pontja szerinti munkáltatói döntésben megváltoztathatja.
 
@@ -14,4 +14,4 @@
 
 (6) Az (1) bekezdés szerinti munkáltatói döntéssel érintett állományt megilletik mindazon juttatások, amelyeket jogszabály vagy közjogi szervezetszabályozó eszköz a szolgálati érdekből történő áthelyezés, továbbá – amennyiben helyőrségváltás is történik – helyőrségváltással járó áthelyezés esetén biztosít.
 
-[^184]: A 19/B. alcímet (57/D. §) a 13/2021. (VII. 15.) HM rendelet 4. §-a iktatta be.
+[^185]: A 19/B. alcímet (57/D. §) a 13/2021. (VII. 15.) HM rendelet 4. §-a iktatta be.

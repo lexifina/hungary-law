@@ -1,4 +1,4 @@
-69/B. §[^219] (1) Az állomány tagja a HM-ben rendszeresített szolgálati beosztásban, de a honvédelmi igazgatási feladatok végrehajtásának előmozdítása érdekében más minisztériumok védelmi igazgatással foglalkozó szervezeti elemeinél is teljesíthet szolgálatot.
+69/B. §[^220] (1) Az állomány tagja a HM-ben rendszeresített szolgálati beosztásban, de a honvédelmi igazgatási feladatok végrehajtásának előmozdítása érdekében más minisztériumok védelmi igazgatással foglalkozó szervezeti elemeinél is teljesíthet szolgálatot.
 
 (2) A szolgálatteljesítés részletes feltételeit – így különösen az állomány tagjának tevékenységére, munkarendjére, teljesítményértékelésére, minősítésére, illetményére, illetmény jellegű juttatásaira, költségtérítésére, szociális ellátására, pihenőidejére, egészségügyi szabadságának engedélyezésére, szabadságának megállapítására és kiadására, fegyelmi és egyéb felelősségére, továbbá a kártérítésre, a személyiségi jogi jogsértés jogkövetkezményeire irányadó szabályokat – a minisztériumok közötti megállapodás szabályozza.
 
@@ -6,4 +6,4 @@
 
 (4) A (2)–(3) bekezdés szerinti megállapodást – megkötése előtt – véleményezésre meg kell küldeni a központi személyügyi szervnek.
 
-[^219]: A 69/B. §-t a 20/2018. (XII. 28.) HM rendelet 24. §-a iktatta be.
+[^220]: A 69/B. §-t a 20/2018. (XII. 28.) HM rendelet 24. §-a iktatta be.

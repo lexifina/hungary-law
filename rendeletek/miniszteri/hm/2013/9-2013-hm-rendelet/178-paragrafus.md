@@ -1,5 +1,5 @@
-## 50.[^403]
+## 50.[^407]
 
 178. §
 
-[^403]: Az 50. alcímet (178–180. §) a 24/2013. (XII. 20.) HM rendelet 18. § c) pontja hatályon kívül helyezte.
+[^407]: Az 50. alcímet (178–180. §) a 24/2013. (XII. 20.) HM rendelet 18. § c) pontja hatályon kívül helyezte.

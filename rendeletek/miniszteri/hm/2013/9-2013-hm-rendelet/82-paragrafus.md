@@ -1,3 +1,3 @@
-82. §[^229]
+82. §[^230]
 
-[^229]: A 82. §-t a 4/2015. (VI. 22.) HM rendelet 29. § f) pontja hatályon kívül helyezte.
+[^230]: A 82. §-t a 4/2015. (VI. 22.) HM rendelet 29. § f) pontja hatályon kívül helyezte.
