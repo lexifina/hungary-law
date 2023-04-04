@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-4-00-00
 | --- | --- | --- |
 | 2023-03-29 | 2023. évi IV. törvény | 2023-4-00-00.0 (közlönyállapot) |
 | 2023-03-29 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-4-00-00.1 |
+| 2023-04-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-4-00-00.2 |
