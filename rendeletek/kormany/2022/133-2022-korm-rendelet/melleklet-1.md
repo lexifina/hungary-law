@@ -26,10 +26,12 @@ c) a meglévő hálózatra kifejtett lehetséges hatások (például autópálya
 
 d) úthasználók, ideértve a védtelen úthasználókat is;
 
-e) forgalom (például forgalom nagysága, forgalmi kategóriák szerinti besorolás);
+e)[^9] forgalom (például forgalom nagysága, a forgalmi kategóriák szerinti besorolás), ideértve a szomszédos földhasználat jellemzői alapján meghatározott, becsült gyalogos- és kerékpárforgalmat;
 
 f) évszakoktól függő és éghajlati feltételek (például hóeltakarítás, csapadékvíz-elvezetés);
 
 g) elegendő számú és a közlekedés szempontjából biztonságos parkolóhelyek megléte és
 
 h) szeizmikus tevékenységek.
+
+[^9]: Az 1. melléklet 2. pont e) alpontja a 109/2023. (III. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.

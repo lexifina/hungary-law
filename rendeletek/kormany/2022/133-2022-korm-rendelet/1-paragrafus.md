@@ -8,9 +8,11 @@ a) az autópályákra és autóutakra,
 
 b) olyan főutakra, melyeknek van 2 × 2 sávos, osztott pályás, lakott területen kívüli szakasza,
 
-c) egyéb főutakra, valamint
+c)[^1] egyéb főutakra,
 
-d) a helyi közutak közül Budapest tekintetében a Fővárosi Önkormányzat kezelésében lévő főútvonalak, közutak és közterületek kijelöléséről szóló 432/2012. (XII. 29.) Korm. rendeletben meghatározott sugár- és gyűrűirányú közutakra.
+d)[^2] a helyi közutak közül Budapest tekintetében a Fővárosi Önkormányzat kezelésében lévő főútvonalak, közutak és közterületek kijelöléséről szóló 432/2012. (XII. 29.) Korm. rendeletben meghatározott sugár- és gyűrűirányú közutakra, valamint
+
+e)[^3] a baleseti adatok kezelésének vonatkozásában a teljes közúthálózatra.
 
 (3) A közlekedésért felelős miniszter mentesítheti e rendelet hatálya alól az alacsony biztonsági kockázatot jelentő, autópályának és autóútnak nem minősülő közutakat, ha a forgalmi és a baleseti statisztikák alapján azok érvényesítése nem indokolt. Az Európai Bizottságnak meg kell küldeni az e bekezdés alapján e rendelet hatálya alól mentesített, illetve annak hatálya alá vont közutak jegyzékét és – a közutak besorolásának módosulása esetén – a módosított jegyzéket.
 
@@ -19,3 +21,7 @@ d) a helyi közutak közül Budapest tekintetében a Fővárosi Önkormányzat k
 (5) A közlekedésért felelős miniszter 2025. október 31-ig jelentést nyújt be az Európai Bizottságnak az 5. § szerint értékelt úthálózat közlekedésbiztonsági minősítéséről. A jelentés kiterjed a nemzeti szinten naprakésszé tett iránymutatások rendelkezéseinek jegyzékére is, ideértve különösen a technológiai fejlemények és a védtelen úthasználók védelme tekintetében elért eredményeket. 2025. október 31-től e jelentéseket ötévente kell benyújtani.
 
 (6) A közút kezelője biztosítja, hogy az e rendeletben meghatározott eljárások során érvényesüljenek a védtelen úthasználók igényei.
+
+[^1]: Az 1. § (2) bekezdés c) pontja a 109/2023. (III. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdés d) pontja a 109/2023. (III. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés e) pontját a 109/2023. (III. 30.) Korm. rendelet 2. §-a iktatta be.

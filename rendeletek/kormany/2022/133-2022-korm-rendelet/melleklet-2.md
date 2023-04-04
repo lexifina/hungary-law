@@ -46,7 +46,13 @@ f) veszélyes akadályok az út mentén;
 
 g) biztonságos pihenőhelyek kialakítása;
 
-h) védtelen úthasználók közlekedési lehetőségei és
+h)[^10] védtelen úthasználók közlekedési lehetőségei:
+
+ha) a gyalogosok közlekedési lehetőségei,
+
+hb) a kerékpárosok közlekedési lehetőségei,
+
+hc) a motorkerékpártól eltérő, gépi meghajtású, kétkerekű járművek használóinak közlekedési lehetőségei;
 
 i) a közúti visszatartó rendszerek felhasználóbarát átalakítása (biztonsági korlát, középső fizikai elválasztás, ütközéscsillapító energiaelnyelő elemek stb.) a védtelen úthasználók veszélyeztetésének megelőzésére.
 
@@ -63,3 +69,5 @@ c) az útburkolatok állapota.
 5. Az auditok bármely szakaszban eredményezhetik az előző auditszakaszból származó kritériumok újragondolásának szükségességét.
 
 6. Minden szinten közös felelősségként kell kezelni annak biztosítását, hogy a közúti balesetek ne vezessenek súlyos vagy halálos sérülésekhez. Különösen a jól tervezett, megfelelően karbantartott, egyértelmű burkolati jelekkel és jelzőtáblákkal ellátott utaknak csökkenteniük kell a közúti balesetek valószínűségét, míg a megbocsátó utaknak csökkenteniük kell a balesetek súlyosságát.
+
+[^10]: A 2. melléklet 2. pont h) alpontja a 109/2023. (III. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.

@@ -8,7 +8,11 @@ a) a MABISZ az anyagi kárral járó közúti közlekedési balesetek e-kárbeje
 
 b) az MK NZrt. és a BK Zrt. a személysérüléses közúti közlekedési balesetek adatait térítésmentesen átadja a MABISZ részére.
 
-(3) Az MK NZrt. a fővárosi személysérüléses baleseti adatokat elektronikus úton átadja a BK Zrt.-nek az (1) bekezdésben meghatározott átvételt követő 3 munkanapon belül.
+(3)[^6] Együttműködési megállapodás alapján
+
+a) az MK NZrt. a fővárosi személysérüléses baleseti adatokat elektronikus úton átadja a BK Zrt.-nek az (1) bekezdésben meghatározott átvételt követő 3 munkanapon belül,
+
+b) az MK NZrt. elektronikus úton átadja a koncessziós társaságoknak a kezelésükben levő közutak személysérüléses baleseti adatait az (1) bekezdésben meghatározott átvételt követő 3 munkanapon belül.
 
 (4) A közúti közlekedési balesetek adatai közül a helyszín azonosítására vonatkozó földrajzi adatokat a BK Zrt. a fővárosi közutak vonatkozásában havonta ellenőrzi és az MK NZrt. részére továbbítja, aki biztosítja, hogy az adatok – az országos közutak és a fővárosi közutak tekintetében egyaránt – az érintett közútkezelők, a Magyar Mérnöki Kamara névjegyzékében szereplő közúti biztonsági auditorok és a Magyar Mérnöki Kamara Közlekedési Szakmai Tagozatának tagjaiként tervezői jogosultsággal rendelkező mérnökök részére hozzáférhetők legyenek.
 
@@ -19,3 +23,5 @@ b) az MK NZrt. és a BK Zrt. a személysérüléses közúti közlekedési bales
 (7) A MABISZ e-kárbejelentő részére az országos közutak vonatkozásában az MK NZrt., a fővárosi közutak vonatkozásában a BK Zrt. térítésmentesen hozzáférést biztosít a baleseti helyszínre vonatkozó, rendelkezésre álló helyszínrajzok és adatok vonatkozásában, együttműködési megállapodás alapján.
 
 (8) A közlekedésért felelős miniszter legalább ötévenként gondoskodik a személyi sérüléssel, valamint anyagi kárral járó közúti közlekedési balesetek okozta – forintban kifejezett – nemzetgazdasági veszteség becsült értékének megállapításáról, és ezen adatokat a honlapján közzéteszi.
+
+[^6]: A 9. § (3) bekezdése a 109/2023. (III. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
