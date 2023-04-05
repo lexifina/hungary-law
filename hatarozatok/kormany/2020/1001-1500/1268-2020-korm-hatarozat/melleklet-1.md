@@ -1,4 +1,4 @@
-## 1. támogatja, hogy a Nemzeti Sportügynökség Nonprofit Korlátolt Felelősségű Társaság a Magyar Karate Szakszövetség közreműködésével megrendezze a 2022. évi Felnőtt Karate Világbajnokságot Magyarországon;
+## 1.[^1] támogatja, hogy a Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság a Magyar Karate Szakszövetség közreműködésével megrendezze a 2022. évi Felnőtt Karate Világbajnokságot Magyarországon;
 
 ## 2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva az 1. pont szerinti cél érdekében a 2020. évben 25 000 000 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint.
 
@@ -7,6 +7,8 @@
 ## Határidő: azonnal
 
 1. melléklet az 1268/2020. (VI. 2.) Korm. határozathoz
+
+0X03256_0
 
 | XVIII. Innovációs és Technológiai Minisztérium |
 
@@ -77,3 +79,5 @@
 | Magyar Államkincstár | 1 példány |  |  | egyéb: | azonnal |  |  | 25 000 000 |  |  | 25 000 000 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
+
+[^1]: Az 1. pont az 1130/2023. (IV. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
