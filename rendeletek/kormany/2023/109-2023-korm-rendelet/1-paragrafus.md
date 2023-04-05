@@ -1,3 +1,3 @@
-1. § A közúti infrastruktúra közlekedésbiztonsági kezeléséről szóló 133/2022. (IV. 7.) Korm. rendelet (a továbbiakban: R.) 1. § (2) bekezdés c) és d) pontja helyébe a következő rendelkezések lépnek:
+1. §[^2]
 
-(E rendelet hatálya kiterjed)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## Az R. 1. melléklet 2. pont e) alpontja helyébe a következő rendelkezés lép:
+2. melléklet a 109/2023. (III. 30.) Korm. rendelethez[^9]
 
-## (Figyelembe veendő elemek:)
-
-## „e) forgalom (például forgalom nagysága, a forgalmi kategóriák szerinti besorolás), ideértve a szomszédos földhasználat jellemzői alapján meghatározott, becsült gyalogos- és kerékpárforgalmat;”
-
-2. melléklet a 109/2023. (III. 30.) Korm. rendelethez
+[^9]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
