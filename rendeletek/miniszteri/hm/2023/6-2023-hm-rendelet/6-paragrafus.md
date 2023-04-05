@@ -1,3 +1,3 @@
-6. § A Hjt.vhr. a következő 174/B. §-sal egészül ki:
+6. §[^6]
 
-„174/B. § A KNBSZ állománya tagjának a 108. § (2) bekezdés a) pontja szerinti képzésen történő részvételét a KNBSZ saját költségvetése terhére, tanulmányi szerződés megkötésével is támogathatja.”
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

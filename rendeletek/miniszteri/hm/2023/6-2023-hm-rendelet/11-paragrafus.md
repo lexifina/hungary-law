@@ -1,20 +1,22 @@
 11. § A Hjt.vhr.
 
-a) 26/A. §-ában az „Az állomány tagja” szövegrész helyébe az „A tiszti állomány tagja” szöveg,
+a)[^11]
 
-b) 117/A. § (6) bekezdés g) pontjában a „felkészítése.” szövegrész helyébe a „felkészítése és” szöveg,
+b)[^12]
 
-c)[^3]
+c)[^13]
 
-d)[^4]
+d)[^14]
 
-e)[^5]
+e)[^15]
 
-f)[^6]
+f)[^16]
 
 lép.
 
-[^3]: A 11. § c) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^4]: A 11. § d) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^5]: A 11. § e) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^6]: A 11. § f) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^11]: A 11. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 11. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 11. § c) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^14]: A 11. § d) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^15]: A 11. § e) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^16]: A 11. § f) pontja a 13. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.

@@ -1,5 +1,3 @@
-8. § A Hjt.vhr. a következő 286/J. §-sal egészül ki:
+8. §[^8]
 
-„286/J. § (1) Az állomány azon tagja, aki a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet módosításáról szóló 6/2023. (IV. 3.) HM rendelet (a továbbiakban: Módr3.) hatálybalépését megelőző napon olyan általános előmeneteli rendű zászlós rendfokozattal rendszeresített beosztást tölt be, amely a Módr3. hatálybalépése alapján az 5. mellékletben kettős rendfokozattal rendszeresített beosztásra változik, e beosztásban személyügyi eljárás lefolytatása nélkül is tovább foglalkoztatható.
-
-(2) Az állománytáblákban szereplő azon beosztások, amelyek a Módr3. hatálybalépését megelőző napon általános előmeneteli rendű zászlós rendfokozattal rendszeresített beosztásként kerültek rendszeresítésre, és a Módr3.-mal megállapított 5. melléklet alapján kettős rendfokozatúvá változnak, külön állománytábla-módosítás nélkül is kettős rendfokozattal rendszeresített beosztásnak minősülnek.”
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

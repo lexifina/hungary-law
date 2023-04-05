@@ -1,3 +1,3 @@
-4. § A Hjt.vhr. 117. § (1) bekezdése helyébe a következő rendelkezés lép:
+4. §[^4]
 
-„(1) A fizetési könnyítés engedélyezését tartalmazó megállapodásban a megfizetésre kötelezett kötelezettséget vállal arra, hogy a fennálló tartozását a fizetési könnyítés feltételei szerint megfizeti. A megállapodást közjegyzői okiratba kell foglalni. A közjegyzői okirat elkészítésével, módosításával kapcsolatos költségek az állomány megtérítésre kötelezett tagját terhelik.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

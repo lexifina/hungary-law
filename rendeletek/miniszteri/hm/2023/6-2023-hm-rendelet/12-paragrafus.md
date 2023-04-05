@@ -1,1 +1,3 @@
-12. § Hatályát veszti a Hjt.vhr. 43. §-a.
+12. §[^17]
+
+[^17]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
