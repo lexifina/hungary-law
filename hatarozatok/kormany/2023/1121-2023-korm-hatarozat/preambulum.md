@@ -1,0 +1,1 @@
+A Kormány a Magyarország 2023. évi központi költségvetésének a veszélyhelyzettel összefüggő eltérő szabályairól szóló 613/2022. (XII. 29.) Korm. rendelet [a továbbiakban: 613/2022. (XII. 29.) Korm. rendelet]
