@@ -1,0 +1,11 @@
+3. § (1) A 2. § (1) bekezdése szerinti rendelet hatálybalépését és az adott áramkör zárolásának feloldását követően a háztartási méretű kiserőmű által termelt villamos energia közcélú hálózatba történő betáplálását az elosztó hálózati engedélyes az elosztói szabályzatban rögzített feltételekkel engedélyezi.
+
+(2) A 2. § (1) bekezdése szerinti rendelet hatálybalépését követően az elosztó hálózati engedélyes az elosztói szabályzatban meghatározott szabályok szerint jogosult az áramkör zárolásáról dönteni. Az elosztó hálózati engedélyes az áramkör zárolására vonatkozó döntését havonta felülvizsgálja. Az elosztó hálózati engedélyes a honlapján közzéteszi és rendszeresen aktualizálja a zárolt és zárolás alól feloldott áramkörök listáját a honlapján.
+
+(3) Ha az igénybejelentés zárolt áramkörre érkezik, az elosztó hálózati engedélyes a közcélú hálózatba történő betáplálást nem engedélyezi.
+
+(4) Az elosztó hálózati engedélyes az adott áramkör (2) bekezdés szerinti zárolását vagy a zárolás fenntartását követő kilencven napon belül tervet készít azokról az intézkedésekről, amelyek a kisfeszültségű transzformátor adott áramköre zárolásának feloldásához szükségesek, és a tervet megküldi a Hivatalnak. A terv tartalmazza az intézkedések leírását és végrehajtásának ütemezését. Az elosztó hálózati engedélyes a terv elkészítése során az infrastrukturális fejlesztések mellett az elosztói rugalmassági szolgáltatások és a rugalmas csatlakozási szerződések igénybevételének lehetőségét is megvizsgálja.
+
+(5) Ha a zárolt áramkörön végrehajtott intézkedést követően az elosztó hálózati engedélyes az áramkör zárolását feloldja, akkor erről az adott áramkörre vonatkozóan korábban visszwatt védelemmel csatlakoztatott háztartási méretű kiserőmű felhasználóját és azt az igénybejelentőt, aki a bejelentett igényre adott érvényes ajánlattal vagy műszaki gazdasági tájékoztatóval rendelkezik, a feloldás időpontját követő harminc napon belül értesíti.
+
+(6) Ha az igénybejelentő az (5) bekezdés szerinti értesítést követően kérelmet nyújt be az elosztó hálózati engedélyeshez, az elosztó hálózati engedélyes az elosztói szabályzatban rögzített feltételekkel biztosítja a közcélú hálózatra történő betáplálás lehetőségét. A hálózati csatlakozási szerződés módosítására a Vet. vhr. és az ellátási szabályzatok rendelkezései alkalmazandók.
