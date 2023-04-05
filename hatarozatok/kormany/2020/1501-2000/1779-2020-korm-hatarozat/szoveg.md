@@ -1,6 +1,6 @@
 A Kormány
 
-1. támogatja a kunszentmártoni Kármelita Rendház Szeged-Csanádi Egyházmegye által történő megvásárlását és közösségi célokra történő átalakítását, felújítását;
+1.[^1] támogatja a kunszentmártoni Kármelita Rendház Szeged-Csanádi Egyházmegye által történő megvásárlását és köznevelési célokra történő átalakítását, felújítását;
 
 2. felhívja a pénzügyminisztert, hogy a miniszterelnök általános helyettese bevonásával gondoskodjon az 1. pontban foglalt cél megvalósítása érdekében 201 055 477 forint többletforrás biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 7. Egyházi épített örökség védelme és egyéb beruházások jogcím javára;
 
@@ -29,3 +29,5 @@ Határidő: a 2. pont szerinti forrás rendelkezésre állását követően azon
 Felelős: a miniszterelnök általános helyettese
 
 Határidő: a 3. pont szerinti forrás rendelkezésre állását követően azonnal
+
+[^1]: Az 1. pont az 1127/2023. (IV. 5.) Korm. határozat szövege szerint módosított szöveg.
