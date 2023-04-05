@@ -4,7 +4,7 @@ A Kormány
 
 2. a sportról szóló 2004. évi I. törvény 50. § (3) bekezdés d) pontja alapján garanciát vállal az Európa-bajnokság megrendezéséhez;
 
-3. támogatja, hogy az Európa-bajnokság rendezési jogának elnyerése esetén a Nemzeti Sportügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Társaság) a Szövetség közreműködésével megrendezze az Európa-bajnokságot Magyarországon;
+3.[^1] támogatja, hogy az Európa-bajnokság rendezési jogának elnyerése esetén a Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság és az 5. pontban szereplő források cél szerinti felhasználása tekintetében a Nemzeti Sportügynökség Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Társaság) a Szövetség közreműködésével megrendezze az Európa-bajnokságot Magyarországon;
 
 4. felhatalmazza a miniszterelnököt, hogy az Európa-bajnokság megrendezése kapcsán, az Európai Torna Szövetség által a pályázat feltételeként kötelezően előírt angol és magyar nyelvű garanciavállaló nyilatkozatot a Magyar Állam nevében aláírja;
 
@@ -12,7 +12,7 @@ Felelős: miniszterelnök
 
 Határidő: azonnal
 
-5.[^1] felhívja
+5.[^2] felhívja
 
 a) az emberi erőforrások miniszterét, hogy gondoskodjon az Európa-bajnokság pályázati letéti díj költségeinek biztosításához szükséges legfeljebb 20 000 eurónak megfelelő forintösszeg biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport javára,
 
@@ -26,7 +26,7 @@ Határidő: az a) alpont tekintetében azonnal
 
 a b) alpont tekintetében 2021. április 30.
 
-6.[^2] felhívja
+6.[^3] felhívja
 
 a) az emberi erőforrások miniszterét, hogy gondoskodjon az 5. pont a) alpontjában,
 
@@ -42,7 +42,7 @@ Határidő: az a) alpont tekintetében a forrás rendelkezésre állását köve
 
 a b) alpont tekintetében a 2021. évben az Európa-bajnokság rendezési jogának elnyerése esetén, a forrás rendelkezésre állását követően 60 napon belül
 
-7.[^3] felhívja a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztost, a Miniszterelnökséget vezető minisztert és az emberi erőforrások miniszterét, hogy az Európa-bajnokság rendezési jogának elnyerése esetén készítsenek előterjesztést az Európa-bajnokság megrendezéséhez szükséges további kormányzati intézkedésekről és a részletes költségvetés megállapításáról;
+7.[^4] felhívja a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztost, a Miniszterelnökséget vezető minisztert és az emberi erőforrások miniszterét, hogy az Európa-bajnokság rendezési jogának elnyerése esetén készítsenek előterjesztést az Európa-bajnokság megrendezéséhez szükséges további kormányzati intézkedésekről és a részletes költségvetés megállapításáról;
 
 Felelős: kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos
 
@@ -58,6 +58,7 @@ Felelős: a miniszterelnök kabinetfőnöke
 
 Határidő: az Európa-bajnokság szervezésével és lebonyolításával egyidejűleg, folyamatosan
 
-[^1]: Az 5. pont az 1169/2021. (IV. 9.) Korm. határozat 10. pontjával megállapított szöveg.
-[^2]: A 6. pont az 1169/2021. (IV. 9.) Korm. határozat 10. pontjával megállapított szöveg.
-[^3]: A 7. pont az 1169/2021. (IV. 9.) Korm. határozat 10. pontjával megállapított szöveg.
+[^1]: A 3. pont az 1130/2023. (IV. 5.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^2]: Az 5. pont az 1169/2021. (IV. 9.) Korm. határozat 10. pontjával megállapított szöveg.
+[^3]: A 6. pont az 1169/2021. (IV. 9.) Korm. határozat 10. pontjával megállapított szöveg.
+[^4]: A 7. pont az 1169/2021. (IV. 9.) Korm. határozat 10. pontjával megállapított szöveg.
