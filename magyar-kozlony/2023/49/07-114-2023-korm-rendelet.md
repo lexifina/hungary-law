@@ -1,0 +1,139 @@
+# A Kormány 114/2023. (IV. 5.) Korm. rendelete
+
+Magyar Közlöny 2023. évi 49. szám, 2023. április 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/pjxwA4noWxncSCMLYg266424923749f11/dokumentumok/c7043bb0e14e753bbcab93785133b9302e3b28e4/letoltes)
+
+---
+
+A Kormány 114/2023. (IV. 5.) Korm. rendelete
+a távhőtermelők veszélyhelyzeti átmeneti földgázellátásának biztosításáról
+A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi
+és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint
+ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és
+egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzetre tekintettel
+a távhőszolgáltatásról szóló 2005. évi XVIII. törvényt (a továbbiakban: Tszt.) és a földgázellátásról szóló 2008. évi
+XL. törvényt (a továbbiakban: Get.) az e rendeletben foglalt eltérésekkel kell alkalmazni.
+2. §
+E rendelet alkalmazásában
+1. alapellátási földgáz-kereskedelmi szerződés: olyan, e rendelet alapján létrejött földgáz-kereskedelmi szerződés,
+amely az átmeneti földgázellátást a felhasználó valamennyi, nem teljes ellátás alapú földgáz-kereskedelmi
+szerződés alapján ellátott felhasználási helye tekintetében távhőtermelés céljából átvenni kívánt
+földgázmennyiség tekintetében a Magyar gázkiegyenlítési ponton történő átadásával biztosítja;
+2. átmeneti földgázellátás: a 2023. október 1. és 2024. szeptember 30. közötti gázévben (a továbbiakban:
+átmeneti gázév) e rendelet alapján a felhasználó részére biztosított földgázellátás;
+3. felhasználási hely: azon Get. szerinti felhasználási hely, amelyen a felhasználó távhőtermelés céljából vételez
+földgázt;
+
+4. felhasználó: azon földgáztüzelésen alapuló hőtermelési technológiát alkalmazó, a Tszt. 3. § s) pontja
+szerinti távhőtermelő, amely közvetlenül vagy Tszt. szerinti értékesítőn keresztül közvetve közszolgáltatási
+kötelezettséget ellátó vagy Tszt. szerinti külön kezelt intézmény távhőszolgáltatását biztosító
+távhőszolgáltató távhőellátását biztosítja;
+5. teljes ellátás alapú földgáz-kereskedelmi szerződés: olyan, e rendelet alapján létrejött földgáz-kereskedelmi
+szerződés, amely az átmeneti földgázellátást a felhasználó valamennyi, nem alapellátási földgáz-
+kereskedelmi szerződés alapján ellátott felhasználási helye tekintetében teljeskörűen biztosítja.
+3. § (1) Az átmeneti földgázellátást a veszélyhelyzet idején – a (2) bekezdésben foglalt kivétellel – a villamos energia és
+földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló
+289/2022. (VIII. 5.) Korm. rendelet 1. § (2) bekezdés a) pontja szerinti földgáz szolgáltató biztosítja.
+(2) Az átmeneti földgázellátást a veszélyhelyzeti átmeneti földgázellátás biztosításáról szóló 388/2022. (X. 14.)
+Korm. rendelet 3. § (1) bekezdése szerinti földgázkereskedő biztosítja az e rendelet hatálybalépésekor általa
+közvetlenül vagy közvetve ellátott felhasználási helyek tekintetében, továbbá a kizárólag földgázelosztó
+rendszerhez csatlakozó felhasználási helyekkel rendelkező felhasználó felhasználási helyei esetében.
+(3) A felhasználó, valamint az (1) bekezdés szerinti földgáz szolgáltató vagy a (2) bekezdés szerinti földgázkereskedő
+(a továbbiakban együtt: kijelölt földgázkereskedő) között – a (4) bekezdésben foglalt kivétellel –
+legkésőbb 2023. május 15. napjával az átmeneti gázévre vonatkozóan teljes ellátás alapú földgáz-kereskedelmi
+szerződés jön létre. A teljes ellátás alapú földgáz-kereskedelmi szerződés alapján
+a) a kijelölt földgázkereskedő az (5) bekezdés szerinti mintaszerződésben meghatározott feltételek szerint
+ellátja az érintett felhasználási helyeket, azzal, hogy a 4. § (1) vagy (5) bekezdése alapján átvenni kívánt
+földgázmennyiség tekintetében az 5. § szerinti földgáz referenciaárat alkalmazza,
+b) a felhasználó a vételezett földgázmennyiség árát és az átmeneti földgázellátáshoz kapcsolódó egyéb díjat,
+költségeket a kijelölt földgázkereskedőnek megtéríti, valamint
+c) a kijelölt földgázkereskedő és a felhasználó – különösen adategyeztetés, fogyasztásmérő berendezés
+leolvasása esetén – együttműködik egymással.
+(4) A felhasználó és a kijelölt földgázkereskedő között azon felhasználási hely tekintetében, ahol a földgáz vételezése
+kapcsolt hőtermelés vagy nem kizárólag távhő célú hőtermelés céljából történik, legkésőbb 2023. május 15. napjával
+az átmeneti gázévre vonatkozóan alapellátási földgáz-kereskedelmi szerződés jön létre. Az alapellátási földgáz-
+kereskedelmi szerződés alapján
+a) a kijelölt földgázkereskedő az (5) bekezdés szerinti mintaszerződésben meghatározott feltételek szerint
+az 5. § szerinti földgáz referenciaár alkalmazásával a Magyar gázkiegyenlítési ponton adja át a 4. § (1) vagy
+(5) bekezdése alapján átvenni kívánt földgázmennyiséget,
+b) a felhasználó a 4. § (1) vagy (5) bekezdése szerint megadott, átvenni kívánt földgázmennyiség árát és
+az átmeneti földgázellátáshoz kapcsolódó egyéb díjat, költségeket a kijelölt földgázkereskedőnek megtéríti,
+valamint
+c) a kijelölt földgázkereskedő és a felhasználó – különösen az adategyeztetés tekintetében – együttműködik
+egymással.
+(5) A kijelölt földgázkereskedő az átmeneti földgázellátás biztosítására irányuló teljes ellátás alapú földgáz-
+kereskedelmi, valamint az alapellátási földgáz-kereskedelmi mintaszerződést e rendelet hatálybalépését követő
+3 napon belül benyújtja a Magyar Energetikai és Közmű-szabályozási Hivatalhoz (a továbbiakban: Hivatal)
+jóváhagyásra. A jóváhagyási eljárás ügyintézési határideje 3 munkanap.
+(6) A Hivatal jogszabályi megfelelőségi, illetve ellátásbiztonsági és arányossági szempontból vizsgálja meg
+az (5) bekezdés szerinti mintaszerződést. A Hivatal különösen vizsgálja az (5) bekezdés szerinti mintaszerződés
+tartalmát aszerint, hogy az a kijelölt földgázkereskedő és a felhasználó számára nem jelenthet aránytalan előnyt
+vagy hátrányt, és a piaci gyakorlatokkal összhangban jön létre.
+(7) A jóváhagyott mintaszerződést a kijelölt földgázkereskedő a honlapján közzéteszi. A mintaszerződés jóváhagyására
+irányuló eljárásban ügyfél kizárólag a kijelölt földgázkereskedő.
+(8) A kijelölt földgázkereskedő a teljes ellátás alapú földgáz-kereskedelmi szerződés és az alapellátási földgáz-
+kereskedelmi szerződés létrejöttét – a jóváhagyott teljes ellátás alapú földgáz-kereskedelmi vagy alapellátási
+földgáz-kereskedelmi mintaszerződés kitöltött és általa aláírt példányával – a szerződés létrejöttétől számított
+7 napon belül elektronikus úton a felhasználó részére visszaigazolja.
+(9) Ha a felhasználó a visszaigazoló dokumentum alapján hibás névírást, számhibát vagy más hasonló elírást észlel,
+haladéktalanul értesíti a kijelölt földgázkereskedőt az elírás kijavítása érdekében.
+
+4. § (1) A felhasználó e-mail-címének megjelölésével a kijelölt földgázkereskedő által e célra biztosított elektronikus
+felületen keresztül, elektronikus felület hiánya esetén a kijelölt földgázkereskedő által e célra létrehozott
+e-mail-címre történő elektronikus levél megküldésével a mintaszerződés jóváhagyásától számított 7 munkanapon
+belül nyilatkozik az átmeneti földgázellátás keretében távhőtermelés céljából átvenni kívánt földgázmennyiségről
+havi bontásban. Az eltérő formában megtett nyilatkozat – a (4) bekezdés b) pontjában foglalt kivétellel –
+érvénytelen.
+(2) A felhasználó (1) bekezdés szerinti nyilatkozatának fogadását a kijelölt földgázkereskedő elektronikus levélben
+haladéktalanul visszaigazolja a nyilatkozatban megjelölt e-mail-címre.
+(3) A kijelölt földgázkereskedő az (1) bekezdés szerinti nyilatkozatokat az ott előírt határidőt követően 2 napon belül
+megküldi a Hivatal részére ellenőrzés céljából.
+(4) Ha a Hivatal az ellenőrzése során azt állapítja meg, hogy a felhasználó
+a) nem teljesítette az (1) bekezdésben foglaltakat, vagy a Hivatal felhívására nem pótolja az (1) bekezdés szerinti
+adatokat,
+b) által megadott földgázmennyiség – a Hivatal rendelkezésére álló adatok alapján – nem elegendő
+a távhő legjobb hatásfokú módon történő megtermeléséhez,
+akkor a Hivatal a felhasználót a távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló
+157/2005. (VIII. 15.) Korm. rendelet szerinti bírsággal sújthatja.
+(5) Ha a Hivatal az ellenőrzése során azt állapítja meg, hogy a felhasználó nem a megfelelő kijelölt földgázkereskedő
+felé tette meg nyilatkozatát, akkor a nyilatkozat címzettjének a 3. § (1) vagy (2) bekezdése alapján az átmeneti
+földgázellátást biztosító földgázkereskedőt kell tekinteni.
+(6) Ha a felhasználó a Hivatal ellenőrzése során az (1) bekezdés alapján megadott átvenni kívánt földgázmennyiségre
+vonatkozó adatot pótolja vagy módosítja, akkor átvenni kívánt földgázmennyiségnek ezt a földgázmennyiséget
+kell tekinteni.
+(7) A Hivatal a (3) bekezdés szerint megküldött nyilatkozatokat 6 munkanapon belül ellenőrzi, majd annak
+eredményéről és – figyelemmel a (4)–(6) bekezdésben foglaltakra – az átmeneti földgázellátás biztosításához
+szükséges adatokról haladéktalanul tájékoztatja a kijelölt földgázkereskedőt.
+(8) A Hivatal az átmeneti gázévben a teljes ellátás alapú vagy az alapellátási szerződésben foglalt és ténylegesen
+vételezett földgázmennyiséget vizsgálja, és annak eredménye alapján a Tszt. szerinti árszabályozás következő
+évében korrekciót alkalmazhat.
+5. §
+A Hivatal a 4. § (7) bekezdésében foglalt tájékoztatási határidőt követő 12 munkanapon belül hirdetményt
+tesz közzé a felhasználók esetében elismert, indokolt költség alapját képező földgáz referenciaáráról.
+6. § (1) A felhasználó az átmeneti földgázellátás vonatkozásában a Tszt. 57/D. § (6) bekezdésében előírt kötelezettségét
+a Hivatal részére a 3. § (8) bekezdése szerinti, visszaigazolásként megküldött, kitöltött mintaszerződés benyújtásával
+teljesíti.
+(2) A 3. § (5) bekezdése szerint a Hivatal által jóváhagyott mintaszerződésben meghatározott feltételek
+nem minősülnek a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) 6:102. §-a szerinti
+tisztességtelen általános szerződési feltételnek.
+(3) E rendelet hatálybalépését követően a felhasználó és a kijelölt földgázkereskedőtől eltérő földgázkereskedő között
+létrejött földgáz-kereskedelmi szerződés a távhőtermeléssel érintett felhasználási hely vonatkozásában az átmeneti
+gázév tekintetében semmis.
+(4) A felhasználó a (3) bekezdésben foglaltakra tekintettel a Ptk. 6:60. § (2) bekezdésétől eltérően a bíróságtól
+a szerződés módosítását nem kérheti.
+(5) Azon felhasználási hely tekintetében, ahol a földgáz vételezése kapcsolt hőtermelés céljából történik,
+a felhasználó gondoskodik az alapellátási földgáz-kereskedelmi szerződés által biztosított földgázmennyiségen
+felüli földgázmennyiség beszerzéséről és a teljes körű, az alapellátási földgáz-kereskedelmi szerződés által
+biztosított földgázmennyiséget is magában foglaló földgázellátáshoz szükséges rendszerhasználat biztosításáról,
+ide nem értve a Magyar gázkiegyenlítési pontig történő szállításhoz kapcsolódó rendszerhasználatot.
+7. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+
+8. §
+E rendelet hatálybalépésének napján a felhasználó nyilatkozata alapján létrejött földgáz-kereskedelmi szerződés
+a távhőtermeléssel érintett felhasználási hely vonatkozásában az átmeneti gázévre megszűnik. A földgázkereskedő
+a szerződés megszűnésére tekintettel a felhasználóval szemben hátrányos jogkövetkezményt nem alkalmazhat.
+ Orbán Viktor s. k.,
+ miniszterelnök
