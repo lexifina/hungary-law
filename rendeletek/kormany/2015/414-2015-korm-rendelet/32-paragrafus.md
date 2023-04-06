@@ -14,11 +14,11 @@ e) a tároló elem nem működik,
 
 f)[^118] a 70. életévét betöltött kérelmező az Nytv. 29/E. § (2) bekezdése szerinti személyazonosító igazolványt igényel.
 
-g)[^119]
+g)[^119] az Nytv. 29. § (1) bekezdésében meghatározott elektronikus szolgáltatásai nem működnek,
 
 h) a személyazonosító igazolvány tároló eleme ujjnyomatot nem tartalmaz, és a polgár ujjnyomat rögzítését kéri.
 
 [^116]: A 32. § a 227/2016. (VII. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
 [^117]: A 32. § a) pontja a 176/2019. (VII. 18.) Korm. rendelet 9. § (10) bekezdésével megállapított szöveg.
 [^118]: A 32. § f) pontja az 572/2020. (XII. 9.) Korm. rendelet 75. §-ával megállapított szöveg.
-[^119]: A 32. § g) pontját az 572/2020. (XII. 9.) Korm. rendelet 83. § h) pontja hatályon kívül helyezte.
+[^119]: A 32. § g) pontját az 572/2020. (XII. 9.) Korm. rendelet 83. § h) pontja hatályon kívül helyezte, újonnan a 117/2023. (IV. 5.) Korm. rendelet 3. §-a iktatta be.

@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-414-20-
 | 2021-12-23 | 2015-414-20-22.28 | 572/2020. (XII. 9.) Korm. rendelet |
 | 2022-01-01 | 2015-414-20-22.29 | 2010: CXXX. törvény |
 | 2023-01-01 | 2015-414-20-22.30 | 569/2022. (XII. 23.) Korm. rendelet |
+| 2023-04-06 | 2015-414-20-22.31 | 572/2020. (XII. 9.) Korm. rendelet |
