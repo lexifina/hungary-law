@@ -1,0 +1,3 @@
+6. § A 2021. évi CI. törvény 7/A. alcíme a következő 9/F. §-sal egészül ki:
+
+„9/F. § Az Nvtv. 13. § (4) és (5) bekezdésétől eltérően a 9/E. § (1) bekezdése szerinti ingatlanok tulajdonjogát az Egyházkerület az Egyházkerület területén működő, az Egyház belső jogi személye javára átruházhatja azzal, hogy az ingatlan-nyilvántartásban a magyar állam javára bejegyzett elidegenítési tilalom továbbra is fennmarad. Az Egyházkerület és a tulajdonátruházással érintett, az Egyház belső jogi személye közötti tulajdonátruházásra irányuló szerződésben az Egyház belső jogi személye vállalja, hogy a 9/E. § (1) bekezdése szerinti céloknak megfelelően kerül sor a 9/E. § (1) bekezdése szerinti ingatlanok hasznosítására.”
