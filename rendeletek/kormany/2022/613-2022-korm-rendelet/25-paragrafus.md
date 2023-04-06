@@ -1,5 +1,0 @@
-25. § (1) Az új 1. melléklet alapján fejezetet váltó fejezeti kezelésű előirányzat 2022. évi éves költségvetési beszámolójában jóváhagyott maradványát – az Ávr. 150. § (3) és (4) bekezdése szerinti időponttal – az új 1. melléklet szerinti címrendnek megfelelően kell átvezetni és előirányzatosítani.
-
-(2) A 2022. évi címrendben meglévő, de az új 1. mellékletben nem szereplő fejezeti kezelésű előirányzat 2022. évi éves költségvetési beszámolójában jóváhagyott maradványát – az Ávr. 150. § (3) és (4) bekezdése szerinti időponttal – a fejezeti kezelésű előirányzat irányító szerve szerinti fejezetbe kell átvezetni és előirányzatosítani.
-
-(3) Az (1) és (2) bekezdés szerinti előirányzatosítást legkésőbb az érintett fejezeti kezelésű előirányzat 2022. évi éves költségvetési beszámolójának a Kincstár által történő elfogadását követő 3. munkanapig kell végrehajtani. Az (1) és (2) bekezdés szerinti fejezeti kezelésű előirányzathoz tartozó 2023. január 1-jei nyitó pénzkészletnek az új 1. melléklet szerinti címrendnek megfelelő Kincstár általi átvezetésére a fejezetet irányító szerv vezetője által teljesített adatszolgáltatása alapján kerül sor legkésőbb 2023. február 3-án.

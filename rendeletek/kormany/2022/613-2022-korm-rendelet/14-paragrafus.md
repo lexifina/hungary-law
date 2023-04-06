@@ -1,1 +1,0 @@
-14. § A Kvtv. 63. §-ától eltérően 2023 januárjában a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 62. § (1) és (2) bekezdése alapján esedékes nyugdíjemelés meghatározásánál 15%-os fogyasztói árnövekedést kell figyelembe venni.

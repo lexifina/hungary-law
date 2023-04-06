@@ -1,1 +1,0 @@
-22. § A Kvtv. 4. mellékletétől eltérően az 1. mellékletben meghatározott kiadási előirányzatok közül a 3. mellékletben meghatározott esetekben a teljesülés külön szabályozott módosítás nélkül is eltérhet az előirányzattól.

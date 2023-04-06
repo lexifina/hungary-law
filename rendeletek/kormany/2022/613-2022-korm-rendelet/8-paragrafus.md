@@ -1,1 +1,0 @@
-8. § A Kvtv. 8. § (3) bekezdésében foglaltakat azzal az eltéréssel kell alkalmazni, hogy a XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezet, 5. Beruházási tartalék cím helyett a XLV. Állami Beruházások fejezet, 1. cím, 5. Beruházási tartalék alcímre vonatkozik.

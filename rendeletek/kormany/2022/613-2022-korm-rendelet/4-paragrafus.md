@@ -1,1 +1,0 @@
-4. § Az 2. §-ban meghatározott bevételi és kiadási főösszegeknek a fejezetek, címek, alcímek, jogcímcsoportok, jogcímek szerinti részletezését a Kvtv. 1. mellékletétől eltérően az 1. melléklet tartalmazza.

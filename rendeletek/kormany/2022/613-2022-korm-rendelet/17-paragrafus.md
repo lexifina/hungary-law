@@ -1,1 +1,0 @@
-17. § A Kvtv. 2. melléklet I. Előirányzatok és támogatások pontjában foglalt táblázat 160. sorától eltérően a 4. Önkormányzati szolidaritási hozzájárulás támogatási jogcím előirányzata 237 240,3 millió forint.
