@@ -1,0 +1,1 @@
+6. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell. A folyamatban lévő közigazgatási hatósági ügyekben – a 3. § szerinti kivételekkel – a döntést az e rendelet hatálybalépését követő tizenöt napon belül, a szakhatósági döntést nyolc napon belül meg kell hozni.
