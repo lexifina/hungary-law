@@ -8,9 +8,9 @@
 
 a) a 4. § (1) bekezdés a) pontjában meghatározott többlettámogatás igénylési feltételeit, az igény bejelentésének, megállapításának, a többlettámogatás folyósításának, elszámolásának és a felhasználás ellenőrzésének, valamint a 4. § (2) bekezdés szerinti nyilatkozat szabályait,
 
-b) a 4. § (3) bekezdésében meghatározott központi tartalék felhasználási szabályait,
+b)
 
-c) a 10. § (10) bekezdésében meghatározott befizetés részletszabályait,
+c)
 
 d) a 44. § (4) bekezdése és a 8. melléklet 1.2. Kiegészítő támogatás a pedagógusok és a pedagógus szakképzettséggel rendelkező segítők minősítéséből adódó többletkiadásaihoz jogcím szerinti támogatás folyósításának, lemondásának, pótigénylésének, elszámolásának és ellenőrzésének részletes szabályait,
 

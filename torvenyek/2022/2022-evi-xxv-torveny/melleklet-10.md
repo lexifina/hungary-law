@@ -2,7 +2,7 @@
 
 ## I. Előirányzatok és támogatások
 
-## | | Jogcímszám | Támogatási jogcím | Előirányzat (millió forintban) | Fajlagos összeg | 1 | 1. | A nem állami szociális fenntartó részére központi költségvetésből biztosított támogatás | 227 024,4 | | 2 | 1.1. | Szakmai dolgozók átlagbére alapján számított béralapú támogatás | | 5 439 900 forint/év/foglalkoztatott | 3 | 1.2. | Gyermekvédelmi szakellátási intézményekben pedagógus-munkakörben foglalkoztatottak kiegészítő támogatása | | 2 978 560 forint/év/foglalkoztatott | 4 | 1.3. | Gyermekvédelmi szakellátási intézményben pedagógus-munkakörben foglalkoztatottak minősítésével összefüggő kiegészítő támogatás | | | 5 | 1.3.1. | Pedagógus I. fokozatból Pedagógus II. fokozatba lépés | | | 6 | 1.3.1.1. | Alapfokú vagy középfokú végzettségű | | 467 690 forint/fő/év | 7 | 1.3.1.2. | Mesterfokozatú végzettségű | | 562 950 forint/fő/év | 8 | 1.3.2. | Mesterpedagógus vagy Kutatótanár fokozatba lépés | | | 9 | 1.3.2.1. | Alapfokú vagy középfokú végzettségű | | 1 743 970 forint/fő/év | 10 | 1.3.2.2. | Mesterfokozatú végzettségű | | 1 970 180 forint/fő/év | 11 | 2. | Szociális ágazati összevont pótlék és egészségügyi kiegészítő pótlék | 24 186,7 | | 12 | 3. | A bölcsődei ellátásban részesülő gyermekek ingyenes étkeztetése | | 28 400 forint/fő/év | 13 | 4. | A szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás, az utcai szociális munka, a krízisközpont, a félutas ház és a titkos menedékház fenntartóját megillető költségvetési támogatás | | | 14 | 4.1. | Szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás | | 10 453 000 forint/év/szolgálat | 15 | 4.2. | Utcai szociális munka | | 9 421 000 forint/év/szolgálat | 16 | 4.3. | Krízisközpont | | | 17 | 4.3.1. | Krízisközpont | | 6 000 000 forint/év/szolgálat | 18 | 4.3.2. | Félutas ház | | 4 000 000 forint/év/félutas ház | 19 | 4.4. | Titkos menedékház | | 16 000 000 forint/év/szolgálat | 20 | 5. | Biztos Kezdet Gyerekházak | 1 427,3 | | 21 | 5.1. | Biztos Kezdet Gyerekház fenntartóját megillető költségvetési támogatás | | 9 228 840 forint/év/Gyerekház
+## | | Jogcímszám | Támogatási jogcím | Előirányzat (millió forintban) | Fajlagos összeg | 1 | 1. | A nem állami szociális fenntartó részére központi költségvetésből biztosított támogatás | 229 203,8 | | 2 | 1.1. | Szakmai dolgozók átlagbére alapján számított béralapú támogatás | | 5 439 900 forint/év/foglalkoztatott | 3 | 1.2. | Gyermekvédelmi szakellátási intézményekben pedagógus-munkakörben foglalkoztatottak kiegészítő támogatása | | 2 978 560 forint/év/foglalkoztatott | 4 | 1.3. | Gyermekvédelmi szakellátási intézményben pedagógus-munkakörben foglalkoztatottak minősítésével összefüggő kiegészítő támogatás | | | 5 | 1.3.1. | Pedagógus I. fokozatból Pedagógus II. fokozatba lépés | | | 6 | 1.3.1.1. | Alapfokú vagy középfokú végzettségű | | 467 690 forint/fő/év | 7 | 1.3.1.2. | Mesterfokozatú végzettségű | | 562 950 forint/fő/év | 8 | 1.3.2. | Mesterpedagógus vagy Kutatótanár fokozatba lépés | | | 9 | 1.3.2.1. | Alapfokú vagy középfokú végzettségű | | 1 743 970 forint/fő/év | 10 | 1.3.2.2. | Mesterfokozatú végzettségű | | 1 970 180 forint/fő/év | 11 | 2. | Szociális ágazati összevont pótlék és egészségügyi kiegészítő pótlék | 24 186,7 | | 12 | 3. | A bölcsődei ellátásban részesülő gyermekek ingyenes étkeztetése | | 28 400 forint/fő/év | 13 | 4. | A szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás, az utcai szociális munka, a krízisközpont, a félutas ház és a titkos menedékház fenntartóját megillető költségvetési támogatás | | | 14 | 4.1. | Szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás | | 10 453 000 forint/év/szolgálat | 15 | 4.2. | Utcai szociális munka | | 9 421 000 forint/év/szolgálat | 16 | 4.3. | Krízisközpont | | | 17 | 4.3.1. | Krízisközpont | | 6 000 000 forint/év/szolgálat | 18 | 4.3.2. | Félutas ház | | 4 000 000 forint/év/félutas ház | 19 | 4.4. | Titkos menedékház | | 16 000 000 forint/év/szolgálat | 20 | 5. | Biztos Kezdet Gyerekházak | 1 676,5 | | 21 | 5.1. | Biztos Kezdet Gyerekház fenntartóját megillető költségvetési támogatás | | 9 228 840 forint/év/Gyerekház
 
 ## II. Támogatások megállapításának, felhasználásának és elszámolásának szabályai
 
@@ -236,11 +236,11 @@ A helyi nemzetiségi önkormányzatok 2023. évi feladatalapú támogatásának 
 
 2.3.1. A feladatalapú támogatásra az a helyi nemzetiségi önkormányzat jogosult, amely együttesen teljesíti a 2.3.1.1. és a 2.3.1.2. pont szerinti feltételeket. A feladatalapú támogatásra való jogosultság szempontjából települési nemzetiségi önkormányzatnak kell tekinteni az átalakult nemzetiségi önkormányzatot is.
 
-2.3.1.1. A helyi nemzetiségi önkormányzat a költségvetési évet megelőző évben megtartott legalább négy képviselő-testületi ülésre vonatkozó jegyzőkönyvét a fővárosi és megyei kormányhivatal részére 2023. január 15-éig benyújtja. A határidő elmulasztása jogvesztő.
+2.3.1.1. A helyi nemzetiségi önkormányzat a költségvetési évet megelőző évben megtartott legalább négy képviselő-testületi ülésre vonatkozó jegyzőkönyvét a fővárosi és vármegyei kormányhivatal részére 2023. január 15-éig benyújtja. A határidő elmulasztása jogvesztő.
 
-2.3.1.2. Ha a Nek. tv. 97. §-a szerinti közmeghallgatás megtartására nem a 2.3.1.1. pont szerint igazolt képviselő-testületi ülés egyikén került sor, akkor a helyi nemzetiségi önkormányzat a közmeghallgatásról készült jegyzőkönyvet a fővárosi és megyei kormányhivatal részére 2023. január 15-éig benyújtja. Az önállóan megtartott közmeghallgatásról készített jegyzőkönyv a 2.3.1.1. pontban előírt legalább négy képviselő-testületi ülésre vonatkozó jegyzőkönyvek körébe tartozik. A határidő elmulasztása jogvesztő.
+2.3.1.2. Ha a Nek. tv. 97. §-a szerinti közmeghallgatás megtartására nem a 2.3.1.1. pont szerint igazolt képviselő-testületi ülés egyikén került sor, akkor a helyi nemzetiségi önkormányzat a közmeghallgatásról készült jegyzőkönyvet a fővárosi és vármegyei kormányhivatal részére 2023. január 15-éig benyújtja. Az önállóan megtartott közmeghallgatásról készített jegyzőkönyv a 2.3.1.1. pontban előírt legalább négy képviselő-testületi ülésre vonatkozó jegyzőkönyvek körébe tartozik. A határidő elmulasztása jogvesztő.
 
-2.3.2. A fővárosi és megyei kormányhivatal a 2.3.1.1. és a 2.3.1.2. pont szerinti dokumentumokat 2023. január 20-áig elektronikus úton küldi meg a miniszter részére.
+2.3.2. A fővárosi és vármegyei kormányhivatal a 2.3.1.1. és a 2.3.1.2. pont szerinti dokumentumokat 2023. január 20-áig elektronikus úton küldi meg a miniszter részére.
 
 2.3.3. A 2.3.1.1. és a 2.3.1.2. pont szerinti jegyzőkönyvek alapján a miniszter megállapítja a helyi nemzetiségi önkormányzatok feladatalapú támogatását megalapozó feladatmutató pontszámot. A 2023. évi feladatalapú támogatás megalapozását szolgáló feladatmutató pontszám mértéke a helyi nemzetiségi önkormányzat 2018. év és 2020. év között kapott pontszámainak átlaga. A 2019. évben újonnan alakult helyi nemzetiségi önkormányzatok esetében az adott helyi nemzetiségi önkormányzatot a Magyarország 2020. évi költségvetéséről szóló 2019. évi LXXI. törvény 9. melléklet 2. pontja alapján megillető 2020. évi pontszámainak átlaga.
 
@@ -471,207 +471,3 @@ Országos Roma Önkormányzat és Média
 3.4.5. Az országos nemzetiségi önkormányzat, az általa fenntartott vagy közvetlenül támogatott nemzetiségi önkormányzati intézmény, a rendszeres vagy az időszaki lap kiadója és az elektronikus médium működtetője a támogatás felhasználásáról elkülönített számviteli nyilvántartást vezet az elfogadott éves intézményi költségvetésnek megfelelően.
 
 4. 1.2.2. Országos nemzetiségi önkormányzatok által fenntartott intézmények támogatása jogcímre vonatkozó szabályok
-
-4.1. Az előirányzat összegének megbontása:
-
-4.1.1. A XI. Miniszterelnökség fejezetben rendelkezésre álló előirányzat összege az Országos Roma Önkormányzat kivételével 1 727,5 millió forint.
-
-4.1.2. A XIV. Belügyminisztérium fejezetben rendelkezésre álló előirányzat összege az Országos Roma Önkormányzat vonatkozásában 196,2 millió forint.
-
-4.2. Az Országos nemzetiségi önkormányzatok által fenntartott intézmények támogatása
-
-|
-
-|
-
-A
-
-|
-
-B
-
-|
-
-|
-
-Megnevezés
-
-|
-
-Éves előirányzat
-
-(millió forintban)
-
-|
-
-1
-
-|
-
-Bolgár Országos Önkormányzat által fenntartott intézmények
-
-|
-
-134,7
-
-|
-
-2
-
-|
-
-Magyarországi Görögök Országos Önkormányzata által fenntartott intézmények
-
-|
-
-43,2
-
-|
-
-3
-
-|
-
-Magyarországi Németek Országos Önkormányzata által fenntartott intézmények
-
-|
-
-401,0
-
-|
-
-4
-
-|
-
-Magyarországi Románok Országos Önkormányzata által fenntartott intézmények
-
-|
-
-92,1
-
-|
-
-5
-
-|
-
-Országos Horvát Önkormányzat által fenntartott intézmények
-
-|
-
-325,1
-
-|
-
-6
-
-|
-
-Országos Lengyel Önkormányzat által fenntartott intézmények
-
-|
-
-62,7
-
-|
-
-7
-
-|
-
-Országos Örmény Önkormányzat által fenntartott intézmények
-
-|
-
-39,5
-
-|
-
-8
-
-|
-
-Országos Ruszin Önkormányzat által fenntartott intézmények
-
-|
-
-54,9
-
-|
-
-9
-
-|
-
-Országos Szlovák Önkormányzat által fenntartott intézmények
-
-|
-
-279,3
-
-|
-
-10
-
-|
-
-Országos Szlovén Önkormányzat által fenntartott intézmények
-
-|
-
-89,7
-
-|
-
-11
-
-|
-
-Szerb Országos Önkormányzat által fenntartott intézmények
-
-|
-
-180,0
-
-|
-
-12
-
-|
-
-Ukrán Országos Önkormányzat által fenntartott intézmények
-
-|
-
-25,3
-
-|
-
-13
-
-|
-
-Országos Roma Önkormányzat által fenntartott intézmények
-
-|
-
-196,2
-
-4.3. Az Országos nemzetiségi önkormányzatok által fenntartott intézmények támogatása megállapításának és folyósításának szabályai
-
-4.3.1. A támogatás az országos nemzetiségi önkormányzatot a Nek. tv. 117-119. §-ában és 121-122. §-ában meghatározott közfeladatai ellátása érdekében létrehozott nemzetiségi önkormányzati intézmények fenntartásához kapcsolódóan illeti meg.
-
-4.3.2. A miniszter a 4.2. pont szerinti támogatást negyedévenként egyenlő részletekben, a költségvetési év első negyedéve tekintetében legkésőbb 2023. február 15-éig, ezt követően minden negyedév első hónapjának 15. napjáig folyósítja a kincstár útján.
-
-4.4. Az Országos nemzetiségi önkormányzatok által fenntartott intézmények támogatása felhasználásának és elszámolásának szabályai
-
-4.4.1. A támogatást az országos nemzetiségi önkormányzat 2023. december 31-éig használhatja fel. A támogatás felhasználható a 2022. december havi személyi juttatások, az azokhoz kapcsolódó munkaadókat terhelő járulékok és szociális hozzájárulási adó, továbbá a 2021. december hónapot érintő közüzemi díjak 2023. január 31-ig történő kifizetésére.
-
-4.4.2. Az országos nemzetiségi önkormányzat intézményei a 4.2. pont szerinti támogatások terhére a miniszter által támogatói okiratban meghatározottak szerint a működéséhez és a Nek. tv. 117-119. §-ában és 121-122. §-ában foglalt közfeladatai ellátásához, valamint a közfeladat-ellátás fejlesztéséhez kapcsolódó működési és felhalmozási jellegű költségeket számolhatja el.
-
-4.4.3. A támogatás felhasználásáról az országos nemzetiségi önkormányzat az Ávr. 93. §-a szerint számol el a miniszter felé. Az országos nemzetiségi önkormányzat a zárszámadásról szóló közgyűlési előterjesztést és határozatot tartalmazó részletes szakmai és pénzügyi beszámolóját a zárszámadása elfogadását követő 15 napon belül nyújtja be a miniszter számára.
-
-4.4.4. A miniszter az Áht. 54. §-a szerint vizsgálja a támogatás jogszerű elszámolását és felhasználását.
-
-4.4.5. Az országos nemzetiségi önkormányzat, az általa fenntartott vagy közvetlenül támogatott nemzetiségi önkormányzati intézmény a támogatás felhasználásáról elkülönített számviteli nyilvántartást vezet az elfogadott éves intézményi költségvetésnek megfelelően.

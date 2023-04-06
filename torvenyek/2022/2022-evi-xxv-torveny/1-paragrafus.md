@@ -6,19 +6,19 @@
 
 1. § (1) Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2023. évi
 
-a) kiadási főösszegét 33 425 828,9 millió forintban,
+a) kiadási főösszegét 39 776 144,4 millió forintban,
 
-b) bevételi főösszegét 31 073 683,2 millió forintban,
+b) bevételi főösszegét 36 375 909,6 millió forintban,
 
-c) hiányát 2 352 145,7 millió forintban
+c) hiányát 3 400 234,8 millió forintban
 
 állapítja meg.
 
 (2) Az (1) bekezdésben meghatározott bevételi és kiadási főösszegeken belül az Országgyűlés a hazai működési költségvetés 2023. évi
 
-a) kiadási főösszegét 27 017 355,0 millió forintban,
+a) kiadási főösszegét 32 479 892,5 millió forintban,
 
-b) bevételi főösszegét 27 017 355,0 millió forintban,
+b) bevételi főösszegét 32 479 892,5 millió forintban,
 
 c) egyenlegét 0,0 millió forintban
 
@@ -26,20 +26,20 @@ c) egyenlegét 0,0 millió forintban
 
 (3) Az (1) bekezdésben meghatározott bevételi és kiadási főösszegeken belül az Országgyűlés a hazai felhalmozási költségvetés 2023. évi
 
-a) kiadási főösszegét 3 000 539,7 millió forintban,
+a) kiadási főösszegét 3 502 726,6 millió forintban,
 
-b) bevételi főösszegét 1 999 269,0 millió forintban,
+b) bevételi főösszegét 1 651 525,5 millió forintban,
 
-c) hiányát 1 001 270,7 millió forintban
+c) hiányát 1 851 201,1 millió forintban
 
 állapítja meg.
 
 (4) Az (1) bekezdésben meghatározott bevételi és kiadási főösszegeken belül az Országgyűlés az európai uniós fejlesztési költségvetés 2023. évi
 
-a) kiadási főösszegét 3 407 934,2 millió forintban,
+a) kiadási főösszegét 3 793 525,3 millió forintban,
 
-b) bevételi főösszegét 2 057 059,2 millió forintban,
+b) bevételi főösszegét 2 244 491,6 millió forintban,
 
-c) hiányát 1 350 875,0 millió forintban
+c) hiányát 1 549 033,7 millió forintban
 
 állapítja meg.

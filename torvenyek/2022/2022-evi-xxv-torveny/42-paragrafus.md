@@ -4,7 +4,7 @@
 
 a) a települési önkormányzat jegyzője által jogerősen kiszabott környezetvédelmi bírság 100%-a,
 
-b) a fővárosi és megyei kormányhivatal által a települési önkormányzat területén – a veszélyhelyzet kihirdetését megalapozó eseménnyel összefüggésben jogerősen kiszabott környezetvédelmi bírságok kivételével – kiszabott, és abból befolyt környezetvédelmi bírságok összegének 30%-a,
+b) a fővárosi és vármegyei kormányhivatal által a települési önkormányzat területén – a veszélyhelyzet kihirdetését megalapozó eseménnyel összefüggésben jogerősen kiszabott környezetvédelmi bírságok kivételével – kiszabott, és abból befolyt környezetvédelmi bírságok összegének 30%-a,
 
 c) a közúti közlekedésről szóló törvény végrehajtására kiadott kormányrendeletben meghatározott jogsértésre (a továbbiakban: közlekedési szabályszegés) tekintettel kiszabott – a bírságot kiszabó szervre tekintet nélkül – közigazgatási bírság behajtásából, illetve végrehajtásából származó bevétel 40%-a, ha a behajtást, illetve a végrehajtást a települési önkormányzat jegyzője önkormányzati adóhatósági jogkörében eljárva foganatosította,
 

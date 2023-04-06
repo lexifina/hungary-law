@@ -23,3 +23,5 @@ c) 44. § (1) bekezdése szerinti ápolási díj havi alapösszege a 2023. évbe
 a) önköltség összege 1 200 000 forint/fő/év,
 
 b) alapnormatíva összege 650 000 forint/fő/év.
+
+(5) A 2023. évben a szociális vetítési alap összege havonta 28 500 forint.

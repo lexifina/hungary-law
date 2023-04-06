@@ -2,4 +2,4 @@
 
 (2) A XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet, 2. cím, 5. Fejezeti tartalék alcímén szereplő kiadási előirányzat kizárólag az e költségvetési fejezetben szereplő kiadási előirányzatok átcsoportosítás útján történő növelésére használható fel. A XLIV. A Nemzeti Földalappal kapcsolatos bevételek és kiadások fejezet, 2. cím, 5. Fejezeti tartalék alcím kiadási előirányzatának felhasználásáról az agrárpolitikáért felelős miniszter és az államháztartásért felelős miniszter együttesen dönt.
 
-(3) A XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezet, 5. Beruházási tartalék cím kiadási előirányzatának felhasználásáról a XLV. Kiemelt Kormányzati Magasépítési Beruházások fejezetet irányító szerv vezetője és az államháztartásért felelős miniszter együttesen dönt.
+(3) A XLV. Állami Beruházások fejezet, 1. cím, 5. Beruházási tartalék alcím kiadási előirányzatának felhasználásáról a XLV. Állami Beruházások fejezet fejezetet irányító szerv vezetője és az államháztartásért felelős miniszter együttesen dönt.

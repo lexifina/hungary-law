@@ -40,7 +40,7 @@
 
 ## 1.6. Ha az óvoda a fenntartó engedélye alapján hat óránál rövidebb napi nyitvatartási idővel működik, a fenntartásához a központi költségvetésből támogatás nem igényelhető.
 
-## 1.7. Gyógypedagógiai nevelési-oktatási intézmény óvodája esetén nem igényelhető támogatás olyan gyermek után, akinek fővárosi (megyei) kormányhivatal járási hivatala felmentést adott a kötelező óvodai nevelésben való részvétel alól.
+## 1.7. Gyógypedagógiai nevelési-oktatási intézmény óvodája esetén nem igényelhető támogatás olyan gyermek után, akinek fővárosi (vármegyei) kormányhivatal járási hivatala felmentést adott a kötelező óvodai nevelésben való részvétel alól.
 
 ## 1.8. Ha az alapfokú művészeti iskola nem vesz részt a kötelező feladatellátásban, a tanuló a támogatás megállapításánál akkor vehető figyelembe, ha a szolgáltatás igénybevételét fizetési kötelezettséghez kötötték, azt beszedték, valamint a fizetés mértéke eléri legalább az állami alapfokú művészeti iskolára vonatkozó jogszabályban meghatározott térítési díj összegének alsó határát. Ezen szabályt a 2017/2018. tanévtől felmenő rendszerben kell alkalmazni. A Waldorf-iskolák 13. évfolyamos tanulói után nem igényelhető átlagbéralapú és működési támogatás.
 

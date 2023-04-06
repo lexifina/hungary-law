@@ -10,6 +10,4 @@
 
 ## | Megnevezés | Indikatív forráskeret adatok | Európai Gazdasági Térség Finanszírozási Mechanizmus, Norvég Finanszírozási Mechanizmus 2014-2021 | 212 142 765
 
-## 6. melléklet a 2022. évi XXV. törvényhez
-
-Uniós kötelezettségvállalási keretelőirányzatok
+6. melléklet a 2022. évi XXV. törvényhez

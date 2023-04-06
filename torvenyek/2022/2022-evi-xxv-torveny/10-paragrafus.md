@@ -2,11 +2,11 @@
 
 10. § (1) A Szabályozott Tevékenységek Felügyeleti Hatósága 272,0 millió forintot köteles a 2023. évben befizetni a bevételeiből a központi költségvetés részére, amelyek esedékessége az első három negyedév vonatkozásában a negyedévet követő hónap 20. napja, a negyedik negyedévben december 10-e.
 
-(2) A Technológiai és Ipari Minisztérium igazgatása a 2023. évben
+(2) Az Építési és Közlekedési Minisztérium igazgatása a 2023. évben
 
-a) a bevételeiből 20 000,0 millió forintot, továbbá
+a) a bevételeiből 21 428,6 millió forintot, továbbá
 
-b) a közhatalmi bevételei 20 000,0 millió forintot meghaladó részének 30%-át
+b) a közhatalmi bevételei 21 428,6 millió forintot meghaladó részének 30%-át
 
 köteles befizetni a központi költségvetés részére.
 
@@ -16,7 +16,7 @@ köteles befizetni a központi költségvetés részére.
 
 (5) A Magyar Energetikai és Közmű-szabályozási Hivatal 2495,6 millió forintot köteles fizetni a bevételeiből a 2023. évben a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
 
-(6) A fővárosi és a megyei kormányhivatalok 837,4 millió forintot kötelesek befizetni a bevételeikből a 2023. évben a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
+(6) A fővárosi és a vármegyei kormányhivatalok 837,4 millió forintot kötelesek befizetni a bevételeikből a 2023. évben a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
 
 (7) A Szellemi Tulajdon Nemzeti Hivatala 204,6 millió forintot köteles fizetni a bevételeiből a 2023. évben a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
 
@@ -24,4 +24,10 @@ köteles befizetni a központi költségvetés részére.
 
 (9) Felhatalmazást kap a Kormány, hogy a költségvetés 2023. évi hiánycéljának elérése érdekében meghatározza a Kormány irányítása vagy felügyelete alá tartozó és általa kijelölt, központi költségvetésből finanszírozott szervezeteknél végrehajtandó létszámleépítésekből eredő megtakarítás érvényesítésének módját.
 
-(10) A Kormány irányítása vagy felügyelete alá tartozó központi költségvetési szervek 35 000,0 millió forintot kötelesek befizetni a központi költségvetés javára. A befizetés részletszabályait a Kormány rendeletben határozza meg.
+(10) A Kormány irányítása vagy felügyelete alá tartozó központi költségvetési szervek 35 000,0 millió forintot kötelesek befizetni a központi költségvetés javára. A befizetés részletszabályait a Kormány határozatban határozza meg.
+
+(11) A Kormány irányítása alá tartozó központi költségvetési fejezetek és elkülönített állami pénzalapok összesen 250 000,0 millió forintot kötelesek befizetni a 12. melléklet szerinti megosztásban a Magyar Államkincstár „2023. évi befizetések” megnevezésű, 10032000-01200021-09060018 számú számla javára külön jogszabályban meghatározott időpontig. A fejezeteket irányító szervek vezetőinek külön jogszabályban meghatározott időpontig intézkedési tervet kell készíteni a Kormány részére arról, hogy e befizetéshez szükséges megtakarítást milyen módon érik el.
+
+(12) A fejezetet irányító szervek vezetői az államháztartásért felelős miniszter előzetes egyetértésével kezdeményezhetik az intézkedési terv keretében a befizetési kötelezettség 12. mellékletben meghatározott fejezetek közötti nullszaldós átrendezéssel, továbbá e fejezetek irányító szervének irányítása alá tartozó más költségvetési fejezet bevonásával történő teljesítését, amelyet a Kormány az intézkedési terv értékelése során egyedi határozatában engedélyezhet.
+
+(13) A fejezetet irányító szervek vezetői az államháztartásért felelős miniszter előzetes egyetértésével kezdeményezhetik az intézkedési terv keretében a befizetési kötelezettség csökkentését az Áht. 19. § (3) bekezdése szerinti, tervezetten felüli tulajdonosi bevételek teljesítésének összegével. A csökkentést a Kormány az intézkedési terv értékelése során egyedi határozatában engedélyezheti, meghatározva a többletbevétel teljesítésének határidejét, ha a bevétel a Gst. 1. § c) pontja szerinti kormányzati szektor egyenlegét javítja. Ha a többletbevétel teljesítése nem valósul meg, a fejezet a (11) és (12) bekezdés szerint teljesíti befizetési kötelezettségét a Kormány által megállapított határidőben.

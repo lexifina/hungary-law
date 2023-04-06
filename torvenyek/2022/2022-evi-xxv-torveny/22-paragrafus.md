@@ -13,3 +13,5 @@ d) a II. Köztársasági Elnökség fejezet, 2. cím, 2. alcím, 3. jogcímcsopo
 (3) Az Országos Bírósági Hivatal elnöke a VI. Bíróságok fejezet, 3. Fejezeti kezelésű előirányzatok cím terhére átcsoportosíthat a VI. Bíróságok fejezet, 1. Bíróságok és 2. Kúria cím javára.
 
 (4) A Gazdasági Versenyhivatal elnöke a XXX. Gazdasági Versenyhivatal fejezet, 2. cím, 1. OECD ROK alcím terhére átcsoportosíthat a XXX. Gazdasági Versenyhivatal fejezet, 1. Gazdasági Versenyhivatal igazgatása cím javára.
+
+(5) A VI. Bíróságok fejezet, 3. Országos Bírói Tanács címben meghatározott előirányzatok felhasználásának feltétele az Országos Bírói Tanácsot önállóan gazdálkodó központi költségvetési szervvé nyilvánító törvényi rendelkezés hatálybalépése. E hatálybalépés naptári napját az igazságügyért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.

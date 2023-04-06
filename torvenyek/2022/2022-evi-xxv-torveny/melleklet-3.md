@@ -4,7 +4,7 @@ A helyi önkormányzatok kiegészítő támogatásai
 
 I. Előirányzatok és támogatások
 
-## | | Jogcímszám | Támogatási jogcím | Előirányzat (millió forintban) | 1 | 2. | A helyi önkormányzatok működési célú kiegészítő támogatásai | | 2 | 2.1. | A helyi önkormányzatok általános feladatainak működési célú támogatása | | 3 | 2.1.1. | Lakossági víz- és csatornaszolgáltatás támogatása | 4 500,0 | 4 | 2.1.2. | A kéményseprő-ipari közszolgáltatás helyi önkormányzat általi ellátásának támogatása | 100,0 | 5 | 2.1.3. | A kötelezően ellátandó helyi közösségi közlekedési feladat támogatása | 12 000,0 | 6 | 2.1.4. | A nem közművel összegyűjtött háztartási szennyvíz ideiglenes begyűjtésére kijelölt közérdekű közszolgáltató meg nem térülő költségeinek támogatása | 280,0 | 7 | 2.1.5. | Önkormányzatok rendkívüli támogatása | 5 500,0 | 8 | 2.1.6. | Önkormányzati elszámolások | 11 724,0 | 9 | 2.1.7. | Megyei önkormányzatok feladatainak támogatása | 5 488,1 | 10 | 2.1.8. | A jogellenesen elhelyezett hulladék felszámolásának támogatása | 1 000,0 | 11 | 2.2. | A települési önkormányzatok egyes szociális és gyermekjóléti feladatainak működési célú támogatása | | 12 | 2.2.1. | A települési önkormányzatok szociális célú tüzelőanyag vásárlásához kapcsolódó támogatása | 5 000,0 | 13 | 2.2.2. | Szociális ágazati összevont pótlék és egészségügyi kiegészítő pótlék | 29 241,1 | 14 | 2.2.3. | Óvodai és iskolai szociális segítő tevékenység támogatása | 5 519,5 | 15 | 2.3. | A települési önkormányzatok kulturális feladatainak működési célú támogatása | | 16 | 2.3.1. | Pécs Megyei Jogú Város Önkormányzat kulturális feladatainak támogatása | 1 720,0 | 17 | 2.3.2. | Települési önkormányzatok kulturális feladatainak kiegészítő támogatása | | 18 | 2.3.2.1. | Megyei hatókörű városi múzeumok feladatainak támogatása | 3 778,3 | 19 | 2.3.2.2. | Megyei hatókörű városi könyvtárak feladatainak támogatása | 4 115,0 | 20 | 2.3.2.3. | A települési önkormányzatok muzeális intézményi feladatainak támogatása | 1 238,1 | 21 | 2.3.2.4. | A települési önkormányzatok könyvtári célú érdekeltségnövelő támogatása | 300,0 | 22 | 2.3.2.5. | Táncművészeti szervezetek támogatása | 426,4 | 23 | 2.3.2.6. | Zeneművészeti szervezetek támogatása | 4 301,7 | 24 | 2.3.3. | Települési önkormányzatok kulturális feladatainak bérjellegű támogatása | 11 552,4 | 25 | 3. | A helyi önkormányzatok felhalmozási célú kiegészítő támogatásai | | 26 | 3.1. | Vis maior támogatás | 4 000,0 | 27 | 3.2. | Kompok, révek fenntartásának, felújításának támogatása | 390,0 | 28 | 3.3. | Belterületi utak, járdák, hidak felújítása | 500,0 | 29 | 3.4. | Ózdi martinsalak felhasználása miatt kárt szenvedett lakóépületek tulajdonosainak kártalanítása | 300,0 | 30 | 3.5. | Normafa Park beruházás támogatása | 1 530,0 | 31 | 3.6. | Kisbér Város városközpontja megújításának támogatása | 576,9
+## | | Jogcímszám | Támogatási jogcím | Előirányzat (millió forintban) | 1 | 2. | A helyi önkormányzatok működési célú kiegészítő támogatásai | | 2 | 2.1. | A helyi önkormányzatok általános feladatainak működési célú támogatása | | 3 | 2.1.1. | Lakossági víz- és csatornaszolgáltatás támogatása | 4 500,0 | 4 | 2.1.2. | A kéményseprő-ipari közszolgáltatás helyi önkormányzat általi ellátásának támogatása | 100,0 | 5 | 2.1.3. | A kötelezően ellátandó helyi közösségi közlekedési feladat támogatása | 12 000,0 | 6 | 2.1.4. | A nem közművel összegyűjtött háztartási szennyvíz ideiglenes begyűjtésére kijelölt közérdekű közszolgáltató meg nem térülő költségeinek támogatása | 280,0 | 7 | 2.1.5. | Önkormányzatok rendkívüli támogatása | 5 500,0 | 8 | 2.1.6. | Önkormányzati elszámolások | 7 724,0 | 9 | 2.1.7. | Vármegyei önkormányzatok feladatainak támogatása | 5 488,1 | 10 | 2.1.8. | A jogellenesen elhelyezett hulladék felszámolásának támogatása | 1 000,0 | 10a | 2.1.9. | A 10 000 lakos feletti önkormányzatok energiaáremelkedés miatti támogatása | 0,0 | 11 | 2.2. | A települési önkormányzatok egyes szociális és gyermekjóléti feladatainak működési célú támogatása | | 12 | 2.2.1. | A települési önkormányzatok szociális célú tüzelőanyag vásárlásához kapcsolódó támogatása | 5 000,0 | 13 | 2.2.2. | Szociális ágazati összevont pótlék és egészségügyi kiegészítő pótlék | 29 241,1 | 14 | 2.2.3. | Óvodai és iskolai szociális segítő tevékenység támogatása | 5 519,5 | 15 | 2.3. | A települési önkormányzatok kulturális feladatainak működési célú támogatása | | 16 | 2.3.1. | Pécs Megyei Jogú Város Önkormányzat kulturális feladatainak támogatása | 1 720,0 | 17 | 2.3.2. | Települési önkormányzatok kulturális feladatainak kiegészítő támogatása | | 18 | 2.3.2.1. | Vármegyei hatókörű városi múzeumok feladatainak támogatása | 3 778,3 | 19 | 2.3.2.2. | Vármegyei hatókörű városi könyvtárak feladatainak támogatása | 4 115,0 | 20 | 2.3.2.3. | A települési önkormányzatok muzeális intézményi feladatainak támogatása | 1 238,1 | 21 | 2.3.2.4. | A települési önkormányzatok könyvtári célú érdekeltségnövelő támogatása | 300,0 | 22 | 2.3.2.5. | Táncművészeti szervezetek támogatása | 426,4 | 23 | 2.3.2.6. | Zeneművészeti szervezetek támogatása | 4 301,7 | 24 | 2.3.3. | Települési önkormányzatok kulturális feladatainak bérjellegű támogatása | 11 552,4 | 25 | 3. | A helyi önkormányzatok felhalmozási célú kiegészítő támogatásai | | 26 | 3.1. | Vis maior támogatás | 2 686,9 | 27 | 3.2. | Kompok, révek fenntartásának, felújításának támogatása | 390,0 | 28 | | | | 29 | 3.4. | Ózdi martinsalak felhasználása miatt kárt szenvedett lakóépületek tulajdonosainak kártalanítása | 300,0 | 30 | 3.5. | Normafa Park beruházás támogatása | 820,0 | 31 | | |
 
 II. Támogatások megállapításának, felhasználásának és elszámolásának szabályai
 
@@ -120,23 +120,23 @@ h) a „Sikeres Magyarországért Panel Plusz” Hitelprogram keretében lakáss
 
 i) az előirányzat szolgál fedezetül a helyi önkormányzat és társulása számára a Svájci-Magyar Együttműködési Program fejlesztési célú pályázataihoz szükséges saját forrás kiegészítésére a korábbi években megítélt és támogatási szerződésben rögzített központi költségvetési támogatásból adódó fizetési kötelezettségek teljesítésére,
 
-j) az előirányzatból 1 500,0 millió forint a bölcsődei fejlesztési program célját szolgálja,
+j)
 
 k) a mikro-, kis- és középvállalkozások 2022. évi iparűzési adókedvezményével kapcsolatos önkormányzati támogatásról szóló 61/2022. (II. 28.) Korm. rendelet 5. § szerint az önkormányzatot megillető kiegészítő támogatás. A kiegészítő támogatás folyósítása a november havi nettó finanszírozás keretében történik,
 
-l) az előirányzatból 2 500,0 millió forint a Zalaegerszeg külterületén található északi ipari park infrastruktúra fejlesztésével összefüggő közműfejlesztés és közműcsatlakozások megvalósításához szükséges intézkedésekről, valamint a beruházás központi költségvetésből történő támogatásáról szóló 1314/2021. (V. 27.) Korm. határozat alapján Zalaegerszeg Megyei Jogú Város Önkormányzata által megvalósítandó a Ságodi-patak és a záportározó-fejlesztés kivitelezésének támogatását szolgálja.
+l)
 
 6.4. A 6.3. pont f) alpontja szerint biztosított támogatás felhasználási határideje tárgyévet követő év december 31.
 
 6.5. A 6.3. pont h) alpontja szerint biztosított támogatás szempontjából kizárólag az egységes rovatrend „Ellátottak pénzbeli juttatásai” megfelelő rovatain elszámolt kiadások vehetők figyelembe.
 
-6.6. A IX. Helyi önkormányzatok támogatásai fejezetben első ízben 2018. évben létrehozott Bölcsődei fejlesztési program cím terhére biztosított támogatás felhasználási határideje a támogatás folyósításának évét követő második év december 31-e.
+6.6.
 
-7. 2.1.7. Megyei önkormányzatok feladatainak támogatása jogcím
+7. 2.1.7. Vármegyei önkormányzatok feladatainak támogatása jogcím
 
-7.1. A jogcím a megyei önkormányzatok feladataihoz kapcsolódó kiadások támogatását szolgálja.
+7.1. A jogcím a vármegyei önkormányzatok feladataihoz kapcsolódó kiadások támogatását szolgálja.
 
-7.2. A megyei önkormányzatokat megillető támogatás összegét az alábbi táblázat tartalmazza:
+7.2. A vármegyei önkormányzatokat megillető támogatás összegét az alábbi táblázat tartalmazza:
 
 |
 
@@ -152,7 +152,7 @@ B
 
 |
 
-Megyei önkormányzatok
+Vármegyei önkormányzatok
 
 |
 
@@ -166,7 +166,7 @@ Támogatás
 
 |
 
-Baranya Megyei Önkormányzat
+Baranya Vármegyei Önkormányzat
 
 |
 
@@ -178,7 +178,7 @@ Baranya Megyei Önkormányzat
 
 |
 
-Bács-Kiskun Megyei Önkormányzat
+Bács-Kiskun Vármegyei Önkormányzat
 
 |
 
@@ -190,7 +190,7 @@ Bács-Kiskun Megyei Önkormányzat
 
 |
 
-Békés Megyei Önkormányzat
+Békés Vármegyei Önkormányzat
 
 |
 
@@ -202,7 +202,7 @@ Békés Megyei Önkormányzat
 
 |
 
-Borsod-Abaúj-Zemplén Megyei Önkormányzat
+Borsod-Abaúj-Zemplén Vármegyei Önkormányzat
 
 |
 
@@ -214,7 +214,7 @@ Borsod-Abaúj-Zemplén Megyei Önkormányzat
 
 |
 
-Csongrád-Csanád Megyei Önkormányzat
+Csongrád-Csanád Vármegyei Önkormányzat
 
 |
 
@@ -226,7 +226,7 @@ Csongrád-Csanád Megyei Önkormányzat
 
 |
 
-Fejér Megyei Önkormányzat
+Fejér Vármegyei Önkormányzat
 
 |
 
@@ -238,7 +238,7 @@ Fejér Megyei Önkormányzat
 
 |
 
-Győr-Moson-Sopron Megyei Önkormányzat
+Győr-Moson-Sopron Vármegyei Önkormányzat
 
 |
 
@@ -250,7 +250,7 @@ Győr-Moson-Sopron Megyei Önkormányzat
 
 |
 
-Hajdú-Bihar Megyei Önkormányzat
+Hajdú-Bihar Vármegyei Önkormányzat
 
 |
 
@@ -262,7 +262,7 @@ Hajdú-Bihar Megyei Önkormányzat
 
 |
 
-Heves Megyei Önkormányzat
+Heves Vármegyei Önkormányzat
 
 |
 
@@ -274,7 +274,7 @@ Heves Megyei Önkormányzat
 
 |
 
-Jász-Nagykun-Szolnok Megyei Önkormányzat
+Jász-Nagykun-Szolnok Vármegyei Önkormányzat
 
 |
 
@@ -286,7 +286,7 @@ Jász-Nagykun-Szolnok Megyei Önkormányzat
 
 |
 
-Komárom-Esztergom Megyei Önkormányzat
+Komárom-Esztergom Vármegyei Önkormányzat
 
 |
 
@@ -298,7 +298,7 @@ Komárom-Esztergom Megyei Önkormányzat
 
 |
 
-Nógrád Megyei Önkormányzat
+Nógrád Vármegyei Önkormányzat
 
 |
 
@@ -310,7 +310,7 @@ Nógrád Megyei Önkormányzat
 
 |
 
-Pest Megyei Önkormányzat
+Pest Vármegyei Önkormányzat
 
 |
 
@@ -322,7 +322,7 @@ Pest Megyei Önkormányzat
 
 |
 
-Somogy Megyei Önkormányzat
+Somogy Vármegyei Önkormányzat
 
 |
 
@@ -334,7 +334,7 @@ Somogy Megyei Önkormányzat
 
 |
 
-Szabolcs-Szatmár-Bereg Megyei Önkormányzat
+Szabolcs-Szatmár-Bereg Vármegyei Önkormányzat
 
 |
 
@@ -346,7 +346,7 @@ Szabolcs-Szatmár-Bereg Megyei Önkormányzat
 
 |
 
-Tolna Megyei Önkormányzat
+Tolna Vármegyei Önkormányzat
 
 |
 
@@ -358,7 +358,7 @@ Tolna Megyei Önkormányzat
 
 |
 
-Vas Megyei Önkormányzat
+Vas Vármegyei Önkormányzat
 
 |
 
@@ -370,7 +370,7 @@ Vas Megyei Önkormányzat
 
 |
 
-Veszprém Megyei Önkormányzat
+Veszprém Vármegyei Önkormányzat
 
 |
 
@@ -382,7 +382,7 @@ Veszprém Megyei Önkormányzat
 
 |
 
-Zala Megyei Önkormányzat
+Zala Vármegyei Önkormányzat
 
 |
 
@@ -411,6 +411,14 @@ Zala Megyei Önkormányzat
 8.4. Az Áht. szerinti támogató a hulladékgazdálkodásért felelős miniszter.
 
 8.5. A támogatás folyósítása előfinanszírozás keretében, egy összegben történik.
+
+8a. 2.1.9. A 10 000 lakos feletti önkormányzatok energiaáremelkedés miatti támogatása jogcím
+
+8a.1. Az önkormányzatok által készített menedzsment terv alapján a Miniszterelnökséget vezető miniszter Budapest Főváros Önkormányzata és a 10 000 lakos feletti önkormányzatok számára, az önkormányzatok egy lakosra jutó iparűzési adóerő-képessége figyelembevétele mellett 2023. január 10-éig döntött a támogatás összegéről.
+
+8a.2. A támogatás szempontjából a kötelező önkormányzati feladatokkal összefüggésben felmerülő, energiaár-emelkedés miatti kiadások vehetők figyelembe.
+
+8a.3. A támogatás felhasználási határideje a tárgyévet követő év december 31-e.
 
 9. 2.2.1. A települési önkormányzatok szociális célú tüzelőanyag vásárlásához kapcsolódó támogatása jogcím
 
@@ -448,9 +456,9 @@ Zala Megyei Önkormányzat
 
 12.2. A támogatás teljes összegének folyósítása a szerződéskötést követő 30 napon belül történik, felhasználási határideje tárgyév december 31-e.
 
-13. 2.3.2.1. Megyei hatókörű városi múzeumok feladatainak támogatása jogcím
+13. 2.3.2.1. Vármegyei hatókörű városi múzeumok feladatainak támogatása jogcím
 
-13.1. A jogcím a megyeszékhely megyei jogú városok önkormányzatát (Tatabánya Megyei Jogú Város Önkormányzatának kivételével), Szentendre Város Önkormányzatát és Tata Város Önkormányzatát illeti meg a megyei hatókörű városi múzeumok fenntartására és állami feladatainak ellátására.
+13.1. A jogcím a vármegyeszékhely megyei jogú városok önkormányzatát (Tatabánya Megyei Jogú Város Önkormányzatának kivételével), Szentendre Város Önkormányzatát és Tata Város Önkormányzatát illeti meg a vármegyei hatókörű városi múzeumok fenntartására és állami feladatainak ellátására.
 
 13.2. Az önkormányzatokat megillető, jogcímenként és szervezetenként megállapított támogatás éves összegét a kultúráért felelős miniszter 2022. december 20-áig állapítja meg.
 
@@ -460,9 +468,9 @@ Zala Megyei Önkormányzat
 
 13.5. A támogatás felhasználásáról az önkormányzat 2024. március 31-éig adatszolgáltatást köteles teljesíteni, amelynek formáját, tartalmát és rendjét a kultúráért felelős miniszter által kiadott Útmutató rögzíti.
 
-14. 2.3.2.2. Megyei hatókörű városi könyvtárak feladatainak támogatása jogcím
+14. 2.3.2.2. Vármegyei hatókörű városi könyvtárak feladatainak támogatása jogcím
 
-14.1. A támogatás a megyeszékhely megyei jogú városok önkormányzatát és Szentendre Város Önkormányzatát illeti meg a megyei hatókörű városi könyvtárak fenntartására és állami feladatainak ellátására.
+14.1. A támogatás a vármegyeszékhely megyei jogú városok önkormányzatát és Szentendre Város Önkormányzatát illeti meg a vármegyei hatókörű városi könyvtárak fenntartására és állami feladatainak ellátására.
 
 14.2. Az önkormányzatokat megillető, jogcímenként és szervezetenként megállapított támogatás éves összegét a kultúráért felelős miniszter 2022. december 20-áig állapítja meg.
 
@@ -494,7 +502,7 @@ d) az önkormányzat által fenntartott muzeális intézmények száma,
 
 e) az önkormányzat területi elhelyezkedése.
 
-15.3. A támogatásból a 2.3.2.1. Megyei hatókörű városi múzeumok feladatainak támogatása jogcímen támogatásban részesülő önkormányzatok, Budapest Főváros Önkormányzata és a fővárosi kerületek önkormányzatai nem részesülhetnek.
+15.3. A támogatásból a 2.3.2.1. Vármegyei hatókörű városi múzeumok feladatainak támogatása jogcímen támogatásban részesülő önkormányzatok, Budapest Főváros Önkormányzata és a fővárosi kerületek önkormányzatai nem részesülhetnek.
 
 15.4. A támogatás 12 %-ának folyósítása január hónap utolsó munkanapját megelőző második munkanapon, majd ezt követően az Ávr-ben meghatározottak szerint történik.
 
@@ -506,7 +514,7 @@ e) az önkormányzat területi elhelyezkedése.
 
 16.1. A Kult. tv. 64. § (2) bekezdés a) pontja alapján az önkormányzatot a települési nyilvános könyvtár állománygyarapítására és a nyilvános könyvtár technikai, informatikai, műszaki eszközeinek, berendezési tárgyainak gyarapítására támogatás illeti meg.
 
-16.2. A támogatás összegét a települési nyilvános könyvtárat, illetve megyei hatókörű városi könyvtárat fenntartó önkormányzatok által a 2022. évben a saját bevételeik terhére biztosított állománygyarapításra fordított összegek (a továbbiakban: 2022. évi önkormányzati hozzájárulás) arányában kell megállapítani.
+16.2. A támogatás összegét a települési nyilvános könyvtárat, illetve vármegyei hatókörű városi könyvtárat fenntartó önkormányzatok által a 2022. évben a saját bevételeik terhére biztosított állománygyarapításra fordított összegek (a továbbiakban: 2022. évi önkormányzati hozzájárulás) arányában kell megállapítani.
 
 16.3. A 2022. évi önkormányzati hozzájárulás megállapításakor nem vehetők figyelembe az állami támogatások sem a pályázati forrásból sem az Országos Dokumentum-ellátási Rendszer támogatásából származó összeg.
 
@@ -584,29 +592,7 @@ Ei = az előirányzat összege,
 
 21.5. A támogatásból a működtetésre szolgáló támogatás felhasználásának határideje a tárgyév december 31-e, a fenntartásra, felújításra, fejlesztésre és beszerzésre szolgáló támogatás felhasználásának határideje a tárgyévet követő év december 31-e.
 
-22. 3.3. Belterületi utak, járdák, hidak felújítása jogcím
-
-22.1. Az önkormányzat - Budapest Főváros Önkormányzata kivételével - pályázati úton igényelhet támogatást a közigazgatási területén, tulajdonában lévő út, híd és járda felújítására, karbantartására.
-
-22.2. A pályázatot a helyi önkormányzatokért felelős miniszter az államháztartásért felelős miniszter egyetértésével írja ki.
-
-22.3. Az igényelhető támogatás maximális mértéke:
-
-a) fővárosi kerületi önkormányzatok esetében 60,0 millió forint,
-
-b) megyei jogú városok esetében 50,0 millió forint,
-
-c) 10 000 fő vagy azt meghaladó lakosságszámú települések esetében 40,0 millió forint,
-
-d) 10 000 fő lakosságszám alatti települések esetében 20,0 millió forint.
-
-22.4. Nem nyújtható támogatás olyan pályázathoz, amely a megjelölt műszaki tartalomra uniós vagy egyéb nemzeti támogatásban részesül.
-
-22.5. A támogatásról a helyi önkormányzatokért felelős miniszter dönt.
-
-22.6. A támogatás folyósítása előfinanszírozás keretében, egy összegben történik.
-
-22.7. A támogatásból létrehozott ingatlanvagyon a beruházás megvalósításától számított tíz évig nem idegeníthető el.
+22.
 
 23. 3.4. Ózdi martinsalak felhasználása miatt kárt szenvedett lakóépületek tulajdonosainak kártalanítása jogcím
 
@@ -616,29 +602,19 @@ d) 10 000 fő lakosságszám alatti települések esetében 20,0 millió forint.
 
 24. 3.5. Normafa Park beruházás támogatása jogcím
 
-24.1. A jogcím szolgál az egykori zugligeti villamos végállomás műemlék épületének és környezetének fun kcióbővítő rehabilitációjához és a Normafa Síház épületének funkcióbővítő felújításához és átalakításához, pavilonnal történő bővítéséhez és a környező területek rendezéséhez biztosítandó 2 530,0 millió forint támogatás 2023. évi ütemének fedezetéül.
+24.1. A jogcím szolgál a Normafa Park projekt megvalósításával kapcsolatos beruházásokhoz biztosítandó 1 820,0 millió forint támogatás 2023. évi ütemének fedezetéül.
 
-24.2. A helyi önkormányzatokért felelős miniszter a 2 530,0 millió forint támogatás felhasználásának részletes szabályairól támogatói okiratot ad ki Budapest Főváros XII. kerület Hegyvidéki Önkormányzata számára oly módon, hogy
+24.2. A helyi önkormányzatokért felelős miniszter a 1 820,0 millió forint támogatás felhasználásának részletes szabályairól támogatói okiratot ad ki Budapest Főváros XII. kerület Hegyvidéki Önkormányzata számára oly módon, hogy
 
-a) a 2023. évi 1 530,0 millió forint támogatás 50 %-ának megfelelő előleg folyósítása a támogatói okirat kiadását követő 30 napon belül történik,
+a) a 2023. évi 820,0 millió forint támogatás 50%-ának megfelelő előleg folyósítása a támogatói okirat kiadását követő 30 napon belül történik,
 
-b) a további részlet tárgyévi - támogatói okirat szerinti - folyósítására csak abban az esetben kerülhet sor, ha az önkormányzat az előleget felhasználja és azzal legkésőbb tárgyév november 15-éig elszámol,
+b) a további részlet tárgyévi – támogatói okirat szerinti – folyósítására csak abban az esetben kerülhet sor, ha az önkormányzat az előleget felhasználja és azzal legkésőbb tárgyév november 15-éig elszámol,
 
 c) a további 1 000,0 millió forint támogatás biztosítására 2024-ben kerül sor.
 
 24.3. A 2023. évi támogatás felhasználási határideje - ideértve a tárgyév november 15-éig el nem számolt előleget is - tárgyévet követő év december 31-e.
 
-25. 3.6. Kisbér Város városközpontja megújításának támogatása jogcím
-
-25.1. A jogcím szolgál Kisbér Város városközpontja megújítására.
-
-25.2. A támogatás felhasználásának részletes szabályairól a helyi önkormányzatokért felelős miniszter támogatói okiratot ad ki Kisbér Város Önkormányzata számára oly módon, hogy
-
-a) a támogatás 50 %-ának megfelelő előleg folyósítása a támogatói okirat kiadását követő 30 napon belül történik és
-
-b) a további részletek tárgyévi - támogatói okirat szerinti - folyósítására csak abban az esetben kerülhet sor, ha az önkormányzat az előleget felhasználja és azzal legkésőbb tárgyév november 15-éig elszámol.
-
-25.3. A támogatás felhasználási határideje - ideértve a tárgyév november 15-éig el nem számolt előleget is - tárgyévet követő év december 31-e.
+25.
 
 26. Az e melléklet szerinti támogatások igénylési és döntési eljárására nem kell alkalmazni az Ákr. szabályait.
 
