@@ -16,4 +16,6 @@ A Kormány
 
 | Határidő: | a 3. pont szerinti forrás rendelkezésre állását követően azonnal |
 
-5. a boconádi Szeleczky-kastély felújításához szükséges forrás biztosításáról szóló 1173/2022. (III. 22.) Korm. határozatot visszavonja.
+5.[^1]
+
+[^1]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
