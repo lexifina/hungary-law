@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-101-00-00
 | 2022-01-31 | 4/2021. (XII. 6.) EMMI határozat | 2021-101-00-00.28 |
 | 2022-02-01 | 2010. évi CXXX. törvény | 2021-101-00-00.29 |
 | 2023-01-01 | 2022. évi LXVIII. törvény | 2021-101-00-00.30 |
+| 2023-04-06 | 2023. évi VII. törvény | 2021-101-00-00.31 |
