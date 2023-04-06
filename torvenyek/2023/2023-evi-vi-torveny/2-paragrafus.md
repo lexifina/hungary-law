@@ -1,0 +1,3 @@
+2. § A Kvtv. 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az államháztartásért felelős miniszter április 30-ig és október 31-ig előrejelzést készít a bruttó hazai össztermék 2023. évi várható éves reálnövekedésről. Amennyiben ezen előrejelzett reálnövekedés nagyobb mint 1,5%, akkor előrejelzést készít a tervezettnél magasabb reálnövekedés miatt keletkező eredményszemléletű éves adó- és adójellegű bevételi többletről, s ezzel egyidejűleg e többlettel azonos összegben – levonva abból a fizetendő nyugdíjprémium tervezetten felüli összegét – csökkenti a Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: Gst.) szerinti kormányzati szektor egyenleg 2023. évre vonatkozó kormányzati célértékét.”

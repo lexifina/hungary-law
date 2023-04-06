@@ -1,0 +1,3 @@
+17. § A Kvtv. 43. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A 2. melléklet, a 3. melléklet 2.1.7. Vármegyei önkormányzatok feladatainak támogatása jogcím, 2.1.9. A 10 000 lakos feletti önkormányzatok energiaáremelkedés miatti támogatása jogcím, 2.2.2. Szociális ágazati összevont pótlék és egészségügyi kiegészítő pótlék jogcím, 2.2.3. Óvodai és iskolai szociális segítő tevékenység támogatása jogcím, 2.3.2. Települési önkormányzatok kulturális feladatainak kiegészítő támogatása jogcím, 2.3.3. Települési önkormányzatok kulturális feladatainak bérjellegű támogatása jogcím és a 6.3. pont e) és k) alpontja szerinti támogatás folyósítása nettó finanszírozás keretében történik.”
