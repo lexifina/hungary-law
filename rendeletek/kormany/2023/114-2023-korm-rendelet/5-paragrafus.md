@@ -1,0 +1,1 @@
+5. § A Hivatal a 4. § (7) bekezdésében foglalt tájékoztatási határidőt követő 12 munkanapon belül hirdetményt tesz közzé a felhasználók esetében elismert, indokolt költség alapját képező földgáz referenciaáráról.
