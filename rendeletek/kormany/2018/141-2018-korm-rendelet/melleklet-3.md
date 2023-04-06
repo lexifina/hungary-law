@@ -242,8 +242,10 @@
 
 | 112. | Logisztikai raktárcsarnok építésére és kiegészítő funkciók kialakítására irányuló beruházás Tát város területén | Tát külterület 072/4 helyrajzi számú ingatlan, valamint Tát belterület 1788/42 és 1788/50 helyrajzi számú ingatlanok | Komárom-Esztergom Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^334]
+| 113. | Okosgyár kialakítására irányuló beruházás Dunavecse város területén | Dunavecse város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0254/3 helyrajzi számú ingatlan | Bács-Kiskun Vármegyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^336]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^334]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^336]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
