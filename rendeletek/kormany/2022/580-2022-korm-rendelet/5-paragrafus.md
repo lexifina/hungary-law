@@ -1,1 +1,0 @@
-5. § A Kvtv. 2. melléklet 12.3. pontjában foglaltaktól eltérően a polgármesteri tisztség betöltésének módját az OSAP-jelentés 1621 „Önkormányzati törzsadattár” 2022. évi adatgyűjtése szerint kell figyelembe venni.

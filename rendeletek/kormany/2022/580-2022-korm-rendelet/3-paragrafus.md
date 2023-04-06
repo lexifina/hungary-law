@@ -1,5 +1,0 @@
-3. § (1) A Kvtv. 2. mellékletében foglaltaktól eltérően a Kvtv. 2. melléklet 1.1.1.3. Településüzemeltetés – közvilágítás támogatása jogcímen biztosított támogatás mellett az önkormányzatok által nyújtott adatszolgáltatás alapján az államháztartásért felelős miniszter az e rendelet kihirdetését követő napig a Kvtv. 2. melléklet 1.1.5. Közvilágítás kiegészítő támogatása jogcímen a 0 lakosságszámú települési önkormányzat kivételével a 10 000 lakos alatti önkormányzatok számára, az önkormányzatok egy lakosra jutó iparűzési adóerő-képessége figyelembevétele mellett kiegészítő támogatásról dönt.
-
-(2) A Kvtv. 2. mellékletében foglaltaktól eltérően az önkormányzatok által a Kvtv. 2. melléklet 1.6. pont szerinti tájékoztató és értesítő alapján kezdeményezett évközi előirányzat-módosítások alapján az államháztartásért felelős miniszter az (1) bekezdés szerinti döntését módosíthatja.
-
-(3) A Kvtv. 2. mellékletében foglaltaktól eltérően az (1) bekezdés szerinti támogatás szempontjából kizárólag a „Közvilágítás” kormányzati funkción elszámolt kiadások vehetők figyelembe.
