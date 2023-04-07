@@ -1,3 +1,3 @@
-3. § A Korm. rendelet a következő 10. §-sal egészül ki:
+3. §[^4]
 
-„10. § E rendeletnek a Debrecen megyei jogú város külterületén, az Észak-Nyugati Gazdasági Övezetben ipari telephely kialakításával és a területen megvalósuló munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 58/2018. (III. 26.) Korm. rendelet módosításáról szóló 119/2023. (IV. 5.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 3. § (1) és (3) bekezdését, valamint 3/A. §-át a Módr5. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

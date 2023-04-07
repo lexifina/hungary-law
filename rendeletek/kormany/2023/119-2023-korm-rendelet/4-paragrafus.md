@@ -1,1 +1,3 @@
-4. § A Korm. rendelet 3. § (1) bekezdésében az „a Beruházásokkal” szövegrész helyébe az „– a (3) bekezdésben foglalt kivétellel – a Beruházásokkal” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
