@@ -10,16 +10,10 @@ dr. Búza Évát
 
 a Magyar Nemzeti Bank Monetáris Tanácsa tagjává megválasztja.
 
-2. Hatályát veszti a Magyar Nemzeti Bank monetáris tanácsa tagjainak megválasztásáról szóló 11/2011. (III. 9.) OGY határozat 1. pontjában
-
-a) [^2]
-
-b) a „dr. Kocziszky Györgyöt 2017. április 6-i hatállyal – hat évre – a Magyar Nemzeti Bank monetáris tanácsa tagjává”
-
-szövegrész.
+2.[^2]
 
 3. Ez a határozat – a 4. pontban foglalt kivétellel – az elfogadásakor lép hatályba.
 
 4. A 2. pont b) alpontja 2023. április 6-án lép hatályba.
 
-[^2]: A 2. pont a) alpontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
