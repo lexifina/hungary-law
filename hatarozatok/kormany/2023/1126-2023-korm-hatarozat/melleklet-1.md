@@ -14,13 +14,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat
-
-## a) 1. melléklet 2. pontjában foglalt táblázat C:6 mezőjében a „43,35” szövegrész helyébe a „41,49” szöveg,
-
-## b) 1. melléklet 2. pontjában foglalt táblázat C:9 mezőjében a „27,514” szövegrész helyébe a „29,37” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1126/2023. (IV. 5.) Korm. határozathoz
 
@@ -29,3 +23,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | GINOP-2.3.1-20-2020-00004 | Nemzeti Gyártó-Kutató-Oktató középüzem létrehozása és Gyógyszertudományi Kar építés (High-Tech) | Debreceni Egyetem | 7 436 340 000 | 1 857 998 797 | 9 294 338 797 | A projekt célja egy olyan integrált kutatási-oktatási és gyártó infrastruktúra létrehozása, amely az ipar és az akadémiai szektor szinergista együttműködésével teremti meg az egészségipari kutatások szintlépéséhez szükséges feltételeket, egyszersmind gyártókapacitást biztosít az innovatív egészségipari termékek számára. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
