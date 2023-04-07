@@ -1,3 +1,1 @@
-20. § A Kvtv. 74. §-a helyébe a következő rendelkezés lép:
-
-„74. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 25. § (4) bekezdése szerinti egészségügyi szolgáltatási járulék összeg 9600 forint/fő/hó.”
+### 20. §
