@@ -186,6 +186,8 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 24. | AD 2.24 | Adatok a következő ICAO térképek előállításához: repülőtér és helikopter-leszállóhely térképe, légijárművek parkolási térképe, repülőtéri földi mozgások térképe, repülőtéri akadályok A típusú térképe (minden egyes futópályára), precíziós megközelítés domborzati térképe (II-es és III-as kategóriás precíziós megközelítésű futópályákra), a repülőtér közvetlen környezetében található madárkolóniákat és élőhelyeket bemutató térkép | nem |  |
 
+| 25. | AD 2.25 | a csökkent látási viszonyok között követendő eljárások | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
+
 7. A légiközlekedési balesetek kivizsgálását végző szervezet által megadandó tájékoztatások
 
 |  | A | B | C | D |
@@ -380,4 +382,4 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 23. | AD 2.24 | A repülőtérrel kapcsolatos navigációs térképek | nem |  |
 
-[^93]: A Vhr. 1. mellékletét a 28/2019. (III. 1.) Korm. rendelet 3. §-a iktatta be, szövege a 609/2021. (XI. 5.) Korm. rendelet 3. §-a, a 176/2022. (IV. 29.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^93]: A Vhr. 1. mellékletét a 28/2019. (III. 1.) Korm. rendelet 3. §-a iktatta be, szövege a 609/2021. (XI. 5.) Korm. rendelet 3. §-a, a 176/2022. (IV. 29.) Korm. rendelet 5. §-a, a 116/2023. (IV. 5.) Korm. rendelet 1. §-a szerint módosított szöveg.
