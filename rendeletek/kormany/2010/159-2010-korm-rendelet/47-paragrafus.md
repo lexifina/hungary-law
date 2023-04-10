@@ -1,5 +1,5 @@
 ## 22. Hatályon kívül helyezés
 
-47. §[^108]
+47. §[^117]
 
-[^108]: A 47. §-t a 48. § (1) bekezdése hatályon kívül helyezte.
+[^117]: A 47. §-t a 48. § (1) bekezdése hatályon kívül helyezte.

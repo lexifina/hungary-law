@@ -1,4 +1,4 @@
-1. melléklet a 159/2010. (V. 6.) Korm. rendelethez[^110]
+1. melléklet a 159/2010. (V. 6.) Korm. rendelethez[^119]
 
 A repülőtér területén lévő általános építmények
 
@@ -8,4 +8,4 @@ A repülőtér területén lévő általános építmények
 
 3. Irányítótorony épület
 
-[^110]: Az 1. melléklet a 207/2014. (VIII. 15.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^119]: Az 1. melléklet a 207/2014. (VIII. 15.) Korm. rendelet 17. §-ával megállapított szöveg.

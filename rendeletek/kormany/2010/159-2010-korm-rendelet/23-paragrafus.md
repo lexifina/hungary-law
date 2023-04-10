@@ -12,7 +12,7 @@ c) nem változtatja meg az alkalmazott berendezéseket, és
 
 d) nem létesítési engedélyköteles.
 
-(2)[^52] Az eltérés engedélyezése iránti kérelemhez kell csatolni az eltérés jellegétől függően
+(2)[^56] Az eltérés engedélyezése iránti kérelemhez kell csatolni az eltérés jellegétől függően
 
 a) a helyszínrajzi elhelyezés változása esetén módosított helyszínrajzot,
 
@@ -26,4 +26,4 @@ d) – ha az eltérés a repülőtér védelmi szintjének és módjának megvá
 
 (4) Az eltérés engedélyezése során – az eltérés jellegétől függően – a létesítési engedély módosítható.
 
-[^52]: A 23. § (2) bekezdés nyitó szövegrésze a 477/2016. (XII. 27.) Korm. rendelet 48. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^56]: A 23. § (2) bekezdés nyitó szövegrésze a 477/2016. (XII. 27.) Korm. rendelet 48. § (2) bekezdés d) pontja szerint módosított szöveg.
