@@ -1,6 +1,6 @@
-## 9. §[^23] Ez a rendelet a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+## 9. §[^26] Ez a rendelet a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. számú melléklet az 1/2002. (I. 11.) Korm. rendelethez[^24]
+1. számú melléklet az 1/2002. (I. 11.) Korm. rendelethez[^27]
 
 Ellenőrzési jegyzék (a 2004/12/EK irányelvvel módosított 95/50/EK irányelv szerint)
 
@@ -82,5 +82,5 @@ Ellenőrzési jegyzék (a 2004/12/EK irányelvvel módosított 95/50/EK irányel
 
 (3) Szemmel látható szabálytalanságok ellenőrzése.
 
-[^23]: A 9. §-t a 246/2016. (VIII. 17.) Korm. rendelet 2. §-a iktatta be.
-[^24]: Az 1. számú melléklet a 24/2006. (II. 3.) Korm. rendelet 3. §-ával megállapított és a Magyar Közlöny 2006. évi 18. számában megjelent helyesbítésnek megfelelő szöveg.
+[^26]: A 9. §-t a 246/2016. (VIII. 17.) Korm. rendelet 2. §-a iktatta be.
+[^27]: Az 1. számú melléklet a 24/2006. (II. 3.) Korm. rendelet 3. §-ával megállapított és a Magyar Közlöny 2006. évi 18. számában megjelent helyesbítésnek megfelelő szöveg.

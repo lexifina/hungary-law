@@ -2,12 +2,15 @@
 
 ## 8. §[^22] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) a Tanács 95/50/EK irányelve (1995. október 6.) a veszélyes áruk közúti szállítása ellenőrzésének egységes eljárásáról;
+a)[^23] a veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárásról szóló, 2022. október 19-i (EU) 2022/1999 európai parlamenti és tanácsi irányelv.
 
-b) az Európai Parlament és a Tanács 2001/26/EK irányelve (2001. május 7.) a veszélyes áruk közúti szállítása ellenőrzésének egységes eljárásáról szóló 95/50/EK tanácsi irányelv módosításáról;
+b)[^24]
 
-c) a Bizottság 2004/112/EK irányelve (2004. december 13.) a veszélyes áruk közúti szállítása ellenőrzésének egységes eljárásáról szóló 95/50/EK tanácsi irányelv műszaki fejlődéshez történő hozzáigazításáról.
+c)[^25]
 
 [^20]: A 7/B. §-t a 66/2021. (II. 16.) Korm. rendelet 3. §-a iktatta be.
 [^21]: A hatálybalépés időpontja 2021. április 2.
 [^22]: A 8. § a 24/2006. (II. 3.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^23]: A 8. § a) pontja a 116/2023. (IV. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^24]: A 8. § b) pontját a 116/2023. (IV. 5.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^25]: A 8. § c) pontját a 116/2023. (IV. 5.) Korm. rendelet 3. §-a hatályon kívül helyezte.
