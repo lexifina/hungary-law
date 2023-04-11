@@ -1,7 +1,3 @@
-## „c) az „A”, „B” és „D” osztályú leszállóhely létesítésére irányuló engedélyezési eljárásokra; valamint”
+5. §[^6]
 
-## (kell alkalmazni.)
-
-5. § A 159/2010. (V. 6.) Korm. rendelet 2. § (2) bekezdése a következő d) ponttal egészül ki:
-
-(A létesítés engedélyezéséhez vagy bejelentéséhez teljesítendő követelmények alapján a leszállóhelyek a következő osztályokba tartoznak:)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

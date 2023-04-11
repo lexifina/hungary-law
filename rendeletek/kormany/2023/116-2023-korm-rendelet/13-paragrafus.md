@@ -1,1 +1,3 @@
-13. § A 159/2010. (V. 6.) Korm. rendelet a 2. melléklet szerinti 4. melléklettel egészül ki.
+13. §[^14]
+
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

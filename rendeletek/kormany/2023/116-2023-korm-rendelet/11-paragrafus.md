@@ -1,3 +1,3 @@
-11. § A 159/2010. (V. 6.) Korm. rendelet 41. §-a a következő f) ponttal egészül ki:
+11. §[^12]
 
-(A leszállóhely létesítéséről rendelkező határozat – az általános közigazgatási rendtartásról szóló törvényben foglaltakon túlmenően – tartalmazza:)
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
