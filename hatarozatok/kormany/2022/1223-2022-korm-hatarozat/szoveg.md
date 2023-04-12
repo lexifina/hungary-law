@@ -1,6 +1,8 @@
 A Kormány
 
-1. a) egyetért a BrainVisionCenter Tudás- és Kompetencia Központ 2022–2024. években legfeljebb 5 200 000 000 forint összegben történő támogatásával, az alábbi ütemezés szerint:
+1.
+
+a) egyetért a BrainVisionCenter Tudás- és Kompetencia Központ 2022–2024. években legfeljebb 5 200 000 000 forint összegben történő támogatásával, az alábbi ütemezés szerint:
 
 aa) a 2022. évben 3 899 800 000 forint,
 
@@ -14,11 +16,7 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: azonnal
 
-2. egyetért a Molekuláris Ujjlenyomat Vizsgáló Központ (Centre for Molecular Fingerprinting) projekt (a továbbiakban: projekt) további támogatásának szükségességével és a KFItv. 13. § (1) bekezdés c) pontjában meghatározott feladatkörében eljárva felhívja az innovációért és technológiáért felelős minisztert, hogy az NKFI Hivatal elnöke útján gondoskodjon a projekt támogatásához szükséges 1 502 932 000 forint NKFI Alap terhére történő biztosítása érdekében szükséges intézkedések megtételéről;
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: azonnal
+2.[^1]
 
 3. az Országos Tudományos Diákköri Konferencia (a továbbiakban: OTDK) kutatói utánpótlás-nevelésben betöltött kiemelkedő szerepére tekintettel
 
@@ -56,7 +54,9 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: azonnal
 
-5. a) egyetért a Limitless Future – Határtalan Jövő Program 2022–2023. években legfeljebb 1 500 000 000 forint összegben történő támogatásával, az alábbi ütemezés szerint:
+5.
+
+a) egyetért a Limitless Future – Határtalan Jövő Program 2022–2023. években legfeljebb 1 500 000 000 forint összegben történő támogatásával, az alábbi ütemezés szerint:
 
 aa) a 2022. évben 500 000 000 forint,
 
@@ -67,3 +67,5 @@ b) a KFItv. 13. § (1) bekezdés c) pontjában meghatározott feladatkörében e
 Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: azonnal
+
+[^1]: A 2. pontot az 1135/2023. (IV. 11.) Korm. határozat 3. pontja hatályon kívül helyezte.
