@@ -254,7 +254,7 @@ Fordulatszámmérő a kipufogógáz szennyezőanyag tartalmának méréséhez, a
 
 A gumiabroncsok futófelületének gumiabroncs-bordázat mélységének vizsgálatához szükséges kivitelben.
 
-1.14. Az elektronikus jármű-interfészhez csatlakoztatható eszköz – OBD-kiolvasó.
+1.14. Az elektronikus jármű-interfészhez csatlakoztatható olyan OBD-kiolvasó eszköz, amely alkalmas az (EU) 2021/392 bizottsági végrehajtási rendelet 10. cikk (1) bekezdésében meghatározottak szerinti adatgyűjtésre.
 
 1.15. A cseppfolyós gáz, sűrített földgáz és cseppfolyós földgáz szivárgását ellenőrző kézi gázszivárgás-ellenőrző készülék, amennyiben ilyen üzemű járművet vizsgálnak.
 
@@ -398,6 +398,12 @@ Megjegyzések:
 
 A keréken mért maradó talperő kormányzott kerekek esetében nem lehet kisebb, mint 40%, nem kormányzott kerekek esetében nem lehet kisebb, mint 20%. Tengelyenként a két oldal közti eltérés a kerekeken mért nagyobb talperő 50%-át nem haladhatja meg.
 
+2.5. Az időszakos vizsgálatok során 2023. május 20-tól kezdődően az (EU) 2021/392 bizottsági végrehajtási rendelet 10. cikk (1) bekezdésében meghatározottak szerint – a 2.5.1. és a 2.5.2. alpont kivételével – adatgyűjtést kell végezni.
+
+2.5.1. A jármű tulajdonosa vagy annak meghatalmazottja – írásbeli nyilatkozatával – megtagadhatja a 2.5. alpont szerinti adatszolgáltatást. Ez esetben a nyilatkozatot a vizsgadokumentációhoz csatolni kell.
+
+2.5.2. Ha a jármű műszaki hiányosságából adódóan a 2.5. alpont szerinti adatgyűjtés nem végezhető el, akkor a vizsgabiztos ezt a tényt rögzíti az időszakos vizsgálathoz kapcsolódóan.
+
 3. Meghatározások
 
 3.1. A vizsgálati módszerek értelmezése
@@ -442,4 +448,4 @@ c) Veszélyes hiba: a közúti biztonságra közvetlen és azonnali veszélyt je
 
 5.2. A vizsgálatok tartalmára és módszereire, a járművek hiányosságának értékelésére vonatkozó táblázat
 
-[^419]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja, 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) pontja, a 42/2021. (IX. 8.) ITM rendelet 4. § d) pontja, az 1/2023. (I. 19.) ÉKM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^419]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja, 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) pontja, a 42/2021. (IX. 8.) ITM rendelet 4. § d) pontja, az 1/2023. (I. 19.) ÉKM rendelet 3. § (1) bekezdése, a 6/2023. (IV. 5.) ÉKM rendelet 3. §-a szerint módosított szöveg.
