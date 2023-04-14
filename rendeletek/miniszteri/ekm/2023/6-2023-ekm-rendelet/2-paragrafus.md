@@ -1,3 +1,3 @@
-2. § Az ER. 31. § (2) bekezdés 12. pontja helyébe a következő rendelkezés lép:
+2. §[^2]
 
-(Ez a rendelet)
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

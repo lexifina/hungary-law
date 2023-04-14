@@ -1,1 +1,3 @@
-4. § Hatályát veszti az ER. 31. § (2) bekezdés 1., 15., 21. és 27. pontja.
+4. §[^4]
+
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
