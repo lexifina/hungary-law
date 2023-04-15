@@ -1,0 +1,1 @@
+6. § Ha az adatszolgáltató az e rendeletben meghatározott előírásoknak határidőre nem, vagy nem megfelelően tesz eleget, a Hivatal a VET, a Kkt., a GET és a Tszt., valamint e törvények végrehajtási rendeletében meghatározott jogkövetkezményeket alkalmazza.

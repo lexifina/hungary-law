@@ -1,0 +1,1 @@
+9. § A VET szerint nem engedélyköteles kiserőmű adatszolgáltatási kötelezettsége megszűnik a villamosenergia-termelői tevékenységének visszafordíthatatlan megszűnése vagy megszüntetése esetén. Az adatszolgáltató köteles e körülményt – a körülménynek és bekövetkezési időpontjának megjelölésével – a bekövetkezést követő 8 napon belül a Hivatalnak bejelenteni.

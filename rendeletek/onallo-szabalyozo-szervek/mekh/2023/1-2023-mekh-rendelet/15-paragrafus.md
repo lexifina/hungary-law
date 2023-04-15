@@ -1,0 +1,1 @@
+15. § A Hivatalnál fennálló EIA és HVIA rendszerhiba esetén a hiba elhárítását követő 3 munkanapon belül benyújtott adatszolgáltatások határidőben teljesítettnek minősülnek. A rendszerhiba fennállásáról és annak elhárításáról az adatszolgáltatók az EIA és a HVIA adatgyűjtő alrendszerek felületén kihelyezett tájékoztatás útján értesülnek.
