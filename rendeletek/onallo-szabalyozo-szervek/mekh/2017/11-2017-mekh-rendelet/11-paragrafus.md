@@ -1,1 +1,0 @@
-## 10. § A Hivatal az egyes adatszolgáltatásokban meghatározott adatköröket szükség szerint minden év március 31-ig, június 30-ig, szeptember 30-ig és december 31-ig felülvizsgálja, és e rendelet mellékleteit a felülvizsgálat eredményének megfelelően módosíthatja.
