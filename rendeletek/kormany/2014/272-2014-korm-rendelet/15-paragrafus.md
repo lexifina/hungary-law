@@ -1,4 +1,4 @@
-## 14/A. §[^121] Az agrárpolitikáért felelős miniszter jogorvoslati feladatai körében elbírálja a Vidékfejlesztési Programot és a Magyar Halgazdálkodási Operatív Programot érintően az irányító hatóság, a kifizető ügynökség, az alapok alapját végrehajtó szervezet, a pénzügyi közvetítő és közösségvezérelt helyi fejlesztés esetén a HACS döntése ellen benyújtott kifogásokat, valamint a szabálytalansági eljárásban az irányító hatóság, a kifizető ügynökség és az alapok alapját végrehajtó szervezet által hozott döntések ellen benyújtott jogorvoslati kérelmeket.
+## 14/A. §[^120] Az agrárpolitikáért felelős miniszter jogorvoslati feladatai körében elbírálja a Vidékfejlesztési Programot és a Magyar Halgazdálkodási Operatív Programot érintően az irányító hatóság, a kifizető ügynökség, az alapok alapját végrehajtó szervezet, a pénzügyi közvetítő és közösségvezérelt helyi fejlesztés esetén a HACS döntése ellen benyújtott kifogásokat, valamint a szabálytalansági eljárásban az irányító hatóság, a kifizető ügynökség és az alapok alapját végrehajtó szervezet által hozott döntések ellen benyújtott jogorvoslati kérelmeket.
 
 ## 7. Az államháztartásért felelős miniszter feladatai
 
@@ -6,7 +6,7 @@
 
 a) az e rendelet hatálya alá tartozó támogatások ellenőrzésének szabályozása, harmonizációja, koordinációja, valamint
 
-b)[^122] az igazoló hatósági feladatok ellátásának biztosítása.
+b)[^121] az igazoló hatósági feladatok ellátásának biztosítása.
 
 (2) Az államháztartásért felelős miniszter az (1) bekezdés a) pontja szerinti feladatait a központi harmonizációs egységen keresztül látja el. E feladatok ellátása körében gondoskodik
 
@@ -16,7 +16,7 @@ b) az ellenőrzési vonatkozású uniós jogszabályok és módszertani útmutat
 
 c) az ellenőrzéseknek a megfelelő nemzetközi ellenőrzési standardok és harmonizált módszertan szerint történő lefolytatásáról,
 
-d)[^123]
+d)[^122]
 
 e) az 1303/2013/EU európai parlamenti és tanácsi rendelet 128. cikke szerinti egyeztetéseken való részvételről,
 
@@ -24,9 +24,9 @@ f) az Európai Bizottság által végzett ellenőrzésekre adandó tagállami v�
 
 g) minőségértékelés keretében a folyamatba épített ellenőrzéseket, továbbá a rendszer- és mintavételes ellenőrzéseket végző szervezetek tekintetében a jogszabályok, a módszertani útmutatók, a nemzetközi ellenőrzési standardok alkalmazásának és végrehajtásának figyelemmel kíséréséről, vizsgálatáról,
 
-h)[^124]
+h)[^123]
 
-[^121]: A 14/A. § a 258/2022. (VII. 20.) Korm. rendelet 3. § (1) bekezdés 4. pontja szerint módosított szöveg.
-[^122]: A 15. § (1) bekezdés b) pontja a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 4. pontja, a 615/2022. (XII. 29.) Korm. rendelet 10. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^123]: A 15. § (2) bekezdés d) pontját a 615/2022. (XII. 29.) Korm. rendelet 10. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^124]: A 15. § (2) bekezdés h) pontját a 615/2022. (XII. 29.) Korm. rendelet 10. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^120]: A 14/A. § a 258/2022. (VII. 20.) Korm. rendelet 3. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^121]: A 15. § (1) bekezdés b) pontja a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 4. pontja, a 615/2022. (XII. 29.) Korm. rendelet 10. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^122]: A 15. § (2) bekezdés d) pontját a 615/2022. (XII. 29.) Korm. rendelet 10. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^123]: A 15. § (2) bekezdés h) pontját a 615/2022. (XII. 29.) Korm. rendelet 10. § (1) bekezdés a) pontja hatályon kívül helyezte.

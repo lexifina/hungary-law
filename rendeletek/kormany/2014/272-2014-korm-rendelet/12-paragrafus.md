@@ -1,8 +1,3 @@
-12. § (1)[^108] Az európai uniós források felhasználásáért felelős miniszter jogorvoslati feladatai körében elbírálja – a Vidékfejlesztési Program és a Magyar Halgazdálkodási Operatív Program kivételével – az irányító hatóság, az alapok alapját végrehajtó szervezet, a pénzügyi közvetítő és közösségvezérelt helyi fejlesztés esetén az 1303/2013/EU európai parlamenti és tanácsi rendelet 32. cikk (2) bekezdés b) pontja szerinti helyi akciócsoport (a továbbiakban: HACS) döntése ellen benyújtott kifogásokat, valamint a szabálytalansági eljárásban az irányító hatóság és az alapok alapját végrehajtó szervezet által hozott döntések ellen benyújtott jogorvoslati kérelmeket.
+12. §[^108]
 
-(2) Az (1) bekezdésben meghatározott tevékenység során az európai uniós források felhasználásáért felelős miniszter biztosítja a fejlesztési források szabályszerű felhasználására kialakított szabálytalansági döntések elleni jogorvoslati kérelmek és kifogások elbírálása során hozott döntések egységességét.
-
-(3)[^109] Az európai uniós források felhasználásáért felelős miniszter összegző jelentést készít a kifogások és a szabálytalansági döntések ellen benyújtott jogorvoslati kérelmek elbírálása kapcsán lefolytatott jogorvoslati eljárások eljárásrendi tapasztalataiból, szükség esetén az irányító hatóságok bevonásával.
-
-[^108]: A 12. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 8. §-ával megállapított, a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 3. pontja, az 59/2018. (III. 26.) Korm. rendelet 12. § (1) bekezdés 2. pontja, a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 4. pontja, a 258/2022. (VII. 20.) Korm. rendelet 4. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^109]: A 12. § (3) bekezdése a 258/2022. (VII. 20.) Korm. rendelet 4. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^108]: A 12. §-t a 123/2023. (IV. 12.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.

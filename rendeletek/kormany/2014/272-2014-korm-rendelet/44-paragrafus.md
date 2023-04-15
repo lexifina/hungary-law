@@ -1,23 +1,23 @@
-44. § (1)[^311] Az éves fejlesztési keret módosítása során a 41/A–43. §-ban foglaltakat az e §-ban meghatározott eltérésekkel kell alkalmazni.
+44. § (1)[^312] Az éves fejlesztési keret módosítása során a 41/A–43. §-ban foglaltakat az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(2)[^312] Ha az irányító hatóság nem az európai uniós források felhasználásáért felelős miniszter tevékenységének segítésére kijelölt minisztérium szervezetén belül került kialakításra, a folyó évre szóló éves fejlesztési keret módosítását az irányító hatóság az európai uniós források felhasználásáért felelős miniszternél kezdeményezi, annak indokoltsága bemutatásával.
+(2)[^313] Ha az irányító hatóság nem az európai uniós források felhasználásáért felelős miniszter tevékenységének segítésére kijelölt minisztérium szervezetén belül került kialakításra, a folyó évre szóló éves fejlesztési keret módosítását az irányító hatóság az európai uniós források felhasználásáért felelős miniszternél kezdeményezi, annak indokoltsága bemutatásával.
 
-(3)[^313] Az adott évre szóló éves fejlesztési keretet negyedévente egy alkalommal lehet módosítani.
+(3)[^314] Az adott évre szóló éves fejlesztési keretet negyedévente egy alkalommal lehet módosítani.
 
-(3a)[^314] A (3) bekezdéstől eltérően a 87. § (1) bekezdés c) pontja szerinti döntéssel összefüggésben az éves fejlesztési keretet soron kívül módosítani szükséges.
+(3a)[^315] A (3) bekezdéstől eltérően a 87. § (1) bekezdés c) pontja szerinti döntéssel összefüggésben az éves fejlesztési keretet soron kívül módosítani szükséges.
 
-(4)[^315] Az irányító hatóság minden negyedévben a 43/A. § (2) bekezdésben foglaltak által meg nem engedett eltérés engedélyezése céljából az éves fejlesztési keret módosítását kezdeményezi.
+(4)[^316] Az irányító hatóság minden negyedévben a 43/A. § (2) bekezdésben foglaltak által meg nem engedett eltérés engedélyezése céljából az éves fejlesztési keret módosítását kezdeményezi.
 
 (5) Ha az irányító hatóság által érvényesített eltérés előreláthatóan nem haladja meg a 43/A. § (2) bekezdésében meghatározott kereteket, az éves fejlesztési keretet nem szükséges módosítani.
 
-(6)[^316] Ha a Kormány az éves fejlesztési keretet az erre irányuló szabályszerű javaslat nyomán módosítja, akkor a felhívás módosított meghirdetési időpontjára és módosított keretére kell alkalmazni a 43/A. § rendelkezéseit.
+(6)[^317] Ha a Kormány az éves fejlesztési keretet az erre irányuló szabályszerű javaslat nyomán módosítja, akkor a felhívás módosított meghirdetési időpontjára és módosított keretére kell alkalmazni a 43/A. § rendelkezéseit.
 
-(7)[^317] Ha az éves fejlesztési keretből valamely felhívás törlésre került, a benyújtott támogatási kérelmek tekintetében jogosultsági ellenőrzésre, tartalmi értékelésre és döntéshozatalra nem kerül sor, amelyről az irányító hatóság a támogatást igénylőt tájékoztatja.
+(7)[^318] Ha az éves fejlesztési keretből valamely felhívás törlésre került, a benyújtott támogatási kérelmek tekintetében jogosultsági ellenőrzésre, tartalmi értékelésre és döntéshozatalra nem kerül sor, amelyről az irányító hatóság a támogatást igénylőt tájékoztatja.
 
-[^311]: A 44. § (1) bekezdése a 153/2019. (VI. 26.) Korm. rendelet 33. § (1) bekezdés 7. pontja szerint módosított szöveg.
-[^312]: A 44. § (2) bekezdése a 366/2019. (XII. 30.) Korm. rendelet 3. §-ával megállapított, a 258/2022. (VII. 20.) Korm. rendelet 3. § (1) bekezdés 15. pontja szerint módosított szöveg.
-[^313]: A 44. § (3) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^314]: A 44. § (3a) bekezdését a 24/2017. (II. 3.) Korm. rendelet 7. §-a iktatta be.
-[^315]: A 44. § (4) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^316]: A 44. § (6) bekezdése a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 10. pontja szerint módosított szöveg.
-[^317]: A 44. § (7) bekezdését az 59/2018. (III. 26.) Korm. rendelet 4. §-a iktatta be.
+[^312]: A 44. § (1) bekezdése a 153/2019. (VI. 26.) Korm. rendelet 33. § (1) bekezdés 7. pontja szerint módosított szöveg.
+[^313]: A 44. § (2) bekezdése a 366/2019. (XII. 30.) Korm. rendelet 3. §-ával megállapított, a 258/2022. (VII. 20.) Korm. rendelet 3. § (1) bekezdés 15. pontja szerint módosított szöveg.
+[^314]: A 44. § (3) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^315]: A 44. § (3a) bekezdését a 24/2017. (II. 3.) Korm. rendelet 7. §-a iktatta be.
+[^316]: A 44. § (4) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^317]: A 44. § (6) bekezdése a 4/2016. (I. 20.) Korm. rendelet 17. § (1) bekezdés 10. pontja szerint módosított szöveg.
+[^318]: A 44. § (7) bekezdését az 59/2018. (III. 26.) Korm. rendelet 4. §-a iktatta be.

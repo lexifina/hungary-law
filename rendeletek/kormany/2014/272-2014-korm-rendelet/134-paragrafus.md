@@ -2,6 +2,6 @@
 
 (2) A felfüggesztésről és annak okáról a kedvezményezettet soron kívül tájékoztatni kell.
 
-(3)[^889] Ha a kifizetés felfüggesztésére okot adó körülmény megszűnik vagy a kivizsgálást követően a támogatás visszavonása, vagy attól való elállás nem indokolt, úgy az irányító hatóság gondoskodik a felfüggesztés feloldásáról, és erről értesíti a kedvezményezettet.
+(3)[^893] Ha a kifizetés felfüggesztésére okot adó körülmény megszűnik vagy a kivizsgálást követően a támogatás visszavonása, vagy attól való elállás nem indokolt, úgy az irányító hatóság gondoskodik a felfüggesztés feloldásáról, és erről értesíti a kedvezményezettet.
 
-[^889]: A 134. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 168. pontja szerint módosított szöveg.
+[^893]: A 134. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 168. pontja szerint módosított szöveg.
