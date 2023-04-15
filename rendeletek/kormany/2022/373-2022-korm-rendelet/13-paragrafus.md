@@ -34,12 +34,12 @@ l) elkészíti az általa végzett ellenőrzések összefoglalását, ideértve 
 
 m) ellenőrzései alapján meghatározza azt az Európai Bizottság iránymutatása szerinti bizonyossági szintet, amely a nemzeti hatóság vezetője által kibocsátott vezetői nyilatkozat szerint lefedett területekre vonatkozik,
 
-n)[^12] felelős annak megállapításáért, hogy az irányítási és ellenőrzési rendszerek eredményesen védik-e az Európai Unió pénzügyi érdekeit, és megbízható tájékoztatást nyújtanak-e a végrehajtás előrehaladásáról és eredményeiről.
+n)[^14] felelős annak megállapításáért, hogy az irányítási és ellenőrzési rendszerek eredményesen védik-e az Európai Unió pénzügyi érdekeit, és megbízható tájékoztatást nyújtanak-e a végrehajtás előrehaladásáról és eredményeiről.
 
-(2)[^13]
+(2)[^15]
 
-(3)[^14] Az audit hatóság feladatait az Európai Támogatásokat Auditáló Főigazgatóságról és a kondicionalitási eljárás eredményes lezárása érdekében az Európai Bizottság kérésére elfogadott egyes törvények módosításáról szóló 2022. évi XLIV. törvény kijelölése alapján az Európai Támogatásokat Auditáló Főigazgatóság látja el.
+(3)[^16] Az audit hatóság feladatait az Európai Támogatásokat Auditáló Főigazgatóságról és a kondicionalitási eljárás eredményes lezárása érdekében az Európai Bizottság kérésére elfogadott egyes törvények módosításáról szóló 2022. évi XLIV. törvény kijelölése alapján az Európai Támogatásokat Auditáló Főigazgatóság látja el.
 
-[^12]: A 13. § (1) bekezdés n) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 8. pontja szerint módosított szöveg.
-[^13]: A 13. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 9. pontja szerint módosított szöveg. A 13. § (2) bekezdését a 615/2022. (XII. 29.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
-[^14]: A 13. § (3) bekezdése a 615/2022. (XII. 29.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^14]: A 13. § (1) bekezdés n) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 8. pontja szerint módosított szöveg.
+[^15]: A 13. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 9. pontja szerint módosított szöveg. A 13. § (2) bekezdését a 615/2022. (XII. 29.) Korm. rendelet 22. § b) pontja hatályon kívül helyezte.
+[^16]: A 13. § (3) bekezdése a 615/2022. (XII. 29.) Korm. rendelet 21. §-ával megállapított szöveg.

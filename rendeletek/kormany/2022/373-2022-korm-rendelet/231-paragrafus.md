@@ -14,9 +14,9 @@ f) átmeneti támogatásként vagy
 
 g) közszolgáltatásért járó ellentételezésként
 
-h)[^62] csekély összegű támogatásként,
+h)[^101] csekély összegű támogatásként,
 
-i)[^63] válságtámogatásként
+i)[^102] válságtámogatásként
 
 nyújtható.
 
@@ -82,5 +82,5 @@ c) átmeneti támogatásként
 
 nyújtható.
 
-[^62]: A 231. § (1) bekezdés h) pontját a 463/2022. (XI. 15.) Korm. rendelet 27. §-a iktatta be.
-[^63]: A 231. § (1) bekezdés i) pontját a 463/2022. (XI. 15.) Korm. rendelet 27. §-a iktatta be.
+[^101]: A 231. § (1) bekezdés h) pontját a 463/2022. (XI. 15.) Korm. rendelet 27. §-a iktatta be.
+[^102]: A 231. § (1) bekezdés i) pontját a 463/2022. (XI. 15.) Korm. rendelet 27. §-a iktatta be.

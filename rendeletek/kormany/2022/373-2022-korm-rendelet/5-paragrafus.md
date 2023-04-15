@@ -40,18 +40,19 @@
 
 19. biztosítja a forrást a HET végrehajtáshoz szükséges források fejezeti kezelésű előirányzat-felhasználási keretszámlán,
 
-20. elbírálja – jogorvoslati feladatai keretében – a kifogásokat és a szabálytalansági döntésekkel szemben benyújtott jogorvoslati kérelmeket, biztosítja e döntések egységességét,
+20.[^5]
 
-21.[^5] gondoskodik a II. Fejezet szerinti intézményrendszer érzékeny pozícióban lévő – így különösen a szabálytalanságkezeléssel, ellenőrzésekkel, kockázatértékeléssel foglalkozó – munkatársainak az általa kidolgozott módszertan szerinti rendszeres rotációjáról, rendszeres és eredményes felügyeletéről,
+21.[^6] gondoskodik a II. Fejezet szerinti intézményrendszer érzékeny pozícióban lévő – így különösen a szabálytalanságkezeléssel, ellenőrzésekkel, kockázatértékeléssel foglalkozó – munkatársainak az általa kidolgozott módszertan szerinti rendszeres rotációjáról, rendszeres és eredményes felügyeletéről,
 
-22.[^6] koordinálja az ARACHNE kockázatértékelő eszköz eredményes alkalmazását, kidolgozza és rendszeresen felülvizsgálja az ARACHNE kockázatértékelő eszköz alkalmazására és eredményeinek felhasználására vonatkozó módszertant,
+22.[^7] koordinálja az ARACHNE kockázatértékelő eszköz eredményes alkalmazását, kidolgozza és rendszeresen felülvizsgálja az ARACHNE kockázatértékelő eszköz alkalmazására és eredményeinek felhasználására vonatkozó módszertant,
 
 23. gondoskodik a 2. melléklet szerinti adatoknak az ARACHNE kockázatértékelő eszköz részére kéthavonta történő megküldéséről,
 
-24.[^7] biztosítja az ARACHNE kockázatértékelő eszközhöz való hozzáférést a II. Fejezet szerinti intézményrendszer 36. § (1) bekezdés c) pontja és 36. § (2) bekezdés a) pontja szerinti feladatot ellátó munkatársai részére.
+24.[^8] biztosítja az ARACHNE kockázatértékelő eszközhöz való hozzáférést a II. Fejezet szerinti intézményrendszer 36. § (1) bekezdés c) pontja és 36. § (2) bekezdés a) pontja szerinti feladatot ellátó munkatársai részére.
 
 [^3]: Az 5. § 10. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 3. pontja szerint módosított szöveg.
 [^4]: Az 5. § 12. pontja a 463/2022. (XI. 15.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^5]: Az 5. § 21. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 4. pontja szerint módosított szöveg.
-[^6]: Az 5. § 22. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 5. pontja szerint módosított szöveg.
-[^7]: Az 5. § 24. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 6. pontja szerint módosított szöveg.
+[^5]: Az 5. § 20. pontját a 123/2023. (IV. 12.) Korm. rendelet 30. § a) pontja hatályon kívül helyezte.
+[^6]: Az 5. § 21. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 4. pontja szerint módosított szöveg.
+[^7]: Az 5. § 22. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 5. pontja szerint módosított szöveg.
+[^8]: Az 5. § 24. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 6. pontja szerint módosított szöveg.

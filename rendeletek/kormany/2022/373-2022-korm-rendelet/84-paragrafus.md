@@ -2,11 +2,11 @@
 
 (2) A nemzeti hatóság a programterületek és a felhívások tekintetében speciális útmutatót készíthet, amely a megvalósításra nézve a jogszabályi környezettel nem ellentétes egyedi részletszabályokat állapíthat meg.
 
-(3)[^37] A kedvezményezett köteles bejelenteni a nemzeti hatóság részére
+(3)[^40] A kedvezményezett köteles bejelenteni a nemzeti hatóság részére
 
 a) a projekt műszaki, szakmai tartalmát, költségvetését, kapcsolattartó személyét vagy az egyéb, jogosultsági szempontot vagy támogathatósági feltételt érintő változást a tudomására jutástól számított nyolc napon belül,
 
-b)[^38] az a) pontba nem tartozó adat – így különösen bankszámlaszám, hivatalos képviselő személyének, pénzügyi vezető, projektmenedzser személyének, kedvezményezett címének, mérföldkő eléréséig felhasználni tervezett támogatás összegének, költségelemen belüli átcsoportosítás – változását legkésőbb a következő beszámolóval vagy fenntartási jelentéssel egyidejűleg.
+b)[^41] az a) pontba nem tartozó adat – így különösen bankszámlaszám, hivatalos képviselő személyének, pénzügyi vezető, projektmenedzser személyének, kedvezményezett címének, mérföldkő eléréséig felhasználni tervezett támogatás összegének, költségelemen belüli átcsoportosítás – változását legkésőbb a következő beszámolóval vagy fenntartási jelentéssel egyidejűleg.
 
 (4) A változás kezelését szolgáló intézkedést – ideértve a támogatási szerződés módosításának kezdeményezését is – a nemzeti hatóság bejelentés nélkül is megkezdheti, ha olyan változásról szerez tudomást a projektben, amely ezt indokolja.
 
@@ -30,12 +30,12 @@ b) a projekt mérföldkő elérése a hatályos támogatási szerződésben rög
 
 c) a változás következtében a támogatási szerződésben rögzítetthez képest azonos vagy jobb műszaki, szakmai megoldás fog megvalósulni,
 
-d)[^39] a kedvezményezett egyszeri elszámolásról többszöri elszámolásra tér át,
+d)[^42] a kedvezményezett egyszeri elszámolásról többszöri elszámolásra tér át,
 
 e) a változás a projekt műszaki, szakmai tartalmát, a támogathatóság feltételeit nem érinti, és nem jelent kockázatot a projekt eredményességére,
 
 f) a kapcsolattartó személye megváltozik.
 
-[^37]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint a 84. § (3) bekezdés nyitó szövegrészében a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
-[^38]: [ A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint a 84. § (3) bekezdés b) pontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
-[^39]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint a 84. § (11) bekezdés d) pontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
+[^40]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint a 84. § (3) bekezdés nyitó szövegrészében a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
+[^41]: [ A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint a 84. § (3) bekezdés b) pontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]
+[^42]: [A 463/2022. (XI. 15.) Korm rendelet 31. § 26. pontjában foglalt azon módosítás, mely szerint a 84. § (11) bekezdés d) pontjában a „kezdeményezett” szövegrész helyébe a „végső kezdeményezett” szöveg lép, nem vezethető át.]

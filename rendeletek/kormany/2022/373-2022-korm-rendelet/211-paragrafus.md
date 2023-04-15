@@ -1,4 +1,4 @@
-211. § (1) A miniszter a jogorvoslati kérelmet érdemi vizsgálat nélkül elutasítja, ha
+211. § (1)[^75] A Belső Ellenőrzési és Integritási Igazgatóság a jogorvoslati kérelmet érdemi vizsgálat nélkül elutasítja, ha
 
 a) a végső kedvezményezett a jogorvoslati kérelmet határidőn túl nyújtotta be,
 
@@ -12,6 +12,7 @@ e) a jogorvoslati kérelem nem tartalmazza a megsértett jogszabályban, felhív
 
 f) a végső kedvezményezett a jogorvoslati kérelmet a 217. § (1) bekezdés c) pontja alapján lefolytatott szabálytalansági eljárásban hozott szabálytalansági döntés ellen nyújtja be, kivéve, ha a jogorvoslati kérelemben új, a korábbi eljárás során nem vizsgált tényre, adatra, körülményre hivatkozik.
 
-(2)[^53] Az (1) bekezdés a) pontja szerinti esetben a jogorvoslati kérelem nem utasítható el, ha a végső kedvezményezett a jogorvoslati kérelem benyújtására nyitva álló határidőben a jogorvoslati kérelmet a miniszternél nyújtotta be. A nemzeti hatóság szakmai álláspontjának mérlegelését követően a miniszter, amennyiben megállapítja, hogy az (1) bekezdésben felsorolt esetek fennállnak, dönthet úgy, hogy a kifogást érdemi vizsgálat nélkül elutasítja.
+(2)[^76] Az (1) bekezdés a) pontja szerinti esetben a jogorvoslati kérelem nem utasítható el, ha a végső kedvezményezett a jogorvoslati kérelem benyújtására nyitva álló határidőben a jogorvoslati kérelmet a Belső Ellenőrzési és Integritási Igazgatóságnál nyújtotta be. A nemzeti hatóság szakmai álláspontjának mérlegelését követően a Belső Ellenőrzési és Integritási Igazgatóság, amennyiben megállapítja, hogy az (1) bekezdésben felsorolt esetek fennállnak, dönthet úgy, hogy a kifogást érdemi vizsgálat nélkül elutasítja.
 
-[^53]: A 211. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^75]: A 211. § (1) bekezdés nyitó szövegrésze a 123/2023. (IV. 12.) Korm. rendelet 29. § 15. pontja szerint módosított szöveg.
+[^76]: A 211. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 24. §-ával megállapított, a 123/2023. (IV. 12.) Korm. rendelet 29. § 16. pontja szerint módosított szöveg.

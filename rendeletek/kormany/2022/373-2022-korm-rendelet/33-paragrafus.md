@@ -1,4 +1,4 @@
-33. §[^30] A II. Fejezet szerinti intézményrendszer érintett szereplője gondoskodik annak az eljárási cselekménynek a felülvizsgálatáról és szükség szerint helyesbítéséről vagy megismétléséről, amelyben az összeférhetetlen személy közreműködött, és amely az ügy érdemére kihathat, valamint egyéb intézkedést hozhat, így különösen
+33. §[^33] (1) A II. Fejezet szerinti intézményrendszer érintett szereplője gondoskodik annak az eljárási cselekménynek a felülvizsgálatáról és szükség szerinti helyesbítéséről vagy megismétléséről, amelyben az összeférhetetlen személy közreműködött, és amely az ügy érdemére kihathat, valamint egyéb intézkedést hozhat, így különösen
 
 a) a támogatási döntést visszavonja,
 
@@ -12,4 +12,6 @@ e) kezdeményezi a 23. § c) pontjában meghatározott jogszabály szerinti fele
 
 f) bűncselekmény elkövetésének gyanúja esetén feljelentést tesz.
 
-[^30]: A 33. § nyitó szövegrésze a 463/2022. (XI. 15.) Korm. rendelet 31. § 21. pontja szerint módosított szöveg.
+(2) A II. Fejezet szerinti intézményrendszer érintett szereplője az (1) bekezdés szerinti intézkedéséről – az arról történő döntéshozataltól számított – tizenöt napon belül tájékoztatja a Belső Ellenőrzési és Integritási Igazgatóságot.
+
+[^33]: A 33. § a 123/2023. (IV. 12.) Korm. rendelet 23. §-ával megállapított szöveg.

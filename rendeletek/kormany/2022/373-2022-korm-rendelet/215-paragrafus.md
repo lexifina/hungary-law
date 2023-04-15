@@ -1,5 +1,8 @@
-215. § (1) A nemzeti hatóság megküldi a jogorvoslati kérelmet a miniszter részére a jogorvoslati kérelem beérkezését követő tíz napon belül, ha a szabálytalansági döntést nem vonja vissza.
+215. § (1)[^80] A nemzeti hatóság megküldi a jogorvoslati kérelmet a Belső Ellenőrzési és Integritási Igazgatóság részére a jogorvoslati kérelem beérkezését követő tíz napon belül, ha a szabálytalansági döntést nem vonja vissza.
 
 (2) A nemzeti hatóság a jogorvoslati kérelemhez mellékeli a szabálytalansági eljárás dokumentumait, a jogorvoslati kérelemben foglaltakkal kapcsolatos részletes szakmai álláspontját és a szabálytalansági eljárással összefüggésben folyamatban lévő szabálytalansági, közbeszerzési döntőbizottsági vagy egyéb eljárásról szóló tájékoztatást.
 
-(3) A jogorvoslati kérelem európai uniós források felhasználásáért felelős miniszter részére történő felterjesztéséről a nemzeti hatóság haladéktalanul tájékoztatja a végső kedvezményezettet.
+(3)[^81] A jogorvoslati kérelem Belső Ellenőrzési és Integritási Igazgatóság részére történő felterjesztéséről a nemzeti hatóság haladéktalanul tájékoztatja a végső kedvezményezettet.
+
+[^80]: A 215. § (1) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 20. pontja szerint módosított szöveg.
+[^81]: A 215. § (3) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 21. pontja szerint módosított szöveg.
