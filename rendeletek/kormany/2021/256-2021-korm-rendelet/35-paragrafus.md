@@ -12,11 +12,11 @@ d) a szakpolitikai felelősök,
 
 e) a konstrukciófelelősök,
 
-f)[^52] területi érintettség esetén a területfejlesztés stratégiai tervezéséért felelős miniszter,
+f)[^53] területi érintettség esetén a területfejlesztés stratégiai tervezéséért felelős miniszter,
 
 g) a gazdaságfejlesztési zóna komplex fejlesztéséért felelős kormánybiztos,
 
-h)[^53] a vármegyei önkormányzatok érdekképviseleti szerve,
+h)[^54] a vármegyei önkormányzatok érdekképviseleti szerve,
 
 i) a fővárosi közgyűlés,
 
@@ -36,7 +36,7 @@ c) az Európa Tanács Fejlesztési Bank,
 
 d) a nemzetközi pénzügyi kapcsolatokért felelős miniszter,
 
-e)[^54] a vállalkozásfejlesztésért felelős miniszter,
+e)[^55] a vállalkozásfejlesztésért felelős miniszter,
 
 f) az igazoló hatóság,
 
@@ -48,6 +48,6 @@ i) – ha kijelölésre került – a közreműködő szervezet.
 
 (3) A monitoring bizottság (1) bekezdés szerint delegált tagjai egyenlő szavazati joggal rendelkeznek.
 
-[^52]: A 35. § (1) bekezdés f) pontja a 258/2022. (VII. 20.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
-[^53]: A 35. § (1) bekezdés h) pontja a 616/2022. (XII. 29.) Korm. rendelet 316. § a) pontja szerint módosított szöveg.
-[^54]: A 35. § (2) bekezdés e) pontja a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 21. pontja szerint módosított szöveg.
+[^53]: A 35. § (1) bekezdés f) pontja a 258/2022. (VII. 20.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^54]: A 35. § (1) bekezdés h) pontja a 616/2022. (XII. 29.) Korm. rendelet 316. § a) pontja szerint módosított szöveg.
+[^55]: A 35. § (2) bekezdés e) pontja a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 21. pontja szerint módosított szöveg.

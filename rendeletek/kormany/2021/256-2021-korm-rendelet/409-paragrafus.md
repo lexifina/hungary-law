@@ -6,4 +6,6 @@ b) a támogatási jogviszony – nem a jogorvoslati kérelemmel érintett szabá
 
 c) a kedvezményezett jogutód nélkül megszűnt.
 
-(2) A jogorvoslati eljárás megszüntetéséről a miniszter haladéktalanul tájékoztatja a kedvezményezettet.
+(2)[^186] A jogorvoslati eljárás megszüntetéséről a Belső Ellenőrzési és Integritási Igazgatóság haladéktalanul tájékoztatja a kedvezményezettet.
+
+[^186]: A 409. § (2) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 20. § 25. pontja szerint módosított szöveg.

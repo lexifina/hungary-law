@@ -4,7 +4,7 @@ a) a közreműködő szervezet,
 
 b) a közreműködő szervezet vezető tisztségviselője és más képviselője, felügyelő bizottságának tagja, könyvvizsgálója,
 
-c)[^72] a közreműködő szervezetnek a Pmt. 3. § 38. pontja szerinti tényleges tulajdonosa,
+c)[^73] a közreműködő szervezetnek a Pmt. 3. § 38. pontja szerinti tényleges tulajdonosa,
 
 d) olyan személy, aki a közreműködő szervezet tekintetében az adott eljárás megkezdését megelőző egy évben a b) vagy a c) pont szerint minősült,
 
@@ -16,7 +16,7 @@ az eljárásban támogatást igénylő, kedvezményezett, ezek képviselője vag
 
 a) a közreműködő szervezettel munkavégzésre irányuló jogviszonyban álló személy,
 
-b)[^73] olyan személy, aki a közreműködő szervezet tekintetében az adott eljárás megkezdését megelőző egy évben az a) pont szerint minősült,
+b)[^74] olyan személy, aki a közreműködő szervezet tekintetében az adott eljárás megkezdését megelőző egy évben az a) pont szerint minősült,
 
 c) az a) és a b) pont szerinti személy hozzátartozója
 
@@ -26,10 +26,10 @@ az eljárásban támogatást igénylő, kedvezményezett, ezek képviselője vag
 
 (4) A közreműködő szervezet akkor sem járhat el, ha az ügy elfogulatlan megítélése tőle az (1) bekezdésben fel nem sorolt okból nem várható.
 
-(4a)[^74] Ha a közreműködő szervezet összeférhetetlensége az (1) vagy a (2) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül vagy annak kockázata vagy látszata objektíven fennáll, akkor a közreműködő szervezetet a (4) bekezdés szerint kell minősíteni.
+(4a)[^75] Ha a közreműködő szervezet összeférhetetlensége az (1) vagy a (2) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül vagy annak kockázata vagy látszata objektíven fennáll, akkor a közreműködő szervezetet a (4) bekezdés szerint kell minősíteni.
 
 (5) Ha a közreműködő szervezet az (1), a (2) vagy a (4) bekezdésben meghatározott okból nem járhat el, akkor helyette az irányító hatóság folytatja le az eljárást.
 
-[^72]: A 49. § (1) bekezdés c) pontja a 374/2022. (IX. 30.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^73]: A 49. § (2) bekezdés b) pontja a 374/2022. (IX. 30.) Korm. rendelet 31. § c) pontja szerint módosított szöveg.
-[^74]: A 49. § (4a) bekezdését a 374/2022. (IX. 30.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 463/2022. (XI. 15.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
+[^73]: A 49. § (1) bekezdés c) pontja a 374/2022. (IX. 30.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^74]: A 49. § (2) bekezdés b) pontja a 374/2022. (IX. 30.) Korm. rendelet 31. § c) pontja szerint módosított szöveg.
+[^75]: A 49. § (4a) bekezdését a 374/2022. (IX. 30.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 463/2022. (XI. 15.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.

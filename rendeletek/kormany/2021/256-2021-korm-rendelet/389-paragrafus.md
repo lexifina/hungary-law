@@ -12,7 +12,7 @@ d) a szabálytalanság még azelőtt derült ki, hogy a kedvezményezett részé
 
 e) az audit hatóság vagy más ellenőrző szervezet által tett szabálytalansági gyanúbejelentés megállapításait elfogadja,
 
-f)[^157]
+f)[^174] a közbeszerzésekért felelős miniszter nem támogató tartalmú jelentésében vagy tanúsítványában foglalt megállapításokat elfogadja,
 
 g) a kedvezményezett nem teljesíti a biztosíték meghosszabbítására vagy cseréjére vonatkozó kötelezettségét,
 
@@ -20,4 +20,4 @@ h) rendszerszintű szabálytalanság történt, vagy
 
 i) a jogkövetkezményt uniós jogszabály határozza meg.
 
-[^157]: A 389. § f) pontját az 562/2021. (X. 1.) Korm. rendelet 37. § g) pontja hatályon kívül helyezte.
+[^174]: A 389. § f) pontját az 562/2021. (X. 1.) Korm. rendelet 37. § g) pontja hatályon kívül helyezte, újonnan a 123/2023. (IV. 12.) Korm. rendelet 16. §-a iktatta be.
