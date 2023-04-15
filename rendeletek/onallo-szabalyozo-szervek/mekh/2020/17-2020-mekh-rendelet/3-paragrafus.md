@@ -1,10 +1,10 @@
 ## 2. Az elért energiamegtakarítás bejelentése
 
-3. §[^8] (1) Az energiamegtakarítási kötelezettség teljesítéseként egy adott évre elszámolni kívánt hitelesített energiamegtakarítás 2/A. § szerinti, valamint a következő a)–m) pont szerinti adatait a kötelezett fél megbízásából az energiamegtakarítást hitelesítő energetikai auditáló szervezet (a továbbiakban: hitelesítő szervezet) jelenti be az energiahatékonyságról szóló 2015. évi LVII. törvény (a továbbiakban: Ehat.) 15/D. § (1) bekezdése szerinti bejelentésként az EKR adatgyűjtő rendszerbe a 2/A. § szerinti adatoknak a hitelesített energiamegtakarítások nyilvántartásába való felvezetésével egyidejűleg:
+3. §[^9] (1) Az energiamegtakarítási kötelezettség teljesítéseként egy adott évre elszámolni kívánt hitelesített energiamegtakarítás 2/A. § szerinti, valamint a következő a)–m) pont szerinti adatait a kötelezett fél megbízásából az energiamegtakarítást hitelesítő energetikai auditáló szervezet (a továbbiakban: hitelesítő szervezet) jelenti be az energiahatékonyságról szóló 2015. évi LVII. törvény (a továbbiakban: Ehat.) 15/D. § (1) bekezdése szerinti bejelentésként az EKR adatgyűjtő rendszerbe a 2/A. § szerinti adatoknak a hitelesített energiamegtakarítások nyilvántartásába való felvezetésével egyidejűleg:
 
 a) a megvalósított energiahatékonysági intézkedés vagy beruházás megnevezése és típusa,
 
-b)[^9] az energiahatékonysági intézkedés vagy beruházás megkezdésének időpontja, ami
+b)[^10] az energiahatékonysági intézkedés vagy beruházás megkezdésének időpontja, ami
 
 ba) az energiahatékonysági intézkedés végrehajtása, a beruházás kivitelezése megrendelésének időpontja,
 
@@ -44,5 +44,5 @@ m) az energiahatékonysági intézkedésből vagy beruházásból elszámolható
 
 (4) A kötelezett fél dönthet akként, hogy a bejelentés részeként az adott évre vonatkozóan saját maga határozza meg az (1) és (2) bekezdés szerint bejelentett, saját nevén szereplő energiamegtakarítások elszámolási sorrendjét az EKR adatgyűjtő rendszer útján. Az elszámolási sorrend egyéni meghatározására kizárólag a kötelezettséggel érintett év december 1-től a kötelezettséggel érintett évre vonatkozó elszámolási határidő lejártáig és csak akkor van lehetőség, ha az egyénileg sorrendbe rendezett megtakarítások mértéke eléri az adott évre vonatkozó kötelezettség mértékét.
 
-[^8]: A 3. § a 4/2022. (VI. 14.) MEKH rendelet 2. §-ával megállapított szöveg.
-[^9]: A 3. § (1) bekezdés b) pontja a 11/2022. (XI. 4.) MEKH rendelet 2. §-ával megállapított szöveg.
+[^9]: A 3. § a 4/2022. (VI. 14.) MEKH rendelet 2. §-ával megállapított szöveg.
+[^10]: A 3. § (1) bekezdés b) pontja a 11/2022. (XI. 4.) MEKH rendelet 2. §-ával megállapított szöveg.

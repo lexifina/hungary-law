@@ -1,4 +1,4 @@
-## 1/A. [^7] A hitelesített energiamegtakarítások nyilvántartásának adattartalma
+## 1/A. [^8] A hitelesített energiamegtakarítások nyilvántartásának adattartalma
 
 ## 2/A. § A hitelesített energiamegtakarítások és azok jogosultjai nyilvántartásának adattartalma:
 
@@ -12,4 +12,4 @@ d) az energiahatékonysági intézkedés végrehajtásának, épületet érintő
 
 e) az energiamegtakarítás élettartama (év).
 
-[^7]: Az 1/A. alcímet (2/A. §) a 4/2022. (VI. 14.) MEKH rendelet 1. §-a iktatta be.
+[^8]: Az 1/A. alcímet (2/A. §) a 4/2022. (VI. 14.) MEKH rendelet 1. §-a iktatta be.
