@@ -1,1 +1,3 @@
-22. § A földgáz rendszerhasználati díjak, a külön díjak és a csatlakozási díjak meghatározásának a 2021-ben induló árszabályozási ciklusra vonatkozó keretszabályairól szóló 8/2020. (VIII. 14.) MEKH rendelet 11. § (7) bekezdésében a „6. § (4) és (5) bekezdésében” szövegrész helyébe a „10/A. §-ban” szöveg lép.
+22. §[^4]
+
+[^4]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
