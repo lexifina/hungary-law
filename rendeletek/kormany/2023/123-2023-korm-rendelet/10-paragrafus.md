@@ -1,7 +1,3 @@
-## lép.
+10. §[^11]
 
-10. § Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet
-
-a) 8. § (5) bekezdésében a „jogorvoslati,” szövegrész,
-
-b) 12. §-a.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

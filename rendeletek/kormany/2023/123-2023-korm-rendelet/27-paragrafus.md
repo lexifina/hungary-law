@@ -1,3 +1,3 @@
-27. § A 373/2022. (IX. 30.) Korm. rendelet 198. §-a a következő f) ponttal egészül ki:
+27. §[^28]
 
-(A nemzeti hatóság vezetője szabálytalansági eljárás mellőzésével állapíthat meg szabálytalanságot, és határozhat meg e rendelet szerinti jogkövetkezményt, ha)
+[^28]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
