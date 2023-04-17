@@ -1,0 +1,60 @@
+# A Kormány 127/2023. (IV. 17.) Korm. rendelete
+
+Magyar Közlöny 2023. évi 56. szám, 2023. április 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/LCIHRyDkgjmMRh964axT6435b6225b668/dokumentumok/9c26c63b477d13e952fb7924210e99826bb3c43c/letoltes)
+
+---
+
+A Kormány 127/2023. (IV. 17.) Korm. rendelete
+a veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti
+nyújtását biztosító rezsivédelmi szolgáltatásról szóló 289/2022. (VIII. 5.) Korm. rendelet módosításáról
+A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi
+és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását
+biztosító rezsivédelmi szolgáltatásról szóló 289/2022. (VIII. 5.) Korm. rendelet (a továbbiakban: KR.) 2. § (1) bekezdése
+helyébe a következő rendelkezés lép, és a § a következő (1a) bekezdéssel egészül ki:
+„(1) Az 1. § (5) bekezdése szerinti szerződésben meghatározott rezsivédelmi szolgáltatás biztosításáért a villamos
+energia szolgáltató és a földgáz szolgáltató a (2) és (3) bekezdésben meghatározott mértékig ellentételezésre jogosult.
+(1a) Az ellentételezést a számvitelről szóló 2000. évi C. törvény szerinti egyéb bevételnek kell tekinteni, és
+nem képezi tárgyát az általános forgalmi adónak.”
+
+2. §
+A KR. a következő 5/A. és 5/B. §-sal egészül ki:
+„5/A. § (1) A Kormány az elérhető árú villamos energia ellátás biztosítására rezsivédelmi ellátási szolgáltatást
+nyújt a villamos energia egyetemes szolgáltatást igénybe vevő felhasználók számára. E rendelet értelmében
+a rezsivédelmi ellátási szolgáltatás a villamos energia egyetemes szolgáltatásra jogosult felhasználó számára
+a villamos energia rendszer használatának elérhető ár ellenében történő biztosítása az energiapiaci körülmények
+megváltozása esetén is.
+(2) A Kormány a rezsivédelmi ellátási szolgáltatás biztosítása céljából a 2023. január 1. és 2023. december 31. közötti
+időszakra a Magyarország területén a Korm. rendelet hatálybalépésének időpontjában a Vet. 3. § 22. pontja szerinti,
+területileg illetékes elosztó hálózati engedélyes társaságot (a továbbiakban: Hálózati engedélyes) jelöli ki.
+(3) A rezsivédelmi ellátási szolgáltatás biztosítására a miniszter a Hálózati engedélyessel szerződést köt. A Hálózati
+engedélyes a szerződést tájékoztatás céljából megküldi a Hivatal részére. A szerződés tartalmazza
+a) a rezsivédelmi ellátási szolgáltatás biztosítására vonatkozó kötelezettség részletes tartalmát,
+b) a rezsivédelmi ellátási szolgáltatás biztosításáért járó ellentételezés mértékének megállapítására vonatkozó
+szabályokat és
+c) az ellentételezés kifizetésének szabályait.
+5/B. § (1) Az adott Hálózati engedélyes részére járó ellentételezés megegyezik a Hivatal H 3808/2022. számú
+határozata alapján az adott Hálózati engedélyes esetében 2023. évre elismert, de a díjszámítás alapjában
+– a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő további eltérő
+alkalmazásáról és a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő
+alkalmazásáról szóló 450/2022. (XI. 9.) Korm. rendelet módosításáról szóló 484/2022. (XI. 29.) Korm. rendelet 1. §
+d) pontja alapján – figyelembe nem vett részével.
+(2) A rezsivédelmi ellátási szolgáltatás biztosításáért a Hálózati engedélyes az (1) bekezdésben meghatározott
+mértékig ellentételezésre jogosult. Az (1) bekezdés szerinti ellentételezést a miniszter az 5/A. § (3) bekezdése szerinti
+szerződésben meghatározott ütemezés szerint fizeti ki a Hálózati engedélyes részére az erre a célra elkülönített
+költségvetési forrásból.
+(3) A rezsivédelmi ellátási szolgáltatás biztosítása nem minősül az általános forgalmi adóról szóló 2007. évi
+CXXVII. törvény szerinti szolgáltatásnyújtásnak, és a szolgáltatásnyújtásért a Hálózati engedélyes részére
+ellentételezésként kifizetett összeg visszafizetési kötelezettség nélkül átadott pénzeszköznek tekintendő.
+Az engedélyesek számára biztosított kompenzáció összegét nem lehet a távhőszolgáltatás versenyképesebbé
+tételéről szóló 2008. évi LXVII. törvény 6. § (3) bekezdés b) pontja szerinti csökkentő tételként figyelembe venni
+az energiaellátók jövedelemadója adóalapjának meghatározásakor.
+(4) A rezsivédelmi ellátási szolgáltatás biztosítása fejében a Hálózati engedélyesnek kifizetett ellentételezést
+a számvitelről szóló 2000. évi C. törvény szerinti egyéb bevételnek kell tekinteni, és nem képezi tárgyát az általános
+forgalmi adónak.”
+3. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
