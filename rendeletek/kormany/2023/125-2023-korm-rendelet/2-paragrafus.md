@@ -1,1 +1,3 @@
-2. § Az R. 2. §-ában a „Pest Vármegyei Kormányhivatalt vezető” szövegrész helyébe a „Budapest Főváros Kormányhivatalt vezető” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
