@@ -26,9 +26,9 @@ Határidő: azonnal
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: a kiállítás támogatására: 2022. december 31.
+Határidő: a kiállítás megvalósítására: 2025. december 31.
 
-a kiadvány megjelentetésére: 2022. december 31.
+a kiadvány megjelentetésére 2025. december 31.
 
 4. felhívja a Miniszterelnökséget vezető minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a Makovecz-életmű a Magyar Értéktárba felvételre kerüljön;
 
@@ -118,7 +118,7 @@ Határidő: a felmerülés ütemében
 
 13.[^10]
 
-[^1]: A 3. pont az 1815/2019. (XII. 30.) Korm. határozat 2. pontja, az 1541/2020. (VIII. 17.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: A 3. pont az 1143/2023. (IV. 18.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: Az 5. pont az 1710/2016. (XII. 5.) Korm. határozat 1. pontja, az 1853/2016. (XII. 27.) Korm. határozat 67. pont a) alpontja szerint módosított szöveg.
 [^3]: A 6. pont az 1853/2016. (XII. 27.) Korm. határozat 67. pont b) alpontja szerint módosított szöveg.
 [^4]: A 7. pont az 1989/2017. (XII. 19.) Korm. határozat 2. pontja szerint módosított szöveg.
