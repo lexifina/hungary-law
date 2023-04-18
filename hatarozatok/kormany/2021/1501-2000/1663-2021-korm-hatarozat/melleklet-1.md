@@ -70,12 +70,11 @@
 
 ## 10. a Kvtv. 17. §-a és a 4. melléklet 2. pontja alapján jóváhagyja a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 19. Szociális, gyermekvédelmi, gyermekjóléti és fogyatékos személyek esélyegyenlőségét elősegítő célelőirányzatok alcím, 1. Szociális célú nem állami humánszolgáltatások támogatása jogcímcsoport legfeljebb 34 000 000 000 forint összeggel történő túllépését;
 
-## 11. az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi a Nemzeti Adó- és Vámhivatal vezetője számára, hogy a határátkelőhelyeken átlépő tehergépjárművek és vasúti szerelvények gyorsabb és eredményesebb átvizsgálásának fejlesztéséhez szükséges közúti és vasúti röntgenberendezések beszerzése érdekében – a vonatkozó közbeszerzési eljárások (a továbbiakban: Közbeszerzési eljárások) lefolytatását követően kihirdetett nyertes ajánlatok értéke alapján az összesen legfeljebb 9 144 262 378 forint összegű kötelezettségvállalásból – a 2022–2023. évek mint a költségvetési évet követő évek előirányzatai terhére összesen legfeljebb 8 964 963 115 forint összeg mértékéig kötelezettséget vállaljon;
+## 11.[^1] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi a Nemzeti Adó- és Vámhivatal vezetője számára, hogy a határátkelőhelyeken átlépő tehergépjárművek és vasúti szerelvények gyorsabb és eredményesebb átvizsgálásának fejlesztéséhez szükséges közúti és vasúti röntgenberendezések beszerzése érdekében – a vonatkozó közbeszerzési eljárások (a továbbiakban: Közbeszerzési eljárások) lefolytatását követően kihirdetett nyertes ajánlatok értéke alapján az összesen legfeljebb 9 144 262 378 forint összegű kötelezettségvállalásból – a 2022–2024. évek mint a költségvetési évet követő évek előirányzatai terhére összesen legfeljebb 8 964 963 115 forint összeg mértékéig kötelezettséget vállaljon;
 
-## 12. az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva a több év vagy a költségvetési éven túli év kiadási előirányzatai terhére a Közbeszerzési eljárásokhoz kapcsolódóan vállalható kötelezettségek 2022–2023. évekre vonatkozó felső korlátját az alábbiak szerint állapítja meg:
-
-## a) a 2022. évre vonatkozóan 7 317 915 355 forint,
-
-## b) a 2023. évre vonatkozóan 1 647 047 760 forint.
+## 12.[^2] az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva a több év vagy a költségvetési éven túli év kiadási előirányzatai terhére a Közbeszerzési eljárásokhoz kapcsolódóan vállalható kötelezettségek 2024. évre vonatkozó felső korlátját 1 647 047 760 forint összegben állapítja meg.
 
 1. melléklet az 1663/2021. (IX. 28.) Korm. határozathoz
+
+[^1]: A 11. pont az 1143/2023. (IV. 18.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 12. pont az 1143/2023. (IV. 18.) Korm. határozat 5. pontjával megállapított szöveg.
