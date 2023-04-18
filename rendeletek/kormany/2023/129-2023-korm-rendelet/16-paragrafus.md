@@ -1,0 +1,1 @@
+16. § Az Áfa tv. 17. §-ától eltérően nem áll be a termék értékesítéséhez, szolgáltatás nyújtásához fűződő joghatás, ha az adós gazdasági tevékenységének folytatására alapított korlátolt felelősségű felszámolás alatt álló adóalany a terméket, vagyoni értékű jogot nem pénzbeli betétként, hozzájárulásként a 3. és 4. § alapján bocsátja rendelkezésre.

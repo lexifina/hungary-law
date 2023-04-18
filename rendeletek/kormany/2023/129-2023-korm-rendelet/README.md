@@ -1,0 +1,9 @@
+# 129/2023. (IV. 17.) Korm. rendelet
+
+a felszámolási eljárás során az adós gazdasági tevékenysége folytatása érdekében való értékesítés veszélyhelyzeti szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-129-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2023-04-18 | 2023-129-20-22.1 | 129/2023. (IV. 17.) Korm. rendelet |

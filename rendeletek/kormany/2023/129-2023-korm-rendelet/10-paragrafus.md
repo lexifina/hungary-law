@@ -1,0 +1,3 @@
+10. § (1) Az adós gazdasági tevékenységének folytatására alapított gazdasági társaság részére a 3. § (1) bekezdése szerint nem pénzbeli vagyoni hozzájárulásként rendelkezésre bocsátott vagyontárgy működtetésére a 9. § (13) bekezdése szerinti szerződés megkötéséig az adós jogosult és köteles térítésmentesen, illetve a működési költségek az adóst terhelik.
+
+(2) Az értékesítési eljárásban való részvétel feltétele, hogy a részvételi jelentkező az ajánlata nyertessége esetére kötelezettséget vállaljon arra, hogy a felszámolóval a gazdasági tevékenységhez igazodó olyan megállapodást köt, ami biztosítja a működés veszteségmentes folytatását az üzletrész-átruházási szerződés megkötésétől annak teljesedésbe menéséig.

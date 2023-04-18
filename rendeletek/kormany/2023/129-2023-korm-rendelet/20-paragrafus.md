@@ -1,0 +1,1 @@
+20. § Ha a nyertes ajánlattevő tulajdonszerzése harmadik fél jóváhagyásától függ, akkor az ajánlattevő a 9. § (13) bekezdése szerinti szerződéskötést követő 15 napon belül köteles a jogosító engedély iránti kérelmet az illetékes hatósághoz benyújtani.

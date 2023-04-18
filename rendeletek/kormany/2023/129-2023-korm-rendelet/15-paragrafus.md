@@ -1,0 +1,1 @@
+15. § Az Itv. 26. §-ától eltérően mentes a visszterhes vagyonátruházási illeték alól a 3. és 4. § alapján az adós gazdasági tevékenységének folytatására alapított korlátolt felelősségű társaság nem pénzbeli vagyoni hozzájárulás rendelkezésre bocsátásával megvalósult tulajdonszerzése.
