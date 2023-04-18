@@ -18,7 +18,7 @@
 
 ## emberi erőforrások minisztere
 
-## Határidő: 2021. december 31., a Kiemelt sportegyesületek támogatása előirányzat javára biztosított 300 000 000 forint tekintetében 2023. február 15.
+## Határidő: 2021. december 31., a Kiemelt sportegyesületek támogatása előirányzat javára biztosított 300 000 000 forint tekintetében 2024. július 31.
 
 ## 3. az Áht. 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva 9 812 883 467 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 43. Központi Maradványelszámolási Alap cím terhére, a 3. melléklet szerint.
 
@@ -28,4 +28,4 @@
 
 1. melléklet az 1388/2021. (VI. 18.) Korm. határozathoz
 
-[^1]: A 2. pont az 1121/2022. (III. 7.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1121/2022. (III. 7.) Korm. határozat 7. pontja, az 1143/2023. (IV. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
