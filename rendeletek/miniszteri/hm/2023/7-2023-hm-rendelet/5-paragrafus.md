@@ -1,1 +1,3 @@
-5. § Hatályát veszti a védelmi célokat szolgáló földmérési és térképészeti szakigazgatási feladatokról, valamint a honvédelmi célú térképellátásról szóló 35/2000. (XII. 20.) HM rendelet.
+5. §[^1]
+
+[^1]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
