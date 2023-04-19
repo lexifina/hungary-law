@@ -1,0 +1,3 @@
+1. § Az egyes víziközmű beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 323/2020. (VII. 1.) Korm. rendelet (a továbbiakban: R.) a következő 15. §-sal egészül ki:
+
+„15. § E rendeletnek az egyes víziközmű beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 323/2020. (VII. 1.) Korm. rendelet módosításáról szóló 135/2023. (IV. 18.) Korm. rendelettel (a továbbiakban: Módr8.) megállapított 2. mellékletébenfoglalt táblázat 12. sorát a Módr8. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
