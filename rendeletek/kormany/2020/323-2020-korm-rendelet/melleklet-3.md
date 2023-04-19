@@ -22,7 +22,9 @@
 
 | 11. | Debrecen Déli és Észak-Nyugati Gazdasági Övezet fejlesztése II. | Debrecen | Hajdú-Bihar Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 323/2020. (VII. 1.) Korm. rendelethez[^30]
+| 12. | Science Park Szeged Tudományos és Innovációs Park fejlesztése | Szeged | Csongrád-Csanád Vármegyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 323/2020. (VII. 1.) Korm. rendelethez[^32]
 
 A Beruházással érintett, 1. § (3) bekezdése szerinti ingatlanok
 
@@ -38,4 +40,4 @@ A Beruházással érintett, 1. § (3) bekezdése szerinti ingatlanok
 
 | 5. | Vác | 0389/1, 0389/3, 0405/1, 0406/2, 0412/2, 0414, 0415/1, 0415/2, 0417/6, 0420/24, 0432, 0442, 1830/6, 4552/9, 4552/12, 5680/21, 5680/24, 5749, 5768, 5779/15, 22315, 22390, 22403 |
 
-[^30]: A 3. mellékletet a 437/2022. (XI. 2.) Korm. rendelet 7. §-a iktatta be.
+[^32]: A 3. mellékletet a 437/2022. (XI. 2.) Korm. rendelet 7. §-a iktatta be.
