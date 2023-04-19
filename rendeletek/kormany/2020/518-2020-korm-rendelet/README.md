@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-518-20-
 | 2021-09-29 | 2020-518-20-22.7 | 530/2021. (IX. 14.) Korm. rendelet |
 | 2022-01-01 | 2020-518-20-22.8 | 786/2021. (XII. 27.) Korm. rendelet |
 | 2023-01-01 | 2020-518-20-22.9 | 616/2022. (XII. 29.) Korm. rendelet |
+| 2023-04-19 | 2020-518-20-22.10 | 131/2023. (IV. 18.) Korm. rendelet |
