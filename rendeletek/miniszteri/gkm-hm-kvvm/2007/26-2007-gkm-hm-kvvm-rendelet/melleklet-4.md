@@ -52,18 +52,21 @@ A LÉGTÉRSZERKEZET MÓDOSÍTÁSÁRA IRÁNYULÓ JAVASLAT KÖTELEZŐ TARTALMI ELE
 
 4.[^108] Az ESARR előírásoknak megfelelő repülésbiztonsági felmérés elkészítésének elsajátítására alkalmas képzettségek a következők:
 
-4.1. Az EUROCONTROL – Institute of Air Navigation Services (Léginavigációs Szolgálatok Képzőintézete) képzése a következő képzési modulokkal:
+4.1.[^109] Az EUROCONTROL – Institute of Air Navigation Services (Léginavigációs Szolgálatok Képzőintézete) képzése a következő képzési modulokkal:
 
-Introduction to Safety Assessment Methodology (SAF-SAM)
+a) Assessment of Changes to the Functional System part 1 (SAF-CHG-AC 1) vagy
 
-vagy
+b) Safety Assessment for Practitioners (SAF-SA2).
 
-Introduction to Safety Assessment (SAF-SA1) és
+UAS műveletek végrehajtása esetén az a) és b) pontok mellett az alábbi modulok:
 
-Safety Assessment for Practitioners (SAF-SA2).
+c) Remotely Piloted Aircraft Systems – Overview of Safety Assessment Methodology (SORA) for ATM Actors (GEN-RPAS-SAF) vagy
+
+d) Unmanned Aircraft Systems – Overview of Safety Assessment Methodology (SORA) for ATM Actors [UAS-SAF].
 
 4.2. Az EUROCONTROL által elfogadott, a 4.1. pontban meghatározott képzési modulokkal azonos szintű egyéb repülésbiztonsági felmérés elkészítésének elsajátítására alkalmas képzés.
 
 [^106]: A 4. mellékletet az 56/2011. (XI. 8.) NFM rendelet 7. §-a iktatta be.
 [^107]: A 4. melléklet 3. pont 3.6. alpontja a 25/2017. (VI. 30.) NFM rendelet 15. § e) pontja szerint módosított szöveg.
 [^108]: A 4. melléklet 4. pontja a 9/2018. (III. 29.) NFM rendelet 4. §-ával megállapított szöveg.
+[^109]: A 4. melléklet 4. pont 4.1. alpontja a 7/2023. (IV. 14.) ÉKM rendelet 4. §-ával megállapított szöveg.

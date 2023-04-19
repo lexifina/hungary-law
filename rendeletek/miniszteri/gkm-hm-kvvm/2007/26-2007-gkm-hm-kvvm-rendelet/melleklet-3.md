@@ -598,6 +598,8 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 21. | LHR39 | Százhalombatta II. 1200 m sugarú kör a 471942N 0185439E középpont körül | 1500’ (500m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára, azon pilóta nélküli légijárművek kivételével, amelyek repüléséhez a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 5/B. § (1a) bekezdése szerint hozzájárulás adható. |
 
+| 22. | LHR40 | Kiskunfélegyháza 1 km sugarú kör a 464113N 0195051E középpont körül | 2500’ (750 m) AMSL/GND | 250 kt-nál (IAS) kisebb sebességű légijárművek számára azon pilóta nélküli légijárművek kivételével, amelyek repüléséhez a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 5/B. § (1a) bekezdése szerint hozzájárulás adható. |
+
 3. Környezetvédelmi szempontból korlátozott légterek
 
 |  | A | B | C | D | E |
@@ -1308,4 +1310,4 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 10. | BACS NDZ | Bácsbokod No Drone Zone 2 km sugarú kör a 460630N 0190926E középpont körül | 2500’ (750 m) AMSL/GND |
 
-[^105]: A 3. melléklet a 45/2017. (XII. 4.) NFM rendelet 3. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § q) pontja, a 7/2021. (II. 5.) ITM rendelet 4–5. §-a, az 55/2021. (XI. 5.) ITM rendelet 6–7. §-a szerint módosított szöveg. [A 34/2019. (IX. 23.) ITM rendelet 7. § p) pontjával elrendelt módosítás nem vezethető át.]
+[^105]: A 3. melléklet a 45/2017. (XII. 4.) NFM rendelet 3. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § q) pontja, a 7/2021. (II. 5.) ITM rendelet 4–5. §-a, az 55/2021. (XI. 5.) ITM rendelet 6–7. §-a, a 7/2023. (IV. 14.) ÉKM rendelet 3. §-a szerint módosított szöveg. [A 34/2019. (IX. 23.) ITM rendelet 7. § p) pontjával elrendelt módosítás nem vezethető át.]

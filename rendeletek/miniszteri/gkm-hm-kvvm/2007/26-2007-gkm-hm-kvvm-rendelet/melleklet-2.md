@@ -748,7 +748,7 @@ II. ATS ÁTRUHÁZÁS
 
 3.1. Előzetes koordinációs légterek
 
-## 2X05311N_4
+## 2X05311N.docx
 
 |  | A | B | C | D |
 
@@ -824,7 +824,9 @@ II. ATS ÁTRUHÁZÁS
 
 |  | 481115N | 0202525E |
 
-| 3.2. Csökkentett koordinációs légterek |
+3.2. Csökkentett koordinációs légterek
+
+## 2X05311O.docx
 
 |  | A | B | C | D |
 
@@ -1476,7 +1478,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 470104N 465337N 464819N 464915N 470104N | 0191155E 0190031E 0192349E 0192935E 0191155E |
 
-| 27. | LHSG143 | Koordinált légtér 7500’ (2300 m) AMSL/ 5500’ (1700 m) AMSL | Kizárólag verseny keretében végrehajtott vitorlázó repülések számára. Csak Kecskemét MTMA3/A-val együtt működhet. |
+| 27. | LHSG143 | Koordinált légtér 7500’ (2300 m) AMSL/ 4000’ (1200 m) AMSL | Kizárólag verseny keretében végrehajtott vitorlázó repülések számára. Csak Kecskemét MTMA3/A-val együtt működhet. |
 
 | 465337N 463957N 464915N 464819N 465337N | 0190031E 0192213E 0192935E 0192349E 0190031E |
 
@@ -1816,4 +1818,4 @@ IV. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
 1. Időszakosan korlátozott légterek
 
-[^104]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 4–5. §-a, a 7/2022. (VII. 27.) TIM rendelet 3. §-a szerint módosított szöveg. A Magyar Közlöny 201. számában megjelent helyesbítésnek megfelelő szöveg.
+[^104]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 4–5. §-a, a 7/2022. (VII. 27.) TIM rendelet 3. §-a, a 7/2023. (IV. 14.) ÉKM rendelet 2. §-a szerint módosított szöveg. A Magyar Közlöny 201. számában megjelent helyesbítésnek megfelelő szöveg.
