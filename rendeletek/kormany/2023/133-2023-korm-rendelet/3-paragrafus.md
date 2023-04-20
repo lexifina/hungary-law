@@ -1,7 +1,3 @@
-3. § Az R.
+3. §[^4]
 
-a) 1. § (1) bekezdésében az „azok a karitatív tevékenységet folytató közhasznú szervezetek” szövegrész helyébe az „a Tanács döntése esetén azok a karitatív tevékenységet folytató közhasznú szervezetek” szöveg,
-
-b) 1. § (2) bekezdésében a „Tanács tagja” szövegrész helyébe a „Tanács döntése esetén a Tanács állandó tagja” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

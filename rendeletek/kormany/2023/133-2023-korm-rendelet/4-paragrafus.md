@@ -1,5 +1,3 @@
-4. § Hatályát veszti az R.
+4. §[^5]
 
-a) 2. § (1) bekezdésében a „vagy javaslattevő szervezet” szövegrész,
-
-b) 3. §-a.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
