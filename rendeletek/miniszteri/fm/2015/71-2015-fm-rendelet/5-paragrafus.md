@@ -1,5 +1,3 @@
-## vonatkozó adatokat tartalmazza.
-
 ## 3. A fizikai blokk meghatározása
 
 5. § (1) A fizikai blokk meghatározása távérzékeléses és szükség szerint helyszíni adat-felvételezésen alapul. A fizikai blokkon belül a támogatható területek, a nem támogatható területek – azon belül a speciális tulajdonságokkal rendelkező területek –, és a felszínborítási fedvényben szereplő területek, valamint az ökológiai jelentőségű területek elkülönítése az adat-felvételezés időpontjában fennálló tényleges mezőgazdasági művelés figyelembevételével történik.
