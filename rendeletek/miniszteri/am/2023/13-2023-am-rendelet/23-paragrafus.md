@@ -1,0 +1,13 @@
+## 10. Az előzetes ellenőrzés
+
+23. § (1) Az előzetes ellenőrzés kiterjed a bejelentett területi elemek, állategyedek, méhcsaládok, állatállományok, valamint az egységes kérelemben igényelt támogatások tekintetében a 2. § (1)–(3) bekezdésében meghatározott miniszteri rendeletekben vagy pályázati felhívásokban előírt kötelező mellékletek csatolása tényének vizsgálatára. A vizsgálat nem terjed ki a mellékletek tartalmára.
+
+(2) Ha a Kincstár az egységes kérelem előzetes ellenőrzése során megállapítja, hogy a bejelentett területi elemek, állategyedek, méhcsaládok, törzsállományok és állategységek esetében valószínűsíthetően meg nem felelés miatti eljárás lefolytatása lenne indokolt, vagy a kötelező melléklet nem került csatolásra, úgy erről a megállapításáról értesíti a mezőgazdasági termelőt.
+
+(3) A mezőgazdasági termelő a tárgyévi egységes kérelmét az (1) bekezdés szerinti megállapításoknak megfelelően az értesítés kézhezvételétől számított 9 napon belül, de legkésőbb tárgyév szeptember 29-ig a 2. § (3) bekezdésében meghatározott pályázati felhívások tekintetében jogkövetkezmények nélkül kijavíthatja, valamint egyéb adatváltozást jelenthet be. A 2. § (1) bekezdésében meghatározott miniszteri rendeletek szerinti támogatások tekintetében az egységes kérelem kijavításra a 20. § szerinti határidő irányadó.
+
+(4) Az előzetes ellenőrzésről szóló értesítésre vagy végzésre adott válasz benyújtási időpontjának a (3) bekezdésben foglalt határidőig utoljára történt elektronikus feltöltés napja minősül.
+
+(5) Amennyiben a (3) bekezdésben foglalt határnapot követően 2. § (3) bekezdésében meghatározott pályázati felhívások tekintetében a bejelentett területi elemek, illetve állategyedek, méhcsaládok, törzsállományok és állategységek esetében az előzetes ellenőrzés során valószínűsített meg nem felelés továbbra is fennáll, az 1305/2013/EU rendelet alapján végrehajtott támogatási intézkedésekkel kapcsolatban benyújtott kifizetési kérelmek tekintetében a Kincstár az előzetes egyeztetéssel érintett bejelentett területi elemek, illetve állategyedek, méhcsaládok, törzsállományok és állategység tekintetében a 809/2014/EU bizottsági végrehajtási rendelet 3. cikk (2) bekezdésében és 15. cikk (3) bekezdésében foglaltak szerint jár el.
+
+(6) A 22. § (3) bekezdése szerinti végzés, a jogszerű földhasználat igazolására felszólító végzés, a 29. § (4) bekezdés a) pontja, illetve 30. § (1)–(2) bekezdése szerinti egyeztetésre felszólító végzés – e rendelet vagy más jogszabály eltérő rendelkezése hiányában – az 1305/2013/EU rendelet alapján végrehajtott támogatási intézkedések esetén a 809/2014/EU bizottsági végrehajtási rendelet 15. cikk (1a) bekezdése szerinti előzetes ellenőrzésről történő értesítésnek minősül.
