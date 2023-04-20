@@ -18,9 +18,11 @@
 
 ## Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2021. június 30.
+## Határidő: 2024. december 31.
 
 1. melléklet az 1585/2018. (XI. 21.) Korm. határozathoz
+
+8K33749_0
 
 | XLII. A költségvetés közvetlen bevételei és kiadásai LXV. Bethlen Gábor Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2018. forintban |
 
@@ -84,4 +86,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 3. pont az 1176/2020. (IV. 23.) Korm. határozat 17. pontja szerint módosított szöveg.
+[^1]: A 3. pont az 1146/2023. (IV. 20.) Korm. határozat 9. pontja szerint módosított szöveg.
