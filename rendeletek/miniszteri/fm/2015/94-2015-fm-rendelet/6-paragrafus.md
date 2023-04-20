@@ -26,23 +26,26 @@ c) az ügyfél akadályoztatása esetén az akadály megszűnésétől számíto
 
 kell megtenni, amely határidő jogvesztő.
 
+(3a)[^21] A (3) bekezdés c) pontja szerinti esetben a bejelentéshez elektronikusan mellékelni kell az akadályoztatás fennállásának és megszűnésének tényét tanúsító hatósági bizonyítvány vagy egyéb hitelt érdemlő igazolás másolatát.
+
 (4) A 3. § (1) bekezdés a), b), c), d), f), j) és k) pontjában meghatározott esetekben a bejelentéshez elektronikusan mellékelni kell
 
 a) az esemény bekövetkezését tanúsító hatósági bizonyítvány vagy egyéb hitelt érdemlő igazolás másolatát, vagy
 
 b) az a) pont szerinti okirat kiállítására hatáskörrel rendelkező hatóság vagy egyéb szerv által kiadott – az okirat kiállítása iránti kérelem benyújtásának tényét tanúsító – nyilatkozatot.
 
-(4a)[^21] A 3. § (1) bekezdés g) és h) pontjában meghatározott esetben, ha a 3. § (4) bekezdésében foglaltak értelmében nem szükséges az ott megjelölt végrehajtásban közreműködő szerv megkeresése, a bejelentéshez elektronikus úton mellékelni kell a szolgáltató állatorvos igazolása vagy az elvégzett laboratóriumi vizsgálatot igazoló dokumentum másolati példányát.
+(4a)[^22] A 3. § (1) bekezdés g) és h) pontjában meghatározott esetben, ha a 3. § (4) bekezdésében foglaltak értelmében nem szükséges az ott megjelölt végrehajtásban közreműködő szerv megkeresése, a bejelentéshez elektronikus úton mellékelni kell a szolgáltató állatorvos igazolása vagy az elvégzett laboratóriumi vizsgálatot igazoló dokumentum másolati példányát.
 
 (5) A (4) bekezdés b) pontja szerinti esetben az esemény bekövetkezését tanúsító igazolás másolatát annak közlésétől számított tizenöt napon belül elektronikus úton, ügyfélkapun keresztül kell benyújtani.
 
-(6)[^22]
+(6)[^23]
 
-(7)[^23]
+(7)[^24]
 
 [^18]: Az 5. § a 88/2016. (XII. 29.) FM rendelet 104. § c) pontja szerint módosított szöveg.
 [^19]: A 6. § (1) bekezdése a 66/2017. (XII. 22.) FM rendelet 31. § (1) bekezdésével megállapított szöveg.
 [^20]: A 6. § (2) bekezdés b) pontja a 66/2017. (XII. 22.) FM rendelet 31. § (2) bekezdésével megállapított, a 12/2021. (III. 23.) AM rendelet 12. § b) pontja szerint módosított szöveg.
-[^21]: A 6. § (4a) bekezdését a 12/2021. (III. 23.) AM rendelet 10. §-a iktatta be.
-[^22]: A 6. § (6) bekezdését a 17/2017. (IV. 10.) FM rendelet 20. § (2) bekezdése iktatta be, hatályon kívül helyezte a 12/2021. (III. 23.) AM rendelet 13. §-a.
-[^23]: A 6. § (7) bekezdését a 17/2017. (IV. 10.) FM rendelet 20. § (2) bekezdése iktatta be, hatályon kívül helyezte a 12/2021. (III. 23.) AM rendelet 13. §-a.
+[^21]: A 6. § (3a) bekezdését a 20/2023. (IV. 19.) AM rendelet 32. §-a iktatta be.
+[^22]: A 6. § (4a) bekezdését a 12/2021. (III. 23.) AM rendelet 10. §-a iktatta be.
+[^23]: A 6. § (6) bekezdését a 17/2017. (IV. 10.) FM rendelet 20. § (2) bekezdése iktatta be, hatályon kívül helyezte a 12/2021. (III. 23.) AM rendelet 13. §-a.
+[^24]: A 6. § (7) bekezdését a 17/2017. (IV. 10.) FM rendelet 20. § (2) bekezdése iktatta be, hatályon kívül helyezte a 12/2021. (III. 23.) AM rendelet 13. §-a.

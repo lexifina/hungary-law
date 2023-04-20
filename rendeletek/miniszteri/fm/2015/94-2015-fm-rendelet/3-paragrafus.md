@@ -36,13 +36,19 @@ l)[^6] a koronavírus-járvány miatt elrendelt kormányzati intézkedések (a t
 
 (2a)[^8] Az ügyfélnek az (1) bekezdés l) pontja szerinti akadályoztatás esetén igazolnia kell, hogy az adott támogatási feltételt a veszélyhelyzet alapjául szolgáló járványveszélyből előálló okból vagy a veszélyhelyzet miatt elrendelt korlátozásra visszavezethetően nem tudta teljesíteni.
 
+(2b)[^9] Az Európai Mezőgazdasági Garanciaalapból, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból nyújtott támogatások igénybevétele során alkalmazandó feltételekről szóló 14/2023. (IV. 19.) AM rendelet 15. §-ában és az Agro-ökológiai Programhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 15/2023. (IV. 19.) AM rendelet 8. §-ában meghatározott növényborítottsággal megvalósuló talajtakarás esetén a Kincstár a takarónövény elvetésének meghiúsulását okozó eseményt csak akkor ismeri el vis maiorként, ha a talaj takarása a vis maior esemény bekövetkezésekor tarlóval borított.
+
 (3) Ha az esemény az (1) bekezdés e) pontjában meghatározott esetkörön belül tűzeset miatt következett be, akkor azt az ügyfélnek a tűzeset helye szerint illetékes tűzvédelmi hatóság által kiállított tűzeseti hatósági bizonyítvánnyal vagy tűzvizsgálati jelentéssel kell igazolnia.
 
-(4)[^9] Ha a bejelentés az (1) bekezdés e), g), h) vagy i) pontjában meghatározott eseményre vonatkozik – az (1) bekezdés e) pontjában meghatározott esetkörön belüli tűzeset kivételével –, akkor az esemény bekövetkezésének igazolása céljából a Kincstár
+(4)[^10] Ha a bejelentés az (1) bekezdés e), g), h) vagy i) pontjában meghatározott eseményre vonatkozik – az (1) bekezdés e) pontjában meghatározott esetkörön belüli tűzeset kivételével –, akkor az esemény bekövetkezésének igazolása céljából a Kincstár
 
-a) a bejelentés hiánytalan benyújtását követő tíz napon belül,
+a) a bejelentés hiánytalan benyújtását követő tíz napon belül, vagy
 
-b)[^10] ha a bejelentés támogatási vagy kifizetési kérelem beadási időszakban kerül benyújtásra, akkor a kérelembenyújtási időszakot követő tíz napon belül, hiányosan benyújtott bejelentés esetén a bejelentés hiánytalan benyújtását követő tíz napon belül megkeresi a Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet 18. § (1) bekezdésében meghatározott végrehajtásban közreműködő szervet.
+b) ha a bejelentés támogatási vagy kifizetési kérelem beadási időszakban kerül benyújtásra, akkor a kérelembenyújtási időszakot követő tíz napon belül, vagy
+
+c) hiányosan benyújtott bejelentés esetén a bejelentés hiánytalan benyújtását követő tíz napon belül
+
+megkeresi a Közös Agrárpolitika és a nemzeti költségvetésből biztosított agrártámogatások végrehajtásának szervezetéről és intézményeiről szóló 601/2022. (XII. 28.) Korm. rendelet 24. § (1) bekezdésében meghatározott végrehajtásban közreműködő szervet.
 
 (4a)[^11] Az (1) bekezdés g) és h) pontja alá tartozó, a végrehajtásban közreműködő szerv hatáskörén kívüli események a szolgáltató állatorvos által kiállított igazolással vagy laboratóriumi vizsgálattal igazolható.
 
@@ -59,8 +65,8 @@ b)[^10] ha a bejelentés támogatási vagy kifizetési kérelem beadási idősza
 [^6]: A 3. § (1) bekezdés l) pontját a 18/2020. (VI. 12.) AM rendelet 9. § (1) bekezdése iktatta be, szövege a 12/2021. (III. 23.) AM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^7]: A 3. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 104. § b) pontja szerint módosított szöveg.
 [^8]: A 3. § (2a) bekezdését a 18/2020. (VI. 12.) AM rendelet 9. § (2) bekezdése iktatta be.
-[^9]: A 3. § (4) bekezdése a 66/2017. (XII. 22.) FM rendelet 30. § (1) bekezdésével megállapított szöveg.
-[^10]: A 3. § (4) bekezdés b) pontja a 12/2021. (III. 23.) AM rendelet 12. § a) pontja szerint módosított szöveg.
+[^9]: A 3. § (2b) bekezdését a 20/2023. (IV. 19.) AM rendelet 31. § (1) bekezdése iktatta be.
+[^10]: A 3. § (4) bekezdése a 20/2023. (IV. 19.) AM rendelet 31. § (2) bekezdésével megállapított szöveg.
 [^11]: A 3. § (4a) bekezdését a 12/2021. (III. 23.) AM rendelet 9. § (2) bekezdése iktatta be.
 [^12]: A 3. § (5) bekezdése a 66/2017. (XII. 22.) FM rendelet 30. § (1) bekezdésével megállapított, a 30/2022. (IX. 27.) AM rendelet 5. §-a szerint módosított szöveg.
 [^13]: A 3. § (6) bekezdését a 66/2017. (XII. 22.) FM rendelet 33. §-a hatályon kívül helyezte, újonnan a 30/2022. (IX. 27.) AM rendelet 3. §-a iktatta be.
