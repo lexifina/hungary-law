@@ -10,7 +10,7 @@
 
 ## Felelős: nemzetpolitikáért felelő miniszterelnök-helyettes
 
-## Határidő: 2021. június 30.
+## Határidő: 2024. december 31.
 
 ## 2. felhívja a nemzetgazdasági minisztert, hogy 2016. évben 130 millió forintot biztosítson a célok megvalósítására;
 
@@ -25,6 +25,8 @@
 ## Határidő: a felmerülés ütemében
 
 1. melléklet az 1531/2015. (VII. 31.) Korm. határozathoz
+
+5K18535_0
 
 | XI. Miniszterelnökség XLII. A költségvetés közvetlen bevételei és kiadása LXV. Bethlen Gábor Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2015. Millió forintban, egy tizedessel |
 
@@ -94,4 +96,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1182/2016. (IV. 11.) Korm. határozat 7. pontja, az 1281/2016. (VI. 7.) Korm. határozat 1. pontja, az 1176/2020. (IV. 23.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1182/2016. (IV. 11.) Korm. határozat 7. pontja, az 1281/2016. (VI. 7.) Korm. határozat 1. pontja, az 1146/2023. (IV. 20.) Korm. határozat 2. pontja szerint módosított szöveg.

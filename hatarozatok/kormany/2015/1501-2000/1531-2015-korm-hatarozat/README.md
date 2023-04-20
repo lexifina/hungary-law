@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1531-30
 | 2018-03-26 | 2015-1531-30-22.5 | 1182/2016. (IV. 11.) Korm. határozat |
 | 2019-04-30 | 2015-1531-30-22.6 | 1182/2016. (IV. 11.) Korm. határozat |
 | 2020-04-23 | 2015-1531-30-22.7 | 1182/2016. (IV. 11.) Korm. határozat |
+| 2023-04-20 | 2015-1531-30-22.8 | 1182/2016. (IV. 11.) Korm. határozat |
