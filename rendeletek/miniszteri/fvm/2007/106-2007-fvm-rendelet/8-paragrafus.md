@@ -1,3 +1,3 @@
-## 7. §[^28]
+8. §[^34] Az Európai Mezőgazdasági Garanciaalapból finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 16/2023. (IV. 19.) AM rendelet 11.,12., 17. és 22. §-ában meghatározott jogcímek szerinti történelmi bázisjogosultságok használati jogának, valamint a történelmi bázisjogosultságok mennyiségének nyomon követése céljából nyilvántartást kell működtetni. A nyilvántartás működtetését, illetve a működtetés kapcsán felmerülő hatósági feladatokat a Kincstár látja el.
 
-[^28]: A 7. §-t a 27/2013. (IV. 26.) VM rendelet 5. §-a hatályon kívül helyezte.
+[^34]: A 8. § a 20/2023. (IV. 19.) AM rendelet 14. §-ával megállapított szöveg.

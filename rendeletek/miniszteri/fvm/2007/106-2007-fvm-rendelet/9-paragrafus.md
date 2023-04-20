@@ -1,3 +1,3 @@
-## 8. §[^29] A történelmi bázis jogosultságok és a kiegészítő történelmi bázisjogosultságok használati jogának, valamint a nemzeti történelmi bázis jogosultságok mennyiségének nyomon követése érdekében nyilvántartást kell működtetni. A nyilvántartás működtetését, illetve a működtetés kapcsán felmerülő hatósági feladatokat a Kincstár látja el.
+9. §[^35] A ki nem osztott, vagy megvont, vagy a mezőgazdasági termelő által lemondott történelmi bázis jogosultságokból országos tartalékot kell képezni. Az országos tartalékból az alapszintű-jövedelemtámogatás alkalmazásakor bázis jogosultság igénylésére nincs lehetőség.
 
-[^29]: A 8. § a 27/2013. (IV. 26.) VM rendelet 4. §-ával megállapított, a 88/2016. (XII. 29.) FM rendelet 14. § b) pontja szerint módosított szöveg.
+[^35]: A 9. § a 20/2023. (IV. 19.) AM rendelet 15. § b) pontja szerint módosított szöveg.
