@@ -2,7 +2,7 @@
 
 (2) E rendelet hatálya nem terjed ki azokra az ügyekre, amelyeket a 2007–2013 programozási időszak tekintetében az Európai Mezőgazdasági Vidékfejlesztési Alapból és az Európai Halászati Alapból finanszírozott intézkedésekre az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról és a vis maiorral összefüggő egyes miniszteri rendeletek módosításáról szóló 94/2015. (XII. 23.) FM rendelet (a továbbiakban: FMR.) szabályoz.
 
-(3)[^1] Az (1) bekezdés szerinti eljárást a Magyar Államkincstár (a továbbiakban: Kincstár)
+(3)[^2] Az (1) bekezdés szerinti eljárást a Magyar Államkincstár (a továbbiakban: Kincstár)
 
 a) az Európai Mezőgazdasági Vidékfejlesztési Alapból finanszírozott támogatások tekintetében
 
@@ -14,4 +14,4 @@ b) az Európai Tengerügyi és Halászati Alapból finanszírozott támogatások
 
 folytatja le.
 
-[^1]: Az 1. § (3) bekezdését a 37/2017. (XII. 29.) MvM rendelet 9. § (1) bekezdése iktatta be.
+[^2]: Az 1. § (3) bekezdését a 37/2017. (XII. 29.) MvM rendelet 9. § (1) bekezdése iktatta be.
