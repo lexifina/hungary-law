@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1895-30
 | 2018-03-13 | 2017-1895-30-22.5 | 1013/2018. (II. 2.) Korm. határozat |
 | 2019-04-30 | 2017-1895-30-22.6 | 1013/2018. (II. 2.) Korm. határozat |
 | 2020-04-23 | 2017-1895-30-22.7 | 1013/2018. (II. 2.) Korm. határozat |
+| 2023-04-20 | 2017-1895-30-22.8 | 1013/2018. (II. 2.) Korm. határozat |

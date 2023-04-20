@@ -12,7 +12,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, földművelésügyi miniszter, belügyminiszter, nemzeti fejlesztési miniszter, emberi erőforrások minisztere, nemzetpolitikáért felelős miniszterelnök-helyettes, Nemzeti Adó- és Vámhivatal vezetője
 
-## Határidő: 2018. június 30., A Budai Vigadó felújításának támogatása előirányzat javára biztosított 403 683 473 forint forrás tekintetében 2018. december 31., a Nemzetpolitikai célú támogatások cím javára átcsoportosított 131 395 100 forint tekintetében 2021. december 31.
+## Határidő: 2018. június 30., A Budai Vigadó felújításának támogatása előirányzat javára biztosított 403 683 473 forint forrás tekintetében 2018. december 31., a Nemzetpolitikai célú támogatások cím javára átcsoportosított 131 395 100 forint tekintetében 2024. december 31.
 
 ## b) a Kvtv. 19. § (6) bekezdésében biztosított jogkörében eljárva 1 791 009 678 forint egyszeri átcsoportosítását rendeli el a 2. melléklet szerint;
 
@@ -54,7 +54,7 @@
 
 1. melléklet az 1895/2017. (XII. 4.) Korm. határozathoz[^5]
 
-[^1]: Az 1. pont a) alpontja az 1013/2018. (II. 2.) Korm. határozat 17. pontja, az 1080/2018. (III. 13.) Korm. határozat 15. pontja, az 1176/2020. (IV. 23.) Korm. határozat 12. pontja szerint módosított szöveg.
+[^1]: Az 1. pont a) alpontja az 1013/2018. (II. 2.) Korm. határozat 17. pontja, az 1080/2018. (III. 13.) Korm. határozat 15. pontja, az 1146/2023. (IV. 20.) Korm. határozat 8. pontja szerint módosított szöveg.
 [^2]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 4. pont az 1013/2018. (II. 2.) Korm. határozat 18. pontja szerint módosított szöveg.
 [^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
