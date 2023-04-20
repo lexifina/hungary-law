@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-53-20-1
 | 2021-05-21 | 2015-53-20-11.16 | 21/2021. (V. 20.) AM rendelet |
 | 2021-08-21 | 2015-53-20-11.17 | 88/2016. (XII. 29.) FM rendelet |
 | 2022-03-30 | 2015-53-20-11.18 | 11/2022. (III. 25.) AM rendelet |
+| 2023-04-20 | 2015-53-20-11.19 | 11/2022. (III. 25.) AM rendelet |
