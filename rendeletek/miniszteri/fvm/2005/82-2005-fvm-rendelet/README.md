@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-82-20-8
 | 2015-04-10 | 2005-82-20-82.11 | 16/2015. (IV. 9.) FM rendelet |
 | 2017-01-01 | 2005-82-20-82.12 | 88/2016. (XII. 29.) FM rendelet |
 | 2018-07-03 | 2005-82-20-82.13 | 9/2018. (VII. 2.) AM rendelet |
+| 2023-04-20 | 2005-82-20-82.14 | 20/2023. (IV. 19.) AM rendelet |
