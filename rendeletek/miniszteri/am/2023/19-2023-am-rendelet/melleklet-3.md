@@ -1,0 +1,77 @@
+|  | A | B | C |
+
+| 1 | Ágazat megnevezése | Alágazat megnevezése | Szakágazat megnevezése |
+
+| 2 | 02 Erdőgazdálkodás | 02.1 Erdészeti, egyéb erdő-gazdálkodási tevékenység | 02.10 Erdészeti, egyéb erdőgazdálkodási tevékenység |
+
+| 3 | 02.2 Fakitermelés | 02.20 Fakitermelés |
+
+| 4 | 02.3 Vadon termő egyéb erdei termék gyűjtése (023) | 02.30 Vadon termő egyéb erdei termék gyűjtése |
+
+| 5 | 02.4 Erdészeti szolgáltatás | 02.40 Erdészeti szolgáltatás |
+
+| 6 | 01 Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások | 01.4 Állattenyésztés | 01.41 Tejhasznú szarvasmarha tenyésztése |
+
+| 7 | 01.4 Állattenyésztés | 01.42 Egyéb szarvasmarha tenyésztése |
+
+| 8 | 01.4 Állattenyésztés | 01.43 Ló, lóféle tenyésztése |
+
+| 9 | 01.4 Állattenyésztés | 01.44 Teve, teveféle tenyésztése |
+
+| 10 | 01.4 Állattenyésztés | 01.45 Juh, kecske tenyésztése |
+
+| 11 | 01.4 Állattenyésztés | 01.46 Sertéstenyésztés |
+
+| 12 | 01.4 Állattenyésztés | 01.47 Baromfitenyésztés |
+
+| 13 | 01.4 Állattenyésztés | 01.49 Egyéb állat tenyésztése |
+
+| 14 | 01.2 Évelő növény termesztése | 01.21 Szőlőtermesztés |
+
+| 15 | 01.2 Évelő növény termesztése | 01.22 Trópusi gyümölcs termesztése |
+
+| 16 | 01.2 Évelő növény termesztése | 01.23 Citrusféle termesztése |
+
+| 17 | 01.2 Évelő növény termesztése | 01.24 Almatermésű, csonthéjas termesztése |
+
+| 18 | 01.2 Évelő növény termesztése | 01.25 Egyéb gyümölcs, héjastermésű termesztése |
+
+| 19 | 01.2 Évelő növény termesztése | 01.26 Olajtartalmú gyümölcs termesztése |
+
+| 20 | 01.2 Évelő növény termesztése | 01.27 Italgyártási növény termesztése |
+
+| 21 | 01.2 Évelő növény termesztése | 01.28 Fűszer-, aroma-, narkotikus, gyógynövény termesztése |
+
+| 22 | 01.2 Évelő növény termesztése | 01.29 Egyéb évelő növény termesztése |
+
+| 23 | 01.6 Mezőgazdasági, betakarítást követő szolgáltatás | 01.61 Növénytermesztési szolgáltatás |
+
+| 24 | 01.6 Mezőgazdasági, betakarítást követő szolgáltatás | 01.62 Állattenyésztési szolgáltatás |
+
+| 25 | 01.6 Mezőgazdasági, betakarítást követő szolgáltatás | 01.63 Betakarítást követő szolgáltatás |
+
+| 26 | 01.6 Mezőgazdasági, betakarítást követő szolgáltatás | 01.64 Vetési célú magfeldolgozás |
+
+| 27 | 01.1 Nem évelő növény termesztése | 01.11 Gabonaféle (kivéve: rizs), hüvelyes növény, olajos mag termesztése |
+
+| 28 | 01.1 Nem évelő növény termesztése | 01.12 Rizstermesztés |
+
+| 29 | 01.1 Nem évelő növény termesztése | 01.13 Zöldségféle, dinnye, gyökér-, gumósnövény termesztése |
+
+| 30 | 01.1 Nem évelő növény termesztése | 01.14 Cukornádtermesztés |
+
+| 31 | 01.1 Nem évelő növény termesztése | 01.15 Dohánytermesztés |
+
+| 32 | 01.1 Nem évelő növény termesztése | 01.16 Rostnövénytermesztés |
+
+| 33 | 01.1 Nem évelő növény termesztése | 01.19 Egyéb, nem évelő növény termesztése |
+
+| 34 | 01.3 Növényi szaporítóanyag termesztése | 01.30 Növényi szaporítóanyag termesztése |
+
+| 35 | 01.5 Vegyes gazdálkodás | 01.50 Vegyes gazdálkodás |
+
+| 36 | 01.7 Vadgazdálkodás, vadgazdálkodási szolgáltatás | 01.70 Vadgazdálkodás, vadgazdálkodási szolgáltatás |
+
+3. melléklet a 19/2023. (IV. 19.) AM rendelethez
+
+Az Önálló vállalkozók tevékenységi jegyzéke alapján elfogadott tevékenységek
