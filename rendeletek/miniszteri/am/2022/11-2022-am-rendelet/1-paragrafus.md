@@ -10,6 +10,12 @@
 
 4. elsődleges feldolgozó: az 53/2015. (IX. 14.) FM rendelet 1. § 12. pontja szerinti feldolgozó;
 
-5. kapcsolt vállalkozás: a 20/2020. (VI. 19.) AM rendelet 1. § i) pontja szerinti vállalkozás;
+5.[^1] kapcsolt vállalkozás: az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 7. pontja szerinti vállalkozás;
 
-6. referencia terület: az a hektárban kifejezett, a dohánytermelő 2022. évi egységes kérelmében – az egységes kérelemre vonatkozó uniós jogi aktusban foglalt késedelmes benyújtási határidőig – bejelentett dohány területméret és a dohánytermelőnek az elsődleges feldolgozóval a 2022. évre kötött felvásárlási szerződésben szereplő dohánymennyiség megtermelésére szolgáló, az elsődleges feldolgozó által a 2022. évre vonatkozóan előzetesen igazolt területméret közül a kisebb terület.
+6.[^2] referencia terület: az a hektárban kifejezett, a dohánytermelő 2023. évi egységes kérelmében – az egységes kérelemre vonatkozó uniós jogi aktusban foglalt késedelmes benyújtási határidőig – bejelentett dohány területméret és a dohánytermelőnek az elsődleges feldolgozóval a 2023. évre kötött felvásárlási szerződésben szereplő dohánymennyiség megtermelésére szolgáló, az elsődleges feldolgozó által a 2023. évre vonatkozóan előzetesen igazolt területméret közül a kisebb terület.
+
+7.[^3] válságtámogatás: a 25/2022. (VIII. 31.) AM rendelet 1. § 13. pontja szerinti támogatás.
+
+[^1]: Az 1. § 5. pontja a 20/2023. (IV. 19.) AM rendelet 33. §-ával megállapított szöveg.
+[^2]: Az 1. § 6. pontja a 20/2023. (IV. 19.) AM rendelet 37. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § 7. pontját a 20/2023. (IV. 19.) AM rendelet 33. § (2) bekezdése iktatta be.
