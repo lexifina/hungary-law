@@ -1,16 +1,12 @@
-## 1. § E rendelet szabályozza az állatlétszámhoz kötött támogatási jogosultságnak (a továbbiakban: támogatási jogosultság) az állatlétszámhoz kötött támogatási jogosultság országos tartalékáról szóló 93/2005. (X. 21.) FVM rendelet által meghatározott országos tartalékból (a továbbiakban: országos tartalék) történő igénylésének rendjét.
+2. §[^2] (1)[^3] A támogatási jogosultság az országos tartalékból a mezőgazdasági termelők között az alábbi sorrendben kerül kiosztásra:
 
-2. §[^1] (1) Támogatási jogosultság az országos tartalékból a következő szempontok figyelembevétele mellett kerül kiosztásra:
+a) az anyajuh-, illetve anyatehéntartási támogatási jogosultsággal nem rendelkező,
 
-a) jogerős határozaton alapuló igénnyel rendelkező;
+b) a fiatal mezőgazdasági termelők támogatásáról szóló AM rendelet szerinti támogatásban részesülő, valamint
 
-b) anyajuh-, illetve anyatehén-tartási támogatási jogosultsággal nem rendelkező;
+c) az a) és b) kategóriákba nem sorolható
 
-c) a „Fiatal gazdálkodók induló támogatás”-ban részesülő;
-
-d) a fenti a)–c) kategóriákba nem sorolható
-
-## termelők között.
+mezőgazdasági termelők.
 
 (2) Az országos tartaléknak az (1) bekezdés a) pontja szerinti igények kielégítését követően fennmaradó része egyenlő arányban kerül szétosztásra az (1) bekezdés b) és c) pontja szerinti igények között. Amennyiben a fenti igények kielégítését követően marad kiosztható támogatási jogosultság, úgy azokat a d) pont szerinti igénnyel rendelkezők között kell felosztani. Az a) pont szerinti igények kielégítése során is figyelemmel kell lenni a b)–d) pontok szerinti sorrendre.
 
@@ -20,7 +16,7 @@ a) anyajuhtartás esetén háromszáz támogatási jogosultság;
 
 b) anyatehéntartás esetén az országos tartalék 5 %-a.
 
-(4)[^2] Támogatási jogosultságot az a természetes személy, jogi személy, illetve jogi személyiséggel nem rendelkező szervezet (a továbbiakban együtt: termelő) is igényelhet, valamint jogosultság annak a termelőnek is kiosztásra kerülhet, aki (amely) felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll.
+(4)[^4] Támogatási jogosultságot az a természetes személy, jogi személy, illetve jogi személyiséggel nem rendelkező szervezet (a továbbiakban együtt: termelő) is igényelhet, valamint jogosultság annak a termelőnek is kiosztásra kerülhet, aki (amely) felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll.
 
 (5) A termelő:
 
@@ -28,5 +24,8 @@ a) az anyatehénre vonatkozó támogatás esetében, az országos tartalékból 
 
 b) az anyajuh, valamint a juh- és kecskefélékre vonatkozó támogatás esetében az országos tartalékból igényelt támogatási jogosultság megszerzését követő egy naptári évig
 
-[^1]: A 2. § a 117/2011. (XII. 15.) VM rendelet 8. §-ával megállapított szöveg.
-[^2]: A 2. § (4) bekezdése a 22/2014. (III. 14.) VM rendelet 34. §-a szerint módosított szöveg.
+a rendelkezésére álló támogatási jogosultságot nem ruházhatja át, illetve nem adhatja bérbe, azt maga köteles kihasználni, kivéve, ha az átruházás az adott jogosultság típusnak megfelelő teljes (anyajuh vagy anyatehén) állatállománnyal történik, illetve ha a vonatkozó állattartó tevékenységét az átadó – tenyészete felszámolásával egyidejűleg – megszünteti. Amennyiben a jogosultság átruházása jóváhagyásra kerül, az átadó a következő támogatási évben nem juthat támogatási jogosultsághoz az országos tartalékból.
+
+[^2]: A 2. § a 117/2011. (XII. 15.) VM rendelet 8. §-ával megállapított szöveg.
+[^3]: A 2. § (1) bekezdése a 20/2023. (IV. 19.) AM rendelet 8. §-ával megállapított szöveg.
+[^4]: A 2. § (4) bekezdése a 22/2014. (III. 14.) VM rendelet 34. §-a szerint módosított szöveg.
