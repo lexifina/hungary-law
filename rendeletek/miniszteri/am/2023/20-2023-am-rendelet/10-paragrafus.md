@@ -1,0 +1,1 @@
+10. § A 30/2006. (IV. 12.) FVM rendelet 1. §-ában az „az állatlétszámhoz kötött támogatási jogosultság országos tartalékáról szóló 93/2005. (X. 21.) FVM rendelet” szövegrész helyébe az „az állatlétszámhoz kötött támogatási jogosultságról szóló 82/2005. (IX. 15.) FVM rendelet” szöveg lép.

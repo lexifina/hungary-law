@@ -1,0 +1,3 @@
+5. § A 82/2005. (IX. 15.) FVM rendelet 11. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) E rendelet a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2115 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”

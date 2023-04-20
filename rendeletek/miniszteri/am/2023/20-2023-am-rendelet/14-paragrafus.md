@@ -1,0 +1,3 @@
+14. § A 106/2007. (IX. 24.) FVM rendelet 8. §-a helyébe a következő rendelkezés lép:
+
+„8. § Az Európai Mezőgazdasági Garanciaalapból finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 16/2023. (IV. 19.) AM rendelet 11.,12., 17. és 22. §-ában meghatározott jogcímek szerinti történelmi bázisjogosultságok használati jogának, valamint a történelmi bázisjogosultságok mennyiségének nyomon követése céljából nyilvántartást kell működtetni. A nyilvántartás működtetését, illetve a működtetés kapcsán felmerülő hatósági feladatokat a Kincstár látja el.”
