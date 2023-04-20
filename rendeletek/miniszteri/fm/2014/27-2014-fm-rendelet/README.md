@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-27-20-1
 | 2021-11-30 | 2014-27-20-11.20 | 43/2021. (XI. 29.) AM rendelet |
 | 2022-12-28 | 2014-27-20-11.21 | 158/2022. (XII. 27.) AM rendelet |
 | 2023-01-01 | 2014-27-20-11.22 | 35/2017. (VII. 6.) FM rendelet |
+| 2023-04-20 | 2014-27-20-11.24 | 20/2023. (IV. 19.) AM rendelet |
