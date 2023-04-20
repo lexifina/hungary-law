@@ -10,7 +10,7 @@
 
 ## Felelős: Nemzeti Választási Iroda elnöke, Miniszterelnökséget vezető miniszter, földművelésügyi miniszter, emberi erőforrások minisztere
 
-## Határidő: 2017. június 30., Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása jogcímcsoport részére átcsoportosított 3000,0 millió forint tekintetében 2020. június 30., a Miniszterelnökség cím részére átcsoportosított 10 611 millió forint tekintetében 2018. június 30., a Bethlen Gábor Alap fejezet részére átcsoportosított 5183,5 millió forint tekintetében 2021. június 30.
+## Határidő: 2017. június 30., Az 1956-os forradalom és szabadságharc emlékéve programjainak támogatása jogcímcsoport részére átcsoportosított 3000,0 millió forint tekintetében 2020. június 30., a Miniszterelnökség cím részére átcsoportosított 10 611 millió forint tekintetében 2018. június 30., a Bethlen Gábor Alap fejezet részére átcsoportosított 5183,5 millió forint tekintetében 2024. december 31.
 
 ## 2. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1168/2015. (III. 24.) Korm. határozat 1. pontja szerint a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 57. Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaságok részére jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 100,0 millió forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
@@ -27,6 +27,8 @@
 ## 9. A Kormány egyetért azzal, hogy a karitatív szervezetek támogatása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1659/2015. (IX. 15.) Korm. határozat szerint biztosított 199,5 millió forintból 9 945 377 forint a XX. Emberi Erőforrások Minisztériuma fejezet, 30. Fejezeti kezelésű előirányzatok cím, 25. Társadalmi, civil és non-profit szervezetek működési támogatása jogcímcsoport, 21. Karitatív tevékenységet végző szervezetek támogatása jogcímen, a Johannita Segítő Szolgálat támogatására használható fel, mely összeg elszámolási és felhasználási határideje 2017. március 31.
 
 1. melléklet az 1348/2016. (VII. 6.) Korm. határozathoz
+
+6K07928_0
 
 | I. Országgyűlés XI. Miniszterelnökség XVII. Nemzeti Fejlesztési Minisztérium XX. Emberi Erőforrások Minisztériuma XLII. Költségvetés közveteln bevételei és kiadásai XLIV. A Nemzeti Földalappal kapcsoaltos bevételek és kiadások LXV. Bethlen Gábor Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA a Kormány hatáskörében Költségvetési év: 2016. Millió forintban, egy tizedessel |
 
@@ -228,7 +230,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1104/2017. (III. 6.) Korm. határozat 15. pontja, az 1313/2017. (VI. 8.) Korm. határozat 5. pontja, az 1447/2017. (VII. 7.) Korm. határozat 10. pontja, az 1013/2018. (II. 2.) Korm. határozat 5. pontja, az 1080/2018. (III. 13.) Korm. határozat 4. pontja, az 1347/2018. (VII. 26.) Korm. határozat 14. pontja, az 1104/2019. (III. 8.) Korm. határozat 3. pontja, az 1668/2019. (XI. 28.) Korm. határozat 3. pontja, az 1176/2020. (IV. 23.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1313/2017. (VI. 8.) Korm. határozat 5. pontja, az 1447/2017. (VII. 7.) Korm. határozat 10. pontja, az 1013/2018. (II. 2.) Korm. határozat 5. pontja, az 1080/2018. (III. 13.) Korm. határozat 4. pontja, az 1104/2019. (III. 8.) Korm. határozat 3. pontja, az 1146/2023. (IV. 20.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^2]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
