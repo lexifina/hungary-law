@@ -1,0 +1,1 @@
+4. § A 2019. évi XI. törvény 3. §-ában foglalt Megállapodás 21.5. pontjában foglaltaktól eltérően a Nemzetközi Beruházási Bank és Magyarország Kormánya között a Nemzetközi Beruházási Bank Magyarországi Székhelyéről szóló Megállapodás megszüntethető a Kormány és a Bank közötti megállapodás és a Kormányzótanács döntése nélkül.

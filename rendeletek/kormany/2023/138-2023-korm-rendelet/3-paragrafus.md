@@ -1,0 +1,1 @@
+3. § A 2019. évi XI. törvény 3. §-ában foglalt Megállapodás 6. pontjában, 9. pontjában, 10. pontjában, 12. pontjában, 13. pontjában, 14. pontjában, 15. pontjában, 16. pontjában, 17. pontjában, 18. pontjában meghatározott mentességek és biztosított kedvezmények megszűnnek.

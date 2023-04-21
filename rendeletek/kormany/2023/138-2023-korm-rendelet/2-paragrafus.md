@@ -1,0 +1,1 @@
+2. § A Kormány tudomásul veszi a Nemzetközi Beruházási Banknak (a továbbiakban: Bank) a Bank székhelyének meghatározása tekintetében a 2019. évi XI. törvény 3. §-ában foglalt Megállapodás – magyar nyelvű fordítása, illetve angol nyelvű szövege szerinti – preambulumától, illetve annak 3. pontjában foglaltaktól való eltérésre irányuló szándékát.

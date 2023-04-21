@@ -1,0 +1,1 @@
+6. § A 3. §-ban foglaltak a Bank székhelye megváltozásának bejelentését követően alkalmazhatóak, amelyről a külgazdasági és külügyminiszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével ad tájékoztatást.
