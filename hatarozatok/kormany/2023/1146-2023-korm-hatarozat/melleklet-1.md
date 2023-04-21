@@ -18,20 +18,29 @@
 
 | Határidő: | azonnal |
 
-## 2. Az erdélyi oktatási és kulturális célú programok, beruházások megvalósításának finanszírozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1531/2015. (VII. 31.) Korm. határozat 1. pontjában a „2021. június 30.” szövegrész helyébe a „2024. december 31.” szöveg lép.
+## 2.[^1]
 
-## 3. A nemzetpolitikailag kiemelt jelentőségű programok és megkezdett beruházások megvalósításához szükséges források biztosításáról szóló 1227/2016. (V. 2.) Korm. határozat 1. pontjában a „2021. június 30.” szövegrész helyébe a „2024. december 31.” szöveg lép.
+## 3.[^2]
 
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1348/2016. (VII. 6.) Korm. határozat 1. pontjában a „2021. június 30.” szövegrész helyébe a „2024. december 31.” szöveg lép.
+## 4.[^3]
 
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1447/2017. (VII. 7.) Korm. határozat 1. pont a) alpontjában a „481 793 000 forint tekintetében 2021. június 30.” szövegrész helyébe a „481 793 000 forint tekintetében 2024. december 31.” szöveg lép.
+## 5.[^4]
 
-## 6. A vajdasági magyarok anyanyelvű tájékoztatásának támogatása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1540/2017. (VIII. 18.) Korm. határozat 3. pontjában a „2021. június 30.” szövegrész helyébe a „2024. december 31.” szöveg lép.
+## 6.[^5]
 
-## 7. Az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1727/2017. (X. 10.) Korm. határozat 1. pontjában a „2021. június 30.” szövegrész helyébe a „2024. december 31.” szöveg lép.
+## 7.[^6]
 
-## 8. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, tárgyéven túli kötelezettségvállalás engedélyezéséről, fejezetek közötti előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1895/2017. (XII. 4.) Korm. határozat 1. pont a) alpontjában a „2021. december 31.” szövegrész helyébe a „2024. december 31.” szöveg lép.
+## 8.[^7]
 
-## 9. A Szatmári Római Katolikus Püspökség programjának finanszírozásához szükséges forrás biztosításáról szóló 1585/2018. (XI. 21.) Korm. határozat 3. pontjában a „2021. június 30.” szövegrész helyébe a „2024. december 31.” szöveg lép.
+## 9.[^8]
 
 1. melléklet az 1146/2023. (IV. 20.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
