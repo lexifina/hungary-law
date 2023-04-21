@@ -42,7 +42,7 @@ o) közreműködik a hallgatói kiválóság, a tehetséggondozás, valamint az 
 
 p)[^1] a Nemzeti Tudománypolitikai Tanács titkárságának feladatait a Hivatal látja el.
 
-q)[^2] – a felsőoktatással összefüggő feladat- és hatáskörök tekintetében az oktatásért és a felnőttképzésért felelős miniszter irányításával – közreműködik a felsőoktatási képzések és a felsőoktatási intézmények felnőttképzési tartalmának megújításában.
+q)[^2] a tulajdonosi joggyakorlása alatt álló gazdasági társaság útján − a felsőoktatásért felelős miniszter irányításával − közreműködik a felsőoktatási képzések és a felsőoktatási intézmények képzési tartalmának megújításában.
 
 (2) A Hivatal a hazai közfinanszírozású támogatások tekintetében
 
@@ -83,4 +83,4 @@ g) feladatkörében együttműködik Magyarország külképviseleteivel, kapcsol
 (6) A Hivatal elnöke a Hivatal feladatkörét érintően a tudománypolitika koordinációjáért felelős miniszteren keresztül jogszabály megalkotását és módosítását kezdeményezheti.
 
 [^1]: Az 5. § (1) bekezdés p) pontját az 543/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be.
-[^2]: Az 5. § (1) bekezdés q) pontját a 746/2021. (XII. 21.) Korm. rendelet 17. §-a iktatta be.
+[^2]: Az 5. § (1) bekezdés q) pontját a 746/2021. (XII. 21.) Korm. rendelet 17. §-a iktatta be, szövege a 137/2023. (IV. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
