@@ -1,7 +1,3 @@
-## „k) kis vizes élőhely határvonalai és
+26. §[^27]
 
-## l) kis vizes élőhely területmértékei.”
-
-26. § A 71/2015. (XI. 3.) FM rendelet 8. § (1) bekezdés b) és c) pontja helyébe a következő rendelkezések lépnek:
-
-(Változásvezetést az ügyfél abban az esetben jelenthet be, ha)
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

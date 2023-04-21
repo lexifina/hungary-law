@@ -1,1 +1,3 @@
-16. § Hatályát veszti a 106/2007. (IX. 24.) FVM rendelet 5. § (4) bekezdés b) pont ba) alpontja és c) pont ca)–cc) alpontja.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

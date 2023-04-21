@@ -1,7 +1,3 @@
-29. § Hatályát veszti a 71/2015. (XI. 3.) FM rendelet
+29. §[^30]
 
-a) 1. § 12. pontja,
-
-b) 4. § (3) bekezdése és
-
-c) 6. § (1) bekezdése.
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

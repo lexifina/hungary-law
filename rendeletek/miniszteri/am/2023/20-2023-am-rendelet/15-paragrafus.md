@@ -1,7 +1,3 @@
-15. § A 106/2007. (IX. 24.) FVM rendelet
+15. §[^16]
 
-a) 1. § k) pontjában az „a juh- és kecskefajok egyedeinek Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 47/2005. (V. 23.) FVM rendeletben” szövegrész helyébe az „a juh- és kecskefélék egyedeinek Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 182/2009. (XII. 30.) FVM rendeletben” szöveg,
-
-b) 9. §-ában az „a SAPS alkalmazása alatt” szövegrész helyébe az „az alapszintű-jövedelemtámogatás alkalmazásakor” szöveg
-
-lép.
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

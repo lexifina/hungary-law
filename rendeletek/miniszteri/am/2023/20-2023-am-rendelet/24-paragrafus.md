@@ -1,3 +1,3 @@
-24. § A 71/2015. (XI. 3.) FM rendelet 3. § b) pontja helyébe a következő rendelkezés lép:
+24. §[^25]
 
-(A MePAR-t úgy kell létrehozni és üzemeltetni, hogy)
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

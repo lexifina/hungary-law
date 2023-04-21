@@ -1,5 +1,3 @@
-38. § Hatályát veszti a 11/2022. (III. 25.) AM rendelet
+38. §[^39]
 
-a) 2. § (1) bekezdésében az „átmeneti” szövegrész,
-
-b) 5. § (4) és (5) bekezdése.
+[^39]: A 38. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

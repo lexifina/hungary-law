@@ -1,1 +1,3 @@
-7. § Hatályát veszti a 82/2005. (IX. 15.) FVM rendelet 3. § (2) bekezdése.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
