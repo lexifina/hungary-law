@@ -10,7 +10,7 @@
 
 (3) Munkaeszközt üzembe helyezni, valamint használatba venni csak abban az esetben szabad, ha az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit kielégíti, és rendelkezik az adott munkaeszközre, mint termékre, külön jogszabályban meghatározott EK-megfelelőségi nyilatkozattal, illetve a megfelelőséget tanúsító egyéb dokumentummal (pl. tanúsítvány).
 
-(4) Egyéni védőeszközt forgalomba hozni, használatba venni akkor szabad, ha az rendelkezik egyéni védőeszköz EK-megfelelőségi nyilatkozattal, illetve egyéni védőeszköz EK típustanúsítvánnyal. Az egyéni védőeszközök megfelelőségének tanúsítását a foglalkoztatáspolitikáért felelős miniszter rendeletében foglaltak szerint kell elvégezni.
+(4) Egyéni védőeszközt forgalomba hozni és használatba venni akkor szabad, ha rendelkezik EU-megfelelőségi nyilatkozattal és szükség esetén EU-típusvizsgálati tanúsítvánnyal.
 
 (5)
 
