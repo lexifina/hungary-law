@@ -1,0 +1,1 @@
+1. § E rendelet hatálya a koncesszori alvállalkozók állami hulladékgazdálkodási közfeladat ellátásával kapcsolatos – 2023. július 1. napjától 2023. december 31. napjáig terjedő időszakra vonatkozó –, a hulladékról szóló 2012. évi CLXXXV. törvény 53/N. § (4) bekezdése szerinti indokolt költségei mértékének megállapítására terjed ki.

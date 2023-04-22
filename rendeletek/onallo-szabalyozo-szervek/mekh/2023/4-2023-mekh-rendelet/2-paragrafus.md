@@ -1,0 +1,3 @@
+2. § (1) E rendelet alkalmazásában hulladékgazdálkodási alrendszer az állami hulladékgazdálkodási közfeladatot ellátó koncessziós társaság, a koncesszori alvállalkozók és az önkormányzatok indokolt költségeinek meghatározására és szabályozására, valamint az állami hulladékgazdálkodási közfeladat ellátásáért szedhető díjakkal kapcsolatos díjjavaslat elkészítésére vonatkozó alapelvekről és keretszabályokról szóló 16/2022. (XII. 21.) MEKH rendelet (a továbbiakban: MEKH rendelet) 3. § (1) bekezdés 2. pontja szerinti hulladékgazdálkodási alrendszer, a kötelező visszaváltási díjas intézményi alrendszer kivételével.
+
+(2) Az e rendeletben nem szabályozott fogalmakat a MEKH rendeletben meghatározottak szerint kell alkalmazni.
