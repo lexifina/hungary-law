@@ -1,0 +1,1 @@
+3. § A nemzetközi kötelezettségvállalás alapján külföldön szolgálatot teljesítő honvéd vonatkozásában a vezénylési hely szerinti parancsnok jár el katonai nyomozó hatóságként, ha a bűncselekményt a külföldi szolgálat teljesítése alatt követték el.

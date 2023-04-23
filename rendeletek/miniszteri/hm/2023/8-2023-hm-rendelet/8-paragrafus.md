@@ -1,0 +1,1 @@
+8. § A nyomozás során be kell szerezni és az ügyirat részeként kell kezelni a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy parancsnoki jellemzését, az elismeréseiről és fenyítéseiről szóló kimutatást, továbbá az illetményszámfejtést végző szervtől az utolsó 6 havi illetményéről szóló igazolást.

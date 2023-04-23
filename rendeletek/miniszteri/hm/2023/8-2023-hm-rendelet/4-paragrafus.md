@@ -1,0 +1,1 @@
+4. § Az ismeretlen tettes által elkövetett bűncselekmény tekintetében – az elkövető ismertté válásáig – az elkövetés helye szerint illetékes parancsnok, ennek hiányában a helyőrségparancsnok jogosult eljárni.

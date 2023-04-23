@@ -1,0 +1,1 @@
+9. § Ha a parancsnok az általános megelőzés, a katonai rend és fegyelem megszilárdítása érdekében indokoltnak tartja, hogy a bíróság a tárgyalást a Be. 509. § (2) bekezdése alapján a bíróság hivatalos helyisége helyett a honvédelmi szervezet, illetve a szakképző intézmény hivatalos helyiségében tartsa meg, ennek indítványozására az ügyésznek javaslatot tesz.
