@@ -1,0 +1,1 @@
+A Kormány a miniszterelnök politikai igazgatóját a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 7/A. § (1) bekezdés e) pontja alapján a Magyar Külügyi Intézet Nonprofit Zártkörűen Működő Részvénytársaság felett az államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlójaként jogszabállyal kijelölhető személyként határozza meg.
