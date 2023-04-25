@@ -8,6 +8,6 @@ b) a külképviseletekről és a tartós külszolgálatról szóló 2016. évi L
 
 c) a Külszoltv. szerinti tartós külszolgálatot teljesít,
 
-## a továbbképzési kötelezettséget a képzési kötelezettsége ismételt visszaállását követően, a tárgyévre vonatkozóan, az éves továbbképzési tervében meghatározottan, időarányosan kell teljesítenie.
+a továbbképzési kötelezettséget a képzési kötelezettsége ismételt visszaállását követően, a tárgyévre vonatkozóan, az éves továbbképzési tervében meghatározottan, időarányosan kell teljesítenie.
 
 (3) A munkáltatói jogkör gyakorlója az egyéni továbbképzési tervvel összhangban biztosítja a kormánytisztviselő – különösen a személyes jelenlétet igénylő – továbbképzésben való részvételének feltételeit.

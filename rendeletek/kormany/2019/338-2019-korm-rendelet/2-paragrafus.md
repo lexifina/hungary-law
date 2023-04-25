@@ -1,5 +1,3 @@
-## terjed ki.
-
 ## 2. § E rendelet alkalmazásában:
 
 1. belső képzőintézmény: a felnőttképzésről szóló törvényben szabályozott feltételeknek megfelelő, engedéllyel rendelkező felnőttképző;

@@ -1,3 +1,3 @@
-## 18. §[^10]
+19. §[^12]
 
-[^10]: A 18. §-t a 499/2021. (VIII. 18.) Korm. rendelet 20. §-a iktatta be, hatályon kívül helyezte a 243/2022. (VII. 4.) Korm. rendelet 22. §-a.
+[^12]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette

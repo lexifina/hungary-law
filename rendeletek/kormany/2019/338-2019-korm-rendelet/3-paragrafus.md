@@ -10,7 +10,7 @@ b) a központi kormányzati igazgatási szervet vezető, irányító vagy felüg
 
 c) a Kormány által előírt
 
-## továbbképzéssel teljesíti [a b) és c) pont a továbbiakban együtt: kötelező továbbképzés].
+továbbképzéssel teljesíti [a b) és c) pont a továbbiakban együtt: kötelező továbbképzés].
 
 (3) A (2) bekezdés a) pontja szerinti továbbképzés közszolgálati vagy belső továbbképzés. A belső továbbképzés aránya a tárgyévi továbbképzési kötelezettség legfeljebb 50%-a lehet.
 
