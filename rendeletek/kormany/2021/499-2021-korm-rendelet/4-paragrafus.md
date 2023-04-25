@@ -10,6 +10,6 @@ a) saját vagy más – a különleges jogállású szerv vagy az azt kiszolgál
 
 b) felsőoktatási vagy felnőttképző intézmény által biztosított képzési szolgáltatással
 
-## biztosíthatóak.
+biztosíthatóak.
 
 (5) A különleges jogállású szerv a belső továbbképzési programok megvalósításával összefüggő feladatai körében a belső továbbképzésekről nyilvántartást vezet, valamint a tervezett és a teljesített képzések esetében rögzíti a 3. § (5) bekezdésében szereplő adatokat az Egyetem által biztosított központi oktatás-informatikai rendszerben.

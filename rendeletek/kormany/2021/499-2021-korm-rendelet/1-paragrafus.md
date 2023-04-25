@@ -10,7 +10,7 @@ c)[^1] a Nemzeti Közszolgálati Egyetemre (a továbbiakban: Egyetem), valamint
 
 d)[^2] a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 716/2021. (XII. 20.) Korm. rendelet szerinti személyügyi központra (a továbbiakban: személyügyi központ)
 
-## terjed ki.
+terjed ki.
 
 (2) E rendelet hatálya kiterjed a különleges jogállású szervek munkavállalójára abban az esetben, ha a munkáltató döntése alapján vagy önként vállalt továbbképzésen vesz részt.
 
