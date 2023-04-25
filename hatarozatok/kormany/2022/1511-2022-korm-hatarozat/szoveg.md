@@ -1,6 +1,6 @@
 1. A Kormány
 
-1.1. támogatja a Széchenyi Kártya Program 2023 I. félévére meghirdetésre kerülő konstrukcióinak kamat-, kezelési költség és kezességi díjtámogatás finanszírozásához szükséges 2023. évi költségvetési forrásigény biztosítását, az orosz–ukrán konfliktus és az energiaár-emelkedések által súlyosan érintett hazai mikro-, kis- és középvállalkozások kedvezményes finanszírozási forrásokhoz való hozzájutása érdekében;
+1.1.[^1] támogatja a Széchenyi Kártya Program 2023. évre meghirdetésre kerülő konstrukcióinak kamat-, kezelési költség és kezességi díjtámogatás finanszírozásához szükséges 2023. évi költségvetési forrásigény biztosítását, az orosz–ukrán konfliktus és az energiaár-emelkedések által súlyosan érintett hazai mikro-, kis- és középvállalkozások kedvezményes finanszírozási forrásokhoz való hozzájutása érdekében;
 
 1.2. felhívja a pénzügyminisztert, hogy a 2023. évben – a gazdaságfejlesztési miniszter kezdeményezésére – gondoskodjon az 1. pontban meghatározott célok elérése érdekében 58 950 000 000 forint biztosításáról a XXI. Miniszterelnöki Kabinetiroda fejezet javára;
 
@@ -52,6 +52,7 @@ d) a 2027. évre vonatkozó kötelezettségvállalás felső korlátja 5 000 000
 
 e) a 2028–2038. évekre vonatkozó kötelezettségvállalások felső korlátja évente 3 500 000 000 forint.
 
-3.[^1]
+3.[^2]
 
-[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.1. pontja az 1150/2023. (IV. 24.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
