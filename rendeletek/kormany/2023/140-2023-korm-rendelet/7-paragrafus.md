@@ -1,0 +1,3 @@
+7. § A 499/2021. (VIII. 18.) Korm. rendelet a következő 16. §-sal egészül ki:
+
+„16. § A közszolgálati és a belső továbbképzéshez szükséges pénzügyi forrást a központi költségvetés biztosítja 2023. január 1. napjától. A 2023. január 1-jét követően a különleges jogállású szerv által az Egyetem részére megfizetett továbbképzési hozzájárulás összegét az Egyetem a Nemzeti Közszolgálati Egyetem által folytatott közszolgálati továbbképzés finanszírozásával kapcsolatos kormányrendeletek módosításáról szóló 140/2023. (IV. 24.)Korm. rendelet hatálybalépésétől számított 30 napon belül köteles a különleges jogállású szerv részére visszafizetni.”

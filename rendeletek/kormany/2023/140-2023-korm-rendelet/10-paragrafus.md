@@ -1,0 +1,3 @@
+10. § Az 568/2022. (XII. 23.) Korm. rendelet a következő 69. §-sal egészül ki:
+
+„69. § A közszolgálati továbbképzéshez szükséges pénzügyi forrást a központi költségvetés biztosítja 2023. január 1. napjától. A 2023. január 1-jét követően a területi kormányzati igazgatási szerv által az Egyetem részére megfizetett továbbképzési hozzájárulás összegét az Egyetem a Nemzeti Közszolgálati Egyetem által folytatott közszolgálati továbbképzés finanszírozásával kapcsolatos kormányrendeletek módosításáról szóló 140/2023. (IV. 24.) Korm. rendelet hatálybalépésétől számított 30 napon belül köteles a területi kormányzati igazgatási szerv részére visszafizetni.”
