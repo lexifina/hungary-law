@@ -8,7 +8,7 @@ a) minisztérium, – e rendelet eltérő rendelkezése hiányában – az adott
 
 b) központi hivatal, az adott központi hivatallal fennálló kormányzati szolgálati jogviszonyként
 
-## folytatódik 2017. január 1. napjától.
+folytatódik 2017. január 1. napjától.
 
 (3) A 2016. december 31. napján a jogelőd szervnél fennálló kormányzati szolgálati jogviszony, ha a jogutód szerv e rendelet alapján
 
@@ -16,7 +16,7 @@ a) fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal), az 
 
 b) Közbeszerzési Ellátási Főigazgatóság (a továbbiakban: KEF), a KEF-fel fennálló közalkalmazotti jogviszonnyá
 
-## alakul át 2017. január 1. napjával.
+alakul át 2017. január 1. napjával.
 
 (4) A (2) és (3) bekezdés szerinti változás a jogviszony időtartamának – kinevezés szerinti – határozatlan vagy határozott idős, valamint a munkaidő teljes vagy részmunkaidős jellegén nem változtat.
 

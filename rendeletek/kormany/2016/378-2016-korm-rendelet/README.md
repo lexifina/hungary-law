@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-378-20-
 | 2019-04-09 | 2016-378-20-22.11 | 12/2019. (IV. 8.) AB határozat |
 | 2021-08-06 | 2016-378-20-22.12 | 465/2021. (VIII. 5.) Korm. rendelet |
 | 2022-12-31 | 2016-378-20-22.13 | 250/2018. (XII. 17.) Korm. rendelet |
+| 2023-04-25 | 2016-378-20-22.14 | 143/2023. (IV. 24.) Korm. rendelet |

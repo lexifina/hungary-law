@@ -24,7 +24,7 @@ i) a kulturális örökség elemei védettségével kapcsolatos tudományos elő
 
 j) a kulturális örökségvédelem területét érintő szakértői tevékenységgel, a közszolgálati tisztviselők kötelező továbbképzésével, ismeretterjesztéssel és közművelődéssel, a szakmai és társadalmi együttműködéssel
 
-## összefüggő feladatokat 2017. január 1-jétől a kulturális örökség védelméért felelős miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) látja el.
+összefüggő feladatokat 2017. január 1-jétől a kulturális örökség védelméért felelős miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) látja el.
 
 (3) A Forster Központ által fenntartott Magyar Építészeti Múzeum fenntartói feladatait 2017. január 1-jétől a Magyar Művészeti Akadémia látja el.
 

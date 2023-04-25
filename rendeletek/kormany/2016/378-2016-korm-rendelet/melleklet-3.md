@@ -1,5 +1,3 @@
-## A Nemzeti Rehabilitációs és Szociális Hivatal által kezelt vagy fenntartott, európai uniós forrásból finanszírozott projektekben ellátott feladatok átvétele
-
 |  | A | B | C |
 
 | 1. | Projekt azonosítószáma | Projekt megnevezése | Átvevő |
@@ -62,7 +60,7 @@
 
 | 30. | EKOP-1.1.13-2012-2012- 0001 | A Nemzeti Rehabilitációs és Szociális Hivatal szakrendszeri informatikai fejlesztése | Országos Nyugdíjbiztosítási Főigazgatóság |
 
-3. melléklet a 378/2016. (XII. 2.) Korm. rendelethez[^37]
+3. melléklet a 378/2016. (XII. 2.) Korm. rendelethez[^36]
 
 2019. január 1. napjával a Nemzeti Örökségvédelmi Fejlesztési Nkft.-hez kerülő ingatlanok
 
@@ -224,4 +222,4 @@
 
 | 78. | Zsira | 563/2 |
 
-[^37]: A 3. mellékletet a 250/2018. (XII. 17.) Korm. rendelet 3. §-a iktatta be, szövege a 411/2021. (VII. 12.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^36]: A 3. mellékletet a 250/2018. (XII. 17.) Korm. rendelet 3. §-a iktatta be, szövege a 411/2021. (VII. 12.) Korm. rendelet 4. §-a szerint módosított szöveg.

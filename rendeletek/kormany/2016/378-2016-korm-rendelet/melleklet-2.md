@@ -1,5 +1,3 @@
-## A KEKKH által megvalósítás alatt álló vagy fenntartott, európai uniós forrásból finanszírozott projektek átvétele
-
 |  | A | B | C |
 
 |  | Projekt azonosítószáma | Projekt megnevezése | Átvevő |
@@ -19,3 +17,5 @@
 | 7. | KÖFOP-1.0.0-VEKOP- 15-2016-00027 | Szabályozott elektronikus ügyintézési szolgáltatások továbbfejlesztése, bővítése, bevezetése (SZEÜSZ) | NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság |
 
 2. melléklet a 378/2016. (XII. 2.) Korm. rendelethez
+
+A Nemzeti Rehabilitációs és Szociális Hivatal által kezelt vagy fenntartott, európai uniós forrásból finanszírozott projektekben ellátott feladatok átvétele

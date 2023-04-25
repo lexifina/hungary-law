@@ -10,7 +10,7 @@ a)[^8] európai uniós forrásból finanszírozott projektjei megvalósításáv
 
 b) a munkaegészségügyi feladatai – a stratégiai és módszertani jellegű munkaegészségügyi feladatok kivételével –
 
-## tekintetében jogutód az Országos Közegészségügyi Intézet.
+tekintetében jogutód az Országos Közegészségügyi Intézet.
 
 (4) Az OTH praxisprogramokkal kapcsolatos feladatai tekintetében az ÁEEK a jogutód.
 

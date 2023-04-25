@@ -18,7 +18,7 @@ c) a 1818 (Kormányzati Ügyfélvonal) és a 185 hívószámokon elérhető orsz
 
 d) – az összerendelési nyilvántartás kivételével – a szabályozott elektronikus ügyintézési szolgáltatások (SZEÜSZ-ök) nyújtásával összefüggésben a KEKKH által 2016. december 31. napjáig ellátott, a 309/2011. Korm. rendelet 1. mellékletében szereplő informatikai és az elektronikus hírközlési tárgyú feladatokkal
 
-## kapcsolatos magánjogi jogok és kötelezettségek, valamint a feladatok ellátásához szükséges eszközök tekintetében a vagyoni jogok és kötelezettségek a NISZ-re szállnak át.
+kapcsolatos magánjogi jogok és kötelezettségek, valamint a feladatok ellátásához szükséges eszközök tekintetében a vagyoni jogok és kötelezettségek a NISZ-re szállnak át.
 
 (3a)[^2] A KEKKH-t az állami foglalkoztatási szerv, a munkavédelmi és munkaügyi hatóság kijelöléséről, valamint e szervek hatósági és más feladatainak ellátásáról szóló 320/2014. (XII. 13.) Korm. rendelet [a továbbiakban: 320/2014. (XII. 13.) Korm. rendelet] 18. § (9) bekezdése alapján megillető vagyonkezelői jogok és kötelezettségek a NISZ-re szállnak át, az átvevő és a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) között külön megkötendő vagyonkezelési szerződés alapján.
 

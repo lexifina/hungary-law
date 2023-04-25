@@ -4,7 +4,7 @@ a) átkerült, az Áht. 49. §-a szerint a Forster Központ és a Miniszterelnö
 
 b) átkerült lebonyolítói megállapodások végrehajtását az a) pont szerinti támogatási szerződések vonatkozásában
 
-## 2018. január 1-jétől a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság látja el.
+2018. január 1-jétől a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság látja el.
 
 (2) Az (1) bekezdés szerinti jogviszonyok tekintetében a Millenáris Tudományos Kulturális Közhasznú Nonprofit Korlátolt Felelősségű Társaság jogutódja a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság.
 

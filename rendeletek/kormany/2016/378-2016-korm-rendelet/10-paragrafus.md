@@ -26,7 +26,7 @@ i) a szociálpolitikai, társadalmi felzárkózási és drogpolitikai stratégia
 
 j) a fejlesztő foglalkoztatás pályáztatása és finanszírozása, valamint a szociális intézményi foglalkoztatás és a szociális foglalkoztatás finanszírozása
 
-## keretében ellátott feladatai tekintetében a Szociális és Gyermekvédelmi Főigazgatóság.
+keretében ellátott feladatai tekintetében a Szociális és Gyermekvédelmi Főigazgatóság.
 
 (4) Az NRSZH-nak
 
@@ -36,7 +36,7 @@ b) a fellebbezés elbírálására jogosult hatóságként és felügyeleti szer
 
 c) az Európai Társadalombiztosítási Platformban betöltött tagsága tekintetében
 
-## jogutódja az Emberi Erőforrások Minisztériuma.
+jogutódja az Emberi Erőforrások Minisztériuma.
 
 (5) Az NRSZH-nak
 
@@ -70,6 +70,6 @@ e) 7633 Pécs, Dr. Veress Endre utca 2. és 7632 Pécs, Árnyas utca 2. telephel
 
 f) 6723 Szeged, Sólyom utca 2. telephelye tekintetében a Csongrád Megyei Kormányhivatal
 
-## a jogutód a telephelyen ellátott szakértői bizottsági feladatok és az akkreditált munkáltatók, szolgáltatók helyszíni ellenőrzésével összefüggő feladatok ellátásához szükséges feltételek biztosítása tekintetében, ha a (7) bekezdés másként nem rendelkezik.
+a jogutód a telephelyen ellátott szakértői bizottsági feladatok és az akkreditált munkáltatók, szolgáltatók helyszíni ellenőrzésével összefüggő feladatok ellátásához szükséges feltételek biztosítása tekintetében, ha a (7) bekezdés másként nem rendelkezik.
 
 (7) Az európai uniós forrás terhére nyújtott támogatások esetében az NRSZH-tól a 2. mellékletben felsorolt projektekben ellátott feladatokat a megjelölt szerv veszi át.
