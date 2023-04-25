@@ -10,6 +10,6 @@
 
 (5) Ha a bányavállalkozó a (2) bekezdés szerinti kitermelési mennyiséget, illetve a (4) bekezdés szerint engedélyezett kitermelési mennyiséget bányafelügyeleti engedély hiányában nem teljesíti, a bányafelügyelet a szabálytalanul gyakorolt bányászati tevékenységre vonatkozó, a Bt. 41. §-ában meghatározott szankciókat alkalmazza, azzal, hogy közigazgatási szankcióként figyelmeztetés nem alkalmazható. A jogsértés miatt kiszabott bírság mértéke nem lehet kevesebb, mint a ki nem termelt szénhidrogén mennyisége után számított bányajáradék összege. A bírság mértéke tekintetében a bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet 25. § (1) bekezdése szerinti bírságmaximumot nem kell figyelembe venni.
 
-(6)[^27] Ha a bányavállalkozó által kitermelt szénhidrogén mennyisége meghaladja a (2) bekezdés szerinti kitermelési mennyiségek összegét, a kitermelési különbözet tekintetében a fizetendő bányajáradék megállapítására a 22–24. § és a 26. § nem alkalmazható.
+(6)[^32] Ha a bányavállalkozó által kitermelt szénhidrogén mennyisége meghaladja a (2) bekezdés szerinti kitermelési mennyiségek összegét, a kitermelési különbözet tekintetében a fizetendő bányajáradék megállapítására a 22–24. § és a 26. § nem alkalmazható.
 
-[^27]: A 25. § (6) bekezdését a 100/2023. (III. 29.) Korm. rendelet 3. §-a iktatta be.
+[^32]: A 25. § (6) bekezdését a 100/2023. (III. 29.) Korm. rendelet 3. §-a iktatta be.
