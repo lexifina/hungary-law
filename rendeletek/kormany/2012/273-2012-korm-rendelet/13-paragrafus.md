@@ -4,6 +4,6 @@
 
 13. § (1) A kormánytisztviselő, köztisztviselő továbbképzése kizárólag továbbképzési programjegyzéken szereplő, nyilvántartásba vett programok alapján végezhető.
 
-(2)[^67]
+(2)[^70]
 
-[^67]: A 13. § (2) bekezdését a 378/2014. (XII. 31.) Korm. rendelet 18. § c) pontja hatályon kívül helyezte.
+[^70]: A 13. § (2) bekezdését a 378/2014. (XII. 31.) Korm. rendelet 18. § c) pontja hatályon kívül helyezte.

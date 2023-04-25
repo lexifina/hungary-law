@@ -4,6 +4,6 @@
 
 a) a közigazgatási szakvizsgára kötelezett kormánytisztviselő, köztisztviselő a közigazgatási szakvizsga sikeres letételével teljesíti,
 
-b)[^93] a közigazgatási szakvizsgával rendelkező, vagy az alól mentesített kormánytisztviselő, köztisztviselő a továbbképzési programjegyzéken szereplő képzéseken való részvétellel teljesíti.
+b)[^96] a közigazgatási szakvizsgával rendelkező, vagy az alól mentesített kormánytisztviselő, köztisztviselő a továbbképzési programjegyzéken szereplő képzéseken való részvétellel teljesíti.
 
-[^93]: A 24. § b) pontja a 298/2013. (VII. 29.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^96]: A 24. § b) pontja a 298/2013. (VII. 29.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
