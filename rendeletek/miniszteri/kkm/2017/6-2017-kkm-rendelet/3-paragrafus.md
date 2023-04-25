@@ -2,7 +2,7 @@
 
 ## 2. A pályázók köre és a pályázat kiírása, benyújtása
 
-3. § (1)[^5] A külképviseleten megüresedő tartós külszolgálati munkakörre zárt körű pályázatot – a 8. § (2) bekezdésében foglalt kivétellel – kizárólag a minisztériummal kormányzati szolgálati jogviszonyban álló kormánytisztviselő (a továbbiakban: pályázó) nyújthat be, aki megfelel a 7. § szerinti pályázati feltételeknek, továbbá eredményes külügyi szakmai vizsgát tett, és
+3. § (1)[^5] A külképviseleten megüresedő tartós külszolgálati munkakörre zárt körű, belső pályázatot – a 8. § (2) bekezdésében foglalt kivétellel – kizárólag a minisztériummal Kit. 3. § (1) bekezdése szerinti jogviszonyban vagy munkaviszonyban álló foglalkoztatott (a továbbiakban: pályázó) nyújthat be, aki megfelel a 7. § szerinti pályázati feltételeknek, továbbá eredményes külügyi szakmai vizsgát tett, és
 
 a) első tartós külszolgálatra benyújtott pályázat esetén a tartós külszolgálatra történő kihelyezés várható időpontjáig a minisztérium belföldi állományában megszakítás nélkül legalább két évet eltöltött (a továbbiakban: várakozási idő), vagy
 
@@ -23,7 +23,7 @@ b)[^8] a 3. § (1) bekezdés a)–c) pontjában meghatározott feltételeket a m
 (3) Rendkívül indokolt esetben vagy a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszoltv.) 2. § 7. pontja szerinti hivatali érdek fennállta esetén a miniszter az (1) bekezdés szerinti várakozási idő alól felmentést adhat.
 
 [^4]: A 2. § a 6/2019. (X. 28.) KKM rendelet 12. § 3. pontja szerint módosított szöveg.
-[^5]: A 3. § (1) bekezdés nyitó szövegrésze a 6/2019. (X. 28.) KKM rendelet 12. § 4–5. pontja szerint módosított szöveg.
+[^5]: A 3. § (1) bekezdés nyitó szövegrésze a 6/2019. (X. 28.) KKM rendelet 12. § 4–5. pontja, az 1/2023. (IV. 24.) KKM rendelet 3. § a) pontja szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdés b) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 4. pontja szerint módosított szöveg.
 [^7]: A 3. § (1a) bekezdését a 6/2019. (X. 28.) KKM rendelet 2. §-a iktatta be, szövege a 16/2022. (XII. 20.) KKM rendelet 3. § a) pontja szerint módosított szöveg.
 [^8]: A 3. § (1a) bekezdés b) pontja a 16/2022. (XII. 20.) KKM rendelet 3. § b) pontja szerint módosított szöveg.

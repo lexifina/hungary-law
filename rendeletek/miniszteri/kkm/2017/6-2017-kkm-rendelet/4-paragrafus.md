@@ -1,4 +1,4 @@
-4. § (1)[^10] A külképviseleten betölthető vagy a pályázat kiírásakor betöltött, de legkésőbb a pályázatban megjelölt határidőre megüresedő tartós külszolgálati munkakörre a minisztérium zárt körű pályázatot hirdet.
+4. § (1)[^10] A külképviseleten betölthető vagy a pályázat kiírásakor betöltött, de legkésőbb a pályázatban megjelölt határidőre megüresedő tartós külszolgálati munkakörre a minisztérium zárt körű, belső pályázatot hirdet.
 
 (2)[^11] A pályázatot – ide nem értve a 6. § (1) és (2) bekezdése szerinti esetet – a pályázat benyújtására előírt határidő utolsó napját legalább tizenöt – rendkívüli és pótpályázat esetén hét – nappal megelőzően kell a minisztérium a tartós külszolgálati pályázati- és kiválasztási eljárást, valamint felkészítést támogató informatikai szakrendszeren meghirdetni a minisztériummal foglalkoztatásra irányuló jogviszonyban álló, pályázatbenyújtásra jogosultak számára.
 
@@ -20,7 +20,7 @@ tartalmazza.
 
 (4)[^15] Pályázatot a pályázat kiírása idején – hivatali érdekből, indokolt esetben – a pályázatban megjelölt tartós külszolgálati munkakörben tartós külszolgálatot teljesítő, az 1. § (1) és (1a) bekezdésében meghatározott személy is benyújthat. Az e bekezdés szerinti pályázat esetén a 3. § (1) bekezdés b) pontja szerinti várakozási idő meglétének hiányában a pályázó azon munkakörre, amiben jelenleg is tartós külszolgálatot teljesít érvényesen pályázatot nyújthat be.
 
-[^10]: A 4. § (1) bekezdése a 6/2019. (X. 28.) KKM rendelet 12. § 4. pontja szerint módosított szöveg.
+[^10]: A 4. § (1) bekezdése a 6/2019. (X. 28.) KKM rendelet 12. § 4. pontja, az 1/2023. (IV. 24.) KKM rendelet 3. § b) pontja szerint módosított szöveg.
 [^11]: A 4. § (2) bekezdése a 6/2019. (X. 28.) KKM rendelet 3. §-ával megállapított, a 12. § 6. pontja szerint módosított szöveg.
 [^12]: A 4. § (3) bekezdés a) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 7–8. pontja szerint módosított szöveg.
 [^13]: A 4. § (3) bekezdés b) pontja a 6/2019. (X. 28.) KKM rendelet 12. § 9–10. pontja szerint módosított szöveg.

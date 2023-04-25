@@ -10,7 +10,7 @@
 
 | 5. | Franciaország | Strasbourg/ET Állandó Képviselet | angol, francia |
 
-| 6. | Olaszország | Róma/FAO melletti Állandó Képviselet | angol, olasz |
+| 6. | Olaszország | Római Nagykövetség részeként működő Róma/FAO melletti Állandó Képviselet | angol |
 
 | 7. | Svájc | Genf ENSZ/WTO | angol, francia |
 

@@ -16,173 +16,173 @@
 
 | 8. | Azerbajdzsán | azeri | orosz, angol |
 
-| 9. | Belarusz Köztársaság | belorusz, orosz | orosz, angol |
+| 9. | Banglades | bengáli | angol |
 
-| 10. | Belgium | francia, holland, német | francia, angol |
+| 10. | Belarusz Köztársaság | belorusz, orosz | orosz, angol |
 
-| 11. | Bosznia-Hercegovina | bosnyák, horvát, szerb | angol |
+| 11. | Belgium | francia, holland, német | francia, angol |
 
-| 12. | Brazília | portugál | portugál |
+| 12. | Bosznia-Hercegovina | bosnyák, horvát, szerb | angol |
 
-| 13. | Bulgária | bolgár | angol, bolgár, orosz |
+| 13. | Brazília | portugál | portugál |
 
-| 14. | Chile | spanyol | spanyol |
+| 14. | Bulgária | bolgár | angol, bolgár, orosz |
 
-| 15. | Ciprus (nem önálló képviselet) | görög | angol |
+| 15. | Chile | spanyol | spanyol |
 
-| 16. | Csehország | cseh | angol, cseh, szlovák, német |
+| 16. | Ciprus | görög | angol |
 
-| 17. | Dánia | dán | angol |
+| 17. | Csehország | cseh | angol, cseh, szlovák, német |
 
-| 18. | Dél-afrikai Köztársaság | angol | angol |
+| 18. | Dánia | dán | angol |
 
-| 19. | Ecuador | spanyol | spanyol |
+| 19. | Dél-afrikai Köztársaság | angol | angol |
 
-| 20. | Egyesült Arab Emírségek | arab | angol |
+| 20. | Ecuador | spanyol | spanyol |
 
-| 21. | Egyiptom | arab | angol |
+| 21. | Egyesült Arab Emírségek | arab | angol |
 
-| 22. | Elefántcsontpart (nem önálló képviselet) | francia | francia |
+| 22. | Egyiptom | arab | angol |
 
-| 23. | Észtország | észt | angol |
+| 23. | Elefántcsontpart | francia | francia |
 
-| 24. | Etiópia | amhara, angol | angol |
+| 24. | Észtország | észt | angol |
 
-| 25. | Finnország | finn, svéd | angol |
+| 25. | Etiópia | amhara, angol | angol |
 
-| 26. | Franciaország | francia | francia |
+| 26. | Finnország | finn, svéd | angol |
 
-| 27. | Fülöp-szigetek | filippínó (tagalog), angol | angol |
+| 27. | Franciaország | francia | francia |
 
-| 28. | Georgia | grúz | angol, orosz |
+| 28. | Fülöp-szigetek | filippínó (tagalog), angol | angol |
 
-| 29. | Ghána | angol | angol |
+| 29. | Georgia | grúz | angol, orosz |
 
-| 30. | Görögország | görög | angol |
+| 30. | Ghána | angol | angol |
 
-| 31. | Hollandia | holland | angol |
+| 31. | Görögország | görög | angol |
 
-| 32. | Horvátország | horvát | angol, horvát, szerb |
+| 32. | Hollandia | holland | angol |
 
-| 33. | India | hindi | angol |
+| 33. | Horvátország | horvát | angol, horvát, szerb |
 
-| 34. | Indonézia | indonéz | angol |
+| 34. | India | hindi | angol |
 
-| 35. | Irak | arab, kurd | angol, arab |
+| 35. | Indonézia | indonéz | angol |
 
-| 36. | Irán | perzsa | angol |
+| 36. | Irak | arab, kurd | angol, arab |
 
-| 37. | Írország | angol, ír | angol |
+| 37. | Irán | perzsa | angol |
 
-| 38. | Izrael | héber | angol |
+| 38. | Írország | angol, ír | angol |
 
-| 39. | Japán | japán | angol |
+| 39. | Izrael | héber | angol |
 
-| 40. | Jordánia | arab | angol |
+| 40. | Japán | japán | angol |
 
-| 41. | Kambodzsa (nem önálló képviselet) | khmer | angol |
+| 41. | Jordánia | arab | angol |
 
-| 42. | Kanada | angol, francia | angol, francia |
+| 42. | Kambodzsa | khmer | angol |
 
-| 43. | Katar | arab | angol |
+| 43. | Kanada | angol, francia | angol, francia |
 
-| 44. | Kazahsztán | kazah, orosz | orosz, angol |
+| 44. | Katar | arab | angol |
 
-| 45. | Kenya | angol, szuahéli | angol |
+| 45. | Kazahsztán | kazah, orosz | orosz, angol |
 
-| 46. | Kína | kínai | angol |
+| 46. | Kenya | angol, szuahéli | angol |
 
-| 47. | Kirgizisztán | kirgiz, orosz | kirgiz, orosz |
+| 47. | Kína | kínai | angol |
 
-| 48. | Kolumbia | spanyol | spanyol |
+| 48. | Kirgizisztán | kirgiz, orosz | kirgiz, orosz |
 
-| 49. | Koreai Köztársaság | koreai | angol |
+| 49. | Kolumbia | spanyol | spanyol |
 
-| 50. | Koszovó | albán, szerb | angol |
+| 50. | Kongói Demokratikus Köztársaság | francia | francia |
 
-| 51. | Kuba | spanyol | spanyol |
+| 51. | Koreai Köztársaság | koreai | angol |
 
-| 52. | Kuvait | arab | angol |
+| 52. | Koszovó | albán, szerb | angol |
 
-| 53. | Laosz (nem önálló képviselet) | lao | angol |
+| 53. | Kuba | spanyol | spanyol |
 
-| 54. | Lengyelország | lengyel | angol, lengyel |
+| 54. | Kuvait | arab | angol |
 
-| 55. | Lettország | lett | angol |
+| 55. | Laosz | lao | angol |
 
-| 56. | Libanon | arab | francia, angol |
+| 56. | Lengyelország | lengyel | angol, lengyel |
 
-| 57. | Líbia | arab | angol |
+| 57. | Lettország | lett | angol |
 
-| 58. | Litvánia | litván | angol |
+| 58. | Libanon | arab | francia, angol |
 
-| 59. | Luxemburg (nem önálló képviselet) | luxemburgi | német, francia, angol |
+| 59. | Líbia | arab | angol |
 
-| 60. | Észak-Macedónia | macedón | angol |
+| 60. | Litvánia | litván | angol |
 
-| 61. | Malajzia | maláj | angol |
+| 61. | Luxemburg | luxemburgi | német, francia, angol |
 
-| 62. | Marokkó | arab | francia |
+| 62. | Észak-Macedónia | macedón | angol |
 
-| 63. | Málta (nem önálló képviselet) | máltai, angol | angol |
+| 63. | Malajzia | maláj | angol |
 
-| 64. | Mexikó | spanyol | spanyol |
+| 64. | Marokkó | arab | francia |
 
-| 65. | Moldova | moldovai | angol, orosz, román |
+| 65. | Málta | máltai, angol | angol |
 
-| 66. | Mongólia | mongol | angol, orosz |
+| 66. | Mexikó | spanyol | spanyol |
 
-| 67. | Montenegró | montenegrói | angol, szerb |
+| 67. | Moldova | moldovai | angol, orosz, román |
 
-| 68. | Nagy-Britannia | angol | angol |
+| 68. | Mongólia | mongol | angol, orosz |
 
-| 69. | Németország | német | német |
+| 69. | Montenegró | montenegrói | angol, szerb |
 
-| 70. | Nigéria | angol | angol |
+| 70. | Nagy-Britannia | angol | angol |
 
-| 71. | Norvégia | norvég | angol |
+| 71. | Németország | német | német |
 
-| 72. | Olaszország | olasz | olasz |
+| 72. | Nigéria | angol | angol |
 
-| 73. | Omán | arab | angol |
+| 73. | Norvégia | norvég | angol |
 
-| 74. | Oroszország | orosz | orosz, angol |
+| 74. | Olaszország | olasz | olasz |
 
-| 75. | Pakisztán | angol, urdu | angol |
+| 75. | Omán | arab | angol |
 
-| 76. | Palesztina | arab | angol |
+| 76. | Oroszország | orosz | orosz, angol |
 
-| 77. | Panama (nem önálló képviselet) | spanyol | spanyol, angol |
+| 77. | Pakisztán | angol, urdu | angol |
 
-| 78. | Peru | spanyol | spanyol |
+| 78. | Palesztina | arab | angol |
 
-| 79. | Portugália | portugál | angol, portugál |
+| 79. | Panama | spanyol | spanyol, angol |
 
-| 80. | Románia | román | angol, román, francia |
+| 80. | Peru | spanyol | spanyol |
 
-| 81. | Spanyolország | spanyol, katalán | spanyol |
+| 81. | Portugália | portugál | angol, portugál |
 
-| 82. | Svájc | francia, német, olasz | német, francia, angol, olasz |
+| 82. | Románia | román | angol, román, francia |
 
-| 83. | Svédország | svéd | angol |
+| 83. | Spanyolország | spanyol, katalán | spanyol |
 
-| 84. | Szaúd-Arábia | arab | angol, arab |
+| 84. | Svájc | francia, német, olasz | német, francia, angol, olasz |
 
-| 85. | Szenegál (nem önálló képviselet) | francia | francia, wolof |
+| 85. | Svédország | svéd | angol |
 
-| 86. | Szudán (nem önálló képviselet) | arab, angol | angol, arab |
+| 86. | Szaúd-Arábia | arab | angol, arab |
 
-| 87. | Szerbia | szerb | angol |
+| 87. | Szenegál | francia | francia, wolof |
 
-| 88. | Szingapúr | angol, maláj, mandarin, tamil | angol |
+| 88. | Szerbia | szerb | angol |
 
-| 89. | Szíria | arab | angol, francia |
+| 89. | Szingapúr | angol, maláj, mandarin, tamil | angol |
 
-| 90. | Szlovákia | szlovák | angol, szlovák, cseh, német |
+| 90. | Szíria | arab | angol, francia |
 
-| 91. | Szlovénia | szlovén | angol, szlovén |
+| 91. | Szlovákia | szlovák | angol, szlovák, cseh, német |
 
-| 92. | Szudán | arab, angol | angol, arab |
+| 92. | Szlovénia | szlovén | angol, szlovén |
 
 | 93. | Thaiföld | thai | angol |
 
@@ -190,13 +190,13 @@
 
 | 95. | Tunézia | arab | francia |
 
-| 96. | Uganda (nem önálló külképviselet) | angol, szuahéli | angol |
+| 96. | Uganda | angol, szuahéli | angol |
 
 | 97. | Új-Zéland | angol, maori | angol |
 
 | 98. | Ukrajna | ukrán | angol, orosz |
 
-| 99. | Uruguay (nem önálló képviselet) | spanyol | spanyol |
+| 99. | Uruguay | spanyol | spanyol |
 
 | 100. | USA | angol | angol |
 
@@ -206,10 +206,8 @@
 
 | 103. | Vietnám | vietnámi | angol |
 
-| 104. | Zimbabwe (nem önálló képviselet) | angol | angol |
+2. melléklet a 6/2017. (VII. 10.) KKM rendelethez[^73]
 
-2. melléklet a 6/2017. (VII. 10.) KKM rendelethez[^60]
+Munkanyelvek a multilaterális külképviseleteken
 
-Hivatalos és munkanyelvek a multilaterális külképviseleteken
-
-[^60]: A 2. melléklet a 16/2022. (XII. 20.) KKM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^73]: A 2. melléklet a 16/2022. (XII. 20.) KKM rendelet 1. § (2) bekezdésével megállapított, az 1/2023. (IV. 24.) KKM rendelet 2. § (2) bekezdése szerint módosított szöveg.
