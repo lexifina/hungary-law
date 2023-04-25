@@ -1,15 +1,22 @@
 ## 9. A továbbképzési kötelezettség teljesítésének finanszírozása
 
-20. § (1) A közszolgálati továbbképzéshez szükséges pénzügyi forrást a kormányzati igazgatási szerv biztosítja.
+20. § (1)[^1] A közszolgálati továbbképzéshez szükséges pénzügyi forrást a központi költségvetés biztosítja.
 
-(2) A közszolgálati továbbképzés, a közigazgatási szakvizsgák, valamint a Kormány által előírt továbbképzés költségeit a területi kormányzati igazgatási szerv az Egyetemnek a közszolgálati, illetve a Kormány által előírt továbbképzésre kötelezett foglalkoztatotti létszám alapján továbbképzési hozzájárulásként (a továbbiakban: normatív hozzájárulás) fizeti meg. A normatív hozzájárulás alapja a költségvetési törvényben a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény tekintetében meghatározott illetményalap 73%-a, amelyet a kormányzati igazgatási szerv két egyenlő részletben minden év január 31-éig, illetve június 30-áig a területi kormányzati igazgatási szervnél tárgyévben közszolgálati továbbképzésre, illetve Kormány által előírt továbbképzésre kötelezett kormányzati szolgálati jogviszonyban állók létszámának alapulvételével fizet meg az Egyetem részére. Az Egyetem a kormányzati igazgatási szerv részére igazolást állít ki a továbbképzési hozzájárulás megfizetéséről.
+(2)[^2] A közszolgálati továbbképzés, a közigazgatási szakvizsgák, valamint a Kormány által előírt továbbképzés költségei az Egyetem működési költségvetésében kerülnek tervezésre a területi kormányzati igazgatási szervek összesített foglalkoztatotti létszáma alapján. A költségvetési tervezés alapja a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény tekintetében meghatározott illetményalap 73%-a, a területi kormányzati igazgatási szerveknél a költségvetési évet megelőző év január 1-jén foglalkoztatott kormányzati szolgálati jogviszonyban állók összesített létszámát alapul véve, amelyhez a Magyar Államkincstár szolgáltat adatot a Pénzügyminisztérium és az Egyetem részére a költségvetési évet megelőző év január 31-ig. Ha a területi kormányzati igazgatási szerveknél a költségvetési évet megelőző év január 1-jén foglalkoztatott kormányzati szolgálati jogviszonyban állók összesített létszáma eltér a területi kormányzati igazgatási szerveknél a tárgyév január 1-jén foglalkoztatott kormányzati szolgálati jogviszonyban állók létszámától, akkor a különbözetet el kell számolni az Egyetem tárgyévet követő évi költségvetésében.
 
-(3) Ha a területi kormányzati igazgatási szerv a normatív hozzájárulást megfizeti, azonban a kormánytisztviselő nem vesz részt a továbbképzésben, az Egyetem utólag nem számol el a fel nem használt normatív hozzájárulás összegével, a keletkezett többletet az Egyetem a továbbképzési rendszer működtetésére használja fel.
+(3)[^3] Ha a kormánytisztviselő nem vesz részt a továbbképzésben, az Egyetem utólag nem számol el a központi költségvetésből biztosított keret összegével, a keletkezett többletet az Egyetem a továbbképzési rendszer működtetésére használja fel.
 
-(4) A területi kormányzati igazgatási szerv személyében bekövetkező jogutódlás vagy a Kit. 114. § (10) bekezdésében meghatározott jogviszonyváltás esetében a jogutód munkáltató szerv a tárgyévre vonatkozó normatív hozzájárulás időarányos részét megfizeti a jogelőd részére.
+(4)[^4]
 
-(5) A (4) bekezdésben meghatározottak szerint kell eljárni a Kit. 104. § (9) és (10) bekezdése esetén is, azzal, hogy a fogadó, illetve az új jogviszony szerinti kormányzati igazgatási szerv fizeti meg a tárgyévre vonatkozó normatív hozzájárulás időarányos részét azon kormányzati igazgatási szerv részére, amely a kormánytisztviselőt a kinevezés módosítását vagy a jogviszony megszűnését megelőzően foglalkoztatta.
+(5)[^5]
 
-(6) Ha a kormányzati igazgatási szervnél a tárgyév január 1-jét követően keletkezik továbbképzési kötelezettség, akkor a kormánytisztviselő után a kormányzati igazgatási szerv a normatív hozzájárulást időarányosan fizeti meg az Egyetem részére a tárgyév végéig.
+(6)[^6] Ha a kormányzati igazgatási szervnél a tárgyév január 1-jét követően keletkezik továbbképzési kötelezettség, akkor a kormánytisztviselő után az Egyetem részére a központi költségvetésből biztosított összeg időarányosan kerül tervezésre többletként az Egyetem tárgyévet követő évi költségvetésében.
 
 (7) A kormányhivatali kormánytisztviselő közszolgálati továbbképzési kötelezettségeinek teljesítésére felhasznált költség kizárólag a programjegyzéken szereplő programok útján használható fel.
+
+[^1]: A 20. § (1) bekezdése a 140/2023. (IV. 24.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^2]: A 20. § (2) bekezdése a 140/2023. (IV. 24.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^3]: A 20. § (3) bekezdése a 140/2023. (IV. 24.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^4]: A 20. § (4) bekezdését a 140/2023. (IV. 24.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^5]: A 20. § (5) bekezdését a 140/2023. (IV. 24.) Korm. rendelet 11. §-a hatályon kívül helyezte.
+[^6]: A 20. § (6) bekezdése a 140/2023. (IV. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
