@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Török Köztársaság Kormánya közötti katonai keretmegállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
