@@ -10,4 +10,6 @@ A Kormány
 
 5. kijelöli a Miniszterelnöki Kabinetirodát vezető minisztert a 4. pont szerinti törvényjavaslat előadójának;
 
-6. visszavonja a Magyarország és a Szerb Köztársaság között a minősített adatok cseréjéről és kölcsönös védelméről szóló egyezmény szövegének végleges megállapítására adott felhatalmazásról szóló 1069/2022. (II. 15.) Korm. határozatot.
+6.[^1]
+
+[^1]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
