@@ -1,4 +1,4 @@
-1. § (1)[^2] A piaci rendellenességek káros hatásainak megelőzése érdekében a 2022. február 1. és 2023. április 30. közötti időszakban az árak megállapításáról szóló 1990. évi LXXXVII. törvény (a továbbiakban: Ártörvény) Melléklet I. pont A) alpontjában foglalt táblázatban foglaltakon túl hatósági áras termék az 1. melléklet szerinti termék.
+1. § (1)[^2] A piaci rendellenességek káros hatásainak megelőzése érdekében a 2022. február 1. és 2023. június 30. közötti időszakban az árak megállapításáról szóló 1990. évi LXXXVII. törvény (a továbbiakban: Ártörvény) Melléklet I. pont A) alpontjában foglalt táblázatban foglaltakon túl hatósági áras termék az 1. melléklet szerinti termék.
 
 (2) Az 1. melléklet szerinti termék vonatkozásában üzletben vagy bevásárlóközpontban folytatott kereskedelmi tevékenység és a csomagküldő kereskedelem során alkalmazandó bruttó kiskereskedelmi ár a kereskedelemről szóló törvény szerinti napi fogyasztási cikkeket értékesítő kereskedő (a továbbiakban: kereskedő) által 2021. október 15. napján alkalmazott bruttó kiskereskedelmi árnál nem lehet magasabb.
 
@@ -14,4 +14,4 @@ b) ha az a) pont szerinti bruttó kiskereskedelmi ár nem állapítható meg, ak
 
 (6) A (2) bekezdés szerinti árazás során egyéb költség vagy díj nem számolható fel.
 
-[^2]: Az 1. § (1) bekezdése az 511/2022. (XII. 13.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdése a 142/2023. (IV. 24.) Korm. rendelet 1. §-a szerint módosított szöveg.
