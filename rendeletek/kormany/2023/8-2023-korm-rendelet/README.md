@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-8-20-22
 | --- | --- | --- |
 | 2023-01-18 | 2023-8-20-22.1 | 8/2023. (I. 17.) Korm. rendelet |
 | 2023-02-21 | 2023-8-20-22.2 | 40/2023. (II. 20.) Korm. rendelet |
+| 2023-04-25 | 2023-8-20-22.3 | 145/2023. (IV. 24.) Korm. rendelet |

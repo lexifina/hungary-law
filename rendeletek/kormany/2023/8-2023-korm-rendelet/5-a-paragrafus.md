@@ -1,4 +1,4 @@
-5/A. §[^7] (1) A 2. § szerinti honvédelmi szolgálati juttatásban részesülő személy és családtagja a Hjt. 140. § (1) és (2) bekezdésétől eltérően
+5/A. §[^11] (1) A 2. § szerinti honvédelmi szolgálati juttatásban részesülő személy és családtagja a Hjt. 140. § (1) és (2) bekezdésétől eltérően
 
 a) a regenerálódást segítő, rekreációs és üdültetési szolgáltatások,
 
@@ -7,6 +7,8 @@ b) a kegyeleti minősítés, a kegyeleti gondoskodás és a katonai temetés,
 c) az egyes pénzbeli, természetbeni és szociális juttatások
 
 közül a nyugállományú katonát és családtagját megillető juttatásra jogosult.
+
+(1a)[^12] Az (1) bekezdés szerinti juttatás megállapítására a nyugállományú katonát és családtagját megillető, (1) bekezdés a)–c) pontja szerinti juttatás megállapítására irányadó eljárási szabályokat kell alkalmazni.
 
 (2) A 2. § szerinti honvédelmi szolgálati juttatásban részesülő személy a honvédelemről és a Magyar Honvédségről szóló törvény, valamint a Hjt. rendelkezéseitől eltérően a nyugállományú katonával megegyező módon jogosult az egyenruha viselésére, azzal, hogy a 2. § (1) bekezdése szerinti időpontot megelőző napon viselt rendfokozatát a szolgálati juttatásban részesülésre utalással „hszj.” megjelöléssel viselheti.
 
@@ -18,4 +20,5 @@ közül a nyugállományú katonát és családtagját megillető juttatásra jo
 
 (6) Ha a 2. § szerinti honvédelmi szolgálati juttatásra jogosult személy a szolgálati viszonya utolsó napján lízingelt lakóingatlanhoz kapcsolódó lízingdíj megfizetése céljából folyósított lakáspénzben részesült, kizárólag e lakóingatlan vonatkozásában a szolgálati viszonyának utolsó napján irányadó és megállapított lakáspénz számára, a szolgálati vonzáskörzetre vonatkozó jogszabályi feltételek hiányában továbbfolyósítható önkéntes műveleti vagy önkéntes területvédelmi tartalékosi szolgálat vállalása esetén, e szolgálat teljesítésének utolsó napjáig, de legfeljebb az érintett szolgálati viszonyának 1. § szerinti megszűnésétől számított két évig. Ez esetben a lakáspénz folyósítását meg kell szüntetni akkor is, ha a szolgálati juttatásra való jogosultság a 2. § (6) bekezdése alapján kerül megszüntetésre.
 
-[^7]: Az 5/A. §-t a 40/2023. (II. 20.) Korm. rendelet 8. §-a iktatta be.
+[^11]: Az 5/A. §-t a 40/2023. (II. 20.) Korm. rendelet 8. §-a iktatta be.
+[^12]: Az 5/A. § (1a) bekezdését a 145/2023. (IV. 24.) Korm. rendelet 2. §-a iktatta be.
