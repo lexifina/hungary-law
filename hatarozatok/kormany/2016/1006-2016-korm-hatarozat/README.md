@@ -54,3 +54,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1006-30
 | 2023-02-24 | 2016-1006-30-22.46 | 1201/2016. (IV. 15.) Korm. határozat |
 | 2023-03-30 | 2016-1006-30-22.47 | 1201/2016. (IV. 15.) Korm. határozat |
 | 2023-04-06 | 2016-1006-30-22.49 | 1201/2016. (IV. 15.) Korm. határozat |
+| 2023-04-25 | 2016-1006-30-22.50 | 1201/2016. (IV. 15.) Korm. határozat |
