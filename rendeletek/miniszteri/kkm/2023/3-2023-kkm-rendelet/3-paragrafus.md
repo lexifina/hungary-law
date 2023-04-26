@@ -1,1 +1,3 @@
-3. § Hatályát veszti a KKM rendelet 7. § (5) bekezdésében az „A modulvezető, illetve az általa kijelölt helyettes vezető.” szövegrész.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
