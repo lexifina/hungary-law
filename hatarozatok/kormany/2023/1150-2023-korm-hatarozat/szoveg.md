@@ -1,3 +1,5 @@
-1. A Széchenyi Kártya Programmal kapcsolatos intézkedésekről szóló 1511/2022. (X. 24.) Korm. határozat 1. pont 1.1. alpontjában a „2023 I. félévére” szövegrész helyébe a „2023. évre” szöveg lép.
+1.[^2]
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
