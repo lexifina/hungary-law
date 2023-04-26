@@ -1,3 +1,3 @@
-2. § A 273/2012. (IX. 28.) Korm. rendelet a következő 30. §-sal egészül ki:
+2. §[^3]
 
-„30. § A kormánytisztviselő, köztisztviselő számára előírt továbbképzési kötelezettségek teljesítéséhez szükséges pénzügyi forrást legalább az előírt tanulmányi kötelezettségek teljesítését biztosító mértékben a központi költségvetés biztosítja 2023. január 1. napjától. A 2023. január 1-jét követően a közigazgatási szerv által az NKE részére megfizetett továbbképzési hozzájárulás összegét az NKE a Nemzeti Közszolgálati Egyetem által folytatott közszolgálati továbbképzés finanszírozásával kapcsolatos kormányrendeletek módosításáról szóló 140/2023. (IV. 24.) Korm. rendelet hatálybalépésétől számított 30 napon belül köteles a közigazgatási szerv részére visszafizetni.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

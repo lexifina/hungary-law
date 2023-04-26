@@ -1,1 +1,3 @@
-11. § Hatályát veszti az 568/2022. (XII. 23.) Korm. rendelet 20. § (4) és (5) bekezdése.
+11. §[^12]
+
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-5. § A 338/2019. (XII. 23.) Korm. rendelet a következő 16. §-sal egészül ki:
+5. §[^6]
 
-„16. § A közszolgálati és a belső továbbképzéshez szükséges pénzügyi forrást a központi költségvetés biztosítja 2023. január 1. napjától. A 2023. január 1-jét követően a központi kormányzati igazgatási szerv által az Egyetem részére megfizetett továbbképzési hozzájárulás összegét az Egyetem a Nemzeti Közszolgálati Egyetem által folytatott közszolgálati továbbképzés finanszírozásával kapcsolatos kormányrendeletek módosításáról szóló 140/2023. (IV. 24.) Korm. rendelet hatálybalépésétől számított 30 napon belül köteles a központi kormányzati igazgatási szerv részére visszafizetni.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
