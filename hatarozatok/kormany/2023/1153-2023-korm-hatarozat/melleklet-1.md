@@ -12,13 +12,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat
-
-## a) 1. melléklet 2. pontjában foglalt táblázat C:6 mezőjében a „41,49” szövegrész helyébe a „40,95” szöveg,
-
-## b) 1. melléklet 2. pontjában foglalt táblázat C:12 mezőjében a „38,84” szövegrész helyébe a „39,39” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1153/2023. (IV. 24.) Korm. határozathoz
 
@@ -27,3 +21,5 @@
 | 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Eredeti támogatás (forint) | Többlettámogatás legfeljebb (forint) | Megnövelt támogatás legfeljebb (forint) | Projekt rövid bemutatása |
 
 | 2. | GINOP-2.3.4-15-2020-00006 | Fenntartható Zöld Kémia és Mobilitás Kompetencia Központ létrehozása a Szegedi Tudományegyetemen | Szegedi Tudományegyetem (konzorciumvezető), MOL Magyar Olaj- és Gázipari Nyilvánosan Működő Részvénytársaság | 4 000 000 000 | 598 970 000 | 4 598 970 000 | A projekt célja egy olyan kompetencia központ létrehozása a Szegedi Tudományegyetemen, ahol a fő kutatási irányokat az ipari partner jelöli ki az alap-, az alkalmazott kutatásokat és kísérleti fejlesztéseket egységbe foglalva. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
