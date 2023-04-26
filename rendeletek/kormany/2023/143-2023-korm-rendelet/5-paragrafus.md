@@ -1,3 +1,3 @@
-5. § Az R. 2. §-a helyébe a következő rendelkezés lép:
+5. §[^2]
 
-„2. § A miniszterelnök politikai igazgatója az 1. § szerinti feladatait a miniszterelnök politikai igazgatója tulajdonosi joggyakorlásában lévő Magyar Külügyi Intézet Nonprofit Zártkörűen Működő Részvénytársaság útján látja el.”
+[^2]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
