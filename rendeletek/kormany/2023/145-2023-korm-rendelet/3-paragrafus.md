@@ -1,3 +1,3 @@
-3. § Az R. 6. §-a a következő (3a) bekezdéssel egészül ki:
+3. §[^4]
 
-„(3a) A Hjt. 67. § (1) bekezdés a) pontjától eltérően az egészségügyi szabadság idejét követő 30 nap alatt a felmentési védelem az állomány érintett tagját nem illeti meg. Az állomány érintett tagjával az egészségügyi szabadság ideje alatt is közölhető az (1) bekezdés szerinti rendelkezési állományba helyezés. Amennyiben az egészségügyi szabadság időtartama a rendelkezési állomány (1) bekezdés szerinti időtartamát meghaladja, a rendelkezési állomány az egészségügyi szabadság utolsó napjáig meghosszabbodik. Ebben az esetben az állomány érintett tagjának szolgálati viszonyát a rendelkezési állomány utolsó napját követő nappal kell felmentéssel megszüntetni úgy, hogy ezt az egészségügyi szabadság utolsó napját követő 3 munkanapon belül kell az érintettel közölni. Az erről szóló jognyilatkozatot az állományilletékes parancsnok állítja ki, és közli az állomány érintett tagjával.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
