@@ -1,1 +1,3 @@
-1. § Az árak megállapításáról szóló 1990. évi LXXXVII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 6/2022. (I. 14.) Korm. rendelet 1. § (1) bekezdésében és 1/A. § (1) bekezdésében a „2023. április 30.” szövegrész helyébe a „2023. június 30.” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
