@@ -1,3 +1,3 @@
-1. § A tartós külszolgálati pályázati rendszerről, valamint a kihelyező szerv által támasztott szakmai követelmények és azok teljesítésének részletes szabályairól szóló 6/2017. (VII. 10.) KKM rendelet [a továbbiakban: 6/2017. (VII. 10.) KKM rendelet] 11. §-a a következő (4) bekezdéssel egészül ki:
+1. §[^2]
 
-„(4) E rendeletnek a tartós külszolgálati pályázati rendszerről, valamint a kihelyező szerv által támasztott szakmai követelmények és azok teljesítésének részletes szabályairól szóló 6/2017. (VII. 10.) KKM rendelet módosításáról szóló 1/2023. (IV. 24.) KKM rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseit a Módr2. hatálybalépését követően kiírásra kerülő tartós külszolgálati álláspályázat, kijelölési döntés, valamint tartós külszolgálati munkakör betöltése esetében kell alkalmazni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
