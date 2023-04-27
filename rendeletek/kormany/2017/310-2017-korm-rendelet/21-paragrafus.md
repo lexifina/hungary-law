@@ -6,8 +6,8 @@ a) a közös agrárpolitika finanszírozásáról, irányításáról és monito
 
 b) az 1307/2013/EU és az 1308/2013/EU európai parlamenti és tanácsi rendeletnek az információk és dokumentumok Bizottsághoz való eljuttatása tekintetében történő kiegészítéséről szóló 2017. április 20-ai, 2017/1183/EU felhatalmazáson alapuló bizottsági rendelet
 
-c)[^39] a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2116 európai parlamenti és tanácsi rendelet
+c)[^40] a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2116 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^39]: A 21. § (2) bekezdés c) pontját a 601/2022. (XII. 28.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^40]: A 21. § (2) bekezdés c) pontját a 601/2022. (XII. 28.) Korm. rendelet 27. § (3) bekezdése iktatta be.
