@@ -14,6 +14,9 @@ d)[^905] az előleg elszámolásának megkezdésére vonatkozó előírás, ide 
 
 (3)[^907] A támogatási előlegigénylést, valamint a mérföldkő elérését követően benyújtandó beszámolót a konzorciumvezető nyújthatja be azzal, hogy a konzorciumi tag részére igényelt támogatási előleggel, beszámolóval kapcsolatos információkat a konzorciumi tag is rögzítheti a monitoring és információs rendszerben.
 
+(3a)[^908] Időközi kifizetési igénylést konzorciumi tag is benyújthat.
+
 [^905]: A 140. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 81. §-ával megállapított, az 59/2018. (III. 26.) Korm. rendelet 12. § (1) bekezdés 13. pontja szerint módosított szöveg.
 [^906]: A 140. § (2) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 40. §-ával megállapított szöveg.
 [^907]: A 140. § (3) bekezdése a 163/2017. (VI. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^908]: A 140. § (3a) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 36. §-a iktatta be, szövege a 163/2017. (VI. 28.) Korm. rendelet 15. §-ával megállapított szöveg.

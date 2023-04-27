@@ -96,3 +96,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-272-20-
 | 2023-01-31 | 2014-272-20-22.87 | 347/2015. (XI. 20.) Korm. rendelet |
 | 2023-03-11 | 2014-272-20-22.91 | 72/2023. (III. 10.) Korm. rendelet |
 | 2023-04-15 | 2014-272-20-22.92 | 123/2023. (IV. 12.) Korm. rendelet |
+| 2023-04-27 | 2014-272-20-22.93 | 347/2015. (XI. 20.) Korm. rendelet |

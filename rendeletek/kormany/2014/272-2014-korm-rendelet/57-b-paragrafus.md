@@ -12,11 +12,11 @@
 
 (5)[^395] A (4) bekezdés szerinti esetben az e rendelet szerint elektronikus úton megküldött dokumentumokat és az azokról szóló értesítést a támogatást igénylő vagy a kedvezményezett ügyfélkapujára kell megküldeni. A kézbesítésre ez esetben is a XXIX. Fejezetben foglaltakat kell alkalmazni.
 
-(6)[^396] A 809/2014/EU bizottsági végrehajtási rendelet 11. cikk (4) bekezdésében meghatározott előzetes ellenőrzés során a kapcsolattartás kizárólag elektronikus úton történik.
+(6)[^396]
 
 [^391]: A XI/A. Fejezetet (57/B–57/J. §) a 144/2015. (VI. 12.) Korm. rendelet 30. §-a iktatta be.
 [^392]: Az 57/B. § (1) bekezdése a 98/2016. (V. 13.) Korm. rendelet 16. § (1) bekezdésével megállapított, a 247/2016. (VIII. 17.) Korm. rendelet 26. § (1) bekezdés 5. pontja szerint módosított szöveg.
 [^393]: Az 57/B. § (2) bekezdése a 98/2016. (V. 13.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^394]: Az 57/B. § (4) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^395]: Az 57/B. § (5) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^396]: Az 57/B. § (6) bekezdését a 98/2016. (V. 13.) Korm. rendelet 16. § (2) bekezdése iktatta be, szövege a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^396]: Az 57/B. § (6) bekezdését a 98/2016. (V. 13.) Korm. rendelet 16. § (2) bekezdése iktatta be, a 139/2023. (IV. 24.) Korm. rendelet 11. §-a hatályon kívül helyezte.

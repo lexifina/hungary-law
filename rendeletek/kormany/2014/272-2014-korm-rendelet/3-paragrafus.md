@@ -170,11 +170,11 @@
 
 5.[^65] terület-, illetve állatlétszám alapú támogatások: a 640/2014/EU felhatalmazáson alapuló bizottsági rendelet 2. cikk (1) bekezdés 14., illetve 21. pontjában meghatározott intézkedések,
 
-6.[^66] adategyeztetés: az EMVA forrásból nyújtott támogatások esetén a támogatási kérelem tárgyában történő döntéshozatalt megelőzően az adatok, a támogatási, illetve kifizetési kérelemmel érintett terület-, illetve állatlétszám megállapítása, valamint a körülmények mesterséges megteremtésének vizsgálata érdekében szükséges írásbeli egyeztetés,
+6.[^66] adategyeztetés: az EMVA forrásból nyújtott támogatások esetén a támogatási kérelem tárgyában történő döntéshozatalt megelőzően az adatok, a támogatási, illetve kifizetési kérelemmel érintett terület-, illetve állatlétszám, illetve támogatási egység megállapítása, valamint a körülmények mesterséges megteremtésének vizsgálata érdekében szükséges írásbeli egyeztetés,
 
 7.[^67] támogatási alap: adott intézkedés vonatkozásában a támogatási összeg megállapítására meghatározott feltételek közül a felhívásban ekként meghatározott szempont,
 
-8.[^68] kamarai meghatalmazott: a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK) munkavállalója, aki a NAK nevében segítséget nyújt az EMVA-ból nyújtott támogatások igénybevételével összefüggő elektronikus ügyintézésben.
+8.[^68] kamarai meghatalmazott: az EMVA-ból nyújtott támogatások igénybevételével összefüggő elektronikus ügyintézés során technikai közreműködőként az ügyfelek képviseletében eljáró Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara.
 
 (2) Az (1) bekezdésben nem értelmezett fogalmakat
 
@@ -247,9 +247,9 @@ szerint kell értelmezni.
 [^63]: A 3. § (1a) bekezdés 2a. pontját a 98/2016. (V. 13.) Korm. rendelet 2. § (5) bekezdése iktatta be, szövege a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 2. pontja, a 160/2018. (IX. 7.) Korm. rendelet 15. § (1) bekezdés 3. pontja szerint módosított szöveg.
 [^64]: A 3. § (1a) bekezdés 4. pontja a 160/2018. (IX. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^65]: A 3. § (1a) bekezdés 5. pontja a 247/2016. (VIII. 17.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
-[^66]: A 3. § (1a) bekezdés 6. pontját a 347/2015. (XI. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^66]: A 3. § (1a) bekezdés 6. pontját a 347/2015. (XI. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 8. pontja, a 139/2023. (IV. 24.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
 [^67]: A 3. § (1a) bekezdés 7. pontját a 466/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
-[^68]: A 3. § (1a) bekezdés 8. pontját a 466/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be, szövege a 98/2016. (V. 13.) Korm. rendelet 46. § 3. pontja szerint módosított szöveg.
+[^68]: A 3. § (1a) bekezdés 8. pontját a 466/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be, szövege a 139/2023. (IV. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^69]: A 3. § (2) bekezdés c) pontja a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 3. pontja szerint módosított szöveg.
 [^70]: A 3. § (2) bekezdés d) pontja a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^71]: A 3. § (2) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 5. § (12) bekezdése iktatta be, szövege a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés a) pontja szerint módosított szöveg.
