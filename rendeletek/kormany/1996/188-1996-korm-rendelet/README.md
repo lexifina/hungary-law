@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-188-20-
 | 2020-02-15 | 1996-188-20-22.11 | 13/2020. (II. 7.) Korm. rendelet |
 | 2022-01-01 | 1996-188-20-22.12 | 789/2021. (XII. 27.) Korm. rendelet |
 | 2022-07-01 | 1996-188-20-22.13 | 789/2021. (XII. 27.) Korm. rendelet |
+| 2023-04-27 | 1996-188-20-22.14 | 789/2021. (XII. 27.) Korm. rendelet |
