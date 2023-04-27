@@ -4,7 +4,7 @@
 
 a) az M1, M2, N1, N2 és N3 járműkategóriák tekintetében a Közbeszerzési és Ellátási Főigazgatóság, továbbá
 
-b) az M3 járműkategória tekintetében a személyszállítási szolgáltatásokról szóló törvény szerinti országos közlekedésszervező
+b)[^1] az M3 járműkategória tekintetében a VPE Vasúti Pályakapacitás-elosztó Korlátolt Felelősségű Társaság
 
 látja el.
 
@@ -25,3 +25,5 @@ f) jelentést készít a klímapolitikáért felelős miniszter részére az ado
 g) közreműködik a 8. § szerinti egyéb jelentési kötelezettségek teljesítésében, valamint
 
 h) elkészíti a járműbeszerzési terv részletes tartalmára vonatkozó módszertani útmutatót.
+
+[^1]: A 4. § (1) bekezdés b) pontja a 141/2023. (IV. 24.) Korm. rendelet 11. §-a szerint módosított szöveg.
