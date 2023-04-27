@@ -1,0 +1,34 @@
+# A Kormány 1163/2023. (IV. 27.) Korm. határozata
+
+Magyar Közlöny 2023. évi 62. szám, 2023. április 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ZbSYExT0oiehhdFoXZHi6440294e3a53c/dokumentumok/79dc6517729cbce68fb360f8b1864cdb529a2f8a/letoltes)
+
+---
+
+A Kormány 1163/2023. (IV. 27.) Korm. határozata
+az MVM Csoport egyes tagvállalatainak a GINOP Plusz-3.2.1-21 azonosító számú,„A munkavállalók és
+vállalatok alkalmazkodóképességének és termelékenységének javítása a munkaerő fejlesztésén keresztül”
+című pályázaton való részvételéről
+A Kormány – a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának
+rendjéről szóló 256/2021 (V. 18.) Korm. rendelet 95. § (2) bekezdése alapján – hozzájárul ahhoz, hogy a GINOP Plusz-3.2.1-21
+azonosító számú, „A munkavállalók és vállalatok alkalmazkodóképességének és termelékenységének javítása a munkaerő
+fejlesztésén keresztül”című pályázatra az MVM Csoport alábbi kilenc tagvállalata támogatási kérelmet nyújtson be:
+1. MVM Services Zrt. (cégjegyzékszám: 01-10-048351, adószám: 25147784-2-44, székhely: 1081 Budapest,
+II. János Pál pápa tér 20.);
+2. MVM Next Energiakereskedelmi Zrt. (cégjegyzékszám: 01-10-140263, adószám: 26713111-2-44, székhely:
+1081 Budapest, II. János Pál pápa tér 20.);
+3. MVM Ügyfélkapcsolati Kft. (cégjegyzékszám: 01-09-324580, adószám: 26332392-2-44, székhely: 1081 Budapest,
+II. János Pál pápa tér 20.);
+4. MVM EÉ Ügyfélkapcsolati Kft. (cégjegyzékszám: 01-09-874155, adószám: 13805252-2-44, székhely: 1081 Budapest,
+II. János Pál pápa tér 20.);
+5. MVM Démász Áramhálózati Kft. (cégjegyzékszám: 06-09-010805, adószám: 13792679-2-06, székhely: 6724 Szeged,
+Kossuth Lajos sugárút 64–66.);
+6. MVM Émász Áramhálózati Kft. (cégjegyzékszám: 05-09-013453, adószám: 13804495-2-05, székhely: 3525 Miskolc,
+Dózsa György u 13.);
+7. MVM Főgáz Földgázhálózati Kft. (cégjegyzékszám: 01-09-878954, adószám: 13899893-2-44, székhely:
+1081 Budapest, II. János Pál pápa tér 20.);
+8. MVM Égáz-Dégáz Földgázhálózati Zrt. (cégjegyzékszám: 06-10-000470, adószám: 13937856-2-06, székhely:
+6724 Szeged, Pulcz utca 44.);
+9. MVM Balance Zrt. (cégjegyzékszám: 13-10-041190, adószám: 14120486-2-44, székhely: 2040 Budaörs,
+Kinizsi utca 26.).
+ Orbán Viktor s. k.,
+ miniszterelnök
