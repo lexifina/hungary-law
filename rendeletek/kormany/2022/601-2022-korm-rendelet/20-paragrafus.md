@@ -1,3 +1,3 @@
-20. §[^9]
+20. §[^12]
 
-[^9]: A 20. § a 25. § (3) bekezdés alapján 2023. június 1-jén lép hatályba.
+[^12]: A 20. § a 25. § (3) bekezdés alapján 2023. június 1-jén lép hatályba.

@@ -1,4 +1,4 @@
-24. § (1) Az 1. § szerinti agrártámogatásokhoz kapcsolódó elháríthatatlan külső ok (vis maior) elismerésére irányuló eljárásban végrehajtásban közreműködő szervként jár el
+24. § (1)[^16] Az 1. §, valamint a 2007–2013 és a 2014–2022 programozási időszak szerinti agrártámogatásokhoz kapcsolódó elháríthatatlan külső ok (vis maior) elismerésére irányuló eljárásban végrehajtásban közreműködő szervként jár el
 
 a) a mezőgazdasági üzem földterületét sújtó természeti csapás, illetve szélsőséges időjárási körülmény (földrengés, árvíz, szélvihar, aszály, belvíz, tűzeset, jégkár, fagykár stb.) tekintetében az agrárkár-megállapító szervként eljáró vármegyei kormányhivatal,
 
@@ -8,8 +8,10 @@ c) a megfelelő gondosság ellenére az állatállomány egészének vagy egy r�
 
 d) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény hatálya alá tartozó területet sújtó természeti csapás, illetve szélsőséges időjárási körülmény (földrengés, árvíz, szélvihar, aszály, belvíz, tűzeset, jégkár, fagykár stb.) tekintetében az erdészeti hatóságként eljáró vármegyei kormányhivatal,
 
-e) a növényállomány, illetve a termesztett gombafajoknak egy részét vagy teljes egészét sújtó fertőzés, illetve károsító járványos szintű előfordulásából eredő kártétel tekintetében a károkozás helye szerint illetékes növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal
+e) a növényállomány, illetve a termesztett gombafajoknak egy részét vagy teljes egészét sújtó fertőzés, illetve károsító járványos szintű előfordulásából eredő kártétel tekintetében a károkozás helye szerint illetékes, növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal
 
 annak elbírálása kérdésében, hogy az adott vis maior esemény a vis maior kérelemben megjelölt területen, állat- és növényállományban, termesztett gombafajok állományában, valamint időpontban bekövetkezett-e.
 
 (2) Ha a vis maior esemény kiterjed az ország jelentős részére, vagy az adott intézkedés tekintetében különösen nagyszámú érintettre, akkor a vis maior esemény megállapításának jóváhagyási feltételeit a Nemzeti Kifizető Ügynökség állapítja meg.
+
+[^16]: A 24. § (1) bekezdése a 139/2023. (IV. 24.) Korm. rendelet 5. §-ával megállapított szöveg.

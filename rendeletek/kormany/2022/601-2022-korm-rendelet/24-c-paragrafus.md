@@ -1,0 +1,1 @@
+24/C. § A Nemzeti Élelmiszerlánc-biztonsági Hivatal a helyszíni ellenőrzések egységes végrehajtása érdekében – a természet- és vízvédelmi feladatok, valamint a HMKÁ előírásokhoz kapcsolódó feladatok kivételével – működteti az ellenőrzési feladatok ellátását támogató informatikai rendszert, valamint nyilvántartást vezet az elvégzett helyszíni ellenőrzések adatairól.

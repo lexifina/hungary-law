@@ -1,3 +1,3 @@
-15. §[^4]
+15. §[^7]
 
-[^4]: A 15. § a 25. § (3) bekezdés alapján 2023. június 1-jén lép hatályba.
+[^7]: A 15. § a 25. § (3) bekezdés alapján 2023. június 1-jén lép hatályba.

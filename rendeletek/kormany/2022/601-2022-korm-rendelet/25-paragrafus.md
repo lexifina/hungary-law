@@ -6,6 +6,6 @@
 
 (3) E rendelet 12–23. §-a 2023. június 1-jén lép hatályba.
 
-(4)[^13]
+(4)[^18]
 
-[^13]: A 25. § (4) bekezdése a 25. § (2) bekezdés alapján 2023. május 31-én lép hatályba.
+[^18]: A 25. § (4) bekezdése a 25. § (2) bekezdés alapján 2023. május 31-én lép hatályba.

@@ -12,6 +12,10 @@ d) ellátja az európai uniós jogi aktusok által illetékes hatóságra ruház
 
 e) gyakorolja az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § e), h) és i) pontja szerinti hatásköröket a Nemzeti Kifizető Ügynökség tevékenysége tekintetében.
 
+f)[^1] jogosult célzott vizsgálatok elrendelésére és lefolytatására, valamint értékelési elemzések, jelentések összeállítására, valamint
+
+g)[^2] az f) pont szerinti célzott vizsgálatok végrehajtása érdekében a Nemzeti Kifizető Ügynökséget a nyilvántartott bármely, az f) pont szerinti célzott vizsgálathoz szükséges adatai tekintetében adatszolgáltatásra kötelezheti az adatkezelési cél és az adatkör meghatározása mellett, továbbá az f) pont szerinti értékelési elemzések, jelentések összeállításához szükséges, anonimizált adatokat jogosult kérni, azzal, hogy adatkérése nem akadályozhatja a Nemzeti Kifizető Ügynökség alapvető feladatellátását.
+
 (2) A miniszter a nemzeti költségvetésből finanszírozott agrártámogatásokkal kapcsolatos feladatkörében
 
 a) elkészíti az intézkedésekben való részvétel részletes feltételeit és a pályázati felhívásokat, valamint előkészíti az eljárást szabályozó jogszabályokat,
@@ -43,3 +47,6 @@ i) az intézkedések végrehajtásához a Nemzeti Kifizető Ügynökség által 
 j) a Nemzeti Kifizető Ügynökség megkeresésére állásfoglalást ad ki az intézkedések vonatkozásában.
 
 (4) A gazdaságfejlesztésért felelős miniszter az Agrár Széchenyi Kártya Konstrukciókkal kapcsolatos nemzeti intézkedés tekintetében gyakorolja az Áht. 9. § h) és i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket, amelynek keretében ellátja a (3) bekezdés a)–d), f), h)–j) pontjában foglalt feladatokat.
+
+[^1]: A 2. § (1) bekezdés f) pontját a 139/2023. (IV. 24.) Korm. rendelet 1. §-a iktatta be.
+[^2]: A 2. § (1) bekezdés g) pontját a 139/2023. (IV. 24.) Korm. rendelet 1. §-a iktatta be.

@@ -14,6 +14,8 @@ e) a szociális partnerek és
 
 f) a civil szervezetek
 
+g)[^3] az illetékes hatóság
+
 delegálják.
 
 (2) A Nemzeti KAP Monitoring Bizottságba tanácskozási joggal rendelkező tagot delegálhat
@@ -35,3 +37,5 @@ e) a területfejlesztésért felelős miniszter.
 (5) A Nemzeti KAP Monitoring Bizottság titkársági feladatait a Nemzeti Irányító Hatóság látja el.
 
 (6) A Nemzeti KAP Monitoring Bizottság tagjainak listája nyilvános.
+
+[^3]: A 6. § (1) bekezdés g) pontját a 139/2023. (IV. 24.) Korm. rendelet 2. §-a iktatta be.

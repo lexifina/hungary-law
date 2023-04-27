@@ -1,0 +1,1 @@
+24/D. § A hatáskörrel rendelkező hatóságok a feladatuk ellátása során együttműködnek, amelynek keretében egyéb, a hatáskörükbe tartozó feladataik ellátása során észlelt, a JFGK és HMKÁ előírásokat sértő tevékenységről egymást tájékoztatják.

@@ -1,3 +1,3 @@
-22. §[^11]
+22. §[^14]
 
-[^11]: A 22. § a 25. § (3) bekezdés alapján 2023. június 1-jén lép hatályba.
+[^14]: A 22. § a 25. § (3) bekezdés alapján 2023. június 1-jén lép hatályba.

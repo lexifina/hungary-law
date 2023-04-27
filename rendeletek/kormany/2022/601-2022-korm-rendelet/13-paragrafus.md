@@ -1,3 +1,3 @@
-13. §[^2]
+13. §[^5]
 
-[^2]: A 13. § a 25. § (3) bekezdés alapján 2023. június 1-jén lép hatályba.
+[^5]: A 13. § a 25. § (3) bekezdés alapján 2023. június 1-jén lép hatályba.
