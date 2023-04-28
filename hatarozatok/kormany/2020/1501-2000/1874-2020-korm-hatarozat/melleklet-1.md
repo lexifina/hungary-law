@@ -68,9 +68,9 @@
 
 | 1. | Dunamelléki Református Egyházkerület | református iskola építése Biatorbágyon | 3 652 992 860 | 646 973 140 |  | 4 299 966 000 |
 
-| 2. | Északpesti Református Egyházmegye | váci Bernáth Kálmán Református Gimnázium, Kereskedelmi és Vendéglátóipari Szakgimnázium és Szakközépiskola fejlesztése | 117 000 000 | 943 000 000 | 457 810 000 | 1 517 810 000 |
+| 2. | Dunamelléki Református Egyházkerület | váci Bernáth Kálmán Református Gimnázium, Kereskedelmi és Vendéglátóipari Szakgimnázium és Szakközépiskola fejlesztése | 117 000 000 | 943 000 000 | 457 810 000 | 1 517 810 000 |
 
-| 3. | Gödöllői Református Egyházközség | Gödöllői Református Líceum Gimnázium fejlesztése és bővítése, valamint új parókia építése | 398 748 250 | 1 904 100 000 | 776 584 250 | 3 079 432 500 |
+| 3. | Dunamelléki Református Egyházkerület | Gödöllői Református Líceum Gimnázium fejlesztése és bővítése, valamint új parókia építése | 398 748 250 | 1 904 100 000 | 776 584 250 | 3 079 432 500 |
 
 | 4. | Nyíregyháza-Városi Református Egyházközség | nyíregyházi Jókai Mór Református Általános Iskola fejlesztése | 500 000 000 |  |  | 500 000 000 |
 
@@ -82,4 +82,4 @@
 
 | 8. | Solymári Református Egyházközség | solymári református templom, parókia és közösségi termek fejlesztése, épületvásárlás | 110 955 000 |  |  | 110 955 000 |
 
-[^1]: Az 1. melléklet az 1404/2022. (VIII. 16.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1404/2022. (VIII. 16.) Korm. határozat 2. pontja, az 1170/2023. (IV. 28.) Korm. határozat 3. pontja szerint módosított szöveg.
