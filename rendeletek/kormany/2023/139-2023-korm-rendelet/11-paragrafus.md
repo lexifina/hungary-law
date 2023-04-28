@@ -1,1 +1,3 @@
-11. § Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet 57/B. § (6) bekezdése.
+11. §[^11]
+
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

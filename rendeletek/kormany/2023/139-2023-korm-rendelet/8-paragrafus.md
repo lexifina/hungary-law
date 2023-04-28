@@ -1,1 +1,3 @@
-8. § A KAP Kr. az 1. melléklet szerinti 1. melléklettel egészül ki.
+8. §[^8]
+
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

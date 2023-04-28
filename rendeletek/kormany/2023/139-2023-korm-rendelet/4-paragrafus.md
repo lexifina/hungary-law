@@ -1,3 +1,3 @@
-4. §[^2]
+4. §[^4]
 
-[^2]: A 4. § a 12. § (2) bekezdés alapján 2023. június 1-jén lép hatályba.
+[^4]: A 4. § a 12. § (2) bekezdés alapján 2023. június 1-jén lép hatályba.
