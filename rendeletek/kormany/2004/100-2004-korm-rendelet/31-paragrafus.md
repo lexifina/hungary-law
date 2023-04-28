@@ -1,1 +1,0 @@
-## 30. § Amennyiben az igénybe vett vagy elrendelt elektronikus hírközlési szolgáltatás további fenntartása nem indokolt, az igénybevevő haladéktalanul köteles gondoskodni az igénybevétel megszüntetéséről.
