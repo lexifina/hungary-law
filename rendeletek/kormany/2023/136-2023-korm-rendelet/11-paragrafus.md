@@ -1,0 +1,1 @@
+11. § A közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter az érintett miniszterrel és a Hatóság elnökével előkészíti – a kormányzati célú hírközlési szolgáltató bevonásával – a kormányzati célú hálózat módosításának, átállításának és aktivizálásának elrendelésére vonatkozó tervet.
