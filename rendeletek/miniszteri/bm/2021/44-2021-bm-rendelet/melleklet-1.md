@@ -4,7 +4,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 1. BUDAPEST FŐVÁROS
 
-1.1. Észak-pesti katasztrófavédelmi kirendeltség
+1.1.[^2] Észak-pesti katasztrófavédelmi kirendeltség
 
 |  | A | B |
 
@@ -18,7 +18,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 5 | XV. kerület | I. |
 
-| 6 | XVI. kerület | II. |
+| 6 | XVI. kerület | I. |
 
 1.2. Közép-pesti katasztrófavédelmi kirendeltség
 
@@ -80,7 +80,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 4 | XXII. kerület | I. |
 
-2.[^2] BÁCS-KISKUN VÁRMEGYE
+2.[^3] BÁCS-KISKUN VÁRMEGYE
 
 2.1. Baja székhelyű katasztrófavédelmi kirendeltség
 
@@ -338,9 +338,9 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 36 | Zsana | II. |
 
-3.[^3] BARANYA VÁRMEGYE
+3.[^4] BARANYA VÁRMEGYE
 
-3.1. Mohács székhelyű katasztrófavédelmi kirendeltség
+3.1.[^5] Mohács székhelyű katasztrófavédelmi kirendeltség
 
 |  | A | B |
 
@@ -388,7 +388,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 22 | Majs | II. |
 
-| 23 | Maráza | III. |
+| 23 | Maráza | II. |
 
 | 24 | Máriakéménd | II. |
 
@@ -412,7 +412,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 34 | Somberek | III. |
 
-| 35 | Szajk | III. |
+| 35 | Szajk | II. |
 
 | 36 | Szebény | III. |
 
@@ -966,9 +966,9 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 67 | Zók | III. |
 
-4.[^4] BÉKÉS VÁRMEGYE
+4.[^6] BÉKÉS VÁRMEGYE
 
-4.1. Békéscsaba székhelyű katasztrófavédelmi kirendeltség
+4.1.[^7] Békéscsaba székhelyű katasztrófavédelmi kirendeltség
 
 |  | A | B |
 
@@ -1028,7 +1028,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 28 | Tarhos | II. |
 
-| 29 | Telekgerendás | I. |
+| 29 | Telekgerendás | II. |
 
 | 30 | Újkígyós | II. |
 
@@ -1136,7 +1136,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 19 | Vésztő | I. |
 
-5.[^5] BORSOD-ABAÚJ-ZEMPLÉN VÁRMEGYE
+5.[^8] BORSOD-ABAÚJ-ZEMPLÉN VÁRMEGYE
 
 5.1. Encs székhelyű katasztrófavédelmi kirendeltség
 
@@ -1878,7 +1878,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 48 | Vatta | II. |
 
-6.[^6] CSONGRÁD-CSANÁD VÁRMEGYE
+6.[^9] CSONGRÁD-CSANÁD VÁRMEGYE
 
 6.1. Szeged székhelyű katasztrófavédelmi kirendeltség
 
@@ -2012,7 +2012,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 17 | Tömörkény | II. |
 
-7.[^7] FEJÉR VÁRMEGYE
+7.[^10] FEJÉR VÁRMEGYE
 
 7.1. Dunaújváros székhelyű katasztrófavédelmi kirendeltség
 
@@ -2242,7 +2242,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 64 | Zichyújfalu | III. |
 
-8.[^8] GYŐR-MOSON-SOPRON VÁRMEGYE
+8.[^11] GYŐR-MOSON-SOPRON VÁRMEGYE
 
 8.1. Győr székhelyű katasztrófavédelmi kirendeltség
 
@@ -2552,7 +2552,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 27 | Várbalog | III. |
 
-8.4. Sopron székhelyű katasztrófavédelmi kirendeltség
+8.4.[^12] Sopron székhelyű katasztrófavédelmi kirendeltség
 
 |  | A | B |
 
@@ -2578,7 +2578,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 11 | Fertőendréd | III. |
 
-| 12 | Fertőrákos | III. |
+| 12 | Fertőrákos | II. |
 
 | 13 | Fertőszentmiklós | II. |
 
@@ -2600,7 +2600,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 22 | Nagycenk | II. |
 
-| 23 | Nagylózs | III. |
+| 23 | Nagylózs | II. |
 
 | 24 | Nemeskér | III. |
 
@@ -2634,7 +2634,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 39 | Zsira | III. |
 
-9.[^9] HAJDÚ-BIHAR VÁRMEGYE
+9.[^13] HAJDÚ-BIHAR VÁRMEGYE
 
 9.1. Debrecen székhelyű katasztrófavédelmi kirendeltség
 
@@ -2738,7 +2738,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 17 | Újtikos | II. |
 
-9.3. Püspökladány székhelyű katasztrófavédelmi kirendeltség
+9.3.[^14] Püspökladány székhelyű katasztrófavédelmi kirendeltség
 
 |  | A | B |
 
@@ -2778,7 +2778,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 18 | Hencida | II. |
 
-| 19 | Kaba | II. |
+| 19 | Kaba | I. |
 
 | 20 | Komádi | I. |
 
@@ -2818,9 +2818,9 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 38 | Zsáka | II. |
 
-10.[^10] HEVES VÁRMEGYE
+10.[^15] HEVES VÁRMEGYE
 
-10.1. Eger székhelyű katasztrófavédelmi kirendeltség
+10.1.[^16] Eger székhelyű katasztrófavédelmi kirendeltség
 
 |  | A | B |
 
@@ -2872,7 +2872,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 24 | Feldebrő | III. |
 
-| 25 | Felsőtárkány | III. |
+| 25 | Felsőtárkány | II. |
 
 | 26 | Füzesabony | I. |
 
@@ -2952,13 +2952,13 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 64 | Tófalu | II. |
 
-| 65 | Újlőrincfalva | III. |
+| 65 | Újlőrincfalva | II. |
 
 | 66 | Váraszó | III. |
 
 | 67 | Verpelét | II. |
 
-10.2. Gyöngyös székhelyű katasztrófavédelmi kirendeltség
+10.2.[^17] Gyöngyös székhelyű katasztrófavédelmi kirendeltség
 
 |  | A | B |
 
@@ -2986,13 +2986,13 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 12 | Ecséd | III. |
 
-| 13 | Erdőtelek | III. |
+| 13 | Erdőtelek | II. |
 
 | 14 | Erk | II. |
 
 | 15 | Gyöngyös | I. |
 
-| 16 | Gyöngyöshalász | III. |
+| 16 | Gyöngyöshalász | II. |
 
 | 17 | Gyöngyösoroszi | III. |
 
@@ -3030,7 +3030,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 34 | Markaz | III. |
 
-| 35 | Mátraszentimre | III. |
+| 35 | Mátraszentimre | II. |
 
 | 36 | Nagyfüged | II. |
 
@@ -3074,7 +3074,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 56 | Zaránk | II. |
 
-11.[^11] JÁSZ-NAGYKUN-SZOLNOK VÁRMEGYE
+11.[^18] JÁSZ-NAGYKUN-SZOLNOK VÁRMEGYE
 
 11.1. Jászberény székhelyű katasztrófavédelmi kirendeltség
 
@@ -3256,7 +3256,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 26 | Zagyvarékas | II. |
 
-12.[^12] KOMÁROM-ESZTERGOM VÁRMEGYE
+12.[^19] KOMÁROM-ESZTERGOM VÁRMEGYE
 
 12.1. Esztergom székhelyű katasztrófavédelmi kirendeltség
 
@@ -3422,7 +3422,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 53 | Vértestolna | III. |
 
-13.[^13] NÓGRÁD VÁRMEGYE
+13.[^20] NÓGRÁD VÁRMEGYE
 
 13.1. Balassagyarmat székhelyű katasztrófavédelmi kirendeltség
 
@@ -3566,7 +3566,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 69 | Varsány | II. |
 
-13.2. Salgótarján székhelyű katasztrófavédelmi kirendeltség
+13.2.[^21] Salgótarján székhelyű katasztrófavédelmi kirendeltség
 
 |  | A | B |
 
@@ -3680,7 +3680,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 55 | Sóshartyán | III. |
 
-| 56 | Szarvasgede | III. |
+| 56 | Szarvasgede | II. |
 
 | 57 | Szilaspogony | III. |
 
@@ -3698,7 +3698,7 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 64 | Zabar | III. |
 
-14.[^14] PEST VÁRMEGYE
+14.[^22] PEST VÁRMEGYE
 
 14.1. Cegléd székhelyű katasztrófavédelmi kirendeltség
 
@@ -3766,357 +3766,24 @@ MAGYARORSZÁG TELEPÜLÉSEINEK KATASZTRÓFAVÉDELMI BESOROLÁSA
 
 | 31 | Úri | III. |
 
-14.2. Érd székhelyű katasztrófavédelmi kirendeltség
-
-|  | A | B |
-
-| 1 | Település | Katasztrófavédelmi osztály |
-
-| 2 | Apaj | III. |
-
-| 3 | Áporka | III. |
-
-| 4 | Biatorbágy | II. |
-
-| 5 | Budajenő | III. |
-
-| 6 | Budakeszi | III. |
-
-| 7 | Budaörs | II. |
-
-| 8 | Délegyháza | III. |
-
-| 9 | Diósd | III. |
-
-| 10 | Dömsöd | III. |
-
-| 11 | Dunaharaszti | I. |
-
-| 12 | Dunavarsány | I. |
-
-| 13 | Érd | II. |
-
-| 14 | Halásztelek | II. |
-
-| 15 | Herceghalom | III. |
-
-| 16 | Kiskunlacháza | III. |
-
-| 17 | Lórév | II. |
-
-| 18 | Majosháza | III. |
-
-| 19 | Makád | II. |
-
-| 20 | Nagykovácsi | III. |
-
-| 21 | Páty | III. |
-
-| 22 | Perbál | III. |
-
-| 23 | Pilisborosjenő | III. |
-
-| 24 | Piliscsaba | II. |
-
-| 25 | Pilisjászfalu | III. |
-
-| 26 | Pilisszántó | III. |
-
-| 27 | Pilisszentiván | III. |
-
-| 28 | Pilisvörösvár | I. |
-
-| 29 | Pusztazámor | III. |
-
-| 30 | Ráckeve | II. |
-
-| 31 | Remeteszőlős | III. |
-
-| 32 | Solymár | III. |
-
-| 33 | Sóskút | III. |
-
-| 34 | Százhalombatta | I. |
-
-| 35 | Szigetbecse | II. |
-
-| 36 | Szigetcsép | I. |
-
-| 37 | Szigethalom | II. |
-
-| 38 | Szigetszentmárton | II. |
-
-| 39 | Szigetszentmiklós | II. |
-
-| 40 | Szigetújfalu | II. |
-
-| 41 | Taksony | III. |
-
-| 42 | Tárnok | II. |
-
-| 43 | Telki | III. |
-
-| 44 | Tinnye | III. |
-
-| 45 | Tök | III. |
-
-| 46 | Tököl | II. |
-
-| 47 | Törökbálint | II. |
-
-| 48 | Üröm | III. |
-
-| 49 | Zsámbék | III. |
-
-14.3. Gödöllő székhelyű katasztrófavédelmi kirendeltség
-
-|  | A | B |
-
-| 1 | Település | Katasztrófavédelmi osztály |
-
-| 2 | Aszód | II. |
-
-| 3 | Bag | III. |
-
-| 4 | Csömör | III. |
-
-| 5 | Dány | III. |
-
-| 6 | Domony | III. |
-
-| 7 | Erdőkertes | III. |
-
-| 8 | Galgahévíz | III. |
-
-| 9 | Galgamácsa | II. |
-
-| 10 | Gödöllő | II. |
-
-| 11 | Hévízgyörk | III. |
-
-| 12 | Iklad | II. |
-
-| 13 | Isaszeg | III. |
-
-| 14 | Kartal | III. |
-
-| 15 | Kerepes | III. |
-
-| 16 | Kistarcsa | III. |
-
-| 17 | Mogyoród | II. |
-
-| 18 | Nagytarcsa | III. |
-
-| 19 | Pécel | III. |
-
-| 20 | Szada | III. |
-
-| 21 | Tura | III. |
-
-| 22 | Vácegres | III. |
-
-| 23 | Vácszentlászló | III. |
-
-| 24 | Valkó | III. |
-
-| 25 | Veresegyház | III. |
-
-| 26 | Verseg | III. |
-
-| 27 | Zsámbok | III. |
-
-14.4. Monor székhelyű katasztrófavédelmi kirendeltség
-
-|  | A | B |
-
-| 1 | Település | Katasztrófavédelmi osztály |
-
-| 2 | Alsónémedi | II. |
-
-| 3 | Bénye | III. |
-
-| 4 | Bugyi | III. |
-
-| 5 | Csévharaszt | III. |
-
-| 6 | Dabas | II. |
-
-| 7 | Ecser | III. |
-
-| 8 | Felsőpakony | II. |
-
-| 9 | Gomba | III. |
-
-| 10 | Gyál | I. |
-
-| 11 | Gyömrő | III. |
-
-| 12 | Hernád | II. |
-
-| 13 | Inárcs | III. |
-
-| 14 | Kakucs | III. |
-
-| 15 | Káva | III. |
-
-| 16 | Maglód | III. |
-
-| 17 | Monor | III. |
-
-| 18 | Monorierdő | III. |
-
-| 19 | Nyáregyháza | III. |
-
-| 20 | Ócsa | III. |
-
-| 21 | Örkény | II. |
-
-| 22 | Pánd | III. |
-
-| 23 | Péteri | III. |
-
-| 24 | Pilis | III. |
-
-| 25 | Pusztavacs | I. |
-
-| 26 | Táborfalva | I. |
-
-| 27 | Tatárszentgyörgy | II. |
-
-| 28 | Újhartyán | II. |
-
-| 29 | Újlengyel | III. |
-
-| 30 | Üllő | II. |
-
-| 31 | Vasad | III. |
-
-| 32 | Vecsés | II. |
-
-14.5. Vác székhelyű katasztrófavédelmi kirendeltség
-
-|  | A | B |
-
-| 1 | Település | Katasztrófavédelmi osztály |
-
-| 2 | Acsa | III. |
-
-| 3 | Bernecebaráti | III. |
-
-| 4 | Budakalász | III. |
-
-| 5 | Csobánka | III. |
-
-| 6 | Csomád | III. |
-
-| 7 | Csörög | III. |
-
-| 8 | Csővár | III. |
-
-| 9 | Dunabogdány | II. |
-
-| 10 | Dunakeszi | II. |
-
-| 11 | Fót | III. |
-
-| 12 | Galgagyörk | III. |
-
-| 13 | Göd | II. |
-
-| 14 | Ipolydamásd | III. |
-
-| 15 | Ipolytölgyes | II. |
-
-| 16 | Kemence | III. |
-
-| 17 | Kismaros | II. |
-
-| 18 | Kisnémedi | III. |
-
-| 19 | Kisoroszi | II. |
-
-| 20 | Kosd | II. |
-
-| 21 | Kóspallag | III. |
-
-| 22 | Leányfalu | II. |
-
-| 23 | Letkés | III. |
-
-| 24 | Márianosztra | III. |
-
-| 25 | Nagybörzsöny | II. |
-
-| 26 | Nagymaros | II. |
-
-| 27 | Őrbottyán | III. |
-
-| 28 | Penc | III. |
-
-| 29 | Perőcsény | III. |
-
-| 30 | Pilisszentkereszt | III. |
-
-| 31 | Pilisszentlászló | III. |
-
-| 32 | Pócsmegyer | II. |
-
-| 33 | Pomáz | III. |
-
-| 34 | Püspökhatvan | II. |
-
-| 35 | Püspökszilágy | III. |
-
-| 36 | Rád | III. |
-
-| 37 | Szentendre | II. |
-
-| 38 | Szigetmonostor | II. |
-
-| 39 | Szob | II. |
-
-| 40 | Szokolya | II. |
-
-| 41 | Sződ | III. |
-
-| 42 | Sződliget | II. |
-
-| 43 | Tahitótfalu | II. |
-
-| 44 | Tésa | II. |
-
-| 45 | Vác | II. |
-
-| 46 | Vácduka | III. |
-
-| 47 | Váchartyán | III. |
-
-| 48 | Váckisújfalu | III. |
-
-| 49 | Vácrátót | III. |
-
-| 50 | Vámosmikola | II. |
-
-| 51 | Verőce | II. |
-
-| 52 | Visegrád | II. |
-
-| 53 | Zebegény | III. |
-
-15.[^15] SOMOGY VÁRMEGYE
-
-[^2]: Az 1. melléklet 2. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
-[^3]: Az 1. melléklet 3. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
-[^4]: Az 1. melléklet 4. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
-[^5]: Az 1. melléklet 5. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
-[^6]: Az 1. melléklet 6. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
-[^7]: Az 1. melléklet 7. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
-[^8]: Az 1. melléklet 8. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
-[^9]: Az 1. melléklet 9. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
-[^10]: Az 1. melléklet 10. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
-[^11]: Az 1. melléklet 11. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
-[^12]: Az 1. melléklet 12. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
-[^13]: Az 1. melléklet 13. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
-[^14]: Az 1. melléklet 14. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
-[^15]: Az 1. melléklet 15. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet 1.1. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet 2. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^4]: Az 1. melléklet 3. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^5]: Az 1. melléklet 3.1. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet 4. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^7]: Az 1. melléklet 4.1. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a szerint módosított szöveg.
+[^8]: Az 1. melléklet 5. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^9]: Az 1. melléklet 6. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^10]: Az 1. melléklet 7. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^11]: Az 1. melléklet 8. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^12]: Az 1. melléklet 8.4. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a szerint módosított szöveg.
+[^13]: Az 1. melléklet 9. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^14]: Az 1. melléklet 9.3. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a szerint módosított szöveg.
+[^15]: Az 1. melléklet 10. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^16]: Az 1. melléklet 10.1. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a szerint módosított szöveg.
+[^17]: Az 1. melléklet 10.2. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a szerint módosított szöveg.
+[^18]: Az 1. melléklet 11. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^19]: Az 1. melléklet 12. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^20]: Az 1. melléklet 13. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
+[^21]: Az 1. melléklet 13.2. pontjában foglalt táblázat a 10/2023. (IV. 27.) BM rendelet 1. §-a szerint módosított szöveg.
+[^22]: Az 1. melléklet 14. pontja a 45/2022. (XII. 20.) BM rendelet 93. §-a szerint módosított szöveg.
