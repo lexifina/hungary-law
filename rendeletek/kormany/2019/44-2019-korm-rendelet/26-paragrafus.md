@@ -1,4 +1,4 @@
-26. § (1)[^87] A hitelintézet – az eAdaton található útmutató szerinti formában, haladéktalanul – ellenőrzési célból megküldi a kincstár részére
+26. § (1)[^89] A hitelintézet – az eAdaton található útmutató szerinti formában, haladéktalanul – ellenőrzési célból megküldi a kincstár részére
 
 a) a kölcsönszerződés megkötésének, módosításának vagy megszűnésének adatait,
 
@@ -18,7 +18,7 @@ c) azon gyermekek
 
 ca) nevét,
 
-cb)[^88]
+cb)[^90]
 
 cc) adóazonosító jelét,
 
@@ -42,5 +42,5 @@ a hitelintézet részére történő folyósítását felfüggesztheti.
 
 (7) Az adatszolgáltatási kötelezettséget a hitelintézet megbízásából másik hitelintézet is teljesítheti. A megbízási szerződésnek ki kell terjednie a megbízott hitelintézet felelősségére.
 
-[^87]: A 26. § (1) bekezdés nyitó szövegrésze a 252/2020. (V. 29.) Korm. rendelet 32. § (1) bekezdés n) pontja szerint módosított szöveg.
-[^88]: A 26. § (1) bekezdés c) pont cb) alpontját a 252/2020. (V. 29.) Korm. rendelet 33. § f) pontja hatályon kívül helyezte.
+[^89]: A 26. § (1) bekezdés nyitó szövegrésze a 252/2020. (V. 29.) Korm. rendelet 32. § (1) bekezdés n) pontja szerint módosított szöveg.
+[^90]: A 26. § (1) bekezdés c) pont cb) alpontját a 252/2020. (V. 29.) Korm. rendelet 33. § f) pontja hatályon kívül helyezte.

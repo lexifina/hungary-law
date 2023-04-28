@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-44-20-2
 | 2022-01-01 | 2019-44-20-22.7 | 252/2020. (V. 29.) Korm. rendelet |
 | 2022-04-29 | 2019-44-20-22.8 | 150/2022. (IV. 14.) Korm. rendelet |
 | 2023-01-01 | 2019-44-20-22.9 | 252/2020. (V. 29.) Korm. rendelet |
+| 2023-04-28 | 2019-44-20-22.10 | 252/2020. (V. 29.) Korm. rendelet |

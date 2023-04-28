@@ -1,4 +1,4 @@
-17. § (1)[^68] A támogatott személy – a kölcsön folyósításától számított 5 éves időszak lejártát megelőzően benyújtott – kérelmére a korábban igénybe vett kamattámogatásnak a 15. § (1) bekezdése és 16. § (2) bekezdése szerinti megszűnése és visszafizetési kötelezettsége alól a kormányhivatal a hozzá benyújtott kérelem alapján hatósági eljárásban, méltányosságból felmentést engedélyezhet, ha
+17. § (1)[^70] A támogatott személy – a kölcsön folyósításától számított 5 éves időszak lejártát megelőzően benyújtott – kérelmére a korábban igénybe vett kamattámogatásnak a 15. § (1) bekezdése és 16. § (2) bekezdése szerinti megszűnése és visszafizetési kötelezettsége alól a kormányhivatal a hozzá benyújtott kérelem alapján hatósági eljárásban, méltányosságból felmentést engedélyezhet, ha
 
 a) a támogatott személyek egyike a kölcsönszerződés megkötését követően megváltozott munkaképességűvé vált, és emiatt a gyermek megszületését nem vállalták,
 
@@ -12,10 +12,10 @@ c) a támogatott személyek számára a gyermekvállalás egészségügyi dokume
 
 (2) Az (1) bekezdés b) pontja szerinti igazolás kiállítása során az egészségügyi szolgáltató az igazoláson feltünteti a kizáró ok megállapításának időpontját azzal, hogy az igazoláson a kizáró ok tényén és a megállapítás időpontján kívül egészségügyi adat nem tüntethető fel.
 
-(3)[^69] A támogatott személy kérelmére a 15. § (1) és 16. § (2) bekezdésben foglalt visszafizetési kötelezettségre a kormányhivatal méltányosságból legfeljebb 24 havi részletfizetést engedélyezhet, ha a támogatott személy igazolja, hogy számára a kamattámogatás egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel aránytalanul súlyos terhet jelentene.
+(3)[^71] A támogatott személy kérelmére a 15. § (1) és 16. § (2) bekezdésben foglalt visszafizetési kötelezettségre a kormányhivatal méltányosságból legfeljebb 24 havi részletfizetést engedélyezhet, ha a támogatott személy igazolja, hogy számára a kamattámogatás egyösszegű megfizetése családi, jövedelmi, vagyoni és szociális körülményeire is tekintettel aránytalanul súlyos terhet jelentene.
 
-(4)[^70] A kormányhivatal tájékoztatást küld a kincstár és a hitelintézet részére az (1) és a (3) bekezdés alapján hozzá benyújtott kérelmekről és a kérelmek tárgyában hozott döntéseiről.
+(4)[^72] A kormányhivatal tájékoztatást küld a kincstár és a hitelintézet részére az (1) és a (3) bekezdés alapján hozzá benyújtott kérelmekről és a kérelmek tárgyában hozott döntéseiről.
 
-[^68]: A 17. § (1) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^69]: A 17. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^70]: A 17. § (4) bekezdését az 530/2021. (IX. 14.) Korm. rendelet 27. §-a iktatta be.
+[^70]: A 17. § (1) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^71]: A 17. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 198. § (2) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^72]: A 17. § (4) bekezdését az 530/2021. (IX. 14.) Korm. rendelet 27. §-a iktatta be.
