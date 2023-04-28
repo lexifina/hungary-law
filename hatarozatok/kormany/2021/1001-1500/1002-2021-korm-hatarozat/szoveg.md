@@ -140,6 +140,36 @@ Határidő: 2022. június 30.
 
 d) felkéri az Országgyűlés Hivatala főigazgatóját, hogy a c) alpontban foglaltak megvalósítása érdekében gondoskodjon 220 000 000 forint többletforrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet I. Országgyűlés fejezet, 4. Fejezeti kezelésű előirányzatok cím, 14. Steindl Imre program támogatása alcím terhére.
 
+6.[^13] A Kormány
+
+a) a 3. pont a)–b) alpontjában foglaltakkal összhangban egyetért azzal, hogy az Igazságügyi Palota és az Agrárminisztérium épület rekonstrukciójának 2. üteme 2027. július 31. napjáig megvalósuljon, és azzal, hogy ennek érdekében a Steindl Imre Program Nonprofit Zrt. az épületek együttes kivitelezésére fővállalkozási kivitelezési szerződést kössön, azzal, hogy az Igazságügyi Palota rekonstrukciója 2. ütemének teljesítési határidejét az Országház belső rekonstrukciójával és modernizációjával kapcsolatos kormányzati döntésekről szóló 1529/2022. (XI. 2.) Korm. határozat 8. pont c) alpontja szerinti döntésre figyelemmel kell megállapítani;
+
+b) felhívja a pénzügyminisztert, hogy az a) alpont szerinti kivitelezés finanszírozása érdekében gondoskodjon 127 462 000 000 forint biztosításáról a következő ütemezés szerint:
+
+ba) 14 992 500 000 forint összegben a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény (a továbbiakban: Kvtv.) 1. melléklet I. Országgyűlés fejezet, 4. Fejezeti kezelésű előirányzatok cím, 14. Steindl Imre program támogatása alcím javára,
+
+bb) 7 500 000 forint összegben a Kvtv. 1. melléklet I. Országgyűlés fejezet, 1. Országgyűlés Hivatala cím, 1. Országgyűlés hivatali szervei alcím javára,
+
+bc) 47 404 000 000 forint összegben a 2024. évi központi költségvetés I. Országgyűlés fejezet javára,
+
+bd) 44 397 700 000 forint összegben a 2025. évi központi költségvetés I. Országgyűlés fejezet javára,
+
+be) 18 829 400 000 forint összegben a 2026. évi központi költségvetés I. Országgyűlés fejezet javára,
+
+bf) 1 830 900 000 forint összegben a 2027. évi központi költségvetés I. Országgyűlés fejezet javára;
+
+| Felelős: | pénzügyminiszter |
+
+| Határidő: | a ba) és bb) pont tekintetében azonnal |
+
+a bc)–bf) pont tekintetében az adott évi központi költségvetés tervezése során
+
+c) felhívja a Miniszterelnökséget vezető minisztert, és felkéri az Országgyűlés Hivatalának főigazgatóját, hogy az a) alpont szerinti kivitelezéshez szükséges finanszírozás érdekében a Steindl Imre Program Nonprofit Zrt.-vel mindösszesen 127 398 000 000 forint összegben a meglévő, az Igazságügyi Palota és az Agrárminisztérium épület beruházás tervezésével és műszaki előkészítésével kapcsolatos feladatok megvalósítása céljából kötött támogatási szerződést módosítsák.
+
+| Felelős: | Miniszterelnökséget vezető miniszter |
+
+| Határidő: | azonnal |
+
 [^1]: Az 1. pont a) alpont ak) pontját az 1615/2021. (VIII. 18.) Korm. határozat 1. pontja iktatta be.
 [^2]: Az 1. pont c) alpontja az 1534/2022. (XI. 7.) Korm. határozat 2. pont a) pontja szerint módosított szöveg.
 [^3]: Az 1. pont e) alpontja az 1927/2021. (XII. 20.) Korm. határozat 1. pontjával megállapított szöveg.
@@ -152,3 +182,4 @@ d) felkéri az Országgyűlés Hivatala főigazgatóját, hogy a c) alpontban fo
 [^10]: A 3. pont g) alpontját az 1927/2021. (XII. 20.) Korm. határozat 2. pontja iktatta be.
 [^11]: A 4. pontot az 1927/2021. (XII. 20.) Korm. határozat 3. pontja iktatta be.
 [^12]: Az 5. pontot az 1927/2021. (XII. 20.) Korm. határozat 3. pontja iktatta be.
+[^13]: A 6. pontot az 1168/2023. (IV. 28.) Korm. határozat iktatta be.
