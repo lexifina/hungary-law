@@ -1,5 +1,3 @@
-7. § Hatályát veszti az R2.
+7. §[^8]
 
-a) 38. § (2) bekezdés c) pontja,
-
-b) 38. § (2) bekezdés f) pontja.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
