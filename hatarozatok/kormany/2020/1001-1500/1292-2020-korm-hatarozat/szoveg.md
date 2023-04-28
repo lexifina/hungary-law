@@ -188,37 +188,7 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2022. december 31.
 
-16.[^11] felhívja az innovációért és technológiáért felelős minisztert, valamint az emberi erőforrások miniszterét, hogy a 3. pont szerinti forrásokat támogatási jogviszony keretében biztosítsa Debrecen Megyei Jogú Város Önkormányzata számára elszámolási és a fel nem használt rész tekintetében visszafizetési kötelezettséggel.
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-emberi erőforrások minisztere
-
-Határidő: a források rendelkezésre állását követően 60 napon belül
-
-Az elszámolási és visszafizetési kötelezettség tekintetében
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-emberi erőforrások minisztere
-
-Határidő: a 3. pont 3.1. alpont b) pontja tekintetében az elszámolási kötelezettség 2024. február 28.,
-
-a visszafizetési kötelezettség 2024. április 30.
-
-a 3. pont 3.2. alpont a) pontja tekintetében 2023. február 28.
-
-a 3. pont 3.2. alpont b) pontja tekintetében 2023. december 31.
-
-a 3. pont 3.3. és 3.4. alpontja tekintetében 2022. december 31.
-
-a 3. pont 3.5. és 3.6. alpontja tekintetében 2023. december 31.
-
-A támogatás felhasználásának végső határideje tekintetében
-
-Felelős: innovációért és technológiáért felelős miniszter
-
-Határidő: a 3. pont 3.1. alpont b) pontja tekintetében a támogatás felhasználásának végső határideje 2023. december 31.
+16.[^11] az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 95. § (5) bekezdése szerinti jogkörében eljárva úgy dönt, hogy az e határozathoz kapcsolódó projektelemek előkészítésének és megvalósításának finanszírozása során az Ávr. 95. § (2)–(4) bekezdésében foglalt eljárási szabályokat nem kell alkalmazni.
 
 [^1]: A 3. pont az 1696/2021. (X. 1.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 4. pontot az 1696/2021. (X. 1.) Korm. határozat 5. pontja visszavonta.
@@ -230,4 +200,4 @@ Határidő: a 3. pont 3.1. alpont b) pontja tekintetében a támogatás felhaszn
 [^8]: A 10. pont 10.2. alpontját az 1696/2021. (X. 1.) Korm. határozat 5. pontja visszavonta.
 [^9]: A 10.3. pont az 1696/2021. (X. 1.) Korm. határozat 4. pont b) pontja szerint módosított szöveg.
 [^10]: A 11. pont az 1820/2021. (XI. 25.) Korm. határozat 9. pontjával megállapított szöveg.
-[^11]: A 16. pontot az 1026/2022. (I. 27.) Korm. határozat 1. pontja iktatta be.
+[^11]: A 16. pontot az 1026/2022. (I. 27.) Korm. határozat 1. pontja iktatta be, szövege az 1176/2023. (IV. 28.) Korm. határozattal megállapított szöveg.
