@@ -26,10 +26,10 @@ kell érteni, valamint a Get. 31/B. § (4) bekezdésétől eltérően az egyetem
 
 (8) Ha az (1) bekezdés szerinti felhasználó elosztóhálózat-használati szerződését 2022. július 31-én a Get. 28/A. § (4) bekezdése alapján az egyetemes szolgáltató kezelte, 2022. augusztus 1-jével a felhasználó elosztóhálózat-használati szerződését a végső földgázmenedékes kezeli. Az e §-ban foglaltak végrehajtása érdekében az egyetemes szolgáltató a kezelésében lévő elosztóhálózat-használati szerződéseket a végső földgázmenedékes részére átadja.
 
-(9)[^12] A fogyasztóvédelmi hatóság nem szabhat ki bírságot, a Hivatal nem alkalmazhatja a Get. 119. § (1) bekezdésében foglalt jogkövetkezményeket, valamint az egyetemes szolgáltató mentesül kötbérfizetési kötelezettsége alól, ha az egyetemes szolgáltató az e rendelet hatálybalépésétől 2023. április 30-ig terjedő időszakban
+(9)[^12] A fogyasztóvédelmi hatóság nem szabhat ki bírságot, a Hivatal nem alkalmazhatja a Get. 119. § (1) bekezdésében foglalt jogkövetkezményeket, valamint az egyetemes szolgáltató mentesül kötbérfizetési kötelezettsége alól, ha az egyetemes szolgáltató az e rendelet hatálybalépésétől 2023. december 31-ig terjedő időszakban
 
 a) a Hivatal ügyfélkapcsolati szolgáltatásminőség elvárt színvonalának és minőségi követelményének meghatározásáról szóló határozatában rögzített határidőket vagy elvárt értékeket nem tartja be, vagy
 
 b) az ügyfélszolgálatuk felé indított hívás sikeres felépülésének időpontjától számított öt percen belül nem biztosítja az élőhangos bejelentkezést.
 
-[^12]: A 8. § (9) bekezdés nyitó szövegrésze az 520/2022. (XII. 13.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^12]: A 8. § (9) bekezdés nyitó szövegrésze az 520/2022. (XII. 13.) Korm. rendelet 11. § (1) bekezdése, a 157/2023. (IV. 27.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.

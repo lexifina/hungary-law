@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-217-20-
 | 2022-11-22 | 2022-217-20-22.9 | 470/2022. (XI. 21.) Korm. rendelet |
 | 2022-12-13 | 2022-217-20-22.10 | 520/2022. (XII. 13.) Korm. rendelet |
 | 2023-03-09 | 2022-217-20-22.11 | 67/2023. (III. 8.) Korm. rendelet |
+| 2023-04-28 | 2022-217-20-22.13 | 520/2022. (XII. 13.) Korm. rendelet |

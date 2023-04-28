@@ -24,10 +24,10 @@ kell érteni, valamint az egyetemes szolgáltató és a végső villamosenergia-
 
 (7) Ha a felhasználó hálózathasználati szerződését 2022. július 31-én a Vet. 63. § (1) bekezdése alapján az egyetemes szolgáltató kezelte, 2022. augusztus 1-jével a felhasználó hálózathasználati szerződésében a végső villamosenergia-menedékes válik a rendszerhasználati díjak fizetőjévé.
 
-(8)[^5] A fogyasztóvédelmi hatóság nem szabhat ki bírságot, a Hivatal nem alkalmazhatja a Vet. 96. § (1) bekezdésében foglalt jogkövetkezményeket, valamint az egyetemes szolgáltató mentesül kötbérfizetési kötelezettsége alól, ha az egyetemes szolgáltató az e rendelet hatálybalépésétől 2023. április 30-ig terjedő időszakban
+(8)[^5] A fogyasztóvédelmi hatóság nem szabhat ki bírságot, a Hivatal nem alkalmazhatja a Vet. 96. § (1) bekezdésében foglalt jogkövetkezményeket, valamint az egyetemes szolgáltató mentesül kötbérfizetési kötelezettsége alól, ha az egyetemes szolgáltató az e rendelet hatálybalépésétől 2023. december 31-ig terjedő időszakban
 
 a) a Hivatal ügyfélkapcsolati szolgáltatásminőség elvárt színvonalának és minőségi követelményének meghatározásáról szóló határozatában rögzített határidőket, vagy elvárt értékeket nem tartja be, vagy
 
 b) az ügyfélszolgálat felé indított hívás sikeres felépülésének időpontjától számított öt percen belül nem biztosítja az élőhangos bejelentkezést.
 
-[^5]: A 3. § (8) bekezdés nyitó szövegrésze az 520/2022. (XII. 13.) Korm. rendelet 11. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 3. § (8) bekezdés nyitó szövegrésze az 520/2022. (XII. 13.) Korm. rendelet 11. § (1) bekezdése, a 157/2023. (IV. 27.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.
