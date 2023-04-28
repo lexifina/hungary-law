@@ -12,6 +12,8 @@
 
 (6)[^14] E rendeletnek a nemzetiségi és egyházi célú fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 2/2019. (III. 19.) TNM rendelet címrendi kiegészítésével kapcsolatos módosításáról szóló 1/2023. (II. 15.)TNM rendelettel (a továbbiakban: Módr6.) megállapított rendelkezéseit a Módr6. hatálybalépése[^15] napján folyamatban lévő ügyekben is alkalmazni kell.
 
+(7)[^16] E rendeletnek a nemzetiségi és egyházi célú fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 2/2019. (III. 19.) TNM rendelet címrendi kiegészítésével kapcsolatos módosításáról szóló 2/2023. (IV. 27.) TNM rendelettel (a továbbiakban: Módr7.) megállapított rendelkezéseit a Módr7. hatálybalépése[^17] napján folyamatban lévő ügyekben is alkalmazni kell.
+
 [^6]: A 17/A. §-t a 3/2019. (V. 27.) TNM rendelet 1. §-a iktatta be, szövege az 1/2020. (II. 21.) TNM rendelet 1. §-ával megállapított szöveg.
 [^7]: A hatálybalépés időpontja 2019. május 28.
 [^8]: A hatálybalépés időpontja 2020. február 22.
@@ -22,3 +24,5 @@
 [^13]: A 17/A. § (5) bekezdését a 2/2022. (IX. 19.) TNM rendelet 1. §-a iktatta be.
 [^14]: A 17/A. § (6) bekezdését az 1/2023. (II. 15.) TNM rendelet 4. §-a iktatta be.
 [^15]: A hatálybalépés időpontja 2023. február 16.
+[^16]: A 17/A. § (7) bekezdését a 2/2023. (IV. 27.) TNM rendelet 2. §-a iktatta be.
+[^17]: A hatálybalépés időpontja 2023. április 28.
