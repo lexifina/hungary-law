@@ -18,7 +18,7 @@ I. Tulajdonosi joggyakorló: Magyar Turisztikai Ügynökség Zártkörűen Műk�
 
 | 2. | Kisfaludy2030 Turisztikai Fejlesztő Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-140072 | 2026. december 31. |
 
-| 3. | Magyar Divat & Design Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-049808 | 2026. december 31. |
+| 3. | MDDÜ Magyar Divat & Design Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-049808 | 2026. december 31. |
 
 | 4. | HÉVÍZ-BALATON AIRPORT Korlátolt Felelősségű Társaság | 20-09-072648 | 2026. december 31. |
 
@@ -80,4 +80,4 @@ V. Tulajdonosi joggyakorló: N7 Holding Nemzeti Védelmi Ipari Innovációs Zár
 
 VI. Tulajdonosi joggyakorló: Paks II. Atomerőmű Zártkörűen Működő Részvénytársaság
 
-[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése, a 14/2022. (XI. 21.) GFM rendelet 1. § c) pontja és 2. §-a, a 18/2022. (XII. 20.) GFM rendelet 3. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 1. §-a szerint módosított szöveg.
+[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése, a 14/2022. (XI. 21.) GFM rendelet 1. § c) pontja és 2. §-a, a 18/2022. (XII. 20.) GFM rendelet 3. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § d) pontja szerint módosított szöveg.

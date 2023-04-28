@@ -46,7 +46,7 @@ III. Tulajdonosi joggyakorló: Büntetés-Végrehajtás Országos Parancsnokság
 
 | 7. | Nagyfa-Alföld Mezőgazdasági és Vegyesipari Korlátolt Felelősségű Társaság | 06-09-002808 | 2026. december 31. |
 
-| 8. | NOSTRA Vegyesipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság | 01-09-398070 | 2026. december 31. |
+| 8. | NOSTRA Vegyesipari Kereskedelmi és Szolgáltató Korlátolt Felelősségű Társaság | 13-09-224342 | 2026. december 31. |
 
 | 9. | Pálhalmai Agrospeciál Mezőgazdasági Termelő, Értékesítő és Szolgáltató Korlátolt Felelősségű Társaság | 07-09-003062 | 2026. december 31. |
 
@@ -184,4 +184,4 @@ XIX. Tulajdonosi joggyakorló: Nemzetbiztonsági Szakszolgálat
 
 XX. Tulajdonosi joggyakorló: Nemzeti Kommunikációs Hivatal
 
-[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a, a 17/2022. (XII. 13.) GFM rendelet 1. §-a, a 21/2022. (XII. 27.) GFM rendelet 1. §-a, a 22/2022. (XII. 27.) GFM rendelet 1. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a, a 17/2022. (XII. 13.) GFM rendelet 1. §-a, a 21/2022. (XII. 27.) GFM rendelet 1. §-a, a 22/2022. (XII. 27.) GFM rendelet 1. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § c) pontja szerint módosított szöveg.
