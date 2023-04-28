@@ -1,6 +1,6 @@
-## 7/A. §[^15] A hivatásos állományú futár különleges feladatokat teljesítő rendőr, aki a szolgálatának ellátása során az Rtv. 14. §-ában meghatározott intézkedési, valamint 24. §-ában meghatározott segítségnyújtási kötelezettségét kivéve más rendőri feladatot nem teljesíthet.
+## 7/A. §[^14] A hivatásos állományú futár különleges feladatokat teljesítő rendőr, aki a szolgálatának ellátása során az Rtv. 14. §-ában meghatározott intézkedési, valamint 24. §-ában meghatározott segítségnyújtási kötelezettségét kivéve más rendőri feladatot nem teljesíthet.
 
-## Bekapcsolás a futárszolgálatba
+## A futárszolgálat országos rendszerébe való bekapcsolás rendje[^15]
 
 8. § (1)[^16] A 3. § b) és c) pontjában meghatározott szerveknek a futárszolgálat országos rendszerébe történő bekapcsolása hivatalból, más szerveké igénybejelentés alapján történik.
 
@@ -14,7 +14,8 @@
 
 (6) A bekapcsolt szervek adatait a futárszolgálat nyilvántartja. A változásokat a bekapcsolt szerv köteles haladéktalanul bejelenteni a futárszolgálatnak.
 
-[^15]: A 7/A. §-t a 44/2015. (VII. 15.) BM rendelet 3. §-a iktatta be.
+[^14]: A 7/A. §-t a 44/2015. (VII. 15.) BM rendelet 3. §-a iktatta be.
+[^15]: Az „A futárszolgálat országos rendszerébe való bekapcsolás rendje” alcím címe a 9/2023. (IV. 13.) BM rendelet 8. § a) pontja szerint módosított szöveg.
 [^16]: A 8. § (1) bekezdése az 52/1999. (XII. 25.) BM rendelet 2. §-ával megállapított szöveg.
 [^17]: A 8. § (2) bekezdése a 35/2010. (V. 12.) IRM rendelet 3. § (3) bekezdése szerint módosított szöveg.
 [^18]: A 8. § (3) bekezdése a 35/2010. (V. 12.) IRM rendelet 3. § (3) bekezdése szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 20/B. §[^45] A feladó futárkódszámát a minősített adat védelméről szóló törvényben meghatározott külföldi minősítéssel és jelöléssel ellátott küldeményeken (a továbbiakban: külföldi minősítésű küldemények) is fel kell tüntetni.
+## 20/B. §[^60] A feladó futárkódszámát a minősített adat védelméről szóló törvényben meghatározott külföldi minősítéssel és jelöléssel ellátott küldeményeken (a továbbiakban: külföldi minősítésű küldemények) is fel kell tüntetni.
 
-20/C. §[^46] (1) A külföldi minősítésű küldeményeket a többi küldeménytől elkülönítve, az erre a célra külön kiállított futárjegyzéken kell nyilvántartani.
+20/C. §[^61] (1) A külföldi minősítésű küldeményeket a többi küldeménytől elkülönítve, az erre a célra külön kiállított futárjegyzéken kell nyilvántartani.
 
 (2) A feladó által kiállított futárjegyzék tartalmazza
 
@@ -22,5 +22,5 @@ c) a küldemény nyilvántartási számát, feladóját;
 
 d) a kézbesítő személy aláírását és a futárszolgálat bélyegzőlenyomatát.
 
-[^45]: A 20/B. § a 35/2010. (V. 12.) IRM rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^46]: A 20/C. § a 39/2004. (VI. 29.) BM rendelet 5. §-ával megállapított szöveg.
+[^60]: A 20/B. § a 35/2010. (V. 12.) IRM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^61]: A 20/C. § a 39/2004. (VI. 29.) BM rendelet 5. §-ával megállapított szöveg.
