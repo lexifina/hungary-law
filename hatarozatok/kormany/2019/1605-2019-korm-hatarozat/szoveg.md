@@ -58,7 +58,7 @@ Határidő: a forrás rendelkezésre állását követően azonnal
 
 a) a 3. pont c) alpontja szerinti forrás terhére 290 000 000 forint támogatási összegben a Szigetszentmiklós-Újvárosi Református Egyházközség,
 
-b) a 3. pont d) alpontja szerinti forrás terhére 299 133 500 forint támogatási összegben a Ráckevei Református Egyházközség
+b)[^1] a 3. pont d) alpontja szerinti forrás terhére 299 133 500 forint támogatási összegben a Dunamelléki Református Egyházkerület
 
 kedvezményezett részére elszámolási kötelezettség, a fel nem használt támogatási összeg tekintetében visszafizetési kötelezettség rögzítésével;
 
@@ -79,3 +79,5 @@ Felelős: a miniszterelnök általános helyettese
 Határidő: a forrás rendelkezésre állását követően azonnal
 
 7. egyetért azzal, hogy a 4–6. pont szerinti költségvetési támogatásra az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. §-a rendelkezéseit nem kell alkalmazni.
+
+[^1]: Az 5. pont b) alpontja az 1170/2023. (IV. 28.) Korm. határozat 1. pontja szerint módosított szöveg.
