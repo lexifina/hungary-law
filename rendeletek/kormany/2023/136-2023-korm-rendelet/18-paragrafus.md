@@ -1,1 +1,3 @@
-18. § Hatályát veszti az elektronikus hírközlés veszélyhelyzeti és minősített időszaki felkészítésének rendszeréről, az államigazgatási szervek feladatairól, működésük feltételeinek biztosításáról szóló 100/2004. (IV. 27.) Korm. rendelet.
+18. §[^1]
+
+[^1]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
