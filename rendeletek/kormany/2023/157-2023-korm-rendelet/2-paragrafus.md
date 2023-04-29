@@ -1,9 +1,5 @@
 ## 2. Az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet módosítása
 
-2. § (1) Az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet (a továbbiakban: R2.) 3. §-a helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„3. § A 2. § (2) bekezdése szerinti lakossági piaci ár nem minősül a Vet. szerinti hatósági árnak, azt és annak áralkalmazási feltételeit a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) elnöke az egyetemes szolgáltatóval folytatott egyeztetést követően rendeletben határozza meg. A Hivatal elnökének rendeletében meghatározott mindenkori lakossági piaci ár a villamosenergia-vásárlási szerződés részévé válik. A lakossági piaci árnak a villamosenergia-vásárlási szerződés megkötését követően bekövetkező változása esetén a megváltozott lakossági piaci ár a villamosenergia-vásárlási szerződés részévé válik. A Hivatal a rendeletében foglalt árat a piaci viszonyok jelentős változása esetén hivatalból vagy az egyetemes szolgáltató kezdeményezésére, az egyetemes szolgáltató által szolgáltatott adatok alapján felülvizsgálja, és szükség esetén módosítja.”
-
-(2) Az R2. 6. §-a helyébe a következő rendelkezés lép:
-
-„6. § Az 5. § (2) bekezdése szerinti versenypiaci költségeket tükröző ár nem minősül a Get. szerinti hatósági árnak, azt és annak áralkalmazási feltételeit a Hivatal elnöke az egyetemes szolgáltatóval folytatott egyeztetést követően rendeletben határozza meg. A Hivatal elnökének rendeletében meghatározott mindenkori versenypiaci költségeket tükröző ár az egyetemes szolgáltatási szerződés részévé válik. A versenypiaci költségeket tükröző árnak az egyetemes szolgáltatási szerződés megkötését követően bekövetkező változása esetén a megváltozott versenypiaci költségeket tükröző ár az egyetemes szolgáltatási szerződés részévé válik. A Hivatal a rendeletében foglalt árat a piaci viszonyok jelentős változása esetén hivatalból vagy az egyetemes szolgáltató kezdeményezésére, az egyetemes szolgáltató által szolgáltatott adatok alapján felülvizsgálja, és szükség esetén módosítja.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

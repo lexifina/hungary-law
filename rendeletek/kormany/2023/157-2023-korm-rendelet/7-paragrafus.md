@@ -1,1 +1,3 @@
-7. § Hatályát veszti az R3. 4. § (6) bekezdésében az „a 2023. évet érintően” szövegrész.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
