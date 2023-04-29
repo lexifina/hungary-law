@@ -1,1 +1,3 @@
-6. § Hatályát veszti az augusztus 20-ai hivatalos állami ünnep megtartásával kapcsolatos rendelkezésekről és szervezőjének kijelöléséről szóló 277/2020. (VI. 12.) Korm. rendelet.
+6. §[^1]
+
+[^1]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
