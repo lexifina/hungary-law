@@ -1,1 +1,0 @@
-A Kormány a 2007–2013 közötti programozási időszak operatív programjai eredményes zárásával összefüggő 2015. évi feladatokra vonatkozó cselekvési tervről és a Nemzeti Stratégiai Referencia Keret 2014. évi munkatervéről szóló 1051/2014. (II. 7.) Korm. határozat módosításáról szóló 1014/2015. (I. 22.) Korm. határozat I. 16. pontja alapján
