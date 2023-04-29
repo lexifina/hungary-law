@@ -36,15 +36,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont fac) alpontjában a „140,78%-áig” szövegrész helyébe a „142,97%-áig” szöveg;
-
-## b) 1. melléklet 3. pontjában foglalt táblázat C:3 mezőjében a „177,379” szövegrész helyébe a „180,138” szöveg;
-
-## c) 2. mellékletében foglalt táblázat D:91 mezőjében a „10,30” szövegrész helyébe a „13,06” szöveg
-
-## lép.
+## 3.[^1]
 
 1. melléklet az 1162/2023. (IV. 27.) Korm. határozathoz
 
@@ -57,3 +49,5 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az Európai Unió felé el nem számolható költségek összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az Európai Unió felé el nem számolható ÁFA összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az Európai Unió felé el nem számolható költségek összege (forint) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján |
 
 | 4. | IKOP-3.2.0-15-2016-00003 | Kaposvár– Fonyód vasútvonal állapotjavítása | Építési és Közlekedési Minisztérium | 100% | 10 300 000 000 | 0 | 2 758 892 699 | 0 | 0 | +2 758 892 699 | 0 | –2 758 892 699 | 0 | 0% | 13 058 892 699 | 0 | 0 | 0 | 13 058 892 699 | Pályakorszerűsítés és elővárosi szolgáltatások fejlesztése. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
