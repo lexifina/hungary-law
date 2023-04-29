@@ -1,7 +1,3 @@
-2. § Az R1.
+2. §[^3]
 
-a) 2. § (2) bekezdésében az „az igénylőével” szövegrész helyébe a „legalább az egyik igénylőével” szöveg,
-
-b) 9. § (2) bekezdés c) pontjában, 14. § (6) bekezdésében, 15. § (9) bekezdésében, 19. § (4) bekezdésében és 22. § (2) bekezdésében a „60” szövegrész helyébe a „180” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
