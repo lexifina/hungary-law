@@ -42,7 +42,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat D:197 mezőjében a „0,15” szövegrész helyébe a „0,19” szöveg lép.
+## 3.[^1]
 
 1. melléklet az 1164/2023. (IV. 27.) Korm. határozathoz
 
@@ -55,3 +55,5 @@
 | 3. | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján | Megtérülő projektköltségre jutó központi költségvetési forrás összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés a) pontja alapján | Projekt le nem vonható, az EU felé el nem számolható ÁFA összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés b) pontja alapján | Az EU felé el nem számolható költségek összege (Ft) az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján |
 
 | 4. | KEHOP-2.1.3-15-2017-00063 | Tengelic- Jánosmajor ivóvízminőség- javító program | Tengelic Község Önkormányzata a 339/2014. (XII. 19.) Korm. rendelet, valamint a 362/2022. (IX. 19.) Korm. rendelet szerint | 86,952933 | 147 635 415 | 22 152 319 | 45 435 605 | 0 | – | +39 507 591 | +5 928 014 | –45 435 605 | 0 | 86,952933 | 187 143 006 | 28 080 333 | 0 | 0 | 215 223 339 | A beruházással szembeni szakmai elvárás, hogy az érintett területen elsősorban az öt, a vízminőséget kiemelten befolyásoló komponens (arzén, bór, fluor, nitrit, ammónium) vonatkozásában a szolgáltatott közműves ivóvíz minősége feleljen meg az Európai Parlament és a Tanács (EU) 2020/2184 irányelvében és az 5/2023. (I. 12.) Korm. rendeletben rögzített paramétereknek, határértékeknek. |
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
