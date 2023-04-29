@@ -1,3 +1,3 @@
-5. § A belföldi Állami Futárszolgálat tevékenységének szabályozásáról szóló 44/1998. (X. 14.) BM rendelet 14. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+5. §[^6]
 
-(A küldemény címzés oldalára jól olvashatóan fel kell tüntetni:)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

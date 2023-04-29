@@ -1,3 +1,3 @@
-7. § A belföldi Állami Futárszolgálat tevékenységének szabályozásáról szóló 44/1998. (X. 14.) BM rendelet 19. § (6) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(6) A küldemény elveszéséről, megsemmisüléséről, sérüléséről a futárszerv három példányban jegyzőkönyvet készít, amelyből egy-egy példányt meg kell küldeni a feladónak és a címzettnek, egy példány a futárszervnél marad. A futárszolgálat személyi állományába tartozók felelősségének megállapítására vagy kizárására a szolgálati elöljáró intézkedik.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
