@@ -1,6 +1,6 @@
 ## 1. A Kormány a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 4. § c) pontjában meghatározott jogkörében eljárva a Digitális Megújulás Operatív Program Plusz éves fejlesztési keretét az 1. melléklet szerint állapítja meg.
 
-## 2. Hatályát veszti a Digitális Megújulási Operatív Program Plusz éves fejlesztési keretének megállapításáról szóló 1783/2021. (XI. 5.) Korm. határozat.
+## 2.[^1]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -149,3 +149,5 @@ A Digitális Megújulás Operatív Program Plusz éves fejlesztési kerete
 | 15. | DIMOP Plusz-4.2.8 | Az egyenlő hozzáférés elősegítése érdekében az állampolgárok digitális készségeinek minőségi és fenntartható fejlesztése Budapesten | 2 | kiemelt | 2023/2024 |
 
 | 16. | DIMOP Plusz-4.2.9 | Esély a digitális állampolgárságért | 11,78 | standard | 2023/2024 |
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
