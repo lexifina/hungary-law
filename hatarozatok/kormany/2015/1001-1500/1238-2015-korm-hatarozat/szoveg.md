@@ -1,5 +1,0 @@
-A Kormány
-
-1. hozzájárul a TIOP-1.2.1.A-15/1-2015-0002 azonosító számú, „Agóra – multifunkcionális közösségi központ létrehozása a Mátra Művelődési Központban” című projekt „TIOP-1.2.1.A-15/1 kódszámú projekt keretében 'AGÓRA – multifunkcionális közösségi központ létrehozása a Mátra Művelődési Központban-építési projektelem' megvalósítása kivitelezési szerződés keretében” tárgyú közbeszerzési eljárásának (a továbbiakban: közbeszerzési eljárás) megindításához a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 114/B. § (1) bekezdése alapján,
-
-2. tudomásul veszi, hogy a közbeszerzési eljárás eredményeként megkötendő szerződés teljesítésének várható határideje 2015. október 30.
