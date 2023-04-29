@@ -1,3 +1,0 @@
-A Kormány
-
-hozzájárul a KÖZOP-5.1.0-07-2008-0001 azonosító számú, „Budapesti 4. sz. metróvonal I. szakasz (Keleti pályaudvar – Kelenföldi pályaudvar)” című projekt „Vállalkozási szerződés a Kelenföld vasútállomás XXI–XXVIII. vágányainak helyén létesülő P+R parkoló és a hozzá tartozó útépítési, vízépítési, közműépítési, műtárgyépítési és magasépítési munkák megvalósítására” tárgyú közbeszerzési eljárás megindításához a 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet 114/B. § (1) bekezdése alapján.
