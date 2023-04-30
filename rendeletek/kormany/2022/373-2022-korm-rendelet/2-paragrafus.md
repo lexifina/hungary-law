@@ -22,6 +22,10 @@
 
 10. hiteltámogatás: az (EU) 2021/241 rendelet 14. és 15. cikke szerint Magyarország részére nyújtott hitel,
 
+10a.[^1] lebonyolító szerv: az e rendelet által kijelölt szerv vagy annak szervezeti egysége,
+
+10b.[^2] lebonyolítói megállapodás: a lebonyolító szervvel vagy a lebonyolító szerv szervezeti egységével kötött feladatellátási megállapodás,
+
 11. mérföldkő: az (EU) 2021/241 rendelet 2. cikk 4. pontja szerinti fogalom,
 
 12. monitoring és információs rendszer: a támogatásból megvalósuló fejlesztések központi monitoringjáról és nyilvántartásáról szóló 60/2014. (III. 6.) Korm. rendelet által szabályozott rendszer,
@@ -32,10 +36,12 @@
 
 15. szabálytalansági gyanú: szabálytalanság elkövetésére utaló tények, körülmények vagy dokumentumok, amelyek alapján megalapozottan lehet következtetni a szabálytalanság tényállási elemeinek fennállására,
 
-16.[^1] szabálytalanság: az alkalmazandó nemzeti vagy uniós jognak a kedvezményezett vagy végső kedvezményezett cselekményéből vagy mulasztásából adódó bármilyen megsértése, ami az Európai Unió költségvetését, illetve Magyarország központi költségvetését arra rótt indokolatlan kiadás formájában sérti vagy sértheti,
+16.[^3] szabálytalanság: az alkalmazandó nemzeti vagy uniós jognak a kedvezményezett vagy végső kedvezményezett cselekményéből vagy mulasztásából adódó bármilyen megsértése, ami az Európai Unió költségvetését, illetve Magyarország központi költségvetését arra rótt indokolatlan kiadás formájában sérti vagy sértheti,
 
 17. támogatási megállapodás: a HET vissza nem térítendő támogatás felhasználására az Európai Bizottsággal az (EU) 2021/241 rendelet 23. cikk (1) bekezdése szerinti megállapodás,
 
 18. végső kedvezményezett: a HET megvalósítását szolgáló intézkedéseket támogatási szerződés alapján végrehajtó jogi vagy természetes személy.
 
-[^1]: A 2. § 16. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 1. pontja szerint módosított szöveg.
+[^1]: A 2. § 10a. pontját a 154/2023. (IV. 27.) Korm. rendelet 1. §-a iktatta be.
+[^2]: A 2. § 10b. pontját a 154/2023. (IV. 27.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 2. § 16. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 1. pontja szerint módosított szöveg.

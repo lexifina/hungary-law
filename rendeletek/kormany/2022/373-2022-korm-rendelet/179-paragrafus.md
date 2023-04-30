@@ -31,3 +31,16 @@ g) adósságrendezési eljárás vagy
 h) egyéb, a végső kedvezményezett fizetésképtelenségével összefüggésben indult eljárás
 
 indult, vagy van folyamatban.
+
+(4)[^90] A nemzeti hatóság a köztartozás-mentességet a pénzügyi lebonyolítás során egyszer, a támogatásnak az előirányzat-felhasználási keretszámláról történő kifizetése előtt vizsgálja.
+
+(5)[^91] Ha a végső kedvezményezettnek köztartozása van, a nemzeti hatóság legfeljebb kilencvennapos határidő kitűzésével felhívja a köztartozás rendezésére.
+
+(6)[^92] Ha a végső kedvezményezett az (5) bekezdés szerinti határidőben a köztartozását nem szünteti meg, a nemzeti hatóság a kifizetési kérelem alapján jóváhagyott támogatást nem fizeti ki.
+
+(7)[^93] Szállítói finanszírozás, valamint engedményezés esetén a nemzeti hatóság az (1)–(6) bekezdés szerint vizsgálja a szállító, valamint az engedményes köztartozás-mentességét.
+
+[^90]: A 179. § (4) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.
+[^91]: A 179. § (5) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.
+[^92]: A 179. § (6) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.
+[^93]: A 179. § (7) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.

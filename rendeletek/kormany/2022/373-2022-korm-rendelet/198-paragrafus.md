@@ -10,6 +10,6 @@ d) a végső kedvezményezett elismeri a szabálytalanság tényét,
 
 e) a szabálytalanság tényéről még azelőtt szerez tudomást, hogy a végső kedvezményezett részére bármilyen kifizetés történt volna.
 
-f)[^64] a közbeszerzésekért felelős miniszter nem támogató tartalmú jelentésében vagy tanúsítványában foglalt megállapításokat elfogadja.
+f)[^102] a közbeszerzésekért felelős miniszter nem támogató tartalmú jelentésében vagy tanúsítványában foglalt megállapításokat elfogadja.
 
-[^64]: A 198. § f) pontját a 123/2023. (IV. 12.) Korm. rendelet 27. §-a iktatta be.
+[^102]: A 198. § f) pontját a 123/2023. (IV. 12.) Korm. rendelet 27. §-a iktatta be.

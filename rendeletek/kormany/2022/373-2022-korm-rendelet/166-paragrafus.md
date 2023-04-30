@@ -1,21 +1,23 @@
 ## 44. Az időközi kifizetés igénylése
 
-166. § (1) A végső kedvezményezett a támogatási szerződésben foglalt ütemezés szerinti projekt mérföldkövek elérését követő tizenöt napon belül köteles beszámolót benyújtani a projekt műszaki-szakmai előrehaladásának bemutatásával a projekt eredményességéről, valamint hatékonyságáról. A projekt mérföldkőben vállalt eredmények alátámasztását szolgáló dokumentumokat a beszámolóhoz kell csatolni.
+166. §[^83] (1) A végső kedvezményezett a támogatási szerződésben foglalt ütemezés szerinti projekt mérföldkövek elérését követő tizenöt napon belül kifizetési igényléssel egybekötött szakmai beszámolót nyújt be a projekt műszaki-szakmai előrehaladásának bemutatásával a projekt eredményességéről, valamint hatékonyságáról. A projekt mérföldkőben vállalt eredmények alátámasztását szolgáló dokumentumokat a szakmai beszámolóhoz kell csatolni.
 
-(2) A nemzeti hatóság a beszámoló ellenőrzése során az általa lefolytatott helyszíni ellenőrzés jegyzőkönyvének megállapításait, tényadatait is figyelembe veszi. A helyszíni ellenőrzési jegyzőkönyv – a helyszíni ellenőrzés során vizsgált dokumentumok tényleges csatolása nélkül is – alátámasztó dokumentumként szolgál, ha a helyszíni ellenőrzés során vizsgált dokumentumok köre és azok elfogadhatósága a jegyzőkönyvben tételesen bemutatásra kerül.
+(2) A nemzeti hatóság a szakmai beszámoló ellenőrzése során az általa lefolytatott helyszíni ellenőrzés jegyzőkönyvének megállapításait, tényadatait is figyelembe veszi. A helyszíni ellenőrzési jegyzőkönyv – a helyszíni ellenőrzés során vizsgált dokumentumok tényleges csatolása nélkül is – alátámasztó dokumentumnak minősül, ha a helyszíni ellenőrzés során vizsgált dokumentumok körét és azok elfogadhatóságát tételesen tartalmazza.
 
-(3) Időközi kifizetési igénylést a projekt keretében felmerült költségek elszámolása érdekében projekt mérföldkövek között csak
+(3) Szakmai beszámolóhoz nem kötött időközi kifizetési igénylést a projekt keretében felmerült költségek elszámolása érdekében projekt mérföldkövek között kizárólag
 
-a) fordított áfa-előleg elszámolása céljából,
+a) fordított áfaelőleg elszámolása céljából,
 
-b) szállítói finanszírozási módban a szállítói előleg utalását követően az előlegszámla benyújtása céljából, illetve
+b) szállítói finanszírozási módban a szállítói előleg utalását követően az előlegszámla benyújtása céljából,
 
-c) a végső kedvezményezett személyében bekövetkező változások miatt a projektből kiváló végső kedvezményezett (jogelőd) elszámolása céljából
+c) a végső kedvezményezett személyében bekövetkező változások miatt a projektből kiváló végső kedvezményezett (jogelőd) elszámolása céljából,
 
-lehet benyújtani.
+d) ha adott felhíváshoz tartozó végső kedvezményezettek száma eléri az ezer darabot, és erről a felhívás kifejezetten így rendelkezik, vagy
 
-(4) A nemzeti hatóság a támogatás folyósítását a beszámoló
+e) az építési beruházások, valamint az építési beruházásokhoz kapcsolódó tervezői és mérnöki szolgáltatások közbeszerzésének részletes szabályairól szóló 322/2015. (X. 30.) Korm. rendelet [a továbbiakban: 322/2015. (X. 30.) Korm. rendelet] 32/A. §-a rendelkezései szerinti alvállalkozói teljesítés ellenértékének elszámolása céljából lehet benyújtani.
 
-a) benyújtásának elmulasztása esetén a beszámoló benyújtásának pótlásáig felfüggeszti,
+(4) A (3) bekezdés e) pontja szerinti elszámolás során a 322/2015. (X. 30.) Korm. rendelet 32/A. §-a szerint kell eljárni, azzal az eltéréssel, hogy a nemzeti hatóság számára az irányadó fizetési határidő a bizonylat beérkezésétől számított harminc nap. Utófinanszírozás alkalmazásakor alvállalkozói teljesítést is tartalmazó bizonylat esetén az irányító hatóság számára irányadó fizetési határidő a bizonylat beérkezésétől számított negyvenöt nap.
 
-b) elutasítása esetén a beszámoló szakmai jóváhagyásáig felfüggesztheti.
+(5) Szakmai beszámolóhoz kötött kifizetési igénylés esetén a támogatás folyósításának feltétele a szakmai beszámoló elfogadása, azzal, hogy a nemzeti hatóság a kifizetési igénylést elutasítja, ha a szakmai beszámoló benyújtása határidőben nem történt meg.
+
+[^83]: A 166. § a 154/2023. (IV. 27.) Korm. rendelet 9. §-ával megállapított szöveg.

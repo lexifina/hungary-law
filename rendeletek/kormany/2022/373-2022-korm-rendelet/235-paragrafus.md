@@ -28,11 +28,11 @@ feladatokat.
 
 (3) A más jogi vagy természetes személynek továbbadott támogatás szabályos felhasználásáért a támogatást kihelyező szerv felel. A nemzeti hatóság a támogatást kihelyező szerv által alkalmazott irányítás ellenőrzési rendszert a lebonyolító szerv nemzeti hatóság általi ellenőrzésére irányadó szabályok szerint ellenőrzi.
 
-(4)[^104] A támogatást kihelyező szerv által meghirdetett felhívásra támogatási kérelmet benyújtó továbbadott támogatást igénylőnek, a felhívás alapján támogatásban részesülő továbbadott támogatásban részesülő végső kedvezményezettnek minősül.
+(4)[^147] A támogatást kihelyező szerv által meghirdetett felhívásra támogatási kérelmet benyújtó továbbadott támogatást igénylőnek, a felhívás alapján támogatásban részesülő továbbadott támogatásban részesülő végső kedvezményezettnek minősül.
 
-(5)[^105] A továbbadott támogatást igénylőre, valamint a továbbadott támogatásban részesülő végső kedvezményezettre az e rendeletben a végső kedvezményezett számára előírt szabályokat kell megfelelően alkalmazni azzal az eltéréssel, hogy a támogatási jogviszony közte és a támogatást kihelyező szerv között jön létre.
+(5)[^148] A továbbadott támogatást igénylőre, valamint a továbbadott támogatásban részesülő végső kedvezményezettre az e rendeletben a végső kedvezményezett számára előírt szabályokat kell megfelelően alkalmazni azzal az eltéréssel, hogy a támogatási jogviszony közte és a támogatást kihelyező szerv között jön létre.
 
-(6)[^106] A támogatást kihelyező szerv biztosítja, hogy eljárási szabályai összhangban álljanak e rendelet általános és jelen fejezetben szabályozott rendelkezéseivel, azzal az eltéréssel, hogy a továbbadott támogatással a támogatást kihelyező szerv elszámolási terv alapján köteles elszámolni, amelyre vonatkozóan az elszámolhatóság szabályait a www.palyazat.gov.hu oldalon közzétett elszámolhatósági útmutató szabályozza.
+(6)[^149] A támogatást kihelyező szerv biztosítja, hogy eljárási szabályai összhangban álljanak e rendelet általános és jelen fejezetben szabályozott rendelkezéseivel, azzal az eltéréssel, hogy a továbbadott támogatással a támogatást kihelyező szerv elszámolási terv alapján köteles elszámolni, amelyre vonatkozóan az elszámolhatóság szabályait a www.palyazat.gov.hu oldalon közzétett elszámolhatósági útmutató szabályozza.
 
 (7) A támogatást kihelyező szerv alkalmazza a csalás kockázatelemzésének támogatására fejlesztett informatikai rendszert, így az ARACHNE kockázatértékelő eszközt.
 
@@ -44,11 +44,11 @@ feladatokat.
 
 (11) A támogatást kihelyező szerv a felülvizsgálat során a kifogásban foglaltaknak részben vagy egészben helyt ad, egyúttal gondoskodik a jogszerű állapot helyreállításáról.
 
-(12)[^107] A (9) és (10) bekezdés szerinti felülvizsgálat hiányában a támogatást kihelyező szerv a kifogást, a kifogással kapcsolatos szakmai álláspontját és az ügyben keletkezett dokumentációt a kifogás beérkezésétől számított tizenöt napon belül megküldi a Belső Ellenőrzési és Integritási Igazgatóság részére. Az eljárást egyebekben a VI. Fejezet szerint kell lefolytatni azzal, hogy a nemzeti hatóság feladatait a támogatást kihelyező szerv látja el.
+(12)[^150] A (9) és (10) bekezdés szerinti felülvizsgálat hiányában a támogatást kihelyező szerv a kifogást, a kifogással kapcsolatos szakmai álláspontját és az ügyben keletkezett dokumentációt a kifogás beérkezésétől számított tizenöt napon belül megküldi a Belső Ellenőrzési és Integritási Igazgatóság részére. Az eljárást egyebekben a VI. Fejezet szerint kell lefolytatni azzal, hogy a nemzeti hatóság feladatait a támogatást kihelyező szerv látja el.
 
 (13) A támogatást kihelyező szerv az általa észlelt szabálytalansági gyanút haladéktalanul bejelenti a nemzeti hatóság részére. A szabálytalansági eljárást a nemzeti hatóság folytatja le a VII. fejezetben foglalt szabályok szerint.
 
-[^104]: A 235. § (4) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 37. pontja szerint módosított szöveg.
-[^105]: A 235. § (5) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 38. pontja szerint módosított szöveg.
-[^106]: A 235. § (6) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 29. §-ával megállapított szöveg.
-[^107]: A 235. § (12) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 33. pontja szerint módosított szöveg.
+[^147]: A 235. § (4) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 37. pontja szerint módosított szöveg.
+[^148]: A 235. § (5) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 38. pontja szerint módosított szöveg.
+[^149]: A 235. § (6) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^150]: A 235. § (12) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 33. pontja szerint módosított szöveg.

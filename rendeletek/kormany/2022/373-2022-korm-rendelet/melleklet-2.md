@@ -2,27 +2,27 @@
 
 | 1. | Programterület neve | A Kormány európai uniós források felhasználásával kapcsolatos nemzeti hatósági feladatok ellátására kijelölt tagja tevékenységének segítésére kijelölt minisztérium | A Kormány európai uniós források felhasználásával kapcsolatos nemzeti hatósági feladatok ellátására kijelölt tagja | Szakpolitikai felelősök | Lebonyolító szerv |
 
-| 2. | I. Demográfia és köznevelés | Miniszterelnökség | területfejlesztési miniszter | Kulturális és Innovációs Minisztérium a Belügyminisztériummal együttműködve | Magyar Államkincstár |
+| 2. | I. Demográfia és köznevelés | Miniszterelnökség | területfejlesztési miniszter | Kulturális és Innovációs Minisztérium a Belügyminisztériummal együttműködve | Magyar Államkincstár, Miniszterelnöki Kabinetiroda, Miniszterelnökség[^162] |
 
-| 3. | II. Magasan képzett, versenyképes munkaerő | Miniszterelnökség | területfejlesztési miniszter | Kulturális és Innovációs Minisztérium | Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal |
+| 3. | II. Magasan képzett, versenyképes munkaerő | Miniszterelnökség | területfejlesztési miniszter | Kulturális és Innovációs Minisztérium | Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, Miniszterelnöki Kabinetiroda, Miniszterelnökség[^163] |
 
-| 4. | III. Felzárkózó települések | Miniszterelnökség | területfejlesztési miniszter | Belügyminisztérium | Nincs |
+| 4. | III. Felzárkózó települések | Miniszterelnökség | területfejlesztési miniszter | Belügyminisztérium | Miniszterelnökség[^164] |
 
-| 5. | IV. Vízgazdálkodás | Miniszterelnökség | területfejlesztési miniszter | Belügyminisztérium1, Agrárminisztérium | Nincs |
+| 5. | IV. Vízgazdálkodás | Miniszterelnökség | területfejlesztési miniszter | Belügyminisztérium1, Agrárminisztérium | Miniszterelnöki Kabinetiroda, Miniszterelnökség,[^165] |
 
-| 6. | V. Fenntartható zöld közlekedés | Miniszterelnökség | területfejlesztési miniszter | Építési és Közlekedési Minisztérium[^117] | Nincs |
+| 6. | V. Fenntartható zöld közlekedés | Miniszterelnökség | területfejlesztési miniszter | Építési és Közlekedési Minisztérium[^166] | Miniszterelnöki Kabinetiroda, Miniszterelnökség,[^167] |
 
-| 7. | VI. Energetika (zöld átállás) | Miniszterelnökség | területfejlesztési miniszter | Energiaügyi Minisztérium[^118] | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság, Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Emberi Erőforrás Támogatáskezelő |
+| 7. | VI. Energetika (zöld átállás) | Miniszterelnökség | területfejlesztési miniszter | Energiaügyi Minisztérium[^168] | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság, Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Miniszterelnökség, Miniszterelnöki Kabinetiroda[^169] |
 
-| 8. | VII. Átállás a körforgásos gazdaságra | Miniszterelnökség | területfejlesztési miniszter | Energiaügyi Minisztérium[^119] | Nincs |
+| 8. | VII. Átállás a körforgásos gazdaságra | Miniszterelnökség | területfejlesztési miniszter | Energiaügyi Minisztérium[^170] | Miniszterelnökség[^171] |
 
-| 9. | VIII. Egészségügy | Miniszterelnökség | területfejlesztési miniszter | Belügyminisztérium | Nincs |
+| 9. | VIII. Egészségügy | Miniszterelnökség | területfejlesztési miniszter | Belügyminisztérium | Miniszterelnöki Kabinetiroda, Miniszterelnökség,[^172] |
 
-| 10. | IX. Állam és közigazgatás | Miniszterelnökség | területfejlesztési miniszter | Nincs. | A KKV-k közbeszerzési részvételét ösztönző támogatása c. felhívás tekintetében az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság |
+| 10. | IX. Állam és közigazgatás | Miniszterelnökség | területfejlesztési miniszter | Nincs. | Miniszterelnöki Kabinetiroda, a KKV-k közbeszerzési részvételét ösztönző támogatás c. felhívás tekintetében az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság[^173] |
 
 ## 1 Szakmai koordinációra kijelölt minisztérium
 
-2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^120]
+2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^174]
 
 Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
@@ -154,7 +154,16 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 8.7. szállító tényleges tulajdonosának születési dátuma
 
-[^117]: Az 1. mellékletben foglalt táblázat D:6 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^118]: Az 1. mellékletben foglalt táblázat D:7 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^119]: Az 1. mellékletben foglalt táblázat D:8 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
-[^120]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
+[^162]: Az 1. mellékletben foglalt táblázat E:2 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés a) pontjával megállapított szöveg.
+[^163]: Az 1. mellékletben foglalt táblázat E:3 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés b) pontjával megállapított szöveg.
+[^164]: Az 1. mellékletben foglalt táblázat E:4 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés c) pontjával megállapított szöveg.
+[^165]: Az 1. mellékletben foglalt táblázat E:5 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés d) pontjával megállapított szöveg.
+[^166]: Az 1. mellékletben foglalt táblázat D:6 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^167]: Az 1. mellékletben foglalt táblázat E:6 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés d) pontjával megállapított szöveg.
+[^168]: Az 1. mellékletben foglalt táblázat D:7 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^169]: Az 1. mellékletben foglalt táblázat E:7 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés e) pontjával megállapított szöveg.
+[^170]: Az 1. mellékletben foglalt táblázat D:8 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
+[^171]: Az 1. mellékletben foglalt táblázat E:8 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés c) pontjával megállapított szöveg.
+[^172]: Az 1. mellékletben foglalt táblázat E:9 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés d) pontjával megállapított szöveg.
+[^173]: Az 1. mellékletben foglalt táblázat E:10 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés f) pontjával megállapított szöveg.
+[^174]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.

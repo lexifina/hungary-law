@@ -1,6 +1,6 @@
-218. § (1)[^88] Ha a jogorvoslati döntésben elírás, illetve számítási hiba van, a Belső Ellenőrzési és Integritási Igazgatóság a hibát kérelemre vagy hivatalból kijavítja, ha az nem hat ki a jogorvoslati döntés érdemére.
+218. § (1)[^127] Ha a jogorvoslati döntésben elírás, illetve számítási hiba van, a Belső Ellenőrzési és Integritási Igazgatóság a hibát kérelemre vagy hivatalból kijavítja, ha az nem hat ki a jogorvoslati döntés érdemére.
 
-(2)[^89] A Belső Ellenőrzési és Integritási Igazgatóság a kijavító döntést haladéktalanul megküldi a végső kedvezményezett és a nemzeti hatóság részére.
+(2)[^128] A Belső Ellenőrzési és Integritási Igazgatóság a kijavító döntést haladéktalanul megküldi a végső kedvezményezett és a nemzeti hatóság részére.
 
-[^88]: A 218. § (1) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 28. pontja szerint módosított szöveg.
-[^89]: A 218. § (2) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 29. pontja szerint módosított szöveg.
+[^127]: A 218. § (1) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 28. pontja szerint módosított szöveg.
+[^128]: A 218. § (2) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 29. pontja szerint módosított szöveg.

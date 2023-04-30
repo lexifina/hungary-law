@@ -6,4 +6,6 @@ b) az államháztartás központi alrendszerébe tartozó költségvetési szerv
 
 c) az állam által alapított vagyonkezelő alapítvány és az ilyen alapítvány által fenntartott jogi személy végső kedvezményezett esetén,
 
-d) a Gazdaság-újraindítási Alap uniós fejlesztései fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 481/2021. (VIII. 13.) Korm. rendelet 8. §-a szerinti esetben.
+d)[^132] az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet 8. §-a szerinti esetben.
+
+[^132]: A 225. § d) pontja a 154/2023. (IV. 27.) Korm. rendelet 16. §-ával megállapított szöveg.

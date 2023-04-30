@@ -2,10 +2,10 @@
 
 39. § (1) Az európai uniós források felhasználásáért felelős miniszter gondoskodik a monitoring és információs rendszer részeként működő elektronikus alkalmazás (e fejezet alkalmazásában a továbbiakban: elektronikus alkalmazás) működtetéséről.
 
-(2)[^39] Ha e rendelet, felhívás vagy támogatási szerződés másként nem rendelkezik, akkor a támogatást igénylő, a végső kedvezményezett és a II. Fejezet szerinti intézményrendszer az elektronikus alkalmazást használja az egymással való kapcsolattartásra.
+(2)[^51] Ha e rendelet, felhívás vagy támogatási szerződés másként nem rendelkezik, akkor a támogatást igénylő, a végső kedvezményezett és a II. Fejezet szerinti intézményrendszer az elektronikus alkalmazást használja az egymással való kapcsolattartásra.
 
 (3) Ha a támogatást igénylő vagy a végső kedvezményezett olyan kapcsolattartási módot használ, amely az adott tárgykörben nem alkalmazható, úgy cselekménye érvénytelen. Erről a nemzeti hatóság a támogatást igénylő, illetve a végső kedvezményezett részére tájékoztatást ad.
 
 (4) Ha az elektronikus alkalmazáson keresztül történő kapcsolattartás nem lehetséges, postai úton történő kézbesítésnek van helye.
 
-[^39]: A 39. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 25. pontja szerint módosított szöveg.
+[^51]: A 39. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 25. pontja szerint módosított szöveg.
