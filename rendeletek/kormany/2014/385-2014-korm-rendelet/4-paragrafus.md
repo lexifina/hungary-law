@@ -26,7 +26,7 @@ műanyag-, üveg-, fém- és papírhulladék, valamint hulladékká vált ruhane
 
 (5) A csomagolási hulladékot laposan, lehetőség szerint kupak nélkül, az újságpapír hulladékot kötegelve kell a gyűjtőedényben elhelyezni. A kartonpapírból készült nagyméretű doboz gyűjtőedénybe nem helyezhető, azt laposra hajtogatva és kötegelve kell a közszolgáltatónak átadni.
 
-(6)[^19] A képződés helyén a zöldhulladékot a zöldhulladék elkülönített gyűjtésének céljára gyártott gyűjtőedényben vagy biológiailag lebomló hulladékgyűjtő zsákban kell gyűjteni, kivéve a (7) bekezdés szerinti, valamint azt az esetet, ha a zöldhulladékot házi vagy közösségi komposztálás útján komposztálják.
+(6)[^20] A képződés helyén a zöldhulladékot a zöldhulladék elkülönített gyűjtésének céljára gyártott gyűjtőedényben vagy biológiailag lebomló hulladékgyűjtő zsákban kell gyűjteni, kivéve a (7) bekezdés szerinti, valamint azt az esetet, ha a zöldhulladékot házi vagy közösségi komposztálás útján komposztálják.
 
 (7) Ha a zöldhulladékot házi vagy közösségi komposztálás útján nem komposztálják, vagy a zöldhulladék szabványos gyűjtőedényzetben vagy hulladékgyűjtő zsákban történő gyűjtésének feltételeit a közszolgáltató a közszolgáltatási területen nem biztosítja, a zöldhulladékot – a (8) bekezdés szerinti fenyőfa hulladék kivételével – a vegyes hulladék céljára szolgáló gyűjtőedényben kell gyűjteni. Az elkülönítetten gyűjtött papír-, fém-, üveg- és műanyag hulladékot tartalmazó gyűjtőedényben zöldhulladékot elhelyezni nem lehet.
 
@@ -34,4 +34,4 @@ műanyag-, üveg-, fém- és papírhulladék, valamint hulladékká vált ruhane
 
 (9) Radioaktív hulladékot, robbanóanyagot a települési hulladék gyűjtésére szolgáló gyűjtőedényben elhelyezni nem lehet.
 
-[^19]: A 4. § (6) bekezdése a 15. § (3) bekezdése szerint módosított szöveg.
+[^20]: A 4. § (6) bekezdése a 15. § (3) bekezdése szerint módosított szöveg.

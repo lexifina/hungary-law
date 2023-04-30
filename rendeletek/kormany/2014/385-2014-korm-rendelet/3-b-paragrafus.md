@@ -1,4 +1,4 @@
-3/B. §[^13] (1) A Hivatal a jóváhagyásához kötött, a Ht. 92/H. § (7) bekezdésében meghatározott szerződések és kötelezettségvállalások esetében megvizsgálja, hogy
+3/B. §[^14] (1) A Hivatal a jóváhagyásához kötött, a Ht. 92/H. § (7) bekezdésében meghatározott szerződések és kötelezettségvállalások esetében megvizsgálja, hogy
 
 a) a szerződés vagy kötelezettségvállalás a Ht. 92/H. § (7) bekezdésében előírt határidőn túlterjeszkedik-e, vagy sem,
 
@@ -6,7 +6,7 @@ b) a szerződés vagy kötelezettségvállalás biztosítja-e a Ht. 3. § (1) be
 
 c) a szerződés vagy a kötelezettségvállalás nem eredményezi-e a hulladékgazdálkodási közszolgáltatás jogszabályoknak és közszolgáltatási szerződéseknek megfelelő tartalmú ellátásához szükséges pénzügyi fedezet elvonását.
 
-(2)[^14] A közszolgáltató a jóváhagyásra irányuló kérelmét a szerződés – a Hivatal jóváhagyására tekintettel függő hatállyal történő – létrejöttétől vagy a kötelezettségvállalásra irányuló jognyilatkozat – a Hivatal jóváhagyására tekintettel függő hatállyal történő – megtételétől számított 15 napon belül nyújtja be a Hivatal által biztosított, jognyilatkozatok megtételére szolgáló interaktív alkalmazás vagy formanyomtatvány útján. A határidő elmulasztása esetén a közszolgáltató igazolási kérelmet nyújthat be, amelyet az általános közigazgatási rendtartásról szóló törvény megfelelő alkalmazásával kell elbírálni.
+(2)[^15] A közszolgáltató a jóváhagyásra irányuló kérelmét a szerződés – a Hivatal jóváhagyására tekintettel függő hatállyal történő – létrejöttétől vagy a kötelezettségvállalásra irányuló jognyilatkozat – a Hivatal jóváhagyására tekintettel függő hatállyal történő – megtételétől számított 15 napon belül nyújtja be a Hivatal által biztosított, jognyilatkozatok megtételére szolgáló interaktív alkalmazás vagy formanyomtatvány útján. A határidő elmulasztása esetén a közszolgáltató igazolási kérelmet nyújthat be, amelyet az általános közigazgatási rendtartásról szóló törvény megfelelő alkalmazásával kell elbírálni.
 
 (3) A (2) bekezdés szerinti kérelemhez hiteles elektronikus formában mellékelni kell
 
@@ -16,7 +16,7 @@ b) az igazgatási szolgáltatási díj átutalásáról szóló igazolást,
 
 c) a kérelemmel érintett szerződés létrejöttének, a jognyilatkozat megtételének időpontjában rendelkezésre álló és a kérelem benyújtását megelőző üzleti évre vonatkozó lezárt főkönyvi kivonatot, továbbá a szerződésből vagy jognyilatkozatból eredő fizetési kötelezettség elszámolásához tartozó analitikát,
 
-d)[^15] a kérelemmel érintett szerződés, kötelezettségvállalás tárgyában a kérelem benyújtását megelőző üzleti évben hatályos szerződést vagy kötelezettségvállalást tartalmazó jognyilatkozatot, továbbá a szerződésből vagy jognyilatkozatból eredő fizetési kötelezettség elszámolásához tartozó analitikát,
+d)[^16] a kérelemmel érintett szerződés, kötelezettségvállalás tárgyában a kérelem benyújtását megelőző üzleti évben hatályos szerződést vagy kötelezettségvállalást tartalmazó jognyilatkozatot, továbbá a szerződésből vagy jognyilatkozatból eredő fizetési kötelezettség elszámolásához tartozó analitikát,
 
 e) a kérelemmel érintett szerződésben vagy kötelezettségvállalásra irányuló jognyilatkozatban vállalt fizetési kötelezettség teljesítéséhez szükséges fedezet rendelkezésre állásának igazolását, továbbá
 
@@ -44,12 +44,12 @@ f) a hulladékgazdálkodási közszolgáltatás napi működőképességének bi
 
 g) a közszolgáltató számára ötmillió forintot meg nem haladó mértékű fizetési kötelezettséget keletkeztető kötelezettségvállalások
 
-## esetében.
+esetében.
 
 (8) A Hivatal jóváhagyásához kötött szerződés vagy kötelezettségvállalás a Hivatal jóváhagyása nélkül semmis.
 
 (9) A Hivatal a véglegessé vált záradékkal ellátott szerződésről vagy kötelezettségvállalásról hiteles elektronikus formában tájékoztatást ad a Koordináló szerv részére.
 
-[^13]: A 3/B. §-t a 312/2021. (VI. 7.) Korm. rendelet 15. § (3) bekezdése iktatta be.
-[^14]: A 3/B. § (2) bekezdése a 768/2021. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^15]: A 3/B. § (3) bekezdés d) pontja a 768/2021. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^14]: A 3/B. §-t a 312/2021. (VI. 7.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^15]: A 3/B. § (2) bekezdése a 768/2021. (XII. 23.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^16]: A 3/B. § (3) bekezdés d) pontja a 768/2021. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

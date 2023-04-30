@@ -1,4 +1,4 @@
-3/A. §[^9] (1) A hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős miniszter (a továbbiakban: miniszter) előzetes jóváhagyása a közszolgáltatás ellátásába bevont vagyonelemekre irányuló olyan szerződéses jogviszony érvényességi feltétele, amelynek célja vagy eredménye az, hogy a vagyonelemmel rendelkezni jogosult vagy a rendelkezési jogosultságot érintően már fennálló jogviszony alanyának személye megváltozik.
+3/A. §[^9] (1)[^10] A hulladékgazdálkodásért felelős miniszter (a továbbiakban: miniszter) előzetes jóváhagyása a közszolgáltatás ellátásába bevont vagyonelemekre irányuló olyan szerződéses jogviszony érvényességi feltétele, amelynek célja vagy eredménye az, hogy a vagyonelemmel rendelkezni jogosult vagy a rendelkezési jogosultságot érintően már fennálló jogviszony alanyának személye megváltozik.
 
 (2) A miniszter az (1) bekezdésben meghatározott szerződéses jogviszonyt jóváhagyja, ha az
 
@@ -28,7 +28,7 @@ e) a módosítandó szerződéses jogviszonyról szóló eredeti dokumentum.
 
 (8) A miniszter a véglegessé vált, záradékkal ellátott szerződéses jogviszonyról szóló dokumentumról hiteles elektronikus formában tájékoztatást ad az állam által létrehozott koordináló szerv (a továbbiakban: Koordináló szerv) részére.
 
-(9)[^10] A Ht. 92/G. § (8) és (9) bekezdése szerinti hozzájárulás kiadása iránti kérelem tartalmazza
+(9)[^11] A Ht. 92/G. § (8) és (9) bekezdése szerinti hozzájárulás kiadása iránti kérelem tartalmazza
 
 a) a kérelmező nevét, székhelyét,
 
@@ -40,11 +40,12 @@ d) a cégjogi eseményt alátámasztó írásbeli indokolást és
 
 e) a cégjogi eseménynek a hulladékgazdálkodási közszolgáltatással kapcsolatos összefüggéseit, különösen annak szükségességét és a cégjogi eseménytől várt előny bemutatását.
 
-(10)[^11] A cégjogi esemény miniszteri jóváhagyására irányuló eljárásban az ügyintézési határidő 45 nap.
+(10)[^12] A cégjogi esemény miniszteri jóváhagyására irányuló eljárásban az ügyintézési határidő 45 nap.
 
-(11)[^12] A miniszter a véglegessé vált határozatáról hiteles elektronikus formában tájékoztatást ad az állam által létrehozott Koordináló szerv részére.
+(11)[^13] A miniszter a véglegessé vált határozatáról hiteles elektronikus formában tájékoztatást ad az állam által létrehozott Koordináló szerv részére.
 
 [^9]: A 3/A. §-t a 312/2021. (VI. 7.) Korm. rendelet 15. § (3) bekezdése iktatta be.
-[^10]: A 3/A. § (9) bekezdését a 382/2021. (VI. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^11]: A 3/A. § (10) bekezdését a 382/2021. (VI. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^12]: A 3/A. § (11) bekezdését a 382/2021. (VI. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^10]: A 3/A. § (1) bekezdése a 107/2023. (III. 30.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^11]: A 3/A. § (9) bekezdését a 382/2021. (VI. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^12]: A 3/A. § (10) bekezdését a 382/2021. (VI. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^13]: A 3/A. § (11) bekezdését a 382/2021. (VI. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.

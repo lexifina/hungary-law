@@ -12,7 +12,7 @@ d)[^2] a hulladékgazdálkodási közszolgáltatás teljesítésével összefüg
 
 e)[^3] a hulladékgazdálkodási közszolgáltatók és közszolgáltatói alvállalkozók Országos Hulladékgazdálkodási Közszolgáltatási Tervnek (a továbbiakban: OHKT) való megfelelősége megállapítására
 
-## terjed ki.
+terjed ki.
 
 (2) E rendelet hatálya a gazdálkodó szervezet ingatlanhasználó tevékenysége során képződött háztartási hulladékhoz hasonló hulladék részét képező elkülönítetten gyűjtött hulladékra akkor terjed ki, ha azt a gazdálkodó szervezet ingatlanhasználó a közszolgáltatónak adja át kezelésre.
 
