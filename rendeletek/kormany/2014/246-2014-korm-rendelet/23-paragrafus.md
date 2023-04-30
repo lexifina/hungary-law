@@ -20,7 +20,7 @@ g) a végrehajtott karbantartások (javítások) ideje és időtartama; valamint
 
 h) a hatósági ellenőrzések megállapításai és az ezek hatására tett intézkedések.
 
-(4)[^19] A komposztáló telep üzemeltetője a telep részletes működési és ellenőrzési szabályait üzemeltetési szabályzatban rögzíti. Az üzemeltető az üzemeltetési szabályzat 1 példányát a hulladékgazdálkodási engedélyezési eljárás iránti kérelemhez csatolva a hulladékgazdálkodási hatóságnak megküldi. A komposztáló telep csak az üzemeltetési szabályzat hulladékgazdálkodási hatóság általi jóváhagyását követően üzemeltethető.
+(4)[^20] A komposztáló telep üzemeltetője a telep részletes működési és ellenőrzési szabályait üzemeltetési szabályzatban rögzíti. Az üzemeltető az üzemeltetési szabályzat 1 példányát a hulladékgazdálkodási engedélyezési eljárás iránti kérelemhez csatolva a hulladékgazdálkodási hatóságnak megküldi. A komposztáló telep csak az üzemeltetési szabályzat hulladékgazdálkodási hatóság általi jóváhagyását követően üzemeltethető.
 
 (5) A komposztáló telep üzemeltetési szabályzata legalább
 
@@ -50,7 +50,7 @@ vonatkozó kötelezettségeket tartalmazza.
 
 (7) A komposztáló telep működtetését közvetlenül irányító vezetőnek környezetvédelmi szakirányú középfokú vagy felsőfokú végzettséggel, vagy a környezetvédelmi megbízotti foglalkoztatását igazoló dokumentummal kell rendelkeznie.
 
-(8)[^20] A komposztálás mérvadó jellemzőit (így különösen a hőmérsékletet és a tartózkodási időt) a higiénizációs fázisban naponta fel kell jegyezni. A rögzített adatokat 5 éven keresztül meg kell őrizni, és azokat a hulladékgazdálkodási hatóság kérésére annak rendelkezésére kell bocsátani.
+(8)[^21] A komposztálás mérvadó jellemzőit (így különösen a hőmérsékletet és a tartózkodási időt) a higiénizációs fázisban naponta fel kell jegyezni. A rögzített adatokat 5 éven keresztül meg kell őrizni, és azokat a hulladékgazdálkodási hatóság kérésére annak rendelkezésére kell bocsátani.
 
 (9) A komposztáló telep hulladékforgalmáról éves anyagmérleget kell készíteni, valamint a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló kormányrendelet előírásai szerint nyilvántartást kell vezetni, és adatszolgáltatást kell teljesíteni.
 
@@ -58,5 +58,5 @@ vonatkozó kötelezettségeket tartalmazza.
 
 (11) Komposztáló telepen biológiailag lebomló hulladék kizárólag komposztálás céljából tárolható.
 
-[^19]: A 23. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés b) és e) pontja, a 312/2021. (VI. 7.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
-[^20]: A 23. § (8) bekezdése a 312/2021. (VI. 7.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^20]: A 23. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 255. § (3) bekezdés b) és e) pontja, a 312/2021. (VI. 7.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
+[^21]: A 23. § (8) bekezdése a 312/2021. (VI. 7.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.

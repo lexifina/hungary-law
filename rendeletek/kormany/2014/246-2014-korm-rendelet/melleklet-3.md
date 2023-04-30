@@ -1,6 +1,6 @@
 3. melléklet a 246/2014. (IX. 29.) Korm. rendelethez
 
-## A válogatóművek kialakítására vonatkozó műszaki előírások
+A válogatóművek kialakítására vonatkozó műszaki előírások
 
 1. A kész bálák tárolására fedett bálatárolót kell építeni, amelynek alapterülete 1000 tonna/év kapacitásonként
 
@@ -16,7 +16,7 @@ b) illemhelyiséggel, mosdóval, zuhanyzóval, öltözővel, munkaruha- és kéz
 
 c) gyűjtő- és felhordó szalagok, válogatószalag;
 
-d)[^24]
+d)[^26]
 
 e) kármentesítési anyagok;
 
@@ -50,4 +50,4 @@ h) egyéb – fajsúly, méret vagy a hasznosítható anyagok megkülönböztet�
 
 i) utóaprító berendezés.
 
-[^24]: A 3. melléklet 2. pont d) alpontját a 374/2016. (XI. 29.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^26]: A 3. melléklet 2. pont d) alpontját a 374/2016. (XI. 29.) Korm. rendelet 1. §-a hatályon kívül helyezte.

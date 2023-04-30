@@ -22,7 +22,7 @@ b) ha az a) pont szerinti kialakítás – saját rendelkezésű terület hiány
 
 c) ha a b) pont szerinti kialakítás településrendezési, illetve településkép-védelmi okból nem lehetséges, az üzleten belül
 
-## alakítja ki.
+alakítja ki.
 
 (9)[^7] A fogyasztói üveghulladék átvételi helyen az üzleten kívül a gyűjtőedényt vagy konténert – lehetőleg a bejárathoz közel – úgy kell elhelyezni, hogy az alkalmas legyen a gyalogosan és a gépjárművel történő megközelítésre, valamint az elszállítás lehetőleg gépi rakodással megvalósítható legyen.
 
@@ -33,6 +33,8 @@ a) szennyeződéstől és idegen tárgytól mentesen,
 b) kupak, dugó vagy lapkafedő nélkül és
 
 c) szín szerint elkülönített átvétel esetén a gyűjtőedényen vagy konténeren elhelyezett jelzésnek, feliratozásnak megfelelően
+
+helyezhető el.
 
 [^3]: A 11. § (3) bekezdése a 82/2018. (IV. 20.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^4]: A 11. § (4) bekezdése a 82/2018. (IV. 20.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
