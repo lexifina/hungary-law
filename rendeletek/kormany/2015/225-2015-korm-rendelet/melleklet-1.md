@@ -136,6 +136,12 @@ Szállítási lapok
 
 3.1. A szállítási lapon a 4. pont, illetve a gyűjtőjáratra vonatkozó szállítási lapon a 3. pont szerinti ”megjelenési forma” mezőbe a hulladék 20 °C-on mutatott fizikai megjelenési formájának megfelelő azonosító kódot kell beírni a következők szerint:
 
+3.2. A szállítási lapon a 8. pont, illetve a gyűjtőjáratra vonatkozó szállítási lapon a 10. pont szerinti ”csomagolás módja” mezőbe az elsődleges csomagolásnak vagy csomagolószernek megfelelő számkódot kell beírni:
+
+3.3. A szállítási lapon a 22. pont, illetve a gyűjtőjáratra vonatkozó szállítási lapon a 17. pont szerinti ”szállítás módja” mezőbe az alábbi betűkódok valamelyikét kell beírni:
+
+3.4. A szállítási lapon a 23. pont, illetve a gyűjtőjáratra vonatkozó szállítási lapon a 18. pont szerinti ”szállítás megkezdése” mezőbe azt a dátumot kell beírni, amely jelzi, hogy a szállítmány mikor hagyta el a gyűjtőhelyet vagy a hulladék átadójának telephelyét, ingatlanát. A napot, hónapot és az évet arab számmal kell jelölni.
+
 ## 6K82414M_2
 
 |  | Fizikai megjelenési forma: | Azonosító kód: |
@@ -170,8 +176,6 @@ Szállítási lapok
 
 | 15. | Iszapszerű anyag (szárazanyag-tartalma: > 45 %) | 9 |
 
-3.2. A szállítási lapon a 8. pont, illetve a gyűjtőjáratra vonatkozó szállítási lapon a 10. pont szerinti ”csomagolás módja” mezőbe az elsődleges csomagolásnak vagy csomagolószernek megfelelő számkódot kell beírni:
-
 ## 6K82414M_3
 
 |  | A csomagolás módja: | Számkódja: |
@@ -194,8 +198,6 @@ Szállítási lapok
 
 | 9. | Egyéb | 9 |
 
-3.3. A szállítási lapon a 22. pont, illetve a gyűjtőjáratra vonatkozó szállítási lapon a 17. pont szerinti ”szállítás módja” mezőbe az alábbi betűkódok valamelyikét kell beírni:
-
 ## 6K82414M_4
 
 |  | A szállítás módja: | Betűkódja: |
@@ -207,8 +209,6 @@ Szállítási lapok
 | 3. | Belső vízi úton | W |
 
 | 4. | Egyéb módon | O |
-
-3.4. A szállítási lapon a 23. pont, illetve a gyűjtőjáratra vonatkozó szállítási lapon a 18. pont szerinti ”szállítás megkezdése” mezőbe azt a dátumot kell beírni, amely jelzi, hogy a szállítmány mikor hagyta el a gyűjtőhelyet vagy a hulladék átadójának telephelyét, ingatlanát. A napot, hónapot és az évet arab számmal kell jelölni.
 
 4. A bizonylat tartalmi elemei:
 
