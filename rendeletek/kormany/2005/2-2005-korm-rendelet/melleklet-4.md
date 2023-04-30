@@ -20,6 +20,8 @@
 
 ## Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság.
 
+## e) a hulladékgazdálkodásra kiterjedően: az országos hulladékgazdálkodási hatóság.
+
 ## I.2. Érintettség esetén vesz részt:
 
 ## a) földtani és ásványvagyon védelemre kiterjedően:
@@ -65,6 +67,8 @@
 ## d) a felszíni és a felszín alatti vizek minőségi és mennyiségi védelmére kiterjedően:
 
 ## a vízvédelmi és vízügyi hatóság.
+
+## e) a hulladékgazdálkodásra kiterjedően: az illetékes hulladékgazdálkodási hatóság.
 
 ## II.2. Érintettség esetén vesz részt:
 
