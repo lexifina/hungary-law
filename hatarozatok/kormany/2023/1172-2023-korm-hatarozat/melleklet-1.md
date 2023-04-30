@@ -16,24 +16,11 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat [a továbbiakban: 1037/2016. (II. 9.) Korm. határozat] 1. pont e) alpontjában az „51,01 milliárd forint” szövegrész helyébe az „51,28 milliárd forint” szöveg lép.
+## 3.[^2]
 
-## 4. Az 1037/2016. (II. 9.) Korm. határozat
-
-## 4.1. 1. melléklet 2. pontjában foglalt táblázat C:8 mezőjében a „71,39 (ebből indikatív önerő: 4,58)” szövegrész helyébe a „81,00 (ebből indikatív önerő: 4,58)” szöveg,
-
-## 4.2. 1. melléklet 3. pontjában foglalt táblázat C:10 mezőjében a „6,49 (ebből VEKOP: 1,76; indikatív önerő: 0,20)” szövegrész helyébe a „7,36 (ebből VEKOP: 1,76; indikatív önerő: 0,46)” szöveg,
-
-## 4.3. 2. mellékletében foglalt táblázat D:35 mezőjében a „8,00” szövegrész helyébe a „15,32” szöveg,
-
-## 4.4. 2. mellékletében foglalt táblázat D:41 mezőjében a „9,81” szövegrész helyébe a „16,68” szöveg,
-
-## 4.5. 2. mellékletében foglalt táblázat D:43 mezőjében a „10,83” szövegrész helyébe a „15,57” szöveg,
-
-## 4.6. 2. mellékletében foglalt táblázat D:51 mezőjében a „6,30 (ebből VEKOP: 1,76)” szövegrész helyébe a „6,91 (ebből VEKOP: 1,76)” szöveg,
-
-## 4.7. 2. mellékletében foglalt táblázat E:51 mezőjében a „0,20” szövegrész helyébe a „0,46” szöveg
-
-## lép.
+## 4.[^3]
 
 1. melléklet az 1172/2023. (IV. 28.) Korm. határozathoz
+
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
