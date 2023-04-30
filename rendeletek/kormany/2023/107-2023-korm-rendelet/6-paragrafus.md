@@ -1,5 +1,3 @@
 ## 6. A hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló 385/2014. (XII. 31.) Korm. rendelet módosítása
 
-6. §[^6]
-
-[^6]: A 6. § a 10. § (2) bekezdés alapján 2023. április 30-án lép hatályba.
+6. § A hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló 385/2014. (XII. 31.) Korm. rendelet 3/A. § (1) bekezdésében a „hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős miniszter” szövegrész helyébe a „hulladékgazdálkodásért felelős miniszter” szöveg lép.
