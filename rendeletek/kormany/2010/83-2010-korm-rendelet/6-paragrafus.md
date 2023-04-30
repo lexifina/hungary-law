@@ -4,7 +4,7 @@ a) a hitelszerződésben a hitelszerződés megkötését megelőző 30. napnál
 
 b) a kereskedelmi kommunikációban a tárgynegyedévet megelőző hónap 1. munkanapján érvényes devizaárfolyam
 
-## figyelembevételével.
+figyelembevételével.
 
 (2)[^29] Deviza alapú hitel esetén, ha a folyósítás vagy a törlesztés devizában történik, az 1. mellékletben meghatározott képletnél a devizában teljesített fizetéseket forintban kell számításba venni a hitelszerződésben 30 napnál nem régebbi, a kereskedelmi kommunikációban a tárgynegyedévet megelőző hónap 1. munkanapján érvényes, a Magyar Nemzeti Bank hivatalos deviza-középárfolyama figyelembevételével.
 
