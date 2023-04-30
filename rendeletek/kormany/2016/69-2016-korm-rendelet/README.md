@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-69-20-2
 | 2021-06-22 | 2016-69-20-22.7 | 312/2021. (VI. 7.) Korm. rendelet |
 | 2021-12-24 | 2016-69-20-22.8 | 768/2021. (XII. 23.) Korm. rendelet |
 | 2023-03-31 | 2016-69-20-22.9 | 107/2023. (III. 30.) Korm. rendelet |
+| 2023-04-30 | 2016-69-20-22.10 | 105/2018. (VI. 15.) Korm. rendelet |
