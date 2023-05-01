@@ -52,3 +52,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-46-00-00
 | 2022-06-01 | 2022. évi V. törvény | 2008-46-00-00.52 |
 | 2022-07-28 | 2022. évi XXIV. törvény | 2008-46-00-00.53 |
 | 2023-01-01 | 2022. évi XXII. törvény | 2008-46-00-00.54 |
+| 2023-05-01 | 2022. évi LXVI. törvény | 2008-46-00-00.55 |
