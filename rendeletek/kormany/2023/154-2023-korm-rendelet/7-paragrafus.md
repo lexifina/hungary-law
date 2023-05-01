@@ -1,3 +1,3 @@
-7. § Az R. 144. §-a a következő (6a) bekezdéssel egészül ki:
+7. §[^8]
 
-„(6a) A nemzeti hatóság a végső kedvezményezett kérelmére indokolt esetben engedélyezheti, hogy meghatározott kiadások kifizetése ne a HEE lebonyolítási számláról történjen. A számlák közötti utólagos átvezetést a végső kedvezményezettnek legkésőbb a támogatási összeg folyósítását követő 60 napon belül el kell végeznie.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

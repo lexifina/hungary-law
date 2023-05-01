@@ -1,3 +1,3 @@
-8. § Az R. 147. §-a a következő (6) bekezdéssel egészül ki:
+8. §[^9]
 
-„(6) Az előleg igénylésére irányuló kérelem elbírálása vonatkozásában tisztázó kérdés nem tehető fel.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

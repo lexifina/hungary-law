@@ -1,5 +1,3 @@
-21. § Hatályát veszti az R.
+21. §[^22]
 
-a) 6. §-a,
-
-b) 237. § (1) bekezdése.
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

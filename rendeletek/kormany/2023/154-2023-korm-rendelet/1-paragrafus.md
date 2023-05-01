@@ -1,3 +1,3 @@
-1. § A Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló 373/2022. (IX. 30.) Korm. rendelet (a továbbiakban: R.) 2. §-a a következő 10a. és 10b. ponttal egészül ki:
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
