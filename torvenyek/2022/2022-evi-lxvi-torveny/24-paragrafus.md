@@ -1,0 +1,3 @@
+24. § (1) A bitorlás miatt indított perekben az ideiglenes intézkedést – az ellenkező valószínűsítéséig – a polgári perrendtartásról szóló 2016. évi CXXX. törvény 103. § (1) bekezdés d) pontja szerinti különös méltánylást érdemlő okból szükségesnek kell tekinteni, ha a kérelmező igazolja, hogy az oltalom fennáll, és ő maga az oltalom jogosultja vagy olyan kezelő szervezet, szakmai szervezet vagy köztestület, amely jogosult fellépni a bitorlással szemben, kivéve, ha a bitorlás megkezdése óta 6 hónap, illetve a kérelmezőnek a bitorlásról és a bitorló személyéről való tudomásszerzése óta 60 nap már eltelt.
+
+(2) A bitorlás miatt indított perekre egyebekben a Vt. 95. § (4) és (7)–(12) bekezdésében foglaltakat kell alkalmazni.

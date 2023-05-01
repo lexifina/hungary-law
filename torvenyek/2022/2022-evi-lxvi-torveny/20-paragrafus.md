@@ -1,0 +1,1 @@
+20. § Átmeneti nemzeti oltalom alatt álló földrajzi árujelző esetén a bitorlás miatt indított eljárást fel kell függeszteni mindaddig, amíg a földrajzi árujelző oltalma iránti kérelemről az Európai Bizottság nem döntött. Ha a kérelmet az Európai Bizottság elutasítja, a bitorlás miatt indított eljárást meg kell szüntetni.
