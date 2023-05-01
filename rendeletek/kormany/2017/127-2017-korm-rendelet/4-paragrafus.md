@@ -1,6 +1,6 @@
-4. § (1) A Digitális Jólét Nkft. a 2. § b) pontja alapján közfeladatai körében
+4. § (1)[^7] A KIFÜ a 2. § b) pontja alapján közfeladatai körében
 
-a)[^6] ellátja a Magyarország Digitális Oktatási Stratégiája végrehajtásával összefüggő feladatokat, különösen:
+a)[^8] ellátja a Magyarország Digitális Oktatási Stratégiája végrehajtásával összefüggő feladatokat, különösen:
 
 aa) közreműködik az oktatási és képzési intézmények számára a digitáliskompetencia-fejlesztéssel kapcsolatos elvárások meghatározásában;
 
@@ -16,19 +16,19 @@ af) ellátja a Digitális Felsőoktatási Kompetenciaközpont szakmai feladatait
 
 b) az Emberi Erőforrás Fejlesztési Operatív Programmal kapcsolatos feladatai keretében közreműködik „A köznevelés keretrendszeréhez kapcsolódó mérési-értékelési és digitális fejlesztések, innovatív oktatásszervezési eljárások kialakítása, megújítása” című kiemelt projekt végrehajtásában;
 
-c)[^7] az Emberi Erőforrás Fejlesztési Operatív Programmal kapcsolatos feladatai keretében szakmai támogatást és együttműködést biztosít a „Digitális környezet a köznevelésben” című felhívás projektgazdái részére a végrehajtásban;
+c)[^9] az Emberi Erőforrás Fejlesztési Operatív Programmal kapcsolatos feladatai keretében szakmai támogatást és együttműködést biztosít a „Digitális környezet a köznevelésben” című felhívás projektgazdái részére a végrehajtásban;
 
 d) a Magyarország Digitális Startup Stratégiájában foglaltak hatékony megvalósulása érdekében létrehozza és működteti a „Startup Hungary” módszertani és koordinációs központot;
 
-e)[^8] a Magyarország Digitális Exportfejlesztési Stratégiájában foglaltak hatékony megvalósulása érdekében létrehozza és működteti a stratégia nyomonkövetési rendszerét, a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársasággal együttműködve koordinálja a Digitális Exportfejlesztési Tárcaközi Bizottság munkáját, és közreműködik a szakmai feladatok végrehajtásában;
+e)[^10] a Magyarország Digitális Exportfejlesztési Stratégiájában foglaltak hatékony megvalósulása érdekében létrehozza és működteti a stratégia nyomonkövetési rendszerét, a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársasággal együttműködve koordinálja a Digitális Exportfejlesztési Tárcaközi Bizottság munkáját, és közreműködik a szakmai feladatok végrehajtásában;
 
 f) a Magyarország Digitális Gyermekvédelmi Stratégiájában foglaltak hatékony megvalósulása érdekében létrehozza és működteti a stratégia nyomonkövetési rendszerét, és közreműködik a szakmai feladatok végrehajtásában;
 
 g) ellátja a Digitális Jólét Alapcsomag védjegy jogosulti adminisztrációjával kapcsolatos feladatokat;
 
-h)[^9] közreműködik a DJP2.0 végrehajtásában, a DJP2.0 intézkedési tervében meghatározott feladatok végrehajtásának koordinációjában;
+h)[^11] közreműködik a DJP2.0 végrehajtásában, a DJP2.0 intézkedési tervében meghatározott feladatok végrehajtásának koordinációjában;
 
-i)[^10] ellátja a DJP2.0 intézkedési tervében meghatározott kormányzati stratégiák és szakmai anyagok kidolgozásával kapcsolatos feladatokat, valamint közreműködik a stratégiákban meghatározott feladatok végrehajtásában, különösen az alábbi stratégiák esetében:
+i)[^12] ellátja a DJP2.0 intézkedési tervében meghatározott kormányzati stratégiák és szakmai anyagok kidolgozásával kapcsolatos feladatokat, valamint közreműködik a stratégiákban meghatározott feladatok végrehajtásában, különösen az alábbi stratégiák esetében:
 
 ia) Felsőoktatási intézmények informatikai infrastruktúra-fejlesztési stratégiája;
 
@@ -40,7 +40,7 @@ id) Magyarország 5G Stratégiája;
 
 ie) Digitális Szolgáltatás Kereskedelem-fejlesztési Stratégia;
 
-if)[^11] Magyarország Digitális Agrár Stratégiája és Digitális Élelmiszeripari Stratégiája;
+if)[^13] Magyarország Digitális Agrár Stratégiája és Digitális Élelmiszeripari Stratégiája;
 
 ig) Magyarország Digitális Egészségipar-fejlesztési Stratégiája;
 
@@ -48,9 +48,9 @@ ih) Magyarország Digitális Hálózatkutatási Stratégiája;
 
 ii) Magyarország Digitális Sport Stratégiája;
 
-j)[^12] ellátja a Digitális Jólét Pénzügyi Program keretében megvalósuló pénzügyi konstrukciók végrehajtása során beérkező támogatási igények előzetes vizsgálata keretében az egyes projektjavaslatok DJP stratégiákhoz történő illeszkedésének vizsgálatával összefüggő szakmai feladatokat, együttműködésben a Gazdaságfejlesztési Programok Irányító Hatóságával, valamint a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 24/B. §-a szerint az alapok alapját végrehajtó szervezettel.
+j)[^14] ellátja a Digitális Jólét Pénzügyi Program keretében megvalósuló pénzügyi konstrukciók végrehajtása során beérkező támogatási igények előzetes vizsgálata keretében az egyes projektjavaslatok DJP stratégiákhoz történő illeszkedésének vizsgálatával összefüggő szakmai feladatokat, együttműködésben a Gazdaságfejlesztési Programok Irányító Hatóságával, valamint a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 24/B. §-a szerint az alapok alapját végrehajtó szervezettel.
 
-(2)[^13] A Digitális Jólét Nkft. a 2. § b) pontja alapján közfeladatai körében továbbá
+(2)[^15] A KIFÜ a 2. § b) pontja alapján közfeladatai körében továbbá
 
 a) a Gazdaságfejlesztési és Innovációs Operatív Programmal (a továbbiakban: GINOP) kapcsolatos feladatai keretében közreműködik a „Digitális szakadék csökkentése” című kiemelt projekt végrehajtásában;
 
@@ -86,14 +86,15 @@ jf) részt vesz a GINOP keretében megvalósuló, az „Online kormányzati, kö
 
 jg) a Digitális Jólét Program Mentorok közreműködésével ellátja a Kézai Simon Program végrehajtásával kapcsolatos feladatokat.
 
-(3)[^14] A Digitális Jólét Nkft. az (1) és (2) bekezdésben meghatározott közfeladatait a támogatási jogszabályoknak megfelelő közszolgáltatási vagy támogatási szerződés keretében látja el.
+(3)[^16] A KIFÜ az (1) és (2) bekezdésben meghatározott közfeladatait a támogatási jogszabályoknak megfelelő közszolgáltatási vagy támogatási szerződés keretében látja el.
 
-[^6]: A 4. § (1) bekezdés a) pontja a 27/2020. (II. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^7]: A 4. § (1) bekezdés c) pontja a 27/2020. (II. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^8]: A 4. § (1) bekezdés e) pontja a 163/2018. (IX. 10.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^9]: A 4. § (1) bekezdés h) pontját a 49/2018. (III. 19.) Korm. rendelet 5. §-a iktatta be.
-[^10]: A 4. § (1) bekezdés i) pontját a 49/2018. (III. 19.) Korm. rendelet 5. §-a iktatta be.
-[^11]: A 4. § (1) bekezdés i) pont if) alpontja a 27/2020. (II. 28.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^12]: A 4. § (1) bekezdés j) pontját a 49/2018. (III. 19.) Korm. rendelet 5. §-a iktatta be.
-[^13]: A 4. § (2) bekezdése a 27/2020. (II. 28.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^14]: A 4. § (3) bekezdését a 27/2020. (II. 28.) Korm. rendelet 2. § (5) bekezdése iktatta be.
+[^7]: A 4. § (1) bekezdés nyitó szövegrésze a 104/2023. (III. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdés a) pontja a 27/2020. (II. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^9]: A 4. § (1) bekezdés c) pontja a 27/2020. (II. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^10]: A 4. § (1) bekezdés e) pontja a 163/2018. (IX. 10.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^11]: A 4. § (1) bekezdés h) pontját a 49/2018. (III. 19.) Korm. rendelet 5. §-a iktatta be.
+[^12]: A 4. § (1) bekezdés i) pontját a 49/2018. (III. 19.) Korm. rendelet 5. §-a iktatta be.
+[^13]: A 4. § (1) bekezdés i) pont if) alpontja a 27/2020. (II. 28.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^14]: A 4. § (1) bekezdés j) pontját a 49/2018. (III. 19.) Korm. rendelet 5. §-a iktatta be.
+[^15]: A 4. § (2) bekezdése a 27/2020. (II. 28.) Korm. rendelet 2. § (4) bekezdésével megállapított, nyitó szövegrésze a 104/2023. (III. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^16]: A 4. § (3) bekezdését a 27/2020. (II. 28.) Korm. rendelet 2. § (5) bekezdése iktatta be, szövege a 104/2023. (III. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
