@@ -1,3 +1,5 @@
 ## 6. A hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló 385/2014. (XII. 31.) Korm. rendelet módosítása
 
-6. § A hulladékgazdálkodási közszolgáltatás végzésének feltételeiről szóló 385/2014. (XII. 31.) Korm. rendelet 3/A. § (1) bekezdésében a „hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért felelős miniszter” szövegrész helyébe a „hulladékgazdálkodásért felelős miniszter” szöveg lép.
+6. §[^6]
+
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
