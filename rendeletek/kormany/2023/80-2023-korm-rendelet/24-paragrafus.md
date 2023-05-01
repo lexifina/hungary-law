@@ -1,3 +1,3 @@
-24. §[^23]
+24. §[^22]
 
-[^23]: A 24. § a 36. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^22]: A 24. § a 36. § (3) bekezdés alapján 2023. július 1-jén lép hatályba.
