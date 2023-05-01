@@ -14,7 +14,7 @@ a) az egyetemes szolgáltatók által egyetemes szolgáltatás céljára vásár
 
 b) az egyetemes szolgáltatók által egyetemes szolgáltatás céljára vásárolt villamos energia első negyedévi, első félévi és az első három negyedévi tényleges piaci vásárlási átlagárát, valamint az egyes egyetemes szolgáltatók által vásárolt villamos energia tényleges piaci vásárlási átlagárának ettől való százalékos eltérését a naptári negyedévet követő hónap 30. napjáig
 
-## a honlapján közzéteszi.
+a honlapján közzéteszi.
 
 (6)[^16]
 

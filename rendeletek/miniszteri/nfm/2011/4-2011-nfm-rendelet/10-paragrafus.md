@@ -6,7 +6,7 @@ a) a zónaidőnkénti villamosenergia-fogyasztás mérési feltételeinek meglé
 
 b) az a) pont szerinti feltételek hiányában az „A1” árszabás
 
-## szerint kell elszámolni.
+szerint kell elszámolni.
 
 (2) Ha az idősoros elszámolású közintézmény közszolgáltatás keretében vételez villamos energiát, de igénybejelentésében az e rendelet szerinti árszabások közötti választásra vonatkozóan nem nyilatkozott, akkor a villamosenergia-fogyasztását, az erre vonatkozó nyilatkozatának megtételéig, az „A3” árszabás szerint kell elszámolni.
 
