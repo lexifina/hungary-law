@@ -24,7 +24,7 @@ aa) rét, legelő (gyep), vagy fásított terület művelési ágban nyilvántar
 
 ab) szántó művelési ágban nyilvántartott föld haszonbérbe adása esetén az aa) alpontban fel nem sorolt állatfajok, valamint szarvasmarha vonatkozásában, továbbá engedély vagy bejelentés alapján nyilvántartásba vett takarmány-vállalkozásnak minősül;
 
-b) a szántó, kert, szőlő, gyümölcsös művelési ágban nyilvántartott föld haszonbérbe adása esetén azt a helyben lakó földművest, vagy helybeli illetőségű mezőgazdasági termelőszervezetet, aki vagy amely számára a haszonbérlet célja földrajzi árujelzéssel, továbbá eredetmegjelöléssel ellátott termék előállítása és feldolgozása, vagy ökológiai gazdálkodás folytatása;
+b) a szántó, kert, szőlő, gyümölcsös művelési ágban nyilvántartott föld haszonbérbe adása esetén azt a helyben lakó földművest, vagy helybeli illetőségű mezőgazdasági termelőszervezetet, aki vagy amely számára a haszonbérlet célja oltalom alatt álló földrajzi árujelzővel ellátott termék előállítása vagy ökológiai gazdálkodás folytatása;
 
 c) kert, szőlő, gyümölcsös művelési ágban nyilvántartott föld haszonbérbe adása esetén azt a helyben lakó földművest, vagy helybeli illetőségű mezőgazdasági termelőszervezetet, aki vagy amely számára a haszonbérlet célja kertészeti tevékenység folytatásához szükséges terület biztosítása;
 
