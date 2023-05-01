@@ -1,28 +1,21 @@
-## 22–26. §
-
 ## VIII. Fejezet
 
 ## KÉPESÍTÉST IGAZOLÓ OKIRATOK
 
 ## 16. A képesítési tanúsítvány kiadása és tartalma
 
-27. § (1) Csak azon képesítési kategóriáról adható ki képesítési tanúsítvány a vizsgázó részére, amelynek minden vizsgarészét megfelelt eredménnyel teljesítette a vizsgázó.
+27. §[^30] (1) A megszerzett képesítés a sikeres vizsga napjától számított 5 évig hatályos.
 
-(2) A megszerzett képesítés a képesítési tanúsítvány kiállításától számított 5 évig érvényes.
-
-(3)[^9] A Hatóság a képesítési tanúsítványon feltünteti
+(2) A képesítési tanúsítvány tartalmazza
 
 a) a Hatóság megnevezését,
 
-b) a képesítés birtokosának teljes nevét, születési helyét és idejét, anyja nevét és F-Gáz ügyfél-azonosító számát,
+b) a képesítés jogosultjának nevét, születési helyét és idejét, anyja nevét és F-Gáz ügyfél-azonosító számát,
 
-c) azon képesítési kategóriát és az ahhoz kapcsolódó tevékenységet, amelyek végzésére a képesítés birtokosa jogosult,
+c) azon képesítési kategóriát és az ahhoz kapcsolódó tevékenységet, amelyeket a képesítés jogosultja végezhet,
 
-d) a kiállítás dátumát, az érvényesség lejáratának dátumát és
+d) a képesítés időbeli hatálya lejártának időpontját és
 
-e) a kiadmányozó aláírását és Hatóság bélyegzőlenyomatát.
+e) a kiadmányozó időbélyegzővel ellátott elektronikus aláírását.
 
-(3)[^10] A képesítési tanúsítvány pótlása az 1. mellékletben meghatározott díj megfizetésével kérhető a Hatóságtól.
-
-[^9]: A 17. § (5) bekezdése a 25/2018. (X. 25.) ITM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^10]: A 27. § újabb (3) bekezdését a 25/2018. (X. 25.) ITM rendelet 3. §-a iktatta be.
+[^30]: A 27. § a 4/2023. (III. 31.) EM rendelet 4. §-ával megállapított szöveg.

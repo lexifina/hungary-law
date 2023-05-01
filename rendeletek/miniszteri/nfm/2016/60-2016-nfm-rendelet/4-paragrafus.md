@@ -14,7 +14,7 @@ c) megújító képzésből és
 
 d) szakmai továbbképzésből
 
-## áll.
+áll.
 
 (2) Az (1) bekezdés a)–d) pontjaiban foglalt képzések iskolarendszeren kívüli, térítésköteles hatósági képzések.
 

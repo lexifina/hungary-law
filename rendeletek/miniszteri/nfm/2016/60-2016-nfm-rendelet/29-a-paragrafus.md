@@ -1,1 +1,7 @@
 ## 29. § Ez a rendelet 2017. január 1. napján lép hatályba.
+
+29/A. §[^33] (1) A 2023. április 30. napján érvényes képzési díjat kell megfizetnie annak a természetes személynek, aki 2023. május 1. napjáig képzésre jelentkezett, és a képzési díjat 2023. május 31-ig megfizeti. A képzési díj megfizetésére vonatkozó határidő jogvesztő. A Hatóság hivatalból törli annak a jelentkezését, aki a képzési díjat 2023. május 31. napjáig nem fizeti meg. Aki a képzési díjat 2023. május 31. napjáig megfizette, a képzési díj Adatbázisban történő jóváírását követő 6 hónapon belül választhatja ki az Adatbázisban azt a képzést, amelyen részt kíván venni. A Hatóság 2023. november 30. napját követően, a 19. § (4) bekezdése figyelembevételével, hivatalból törli annak a természetes személynek a képzésre történő jelentkezését, aki 2023. november 30. napjáig nem választott ki képzést az Adatbázisban.
+
+(2) Az a természetes személy, aki 2023. május 1. napjáig képzésre jelentkezett, és 2023. május 1. napjáig a képzési díjat is megfizette, 2023. október 31. napjáig választhatja ki az Adatbázisban azt a képzést, amelyen részt kíván venni. A Hatóság 2023. október 31. napját követően, a 19. § (4) bekezdésében foglaltak figyelembevételével, hivatalból törli annak a képzésre történő jelentkezését, aki 2023. október 31. napjáig nem választott ki képzést az Adatbázisban.
+
+[^33]: A 29/A. §-t a 25/2018. (X. 25.) ITM rendelet 4. §-a iktatta be, szövege a 4/2023. (III. 31.) EM rendelet 6. §-ával megállapított szöveg.

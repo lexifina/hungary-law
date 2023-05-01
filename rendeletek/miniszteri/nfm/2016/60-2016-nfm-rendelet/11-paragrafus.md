@@ -22,7 +22,7 @@ a) megfelelt vagy
 
 b) nem felelt meg
 
-## minősítéssel értékeli.
+minősítéssel értékeli.
 
 (6) A vizsgabizottság a sikeres felkészítő vizsgáról két példányban a klímagáz képzésen való részvételre jogosító okiratot állít ki, amelynek egy példányát a vizsgázónak kell átadni, egy példányát a képző szerv őrzi meg az Adatbázisba történő elektronikus feltöltést követően.
 

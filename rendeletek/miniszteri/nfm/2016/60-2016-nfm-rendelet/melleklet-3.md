@@ -1,6 +1,8 @@
-3. melléklet a 60/2016. (XII. 28.) NFM rendelethez[^16]
+3. melléklet a 60/2016. (XII. 28.) NFM rendelethez[^37]
 
-## A szakmai továbbképzés kreditpontjai
+A szakmai továbbképzés kreditpontjai
+
+## 8K30846M_0
 
 | 1. | A kreditpontokat a következő képlet szerint kell kiszámítani: |
 
@@ -78,4 +80,4 @@
 
 4. Egy kreditpontért a továbbképző szerv által a Hatóság részére fizetendő díj mértéke 7 000 forint.
 
-[^16]: A 3. melléklet a 25/2018. (X. 25.) ITM rendelet 5. §-a, 6. § f)–h) pontja szerint módosított szöveg.
+[^37]: A 3. melléklet a 25/2018. (X. 25.) ITM rendelet 5. §-a, 6. § f)–h) pontja szerint módosított szöveg.
