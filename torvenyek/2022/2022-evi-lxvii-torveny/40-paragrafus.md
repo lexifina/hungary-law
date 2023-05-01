@@ -12,7 +12,7 @@
 
 6.
 
-7.
+7. 18. § (2) bekezdés b) pontjában a „földrajzi árujelzéssel, továbbá eredetmegjelöléssel ellátott termék előállítása és feldolgozása” szövegrész helyébe az „oltalom alatt álló földrajzi jelzéssel vagy eredetmegjelöléssel (a továbbiakban együtt: oltalom alatt álló földrajzi árujelzővel) ellátott termék előállítása” szöveg,
 
 8.
 
@@ -36,7 +36,7 @@
 
 18.
 
-19.
+19. 46. § (3) bekezdés b) pontjában a „földrajzi árujelzéssel, továbbá eredetmegjelöléssel ellátott termék előállítása és feldolgozása,” szövegrész helyébe az „oltalom alatt álló földrajzi árujelzővel ellátott termék előállítása” szöveg,
 
 20.
 
