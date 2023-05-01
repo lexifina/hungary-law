@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-212-00-00
 | 2022-01-01 | 2021. évi CL. törvény | 2013-212-00-00.36 |
 | 2022-07-28 | 2022. évi XXIV. törvény | 2013-212-00-00.37 |
 | 2023-01-01 | 2022. évi LXVII. törvény | 2013-212-00-00.38 |
+| 2023-05-01 | 2022. évi LXVII. törvény | 2013-212-00-00.40 |
