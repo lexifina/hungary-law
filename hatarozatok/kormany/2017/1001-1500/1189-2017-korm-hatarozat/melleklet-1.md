@@ -8,7 +8,7 @@
 
 ## Határidő: folyamatos
 
-## 4. felhívja a miniszterelnöki biztost, hogy a nemzeti fejlesztési miniszterrel együttműködve, a szakmai irányítása alatt álló, a védjegyjogosult Digitális Jólét Nonprofit Kft. útján szervezze meg az Alapcsomaghoz kapcsolódó tájékoztató és szolgáltatási tevékenységet;
+## 4.[^2] felhívja a miniszterelnöki biztost, hogy a nemzeti fejlesztési miniszterrel együttműködve, a szakmai irányítása alatt álló, a védjegyjogosult Kormányzati Informatikai Fejlesztési Ügynökség útján szervezze meg az Alapcsomaghoz kapcsolódó tájékoztató és szolgáltatási tevékenységet;
 
 ## Felelős: a Digitális Jólét Programja összehangolásáért és megvalósításáért felelős miniszterelnöki biztos
 
@@ -16,9 +16,9 @@
 
 ## Határidő: folyamatos
 
-## 5. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon az Alapcsomaggal kapcsolatos feladatok ellátásához szükséges forrás biztosításáról, 2017. évtől kezdődően évi 60,0 millió forint összegben a Digitális Jólét Nonprofit Kft. részére a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléket, XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 34. Infokommunikációs ágazati programok alcím, 2. Nemzeti Infokommunikációs Stratégia (NIS) végrehajtásához kapcsolódó feladatok jogcímcsoport terhére;
+## 5.[^3] felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon az Alapcsomaggal kapcsolatos feladatok ellátásához szükséges forrás biztosításáról, 2017. évtől kezdődően évi 60,0 millió forint összegben a Kormányzati Informatikai Fejlesztési Ügynökség részére a Magyarország 2017. évi központi költségvetéséről szóló 2016. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléket, XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 34. Infokommunikációs ágazati programok alcím, 2. Nemzeti Infokommunikációs Stratégia (NIS) végrehajtásához kapcsolódó feladatok jogcímcsoport terhére;
 
-## 6.[^1]
+## 6.[^4]
 
 ## 7. annak érdekében, hogy az Alapcsomag a kívánt társadalmi és gazdasági célt minél hatékonyabban tudja ellátni, felhívja a miniszterelnöki biztost, hogy
 
@@ -30,7 +30,9 @@
 
 ## Határidő: az a) alpont vonatkozásában első alkalommal 2018. március 31., majd ezt követően minden év március 31., a b) alpont vonatkozásában folyamatos
 
-1. melléklet az 1189/2017. (IV. 10.) Korm. határozathoz[^2]
+1. melléklet az 1189/2017. (IV. 10.) Korm. határozathoz[^5]
 
-[^1]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
-[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 4. pont az 1113/2023. (III. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^3]: Az 5. pont az 1113/2023. (III. 30.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^4]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^5]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
