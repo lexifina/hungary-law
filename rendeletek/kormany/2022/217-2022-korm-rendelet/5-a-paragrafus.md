@@ -1,6 +1,6 @@
 ## 5. § Természetes személy részére lakhatás céljára bérbeadott ingatlan esetén a költségelszámolás során a bérbeadó mint felhasználó a bérlő felé a villamosenergia-költségeket legfeljebb a vonatkozó lakossági egyetemes szolgáltatás szerinti árszabáson számolhatja el.
 
-5/A. §[^7] Az önkormányzati és állami bérlakás természetes személy bérlőjével az önkormányzati és állami bérlakás bérbeadója mint felhasználó a villamos energiát legfeljebb
+5/A. §[^9] Az önkormányzati és állami bérlakás természetes személy bérlőjével az önkormányzati és állami bérlakás bérbeadója mint felhasználó a villamos energiát legfeljebb
 
 a) 2523 kWh/év/mérési pont (felhasználási hely) fogyasztásig a villamos energia egyetemes szolgáltatás árképzéséről szóló miniszteri rendeletben meghatározott áron – azzal, hogy egyzónaidős, több egységárú árszabás esetén alacsonyabb áron – és
 
@@ -8,4 +8,4 @@ b) 2523 kWh/év/mérési pont (felhasználási hely) fogyasztási mérték felet
 
 számolhatja el.
 
-[^7]: Az 5/A. §-t a 67/2023. (III. 8.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^9]: Az 5/A. §-t a 67/2023. (III. 8.) Korm. rendelet 1. § (1) bekezdése iktatta be.

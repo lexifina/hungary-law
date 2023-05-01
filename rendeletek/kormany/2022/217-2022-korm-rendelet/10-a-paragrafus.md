@@ -1,6 +1,6 @@
 ## 10. § Természetes személy részére lakhatás céljára bérbeadott ingatlan esetén a költségelszámolás során a bérbeadó mint felhasználó a bérlő felé a földgáz-költségeket legfeljebb a lakossági egyetemes szolgáltatás szerinti árszabáson számolhatja el.
 
-## 2/A.[^14] Közös szabályok
+## 2/A.[^18] Közös szabályok
 
 10/A. § (1) Ha az egyetemes szolgáltató megállapítja, hogy a felhasználó egyetemes szolgáltatásra nem jogosult, az egyetemes szolgáltató az egyetemes szolgáltató és a felhasználó közötti jogviszony fennállása alatt jogosulatlanul vételezett
 
@@ -12,7 +12,7 @@ számolja el a felhasználóval.
 
 (2) A felhasználó és az egyetemes szolgáltató között fennálló hatályos szerződés – a felek elszámolási kötelezettségének fennmaradása mellett – a jogosultság hiánya miatt azon a napon szűnik meg, amikor a jogosultság hiányát az egyetemes szolgáltató megállapítja. Az egyetemes szolgáltató a felhasználót a szerződés megszűnésének tényéről a megszűnést követő 15 napon belül tájékoztatja.
 
-(3)[^15] Az egyetemes szolgáltató az egyetemes szolgáltatásra való jogosultság hiányának megállapítását megelőzően – kivéve, ha a felhasználó a jogosultság hiányáról már nyilatkozott – a felhasználót legalább 8 napos határidő biztosításával nyilatkozattételre hívja fel a jogosultság fennállására vonatkozóan. Az egyetemes szolgáltató nyilatkozattételi felhívásra bármikor jogosult.
+(3)[^19] Az egyetemes szolgáltató az egyetemes szolgáltatásra való jogosultság hiányának megállapítását megelőzően – kivéve, ha a felhasználó a jogosultság hiányáról már nyilatkozott – a felhasználót legalább 8 napos határidő biztosításával nyilatkozattételre hívja fel a jogosultság fennállására vonatkozóan. Az egyetemes szolgáltató nyilatkozattételi felhívásra bármikor jogosult.
 
 (4) A (3) bekezdés szerinti nyilatkozat az egyetemes szolgáltató által e célra biztosított elektronikus felületen keresztül, a felhasználó e-mail-címének megjelölésével tehető meg, a más módon megtett nyilatkozat érvénytelen.
 
@@ -36,5 +36,5 @@ b) földgázt az adott hónapra vonatkozó átlagos CEEGEX másnapi súlyozott �
 
 (11) Az (1) és (7) bekezdés esetén az euróban megadott árak forintra történő átszámításakor az MNB által megállapított, tárgyhónap utolsó munkanapján érvényes deviza középárfolyamot kell alkalmazni.
 
-[^14]: A 2/A. alcímet (10/A. §-t) a 443/2022. (XI. 7.) Korm. rendelet 1. §-a iktatta be.
-[^15]: A 10/A. § (3) bekezdése a 67/2023. (III. 8.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^18]: A 2/A. alcímet (10/A. §-t) a 443/2022. (XI. 7.) Korm. rendelet 1. §-a iktatta be.
+[^19]: A 10/A. § (3) bekezdése a 67/2023. (III. 8.) Korm. rendelet 2. §-a szerint módosított szöveg.
