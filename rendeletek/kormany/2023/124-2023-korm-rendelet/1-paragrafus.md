@@ -1,5 +1,3 @@
-1. § A teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló 83/2010. (III. 25.) Korm. rendelet 7. §-a a következő (2) és (3) bekezdéssel egészül ki:
+1. §[^2]
 
-„(2) Ha a hitelező a jelzáloghitel fedezetéül szolgáló ingatlanra vonatkozó vagyonbiztosítási szerződést ír elő, de annak díját nem ismeri, akkor az Fhtv. 17/A. § (1) bekezdése alkalmazásában a teljes hiteldíj mutató meghatározásakor a vagyonbiztosítás havonta esedékes díját a (3) bekezdésben meghatározottak szerint állapítja meg.
-
-(3) A hitelező félévente aktualizált belső szabályzatban meghatározott módon, a jelzáloghitelek fedezetéül szolgáló ingatlanok hitelbiztosítéki értékéhez igazodóan legalább három jellemzőnek tekinthető értéksáv megadásával határozza meg a referenciaként figyelembe vett vagyonbiztosítás havonta esedékes azon díját, amellyel az Fhtv. 17/A. § (1) bekezdése alkalmazásában számol. A hitelező a jellemzőnek tekintett értéksávokhoz rendelt referenciaként figyelembe vett díjakhoz történő hozzáférést az ügyfélfogadásra nyitva álló helyiségében, valamint ha rendelkezik internetes honlappal, akkor az internetes honlapján biztosítja.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
