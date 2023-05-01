@@ -26,6 +26,6 @@ d) a helyi partnerségi egyeztetés lezárásának a módját.
 
 (4) A közös tervezésben készülő településterv, kézikönyv és településképi rendelet helyi partnerségi egyeztetését a települési önkormányzatok polgármesterei külön-külön végzik.
 
-(5)[^31] A partnerségi egyeztetés során érkezett észrevételeket az önkormányzat feltölti az E-TÉR által biztosított digitális egyeztetőfelületre.
+(5)[^37] A partnerségi egyeztetés során érkezett észrevételeket az önkormányzat feltölti az E-TÉR által biztosított digitális egyeztetőfelületre.
 
-[^31]: A 75. § (5) bekezdése a 10/2023. (I. 19.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^37]: A 75. § (5) bekezdése a 10/2023. (I. 19.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.

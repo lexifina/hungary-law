@@ -16,7 +16,7 @@ c) 10 napon belül – a hiányok pontos megnevezésével – hiánypótlásra s
 
 (5) Az egyeztető tárgyalásról jegyzőkönyv készül, amely a településterv elfogadására alkalmassá tételéhez tartalmazza a felmerült valamennyi véleményeltéréssel kapcsolatos döntést és valamennyi szükséges feltételt. Az állami főépítész a jegyzőkönyvet az egyeztető tárgyalást követően 3 napon belül feltölti az E-TÉR-be.
 
-(6) A (2) bekezdés b) pontja szerinti egyeztető tárgyalást követően a jegyzőkönyvben rögzített módosításokat és a (2) bekezdés c) pontja szerinti hiánypótlási felhívásban foglaltakat a tervező 10 napon belül a dokumentumokban átvezeti, és a módosított tervezetet feltölti az E-TÉR-be.
+(6)[^31] A (2) bekezdés b) pontja szerinti egyeztető tárgyalást követően a jegyzőkönyvben rögzített módosításokat, illetve a (2) bekezdés c) pontja szerinti hiánypótlási felhívásban foglaltakat a polgármester vagy a polgármester nevében eljáró tervező a szükséges átdolgozás után, de legkésőbb az egyeztető tárgyalásról készült jegyzőkönyv feltöltését követő 20 napon belül a dokumentumokban átvezeti, és a módosított tervezetet feltölti az E-TÉR-be. Az állami főépítész további egyeztetés szükségessége esetén a 20 napos határidőt legfeljebb 20 nappal meghosszabbíthatja.
 
 (7) Az állami főépítész – a (8) bekezdésben foglalt eset kivételével –
 
@@ -29,3 +29,5 @@ b) abban az esetben, ha a (6) bekezdésben meghatározott feltöltés határidő
 (9) Az önkormányzat a településterv elfogadásáról a záró szakmai vélemény ismeretében dönt.
 
 (10) A záró szakmai vélemény 6 hónapig érvényes.
+
+[^31]: A 67. § (6) bekezdése a 10/2023. (I. 19.) Korm. rendelet 5. §-ával megállapított szöveg.

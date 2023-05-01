@@ -2,12 +2,12 @@
 
 ## 79. § Hatályát veszti
 
-a)[^44]
+a)[^50]
 
-b)[^45]
+b)[^51]
 
-c)[^46]
+c)[^52]
 
-[^44]: A 79. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^45]: A 79. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^46]: A 79. § c) pontja a 77. § (3) bekezdése alapján 2027. július 1-jén lép hatályba.
+[^50]: A 79. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 79. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 79. § c) pontja a 77. § (3) bekezdése alapján 2027. július 1-jén lép hatályba.
