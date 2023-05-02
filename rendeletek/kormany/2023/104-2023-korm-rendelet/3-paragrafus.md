@@ -1,3 +1,3 @@
-## „b) a Kormányzati Informatikai Fejlesztési Ügynökség (a továbbiakban: KIFÜ),”
+3. §[^4]
 
-3. § Az R. 4. § (1) bekezdés nyitó szövegrészében, 4. § (2) és (3) bekezdésében a „Digitális Jólét Nkft.” szövegrész helyébe a „KIFÜ” szöveg lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

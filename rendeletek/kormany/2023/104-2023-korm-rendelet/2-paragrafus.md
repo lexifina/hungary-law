@@ -1,3 +1,3 @@
-2. § A Digitális Jólét Program végrehajtásával összefüggő egyes feladatokról, valamint a Kormányzati Informatikai Fejlesztési Ügynökségről szóló 268/2010. (XII. 3.) Korm. rendelet módosításáról szóló 127/2017. (VI. 8.) Korm. rendelet (a továbbiakban: R.) 2. § b) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-(A DJP végrehajtásában részt vesz)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
