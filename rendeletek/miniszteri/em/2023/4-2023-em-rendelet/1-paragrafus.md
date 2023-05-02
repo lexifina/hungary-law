@@ -1,3 +1,3 @@
-1. § A fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységeket végzők képesítésére vonatkozó szabályokról szóló 60/2016. (XII. 28.) NFM rendelet (a továbbiakban: 60/2016. NFM rendelet) 12. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(A klímagáz tanfolyam)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

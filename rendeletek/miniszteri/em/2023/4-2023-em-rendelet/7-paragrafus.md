@@ -1,3 +1,3 @@
-7. § (1) A 60/2016. NFM rendelet 1. melléklete helyébe az 1. melléklet lép.
+7. §[^8]
 
-(2) A 60/2016. NFM rendelet 2. melléklete a 2. melléklet szerint módosul.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

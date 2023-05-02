@@ -1,7 +1,3 @@
-## lép.
+9. §[^10]
 
-9. § Hatályát veszti a 60/2016. NFM rendelet
-
-a) 14. § (8) bekezdése,
-
-b) 15. § (2) bekezdése.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
