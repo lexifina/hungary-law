@@ -1,3 +1,3 @@
-5. § Az R. 67. § (6) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(6) A (2) bekezdés b) pontja szerinti egyeztető tárgyalást követően a jegyzőkönyvben rögzített módosításokat, illetve a (2) bekezdés c) pontja szerinti hiánypótlási felhívásban foglaltakat a polgármester vagy a polgármester nevében eljáró tervező a szükséges átdolgozás után, de legkésőbb az egyeztető tárgyalásról készült jegyzőkönyv feltöltését követő 20 napon belül a dokumentumokban átvezeti, és a módosított tervezetet feltölti az E-TÉR-be. Az állami főépítész további egyeztetés szükségessége esetén a 20 napos határidőt legfeljebb 20 nappal meghosszabbíthatja.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
