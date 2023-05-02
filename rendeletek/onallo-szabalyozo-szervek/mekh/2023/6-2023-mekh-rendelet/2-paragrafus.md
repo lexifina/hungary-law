@@ -1,1 +1,3 @@
-2. § Hatályát veszti az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet szerint egyetemes szolgáltatás keretében vételezett villamos energia lakossági piaci árának meghatározásáról szóló 20/2022. (XII. 21.) MEKH rendelet 2. §-ában az „– a veszélyhelyzeti átmeneti villamosenergia-ellátás biztosításáról és egyetemes szolgáltatási árszabások meghatározásával kapcsolatos szabályokról szóló 520/2022. (XII. 13.) Korm. rendeletre figyelemmel – a 2023. január 1. és 2023. április 30. közötti időszakra vonatkozóan” szövegrész.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
