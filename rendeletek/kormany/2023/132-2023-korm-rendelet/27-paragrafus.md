@@ -1,0 +1,3 @@
+27. § A köztulajdonban álló gazdasági társaságok belső kontrollrendszeréről szóló 339/2019. (XII. 23.) Korm. rendelet 22. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Ha az érintett a megállapításokat vitatja, bármelyik fél kezdeményezésére egyeztető megbeszélést kell tartani. Az egyeztető megbeszélésről jegyzőkönyv készül, amely tartalmazza a megbeszélés eredményét. Ha az egyeztetések ellenére véleménykülönbség marad fenn a belső ellenőrzés és az ellenőrzött fél között, úgy az ellenőrzött szervezeti egység vezetőjének különvéleményét a belső ellenőrzés megjeleníti a belső ellenőrzési jelentésben. Az érintettek észrevételeit, illetve a belső ellenőrzési vezető válaszát csatolni kell az ellenőrzés dokumentációjához.”

@@ -1,0 +1,5 @@
+8. § A költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 31. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+
+„(1a) Az év közben újonnan létrejött vagy az Áht. 11. §-a szerint átalakult költségvetési szerv esetében a tárgyévre vonatkozó éves ellenőrzési tervet a költségvetési szerv létrejöttét vagy átalakulását követő kilencven napon belül kell elkészíteni vagy módosítani. A tárgyév szeptember 1-jét követően létrejött vagy átalakult költségvetési szerv esetében tárgyévre vonatkozó éves ellenőrzési tervet nem kell készíteni.
+
+(1b) Ha az év közben újonnan létrejött vagy az Áht. 11. §-a szerint átalakult költségvetési szerv olyan időpontban jön létre, vagy alakul át, ami miatt a következő évre vonatkozó éves ellenőrzési tervét a 32. §-ban meghatározott határidőben nem tudja teljesíteni, úgy a következő évre vonatkozó ellenőrzési tervet a költségvetési szerv létrejöttét vagy átalakulását követő kilencven napon belül kell elkészíteni vagy módosítani.”
