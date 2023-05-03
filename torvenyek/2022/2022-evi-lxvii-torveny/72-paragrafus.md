@@ -1,1 +1,0 @@
-72. § A 9. és a 10. §, a 12–14. §, a 16. § az Alaptörvény 38. cikk (1) bekezdése alapján, az 5. alcím, a 41. §, a 46. §, az 53. §, az 59. § (1) bekezdése, a 65. § (1) bekezdése, 67. § a)–e) pontja és a 69. § az Alaptörvény P) cikk (2) bekezdése alapján sarkalatosnak minősül.
