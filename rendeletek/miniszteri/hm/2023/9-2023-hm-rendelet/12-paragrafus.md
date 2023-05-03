@@ -1,0 +1,1 @@
+12. § A miniszter által a sport területén adományozható elismerések adományozására e rendelet hatálybalépését megelőzően a 2023. évi Magyar Sport Napja alkalmából benyújtott kezdeményezéseket e rendelettel alapított díjra történő kezdeményezésnek kell tekinteni, és ekként kell elbírálni.
