@@ -16,4 +16,10 @@ ba) a belső kontrollrendszer szabályszerűségének, gazdaságosságának, hat
 
 bb) a belső kontrollrendszer öt elemének értékelése;
 
-c) az intézkedési tervek megvalósítása.
+c)[^105] az intézkedési tervek megvalósítását
+
+ca) a 14. § (1) és (2) bekezdése alapján és
+
+cb) a 47. § (1) és (2) bekezdésében meghatározott nyilvántartás szerint.
+
+[^105]: A 48. § c) pontja a 132/2023. (IV. 18.) Korm. rendelet 12. §-ával megállapított szöveg.

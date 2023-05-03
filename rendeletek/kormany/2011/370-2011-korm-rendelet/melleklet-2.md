@@ -1,63 +1,83 @@
 ## NYILATKOZAT
 
-## A) Alulírott ................................................., a .......................................................................... költségvetési szerv vezetője jogi felelősségem tudatában kijelentem, hogy az előírásoknak megfelelően ........................... évben/időszakban az általam vezetett költségvetési szervnél gondoskodtam
+## A) Alulírott, ……………………………………………, a(z) ……………………………………………… költségvetési szerv vezetője jogi felelősségem tudatában kijelentem, hogy az előírásoknak megfelelően ……… évben/időszakban az általam vezetett költségvetési szervnél gondoskodtam
 
-## – a belső kontrollrendszer kialakításáról, valamint szabályszerű, eredményes, gazdaságos és hatékony működéséről,
+## 1. a belső kontrollrendszer kialakításáról, valamint szabályszerű, eredményes, gazdaságos és hatékony működéséről,
 
-## – olyan szervezeti kultúra kialakításáról, amely biztosítja az elkötelezettséget a szervezeti célok és értékek iránt, valamint alkalmas az integritás érvényesítésének biztosítására,
+## 2. olyan szervezeti kultúra kialakításáról, amely biztosítja az elkötelezettséget a szervezeti célok és értékek iránt, valamint alkalmas az integritás érvényesítésének biztosítására,
 
-## – a költségvetési szerv vagyonkezelésébe, használatába adott vagyon rendeltetésszerű használatáról, az alapító okiratban megjelölt tevékenységek jogszabályban meghatározott követelményeknek megfelelő ellátásáról,
+## 3. a költségvetési szerv vagyonkezelésébe, használatába adott vagyon rendeltetésszerű használatáról, az alapító okiratban megjelölt tevékenységek jogszabályban meghatározott követelményeknek megfelelő ellátásáról,
 
-## – a rendelkezésre álló előirányzatok célnak megfelelő felhasználásáról,
+## 4. a rendelkezésre álló előirányzatok célnak megfelelő felhasználásáról,
 
-## – a költségvetési szerv tevékenységében a hatékonyság, eredményesség és a gazdaságosság követelményeinek érvényesítéséről,
+## 5. a költségvetési szerv tevékenységében a hatékonyság, eredményesség és a gazdaságosság követelményeinek érvényesítéséről,
 
-## – a tervezési, beszámolási, információszolgáltatási kötelezettségek teljesítéséről, azok teljességéről és hitelességéről,
+## 6. a tervezési, beszámolási, információszolgáltatási kötelezettségek teljesítéséről, azok teljességéről és hitelességéről,
 
-## – a gazdálkodási lehetőségek és a kötelezettségek összhangjáról,
+## 7. a gazdálkodási lehetőségek és a kötelezettségek összhangjáról,
 
-## – az intézményi számviteli rendről,
+## 8. az intézményi számviteli rendről,
 
-## – olyan rendszer bevezetéséről, amely megfelelő bizonyosságot nyújt az eljárások jogszerűségére és szabályszerűségére vonatkozóan, biztosítja az elszámoltathatóságot, továbbá megfelel a hazai és közösségi szabályoknak,
+## 9. olyan rendszer bevezetéséről, amely megfelelő bizonyosságot nyújt az eljárások jogszerűségére és szabályszerűségére vonatkozóan, biztosítja az elszámoltathatóságot, továbbá megfelel a hazai és közösségi szabályoknak,
 
-## – arról, hogy a vezetők a szervezet minden szintjén tisztában legyenek a kitűzött célokkal és az azok elérését segítő eszközökkel annak érdekében, hogy végre tudják hajtani a meghatározott feladatokat és értékelni tudják az elért eredményeket. E tevékenységről a vezetői beszámoltatás rendszerén keresztül folyamatos információval rendelkeztem, a tevékenységet folyamatosan értékeltem.
+## 10. olyan szabályzatok kiadásáról, valamint a szervezeten belül olyan folyamatok kialakításáról, amelyek biztosítják a rendelkezésre álló források eredményes felhasználását,
 
-## A vonatkozó jogszabályok belső kontrollrendszerre vonatkozó előírásainak az alábbiak szerint tettem eleget:
+## 11. – a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 8. § (2) bekezdés b) pontjában előírtak szerint – a kontrolltevékenység részeként minden tevékenységre vonatkozóan a szervezeti célok elérését veszélyeztető kockázatok csökkentésére irányuló kontrollok kiépítéséről a döntések eredményességi szempontú megalapozottsága vonatkozásában,
 
-## Kontrollkörnyezet:
+## 12. arról, hogy a vezetők a szervezet minden szintjén tisztában legyenek a kitűzött célokkal és az azok elérését segítő eszközökkel, annak érdekében, hogy végre tudják hajtani a meghatározott feladatokat, és értékelni tudják az elért eredményeket; e tevékenységről a vezetői beszámoltatás rendszerén keresztül folyamatos információval rendelkeztem, a tevékenységet folyamatosan értékeltem.
 
-## Integrált kockázatkezelési rendszer:
+## A vonatkozó jogszabályok belső kontrollrendszerre vonatkozó előírásainak az általam vezetett költségvetési szervnél történő érvényesülését az alábbiak szerint értékelem:
 
-## Kontrolltevékenységek:
+## a) Kontrollkörnyezet:
 
-## Információs és kommunikációs rendszer:
+## b) Integrált kockázatkezelési rendszer:
 
-## Nyomon követési rendszer (monitoring):
+## c) Kontrolltevékenységek:
 
-## Kijelentem, hogy a benyújtott beszámolók a jogszabályi előírások szerint a valóságnak megfelelően, átláthatóan, teljes körűen és pontosan tükrözik a szóban forgó pénzügyi évre vonatkozó kiadásokat és bevételeket.
+## d) Információs és kommunikációs rendszer:
 
-## Az általam vezetett költségvetési szerv gazdasági vezetője eleget tett tárgyévben esedékes továbbképzési kötelezettségének a belső kontrollok témakörében:
+## e) Nyomonkövetési rendszer (monitoring):
 
-## igen-nem
+## Kijelentem, hogy a benyújtott beszámolók a jogszabályi előírások szerint a valóságnak megfelelően, átláthatóan, teljeskörűen és pontosan tükrözik a szóban forgó pénzügyi évre vonatkozó kiadásokat és bevételeket.
 
-## Kelt: ..................................
+## B1) Nyilatkozom, hogy 20… évben részt vettem a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 12. § (1) bekezdésében előírt továbbképzésen.
+
+## vagy
+
+## B2) Nyilatkozom, hogy 20… évben az általam írásban kijelölt személy (név, beosztás, munkakör) vett részt a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 12. § (2) bekezdésében előírt továbbképzésen.
+
+## vagy
+
+## B3) Nyilatkozom, hogy 20… évben nem voltam képzésre kötelezett a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 12. § (1) bekezdésében előírtak alapján.
+
+## C1) Nyilatkozom, hogy 20… évben az általam vezetett költségvetési szerv gazdasági vezetője (név, beosztás, munkakör) részt vett a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 12. § (2) bekezdésében előírt továbbképzésen.
+
+## vagy
+
+## C2) Nyilatkozom, hogy 20… évben az általam vezetett költségvetési szerv gazdasági vezetője (név, beosztás, munkakör) nem volt képzésre kötelezett a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 12. § (2) bekezdésében előírtak alapján.
+
+## vagy
+
+## C3) Nyilatkozom, hogy az általam vezetett költségvetési szerv gazdasági szervezettel nem rendelkezik.
+
+## Kelt: ……………………………………………
 
 ## P. H.
 
-## .................................................
+## ……………………………………………
 
 ## aláírás
 
-## B) Az A) pontban meghatározott nyilatkozatot az alábbiak miatt nem áll módomban megtenni:
+## D) Az A) pontban meghatározott nyilatkozatot az alábbiak miatt nem áll módomban megtenni:
 
-## Kelt: ..................................
+## Kelt: ……………………………………………
 
 ## P. H.
 
-## .................................................
+## ……………………………………………
 
 ## aláírás
 
-2. melléklet a 370/2011. (XII. 31.) Korm. rendelethez[^131]
+2. melléklet a 370/2011. (XII. 31.) Korm. rendelethez[^144]
 
-[^131]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^144]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

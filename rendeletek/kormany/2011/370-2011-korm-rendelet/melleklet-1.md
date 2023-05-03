@@ -1,6 +1,6 @@
-## 64. §[^129] E rendeletnek az egyes kormányrendeleteknek az államháztartási kontrollokkal összefüggő módosításáról szóló 342/2019. (XII. 23.) Korm. rendelettel megállapított 1. § (2) bekezdés d) pontját 2020. július 1-jétől kell alkalmazni.
+## 64. §[^142] E rendeletnek az egyes kormányrendeleteknek az államháztartási kontrollokkal összefüggő módosításáról szóló 342/2019. (XII. 23.) Korm. rendelettel megállapított 1. § (2) bekezdés d) pontját 2020. július 1-jétől kell alkalmazni.
 
-1. melléklet a 370/2011. (XII. 31.) Korm. rendelethez[^130]
+1. melléklet a 370/2011. (XII. 31.) Korm. rendelethez[^143]
 
-[^129]: A 64. §-t a 342/2019. (XII. 23.) Korm. rendelet 17. §-a iktatta be.
-[^130]: Az 1. melléklet a 187/2016. (VII. 13.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^142]: A 64. §-t a 342/2019. (XII. 23.) Korm. rendelet 17. §-a iktatta be.
+[^143]: Az 1. melléklet a 132/2023. (IV. 18.) Korm. rendelet 17. §-ával megállapított szöveg.

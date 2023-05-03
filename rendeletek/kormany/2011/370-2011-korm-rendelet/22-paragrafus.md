@@ -10,7 +10,7 @@ c) a belső ellenőrzési tevékenység megszervezése, az ellenőrzések végre
 
 d) az ellenőrzések összehangolása;
 
-e)[^58] ha az ellenőrzés során büntető-, szabálysértési, kártérítési, illetve fegyelmi eljárás megindítására okot adó cselekmény, mulasztás vagy hiányosság gyanúja merül fel, a költségvetési szerv vezetőjének, illetve a költségvetési szerv vezetőjének érintettsége esetén az irányító szerv vezetőjének a haladéktalan tájékoztatása és javaslattétel a megfelelő eljárások megindítására;
+e)[^56] ha az ellenőrzés során büntető-, szabálysértési, kártérítési, illetve fegyelmi eljárás megindítására okot adó cselekmény, mulasztás vagy hiányosság gyanúja merül fel, a költségvetési szerv vezetőjének, illetve a költségvetési szerv vezetőjének érintettsége esetén az irányító szerv vezetőjének a haladéktalan tájékoztatása és javaslattétel a megfelelő eljárások megindítására;
 
 f) a lezárt ellenőrzési jelentés, illetve annak kivonatának a költségvetési szerv vezetője számára történő megküldése a 43. § (4) bekezdésének megfelelően;
 
@@ -34,4 +34,4 @@ f) a belső ellenőrzési tevékenység során kezelt adatokat illetően betarta
 
 (4) Fejezetet irányító szerv esetén a belső ellenőrzési vezető felel a 21. § (5) bekezdésében foglaltak végrehajtásáért.
 
-[^58]: A 22. § (1) bekezdés e) pontja a 465/2015. (XII. 29.) Korm. rendelet 34. § 4. pontja szerint módosított szöveg.
+[^56]: A 22. § (1) bekezdés e) pontja a 465/2015. (XII. 29.) Korm. rendelet 34. § 4. pontja szerint módosított szöveg.

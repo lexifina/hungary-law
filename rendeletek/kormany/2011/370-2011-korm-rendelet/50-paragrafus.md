@@ -2,18 +2,22 @@
 
 50. § (1) A belső ellenőrzési vezető köteles nyilvántartást vezetni az elvégzett belső ellenőrzésekről és gondoskodni az ellenőrzési dokumentumok megőrzéséről.
 
-(2) A nyilvántartás tartalmazza:
+(2)[^112] A nyilvántartás tartalmazza
 
-a) az ellenőrzés azonosítóját;
+a) az ellenőrzés azonosítóját,
 
-b) az ellenőrzött szerv, illetve szervezeti egységek megnevezését;
+b) az ellenőrzött szerv, illetve szervezeti egységek megnevezését,
 
-c) az ellenőrzés tárgyát;
+c) az ellenőrzés típusát,
 
-d) az ellenőrzés kezdetének és lezárásának időpontját;
+d) az ellenőrzés tárgyát,
 
-e) az ellenőrzés lefolytatásában részt vett vizsgálatvezető, a belső ellenőr és a szakértő nevét;
+e) az ellenőrzés kezdetének és lezárásának időpontját,
 
-f) a vizsgált időszakot;
+f) az ellenőrzés lefolytatásában részt vett vizsgálatvezető, a belső ellenőr és a szakértő nevét,
 
-g) az intézkedési terv készítésének szükségességét.
+g) a vizsgált időszakot és
+
+h) az intézkedési terv készítésének szükségességét.
+
+[^112]: Az 50. § (2) bekezdése a 132/2023. (IV. 18.) Korm. rendelet 14. §-ával megállapított szöveg.
