@@ -1,0 +1,1 @@
+3. § E rendelet a mérőműszerek forgalmazására vonatkozó tagállami jogszabályok harmonizálásáról szóló, 2014. február 26-i 2014/32/EU európai parlamenti és tanácsi irányelv 42. cikk (5) bekezdésének való megfelelést szolgálja.
