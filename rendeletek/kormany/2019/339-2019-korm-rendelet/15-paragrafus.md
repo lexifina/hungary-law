@@ -1,6 +1,6 @@
 15. § (1) A belső ellenőrzési vezető feladata
 
-a) a belső ellenőrzési alapszabály és a belső ellenőrzési kézikönyv elkészítése,
+a)[^15] a belső ellenőrzési alapszabály és a belső ellenőrzési kézikönyv elkészítése és rendszeres, de legalább kétévenkénti felülvizsgálata,
 
 b) a kockázatelemzéssel alátámasztott stratégiai és éves ellenőrzési tervek összeállítása, a felügyelőbizottság jóváhagyása után a tervek végrehajtása, valamint azok megvalósításának nyomon követése,
 
@@ -27,3 +27,5 @@ d) tájékoztatja a felügyelőbizottságot és a köztulajdonban álló gazdas�
 e) kialakítja és működteti a belső ellenőrzési jelentések alapján készített intézkedési tervek nyilvántartását,
 
 f) gondoskodik arról, hogy a belső ellenőrzést végzők tevékenységüket a belső ellenőrzési tevékenység során kezelt adatokat illetően az adatvédelmi és minősített adatok védelmére vonatkozó előírások figyelembevételével végezzék.
+
+[^15]: A 15. § (1) bekezdés a) pontja a 132/2023. (IV. 18.) Korm. rendelet 24. §-ával megállapított szöveg.

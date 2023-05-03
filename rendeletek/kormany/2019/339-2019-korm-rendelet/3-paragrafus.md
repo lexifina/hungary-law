@@ -12,7 +12,7 @@ d) információs és kommunikációs rendszer, és
 
 e) nyomon követési rendszer (monitoring)
 
-## kialakításáért, működtetéséért és fejlesztéséért.
+kialakításáért, működtetéséért és fejlesztéséért.
 
 (2) A belső kontrollrendszer kialakítása és fejlesztése során a köztulajdonban álló gazdasági társaság első számú vezetője figyelembe veszi a társaság legfőbb szerve, a tulajdonosi joggyakorló, a felügyelőbizottság, valamint a külső ellenőrzés és a belső ellenőrzés által a nemzetközi és hazai standardok és jó gyakorlatok ismeretében megfogalmazott ajánlásokat és javaslatokat.
 

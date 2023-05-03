@@ -12,6 +12,6 @@ c) a döntések szabályszerűségi szempontból történő jóváhagyása, elle
 
 d) a gazdasági eseményekhez kapcsolódó elszámolások
 
-## vonatkozásában.
+vonatkozásában.
 
 (3) A (2) bekezdés a), c) és d) pontjában meghatározott tevékenységek feladatköri elkülönítését biztosítani kell.

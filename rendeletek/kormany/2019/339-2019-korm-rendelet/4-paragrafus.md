@@ -26,7 +26,7 @@ d) a megfelelést támogató szervezeti egység vagy megfelelési tanácsadó r�
 
 e) a köztulajdonban álló gazdasági társaság működése során észlelt jogszabálysértések megszüntetésének szervezeti szintű biztosítása.
 
-(3) A köztulajdonban álló gazdasági társaság első számú vezetője olyan stratégiát határoz meg, olyan szabályzatokat ad ki, valamint olyan folyamatokat alakít ki és működtet, amelyek biztosítják a köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 7/J. § (3) bekezdésében meghatározott követelmények teljesülését.
+(3)[^4] A köztulajdonban álló gazdasági társaság első számú vezetője olyan stratégiát határoz meg, olyan szabályzatokat ad ki, valamint olyan folyamatokat alakít ki és működtet, amelyek biztosítják a Takarékos tv. 7/J. § (3) bekezdésében meghatározott követelmények teljesülését.
 
 (4) A köztulajdonban álló gazdasági társaság első számú vezetője teljesítménymérési rendszert alakít ki és működtet a gazdasági társaság tevékenységére vonatkozóan.
 
@@ -49,3 +49,5 @@ f) az alkalmazható jogkövetkezményeket,
 g) a bejelentő védelmére, a vizsgálat eredményéről való tájékoztatásra, valamint a bejelentésből eredő szakmai következtetések hasznosítására vonatkozó szabályokat.
 
 (7) A köztulajdonban álló gazdasági társaság első számú vezetője olyan belső kontrollrendszert alakít ki, amely minden tevékenységi kör esetében alkalmas az etikai értékek és az integritás érvényesítésének biztosítására, valamint a korrupció és a visszaélés hatékony megelőzésére.
+
+[^4]: A 4. § (3) bekezdése a 132/2023. (IV. 18.) Korm. rendelet 30. § 2. pontja szerint módosított szöveg.
