@@ -10,10 +10,15 @@
 
 (5) A piacfelügyeleti hatóság a (4) bekezdésben foglalt intézkedéséről haladéktalanul tájékoztatja az Európai Bizottságot és a többi tagállamot.
 
-(6) Az (5) bekezdés szerinti tájékoztatásban a piacfelügyeleti hatóság megadja az összes rendelkezésre álló adatot, különösen a nem megfelelő mérőműszer azonosításához szükséges adatokat, a mérőműszer származási helyét, a megfelelés feltételezett hiányának és a felmerülő kockázatnak a jellegét, a meghozott piacfelügyeleti intézkedés jellegét és időtartamát, valamint az érintett gazdasági szereplő által felhozott szempontokat.
+(6)[^29] Az (5) bekezdés szerinti tájékoztatásban a piacfelügyeleti hatóság megadja az összes rendelkezésre álló adatot, különösen a nem megfelelő mérőműszer azonosításához szükséges adatokat, a mérőműszer származási helyét, a megfelelés feltételezett hiányának és a felmerülő kockázatnak a jellegét, a meghozott piacfelügyeleti intézkedés jellegét és időtartamát, valamint az érintett gazdasági szereplő által felhozott érveket. A piacfelügyeleti hatóság a tájékoztatásában jelzi, ha a megfelelés hiánya a következő okok valamelyike miatt következett be:
+
+a) a mérőműszer nem felel meg az előírt követelményeknek, vagy
+
+b) a megfelelőség vélelmezését megalapozó, az R8.-ban meghatározott harmonizált szabványok vagy a mérőeszközökről és azok mérésügyi ellenőrzéséről szóló 6/2001. (III. 19.) GM rendelet 3. §-ában meghatározott egyéb normatív dokumentumok hiányosságai.
 
 (7) Ha a (4) bekezdésében rögzített eljárás befejezését követően kifogást emelnek a piacfelügyeleti hatóság valamelyik intézkedésével szemben, vagy ha az Európai Bizottság úgy ítéli meg, hogy a nemzeti intézkedés ellentétes az uniós jogi aktusokkal, a piacfelügyeleti hatóság intézkedik az indokolatlan intézkedés visszavonásáról.
 
 (8) Ha a nemzeti intézkedés az Európai Bizottság döntése alapján indokolt, akkor a piacfelügyeleti hatóság meghozza a szükséges intézkedéseket, hogy a nem megfelelő mérőműszert kivonja a forgalomból és erről tájékoztatja az Európai Bizottságot.
 
 [^28]: A 4/I. alcímet (6/P–6/Q. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^29]: A 6/P. § (6) bekezdése a 134/2023. (IV. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
