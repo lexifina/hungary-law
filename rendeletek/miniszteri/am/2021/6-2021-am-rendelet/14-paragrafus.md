@@ -1,7 +1,3 @@
-14. § (1) Környezetünkért Díj adományozható a környezetvédelem érdekében kiemelkedő tevékenységet folytató személyek és szervezetek elismerésére.
+14. §[^5]
 
-(2) A díj átadására a Környezetvédelmi Világnap (június 5.) alkalmából kerül sor.
-
-(3) Évente legfeljebb öt díj adományozható.
-
-(4) Az elismerésben részesített emlékérmet, valamint az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, anyaga bronz, átmérője 115 mm. Az egyik oldalán jelképes értelmű, a levegő, a víz és a talaj tisztaságára utaló tájszerű ábrázolás, középen a „KÖRNYEZETÜNKÉRT” felirat, a másik oldalán repedezett földből sarjadó növénykezdemény látható.
+[^5]: A 14. §-t a 6/2023. (V. 3.) EM rendelet 24. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 21. §-át.

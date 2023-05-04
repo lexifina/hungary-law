@@ -1,7 +1,3 @@
-29. § (1) Pro Meteorológia Emlékplakett adományozható kiemelkedő meteorológusi tevékenységet folytató személyek elismerésére.
+29. §[^8]
 
-(2) Az emlékplakett átadására a Meteorológiai Világnap (március 23.) alkalmából kerül sor.
-
-(3) Évente legfeljebb négy emlékplakett adományozható.
-
-(4) Az elismerésben részesített emlékplakettet, valamint az adományozást igazoló oklevelet kap. Az emlékplakett anyaga bronz, 110 mm oldalhosszúságú négyzet, lekerekített sarkokkal. Az egyik oldalán stilizált felhő, szivárvány, alatta fák, bokrok ábrázolása látható, hátoldala sima.
+[^8]: A 29. §-t a 6/2023. (V. 3.) EM rendelet 24. § f) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 21. §-át.

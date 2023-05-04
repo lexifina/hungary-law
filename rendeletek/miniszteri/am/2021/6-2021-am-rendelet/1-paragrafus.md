@@ -22,7 +22,7 @@ a) Szakmai díj:
 
 7. Kovács Béla Díj,
 
-8. Környezetünkért Díj,
+8.[^1]
 
 9. Magyar Vidékért Díj,
 
@@ -38,7 +38,7 @@ a) Szakmai díj:
 
 15. Pro Silva Hungariae Díj,
 
-16. Schenzl Guidó Díj,
+16.[^2]
 
 17. Tessedik Sámuel Díj,
 
@@ -52,9 +52,9 @@ b) Emlékplakett:
 
 ba) Életfa Emlékplakett,
 
-bb) Környezetünkért Emlékplakett,
+bb)[^3]
 
-bc) Pro Meteorológia Emlékplakett,
+bc)[^4]
 
 bd) Pro Natura Emlékplakett;
 
@@ -71,3 +71,8 @@ db) Miniszteri Dicséret;
 e) Különdíj:
 
 ea) OTDK Agrártudományi Különdíj.
+
+[^1]: Az 1. § (3) bekezdés a) pont 8. alpontját a 6/2023. (V. 3.) EM rendelet 24. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 21. §-át.
+[^2]: Az 1. § (3) bekezdés a) pont 16. alpontját a 6/2023. (V. 3.) EM rendelet 24. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 21. §-át.
+[^3]: Az 1. § (3) bekezdés b) pont bb) alpontját a 6/2023. (V. 3.) EM rendelet 24. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 21. §-át.
+[^4]: Az 1. § (3) bekezdés b) pont bc) alpontját a 6/2023. (V. 3.) EM rendelet 24. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 21. §-át.

@@ -4,7 +4,7 @@ a) a magyar vadgazdálkodás szakterületén huzamos időn át, kiemelkedő szak
 
 b) a magyar vadgazdálkodás érdekében végzett kimagasló hatósági, tudományos, illetve oktatói területen végzett tevékenység
 
-## elismeréséül.
+elismeréséül.
 
 (2) A díj átadására az Erdők Világnapja (március 21.) alkalmából kerül sor.
 
