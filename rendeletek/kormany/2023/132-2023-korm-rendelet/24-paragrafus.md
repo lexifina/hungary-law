@@ -1,3 +1,3 @@
-24. § A köztulajdonban álló gazdasági társaságok belső kontrollrendszeréről szóló 339/2019. (XII. 23.) Korm. rendelet 15. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+24. §[^25]
 
-(A belső ellenőrzési vezető feladata)
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-7. § A költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló 370/2011. (XII. 31.) Korm. rendelet 30. §-a a következő (1a) bekezdéssel egészül ki:
+7. §[^8]
 
-„(1a) Az Áht. 3. § (3) bekezdésében meghatározott, az államháztartás önkormányzati alrendszerébe tartozó költségvetési szervnél, társulásnál, valamint a térségi fejlesztési tanácsnál öt évente, a helyi önkormányzat, nemzetiségi önkormányzat képviselő-testületének alakuló ülését követő öt hónapon belül a belső ellenőrzési vezető stratégiai ellenőrzési tervet készít az (1) bekezdés a)–f) pontjában meghatározott tartalommal, amelyet a képviselő-testület az alakuló ülést követő év február 28-áig hagy jóvá.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

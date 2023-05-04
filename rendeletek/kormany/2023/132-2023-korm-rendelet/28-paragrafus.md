@@ -1,3 +1,3 @@
-28. § A köztulajdonban álló gazdasági társaságok belső kontrollrendszeréről szóló 339/2019. (XII. 23.) Korm. rendelet 24. § (2) bekezdése helyébe a következő rendelkezés lép:
+28. §[^29]
 
-„(2) A belső ellenőrzési vezető az (1) bekezdés szerinti éves ellenőrzési jelentést a köztulajdonban álló gazdasági társaság belső szabályzatában meghatározott határidőig benyújtja a felügyelőbizottság részére, és egyidejűleg tájékoztatásul megküldi a köztulajdonban álló gazdasági társaság első számú vezetője részére. A felügyelőbizottság legkésőbb a tárgyévet követő év május 31. napjáig jóváhagyja az éves ellenőrzési jelentést. A köztulajdonban álló gazdasági társaság első számú vezetője a jóváhagyott éves ellenőrzési jelentést a köztulajdonban álló gazdasági társaság belső szabályzatában meghatározott határidőig tájékoztatásul megküldi a társaság legfőbb szervének, alapítójának és a tulajdonosi joggyakorló szervezet vagy a tulajdonosi jogok gyakorlójának munkaszervezete részére.”
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

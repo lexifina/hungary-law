@@ -1,3 +1,3 @@
-29. § A köztulajdonban álló gazdasági társaságok belső kontrollrendszeréről szóló 339/2019. (XII. 23.) Korm. rendelet 26. §-a a következő (3) bekezdéssel egészül ki:
+29. §[^30]
 
-„(3) Ha a társaság az 1. § alapján az egyes kormányrendeleteknek az államháztartási belső kontrollokkal összefüggő módosításáról szóló 132/2023. (IV. 18.) Korm. rendelet hatálybalépését megelőzően nem tartozott e rendelet hatálya alá, de köztulajdonba kerülésére vagy megváltozott körülményeire tekintettel a Takarékos tv. alapján már belső kontrollrendszer kialakítására és működtetésére kötelezett, akkor a Takarékos tv. 7/J. § (1) bekezdése hatálya alá kerülésének hónapját követő hatodik hónap első napjától köteles az e rendeletben meghatározottakat alkalmazni.”
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
