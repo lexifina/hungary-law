@@ -1,5 +1,3 @@
-## dönt.
-
 ## 8. A pénzbeli szociális támogatások közös szabályai
 
 11. § (1) A pénzbeli szociális támogatások odaítélésénél előnyben kell részesíteni
@@ -18,6 +16,6 @@ c) gyermeket egyedül nevel.
 
 (3) A szociális támogatásokat terhelő közterheket a szociális és kegyeleti keretből kell fedezni.
 
-(4)[^23] Szociális támogatásban csak az részesíthető, aki a szociális helyzete megítéléséhez és a rendvédelmi feladatokat ellátó szervet terhelő befizetések elszámolásához szükséges adatokat a valóságnak megfelelően rendelkezésre bocsátja és igazolja.
+(4)[^24] Szociális támogatásban csak az részesíthető, aki a szociális helyzete megítéléséhez és a rendvédelmi feladatokat ellátó szervet terhelő befizetések elszámolásához szükséges adatokat a valóságnak megfelelően rendelkezésre bocsátja és igazolja.
 
-[^23]: A 11. § (4) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^24]: A 11. § (4) bekezdése a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
