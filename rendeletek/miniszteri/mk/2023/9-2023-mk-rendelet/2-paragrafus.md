@@ -1,0 +1,3 @@
+2. § (1) A polgári nemzetbiztonsági szolgálat az éves költségvetésében a szociális és kegyeleti gondoskodás pénzügyi fedezetére külön keretet (a továbbiakban: szociális és kegyeleti keret) köteles képezni. Ennek mértéke a polgári nemzetbiztonsági szolgálat személyi juttatások kiemelt előirányzaton belül a „K1101. Törvény szerinti illetmények, munkabérek” rovat előirányzatának legalább 0,15%-a, legfeljebb 0,5%-a.
+
+(2) A polgári nemzetbiztonsági szolgálat költségvetésének jóváhagyása után az elfogadott előirányzat alapján az elemi költségvetés tervezésénél kerül megállapításra a szociális és kegyeleti keret.

@@ -1,0 +1,1 @@
+18. § A hősi halottá, valamint a szolgálat halottjává minősített személy temetéséről és egyéb kegyeleti ellátásáról, valamint ezen minősített személy hozzátartozóinak szociális gondozásáról az állomány szerint illetékes polgári nemzetbiztonsági szolgálat gondoskodik.
