@@ -1,1 +1,3 @@
-23. § Hatályát veszti a 7/2020. (II. 17.) ITM rendelet.
+23. §[^2]
+
+[^2]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

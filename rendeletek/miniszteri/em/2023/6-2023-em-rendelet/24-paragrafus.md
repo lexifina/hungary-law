@@ -1,13 +1,3 @@
-24. § Hatályát veszti az agrárminiszter által adományozható díjakról és más elismerésekről szóló 6/2021. (II. 27.) AM rendelet
+24. §[^3]
 
-a) 1. § (3) bekezdés a) pont 8. és 16. alpontja,
-
-b) 1. § (3) bekezdés b) pont bb) és bc) alpontja,
-
-c) 14. §-a,
-
-d) 22. §-a,
-
-e) 28. §-a és
-
-f) 29. §-a.
+[^3]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

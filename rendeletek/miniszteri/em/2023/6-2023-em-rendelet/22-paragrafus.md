@@ -1,1 +1,3 @@
-22. § Hatályát veszti a Gyimesi Zoltán-díj alapításáról szóló 9/2005. (V. 5.) IM rendelet.
+22. §[^1]
+
+[^1]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
