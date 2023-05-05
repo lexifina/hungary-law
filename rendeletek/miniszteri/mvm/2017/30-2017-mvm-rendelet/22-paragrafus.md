@@ -16,6 +16,6 @@ e) ideiglenes kényszergyógykezelés alatt álló vagy
 
 f) szabadságvesztés vagy elzárás büntetését katonai fogházban töltő
 
-## tagja részére az ezen idő alatt esedékessé váló ruházati utánpótlási ellátmány nem fizethető ki.
+tagja részére az ezen idő alatt esedékessé váló ruházati utánpótlási ellátmány nem fizethető ki.
 
 (4) A (3) bekezdés a)–d) pontjában meghatározott okból visszatartott ruházati utánpótlási ellátmányt utólag ki kell fizetni, ha a fegyelmi vagy büntetőeljárás felmentéssel zárul.

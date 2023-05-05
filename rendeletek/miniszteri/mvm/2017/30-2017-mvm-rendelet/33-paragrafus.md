@@ -1,6 +1,6 @@
 ## 32. § A Hszt. 60. § (1) vagy (2) bekezdése alapján más helységbe átrendelt hivatásos állomány tagjának költségtérítéseire a belföldi szolgálati kiküldetésre vonatkozó szabályokat kell alkalmazni azzal az eltéréssel, hogy a 30. és 31. §-ban foglalt feltételek fennállása esetén a hivatásos állomány tagja különélési díjra jogosult és részére napidíj nem jár.
 
-## 7. [^5] A szolgálati feladat ellátásával és a visszarendeléssel kapcsolatos költségtérítés
+## 7. [^6] A szolgálati feladat ellátásával és a visszarendeléssel kapcsolatos költségtérítés
 
 33. § (1) A Hszt. 169. § (1) bekezdés b) pontja szerinti, a szolgálati feladat ellátásával kapcsolatban indokoltan felmerült költség
 
@@ -20,4 +20,4 @@ c) a visszarendelés miatt igénybe nem vett szolgáltatás okán fizetendő jog
 
 (3) A szolgálati feladat ellátásával és a visszarendeléssel kapcsolatos költségtérítést a pénzügyi szerv által rendszeresített rendelvényen a szolgálati elöljáró javaslatára az állományilletékes parancsnok rendeli el.
 
-[^5]: A 7. alcím (33. §) a 2/2019. (V. 17.) KKM rendelet 34. §-ával megállapított szöveg.
+[^6]: A 7. alcím (33. §) a 2/2019. (V. 17.) KKM rendelet 34. §-ával megállapított szöveg.

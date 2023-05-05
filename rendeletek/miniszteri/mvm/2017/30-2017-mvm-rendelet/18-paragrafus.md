@@ -2,8 +2,8 @@
 
 (2) A hivatásos állomány tagja részére a külföldi kiküldetés várható költségeit figyelembe véve kiküldetési előleg adható.
 
-(3)[^4]
+(3)[^5]
 
 (4) A (2) bekezdés szerinti kiküldetési előleggel a felvétel szerinti devizanemben kell elszámolni.
 
-[^4]: A 18. § (3) bekezdését a 26/2021. (VII. 7.) KKM rendelet 1. §-a hatályon kívül helyezte.
+[^5]: A 18. § (3) bekezdését a 26/2021. (VII. 7.) KKM rendelet 1. §-a hatályon kívül helyezte.

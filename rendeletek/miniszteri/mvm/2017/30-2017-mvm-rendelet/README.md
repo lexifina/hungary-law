@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-30-20-6
 | 2021-12-01 | 2017-30-20-6N.7 | 37/2021. (XI. 25.) KKM rendelet |
 | 2022-01-01 | 2017-30-20-6N.8 | 40/2021. (XII. 9.) KKM rendelet |
 | 2022-04-22 | 2017-30-20-6N.9 | 6/2022. (IV. 21.) KKM rendelet |
+| 2023-05-05 | 2017-30-20-6N.10 | 20/2023. (VIII. 24.) MK rendelet |

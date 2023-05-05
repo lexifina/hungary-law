@@ -13,3 +13,5 @@ c) a Hszt. 86. § (1) bekezdés a) pontja miatt,
 d) a minősítés miatti alkalmatlanság kivételével a Hszt. 86. § (2) bekezdés a) pontja miatt vagy
 
 e) a Hszt. 86. § (3) bekezdésére tekintettel
+
+szűnik meg.

@@ -1,1 +1,0 @@
-## szűnik meg.
