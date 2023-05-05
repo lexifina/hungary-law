@@ -1,3 +1,3 @@
-1. számú melléklet a 40/2000. (XII. 12.) BM rendelethez[^48]
+1. számú melléklet a 40/2000. (XII. 12.) BM rendelethez[^51]
 
-[^48]: Az 1–2. számú mellékletet a 42/2012. (VIII. 23.) BM rendelet 8. § d) és e) pontja hatályon kívül helyezte.
+[^51]: Az 1–2. számú mellékletet a 42/2012. (VIII. 23.) BM rendelet 8. § d) és e) pontja hatályon kívül helyezte.
