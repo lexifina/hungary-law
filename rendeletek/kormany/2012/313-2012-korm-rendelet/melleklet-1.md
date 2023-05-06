@@ -5,4 +5,4 @@
 A rendszerhasználati díj mértéke
 
 [^69]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 107/2013. (IV. 5.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 207. § (2) bekezdése szerint módosított szöveg.
-[^70]: Az 1. mellékletet a 62/2014. (III. 6.) Korm. rendelet 23. §-a iktatta be, szövege az 510/2021. (IX. 3.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^70]: Az 1. mellékletet a 62/2014. (III. 6.) Korm. rendelet 23. §-a iktatta be, szövege az 510/2021. (IX. 3.) Korm. rendelet 13. §-ával megállapított, a 117/2023. (IV. 5.) Korm. rendelet 1. § a)-d) pontja szerint módosított szöveg.
