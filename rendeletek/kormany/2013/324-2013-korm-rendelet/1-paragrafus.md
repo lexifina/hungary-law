@@ -18,7 +18,7 @@ g) az építésügyi hatósági és sajátos építményfajták esetében épít
 
 h) a felügyeleti hatóságokra
 
-## terjed ki.
+terjed ki.
 
 (2)[^2]
 

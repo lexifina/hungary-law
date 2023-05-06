@@ -28,7 +28,7 @@ h) a közlekedési hálózatok biztosító és távközlési vezetékeinek,
 
 i) a mobil távközlési építmények
 
-## üzemeltetője, kizárólag az a)–i) pontban foglaltak vonatkozásában, azonban az e-közmű rendszerben regisztrálni és közműnyilatkozat kiadására irányuló közműegyeztetési folyamatban részt venni köteles.
+üzemeltetője, kizárólag az a)–i) pontban foglaltak vonatkozásában, azonban az e-közmű rendszerben regisztrálni és közműnyilatkozat kiadására irányuló közműegyeztetési folyamatban részt venni köteles.
 
 (3) Az (1) és (2) bekezdés szerinti e-közmű adatszolgáltatók regisztráció útján kötelesek csatlakozni az e-közműre. A regisztrációt az e-közmű regisztrációs és adatfeltöltő felületén lévő elektronikus adatlap kitöltésével kell végrehajtani, újonnan alakuló közművezeték-üzemeltető esetében az üzemeltetés megkezdésétől számított 15 napon belül.
 

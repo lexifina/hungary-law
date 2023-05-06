@@ -14,11 +14,7 @@ a) betekinthet az e-közműt üzemeltető szervezet dokumentumaiba, és
 
 b) felvilágosítást kérhet az e-közműt üzemeltető szervezet tisztségviselőjétől és alkalmazottaitól.
 
-(5)[^19] Az e-közmű szolgáltatások igénybevételéért a felhasználó az e-közműt üzemeltető szervezet részére, elektronikus úton – a közadatok újrahasznosításáról szóló törvény díjazásra vonatkozó követelményeivel összhangban megállapított – e-közmű rendszerhasználati díjat fizet. A rendszerhasználati díj mértékének meghatározása során az alábbi költségelemek vehetők figyelembe:
-
-a) az e-közmű működtetéséhez szükséges személyi jellegű kiadások,
-
-b) informatikai és nyilvántartási rendszer fenntartási, működtetési költsége.
+(5)[^19] Az e-közmű szolgáltatások igénybevételéért a felhasználó az e-közműt üzemeltető szervezet részére, elektronikus úton e-közmű rendszerhasználati díjat fizet.
 
 (6)[^20] A közművezeték-üzemeltetők az e rendeletben előírt kötelezettségeik teljesítésével összefüggésben díjazásra nem jogosultak, díjaikban azt nem érvényesíthetik.
 
@@ -27,5 +23,5 @@ b) informatikai és nyilvántartási rendszer fenntartási, működtetési költ
 [^16]: A 4. § (2) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
 [^17]: A 4. § (3) bekezdését a 369/2016. (XI. 29.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte.
 [^18]: A 4. § (4) bekezdés nyitó szövegrésze a 369/2016. (XI. 29.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
-[^19]: A 4. § (5) bekezdését a 369/2016. (XI. 29.) Korm. rendelet 8. §-a iktatta be.
+[^19]: A 4. § (5) bekezdését a 369/2016. (XI. 29.) Korm. rendelet 8. §-a iktatta be, szövege a 117/2023. (IV. 5.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^20]: A 4. § (6) bekezdését a 117/2018. (VII. 2.) Korm. rendelet 5. §-a iktatta be.

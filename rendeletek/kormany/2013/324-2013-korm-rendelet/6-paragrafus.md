@@ -8,7 +8,7 @@ b) bejelentés esetében a bejelentési dokumentációban foglalt nyomvonalat a 
 
 c) az a)–b) pont alá nem tartozó esetben az egyéb dokumentációban foglalt nyomvonalat az annak bemutatásától
 
-## számított 15 napon belül a közművezeték építtetője vagy leendő üzemeltetője, mint tervezett nyomvonalat, nyilvántartásába veszi.
+számított 15 napon belül a közművezeték építtetője vagy leendő üzemeltetője, mint tervezett nyomvonalat, nyilvántartásába veszi.
 
 (1b)[^28] A nyilvántartásba vételt követően a közművezeték üzemeltetőjének 15 napon belül gondoskodnia kell a tervezett nyomvonal e-közmű részére történő adatszolgáltatásáról.
 

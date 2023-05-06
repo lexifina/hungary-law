@@ -1,6 +1,6 @@
 5. melléklet a 324/2013. (VIII. 29.) Korm. rendelethez
 
-## A közművek geodéziai bemérésének és a szakági nyilvántartások digitális átalakításának műszaki előírásai
+A közművek geodéziai bemérésének és a szakági nyilvántartások digitális átalakításának műszaki előírásai
 
 1. Általános előírások
 
@@ -74,6 +74,10 @@
 
 2.6. Közmű megvalósulási dokumentáció tartalma:
 
+2.7. Digitális dokumentációnak tekinthető az analóg dokumentáció nem módosítható szabványos fájlformátumba mentett másolata.
+
+## 3K66401_2
+
 |  |  | A) | B) | C) |
 
 |  | 1. | geodéziai dokumentációk | építtető | e-közmű adatszolgáltató tervtára |
@@ -89,8 +93,6 @@
 |  | 6. | vektoros digitális állomány (EOV) | 1 pld. | 1 pld. |
 
 |  | 7. | műszaki leírás | 1 pld. | 1pld. |
-
-2.7. Digitális dokumentációnak tekinthető az analóg dokumentáció nem módosítható szabványos fájlformátumba mentett másolata.
 
 3. Meglévő digitális közműadatok átalakítása az e-közmű részére történő adatszolgáltatáshoz
 

@@ -4,5 +4,7 @@ a)[^46] az e-közmű felé történő adatszolgáltatás módjára, részletes m
 
 b) az e-közműből történő adatszolgáltatásért fizetendő e-közmű rendszerhasználati díj mértékére
 
+vonatkozó előírásokat, melyeket az e-közműt üzemeltető szervezet a www.e-epites.hu honlapon tesz közzé.
+
 [^45]: A 8/C. §-t a 369/2016. (XI. 29.) Korm. rendelet 14. §-a iktatta be.
 [^46]: A 8/C. § a) pontja a 117/2018. (VII. 2.) Korm. rendelet 14. § l) pontja szerint módosított szöveg.

@@ -16,6 +16,8 @@ a) 2017. december 31. napjáig a regisztrációhoz megadott település szintű 
 
 b) 2018. január 1. napjától e rendelet 6. § (1) bekezdése szerinti adatok szolgáltatására
 
+kötelesek.
+
 [^56]: A 11. § a 369/2016. (XI. 29.) Korm. rendelet 19. §-ával megállapított szöveg.
 [^57]: A hatálybalépés időpontja 2016. november 30.
 [^58]: A hatálybalépés időpontja 2016. november 30.
