@@ -1,1 +1,3 @@
-22. § Hatályát veszti az Információs Hivatal hivatásos állományával összefüggő szociális és kegyeleti gondoskodás rendjéről szóló 32/2017. (XI. 28.) MvM rendelet.
+22. §[^2]
+
+[^2]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
