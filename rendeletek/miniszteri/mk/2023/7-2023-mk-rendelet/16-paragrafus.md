@@ -1,5 +1,3 @@
-16. § Hatályát veszti az Információs Hivatal hivatásos állományú tagjainak illetményéről, juttatásairól, valamint a folyósítás és költségtérítés szabályairól szóló 30/2017. (XI. 28.) MvM rendelet
+16. §[^3]
 
-a) 9. alcíme,
-
-b) 49. §-a.
+[^3]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
