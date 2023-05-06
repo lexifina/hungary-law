@@ -1,0 +1,1 @@
+14. § A NIPÜF Nemzeti Ipari Park Üzemeltető és Fejlesztő Zártkörűen Működő Részvénytársaság (a továbbiakban: NIPÜF) vagy a NIPÜF saját tulajdonában álló vagy a NIPÜF-fel betelepülési szerződéses jogviszonyban jelenleg is logisztikai tevékenységet folytató cégek a besorolásuknak megfelelő Logisztikai Park címet a besorolásuknak megfelelés igazolása után viselhetik.

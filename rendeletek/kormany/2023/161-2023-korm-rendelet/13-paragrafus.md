@@ -1,0 +1,3 @@
+13. § (1) Az e rendelet hatálybalépésekor a tudományos és innovációs, a technológiai és az ipari parkokról szóló 799/2021. (XII. 28.) Korm. rendelet alapján Ipari Park, Technológiai Park és Tudományos és Innovációs Park címmel rendelkező parkok e cím viselésére vonatkozó jogosultságát e rendelet hatálybalépése nem érinti.
+
+(2) Az e rendelet hatálybalépésekor a Nemzeti Fejlesztési Minisztérium egyetértésével a Logisztikai Egyeztető Fórum által adományozott Intermodális logisztikai szolgáltató központ vagy Záhony Térségi Intermodális logisztikai szolgáltató központ, Regionális logisztikai szolgáltató központ vagy Záhony Térségi Regionális logisztikai szolgáltató központ és Helyi logisztikai szolgáltató központ címek az új rendszer szerinti besorolással hatályban maradnak.

@@ -1,0 +1,1 @@
+5. § Az Ipari Park, a Technológiai Park, a Logisztikai Park, valamint a Tudományos és Innovációs Park cím elnyerésére irányuló pályázat értékelési szempontjainak keretszabályait a 2. §, a 3. § (2) és (5) bekezdése, valamint a 7. és a 8. §, részletes szakmai követelményrendszerét, valamint a pályázat értékelési szempontjait a pályázati felhívás határozza meg.
