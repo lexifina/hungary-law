@@ -1,5 +1,5 @@
 ## 2. Az egységes elektronikus közműnyilvántartásról szóló 324/2013. (VIII. 29.) Korm. rendelet módosítása
 
-2. §[^2]
+2. § Az egységes elektronikus közműnyilvántartásról szóló 324/2013. (VIII. 29.) Korm. rendelet 4. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-[^2]: A 2. § a 4. § (2) bekezdés alapján 2023. május 6-án lép hatályba.
+„(5) Az e-közmű szolgáltatások igénybevételéért a felhasználó az e-közműt üzemeltető szervezet részére, elektronikus úton e-közmű rendszerhasználati díjat fizet.”
