@@ -96,4 +96,6 @@ c) ellátja a Tanács működésével kapcsolatos levelezési, dokumentumkezelé
 
 13. Ez a határozat a közzétételét követő 8. napon lép hatályba.
 
-14. Hatályát veszti a Tudományos és Innovációs, Technológiai és Ipari Park Tanácsról szóló 1992/2021. (XII. 28.) Korm. határozat.
+14.[^1]
+
+[^1]: A 14. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
