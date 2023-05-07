@@ -1,1 +1,3 @@
-15. § Hatályát veszti a tudományos és innovációs, a technológiai és az ipari parkokról szóló 799/2021. (XII. 28.) Korm. rendelet.
+15. §[^1]
+
+[^1]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
