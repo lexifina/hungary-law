@@ -1,0 +1,57 @@
+# A Kormány 1185/2023. (V. 8.) Korm. határozata
+
+Magyar Közlöny 2023. évi 67. szám, 2023. május 8. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/9G04g7OK9fUw2OpvZfdT644c0c4994532/dokumentumok/efdf8f913fc9e7c4bb56b0494c9a763fda271ce9/letoltes)
+
+---
+
+A Kormány 1185/2023. (V. 8.) Korm. határozata
+Esztergom Megyei Jogú Város árvízi biztonsága érdekében szükséges kormányzati intézkedésekről
+1. A Kormány
+a) egyetért az Esztergom Megyei Jogú Város árvízvédelmi fejlesztésére irányuló beruházás (a továbbiakban:
+Beruházás) részére bemutatott koncepció szerinti előkészítésével;
+b) a Beruházás felelőseként a belügyminisztert jelöli ki;
+c) egyetért azzal, hogy a Beruházást az Országos Vízügyi Főigazgatóság készítse elő Esztergom Megyei Jogú
+Város Önkormányzatának konzorciumi partneri bevonásával;
+d) felhívja a pénzügyminisztert, hogy a belügyminiszter kezdeményezése alapján a Beruházás előkészítési
+feladatainak végrehajtása érdekében gondoskodjon 230
+
+forint többletforrás biztosításáról
+a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet
+XIV. Belügyminisztérium fejezet, 17. Vízügyi igazgatóságok cím javára;
+Felelős: pénzügyminiszter
+belügyminiszter
+Határidő: a felmerülés ütemében
+e) felhívja a belügyminisztert, hogy
+ea) a d) alpont szerinti előkészítési feladatok végrehajtását követően, valamint
+eb) a már teljes körű engedéllyel rendelkező védvonalszakaszra lefolytatott feltételes közbeszerzési
+eljárás eredménye alapján
+készítsen előterjesztést a Kormány részére a Beruházás megvalósításáról, a kapcsolódó kötelezettségvállalási
+összegek és a kifizetések ütemezésének bemutatásával;
+Felelős: belügyminiszter
+Határidő: az ea) pont tekintetében az előkészítési feladatok végrehajtását követően 30 napon belül
+az eb) pont tekintetében a kivitelezésre irányuló feltételes közbeszerzési eljárás lezárását
+követően azonnal
+f) – a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások
+felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 4. § (1) bekezdés c) pontjában
+meghatározott jogkörében eljárva – egyetért az „Esztergom árvízvédelmének fejlesztése I. ütem” című
+kiemelt projektnek (a továbbiakban: projekt) a Környezeti és Energiahatékonysági Operatív Program
+éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozatból [a továbbiakban:
+1084/2016. (II. 29.) Korm. határozat] való törlésével;
+
+A Magyar Közlönyt az Igazságügyi Minisztérium szerkeszti.
+A szerkesztésért felelős: dr. Salgó László Péter.
+A szerkesztőség címe: 1051 Budapest, Nádor utca 22.
+A Magyar Közlöny hiteles tartalma elektronikus dokumentumként a https://www.magyarkozlony.hu honlapon érhető el.
+g) felhívja a területfejlesztésért felelős minisztert, hogy az irányító hatóság útján gondoskodjon a projekt
+Támogatási szerződésétől történő elállásról;
+Felelős: területfejlesztési miniszter
+Határidő: az e kormányhatározat közzétételét követően azonnal
+h) egyetért azzal, hogy a projekt európai uniós forrás terhére el nem számolható 791 737 966 forint támogatási
+összege – az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának
+rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés m) pontja alapján – a központi
+költségvetés XIX. Uniós fejlesztések fejezet KEHOP előirányzat hazai társfinanszírozáson felüli felhasználásával
+kerüljön finanszírozásra.
+2. Ez a határozat a közzétételét követő napon lép hatályba.
+3. Hatályát veszti az 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat 64. sora.
+ Orbán Viktor s. k.,
+ miniszterelnök
