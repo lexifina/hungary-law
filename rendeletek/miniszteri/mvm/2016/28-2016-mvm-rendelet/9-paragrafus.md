@@ -1,3 +1,3 @@
-9. § (1) A fegyelemsértő magatartás alátámasztása érdekében alkohol, kábítószer vagy pszichotróp anyag fogyasztásának, illetve a befolyásoltság megállapítására vizeletvétel vagy véralkohol-vizsgálat céljából vérvétel, illetve orvosi vizsgálat csak akkor alkalmazható, ha az ellenőrzött személy a technikai eszközzel végzett ellenőrzés eredményét vitatja.
+9. §[^4]
 
-(2) A vizsgálat költségeit – ha az az ittas vagy bódult állapotot előidéző szer fogyasztását, illetve az attól való befolyásoltságot megerősíti – a hivatásos állomány tagja köteles megtéríteni, azokat egyebekben a Hivatal viseli.
+[^4]: A 9. §-t a 8/2023. (IV. 24.) MK rendelet 9. § b) pontja hatályon kívül helyezte.
