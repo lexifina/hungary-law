@@ -1,4 +1,4 @@
-28. § (1)[^54] A létrejövő új erőmű vagy meglévő erőmű új, a meglévő csatlakozási teljesítmény felett többletteljesítményt igénylő erőműegysége csatlakozásához kapcsolódóan csatlakozási díjkedvezmény vehető igénybe, ha az erőmű vagy erőműegység
+28. § (1)[^56] A létrejövő új erőmű vagy meglévő erőmű új, a meglévő csatlakozási teljesítmény felett többletteljesítményt igénylő erőműegysége csatlakozásához kapcsolódóan csatlakozási díjkedvezmény vehető igénybe, ha az erőmű vagy erőműegység
 
 a) kizárólag a Vhr. 7. számú melléklet 4. pont 4.1–4.3. és 4.7. alpontjai szerint elsődlegesnek minősülő megújuló energiaforrásokkal működtethető, vagy
 
@@ -42,4 +42,4 @@ c) az (1) bekezdés b) pontja szerinti erőmű által felhasznált elsődlegesne
 
 az erőmű üzemeltetője a Hivatal határozata alapján visszafizeti a hálózati engedélyes részére.
 
-[^54]: A 28. § (1) bekezdése a 13/2022. (XI. 18.) MEKH rendelet 13. §-ával megállapított szöveg.
+[^56]: A 28. § (1) bekezdése a 13/2022. (XI. 18.) MEKH rendelet 13. §-ával megállapított szöveg.

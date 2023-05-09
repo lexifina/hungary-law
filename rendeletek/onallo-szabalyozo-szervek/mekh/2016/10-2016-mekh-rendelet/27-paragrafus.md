@@ -14,7 +14,7 @@
 
 a) a kijelölt csatlakozási pont szerinti elosztói tápponti körzetben megvalósuló közvetett csatlakozási beruházás teljes összegének teljesítményarányos része,
 
-b) a kijelölt csatlakozási pont szerinti elosztói tápponti körzettel szomszédos elosztói tápponti körzetben megvalósuló közvetett csatlakozási beruházás teljes összegéből a teljesítményarányos rész 70%-a, valamint
+b)[^53] a kijelölt csatlakozási pont szerinti elosztói tápponti körzettel szomszédos elosztói tápponti körzetben megvalósuló közvetett csatlakozási beruházás teljes összegéből a teljesítményarányos rész 5%-a, valamint
 
 c) az átviteli hálózaton megvalósuló közvetett csatlakozási beruházás teljes összegének teljesítményarányos része.
 
@@ -22,13 +22,13 @@ c) az átviteli hálózaton megvalósuló közvetett csatlakozási beruházás t
 
 a) az átviteli hálózaton megvalósuló közvetett csatlakozási beruházás teljes összegének teljesítményarányos része, valamint
 
-b) a csatlakozással érintett átviteli táppontból ellátott elosztói tápponti körzetben megvalósuló közvetett csatlakozási beruházás teljes összegének teljesítményarányos része.
+b)[^54] a csatlakozással érintett átviteli táppontból ellátott elosztói tápponti körzetekben megvalósuló közvetett csatlakozási beruházás teljes összegének teljesítményarányos része, osztva a beruházással érintett elosztói tápponti körzetek számával.
 
 (6) Ha a (3)–(5) bekezdés szerint szükséges beruházások tényleges aktiválási értéke eltér az (1) bekezdés szerinti költségbecslésben szereplő várható költségtől, akkor a megvalósított létesítmények üzembe helyezése után a felek között utólagos elszámolásnak van helye.
 
 (7) Erőmű és nagyfeszültségű hálózatra csatlakozást igénylő esetében a csatlakozási díj megállapításához a (3)–(5) bekezdésben meghatározott mértékben és esetekben figyelembe vehető a befogadó hálózati engedélyes és az egyéb érintett hálózati engedélyes – a csatlakozási igény benyújtásához képest – 5 évnél nem régebben aktivált hálózati beruházásainak általános forgalmi adó nélkül számított értéke.
 
-(7a)[^53] A csatlakozási díj alapjának meghatározása során a (4) és (5) bekezdés szerinti teljesítményarányokat külön-külön kell megállapítani a csatlakoztatáshoz a közcélú hálózaton megvalósuló új és a (7) bekezdés szerinti, 5 évnél nem régebben aktivált hálózati beruházások esetében.
+(7a)[^55] A csatlakozási díj alapjának meghatározása során a (4) és (5) bekezdés szerinti teljesítményarányokat külön-külön kell megállapítani a csatlakoztatáshoz a közcélú hálózaton megvalósuló új és a (7) bekezdés szerinti, 5 évnél nem régebben aktivált hálózati beruházások esetében.
 
 (8) A csatlakozást igénylő és a befogadó hálózati engedélyes, illetve a befogadó hálózati engedélyes és az egyéb érintett hálózati engedélyes közötti esetleges – a (6) és (7) bekezdéshez kapcsolódó – vita esetén a hálózati engedélyesek feladata független műszaki-gazdasági szakvélemény beszerzése.
 
@@ -36,4 +36,6 @@ b) a csatlakozással érintett átviteli táppontból ellátott elosztói táppo
 
 [^51]: A 13. alcím címe az 1/2021. (II. 10.) MEKH rendelet 9. § d) pontja szerint módosított szöveg.
 [^52]: A 27. § az 1/2021. (II. 10.) MEKH rendelet 4. §-ával megállapított szöveg.
-[^53]: A 27. § (7a) bekezdését a 14/2021. (XI. 8.) MEKH rendelet 4. §-a iktatta be.
+[^53]: A 27. § (4) bekezdés b) pontja a 7/2023. (V. 8.) MEKH rendelet 3. §-a szerint módosított szöveg.
+[^54]: A 27. § (5) bekezdés b) pontja a 7/2023. (V. 8.) MEKH rendelet 1. §-ával megállapított szöveg.
+[^55]: A 27. § (7a) bekezdését a 14/2021. (XI. 8.) MEKH rendelet 4. §-a iktatta be.

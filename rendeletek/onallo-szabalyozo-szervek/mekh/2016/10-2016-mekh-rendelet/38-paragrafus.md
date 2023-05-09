@@ -6,20 +6,20 @@
 
 2. többfázisú fogyasztásmérő berendezés,
 
-3. [^78]
+3. [^80]
 
-4. [^79]
+4. [^81]
 
-5. [^80]
+5. [^82]
 
-6. [^81]
+6. [^83]
 
 ## külső behatásból eredő sérülés, rongálódás miatti cseréjéért, amennyiben az a felhasználó kizárólagos őrizetében van, vagy annak felszerelése, felhasználó részére történt átadása során az elosztó mindenben jogszabályban és az üzletszabályzatban foglaltak szerint járt el. A külön díj nem tartalmazza a cserélni szükséges berendezés utánpótlási árát, amely árat a felhasználó – a külön díjjal együtt – szintén köteles megtéríteni.
 
-(2) [^82]
+(2) [^84]
 
-[^78]: A 38. § (1) bekezdés 3. pontját az 1/2021. (II. 10.) MEKH rendelet 10. § g) pontja hatályon kívül helyezte.
-[^79]: A 38. § (1) bekezdés 4. pontját az 1/2021. (II. 10.) MEKH rendelet 10. § g) pontja hatályon kívül helyezte.
-[^80]: A 38. § (1) bekezdés 5. pontját az 1/2021. (II. 10.) MEKH rendelet 10. § g) pontja hatályon kívül helyezte.
-[^81]: A 38. § (1) bekezdés 6. pontját az 1/2021. (II. 10.) MEKH rendelet 10. § g) pontja hatályon kívül helyezte.
-[^82]: A 38. § (2) bekezdését az 1/2021. (II. 10.) MEKH rendelet 10. § h) pontja hatályon kívül helyezte.
+[^80]: A 38. § (1) bekezdés 3. pontját az 1/2021. (II. 10.) MEKH rendelet 10. § g) pontja hatályon kívül helyezte.
+[^81]: A 38. § (1) bekezdés 4. pontját az 1/2021. (II. 10.) MEKH rendelet 10. § g) pontja hatályon kívül helyezte.
+[^82]: A 38. § (1) bekezdés 5. pontját az 1/2021. (II. 10.) MEKH rendelet 10. § g) pontja hatályon kívül helyezte.
+[^83]: A 38. § (1) bekezdés 6. pontját az 1/2021. (II. 10.) MEKH rendelet 10. § g) pontja hatályon kívül helyezte.
+[^84]: A 38. § (2) bekezdését az 1/2021. (II. 10.) MEKH rendelet 10. § h) pontja hatályon kívül helyezte.
