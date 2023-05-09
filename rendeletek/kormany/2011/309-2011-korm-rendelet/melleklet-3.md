@@ -240,6 +240,8 @@ Az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság által kö
 
 119.[^71] a diaszpóra-magyarsággal történő kapcsolattartást támogató informatikai rendszer
 
+120.[^72] Árfigyelő rendszer
+
 [^46]: A 3. mellékletet a 257/2016. (VIII. 31.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 5. § b) pontjával megállapított szöveg.
 [^47]: A 3. melléklet 1. pontja a 680/2020. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^48]: A 3. melléklet 5. pontja a 680/2020. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
@@ -266,3 +268,4 @@ Az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság által kö
 [^69]: A 3. melléklet 117. pontját a 618/2022. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
 [^70]: A 3. melléklet 118. pontját a 72/2023. (III. 10.) Korm. rendelet 1. § b) pontja iktatta be.
 [^71]: A 3. melléklet 119. pontját a 72/2023. (III. 10.) Korm. rendelet 1. § b) pontja iktatta be.
+[^72]: A 3. melléklet 120. pontját a 163/2023. (V. 8.) Korm. rendelet 23. §-a iktatta be. Alkalmazására lásd e módosító rendelet 21. §-át.
