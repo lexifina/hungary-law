@@ -6,7 +6,7 @@ a) ha az a 7. § (1) bekezdés a) alpontja alapján merül fel, vér- és vizele
 
 b) ha az kizárólag a 7. § (1) bekezdés b) vagy c) pontja alapján merül fel, egyszeri vizeletvételre kell intézkedni a rendszeresített „A kábítószer-fogyasztás (élő személynél) megállapítására alkalmas vizeletvételi – I. számú – egységdoboz” (a továbbiakban: I. számú egységdoboz)
 
-## alkalmazásával.
+alkalmazásával.
 
 (2) Ha nyálminta előszűrésére alkalmas rendszeresített eszköz áll rendelkezésre, a hivatásos állomány vizsgálat alá vont tagja általi kábítószer-fogyasztás okozta befolyásoltság gyanúja esetén őt nyálminta adására kell kötelezni. Ezen gyanú hiányában viszont a hivatásos állomány vizsgálat alá vont tagja a minta adására nem kötelezhető.
 

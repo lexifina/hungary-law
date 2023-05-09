@@ -14,7 +14,7 @@ c) úgy nyilatkozik, hogy testhőmérséklet emelkedése van, illetve
 
 d) a szervezetében kábítószer, a központi idegrendszer működését befolyásoló gyógyszer jelenléte valószínűsíthető
 
-## a hiteles mérőeszközzel mérés nem hajtható végre, ezért vér- és vizeletminta vételre kell intézkedni.
+a hiteles mérőeszközzel mérés nem hajtható végre, ezért vér- és vizeletminta vételre kell intézkedni.
 
 (4) A hiteles mérőeszközzel – a használati útmutatójában előírt módon – 15 perc különbséggel két mérést kell elvégezni úgy, hogy az első mérés lehetőség szerint a szolgálatképes állapot vélelmezhető hiányának felismerésétől számított 30 percen belül megtörténjen.
 
