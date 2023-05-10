@@ -1,1 +1,3 @@
-3. § A Rendelet 27. § (4) bekezdés b) pontjában a „70%-a” szövegrész helyébe az „5%-a” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

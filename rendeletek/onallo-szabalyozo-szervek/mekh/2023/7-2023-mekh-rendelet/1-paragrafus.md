@@ -1,3 +1,3 @@
-1. § A villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak alkalmazási szabályairól szóló 10/2016. (XI. 14.) MEKH rendelet (a továbbiakban: Rendelet) 27. § (5) bekezdés b) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-[Ha a csatlakozási pont az átviteli hálózaton kerül kijelölésre, az (1) bekezdés szerinti költségbecslés részét képezi]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
