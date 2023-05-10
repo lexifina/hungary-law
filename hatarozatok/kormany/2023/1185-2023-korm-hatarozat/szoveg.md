@@ -36,4 +36,6 @@ h) egyetért azzal, hogy a projekt európai uniós forrás terhére el nem szám
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti az 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat 64. sora.
+3.[^1]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
