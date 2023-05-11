@@ -1,4 +1,4 @@
-## 8. Az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos egyéb rendelkezések
+## 8.
 
 13. § (1) Az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatosan – a Kormány kérésére az Európai Unió tisztviselőinek személyzeti szabályzata alapján – Magyarországra kirendelt európai uniós tisztviselő (a továbbiakban: kirendelt tisztviselő) munkafeltételeit – ideértve az esetleges kiküldetési és napidíj költségek fedezetét – a fogadó minisztérium biztosítja.
 

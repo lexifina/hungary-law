@@ -1,3 +1,3 @@
-## 7. Igényérvényesítés
+## 7.
 
-12. § Az EU-elnökségi jogviszonyból származó igények érvényesítésére az alapjogviszonyra vonatkozó szabályokat kell alkalmazni.
+### 12. §

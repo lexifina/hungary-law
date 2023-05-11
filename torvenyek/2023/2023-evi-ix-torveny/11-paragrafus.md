@@ -1,5 +1,1 @@
-11. § (1) Az EU-elnökségi jogviszonyt létesítő foglalkoztatottakról – az EU-elnökségi jogviszonyt létesítő szerződés végrehajtásával kapcsolatos feladatok ellátása érdekében – az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium nyilvántartást vezet, amely a 3. mellékletben meghatározott adatokat tartalmazza.
-
-(2) Azon foglalkoztatott esetében, akinek az EU-elnökségi jogviszonya az általános politikai koordinációért felelős miniszter által vezetett minisztériummal jött létre, az általános politikai koordinációért felelős miniszter által vezetett minisztérium – az (1) bekezdés szerinti nyilvántartás vezetése céljából – átadja az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium számára az (1) bekezdés szerinti nyilvántartásban rögzítendő – rendelkezésére álló – adatokat.
-
-(3) Az (1) bekezdés szerinti nyilvántartásba – eljárásukban indokolt mértékig – a miniszter és az általa a 6. § (1) és (2) bekezdése alapján kijelölt személy, továbbá a törvényben erre feljogosítottak jogosultak betekinteni és abból adatokat átvenni.
+### 11. §
