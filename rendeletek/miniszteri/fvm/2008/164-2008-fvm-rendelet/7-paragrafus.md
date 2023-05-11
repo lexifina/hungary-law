@@ -18,8 +18,10 @@ b) ha az eb-összevezetés (1) bekezdés c) pontja szerinti feltételei nem áll
 
 c) ha az eb-összevezetés állategészségügyi, állatjóléti, személyi feltételei nem teljesülnek.
 
-(5) A (4) bekezdés szerinti döntéséről a járási hivatal értesíti az összevezetett immunizálást kezdeményező szolgáltató állatorvost, a Kamara illetékes területi szervezetét, a megyei kormányhivatalt és az érintett települések jegyzőit.
+(5)[^27] A (4) bekezdés szerinti döntéséről a járási hivatal értesíti az összevezetett immunizálást kezdeményező szolgáltató állatorvost, a Kamara illetékes területi szervezetét, a vármegyei kormányhivatalt és az érintett települések jegyzőit.
 
-(6) Veszettség szempontjából kedvezőtlen járványügyi helyzet esetén az ebek veszettség elleni összevezetett immunizálását a megyei kormányhivatal is elrendelheti.
+(6)[^28] Veszettség szempontjából kedvezőtlen járványügyi helyzet esetén az ebek veszettség elleni összevezetett immunizálását a vármegyei kormányhivatal is elrendelheti.
 
 [^26]: A 7. § a 9/2017. (III. 6.) FM rendelet 22. §-ával megállapított szöveg.
+[^27]: A 7. § (5) bekezdése a 23/2023. (V. 10.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^28]: A 7. § (6) bekezdése a 23/2023. (V. 10.) AM rendelet 10. § b) pontja szerint módosított szöveg.

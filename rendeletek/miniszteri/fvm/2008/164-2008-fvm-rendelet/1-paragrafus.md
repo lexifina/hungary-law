@@ -14,6 +14,6 @@ d) az embert támadott, illetve mart állatokkal kapcsolatos eljárás, tovább�
 
 e) a veszettség leküzdése
 
-## során.
+során.
 
 (3) A veszettség külön jogszabály szerinti bejelentési kötelezettség alá tartozó állatbetegség. A betegség bejelentésének általános szabályait külön jogszabály tartalmazza.

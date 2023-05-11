@@ -20,14 +20,14 @@ c) a katasztrófa-mentő ebek,
 
 d) a segítő és terápiás ebek, valamint a látássérült embereket vezető ebek
 
-## rendeltetési céljuknak megfelelő használatuk idejére mentesek a (2) bekezdésben foglalt korlátozás alól.
+rendeltetési céljuknak megfelelő használatuk idejére mentesek a (2) bekezdésben foglalt korlátozás alól.
 
 (4) Az érvényes veszettség elleni védőoltással rendelkező pásztorebeket szabad állatok terelésére, illetve őrzésére használni, feltéve, hogy az ebzárlat nem a 8. § (5) bekezdése szerint lett elrendelve.
 
-(5)[^41] Az ebzárlat alatt befogott kóbor húsevőket hatósági megfigyelés alá kell helyezni az ebzárlat időtartamára. Az állat hatósági megfigyelése az ebzárlat esetleges meghosszabbítása esetén sem tarthat kilencven napnál tovább. Amennyiben a kóborló eb vagy macska veszettség elleni oltottsága nem állapítható meg, és az állat befogása, illetve hatósági megfigyelése nem oldható meg biztonságosan, az állatot a járási hivatal határozatára járványügyi intézkedésként az állatvédelmi előírások megtartásával le kell ölni.
+(5)[^44] Az ebzárlat alatt befogott kóbor húsevőket hatósági megfigyelés alá kell helyezni az ebzárlat időtartamára. Az állat hatósági megfigyelése az ebzárlat esetleges meghosszabbítása esetén sem tarthat kilencven napnál tovább. Amennyiben a kóborló eb vagy macska veszettség elleni oltottsága nem állapítható meg, és az állat befogása, illetve hatósági megfigyelése nem oldható meg biztonságosan, az állatot a járási hivatal határozatára járványügyi intézkedésként az állatvédelmi előírások megtartásával le kell ölni.
 
 (6) Az ebzárlat alatt húsevő állatok összevezetésével járó rendezvény nem tartható.
 
 (7) A veszettség miatt elrendelt ebzárlatot fel kell oldani, ha annak időtartama alatt a településen veszettséget vagy veszettség gyanúját újból nem állapították meg.
 
-[^41]: A 12. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 121. § 2. pontja szerint módosított szöveg.
+[^44]: A 12. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 121. § 2. pontja szerint módosított szöveg.
