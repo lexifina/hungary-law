@@ -15,3 +15,5 @@ e) utak, közelítő nyomok, ösvények, illetve létesítmények mellett élet 
 f) erdőfelújítási kötelezettség keletkezése esetén, – ha annak teljesítése állománykiegészítéssel nem valósítható meg – erdőfelújítási céllal, valamint
 
 g) egyéb természetvédelmi céllal
+
+végezhető.

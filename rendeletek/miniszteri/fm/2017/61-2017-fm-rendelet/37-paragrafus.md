@@ -14,11 +14,11 @@ d) ha az erdőrészlet teljes faállománya az erdősítés befejezésétől a k
 
 (4) Felnyíló erdő esetében az egyenletes eloszlás nem vizsgálandó.
 
-(5)[^37] A talajvédelmi, árvízvédelmi, örökségvédelmi vagy bányászati rendeltetésű erdő esetében az erdősítések sikeresnek és befejezhetőnek minősíthetők, ha azok 8. mellékletben foglalt tőszám elvárásoknak átlagosan 50%-ában, felnyíló erdők valamint a folyók nagyvízi medrének elsődleges és másodlagos levezető sávjába eső erdő erdősítése esetében 30%-ában megfelelnek.
+(5)[^38] A talajvédelmi, árvízvédelmi, örökségvédelmi vagy bányászati rendeltetésű erdő esetében az erdősítések sikeresnek és befejezhetőnek minősíthetők, ha azok 8. mellékletben foglalt tőszám elvárásoknak átlagosan 50%-ában, felnyíló erdők valamint a folyók nagyvízi medrének elsődleges és másodlagos levezető sávjába eső erdő erdősítése esetében 30%-ában megfelelnek.
 
 (6) Fokozatos felújító vágással vagy szálalóvágással érintett erdőben az újulat záródása alatt az erdőterv erdősítési előírásának, e rendelet előírásainak, és az erdészeti hatóság határozatában rögzített egyéb rendelkezéseknek megfelelő fafajú és eredetű, életképes, további fejlődésében nem akadályozott, a vizsgált területen közel egyenletes eloszlásban elhelyezkedő faegyedek átlagos tőszámának és az 8. mellékletben meghatározott minimálisan elvárt tőszám kétszeresének százalékban kifejezett hányadosát kell érteni.
 
-(6a)[^38] Faültetvény természetességi állapotú faállomány záródása alatt, ha az Evt. 5. § 12. pont szerinti záródás nem éri el a 60%-ot, a faállomány aktuális egyedszámának és az ültetési hálózatból számított egyedszám százalékban kifejezett viszonyszámát kell érteni.
+(6a)[^39] Faültetvény természetességi állapotú faállomány záródása alatt, ha az Evt. 5. § 12. pont szerinti záródás nem éri el a 60%-ot, a faállomány aktuális egyedszámának és az ültetési hálózatból számított egyedszám százalékban kifejezett viszonyszámát kell érteni.
 
 (7) Amennyiben a szabad rendelkezésű erdő mezőgazdasági művelésbe vonását nem kezdeményezték, és a fakitermelés után a faállomány záródása természetben összefüggően legalább 1 hektáros részterületén 50% alá csökken, a szabad rendelkezésű erdő felújítását a fakitermelést követő két éven belül meg kell kezdeni.
 
@@ -34,5 +34,5 @@ d) amennyiben a felújítás nem a szabad rendelkezésű erdő teljes területé
 
 e) a bejelentő aláírását.
 
-[^37]: A 37. § (5) bekezdése a 13/2020. (IV. 8.) AM rendelet 10. § a) pontja szerint módosított szöveg.
-[^38]: A 37. § (6a) bekezdését a 13/2020. (IV. 8.) AM rendelet 5. §-a iktatta be.
+[^38]: A 37. § (5) bekezdése a 13/2020. (IV. 8.) AM rendelet 10. § a) pontja szerint módosított szöveg.
+[^39]: A 37. § (6a) bekezdését a 13/2020. (IV. 8.) AM rendelet 5. §-a iktatta be.

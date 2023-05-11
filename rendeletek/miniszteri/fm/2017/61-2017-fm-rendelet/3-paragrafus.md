@@ -32,6 +32,6 @@ f) a természetességi állapot fenntartása céljából, vagy
 
 g) erdő szerkezet-átalakítás céljából
 
-## kerülhet sor.
+kerülhet sor.
 
 (4) Vadaskert rendeltetés esetén az érintett természetben összefüggő erdőrészletek összterületének legfeljebb 10%-án engedélyezhető felnyitott erdő kialakítása és fenntartása.

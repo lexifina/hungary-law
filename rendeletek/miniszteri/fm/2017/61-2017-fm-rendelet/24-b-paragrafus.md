@@ -8,7 +8,7 @@ a) a faállomány aktuális állapotának, a célállapottól való eltérésén
 
 b) két állapotfelvétel között eltelt időszakban keletkezett faállomány növedékének
 
-## meghatározását.
+meghatározását.
 
 (3) Az örökerdő kezelési terv készítése során és az önellenőrzési módszer alkalmazásakor
 
@@ -18,7 +18,7 @@ b) utánpótlás állomány alatt az erdőben ténylegesen jelenlévő, 12 cm-n�
 
 c) a főállományt alkotó fafajok elegyaránya alatt azok körlapösszege szerinti arányát
 
-## kell érteni.
+kell érteni.
 
 (4) Az átalakítási és erdőfelújítási terv tartalmi követelményeit a 11. melléklet tartalmazza.
 
@@ -32,7 +32,7 @@ a) nagyobb vágásérettségi korral tervezett faállománytípusok esetében le
 
 b) kisebb vágásérettségi korral tervezett faállománytípusok esetén – legalább három erdőfelújítási ütemben – legalább 10 évre
 
-## kell a teljes erdőrészlet véghasználati időszakát megtervezni.
+kell a teljes erdőrészlet véghasználati időszakát megtervezni.
 
 (8) Az Evt. 29. § (3) bekezdése alkalmazásában a végvágott területeket keletkeztető erdőfelújítási tervezési egységek egybefüggőnek minősülnek, ha legalább 10 méter hosszan csatlakoznak egymáshoz.
 

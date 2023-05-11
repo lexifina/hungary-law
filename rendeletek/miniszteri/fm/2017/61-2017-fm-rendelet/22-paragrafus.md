@@ -6,7 +6,7 @@ aa) hosszabb véghasználati időszakú, egyenlőtlen bontáson alapuló, fokoza
 
 ab) a tarvágások térben és időben tagolt tervezésével
 
-## vágásos üzemmódú erdőgazdálkodás esetén is az erdőborítás minél folyamatosabb fenntartására kell törekedni,
+vágásos üzemmódú erdőgazdálkodás esetén is az erdőborítás minél folyamatosabb fenntartására kell törekedni,
 
 b) a véghasználatok tervezése során arra kell törekedni, hogy az erdészeti tájban honos fafajokkal jellemezhető faállomány-típusok, illetve a közösségi jelentőségű, jelölő erdei élőhelytípusok esetében erdőtömbönként a korosztályviszonyok kiegyenlítettek legyenek,
 

@@ -24,7 +24,7 @@ a) védett vagy fokozottan védett természeti területen álló erdők, valamin
 
 b) erdőrezervátumok
 
-## erdőtag- és erdőrészlet azonosítói csak a védetté nyilvánító jogszabályban foglalt területi lehatárolás Adattárban való egyértelmű nyomonkövethetőségének biztosításával változtathatók meg.
+erdőtag- és erdőrészlet azonosítói csak a védetté nyilvánító jogszabályban foglalt területi lehatárolás Adattárban való egyértelmű nyomonkövethetőségének biztosításával változtathatók meg.
 
 (3) Az erdészeti hatóság a körzeti erdőtervezés során kialakított ingatlan-nyilvántartási határtól eltérő, új részlethatárok Evt. 16. § (10) bekezdésben foglaltak szerinti ismertetését a körzeti erdőtervezési eljárás részlet szintű tárgyalásán teszi meg.
 

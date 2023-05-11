@@ -16,6 +16,6 @@ a) az erdőfelújításra a 36. § (1) vagy (2) bekezdésében megállapított b
 
 b) az Evt. 52/A. § (2) bekezdése szerinti esetben a befejezési határidőt követő ötödik év december 31-ig
 
-## érvényes.
+érvényes.
 
 (4) Ha az erdőben, melyre az erdőgazdálkodó erdőfelújítási biztosítékot nyújtott az erdészeti hatóság az Evt. 106. § (1) bekezdése szerint az erdő felújításához kapcsolódó erdőgazdálkodási tevékenységet rendel el, az erdőfelújítási biztosítékot az elrendelt erdőgazdálkodási tevékenység költségeire kell fordítani.

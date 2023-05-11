@@ -16,7 +16,7 @@ ba) a tárgyév első felében befejezett erdőnevelési és fakitermelési tev�
 
 bb) a tárgyév második felében elvégzett, részben elvégzett, illetve elmaradt erdőnevelési és fakitermelési tevékenységeket – a december 31-i állapotnak megfelelően – a tárgyévet követő év január 31-ig
 
-## bejelenti az erdészeti hatóságnak.
+bejelenti az erdészeti hatóságnak.
 
 (2) Ha az Evt. 41. § (2) és (3) bekezdés szerinti tevékenység során erdei faválaszték felkészítése történik, az erdőgazdálkodó, igénybevétel esetén az engedély jogosultja a tevékenység végrehajtását az erdészeti hatóság részére az (1) bekezdés b) pontban foglalt időpontig bejelenti.
 
@@ -64,11 +64,11 @@ a) örökerdő üzemmód, és
 
 b) az Evt. 41. § (8) bekezdésében foglalt, tárgyévben be nem fejezett tevékenység
 
-## esetén.
+esetén.
 
-(9) Erdőtelepítés elsőkivitelének bejelentése esetén, ha az erdőtelepítés nem teljes földrészletet vagy alrészletet érint, a bejelentéshez – a (7) bekezdés szerinti térképi melléklet helyett – az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló 25/2013. (IV. 16.) VM rendelet szerint elkészített záradékolt változási vázrajzot kell csatolni.
+(9)[^28] Erdőtelepítés elsőkivitelének bejelentése esetén, ha az erdőtelepítés nem teljes földrészletet vagy alrészletet érint, a bejelentéshez – a (7) bekezdés szerinti térképi melléklet helyett – az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló 8/2018. (VI. 29.) AM rendelet szerint elkészített változási vázrajzot kell csatolni, azzal az eltéréssel, hogy a vázrajz záradékolása nem szükséges.
 
-(10)[^28] Az (1) bekezdésben meghatározott bejelentés ellenjegyzésével az alkalmazott jogosult erdészeti szakszemélyzet igazolja, hogy
+(10)[^29] Az (1) bekezdésben meghatározott bejelentés ellenjegyzésével az alkalmazott jogosult erdészeti szakszemélyzet igazolja, hogy
 
 a) a végrehajtással érintett erdőrészletekben a bejelentésben szereplő mértékben kerültek végrehajtásra a jogszerűen végezhető erdőgazdálkodási tevékenységek, valamint a bejelentett adatok a valóságnak megfelelnek,
 
@@ -78,10 +78,11 @@ c) a jogszerűen végezhető erdőgazdálkodási tevékenységek szakszerű vég
 
 d) a jogszerűtlenül végrehajtott erdőgazdálkodási tevékenység típusát és mértékét a végrehajtás utáni valós állapotnak megfelelően feltüntették.
 
-(11)[^29] A (10) bekezdés c) pontja tekintetében szakszerű végrehajtásnak tekinthető, ha az erdő megfelel az erdészeti hatóság végleges határozatában foglaltaknak, továbbá ha az intenzíven terjedő idegenhonos fafajok kivágása a természetességi alapelvárásnak megfelelő szükséges mértékig megtörtént, a záródás nem csökkent az elvárt mérték alá, az erdő egészségi állapota nem romlott az erdőgazdálkodási tevékenység végrehajtása következtében.
+(11)[^30] A (10) bekezdés c) pontja tekintetében szakszerű végrehajtásnak tekinthető, ha az erdő megfelel az erdészeti hatóság végleges határozatában foglaltaknak, továbbá ha az intenzíven terjedő idegenhonos fafajok kivágása a természetességi alapelvárásnak megfelelő szükséges mértékig megtörtént, a záródás nem csökkent az elvárt mérték alá, az erdő egészségi állapota nem romlott az erdőgazdálkodási tevékenység végrehajtása következtében.
 
 [^25]: A 29. § (4) bekezdés c) pontja az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
 [^26]: A 29. § (4) bekezdés d) pontja a 13/2020. (IV. 8.) AM rendelet 9. § d) pontja szerint módosított szöveg.
 [^27]: A 29. § (4) bekezdés n) pontja az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
-[^28]: A 29. § (10) bekezdés nyitó szövegrésze az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
-[^29]: A 29. § (11) bekezdése a 67. § (1) bekezdése szerint módosított szöveg.
+[^28]: A 29. § (9) bekezdése a 23/2023. (V. 10.) AM rendelet 30. § a) pontja szerint módosított szöveg.
+[^29]: A 29. § (10) bekezdés nyitó szövegrésze az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
+[^30]: A 29. § (11) bekezdése a 67. § (1) bekezdése szerint módosított szöveg.

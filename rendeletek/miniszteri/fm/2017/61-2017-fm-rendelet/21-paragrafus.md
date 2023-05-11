@@ -30,7 +30,7 @@ f) faanyagtermelést nem szolgáló erdőkben szükségessé váló fakitermelé
 
 g) erdőterület igénybevétele esetén
 
-## tervezhető.
+tervezhető.
 
 (9) A véghasználat során fakitermelési korlátozás alá eső vagy kitermelni nem szándékozott faegyedek (a továbbiakban: hagyásfa csoport) visszahagyását csoportos jelleggel kell megtervezni oly módon, hogy azok a 2 hektár vagy annál nagyobb, végvágott vagy tarvágott területen lehetőség szerint legalább 0,05–0,5 hektár területű csoportokban maradjanak vissza.
 

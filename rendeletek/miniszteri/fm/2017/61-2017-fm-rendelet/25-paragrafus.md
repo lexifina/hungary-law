@@ -10,7 +10,7 @@ c) az engedély szerint megvalósított erdőtelepítést az elsőkivitel végre
 
 d) az Evt. 6. § (1) bekezdés b) pontja szerinti szabad rendelkezésű erdőt az ingatlan-nyilvántartási területegységekkel azonosítható módon – erdészeti igazgatási egységenként, helység, sorszám területazonosító adatokkal
 
-## tartja nyilván.
+tartja nyilván.
 
 (2) Szabad rendelkezésű erdőre vonatkozóan az erdészeti hatóság az Evt. 38. § (2) bekezdés d) pontja szerinti adatként a következőket tartja nyilván:
 

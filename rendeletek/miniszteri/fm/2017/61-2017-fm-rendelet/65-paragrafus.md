@@ -6,6 +6,6 @@ b) szálalás fakitermelési mód az Evt. 71. § (1) bekezdés f) pontja szerint
 
 c) erdősítési célállomány a 8. melléklet szerinti célállománynak a 9. mellékletben foglaltak szerint
 
-## felel meg.
+felel meg.
 
 (2) Az (1) bekezdés szerinti változásokat az erdészeti hatóság 2018. július 1-jéig az Adattáron átvezeti.

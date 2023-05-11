@@ -14,6 +14,6 @@ e) pangó vízzel, a mozgó, vízmosással gyakran érintett, vagy
 
 f) a bánya-, bányameddő-, szeméttelep rekultiváció során fákkal, cserjékkel betelepített
 
-## területeken lévő erdőkre.
+területeken lévő erdőkre.
 
 (2) Az (1) bekezdés alá nem tartozó területeken lévő erdő talajvédelmi erdő rendeltetésének megállapítása termőhelyfeltárási szakvélemény alapján történhet.

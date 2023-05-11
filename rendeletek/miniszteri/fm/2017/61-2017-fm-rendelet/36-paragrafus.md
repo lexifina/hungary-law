@@ -10,7 +10,7 @@ d) az a)–c) pontok alá nem tartozó, egyéb főfafajú, mag eredetű erdőfel
 
 e) sarjról történő erdőfelújítás esetén öt
 
-## év alatt kell biztosítani.
+év alatt kell biztosítani.
 
 (2) Fokozatos felújítóvágás, vagy szálalóvágás mellett történő erdőfelújítás esetén az erdősítés befejezetté nyilvánításának feltételeit a végvágás tárgyévét követően
 
@@ -20,7 +20,7 @@ b) kocsánytalan tölgy, kocsányos tölgy, magyar tölgy, cser vagy bükk főfa
 
 c) az a) és b) pontok alá nem tartozó, egyéb főfafajú erdőfelújítás esetében nyolc
 
-## év alatt kell biztosítani.
+év alatt kell biztosítani.
 
 (3) A (2) bekezdés alkalmazásában a végvágás tárgyéveként azt az évet kell tekinteni, amikor az erdőrészlet teljes vagy a természetben összefüggő egy hektárt meghaladó részterületén az idős állomány záródása 30% alá csökken.
 

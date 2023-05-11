@@ -6,7 +6,7 @@ a) az állam 100%-os tulajdonában álló erdőben az egyéni szükségletet meg
 
 b) az állam 100%-os tulajdonában nem álló erdőben a haszonvételi joggyakorló előzetes írásbeli hozzájárulásával
 
-## gyakorolható.
+gyakorolható.
 
 (2) Ha jogszabály másképpen nem rendelkezik, egyéni szükségletnek minősül személyenként, naponta legfeljebb
 
@@ -16,7 +16,7 @@ b) 2 kg vadgyümölcs vagy
 
 c) 2 kg gyógynövény
 
-## gyűjtése.
+gyűjtése.
 
 (3) Egyéni szükségletre gyűjtött gomba, vadgyümölcs, gyógynövény illetve forrásvíz kereskedelmi forgalomba nem hozható.
 

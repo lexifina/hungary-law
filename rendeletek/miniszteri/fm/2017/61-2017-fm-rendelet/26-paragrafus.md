@@ -10,7 +10,7 @@ d) erdészeti térképi mellékleten ábrázolva súlypontját és nevét, tová
 
 e) a területén található erdei közjóléti berendezések típusait és mennyiségét
 
-## tartja nyilván.
+tartja nyilván.
 
 (2) Az Adattárban a nem erdei közjóléti létesítményhez kapcsolódó erdei közjóléti berendezés alábbi adatait kell nyilvántartani:
 

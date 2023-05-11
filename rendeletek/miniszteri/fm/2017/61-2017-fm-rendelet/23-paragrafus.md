@@ -10,6 +10,6 @@ d) intenzíven nem terjedő vagy
 
 e) allergiás kockázatot nem növelő
 
-## fafajú vagy fajtájú faegyedek szálankénti, soros, illetve csoportos elegyítése vagy visszahagyása is tervezhető. Kerülni kell a nőivarú nemes nyár fajták alkalmazását.
+fafajú vagy fajtájú faegyedek szálankénti, soros, illetve csoportos elegyítése vagy visszahagyása is tervezhető. Kerülni kell a nőivarú nemes nyár fajták alkalmazását.
 
 (2) A közjóléti rendeltetésű erdők véghasználatát lehetőség szerint úgy kell megtervezni, hogy az erdei közjóléti létesítmények köré egy famagasság szélességű hagyásfa csoport, védőzóna maradjon.

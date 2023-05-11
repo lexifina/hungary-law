@@ -1,5 +1,3 @@
-## érdekében.
-
 15. § (1) Az erdészeti hatóság az erdőrészlet szintű egyeztetés eredményeképpen létrejött adatok alapján a körzet területén 500 hektár vágásos és átmeneti üzemmódú területnél nagyobb 100%-os állami tulajdonú erdőket kezelő erdőgazdálkodó erdeire hozamvizsgálatot és a vizsgálat eredményétől függően hozamszabályozást végez.
 
 (2) A hozamszabályozás során az erdők rendeltetései, és a faállományok állapota alapján megállapított véghasználati, erdőfelújítási lehetőségek csak kivételesen térhetnek el jelentősen a faállományok vágásérettségi kora alapján számított tartamos erdőgazdálkodást biztosító hozami területétől. Jelentős eltérés esetén az erdészeti hatóság egyeztet az erdőgazdálkodóval, és annak alapján állapítja meg a következő időszak véghasználati lehetőségeit.

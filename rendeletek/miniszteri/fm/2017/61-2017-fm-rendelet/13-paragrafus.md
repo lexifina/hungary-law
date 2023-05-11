@@ -14,7 +14,7 @@ f) a Natura 2000 fenntartási tervek javaslatai, valamint
 
 g) a nagyvízi meder kezelési tervek
 
-## összevetésével felülvizsgálja az Adattár Evt. 38. § (2) bekezdés a), b) és d) pontjában foglalt adatait.
+összevetésével felülvizsgálja az Adattár Evt. 38. § (2) bekezdés a), b) és d) pontjában foglalt adatait.
 
 (2) A körzeti erdőtervezés során felhasználandó állami alapadatok:
 
