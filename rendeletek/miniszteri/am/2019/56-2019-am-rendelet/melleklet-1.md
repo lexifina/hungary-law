@@ -1,8 +1,6 @@
-## 29. §[^1]
-
 1. melléklet az 56/2019. (XII. 12.) AM rendelethez
 
-## Vizsgálati anyagok (minták) vételének részletes szabályai szarvasmarha gümőkór gyanúja esetén
+Vizsgálati anyagok (minták) vételének részletes szabályai szarvasmarha gümőkór gyanúja esetén
 
 1. Mintavétel és mintaküldés
 
@@ -13,5 +11,3 @@
 1.3. Az 1.2. szerinti mintákat a vizsgálati megrendelő irat első példányával együtt kell az NRL-be küldeni, egy példány a húsvizsgálatot végző állatorvosnál marad.
 
 1.4. Mycobaktériumok kimutatására takarmány, alom, talaj mintáiból 20–50 gramm, bélsárból 20 gramm, vizeletből 50 cm3, itató- és ivóvízből 1 liter. A gümőkórra irányuló vizsgálat és a mycobaktériumok meghatározása érdekében a vizsgálati anyagot az NRL-be kell küldeni. A környezeti minták vizsgálata az állattartó költségére történik.
-
-[^1]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

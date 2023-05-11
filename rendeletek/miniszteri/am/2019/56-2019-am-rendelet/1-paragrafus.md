@@ -15,3 +15,5 @@ c) a szarvasmarha gümőkór fertőzöttségére gyanús szarvasmarha egyedekkel
 d) a szarvasmarha gümőkórral fertőzött szarvasmarha egyedekkel és állományokkal, valamint
 
 e) a szarvasmarha gümőkórra fogékony egyéb állatfajokkal
+
+kapcsolatos állategészségügyi feladatok ellátására terjed ki.

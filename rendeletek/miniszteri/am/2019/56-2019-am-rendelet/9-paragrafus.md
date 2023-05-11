@@ -8,4 +8,6 @@
 
 (4) A minősítő és ellenőrző vizsgálatok nyilvántartásával és dokumentálásával kapcsolatos szabályokat, a kitöltési-eljárási tájékoztatót a NÉBIH által a honlapján közzétett Útmutató tartalmazza.
 
-(5) A minősítő és ellenőrző vizsgálatokról szóló jelentést az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró fővárosi és megyei kormányhivatalnak (a továbbiakban: megyei kormányhivatal) meg kell küldeni. A megyei kormányhivatal jelentést tesz az előző naptári év minősítő és ellenőrző vizsgálatairól a NÉBIH-nek.
+(5)[^1] A minősítő és ellenőrző vizsgálatokról szóló jelentést az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró fővárosi és vármegyei kormányhivatalnak (a továbbiakban: vármegyei kormányhivatal) meg kell küldeni. A vármegyei kormányhivatal jelentést tesz az előző naptári év minősítő és ellenőrző vizsgálatairól a NÉBIH-nek.
+
+[^1]: A 9. § (5) bekezdése a 23/2023. (V. 10.) AM rendelet 32. § a) pontja szerint módosított szöveg.

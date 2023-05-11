@@ -1,5 +1,3 @@
-## lehet.
-
 4. § (1) A korábban nem minősített szarvasmarha-állomány minősítése szarvasmarha gümőkórtól hivatalosan mentes, ha
 
 a) valamennyi egyed hivatalosan mentes a gümőkór klinikai tüneteitől,

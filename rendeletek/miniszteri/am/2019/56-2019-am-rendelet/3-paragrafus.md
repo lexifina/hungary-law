@@ -17,3 +17,5 @@ a) szarvasmarha gümőkórtól hivatalosan mentes,
 b) felfüggesztett minősítésű vagy
 
 c) szarvasmarha gümőkórral fertőzött
+
+lehet.

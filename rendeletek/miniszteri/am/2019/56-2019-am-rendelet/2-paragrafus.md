@@ -1,5 +1,3 @@
-## kapcsolatos állategészségügyi feladatok ellátására terjed ki.
-
 ## 2. Értelmező rendelkezések
 
 ## 2. § E rendelet alkalmazásában:
