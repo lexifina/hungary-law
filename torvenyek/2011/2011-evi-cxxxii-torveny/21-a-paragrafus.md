@@ -2,7 +2,7 @@
 
 a) közszolgálati ösztöndíjas hallgató,
 
-b) önköltség fizetésére nem kötelezett hallgató, aki a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos, a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos vagy szerződéses jogviszonyban, illetve pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban együtt: hivatásos vagy szerződéses jogviszony) vagy tisztjelölti jogviszonyban áll,
+b) önköltség fizetésére nem kötelezett hallgató, aki a Hszt. hatálya alá tartozó hivatásos, a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos vagy szerződéses jogviszonyban, illetve pénzügyőri státuszon adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban együtt: hivatásos vagy szerződéses jogviszony) vagy tisztjelölti jogviszonyban áll,
 
 c) önköltséges hallgató, vagy
 
