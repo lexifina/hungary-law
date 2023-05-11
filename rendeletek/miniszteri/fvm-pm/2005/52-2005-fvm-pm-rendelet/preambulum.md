@@ -1,1 +1,0 @@
-A takarmányok előállításáról, forgalomba hozataláról és felhasználásáról szóló 2001. évi CXIX. törvény (a továbbiakban: Tv.) 18. §-ának b) és o) pontjában foglalt felhatalmazás alapján – a gazdasági és közlekedési miniszterrel egyetértésben – a következőket rendeljük el:
