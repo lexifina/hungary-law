@@ -1,23 +1,15 @@
-## 16. A felülvizsgálati eljárás és az alkotmányjogi panasz
+## 16.[^34] Eljárás a felülvizsgálati eljárással, a perújítási eljárással és a jogegységi panasz eljárással érintett ügyben benyújtott alkotmányjogi panasz esetén
 
-32. § (1) Az Abtv. 26. § (1) bekezdés b) pontjában, 27. § b) pontjában és 56. § (2) bekezdésében foglalt jogorvoslati lehetőség kimerítésének kötelezettsége nem vonatkozik a felülvizsgálatra mint rendkívüli jogorvoslatra. Az Abtv. 26. § (1) bekezdése és 27. §-a szerinti alkotmányjogi panasz akkor is benyújtható, ha törvény felülvizsgálati kérelem vagy indítvány benyújtását is lehetővé teszi.
+32. § (1) Az Abtv. 26. § (1) bekezdés b) pontjában, 27. § (1) bekezdés b) pontjában és 56. § (2) bekezdésében foglalt jogorvoslati lehetőség kimerítésének kötelezettsége nem vonatkozik a felülvizsgálatra mint rendkívüli jogorvoslatra. Az Abtv. 26. § (1) bekezdése és 27. §-a szerinti alkotmányjogi panasz akkor is benyújtható, ha törvény felülvizsgálati kérelem vagy felülvizsgálati indítvány benyújtását is lehetővé teszi.
 
-(2)[^26] Az (1) bekezdésre figyelemmel az Abtv. 27. §-a alkalmazásában az ügy érdemében hozott, vagy a bírósági eljárást befejező döntésnek minősül és alkotmányjogi panasszal megtámadható, illetve az Abtv. 26. § (1) bekezdése alapján alkotmányjogi panasszal megtámadható a Kúria felülvizsgálati eljárásban hozott olyan döntése is, mely
+(2) Az Abtv. 30. § (1) bekezdésében meghatározott határidőt akkor is a sérelmezett bírói döntés kézbesítésétől kell számítani, ha az alkotmányjogi panasszal érintett ügyben – akár az indítványozó, akár más személy – felülvizsgálati eljárást kezdeményezett.
 
-a) a megtámadott határozatot hatályában fenntartja, vagy
+(3) Ha az Alkotmánybíróság a főtitkári előkészítő eljárás során hivatalos tudomást szerez arról, hogy az alkotmányjogi panasszal érintett ügyben a sérelmezett bírói döntés ellen előterjesztett felülvizsgálati kérelmet vagy felülvizsgálati indítványt a Kúria még nem bírálta el, az alkotmányjogi panaszt az Alkotmánybíróság egyesbíróként eljárva – az Abtv. 30. § (1) bekezdése szerinti határidő megtartásának vizsgálatát követően, az egyéb formai és tartalmi feltételek vizsgálatának mellőzésével – soron kívül visszautasítja.
 
-b) a jogerős határozatot egészben vagy részben hatályon kívül helyezi és helyette, illetve az elsőfokú határozat helyett új és a jogszabályoknak megfelelő határozatot hoz, vagy
+(4) Ha az Abtv. 30. § (1) bekezdése szerinti határidőben benyújtott alkotmányjogi panaszt az Alkotmánybíróság a (3) bekezdés alapján utasította vissza, a Kúria felülvizsgálati eljárást lezáró határozatának kézbesítésétől számított, az Abtv. 30. § (1) bekezdésében meghatározott határidőn belül a (2) bekezdés szerinti alkotmányjogi panaszban sérelmezett döntés ellen ismételten benyújtható alkotmányjogi panasz. Ilyen esetben a (2) bekezdés szerinti alkotmányjogi panaszban sérelmezett bírói döntés mellett a Kúriának a felülvizsgálati eljárásban hozott határozatát is lehet támadni.
 
-c) a jogerős határozatot megváltoztatja és a törvénynek megfelelő új határozatot hoz, vagy
+(5) A Kúria felülvizsgálati eljárásban hozott határozata alkotmányjogi panasszal az általános szabályok szerint önállóan is támadható. Ilyen esetben az Alkotmánybíróság a Kúriának a felülvizsgálati eljárásban hozott nem érdemi döntésén keresztül csak akkor vizsgálja az alapügyben hozott bírói döntést, ha a Kúria az alkotmányjogi panaszban sérelmezett, nem érdemi döntését mérlegelési jogkörben hozta meg.
 
-d) a megtámadott határozatot hatályon kívül helyezi, és az eljárást megszünteti,
+(6) A (4)–(5) bekezdésben foglaltaktól eltérően alkotmányjogi panasz benyújtásának nincs helye – arra tekintettel, hogy az eljárás még folyamatban van – a Kúria felülvizsgálati jogkörben hozott hatályon kívül helyező és új eljárásra utasító határozatával szemben, kivéve, ha az a tartalma alapján – a Kúria kötelező utasítása miatt – az eljárást lezáró döntésnek minősül.
 
-feltéve, hogy az indítványozó a jogerős döntést az Alkotmánybíróság előtt nem támadta meg, vagy a jogerős döntés ellen benyújtott panaszt az Alkotmánybíróság a Kúria folyamatban lévő eljárására tekintettel utasította vissza..
-
-(3)[^27] Az Abtv. 26. § (1) bekezdése és 27. §-a alapján alkotmányjogi panasz benyújtásának nincs helye, ha a Kúria a felülvizsgálati kérelmet, illetve indítványt még nem bírálta el, továbbá – arra tekintettel, hogy az eljárás még folyamatban van – a Kúria hatályon kívül helyező és új eljárásra utasító határozatával szemben. Ezen esetekben a benyújtott alkotmányjogi panasz soron kívül, az egyéb feltételek vizsgálata nélkül is visszautasítható.
-
-(4)[^28] Ha a jogerős döntést megtámadó alkotmányjogi panaszt az Alkotmánybíróság a Kúria folyamatban lévő eljárására tekintettel visszautasította, majd a Kúria a felülvizsgálati kérelmet, illetve indítványt elutasító döntést hozott a hiánypótlás vagy kiegészítés elmaradása, vagy a felülvizsgálatra nyitva álló határidő indítványozó általi elmulasztása miatt, vagy azért, mert a felülvizsgálat kizárt, akkor a Kúria ezen döntését az Abtv. 26. § (1) bekezdése vagy 27. §-a alapján megtámadó – és az Abtv. 30. § (1) bekezdésében foglalt határidőn belül benyújtott – alkotmányjogi panaszt, amennyiben az a jogerős döntésre is kiterjed, nem lehet elkésettnek tekinteni e határozat vonatkozásában.
-
-[^26]: A 32. § (2) bekezdés záró szövegrésze az 1005/2016. (VI. 22.) AB Tü. határozat 3. §-a szerint módosított szöveg, e módosító határozat 9. §-a alapján a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
-[^27]: A 32. § (3) bekezdése az 1005/2016. (VI. 22.) AB Tü. határozat 4. §-ával megállapított szöveg, e módosító határozat 9. §-a alapján a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
-[^28]: A 32. § (4) bekezdését az 1005/2016. (VI. 22.) AB Tü. határozat 5. §-a iktatta be, e módosító határozat 9. §-a alapján a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+[^34]: A 16. alcím (32-32/B. §) az 1001/2023. (V. 10.) AB Tü. határozat 6. §-ával megállapított szöveg. Alkalmazására lásd e módosító határozat 14. § (1) bekezdését.

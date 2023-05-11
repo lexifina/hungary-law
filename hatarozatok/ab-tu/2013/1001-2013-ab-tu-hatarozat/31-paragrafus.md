@@ -10,12 +10,12 @@ b) a tanács ülését megelőző munkanapig az Abtv. 49. § (6) bekezdés bb), 
 
 (4) A panasz visszautasításáról szóló végzést a visszautasítás okának és indokának rövid megjelölésével kell megindokolni.
 
-(5)[^23] A végzést az indítványozóval, valamint az elsőfokú bírósággal kell közölni. A panasz befogadásáról az előadó alkotmánybíró – a Ve. és Nsztv. szerinti eljárások kivételével – az indítványozót, az ellenérdekű felet és az elsőfokú bíróságot értesíti, más érdekeltet értesíthet.
+(5)[^31] A végzést az indítványozóval, valamint az elsőfokú bírósággal kell közölni. A panasz befogadásáról az előadó alkotmánybíró – a Ve. és Nsztv. szerinti eljárások kivételével – az indítványozót, az ellenérdekű felet és az elsőfokú bíróságot értesíti, más érdekeltet értesíthet.
 
-(6)[^24] Az előadó alkotmánybíró a panasz befogadásáról szóló döntés helyett a panasz érdemi elbírálását tartalmazó határozattervezetet terjeszthet a testület elé. Ebben az esetben az előadó alkotmánybíró – a Ve. és Nsztv. szerinti eljárások kivételével – az érdemi elbírálást tartalmazó tervezet előterjesztését megelőzően értesíti az ellenérdekű felet arról, hogy az ügyben alkotmányjogi panaszt nyújtottak be az Alkotmánybírósághoz.
+(6)[^32] Az előadó alkotmánybíró a panasz befogadásáról szóló döntés helyett a panasz érdemi elbírálását tartalmazó határozattervezetet terjeszthet a testület elé. Ebben az esetben az előadó alkotmánybíró – a Ve. és Nsztv. szerinti eljárások kivételével – az érdemi elbírálást tartalmazó tervezet előterjesztését megelőzően értesíti az ellenérdekű felet arról, hogy az ügyben alkotmányjogi panaszt nyújtottak be az Alkotmánybírósághoz. Ha az e bekezdés alapján előterjesztett határozattervezet tárgyalását a testület megkezdi, az alkotmányjogi panaszt a testületi ülés napjával befogadottnak kell tekinteni, és erről az előadó alkotmánybíró az indítványozót és az elsőfokú bíróságot értesíti.
 
-(7)[^25] A 31. § (5) bekezdése és a 31. § (6) bekezdése szerinti értesítés során – az ott meghatározott eljárások kivételével – az ellenérdekű felet arról is tájékoztatni kell, hogy az indítványozó által benyújtott alkotmányjogi panasz indítvány anonimizált szövege elektronikusan elérhető az Alkotmánybíróság honlapján.
+(7)[^33] A 31. § (5) bekezdése és a 31. § (6) bekezdése szerinti értesítés során – az ott meghatározott eljárások kivételével – az ellenérdekű felet arról is tájékoztatni kell, hogy az indítványozó által benyújtott alkotmányjogi panasz indítvány anonimizált szövege elektronikusan elérhető az Alkotmánybíróság honlapján.
 
-[^23]: A 31. § (5) bekezdése az 1003/2021. (IV. 7.) AB Tü. határozat 4. §-ával megállapított szöveg. Alkalmazására lásd e módosító határozat 10. §-át.
-[^24]: A 31. § (6) bekezdése az 1003/2021. (IV. 7.) AB Tü. határozat 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító határozat 10. §-át.
-[^25]: A 31. § (7) bekezdését az 1003/2021. (IV. 7.) AB Tü. határozat 6. §-a iktatta be. Alkalmazására lásd e módosító határozat 10. §-át.
+[^31]: A 31. § (5) bekezdése az 1003/2021. (IV. 7.) AB Tü. határozat 4. §-ával megállapított szöveg. Alkalmazására lásd e módosító határozat 10. §-át.
+[^32]: A 31. § (6) bekezdése az 1001/2023. (V. 10.) AB Tü. határozat 5. §-ával megállapított szöveg. Alkalmazására lásd e módosító határozat 14. § (1) bekezdését.
+[^33]: A 31. § (7) bekezdését az 1003/2021. (IV. 7.) AB Tü. határozat 6. §-a iktatta be. Alkalmazására lásd e módosító határozat 10. §-át.

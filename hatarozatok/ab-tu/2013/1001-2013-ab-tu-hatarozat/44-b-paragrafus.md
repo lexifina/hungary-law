@@ -1,0 +1,5 @@
+44/B. § (1) A vezető ügyhöz kiválasztott több indítvány esetén az előadó alkotmánybírónak az Abtv. 58. § (2) bekezdését megfelelően alkalmazni kell, azzal, hogy a 34. § (2) bekezdésétől eltérően az egyesítésre a befogadásról szóló döntést megelőzően, a befogadási kritériumok fennállásának hiányában is sor kerülhet. Azonos tárgyú ügy esetén a vezető ügyhöz egyesíteni lehet az Abtv. 24. §-a szerinti utólagos normakontroll eljárás iránti indítvány és az Abtv. 25. §-a szerinti bírói kezdeményezés alapján indult ügyet is.
+
+(2) Az Alkotmánybíróság a befogadhatóság vizsgálatát, illetve az érdemi eljárást csak a vezető ügyben folytatja le.
+
+(3) Az Alkotmánybíróságnak a vezető ügyben hozott döntése alapján az ismétlő indítványok alapján indult eljárások megszűnnek. A vezető ügyben hozott, az eljárást lezáró nem érdemi döntés alapján az ismétlő indítvány alapján indult eljárás csak akkor szűnik meg, ha a vezető végzés alapjául szolgáló körülmény az ismétlő indítvány esetében is nyilvánvalóan fennáll.

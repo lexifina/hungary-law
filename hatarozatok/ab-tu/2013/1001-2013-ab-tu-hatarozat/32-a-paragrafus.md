@@ -1,0 +1,7 @@
+32/A. § (1) Ha az Alkotmánybíróság a főtitkári előkészítő eljárás során hivatalos tudomást szerez arról, hogy a sérelmezett bírói döntés ellen előterjesztett perújítási kérelmet vagy perújítási indítványt a bíróság még nem bírálta el, az alkotmányjogi panaszt az Alkotmánybíróság egyesbíróként eljárva – az Abtv. 30. § (1) bekezdése szerinti határidő megtartásának vizsgálatát követően, az egyéb formai és tartalmi feltételek vizsgálatának mellőzésével – soron kívül visszautasítja.
+
+(2) Ha az Abtv. 30. § (1) bekezdése szerinti határidőben benyújtott alkotmányjogi panaszt az Alkotmánybíróság az (1) bekezdés alapján utasította vissza, a perújítás elrendelésének mellőzése esetén a perújítás tárgyában hozott határozat kézbesítésétől számított, az Abtv. 30. § (1) bekezdése szerinti határidőn belül az (1) bekezdés szerinti alkotmányjogi panaszban sérelmezett bírói döntés ellen ismételten benyújtható alkotmányjogi panasz. Ilyen esetben az (1) bekezdés szerinti alkotmányjogi panaszban sérelmezett bírói döntés mellett a perújítás tárgyában hozott érdemi határozatot is lehet támadni.
+
+(3) A perújítás tárgyában hozott, a perújítás elrendelését mellőző érdemi határozat alkotmányjogi panasszal az általános szabályok szerint önállóan is támadható. Ilyen esetben az Alkotmánybíróság az alapügyben hozott bírói döntést nem vizsgálja.
+
+(4) A perújítást elrendelő bírósági határozat önálló alkotmányjogi panasszal nem támadható.

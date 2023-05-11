@@ -1,0 +1,3 @@
+52. §[^56] Amennyiben az Alkotmánybíróság az Alaptörvény vagy törvény alapján az indítványról kilencven napon belül határoz, az indítványt a beérkezését követően a főtitkár haladéktalanul megvizsgálja és előkészíti. Az előadó alkotmánybíró az első tervezetet negyvenöt napon belül az ügy elbírálására jogosult testület elé terjeszti. Ha a főtitkár vagy az előadó alkotmánybíró hiánypótlást rendel el, és az Alkotmánybíróság az indítványt nem utasítja vissza a hiánypótlás elmaradása vagy elégtelensége miatt, az első tervezet előterjesztésének és az indítvány elbírálásának a határideje a hiánypótlás beérkezésekor kezdődik.
+
+[^56]: Az 52. § az 1001/2023. (V. 10.) AB Tü. határozat 10. §-ával megállapított szöveg. Alkalmazására lásd e módosító határozat 14. § (1) bekezdését.

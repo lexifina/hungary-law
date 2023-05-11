@@ -24,6 +24,6 @@ h) az Alkotmánybíróság bizottságai és
 
 i) az Alkotmánybíróság Hivatala
 
-## útján gyakorolja.
+útján gyakorolja.
 
 (2) Az Alkotmánybíróság szervezetére, és ügyviteli működésére vonatkozó részletes szabályokat az Alkotmánybíróság szervezeti és működési szabályzata, illetve ügyviteli szabályzata állapítja meg.

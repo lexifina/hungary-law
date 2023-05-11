@@ -16,7 +16,7 @@ bb) az országgyűlési tárgyalás alatt álló önálló indítványhoz módos
 
 bc) kormányrendelet, illetve miniszteri rendelet kibocsátásakor a kormányrendelet, illetve miniszteri rendelet tárgya szerint felelős miniszter, továbbá önálló szabályozó szerv vezetője rendeletének kiadásakor az önálló szabályozó szerv vezetője
 
-## volt.
+volt.
 
 (4) Ha a kizárási ok fennállását nem az alkotmánybíró jelentette be, és a kizáráshoz nem járult hozzá, a kizárás tárgyában az elnök által kijelölt másik tanács, illetve a teljes ülés dönt.
 
