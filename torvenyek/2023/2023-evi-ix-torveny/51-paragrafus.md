@@ -1,0 +1,3 @@
+51. § A Kit. 255. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Hivatalvezetőnek az nevezhető ki, aki büntetlen előéletű, az országgyűlési képviselők választásán választható, felsőfokú végzettséggel és legalább öt év közigazgatási gyakorlattal vagy felsőfokú végzettséggel és közigazgatási szervnél vezetői munkakörben vagy vezetői álláshelyen eltöltött legalább három év gyakorlattal rendelkezik. E § tekintetében közigazgatási gyakorlatnak minősül az országgyűlési képviselői tevékenység, a vármegyei közgyűlési elnöki és a polgármesteri tisztség ellátása is. A főispán kérelmére a kormányhivatal irányítására kormányrendeletben kijelölt miniszter a közigazgatási gyakorlat, illetve a vezetői gyakorlat megléte alól kivételesen indokolt esetben felmentést adhat.”
