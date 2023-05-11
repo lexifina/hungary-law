@@ -1,6 +1,6 @@
 4. számú melléklet a 32/1999. (III. 31.) FVM rendelethez
 
-## A hízott máj előállításának szabályai
+A hízott máj előállításának szabályai
 
 1.[^87] Az alábbi rendelkezések a hízott máj – a házi lúd (Anser anser var. domestica), a házi kacsa (Anas platyrynchos var. domestica), a pézsmaréce (Cairina moschata var. domestica), valamint kereszteződésük, a mulárd-kacsa élettani, étkezési szokásaira jellemző jó étvágyára és falánkságra alapozott – kíméletes töméses, hizlalásos előállítására vonatkoznak.
 

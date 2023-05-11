@@ -1,5 +1,3 @@
-## A sertések tartásának minimális követelményei
-
 ## 1. Általános szabályok
 
 ## 1.1. E melléklet alkalmazásában:
@@ -150,7 +148,7 @@
 
 3. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^65]
 
-## A tojótyúkok tartásának minimális követelményei
+A tojótyúkok tartásának minimális követelményei
 
 1. A tojótyúkok tartói az általuk alkalmazott rendszernek megfelelően
 

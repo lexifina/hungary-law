@@ -1,5 +1,3 @@
-## A tollszedés szabályai
-
 ## 1.1. Tollszedés, tollazás, letollazás: Az érett tollak kíméletes, fájdalommentes és szakszerű eltávolítása.
 
 ## 1.2. Az alábbi rendelkezések mindazon házi ludak (Anser anser var. domestica) tollszedésére vonatkoznak – az állatok fajtájától, hasznosítási irányától, korától, ivarától függetlenül –, amelyeket élő állapotban, tollszedésre hasznosítanak.

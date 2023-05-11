@@ -1,5 +1,3 @@
-## A házinyulak nagyüzemi tartásának minimális követelményei
-
 ## 1. Általános szabályok
 
 ## 1.1. E melléklet alkalmazásában:
@@ -82,7 +80,7 @@
 
 9. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^122]
 
-## A szőrméjükért tenyésztett fajok tartásának és szállításának minimális követelményei
+A szőrméjükért tenyésztett fajok tartásának és szállításának minimális követelményei
 
 1. Általános szabályok
 

@@ -2,7 +2,7 @@
 
 1. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^45]
 
-## A borjak tartásának minimális követelményei
+A borjak tartásának minimális követelményei
 
 1.[^46] Borjú: szarvasmarhaféle hat hónapos koráig.
 

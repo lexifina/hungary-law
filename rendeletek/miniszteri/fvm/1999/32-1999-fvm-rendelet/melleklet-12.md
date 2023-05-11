@@ -1,5 +1,3 @@
-## Bizonyítvány a hatósági állatvédelmi képzésen való vizsgatételről
-
 | 1. A hatósági állatvédelmi képzésen vizsgát tett személy |
 
 | 1.1. Vezetéknév 1.2. Utónevek 1.3. Születési hely (ország, város), születési idő |
@@ -18,7 +16,7 @@
 
 12. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^129]
 
-## A vízi szárnyasok tartásának minimális követelményei
+A vízi szárnyasok tartásának minimális követelményei
 
 1. Házi kacsát tilos egyedi ketrecben tartani.
 

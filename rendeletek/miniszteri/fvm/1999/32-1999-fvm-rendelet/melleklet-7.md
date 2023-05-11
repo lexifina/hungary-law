@@ -1,6 +1,6 @@
 7. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^108]
 
-## A hústermelés céljából tartott csirkék tartásának minimális követelményei
+A hústermelés céljából tartott csirkék tartásának minimális követelményei
 
 1. Általános szabályok
 

@@ -1,6 +1,6 @@
 10. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^123]
 
-## Az étkezési célra szánt halak tárolásának és szállításának minimális követelményei
+Az étkezési célra szánt halak tárolásának és szállításának minimális követelményei
 
 1. Általános szabályok
 
