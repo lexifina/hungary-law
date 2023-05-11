@@ -1,0 +1,3 @@
+10. § Az Ügyrend 52. §-a helyébe a következő rendelkezés lép:
+
+„52. § Amennyiben az Alkotmánybíróság az Alaptörvény vagy törvény alapján az indítványról kilencven napon belül határoz, az indítványt a beérkezését követően a főtitkár haladéktalanul megvizsgálja és előkészíti. Az előadó alkotmánybíró az első tervezetet negyvenöt napon belül az ügy elbírálására jogosult testület elé terjeszti. Ha a főtitkár vagy az előadó alkotmánybíró hiánypótlást rendel el, és az Alkotmánybíróság az indítványt nem utasítja vissza a hiánypótlás elmaradása vagy elégtelensége miatt, az első tervezet előterjesztésének és az indítvány elbírálásának a határideje a hiánypótlás beérkezésekor kezdődik.”
