@@ -11,3 +11,5 @@
 a) a rakodóhelyre érkezett, illetve a tenyészetben exportra berakodott sertések szállítóleveleinek adatait ellenőrzi, szükség esetén az eltérést jelentő bizonylatot kitölti,
 
 b) meghiúsult export esetén az export rakodóhelyen, visszaszállításra, illetve a továbbszállításra kerülő sertésekről az útmutatóban megadott módon bizonylatot állít ki, és
+
+a szükséges adatok FELIR-ben való rögzítéséről 7 munkanapon belül gondoskodik.

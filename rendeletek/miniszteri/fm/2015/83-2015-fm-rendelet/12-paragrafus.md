@@ -6,7 +6,7 @@ a) a tenyészetében lévő sertésekről a 21. §-ban előírtaknak megfelelőe
 
 b) a sertés ENAR szabályai szerint a tenyészetében lévő állatok jelöléséről gondoskodni, és ennek költségeit viselni;
 
-c) megyei körzetbe sorolt tenyészet esetén a tervezett állatmozgásról a kapcsolattartó állatorvost legalább 3 munkanappal korábban értesíteni;
+c)[^11] vármegyei körzetbe sorolt tenyészet esetén a tervezett állatmozgásról a kapcsolattartó állatorvost legalább 3 munkanappal korábban értesíteni;
 
 d) megakadályozni a füljelzők szándékos eltávolítását, olvashatatlanná tételét vagy egyéb módon történő megrongálását;
 
@@ -16,9 +16,9 @@ f) az új ENAR számmal átjelölt sertések adatait az állatmozgás- és sert�
 
 g) a sertés szállítólevelet és az egyéb ENAR-bizonylatot 3 évig megőrizni;
 
-h) a megyei körzetbe sorolt tenyészet esetén a tervezett tenyésztésbe vonásról, vagy a tenyészsertés füljelzőjének kieséséről a sertéságazati területi felelőst 5 munkanapon belül értesíteni;
+h)[^12] a vármegyei körzetbe sorolt tenyészet esetén a tervezett tenyésztésbe vonásról, vagy a tenyészsertés füljelzőjének kieséséről a sertéságazati területi felelőst 5 munkanapon belül értesíteni;
 
-i) megyei körzetbe sorolt tenyészet esetén a tenyészsertések fialásának és kiesésének a FELIR-ben való rögzítéséről gondoskodni;
+i)[^13] vármegyei körzetbe sorolt tenyészet esetén a tenyészsertések fialásának és kiesésének a FELIR-ben való rögzítéséről gondoskodni;
 
 j) önálló tenyészet esetében a NÉBIH portálon keresztül az elektronikus adatjelentéseket elvégezni vagy elvégeztetni;
 
@@ -35,3 +35,7 @@ lc) a jelölt egyedek kiesésének, valamint a kiesés okának rögzítésére a
 ld) a tenyészetek közötti állatmozgással kapcsolatos dokumentumok ellenőrzésére és átvezetésére az állomány-nyilvántartóba;
 
 le) az elveszett, kiesett jelölőeszközök pótlásának megrendelésére.
+
+[^11]: A 12. § c) pontja a 23/2023. (V. 10.) AM rendelet 27. § d) pontja szerint módosított szöveg.
+[^12]: A 12. § h) pontja a 23/2023. (V. 10.) AM rendelet 27. § d) pontja szerint módosított szöveg.
+[^13]: A 12. § i) pontja a 23/2023. (V. 10.) AM rendelet 27. § d) pontja szerint módosított szöveg.

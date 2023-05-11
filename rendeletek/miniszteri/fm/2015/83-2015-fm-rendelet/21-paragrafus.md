@@ -1,5 +1,3 @@
-## a szükséges adatok FELIR-ben való rögzítéséről 7 munkanapon belül gondoskodik.
-
 ## 9. Az állatmozgás- és sertés-nyilvántartás
 
 21. § (1) Az állattartó köteles a tenyészetében lévő sertésekről állatmozgás- és sertés-nyilvántartást vezetni, és azt naprakészen tartani. Az állatmozgás- és sertés-nyilvántartás elektronikus (nyomtatható) formában is vezethető.
