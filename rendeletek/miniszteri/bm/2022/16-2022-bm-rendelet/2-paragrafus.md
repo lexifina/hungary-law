@@ -1,3 +1,3 @@
-## 1. §[^1]
+2. §[^2]
 
-[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. § a 10/2023. (IV. 27.) BM rendelet 2. §-a alapján nem lép hatályba.
