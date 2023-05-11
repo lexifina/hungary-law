@@ -2,13 +2,13 @@
 
 12. § (1)[^45] Amennyiben a szerotipizálás során az NRL Salmonella Enteritidis, illetve Salmonella Typhimurium fertőzöttséget állapít meg, az érintett állomány és az abból származó termékek vonatkozásában a járási hivatal forgalmi korlátozást rendel el és a mentességről szóló hatósági bizonyítványt haladéktalanul visszavonja. Egyidejűleg a gazdaság többi állományának mentességről szóló hatósági bizonyítványát is vissza kell vonni, amennyiben a fertőzött állomány járványvédelmi izoláltsága nem megfelelően biztosított.
 
-(2)[^46] A vizsgálatot megismételni kizárólag a megyei kormányhivatal által a 9. § (10) bekezdése szerinti ismételt hatósági mintavétellel lehet. Az ismételt vizsgálathoz a mintavételt a lehető legrövidebb időn belül, kizárólag hatósági vagy jogosult állatorvos végezheti el.
+(2)[^46] A vizsgálatot megismételni kizárólag a vármegyei kormányhivatal által a 9. § (10) bekezdése szerinti ismételt hatósági mintavétellel lehet. Az ismételt vizsgálathoz a mintavételt a lehető legrövidebb időn belül, kizárólag hatósági vagy jogosult állatorvos végezheti el.
 
 (2a)[^47] A (2) bekezdés szerinti mintákat az NRL vizsgálja, az antimikrobiális gátló hatás kimutatására irányuló vizsgálattal együtt. Amennyiben az ismételt mintavétel eredménye negatív, vagy olyan szalmonella-szerotípussal való fertőzöttséget állapít meg, amelyre a nemzeti ellenőrzési programok nem terjednek ki, továbbá antimikrobiális gátló hatás nem mutatható ki, a járási hivatal feloldja a forgalmi korlátozást az állomány és termékei vonatkozásában. Amennyiben antimikrobiális gátló hatás mutatható ki, a szalmonella-fertőzöttséget megerősítettnek kell tekinteni.
 
 (2b)[^48] A járási hivatal kivizsgálja az antibiotikum-használat körülményeit és – amennyiben a vállalkozó az állományt emberi fogyasztásra vagy takarmányt előállító üzem részére kívánja értékesíteni – határozatban jelöli meg az elkülönített vágás legkorábbi időpontját az élelmezés-egészségügyi várakozási idő figyelembe vételével.
 
-(3)[^49] Amennyiben az ismételt vizsgálat is Salmonella Enteritidissel vagy Salmonella Typhimuriummal való fertőzöttséget állapít meg, vagy a megyei kormányhivatal ismételt vizsgálatot nem rendel el, az érintett állomány a vágóhíddal és a vágóhidat felügyelő hatósági állatorvossal történő előzetes egyeztetést követően a járási hivatal határozatával elkülönített vágásra küldhető.
+(3)[^49] Amennyiben az ismételt vizsgálat is Salmonella Enteritidissel vagy Salmonella Typhimuriummal való fertőzöttséget állapít meg, vagy a vármegyei kormányhivatal ismételt vizsgálatot nem rendel el, az érintett állomány a vágóhíddal és a vágóhidat felügyelő hatósági állatorvossal történő előzetes egyeztetést követően a járási hivatal határozatával elkülönített vágásra küldhető.
 
 (3a)[^50] Amennyiben az elkülönített vágást a járásban található vágóhíd végzi, úgy a határozatban az elkülönített vágás feltételeiről is rendelkezni kell.
 
@@ -29,10 +29,10 @@
 (10)[^56] Azokban a keltetőüzemekben, ahová fertőzött állományból származó keltetőtojás került, a 2160/2003/EK rendelet II. mellékletének C. részének 3. és 5. pontja szerint kell eljárni, továbbá a (7) és (8) bekezdésben foglaltakat megfelelően alkalmazni kell. Amennyiben a keltetőüzem rendelkezik mentességről szóló hatósági bizonyítvánnyal, a járási hivatal azt haladéktalanul visszavonja. A keltetőüzem köteles nyilvántartásai alapján a szennyezettség forrásának felderítésében közreműködni és a költségeket viselni.
 
 [^45]: A 12. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 146. § d) pontja szerint módosított szöveg.
-[^46]: A 12. § (2) bekezdése a 32/2014. (XII. 9.) FM rendelet 17. § (11) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 146. § e) pontja szerint módosított szöveg.
+[^46]: A 12. § (2) bekezdése a 32/2014. (XII. 9.) FM rendelet 17. § (11) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 146. § e) pontja, a 23/2023. (V. 10.) AM rendelet 15. § b) pontja szerint módosított szöveg.
 [^47]: A 12. § (2a) bekezdését a 32/2014. (XII. 9.) FM rendelet 17. § (11) bekezdése iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 146. § d) pontja szerint módosított szöveg.
 [^48]: A 12. § (2b) bekezdését a 32/2014. (XII. 9.) FM rendelet 17. § (11) bekezdése iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 146. § d) pontja szerint módosított szöveg.
-[^49]: A 12. § (3) bekezdése a 32/2014. (XII. 9.) FM rendelet 17. § (12) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 146. § d) és e) pontja szerint módosított szöveg.
+[^49]: A 12. § (3) bekezdése a 32/2014. (XII. 9.) FM rendelet 17. § (12) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 146. § d) és e) pontja, a 23/2023. (V. 10.) AM rendelet 15. § b) pontja szerint módosított szöveg.
 [^50]: A 12. § (3a) bekezdését a 32/2014. (XII. 9.) FM rendelet 17. § (12) bekezdése iktatta be.
 [^51]: A 12. § (3b) bekezdését a 32/2014. (XII. 9.) FM rendelet 17. § (12) bekezdése iktatta be.
 [^52]: A 12. § (5) bekezdése a 32/2014. (XII. 9.) FM rendelet 17. § (13) bekezdésével megállapított szöveg.

@@ -1,5 +1,3 @@
-## Hatósági mintavételek a házityúk- és pulykaállományokban
-
 |  | A | B | C | D |
 
 | 1. | Mintázandó állomány | Mintagyűjtés időpontja | Mintagyűjtés módja | Minták vizsgálata |
@@ -18,7 +16,7 @@
 
 3. számú melléklet a 180/2009. (XII. 29.) FVM rendelethez
 
-## Vizsgálati módszerek a naposkori minták vizsgálatához
+Vizsgálati módszerek a naposkori minták vizsgálatához
 
 1. A szállítódoboz bélésének vizsgálata
 

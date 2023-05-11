@@ -10,7 +10,7 @@ c) házityúk brojlerállományok esetében a 200/2012/EU bizottsági rendelet 1
 
 d) tenyész- és hízópulyka-állományok esetében az 1190/2012/EU bizottsági rendelet 1. cikk (1) bekezdés a) és b) pontja
 
-## szerinti célt kell elérni.
+szerinti célt kell elérni.
 
 (2) A védekezés során a vonatkozó közösségi jogszabályok, valamint az alábbi bizottsági határozatokkal jóváhagyott nemzeti ellenőrzési programok szerint kell eljárni:
 
