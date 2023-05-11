@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-182-20-
 | 2017-01-01 | 2009-182-20-82.9 | 70/2013. (VII. 31.) VM rendelet |
 | 2017-08-18 | 2009-182-20-82.10 | 70/2013. (VII. 31.) VM rendelet |
 | 2018-12-23 | 2009-182-20-82.11 | 40/2018. (XII. 15.) AM rendelet |
+| 2023-05-11 | 2009-182-20-82.12 | 70/2013. (VII. 31.) VM rendelet |

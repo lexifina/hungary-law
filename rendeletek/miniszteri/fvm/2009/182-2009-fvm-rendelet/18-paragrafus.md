@@ -1,4 +1,4 @@
-18. § (1)[^38] A belföldön szállítandó állatok esetében az állatszállítás ellenőrzése az élő állatok belföldi szállításának állat-egészségügyi szabályairól szóló miniszteri rendeletben foglaltak szerint történik.
+18. § (1)[^40] A belföldön szállítandó állatok esetében az állatszállítás ellenőrzése az élő állatok belföldi szállításának állat-egészségügyi szabályairól szóló miniszteri rendeletben foglaltak szerint történik.
 
 (2) Az Európai Unió másik tagállamába vagy harmadik országba szállítandó állatok berakásakor a felügyelő állatorvos köteles:
 
@@ -10,4 +10,4 @@ c) a szállítólevélen az Európai Unió másik tagállamába vagy harmadik or
 
 d) hiányosság esetén az állat berakását megtiltani vagy a feltételek teljesítéséig felfüggeszteni.
 
-[^38]: A 18. § (1) bekezdése a 88/2013. (X. 2.) VM rendelet 58. §-ával megállapított szöveg.
+[^40]: A 18. § (1) bekezdése a 88/2013. (X. 2.) VM rendelet 58. §-ával megállapított szöveg.

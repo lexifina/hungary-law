@@ -22,9 +22,9 @@
 
 10.[^5] útmutató: a NÉBIH által az MJKSz közreműködésével készített és a www.enar.hu honlapon közzétett ENAR formanyomtatvány-gyűjtemény és kitöltési-eljárási tájékoztató;
 
-11.[^6] kisméretű füljelző: a NÉBIH által bárányok, illetve gidák jelölésére engedélyezett füljelző 6 hónapos korig;
+11.[^6] kisméretű füljelző: a NÉBIH által bárányok, illetve gidák jelölésére engedélyezett füljelző kilenc hónapos korig;
 
-12.[^7] nagyméretű füljelző: a NÉBIH által továbbtartásra szánt állatok jelölésére engedélyezett füljelző 6 hónapos kortól;
+12.[^7] nagyméretű füljelző: a NÉBIH által továbbtartásra szánt állatok jelölésére engedélyezett füljelző kilenc hónapos kortól;
 
 13.[^8] állat-egészségügyi bizonyítvány: az élő állatok belföldi szállításának állat-egészségügyi szabályairól szóló 87/2012. (VIII. 27.) VM rendelet 2. melléklete szerinti okirat.
 
@@ -35,6 +35,6 @@
 [^3]: A 2. § (1) bekezdés 6. pontja a 70/2013. (VII. 31.) VM rendelet 118. § b) pontja szerint módosított szöveg.
 [^4]: A 2. § (1) bekezdés 7. pontja a 70/2013. (VII. 31.) VM rendelet 118. § b) pontja szerint módosított szöveg.
 [^5]: A 2. § (1) bekezdés 10. pontja a 88/2013. (X. 2.) VM rendelet 49. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § (1) bekezdés 11. pontját a 88/2013. (X. 2.) VM rendelet 49. § (2) bekezdése iktatta be.
-[^7]: A 2. § (1) bekezdés 12. pontját a 88/2013. (X. 2.) VM rendelet 49. § (2) bekezdése iktatta be.
+[^6]: A 2. § (1) bekezdés 11. pontját a 88/2013. (X. 2.) VM rendelet 49. § (2) bekezdése iktatta be, szövege a 23/2023. (V. 10.) AM rendelet 17. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdés 12. pontját a 88/2013. (X. 2.) VM rendelet 49. § (2) bekezdése iktatta be, szövege a 23/2023. (V. 10.) AM rendelet 17. § a) pontja szerint módosított szöveg.
 [^8]: A 2. § (1) bekezdés 13. pontját a 88/2013. (X. 2.) VM rendelet 49. § (2) bekezdése iktatta be.

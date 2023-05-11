@@ -1,22 +1,22 @@
 20. § (1) A területi felelős:
 
-a)[^40] gondoskodik az állattartó igénylése alapján az állatok megjelöléséhez szükséges eszközök és füljelzők rendszeres vagy soron kívüli megrendelésének továbbításáról a NÉBIH felé;
+a)[^42] gondoskodik az állattartó igénylése alapján az állatok megjelöléséhez szükséges eszközök és füljelzők rendszeres vagy soron kívüli megrendelésének továbbításáról a NÉBIH felé;
 
-b)[^41] elvégzi az állatok 4. § c) pont, valamint az 5. § c)–d) pontok szerinti jelölését, és kiadja az állattartó részére a jelölésről szóló igazolást, valamint elektronikus úton tíz napon belül megküldi a NÉBIH-nek a jelöléssel összefüggő, útmutatóban meghatározott adatokat;
+b)[^43] elvégzi az állatok 4. § c) pont, valamint az 5. § c)–d) pontok szerinti jelölését, és kiadja az állattartó részére a jelölésről szóló igazolást, valamint elektronikus úton tíz napon belül megküldi a NÉBIH-nek a jelöléssel összefüggő, útmutatóban meghatározott adatokat;
 
 c) átadja az állattartó részére az adott tenyészethez tartozó állatok ENAR-számát tartalmazó listáját és a szükséges nyomtatványokat;
 
-d)[^42] begyűjti és a NÉBIH-nek elektronikus úton megküldi a tenyésztőktől kapott leltáradatokat és a tenyésztési eseményekkel kapcsolatos állományváltozási adatokat;
+d)[^44] begyűjti és a NÉBIH-nek elektronikus úton megküldi a tenyésztőktől kapott leltáradatokat és a tenyésztési eseményekkel kapcsolatos állományváltozási adatokat;
 
-e)[^43] az állattartónál évente egy alkalommal közreműködik az állományleltár elvégzésében és a NÉBIH részére 10 napon belül elektronikusan megküldi az állományleltárról készült jelentést.
+e)[^45] az állattartónál évente egy alkalommal közreműködik az állományleltár elvégzésében és a NÉBIH részére 10 napon belül elektronikusan megküldi az állományleltárról készült jelentést.
 
-f)[^44] a 21/2004/EK rendelet és e rendelet által előírt kötelezettségek nem teljesítése esetén bejelentést tesz a Pest Megyei Kormányhivatal felé.
+f)[^46] a 21/2004/EK rendelet és e rendelet által előírt kötelezettségek nem teljesítése esetén bejelentést tesz a Pest Vármegyei Kormányhivatal felé.
 
-(2)[^45]
+(2)[^47]
 
-[^40]: A 20. § (1) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 118. § b) pontja szerint módosított szöveg.
-[^41]: A 20. § (1) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 118. § i) pontja szerint módosított szöveg.
-[^42]: A 20. § (1) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 118. § i) pontja szerint módosított szöveg.
-[^43]: A 20. § (1) bekezdés e) pontja a 88/2013. (X. 2.) VM rendelet 60. §-ával megállapított szöveg.
-[^44]: A 20. § (1) bekezdés f) pontja a 70/2013. (VII. 31.) VM rendelet 118. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 149. § b) pontja szerint módosított szöveg.
-[^45]: A 20. § (2) bekezdését a 40/2018. (XII. 15.) AM rendelet 10. § b) pontja hatályon kívül helyezte.
+[^42]: A 20. § (1) bekezdés a) pontja a 70/2013. (VII. 31.) VM rendelet 118. § b) pontja szerint módosított szöveg.
+[^43]: A 20. § (1) bekezdés b) pontja a 70/2013. (VII. 31.) VM rendelet 118. § i) pontja szerint módosított szöveg.
+[^44]: A 20. § (1) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 118. § i) pontja szerint módosított szöveg.
+[^45]: A 20. § (1) bekezdés e) pontja a 88/2013. (X. 2.) VM rendelet 60. §-ával megállapított szöveg.
+[^46]: A 20. § (1) bekezdés f) pontja a 70/2013. (VII. 31.) VM rendelet 118. § d) pontja, a 42/2017. (VIII. 17.) FM rendelet 149. § b) pontja, a 23/2023. (V. 10.) AM rendelet 17. § b) pontja szerint módosított szöveg.
+[^47]: A 20. § (2) bekezdését a 40/2018. (XII. 15.) AM rendelet 10. § b) pontja hatályon kívül helyezte.
