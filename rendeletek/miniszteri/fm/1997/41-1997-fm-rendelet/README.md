@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-41-20-1
 | 2017-08-18 | 1997-41-20-11.50 | 42/2017. (VIII. 17.) FM rendelet |
 | 2019-12-27 | 1997-41-20-11.51 | 56/2019. (XII. 12.) AM rendelet |
 | 2021-03-25 | 1997-41-20-11.52 | 8/2021. (III. 10.) AM rendelet |
+| 2023-05-11 | 1997-41-20-11.53 | 42/2017. (VIII. 17.) FM rendelet |

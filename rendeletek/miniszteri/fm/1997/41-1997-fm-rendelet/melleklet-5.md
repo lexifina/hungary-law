@@ -1,6 +1,6 @@
 ## 3–4. számú függelék
 
-## az Állategészségügyi Szabályzathoz[^548]
+## az Állategészségügyi Szabályzathoz[^545]
 
 ## 5. számú függelék
 
@@ -8,7 +8,7 @@
 
 ## Állati hulladékgyűjtők, hulladéktemetők, hulladékemésztő vermek, kedvtelésből tartott állatok kegyeleti temetője létesítésének állategészségügyi feltételei
 
-1–2.[^549]
+1–2.[^546]
 
 A gyepmesteri telep
 
@@ -48,7 +48,7 @@ mindenkor rendelkezésre álljanak.
 
 3.4. Az állati eredetű hulladékok, valamint az állathullák megőrzésére, lebőrőzésére és boncolására használt helyiségekben és istállókban a padozatot, valamint a padozattól számított két méter magasságig a falakat könnyen mosható és fertőtleníthető, vízálló anyaggal kell burkolni.
 
-3.5.[^550] A gazdálkodó szervezetek által fenntartott hullabegyűjtő helyekre – a járási hivatal előírása szerint – a gyepmesteri telepre vonatkozó szabályokat kell alkalmazni.
+3.5.[^547] A gazdálkodó szervezetek által fenntartott hullabegyűjtő helyekre – a járási hivatal előírása szerint – a gyepmesteri telepre vonatkozó szabályokat kell alkalmazni.
 
 3.6.Az állathulláknak a gyepmesteri telepre szállításával, őrzésével és ártalmatlanná tételével járó feladatok elvégzésére minden városban gyepmestert kell alkalmazni. A gyepmestert a polgármesteri hivatal alkalmazza.
 
@@ -66,23 +66,15 @@ d) a hullaszállító járművek, tartályok és ártalmatlanná tételre haszn�
 
 e) mindazoknak az állategészségüggyel kapcsolatos köztisztasági tennivalóknak az elvégzése, amelyeket a települési önkormányzat előír,
 
-f) a város utcáinak, tereinek, külső határának havonkénti bejárása, kóbor állatok és ebek befogása, amelyet kíméletesen kell végrehajtani,
-
-g) ebzárlat idején – a körzeti állatorvos által megállapított időközökben – a zárlat alatt álló terület bejárása, és a tilalom ellenére szabadon talált ebek befogása,
-
-h) a befogott állatoknak a gyepmesteri telepre szállítása, gondozása és a hatósági állatorvos utasítása szerinti megőrzése, – a polgármesteri hivatal határozatában megállapított tartási és ápolási költségek megtérítése után – a tulajdonosnak való kiadása, vagy a leölés utáni ártalmatlanná tétele,
-
-i) a gyepmesteri telepen megfigyelésre elhelyezett állatok gondozása és azokról nyilvántartás vezetése,
-
 j) a gyepmesteri telepre szállított állathullákról, a hatósági rendelkezésre leölt állatokról átvételi elismervény kiállítása és nyilvántartás vezetése.
 
 3.9. A gyepmesteri telepen csak a telephez tartozó igásállatokat és a házőrzésre szükséges ebet szabad tartani. Az igásállatokat csak a telep területén erre a célra kijelölt istállóban szabad elhelyezni, és azokat más állattól távol kell tartani, idegen istállóba vagy más állatok tartására szolgáló helyre tilos bekötni. Etetésükre és itatásukra külön eszközöket kell használni. A munkára alkalmatlanná vált igásállatokat vágóhídra kell irányítani.
 
 3.10. A gyepmesteri telep állategészségügyi felügyeletét a hatósági állatorvos látja el.
 
-4.[^551]
+4.[^552]
 
-[^548]: Az 1. számú melléklet 3–4. számú függelékét a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
-[^549]: Az 1. számú melléklet 5. számú függelékének 1–2. pontját a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
-[^550]: A 1. számú melléklet 5. függelék 3.5. pontja a 22/2014. (III. 14.) VM rendelet 3. § (3) bekezdése, a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
-[^551]: Az 1. számú melléklet 5. számú függelék 4. pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 87. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^545]: Az 1. számú melléklet 3–4. számú függelékét a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
+[^546]: Az 1. számú melléklet 5. számú függelékének 1–2. pontját a 71/2003. (VI. 27.) FVM rendelet 27. §-ának (1) bekezdése hatályon kívül helyezte.
+[^547]: A 1. számú melléklet 5. függelék 3.5. pontja a 22/2014. (III. 14.) VM rendelet 3. § (3) bekezdése, a 42/2017. (VIII. 17.) FM rendelet 7. § 3. pontja szerint módosított szöveg.
+[^552]: Az 1. számú melléklet 5. számú függelék 4. pontját a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 87. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
