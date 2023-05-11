@@ -131,13 +131,3 @@
 ## 21. a politikai felsővezetői tisztség betöltésének igazolása céljából kiállított igazolvány száma
 
 ## 22. kinevezéstől eltérő foglalkoztatásra vonatkozó adatok
-
-## 23. versenytilalmi korlátozásra vonatkozó információk
-
-## 24. kötelező és önkéntes elhatározás alapján teljesített képzésre vonatkozó információk
-
-## 25. kártérítés, fegyelmi felelősségre vonatkozó adatok
-
-## 26.
-
-## 27. vagyonnyilatkozat tételi kötelezettségre vonatkozó adatok

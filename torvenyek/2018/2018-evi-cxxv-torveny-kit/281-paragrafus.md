@@ -44,7 +44,7 @@
 
 2. az álláshellyel kapcsolatosan a munkáltatói jogkör gyakorlója által megállapítható szakmai és képesítési követelmények meghatározásának szempontjait és kereteit;
 
-3. a főosztályvezetői és az osztályvezetői álláshely betöltéséhez szükséges feltételeket;
+3. az álláshely betöltéséhez szükséges feltételeket;
 
 4. a Közszolgálati Személyügyi Szolgáltatási Keretrendszer
 

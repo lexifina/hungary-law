@@ -1,15 +1,19 @@
-### 258. § [A hivatalvezető kormányzati szolgálati jogviszonyának megszűnése]
+### 258. § [A hivatalvezető kormányzati szolgálati jogviszonyának megszűnése és megszüntetése]
 
-A hivatalvezető kormányzati szolgálati jogviszonya megszűnik:
+(1) A hivatalvezető kormányzati szolgálati jogviszonya megszűnik:
 
-a) lemondásával,
+a) a hivatalvezető halálával,
 
-b) felmentésével,
+b) ha a hivatalvezető az országgyűlési képviselők választásán már nem választható,
 
-c) halálával,
+c) a hivatalvezető összeférhetetlenségének megállapításával,
 
-d) ha az országgyűlési képviselők választásán már nem választható,
+d) a hivatalvezető álláshelyének elvonásával, visszavonásával vagy megszüntetésével.
 
-e) összeférhetetlenségének megállapításával,
+(2) A hivatalvezető kormányzati szolgálati jogviszonya megszüntethető:
 
-f) álláshelyének a központosított álláshelyállományba kerülésével.
+a) a hivatalvezető lemondásával,
+
+b) a hivatalvezető felmentésével,
+
+c) a felek közös megegyezésével.

@@ -1,19 +1,23 @@
-### 209. § [A főispán megbízatásának megszűnése]
+### 209. § [A főispán megbízatásának megszűnése és megszüntetése]
 
 (1) A főispán megbízatása megszűnik:
 
 a) a miniszterelnök megbízatásának megszűnésével,
 
-b) lemondásával,
+b) a főispán halálával,
 
-c) felmentésével,
+c) ha a főispán az országgyűlési képviselők választásán már nem választható,
 
-d) halálával,
+d) a főispán összeférhetetlenségének megállapításával,
 
-e) ha az országgyűlési képviselők választásán már nem választható,
+e) a főispán álláshelyének elvonásával, visszavonásával vagy megszüntetésével.
 
-f) összeférhetetlenségének megállapításával,
+(2) A főispán megbízatása megszüntethető:
 
-g) közös megegyezéssel.
+a) a főispán lemondásával,
 
-(2) Ha a főispán megbízatása a miniszterelnök megbízatásának megszűnésével szűnt meg, az új Kormány megalakulásáig gyakorolja hatáskörét.
+b) a főispán felmentésével,
+
+c) a felek közös megegyezésével.
+
+(3) Ha a főispán megbízatása a miniszterelnök megbízatásának megszűnésével szűnt meg, az új Kormány megalakulásáig gyakorolja hatáskörét.
