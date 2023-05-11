@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-119-20-
 | 2019-05-11 | 2007-119-20-82.13 | 17/2019. (V. 10.) AM rendelet |
 | 2021-02-20 | 2007-119-20-82.14 | 3/2021. (II. 19.) AM rendelet |
 | 2021-11-30 | 2007-119-20-82.15 | 40/2018. (XII. 15.) AM rendelet |
+| 2023-05-11 | 2007-119-20-82.16 | 42/2017. (VIII. 17.) FM rendelet |

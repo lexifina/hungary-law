@@ -1,10 +1,10 @@
 ## Az állattartó feladatai
 
-10. § (1)[^74] A 4. § szerint tenyészetének bejelentésére kötelezett állattartó köteles adatait bejelenteni a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti ügyfél-nyilvántartási rendszerbe, amelyet a Magyar Államkincstár (a továbbiakban: Kincstár) kezel.
+10. § (1)[^80] A 4. § szerint tenyészetének bejelentésére kötelezett állattartó köteles adatait bejelenteni a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti ügyfél-nyilvántartási rendszerbe, amelyet a Magyar Államkincstár (a továbbiakban: Kincstár) kezel.
 
-(2)[^75] Új tenyészet vagy tartási hely bejelentése, vagy már regisztrált tenyészet, illetve tartási hely bármelyik adatának módosítása csak akkor regisztrálható, ha az állattartó ügyfél-azonosítója szerepel az Országos Adatbázisban. Ennek hiányában az állattartónak az Útmutatóban szereplő formanyomtatványon be kell jelentenie regisztrációs számát az Országos Adatbázishoz.
+(2)[^81] Új tenyészet vagy tartási hely bejelentése, vagy már regisztrált tenyészet, illetve tartási hely bármelyik adatának módosítása csak akkor regisztrálható, ha az állattartó ügyfél-azonosítója szerepel az Országos Adatbázisban. Ennek hiányában az állattartónak az Útmutatóban szereplő formanyomtatványon be kell jelentenie regisztrációs számát az Országos Adatbázishoz.
 
-(3)[^76] Már regisztrált tenyészet esetén, ha az állattartó ügyfél-azonosítója még nincs nyilvántartva az Országos Adatbázisban, bármely, a tenyészetet érintő ügyintézést csak az Útmutatóban szereplő formanyomtatványon az ügyfél-azonosítójának az Országos Adatbázishoz történő – bejelentéssel egyidejű – bejelentésével lehet kezdeményezni.
+(3)[^82] Már regisztrált tenyészet esetén, ha az állattartó ügyfél-azonosítója még nincs nyilvántartva az Országos Adatbázisban, bármely, a tenyészetet érintő ügyintézést csak az Útmutatóban szereplő formanyomtatványon az ügyfél-azonosítójának az Országos Adatbázishoz történő – bejelentéssel egyidejű – bejelentésével lehet kezdeményezni.
 
 (4) E rendelet 4. és 6. §-aival összhangban, az e rendelet hatálya alá eső tenyészet állattartója az Útmutatóban szereplő formanyomtatványon tíz napon belül bejelenti az Országos Adatbázishoz:
 
@@ -16,12 +16,12 @@ c) új állattartó esetén az új állattartó és a tartóváltás adatait;
 
 d) tenyészetének vagy tartási helyének bármely adatában bekövetkezett változást.
 
-(5)[^77] Az állattartó köteles a TIR szerinti tenyészetkódot a kaptárak külső felületén, jól láthatóan, legalább 20 milliméteres számokkal, roncsolás nélkül nem eltávolítható módon, égetéssel, vagy korróziónak ellenálló hordozón feltüntetni.
+(5)[^83] Az állattartó köteles a TIR szerinti tenyészetkódot a kaptárak külső felületén, jól láthatóan, legalább 20 milliméteres számokkal, roncsolás nélkül nem eltávolítható módon, égetéssel, vagy korróziónak ellenálló hordozón feltüntetni.
 
-(6)[^78] Az e rendelet hatálya alá eső tenyészet állattartója az önálló tenyészetbe való besorolást, illetve ENAR-felelős személyének megváltozását követő 10 napon belül írásban tájékoztatja a megyei kormányhivatalt az ENAR-felelős személyéről.
+(6)[^84] Az e rendelet hatálya alá eső tenyészet állattartója az önálló tenyészetbe való besorolást, illetve ENAR-felelős személyének megváltozását követő 10 napon belül írásban tájékoztatja a vármegyei kormányhivatalt az ENAR-felelős személyéről.
 
-[^74]: A 10. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 17. § a) pontja szerint módosított szöveg.
-[^75]: A 10. § (2) bekezdése a 40/2018. (XII. 15.) AM rendelet 5. § l) pontja szerint módosított szöveg.
-[^76]: A 10. § (3) bekezdése a 40/2018. (XII. 15.) AM rendelet 4. § (20) bekezdésével megállapított szöveg.
-[^77]: A 10. § (5) bekezdését a 38/2012. (IV. 25.) VM rendelet 1. §-a iktatta be.
-[^78]: A 10. § (6) bekezdését a 88/2013. (X. 2.) VM rendelet 40. §-a iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 98. § i) pontja szerint módosított szöveg.
+[^80]: A 10. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 17. § a) pontja szerint módosított szöveg.
+[^81]: A 10. § (2) bekezdése a 40/2018. (XII. 15.) AM rendelet 5. § l) pontja szerint módosított szöveg.
+[^82]: A 10. § (3) bekezdése a 40/2018. (XII. 15.) AM rendelet 4. § (20) bekezdésével megállapított szöveg.
+[^83]: A 10. § (5) bekezdését a 38/2012. (IV. 25.) VM rendelet 1. §-a iktatta be.
+[^84]: A 10. § (6) bekezdését a 88/2013. (X. 2.) VM rendelet 40. §-a iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 98. § i) pontja, a 23/2023. (V. 10.) AM rendelet 9. § d) pontja szerint módosított szöveg.

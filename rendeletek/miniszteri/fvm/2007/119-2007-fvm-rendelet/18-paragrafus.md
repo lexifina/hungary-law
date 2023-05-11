@@ -1,5 +1,3 @@
-## 15–17. §[^99]
-
 ## Az Európai Unió jogának való megfelelés
 
 18. § (1) Ez a rendelet a következő irányelveknek való megfelelést szolgálja:
@@ -17,5 +15,3 @@
 – a Bizottság 1505/2006/EK rendelete (2006. október 11.) a juh- és kecskefélék azonosításával és nyilvántartásával kapcsolatosan végrehajtandó ellenőrzések minimális szintje tekintetében a 21/2004/EK tanácsi rendelet végrehajtásáról;
 
 – a Tanács 1760/2000/EK rendelete (2000. július 17.) a szarvasmarhák azonosítási és nyilvántartási rendszerének létrehozásáról, továbbá a marhahús és marhahústermékek címkézéséről, valamint a 820/97/EK tanácsi rendelet hatályon kívül helyezéséről.
-
-[^99]: A 15–17. §-t a 88/2013. (X. 2.) VM rendelet 43. § d) pontja hatályon kívül helyezte.
