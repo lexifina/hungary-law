@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-44-20-8
 | 2013-04-26 | 2005-44-20-82.4 | 24/2013. (IV. 11.) VM rendelet |
 | 2017-08-18 | 2005-44-20-82.5 | 42/2017. (VIII. 17.) FM rendelet |
 | 2022-02-23 | 2005-44-20-82.6 | 4/2022. (II. 8.) AM rendelet |
+| 2023-05-11 | 2005-44-20-82.7 | 4/2022. (II. 8.) AM rendelet |

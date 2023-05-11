@@ -6,7 +6,7 @@
 
 (3) Amennyiben a mezőgazdasági repülés védett természeti területet vagy különleges rendeltetésű vadászterületet érint, a kijuttatáshoz az illetékes természetvédelmi, illetve vadászati hatóság engedélye szükséges, amelyet a légi permetezés esetén a szakirányítónak, egyéb esetben a megrendelőnek kell előzetesen beszerezni.
 
-(4)[^80] A NÉBIH által megállapított nagy területre kiterjedő súlyos kár elhárítása érdekében lakott területrész felett légi permetezés az engedélyokirata szerint közterületen felhasználásra és légi úton történő kijuttatásra is engedélyezett növényvédő szerrel végezhető. Erről a települési önkormányzat jegyzőjét, a népegészségügyi határkörben eljáró megyei kormányhivatalt, valamint a helyben szokásos módon a lakosságot tájékoztatni kell.
+(4)[^80] A NÉBIH által megállapított nagy területre kiterjedő súlyos kár elhárítása érdekében lakott területrész felett légi permetezés az engedélyokirata szerint közterületen felhasználásra és légi úton történő kijuttatásra is engedélyezett növényvédő szerrel végezhető. Erről a települési önkormányzat jegyzőjét, a népegészségügyi határkörben eljáró vármegyei kormányhivatalt, valamint a helyben szokásos módon a lakosságot tájékoztatni kell.
 
 (5) A munkaterületre való ki- és berepülés útvonalát úgy kell kijelölni, hogy az lehetőség szerint ne érintse az (1) és (3) bekezdésekben meghatározott, a munkatérképen jelölt területeket.
 
@@ -18,10 +18,12 @@ a) zárt kabinú mezőgazdasági légijármű esetén 50 méteres,
 
 b) a pilóta nélküli légijármű esetén legalább 20 méteres
 
+védőtávolságot kell tartani.
+
 [^76]: A 13. § a 24/2013. (IV. 11.) VM rendelet 10. §-ával megállapított szöveg.
 [^77]: A 13. § (1) bekezdése a 4/2022. (II. 8.) AM rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^78]: A 13. § (1a) bekezdését a 4/2022. (II. 8.) AM rendelet 13. § (2) bekezdése iktatta be.
 [^79]: A 13. § (2) bekezdése a 4/2022. (II. 8.) AM rendelet 15. § l) pontja szerint módosított szöveg.
-[^80]: A 13. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 77. § h) pontja, a 4/2022. (II. 8.) AM rendelet 15. § m)–n) pontja szerint módosított szöveg.
+[^80]: A 13. § (4) bekezdése a 42/2017. (VIII. 17.) FM rendelet 77. § h) pontja, a 4/2022. (II. 8.) AM rendelet 15. § m)–n) pontja, a 23/2023. (V. 10.) AM rendelet 6. § b) pontja szerint módosított szöveg.
 [^81]: A 13. § (6) bekezdése a 4/2022. (II. 8.) AM rendelet 13. § (3) bekezdésével megállapított szöveg.
 [^82]: A 13. § (7) bekezdését a 4/2022. (II. 8.) AM rendelet 13. § (3) bekezdése iktatta be.

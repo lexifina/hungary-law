@@ -1,8 +1,8 @@
 ## A légi permetezés szabályai[^25]
 
-3/A. §[^26] (1)[^27] Légi permetezés az adott naptári évre vonatkozó – a megyei kormányhivatal által engedélyezett – kijuttatási terv (a továbbiakban: kijuttatási terv) alapján végezhető.
+3/A. §[^26] (1)[^27] Légi permetezés az adott naptári évre vonatkozó – a vármegyei kormányhivatal által engedélyezett – kijuttatási terv (a továbbiakban: kijuttatási terv) alapján végezhető.
 
-(1a)[^28] A kijuttatási tervet a tervezett első légi permetezés megkezdése előtt legalább harminc nappal kell benyújtani a megyei kormányhivatalhoz.
+(1a)[^28] A kijuttatási tervet a tervezett első légi permetezés megkezdése előtt legalább harminc nappal kell benyújtani a vármegyei kormányhivatalhoz.
 
 (1b)[^29] A kijuttatási terv engedélyezése iránti kérelem tartalmazza:
 
@@ -54,7 +54,7 @@ b) a növényvédő szernek nem minősülő növényvédő hatású termékkel v
 
 c) a termésnövelő anyaggal végzett tápanyag-gazdálkodási célú mezőgazdasági repülést,
 
-annak megkezdése előtt, de legkésőbb az azt megelőző munkanap délelőtt 9 óráig bejelenti a megyei kormányhivatalnak.
+annak megkezdése előtt, de legkésőbb az azt megelőző munkanap délelőtt 9 óráig bejelenti a vármegyei kormányhivatalnak.
 
 (5a)[^37] Az (5) bekezdés szerinti bejelentés a következő adatokat tartalmazza:
 
@@ -86,8 +86,8 @@ ic) a pilóta nélküli légi járművel végzett mezőgazdasági repülés UAS-
 
 [^25]: A 3/A. §-t megelőző alcímet a 34/2012. (IV. 6.) VM rendelet 3. §-a iktatta be.
 [^26]: A 3/A. §-t a 34/2012. (IV. 6.) VM rendelet 3. §-a iktatta be.
-[^27]: A 3/A. § (1) bekezdése a 4/2022. (II. 8.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^28]: A 3/A. § (1a) bekezdését a 4/2022. (II. 8.) AM rendelet 4. § (2) bekezdése iktatta be.
+[^27]: A 3/A. § (1) bekezdése a 4/2022. (II. 8.) AM rendelet 4. § (1) bekezdésével megállapított, a 23/2023. (V. 10.) AM rendelet 6. § b) pontja szerint módosított szöveg.
+[^28]: A 3/A. § (1a) bekezdését a 4/2022. (II. 8.) AM rendelet 4. § (2) bekezdése iktatta be, szövege a 23/2023. (V. 10.) AM rendelet 6. § b) pontja szerint módosított szöveg.
 [^29]: A 3/A. § (1b) bekezdését a 4/2022. (II. 8.) AM rendelet 4. § (2) bekezdése iktatta be.
 [^30]: A 3/A. § (1c) bekezdését a 4/2022. (II. 8.) AM rendelet 4. § (2) bekezdése iktatta be.
 [^31]: A 3/A. § (2) bekezdése a 24/2013. (IV. 11.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
@@ -95,6 +95,6 @@ ic) a pilóta nélküli légi járművel végzett mezőgazdasági repülés UAS-
 [^33]: A 3/A. § (2) bekezdés b) pontja a 4/2022. (II. 8.) AM rendelet 15. § d) pontja szerint módosított szöveg.
 [^34]: A 3/A. § (3) bekezdését a 4/2022. (II. 8.) AM rendelet 16. § d) pontja hatályon kívül helyezte.
 [^35]: A 3/A. § (4) bekezdése a 4/2022. (II. 8.) AM rendelet 15. § e) pontja szerint módosított szöveg.
-[^36]: A 3/A. § (5) bekezdése a 4/2022. (II. 8.) AM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^36]: A 3/A. § (5) bekezdése a 4/2022. (II. 8.) AM rendelet 4. § (3) bekezdésével megállapított, záró szövegrésze a 23/2023. (V. 10.) AM rendelet 6. § b) pontja szerint módosított szöveg.
 [^37]: A 3/A. § (5a) bekezdését a 4/2022. (II. 8.) AM rendelet 4. § (3) bekezdése iktatta be.
 [^38]: A 3/A. § (6) bekezdését a 24/2013. (IV. 11.) VM rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 4/2022. (II. 8.) AM rendelet 16. § d) pontja.

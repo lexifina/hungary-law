@@ -4,7 +4,7 @@
 
 a) a mezőgazdasági légijármű kijuttató szóróberendezését, felszerelését, tartozékát műszakilag kifogástalan állapotban kell tartania, különös tekintettel a munkaszélességre jellemző keresztirányú szórásegyenletességre, valamint zárt állapotban az elfolyás- és csöpögésmentes szállítást lehetővé tevő berendezések állapotára,
 
-b)[^68] székhelyét és telephelyét a megyei kormányhivatalnak be kell jelentenie.
+b)[^68] székhelyét és telephelyét a vármegyei kormányhivatalnak be kell jelentenie.
 
 (1a)[^69] A pilóta nélküli légijármű üzemeltetője a mezőgazdasági repülés során egy különálló, teljes mértékben tömítetten lezárható, legalább 15 dm3 térfogatú tartályt vagy edényt biztosít a permetlétartály ürítését követően a tartályban maradt teljes visszamaradó mennyiségnek a növényvédelmi tevékenységről szóló 43/2010. (IV. 23.) FVM rendelet 8. § (2) bekezdése szerinti hígításához, a permetező felépítmény teljes körű és alapos tisztításához, továbbá a kezelő személy vagy személyek tisztálkodásához.
 
@@ -18,7 +18,7 @@ b)[^68] székhelyét és telephelyét a megyei kormányhivatalnak be kell jelent
 
 [^66]: A 11. §-t megelőző alcím a 24/2013. (IV. 11.) VM rendelet 13. § g) pontja szerint módosított szöveg.
 [^67]: A 11. § (1) bekezdés nyitó szövegrésze a 24/2013. (IV. 11.) VM rendelet 13. § g) pontja szerint módosított szöveg.
-[^68]: A 11. § (1) bekezdés b) pontja a 4/2022. (II. 8.) AM rendelet 15. § j) pontja és 16. § f) pontja szerint módosított szöveg.
+[^68]: A 11. § (1) bekezdés b) pontja a 4/2022. (II. 8.) AM rendelet 15. § j) pontja és 16. § f) pontja, a 23/2023. (V. 10.) AM rendelet 6. § b) pontja szerint módosított szöveg.
 [^69]: A 11. § (1a) bekezdését a 4/2022. (II. 8.) AM rendelet 11. §-a iktatta be.
 [^70]: A 11. § (2) bekezdése a 24/2013. (IV. 11.) VM rendelet 8. § (1) bekezdésével megállapított, a 4/2022. (II. 8.) AM rendelet 15. § a) és k) pontja szerint módosított szöveg.
 [^71]: A 11. § (3a) bekezdését a 24/2013. (IV. 11.) VM rendelet 8. § (2) bekezdése iktatta be.

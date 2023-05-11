@@ -1,6 +1,6 @@
 ## A mezőgazdasági légijármű vezetője
 
-3. §[^11] (1)[^12] Zárt kabinú légijárművel történő mezőgazdasági repülés a növény- és talajvédelmi hatáskörben eljáró megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) által kiadott engedéllyel (a továbbiakban: légi-mezőgazdasági engedély) végezhető.
+3. §[^11] (1)[^12] Zárt kabinú légijárművel történő mezőgazdasági repülés a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) által kiadott engedéllyel (a továbbiakban: légi-mezőgazdasági engedély) végezhető.
 
 (1a)[^13] A légi-mezőgazdasági engedély tartalmazza:
 
@@ -28,7 +28,7 @@ c) a Nyíregyházi Főiskola Műszaki és Mezőgazdasági Karán vagy annak joge
 
 (5)[^17]
 
-(6)[^18] A megyei kormányhivatal az Éltv. 57. § n) pontja alapján, a légi-mezőgazdasági engedélyt visszavonja, ha az engedély jogosultja
+(6)[^18] A vármegyei kormányhivatal az Éltv. 57. § n) pontja alapján, a légi-mezőgazdasági engedélyt visszavonja, ha az engedély jogosultja
 
 a) a mezőgazdasági légijármű vezetését – a mezőgazdasági kiképzését végző gyakornok légi járművezető kivételével – a mezőgazdasági repülés során légi-mezőgazdasági engedéllyel nem rendelkező személynek átengedi,
 
@@ -61,13 +61,13 @@ b) a mezőgazdasági repülés során az e rendeletben foglalt előírásokat me
 c) nem rendelkezik érvényes pilóta nélküli légijármű irányítói igazolvánnyal.
 
 [^11]: A 3. § a 34/2012. (IV. 6.) VM rendelet 2. §-ával megállapított szöveg.
-[^12]: A 3. § (1) bekezdése a 4/2022. (II. 8.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^12]: A 3. § (1) bekezdése a 4/2022. (II. 8.) AM rendelet 3. § (1) bekezdésével megállapított, a 23/2023. (V. 10.) AM rendelet 6. § a) pontja szerint módosított szöveg.
 [^13]: A 3. § (1a) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (1) bekezdése iktatta be.
 [^14]: A 3. § (2) bekezdés nyitó szövegrésze a 4/2022. (II. 8.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^15]: A 3. § (3) bekezdését a 4/2022. (II. 8.) AM rendelet 16. § c) pontja hatályon kívül helyezte.
 [^16]: A 3. § (4) bekezdése a 4/2022. (II. 8.) AM rendelet 3. § (3) bekezdésével megállapított szöveg.
 [^17]: A 3. § (5) bekezdését a 4/2022. (II. 8.) AM rendelet 16. § c) pontja hatályon kívül helyezte.
-[^18]: A 3. § (6) bekezdése a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^18]: A 3. § (6) bekezdése a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdésével megállapított, nyitó szövegrésze a 23/2023. (V. 10.) AM rendelet 6. § b) pontja szerint módosított szöveg.
 [^19]: A 3. § (7) bekezdése a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdésével megállapított szöveg.
 [^20]: A 3. § (8) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdése iktatta be.
 [^21]: A 3. § (9) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdése iktatta be.

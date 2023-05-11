@@ -1,5 +1,3 @@
-## védőtávolságot kell tartani.
-
 14. §[^83] (1)[^84] Szőlő-, gyümölcskultúra és erdő 3000 méteres körzetében rügyfakadás után tilos hormonbázisú gyomirtó szert kijuttatni.
 
 (2)[^85] Gyomirtó, állományszárító és érésgyorsító készítmény kijuttatása védett természeti terület felett – a 13. § (3) bekezdésében meghatározott kivétellel – tilos.

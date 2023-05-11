@@ -8,6 +8,8 @@ b) a peszticidek fenntartható használatának elérését célzó közösségi 
 
 c) a szakmák új szabályozásának elfogadását megelőző arányossági tesztről szóló, 2018. június 28-i 2018/958/EU európai parlamenti és tanácsi irányelvnek
 
+való megfelelést szolgálja.
+
 [^89]: A 17/A. §-t a 34/2012. (IV. 6.) VM rendelet 8. §-a iktatta be.
 [^90]: A hatálybalépés időpontja 2012. április 7.
 [^91]: A 18. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 160. pontja hatályon kívül helyezte, újonnan a 34/2012. (IV. 6.) VM rendelet 9. §-a iktatta be, szövege a 4/2022. (II. 8.) AM rendelet 14. §-ával megállapított szöveg.
