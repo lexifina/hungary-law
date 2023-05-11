@@ -168,7 +168,7 @@ a) a kedvtelésből tartott állatok esetében a kedvtelésből tartott állatok
 
 b) a lófélék esetében a 90/426/EGK és a 90/427/EGK tanácsi irányelvnek a lófélék azonosítási módszereinek tekintetében történő végrehajtásáról szóló 2008. június 6-i 504/2008/EK bizottsági rendelet 2. cikk (2) bekezdés b) pontjában
 
-## foglalt feltételeknek.
+foglalt feltételeknek.
 
 74.[^41] Antimikrobiális rezisztencia: a mikroorganizmusok túlélési vagy szaporodási képessége egy antimikrobiális szer adott koncentrációjú, ugyanazon fajhoz tartozó mikroorganizmusok életfolyamatainak gátlásához vagy elpusztításához rendszerint elegendő jelenléte mellett;
 

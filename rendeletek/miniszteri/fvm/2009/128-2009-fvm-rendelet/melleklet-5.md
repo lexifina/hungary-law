@@ -1,6 +1,6 @@
 5. számú melléklet a 128/2009. (X. 6.) FVM rendelethez
 
-## A különleges állatgyógyászati készítményekre vonatkozó forgalomba hozatali engedély iránti kérelmekkel kapcsolatos követelmények
+A különleges állatgyógyászati készítményekre vonatkozó forgalomba hozatali engedély iránti kérelmekkel kapcsolatos követelmények
 
 E rész az egyes állatgyógyászati készítményekre vonatkozó azon különleges követelményeket állapítja meg, amelyek az azokban meglévő hatóanyagok jellegéhez kapcsolódnak.
 

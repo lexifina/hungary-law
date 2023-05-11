@@ -1,5 +1,3 @@
-## 114/F. §[^336]
-
 ## Az állategészségügyi biocid termékek osztályozása, csomagolása, címkézése, használati utasítása
 
 ## és reklámozása
@@ -11,5 +9,3 @@
 a) a biocid termékek előállításának és forgalomba hozatalának feltételeiről szóló külön jogszabály szerinti, a biocid termékek címkéjén feltüntetendő adatokat,
 
 b) amennyiben szükséges, az élelmezés-egészségügyi várakozási időt.
-
-[^336]: A 114/F. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 14. pontja hatályon kívül helyezte.

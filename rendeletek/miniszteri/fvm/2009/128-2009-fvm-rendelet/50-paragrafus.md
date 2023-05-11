@@ -1,5 +1,3 @@
-## 49. §[^132]
-
 50. § (1) A gyógyszergyártási engedély jogosultjának rendelkeznie kell az állatgyógyászati készítmény gyártási jogával.
 
 (2) A gyógyszergyártási engedély jogosultja köteles:
@@ -38,7 +36,6 @@ i)[^138] az aktualizált Gyártóhely Alapadatait (”Site Master File”) háro
 
 (3)[^139] A törzskönyvezett állatgyógyászati készítmények előállításának feltételeit a 7. számú melléklet és az Eudralex ”Good Manufacturing Practice” című 4. kötete rögzíti.
 
-[^132]: A 49. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
 [^133]: Az 50. § (2) bekezdés a) pontja a 33/2010. (IV. 7.) FVM rendelet 11. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
 [^134]: Az 50. § (2) bekezdés c) pont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 16. pontja szerint módosított szöveg.
 [^135]: Az 50. § (2) bekezdés c) pont ca) alpontját a 33/2010. (IV. 7.) FVM rendelet 12. § f) pontja hatályon kívül helyezte.

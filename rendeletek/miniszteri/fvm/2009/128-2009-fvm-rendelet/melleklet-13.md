@@ -2,9 +2,9 @@
 
 ## A dokumentációnak tartalmaznia kell a saját vizsgálatokat vagy szakirodalmi hivatkozásokat.
 
-13. számú melléklet a 128/2009. (X. 6.) FVM rendelethez[^415]
+13. számú melléklet a 128/2009. (X. 6.) FVM rendelethez[^416]
 
-## Az egyéb gyógyhatású készítmény termékismertetője és címkéje
+Az egyéb gyógyhatású készítmény termékismertetője és címkéje
 
 I. Termékismertető
 
@@ -72,4 +72,4 @@ II. A külső és a közvetlen csomagolóanyagok felirata (címke)
 
 12. A készítmény nyilvántartási száma
 
-[^415]: A 13. számú mellékletet a 33/2010. (IV. 7.) FVM rendelet 10. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^416]: A 13. számú mellékletet a 33/2010. (IV. 7.) FVM rendelet 10. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.

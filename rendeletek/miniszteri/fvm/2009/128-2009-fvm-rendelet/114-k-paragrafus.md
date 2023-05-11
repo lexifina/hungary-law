@@ -2,7 +2,7 @@
 
 ## Az állategészségügyi biocid termékek hatósági ellenőrzése
 
-114/K. § (1)[^338] A járási hivatal ellenőrzi az e rendelet szerint engedélyezett állategészségügyi biocid termékek felhasználását és forgalmazását.
+114/K. § (1)[^339] A járási hivatal ellenőrzi az e rendelet szerint engedélyezett állategészségügyi biocid termékek felhasználását és forgalmazását.
 
 (2) A hatósági ellenőrzés a forgalmazás és a felhasználás során kiterjed:
 
@@ -18,32 +18,32 @@ e) a termék előírás szerinti felhasználására és a felhasználás helysz�
 
 f) szakképesítéshez kötött felhasználás esetén a felhasználó személyek szakképzettségének ellenőrzésére,
 
-g)[^339] a NÉBIH által kiadott forgalomba hozatali engedély számának helyességére,
+g)[^340] a NÉBIH által kiadott forgalomba hozatali engedély számának helyességére,
 
 h) a felhasználás megfelelőségére,
 
 i) jogszabálysértés gyanúja esetén mintavételre és az összetétel vizsgálatára.
 
-(3)[^340]
+(3)[^341]
 
-(4)[^341]
+(4)[^342]
 
-(5)[^342]
+(5)[^343]
 
-(6)[^343]
+(6)[^344]
 
-(7)[^344]
+(7)[^345]
 
-(8)[^345]
+(8)[^346]
 
-(9)[^346]
+(9)[^347]
 
-[^338]: A 114/K. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 13. pontja szerint módosított szöveg.
-[^339]: A 114/K. § (2) bekezdés g) pontja a 70/2013. (VII. 31.) VM rendelet 32. pontja szerint módosított szöveg.
-[^340]: A 114/K. § (3) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^341]: A 114/K. § (4) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^342]: A 114/K. § (5) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^343]: A 114/K. § (6) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^344]: A 114/K. § (7) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^345]: A 114/K. § (8) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^346]: A 114/K. § (9) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 15. pontja hatályon kívül helyezte.
+[^339]: A 114/K. § (1) bekezdése a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 13. pontja szerint módosított szöveg.
+[^340]: A 114/K. § (2) bekezdés g) pontja a 70/2013. (VII. 31.) VM rendelet 32. pontja szerint módosított szöveg.
+[^341]: A 114/K. § (3) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^342]: A 114/K. § (4) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^343]: A 114/K. § (5) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^344]: A 114/K. § (6) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^345]: A 114/K. § (7) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^346]: A 114/K. § (8) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^347]: A 114/K. § (9) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 15. pontja hatályon kívül helyezte.

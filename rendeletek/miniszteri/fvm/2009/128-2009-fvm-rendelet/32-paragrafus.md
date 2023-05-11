@@ -1,5 +1,3 @@
-## 31. §[^105]
-
 ## IV. Fejezet
 
 ## A FORGALOMBA HOZATALI ENGEDÉLYEK KÖLCSÖNÖS ELISMERÉSE ÉS A DECENTRALIZÁLT ELJÁRÁS
@@ -10,7 +8,6 @@
 
 (3)[^108] Az Európai Unióban engedélyezett állatgyógyászati készítmények harmonizációjának előmozdítása céljából a Koordinációs Csoport számára meghatározott feladatok elvégzése során Magyarország tekintetében a NÉBIH jár el.
 
-[^105]: A 31. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 5. pontja hatályon kívül helyezte.
 [^106]: A 32. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
 [^107]: A 32. § (2) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. pontja szerint módosított szöveg.
 [^108]: A 32. § (3) bekezdése a 70/2013. (VII. 31.) VM rendelet 3. pontja, a 27/2021. (VIII. 11.) AM rendelet 37. § 8. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-11. számú melléklet a 128/2009. (X. 6.) FVM rendelethez[^413]
+11. számú melléklet a 128/2009. (X. 6.) FVM rendelethez[^414]
 
-## Ápolószerek rendeltetés szerint besorolása
+Ápolószerek rendeltetés szerint besorolása
 
 1. Bőrrel, illetve lábvéggel érintkező kenőcsök, krémek, kondicionálók, emulziók, gélek, olajok, aeroszolok, probiotikumok, egyéb szerek
 
@@ -36,4 +36,4 @@
 
 17. Tőgyápolószerek
 
-[^413]: A 11. számú mellékletet a 33/2010. (IV. 7.) FVM rendelet 10. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^414]: A 11. számú mellékletet a 33/2010. (IV. 7.) FVM rendelet 10. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
