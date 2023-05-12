@@ -1,6 +1,6 @@
 39. § (1) A képzést követő vizsga megtartását – a (4) bekezdésben meghatározott eltéréssel – a hatósági jellegű képzés felügyeletét ellátó Budapest Főváros Kormányhivatala által kijelölt szervezetek végezhetik.
 
-(2)[^11] Az (1) bekezdés szerinti képzést követő vizsga megtartásában való közreműködést Budapest Főváros Kormányhivatala annak a felnőttképzési tevékenység végzésére szóló engedéllyel rendelkező szervezetnek engedélyezi, amely
+(2)[^14] Az (1) bekezdés szerinti képzést követő vizsga megtartásában való közreműködést Budapest Főváros Kormányhivatala annak a felnőttképzési tevékenység végzésére szóló engedéllyel rendelkező szervezetnek engedélyezi, amely
 
 a) a képzést megelőző legalább egy évben gépészet ágazatba tartozó szakképesítésre felkészítő felnőttképzési tevékenységet végzett,
 
@@ -14,4 +14,4 @@ d) nyilatkozik, hogy a képzésszervezővel együttműködik a vizsga megszervez
 
 (4) A képzésszervezők a képzést követő vizsga megtartását az (1) bekezdés szerinti szervezetektől kérhetik. Ha az adott képzési területen a vizsga megtartására nincs kijelölt szervezet, akkor a képzés szervezője látja el az általa szervezett képzést követő vizsga megtartásával kapcsolatos feladatokat.
 
-[^11]: A 39. § (2) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^14]: A 39. § (2) bekezdése a 447/2021. (VII. 26.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.

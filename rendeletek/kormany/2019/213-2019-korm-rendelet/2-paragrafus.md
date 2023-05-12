@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet és a végrehajtására kiadott jogszabály alkalmazásában
 
-1. autógáz: gázüzemű jármű üzemeltetésére használt, cseppfolyós gáz (propán, propilén, bután, izobután, izobutilén, butilén, valamint ezek elegyei), sűrített földgáz és egyéb gáz üzemanyag;
+1.[^2] autógáz: gázüzemű jármű üzemeltetésére használt, cseppfolyós gáz (propán, propilén, bután, izobután, izobutilén, butilén, valamint ezek elegyei), sűrített földgáz és egyéb gáz üzemanyag, továbbá a hidrogénüzemű jármű üzemanyaga;
 
 2. autógáz tartály: a gázüzemű közúti járművek és munkagépek üzemanyag-ellátó berendezésébe épített, cseppfolyós, sűrített vagy kriogén autógázzal tölthető tartály vagy palack;
 
@@ -107,3 +107,5 @@ p) akut inhalációs toxicitás, 1., 2. és 3. kategória;
 q) célszervi toxicitás – egyszeri expozíció, 1. kategória vagy
 
 r) a nyomástartó berendezésben található olyan anyag vagy keverék, amelynek legnagyobb megengedett hőmérséklete a töltet lobbanáspontja fölött van.
+
+[^2]: A 2. § 1. pontja a 153/2023. (IV. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.

@@ -8,7 +8,7 @@ b) töltő berendezés,
 
 c) kisteljesítményű sűrített gáztöltő berendezés
 
-## létesítését tervező, létesítését, üzembe helyezését, üzembe vételét, üzemeltetését, átalakítását, javítását, időszakos ellenőrző vizsgálatát és megszüntetését végző természetes személyre, gazdálkodó szervezetre.
+létesítését tervező, létesítését, üzembe helyezését, üzembe vételét, üzemeltetését, átalakítását, javítását, időszakos ellenőrző vizsgálatát és megszüntetését végző természetes személyre, gazdálkodó szervezetre.
 
 (2) E rendelet hatálya nem terjed ki
 
@@ -58,4 +58,6 @@ c) kisteljesítményű sűrített gáztöltő berendezés
 
 23. a folyadéktöltetű nyomástartó berendezésre, ha a gázterének nyomása legfeljebb 0,5 bar.
 
-(3) Ha jogszabály eltérően nem rendelkezik, e rendeletnek az időszakos ellenőrző vizsgálatra vonatkozó előírásait a hordozható tűzoltó készülékek palackjai és a légzőkészülékek palackjai esetében is alkalmazni kell.
+(3)[^1] Ha jogszabály eltérően nem rendelkezik, e rendeletnek az időszakos ellenőrző vizsgálatra vonatkozó előírásait a légzőkészülékek palackjai esetében is alkalmazni kell.
+
+[^1]: Az 1. § (3) bekezdése a 153/2023. (IV. 27.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.

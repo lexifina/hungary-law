@@ -1,4 +1,4 @@
-## 4. §[^1] A Hatóság a nyomástartó berendezések és nyomástartó létesítmények létesítési, üzemeltetési, átalakítási és megszüntetési engedélyezésére irányuló eljárásában a 2. melléklet szerinti szakkérdést is vizsgálja.
+## 4. §[^3] A Hatóság a nyomástartó berendezések és nyomástartó létesítmények létesítési, üzemeltetési, átalakítási és megszüntetési engedélyezésére irányuló eljárásában a 2. melléklet szerinti szakkérdést is vizsgálja.
 
 ## 4. Nyomástartó berendezés, töltő berendezés, nyomástartó létesítmény létesítési engedélyezési eljárása
 
@@ -62,4 +62,4 @@ d) a biztonsági, egészségvédelmi, tűzvédelmi és környezetvédelmi követ
 
 (7) A rajzdokumentáció tartalmazza a technológiai berendezések terveit és tervrajzait, valamint a közlekedési, táv- és hírközlési, közmű- és energiahálózat kapcsolatainak terveit olyan részletességgel és méretarányban, hogy azok alapján elrendezésük, működésük egyértelműen meghatározható legyen.
 
-[^1]: A 4. § a 190/2020. (V. 7.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^3]: A 4. § a 190/2020. (V. 7.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
