@@ -1,0 +1,1 @@
+3. § Hatályát veszti a szomszédos országban fennálló fegyveres konfliktus, illetve humanitárius katasztrófa magyarországi következményeinek elhárításáról és kezeléséről szóló 2022. évi XLII. törvény 1. §-ában az „(a továbbiakban: KR1.)” szövegrész.
