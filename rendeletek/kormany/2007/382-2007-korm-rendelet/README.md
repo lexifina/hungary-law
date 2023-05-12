@@ -54,3 +54,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-382-20-
 | 2023-01-01 | 2007-382-20-22.50 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-01-28 | 2007-382-20-22.51 | 18/2023. (I. 27.) Korm. rendelet |
 | 2023-03-01 | 2007-382-20-22.52 | 60/2023. (II. 28.) Korm. rendelet |
+| 2023-05-12 | 2007-382-20-22.53 | 149/2023. (IV. 27.) Korm. rendelet |
