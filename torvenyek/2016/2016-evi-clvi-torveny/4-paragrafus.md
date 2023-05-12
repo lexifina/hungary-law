@@ -16,7 +16,7 @@ céljából 100%-ban állami tulajdonban álló nonprofit gazdasági társaságo
 
 a) a Magyar Turisztikai Ügynökség Zrt. vagy
 
-b) olyan 100%-ban állami tulajdonú gazdasági társaság, amely
+b) olyan gazdasági társaság, amelyben az állam vagy a helyi önkormányzat külön-külön vagy együttesen 100%-os részesedéssel rendelkezik, és az állami tulajdoni részesedést illetően
 
 ba) a Magyar Turisztikai Ügynökség Zrt.
 
