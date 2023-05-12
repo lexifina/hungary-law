@@ -1,3 +1,3 @@
-2. melléklet a 16/2022. (V. 4.) BM rendelethez[^5]
+2. melléklet a 16/2022. (V. 4.) BM rendelethez[^6]
 
-[^5]: A 2. melléklet a 10/2023. (IV. 27.) BM rendelet 2. §-a alapján nem lép hatályba.
+[^6]: A 2. melléklet a 2010: CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
