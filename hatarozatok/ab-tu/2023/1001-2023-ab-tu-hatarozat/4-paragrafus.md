@@ -1,3 +1,3 @@
-4. § Az Ügyrend 30. § (2) bekezdése a következő i) ponttal egészül ki:
+4. §[^4]
 
-(Az Alkotmánybíróság visszautasítja az alkotmányjogi panaszt, ha)
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

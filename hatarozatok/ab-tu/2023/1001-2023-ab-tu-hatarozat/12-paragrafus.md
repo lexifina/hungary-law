@@ -1,3 +1,3 @@
-12. § Az Ügyrend 67. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
+12. §[^12]
 
-(Okafogyottá válik az indítvány különösen, ha)
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

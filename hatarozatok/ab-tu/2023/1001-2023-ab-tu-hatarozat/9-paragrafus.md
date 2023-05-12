@@ -1,7 +1,3 @@
-9. § Az Ügyrend 51. §-a helyébe a következő rendelkezés lép:
+9. §[^9]
 
-„51. § (1) Amennyiben az Alkotmánybíróság az Alaptörvény vagy törvény alapján az indítványról harminc napon belül határoz, az indítványt a beérkezését követően a főtitkár azonnal megvizsgálja és előkészíti. Az elnök az előadó alkotmánybírót az indítványbeérkezését követő két munkanapon belül kijelöli. Az előadó alkotmánybíró az első tervezetet öt munkanapon belül az ügy elbírálására jogosult testület elé terjeszti.
-
-(2) Amennyiben az Alkotmánybíróság az Alaptörvény 6. cikk (8) bekezdése szerinti ismételt indítvány esetén tíz napon belül határoz, az indítványt a beérkezését követően a főtitkár azonnal megvizsgálja és előkészíti. Az elnök az előadó alkotmánybírót az indítvány beérkezését követő munkanapon kijelöli. Az előadó alkotmánybíró az első tervezetet három munkanapon belül az ügy elbírálására jogosult testület elé terjeszti.
-
-(3) Ha az (1)–(2) bekezdésben foglalt ügyekben a főtitkár vagy az előadó alkotmánybíró hiánypótlást rendel el, és az Alkotmánybíróság az indítványt nem utasítja vissza a hiánypótlás elmaradása vagy elégtelensége miatt, az első tervezet előterjesztésének és az indítvány elbírálásának a határideje a hiánypótlás beérkezésekor kezdődik. A tervezet észrevételezési határidejét a 42. § (3) bekezdése alapján az elnök legfeljebb öt munkanapban határozza meg; ezt követően az ügyet soron kívül napirendre tűzi.”
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

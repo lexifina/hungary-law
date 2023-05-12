@@ -1,3 +1,3 @@
-1. § Az Alkotmánybíróság ügyrendjéről szóló 1001/2013. (II. 27.) AB Tü. határozat (a továbbiakban: Ügyrend) 28. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^1]
 
-„(1) A beadványt a benyújtására nyitva álló törvényi határidőben, az egyéb határidőhöz kötött eljárási cselekményt a megtételére megjelölt határidőben kell az érkeztetésére az Abtv. alapján jogosult szervhez – a rá irányadó szabályok szerint – elektronikus kapcsolattartás keretében vagy személyesen benyújtani, vagy ajánlott küldeményként postára adni. A határidő elmulasztásának következményeit nem lehet alkalmazni, ha a beadványt legkésőbb a határidő utolsó napján benyújtották, vagy ajánlott küldeményként postára adták.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

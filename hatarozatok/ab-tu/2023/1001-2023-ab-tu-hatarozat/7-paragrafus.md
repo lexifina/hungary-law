@@ -1,3 +1,3 @@
-7. § Az Ügyrend 41. § (2) bekezdése helyébe a következő rendelkezés lép:
+7. §[^7]
 
-„(2) Kétség esetén az előadó alkotmánybíró az alkotmányjogi panaszt megküldő elsőfokú bíróságtól tájékoztatást kérhet, hogy az ügyben van-e folyamatban eljárás felülvizsgálati kérelem, felülvizsgálati indítvány, perújítási kérelem vagy perújítási indítvány alapján, valamint a Kúriától, hogy az üggyel összefüggésben folyik-e jogegységi eljárás vagy jogegységi panasz eljárás.”
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
