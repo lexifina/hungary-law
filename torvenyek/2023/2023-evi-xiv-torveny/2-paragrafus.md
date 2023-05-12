@@ -1,0 +1,3 @@
+2. § (1) Az Országgyűlés az Egyetemes Postaegyesület Alapokmánya Kilencedik, Tizedik és Tizenegyedik Pótjegyzőkönyvét e törvénnyel kihirdeti.
+
+(2) Az Országyűlés az Egyetemes Postaegyesület Egyetemes Postaegyezményének a 2012. évi dohai kongresszuson aláírt módosításokkal egységes szerkezetbe foglalt szövegét és Zárójegyzőkönyvét, a 2016. évi isztambuli kongresszuson aláírt módosításokkal egységes szerkezetbe foglalt szövegét és Zárójegyzőkönyvét, a 2018. évi addisz-abebai kongresszuson aláírt Kiegészítő Jegyzőkönyvét és Zárójegyzőkönyvét, a 2019. évi genfi kongresszuson aláírt Második Kiegészítő Jegyzőkönyvét, valamint a 2021. évi abidjani kongresszuson aláírt módosításokkal egységes szerkezetbe foglalt szövegét és Zárójegyzőkönyvét e törvénnyel kihirdeti.
