@@ -12,7 +12,7 @@ d) a kormányzati igazgatási szerv a feladatok hatékonyabb biztosítása érde
 
 e) a kormánytisztviselő nyugdíjasnak minősül;
 
-f) a kormánytisztviselő az összeférhetetlenségi nyilatkozatában, illetve az érdekeltségi nyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt vagy mellőzött,
+f) a kormánytisztviselő az összeférhetetlenségi nyilatkozatában, illetve az érdekeltségi nyilatkozatában, valamint a személyes kapcsolataira vonatkozó nyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt vagy mellőzött,
 
 g) a kormánytisztviselő a 95. § (5) és (7) bekezdése szerinti előzetes engedély kérését vagy a 95. § (6) bekezdése szerinti bejelentés megtételét elmulasztja,
 

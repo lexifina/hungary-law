@@ -6,7 +6,7 @@
 
 (3) A kormánytisztviselő a személyiségi jogáról általános jelleggel előre nem mondhat le, személyiségi jogáról rendelkező jognyilatkozatot érvényesen csak írásban tehet.
 
-(4) Az e törvény hatálya alá tartozók személyiségi jogainak megsértése esetén jogkövetkezményként a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.)
+(4) Az e törvény hatálya alá tartozók személyiségi jogainak megsértése esetén jogkövetkezményként a Ptk.
 
 a) 2:51. § (1) bekezdését, 2:52. § (1) bekezdését kell alkalmazni, továbbá
 

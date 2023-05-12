@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-125-00-00
 | 2022-12-15 | 2022. évi LVI. törvény | 2018-125-00-00.33 |
 | 2023-01-01 | 2022. évi LXXIV. törvény | 2018-125-00-00.30 |
 | 2023-05-11 | 2023. évi IX. törvény | 2018-125-00-00.34 |
+| 2023-05-12 | 2023. évi XVIII. törvény | 2018-125-00-00.37 |

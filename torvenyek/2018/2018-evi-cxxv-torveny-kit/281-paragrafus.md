@@ -4,7 +4,7 @@
 
 1. határozza meg a miniszter, a miniszterelnök politikai igazgatója, az államtitkár, a főispán, a közigazgatási államtitkár, a helyettes államtitkár, a kormánybiztos, a miniszterelnöki biztos, a miniszterelnöki megbízott, a miniszteri biztos, a kormányzati főhivatal vezetője és vezetőjének helyettese, valamint a központi hivatal vezetője juttatásait;
 
-2.
+2. határozza meg a Belső Ellenőrzési és Integritási Igazgatóság 29/B. § (3f) bekezdésében foglalt további feladatait.
 
 3. irányítási jogkörrel ruházza fel a kormánybiztost.
 

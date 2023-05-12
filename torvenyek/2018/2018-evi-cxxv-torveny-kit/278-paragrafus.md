@@ -24,6 +24,8 @@ a) a 107. § (1) bekezdés a) és b) pontja szerinti esetben,
 
 b) ha a munkavállaló a 95. § (5) és (7) bekezdése szerinti előzetes engedély kérését vagy a 95. § (6) bekezdése szerinti bejelentés megtételét elmulasztja.
 
+c) ha a munkavállaló az összeférhetetlenségi nyilatkozatában, illetve az érdekeltségi nyilatkozatában, valamint a személyes kapcsolataira vonatkozó nyilatkozatában lényeges adatot, tényt szándékosan valótlanul közölt vagy mellőzött.
+
 (6) A kormányzati igazgatási szervnél foglalkoztatott munkavállaló munkaviszonyára az Mt. 71–76. §-a, 82–84. §-a, 158. § (1) és (3) bekezdése, valamint 159. §-a nem alkalmazható. Esetükben e törvény 110. §-át, 116. §-át és 137. §-át kell alkalmazni.
 
 (7) Az e törvény szerinti szabályzat és közszolgálati szabályzat a munkavállalók esetében az Mt. 17. §-a szerinti munkáltatói szabályzatnak minősül.

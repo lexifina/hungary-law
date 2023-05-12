@@ -2,13 +2,13 @@
 
 (1) Az európai uniós források felhasználásáért felelős miniszter munkaszervezetében (a továbbiakban e § alkalmazásában: minisztérium) – a 28. § (1) bekezdésében meghatározottaktól eltérő szervezeti egységként – Belső Ellenőrzési és Integritási Igazgatóság (a továbbiakban e § alkalmazásában: Igazgatóság) működik.
 
-(1a) Az Igazgatóság hatásköre kiterjed az európai uniós költségvetés végrehajtásában részt vevő valamennyi nemzeti hatóságra.
+(1a) Az Igazgatóság hatásköre kiterjed az európai uniós költségvetés végrehajtásában részt vevő valamennyi nemzeti hatóságra és az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény szerinti állami projektértékelőkre.
 
 (2) Az Igazgatóság szervezetébe az igazgató titkársága, valamint a minisztérium szervezeti és működési szabályzatában (a továbbiakban e § alkalmazásában: szervezeti és működési szabályzat) kijelölt önálló szervezeti egységek tartoznak.
 
 (3) Az Igazgatóságot igazgató (a továbbiakban e § alkalmazásában: igazgató) vezeti. Az igazgató – az Igazgatóság közreműködésével – az európai uniós források felhasználásának ellenőrzésével kapcsolatosan a jogszabályokban meghatározott feladatokat látja el, így különösen:
 
-a) összeférhetetlenségi nyilatkozatokat és érdekeltségi nyilatkozatokat rendszeresen, mintavételes eljárással, valamint hatósági nyilvántartások és nyilvánosan elérhető információk, valamint megkeresés útján megismerhető adatok alapján ellenőriz,
+a) összeférhetetlenségi nyilatkozatokat és érdekeltségi nyilatkozatokat rendszeresen, mintavételes eljárással, valamint hatósági nyilvántartások és nyilvánosan elérhető információk, valamint megkeresés útján megismerhető adatok, továbbá az ellenőrzött személyes kapcsolataira vonatkozó nyilatkozata alapján ellenőriz,
 
 b) kockázatelemzést végez,
 
@@ -36,9 +36,21 @@ b) iratokba – ideértve az elektronikus adathordozón tárolt iratokat is – 
 
 c) írásbeli felvilágosítást kérhet bármely szervezettől vagy személytől.
 
-(3c) Az Igazgatóság a (3) bekezdés a) pontja szerinti ellenőrzés lefolytatásához szükséges mértékben kezelheti mindazokat a személyes adatokat, valamint törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatokat, amelyek az ellenőrzéssel összefüggenek, és amelyek kezelése az ellenőrzés eredményes lefolytatása érdekében szükséges.
+(3c) Az Igazgatóság a (3) bekezdés a) pontja szerinti ellenőrzés lefolytatásához szükséges mértékben kezeli mindazokat a személyes adatokat, valamint törvény által védett titoknak és hivatás gyakorlásához kötött titoknak minősülő adatokat, amelyek az ellenőrzéssel összefüggenek, és amelyek kezelése az ellenőrzés eredményes lefolytatása érdekében szükséges.
 
-(3d) Az Igazgatóság tevékenységét, az ellenőrzések tervezését és végrehajtását az audithatóság rendszeraudit-jelentés keretében hitelesíti.
+(3d) Az Igazgatóság a (3) bekezdés a) pontja szerinti ellenőrzés lefolytatása során – a (3c) bekezdésben meghatározottakon túl – az ellenőrzött személyes kapcsolataira vonatkozó nyilatkozat ellenőrzésével összefüggésben kezeli az ellenőrzött nyilatkozattevő
+
+a) természetes személyazonosító adatait;
+
+b) a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti – nagykorú – hozzátartozójának természetes személyazonosító adatait;
+
+c) egyenesági rokona nagykorú testvérének természetes személyazonosító adatait;
+
+d) testvére nagykorú egyenesági rokonának természetes személyazonosító adatait.
+
+(3e) Az Igazgatóság tevékenységét, az ellenőrzések tervezését és végrehajtását az audithatóság rendszeraudit-jelentés keretében hitelesíti.
+
+(3f) Az Igazgatóság az Európai Unió pénzügyi érdekeinek védelme, valamint Magyarország kötelezettségvállalásának teljesítése érdekében – függetlenségének megtartására és a jogszabályokban meghatározott feladatai ellátásának sértetlenségére figyelemmel – további feladatokat lát el.
 
 (4) Az igazgatót a szervezeti és működési szabályzatban kijelölt, az igazgató irányítása alá tartozó főosztályvezető vagy osztályvezető helyettesíti.
 
@@ -52,7 +64,7 @@ c) írásbeli felvilágosítást kérhet bármely szervezettől vagy személytő
 
 (9) Az Igazgatóság működését és eljárásait – a jogszabályokban, illetve a szervezeti és működési szabályzatban nem szabályozott kérdésekben – az igazgató által kiadott és az európai uniós források felhasználásáért felelős miniszter által jóváhagyott ügyrend szabályozza. Az Integritás Hatóság ellenőrzi az Igazgatóság működését, ennek keretében vizsgálja az ügyrend végrehajtását és az Igazgatóság eljárásaira vonatkozó irányelvek betartását. Súlyos vagy visszatérő megfelelési problémák esetén az Integritás Hatóság jogosult az Igazgatóság ellenőrzésére.
 
-(9a) Az igazgató, valamint az Igazgatóság szervezetében foglalkoztatott kormánytisztviselő és munkavállaló a megbízatása, illetve a jogviszonya keletkezésekor általános összeférhetetlenségi nyilatkozatot és érdekeltségi nyilatkozatot, majd az érdemi eljárási cselekmények megkezdése előtt az adott eljárási cselekményre vonatkozó eseti összeférhetetlenségi nyilatkozatot és érdekeltségi nyilatkozatot tesz.
+(9a) Az igazgató, valamint az Igazgatóság szervezetében foglalkoztatott kormánytisztviselő és munkavállaló a megbízatása, illetve a jogviszonya keletkezésekor általános összeférhetetlenségi nyilatkozatot és érdekeltségi nyilatkozatot, majd az érdemi eljárási cselekmények megkezdése előtt az adott eljárási cselekményre vonatkozó eseti összeférhetetlenségi nyilatkozatot tesz.
 
 (9b) Az Igazgatóság haladéktalanul biztosítja az Integritás Hatóság részére
 
