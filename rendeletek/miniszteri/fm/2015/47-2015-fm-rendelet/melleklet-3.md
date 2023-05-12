@@ -1,5 +1,3 @@
-## A hitelhez kapcsolódó kamattámogatásból származó támogatástartalom képlete
-
 ## TTE = TT/r
 
 ## ahol:
@@ -10,13 +8,13 @@
 
 ## Q – adott évben a hitelhez nyújtott – egyéni referencia kamatláb alapján számított kamattámogatást meg nem haladó – kamattámogatás összege a hitel törlesztési ütemterve alapján számítva, forintban,
 
-## Ha iH>= iER és iER> iF , akkor Q= (iER – iF)*H,
+## Ha iH>= iER és iER> iF, akkor Q= (iER – iF)*H,
 
-## Ha iH>= iER és iER<= iF , akkor Q= 0;
+## Ha iH>= iER és iER<= iF, akkor Q= 0;
 
-## Ha iH< iER és iH> iF , akkor Q= (iH – iF)*H,
+## Ha iH< iER és iH> iF, akkor Q= (iH – iF)*H,
 
-## Ha iH< iER és iH= iF , akkor Q= 0,
+## Ha iH< iER és iH= iF, akkor Q= 0,
 
 ## i – az agrár- és vidékfejlesztési állami támogatásokkal kapcsolatos egyes eljárási kérdésekről szóló kormányrendelet szerinti diszkont kamatláb,
 
@@ -32,6 +30,6 @@
 
 ## r – a kamattámogatási kérelem benyújtása hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam.
 
-3. melléklet a 47/2015. (VIII. 12.) FM rendelethez[^77]
+3. melléklet a 47/2015. (VIII. 12.) FM rendelethez[^80]
 
-[^77]: A 3–4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 49/2021. (XII. 28.) AM rendelet 11. §-a iktatta be.
+[^80]: A 3–4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 49/2021. (XII. 28.) AM rendelet 11. §-a iktatta be.

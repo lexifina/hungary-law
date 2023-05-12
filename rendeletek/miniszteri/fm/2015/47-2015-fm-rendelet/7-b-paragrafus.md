@@ -8,7 +8,7 @@ a) az önállóan benyújtott átmeneti támogatás iránti kamattámogatási k�
 
 b) a hitelkérelemhez kapcsolódóan benyújtott átmeneti támogatás iránti kamattámogatási kérelem esetén a hitelkérelem pénzügyi intézmény általi elbírálását követő öt napon belül
 
-## záradékkal látja el a kamattámogatási kérelmet, és az 1. melléklet szerinti adatokat a kamattámogatás 2. melléklet szerint meghatározott támogatástartalmával együtt megküldi a Kincstár részére.
+záradékkal látja el a kamattámogatási kérelmet, és az 1. melléklet szerinti adatokat a kamattámogatás 2. melléklet szerint meghatározott támogatástartalmával együtt megküldi a Kincstár részére.
 
 (4)[^64] Ha a záradékolt átmeneti támogatás iránti kamattámogatási kérelem benyújtása előtt lefolytatott és az átmeneti támogatás iránti kamattámogatási kérelem alapján lefolytatott ellenőrzés pozitív eredménnyel zárul, a Kincstár kiállítja a támogatástartalom-igazolást, és azt 2022. június 30-áig megküldi a vállalkozás részére.
 

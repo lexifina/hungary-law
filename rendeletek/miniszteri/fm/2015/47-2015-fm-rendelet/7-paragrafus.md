@@ -10,7 +10,7 @@ a)[^57] a pénzügyi intézmény által nem megelőlegezett kamattámogatás, de
 
 b)[^58] ha az önálló kamattámogatási kérelem vagy kiegészítő kamattámogatási kérelem beadása nem valamely kamatidőszak első napján történt vagy hitelkérelemhez kapcsolódó kamattámogatási kérelem esetén, ha a hitel első kamatidőszaka nem teljes kamatidőszak, a beadás napját magában foglaló kamatidőszakra, illetve a nem teljes kamatidőszakra járó nem megelőlegezett kamattámogatás is
 
-## igényelhető a Kincstártól a vállalkozás meghatalmazása alapján, amely kamattámogatást a pénzügyi intézmény a számláján történő jóváírást követő 8 napon belül átutal a vállalkozás fizetési számlájára.
+igényelhető a Kincstártól a vállalkozás meghatalmazása alapján, amely kamattámogatást a pénzügyi intézmény a számláján történő jóváírást követő 8 napon belül átutal a vállalkozás fizetési számlájára.
 
 (4)[^59] A Kincstár az (1) bekezdés szerinti, hiánytalan támogatáslehívási kérelemről annak beérkezését követő harminc napon belül döntést hoz, amely döntésnél figyelembe veszi a támogatástartalomról szóló igazolás meglétét.
 

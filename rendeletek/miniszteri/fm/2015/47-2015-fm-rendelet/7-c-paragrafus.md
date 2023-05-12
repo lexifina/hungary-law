@@ -1,6 +1,6 @@
 ## 7b.[^65] Válságtámogatás
 
-7/C. § (1) A vállalkozás az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelethez kapcsolódó egyes agrártámogatási rendeletek módosításáról szóló 26/2022. (VIII. 31.) AM rendelet hatálybalépésének[^66] napja és 2022. december 31. napja között – a határnapokat is beleértve – hatályossá vált hitelszerződésekhez kapcsolódó, a 2. § (2) bekezdés b) és g) pontja szerinti kamattámogatást az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatásként (a továbbiakban: válságtámogatás) is igényelheti.
+7/C. § (1)[^66] A vállalkozás az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelethez kapcsolódó egyes agrártámogatási rendeletek módosításáról szóló 26/2022. (VIII. 31.) AM rendelet hatálybalépésének[^67] napja és 2023. december 31. napja között – a határnapokat is beleértve – hatályossá vált hitelszerződésekhez kapcsolódó, a 2. § (2) bekezdés b) pontja szerinti kamattámogatást az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatásként (a továbbiakban: válságtámogatás) is igényelheti.
 
 (2) A válságtámogatásra a 2–7. §-ban foglaltakat az ezen alcímben megállapított eltérésekkel kell alkalmazni.
 
@@ -26,9 +26,11 @@ fb) a pénzügyi intézmény a szabad válságtámogatási keretének ellenőrz�
 
 (5) Válságtámogatás igénylése esetén a vállalkozás hitelkérelemhez kapcsolódóan vagy önállóan benyújtott válságtámogatás iránti kamattámogatási kérelme tartalmazza a (4) bekezdésben foglalt nyilatkozatokat is.
 
-(6) A hitelkérelemhez kapcsolódó vagy az önálló válságtámogatás iránti kamattámogatási kérelem 2022. november 30-áig nyújtható be a pénzügyi intézményhez.
+(6)[^68] A hitelkérelemhez kapcsolódó vagy az önálló válságtámogatás iránti kamattámogatási kérelem 2023. november 30-áig nyújtható be a pénzügyi intézményhez.
 
 (7) A válságtámogatásként igénybe vett kamattámogatás mértéke nem haladhatja meg a vállalkozás és a kapcsolt vállalkozásnak minősülő vállalkozás rendelkezésére álló, a 25/2022. (VIII. 31.) AM rendelet 3. § (1) bekezdésében meghatározott keretösszeget (a továbbiakban: válságtámogatási keret).
 
 [^65]: A 7b. alcímet (7/C–7/D. §) a 26/2022. (VIII. 31.) AM rendelet 9. §-a iktatta be.
-[^66]: A hatálybalépés időpontja 2022. szeptember 1.
+[^66]: A 7/C. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 6. § b) pontja és 7. §-a szerint módosított szöveg.
+[^67]: A hatálybalépés időpontja 2022. szeptember 1.
+[^68]: A 7/C. § (6) bekezdése a 22/2023. (V. 9.) AM rendelet 6. § a) pontja szerint módosított szöveg.
