@@ -1,20 +1,20 @@
 8. § (1) Ha az igénylő bérhízlalást, bérnevelést végez, akkor a kifizetési kérelemhez csatolni kell a 7. § (4) bekezdésében előírt dokumentumokat és
 
-a) a bérhízlalásról, bérnevelésről szóló szerződés másolatát,
+a)[^11] a bérhízlalásról, bérnevelésről szóló szerződést,
 
-b) a bérhízlalásról, bérnevelésről szóló számla másolatát,
+b)[^12] a bérhízlalásról, bérnevelésről szóló számlát,
 
-c) a bérhízlaltató, bérneveltető által kiállított, a sertés értékesítéséről szóló számla, illetve felvásárlási jegy másolatát (a bérhízlaltatónál, bérneveltetőnél végrehajtott saját vágás esetén a vágás végrehajtását igazoló belső bizonylat másolatát, illetve a sertések leadásáról szóló szállítóleveleket) és
+c)[^13] a bérhízlaltató, bérneveltető által kiállított, a sertés értékesítéséről szóló számla, illetve felvásárlási jegyet (a bérhízlaltatónál, bérneveltetőnél végrehajtott saját vágás esetén a vágás végrehajtását igazoló belső bizonylatot, illetve a sertések leadásáról szóló szállítóleveleket) és
 
-d) a bérhízlaltató, bérneveltető nyilatkozatának eredeti példányát arról, hogy a bérhízlaló, bérnevelő a c) pont szerinti számlákon, felvásárlási jegyeken, belső bizonylatokon feltüntetett állomány után kifizetési kérelmet nem nyújt be.
+d)[^14] a bérhízlaltató, bérneveltető nyilatkozatát arról, hogy a bérhízlaló, bérnevelő a c) pont szerinti számlákon, felvásárlási jegyeken, belső bizonylatokon feltüntetett állomány után kifizetési kérelmet nem nyújt be.
 
 (2) Ha az igénylő bérhízlaltatást, bérneveltetést végez, úgy a kifizetési kérelemhez csatolni kell a 7. § (4) bekezdésében előírt dokumentumokat és
 
-a) a bérhízlalásról, bérnevelésről szóló szerződés másolatát,
+a)[^15] a bérhízlalásról, bérnevelésről szóló szerződést,
 
-b) az általa kiállított, a sertés értékesítéséről szóló számla, illetve felvásárlási jegy másolatát (saját vágás esetén a vágás végrehajtását igazoló belső bizonylat másolatát) és
+b)[^16] az általa kiállított, a sertés értékesítéséről szóló számla, illetve felvásárlási jegyet (saját vágás esetén a vágás végrehajtását igazoló belső bizonylatot) és
 
-c) a bérhízlaló, bérnevelő nyilatkozatának eredeti példányát arról, hogy a bérhízlaltató, bérneveltető a b) pont szerinti számlákon, felvásárlási jegyeken, belső bizonylatokon feltüntetett állomány után kifizetési kérelmet nem nyújt be.
+c)[^17] a bérhízlaló, bérnevelő nyilatkozatát arról, hogy a bérhízlaltató, bérneveltető a b) pont szerinti számlákon, felvásárlási jegyeken, belső bizonylatokon feltüntetett állomány után kifizetési kérelmet nem nyújt be.
 
 (3) A Kincstár a döntését az adott negyedévre vonatkozóan benyújtott összes kifizetési kérelem ellenőrzését követően hozza meg.
 
@@ -25,3 +25,11 @@ c) a bérhízlaló, bérnevelő nyilatkozatának eredeti példányát arról, ho
 (6) A beérkezett összes igényről, a jóváhagyott igényekről és a kifizetett támogatásról a Kincstár havonta tájékoztatást küld az agrárpolitikáért felelős miniszternek.
 
 (7) A támogatás azonos elszámolható költségek fedezése céljából nem halmozható más helyi, regionális, nemzeti, vagy közösségi támogatási programból kapott támogatással.
+
+[^11]: A 8. § (1) bekezdés a) pontja a 22/2023. (V. 9.) AM rendelet 29. § d) pontja szerint módosított szöveg.
+[^12]: A 8. § (1) bekezdés b) pontja a 22/2023. (V. 9.) AM rendelet 29. § e) pontja szerint módosított szöveg.
+[^13]: A 8. § (1) bekezdés c) pontja a 22/2023. (V. 9.) AM rendelet 29. § a) pontja szerint módosított szöveg.
+[^14]: A 8. § (1) bekezdés d) pontja a 22/2023. (V. 9.) AM rendelet 29. § f) pontja szerint módosított szöveg.
+[^15]: A 8. § (2) bekezdés a) pontja a 22/2023. (V. 9.) AM rendelet 29. § d) pontja szerint módosított szöveg.
+[^16]: A 8. § (2) bekezdés b) pontja a 22/2023. (V. 9.) AM rendelet 29. § a) pontja szerint módosított szöveg.
+[^17]: A 8. § (2) bekezdés c) pontja a 22/2023. (V. 9.) AM rendelet 29. § f) pontja szerint módosított szöveg.

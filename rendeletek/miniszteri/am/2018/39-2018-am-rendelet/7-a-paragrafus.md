@@ -1,0 +1,9 @@
+7/A. §[^10] (1) Ha a kérelemre indult eljárásban foglalt kötelezettségek elektronikus úton történő teljesítése során az igénylő helyett és nevében meghatalmazottja jár el, a meghatalmazott az elektronikus űrlapkitöltő felületet használja az eljárási cselekmények elektronikus elvégzéséhez. A meghatalmazott útján történő eljárásra az Európai Mezőgazdasági Garanciaalapból, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból és a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló rendelet meghatalmazásra vonatkozó rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
+
+(2) A kérelemre indult eljárás során minden dokumentumot, így a hiánypótláshoz kapcsolódó dokumentumokat és – a felügyeleti eljárás kivételével – a jogorvoslati eljáráshoz kapcsolódó dokumentumokat (a továbbiakban együtt: beadvány) is az elektronikus űrlapkitöltő felületen keresztül kell benyújtani. A nem elektronikus úton benyújtott beadvány a döntés meghozatala során nem vehető figyelembe.
+
+(3) A 6. § (1) bekezdése szerinti támogatási kérelem és a 7. § (1) bekezdése szerinti kifizetési kérelem a benyújtását követően, de legkésőbb a 6. § (1) bekezdésében, valamint a 7. § (1a) bekezdésében meghatározott benyújtási időszak végéig, az elektronikus űrlapkitöltő felületen keresztül módosítható. Módosítás esetén az utolsó támogatási vagy kifizetés iránti kérelmet kell elbírálni. A támogatási és a kifizetési kérelem benyújtásának időpontja az utolsó módosító támogatási vagy kifizetési kérelem benyújtásának időpontja.
+
+(4) Az eljárás során – a felügyeleti eljárás kivételével – kötelező az elektronikus kapcsolattartás. A kötelező elektronikus kapcsolattartásra tekintettel a Kincstár az értesítéseket, dokumentumokat, valamint a döntéseit elektronikus úton közli a kérelmezővel vagy meghatalmazottjával.
+
+[^10]: A 7/A. §-t a 22/2023. (V. 9.) AM rendelet 24. §-a iktatta be.

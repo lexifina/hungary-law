@@ -4,16 +4,19 @@
 
 (3) Az igénylőnek az általa takarmányozáshoz használt víz (1) bekezdés szerinti feltételnek való megfelelését évente ellenőriztetnie kell ivóvízvizsgálatra akkreditált laboratóriummal, amennyiben a vízellátása saját víznyerőhelyről történik.
 
-(4)[^10] A takarmányozáshoz használt itatóvizet ivóvíz-minőségűnek kell tekinteni, ha az igénylő a mezőgazdasági csekély összegű támogatás iránti kérelemhez csatolja
+(4)[^32] A takarmányozáshoz használt itatóvizet ivóvíz-minőségűnek kell tekinteni, ha az igénylő a mezőgazdasági csekély összegű támogatás iránti kérelemhez csatolja
 
-a) az akkreditált laboratórium vizsgálati eredményét tartalmazó dokumentum másolatát arról, hogy az itatásra használt víz a 201/2001. (X. 25.) Korm. rendelet 1. számú mellékletében a víz nyerési módjától függően meghatározott határértékek tekintetében megfelel az ivóvíz-minőségi követelményeinek a következő paraméterek vonatkozásában:
+a)[^33] az akkreditált laboratórium vizsgálati eredményét tartalmazó dokumentumot arról, hogy az itatásra használt víz a 201/2001. (X. 25.) Korm. rendelet 1. számú mellékletében a víz nyerési módjától függően meghatározott határértékek tekintetében megfelel az ivóvíz-minőségi követelményeinek a következő paraméterek vonatkozásában:
 
 aa) mikrobiológiai vizsgálatok: E. coli, telepszám 22 °C-on,
 
 ab) kémiai vizsgálatok: szín, szag, nitrit, permanganát index, vezetőképesség, és
 
-b) az igénylő nyilatkozatának eredeti példányát arról, hogy a víznyerőhely megfelelően van kialakítva, biztosítva ezzel az itatóvíz szennyeződésének megakadályozását, vagy
+b)[^34] az igénylő nyilatkozatát arról, hogy a víznyerőhely megfelelően van kialakítva, biztosítva ezzel az itatóvíz szennyeződésének megakadályozását, vagy
 
-c) ha a telepen az állatok vízellátása vezetékes vízhálózatról történik, a vízszolgáltató írásos nyilatkozatának eredeti példányát arról, hogy az általa szolgáltatott víz ivóvíz-minőségű.
+c)[^35] ha a telepen az állatok vízellátása vezetékes vízhálózatról történik, a vízszolgáltató írásos nyilatkozatát arról, hogy az általa szolgáltatott víz ivóvíz-minőségű.
 
-[^10]: A 16. § (4) bekezdése a 4/2019. (III. 6.) AM rendelet 7. §-ával megállapított szöveg.
+[^32]: A 16. § (4) bekezdése a 4/2019. (III. 6.) AM rendelet 7. §-ával megállapított szöveg.
+[^33]: A 16. § (4) bekezdés a) pont nyitó szövegrésze a 22/2023. (V. 9.) AM rendelet 29. § k) pontja szerint módosított szöveg.
+[^34]: A 16. § (4) bekezdés b) pontja a 22/2023. (V. 9.) AM rendelet 29. § f) pontja szerint módosított szöveg.
+[^35]: A 16. § (4) bekezdés c) pontja a 22/2023. (V. 9.) AM rendelet 29. § f) pontja szerint módosított szöveg.

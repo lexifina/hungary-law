@@ -22,6 +22,9 @@ alapján vizsgálja.
 
 (5) A kifizetési kérelemhez csatolni kell
 
-a) az adott támogatási évre vonatkozó – az ezen tevékenység tekintetében – első kifizetési kérelemhez az istállók méretét is tartalmazó alaprajz másolati példányát vagy az állattartó telep fekvése szerint illetékes általános építésügyi hatóságnak az istálló méretére vonatkozó hatósági bizonyítványát és
+a)[^18] az adott támogatási évre vonatkozó – az ezen tevékenység tekintetében – első kifizetési kérelemhez az istállók méretét is tartalmazó alaprajzot vagy az állattartó telep fekvése szerint illetékes általános építésügyi hatóságnak az istálló méretére vonatkozó hatósági bizonyítványát és
 
-b) a sertéságazati területi felelős által kiállított eredeti dokumentumot az (1) bekezdésben meghatározott feltétel teljesítéséről, valamint a (4) bekezdés szerinti vizsgálatokról, amely esetben az adott támogatási év első negyedévére vonatkozó dokumentum kelte nem lehet korábbi a támogatási kérelem benyújtásának időpontjánál.
+b)[^19] a sertéságazati területi felelős által kiállított dokumentumot az (1) bekezdésben meghatározott feltétel teljesítéséről, valamint a (4) bekezdés szerinti vizsgálatokról, amely esetben az adott támogatási év első negyedévére vonatkozó dokumentum kelte nem lehet korábbi a támogatási kérelem benyújtásának időpontjánál.
+
+[^18]: A 9. § (5) bekezdés a) pontja a 22/2023. (V. 9.) AM rendelet 29. § g) pontja szerint módosított szöveg.
+[^19]: A 9. § (5) bekezdés b) pontja a 22/2023. (V. 9.) AM rendelet 29. § c) pontja szerint módosított szöveg.

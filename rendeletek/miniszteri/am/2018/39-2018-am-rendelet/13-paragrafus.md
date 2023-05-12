@@ -2,4 +2,6 @@
 
 (2) A támogatás mértéke állategységenként egyezernégyszázkilencven forint.
 
-(3) A kifizetési kérelemhez csatolni kell az (1) bekezdésben meghatározott mikroklíma-paraméterek méréséről negyedévente készült, a sertéságazati területi felelős által ellenjegyzett jegyzőkönyv másolatát.
+(3)[^24] A kifizetési kérelemhez csatolni kell az (1) bekezdésben meghatározott mikroklíma-paraméterek méréséről negyedévente készült, a sertéságazati területi felelős által ellenjegyzett jegyzőkönyvet.
+
+[^24]: A 13. § (3) bekezdése a 22/2023. (V. 9.) AM rendelet 29. § i) pontja szerint módosított szöveg.

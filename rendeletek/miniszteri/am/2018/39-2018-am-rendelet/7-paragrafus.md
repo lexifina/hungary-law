@@ -1,4 +1,16 @@
-7. § (1)[^4] A teljes negyedévre vonatkozó támogatás kifizetése iránti kérelmet az ügyfél egy alkalommal, a Kincstár által a (2) bekezdésben meghatározott adattartalommal rendszeresített és a Kincstár honlapján közleményben közzétett nyomtatványon a negyedévet követő hónap utolsó napjáig nyújthatja be a jogosult lakóhelye vagy székhelye szerint illetékes vármegyei kormányhivatalhoz. A kifizetési kérelem benyújtására nyitva álló időszakot a sertéseknek a számlán, felvásárlási jegyen vagy belső bizonylaton feltüntetett értékesítési időpontja, ennek hiányában a számla, felvásárlási jegy vagy belső bizonylat teljesítésének időpontja határozza meg.
+7. § (1)[^5] A teljes negyedévre vonatkozó támogatás kifizetése iránti kérelmet az igénylő egy alkalommal, a Kincstár által a (2) bekezdésben meghatározott adattartalommal az erre a célra kialakított elektronikus űrlapkitöltő felületen az (1a) bekezdésben meghatározott időszakban nyújthatja be. A kifizetési kérelem benyújtására nyitva álló időszakot a sertéseknek a számlán, felvásárlási jegyen vagy belső bizonylaton feltüntetett értékesítési időpontja, ennek hiányában a számla, felvásárlási jegy vagy belső bizonylat teljesítésének időpontja határozza meg.
+
+(1a)[^6] A kifizetési kérelem
+
+a) az első negyedévre vonatkozóan az adott támogatási év április 1. és április 30.,
+
+b) a második negyedévre vonatkozóan az adott támogatási év július 1. és július 31.,
+
+c) a harmadik negyedévre vonatkozóan az adott támogatási év október 1. és október 31.,
+
+d) a negyedik negyedévre vonatkozóan az adott támogatási évet követő január 5. és január 31.
+
+közötti időszakban nyújtható be az (1) bekezdésben meghatározottak szerint. A kifizetési kérelem benyújtásra vonatkozó határidő jogvesztő.
 
 (2) Az igénylő kifizetési kérelme az alábbi adatokat tartalmazza:
 
@@ -26,11 +38,11 @@ e) az igényelt támogatás forintban megjelölt összegét.
 
 a) az egyes tevékenységeknél az e rendeletben meghatározott dokumentumokat,
 
-b) a sertés értékesítéséről szóló számla, illetve felvásárlási jegy másolatát (saját vágás esetén a vágás végrehajtását igazoló belső bizonylat másolatát),
+b)[^7] a sertés értékesítéséről szóló számla, illetve felvásárlási jegyet (saját vágás esetén a vágás végrehajtását igazoló belső bizonylatot),
 
-c) a tenyésztésre értékesített koca süldők esetében a tenyésztő szervezet igazolásának eredeti példányát,
+c)[^8] a tenyésztésre értékesített koca süldők esetében a tenyésztő szervezet igazolását,
 
-d) a sertéságazati területi felelős által kiállított eredeti dokumentumot arról, hogy
+d)[^9] a sertéságazati területi felelős által kiállított dokumentumot arról, hogy
 
 da) az ügyfélnek az adott negyedévre vonatkozó, a kérelemben megjelölt támogatási igénye megalapozott,
 
@@ -42,4 +54,8 @@ e) az állattartó telep fekvése szerint illetékes járási hivatalnak az áll
 
 f) az állattartó telep fekvése szerint illetékes járási hivatalnak az állategészségügyi és állatvédelmi szabályok igénylő általi betartásáról szóló, igazolását.
 
-[^4]: A 7. § (1) bekezdése a 151/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
+[^5]: A 7. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 23. §-ával megállapított szöveg.
+[^6]: A 7. § (1a) bekezdését a 22/2023. (V. 9.) AM rendelet 23. §-a iktatta be.
+[^7]: A 7. § (4) bekezdés b) pontja a 22/2023. (V. 9.) AM rendelet 29. § a) pontja szerint módosított szöveg.
+[^8]: A 7. § (4) bekezdés c) pontja a 22/2023. (V. 9.) AM rendelet 29. § b) pontja szerint módosított szöveg.
+[^9]: A 7. § (4) bekezdés d) pont nyitó szövegrésze a 22/2023. (V. 9.) AM rendelet 29. § c) pontja szerint módosított szöveg.
