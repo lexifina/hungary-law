@@ -1,3 +1,3 @@
-19. §[^13]
+19. §[^23]
 
-[^13]: A 19. § a 33. § (2) bekezdés alapján 2023. május 15-én lép hatályba.
+[^23]: A 19. § a 33. § (2) bekezdés alapján 2023. május 15-én lép hatályba.

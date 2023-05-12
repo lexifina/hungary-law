@@ -1,5 +1,5 @@
 ## 7. Az állatgyógyászati termékekről szóló 128/2009. (X. 6.) FVM rendelet módosítása
 
-12. §[^9]
+12. §[^16]
 
-[^9]: A 12. § a 33. § (2) bekezdés alapján 2023. május 15-én lép hatályba.
+[^16]: A 12. § a 33. § (2) bekezdés alapján 2023. május 15-én lép hatályba.

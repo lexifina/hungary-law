@@ -1,1 +1,3 @@
-13. § A 128/2009. (X. 6.) FVM rendelet 74/A. § (7) bekezdésében, 75. § (5) bekezdésében, 98. § (7) bekezdésében és 8. számú melléklet I. Fejezet 30. pontjában a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
+13. §[^17]
+
+[^17]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
