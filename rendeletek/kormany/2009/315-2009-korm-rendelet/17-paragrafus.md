@@ -18,13 +18,14 @@ g) a kijelölő hatóság nyilatkozatát arról, hogy a kérelmező szervezet te
 
 (2) A megkereséshez az Msztv. 6. § (3) bekezdés b) pontja szerinti esetben csatolni kell a kérelmező szervezet szakmai felkészültségét igazoló okiratokat.
 
-(3) Ha a Bizottság és az EGT-államok a kérelmező szervezet bejelentett szervezetté válása ellen
+(3)[^10] Ha a Bizottság és az EGT-államok a kérelmező szervezet bejelentett szervezetté válása ellen
 
 a) az Msztv. 6. § (3) bekezdés a) pontja szerinti eljárás esetében a megkeresést követő két héten belül,
 
 b) az Msztv. 6. § (3) bekezdés b) pontja szerinti esetben a megkeresést követő két hónapon belül
 
-nem emelnek kifogást és a Bizottság a kérelmező szervezetet nyilvántartásba véve az e célra kialakított honlapon bejelentett szervezetként közzéteszi, a kijelölő hatóság határoz a szervezetnek a közzététel időpontjára visszamenőleges hatállyal történő kijelöléséről.
+nem emelnek kifogást és a Bizottság a kérelmező szervezetet nyilvántartásba véve az e célra kialakított honlapon bejelentett szervezetként közzéteszi, a kijelölő hatóság határoz a szervezetnek a 15. § b) pontja szerinti, a kijelölő hatóság általi megkeresés időpontjára visszamenőleges hatállyal történő kijelöléséről.
 
 [^8]: A 16. § a 425/2015. (XII. 23.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^9]: A 17. § (1) bekezdés f) pontja a 425/2015. (XII. 23.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^10]: A 17. § (3) bekezdés záró szövegrésze a 150/2023. (IV. 27.) Korm. rendelet 1. §-a szerint módosított szöveg.

@@ -1,3 +1,3 @@
-25. §[^12]
+25. §[^13]
 
-[^12]: A 25. § ugyanezen § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 25. § ugyanezen § (2) bekezdése alapján hatályát vesztette.
