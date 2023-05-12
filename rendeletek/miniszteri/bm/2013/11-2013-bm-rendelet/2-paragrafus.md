@@ -6,7 +6,7 @@ b) a képernyő előtti munkavégzés minimális egészségügyi és biztonsági
 
 c) a képernyős szemüveggel történő ellátásba nem tartozó, látásjavító szemüveg, kontaktlencse (a továbbiakban: látásjavító szemüveg vagy kontaktlencse) készítésével
 
-## kapcsolatos költségtérítésre jogosultak.
+kapcsolatos költségtérítésre jogosultak.
 
 (2)[^4] A vezényléssel szolgálatot teljesítő hivatásos állományú esetében a fogászati költségek, valamint a szemüvegkészítés vagy kontaktlencse vásárlás költségeinek megtérítése a foglalkoztató belügyi szervet terheli.
 

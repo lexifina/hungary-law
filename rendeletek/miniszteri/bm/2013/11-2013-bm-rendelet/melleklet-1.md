@@ -1,5 +1,3 @@
-## 11. §[^18]
-
 1. melléklet a 11/2013. (IV. 23.) BM rendelethez
 
 KÉRELEM szemüveg/fogászati kezelés árának megtérítése iránt
@@ -37,5 +35,3 @@ P. H.
 Pénzügyi ellenjegyzés:
 
 ................................................
-
-[^18]: A 11. §-t a 6/2019. (III. 11.) BM rendelet 6. § (2) bekezdése hatályon kívül helyezte.

@@ -1,1 +1,0 @@
-## 9. § A polgári nemzetbiztonsági szolgálatok esetében a 4. § (1) bekezdésének, az 5. § (2) bekezdésének, a 6. § (2)–(3) bekezdésének, valamint a 7. § (2) bekezdésének rendelkezéseitől eltérően a számlát a dolgozó nevére és állandó lakcímére kell kiállítani.
