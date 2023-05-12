@@ -20,4 +20,6 @@ i) ismeretátadással segítik a civil szervezeti vezetők, a civil területen f
 
 j) részt vállalnak a civil közösségi szolgáltató központok közös feladatainak megvalósításában.
 
+k) részt vesznek az elektori gyűlések szervezésében és lebonyolításában.
+
 (2)
