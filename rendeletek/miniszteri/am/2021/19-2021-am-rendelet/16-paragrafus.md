@@ -6,15 +6,15 @@
 
 a) az ellátott feladatellátási hely nevét, pontos címét, OM azonosítóját, a feladatellátási hely azonosítóját,
 
-b)[^21] a leszállított termékmennyiséget (db), a leszállított termékmennyiség bruttó ellenértékét,
+b)[^22] a leszállított termékmennyiséget (db), a leszállított termékmennyiség bruttó ellenértékét,
 
 c) a leszállított termék 4. § (1) bekezdése szerinti termékkategóriáját és kiszerelését, valamint
 
 d) a 4. § (1) bekezdés a)–d) pontjában foglaltaknak megfelelő termék esetében a leszállított termék zsírtartalmát.
 
-(3)[^22] A (2) bekezdésben meghatározott adatokon felül a kiállított számla tételesen tartalmazza a leszállított termék ellenértékének támogatástartalmát. A támogatástartalom nem haladhatja meg az adott termékkategóriához a 18. § (1) bekezdésében meghatározott maximális összeget.
+(3)[^23] A (2) bekezdésben meghatározott adatokon felül a kiállított számla tételesen tartalmazza a leszállított termék ellenértékének támogatástartalmát. A támogatástartalom nem haladhatja meg az adott termékkategóriához a 18. § (1) bekezdésében meghatározott maximális összeget.
 
 (4) Ha a bruttó számlaérték meghaladja a számla támogatástartalmát, a fenntartó a kérelmezőnek a bruttó számlaérték és a támogatástartalom különbözetét fizeti meg. Valamely jogosultsági feltétel fenntartó hibájából eredő nemteljesülése esetén a fenntartó a kérelmező részére a kieső támogatás összegét megfizeti.
 
-[^21]: A 16. § (2) bekezdés b) pontja a 14/2022. (III. 30.) AM rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^22]: A 16. § (3) bekezdése a 14/2022. (III. 30.) AM rendelet 37. § (2) bekezdésével megállapított szöveg.
+[^22]: A 16. § (2) bekezdés b) pontja a 14/2022. (III. 30.) AM rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^23]: A 16. § (3) bekezdése a 14/2022. (III. 30.) AM rendelet 37. § (2) bekezdésével megállapított szöveg.

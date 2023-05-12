@@ -36,7 +36,7 @@ nb) a támogatott terméket csak azon végső kedvezményezettek részére bizto
 
 nc) a támogatott terméket ételek elkészítéséhez nem használja fel, és biztosítja, hogy a fenntartott nevelési-oktatási intézmények sem használják fel ilyen célra,
 
-nd)[^20] olyan – szállítólevelekkel, számlákkal és egyéb bizonylatokkal alátámasztott – nyilvántartást vezet, amely tartalmazza legalább a támogatott termék szállítóját, a leszállított termékmennyiséget termékkategóriánkénti és korcsoportonkénti (óvodás, általános iskolai tanuló) bontásban, valamint az egyes nevelési-oktatási intézménybe felvett tanulók, óvodások számát (havi bontásban), az adott tanítási, nevelési napon jelen lévő tanulók és óvodások számát és a kiosztott termékek kategóriánkénti mennyiségét (nevelési-oktatási intézményenként),
+nd)[^21] olyan – szállítólevelekkel, számlákkal és egyéb bizonylatokkal alátámasztott – nyilvántartást vezet, amely tartalmazza legalább a támogatott termék szállítóját, a leszállított termékmennyiséget termékkategóriánkénti és korcsoportonkénti (óvodás, általános iskolai tanuló) bontásban, valamint az egyes nevelési-oktatási intézménybe felvett tanulók, óvodások számát (havi bontásban), az adott tanítási, nevelési napon jelen lévő tanulók és óvodások számát és a kiosztott termékek kategóriánkénti mennyiségét (nevelési-oktatási intézményenként),
 
 ne) a helyszíni ellenőrzés lefolytatása során az ellenőrzéssel kapcsolatos feladatok elvégzését elősegíti, valamint az általa vezetett nyilvántartásokat és az ezzel kapcsolatos valamennyi iratot szükség esetén az ellenőrök rendelkezésre bocsátja,
 
@@ -68,4 +68,4 @@ o) csatolt dokumentumok felsorolása.
 
 (12) A támogatás felső korlátját a szállítási szerződésben jóváhagyott összevont termékkategóriák szerinti mennyiségek, valamint a kérelmező számára a teljes tanévre vonatkozóan jóváhagyott támogatás felső határa képezi. A Kincstár a szállítani tervezett összevont termékkategóriák szerinti mennyiségeket egy adott kérelmező és fenntartó viszonylatában hagyja jóvá.
 
-[^20]: A 14. § (2) bekezdés n) pont nd) alpontja a 14/2022. (III. 30.) AM rendelet 36. §-ával megállapított szöveg.
+[^21]: A 14. § (2) bekezdés n) pont nd) alpontja a 14/2022. (III. 30.) AM rendelet 36. §-ával megállapított szöveg.

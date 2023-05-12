@@ -22,7 +22,7 @@ h) „III. ömlesztett sajt”: a MÉ 13. melléklet B. rész 7.1.1. vagy 7.1.2.
 
 (3) A kiszállított terméket közvetlenül a végső kedvezményezett részére kell kiosztani. A kiosztásra kerülő terméket a nevelési-oktatási intézmény más célra – különösen továbbfeldolgozási, kereskedelmi, közétkeztetésben ételkészítési alapanyagul – nem használhatja fel.
 
-(4) A program keretében egy héten legfeljebb négy tanítási vagy nevelési napon, végső kedvezményezettenként és tanítási vagy nevelési naponként legfeljebb 0,25 liter tejegyenértéknek megfelelő, az e rendeletben meghatározott és kiosztott termék után igényelhető támogatás.
+(4)[^7] A program keretében egy héten legfeljebb három tanítási vagy nevelési napon, végső kedvezményezettenként és tanítási vagy nevelési naponként legfeljebb 0,25 liter tejegyenértéknek megfelelő, az e rendeletben meghatározott és kiosztott termék után igényelhető támogatás.
 
 (5) A (4) bekezdés szerinti 0,25 liter tejegyenértéknek megfelelő mennyiségi korlát figyelembevételekor a nevelési-oktatási intézménybe beiratkozott és ellátott végső kedvezményezettek létszámát kell figyelembe venni.
 
@@ -39,3 +39,4 @@ d) 1 kg kiszállított „II. gyümölcsdarabos joghurt”: 0,87 liter
 tejegyenértéknek felel meg.
 
 [^6]: A 4. § (1) bekezdés e) pontja a 14/2022. (III. 30.) AM rendelet 42. §-a szerint módosított szöveg.
+[^7]: A 4. § (4) bekezdése a 22/2023. (V. 9.) AM rendelet 41. §-a szerint módosított szöveg.

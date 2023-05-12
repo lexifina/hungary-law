@@ -16,7 +16,7 @@ d) a szállítási szerződés jóváhagyási kérelmének és az arra hozott ki
 
 e) a kifizetési kérelemre vonatkozó, összesítő alapadatok (tanév és a kifizetési kérelemmel érintett szállítási időszak megnevezése, végső kedvezményezettek típusonkénti összesített létszáma, ellátott nevelési-oktatási intézmények száma, rögzített számlák darabszáma és bruttó értéke);
 
-f)[^23] ellátott nevelési-oktatási intézmények adatai (név, OM azonosító, feladatellátási hely azonosító, vármegye, cím, fenntartó neve);
+f)[^24] ellátott nevelési-oktatási intézmények adatai (név, OM azonosító, feladatellátási hely azonosító, vármegye, cím, fenntartó neve);
 
 g) – ha a kifizetési kérelem az adott tanév május–júliusi időszakára vonatkozik – a nyári szünet kezdőnapja ellátott nevelési-oktatási intézményenként;
 
@@ -28,21 +28,21 @@ j) elszámolásra benyújtott számlák adatai [számla egyedi száma, számlaki
 
 k) a számlán szereplő termék adatai [megnevezése, termékkategóriája, kiszerelése, kiszerelés mértékegysége, számlán szereplő termék mennyisége (darab, liter vagy kilogramm), számlán szereplő termékmennyiség bruttó értéke, kiosztott termék mennyisége (darab, liter vagy kilogramm), kiosztott termékmennyiség bruttó értéke];
 
-l)[^24]
+l)[^25]
 
 m) a csatolt dokumentumok felsorolása.
 
-(4)[^25] A kifizetési kérelemhez az elektronikus űrlapon csatolni kell az adott szállítási időszakra vonatkozó, a támogatott termékek értékesítését igazoló számlákat, a leszállított mennyiségekről szóló igazolást, továbbá minden számla vonatkozásában a (3) bekezdés e) alpontja szerinti adatokat.
+(4)[^26] A kifizetési kérelemhez az elektronikus űrlapon csatolni kell az adott szállítási időszakra vonatkozó, a támogatott termékek értékesítését igazoló számlákat, a leszállított mennyiségekről szóló igazolást, továbbá minden számla vonatkozásában a (3) bekezdés e) alpontja szerinti adatokat.
 
 (5) A Kincstár a kifizetési kérelmekről a kérelem hiánytalanná válását követő negyvenöt napon belül döntést hoz, és a forrás rendelkezésre állása esetén haladéktalanul, de legkésőbb a 2017/39/EU bizottsági végrehajtási rendelet 5. cikk (3) bekezdése szerinti határidőn belül elrendeli a támogatás jogos összegének a kérelmező által az ügyfél-nyilvántartási rendszerben megadott fizetési számlára történő átutalását.
 
-(6)[^26]
+(6)[^27]
 
 (7) A kifizetési kérelemben a 8. § (4) bekezdésében meghatározott módosítási határidő lejártáig fel nem tüntetett vagy a kifizetési kérelemhez csatolt számlákon nem szereplő termékmennyiség a támogatási összeg meghatározása során nem vehető figyelembe.
 
 (8) A támogatási összeg megállapítása a számlán feltüntetett nettó egységár és általános forgalmi adókulcs alapján történik a 18. §-ban foglaltak szerint.
 
-[^23]: A 17. § (3) bekezdés f) pontja a 156/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
-[^24]: A 17. § (3) bekezdés l) pontját a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.
-[^25]: A 17. § (4) bekezdése a 14/2022. (III. 30.) AM rendelet 38. §-ával megállapított szöveg.
-[^26]: A 17. § (6) bekezdését a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.
+[^24]: A 17. § (3) bekezdés f) pontja a 156/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^25]: A 17. § (3) bekezdés l) pontját a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.
+[^26]: A 17. § (4) bekezdése a 14/2022. (III. 30.) AM rendelet 38. §-ával megállapított szöveg.
+[^27]: A 17. § (6) bekezdését a 14/2022. (III. 30.) AM rendelet 41. §-a hatályon kívül helyezte.

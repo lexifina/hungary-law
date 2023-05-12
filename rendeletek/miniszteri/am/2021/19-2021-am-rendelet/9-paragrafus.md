@@ -14,13 +14,13 @@ b) a kérelmező kapcsolattartójának azonosító adatai (név, cím, telefonsz
 
 c) a kérelmező nyilatkozata arról, hogy
 
-ca)[^7] visszafizeti az érintett mennyiségekre jogosulatlanul kapott támogatást, amennyiben megállapítást nyer, hogy a termékeket nem osztották ki a gyermekeknek, vagy ha azok uniós finanszírozásból nem támogathatók,
+ca)[^8] visszafizeti az érintett mennyiségekre jogosulatlanul kapott támogatást, amennyiben megállapítást nyer, hogy a termékeket nem osztották ki a gyermekeknek, vagy ha azok uniós finanszírozásból nem támogathatók,
 
 cb) a támogatott terméket csak azon végső kedvezményezettek részére biztosítja, akik tekintetében a támogatást közvetve vagy közvetlenül kérelmezi,
 
 cc) a támogatott terméket ételek elkészítéséhez nem használja fel, és biztosítja, hogy a fenntartott nevelési-oktatási intézmények sem használják fel ilyen célra,
 
-cd)[^8] olyan – szállítólevelekkel, számlákkal és egyéb bizonylatokkal alátámasztott – nyilvántartást vezet, amely nevelési-oktatási intézményenként tartalmazza legalább a támogatott termék szállítóját, a leszállított termékmennyiséget termékkategóriánkénti bontásban, valamint az egyes nevelési-oktatási intézményekbe felvett tanulók, óvodások számát (havi lebontásban), az adott tanítási vagy nevelési napon jelen lévő tanulók, óvodások számát és a kiosztott termékek kategóriánkénti mennyiségét,
+cd)[^9] olyan – szállítólevelekkel, számlákkal és egyéb bizonylatokkal alátámasztott – nyilvántartást vezet, amely nevelési-oktatási intézményenként tartalmazza legalább a támogatott termék szállítóját, a leszállított termékmennyiséget termékkategóriánkénti bontásban, valamint az egyes nevelési-oktatási intézményekbe felvett tanulók, óvodások számát (havi lebontásban), az adott tanítási vagy nevelési napon jelen lévő tanulók, óvodások számát és a kiosztott termékek kategóriánkénti mennyiségét,
 
 ce) a helyszíni ellenőrzés lefolytatása során az ellenőrzéssel kapcsolatos feladatok elvégzését elősegíti, valamint az általa vezetett nyilvántartásokat és az ezzel kapcsolatos valamennyi iratot szükség esetén az ellenőrök rendelkezésre bocsátja,
 
@@ -32,5 +32,5 @@ ch) az előzetes jóváhagyási kérelemben feltüntetett adatok a valóságnak 
 
 d) a csatolt dokumentumok felsorolása.
 
-[^7]: A 9. § (4) bekezdés c) pont ca) alpontja a 14/2022. (III. 30.) AM rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^8]: A 9. § (4) bekezdés c) pont cd) alpontja a 14/2022. (III. 30.) AM rendelet 31. § (2) bekezdésével megállapított szöveg.
+[^8]: A 9. § (4) bekezdés c) pont ca) alpontja a 14/2022. (III. 30.) AM rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^9]: A 9. § (4) bekezdés c) pont cd) alpontja a 14/2022. (III. 30.) AM rendelet 31. § (2) bekezdésével megállapított szöveg.
