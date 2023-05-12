@@ -52,7 +52,15 @@ hatályba lépett hitelszerződéssel rendelkezik;
 
 7.[^12] támogatástartalom-igazolás: a kamattámogatás támogatástartalmáról szóló, a Magyar Államkincstár (a továbbiakban: Kincstár) által kiállított igazolás, amely a hitelcél szerint megállapított támogatás támogatáskategóriáját is megjelöli;
 
-8. termelői szerveződés: a termelői csoportokról szóló miniszteri rendelet szerinti elismeréssel rendelkező termelői csoport, a 2015. június 1. előtt minősített elismeréssel rendelkező termelői csoport, és a zöldség-gyümölcs termelői csoportokról és termelői szervezetekről szóló miniszteri rendelet szerinti termelői szervezet, valamint zöldség-gyümölcs termelői csoport.
+8.[^13] termelői szerveződés:
+
+a) a tej- és tejtermék-ágazatban működő termelői szervezetek és társulásaik nemzeti szabályozásáról szóló 3/2016. (I. 7.) FM rendelet szerint a tej és tejtermékek ágazatban működő termelői szervezetek és társulásaik,
+
+b) a zöldség-gyümölcs termelői szervezetekről szóló 50/2017. (X. 10.) FM rendelet szerint a gyümölcs- és zöldségfélék ágazatban működő termelői szervezetek és társulásaik,
+
+c) a termelői integrációs szervezetekről szóló 24/2020. (VI. 22.) AM rendelet szerint az a) és b) pontban felsoroltaktól eltérő mezőgazdasági ágazatokban működő termelői integrációs szervezetek és társulásaik vagy
+
+d) a termelői csoportok elismeréséről szóló 42/2015. (VII. 22.) FM rendelet szerint működő termelői csoportok.
 
 [^1]: Az 1. § 2a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (2) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 26. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 2a. pont b) pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 19. §-a, a 17/2017. (IV. 10.) FM rendelet 17. §-a szerint módosított szöveg.
@@ -66,3 +74,4 @@ hatályba lépett hitelszerződéssel rendelkezik;
 [^10]: Az 1. § 4a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (3) bekezdése iktatta be, szövege a 66/2017. (XII. 22.) FM rendelet 22. § (2) bekezdésével megállapított szöveg.
 [^11]: A hatálybalépés időpontja 2017. december 23.
 [^12]: Az 1. § 7. pontja a 88/2016. (XII. 29.) FM rendelet 92. § a) pontja, a 18/2021. (IV. 14.) AM rendelet 14. § a) pontja szerint módosított szöveg.
+[^13]: Az 1. § 8. pontja a 22/2023. (V. 9.) AM rendelet 12. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-## 7b.[^56] Válságtámogatás
+## 7b.[^59] Válságtámogatás
 
-7/B. § (1) A termelői szerveződés az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelethez kapcsolódó egyes agrártámogatási rendeletek módosításáról szóló 26/2022. (VIII. 31.) AM rendelet hatálybalépésének[^57] napja és 2022. december 31. napja között – a határnapokat is beleértve – hatályba lépett hitelszerződésekhez kapcsolódó, a 2. § (2) bekezdés b) pontja szerinti kamattámogatást az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatásként (a továbbiakban: válságtámogatás) is igényelheti.
+7/B. § (1)[^60] A termelői szerveződés az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelethez kapcsolódó egyes agrártámogatási rendeletek módosításáról szóló 26/2022. (VIII. 31.) AM rendelet hatálybalépésének[^61] napja és 2023. december 31. napja között – a határnapokat is beleértve – hatályba lépett hitelszerződésekhez kapcsolódó, a 2. § (2) bekezdés b) pontja szerinti kamattámogatást az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatásként (a továbbiakban: válságtámogatás) is igényelheti.
 
 (2) A válságtámogatásra a 2–7. §-ban foglaltakat az ezen alcímben megállapított eltérésekkel kell alkalmazni.
 
@@ -22,14 +22,17 @@ f) a hitel kedvezményes kamatlábából, a kapcsolódó intézményi kezességv
 
 (5) Válságtámogatás igénylése esetén a termelői szerveződés válságtámogatás iránti kamattámogatási kérelme tartalmazza a (4) bekezdésben foglalt nyilatkozatokat is.
 
-(6) A válságtámogatás iránti kamattámogatási kérelem 2022. november 30-áig postai úton nyújtható be a Kincstárhoz.
+(6)[^62] A válságtámogatás iránti kamattámogatási kérelem 2023. november 30-áig postai úton nyújtható be a Kincstárhoz.
 
-(7)[^58] A Kincstár – az (1) bekezdés szerinti válságtámogatás iránti kamattámogatási kérelem tekintetében – a 25/2022. (VIII. 31.) AM rendelet 3. § (1) bekezdés b) vagy c) pontjában meghatározott értékhatárt meghaladó válságtámogatási igényt elutasítja vagy annak összegét a 25/2022. (VIII. 31.) AM rendelet 3. § (7) bekezdésében foglaltakra tekintettel állapítja meg. A szabad válságtámogatási keretet a 25/2022. (VIII. 31.) AM rendelet 4. §-ában foglaltakra tekintettel kell megállapítani.
+(7)[^63] A Kincstár – az (1) bekezdés szerinti válságtámogatás iránti kamattámogatási kérelem tekintetében – a 25/2022. (VIII. 31.) AM rendelet 3. § (1) bekezdés b) vagy c) pontjában meghatározott értékhatárt meghaladó válságtámogatási igényt elutasítja vagy annak összegét a 25/2022. (VIII. 31.) AM rendelet 3. § (7) bekezdésében foglaltakra tekintettel állapítja meg. A szabad válságtámogatási keretet a 25/2022. (VIII. 31.) AM rendelet 4. §-ában foglaltakra tekintettel kell megállapítani.
 
-(8) A Kincstár a kamattámogatás támogatástartalmáról szóló igazolást legkésőbb 2022. december 31-éig megküldi a termelői szerveződés részére.
+(8)[^64] A Kincstár a kamattámogatás támogatástartalmáról szóló igazolást legkésőbb 2023. december 31-éig megküldi a termelői szerveződés részére.
 
 (9) Az (1) bekezdésben meghatározott hitelszerződésekhez kapcsolódóan csekély összegű támogatási jogcímen kamattámogatás abban az esetben igényelhető, ha a válságtámogatás nyújtásának feltételei nem állnak fenn.
 
-[^56]: A 7b. alcímet (7/B. §) a 26/2022. (VIII. 31.) AM rendelet 14. §-a iktatta be.
-[^57]: A hatálybalépés időpontja 2022. szeptember 1.
-[^58]: A 7/B. § (7) bekezdése a 34/2022. (X. 28.) AM rendelet 9. §-a szerint módosított szöveg.
+[^59]: A 7b. alcímet (7/B. §) a 26/2022. (VIII. 31.) AM rendelet 14. §-a iktatta be.
+[^60]: A 7/B. § (1) bekezdése a 22/2023. (V. 9.) AM rendelet 16. § c) pontja szerint módosított szöveg.
+[^61]: A hatálybalépés időpontja 2022. szeptember 1.
+[^62]: A 7/B. § (6) bekezdése a 22/2023. (V. 9.) AM rendelet 16. § a) pontja szerint módosított szöveg.
+[^63]: A 7/B. § (7) bekezdése a 34/2022. (X. 28.) AM rendelet 9. §-a szerint módosított szöveg.
+[^64]: A 7/B. § (8) bekezdése a 22/2023. (V. 9.) AM rendelet 16. § a) pontja szerint módosított szöveg.
