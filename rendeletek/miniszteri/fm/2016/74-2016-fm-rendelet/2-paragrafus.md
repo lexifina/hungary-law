@@ -4,13 +4,13 @@
 
 a) tenyészkos- vagy tenyészbaknevelő központi telepről, illetve származási okmányon szereplő tenyésztőtől – támogatási időszakban – történő megvásárlása és tenyésztésbe állítása, illetve
 
-b) állattartó általi, saját állományból – támogatási időszakban – történő tenyésztésbe állítása
+b)[^6] állattartó általi, saját állományból – támogatási időszakban – történő tenyésztésbe állítása a (2) bekezdés b) pontja szerinti, „A” törzskönyvben nyilvántartott tenyészkos és tenyészbak
 
 esetén az állattartó vissza nem térítendő mezőgazdasági csekély összegű támogatás (a továbbiakban: támogatás) igénybevételére jogosult.
 
-(2) A támogatás összege a saját állományból származó és a támogatási időszakban tenyésztésbe állított apaállat esetén az a)–c) pontokban foglaltak szerint kerül megállapításra, míg a támogatási időszakban megvásárolt és tenyésztésbe állított apaállat esetén az apaállat ellenértékének 75%-a, de legfeljebb
+(2)[^7] A támogatás összege a saját állományból származó és a támogatási időszakban tenyésztésbe állított apaállat esetén a b) pontban foglaltak szerint kerül megállapításra, míg a támogatási időszakban megvásárolt és tenyésztésbe állított apaállat esetén az apaállat ellenértékének 75%-a, de legfeljebb
 
-a) apaállattá minősített növendék kosonként, illetve növendék bakonként 45 000 forint,
+a)[^8] apaállattá minősített növendék bakonként 45 000 forint,
 
 b) az „A” törzskönyvben nyilvántartott tenyészkosonként, illetve tenyészbakonként 120 000 forint,
 
@@ -26,7 +26,7 @@ b) ÁFA levonására nem jogosult, akkor a bruttó vételár
 
 kerül figyelembevételre.
 
-(4)[^4] Az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon az adott üzleti évben, valamint az azt megelőző két üzleti év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (5)–(6) bekezdésében foglaltakat, illetve a II. mellékletében meghatározott felső határt.
+(4)[^9] Az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon az adott üzleti évben, valamint az azt megelőző két üzleti év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg a 25 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (5)–(6) bekezdésében foglaltakat, illetve a II. mellékletében meghatározott felső határt.
 
 (5) A támogatáshoz kapcsolódó iratokat a támogatás odaítélését követő tíz évig meg kell őrizni, és a támogatást nyújtó ilyen irányú felhívása esetén a támogatott köteles azokat bemutatni. A támogatásról az Európai Bizottság kérésére húsz munkanapon belül információt kell szolgáltatni.
 
@@ -36,4 +36,7 @@ kerül figyelembevételre.
 
 (8) A támogatás nem halmozható azonos támogatható költségek kapcsán vagy azonos kockázatfinanszírozási célú intézkedés kapcsán nyújtott állami támogatással, ha a támogatások halmozása túllépi az Európai Bizottság által elfogadott határozatban vagy csoportmentességi rendeletekben az egyes esetek meghatározott körülményeire vonatkozóan rögzített maximális támogatási intenzitást vagy összeget. A nem konkrét elszámolható költségekre nyújtott vagy azokhoz hozzá nem rendelhető támogatás halmozható más, az Európai Bizottság által elfogadott csoportmentességi rendelet vagy határozat alapján nyújtott állami támogatással.
 
-[^4]: A 2. § (4) bekezdése a 14/2019. (IV. 10.) AM rendelet 40. §-ával megállapított szöveg.
+[^6]: A 2. § (1) bekezdés b) pontja a 22/2023. (V. 9.) AM rendelet 18. §-ával megállapított szöveg.
+[^7]: A 2. § (2) bekezdés nyitó szövegrésze a 22/2023. (V. 9.) AM rendelet 20. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § (2) bekezdés a) pontja a 22/2023. (V. 9.) AM rendelet 20. § b) pontja szerint módosított szöveg.
+[^9]: A 2. § (4) bekezdése a 14/2019. (IV. 10.) AM rendelet 40. §-ával megállapított szöveg.

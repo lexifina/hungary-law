@@ -6,7 +6,7 @@ a) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatás
 
 b) a támogatási kérelem benyújtásának időpontjában
 
-ba)[^6]
+ba)[^11]
 
 bb) nem áll felszámolási, végelszámolási eljárás vagy csődeljárás alatt,
 
@@ -28,7 +28,7 @@ eb) a 119/2007. (X. 18.) FVM rendelet szerint bejelentett tenyészettel.
 
 (2) Egy tenyészkos vagy tenyészbak után csak a tenyésztésbe állítást követő első támogatási kérelem benyújtási időszakban és csak egy alkalommal igényelhető támogatás.
 
-(3)[^7] Az állattartó a tenyészetében lévő
+(3)[^12] Az állattartó a tenyészetében lévő
 
 a) anyajuh minden megkezdett ötven egyedszáma után egy tenyészkos,
 
@@ -42,5 +42,5 @@ tenyésztésbe állításához igényelhet támogatást.
 
 (6) Egy állattartó egy támogatási időszakban egy támogatási kérelmet nyújthat be.
 
-[^6]: A 4. § (1) bekezdés b) pont ba) alpontját a 43/2017. (IX. 5.) FM rendelet 21. §-a hatályon kívül helyezte.
-[^7]: A 4. § (3) bekezdése a 43/2017. (IX. 5.) FM rendelet 19. §-ával megállapított szöveg.
+[^11]: A 4. § (1) bekezdés b) pont ba) alpontját a 43/2017. (IX. 5.) FM rendelet 21. §-a hatályon kívül helyezte.
+[^12]: A 4. § (3) bekezdése a 43/2017. (IX. 5.) FM rendelet 19. §-ával megállapított szöveg.
