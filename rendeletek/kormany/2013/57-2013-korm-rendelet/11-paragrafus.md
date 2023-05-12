@@ -1,4 +1,4 @@
-11. § (1)[^15]
+11. § (1)[^16]
 
 (2) Abban az esetben, ha az ipari tevékenység folytatója
 
@@ -16,9 +16,9 @@ b) a tevékenység gyakorlását felfüggesztő, korlátozó, illetve a telep id
 
 a jegyző az ipari tevékenység folytatását megtiltja, illetve a telepengedélyt visszavonja, és a tevékenységet, illetve a telepet törli a nyilvántartásból.
 
-(4)[^16]
+(4)[^17]
 
 (5) A (3) bekezdés a) pontja a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény hatálya alá tartozó bejelentés-köteles ipari tevékenység tekintetében nem alkalmazható.
 
-[^15]: A 11. § (1) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 435. § h) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^16]: A 11. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 435. § h) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^16]: A 11. § (1) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 435. § h) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^17]: A 11. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 435. § h) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

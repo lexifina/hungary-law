@@ -6,6 +6,6 @@
 
 (4) Az ipari tevékenység megszüntetését az ipari tevékenység végzője köteles a jegyzőnek a megszűnést követően haladéktalanul bejelenteni és – telepengedély-köteles tevékenység esetében – a telepengedélyt leadni. A telepet a jegyző törli a nyilvántartásból.
 
-(5)–(6)[^14]
+(5)–(6)[^15]
 
-[^14]: A 10. § (5)–(6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 435. § g) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^15]: A 10. § (5)–(6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 435. § g) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
