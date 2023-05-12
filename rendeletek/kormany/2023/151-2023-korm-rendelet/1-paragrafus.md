@@ -1,0 +1,3 @@
+1. § A telepengedély, illetve a telep létesítésének bejelentése alapján gyakorolható egyes termelő és egyes szolgáltató tevékenységekről, valamint a telepengedélyezés rendjéről és a bejelentés szabályairól szóló 57/2013. (II. 27.) Korm. rendelet 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A telepengedélyezési eljárásban ügyfélnek minősül a teleppel közvetlenül szomszédos, a teleppel közös határvonalú, telekhatárú ingatlan – ide nem értve a települési önkormányzat tulajdonában lévő kivett utat – tulajdonosa, társasház esetében a közös képviselő vagy az intézőbizottság elnöke, lakásszövetkezet esetében az elnök.”
