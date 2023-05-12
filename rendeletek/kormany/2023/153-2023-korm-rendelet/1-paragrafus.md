@@ -1,0 +1,1 @@
+1. § A nyomástartó berendezések, rendszerek és létesítmények műszaki-biztonsági hatósági felügyeletéről szóló 213/2019. (VIII. 27.) Korm. rendelet [a továbbiakban: 213/2019. (VIII. 27.) Korm. rendelet] 2. § 1. pontjában a „sűrített földgáz és egyéb gáz üzemanyag” szövegrész helyébe a „sűrített földgáz és egyéb gáz üzemanyag, továbbá a hidrogénüzemű jármű üzemanyaga” szöveg lép.
