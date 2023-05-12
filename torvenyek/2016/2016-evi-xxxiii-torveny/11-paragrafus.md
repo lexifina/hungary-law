@@ -14,6 +14,6 @@ c) az értékelő eseti feladatellátásával kapcsolatos részletes szabályoka
 
 d) a mikro-, kis- és középvállalkozások, valamint a helyi és területi önkormányzatok számára nyitva álló felhívások esetén a kiválasztási eljárásrendek körét,
 
-e) e törvény kötelező alkalmazásának további esetköreit és a kötelező alkalmazás további feltételeit és azok részletes szabályait, valamint a kötelező alkalmazás alóli mentesítésre vonatkozó részletszabályokat.
+e) – a 11/A. §-ban meghatározott kivétellel – e törvény kötelező alkalmazásának további esetköreit és a kötelező alkalmazás további feltételeit, azok részletes szabályait, valamint a kötelező alkalmazás alóli mentesítésre vonatkozó részletszabályokat,
 
 f) a Magyarország Helyreállítási és Ellenállóképességi Terv vonatkozásában azon tartalmi értékelések körét, amelyek tekintetében az állami projektértékelő tartalmi értékelést végez.

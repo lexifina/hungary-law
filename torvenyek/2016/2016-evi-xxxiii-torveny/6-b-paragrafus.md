@@ -8,4 +8,4 @@ c) születési helyét, idejét,
 
 d) anyja nevét,
 
-e) adóazonosító jelét.
+e)

@@ -1,0 +1,1 @@
+11/A. § Felhatalmazást kap az agrárpolitikáért felelős miniszter, hogy a Közös Agrárpolitikából és a központi költségvetésből biztosított agrártámogatások felhasználása vonatkozásában e törvény kötelező alkalmazásának további esetköreit és a kötelező alkalmazás további feltételeit rendeletben állapítsa meg.

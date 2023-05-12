@@ -12,6 +12,6 @@
 
 4a. munkáltató: a miniszter által vezetett vagy a Kormány eredeti jogalkotói hatáskörében kiadott rendeletében kijelölt, a miniszter feladatainak ellátását segítő minisztérium (a továbbiakban: minisztérium);
 
-5. programozási időszak: az Európai Unió által meghatározott hétéves tervezési periódus;
+5.
 
 6. szakértői névsor: a minisztériumban nyilvántartott állami projektértékelői névjegyzék.

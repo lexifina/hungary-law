@@ -16,6 +16,8 @@ f) annak megjelölését, hogy a pályázat tartalmi értékelés vagy közbesze
 
 (3) A jogviszony létesítését megelőzően a pályázó nyilatkozik arról, hogy büntetlen előéletű és nem áll foglalkozástól eltiltás hatálya alatt. Ha a pályázó, értékelő büntetlen előéletével összefüggésben kétség merül fel, a munkáltatói jogkör gyakorlója írásban, indokolással felszólíthatja, hogy a felhívástól számított tizenöt napon belül – ha e határidőn belül menthető ok miatt nem lehetséges, annak megszűnését követően haladéktalanul – hatósági bizonyítvány bemutatásával igazolja, hogy büntetlen előéletű.
 
+(3a) A pályázati eljárás során megfelelt és kiválasztott személy a jogviszony létesítésével egyidejűleg általános összeférhetetlenségi nyilatkozatot és az iránymutatás az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről szóló bizottsági közlemény (2021/C 121/01) 6.3. pontja szerinti adatokat is tartalmazó érdekeltségi nyilatkozatot tesz.
+
 (4) A miniszter gondoskodik arról, hogy a pályázati eljárás során megfelelt és kiválasztott személyt a szakértői névsorba bejegyezzék.
 
 (5) Az értékelőre az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvény és a nemzetbiztonsági szolgálatokról szóló törvény nemzetbiztonsági ellenőrzésre vonatkozó rendelkezéseit megfelelően alkalmazni kell.

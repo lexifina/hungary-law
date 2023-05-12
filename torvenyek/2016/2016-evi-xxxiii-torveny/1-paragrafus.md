@@ -24,15 +24,15 @@ foglalkoztatott és projektértékelési feladatok ellátására sikeres pályá
 
 (4) E törvényt
 
-a) a mikro-, kis- és középvállalkozások, valamint a helyi és területi önkormányzatok számára nyitva álló, kormányrendeletben meghatározott kiválasztási eljárásrenddel érintett felhívások tekintetében végzett tartalmi értékelésre és
+a) a mikro-, kis- és középvállalkozások, valamint a helyi és területi önkormányzatok számára nyitva álló, kormányrendeletben vagy miniszteri rendeletben meghatározott kiválasztási eljárásrenddel érintett felhívások tekintetében végzett tartalmi értékelésre és
 
 b) a közbeszerzési értékelésre
 
 kell alkalmazni.
 
-(5) E törvény a miniszter hozzájárulása esetén a (4) bekezdés a) pontjába nem tartozó felhívással összefüggő tartalmi értékelésre is alkalmazható.
+(5) E törvény a miniszter hozzájárulása esetén a (4) bekezdés a) pontjába vagy a (6) bekezdésbe nem tartozó felhívással összefüggő tartalmi értékelésre is alkalmazható.
 
-(6) A (4) bekezdés a) pontjában foglaltakon túl a törvény kötelező alkalmazásának további esetköreit – ideértve a felhívások kiválasztási eljárásrendjének meghatározását is – és feltételeit kormányrendelet meghatározhatja.
+(6) A (4) bekezdés a) pontjában foglaltakon túl a törvény kötelező alkalmazásának további esetköreit – ideértve a felhívások kiválasztási eljárásrendjének meghatározását is – és feltételeit kormányrendelet vagy miniszteri rendelet meghatározhatja.
 
 (7) E törvény tartalmi értékelésre vonatkozó rendelkezéseit – az alkalmazott kiválasztási eljárástól függetlenül – nem kell alkalmazni
 
@@ -42,4 +42,4 @@ b) a KFItv. alapján kötött megállapodásban foglalt, kutatás-fejlesztési �
 
 értékelési feladatokra és eljárásokra.
 
-(8) E törvényt nem kell alkalmazni a (4) bekezdés a) pontja vagy (6) bekezdés szerinti felhívásra benyújtott támogatási kérelmek esetén, ha ahhoz a miniszter különösen indokolt esetben hozzájárul.
+(8) E törvényt nem kell alkalmazni a (4) bekezdés a) pontja vagy a (6) bekezdés szerinti felhívásra benyújtott támogatási kérelmek esetén, ha ahhoz a miniszter különösen indokolt esetben hozzájárul.

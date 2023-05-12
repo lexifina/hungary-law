@@ -10,7 +10,9 @@ c) az állami projektértékelői jogviszonnyal összefüggő munkáltatói int�
 
 d) az állami projektértékelői jogviszonnyal összefüggő jogok gyakorlásának és kötelezettségek teljesítésének biztosítása
 
-céljából kezeli az értékelőként jogviszonyt létesíteni szándékozó személy és az állami projektértékelő személyes adatait, valamint a 4. § (3) bekezdése szerinti nyilatkozatát, és azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+céljából kezeli az értékelőként jogviszonyt létesíteni szándékozó személy és az állami projektértékelő személyes adatait, a 4. § (3) és (3a) bekezdése szerinti nyilatkozatait, valamint azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalmaz.
+
+(1a) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 29/B. § (1) bekezdése szerinti Belső Ellenőrzési és Integritási Igazgatóság a Kit. 29/B. § (3) bekezdés a) pontja szerinti ellenőrzés lefolytatásához kezeli a Kit. 29/B. § (3c) bekezdése szerinti adatokat az állami projektértékelők vonatkozásában.
 
 (2) Az (1) bekezdésben foglaltak alapján megismert személyes adatokat a munkáltató a jogviszony létesítéséről meghozott döntés időpontjáig vagy – jogviszony létesítése és fennállása esetén – legfeljebb az érintett operatív programra irányadó dokumentum-megőrzési kötelezettség leteltéig kezeli.
 
