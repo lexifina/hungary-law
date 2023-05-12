@@ -32,6 +32,8 @@ eb) a program keretében a kísérőintézkedésre, valamint a munkafüzetek nyo
 
 ec) kijelenti, hogy a köznevelési intézmények vonatkozásában a fenntartóval kötött megállapodások végrehajtásáról – az 5. § (7) bekezdése szerinti – nyilvántartást vezet.
 
+ed)[^2] visszafizeti az érintett termékmennyiségekre jogosulatlanul kapott támogatást, ha megállapítást nyer, hogy a termékeket nem osztották ki a gyermekeknek, vagy ha azok uniós finanszírozásból nem támogathatók.
+
 (6) A Kincstár az előzetes jóváhagyás iránti kérelmekről a (9) bekezdésben foglalt közzététel napjáig hoz döntést.
 
 (7) A kérelmező programban történő részvételének a 2018/2019. tanítási év vagy az azt követő tanítási évek valamelyike szerinti előzetes jóváhagyása – külön kérelem benyújtása nélkül – az (1) bekezdés szerinti előzetes jóváhagyásnak tekintendő, feltéve, hogy a kérelmező a (4) bekezdésben meghatározott kérelembenyújtási határidő első napján megfelel a (2) és (3) bekezdésben meghatározott feltételeknek.
@@ -39,3 +41,5 @@ ec) kijelenti, hogy a köznevelési intézmények vonatkozásában a fenntartóv
 (8) A 2021/2022. tanítási év vagy az azt megelőző tanítási évek valamelyike szerinti előzetes jóváhagyás a 2022/2023. és az azt követő tanítási évekre nem vehető figyelembe.
 
 (9) A Kincstár a következő tanítási évre vonatkozóan előzetes jóváhagyással rendelkező kérelmezők cégnevét és székhelyét tartalmazó listáját minden év április 15-éig a honlapján közzéteszi.
+
+[^2]: A 4. § (5) bekezdés e) pont ed) alpontját a 22/2023. (V. 9.) AM rendelet 31. §-a iktatta be.

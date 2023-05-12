@@ -1,40 +1,38 @@
-## 1X02124A_0
+|  | A | B | C | D | E | F |
 
-| 1. | A | B | C | D | E | F |
-
-| Termék megnevezése | Egy adagként kiosztandó mennyiség | A támogatás bruttó összege (Ft/adag) |
+| 1. | Termék megnevezése | Egy adagként kiosztandó mennyiség | A támogatás bruttó összege (Ft/adag) |
 
 | I. időszak | II. időszak | III. időszak | IV. időszak |
 
-| 2. | gyümölcs |
+| 2. | 1. gyümölcs |
 
-| 2.1. | alma | egész | 1 db | 50 | 50 | 55 | 60 |
+| 3. | 1.1. alma | egész | 1 db | 65 | 65 | 70 | 80 |
 
-|  | szeletelt | 8 dkg | 95 | 95 | 95 | 95 |
+| szeletelt | 8 dkg | 125 | 125 | 125 | 125 |
 
-| 2.2. | körte | 1 db | 85 | 85 | 85 | 85 |
+| 4. | 1.2. körte | 1 db | 110 | 110 | 110 | 110 |
 
-| 2.3. | őszibarack | 1 db | 85 | – | – | – |
+| 5. | 1.3. őszibarack | 1 db | 110 | – | – | – |
 
-| 2.4. | nektarin | 1 db | 85 | – | – | – |
+| 6. | 1.4. nektarin | 1 db | 110 | – | – | – |
 
-| 2.5. | szilva | 4 db | 55 | – | – | – |
+| 7. | 1.5. szilva | 4 db | 70 | – | – | – |
 
-| 2.6. | földi eper (adagonként csomagolt) | 8 dkg | – | – | – | 100 |
+| 8. | 1.6. földi eper (adagonként csomagolt) | 8 dkg | – | – | – | 130 |
 
-| 2.7. | cseresznye (adagonként csomagolt) | 8 dkg | – | – | – | 100 |
+| 9. | 1.7. cseresznye (adagonként csomagolt) | 8 dkg | – | – | – | 130 |
 
-| 2.8. | zöldség- és gyümölcslé | 2 dl | 110 | 110 | 110 | 110 |
+| 10. | 2. zöldség- és gyümölcslé | 2 dl | 145 | 145 | 145 | 145 |
 
-| 3. | zöldség |
+| 11. | 3. zöldség |
 
-| 3.1. | paradicsom | 1 db | 55 | 65 | 70 | 60 |
+| 12. | 3.1. paradicsom | 1 db | 70 | 85 | 90 | 90 |
 
-| 3.2. | sárgarépa (csomagolt, mini répa, hasáb, golyó) | 10 dkg | 45 | 50 | 50 | 45 |
+| 13. | 3.2. sárgarépa (csomagolt, mini répa, hasáb, golyó) | 10 dkg | 60 | 65 | 65 | 60 |
 
-| 3.3. | étkezési paprika (tv vagy kápia) | 1 db | 30 | 30 | 60 | 60 |
+| 14. | 3.3. étkezési paprika (tv vagy kápia) | 1 db | 40 | 40 | 80 | 80 |
 
-| 3.4. | karalábé (adagonként csomagolt) | 10 dkg | 55 | – | – | 55 |
+| 15. | 3.4. karalábé | 10 dkg | 70 | – | – | 70 |
 
 2. melléklet a 15/2021. (III. 31.) AM rendelethez
 
