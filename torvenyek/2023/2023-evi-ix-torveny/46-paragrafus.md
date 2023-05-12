@@ -1,3 +1,1 @@
-46. § A Kit. 182. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az (1) bekezdésben foglaltaktól eltérően az országgyűlési képviselői megbízatással nem rendelkező államtitkár és a miniszterelnök politikai igazgatója a Kormány előzetes engedélyével lehet a Magyar Nemzeti Bank felügyelőbizottságának, a Nemzeti Vagyongazdálkodási Tanácsnak, az Országos Betétbiztosítási Alap igazgatótanácsának, a Szanálási Alap igazgatótanácsának, a Likviditási Bizottságnak és a Fenntartható Gazdaságfehéredésért Felelős Bizottságnak, a közvetlen vagy közvetett többségi állami tulajdonban lévő befektetési alapkezelő irányító testületének, illetve felügyeleti feladatokat ellátó irányító testületének, valamint közvetlen vagy közvetett többségi állami tulajdonban lévő gazdasági társaság igazgatóságának és felügyelőbizottságának tagja, továbbá a Nemzeti Földalapkezelő Szervezet Birtokpolitikai Tanácsának elnöke és tagja.”
+### 46. §
