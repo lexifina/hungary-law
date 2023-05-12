@@ -1,6 +1,6 @@
-## 7a.[^16] Átmeneti támogatás
+## 7a.[^18] Átmeneti támogatás
 
-7/A. § (1)[^17] Az élelmiszeripari vállalkozás az egyes agrártámogatások támogatási formáját érintő módosításokról szóló 18/2021. (IV. 14.) AM rendelet hatálybalépésének[^18] napja és 2022. május 31. napja között – a határnapokat is beleértve – hatályba lépett hitelszerződésekhez kapcsolódó, a 2. § (2) bekezdés b) pontja szerinti kamattámogatást a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatásként (a továbbiakban: átmeneti támogatás) igényelheti.
+7/A. § (1)[^19] Az élelmiszeripari vállalkozás az egyes agrártámogatások támogatási formáját érintő módosításokról szóló 18/2021. (IV. 14.) AM rendelet hatálybalépésének[^20] napja és 2022. május 31. napja között – a határnapokat is beleértve – hatályba lépett hitelszerződésekhez kapcsolódó, a 2. § (2) bekezdés b) pontja szerinti kamattámogatást a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatásként (a továbbiakban: átmeneti támogatás) igényelheti.
 
 (2) Az átmeneti támogatásra a 2–7. §-ban foglaltakat az ezen alcímben megállapított eltérésekkel kell alkalmazni.
 
@@ -24,16 +24,16 @@ g) a hitel kedvezményes kamatlábából, a kapcsolódó intézményi kezességv
 
 (5) Átmeneti támogatás igénylése esetén az élelmiszeripari vállalkozás átmeneti támogatás iránti kamattámogatási kérelme tartalmazza a (4) bekezdésben foglalt nyilatkozatokat is.
 
-(6)[^19] Az átmeneti támogatás iránti kamattámogatási kérelem 2022. május 31-éig postai úton nyújtható be a Kincstárhoz.
+(6)[^21] Az átmeneti támogatás iránti kamattámogatási kérelem 2022. május 31-éig postai úton nyújtható be a Kincstárhoz.
 
 (7) A Kincstár – az (1) bekezdés szerinti átmeneti támogatás iránti kamattámogatási kérelem tekintetében – a 20/2020. (VI. 19.) AM rendelet 3. § (1) bekezdés b)–c) pontjában meghatározott értékhatárt meghaladó átmeneti támogatási igényt elutasítja vagy annak összegét a 20/2020. (VI. 19.) AM rendelet 3. § (5) bekezdésében foglaltakra tekintettel állapítja meg. A szabad átmeneti támogatási keretet a 20/2020. (VI. 19.) AM rendelet 4. § (1) bekezdésében foglaltakra tekintettel kell megállapítani.
 
-(8)[^20] A Kincstár a kamattámogatás támogatástartalmáról szóló igazolást legkésőbb 2022. június 30-áig megküldi az élelmiszeripari vállalkozás részére.
+(8)[^22] A Kincstár a kamattámogatás támogatástartalmáról szóló igazolást legkésőbb 2022. június 30-áig megküldi az élelmiszeripari vállalkozás részére.
 
 (9) Az (1) bekezdés szerinti hitelszerződésekhez kapcsolódóan csekély összegű támogatási jogcímen kamattámogatás abban az esetben igényelhető, ha az átmeneti támogatás nyújtásának feltételei nem állnak fenn.
 
-[^16]: A 7a. alcímet (7/A. §) a 18/2021. (IV. 14.) AM rendelet 9. §-a iktatta be.
-[^17]: A 7/A. § (1) bekezdése az 50/2021. (XII. 29.) AM rendelet 18. § a) pontja szerint módosított szöveg.
-[^18]: A hatálybalépés időpontja 2021. április 15.
-[^19]: A 7/A. § (6) bekezdése az 50/2021. (XII. 29.) AM rendelet 18. § b) pontja szerint módosított szöveg.
-[^20]: A 7/A. § (8) bekezdése az 50/2021. (XII. 29.) AM rendelet 18. § c) pontja szerint módosított szöveg.
+[^18]: A 7a. alcímet (7/A. §) a 18/2021. (IV. 14.) AM rendelet 9. §-a iktatta be.
+[^19]: A 7/A. § (1) bekezdése az 50/2021. (XII. 29.) AM rendelet 18. § a) pontja szerint módosított szöveg.
+[^20]: A hatálybalépés időpontja 2021. április 15.
+[^21]: A 7/A. § (6) bekezdése az 50/2021. (XII. 29.) AM rendelet 18. § b) pontja szerint módosított szöveg.
+[^22]: A 7/A. § (8) bekezdése az 50/2021. (XII. 29.) AM rendelet 18. § c) pontja szerint módosított szöveg.
