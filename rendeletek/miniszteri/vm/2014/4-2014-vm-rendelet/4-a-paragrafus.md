@@ -1,6 +1,6 @@
-4/A. §[^20] (1)[^21] A 2. § (1) bekezdésében foglaltaktól eltérően, a kérelmező 2022. február 15. és április 15. közötti időszakra elektronikus úton benyújtott támogatási kérelme alapján kizárólag a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatás igénybevételére jogosult.
+4/A. §[^24] (1)[^25] A 2. § (1) bekezdésében foglaltaktól eltérően, a kérelmező 2022. február 15. és április 15. közötti időszakra elektronikus úton benyújtott támogatási kérelme alapján kizárólag a koronavírus járvány miatt nehéz gazdasági helyzetbe került agrárvállalkozások és élelmiszer-feldolgozást végző vállalkozások részére nyújtandó átmeneti támogatás igénybevételének általános feltételeiről szóló 20/2020. (VI. 19.) AM rendelet [a továbbiakban: 20/2020. (VI. 19.) AM rendelet] 1. § b) pontja szerinti átmeneti támogatás igénybevételére jogosult.
 
-(2) Az átmeneti támogatás iránti kérelem ügyfélkapus azonosítást követően az erre a célra rendszeresített elektronikus űrlapkitöltő felületen (a továbbiakban: elektronikus űrlapkitöltő felület) keresztül nyújtható be a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
+(2)[^26] Az átmeneti támogatás iránti kérelem ügyfélkapus azonosítást követően az elektronikus űrlapkitöltő felületen keresztül nyújtható be a Kincstárhoz, a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.
 
 (3) Ha a kérelemre indult eljárásban foglalt kötelezettségek elektronikus úton történő teljesítése során a kérelmező helyett és nevében meghatalmazottja jár el, a meghatalmazott a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető elektronikus űrlapkitöltő felületet használja az eljárási cselekmények elektronikus elvégzéséhez. A meghatalmazott útján történő eljárásra az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet meghatalmazásra vonatkozó rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
 
@@ -28,5 +28,6 @@ bd) a kapcsolt vállalkozások azonosító adatairól (név, adószám vagy adó
 
 (9) A Kincstár – az (1) bekezdésben meghatározott időszakban benyújtott átmeneti támogatás iránti kérelmek vonatkozásában – a 20/2020. (VI. 19.) AM rendelet 3. § (1) bekezdés a) pontjában meghatározott értékhatárt meghaladó átmeneti támogatási igényt elutasítja, illetve annak összegét a 20/2020. (VI. 19.) AM rendelet 3. § (5) bekezdésében foglaltakra tekintettel állapítja meg.
 
-[^20]: A 4/A. § a 65/2020. (XII. 17.) AM rendelet 1. §-a iktatta be.
-[^21]: A 4/A. § (1) bekezdése az 50/2021. (XII. 29.) AM rendelet 12. § b) pontja szerint módosított szöveg.
+[^24]: A 4/A. § a 65/2020. (XII. 17.) AM rendelet 1. §-a iktatta be.
+[^25]: A 4/A. § (1) bekezdése az 50/2021. (XII. 29.) AM rendelet 12. § b) pontja szerint módosított szöveg.
+[^26]: A 4/A. § (2) bekezdése a 22/2023. (V. 9.) AM rendelet 3. § b) pontja szerint módosított szöveg.
