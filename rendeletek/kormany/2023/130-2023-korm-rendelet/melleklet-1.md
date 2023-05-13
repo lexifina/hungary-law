@@ -6,50 +6,71 @@
 
 | 1. | Vámtarifaszám | Termék megnevezése |
 
-| 2. | 0201 | Szarvasmarhafélék húsa frissen vagy hűtve |
+| 2.[^11] |  |  |
 
-| 3. | 0202 | Szarvasmarhafélék húsa fagyasztva |
+| 3.[^12] |  |  |
 
-| 4. | 0203 | Sertéshús frissen, hűtve vagy fagyasztva |
+| 4.[^13] |  |  |
 
-| 5. | 0204 | Juh- vagy kecskehús frissen, hűtve vagy fagyasztva |
+| 5.[^14] |  |  |
 
-| 6. | 0207 | Baromfi élelmezési célra alkalmas húsa, vágási mellékterméke és belsősége frissen, hűtve vagy fagyasztva |
+| 6.[^15] |  |  |
 
-| 7. | 0407 | Madártojás héjában, frissen, tartósítva vagy főzve |
+| 7.[^16] |  |  |
 
-| 8. | 0409 | Természetes méz |
+| 8.[^17] |  |  |
 
-| 9. | 0710 | Zöldség (nyersen, gőzöléssel vagy vízben forrázással főzve is) fagyasztva |
+| 9.[^18] |  |  |
 
 | 10. | 1001 | Búza és kétszeres |
 
-| 11. | 1002 | Rozs |
+| 11.[^19] |  |  |
 
-| 12. | 1003 | Árpa |
+| 12.[^20] |  |  |
 
 | 13. | 1005 | Kukorica |
 
-| 14. | 1008 | Hajdina, köles és kanárimag; más gabonaféle |
+| 14.[^21] |  |  |
 
-| 15. | 1101 | Búzaliszt vagy kétszeres liszt |
+| 15.[^22] |  |  |
 
-| 16. | 1102 | Gabonaliszt (kivéve búza- vagy kétszeres liszt) |
+| 16.[^23] |  |  |
 
-| 17. | 1104 | Megmunkált gabonaféle (pl. hántolt, lapított, pelyhesített, fényezett, szeletelt vagy durván darált); gabonacsíra egészben, lapítva, pelyhesítve vagy őrölve |
+| 17.[^24] |  |  |
 
 | 18. | 1205 | Repce- vagy olajrepcemag, törve is |
 
 | 19. | 1206 | Napraforgómag, törve is |
 
-| 20. | 1512 | Napraforgómag-, pórsáfránymag- és gyapotmagolaj és ezek frakciói finomítva is, de vegyileg nem átalakítva |
+| 20.[^25] |  |  |
 
-| 21. | 1514 | Repce- és mustárolaj és ezek frakciói, finomítva is, de vegyileg nem átalakítva |
+| 21.[^26] |  |  |
 
-| 22. | 1701 | Nád- vagy répacukor és vegytiszta szacharóz szilárd állapotban |
+| 22.[^27] |  |  |
 
-| 23. | 1905 | Kenyér, cukrászsütemény, kalács, biscuit és más pékáru kakaótartalommal is; áldozó ostya, üres gyógyszerkapszula, pecsételő ostya, rizspapír és hasonló termék |
+| 23.[^28] |  |  |
 
-| 24. | 2005 | Zöldség (kivéve a cukrozott) ecet vagy ecetsav nélkül elkészítve vagy tartósítva (kivéve paradicsom és az ehető gombák), nem fagyasztva |
+| 24.[^29] |  |  |
 
-| 25. | 2204 | Bor friss szőlőből; szőlőmust (kivéve a szőlőlevet) |
+| 25.[^30] |  |  |
+
+[^11]: Az 1. mellékletben foglalt táblázat 2. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^12]: Az 1. mellékletben foglalt táblázat 3. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^13]: Az 1. mellékletben foglalt táblázat 4. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^14]: Az 1. mellékletben foglalt táblázat 5. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^15]: Az 1. mellékletben foglalt táblázat 6. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^16]: Az 1. mellékletben foglalt táblázat 7. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^17]: Az 1. mellékletben foglalt táblázat 8. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^18]: Az 1. mellékletben foglalt táblázat 9. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^19]: Az 1. mellékletben foglalt táblázat 11. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.
+[^20]: Az 1. mellékletben foglalt táblázat 12. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § c) pontja hatályon kívül helyezte.
+[^21]: Az 1. mellékletben foglalt táblázat 14. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
+[^22]: Az 1. mellékletben foglalt táblázat 15. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
+[^23]: Az 1. mellékletben foglalt táblázat 16. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
+[^24]: Az 1. mellékletben foglalt táblázat 17. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § d) pontja hatályon kívül helyezte.
+[^25]: Az 1. mellékletben foglalt táblázat 20. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
+[^26]: Az 1. mellékletben foglalt táblázat 21. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
+[^27]: Az 1. mellékletben foglalt táblázat 22. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
+[^28]: Az 1. mellékletben foglalt táblázat 23. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
+[^29]: Az 1. mellékletben foglalt táblázat 24. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
+[^30]: Az 1. mellékletben foglalt táblázat 25. sorát a 177/2023. (V. 12.) Korm. rendelet 4. § e) pontja hatályon kívül helyezte.
