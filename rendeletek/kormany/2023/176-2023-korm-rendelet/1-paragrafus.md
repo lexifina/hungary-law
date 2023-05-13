@@ -1,0 +1,1 @@
+1. § A veszélyhelyzetre tekintettel a mikro-, kis- és középvállalkozásokat érintő negatív gazdasági hatások mérséklése érdekében szükséges intézkedésekről szóló 415/2022. (X. 26.) Korm. rendelet 1. § (1) bekezdésében a „2023. június 30-ig” szövegrész helyébe a „2023. december 31-ig” szöveg lép.
