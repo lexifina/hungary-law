@@ -1,3 +1,3 @@
-3. § A 424/2015. (XII. 23.) Korm. rendelet 8. § (5) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(5) Az értékelő csoport az akkreditált státusz odaítélésére, bővítésére vonatkozó javaslatot tartalmazó szakvéleményt állít ki a Hatóság részére.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
