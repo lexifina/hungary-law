@@ -1,3 +1,3 @@
-26. § A 39/2018. (XII. 13.) AM rendelet 14. § (8) bekezdése helyébe a következő rendelkezés lép:
+26. §[^27]
 
-„(8) Ha a benyújtott mezőgazdasági csekély összegű támogatás vagy az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelet [a továbbiakban: 25/2022. (VIII. 31.) AM rendelet] 1. § 13. pontja szerinti támogatás (a továbbiakban: válságtámogatás) iránti kérelmekben foglalt összes jogos igény meghaladja a (7a) bekezdés szerinti keretösszeget, akkor az igénylő részére megállapítható legmagasabb támogatási összeg a túllépés mértékével arányosan csökken.”
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

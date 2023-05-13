@@ -1,1 +1,3 @@
-30. § Hatályát veszti a 39/2018. (XII. 13.) AM rendelet 16/E. § (5) bekezdésében a „(2) bekezdés szerinti” szövegrész.
+30. §[^31]
+
+[^31]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

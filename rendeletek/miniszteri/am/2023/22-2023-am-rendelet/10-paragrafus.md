@@ -1,3 +1,3 @@
-10. § A 48/2015. (VIII. 12.) FM rendelet 13. § d) pontja helyébe a következő rendelkezés lép:
+10. §[^11]
 
-(Ez a rendelet)
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

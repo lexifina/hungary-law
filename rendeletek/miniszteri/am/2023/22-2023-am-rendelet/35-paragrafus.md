@@ -1,3 +1,3 @@
-35. § A 15/2021. (III. 31.) AM rendelet 18. § (1) bekezdése helyébe a következő rendelkezés lép:
+35. §[^36]
 
-„(1) A támogatás mértéke a megállapodásnak megfelelően leszállított és kiosztott, a 12. és 13. §-ban foglaltaknak megfelelő termék – 1. mellékletben meghatározott – egy adagjára vetített és meghatározott bruttó összeg, amely tartalmazza az 1308/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (1) bekezdés a) pontjában foglalt költségeket, és amelynek összegére a kérelmező a számlát kiállította. Az egy hétre és egy főre számított támogatás összege legfeljebb bruttó kettőszázharminc forint lehet. Ha a megállapodásban szereplő termékekre jutó – 1. mellékletben meghatározott – támogatás egy főre és egy hétre számított összege meghaladja a bruttó kettőszázharminc forintot, akkor a különbözetet a fenntartó megtéríti a beszállítónak.”
+[^36]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

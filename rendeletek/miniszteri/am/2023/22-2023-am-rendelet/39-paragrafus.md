@@ -1,1 +1,3 @@
-39. § A 15/2021. (III. 31.) AM rendelet 1. melléklete helyébe az 1. melléklet lép.
+39. §[^40]
+
+[^40]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

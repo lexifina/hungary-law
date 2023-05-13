@@ -1,1 +1,3 @@
-41. § A 19/2021. (V. 5.) AM rendelet 4. § (4) bekezdésében a „négy” szövegrész helyébe a „három” szöveg lép.
+41. §[^42]
+
+[^42]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

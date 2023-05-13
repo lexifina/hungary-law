@@ -1,3 +1,3 @@
-33. § A 15/2021. (III. 31.) AM rendelet 8. § (2) bekezdése helyébe a következő rendelkezés lép:
+33. §[^34]
 
-„(2) A kiválasztási eljárásról a fenntartó bontási jegyzőkönyvet készít. A fenntartónak a kiválasztási eljárásról készült dokumentációt az érintett tanév lezárultát követő öt évig meg kell őriznie. Az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) jogosult ellenőrizni a kiválasztási eljárás dokumentáltságát. A fenntartó a Kbt. vagy az e rendelet szerint elkészített ajánlattételi kiírást a közzétételtől számított tíz napon belül, a bontási jegyzőkönyv másolatát harminc napon belül elektronikus úton megküldi a miniszter részére a Kincstár honlapján közzétett közleményben megjelölt elektronikus levelezési címre.”
+[^34]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

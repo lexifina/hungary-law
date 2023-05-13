@@ -1,1 +1,3 @@
-7. § Hatályát veszti a 7/C. § (1) bekezdésében az „és g)” szövegrész.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

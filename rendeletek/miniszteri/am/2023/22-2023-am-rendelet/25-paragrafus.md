@@ -1,3 +1,3 @@
-25. § A 39/2018. (XII. 13.) AM rendelet 14. § (3) bekezdése helyébe a következő rendelkezés lép:
+25. §[^26]
 
-„(3) A mezőgazdasági csekély összegű támogatás igénylése esetén a 7. § (1) és (2), továbbá (4) bekezdésében, a 7/A. §-ban, valamint a 8. §-ban foglaltakat alkalmazni kell.”
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

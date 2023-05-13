@@ -1,3 +1,3 @@
-5. § A 47/2015. (VIII. 12.) FM rendelet 14. § e) pontja helyébe a következő rendelkezés lép:
+5. §[^6]
 
-(Ez a rendelet)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

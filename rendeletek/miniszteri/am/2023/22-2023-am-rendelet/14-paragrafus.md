@@ -1,3 +1,3 @@
-14. § A 49/2015. (VIII. 12.) FM rendelet 5. §-a a következő (1a) bekezdéssel egészül ki:
+14. §[^15]
 
-„(1a) A Kincstár a kamattámogatási kérelemről való döntésében kettő tizedesjegy pontossággal határozza meg a kamattámogatás maximális mértékét.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

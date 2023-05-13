@@ -1,3 +1,3 @@
-18. § A 74/2016. (XI. 29.) FM rendelet 2. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+18. §[^19]
 
-[E rendelet alapján a juh- és kecskeágazat termelési hatékonyságának növelése érdekében az apaállatok]
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
