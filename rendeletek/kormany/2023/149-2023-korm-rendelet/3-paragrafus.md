@@ -1,1 +1,3 @@
-3. § A 382/2007. (XII. 23.) Korm. rendelet 3. számú melléklete az 1. melléklet szerint módosul.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
