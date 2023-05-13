@@ -90,7 +90,7 @@ m) a 10. § (3) bekezdés c) pont szerinti esetben, valamint magzat után igény
 
 ma) hozzájárul ahhoz, hogy a gyermek születését a Kincstár – a családtámogatási adatbázist magában foglaló egységes szociális nyilvántartásban már rendelkezésre álló, és a hitelintézet által szolgáltatott adatokat összevetve – megállapítsa,
 
-mb)[^64] vállalja, hogy ha a gyermek születését követően nem igényel családtámogatási ellátást, vagy ha azt a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 4/B. § (4) bekezdése szerinti családtámogatási kifizetőhelyen igényli, a gyermek születését – a gyermek nevét, születési adatait, adóazonosító jelét tartalmazó – teljes bizonyító erejű magánokiratba foglalt, büntetőjogi felelősség vállalásával tett nyilatkozatban a gyermek születését követő legfeljebb 60 napon belül bejelenti, bemutatja a gyermek lakcímét igazoló hatósági igazolványát vagy a gyermek halva születése esetén annak tényét igazoló dokumentumot a hitelintézet részére;
+mb)[^64] vállalja, hogy ha a gyermek születését követően nem igényel családtámogatási ellátást, vagy ha azt a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 4/B. § (4) bekezdése szerinti családtámogatási kifizetőhelyen igényli, a gyermek születését – a gyermek nevét, születési adatait, adóazonosító jelét tartalmazó – teljes bizonyító erejű magánokiratba foglalt, büntetőjogi felelősség vállalásával tett nyilatkozatban a gyermek születését követő legfeljebb 90 napon belül bejelenti, és – a gyermek születését követő 90 napon belül – bemutatja a gyermek lakcímét igazoló hatósági igazolványát vagy a gyermek halva születése a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló 351/2013. (X. 4.) Korm. rendelet szerinti okirat a hitelintézet részére;
 
 n)[^65] a 3. § (1), (2) és (2b) bekezdése szerinti korábbi igénybevétel esetén a gyermek neve, adóazonosító jele, születési adatai megjelölésével büntetőjogi felelőssége tudatában nyilatkozik arról, hogy mely gyermek után, mikor, melyik hitelintézeten keresztül, mekkora összegben, helyrajzi számmal megjelölve mely lakás vonatkozásában vette igénybe a vissza nem térítendő állami támogatást;
 
@@ -102,7 +102,7 @@ o) az igénylő a 12. § (2) bekezdése szerinti esetben vállalja, hogy tartóz
 
 (6)[^67] Az igénylő a családi otthonteremtési kedvezmény igénylésekor a fennálló házasságról büntetőjogi felelősség vállalásával teljes bizonyító erejű magánokirattal nyilatkozik. A nyilatkozat tartalmazza a házastársak nevét, személyi azonosítóját, születési adatait, a házasságkötés helyét és idejét.
 
-(7)[^68] A családi otthonteremtési kedvezmény iránti kérelemben az igénylő teljes bizonyító erejű magánokiratba foglaltan, büntetőjogi felelősség vállalásával nyilatkozik azon gyermekekről, akik után a kedvezményt igényli. A nyilatkozat tartalmazza a nyilatkozattevő és – ha a gyermek már megszületett – a gyermek nevét, adóazonosító jelét, születési adatait, örökbefogadott gyermek és gyám kirendelése esetén a döntést meghozó hatóság megnevezését és a döntés időpontját, kiskorú gyermek elhelyezése esetén a gyermek elhelyezéséről döntő hatóság, bíróság megnevezését, a döntés időpontját is.
+(7)[^68] A családi otthonteremtési kedvezmény iránti kérelemben az igénylő teljes bizonyító erejű magánokiratba foglaltan, büntetőjogi felelősség vállalásával nyilatkozik azon gyermekekről, akik után a kedvezményt igényli. A nyilatkozat tartalmazza a nyilatkozattevő és – ha a gyermek már megszületett – a gyermek nevét, adóazonosító jelét, születési adatait, örökbefogadott gyermek és gyám kirendelése esetén a döntést meghozó hatóság megnevezését és a döntés időpontját, kiskorú gyermek elhelyezése vagy szülői felügyeletének rendezése esetén a kiskorú gyermek elhelyezéséről vagy szülői felügyeletének rendezéséről és lakóhelyének kijelöléséről döntő hatóság, bíróság megnevezését, a döntés időpontját is.
 
 (8)[^69] A közös háztartásban élést, valamint élettársak esetén ennek időtartamát büntetőjogi felelősség vállalásával tett, teljes bizonyító erejű magánokiratba foglalt nyilatkozattal kell igazolni.
 
@@ -154,11 +154,11 @@ b) a (2a) és (2b) bekezdést, a (3) bekezdés a) pontját, a (9b) bekezdést, a
 [^61]: A 14. § (3) bekezdés h) pontja a 482/2016. (XII. 28.) Korm. rendelet 48. §-ával megállapított szöveg.
 [^62]: A 14. § (3) bekezdés i) pontja a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 2. és 3. pontja, szövege a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés c) és d) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^63]: A 14. § (3) bekezdés k) pontja a 273/2016. (IX. 15.) Korm. rendelet 26. § d) pontja szerint módosított szöveg.
-[^64]: A 14. § (3) bekezdés m) pont mb) alpontja a 26/2018. (II. 28.) Korm. rendelet 29. § (2) bekezdésével megállapított szöveg.
+[^64]: A 14. § (3) bekezdés m) pont mb) alpontja a 26/2018. (II. 28.) Korm. rendelet 29. § (2) bekezdésével megállapított, a 169/2023. (V. 12.) Korm. rendelet 25. § 3. pontja szerint módosított szöveg.
 [^65]: A 14. § (3) bekezdés n) pontja a 252/2020. (V. 29.) Korm. rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^66]: A 14. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 3. pontja, a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés d) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^67]: A 14. § (6) bekezdését a 26/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be.
-[^68]: A 14. § (7) bekezdését a 26/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be.
+[^68]: A 14. § (7) bekezdését a 26/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be, a 169/2023. (V. 12.) Korm. rendelet 25. § 4. pontja szerint módosított szöveg.
 [^69]: A 14. § (8) bekezdését a 26/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be.
 [^70]: A 14. § (9) bekezdését a 26/2018. (II. 28.) Korm. rendelet 29. § (3) bekezdése iktatta be, szövege a 786/2021. (XII. 27.) Korm. rendelet 11. § b) pont ba) alpontja szerint módosított szöveg.
 [^71]: A 14. § (9a) bekezdését a 152/2019. (VI. 26.) Korm. rendelet 12. § (2) bekezdése iktatta be.

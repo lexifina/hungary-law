@@ -28,7 +28,7 @@ azzal, hogy a 2 éves jogosultsági időszak számítása során a különböző
 
 (3) Az ezen alcím rendelkezéseiben meghatározott családi otthonteremtési kedvezmény igénylésekor az igénylő a 14. § (1) bekezdés a) pontjától eltérően a büntetlen előéletet érvényes hatósági erkölcsi bizonyítvánnyal igazolja. A kérelemhez csatolni kell az igénylő teljes bizonyító erejű magánokiratba foglalt írásbeli hozzájárulását annak érdekében, hogy a hatósági bizonyítványban foglalt személyes adatait a hitelintézet a családi otthonteremtési kedvezményre való jogosultsága megállapításának céljából és időtartamára kezelje.
 
-(4) A korszerűsítési munkákat a támogatási szerződés megkötésétől számított három éven belül kell teljesíteni, amelyet a hitelintézet helyszíni szemlét követően állapít meg.
+(4)[^108] A korszerűsítési munkákat a támogatási szerződés megkötésétől számított négy éven belül kell teljesíteni. A korszerűsítési munkák teljesítését a hitelintézet helyszíni szemle alapján állapítja meg. A támogatott személy a határidő lejártát megelőzően egy alkalommal kérheti a hitelintézettől a vállalt korszerűsítési munkálatok vagy azok bekerülési költségének módosítása miatt a támogatási szerződés és az annak mellékletét képező költségvetés módosítását, ha a módosítást követően is biztosítható, hogy legalább az 5. § (1) bekezdés 7. pontja szerinti feltételek így is teljesülnek. Ha a költségvetés csökkentése következtében a még fennmaradó bekerülési költség összege már nem éri el a megítélt családi otthonteremtési kedvezményből a módosítás hatálybalépéséig még nem folyósított összeget, akkor a továbbiakban a családi otthonteremtési kedvezmény legfeljebb a még fennmaradó bekerülési költséggel megegyező összegben nyújtható. Ha a korábban vállalt, de nem teljesített korszerűsítési munkálatokra nézve már folyósítottak támogatást, akkor ezzel az összeggel csökkenteni kell a még igénybe vehető, de még nem folyósított családi otthonteremtési kedvezmény összegét, kivéve, ha a hátralévő korszerűsítési munkálatok bekerülési költsége eléri vagy meghaladja a még nem folyósított támogatás és a korábban vállalt, de nem teljesített korszerűsítési munkálatokra eső, már folyósított támogatás összegét.
 
 (5) A 19/A. § (4) bekezdése esetén a 14. § (3) bekezdés k) pontja szerinti bentlakási kötelezettség igazolására irányadó határidőt a korszerűsítési, illetve bővítési munkálatokra vonatkozó utolsó részfolyósítás napjától kell számítani.
 
@@ -50,10 +50,11 @@ biztosító jelzálogjog ranghelye is megelőzheti.
 
 (11) A lakás korszerűsítésére e rendeletnek a bővítésre irányadó rendelkezéseit megfelelően alkalmazni kell.
 
-(12)[^108] Az (1) bekezdés c) pontja és a (2) bekezdés b) pont bc) alpontja szerinti igazolás a 30. § (1a) bekezdése szerinti igazolással nem helyettesíthető.
+(12)[^109] Az (1) bekezdés c) pontja és a (2) bekezdés b) pont bc) alpontja szerinti igazolás a 30. § (1a) bekezdése szerinti igazolással nem helyettesíthető.
 
 [^104]: A 19/E. § (1) bekezdése a 183/2021. (IV. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^105]: A 19/E. § (1) bekezdés b) pontja az 530/2021. (IX. 14.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
 [^106]: A 19/E. § (2) bekezdése a 183/2021. (IV. 16.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^107]: A 19/E. § (2) bekezdés b) pont bb) alpontja az 530/2021. (IX. 14.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
-[^108]: A 19/E. § (12) bekezdését a 252/2020. (V. 29.) Korm. rendelet 4. §-a iktatta be.
+[^108]: A 19/E. § (4) bekezdése a 169/2023. (V. 12.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^109]: A 19/E. § (12) bekezdését a 252/2020. (V. 29.) Korm. rendelet 4. §-a iktatta be.

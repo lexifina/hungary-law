@@ -1,4 +1,4 @@
-## 14b.[^241] Otthonfelújítási kölcsön kamattámogatása
+## 14b.[^251] Otthonfelújítási kölcsön kamattámogatása
 
 51/J. § (1) Ezen alcím alkalmazásában
 
@@ -12,21 +12,21 @@ c) ügyleti kamat: az otthonfelújítási kölcsön szerződésszerű törleszt�
 
 (3) A kérelemhez megfelelően csatolni kell
 
-a)[^242] az 518/2020. (XI. 25.) Korm. rendelet 9. § (3) bekezdés c)–g), i) és k) pontjában, l) pont la) alpontjában, valamint m)–r) és v) pontjában foglalt dokumentumokat,
+a)[^252] az 518/2020. (XI. 25.) Korm. rendelet 9. § (3) bekezdés c)–g), i) és k) pontjában, l) pont la) alpontjában, valamint m)–r) és v) pontjában foglalt dokumentumokat,
 
-b)[^243] az 518/2020. (XI. 25.) Korm. rendelet 3. § (3) bekezdésében foglalt biztosítotti jogviszony fennállásáról az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal által kiállított igazolást,
+b)[^253] az 518/2020. (XI. 25.) Korm. rendelet 3. § (3) bekezdésében foglalt biztosítotti jogviszony fennállásáról az egészségbiztosítási pénztári feladatkörében eljáró fővárosi és vármegyei kormányhivatal által kiállított igazolást,
 
-c)[^244]
+c)[^254]
 
-d)[^245]
+d)[^255]
 
 e) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 42/E. §-a alapján megállapított gyermekgondozási díj folyósításának időtartamáról az ellátást megállapító szerv által kiállított igazolást, és
 
-f)[^246] az igénylő büntetőjogi felelőssége tudatában tett, teljes bizonyító erejű magánokiratba foglalt nyilatkozatát
+f)[^256] az igénylő büntetőjogi felelőssége tudatában tett, teljes bizonyító erejű magánokiratba foglalt nyilatkozatát
 
-fa)[^247] – amennyiben a jogosultság megállapítását erre hivatkozással kéri – az 518/2020. (XI. 25.) Korm. rendelet 3. § (3) bekezdés b) pont bd) alpontja szerinti tanulmányok folytatásáról, ide nem értve az a) pont szerinti, az 518/2020. (XI. 25.) Korm. rendelet 9. § (3) bekezdés o) pontjában foglalt dokumentumok esetét,,
+fa)[^257] – amennyiben a jogosultság megállapítását erre hivatkozással kéri – az 518/2020. (XI. 25.) Korm. rendelet 3. § (3) bekezdés b) pont bd) alpontja szerinti tanulmányok folytatásáról, ide nem értve az a) pont szerinti, az 518/2020. (XI. 25.) Korm. rendelet 9. § (3) bekezdés o) pontjában foglalt dokumentumok esetét,,
 
-fb)[^248]
+fb)[^258]
 
 fc) annak vállalásáról, hogy az otthonfelújítási kölcsön összegét maradéktalanul a (2) bekezdés szerinti célokra fordítja.
 
@@ -34,11 +34,11 @@ fc) annak vállalásáról, hogy az otthonfelújítási kölcsön összegét mar
 
 (5) Ha a hitelintézet a benyújtott kérelem és mellékletei alapján azt állapítja meg, hogy az igénylő a kérelem benyújtásának időpontjában a kamattámogatás feltételeinek megfelel, akkor a kamattámogatás igénybevételéről az igénylővel támogatási szerződést köt.
 
-[^241]: A 14b. alcímet (51/J–51/N. §) a 641/2020. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
-[^242]: Az 51/J. § (3) bekezdés a) pontja az 530/2021. (IX. 14.) Korm. rendelet 16. § o) pontja szerint módosított szöveg.
-[^243]: Az 51/J. § (3) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 231. § b) pontja szerint módosított szöveg.
-[^244]: Az 51/J. § (3) bekezdés c) pontját a 183/2021. (IV. 16.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
-[^245]: Az 51/J. § (3) bekezdés d) pontját a 183/2021. (IV. 16.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
-[^246]: Az 51/J. § (3) bekezdés f) pontja a 183/2021. (IV. 16.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^247]: Az 51/J. § (3) bekezdés f) pont fa) alpontja az 530/2021. (IX. 14.) Korm. rendelet 16. § p) pontja szerint módosított szöveg.
-[^248]: Az 51/J. § (3) bekezdés f) pont fb) alpontját az 530/2021. (IX. 14.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.
+[^251]: A 14b. alcímet (51/J–51/N. §) a 641/2020. (XII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^252]: Az 51/J. § (3) bekezdés a) pontja az 530/2021. (IX. 14.) Korm. rendelet 16. § o) pontja szerint módosított szöveg.
+[^253]: Az 51/J. § (3) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 231. § b) pontja szerint módosított szöveg.
+[^254]: Az 51/J. § (3) bekezdés c) pontját a 183/2021. (IV. 16.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^255]: Az 51/J. § (3) bekezdés d) pontját a 183/2021. (IV. 16.) Korm. rendelet 19. § c) pontja hatályon kívül helyezte.
+[^256]: Az 51/J. § (3) bekezdés f) pontja a 183/2021. (IV. 16.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^257]: Az 51/J. § (3) bekezdés f) pont fa) alpontja az 530/2021. (IX. 14.) Korm. rendelet 16. § p) pontja szerint módosított szöveg.
+[^258]: Az 51/J. § (3) bekezdés f) pont fb) alpontját az 530/2021. (IX. 14.) Korm. rendelet 17. § c) pontja hatályon kívül helyezte.
