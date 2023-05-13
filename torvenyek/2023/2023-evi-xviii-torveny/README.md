@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-18-00-00
 | --- | --- | --- |
 | 2023-05-12 | 2023. évi XVIII. törvény | 2023-18-00-00.0 (közlönyállapot) |
 | 2023-05-12 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-18-00-00.1 |
+| 2023-05-13 | 2010. évi CXXX. törvény | 2023-18-00-00.2 |
