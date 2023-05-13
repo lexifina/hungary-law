@@ -8,6 +8,6 @@ ba) a gyermek nevét, születési adatait, adóazonosító jelét büntetőjogi 
 
 bb) a gyermek halva születése esetén annak tényét igazoló dokumentumot
 
-a gyermek születését követő legfeljebb 60 napon belül a hitelintézet részére bemutatja.
+a gyermek születését követő legfeljebb 90 napon belül a hitelintézet részére bemutatja.
 
-[^46]: A 16. § b) pontja a 26/2018. (II. 28.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^46]: A 16. § b) pontja a 26/2018. (II. 28.) Korm. rendelet 7. §-ával megállapított, záró szövegrésze a 169/2023. (V. 12.) Korm. rendelet 16. § 2. pontja szerint módosított szöveg.

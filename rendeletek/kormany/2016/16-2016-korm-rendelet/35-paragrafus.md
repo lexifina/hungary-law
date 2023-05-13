@@ -6,6 +6,7 @@ b) bírósági vagy hatósági határozat következtében utóbb a háztartásba
 
 kell igazolni.
 
-(2) A gyermekvállalás teljesítését a Kincstár a 16. § a) pontja szerinti hozzájárulás alapján megállapítja és erről a hitelintézetet értesíti.
+(2)[^104] A gyermekvállalás teljesítésének igazolásához a Kincstár a 16. § a) pontja szerinti hozzájárulás alapján adatot szolgáltat a hitelintézet részére.
 
 [^103]: A 35. § (1) bekezdése a 26/2018. (II. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^104]: A 35. § (2) bekezdése a 169/2023. (V. 12.) Korm. rendelet 16. § 5. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-38. §[^110] (1) Új lakás építése esetén a családi otthonteremtési kedvezmény a használatbavételi engedélyről szóló határozat, a használatbavétel tudomásulvételét igazoló hatósági dokumentum vagy az egyszerű bejelentéshez kötött új lakóépület felépítésének megtörténtét igazoló hatósági bizonyítvány kiállítását megelőzően a már megkötött, családi otthonteremtési kedvezmény igénybevételéről szóló támogatási szerződés szerinti támogatási összeget megalapozó gyermekszámon felül további – a támogatási kérelem benyújtását követően a 12. várandóssági hetet betöltött, megszületett vagy örökbefogadott meglévő, vagy a 6. alcím szerint vállalt – 10. § szerinti gyermekre is igényelhető.
+38. §[^111] (1) Új lakás építése esetén a családi otthonteremtési kedvezmény a használatbavételi engedélyről szóló határozat, a használatbavétel tudomásulvételét igazoló hatósági dokumentum vagy az egyszerű bejelentéshez kötött új lakóépület felépítésének megtörténtét igazoló hatósági bizonyítvány kiállítását megelőzően a már megkötött, családi otthonteremtési kedvezmény igénybevételéről szóló támogatási szerződés szerinti támogatási összeget megalapozó gyermekszámon felül további – a támogatási kérelem benyújtását követően a 12. várandóssági hetet betöltött, megszületett vagy örökbefogadott meglévő, vagy a 6. alcím szerint vállalt – 10. § szerinti gyermekre is igényelhető.
 
 (2) Az (1) bekezdés szerinti igénylés esetén a családi otthonteremtési kedvezmény összege az (1) bekezdés szerinti további gyermekekkel együttesen igénybe vehető támogatási összeg és a már megkötött családi otthonteremtési kedvezmény igénybevételéről szóló támogatási szerződés szerinti támogatási összeg különbözete.
 
@@ -18,4 +18,4 @@ bb) a lakás hasznos alapterületének a 22. § (1) bekezdés c) pontjában vagy
 
 (6) Az (1)–(5) bekezdésben foglalt feltételek teljesülése esetén a hitelintézet és a támogatott személy a már megkötött támogatási szerződést a kiegészített támogatási kérelemnek megfelelően módosítja.
 
-[^110]: A 38. §-t a 26/2018. (II. 28.) Korm. rendelet hatályon 23. § b) pontja kívül helyezte, újonnan a 786/2021. (XII. 27.) Korm. rendelet 3. §-a iktatta be.
+[^111]: A 38. §-t a 26/2018. (II. 28.) Korm. rendelet hatályon 23. § b) pontja kívül helyezte, újonnan a 786/2021. (XII. 27.) Korm. rendelet 3. §-a iktatta be.
