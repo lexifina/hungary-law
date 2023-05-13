@@ -1,8 +1,8 @@
 4. § (1) A pályázati kiírás – ha jogszabály eltérően nem rendelkezik – tartalmazza
 
-a)[^8] az Ápjt. 4. § (2) bekezdésében meghatározottakat,
+a)[^9] az Ápjt. 4. § (2) bekezdésében meghatározottakat,
 
-b)[^9]
+b)[^10]
 
 c) a szakértői névsor honlapon történő közzétételének várható időpontját,
 
@@ -10,8 +10,8 @@ d) a benyújtandó pályázatra és mellékleteire vonatkozó tartalmi és forma
 
 e) az e rendeletben meghatározott egyéb elemeket.
 
-(2)[^10] Az (1) bekezdésben foglaltak mellett a pályázati kiírásban – és a pályázói adatlapon – meg kell határozni mindazokat az irányító hatóságok által előzetesen bekért és megjelölt szakértői tématerületeket, amelyek közül a pályázó kiválaszthatja, hogy végzettsége, képzettsége és szakmai tapasztalata alapján tartalmi értékelésre vagy közbeszerzési értékelésre, továbbá ezek keretében milyen típusú feladat elvégzésére vállalkozik.
+(2)[^11] Az (1) bekezdésben foglaltak mellett a pályázati kiírásban – és a pályázói adatlapon – meg kell határozni mindazokat az irányító hatóságok által előzetesen bekért és megjelölt szakértői tématerületeket, amelyek közül a pályázó kiválaszthatja, hogy végzettsége, képzettsége és szakmai tapasztalata alapján tartalmi értékelésre vagy közbeszerzési értékelésre, továbbá ezek keretében milyen típusú feladat elvégzésére vállalkozik.
 
-[^8]: A 4. § (1) bekezdés a) pontja a 172/2019. (VII. 12.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^9]: A 4. § (1) bekezdés b) pontját a 172/2019. (VII. 12.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^10]: A 4. § (2) bekezdése a 489/2021. (VIII. 13.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^9]: A 4. § (1) bekezdés a) pontja a 172/2019. (VII. 12.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^10]: A 4. § (1) bekezdés b) pontját a 172/2019. (VII. 12.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^11]: A 4. § (2) bekezdése a 489/2021. (VIII. 13.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
