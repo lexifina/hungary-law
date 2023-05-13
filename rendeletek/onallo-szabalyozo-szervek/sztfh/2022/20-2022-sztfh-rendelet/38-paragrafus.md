@@ -18,7 +18,7 @@ c) a biztonsági övezet kialakítása érdekében szükséges költségek visel
 
 (7) Az építési tevékenység fővállalkozó kivitelezőjének – át nem hárítható felelősséggel – gondoskodnia kell
 
-a)[^40] a kivitelezési munka megkezdése előtt – az üzemeltető szakmai felügyelete mellett – a keresztezett létesítmény nyomvonala és a (6) bekezdés szerinti övezet kijelöléséről, továbbá a (6) bekezdés szerinti tilalmak betartásáról,,
+a)[^60] a kivitelezési munka megkezdése előtt – az üzemeltető szakmai felügyelete mellett – a keresztezett létesítmény nyomvonala és a (6) bekezdés szerinti övezet kijelöléséről, továbbá a (6) bekezdés szerinti tilalmak betartásáról,,
 
 b) a kijelölt övezetnek az építési tevékenység alatti fenntartásáról,
 
@@ -26,11 +26,11 @@ c) a keresztezett létesítmény feltárásáról, és
 
 d) a keresztezés takarása előtt az üzemeltető értesítéséről.
 
-(8)[^41] A (7) bekezdés a) pontja szerinti kijelölés helyességéért az üzemeltető a felelős. Az üzemeletető a kijelölés megtörténtét írásban rögzíti, a kijelöléssel érintett keresztezett létesítmény beazonosítására alkalmas módon. A kijelölés úgy is teljesíthető, hogy a fővállalkozó kivitelező a kijelölést az üzemeltetőtől megrendeli. A kijelölés szakmai felügyeletével kapcsolatos költségeket a kivitelező viseli.
+(8)[^61] A (7) bekezdés a) pontja szerinti kijelölés helyességéért az üzemeltető a felelős. Az üzemeletető a kijelölés megtörténtét írásban rögzíti, a kijelöléssel érintett keresztezett létesítmény beazonosítására alkalmas módon. A kijelölés úgy is teljesíthető, hogy a fővállalkozó kivitelező a kijelölést az üzemeltetőtől megrendeli. A kijelölés szakmai felügyeletével kapcsolatos költségeket a kivitelező viseli.
 
 (9) Az üzemeltető köteles bejelenteni a bányafelügyeletnek, ha az üzemeltetésében álló szállító- vagy elosztóvezetéket a 37. § (2) és (3) bekezdésében, illetve a (6) bekezdésben foglalt tilalmak megsértésével megrongálták.
 
-(10)[^42] Az üzemeltető a (9) bekezdés szerinti bejelentést a rongálásról történő tudomásszerzést követő három munkanapon belül teszi meg. A bejelentés tartalmazza
+(10)[^62] Az üzemeltető a (9) bekezdés szerinti bejelentést a rongálásról történő tudomásszerzést követő három munkanapon belül teszi meg. A bejelentés tartalmazza
 
 a) a rongálás helyszínét,
 
@@ -56,6 +56,6 @@ a) robbanás- vagy tűzveszélyes, vagy
 
 b) az egészségre vagy a környezetre ártalmas.
 
-[^40]: A 38. § (7) bekezdés a) pontja a 40/2022. (XII. 19.) SZTFH rendelet 42. § m) pontja szerint módosított szöveg.
-[^41]: A 38. § (8) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § n) pontja szerint módosított szöveg.
-[^42]: A 38. § (10) bekezdés nyitó szövegrésze a 40/2022. (XII. 19.) SZTFH rendelet 42. § o) pontja szerint módosított szöveg.
+[^60]: A 38. § (7) bekezdés a) pontja a 40/2022. (XII. 19.) SZTFH rendelet 42. § m) pontja szerint módosított szöveg.
+[^61]: A 38. § (8) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § n) pontja szerint módosított szöveg.
+[^62]: A 38. § (10) bekezdés nyitó szövegrésze a 40/2022. (XII. 19.) SZTFH rendelet 42. § o) pontja szerint módosított szöveg.

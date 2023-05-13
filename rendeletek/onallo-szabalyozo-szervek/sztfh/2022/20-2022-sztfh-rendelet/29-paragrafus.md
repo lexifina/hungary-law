@@ -2,7 +2,7 @@
 
 29. § (1) A műszaki üzemi terv a bányaüzem tervezett bányászati tevékenységét határozza meg. A terv szöveges részből és tervtérképből áll.
 
-(2)[^24] A bányaüzemi kutatásra, feltárásra, kitermelésre, és meddőhányó hasznosítására vonatkozó műszaki üzemi terv szöveges része tartalmazza
+(2)[^44] A bányaüzemi kutatásra, feltárásra, kitermelésre, és meddőhányó hasznosítására vonatkozó műszaki üzemi terv szöveges része tartalmazza
 
 a) a tervidőszakra előirányzott bányászati tevékenységeket, a technológiai és biztonsági feltételeket, továbbá a tervtérképen lehatárolt bányaüzem meghatározását,
 
@@ -50,7 +50,7 @@ je) a szénhidrogének feltárására és kitermelésére kijelölt bányatelekk
 
 k) az esetleges régészeti feltárás ütemezését, módszerét, és a feltárást követően bolygatatlanul maradó régészeti lelőhelyrészlet megőrzésére tett intézkedéseket,
 
-l)[^25] a Bt. 27. § (7) bekezdése szerinti bányatelek esetén évenkénti ütemezésben a bányavállalkozó által minimálisan kitermelni tervezett haszonanyag mennyiségét, ha több haszonanyag kitermelésére is jogosult a bányavállalkozó, akkor valamennyi haszonanyag minimálisan kitermelni tervezett mennyiségét, valamint
+l)[^45] a Bt. 27. § (7) bekezdése szerinti bányatelek esetén évenkénti ütemezésben a bányavállalkozó által minimálisan kitermelni tervezett haszonanyag mennyiségét, ha több haszonanyag kitermelésére is jogosult a bányavállalkozó, akkor valamennyi haszonanyag minimálisan kitermelni tervezett mennyiségét, valamint
 
 m) a műszaki üzemi tervben meghatározott bányászati tevékenységgel vagy a tervezett létesítménnyel érintett idegen ingatlanra vonatkozó igénybevételi jogosultságot igazoló okiratot.
 
@@ -58,7 +58,7 @@ m) a műszaki üzemi tervben meghatározott bányászati tevékenységgel vagy a
 
 (4) Ha az utolsó hatályos kitermelési műszaki üzemi terv alapján engedélyezett legnagyobb kitermelési mennyiség 20%-a, vagy több haszonanyag esetén a kitermelési mennyiségek 20%-a meghaladja a kérelem szerinti minimális mennyiséget, akkor ezt a mennyiséget, vagy mennyiségeket kell figyelembe venni minimális mennyiségként.
 
-(4a)[^26] Ha a bányavállalkozó több haszonanyag kitermelésére is jogosult, a minimális kitermelési mennyiség bármelyik haszonanyag kitermelésével teljesíthető.
+(4a)[^46] Ha a bányavállalkozó több haszonanyag kitermelésére is jogosult, a minimális kitermelési mennyiség bármelyik haszonanyag kitermelésével teljesíthető.
 
 (5) A szénhidrogénre, valamint a szén-dioxid gázra vonatkozó első feltárási, kitermelési vagy földgáztárolási, továbbá a föld alatti szénelgázosítással történő ásványi nyersanyag kitermelésre vonatkozó feltárási és kitermelési műszaki üzemi terv jóváhagyása iránti kérelem benyújtása során megfelelően alkalmazni kell a 25. § (1) bekezdés a) pontjában, valamint (2) bekezdésében foglaltakat.
 
@@ -68,6 +68,6 @@ m) a műszaki üzemi tervben meghatározott bányászati tevékenységgel vagy a
 
 (8) Ha a bánya bezárását (megszüntetését), a szénhidrogénmező felhagyását a 30. § (5) bekezdése szerinti időszakra tervezik, a műszaki üzemi tervnek tartalmaznia kell a 42. § szerinti tervrészletet is.
 
-[^24]: A 29. § (2) bekezdés nyitó szövegrésze a 40/2022. (XII. 19.) SZTFH rendelet 43. § b) pontja szerint módosított szöveg.
-[^25]: A 29. § (2) bekezdés l) pontja a 33/2022. (VII. 29.) SZTFH rendelet 8. § b) pontja szerint módosított szöveg.
-[^26]: A 29. § (4a) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 38. §-a iktatta be.
+[^44]: A 29. § (2) bekezdés nyitó szövegrésze a 40/2022. (XII. 19.) SZTFH rendelet 43. § b) pontja szerint módosított szöveg.
+[^45]: A 29. § (2) bekezdés l) pontja a 33/2022. (VII. 29.) SZTFH rendelet 8. § b) pontja szerint módosított szöveg.
+[^46]: A 29. § (4a) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 38. §-a iktatta be.

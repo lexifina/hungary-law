@@ -68,8 +68,8 @@
 
 ## – nagyon zavart, különösen inhomogén: ≥160 db/km2.
 
-2. melléklet a 20/2022. (I. 31.) SZTFH rendelethez[^51]
+2. melléklet a 20/2022. (I. 31.) SZTFH rendelethez[^73]
 
 A kutatási zárójelentés tartalma
 
-[^51]: A 2. melléklet a 6/2023. (II. 28.) SZTFH rendelet 5. §-ával megállapított szöveg.
+[^73]: A 2. melléklet a 6/2023. (II. 28.) SZTFH rendelet 5. §-ával megállapított szöveg.

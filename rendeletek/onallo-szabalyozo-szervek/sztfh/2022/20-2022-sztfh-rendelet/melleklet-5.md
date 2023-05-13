@@ -120,6 +120,6 @@
 
 ## Folyamatosan egyéb használhatósági vizsgálat szükséges közösen a bányafelügyelettel.
 
-5. melléklet a 20/2022. (I. 31.) SZTFH rendelethez[^52]
+5. melléklet a 20/2022. (I. 31.) SZTFH rendelethez[^74]
 
-[^52]: Az 5. mellékletet a 2/2023. (I. 31.) SZTFH rendelet 4. § b) pontja hatályon kívül helyezte.
+[^74]: Az 5. mellékletet a 2/2023. (I. 31.) SZTFH rendelet 4. § b) pontja hatályon kívül helyezte.
