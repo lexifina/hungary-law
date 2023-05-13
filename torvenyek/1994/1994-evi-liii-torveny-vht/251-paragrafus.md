@@ -6,7 +6,9 @@ b) az öttagú elnökség,
 
 c) a Kar hivatali szerve.
 
-(2) A Kar egyetemi jogi végzettséggel rendelkező végrehajtó tagja az elnökség tagjává, egyetemi jogi végzettséggel és jogi szakvizsgával rendelkező végrehajtó tagja a Kar elnökévé megválasztható, kivéve, ha a 267. § (1) bekezdés d) vagy e) pontja szerinti fegyelmi büntetés hatálya alatt áll.
+(2) A Kar egyetemi jogi végzettséggel rendelkező végrehajtó tagja az elnökség tagjává, egyetemi jogi végzettséggel és jogi szakvizsgával rendelkező végrehajtó tagja a Kar elnökévé megválasztható, kivéve, ha a 267. § (1) bekezdés c)–e) pontja szerinti fegyelmi büntetés hatálya alatt áll.
+
+(2a) A szolgálatából felfüggesztett végrehajtó végrehajtói kari tagsága fennmarad, de nem gyakorolhatja a kari tagságából és a kari tisztségéből eredő jogokat, valamint nem terhelik az azokból eredő kötelezettségek.
 
 (3) A Kar a munkájának elősegítésére szakmai bizottságokat hozhat létre.
 

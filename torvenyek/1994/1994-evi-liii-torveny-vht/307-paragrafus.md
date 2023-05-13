@@ -73,11 +73,3 @@ l) az adópolitikáért felelős miniszterrel egyetértésben a természetes sze
 m)
 
 n) az adópolitikáért felelős miniszterrel egyetértésben a végrehajtási kifogás előterjesztésével egyidejűleg letétbe helyezendő szakértői díj előlegének összegét, valamint megfizetésének módját,
-
-o)
-
-p)
-
-q)
-
-r)

@@ -1,4 +1,4 @@
-271/A. § (1) A Kar elnöksége a végrehajtók közül 4 évre az elsőfokú fegyelmi bírósághoz 12 végrehajtót szakülnöknek választ meg. A szakülnök a feladatát személyesen látja el.
+271/A. § (1) A Kar elnöksége – a Hatóság elnökének előzetes egyetértésével – a végrehajtók közül 4 évre az elsőfokú fegyelmi bírósághoz 12 végrehajtót szakülnöknek választ meg. A szakülnök a feladatát személyesen látja el.
 
 (2) Szakülnöknek azt a végrehajtót lehet megválasztani, aki egyetemi jogi végzettséggel, jogi szakvizsgával rendelkezik, feltéve, hogy vele szemben nem áll fenn a 275. § szerinti valamely kizáró ok.
 

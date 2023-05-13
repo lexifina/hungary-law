@@ -1,4 +1,4 @@
-253/F. § (1) A Kar hivatali szerve a felhasználók számára az interneten közzéteszi az elektronikus árverési rendszer működésének és árverezőként történő igénybevételének a miniszter rendeletében meghatározott technikai feltételeit (felhasználási szabályzat). A felhasználási szabályzatot a miniszter hagyja jóvá.
+253/F. § (1) A Kar hivatali szerve a felhasználók számára az interneten közzéteszi az elektronikus árverési rendszer működésének és árverezőként történő igénybevételének a Hatóság elnökének rendeletében meghatározott technikai feltételeit (felhasználási szabályzat). A felhasználási szabályzatot a Hatóság elnöke hagyja jóvá.
 
 (2) A Kar hivatali szerve köteles gondoskodni az elektronikus árverési rendszerben kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása, nyilvánosságra hozatala vagy törlése, illetőleg sérülésük vagy megsemmisülésük elleni védelméről.
 
