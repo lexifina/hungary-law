@@ -1,11 +1,13 @@
 7. § Az R2.
 
-a) 14. § (1) bekezdés d) és u) pontjában az „elhelyezését” szövegrész helyébe az „elhelyezését vagy szülői felügyeletének rendezését és lakóhelyének kijelölését” szöveg,
+a)[^7]
 
-b)[^3]
+b)[^8]
 
-c) 17. § (2) bekezdésében a „miniszter” szövegrész helyébe a „lakáscélú állami támogatásokért felelős miniszter (a továbbiakban: miniszter)” szöveg
+c)[^9]
 
 lép.
 
-[^3]: A 7. § b) pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^7]: A 7. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 7. § b) pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^9]: A 7. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

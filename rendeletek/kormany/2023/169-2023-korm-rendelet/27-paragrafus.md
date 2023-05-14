@@ -1,1 +1,3 @@
-27. § Az R4. 2. melléklete az 1. melléklet szerint módosul.
+27. §[^61]
+
+[^61]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

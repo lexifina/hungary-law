@@ -1,40 +1,53 @@
 16. § Az R3.
 
-1. 13. § (5) bekezdésében az „elhelyezése esetén a gyermek elhelyezéséről” szövegrész helyébe az „elhelyezése vagy szülői felügyeletének rendezése esetén a kiskorú gyermek elhelyezéséről vagy szülői felügyeletének rendezéséről és lakóhelyének kijelöléséről” szöveg,
+1. [^18]
 
-2. 16. § b) pontjában a „60” szövegrész helyett a „90” szöveg,
+2. [^19]
 
-3. 20. § (3a) bekezdésében a „kiskorú” szövegrészek helyébe a „támogatásnál figyelembe vett” szöveg, az „a gyámhatóság” szövegrész helyébe a „kiskorú gyermek esetén a gyámhatóság” szöveg,
+3. [^20]
 
-4. [^7]
+4. [^21]
 
-5. 35. § (2) bekezdésében a „teljesítését a Kincstár a 16. § a) pontja szerinti hozzájárulás alapján megállapítja és erről a hitelintézetet értesíti” szövegrész helyébe a „teljesítésének igazolásához a Kincstár a 16. § a) pontja szerinti hozzájárulás alapján adatot szolgáltat a hitelintézet részére” szöveg,
+5. [^22]
 
-6. 43. § (1) bekezdés k) pontjában a „várandósgondozási könyvvel vagy a kezelőorvos által kiállított, a várandósság tényéről és annak fennállása időpontjáról szóló igazolással” szövegrész helyébe a „várandósgondozásban részt vevő szülész-nőgyógyász szakorvos által kiállított, a várandósság tényéről és annak 12. hete betöltésének napjáról, a szülés várható időpontjáról és a magzatok számáról szóló igazolással” szöveg,
+6. [^23]
 
-7. 43. § (6) bekezdés b) pontjában az „elhelyezését – ideértve a közös szülői felügyeletet is – a jogerős bírósági ítélettel” szövegrész helyébe az „elhelyezését vagy szülői felügyeletének rendezését és lakóhelyének kijelölését jogerős bírósági határozattal” szöveg,
+7. [^24]
 
-8. [^8]
+8. [^25]
 
-9. [^9]
+9. [^26]
 
-10. [^10]
+10. [^27]
 
-11. 51. § (3) bekezdés b) pontjában az „elhelyezésére” szövegrész helyébe az „elhelyezésére vagy a szülői felügyeletének rendezésére és lakóhelyének kijelölésére” szöveg,
+11. [^28]
 
-12. 59. § (1) bekezdésében az „értékesítését” szövegrész helyébe az „értékesítését – ideértve a kisajátítást is –” szöveg,
+12. [^29]
 
-13. 59. § (2) bekezdés d) pontjában az „a lakásigény” szövegrész helyébe az „a kisajátítás esete kivételével a lakásigény” szöveg,
+13. [^30]
 
-14. 59. § (5) bekezdésében a „vagy kisebb értékű” szövegrész helyébe a „vagy – a kisajátítás esete kivételével – kisebb értékű” szöveg,
+14. [^31]
 
-15. 59. § (5a) bekezdésében és 60. § (2) bekezdésében a „Ha” szövegrész helyébe a „Ha – a kisajátítás esete kivételével –” szöveg,
+15. [^32]
 
-16. 59. § (6) bekezdés c) pontjában az „az újabb lakás” szövegrész helyébe az „a kisajátítás esete kivételével az újabb lakás” szöveg és
+16. [^33]
 
-17. 59. § (11) bekezdésében a „feltétele” szövegrész helyébe az „– a kisajátítás esete kivételével – feltétele” szöveg
+17. [^34]
 
-[^7]: A 16. § 4. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^8]: A 16. § 8. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^9]: A 16. § 9. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^10]: A 16. § 10. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^18]: A 16. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 16. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 16. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 16. § 4. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^22]: A 16. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 16. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 16. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 16. § 8. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^26]: A 16. § 9. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^27]: A 16. § 10. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^28]: A 16. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 16. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 16. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 16. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 16. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 16. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 16. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

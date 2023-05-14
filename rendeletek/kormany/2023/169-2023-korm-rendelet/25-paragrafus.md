@@ -1,41 +1,53 @@
 25. § Az R4.
 
-1. 7. § (3a) bekezdésében a „kiskorú” szövegrészek helyébe a „támogatásnál figyelembe vett” szöveg, az „a gyámhatóság” szövegrész helyébe a „kiskorú gyermek esetén a gyámhatóság” szöveg,
+1. [^43]
 
-2. [^13]
+2. [^44]
 
-3. 14. § (3) bekezdés m) pont mb) alpontjában a „60 napon belül bejelenti, bemutatja a gyermek lakcímét igazoló hatósági igazolványát vagy a gyermek halva születése esetén annak tényét igazoló dokumentumot a hitelintézet részére” szövegrész helyébe a „90 napon belül bejelenti, és – a gyermek születését követő 90 napon belül – bemutatja a gyermek lakcímét igazoló hatósági igazolványát vagy a gyermek halva születése a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló 351/2013. (X. 4.) Korm. rendelet szerinti okirat a hitelintézet részére” szöveg,
+3. [^45]
 
-4. 14. § (7) bekezdésében az „elhelyezése esetén a gyermek elhelyezéséről” szövegrész helyébe az „elhelyezése vagy szülői felügyeletének rendezése esetén a kiskorú gyermek elhelyezéséről vagy szülői felügyeletének rendezéséről és lakóhelyének kijelöléséről” szöveg,
+4. [^46]
 
-5. [^14]
+5. [^47]
 
-6. 16. §-ában a „megvásárlására felvett lakáscélú hitelintézeti, illetve lakás-takarékpénztári kölcsönt” szövegrész helyébe a „megvásárlására felvett lakáscélú hitelintézeti, illetve lakás-takarékpénztári kölcsönt, valamint a lakás vásárlása, építése vagy bővítése érdekében igénybe vett korábbi családi otthonteremtési kedvezményt vagy más lakáscélú állami támogatást” szöveg,
+6. [^48]
 
-7. 20. § (8) bekezdésében a „teljesítését a Kincstár a 14. § (3) bekezdés m) pont szerinti hozzájárulás alapján megállapítja és erről a hitelintézetet értesíti” szövegrész helyébe a „teljesítésének igazolásához a Kincstár a 14. § (3) bekezdés m) pontja szerinti hozzájárulás alapján adatot szolgáltat a hitelintézet részére” szöveg,
+7. [^49]
 
-8. 30. § (1) bekezdés 10. pontjában a „várandósgondozási könyvvel vagy a kezelőorvos által kiállított, a várandósság tényéről és annak fennállása időpontjáról szóló igazolással” szövegrész helyébe a „várandósgondozásban részt vevő szülész-nőgyógyász szakorvos által kiállított, a várandósság tényéről és annak 12. hete betöltésének napjáról, a szülés várható időpontjáról és a magzatok számáról szóló igazolással” szöveg,
+8. [^50]
 
-9. 30. § (5) bekezdés b) pontjában az „elhelyezését – ideértve a közös szülői felügyeletet is – a jogerős bírósági ítélettel” szövegrész helyébe az „elhelyezését vagy szülői felügyeletének rendezését és lakóhelyének kijelölését jogerős bírósági határozattal” szöveg,
+9. [^51]
 
-10. [^15]
+10. [^52]
 
-11. [^16]
+11. [^53]
 
-12. 43. § (1) bekezdésében az „értékesítését” szövegrész helyébe az „értékesítését – ideértve a kisajátítást is –” szöveg,
+12. [^54]
 
-13. 43. § (2) bekezdés d) pontjában az „a lakásigény” szövegrész helyébe az „a kisajátítás esete kivételével a lakásigény” szöveg,
+13. [^55]
 
-14. 43. § (5) bekezdésében a „vagy kisebb értékű” szövegrész helyébe a „vagy – a kisajátítás esete kivételével – kisebb értékű” szöveg,
+14. [^56]
 
-15. 43. § (5a) bekezdésében, valamint 44. § (2) bekezdésében a „Ha” szövegrész helyébe a „Ha – a kisajátítás esete kivételével –” szöveg,
+15. [^57]
 
-16. 43. § (11) bekezdésében a „feltétele” szövegrész helyébe az „– a kisajátítás esete kivételével – feltétele” szöveg és
+16. [^58]
 
-17. [^17]
+17. [^59]
 
-[^13]: A 25. § 2. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^14]: A 25. § 5. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^15]: A 25. § 10. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^16]: A 25. § 11. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
-[^17]: A 25. § 17. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^43]: A 25. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^44]: A 25. § 2. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^45]: A 25. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: A 25. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 25. § 5. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^48]: A 25. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^49]: A 25. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: A 25. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: A 25. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^52]: A 25. § 10. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^53]: A 25. § 11. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.
+[^54]: A 25. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^55]: A 25. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: A 25. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: A 25. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: A 25. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 25. § 17. pontja a 28. § (2) bekezdés alapján 2023. július 1-jén lép hatályba.

@@ -1,5 +1,3 @@
-## „c) új lakást a legalább többségi tulajdonában álló gazdasági társasága – a részvénytársaság kivételével – vagy az egyéni vállalkozói tevékenysége székhelyeként az a) pontban foglaltaktól eltérően a családi otthonteremtési kedvezmény folyósítását követően jelenti be, feltéve, ha a székhelybejelentés megtételét megelőzően teljes bizonyító erejű magánokiratban nyilatkozik a hitelintézet felé arról, hogy megfelel az 1407/2013/EU bizottsági rendeletben szereplő, a csekély összegű (de minimis) támogatásokra vonatkozó, valamint a 13. § (9) bekezdése szerinti feltételeknek, és a hitelintézet a 15/A. § (2) bekezdése szerint jár el.”
+14. §[^16]
 
-14. § Az R3. 56. §-a helyébe a következő rendelkezés lép:
-
-„56. § Ha a támogatott személy a 16. § b) pontjában foglalt kötelezettségének a hitelintézet felszólítását követően sem tesz eleget, a hitelintézet felszólítja a 3. § (1) bekezdés 4. pont a) alpontja szerinti családi otthonteremtési kedvezmény összegének 54. § szerinti, illetve a fiatal házaspár által vállalt gyermek után igénybe vett családi otthonteremtési kedvezmény összegének, 57. § (1) bekezdése szerinti mértékű késedelmi kamattal növelten, a 16. § b) pontja szerinti bemutatási határidő lejártát követő 120 napon belül történő visszafizetésére. Eredménytelen visszafizetési felszólítás esetén a hitelintézet az ügy iratait, valamint a visszafizetésre felszólító iratokat megküldi a kormányhivatalnak.”
+[^16]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

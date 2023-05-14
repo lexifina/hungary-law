@@ -1,3 +1,3 @@
-13. § Az R3. 50. § (1a) bekezdése a következő c) ponttal egészül ki:
+13. §[^15]
 
-[Nem minősül az (1) bekezdés d) pontjában foglalt, a lakáscéltól eltérő hasznosítás tilalma megsértésének az, ha a gazdasági társaság legalább többségi tulajdonával rendelkező, vagy egyéni vállalkozói vagy őstermelői tevékenységet folytató igénylő a családi otthonteremtési kedvezményből vásárolt vagy épített]
+[^15]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

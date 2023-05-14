@@ -1,5 +1,3 @@
-## „c) használt lakást a legalább többségi tulajdonában álló gazdasági társasága – a részvénytársaság kivételével – vagy az egyéni vállalkozó tevékenysége székhelyként az a) pontban foglaltaktól eltérően a családi otthonteremtési kedvezmény folyósítását követően jelenti be, feltéve, ha a székhelybejelentés megtételét megelőzően teljes bizonyító erejű magánokiratban nyilatkozik a hitelintézet felé arról, hogy megfelel az 1407/2013/EU bizottsági rendeletben szereplő, a csekély összegű (de minimis) támogatásokra vonatkozó, valamint a 14. § (9b) bekezdése szerinti feltételeknek, és a hitelintézet a 14. § (2b) bekezdése szerint jár el.”
+22. §[^40]
 
-22. § Az R4. a következő 38/A. §-sal egészül ki:
-
-„38/A. § Ha a támogatott személy a 14. § (3) bekezdés m) pont mb) alpontjában foglalt kötelezettségének a hitelintézet felszólítását követően sem tesz eleget, a hitelintézet felszólítja az 5. § (1) bekezdés 3. pont a) alpontja szerinti gyermek, illetve a fiatal házaspár által vállalt gyermek után igénybe vett családi otthonteremtési kedvezmény összegének a folyósítás napjától számított, Ptk. szerinti, de 5%-ot meg nem haladó mértékű késedelmi kamattal növelten, a 14. § (3) bekezdés m) pont mb) alpontja szerinti bemutatási határidő lejártát követő 120 napon belül történő visszafizetésére. Eredménytelen visszafizetési felszólítás esetén a hitelintézet az ügy iratait, valamint a visszafizetésre felszólító iratokat megküldi a kormányhivatalnak.”
+[^40]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,5 @@
 ## lép.
 
-26. § Hatályát veszti az R4.
+26. §[^60]
 
-a) 27. § (2) bekezdése és
-
-b) 51/E. §-a.
+[^60]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

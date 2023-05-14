@@ -1,7 +1,5 @@
 ## lép.
 
-17. § Hatályát veszti az R3.
+17. §[^35]
 
-a) 42. § (1) bekezdése és
-
-b) 74. §-a.
+[^35]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

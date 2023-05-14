@@ -1,3 +1,3 @@
-21. § Az R4. 36. § (1a) bekezdése a következő c) ponttal egészül ki:
+21. §[^39]
 
-[Nem minősül az (1) bekezdés d) pontjában foglalt, a lakáscéltól eltérő hasznosítás tilalma megsértésének az, ha a gazdasági társaság legalább többségi tulajdonával rendelkező, vagy egyéni vállalkozói vagy őstermelői tevékenységet folytató igénylő a családi otthonteremtési kedvezménnyel érintett]
+[^39]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

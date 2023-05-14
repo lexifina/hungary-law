@@ -1,1 +1,3 @@
-8. § Hatályát veszti az R2. 12. § (2) bekezdése.
+8. §[^10]
+
+[^10]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
