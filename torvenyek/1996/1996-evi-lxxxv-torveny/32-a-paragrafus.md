@@ -6,7 +6,7 @@
 
 (2) A jelzálogjog bejegyzése, valamint – ide nem értve a jelzálogjog törlését – a bejegyzés módosítása iránti eljárás díja változással érintett ingatlanonként 12 600 forint.
 
-(3)
+(3) A közigazgatási- vagy fekvéshatár-változás bejegyzésének díja a változással érintett ingatlanonként az (1) bekezdésben meghatározott díj, de legfeljebb összesen 200 000 forint.
 
 (4) Törvényben meghatározott soron kívüli ügyintézés kivételével, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény (a továbbiakban: Inytv.) 46. §-ában meghatározott soron kívüli eljárás díja ingatlanonként 10 000 forint.
 
