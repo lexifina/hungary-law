@@ -1,7 +1,1 @@
-16. § A közbeszerzésekről szóló 2015. évi CXLIII. törvény 197. §-a a következő (25)–(27) bekezdéssel egészül ki:
-
-„(25) E törvénynek a közbeszerzésekről szóló 2015. évi CXLIII. törvény módosításáról szóló 2023. évi XVI. törvénnyel (a továbbiakban: Mód7. tv.) megállapított 148. § (7) bekezdés f) pontját, 148. § (9) bekezdését és módosított 148. § (3), (4) és (7) bekezdését az ezen rendelkezések hatálybalépését követően megvalósult jogsértések miatt kezdeményezett jogorvoslati eljárásokra kell alkalmazni.
-
-(26) E törvénynek a Mód7. tv. által módosított 152. § (2)–(2a) és (4) bekezdését az ezen rendelkezések hatálybalépését követően megvalósult jogsértések, valamint az ezen rendelkezések hatálybalépését megelőzően megvalósult jogsértések miatt kezdeményezett jogorvoslati eljárásokra is alkalmazni kell, ha a hivatalbóli kezdeményező az ilyen jogsértésekről az ezen rendelkezések hatálybalépése után szerzett tudomást.
-
-(27) E törvénynek a Mód7. tv. által módosított 131. § (8) bekezdés b) és d) pontját és megállapított 137. § (1) bekezdés d) pontját az ezen rendelkezések hatálybalépését megelőzően indult közbeszerzési eljárások alapján kötött keretmegállapodások és létrejött dinamikus beszerzési rendszerek esetében is alkalmazni kell. A módosított rendelkezések nem alkalmazandók az e keretmegállapodások és dinamikus beszerzési rendszerek alapján az ezen rendelkezések hatálybalépésekor folyamatban lévő beszerzésekre.”
+### 16. §

@@ -23,15 +23,3 @@ b) a harmadik országbeli gazdasági szereplőknek, áruknak és szolgáltatáso
 c) a közbeszerzési hirdetmények közzétételére használandó hirdetményminták („e-hirdetmények”) létrehozásáról és az (EU) 2015/1986 végrehajtási rendelet hatályon kívül helyezéséről szóló 2019. szeptember 23-i (EU) 2019/1780 bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
