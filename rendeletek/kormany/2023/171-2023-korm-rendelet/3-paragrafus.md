@@ -1,5 +1,3 @@
-## „2. programozási időszak: az Európai Unió által meghatározott hétéves tervezési periódus,”
+3. §[^4]
 
-3. § Az Ápjt. vhr. 8. alcíme a következő 12/A. §-sal egészül ki:
-
-„12/A. § Az értékelő az Ápjt. 4. § (3a) bekezdése szerinti nyilatkozatait a monitoring és információs rendszeren keresztül nyújtja be.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
