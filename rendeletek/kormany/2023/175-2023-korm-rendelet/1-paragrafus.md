@@ -1,1 +1,3 @@
-1. § A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény veszélyhelyzetben történő eltérő alkalmazásáról szóló 782/2021. (XII. 24.) Korm. rendelet 1. § (1) bekezdésében a „2023. június 30-ig” szövegrész helyébe a „2023. december 31-ig” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
