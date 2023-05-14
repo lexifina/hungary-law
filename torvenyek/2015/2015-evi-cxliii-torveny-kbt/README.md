@@ -61,3 +61,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-143-00-00
 | 2022-11-30 | 2022. évi XXVII. törvény | 2015-143-00-00.52 |
 | 2022-12-15 | 2022. évi LVI. törvény | 2015-143-00-00.56 |
 | 2023-01-01 | 2022. évi LXXV. törvény | 2015-143-00-00.57 |
+| 2023-05-14 | 2023. évi XVI. törvény | 2015-143-00-00.59 |
