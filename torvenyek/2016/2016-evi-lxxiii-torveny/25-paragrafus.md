@@ -70,8 +70,10 @@ illeti meg.
 
 (20) A kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter döntése alapján a kihelyező szerv az intézetigazgató részére lakhatási költségtérítést biztosíthat.
 
-(21) A kihelyező szerv a kihelyezett számára az euró- vagy dollárfolyam-emelkedés hatásának mérséklésére árfolyam-kompenzációt biztosíthat. Az árfolyam-kompenzáció megállapításának feltételeire, mértékére vonatkozó részletes szabályokat a külpolitikáért felelős miniszter rendeletben állapítja meg.
+(21) A külpolitikáért felelős miniszter által vezetett minisztérium mint kihelyező szerv a kihelyezett, a külképviselet által foglalkoztatott házastárs, valamint az 57/B. § szerinti vendégoktatói ösztöndíjprogramban részt vevő vendégoktató számára az euró- vagy dollárárfolyam-emelkedés hatásának mérséklésére árfolyam-kompenzációt biztosíthat. Az árfolyam-kompenzáció megállapításának feltételeire, mértékére vonatkozó részletes szabályokat a külpolitikáért felelős miniszter rendeletben állapítja meg.
 
 (22) A honvédelemért felelős miniszter a közvetlen alárendeltségébe tartozó külképviseleti szervezeti egységeknél tartós külszolgálatot ellátó kormánytisztviselők számára az euró- vagy dollárárfolyam-emelkedés hatásának mérséklésére árfolyam-kompenzációt biztosíthat.
 
 (23) A (22) bekezdés szerinti árfolyam-kompenzációt az érintett kormánytisztviselők részére a honvédelemért felelős miniszter – a (21) bekezdés szerinti miniszteri rendeletben foglaltaknak megfelelően – saját hatáskörében állapítja meg.
+
+(24) A jogalap nélkül kifizetett, a 23. § (1) bekezdése szerinti devizailletmény vagy átalány-költségtérítés visszakövetelésére a kormányzati igazgatásról szóló törvénynek a jogalap nélkül kifizetett illetmény visszakövetelésére vonatkozó szabályai alkalmazandóak.

@@ -16,7 +16,9 @@ pótszabadságra jogosult.
 
 (3) A felkészülés és a tartós külszolgálat időtartamára járó alap- és pótszabadságot a felkészülési állományban lévőknek és a kihelyezettnek a felkészülése és a tartós külszolgálata időtartama alatt igénybe kell vennie. A szabadság kiadása a kormányzati igazgatásról szóló törvény 129. §-a alapján történik. A kihelyezés évében a kormányzati igazgatásról szóló törvény alapján meghatározott és fel nem használt szabadságnapok a tartós külszolgálatra való kihelyezést követően a kormányzati igazgatásról szóló törvény 129. §-a alapján vehetők igénybe. A kihelyező szerv szakdiplomaták esetében csak a tartós külszolgálat időtartama alatt keletkező, időarányos szabadságot adja ki.
 
-(4) Ha a kihelyezett a tartós külszolgálatának megszűnéséig több szabadságot vett igénybe annál, mint ami a tartós külszolgálaton töltött időre megilletné, a különbözetre kifizetett devizailletményt köteles visszafizetni.
+(4) Ha a kihelyezett a tartós külszolgálatának megszűnéséig vagy megszüntetéséig több szabadságot vett igénybe annál, mint ami a tartós külszolgálaton töltött időre megilletné, a különbözetre kifizetett devizailletmény összegét köteles visszafizetni.
+
+(4a) Ha a külképviselet által foglalkoztatott házastárs a külképviselettel fennálló munkaviszonya megszűnéséig vagy megszüntetéséig több szabadságot vett igénybe annál, mint ami a munkáltatónál töltött időre megilletné, a különbözetre jogalap nélkül kifizetett munkabér összegét köteles visszafizetni. A visszafizetési kötelezettségre nem alkalmazandó a munka törvénykönyvéről szóló törvény 164. §-a.
 
 (5) Az (1) bekezdésben foglalt szabadságon felül a kihelyezett a (6)–(7) bekezdésben szabályozott feltételekkel szabadságnak nem minősülő távollétet igazoló utazási nap, illetve egészségügyi vizsgálat céljából igénybe vehető szabadnap (a továbbiakban: orvosi nap) igénybevételére jogosult. Az utazási és orvosi nap felhasználása csak a tényleges Magyarországra történő utazáshoz, illetve a kihelyező szerv által meghatározott kötelező magyarországi orvosi vizsgálaton való megjelenéshez kapcsolódó konkrét távollét napok igazolására jogosít.
 

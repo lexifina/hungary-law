@@ -56,4 +56,4 @@ pótszabadságra jogosult.
 
 (6) A diplomata irányítását a külképviselet-vezető útján – a szakdiplomata tekintetében a szakminiszter feladat- és hatáskörébe tartozó kérdésben a szakminiszterrel egyeztetve – a kihelyező szerv vezetője végzi.
 
-(7) A diplomata, valamint az adminisztratív és technikai személyzet (1) bekezdés szerinti felkészítésének és szakmai irányításának, valamint a szakdiplomata és a szakdiplomata jelölésére jogosult, feladat- és hatáskörében érintett miniszter (a továbbiakban: szakminiszter) által vezetett minisztérium (a továbbiakban: szaktárca) közötti kapcsolattartás részletes szabályait a Kormány rendeletben szabályozza.
+(7) A diplomata, valamint az adminisztratív és technikai személyzet (1) bekezdés szerinti felkészítésének és szakmai irányításának, valamint a szakdiplomata és a szakdiplomata jelölésére jogosult, feladat- és hatáskörében érintett szakminiszter által vezetett szakminisztérium közötti kapcsolattartás részletes szabályait a Kormány rendeletben szabályozza.

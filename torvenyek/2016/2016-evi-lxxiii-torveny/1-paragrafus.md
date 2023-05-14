@@ -12,17 +12,17 @@ b) a III. fejezetben meghatározott eltérésekkel Magyarország Európai Unió 
 
 c) a 4. § és 9. § tekintetében a külképviselet által foglalkoztatott munkavállalókra, valamint
 
-d) a 4. § és 9/A. § tekintetében a külképviselet által foglalkoztatott házastársra,
+d) a 4. §, a 8. § (2) bekezdése, a 9/A. §, a 19. § (3) bekezdése, a 25. § (21) bekezdése, a 33. § (2), (4) és (6) bekezdése, a 39. § d) pontja és az 56/B. § (3) bekezdés d) pontja tekintetében a külképviselet által foglalkoztatott házastársra,
 
-e) a 10. § (1a) bekezdése, a 13. § (1) és (6) bekezdése, az 56/C. § (1a) bekezdése és az 58. § tekintetében a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló, illetve a minisztériummal jogviszonyban nem álló személyekre, a 10. § (1) bekezdése, illetve az 58. § (13) bekezdése tekintetében a kihelyező szervnél kormányzati szolgálati, politikai szolgálati és munkaviszonyban álló foglalkoztatottakra, valamint a 10. § (1) bekezdése szerinti kihelyező szervnél foglalkoztatott munkavállalókra,
+e) a 10. § (1a) bekezdése, a 13. § (1) és (6) bekezdése, az 56/C. § (1a) bekezdése és az 58. § tekintetében a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló, illetve a minisztériummal jogviszonyban nem álló személyekre, a 10. § (1) bekezdése, illetve az 58. § tekintetében a kihelyező szervnél kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban és munkaviszonyban álló foglalkoztatottakra, valamint a 10. § (1) bekezdése szerinti kihelyező szervnél foglalkoztatott munkavállalókra,
 
-f) a 35/C. § tekintetében a 10. § (1) bekezdése szerinti pályázat benyújtására jogosult kormányzati szolgálati, politikai szolgálati és munkaviszonyban álló foglalkoztatottakra,
+f) a 35/C. § tekintetében a 10. § (1) bekezdése szerinti pályázat benyújtására jogosult kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban és munkaviszonyban álló foglalkoztatottakra,
 
 g) az 58/C. § tekintetében a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló kormánytisztviselőkre,
 
 h) az 58. § (14) bekezdése a külügyi szakmai ösztöndíjas jogviszonyban álló személyekre
 
-i) az 57/B. § tekintetében a vendégoktatói ösztöndíjprogramban részt vevő személyekre,
+i) a 25. § (21) bekezdése és az 57/B. § tekintetében a vendégoktatói ösztöndíjprogramban részt vevő személyekre,
 
 j) az 58/G. § tekintetében a kirendeléssel érintett, a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: kormányzati igazgatásról szóló törvény) 2. § (2) bekezdés c) pontja szerinti, a külpolitikáért felelős miniszter által vezetett kihelyező szervvel jogviszonyban álló kormánytisztviselőkre
 

@@ -18,7 +18,7 @@ f) állomáshelyére és visszautazásához, valamint a szabadságra történő 
 
 g) tartós külszolgálatának kezdő időpontját (kihelyezés napja), valamint a tartós külszolgálat megszüntetésének naptári évét, vagy a más külföldi állomáshelyre történő áthelyezés napját,
 
-h)
+h) külszolgálati munkakörére vonatkozóan a 8. § (5) bekezdése szerinti szabályzat alkalmazása esetén az erre való utalást,
 
 i) egyéb jogosultságait és kötelezettségeit, valamint
 
@@ -36,7 +36,7 @@ a) a kihelyezés megszűnésének vagy megszüntetésének napját,
 
 b) a hazautazással kapcsolatos kötelezettségeket.
 
-(4) A kihelyezett munkaköri leírása kiadásának rendjét a kihelyező vezető normatív utasításban határozza meg azzal, hogy a kulturális diplomata, valamint a kulturális intézet működéséhez kapcsolódó feladatokat ellátó, adminisztratív vagy technikai külszolgálati munkakörbe kihelyezett kormánytisztviselő munkaköri leírását – a kihelyező vezető útján – a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter adja ki.
+(4) A kihelyezett kulturális diplomata, valamint a kulturális intézet működéséhez kapcsolódó feladatokat ellátó, adminisztratív vagy technikai külszolgálati munkakörbe kihelyezett kormánytisztviselő munkaköri leírását – a kihelyező vezető útján – a kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter adja ki.
 
 (5)
 

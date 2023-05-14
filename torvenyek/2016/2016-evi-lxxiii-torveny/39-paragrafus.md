@@ -18,4 +18,4 @@ g) folyamatosan ellenőrzi a külképviselet tagjainak munkavégzését,
 
 h) a külképviselet tevékenységéről és működéséről folyamatosan beszámol az európai uniós ügyek koordinációjáért felelős miniszternek, a közös kül- és biztonságpolitika tekintetében a külpolitikáért felelős miniszternek,
 
-i) ellátja a jogszabályban és a kihelyezési okiratban, valamint a munkaköri leírásban meghatározott további feladatokat.
+i) ellátja a jogszabályban és a kihelyezési okiratban, valamint a munkaköri leírásban vagy a 8. § (5) bekezdése szerinti szabályzatban az általa betöltött külszolgálati munkakörhöz kapcsolódóan meghatározott további feladatokat.

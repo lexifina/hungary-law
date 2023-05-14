@@ -2,7 +2,7 @@
 
 59. § (1) Felhatalmazást kap a Kormány, hogy
 
-a) a szakdiplomata-álláshely létesítésére vonatkozó, Kormánynak benyújtandó előterjesztés, a szakdiplomata felkészítése és szakmai irányítása, továbbá a szakdiplomata és a szaktárca közötti kapcsolattartás,
+a) a szakdiplomata-álláshely létesítésére vonatkozó, Kormánynak benyújtandó előterjesztés, a szakdiplomata felkészítése és szakmai irányítása, továbbá a szakdiplomata és a szakminisztérium közötti kapcsolattartás,
 
 b) a tartós külszolgálathoz kapcsolódó felkészítés, valamint
 

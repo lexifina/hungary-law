@@ -8,7 +8,7 @@
 
 (3) E törvény rendelkezéseit a törvény hatálybalépésekor tartós külszolgálatot ellátó kormánytisztviselők esetében is alkalmazni kell.
 
-(4) Ha az e törvény szerint megállapított pénzbeli és nem pénzbeli juttatás és a jogviszonyból eredő egyéb jogosultságok a törvény hatálybalépésekor tartós külszolgálatát töltő kihelyezettre nézve kedvezőtlenebbek a kihelyezés időpontja szerint megállapított pénzbeli és nem pénzbeli juttatásainál és a jogviszonyból eredő egyéb jogosultságainál, akkor a folyamatban lévő tartós külszolgálatának befejezéséig a kihelyezett a kihelyezése időpontjában megállapított juttatásokra és a jogviszonyból eredő egyéb jogosultságokra jogosult.
+(4)
 
 (5) A 14. § (2) bekezdés c) pontja szerinti feltételnek meg nem felelő diplomáciai vagy konzuli rangú kormánytisztviselőnek e törvény hatálybalépését követő két éven belül meg kell szereznie az előírt szintnek megfelelő nyelvvizsgát.
 
@@ -42,8 +42,10 @@
 
 (18) A kihelyező vezető mérlegelési jogkörében eljárva a kormányzati igazgatásról szóló törvény szerinti együttalkalmazási tilalom és összeférhetetlenség alól a külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló személy részére legfeljebb négy év időtartamra felmentést adhat.
 
-(19) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 44. § (3a) bekezdésében foglaltaktól eltérően a Kormány által alapított és a Kormány kijelölése alapján a külpolitikáért felelős miniszter alapítói joggyakorlása alatt álló közalapítványnál a képzési program keretében, illetve a képzés részeként az Nftv. 44. § (1) bekezdés a) pontja szerint megszervezett szakmai gyakorlatra – ide nem értve a duális képzést – hallgatói munkaszerződés és díjazás nélkül is sor kerülhet.
+(19) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 44. § (3a) bekezdésében foglaltaktól eltérően a Kormány által alapított és a Kormány kijelölése alapján a külpolitikáért felelős miniszter alapítói joggyakorlása alatt álló közalapítványnál, valamint a magyar állam tulajdonában álló külügyi vagy külgazdasági tevékenységet folytató gazdasági társaságnál a képzési program keretében, illetve a képzés részeként az Nftv. 44. § (1) bekezdés a) pontja szerint megszervezett szakmai gyakorlatra – ide nem értve a duális képzést – hallgatói munkaszerződés és díjazás nélkül is sor kerülhet.
 
 (20) A külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló, a 10. § (1) bekezdése szerinti pályázat benyújtására jogosult foglalkoztatott esetében a kormányzati igazgatásról szóló törvény munkarendre vonatkozó előírásai akként alkalmazandók, hogy heti munkaidő-keretben kötetlen munkarend is megállapítható.
 
-(21) A kormányzati igazgatásról szóló törvény 86. § (7b) bekezdésétől eltérően a kormányzati szolgálati jogviszony megszűnését vagy megszüntetését követően 180 napon belül a külpolitikáért felelős miniszter által vezetett minisztériummal létesített új kormányzati vagy politikai szolgálati jogviszonynál próbaidő kiköthető.
+(21) A kormányzati igazgatásról szóló törvény 86. § (7)–(7b) bekezdésétől eltérően a kormányzati szolgálati jogviszony megszűnését vagy megszüntetését követően a külpolitikáért felelős miniszter által vezetett minisztériummal létesített új kormányzati vagy politikai szolgálati jogviszonynál próbaidő kiköthető.
+
+(22) A felkészülés, valamint a tartós külszolgálat idejére, az érvényes és kockázatmentes nemzetbiztonsági szakvéleménnyel rendelkező, tartós külszolgálatra való kihelyezésre jelölt személy a 36. § (4)–(4b) bekezdése, illetve a 36. § (8a) bekezdés a) pontjában foglaltak szerint a 36. § (4) bekezdés a) pontja szerinti vezényléssel a külpolitikáért felelős miniszter által vezetett minisztériumhoz vezényelhető.
