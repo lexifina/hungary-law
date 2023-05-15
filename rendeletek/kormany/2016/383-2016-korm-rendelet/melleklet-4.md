@@ -1,4 +1,4 @@
-4. melléklet a 383/2016. (XII. 2.) Korm. rendelethez[^331]
+4. melléklet a 383/2016. (XII. 2.) Korm. rendelethez[^334]
 
 A növénytermesztési hatóságként több vármegyére kiterjedő illetékességgel eljáró kormányhivatalok illetékességi területe
 
@@ -40,16 +40,4 @@ II. Kertészeti szaporítóanyagokat érintő feladatok
 
 III. Erdészeti szaporítóanyagokat érintő feladatok
 
-|  | A | B |
-
-| 1. | Kormányhivatal | Illetékességi terület |
-
-| 2. | Hajdú-Bihar Vármegyei Kormányhivatal | Békés, Borsod-Abaúj-Zemplén, Hajdú-Bihar, Jász-Nagykun-Szolnok és Szabolcs-Szatmár-Bereg vármegye |
-
-| 3. | Győr-Moson-Sopron Vármegyei Kormányhivatal | Győr-Moson-Sopron, Komárom-Esztergom, Vas és Zala vármegye |
-
-| 4. | Baranya Vármegyei Kormányhivatal | Bács-Kiskun, Baranya, Csongrád-Csanád, Somogy és Tolna vármegye |
-
-| 5. | Fejér Vármegyei Kormányhivatal | Fejér, Heves, Nógrád, Pest és Veszprém vármegyére |
-
-[^331]: A 4. melléklet a 360/2019. (XII. 30.) Korm. rendelet 159. § (43) bekezdés b) pontjával megállapított, a 371/2020. (VII. 30.) Korm. rendelet 41. § b)–d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § c)-d), f,) és j)-k) pontja szerint módosított szöveg.
+[^334]: A 4. melléklet a 360/2019. (XII. 30.) Korm. rendelet 159. § (43) bekezdés b) pontjával megállapított, a 371/2020. (VII. 30.) Korm. rendelet 41. § b)–d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § c)-d), f,) és j)-k) pontja szerint módosított szöveg.
