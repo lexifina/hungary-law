@@ -70,7 +70,7 @@ fontosabb egészségügyi bejegyzések (műtétek, allergia, idült betegségek 
 
 6.[^70] 4–7. oldal:
 
-veszettség elleni védőoltások és jogszabályban előírt parazita ellenes kezelések igazolása, elegendő helyet biztosítva az élelmiszerlánc-biztonsági és állategészségügyi igazgatóság által kibocsátott, az adott évre érvényes biztonsági jellel ellátott öntapadós címke beragasztására
+veszettség elleni védőoltások és jogszabályban előírt parazita ellenes kezelések igazolása
 
 7. 8–13. oldal:
 
@@ -88,4 +88,4 @@ a kisállatok egészségvédelmével kapcsolatos iránymutatások és az oltási
 [^67]: A melléklet A) fejezete a 32/2014. (XII. 9.) FM rendelet 11. § (15) bekezdésével megállapított szöveg.
 [^68]: A melléklet B) fejezet 2. pont c) alpontja a 32/2014. (XII. 9.) FM rendelet 11. § (15) bekezdése szerint módosított szöveg.
 [^69]: A melléklet B) fejezet 2. pont d) alpontja a 32/2014. (XII. 9.) FM rendelet 11. § (15) bekezdése szerint módosított szöveg.
-[^70]: A Melléklet 6. pontja a 70/2013. (VII. 31.) VM rendelet 102. § a) pontja szerint módosított szöveg.
+[^70]: A Melléklet B) fejezet 6. pontja a 70/2013. (VII. 31.) VM rendelet 102. § a) pontja, a 23/2023. (V. 10.) AM rendelet 11. § c) pontja szerint módosított szöveg.

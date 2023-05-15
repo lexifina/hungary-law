@@ -42,9 +42,9 @@ e) az általa beoltott, embert mart állat oltottságáról a megmart embert kez
 
 f)[^13] az eb veszettség elleni védőoltásának beadását követő 8 napon belül az oltás időpontját, a felhasznált oltóanyag nevét, gyártási számát, az oltást végző állatorvos nevét, kamarai bélyegzője számát az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény (a továbbiakban: Ávt.) 42/A. § (1) bekezdése szerinti országos elektronikus adatbázisban rögzíteni,
 
-g)[^14] a járási hivatal által térítés ellenében kibocsátott, az adott évre érvényes biztonsági jellel ellátott öntapadós címkével az oltási könyvben érvényesíteni az általa végzett oltásra vonatkozó bejegyzését;
+g)[^14]
 
-h)[^15] az állattartó kérelmére új oltási könyvet kiállítani az általa oltott ebről, egyidejűleg azt új, a g) pontban leírt címkével érvényesíteni.
+h)[^15] az állattartó kérelmére új oltási könyvet kiállítani az általa oltott ebről.
 
 (5a)[^16] Az oltást végző szolgáltató állatorvos az eb oltási könyvének kiállítása során az állat fajtájának megjelölésére szolgáló sort a fajta megjelölésével kizárólag abban az esetben töltheti ki, amennyiben az eb tulajdonosa az eb fajtatiszta származását az elismert tenyésztő szervezet által kibocsátott származási igazolással igazolja. Amennyiben az eb fajtatiszta származása e módon nem igazolt, az állat fajtájának megjelölésére szolgáló sor fenológiai vizsgálat alapján a „[fajta] jellegű” vagy „keverék” bejegyzéssel tölthető ki. Az állat fajtájának megjelölésére szolgáló sor kitöltésekor az ebnek a származási igazolásán szereplő törzskönyvi azonosítóját, vagy a fajta jellegére történő bejegyzés esetén annak fenológiai vizsgálattal való megállapítására utaló hivatkozást, állatorvosi bélyegző lenyomattal, megjegyzésként fel kell tüntetni.
 
@@ -70,8 +70,8 @@ e) illetékességi területén ellenőrzi az e jogszabályban foglaltak végreha
 [^11]: A 4. § (5) bekezdés b) pont bb) alpontja a 32/2014. (XII. 9.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^12]: A 4. § (5) bekezdés c) pontját a 32/2014. (XII. 9.) FM rendelet 13. § a) pontja hatályon kívül helyezte.
 [^13]: A 4. § (5) bekezdés f) pontját a 23. § (2) bekezdése hatályon kívül helyezte, újonnan a 32/2014. (XII. 9.) FM rendelet 11. § (3) bekezdése iktatta be.
-[^14]: A 4. § (5) bekezdés g) pontja a 42/2010. (IV. 22.) FVM rendelet 16. § a) pontja, a 70/2013. (VII. 31.) VM rendelet 102. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 121. § 3. pontja, a 69/2017. (XII. 27.) FM rendelet 16. §-a szerint módosított szöveg.
-[^15]: A 4. § (5) bekezdésének h) pontja e rendelet 23. § (2) bekezdése alapján 2010. január 1-jén lépett hatályba.
+[^14]: A 4. § (5) bekezdés g) pontját a 23/2023. (V. 10.) AM rendelet 11. § a) pontja hatályon kívül helyezte.
+[^15]: A 4. § (5) bekezdésének h) pontja e rendelet 23. § (2) bekezdése alapján 2010. január 1-jén lépett hatályba, szövege a 23/2023. (V. 10.) AM rendelet 11. § b) pontja szerint módosított szöveg.
 [^16]: A 4. § (5a) bekezdését a 127/2012. (XII. 12.) VM rendelet 4. § (1) bekezdése iktatta be, szövege a 37/2013. (V. 22.) VM rendelet 6. §-ával megállapított, a 32/2014. (XII. 9.) FM rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^17]: A 4. § (6) bekezdés nyitó szövegrésze a 42/2017. (VIII. 17.) FM rendelet 121. § 2. pontja szerint módosított szöveg.
 [^18]: A 4. § (6) bekezdés c) pontját a 42/2010. (IV. 22.) FVM rendelet 17. §-a hatályon kívül helyezte.
