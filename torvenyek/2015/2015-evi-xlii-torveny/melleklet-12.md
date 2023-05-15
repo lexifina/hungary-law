@@ -19,5 +19,3 @@
 ## | | A) | B) | C) | D) | E) | 1. | Fizetési fokozat | Szolgálati idő (év) | A fizetési fokozat szerinti illetmény alsó határa (Ft) | A fizetési fokozat szerinti illetmény felső határa (Ft) | 2. | 1 | 0 | 3 | garantált bérminimum | 310 000 | 3. | 2 | 4 | 7 | garantált bérminimum | 341 000 | 4. | 3 | 8 | 14 | garantált bérminimum | 373 000 | 5. | 4 | 15 | 23 | 275 000 | 399 000 | 6. | 5 | 24 | 34 | 300 000 | 425 000 | 7. | 6 | 35 | | 325 000 | 457 000
 
 ## „D” munkaköri kategória
-
-## | | A) | B) | C) | D) | E) | 1. | Fizetési fokozat | Szolgálati idő (év) | A fizetési fokozat szerinti illetmény alsó határa (Ft) | A fizetési fokozat szerinti illetmény felső határa (Ft) | 2. | 1 | 0 | 3 | garantált bérminimum | 378 000 | 3. | 2 | 4 | 7 | 275 000 | 404 000 | 4. | 3 | 8 | 14 | 300 000 | 420 000 | 5. | 4 | 15 | 23 | 325 000 | 452 000 | 6. | 5 | 24 | 34 | 340 000 | 483 000 | 7. | 6 | 35 | | 370 000 | 536 000
