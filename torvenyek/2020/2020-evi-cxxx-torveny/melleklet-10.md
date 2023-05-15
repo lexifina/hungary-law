@@ -69,5 +69,3 @@ III. A korábbi foglalkoztatásra vonatkozó adatok
 4. besorolás
 
 5. munkakör
-
-6. jogviszony kezdő és befejező dátuma
