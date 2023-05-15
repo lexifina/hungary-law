@@ -1,5 +1,3 @@
-## Piacon, valamint az egész ország területén árusításra engedélyezett gombafajok jegyzéke
-
 |  | A | B | C |
 
 | 1. | Magyar név Latin név | Árusítási feltételek | Felhasználási feltételek |
@@ -152,9 +150,9 @@
 
 | 75. | Homoki szarvasgomba Mattirolomyces terfezioides | Csak a fiatal termőtest árusítható A földalatti gombák gyűjtéséről szóló miniszteri rendeletben meghatározott gyűjtési időszak alatt, valamint az ezt követő héten árusítható |  |
 
-3. melléklet a 107/2011. (XI. 10.) VM rendelethez[^37]
+3. melléklet a 107/2011. (XI. 10.) VM rendelethez[^36]
 
-## A gombaminősítési igazolás adattartalma:
+A gombaminősítési igazolás adattartalma:
 
 A gombaminősítési igazolás az alábbi adatokat tartalmazza:
 
@@ -170,4 +168,4 @@ A gombaminősítési igazolás az alábbi adatokat tartalmazza:
 
 6. a gomba-szakellenőr cégszerű aláírása.
 
-[^37]: A 3. melléklet a 12/2019. (IV. 1.) AM rendelet 9. § b) pontjával megállapított szöveg.
+[^36]: A 3. melléklet a 12/2019. (IV. 1.) AM rendelet 9. § b) pontjával megállapított szöveg.

@@ -1,1 +1,5 @@
 ## 17. § Az e rendeletben meghatározott technikai jellegű előírásoknak nem kell megfelelnie az olyan étkezési célra forgalomba kerülő vadon termett gombának, amelyet az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások a gomba forgalomba hozatala tekintetében az e rendeletben meghatározottal egyenértékű védelmet nyújtanak.
+
+18. §[^33]
+
+[^33]: A 18. §-t a 19/2014. (III. 12.) VM rendelet 40. § (3) bekezdése iktatta be, a 23/2023. (V. 10.) AM rendelet 20. §-a hatályon kívül helyezte.

@@ -6,7 +6,7 @@ a) az (1a) bekezdésben szereplő valamely képesítéssel rendelkezik,
 
 b) öt évnél nem régebbi munkaköri szakmai és egészségügyi alkalmassági igazolással rendelkezik, amely kitér a mentális beszámíthatóságra, valamint az érzékszervek normális működésének igazolására,
 
-c)[^3] ötévente részt vesz az Agrárminisztérium (a továbbiakban: minisztérium) által szervezett és felügyelt továbbképzésen, és
+c)[^3] ötévente részt vesz az élelmiszerlánc-felügyeletért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) által szervezett és felügyelt online továbbképzésen,
 
 d)[^4] a gomba-szakellenőri tevékenység gyakorlásának szándékát az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró Pest Megyei Kormányhivatalnak (a továbbiakban: Pest Megyei Kormányhivatal) bejelentette.
 
@@ -24,18 +24,18 @@ d) az Európai Gazdasági Térség valamely szerződő államában a gomba-szake
 
 (1c)[^8] Mérgező gomba okozta megbetegedés vizsgálatánál laboratóriumi diagnosztikai tevékenységet az végezhet, aki sikeres vizsgát tesz a minisztérium által szervezett gomba-diagnosztikai tanfolyamon.
 
-(2)[^9] A gomba-szakellenőr a Pest Megyei Kormányhivatalnak jelenti be a tevékenységét. A bejelentés tartalmazza a tevékenység helyének és időtartalmának megjelölését, valamint a gomba-szakellenőri bizonyítvány számát is.
+(2)[^9] A gomba-szakellenőri tevékenységre vonatkozó bejelentés tartalmazza a tevékenység helyének és időtartamának megjelölését, valamint a gomba-szakellenőri bizonyítvány számát is.
 
 (3)[^10]
 
 (4) A gomba-szakellenőr a gombaminősítést a vásári, piaci és vásárcsarnoki árusítás közegészségügyi szabályairól szóló miniszteri rendeletben foglaltak szerint végezi.
 
 [^2]: A 3. § (1) bekezdése a 19/2014. (III. 12.) VM rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^3]: A 3. § (1) bekezdés c) pontja a 12/2019. (IV. 1.) AM rendelet 8. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés c) pontja a 23/2023. (V. 10.) AM rendelet 18. §-ával megállapított szöveg.
 [^4]: A 3. § (1) bekezdés d) pontja a 42/2017. (VIII. 17.) FM rendelet 172. § b) pontja szerint módosított szöveg.
 [^5]: A 3. § (1a) bekezdését a 19/2014. (III. 12.) VM rendelet 40. § (2) bekezdése iktatta be.
 [^6]: A 3. § (1a) bekezdés b) pontja a 12/2019. (IV. 1.) AM rendelet 2. §-ával megállapított szöveg.
 [^7]: A 3. § (1b) bekezdését a 19/2014. (III. 12.) VM rendelet 40. § (2) bekezdése iktatta be.
 [^8]: A 3. § (1c) bekezdését a 19/2014. (III. 12.) VM rendelet 40. § (2) bekezdése iktatta be, szövege a 42/2017. (VIII. 17.) FM rendelet 172. § c) pontja szerint módosított szöveg.
-[^9]: A 3. § (2) bekezdése a 42/2017. (VIII. 17.) FM rendelet 172. § d) pontja szerint módosított szöveg.
+[^9]: A 3. § (2) bekezdése a 23/2023. (V. 10.) AM rendelet 19. §-ával megállapított szöveg.
 [^10]: A 3. § (3) bekezdését a 19/2014. (III. 12.) VM rendelet 40. § (5) bekezdése hatályon kívül helyezte.
