@@ -34,7 +34,7 @@ hc) a saját jogú nyugdíjast és az özvegyi nyugdíjban részesülő személy
 
 i) a kisadózó vállalkozók tételes adójáról szóló törvényben meghatározottak szerint bejelentett személy;
 
-j) állami projektértékelői jogviszonyban álló személy, ha az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, vagy naptári napokra annak harmincad részét,
+j) állami projektértékelői jogviszonyban, illetve az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyban álló személy, ha az e tevékenységéből származó, tárgyhavi járulékalapot képező jövedelme eléri a minimálbér harminc százalékát, vagy naptári napokra annak harmincad részét,
 
 k) a köztársasági elnök saját jogú nyugdíjasnak nem minősülő házastársa arra az időre, amelyre a fennálló biztosítással járó jogviszonyában a biztosítása szünetel, vagy nem rendelkezik más biztosítással járó jogviszonnyal.
 
