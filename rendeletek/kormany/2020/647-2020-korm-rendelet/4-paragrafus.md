@@ -1,6 +1,6 @@
 4. § (1) A Foktftv. 4. § (7) bekezdése szerinti igazgatási szolgáltatási díjat a kérelemmel érintett földrészletenként kell megfizetni.
 
-(2)[^1] A Foktftv. 4. § (7) bekezdése szerinti osztatlan közös tulajdon megszüntetése magába foglalja:
+(2)[^2] A Foktftv. 4. § (7) bekezdése szerinti osztatlan közös tulajdon megszüntetése magába foglalja:
 
 a) a folyamatban lévő megosztás tényének feljegyzését,
 
@@ -24,7 +24,16 @@ j) a megosztással létrejövő földrészletek megközelítését biztosító s
 
 k) a folyamatban lévő megosztás tényének hivatalból vagy a jogosult kérelmére történő törlését.
 
-(3)[^2] Ha a Foktftv. 4. § (3b) bekezdésében vagy a 4. § (5) bekezdésében foglaltak alkalmazásának eredményeképpen a kisajátítási eljárás megindítása tényének feljegyzése, illetve a kisajátítás folytán bekövetkező tulajdonváltozás átvezetése a folyamatban lévő megosztás tényének feljegyzését, vagy a megosztás ingatlan-nyilvántartási átvezetését meghiúsítja, akkor az eljáró hatóság a kérelem visszautasításával vagy az eljárás megszüntetésével, illetve a folyamatban lévő megosztás tényének törlésével egyidejűleg hivatalból elrendeli az igazgatási szolgáltatási díj visszatérítését, és az elrendelést követő 15 napon belül intézkedik annak teljesítéséről.
+(3)[^3] Ha a Foktftv. 4. § (3b) vagy (5) bekezdésében foglaltak alkalmazásának eredményeképpen a tulajdonjog öröklés jogcímen történő bejegyzésére, a kisajátítási eljárás megindítása tényének feljegyzésére, illetve a kisajátítás folytán bekövetkező tulajdonváltozás átvezetésére kerül sor, az eljáró hatóság
 
-[^1]: A 4. § (2) bekezdése a 454/2021. (VII. 30.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^2]: A 4. § (3) bekezdését a 454/2021. (VII. 30.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+a) a folyamatban lévő megosztás tényének feljegyzésére irányuló kérelmet visszautasítja,
+
+b) a folyamatban lévő megosztás tényét törli, vagy
+
+c) a megosztás ingatlan-nyilvántartási átvezetésére irányuló kérelmet visszautasítja, és ezzel egyidejűleg a folyamatban lévő megosztás tényét törli.
+
+(4)[^4] Az eljáró hatóság a (3) bekezdésben foglalt intézkedésével egyidejűleg hivatalból elrendeli az igazgatási szolgáltatási díj visszatérítését és a visszatérítés elrendelését követő 15 napon belül intézkedik annak teljesítéséről.
+
+[^2]: A 4. § (2) bekezdése a 454/2021. (VII. 30.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^3]: A 4. § (3) bekezdését a 454/2021. (VII. 30.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 170/2023. (V. 12.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^4]: A 4. § (4) bekezdését a 170/2023. (V. 12.) Korm. rendelet 38. §-a iktatta be.

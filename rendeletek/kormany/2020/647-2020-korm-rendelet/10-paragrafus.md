@@ -10,4 +10,6 @@
 
 (6) A működtető szervezet köteles az elektronikus tájékoztatót 24 órán belül a kormányzati portálon közzétenni, és a közzététel időpontjáról és tartalmáról automatikus igazolást küldeni az ingatlanügyi hatóság részére.
 
-(7) A működtető szervezet a kormányzati portálról az elektronikus tájékoztatót a 8. §-ban, a 9. §-ban, a 11. §-ban, valamint a 28. §-ban foglalt esetben az ingatlanügyi hatóság megkeresését követő napon, megkeresés hiányában a közzétételtől számított 90. napot követő napon veszi le, és a levétel időpontjáról automatikus igazolást küld az ingatlanügyi hatóság részére.
+(7)[^5] A működtető szervezet a kormányzati portálról az elektronikus tájékoztatót a 8. §-ban, a 9. §-ban, a 11. §-ban, valamint a 28. §-ban foglalt esetben az ingatlanügyi hatóság megkeresését követő napon, megkeresés hiányában a közzétételtől számított 120. napot követő napon veszi le, és a levétel időpontjáról automatikus igazolást küld az ingatlanügyi hatóság részére.
+
+[^5]: A 10. § (7) bekezdése a 170/2023. (V. 12.) Korm. rendelet 47. § b) pontja szerint módosított szöveg.

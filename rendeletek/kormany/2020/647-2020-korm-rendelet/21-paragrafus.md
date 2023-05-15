@@ -18,10 +18,12 @@ h) a kialakításra kerülő földrészletek megközelítését biztosító
 
 ha) szolgalmi jog alapítását, illetve
 
-hb) utak egyedi azonosítóját, területi és tulajdonosi adatait;
+hb)[^14] újonnan kialakításra kerülő utak egyedi azonosítóját, területi és tulajdonosi adatait;
 
 i) a Foktftv. 9. § (1) bekezdése szerinti esetben arra vonatkozó rendelkezést, hogy a megosztandó földrészlet tulajdoni lapján bejegyzett jogok és tények mely kialakításra kerülő földrészleteket és milyen mértében terhelik, és e terhet a kialakításra kerülő földrészlet tulajdonosa elfogadja, vagy a Foktftv. 5. § (2) és (4) bekezdése szerinti tulajdonostárs esetében a hozzájárulását a Foktftv. 6. § (3) bekezdése alapján vélelmezni kell;
 
 j) a Foktftv. 9. § (1) bekezdése szerinti esetben a megosztandó földrészleten lévő felépítmények, illetve földtől elválaszthatatlan vagyontárgyak tulajdonjogi sorsát;
 
 k) a döntés meghozatala során a támogató szavazatok számítását.
+
+[^14]: A 21. § h) pont hb) alpontja a 170/2023. (V. 12.) Korm. rendelet 47. § f) pontja szerint módosított szöveg.

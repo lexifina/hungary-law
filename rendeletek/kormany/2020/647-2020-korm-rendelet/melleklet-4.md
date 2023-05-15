@@ -20,9 +20,9 @@
 
 ## Ha az erdőrészlet főfafajának fatermő képessége nem értelmezett, abban az esetben az erdőrészletre is az egyéb részletre meghatározott értékbecslési ajánlat mértékét kell alkalmazni.
 
-4. melléklet a 647/2020. (XII. 23.) Korm. rendelethez[^29]
+4. melléklet a 647/2020. (XII. 23.) Korm. rendelethez[^51]
 
-## Több tulajdonostárs tulajdonba vételi szándéka esetén a végleges ellenérték kialakulásának folyamata
+Több tulajdonostárs tulajdonba vételi szándéka esetén a végleges ellenérték kialakulásának folyamata
 
 ## A 36. § (4) bekezdése szerinti dokumentumnak időrendi sorrendben tartalmaznia kell:
 
@@ -42,4 +42,4 @@
 
 5. a 32. § (7) bekezdése szerinti esetben az okiratok és nyilatkozatok megküldésének és a (8) bekezdés szerinti értesítés megküldésének dátumát.
 
-[^29]: A 4. mellékletet a 454/2021. (VII. 30.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^51]: A 4. mellékletet a 454/2021. (VII. 30.) Korm. rendelet 20. § (2) bekezdése iktatta be.
