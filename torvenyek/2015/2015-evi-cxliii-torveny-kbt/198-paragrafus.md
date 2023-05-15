@@ -48,7 +48,7 @@
 
 22. a felelős akkreditált közbeszerzési szaktanácsadók tevékenységére, a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező közbeszerzési gyakorlatra és annak igazolására, a felelős akkreditált közbeszerzési szaktanácsadók nyilvántartásba vételére, a nyilvántartásba vétel folyamatára, a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékére, annak vezetésére, a névjegyzékbe vétel feltételeire, a felelős akkreditált közbeszerzési szaktanácsadók szakmai testületére, valamint a felelős akkreditált közbeszerzési szaktanácsadói tevékenység feltételét képező felelősségbiztosításra vonatkozó szabályokat;
 
-23. a közétkeztetés tárgyú közbeszerzések – e törvénytől az ilyen eljárások sajátosságai miatt szükséges eltérő – sajátos szabályait.
+23. a közétkeztetés tárgyú közbeszerzések – e törvénytől ezen eljárások sajátosságai miatt szükséges eltérő – sajátos szabályait.
 
 24. az ideiglenes védelemre jogosultként elismert személyek ellátásával összefüggő egyes beszerzések sajátos, szükség esetén e beszerzések sajátosságai miatt e törvénytől eltérő szabályait.
 
