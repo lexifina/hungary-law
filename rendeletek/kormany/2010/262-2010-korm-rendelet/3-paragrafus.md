@@ -1,4 +1,4 @@
-3. § (1)[^11] A természetvédelemért felelős miniszter egyetértése szükséges védett természeti területnek és Natura 2000 területnek minősülő földrészlet bármely jogcímen történő átruházásához vagy vagyonkezelésbe adásához.
+3. § (1)[^11] A természetvédelemért felelős miniszter egyetértése szükséges védett természeti területnek és Natura 2000 területnek minősülő földrészlet tulajdonjogának bármely jogcímen történő átruházásához vagy vagyonkezelésbe adásához.
 
 (2)[^12] A vízügyi igazgatási szervek irányításáért felelős miniszter egyetértése szükséges a vízvédelmi terület tulajdonjogának bármely jogcímen történő átruházásához, vagy vagyonkezelésbe adásához.
 
@@ -16,7 +16,7 @@
 
 (9)[^19] Nincs szükség az e §-ban foglalt személy vagy szervezet előzetes egyetértésére, ha a tulajdonjog átruházására a földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény 12. és 16. §-ában szabályozott bekebelezés útján kerül sor.
 
-[^11]: A 3. § (1) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 7. §-ával megállapított, a 153/2013. (V. 24.) Korm. rendelet 19. § a) pontja, a 159/2019. (VI. 28.) Korm. rendelet 38. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
+[^11]: A 3. § (1) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 7. §-ával megállapított, a 153/2013. (V. 24.) Korm. rendelet 19. § a) pontja, a 159/2019. (VI. 28.) Korm. rendelet 38. § a) pontja, a 170/2023. (V. 12.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
 [^12]: A 3. § (2) bekezdése a 300/2011. (XII. 22.) Korm. rendelet 7. §-a, a 153/2013. (V. 24.) Korm. rendelet 19. § b) pontja, a 159/2019. (VI. 28.) Korm. rendelet 37. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
 [^13]: A 3. § (3) bekezdése a 153/2013. (V. 24.) Korm. rendelet 19. § c) pontja, a 159/2019. (VI. 28.) Korm. rendelet 37. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
 [^14]: A 3. § (4) bekezdése a 153/2013. (V. 24.) Korm. rendelet 19. § d) pontja, a 159/2019. (VI. 28.) Korm. rendelet 37. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.

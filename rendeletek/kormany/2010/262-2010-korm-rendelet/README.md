@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-262-20-
 | 2022-03-03 | 2010-262-20-22.28 | 73/2022. (III. 2.) Korm. rendelet |
 | 2022-04-10 | 2010-262-20-22.29 | 306/2013. (VIII. 1.) Korm. rendelet |
 | 2023-01-01 | 2010-262-20-22.30 | 159/2019. (VI. 28.) Korm. rendelet |
+| 2023-05-15 | 2010-262-20-22.31 | 170/2023. (V. 12.) Korm. rendelet |

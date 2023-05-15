@@ -24,7 +24,7 @@ b) az ingatlan a helyi építési szabályzat alapján nem mezőgazdasági övez
 
 (2i)[^32] A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény 12. és 16. §-ában szabályozott bekebelezés esetén a földrészlet ellenértéke az e §-okban rögzített értékbecslési ajánlat alapján is megállapítható.
 
-(3)[^33] A vagyonkezelői jog alatt álló földrészlet tulajdonjoga akkor ruházható át, ha az tulajdonátruházó szerződés megkötése előtt a vagyonkezelési szerződés megszüntetésre kerül, és a felek a 41. § (2) bekezdése szerint elszámoltak egymással.
+(3)[^33] A vagyonkezelői jog alatt álló földrészlet tulajdonjoga akkor ruházható át, ha a tulajdonátruházó szerződés megkötése előtt a vagyonkezelési szerződés megszüntetésre kerül, és a felek a 41. § (2) bekezdése szerint elszámoltak egymással.
 
 [^21]: A 4. § a 11/2011. (II. 22.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^22]: A 4. § (1) bekezdése a 647/2020. (XII. 23.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
@@ -38,4 +38,4 @@ b) az ingatlan a helyi építési szabályzat alapján nem mezőgazdasági övez
 [^30]: A 4. § (2g) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^31]: A 4. § (2h) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^32]: A 4. § (2i) bekezdését a 647/2020. (XII. 23.) Korm. rendelet 41. § (2) bekezdése iktatta be.
-[^33]: A 4. § (3) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^33]: A 4. § (3) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § d) pontja, a 170/2023. (V. 12.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
