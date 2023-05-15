@@ -1,16 +1,23 @@
 ## 3. Az osztatlan közös tulajdonban álló földet érintően megkötött haszonbérleti szerződés hirdetményi úton történő közlésére vonatkozó különös szabályok
 
-12. § (1) Ha az osztatlan közös tulajdonban álló földet érintően a Fétv. alapján az egységes okiratba foglalt haszonbérleti szerződés úgy jött létre, hogy a szerződés tartalmát tulajdonostársanként külön-külön okiratba foglalták, a tulajdonostársakkal önállóan kötött haszonbérleti szerződéseket együttesen, összefűzve kell a jegyző részére megküldeni. Ez esetben a haszonbérleti szerződéshez csatolni kell a haszonbérlő írásbeli nyilatkozatát arról, hogy a tulajdonostársakkal önállóan kötött haszonbérleti szerződések tartalmilag megegyeznek, az eltérés kizárólag a haszonbérbeadó tulajdonostársak személyében, és az őket megillető tulajdoni hányadnak megfelelő azon terület tekintetében áll fenn, amelyet haszonbérlő részére használatra átengednek.
+12. § (1)[^41] Ha az osztatlan közös tulajdonban álló földet érintően a Fétv. alapján az egységes okiratba foglalt haszonbérleti szerződés úgy jött létre, hogy a szerződés tartalmát tulajdonostársanként külön-külön okiratba foglalták, a tulajdonostársakkal önállóan kötött haszonbérleti szerződéseket együttesen, összefűzve kell a mezőgazdasági igazgatási szerv részére megküldeni. Ez esetben a haszonbérleti szerződéshez csatolni kell a haszonbérlő írásbeli nyilatkozatát arról, hogy a tulajdonostársakkal önállóan kötött haszonbérleti szerződések tartalmilag megegyeznek, az eltérés kizárólag a haszonbérbeadó tulajdonostársak személyében, és az őket megillető tulajdoni hányadnak megfelelő azon terület tekintetében áll fenn, amelyet haszonbérlő részére használatra átengednek.
 
-(2) Az (1) bekezdésben meghatározott esetben a közzétételi kérelemnek a települési önkormányzat jegyzője részére történő benyújtására, a hirdetményi úton történő közlésre, valamint a jegyző általi irattovábbításra a 6–11. §-ban foglaltakat a (3)–(7) bekezdésben foglalt eltérésekkel kell alkalmazni.
+(1a)[^42] Ha a haszonbérleti szerződés nem tartozik a mezőgazdasági igazgatási szerv jóváhagyásához kötött szerződések közé, akkor az (1) bekezdésben meghatározott iratokat a jegyző részére kell megküldeni.
 
-(3) A közzétételi kérelemhez csatolni kell a 3. mellékletben meghatározott adattartalmú, a kérelmező tulajdonostárs által kitöltött közleményt (a továbbiakban: közzétételi közlemény) is.
+(2)[^43] Az (1) bekezdésben meghatározott esetben a hatósági jóváhagyás iránti kérelemnek a mezőgazdasági igazgatási szerv, az (1a) bekezdésben meghatározott esetben a közzétételi kérelemnek a jegyző részére történő benyújtására, a hirdetményi úton történő közlésre, valamint az irattovábbításra a 6–11. §-ban foglaltakat a (3)–(6) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
-(4) A közzétételi közlemény hiányos benyújtása esetén is alkalmazni kell a 3. § (1)–(3) bekezdésében foglaltakat.
+(3)[^44] A hatósági jóváhagyás iránti vagy a közzétételi kérelemhez csatolni kell a 3. mellékletben meghatározott adattartalmú, a kérelmező tulajdonostárs által kitöltött közleményt (a továbbiakban: közzétételi közlemény) is.
 
-(5)[^31] A jegyzőnek az összefűzött haszonbérleti szerződések helyett a hiánytalanul kitöltött közzétételi közlemény egyik példányán felismerhetetlenné kell tenni a Földforgalmi tv. 49. § (3) bekezdésében előírtak szerinti természetes személyazonosító adatokat, valamint az aláírásokat, és ezt kell a kormányzati portálon közzétenni.
+(4)[^45] A közzétételi közlemény hiányos benyújtása esetén is alkalmazni kell a 2/A. §-ban, valamint a 3. § (1)–(3) bekezdésében foglaltakat.
 
-(6)[^32] A 11. § (3) bekezdése szerinti irattovábbítás során a közzétett közzétételi közleményt, a működtető szervezet által a közzététel időpontjáról és tartalmáról, valamint a levétel időpontjáról megküldött automatikus igazolást is meg kell küldeni a közzétételi kérelmet benyújtó haszonbérbeadó tulajdonostárs, illetve a mezőgazdasági igazgatási szerv részére.
+(5)[^46] A jegyzőnek a részére a mezőgazdasági igazgatási szerv által megküldött, illetve a hozzá benyújtott, hiánytalanul kitöltött közzétételi közlemény egyik példányán kell felismerhetetlenné tenni a Földforgalmi tv. 49. § (2) bekezdésében előírtak szerinti természetes személyazonosító adatokat, valamint az aláírásokat, és ezt kell a kormányzati portálon közzétenni.
 
-[^31]: A 12. § (5) bekezdése az 593/2020. (XII. 17.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^32]: A 12. § (6) bekezdése az 593/2020. (XII. 17.) Korm. rendelet 8. §-ával megállapított szöveg.
+(6)[^47] A 11. § (3) bekezdése szerinti irattovábbítás során a közzétett közzétételi közleményt, a működtető szervezet által a közzététel időpontjáról és tartalmáról, valamint a levétel időpontjáról megküldött automatikus igazolást is meg kell küldeni a közzétételi kérelmet benyújtó haszonbérbeadó tulajdonostárs, illetve a mezőgazdasági igazgatási szerv részére.
+
+[^41]: A 12. § (1) bekezdése a 170/2023. (V. 12.) Korm. rendelet 28. § d) pontja szerint módosított szöveg.
+[^42]: A 12. § (1a) bekezdését a 170/2023. (V. 12.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^43]: A 12. § (2) bekezdése a 170/2023. (V. 12.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^44]: A 12. § (3) bekezdése a 170/2023. (V. 12.) Korm. rendelet 28. § e) pontja szerint módosított szöveg.
+[^45]: A 12. § (4) bekezdése a 170/2023. (V. 12.) Korm. rendelet 28. § f) pontja szerint módosított szöveg.
+[^46]: A 12. § (5) bekezdése a 170/2023. (V. 12.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
+[^47]: A 12. § (6) bekezdése az 593/2020. (XII. 17.) Korm. rendelet 8. §-ával megállapított szöveg.

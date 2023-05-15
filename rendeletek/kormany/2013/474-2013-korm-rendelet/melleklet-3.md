@@ -1,6 +1,6 @@
-3. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^41]
+3. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^62]
 
-## Tulajdonostársanként külön okiratba foglalt haszonbérleti szerződés esetében a közzétételre kerülő közzétételi közlemény tartalma
+Tulajdonostársanként külön okiratba foglalt haszonbérleti szerződés esetében a közzétételre kerülő közzétételi közlemény tartalma
 
 A kérelem benyújtására jogosult, haszonbérbeadó tulajdonostárs által megadandó tartalmi elemek:
 
@@ -10,7 +10,7 @@ A kérelem benyújtására jogosult, haszonbérbeadó tulajdonostárs által meg
 
 a) a természetes személyazonosító adatai,
 
-b) a lakcíme, értesítési címe.
+b)[^63] a lakcíme.
 
 1.2. A gazdálkodó vagy egyéb szervezet haszonbérbeadó esetében
 
@@ -26,7 +26,7 @@ c) a képviseletében eljáró személy családi és utóneve, képviselői min�
 
 a) a természetes személyazonosító adatai,
 
-b) lakcíme, értesítési címe,
+b)[^64] lakcíme,
 
 c) állampolgársága.
 
@@ -58,4 +58,6 @@ d) a haszonbérlet kezdetének és befejezésének időpontja.
 
 6. A kérelmező haszonbérbeadó tulajdonostárs nyilatkozata arról, hogy a közleményben feltüntetett adatok a valóságnak és a haszonbérleti szerződésben foglaltaknak megfelelnek.
 
-[^41]: A 3. melléklet a 341/2016. (XI. 17.) Korm. rendelet 13. § f) pontja, az 593/2020. (XII. 17.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^62]: A 3. melléklet a 341/2016. (XI. 17.) Korm. rendelet 13. § f) pontja, az 593/2020. (XII. 17.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^63]: A 3. melléklet 1.1. pont b) alpontja a 170/2023. (V. 12.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
+[^64]: A 3. melléklet 1.1. pont b) alpontja a 170/2023. (V. 12.) Korm. rendelet 29. § c) pontja szerint módosított szöveg.
