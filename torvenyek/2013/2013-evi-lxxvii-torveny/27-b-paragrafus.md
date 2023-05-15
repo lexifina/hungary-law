@@ -1,1 +1,1 @@
-27/B. § Az igazságügyért felelős miniszter a jogi szakvizsgára történő jelentkezés céljára informatikai felületet üzemeltet, amelyben a 27/A. §-ban meghatározott személyes adatokat a nyilvántartásba vételtől számított nyolcadik év utolsó napjáig kezeli.
+27/B. § Az igazságügyért felelős miniszter a jogi szakvizsgára való jelentkezés céljára informatikai felületet üzemeltet, amelyben a 27/A. §-ban meghatározott személyes adatokat a nyilvántartásba vételtől számított nyolcadik év utolsó napjáig kezeli.
