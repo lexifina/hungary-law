@@ -1,1 +1,1 @@
-### 56. §
+56. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény 6. § (1) bekezdés j) pontjában az „állami projektértékelői jogviszonyban álló személy” szövegrész helyébe az „állami projektértékelői jogviszonyban, illetve az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyban álló személy” szöveg lép.
