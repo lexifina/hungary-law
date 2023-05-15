@@ -1,4 +1,4 @@
-5. melléklet a 61/2017. (XII. 21.) FM rendelethez[^66]
+5. melléklet a 61/2017. (XII. 21.) FM rendelethez[^67]
 
 Az erdőtervezési körzetek, valamint az erdőtervezési körzeteket alkotó helységek (név, erdészeti azonosító) listája az erdészeti hatóságként eljáró vármegyei kormányhivatalok illetékességi területe szerint
 
@@ -2738,6 +2738,4 @@ Az erdőtervezési körzetek, valamint az erdőtervezési körzeteket alkotó he
 
 5.3.2. Csurgónagymarton (6159)
 
-5.3.3. Gyékényes (6160)
-
-[^66]: Az 5. melléklet a 63/2020. (XII. 16.) AM rendelet 13. §-a és 15. §-a, a 23/2023. (V. 10.) AM rendelet 30. § c) és d) pontja szerint módosított szöveg.
+[^67]: Az 5. melléklet a 63/2020. (XII. 16.) AM rendelet 13. §-a és 15. §-a, a 23/2023. (V. 10.) AM rendelet 30. § c) és d) pontja szerint módosított szöveg.
