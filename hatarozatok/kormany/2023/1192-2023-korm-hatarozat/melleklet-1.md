@@ -1,0 +1,59 @@
+## 1. A Kormány felhívja a 2023-ban Budapesten megrendezendő atlétikai világbajnokság megrendezésével kapcsolatos összkormányzati feladatok koordinációjának ellátásáért felelős kormánybiztost, hogy a Budapest 2023 Atlétikai Világbajnokság Szervező Nonprofit Zártkörűen Működő Részvénytársaság közreműködésével jelölje ki a 2023. évi IAAF Atlétikai Világbajnokság idejére – a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet 36. § (8) bekezdés b) pont bf) alpontja alapján – az autóbusz-forgalmi sáv használatára jogosult járműveket, és adja ki részükre az 1. melléklet szerinti igazolást és megjelölésre szolgáló jelzést.
+
+| Felelős: | 2023-ban Budapesten megrendezendő atlétikai világbajnokság megrendezésével kapcsolatos összkormányzati feladatok koordinációjának ellátásáért felelős kormánybiztos |
+
+| Határidő: | 2023. augusztus 10. és 30. között folyamatosan |
+
+## 2. Az 1. pont szerinti jelzést, annak a járművön történő rögzítési módját, valamint a jelzés használatára jogosító igazolás tartalmát és a használat ellenőrzését az 1. melléklet tartalmazza.
+
+1. melléklet az 1192/2023. (V. 15.) Korm. határozathoz
+
+A 2023. évi IAAF Atlétikai Világbajnokság járműveinek megjelölésére szolgáló jelzés, annak a járművön történő rögzítési módja, a jelzés viselésére jogosító igazolás tartalma és használatának ellenőrzése
+
+1. A kijelölt járművek megjelölésére szolgáló jelzést az 1. ábra tartalmazza.
+
+1.1. Kivitel: öntapadó matrica
+
+1.2. Elhelyezés: a jármű elején és a hátulján
+
+1.3. Ha a jármű első vagy hátsó szélvédőjén helyezik el:
+
+Méretek: szélesség: 10 cm
+
+magasság: 10 cm
+
+1.4. Ha a jármű egyéb részén helyezik el:
+
+Méretek: szélesség: 30 cm
+
+magasság: 20 cm
+
+2. Az 1. pontban meghatározott jelzést a jármű első és hátsó részén úgy kell elhelyezni, hogy megfeleljen a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KöHÉM rendelet 97. §-a rendelkezéseinek.
+
+3. Az 1. pontban meghatározott jelzés járműre történő felhelyezésére jogosító igazolás tartalma:
+
+„Az autóbusz-forgalmi sáv használatára jogosító igazolás”
+
+3.1. Járműadatok:
+
+a) rendszám:
+
+b) gyártmány:
+
+c) típus:
+
+3.2. A forgalmi engedély száma:
+
+3.3. Az igazolás kiállításának kelte:
+
+3.4. A kiállító aláírása:
+
+3.5. A kiállító bélyegzőjének helye:
+
+3.6. Az igazolás érvényessége (év, hónap, nap):
+
+3.7. Az 1. pontban meghatározott jelzés színes lenyomata:
+
+4. Az igazolás használatának ellenőrzése:
+
+Az igazolás és az 1. pontban meghatározott jelzés használatát a közúti közlekedésről szóló 1988. évi I. törvény 44. § (2) bekezdése szerint a rendőrség ellenőrzi.
