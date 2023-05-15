@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-38-20-2
 | 2020-03-01 | 2014-38-20-22.14 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2021-01-01 | 2014-38-20-22.15 | 121/2014. (IV. 8.) Korm. rendelet |
 | 2023-01-01 | 2014-38-20-22.16 | 70/2015. (III. 30.) Korm. rendelet |
+| 2023-05-15 | 2014-38-20-22.17 | 341/2016. (XI. 17.) Korm. rendelet |
