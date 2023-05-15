@@ -34,7 +34,7 @@ b) pozitív vagy másodszor is kétes, és a reakció feltehetően nem specifiku
 
 11. szarvasmarha: a szarvasmarha, a házi bivaly, az amerikai és az európai bölény fajokhoz tartozó állatok, valamint ezek keresztezései;
 
-12. szarvasmarha gümőkór: az MTBC fajai közül a Mycobacterium bovis és a Mycobacterium caprae (Mycobacterium bovis subsp. caprae) okozta megbetegedés;
+12.[^1] szarvasmarha gümőkór: a Mycobacterium tuberculosis komplex (MTBC) fajaival – a Mycobacterium bovis, a Mycobacterium caprae (Mycobacterium bovis subsp. caprae) és a Mycobacterium tuberculosis – való fertőzöttség;
 
 13. szarvasmarha gümőkór új esete: a szarvasmarha gümőkórral fertőzött élő, elhullott vagy levágott egyed;
 
@@ -77,3 +77,5 @@ b) szarvasmarha gümőkórtól hivatalosan nem mentes ország, vagy régió szar
 20. szarvasmarha gümőkórtól hivatalosan mentes szarvasmarha-állomány: az e rendelet szerint hivatalosan gümőkórmentessé minősített állomány;
 
 21. tartási hely: a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló jogszabály szerinti fogalom.
+
+[^1]: A 2. § 12. pontja a 23/2023. (V. 10.) AM rendelet 31. § (1) bekezdésével megállapított szöveg.

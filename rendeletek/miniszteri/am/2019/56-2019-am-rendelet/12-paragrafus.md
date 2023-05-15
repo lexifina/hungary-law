@@ -2,11 +2,11 @@
 
 12. § (1) A NÉBIH rendszeresen, de legalább ötévente köteles a minősítő és ellenőrző vizsgálatok végrehajtásával kapcsolatban elméleti hatósági képzést tartani.
 
-(2)[^4] A vármegyei kormányhivatal gyakorlati képzést tart azok részére, akik az (1) bekezdés szerinti képzést követően sikeres vizsgát tettek.
+(2)[^6] A vármegyei kormányhivatal gyakorlati képzést tart azok részére, akik az (1) bekezdés szerinti képzést követően sikeres vizsgát tettek.
 
 (3) A gyakorlati képzés csoportos vizsgálat keretében történik vezető állatorvos részvételével és irányításával.
 
-(4)[^5] A (3) bekezdés szerinti csoport vezetésével olyan állatorvos bízható meg, aki
+(4)[^7] A (3) bekezdés szerinti csoport vezetésével olyan állatorvos bízható meg, aki
 
 a) a szarvasmarha gümőkór vonatkozásában legalább ötéves járványügyi igazgatási gyakorlattal és
 
@@ -22,5 +22,5 @@ rendelkezik, amelyet a vármegyei kormányhivatal igazol.
 
 (8) Az állatorvos visszakapja az intradermális tuberkulin vizsgálat végrehajtásra vonatkozó jogosultságát, ha a visszavonástól számítva legalább öt év eltelt, és az állatorvos eredményes vizsgát tett.
 
-[^4]: A 12. § (2) bekezdése a 23/2023. (V. 10.) AM rendelet 32. § c) pontja szerint módosított szöveg.
-[^5]: A 12. § (4) bekezdés záró szövegrésze a 23/2023. (V. 10.) AM rendelet 32. § c) pontja szerint módosított szöveg.
+[^6]: A 12. § (2) bekezdése a 23/2023. (V. 10.) AM rendelet 32. § c) pontja szerint módosított szöveg.
+[^7]: A 12. § (4) bekezdés záró szövegrésze a 23/2023. (V. 10.) AM rendelet 32. § c) pontja szerint módosított szöveg.

@@ -6,7 +6,7 @@ a) az állományra forgalmi korlátozást kell elrendelni, vagy
 
 b) ha az a fertőzöttség gyanúja miatt még nem került elrendelésre, az állomány szarvasmarha gümőkórtól hivatalosan mentes minősítését vissza kell vonni.
 
-(2)[^9] Ha az (1) bekezdés szerinti új eset kapcsán folytatott járványügyi nyomozás alapján a járási hivatal illetékességi területén kívüli állományok forgalmi korlátozás alá vonása és vizsgálata is szükséges, a járási hivatal erről haladéktalanul értesíti a vármegyei kormányhivatalt.
+(2)[^13] Ha az (1) bekezdés szerinti új eset kapcsán folytatott járványügyi nyomozás alapján a járási hivatal illetékességi területén kívüli állományok forgalmi korlátozás alá vonása és vizsgálata is szükséges, a járási hivatal erről haladéktalanul értesíti a vármegyei kormányhivatalt.
 
 (3) Az állattartót az (1) bekezdésben meghatározott esetekben kötelezni kell
 
@@ -16,4 +16,4 @@ b) az istállóból és egyéb tartási helyekről származó trágya oly módon
 
 (4) A járási hivatal a befertőződött állománnyal összefüggésbe hozható vadászterületen élő betegségre fogékony vadon élő állatok diagnosztikai célú kilövését rendelheti el állami kártalanítás mellett.
 
-[^9]: A 20. § (2) bekezdése a 23/2023. (V. 10.) AM rendelet 32. § c) pontja szerint módosított szöveg.
+[^13]: A 20. § (2) bekezdése a 23/2023. (V. 10.) AM rendelet 32. § c) pontja szerint módosított szöveg.

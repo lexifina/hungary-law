@@ -6,6 +6,14 @@ b) egy vagy több egyed szarvasmarha gümőkóros fertőzöttségre gyanúsnak m
 
 c) egy vagy több nem tisztázott státuszú egyedet találtak az állományban.
 
+(1a)[^2] Ha az állomány szarvasmarha gümőkórtól hivatalosan mentes minősítésének felfüggesztésére
+
+a) a 4. § (2) bekezdés c) pontja szerint ellenőrző vizsgálatok elmaradása miatt kerül sor, a felfüggesztés legfeljebb két hónapra, vagy
+
+b) egyéb okból kerül sor, a felfüggesztés legfeljebb nyolc hónapra
+
+rendelhető el.
+
 (2) Ha az állományban élő valamely szarvasmarha a 2. § 14. pont a) vagy bb) alpontja szerint szarvasmarha gümőkóros fertőzöttségre gyanúsnak minősül, azt az állományból el kell távolítani, és diagnosztikai célból elkülönített vágásra kell küldeni.
 
 (3) A vágást követő húsvizsgálat során az 1. mellékletben meghatározott minták levételre és az NRL-be beküldésre kerülnek. Amíg a laboratóriumi vizsgálatok negatív eredménnyel be nem fejeződnek, a forgalmi korlátozás fennmarad, és az állomány minősítése felfüggesztett marad.
@@ -31,3 +39,5 @@ c) a járványügyi nyomozás valószínűsíti a fertőzés meglétét, vagy
 d) bármilyen egyéb járványügyi körülmény miatt indokolt a hivatalosan mentes minősítés visszavonása.
 
 (10) Az állomány szarvasmarha gümőkórtól hivatalosan mentes minősítése addig nem állítható helyre, amíg a takarítás és fertőtlenítés nem történt meg, és valamennyi hathetesnél idősebb állat két egymást követő intradermális tuberkulin próbában nem adott negatív eredményt. Az első próbát a pozitívan reagáló egyed eltávolítását követően leghamarabb hatvan nap, a másodikat leghamarabb négy hónap, de legkésőbb tizenkét hónap elteltével kell végrehajtani.
+
+[^2]: Az 5. § (1a) bekezdését a 23/2023. (V. 10.) AM rendelet 31. § (2) bekezdése iktatta be.

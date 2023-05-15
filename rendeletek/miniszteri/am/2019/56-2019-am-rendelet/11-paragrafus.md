@@ -12,6 +12,6 @@ b) kislétszámú állományok esetében a tartási helyek, a tenyészetek és a
 
 (5) Amennyiben nem történt meg a szarvasmarha-állomány ellenőrző vizsgálata, akkor az intradermális tuberkulin vizsgálatot a járási hivatal által kijelölt hatósági állatorvos végzi.
 
-(6)[^3] A minősítő és ellenőrző vizsgálatokon felül az országos főállatorvos a rendes vágás során levágott szarvasmarhákból származó minták bakteriológiai vizsgálatán alapuló országos vagy egyes vármegyékre kiterjedő monitoring programot is elrendelhet.
+(6)[^5] A minősítő és ellenőrző vizsgálatokon felül az országos főállatorvos a rendes vágás során levágott szarvasmarhákból származó minták bakteriológiai vizsgálatán alapuló országos vagy egyes vármegyékre kiterjedő monitoring programot is elrendelhet.
 
-[^3]: A 11. § (6) bekezdése a 23/2023. (V. 10.) AM rendelet 32. § b) pontja szerint módosított szöveg.
+[^5]: A 11. § (6) bekezdése a 23/2023. (V. 10.) AM rendelet 32. § b) pontja szerint módosított szöveg.
