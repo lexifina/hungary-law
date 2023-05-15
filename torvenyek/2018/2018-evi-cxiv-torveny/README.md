@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2018-114-00-00
 | 2022-11-01 | 2022. évi VII. törvény | 2018-114-00-00.14 |
 | 2022-12-20 | 2022. évi LXIII. törvény | 2018-114-00-00.15 |
 | 2023-01-01 | 2022. évi LXXIV. törvény | 2018-114-00-00.16 |
+| 2023-05-15 | 2023. évi IX. törvény | 2018-114-00-00.17 |
