@@ -54,13 +54,13 @@
 
 ## 14. A próbaszedésekről és a tollazásokról (az állomány azonosítójáról, a tollazás idejéről, a tollazott állatok számáról) az állattartónak nyilvántartást kell vezetnie, amelyet legalább öt évig meg kell őrizni.
 
-6. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^98]
+6. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^100]
 
 Az érzéstelenítés nélkül végezhető beavatkozásokat csak állatorvos vagy állatorvos irányításával és felügyeletével cselekvő, megfelelő állategészségügyi ismerettel és gyakorlati tapasztalattal rendelkező személy végezheti. Minden lehetséges módon csökkenteni kell az elkerülhetetlen fájdalom hatását.
 
 A mezőgazdasági haszonállatokon érzéstelenítés nélkül végezhető beavatkozások
 
-1.[^99] Ló, szamár, öszvér esetében:
+1.[^101] Ló, szamár, öszvér esetében:
 
 vérvétel, fogreszelés, szondázás, rektális vizsgálat, vakbél szúrcsapolás, vértelen szülészeti segítségnyújtás, egyedi jelölés.
 
@@ -68,7 +68,7 @@ vérvétel, fogreszelés, szondázás, rektális vizsgálat, vakbél szúrcsapol
 
 vérvétel, szondázás, szarvtalanítás napos korban vértelen úton, fattyúcsecsbimbó eltávolítás napos korban, bendőmágnes-behelyezés, tályogmegnyitás, krotáliázás, bendő szúrcsapolás, vértelen szülészeti segítségnyújtás.
 
-2.1.[^100] Magyar szürke szarvasmarha esetében a 2. pontban foglaltakon túl megengedett még:
+2.1.[^102] Magyar szürke szarvasmarha esetében a 2. pontban foglaltakon túl megengedett még:
 
 1 éves kor alatti vértelen ivartalanítás, azonosítás célját szolgáló bőrbesütés, tetoválás, orrkarika behelyezés, szarvgombok felhelyezése.
 
@@ -76,7 +76,7 @@ vérvétel, szondázás, szarvtalanítás napos korban vértelen úton, fattyúc
 
 vérvétel, bendő szúrcsapolás, krotáliázás, tetoválás, tályogmegnyitás, vértelen szülészeti segítségnyújtás, castratio, szondázás, napos korban farokcsonkítás (vagy gumigyűrű igénybevételével, 8 napos korig).
 
-4.[^101] Sertés esetében a 4.1. pontban felsoroltak kivételével tilos minden olyan nem állatgyógyászati vagy diagnosztikai célokat szolgáló, illetve nem egyéb jogszabályban leírt és a sertések azonosítását célzó eljárás alkalmazása, amely az állat csontozatában vagy testének valamely érzékeny részében kárt okoz.
+4.[^103] Sertés esetében a 4.1. pontban felsoroltak kivételével tilos minden olyan nem állatgyógyászati vagy diagnosztikai célokat szolgáló, illetve nem egyéb jogszabályban leírt és a sertések azonosítását célzó eljárás alkalmazása, amely az állat csontozatában vagy testének valamely érzékeny részében kárt okoz.
 
 4.1. Sertés esetében megengedett:
 
@@ -102,31 +102,31 @@ vérvétel, bendő szúrcsapolás, krotáliázás, tetoválás, tályogmegnyitá
 
 – vértelen szülészeti segítségnyújtás.
 
-4.2.[^102]
+4.2.[^104]
 
-5.[^103] Baromfi esetében:
+5.[^105] Baromfi esetében:
 
 vérvétel, szárnyszámozás (szárnykrotáliázás), szárnykurtítás napos korban, elektromos csőrkurtítás napos korban, úszóhártya-bemetszés napos korban, kakassarkantyúlecsípés napos korban, barbarie kacsa karomvágása és csőrkurtítása kéthetes korig, tetoválás.
 
-6.[^104] Strucc és emu esetében:
+6.[^106] Strucc és emu esetében:
 
 vérvétel, krotáliázás.
 
-7.[^105] Nyúl esetében:
+7.[^107] Nyúl esetében:
 
 Fülszámozás (fülkrotáliázás), fültetoválás.
 
-8.[^106] Csincsilla esetében: krotáliázás, fültetoválás.
+8.[^108] Csincsilla esetében: krotáliázás, fültetoválás.
 
-9.[^107]
+9.[^109]
 
-[^98]: A 6. számú melléklet bevezető szövegrészét a 20/2002. (III. 14.) FVM rendelet 16. § (2) bekezdése iktatta be, szövege a 178/2009. (XII. 29.) FVM rndelet 10. § (5) bekezdésével megállapított szöveg.
-[^99]: A 6. számú melléklet 1. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdésével megállapított szöveg.
-[^100]: A 6. számú melléklet 2.1. pontját a 72/2004. (IV. 29.) FVM rendelet 2. §-a iktatta a szövegbe.
-[^101]: A 6. számú melléklet 4. pontja a 20/2002. (III. 14.) FVM rendelet 16. §-ának (2) bekezdésével megállapított szöveg.
-[^102]: A 6. számú melléklet 4.2. pontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés d) pontja hatályon kívül helyezte.
-[^103]: A 6. számú melléklet 5. pontja a 72/2004. (IV. 29.) FVM rendelet 2. §-ával megállapított, a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés j) pontja szerint módosított szöveg.
-[^104]: A 6. számú melléklet 6. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdésével megállapított szöveg.
-[^105]: A 6. számú melléklet 7. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be.
-[^106]: A 6. számú melléklet 8. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be.
-[^107]: A 6. számú melléklet 9. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be, hatályon kívül helyezte az 58/2020. (XI. 24.) AM rendelet 2. § a) pontja.
+[^100]: A 6. számú melléklet bevezető szövegrészét a 20/2002. (III. 14.) FVM rendelet 16. § (2) bekezdése iktatta be, szövege a 178/2009. (XII. 29.) FVM rndelet 10. § (5) bekezdésével megállapított szöveg.
+[^101]: A 6. számú melléklet 1. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^102]: A 6. számú melléklet 2.1. pontját a 72/2004. (IV. 29.) FVM rendelet 2. §-a iktatta a szövegbe.
+[^103]: A 6. számú melléklet 4. pontja a 20/2002. (III. 14.) FVM rendelet 16. §-ának (2) bekezdésével megállapított szöveg.
+[^104]: A 6. számú melléklet 4.2. pontját a 178/2009. (XII. 29.) FVM rendelet 11. § (3) bekezdés d) pontja hatályon kívül helyezte.
+[^105]: A 6. számú melléklet 5. pontja a 72/2004. (IV. 29.) FVM rendelet 2. §-ával megállapított, a 178/2009. (XII. 29.) FVM rendelet 11. § (6) bekezdés j) pontja szerint módosított szöveg.
+[^106]: A 6. számú melléklet 6. pontja a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdésével megállapított szöveg.
+[^107]: A 6. számú melléklet 7. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be.
+[^108]: A 6. számú melléklet 8. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be.
+[^109]: A 6. számú melléklet 9. pontját a 178/2009. (XII. 29.) FVM rendelet 10. § (5) bekezdése iktatta be, hatályon kívül helyezte az 58/2020. (XI. 24.) AM rendelet 2. § a) pontja.

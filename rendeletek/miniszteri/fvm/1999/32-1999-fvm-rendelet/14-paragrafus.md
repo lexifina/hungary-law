@@ -1,4 +1,4 @@
-14. §[^40] (1) A borjak tartására vonatkozó szabályokat az 1. számú melléklet tartalmazza.
+14. §[^41] (1) A borjak tartására vonatkozó szabályokat az 1. számú melléklet tartalmazza.
 
 (2) A sertések tartására vonatkozó szabályokat a 2. számú melléklet tartalmazza.
 
@@ -20,4 +20,4 @@
 
 (11) A vízi szárnyasok tartásának minimális követelményeire vonatkozó szabályokat a 12. számú melléklet tartalmazza.
 
-[^40]: A 14. § a 2/2014. (VIII. 29.) FM rendelet 1. §-ával megállapított szöveg.
+[^41]: A 14. § a 2/2014. (VIII. 29.) FM rendelet 1. §-ával megállapított szöveg.

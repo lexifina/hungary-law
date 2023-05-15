@@ -14,7 +14,7 @@
 
 | 3.4. Név és aláírás | 3.5. Bélyegző |
 
-12. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^129]
+12. számú melléklet a 32/1999. (III. 31.) FVM rendelethez[^133]
 
 A vízi szárnyasok tartásának minimális követelményei
 
@@ -30,4 +30,4 @@ b) lehetővé kell tenni az állatok számára, hogy a fejüket teljes egészéb
 
 c) olyan alternatív technológiát kell alkalmazni, amely lehetővé teszi az állatok számára, hogy a testüket benedvesítsék.
 
-[^129]: A 12. számú mellékletet a 2/2014. (VIII. 29.) FM rendelet 4. §-a iktatta be.
+[^133]: A 12. számú mellékletet a 2/2014. (VIII. 29.) FM rendelet 4. §-a iktatta be.
