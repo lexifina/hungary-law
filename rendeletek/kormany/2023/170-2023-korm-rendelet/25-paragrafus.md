@@ -1,0 +1,3 @@
+25. § A 474/2013. (XII. 12.) Korm. rendelet 11. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A jegyző az (5) bekezdésben meghatározott tartalmú iratjegyzékkel együtt a haszonbérleti szerződést és az előhaszonbérletre jogosultak jognyilatkozatait, az előhaszonbérleti jogosultságot bizonyító okiratokat, továbbá a működtető szervezet által a közzététel időpontjáról és tartalmáról, valamint a levétel időpontjáról megküldött automatikus igazolást a Földforgalmi tv. 50. § (1) bekezdésében meghatározott határidőben, az ott meghatározottak részére megküldi. Az iratoknak a mezőgazdasági igazgatási szerv részére történő megküldése esetén a jegyző az irattovábbítás tényéről – azzal egyidejűleg – értesíti a kérelmező haszonbérbeadót.”

@@ -1,0 +1,11 @@
+## 2. A Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.) Korm. rendelet módosítása
+
+5. § (1) A Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.) Korm. rendelet [a továbbiakban: 262/2010. (XI. 17.) Korm. rendelet] 29. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az Evt. szerint erdőnek minősülő és az Evt. 8. § (1), illetve (4) bekezdésének hatálya alá tartozó alrészletet is tartalmazó földnek a hirdetményben megjelölt, ezen alrészletet nem érintő részére is lehet árverést folytatni. A földrészlet megosztását ebben az esetben az eredményes árverést követően az NFK kezdeményezi, megelőlegezve az eljárás költségeit. Az adásvételi szerződés megkötésére a megosztást és az eljárás költségeinek a nyertes árverező által az NFK részére történő megtérítését követően kerülhet sor.”
+
+(2) A 262/2010. (XI. 17.) Korm. rendelet 29. §-a a következő (10) és (11) bekezdéssel egészül ki:
+
+„(10) Ha az állam javára bejegyzett visszavásárlási joggal, valamint elidegenítési és terhelési tilalommal terhelt földet – ideértve a tanyát is – az agrárgazdaságok átadásáról szóló 2021. évi CXLIII. törvény (a továbbiakban: 2021. évi CXLIII. törvény) szerinti gazdaságátadás érinti, az NFK hozzájárul a 2021. évi CXLIII. törvény 3. § (2) bekezdésében meghatározott gazdaságátadási szerződés megkötéséhez, valamint a gazdaságátvevő tulajdonjogának ingatlan-nyilvántartásba történő bejegyzéséhez, azzal, hogy az állam javára bejegyzett visszavásárlási jog és az annak biztosítására feljegyzett elidegenítési és terhelési tilalom változatlan feltételek mellett továbbra is fennáll.
+
+(11) Az elidegenítési és terhelési tilalomból eredő jogosultsága folytán az NFK – az állam javára szóló visszavásárlási jog, valamint az elidegenítési és terhelési tilalom fenntartása mellett – az állami vagyonnal való felelős gazdálkodás követelményei szerint, valamint a földügyi birtokpolitika elveire tekintettel hozzájárulhat az árverésen értékesítésre került földrészletnek a vevő részéről a földművesnek minősülő közeli hozzátartozója részére történő ajándékozásához, feltéve, hogy az ajándékozáshoz a jelzálogjoggal rendelkező pénzügyi intézmény is hozzájárul.”
