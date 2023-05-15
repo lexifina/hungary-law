@@ -1,9 +1,1 @@
-14. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 33. § (6) és (7) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(6) A (2) bekezdés szerinti juttatásra, illetve a szülési szabadságra jogosult kihelyezett, valamint a külképviselet által foglalkoztatott házastárs
-
-a) az Ebtv. 43. § (1) bekezdése szerinti táppénzre nem jogosult,
-
-b) az Ebtv. 40. § (1) bekezdése szerinti csecsemőgondozási díjra vagy az Ebtv. 42/H. § (1) bekezdése szerinti örökbefogadói díjra jogosult, azonban az ellátás a tartós külszolgálat ideje alatt vagy külképviselet által foglalkoztatott házastárs esetében a külképviselettel fennálló munkaviszonya ideje alatt nem folyósítható.
-
-(7) A kihelyezett, valamint a külképviselet által foglalkoztatott házastárs üzemi balesete vagy foglalkozási megbetegedés esetén a kihelyezettet devizailletménye, valamint a külképviselet által foglalkoztatott házastársat a munkabére 100%-a, úti baleset esetén a kihelyezettet devizailletménye, valamint a külképviselet által foglalkoztatott házastársat a munkabére 90%-a illeti meg a keresőképtelenség időtartamára, de legfeljebb 90 napig. A 90. napot követően a kihelyezettet, valamint a külképviselet által foglalkoztatott házastársat – ha egészségügyi állapota engedi – további gyógykezelésre haza kell szállítani. A 90. napot meghaladó – további legfeljebb 90 nap – időtartamra a kihelyezett a devizailletményének, a külképviselet által foglalkoztatott házastárs a munkabérének 30%-ára jogosult függetlenül a tartózkodás helyétől. Az Ebtv. szerinti baleseti táppénzre a kihelyezett a tartós külszolgálat ideje, valamint a külképviselet által foglalkoztatott házastárs a külképviselettel fennálló munkaviszonya alatt nem jogosult. Ha a folyósítás ideje alatt megszűnik a kihelyezett tartós külszolgálata vagy kormányzati szolgálati jogviszonya, valamint a külképviselet által foglalkoztatott házastárs külképviselettel fennálló munkaviszonya, akkor a baleseti táppénz az Ebtv. 55. § (3) bekezdése szerinti fennmaradó jogosultsági időre folyósítható.”
+### 14. §

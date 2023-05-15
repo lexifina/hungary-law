@@ -1,3 +1,1 @@
-11. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 26. § (1a) bekezdése helyébe a következő rendelkezés lép:
-
-„(1a) Ha az állomáshely szerinti országban a bankrendszer állapota az utalás biztonságát veszélyezteti, illetve egyéb ok miatt banki átutalásra nincsen lehetőség, a kifizetés pénzforgalmi számláról történő készpénzkifizetés útján a külképviseleten történik euróban vagy USA-dollárban attól függően, hogy a külképviselet részére melyik valuta használata engedélyezett. A készpénzben kifizetésre kerülő díjazás euróra vagy USA-dollárra történő átváltása a bérszámfejtés hónapját megelőző hónap 15. napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon történik.”
+### 11. §
