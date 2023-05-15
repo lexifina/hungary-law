@@ -1,4 +1,4 @@
-11. számú melléklet a 128/2009. (X. 6.) FVM rendelethez[^414]
+11. számú melléklet a 128/2009. (X. 6.) FVM rendelethez[^419]
 
 Ápolószerek rendeltetés szerint besorolása
 
@@ -36,4 +36,4 @@
 
 17. Tőgyápolószerek
 
-[^414]: A 11. számú mellékletet a 33/2010. (IV. 7.) FVM rendelet 10. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^419]: A 11. számú mellékletet a 33/2010. (IV. 7.) FVM rendelet 10. §-a iktatta be. Alkalmazására lásd e módosító rendelet 14–15. §-át.

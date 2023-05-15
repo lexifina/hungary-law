@@ -1,6 +1,6 @@
 ## Állati vérkészítmények forgalmazása
 
-21/D. § (1)[^83] Állati vérkészítményt csak a NÉBIH engedélyével lehet forgalomba hozni. Az engedélykérelem a (2) bekezdésben meghatározott készítménytípusok előállítására nyújtható be.
+21/D. § (1)[^84] Állati vérkészítményt csak a NÉBIH engedélyével lehet forgalomba hozni. Az engedélykérelem a (2) bekezdésben meghatározott készítménytípusok előállítására nyújtható be.
 
 (2) A forgalomba hozható állati vérkészítmények típusai:
 
@@ -20,9 +20,9 @@ g) krioprecipitátum,
 
 h) vérszérum.
 
-(3)[^84]
+(3)[^85]
 
-(4)[^85] Állati vérkészítmény csak a NÉBIH által jóváhagyott, magyar nyelvű címkével hozható forgalomba. A címkén olvashatóan fel kell tüntetni:
+(4)[^86] Állati vérkészítmény csak a NÉBIH által jóváhagyott, magyar nyelvű címkével hozható forgalomba. A címkén olvashatóan fel kell tüntetni:
 
 a) a vérkészítmény megnevezését,
 
@@ -56,6 +56,6 @@ n) „A vérkészítmény nem osztható, a fel nem használt maradék megsemmis�
 
 (6) A terápiás célra nem alkalmas vagy a lejárati ideig fel nem használt állati vérkészítményeket a vérdepóban elkülönítetten kell tárolni, és azokat az 1774/2002/EK rendelet előírásai szerint rendszeresen meg kell semmisíteni.
 
-[^83]: A 21/D. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 2. pontja szerint módosított szöveg.
-[^84]: A 21/D. § (3) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^85]: A 21/D. § (4) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^84]: A 21/D. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 2. pontja szerint módosított szöveg.
+[^85]: A 21/D. § (3) bekezdését a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^86]: A 21/D. § (4) bekezdés nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.

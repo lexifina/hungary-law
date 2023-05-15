@@ -1,3 +1,3 @@
-38. §[^114]
+38. §[^115]
 
-[^114]: A 38. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 6. pontja hatályon kívül helyezte.
+[^115]: A 38. §-t a 27/2021. (VIII. 11.) AM rendelet 38. § (2) bekezdés 6. pontja hatályon kívül helyezte.

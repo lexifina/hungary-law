@@ -20,7 +20,7 @@
 
 ## A kérelmező benyújtja azoknak az országoknak a nevét, ahol az engedélyt megadták, az SPC példányait a tagállamok által jóváhagyott formában, valamint azoknak az országoknak a listáját, ahová a kérelmet már beadták.
 
-## B.[^386] Termékjellemzők összefoglalója, címkézés és használati utasítás
+## B.[^391] Termékjellemzők összefoglalója, címkézés és használati utasítás
 
 ## A kérelmező a 16. § szerint javaslatot terjeszt elő a készítmény jellemzőinek összefoglalásáról.
 
@@ -34,7 +34,7 @@
 
 ## A részletes és kritikai összefoglalókat alá kell írni és keltezéssel kell ellátni, továbbá csatolni kell a szerző iskolai végzettségére, képesítése és szakmai gyakorlatára vonatkozó tájékoztatást. Nyilatkozni kell a szerző és a kérelmező között fennálló szakmai viszonyról.
 
-## 2. RÉSZ[^387]
+## 2. RÉSZ[^392]
 
 ## AZ IMMUNOLÓGIAI ÁLLATGYÓGYÁSZATI KÉSZÍTMÉNYEK ANALITIKAI
 
@@ -102,13 +102,13 @@
 
 ## e) a gyártás azon szakaszainak meghatározása, amelyek során gyártásközi ellenőrzés céljából mintákat vesznek.
 
-## C.[^388] A kiindulási anyagok előállítása és ellenőrzése
+## C.[^393] A kiindulási anyagok előállítása és ellenőrzése
 
 ## E szakasz alkalmazásában a kiindulási anyag az immunológiai állatgyógyászati készítmény előállítása során használt összes összetevő. A hatóanyag előállítására használt táptalajokat egyetlen kiindulási anyagnak kell tekinteni. Mindazonáltal bármely táptalaj minőségi és mennyiségi összetételét ismertetni kell, ha a NÉBIH úgy véli, hogy ez az információ releváns a késztermék minősége és az esetlegesen felmerülő kockázatok tekintetében. Ha e táptalajok elkészítéséhez állati eredetű anyagokat használnak, fel kell tüntetni az állatfajokat és a felhasznált szövetet.
 
 ## A 12. § (5) bekezdésének i) és j) pontja, valamint a 14–15. § szerint a forgalomba hozatali engedély iránti kérelemhez csatolt részletes adatoknak és dokumentumoknak tartalmaznia kell az összes felhasznált összetevő minőség- ellenőrzésével kapcsolatos vizsgálatok eredményét, amelyeket a következő rendelkezéseknek megfelelően kell beadni.
 
-## 1.[^389] A gyógyszerkönyvben szereplő kiindulási anyagok
+## 1.[^394] A gyógyszerkönyvben szereplő kiindulási anyagok
 
 ## Az Európai Gyógyszerkönyv monográfiái alkalmazandók az abban szereplő összes anyagra.
 
@@ -134,7 +134,7 @@
 
 ## 2. A gyógyszerkönyvben nem szereplő kiindulási anyagok
 
-## 2.1.[^390] Biológiai eredetű kiindulási anyagok
+## 2.1.[^395] Biológiai eredetű kiindulási anyagok
 
 ## A leírást monográfia formájában kell elkészíteni.
 
@@ -192,7 +192,7 @@
 
 ## Ezek a vizsgálatok megfelelő esetben az átlagos tömeg és az ettől való legnagyobb eltérés ellenőrzéséből, mechanikai, fizikai, kémiai vagy mikrobiológiai vizsgálatokból és fizikai jellemzők, mint sűrűség, pH, refrakciós index stb. vizsgálatából állnak. A kérelmezőnek minden egyes esetben minden ilyen jellemzőre meg kell adnia a specifikációt, valamint a konfidenciaszinteket.
 
-## 2.[^391] A hatóanyag(ok) ellenőrzése
+## 2.[^396] A hatóanyag(ok) ellenőrzése
 
 ## A késztermék elemzésére használt vizsgálati módszert minden vizsgálat esetén kellően részletesen kell leírni, hogy könnyen meg lehessen ismételni.
 
@@ -410,7 +410,7 @@
 
 ## 1. Az antigének vagy vakcinatörzs megválasztását járványügyi adatokkal kell igazolni.
 
-## 2.[^392] A laboratóriumi körülmények között végzett hatékonysági vizsgálatok olyan ellenőrzött vizsgálatok, amelyek kezeletlen kontrollállatokra is kiterjednek, kivéve, ha ez állatjólléti okok miatt nem indokolt, a hatékonyság pedig másként is bizonyítható.
+## 2.[^397] A laboratóriumi körülmények között végzett hatékonysági vizsgálatok olyan ellenőrzött vizsgálatok, amelyek kezeletlen kontrollállatokra is kiterjednek, kivéve, ha ez állatjólléti okok miatt nem indokolt, a hatékonyság pedig másként is bizonyítható.
 
 ## Ezeket a laboratóriumi vizsgálatokat rendszerint a terepkísérlet feltételei mellett végzett, kezeletlen kontrollállatokra is kiterjedő vizsgálatokkal kell alátámasztani. Az összes vizsgálatot kellően részletesen kell leírni ahhoz, hogy a NÉBIH kérésére ellenőrzött kipróbálásban meg lehessen ismételni. A kísérletet végzőnek igazolnia kell az alkalmazott technikák érvényességét. Az összes eredményt a lehető legpontosabban kell bemutatni.
 
@@ -466,7 +466,7 @@
 
 ## 4. a kontrollállatoknál, hogy kaptak-e placebokezelést, vagy nem,
 
-## 5.[^393] a kezelt állatok tekintetében adott esetben annak megállapítása, hogy a vizsgált terméket vagy más, az Európai Unióban engedélyezett terméket kapták-e,
+## 5.[^398] a kezelt állatok tekintetében adott esetben annak megállapítása, hogy a vizsgált terméket vagy más, az Európai Unióban engedélyezett terméket kapták-e,
 
 ## 6. az összes kapott egyedi vagy általános megfigyelés és eredmény (átlagokkal és szórással), akár előnyös, akár nem, ehhez:
 
@@ -562,7 +562,7 @@ A 14–15. §-sal összhangban, amennyiben egy, a biológiai állatgyógyászati
 
 a) A további adatok típusát és mennyiségét (azaz toxikológiai és más ártalmatlansági vizsgálatok és a megfelelő klinikai vizsgálatok) eseti alapon kell meghatározni a vonatkozó tudományos iránymutatásokkal összhangban.
 
-b)[^394] a biológiai állatgyógyászati készítmények sokfélesége miatt a NÉBIH határozza meg a 3. és 4. részben előírt, szükséges vizsgálatokat, figyelembe véve minden egyes biológiai állatgyógyászati készítmény egyedi jellemzőit.
+b)[^399] a biológiai állatgyógyászati készítmények sokfélesége miatt a NÉBIH határozza meg a 3. és 4. részben előírt, szükséges vizsgálatokat, figyelembe véve minden egyes biológiai állatgyógyászati készítmény egyedi jellemzőit.
 
 Az alkalmazandó általános elveket az Európai Gyógyszer Ügynökség által elfogadandó iránymutatás adja meg, amely figyelembe veszi az érintett biológiai állatgyógyászati készítmény jellemzőit. Ha a biológiai állatgyógyászati referenciakészítmény egynél több javallattal rendelkezik, akkor a hasonlónak állított biológiai állatgyógyászati készítmény hatékonyságát és ártalmatlanságát meg kell indokolni, vagy – szükség esetén – az egyes javallatok tekintetében külön-külön bizonyítani kell.
 
@@ -576,7 +576,7 @@ A 3. és 4. fejezetben részletes szakirodalmi jegyzéket kell közölni az árt
 
 A jól megalapozott állatgyógyászati alkalmazás alátámasztására a következő különleges szabályokat kell alkalmazni:
 
-3.1.[^395] Annak megállapítása során, hogy az állatgyógyászati készítmények összetevőinek jól megalapozott-e az állatgyógyászati alkalmazása, az alábbi tényezőket kell számításba venni:
+3.1.[^400] Annak megállapítása során, hogy az állatgyógyászati készítmények összetevőinek jól megalapozott-e az állatgyógyászati alkalmazása, az alábbi tényezőket kell számításba venni:
 
 a) mennyi ideig használták a hatóanyagot;
 
@@ -610,18 +610,18 @@ A forgalomba hozatali engedély megadásához bizonyos olyan egyedi kötelezetts
 
 Az e szakaszban említett valamennyi kérelemre vonatkozó alapvető követelményeket az Európai Gyógyszer Ügynökség által elfogadott iránymutatások szerint kell meghatározni.
 
-7.[^396] Vegyes forgalomba hozatali engedély iránti kérelmek
+7.[^401] Vegyes forgalomba hozatali engedély iránti kérelmek
 
 A vegyes forgalomba hozatali engedély iránti kérelmek alatt olyan kérelmek értendők, ahol a dokumentáció 3., illetve 4. része a kérelmező által végzett biztonságossági és hatékonysági vizsgálatokból és a szakirodalmi hivatkozásokból áll. Minden egyéb rész megfelel a 2. számú melléklet 1. részében ismertetett felépítésnek. A NÉBIH-nek eseti alapon kell elfogadnia a kérelmező által bemutatott, javasolt formátumot.
 
-[^386]: A 3. számú melléklet 1. rész B. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^387]: A 3. számú melléklet 2. része a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^388]: A 3. számú melléklet 2. rész C. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^389]: A 3. számú melléklet 2. rész C. pont 1. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 2. és 3. pontja szerint módosított szöveg.
-[^390]: A 3. számú melléklet 2. rész C. pont 2.1. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^391]: A 3. számú melléklet 2. rész E. pont 2. alpontja a 77/2013. (IX. 10.) VM rendelet 13. § 5. pontja szerint módosított szöveg.
-[^392]: A 3. számú melléklet 4. rész II. fejezet A. rész 2. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^393]: A 3. számú melléklet 5. RÉSZ B. cím 5. pontja a 27/2021. (VIII. 11.) AM rendelet 37. § 21. pontja szerint módosított szöveg.
-[^394]: A 4. számú melléklet 2. pont b) alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
-[^395]: A 4. számú melléklet 3. pont 3.1. alpontja a 27/2021. (VIII. 11.) AM rendelet 37. § 21. pontja szerint módosított szöveg.
-[^396]: A 4. számú melléklet 7. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 17. pontja szerint módosított szöveg.
+[^391]: A 3. számú melléklet 1. rész B. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^392]: A 3. számú melléklet 2. része a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^393]: A 3. számú melléklet 2. rész C. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^394]: A 3. számú melléklet 2. rész C. pont 1. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 2. és 3. pontja szerint módosított szöveg.
+[^395]: A 3. számú melléklet 2. rész C. pont 2.1. alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^396]: A 3. számú melléklet 2. rész E. pont 2. alpontja a 77/2013. (IX. 10.) VM rendelet 13. § 5. pontja szerint módosított szöveg.
+[^397]: A 3. számú melléklet 4. rész II. fejezet A. rész 2. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^398]: A 3. számú melléklet 5. RÉSZ B. cím 5. pontja a 27/2021. (VIII. 11.) AM rendelet 37. § 21. pontja szerint módosított szöveg.
+[^399]: A 4. számú melléklet 2. pont b) alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
+[^400]: A 4. számú melléklet 3. pont 3.1. alpontja a 27/2021. (VIII. 11.) AM rendelet 37. § 21. pontja szerint módosított szöveg.
+[^401]: A 4. számú melléklet 7. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 17. pontja szerint módosított szöveg.

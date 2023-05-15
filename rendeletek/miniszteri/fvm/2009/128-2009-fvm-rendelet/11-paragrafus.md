@@ -16,11 +16,12 @@ c) ezek hiányában közforgalmú gyógyszertárban állatorvosi vény alapján 
 
 (4)[^68] Azon homeopátiás állatgyógyászati készítmények esetében, amelyek hatóanyagaira a 470/2009/EK rendelet és a 37/2010/EU rendelet alapján nem szükséges MRL érték megállapítása, az élelmezés-egészségügyi várakozási idő nulla nap.
 
-(5) Amennyiben a felhasznált gyógyszeren nincs feltüntetve a kezelendő állatfajra vonatkozó élelmezés-egészségügyi várakozási idő, az állatorvos által előírt élelmezés-egészségügyi várakozási idő nem lehet kevesebb, mint tojás és tej esetében 7 nap, baromfi és emlős állatok ehető szövetei esetében 28 nap, halhús esetében 500 napfok.
+(5)[^69] Ha a felhasznált gyógyszeren nincs feltüntetve a kezelendő állatfajra vonatkozó élelmezés-egészségügyi várakozási idő, azt az állatorvos az (EU) 2019/6 európai parlamenti és tanácsi rendelet 115. cikkében foglaltak szerint határozza meg.
 
-(6)[^69] Ha az állatorvos e § előírásait alkalmazza, köteles nyilvántartást vezetni az állatok vizsgálatának időpontjáról, a tulajdonos nevéről, a kezelt állatok tartási helyéről és számáról, a diagnózisról, az alkalmazott készítményekről és adagolásukról, a kezelés időtartamáról és az előírt élelmezés-egészségügyi várakozási időről. A nyilvántartást az állatorvosnak 5 évig meg kell őriznie.
+(6)[^70] Ha az állatorvos e § előírásait alkalmazza, köteles nyilvántartást vezetni az állatok vizsgálatának időpontjáról, a tulajdonos nevéről, a kezelt állatok tartási helyéről és számáról, a diagnózisról, az alkalmazott készítményekről és adagolásukról, a kezelés időtartamáról és az előírt élelmezés-egészségügyi várakozási időről. A nyilvántartást az állatorvosnak 5 évig meg kell őriznie.
 
 [^66]: A 11. § (1) bekezdés b) pont bb) alpontja a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja szerint módosított szöveg.
 [^67]: A 11. § (3) bekezdése a 27/2021. (VIII. 11.) AM rendelet 37. § 6. pontja szerint módosított szöveg.
 [^68]: A 11. § (4) bekezdése a 27/2021. (VIII. 11.) AM rendelet 9. §-ával megállapított szöveg.
-[^69]: A 11. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 134. § c) pontja, a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^69]: A 11. § (5) bekezdése a 23/2023. (V. 10.) AM rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^70]: A 11. § (6) bekezdése a 42/2017. (VIII. 17.) FM rendelet 134. § c) pontja, a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés b) pontja szerint módosított szöveg.

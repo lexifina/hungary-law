@@ -44,11 +44,11 @@
 
 ## Dokumentáció
 
-## 4.[^401] A nagykereskedőnek a NÉBIH, illetve a járási hivatal kérésére a forgalmazással kapcsolatos dokumentumokat rendelkezésre kell bocsátani.
+## 4.[^406] A nagykereskedőnek a NÉBIH, illetve a járási hivatal kérésére a forgalmazással kapcsolatos dokumentumokat rendelkezésre kell bocsátani.
 
 ## Megrendelés
 
-## 5.[^402] Nagykereskedő csak nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező nagykereskedőtől, illetve importáló nagykereskedőtől vagy gyártási és nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező gyártótól rendelhet állatgyógyászati készítményt.
+## 5.[^407] Nagykereskedő csak nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező nagykereskedőtől, illetve importáló nagykereskedőtől vagy gyártási és nagykereskedelmi tevékenységre jogosító működési engedéllyel rendelkező gyártótól rendelhet állatgyógyászati készítményt.
 
 ## Eljárások
 
@@ -132,11 +132,11 @@
 
 ## a) Más nagykereskedőnek vagy kiskereskedőnek abban az esetben, ha a vevő pozíciójában álló nagykereskedő vagy a kiskereskedő hatályos működési engedélyének másolatát előzetesen beszerezte.
 
-## b)[^403] Külön jogszabály szerinti nagy létszámú állattartó telepnek, továbbá takarmánykeverő üzemnek. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek az ellátó állatorvos által ellenjegyzett (aláírt és bélyegzőlenyomatával ellátott) megrendelőjét vagy az ellátó állatorvos által kiállított vény egy példányát előzetesen beszerezze. Az egyes kiszállításokhoz mindig aktuálisan kell kiállítani a megrendelőt vagy vényt. A megrendelőn legalább az alábbi adatokat kell feltüntetni: megrendelő állatorvos neve, székhelye, megrendelt készítmény neve, mennyisége, felhasználás helye. A megrendelőt vagy vényt a kiadás helyén 5 évig meg kell őrizni.
+## b)[^408] Külön jogszabály szerinti nagy létszámú állattartó telepnek, továbbá takarmánykeverő üzemnek. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek az ellátó állatorvos által ellenjegyzett (aláírt és bélyegzőlenyomatával ellátott) megrendelőjét vagy az ellátó állatorvos által kiállított vény egy példányát előzetesen beszerezze. Az egyes kiszállításokhoz mindig aktuálisan kell kiállítani a megrendelőt vagy vényt. A megrendelőn legalább az alábbi adatokat kell feltüntetni: megrendelő állatorvos neve, székhelye, megrendelt készítmény neve, mennyisége, felhasználás helye. A megrendelőt vagy vényt a kiadás helyén 5 évig meg kell őrizni.
 
-## c)[^404] Állatorvosnak, állatorvosi rendelőnek, -szakrendelőnek (rendelőintézetnek), állatkórháznak és állatklinikának. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek a tevékenysége gyakorlásához szükséges hatályban lévő engedélyének másolatát előzetesen beszerezze. A vény nélkül kiadott, egyébként vényköteles állatgyógyászati készítmény esetében az átvétel igazolására szolgáló dokumentumon az állatorvos nevét olvasható formában, aláírását, bélyegzőlenyomatát és magángyakorlati nyilvántartási számát vagy annak hiányában lakcímét jól láthatóan fel kell tüntetni.
+## c)[^409] Állatorvosnak, állatorvosi rendelőnek, -szakrendelőnek (rendelőintézetnek), állatkórháznak és állatklinikának. A kiszolgálás feltétele az, hogy a nagykereskedő a vevőnek a tevékenysége gyakorlásához szükséges hatályban lévő engedélyének másolatát előzetesen beszerezze. A vény nélkül kiadott, egyébként vényköteles állatgyógyászati készítmény esetében az átvétel igazolására szolgáló dokumentumon az állatorvos nevét olvasható formában, aláírását, bélyegzőlenyomatát és magángyakorlati nyilvántartási számát vagy annak hiányában lakcímét jól láthatóan fel kell tüntetni.
 
-## d)[^405]
+## d)[^410]
 
 ## 18. Minden gyógyszerkiadásnál dokumentálni kell a kiadás idejét, a készítmény nevét, gyártási számát, lejárati idejét és mennyiségét, az eladó és a vevő nevét és a címét.
 
@@ -188,7 +188,7 @@
 
 ## Hamisított készítmények
 
-## 30.[^406] Amennyiben hamisított, vagy arra gyanús készítmény bukkan fel a kereskedelmi hálózatban, azt a keveredés elkerülése céljából a többi készítménytől el kell különíteni. Jól láthatóan „kereskedelmi forgalomba nem kerülhet” feliratú címkével kell ellátni azokat, és a vármegyei kormányhivatalt, illetve a NÉBIH-et, valamint a hamisított készítmény forgalomba hozatali engedélyesét haladéktalanul értesíteni kell.
+## 30.[^411] Amennyiben hamisított, vagy arra gyanús készítmény bukkan fel a kereskedelmi hálózatban, azt a keveredés elkerülése céljából a többi készítménytől el kell különíteni. Jól láthatóan „kereskedelmi forgalomba nem kerülhet” feliratú címkével kell ellátni azokat, és a vármegyei kormányhivatalt, illetve a NÉBIH-et, valamint a hamisított készítmény forgalomba hozatali engedélyesét haladéktalanul értesíteni kell.
 
 ## Önellenőrzés
 
@@ -224,11 +224,11 @@
 
 ## Személyzet
 
-## 1.[^407] A törzskönyvezett állatgyógyászati készítmények kiskereskedelmi forgalmazását állatorvos vagy gyógyszerész, továbbá állatorvost vagy gyógyszerészt foglalkoztató, működési engedéllyel rendelkező természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet végezhet.
+## 1.[^412] A törzskönyvezett állatgyógyászati készítmények kiskereskedelmi forgalmazását állatorvos vagy gyógyszerész, továbbá állatorvost vagy gyógyszerészt foglalkoztató, működési engedéllyel rendelkező természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező szervezet végezhet.
 
 ## Dokumentáció
 
-## 2.[^408] A járási hivatal kérésére a forgalmazással kapcsolatos dokumentumokat rendelkezésre kell bocsátani.
+## 2.[^413] A járási hivatal kérésére a forgalmazással kapcsolatos dokumentumokat rendelkezésre kell bocsátani.
 
 ## Megrendelés
 
@@ -248,7 +248,7 @@
 
 ## 7. Átvételkor át kell vizsgálni, hogy a szállítmány csomagolása nem sérült-e, valamint hogy a küldemény tartalma megfelel-e a megrendelésnek.
 
-## 8.[^409] A különleges tárolási körülményeket igénylő készítményeket azonnal azonosítani kell, és a forgalomba hozatali engedélyében meghatározott tárolási hőmérsékleten kell tárolni.
+## 8.[^414] A különleges tárolási körülményeket igénylő készítményeket azonnal azonosítani kell, és a forgalomba hozatali engedélyében meghatározott tárolási hőmérsékleten kell tárolni.
 
 ## Tárolás
 
@@ -266,7 +266,7 @@
 
 ## 14. Minden gyógyszerkiadásnál dokumentálni kell a 69. § (5) bekezdésében foglalt adatokat.
 
-## 15.[^410] Csak eredeti és sértetlen csomagolású, valamint magyar nyelvű használati utasítással rendelkező készítmény adható ki. Nem adható ki megbontott kiszerelési egység, kivéve, ha a bonthatóság az adott készítmény jóváhagyott használati utasításában feltüntetésre került, illetve a 72. § (2) és (3) bekezdése szerinti esetekben.
+## 15.[^415] Csak eredeti és sértetlen csomagolású, valamint magyar nyelvű használati utasítással rendelkező készítmény adható ki. Nem adható ki megbontott kiszerelési egység, kivéve, ha a bonthatóság az adott készítmény jóváhagyott használati utasításában feltüntetésre került, illetve a 72. § (2) és (3) bekezdése szerinti esetekben.
 
 ## 16. Állatgyógyászati készítményeket az alábbiak szerint kell szállítani:
 
@@ -280,19 +280,19 @@
 
 ## Hamisított készítmények
 
-## 18.[^411] Amennyiben hamisított, vagy arra gyanús készítmény bukkan fel a kereskedelmi hálózatban, azt a keveredés elkerülése céljából a többi készítménytől el kell különíteni. Jól láthatóan „kereskedelmi forgalomba nem kerülhet” feliratú címkével kell ellátni azokat, és a NÉBIH-et, a járási hivatalt, valamint a hamisított készítmény forgalomba hozatali engedélyesét haladéktalanul értesíteni kell.
+## 18.[^416] Amennyiben hamisított, vagy arra gyanús készítmény bukkan fel a kereskedelmi hálózatban, azt a keveredés elkerülése céljából a többi készítménytől el kell különíteni. Jól láthatóan „kereskedelmi forgalomba nem kerülhet” feliratú címkével kell ellátni azokat, és a NÉBIH-et, a járási hivatalt, valamint a hamisított készítmény forgalomba hozatali engedélyesét haladéktalanul értesíteni kell.
 
-9. számú melléklet a 128/2009. (X. 6.) FVM rendelethez[^412]
+9. számú melléklet a 128/2009. (X. 6.) FVM rendelethez[^417]
 
-[^401]: A 8. számú melléklet I. Fejezet 4. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.
-[^402]: A 8. számú melléklet I. Fejezet 5. pontja a 33/2010. (IV. 7.) FVM rendelet 11. § t) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^403]: A 8. számú melléklet I. fejezet 17. pont b) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § f) pontja és 12. § h) pontja, a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés k) pontja szerint módosított szöveg.
-[^404]: A 8. számú melléklet I. Fejezet 17. pont c) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § u) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^405]: A 8. számú melléklet I. Fejezet 17. pont d) alpontját a 33/2010. (IV. 7.) FVM rendelet 12. § l) pontja hatályon kívül helyezte.
-[^406]: A 8. számú melléklet I. Fejezet 30. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 16. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 12. pontja, a 23/2023. (V. 10.) AM rendelet 13. §-a szerint módosított szöveg.
-[^407]: A 8. számú melléklet II. fejezet 1. pontja a 22/2014. (III. 14.) VM rendelet 71. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^408]: A 8. számú melléklet II. Fejezet 2. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 13. pontja szerint módosított szöveg.
-[^409]: A 8. számú melléklet II. Fejezet 8. pontja a 33/2010. (IV. 7.) FVM rendelet 12. § m) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
-[^410]: A 8. számú melléklet II. fejezet 15. pontja a 77/2013. (IX. 10.) VM rendelet 11. §-ával megállapított szöveg.
-[^411]: A 8. számú melléklet II. Fejezet 18. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 16. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 18. pontja szerint módosított szöveg.
-[^412]: A 9. számú mellékletet a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^406]: A 8. számú melléklet I. Fejezet 4. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 3. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 5. pontja szerint módosított szöveg.
+[^407]: A 8. számú melléklet I. Fejezet 5. pontja a 33/2010. (IV. 7.) FVM rendelet 11. § t) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^408]: A 8. számú melléklet I. fejezet 17. pont b) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § f) pontja és 12. § h) pontja, a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés k) pontja szerint módosított szöveg.
+[^409]: A 8. számú melléklet I. Fejezet 17. pont c) alpontja a 33/2010. (IV. 7.) FVM rendelet 11. § u) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^410]: A 8. számú melléklet I. Fejezet 17. pont d) alpontját a 33/2010. (IV. 7.) FVM rendelet 12. § l) pontja hatályon kívül helyezte.
+[^411]: A 8. számú melléklet I. Fejezet 30. pontja a 70/2013. (VII. 31.) VM rendelet 111. § 16. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 12. pontja, a 23/2023. (V. 10.) AM rendelet 13. §-a szerint módosított szöveg.
+[^412]: A 8. számú melléklet II. fejezet 1. pontja a 22/2014. (III. 14.) VM rendelet 71. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^413]: A 8. számú melléklet II. Fejezet 2. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 13. pontja szerint módosított szöveg.
+[^414]: A 8. számú melléklet II. Fejezet 8. pontja a 33/2010. (IV. 7.) FVM rendelet 12. § m) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 14–15. §-át.
+[^415]: A 8. számú melléklet II. fejezet 15. pontja a 77/2013. (IX. 10.) VM rendelet 11. §-ával megállapított szöveg.
+[^416]: A 8. számú melléklet II. Fejezet 18. pontja a 151/2012. (XII. 29.) VM rendelet 35. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 111. § 16. pontja, a 46/2015. (VIII. 7.) FM rendelet 52. § 18. pontja szerint módosított szöveg.
+[^417]: A 9. számú mellékletet a 27/2021. (VIII. 11.) AM rendelet 38. § (1) bekezdés a) pontja hatályon kívül helyezte.

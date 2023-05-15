@@ -1,6 +1,6 @@
-## 116/A. §[^368] A 76. § (7)–(10) bekezdése szerinti adatszolgáltatásra vonatkozó kötelezettséget első alkalommal a felhasználási adatok vonatkozásában 2022. március 15-ig kell teljesíteni, a 2022. februári időszakra vonatkozóan, az eladási adatok tekintetében első alkalommal 2022. március 1-ig kell teljesíteni, a 2021. naptári év vonatkozásában.
+## 116/A. §[^372] A 76. § (7)–(10) bekezdése szerinti adatszolgáltatásra vonatkozó kötelezettséget első alkalommal a felhasználási adatok vonatkozásában 2022. március 15-ig kell teljesíteni, a 2022. februári időszakra vonatkozóan, az eladási adatok tekintetében első alkalommal 2022. március 1-ig kell teljesíteni, a 2021. naptári év vonatkozásában.
 
-117. § (1)[^369] Ez a rendelet a következő európai uniós irányelvek magyar jogba történő átültetését valósítja meg:
+117. § (1)[^373] Ez a rendelet a következő európai uniós irányelvek magyar jogba történő átültetését valósítja meg:
 
 a) a Bizottság 91/412/EGK irányelve (1991. június 23.) az állatgyógyászati készítmények helyes gyártási gyakorlatára vonatkozó alapelvek és iránymutatások megállapításáról,
 
@@ -14,7 +14,7 @@ e) az Európai Parlament és a Tanács 2009/35/EK irányelve (2009. április 23.
 
 f) az Európai Parlament és a Tanács 2009/53/EK irányelve (2009. június 18.) a 2001/82/EK és a 2001/83/EK irányelvnek a gyógyszerek forgalomba hozatali engedélye feltételeinek módosítása tekintetében történő módosításáról.
 
-(2)[^370] Ez a rendelet
+(2)[^374] Ez a rendelet
 
 a) az emberi, illetve állatgyógyászati felhasználásra szánt gyógyszerek engedélyezésére és felügyeletére vonatkozó közösségi eljárások meghatározásáról és az Európai Gyógyszer Ügynökség létrehozásáról szóló, 2004. március 31-i 726/2004/EK európai parlamenti és tanácsi rendelet;
 
@@ -28,11 +28,14 @@ e) a biocid termékek forgalmazásáról és felhasználásáról szóló, 2012.
 
 f) a biocid termékekben található valamennyi létező hatóanyag szisztematikus vizsgálatára irányuló, az 528/2012/EU európai parlamenti és tanácsi rendeletben említett munkaprogramról szóló, 2014. augusztus 4-i 1062/2014/EU bizottsági rendelet
 
+g)[^375] az állatgyógyászati készítményekről és a 2001/82/EK irányelv hatályon kívül helyezéséről szóló, 2018. december 11-i (EU) 2019/6 európai parlamenti és tanácsi rendelet
+
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(3)[^371] Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+(3)[^376] Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-[^368]: A 116/A. §-t a 27/2021. (VIII. 11.) AM rendelet 35. §-a iktatta be.
-[^369]: A 117. § (1) bekezdés nyitó szövegrésze a 27/2021. (VIII. 11.) AM rendelet 37. § 1. pontja szerint módosított szöveg.
-[^370]: A 117. § (2) bekezdése a 27/2021. (VIII. 11.) AM rendelet 36. §-ával megállapított szöveg.
-[^371]: A 117. § (3) bekezdését a 27/2021. (VIII. 11.) AM rendelet 36. §-a iktatta be.
+[^372]: A 116/A. §-t a 27/2021. (VIII. 11.) AM rendelet 35. §-a iktatta be.
+[^373]: A 117. § (1) bekezdés nyitó szövegrésze a 27/2021. (VIII. 11.) AM rendelet 37. § 1. pontja szerint módosított szöveg.
+[^374]: A 117. § (2) bekezdése a 27/2021. (VIII. 11.) AM rendelet 36. §-ával megállapított szöveg.
+[^375]: A 117. § (2) bekezdés g) pontját a 23/2023. (V. 10.) AM rendelet 12. § (3) bekezdése iktatta be.
+[^376]: A 117. § (3) bekezdését a 27/2021. (VIII. 11.) AM rendelet 36. §-a iktatta be.

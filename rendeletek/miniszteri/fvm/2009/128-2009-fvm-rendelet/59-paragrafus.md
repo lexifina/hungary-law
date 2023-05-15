@@ -6,7 +6,7 @@
 
 59. § (1) Állatgyógyászati készítmény – a 18. § (1) bekezdése szerinti gyógyszerkészítmények kivételével – csak a törzskönyvi dokumentációban és az SPC-ben szereplő adatokkal és szóhasználattal összhangban jóváhagyott közvetlen és külső csomagolással és használati utasítással hozható forgalomba. A csomagolás módjának biztosítania kell, hogy a tovább nem bontható kiszerelési egység és a hozzá mellékelt használati utasítás a teljes forgalmazási lánc során együtt maradjon.
 
-(2)[^153] Az állatgyógyászati készítmények közvetlen és külső csomagolásán olvasható betűkkel legalább a következő adatokat fel kell tüntetni:
+(2)[^154] Az állatgyógyászati készítmények közvetlen és külső csomagolásán olvasható betűkkel legalább a következő adatokat fel kell tüntetni:
 
 a) az állatgyógyászati készítmény neve az „A. U. V.” vagy az „ad us. vet.” rövidítés lehetőség szerinti feltüntetésével,
 
@@ -44,9 +44,9 @@ q) a gyártási tétel száma,
 
 r) a 74. § szerinti vényköteles készítmények esetében a „Kizárólag állatorvosi vényre adható ki!” kifejezés is, azzal, hogy ezt a (4) bekezdés szerinti készítmények esetében elegendő a külső csomagoláson szereplő kék kerettel körülvett mezőben feltüntetni.
 
-(3)[^154] Az állatgyógyászati készítmény külső csomagolásán és közvetlen csomagolásán a (2) bekezdés e), h), j)–n), és r) pontjában előírt információkat magyar nyelven kell feltüntetni, kivéve a 62. § (3) és (4) bekezdésében meghatározott eseteket.
+(3)[^155] Az állatgyógyászati készítmény külső csomagolásán és közvetlen csomagolásán a (2) bekezdés e), h), j)–n), és r) pontjában előírt információkat magyar nyelven kell feltüntetni, kivéve a 62. § (3) és (4) bekezdésében meghatározott eseteket.
 
 (4) Azon gyógyszerkészítmények esetében, amelyek forgalomba hozatali engedélyét a 726/2004/EK rendelet alapján adták ki, a külső csomagoláson szereplő kék kerettel körülvett mezőben a hazai rendelhetőséget és forgalmazhatóságot is fel kell tüntetni.
 
-[^153]: Az 59. § (2) bekezdése a 27/2021. (VIII. 11.) AM rendelet 17. §-ával megállapított szöveg.
-[^154]: Az 59. § (3) bekezdése a 27/2021. (VIII. 11.) AM rendelet 37. § 14. pontja szerint módosított szöveg.
+[^154]: Az 59. § (2) bekezdése a 27/2021. (VIII. 11.) AM rendelet 17. §-ával megállapított szöveg.
+[^155]: Az 59. § (3) bekezdése a 27/2021. (VIII. 11.) AM rendelet 37. § 14. pontja szerint módosított szöveg.

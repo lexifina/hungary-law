@@ -1,6 +1,6 @@
 114/D. § (1) Állategészségügyi biocid termék forgalomba hozatala akkor engedélyezhető, ha
 
-a)[^333] a biocid termék olyan hatóanyagokat tartalmaz, amelyek szerepelnek a 1062/2014/EU rendelet II. mellékletében meghatározott biocid hatóanyagok európai uniós felülvizsgálati listáján a megadott terméktípusban,
+a)[^337] a biocid termék olyan hatóanyagokat tartalmaz, amelyek szerepelnek a 1062/2014/EU rendelet II. mellékletében meghatározott biocid hatóanyagok európai uniós felülvizsgálati listáján a megadott terméktípusban,
 
 b) a mindenkori tudományos és technikai ismeretek alapján megállapítható, hogy a dokumentáció és a vizsgálati eredmények alapján az engedélyezett módon történt felhasználás mellett, és figyelemmel a termék használatának szokásos feltételeire, a termékkel kezelt anyag használatának módjára, valamint a felhasználásból és az ártalmatlanításból származó követelményekre, az állategészségügyi biocid termék hatása szakmailag bizonyított,
 
@@ -18,4 +18,4 @@ h) a termék felhasználása humán- és állategészségügyi szempontból nem 
 
 (2) Az állategészségügyi biocid termék forgalmazása és felhasználása – a termék veszélyes jellegének függvényében – a forgalomba hozatali engedélyben korlátozható vagy feltételhez köthető.
 
-[^333]: A 114/D. § (1) bekezdés a) pontja a 46/2015. (VIII. 7.) FM rendelet 52. § 15. pontja, a 27/2021. (VIII. 11.) AM rendelet 37. § 1. pontja szerint módosított szöveg.
+[^337]: A 114/D. § (1) bekezdés a) pontja a 46/2015. (VIII. 7.) FM rendelet 52. § 15. pontja, a 27/2021. (VIII. 11.) AM rendelet 37. § 1. pontja szerint módosított szöveg.
