@@ -1,3 +1,1 @@
-25. §[^29]
-
-[^29]: A 25. § a 33. § (2) bekezdés alapján 2023. május 15-én lép hatályba.
+25. § A 74/2013. (VIII. 30.) VM rendelet 10. § (10) bekezdésében a „belső nyilvántartása” szövegrész helyébe a „belső nyilvántartása, valamint a laboratóriumi vizsgálatokhoz kapcsolódó számlák és egyéb bizonylatok” szöveg lép.

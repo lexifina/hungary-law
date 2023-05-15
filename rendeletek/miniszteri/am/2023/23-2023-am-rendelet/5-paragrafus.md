@@ -1,3 +1,1 @@
-5. §[^9]
-
-[^9]: Az 5. § a 33. § (2) bekezdés alapján 2023. május 15-én lép hatályba.
+5. § Hatályát veszti a 32/1999. (III. 31.) FVM rendelet 9. számú melléklet 1.1. pont c) alpontjában a „növényevő” szövegrész.

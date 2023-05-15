@@ -1,3 +1,1 @@
-16. §[^20]
-
-[^20]: A 16. § a 33. § (2) bekezdés alapján 2023. május 15-én lép hatályba.
+16. § Hatályát veszti a 180/2009. (XII. 29.) FVM rendelet 9. § (6) bekezdésében az „A minta vizsgálatra való alkalmatlansága, a mintakísérő irat hiánya vagy nem megfelelő kitöltése esetén a laboratórium a vizsgálatot megtagadhatja.” szövegrész.

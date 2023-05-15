@@ -1,3 +1,1 @@
-7. §[^11]
-
-[^11]: A 7. § a 33. § (2) bekezdés alapján 2023. május 15-én lép hatályba.
+7. § Hatályát veszti a 44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelet 3/B. § (2) bekezdésében az „(1a) és” szövegrész.

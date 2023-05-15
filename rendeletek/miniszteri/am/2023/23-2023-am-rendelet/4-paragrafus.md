@@ -1,19 +1,15 @@
 4. § A 32/1999. (III. 31.) FVM rendelet
 
-a)[^4]
+a) 2. § a) pontjában a „haszon” szövegrész helyébe a „termelés” szöveg,
 
-b)[^5]
+b) 9. § (3) bekezdésében a „célra” szövegrész helyébe a „termelési célból” szöveg,
 
-c)[^6]
+c) 11/A. § (1) bekezdésében a „haszonszerzés céljából” szövegrész helyébe a „termelési célból” szöveg,
 
-d)[^7]
+d)[^3]
 
-e)[^8]
+e) 15. § (2) bekezdés a) pontjában a „tenyésztés” szövegrész helyébe a „mezőgazdasági termelés” szöveg
 
 lép.
 
-[^4]: A 4. § a) pontja a 33. § (2) bekezdés alapján 2023. május 15-én lép hatályba.
-[^5]: A 4. § b) pontja a 33. § (2) bekezdés alapján 2023. május 15-én lép hatályba.
-[^6]: A 4. § c) pontja a 33. § (2) bekezdés alapján 2023. május 15-én lép hatályba.
-[^7]: A 4. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 4. § e) pontja a 33. § (2) bekezdés alapján 2023. május 15-én lép hatályba.
+[^3]: A 4. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

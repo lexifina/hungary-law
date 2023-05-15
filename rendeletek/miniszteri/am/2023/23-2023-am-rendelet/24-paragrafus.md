@@ -1,5 +1,5 @@
 ## 14. Az egyes állat-járványügyi intézkedésekről és az azokkal összefüggő állami kártalanításról szóló 74/2013. (VIII. 30.) VM rendelet módosítása
 
-24. §[^28]
+24. § Az egyes állat-járványügyi intézkedésekről és az azokkal összefüggő állami kártalanításról szóló 74/2013. (VIII. 30.) VM rendelet [a továbbiakban: 74/2013. (VIII. 30.) VM rendelet] 7. § (4b) bekezdése helyébe a következő rendelkezés lép:
 
-[^28]: A 24. § a 33. § (2) bekezdés alapján 2023. május 15-én lép hatályba.
+„(4b) Ha az aktív közreműködőt az OJK jelölte ki, az aktív közreműködő az elrendelt járványügyi intézkedés végrehajtását követően a NÉBIH nevére kiállított és a közreműködés költségeit tartalmazó számlát harmincnapos fizetési határidővel benyújtja a NÉBIH-nek, amely intézkedik a számla aktív közreműködő részére történő kifizetéséről. A NÉBIH a számlát, valamint az aktív közreműködőt kijelölő határozatot a járványügyi intézkedés végrehajtását követő tizenöt napon belül megküldi a lebonyolító szervnek, igazolva, hogy a számla az általa elrendelt járványügyi intézkedések végrehajtása során keletkezett. A lebonyolító szerv az aktív közreműködés költségeit – a számlák és az aktív közreműködőt kijelölő határozat beérkezését követő hatvan napon belül – megtéríti a NÉBIH-nek.”

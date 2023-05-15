@@ -1,3 +1,1 @@
-20. §[^24]
-
-[^24]: A 20. § a 33. § (2) bekezdés alapján 2023. május 15-én lép hatályba.
+20. § Hatályát veszti a 107/2011. (XI. 10.) VM rendelet 18. §-a.
