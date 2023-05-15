@@ -32,7 +32,7 @@ céljából történt.
 
 (9) A vizsgálatot végző laboratórium az elvégzett vizsgálatok díjáról számlát állít ki a vizsgálatot megrendelő hatóság részére. A vizsgálatot megrendelő hatóság intézkedik a számla kifizetéséről a laboratórium felé. A vizsgálatot megrendelő hatóság az (5) bekezdés szerint jogosult a vizsgálati díj megtérítésére.
 
-(10)[^58] Ha a laboratóriumi vizsgálatot a NÉBIH által működtetett laboratórium végzi, a vizsgálat díjáról nem kerül kiállításra számla. A NÉBIH a laboratóriumi vizsgálatok költségéről negyedévente, belső nyilvántartása alapján kimutatást készít, amelyet összesítéssel megküld a lebonyolító szervnek. A lebonyolító szerv a laboratóriumi vizsgálatok kiadásait a beérkezést követő harminc napon belül, a lebonyolítási számlán fennálló fedezethiány esetén a fedezet rendelkezésre állását követő harminc napon belül megtéríti a NÉBIH-nek.
+(10)[^58] Ha a laboratóriumi vizsgálatot a NÉBIH által működtetett laboratórium végzi, a vizsgálat díjáról nem kerül kiállításra számla. A NÉBIH a laboratóriumi vizsgálatok költségéről negyedévente, belső nyilvántartása, valamint a laboratóriumi vizsgálatokhoz kapcsolódó számlák és egyéb bizonylatok alapján kimutatást készít, amelyet összesítéssel megküld a lebonyolító szervnek. A lebonyolító szerv a laboratóriumi vizsgálatok kiadásait a beérkezést követő harminc napon belül, a lebonyolítási számlán fennálló fedezethiány esetén a fedezet rendelkezésre állását követő harminc napon belül megtéríti a NÉBIH-nek.
 
 (11) A (8) bekezdés a) pontjában meghatározott vizsgálatok során keletkezett állati eredetű melléktermékek, illetve a (8) bekezdés b) pontjában megnevezett vizsgálatok elvégzésére jogosult hatósági laboratóriumokban keletkezett összes állati eredetű melléktermék ártalmatlanításáról a 8. § (1) bekezdésében meghatározottak szerint kell gondoskodni.
 
@@ -41,4 +41,4 @@ céljából történt.
 [^55]: A 10. § (5) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés b)–c) pontja szerint módosított szöveg.
 [^56]: A 10. § (6) bekezdés nyitó szövegrésze a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^57]: A 10. § (7) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^58]: A 10. § (10) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^58]: A 10. § (10) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (2) bekezdés g) pontja, a 23/2023. (V. 10.) AM rendelet 25. §-a szerint módosított szöveg.

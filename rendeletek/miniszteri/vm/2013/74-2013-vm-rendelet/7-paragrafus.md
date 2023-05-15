@@ -24,7 +24,7 @@ c) az aktív közreműködés keretében végzett tevékenység megnevezése, a 
 
 d) az egyes állatbetegségek és zoonózisok felszámolására, az ellenük való védekezésre és figyelemmel kísérésükre irányuló nemzeti programok vonatkozásában az európai uniós támogatás elszámolásához szükséges, eljárásrendben rögzített adatok.
 
-(4b)[^44] Az aktív közreműködő az intézkedés végrehajtását követően az OJK által elrendelt aktív közreműködés esetén a lebonyolító szerv nevére kiállított, a közreműködés költségeit tartalmazó számlát harmincnapos fizetési határidővel benyújtja a lebonyolító szervnek, amely az előirányzat terhére gondoskodik a számla megtérítéséről az aktív közreműködő részére.
+(4b)[^44] Ha az aktív közreműködőt az OJK jelölte ki, az aktív közreműködő az elrendelt járványügyi intézkedés végrehajtását követően a NÉBIH nevére kiállított és a közreműködés költségeit tartalmazó számlát harmincnapos fizetési határidővel benyújtja a NÉBIH-nek, amely intézkedik a számla aktív közreműködő részére történő kifizetéséről. A NÉBIH a számlát, valamint az aktív közreműködőt kijelölő határozatot a járványügyi intézkedés végrehajtását követő tizenöt napon belül megküldi a lebonyolító szervnek, igazolva, hogy a számla az általa elrendelt járványügyi intézkedések végrehajtása során keletkezett. A lebonyolító szerv az aktív közreműködés költségeit – a számlák és az aktív közreműködőt kijelölő határozat beérkezését követő hatvan napon belül – megtéríti a NÉBIH-nek.
 
 (5)[^45] A 8. és 9. §-ban szereplő eljárások kivételével a (2)–(4b) bekezdés rendelkezéseit kell alkalmazni azokban az esetekben is, amikor az aktív közreműködésre nem az (1) bekezdésben leírtak, hanem valamely speciális szakértelmet igénylő tevékenység végrehajtása miatt van szükség.
 
@@ -33,5 +33,5 @@ d) az egyes állatbetegségek és zoonózisok felszámolására, az ellenük val
 [^41]: A 7. § (2) bekezdés nyitó szövegrésze a 7/2021. (III. 10.) AM rendelet 11. § (1) bekezdés g) pontja szerint módosított szöveg.
 [^42]: A 7. § (4) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (1) bekezdés h) pontja és (2) bekezdés b)–c) pontja, a 135/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^43]: A 7. § (4a) bekezdését a 7/2021. (III. 10.) AM rendelet 5. §-a iktatta be, nyitó szövegrésze a 135/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
-[^44]: A 7. § (4b) bekezdését a 7/2021. (III. 10.) AM rendelet 5. §-a iktatta be, szövege ugyanezen módosító rendelet 11. § (2) bekezdés b)–c) pontja szerint módosított szöveg.
+[^44]: A 7. § (4b) bekezdését a 7/2021. (III. 10.) AM rendelet 5. §-a iktatta be, szövege a 23/2023. (V. 10.) AM rendelet 24. §-ával megállapított szöveg.
 [^45]: A 7. § (5) bekezdése a 7/2021. (III. 10.) AM rendelet 11. § (1) bekezdés i) pontja szerint módosított szöveg.

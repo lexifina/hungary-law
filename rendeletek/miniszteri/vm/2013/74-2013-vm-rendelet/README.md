@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-74-20-2
 | 2022-01-01 | 2013-74-20-2Y.10 | 7/2021. (III. 10.) AM rendelet |
 | 2022-03-03 | 2013-74-20-2Y.11 | 9/2022. (II. 28.) AM rendelet |
 | 2023-01-01 | 2013-74-20-2Y.12 | 135/2022. (XII. 27.) AM rendelet |
+| 2023-05-15 | 2013-74-20-2Y.13 | 7/2021. (III. 10.) AM rendelet |
