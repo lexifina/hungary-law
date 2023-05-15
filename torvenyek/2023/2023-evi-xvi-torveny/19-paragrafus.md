@@ -18,9 +18,9 @@ h)
 
 i)
 
-j) 135. § (9) bekezdése,
+j)
 
-k) 135. § (10) bekezdésében az „ , illetve a (9) bekezdésében” szövegrész,
+k)
 
 l)
 
