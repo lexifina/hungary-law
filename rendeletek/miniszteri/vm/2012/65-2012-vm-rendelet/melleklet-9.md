@@ -1,6 +1,6 @@
 9. melléklet a 65/2012. (VII. 4.) VM rendelethez
 
-Tárolók, szállítók bejelentésekor a járási hivatalhoz benyújtandó adatok[^89]
+Tárolók, szállítók bejelentésekor a járási hivatalhoz benyújtandó adatok[^90]
 
 1. név,
 
@@ -26,4 +26,4 @@ Tárolók, szállítók bejelentésekor a járási hivatalhoz benyújtandó adat
 
 12. a tárolás/szállítás nyilvántartásainak és folyamatának leírása (bejövő-, kimenő anyagok forgalma).
 
-[^89]: A 9. melléklet címe a 42/2017. (VIII. 17.) FM rendelet 182. § f) pontja szerint módosított szöveg.
+[^90]: A 9. melléklet címe a 42/2017. (VIII. 17.) FM rendelet 182. § f) pontja szerint módosított szöveg.

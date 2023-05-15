@@ -44,6 +44,6 @@ Azon takarmányok listája, amelyek harmadik országból való behozatala csak b
 
 – Növekedésserkentők: a csoport minden takarmány-adalékanyaga
 
-4.[^88] A 95/69/EK tanácsi irányelv mellékletének I. 1. a) fejezetében megadott, a fenti 1. pontban felsorolt takarmány-adalékanyagoktól eltérő azon takarmány-adalékanyagok, amelyeknek legmagasabb szintjét rögzítették.
+4.[^89] A 95/69/EK tanácsi irányelv mellékletének I. 1. a) fejezetében megadott, a fenti 1. pontban felsorolt takarmány-adalékanyagoktól eltérő azon takarmány-adalékanyagok, amelyeknek legmagasabb szintjét rögzítették.
 
-[^88]: Az 1. melléklet 4. pontja a 143/2012. (XII. 27.) VM rendelet 4. §-ával megállapított szöveg.
+[^89]: Az 1. melléklet 4. pontja a 143/2012. (XII. 27.) VM rendelet 4. §-ával megállapított szöveg.

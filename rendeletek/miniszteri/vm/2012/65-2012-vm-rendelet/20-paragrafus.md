@@ -1,9 +1,5 @@
 ## 6. Az elsődleges előállítók kivételével takarmány-előállító, -forgalmazó és -tároló létesítményekre vonatkozó előírások
 
-20. § (1) A létesítmény területén állatot tartani tilos, kivéve a területen tartott olyan ebet,
+20. §[^35] A létesítmény bejáratánál a kéz- és lábbeli fertőtlenítésének lehetőségét folyamatosan biztosítani kell.
 
-a) amelyet rendszeresen orsó-, fonál- és galandféreg ellenes kezelésben részesítettek, és
-
-b) amely tartása során a létesítményben tárolt vagy ott előállított takarmányt nem szennyezi be.
-
-(2) A személy- és járműforgalom részére szilárd burkolatú, külön bejáratú utat kell létesíteni. A bejáratoknál a kéz- és lábbeli fertőtlenítés lehetőségét folyamatosan biztosítani kell.
+[^35]: A 20. § a 23/2023. (V. 10.) AM rendelet 23. §-ával megállapított szöveg.
