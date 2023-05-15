@@ -10,21 +10,31 @@
 
 (5) A minták vizsgálatát e rendelet 1. számú mellékletben foglaltak, a naposkori minták vizsgálatát e rendelet 2. számú mellékletében foglaltak szerint kell elvégezni.
 
-(6) Az e rendelet szerinti vizsgálati programok keretében gyűjtött mintákhoz a mintát vevő állatorvosnak az NRL honlapján közzétett minta szerinti mintakísérő iratot (a továbbiakban: mintakísérő irat) kell csatolnia. A mintakísérő iratot az érintett vállalkozónak is el kell látnia aláírásával. A vizsgáló laboratóriumnak, illetve pozitív eredmény esetén a szerotipizálást végző NRL-nek ugyanezt a mintakísérő iratot kell kitöltenie. A minta vizsgálatra való alkalmatlansága, a mintakísérő irat hiánya vagy nem megfelelő kitöltése esetén a laboratórium a vizsgálatot megtagadhatja.
+(6)[^32] Az e rendelet szerinti vizsgálati programok keretében gyűjtött mintákhoz a mintát vevő állatorvosnak az NRL honlapján közzétett minta szerinti mintakísérő iratot (a továbbiakban: mintakísérő irat) kell csatolnia. A mintakísérő iratot az érintett vállalkozónak is el kell látnia aláírásával. A vizsgáló laboratóriumnak, illetve pozitív eredmény esetén a szerotipizálást végző NRL-nek ugyanezt a mintakísérő iratot kell kitöltenie.
 
-(7)[^32] A laboratórium a vizsgálat eredményéről haladéktalanul értesíti a járási hivatalt és a mintavevő állatorvost, továbbá pozitív vizsgálati eredmény esetén a vállalkozót, valamint a vármegyei kormányhivatalt is. Pozitív vizsgálati eredmény esetén a laboratórium az izolált törzset megerősítő vizsgálat és szerotipizálás céljából a mintakísérő irat eredeti példányával együtt az NRL-be küldi. A kísérőirat másolatát a vizsgáló laboratórium köteles 3 évig megőrizni.
+(6a)[^33] A laboratórium a vizsgálatot megtagadhatja, ha
 
-(8)[^33] Az NRL az általa elvégzett szerotipizálás eredményét rávezeti a mintakísérő iratra, azt távmásolón haladéktalanul megküldi a törzset izoláló laboratóriumnak, a járási hivatalnak, a vármegyei kormányhivatalnak és a mintát beküldő állatorvosnak és postai úton az érintett vállalkozónak. A kísérőirat másolatát és a vizsgálati eredményközlő dokumentumot valamennyi érintett fél köteles 3 évig megőrizni.
+a) a minta alkalmatlan a vizsgálatra,
+
+b) a mintakísérő irat hiányzik, vagy
+
+c) a mintakísérő irat kitöltése hiányos, ide nem értve a vállalkozó aláírásának hiányát.
+
+(7)[^34] A laboratórium a vizsgálat eredményéről haladéktalanul értesíti a járási hivatalt és a mintavevő állatorvost, továbbá pozitív vizsgálati eredmény esetén a vállalkozót, valamint a vármegyei kormányhivatalt is. Pozitív vizsgálati eredmény esetén a laboratórium az izolált törzset megerősítő vizsgálat és szerotipizálás céljából a mintakísérő irat eredeti példányával együtt az NRL-be küldi. A kísérőirat másolatát a vizsgáló laboratórium köteles 3 évig megőrizni.
+
+(8)[^35] Az NRL az általa elvégzett szerotipizálás eredményét rávezeti a mintakísérő iratra, azt távmásolón haladéktalanul megküldi a törzset izoláló laboratóriumnak, a járási hivatalnak, a vármegyei kormányhivatalnak és a mintát beküldő állatorvosnak és postai úton az érintett vállalkozónak. A kísérőirat másolatát és a vizsgálati eredményközlő dokumentumot valamennyi érintett fél köteles 3 évig megőrizni.
 
 (9) Amennyiben az állományt a kísérőirat szerint az izolált szerotípussal azonos homológ élő szalmonellát tartalmazó vakcinával vakcinázták, az NRL a vállalkozó kérésére elvégzi a vakcinatörzs elkülönítésére irányuló vizsgálatot is.
 
-(10)[^34] A vármegyei kormányhivatal határozatot hoz ismételt hatósági vizsgálat elvégzéséről, ha az első mintavétel során nyert vizsgálati eredmények felvetik a mintavétel, a mintaküldés vagy a laboratóriumi vizsgálatok végzésére vonatkozó előírásoknak a vizsgálati eredményt befolyásoló megsértését. Az ismétlő minta vételének szabályait az NRL határozza meg, és annak vizsgálatát csak az NRL végezheti el.
+(10)[^36] A vármegyei kormányhivatal határozatot hoz ismételt hatósági vizsgálat elvégzéséről, ha az első mintavétel során nyert vizsgálati eredmények felvetik a mintavétel, a mintaküldés vagy a laboratóriumi vizsgálatok végzésére vonatkozó előírásoknak a vizsgálati eredményt befolyásoló megsértését. Az ismétlő minta vételének szabályait az NRL határozza meg, és annak vizsgálatát csak az NRL végezheti el.
 
-(11)[^35] A NÉBIH által erre kijelölt és engedéllyel rendelkező laboratórium az 'O' csoporttipizálás eredményéről haladéktalanul értesíti a mintavevő állatorvost, a vállalkozót, a járási hivatalt és a vármegyei kormányhivatalt is, valamint az izolált törzset az NRL-be küldi szerotipizálás céljából.
+(11)[^37] A NÉBIH által erre kijelölt és engedéllyel rendelkező laboratórium az 'O' csoporttipizálás eredményéről haladéktalanul értesíti a mintavevő állatorvost, a vállalkozót, a járási hivatalt és a vármegyei kormányhivatalt is, valamint az izolált törzset az NRL-be küldi szerotipizálás céljából.
 
 [^30]: A 9. § (2) bekezdése a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja, a 32/2014. (XII. 9.) FM rendelet 18. § a) pontja, a 42/2017. (VIII. 17.) FM rendelet 146. § d) és m) pontja, a 23/2023. (V. 10.) AM rendelet 15. § b) pontja szerint módosított szöveg.
 [^31]: A 9. § (4) bekezdése a 70/2013. (VII. 31.) VM rendelet 116. § f) pontja szerint módosított szöveg.
-[^32]: A 9. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 116. § i) pontja, a 42/2017. (VIII. 17.) FM rendelet 146. § f) és g) pontja, a 23/2023. (V. 10.) AM rendelet 15. § b) pontja szerint módosított szöveg.
-[^33]: A 9. § (8) bekezdése a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 116. § h) pontja, a 42/2017. (VIII. 17.) FM rendelet 146. § h) és i) pontja, a 23/2023. (V. 10.) AM rendelet 15. § b) pontja szerint módosított szöveg.
-[^34]: A 9. § (10) bekezdése a 32/2014. (XII. 9.) FM rendelet 17. § (8) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 146. § n) pontja, a 23/2023. (V. 10.) AM rendelet 15. § b) pontja szerint módosított szöveg.
-[^35]: A 9. § (11) bekezdése a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 116. § g) és i) pontja, a 42/2017. (VIII. 17.) FM rendelet 146. § f) és g) pontja, a 23/2023. (V. 10.) AM rendelet 15. § b) pontja szerint módosított szöveg.
+[^32]: A 9. § (6) bekezdése a 23/2023. (V. 10.) AM rendelet 16. §-a szerint módosított szöveg.
+[^33]: A 9. § (6a) bekezdését a 23/2023. (V. 10.) AM rendelet 14. §-a iktatta be.
+[^34]: A 9. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 116. § i) pontja, a 42/2017. (VIII. 17.) FM rendelet 146. § f) és g) pontja, a 23/2023. (V. 10.) AM rendelet 15. § b) pontja szerint módosított szöveg.
+[^35]: A 9. § (8) bekezdése a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 116. § h) pontja, a 42/2017. (VIII. 17.) FM rendelet 146. § h) és i) pontja, a 23/2023. (V. 10.) AM rendelet 15. § b) pontja szerint módosított szöveg.
+[^36]: A 9. § (10) bekezdése a 32/2014. (XII. 9.) FM rendelet 17. § (8) bekezdésével megállapított és a 42/2017. (VIII. 17.) FM rendelet 146. § n) pontja, a 23/2023. (V. 10.) AM rendelet 15. § b) pontja szerint módosított szöveg.
+[^37]: A 9. § (11) bekezdése a 151/2012. (XII. 29.) VM rendelet 41. § b) pontja, a 70/2013. (VII. 31.) VM rendelet 116. § g) és i) pontja, a 42/2017. (VIII. 17.) FM rendelet 146. § f) és g) pontja, a 23/2023. (V. 10.) AM rendelet 15. § b) pontja szerint módosított szöveg.

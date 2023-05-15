@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-180-20-
 | 2014-12-17 | 2009-180-20-82.5 | 32/2014. (XII. 9.) FM rendelet |
 | 2017-08-18 | 2009-180-20-82.6 | 151/2012. (XII. 29.) VM rendelet |
 | 2023-05-11 | 2009-180-20-82.7 | 151/2012. (XII. 29.) VM rendelet |
+| 2023-05-15 | 2009-180-20-82.8 | 23/2023. (V. 10.) AM rendelet |

@@ -34,8 +34,8 @@
 
 | 7.3. | Tenyészpulyka- állományok |
 
-2. számú melléklet a 180/2009. (XII. 29.) FVM rendelethez[^68]
+2. számú melléklet a 180/2009. (XII. 29.) FVM rendelethez[^70]
 
 Hatósági mintavételek a házityúk- és pulykaállományokban
 
-[^68]: A 2. számú melléklet a 32/2014. (XII. 9.) FM rendelet 17. § (16) bekezdés b) pontjával megállapított és a 42/2017. (VIII. 17.) FM rendelet 145. §-a szerint módosított szöveg.
+[^70]: A 2. számú melléklet a 32/2014. (XII. 9.) FM rendelet 17. § (16) bekezdés b) pontjával megállapított és a 42/2017. (VIII. 17.) FM rendelet 145. §-a szerint módosított szöveg.
