@@ -12,7 +12,7 @@ c) az a) pont alá nem tartozó, a közkereseti társaság, a betéti társaság
 
 d) az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, az egyéni cég és természetes személy tagja között fennálló tagi jogviszonyból;
 
-e)
+e) az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyból;
 
 f) az egyházi jogi személy és az egyházi szolgálati viszonyban álló egyházi személy között fennálló jogviszonyból;
 
