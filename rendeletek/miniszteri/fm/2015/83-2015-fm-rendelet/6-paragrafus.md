@@ -1,6 +1,6 @@
 ## 6. § A sertések megjelölését
 
-a)[^7] vármegyei körzetekben
+a)[^8] vármegyei körzetekben
 
 aa) tenyészsertések esetében a sertéságazati területi felelős,
 
@@ -10,4 +10,4 @@ b) önálló tenyészetekben az állattartó vagy az általa megbízott személy
 
 végezheti.
 
-[^7]: A 6. § a) pont nyitó szövegrésze a 23/2023. (V. 10.) AM rendelet 27. § d) pontja szerint módosított szöveg.
+[^8]: A 6. § a) pont nyitó szövegrésze a 23/2023. (V. 10.) AM rendelet 27. § d) pontja szerint módosított szöveg.

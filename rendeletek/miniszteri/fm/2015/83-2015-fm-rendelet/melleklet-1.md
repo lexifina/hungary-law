@@ -26,8 +26,8 @@ II. A jelölésnél alkalmazott füljelzők és feliratok:
 
 3.1. az önálló tenyészetekben – a tenyészsertések kivételével – a tenyészetkód első hat számjegye és egy futó sorszám;
 
-3.2.[^23] a vármegyei körzetbe sorolt tenyészetekben – a tenyészsertések kivételével – a vágóhídi füljelzőn országosan folyamatos futó sorszám, amely a tartós műanyag füljelzőn egyjegyű ellenőrző számmal egészül ki;
+3.2.[^25] a vármegyei körzetbe sorolt tenyészetekben – a tenyészsertések kivételével – a vágóhídi füljelzőn országosan folyamatos futó sorszám, amely a tartós műanyag füljelzőn egyjegyű ellenőrző számmal egészül ki;
 
 3.3. tenyészsertések esetében tizenegy jegyű szám, amelynek első számjegye 1, öt számjegyű előtaggal, négy számjegyű használati számmal és az egyjegyű ellenőrző számmal.
 
-[^23]: Az 1. melléklet II. rész 3. pont 3.2. alpontja a 23/2023. (V. 10.) AM rendelet 27. § d) pontja szerint módosított szöveg.
+[^25]: Az 1. melléklet II. rész 3. pont 3.2. alpontja a 23/2023. (V. 10.) AM rendelet 27. § d) pontja szerint módosított szöveg.

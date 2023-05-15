@@ -1,8 +1,8 @@
-3. § (1)[^2] Nem kell megjelölni kilenc hónapos korukig
+3. § (1)[^3] Nem kell megjelölni kilenc hónapos korukig
 
 a) a levágásra kerülő sertéseket, ha a vágóhíd és a tenyészet azonos tartási helyen van, és kizárólag erről a tartási helyről származó sertéseket vágnak;
 
-b)[^3] azon sertéseket, melyek esetében jogszabály alapján az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) vagy az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal zárt vagy elkülönített vágást rendel el.
+b)[^4] azon sertéseket, melyek esetében jogszabály alapján az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró vármegyei kormányhivatal (a továbbiakban: vármegyei kormányhivatal) vagy az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal zárt vagy elkülönített vágást rendel el.
 
 (2) Amennyiben jelölésük nem felel meg az e rendeletben foglaltaknak,
 
@@ -16,5 +16,5 @@ b) a vágásra importált sertéseket, amelyek a vágóhídra érkezésük után
 
 (4) Tilos átjelölni az e rendelet szerint már megjelölt tenyészsertéseket.
 
-[^2]: A 3. § (1) bekezdés nyitó szövegrésze a 23/2023. (V. 10.) AM rendelet 27. § a) pontja szerint módosított szöveg.
-[^3]: A 3. § (1) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 219. § a) pontja, a 23/2023. (V. 10.) AM rendelet 27. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés nyitó szövegrésze a 23/2023. (V. 10.) AM rendelet 27. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § (1) bekezdés b) pontja a 42/2017. (VIII. 17.) FM rendelet 219. § a) pontja, a 23/2023. (V. 10.) AM rendelet 27. § b) pontja szerint módosított szöveg.

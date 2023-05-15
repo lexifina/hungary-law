@@ -1,3 +1,3 @@
-## 29. §[^21] E rendelet hatálybalépésekor a 2. § (1) bekezdés d) pontja szerint jelölésköteles, de még meg nem jelölt tenyészsertések esetén a jelölést 2016. december 31-ig kell elvégezni.
+30. §[^23] Ez a rendelet az (EU) 2016/429 európai parlamenti és tanácsi rendeletnek a bizonyos tartott szárazföldi állatok nyomonkövethetősége tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2021. március 24-i (EU) 2021/520 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^21]: A 29. § a 42/2016. (VI. 28.) FM rendelet 2. §-a szerint módosított szöveg.
+[^23]: A 30. § a 23/2023. (V. 10.) AM rendelet 26. § (2) bekezdésével megállapított szöveg.
