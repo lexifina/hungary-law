@@ -1,0 +1,21 @@
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P |
+
+| 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Megítélt OP támogatás (forint) | Hatályos forrásszerkezet | Változás (hatályoshoz viszonyítva) | Módosított forrásszerkezet | Projekt rövid bemutatása |
+
+| 2. | Az OP keretében finanszírozandó összeg (forint) | Az 590/2022. (XII. 28.) Korm. rendelet 9. §(1) bekezdés f) pontja alapján az OP hazai társfinanszírozáson felüli felhasználásával finanszírozandó összeg (forint) | Önerő (forint) | Módosítás előtti összköltség (forint) | Az OP keretében finanszírozandó összeg (forint) | Az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján az OP hazai társfinanszírozáson felüli felhasználásával finanszírozandó összeg (forint) | Önerő (forint) | Az OP keretében finanszírozandó összeg (forint) | Az 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján az OP hazai társfinanszírozáson felüli felhasználásával finanszírozandó összeg (forint) | Önerő (forint) | Módosítást követő összköltség legfeljebb (forint) |
+
+| 3. | TOP-4.1.1-15-KO1- 2019-00021 | Egészségügyi alapellátás fejlesztése Pilismarót községben | Pilismarót Község Önkormányzata (konzorciumvezető) Komárom-Esztergom Megyei Területfejlesztési Korlátolt Felelősségű Társaság | 53 772 230 | 60 954 362 | 0 | 32 811 791 | 93 766 153 | 37 616 217 | 47 896 900 | 0 | 98 570 579 | 47 896 900 | 32 811 791 | 179 279 270 | A pályázat tárgya a Pilismarót, Köztársaság tér 3. szám alatti (hrsz. 268), önkormányzati tulajdonú, helyi értékvédelem alatt álló épület teljes felújítása, belső átalakítása, ahol jelenleg a község háziorvosa, az iskola-egészségügyi és a védőnői szolgálat megosztva tevékenykedik, továbbá egy szolgálati lakás is helyet kapott. |
+
+| 4. | TOP-4.1.1-16-HE1- 2019-00005 | Egészségügyi alapellátás fejlesztése Adácson | Adács Község Önkormányzata | 80 000 000 | 94 426 781 | 0 | 1 114 000 | 95 540 781 | 15 869 834 | 1 051 000 | -1 114 000 | 110 296 615 | 1 051 000 | 0 | 111 347 615 | A fejlesztéssel egy új épület építése valósul meg, mely a védőnői és fogorvosi alapellátásnak ad helyet. Az újonnan épülő épület a háziorvosi rendelő mellett kerül megépítésre, így koncentrálttá válik az egészségügyi alapellátási helyszín, továbbá lehetőséget biztosít a szakemberek szorosabb együttműködésére. |
+
+| 5. | TOP-4.3.1-16-SB1- 2020-00002 | Leromlott városi területek rehabilitációja Máriapócson | Máriapócs Város Önkormányzata | 149 994 202 | 149 994 202 | 0 | 0 | 149 994 202 | 126 011 239 | 2 500 558 | 0 | 276 005 441 | 2 500 558 | 0 | 278 505 999 | A projekt célja a szegregátumban élők életkörülményeinek, a hátrányos helyzetű lakosság alapvető szociális körülményeinek javítása. A projektben az alábbi tevékenységek megvalósítását tervezték: 1 db 1 lakásos szociális bérlakás építése, közösségi ház kialakítása és ahhoz kapcsolódó közösségi tér kialakítása, eszközbeszerzés a szociális bérlakáshoz és a közösségi házhoz kapcsolódóan. |
+
+| 6. | TOP-6.2.1-16-MI1- 2017-00003 | Miskolc, Heim Pál Bölcsőde férőhely bővítése | Miskolc Megyei Jogú Város Önkormányzata | 265 306 043 | 265 306 043 | 0 | 0 | 265 306 043 | 91 585 970 | 3 761 999 | 0 | 356 892 013 | 3 761 999 | 0 | 360 654 012 | A Heim Pál Bölcsőde a Miskolc, Kassai utca 19. szám alatt található, 6 szárnyú, régi bölcsődei épület 3 szárnyában működik. Miskolc Megyei Jogú Város Önkormányzatának célja, hogy a Heim Pál Bölcsődében a bölcsődei férőhelyek számát 84 főről 168 főre emelje a megnövekedett lakossági igények alapján, és az egész épület bölcsődeként üzemelhessen. |
+
+3. melléklet az 1194/2023. (V. 15.) Korm. határozathoz
+
+|  | A | B | C | D | E |
+
+| 1. | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Támogatás (forint) | Projekt rövid bemutatása |
+
+| 2. | TOP-6.4.1-15-KE1- 2016-00002 | Bem u. – Kuruc krt. kereszteződésében körforgalom kiépítése | Kecskemét Megyei Jogú Város Önkormányzata | 1 205 373 788 | A projekt keretében a Kecskemét, Bem u. – Kuruc krt. csomópontban a biztonságos és gyors közúti közlekedés érdekében turbókörforgalom kerül kialakításra gyalogos- és kerékpáros-átvezetéssel, a hozzá kapcsolódó csapadékvíz-elvezetéssel, valamint elválasztott gyalog- és kerékpárút épül a körforgalom mellett. |
