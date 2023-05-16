@@ -1,1 +1,3 @@
-20. § Hatályát veszti a 107/2011. (XI. 10.) VM rendelet 18. §-a.
+20. §[^21]
+
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

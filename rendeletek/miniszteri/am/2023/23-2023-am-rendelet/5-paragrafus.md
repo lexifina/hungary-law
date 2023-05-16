@@ -1,1 +1,3 @@
-5. § Hatályát veszti a 32/1999. (III. 31.) FVM rendelet 9. számú melléklet 1.1. pont c) alpontjában a „növényevő” szövegrész.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

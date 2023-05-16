@@ -1,1 +1,3 @@
-16. § Hatályát veszti a 180/2009. (XII. 29.) FVM rendelet 9. § (6) bekezdésében az „A minta vizsgálatra való alkalmatlansága, a mintakísérő irat hiánya vagy nem megfelelő kitöltése esetén a laboratórium a vizsgálatot megtagadhatja.” szövegrész.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
