@@ -1,0 +1,1 @@
+5. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény egyes rendelkezéseinek végrehajtásáról szóló 363/2011. (XII. 30.) Korm. rendelet 5. § (2) bekezdésében a „tizenötszörösét” szövegrész helyébe a „tizennyolcszorosát” szöveg lép.

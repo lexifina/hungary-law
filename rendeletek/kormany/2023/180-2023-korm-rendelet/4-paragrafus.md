@@ -1,0 +1,1 @@
+4. § Ahol jogszabály a Kit. 1. mellékletét, illetve az abban foglalt I. vagy II. pont szerinti Illetménytáblát említi, az alatt az 1. mellékletet, illetve az 1. mellékletben foglalt I. vagy II. pont szerinti Illetménytáblát kell érteni.
