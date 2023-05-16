@@ -1,3 +1,3 @@
-21. § A 474/2013. (XII. 12.) Korm. rendelet 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+21. §[^22]
 
-„(2) A jegyző a (3) bekezdésben meghatározott tartalmú iratjegyzékkel együtt az adásvételi szerződést és az elővásárlásra jogosultak jognyilatkozatait, az elővásárlási jogosultságot bizonyító okiratokat, továbbá a működtető szervezet által a közzététel időpontjáról és tartalmáról, valamint a levétel időpontjáról megküldött automatikus igazolást a Földforgalmi tv. 22. § (1) bekezdésében meghatározott határidőben az ott meghatározottak részére megküldi. Az okiratoknak a mezőgazdasági igazgatási szerv részére történő megküldése esetén a jegyző az irattovábbítás tényéről – azzal egyidejűleg – értesíti az eladót.”
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

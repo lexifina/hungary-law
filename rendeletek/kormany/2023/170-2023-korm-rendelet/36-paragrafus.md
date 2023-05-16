@@ -1,1 +1,3 @@
-36. § A 383/2016. (XII. 2.) Korm. rendelet 17. § (1) bekezdés d) pontjában a „38. § (5)–(8) bekezdésében” szövegrész helyébe a „38. § (5)–(9) bekezdésében” szöveg lép.
+36. §[^37]
+
+[^37]: A 36. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

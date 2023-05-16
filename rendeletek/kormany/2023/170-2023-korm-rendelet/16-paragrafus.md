@@ -1,1 +1,3 @@
-16. § Hatályát veszti a 262/2010. (XI. 17.) Korm. rendelet 29. § (2) bekezdésében az „és járási (fővárosi kerületi) hivatal” szövegrész.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

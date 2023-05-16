@@ -1,3 +1,3 @@
-40. § A 647/2020. (XII. 23.) Korm. rendelet 16. § (4) bekezdése helyébe a következő rendelkezés lép:
+40. §[^41]
 
-„(4) A kinyomtatott térképvázlatnak tartalmaznia kell a kérelemmel érintett földrészlet vonatkozásában a megosztás előtti állami ingatlan-nyilvántartási térképi adatbázis adatait, valamint a megosztás után kialakított új földrészletek térképi határvonalait 0,5 mm vastagságú vonallal 1:1000 vagy 1:2000 méretarányban, továbbá a megosztással kialakított földrészletekhez az osztóprogram által képzett egyedi helyrajzi szám azonosítókat és a változással érintett alrészlet, művelési ág és minőségi osztály adatokat megkülönböztetett módon. Ha a megadott méretarányban a földrészletek megjelenítése meghaladja a szabványos A1 lapméretet, akkor kisebb méretarány is alkalmazható, hogy a megjelenítés az A1 lapméretben biztosítható legyen.”
+[^41]: A 40. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

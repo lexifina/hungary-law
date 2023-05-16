@@ -1,3 +1,3 @@
-43. § A 647/2020. (XII. 23.) Korm. rendelet 23. §-a a következő (5) bekezdéssel egészül ki:
+43. §[^44]
 
-„(5) A Foktftv. 10. § (2) bekezdése szerinti szolgalmi jog alapításáról az egyezségben csak a megosztás eredményeként létrejövő azon új ingatlan esetében kell rendelkezni, amely nincs összekötve közúttal.”
+[^44]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

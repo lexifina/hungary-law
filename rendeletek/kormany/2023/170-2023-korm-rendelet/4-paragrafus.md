@@ -1,5 +1,3 @@
-4. § Hatályát veszti a 356/2007. (XII. 23.) Korm. rendelet 14. § (2) bekezdés
+4. §[^5]
 
-a) h) pontjában a „vagy” szövegrész,
-
-b) i) pontjában a „ha” szövegrész.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

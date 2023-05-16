@@ -1,7 +1,3 @@
-12. § A 262/2010. (XI. 17.) Korm. rendelet 43/D. § (2) bekezdése helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„(2) Nem kell pályáztatási eljárást lefolytatni
-
-a) természetvédelmi kijelölés útján történő haszonbérbe adás esetén, vagy
-
-b) ha a haszonbérbe adandó területek együttes térmértéke nem haladja meg az 5 hektárt.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

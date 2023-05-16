@@ -1,3 +1,3 @@
-30. § (1) A 474/2013. (XII. 12.) Korm. rendelet a 2. melléklet szerinti 4. melléklettel egészül ki.
+30. §[^31]
 
-(2) A 474/2013. (XII. 12.) Korm. rendelet a 3. melléklet szerinti 5. melléklettel egészül ki.
+[^31]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
