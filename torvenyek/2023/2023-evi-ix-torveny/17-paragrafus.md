@@ -1,1 +1,1 @@
-17. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 44. § (1) bekezdésében a „valamint az állami projektértékelői jogviszony kivételével” szövegrész helyébe az „az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony kivételével” szöveg lép.
+### 17. §

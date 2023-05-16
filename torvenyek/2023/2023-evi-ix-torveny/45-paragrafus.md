@@ -1,1 +1,1 @@
-45. § A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 50. § (1) bekezdésében a „valamint az állami projektértékelői jogviszony kivételével” szövegrész helyébe az „az állami projektértékelői jogviszony és az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszony kivételével” szöveg lép.
+### 45. §
