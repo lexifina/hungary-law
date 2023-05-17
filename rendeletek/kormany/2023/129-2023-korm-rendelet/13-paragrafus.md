@@ -6,9 +6,12 @@
 
 (4) A gazdasági társaság értékesítéséből befolyt vételár felosztása során a megszűnt zálogjogok és a Cstv. 49/D. § (3) bekezdése szerinti egyéb jogok jogosultjainak igénye minden más – ideértve az R2. 4. § (3) bekezdése szerinti – hitelezőt megelőz az eredeti vagyontárgyra fennállt jogosítványuk erejéig, egymás közötti viszonyukban pedig a kielégítés az e jogok megszűnése előtti mértékhez és sorrendiséghez igazodik.
 
-(5)[^1]
+(5) Sikeres értékesítés esetén a vevő a felszámoló által szolgáltatott adatok alapján – legkésőbb a vételár megfizetését követő 15 napon belül – köteles megfizetni
 
-(6)[^2]
+a) felszámolói díjelőlegeként a nettó vételár 3%-ának megfelelő összeget és az azt terhelő általános forgalmi adó megfizetéséhez szükséges összeget,
 
-[^1]: A 13. § (5) bekezdése a 22. § (2) bekezdés alapján 2023. május 17-én lép hatályba.
-[^2]: A 13. § (6) bekezdése a 22. § (2) bekezdés alapján 2023. május 17-én lép hatályba.
+b) a Cstv. 59. § (5) bekezdése szerinti kifizetésre a vételár 2%-át, amelyet a felszámoló haladéktalanul a Fővárosi Törvényszék Gazdasági Hivatala részére utal át a díjkiegészítési számlára, valamint
+
+c) a nettó vételár és a felszámolási eljárásban elismert, beszámítható követelése, valamint az a) pont alapján kifizetett díjelőleg összege közötti pozitív különbözetet.
+
+(6) A Cstv. 59. § (1) bekezdésétől eltérően a felszámoló díja a felszámolás során eladott vagyontárgyak bevétele és a befolyt – a felszámolás kezdő időpontja előtt keletkezett – követelések pénzbevétele együttes összegének 1%-a, valamint ezenfelül az e rendelet szerinti értékesítés esetén az (5) bekezdésben meghatározott összeg.

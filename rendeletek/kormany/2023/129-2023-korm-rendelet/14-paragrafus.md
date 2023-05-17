@@ -10,6 +10,4 @@
 
 (6) A gazdasági társaság törléséhez az adóhatóság Ctv. 62. § (4) bekezdése szerinti értesítésre nincs szükség.
 
-(7)[^3]
-
-[^3]: A 14. § (7) bekezdése a 22. § (2) bekezdés alapján 2023. május 17-én lép hatályba.
+(7) A cégbíróság a végelszámolás befejezésekor a felszámoló elvégzett munkájával arányos végelszámolói díjat állapít meg.
