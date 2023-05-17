@@ -14,9 +14,9 @@ e) a sűrített földgáz esetében az MSZ EN ISO 15403-1 legkésőbbi évjelzet
 
 f) a cseppfolyósított szénhidrogéngáz esetében az MSZ EN 589 legkésőbbi évjelzetű termékszabvány,
 
-g)[^4] a közlekedésben felhasznált villamos energia esetében az MSZ EN 50160 legkésőbbi évjelzetű termékszabvány
+g)[^6] a közlekedésben felhasznált villamos energia esetében az MSZ EN 50160 legkésőbbi évjelzetű termékszabvány
 
-## - szerinti követelményeknek.
+- szerinti követelményeknek.
 
 (2) Az 1–4. mellékletekben meghatározott minőségi követelményeknek történő megfelelés vizsgálata során az egyes mérési eredményeket az MSZ EN ISO 4259 szabványban meghatározott kritériumok alapján kell értelmezni.
 
@@ -26,4 +26,4 @@ g)[^4] a közlekedésben felhasznált villamos energia esetében az MSZ EN 50160
 
 (5) Ha a kőolaj-finomítók esetében a behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 1. § 5. pontjában meghatározott kőolaj- és kőolajtermék-ellátási válsághelyzet az (1) és (4) bekezdésben foglalt minőségi követelmények betartását időlegesen akadályozza, a minőségi követelmények teljesüléséről az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) tájékoztatja az Európai Bizottságot.
 
-[^4]: A 3. § (1) bekezdés g) pontját a 31/2017. (VIII. 17.) NFM rendelet 4. §-a iktatta be.
+[^6]: A 3. § (1) bekezdés g) pontját a 31/2017. (VIII. 17.) NFM rendelet 4. §-a iktatta be.

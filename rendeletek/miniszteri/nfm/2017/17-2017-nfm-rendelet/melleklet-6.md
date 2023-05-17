@@ -18,6 +18,8 @@
 
 ## 4. A forgalmazó által forgalmazott összes motorhajtóanyag teljes életciklusra számított üvegházhatásúgáz-intenzitását az alábbi képlet segítségével kell kiszámítani:
 
+## 1X12887M_1
+
 | A forgalmazó üvegházhatásúgáz-intenzitása(i) = |  |
 
 ## ahol:
@@ -30,7 +32,7 @@
 
 ## 4.3.1. Az egyes motorhajtóanyagok mennyisége típusonként
 
-## A 684/2009/EK rendelet I. melléklete 1. táblázata 17. pontjának d), f) és o) alpontja szerint bejelentett adatok alapján kell meghatározni. A bioüzemanyag-mennyiségek alsó fűtőértékkel számolt energiatartalomra váltása a Büat. Vhr. 1. mellékletében meghatározott üzemanyag-energiasűrűségeknek megfelelően történik. A nem biológiai eredetű motorhajtóanyagok mennyiségének alsó fűtőértékkel számolt energiatartalomra váltása a Közös Kutatóközpont-EUCAR-CONCAWE (JEC) 2013. júliusi Well-to-tank jelentésének (4. változat) 1. függeléke alapján történik.
+## A 684/2009/EK rendelet I. melléklete 1. táblázata 17. pontjának d), f) és o) alpontja szerint bejelentett adatok alapján kell meghatározni. A bioüzemanyag-mennyiségek alsó fűtőértékkel számolt energiatartalomra váltása a bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok fenntarthatósági követelményeiről és igazolásáról szóló 821/2021. (XII. 28.) Korm. rendelet (a továbbiakban: Büat. Vhr.) 1. mellékletében meghatározott üzemanyag-energiasűrűségeknek megfelelően történik. A nem biológiai eredetű motorhajtóanyagok mennyiségének alsó fűtőértékkel számolt energiatartalomra váltása a Közös Kutatóközpont-EUCAR-CONCAWE (JEC) 2013. júliusi Well-to-tank jelentésének (4. változat) 1. függeléke alapján történik.
 
 ## 4.3.2. Fosszilis motorhajtóanyagok és bioüzemanyagok egyidejű feldolgozása
 
@@ -38,7 +40,7 @@
 
 ## 4.3.2.2. Amennyiben a fosszilis motorhajtóanyagokba többfajta bioüzemanyagot is bekevernek, minden egyes bioüzemanyag mennyiségét és típusát bele kell venni a számításba és a forgalmazó által elküldött jelentésbe.
 
-## 4.3.2.3. A forgalmazott, a Büat. Vhr. 2. § (1) és (2) bekezdésében meghatározott fenntarthatósági kritériumoknak meg nem felelő bioüzemanyag-mennyiség fosszilis motorhajtóanyagnak számít.
+## 4.3.2.3. A forgalmazott, a Büat. Vhr. 3. § (1) és (4) bekezdésében meghatározott fenntarthatósági kritériumoknak meg nem felelő bioüzemanyag-mennyiség fosszilis motorhajtóanyagnak számít.
 
 ## 4.3.2.4. Az E85 benzin-etanol keverék mennyiségét a 443/2009/EK európai parlamenti és tanácsi rendelet 6. cikkének alkalmazásában külön motorhajtóanyagként kell számítani.
 
@@ -80,7 +82,7 @@
 
 ## 4.4.2.1. A termelésoldali kibocsátáscsökkentéseket a nemzetközi szabványokban, konkrétan az ISO 14064, ISO 14065 és ISO 14066 szabványban meghatározott, önkéntes alapú rendszerek keretében alkalmazott elvekkel összhangban és normák szerint kell megbecsülni és értékelni.
 
-## 4.4.2.2. A termelésoldali kibocsátáscsökkentéseket és a kibocsátási referenciaértékeket az ISO 14064 szabványnak megfelelően kell jelenteni, hitelesíteni és nyomon követni, és az eredményeknek a 600/2012/EU és a 601/2012/EU bizottsági rendeletben előírttal egyenértékű megbízhatóságúaknak kell lenniük. A termelésoldali kibocsátáscsökkentések megbecslésekor használt módszerek hitelesítésének meg kell felelnie az ISO 14064-3 szabványnak, a hitelesítést végző szervezetnek pedig az ISO 14065 szabványban leírtaknak megfelelő akkreditációval kell rendelkeznie.
+## 4.4.2.2. A termelésoldali kibocsátáscsökkentéseket és a kibocsátási referenciaértékeket az ISO 14064 szabványnak megfelelően kell jelenteni, hitelesíteni és nyomon követni, és az eredményeknek a 2018/2067/EU és a 2018/2066/EU bizottsági rendeletben előírttal egyenértékű megbízhatóságúaknak kell lenniük. A termelésoldali kibocsátáscsökkentések megbecslésekor használt módszerek hitelesítésének meg kell felelnie az ISO 14064-3 szabványnak, a hitelesítést végző szervezetnek pedig az ISO 14065 szabványban leírtaknak megfelelő akkreditációval kell rendelkeznie.
 
 ## 4.5. A „GHGix” az „x” motorhajtóanyag egy egységére jutó, gCO2eq/MJ egységben kifejezett üvegházhatásúgáz-intenzitás. A forgalmazónak az egyes motorhajtóanyagok egységnyi üvegházhatásúgáz-intenzitását az alábbi módon kell meghatároznia:
 
@@ -88,7 +90,7 @@
 
 ## 4.5.2. a bioüzemanyagok üvegházhatásúgáz-intenzitása;
 
-## A Büat. Vhr. 2. § (1) és (2) bekezdésében meghatározott fenntarthatósági kritériumoknak megfelelő bioüzemanyagok üvegházhatásúgáz-intenzitását a 36/2010. (XII. 31.) NFM rendelet 1. mellékletének megfelelően kell kiszámítani. Amennyiben a bioüzemanyagok teljes életciklusra számított üvegházhatásúgáz-kibocsátására vonatkozó adatok egy, a Büat. Vhr. 2. § (3) és (4) bekezdésére vonatkozó megállapodásnak vagy rendszernek megfelelően lettek összegyűjtve, az adatok felhasználandók a bioüzemanyagok üvegházhatásúgáz-intenzitásának e rendelet céljaira történő megállapítására is. A Büat. Vhr. 2. § (1) és (2) bekezdésében meghatározott fenntarthatósági kritériumoknak meg nem felelő bioüzemanyagok üvegházhatásúgáz-intenzitása megegyezik a megfelelő, hagyományos kőolajból vagy földgázból származó fosszilis motorhajtóanyagokéval;
+## A Büat. Vhr. 3. § (1) és (4) bekezdésében meghatározott fenntarthatósági kritériumoknak megfelelő bioüzemanyagok üvegházhatásúgáz-intenzitását a 68/2021. (XII. 30.) ITM rendelet 1. mellékletének megfelelően kell kiszámítani. Amennyiben a bioüzemanyagok teljes életciklusra számított üvegházhatásúgáz-kibocsátására vonatkozó adatok egy, a Büat. Vhr. 2. § (3) és (4) bekezdésére vonatkozó megállapodásnak vagy rendszernek megfelelően lettek összegyűjtve, az adatok felhasználandók a bioüzemanyagok üvegházhatásúgáz-intenzitásának e rendelet céljaira történő megállapítására is. A Büat. Vhr. 3. § (1) és (4) bekezdésében meghatározott fenntarthatósági kritériumoknak meg nem felelő bioüzemanyagok üvegházhatásúgáz-intenzitása megegyezik a megfelelő, hagyományos kőolajból vagy földgázból származó fosszilis motorhajtóanyagokéval;
 
 ## 4.5.3. nem biológiai eredetű motorhajtóanyagok és bioüzemanyagok egyidejű feldolgozása
 
@@ -186,6 +188,8 @@
 
 ## A forgalmazók a villamos energiára vonatkozó üvegházhatásúgáz-intenzitás (gCO2eq/MJ) értékeit a jelentett adatokból kiindulva az üvegházhatást okozó gázok kibocsátásának nyomon követésére és bejelentésére, valamint az éghajlatváltozással kapcsolatos egyéb információk nemzeti és uniós szintű bejelentésére szolgáló rendszerről, valamint a 280/2004/EK határozat hatályon kívül helyezéséről szóló, 2013. május 21-i 525/2013/EU európai parlamenti és tanácsi rendelet alapján határozzák meg.
 
-6. melléklet a 17/2017. (V. 26.) NFM rendelethez[^16]
+6. melléklet a 17/2017. (V. 26.) NFM rendelethez[^26]
 
-[^16]: A 6. melléklet a 31/2017. (VIII. 17.) NFM rendelet 6. § c)–e) pontja és 7. § (2) bekezdése, a 67/2021. (XII. 30.) ITM rendelet 7. § c) pontja szerint módosított szöveg.
+A JELENTETT ADATOK KONZISZTENCIÁJÁT BIZTOSÍTÓ SABLON JELENTÉS KÉSZÍTÉSÉHEZ
+
+[^26]: A 6. melléklet a 31/2017. (VIII. 17.) NFM rendelet 6. § c)–e) pontja és 7. § (2) bekezdése, a 67/2021. (XII. 30.) ITM rendelet 7. § c) pontja szerint módosított szöveg.

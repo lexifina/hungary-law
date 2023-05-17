@@ -1,6 +1,6 @@
-## A JELENTETT ADATOK KONZISZTENCIÁJÁT BIZTOSÍTÓ SABLON JELENTÉS KÉSZÍTÉSÉHEZ
-
 ## 1. Motorhajtóanyag (kivéve villamos energia)– Egyedüli forgalmazók
+
+## 1X12887N_0
 
 |  | A | B | C | D | E | F | G | H | I | J | K |
 
@@ -37,6 +37,8 @@
 | 16 |  |
 
 ## 2. Motorhajtóanyag (kivéve villamos energia)– Közös forgalmazók
+
+## 1X12887N_1
 
 |  | A | B | C | D | E | F | G | H | I | J | K |
 
@@ -142,15 +144,17 @@
 
 7. melléklet a 17/2017. (V. 26.) NFM rendelethez
 
-## A MOTORHAJTÓANYAGOKRA VONATKOZÓ KIINDULÁSI ÉRTÉK KISZÁMÍTÁSA A FOSSZILIS MOTORHAJTÓANYAGOK TEKINTETÉBEN
+A MOTORHAJTÓANYAGOKRA VONATKOZÓ KIINDULÁSI ÉRTÉK KISZÁMÍTÁSA A FOSSZILIS MOTORHAJTÓANYAGOK TEKINTETÉBEN
 
 1. Számítási módszer
 
 A motorhajtóanyagokra vonatkozó kiindulási értéket a fosszilis motorhajtóanyagok közül a benzin, a dízelolaj, a gázolaj, a cseppfolyósított szénhidrogéngáz és a sűrített földgáz átlagos országos fogyasztása alapján kell kiszámítani, a következőképpen:
 
+## 7K07860_0
+
 | Motorhajtóanyagokra vonatkozó kiindulási érték = |  |
 
-ahol:
+## ahol:
 
 1.1. x az e rendelet hatálya alá tartozó, a lenti táblázatban meghatározott különböző motorhajtóanyagokat jelöli;
 

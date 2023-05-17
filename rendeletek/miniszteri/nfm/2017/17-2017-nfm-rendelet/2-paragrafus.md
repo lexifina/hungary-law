@@ -40,10 +40,14 @@ c) a 2714 KN-kóddal jelölt kátrányos homok meghatározása alá tartozik, é
 
 d) kinyerése bányászati kitermeléssel vagy termikusan segített gravitációs lecsapolással történik, amely esetben a hőenergiát elsősorban nem magából a nyersanyagforrásból nyerik.
 
-(2) A motorbenzin, valamint a bioüzemanyag fogalmát a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvényben (a továbbiakban: Büat.), az E85 és a KN-kód fogalmát a Jöt.-ben, továbbá a biodízel fogalmát a fenntartható bioüzemanyag-termelés követelményeiről és igazolásáról szóló 343/2010. (XII. 28.) Korm. rendeletben (a továbbiakban: Büat. Vhr.) meghatározottak szerint kell értelmezni.
+14.[^4] biodízel: növényi vagy állati olajból vagy zsírból előállított, dízelüzemanyag minőségű metilészter.
+
+(2)[^5] A motorbenzin, valamint a bioüzemanyag fogalmát a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvényben (a továbbiakban: Büat.), az E85 és a KN-kód fogalmát a Jöt.-ben meghatározottak szerint kell értelmezni.
 
 (3) Ahol e rendelet szabvány alkalmazását írja elő, azon a szabvánnyal egyenértékű más műszaki megoldást is érteni kell.
 
 [^1]: A 2. § (1) bekezdés 4. pontja a 25/2020. (VII. 3.) ITM rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^2]: A 2. § (1) bekezdés 8. pontja a 25/2020. (VII. 3.) ITM rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^3]: A 2. § 9. pontja a 31/2017. (VIII. 17.) NFM rendelet 6. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés 14. pontját a 7/2023. (V. 9.) EM rendelet 1. §-a iktatta be.
+[^5]: A 2. § (2) bekezdése a 7/2023. (V. 9.) EM rendelet 7. § a) pontja szerint módosított szöveg.

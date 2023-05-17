@@ -1,5 +1,3 @@
-## A forgalmazott E85 minőségi követelményei
-
 |  | A | B | C | D |
 
 | 1. | Jellemző | Mértékegység | Határértékek |
@@ -36,6 +34,6 @@
 
 | 17. | Szulfáttartalom | mg/kg |  | 4,0 |
 
-5. melléklet a 17/2017. (V. 26.) NFM rendelethez[^15]
+5. melléklet a 17/2017. (V. 26.) NFM rendelethez[^25]
 
-[^15]: Az 5. melléklet a 31/2017. (VIII. 17.) NFM rendelet 6. § b) pontja és 7. § (1) bekezdése, a 67/2021. (XII. 30.) ITM rendelet 7. § b) pontja szerint módosított szöveg.
+[^25]: Az 5. melléklet a 31/2017. (VIII. 17.) NFM rendelet 6. § b) pontja és 7. § (1) bekezdése, a 67/2021. (XII. 30.) ITM rendelet 7. § b) pontja, a 7/2023. (V. 9.) EM rendelet 5-6. §-a szerint módosított szöveg. [Ez utóbbi módosító rendelet 6. § b) pontja által elrendelt módosítás, amely szerint az 5. melléklet I. rész 4. pont 4.3.2.1. alpontjában „a bioüzemanyag fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatásúgázkibocsátás-elkerülés kiszámításának szabályairól szóló 36/2010. (XII. 31.) NFM rendelet [a továbbiakban: 36/2010. (XII. 31.) NFM rendelet] 1. melléklet 17. alpontjában” szövegrész helyébe az „a bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatású gázkibocsátás elkerülés kiszámításának szabályairól szóló 68/2021. (XII. 30.) ITM rendelet [a továbbiakban: 68/2021. (XII. 30.) ITM rendelet] 1. melléklet 1.16. alpontjában” szöveg lép, nem vezethető át.]

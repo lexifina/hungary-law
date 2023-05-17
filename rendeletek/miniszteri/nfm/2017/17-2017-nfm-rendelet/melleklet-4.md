@@ -1,5 +1,3 @@
-## A forgalmazott biodízel minőségi követelményei
-
 |  | A | B | C | D |
 
 | 1 | Jellemző | Mértékegység | Határértékek |
@@ -57,3 +55,5 @@
 | 27 | Foszfortartalom | mg/kg |  | 4,0 |
 
 4. melléklet a 17/2017. (V. 26.) NFM rendelethez
+
+A forgalmazott E85 minőségi követelményei
