@@ -1,7 +1,3 @@
-7. § Hatályát veszti a Rendelet
+7. §[^8]
 
-a) 2. § (2) bekezdésében a „ , továbbá a biodízel fogalmát a fenntartható bioüzemanyag-termelés követelményeiről és igazolásáról szóló 343/2010. (XII. 28.) Korm. rendeletben (a továbbiakban: Büat. Vhr.)” szövegrész,
-
-b) 7. § (2) bekezdése,
-
-c) 8. § (2) bekezdés e) és f) pontja.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
