@@ -1,0 +1,3 @@
+2. § Az R. a következő 120. §-sal egészül ki:
+
+„120. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 184/2023. (V. 17.) Korm. rendelettel (a továbbiakban: Módr112.) megállapított 5/Q. §-át és a módosított 2. mellékletébenfoglalt táblázat 21. sorát a Módr112. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
