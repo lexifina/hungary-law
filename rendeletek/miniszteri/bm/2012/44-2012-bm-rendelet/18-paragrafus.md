@@ -2,12 +2,12 @@
 
 (2) Az adósnak az (1) bekezdésben megállapított határidőn belül benyújtott írásbeli kérelmére indokolt esetben a helyi lakásügyi szerv – a tartozás mielőbbi kiegyenlítése érdekében – az egyösszegű visszafizetés határidejét egy ízben 3 hónappal meghosszabbíthatja.
 
-(3)[^84]
+(3)[^86]
 
-(4)[^85]
+(4)[^87]
 
-(5)[^86]
+(5)[^88]
 
-[^84]: A 18. § (3) bekezdését a 7/2021. (III. 10.) BM rendelet 11. § d) pontja hatályon kívül helyezte.
-[^85]: A 18. § (4) bekezdését a 7/2021. (III. 10.) BM rendelet 11. § d) pontja hatályon kívül helyezte.
-[^86]: A 18. § (5) bekezdését a 7/2021. (III. 10.) BM rendelet 11. § d) pontja hatályon kívül helyezte.
+[^86]: A 18. § (3) bekezdését a 7/2021. (III. 10.) BM rendelet 11. § d) pontja hatályon kívül helyezte.
+[^87]: A 18. § (4) bekezdését a 7/2021. (III. 10.) BM rendelet 11. § d) pontja hatályon kívül helyezte.
+[^88]: A 18. § (5) bekezdését a 7/2021. (III. 10.) BM rendelet 11. § d) pontja hatályon kívül helyezte.
