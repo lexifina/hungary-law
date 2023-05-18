@@ -6,6 +6,6 @@
 
 | 2. | 059262 |  | Mecseki uránbányászok baleseti járadékainak és egyéb kártérítési kötelezettségeinek átvállalása | A költségvetési támogatás a Bányavagyon-hasznosító Nonprofit Közhasznú Kft. által kifizetett, az uránbányászatban 1993. december 31-ig keletkezett baleseti járadékokat és a munkavégzéssel kapcsolatos egyéb kártérítési kötelezettségeket téríti meg. | Bányavagyon-hasznosító Nonprofit Közhasznú Kft. | Utólagos utalványozás havonta. |  | A folyósításról havi elszámolás alapján a NAV gondoskodik. |  |  | Energiaügyi Minisztérium |  |  |
 
-7. melléklet a 10/2022. (XII. 16.) PM rendelethez
+7. melléklet a 10/2022. (XII. 16.) PM rendelethez[^5]
 
-XXI. Miniszterelnöki Kabinetiroda fejezet központi kezelésű előirányzatai2023. évi költségvetési kiadási előirányzatainak feladatterve
+[^5]: A 7. mellékletet a 2/2023. (V. 17.) PM rendelet 3. § b) pontja hatályon kívül helyezte.

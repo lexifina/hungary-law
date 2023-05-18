@@ -52,7 +52,7 @@
 
 | 25. | 376062 |  | Savköpő Menyét Alapítvány | A Párt tv. 9/A. §-a alapján a Savköpő Menyét Alapítvány támogatása. | Savköpő Menyét Alapítvány |  |  | A Kincstár általi utalás a Párt tv.-ben előírt határidőkben. |  |  | Kincstár |  |  |
 
-| 26. | 265823 |  | Tartalék | A Párt tv. 9/A. §-a alapján a Megoldás Mozgalom által létrehozandó Pártalapítvány támogatása. | Megoldás Mozgalom által létrehozandó Pártalapítvány |  |  | A Kincstár általi utalás a Párt tv.-ben előírt határidőkben. |  |  | Kincstár |  |  |
+| 26. | 400506 |  | MEMO Alapítvány | A Párt tv. 9/A. §-a alapján a MEMO Alapítvány támogatása. | MEMO Alapítvány |  |  | A Kincstár általi utalás a Párt tv.-ben előírt határidőkben. |  |  | Kincstár |  |  |
 
 | 27. |  | Közszolgálati médiaszolgáltatás támogatása |  |  |  |  |  |  |  |  |  |  |
 

@@ -6,6 +6,8 @@
 
 | 2. | 375773 |  | Roma települési és területi nemzetiségi önkormányzatok támogatása | Helyi nemzetiségi önkormányzatok működésének és feladatainak támogatása. | Helyi nemzetiségi önkormányzatok | A Kvtv. 10. melléklete szerint. | Igen | Vissza nem térítendő támogatás formájában. |  |  | Emberi Erőforrás Támogatáskezelő |  |  |
 
-4. melléklet a 10/2022. (XII. 16.) PM rendelethez
+4. melléklet a 10/2022. (XII. 16.) PM rendelethez[^4]
 
 XV. Pénzügyminisztérium fejezet központi kezelésű előirányzatai2023. évi költségvetési kiadási előirányzatainak feladatterve
+
+[^4]: A 4. mellékletet a 2/2023. (V. 17.) PM rendelet 2. §-a és 3. § a) pontja szerint módosított szöveg.
