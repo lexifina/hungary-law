@@ -58,7 +58,7 @@ c) 42. § (10) bekezdését,
 
 d) 99. § (9) bekezdését lakó rendeltetésű épületek esetében
 
-## nem kell alkalmazni.
+nem kell alkalmazni.
 
 (8) Az 1. mellékletben foglalt táblázat 2. sora szerinti beruházás keretében megvalósuló felépítmények használatbavételi engedélye kiadásának nem feltétele a helyi építési szabályzatban előírt infrastruktúra-fejlesztések elvégzése.
 
