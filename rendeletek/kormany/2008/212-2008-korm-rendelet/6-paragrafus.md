@@ -1,6 +1,8 @@
-5. § E rendelet 2008. szeptember 1-jén lép hatályba, rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
+## 5. § E rendelet 2008. szeptember 1-jén lép hatályba, rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-Melléklet a 212/2008. (VIII. 29.) Korm. rendelethez[^8]
+6. §[^8] E rendeletnek a fogyasztóvédelmi hatóság eljárása során felmerülő egyes eljárási költségekről szóló 212/2008. (VIII. 29.) Korm. rendelet módosításáról szóló 168/2023. (V. 11.) Korm. rendelettel (a továbbiakban: Módr.) módosított 3. § (2) bekezdését a Módr. hatálybalépésekor[^9] folyamatban lévő ügyekben is alkalmazni kell.
+
+Melléklet a 212/2008. (VIII. 29.) Korm. rendelethez[^10]
 
 |  | Tevékenység | Eljárási költség mértéke (forint) |
 
@@ -1214,4 +1216,6 @@ Melléklet a 212/2008. (VIII. 29.) Korm. rendelethez[^8]
 
 | 35.1. | Az 1–34. fejezetekben nem szereplő vizsgálatok esetében a díjszámítás a vizsgálatra fordított idő, az itt meghatározott mérnöki óradíj szorzata, hozzáadva a felhasznált anyagköltséget. | 3 000 |
 
-[^8]: A melléklet a 306/2012. (X. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 101/2016. (V. 13.) Korm. rendelet 2. §-a, a 213/2017. (VII. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^8]: A 6. §-t a 168/2023. (V. 11.) Korm. rendelet 1. §-a iktatta be.
+[^9]: A hatálybalépés időpontja 2023. május 19.
+[^10]: A melléklet a 306/2012. (X. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 101/2016. (V. 13.) Korm. rendelet 2. §-a, a 213/2017. (VII. 25.) Korm. rendelet 1. §-a szerint módosított szöveg.
