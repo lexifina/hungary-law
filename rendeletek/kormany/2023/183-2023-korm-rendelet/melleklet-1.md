@@ -1,23 +1,3 @@
-1. melléklet a 183/2023. (V. 17.) Korm. rendelethez
+1. melléklet a 183/2023. (V. 17.) Korm. rendelethez[^5]
 
-Az R. 1. mellékletében foglalt táblázat a következő 8–13. sorral egészül ki:
-
-|  | (A | B | C | D | E |
-
-| 1. | A rozsdaövezeti akcióterület lehatárolása | A rozsdaövezeti akcióterület típusa | A rozsdaövezeti akcióterületen megvalósuló beruházás megnevezése | A beruházás helyszíne | Koordinációra kijelölt főispán) |
-
-„
-
-| 8. | Budapest XV. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 88258/2, 88258/5, 88258/8 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | Kereskedelmi és szolgáltató funkciókkal kiegészített lakóterület megvalósítására irányuló beruházás | Budapest XV. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 88258/2, 88258/5, 88258/8 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
-
-| 9. | Budapest XI. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 3830/4 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Ipari épületek bontását követően a terület rendezésével, parkosítással több ütemben megvalósuló lakóingatlan-fejlesztésre, lakóingatlanok kialakítására irányuló beruházás | Budapest XI. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 3830/4 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
-
-| 10. | Budapest XIV. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 31267/140, 31267/141, 31267/142, 31267/143, 31267/144, 31267/145, 31267/146, 31267/147, 31267/148, 31267/149, 31267/150 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | Komplex ingatlanfejlesztésre és ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházás | Budapest XIV. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 31267/140, 31267/141, 31267/142, 31267/143, 31267/144, 31267/145, 31267/146, 31267/147, 31267/148, 31267/149, 31267/150 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető főispán |
-
-| 11. | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25953/4, 25953/5, 25953/6, 25953/7, 25953/9, 25953/10, 25953/11, 25953/12, 25953/13, 25953/15, 25953/16, 25953/17, 25953/18, 25953/19, 25953/20, 25953/21, 25953/22, 25964/19, 25964/21, 25964/31, 25964/32, 25964/33, 25964/34 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | Új integrált városfejlesztés megvalósítása, közterületek és zöldfelületek kialakításával, vízpart-rehabilitációval, okos város és okos otthonok fejlesztése | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25953/4, 25953/5, 25953/6, 25953/7, 25953/9, 25953/10, 25953/11, 25953/12, 25953/13, 25953/15, 25953/16, 25953/17, 25953/18, 25953/19, 25953/20, 25953/21, 25953/22, 25964/19, 25964/21, 25964/31, 25964/32, 25964/33, 25964/34 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető főispán |
-
-| 12. | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25930, 25935/2 és 25934 helyrajzi számú ingatlanok | Azonnali rozsdaövezeti akcióterület | Multifunkcionális, lakó-, iroda-, kereskedelmi, szolgáltató és egyéb közösségi rendeltetéseket is magába foglaló ingatlanegyüttes megvalósítására irányuló beruházás | Budapest XIII. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 25930, 25935/2 és 25934 helyrajzi számú ingatlanok | Budapest Főváros Kormányhivatalát vezető főispán |
-
-| 13. | Budapest IX. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 38086/1 helyrajzi számú ingatlan és Budapest XX. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 170009 helyrajzi számú ingatlan | Azonnali rozsdaövezeti akcióterület | Új Duna-parti komplex városnegyed kialakítására irányuló beruházás lakások, szálloda, szolgáltató-helyiségek, kiskereskedelmi és rekreációs létesítmények, alapfokú oktatási létesítmény kialakításával | Budapest IX. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 38086/1 helyrajzi számú ingatlan és Budapest XX. kerület közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 170009 helyrajzi számú ingatlan | Budapest Főváros Kormányhivatalát vezető főispán |
-
-”
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
