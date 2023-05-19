@@ -1,0 +1,87 @@
+# A Kormány 186/2023. (V. 19.) Korm. rendelete
+
+Magyar Közlöny 2023. évi 75. szám, 2023. május 19. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/PXxcqBvmDIsEiCI83i8z645eafb237e38/dokumentumok/34c7afe3e2e8adfe5afabb204d1907e821d1562e/letoltes)
+
+---
+
+A Kormány 186/2023. (V. 19.) Korm. rendelete
+a felszámolási eljárás során a hitelezői gyűlés, a beszámítás, a jogutódlás és a telekalakítás veszélyhelyzeti
+szabályairól
+A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi
+és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvényt (a továbbiakban: Cstv.), az épített
+környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényt (a továbbiakban: Étv.), a telekalakításról
+szóló 85/2000. (XI. 8.) FVM rendeletet (a továbbiakban: FVM rendelet), az egyes földügyi eljárások részletes
+szabályairól szóló 384/2016. (XII. 2.) Korm. rendeletet (a továbbiakban: Korm. rendelet), a csődeljárásról és
+a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a cégnyilvánosságról, a bírósági cégeljárásról
+és a végelszámolásról szóló 2006. évi V. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló
+521/2022. (XII. 13.) Korm. rendeletet (a továbbiakban: R.), a csődeljárásról és a felszámolási eljárásról szóló 1991. évi
+XLIX. törvény, a bírósági végrehajtásról szóló 1994. évi LIII. törvény, a Polgári Törvénykönyvről szóló 2013. évi
+V. törvény veszélyhelyzet ideje alatt való eltérő alkalmazásáról, továbbá a csődeljárásról és a felszámolási eljárásról
+szóló 1991. évi XLIX. törvény, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló
+2006. évi V. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 521/2022. (XII. 13.) Korm. rendelet
+
+alapján elrendelt felszámolási eljárások veszélyhelyzet ideje alatti részletszabályairól szóló 21/2023. (I. 30.)
+Korm. rendeletet (a továbbiakban: R2.), a többségi befolyás alatt álló gazdálkodó szervezetek felszámolásának
+veszélyhelyzeti szabályairól szóló 64/2023. (III. 1.) Korm. rendeletet (a továbbiakban: R3.), valamint a felszámolási
+eljárás során az adós gazdasági tevékenysége folytatása érdekében való értékesítés veszélyhelyzeti szabályairól
+szóló 129/2023. (IV. 17.) Korm. rendeletet (a továbbiakban: R4.) az Ukrajna területén fennálló fegyveres konfliktusra,
+illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és
+kezelése érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.)
+Korm. rendelet szerinti veszélyhelyzet ideje alatt az e rendeletben foglalt eltérésekkel és kiegészítésekkel
+kell alkalmazni.
+2. §
+E rendeletet az R. 4. §-a és az R3. 3. §-a alapján elrendelt felszámolási eljárásokban kell alkalmazni.
+3. § (1) A felszámoló a hitelezői gyűlés meghívóját megküldi a bíróságnak, és egyúttal postai úton is megküldi
+a hitelezőknek. A bíróság haladéktalanul intézkedik a hitelezői gyűlés meghívója Cégközlönyben történő
+közzétételéről. A Cégközlönyben történő közzétételre a Cégközlöny honlapján napi feltöltéssel kerül sor. A meghívó
+a Cégközlönyben való közzététellel tekinthető közöltnek.
+(2) Ha a felszámolási eljárásban a nyilvántartásba vett hitelezők száma több, mint ezer, a felszámoló a hitelezői gyűlést
+eltérő időpontban, több részletben is megtarthatja. A Cstv. 57. § (1) bekezdés a) és c) pontja szerinti hitelezők, illetve
+a Cstv. 57. § (1) bekezdés b), d), e), f), g) és h) pontja szerinti hitelezők külön-külön csoportban kerülnek meghívásra.
+A Cstv. 57. § (1) bekezdés a) és c) pontja szerinti hitelezők hitelezői gyűlését a felszámoló több részletben is
+megtarthatja.
+(3) A felszámoló a hitelezői gyűlés (2) bekezdés szerinti megtartásának módját a meghívóban jelzi.
+(4) A felszámoló az eltérő időpontban, több részletben megtartott hitelezői gyűléseket követően összesíti a meghívott
+és megjelent hitelezőket. Az egyes hitelezői gyűlések jegyzőkönyve tartalmazza azokat a hitelezői szavazatokat,
+amelyek a hitelezői választmány megalakításában, illetve a hitelezői képviselő választásában részt kívánnak
+venni. A felszámoló a hitelezők számára lehetővé teszi azon hitelezői gyűlések jegyzőkönyvének megismerését is,
+amelyeket más hitelezői csoportok részvételével tartott meg.
+(5) A Cstv. 5/B. § (3) bekezdésének alkalmazásakor a polgári perrendtartásról szóló 2016. évi CXXX. törvény 325. §
+(1) bekezdés g) pontjában meghatározott dokumentumhitelesítés szolgáltatással hitelesített elektronikus okiratot is
+el kell fogadni.
+4. §
+Az R4. szerinti értékesítés során az R2. 4. §-a szerinti továbbműködéshez szükséges finanszírozást nyújtó
+a nyilvántartásba vett követelése erejéig az adóssal szemben olyan követelését is beszámíthatja, amely még
+nem vált esedékessé, illetve amelynek tekintetében a felszámolás kezdő időpontját követően került sor
+engedményezésre.
+5. §
+Az R4. 18. § (2) bekezdése szerinti jogutódlás kivételével az R4. 3. §-a és 4. §-a szerint létrehozott gazdasági társaság
+nem minősül az adós vagy adósok jogutódjának.
+6. § (1) Az olyan ingatlan telekfelosztása során, amely az R. 4. §-a alapján elrendelt felszámolás alatt álló gazdálkodó
+szervezet tulajdonában áll, és az ingatlan-nyilvántartásban művelés alól kivett ipartelepként van nyilvántartva
+(a továbbiakban: érintett ingatlan), a telekfelosztás során nem kell alkalmazni
+a) az Étv. 23. §-át, 24. § (2) és (3) bekezdését, valamint 24/A. § (1) és (2) bekezdését,
+b) a Korm. rendelet 21–23/D. §-át, továbbá
+c) az FVM rendeletet.
+(2) Az ingatlanügyi hatóság a telekfelosztás ingatlan-nyilvántartási átvezetésével kapcsolatos döntését az érintett
+ingatlan tulajdonosának telekfelosztás átvezetése iránti kérelme, az R. 4. §-a és az R3. 3. §-a alapján elrendelt
+felszámolási eljárás folyamatban létének igazolása és az ingatlanügyi hatóság által záradékolt telekfelosztási
+változási vázrajz alapján hozza meg.
+(3) Az érintett ingatlan tulajdoni lapjára bejegyzett jogokat és feljegyzett tényeket a telekfelosztás során létrejövő
+valamennyi ingatlanra változtatás nélkül át kell jegyezni, azzal, hogy az új ingatlant nem érintő jog vagy tény törlése
+utóbb, a bejegyzett jogosult törlési engedélyével kérhető.
+
+7. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+8. § (1) E rendelet rendelkezéseit – a (2) és (3) bekezdésben foglalt kivétellel – az e rendelet hatálybalépését követően indult
+eljárásokban kell alkalmazni.
+(2) E rendeletet az e rendelet hatálybalépésekor folyamatban lévő, az R. 4. §-a és az R3. 3. §-a alapján elrendelt
+felszámolási eljárásokban is alkalmazni kell.
+(3) Ha a felszámoló a hitelezői gyűlést a 3. § (2) bekezdésében meghatározott módon hívja össze, az R. 4. §-a alapján
+elrendelt és az e rendelet hatálybalépésekor folyamatban lévő felszámolási eljárásokban a felszámoló valamennyi
+hitelezői gyűlést az R2. 12. § (4) bekezdésében meghatározott határidőt követő 30 napon belül köteles megtartani.
+ Orbán Viktor s. k.,
+ miniszterelnök
