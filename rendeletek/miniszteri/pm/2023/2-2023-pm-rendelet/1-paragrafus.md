@@ -1,7 +1,3 @@
-1. § A pénzügyminiszter irányítása alá tartozó központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 10/2022. (XII. 16.) PM rendelet (a továbbiakban: Rendelet)
+1. §[^2]
 
-a) 1. melléklete az 1. melléklet szerint módosul,
-
-b) 9. melléklete a 2. melléklet szerint módosul,
-
-c) 10. melléklete helyébe a 3. melléklet lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
