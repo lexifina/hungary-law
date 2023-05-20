@@ -10,7 +10,25 @@
 
 (5) Ha az időszakos vizsgálatot a forgalmi engedély érvényességi határidején belül kérték, de a vizsgálatot az érvényességi határidő lejárta utáni időpontra tűzték ki, a vizsganapról szóló értesítés a forgalmi engedély érvényességét a közölt vizsgaidőpontig meghosszabbítja. Ha az időszakos vizsgálatot a forgalmi engedély érvényességi határidejének lejárta után kérték, az értesítés a vizsgahelyre történő közlekedéshez egy alkalomra szóló forgalmi engedélyt helyettesít.
 
-(6)[^148] Az időszakos vizsgálaton az MR. 5–8., 17., 19. és 21. §-a kivételével az üzemeltetési műszaki feltételek megtartását, a kötelező gépjármű-felelősségbiztosítás fedezete fennállását, továbbá a közlekedésbiztonsági és környezetvédelmi tulajdonságokat érintő változtatásokat, valamint a közúti közlekedési szolgáltatást végző járművek esetében az ezekre vonatkozó külön feltételek teljesítését ellenőrizni kell, továbbá a gépjárművek esetében – a versenyjárművek kivételével – rögzíteni kell a kilométer-számláló műszer által jelzett értéket is.
+(6)[^148] Az időszakos vizsgálaton az MR. 5–8., 17., 19. és 21. §-a kivételével az időszakos vizsgálatot végző vizsgáló állomás
+
+a) ellenőrzi
+
+aa) az üzemeltetési műszaki feltételek megtartását,
+
+ab) a kötelező gépjármű-felelősségbiztosítás fedezete fennállását,
+
+ac) a közlekedésbiztonsági és környezetvédelmi tulajdonságokat érintő változtatásokat, valamint
+
+ad) a közúti közlekedési szolgáltatást végző járművek esetében az ezekre vonatkozó – az Európai Unió közvetlenül hatályosuló jogi aktusaiban vagy a jogszabályokban meghatározott – külön feltételek teljesítését;
+
+b) rögzíti
+
+ba) a gépjárművek esetében – a versenyjárművek kivételével – a kilométer-számláló műszer által jelzett értéket,
+
+bb) az 5. számú melléklet 2. pont 2.5. alpontjában meghatározott adatokat; és
+
+c) a b) pont bb) alpontja alapján összegyűjtött adatokat elektronikusan megküldi a közlekedési hatóság részére.
 
 (7)[^149] Időszakos vizsgálaton kell bemutatni a vizsgáló állomáson a 2. § (3) bekezdésének e), f), g) és h) és i) pontjában említett járműveket. Az időszakos vizsgálaton az MR. üzemeltetési műszaki feltételeit – kivéve az MR. 5–8. §-ait és 19. §-át – és az MR. megfelelő további műszaki feltételeit is ellenőrizni kell.
 
@@ -76,7 +94,7 @@ b)[^162] a KR.-ben meghatározott esetben.
 [^145]: A 12. § (2) bekezdését a 14/1999. (XII. 23.) KHVM rendelet 4. § (3) bekezdése hatályon kívül helyezte, újonnan a 66/2009. (XI. 27.) KHEM rendelet 10. § (1) bekezdése iktatta be.
 [^146]: A 12. § (3)–(4) bekezdését a 14/1999. (XII. 23.) KHVM rendelet 4. § (3) bekezdése hatályon kívül helyezte 1999. június 27. napjával, e határnapon érvényüket vesztik a hatályon kívül helyezett rendelkezések alapján kiadott feljogosítások.
 [^147]: A 12. § (3)–(4) bekezdését a 14/1999. (XII. 23.) KHVM rendelet 4. § (3) bekezdése hatályon kívül helyezte 1999. június 27. napjával, e határnapon érvényüket vesztik a hatályon kívül helyezett rendelkezések alapján kiadott feljogosítások.
-[^148]: A 12. § (6) bekezdése a 18/2013. (V. 9.) NFM rendelet 7. §-ával megállapított szöveg.
+[^148]: A 12. § (6) bekezdése a 6/2023. (IV. 5.) ÉKM rendelet 1. §-ával megállapított szöveg.
 [^149]: A 12. § (7) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 10. § (2) bekezdésével megállapított, a 22/2012. (V. 8.) NFM rendelet 12. §-a szerint módosított szöveg.
 [^150]: A 12. § (7a) bekezdését a 9/2022. (VIII. 1.) TIM rendelet 10. § (2) bekezdése iktatta be.
 [^151]: A 12. § (8) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 10. § (2) bekezdésével megállapított szöveg.

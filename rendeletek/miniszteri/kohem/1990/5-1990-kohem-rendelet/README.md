@@ -64,3 +64,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1990-5-20-5E
 | 2023-01-24 | 1990-5-20-5E.107 | 1/2023. (I. 19.) ÉKM rendelet |
 | 2023-02-21 | 1990-5-20-5E.108 | 2/2018. (II. 5.) NFM rendelet |
 | 2023-04-13 | 1990-5-20-5E.109 | 65/2012. (XII. 10.) NFM rendelet |
+| 2023-05-20 | 1990-5-20-5E.110 | 6/2023. (IV. 5.) ÉKM rendelet |
