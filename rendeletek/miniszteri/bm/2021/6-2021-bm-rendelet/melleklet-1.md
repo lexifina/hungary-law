@@ -4,7 +4,7 @@
 
 A XIV. Belügyminisztérium fejezet 2022. évi költségvetési kiadási központi kezelésű előirányzatainak feladatterve
 
-2X10076M_46_2022_1_par_11_13 kieg_sor.docx
+3X03276M.docx
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O |
 
@@ -28,18 +28,18 @@ A XIV. Belügyminisztérium fejezet 2022. évi költségvetési kiadási közpon
 
 | 6 | 343628 |  | Gyógyszertári tulajdoni hányad állami elővásárlása és értékesítése | A gyógyszertárak tulajdonosi szerkezete tekintetében új, a többségi gyógyszerészi tulajdon elősegítését támogató szabályozás szerint a gyógyszertári tulajdonhányad értékesítése esetén elővásárlási joga van a törvényben meghatározott gyógyszerészeknek és az államnak. Az előirányzat felhasználásának célja lehetővé tenni, hogy az állam indokolt esetben élni tudjon elővásárlási jogával, ha azt a rangsorban előtte álló gyógyszerészek nem tennék meg. | a) egyéni vállalkozó, b) egyéni cég, c) egyéni vállalkozónak nem minősülő természetes személy, d) gazdasági társaság | – | – | egyösszegű kifizetéssel részletekben történő kifizetéssel | – | – | egészségbiztosítási alap előirányzatainak kezelő szerve | – | – |
 
-| 7 |  |  | Az Országos Kórházi Főigazgatóság tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |
+| 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 8 |  |  |  | Az Országos Kórházi Főigazgatóság tulajdonosi joggyakorlásával kapcsolatos kiadások |  |  |  |  |  |  |  |  |  |  |
+| 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 9 | 399728 |  |  |  | Társasági részesedés vásárlása | Az előirányzat fedezetet nyújt a Kormány egyedi határozatban megjelölt gazdasági társaság részesedésének az Országos Kórházi Főigazgatóság (a továbbiakban: OKFŐ) által az állam javára történő megszerzésére. | Az adásvétellel érintett szerződéses partnerek. | – | – | Szerződések, egyéb dokumentumok szerint. | – | – | OKFŐ | – | – |
+| 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 10 | 399739 |  |  |  | Az Országos Kórházi Főigazgatóság tulajdonosi joggyakorlása alá tartozó társaságok forrásjuttatásai | Az előirányzat felhasználásának célja az OKFŐ tulajdonosi joggyakorlásába tartozó gazdasági társaságok javára történő tőkeemelés pótbefizetés, valamint a vissza nem térítendő, és a visszatérítendő tulajdonosi támogatások pénzügyi fedezetének biztosítása. | az OKFŐ tulajdonosi joggyakorlásába tartozó gazdasági társaságok | Az F:10. mező 3. pontja tekintetében az előirányzat terhére kérelem útján egyedi döntéssel, támogatói okirat vagy támogatási szerződés alapján költségvetési támogatás nyújtható az állami vagyon felügyeletéért felelős miniszter jóváhagyása esetén. | Az F:10. mező 3. pontja tekintetében igen | Az F:10. mező 1–2. pontja tekintetében a tőkeemelés és pótbefizetés rendelkezésre bocsájtása alapítói határozat szerint történhet az állami vagyon felügyeletéért felelős miniszter jóváhagyása esetén. Az F:10. mező 3. pontja tekintetében a támogatás biztosítása egy összegben vagy – időarányosan, vagy teljesítmény-arányosan – részletekben. | Az F:10. mező 2. pontja szerinti pótbefizetés esetén a szerződés szerint. Az F:10. mező 3. pontja szerinti visszatérítendő támogatás esetén a támogatói okiratban vagy támogatási szerződésben meghatározottak szerint. | Az F:10. mező 3. pontja tekintetében az Ávr. 84. § (2) bekezdése szerinti biztosíték köthető ki. | OKFŐ | – | - |
+| 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 11 |  |  | A BM Országos Katasztrófavédelmi Főigazgatóság tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |
+| 11 |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 12 |  |  |  | A BM Országos Katasztrófavédelmi Főigazgatóság tulajdonosi joggyakorlásával kapcsolatos kiadások |
+| 12 |  |  |  |  |
 
-| 13 | 401017 |  |  |  | A BM Országos Katasztrófavédelmi Főigazgatóság tulajdonosi joggyakorlása alá tartozó társaságok forrásjuttatásai | Az előirányzat felhasználásának célja a BM Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: OKF) tulajdonosi joggyakorlásába tartozó gazdasági társaságok javára történő 1. tőkeemelés, 2. pótbefizetés, valamint 3. a vissza nem térítendő és a visszatérítendő tulajdonosi támogatások pénzügyi fedezetének biztosítása. | az OKF tulajdonosi joggyakor- lásába tartozó gazdasági társaságok | Az F:13 mező 3. pontja tekintetében az előirányzat terhére kérelem útján egyedi döntéssel, támogatói okirat vagy támogatási szerződés alapján költségvetési támogatás nyújtható az állami vagyon felügyeletéért felelős miniszter jóváhagyása esetén. | Az F:13 mező 3. pontja tekintetében igen | Az F:13 mező 1–2. pontja tekintetében a tőkeemelés és pótbefizetés rendelkezésre bocsájtása alapítói határozat szerint történhet az állami vagyon felügyeletéért felelős miniszter jóváhagyása esetén. Az F:13 mező 3. pontja tekintetében a támogatás biztosítása egy összegben vagy – időarányosan vagy teljesítmény-arányosan – részletekben. | Az F:13 mező 2. pontja szerinti pótbefizetés esetén a szerződés szerint. Az F:13 mező 3. pontja szerinti visszatérítendő támogatás esetén a támogatói okiratban vagy támogatási szerződésben meghatározottak szerint. | Az F:13 mező 3. pontja tekintetében az Ávr. 84. § (2) bekezdése szerinti biztosíték köthető ki. | OKF | – | – |
+| 13 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^2]: Az 1. melléklet az 51/2021. (XII. 23.) BM rendelet 1. §-a, az 52/2021. (XII. 27.) BM rendelet 4. § b) pontja, a 33/2022. (IX. 22.) BM rendelet 7. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet az 51/2021. (XII. 23.) BM rendelet 1. §-a, az 52/2021. (XII. 27.) BM rendelet 4. § b) pontja, a 33/2022. (IX. 22.) BM rendelet 7. §-a, a 12/2023. (V. 19.) BM rendelet 12. §-a szerint módosított szöveg.
