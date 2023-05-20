@@ -1,4 +1,4 @@
-## 5/E.[^16] A 651/2014/EU bizottsági rendelet 55. cikke szerinti, a sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás
+## 5/E.[^26] A 651/2014/EU bizottsági rendelet 55. cikke szerinti, a sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás
 
 13/G. § (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás)
 
@@ -16,4 +16,4 @@ nyújtható.
 
 (5) Ha a támogatott sportlétesítményt hivatásos csapat használja, a hivatásos csapat esetén alkalmazott díjszámítási feltételeket nyilvánossá kell tenni.
 
-[^16]: Az 5/E. alcímet (13/G-13/I. §) a 33/2022. (IX. 22.) BM rendelet 2. §-a iktatta be.
+[^26]: Az 5/E. alcímet (13/G-13/I. §) a 33/2022. (IX. 22.) BM rendelet 2. §-a iktatta be.

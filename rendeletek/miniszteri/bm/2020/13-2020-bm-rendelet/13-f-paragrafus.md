@@ -1,4 +1,4 @@
-## 5/D.[^15] A 651/2014/EU bizottsági rendelet 34. cikke szerinti, a megváltozott munkaképességű munkavállaló foglalkoztatásával járó többletköltség ellentételezéséhez nyújtott támogatás
+## 5/D.[^25] A 651/2014/EU bizottsági rendelet 34. cikke szerinti, a megváltozott munkaképességű munkavállaló foglalkoztatásával járó többletköltség ellentételezéséhez nyújtott támogatás
 
 13/F. § (1) A megváltozott munkaképességű munkavállaló foglalkoztatásával járó többletköltség ellentételezéséhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) az elszámolható költségek 100%-áig nyújtható.
 
@@ -26,4 +26,4 @@ fb) az adminisztrációs és szállítási költségek.
 
 (3) A (2) bekezdés c) pontja szerinti esetben kizárólag a nem megváltozott munkaképességű munkavállaló foglalkoztatásához képest felmerülő többletköltségek számolhatók el.
 
-[^15]: Az 5/D. alcímet (13/F. §) a 33/2022. (IX. 22.) BM rendelet 2. §-a iktatta be.
+[^25]: Az 5/D. alcímet (13/F. §) a 33/2022. (IX. 22.) BM rendelet 2. §-a iktatta be.

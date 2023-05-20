@@ -1,4 +1,4 @@
-## 5/B.[^13] A 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás
+## 5/B.[^22] A 651/2014/EU bizottsági rendelet 31. cikke szerinti képzési támogatás
 
 13/D. § (1) A képzési támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
 
@@ -24,6 +24,7 @@ c) a képzési projekthez kapcsolódó tanácsadás költsége,
 
 d) a képzésben részt vevők személyi jellegű ráfordításai és az általános közvetett költségek (különösen adminisztrációs költségek, bérleti díj, rezsiköltségek) azokra az órákra vonatkozóan, amikor a képzésben részt vevők részt vesznek a képzésen.
 
-(5) Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez.
+(5)[^23] Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez.
 
-[^13]: Az 5/B. alcímet (13/D. §) a 33/2022. (IX. 22.) BM rendelet 2. §-a iktatta be.
+[^22]: Az 5/B. alcímet (13/D. §) a 33/2022. (IX. 22.) BM rendelet 2. §-a iktatta be.
+[^23]: A 13/D. § (5) bekezdése a 12/2023. (V. 19.) BM rendelet 7. §-ával megállapított szöveg.
