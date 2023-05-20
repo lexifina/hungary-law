@@ -1,0 +1,1 @@
+A háborús élelmiszerár-infláció csökkentése érdekében szükséges intézkedésekről szóló 162/2023. (V. 5.) Korm. rendelet 7. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 9. § (1) bekezdés 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
