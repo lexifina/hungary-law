@@ -1,1 +1,3 @@
-2. § Az R. 3. § (2) bekezdésében a „számlát” szövegrész helyébe a „számviteli bizonylatot” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
