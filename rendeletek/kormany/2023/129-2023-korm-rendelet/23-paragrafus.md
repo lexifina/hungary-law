@@ -3,3 +3,8 @@
 (2) E rendeletet az e rendelet hatálybalépésekor folyamatban lévő, az R. 4. §-a és az R3. 3. §-a alapján elrendelt felszámolási eljárásokban is alkalmazni kell.
 
 (3) Ha e rendelet hatálybalépésekor a többségi befolyás alatt álló gazdálkodó szervezet felszámolás alatt áll, a 21. § (2) bekezdése szerinti követelés e rendelet hatálybalépésének napján száll át a szolgáltatást ténylegesen nyújtó harmadik személyre, a 21. § (3) bekezdése szerinti határidőt pedig e rendelet hatálybalépésének napjától kell számítani.
+
+(4)[^10] E rendeletnek a felszámolási eljárás során az adós gazdasági tevékenysége folytatása érdekében való értékesítés veszélyhelyzeti szabályairól szóló 129/2023. (IV. 17.) Korm. rendelet módosításáról szóló 187/2023. (V. 19.) Korm. rendelet által megállapított rendelkezéseit a hatálybalépésükkor[^11] folyamatban lévő, az R. 4. §-a és az R3. 3. §-a alapján elrendelt felszámolási eljárásokban is alkalmazni kell.
+
+[^10]: A 23. § (4) bekezdését a 187/2023. (V. 19.) Korm. rendelet 3. §-a iktatta be.
+[^11]: A hatálybalépés időpontja 2023. május 20.
