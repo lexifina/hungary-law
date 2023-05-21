@@ -1,5 +1,3 @@
-2. § A Korm. rendelet 21. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+2. §[^3]
 
-„(1) Az e rendelet szerinti értékesítés során olyan, az R2. 4. § (3) bekezdése szerinti hitelezői követelés tekintetében is lehet beszámítási jogot gyakorolni, amely a felszámolás kezdő időpontját követően került engedményezésre.
-
-(2) Ha harmadik személy által nyújtott szolgáltatást az adós többségi befolyása alatt álló gazdálkodó szervezet változatlan formában továbbértékesíti az adós részére, a többségi befolyás alatt álló gazdálkodó szervezet felszámolása elrendelése esetén a továbbértékesítésből eredő esedékessé vált követelése a felszámolása kezdő időpontjában átszáll a szolgáltatást ténylegesen nyújtó harmadik személyre. Ugyanilyen szolgáltatásnyújtás kapcsán a harmadik személynek az adós többségi befolyása alatt álló gazdálkodó szervezet felszámolási eljárásának kezdő időpontját követően keletkező követelése értékéig a többségi befolyás alatt álló gazdálkodó szervezetnek az adós részére történő továbbértékesítésből eredő követelése ugyancsak átszáll a szolgáltatást ténylegesen nyújtó harmadik személyre, azzal, hogy az átszállás időpontja a szolgáltatást ténylegesen nyújtó harmadik személynek az adós többségi befolyása alatt álló gazdálkodó szervezet felszámolója általi értesítés időpontja.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
