@@ -1,10 +1,10 @@
 38. § Hatályát veszti az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény
 
-a) 1. § (1) bekezdés 6a. és 7a. pontja,
+a)
 
 b) 1. § (1) bekezdés 17a., 22a. és 24–24b. pontja,
 
-c) 2. § (2) bekezdés d) pontja,
+c)
 
 d) 2. § (6) és (8) bekezdése,
 

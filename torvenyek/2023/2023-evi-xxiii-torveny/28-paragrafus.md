@@ -6,7 +6,7 @@
 
 28. § (1) Felhatalmazást kap a Kormány, hogy rendeletben meghatározza
 
-a) a tanúsító hatóság által kiszabható bírság mértékét, megállapításának szempontrendszerét, valamint a bírság megfizetése módjának részletes eljárási szabályait,
+a)
 
 b) a 4. § (1) bekezdés b) pontja szerinti tanúsító hatóság feladatának, a tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárásnak, a hatósági ellenőrzésnek, a nyilvántartás vezetésének részletes szabályait, valamint a nyilvántartás személyes adatot nem tartalmazó adattartalmát, valamint a megfelelőségi jelölés elhelyezésére vonatkozó szabályokat,
 
@@ -14,11 +14,11 @@ c) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a
 
 d) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a nemzeti kiberbiztonsági tanúsítási rendszerekre figyelemmel a tanúsítási rendszereket,
 
-e) a biztonsági események kezelésére, műszaki vizsgálatára és az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti eseménykezelő központ részére történő bejelentésre vonatkozó részletes szabályokat,
+e)
 
-f) az SZTFH és az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény szerinti hatóságok közötti együttműködés és adatszolgáltatás rendjére vonatkozó részletes szabályokat, valamint
+f)
 
-g) az SZTFH által az érintett szervezettel és az auditorral szemben kiszabható bírság mértékét, megállapításának szempontrendszerét, valamint a bírság megfizetése módjának részletes eljárási szabályait.
+g)
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a 4. § (1) bekezdés b) pontja szerinti tanúsító hatóságot.
 
@@ -30,19 +30,19 @@ b) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a
 
 c) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a nemzeti kiberbiztonsági tanúsítási rendszereket,
 
-d) a 20. § (5) bekezdése alapján kötelezően alkalmazandó nemzeti vagy európai kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termékeket, IKT-szolgáltatásokat vagy IKT-folyamatokat, valamint az ezek alkalmazására kötelezett érintett szervezeteket,
+d)
 
-e) a kiberbiztonsági felügyelet és feladatellátás, továbbá a hatósági ellenőrzés lefolytatásának és az éves ellenőrzési terv elkészítésének részletes szabályait,
+e)
 
-f) az érintett szervezetek kiberbiztonsági felügyeleti hatósági nyilvántartásba vételének rendjét, valamint a nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat,
+f)
 
-g) a biztonsági eseménykezelésben részt vevő közreműködő esetében a biztonsági események kezeléséhez szükséges feltételeket, valamint a biztonsági eseménykezelésben részt vevő közreműködő biztonsági események kezelésére vonatkozó szabályoknak és a biztonsági események kezeléséhez szükséges feltételeknek történő megfelelése tanúsítására vonatkozó részletes szabályokat,
+g)
 
-h) az auditorok nyilvántartásba vételi eljárásának rendjét, és az auditorral szemben támasztott követelményeket,
+h)
 
-i) a kiberbiztonsági audit lefolytatásának rendjét, valamint a kiberbiztonsági audit – általános forgalmi adó nélkül számított – legmagasabb díját, valamint
+i)
 
-j) a kiberbiztonsági felügyeleti díj mértékét, megfizetésének módját és időpontját.
+j)
 
 (4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy rendeletben meghatározza
 
@@ -50,6 +50,6 @@ a) az adópolitikáért felelős miniszterrel egyetértésben a 4. § (1) bekezd
 
 b) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a megfelelőségértékelő szervezetekkel szemben támasztott követelményeket.
 
-(5) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy rendeletben meghatározza a biztonsági osztályba sorolás követelményeit, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedéseket.
+(5)
 
-(6) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter az (5) bekezdés szerinti rendeletet az SZTFH elnöke véleményének kikérését követően adja ki.
+(6)

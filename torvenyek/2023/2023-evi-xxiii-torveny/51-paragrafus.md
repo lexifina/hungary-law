@@ -5,15 +5,3 @@ a) 1. § (1) bekezdés f) pontjában a „nyilvántartásba vételével, valamin
 b) 1. § (1) bekezdés g) pontjában az „és szabályozásával” szövegrész helyébe az „és szabályozásával, valamint” szöveg
 
 lép.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
