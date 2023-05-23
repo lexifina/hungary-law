@@ -1,0 +1,1 @@
+Az Országgyűlés Novák Előd országgyűlési képviselő mentelmi jogát a Budai Központi Kerületi Bíróság 5.B.2032/2022. számú átiratával érintett ügyben – az 5.Bpk.213/2023. számú büntetőügy tekintetében – nem függeszti fel.
