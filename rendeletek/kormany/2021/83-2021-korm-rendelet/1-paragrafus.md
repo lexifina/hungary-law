@@ -24,7 +24,7 @@ c) a 2. mellékletben a Beruházások megvalósításának helyszíneként megje
 
 (8)[^9] A 2. mellékletben foglalt táblázat 3. és 24. sora szerinti beruházás időtartama alatt a beruházás helyszínéül szolgáló ingatlanok vagyonkezelője által a vagyonkezelt vagyonnal kapcsolatos tevékenység – ideértve a vagyonelemek hasznosítását is – közfeladatnak minősül.
 
-(9)[^10] A 2. melléklet 57. sora szerinti beruházás tekintetében a beruházás építési műszaki ellenőre, felelős akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója, valamint beruházás-lebonyolítója kizárólagos joggal az Építési és Közlekedési Minisztérium.
+(9)[^10] A 2. melléklet 57. és 93. sora szerinti beruházás tekintetében a beruházás építési műszaki ellenőre, felelős akkreditált közbeszerzési szaktanácsadói tevékenység biztosítója, valamint beruházás-lebonyolítója kizárólagos joggal az Építési és Közlekedési Minisztérium.
 
 [^1]: Az 1. § (2) bekezdés b) pontja az 591/2021. (X. 20.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (2a) bekezdését a 395/2021. (VII. 2.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege az 591/2021. (X. 20.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 4. § a) pontja, a 145/2022. (IV. 7.) Korm. rendelet 7. § a) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
@@ -35,4 +35,4 @@ c) a 2. mellékletben a Beruházások megvalósításának helyszíneként megje
 [^7]: Az 1. § (6) bekezdését a 395/2021. (VII. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 812/2021. (XII. 28.) Korm. rendelet 4. § b) pontja, az 523/2022. (XII. 15.) Korm. rendelet 32. §-a szerint módosított szöveg.
 [^8]: Az 1. § (7) bekezdését a 395/2021. (VII. 2.) Korm. rendelet 1. § (2) bekezdése, az 525/2021. (IX. 8.) Korm. rendelet 9. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 4. § d) pontja, a 145/2022. (IV. 7.) Korm. rendelet 7. § d) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
 [^9]: Az 1. § (8) bekezdését a 411/2021. (VII. 12.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^10]: Az 1. § (9) bekezdését az 595/2021. (X. 27.) Korm. rendelet 1. §-a iktatta be, szövege az 523/2022. (XII. 15.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^10]: Az 1. § (9) bekezdését az 595/2021. (X. 27.) Korm. rendelet 1. §-a iktatta be, szövege az 523/2022. (XII. 15.) Korm. rendelet 32. §-a, a 198/2023. (V. 22.) Korm. rendelet 7. §-a szerint módosított szöveg.
