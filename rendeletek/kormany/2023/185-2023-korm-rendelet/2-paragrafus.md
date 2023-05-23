@@ -1,7 +1,3 @@
-2. § Az R.
+2. §[^3]
 
-a) 1. § nyitó szövegrészében a „124 900 000 000” szövegrész helyébe a „125 200 000 000” szöveg,
-
-b) 1. § b) pontjában a „89 600 000 000” szövegrész helyébe a „89 900 000 000” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

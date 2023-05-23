@@ -1,3 +1,3 @@
-1. § A látvány-csapatsportok támogatására nyújtható támogatási keretösszeg megállapításáról szóló 39/2019. (III. 7.) Korm. rendelet (a továbbiakban: R.) a következő 7. §-sal egészül ki:
+1. §[^2]
 
-„7. § E rendeletnek a látvány-csapatsportok támogatására nyújtható támogatási keretösszeg megállapításáról szóló 39/2019. (III. 7.) Korm. rendelet módosításáról szóló 185/2023. (V. 19.) Korm. rendelettel (a továbbiakban: Módr2.) módosított 1. § b) pontjában szereplő összegből a Módr2.-vel megnövelt 300 000 000 forint támogatási összeg kizárólag a Magyar Olimpiai Bizottság 2023. évben jóváhagyott sportfejlesztési programjának megvalósítására használható fel.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
