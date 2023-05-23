@@ -16,9 +16,11 @@ d) a felszámolói névjegyzék, valamint a felszámoló szervezetek más hatós
 
 e) az elektronikus információs rendszerek védelméhez szükséges poszt-kvantumtitkosítás alkalmazást nyújtó szervezetek nyilvántartásba vételével,
 
-f) az elektronikus információs rendszerek védelméhez szükséges poszt-kvantumtitkosítás alkalmazást nyújtó szervezetek információbiztonsági tanúsítását végző szervezetek (a továbbiakban: tanúsító szervezet) nyilvántartásba vételével, valamint
+f) az elektronikus információs rendszerek védelméhez szükséges poszt-kvantumtitkosítás alkalmazást nyújtó szervezetek információbiztonsági tanúsítását végző szervezetek (a továbbiakban: tanúsító szervezet) nyilvántartásba vételével,
 
-g) a szerkezetátalakítási szakértők hatósági nyilvántartásainak vezetésével, a bíróság általi kijelölésük és hivatalból történő kirendelésük során alkalmazott, a Hatóság által működtetett elektronikus, véletlenszerű kiválasztás elvét alkalmazó informatikai rendszer fejlesztésével és működtetésével, egyes tevékenységeik szabályozásával, a tevékenységük feletti hatósági felügyelet és hatósági ellenőrzés gyakorlásával és szabályozásával
+g) a szerkezetátalakítási szakértők hatósági nyilvántartásainak vezetésével, a bíróság általi kijelölésük és hivatalból történő kirendelésük során alkalmazott, a Hatóság által működtetett elektronikus, véletlenszerű kiválasztás elvét alkalmazó informatikai rendszer fejlesztésével és működtetésével, egyes tevékenységeik szabályozásával, a tevékenységük feletti hatósági felügyelet és hatósági ellenőrzés gyakorlásával és szabályozásával, valamint
+
+h) nemzeti kiberbiztonsági tanúsítással
 
 kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.
 

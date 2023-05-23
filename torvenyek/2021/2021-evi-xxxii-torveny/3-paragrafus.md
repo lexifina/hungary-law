@@ -38,6 +38,6 @@ g) előzetes egyetértési jogot gyakorol az állam nevében történő koncessz
 
 (5) A dohánytermékek nyomonkövethetőségi rendszerének létrehozására és működtetésére vonatkozó műszaki előírásokról szóló, 2017. december 15-i (EU) 2018/574 bizottsági végrehajtási rendelet (a továbbiakban: Végrehajtási Rendelet) 3. cikk (1) bekezdése szerinti azonosítókibocsátó a Hatóság. A Hatóság mint azonosítókibocsátó látja el a Végrehajtási Rendelet 9. cikke szerinti csomagolási egység szintű és 13. cikke szerinti gyűjtőcsomagolás szintű egyedi azonosító (a továbbiakban: egyedi azonosító) létrehozásával és kibocsátásával kapcsolatos feladatokat.
 
-(6) A Hatóság látja el az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) 22/B. § (1) bekezdés a) pontja szerinti nemzeti kiberbiztonsági tanúsító hatóság feladatait.
+(6) A Hatóság látja el – a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsító hatósági feladatok kivételével – a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény (a továbbiakban: Kibertan.tv.) szerinti nemzeti kiberbiztonsági tanúsító hatóság feladatait.
 
 (7) A Hatóság látja el a hulladékról szóló 2012. évi CLXXXV. törvény 92/H. § (2) és (5) bekezdésében meghatározott hulladékgazdálkodási kártalanítással összefüggő hatósági feladatokat.
