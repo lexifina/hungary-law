@@ -1,0 +1,1 @@
+2. § A turisztikai térségek fejlesztésének állami feladatairól szóló törvény végrehajtásáról szóló 235/2019. (X. 15.) Korm. rendelet – e rendelet kihirdetésekor hatályos – 3. melléklet IV. pont b) alpontja szerinti buszos személyszállítási szolgáltatás tekintetében az Áfa tv. 82. § (1) bekezdésétől eltérően az adó mértéke az adó alapjának 5 százaléka.
