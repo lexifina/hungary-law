@@ -1,0 +1,3 @@
+## 1. A nemzeti kiberbiztonsági tanúsító hatóság eljárásával összefüggő kiberbiztonsági tanúsítás keretében fizetendő igazgatási szolgáltatási díjról szóló 30/2022. (II. 14.) SZTFH rendelet módosítása
+
+1. § A nemzeti kiberbiztonsági tanúsító hatóság eljárásával összefüggő kiberbiztonsági tanúsítás keretében fizetendő igazgatási szolgáltatási díjról szóló 30/2022. (II. 14.) SZTFH rendelet (a továbbiakban: R1.) 1. § (1) bekezdésében az „az állami és önkormányzati szervek elektronikus információbiztonságáról szóló 2013. évi L. törvény (a továbbiakban: Ibtv.) 22/C. § (5) bekezdése szerinti” szövegrész helyébe az „a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény 4. § (1) bekezdés a) pontja szerinti” szöveg lép.
