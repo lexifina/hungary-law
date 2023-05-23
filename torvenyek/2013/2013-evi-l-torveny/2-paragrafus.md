@@ -46,7 +46,7 @@ elektronikus információs rendszereinek védelmére.
 
 (5) A honvédelmi célú elektronikus információs rendszerek esetében, az e törvény szerinti hatósági feladatokat, a biztonsági felügyeletet a honvédelmi ágazaton belül működő, a Kormány által kijelölt szerv kormányrendeletben meghatározottak szerint látja el.
 
-(6) A III/A. Fejezetben foglaltakat az IKT-termék, IKT-szolgáltatás vagy IKT-folyamat tanúsításával kapcsolatos hatósági tevékenységre kell alkalmazni.
+(6)
 
 (7) E törvény rendelkezéseit
 
@@ -56,6 +56,6 @@ b) a médiaszolgáltatási és elektronikus hírközlési tevékenység esetén 
 
 meghatározott eltérésekkel kell alkalmazni.
 
-(8) Az e törvényben szabályozott kiberbiztonsági tanúsításra, valamint a tanúsító szervezet tevékenységére nem kell alkalmazni a megfelelőségértékelő szervezetek tevékenységéről szóló törvény rendelkezéseit.
+(8)
 
 (9) E törvény rendelkezéseit a poszt-kvantumtitkosítás vonatkozásában kizárólag a poszt-kvantumtitkosítás alkalmazásra kötelezett szervezetre kell alkalmazni.

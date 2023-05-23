@@ -8,7 +8,7 @@
 
 a) a hatóság feladatának részletes szabályait, a hatósági ellenőrzés lefolytatásának részletes eljárási szabályait,
 
-b) a hatóság, valamint a tanúsító hatóság által kiszabható bírság mértékét, a bírság kiszabásának és befizetésének részletes eljárási szabályait,
+b) a hatóság által kiszabható bírság mértékét, a bírság kiszabásának és befizetésének részletes eljárási szabályait,
 
 c) az információbiztonsági felügyelő kirendelésének szabályait, feladatkörét és eljárásának rendjét,
 
@@ -34,15 +34,15 @@ m) a honvédelmi célú elektronikus információs rendszerre vonatkozóan a kor
 
 n) a polgári hírszerző tevékenységet végző nemzetbiztonsági szolgálat elektronikus információs rendszerei vonatkozásában a hatóság 14. § (2) bekezdése, valamint a 20. § (1) bekezdése szerinti feladatait, továbbá a sérülékenység vizsgálat, illetve a biztonsági esemény vizsgálat részletes szabályait.
 
-o) a 22/B. § (1) bekezdés b) pontja szerinti tanúsító hatóság feladatának, a tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárás, valamint a nyilvántartás részletes szabályait,
+o)
 
-p) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat.
+p)
 
 q)
 
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a hatóságot.
 
-(1b) Felhatalmazást kap a Kormány, hogy kijelölje a 22/B. § (1) bekezdés b) pontja szerinti tanúsító hatóságot.
+(1b)
 
 (2) Felhatalmazást kap
 
@@ -52,19 +52,13 @@ b) a közigazgatás-fejlesztésért felelős miniszter, hogy az e-közigazgatás
 
 c) az e-közigazgatásért felelős miniszter, hogy a szervezetek hatósági nyilvántartásba vételének rendjét
 
-d) a honvédelemért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a 22/B. § (1) bekezdés b) pontja szerinti tanúsító hatóság eljárásért fizetendő igazgatási szolgáltatási díj mértékét, a díjak beszedésével, megosztásával, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
+d)
 
-e) a honvédelemért felelős miniszter, hogy a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a megfelelőségértékelő szervezet által teljesítendő követelményeket
+e)
 
 rendeletben határozza meg.
 
-(3) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben meghatározza
-
-a) a 22/B. § (1) bekezdés a) pontja szerinti tanúsító hatósági tevékenység eljárásrendjének, az engedélyezési eljárás, valamint a nyilvántartás részletes szabályait,
-
-b) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a megfelelőségi önértékelésre, a tanúsítási eljárásra, valamint a megfelelőségértékelő szervezetek kötelezettségeire és azok tevékenységére vonatkozó részletes szabályokat,
-
-c) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a megfelelőségértékelő szervezetek által teljesítendő követelményeket.
+(3)
 
 (4) Felhatalmazást kap az SZTFH elnöke, hogy rendeletben meghatározza
 

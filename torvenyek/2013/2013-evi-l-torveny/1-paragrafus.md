@@ -56,7 +56,7 @@ c) az a) és b) pontban szereplő elemek által működésük, használatuk, vé
 
 17. észlelés: a biztonsági esemény bekövetkezésének felismerése;
 
-17a. európai kiberbiztonsági tanúsítási rendszer: az (EU) 2019/881 európai parlamenti és tanácsi rendelet 2. cikk 9. pontja szerinti rendszer;
+17a.
 
 18. felhasználó: egy adott elektronikus információs rendszert igénybe vevők köre;
 
@@ -68,7 +68,7 @@ c) az a) és b) pontban szereplő elemek által működésük, használatuk, vé
 
 22. globális kibertér: a globálisan összekapcsolt, decentralizált, egyre növekvő elektronikus információs rendszerek, valamint ezen rendszereken keresztül adatok és információk formájában megjelenő társadalmi és gazdasági folyamatok együttese;
 
-22a. gyártó: az (EU) 2019/881 európai parlamenti és tanácsi rendelet 2. cikk 12–14. pontjai szerinti IKT-termék, IKT-szolgáltatás, illetve IKT-folyamat gyártója vagy nyújtója;
+22a.
 
 23. honvédelmi célú elektronikus információs rendszer:
 
@@ -80,11 +80,11 @@ c) az illetékes ágazatban ki nem jelölt, a létfontosságú rendszerek és l�
 
 d) a honvédelmi ágazat hatáskörébe tartozó nemzetbiztonsági védelem alá eső szervek elektronikus információs rendszere;
 
-24. IKT-termék: az (EU) 2019/881 európai parlamenti és tanácsi rendelet 2. cikk 12. pontja szerinti termék;
+24.
 
-24a. IKT-szolgáltatás: az (EU) 2019/881 európai parlamenti és tanácsi rendelet 2. cikk 13. pontja szerinti szolgáltatás;
+24a.
 
-24b. IKT-folyamat: az (EU) 2019/881 európai parlamenti és tanácsi rendelet 2. cikk 14. pontja szerinti folyamat;
+24b.
 
 25. információ: bizonyos tényekről, tárgyakról vagy jelenségekről hozzáférhető formában megadott megfigyelés, tapasztalat vagy ismeret, amely valakinek a tudását, ismeretkészletét, annak rendezettségét megváltoztatja, átalakítja, alapvetően befolyásolja, bizonytalanságát csökkenti vagy megszünteti;
 
