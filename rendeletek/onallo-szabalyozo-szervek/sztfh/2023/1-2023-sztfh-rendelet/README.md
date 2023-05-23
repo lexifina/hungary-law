@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1-20-8K
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-03-01 | 2023-1-20-8K.1 | 1/2023. (I. 31.) SZTFH rendelet |
+| 2023-05-23 | 2023-1-20-8K.2 | 11/2023. (V. 16.) SZTFH rendelet |
