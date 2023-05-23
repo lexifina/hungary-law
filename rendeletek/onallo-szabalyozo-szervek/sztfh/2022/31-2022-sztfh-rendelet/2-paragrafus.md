@@ -1,3 +1,0 @@
-2. § (1) E rendelet hatálya az Ibtv. 22/B. § (1) bekezdés a) pontja alapján a Szabályozott Tevékenységek Felügyeleti Hatósága mint tanúsító hatóság (a továbbiakban: tanúsító hatóság) által lefolytatott – a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel össze nem függő – információs és kommunikációs technológiák kiberbiztonsági tanúsítására terjed ki.
-
-(2) A tanúsító hatóság tanúsításfelügyeleti tevékenységet kizárólag valamely európai kiberbiztonsági tanúsítási rendszer hatálya alá tartozó IKT-termék, IKT-szolgáltatás vagy IKT-folyamat vonatkozásában végez. A tanúsító hatóság hatásköre a Magyarországon letelepedett gyártó, illetve megfelelőségértékelő szervezet tevékenységére terjed ki.
