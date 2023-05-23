@@ -62,6 +62,8 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 
 (19)[^59] E rendeletnek az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet módosításáról szóló 68/2022. (II. 28.) Korm. rendelettel (a továbbiakban: Módr11.) megállapított 1. § (6) és (8) bekezdését, 3. § d) pontját, 5/C–5/D. §-át és 1. mellékletét a Módr11. hatálybalépésekor[^60] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
+(20)[^61] E rendeletnek az egyes kormányrendeleteknek a Mohács 500 program keretében megvalósuló fejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításával összefüggő módosításáról szóló 198/2023. (V. 22.) Korm. rendelettel (a továbbiakban: Módr12.) megállapított 1. melléklet 1.8.275. pontját a Módr12. hatálybalépésekor[^62] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
 [^23]: A 7. § (2) bekezdés d) pontját a 441/2015. (XII. 28.) Korm. rendelet 185. § a) pontja hatályon kívül helyezte.
 [^24]: A 7. § (3) bekezdését a 376/2013. (X. 25.) Korm. rendelet 2. §-a iktatta be.
 [^25]: A hatálybalépés időpontja 2013. október 26.
@@ -100,3 +102,5 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 [^58]: A hatálybalépés időpontja 2022. március 3.
 [^59]: A 7. § újabb (19) bekezdését a 68/2022. (II. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^60]: A hatálybalépés időpontja 2022. március 5.
+[^61]: A 7. § (20) bekezdését a 198/2023. (V. 22.) Korm. rendelet 1. §-a iktatta be.
+[^62]: A hatálybalépés időpontja 2023. május 23.

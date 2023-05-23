@@ -10,7 +10,7 @@ A beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített kö
 
 4. vízjogi engedélyezésére irányuló hatósági eljárások,
 
-4a.[^64] tűzvédelmi hatósági eljárások,
+4a.[^66] tűzvédelmi hatósági eljárások,
 
 5. szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások,
 
@@ -48,4 +48,4 @@ A beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített kö
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^64]: A 2. melléklet 4a. pontját a 271/2016. (IX. 1.) Korm. rendelet 28. § (3) bekezdése iktatta be.
+[^66]: A 2. melléklet 4a. pontját a 271/2016. (IX. 1.) Korm. rendelet 28. § (3) bekezdése iktatta be.

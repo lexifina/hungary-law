@@ -1624,6 +1624,8 @@
 
 ## 1.8.274. Cegléd–Csemő kerékpárút fejlesztése.
 
+## 1.8.275. A két mohácsi csatasíkot (Mohács–Nagyharsány) összekötő kerékpárút hátralévő szakaszának fejlesztése.
+
 ## 2. Vasúti projektek
 
 ## 2.1. Országos vasúti közlekedési projektek
@@ -2096,6 +2098,6 @@
 
 ## 5.6. Békéscsabai repülőtér kifutópályájának meghosszabbítása.
 
-1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^63]
+1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^65]
 
-[^63]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
+[^65]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
