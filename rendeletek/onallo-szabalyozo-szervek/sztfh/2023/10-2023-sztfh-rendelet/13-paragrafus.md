@@ -1,0 +1,11 @@
+13. § (1) A megfelelőségi önértékelést végző gyártó és a megfelelőségértékelő szervezet a jogutód nélkül történő megszűnését – a megszűnés időpontját megelőző 8 napon belül – köteles bejelenteni a tanúsító hatóság részére.
+
+(2) Ha a tanúsító hatóság hivatalos eljárása során szerez tudomást a jogutód nélkül történő megszűnésről, hivatalból intézkedik a nyilvántartásban szereplő adatok megváltoztatása iránt.
+
+(3) A megfelelőségi önértékelést végző gyártót érintő jogutódlás esetén, ha a jogutód folytatni kívánja a megfelelőségi önértékelés keretében tanúsított IKT-termék gyártását, illetve IKT-szolgáltatás vagy IKT-folyamat nyújtását, visszavonja jogelődje megfelelőségi nyilatkozatát, és új megfelelőségi nyilatkozatot állít ki. A jogutód a jogutódlás bekövetkezésétől számított 8 napon belül a jogerős cégbírósági bejegyző határozatnak és a megfelelőségi nyilatkozat másolatának megküldésével értesíti a tanúsító hatóságot, és kéri a tanúsító hatóságtól a jogutódlás megállapítását, valamint a nyilvántartásba vételi eljárásra vonatkozó szabályok szerint kezdeményezi a jogutódként történő nyilvántartásba vételét.
+
+(4) A megfelelőségértékelő szervezetet érintő jogutódlás esetén, ha a jogutód a megfelelőségértékelési tevékenységet folytatni kívánja, a jogutód az akkreditálási okirat kézhezvételét követő 8 napon belül az akkreditált státuszra vonatkozó részletező okirat másolatának megküldésével értesíti a tanúsító hatóságot, és kéri a tanúsító hatóságtól a jogutódlás megállapítását, valamint a nyilvántartásba vételi eljárásra, illetve az engedélyezési eljárásra vonatkozó szabályok szerint kezdeményezi a nyilvántartásba vételt, illetve az engedélyezése iránti eljárás megindítását.
+
+(5) A megfelelőségi önértékelést végző gyártó és a megfelelőségértékelő szervezet a (3) és (4) bekezdés alkalmazásával névváltozás esetén is köteles értesíteni a tanúsító hatóságot.
+
+(6) Európai kiberbiztonsági tanúsítási rendszer tekintetében megfelelőségértékelési tevékenység végzésére jogosult megfelelőségértékelő szervezet nyilvántartásban szereplő adatait érintő változásról a tanúsító hatóság az adatváltozás nyilvántartásba való bejegyzéséről szóló határozat véglegessé válásától számított 15 napon belül értesíti az Európai Bizottságot (a továbbiakban: Bizottság).
