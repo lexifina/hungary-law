@@ -2,4 +2,6 @@
 
 (2) Az összesítőben szereplő költségek alátámasztó dokumentumait nem kell benyújtani.
 
-(3) Az összesítőben szereplő költségek alátámasztó dokumentumait helyszíni ellenőrzés keretében kell ellenőrizni.
+(3)[^31] Az összesítőben szereplő költségeket igazoló dokumentumokat a 148. § szerinti beszámoló keretében, a 270. § alapján kell ellenőrizni.
+
+[^31]: A 135. § (3) bekezdése a 197/2023. (V. 22.) Korm. rendelet 20. §-ával megállapított szöveg.

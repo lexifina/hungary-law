@@ -1,5 +1,3 @@
-## 26. § Az irányító hatóság gondoskodik annak az eljárási cselekménynek a felülvizsgálatáról és szükség szerint helyesbítéséről vagy megismétléséről, amelyben az összeférhetetlen személy közreműködött és amely az ügy érdemére kihathat.
-
 ## 8. Az elektronikus kapcsolattartás
 
 27. § (1) A támogatást igénylő, a kedvezményezett és az intézményrendszer elektronikus alkalmazást használ az egymással való kapcsolattartásra.

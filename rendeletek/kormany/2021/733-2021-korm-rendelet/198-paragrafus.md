@@ -1,4 +1,4 @@
-198. § (1) A Jogi Főosztály a kifogás elbírálására irányuló eljárást megszünteti, ha a kifogást elbíráló döntés meghozataláig
+198. § (1)[^36] Az irányító hatóság a kifogás elbírálására irányuló eljárást megszünteti, ha a kifogást elbíráló döntés meghozataláig
 
 a) a kifogást annak benyújtója visszavonta,
 
@@ -21,3 +21,5 @@ i) a kifogás benyújtója jogutód nélkül megszűnt, vagy
 j) a támogatást igénylő teljesítette a kifogásolt támogatási döntésben feltételként meghatározott követelményt.
 
 (2) Ha a támogatási kérelmet forráshiány miatti elutasító döntésben az szerepel, hogy a támogatási kérelem költségcsökkentéssel, illetve feltétellel támogatható, és a kifogás a költségcsökkentés, illetve a feltétel ellen is irányul, a kifogás elbírálására irányuló eljárás az (1) bekezdés b) pontjára történő hivatkozással nem szüntethető meg.
+
+[^36]: A 198. § (1) bekezdése a 197/2023. (V. 22.) Korm. rendelet 25. §-ával megállapított szöveg.

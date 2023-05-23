@@ -10,7 +10,7 @@
 
 (2) A kifogást elektronikus úton, a monitoring és információs rendszeren keresztül kell benyújtani.
 
-(3) A kifogást az irányító hatóság előterjesztése alapján a Külgazdasági és Külügyminisztérium Jogi Főosztálya (a továbbiakban: Jogi Főosztály) vizsgálja.
+(3)[^32] A kifogást az irányító hatóság vizsgálja.
 
 (4) A kifogást a kifogásolt döntés kézhezvételétől számított tíz napon belül egy alkalommal, az indokok megjelölésével lehet benyújtani.
 
@@ -39,3 +39,5 @@ j) a támogatási kérelem visszavonásának tudomásulvétele
 ellen.
 
 (6) A kifogást annak benyújtója mindaddig visszavonhatja, amíg a kifogás elbírálása nem történt meg.
+
+[^32]: A 191. § (3) bekezdése a 197/2023. (V. 22.) Korm. rendelet 21. §-ával megállapított szöveg.

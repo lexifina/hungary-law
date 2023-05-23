@@ -4,12 +4,12 @@
 
 a) a kedvezményezett, ha a támogatás nem haladja meg az ötven millió forintot, szerepel a köztartozásmentes adózói adatbázisban, vagy a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással igazolja, és benyújtotta a Felhatalmazó levelet,
 
-b)[^2] a kedvezményezett, amely rendelkezik legalább három lezárt, teljes üzleti évvel, és amelyet az állami adóhatóság az adózás rendjéről szóló 2017. évi CL. törvényben meghatározott feltételek alapján megbízhatónak minősített, és szerepel a megbízható adózói adatbázisban, valamint szerepel a köztartozásmentes adózói adatbázisban, vagy a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással igazolja, és benyújtotta a Felhatalmazó levelet,
+b)[^26] a kedvezményezett, amely rendelkezik legalább három lezárt, teljes üzleti évvel, és amelyet az állami adóhatóság az adózás rendjéről szóló 2017. évi CL. törvényben meghatározott feltételek alapján megbízhatónak minősített, és szerepel a megbízható adózói adatbázisban, valamint szerepel a köztartozásmentes adózói adatbázisban, vagy a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással igazolja, és benyújtotta a Felhatalmazó levelet,
 
-c)[^3] kérelemre az a kedvezményezett, amely rendelkezik legalább három lezárt, teljes üzleti évvel, szerepel a köztartozásmentes adózói adatbázisban, vagy a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással igazolja, és benyújtotta a Felhatalmazó levelet, de nem szerepel a megbízható adózói adatbázisban.
+c)[^27] kérelemre az a kedvezményezett, amely rendelkezik legalább három lezárt, teljes üzleti évvel, szerepel a köztartozásmentes adózói adatbázisban, vagy a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással igazolja, és benyújtotta a Felhatalmazó levelet, de nem szerepel a megbízható adózói adatbázisban.
 
-(2)[^4] Az (1) bekezdés c) pontja szerinti kérelmet az irányító hatósághoz kell benyújtani. A kérelmet az irányító hatóság az (1) bekezdés c) pontjában szereplő feltételektől függetlenül elutasíthatja. Az irányító hatóság döntését indokolja.
+(2)[^28] Az (1) bekezdés c) pontja szerinti kérelmet az irányító hatósághoz kell benyújtani. A kérelmet az irányító hatóság az (1) bekezdés c) pontjában szereplő feltételektől függetlenül elutasíthatja. Az irányító hatóság döntését indokolja.
 
-[^2]: A 88. § (1) bekezdés b) pontja a 126/2022. (III. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^3]: A 88. § (1) bekezdés c) pontját a 126/2022. (III. 28.) Korm. rendelet 1. §-a iktatta be.
-[^4]: A 88. § (2) bekezdése a 126/2022. (III. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^26]: A 88. § (1) bekezdés b) pontja a 126/2022. (III. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^27]: A 88. § (1) bekezdés c) pontját a 126/2022. (III. 28.) Korm. rendelet 1. §-a iktatta be.
+[^28]: A 88. § (2) bekezdése a 126/2022. (III. 28.) Korm. rendelet 4. §-a szerint módosított szöveg.

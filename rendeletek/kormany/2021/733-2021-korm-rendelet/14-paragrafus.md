@@ -1,5 +1,3 @@
-## 13. § Az irányító hatóság kizárólag átmeneti jelleggel vagy speciális szakterületen vonhat be alvállalkozót feladatai ellátásába. Az irányító hatóság az általa bevont alvállalkozói teljesítéséért az irányító hatóság felelős.
-
 ## 4. A közreműködő szervezet feladatai
 
 14. § (1) A közreműködő szervezet tevékenységét az irányító hatóság felügyelete alatt látja el.

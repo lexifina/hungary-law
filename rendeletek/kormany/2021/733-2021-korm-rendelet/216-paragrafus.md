@@ -14,8 +14,12 @@ c) javaslatot tehet a kedvezményezettnek az e rendelet hatálya alá tartozó t
 
 d) uniós jogi aktusban meghatározott egyéb jogkövetkezményt alkalmazhat.
 
+e)[^42] a 111. § (2) bekezdése szerinti százalékos átalány költséget arányosan csökkentheti.
+
 (3) Az irányító hatóság a szabálytalansággal arányos jogkövetkezményt állapít meg.
 
 (4) Ha a pénzügyi korrekció mértékét nem lehet számszerűsíteni, aránytalan lenne a szabálytalansággal érintett kiadás egészének visszavonása, vagy az félrevezető eredményt adna, átalánykorrekciót kell alkalmazni. Az átalánykorrekció mértékét a szabálytalanság súlya és pénzügyi következménye alapján kell meghatározni.
 
 (5) Ha szabálytalanság megállapításra nem kerül sor, de jogsértő helyzet megszüntetése szükséges, az irányító hatóság a támogatási jogviszonyt érintő intézkedést rendelhet el.
+
+[^42]: A 216. § (2) bekezdés e) pontját a 197/2023. (V. 22.) Korm. rendelet 30. §-a iktatta be.

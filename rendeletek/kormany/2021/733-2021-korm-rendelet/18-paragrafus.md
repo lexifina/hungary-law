@@ -1,8 +1,4 @@
-## 17. § Az e rendelet hatálya alá tartozó szervek a támogatást igénylő vagy a kedvezményezett által benyújtott bármely dokumentum nyilvánvaló hibáját a dokumentummal kapcsolatos eljárás során kijavíthatják, amelyről a támogatást igénylőt vagy a kedvezményezettet értesítik.
-
-## 7. Az összeférhetetlenség
-
-## 18. § A támogatási döntés előkészítésében és meghozatalában nem vehet részt
+18. §[^6] (1) A támogatási döntés előkészítésében és meghozatalában nem vehet részt
 
 a) a támogatást igénylő,
 
@@ -17,3 +13,7 @@ e) az a személy, aki a támogatást igénylő tekintetében a támogatási kér
 f) az a)–e) pont szerinti személy Ptk. szerinti hozzátartozója (ezen alcím alkalmazásában a továbbiakban: hozzátartozó),
 
 g) az a személy, akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
+
+(2) Ha egy személy összeférhetetlensége az (1) bekezdés a)–f) pontja alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok – így különösen családi vagy érzelmi ok, politikai szimpátiával vagy nemzeti hovatartozással kapcsolatos ok, gazdasági érdek vagy bármely más közvetlen vagy közvetett személyes érdek [a továbbiakban együtt: (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok] – rá nézve teljesül, vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni.
+
+[^6]: A 18. § a 197/2023. (V. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
