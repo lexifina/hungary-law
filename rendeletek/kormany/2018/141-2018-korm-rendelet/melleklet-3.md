@@ -86,6 +86,8 @@
 
 | 42. | Telephely bővítésre és fejlesztésre irányuló beruházás Bük külterületén | Bük közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 04/11, 04/16, 04/17, 04/19, 04/45, 04/48 és 04/57 helyrajzi számú, valamint belterület 1471/1, 1474/2 és 1475/2 helyrajzi számú ingatlanok | Vas Vármegyei Kormányhivatalt vezető főispán |
 
+| 42a. | Iparterület kialakításával összefüggő infrastruktúra-fejlesztés Bő, Bük és Csepreg területén | Bő közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 060/3, 071/2, 072, 0113/2, 0113/35 és 0118 helyrajzi számú ingatlanok, a Bük közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 145/3, 147/143, 182/49, 558, 571/1, 977, 1005, 1014, 1041, 1042/1, 1043, 1337/38, 1337/39, 1337/40, 1366/5, 1471/1, 1472/1, 1472/3, 1475/1, 1476, 1477, 1478, 1479/1, 1479/2, 1480, 1483, 1484/4, 1503, 1559, 1560, 1567, 1571, 1605 és külterület 04/38, 04/41, 04/44, 04/50, 04/56, 04/61, 06/6, 07/32, 07/35, 07/36, 011, 067, 071, 072, 078/2, 087/25, 087/29, 087/30, 087/32, 090, 092/11, 095/2, 096, 0117/1, 0124/2, 0129/1, 0129/34, 0156/3, 0193/2, 0195/3 és 0198/1 helyrajzi számú ingatlanok, valamint a Csepreg közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 021/2, 034/4, 034/13, 034/44, 034/50, 0198, 0199/7, 0199/14, 0200/1, 0200/2, 0201/1 helyrajzi számú ingatlanok. | Vas Vármegyei Kormányhivatalt vezető főispán |
+
 | 43. | Telephely bővítésére és fejlesztésére irányuló beruházás Foktő külterületén | Foktő közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 07/2 helyrajzi számú ingatlan. | Bács-Kiskun Vármegyei Kormányhivatalt vezető főispán |
 
 | 44. | Gyártóüzem építésére irányuló beruházás Sóskút külterületén | Sóskút közigazgatási területén elhelyezkedő, az ingatlan- nyilvántartás szerinti külterület 067/4 helyrajzi számú ingatlan | Pest Vármegyei Kormányhivatalt vezető főispán |
@@ -244,8 +246,10 @@
 
 | 113. | Okosgyár kialakítására irányuló beruházás Dunavecse város területén | Dunavecse város külterületén fekvő, az ingatlan-nyilvántartás szerinti 0254/3 helyrajzi számú ingatlan | Bács-Kiskun Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^339]
+| 114. | Mohács város szállodai kapacitásainak növelése a Szent János Hotel korszerűsítésével, bővítésével | Mohács belterület 1456/5, 1544, 1547/1, 1547/2, 2388/2, 2388/4, 2388/7, 3015/1, 3016 helyrajzi számú ingatlanok | Baranya Vármegyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^344]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^339]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^344]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

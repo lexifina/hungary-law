@@ -1,12 +1,12 @@
-## 6/C. §[^63] A 2. mellékletben foglalt táblázat 30. sora szerinti beruházás esetében a Kormány az 1. melléklet 1., 2. és 22. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+## 6/C. §[^64] A 2. mellékletben foglalt táblázat 30. sora szerinti beruházás esetében a Kormány az 1. melléklet 1., 2. és 22. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
 
-6/D. §[^64] (1) A 2. mellékletben foglalt táblázat 30. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:30 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
+6/D. §[^65] (1) A 2. mellékletben foglalt táblázat 30. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:30 mezőjében megjelölt telkekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos OTÉK előírásait a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
-b)[^65] ha a hatályos településrendezési terv és az OTÉK a beépítés (2)–(5) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni,
+b)[^66] ha a hatályos településrendezési terv és az OTÉK a beépítés (2)–(5) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni,
 
-c)[^66] ha az érintett települések településrendezési terveinek készítésére vagy módosítására sor kerül, az érintett területre a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 12. § (1) és (2) bekezdését, valamint 38. § (1)–(4) bekezdését nem kell alkalmazni.
+c)[^67] ha az érintett települések településrendezési terveinek készítésére vagy módosítására sor kerül, az érintett területre a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 12. § (1) és (2) bekezdését, valamint 38. § (1)–(4) bekezdését nem kell alkalmazni.
 
 (2) A 2. mellékletben foglalt táblázat B:30 mezőjében megjelölt telkeken a környezetre jelentős hatást nem gyakorló ipari és gazdasági tevékenységi célú építmények, különleges nagy kiterjedésű szállítmányozási, raktározási és logisztikai célú építmények, irodaépületek és azok kiszolgáló építményei helyezhetők el az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
@@ -40,7 +40,7 @@ b) autóbusz-várakozóhelyet nem kell biztosítani.
 
 (5) A 2. mellékletben foglalt táblázat B:30 mezőjében megjelölt telkeken a beruházással összefüggésben megvalósuló építmények között nem kell telepítési távolságot tartani, azok a telekhatárokon is csatlakozhatnak egymáshoz.
 
-[^63]: A 6/C. §-t a 299/2019. (XII. 10.) Korm. rendelet 1. §-a iktatta be, szövege a 196/2020. (V. 12.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^64]: A 6/D. §-t a 299/2019. (XII. 10.) Korm. rendelet 1. §-a iktatta be.
-[^65]: A 6/D. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § c) pontja szerint módosított szöveg.
-[^66]: A 6/D. § (1) bekezdés c) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § d) pontja szerint módosított szöveg.
+[^64]: A 6/C. §-t a 299/2019. (XII. 10.) Korm. rendelet 1. §-a iktatta be, szövege a 196/2020. (V. 12.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^65]: A 6/D. §-t a 299/2019. (XII. 10.) Korm. rendelet 1. §-a iktatta be.
+[^66]: A 6/D. § (1) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § c) pontja szerint módosított szöveg.
+[^67]: A 6/D. § (1) bekezdés c) pontja a 420/2021. (VII. 15.) Korm. rendelet 99. § d) pontja szerint módosított szöveg.
