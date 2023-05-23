@@ -1,0 +1,1 @@
+4. § A Záhony közúti határátkelőhely fejlesztését célzó beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint a beruházás kiemelten közérdekű beruházássá nyilvánításáról szóló 130/2021. (III. 17.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
