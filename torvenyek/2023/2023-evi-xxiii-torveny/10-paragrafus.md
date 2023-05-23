@@ -1,0 +1,3 @@
+10. § (1) Azon az IKT-terméken, IKT-szolgáltatáson vagy IKT-folyamatban, amely tanúsított, vagy amelynek tekintetében megfelelőségi nyilatkozatot állítottak ki, – az SZTFH elnökének vagy a 4. § (1) bekezdés b) pontja szerinti esetben a Kormány rendeletében meghatározott módon – nemzeti vagy európai kiberbiztonsági tanúsítási rendszer által előírt formában megfelelőségi jelölést kell elhelyezni.
+
+(2) Tilos az (1) bekezdés szerinti megfelelőségi jelölés jogosulatlan elhelyezése, valamint olyan jelölés elhelyezése, amely hasonlít a megfelelőségi jelölés formájára, vagy azt a látszatot kelti, hogy az IKT-termék, az IKT-szolgáltatás vagy az IKT-folyamat tanúsított, vagy annak vonatkozásában megfelelőségi nyilatkozatot állítottak ki, és így harmadik felet megtéveszthet.
