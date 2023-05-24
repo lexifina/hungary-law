@@ -1,3 +1,3 @@
-4. § Az R. 8. §-a helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„8. § Felhatalmazást kap a miniszter, hogy az állami vagyon felügyeletéért felelős miniszterrel egyetértésben az elővásárlási és a vételi jog gyakorlásának részletes szabályait rendeletben állapítsa meg.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

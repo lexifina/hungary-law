@@ -1,7 +1,3 @@
-6. § Az R.
+6. §[^7]
 
-a) 5. § (1) bekezdés záró szövegrészében az „állami vagyon felügyeletéért felelős miniszter a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság” szövegrész helyébe az „MNV Zrt.” szöveg,
-
-b) 7. § (2) bekezdésében az „a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság” szövegrész helyébe az „az MNV Zrt.” szöveg és az „építőanyag” szövegrész helyébe az „építőanyagnak” szöveg
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
