@@ -2,22 +2,22 @@
 
 a)
 
-b) 1. § (1) bekezdés 17a., 22a. és 24–24b. pontja,
+b)
 
 c)
 
-d) 2. § (6) és (8) bekezdése,
+d)
 
-e) III/A. Fejezete,
+e)
 
-f) 24. § (1) bekezdés b) pontjában a „ , valamint a tanúsító hatóság” szövegrész,
+f)
 
-g) 24. § (1) bekezdés o) és p) pontja,
+g)
 
-h) 24. § (1b) bekezdése,
+h)
 
-i) 24. § (2) bekezdés d) és e) pontja,
+i)
 
-j) 24. § (3) bekezdése,
+j)
 
-k) 30. §-a.
+k)
