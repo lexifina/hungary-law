@@ -1,5 +1,5 @@
 ## 1. Az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet módosítása
 
-1. § Az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet (a továbbiakban: R1.) 7. §-a a következő (20) bekezdéssel egészül ki:
+1. §[^2]
 
-„(20) E rendeletnek az egyes kormányrendeleteknek a Mohács 500 program keretében megvalósuló fejlesztésekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításával összefüggő módosításáról szóló 198/2023. (V. 22.) Korm. rendelettel (a továbbiakban: Módr12.) megállapított 1. melléklet 1.8.275. pontját a Módr12. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

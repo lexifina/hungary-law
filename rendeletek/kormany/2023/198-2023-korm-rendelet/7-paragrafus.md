@@ -1,1 +1,3 @@
-7. § Az R3. 1. § (9) bekezdésében a „2. melléklet 57. sora” szövegrész helyébe a „2. melléklet 57. és 93. sora” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
