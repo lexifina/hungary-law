@@ -1,3 +1,3 @@
-6. § Az Európai Unió brexit miatti kiigazításokra képzett Brexit Alkalmazkodási Tartalékból a magyar vállalkozások részére nyújtott támogatások igénylésének és a források felhasználásának részletes szabályairól szóló 733/2021. (XII. 20.) Korm. rendelet 20. §-a a következő (1a) bekezdéssel egészül ki:
+6. §[^7]
 
-„(1a) Ha egy személy összeférhetetlensége az (1) bekezdés a)–f) pontja vagy e rendelkezések tekintetében a (2) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni. Ezen személy az (1) és a (2) bekezdés szerinti ügyekben nem járhat el.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

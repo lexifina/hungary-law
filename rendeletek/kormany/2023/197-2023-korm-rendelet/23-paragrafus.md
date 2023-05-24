@@ -1,3 +1,3 @@
-23. § Az Európai Unió brexit miatti kiigazításokra képzett Brexit Alkalmazkodási Tartalékból a magyar vállalkozások részére nyújtott támogatások igénylésének és a források felhasználásának részletes szabályairól szóló 733/2021. (XII. 20.) Korm. rendelet 196. § (2) bekezdése helyébe a következő rendelkezés lép:
+23. §[^24]
 
-„(2) Az irányító hatóság az elbírálás határidejét egy alkalommal, legfeljebb harminc nappal meghosszabbíthatja.”
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-30. § Az Európai Unió brexit miatti kiigazításokra képzett Brexit Alkalmazkodási Tartalékból a magyar vállalkozások részére nyújtott támogatások igénylésének és a források felhasználásának részletes szabályairól szóló 733/2021. (XII. 20.) Korm. rendelet 216. § (2) bekezdése a következő e) ponttal egészül ki:
+30. §[^31]
 
-(Szabálytalanság megállapítása esetén az irányító hatóság)
+[^31]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

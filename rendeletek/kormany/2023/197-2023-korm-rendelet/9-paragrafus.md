@@ -1,3 +1,3 @@
-9. § Az Európai Unió brexit miatti kiigazításokra képzett Brexit Alkalmazkodási Tartalékból a magyar vállalkozások részére nyújtott támogatások igénylésének és a források felhasználásának részletes szabályairól szóló 733/2021. (XII. 20.) Korm. rendelet 23. §-a a következő (4a) bekezdéssel egészül ki:
+9. §[^10]
 
-„(4a) Ha a közreműködő szervezet összeférhetetlensége az (1) vagy a (2) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül, vagy annak kockázata vagy látszata objektíven fennáll, akkor a közreműködő szervezetet a (4) bekezdés szerint kell minősíteni.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

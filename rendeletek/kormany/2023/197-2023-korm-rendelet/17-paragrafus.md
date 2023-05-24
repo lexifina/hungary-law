@@ -1,3 +1,3 @@
-17. § Az Európai Unió brexit miatti kiigazításokra képzett Brexit Alkalmazkodási Tartalékból a magyar vállalkozások részére nyújtott támogatások igénylésének és a források felhasználásának részletes szabályairól szóló 733/2021. (XII. 20.) Korm. rendelet 78. § (1) bekezdés d) pontja helyébe a következő rendelkezés lép:
+17. §[^18]
 
-(Nem köthető támogatási szerződés azzal, aki)
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-3. § Az Európai Unió brexit miatti kiigazításokra képzett Brexit Alkalmazkodási Tartalékból a magyar vállalkozások részére nyújtott támogatások igénylésének és a források felhasználásának részletes szabályairól szóló 733/2021. (XII. 20.) Korm. rendelet 3. alcíme a következő 13/A. §-sal egészül ki:
+3. §[^4]
 
-„13/A. § Az irányító hatóságként eljáró szervezeti egységeket és az irányító hatóságot irányító helyettes államtitkárt a miniszter normatív utasításban jelöli ki.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

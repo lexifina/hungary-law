@@ -1,3 +1,3 @@
-10. § Az Európai Unió brexit miatti kiigazításokra képzett Brexit Alkalmazkodási Tartalékból a magyar vállalkozások részére nyújtott támogatások igénylésének és a források felhasználásának részletes szabályairól szóló 733/2021. (XII. 20.) Korm. rendelet 24. §-a a következő (4) bekezdéssel egészül ki:
+10. §[^11]
 
-„(4) A (2) bekezdés szerinti bejelentésről az irányító hatóság haladéktalanul tájékoztatja Belső Ellenőrzési és Integritási Igazgatóságot.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
