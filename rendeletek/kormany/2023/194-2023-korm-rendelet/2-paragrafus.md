@@ -1,3 +1,3 @@
-2. § A 141/2018. (VII. 27.) Korm. rendelet a következő 121. §-sal egészül ki:
+2. §[^3]
 
-„121. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 194/2023. (V. 22.) Korm. rendelettel (a továbbiakban: Módr113.) megállapított 3. § (2a) bekezdését, 5/R. §-át és 2. mellékletébenfoglalt táblázat 42a. sorát a Módr113. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
