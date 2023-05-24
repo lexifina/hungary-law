@@ -1,1 +1,3 @@
-2. § Az IM rendelet 1. mellékletében foglalt táblázat címében a „2022.” szövegrész helyébe a „2023.” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
