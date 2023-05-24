@@ -1,1 +1,3 @@
-5. § Az R2. 1. §-ában az „a szerencsejáték-felügyeleti, illetve a dohánytermék-kiskereskedelem felügyeletével kapcsolatos hatósági feladatokat” szövegrész helyébe az „a szerencsejáték-felügyeleti, a dohánytermék-kiskereskedelem felügyeletével, illetve a kiberbiztonsági tanúsítással kapcsolatos hatósági feladatokat” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
