@@ -1,1 +1,3 @@
-28. § Hatályát veszti az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról szóló 31/2022. (II. 14.) SZTFH rendelet.
+28. §[^1]
+
+[^1]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
