@@ -14,8 +14,10 @@
 
 ## e) egyetért azzal, hogy a 2. mellékletben foglalt táblázat G:2 mezőjében meghatározott, összesen legfeljebb 551 242 016 forint összegű, az európai uniós forrás terhére el nem számolható költség az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet [a továbbiakban: 590/2022. (XII. 28.) Korm. rendelet] 9. § (1) bekezdés f) pontja alapján Magyarország központi költségvetésének XIX. Uniós fejlesztések fejezetében az Emberi Erőforrás Fejlesztési Operatív Program hazai társfinanszírozáson felüli felhasználásával kerüljön finanszírozásra.
 
-## 2. Az Emberi Erőforrás Fejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1037/2016. (II. 9.) Korm. határozat 2. mellékletében foglalt táblázat D:39 mezőjében a „10,51” szövegrész helyébe a „9,89” szöveg lép.
+## 2.[^1]
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
 1. melléklet az 1204/2023. (V. 22.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
