@@ -1,0 +1,3 @@
+2. § A 4/2011. (I. 28.) Korm. rendelet 49. alcíme a következő 122/D. §-sal egészül ki:
+
+„122/D. § E rendeletnek az egyes fejlesztéspolitikai tárgyú kormányrendeletek, továbbá a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet módosításáról szóló 195/2023. (V. 22.) Korm. rendelettel [a továbbiakban: 195/2023. (V. 22.) Korm. rendelet] megállapított 101. § (4) bekezdését a 195/2023. (V. 22.) Korm. rendelet hatálybalépését megelőzően megkezdett és a 195/2023. (V. 22.) Korm. rendelet hatálybalépésekor még folyamatban lévő eljárásokban is alkalmazni kell.”
