@@ -1,3 +1,5 @@
+## 1X04658_0
+
 | IX. Helyi önkormányzatok támogatásai X. Igazságügyi Minisztérium XI. Miniszterelnökség XII. Agrárminisztérium XVII. Innovációs és Technológiai Minisztérium XVIII. Külgazdasági és Külügyminisztérium XX. Emberi Erőforrások Minisztériuma XLII. A költségvetés közvetlen bevételei és kiadásai XLVII. Gazdaság-újraindítási Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
 
 | Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/ határozat száma |
@@ -217,6 +219,8 @@
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
 
 2. melléklet az 1366/2021. (VI. 9.) Korm. határozathoz
+
+1X04660_0
 
 | XLVII. Gazdaság-újraindítási Alap ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
 

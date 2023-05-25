@@ -12,7 +12,7 @@
 
 ## Határidő: azonnal
 
-## 3. egyetért azzal, hogy a 2. pont szerint átcsoportosított előirányzat terhére külön pályázat és kérelem benyújtása nélkül – Nagykőrös Város Önkormányzata (a továbbiakban: Önkormányzat) ingatlanvásárlásának támogatása érdekében – 162 000 000 forint egyszeri összegű vissza nem térítendő egyedi támogatást nyújtson az Önkormányzat részére támogatási előlegként a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján;
+## 3.[^1] egyetért azzal, hogy a 2. pont szerint átcsoportosított előirányzat terhére külön pályázat és kérelem benyújtása nélkül – Nagykőrös Város Önkormányzata (a továbbiakban: Önkormányzat) ingatlanvásárlásának, útfelújításának és csapadékvíz-elvezetés építésének támogatása érdekében – 162 000 000 forint egyszeri összegű vissza nem térítendő egyedi támogatást nyújtson az Önkormányzat részére támogatási előlegként a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján;
 
 ## 4. egyetért azzal, hogy a belügyminiszter a 3. pont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa az Önkormányzat számára;
 
@@ -23,3 +23,5 @@
 ## Határidő: azonnal
 
 1. melléklet az 1366/2021. (VI. 9.) Korm. határozathoz
+
+[^1]: A 3. pont az 1207/2023. (V. 25.) Korm. határozat 2. pontja szerint módosított szöveg.
